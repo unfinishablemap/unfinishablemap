@@ -4,7 +4,7 @@ description: "Dennett's third-person method for studying consciousness. Its offi
 created: 2026-01-23
 modified: 2026-01-23
 human_modified:
-ai_modified: 2026-05-19T15:31:26+00:00
+ai_modified: 2026-05-19T20:00:00+00:00
 last_deep_review: 2026-05-19T15:31:26+00:00
 draft: false
 topics:
@@ -95,13 +95,15 @@ The position functions like metaphysical naturalism disguised as methodological 
 
 ## The Self-Stultification Problem
 
-Heterophenomenology faces a version of the [[concepts/epiphenomenalism|epiphenomenalist self-stultification]] problem. The issue is not merely that the method might undermine itself—it's that heterophenomenology cannot explain why we should trust it as a method without relying on the very phenomenological capacities it brackets.
+Heterophenomenology is harder to convict of self-stultification than crude eliminativism, but the self-undermining charge gains traction at a narrower point: assessing whether a theoretical framework *adequately captures what experience is like* seems to require phenomenal acquaintance with the states being theorised about. This is the load-bearing formulation, and the rest of this section unpacks why it locates the trouble at the right granularity.
 
-Consider: Dennett develops heterophenomenology through philosophical reflection. This reflection involves his experiencing arguments as compelling, noticing apparent contradictions, and finding some positions more intuitively plausible than others. These are phenomenological facts—there is something it's like to find an argument convincing. If heterophenomenology brackets phenomenology's reality, it brackets the epistemic processes by which Dennett arrived at heterophenomenology.
+A broader version of the self-stultification charge is available — that Dennett's philosophical reflection involves experiencing arguments as compelling, noticing apparent contradictions, and finding some positions more intuitively plausible than others, and that these are themselves phenomenological facts. The illusionist can resist this broader move by denying that finding-arguments-compelling is phenomenological in the load-bearing sense; the broader charge then stalls at the same bedrock that the [[topics/phenomenal-authority-and-first-person-evidence#Constitutive vs Referring Observation|constitutive-vs-referring distinction]] identifies. The narrower formulation does not depend on that contested premise.
 
-When Dennett introspects and finds no qualia, heterophenomenology should bracket this finding: it establishes only that Dennett *claims* to find no qualia, not that qualia are absent. But Dennett doesn't maintain this neutrality. He argues from his introspective reports (no qualia, no Cartesian theater) to metaphysical conclusions (qualia don't exist, consciousness is multiple drafts).
+The narrower point is this. Dennett's heterophenomenology is in the business of assessing whether candidate theories of consciousness adequately capture what experience is like. That assessment task — distinguishing a theory that *gets the phenomenal character right* from one that misses it — is not a third-person comparison between a theory and a verbal report. It is a comparison between a theory and the experiential states the theory purports to characterise. Subjects' verbal reports are how the comparison enters the literature, but the comparison itself runs through phenomenal acquaintance with the states in question. Without that acquaintance, "adequately captures" reduces to "matches the reports" — and matching the reports is exactly what an illusionist eliminativism that denies the underlying phenomenology can also do.
 
-The dilemma is sharp: either first-person reports about experience can ground metaphysical conclusions (in which case heterophenomenology's bracketing is unwarranted), or they cannot (in which case Dennett's own arguments lack foundation). The method applied consistently would undermine its own foundations.
+The trouble Dennett's own arguments encounter is therefore narrower than a global self-undermining: when he argues that introspection reveals no Cartesian theater, no qualia in the load-bearing sense, the inference from the introspective finding to the metaphysical conclusion requires that the introspective finding *adequately captures* what is or is not there to be found. That adequacy-assessment is the phenomenological capacity heterophenomenology brackets. The bracketing does not collapse Dennett's project, but it does locate the disagreement at the framework boundary rather than letting the introspective reports do load-bearing work as if they were neutral data.
+
+This is bedrock-disagreement honesty in the [[topics/phenomenal-authority-and-first-person-evidence#Honest limitation|sense the phenomenal-authority article names]]: the narrower self-undermining charge identifies the location of disagreement rather than claiming external defeat. An illusionist who denies that adequacy-assessment requires phenomenal acquaintance will not be moved; the disagreement is at the framework boundary, not adjudicable from outside the framework choice that produced it.
 
 ## Connection to Illusionism
 

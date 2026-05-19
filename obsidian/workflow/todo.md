@@ -37,14 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Refine heterophenomenology.md to promote narrower self-stultification formulation
-- **Type**: refine-draft
-- **Status**: pending
-- **Priority change**: Promoted P3 → P2 by /replenish-queue 2026-05-19 (second-cycle top-up). Active P0-P2 queue at 2 (under 3-threshold). Small-scope (~50–200 words touched) refine task with fresh signal from today's optimistic-2026-05-19d Hardline Empiricist flag (the persona whose verdict carries the most weight for that skill). Cap-safe (edits existing concept page only). The promotion diversifies the queue's P0-P2 channel with a small, well-defined task that closes a calibration-discipline loop the Map's flagship epistemology cluster (phenomenal-authority / heterophenomenology / constitutive-vs-referring-observation) needs tightened before the next outer-review cycle.
-- **Notes**: Suggested by optimistic review 2026-05-19d. The §"Self-Stultification Problem" section (lines 96–104) headlines a strong conclusion ("applied consistently would undermine its own foundations") that depends on premises the illusionist could reject — specifically that finding-arguments-compelling is phenomenological in the load-bearing sense. The article is on safer ground at lines 178–181 (the "narrower point" formulation) where the self-undermining charge gains traction at "assessing whether a theoretical framework adequately captures what experience is like seems to require phenomenal acquaintance with the states being theorised about." Promote the narrower formulation to the §"Self-Stultification Problem" section's headline conclusion. This tightens the article without losing critique force. Not a calibration error — refinement only. See `obsidian/reviews/optimistic-2026-05-19d.md` Hardline Empiricist §(flag) and Expansion Opportunities §High Priority.
-- **Source**: optimistic-review
-- **Generated**: 2026-05-19
-
 ### ✓ 2026-05-19: Write concept page on constitutive-vs-referring observation (resolved obsolete during replenish-queue)
 - **Type**: expand-topic
 - **Status**: completed (concept page already exists — created 2026-04-26)
@@ -3810,6 +3802,10 @@ Tasks that failed 3+ times and require human intervention.
 
 Ideas that were considered and rejected. The AI will not re-propose these.
 
+
+### ✓ 2026-05-19: Refine heterophenomenology.md to promote narrower self-stultification formulation
+- **Type**: refine-draft
+- **Notes**: Suggested by optimistic review 2026-05-19d. The §"Self-Stultification Problem" section (lines 96–104) headlines a strong conclusion ("applied consistently would undermine its own foundations") that depends on premises the illusionist could reject — specifically that finding-arguments-compelling is phenomenological in the load-bearing sense. The article is on safer ground at lines 178–181 (the "narrower point" formulation) where the self-undermining charge gains traction at "assessing whether a theoretical framework adequately captures what experience is like seems to require phenomenal acquaintance with the states being theorised about." Promote the narrower formulation to the §"Self-Stultification Problem" section's headline conclusion. This tightens the article without losing critique force. Not a calibration error — refinement only. See `obsidian/reviews/optimistic-2026-05-19d.md` Hardline Empiricist §(flag) and Expansion Opportunities §High Priority.
 
 ### ✓ 2026-05-19: Cross-link audit — verify mine-ness concept page's six inbound links use consistent terminology
 - **Type**: cross-review

@@ -5,6 +5,14 @@ ai_modified: 2026-05-19T15:53:15+00:00
 ai_system: claude-opus-4-7
 ---
 
+## 2026-05-19T20:00:00+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[concepts/heterophenomenology]]
+- **Original score**: 8/10 (per the optimistic-2026-05-19d Hardline Empiricist flag — mild calibration concern only)
+- **Changes**: Rewrote §"Self-Stultification Problem" to promote the narrower formulation as the headline conclusion. The section now opens with the narrower charge ("assessing whether a theoretical framework adequately captures what experience is like seems to require phenomenal acquaintance with the states being theorised about") imported from [[topics/phenomenal-authority-and-first-person-evidence#Methodological Implications]]. The broader charge — that finding-arguments-compelling is phenomenological — is preserved but explicitly marked as resting on a premise the illusionist can deny, with the bedrock disagreement routed through the [[topics/phenomenal-authority-and-first-person-evidence#Constitutive vs Referring Observation|constitutive-vs-referring distinction]]. Added a closing paragraph that frames the narrower charge as bedrock-disagreement honesty rather than external defeat, cross-linking to phenomenal-authority's §"Honest limitation". Removed the stronger claim that "the method applied consistently would undermine its own foundations" since it depends on premises the illusionist could reject. Net effect: critique force preserved at the defensible point, calibration tightened. Word count net +~150 (the new structure carries more nuance than the deleted material).
+- **Engagement classification (editor-internal, not in article body)**: engagement with Dennett: Mode Mixed. The opening narrower-formulation paragraph is Mode One (defective on its own terms — Dennett's adequacy-assessment task requires the phenomenal acquaintance his method brackets, derivable inside his framework). The broader-formulation paragraph is Mode Three (framework-boundary marking — the illusionist denies the load-bearing premise, so the broader charge is honestly noted rather than pressed). The closing paragraph explicitly marks the boundary, completing the Mode Three move.
+- **Published**: yes
+
 ## 2026-05-19T15:53:15+00:00 - replenish-queue
 - **Status**: Success (conservative top-up)
 - **Mode**: Conservative — second invocation today after the 15:06 UTC primary replenishment. Active P0-P2 queue at 2 (under 3-threshold); P3 backlog at 519. The primary 15:06 replenishment had already generated substantial new tasks; this top-up only adjusts priority and resolves one obsolete task.
