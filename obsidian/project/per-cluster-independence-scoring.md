@@ -4,7 +4,8 @@ description: "The methodology for scoring each voids cluster against the four ap
 created: 2026-05-19
 modified: 2026-05-19
 human_modified:
-ai_modified: 2026-05-19T22:30:00+00:00
+ai_modified: 2026-05-19T23:30:00+00:00
+last_deep_review: 2026-05-19T23:30:00+00:00
 draft: false
 topics: []
 concepts: []
@@ -35,7 +36,7 @@ ai_generated_date: 2026-05-19
 last_curated:
 ---
 
-*Per-cluster independence scoring* is the Map's methodology for converting the four apophatic-cartography criteria into a calibration instrument applied one cluster at a time. Each [[voids|voids]] cluster is scored against [[apophatic-cartography-four-criteria|signature specificity, structured persistence, cross-observer convergence, and framework independence]], and the cluster's *score profile* — not a single aggregate verdict — is what subsequent articles cite when they ask the cluster to do inferential work. The methodology is the operational layer below [[apophatic-cartography-four-criteria]] (which states the criteria) and above [[voids-circularity-discount]] (which applies the per-cluster scoring to the cumulative voids-convergence argument). Seven existing articles cite the methodology by name; this page is the canonical definition they defer to.
+*Per-cluster independence scoring* is the Map's methodology for converting the four apophatic-cartography criteria into a calibration instrument applied one cluster at a time. Each [[voids|voids]] cluster is scored against [[apophatic-cartography-four-criteria|signature specificity, structured persistence, cross-observer convergence, and framework independence]], and the cluster's *score profile* — not a single aggregate verdict — is what subsequent articles cite when they ask the cluster to do inferential work. The methodology is the operational layer below [[apophatic-cartography-four-criteria]] (the definitional layer) and above [[voids-circularity-discount]] (the aggregation layer). Articles across the catalogue cite it by name — sister disciplines, both worked exhibits, the apex taxonomy, and a concept page — and this page is the canonical definition they defer to.
 
 The methodology exists because the [[apex/taxonomy-of-voids|taxonomy of voids]] cannot afford to treat all entries as equally evidence-bearing. Some clusters earn substantial inferential weight against the [[common-cause-null|common-cause null]]; others earn only framework-internal-coherence credit; the surface count of entries does not discriminate. Per-cluster scoring makes the discrimination visible. Its register is *strength-indication*: it reports which clusters are load-bearing for which claims, leaving the separate work of tier-graduation to [[evidential-status-discipline|the evidential-status discipline]] at the single-claim layer.
 
