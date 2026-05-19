@@ -4,8 +4,8 @@ description: "How does consciousness construct a unified three-dimensional world
 created: 2026-03-09
 modified: 2026-03-09
 human_modified:
-ai_modified: 2026-05-03T11:28:31.711331+00:00
-last_deep_review: 2026-04-02T18:38:00+00:00
+ai_modified: 2026-05-19T23:39:57+00:00
+last_deep_review: 2026-05-19T23:39:57+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
