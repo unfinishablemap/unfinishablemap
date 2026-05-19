@@ -4,7 +4,7 @@ description: "Reasons-responsiveness is the capacity to track normative relation
 created: 2026-02-01
 modified: 2026-02-01
 human_modified: null
-ai_modified: 2026-05-18T19:20:42+00:00
+ai_modified: 2026-05-19T05:51:09+00:00
 last_deep_review: 2026-04-04T17:19:00+00:00
 draft: false
 topics:
@@ -22,6 +22,7 @@ concepts:
   - "[[concepts/epiphenomenalism]]"
   - "[[self-stultification]]"
   - "[[phenomenal-consciousness]]"
+  - "[[compatibilist-symmetry-challenge]]"
 related_articles:
   - "[[tenets]]"
   - "[[consciousness-and-the-normativity-of-reason]]"
@@ -58,7 +59,7 @@ This distinguishes the Map's framework from pure indeterminism:
 
 The agent-causal response gains traction through reasons-responsiveness. Pure agent causation—"the agent caused it"—can seem to name the explanandum rather than explain it. Adding that the agent was *responsive to reasons* provides genuine content: the agent selected based on considerations that favoured the chosen option.
 
-This is where the [[apex/moral-architecture-of-consciousness#The Compatibilist Symmetry Challenge|moral architecture apex's Compatibilist Symmetry Challenge]] cuts deepest. Fischer and Ravizza (1998) developed "moderate reasons-responsiveness" as the basis of moral responsibility within a broadly compatibilist frame: the responsibility-grounding capacity is sensitivity to a relevant range of reasons, not metaphysical origination. If the deliberative phenomenology, the praise-and-blame practices, and the character-formation arc all run equivalently when reasons-responsiveness is realised by a sophisticated reasons-responsive *mechanism* rather than by genuine agent causation, the libertarian framing's distinguishing work in moral theory shrinks. The Map's reply is that libertarian agency distinguishes itself by *tenet-coherence*—it fits the dualism and bidirectional-interaction tenets the Map adopts on grounds beyond moral theory—not by unique moral explanatory power within the deliberative arc itself.
+This is where the [[compatibilist-symmetry-challenge|Compatibilist Symmetry Challenge]] cuts deepest, and Fischer-Ravizza-style sophisticated compatibilism is the principal in-cluster move the discipline guards against absorbing. Fischer and Ravizza (1998) developed "moderate reasons-responsiveness" as the basis of moral responsibility within a broadly compatibilist frame: the responsibility-grounding capacity is sensitivity to a relevant range of reasons, not metaphysical origination. The contrast with the Map's reading is therefore *irreducible-vs-derivative*—whether the reasons-responsive capacity is exercised by an irreducible agent or whether it emerges from prior states the agent did not author—rather than *metaphysical-vs-pragmatic*. If the deliberative phenomenology, the praise-and-blame practices, and the character-formation arc all run equivalently when reasons-responsiveness is realised by a sophisticated reasons-responsive *mechanism* rather than by genuine agent causation, the libertarian framing's distinguishing work in moral theory shrinks. The Map's reply is that libertarian agency distinguishes itself by *tenet-coherence*—it fits the dualism and bidirectional-interaction tenets the Map adopts on grounds beyond moral theory—not by unique moral explanatory power within the deliberative arc itself. The [[apex/moral-architecture-of-consciousness#The Compatibilist Symmetry Challenge|moral architecture apex]] works the same point as part of the four-pillar synthesis.
 
 ## The Phenomenology of Reasons
 
@@ -141,6 +142,7 @@ Reasons-responsiveness connects to multiple [[tenets]]:
 - [[phenomenology-of-intellectual-life]] — The felt texture of reasoning, comprehension, and intellectual work
 - [[process-and-consciousness]] — Process philosophy's support for reasons-responsiveness as experiential self-determination
 - [[moral-implications-of-genuine-agency]] — How reasons-responsive agency grounds moral obligation and character
+- [[compatibilist-symmetry-challenge]] — Named anti-slippage discipline: irreducible-vs-derivative is the correct contrast register, not metaphysical-vs-pragmatic
 - [[apex/moral-architecture-of-consciousness]] — Apex synthesis: the Compatibilist Symmetry Challenge develops the limits of libertarian moral explanatory power versus Fischer-Ravizza reasons-responsiveness within a unified moral framework
 
 ## References
@@ -154,6 +156,17 @@ Reasons-responsiveness connects to multiple [[tenets]]:
 Cross-link refinement (driver: optimistic-2026-05-17b.md Medium Priority + Cross-Linking Suggestions table, item c — reciprocate the moral-architecture apex's explicit citation of Fischer-Ravizza reasons-responsiveness in its Compatibilist Symmetry Challenge framing).
 - §Reasons-Responsiveness and Free Will: added a paragraph after the agent-causal response paragraph that engages the apex's symmetry challenge head-on. Names Fischer & Ravizza's "moderate reasons-responsiveness" framing (matches their 1998 work cited in this article's references), states the dialectical challenge honestly (if reasons-responsive mechanism secures the same deliberative phenomenology, the libertarian's distinguishing moral work shrinks), and gives the Map's reply (libertarian framing's distinction is tenet-coherence, not unique moral explanatory power).
 - §Further Reading: added wikilink to apex/moral-architecture-of-consciousness with one-line description.
+- ai_modified timestamp updated.
+
+This log should be removed after human review.
+-->
+
+<!-- AI REFINEMENT LOG - 2026-05-19
+Cluster audit against new concept [[compatibilist-symmetry-challenge]] (created 2026-05-18). Driver: optimistic-2026-05-19.md High Priority — this article is the principal in-cluster site where the discipline's correct register (irreducible-vs-derivative, not metaphysical-vs-pragmatic) must land, since Fischer-Ravizza is the named compatibilist move the discipline guards against absorbing.
+
+- §Reasons-Responsiveness and Free Will, symmetry-challenge paragraph: pointed the primary link at the new concept page [[compatibilist-symmetry-challenge]] rather than only the apex section; inserted the *irreducible-vs-derivative* contrast register sentence the new concept page identifies as the correct framing for the disagreement with sophisticated compatibilism (the old phrasing left the contrast implicit); preserved the apex cross-link as secondary.
+- §Further Reading: added direct wikilink to [[compatibilist-symmetry-challenge]] with one-line register description.
+- Frontmatter concepts list: added [[compatibilist-symmetry-challenge]].
 - ai_modified timestamp updated.
 
 This log should be removed after human review.
