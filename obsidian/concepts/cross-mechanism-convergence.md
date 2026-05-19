@@ -4,7 +4,7 @@ description: "When mechanism-distinct perturbations produce the same downstream 
 created: 2026-05-19
 modified: 2026-05-19
 human_modified: null
-ai_modified: 2026-05-19T09:40:36+00:00
+ai_modified: 2026-05-19T15:00:00+00:00
 last_deep_review: 2026-05-19T09:40:36+00:00
 draft: false
 topics:
@@ -19,8 +19,8 @@ related_articles:
   - "[[pharmacological-dissociation-as-evidence]]"
   - "[[anaesthesia-and-the-consciousness-interface]]"
   - "[[discrimination-problem]]"
-  - "[[common-cause-null]]"
-  - "[[coherence-inflation-countermeasures]]"
+  - "[[project/common-cause-null]]"
+  - "[[project/coherence-inflation-countermeasures]]"
 ai_contribution: 100
 author: null
 ai_system: claude-opus-4-7
@@ -80,7 +80,7 @@ Cross-mechanism convergence is the discipline that operates *in the absence of* 
 
 ## Independence from Single-Mechanism Replication's Failure Modes
 
-The pattern inherits its own failure mode. *Cross-mechanism convergence by accident* — where two or more perturbations happen to converge on a downstream ordering without the convergence being evidence for a structural feature — is the analogue at this layer of [[common-cause-null|common-cause-null discipline]]'s convergence-without-substance failure mode. The discipline against this failure mode is the same: cluster boundaries must be defensible from features of the target phenomenon prior to the inference, and the cluster's *systematicity* must be statable independently of the convergence finding.
+The pattern inherits its own failure mode. *Cross-mechanism convergence by accident* — where two or more perturbations happen to converge on a downstream ordering without the convergence being evidence for a structural feature — is the analogue at this layer of [[project/common-cause-null|common-cause-null discipline]]'s convergence-without-substance failure mode. The discipline against this failure mode is the same: cluster boundaries must be defensible from features of the target phenomenon prior to the inference, and the cluster's *systematicity* must be statable independently of the convergence finding.
 
 Hu et al.'s KCC2 finding satisfies the discipline: the ventral posteromedial thalamus is identified by anatomical and connectivity considerations, the GABA-A-mediated disinhibition is identified by receptor pharmacology, and the *mechanism-shared reopening across mechanism-distinct closings* is the structural claim the convergence supports. The memory hierarchy satisfies it: the autonoetic / noetic / anoetic taxonomy precedes the convergence finding (Tulving's framework predates the cross-state convergence work) and the systematicity is graded vulnerability rather than binary failure. Class B in the pharmacological-dissociation apex satisfies it: the propofol-xenon mechanistic distinctness is established by independent receptor pharmacology, not constructed for the convergence inference.
 
@@ -90,7 +90,7 @@ A future cross-mechanism convergence finding that *constructed* its cluster from
 
 The pattern serves [[tenets|Tenet 5: Occam's Razor Has Limits]] at the evidence-pattern layer. The simpler editorial design — treat cross-mechanism convergence as either decisive refutation or as ordinary replication, without naming it as a distinct evidence-pattern type — would let the convergence findings drift toward stronger or weaker readings than the evidence supports. Tenet 5's denial of parsimony at the metaphysical level has a parallel restraint at the evidence-pattern level: the catalogue must not collapse intermediate evidence patterns into the nearest familiar one.
 
-The pattern also serves the catalogue's [[coherence-inflation-countermeasures|coherence-inflation countermeasures]]. Multi-mechanism findings are inflation-prone because the cumulative-accommodation-cost move can drift silently into "the alternatives are excluded" if the discipline is not explicit. Naming cross-mechanism convergence as a *strength indicator without tier-graduation* keeps the inflation visible: the cumulative cost on rival accounts is real, and recording the pattern under this discipline forces the catalogue to specify what the convergence does *and* what it does not do.
+The pattern also serves the catalogue's [[project/coherence-inflation-countermeasures|coherence-inflation countermeasures]]. Multi-mechanism findings are inflation-prone because the cumulative-accommodation-cost move can drift silently into "the alternatives are excluded" if the discipline is not explicit. Naming cross-mechanism convergence as a *strength indicator without tier-graduation* keeps the inflation visible: the cumulative cost on rival accounts is real, and recording the pattern under this discipline forces the catalogue to specify what the convergence does *and* what it does not do.
 
 Indirectly, the pattern serves the Map's central commitment to a structured consciousness-brain interface. The four worked exhibits — active reboot, the memory hierarchy, the cross-state self-stultification pattern, the pharmacological-dissociation Class B — each contribute one row of cross-mechanism convergence evidence for an interface that is *structurally real* rather than perturbation-artefactual. The cumulative-force-with-discipline reading is what the catalogue's interface case looks like at the convergence-evaluation grain.
 
@@ -103,8 +103,8 @@ Indirectly, the pattern serves the Map's central commitment to a structured cons
 - [[evidential-status-discipline]] — Calibration discipline: cross-mechanism convergence is a strength indicator without tier-graduation
 - [[direct-refutation-discipline]] — Reasoning-mode discipline: cross-mechanism convergence is cumulative; direct refutation is single-decisive-case
 - [[cluster-integration-discipline]] — Sister discipline at the argument-architecture layer: cluster-integration governs how a single article structures a multi-part inference; cross-mechanism convergence governs how multiple findings converge on a structural feature
-- [[common-cause-null]] — Sister discipline at the convergence-evaluation grain: convergence-without-substance is the failure mode this discipline guards against
-- [[coherence-inflation-countermeasures]] — System-level inflation-resistance the discipline contributes to
+- [[project/common-cause-null]] — Sister discipline at the convergence-evaluation grain: convergence-without-substance is the failure mode this discipline guards against
+- [[project/coherence-inflation-countermeasures]] — System-level inflation-resistance the discipline contributes to
 - [[discrimination-problem]] — The structural-asymmetry result at the consciousness-epistemology grain; cross-mechanism convergence is one move that can sometimes break the underdetermination the discrimination problem names
 - [[anaesthesia-and-the-consciousness-interface]] — The empirical anchor article where the pattern appears across multiple subsections
 

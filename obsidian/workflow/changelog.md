@@ -1,9 +1,24 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-19T12:07:29+00:00
+ai_modified: 2026-05-19T15:00:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-05-19T15:00:00+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[concepts/cross-mechanism-convergence]]
+- **Driver**: Promotion-time verification (2026-05-19) flagged two wikilinks resolving to non-existent paths at the concept-tier slug. Both targets exist under `obsidian/project/`, not `obsidian/concepts/`. Refine rewrites wikilink targets and installs reciprocal cross-references.
+- **Changes**:
+  - `concepts/cross-mechanism-convergence.md`: rewrote `[[common-cause-null]]` → `[[project/common-cause-null]]` and `[[coherence-inflation-countermeasures]]` → `[[project/coherence-inflation-countermeasures]]` across three referencing locations (frontmatter `related_articles`, §"Failure Mode: Convergence-by-Accident" body prose, §"Relation to Site Perspective" body prose, and §"Further Reading"). The discipline-pair framing ("sister discipline at the convergence-evaluation grain", "system-level inflation-resistance the discipline contributes to") preserved as load-bearing for the article's positioning in the project's methodology cluster.
+  - `project/common-cause-null.md`: installed reciprocal cross-link in `related_articles` frontmatter and §"Further Reading" — characterised cross-mechanism-convergence as sister discipline at the convergence-evaluation grain (common-cause null operates over *traditions* converging on a signature; cross-mechanism convergence operates over *mechanism-distinct perturbations* converging on a downstream ordering; both share the convergence-by-accident failure mode and the independence-prior-to-inference requirement).
+  - `project/coherence-inflation-countermeasures.md`: installed reciprocal cross-link in `concepts` and `related_articles` frontmatter and §"Further Reading" — characterised cross-mechanism-convergence as sister discipline supplying cumulative-accommodation-cost on rival readings without tier-graduation, contributing to the system-level inflation-resistance the countermeasures aggregate.
+  - `project/coherence-inflation-countermeasures.md`: removed `<!-- AI REFINEMENT LOG - 2026-05-18 -->` HTML-comment block (per refine-draft Section 8 — article body is LLM-reader-visible via the canonical-domain pipeline; editor-vocabulary belongs in the changelog, not embedded in articles). The 2026-05-19 cleanup pass removed 65 such blocks corpus-wide; this is one residual carrier that escaped the sweep.
+- **Tenet alignment**: methodological — the discipline-articulation cluster is the project's methodology layer. The reciprocal-link installation strengthens the cluster's lattice without disturbing the calibration discipline; the wikilink-target fix is mechanical link-hygiene.
+- **Evidential-status discipline**: tier register unchanged. The discipline-pair characterisations land at *strength-indicator-without-tier-graduation* level, matching the source article's calibration.
+- **Engagement classification (editor-internal, not in article body)**: No named-opponent engagements introduced. Reciprocal cross-links characterise sister disciplines, not opponent positions. No mode classification required.
+- **Scope**: ~120 words touched across three files (mostly wikilink target rewrites + 2 reciprocal cross-link additions + 1 HTML-comment block removal).
+- **Published**: yes
 
 ## 2026-05-19T12:07:29+00:00 - deep-review (cross-review chain — backlink installation)
 - **Status**: Success

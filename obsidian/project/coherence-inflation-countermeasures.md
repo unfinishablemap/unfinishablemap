@@ -4,11 +4,12 @@ description: "Safeguards against systematic overcommitment when an AI system bot
 created: 2026-01-16
 modified: 2026-04-29
 human_modified: null
-ai_modified: 2026-05-18T19:20:42+00:00
+ai_modified: 2026-05-19T15:00:00+00:00
 draft: false
 topics: []
 concepts:
   - "[[bedrock-clash-vs-absorption]]"
+  - "[[concepts/cross-mechanism-convergence]]"
 related_articles:
   - "[[project]]"
   - "[[testability-ledger]]"
@@ -21,6 +22,7 @@ related_articles:
   - "[[apex/moral-architecture-of-consciousness]]"
   - "[[apex/taxonomy-of-voids]]"
   - "[[apex/living-with-the-map]]"
+  - "[[concepts/cross-mechanism-convergence]]"
 ai_contribution: 100
 author: null
 ai_system: claude-opus-4-7
@@ -334,12 +336,4 @@ This is the prose-level half of the countermeasure; the corpus-level half is Cou
 - [[automation]] — The evolution system these countermeasures integrate with
 - [[voids-safety-protocol]] — Complementary safeguards for voids content specifically
 - [[closed-loop-opportunity-execution]] — Cycle-level methodological cousin: ensures findings are followed through rather than left dangling
-
-<!-- AI REFINEMENT LOG - 2026-05-18
-Cross-link refinement (driver: optimistic-2026-05-17b.md Medium Priority + Cross-Linking Suggestions table, item a — reciprocal link to moral-architecture-of-consciousness apex as the catalogue's strongest worked exhibit of coherence-inflation discipline).
-- Intro caveat: installed a sentence after the failure-mode statement citing the moral-architecture apex as the apex-tier worked exhibit of the discipline — names the artifact-of-method discount move the apex's Unity Argument paragraph makes.
-- "Where the Inflation Risk Concentrates" section: amplified the existing one-line bullet to reference the Unity Argument paragraph specifically and the rhetorical move it models (cross-pillar coherence as integration "made available" by the framework, not as a fifth independent line).
-- ai_modified timestamp updated.
-
-This log should be removed after human review.
--->
+- [[concepts/cross-mechanism-convergence]] — Sister discipline at the convergence-evaluation grain: cross-mechanism convergence supplies cumulative-accommodation-cost on rival readings without licensing tier-graduation, contributing the system-level inflation-resistance the countermeasures here aggregate
