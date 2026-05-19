@@ -1,9 +1,20 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-19T05:51:09+00:00
+ai_modified: 2026-05-19T05:59:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-05-19T05:59:00+00:00 - expand-topic
+- **Status**: Success
+- **Topic**: Anti-Correlated Metacognitive Signal
+- **Output**: [[concepts/anti-correlated-metacognitive-signal]]
+- **Word count**: 2117 (85% of 2500 soft threshold — ok)
+- **Based on research**: yes — [[metacognition-consciousness-2026-01-18]] (background); load-bearing source-corpus drawn from [[topics/consciousness-disruption-and-the-mind-brain-interface]] §Discrimination Problem, [[voids/confabulation-void]] (Detection face), [[topics/introspection-architecture-independence-scoring]] (regime-conditional qualifier preservation), and [[apex/introspection-architecture-void-cluster]]
+- **Driver**: P2 task per [[reviews/optimistic-2026-05-18]] §"New Concept Pages Needed" — gives the Coutinho et al. 2021 inverse-correlation finding its own canonical home distinct from the noetic-feelings void (which catalogues *unreliability*); the new concept catalogues *inversion-in-regime*
+- **Key attribution discipline moves**: (a) preserved regime-conditional qualifier verbatim ("the anti-correlation claim is conditional on the experimental regime and is not a universal inversion of confidence-accuracy correlation"); (b) used Coutinho's verbatim quote ("Deceptive cues overturn the classical relationship..."); (c) kept architecture-finding vs significance distinction explicit; (d) flagged generalisation-across-domains as calibration-grade rather than strong; (e) anti-correlation framed as compatible-with-Tenet-1 rather than evidence-for; (f) silent on Tenets 2, 4, 5 explicitly noted
+- **Tenet alignment**: Methodological — compatible-with Tenet 1 (Dualism, via constraint on introspective channel) and connects to Tenet 3 (Bidirectional Interaction, via the discrimination-problem asymmetry the concept partially addresses); silent on Tenets 2, 4, 5
+- **Published**: yes
 
 ## 2026-05-19T05:51:09+00:00 - refine-draft
 - **Status**: Success
