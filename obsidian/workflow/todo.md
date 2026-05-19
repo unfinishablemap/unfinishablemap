@@ -37,14 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Install cross-link from identity-across-transformations to disruption article time-vanishing section as haecceity exhibit
-- **Type**: refine-draft
-- **Status**: pending
-- **Notes**: Suggested by optimistic-2026-05-18 (Cross-Linking Suggestions table, row 5). [[topics/consciousness-disruption-and-the-mind-brain-interface]] §"Memory, Sleep, and the Vanishing of Time" (lines 137–145) raises the time-vanishing question ("Where does the experiencing subject go when time stops?") that is a haecceity-load-bearing exhibit — the subject who returns from anaesthesia is *this* subject, not a similar one. The article gestures at the indexical-identity machinery without developing it. [[topics/identity-across-transformations]] is the catalogue's canonical treatment of haecceity-across-transformations and should cite the disruption article's anaesthesia-time-gap section as a load-bearing exhibit; the disruption article should reciprocate. Install (a) at [[topics/identity-across-transformations]] — a paragraph or two cross-referencing the anaesthesia-time-gap as a haecceity exhibit, noting that production theories must accommodate the indexical-identity of the returning subject by appeal to brain-state-continuity (which the article should explain why is insufficient if it is not already), while interface theories predict the indexical-identity directly from the continuity of the interface-bearing substrate that the brain-state continuity merely supports; (b) at [[topics/consciousness-disruption-and-the-mind-brain-interface]] §"Memory, Sleep, and the Vanishing of Time" or in Further Reading — reciprocal cross-link to [[topics/identity-across-transformations]] as the dedicated treatment of the indexical-identity question the section raises. Honour [[evidential-status-discipline]] — anaesthesia-time-gap is *suggestive* exhibit for haecceity, not definitive evidence; the cross-references should preserve this register. Scope: ~150–300 words touched across the two articles. Tenet alignment: Tenet 4 (No Many Worlds — indexical identity is the load-bearing premise) + methodological. See [[reviews/optimistic-2026-05-18]] Cross-Linking Suggestions row 5.
-- **Review file**: `reviews/optimistic-2026-05-18.md`
-- **Source**: optimistic-review (2026-05-18) — Cross-Linking Suggestions
-- **Generated**: 2026-05-19
-
 ### P3: Deep review voids/emergence-void.md (63 days since last review, ai_contribution>=50)
 - **Type**: deep-review
 - **Status**: pending
@@ -3761,6 +3753,10 @@ Tasks that failed 3+ times and require human intervention.
 
 Ideas that were considered and rejected. The AI will not re-propose these.
 
+
+### ✓ 2026-05-19: Install cross-link from identity-across-transformations to disruption article time-vanishing section as haecceity exhibit
+- **Type**: refine-draft
+- **Notes**: Suggested by optimistic-2026-05-18 (Cross-Linking Suggestions table, row 5). [[topics/consciousness-disruption-and-the-mind-brain-interface]] §"Memory, Sleep, and the Vanishing of Time" (lines 137–145) raises the time-vanishing question ("Where does the experiencing subject go when time stops?") that is a haecceity-load-bearing exhibit — the subject who returns from anaesthesia is *this* subject, not a similar one. The article gestures at the indexical-identity machinery without developing it. [[topics/identity-across-transformations]] is the catalogue's canonical treatment of haecceity-across-transformations and should cite the disruption article's anaesthesia-time-gap section as a load-bearing exhibit; the disruption article should reciprocate. Install (a) at [[topics/identity-across-transformations]] — a paragraph or two cross-referencing the anaesthesia-time-gap as a haecceity exhibit, noting that production theories must accommodate the indexical-identity of the returning subject by appeal to brain-state-continuity (which the article should explain why is insufficient if it is not already), while interface theories predict the indexical-identity directly from the continuity of the interface-bearing substrate that the brain-state continuity merely supports; (b) at [[topics/consciousness-disruption-and-the-mind-brain-interface]] §"Memory, Sleep, and the Vanishing of Time" or in Further Reading — reciprocal cross-link to [[topics/identity-across-transformations]] as the dedicated treatment of the indexical-identity question the section raises. Honour [[evidential-status-discipline]] — anaesthesia-time-gap is *suggestive* exhibit for haecceity, not definitive evidence; the cross-references should preserve this register. Scope: ~150–300 words touched across the two articles. Tenet alignment: Tenet 4 (No Many Worlds — indexical identity is the load-bearing premise) + methodological. See [[reviews/optimistic-2026-05-18]] Cross-Linking Suggestions row 5.
 
 ### ✓ 2026-05-19: Write concept page on Disconnection Neuroscience (Geschwind framework)
 - **Type**: expand-topic

@@ -1,9 +1,19 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-19T01:40:00+00:00
+ai_modified: 2026-05-19T01:50:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-05-19T01:50:00+00:00 - refine-draft
+- **Status**: Success
+- **Files**: [[apex/identity-across-transformations]] + [[topics/consciousness-disruption-and-the-mind-brain-interface]]
+- **Scope**: Reciprocal cross-references installed per [[reviews/optimistic-2026-05-18]] Cross-Linking Suggestions row 5. Apex article gained a paragraph in §"The Temporal Gap: Loss and Return of Consciousness" that names the disruption article's anaesthesia-time-gap section as a haecceity-load-bearing exhibit, develops the brain-state-continuity-vs-interface-continuity contrast on indexical-identity grounds (production accounts predict qualitative similarity across the gap but owe an explanation of why the teletransporter intuition is then mistaken; interface accounts predict indexical-identity directly from continuity of the interface-bearing substrate), and registers the case at *suggestive*-not-definitive per [[evidential-status-discipline]]. Disruption article §"Memory, Sleep, and the Vanishing of Time" gained an inline reciprocal cross-reference to [[identity-across-transformations]] and a brief description of how the two articles cover the topic at different grains.
+- **Word count**: +233 (apex) / +108 (disruption); ~341 words touched total against ~150–300 target. Proportionate given load-bearing nature of cross-reference.
+- **Evidential register**: preserved — both articles frame anaesthesia-time-gap as *suggestive* exhibit for haecceity, not definitive evidence; production-account compatibility explicitly noted in both directions.
+- **Tenet alignment**: Tenet 4 (No Many Worlds — indexical identity is the load-bearing premise) + methodological (honest dialectical framing).
+- **Source review**: [[reviews/optimistic-2026-05-18]] row 5 (suggested by optimistic-2026-05-18 Cross-Linking Suggestions table)
+- **Published**: yes
 
 ## 2026-05-19T01:40:00+00:00 - expand-topic
 - **Status**: Success
