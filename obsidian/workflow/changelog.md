@@ -1,9 +1,19 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-19T14:30:00+00:00
+ai_modified: 2026-05-19T12:01:19+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-05-19T12:01:19+00:00 - deep-review
+- **Status**: Success
+- **File**: [[concepts/semantic-memory]]
+- **Word count**: 3123 → 3123 (no change; length-neutral mode at 125% of 2500 soft threshold)
+- **Critical issues addressed**: 0 (none found — attributions, qualifiers, source/Map separation, internal consistency, and possibility/probability calibration all PASS; quantum-interaction claims hedged at "may involve / could involve" tier without tenet-driven upgrade)
+- **Medium issues addressed**: 0 (none found)
+- **Enhancements made**: 0 (article stable across five reviews; previous review declared full stability and predicted no future changes absent new research, framework changes, or coalesce-induced link breakage — none of these triggered this cycle)
+- **Engagement classification (editor-internal, not in article body)**: Two named-opponent engagements — Illusionism (Dennett, Frankish) is Mixed Mode One + Mode Two (regress and introspection-intensifies arguments operate inside illusionism's own commitments; functional-asymmetry argument invokes the opponent's evolutionary commitments to representation-tracking); LLM/computational-equivalence is Mode Three (framework-boundary marking, honestly declared as bedrock at the tenet boundary). No boundary-substitution; no label leakage; no editor-vocabulary in prose.
+- **Output**: [[reviews/deep-review-2026-05-19-semantic-memory]]
 
 ## 2026-05-19T14:30:00+00:00 - deep-review
 - **Status**: Success
