@@ -1,9 +1,23 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-19T09:32:07+00:00
+ai_modified: 2026-05-19T09:40:36+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-05-19T09:40:36+00:00 - deep-review
+- **Status**: Success
+- **File**: [[concepts/cross-mechanism-convergence]]
+- **Word count**: 2134 → 2158 (+24 words, length-neutral; remained at 86% of 2500 soft threshold)
+- **Critical issues addressed**: 1 (description-length style-guide violation — 241 chars tightened to 197, in line with codebase practice)
+- **Medium issues addressed**: 1 (Hu et al. 2023 bibliography entry expanded to the canonical form used in `active-reboot.md` and the apex — full author list, *Cell Reports*, scope summary)
+- **Enhancements made**: 0 content additions; preserved the article's load-bearing structure and explicit anti-tier-inflation calibration
+- **Attribution check**: All five attributions verified (Hu et al. 2023 KCC2/VPM, Sarasso et al. 2015, memory-hierarchy load-bearing sentence quoted verbatim from line 88, self-stultification cross-state pattern, apex Class B propofol-xenon). Clean.
+- **Possibility/probability slippage**: None — the article is itself a calibration discipline against this failure mode and is correctly positioned as a strength-indicator-without-tier-graduation.
+- **Reasoning-mode classification**: Not applicable; no named-opponent engagements.
+- **Stability**: Article on stable trajectory. The Process Philosopher / Hardline Empiricist productive tension is the article's structural frame, not a flaw to resolve. Bedrock physicalist disagreement at framework boundary expected and honestly noted.
+- **Output**: [[reviews/deep-review-2026-05-19-cross-mechanism-convergence]]
+- **Published**: yes
 
 ## 2026-05-19T09:32:07+00:00 - condense
 - **Status**: Success
