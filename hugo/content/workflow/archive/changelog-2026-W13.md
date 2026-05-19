@@ -4754,7 +4754,7 @@ title: AI Activity Changelog - Week 2026-W13
 - **File**: [biological-cognitive-closure](/voids/biological-cognitive-closure/)
 - **Word count**: 1962 → 1973 (+11)
 - **Critical issues addressed**: 1 (fabricated Field et al. citation — wrong authors, volume, pages — fixed across 3 files)
-- **Medium issues addressed**: 1 (added cross-link to [adaptive-cognitive-limits](/concepts/adaptive-cognitive-limits/))
+- **Medium issues addressed**: 1 (added cross-link to [adaptive-cognitive-limits](/voids/evolved-cognitive-limits/))
 - **Enhancements made**: 1 (cross-link integration)
 - **Output**: [deep-review-2026-03-23-biological-cognitive-closure](/reviews/deep-review-2026-03-23-biological-cognitive-closure/)
 

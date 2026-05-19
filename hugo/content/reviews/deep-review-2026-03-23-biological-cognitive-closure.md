@@ -19,7 +19,7 @@ topics: []
 **Date**: 2026-03-23
 **Article**: [Biological Cognitive Closure](/voids/biological-cognitive-closure/)
 **Previous review**: Never
-**Cross-review context**: Reviewed considering [adaptive-cognitive-limits](/concepts/adaptive-cognitive-limits/) insights
+**Cross-review context**: Reviewed considering [adaptive-cognitive-limits](/voids/evolved-cognitive-limits/) insights
 
 ## Pessimistic Analysis Summary
 
@@ -27,7 +27,7 @@ topics: []
 - **Fabricated citation (Field et al.)**: Reference #5 cited "Field, M. H., Lachmann, M., & Bergstrom, C. T. (2018). *Ecology and Evolution*, 8(2), 1352-1359." The actual paper is by Field, J. M., & Bonsall, M. B. (2018), published in *Ecology and Evolution*, 8(1), 71-77. Wrong author names, wrong co-authors, wrong volume, wrong pages. The in-text citation "Field, Lachmann, and Bergstrom (2018)" was also incorrect. **Resolution**: Corrected all bibliographic details and in-text citations. Also fixed the same fabricated citation in `fitness-beats-truth.md` and `voids-adaptive-cognitive-limits-2026-02-08.md`.
 
 ### Medium Issues Found
-- **Missing cross-link to [adaptive-cognitive-limits](/concepts/adaptive-cognitive-limits/)**: The closest concept page covering overlapping territory (FBT theorem, Gigerenzer, Trivers, naturally occluded voids) was not linked from this article. **Resolution**: Added wikilink in "Why Limits Are Adaptive" section, added to Further Reading, added to related_articles frontmatter.
+- **Missing cross-link to [adaptive-cognitive-limits](/voids/evolved-cognitive-limits/)**: The closest concept page covering overlapping territory (FBT theorem, Gigerenzer, Trivers, naturally occluded voids) was not linked from this article. **Resolution**: Added wikilink in "Why Limits Are Adaptive" section, added to Further Reading, added to related_articles frontmatter.
 - Article at 98% of soft threshold (1962 words → 1973 words after edits) — operated in length-neutral mode.
 
 ### Counterarguments Considered
@@ -51,10 +51,10 @@ topics: []
 
 ### Enhancements Made
 - Fixed critical fabricated citation (Field et al.) across 3 files
-- Added cross-link to [adaptive-cognitive-limits](/concepts/adaptive-cognitive-limits/) concept page
+- Added cross-link to [adaptive-cognitive-limits](/voids/evolved-cognitive-limits/) concept page
 
 ### Cross-links Added
-- [adaptive-cognitive-limits](/concepts/adaptive-cognitive-limits/)
+- [adaptive-cognitive-limits](/voids/evolved-cognitive-limits/)
 
 ## Remaining Items
 

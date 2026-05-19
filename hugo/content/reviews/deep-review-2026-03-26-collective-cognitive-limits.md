@@ -19,7 +19,7 @@ topics: []
 **Date**: 2026-03-26
 **Article**: [Collective Cognitive Limits](/voids/collective-cognitive-limits/)
 **Previous review**: [2026-03-16](/reviews/deep-review-2026-03-16-collective-cognitive-limits/)
-**Review type**: Cross-review considering [Adaptive Cognitive Limits](/concepts/adaptive-cognitive-limits/)
+**Review type**: Cross-review considering [Adaptive Cognitive Limits](/voids/evolved-cognitive-limits/)
 
 ## Pessimistic Analysis Summary
 
@@ -56,7 +56,7 @@ None. Article was previously declared converged (2026-03-16). This cross-review 
 - Tightened prose in Collective Void paragraph and AI section to offset additions
 
 ### Cross-links Added
-- [adaptive-cognitive-limits](/concepts/adaptive-cognitive-limits/)
+- [adaptive-cognitive-limits](/voids/evolved-cognitive-limits/)
 
 ## Word Count
 

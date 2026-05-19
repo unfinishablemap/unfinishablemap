@@ -61,7 +61,7 @@ None. The article has been through four review passes (2026-01-17, 2026-02-23, 2
 2. Fixed frontmatter categorization: moved voids from `concepts:` to `related_articles:`, added `adaptive-cognitive-limits`
 
 ### Cross-links Added
-- [adaptive-cognitive-limits](/concepts/adaptive-cognitive-limits/) (frontmatter concepts, replacing three void entries that were miscategorized)
+- [adaptive-cognitive-limits](/voids/evolved-cognitive-limits/) (frontmatter concepts, replacing three void entries that were miscategorized)
 
 ## Word Count
 

@@ -71,7 +71,7 @@ None. Fourth review confirms no factual errors, misattributions, or structural p
 - Added cognitive-aversion and adaptive-cognitive-limits to frontmatter related_articles
 
 ### Cross-links Added
-- [adaptive-cognitive-limits](/concepts/adaptive-cognitive-limits/) — evolutionary framing for psychological occlusion
+- [adaptive-cognitive-limits](/voids/evolved-cognitive-limits/) — evolutionary framing for psychological occlusion
 - [cognitive-aversion](/voids/defended-territory/) — added to frontmatter (already referenced in body)
 
 ## Word Count Change

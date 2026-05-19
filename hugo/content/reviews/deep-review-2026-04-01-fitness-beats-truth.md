@@ -63,7 +63,7 @@ None. The article is clean after the previous review's corrections.
 
 ### Cross-links Added (inbound)
 - [biological-cognitive-closure](/voids/biological-cognitive-closure/) (line 86: section heading reference)
-- [adaptive-cognitive-limits](/concepts/adaptive-cognitive-limits/) (line 35: section heading reference)
+- [adaptive-cognitive-limits](/voids/evolved-cognitive-limits/) (line 35: section heading reference)
 - [phenomenal-transparency](/concepts/phenomenal-transparency-opacity-spectrum/) (line 67: body text reference)
 - [necessary-opacity](/voids/necessary-opacity/) (line 69: body text reference)
 - [perceptual-failure-and-the-interface](/topics/perceptual-failure-and-the-interface/) (line 74: body text reference)
@@ -71,7 +71,7 @@ None. The article is clean after the previous review's corrections.
 - [taxonomy-of-voids](/apex/taxonomy-of-voids/) (line 64: body text reference)
 
 ### Cross-links Added (outbound)
-- [adaptive-cognitive-limits](/concepts/adaptive-cognitive-limits/)
+- [adaptive-cognitive-limits](/voids/evolved-cognitive-limits/)
 - [perceptual-degradation-and-the-interface](/concepts/perceptual-degradation-and-the-interface/)
 
 ## Remaining Items

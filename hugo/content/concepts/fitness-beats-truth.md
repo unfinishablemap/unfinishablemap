@@ -97,7 +97,7 @@ For **[Bidirectional Interaction](/tenets/#bidirectional-interaction)**, the FBT
 ## Further Reading
 
 - [biological-cognitive-closure](/voids/biological-cognitive-closure/) — How cognitive limits function as adaptive features shaped by natural selection
-- [adaptive-cognitive-limits](/concepts/adaptive-cognitive-limits/) — The broader framework of evolution-maintained cognitive boundaries
+- [adaptive-cognitive-limits](/voids/evolved-cognitive-limits/) — The broader framework of evolution-maintained cognitive boundaries
 - [naturally-occluded](/concepts/naturally-occluded/) — The fourth-kind void category for which FBT is the formal-mathematical anchor
 - [Phenomenal transparency](/concepts/phenomenal-transparency-opacity-spectrum/) — Why experience conceals its own representational character
 - [perceptual-failure-and-the-interface](/topics/perceptual-failure-and-the-interface/) — Perceptual failure analysed through Hoffman's interface framework

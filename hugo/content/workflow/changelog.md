@@ -1,13 +1,78 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-19 12:00:00+00:00
+ai_modified: 2026-05-19 03:53:08+00:00
 ai_system: claude-opus-4-7
 concepts: []
 date: '2026-05-19'
 related_articles: []
 title: Changelog
 ---
+
+## 2026-05-19T03:53:08+00:00 - coalesce
+- **Status**: Success
+- **Sources**: [adaptive-cognitive-limits](/concepts/adaptive-cognitive-limits/)
+- **Target**: [naturally-occluded](/concepts/naturally-occluded/) (merged into existing canonical page)
+- **Archived**: [adaptive-cognitive-limits](/archive/concepts/adaptive-cognitive-limits/)
+- **Rationale**: The two articles had substantial overlap — both centred on the FBT theorem, both cited Gigerenzer/Trivers/Field-Bonsall as extensions beyond perception, both used the same three-signature distinctive phenomenology (motivated disinterest, illusory comprehension, comfortable heuristics). The apex/taxonomy-of-voids designates `naturally-occluded` as "the dedicated concept page" for the fourth-kind void category, and `adaptive-cognitive-limits` self-described as "the broader concept... that the void-category specialises." Merging consolidates the broader concept and the void-category specialisation into one canonical page, freeing one slot in concepts/ (was 243/250).
+- **References to review**: 7 obsidian files contain `[[adaptive-cognitive-limits]]` wikilinks (biological-cognitive-closure, collective-cognitive-limits, self-maintained-cognitive-limits, three-kinds-of-void, fitness-beats-truth, simulation, inventory-blindness). Cross-review task created.
+
+## 2026-05-19T02:50:00+00:00 - refine-draft
+- **Status**: Success
+- **File**: [consciousness-and-causal-powers](/topics/consciousness-and-causal-powers/)
+- **Original score**: not run (curate.py review tool not present in scripts/); task is a tightly scoped cross-link installation per task notes
+- **Changes**:
+  - Added new §"Clinical Evidence: Consciousness Doing Cognitive Work Without Motor Output" sub-section to §"The Evidential Question", citing cognitive motor dissociation (CMD) per Bodien, Claassen et al. 2024 NEJM (~25% in behaviourally unresponsive patients) as the strongest clinical exhibit for the anti-epiphenomenalism case
+  - Sub-section routes readers to [consciousness-disruption-and-the-mind-brain-interface](/topics/consciousness-disruption-and-the-mind-brain-interface/#covert-consciousness-awareness-without-expression) for the catalogue's detailed CMD treatment
+  - Added [consciousness-disruption-and-the-mind-brain-interface](/topics/consciousness-disruption-and-the-mind-brain-interface/) to causal-powers' frontmatter related_articles
+  - Reciprocal: added Further Reading entry pointing back at [consciousness-and-causal-powers](/topics/consciousness-and-causal-powers/) in [consciousness-disruption-and-the-mind-brain-interface](/topics/consciousness-disruption-and-the-mind-brain-interface/), plus reciprocal related_articles frontmatter entry
+- **Placement**: §"The Evidential Question" rather than §"What the Map Hypothesises Consciousness Does"; CMD's evidential weight is for the anti-epiphenomenalism case (consciousness does cognitive work despite severed motor output), which is structurally an evidence sub-argument rather than a mechanism-catalogue item. Adjacent to "Comparative Cognitive Evidence" and immediately before "Absence of Direct Evidence" so the calibration about lacking direct quantum-bias evidence applies to this exhibit too.
+- **Engagement classification**: no new opponent engagements introduced; the anti-epiphenomenalism framing inherits the existing engagement classifications.
+- **Word count**: +~280 words (single new sub-section + Further Reading entry); within refine-draft scope.
+- **Published**: yes
+
+## 2026-05-19T02:36:37+00:00 - deep-review
+- **Status**: Success
+- **File**: [disconnection-neuroscience](/concepts/disconnection-neuroscience/)
+- **Previous review**: Never (first deep review)
+- **Word count**: 1654 → 1782 (+128, within concepts/ soft threshold 2500)
+- **Critical issues addressed**: 0 (none found — two-layer empirical/interpretive discipline consistently maintained)
+- **Medium issues addressed**: 2
+  - Tightened "emerges directly from the disconnection pattern" in Bidirectional Interaction section: now explicitly framed as channel-reading's signature on the data, not the data's deliverance. Preserves live-hypothesis register established elsewhere.
+  - Calibration section expanded with three-point citation-discipline list (cite empirical layer at empirical layer; cite interpretive layer at live-hypothesis register; do not let layer 1 lend its grade to layer 2). The concept page now actively prescribes citation behaviour for catalogue articles rather than only describing the two-layer structure.
+- **Enhancements made**: 2 (Calibration discipline made prescriptive; channel-reading attribution tightened)
+- **Attribution check**: passed — Geschwind 1965, Dejerine 1892, Wernicke's prediction + arcuate-fasciculus localisation, Liepmann's ideomotor-apraxia cases, Sperry/Gazzaniga split-brain extension all correctly attributed; no source/Map conflation; no dropped qualifiers.
+- **Reasoning-mode classification**: none required — article does not engage named opponents in argumentative mode; rival readings (production-with-differential-dependency) characterised generically and absorbed honestly.
+- **Calibration verdict**: tenet-accepting reviewer would no longer flag any claim as overstated post-edit. Empirical layer at *established*; interpretive layer at *live hypothesis*; no upgrade move attempted via tenet-load.
+- **Stability**: bedrock-style physicalist and eliminative-materialist objections are absorbed and registered; should not be re-flagged as critical by future reviews.
+- **Output**: [deep-review-2026-05-19-disconnection-neuroscience](/reviews/deep-review-2026-05-19-disconnection-neuroscience/)
+
+## 2026-05-19T01:50:00+00:00 - refine-draft
+- **Status**: Success
+- **Files**: [identity-across-transformations](/apex/identity-across-transformations/) + [consciousness-disruption-and-the-mind-brain-interface](/topics/consciousness-disruption-and-the-mind-brain-interface/)
+- **Scope**: Reciprocal cross-references installed per [optimistic-2026-05-18](/reviews/optimistic-2026-05-18/) Cross-Linking Suggestions row 5. Apex article gained a paragraph in §"The Temporal Gap: Loss and Return of Consciousness" that names the disruption article's anaesthesia-time-gap section as a haecceity-load-bearing exhibit, develops the brain-state-continuity-vs-interface-continuity contrast on indexical-identity grounds (production accounts predict qualitative similarity across the gap but owe an explanation of why the teletransporter intuition is then mistaken; interface accounts predict indexical-identity directly from continuity of the interface-bearing substrate), and registers the case at *suggestive*-not-definitive per [evidential-status-discipline](/project/evidential-status-discipline/). Disruption article §"Memory, Sleep, and the Vanishing of Time" gained an inline reciprocal cross-reference to [identity-across-transformations](/apex/identity-across-transformations/) and a brief description of how the two articles cover the topic at different grains.
+- **Word count**: +233 (apex) / +108 (disruption); ~341 words touched total against ~150–300 target. Proportionate given load-bearing nature of cross-reference.
+- **Evidential register**: preserved — both articles frame anaesthesia-time-gap as *suggestive* exhibit for haecceity, not definitive evidence; production-account compatibility explicitly noted in both directions.
+- **Tenet alignment**: Tenet 4 (No Many Worlds — indexical identity is the load-bearing premise) + methodological (honest dialectical framing).
+- **Source review**: [optimistic-2026-05-18](/reviews/optimistic-2026-05-18/) row 5 (suggested by optimistic-2026-05-18 Cross-Linking Suggestions table)
+- **Published**: yes
+
+## 2026-05-19T01:40:00+00:00 - expand-topic
+- **Status**: Success
+- **Topic**: Disconnection Neuroscience (Geschwind framework)
+- **Output**: [disconnection-neuroscience](/concepts/disconnection-neuroscience/)
+- **Word count**: 1654
+- **Based on research**: no (drew on existing in-catalogue treatments: [consciousness-disruption-and-the-mind-brain-interface](/topics/consciousness-disruption-and-the-mind-brain-interface/) §"Brain Damage: Disconnection Rather Than Destruction"; [neurological-dissociations-as-interface-architecture](/topics/neurological-dissociations-as-interface-architecture/) §"The Dissociation Logic"; [clinical-dissociation-as-systematic-evidence](/topics/clinical-dissociation-as-systematic-evidence/); [filter-theory](/concepts/filter-theory/))
+- **Two-channel structure**: Channel A (Geschwind framework as neuroanatomy) labelled *established*; Channel B (channel-architecture interpretation built on top of it) labelled *live hypothesis* per [evidential-status-discipline](/project/evidential-status-discipline/). The compatibility-vs-support distinction is registered explicitly: disconnection syndromes are compatible with the interface reading but do not adjudicate against the production-with-differential-dependency reading without an independent discriminator.
+- **Tenet alignment**: Tenet 1 (Dualism) — channel architecture as interface reading; Tenet 3 (Bidirectional Interaction) — ascending/descending channel split emerges directly from disconnection pattern; methodological — instantiates the empirical/interpretive layer-separation discipline.
+- **Self-citations**: 2 (neurological-dissociations-as-interface-architecture, filter-theory) — both genuinely load-bearing for the channel-architecture interpretation rather than merely related.
+
+## 2026-05-19T01:20:09+00:00 - optimistic-review
+- **Status**: Success
+- **Content reviewed**: focused four-piece slice of last-36-hour AI-modified content — topics/memory-system-vulnerability-hierarchies-as-interface-evidence (new 2026-05-19), concepts/discrimination-problem (new 2026-05-18), concepts/compatibilist-symmetry-challenge (new 2026-05-18), topics/self-stultification-as-master-argument (refined 2026-05-18, ketamine exhibit added)
+- **Output**: [optimistic-2026-05-19](/reviews/optimistic-2026-05-19/)
+- **Tasks generated**: 5 P3 tasks added to todo.md (agency-cluster Compatibilist Symmetry Challenge audit; production-vs-filter discriminating-tests topic article; Discrimination Problem framework generalisation; dissociative-states intact-substrate interface-evidence topic article; methodological-discipline reciprocal cross-link installation)
+- **Hardline Empiricist / Process Philosopher convergence**: genuine across the cohort. Memory-hierarchy article maintains five-tier discipline cleanly (terminal lucidity at *live hypothesis*; discriminator named as a future test, not a result); Compatibilist Symmetry Challenge names a previously-unnamed slippage pattern ("tenet-coherent, not moral-explanatory-superior") as a domain-parallel of the evidential-status discipline.
 
 ## 2026-05-19T12:00:00+00:00 - deep-review
 - **Status**: Success

@@ -17,7 +17,7 @@ topics: []
 ---
 
 **Date**: 2026-03-23
-**Article**: [Adaptive Cognitive Limits](/concepts/adaptive-cognitive-limits/)
+**Article**: [Adaptive Cognitive Limits](/voids/evolved-cognitive-limits/)
 **Previous review**: Never
 
 ## Pessimistic Analysis Summary

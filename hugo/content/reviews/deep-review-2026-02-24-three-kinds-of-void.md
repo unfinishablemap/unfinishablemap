@@ -64,7 +64,7 @@ None. The article remains philosophically sound.
 ### Cross-links Added
 
 - [synesthetic-void](/voids/synesthetic-void/)
-- [adaptive-cognitive-limits](/concepts/adaptive-cognitive-limits/)
+- [adaptive-cognitive-limits](/voids/evolved-cognitive-limits/)
 - [evolved-cognitive-limits](/voids/biological-cognitive-closure/)
 - [the-silence-void](/voids/the-silence-void/)
 

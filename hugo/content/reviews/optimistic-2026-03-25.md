@@ -126,7 +126,7 @@ The Map shows genuine epistemic humility while refusing to stop investigating. T
 
 | From | To | Reason |
 |------|-----|--------|
-| [duhem-quine-underdetermination-consciousness](/topics/duhem-quine-underdetermination-consciousness/) | [adaptive-cognitive-limits](/concepts/adaptive-cognitive-limits/) | Underdetermination may partly reflect evolved cognitive limits on metaphysical reasoning |
+| [duhem-quine-underdetermination-consciousness](/topics/duhem-quine-underdetermination-consciousness/) | [adaptive-cognitive-limits](/voids/evolved-cognitive-limits/) | Underdetermination may partly reflect evolved cognitive limits on metaphysical reasoning |
 | [african-philosophy-of-consciousness](/concepts/african-philosophy-of-consciousness/) | [apophatic-approaches](/concepts/apophatic-approaches/) | Oral traditions' negative-theology parallels with apophatic method |
 | [phenomenal-normativity-environmental-ethics](/topics/phenomenal-normativity-environmental-ethics/) | [epiphenomenalism](/concepts/epiphenomenalism/#convergence-of-arguments) | Epiphenomenalism's failure grounds phenomenal normativity's causal claims |
 | [living-with-the-map](/apex/living-with-the-map/) | [taxonomy-of-voids](/apex/taxonomy-of-voids/) | Living with limits is practical counterpart to mapping them |

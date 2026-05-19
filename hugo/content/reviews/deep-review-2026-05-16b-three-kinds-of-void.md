@@ -40,7 +40,7 @@ This is a *calibration error* under the [evidential-status discipline](/project/
 **Resolution applied**:
 - Opening paragraph rewritten to acknowledge the four-kinds extension while preserving the article's role as the canonical home of the original three. Added an inline link to [naturally-occluded](/concepts/naturally-occluded/) and to [the apex's "From Three Kinds to Four"](/apex/taxonomy-of-voids/) anchor.
 - Line-83 mention rewritten to link [naturally-occluded](/concepts/naturally-occluded/) directly, reference the [FBT theorem](/concepts/fitness-beats-truth/) as formal anchor, and note that the category is now load-bearing at the apex.
-- `related_articles` frontmatter: added [naturally-occluded](/concepts/naturally-occluded/) between [adaptive-cognitive-limits](/concepts/adaptive-cognitive-limits/) and [biological-cognitive-closure](/voids/biological-cognitive-closure/) (preserves topical adjacency).
+- `related_articles` frontmatter: added [naturally-occluded](/concepts/naturally-occluded/) between [adaptive-cognitive-limits](/voids/evolved-cognitive-limits/) and [biological-cognitive-closure](/voids/biological-cognitive-closure/) (preserves topical adjacency).
 - Further Reading entry added for [naturally-occluded](/concepts/naturally-occluded/).
 - Length-neutral discipline applied: net +72 words from the four-kinds integration; offset trim of "in a particularly vivid way" filler from the attention-disorders line. Final word count 1998 (100% of 2000-word voids soft threshold; "ok" status).
 
@@ -93,7 +93,7 @@ All prior stability points held:
 1. **Opener** — acknowledges the four-kinds extension by naming [naturally-occluded](/concepts/naturally-occluded/) and linking to [the apex's "From Three Kinds to Four"](/apex/taxonomy-of-voids/) anchor, while preserving the article as canonical home of the original three. Shifts "all three types" to "multiple types" in the dream-consciousness exemplar to remain consistent with the extended taxonomy.
 2. **Line-83 update** — replaces the now-outdated informal "adaptive-cognitive-limits identifies naturally occluded voids" description with a direct link to the dedicated [naturally-occluded](/concepts/naturally-occluded/) concept article. Names the FBT theorem as formal anchor and the apex as the load-bearing home.
 3. **Filler trim** — "exemplify the occluded category in a particularly vivid way" → "exemplify the occluded category" (removed filler to maintain length-neutrality; this was unrelated to the cross-review goal but addressed in the same pass to preserve the 2000-word soft threshold).
-4. **Frontmatter** — added [naturally-occluded](/concepts/naturally-occluded/) to `related_articles` between [adaptive-cognitive-limits](/concepts/adaptive-cognitive-limits/) and [biological-cognitive-closure](/voids/biological-cognitive-closure/).
+4. **Frontmatter** — added [naturally-occluded](/concepts/naturally-occluded/) to `related_articles` between [adaptive-cognitive-limits](/voids/evolved-cognitive-limits/) and [biological-cognitive-closure](/voids/biological-cognitive-closure/).
 5. **Further Reading** — added [naturally-occluded](/concepts/naturally-occluded/) entry.
 
 ### Cross-links Added
@@ -102,9 +102,9 @@ All prior stability points held:
 - [taxonomy-of-voids](/apex/taxonomy-of-voids/) (opener body text — the apex was previously linked only as part of the wider tree but not directly from the opener)
 - [fitness-beats-truth](/concepts/fitness-beats-truth/) (line-83 body text — formal anchor citation)
 
-### Reciprocal update on [adaptive-cognitive-limits](/concepts/adaptive-cognitive-limits/)
+### Reciprocal update on [adaptive-cognitive-limits](/voids/evolved-cognitive-limits/)
 
-Naturally-occluded.md links prominently to [adaptive-cognitive-limits](/concepts/adaptive-cognitive-limits/) in `concepts` frontmatter; before this pass, adaptive-cognitive-limits did not reciprocate the link to naturally-occluded. Added to `related_articles` and Further Reading. `last_deep_review` not updated on adaptive-cognitive-limits (this was a reciprocal-link edit only, not a full review).
+Naturally-occluded.md links prominently to [adaptive-cognitive-limits](/voids/evolved-cognitive-limits/) in `concepts` frontmatter; before this pass, adaptive-cognitive-limits did not reciprocate the link to naturally-occluded. Added to `related_articles` and Further Reading. `last_deep_review` not updated on adaptive-cognitive-limits (this was a reciprocal-link edit only, not a full review).
 
 ## Word Count
 

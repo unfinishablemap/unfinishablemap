@@ -107,7 +107,7 @@ The taxonomy itself falls under the [epistemic horizon void](/voids/meta-epistem
 - [self-maintained-cognitive-limits](/voids/self-maintained-cognitive-limits/) — Specific tests for whether territory is defended
 - [apophatic-approaches](/concepts/apophatic-approaches/) — The methodology of knowing through negation that void investigation employs
 - [apophatic-cartography](/voids/apophatic-cartography/) — Formalising criteria for distinguishing genuine closure
-- [adaptive-cognitive-limits](/concepts/adaptive-cognitive-limits/) — Blind spots as evolutionary features, not defects
+- [adaptive-cognitive-limits](/voids/evolved-cognitive-limits/) — Blind spots as evolutionary features, not defects
 - [naturally-occluded](/concepts/naturally-occluded/) — The fourth-kind category that extends this taxonomy
 - [biological-cognitive-closure](/voids/biological-cognitive-closure/) — Cross-cultural evidence for species-level limits
 - [the-silence-void](/voids/the-silence-void/) — Territory accessible only through the cessation of thought

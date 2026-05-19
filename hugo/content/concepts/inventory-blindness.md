@@ -66,7 +66,7 @@ This distinguishes inventory blindness from related phenomena:
 
 The Dunning-Kruger effect (Kruger & Dunning, 1999) provides a measurable parallel in bounded domains: incompetence in a skill correlates with inability to recognise that incompetence, because the very skills needed to evaluate performance are the skills that are missing. Inventory blindness extends this logic from specific skills to cognitive architecture itself — from "I lack the skill to judge my skill" to "I lack the capacity to detect my missing capacities."
 
-The [adaptive cognitive limits](/concepts/adaptive-cognitive-limits/) framework explains *why* inventory blindness exists. If the [Fitness-Beats-Truth theorem](/concepts/fitness-beats-truth/) is correct and natural selection favours fitness-tuned perception over veridical perception, then cognitive blind spots are not defects awaiting correction but features maintained by selection. Inventory blindness is the mechanism through which these adaptive limits conceal themselves — evolution produces the blind spot, and inventory blindness ensures the organism never notices it.
+The [adaptive cognitive limits](/voids/evolved-cognitive-limits/) framework explains *why* inventory blindness exists. If the [Fitness-Beats-Truth theorem](/concepts/fitness-beats-truth/) is correct and natural selection favours fitness-tuned perception over veridical perception, then cognitive blind spots are not defects awaiting correction but features maintained by selection. Inventory blindness is the mechanism through which these adaptive limits conceal themselves — evolution produces the blind spot, and inventory blindness ensures the organism never notices it.
 
 ## Historical Evidence
 
@@ -103,7 +103,7 @@ Inventory blindness engages the Map's [tenets](/tenets/) at a fundamental level.
 - [edge-states-and-void-probes](/voids/edge-states-and-void-probes/)
 - [introspective opacity](/voids/self-opacity/)
 - [epistemology-of-limit-knowledge](/concepts/epistemology-of-limit-knowledge/)
-- [adaptive cognitive limits](/concepts/adaptive-cognitive-limits/) — Why evolution produces and maintains the blind spots inventory blindness conceals
+- [adaptive cognitive limits](/voids/evolved-cognitive-limits/) — Why evolution produces and maintains the blind spots inventory blindness conceals
 - [meta-epistemology-of-limits](/voids/meta-epistemology-of-limits/)
 - [voids](/voids/)
 

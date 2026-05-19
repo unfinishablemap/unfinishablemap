@@ -1,9 +1,17 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-19T02:50:00+00:00
+ai_modified: 2026-05-19T03:53:08+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-05-19T03:53:08+00:00 - coalesce
+- **Status**: Success
+- **Sources**: [[concepts/adaptive-cognitive-limits]]
+- **Target**: [[concepts/naturally-occluded]] (merged into existing canonical page)
+- **Archived**: [[archive/concepts/adaptive-cognitive-limits]]
+- **Rationale**: The two articles had substantial overlap — both centred on the FBT theorem, both cited Gigerenzer/Trivers/Field-Bonsall as extensions beyond perception, both used the same three-signature distinctive phenomenology (motivated disinterest, illusory comprehension, comfortable heuristics). The apex/taxonomy-of-voids designates `naturally-occluded` as "the dedicated concept page" for the fourth-kind void category, and `adaptive-cognitive-limits` self-described as "the broader concept... that the void-category specialises." Merging consolidates the broader concept and the void-category specialisation into one canonical page, freeing one slot in concepts/ (was 243/250).
+- **References to review**: 7 obsidian files contain `[[adaptive-cognitive-limits]]` wikilinks (biological-cognitive-closure, collective-cognitive-limits, self-maintained-cognitive-limits, three-kinds-of-void, fitness-beats-truth, simulation, inventory-blindness). Cross-review task created.
 
 ## 2026-05-19T02:50:00+00:00 - refine-draft
 - **Status**: Success

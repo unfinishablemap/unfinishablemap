@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-30
-ai_modified: 2026-05-18 14:20:20+00:00
+ai_modified: 2026-05-19 02:50:00+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -27,7 +27,7 @@ concepts:
 - '[[introspection]]'
 - '[[haecceity]]'
 created: 2026-01-15
-date: &id001 2026-05-18
+date: &id001 2026-05-19
 description: Clinical evidence from anesthesia, coma, and disorders of consciousness
   consistently favours an interface model over production models. Consciousness persists
   when production theories predict its absence, and disappears in patterns that reveal
@@ -43,6 +43,7 @@ related_articles:
 - '[[clinical-phenomenology-and-altered-experience]]'
 - '[[hypnagogic-phenomenology-and-interface-modulation]]'
 - '[[anaesthesia-and-the-consciousness-interface]]'
+- '[[topics/consciousness-and-causal-powers]]'
 title: Consciousness Disruption and the Mind-Brain Interface
 topics:
 - '[[hard-problem-of-consciousness]]'
@@ -146,7 +147,7 @@ The pattern follows Tulving's consciousness hierarchy: autonoetic consciousness 
 
 [Sleep](/concepts/sleep-and-consciousness/) presents a distinct category—neither pathological like coma nor pharmacological like anesthesia. Sleep evolved as an adaptive mechanism. Unlike anesthesia's near-total extinction, sleep consciousness varies continuously. Two individuals in identical NREM Stage 3 may differ radically: one experiences nothing, the other vivid dreams. The brain's integration-segregation balance is better preserved during sleep than under anesthesia. For the filter theory, sleep is like closing a door (mechanism intact); anesthesia is like breaking the hinges.
 
-Under general anesthesia, time does not merely pass quickly—it vanishes entirely. Patients report no sense of duration at all. A six-hour surgery and a six-minute procedure feel identical: nothing. Where does the experiencing subject go when time stops? The filter theory offers an alternative to the materialist answer (temporal processing has ceased): when the brain-interface is disrupted, consciousness loses its temporal anchor within physical time. Upon reconnection, continuity of subject resumes even without continuity of temporal experience.
+Under general anesthesia, time does not merely pass quickly—it vanishes entirely. Patients report no sense of duration at all. A six-hour surgery and a six-minute procedure feel identical: nothing. Where does the experiencing subject go when time stops? The filter theory offers an alternative to the materialist answer (temporal processing has ceased): when the brain-interface is disrupted, consciousness loses its temporal anchor within physical time. Upon reconnection, continuity of subject resumes even without continuity of temporal experience. The deeper question—why *this* subject returns rather than a qualitatively identical replacement—is the indexical-identity question that [identity-across-transformations](/apex/identity-across-transformations/) develops at length. The apex synthesis treats the anaesthesia time-gap as a [haecceity](/concepts/haecceity/) exhibit: the recurrence of *this* subject across an experiential discontinuity is suggestive evidence for indexical-identity grounded in something more than brain-state-continuity, though compatible with production accounts that take brain-state-continuity as sufficient. The two articles together cover what each treats partially: the disruption article supplies the clinical and phenomenological detail, the apex article supplies the identity-theoretic machinery for interpreting it.
 
 ## The Active Reboot and the Illusionist Challenge
 
@@ -199,6 +200,7 @@ The Map's [tenets](/tenets/) converge on consciousness disruption as a domain wh
 - [psychedelics-and-the-filter-model](/topics/psychedelics-and-the-filter-model/) — Decreased brain activity producing expanded consciousness
 - [interactionist-dualism](/concepts/interactionist-dualism/) — The philosophical framework grounding the interface model
 - [death-and-consciousness](/topics/death-and-consciousness/) — Consciousness at and beyond death
+- [consciousness-and-causal-powers](/topics/consciousness-and-causal-powers/) — How CMD's preserved cognitive work without motor output supplies clinical evidence against epiphenomenalist readings
 
 ## References
 

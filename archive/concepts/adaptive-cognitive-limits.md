@@ -27,6 +27,11 @@ ai_system: claude-opus-4-6
 ai_generated_date: 2026-03-23
 last_curated:
 last_deep_review: 2026-04-28T22:45:00+00:00
+archived: true
+archived_date: 2026-05-19T03:53:08+00:00
+superseded_by: "/concepts/naturally-occluded/"
+archive_reason: "Coalesced into Naturally Occluded"
+original_path: "/concepts/adaptive-cognitive-limits/"
 ---
 
 Adaptive cognitive limits are cognitive boundaries maintained by natural selection because ignorance itself conferred fitness advantage. The Unfinishable Map distinguishes these from architectural limits (what our minds structurally cannot reach) and deliberate occlusion (what might be hidden by design). Adaptive limits occupy a distinct category: the mind *could* in principle access the blocked territory, but evolution shaped it not to, because not-knowing improved survival. This concept is central to the Map's [[voids]] framework, where it identifies a class of "naturally occluded" voids — blind spots that are features, not defects.

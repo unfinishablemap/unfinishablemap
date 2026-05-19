@@ -57,7 +57,7 @@ The todo task suggested 1–2 secondary targets. The following were evaluated an
 
 - **[voids/meta-epistemology-of-limits.md](/voids/meta-epistemology-of-limits/)** — Already lists `[[naturally-occluded]]` indirectly via the four-kinds discussion at the apex it co-derives from; the cross-link target is the *natural-vs-designed axis* the meta-epistemology article supplies, but the axis is methodologically distinct from the FBT-anchored adaptive-occlusion claim. A reciprocal link is not load-bearing.
 - **[voids/self-maintained-cognitive-limits.md](/voids/self-maintained-cognitive-limits/)** — The motivational-deflection complement to naturally-occluded's structural opacity-features. The naturally-occluded article already lists this article in its Further Reading; the inverse link is currently mediated via `[[adaptive-cognitive-limits]]` which both articles cross-reference. Adding a direct link is feasible but not load-bearing — the connection is via the broader adaptive-cognitive-limits framework rather than direct.
-- **[concepts/adaptive-cognitive-limits.md](/concepts/adaptive-cognitive-limits/)** — Already lists `[[naturally-occluded]]` in `related_articles` (line 20). No further work needed.
+- **[concepts/adaptive-cognitive-limits.md](/voids/evolved-cognitive-limits/)** — Already lists `[[naturally-occluded]]` in `related_articles` (line 20). No further work needed.
 
 ## Cross-Review Discipline
 
@@ -83,7 +83,7 @@ None. The naturally-occluded → related-articles back-link installation is comp
 | [voids/biological-cognitive-closure.md](/voids/biological-cognitive-closure/) | informal mention only | links and cites concept page |
 | [concepts/fitness-beats-truth.md](/concepts/fitness-beats-truth/) | not linked | links + dedicated section on anchoring role |
 | [concepts/possibility-probability-slippage.md](/concepts/possibility-probability-slippage/) | not linked | links + worked-example exhibit |
-| [concepts/adaptive-cognitive-limits.md](/concepts/adaptive-cognitive-limits/) | already linked | unchanged |
+| [concepts/adaptive-cognitive-limits.md](/voids/evolved-cognitive-limits/) | already linked | unchanged |
 
 ## Stability Notes
 

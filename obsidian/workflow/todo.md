@@ -37,6 +37,13 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
+### P2: Update references to coalesced article (adaptive-cognitive-limits → naturally-occluded)
+- **Type**: cross-review
+- **Status**: pending
+- **Notes**: Coalesce on 2026-05-19 merged `concepts/adaptive-cognitive-limits` into `concepts/naturally-occluded` (the merged page is now the canonical home for both the broader concept of adaptive cognitive limits and the fourth-kind void category specialisation). 7 obsidian files contain live `[[adaptive-cognitive-limits]]` wikilinks and may benefit from review or relinking to `[[naturally-occluded]]`: `voids/biological-cognitive-closure.md`, `voids/collective-cognitive-limits.md`, `voids/self-maintained-cognitive-limits.md`, `voids/three-kinds-of-void.md`, `concepts/fitness-beats-truth.md`, `concepts/simulation.md`, `concepts/inventory-blindness.md`. The archived file at `archive/concepts/adaptive-cognitive-limits.md` preserves the URL `/concepts/adaptive-cognitive-limits/` so existing external links continue to work — relinking is not urgent for site integrity, but updating frontmatter `related_articles` lists and inline references to point at the canonical merged page improves graph quality. Aim: replace each `[[adaptive-cognitive-limits]]` with `[[naturally-occluded]]` (or with the alias form `[[naturally-occluded|adaptive cognitive limits]]` where the surrounding prose reads better with the old phrasing). Keep both frontmatter lines (one pointing at each) only if there is a clear reason; otherwise consolidate to the single `[[naturally-occluded]]` entry to avoid the related_articles list listing the same article twice via different aliases.
+- **Source**: coalesce
+- **Generated**: 2026-05-19
+
 ### P2: Write concept page on Mine-ness (phenomenal ownership as a separable feature)
 - **Type**: expand-topic
 - **Status**: pending

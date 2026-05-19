@@ -112,7 +112,7 @@ Not all blocking has the same source. Three distinct models may operate simultan
 
 ### Psychological Occlusion
 
-Most blocking is personal and protective—variable between individuals, protective of self-concept. Some may also be [adaptive](/concepts/adaptive-cognitive-limits/): natural selection maintained certain blind spots because ignorance conferred fitness advantage. This does not account for blocking that appears universal across individuals and cultures.
+Most blocking is personal and protective—variable between individuals, protective of self-concept. Some may also be [adaptive](/voids/evolved-cognitive-limits/): natural selection maintained certain blind spots because ignorance conferred fitness advantage. This does not account for blocking that appears universal across individuals and cultures.
 
 ### Architectural Occlusion
 
@@ -211,7 +211,7 @@ The hypothesis remains speculative; most slippage has mundane explanations. What
 - [The Agency Void](/voids/agency-void/) — The circularity of consciousness probing its own limits, alongside the involuntariness of its own states
 - [Mysterianism and Cognitive Closure](/concepts/mysterianism/) — McGinn on structural limits (architectural occlusion)
 - [The Simulation Detection Void](/voids/simulation-detection-void/) — Where all three void types converge
-- [Adaptive Cognitive Limits](/concepts/adaptive-cognitive-limits/) — Why evolution maintains blind spots
+- [Adaptive Cognitive Limits](/voids/evolved-cognitive-limits/) — Why evolution maintains blind spots
 - [Non-Human Minds as Void-Explorers](/voids/non-human-minds-as-void-explorers/) — Using AI and alien minds to probe human cognitive limits
 - [Apophatic Approaches](/concepts/apophatic-approaches/) — Knowing through negation as a probing method
 

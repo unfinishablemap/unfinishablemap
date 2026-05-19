@@ -85,7 +85,7 @@ The space of *possible* concepts almost certainly exceeds the space of *human-ac
 
 ## Why Limits Are Adaptive
 
-Convergent limits could be *architectural* (inherent to any mind structured as ours) or *adaptive* (maintained by selection because ignorance conferred fitness advantage — see [adaptive-cognitive-limits](/concepts/adaptive-cognitive-limits/)). Both appear cross-culturally.
+Convergent limits could be *architectural* (inherent to any mind structured as ours) or *adaptive* (maintained by selection because ignorance conferred fitness advantage — see [adaptive-cognitive-limits](/voids/evolved-cognitive-limits/)). Both appear cross-culturally.
 
 ### The Fitness-Beats-Truth Theorem
 
@@ -160,7 +160,7 @@ The bootstrapping problem remains: if philosophical intuitions are fitness-shape
 - [mysterianism](/concepts/mysterianism/) — McGinn's formal analysis of cognitive closure
 - [three-kinds-of-void](/voids/three-kinds-of-void/) — The fundamental void taxonomy
 - [edge-states-and-void-probes](/voids/edge-states-and-void-probes/) — What approaching limits feels like
-- [adaptive-cognitive-limits](/concepts/adaptive-cognitive-limits/) — Why evolution maintains ignorance as a fitness advantage
+- [adaptive-cognitive-limits](/voids/evolved-cognitive-limits/) — Why evolution maintains ignorance as a fitness advantage
 - [consciousness-interface-development](/topics/consciousness-interface-development/) — How the mind-matter interface changes through maturation
 
 ## References

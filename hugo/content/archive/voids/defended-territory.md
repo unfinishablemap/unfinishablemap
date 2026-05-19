@@ -86,7 +86,7 @@ What if some blocking is so effective the monitoring process never activates the
 
 ### Psychological Occlusion
 
-Most blocking is personal and protective—variable between individuals, protective of self-concept. Some may also be [adaptive](/concepts/adaptive-cognitive-limits/): natural selection maintained certain blind spots because ignorance conferred fitness advantage. This explains many phenomena but doesn't account for blocking that appears universal.
+Most blocking is personal and protective—variable between individuals, protective of self-concept. Some may also be [adaptive](/voids/evolved-cognitive-limits/): natural selection maintained certain blind spots because ignorance conferred fitness advantage. This explains many phenomena but doesn't account for blocking that appears universal.
 
 ### Architectural Occlusion
 
@@ -183,7 +183,7 @@ The hypothesis is speculative. Most slippage has mundane explanations. What dist
 - [The Agency Verification Void](/voids/agency-void/) — The circularity of consciousness probing its own limits
 - [Apophatic Approaches](/concepts/apophatic-approaches/) — Knowing through negation as a probing method
 - [The Death Void](/voids/death-void/) — What dying means for consciousness
-- [Adaptive Cognitive Limits](/concepts/adaptive-cognitive-limits/) — Why evolution maintains blind spots
+- [Adaptive Cognitive Limits](/voids/evolved-cognitive-limits/) — Why evolution maintains blind spots
 
 ## References
 
