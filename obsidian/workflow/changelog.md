@@ -1,9 +1,16 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-18T23:50:25+00:00
+ai_modified: 2026-05-19T00:00:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-05-19T00:00:00+00:00 - expand-topic
+- **Status**: Success
+- **Topic**: Memory-System Vulnerability Hierarchies as Interface Evidence
+- **Output**: [[topics/memory-system-vulnerability-hierarchies-as-interface-evidence]]
+- **Word count**: 3584
+- **Based on research**: partial (drew on [[research/memory-anomalies-2026-05-08]] and [[research/memory-dual-domain-capability-2026-03-09]]; main argument structure derives from §"Memory, Sleep, and the Vanishing of Time" in [[topics/consciousness-disruption-and-the-mind-brain-interface]] per optimistic-2026-05-18 High Priority)
 
 ## 2026-05-18T23:50:25+00:00 - deep-review
 - **Status**: Success
