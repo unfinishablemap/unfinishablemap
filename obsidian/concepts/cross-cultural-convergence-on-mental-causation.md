@@ -4,7 +4,7 @@ description: "Independent philosophical traditions across India, Africa, and the
 created: 2026-02-23
 modified: 2026-02-23
 human_modified:
-ai_modified: 2026-04-06T13:32:00+00:00
+ai_modified: 2026-05-19T07:39:07+00:00
 draft: false
 topics:
   - "[[indian-philosophy-of-mind]]"
@@ -32,7 +32,7 @@ author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-02-23
 last_curated:
-last_deep_review: 2026-03-30T07:35:00+00:00
+last_deep_review: 2026-05-19T07:39:07+00:00
 ---
 
 Philosophical traditions that developed in isolation—Indian, African, and Western—independently concluded that consciousness causally influences the physical world. This cross-cultural convergence on [[mental-causation-and-downward-causation|mental causation]] is evidentially significant. When independent lines of inquiry reach the same conclusion through different methods and frameworks, the probability that all are wrong drops substantially. The pattern supports [[interactionist-dualism]] not through any single tradition's authority, but through the collective weight of independent discovery.
