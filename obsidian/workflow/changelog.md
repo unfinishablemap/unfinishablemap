@@ -1,9 +1,22 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-19T18:00:00+00:00
+ai_modified: 2026-05-19T19:30:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-05-19T19:30:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [[topics/sensorimotor-contingencies-and-the-interface]]
+- **Word count**: 3260 → 3260 (no change; length-neutral mode at 109% of 3000 soft threshold)
+- **Critical issues addressed**: 0 (none found)
+- **Medium issues addressed**: 0 (none found; 2026-05-19 calibration refine-draft already addressed hedging gap)
+- **Enhancements made**: 0 (article reached stability; preservation pass only)
+- **Engagement modes** (editor-internal): O'Regan/Noë two-horn dilemma → Mode One (defective on its own terms, internal-to-functionalism); enactivist "question is malformed" reply → Mode Three (framework-boundary marking). Mixed engagement, natural prose, no label leakage.
+- **Attribution check**: passes — O'Regan & Noë 2001, Merleau-Ponty, Husserl Leib/Körper, Bach-y-Rita TVSS, Noë 2009 "you are not your brain", Lederman & Klatzky 1987 exploratory procedures, Ramachandran mirror box all verified accurate
+- **Calibration check**: passes — interface reading consistently labelled live hypothesis; empirical-equivalence concessions preserved; no possibility/probability slippage detected (would fail tenet-accepting reviewer's diagnostic test? — no)
+- **Stability**: fourth review; article has reached genuine stability. Future reviews should only flag issues if new content is added, referenced articles change in inconsistency-creating ways, or external literature/source-text moves
+- **Output**: [[reviews/deep-review-2026-05-19-sensorimotor-contingencies-and-the-interface]]
 
 ## 2026-05-19T18:00:00+00:00 - deep-review
 - **Status**: Success

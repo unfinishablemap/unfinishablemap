@@ -4,7 +4,7 @@ description: "Perception depends on lawful patterns between movement and sensati
 created: 2026-02-15
 modified: 2026-02-18
 human_modified:
-ai_modified: 2026-05-19T19:00:00+00:00
+ai_modified: 2026-05-19T19:30:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -29,7 +29,7 @@ author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-02-15
 last_curated:
-last_deep_review: 2026-03-31T18:38:00+00:00
+last_deep_review: 2026-05-19T19:30:00+00:00
 ---
 
 [[dualist-perception|Perception]] is, on O'Regan and Noë's reading, the mastery of lawful patterns linking movement to sensation — what they call *sensorimotor contingencies*. When you run your fingers across a textured surface, the tactile sensation changes in structured ways as your hand moves. When you shift your gaze, the visual field transforms according to precise geometric laws. Perceiving is knowing — practically, bodily — how these transformations work. The Unfinishable Map suggests that sensorimotor contingencies may not explain consciousness but instead reveal the structure of the interface through which consciousness engages the physical world. Neither interpretation is forced by the data alone: the same sensorimotor findings are compatible with the enactivist reading on which contingency mastery exhausts perceptual experience, and with the interface reading on which contingencies specify the format of an engagement whose phenomenal character remains unaccounted for.
