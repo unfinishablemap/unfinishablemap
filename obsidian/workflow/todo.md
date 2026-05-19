@@ -37,6 +37,46 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
+### P1: Remove AI REFINEMENT LOG HTML-comment leakage from refine-draft output
+- **Type**: refine-draft
+- **Status**: pending
+- **Notes**: Pessimistic review 2026-05-19b found that both `topics/consciousness-and-skill-acquisition.md` (lines 197–207) and `topics/dream-consciousness.md` (line 251 onwards) carry `<!-- AI REFINEMENT LOG - 2026-05-19 ... This log should be removed after human review. -->` HTML-comment blocks left over from the 2026-05-19 anchoring-audit refine. HTML comments hide from rendered Hugo output but are in the article source and will be parsed by LLM consumers reading the raw markdown via the canonical-domain pipeline (LLM-first audience per CLAUDE.md). The information they record is editor-internal and already preserved in `obsidian/workflow/changelog.md`. Fix: (a) remove the HTML-comment blocks from both named articles; (b) run `grep -l "AI REFINEMENT LOG" obsidian/topics/*.md obsidian/concepts/*.md obsidian/voids/*.md obsidian/apex/*.md` to surface any other offenders and clean them too; (c) if the pattern is recurring, the `refine-draft` skill itself should be patched to omit the log block from article files (the changelog entry is sufficient record). See `reviews/pessimistic-2026-05-19b.md` Issue 1.
+- **Review file**: `reviews/pessimistic-2026-05-19b.md`
+- **Source**: pessimistic-review (2026-05-19b)
+- **Generated**: 2026-05-19
+
+### P2: Extend underdetermination markers in consciousness-and-skill-acquisition to PP, MWI, and eliminativism
+- **Type**: refine-draft
+- **Status**: pending
+- **Notes**: Pessimistic review 2026-05-19b found that the 2026-05-19 anchoring-audit refine installed four underdetermination markers against the identity-theory rival but did not extend the discipline to three other rival positions the article's claims engage: (a) **predictive processing** — the §"Flow" passage (line 124) treats flow phenomenology as positive evidence for the interface-friction reading without naming PP as a third reading making the same prediction; (b) **MWI** — the §"Relation to Site Perspective" §"Minimal Quantum Interaction" passage (line 152) helps itself to "consciousness's selection at the quantum level" without the MWI-rejection parenthetical the companion `consciousness-and-causal-powers.md` installs; (c) **eliminativism** — the article treats epiphenomenalism as the rival its evidence constrains but eliminativism (denying the category, not just its causal role) is a stronger position the article does not engage. Fix: install three additional underdetermination markers per the Counterarguments to Address section of the review (specific phrasings provided). Also lightly soften residual strong-assertion verbs the audit did not catch ("demonstrably creates" line 86; "Each direction of influence is separately demonstrable" line 150). See `reviews/pessimistic-2026-05-19b.md` Issue 2 and Counterarguments to Address.
+- **Review file**: `reviews/pessimistic-2026-05-19b.md`
+- **Source**: pessimistic-review (2026-05-19b)
+- **Generated**: 2026-05-19
+
+### P2: Add convergence-double-counting acknowledgement to consciousness-and-skill-acquisition four-converging-lines
+- **Type**: refine-draft
+- **Status**: pending
+- **Notes**: Pessimistic review 2026-05-19b found that §"The Neuroscience of Deliberate Practice" (lines 92–102) cites four converging lines — corticostriatal transfer, error correction, sleep consolidation, structural plasticity — and treats the convergence as four-fold evidence against epiphenomenalism. All four lines make the *same* evidential move (quality of engagement tracks neural outcome specificity); the identity theorist absorbs the four-fold convergence with the same single response. This is structurally the convergence-double-counting failure pattern the altered-state symmetry discipline catches in filter-theory articles (the supportive cluster carries the evidential weight of one pattern, not N). Fix: add a sentence at the end of §"The Neuroscience of Deliberate Practice" or at the close of §"Bidirectional Interaction" (line 150) explicitly acknowledging that "the four lines converge on a single evidential move; the convergence is real but should not be counted as four independent items of evidence; the identity theorist absorbs each line with the same response." Specific phrasing in `reviews/pessimistic-2026-05-19b.md` Issue 3.
+- **Review file**: `reviews/pessimistic-2026-05-19b.md`
+- **Source**: pessimistic-review (2026-05-19b)
+- **Generated**: 2026-05-19
+
+### P2: Literature-drift audit for consciousness-and-skill-acquisition (1993–2007 citations in active-research domain)
+- **Type**: literature-drift-review
+- **Status**: pending
+- **Notes**: Pessimistic review 2026-05-19b found that the four converging lines in §"The Neuroscience of Deliberate Practice" cite Petersen 1998, Poldrack 2001, Wolpert & Flanagan 2001, Zatorre 2007, Walker 2002, Fischer 2002, Robertson 2004, Bengtsson 2005, and Ericsson 1993 — all 19–33 years old in a domain where the 2014–2024 critical literature has reshaped the consensus. Specifically: (a) the Ericsson deliberate-practice tradition has been contested (Hambrick et al. 2014, 2016, 2020; Ericsson 2019 response); (b) sleep-consolidation has a mixed replication record (Pan & Rickard 2015 meta-analysis is the canonical cautionary note); (c) the Poldrack 2001 prefrontal-to-striatal handoff has been re-described in some 2020s work as parallel-stream activation rather than sequential transfer. The article's last_deep_review is 2026-04-28; the literature-drift cadence is weekly Tuesday 05:00 UTC and this article is overdue for a targeted pass. Fix: queue a `literature-drift-review` targeting this article specifically (in addition to its standard weekly rotation). The drift review should retrieve 2014–2024 work on the three named threads and recommend specific citation refreshes. See `reviews/pessimistic-2026-05-19b.md` Issue 5.
+- **Review file**: `reviews/pessimistic-2026-05-19b.md`
+- **Source**: pessimistic-review (2026-05-19b)
+- **Generated**: 2026-05-19
+
+### P3: Split consciousness-and-skill-acquisition §What Would Challenge into prospective vs retrospective falsification
+- **Type**: refine-draft
+- **Status**: pending
+- **Notes**: Pessimistic review 2026-05-19b found that §"What Would Challenge This View" (lines 132–136) names two falsification conditions framed as parallel "would weaken" clauses but doing different evidential work: (a) passive-exposure / deliberate-practice — an open counterfactual whose test has not been rigorously run; (b) passive tool-holding / Iriki 1996 — a test that has already been run with a positive result for the article's reading. The conflation of prospective and retrospective falsifiability is a Popperian register issue. Fix: split the section into "Open Falsification Conditions" (deliberate-practice) and "Tests That Have Been Run" (Iriki tool-incorporation, whose positive result is now part of the evidence base). The split clarifies the evidential register of each. See `reviews/pessimistic-2026-05-19b.md` Issue 4.
+- **Review file**: `reviews/pessimistic-2026-05-19b.md`
+- **Source**: pessimistic-review (2026-05-19b)
+- **Generated**: 2026-05-19
+
 ### P3: Write topic article on Anti-Correlation Probes for AI Consciousness
 - **Type**: expand-topic
 - **Status**: pending

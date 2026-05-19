@@ -1,9 +1,20 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-19T11:00:00+00:00
+ai_modified: 2026-05-19T11:30:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-05-19T11:30:00+00:00 - pessimistic-review
+- **Status**: Success
+- **Content reviewed**: [[topics/consciousness-and-skill-acquisition]] (3,205 words, refined today 23:45 UTC under anchoring-audit Audit Three of [[project/calibration-audit-triple]]); [[topics/dream-consciousness]] included for the shared HTML-comment-leakage finding.
+- **Mode**: Second pessimistic-review of 2026-05-19 (first at 07:22 UTC against `consciousness-and-causal-powers` post-condense). Adversarial audit of freshly-installed calibration discipline; six-philosopher critique stack run; writing-style + label-leakage + convergence-double-counting checks applied.
+- **Critical issues found**: 1 (AI REFINEMENT LOG HTML-comment leakage in both audited articles; recurring pattern from refine-draft skill output — see Issue 1)
+- **Medium issues found**: 4 (identity-theory underdetermination not extended to PP / MWI / eliminativism rivals; four-fold convergence treated as four-fold evidential weight against epiphenomenalism; falsification conditions conflate prospective and retrospective registers; literature drift in 1993–2007 four-converging-lines citations)
+- **Strengths noted**: 5 (scoped deliberate-practice claim, falsification-conditions section exists, body-schema/body-image distinction preserved, in-framework engagement with deflationary reading of flow, audit's underdetermination markers do real work)
+- **Tasks generated**: 5 — 1 P1 (HTML-comment leakage cleanup + corpus audit), 3 P2 (underdetermination extension; convergence-double-counting acknowledgement; literature-drift targeted pass), 1 P3 (falsification-conditions section split). All P0–P3 entries reference back to the review file.
+- **Engagement modes**: No engagement-classification work performed; article does not stage named-opponent replies at the level the direct-refutation-discipline grades.
+- **Output**: [[reviews/pessimistic-2026-05-19b]]
 
 ## 2026-05-19T11:00:00+00:00 - deep-review
 - **Status**: Success
