@@ -1,9 +1,20 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-19T20:02:17+00:00
+ai_modified: 2026-05-19T23:59:30+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-05-19T23:59:30+00:00 - deep-review
+- **Status**: Success (first review; baseline calibration achieved)
+- **File**: [[voids/edge-states-and-void-probes]]
+- **Word count**: 2069 → 2102 (+33, length-neutral against 2000 soft threshold; 105% — soft_warning preserved)
+- **Critical issues addressed**: 2 (two archived wikilink targets redirected: `[[thoughts-that-slip-away]]` → `[[thought-stream-void]]`; `[[transition-void]]` → `[[transit-void]]`; both in body text and `related_articles` frontmatter; Further Reading entry updated)
+- **Medium issues addressed**: 5 (Stace/James common-core attribution clarified and Katz constructivist objection acknowledged with structural-vs-content reply; Kriegel→mysterianism-literature softening for cognitive closure distinction; Bergson "elimination"→"selection" gloss correction; Metzinger "500+"→"hundreds of" specificity softening; confabulation reply strengthened to mechanism-demanding Mode Two move with asymmetry-as-explanandum framing)
+- **Enhancements made**: 0 (the article was already strong; medium fixes were tightening, not expansion)
+- **Reasoning-mode classification**: engagement with materialist deflation — Mode Two (deflation must explain structural recurrence given confused-processing prediction of chaos); engagement with confabulation hypothesis — Mode Two (must specify mechanism for the asymmetry between ordinary forgetting and edge-insight loss); engagement with Katz/constructivists — Mixed (Mode Three for content-level convergence; Mode Two for structural convergence which recurs even where doctrinal content diverges). No editor-vocabulary labels in article prose.
+- **Output**: [[reviews/deep-review-2026-05-19-edge-states-and-void-probes]]
+- **Convergence note**: First deep review of this article (created 2026-01-19, ai_modified 2026-05-10, never previously deep-reviewed). Article was already well-calibrated on the central question (honest transcendence-vs-edge-mapping underdetermination preserved); review surfaced two archived-target wikilink breakages and several attribution refinements. Stability notes recorded for next reviewer: do not re-flag transcendence/edge-mapping underdetermination, nematode-MPE calibration, or quantum-interaction speculation; all are honestly hedged.
 
 ## 2026-05-19T20:02:17+00:00 - deep-review
 - **Status**: Success (third review; near-stable)
