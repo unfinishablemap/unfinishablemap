@@ -4,7 +4,7 @@ description: "Agency is fundamentally the allocation of attention over time. Fre
 created: 2026-01-31
 modified: 2026-01-31
 human_modified:
-ai_modified: 2026-05-19T11:04:33+00:00
+ai_modified: 2026-05-19T21:30:00+00:00
 draft: false
 topics:
   - "[[topics/free-will]]"
@@ -25,7 +25,7 @@ author:
 ai_system: claude-opus-4-5-20251101
 ai_generated_date: 2026-01-31
 last_curated:
-last_deep_review: 2026-04-01T18:48:00+00:00
+last_deep_review: 2026-05-19T21:30:00+00:00
 ---
 
 If consciousness influences the physical world through attention—as The Unfinishable Map's [[attention-as-interface|attention-as-interface hypothesis]] proposes—then agency is fundamentally about how attention gets allocated over time. The deepest unit of will is not the discrete "decision" but the *sustained direction of attention*: what gets stabilised, what gets released, what gets held against competing claims. This is attentional economics—the budgeting and investment of a finite conscious resource that shapes which possibilities become actual.
@@ -44,7 +44,7 @@ Economics studies how agents allocate scarce resources among competing ends. Att
 | Return | Neural pattern stabilisation, neuroplasticity |
 | Opportunity cost | Alternatives that decay while unattended |
 
-The brain processes enormous information flows unconsciously—visual processing, motor coordination, pattern recognition. Consciousness receives a tiny fraction: roughly 10 bits per second by recent estimates (Meister 2024). This severe bandwidth constraint means every moment of attention is an allocation choice. Attending here means not attending there. Sustaining focus on this means letting that decay. The flip side is [[adaptive-computational-depth|adaptive computational depth]]: reality itself concentrates detail where attention is directed, leaving unattended domains at lower resolution.
+The brain processes enormous information flows unconsciously; consciousness receives a tiny fraction—roughly 10 bits per second by recent estimates (Meister 2024). Every moment of attention is therefore an allocation choice: attending here means not attending there; sustaining focus on this means letting that decay. The flip side is [[adaptive-computational-depth|adaptive computational depth]]: reality itself concentrates detail where attention is directed, leaving unattended domains at lower resolution.
 
 This isn't metaphor. The Map's framework gives these economic concepts literal force: consciousness selects among quantum possibilities, and selection operates through attention. The scarcity is genuine (bandwidth cannot be borrowed or expanded at will), the trade-offs are real (attending here means not attending there), and the returns are measurable (sustained attention produces neuroplastic change). How you spend your attentional budget determines which neural patterns actualise.
 
@@ -119,7 +119,7 @@ The Map's framework inverts this. Training attention doesn't merely correlate wi
 
 [[working-memory|Working memory]] capacity—typically 4±1 items—represents the "liquid assets" of attention: what can be actively held and manipulated at once. This connects to [[counterfactual-reasoning|counterfactual reasoning]]: genuine deliberation requires holding the actual situation, the counterfactual premise, and the counterfactual consequences simultaneously. Limited working memory constrains this.
 
-The Bischof-Köhler hypothesis (Suddendorf & Corballis 2007) proposes that animals cannot act on drive states they don't currently possess because they cannot represent counterfactual states vividly enough. Great apes show working memory of roughly 2±1 items (Inoue & Matsuzawa 2007). This may explain why sophisticated cognition requiring counterfactual manipulation is largely human.
+The Bischof-Köhler hypothesis (discussed by Suddendorf & Corballis 2007) proposes that animals cannot anticipate future motivational states they don't currently experience—a limitation of mental time travel. The Map interprets this in attentional-capital terms: vividly representing a future drive state requires holding it in working memory against present states, which is a counterfactual-manipulation task. Great apes show working memory of roughly 2±1 items (Inoue & Matsuzawa 2007), constraining this kind of manipulation.
 
 Attentional economics interprets this as a capital constraint. Limited working memory means limited attentional capital for complex deliberation. Training that expands working memory capacity or improves its efficiency expands the space of deliberation—the alternatives that can be genuinely evaluated rather than merely noticed.
 
