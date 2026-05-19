@@ -2,9 +2,9 @@
 title: "The Simulation Hypothesis"
 description: "If reality were computed, familiar objections to mind-matter interaction would rest on contingent assumptions. A thought experiment revealing what we tacitly presuppose."
 created: 2026-01-07
-modified: 2026-01-07
+modified: 2026-05-19
 human_modified: null
-ai_modified: 2026-04-17T01:41:00+00:00
+ai_modified: 2026-05-19T04:38:17+00:00
 draft: false
 topics:
   - "[[ai-consciousness]]"
@@ -20,7 +20,7 @@ concepts:
   - "[[consciousness-as-amplifier]]"
   - "[[decoherence]]"
   - "[[haecceity]]"
-  - "[[adaptive-cognitive-limits]]"
+  - "[[naturally-occluded]]"
 related_articles:
   - "[[tenets]]"
   - "[[concepts/consciousness-selecting-neural-patterns]]"

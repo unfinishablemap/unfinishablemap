@@ -2,9 +2,9 @@
 title: "Three Kinds of Void"
 description: "The unexplored, the unexplorable, and the occluded—a taxonomy of cognitive dark spaces on the Map."
 created: 2026-01-31
-modified: 2026-05-16
+modified: 2026-05-19
 human_modified: null
-ai_modified: 2026-05-16T05:15:00+00:00
+ai_modified: 2026-05-19T04:38:17+00:00
 draft: false
 last_deep_review: 2026-05-16T05:15:00+00:00
 topics: []
@@ -21,7 +21,6 @@ related_articles:
   - "[[sleep-consciousness-void]]"
   - "[[meta-epistemology-of-limits]]"
   - "[[synesthetic-void]]"
-  - "[[adaptive-cognitive-limits]]"
   - "[[naturally-occluded]]"
   - "[[biological-cognitive-closure]]"
   - "[[the-silence-void]]"
@@ -105,8 +104,7 @@ The taxonomy itself falls under the [[meta-epistemology-of-limits#the-scope-ques
 - [[self-maintained-cognitive-limits]] — Specific tests for whether territory is defended
 - [[apophatic-approaches]] — The methodology of knowing through negation that void investigation employs
 - [[apophatic-cartography]] — Formalising criteria for distinguishing genuine closure
-- [[adaptive-cognitive-limits]] — Blind spots as evolutionary features, not defects
-- [[naturally-occluded]] — The fourth-kind category that extends this taxonomy
+- [[naturally-occluded]] — The fourth-kind category that extends this taxonomy: blind spots as evolutionary features, not defects
 - [[biological-cognitive-closure]] — Cross-cultural evidence for species-level limits
 - [[the-silence-void]] — Territory accessible only through the cessation of thought
 - [[presence-type-and-absence-type-voids]] — A cross-cutting axis: voids of lack versus voids of overwhelming excess

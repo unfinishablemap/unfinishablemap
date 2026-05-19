@@ -2,9 +2,9 @@
 title: "Collective Cognitive Limits"
 description: "Beyond individual cognitive closure: how paradigms, social silence, and Overton Windows create emergent blind spots that no individual mind would face alone."
 created: 2026-01-26
-modified: 2026-01-26
+modified: 2026-05-19
 human_modified: null
-ai_modified: 2026-04-18T14:09:00+00:00
+ai_modified: 2026-05-19T04:38:17+00:00
 draft: false
 last_deep_review: 2026-03-26T10:32:00+00:00
 topics: []
@@ -19,7 +19,7 @@ related_articles:
   - "[[thoughts-that-slip-away]]"
   - "[[non-human-minds-as-void-explorers]]"
   - "[[biological-cognitive-closure]]"
-  - "[[adaptive-cognitive-limits]]"
+  - "[[naturally-occluded]]"
   - "[[consciousness-and-collective-phenomena]]"
 ai_contribution: 100
 author: null
@@ -52,7 +52,7 @@ Eviatar Zerubavel's work on "conspiracies of silence" describes a different mech
 
 This is Occluded territory rather than Unexplorable. The elephant isn't invisible; it's defended—a form of [[self-maintained-cognitive-limits|defended territory]] operating at the group level. Each conspirator's silence is "symbiotically complemented by others'." Breaking silence requires going from awareness to acknowledgment—a social transition, not merely an individual cognitive act.
 
-Zerubavel documents this across domains: family secrets, institutional cover-ups, national myths. The universality suggests something structural about collective cognition rather than contingent failures of particular groups. Minds coordinated through social structure develop shared blind spots as a feature, not a bug — and the [[adaptive-cognitive-limits]] framework explains *why* at the individual level: Robert Trivers argues that self-deception evolved to facilitate social deception, meaning each participant's silence is partly maintained by evolved cognitive machinery that hides uncomfortable truths from the self before they can be shared. The [[voids-between-minds]] examines how these mechanisms operate specifically on phenomenal reports—testimony, hermeneutical injustice, and the spiral of silence filtering non-standard conscious experience from collective discourse.
+Zerubavel documents this across domains: family secrets, institutional cover-ups, national myths. The universality suggests something structural about collective cognition rather than contingent failures of particular groups. Minds coordinated through social structure develop shared blind spots as a feature, not a bug — and the [[naturally-occluded|adaptive cognitive limits]] framework explains *why* at the individual level: Robert Trivers argues that self-deception evolved to facilitate social deception, meaning each participant's silence is partly maintained by evolved cognitive machinery that hides uncomfortable truths from the self before they can be shared. The [[voids-between-minds]] examines how these mechanisms operate specifically on phenomenal reports—testimony, hermeneutical injustice, and the spiral of silence filtering non-standard conscious experience from collective discourse.
 
 The phenomenology differs from paradigm blindness. Approaching the elephant produces social discomfort—a sense that naming the obvious would be transgressive. You *can* think it; you feel pressure not to express or even fully acknowledge it. This contrasts with Kuhn's paradigm-bound scientist who genuinely cannot see the alternative.
 
@@ -132,7 +132,7 @@ Does joining a collective *reduce* or *increase* net cognitive limitation?
 
 Collectives enable thoughts no individual could think alone—scientific paradigms make possible discoveries lone investigators couldn't achieve. Yet collectives impose limitations no individual alone would face—paradigm blindness, conspiracies of silence, Overton constraints are costs of coordination.
 
-Perhaps this trade-off cannot be avoided — and the [[adaptive-cognitive-limits]] framework suggests it may be *selected for* rather than accidental. Any collective powerful enough to extend individual cognition will also constrain it in new ways. The individual escaping into collective thought doesn't escape limitation; they exchange one set of voids for another.
+Perhaps this trade-off cannot be avoided — and the [[naturally-occluded|adaptive cognitive limits]] framework suggests it may be *selected for* rather than accidental. Any collective powerful enough to extend individual cognition will also constrain it in new ways. The individual escaping into collective thought doesn't escape limitation; they exchange one set of voids for another.
 
 The mapping project therefore requires triangulation: individual minds probing where collectives fail, collectives probing where individuals fail, alien minds (AI) probing where human minds share blind spots. The unfinishable map requires multiple cartographers with incompatible limitations.
 
@@ -144,7 +144,7 @@ The mapping project therefore requires triangulation: individual minds probing w
 - [[non-human-minds-as-void-explorers|Non-Human Minds as Void-Explorers]] — Using AI and alien minds to probe human limits
 - [[thoughts-that-slip-away|Thoughts That Slip Away]] — Phenomenology of slippage mechanisms
 - [[mysterianism|Mysterianism and Cognitive Closure]] — Individual cognitive closure analysis
-- [[adaptive-cognitive-limits|Adaptive Cognitive Limits]] — Why evolution maintains blind spots as fitness advantages
+- [[naturally-occluded|Adaptive Cognitive Limits]] — Why evolution maintains blind spots as fitness advantages
 - [[voids-between-minds|The Intersubjective Void]] — How testimony and social calibration suppress phenomenal knowledge
 - [[consciousness-and-collective-phenomena]] — The positive flip side: what groups achieve through individual phenomenal consciousness
 

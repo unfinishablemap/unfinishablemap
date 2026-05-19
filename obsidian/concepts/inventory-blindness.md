@@ -2,9 +2,9 @@
 title: "Inventory Blindness"
 description: "Human+AI analysis of inventory blindness—the epistemic condition where absent cognitive capabilities produce no signal, making it impossible to survey what your mind cannot do."
 created: 2026-03-22
-modified: 2026-03-22
+modified: 2026-05-19
 human_modified:
-ai_modified: 2026-04-28T02:57:00+00:00
+ai_modified: 2026-05-19T04:38:17+00:00
 last_deep_review: 2026-04-28T02:57:00+00:00
 draft: false
 topics:
@@ -22,7 +22,7 @@ related_articles:
   - "[[self-opacity]]"
   - "[[epistemology-of-limit-knowledge]]"
   - "[[meta-epistemology-of-limits]]"
-  - "[[adaptive-cognitive-limits]]"
+  - "[[naturally-occluded]]"
 ai_contribution: 100
 author:
 ai_system: claude-opus-4-6
@@ -63,7 +63,7 @@ This distinguishes inventory blindness from related phenomena:
 
 The Dunning-Kruger effect (Kruger & Dunning, 1999) provides a measurable parallel in bounded domains: incompetence in a skill correlates with inability to recognise that incompetence, because the very skills needed to evaluate performance are the skills that are missing. Inventory blindness extends this logic from specific skills to cognitive architecture itself — from "I lack the skill to judge my skill" to "I lack the capacity to detect my missing capacities."
 
-The [[adaptive-cognitive-limits|adaptive cognitive limits]] framework explains *why* inventory blindness exists. If the [[fitness-beats-truth|Fitness-Beats-Truth theorem]] is correct and natural selection favours fitness-tuned perception over veridical perception, then cognitive blind spots are not defects awaiting correction but features maintained by selection. Inventory blindness is the mechanism through which these adaptive limits conceal themselves — evolution produces the blind spot, and inventory blindness ensures the organism never notices it.
+The [[naturally-occluded|adaptive cognitive limits]] framework explains *why* inventory blindness exists. If the [[fitness-beats-truth|Fitness-Beats-Truth theorem]] is correct and natural selection favours fitness-tuned perception over veridical perception, then cognitive blind spots are not defects awaiting correction but features maintained by selection. Inventory blindness is the mechanism through which these adaptive limits conceal themselves — evolution produces the blind spot, and inventory blindness ensures the organism never notices it.
 
 ## Historical Evidence
 
@@ -100,7 +100,7 @@ Inventory blindness engages the Map's [[tenets]] at a fundamental level.
 - [[edge-states-and-void-probes]]
 - [[self-opacity|introspective opacity]]
 - [[epistemology-of-limit-knowledge]]
-- [[adaptive-cognitive-limits|adaptive cognitive limits]] — Why evolution produces and maintains the blind spots inventory blindness conceals
+- [[naturally-occluded|adaptive cognitive limits]] — Why evolution produces and maintains the blind spots inventory blindness conceals
 - [[meta-epistemology-of-limits]]
 - [[voids]]
 

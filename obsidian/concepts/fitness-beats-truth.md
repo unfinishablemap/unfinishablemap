@@ -2,9 +2,9 @@
 title: "Fitness-Beats-Truth Theorem"
 description: "Hoffman, Singh & Prakash's formal proof that natural selection favours fitness-tuned perception over veridical perception—and why this undermines parsimony arguments against dualism."
 created: 2026-03-15
-modified: 2026-04-24
+modified: 2026-05-19
 human_modified:
-ai_modified: 2026-05-16T21:00:00+00:00
+ai_modified: 2026-05-19T04:38:17+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -15,7 +15,6 @@ related_articles:
   - "[[phenomenal-transparency-opacity-spectrum]]"
   - "[[perceptual-failure-and-the-interface]]"
   - "[[perceptual-degradation-and-the-interface]]"
-  - "[[adaptive-cognitive-limits]]"
   - "[[the-quantitative-comprehension-void]]"
   - "[[naturally-occluded]]"
   - "[[tenets]]"
@@ -94,8 +93,7 @@ For **[[tenets#^bidirectional-interaction|Bidirectional Interaction]]**, the FBT
 ## Further Reading
 
 - [[biological-cognitive-closure]] — How cognitive limits function as adaptive features shaped by natural selection
-- [[adaptive-cognitive-limits]] — The broader framework of evolution-maintained cognitive boundaries
-- [[naturally-occluded]] — The fourth-kind void category for which FBT is the formal-mathematical anchor
+- [[naturally-occluded]] — The broader framework of evolution-maintained cognitive boundaries and the fourth-kind void category for which FBT is the formal-mathematical anchor
 - [[phenomenal-transparency-opacity-spectrum|Phenomenal transparency]] — Why experience conceals its own representational character
 - [[perceptual-failure-and-the-interface]] — Perceptual failure analysed through Hoffman's interface framework
 - [[perceptual-degradation-and-the-interface]] — What degraded perception reveals about the interface's architecture

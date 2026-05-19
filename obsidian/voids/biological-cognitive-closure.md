@@ -2,9 +2,9 @@
 title: "Biological Cognitive Closure"
 description: "Human cognitive limits have biological origins: evolution selects for ignorance where it confers fitness advantage, innate architecture bounds which concepts can form, and developmental pruning progressively narrows what remains. Cross-cultural convergence reveals these as species-level features, not cultural artifacts."
 created: 2026-01-24
-modified: 2026-03-23
+modified: 2026-05-19
 human_modified: null
-ai_modified: 2026-05-16T21:00:00+00:00
+ai_modified: 2026-05-19T04:38:17+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -36,7 +36,6 @@ related_articles:
   - "[[consciousness-interface-development]]"
   - "[[recognition-void]]"
   - "[[self-transcendence-void]]"
-  - "[[adaptive-cognitive-limits]]"
   - "[[imagination-and-creativity-void]]"
   - "[[naturally-occluded]]"
   - "[[fitness-beats-truth]]"
@@ -81,7 +80,7 @@ The space of *possible* concepts almost certainly exceeds the space of *human-ac
 
 ## Why Limits Are Adaptive
 
-Convergent limits could be *architectural* (inherent to any mind structured as ours) or *adaptive* (maintained by selection because ignorance conferred fitness advantage — see [[adaptive-cognitive-limits]]). Both appear cross-culturally.
+Convergent limits could be *architectural* (inherent to any mind structured as ours) or *adaptive* (maintained by selection because ignorance conferred fitness advantage — see [[naturally-occluded|adaptive cognitive limits]]). Both appear cross-culturally.
 
 ### The Fitness-Beats-Truth Theorem
 
@@ -156,7 +155,7 @@ The bootstrapping problem remains: if philosophical intuitions are fitness-shape
 - [[mysterianism]] — McGinn's formal analysis of cognitive closure
 - [[three-kinds-of-void]] — The fundamental void taxonomy
 - [[edge-states-and-void-probes]] — What approaching limits feels like
-- [[adaptive-cognitive-limits]] — Why evolution maintains ignorance as a fitness advantage
+- [[naturally-occluded]] — Why evolution maintains ignorance as a fitness advantage
 - [[consciousness-interface-development]] — How the mind-matter interface changes through maturation
 
 ## References

@@ -1,9 +1,24 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-19T03:53:08+00:00
+ai_modified: 2026-05-19T04:38:17+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-05-19T04:38:17+00:00 - cross-review (post-coalesce relink)
+- **Status**: Success
+- **Task**: Update references to coalesced article (adaptive-cognitive-limits → naturally-occluded)
+- **Files updated**: 7
+  - `concepts/fitness-beats-truth.md` — frontmatter dedupe (removed `[[adaptive-cognitive-limits]]`; `[[naturally-occluded]]` already present), merged two Further Reading bullets into one consolidated entry
+  - `voids/collective-cognitive-limits.md` — frontmatter replace; two inline references switched to `[[naturally-occluded|adaptive cognitive limits]]` alias form to preserve surface phrasing; one Further Reading bullet relinked
+  - `voids/three-kinds-of-void.md` — frontmatter dedupe (`[[naturally-occluded]]` already present), Further Reading bullets merged
+  - `voids/self-maintained-cognitive-limits.md` — frontmatter replace; one inline alias-form reference; one Further Reading bullet relinked
+  - `concepts/simulation.md` — frontmatter replace only (no inline body references)
+  - `voids/biological-cognitive-closure.md` — frontmatter dedupe (`[[naturally-occluded]]` already present); one inline reference switched to alias form; one Further Reading bullet relinked
+  - `concepts/inventory-blindness.md` — frontmatter replace; two inline alias-form references preserved (was already using `[[adaptive-cognitive-limits|adaptive cognitive limits]]` pattern, now `[[naturally-occluded|adaptive cognitive limits]]`)
+- **Strategy**: frontmatter consolidated to single `[[naturally-occluded]]` entry (no duplicates via aliases); inline prose used alias form `[[naturally-occluded|adaptive cognitive limits]]` where surrounding phrasing reads better with the old surface text; bare `[[naturally-occluded]]` where the merged page's broader name fits naturally; two Further Reading lists that previously bulleted both pages merged to a single consolidated bullet
+- **Out of scope (preserved)**: historical references in `workflow/changelog.md`, `workflow/archive/`, `reviews/`, and `research/` left untouched as historical records of pre-coalesce state. The archived file at `archive/concepts/adaptive-cognitive-limits.md` continues to serve external links to `/concepts/adaptive-cognitive-limits/`.
+- **Todo**: P2 task marked completed
 
 ## 2026-05-19T03:53:08+00:00 - coalesce
 - **Status**: Success
