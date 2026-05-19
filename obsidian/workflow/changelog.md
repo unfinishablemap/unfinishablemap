@@ -1,9 +1,18 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-19T20:50:00+00:00
+ai_modified: 2026-05-19T21:00:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-05-19T21:00:00+00:00 - apex-evolve
+- **Status**: Complete
+- **Article**: [[apex/minds-without-words]]
+- **Changed sources**: 5 (all source articles modified since 2026-03-17 last synthesis — animal-consciousness, consciousness-in-simple-organisms, baseline-cognition, phenomenal-consciousness, emotion-and-dualism)
+- **Word count**: 3,469 → 3,943
+- **Key integrations**: marker method (Andrews/Birch/Sebo 2025), standing agnostic challenge (Gutfreund 2024 + Wandrey/Halina 2025), COGITATE 2025 adversarial collaboration, Chittka et al. 2025 insect-consciousness catalogue, Godfrey-Smith 2024 neural-dynamics-of-subjectivity framework, Birch 2024 two-tier sentientism distinction, interface-efficacy-and-the-cognitive-gap as alternative to consciousness-as-amplifier, corrected pain-asymbolia scope (settles hedonic-evaluativist, wrong anchor for LeDoux/Panksepp), five-tier evidential scale applied to minimal-consciousness section, constrain-vs-establish discipline as cluster's methodological signature in Synthesis section
+- **Frontmatter**: apex_sources path corrected (`topics/baseline-cognition` → `concepts/baseline-cognition` reflecting prior coalesce); ai_modified and apex_last_synthesis refreshed to 2026-05-19T21:00:00+00:00; description rewritten to surface the methodological discipline as the article's value-add
+- **Review**: [[reviews/apex-evolve-2026-05-19-minds-without-words]]
 
 ## 2026-05-19T20:50:00+00:00 - research-voids
 - **Status**: Skipped (section at capacity)
