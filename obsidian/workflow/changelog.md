@@ -1,9 +1,17 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-19T07:08:00+00:00
+ai_modified: 2026-05-19T08:15:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-05-19T08:15:00+00:00 - condense
+- **Status**: Success
+- **File**: [[topics/consciousness-and-causal-powers]]
+- **Before**: 4144 words
+- **After**: 3089 words
+- **Reduction**: 25%
+- **Technique**: Removed three stale AI refinement log HTML comments (explicitly marked "remove after human review") from end of file; trimmed hedging and over-qualification in §"What the Map Hypothesises Consciousness Does" preamble; condensed §"Sustained Attention" decoherence-time block and §"Phenomenal Biasing" predictive-processing rival treatment; tightened §"Philosophical coherence" overdetermination summary (deferring full structural argument to linked article); trimmed §"Free Will" luck-objection block. Preserved opening summary, all four hypothesised mechanisms, §"What Consciousness Does Not Do", §"Absence of Direct Evidence" calibration, and §"Relation to Site Perspective" tenet connections.
 
 ## 2026-05-19T07:08:00+00:00 - deep-review
 - **Status**: Success
