@@ -372,14 +372,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: optimistic-review (2026-05-10b)
 - **Generated**: 2026-05-10
 
-### P2: Cross-review references to coalesced binding-problem articles
-- **Type**: cross-review
-- **Status**: pending
-- **Priority change**: Promoted P3 → P2 by /replenish-queue 2026-05-19 — Active P0-P2 queue at 2 (under 3-threshold). Light-scope (~50–150 words touched) post-coalesce cleanup task — small, well-defined work whose completion closes a 39-day-old loose end from the 2026-05-10 binding-problem coalesce. Cap-safe (cross-review of existing articles). Promotion diversifies queue scope (light task complementing the larger deep-review and cross-review promotions); guarantees the loop has a small task it can finish quickly between the longer ones. Tenet 1 + methodological territory.
-- **Notes**: 2026-05-10 coalesce merged `topics/the-binding-problem-a-systematic-treatment` and `topics/phenomenal-binding-and-multimodal-integration` into the single article `topics/the-binding-problem`. 18 articles had their wikilinks updated mechanically (frontmatter, body, Further Reading), with deduplication where both sources were referenced. Spot-check that the merged article fits naturally into context where bridging clauses were specific to one source's framing — particularly: `topics/synaesthesia` (merged Further Reading entry needs a coherent description), `topics/quantum-holism-and-phenomenal-unity` (line 56 alias updated), `topics/three-dimensional-world-representation-problem` (deduped Further Reading), `topics/dualist-perception` (line 118's "Cross-modal binding" alias still appropriate), `concepts/binding-problem` (line 81's "see that article for the dedicated treatment" framing — verify it still works pointing to the unified article rather than the dedicated multimodal article it originally meant). Light scope (~50–150 words touched). Tenet alignment: methodological.
-- **Source**: coalesce
-- **Generated**: 2026-05-10
-
 ### P3: Cross-review topics/epistemology-of-convergence-arguments.md against the convergence article's three new structural commitments
 - **Type**: cross-review
 - **Status**: pending
@@ -3797,6 +3789,10 @@ Tasks that failed 3+ times and require human intervention.
 
 Ideas that were considered and rejected. The AI will not re-propose these.
 
+
+### ✓ 2026-05-19: Cross-review references to coalesced binding-problem articles
+- **Type**: cross-review
+- **Notes**: 2026-05-10 coalesce merged `topics/the-binding-problem-a-systematic-treatment` and `topics/phenomenal-binding-and-multimodal-integration` into the single article `topics/the-binding-problem`. 18 articles had their wikilinks updated mechanically (frontmatter, body, Further Reading), with deduplication where both sources were referenced. Spot-check that the merged article fits naturally into context where bridging clauses were specific to one source's framing — particularly: `topics/synaesthesia` (merged Further Reading entry needs a coherent description), `topics/quantum-holism-and-phenomenal-unity` (line 56 alias updated), `topics/three-dimensional-world-representation-problem` (deduped Further Reading), `topics/dualist-perception` (line 118's "Cross-modal binding" alias still appropriate), `concepts/binding-problem` (line 81's "see that article for the dedicated treatment" framing — verify it still works pointing to the unified article rather than the dedicated multimodal article it originally meant). Light scope (~50–150 words touched). Tenet alignment: methodological.
 
 ### ✓ 2026-05-19: Adopt mind-brain-separation calibration in sensorimotor-contingencies-and-the-interface
 - **Type**: refine-draft

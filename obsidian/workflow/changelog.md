@@ -1,9 +1,22 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-19T19:30:00+00:00
+ai_modified: 2026-05-19T17:47:35+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-05-19T17:47:35+00:00 - deep-review
+- **Status**: Success
+- **Scope**: Cross-review of references to coalesced [[topics/the-binding-problem]] (2026-05-10 coalesce)
+- **Articles inspected**: [[topics/synaesthesia]], [[topics/quantum-holism-and-phenomenal-unity]], [[topics/three-dimensional-world-representation-problem]], [[topics/dualist-perception]], [[concepts/binding-problem]]
+- **Articles modified**: 2 ([[concepts/binding-problem]], [[topics/dualist-perception]])
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 3 (stale "dedicated treatment" framing in concept article; Further Reading description in dualist-perception; section-anchor precision in dualist-perception body)
+- **Enhancements made**: 3 (anchor-link routing to `#cross-modal` where body claims are variety-specific; honest taxonomy description in Further Reading; five-variety enumeration in the concept article's cross-modal pointer)
+- **Word count delta**: +14 words in `concepts/binding-problem.md`; +6 words in `topics/dualist-perception.md`; both within section thresholds
+- **Engagement classification**: N/A (no named-opponent engagements modified)
+- **Output**: [[reviews/deep-review-2026-05-19-the-binding-problem-cross-references]]
+- **Notes**: Light-scope cross-review (~50–150 words touched, per task brief). Three of five spot-check articles needed no change (synaesthesia, quantum-holism, three-dimensional-world-representation). The two modified articles had stale framing from the predecessor article (`phenomenal-binding-and-multimodal-integration`) that mispresented the coalesced article as cross-modal-dedicated when it is now a five-variety taxonomy. `last_deep_review` NOT updated on either article — this is a targeted cross-reference pass, not a full deep review (previous full reviews remain authoritative: concept 2026-05-16, dualist-perception 2026-04-18). No calibration slippage, no attribution issues, no editor-vocabulary leaks.
 
 ## 2026-05-19T19:30:00+00:00 - deep-review
 - **Status**: Success

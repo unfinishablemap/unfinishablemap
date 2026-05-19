@@ -2,9 +2,9 @@
 title: "Dualist Perception"
 description: "Perception is where consciousness meets the world. Dissociations, phenomenal richness, and perspectival character reveal an irreducible experiential dimension—and dualism reshapes every major question in the philosophy of perception."
 created: 2026-02-16
-modified: 2026-04-23
+modified: 2026-05-19
 human_modified:
-ai_modified: 2026-04-23T22:19:00+00:00
+ai_modified: 2026-05-19T17:47:35+00:00
 last_deep_review: 2026-04-18T07:04:00+00:00
 draft: false
 topics:
@@ -115,7 +115,7 @@ Perceptual experience presents unified scenes. You see a red ball bouncing acros
 
 Proposed neural mechanisms — gamma-band synchrony, re-entrant processing, attentional binding — can explain how information is *integrated* across brain regions. But they face a further question: why does the integration produce a unified *experience*? Correlated firing in dispersed neural populations is still just dispersed firing from the physical perspective.
 
-The Map's framework suggests that [[binding-problem|phenomenal binding]] is a feature of consciousness rather than a feature of neural computation. In [[capability-division-problem|capability division]] terms, feature extraction and spatial mapping are brain-side capabilities, while the phenomenal unification of those features into a coherent experiential scene is a mind-side contribution. [[the-binding-problem|Cross-modal binding]] extends this beyond single modalities, suggesting that the unity of consciousness is not an artefact of any single sensory processing stream.
+The Map's framework suggests that [[binding-problem|phenomenal binding]] is a feature of consciousness rather than a feature of neural computation. In [[capability-division-problem|capability division]] terms, feature extraction and spatial mapping are brain-side capabilities, while the phenomenal unification of those features into a coherent experiential scene is a mind-side contribution. [[the-binding-problem#cross-modal|Cross-modal binding]] extends this beyond single modalities, suggesting that the unity of consciousness is not an artefact of any single sensory processing stream.
 
 ## What Dualism Adds to Perception Theory
 
@@ -174,7 +174,7 @@ The Map's [[tenets]] find their sharpest expression in perception.
 - [[phenomenal-overflow]] — When experience outruns cognitive access
 - [[phenomenal-transparency-opacity-spectrum|Phenomenal transparency]] — Why we see through experience to the world
 - [[binding-problem]] — The challenge of phenomenal unity from dispersed processing
-- [[the-binding-problem]] — Cross-modal binding and phenomenal unity
+- [[the-binding-problem]] — Five varieties of binding (intra-modal, cross-modal, temporal, cognitive, subject) and the shared structural gap
 - [[sensorimotor-contingencies-and-the-interface]] — Enactivist perception and the interface model
 - [[predictive-processing-and-dualism]] — Predictive processing through a dualist lens
 - [[predictive-construction-void]] — Why consciousness cannot determine the construction/reception boundary in perception
