@@ -2,9 +2,10 @@
 title: "The Perceptual Reality-Monitoring Void"
 description: "Human+AI exploration of the structural opacity around the operation by which consciousness decides, in real time, whether a content is perceived or imagined."
 created: 2026-05-18
-modified: 2026-05-18
+modified: 2026-05-19
 human_modified:
-ai_modified: 2026-05-18T12:00:00+00:00
+ai_modified: 2026-05-19T23:20:53+00:00
+last_deep_review: 2026-05-19T23:20:53+00:00
 draft: false
 topics:
   - "[[philosophy-of-mind]]"
@@ -46,11 +47,11 @@ Three converging empirical signatures make the void inescapable rather than mere
 
 ### The Perky Face
 
-In 1910, Cheves Perky asked subjects to fixate a point and visualise objects while, unbeknownst to them, a faint patch of coloured light was back-projected onto the same point. Subjects mistook the projected image for their own mental imagery, sometimes describing details that came from the projection. Perky reports that "the subjects ... took the experimenter's slightly visible illuminated patch to be a product of their own imagination" (Perky 1910, as summarised in *Stanford Encyclopedia of Philosophy*).
+In 1910, Cheves Perky asked subjects to fixate a point and visualise objects while, unbeknownst to them, a faint patch of coloured light was back-projected onto the same point. Subjects mistook the projected image for their own mental imagery, sometimes describing details that came from the projection — taking, in Perky's words, "the experimenter's slightly visible illuminated patch to be a product of their own imagination" (Perky 1910, as summarised in the *Stanford Encyclopedia of Philosophy* entry on mental imagery).
 
-Segal and Fusella's 1970 replication added two findings. The effect required relaxation induction — earlier replication attempts failed because subjects spontaneously noticed the projected stimulus, so the void requires a specific epistemic posture to manifest. The crossover was also modality-specific: imagining visual content selectively impaired visual detection; imagining auditory content selectively impaired auditory detection. The confusion is substrate-locked, not abstract.
+Segal and Fusella's 1970 replication added two findings. The effect required relaxation induction — earlier replications had failed because subjects spontaneously noticed the projected stimulus, so the void requires a specific epistemic posture to manifest. The crossover was also modality-specific: visual imagery selectively impaired visual detection, auditory imagery selectively impaired auditory detection. The confusion is substrate-locked, not abstract.
 
-The Perky face is the founding empirical demonstration that the discriminator can fail. The effect is over a century old, robustly replicable, and exploited by lucid-dreaming reality-check apps that assume the same architecture is at work between waking imagery and dream content.
+The Perky face is the founding empirical demonstration that the discriminator can fail. The effect is over a century old, robustly replicable, and exploited by lucid-dreaming reality-check apps on the assumption that the same architecture operates between waking imagery and dream content.
 
 ### The Confidence-Decoupling Face
 
@@ -90,11 +91,15 @@ The closest direct approach is **post-hoc reconstruction** — debriefing after 
 
 ### Indirect Methods
 
-**Pathological windows** are the primary route. Hallucination, derealization, dream-confabulation, and the Perky-effect literature each expose a different sub-component of the architecture by showing what its disruption looks like from inside. **Parametric VR paradigms** (Sandberg et al. 2025; the Dijkstra "virtual hallucination" line) supply the strongest non-pathological probe: stimuli are constructed to vary just the inputs the discriminator should be using, and reality-monitoring output is measured trial-by-trial. **Computational and cellular modelling** of the apical-amplification framework (Aru, Suzuki and Larkum 2020) supplies a candidate site for the discriminator; the conjunction-marker for the two neuronal inputs cortical pyramidal cells receive is the principled candidate for what reality-monitoring could exploit. The shared methodological posture: model the boundary by what disrupts traffic across it.
+**Pathological windows** are the primary route. Hallucination, derealization, dream-confabulation, and the Perky literature each expose a different sub-component by showing what its disruption looks like from inside. **Parametric VR paradigms** (Sandberg et al. 2025; the Dijkstra virtual-hallucination line) supply the strongest non-pathological probe: stimuli vary just the inputs the discriminator should be using, and reality-monitoring output is measured trial-by-trial. **Cellular and computational modelling** of the apical-amplification framework (Aru, Suzuki and Larkum 2020) supplies a candidate site: the conjunction-marker for the two inputs cortical pyramidal cells receive is the principled candidate for what reality-monitoring could exploit. The shared methodological posture is to model the boundary by what disrupts traffic across it.
 
 ### What AI Might See
 
 The opacity here is not architecturally inevitable; it is architectural-by-our-architecture. An AI system that performs perception and "imagery" (or perception and prediction) over separable representational structures has, in principle, access to the source tag its own architecture writes. This makes AI a candidate void-probe in the [[non-human-minds-as-void-explorers|non-human-minds-as-void-explorers]] sense — a system that solves the discrimination by reading the tag could report what the discrimination is *operationally*, even though it does not solve the void *for us* (the report only specifies what its architecture does, and ours may not work that way). The 2025 *Neuron* result that fusiform-gyrus activity level is the relevant first-order signal already extracts this kind of architectural claim from a system (the human brain) that cannot self-report it.
+
+### What Would Refute the Structural Claim
+
+The void's claim is that the discrimination operation is necessarily opaque to the consciousness it constitutes — not merely difficult to introspect. A finding that *introspective training* reliably eliminates the Perky effect, the confidence-decoupling, *and* the felt-real / verdict dissociation in derealization would refute the structural reading and reduce the void to a contingent skill gap. A finding that subjects can be trained to report the *fusiform activity-level signal* (Dijkstra et al. 2025) directly, rather than only its downstream verdict, would similarly compromise the structural reading. The empirical literature so far points the other way — lucid-dream training shifts the balance rather than improving the operation (Voss et al. 2014) — but the claim is falsifiable in principle by the kinds of training-and-introspection experiments the pathology windows already prefigure.
 
 ## Relation to the Predictive-Construction Void
 

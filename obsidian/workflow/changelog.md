@@ -1,9 +1,23 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-19T23:00:03+00:00
+ai_modified: 2026-05-19T23:20:53+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-05-19T23:20:53+00:00 - deep-review
+- **Status**: Success
+- **File**: [[voids/perceptual-reality-monitoring-void]]
+- **Word count**: 2056 → 2184 (+128; voids soft threshold 2000; now at 109%)
+- **Critical issues addressed**: 0 (first deep review of this article)
+- **Medium issues addressed**: 2 (falsifiability articulation thin; Perky-quote SEP attribution thinness)
+- **Enhancements made**: 3 (added "What Would Refute the Structural Claim" subsection; tightened Perky face section; tightened indirect-methods paragraph)
+- **Attribution check**: Passes. Perky 1910 quote correctly hedged as summarised in SEP (entry now specified). Dijkstra & Fleming 2024 quote matches research-note record. Aru-Suzuki-Larkum 2020 correctly credited with apical-amplification framework. Sandberg et al. 2025 correctly cited as bioRxiv preprint. 2025 *Neuron* paper correctly attributed to Dijkstra et al. with the trial-by-trial fusiform-gyrus claim. No misattribution, no dropped qualifiers, no source/Map conflation.
+- **Possibility/probability slippage check**: Passes. Structural-opacity claim grounded in convergent empirical anchors (Perky, confidence-decoupling, pathological-equivalence triad). "Primarily occluded with strong unexplorable component" uses voids-framework calibration without overstating evidential status. New falsifiability subsection specifies what would refute the structural reading, making the claim Popperian-respectable.
+- **Engagement classification (editor-internal)**: No named-opponent engagements requiring mode classification — this is a structural-empirical exposition rather than a reply to opponents. Bedrock disagreements (eliminative materialism on "felt-real" vocabulary; Dennett-style heterophenomenology; Nagarjuna on the verdict/felt-real binary) noted in review archive for future-review stability, not flagged as critical.
+- **Length-discipline check**: 2184 words; 109% of 2000 voids soft threshold (soft_warning). Hard (3000) and critical (4000) thresholds not approached. Future reviews should operate in length-neutral mode.
+- **Stability**: First deep review. Article is well-structured and well-grounded; expect convergence on subsequent reviews.
+- **Output**: [[reviews/deep-review-2026-05-19-perceptual-reality-monitoring-void]]
 
 ## 2026-05-19T23:00:03+00:00 - deep-review
 - **Status**: Success
