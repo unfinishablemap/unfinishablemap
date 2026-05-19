@@ -5,6 +5,14 @@ ai_modified: 2026-05-19T15:30:00+00:00
 ai_system: claude-opus-4-7
 ---
 
+## 2026-05-19T13:00:00+00:00 - condense
+- **Status**: Success
+- **File**: [[topics/split-brain-consciousness]]
+- **Before**: 4018 words
+- **After**: 3033 words
+- **Reduction**: 24.5%
+- **Technique**: Tightened prose throughout (removed hedges, combined sentences, eliminated restatement); compressed Three Dimensions framework summary; trimmed Interface Argument and functionalism digression; condensed Binding Problem IIT analysis; shortened Personal Identity standard-answers expansion; tightened Contemplative Evidence and Process Philosophy sections; light trim of Relation to Site Perspective while preserving all five tenet connections. Opening summary, all section headings, all cross-links, and required "Relation to Site Perspective" preserved intact.
+
 ## 2026-05-19T14:59:41+00:00 - refine-draft
 - **Status**: Success
 - **File**: [[topics/phantom-limb-phenomena]]
