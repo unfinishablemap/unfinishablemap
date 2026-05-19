@@ -4,7 +4,7 @@ description: "Recursive self-awareness transforms phenomenal experience through 
 created: 2026-02-01
 modified: 2026-04-06
 human_modified: null
-ai_modified: 2026-04-16T01:52:00+00:00
+ai_modified: 2026-05-19T08:40:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -23,6 +23,7 @@ concepts:
   - "[[self-stultification]]"
   - "[[temporal-consciousness]]"
   - "[[mental-causation-and-downward-causation]]"
+  - "[[mine-ness]]"
 related_articles:
   - "[[tenets]]"
   - "[[consciousness-and-the-ownership-problem]]"
@@ -113,7 +114,7 @@ The transformation thesis has consequences. Several capacities that define human
 
 **Authenticity and self-deception.** The reflexive gap creates the possibility of both. Self-deception requires the doubling of self-awareness: one part of consciousness holding a belief while another part dimly registers its falsity. The [[self-opacity|opacity of consciousness to itself]] ensures that self-deception can never be fully eliminated, because the very tools of self-examination are part of what needs examining.
 
-**Moral responsibility.** To be responsible for an action requires awareness that one is the agent performing it. The felt ownership of choices — the experience of "I did this" rather than "this happened" — depends on self-awareness transforming mere behaviour into authored action.
+**Moral responsibility.** To be responsible for an action requires awareness that one is the agent performing it. The felt ownership of choices — the experience of "I did this" rather than "this happened" — depends on self-awareness transforming mere behaviour into authored action. Two phenomenal layers are at work here and the responsibility argument loads both. The agency layer is the felt initiation. The [[mine-ness|mine-ness layer]] is the prior for-me character by which the choice presents as belonging to a subject before any question of authorship arises. Schizophrenic thought insertion shows the layers can come apart in one direction (ownership preserved, agency disrupted); depersonalisation shows the other (agency intact, ownership fading). Recursive self-awareness operates over both: the reflexive gap that makes "I did this" available to deliberation already presupposes the mine-ness tag on the action, on the deliberation, and on the reflective thought that examines them.
 
 **The sense of time passing.** A being that experiences without self-awareness likely encounters temporal succession — one thing after another. But the *sense* of time passing — the awareness that the present is becoming past, that one is moving through time — requires self-awareness. Husserl's analysis of [[temporal-consciousness]] shows that the experience of temporal flow depends on consciousness retaining its recent past (retention) and anticipating its near future (protention) *as its own*. The "as its own" is the self-awareness component.
 
@@ -147,6 +148,7 @@ At advanced levels, practitioners report that self-awareness persists even when 
 
 ## Further Reading
 
+- [[mine-ness]] — The for-me phenomenal feature at the layer beneath reflective self-awareness; separable from agency in pathology
 - [[self-and-self-consciousness]] — The conceptual framework: minimal self, circularity problem, and the pre-reflective/reflective distinction
 - [[self-opacity]] — What consciousness cannot know about itself — the limits self-awareness encounters
 - [[necessary-opacity]] — Consciousness cannot verify its own accuracy, and self-knowledge can destabilise the system

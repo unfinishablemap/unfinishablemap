@@ -4,7 +4,7 @@ description: "The minimal self is the structural for-me-ness of every conscious 
 created: 2026-01-14
 modified: 2026-05-01
 human_modified:
-ai_modified: 2026-05-03T01:28:00+00:00
+ai_modified: 2026-05-19T08:40:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -31,6 +31,7 @@ concepts:
   - "[[haecceity]]"
   - "[[the-self-minimal-narrative-and-substantial]]"
   - "[[illusionism]]"
+  - "[[mine-ness]]"
 related_articles:
   - "[[tenets]]"
   - "[[phenomenology-of-recursive-self-awareness]]"
@@ -79,6 +80,12 @@ Shaun Gallagher and Dan Zahavi distinguish two forms of selfhood. The **minimal 
 | Narrative self | Autobiographical story | Construction using other capacities |
 
 A fourth dimension cuts across all layers: [[self-opacity|the unobservable self]]. When attention seeks the observer, it finds only more observation.
+
+## Mine-ness and Agency as Separable Components
+
+Within the minimal-self layer, two further phenomenal features must be distinguished. [[mine-ness|Mine-ness]] is the for-me character by which experience presents as belonging to a subject. The sense of agency is the further character by which a thought or action presents as initiated by that subject. Shaun Gallagher (2000, 2012) draws the distinction from clinical phenomenology: schizophrenic thought insertion preserves ownership while disrupting agency (the thought occurs in *my* mind but feels produced by someone else), whereas depersonalisation can disrupt ownership while leaving agency intact (actions feel mine to initiate but the experiential field as a whole feels alien).
+
+Most of this article's claims about "for-me-ness" and "first-personal givenness" sit at the *mine-ness* layer rather than the agency layer. Ego-dissolution evidence concerns mine-ness; the bidirectional-interaction argument concerns agency; the indexical-identity argument concerns mine-ness as the phenomenal anchor and haecceity as its diachronic correlate. Keeping the distinction visible matters because the falsifying scenario for the Map's reading of one feature is not the falsifying scenario for the other: a body of cases in which content and mine-ness co-vary perfectly would defeat the mine-ness reading without touching the agency reading, and vice versa. The architecture is one of phenomenal feature decomposition, not a metaphysical commitment about how many subjects there are — the [[evidential-status-discipline]] applies symmetrically to both layers.
 
 ## Pre-Reflective and Reflective Self-Consciousness
 
@@ -184,6 +191,7 @@ The minimal self thesis has limited empirical testability: testing requires repo
 
 ## Further Reading
 
+- [[mine-ness]] — The for-me phenomenal feature distinguished from the sense of agency
 - [[the-self-minimal-narrative-and-substantial]] — Three conceptions of selfhood and how they nest
 - [[psychedelics-and-the-filter-model]] — Ego-dissolution evidence under the Zahavian reading
 - [[witness-consciousness]] — What remains when narrative selfhood dissolves

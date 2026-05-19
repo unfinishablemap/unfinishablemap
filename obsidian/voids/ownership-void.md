@@ -4,7 +4,7 @@ description: "Human+AI inquiry into why we cannot introspect how experiences bec
 created: 2026-02-24
 modified: 2026-04-28
 human_modified:
-ai_modified: 2026-04-28T16:53:00+00:00
+ai_modified: 2026-05-19T08:40:00+00:00
 draft: false
 topics:
   - "[[philosophy-of-mind]]"
@@ -14,6 +14,7 @@ concepts:
   - "[[introspection]]"
   - "[[mysterianism]]"
   - "[[self-and-self-consciousness]]"
+  - "[[mine-ness]]"
 related_articles:
   - "[[voids]]"
   - "[[tenets]]"
@@ -36,7 +37,9 @@ last_curated:
 last_deep_review: 2026-04-02T06:38:00+00:00
 ---
 
-Every conscious experience arrives already owned. Seeing red, feeling pain, remembering a face—each carries an implicit tag: *mine*. Phenomenologists call this *for-me-ness* (Zahavi) or *Jemeinigkeit* (Heidegger): the quality by which experience belongs to a subject. The Unfinishable Map names the ownership void for the gap that opens when we ask how this appropriation works. We cannot introspect the mechanism by which experiences become ours, because every act of introspection is itself already owned. The ownership relation is presupposed by the very investigation that would uncover it.
+Every conscious experience arrives already owned. Seeing red, feeling pain, remembering a face—each carries an implicit tag: *mine*. Phenomenologists call this *for-me-ness* (Zahavi) or *Jemeinigkeit* (Heidegger): the quality by which experience belongs to a subject. The phenomenal feature itself is treated in [[mine-ness]]; this article treats the *void* that opens when we ask how the appropriation works. The Unfinishable Map names the ownership void for that gap. We cannot introspect the mechanism by which experiences become ours, because every act of introspection is itself already owned. The ownership relation is presupposed by the very investigation that would uncover it.
+
+The void is specifically at the *mine-ness layer*—the felt for-me character of experience—and is distinct from the parallel opacity at the agency layer ([[self-opacity#The Special Case of Volition|volitional opacity]]), which concerns how an action becomes mine to initiate. Gallagher's clinical dissociations (schizophrenic thought insertion, depersonalisation) confirm the two layers are separable and so the two voids are structurally distinct, not redundant. This article concerns the mine-ness opacity; the agency opacity is its sibling, not its restatement.
 
 Depersonalisation disorder proves that mineness is a separable phenomenal feature—it can vanish while experience continues. Yet its removal reveals nothing about its mechanism. Patients report that experience loses its "for-me" quality; they do not report *seeing how ownership was constructed*. The void reveals itself as absence, never as machinery.
 
@@ -112,6 +115,7 @@ The [[tenets#^occams-limits|Occam's Razor Has Limits]] tenet applies. Predictive
 - [[necessary-opacity]] — When cognitive mechanisms become invisible through transparency, and why this opacity is structural
 - [[voids-between-minds]] — The impossibility of accessing another subject's ownership
 - [[edge-states-and-void-probes]] — What approaching limits feels like
+- [[mine-ness]] — The for-me phenomenal feature whose mechanism this void renders opaque; distinguished from agency
 - [[self-and-self-consciousness]] — Minimal self, pre-reflective awareness, and the circularity of self-knowledge
 - [[consciousness-and-the-ownership-problem]] — Why experience belongs to anyone, and what happens when it stops
 - [[phenomenal-transparency-opacity-spectrum|Phenomenal transparency]] — When the self-model hides its own construction

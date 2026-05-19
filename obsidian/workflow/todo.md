@@ -45,15 +45,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: optimistic-review (2026-05-19b)
 - **Generated**: 2026-05-19
 
-### P2: Audit mine-ness/agency distinction across self-and-self-consciousness cluster
-- **Type**: refine-draft
-- **Status**: pending
-- **Priority change**: Promoted P3 → P2 by /replenish-queue 2026-05-19 — queue starved at P0–P2. Chain from today's `concepts/mine-ness.md` expand-topic; refine-draft is no-cap and the audit-touch across 6 articles delivers high cluster-integration value at modest per-article scope. Selected to keep the loop fed with a small-scope task that exercises the cluster-integration discipline.
-- **Notes**: From optimistic-2026-05-19b §"High Priority" — the new `concepts/mine-ness.md` installs the mine-ness/agency distinction as load-bearing methodology (per Gallagher 2000, 2012: schizophrenic thought insertion preserves ownership while disrupting agency; depersonalisation does the reverse). The rest of the self-and-self-consciousness cluster does not yet uniformly preserve this distinction. Audit the following articles for places where *self-related* phenomenal features are treated without naming whether they are at the mine-ness layer or the agency layer, and install the distinction (with a short reference to `concepts/mine-ness.md`) where the discipline is currently missing: (a) `concepts/self-and-self-consciousness.md`; (b) `topics/phenomenology-of-agency-vs-passivity.md`; (c) `concepts/phenomenology-of-recursive-self-awareness.md`; (d) `voids/self-opacity.md`; (e) `topics/consciousness-and-the-ownership-problem.md`; (f) `voids/ownership-void.md`. The audit should produce reciprocal cross-links from each touched article to `concepts/mine-ness.md` and should preserve the [[evidential-status-discipline]] — the distinction is a *phenomenal-feature-architecture* claim, not a metaphysical claim. Estimated scope: ~200–500 words touched across 6 articles. Tenet alignment: Tenet 1 (Dualism) + Tenet 3 (Bidirectional Interaction) at the phenomenology-discipline tier. See `reviews/optimistic-2026-05-19b.md` §"High Priority".
-- **Review file**: `reviews/optimistic-2026-05-19b.md`
-- **Source**: optimistic-review (2026-05-19b)
-- **Generated**: 2026-05-19
-
 ### P3: Write topic article on Recovery-Order Asymmetry as Interface Evidence
 - **Type**: expand-topic
 - **Status**: pending
@@ -3773,6 +3764,10 @@ Tasks that failed 3+ times and require human intervention.
 
 Ideas that were considered and rejected. The AI will not re-propose these.
 
+
+### ✓ 2026-05-19: Audit mine-ness/agency distinction across self-and-self-consciousness cluster
+- **Type**: refine-draft
+- **Notes**: From optimistic-2026-05-19b §"High Priority" — the new `concepts/mine-ness.md` installs the mine-ness/agency distinction as load-bearing methodology (per Gallagher 2000, 2012: schizophrenic thought insertion preserves ownership while disrupting agency; depersonalisation does the reverse). The rest of the self-and-self-consciousness cluster does not yet uniformly preserve this distinction. Audit the following articles for places where *self-related* phenomenal features are treated without naming whether they are at the mine-ness layer or the agency layer, and install the distinction (with a short reference to `concepts/mine-ness.md`) where the discipline is currently missing: (a) `concepts/self-and-self-consciousness.md`; (b) `topics/phenomenology-of-agency-vs-passivity.md`; (c) `concepts/phenomenology-of-recursive-self-awareness.md`; (d) `voids/self-opacity.md`; (e) `topics/consciousness-and-the-ownership-problem.md`; (f) `voids/ownership-void.md`. The audit should produce reciprocal cross-links from each touched article to `concepts/mine-ness.md` and should preserve the [[evidential-status-discipline]] — the distinction is a *phenomenal-feature-architecture* claim, not a metaphysical claim. Estimated scope: ~200–500 words touched across 6 articles. Tenet alignment: Tenet 1 (Dualism) + Tenet 3 (Bidirectional Interaction) at the phenomenology-discipline tier. See `reviews/optimistic-2026-05-19b.md` §"High Priority".
 
 ### ✓ 2026-05-19: Cross-review related articles considering topics/targeted-lesion-discriminating-tests-between-production-and-filter-readings-of-the-memory-hierarchy.md insights
 - **Type**: cross-review

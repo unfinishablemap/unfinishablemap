@@ -1,9 +1,25 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-19T21:00:00+00:00
+ai_modified: 2026-05-19T08:40:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-05-19T08:40:00+00:00 - refine-draft
+- **Status**: Success
+- **Task**: Audit mine-ness/agency distinction across the self-and-self-consciousness cluster (from optimistic-2026-05-19b §"High Priority")
+- **Files modified**:
+  - [[concepts/self-and-self-consciousness]] — added §"Mine-ness and Agency as Separable Components"; concepts/Further Reading entries for [[mine-ness]]
+  - [[topics/phenomenology-of-agency-vs-passivity]] — rewrote §"Ownership Without Agency" closing paragraph to mark the article's central contrast as the *agency* layer and route to [[mine-ness]] for the parallel feature; concepts/Further Reading entries added
+  - [[topics/phenomenology-of-recursive-self-awareness]] — installed mine-ness/agency layering in §"What Self-Awareness Makes Possible / Moral responsibility" paragraph; concepts/Further Reading entries added
+  - [[voids/self-opacity]] — clarified §"The Special Case of Volition" as the *agency*-layer opacity, distinguished from the mine-ness-layer opacity in [[ownership-void]]; concepts/Further Reading entries added
+  - [[topics/consciousness-and-the-ownership-problem]] — added "It is not the agency problem" bullet to §"The Problem Stated"; concepts/Further Reading entries added
+  - [[voids/ownership-void]] — installed mine-ness/agency layering paragraph in opening; concepts/Further Reading entries added
+- **Discipline preserved**: each addition frames the distinction as *phenomenal-feature-architecture* (Gallagher 2000, 2012) rather than as a metaphysical commitment about subjects, per the [[evidential-status-discipline]]. Tenet alignment: Tenet 1 (Dualism) and Tenet 3 (Bidirectional Interaction) at the phenomenology-discipline tier.
+- **Cross-link reciprocity**: [[mine-ness]] already lists all six articles in its related_articles and Further Reading sections; the reciprocal edges are now installed from each touched article back to [[mine-ness]].
+- **Scope**: ~400 words touched across six articles (within the audit's 200-500-word estimate); article arguments preserved; load-bearing first-personal-givenness claims maintained.
+- **Source review**: [[reviews/optimistic-2026-05-19b]] §"High Priority / Mine-ness audits across the agency-and-self cluster"
+- **Published**: yes
 
 ## 2026-05-19T21:00:00+00:00 - replenish-queue
 - **Status**: Success
