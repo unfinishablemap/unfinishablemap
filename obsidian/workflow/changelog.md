@@ -1,9 +1,25 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-19T21:00:00+00:00
+ai_modified: 2026-05-19T21:30:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-05-19T21:30:00+00:00 - deep-review
+- **Status**: Success (no content modifications — stability confirmed)
+- **File**: [[voids/interface-formalization-void]]
+- **Previous review**: [[reviews/deep-review-2026-03-18-interface-formalization-void|2026-03-18]] — second review cycle
+- **Word count**: 1881 → 1881 (no change; 94% of voids/ 2000-word soft threshold, length-neutral mode)
+- **Critical issues addressed**: 0 (none found)
+- **Medium issues addressed**: 0 (none found)
+- **Enhancements made**: 0 (article is stable)
+- **Modifications since prior review surveyed**: (a) 2026-04-17 wikilink migrations `computational-cognitive-limits`/`incompleteness-void` → `formal-cognitive-limits` (body unchanged); (b) 2026-04-30 retarget `mathematical-void` → `the-quantitative-comprehension-void#the-abstract-mathematical-ceiling` (body + related_articles); (c) 2026-05-11 reciprocal `related_articles` additions for `mechanism-costs-dualism-thickness-quadrants` and `four-quadrant-dualism-taxonomy` (no body change). None introduced new arguments or attributions.
+- **Slippage discipline (2026-05-03 ChatGPT priority)**: structurally not available — article makes no empirical-status claims on the five-tier scale. Argument is logical-deductive from tenets to formalisation-limit conclusion; "if dualism is correct, then..." framing is correctly tenet-derivation, not empirical discovery. Hardline Empiricist persona registers explicit praise for the tenet-as-evidence-upgrade move declined.
+- **Engagement classification**: not applicable — article addresses positions (mathematical structuralism, MWI, materialist reductionism) and frameworks (Kleiner, Chalmers/McQueen IIT+CSL, Chang/Tsuchiya category theory), not named-philosopher direct-refutation targets. Framework discussion is observational ("captures structural X, falls silent at non-structural Y"). No mode classification required; no editor-vocabulary leakage detected in prose.
+- **Attribution accuracy**: clean. Russell, Masanes/Galley/Müller, Pati, Tonetto, Kleiner, Chalmers/McQueen, Chang/Tsuchiya all correctly cited and consistent with site usage (cross-verified against `research/` notes and `topics/mathematical-structure-of-the-consciousness-physics-interface.md`).
+- **Bedrock disagreements re-confirmed (do not re-flag)**: eliminative-materialist non-structural-actuality rejection, hard-nosed physicalist functionalism, quantum-skeptic measurement-consciousness dismissal, MWI dissolution of actualisation (explicitly addressed in No Many Worlds paragraph), Mādhyamaka emptiness of intrinsic nature, empiricist unfalsifiability of voids claims.
+- **Recommendation**: exclude from review queue unless a new related article introduces integration need, or ≥6 months elapse. The candidate scorer's signal (modified-since-review) was driven by wikilink-migration churn rather than argumentative drift.
+- **Output**: [[reviews/deep-review-2026-05-19-interface-formalization-void]]
 
 ## 2026-05-19T21:00:00+00:00 - deep-review
 - **Status**: Success (no content modifications — stability confirmed)
