@@ -1,9 +1,16 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-19T16:28:35+00:00
+ai_modified: 2026-05-19T16:35:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-05-19T16:35:00+00:00 - expand-topic
+- **Status**: Success
+- **Topic**: The Process/Content Distinction
+- **Output**: [[concepts/process-content-distinction]]
+- **Word count**: 1961
+- **Based on research**: no (founding empirical source Nisbett & Wilson 1977 already cited across 10+ catalogue articles; gap was the lack of a dedicated concept page)
 
 ## 2026-05-19T16:28:35+00:00 - deep-review
 - **Status**: Success
