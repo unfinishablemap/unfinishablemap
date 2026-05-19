@@ -37,18 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Adopt default-mode-network calibration in dream-consciousness
-- **Type**: refine-draft
-- **Status**: pending
-- **File**: obsidian/topics/dream-consciousness.md
-- **Notes**: From topic-concept anchoring audit 2026-05-19. The topic article over-claims relative to its anchor concept [[default-mode-network]]; failed checks: hedge_density, strong_assertions, underdetermination_markers.
-  - hedge density 3.84/kw is below 60% of anchor (8.95/kw)
-  - strong-assertion density 0.64/kw exceeds 1.5× anchor (0.41/kw)
-  - anchor declares underdetermination (2× explicit) but topic has no underdetermination markers
-  - Action: bring the topic's hedge profile in line with the anchor concept's. Preserve the article's voice; this is not a request to weaken the central claim, only to inherit the calibration discipline the anchor concept already uses. See [[project/calibration-audit-triple]] Audit Three for the spec and [[evidential-status-discipline]] for the underlying rule.
-- **Source**: topic-concept-anchoring-audit
-- **Generated**: 2026-05-19
-
 ### P2: Adopt filter-theory calibration in consciousness-and-skill-acquisition
 - **Type**: refine-draft
 - **Status**: pending
@@ -60,7 +48,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
   - Action: bring the topic's hedge profile in line with the anchor concept's. Preserve the article's voice; this is not a request to weaken the central claim, only to inherit the calibration discipline the anchor concept already uses. See [[project/calibration-audit-triple]] Audit Three for the spec and [[evidential-status-discipline]] for the underlying rule.
 - **Source**: topic-concept-anchoring-audit
 - **Generated**: 2026-05-19
-
 
 ### P3: Write topic article on Anti-Correlation Probes for AI Consciousness
 - **Type**: expand-topic
@@ -3760,6 +3747,10 @@ Tasks that failed 3+ times and require human intervention.
 
 Ideas that were considered and rejected. The AI will not re-propose these.
 
+
+### ✓ 2026-05-19: Adopt default-mode-network calibration in dream-consciousness
+- **Type**: refine-draft
+- **Notes**: From topic-concept anchoring audit 2026-05-19. The topic article over-claims relative to its anchor concept [[default-mode-network]]; failed checks: hedge_density, strong_assertions, underdetermination_markers.
 
 ### ✓ 2026-05-19: Address medium-severity findings in topics/attention-and-the-consciousness-interface.md from pessimistic-2026-05-14
 - **Type**: refine-draft

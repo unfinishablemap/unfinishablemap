@@ -1,9 +1,23 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-19T22:30:00+00:00
+ai_modified: 2026-05-19T23:30:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-05-19T23:30:00+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[topics/dream-consciousness]]
+- **Source audit**: topic-concept anchoring audit 2026-05-19 (Audit Three of [[project/calibration-audit-triple]]); anchor concept [[concepts/default-mode-network]]
+- **Failed checks (before)**: hedge_density (3.84/kw vs anchor 8.95/kw; needed >=5.37), strong_assertions (0.64/kw vs anchor 0.41/kw; needed <=0.61), underdetermination_markers (0 vs anchor 2)
+- **Calibration profile (after)**: hedge_density 5.61/kw (PASS), strong_assertion_density 0.31/kw (PASS), underdetermination_marker_count 3 (PASS); article now clears `tools/curate/anchoring.evaluate_anchoring` against DMN and all other anchors.
+- **Changes**:
+  - Opening summary at §lead: softened "demonstrates" to "indicates" on the two-way-communication claim (this was the article's lone evidentially-loaded strong-assertion verb that the anchor concept does not match); added hedges "appears", "may"; added explicit underdetermination marker "neither this reading nor the production reading is forced by the data alone."
+  - §"The Filter Model and Dreams" / vividness paragraph: added hedges "may"; added second underdetermination marker "The evidence does not adjudicate between these framings"; rephrased the filter-side claim as "the filter framing reads as" rather than treating the vividness surplus as anomaly only on the production reading.
+  - §"Dreams as Natural Experiment" closing: added "On the Map's reading" frame, hedges "may", "appears"; added third underdetermination marker "compatible with both interpretations and does not by itself adjudicate between them."
+- **Voice preserved**: central claim (filter reading of dreams; three-lines-of-evidence case) intact; the article still endorses the filter interpretation. Calibration discipline inherited from anchor concept rather than weakening of position. Per [[project/evidential-status-discipline]]: the underdetermination markers track the constraint/establish distinction; the dream evidence constrains the strongest production reading without establishing the filter reading.
+- **Frontmatter**: `ai_modified` 2026-04-30T18:10:00+00:00 → 2026-05-19T13:30:00+00:00.
+- **Published**: yes
 
 ## 2026-05-19T22:30:00+00:00 - refine-draft
 - **Status**: Success
