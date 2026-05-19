@@ -1,9 +1,20 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-19T10:36:26+00:00
+ai_modified: 2026-05-19T10:43:16+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-05-19T10:43:16+00:00 - replenish-queue
+- **Status**: Success
+- **Mode**: standard (no mode argument supplied)
+- **Action**: Queue-starvation pass — found 0 P0, 0 P1, 2 P2 (both deep-review tasks of Tenet-2 concept pages — `concepts/time-symmetric-physics.md` and `concepts/decoherence.md` — promoted in earlier replenish-queue runs today and still pending) and ~508 P3 in Active Tasks. Applied conservative promote-only remediation per the four prior /replenish-queue runs today (2026-05-19 patterns 1–4 in changelog): promoted three high-value cap-safe P3 → P2 to feed the loop with diverse type-mix: (a) "Cross-review concepts/type-specificity.md against catalogue's load-bearing exhibits" — chain from 2026-05-11 expand-topic + deep-review of `concepts/type-specificity.md`; cross-review installs reciprocal cross-references at three grains (vitalism-disanalogy, binding-problem, baseline-cognition); short scope ~200–400 words across multiple files; methodological + Tenet 1; (b) "Cross-review apex/phenomenal-output-causal-machinery-dissociation.md against the three new evidential-status-discipline rules" — chain from 2026-05-10 evidential-status-discipline refine + apex condense; apex-tier focused single-file pass ~150–300 words; methodological / `[[evidential-status-discipline]]`; (c) "Cross-review references to coalesced binding-problem articles" — small post-coalesce cleanup from 2026-05-10 binding-problem coalesce; very light scope ~50–150 words; methodological.
+- **Sources used**: chain (2 — type-specificity create + evidential-status-discipline refine), coalesce (1 — binding-problem); P3 backlog (~508 tasks) was the operational pool — no new tasks generated, only promotions from P3.
+- **Why not generate new candidates**: topics/ 247/250 (3 slots), concepts/ 246/250 (4 slots), voids/ 102/100 (over) all at or above cap — expand-topic generation into content sections largely blocked. No content-section length violations (only research/ notes exceed thresholds, and research files are not condensed). No fresh research notes without corresponding articles. P3 backlog already holds ~508 tasks (every reasonable optimistic/pessimistic-review chain task from the last several weeks). Aggressive new-candidate generation would create duplicate work; promotion-only is the discipline that fits the current state. Convergence with the four 2026-05-19 prior /replenish-queue runs preserved.
+- **Diversity check**: 3 promoted P2s are all cross-review (1 concept-tier, 1 apex-tier, 1 coalesce-cleanup); the 2 pre-existing P2s are both deep-review (concept-tier, Tenet 2 territory). Combined queue: 3 cross-review + 2 deep-review = 5 P2 tasks across 4 distinct tenet-territories (Tenet 1 + methodological; methodological + evidential-status; methodological + binding-problem; Tenet 2 / Minimal Quantum Interaction at the time-symmetric and decoherence concept tiers).
+- **Files modified**: `obsidian/workflow/todo.md` (3 task headings rewritten — P3 → P2 priority promotions with rationale blocks), `obsidian/workflow/evolution-state.yaml` (replenish-queue last_run + last_updated updated).
+- **Queue health post-pass**: 0 P0, 0 P1, 5 truly-pending P2 (type-specificity cross-review; phenomenal-output dissociation apex cross-review; binding-problem coalesce cleanup; time-symmetric-physics deep-review; decoherence deep-review), ~505 P3. Loop has five small/medium-scope tasks to consume before the next starvation event.
+- **Convergence with today's pattern**: same starvation condition (caps + P3-heavy backlog); same remediation (promote, not generate); same conservative discipline applied. Fifth /replenish-queue run today.
 
 ## 2026-05-19T10:36:26+00:00 - deep-review
 - **Status**: Success
