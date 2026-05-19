@@ -1,9 +1,27 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-19T17:47:35+00:00
+ai_modified: 2026-05-19T17:57:05+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-05-19T17:57:05+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[topics/comparative-phenomenology-of-meditative-traditions]]
+- **Original score**: not formally re-scored; article is at deep-review baseline (`last_deep_review: 2026-05-19`)
+- **Source**: optimistic-2026-05-19c §"The Hardline Empiricist (Birch)" §"One framework-stage-calibration concern" (line 84) — calibration-register concern that the §"For Phenomenological Realism" closing names "moderate phenomenological realism" without naming the cessation-vs-plenitude divergence as a constraint on how much the convergence can do.
+- **Changes**: One-paragraph honesty pass installed at §"For Phenomenological Realism" between the moderate-realism claim (existing line 145) and the heterophenomenological objection (existing line 147). The new paragraph (~215 words):
+  - Names cessation-vs-plenitude as the load-bearing constraint, citing the Theravada arahant (nirodha samapatti) vs Vedantin (*sat-chit-ananda*) contrast as the prototype.
+  - States the two-horn structure of the divergence (branching attainments → bounded evidential reach; aphasia limit → realism claim must accommodate) without claiming the convergence-argument is broken.
+  - Names affective tone (Buddhist equanimity vs Bhakti/Sufi ecstatic devotion vs Christian oscillation vs Daoist naturalness) as the sibling divergence at a less load-bearing register, per the optimistic review's task note (c).
+  - Frames both divergences explicitly as Pre-Kepler-stage observations (empirically reported but not theoretically integrated), with wikilinks to [[framework-stage-calibration]] and [[evidential-status-discipline]] — the two discipline pages the task notes name.
+  - Closing move calibrates the moderate-realist conclusion as "correctly the strongest defensible reading" *given* the divergences, honouring [[evidential-status-discipline]] (do not retract; do not over-claim; calibrate).
+- **Engagement classification**: N/A — no named-opponent engagement modified. The existing Dennett heterophenomenological engagement (line 147 → now line 149) was untouched.
+- **Editor-vocabulary check**: One Pre-Kepler-stage reference appears in the new paragraph, which is acceptable because [[framework-stage-calibration]] is the article where that vocabulary lives — natural prose citation of a Map discipline, not editor-internal classification leaking into article text. Wikilinks frame the citation appropriately.
+- **Symmetry / cessation discipline check**: The cessation-vs-plenitude divergence within the new paragraph is *not* an altered-state-symmetry failure mode (this article catalogues meditative phenomenology, not filter vs production framing); the new paragraph honestly engages the divergence rather than papering over it, which is the upstream of what the symmetry discipline asks for at the meta-level.
+- **Word count delta**: +215 words. Article is a structural overview piece (~2900 words); a 7% addition for a calibration honesty pass at the article's load-bearing closing is proportionate to the optimistic review's "load-bearing" framing of the concern.
+- **Voice preservation**: Prose voice and original argument structure preserved. The existing §"For Phenomenological Realism" subsection's flow (moderate-realism claim → heterophenomenological objection → cross-tradition argument → neurophenomenology alignment) is intact; the new paragraph slots between claim and objection without rerouting the surrounding logic.
+- **Published**: yes
 
 ## 2026-05-19T17:47:35+00:00 - deep-review
 - **Status**: Success
