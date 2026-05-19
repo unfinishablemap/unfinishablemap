@@ -1,9 +1,35 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-19T17:00:00+00:00
+ai_modified: 2026-05-19T19:00:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-05-19T19:00:00+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[topics/sensorimotor-contingencies-and-the-interface]]
+- **Original score**: not formally re-scored; article was at deep-review baseline (`last_deep_review: 2026-03-31`)
+- **Source**: Topic-concept anchoring audit 2026-05-19. Topic over-claimed relative to anchor concept `[[mind-brain-separation]]` (hedge density 0.74/kw vs 7.54/kw, 10% of anchor; under 60% threshold) and to `[[filter-theory]]` (0.74/kw vs 3.79/kw, 19%); both anchors declare underdetermination explicitly while the topic had no underdetermination markers.
+- **Changes**: Installed natural-prose calibration discipline at every load-bearing claim while preserving the central interface-reading argument:
+  - Lead paragraph: changed "The Unfinishable Map argues that sensorimotor contingencies do not explain consciousness but reveal the structure of the interface" to "The Unfinishable Map suggests that sensorimotor contingencies may not explain consciousness but instead reveal..."; added an explicit underdetermination clause ("Neither interpretation is forced by the data alone: the same sensorimotor findings are compatible with the enactivist reading on which contingency mastery exhausts perceptual experience, and with the interface reading...").
+  - Second paragraph: framed the interface reading explicitly as "a live hypothesis the sensorimotor evidence is compatible with rather than uniquely confirms."
+  - O'Regan-Noë proposal paragraph: hedged the constitutive claim as "On their account..." with a closing sentence acknowledging the proposal's contested status.
+  - Phantom-limb-and-filter paragraph: softened "this is precisely what one would expect" to "this is the sort of pattern one might expect" and added the productivist-accommodation paragraph noting that the data "constrains accounts that deny the phantom's phenomenal reality but does not by itself establish either rival reading over the other" (constrain-vs-establish discipline applied).
+  - Sensory-substitution paragraph: changed "consciousness adapts to a new interface" to "consciousness adapts to a new interface" with explicit hedging ("something more specific *may* be happening"); strengthened the existing fair-assessment paragraph with "the evidence does not decisively adjudicate between them" (explicit underdetermination marker).
+  - Bach-y-Rita paragraph: added closing clause that the same pattern is "also consistent with neural-plasticity readings on which the cortex remaps spatial coding to track whichever channel carries reliable information" (rival-model symmetry).
+  - Noë's-dilemma paragraph: added framework-boundary acknowledgment that the disagreement at this point "arguably tracks a framework boundary the empirical data alone does not adjudicate" (Mode Three engagement made explicit in natural prose).
+  - Map's-answer paragraph: changed "embodied engagement provides the interface structure, but consciousness is not identical to that structure" to "The Map's tentative answer is that embodied engagement may provide the interface structure while consciousness is not identical to that structure," explicitly flagged as "a live hypothesis the sensorimotor data is compatible with, not as an empirically forced verdict."
+  - Capability-division paragraph: hedged the brain-side/mind-side assignment as "may belong on the brain-side" with closing acknowledgment that "the division is itself a candidate framework the catalogue is exploring; the sensorimotor data does not by itself force it over rival framings."
+  - Grammar-metaphor paragraphs: changed "Sensorimotor contingencies function as the interface's grammar" to "On the interface reading, sensorimotor contingencies may function as something like the interface's grammar...The grammatical metaphor is offered as an interpretive frame, not a claim the contingency data alone establishes"; hedged subsequent identity claims throughout the section; added explicit acknowledgment that "the neural-plasticity reading describes the same phenomena without positing a separate speaker, and the empirical data does not decide between these framings."
+  - Mirror-box / Ramachandran paragraphs: hedged the interface-reading account ("might be occurring," "could retain structure") and closed with "Both readings remain compatible with the clinical findings."
+  - Phantom-interface-persistence closing: added that the body-schema question is one "the phantom data alone does not adjudicate."
+  - Bidirectional-Interaction tenet section: hedged "consciousness acts on the body" to "consciousness *may* act on the body"; added rival-model compatibility note ("it is also compatible with enactivist readings on which the same bidirectionality is the whole story, with no separate consciousness for the body to influence").
+  - No-Many-Worlds tenet section: replaced "collapse rather than branching produces the determinate bodily engagement" with "would on the Map's reading produce..." and explicit closing note that "the phenomenological observation does not by itself establish single-world over many-worlds metaphysics."
+- **Calibration profile after refine**: hedge density 12.27/kw (up from 0.74/kw), 40 hedges (up from 2), 5 explicit underdetermination markers (up from 0), strong-assertion density 1.23/kw (within 1.5× ratio of both anchors). All anchoring-audit flags now clear against `mind-brain-separation` and `filter-theory` anchors.
+- **Engagement modes**: not applicable as a primary editorial move — but the Noë dilemma section now explicitly marks the enactivist disagreement as framework-boundary (Mode Three) in natural prose, where previously it was presented as if the Map's reading settled the matter inside enactivism's framework. The Map's preferences are now consistently flagged as preferences rather than as evidentially forced verdicts.
+- **Tenet routing**: not changed; the relation-to-site-perspective section was hedged in calibration but not restructured.
+- **Word count delta**: +546 words (2714 → 3260); within natural-refine range, driven by the explicit installation of underdetermination clauses and rival-model symmetry paragraphs.
+- **Published**: yes
 
 ## 2026-05-19T17:00:00+00:00 - refine-draft
 - **Status**: Success
