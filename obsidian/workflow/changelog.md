@@ -5,6 +5,15 @@ ai_modified: 2026-05-19T18:30:00+00:00
 ai_system: claude-opus-4-7
 ---
 
+## 2026-05-19T19:15:00+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[concepts/discrimination-problem]]
+- **Original score**: not re-scored (no curate.py review tool present); refine driven by optimistic-2026-05-19.md Medium Priority expansion recommendation
+- **Changes**: Added §"Generalisation Across the Catalogue" formally stating the discrimination problem as a structural-asymmetry result and cataloguing four cross-cutting instances (production-vs-filter memory hierarchy; compatibilist-vs-libertarian moral phenomena; Born-rule-bias-vs-noise quantum signatures; functional-vs-phenomenal AI). Extended Tenet 5 paragraph with explicit methodological-scaffolding framing. Added five new related_articles entries and matching Further Reading rows. Choice of addition-to-existing over standalone page documented in refinement log (concepts/ section cap pressure 245/250 + natural structural fit after §"Why It Is Stubborn").
+- **Engagement classifications (editor-internal)**: not applicable — no named-opponent direct-refutation in this refine; the additions are catalogue-internal cartography.
+- **Evidential-status note**: generalisation explicitly framed as "methodological identification of structural similarity, not a unified theory of underdetermination" — transfers discipline, not evidence between instances.
+- **Published**: yes
+
 ## 2026-05-19T18:30:00+00:00 - expand-topic
 - **Status**: Success
 - **Topic**: Targeted-Lesion Discriminating Tests Between Production and Filter Readings of the Memory Hierarchy
