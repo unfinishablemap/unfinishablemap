@@ -1,9 +1,23 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-19T05:59:00+00:00
+ai_modified: 2026-05-19T06:00:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-05-19T06:00:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [[concepts/anti-correlated-metacognitive-signal]]
+- **Mode**: Cross-review (related articles considering anti-correlated-metacognitive-signal.md insights)
+- **Word count**: 2117 → 2117 (length-neutral; only reference list and frontmatter changed in the focus article)
+- **Critical issues addressed**: 2 — (a) reference #2 Dijkstra & Fleming 2024 misattributed: wrong title ("Subjective signal strength distinguishes reality from imagination"), wrong journal/volume (*Nature Communications* 14, 1627); corrected to "Confidence ratings do not distinguish imagination from reality" *Journal of Vision* 24(5) per cross-referenced citations in perceptual-reality-monitoring-void.md, apex/introspection-architecture-void-cluster.md, and research notes; (b) reference #4 Fleming 2024 wrong page range (241–268); corrected to 149–176 per cross-referenced citations in metacognition.md, introspection.md, and research/metacognition-consciousness-2026-01-18.md
+- **Medium issues addressed**: 2 — (a) added §"Asymmetry-Breaking Signatures" to discrimination-problem.md with link back to the new concept; (b) added paragraph in metacognition.md §"Error-Blindness" citing Coutinho 2021 and linking to the new concept, regime-conditional qualifier preserved
+- **Enhancements made**: 2 cross-links added to natural-host articles (discrimination-problem, metacognition); concepts and related_articles frontmatter updated in both target articles
+- **Engagement classifications**: N/A — the article does not directly reply to named opponents; cross-framework compatibility is honestly noted (Mode-Three-style boundary marking applied as absence-of-engagement)
+- **Attribution check (§2.5)**: Misattribution check FAILED (Dijkstra-Fleming 2024 title/journal/volume) — fixed; qualifier preservation PASS; position strength PASS; source/Map separation PASS; self-contradiction PASS
+- **Stability note**: Future reviews should NOT re-flag eliminative-materialist/heterophenomenological/universal-inversion concerns — these are bedrock-or-pre-empted. The article's restraint register (regime-conditional, architecture-vs-significance, calibration-grade) is the right register.
+- **Systemic finding**: Two reference errors shipped in a newly-created concept page despite the body citing correctly in prose; suggests residual risk in concept-page reference-list generation. Recommended discipline: final reference-list parity check against in-project usages before completing expand-concept tasks.
+- **Output**: [[reviews/deep-review-2026-05-19-anti-correlated-metacognitive-signal]]
 
 ## 2026-05-19T05:59:00+00:00 - expand-topic
 - **Status**: Success

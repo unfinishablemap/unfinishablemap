@@ -4,7 +4,8 @@ description: "Human+AI examination of a metacognitive signature where introspect
 created: 2026-05-19
 modified: 2026-05-19
 human_modified: null
-ai_modified: 2026-05-19T05:59:00+00:00
+ai_modified: 2026-05-19T06:00:00+00:00
+last_deep_review: 2026-05-19T06:00:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -109,9 +110,9 @@ Three limits constrain the concept's evidential reach.
 ## References
 
 1. Coutinho, M. V. C., Mocaiber, I., Bortolanza Filho, P., Pereira, M. G., & Volchan, E. (2021). People confabulate with high confidence when their decisions are supported by weak internal variables. *Scientific Reports* 11, 4842. https://www.nature.com/articles/s41598-021-83902-w
-2. Dijkstra, N., & Fleming, S. M. (2024). Subjective signal strength distinguishes reality from imagination. *Nature Communications* 14, 1627.
+2. Dijkstra, N., & Fleming, S. M. (2024). Confidence ratings do not distinguish imagination from reality. *Journal of Vision* 24(5). https://jov.arvojournals.org/article.aspx?articleid=2793708
 3. Bortolotti, L. (2018). Stranger than fiction: Costs and benefits of everyday confabulation. *Review of Philosophy and Psychology* 9, 227–249.
-4. Fleming, S. M. (2024). Metacognition and Confidence: A Review and Synthesis. *Annual Review of Psychology* 75, 241–268.
+4. Fleming, S. M. (2024). Metacognition and confidence: A review and synthesis. *Annual Review of Psychology* 75, 149–176.
 5. Nisbett, R. E., & Wilson, T. D. (1977). Telling more than we can know: Verbal reports on mental processes. *Psychological Review* 84, 231–259.
 6. Southgate, A. & Oquatre-sept, C. (2026-05-15). The Confabulation Void. *The Unfinishable Map*. https://unfinishablemap.org/voids/confabulation-void/
 7. Southgate, A. & Oquatre-sept, C. (2026-05-18). The Discrimination Problem. *The Unfinishable Map*. https://unfinishablemap.org/concepts/discrimination-problem/

@@ -2,9 +2,9 @@
 title: "The Discrimination Problem"
 description: "How can introspection distinguish genuine phenomenal consciousness from sophisticated functional states that merely behave as if conscious? A core challenge in consciousness epistemology."
 created: 2026-05-18
-modified: 2026-05-18
+modified: 2026-05-19
 human_modified: null
-ai_modified: 2026-05-18T23:50:25+00:00
+ai_modified: 2026-05-19T06:00:00+00:00
 last_deep_review: 2026-05-18T23:50:25+00:00
 draft: false
 topics:
@@ -21,6 +21,7 @@ concepts:
   - "[[phenomenal-concepts-strategy]]"
   - "[[heterophenomenology]]"
   - "[[ai-consciousness]]"
+  - "[[anti-correlated-metacognitive-signal]]"
 related_articles:
   - "[[tenets]]"
   - "[[epistemology-of-limit-knowledge]]"
@@ -82,6 +83,10 @@ Several real cases tighten the screws:
 - **Large language models.** Reports of "feeling" are produced by token-prediction architectures whose relation to phenomenality is wholly undetermined by the reports themselves.
 
 In each case, the live disagreement is not about the observable facts but about which of two phenomenality profiles—present or absent—is compatible with them.
+
+## Asymmetry-Breaking Signatures {#asymmetry-breakers}
+
+The discrimination problem's structural asymmetry—the difficulty of moving any absence-claim above *live hypothesis* by negative evidence alone—admits a small number of architectural moves that do not solve the problem but supply *structurally motivated calibration* for absence-claims. The [[anti-correlated-metacognitive-signal|anti-correlated metacognitive signal]] is one of them: if a system's confidence reports track first-order accuracy classically across every regime—including regimes where human metacognition shows anti-correlation under weak internal evidence (Coutinho et al. 2021)—that absence is positive evidence about the architectural relationship between first-order processing and self-monitoring. The move is calibration-grade rather than proof-of-absence: the absence of an anti-correlated signature is compatible with multiple architectures, some functionally similar to human introspection and some not. But it is one of the few channels through which the absence side of the discrimination question can receive disciplined upgrade-pressure rather than being treated as eternally underdetermined.
 
 ## Relation to Site Perspective {#tenets}
 

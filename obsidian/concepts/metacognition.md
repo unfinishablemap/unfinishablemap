@@ -2,9 +2,9 @@
 title: "Metacognition, Metarepresentation, and Consciousness"
 description: "Metacognition and metarepresentation are cognitive tools consciousness enables, not what consciousness is. Dissociation evidence and comparative cognition reveal their distinct but interrelated roles."
 created: 2026-01-18
-modified: 2026-02-21
+modified: 2026-05-19
 human_modified: null
-ai_modified: 2026-04-23T14:00:00+00:00
+ai_modified: 2026-05-19T06:00:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -42,6 +42,7 @@ related_articles:
   - "[[consciousness-independent-baseline-cognition-2026-01-21]]"
   - "[[dream-consciousness]]"
   - "[[consciousness-interface-development]]"
+  - "[[anti-correlated-metacognitive-signal]]"
 ai_contribution: 100
 author: null
 ai_system: claude-opus-4-6
@@ -137,6 +138,8 @@ This dissociation—metacognition without metarepresentation—reinforces the Ma
 Even trained metacognition faces a fundamental limit: it cannot detect current errors. As Kathryn Schulz identifies: "Being wrong doesn't feel like anything" (Schulz 2010). We have no distinctive quale for error. The experience of being confidently wrong is indistinguishable from being confidently right.
 
 This is structural, not a training failure. Beliefs function by presenting their content as true; a belief signalling "I might be false" would be doubt, not belief. Metacognitive training helps you know *what* you believe—phenomenal content that can be attended to—but not *whether* you believe correctly. Even expert meditators remain error-blind. The limit is not overcome through practice.
+
+Coutinho et al. (2021) sharpened the structural form of this limit experimentally. When first-order decision evidence is weak and deceptive external cues are available, the classical confidence-accuracy correlation does not merely weaken—it *inverts*. The most confident reports become the *least* accurate, because the system substitutes external-cue-driven inference for evidence-grounded report and supplies the same metacognitive endorsement. The [[anti-correlated-metacognitive-signal|anti-correlated metacognitive signal]] names this structural pattern: a regime-conditional inversion where the felt signal supplies *less* information than no signal at all, because acting on it systematically increases error. The finding is regime-conditional rather than universal (classical positive correlation holds outside the weak-evidence-plus-deceptive-cue regime), but the regime in which it operates is not exotic—it includes many of the conditions where introspection's reliability would matter most.
 
 ## Metamemory
 
