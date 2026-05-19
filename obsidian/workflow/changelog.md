@@ -1,9 +1,18 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-19T04:38:17+00:00
+ai_modified: 2026-05-19T04:50:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-05-19T04:50:00+00:00 - expand-topic
+- **Status**: Success
+- **Topic**: Mine-ness (phenomenal ownership as a separable feature)
+- **Output**: [[concepts/mine-ness]]
+- **Word count**: 2485
+- **Based on research**: yes, [[research/voids-ownership-void-2026-02-18]]
+- **Section**: concepts/ (definitional building block; the void treatment lives at [[ownership-void]] and the topic treatment at [[consciousness-and-the-ownership-problem]])
+- **Self-citations**: 2 ([[ownership-void]], [[consciousness-and-the-ownership-problem]])
 
 ## 2026-05-19T04:38:17+00:00 - cross-review (post-coalesce relink)
 - **Status**: Success
