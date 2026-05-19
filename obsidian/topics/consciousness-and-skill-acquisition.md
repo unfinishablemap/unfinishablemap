@@ -4,7 +4,7 @@ description: "Skill acquisition challenges epiphenomenalism—deliberate practic
 created: 2026-02-02
 modified: 2026-03-22
 human_modified:
-ai_modified: 2026-05-19T11:23:05+00:00
+ai_modified: 2026-05-19T16:30:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -135,7 +135,17 @@ Bernstein (1967) analysed automatic skills as stable coordinative structures tha
 
 ## What Would Challenge This View
 
-If purely passive exposure produced identical skill gains to deliberate practice—same hours, same content, no conscious engagement—the causal role of consciousness would be unnecessary. Current evidence favours deliberate practice (Ericsson et al., 1993), but the comparison is hard to make rigorously. If body schema expansion occurred with passive tool-holding as with active use, the interface-shaping claim would weaken.
+The article's two falsification conditions do not stand in the same evidential register, and the distinction is worth making explicit. One is *prospective*—a counterfactual whose decisive test has not yet been run. The other is *retrospective*—a counterfactual that has been tested, with a positive result that already contributes to the evidence the article relies on. Treating both as still-open challenges would conflate "what would have falsified the claim" with "what could still falsify it," and would inflate the second test's evidential force by leaving its result implicit.
+
+### Open Falsification Conditions
+
+If purely passive exposure produced identical skill gains to deliberate practice—same hours, same content, no conscious engagement—the causal role of consciousness would be unnecessary. Current evidence favours deliberate practice (Ericsson et al., 1993), but the comparison is hard to make rigorously: the conditions that would isolate passive exposure from any element of conscious engagement are difficult to construct in human subjects, and the existing studies do not adjudicate the counterfactual cleanly. This test remains genuinely open. A well-designed protocol that found equivalent skill gains under passive exposure would weaken the article's central claim; the absence of such a protocol is a present limitation, not a positive result.
+
+### Tests That Have Been Run
+
+The active-use requirement for body schema expansion has been tested. Iriki et al. (1996), cited above in §"Body Schema and Tool Incorporation," is precisely the test: macaque intraparietal neurons expanded their receptive fields during active rake use but not during passive holding. The positive result for the article's reading is part of the evidence base rather than a falsification condition still pending adjudication. What would now count as new pressure on the interface-shaping claim is different: a replication failure of the Iriki finding under improved controls, a demonstration of equivalent neural-map expansion under passive holding in a wider species range, or a re-description of the active/passive difference as an attention-and-arousal artefact rather than an engagement-quality effect. The 1996 result is the test that has been run; further pressure on the claim requires identifying what *additional* observations would now disturb the reading the result supports.
+
+### The Strongest Physicalist Alternative
 
 The strongest physicalist counterargument is that executive attention networks explain everything the Map attributes to consciousness. Imaging studies cannot determine whether prefrontal activity *is* consciousness (identity theory) or *is shaped by* consciousness (interactionism). What the data do constrain is epiphenomenalism: the tight correlation between engagement quality and neural outcome specificity is unexplained if phenomenal quality has zero causal relevance.
 

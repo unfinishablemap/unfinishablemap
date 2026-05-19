@@ -53,15 +53,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Chain parent**: concepts/mine-ness.md
 - **Generated**: 2026-05-19
 
-### P2: Split consciousness-and-skill-acquisition §What Would Challenge into prospective vs retrospective falsification
-- **Type**: refine-draft
-- **Status**: pending
-- **Priority change**: Promoted P3 → P2 by /replenish-queue 2026-05-19 — Active P0-P2 queue at 2 (under 3-threshold). Well-defined Popperian-discipline pessimistic-review followup whose scope is bounded (split one section into two; ~50–150 words touched). Addresses today's pessimistic-2026-05-19b Issue 4 — Medium severity but the clearest fix (the issue's recommendation provides the exact split). Cap-safe (refine of existing article). Promotion diversifies queue: this is the only direct fix to today's pessimistic-2026-05-19b that has not yet been completed (Issues 1, 2, 3 are in the ✓ Completed section; Issue 5 is the P2 literature-drift task). Tenet alignment: methodological / Popperian-discipline / [[evidential-status-discipline]].
-- **Notes**: Pessimistic review 2026-05-19b found that §"What Would Challenge This View" (lines 132–136) names two falsification conditions framed as parallel "would weaken" clauses but doing different evidential work: (a) passive-exposure / deliberate-practice — an open counterfactual whose test has not been rigorously run; (b) passive tool-holding / Iriki 1996 — a test that has already been run with a positive result for the article's reading. The conflation of prospective and retrospective falsifiability is a Popperian register issue. Fix: split the section into "Open Falsification Conditions" (deliberate-practice) and "Tests That Have Been Run" (Iriki tool-incorporation, whose positive result is now part of the evidence base). The split clarifies the evidential register of each. See `reviews/pessimistic-2026-05-19b.md` Issue 4.
-- **Review file**: `reviews/pessimistic-2026-05-19b.md`
-- **Source**: pessimistic-review (2026-05-19b)
-- **Generated**: 2026-05-19
-
 ### P3: Write topic article on Anti-Correlation Probes for AI Consciousness
 - **Type**: expand-topic
 - **Status**: pending
@@ -3746,6 +3737,10 @@ Tasks that failed 3+ times and require human intervention.
 
 Ideas that were considered and rejected. The AI will not re-propose these.
 
+
+### ✓ 2026-05-19: Split consciousness-and-skill-acquisition §What Would Challenge into prospective vs retrospective falsification
+- **Type**: refine-draft
+- **Notes**: Pessimistic review 2026-05-19b found that §"What Would Challenge This View" (lines 132–136) names two falsification conditions framed as parallel "would weaken" clauses but doing different evidential work: (a) passive-exposure / deliberate-practice — an open counterfactual whose test has not been rigorously run; (b) passive tool-holding / Iriki 1996 — a test that has already been run with a positive result for the article's reading. The conflation of prospective and retrospective falsifiability is a Popperian register issue. Fix: split the section into "Open Falsification Conditions" (deliberate-practice) and "Tests That Have Been Run" (Iriki tool-incorporation, whose positive result is now part of the evidence base). The split clarifies the evidential register of each. See `reviews/pessimistic-2026-05-19b.md` Issue 4.
 
 ### ✓ 2026-05-19: Refine concepts/cross-mechanism-convergence.md to resolve broken wikilinks
 - **Type**: refine-draft

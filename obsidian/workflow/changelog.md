@@ -1,9 +1,22 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-19T15:00:00+00:00
+ai_modified: 2026-05-19T16:30:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-05-19T16:30:00+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[topics/consciousness-and-skill-acquisition]]
+- **Driver**: Pessimistic-review 2026-05-19b Issue 4 — §"What Would Challenge This View" framed two falsification conditions as parallel "would weaken" clauses doing different evidential work. The deliberate-practice / passive-exposure counterfactual is *prospective* (test not rigorously run); the body-schema / passive tool-holding counterfactual is *retrospective* (Iriki et al. 1996 is the test, cited two paragraphs earlier as a positive result for the article's reading). The conflation collapses "what would have falsified" with "what could still falsify" — a Popperian register error.
+- **Changes**:
+  - Split §"What Would Challenge This View" into three subsections: a framing paragraph naming the prospective/retrospective distinction, §"Open Falsification Conditions" (the deliberate-practice / passive-exposure counterfactual, with explicit note that the comparison has not been rigorously run and the absence of such a protocol is a present limitation, not a positive result), §"Tests That Have Been Run" (the Iriki 1996 active-use test, with positive result located in the evidence base rather than the falsification queue, and a re-specification of what *additional* observations — replication failure under improved controls, equivalent map expansion under passive holding in wider species, or re-description as attention-and-arousal artefact — would now pressure the claim), and §"The Strongest Physicalist Alternative" (the identity-theory / epiphenomenalism passage preserved as-is, now under its own header).
+  - The split clarifies that the article's evidential confidence in the body-schema claim derives from a test that has been run and survived; its confidence in the deliberate-practice claim derives from a test that has not been rigorously run and therefore carries a present-limitation acknowledgement.
+- **Engagement classification (editor-internal, not in article body)**: No new named-opponent engagement introduced. The pre-existing §"Strongest Physicalist Alternative" passage (identity-theory / interactionism / epiphenomenalism trichotomy) remains Mode Three on epiphenomenalism (in-framework constraint from engagement-quality / outcome-specificity covariation) and Mode Three boundary-marking on the identity-theory / interactionism choice (imaging cannot adjudicate). No mode change; relocation under its own header only.
+- **Calibration discipline**: Issue 4 was an evidential-register issue (prospective vs retrospective falsifiability), not a hedge-strength issue. The split installs the register distinction without altering the article's underlying confidence claims. Macnamara 2014's domain-variance scoping (§"Conscious Scaffolding and Its Withdrawal") and the four-converging-lines single-evidential-move framing (§"The Neuroscience of Deliberate Practice") remain in place.
+- **Out of scope for this pass**: Issues 1 (HTML-comment block — already absent from this article), 2 (eliminativism engagement at the §"Conscious Scaffolding and Its Withdrawal" verb-register), 3 (framework-stage-calibration discipline in §"Bidirectional Interaction"), 5 (literature drift in 1993–2007 citations) are tracked separately in the pessimistic-review and will require their own refine passes; the targeted task notes for this dispatch named only Issue 4.
+- **Scope**: ~280 words added (one framing paragraph + three subsection bodies replacing two original paragraphs); ~70 words preserved verbatim from the original (physicalist-counterargument paragraph relocated under its own header).
+- **Published**: yes
 
 ## 2026-05-19T15:00:00+00:00 - refine-draft
 - **Status**: Success
