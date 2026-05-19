@@ -1,9 +1,23 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-19T17:00:00+00:00
+ai_modified: 2026-05-19T15:31:26+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-05-19T15:31:26+00:00 - deep-review
+- **Status**: Success
+- **File**: [[concepts/anti-correlated-metacognitive-signal]] (cross-link audit; the audit modified three other articles, not the concept page itself)
+- **Mode**: Cross-link audit — verify five inbound links route through canonical exhibits and identify high-value additional inbound link candidates
+- **Word counts**: phenomenal-authority 3826 → 3836 (+10, length-neutral); machine-question 3970 → 4084 (+114); heterophenomenology 2383 → 2551 (+168); concept page itself unchanged (2574)
+- **Critical issues addressed**: 0 (all five existing inbound links use canonical terminology correctly; reciprocal frontmatter verified)
+- **Medium issues addressed**: 3 (three additional inbound link candidates added: phenomenal-authority §"Methodological Implications", machine-question §"Metacognition Without Experience", heterophenomenology §"Limited Methodological Utility")
+- **Candidates declined with reasons**: 3 (birch — topical-fit tangential; open-question-ai-consciousness — covered by machine-question addition; introspection — over concept hard threshold)
+- **Engagement classification**: heterophenomenology addition is Mode Three (framework-boundary marking on what the Coutinho inversion *means*: heterophenomenological judgement-data reading vs Map architectural-relationship reading); machine-question and phenomenal-authority additions are methodological clarifications without named-opponent engagement
+- **Calibration-grade framing**: preserved verbatim across all three additions; the absence-of-anti-correlated-signature is positive evidence about architectural relationship, not proof of phenomenality presence/absence
+- **Label leakage**: none — editor-vocabulary (Mode Three, calibration-grade) appears in changelog and review archive only, not in article body prose
+- **Output**: [[reviews/deep-review-2026-05-19-anti-correlated-metacognitive-signal-cross-link-audit]]
+- **Published**: yes (drafted; the orchestrator will commit)
 
 ## 2026-05-19T17:00:00+00:00 - refine-draft
 - **Status**: Success

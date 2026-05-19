@@ -4,8 +4,8 @@ description: "Dennett's third-person method for studying consciousness. Its offi
 created: 2026-01-23
 modified: 2026-01-23
 human_modified:
-ai_modified: 2026-05-16T18:00:00+00:00
-last_deep_review: 2026-05-15T15:20:00+00:00
+ai_modified: 2026-05-19T15:31:26+00:00
+last_deep_review: 2026-05-19T15:31:26+00:00
 draft: false
 topics:
   - "[[consciousness]]"
@@ -27,6 +27,7 @@ related_articles:
   - "[[microphenomenological-interview-method]]"
   - "[[confabulation-void]]"
   - "[[topics/pupillometry-behavioural-channel]]"
+  - "[[anti-correlated-metacognitive-signal]]"
 ai_contribution: 100
 author:
 ai_system: claude-sonnet-4-5-20250929
@@ -133,6 +134,8 @@ What the Map rejects is the claim that this exhausts consciousness science—tha
 Heterophenomenology works as a tool within a larger framework that includes disciplined first-person investigation ([[phenomenology]], [[neurophenomenology-and-contemplative-neuroscience|contemplative neuroscience]]), second-person empathic methods, and philosophical argument about consciousness's nature. It fails as a complete methodology because it systematically excludes phenomenology itself.
 
 The structured first-person side has its own discipline for the confabulation worry heterophenomenology rightly identifies. The [[microphenomenological-interview-method#confabulation-resistance-discipline|Confabulation-Resistance Discipline]] section of the microphenomenology article catalogues how disciplined second-person elicitation restricts the confabulation-eligible space more than casual introspection does, without claiming to settle whether the restriction crosses from approximation to access. The [[voids/confabulation-void|confabulation void]] is conceded as structural; the *interviewer-prompts-novelty* objection is conceded by the method's own principals; the position is methodologically honest about its own ceiling. Heterophenomenology absorbs the same outputs as data without committing to inner-referent recovery — it brackets the bounded-witness reading as still claiming too much, where the Map reads the same evidence as partial purchase against the void. The disagreement is at the framework boundary rather than over the confabulation question itself.
+
+The Coutinho et al. (2021) [[anti-correlated-metacognitive-signal]] finding sharpens the data heterophenomenology must ingest. In regimes where first-order decision evidence is weak and deceptive external cues are available, the confidence-accuracy correlation inverts: subjects report *highest* confidence precisely where they are *least* accurate. Heterophenomenology takes both the verbal report and the behavioural-accuracy measure as third-person data, so the inversion is registered as a structural fact about the subject's report-generating machinery. The disagreement at the framework boundary concerns what the inversion *means*: a heterophenomenological reading treats it as a fact about judgement-generation, neutral on whether anything phenomenally backs the confident reports; the Map reads it as evidence about the architectural relationship between first-order processing and self-monitoring, with phenomenality bracketed as an additional question the data alone do not settle. The Coutinho regime is a case where the channel-disagreement framework is forced — verbal confidence and behavioural accuracy come apart within a single subject — and heterophenomenology must engage the disagreement rather than treat verbal report as the sole channel.
 
 The complementary bodily-channel data is symmetrically positioned. [[topics/pupillometry-behavioural-channel|Pupillometry as a behavioural channel]] supplies trial-locked autonomic measurement that heterophenomenology can ingest on the same neutral terms as a verbal report — a pupillary trace is a behavioural fact about the subject in the broad biological sense. What the channel-level dissociation does is force heterophenomenology to *attend* to the disagreement between verbal and bodily channels: the subject's heterophenomenological world (the world they say they inhabit) and the subject's bodily behaviour (the world the experimenter measures) can come apart in interpretable ways. The data do not refute heterophenomenology; they do narrow the easiest reading on which verbal report exhausts what can be said.
 
