@@ -1,9 +1,17 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-19T18:29:46+00:00
+ai_modified: 2026-05-19T19:00:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-05-19T19:00:00+00:00 - condense
+- **Status**: Success
+- **File**: [[topics/comparative-phenomenology-of-meditative-traditions]]
+- **Before**: 4033 words
+- **After**: 3054 words
+- **Reduction**: 24%
+- **Technique**: tightened tradition-by-tradition descriptions across the three convergence zones (dissolution of self, awareness-without-content, subject-object collapse); compressed witness-status and cessation-vs-plenitude divergence sections; merged and streamlined the heavily-hedged "For Phenomenological Realism" section (3 long heterophenomenological paragraphs → 2 leaner ones; removed repetition between the calibration-against-divergences framing and the report-vs-experience-structure framing); compressed the long Sino-Indian audit and Neoplatonist common-cause paragraphs in "Against Cultural Construction"; trimmed the deflationist-rejoinder and Buddhist-resistance paragraphs in the Dualism subsection of "Relation to Site Perspective"; tightened the Bidirectional Interaction subsection; preserved opening summary, all wikilinks, references, and tenet-connection structure.
 
 ## 2026-05-19T18:29:46+00:00 - deep-review
 - **Status**: Success
