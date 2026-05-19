@@ -2,9 +2,9 @@
 title: "Contextual Selection in Quantum Foundations"
 description: "Quantum contextuality means measurement outcomes depend on what else is measured simultaneously. This shapes how consciousness might select among quantum possibilities."
 created: 2026-03-29
-modified: 2026-03-29
+modified: 2026-05-19
 human_modified:
-ai_modified: 2026-03-30T03:18:00+00:00
+ai_modified: 2026-05-19T07:03:12+00:00
 draft: false
 topics:
   - "[[quantum-measurement-and-consciousness]]"
@@ -29,7 +29,7 @@ author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-03-29
 last_curated:
-last_deep_review: 2026-03-29T20:05:00+00:00
+last_deep_review: 2026-05-19T07:03:12+00:00
 ---
 
 Contextual selection is the principle that quantum measurement outcomes cannot be assigned independently of the broader measurement context. The Kochen-Specker theorem (1967) proves that no assignment of definite values to all observables can be both consistent and context-independent—what result obtains for a given observable depends on which other observables are measured alongside it. The theorem's direct target is non-contextual hidden-variable theories, not consciousness. But its implications extend to any account of how definite outcomes arise from quantum systems, including The Unfinishable Map's [[interactionist-dualism|interactionist framework]]: if [[consciousness-selecting-neural-patterns|consciousness selects among quantum outcomes]], that selection process is subject to the same contextual constraints as any other outcome-determining process. The act of selection and the context in which it occurs are inseparable.
@@ -58,7 +58,7 @@ The Map's [[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]] te
 
 **Context constrains any selection process.** No outcome-determining process—physical or otherwise—can yield a result that the measurement context does not offer. For the Map's framework specifically, this aligns with the commitment to minimal interaction: consciousness does not override physics but operates within the space that physics provides. The measurement context—determined by the brain's physical configuration—defines the available options. Consciousness, on this account, biases which option actualizes.
 
-**Attention as context-setting (speculative).** Stapp's quantum Zeno framework, in which conscious attention holds a preferred neural pattern by repeatedly "asking" the same quantum question, gains additional structure when read through contextuality. Contextuality implies that *which question is asked* matters fundamentally—different questions (different measurement contexts) make different outcomes available. This is a feature of quantum mechanics itself, not specific to consciousness. The Map's speculative extension: if mental attention could influence the measurement context, consciousness would not merely select from a fixed set of answers but participate in determining what questions the brain's quantum dynamics poses. This is not implied by the Kochen-Specker theorem—it requires the additional assumption that consciousness has causal access to the measurement context, which is the Map's conjecture rather than a consequence of contextuality.
+**Attention as context-setting (speculative).** [[stapp-quantum-mind|Stapp's quantum Zeno framework]], in which conscious attention holds a preferred neural pattern by repeatedly "asking" the same quantum question, gains additional structure when read through contextuality. Contextuality implies that *which question is asked* matters fundamentally—different questions (different measurement contexts) make different outcomes available. This is a feature of quantum mechanics itself, not specific to consciousness. The Map's speculative extension: if mental attention could influence the measurement context, consciousness would not merely select from a fixed set of answers but participate in determining what questions the brain's quantum dynamics poses. This is not implied by the Kochen-Specker theorem—it requires the additional assumption that consciousness has causal access to the measurement context, which is the Map's conjecture rather than a consequence of contextuality.
 
 **Differentiating quantum consciousness mechanisms.** Contextuality provides a structural criterion for [[comparing-quantum-consciousness-mechanisms|comparing quantum consciousness mechanisms]]. Proposals differ in how they handle measurement context: Orch OR locates contextuality in microtubule geometry, Stapp's Zeno approach locates it in the choice of measurement operator, and the Map's post-decoherence selection framework treats the decohered basis itself as the context within which consciousness acts. The contextual structure each proposal assumes shapes its predictions and vulnerabilities.
 
