@@ -1,9 +1,22 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-19T23:39:57+00:00
+ai_modified: 2026-05-19T23:44:23+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-05-19T23:44:23+00:00 - deep-review
+- **Status**: Success (convergence)
+- **File**: [[concepts/language-and-consciousness]]
+- **Word count**: 1846 → 1846 (no change; well below 2500 soft threshold at 74%)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Attribution check**: Passes. All eight attributions re-verified (Grice 1957, Searle 1983/1992, Wittgenstein PI §243-315, Kripke 1982, Carnap 1932, Ryle 1949, Chalmers 2007, Brandom 1994). No misattribution, dropped qualifiers, source/Map conflation, or self-contradiction.
+- **Possibility/probability slippage check**: Passes. Article makes no evidential-status claims on the five-tier scale and does not invoke tenet-coherence as if it elevated empirical evidence.
+- **Engagement classification (editor-internal)**: engagement with phenomenal concepts strategy: Mode One; the dilemma argument shows the strategy defective on its own terms (either fails to capture phenomenal character or smuggles in something non-physical). engagement with logical positivism/behaviourism: Mode One; programme failed by its own reductive standards. engagement with inferentialism (Wittgenstein, Brandom, Sellars): Mixed; credits shared-meaning capture while marking the "what it is like to understand" residue at the framework boundary. engagement with eliminativism/hard-nosed physicalism: Mode Three (framework-boundary), handled via the tenets-relation section. No editor-vocabulary leakage. No boundary-substitution.
+- **Stability**: Sixth consecutive review. Definitive stability re-confirmed — no substantive content changes since 2026-03-24 review and no new issues found this pass. Only `ai_modified` and `last_deep_review` timestamps updated.
+- **Output**: [[reviews/deep-review-2026-05-19-language-and-consciousness]]
 
 ## 2026-05-19T23:39:57+00:00 - deep-review
 - **Status**: Success (convergence)
