@@ -1,9 +1,17 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-19T07:39:07+00:00
+ai_modified: 2026-05-19T18:30:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-05-19T18:30:00+00:00 - expand-topic
+- **Status**: Success
+- **Topic**: Targeted-Lesion Discriminating Tests Between Production and Filter Readings of the Memory Hierarchy
+- **Output**: [[topics/targeted-lesion-discriminating-tests-between-production-and-filter-readings-of-the-memory-hierarchy]]
+- **Word count**: 3253
+- **Based on research**: yes (built on [[topics/memory-system-vulnerability-hierarchies-as-interface-evidence]] §"The Structural Argument" and [[research/memory-anomalies-2026-05-08]]; informed by `optimistic-2026-05-19.md` High Priority expansion recommendation)
+- **Notes**: Converts the memory-vulnerability hierarchy article's named-but-undeveloped discriminating test ("a narrow perturbation that hits an autonoetic-supporting region while sparing its noetic-supporting subregions") into a worked design space. Four-ingredient specification of the test; survey of existing approximations (K.C., H.M., semantic dementia, REM-disrupting brainstem lesions); three structural limitations on existing clinical literature; three candidate target-region pairs (medial vs lateral PFC; precuneus/PCC vs lateral parietal; anterior thalamic nuclei vs mediodorsal thalamus); animal-model variant assessment. Honours [[evidential-status-discipline]] (constrain-vs-establish) and [[direct-refutation-discipline]] (Mode Four empirical underdetermination as the honest discharge). Self-citations to memory-system-vulnerability-hierarchies article, discrimination-problem, and direct-refutation-discipline.
 
 ## 2026-05-19T07:39:07+00:00 - deep-review
 - **Status**: Success
