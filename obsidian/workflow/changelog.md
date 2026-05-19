@@ -1,9 +1,21 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-19T11:31:38+00:00
+ai_modified: 2026-05-19T14:00:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-05-19T14:00:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [[apex/phenomenal-output-causal-machinery-dissociation]]
+- **Word count**: 4991 → 4994 (+3; length-neutral mode at edge of 5000 hard threshold)
+- **Mode**: Cross-review against the three new evidential-status-discipline rules: (1) Phenomenological Datum ≠ Irreducible Metaphysical Datum, (2) Dissociation Arguments Must Separate Four Levels, (3) Compatibility vs. Support at the Rival-Model Interface (with MWI checklist and citation-aging sub-rules).
+- **Critical issues addressed**: 0 (none found; rules 1 and 3 already satisfied in natural prose at lines 113, 149, 159, and §Relation to Site Perspective).
+- **Medium issues addressed**: 1 (rule 2 — the four-level dissociation chain was running implicitly through every dissociation citation but was not named; installed a single paragraph in §The Constrain-vs-Establish Discipline naming separability → phenomenological reality → mechanistic independence → metaphysical irreducibility, identifying which levels the article's evidence delivers at what argumentative weight, showing the higher levels are reached only by cumulative convergence).
+- **Low issues addressed**: 3 (Wegner paragraph tightened, removing redundant closing sentence and restructuring opening framing; §Seven Traditions tightened, removing meta-commentary about "honest weighting differs from a previous draft" and a restatement of the normal-cognitive-science point; §Diagnostic Signature mode-fragility closing tightened, removing meta-commentary about treatment).
+- **Engagement classification (editor-internal, not in article body)**: five named-opponent engagements — sophisticated functionalist (Mode Three); higher-order theory and illusionism (Mode Two-adjacent, unsupported single-shape-account move); selective-access alternatives (Mode Three, explicit compatibility-not-support); Wegner (Mode Three with inversion-flag); shared-introspective-architecture common-cause hypothesis (Mode Two with structural defence). No boundary-substitution; no label leakage. Editor vocabulary appears nowhere in article prose.
+- **Rule-compliance summary**: Rule 1 satisfied at lines 149, 159, and §Relation to Site Perspective. Rule 2 installed this review (single paragraph at §The Constrain-vs-Establish Discipline). Rule 3 satisfied at lines 113, 159, and §Relation to Site Perspective (the cluster's claim is structural-cost rather than unique-prediction; selective-access alternatives explicitly named as equally compatible). MWI checklist not triggered (article does not refute MWI). Citation-aging rule satisfied without invocation (load-bearing citations are not pre-2020 single-site neuroimaging).
+- **Output**: [[reviews/deep-review-2026-05-19-phenomenal-output-cross-evidential-status-discipline]]
 
 ## 2026-05-19T11:31:38+00:00 - optimistic-review
 - **Status**: Success

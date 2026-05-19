@@ -305,14 +305,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: optimistic-review (2026-05-10b)
 - **Generated**: 2026-05-10
 
-### P2: Cross-review apex/phenomenal-output-causal-machinery-dissociation.md against the three new evidential-status-discipline rules
-- **Type**: cross-review
-- **Status**: pending
-- **Priority change**: Promoted P3 → P2 by /replenish-queue 2026-05-19 — Active P0-P2 queue at 2 (under 3-threshold). Apex-tier cross-review with focused single-file scope (~150–300 words touched). Apex articles are the catalogue's load-bearing synthesis tier — discipline-aware hedging at this level is structurally important. The condense pressure noted in the original task is a continuing concern (the article has received multiple condense passes since the original 2026-05-10 generation). Cap-safe: cross-review modifies an existing apex article; no new content created. Diversifies the promoted-P2 mix (cross-review at apex tier, alongside the cross-review at concept tier and the two deep-reviews at concept tier).
-- **Notes**: Chain from today's 2026-05-10 refine of `obsidian/project/evidential-status-discipline.md` (three new rules: phenomenological-vs-metaphysical, dissociation-levels, MWI-checklist). The apex article was condensed today (5404 → ~4000 words; commit landed) — the condense pressure may have shortened the discipline-aware hedging that the article previously carried. Cross-review should: (a) verify the apex article still cleanly distinguishes the four dissociation levels (separability, phenomenological reality, mechanistic independence, metaphysical irreducibility) per the new rule, particularly for its load-bearing dissociations — Naccache effortless-control, Würzburg–Titchener, the binding-problem cluster's phenomenal-without-functional cases; (b) verify the apex's source articles are mutually visible at the discipline-level — the article links to several source pages whose dissociations bear different evidential weights, and the four-level distinction should be visible at the apex tier rather than only in source articles; (c) install reciprocal cross-link to the just-refined `[[project/evidential-status-discipline]]` if the discipline reference was previously implicit; (d) flag any post-condense framing that now reads as a separability→metaphysical-irreducibility slide. Short scope (~150–300 words touched). Tenet alignment: methodological / [[evidential-status-discipline]]. Sequencing: independent of the broader cross-articles dissociation-levels audit (P2 above); this apex-tier check is a focused single-file pass.
-- **Source**: chain (from condense + evidential-status-discipline refine 2026-05-10)
-- **Generated**: 2026-05-10
-
 ### P2: Deep review concepts/decoherence.md
 - **Type**: deep-review
 - **Status**: pending
@@ -3745,6 +3737,10 @@ Tasks that failed 3+ times and require human intervention.
 
 Ideas that were considered and rejected. The AI will not re-propose these.
 
+
+### ✓ 2026-05-19: Cross-review apex/phenomenal-output-causal-machinery-dissociation.md against the three new evidential-status-discipline rules
+- **Type**: cross-review
+- **Notes**: Chain from today's 2026-05-10 refine of `obsidian/project/evidential-status-discipline.md` (three new rules: phenomenological-vs-metaphysical, dissociation-levels, MWI-checklist). The apex article was condensed today (5404 → ~4000 words; commit landed) — the condense pressure may have shortened the discipline-aware hedging that the article previously carried. Cross-review should: (a) verify the apex article still cleanly distinguishes the four dissociation levels (separability, phenomenological reality, mechanistic independence, metaphysical irreducibility) per the new rule, particularly for its load-bearing dissociations — Naccache effortless-control, Würzburg–Titchener, the binding-problem cluster's phenomenal-without-functional cases; (b) verify the apex's source articles are mutually visible at the discipline-level — the article links to several source pages whose dissociations bear different evidential weights, and the four-level distinction should be visible at the apex tier rather than only in source articles; (c) install reciprocal cross-link to the just-refined `[[project/evidential-status-discipline]]` if the discipline reference was previously implicit; (d) flag any post-condense framing that now reads as a separability→metaphysical-irreducibility slide. Short scope (~150–300 words touched). Tenet alignment: methodological / [[evidential-status-discipline]]. Sequencing: independent of the broader cross-articles dissociation-levels audit (P2 above); this apex-tier check is a focused single-file pass.
 
 ### ✓ 2026-05-19: Deep review concepts/time-symmetric-physics.md
 - **Type**: deep-review
