@@ -37,6 +37,31 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
+### P2: Adopt default-mode-network calibration in dream-consciousness
+- **Type**: refine-draft
+- **Status**: pending
+- **File**: obsidian/topics/dream-consciousness.md
+- **Notes**: From topic-concept anchoring audit 2026-05-19. The topic article over-claims relative to its anchor concept [[default-mode-network]]; failed checks: hedge_density, strong_assertions, underdetermination_markers.
+  - hedge density 3.84/kw is below 60% of anchor (8.95/kw)
+  - strong-assertion density 0.64/kw exceeds 1.5× anchor (0.41/kw)
+  - anchor declares underdetermination (2× explicit) but topic has no underdetermination markers
+  - Action: bring the topic's hedge profile in line with the anchor concept's. Preserve the article's voice; this is not a request to weaken the central claim, only to inherit the calibration discipline the anchor concept already uses. See [[project/calibration-audit-triple]] Audit Three for the spec and [[evidential-status-discipline]] for the underlying rule.
+- **Source**: topic-concept-anchoring-audit
+- **Generated**: 2026-05-19
+
+### P2: Adopt filter-theory calibration in consciousness-and-skill-acquisition
+- **Type**: refine-draft
+- **Status**: pending
+- **File**: obsidian/topics/consciousness-and-skill-acquisition.md
+- **Notes**: From topic-concept anchoring audit 2026-05-19. The topic article over-claims relative to its anchor concept [[filter-theory]]; failed checks: hedge_density, strong_assertions, underdetermination_markers.
+  - hedge density 2.26/kw is below 60% of anchor (3.88/kw)
+  - strong-assertion density 1.88/kw exceeds 1.5× anchor (0.97/kw)
+  - anchor declares underdetermination (1× explicit) but topic has no underdetermination markers
+  - Action: bring the topic's hedge profile in line with the anchor concept's. Preserve the article's voice; this is not a request to weaken the central claim, only to inherit the calibration discipline the anchor concept already uses. See [[project/calibration-audit-triple]] Audit Three for the spec and [[evidential-status-discipline]] for the underlying rule.
+- **Source**: topic-concept-anchoring-audit
+- **Generated**: 2026-05-19
+
+
 ### P3: Write topic article on Anti-Correlation Probes for AI Consciousness
 - **Type**: expand-topic
 - **Status**: pending
@@ -140,15 +165,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: chain (expand-topic confabulation-void 2026-05-15) + optimistic-review (2026-05-15)
 - **Generated**: 2026-05-15
 - **Completed**: 2026-05-18 (resolved 2026-05-19 by /replenish-queue)
-
-### P2: Address medium-severity findings in topics/attention-and-the-consciousness-interface.md from pessimistic-2026-05-14
-- **Type**: refine-draft
-- **Status**: pending
-- **Priority change**: Promoted P3 → P2 by /replenish-queue 2026-05-19 — Active P0-P2 queue at 2 (under 3-threshold). The P1 critical-defects sequencing constraint named in the original notes refers to the 2026-03-29 refine-draft task at line 1476 ("Qualify selection trilemma and Schwartz OCD claims") which is now marked done (Schwartz OCD claims already qualified; selection-trilemma and Cai issues remain — these are partially overlapping with this task's findings c, e, f). Verified: no active editing-conflict task targets this article. Refine-draft is low-risk and addresses 8 named pessimistic-review findings with `[[evidential-status-discipline]]` register — high-leverage. No cap concern. Diversifies the promoted-task type-mix (refine-draft + deep-review × 2).
-- **Notes**: Eight further findings from `reviews/pessimistic-2026-05-14.md` to address. (a) **Tegmark numerical engagement at line 102** — Tegmark (2000) is cited only in references; engage the numerical claim in body (10⁻¹³–10⁻²⁰s decoherence times at body temperature, ~10¹⁰× faster than fastest neural process) and what would have to be true about brain quantum-ordered subsystems to push timescales into cognitively relevant ranges. (b) **"2025 evidence of room-temperature quantum effects" at line 148** is unsourced — either cite a specific paper or downgrade the claim. (c) **OCD/Schwartz subsection at line 135** admits the study is "small (18 participants, only 9 new), unreplicated outside Schwartz's group, and explicable by Hebbian learning" then concludes "what remains philosophically significant is the pathway divergence" — a study with those defects has nothing left philosophically significant to support. Either rework to honour `[[evidential-status-discipline]]` or remove the section. (d) **Zheng & Meister (2024) "10 bits/sec" at line ~125** — this is a behavioural-throughput estimate, not a neural-processing limit; the "~10⁹ bits/sec sensory input" comparand mixes transduction-rate with cognitive-throughput producing a misleading "100-million-fold asymmetry." Reframe to acknowledge what the figure actually measures. (e) **Sjöberg (2024) at line 147** overstates the inference — SMA-resected patients losing movement-execution-with-preserved-willing is consistent with multiple positions including the standard interpretation (RP reflects motor preparation, not the conscious decision per se). Downgrade from "refutation" to "one data point against the strongest Libet reading." (f) **Witness consciousness at line 137** — the introspective reports of contemplatives are exactly what AST would predict if the schema is recursively turned on its own attention; address this rejoinder rather than presenting the data as anti-AST evidence. (g) **§"Relation to Site Perspective" rhetorical-stutter** — four of five paragraphs open with "Within the Map framework" / "Consciousness..." constructions; vary openings. (h) **Transit-void claim at line 86** — the claim that the moment-of-attentional-capture is unavailable to first-person access is a strong phenomenological claim made without citation and may be true at the moment-of-capture level while false at the retrospective-reconstruction level — specify which. Estimated scope: ~200–400 words touched across multiple sections. Tenet alignment: methodological / `[[evidential-status-discipline]]` / writing-style. **Sequencing**: execute *after* the P1 critical-defects task above to avoid editing-conflict.
-- **Review file**: `reviews/pessimistic-2026-05-14.md`
-- **Source**: pessimistic-review (2026-05-14)
-- **Generated**: 2026-05-14
 
 ### P3: Write topic article "Sorkin-Δ Brain-Internal Analogues — What a Triple-Slit Test for Neural Tissue Would Look Like"
 - **Type**: expand-topic
@@ -3744,6 +3760,10 @@ Tasks that failed 3+ times and require human intervention.
 
 Ideas that were considered and rejected. The AI will not re-propose these.
 
+
+### ✓ 2026-05-19: Address medium-severity findings in topics/attention-and-the-consciousness-interface.md from pessimistic-2026-05-14
+- **Type**: refine-draft
+- **Notes**: Eight further findings from `reviews/pessimistic-2026-05-14.md` to address. (a) **Tegmark numerical engagement at line 102** — Tegmark (2000) is cited only in references; engage the numerical claim in body (10⁻¹³–10⁻²⁰s decoherence times at body temperature, ~10¹⁰× faster than fastest neural process) and what would have to be true about brain quantum-ordered subsystems to push timescales into cognitively relevant ranges. (b) **"2025 evidence of room-temperature quantum effects" at line 148** is unsourced — either cite a specific paper or downgrade the claim. (c) **OCD/Schwartz subsection at line 135** admits the study is "small (18 participants, only 9 new), unreplicated outside Schwartz's group, and explicable by Hebbian learning" then concludes "what remains philosophically significant is the pathway divergence" — a study with those defects has nothing left philosophically significant to support. Either rework to honour `[[evidential-status-discipline]]` or remove the section. (d) **Zheng & Meister (2024) "10 bits/sec" at line ~125** — this is a behavioural-throughput estimate, not a neural-processing limit; the "~10⁹ bits/sec sensory input" comparand mixes transduction-rate with cognitive-throughput producing a misleading "100-million-fold asymmetry." Reframe to acknowledge what the figure actually measures. (e) **Sjöberg (2024) at line 147** overstates the inference — SMA-resected patients losing movement-execution-with-preserved-willing is consistent with multiple positions including the standard interpretation (RP reflects motor preparation, not the conscious decision per se). Downgrade from "refutation" to "one data point against the strongest Libet reading." (f) **Witness consciousness at line 137** — the introspective reports of contemplatives are exactly what AST would predict if the schema is recursively turned on its own attention; address this rejoinder rather than presenting the data as anti-AST evidence. (g) **§"Relation to Site Perspective" rhetorical-stutter** — four of five paragraphs open with "Within the Map framework" / "Consciousness..." constructions; vary openings. (h) **Transit-void claim at line 86** — the claim that the moment-of-attentional-capture is unavailable to first-person access is a strong phenomenological claim made without citation and may be true at the moment-of-capture level while false at the retrospective-reconstruction level — specify which. Estimated scope: ~200–400 words touched across multiple sections. Tenet alignment: methodological / `[[evidential-status-discipline]]` / writing-style. **Sequencing**: execute *after* the P1 critical-defects task above to avoid editing-conflict.
 
 ### ✓ 2026-05-19: Deep review topics/constitutive-exclusion.md
 - **Type**: deep-review

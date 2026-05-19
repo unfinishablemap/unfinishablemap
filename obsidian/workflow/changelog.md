@@ -1,9 +1,23 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-19T22:00:00+00:00
+ai_modified: 2026-05-19T22:30:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-05-19T22:30:00+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[topics/attention-and-the-consciousness-interface]]
+- **Source review**: [[reviews/pessimistic-2026-05-14]] (eight further P3 findings, sequenced after the 2026-05-14 22:05 UTC P1 critical-defects pass)
+- **Changes**:
+  - (a) Tegmark numerical engagement at §"Effort, Libet, and Neural Sites" — actual figures (10⁻¹³ s ion-channel-scale, 10⁻²⁰ s microtubule-scale; 12–20 orders of magnitude shorter than the ~280–300ms timescale; ~10¹⁰× faster than the fastest neural firing); names what would have to be true about brain quantum-ordered subsystems for the mechanism to remain viable, and acknowledges the empirical viability rides on the short-coherence integrationist response rather than positive evidence.
+  - (c) §"Fatigue, OCD, Meditation" → §"Fatigue and Meditation": Schwartz/OCD subsection and reference removed; the prior pass had already disclaimed the study as "not load-bearing evidence" and `[[project/evidential-status-discipline]]` earns its removal at that point. References renumbered 21–28; Schwartz removed from the Honest Limitations researcher list.
+  - (d) Zheng & Meister (2024) "10 bits/sec" framing at §"Effort, Libet, and Neural Sites" — reframed to acknowledge what the figure actually measures (behavioural cognitive throughput, not a neural-processing limit) and to name the scale-mixing problem with the ~10⁹ comparand (sensory transduction rate at the receptor array, not cognitive throughput).
+  - (h) Transit-void claim at §"The Attention-Consciousness Dissociation" — specified the moment-of-capture as the unavailable locus, distinguished from retrospective reconstruction; anchored to Husserl, Petitmengin, and Smallwood/Schooler with a wikilink to the transit-void's empirical-anchor section.
+  - Findings (b), (e), (f), (g) verified satisfied by the prior pass — no further action needed.
+- **Frontmatter**: `modified` 2026-05-14 → 2026-05-19; `ai_modified` 2026-05-14T22:05:00+00:00 → 2026-05-19T00:00:00+00:00.
+- **Engagement classification** (editor-vocabulary, changelog only): Tegmark engagement upgraded from naming-the-citation to engaging-the-number — Mode Two (framework owes the integrationist response from its own commitments) with explicit residue ("neither has been demonstrated").
+- **Published**: yes
 
 ## 2026-05-19T22:00:00+00:00 - deep-review
 - **Status**: Success
