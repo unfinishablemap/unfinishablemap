@@ -4,8 +4,8 @@ description: "The Geschwind framework: higher cognitive deficits arise when whit
 created: 2026-05-19
 modified: 2026-05-19
 human_modified:
-ai_modified: 2026-05-19T02:36:37+00:00
-last_deep_review: 2026-05-19T02:36:37+00:00
+ai_modified: 2026-05-19T07:08:00+00:00
+last_deep_review: 2026-05-19T07:08:00+00:00
 draft: false
 topics:
   - "[[consciousness-disruption-and-the-mind-brain-interface]]"
@@ -101,7 +101,7 @@ Citation discipline for catalogue articles using this concept page:
 ## References
 
 1. Geschwind, N. (1965). Disconnexion syndromes in animals and man. *Brain* 88:237–294, 585–644.
-2. Dejerine, J. (1892). Contribution à l'étude anatomo-pathologique et clinique des différentes variétés de cécité verbale. *Comptes Rendus de la Société de Biologie* 4:61–90.
+2. Dejerine, J. (1892). Contribution à l'étude anatomo-pathologique et clinique des différentes variétés de cécité verbale. *Mémoires de la Société de Biologie* 4:61–90.
 3. Catani, M., & ffytche, D. H. (2005). The rises and falls of disconnection syndromes. *Brain* 128:2224–2239.
 4. Sperry, R. W. (1968). Hemisphere deconnection and unity in conscious awareness. *American Psychologist* 23:723–733.
 5. Gazzaniga, M. S. (2005). Forty-five years of split-brain research and still going strong. *Nature Reviews Neuroscience* 6:653–659.

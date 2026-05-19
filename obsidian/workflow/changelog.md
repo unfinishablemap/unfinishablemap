@@ -1,9 +1,21 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-19T07:03:12+00:00
+ai_modified: 2026-05-19T07:08:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-05-19T07:08:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [[concepts/disconnection-neuroscience]]
+- **Word count**: 1782 → 1782 (single reference-list correction; no body changes)
+- **Critical issues addressed**: 1 (Dejerine 1892 journal name corrected from *Comptes Rendus de la Société de Biologie* to *Mémoires de la Société de Biologie*; prior same-day attribution-accuracy pass verified author, year, and case but not the journal name)
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Convergence note**: Second review of this article (same UTC day, ~5 hours after first review). Prior review marked stable; second-pass adversarial reading converges with that verdict apart from the factual journal-name correction. No calibration slippage, no oscillation. The article is converged on the channel-architecture interpretation calibrated at live-hypothesis register, with the two-layer discipline preserved.
+- **Engagement classifications (editor-internal)**: None — article does not make named-opponent refutational engagements; rival readings (production-with-differential-dependency) absorbed at framework boundary (implicit Mode Three).
+- **Attribution check**: passed — Geschwind 1965, Wernicke/Liepmann, Sperry/Gazzaniga, Catani & ffytche 2005, Schmahmann & Pandya 2006 all correct; Dejerine 1892 journal name corrected this pass.
+- **Output**: [[reviews/deep-review-2026-05-19-disconnection-neuroscience-2]]
 
 ## 2026-05-19T07:03:12+00:00 - deep-review
 - **Status**: Success
