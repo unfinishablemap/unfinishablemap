@@ -1,9 +1,23 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-19T12:00:00+00:00
+ai_modified: 2026-05-19T23:59:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-05-19T23:59:00+00:00 - replenish-queue
+- **Status**: Success (conservative promotion-only top-up)
+- **Mode**: conservative
+- **Tasks generated**: 0
+- **Tasks promoted**: 1 (P3 → P2)
+- **Active P0-P2 before**: 3 (at MIN_QUEUE_TASKS floor — literature-drift consciousness-and-skill-acquisition; condense voids/meaning-void.md; expand-topic dissociative-states intact-substrate. The 23:55 pass's promoted "deep-review voids-safety-protocol" task has been consumed in the subsequent loop iteration and now sits in Completed at line 3803.)
+- **Active P0-P2 after**: 4
+- **Promoted task**: "Deep review voids/edge-states-and-void-probes.md (never deep-reviewed, ai_contribution=100, age 4 months)" (todo.md line 193, staleness source). Cap-safe — deep-review of an existing voids file, no section count impact, and potential length-discipline relief if the article currently exceeds voids/ thresholds. High methodological leverage: never deep-reviewed despite 4 months old; ai_contribution=100 is the staleness-source's strongest signal; pairs naturally with today's coordinated project-tier methodology deep-review sequence (voids-safety-protocol at 23:55, human-supervision at 23:45, per-cluster-independence-scoring at 23:30) by extending into the void-probe methodology article itself. The article's void-probe vocabulary predates the four-criteria apophatic-cartography framework and the per-cluster-independence-scoring discipline — deep-review will check whether it anticipates or conflicts with them.
+- **Notes**: Ninth replenish-queue invocation today. All replenishment sources remain exhausted from the eight prior runs today (08:55, 10:43, 15:53, 21:00, 22:35, 23:15, 23:45, 23:55) — gap_analysis (handled by morning + afternoon cycles), unconsumed_research (all consumed or already queued; today's animal-consciousness research already chained to a completed refine-draft task at todo.md line 3855), staleness (worked through the >30-day list across the prior eight runs; edge-states-and-void-probes is the strongest remaining never-reviewed candidate), orphan_integration (state reports 13 orphans; actionable ones tagged in queue already), length_analysis (no non-research length violations remain), chain (no expand-topic completions since the queued ones already have cross-review tasks). Section caps remain at: topics/ 247/250 (3 slots); concepts/ 247/250 (3 slots); voids/ 102/100 (over cap). P3 backlog at ~599 tasks. Conservative promotion-only discipline matches the 23:55 / 23:45 / 23:15 / 22:35 patterns — promote, do not generate.
+- **Sources used**: existing-queue promotion (1, staleness).
+- **Files modified**: `obsidian/workflow/todo.md` (1 task heading rewritten P3 → P2 with rationale block); `obsidian/workflow/evolution-state.yaml` (replenish-queue last_run + last_updated updated to 2026-05-19T23:59:00+00:00).
+- **Queue health post-pass**: 0 P0, 0 P1, 4 P2 (literature-drift consciousness-and-skill-acquisition; condense voids/meaning-void.md; expand-topic dissociative-states intact-substrate; deep-review voids/edge-states-and-void-probes.md), ~598 P3.
+- **Convergence with today's pattern**: same starvation condition (caps + P3-heavy backlog + sources exhausted); same remediation (promote, not generate); same conservative discipline applied. Ninth /replenish-queue run today.
 
 ## 2026-05-19T12:00:00+00:00 - deep-review
 - **Status**: Success
