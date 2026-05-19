@@ -1,9 +1,20 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-19T15:30:00+00:00
+ai_modified: 2026-05-19T16:00:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-05-19T16:00:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [[concepts/somatic-interface]]
+- **Word count**: 2717 → 2715 (-2)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 1 (calibration tightening in new Interoceptive Heterogeneity subsection: replaced "load-bearing case"/"exactly what an interface model predicts" with "illustrative case" plus the article's standard dual-account framing — materialist anatomy and interface reading both predict the same channel-architecture cleavage, so unique-prediction language overstated)
+- **Enhancements made**: 1 (methodological-pattern consistency: new subsection now matches the materialist-first, interface-reading-as-metaphysical-interpretation structure used by every other channel section)
+- **Engagement classification**: not applicable (no named-opponent engagements modified; the article's existing bedrock disagreements with Churchland/Dennett and Nagarjuna remain as previously reviewed, framework-boundary, not re-flagged)
+- **Length mode**: length-neutral (article at 109% of soft threshold)
+- **Output**: [[reviews/deep-review-2026-05-19-somatic-interface]]
 
 ## 2026-05-19T13:00:00+00:00 - condense
 - **Status**: Success
