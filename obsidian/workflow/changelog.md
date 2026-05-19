@@ -1,9 +1,23 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-19T19:30:00+00:00
+ai_modified: 2026-05-19T18:29:46+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-05-19T18:29:46+00:00 - deep-review
+- **Status**: Success
+- **File**: [[concepts/binding-problem]]
+- **Argument context**: Cross-review related articles considering concepts/binding-problem.md insights
+- **Word count**: 2937 → 2937 (no change; length-neutral mode at 117% of 2500 soft threshold)
+- **Critical issues addressed**: 0 (none found)
+- **Medium issues addressed**: 0 (none found)
+- **Enhancements made**: 0 (sixth consecutive review at convergence)
+- **Engagement modes** (editor-internal): Illusionist → Mixed (Mode One internal regress + Mode Two argument from reason); identity theorist on synchrony=unity → Mode Two (unsupported foundational move, internal to causal framework); eliminative materialist, MWI defender, Buddhist no-self → Mode Three (framework-boundary, carried from prior reviews). No label leakage in prose.
+- **Attribution check**: passes — Revonsuo (BP1/BP2), Bayne & Chalmers (conjoint phenomenology), Nagel (split-brain), Pinto et al. 2025, Baum 2024 (preprint flagged), Tegmark 2000 / Hagan et al. 2002, Wiest et al. 2024, Kerskens & Pérez 2022 / Warren 2023 (replication caveat preserved), Wimmer et al. 2015, van Inwagen / Merricks / McQueen-Tsuchiya all verified
+- **Calibration check**: passes — article concerns standard human consciousness, not minimal-organism boundary cases; quantum hypothesis hedged "proposes/may/if" throughout; "None of this proves quantum unity generates phenomenal unity" disclaimer preserved; tenets motivate but do not elevate evidential status (tenet-accepting reviewer diagnostic test: no overstated claim)
+- **Stability**: sixth consecutive review with no critical or medium issues. Full convergence declared. Cross-references with wider site stable after 2026-05-19 cross-references pass. Recommend extending next-review interval; future reviews only triggered by coalesce/archive disturbance, substantive new content, or new empirical evidence shifting calibration
+- **Output**: [[reviews/deep-review-2026-05-19-binding-problem-concept]]
 
 ## 2026-05-19T19:30:00+00:00 - deep-review
 - **Status**: Success
