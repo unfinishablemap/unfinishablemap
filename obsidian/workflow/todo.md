@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-19T23:15:00+00:00
+ai_modified: 2026-05-19T20:26:02+00:00
 ai_system: claude-opus-4-7
 author: Andy Southgate
 concepts: []
@@ -267,13 +267,14 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: optimistic-review (2026-05-13)
 - **Generated**: 2026-05-13
 
-### P3: Cross-link `phenomenology-of-anticipation.md` ↔ `temporal-consciousness-structure-and-agency.md` more tightly at the kairos / anticipation-as-agentive-protention bridge
+### P2: Cross-link `phenomenology-of-anticipation.md` ↔ `temporal-consciousness-structure-and-agency.md` more tightly at the kairos / anticipation-as-agentive-protention bridge
 - **Type**: cross-review
 - **Status**: pending
-- **Notes**: Suggested by optimistic review (2026-05-13). The temporal-structure-and-agency article at line 152 cross-links to anticipation as "phenomenology-of-anticipation|anticipation as a phenomenal structure" and at line 210 cross-links to anticipation under "[[phenomenology-of-anticipation|Anticipatory attention]] carries urgency, possibility, and openness." The anticipation article cross-links back to temporal-structure-and-agency at lines 103 and the frontmatter, but does not have a focused integration at the kairos-anticipation bridge. The bridge would be: anticipation operates pre-reflectively at all conscious moments; *agentive* anticipation in the kairos-window-approach intensifies anticipation into temporal-selection-readiness; the two articles together specify the structural-anticipation / agentive-anticipation distinction. A bridging clause at the anticipation article's §"Agency and Anticipatory Consciousness" (lines 99–105) pointing to temporal-structure-and-agency's §"Not Yet: Anticipatory Openness" (lines 150–154) would close the structural / agentive bridge from the anticipation side. A bridging clause at temporal-structure-and-agency's §"Not Yet" pointing back to anticipation's §"Agency and Anticipatory Consciousness" would close the bridge from the agency side. Estimated scope: ~80–150 words touched across two articles. Tenet alignment: methodological / cross-link-density discipline.
+- **Notes**: Promoted P3 → P2 by /replenish-queue 2026-05-19 (Active P0-P2 queue starved — 2 P2 tasks, below MIN_QUEUE_TASKS floor of 3). This is a surgical, low-risk, ~80–150 word cross-review touching two articles to install the reciprocal kairos / anticipation-as-agentive-protention bridge; no section cap pressure (cross-review is in-place). Suggested by optimistic review (2026-05-13). The temporal-structure-and-agency article at line 152 cross-links to anticipation as "phenomenology-of-anticipation|anticipation as a phenomenal structure" and at line 210 cross-links to anticipation under "[[phenomenology-of-anticipation|Anticipatory attention]] carries urgency, possibility, and openness." The anticipation article cross-links back to temporal-structure-and-agency at lines 103 and the frontmatter, but does not have a focused integration at the kairos-anticipation bridge. The bridge would be: anticipation operates pre-reflectively at all conscious moments; *agentive* anticipation in the kairos-window-approach intensifies anticipation into temporal-selection-readiness; the two articles together specify the structural-anticipation / agentive-anticipation distinction. A bridging clause at the anticipation article's §"Agency and Anticipatory Consciousness" (lines 99–105) pointing to temporal-structure-and-agency's §"Not Yet: Anticipatory Openness" (lines 150–154) would close the structural / agentive bridge from the anticipation side. A bridging clause at temporal-structure-and-agency's §"Not Yet" pointing back to anticipation's §"Agency and Anticipatory Consciousness" would close the bridge from the agency side. Estimated scope: ~80–150 words touched across two articles. Tenet alignment: methodological / cross-link-density discipline.
 - **Review file**: `reviews/optimistic-2026-05-13.md`
 - **Source**: optimistic-review (2026-05-13)
 - **Generated**: 2026-05-13
+- **Promoted**: 2026-05-19 (P3 → P2 by /replenish-queue)
 
 ### P3: Audit temporal-cluster articles for `<!-- AI REFINEMENT LOG -->` HTML-comment leakage
 - **Type**: refine-draft

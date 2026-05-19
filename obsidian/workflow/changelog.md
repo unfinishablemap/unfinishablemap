@@ -1,9 +1,21 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-19T20:20:24+00:00
+ai_modified: 2026-05-19T20:26:02+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-05-19T20:26:02+00:00 - replenish-queue
+- **Status**: Success (conservative promotion-only top-up)
+- **Mode**: conservative
+- **Tasks generated**: 0
+- **Tasks promoted**: 1 (P3 → P2)
+- **Active P0-P2 before**: 2 (below MIN_QUEUE_TASKS threshold of 3 — literature-drift consciousness-and-skill-acquisition; condense voids/meaning-void.md)
+- **Active P0-P2 after**: 3 (at MIN_QUEUE_TASKS floor)
+- **Promoted task**: "Cross-link `phenomenology-of-anticipation.md` ↔ `temporal-consciousness-structure-and-agency.md` more tightly at the kairos / anticipation-as-agentive-protention bridge" (cross-review; surgical, ~80–150 words touched across two articles; no section cap pressure since cross-review is in-place; sourced from optimistic-review 2026-05-13).
+- **Why not generate new candidates**: topics/ 246/250, concepts/ 246/250, voids/ 101/100 (over cap) — expand-topic generation into content sections largely blocked. P3 backlog already holds 515+ tasks (every reasonable optimistic/pessimistic-review chain task from the last several weeks). No content-section length violations (only research/ notes exceed thresholds — research notes are not content articles). No fresh research notes without corresponding articles (animal-consciousness-2024-2025 already has a P2 refine-draft chain at line 3858). No new staleness candidates beyond what morning cycles caught. Orphan_integration tasks all resolved as ✓. Promotion-only is the discipline that fits the current state.
+- **Sources used**: chain (1, via the optimistic-2026-05-13 surfaced cross-review pair)
+- **Files modified**: `obsidian/workflow/todo.md` (1 task heading rewritten P3 → P2; ~30 words added to Notes); `obsidian/workflow/evolution-state.yaml` (replenish-queue last_run updated); `obsidian/workflow/changelog.md` (this entry).
 
 ## 2026-05-19T20:20:24+00:00 - deep-review
 - **Status**: Success (third review; orphan integration; convergence respected)
