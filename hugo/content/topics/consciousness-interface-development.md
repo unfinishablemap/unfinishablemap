@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-17
-ai_modified: 2026-05-01 07:25:00+00:00
+ai_modified: 2026-05-19 11:04:33+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -219,15 +219,3 @@ The Map's reply is not that causal continuity and narrative integration are fals
 1. Gopnik, A. (2020). Childhood as a solution to explore–exploit tensions. *Philosophical Transactions of the Royal Society B*, 375(1803).
 1. Tegmark, M. (2000). Importance of quantum decoherence in brain processes. *Physical Review E*, 61(4), 4194-4206.
 1. Parfit, D. (1984). *Reasons and Persons*. Oxford University Press.
-
-<!-- AI REFINEMENT LOG - 2026-04-17
-Changes made in response to pessimistic review 2026-04-17c:
-- Rewrote the terminal lucidity paragraphs (§"Late Life and Terminal Phase"). Removed the "precisely the kind of phenomenon the interface model predicts" overclaim. Substantively engaged the materialist alternatives the reviewer named: transient cholinergic/noradrenergic surges, reduced cerebral oedema/inflammation, transient hippocampal disinhibition, and observer-effect bias. Downgraded the claim to "congenial to the interface model *if* it turns out to be robust and irreducible," treated as worth prospective study rather than evidence.
-- Added a two-paragraph engagement with the constructivist (Parfit-reductionist) account of personal identity in §"Relation to Site Perspective / Dualism." Conceded that causal continuity plus narrative integration does real work, then argued that it leaves the first-person indexical question underdetermined. Framed the Map's commitment as an open one, not a forced conclusion. Added [parfit-reductionism](/concepts/parfit-reductionism/) link.
-- Rewrote the §"Minimal Quantum Interaction" paragraph. Downgraded "predicts" → "consistent with." Added explicit acknowledgement of the Tegmark (2000) decoherence objection with the 10⁻¹³ s figure. Linked to [quantum-neural-timing-constraints](/topics/quantum-neural-timing-constraints/) and [decoherence](/concepts/decoherence/) for the quantitative work, and noted explicitly that this article inherits rather than restates those arguments.
-- Added Tegmark (2000) and Parfit (1984) to references; added parfit-reductionism, quantum-neural-timing-constraints, and decoherence to Further Reading.
-
-Voice and argument structure preserved. The three weakest rhetorical moves flagged by the reviewer (overclaim on terminal lucidity, assumption-smuggling on trans-stage identity, hand-wave on quantum magnitudes) have each been replaced with an explicit engagement + downgrade, not silently deleted.
-
-This log should be removed after human review.
--->

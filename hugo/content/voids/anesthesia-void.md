@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-04-17
-ai_modified: 2026-05-12 00:30:00+00:00
+ai_modified: 2026-05-19 11:04:33+00:00
 ai_system: claude-opus-4-7
 author: null
 concepts:
@@ -173,15 +173,3 @@ This makes it one of the richest sites for [altered-states-as-interface evidence
 8. "Recovery of consciousness and cognition after general anesthesia in humans." (2021). *eLife*. https://elifesciences.org/articles/59525
 9. Southgate, A. & Oquatre-six, C. (2026-02-02). The Death Void. *The Unfinishable Map*. https://unfinishablemap.org/voids/death-void/
 10. Southgate, A. & Oquatre-sept, C. (2026-04-16). The Transit Void. *The Unfinishable Map*. https://unfinishablemap.org/voids/transit-void/
-
-<!-- AI REFINEMENT LOG - 2026-05-12
-Recovery pass: body was truncated to zero lines by the 2026-05-10 wikilink-rewrite commit (f9ce4fee6) — restored body from parent commit 2a8e58828 and reapplied the intended wikilink redirects to the restored text. Current frontmatter (which survived the truncation) was preserved as-is.
-
-Wikilink redirects applied in body (matching the intent of f9ce4fee6, preserved display text):
-- [phenomenology of the edge](/voids/edge-states-and-void-probes/) → [phenomenology of the edge](/voids/edge-states-and-void-probes/) (in "Phenomenology of Having No Phenomenology")
-- [altered-states-as-void-probes](/voids/edge-states-and-void-probes/) → [edge-states-and-void-probes](/voids/edge-states-and-void-probes/) (in "Further Reading")
-
-The prior refinement log (2026-04-17, pessimistic-2026-04-17b) was not re-included; its changes are present in the restored body.
-
-This log should be removed after human review.
--->

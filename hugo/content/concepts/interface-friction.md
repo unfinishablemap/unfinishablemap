@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-15
-ai_modified: 2026-04-17 00:25:00+00:00
+ai_modified: 2026-05-19 11:04:33+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -143,15 +143,3 @@ The filter model also generates a distinctive prediction: reduced neural constra
 1. Tegmark, M. (2000). Importance of quantum decoherence in brain processes. *Physical Review E*, 61, 4194–4206.
 1. Zheng, J. & Meister, M. (2024). The unbearable slowness of being: Why do we live at 10 bits/s? *Neuron*, 113(2), 192–204.
 1. Zimmermann, M. (1986). Neurophysiology of sensory systems. In R. F. Schmidt (Ed.), *Fundamentals of Sensory Physiology* (3rd ed., pp. 68–116). Springer.
-
-<!-- AI REFINEMENT LOG - 2026-04-17 (deep review, fourth pass)
-Changes made in this pass (cross-review with mental-effort and phenomenology-of-resistance-across-domains):
-- Opening framing: tightened the enumeration of resistance domains to match the six identified in phenomenology-of-resistance-across-domains. Previous version listed only five (omitting Physical Resistance as distinct from interface friction) and used "motor action through the neural interface" which subtly conflated the mind-brain case with the body-matter case. Fix saves 2 words while being more accurate.
-- No other substantive changes. Article remains at stability per 2026-04-16 stability note.
-
-Cross-review confirmed consistency with mental-effort.md (bandwidth figures, Stapp Zeno treatment, timing-gap framing) and with phenomenology-of-resistance-across-domains.md (bidirectional cross-links, shared three-signature structure).
-
-Prior passes: 2026-02-20 (initial), 2026-03-19 (Stapp date fix), 2026-04-16 (epistemic reframing + resistance cross-link addition). Stability trajectory confirmed.
-
-This log should be removed after human review.
--->

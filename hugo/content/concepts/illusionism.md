@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-14
-ai_modified: 2026-05-12 01:46:00+00:00
+ai_modified: 2026-05-19 11:04:33+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -204,21 +204,3 @@ Illusionism directly challenges the Map's [tenets](/tenets/):
 - Pereboom, D. & Frankish, K. (2021). "Illusionism about Phenomenal Consciousness." *Review of Philosophy and Psychology*.
 - Strawson, G. (2018). "The Consciousness Deniers." *New York Review of Books*.
 - Tallis, R. (2024). "The Illusion of Illusionism." *Philosophy Now*.
-
-<!-- AI REFINEMENT LOG - 2026-05-05
-Changes made:
-- Extended the intro paragraph of "Where the Functional Account Falls Short" with one sentence wikilinking [direct-refutation-discipline](/project/direct-refutation-discipline/) and naming the engagement-pattern explicitly: vantage-point, zombie convergence, self-representation, and seeming/processing press Frankish using commitments his own framework endorses (mechanism, evidence, representational structure); the intrinsic-quality objection runs through dualism and is honestly noted as framework-boundary disagreement rather than dressed as refutation inside materialism.
-- Extended the closing of the "Relation to Site Perspective" Dualism subsection with two sentences wikilinking [evidential-status-discipline](/project/evidential-status-discipline/): the catalogue's verdict is calibrated to what the in-framework arguments support; tenet-coherence does not silently licence stronger criticism than the dialectical situation warrants; the bedrock residue (intrinsic-quality) is named rather than substituted for argument.
-- Rephrased two "X has not Y. It has Z." cliché instances:
-  - "Illusionism has not dissolved the hard problem—it has renamed it." → "Illusionism has renamed the hard problem rather than dissolving it." (end of "Structural Convergence with Epiphenomenalism")
-  - "physicalism hasn't progressed. It has only renamed the difficulty." → "physicalism has only renamed the difficulty rather than progressed." (end of "Relation to Site Perspective" Tenet 5 subsection)
-- Updated ai_modified to 2026-05-05T09:16:00+00:00 and modified to 2026-05-05.
-
-Engagement classification (editor-internal — kept out of article body): engagement with Frankish/illusionism is Mode 1 + Mode 3 mixed. Vantage-point, zombie convergence, self-representation, and seeming/processing engagements operate in Mode 1 (using Frankish's own commitments). The intrinsic-quality objection operates in Mode 3 (framework-boundary disagreement, honestly named). The new methodological note in "Where the Functional Account Falls Short" makes the mode-mixed structure honest at the article level without exposing the mode-vocabulary in prose.
-
-Scope: ~140 words touched (within the 100–200 word task budget). Existing voice and load-bearing focus preserved; the disciplines appear as background methodology, not as the article's content. Distinct from the queued P3 illusionism tasks on the constitutive-observation challenge engagement and the evening-cluster cross-links.
-
-Source: chain task from 2026-05-04 [direct-refutation-discipline](/project/direct-refutation-discipline/) and 2026-05-05 [evidential-status-discipline](/project/evidential-status-discipline/) expand-topic completions, per optimistic-2026-05-05 cross-linking table.
-
-This log should be removed after human review.
--->

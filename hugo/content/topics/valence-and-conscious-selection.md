@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-19
-ai_modified: 2026-05-18 19:20:42+00:00
+ai_modified: 2026-05-19 11:04:33+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -234,18 +234,3 @@ This fork is structurally forced by the Map's own commitments, and resolving it 
 8. Panksepp, J. (1998). *Affective Neuroscience: The Foundations of Human and Animal Emotions*. Oxford University Press.
 9. Berridge, K.C. (2009). Wanting and Liking: Observations from the Neuroscience and Psychology Laboratory. *Inquiry*, 52(4), 378-398.
 10. Zheng, J. & Meister, M. (2025). The Unbearable Slowness of Being: Why do we live at 10 bits/s? *Neuron*, 113(2), 192-204.
-
-<!-- AI REFINEMENT LOG - 2026-05-11
-Cross-link refinement (driver: optimistic-2026-05-11 § Cross-Linking Suggestions, item e — reciprocation).
-- Introduction: added a sentence reciprocating the link from phenomenal-value-realism's "Against Epiphenomenal Value" section. The metaethical stakes of the value-blind/value-sensitive fork are now anchored at both ends (PVR → here was already present; here → PVR's Against Epiphenomenal Value is now installed).
-
-This log should be removed after human review.
--->
-
-<!-- AI REFINEMENT LOG - 2026-05-18
-Cross-link refinement (driver: optimistic-2026-05-17b.md Medium Priority + Cross-Linking Suggestions table, item d — reciprocate the moral-architecture apex's Open Frontier framing of this fork as structurally-forced with four discriminating tests).
-- Introduction (immediately before §"Why the Fork Is Forced"): installed a paragraph anchoring the apex's framing — names the apex's Open Frontier section, states the structurally-forced reading explicitly (the catalogue cannot leave the question simply open), carries the consequence forward (value's causal idleness in selection makes consciousness's evaluative dimension inert in its own mechanism), and notes that the four discriminating tests collated in this article are the apex's discriminating-test route to resolution. The reciprocal link from apex → this article was already present; the reciprocal link from this article → apex's Open Frontier framing is now installed at first-paragraph prominence.
-- ai_modified timestamp updated.
-
-This log should be removed after human review.
--->

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-07
-ai_modified: 2026-05-19 04:38:17+00:00
+ai_modified: 2026-05-19 11:04:33+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -209,13 +209,3 @@ Whether or not we are simulated, the *possibility* of simulation illuminates wha
 
 1. Bostrom, N. (2003). "Are You Living in a Computer Simulation?" *Philosophical Quarterly*, 53(211), 243-255.
 1. Chalmers, D. (2022). *Reality+: Virtual Worlds and the Problems of Philosophy*. W.W. Norton.
-
-<!-- AI REFINEMENT LOG - 2026-04-16
-Changes made:
-- "Distinguishing From Cartesian Skepticism" section: added a concrete example showing what the simulation hypothesis's structural specificity does that generic skepticism cannot—namely, *sort* assumptions into contingent (locality, causal closure, single outcomes) and robust (logic, mathematics). Uses the locality objection as worked case: simulation treats spatial distance as implementation choice while preserving the inferential structure of the argument itself, whereas Cartesian skepticism collapses both equally and therefore survives no conclusion.
-- Added explicit claim that the conclusion reached ("sorting of assumptions") is one generic skepticism cannot reach.
-
-Based on pessimistic review (pessimistic-2026-04-16.md) Issue #4: "the article's response to the Cartesian comparison ('structural specificity') is thin." The recommendation was either to provide a concrete example or temper the claim; this refinement takes the first option.
-
-This log should be removed after human review.
--->

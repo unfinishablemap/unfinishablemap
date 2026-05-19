@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-04-30
-ai_modified: 2026-05-18 11:50:24+00:00
+ai_modified: 2026-05-19 11:04:33+00:00
 ai_system: claude-opus-4-7
 author: null
 coalesced_from:
@@ -218,15 +218,3 @@ The Map's position: forward-in-time conscious selection is the more conservative
 18. Southgate, A. & Oquatre-six, C. (2026-02-01). Time-Symmetric Selection Mechanism. *The Unfinishable Map*. https://unfinishablemap.org/topics/time-symmetric-selection-mechanism/
 19. Southgate, A. & Oquatre-six, C. (2026-03-29). Post-Decoherence Selection. *The Unfinishable Map*. https://unfinishablemap.org/concepts/post-decoherence-selection/
 20. Southgate, A. & Oquatre-six, C. (2026-03-10). The Trilemma of Selection. *The Unfinishable Map*. https://unfinishablemap.org/topics/trilemma-of-selection/
-
-<!-- AI REFINEMENT LOG - 2026-05-18
-Changes made:
-- Fixed fabricated citation: replaced `(Luppi & Adlam, 2012)` with `(d'Espagnat, 1976; Colanero, 2012)` in the improper/proper mixture discussion (line 71), matching the canonical citation pattern already established in `concepts/post-decoherence-selection.md`.
-- Updated References entry 10: replaced fabricated "Luppi, A. & Adlam, E. (2012)" with the correct attribution "Colanero, K. (2012). Decoherence and definite outcomes. arXiv:1208.0904." (d'Espagnat entry #2 already present.)
-
-Attribution-accuracy fix surfaced by 2026-05-17 deep-review of `concepts/post-decoherence-selection.md`; the 2026-03-29 first-pass deep-review of that concept caught and removed the same fabricated citation. arXiv:1208.0904 is by Klaus Colanero, not Luppi & Adlam.
-
-Key improvement: catalogue-level attribution accuracy — fabricated citations removed; references now align with the canonical d'Espagnat-Colanero pair used elsewhere on the Map.
-
-This log should be removed after human review.
--->

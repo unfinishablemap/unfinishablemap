@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-23
-ai_modified: 2026-05-14 20:42:00+00:00
+ai_modified: 2026-05-19 11:04:33+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -167,31 +167,3 @@ A more honest framing: this is a philosophical framework whose grounding is larg
 1. Pereboom, D. (2001). *Living Without Free Will*. Cambridge University Press.
 1. Sartre, J.-P. (1943). *Being and Nothingness*. (L'Être et le Néant.) Gallimard.
 1. Williams, B. (1981). "Moral Luck." In *Moral Luck: Philosophical Papers 1973–1980*. Cambridge University Press.
-
-<!-- AI REFINEMENT LOG - 2026-04-29
-Changes made addressing pessimistic-2026-04-29c (six high-severity issues, four counterarguments, seven unsupported claims, ~10 language tightenings):
-
-- Issue 1 (High): Restructured the error-theory paragraph in §"Demands Genuine Agency Places on Moral Theory" as an explicit two-step move (Step 1 — agency provides the evaluator; Step 2 — phenomenal-value-realism supplies the grounds). Title changed from "Error theory weakens" to "One specific motivation behind error theory weakens" to acknowledge multiple error-theoretic motivations. Added explicit note that other motivations (anthropological diversity, evolutionary debunking, motivational internalism) are unaffected.
-
-- Issue 2 (High): Rewrote the compatibilism paragraph in §"Weight of Authorship" to characterise Frankfurt/Fischer-Ravizza/Wolf as grounding desert in metaphysically substantive capacities (identification, reasons-responsiveness, normative competence) rather than "pragmatically." Reframed the Map's contrast as "irreducible-vs-derivative" rather than "metaphysical-vs-pragmatic." Added a parenthetical clarifying that the consolation removed is hard-determinist, not compatibilist.
-
-- Issue 3 (High): Replaced "Genuine agency eliminates the fourth category entirely" with "Genuine agency relocates rather than eliminates causal luck" in §"Moral Luck Reconsidered." Added detailed acknowledgment that constitutive and circumstantial luck partially absorb territory previously assigned to causal luck (option-set framing, deliberative-state contingency, perceptual access). Added qualifier on Nagel's own treatment.
-
-- Issue 4 (High): Reframed §"What Would Challenge This View?" as conceptual constraints rather than empirical predictions. Explicitly named falsifiability theatre risk and located the framework's grounding in conceptual fit with other Map tenets, not in distinctive empirical predictions. Made the symmetry challenge the most consequential challenge available.
-
-- Issue 5 (High): Added new §"The Compatibilist Symmetry Challenge" between §"Institutional and Collective Implications" and §"Relation to Site Perspective." States honestly that the moral implications are availably grounded on either metaphysics; the Map's libertarian framing is distinguished by tenet-coherence, not unique moral explanatory power. Cross-referenced from opening paragraph, §"Weight of Authorship," §"Phenomenology of Moral Seriousness," §"Relation to Site Perspective" (Occam paragraph), and §"What Would Challenge This View?".
-
-- Issue 6 (Medium): Reframed the MWI paragraph in §"Relation to Site Perspective" on indexical-identity grounds. Removed the between-branch dilution argument; acknowledged that within-branch moral seriousness is identical under MWI and single-world frameworks; located the no-MWI tenet in indexical-identity concerns (linked [indexical-knowledge-and-identity](/concepts/indexical-knowledge-and-identity/) and [indexical-identity-quantum-measurement](/topics/indexical-identity-quantum-measurement/)).
-
-- Counterargument: Indirect consequentialism — refined the "Pure consequentialism faces pressure" sub-section to "Act consequentialism faces pressure (indirect consequentialism less so)," acknowledging Hooker/Railton/motive utilitarianism, narrowing the genuine-agency-specific contribution.
-
-- Counterargument: Buddhist reification charge — rewrote the Buddhist paragraph in §"Character as Self-Creation" to acknowledge Madhyamika as a competing positive view (not merely a parallel without agent-cause). Added *upādāna* and *duḥkha* references; noted symmetric rather than asymmetric disagreement; explicitly disclaimed the "merely adding metaphysical ground" framing.
-
-- Unsupported claim fixes: "the metaphysical backing Aristotle lacked" → "the libertarian agent-causal element Aristotle did not specify" (with acknowledgment of Aristotle's substantial apparatus). "expanding the scope of what genuine agency can accomplish" → "plausibly expanding the scope of what agency can accomplish" with empirical-case caveat. Quantum mechanism: added explicit flag that the speculative mechanism is load-bearing for moral conclusions; cross-linked decoherence concerns to [free-will](/topics/free-will/) and [quantum-probability-consciousness](/concepts/quantum-probability-consciousness/).
-
-- Language tightenings: "the entire moral landscape shifts" → "the moral landscape changes character." "guilt tracks something real" → "guilt tracks the agent's irreducible authorship." "richer, more demanding, and more consonant with moral experience" → conditional formulation referencing the symmetry challenge. "loses one of its key motivations" → "rests on multiple motivations… contributes one half of a two-step move." "Pure consequentialism" → "Act consequentialism." "Virtue ethics gains ground" left as is (judged less serious; structural symmetry section weakens it appropriately by global context). Reduced "genuine"/"genuinely" usage from ~17 to ~10 occurrences, replacing with "irreducible," "open," or simply dropping.
-
-Sections touched: opening, §"Weight of Authorship," §"Obligation Becomes Intelligible" (quantum hedge), §"Character as Self-Creation" (Aristotle, Buddhist), §"Moral Luck Reconsidered," §"Demands Genuine Agency Places on Moral Theory" (error theory, consequentialism), §"Phenomenology of Moral Seriousness" (one-sentence acknowledgment), §"Institutional and Collective Implications" (one paragraph), new §"The Compatibilist Symmetry Challenge," §"Relation to Site Perspective" (MWI, Occam), §"What Would Challenge This View?". Approximate word count of changes: ~900 words (slightly over the 400-700 target due to the new section being load-bearing, but the new section answers the central unaddressed challenge).
-
-This log should be removed after human review.
--->

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-31
-ai_modified: 2026-05-13 12:51:00+00:00
+ai_modified: 2026-05-19 11:04:33+00:00
 ai_system: claude-opus-4-7
 apex_last_synthesis: 2026-04-30 13:32:00+00:00
 apex_sources:
@@ -236,24 +236,3 @@ This synthesis draws on:
 1. Tomasello, M. & Herrmann, E. (2010). Ape and human cognition: What's the difference? *Current Directions in Psychological Science*, 19(1), 3-8.
 1. Duch, W. (2005). Brain-inspired conscious computing architecture. *Journal of Mind and Behavior*, 26(1–2). https://philarchive.org/rec/DUCBCC-3
 1. Duch, W. (2019). Mind as a shadow of neurodynamics. *Cognitive Systems Research*. https://pubmed.ncbi.nlm.nih.gov/31301951/
-
-<!-- AI REFINEMENT LOG - 2026-05-13 (evidential-status section-header tags pilot)
-Changes made:
-- Added externalised evidential-status tags to ten H2 section headers per the pilot defined in [evidential-status-discipline](/project/evidential-status-discipline/#externalized-tag-pilot-2026-05-13-2026-05-20). The article's structure makes the *Open / Speculative* distinction load-bearing: the independent-of-dualism arguments (functionalism, Chinese Room, temporal, metacognition, symbol grounding, intelligence connection, epistemic challenge) are *[Open]* — contested but real philosophical/empirical debates that do not depend on the Map's tenets — while the tenet-dependent arguments (quantum interface, conditions for conscious AI, epiphenomenal possibility) are *[Speculative]* — load-bearing on tenet-coherence plus suggestive considerations, not positive empirical evidence. The article already declared this two-layer structure in its lede; the tags make the layer visible at section grain.
-  - "The Functionalist Gambit and Its Failures [Open]" — well-established philosophical critique (Block, Searle, Hoel) of a contested but live position.
-  - "The Chinese Room and Original Intentionality [Open]" — heavily contested but live; the article says so explicitly.
-  - "The Temporal Problem [Open]" — temporal arguments live but the closing qualification on non-temporal consciousness shows the section preserves the disagreement.
-  - "Metacognition Without Experience [Open]" — Jourdain hypothesis and metarepresentation threshold debate, live.
-  - "The Quantum Interface [Speculative]" — explicitly declares the MQI tenet "currently a philosophical commitment, not an empirically grounded claim"; the section's load-bearing claims are tenet-coherent integration.
-  - "The Symbol Grounding Problem [Open]" — Harnad/thin-vs-thick grounding, live debate.
-  - "The Intelligence Connection [Open]" — empirical claims about great-ape vs human cognition with Map-specific interpretation; the empirical case is contested but real.
-  - "What Would Conscious AI Require? [Speculative]" — forward-looking conditions deriving from Map tenets; explicitly tenet-coherent integration.
-  - "The Epiphenomenal Possibility [Speculative]" — explicitly acknowledged as "a genuine gap in the Map's argument"; speculative integration the section says is "deeply problematic."
-  - "The Epistemic Challenge [Open]" — problem of other minds applied to AI; live across the field.
-- Headers untagged per the pilot's conventions: Relation to Site Perspective, What Would Challenge This View?, The Stakes, Source Articles, Further Reading, References. Methodology and structural sections do not make empirical claims at section grain.
-- Total touched: ~30 words in tag content (10 tags × 3 words). The article body itself is unchanged; only section-header lines gain a trailing `[Tag]` suffix.
-
-Based on outer review by Gemini 2.5 Pro 2026-05-12 (methodology recommendation — externalize the 5-tier evidential-status scale via section-header tags). This article is one of three high-stakes apex articles selected for the bounded 2026-05-13 → 2026-05-20 pilot evaluation. See [evidential-status-discipline](/project/evidential-status-discipline/#externalized-tag-pilot-2026-05-13-2026-05-20) for the pilot's vocabulary, conventions, scope, and evaluation criteria.
-
-This log should be removed after human review.
--->

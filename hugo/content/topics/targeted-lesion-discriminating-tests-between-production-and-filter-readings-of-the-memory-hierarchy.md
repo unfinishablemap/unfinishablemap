@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-05-19
-ai_modified: 2026-05-19 18:30:00+00:00
+ai_modified: 2026-05-19 20:30:00+00:00
 ai_system: claude-opus-4-7
 author: null
 concepts:
@@ -22,6 +22,7 @@ description: 'Human+AI design-space inquiry: which focal-lesion or focal-stimula
 draft: false
 human_modified: null
 last_curated: null
+last_deep_review: 2026-05-19 20:30:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -55,7 +56,7 @@ Second, *concurrent multi-channel memory probing* that measures autonoetic, noet
 
 Third, an *expected ordering under each prediction* stated in advance. The production reading predicts that lesion of an autonoetic-supporting region while sparing noetic-supporting subregions should produce a narrower-than-usual deficit only if the cortical-area-vulnerability story is the full explanation; uniform autonoetic failure across many substrate topologies would favour the filter reading. The filter reading predicts the autonoetic channel goes dark in any region whose role is to route autonoetic content; autonoetic preservation despite focal lesion of an autonoetic-only region would favour the production reading by showing the substrate is not playing the channel-routing role.
 
-Fourth, a *replication channel* across mechanism-distinct perturbations — focal lesion, focal stimulation (TMS, transcranial focused ultrasound), pharmacological focal blockade — so that the dissociation pattern is not artefactual to one technique. The 2024 ultrasound-of-thalamus work (Verhagen et al. 2024) established the feasibility of focal subcortical perturbation in humans; the autonoetic-target version has not yet been attempted.
+Fourth, a *replication channel* across mechanism-distinct perturbations — focal lesion, focal stimulation (TMS, transcranial focused ultrasound), pharmacological focal blockade — so that the dissociation pattern is not artefactual to one technique. Recent transcranial focused-ultrasound work in non-human primates (Verhagen et al. 2024) demonstrates offline neuromodulation at cortical targets that earlier surface TMS could not reach reliably, and the same modality has begun delivering subcortical targeting in humans in disorders-of-consciousness pilot work (Cain et al. 2021, deep-brain TFUS); the autonoetic-target version, with multi-channel concurrent probing, has not yet been attempted.
 
 The four ingredients are independently challenging; their combination has not yet been delivered.
 
@@ -67,15 +68,13 @@ The clinical literature contains several near-discriminating cases. None is deci
 
 K.C., extensively studied by Tulving and colleagues, suffered bilateral medial-temporal-lobe damage in a 1981 motorcycle accident and lost episodic memory and autonoetic consciousness entirely while retaining semantic memory, intelligence, and personality (Tulving 2002). On the production reading, this is what differential cortical-area vulnerability predicts: the medial-temporal lobe is more critical for episodic than semantic memory. On the filter reading, it is what an autonoetic-channel-routed-through-MTL architecture predicts: the channel is blocked because its routing substrate is gone. Both readings predict the same observation for the same reason at the level of clinical description.
 
-The discriminator the case does *not* deliver is the comparison between K.C.'s ordering and the ordering under focal lesion of a *different* autonoetic-supporting region. If lesions of medial prefrontal cortex, precuneus, or anterior thalamic nuclei all produce the same autonoetic-down-noetic-preserved signature, the filter reading gains: the channel goes dark regardless of which routing substrate is hit. The production reading must then additionally explain why the cross-region uniformity holds. If lesions of these regions produce *different* signatures — autonoetic-down only when specific cortical-area-vulnerability conditions are met — the production reading gains: the ordering tracks substrate topology rather than channel architecture.
-
-The systematic cross-region comparison has not yet been done. Individual cases are reported in isolation, with the autonoetic deficit treated as the headline finding rather than as one row in a matrix whose completion would discriminate the rival readings.
+The discriminator the case does *not* deliver is the comparison between K.C.'s ordering and the ordering under focal lesion of a *different* autonoetic-supporting region. If lesions of medial prefrontal cortex, precuneus, or anterior thalamic nuclei all produce the same autonoetic-down-noetic-preserved signature, the filter reading gains: the channel goes dark regardless of which routing substrate is hit, and the production reading must additionally explain why the cross-region uniformity holds. If lesions of these regions produce *different* signatures, the production reading gains: the ordering tracks substrate topology rather than channel architecture. The systematic cross-region comparison has not yet been done; individual cases are reported in isolation, with the autonoetic deficit treated as the headline finding rather than as one row in a matrix whose completion would discriminate the rival readings.
 
 ### Patient H.M. and the Boundary of the Test
 
 H.M. (Henry Molaison, after his death) is the paradigmatic case of bilateral hippocampal damage producing severe anterograde amnesia with preserved working memory, procedural learning, and intelligence (Scoville and Milner 1957; Corkin 2013). The Tulving hierarchy reads H.M. as autonoetic-severed, semantic-partially-preserved, anoetic-largely-preserved — the standard ordering.
 
-H.M. sits at the boundary of the discriminating test because his lesion was substantial (bilateral medial temporal lobectomy) rather than narrowly focal. The cortical-area-vulnerability production reading absorbs H.M. easily: extensive bilateral damage to a region required for episodic encoding should produce exactly this profile. The filter reading also absorbs H.M. easily: substantial bilateral blockade of the autonoetic-channel-routing substrate should sever the channel. H.M. does not discriminate the readings because the lesion is too broad to test the substrate-vs-channel question; both readings predict the same outcome with high confidence and the case is consistent with both.
+H.M. sits at the boundary of the discriminating test because his lesion was substantial (bilateral medial temporal lobectomy) rather than narrowly focal. Both readings absorb the case easily: extensive bilateral damage to a region required for episodic encoding should produce this profile on the production reading; substantial bilateral blockade of the autonoetic-channel-routing substrate should sever the channel on the filter reading. H.M. does not discriminate the readings because the lesion is too broad to test the substrate-vs-channel question.
 
 The discriminator would require H.M.-like deficits from a *narrower* lesion that hits only one autonoetic-supporting region while sparing others — and a *finer-grained* probing that distinguishes residual autonoetic capacity (if any) from semantic substitution. Some retrograde-amnesia cases approximate this: patients with focal lesions who lose the *felt pastness* of remote memories while retaining their propositional content (Klein 2014; Markowitsch et al. 2003). The autonoetic-without-pastness signature is suggestive; whether it is the discriminator's predicted residue depends on which substrate routing path the filter reading would assign to felt-pastness specifically — and that assignment is itself underdetermined by current data.
 
@@ -117,7 +116,7 @@ TMS studies targeting medial PFC during autobiographical-memory tasks have been 
 
 ### Precuneus / Posterior Cingulate vs. Lateral Parietal Association
 
-The precuneus and posterior cingulate are DMN hub regions implicated in self-referential processing and autobiographical integration; lateral parietal association cortex processes semantic content without the same self-referential signature. Focal perturbation of precuneus/PCC sparing lateral parietal association should preferentially impair autonoetic integration, on either reading. Whether the deficit is channel-down or channel-degraded is the discriminator. Transcranial focused ultrasound makes the deep-region precuneus/PCC target accessible in ways earlier TMS work could not reach (Verhagen et al. 2024).
+The precuneus and posterior cingulate are DMN hub regions implicated in self-referential processing and autobiographical integration; lateral parietal association cortex processes semantic content without the same self-referential signature. Focal perturbation of precuneus/PCC sparing lateral parietal association should preferentially impair autonoetic integration, on either reading. Whether the deficit is channel-down or channel-degraded is the discriminator. The depth and selectivity required for the precuneus/PCC target has begun to come within reach of transcranial focused ultrasound (Verhagen et al. 2024 for the offline-neuromodulation feasibility result; Cain et al. 2021 for the deep-target pilot use case), though the within-region specificity needed to spare lateral parietal association remains a calibration challenge.
 
 ### Anterior Thalamic Nuclei vs. Mediodorsal Thalamus
 
@@ -135,9 +134,9 @@ The animal-model variant is presently *parallel* to the human-clinical variant r
 
 The design space is a stage-appropriate residue at the catalogue's current developmental stage. The [framework-stage calibration](/project/framework-stage-calibration/) for the present discriminator is "named-but-not-yet-tested": the test structure is specified clearly enough that future empirical work could deliver it, but the available evidence does not yet discriminate the rival readings. The [evidential-status discipline](/project/evidential-status-discipline/)'s constrain-vs-establish distinction is operative — existing approximations *constrain* both readings (channel-separability is established; cross-state convergence on the ordering is established) without *establishing* the substrate-vs-channel discriminator.
 
-The [direct-refutation discipline](/project/direct-refutation-discipline/)'s Mode Four (empirical underdetermination) is the honest discharge. Naming what would discriminate the readings prevents Mode Four from collapsing into Mode Three (premature bedrock-marking) — the dispute is empirically undetermined at the resolution present techniques can deliver, not metaphysically irresolvable. Future work at higher spatial resolution, with better cross-channel measurement, and across replication channels could move the dispute to Mode One (in-framework refutation) or Mode Two (foundational-move callout against an unsupported substrate-channel assumption).
+The [direct-refutation discipline](/project/direct-refutation-discipline/)'s Mode Four (empirical underdetermination) is the honest discharge. Naming what would discriminate the readings prevents the residue from collapsing into premature bedrock-marking — the dispute is empirically undetermined at the resolution present techniques can deliver, not metaphysically irresolvable. Future work at higher spatial resolution, with better cross-channel measurement, and across replication channels could move the dispute toward in-framework refutation or a foundational-move callout against an unsupported substrate-channel assumption.
 
-The catalogue should not characterise the present state as a draw between equally-supported readings. Both absorb the present evidence, and the [mechanism-costs cartography](/topics/mechanism-costs-dualism-thickness-quadrants/) for the broader cross-state convergence suggests the filter reading pays less per case at the architectural layer while production pays more in per-case accommodation. But neither the convergence nor the cost-comparison amounts to a discriminating empirical test, and the design space developed here is what such a test would look like rather than evidence the test has been delivered.
+The catalogue should not characterise the present state as a draw between equally-supported readings. Both absorb the present evidence, and the [mechanism-costs cartography](/topics/mechanism-costs-dualism-thickness-quadrants/) for the broader cross-state convergence suggests the filter reading pays less per case at the architectural layer while production pays more in per-case accommodation. Neither the convergence nor the cost-comparison amounts to a discriminating empirical test, and the design space developed here is what such a test would look like rather than evidence the test has been delivered.
 
 ## Relation to Site Perspective
 
@@ -166,22 +165,23 @@ The article engages three of the Map's tenets at the methodology layer rather th
 ## References
 
 1. Aggleton, J. P., & Brown, M. W. (1999). Episodic memory, amnesia, and the hippocampal-anterior thalamic axis. *Behavioral and Brain Sciences*, 22(3), 425–489.
-2. Andrews-Hanna, J. R., Smallwood, J., & Spreng, R. N. (2014). The default network and self-generated thought. *Annals of the New York Academy of Sciences*, 1316(1), 29–52.
-3. Bonnì, S., Veniero, D., Mastropasqua, C., et al. (2015). TMS evidence for a selective role of the precuneus in source memory retrieval. *Behavioural Brain Research*, 282, 70–75.
-4. Clayton, N. S., & Dickinson, A. (1998). Episodic-like memory during cache recovery by scrub jays. *Nature*, 395(6699), 272–274.
-5. Conway, M. A. (2005). Memory and the self. *Journal of Memory and Language*, 53(4), 594–628.
-6. Corkin, S. (2013). *Permanent Present Tense: The Unforgettable Life of the Amnesic Patient, H.M.* Basic Books.
-7. Hodges, J. R., Patterson, K., Oxbury, S., & Funnell, E. (1992). Semantic dementia: Progressive fluent aphasia with temporal lobe atrophy. *Brain*, 115(6), 1783–1806.
-8. Jouvet, M. (1962). Recherches sur les structures nerveuses et les mécanismes responsables des différentes phases du sommeil physiologique. *Archives Italiennes de Biologie*, 100, 125–206.
-9. Klein, S. B. (2014). *The Two Selves: Their Metaphysical Commitments and Functional Independence*. Oxford University Press.
-10. Lai, Y. Y., & Siegel, J. M. (1990). Muscle tone suppression and stepping produced by stimulation of midbrain and rostral pontine reticular formation. *Journal of Neuroscience*, 10(8), 2727–2734.
-11. Markowitsch, H. J., Vandekerckhove, M. M., Lanfermann, H., & Russ, M. O. (2003). Engagement of lateral and medial prefrontal areas in the ecphory of sad and happy autobiographical memories. *Cortex*, 39(4–5), 643–665.
-12. Roth, B. L. (2016). DREADDs for neuroscientists. *Neuron*, 89(4), 683–694.
-13. Scoville, W. B., & Milner, B. (1957). Loss of recent memory after bilateral hippocampal lesions. *Journal of Neurology, Neurosurgery, and Psychiatry*, 20(1), 11–21.
-14. Suddendorf, T., & Corballis, M. C. (2007). The evolution of foresight: What is mental time travel, and is it unique to humans? *Behavioral and Brain Sciences*, 30(3), 299–313.
-15. Tulving, E. (2002). Episodic memory: From mind to brain. *Annual Review of Psychology*, 53, 1–25.
-16. Tye, K. M., & Deisseroth, K. (2012). Optogenetic investigation of neural circuits underlying brain disease in animal models. *Nature Reviews Neuroscience*, 13(4), 251–266.
-17. Verhagen, L., Gallea, C., Folloni, D., et al. (2024). Offline impact of transcranial focused ultrasound on cortical activation in primates. *eLife*, 13, e87026.
-18. Southgate, A. & Oquatre-sept, C. (2026-05-19). Memory-System Vulnerability Hierarchies as Interface Evidence. *The Unfinishable Map*. https://unfinishablemap.org/topics/memory-system-vulnerability-hierarchies-as-interface-evidence/
-19. Southgate, A. & Oquatre-sept, C. (2026-05-18). The Discrimination Problem. *The Unfinishable Map*. https://unfinishablemap.org/concepts/discrimination-problem/
-20. Southgate, A. & Oquatre-sept, C. (2026-05-04). Direct-Refutation Discipline. *The Unfinishable Map*. https://unfinishablemap.org/project/direct-refutation-discipline/
+1. Andrews-Hanna, J. R., Smallwood, J., & Spreng, R. N. (2014). The default network and self-generated thought. *Annals of the New York Academy of Sciences*, 1316(1), 29–52.
+1. Bonnì, S., Veniero, D., Mastropasqua, C., et al. (2015). TMS evidence for a selective role of the precuneus in source memory retrieval. *Behavioural Brain Research*, 282, 70–75.
+1. Cain, J. A., Spivak, N. M., Coetzee, J. P., et al. (2021). Ultrasonic thalamic stimulation in chronic disorders of consciousness. *Brain Stimulation*, 14(2), 301–303.
+1. Clayton, N. S., & Dickinson, A. (1998). Episodic-like memory during cache recovery by scrub jays. *Nature*, 395(6699), 272–274.
+1. Conway, M. A. (2005). Memory and the self. *Journal of Memory and Language*, 53(4), 594–628.
+1. Corkin, S. (2013). *Permanent Present Tense: The Unforgettable Life of the Amnesic Patient, H.M.* Basic Books.
+1. Hodges, J. R., Patterson, K., Oxbury, S., & Funnell, E. (1992). Semantic dementia: Progressive fluent aphasia with temporal lobe atrophy. *Brain*, 115(6), 1783–1806.
+1. Jouvet, M. (1962). Recherches sur les structures nerveuses et les mécanismes responsables des différentes phases du sommeil physiologique. *Archives Italiennes de Biologie*, 100, 125–206.
+1. Klein, S. B. (2014). *The Two Selves: Their Metaphysical Commitments and Functional Independence*. Oxford University Press.
+1. Lai, Y. Y., & Siegel, J. M. (1990). Muscle tone suppression and stepping produced by stimulation of midbrain and rostral pontine reticular formation. *Journal of Neuroscience*, 10(8), 2727–2734.
+1. Markowitsch, H. J., Vandekerckhove, M. M., Lanfermann, H., & Russ, M. O. (2003). Engagement of lateral and medial prefrontal areas in the ecphory of sad and happy autobiographical memories. *Cortex*, 39(4–5), 643–665.
+1. Roth, B. L. (2016). DREADDs for neuroscientists. *Neuron*, 89(4), 683–694.
+1. Scoville, W. B., & Milner, B. (1957). Loss of recent memory after bilateral hippocampal lesions. *Journal of Neurology, Neurosurgery, and Psychiatry*, 20(1), 11–21.
+1. Suddendorf, T., & Corballis, M. C. (2007). The evolution of foresight: What is mental time travel, and is it unique to humans? *Behavioral and Brain Sciences*, 30(3), 299–313.
+1. Tulving, E. (2002). Episodic memory: From mind to brain. *Annual Review of Psychology*, 53, 1–25.
+1. Tye, K. M., & Deisseroth, K. (2012). Optogenetic investigation of neural circuits underlying brain disease in animal models. *Nature Reviews Neuroscience*, 13(4), 251–266.
+1. Verhagen, L., Gallea, C., Folloni, D., et al. (2024). Offline impact of transcranial focused ultrasound on cortical activation in primates. *eLife*, 13, e87026.
+1. Southgate, A. & Oquatre-sept, C. (2026-05-19). Memory-System Vulnerability Hierarchies as Interface Evidence. *The Unfinishable Map*. https://unfinishablemap.org/topics/memory-system-vulnerability-hierarchies-as-interface-evidence/
+1. Southgate, A. & Oquatre-sept, C. (2026-05-18). The Discrimination Problem. *The Unfinishable Map*. https://unfinishablemap.org/concepts/discrimination-problem/
+1. Southgate, A. & Oquatre-sept, C. (2026-05-04). Direct-Refutation Discipline. *The Unfinishable Map*. https://unfinishablemap.org/project/direct-refutation-discipline/

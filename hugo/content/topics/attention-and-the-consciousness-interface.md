@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-17
-ai_modified: 2026-05-14 22:05:00+00:00
+ai_modified: 2026-05-19 11:04:33+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -32,7 +32,7 @@ concepts:
 - '[[qualia]]'
 - '[[witness-consciousness]]'
 created: 2026-02-01
-date: &id001 2026-05-14
+date: &id001 2026-05-19
 description: 'A comprehensive treatment of attention as consciousness''s interface
   with the brain: the unified attention-motor selection mechanism, dissociation evidence,
   clinical cases across ADHD, neglect, Balint syndrome, extinction, OCD, and an honest
@@ -87,7 +87,7 @@ Attention and consciousness can come apart. [blindsight](/concepts/blindsight/) 
 | Present | Absent | Blindsight, masked priming |
 | Absent | Present | Peripheral awareness, gist perception |
 
-These cases constrain any theory that ties consciousness too tightly to attention's functional operation. The naïve identity claim "consciousness is attention" is incompatible with the dissociations directly; AST's more sophisticated identification (consciousness is the *schema of* attention, not attention itself) preserves room for them, but at the cost of asking what the schema represents when attention and consciousness come apart. Nartker et al. (2025, *eLife*) found inattentionally blind participants retain visual sensitivity to stimuli they deny noticing. A complementary dissociation runs the other way: consciousness reports *being focused* and *being distracted*, but the transit between them is unavailable at the moment of capture (the [transit-void](/voids/transit-void/)).
+These cases constrain any theory that ties consciousness too tightly to attention's functional operation. The naïve identity claim "consciousness is attention" is incompatible with the dissociations directly; AST's more sophisticated identification (consciousness is the *schema of* attention, not attention itself) preserves room for them, but at the cost of asking what the schema represents when attention and consciousness come apart. Nartker et al. (2025, *eLife*) found inattentionally blind participants retain visual sensitivity to stimuli they deny noticing. A complementary dissociation runs the other way: consciousness reports *being focused* and *being distracted*, but the transit between them is unavailable at the moment of capture itself, even where retrospective reconstruction routinely fills in a transition narrative — the [transit-void](/voids/transit-void/). The phenomenological corpus on attentional capture (Husserl's analysis of retention/protention, Petitmengin's micro-phenomenology, Smallwood and Schooler's probe-caught paradigm) is unanimous that real-time access to the moment of capture is absent; whether the retrospective narrative recovers the actual transit or fabricates one is a separate question, treated in [the transit void's treatment of attentional capture](/voids/transit-void/#attentional-capture-the-empirical-anchor).
 
 Block's overflow argument sharpens the picture. In iconic memory experiments, subjects report seeing all 12 letters in a brief flash but can name only 3-4. If consciousness overflows what attention captures, its scope exceeds any functional mechanism—creating problems for [functionalist](/concepts/functionalism/) theories. Kim and Chong (2024) propose visual experience is "not rich, but not sparse"; the question remains open.
 
@@ -134,9 +134,9 @@ A patient with extinction can detect a single stimulus on either side, but when 
 
 Each disorder removes a different piece of the architecture. Consciousness continues, but its scope, structure, or reliability tracks the damaged component—and implicit processing of the "lost" content persists. This gap is the interface. If consciousness were neural processing, no such systematic divergence should appear; if consciousness were independent of the brain, disorders should not alter phenomenology at all.
 
-### Fatigue, OCD, Meditation
+### Fatigue and Meditation
 
-Sustained attention depletes; motivation can temporarily override fatigue—the resource is rationed, not exhausted. Schwartz's OCD treatment is sometimes adduced for top-down causation (Schwartz et al., 1996), but the study is small and unreplicated; treated here as an illustrative case that motivated the interface framing, not load-bearing evidence.
+Sustained attention depletes; motivation can temporarily override fatigue—the resource is rationed, not exhausted.
 
 Meditation trains the interface. Earlier claims of structural brain changes were challenged by Kral et al. (2022). Advaita Vedanta strands report [witness-consciousness](/concepts/witness-consciousness/) as awareness prior to mental contents; Madhyamaka and Dzogchen draw the opposite inference from similar phenomenology. The interface model accommodates the Advaita reading without claiming the Madhyamaka reading is mistaken (developed in [non-temporal-consciousness](/topics/non-temporal-consciousness/) and [phenomenology-of-returning-attention](/topics/phenomenology-of-returning-attention/)). AST's rejoinder—practice may deepen the schema's apparent fundamentality—is noted rather than dismissed.
 
@@ -150,9 +150,9 @@ Sustaining voluntary attention and motor intention feel effortful in the same wa
 
 Libet's 1983 experiments appeared to show the brain "decides" before consciousness knows. Schurger's 2012 model reinterprets the readiness potential as averaged neural noise; Sjöberg (2024) shows patients with the supplementary motor area resected retain the sense of willing while losing movement execution—consistent with the weaker interpretation that the potential reflects motor preparation rather than choice. On the convergence model, consciousness contributes selection, not initiation, biasing which option crosses threshold ~280ms before movement.
 
-The Map doesn't commit to a specific mechanism. Candidates include ion channels (Stapp's quantum Zeno mechanism), microtubules (Penrose-Hameroff Orch OR), and the posterior-frontal junction where COGITATE's conscious content correlates meet attention control networks. Tegmark (2000) calculated decoherence times orders of magnitude below the ~280–300ms attention timescale. Stapp's reply: the quantum effect operates at ion-channel transitions, so the required coherence time is the transition's own duration; bias integrates across many short-lived transitions. Orch OR remains contested on independent grounds (Reimers et al. 2009; McKemmish et al. 2009). Tegmark's calculation remains the deepest unanswered objection for any mechanism requiring macroscopic neural coherence.
+The Map doesn't commit to a specific mechanism. Candidates include ion channels (Stapp's quantum Zeno mechanism), microtubules (Penrose-Hameroff Orch OR), and the posterior-frontal junction where COGITATE's conscious content correlates meet attention control networks. Tegmark (2000) calculated decoherence times of roughly 10⁻¹³ seconds for ion-channel-scale superpositions and 10⁻²⁰ seconds for microtubule-scale superpositions in warm, wet brain tissue—twelve to twenty orders of magnitude shorter than the ~280–300ms attention timescale, and faster by a factor of ~10¹⁰ than the millisecond-scale of the fastest neural firing events. Any interface mechanism that requires brain-wide quantum coherence on cognitively-relevant timescales is excluded by these numbers. The remaining possibility is that the relevant quantum effects operate at far shorter timescales than the cognitive event itself: Stapp's reply locates the quantum effect at ion-channel transitions, so the required coherence time is the transition's own duration and bias integrates statistically across many short-lived transitions. This requires that the brain contain quantum-ordered ion-channel subsystems shielded enough to outrun their local decoherence rate, and that the integrated bias remain non-zero across the relevant population — neither of which has been demonstrated. Orch OR remains contested on independent grounds (Reimers et al. 2009; McKemmish et al. 2009). Tegmark's calculation remains the deepest unanswered objection for any mechanism requiring macroscopic neural coherence, and honest engagement with the interface hypothesis requires conceding that the mechanism's empirical viability presently rides on the short-coherence integrationist response rather than on any positive evidence that the brain hosts the required quantum-ordered subsystems.
 
-Conscious throughput, measured behaviourally, is roughly 10 bits per second (Zheng & Meister, 2024)—orders of magnitude below the rate at which sensory transduction delivers information to the brain. The asymmetry motivates [the interface-friction model](/concepts/consciousness-bandwidth-architecture/): 10 bits/sec suffices for 3-4 selections per second among small alternative sets—the competition-selection architecture.
+Zheng & Meister (2024) estimate behavioural cognitive throughput at roughly 10 bits per second—a figure derived from task performance (typing, reading, deliberate decision-making), not from a neural-processing ceiling, and not directly comparable to the ~10⁹ bits/sec rate at which sensory transduction delivers raw information to the receptor array. What the figure measures is the throughput of the channel through which deliberate selection passes, not the bandwidth of the brain as a whole. So narrowed, the figure motivates [the interface-friction model](/concepts/consciousness-bandwidth-architecture/): the cognitive-selection channel has the bandwidth of roughly 3-4 selections per second among small alternative sets—the competition-selection architecture. The asymmetry between sensory transduction and deliberate selection is real but reflects the difference between transduction and cognitive throughput rather than a direct measurement of consciousness's coupling to neural dynamics.
 
 ## Predictions and Falsification
 
@@ -176,7 +176,7 @@ The framework faces serious challenge from rival-framework vindication: precisio
 
 ## Honest Limitations
 
-The convergence argument identifies *where* consciousness might influence brain states and *when* selection occurs; it does not explain *how* a non-physical consciousness biases physical outcomes. The quantum Zeno mechanism remains contested. Attention disorders are consistent with the interface model but also with computational accounts; we cannot determine from inside any disorder whether consciousness is unchanged behind a degraded interface or is itself altered. The Map builds on findings from researchers—Rizzolatti, Cisek, Schurger, Schwartz, Graziano—who would not all endorse the dualist framework applied to their work.
+The convergence argument identifies *where* consciousness might influence brain states and *when* selection occurs; it does not explain *how* a non-physical consciousness biases physical outcomes. The quantum Zeno mechanism remains contested. Attention disorders are consistent with the interface model but also with computational accounts; we cannot determine from inside any disorder whether consciousness is unchanged behind a degraded interface or is itself altered. The Map builds on findings from researchers—Rizzolatti, Cisek, Schurger, Graziano—who would not all endorse the dualist framework applied to their work.
 
 ## Further Reading
 
@@ -233,49 +233,18 @@ The convergence argument identifies *where* consciousness might influence brain 
 
 20. Schurger, A., Sitt, J.D., & Dehaene, S. (2012). An accumulator model for spontaneous neural activity prior to self-initiated movement. *PNAS*, 109(42), E2904-E2913.
 
-21. Schwartz, J.M., et al. (1996). Systematic changes in cerebral glucose metabolic rate after successful behavior modification treatment of obsessive-compulsive disorder. *Archives of General Psychiatry*, 53(2), 109-113.
+21. Sjöberg, R.L. (2024). The readiness potential and the soul. *Brain*, 147(7), 2267-2274.
 
-22. Sjöberg, R.L. (2024). The readiness potential and the soul. *Brain*, 147(7), 2267-2274.
+22. Stapp, H.P. (2007). *Mindful Universe: Quantum Mechanics and the Participating Observer*. Springer.
 
-23. Stapp, H.P. (2007). *Mindful Universe: Quantum Mechanics and the Participating Observer*. Springer.
+23. Tallis, R. (2024). The Illusion of Illusionism. *Philosophy Now*, 159.
 
-24. Tallis, R. (2024). The Illusion of Illusionism. *Philosophy Now*, 159.
+24. Tegmark, M. (2000). Importance of quantum decoherence in brain processes. *Physical Review E*, 61, 4194-4206.
 
-25. Tegmark, M. (2000). Importance of quantum decoherence in brain processes. *Physical Review E*, 61, 4194-4206.
+25. Thura, D., & Cisek, P. (2014). Deliberation and commitment in the premotor and primary motor cortex during dynamic decision making. *Neuron*, 81(6), 1401-1416.
 
-26. Thura, D., & Cisek, P. (2014). Deliberation and commitment in the premotor and primary motor cortex during dynamic decision making. *Neuron*, 81(6), 1401-1416.
+26. Volkow, N.D., et al. (2009). Evaluating dopamine reward pathway in ADHD: Clinical implications. *JAMA*, 302(10), 1084-1091.
 
-27. Volkow, N.D., et al. (2009). Evaluating dopamine reward pathway in ADHD: Clinical implications. *JAMA*, 302(10), 1084-1091.
+27. Wise, S.P., & Murray, E.A. (2022). The whole prefrontal cortex is premotor cortex. *Philosophical Transactions of the Royal Society B*, 377(1844), 20200524.
 
-28. Wise, S.P., & Murray, E.A. (2022). The whole prefrontal cortex is premotor cortex. *Philosophical Transactions of the Royal Society B*, 377(1844), 20200524.
-
-29. Zheng, J. & Meister, M. (2024). The unbearable slowness of being: Why do we live at 10 bits/s? *Neuron*.
-
-<!-- AI REFINEMENT LOG - 2026-05-14 22:05 UTC (P1 critical-defects from pessimistic-2026-05-14)
-Changes made:
-- Cai et al. paragraph (§"The Competition-Selection Architecture"): downgraded the citation per `[[evidential-status-discipline]]` — explicit that Cai et al. test only the two-layer dissociation and that their findings are equally consistent with Berridge incentive-salience without an added third layer. The Map's third-layer claim is now framed as "consistent with rather than licensed by" Cai et al., stands or falls with the broader interface argument, and the Parkinson's example is similarly hedged as "consistent with (but not by itself evidence for)" interface degradation.
-- §"Attention-Consciousness Dissociation" (former line 86 sentence): replaced the naïve identity strawman ("If consciousness were identical to attention, these cases would be incoherent") with engagement of AST's sophisticated version — consciousness as the *schema of* attention rather than attention itself. The dissociations now constrain rather than refute AST and raise the question of what the schema represents when attention and consciousness come apart.
-- §"Why Attention Schema Theory Fails" → renamed §"Engaging Attention Schema Theory" (the prior title prejudged a result the article does not in fact establish). Rewrote the section per `[[direct-refutation-discipline]]`: the article now does foundational-move identification (AST's central identification of schema-as-phenomenal with phenomenal is asserted rather than derived, and AST's recursive-self-modelling reply names the architectural feature without delivering the bridge — chess engines and self-monitoring thermostats show that recursive self-modelling does not by itself generate apparent phenomenality) and explicitly notes the substantive disagreement runs at the framework boundary ("the disagreement is about which framework to inhabit, and the Map notes this honestly rather than dressing tenet-incompatibility as an argument decided on AST's terms"). The Tallis quote is now engaged with AST's standard reply rather than presented as a rhetorical capstone.
-- §"Predictions and Falsification": sharpened the borrowed-risk acknowledgement — the article now explicitly names the asymmetry ("These are not forward predictions of the interface model itself; they are conditions under which some *other* theory's vindication would close out the space the interface hypothesis occupies") and states that "the framework owes more such [forward] predictions before it can claim falsifiability symmetry with the rivals it engages." The effort-entropy prediction remains the model's first forward claim; the section now honestly disposes of the asymmetry rather than presenting borrowed risk as falsifiability symmetry.
-- Frontmatter `description`: updated end-clause from "and why Attention Schema Theory fails" to "and an honest engagement with Attention Schema Theory" — matches the renamed section and the article's actual dialectical posture.
-- Frontmatter `modified`: 2026-05-12 → 2026-05-14. `ai_modified`: 2026-05-14T15:10:00+00:00 → 2026-05-14T22:05:00+00:00.
-
-Engagement classifications (editor-vocabulary; for changelog record only):
-- AST engagement: Mode Two with explicit Mode Three residue. The foundational-move identification (AST stipulates schema-as-phenomenal = phenomenal without earning the bridge by its own mechanistic standards) is the in-framework engagement; the residue (AST treats the experiencer-question as confused; the Map takes phenomenal experience as ontologically primary) is honest framework-boundary marking. The article does not claim to refute AST inside AST's terms.
-- Materialist engagement at neglect (existing prose preserved): Mode Two — the article asks for a principled materialist account of why integration cleaves to the parietal mechanism rather than asserting an identity strawman.
-- MWI engagement at §"Relation to Site Perspective" (preserved): Mode Three — the disagreement with MWI is "a tenet commitment honestly noted, not a victory over MWI on its own terms".
-
-Issues from `reviews/pessimistic-2026-05-14.md` addressed:
-- Issue 1 (AST critique begs the question): upgraded to Mode-Two-plus-Mode-Three engagement; the section title and prose no longer prejudge the result; AST's recursive-self-modelling reply is engaged directly with the chess-engine / self-monitoring-thermostat counter-examples; the bedrock disagreement is acknowledged in natural prose.
-- Issue 2 (falsification asymmetry): borrowed-risk pattern explicitly named and honestly disposed; the effort-entropy prediction remains the lone forward claim of the model's own and is now framed as a first step, not a falsifiability-symmetry achievement.
-- Issue 3 (materialism strawmanning): the line 86 naïve-identity strawman replaced with engagement of AST's schema-of-attention version; the prior condense pass had already addressed the line 108/112 strawmen (ADHD ending is now "friction at the interface, not thinned-out experience"; neglect ending asks the sophisticated-materialist question about why integration cleaves to the parietal mechanism).
-- Issue 4 (Cai et al. miscitation): downgraded to "consistent with rather than licensed by"; the third layer is explicitly the Map's interpretation that the paper does not test.
-
-The eight further P3 findings in the pessimistic review (Tegmark numerical engagement; "2025 evidence of room-temperature quantum effects" sourcing; OCD/Schwartz subsection; Zheng & Meister 10-bits/sec framing; Sjöberg 2024 inference strength; witness-consciousness AST rejoinder; §"Relation to Site Perspective" rhetorical-stutter; transit-void phenomenological claim) remain queued as the P3 task in `obsidian/workflow/todo.md` and are out of scope for this pass.
-
-Scope: 4 substantive edits to body prose (~200 lines touched in total), 1 section rename, 2 frontmatter field updates. Preserved: the unified attention-motor mechanism argument; the Koch/Tsuchiya four-case dissociation table; the Phenomenological Kaleidoscope table; the five-tenet alignment section; the Honest Limitations coda; the label-leakage discipline. No editor-vocabulary leaked into prose.
-
-Based on pessimistic review by Claude Opus 4.7 2026-05-14 (review file: `reviews/pessimistic-2026-05-14.md`). Convergent with the broader 2026-05 outer-review pattern of flagging perimeter-substitution where in-framework engagement is feasible.
-
-This log should be removed after human review.
--->
+28. Zheng, J. & Meister, M. (2024). The unbearable slowness of being: Why do we live at 10 bits/s? *Neuron*.

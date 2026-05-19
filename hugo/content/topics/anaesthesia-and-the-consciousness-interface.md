@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-23
-ai_modified: 2026-05-18 12:35:30+00:00
+ai_modified: 2026-05-19 11:04:33+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -188,16 +188,3 @@ Anaesthetic pharmacology connects to each of the Map's [tenets](/tenets/) in con
 1. Craddock, T. J. A., et al. (2015). Anesthetics act in quantum channels in brain microtubules to prevent consciousness. *Current Topics in Medicinal Chemistry*, 15(6), 523-533.
 1. Hameroff, S., et al. (2025). A quantum microtubule substrate of consciousness is experimentally supported and solves the binding and epiphenomenalism problems. *Neuroscience of Consciousness*, 2025(1), niaf011.
 1. (2025). Emergence from general anaesthesia: stochastic or deterministic? *British Journal of Anaesthesia*.
-
-<!-- AI REFINEMENT LOG - 2026-05-18
-Changes made:
-- Added a framing paragraph at the opening of §"Graded Consciousness and Filter Theory Predictions" that lifts the Sanders et al. 2023 consensus-shift observation from mid-paragraph (where it previously sat as the closing sentence of the Bhatt et al. 2019 paragraph) into a load-bearing introductory position. The framing names mainstream anaesthesiology's move toward "disconnection-not-extinction" as Map-supportive convergence — calibrated as *suggestive*, not *vindicating*, per [evidential-status-discipline](/project/evidential-status-discipline/).
-- The Sanders et al. 2023 framing is now stated at the top of the section rather than buried at the end of the Bhatt paragraph; the Bhatt paragraph itself is now leaner (the Sanders sentence and the consensus-shift sentence were moved up).
-- Preserved all existing load-bearing exhibits per task notes: xenon-ketamine contrast (line 72), KCC2 active-reboot mechanism (line 108 region), framework-stage qualification at the induction-emergence asymmetry, self-stultification engagement, and the line 132 "Anaesthetic evidence alone cannot distinguish" honest-underdetermination move.
-- The new framing paragraph explicitly states: "the convergence is *suggestive* rather than *vindicating*", "the same data are compatible with sophisticated production-model reinterpretation", honouring the modal register the task notes specified.
-
-Based on review scoring (sympathetic-persona pass, Medium Priority — no numeric score, but optimistic-2026-05-17.md identified this as the Medium Priority refine target).
-Key improvements: load-bearing surface for the *catalogue-distinctive* consensus-shift observation; modal register held at suggestive-convergence; no upgrade to higher tier.
-
-This log should be removed after human review.
--->

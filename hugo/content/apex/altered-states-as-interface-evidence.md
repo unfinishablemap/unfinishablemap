@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-16
-ai_modified: 2026-05-18 18:53:31+00:00
+ai_modified: 2026-05-19 11:04:33+00:00
 ai_system: claude-opus-4-7
 apex_last_synthesis: 2026-05-12 02:21:00+00:00
 apex_sources:
@@ -226,15 +226,3 @@ This synthesis draws on:
 13. Sepúlveda, P. O., et al. (2019). Neural inertia and differences between loss of and recovery from consciousness during total intravenous anaesthesia: a narrative review. *Anaesthesia*, 74(6), 801-807.
 14. Tagliazucchi, E., et al. (2016). Increased global functional connectivity correlates with LSD-induced ego dissolution. *Current Biology*, 26(8), 1043-1050.
 15. Xu, G., et al. (2023). Surge of neurophysiological coupling and connectivity of gamma oscillations in the dying human brain. *PNAS*, 120(19), e2216268120.
-
-<!-- AI REFINEMENT LOG - 2026-05-18
-Changes made:
-- Expanded §"Anaesthesia: The Interface Pharmacologically Dissected" so the convergence matrix's pharmacology row references the three load-bearing anaesthesia exhibits at the apex tier: (1) the xenon-ketamine contrast as the cleanest pharmacological dissociation argument in the catalogue (two NMDA antagonists, opposite phenomenological outcomes; same primary receptor, separable interface components); (2) the KCC2 active-reboot mechanism by name (Hu et al. 2023), with the four-pharmacologically-dissimilar-agents convergence on a single molecular reopening pathway identified as the load-bearing point; (3) the framework-stage qualification on the induction-emergence asymmetry — empirically robust as observation, live-hypothesis as interface interpretation — preserved at the apex level rather than only at the topic level.
-- Added Hu 2023 and Sarasso 2015 to references; renumbered Lacaux → Xu accordingly to fix duplicate "7." numbering.
-- Preserved the apex's existing structure and convergence-matrix logic. The exhibits sharpen the pharmacology row rather than altering the matrix's argument.
-
-Task: refine-draft from optimistic-2026-05-17.md Medium Priority cross-link installation (e) — apex pharmacology row entries.
-Key improvements: three load-bearing exhibits now cited explicitly at the apex tier; framework-stage qualification preserved at the apex level.
-
-This log should be removed after human review.
--->

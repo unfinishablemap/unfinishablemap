@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-16
-ai_modified: 2026-05-19 05:51:09+00:00
+ai_modified: 2026-05-19 11:04:33+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -208,22 +208,3 @@ This framework respects the ordinary intuition that people deserve praise and bl
 1. Tallis, R. (2011). *Aping Mankind*. Acumen.
 1. Tegmark, M. (2000). Importance of quantum decoherence in brain processes. *Physical Review E*, 61(4), 4194-4206.
 1. Whitehead, A.N. (1929). *Process and Reality*. Macmillan.
-
-<!-- AI REFINEMENT LOG - 2026-05-18
-Cross-link refinement (driver: optimistic-2026-05-17b.md Medium Priority + Cross-Linking Suggestions table, item b — reciprocate link to the moral-architecture apex's Compatibilist Symmetry Challenge framing).
-- §Objections and Responses, "Compatibilism is sufficient" item: expanded from one sentence to a substantive paragraph that names the apex's symmetry-challenge framing, cites Frankfurt/Fischer-Ravizza/Wolf as the sophisticated-compatibilist tradition the apex engages, and adopts the apex's honest framing — the libertarian view's distinguishing work is tenet-coherence rather than unique moral explanatory power. The article still endorses agent causation but no longer treats compatibilism as a position whose adherents have settled for moral fiction; it engages compatibilism's substantive desert claims directly.
-- ai_modified timestamp updated.
-
-This log should be removed after human review.
--->
-
-<!-- AI REFINEMENT LOG - 2026-05-19
-Cluster audit against new concept [compatibilist-symmetry-challenge](/concepts/compatibilist-symmetry-challenge/) (created 2026-05-18). Driver: optimistic-2026-05-19.md High Priority.
-
-- §Objections and Responses, "Compatibilism is sufficient": rewrote the opening clause from "if people *don't* really deserve anything, moral practice rests on useful fictions" — which mis-framed sophisticated compatibilism as committed to fictionalism — to the *irreducible-vs-derivative* register the new concept names. Sophisticated compatibilism grounds desert in metaphysically substantive capacities; the contrast is whether those capacities are irreducible (Map) or derivative from prior states (compatibilism). Added the three-part move's "residue at the limits" sentence at the end (ultimate desert, "could have done otherwise"). Linked the new concept page directly rather than only via the apex.
-- §Further Reading: added wikilink to [compatibilist-symmetry-challenge](/concepts/compatibilist-symmetry-challenge/) with one-line description.
-- Frontmatter concepts list: added [compatibilist-symmetry-challenge](/concepts/compatibilist-symmetry-challenge/).
-- ai_modified timestamp updated.
-
-This log should be removed after human review.
--->

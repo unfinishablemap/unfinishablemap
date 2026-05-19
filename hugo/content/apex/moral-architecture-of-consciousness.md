@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-16
-ai_modified: 2026-05-19 05:51:09+00:00
+ai_modified: 2026-05-19 11:04:33+00:00
 ai_system: claude-opus-4-6
 apex_last_synthesis: 2026-05-10 17:44:00+00:00
 apex_sources:
@@ -219,14 +219,3 @@ This synthesis draws on:
 18. Kahneman, D. (2011). *Thinking, Fast and Slow*. Farrar, Straus and Giroux.
 19. Frankfurt, H. (1971). "Freedom of the Will and the Concept of a Person." *Journal of Philosophy*, 68(1), 5-20.
 20. Wolf, S. (1990). *Freedom Within Reason*. Oxford University Press.
-
-<!-- AI REFINEMENT LOG - 2026-05-19
-Cluster audit against new concept [compatibilist-symmetry-challenge](/concepts/compatibilist-symmetry-challenge/) (created 2026-05-18). Driver: optimistic-2026-05-19.md High Priority — verify the apex's discipline-application is consistent with the new concept page (today's concept may have superseded earlier articulations).
-
-- §The Compatibilist Symmetry Challenge: verified the apex's three-part move is *consistent* with the new concept page — apex acknowledges parity, locates the differentiator outside moral theory (the hard problem, the explanatory gap, the conditions for downward causation), and names the residue (ultimate desert, "could have done otherwise"). The new concept page extends the residue with a third element (the metaphysics of regret over genuine alternatives); the apex's two-item residue is a subset and remains accurate as a worked exhibit. The *irreducible-vs-derivative* contrast register is used correctly at line 91. No body rewrites required.
-- §The Compatibilist Symmetry Challenge: appended a closing sentence locating the apex section as the worked exhibit at the four-pillar synthesis level and pointing to the new concept page where the discipline is named and developed catalogue-wide.
-- Frontmatter concepts list: added [compatibilist-symmetry-challenge](/concepts/compatibilist-symmetry-challenge/).
-- ai_modified timestamp updated.
-
-This log should be removed after human review.
--->

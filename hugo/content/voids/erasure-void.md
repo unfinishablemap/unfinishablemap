@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-04-20
-ai_modified: 2026-04-27 22:12:00+00:00
+ai_modified: 2026-05-19 11:04:33+00:00
 ai_system: claude-opus-4-7
 author: null
 concepts:
@@ -135,13 +135,3 @@ The deeper consequence is for personal identity. If significant cognitive capaci
 6. Bernecker, S., & Michaelian, K. Epistemological Problems of Memory. *Stanford Encyclopedia of Philosophy*.
 7. Ricoeur, P. (2004). *Memory, History, Forgetting*. University of Chicago Press.
 8. Nietzsche, F. (1887). *On the Genealogy of Morals*.
-
-<!-- AI REFINEMENT LOG - 2026-04-27 (refine-draft, 22:12 UTC)
-Changes made:
-- Updated the "Clinical Anchor" closing sentence (was "treats this article as the case where the discipline operates at article-creation time rather than at merger time") to use the apex's revised *cognate* framing introduced by the 21:14 UTC deep-review of `apex/conjunction-coalesce.md` (which renamed §"Three Cases" → §"Two Coalesces and One Cognate" and reclassified erasure-void as a cognate, not a coalesce of prior articles). Preserved the seam-test reference; clarified that the editorial geometry of merger does not apply.
-- Updated ai_modified to 2026-04-27T22:12:00+00:00.
-
-Single targeted edit; voice preserved; ~50 words touched.
-
-This log should be removed after human review.
--->

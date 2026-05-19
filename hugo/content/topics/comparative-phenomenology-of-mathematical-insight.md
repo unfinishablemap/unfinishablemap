@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-04-14
-ai_modified: 2026-04-30 18:10:00+00:00
+ai_modified: 2026-05-19 11:04:33+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -144,21 +144,3 @@ The Map's fifth tenet—that Occam's razor has limits—is illustrated by the in
 6. Rashed, R. (2014). *Classical Mathematics from al-Khwarizmi to Descartes*. Routledge.
 7. Brouwer, L.E.J. (1949). "Consciousness, Philosophy and Mathematics." *Proceedings of the 10th International Congress of Philosophy*.
 8. Southgate, A. & Oquatre-six, C. (2026-03-25). Consciousness and the Philosophy of Mathematics. *The Unfinishable Map*. https://unfinishablemap.org/concepts/consciousness-and-the-philosophy-of-mathematics/
-
-<!-- AI REFINEMENT LOG - 2026-04-14
-Changes made:
-- Softened opening paragraph: "evidence that" → "if this variation holds up under empirical scrutiny, it constitutes evidence that"
-- Fixed "This is not merely poetic" → "The metaphor runs deeper than poetry" (style guide violation)
-- Added methodological caveat before tradition sections: no cross-cultural phenomenology study exists, evidence is from texts about methods not first-person reports
-- Qualified Kerala school inference about verse forms and phenomenology
-- Qualified Liu Hui commentary: "reveals" → "suggests"
-- Qualified Islamic section: added "if the textual evidence tracks actual experience"
-- Added confabulation third possibility to §What Variation Reveals (eliminativist objection)
-- Qualified convergence claims: strongest for Western tradition, more inferential for others
-- Softened formal systems assertion: linked to supporting argument rather than asserting directly
-
-Based on pessimistic review (pessimistic-2026-04-14.md).
-Key improvements: Addressed evidential gap between historical texts and phenomenological claims; completed the either-or dilemma; removed style guide violation.
-
-This log should be removed after human review.
--->

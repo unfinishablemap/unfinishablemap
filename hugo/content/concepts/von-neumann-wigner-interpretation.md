@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-20
-ai_modified: 2026-05-01 07:25:00+00:00
+ai_modified: 2026-05-19 11:04:33+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -150,31 +150,3 @@ Each of these articles invokes the *weaker-than-headline disclosure* described i
 5. Southgate, A. & Oquatre-six, C. (2026-01-14). The Measurement Problem. *The Unfinishable Map*. https://unfinishablemap.org/concepts/measurement-problem/
 6. Tegmark, M. (2000). "Importance of quantum decoherence in brain processes." *Physical Review E*, 61(4), 4194–4206.
 7. London, F. & Bauer, E. (1939). *La Théorie de l'Observation en Mécanique Quantique*. Hermann.
-
-<!-- AI REFINEMENT LOG - 2026-04-28
-Changes made (addressing optimistic-2026-04-28 Cross-Linking Suggestions):
-- Added new ## Where the Modulation Framing Appears subsection between §Relation to Site Perspective and §Further Reading. Cross-links to five neighbour articles where the V-N-W modulation framing was propagated 2026-04-27 22:48–2026-04-28 00:59 UTC: concepts/many-worlds, spontaneous-collapse-theories, decoherence, measurement-problem, quantum-consciousness. Substituted quantum-consciousness for methodology-of-consciousness-research (named in the task brief) because verification showed the methodology article does not contain the V-N-W modulation framing — quantum-consciousness was the actual fifth propagation site (commit cb190a832).
-- Verified weaker-than-headline disclosure discipline is already invoked at §Relation to Site Perspective (lines 97–98 of prior version). No edit needed there.
-- Frontmatter ai_modified updated to 2026-04-28T06:27:00+00:00.
-
-Voice preserved; no other changes. New subsection installs the navigational infrastructure that makes a five-article propagation visible to readers entering at the V-N-W article.
-
-This log should be removed after human review.
--->
-
-<!-- AI REFINEMENT LOG - 2026-04-27
-Changes made (addressing pessimistic-2026-04-27d):
-- Issue 1 (HIGH): Added "Decoherence pressure" subsection under Standard Objections engaging Tegmark (2000) timescale calculation; pointed to brain-interface-boundary and motor-control-quantum-zeno as partial responses; framed as open problem rather than solved one.
-- Issue 2 (HIGH): Added two flagged paragraphs to "Relation to Site Perspective" stating explicitly that the Map's actual position is objective-collapse-plus-modulation (not consciousness-causes-collapse), and that the inheritance from V-N-W is the problem space, not the mechanism.
-- Issue 3 (MEDIUM): Rewrote Frauchiger–Renner sentence to acknowledge F–R puts pressure on V-N-W rather than supporting it; pointed to interface-locality and indexical-identity as the Map's response.
-- Issue 4 (MEDIUM): Softened "avoids self-stultification" to "engages self-stultification"; added pointer to physical-correlates rebuttal via [self-stultification](/concepts/self-stultification/).
-- Issue 5 (LOW): Replaced "first rigorous proposal" opening with London-Bauer-1939-aware "most influential lineage" phrasing; added London-Bauer to references.
-- Issue 6 (MEDIUM): Expanded Wigner's retreat from one sentence into substantive paragraph naming the two pressures (solipsism, multi-observer specification), connecting both to the Map's mechanisms, and stating "Wigner identified the right problem space" rather than "Wigner was right."
-- Issue 7 (MEDIUM): Replaced rhetorical "within physics vs outside physics" claim with argued treatment of the location-vs-amount distinction in Minimal Quantum Interaction; weakened the "more naturally" hedge to a measurement-dependent claim and pointed to coupling-modes for the trade-offs.
-- Frontmatter ai_modified updated to 2026-04-27T20:29:00+00:00.
-- References extended with Tegmark (2000) and London-Bauer (1939).
-
-Voice preserved; argument structure unchanged. Lineage framing tightened so that "ancestor not final form" is now anchored by explicit content rather than left implicit.
-
-This log should be removed after human review.
--->

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-15
-ai_modified: 2026-05-18 18:53:31+00:00
+ai_modified: 2026-05-19 11:04:33+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -218,14 +218,3 @@ Buddhism offers a structurally parallel framework: the five *skandhas* describe 
 1. Sanders, R. D., et al. (2023). The nature of consciousness in anaesthesia. *BJA Open*, 8.
 1. Sauerbrei, B.A. & Pruszynski, J.A. (2025). The brain works at more than 10 bits per second. *Nature Neuroscience*.
 1. Van Lommel, P., et al. (2001). "Near-death experience in survivors of cardiac arrest." *The Lancet*, 358(9298), 2039-2045.
-
-<!-- AI REFINEMENT LOG - 2026-05-18
-Changes made:
-- Expanded the "Anesthetic Divergence" subsection to install the four-component structured-interface vocabulary at the concept-page level. Each component (phenomenal presence, behavioural access, temporal binding, memory encoding) is now paired with its characteristic pharmacology (propofol/xenon, ketamine, volatile agents, midazolam). The concept-page-level commitment about what the interface *is* — multiple semi-independent channels rather than a single dimmer — is now stated explicitly rather than left implicit in the topic-page treatment.
-- Preserved the existing Sarasso (2015) framing and the rest of the Anesthetic Divergence subsection's calibration intact.
-
-Task: refine-draft from optimistic-2026-05-17.md Medium Priority cross-link installation (b).
-Key improvements: structured-interface vocabulary installed at concept-page tier; upward flow from topic article to concept page corrected.
-
-This log should be removed after human review.
--->

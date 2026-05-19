@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-24
-ai_modified: 2026-05-15 06:39:00+00:00
+ai_modified: 2026-05-19 10:36:26+00:00
 ai_system: claude-opus-4-7
 author: null
 coalesced_from:
@@ -22,7 +22,7 @@ concepts:
 - '[[consciousness-physics-interface-formalism]]'
 - '[[causal-consistency-constraint]]'
 created: 2026-03-15
-date: &id001 2026-05-15
+date: &id001 2026-05-19
 description: 'The Born rule resists derivation across every quantum interpretation
   — abductive evidence it encodes the consciousness-physics interface rather than
   a gap awaiting closure. With empirical status: which proposals require violation,
@@ -30,7 +30,7 @@ description: 'The Born rule resists derivation across every quantum interpretati
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-05-14 05:04:00+00:00
+last_deep_review: 2026-05-19 10:36:26+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -58,6 +58,8 @@ related_articles:
 - '[[brain-internal-born-rule-testing]]'
 - '[[falsification-roadmap-for-the-interface-model]]'
 - '[[testing-consciousness-collapse]]'
+- '[[consciousness-and-causal-powers]]'
+- '[[phenomenology-of-consciousness-doing-work]]'
 title: The Born Rule and the Consciousness-Physics Interface
 topics:
 - '[[hard-problem-of-consciousness]]'
@@ -214,6 +216,8 @@ The Map's working position is that the empirical question is genuinely open, pre
 
 ## Further Reading
 
+- [consciousness-and-causal-powers](/topics/consciousness-and-causal-powers/) — The theory article paired with this site article: what consciousness does at the interface this Born-rule treatment locates
+- [phenomenology-of-consciousness-doing-work](/apex/phenomenology-of-consciousness-doing-work/) — Apex synthesis tying interface site, causal-powers theory, and the phenomenology of effort into one human-readable picture
 - [mathematical-structure-of-the-consciousness-physics-interface](/topics/mathematical-structure-of-the-consciousness-physics-interface/) — The mathematical corridor
 - [consciousness-physics-interface-formalism](/concepts/consciousness-physics-interface-formalism/) — Five non-negotiable coupling constraints
 - [causal-consistency-constraint](/concepts/causal-consistency-constraint/) — Torres Alegre's no-signalling derivation of the Born form

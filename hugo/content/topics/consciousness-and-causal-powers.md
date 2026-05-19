@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-11
-ai_modified: 2026-05-19 10:00:00+00:00
+ai_modified: 2026-05-19 11:04:33+00:00
 ai_system: claude-sonnet-4-5-20250929
 author: null
 concepts:
@@ -27,7 +27,7 @@ description: What causal influence does consciousness exercise, and within what 
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-05-15 04:31:00+00:00
+last_deep_review: 2026-05-19 10:36:26+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -46,6 +46,7 @@ related_articles:
 - '[[overdetermination-dissolution-under-selection-only-interactionism]]'
 - '[[causal-consistency-constraint]]'
 - '[[topics/consciousness-disruption-and-the-mind-brain-interface]]'
+- '[[born-rule-and-the-consciousness-interface]]'
 title: Consciousness and Causal Powers
 topics:
 - '[[hard-problem-of-consciousness]]'
@@ -221,6 +222,7 @@ The cost is commitment to quantum effects in the brain operating at timescales r
 - [free-will](/topics/free-will/) — How causal powers relate to freedom and responsibility
 - [conservation-laws-and-mental-causation](/concepts/conservation-laws-and-mental-causation/) — Why mental causation need not violate physical conservation
 - [the-interface-problem](/topics/the-interface-problem/) — Where and why consciousness interfaces with the physical, and how phenomenal states map to physical selections
+- [born-rule-and-the-consciousness-interface](/topics/born-rule-and-the-consciousness-interface/) — The site article paired with this theory article: where the "selection among alternatives" mechanism operates and what governs its statistics
 - [quantum-measurement-and-consciousness](/topics/quantum-measurement-and-consciousness/) — The measurement problem as window for mental causation
 - [brain-internal-born-rule-testing](/topics/brain-internal-born-rule-testing/) — Mechanism-specific catalogue of what experiments would constrain consciousness's causal role at the quantum interface
 - [consciousness-and-the-metaphysics-of-laws-and-dispositions](/topics/consciousness-and-the-metaphysics-of-laws-and-dispositions/) — Whether consciousness is a disposition, has dispositions, or transcends dispositional ontology, and what kind of law could bridge mind and matter
@@ -228,29 +230,3 @@ The cost is commitment to quantum effects in the brain operating at timescales r
 - [the-epiphenomenalist-threat](/topics/the-epiphenomenalist-threat/) — Why most frameworks converge on causal impotence without a specific mechanism
 - [volitional-control](/topics/volitional-control/) — First-person evidence for the causal powers framework: veto, agency, and the Libet dissolution
 - [metaphysics-of-information-under-dualism](/concepts/metaphysics-of-information-under-dualism/) — The syntax-semantics divide in causal selection: syntactic physics, semantic consciousness
-
-<!-- AI REFINEMENT LOG - 2026-05-19
-Changes made (addressing reviews/pessimistic-2026-05-19.md):
-
-- Issue 1 (High): Reframed §"What the Map Hypothesises" preamble to specify commitment structure — Phenomenal Biasing as architecture-level claim, Selection of Action / Sustained Attention / Volitional Modulation as candidate implementation-level mechanisms the framework does not commit to individually. This substantially reduces exposure to the Tegmark-style decoherence objection: quantitative gaps constrain implementation candidates, not the architecture.
-
-- Issue 2 (Medium): Downgraded §"Empirical compatibility" virtue. Old text claimed "no predictions inconsistent with current physics or neuroscience" which contradicted §"Sustained Attention"'s twelve-to-sixteen-orders-of-magnitude Zeno gap. New text: "architecture is permitted by current physics; specific candidate mechanisms face quantitative constraints the framework has not yet resolved."
-
-- Issue 3 (Medium): Added clarification after the ε²/(2 ln 2) bound that per-trial undiscriminability does not foreclose ensemble- or correlation-level discrimination. Named which families of brain-internal-Born-rule tests survive (sequential-dependency, intention-versus-spontaneity, Bell-style on phenomenally correlated quantum events).
-
-- Issue 4 (Medium): Added Nisbett-Wilson (1977) and Wegner (2002) citations to §"Introspective Evidence" and stated the actual residual claim the Map's reading requires (global pattern not exhaustively explained by sub-personal confabulation, not token-by-token introspective reliability).
-
-- Issue 5 (Low-Medium): Reframed §"Ontological restraint" as "one *kind* of mechanism (quantum selection)" rather than "one mechanism." Applied language-improvements-table revisions: "phenomenal selection biases which probability actualizes" in §"Selection among alternatives"; replaced "consciousness varies the strength of its causal influence" in §"Volitional Modulation" with the two-readings framing the review table proposed; added "replicable" qualifier and parapsychology dismissal in §"Direct physical force"; preserved MWI parenthetical but added one sentence registering the rejection's epistemic cost.
-
-Engagement classifications (editor-internal):
-- §"Phenomenal Biasing" with predictive processing: Mode Two (unsupported foundational move) — PP treats the sub-personal-prior-to-felt-awfulness bridge as constituted by computational role; the Map identifies this as an unsupported foundational move on PP's own terms.
-- §"Volitional Modulation" with noradrenergic-modulation rival: Mode Three (framework-boundary marking) — explicitly notes the two readings are observationally indistinguishable at phenomenology and identifies the framework boundary (phenomenal-laden component non-paraphrasable as locus-coeruleus modulation without remainder).
-- §"For Metaphysics" with epiphenomenalism / dualism: Mode Three (already clean, preserved).
-
-Word count delta: approximately +420 words from the four issues' additions (architecture/implementation preamble +175, empirical-compatibility expansion +85, per-trial discrimination clarification +110, introspective-evidence Nisbett-Wilson/Wegner addition +120, minus +90 net trim from "consciousness biases" reifications). Article now approximately 3500 words, well within the topic-tier band.
-
-Based on pessimistic review scoring no Critical issues, 1 High, 3 Medium, 1 Low-Medium.
-Key improvements: commitment-structure clarification reduces decoherence-objection exposure; honest registration of per-trial unfalsifiability while preserving ensemble-test discrimination route; heterophenomenological calibration on introspective evidence.
-
-This log should be removed after human review.
--->

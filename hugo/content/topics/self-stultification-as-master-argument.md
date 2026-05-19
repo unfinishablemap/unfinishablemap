@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-23
-ai_modified: 2026-05-19 13:00:00+00:00
+ai_modified: 2026-05-19 11:04:33+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -204,29 +204,3 @@ The [epiphenomenalist threat](/topics/the-epiphenomenalist-threat/) article show
 1. Reppert, V. (2003). *C.S. Lewis's Dangerous Idea*. InterVarsity Press.
 1. Sarasso, S., et al. (2015). Consciousness and complexity during unresponsiveness induced by propofol, xenon, and ketamine. *Current Biology*, 25(23), 3099-3105.
 1. Sellars, W. (1956). "Empiricism and the Philosophy of Mind." *Minnesota Studies in the Philosophy of Science*, vol. 1.
-
-<!-- AI REFINEMENT LOG - 2026-05-19 (memory-hierarchy reciprocal cross-link)
-Changes made:
-- Added one-sentence cross-link in §Epiphenomenalism ketamine paragraph, noting that the ketamine dissociation is one row of the cross-state pattern in the memory-system vulnerability hierarchies article — autonoetic preserved but content-decoupled from access channels — so the worked exhibit is one instance of the wider channel-hierarchy convergence rather than an isolated pharmacological case.
-- Added [memory-system-vulnerability-hierarchies-as-interface-evidence](/topics/memory-system-vulnerability-hierarchies-as-interface-evidence/) to related_articles.
-- Added Further Reading entry pointing to the cross-state channel hierarchy.
-- Bumped ai_modified to 2026-05-19T13:00:00+00:00.
-
-Task: refine-draft from optimistic-2026-05-19.md Cross-Linking Suggestions table — install row (e). Reciprocal half installed in memory-system-vulnerability-hierarchies-as-interface-evidence.md.
-
-This is a cluster-integration link, not a tier-upgrade. The master-argument framing and its limits-section calibration are preserved verbatim.
-
-This log should be removed after human review.
--->
-
-<!-- AI REFINEMENT LOG - 2026-05-18
-Changes made:
-- Added a paragraph in §Epiphenomenalism (following the phenomenal-intentionality paragraph) citing the ketamine + self-stultification engagement from anaesthesia-and-the-consciousness-interface line 74 as the catalogue's strongest clinical worked exhibit of the master argument applied to a specific pharmacological context. The paragraph names Sarasso et al. 2015 for the dissociation, and frames the pharmacological case as sharpening the general argument because the dissociation is mechanistically isolable, time-bounded, and ketamine-specific rather than diffusely cross-cutting waking life.
-- Preserved all four self-stultification target sections (epiphenomenalism, physicalism, eliminativism, global skepticism) and their existing calibration. The clinical-pharmacological worked exhibit is added as a *case* within the epiphenomenalism section rather than as a new section.
-- Added Sarasso 2015 to references; added anaesthesia-and-the-consciousness-interface to related_articles.
-
-Task: refine-draft from optimistic-2026-05-17.md Medium Priority cross-link installation (d).
-Key improvements: ketamine + self-stultification engagement now reciprocally cited from the master-argument page; pharmacological worked exhibit of the master argument anchored at the right tier.
-
-This log should be removed after human review.
--->

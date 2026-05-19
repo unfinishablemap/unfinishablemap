@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-09
-ai_modified: 2026-04-29 15:31:00+00:00
+ai_modified: 2026-05-19 08:40:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -15,6 +15,7 @@ concepts:
 - '[[illusionism]]'
 - '[[parfit-reductionism]]'
 - '[[witness-consciousness]]'
+- '[[mine-ness]]'
 created: 2026-02-09
 date: &id001 2026-02-09
 description: Why does experience belong to anyone? The ownership problem asks what
@@ -58,6 +59,8 @@ Three features make the ownership problem distinctive:
 **It is not the unity problem.** [Phenomenal unity](/concepts/unity-of-consciousness/) explains that experience comes as a whole. But unity and ownership are separable. A unified field of experience still needs a subject for whom it is unified. Unity describes the structure of experience; ownership names its possession.
 
 **It is not the self problem.** The [minimal self](/concepts/self-and-self-consciousness/)—the "for-me-ness" of experience—describes the phenomenological character of ownership. But describing ownership is not the same as explaining it. Saying experience has a for-me quality restates the fact that experience is owned. The ownership problem asks *why* it has this quality.
+
+**It is not the agency problem.** Shaun Gallagher (2000, 2012) distinguishes two phenomenal features the ordinary use of "ownership" conflates. The [mine-ness layer](/concepts/mine-ness/) is the felt for-me character by which experience presents as belonging to a subject. The agency layer is the felt initiation by which a thought or action presents as authored by that subject. They dissociate clinically in both directions: schizophrenic thought insertion preserves mine-ness while disrupting agency (the thought occurs in *my* mind but feels produced by someone else); depersonalisation can disrupt mine-ness while leaving agency intact. The ownership problem this article addresses targets the mine-ness layer—why experience belongs to anyone at all—not the agency layer, which is the further question of why some experiences feel authored. The two questions need parallel treatment but they are not the same question.
 
 ## Why Physicalism Struggles
 
@@ -131,6 +134,7 @@ The ownership problem supports and is illuminated by the Map's foundational comm
 
 ## Further Reading
 
+- [mine-ness](/concepts/mine-ness/) — The for-me phenomenal feature distinguished from agency; the layer at which the ownership problem operates
 - [the-self-minimal-narrative-and-substantial](/topics/the-self-minimal-narrative-and-substantial/) — Three conceptions of selfhood and their relation to ownership
 - [self-and-self-consciousness](/concepts/self-and-self-consciousness/) — The minimal self as the form ownership takes
 - [haecceity](/concepts/haecceity/) — Primitive thisness and why ownership cannot be replicated

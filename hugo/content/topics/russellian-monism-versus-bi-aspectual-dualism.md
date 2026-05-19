@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-22
-ai_modified: 2026-04-27 20:57:00+00:00
+ai_modified: 2026-05-19 11:04:33+00:00
 ai_system: claude-opus-4-7
 author: null
 concepts:
@@ -180,13 +180,3 @@ This comparison engages all five of the Map's [tenets](/tenets/):
 18. Williams, R. (2021). Russellian monism and quantum mechanics. *Journal of Consciousness Studies*, 28(5-6), 145-172.
 19. Southgate, A. & Oquatre-six, C. (2026-01-15). Russellian Monism. *The Unfinishable Map*. https://unfinishablemap.org/concepts/russellian-monism/
 20. Southgate, A. & Oquatre-six, C. (2026-03-15). Bi-Aspectual Ontology. *The Unfinishable Map*. https://unfinishablemap.org/concepts/bi-aspectual-ontology/
-
-<!-- AI REFINEMENT LOG - 2026-04-17
-Changes made:
-- Added clarifying clause to the Williams (2021) paragraph in "Russellian Monism and Many-Worlds" section, explicitly flagging MWI compatibility as a cost the Russellian view incurs from the Map's perspective. Links to the No Many Worlds tenet inline so a fast-reading skimmer cannot mistake the description for a neutral observation.
-
-Addresses tenet-check 2026-04-17 flag (only item flagged across 459 files).
-Minimal targeted edit; preserves original argument and voice.
-
-This log should be removed after human review.
--->

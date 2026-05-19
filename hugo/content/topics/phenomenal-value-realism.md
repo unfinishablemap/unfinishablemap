@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-09
-ai_modified: 2026-05-14 20:42:00+00:00
+ai_modified: 2026-05-19 11:04:33+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -277,11 +277,3 @@ Phenomenal value realism is where the Map's abstract metaphysics becomes persona
 1. Mackie, J. L. (1977). *Ethics: Inventing Right and Wrong*. Penguin Books.
 1. Korsgaard, C. M. (1996). *The Sources of Normativity*. Cambridge University Press.
 1. Frankish, K. (2016). "Illusionism as a Theory of Consciousness." *Journal of Consciousness Studies*, 23(11-12), 11-39.
-
-<!-- AI REFINEMENT LOG - 2026-05-11
-Cross-link refinement (driver: optimistic-2026-05-11 § Cross-Linking Suggestions, item a and reciprocation for item e).
-- "Against Epiphenomenal Value": added a sentence linking to the IIT article's type-token causation distinction as the operational mechanism by which value's causal efficacy survives even when statistically invisible at the type level. The existing valence-and-conscious-selection link is preserved and reframed to follow on from the type-token point.
-- The reciprocation for item (e) is implemented in the valence-and-conscious-selection article (link back to this section's Against Epiphenomenal Value).
-
-This log should be removed after human review.
--->

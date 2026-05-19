@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-25
-ai_modified: 2026-05-15 10:52:00+00:00
+ai_modified: 2026-05-19 08:40:00+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -24,6 +24,7 @@ concepts:
 - '[[haecceity]]'
 - '[[epistemic-emotions]]'
 - '[[agent-causation]]'
+- '[[mine-ness]]'
 created: 2026-01-14
 date: &id001 2026-04-30
 description: Consciousness cannot fully know itself—six thinkers from divergent frameworks,
@@ -109,7 +110,7 @@ Despite structural opacity, we *feel* transparent to ourselves. This connects to
 
 ## The Special Case of Volition
 
-Volitional opacity sits at the intersection of introspective opacity and the [causal interface void](/voids/causal-interface/). We cannot observe the processes of willing, nor how (or whether) willing causes action.
+Volitional opacity sits at the intersection of introspective opacity and the [causal interface void](/voids/causal-interface/). We cannot observe the processes of willing, nor how (or whether) willing causes action. The opacity targeted here is at the *agency* layer—how an action becomes mine to initiate. The parallel opacity at the [mine-ness layer](/concepts/mine-ness/)—how an experience becomes mine to *have*, before any question of initiation arises—is treated in the [ownership-void](/voids/ownership-void/) and dissociates from agency opacity in both directions: schizophrenic thought insertion strips agency while leaving mine-ness intact, depersonalisation can do the reverse. Volitional opacity is therefore a sub-case of self-opacity rather than its central instance; the architecture has at least two structurally distinct opacities, each visible only through its pathological absence.
 
 Libet's experiments revealed a "readiness potential" beginning ~550 ms before voluntary action; conscious awareness appears only ~200 ms before. Soon et al. (2008) extended this: brain activity predicted decisions up to seven seconds before awareness (~60% accuracy). Wegner showed that the experience of willing arises from interpreting thoughts as causes of actions based on priority, consistency, and exclusivity—constructed from cues, not observed directly.
 
@@ -168,6 +169,7 @@ After millennia of contemplative practice and centuries of philosophical inquiry
 - [The Narrative Void](/voids/narrative-void/) — Self-stories consciousness cannot audit
 - [The Causal Interface Void](/voids/causal-interface/) — How consciousness interfaces with the physical
 - [The Boundary and Projection Void](/voids/boundary-and-projection/) — Why consciousness cannot locate its own perimeter
+- [mine-ness](/concepts/mine-ness/) — The for-me phenomenal feature distinguished from agency; the layer at which the ownership void operates
 - [Witness Consciousness](/concepts/witness-consciousness/) — The observer mode in contemplative traditions
 - [The Witnessing Void](/voids/witnessing-void/) — The first-order structural impossibility at the centre of witnessing, distinct from self-opacity's unobservable-owner framing
 - [The Constitutive Exclusion](/topics/constitutive-exclusion/) — The broader structural limit

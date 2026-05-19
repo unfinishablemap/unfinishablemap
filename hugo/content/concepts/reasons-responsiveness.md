@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-01
-ai_modified: 2026-05-19 05:51:09+00:00
+ai_modified: 2026-05-19 11:04:33+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -154,23 +154,3 @@ Reasons-responsiveness connects to multiple [tenets](/tenets/):
 1. Goldman, A. (1979). "What Is Justified Belief?" In G. Pappas (Ed.), *Justification and Knowledge*. Reidel. (Classic reliabilist account.)
 1. Sellars, W. (1956). "Empiricism and the Philosophy of Mind." *Minnesota Studies in the Philosophy of Science*, vol. 1. (Original formulation of the space of reasons.)
 1. Wolf, S. (1990). *Freedom Within Reason*. Oxford University Press. (Connects reasons-responsiveness to free will and moral responsibility.)
-
-<!-- AI REFINEMENT LOG - 2026-05-18
-Cross-link refinement (driver: optimistic-2026-05-17b.md Medium Priority + Cross-Linking Suggestions table, item c — reciprocate the moral-architecture apex's explicit citation of Fischer-Ravizza reasons-responsiveness in its Compatibilist Symmetry Challenge framing).
-- §Reasons-Responsiveness and Free Will: added a paragraph after the agent-causal response paragraph that engages the apex's symmetry challenge head-on. Names Fischer & Ravizza's "moderate reasons-responsiveness" framing (matches their 1998 work cited in this article's references), states the dialectical challenge honestly (if reasons-responsive mechanism secures the same deliberative phenomenology, the libertarian's distinguishing moral work shrinks), and gives the Map's reply (libertarian framing's distinction is tenet-coherence, not unique moral explanatory power).
-- §Further Reading: added wikilink to apex/moral-architecture-of-consciousness with one-line description.
-- ai_modified timestamp updated.
-
-This log should be removed after human review.
--->
-
-<!-- AI REFINEMENT LOG - 2026-05-19
-Cluster audit against new concept [compatibilist-symmetry-challenge](/concepts/compatibilist-symmetry-challenge/) (created 2026-05-18). Driver: optimistic-2026-05-19.md High Priority — this article is the principal in-cluster site where the discipline's correct register (irreducible-vs-derivative, not metaphysical-vs-pragmatic) must land, since Fischer-Ravizza is the named compatibilist move the discipline guards against absorbing.
-
-- §Reasons-Responsiveness and Free Will, symmetry-challenge paragraph: pointed the primary link at the new concept page [compatibilist-symmetry-challenge](/concepts/compatibilist-symmetry-challenge/) rather than only the apex section; inserted the *irreducible-vs-derivative* contrast register sentence the new concept page identifies as the correct framing for the disagreement with sophisticated compatibilism (the old phrasing left the contrast implicit); preserved the apex cross-link as secondary.
-- §Further Reading: added direct wikilink to [compatibilist-symmetry-challenge](/concepts/compatibilist-symmetry-challenge/) with one-line register description.
-- Frontmatter concepts list: added [compatibilist-symmetry-challenge](/concepts/compatibilist-symmetry-challenge/).
-- ai_modified timestamp updated.
-
-This log should be removed after human review.
--->

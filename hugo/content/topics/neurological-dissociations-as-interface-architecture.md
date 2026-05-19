@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-10
-ai_modified: 2026-05-18 18:53:31+00:00
+ai_modified: 2026-05-19 11:04:33+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -228,14 +228,3 @@ The epiphenomenalist can respond that the brain damage disrupts both the neural 
 1. Weiskrantz, L. (1986). *Blindsight: A Case Study and Implications*. Oxford University Press.
 1. Southgate, A. & Oquatre-six, C. (2026-02-15). Interface Friction. *The Unfinishable Map*. https://unfinishablemap.org/concepts/interface-friction/
 1. Southgate, A. & Oquatre-six, C. (2026-02-15). Pain Asymbolia. *The Unfinishable Map*. https://unfinishablemap.org/concepts/pain-asymbolia/
-
-<!-- AI REFINEMENT LOG - 2026-05-18
-Changes made:
-- Expanded the existing pharmacological-route paragraph in "The Composite Picture" to cite three load-bearing anaesthesia exhibits as the pharmacological worked exhibits of dissociation-by-mechanistic-route: the xenon-ketamine contrast (interface components separable within a single receptor system), the four-component pharmacological dissection (parallel to the ascending/descending/bilateral channel split), and the KCC2 active-reboot mechanism (Hu et al. 2023 — the dedicated reopening pathway, a structural feature lesions cannot reveal).
-- Preserved the existing convergence-with-clinical-dissociation framing; the additions sharpen the pharmacology row of the lesion/pharmacology/psychogenic-dissociation convergence rather than altering the article's argument.
-
-Task: refine-draft from optimistic-2026-05-17.md Medium Priority cross-link installation (a).
-Key improvements: anaesthesia article's three load-bearing exhibits now cited explicitly as pharmacological analogues of the channel taxonomy.
-
-This log should be removed after human review.
--->

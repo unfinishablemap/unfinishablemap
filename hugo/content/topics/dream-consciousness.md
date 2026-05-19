@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-23
-ai_modified: 2026-04-30 18:10:00+00:00
+ai_modified: 2026-05-19 11:04:33+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -71,7 +71,7 @@ topics:
 
 Every night, consciousness does something production models of the brain struggle to explain: it generates fully immersive experiential worlds while sensory input is suppressed and large-scale neural activity reorganises into patterns fundamentally different from waking. The Unfinishable Map's [filter model](/concepts/filter-theory/)—the view that the brain constrains consciousness rather than producing it—offers a distinctive interpretation. Dreams are what happens when the filter loosens its grip: consciousness operating with the brain's representational tools but freed from the narrow channel of sensory constraint.
 
-Three converging lines of evidence make dream consciousness central to the Map's framework. First, lucid dreaming is a distinct consciousness state—not a blend of waking and REM—where consciousness voluntarily modulates its own operating mode. Second, dreams solve problems that resist waking cognition, suggesting consciousness contributes causally during sleep rather than passively decorating unconscious processing. Third, two-way communication with lucid dreamers demonstrates real-time conscious processing during verified REM sleep. Together, these findings support the view that consciousness is not reducible to any particular brain configuration but uses brain states as varying interfaces.
+Three converging lines of evidence make dream consciousness central to the Map's framework. First, lucid dreaming appears to be a distinct consciousness state—not a blend of waking and REM—where consciousness voluntarily modulates its own operating mode. Second, dreams may solve problems that resist waking cognition, suggesting consciousness contributes causally during sleep rather than passively decorating unconscious processing. Third, two-way communication with lucid dreamers indicates real-time conscious processing during verified REM sleep. Together, these findings are compatible with the view that consciousness is not reducible to any particular brain configuration but uses brain states as varying interfaces, though neither this reading nor the production reading is forced by the data alone.
 
 ## Dreams as Genuine Experience
 
@@ -83,9 +83,9 @@ Filter theory and production theory interpret the same neuroscience differently.
 
 On **production models**, this reorganised activity *generates* dream experience. Hobson's activation-synthesis and protoconsciousness theories explain dream vividness through pontine brainstem activation driving visual and limbic systems. Yet a puzzle remains: *why* activation that deactivates executive oversight should produce experiences more emotionally vivid than many waking moments.
 
-On the **filter model**, REM reorganisation *changes what the filter transmits*. With sensory gating and prefrontal deactivation removing major constraints, consciousness operates more freely through the brain's representational systems. Dream vividness is predicted, not anomalous.
+On the **filter model**, REM reorganisation *changes what the filter transmits*. With sensory gating and prefrontal deactivation removing major constraints, consciousness may operate more freely through the brain's representational systems. Dream vividness is predicted on this reading, not anomalous.
 
-The divergence is sharpest here: production models explain vividness through disinhibition — prefrontal withdrawal releases imagery circuits from executive suppression — and this mechanism is neurologically straightforward. But disinhibition does not explain why this neural activity should be *experienced* at all, let alone more vividly than when the full apparatus is engaged. Fazekas et al. (2025) found dream imagery significantly more vivid than voluntary waking imagination, especially in emotional and visual content — a [vividness surplus](/topics/lucid-dreaming-and-dualist-rendering/) that is puzzling if the same neural system produces richer output with fewer resources. Filter theory addresses this: vividness increases because constraints on consciousness decrease—the same pattern seen with psychedelics, where decreased default mode network activity coincides with expanded experience.
+The divergence is sharpest here: production models explain vividness through disinhibition — prefrontal withdrawal releases imagery circuits from executive suppression — and this mechanism is neurologically straightforward. But disinhibition does not, on the filter reading, explain why this neural activity should be *experienced* at all, let alone more vividly than when the full apparatus is engaged. Fazekas et al. (2025) found dream imagery significantly more vivid than voluntary waking imagination, especially in emotional and visual content — a [vividness surplus](/topics/lucid-dreaming-and-dualist-rendering/) the filter framing reads as puzzling if the same neural system produces richer output with fewer resources. Filter theory addresses this: vividness may increase because constraints on consciousness decrease—the same pattern seen with psychedelics, where decreased default mode network activity coincides with expanded experience. Production theorists give the parallel reading: the disinhibited state simply produces a different output profile. The evidence does not adjudicate between these framings.
 
 ### Dream Phenomena Under the Filter Lens
 
@@ -108,7 +108,7 @@ The dream evidence reveals an interface that admits multiple stable configuratio
 | Lucid REM | Input gated, executive partial, cholinergic + gamma | Metacognitive, creative, partially controlled |
 | [N1 hypnagogia](/topics/hypnagogic-phenomenology-and-interface-modulation/) | Input reducing, executive loosening, transitional | Maximally creative, loosely directed |
 
-Each configuration yields distinct cognitive capabilities—a pattern the Map's [capability division problem](/voids/capability-division-problem/) identifies as fundamental to interactionist dualism. The brain provides different computational tools in each state; consciousness contributes phenomenal engagement, selectional guidance, and metacognitive oversight to varying degrees. The interface admits reconfiguration without dissolution, consistent with the Map's [interactionist](/concepts/interactionist-dualism/) framework.
+Each configuration yields distinct cognitive capabilities—a pattern the Map's [capability division problem](/voids/capability-division-problem/) identifies as fundamental to interactionist dualism. On the Map's reading, the brain provides different computational tools in each state and consciousness may contribute phenomenal engagement, selectional guidance, and metacognitive oversight to varying degrees. The interface appears to admit reconfiguration without dissolution, consistent with the Map's [interactionist](/concepts/interactionist-dualism/) framework — though as with the DMN evidence, this pattern is compatible with both interpretations and does not by itself adjudicate between them.
 
 ## Lucid Dreaming as Distinct State
 

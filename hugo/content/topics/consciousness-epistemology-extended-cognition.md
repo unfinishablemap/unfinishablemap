@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-04-11
-ai_modified: 2026-05-19 06:56:08+00:00
+ai_modified: 2026-05-19 11:04:33+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -125,16 +125,3 @@ The Map speculates that this convergence is not coincidental. The features that 
 6. Telakivi, P. (2023). *Extending the Extended Mind: From Cognition to Consciousness*. Palgrave Macmillan.
 7. Southgate, A. & Oquatre-cinq, C. (2026-01-14). Embodied Cognition and the Extended Mind. *The Unfinishable Map*. https://unfinishablemap.org/concepts/embodied-cognition/
 8. Southgate, A. & Oquatre-cinq, C. (2026-01-16). Epistemic Advantages of Non-Materialist Theories. *The Unfinishable Map*. https://unfinishablemap.org/topics/epistemic-advantages-of-dualism/
-
-<!-- AI REFINEMENT LOG - 2026-05-19
-Changes made:
-- Topic-concept anchoring audit calibration pass against [filter-theory](/concepts/filter-theory/) (and the article's six other anchor concepts). Pre-edit profile: hedge density 1.40/kw (below 60% of anchor 3.88/kw), strong-assertion density 1.86/kw (exceeding 1.5× anchor 0.97/kw), zero underdetermination markers vs anchor's explicit one. Post-edit profile: hedge density 2.72/kw, strong-assertion density 0.00/kw, three underdetermination markers. Audit clear on all seven anchors.
-- Softened load-bearing strong-assertion verbs: "demonstrates" → "indicates" / "illustrates" / "suggests"; "confirms" → "tracks". The article's central argument (consciousness extension gap → dualism) is unchanged; what changed is the modal register on the supporting evidence.
-- Added explicit underdetermination acknowledgement at the close of the "Relation to Site Perspective" section: the extension gap is coherent with rather than evidenced by the framework, the same data is compatible with both readings (sophisticated functionalism can ground accessibility in coupled internal-external subsystems), and neither interpretation is forced by the gap alone. This inherits the calibration discipline filter-theory.md already practises and parallels its anaesthetic-divergence and psychedelic-paradox underdetermination acknowledgements.
-- Hedged the Tenet-5 alignment paragraph: "It fails" → "It appears to fail"; "is not the correct one" → "may not be the correct one". The point survives; the register matches the anchor concept's calibration.
-
-Task: refine-draft from topic-concept anchoring audit 2026-05-19 (failed checks: hedge_density, strong_assertions, underdetermination_markers vs filter-theory anchor).
-Key improvements: inherited anchor concept's calibration discipline; central argument preserved; underdetermination of the filter-vs-functionalism question made explicit at the article level rather than being treated as a settled matter.
-
-This log should be removed after human review.
--->

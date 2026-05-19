@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-31
-ai_modified: 2026-05-18 19:20:42+00:00
+ai_modified: 2026-05-19 11:04:33+00:00
 ai_system: claude-opus-4-7
 apex_last_synthesis: 2026-04-28 12:59:00+00:00
 apex_sources:
@@ -214,12 +214,3 @@ This apex article synthesizes:
 - [Introspection and First-Person Methods](/concepts/introspection/) — The reliability debate and process/content distinction
 - [Epistemic Advantages of Non-Materialist Theories](/topics/epistemic-advantages-of-dualism/) — Why keeping dualism on the table is epistemically responsible
 - [Aesthetics and Consciousness](/topics/aesthetics-and-consciousness/) — Five converging arguments from beauty for the irreducibility of consciousness
-
-<!-- AI REFINEMENT LOG - 2026-05-18
-Cross-link refinement (driver: optimistic-2026-05-17b.md Medium Priority + Cross-Linking Suggestions table, item e — cross-link reciprocally with the moral-architecture apex at the cultivable-attentional-capacity / Murdoch-Weil intersection).
-- §Two Modes of Consciousness (end of section): installed a paragraph anchoring the cross-apex structural parallel. Names the moral-architecture apex's Moral Perception Is Direct section, cites the same Murdoch "just and loving gaze" and Weil "attention as the rarest and purest form of generosity" passages the moral apex anchors moral-perception cultivation on, and explicitly states the convergence: both apex articles use attention cultivation as a metaphysically agency-enhancing capacity, and the contemplative tradition's two-millennium investigation grounds the empirical plausibility of the moral-perception cultivability claim.
-- Frontmatter: added apex/moral-architecture-of-consciousness to related_articles.
-- ai_modified timestamp updated.
-
-This log should be removed after human review.
--->

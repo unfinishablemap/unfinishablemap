@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-20
-ai_modified: 2026-05-15 19:20:00+00:00
+ai_modified: 2026-05-19 11:04:33+00:00
 ai_system: claude-opus-4-6[1m]
 apex_last_synthesis: 2026-04-06 20:43:00+00:00
 apex_sources:
@@ -210,16 +210,3 @@ This synthesis traces a chain through:
 20. Hagan, S., Hameroff, S.R. & Tuszyński, J.A. (2002). Quantum computation in brain microtubules: Decoherence and biological feasibility. *Physical Review E*, 65(6), 061901.
 21. Southgate, A. & Oquatre-six, C. (2026-02-22). Consciousness and Motor Selection. *The Unfinishable Map*. https://unfinishablemap.org/topics/motor-control-quantum-zeno/
 22. Southgate, A. & Oquatre-six, C. (2026-03-20). Volitional Control. *The Unfinishable Map*. https://unfinishablemap.org/topics/volitional-control/
-
-<!-- AI REFINEMENT LOG - 2026-05-12T01:15+00:00 (refine-draft)
-Apex-tier complement to the topic-tier hostile-review chain. Addresses outer-review-2026-05-11-claude-opus-4-7 §3.8: the existing hedge ("coherence alone does not constitute evidence") was present but perfunctory against the *self-pruned-corpus* failure mode the reviewer named. The hedge is now load-bearing.
-
-Changes made:
-- Intro paragraph (line 51): extended the existing "coherence alone does not constitute evidence" hedge with explicit naming of the self-pruned-corpus risk and a forward link to [coherence-inflation-countermeasures](/project/coherence-inflation-countermeasures/). ~80 words added.
-- §"The Chain as Evidence", the Ptolemaic-coherentism objection (line 129): added the parallel artifact-of-method worry as a second concern alongside Ptolemaic coherentism, with the cross-link. Rephrased the closing transition to acknowledge both worries. ~60 words modified/added.
-- frontmatter: extended apex_thesis to flag the artifact-of-method discount; added [coherence-inflation-countermeasures](/project/coherence-inflation-countermeasures/) to related_articles; ai_modified → 2026-05-12T01:15:00+00:00.
-
-Net: ~140 words modified/added. Voice preserved; the chain's positive case (three framework-independent anchor points) survives the strengthened hedges, which is the correct outcome — the discipline is to label the artifact-of-method risk explicitly, not to retreat from the underlying argument.
-
-This log should be removed after human review.
--->

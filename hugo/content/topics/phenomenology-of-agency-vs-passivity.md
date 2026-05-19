@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-09
-ai_modified: 2026-05-08 20:35:00+00:00
+ai_modified: 2026-05-19 08:40:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -20,6 +20,7 @@ concepts:
 - '[[conscious-vs-unconscious-processing]]'
 - '[[illusionism]]'
 - '[[concepts/epiphenomenalism]]'
+- '[[mine-ness]]'
 created: 2026-02-09
 date: &id001 2026-02-09
 description: The felt contrast between doing and undergoing reveals a fundamental
@@ -109,7 +110,7 @@ Under hypnosis, subjects report that their arm rises "by itself." The motor outp
 
 Anarchic hand syndrome (Della Sala et al., 1991) presents a further dissociation: patients recognise a hand as *theirs* (ownership) while denying that its actions are *theirs* (agency). (For how Gallagher's ownership-agency distinction bears on the Libet debate specifically, see [Phenomenology of Volitional Control](/topics/volitional-control/).) The hand reaches for objects, manipulates tools, even interferes with the other hand—all without the patient's sense of authorship. Ownership and agency, normally bundled together, are phenomenologically and neurologically separable.
 
-This matters because it reveals that the sense of agency is not simply body-ownership plus motor output. Something additional—the Map would say: genuine conscious selection—must be present for full agentic phenomenology. The [ownership void](/voids/ownership-void/) explores a deeper puzzle: not just how ownership separates from agency, but why the ownership relation itself—the felt sense that any experience is *mine*—hides its own mechanism from introspection.
+This article's central contrast is the *agency* layer. The parallel feature at the mine-ness layer—the felt for-me character by which an experience presents as belonging to a subject before any question of who initiated it—is treated in [mine-ness](/concepts/mine-ness/) and dissociates from agency in both directions: agency lost with ownership preserved in schizophrenic thought insertion; ownership disrupted with agency intact in depersonalisation. The double dissociation matters here because it shows that the sense of agency is not simply body-ownership plus motor output. Something additional—the Map would say: genuine conscious selection—must be present for full agentic phenomenology. The [ownership void](/voids/ownership-void/) explores a deeper puzzle: not just how ownership separates from agency, but why the ownership relation itself—the felt sense that any experience is *mine*—hides its own mechanism from introspection.
 
 ## What the Contrast Reveals
 
@@ -169,6 +170,7 @@ Each disorder strips away a component normally bundled with agency, suggesting t
 - [motor-selection](/concepts/motor-selection/) — The agency-passivity contrast in movement
 - [authentic-vs-inauthentic-choice](/topics/authentic-vs-inauthentic-choice/) — Phenomenological layers of ownership in choice
 - [volitional opacity](/voids/self-opacity/) — Why the mechanism connecting will to action is invisible
+- [mine-ness](/concepts/mine-ness/) — The for-me phenomenal feature at the layer beneath agency, separable in pathology
 - [The Ownership Void](/voids/ownership-void/) — Why the ownership relation hides from introspection
 - [The Agency Void](/voids/agency-void/) — Why consciousness cannot verify its own causal powers, and cannot fully control its own states
 - [The Interested Party Void](/voids/interested-party-void/) — Motivational corruption in consciousness's self-investigation

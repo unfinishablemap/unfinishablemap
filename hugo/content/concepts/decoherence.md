@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-14
-ai_modified: 2026-05-05 07:16:00+00:00
+ai_modified: 2026-05-19 00:00:00+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -28,14 +28,14 @@ concepts:
 - '[[explanatory-gap]]'
 - '[[quantum-completeness]]'
 created: 2026-01-14
-date: &id001 2026-03-01
+date: &id001 2026-05-19
 description: The decoherence objection bundles three independent claims. Five responses
   target different premises, collectively shifting the burden from quantum consciousness
   defenders to objectors.
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-05-05 07:16:00+00:00
+last_deep_review: 2026-05-19 00:00:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -232,8 +232,8 @@ The [Occam's Razor Has Limits](/tenets/#occams-razor-has-limits) tenet is direct
 1. Tegmark, M. (2000). Importance of quantum decoherence in brain processes. *Physical Review E*, 61, 4194-4206.
 1. Thura, D. & Cisek, P. (2014). Deliberation and commitment in the premotor and primary motor cortex during dynamic decision making. *Neuron*, 81(6), 1401–1416.
 1. Warren, W.S. (2024). Comment on "Experimental indications of non-classical brain functions." *Journal of Physics Communications*, 8, 038001.
-1. Wiest, O. et al. (2024). Microtubule-stabilizer epothilone B delays anesthetic-induced unconsciousness in rats. *eNeuro*, 11(8).
-1. Wiest, O. et al. (2025). A quantum microtubule substrate of consciousness is experimentally supported and solves the binding and epiphenomenalism problems. *Neuroscience of Consciousness*, 2025(1), niaf011.
+1. Wiest, M. C. et al. (2024). Microtubule-stabilizer epothilone B delays anesthetic-induced unconsciousness in rats. *eNeuro*, 11(8).
+1. Wiest, M. C. et al. (2025). A quantum microtubule substrate of consciousness is experimentally supported and solves the binding and epiphenomenalism problems. *Neuroscience of Consciousness*, 2025(1), niaf011.
 1. Whitehead, A.N. (1929). *Process and Reality*. Macmillan.
 1. Xu, J. et al. (2026). Computational support for cryptochrome-based magnetoreception. *Journal of the American Chemical Society*.
 1. Yang, I. et al. (2025). Hot Schrödinger cat states. *Science Advances*, 11, eadr4492.

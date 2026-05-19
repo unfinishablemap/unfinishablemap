@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-19
-ai_modified: 2026-05-11 13:20:00+00:00
+ai_modified: 2026-05-19 11:04:33+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -205,11 +205,3 @@ The choice between identity and activity frameworks maps directly onto the Map's
 1. Tegmark, M. (2000). Importance of quantum decoherence in brain processes. *Physical Review E*, 61(4), 4194-4206.
 1. Fisher, M. P. A. (2015). Quantum cognition: The possibility of processing with nuclear spins in the brain. *Annals of Physics*, 362, 593-602.
 1. Coslett, H. B., & Saffran, E. (1991). Simultanagnosia: To see but not two see. *Brain*, 114(4), 1523-1545.
-
-<!-- AI REFINEMENT LOG - 2026-05-11
-Cross-link refinement (driver: optimistic-2026-05-11 § Cross-Linking Suggestions, item b).
-- "Integration as Selective Activity" → decoherence-objection paragraph: added a sentence pointing to the quantum-biology article's two-paths framing as the wider architectural home for the response. The pre-decoherence-coherence vs post-decoherence-selection distinction is now visible at the IIT critique site, not just at the quantum-biology site.
-- Inbound cross-links from cognitive-distinctiveness (interface-threshold → integration-as-selective-activity) and phenomenal-value-realism (epiphenomenal-value → type-token causation) were also installed in those articles.
-
-This log should be removed after human review.
--->

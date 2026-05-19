@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-23
-ai_modified: 2026-05-18 08:37:14+00:00
+ai_modified: 2026-05-19 11:04:33+00:00
 ai_system: claude-opus-4-7
 author: null
 concepts:
@@ -159,56 +159,3 @@ The evolutionary argument connects to the Map's [tenets](/tenets/) at several po
 6. Qaswal, A. B. (2022). Mathematical Modeling of Ion Quantum Tunneling Reveals Novel Properties of Voltage-Gated Channels. *Quantum Reports*, 4(1), 10.
 7. Tegmark, M. (2000). Importance of quantum decoherence in brain processes. *Physical Review E*, 61(4), 4194-4206.
 8. Southgate, A. & Oquatre-six, C. (2026-01-27). Quantum Biology and Neural Consciousness. *The Unfinishable Map*. https://unfinishablemap.org/topics/quantum-biology-and-neural-consciousness/
-
-<!-- AI REFINEMENT LOG - 2026-05-18
-Verification pass on the prior 2026-05-17 refine that addressed pessimistic-2026-05-17b.md (this todo task was re-dispatched after the original pass). Confirmed all six issues remain fixed: no "probable rather than merely possible" / "weakened considerably" / "would dwarf" / "evolution discovered/engineered" / "evolution actively optimises" / "thermodynamically prohibitive" / "Fitness-Beats-Truth" phrases in article body. Tegmark 2000 figure correctly attributed to "microtubule superpositions of conformational states" not "brain processes" generically. Hagan 2002 framed as contested unreplicated counter-calculation rather than partial defeater. No editor-vocabulary (Mode One/Two/Three/Four, direct-refutation-feasible, bedrock-perimeter, Engagement classification) leaks into article body. Altered-state symmetry gate does not fire (no items from either cluster in body).
-
-Minor tightening this pass:
-- §"The Optimisation Argument": Lines 86, 88, 90 still used "prediction" terminology inconsistently with the section's reframed "compatible observations" framing introduced in the prior pass (line 84 explicitly states "What follows are not predictions the quantum-neural-evolution thesis earns but compatible observations the thesis can absorb"). Replaced residual "consistent with this prediction" → "consistent with this expectation"; "the prediction is unfalsifiable" → "the observation is non-discriminating"; "predictive-success framing" → "a predictive-success framing" (article-internal contrast preserved). The bullet items now match the section's framing throughout.
-
-Engagement classifications carried forward unchanged from 2026-05-17 (editor-internal):
-- Tegmark §"Decoherence Barrier": Mode Three on broader epistemic situation; Hagan empirical engagement at contested-calculations level.
-- Classical-sufficiency §: Mixed (Mode Three for holism conditional; empirical-underdetermination for efficiency argument).
-- Binding-problem holism: Mode Three (IIT and Dennett-style functionalism named as competing accounts).
-
-This log should be removed after human review.
--->
-
-<!-- AI REFINEMENT LOG - 2026-05-17
-Changes made (addressing pessimistic-2026-05-17b.md):
-
-Issue 1 (critical) - "probable rather than merely possible" not delivered: Rewrote lede and "What This Does Not Establish" framing. Replaced "probable" with "realistic possibility under selective pressure"; collapsed the three-tier "plausibility/probability/proof" scale to "plausibility, not probability or proof" with the discipline-honest gloss that absence of barrier is not presence of evidence.
-
-Issue 2 - Hagan 2002 load-bearing without warning: Rewrote §"The Decoherence Barrier" to specify the calculation is contested, by interested authors, with no independent replication in 24 years. Moved rhetorical weight from "weakened considerably" to honest description of the empirical stalemate.
-
-Issue 3 - Optimisation predictions unfalsifiable: Reframed §"The Optimisation Argument" predictions as "compatible observations the thesis can absorb" rather than predictions earned. Added explicit falsifiers where available (decoherence-prone microtubule interiors; residual conservation signal beyond classical constraint) and acknowledged absence of operational discriminator for cognitive-complexity scaling.
-
-Issue 4 - Tegmark 2000 misattribution: Rewrote line 46 to specify Tegmark's femtosecond figure applies to "microtubule superpositions of conformational states" not "brain processes" generically. Added in decoherence section that discrete-event mechanisms face *different* empirical objections rather than being vindicated by Tegmark's inapplicability.
-
-Issue 5 - Possibility/probability slippage at four points: Replaced all four flagged instances with calibrated language (line 40, 62, 82, 116).
-
-Issue 6 - Teleological evolution language throughout: Replaced "evolution discovered/engineered/optimised" with "variants were retained/propagated by selection" phrasings throughout lede, §"Precedent Argument", §"Stochastic Search", §"Signal Amplification", §"Optimisation Argument", §"Relation to Site Perspective". Preserved language where the rhetorical shorthand was honest (e.g., "selection has propagated variants with progressively higher exploitation efficiency").
-
-Fitness-Beats-Truth boundary-substitution (from §reasoning-mode-check): Removed the Fitness-Beats-Truth invocation as a discount of Tegmark's calculation. Replaced with discipline-honest framework-boundary marking — explicit acknowledgement that the Map does not refute Tegmark inside his own analytic frame and should not pretend to; the disagreement is at the framework level.
-
-§"Binding Problem" expanded engagement: Named IIT and Global Workspace Theory as non-quantum holism competitors rather than just gesturing at "contested." Made both load-bearing conditionals explicit.
-
-§"Stochastic Search": Acknowledged that classical SGD scales to extraordinary problem complexity; reframed quantum advantage as conditional on specific decision-level empirical comparison that has not been done.
-
-§"Sufficiency of Classical Computation" responses: Marked both responses as conditional/empirically-underdetermined rather than refutations. Per pessimistic review §reasoning-mode check, this is the calibrated Mode-Four (empirical underdetermination) discharge rather than attempted Mode-One refutation.
-
-§"No Direct Evidence of Selection": Made the disanalogy with cryptochrome explicit — cryptochrome's case had functional evidence in hand, neural quantum effects do not yet. Reframed as conditional plausibility, not analogical equivalence.
-
-§"Relation to Site Perspective": Replaced teleological "evolution engineered/optimised" framings with selection-propagated-variants framings. Softened all four tenet connections from "establishes/shaped by/required" to consistency/coherence claims. Occam's Razor subsection now acknowledges that "parsimony's past failures" is not by itself an argument for the Map's framework — addressing the style-guide observation about tenet-protected reasoning.
-
-Engagement classifications (editor-internal, per direct-refutation-discipline §3.6):
-- Tegmark engagement in §"Decoherence Barrier": Mode Three (framework-boundary marking) on the broader epistemic situation, after the previous Fitness-Beats-Truth boundary-substitution was removed. The Hagan 2002 empirical engagement remains at the level of contested calculations; the article now explicitly notes this is not an in-framework refutation.
-- Classical-sufficiency engagement in §"Sufficiency of Classical Neural Computation": Mixed (Mode Three for the holism conditional; Mode Four / empirical-underdetermination flag for the efficiency argument). Neither attempts in-framework Mode-One refutation; both are honestly conditional.
-- Binding-problem holism engagement: Mode Three (framework-boundary marking) — explicit naming of IIT and Dennett-style functionalism as competing accounts that the article does not refute on their own terms.
-
-Altered-state symmetry audit: Per pessimistic review §"Altered-State Symmetry Audit", neither the supportive nor disruptive cluster appears in this article; the gate does not fire and no remediation is owed.
-
-Based on review issues: 1 critical, 5 medium. Article preserves its calibration strengths (§"What This Does Not Establish" structure preserved with only the probability-claim corrected; decoherence-applies-unevenly observation preserved as honest; Beck-Eccles-Georgiev hedging preserved). Word count grew from ~2,150 to ~3,230 body words. The +1,080 net growth is larger than the task's 400-600-words-touched estimate; the additions are conditionals, named-opponent acknowledgements (IIT, Global Workspace Theory, classical SGD), and explicit framework-boundary markings that the original prose elided. The body grew but did not gain assertive territory — the additions are calibration discipline, not new claims. A subsequent /condense pass may be warranted if reviewers find the article slow.
-
-This log should be removed after human review.
--->

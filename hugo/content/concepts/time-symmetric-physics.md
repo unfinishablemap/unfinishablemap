@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-01
-ai_modified: 2026-05-15 07:11:00+00:00
-ai_system: claude-opus-4-6
+ai_modified: 2026-05-19 00:00:00+00:00
+ai_system: claude-opus-4-7
 author: null
 concepts:
 - '[[retrocausality]]'
@@ -13,6 +13,7 @@ concepts:
 - '[[decoherence]]'
 - '[[atemporal-causation]]'
 - '[[weak-measurement-and-post-selection]]'
+- '[[post-decoherence-selection]]'
 created: 2026-02-01
 date: &id001 2026-02-02
 description: Fundamental physics equations work equally well forward and backward
@@ -21,11 +22,12 @@ description: Fundamental physics equations work equally well forward and backwar
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-05-15 07:11:00+00:00
+last_deep_review: 2026-05-19 00:00:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
 - '[[time-symmetric-selection-mechanism]]'
+- '[[forward-in-time-conscious-selection]]'
 - '[[time-collapse-and-agency]]'
 - '[[consciousness-and-the-ontology-of-temporal-becoming]]'
 - '[[causal-consistency-constraint]]'
@@ -126,6 +128,8 @@ Price's argument doesn't require accepting retrocausality in all contexts. It es
 
 Time-symmetric physics dissolves this objection. If future boundary conditions constrain past states, consciousness needn't temporally precede neural activity to causally influence it. The selection of which outcome becomes actual can operate atemporally—determining which correlations hold across the entire temporal sequence, including the "preparatory" neural activity.
 
+This time-symmetric route is not the only available response. The Map also develops a [forward-in-time conscious selection](/topics/forward-in-time-conscious-selection/) family of mechanisms that addresses the Libet timing problem without retrocausality—relocating the conscious role to post-decoherence selection, where decoherence has already produced a menu of classically distinguishable outcomes that consciousness selects among forward in time. The forward and time-symmetric routes are genuine alternatives within the Map's interactionist commitments rather than rivals: each carries different mechanistic costs (see [mechanism-costs-cartography](/project/mechanism-costs-cartography/) and [the post-decoherence selection programme](/apex/post-decoherence-selection-programme/)).
+
 ### The Quantum Zeno Interface
 
 Henry Stapp's [quantum Zeno mechanism](/concepts/quantum-consciousness/) proposes that mental attention acts as rapid observation, holding neural patterns through the Zeno effect. Time-symmetric physics integrates naturally: each observation event participates in transactions; the pattern of observations determines which histories become actual; the "when" of each observation is less fundamental than the constraint-satisfaction structure across time.
@@ -182,6 +186,8 @@ Time-symmetric physics connects to the Map's [tenets](/tenets/) in several ways:
 - [presentiment-and-retrocausality](/topics/presentiment-and-retrocausality/) — Distinguishing physics-based retrocausality from contested parapsychological claims
 - [collapse-and-time](/concepts/collapse-and-time/) — How collapse introduces temporal asymmetry
 - [time-symmetric-selection-mechanism](/topics/time-symmetric-selection-mechanism/) — Consciousness selecting through atemporal constraint-satisfaction
+- [forward-in-time-conscious-selection](/topics/forward-in-time-conscious-selection/) — The non-retrocausal alternative the Map develops alongside time-symmetric selection
+- [post-decoherence-selection](/concepts/post-decoherence-selection/) — Where the forward-in-time route locates the conscious-physical interface
 - [quantum-interpretations](/concepts/quantum-interpretations/) — Survey including transactional and TSVF frameworks
 - [measurement-problem](/concepts/measurement-problem/) — Why collapse remains unexplained
 - [consciousness-and-the-ontology-of-temporal-becoming](/topics/consciousness-and-the-ontology-of-temporal-becoming/) — How temporal ontology constrains consciousness theory, including the growing block

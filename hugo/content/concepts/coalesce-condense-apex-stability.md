@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-04-29
-ai_modified: 2026-05-16 23:51:00+00:00
+ai_modified: 2026-05-19 11:04:33+00:00
 ai_system: claude-opus-4-7
 author: null
 concepts:
@@ -143,37 +143,3 @@ The triple-discipline is documented through the catalogue's changelog and review
 3. *The Unfinishable Map* optimistic-review, 2026-04-29: the review that first named the triple-discipline as a methodology distinct from genesis-side editing. https://unfinishablemap.org/reviews/optimistic-2026-04-29/
 4. *The Unfinishable Map* changelog, 2026-04-30 01:25 UTC through 02:55 UTC: the canonical retention-test worked example—optimistic-review-recommended subsection installed in `zahavian-minimal-self.md` survived a 32% article-level condense intact (3,780 → 2,587 words). The chain closure was named in the 04:17 UTC optimistic-2026-04-30 review at https://unfinishablemap.org/reviews/optimistic-2026-04-30/.
 5. *The Unfinishable Map* changelog, 2026-05-03 06:54 UTC: the canonical cap-saturation worked example—voids/ at 100/100 with sixteen-plus candidate pairs examined and no merger executed. Recorded as commit `5ea6d0c90`; the search path is preserved in the changelog entry, and the agent's recommendation to escalate to tune-system rather than fabricate a merger is the discipline operating correctly under cap-saturation.
-
-<!-- AI REFINEMENT LOG - 2026-04-30
-Changes made:
-- Added new section "The Retention Test: Condense-Survival as Load-Bearing Evidence" between "When Coalesce Triggers Condense" and "When Coalesce Triggers Apex Re-Cross-Review" (~270 words)
-- Worked example: zahavian-minimal-self §"Constitutive as Kind, Not as Degree" — installed 01:25 UTC, survived 32% condense at 02:55 UTC
-- Made the optimistic-review chained-task-generator function (recommendation → refine → condense-survival loop, closed in 4h 38min) explicit
-- Differentiated scope from queued P3 project-doc on condense discipline: this article treats retention-as-evidence as an apex-stability principle; project-doc treats condense as broader editorial operation
-- Added zahavian-minimal-self to related_articles and Further Reading
-- Added retention-test changelog window as a fourth References entry
-- Updated ai_modified to 2026-04-30T06:56:00+00:00
-
-Tenet alignment: Methodological / Tenet 5 (Occam's Razor Has Limits) — the retention test is the catalogue's revealed-preference check on which content the simpler "trim it" reading would silently lose.
-
-Suggested by optimistic-2026-04-30 (Ideas for Later). Existing structure on coalesce/condense/apex-stability rhythms preserved.
-
-This log should be removed after human review.
--->
-
-<!-- AI REFINEMENT LOG - 2026-05-05
-Changes made:
-- Added new section "Cap-Saturation Policy: When Coalesce Yields to Condense" between "When Coalesce Triggers Condense" and "The Retention Test" (~370 words)
-- Five-paragraph structure: (1) saturation condition + policy statement; (2) inverted ordering, no-fabrication discipline; (3) escalation path to tune-system; (4) 2026-05-03 06:54 UTC abandoned-coalesce worked example (voids/ at 100/100, sixteen-plus pairs examined, closest-call rejected on probe-domain divergence); (5) honest limitation — policy assumes terminology hasn't drifted; separate stewardship discipline required
-- Extended "Relation to Site Perspective" Tenet 5 paragraph with one sentence connecting cap-saturation policy to section-cap-layer parsimony (parsimony must be empirically warranted by identified duplication, not aesthetically forced because a slot is open)
-- Added 5th References entry pointing to commit 5ea6d0c90 / 2026-05-03 06:54 UTC changelog window as the cap-saturation worked-example reference
-- Updated ai_modified to 2026-05-05T05:17:00+00:00
-
-Distinct from queued P3 task on condense-discipline-as-retention-test (line 163 in todo.md): that project-doc treats condense in isolation; this section treats the cap-saturation policy governing when to coalesce vs. condense vs. defer to tune-system.
-
-Tenet alignment: Methodological / Tenet 5 (Occam's Razor Has Limits) — the cap-saturation policy operates Razor-Has-Limits one level up at the section-set rather than the article-set: parsimony at the cap layer must be empirically warranted by identified duplication, never forced because a slot is open.
-
-Source: gap_analysis from the 2026-05-03 06:59 UTC abandoned-coalesce attempt. Existing structure preserved.
-
-This log should be removed after human review.
--->
