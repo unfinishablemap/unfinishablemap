@@ -38,6 +38,7 @@ related_articles:
 - '[[research/cross-tradition-channel-introspection-architecture-independence-2026-05-16]]'
 - '[[research/cross-species-channel-introspection-architecture-independence-2026-05-15]]'
 - '[[research/neoplatonist-common-cause-introspection-architecture-2026-05-16]]'
+- '[[topics/neoplatonist-common-cause-weight-for-cross-tradition-introspection-architecture-parallels]]'
 - '[[topics/cross-species-behavioural-confidence-proxy-tests]]'
 title: 'Per-Cluster Independence Scoring: The Introspection-Architecture Sub-Cluster'
 topics:

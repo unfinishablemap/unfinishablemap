@@ -1,21 +1,21 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-05-17
-ai_modified: 2026-05-17 15:30:00+00:00
+ai_modified: 2026-05-19 15:30:00+00:00
 ai_system: claude-opus-4-7
 author: null
 concepts:
 - '[[introspection]]'
 - '[[metacognition]]'
 created: 2026-05-17
-date: &id001 2026-05-17
+date: &id001 2026-05-19
 description: Differentiated audit of Neoplatonist transmission as a common-cause confound
   for the apparent Advaita/Sufi/Stoic convergence on bounded introspective access
   — weak for Stoicism and Advaita, moderate-to-substantial for Sufism.
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-05-17 15:30:00+00:00
+last_deep_review: 2026-05-19 15:30:00+00:00
 modified: *id001
 related_articles:
 - '[[channel-audits-introspection-architecture-independence-scoring]]'

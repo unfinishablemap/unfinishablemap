@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-05-19
-ai_modified: 2026-05-19 09:40:36+00:00
+ai_modified: 2026-05-19 15:00:00+00:00
 ai_system: claude-opus-4-7
 author: null
 concepts:
@@ -23,8 +23,8 @@ related_articles:
 - '[[pharmacological-dissociation-as-evidence]]'
 - '[[anaesthesia-and-the-consciousness-interface]]'
 - '[[discrimination-problem]]'
-- '[[common-cause-null]]'
-- '[[coherence-inflation-countermeasures]]'
+- '[[project/common-cause-null]]'
+- '[[project/coherence-inflation-countermeasures]]'
 title: Cross-Mechanism Convergence as Evidence Pattern
 topics:
 - '[[memory-system-vulnerability-hierarchies-as-interface-evidence]]'

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-23
-ai_modified: 2026-05-19 11:04:33+00:00
+ai_modified: 2026-05-19 20:45:00+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -44,6 +44,7 @@ related_articles:
 - '[[testing-consciousness-collapse]]'
 - '[[consciousness-and-causal-powers]]'
 - '[[anesthesia-void]]'
+- '[[targeted-lesion-discriminating-tests-between-production-and-filter-readings-of-the-memory-hierarchy]]'
 title: Anaesthesia and the Consciousness Interface
 topics:
 - '[[hard-problem-of-consciousness]]'
@@ -160,6 +161,7 @@ Anaesthetic pharmacology connects to each of the Map's [tenets](/tenets/) in con
 - [psychedelics-and-the-filter-model](/topics/psychedelics-and-the-filter-model/) — Decreased filtering yields expanded rather than diminished experience
 - [testing-consciousness-collapse](/topics/testing-consciousness-collapse/) — How pharmacological channel mapping could inform consciousness-collapse experimental design
 - [anesthesia-void](/voids/anesthesia-void/) — The first-person epistemic structure of the anaesthetic interval
+- [targeted-lesion-discriminating-tests-between-production-and-filter-readings-of-the-memory-hierarchy](/topics/targeted-lesion-discriminating-tests-between-production-and-filter-readings-of-the-memory-hierarchy/) — The pharmacological cross-state evidence anaesthesia supplies sits inside the cross-mechanism convergence that motivates the memory-hierarchy discriminating-test design space; the test specifies what a focal perturbation would have to deliver to separate production from filter readings on the architecture anaesthesia's three-states picture instantiates
 - [quantum-biology-and-neural-consciousness](/topics/quantum-biology-and-neural-consciousness/) — Quantum biology, neural evidence, and the consciousness debate
 - [pain-consciousness-and-causal-power](/topics/pain-consciousness-and-causal-power/) — Pain's resistance to reduction and the test case of pain asymbolia
 

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-16
-ai_modified: 2026-05-19 11:04:33+00:00
+ai_modified: 2026-05-19 20:45:00+00:00
 ai_system: claude-opus-4-7
 apex_last_synthesis: 2026-05-12 02:21:00+00:00
 apex_sources:
@@ -63,6 +63,7 @@ related_articles:
 - '[[comparative-consciousness-and-interface-differences]]'
 - '[[anesthesia-void]]'
 - '[[out-of-body-experiences]]'
+- '[[targeted-lesion-discriminating-tests-between-production-and-filter-readings-of-the-memory-hierarchy]]'
 title: Altered States as Systematic Interface Evidence
 topics:
 - '[[hard-problem-of-consciousness]]'
@@ -194,6 +195,7 @@ The systematic evidence from altered states connects to each of the Map's [tenet
 - [clinical-dissociation-as-systematic-evidence](/topics/clinical-dissociation-as-systematic-evidence/) — Dissociative disorders as another window into interface component separation
 - [anesthesia-void](/voids/anesthesia-void/) — The first-person gap under anaesthesia and what third-person probes can and cannot recover
 - [out-of-body-experiences](/topics/out-of-body-experiences/) — Self-model dislocation as another dissociable interface component, with the AWARE programme as the contested empirical frontier for veridical perception
+- [targeted-lesion-discriminating-tests-between-production-and-filter-readings-of-the-memory-hierarchy](/topics/targeted-lesion-discriminating-tests-between-production-and-filter-readings-of-the-memory-hierarchy/) — The discriminating-test design space at the memory-hierarchy tier; specifies what a focal perturbation would have to deliver to separate production from filter readings of the autonoetic-noetic-anoetic ordering the altered-states matrix instantiates at the memory-channel row
 
 ## Source Articles
 

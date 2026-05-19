@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-17
-ai_modified: 2026-04-17 13:11:00+00:00
+ai_modified: 2026-05-19 20:45:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -12,6 +12,7 @@ concepts:
 - '[[altered-states-of-consciousness]]'
 - '[[global-workspace-theory]]'
 - '[[integrated-information-theory]]'
+- '[[disconnection-neuroscience]]'
 created: 2026-03-17
 date: &id001 2026-03-17
 description: Dissociative disorders—DID, depersonalization, conversion, amnesia—selectively
@@ -32,13 +33,14 @@ related_articles:
 - '[[anaesthesia-and-the-consciousness-interface]]'
 - '[[clinical-phenomenology-and-altered-experience]]'
 - '[[voids/anesthesia-void]]'
+- '[[targeted-lesion-discriminating-tests-between-production-and-filter-readings-of-the-memory-hierarchy]]'
 title: Clinical Dissociation as Systematic Evidence
 topics:
 - '[[hard-problem-of-consciousness]]'
 - '[[split-brain-consciousness]]'
 ---
 
-The Unfinishable Map's [neurological dissociation work](/topics/neurological-dissociations-as-interface-architecture/) maps the mind-brain interface by examining what happens when specific neural pathways are destroyed. Clinical dissociation offers something different and arguably more revealing: selective disconnections that arise without structural brain damage. In dissociative identity disorder, depersonalization-derealization disorder, dissociative amnesia, and conversion disorder, the neural substrate remains anatomically intact while specific aspects of experience go offline. Neuroimaging reveals altered functional connectivity in these conditions—but the alterations are selective disconnections between intact processing regions, not degradation of the regions themselves. Modern physicalism (functionalism, global workspace theory, IIT) can accommodate this by treating consciousness as dependent on connectivity patterns rather than raw neural activity. But this concession is itself revealing: it means consciousness tracks a specific *relationship* between processing systems—which is precisely what an interface model describes. Clinical dissociation tests whether that relationship behaves like a higher-order physical property or like a functional bridge between domains.
+The Unfinishable Map's [neurological dissociation work](/topics/neurological-dissociations-as-interface-architecture/) — itself an interface-architecture reading built on the Geschwind [disconnection-syndrome framework](/concepts/disconnection-neuroscience/) — maps the mind-brain interface by examining what happens when specific neural pathways are destroyed. Clinical dissociation offers something different and arguably more revealing: selective disconnections that arise without structural brain damage. In dissociative identity disorder, depersonalization-derealization disorder, dissociative amnesia, and conversion disorder, the neural substrate remains anatomically intact while specific aspects of experience go offline. Neuroimaging reveals altered functional connectivity in these conditions—but the alterations are selective disconnections between intact processing regions, not degradation of the regions themselves. Modern physicalism (functionalism, global workspace theory, IIT) can accommodate this by treating consciousness as dependent on connectivity patterns rather than raw neural activity. But this concession is itself revealing: it means consciousness tracks a specific *relationship* between processing systems—which is precisely what an interface model describes. Clinical dissociation tests whether that relationship behaves like a higher-order physical property or like a functional bridge between domains.
 
 ## The Dissociative Spectrum
 
@@ -133,6 +135,7 @@ Physicalists can explain this through stress-mediated changes in functional conn
 - [pain-asymbolia](/concepts/pain-asymbolia/) — Affective channel dissociation through neurological damage
 - [clinical-phenomenology-and-altered-experience](/topics/clinical-phenomenology-and-altered-experience/) — The broader epistemic framework for clinical evidence in philosophy of mind
 - [contemplative-pathology-and-interface-malfunction](/topics/contemplative-pathology-and-interface-malfunction/) — When contemplative practices produce interface disruption
+- [targeted-lesion-discriminating-tests-between-production-and-filter-readings-of-the-memory-hierarchy](/topics/targeted-lesion-discriminating-tests-between-production-and-filter-readings-of-the-memory-hierarchy/) — Design space for a focal-perturbation discriminating test; the channel-without-substrate-damage signature this article catalogues motivates the test's structure but the dissociative-states geometry is one the test cannot directly use
 
 ## References
 

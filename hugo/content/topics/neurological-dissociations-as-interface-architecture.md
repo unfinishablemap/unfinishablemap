@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-10
-ai_modified: 2026-05-19 11:04:33+00:00
+ai_modified: 2026-05-19 20:45:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -13,6 +13,7 @@ concepts:
 - '[[phenomenal-consciousness]]'
 - '[[concepts/consciousness-selecting-neural-patterns]]'
 - '[[unity-of-consciousness]]'
+- '[[disconnection-neuroscience]]'
 created: 2026-03-10
 date: &id001 2026-03-10
 description: Blindsight, anosognosia, alien hand syndrome, and other dissociations
@@ -39,6 +40,7 @@ related_articles:
 - '[[anesthesia-void]]'
 - '[[anaesthesia-and-the-consciousness-interface]]'
 - '[[clinical-dissociation-as-systematic-evidence]]'
+- '[[targeted-lesion-discriminating-tests-between-production-and-filter-readings-of-the-memory-hierarchy]]'
 title: Neurological Dissociations as Interface Architecture
 topics:
 - '[[hard-problem-of-consciousness]]'
@@ -57,7 +59,7 @@ This matters for the Map's framework. If consciousness were identical to neural 
 
 ## The Dissociation Logic
 
-Neurological dissociations follow a pattern that Geschwind (1965) systematised as *disconnection syndromes*: when a complex system breaks, the specific way it breaks reveals its internal structure. A radio that loses sound but keeps its display tells you the audio and visual circuits are separate. The brain's dissociations work the same way—except that one side of the interface, consciousness, is not directly observable from outside.
+Neurological dissociations follow a pattern that Geschwind (1965) systematised as [*disconnection syndromes*](/concepts/disconnection-neuroscience/): when a complex system breaks, the specific way it breaks reveals its internal structure. A radio that loses sound but keeps its display tells you the audio and visual circuits are separate. The brain's dissociations work the same way—except that one side of the interface, consciousness, is not directly observable from outside.
 
 The key dissociations organise into four interface channels:
 
@@ -214,6 +216,7 @@ The epiphenomenalist can respond that the brain damage disrupts both the neural 
 - [anesthesia-void](/voids/anesthesia-void/) — The pharmacological route: three-states taxonomy and agent-specific channel failures
 - [anaesthesia-and-the-consciousness-interface](/topics/anaesthesia-and-the-consciousness-interface/) — Topic-level treatment of anesthesia as interface modulation
 - [clinical-dissociation-as-systematic-evidence](/topics/clinical-dissociation-as-systematic-evidence/) — Psychogenic dissociation reaching the same channel architecture without structural damage
+- [targeted-lesion-discriminating-tests-between-production-and-filter-readings-of-the-memory-hierarchy](/topics/targeted-lesion-discriminating-tests-between-production-and-filter-readings-of-the-memory-hierarchy/) — What kind of focal-lesion or focal-stimulation experiment would discriminate production from filter readings of the channel architecture this article maps; design-space exhibit at the memory-hierarchy tier
 - [curated-mind](/topics/curated-mind/) — The brain's pervasive curation of experience across vision, body, memory, and self-model
 - [embodied-consciousness](/topics/embodied-consciousness/) — Body-level interface considerations
 

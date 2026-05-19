@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-23
-ai_modified: 2026-05-19 11:04:33+00:00
+ai_modified: 2026-05-19 12:00:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -18,7 +18,7 @@ description: Human+AI exploration of the body's internal sensing channels as the
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-03-30 18:38:00+00:00
+last_deep_review: 2026-05-19 12:00:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -56,7 +56,7 @@ Cardiac interoception—the ability to perceive one's own heartbeat—correlates
 
 A sharp empirical partition lies inside the "interoception" label itself. A 2025 *Frontiers in Psychology* paper ("There is no such thing as interoception") argues that interoception is not one sensory modality but a heterogeneous bundle — cardiac, gastric, respiratory, thermal, chemoception, nociception — with different ascending pathways and very different accessibility profiles to consciousness. The channels listed in the previous subsection are the *consciously accessible portion* of a much larger system. Most visceral signal — blood pressure, blood gas chemistry, hepatic metabolism, renal filtration, lymphatic flow, hormone titre, immune state, blood pH — never reaches awareness at any temporal grain. The body has an inside, and most of it is silent.
 
-This partition is a load-bearing case for the interface reading. The somatic interface is not a uniformly thin wall through which all bodily fact passes; it is a structurally specifiable membrane with channels at different opacities. The spectrum runs from dimly-perceptible (cardiac timing accessible at coarse grain in healthy adults; gastric distension; respiratory effort; thermal state) through gated (visceral signals that shape brain dynamics and decision-making while remaining sub-threshold) to constitutively-unfelt (renal filtration, hepatic metabolism, blood pH — channels for which no contemplative training or pathology surfaces the signal). The partition is exactly what an interface model predicts: which bodily facts cross the membrane is set by the channel architecture, not by the body's overall importance to the system. Renal filtration is at least as critical to survival as heartbeat; only one is felt.
+This partition is an illustrative case for the interface reading. The somatic interface is not a uniformly thin wall through which all bodily fact passes; it is a structurally specifiable membrane with channels at different opacities. The spectrum runs from dimly-perceptible (cardiac timing accessible at coarse grain in healthy adults; gastric distension; respiratory effort; thermal state) through gated (visceral signals that shape brain dynamics and decision-making while remaining sub-threshold) to constitutively-unfelt (renal filtration, hepatic metabolism, blood pH — channels for which no contemplative training or pathology surfaces the signal). Materialist anatomy accounts for this partition through ascending-pathway architecture; the interface reading describes the same spectrum as the channel structure consciousness inhabits. Both frameworks predict the same cleavage. Renal filtration is at least as critical to survival as heartbeat; only one is felt.
 
 The partition also sharpens claims made elsewhere on this page. When the interface is described as "structured" or "modular," the interoceptive sub-bundle is the densest case: dissociable accuracy, sensibility, and metacognitive awareness (Garfinkel et al. 2015); blind-population enhancement of cardiac accuracy correlated with thicker occipital cortex; pathologies (anxiety, depersonalisation, alexithymia, anorexia) that distort the felt body without changing the body itself. Each is a different cleavage line in a system the unitary label "interoception" treats as monolithic. The [interoceptive void](/voids/interoceptive-void/) develops this case in full: the body is the most intimate physical object consciousness has, and most of it is structurally opaque to the consciousness that occupies it. That opacity is the *shape* of the somatic interface, mapped from the inside by what cannot be reached.
 

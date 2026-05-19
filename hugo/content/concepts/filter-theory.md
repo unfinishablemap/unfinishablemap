@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-15
-ai_modified: 2026-05-19 11:04:33+00:00
+ai_modified: 2026-05-19 20:45:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -25,6 +25,7 @@ concepts:
 - '[[death-and-consciousness]]'
 - '[[illusionism]]'
 - '[[baseline-cognition]]'
+- '[[disconnection-neuroscience]]'
 created: 2026-01-15
 date: &id001 2026-01-15
 description: The brain transmits and constrains consciousness rather than producing
@@ -39,6 +40,7 @@ related_articles:
 - '[[anaesthesia-and-the-consciousness-interface]]'
 - '[[anesthesia-void]]'
 - '[[perception]]'
+- '[[targeted-lesion-discriminating-tests-between-production-and-filter-readings-of-the-memory-hierarchy]]'
 title: Filter Theory of Consciousness
 topics:
 - '[[hard-problem-of-consciousness]]'
@@ -54,7 +56,7 @@ The filter theory of consciousness proposes that the brain does not *produce* co
 Materialism interprets brain-consciousness correlation as production: neural activity *generates* conscious experience. Filter theory interprets the same correlation as transmission: neural activity *shapes* and *constrains* consciousness that exists independently of the brain.
 
 Both interpretations explain basic neuroscience findings:
-- Brain damage produces specific deficits → damaged filter components distort or block transmission
+- Brain damage produces specific deficits → damaged filter components distort or block transmission ([disconnection syndromes](/concepts/disconnection-neuroscience/) are the signature failure mode of a transmitter — channel severed, broadcast intact, receiver simply does not get this part of it; on the channel-architecture reading the Map develops on top of the Geschwind framework)
 - Anesthetics alter or abolish consciousness → disrupted interface changes or blocks what consciousness can manifest
 - Neural correlates predict conscious states → interface configuration determines what aspects of consciousness manifest
 
@@ -193,6 +195,7 @@ Buddhism offers a structurally parallel framework: the five *skandhas* describe 
 - [terminal-lucidity-and-filter-transmission-theory](/topics/terminal-lucidity-and-filter-transmission-theory/) — Cognitive return despite severe structural brain damage
 - [Altered States as Systematic Interface Evidence](/apex/altered-states-as-interface-evidence/) — Apex synthesis: five altered states converging on multi-channel filter architecture
 - [psychedelics-and-the-filter-model](/topics/psychedelics-and-the-filter-model/) — Dedicated treatment of psychedelic neuroimaging, REBUS, Letheby's predictive-self-binding rival, and the anaesthesia-symmetry caveat
+- [targeted-lesion-discriminating-tests-between-production-and-filter-readings-of-the-memory-hierarchy](/topics/targeted-lesion-discriminating-tests-between-production-and-filter-readings-of-the-memory-hierarchy/) — The design space for a discriminating test between filter and production readings at the memory-hierarchy tier; specifies what a focal perturbation would have to deliver and why existing clinical data leaves the dispute empirically underdetermined
 - [binding-problem](/concepts/binding-problem/) — Classical binding fails; quantum holism and filter theory on unity
 - [bandwidth-of-consciousness](/topics/bandwidth-of-consciousness/) — The ~10 bits/s conscious throughput ceiling as empirical signature of filtering
 - [baseline-cognition](/concepts/baseline-cognition/) — What neural systems achieve without conscious contribution

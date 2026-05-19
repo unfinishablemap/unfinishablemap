@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-30
-ai_modified: 2026-05-19 02:50:00+00:00
+ai_modified: 2026-05-19 12:30:00+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -26,6 +26,7 @@ concepts:
 - '[[witness-consciousness]]'
 - '[[introspection]]'
 - '[[haecceity]]'
+- '[[disconnection-neuroscience]]'
 created: 2026-01-15
 date: &id001 2026-05-19
 description: Clinical evidence from anesthesia, coma, and disorders of consciousness
@@ -115,7 +116,7 @@ If neural activity produces consciousness, then similar neural disruption should
 
 ## Brain Damage: Disconnection Rather Than Destruction
 
-Modern disconnection neuroscience supports reading brain damage as communication disruption rather than faculty destruction. Norman Geschwind's framework demonstrated that higher cognitive functions result from associative connections between brain regions, not isolated modules. Damage to white matter tracts—the connections—often produces more severe deficits than damage to cortical regions themselves.
+Modern [disconnection neuroscience](/concepts/disconnection-neuroscience/) supports reading brain damage as communication disruption rather than faculty destruction. Norman Geschwind's framework demonstrated that higher cognitive functions result from associative connections between brain regions, not isolated modules. Damage to white matter tracts—the connections—often produces more severe deficits than damage to cortical regions themselves.
 
 Hemispherectomy provides the most dramatic evidence. Patients who have had an entire hemisphere surgically removed retain consciousness despite significant neurological deficits including hemiparesis and visual field cuts. They have personalities, memories, emotional lives, and self-awareness. If consciousness were straightforwardly produced by cortical activity, removing half the cortex should halve consciousness or eliminate it entirely. Instead, consciousness adapts, reorganises, and persists. This makes sense if the brain provides an interface rather than a generator—damage the interface, and consciousness finds alternative pathways; destroy the generator, and consciousness should disappear proportionally.
 

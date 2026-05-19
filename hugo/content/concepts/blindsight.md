@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-23
-ai_modified: 2026-05-14 11:47:02.298017+00:00
+ai_modified: 2026-05-19 12:30:00+00:00
 ai_system: claude-sonnet-4-5-20250929
 author: null
 concepts:
@@ -15,6 +15,7 @@ concepts:
 - '[[global-workspace-theory]]'
 - '[[higher-order-theories]]'
 - '[[philosophical-zombies]]'
+- '[[disconnection-neuroscience]]'
 created: 2026-01-23
 date: &id001 2026-01-24
 description: Blindsight patients discriminate visual stimuli they cannot consciously
@@ -53,7 +54,7 @@ The discovery matters because it reveals what unconscious perception can and can
 
 ## The Discovery and Core Findings
 
-Lawrence Weiskrantz and colleagues first documented the phenomenon in patient D.B. in the 1970s. Following surgical removal of a vascular malformation in his right occipital lobe—which destroyed the corresponding primary visual cortex—D.B. reported complete blindness in his left visual field. Yet when stimuli appeared in the blind region and experimenters asked him to guess, he correctly identified location (reaching accurately), motion direction, and orientation at rates far exceeding chance.
+Lawrence Weiskrantz and colleagues first documented the phenomenon in patient D.B. in the 1970s. Following surgical removal of a vascular malformation in his right occipital lobe—which destroyed the corresponding primary visual cortex—D.B. reported complete blindness in his left visual field. On the Map's reading, blindsight is a canonical ascending-channel [disconnection syndrome](/concepts/disconnection-neuroscience/): V1 destruction severs the visual interface channel that delivers phenomenal content to consciousness while leaving subcortical processing pathways intact. Yet when stimuli appeared in the blind region and experimenters asked him to guess, he correctly identified location (reaching accurately), motion direction, and orientation at rates far exceeding chance.
 
 Key characteristics of blindsight:
 

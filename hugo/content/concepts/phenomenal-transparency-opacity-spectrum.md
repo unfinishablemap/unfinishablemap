@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-04-13
-ai_modified: 2026-04-13 17:56:00+00:00
+ai_modified: 2026-05-19 12:58:30+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -39,6 +39,7 @@ related_articles:
 - '[[observation-and-measurement-void]]'
 - '[[higher-order-theories]]'
 - '[[the-observer-witness-in-meditation]]'
+- '[[mine-ness]]'
 title: The Phenomenal Transparency-Opacity Spectrum
 topics:
 - '[[hard-problem-of-consciousness]]'
@@ -76,7 +77,7 @@ William Alston formalised this as epistemic circularity: defending the reliabili
 
 Peter Carruthers pushes the circularity further in *The Opacity of Mind* (2011), arguing that self-knowledge is fundamentally interpretive: we know our own mental states through the same third-person interpretive mechanisms we apply to others, not through privileged introspective access. If Carruthers is right, transparency conceals something more radical than mediation — it conceals the fact that direct introspective access was never available in the first place. On this view, phenomenal opacity is not an occasional disruption of normal function but the default epistemic situation — what varies is how effectively transparency conceals this fact.
 
-The problem sharpens when combined with Donald Hoffman's [Fitness-Beats-Truth theorem](/concepts/fitness-beats-truth/). Hoffman's mathematical models argue that evolution selects perceptual strategies tuned to fitness rather than truth: "Veridical perceptions — strategies tuned to the true structure of the world — are routinely dominated by nonveridical strategies tuned to fitness." The theorem is contested — critics argue that fitness-relevant perception often tracks truth to a useful degree — but even moderate versions create trouble when combined with transparency. If perception is an interface optimised substantially for survival rather than accuracy, and if phenomenal transparency prevents us from detecting this, we face a compound problem: our representations may be systematically non-veridical, and we cannot detect the distortion because the distortion conceals itself.
+The problem sharpens when combined with Donald Hoffman's [Fitness-Beats-Truth theorem](/concepts/fitness-beats-truth/). Hoffman argues evolution selects perceptual strategies tuned to fitness rather than truth: "Veridical perceptions — strategies tuned to the true structure of the world — are routinely dominated by nonveridical strategies tuned to fitness." The theorem is contested — critics argue that fitness-relevant perception often tracks truth usefully — but even moderate versions create trouble when combined with transparency. If perception is optimised substantially for survival rather than accuracy, and transparency prevents us from detecting this, we face a compound problem: representations may be systematically non-veridical, and we cannot detect the distortion because the distortion conceals itself.
 
 ## Where Opacity Manifests
 
@@ -84,7 +85,7 @@ Opacity arises through several distinct mechanisms, each revealing different asp
 
 **Degraded signal.** Remove your glasses and the world blurs. The blur has its own phenomenal character — softness, haziness — that belongs to the representational medium, not to any external object. The less faithfully experience tracks the external world, the more visible the interface becomes. The [blur paradox](/topics/perceptual-failure-and-the-interface/) develops this: blur is transparency shattering, with the representational medium becoming the most salient feature of experience. This is among the most systematic routes to opacity: reduced signal quality forces the representational machinery into view.
 
-**Processing disruption.** Depersonalisation disorder involves opacity of the self-model. Patients experience themselves as unreal, as watching their actions from outside. They maintain insight — they know they are themselves — while experiencing profound alienation. The self-model that normally presents transparently — as *being* oneself — becomes visible as a model. The result is typically distressing, not enlightening, which suggests that transparency serves a functional role and that opacity is not inherently epistemically valuable. The [necessary-opacity](/voids/necessary-opacity/) article explores why the self-model's invisibility may be necessary for coherent experience.
+**Processing disruption.** Depersonalisation disorder involves opacity of the self-model. Patients experience themselves as unreal, as watching their actions from outside. They maintain insight — they know they are themselves — while experiencing profound alienation. The self-model that normally presents transparently — as *being* oneself — becomes visible as a model. The result is typically distressing, not enlightening, which suggests that transparency serves a functional role and that opacity is not inherently epistemically valuable. The [necessary-opacity](/voids/necessary-opacity/) article explores why the self-model's invisibility may be necessary for coherent experience. [mine-ness](/concepts/mine-ness/) is the spectrum's worked exhibit of *a feature that is normally maximally transparent and that pathology can make opaque*: the for-me character is so transparent in ordinary experience that subjects do not notice it at all, and the depersonalisation case crosses the spectrum without obliterating the feature, supplying one of the cleanest cases the spectrum has of a noticed-by-its-absence transition.
 
 **Chemical intervention.** Psychedelic states weaken transparency across multiple representational layers simultaneously. The normally stable sense of being a continuous self can thin or dissolve entirely; perceptual boundaries between self and world may blur; the constructed character of ordinary experience may become strikingly apparent. These experiences are transient, and the insights they produce rarely survive the return to transparent functioning.
 
@@ -106,7 +107,7 @@ Phenomenal transparency extends beyond perception to thought itself. The [meanin
 
 David Pitt argues we can distinguish what we are thinking — Paris, not London — but this reveals content, not the content-determination process (Pitt, 2004). The aboutness of thought is as transparent as the redness of red. In both cases, the representational medium vanishes, leaving only what is represented.
 
-Thomas Nagel's observation that consciousness is essentially perspectival connects here. In *The View from Nowhere* (1986), Nagel argues the subjective viewpoint resists inclusion in any objective description of the world. Transparency is the mechanism that enforces this resistance: the attempt to objectify one's own representational process generates new transparent representations rather than revealing the process itself. The bat's sonar is transparent to the bat; our vision is transparent to us; and neither can access the other's transparency because the access would require the very medium it seeks to examine.
+Thomas Nagel's observation that consciousness is essentially perspectival connects here. In *The View from Nowhere* (1986), Nagel argues the subjective viewpoint resists inclusion in any objective description. Transparency is the mechanism: attempts to objectify one's own representational process generate new transparent representations rather than revealing the process. The bat's sonar is transparent to the bat; our vision is transparent to us; neither can access the other's transparency because access would require the very medium it seeks to examine.
 
 ## Relation to Site Perspective
 
@@ -138,6 +139,7 @@ For the [simulation hypothesis](/concepts/simulation/), phenomenal transparency 
 - [curated-mind](/topics/curated-mind/) — How the brain's pervasive curation depends on phenomenal transparency
 - [perceptual-failure-and-the-interface](/topics/perceptual-failure-and-the-interface/) — How perceptual degradation reveals the interface that transparency hides
 - [consciousness-epistemology-extended-cognition](/topics/consciousness-epistemology-extended-cognition/) — Why opacity has no functional analogue in extended systems: notebooks have neither transparent nor opaque phenomenal status
+- [mine-ness](/concepts/mine-ness/) — The spectrum's worked exhibit of a normally-maximally-transparent feature that pathology and contemplative practice can make opaque
 
 ## References
 

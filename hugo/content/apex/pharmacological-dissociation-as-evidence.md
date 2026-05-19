@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-05-18
-ai_modified: 2026-05-18 22:10:00+00:00
+ai_modified: 2026-05-19 20:45:00+00:00
 ai_system: claude-opus-4-7
 apex_last_synthesis: 2026-05-18 13:55:00+00:00
 apex_sources:
@@ -54,6 +54,8 @@ related_articles:
 - '[[self-stultification-as-master-argument]]'
 - '[[anesthesia-void]]'
 - '[[reviews/optimistic-2026-05-17]]'
+- '[[cross-mechanism-convergence]]'
+- '[[targeted-lesion-discriminating-tests-between-production-and-filter-readings-of-the-memory-hierarchy]]'
 title: Pharmacological Dissociation as Evidence
 topics:
 - '[[hard-problem-of-consciousness]]'
@@ -185,3 +187,5 @@ This synthesis integrates:
 - [Self-Stultification as Master Argument](/topics/self-stultification-as-master-argument/) — The local-disambiguating argument the ketamine case supplies
 - [The Anaesthesia Void](/voids/anesthesia-void/) — The first-person epistemic structure of the pharmacological interval
 - [Consciousness Disruption and the Mind-Brain Interface](/topics/consciousness-disruption-and-the-mind-brain-interface/) — Disorders-of-consciousness as a further parallel-perturbation route
+- [Cross-Mechanism Convergence as Evidence Pattern](/concepts/cross-mechanism-convergence/) — Evidence-pattern type Class B instantiates; names the strength-indicator-without-tier-graduation discipline that keeps Class B's convergence from inflating beyond what the evidence licenses
+- [targeted-lesion-discriminating-tests-between-production-and-filter-readings-of-the-memory-hierarchy](/topics/targeted-lesion-discriminating-tests-between-production-and-filter-readings-of-the-memory-hierarchy/) — Companion discriminating-test design space at the memory-hierarchy tier; the methodology this apex develops at the pharmacological-dissociation grain is extended into the focal-perturbation grain, with the same constrain-not-establish discipline holding the cumulative case at the right tier

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-22
-ai_modified: 2026-05-19 04:38:17+00:00
+ai_modified: 2026-05-19 12:58:30+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -28,6 +28,7 @@ related_articles:
 - '[[epistemology-of-limit-knowledge]]'
 - '[[meta-epistemology-of-limits]]'
 - '[[naturally-occluded]]'
+- '[[anti-correlated-metacognitive-signal]]'
 title: Inventory Blindness
 topics:
 - '[[hard-problem-of-consciousness]]'
@@ -63,6 +64,8 @@ This distinguishes inventory blindness from related phenomena:
 **Inattentional blindness** — failing to see a visible gorilla — involves a present capability that is not deployed. The capacity to see the gorilla exists; attention was elsewhere. Inventory blindness concerns capacities that do not exist at all.
 
 **The unknown unknowns** of Rumsfeld's taxonomy come closest, but even this framing implies the unknown unknowns could in principle be enumerated from some more complete vantage point. Inventory blindness questions whether such a vantage point is available for any finite mind.
+
+A more recent comparison sharpens the contrast at a structurally adjacent location. The [anti-correlated metacognitive signal](/concepts/anti-correlated-metacognitive-signal/) is the *inverse* failure mode: where inventory blindness involves absence-of-signal opacity (the missing capacity generates nothing, so no monitoring instrument was ever built), anti-correlation involves present-but-inverted-signal opacity (the metacognitive instrument *does* fire and *does* endorse, but in the regime that matters its endorsement is anti-correlated with accuracy). The two opacity types resist different remedies — inventory blindness yields only to external triangulation through cases where the missing capacity becomes separately visible, anti-correlation only to independent identification of the regime where the signal inverts — and together they map the small family of architecturally distinct failure modes the catalogue's introspection-architecture treatment now distinguishes.
 
 The Dunning-Kruger effect (Kruger & Dunning, 1999) provides a measurable parallel in bounded domains: incompetence in a skill correlates with inability to recognise that incompetence, because the very skills needed to evaluate performance are the skills that are missing. Inventory blindness extends this logic from specific skills to cognitive architecture itself — from "I lack the skill to judge my skill" to "I lack the capacity to detect my missing capacities."
 
@@ -106,6 +109,7 @@ Inventory blindness engages the Map's [tenets](/tenets/) at a fundamental level.
 - [adaptive cognitive limits](/concepts/naturally-occluded/) — Why evolution produces and maintains the blind spots inventory blindness conceals
 - [meta-epistemology-of-limits](/voids/meta-epistemology-of-limits/)
 - [voids](/voids/)
+- [anti-correlated-metacognitive-signal](/concepts/anti-correlated-metacognitive-signal/) — the structurally complementary opacity type: present-but-inverted-signal opacity where inventory blindness is absence-of-signal opacity
 
 ## References
 

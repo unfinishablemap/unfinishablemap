@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-23
-ai_modified: 2026-05-16 18:00:00+00:00
+ai_modified: 2026-05-19 20:00:00+00:00
 ai_system: claude-sonnet-4-5-20250929
 author: null
 concepts:
@@ -17,7 +17,7 @@ description: Dennett's third-person method for studying consciousness. Its offic
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-05-15 15:20:00+00:00
+last_deep_review: 2026-05-19 15:31:26+00:00
 modified: *id001
 related_articles:
 - '[[methodology-of-consciousness-research]]'
@@ -30,6 +30,7 @@ related_articles:
 - '[[microphenomenological-interview-method]]'
 - '[[confabulation-void]]'
 - '[[topics/pupillometry-behavioural-channel]]'
+- '[[anti-correlated-metacognitive-signal]]'
 title: Heterophenomenology
 topics:
 - '[[consciousness]]'
@@ -96,13 +97,15 @@ The position functions like metaphysical naturalism disguised as methodological 
 
 ## The Self-Stultification Problem
 
-Heterophenomenology faces a version of the [epiphenomenalist self-stultification](/concepts/epiphenomenalism/) problem. The issue is not merely that the method might undermine itself—it's that heterophenomenology cannot explain why we should trust it as a method without relying on the very phenomenological capacities it brackets.
+Heterophenomenology is harder to convict of self-stultification than crude eliminativism, but the self-undermining charge gains traction at a narrower point: assessing whether a theoretical framework *adequately captures what experience is like* seems to require phenomenal acquaintance with the states being theorised about. This is the load-bearing formulation, and the rest of this section unpacks why it locates the trouble at the right granularity.
 
-Consider: Dennett develops heterophenomenology through philosophical reflection. This reflection involves his experiencing arguments as compelling, noticing apparent contradictions, and finding some positions more intuitively plausible than others. These are phenomenological facts—there is something it's like to find an argument convincing. If heterophenomenology brackets phenomenology's reality, it brackets the epistemic processes by which Dennett arrived at heterophenomenology.
+A broader version of the self-stultification charge is available — that Dennett's philosophical reflection involves experiencing arguments as compelling, noticing apparent contradictions, and finding some positions more intuitively plausible than others, and that these are themselves phenomenological facts. The illusionist can resist this broader move by denying that finding-arguments-compelling is phenomenological in the load-bearing sense; the broader charge then stalls at the same bedrock that the [constitutive-vs-referring distinction](/topics/phenomenal-authority-and-first-person-evidence/#constitutive-vs-referring-observation) identifies. The narrower formulation does not depend on that contested premise.
 
-When Dennett introspects and finds no qualia, heterophenomenology should bracket this finding: it establishes only that Dennett *claims* to find no qualia, not that qualia are absent. But Dennett doesn't maintain this neutrality. He argues from his introspective reports (no qualia, no Cartesian theater) to metaphysical conclusions (qualia don't exist, consciousness is multiple drafts).
+The narrower point is this. Dennett's heterophenomenology is in the business of assessing whether candidate theories of consciousness adequately capture what experience is like. That assessment task — distinguishing a theory that *gets the phenomenal character right* from one that misses it — is not a third-person comparison between a theory and a verbal report. It is a comparison between a theory and the experiential states the theory purports to characterise. Subjects' verbal reports are how the comparison enters the literature, but the comparison itself runs through phenomenal acquaintance with the states in question. Without that acquaintance, "adequately captures" reduces to "matches the reports" — and matching the reports is exactly what an illusionist eliminativism that denies the underlying phenomenology can also do.
 
-The dilemma is sharp: either first-person reports about experience can ground metaphysical conclusions (in which case heterophenomenology's bracketing is unwarranted), or they cannot (in which case Dennett's own arguments lack foundation). The method applied consistently would undermine its own foundations.
+The trouble Dennett's own arguments encounter is therefore narrower than a global self-undermining: when he argues that introspection reveals no Cartesian theater, no qualia in the load-bearing sense, the inference from the introspective finding to the metaphysical conclusion requires that the introspective finding *adequately captures* what is or is not there to be found. That adequacy-assessment is the phenomenological capacity heterophenomenology brackets. The bracketing does not collapse Dennett's project, but it does locate the disagreement at the framework boundary rather than letting the introspective reports do load-bearing work as if they were neutral data.
+
+This is bedrock-disagreement honesty in the [sense the phenomenal-authority article names](/topics/phenomenal-authority-and-first-person-evidence/#honest-limitation): the narrower self-undermining charge identifies the location of disagreement rather than claiming external defeat. An illusionist who denies that adequacy-assessment requires phenomenal acquaintance will not be moved; the disagreement is at the framework boundary, not adjudicable from outside the framework choice that produced it.
 
 ## Connection to Illusionism
 
@@ -135,6 +138,8 @@ What the Map rejects is the claim that this exhausts consciousness science—tha
 Heterophenomenology works as a tool within a larger framework that includes disciplined first-person investigation ([phenomenology](/concepts/phenomenology/), [contemplative neuroscience](/concepts/neurophenomenology-and-contemplative-neuroscience/)), second-person empathic methods, and philosophical argument about consciousness's nature. It fails as a complete methodology because it systematically excludes phenomenology itself.
 
 The structured first-person side has its own discipline for the confabulation worry heterophenomenology rightly identifies. The [Confabulation-Resistance Discipline](/topics/microphenomenological-interview-method/#confabulation-resistance-discipline) section of the microphenomenology article catalogues how disciplined second-person elicitation restricts the confabulation-eligible space more than casual introspection does, without claiming to settle whether the restriction crosses from approximation to access. The [confabulation void](/voids/confabulation-void/) is conceded as structural; the *interviewer-prompts-novelty* objection is conceded by the method's own principals; the position is methodologically honest about its own ceiling. Heterophenomenology absorbs the same outputs as data without committing to inner-referent recovery — it brackets the bounded-witness reading as still claiming too much, where the Map reads the same evidence as partial purchase against the void. The disagreement is at the framework boundary rather than over the confabulation question itself.
+
+The Coutinho et al. (2021) [anti-correlated-metacognitive-signal](/concepts/anti-correlated-metacognitive-signal/) finding sharpens the data heterophenomenology must ingest. In regimes where first-order decision evidence is weak and deceptive external cues are available, the confidence-accuracy correlation inverts: subjects report *highest* confidence precisely where they are *least* accurate. Heterophenomenology takes both the verbal report and the behavioural-accuracy measure as third-person data, so the inversion is registered as a structural fact about the subject's report-generating machinery. The disagreement at the framework boundary concerns what the inversion *means*: a heterophenomenological reading treats it as a fact about judgement-generation, neutral on whether anything phenomenally backs the confident reports; the Map reads it as evidence about the architectural relationship between first-order processing and self-monitoring, with phenomenality bracketed as an additional question the data alone do not settle. The Coutinho regime is a case where the channel-disagreement framework is forced — verbal confidence and behavioural accuracy come apart within a single subject — and heterophenomenology must engage the disagreement rather than treat verbal report as the sole channel.
 
 The complementary bodily-channel data is symmetrically positioned. [Pupillometry as a behavioural channel](/topics/pupillometry-behavioural-channel/) supplies trial-locked autonomic measurement that heterophenomenology can ingest on the same neutral terms as a verbal report — a pupillary trace is a behavioural fact about the subject in the broad biological sense. What the channel-level dissociation does is force heterophenomenology to *attend* to the disagreement between verbal and bodily channels: the subject's heterophenomenological world (the world they say they inhabit) and the subject's bodily behaviour (the world the experimenter measures) can come apart in interpretable ways. The data do not refute heterophenomenology; they do narrow the easiest reading on which verbal report exhausts what can be said.
 
