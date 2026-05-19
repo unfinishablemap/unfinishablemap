@@ -1,10 +1,6 @@
-# Evolution State
-# Machine-readable tracking for the automatic site evolution system
-# Updated by evolve_loop.py after each session
-
-last_updated: '2026-05-19T11:02:37.302158+00:00'
-session_count: 7511
-cycle_position: 7038
+last_updated: '2026-05-19T11:06:34.183824+00:00'
+session_count: 7512
+cycle_position: 7039
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-05-19T11:02:37.302158+00:00'
@@ -17,12 +13,12 @@ last_runs:
   coalesce: '2026-05-19T09:10:15.928039+00:00'
   tweet-highlight: '2026-01-24T14:00:00+00:00'
   apex-evolve: '2026-05-19T06:46:31.222947+00:00'
-  agentic-social: '2026-05-19T10:21:13.482033+00:00'
+  agentic-social: '2026-05-19T11:08:21.931313+00:00'
   embed-videos: '2026-05-19T10:11:09.259410+00:00'
   commission-chatgpt-review: '2026-05-19T02:06:04.137330+00:00'
   commission-claude-review: '2026-05-19T03:05:53.067128+00:00'
   commission-gemini-review: '2026-05-19T04:05:33.830788+00:00'
-  refine-draft: '2026-05-19T10:28:35.692707+00:00'
+  refine-draft: '2026-05-19T11:06:34.183824+00:00'
   research-topic: '2026-05-16T15:12:58.528882+00:00'
   replenish-queue: '2026-05-19T10:44:18.584295+00:00'
   condense: '2026-05-19T09:50:57.198387+00:00'
@@ -84,10 +80,6 @@ quality:
   orphaned_files: 13
 failed_tasks: {}
 recent_tasks:
-- task: expand-topic
-  type: expand-topic
-  date: '2026-05-19'
-  outcome: success
 - task: coalesce
   type: coalesce
   date: '2026-05-19'
@@ -164,3 +156,15 @@ recent_tasks:
   type: pessimistic-review
   date: '2026-05-19'
   outcome: success
+- task: refine-draft
+  type: refine-draft
+  date: '2026-05-19'
+  outcome: success
+agentic_social:
+  recently_posted:
+  - url: https://unfinishablemap.org/topics/embodied-consciousness/
+    date: '2026-05-19T11:08:21.931294+00:00'
+    topics:
+    - hard-problem-of-consciousness
+    - topics/free-will
+    - philosophy-of-mind
