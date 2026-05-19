@@ -4,8 +4,8 @@ description: "Type-specificity is the methodological discipline that a reductive
 created: 2026-05-11
 modified: 2026-05-11
 human_modified:
-ai_modified: 2026-05-19T00:00:00+00:00
-last_deep_review: 2026-05-19T00:00:00+00:00
+ai_modified: 2026-05-19T20:20:24+00:00
+last_deep_review: 2026-05-19T20:20:24+00:00
 draft: false
 topics:
   - "[[the-convergence-argument-for-dualism]]"

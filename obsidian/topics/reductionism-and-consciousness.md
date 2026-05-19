@@ -4,7 +4,7 @@ description: "Reductionism succeeds across science—temperature, life, heredity
 created: 2026-02-22
 modified: 2026-02-22
 human_modified:
-ai_modified: 2026-04-23T19:43:00+00:00
+ai_modified: 2026-05-19T20:20:24+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -102,7 +102,7 @@ This objection fails on its own terms. Vitalism posited an extra *force*—somet
 
 Consciousness is not a functional hypothesis. The [[hard-problem-of-consciousness|hard problem]] specifically distinguishes the "easy problems" (functional questions about discrimination, integration, report) from the hard problem (why these functions are accompanied by experience). The easy problems *will* yield to functional explanation—nobody disputes this. The hard problem persists because it asks about something beyond function.
 
-Comparing consciousness to vitalism conflates the easy problems with the hard problem. It assumes that solving the easy problems dissolves the hard problem—precisely what Chalmers (1996) argued it does not. The vitalism analogy presupposes reductionism rather than arguing for it.
+Comparing consciousness to vitalism conflates the easy problems with the hard problem. It assumes that solving the easy problems dissolves the hard problem—precisely what Chalmers (1996) argued it does not. The vitalism analogy presupposes reductionism rather than arguing for it. The structural disanalogy is that "vital force" was a placeholder for unspecified mechanism, while phenomenal qualities are determinate types whose reductive demand is [[type-specificity|type-specific]]: a reduction must deliver the character of *this* type, not substitute a generic mechanism. (See [[type-specificity]] for the methodological discipline this distinction induces across the Map's three load-bearing exhibits.)
 
 ## What the Failure Reveals
 

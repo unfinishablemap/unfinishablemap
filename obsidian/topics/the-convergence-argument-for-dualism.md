@@ -4,7 +4,7 @@ description: "Multiple independent arguments converge on dualism from different 
 created: 2026-02-18
 modified: 2026-02-28
 human_modified:
-ai_modified: 2026-05-10T16:41:00+00:00
+ai_modified: 2026-05-19T20:20:24+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -152,7 +152,7 @@ A vitalist in 1820 could have observed accurately that the chemistry-life gap ha
 
 "Vital force" was a placeholder for unspecified mechanism, picking out no particular feature a reduction had to deliver in any particular form. When Wöhler synthesised urea (1828), Buchner demonstrated cell-free fermentation (1897), and DNA's structure was elucidated (1953), the placeholder shrank because *any* mechanism for *any* part of the target counted as success. Phenomenal qualities have a different shape: redness, painfulness, and the taste of coffee are each determinate phenomenal types. A reductive account must deliver *that* character type-by-type, and a complete reduction of one type would not extend automatically to others.
 
-The disanalogy is genuine but not unlimited: type-specific reductive demands could in principle be met. The empirical observation that neuroscience has produced no partial reduction of phenomenal quality — no instance of "this is what redness *is* in physical terms" analogous to "this is what fermentation *is*" — is an honest temporal report. The hard problem's shape, not its current depth, distinguishes consciousness from vitalism. (See [[reductionism-and-consciousness]] for the fuller treatment.)
+The disanalogy is genuine but not unlimited: [[type-specificity|type-specific]] reductive demands could in principle be met. The empirical observation that neuroscience has produced no partial reduction of phenomenal quality — no instance of "this is what redness *is* in physical terms" analogous to "this is what fermentation *is*" — is an honest temporal report. The hard problem's shape, not its current depth, distinguishes consciousness from vitalism. (See [[reductionism-and-consciousness]] for the fuller treatment, and [[type-specificity]] for the methodological discipline this structural feature induces across the Map's three load-bearing grains.)
 
 **Assessing independence is difficult.** As the Bayesian section details, the arguments cluster around shared assumptions that reduce effective independence. Cumulative force is real but more modest than a naive count of separate arguments would suggest.
 

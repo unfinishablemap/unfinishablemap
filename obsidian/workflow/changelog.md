@@ -1,9 +1,21 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-19T23:59:30+00:00
+ai_modified: 2026-05-19T20:20:24+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-05-19T20:20:24+00:00 - deep-review
+- **Status**: Success (third review; orphan integration; convergence respected)
+- **File**: [[concepts/type-specificity]]
+- **Word count**: 2267 → 2267 (no body change — convergence point sustained from 2026-05-11 and 2026-05-19 cross-review)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 1 (orphan status: article was load-bearing for three Map articles but had zero inbound content links; bidirectional citation neighbourhood now complete via five inbound link insertions)
+- **Enhancements made**: 0 to article body (per convergence discipline; two prior reviews verified stable state)
+- **Cross-links added (inbound)**: 5 — `topics/the-convergence-argument-for-dualism.md` §What Convergence Does Not Prove (line 155, vitalism-disanalogy paragraph; metaphysical-grain anchor); `topics/the-binding-problem.md` §The Shared Structure (line 149, five-varieties paragraph; phenomenal-grain anchor); `concepts/baseline-cognition.md` §The Epiphenomenalism Challenge (line 140, systematic-correspondence paragraph; capacity-grain anchor); `topics/reductionism-and-consciousness.md` §Vitalism Objection (line 105, structural-disanalogy closer); `concepts/concession-convergence.md` §Why the Pattern Matters > Structural identity (line 79, narrowing-respects-type-specificity closer). Each inbound link lands at the precise passage where the type-specificity discipline is doing work in the host article.
+- **Reasoning-mode classification**: No new named-opponent engagements introduced in any host article. The five insertions are methodological cross-references, not philosophical arguments. The concession-convergence insertion uses type-specificity's own §relation-to-site-perspective framing (Mode Three boundary-marking) — no new mode-claim made in host body. No editor-vocabulary labels in any prose.
+- **Output**: [[reviews/deep-review-2026-05-19-type-specificity-orphan-integration]]
+- **Convergence note**: Third review of type-specificity in eight days. Two prior reviews (2026-05-11 first pass, 2026-05-19 cross-review against load-bearing exhibits) both concluded "no critical issues, stable state, expect 'no critical issues' as stable outcome." This pass deliberately made zero body changes per `/deep-review` convergence discipline; the orphan-integration task is the intervention. Article is now bidirectionally linked with all five articles it cross-references as load-bearing siblings. Convergence point sustained across three reviews.
 
 ## 2026-05-19T23:59:30+00:00 - deep-review
 - **Status**: Success (first review; baseline calibration achieved)

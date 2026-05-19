@@ -4,7 +4,7 @@ description: "A comprehensive taxonomy of binding problems—intra-modal, cross-
 created: 2026-02-14
 modified: 2026-05-10
 human_modified:
-ai_modified: 2026-05-10T21:31:00+00:00
+ai_modified: 2026-05-19T20:20:24+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -146,7 +146,7 @@ The five varieties share a common structure:
 3. **Experience is unified** — coordinated information is experienced as one thing, not many coordinated things
 4. **The gap between 2 and 3 resists explanation** — no account has shown how coordination yields ontological unity
 
-The persistence of this gap across all five varieties suggests it reflects something structural, not coincidental explanatory failures in different domains. The problem is not the details of any particular domain — it is the transition from coordinated plurality to experiential unity as such. Any successful explanation must work across all five varieties: a theory that explains perceptual binding but cannot address temporal or subject binding has explained BP1, not BP2.
+The persistence of this gap across all five varieties suggests it reflects something structural, not coincidental explanatory failures in different domains. The problem is not the details of any particular domain — it is the transition from coordinated plurality to experiential unity as such. Any successful explanation must work across all five varieties: a theory that explains perceptual binding but cannot address temporal or subject binding has explained BP1, not BP2. This is the [[type-specificity]] demand at the phenomenal-unity grain — each variety presents its own determinate unity-type, and a generic mechanism cannot discharge five distinct demands by addressing whatever they hold in common.
 
 ## Dissociations: BP1 Without BP2
 

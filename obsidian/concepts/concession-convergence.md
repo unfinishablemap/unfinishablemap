@@ -4,7 +4,7 @@ description: "Physicalist theories of consciousness independently concede the du
 created: 2026-04-05
 modified: 2026-04-05
 human_modified:
-ai_modified: 2026-04-06T16:51:00+00:00
+ai_modified: 2026-05-19T20:20:24+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -76,7 +76,7 @@ Isolated theoretical difficulties prove little—every theory has problems. Conc
 
 **Independence.** The theories were developed by different researchers, from different starting assumptions, to solve different aspects of the consciousness problem. IIT begins from phenomenological axioms, GWT from cognitive neuroscience, HOT from philosophy of mind, biological computationalism from computational neuroscience. Their concessions are not borrowed from each other.
 
-**Structural identity.** Despite surface differences, each concession has the same logical form: the class of conscious systems must be narrowed beyond what abstract functional description permits. Whether the narrowing invokes intrinsic causal power (IIT), specific neural architecture (GWT), particular representational structures (HOT), or substrate-specific dynamics (biological computationalism), the move is the same—and it is the move dualists have always made.
+**Structural identity.** Despite surface differences, each concession has the same logical form: the class of conscious systems must be narrowed beyond what abstract functional description permits. Whether the narrowing invokes intrinsic causal power (IIT), specific neural architecture (GWT), particular representational structures (HOT), or substrate-specific dynamics (biological computationalism), the move is the same—and it is the move dualists have always made. Each narrowing implicitly respects [[type-specificity]]: the retreat replaces a generic-mechanism account (any system with the right functional profile) with a specification keyed to particular physical or architectural features, recognising the type-specific demand even where the metaphysical conclusion is not granted.
 
 **Involuntariness.** The concessions are not strategic retreats designed to accommodate dualism. They are forced by the theories' own internal logic when confronted with the hard problem. Each theory's proponents would reject the dualist interpretation of their modifications. This makes the convergence more significant, not less: it is not a negotiated settlement but an independent arrival at the same structural limitation.
 

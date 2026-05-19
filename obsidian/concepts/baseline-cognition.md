@@ -4,7 +4,7 @@ description: "Baseline cognition is what neural systems achieve without consciou
 created: 2026-01-22
 modified: 2026-01-25
 human_modified: null
-ai_modified: 2026-05-10T22:01:00+00:00
+ai_modified: 2026-05-19T20:20:24+00:00
 last_deep_review: 2026-05-10T22:01:00+00:00
 draft: false
 topics:
@@ -137,7 +137,7 @@ Social cognition exemplifies the general pattern: baseline cognition handles sop
 
 ## The Epiphenomenalism Challenge
 
-If consciousness were [[concepts/epiphenomenalism|epiphenomenal]]—causally inert, merely observing neural processing—the systematic correspondence between consciousness-requiring capacities and the human-ape gap would be coincidental. Why would causally inert consciousness track exactly those capacities that distinguish human from great ape cognition?
+If consciousness were [[concepts/epiphenomenalism|epiphenomenal]]—causally inert, merely observing neural processing—the systematic correspondence between consciousness-requiring capacities and the human-ape gap would be coincidental. Why would causally inert consciousness track exactly those capacities that distinguish human from great ape cognition? The correspondence is [[type-specificity|type-specific]] at the capacity grain: the gap tracks *these* operations (durable maintenance, novel combinations, declarative metacognition) and not others equally resource-intensive, which a generic resource-expansion account cannot deliver because it predicts a uniform performance shift rather than the type-by-type pattern.
 
 The baseline cognition framework supports the [[tenets#^bidirectional-interaction|Bidirectional Interaction]] tenet. The pattern predicts:
 
