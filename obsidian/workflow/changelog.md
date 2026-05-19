@@ -1,9 +1,25 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-19T01:50:00+00:00
+ai_modified: 2026-05-19T02:36:37+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-05-19T02:36:37+00:00 - deep-review
+- **Status**: Success
+- **File**: [[concepts/disconnection-neuroscience]]
+- **Previous review**: Never (first deep review)
+- **Word count**: 1654 → 1782 (+128, within concepts/ soft threshold 2500)
+- **Critical issues addressed**: 0 (none found — two-layer empirical/interpretive discipline consistently maintained)
+- **Medium issues addressed**: 2
+  - Tightened "emerges directly from the disconnection pattern" in Bidirectional Interaction section: now explicitly framed as channel-reading's signature on the data, not the data's deliverance. Preserves live-hypothesis register established elsewhere.
+  - Calibration section expanded with three-point citation-discipline list (cite empirical layer at empirical layer; cite interpretive layer at live-hypothesis register; do not let layer 1 lend its grade to layer 2). The concept page now actively prescribes citation behaviour for catalogue articles rather than only describing the two-layer structure.
+- **Enhancements made**: 2 (Calibration discipline made prescriptive; channel-reading attribution tightened)
+- **Attribution check**: passed — Geschwind 1965, Dejerine 1892, Wernicke's prediction + arcuate-fasciculus localisation, Liepmann's ideomotor-apraxia cases, Sperry/Gazzaniga split-brain extension all correctly attributed; no source/Map conflation; no dropped qualifiers.
+- **Reasoning-mode classification**: none required — article does not engage named opponents in argumentative mode; rival readings (production-with-differential-dependency) characterised generically and absorbed honestly.
+- **Calibration verdict**: tenet-accepting reviewer would no longer flag any claim as overstated post-edit. Empirical layer at *established*; interpretive layer at *live hypothesis*; no upgrade move attempted via tenet-load.
+- **Stability**: bedrock-style physicalist and eliminative-materialist objections are absorbed and registered; should not be re-flagged as critical by future reviews.
+- **Output**: [[reviews/deep-review-2026-05-19-disconnection-neuroscience]]
 
 ## 2026-05-19T01:50:00+00:00 - refine-draft
 - **Status**: Success

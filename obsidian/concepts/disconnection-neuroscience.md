@@ -4,7 +4,8 @@ description: "The Geschwind framework: higher cognitive deficits arise when whit
 created: 2026-05-19
 modified: 2026-05-19
 human_modified:
-ai_modified: 2026-05-19T01:40:00+00:00
+ai_modified: 2026-05-19T02:36:37+00:00
+last_deep_review: 2026-05-19T02:36:37+00:00
 draft: false
 topics:
   - "[[consciousness-disruption-and-the-mind-brain-interface]]"
@@ -71,15 +72,19 @@ The Map's [[filter-theory|filter-theory]] treatment uses the disconnection liter
 Two evidential layers therefore travel together throughout this article and the catalogue's wider use of the framework:
 
 - *The Geschwind framework as neuroanatomy.* Established. Used as data.
-- *The channel-architecture interpretation built on top of it.* Live hypothesis. Used as a candidate reading the Map favours, with the rival reading registered.
+- *The channel-architecture interpretation built on top of it.* Live hypothesis. Used as a candidate reading the Map favours, with the rival (production-with-differential-dependency) reading registered as also consistent with the evidence.
 
-The catalogue's existing Geschwind-citing articles should now reference this concept page rather than re-derive the framework inline. Where they need the empirical-anatomy layer, the citation goes to disconnection neuroscience as established neuroanatomy. Where they need the channel-architecture layer, the citation should preserve the live-hypothesis register and not slip into treating the interpretation as if it had inherited the empirical force of the anatomy. The slippage the [[evidential-status-discipline|evidential-status discipline]] guards against — letting framework-coherence borrow the evidence-grade of an underlying empirical finding — is the specific failure mode this concept page is meant to prevent.
+Citation discipline for catalogue articles using this concept page:
+
+1. *Cite the empirical layer at the empirical layer.* When an article needs the disconnection-syndrome anatomy as data — alexia-without-agraphia from splenial damage, conduction aphasia from arcuate-fasciculus damage, the structured rather than diffuse lesion-deficit map — cite this page at the established-neuroanatomy register and use the finding as a datum the catalogue must explain.
+2. *Cite the interpretive layer at the live-hypothesis register.* When an article needs the channel-architecture reading — channels as the unit of disruption, ascending/descending splits, transmitter-not-producer framing — cite this page at the live-hypothesis register and keep the rival reading visible.
+3. *Do not let layer 1 lend its grade to layer 2.* The slippage the [[evidential-status-discipline|evidential-status discipline]] guards against — letting framework-coherence borrow the evidence-grade of an underlying empirical finding — is the specific failure mode this concept page is meant to prevent. A passage that has used the channel reading to organise the data must not then cite the data as if the data had thereby earned the channel reading the empirical force of the anatomy.
 
 ## Relation to Site Perspective
 
 **Dualism (Tenet 1).** Disconnection neuroscience does not, on its own, refute production theories of consciousness; the empirical pattern can be accommodated within materialism by appeal to differential cortical-area dependency. What the framework does is *constrain* the simplest production reading. If higher cognition were the unified output of a single integrated neural system, surgically cutting a white-matter tract should produce diffuse degradation rather than the structured, channel-specific deficits the literature catalogues. The Map reads the structured pattern as compatible with — and naturally accommodated by — the interface reading the Dualism tenet underwrites: consciousness operating through a multi-channel interface rather than being identical to the neural substrate it engages.
 
-**Bidirectional Interaction (Tenet 3).** The split between ascending channels (sensory content reaching consciousness) and descending channels (consciousness acting on the body) emerges directly from the disconnection pattern. Alexia-without-agraphia is an ascending failure: visual information cannot reach the linguistic system. Ideomotor apraxia is a descending failure: linguistic intention cannot reach motor execution. Conversion paralysis, in the [[clinical-dissociation-as-systematic-evidence|clinical-dissociation]] literature, produces the descending failure pattern without any structural lesion at all, which the [[topics/consciousness-disruption-and-the-mind-brain-interface|consciousness-disruption]] article takes as additional evidence for the channel reading. The bidirectional architecture is what disconnection syndromes selectively damage, channel by channel.
+**Bidirectional Interaction (Tenet 3).** On the channel-architecture reading the Map develops, the split between ascending channels (sensory content reaching consciousness) and descending channels (consciousness acting on the body) tracks the disconnection pattern with notable cleanness. Alexia-without-agraphia is then an ascending failure: visual information cannot reach the linguistic system. Ideomotor apraxia is a descending failure: linguistic intention cannot reach motor execution. Conversion paralysis, in the [[clinical-dissociation-as-systematic-evidence|clinical-dissociation]] literature, produces the descending failure pattern without any structural lesion at all, which the [[topics/consciousness-disruption-and-the-mind-brain-interface|consciousness-disruption]] article takes as additional evidence for the channel reading. The bidirectional architecture is what disconnection syndromes selectively damage, channel by channel — on this reading. The tract anatomy alone does not force the ascending/descending split; the split is the channel reading's signature, not the data's deliverance.
 
 **Methodological honesty.** The framework is a paradigm case where the Map must hold the empirical and interpretive layers apart. The empirical neuroanatomy is established; the channel-architecture reading is a *live hypothesis* the Map favours and develops, not a deliverance of the empirical record. Articles citing this concept page should preserve the distinction. See [[evidential-status-discipline]] and [[mechanism-costs-cartography]] for the broader discipline this article instantiates.
 
