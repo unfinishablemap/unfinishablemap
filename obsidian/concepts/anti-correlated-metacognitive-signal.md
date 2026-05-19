@@ -4,7 +4,7 @@ description: "Human+AI examination of a metacognitive signature where introspect
 created: 2026-05-19
 modified: 2026-05-19
 human_modified: null
-ai_modified: 2026-05-19T06:00:00+00:00
+ai_modified: 2026-05-19T12:58:30+00:00
 last_deep_review: 2026-05-19T06:00:00+00:00
 draft: false
 topics:
@@ -28,6 +28,9 @@ related_articles:
   - "[[topics/introspection-architecture-independence-scoring]]"
   - "[[topics/phenomenal-authority-and-first-person-evidence]]"
   - "[[topics/pupillometry-behavioural-channel]]"
+  - "[[inventory-blindness]]"
+  - "[[topics/self-stultification-as-master-argument]]"
+  - "[[cross-cultural-convergence-on-mental-causation]]"
 ai_contribution: 100
 author: null
 ai_system: claude-opus-4-7
@@ -69,11 +72,15 @@ The move is not a proof of absence. It is the upgrade of an absence-claim from *
 
 The four downstream cases catalogued in the [[topics/consciousness-disruption-and-the-mind-brain-interface|consciousness-disruption topic]] all interact with this concept differently. In **animal-consciousness** assessment, anti-correlation-style signatures cannot be probed without verbal confidence reports, restricting the move to species with trained uncertainty-monitoring behaviours and reducing its evidential reach. In **AI-consciousness** assessment, the concept is more directly applicable: confidence outputs are inspectable, and the question of whether the system's confidence tracks accuracy classically or shows anti-correlation in the regimes where humans do becomes empirically tractable (with the standard caveats about whether the architectural similarity licenses the phenomenal inference). In **edge-of-sentience** cases ([[topics/birch-edge-of-sentience-and-the-five-tier-scale|the Birch five-tier scale]]), the concept supplies one component of the structural-criteria approach Birch's tier-assignment uses. In **anaesthesia and disorders-of-consciousness** settings, the concept is largely inapplicable directly — patients cannot supply confidence reports — but the broader implication (that the introspective channel is structurally lossy in a regime-conditional way) informs how clinical introspection of recovered patients should be interpreted.
 
+The concept also interacts with the structure of [[topics/self-stultification-as-master-argument|self-stultification arguments]] at the level of *how confidently* a self-undermining position is held. When a position is self-stultifying — eliminativism about belief, epiphenomenalism defended through reasoning whose efficacy the position denies — the *confidence* with which it is endorsed becomes part of the self-undermining: the system's metacognitive endorsement is precisely the kind of signal whose accuracy the position cannot account for. Where the Coutinho regime supplies a within-subject empirical case of confidence anti-correlated with accuracy, self-stultification supplies a structural case: a defender of an epiphenomenalist position is, by their own theory, endorsing the position through a metacognitive process the theory cannot ground. The structural parallel is not strict identity (one is empirical-regime-conditional, the other is theory-level), but the architectural shape recurs: maximum endorsement at the point of maximum unreliability, with the position itself the regime-identifier the discipline requires.
+
 ## The Concept in the Introspection-Architecture Cluster {#cluster}
 
 Within the [[apex/introspection-architecture-void-cluster|introspection-architecture void cluster]], the anti-correlated metacognitive signal supplies the **detection face** of the [[voids/confabulation-void|confabulation void]]. The cluster identifies five faces of introspective architecture — narrative, source-attribution, noetic-feelings, confabulation, perceptual reality-monitoring — and the confabulation face is the cluster's positive-content face (a generative system supplies content where direct access is missing). The anti-correlated signal is the cluster's account of why the confabulation face is not engineering-tractable: the metacognitive endorsement attached to fabricated content is *higher*, not lower, in the regimes where the fabrication is most likely.
 
 The concept differs from but interacts with the [[voids/noetic-feelings-void|noetic-feelings void]], which catalogues the *unreliability* of felt-rightness as a gating signal. Noetic feelings can be uncorrelated, miscalibrated, or anti-correlated with accuracy depending on the regime. The anti-correlated metacognitive signal isolates the third case and treats it as the structurally hardest. The noetic-feelings void is the broader category; the anti-correlated signal is the specific signature that makes one face of that void resistant to calibration. The [[voids/perceptual-reality-monitoring-void|perceptual reality-monitoring void]] (Dijkstra and Fleming 2024) reports a related but distinct anti-correlation in the metacognitive layer of perceptual imagery vs perception, suggesting the architectural pattern is not unique to decision-confidence under deceptive cues but recurs across at least one further introspective domain.
+
+The concept also pairs structurally with [[inventory-blindness]], which catalogues a *different* opacity type at the same architectural tier. Inventory blindness is *absence-of-signal* opacity: a missing capacity generates nothing, so no monitoring system was ever built to detect its absence. Anti-correlation is *present-but-inverted-signal* opacity: the signal generates the wrong content with confident endorsement, so the monitoring instrument actively misleads in the regime where it would matter. The two failure modes resist different remedies — inventory blindness yields only to external triangulation through cases where the missing capacity becomes separately visible (the Capgras-prosopagnosia dissociation); anti-correlation yields only to independent identification of the regime where the signal inverts, and where the introspector is the only available instrument that identification is not available from inside. Treating both as load-bearing for the catalogue's introspection-architecture treatment surfaces the structural shape of the opacity space: not a single failure mode with calibration variants but a small family of architecturally distinct ones.
 
 ## Relation to Site Perspective {#tenets}
 
@@ -106,6 +113,9 @@ Three limits constrain the concept's evidential reach.
 - [[topics/phenomenal-authority-and-first-person-evidence]] — the first-person-evidence treatment that uses the concept at the introspective channel
 - [[evidential-status-discipline]] — the calibration discipline the concept's use must honour
 - [[topics/consciousness-disruption-and-the-mind-brain-interface]] — the topic article whose §"Discrimination Problem" identifies the asymmetry the concept partially addresses
+- [[inventory-blindness]] — the structurally complementary opacity type: absence-of-signal opacity where anti-correlation is present-but-inverted-signal opacity
+- [[topics/self-stultification-as-master-argument]] — the structural-tier analogue: confidence anti-correlated with truth at the theory-defending level rather than at the experimental-regime level
+- [[cross-cultural-convergence-on-mental-causation]] — the population-tier parallel: Barrett 2021's default-to-intuitive-materialism finding as consistent with a fitness-shaped metacognitive signal at population level
 
 ## References
 

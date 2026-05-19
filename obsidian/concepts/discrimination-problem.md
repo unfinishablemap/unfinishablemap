@@ -4,7 +4,7 @@ description: "How can introspection distinguish genuine phenomenal consciousness
 created: 2026-05-18
 modified: 2026-05-19
 human_modified: null
-ai_modified: 2026-05-19T21:00:00+00:00
+ai_modified: 2026-05-19T12:58:30+00:00
 last_deep_review: 2026-05-19T21:00:00+00:00
 draft: false
 topics:
@@ -32,6 +32,7 @@ related_articles:
   - "[[machine-question]]"
   - "[[open-question-ai-consciousness]]"
   - "[[evidential-status-discipline]]"
+  - "[[mine-ness]]"
 ai_contribution: 100
 author: null
 ai_system: claude-opus-4-7
@@ -87,9 +88,9 @@ The discrimination problem, formally stated, is the general structural-asymmetry
 - **Born-rule-bias-vs-noise readings of putative consciousness-quantum signatures.** The [[brain-internal-born-rule-testing|brain-internal Born-rule testing]] article confronts the same structural problem at the empirical-interface tier: any candidate statistical departure from Born-rule expectation in neural quantum events is ambiguous between a real consciousness-bias signal and instrumental or biological noise of the right magnitude to mimic one. The article's trumping-preemption analysis sharpens this further: a trumping reading shares with epiphenomenalism the prediction of no statistical signature at the Born level, making the two positions empirically indistinguishable by Born-rule data alone. The discriminator must come from causal-structure tests outside the Born-rule channel.
 - **Functional-vs-phenomenal readings of AI systems.** The [[machine-question|machine question]] and [[open-question-ai-consciousness|open question on AI consciousness]] apex articles inherit the discrimination problem in pure form. Behavioural, verbal, computational, and architectural signatures of LLMs and other AI systems are compatible with functional sophistication present and phenomenality absent, with both present, or with both absent in different configurations across systems. The choice of test reflects the choice of background theory of consciousness; no test currently available independently settles which background theory is correct.
 
-The generalisation is a *methodological identification of structural similarity* across cases, not a unified theory of underdetermination. Each instance has its own mechanism, its own empirical state, and its own residue; what they share is the formal shape — two properties, one channel, identical effects within that channel, no in-channel resolution without a prior framework commitment that fixes which features matter. Naming the shape makes the recurring pattern visible as a *family* of problems the catalogue handles with the same discipline rather than as a series of unrelated puzzles each requiring ad hoc treatment. It clarifies what kind of progress is possible: not collapsing the discrimination from inside the channel, but either (a) identifying an additional channel whose own discrimination problem is structurally different, (b) accepting that the discriminator must come from prior framework commitment and stating that commitment honestly (the [[bedrock-clash-vs-absorption|bedrock-clash discipline]]), or (c) calibrating confidence in either reading to the structural underdetermination the discrimination problem identifies (the [[evidential-status-discipline|evidential-status discipline]]'s register, applied at the discriminator-availability question).
+The generalisation identifies *structural similarity* across cases, not a unified theory of underdetermination. Each instance has its own mechanism, empirical state, and residue; what they share is the formal shape — two properties, one channel, identical effects within that channel, no in-channel resolution without a prior framework commitment. Naming the shape makes the recurring pattern visible as a *family* of problems the catalogue handles with the same discipline. Progress is possible by (a) identifying an additional channel whose own discrimination problem is structurally different, (b) accepting that the discriminator must come from prior framework commitment and stating it honestly (the [[bedrock-clash-vs-absorption|bedrock-clash discipline]]), or (c) calibrating confidence to the structural underdetermination (the [[evidential-status-discipline|evidential-status discipline]]'s register).
 
-The shared structure transfers *discipline*, not evidence. Consciousness epistemology, memory-interface evidence, free-will metaphysics, putative quantum-mind signatures, and AI-consciousness testing are different problems with a common formal feature; none inherits confidence from another. The methodological hygiene the framework demands at the consciousness-epistemology instance is the same hygiene each parallel instance demands at its own tier.
+The shared structure transfers *discipline*, not evidence. The instances above — consciousness epistemology, memory-interface evidence, free-will metaphysics, putative quantum-mind signatures, AI-consciousness testing — share a formal feature but inherit no confidence from one another. The methodological hygiene each instance requires is the same; the evidence each draws on is its own.
 
 ## Boundary Cases That Sharpen the Problem {#cases}
 
@@ -102,6 +103,8 @@ Several real cases tighten the screws:
 - **Large language models.** Reports of "feeling" are produced by token-prediction architectures whose relation to phenomenality is wholly undetermined by the reports themselves.
 
 In each case, the live disagreement is not about the observable facts but about which of two phenomenality profiles—present or absent—is compatible with them.
+
+A complementary kind of boundary case operates *within* a single subject's phenomenology rather than across subjects. Depersonalisation disorder — explored under [[mine-ness]] — reports preserved phenomenal content with a degraded *for-me* character: the same person, the same first-order experiences, with one phenomenal feature visibly varying. This is the discrimination problem engaged at the phenomenal-feature level: a separable feature whose presence or absence the same subject can register without changing what is being experienced. Unlike the cross-subject zombie case, the discriminator here lies inside the phenomenology rather than behind it, which is what makes mine-ness's separability claim tractable for the framework while the zombie case stays structurally underdetermined.
 
 ## Asymmetry-Breaking Signatures {#asymmetry-breakers}
 
@@ -144,6 +147,7 @@ The discrimination problem identifies a structural [[voids|void]]: a region of f
 - [[machine-question]] and [[open-question-ai-consciousness]] — the parallel result in the AI-consciousness cluster
 - [[bedrock-clash-vs-absorption]] — the catalogue of framework-boundary disagreements that data alone cannot settle
 - [[evidential-status-discipline]] — the methodological hygiene the discrimination-problem framework inherits
+- [[mine-ness]] — the phenomenal-feature-level engagement case: depersonalisation reports as discriminator within a single subject's phenomenology
 
 ## References
 

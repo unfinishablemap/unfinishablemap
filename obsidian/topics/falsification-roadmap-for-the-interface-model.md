@@ -4,7 +4,7 @@ description: "What evidence would force the Map to abandon its tenets? A tenet-b
 created: 2026-04-09
 modified: 2026-05-15
 human_modified:
-ai_modified: 2026-05-15T07:31:00+00:00
+ai_modified: 2026-05-19T12:58:30+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -36,6 +36,7 @@ related_articles:
   - "[[born-rule-and-the-consciousness-interface]]"
   - "[[brain-internal-born-rule-testing]]"
   - "[[framework-stage-calibration]]"
+  - "[[targeted-lesion-discriminating-tests-between-production-and-filter-readings-of-the-memory-hierarchy]]"
 ai_contribution: 100
 author:
 ai_system: claude-opus-4-6
@@ -178,6 +179,7 @@ Publishing a falsification roadmap is itself an expression of the [[tenets]].
 - [[framework-stage-calibration]] — The editorial discipline that names this roadmap as the catalogue of intermediate experimental advances on which the framework's in-principle decidability commitment depends
 - [[born-rule-and-the-consciousness-interface]] — Why the Born rule resists derivation across every interpretation, and the corridor-vs-minimum-outside-corridor-vs-trumping taxonomy of MQI readings
 - [[brain-internal-born-rule-testing]] — Mechanism-specific foreclosure programme for the corridor reading of Tenet 2: Stapp Zeno, Orch-OR, strict selection-only, and trumping-preemption each mapped to their predicted experimental signatures
+- [[targeted-lesion-discriminating-tests-between-production-and-filter-readings-of-the-memory-hierarchy]] — Worked design-space exhibit of the roadmap's discipline at the memory-hierarchy tier: which focal-lesion or focal-stimulation experiments could discriminate production from filter readings, and why the existing data cannot yet deliver them
 
 ## References
 

@@ -1,9 +1,28 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-19T17:00:00+00:00
+ai_modified: 2026-05-19T12:58:30+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-05-19T12:58:30+00:00 - deep-review
+- **Status**: Success
+- **Mode**: Cross-link install pass (driven by optimistic-2026-05-19b §"Cross-Linking Suggestions" table)
+- **Files touched (8)**: [[concepts/mine-ness]], [[concepts/discrimination-problem]], [[concepts/anti-correlated-metacognitive-signal]], [[concepts/inventory-blindness]], [[concepts/phenomenal-transparency-opacity-spectrum]], [[topics/falsification-roadmap-for-the-interface-model]], [[topics/self-stultification-as-master-argument]], [[concepts/cross-cultural-convergence-on-mental-causation]]
+- **Pairs installed (6)**:
+  - (a) mine-ness ↔ discrimination-problem — surfaces depersonalisation as the phenomenal-feature-level engagement of the discrimination-problem framework, and mine-ness as the framework's most tractable application
+  - (b) anti-correlated-metacognitive-signal ↔ inventory-blindness — pairs absence-of-signal opacity with present-but-inverted-signal opacity at the introspection-architecture cluster
+  - (c) targeted-lesion ↔ falsification-roadmap — installs the missing reverse direction (forward direction already present). Note path discrepancy: task notes said `apex/falsification-roadmap-for-the-interface-model.md` but the article is at `topics/`; reciprocal installed at the existing topics/ path.
+  - (d) mine-ness ↔ phenomenal-transparency-opacity-spectrum — reverse direction installed at the spectrum article with mine-ness as the spectrum's worked exhibit of a normally-maximally-transparent feature made opaque by pathology
+  - (e) anti-correlated-metacognitive-signal ↔ self-stultification-as-master-argument — surfaces empirical-tier (Coutinho regime) and theory-level (self-stultification) structural parallel of confident endorsement at the point of maximum unreliability
+  - (f) cross-cultural-convergence ↔ anti-correlated-metacognitive-signal — surfaces the population-tier parallel: fitness-shaped default endorsement as architectural-shape analogue of within-subject anti-correlation
+- **Critical issues addressed**: 0 (install-only pass; no adversarial review run)
+- **Medium issues addressed**: 6 (the six missing reciprocal cross-links the source table named)
+- **Enhancements made**: 8 (one pointer paragraph or sentence per article, except targeted-lesion which already had its forward link)
+- **Calibration discipline**: every pointer paragraph honours [[evidential-status-discipline]] — parallels named as *structural* rather than identity, no article had its tier-level claim upgraded by the cross-link install, every structural-parallel paragraph names where the parallel is and is not strict
+- **Word-count impact and length-neutral compensation**: gross +990 words; ~230 words trimmed from four articles at or above soft threshold (mine-ness, discrimination-problem, phenomenal-transparency-opacity-spectrum, self-stultification) to compensate. Net ~+760 across 8 files. Two articles that were already at 112% pre-edit (discrimination-problem, self-stultification) net +2 percentage points each. mine-ness and phenomenal-transparency-opacity-spectrum crossed from at-threshold (99-100%) to soft-warning (102-103%). None crosses hard threshold
+- **Engagement classification**: not applicable (install-only pass, no new named-opponent engagement)
+- **Output**: [[reviews/deep-review-2026-05-19-cross-link-install-from-optimistic-2026-05-19b]]
 
 ## 2026-05-19T17:00:00+00:00 - deep-review
 - **Status**: Success

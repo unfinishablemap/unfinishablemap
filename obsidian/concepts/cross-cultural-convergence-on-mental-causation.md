@@ -4,7 +4,7 @@ description: "Independent philosophical traditions across India, Africa, and the
 created: 2026-02-23
 modified: 2026-02-23
 human_modified:
-ai_modified: 2026-05-19T07:39:07+00:00
+ai_modified: 2026-05-19T12:58:30+00:00
 draft: false
 topics:
   - "[[indian-philosophy-of-mind]]"
@@ -27,6 +27,7 @@ related_articles:
   - "[[interaction-problem-across-traditions]]"
   - "[[intuitive-dualism]]"
   - "[[fitness-beats-truth]]"
+  - "[[anti-correlated-metacognitive-signal]]"
 ai_contribution: 100
 author:
 ai_system: claude-opus-4-6
@@ -77,6 +78,8 @@ Beyond the general agreement that mind causes physical effects, the traditions c
 
 **The common cognitive architecture objection.** Perhaps convergence reflects shared features of human cognition rather than shared truth. Humans may be, as Paul Bloom suggests in *Descartes' Baby* (2004), "natural-born dualists" whose cognitive architecture predisposes them toward mental causation beliefs. However, Barrett et al.'s 2021 cross-cultural study across six populations found that most participants defaulted to [[intuitive-dualism|intuitive materialism]]—expecting mental states to cease at bodily death—not to intuitive dualism. (Barrett et al. measured afterlife intuitions rather than mental causation intuitions directly, but the two are closely linked: both concern whether mind operates independently of the body.) Barlev and Shtulman (2021) argue that dualist conceptions are culturally learned rather than innate. The [[fitness-beats-truth|Fitness-Beats-Truth theorem]] deepens this finding: if natural selection systematically favours fitness-tuned perception over veridical perception, then the default intuitive materialism may itself be a fitness-shaped bias rather than a truth-tracking one. Philosophical traditions that investigated consciousness carefully arrived at mental causation *despite* starting from materialist intuitions shaped by evolutionary pressures—making the convergence an achievement against the cognitive grain, not an expression of it. More importantly, these philosophical traditions go far beyond naive intuition—they develop sophisticated arguments that engage counterarguments and refine positions over centuries.
 
+The Barrett finding fits a structural parallel that surfaces in another part of the catalogue. The [[anti-correlated-metacognitive-signal]] concept names a within-subject pattern: in regimes where internal evidence is weak and deceptive external cues are available, metacognitive endorsement can be anti-correlated with accuracy. The population-tier analogue is *fitness-shaped* default endorsement of intuitive materialism: the introspective sense of "what consciousness must be" tracks evolutionary fitness rather than the truth of consciousness's nature, with the population default carrying the metacognitive endorsement (it *feels* right that mind ceases at bodily death) while the careful philosophical investigation arrives at the opposite conclusion. The parallel is structural rather than strict identity — one is a regime-conditional experimental signature, the other a population-level pattern — but the architectural shape is the same: confident endorsement at the point where the load-bearing variable is *fitness*, not accuracy.
+
 **The selection bias objection.** We notice traditions that endorse mental causation and ignore those that deny it. Some traditions—notably certain Buddhist schools (particularly Mādhyamaka) and the Cārvāka materialists of India—reject or complicate the picture. This is a genuine limitation. The convergence is not universal but predominant: most traditions that seriously investigate the mind-body relationship conclude that consciousness is causally efficacious.
 
 **The conceptual translation problem.** *Puruṣa*, *okra*, and Cartesian *res cogitans* are not identical concepts. Treating them as converging on "mental causation" may impose Western categories on traditions with fundamentally different conceptual schemes. This objection has force—but the convergence operates at a level of abstraction above specific conceptual frameworks. The shared claim is functional: something non-physical participates in causing physical effects. The traditions disagree about the precise metaphysics while agreeing on this functional point.
@@ -103,6 +106,7 @@ The [[tenets#^occams-limits|Occam's Razor Has Limits tenet]] is also relevant. T
 - [[intuitive-dualism]]
 - [[causal-closure]]
 - [[fitness-beats-truth]] — Why the default materialist intuition may be fitness-shaped rather than truth-tracking
+- [[anti-correlated-metacognitive-signal]] — The within-subject regime-conditional version of the structural pattern: confidence anti-correlated with accuracy, parallel to the population-tier fitness-shaped default
 
 ## References
 

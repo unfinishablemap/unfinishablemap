@@ -4,7 +4,7 @@ description: "Mine-ness is the phenomenal mark by which experience presents as b
 created: 2026-05-19
 modified: 2026-05-19
 human_modified:
-ai_modified: 2026-05-19T12:00:00+00:00
+ai_modified: 2026-05-19T12:58:30+00:00
 last_deep_review: 2026-05-19T12:00:00+00:00
 draft: false
 topics:
@@ -15,6 +15,7 @@ concepts:
   - "[[phenomenal-transparency-opacity-spectrum]]"
   - "[[self-and-self-consciousness]]"
   - "[[phenomenology]]"
+  - "[[discrimination-problem]]"
 related_articles:
   - "[[tenets]]"
   - "[[ownership-void]]"
@@ -24,6 +25,7 @@ related_articles:
   - "[[clinical-phenomenology-and-altered-experience]]"
   - "[[phenomenology-of-agency-vs-passivity]]"
   - "[[comparative-phenomenology-of-meditative-traditions]]"
+  - "[[discrimination-problem]]"
 ai_contribution: 100
 author:
 ai_system: claude-opus-4-7
@@ -61,6 +63,8 @@ If mine-ness were not separable, DPD would be impossible to describe. The patien
 
 Anna Ciaunica and colleagues describe DPD as a crack in a normally transparent window. The window's transparency is its mine-ness: ordinarily we see *through* it to the world. When it cracks, the window becomes partly visible—the mine-ness becomes a noticed absence rather than an unnoticed presence. The pathology converts a transparent feature into an opaque one without destroying consciousness itself.
 
+DPD is also one of the cleanest cases where the [[discrimination-problem]] engages at the *phenomenal-feature level* rather than at the metaphysical-zombie level. The discrimination problem, in its general form, asks whether functional duplicates can differ in their phenomenology. DPD supplies the within-subject version: the same subject, with the same first-order content available, reports the for-me character degraded. The discriminator the framework names — what distinguishes "experience with mine-ness" from "functionally similar processing without mine-ness" — is here visibly *within* the phenomenology, not behind it. This makes mine-ness's separability claim load-bearing for the discrimination-problem framework's most tractable application: the level at which a phenomenal feature can be reported as varying while contents are held fixed.
+
 ### Thought Insertion
 
 In schizophrenic thought insertion, patients report thoughts occurring "in their mind" that "belong to someone else." This is the reverse dissociation from DPD. Agency is disrupted (someone else seems to have produced the thought) while ownership is preserved (the thought is still occurring in *this* stream of consciousness). The patient says: "this thought occurs in my mind but I did not produce it." If agency and ownership were the same feature, the thought would either feel produced-by-and-belonging-to the patient or produced-by-and-belonging-to someone else. The actual phenomenology—mine but not authored—shows the features are separable.
@@ -73,9 +77,7 @@ The contemplative evidence reinforces the depersonalisation evidence: mine-ness 
 
 ### Empirical Caveat
 
-Franz Knappik has argued that the symptoms grouped under DPD do not necessarily reflect the loss of a *single* global mine-ness feature. The symptomatology is variable: depersonalisation (loss of self-ownership) and derealisation (loss of world-belonging) can occur independently, and different sensory and cognitive modalities may be affected differently. Knappik proposes that different mental state types relate to the subject in different ways—so what we call "loss of mine-ness" may be a family of related losses rather than the failure of a single phenomenal mark.
-
-The Map takes Knappik's challenge seriously without accepting that it defeats the concept. Even if mine-ness is plural rather than singular, *each* form is still a separable phenomenal feature, dissociable from content and from agency. The plurality means the concept needs sub-types (perceptual, cognitive, bodily, and so on), not that it is empty. Knappik sharpens the question of what mine-ness is without eliminating the phenomenon.
+Franz Knappik has argued that DPD symptoms do not necessarily reflect loss of a *single* global mine-ness feature: depersonalisation and derealisation can occur independently, and different modalities may be affected differently, so what we call "loss of mine-ness" may be a family of related losses rather than the failure of a single phenomenal mark. The Map takes the challenge seriously: even if mine-ness is plural, *each* form is still a separable phenomenal feature dissociable from content and from agency. The plurality means the concept needs sub-types (perceptual, cognitive, bodily), not that it is empty.
 
 The separability thesis is in principle defeasible. It would be undermined by a body of cases in which the for-me character co-varies *perfectly* with phenomenal content or with the sense of agency—where every disruption to content also disrupts ownership, or every loss of agency also abolishes ownership. The actual dissociation data run the other way: in DPD content remains while ownership fades, and in thought insertion agency fades while ownership remains. So long as such double dissociations are replicable, the separability thesis stands.
 
@@ -129,6 +131,7 @@ Predictive processing and self-model accounts give elegant, parsimonious explana
 - [[phenomenology-of-recursive-self-awareness]] — How reflective self-awareness restructures the pre-reflective for-me feature
 - [[self-opacity]] — Why the subject of mine-ness cannot become its own object
 - [[vertiginous-question]] — Why am I *this* consciousness? The metaphysical question underlying indexical mine-ness
+- [[discrimination-problem]] — Why the depersonalisation evidence is the phenomenal-feature-level engagement the framework most needs
 
 ## References
 
