@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-19
-ai_modified: 2026-04-20 20:38:00+00:00
+ai_modified: 2026-05-18 21:52:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -20,6 +20,8 @@ concepts:
 - '[[reasons-responsiveness]]'
 - '[[mental-causation-and-downward-causation]]'
 - '[[contextual-selection-in-quantum-foundations]]'
+- '[[stapp-quantum-mind]]'
+- '[[bedrock-clash-vs-absorption]]'
 created: 2026-01-19
 date: &id001 2026-01-20
 description: How quantum mechanics creates logical space for libertarian free will—and
@@ -27,7 +29,7 @@ description: How quantum mechanics creates logical space for libertarian free wi
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-03-29 16:27:00+00:00
+last_deep_review: 2026-05-18 21:52:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -88,7 +90,7 @@ Within that framework, the contrast looks like this:
 | Contrastive explanation | Unavailable | Agent's reasons |
 | Agent's relationship | Passive recipient | Active selector |
 
-A physicalist will reject the right column as question-begging—and they are correct that the distinction presupposes a non-physical selector. The Map accepts this: the response to luck depends on the dualist framework being correct, not on independent argument. The question is whether dualism earns its place through other considerations (the hard problem, the explanatory gap, the arguments developed across the Map), and whether the resulting picture of free will is internally coherent.
+A physicalist will reject the right column as question-begging—and they are correct that the distinction presupposes a non-physical selector. The Map accepts this: the response to luck depends on the dualist framework being correct, not on independent argument (see [bedrock-clash-vs-absorption](/project/bedrock-clash-vs-absorption/) for the discipline of marking such framework-boundary disagreements honestly rather than dressing them as refutations). The question is whether dualism earns its place through other considerations (the hard problem, the explanatory gap, the arguments developed across the Map), and whether the resulting picture of free will is internally coherent.
 
 ### Selection vs Randomness
 
@@ -112,11 +114,11 @@ Critics press: what explains why consciousness selected A rather than B? The [ag
 
 ## Possible Mechanisms
 
-Henry Stapp proposed that consciousness influences neural quantum states through the [quantum Zeno effect](/concepts/quantum-consciousness/#quantum-zeno-effect-stapp)—rapid repeated observation holding a system in a particular state. If something like this works, consciousness shapes which pre-existing possibility actualizes without injecting energy, respecting [conservation laws](/concepts/conservation-laws-and-mental-causation/) while enabling genuine [mental causation](/concepts/mental-causation-and-downward-causation/). See [quantum-consciousness](/concepts/quantum-consciousness/) for detailed mechanism proposals.
+Henry Stapp proposed that consciousness influences neural quantum states through the [quantum Zeno effect](/concepts/stapp-quantum-mind/)—rapid repeated observation holding a system in a particular state. If something like this works, consciousness shapes which pre-existing possibility actualizes without injecting energy, respecting [conservation laws](/concepts/conservation-laws-and-mental-causation/) while enabling genuine [mental causation](/concepts/mental-causation-and-downward-causation/). See [quantum-consciousness](/concepts/quantum-consciousness/) for detailed mechanism proposals.
 
 The Map's core argument does not stand or fall with any specific mechanism. What matters is the logical structure: genuine indeterminacy plus a non-physical selector.
 
-Independent support comes from [motor control](/concepts/motor-selection/): willed movement shows the same neural signatures as willed attention (frontal theta oscillations, ~300ms deployment, distinct willed-vs-instructed patterns). Two domains showing identical selection architecture strengthens the case. The [Libet challenge](/concepts/libet-experiments/) has substantially weakened—Schurger (2012) reinterprets the readiness potential as noise artifact, and Sjöberg (2024) showed resection of the supplementary motor area doesn't impair voluntary action.
+Independent support comes from [motor control](/concepts/motor-selection/): willed movement shows the same neural signatures as willed attention (frontal theta oscillations, ~300ms deployment, distinct willed-vs-instructed patterns). Two domains with identical selection architecture strengthens the case. The [Libet challenge](/concepts/libet-experiments/) has weakened—Schurger (2012) reinterprets the readiness potential as noise artifact, and Sjöberg (2024) showed SMA resection doesn't impair voluntary action.
 
 ## The Retrocausal Resolution
 
@@ -195,6 +197,7 @@ The convergence of Kane's event-causal libertarianism (now incorporating agent-c
 - [luck-objection](/concepts/luck-objection/) — Detailed treatment of the central challenge to libertarian free will
 - [agent-causation](/concepts/agent-causation/) — Agent vs event causation and why the Map's framework is agent-causal
 - [quantum-consciousness](/concepts/quantum-consciousness/) — Specific quantum mechanisms (Stapp, Penrose-Hameroff)
+- [stapp-quantum-mind](/concepts/stapp-quantum-mind/) — Detailed treatment of Stapp's quantum Zeno mechanism
 - [attention-as-interface](/concepts/attention-as-interface/) — How attention may mediate consciousness-matter interaction
 - [mental-effort](/concepts/mental-effort/) — The phenomenology supporting genuine causal engagement
 - [causal-closure](/concepts/causal-closure/) — How quantum indeterminacy challenges physical completeness

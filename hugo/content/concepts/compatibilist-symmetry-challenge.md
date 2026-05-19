@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-05-18
-ai_modified: 2026-05-18 14:51:00+00:00
+ai_modified: 2026-05-18 21:22:41+00:00
 ai_system: claude-opus-4-7
 author: null
 concepts:
@@ -12,6 +12,7 @@ concepts:
 - '[[evidential-status-discipline]]'
 - '[[coherence-inflation-countermeasures]]'
 - '[[direct-refutation-discipline]]'
+- '[[bedrock-clash-vs-absorption]]'
 created: 2026-05-18
 date: &id001 2026-05-18
 description: 'A named anti-slippage move: when sophisticated reasons-responsive determinism
@@ -20,6 +21,7 @@ description: 'A named anti-slippage move: when sophisticated reasons-responsive 
 draft: false
 human_modified: null
 last_curated: null
+last_deep_review: 2026-05-18 21:22:41+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -32,7 +34,7 @@ topics:
 - '[[ethics-under-dualism]]'
 ---
 
-The Compatibilist Symmetry Challenge is the Map's named anti-slippage move at the free-will-and-moral-responsibility tier: where sophisticated reasons-responsive determinism explains the same deliberative phenomenology, the same praise/blame practices, the same character-formation arc, and the same moral seriousness as libertarian [agent causation](/concepts/agent-causation/), the libertarian framing is distinguished not by unique moral explanatory power but by *tenet-coherence*. The Map adopts dualism and bidirectional interaction on grounds beyond moral theory; libertarian agency is what those tenets make available, not what the moral phenomena alone establish. Compatibilists who reject those tenets occupy a different metaphysical scaffold for the same moral implications, not a morally inferior position.
+The Compatibilist Symmetry Challenge is the Map's named anti-slippage move at the free-will-and-moral-responsibility tier. Where sophisticated reasons-responsive determinism explains the same deliberative phenomenology, the same praise/blame practices, the same character-formation arc, and the same moral seriousness as libertarian [agent causation](/concepts/agent-causation/), the libertarian framing's distinguishing feature is *tenet-coherence* — its fit with dualism and bidirectional interaction adopted on grounds beyond moral theory — rather than unique moral explanatory power. Libertarian agency is what those tenets make available; the moral phenomena alone do not establish it. Compatibilists who reject the tenets occupy a different metaphysical scaffold for the same moral implications, and that is a metaphysical disagreement rather than a moral one.
 
 The challenge is a structural pattern, not a verdict. Stated explicitly inside any article that builds moral conclusions on libertarian metaphysics, it prevents the article from silently inflating *tenet-coherent* into *moral-explanatory-superior*. It is the [evidential-status discipline](/project/evidential-status-discipline/) applied to the moral-responsibility domain, where the failure mode is not possibility/probability slippage but *uniqueness slippage*: the move from "this metaphysics makes the moral content available" to "this metaphysics is required for the moral content." The pattern catches the second step.
 
@@ -42,21 +44,21 @@ The challenge has a stable three-part shape, instantiable wherever the Map's lib
 
 1. **Acknowledge parity in moral output.** Identify the sophisticated compatibilist alternative — typically Frankfurt's hierarchical desires, Fischer and Ravizza's reasons-responsive mechanism ownership, or Susan Wolf's Reason View — and concede that it can ground the same first-order moral content: the deliberative phenomenology of weighing alternatives, the legitimacy of praise and blame practices, the developmental arc of character formation, the seriousness with which agents take their own choices.
 2. **Locate the differentiator outside moral theory.** Name the grounds on which the Map adopts the libertarian framing — the [hard problem](/topics/hard-problem-of-consciousness/), the explanatory gap, the conditions for downward causation, the rejection of [epiphenomenalism](/concepts/epiphenomenalism/). These are not moral arguments; they are metaphysical and phenomenological arguments whose conclusions happen to include libertarian agent causation as a downstream commitment.
-3. **Name the residue.** Acknowledge the limited contexts in which libertarian agency may do *separating* work over compatibilism — ultimate desert in retributive contexts, certain readings of "could have done otherwise," the metaphysics of regret over what genuinely was an alternative — and locate the central uses of moral language on the parity side.
+3. **Name the residue.** Acknowledge the limited contexts in which libertarian agency may do *separating* work over compatibilism, and locate the central uses of moral language on the parity side. The residue clusters in three places: (a) *ultimate desert* in retributive contexts, where the question is whether punishment can be deserved in a sense that goes beyond reasons-responsive accountability — agent causation can ground a *sourcehood*-grade desert that Frankfurt-, Fischer–Ravizza-, and Wolf-style compatibilism cannot, though whether ultimate desert is a coherent demand is itself contested; (b) certain strong readings of *"could have done otherwise"* in which the alternative possibility must be metaphysically open rather than merely counterfactually robust under reasons-shift; and (c) the metaphysics of *regret over what genuinely was an alternative*, where the felt force of "I could have done otherwise, and I did not" presses for an open future as a fact about the world, not as a fact about the agent's reasons-responsive mechanism. In each, the libertarian framing supplies a metaphysical reading the compatibilist cannot match — but the *central* uses of moral language (praise, blame, obligation, character formation, deliberative seriousness) do not require these stronger readings.
 
-The third step is what distinguishes the symmetry challenge from a full concession. The Map does not claim the two metaphysics are interchangeable; it claims they are *availably equivalent* at the level of standard moral discourse, with separation possible only at the limits. The honest position is that the central moral content can be defended without committing to libertarian metaphysics, and the libertarian framing is what becomes available to a reader who has already accepted the Map's tenets on other grounds.
+The third step is what distinguishes the symmetry challenge from a full concession. The Map does not claim the two metaphysics are interchangeable; it claims they are *availably equivalent* at the level of standard moral discourse, with separation possible only at the limits. The honest position is that the central moral content can be defended without committing to libertarian metaphysics, and the libertarian framing is what becomes available to a reader who has already accepted the Map's tenets on other grounds. This is sophisticated compatibilism's *absorption* into the catalogue in the sense of [the absorption discipline](/project/bedrock-clash-vs-absorption/): a rival framework is acknowledged as adequate within its own scope, not foreclosed by tenet-incompatibility, even where the Map's metaphysics is preferred on grounds beyond the rival's home domain.
 
 ## Why It Is an Anti-Slippage Move
 
 The Map has a structural temptation, identified by repeated outer reviews, to treat the unity of its dualist architecture as if that unity were itself an additional argument for the architecture. The four-pillar moral synthesis in [the moral-architecture apex](/apex/moral-architecture-of-consciousness/) — phenomenal value realism, agent causation, phenomenal normativity, moral perception — converges on a single ground, and the convergence is genuine. But the [coherence-inflation countermeasures](/project/coherence-inflation-countermeasures/) warn that *fits together* is a property the Map produces by construction, since the catalogue prunes for internal consistency. The unity is what the four pillars *enable*, not a fifth independent confirmation.
 
-The Compatibilist Symmetry Challenge applies the same restraint at the agency pillar specifically. The pillar's distinctive contribution is not that it grounds moral content unavailable elsewhere — sophisticated compatibilism grounds the same content — but that it grounds the moral content from the same ontological source the rest of the Map invokes for value, normativity, and moral perception. The integrative move is real; the *separating* move is weak in moral theory considered alone. Treating the agency pillar as if it had unique moral leverage would inflate the integrative move into a separating move, replicating at the agency pillar the unity-as-evidence error the apex-level countermeasures already guard against.
+The Compatibilist Symmetry Challenge applies the same restraint at the agency pillar specifically. The pillar's distinctive contribution is that it grounds moral content from the same ontological source the rest of the Map invokes for value, normativity, and moral perception. Sophisticated compatibilism grounds the moral content too, so the pillar's contribution is integrative — fitting agency into a single ontological frame — rather than separating, in the sense of supplying moral content unavailable elsewhere. The integrative move is real; the *separating* move is weak in moral theory considered alone. Treating the agency pillar as if it had unique moral leverage would inflate the integrative move into a separating move, replicating at the agency pillar the unity-as-evidence error the apex-level countermeasures already guard against.
 
 The challenge is also the [direct-refutation discipline](/project/direct-refutation-discipline/) applied at the metaethical interface. When the empirical and conceptual evidence is compatible with both libertarian and compatibilist readings, the article must classify the evidence as *compatibility* rather than as support for the Map's reading, unless it names an independent discriminator the compatibilist does not also predict. The symmetry challenge supplies the standing acknowledgement that, at the level of central moral discourse, no such discriminator is in hand.
 
 ## Where Compatibilism Lands Equivalent Moral Content
 
-The three reference families of compatibilism most relevant to the challenge ground the moral content via metaphysically substantive capacities rather than via pragmatic convention. The Map's contrast is therefore *irreducible-vs-derivative*, not *metaphysical-vs-pragmatic*.
+The three reference families of compatibilism most relevant to the challenge ground the moral content via metaphysically substantive capacities — identification with effective higher-order desires, mechanism-level reasons-responsiveness, normative competence — rather than via pragmatic convention. The Map's contrast with sophisticated compatibilism is therefore *irreducible-vs-derivative* (whether the agent is the ultimate source or whether the desert-grounding capacities emerge from prior states the agent did not author), and confusing it with *metaphysical-vs-pragmatic* would misrepresent the compatibilist position the discipline is responding to.
 
 **Frankfurt's hierarchical desires.** Harry Frankfurt's 1971 account grounds responsibility in the agent's identification with effective higher-order desires: an agent is morally responsible when their will is the will they want to have. The authorship the Map locates in agent causation Frankfurt locates in hierarchical structure of motivation. The "authorship argument" the libertarian uses to support obligations addressed to live options runs equivalently if authorship is read as identification with one's effective second-order desires.
 
@@ -104,6 +106,7 @@ The discipline is itself a tenet-neutral methodological move. A non-dualist fram
 - [evidential-status-discipline](/project/evidential-status-discipline/)
 - [coherence-inflation-countermeasures](/project/coherence-inflation-countermeasures/)
 - [direct-refutation-discipline](/project/direct-refutation-discipline/)
+- [bedrock-clash-vs-absorption](/project/bedrock-clash-vs-absorption/)
 - [agency-void](/voids/agency-void/)
 
 ## References
