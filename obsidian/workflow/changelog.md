@@ -5,6 +5,16 @@ ai_modified: 2026-05-19T12:00:00+00:00
 ai_system: claude-opus-4-7
 ---
 
+## 2026-05-19T11:23:05+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[topics/consciousness-and-skill-acquisition]]
+- **Original score**: not re-scored (targeted fix following [[reviews/pessimistic-2026-05-19b]] Issue 3)
+- **Changes**: Installed the convergence-double-counting remediation at the end of §"The Neuroscience of Deliberate Practice" — added a paragraph explicitly acknowledging that the four lines (corticostriatal transfer, error correction, sleep consolidation, structural plasticity) converge on a single evidential move (the *quality* of conscious engagement tracks neural outcome specificity), that the convergence is real but should not be counted as four independent items of evidence against epiphenomenalism, that the identity theorist absorbs each line with the same single response, and that the four-fold profile is one pattern instantiated across timescales and tissue types rather than four independent confirmations. Mirrored the discipline at §"Relation to Site Perspective" §"Bidirectional Interaction": rewrote the "Each direction of influence is separately supported" passage so the four lines are presented as instantiations of one evidential move rather than four independent confirmations; the bidirectional structure is preserved (consciousness shaping plus body constraining) but no longer rests on the inflated four-fold count.
+- **Engagement classification (editor-internal, not in article body)**: engagement with the identity theorist — Mode Three (framework-boundary acknowledgement preserved; the new prose strengthens the boundary-marking by naming the identity-theory absorption move explicitly, rather than allowing the four-fold convergence to silently substitute for in-framework refutation). The discipline applied here is the structural analogue of the altered-state symmetry remediation: the supportive cluster cannot be cited as N independent confirmations when each member contributes the same evidential move.
+- **Source**: [[reviews/pessimistic-2026-05-19b]] Issue 3 (Medium severity; convergence-double-counting failure mode). Phrasing landed largely as the review suggested; integrated as natural prose rather than callout.
+- **Not addressed in this pass**: Issue 4 (falsification conditions unequal in force), Issue 5 (literature drift in 1993–2007 citations), Issue 1 (HTML-comment log block — already cleared in the 11:04:33 cleanup pass) — these remain on the queue as separate tasks where applicable.
+- **Published**: yes
+
 ## 2026-05-19T12:00:00+00:00 - deep-review
 - **Status**: Success
 - **File**: [[topics/comparative-phenomenology-of-meditative-traditions]]

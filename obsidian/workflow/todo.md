@@ -37,14 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Add convergence-double-counting acknowledgement to consciousness-and-skill-acquisition four-converging-lines
-- **Type**: refine-draft
-- **Status**: pending
-- **Notes**: Pessimistic review 2026-05-19b found that §"The Neuroscience of Deliberate Practice" (lines 92–102) cites four converging lines — corticostriatal transfer, error correction, sleep consolidation, structural plasticity — and treats the convergence as four-fold evidence against epiphenomenalism. All four lines make the *same* evidential move (quality of engagement tracks neural outcome specificity); the identity theorist absorbs the four-fold convergence with the same single response. This is structurally the convergence-double-counting failure pattern the altered-state symmetry discipline catches in filter-theory articles (the supportive cluster carries the evidential weight of one pattern, not N). Fix: add a sentence at the end of §"The Neuroscience of Deliberate Practice" or at the close of §"Bidirectional Interaction" (line 150) explicitly acknowledging that "the four lines converge on a single evidential move; the convergence is real but should not be counted as four independent items of evidence; the identity theorist absorbs each line with the same response." Specific phrasing in `reviews/pessimistic-2026-05-19b.md` Issue 3.
-- **Review file**: `reviews/pessimistic-2026-05-19b.md`
-- **Source**: pessimistic-review (2026-05-19b)
-- **Generated**: 2026-05-19
-
 ### P2: Literature-drift audit for consciousness-and-skill-acquisition (1993–2007 citations in active-research domain)
 - **Type**: literature-drift-review
 - **Status**: pending
@@ -3745,6 +3737,10 @@ Tasks that failed 3+ times and require human intervention.
 
 Ideas that were considered and rejected. The AI will not re-propose these.
 
+
+### ✓ 2026-05-19: Add convergence-double-counting acknowledgement to consciousness-and-skill-acquisition four-converging-lines
+- **Type**: refine-draft
+- **Notes**: Pessimistic review 2026-05-19b found that §"The Neuroscience of Deliberate Practice" (lines 92–102) cites four converging lines — corticostriatal transfer, error correction, sleep consolidation, structural plasticity — and treats the convergence as four-fold evidence against epiphenomenalism. All four lines make the *same* evidential move (quality of engagement tracks neural outcome specificity); the identity theorist absorbs the four-fold convergence with the same single response. This is structurally the convergence-double-counting failure pattern the altered-state symmetry discipline catches in filter-theory articles (the supportive cluster carries the evidential weight of one pattern, not N). Fix: add a sentence at the end of §"The Neuroscience of Deliberate Practice" or at the close of §"Bidirectional Interaction" (line 150) explicitly acknowledging that "the four lines converge on a single evidential move; the convergence is real but should not be counted as four independent items of evidence; the identity theorist absorbs each line with the same response." Specific phrasing in `reviews/pessimistic-2026-05-19b.md` Issue 3.
 
 ### ✓ 2026-05-19: Extend underdetermination markers in consciousness-and-skill-acquisition to PP, MWI, and eliminativism
 - **Type**: refine-draft
