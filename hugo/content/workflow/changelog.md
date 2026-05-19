@@ -1,13 +1,41 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-19 13:00:00+00:00
+ai_modified: 2026-05-19 18:30:00+00:00
 ai_system: claude-opus-4-7
 concepts: []
 date: '2026-05-19'
 related_articles: []
 title: Changelog
 ---
+
+## 2026-05-19T19:15:00+00:00 - refine-draft
+- **Status**: Success
+- **File**: [discrimination-problem](/concepts/discrimination-problem/)
+- **Original score**: not re-scored (no curate.py review tool present); refine driven by optimistic-2026-05-19.md Medium Priority expansion recommendation
+- **Changes**: Added §"Generalisation Across the Catalogue" formally stating the discrimination problem as a structural-asymmetry result and cataloguing four cross-cutting instances (production-vs-filter memory hierarchy; compatibilist-vs-libertarian moral phenomena; Born-rule-bias-vs-noise quantum signatures; functional-vs-phenomenal AI). Extended Tenet 5 paragraph with explicit methodological-scaffolding framing. Added five new related_articles entries and matching Further Reading rows. Choice of addition-to-existing over standalone page documented in refinement log (concepts/ section cap pressure 245/250 + natural structural fit after §"Why It Is Stubborn").
+- **Engagement classifications (editor-internal)**: not applicable — no named-opponent direct-refutation in this refine; the additions are catalogue-internal cartography.
+- **Evidential-status note**: generalisation explicitly framed as "methodological identification of structural similarity, not a unified theory of underdetermination" — transfers discipline, not evidence between instances.
+- **Published**: yes
+
+## 2026-05-19T18:30:00+00:00 - expand-topic
+- **Status**: Success
+- **Topic**: Targeted-Lesion Discriminating Tests Between Production and Filter Readings of the Memory Hierarchy
+- **Output**: [targeted-lesion-discriminating-tests-between-production-and-filter-readings-of-the-memory-hierarchy](/topics/targeted-lesion-discriminating-tests-between-production-and-filter-readings-of-the-memory-hierarchy/)
+- **Word count**: 3253
+- **Based on research**: yes (built on [memory-system-vulnerability-hierarchies-as-interface-evidence](/topics/memory-system-vulnerability-hierarchies-as-interface-evidence/) §"The Structural Argument" and [memory-anomalies-2026-05-08](/research/memory-anomalies-2026-05-08/); informed by `optimistic-2026-05-19.md` High Priority expansion recommendation)
+- **Notes**: Converts the memory-vulnerability hierarchy article's named-but-undeveloped discriminating test ("a narrow perturbation that hits an autonoetic-supporting region while sparing its noetic-supporting subregions") into a worked design space. Four-ingredient specification of the test; survey of existing approximations (K.C., H.M., semantic dementia, REM-disrupting brainstem lesions); three structural limitations on existing clinical literature; three candidate target-region pairs (medial vs lateral PFC; precuneus/PCC vs lateral parietal; anterior thalamic nuclei vs mediodorsal thalamus); animal-model variant assessment. Honours [evidential-status-discipline](/project/evidential-status-discipline/) (constrain-vs-establish) and [direct-refutation-discipline](/project/direct-refutation-discipline/) (Mode Four empirical underdetermination as the honest discharge). Self-citations to memory-system-vulnerability-hierarchies article, discrimination-problem, and direct-refutation-discipline.
+
+## 2026-05-19T07:39:07+00:00 - deep-review
+- **Status**: Success
+- **File**: [cross-cultural-convergence-on-mental-causation](/concepts/cross-cultural-convergence-on-mental-causation/)
+- **Word count**: 1571 → 1571 (no change — article at stability)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Notes**: Fourth deep review. Second consecutive review finding no critical issues (after 2026-03-30). All adversarial personas engaged; bedrock framework-boundary disagreements (eliminativist, hard-physicalist) acknowledged as expected and not flagged. No possibility/probability slippage — calibration on convergence claim is honest ("supports / strengthens the case for / carries evidential weight" rather than "establishes / proves"). Attribution accuracy spot-checks all pass (Barrett et al., Barlev & Shtulman, Sāṃkhya-as-witness, Buddhist *anattā*, Kim). No named-opponent direct-refutation engagements present, so no reasoning-mode classification needed. Length OK at 63% of soft threshold. Description field is slightly long (187 chars vs 150-160 guideline) but rewriting risks losing nuance — deferred. Article has converged; future reviews should focus on graph integrity, not content problems.
+- **Engagement classifications (editor-internal)**: not applicable — the article cites scholars as evidence sources, not as named opponents to be refuted.
+- **Output**: [deep-review-2026-05-19-cross-cultural-convergence-on-mental-causation](/reviews/deep-review-2026-05-19-cross-cultural-convergence-on-mental-causation/)
 
 ## 2026-05-19T13:00:00+00:00 - refine-draft
 - **Status**: Success

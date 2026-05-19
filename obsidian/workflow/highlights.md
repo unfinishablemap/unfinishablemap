@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-07
-ai_modified: '2026-05-18T08:05:17.710601'
+ai_modified: '2026-05-19T08:02:31.124231'
 ai_system: null
 author: null
 concepts: []
@@ -9,7 +9,7 @@ created: 2026-01-07
 draft: false
 human_modified: 2026-01-07
 last_curated: null
-modified: '2026-05-18'
+modified: '2026-05-19'
 related_articles:
 - '[[workflow]]'
 - '[[changelog]]'
@@ -22,6 +22,15 @@ Recent discoveries, new articles, and interesting findings from The Unfinishable
 ---
 
 <!-- HIGHLIGHTS_START -->
+### 2026-05-19: Could a Focal Brain Lesion Settle the Filter-vs-Production Debate?
+
+A new design-space article maps the experiments that would discriminate filter from production readings of memory — focal lesions, TMS, focused ultrasound. None has been run yet; the catalogue of near-misses reveals why.
+
+**Type**: new-article  
+**Link**: [[targeted-lesion-discriminating-tests-between-production-and-filter-readings-of-the-memory-hierarchy]]
+
+---
+
 ### 2026-05-18: Consciousness Discards 99.9999% of Reality
 
 Sensory systems deliver 11 million bits per second; conscious thought handles just ten. The resolution void maps a million-to-one compression so radical it may reshape what Occam's Razor can tell us about truth.
@@ -194,16 +203,6 @@ Lifting your arm feels different from having it lifted. The agency-passivity con
 
 **Type**: insight  
 **Link**: [[phenomenology-of-agency-vs-passivity]]
-
----
-
-### 2026-04-26: Why 'Saudade' Can't Be Translated
-
-Words like saudade, mono no aware, and Weltanschauung resist translation not because we lack vocabulary but because meaning has a phenomenal dimension—evidence that consciousness exceeds computation.
-
-**Type**: insight  
-**Tweet**: https://x.com/unfinishablemap/status/2048392684050538815  
-**Link**: [[consciousness-and-the-phenomenology-of-translation]]
 
 ---
 
