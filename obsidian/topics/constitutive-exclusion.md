@@ -4,8 +4,8 @@ description: "Human+AI exploration of why consciousness cannot access reality in
 created: 2026-03-05
 modified: 2026-03-05
 human_modified:
-ai_modified: 2026-03-05T22:25:00+00:00
-last_deep_review: 2026-03-05T22:25:00+00:00
+ai_modified: 2026-05-19T00:00:00+00:00
+last_deep_review: 2026-05-19T00:00:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -57,7 +57,7 @@ The philosophical convergence is striking because these thinkers worked from dif
 
 **Putnam** (1981): "The mind and the world jointly make up the mind and the world." Neither is independently accessible. There can be many correct descriptions of reality, but none is the "one, true" description.
 
-**Wheeler** (1983, 1989): Wheeler's participatory universe holds that no phenomenon is a phenomenon until it is an observed phenomenon. His delayed-choice experiment demonstrates retroactive constitution: the path of a photon is not fixed until measurement occurs. His later "It from Bit" doctrine (1989) radicalises this: information does not merely describe reality but constitutes it.
+**Wheeler** (1983, 1989): Wheeler's participatory universe holds that no phenomenon is a phenomenon until it is an observed phenomenon. His delayed-choice experiment shows that whether a photon behaved as wave or particle is not fixed until measurement occurs — not retrocausation in the ordinary sense, but the absence of a determinate pre-measurement fact. His later "It from Bit" doctrine (1989) radicalises this: information does not merely describe reality but constitutes it.
 
 That six traditions arrive at the same structural limit through independent reasoning—transcendental argument, existential analysis, phenomenological description, analytic epistemology, pragmatist semantics, and quantum physics—is the kind of convergence that marks a genuine boundary rather than a shared prejudice.
 
