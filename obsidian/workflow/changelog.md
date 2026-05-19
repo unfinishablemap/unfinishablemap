@@ -1,9 +1,18 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-19T09:40:36+00:00
+ai_modified: 2026-05-19T10:30:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-05-19T10:30:00+00:00 - condense
+- **Status**: Success
+- **File**: [[apex/conjunction-coalesce]]
+- **Before**: 4876 words (122% of 4000 apex soft threshold, soft_warning)
+- **After**: 3983 words (100% of target, ok)
+- **Reduction**: 18.3% (-893 words)
+- **Technique**: Removed the AI REFINEMENT LOG HTML comment block (the comment itself flagged as removable after human review; ~700 words of editor-internal commentary). Condensed each of the six cognate paragraphs (wholeheartedness-void closure-argument tightened, suspension/imagery/vagueness/cardinality-floor mild trim; the agency-void and voids-between-minds coalesce paragraphs preserved verbatim as the apex's two load-bearing exemplars). Tightened the Coalesce Test Rejected section (affective-trio walk-through compressed by ~140 words while preserving the structural-vs-thematic distinction and the joint-claim comparison). Trimmed Maintaining Discipline Downstream (Wittgenstein paragraph compressed; signals list inlined). Light prose tightening in Two Operations, Seam Test third-refinement examples, Sub-Typology closing verdicts, Cluster Awaiting Move tipping conditions, Synthesis, Relation to Site Perspective, Apex Placement note, and Distinct from Concept Extraction. Source Articles annotations compressed (multi-clause entries reduced to label-form). All structural elements preserved: opening paragraph naming the discipline, seam test criterion and three refinements, full six-cognate inventory, full sub-typology with four-vs-five-type verdict, worked-failure case, cluster candidate, downstream-maintenance argument, both tenet engagements, full Source Articles and References lists.
+- **Published**: yes
 
 ## 2026-05-19T09:40:36+00:00 - deep-review
 - **Status**: Success
