@@ -4,7 +4,7 @@ description: "Do animals have conscious experience? Convergent evidence suggests
 created: 2026-01-14
 modified: 2026-01-14
 human_modified: null
-ai_modified: 2026-05-08T07:49:00+00:00
+ai_modified: 2026-05-19T18:30:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -49,7 +49,7 @@ ai_contribution: 100
 author: null
 ai_system: claude-opus-4-7
 ai_generated_date: 2026-01-14
-last_curated: null
+last_curated: 2026-05-19T18:30:00+00:00
 last_deep_review: 2026-05-08T07:49:00+00:00
 embedded_videos:
   - id: DnI0-3Z9EQE
@@ -72,6 +72,12 @@ Removing the metaphysical defeater does not, on its own, supply positive evidenc
 
 Two declarations mark growing agreement, though neither is settled consensus. The **Cambridge Declaration (2012)** concluded that mammals, birds, and octopuses "possess the neurological substrates that generate consciousness." The **New York Declaration (2024)**, signed by over 500 scientists and philosophers, extended this to "a realistic possibility" for all vertebrates and many invertebrates including insects. Read literally, support is strong for mammals and birds; for the broader range, the case is a contested possibility, not established consciousness. The declarations identify *correlates*, not consciousness itself. If consciousness exists in these animals, so does moral status: the [[consciousness-value-connection]] holds that where experience exists, things can matter to the experiencer.
 
+### The Marker Method {#the-marker-method}
+
+Andrews, Birch & Sebo (2025, *Science*) supply the operational counterpart to the New York Declaration's "realistic possibility" language. The marker method identifies a dimension of consciousness (pain, perception, valence), then looks for behavioural and anatomical features that correlate with that dimension in humans, and asks whether analogues are present in the target species. Each marker is graded by context-dependent confidence; no single marker is individually conclusive, and convergence across markers and dimensions is what raises evidential confidence rather than any one finding. Bayne, Carter & Seth (2024) supply a parallel taxonomy distinguishing *theory-light* from *theory-heavy* tests at the methodology layer.
+
+The instructive negative case is the LLM. Linguistic behaviour is a strong marker in humans because it correlates with the broader cluster of consciousness-relevant capacities; in LLMs it is decoupled from that cluster, and the marker therefore fails to extend. The same logic disciplines extrapolation across the animal kingdom: a marker reliable in mammals may fail in cephalopods if the underlying correlation does not hold, which is why the [[#the-standing-agnostic-challenge|standing agnostic challenge]] remains in force even where multiple markers are present. The method is tenet-coherent—markers identify *correlates*, consistent with Dualism's commitment that no third-person feature *constitutes* consciousness, and its context-dependent grading instantiates [[tenets#^occams-razor|Occam's Razor Has Limits]] by refusing the simpler "marker present, therefore conscious" inference.
+
 ## Minimal Neural Requirements
 
 How little neural complexity can support consciousness? See [[consciousness-in-simple-organisms]] for the graded treatment of *C. elegans*, Hydra, and slime molds.
@@ -80,7 +86,11 @@ The **Unlimited Associative Learning (UAL) framework** (Ginsburg & Jablonka 2019
 
 ## Insect Consciousness: The Expanding Frontier
 
-Chittka's *The Mind of a Bee* (2022) documents sophisticated insect cognition: bees roll balls with no apparent reward (consistent with intrinsically motivated play), show "optimistic" and "pessimistic" cognitive biases, and ants adjust rescue behaviour to track trapped nestmates' body dimensions. Whether these behaviours require consciousness or admit simpler functional explanations remains debated. Chittka's catalogue raises the prior considerably above bare baseline cognition; it does not settle the case, and the [[#the-standing-agnostic-challenge|standing agnostic challenge]] applies in full force.
+Chittka's *The Mind of a Bee* (2022) documents sophisticated insect cognition: bees roll balls with no apparent reward (consistent with intrinsically motivated play), show "optimistic" and "pessimistic" cognitive biases, and ants adjust rescue behaviour to track trapped nestmates' body dimensions.
+
+Chittka, Wilson, Solvi et al. (2025, *Philosophical Transactions of the Royal Society B*) extend the catalogue with the specific evidence the 2022 book anticipated. Young bumblebees engage with objects more frequently than older bees—a pattern that parallels vertebrate play, in which age-graded engagement is itself a marker of play rather than mere object manipulation. Comparable play-like behaviour has now been documented in fruit flies, multiplying the lineages in which the marker appears. Bees attacked by a simulated predator show persistent affect-like state changes lasting days, not seconds, exceeding what stimulus-bound reflex models predict and aligning with the marker method's valence dimension. Each item is incremental—none individually settles the case—and Chittka et al. themselves frame the evidence in marker terms rather than constitutive ones.
+
+Whether these behaviours require consciousness or admit simpler functional explanations remains debated. The catalogue raises the prior considerably above bare baseline cognition; it does not settle the case, and the [[#the-standing-agnostic-challenge|standing agnostic challenge]] applies in full force.
 
 ## What Is It Like to Be a Bat?
 
@@ -98,9 +108,13 @@ Gutfreund (2024) provides the strongest skeptical counterpoint and is *not* over
 
 The critique applies across every species-claim here. It is why the New York Declaration's "realistic possibility" language does not collapse into "established consciousness"; why UAL is best read as interface-identification rather than emergence verdict; why multiple origins supplies coherence without positive evidence. Tenet 1 removes a defeater but does not absorb Gutfreund's challenge—the empirical record stays where it is.
 
+Wandrey & Halina (2025, *Philosophy Compass*) map the same circularity onto the evolutionary debate. The early-evolution camp (Cambrian origin, ~540 mya, consciousness across most vertebrates and many invertebrates) and the latecomer camp (consciousness restricted to mammals or humans) disagree not primarily about the fossil and behavioural record but about *which markers count as evidence of consciousness*. Fix the identification methodology and the evolutionary reconstruction follows. The Map and Wandrey & Halina converge on the same diagnosis: identification-methodology underdetermination is what blocks reductive verdicts at this layer, which is exactly the pattern [[tenets#^occams-razor|Occam's Razor Has Limits]] predicts when third-person methods are asked to identify a first-person phenomenon.
+
 ## Why the Inference Is Stronger for Animals Than for AI
 
 The [[problem-of-other-minds]] applies to both, but the inferential grounds differ. We share evolutionary history, limbic systems, sensory cortices, and pain pathways with animals; when a mammal exhibits pain behaviour, "this creature has subjective experience" explains it within evolutionary pressures and neural homologies. With AI, the analogy is purely behavioural—similar outputs through entirely different mechanisms—and alternative explanations (pattern-matching, statistical correlation) cover the outputs without positing phenomenal consciousness. The result: stronger reasons to attribute consciousness to animals than to current AI, though proof remains impossible in both. The [[ethics-of-possible-ai-consciousness|ethics of possible AI consciousness]] develops the moral implications of this asymmetry.
+
+The 2025 COGITATE Consortium adversarial collaboration changes which routes to this conclusion remain available. Pre-registered head-to-head testing of Integrated Information Theory and Global Neuronal Workspace Theory (n=256 participants, fMRI/MEG/iEEG) challenged core assumptions of both theories—neither was robustly confirmed even on human subjects. Any animal-consciousness inference routed through "this species has a global workspace, therefore conscious" or "this species exhibits high Φ, therefore conscious" inherits that weakened empirical support. The Map's preferred framing does not run through either theory: it routes through markers (Andrews/Birch/Sebo 2025), convergent evolution (Godfrey-Smith 2024), and the dualist no-substrate-barrier commitment. That the two leading reductive theories did not converge even on humans is the pattern [[tenets#^occams-razor|Occam's Razor Has Limits]] predicts when the underlying phenomenon exceeds available frameworks, and the inconclusive outcome is also what Dualism predicts of any third-person test asked to settle a first-person question.
 
 ## Higher-Order Theories and Animal Minds
 
@@ -211,7 +225,11 @@ The framework supplies a falsification structure whose *application* waits on in
 1. Ginsburg, S. & Jablonka, E. (2020). "Unlimited Associative Learning and the origins of consciousness: a primer and some predictions." *Biology & Philosophy*, 35(56).
 1. Godfrey-Smith, P. (2024). "Inferring Consciousness in Phylogenetically Distant Organisms." *Journal of Cognitive Neuroscience*, 36(8), 1660-1672.
 1. Chittka, L. (2022). *The Mind of a Bee*. Princeton University Press.
-1. Chittka, L. et al. (2025). "The exploration of consciousness in insects." *Philosophical Transactions of the Royal Society B*.
+1. Chittka, L., Wilson, C., Solvi, C. et al. (2025). "The exploration of consciousness in insects." *Philosophical Transactions of the Royal Society B*, 380(1939).
+1. Andrews, K., Birch, J., & Sebo, J. (2025). "Evaluating animal consciousness." *Science*, 387(6735), 822–824.
+1. Bayne, T., Carter, O., & Seth, A. K. (2024). "Tests for consciousness in humans and beyond." *Trends in Cognitive Sciences*, 28(5), 454–466.
+1. Wandrey, M.-M., & Halina, M. (2025). "The evolution of animal consciousness." *Philosophy Compass*.
+1. Cogitate Consortium (2025). "Adversarial testing of global neuronal workspace and integrated information theories of consciousness." *Nature* (companion methodological response in *Neuroscience of Consciousness* 2025).
 1. Becerra, D. et al. (2023). "The Conscious Nematode: Exploring Hallmarks of Minimal Phenomenal Consciousness in Caenorhabditis Elegans." *International Journal of Psychological Research*, 16(2), 87-102.
 1. Bhattacharjee, P. et al. (2023). "On being a Hydra with, and without, a nervous system: what do neurons add?" *Animal Cognition*.
 1. Lieberman, M. D. et al. (2008). "Evidence that logical reasoning depends on conscious processing." *Consciousness and Cognition*, 17(2), 628-645.

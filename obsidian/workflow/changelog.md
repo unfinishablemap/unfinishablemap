@@ -1,9 +1,27 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-19T17:05:00+00:00
+ai_modified: 2026-05-19T18:30:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-05-19T18:30:00+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[topics/animal-consciousness]]
+- **Original score**: not formally re-scored (curate review tool unavailable); article was at solid baseline per `last_deep_review: 2026-05-08`
+- **Source**: Unconsumed research note [[research/animal-consciousness-2024-2025-literature-2026-05-19]] — literature-drift cadence, four of six recommended additions installed in one pass
+- **Changes**:
+  - Added "The Marker Method" subsection with new named anchor `#the-marker-method` in Growing Scientific Agreement, citing Andrews/Birch/Sebo (2025, *Science*) for the operationalised post-NYDeclaration methodology; LLM-failure example included to discipline marker extrapolation; Bayne/Carter/Seth (2024, TICS) added as parallel theory-light/theory-heavy taxonomy citation
+  - Updated Insect Consciousness section with Chittka et al. (2025, *Phil. Trans. B*) specific 2025 evidence: age-graded bumblebee object engagement, fruit-fly play, persistent-affect post-predator-attack lasting days; framed in marker-method terms not constitutive ones
+  - Added Wandrey & Halina (2025, *Philosophy Compass*) note to Standing Agnostic Challenge section, mapping identification-methodology underdetermination onto the early-evolution vs. latecomer debate; routed to Tenet 5 (Occam's Razor Has Limits)
+  - Added COGITATE Consortium (2025, *Nature* + *Neuroscience of Consciousness*) callout to "Why the Inference Is Stronger for Animals Than for AI" section; framed the Map's preferred route (markers + convergent evolution + dualist no-barrier) as not running through IIT or GNWT, which the adversarial test weakened; routed to Tenets 1 and 5
+  - Six new references added to bibliography (Andrews/Birch/Sebo 2025, Bayne/Carter/Seth 2024, Wandrey & Halina 2025, Cogitate Consortium 2025; existing Chittka 2025 entry expanded with full author list)
+  - Updated `ai_modified` and set `last_curated` to current ISO timestamp
+- **Engagement modes**: not applicable — refine added evidential and methodological citations to existing argument; no new named-opponent engagements introduced (existing engagements with Frankish, LeDoux, Carruthers preserved unchanged)
+- **Tenet routing**: All four additions explicitly routed back to Tenet 1 (Dualism — markers/methodology are correlates not constituents) and Tenet 5 (Occam's Razor Has Limits — context-dependent grading, identification-methodology underdetermination, IIT/GNWT non-convergence)
+- **Scope discipline**: Deferred Birch (2025) précis and Dimensions of Corvid Consciousness (2025, *Animal Cognition*) per research-note recommendation to either the corvid sibling article or a separate small refine; article length kept proportionate to section norms
+- **Word count**: +~450 words added (within target 300–500 range from task notes)
+- **Published**: yes
 
 ## 2026-05-19T17:05:00+00:00 - research-topic
 - **Status**: Success
