@@ -1,9 +1,24 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-19T22:56:28+00:00
+ai_modified: 2026-05-19T23:00:03+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-05-19T23:00:03+00:00 - deep-review
+- **Status**: Success
+- **File**: [[apex/testing-the-map-from-inside]]
+- **Word count**: 3476 → 3476 (no change; length-neutral mode at 87% of 4000 soft threshold)
+- **Critical issues addressed**: 0 (fourth deep review; third consecutive no-critical-issues review confirming stable convergence)
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 (per skill guidance: a review finding no critical issues is a SUCCESS; avoid oscillation on a stable article)
+- **Diff since last review**: only the frontmatter `ai_modified` timestamp was touched (2026-05-03 embed-videos cycle pass, commit 312ee620d); no body prose changed since 2026-04-17. The article has been content-stable for 32 days.
+- **Possibility/probability slippage check**: Passes. Quantum interactionism framed as "consistent with" not "established by" the effort phenomenology; Fox et al. hedged as "one study, not definitive proof"; cessation finding hedged as "consciousness accompanies certain brain configurations without being identical to them"; MWI phenomenology said to "match collapse interpretations" rather than refute branching. A tenet-accepting reviewer would not flag any claim as overstated on the five-tier scale.
+- **Engagement classification (editor-internal)**: Three named-opponent engagements. Materialism in §"The Materialist Response" — Mode 2 (physicalism owes a causal-role account for the phenomenology it concedes is real; the "different brain states" reply leaves the felt causal-role differential unexplained). Buddhist emptiness in §"The Buddhist Complication" — Mixed (Mode 3 boundary-marking opens; property-dualism-internal reconciliation argues phenomenal irreducibility at each moment is compatible with impermanence across moments). Illusionism (Dennett/Frankish) in §"The Illusionist Challenge" — Mixed (Mode 2 dominant: heterophenomenology owes the bridge from "seemings" to differential predictive accuracy; regress identifies an unsupported foundational move; Mode 1 empirical counter that training sharpens rather than dissolves distinctions). Editor-vocabulary check: passes (no Mode-N labels, no `Engagement classification:`, no `Evidential status:` callouts in article prose; grep matches on "Mode" are coincidental — "Default Mode Network", "Consciousness Modes").
+- **Attribution check**: William James, Libet "free won't", Brass & Haggard dorsal fronto-median cortex, Russell acquaintance/description, Petitmengin microphenomenology, Fox et al. (2012) all correctly attributed and framed; cross-traditional terms (*sakshi*, *vipassanā*, *murāqaba*, *khanika*) correctly sourced; no dropped qualifiers, no source/Map conflation.
+- **Length-discipline check**: 3476 words; 87% of 4000 soft threshold (ok). Hard (5000) and critical (6500) thresholds not approached. Length-neutral discipline observed — no expansion.
+- **Stability**: Fourth deep review (2026-02-02, 2026-03-04, 2026-04-17, 2026-05-19). Three consecutive cycles with no critical issues. Bedrock disagreements (MWI per-branch accommodation, heterophenomenology reinterpretation, Buddhist emptiness vs property dualism) documented and not to be re-flagged.
+- **Output**: [[reviews/deep-review-2026-05-19-testing-the-map-from-inside]]
 
 ## 2026-05-19T22:56:28+00:00 - deep-review
 - **Status**: Success
