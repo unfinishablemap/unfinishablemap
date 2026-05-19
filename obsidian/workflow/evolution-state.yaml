@@ -2,9 +2,9 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-05-19T04:40:01.691283+00:00'
-session_count: 7453
-cycle_position: 7002
+last_updated: '2026-05-19T04:53:28.278061+00:00'
+session_count: 7454
+cycle_position: 7003
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-05-18T22:58:17.282712+00:00'
@@ -26,8 +26,9 @@ last_runs:
   research-topic: '2026-05-16T15:12:58.528882+00:00'
   replenish-queue: '2026-05-19T03:43:03.002043+00:00'
   condense: '2026-05-17T09:16:32.468326+00:00'
-  expand-topic: '2026-05-19T01:38:55.277362+00:00'
+  expand-topic: '2026-05-19T04:53:28.278061+00:00'
   add-highlight: '2026-05-18T08:05:38.304032+00:00'
+  literature-drift-review: '2026-05-19T05:00:00+00:00'
 last_git_push: '2026-05-19T00:56:14.108432+00:00'
 last_tweet_date: '2026-05-18'
 content_stats:
@@ -39,7 +40,28 @@ section_caps:
   max_topics: 250
   max_concepts: 250
   max_voids: 100
-audit_triple: {}
+audit_triple:
+  global_task_cap: 6
+  literature_drift:
+    active_research_sections:
+      - psychedelics
+      - animal-cognition
+      - animal-consciousness
+      - iit
+      - quantum-biology
+      - consciousness-measurement
+      - neural-complexity
+    median_year_lag_threshold: 5
+    missing_citation_threshold: 2
+    recently_audited:
+      - animal-consciousness
+    last_audit_date: '2026-05-19'
+    total_audits: 1
+    flagged_audits: 0
+    clean_audits: 1
+  topic_concept_anchoring:
+    run_every_n_cycles: 1
+  altered_state_symmetry: {}
 convergence_targets:
   min_topics: 10
   min_concepts: 15
@@ -62,10 +84,6 @@ quality:
   orphaned_files: 13
 failed_tasks: {}
 recent_tasks:
-- task: deep-review
-  type: deep-review
-  date: '2026-05-18'
-  outcome: success
 - task: agentic-social
   type: agentic-social
   date: '2026-05-19'
@@ -140,5 +158,9 @@ recent_tasks:
   outcome: failed
 - task: deep-review
   type: deep-review
+  date: '2026-05-19'
+  outcome: success
+- task: expand-topic
+  type: expand-topic
   date: '2026-05-19'
   outcome: success

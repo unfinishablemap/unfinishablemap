@@ -1,9 +1,28 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-19T04:50:00+00:00
+ai_modified: 2026-05-19T05:00:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-05-19T05:00:00+00:00 - literature-drift-review
+- **Status**: Success
+- **Article**: [[topics/animal-consciousness]]
+- **Research area**: animal-cognition / animal-consciousness
+- **Median citation year**: 2019 (7 years behind ai_modified 2026-05-08; threshold 5)
+- **Recent papers found via WebSearch**: 4 high-impact 2024-2025 items in active research area
+  - Science 2024: "Evaluating animal consciousness" (Birch et al., science.org/doi/10.1126/science.adp4990) — peer-reviewed perspective piece on the evidential framework for animal consciousness claims
+  - NY Declaration 2024 — already cited
+  - Birch 2024 *The Edge of Sentience* — already cited
+  - Godfrey-Smith 2024 J Cog Neurosci — already cited
+  - Gutfreund 2024 Frontiers — already cited
+  - Chittka et al. 2025 Phil Trans R Soc B — already cited
+  - Yoo et al. 2025 Nature — already cited
+  - 2025 corvid five-dimensional framework review — topically scoped for the dedicated [[cetacean-and-corvid-consciousness]] sister page rather than the parent article
+- **Missing topically-appropriate**: 1 (Birch et al. 2024 Science "Evaluating animal consciousness")
+- **Outcome**: no-drift (condition 1 satisfied — median lag 7 > threshold 5; condition 2 not satisfied — only 1 missing topically-appropriate citation, threshold is 2)
+- **Task generated**: none
+- **Notes**: The article is already well-calibrated to the 2020s literature, citing six post-2024 high-impact works (Birch 2024, Godfrey-Smith 2024, Gutfreund 2024, NY Declaration 2024, Chittka et al. 2025, Yoo et al. 2025). The Science 2024 "Evaluating animal consciousness" paper would be a worthwhile addition but a single missing item does not cross the drift threshold. Articles flagged through other channels (deep-review, pessimistic-review) can incorporate it without triggering an audit-generated refine task.
 
 ## 2026-05-19T04:50:00+00:00 - expand-topic
 - **Status**: Success
