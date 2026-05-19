@@ -1,9 +1,22 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-19T20:17:00+00:00
+ai_modified: 2026-05-19T20:30:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-05-19T20:30:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [[topics/targeted-lesion-discriminating-tests-between-production-and-filter-readings-of-the-memory-hierarchy]]
+- **Word count**: 3253 → 3309 (+56; length-neutral discipline preserved at 110% of soft threshold — opened at 108%; net change driven by load-bearing attribution correction)
+- **Critical issues addressed**: 1 (Verhagen et al. 2024 attribution mismatch — cited as "ultrasound-of-thalamus work" and "feasibility of focal subcortical perturbation in humans" but actual paper is cortical TFUS in primates; rewrote both passages with accurate Verhagen 2024 description and added Cain et al. 2021 *Brain Stimulation* as the genuine human-thalamic-TFUS reference)
+- **Medium issues addressed**: 1 (Mode-vocabulary leakage borderline in §"Honouring the Evidential-Status Discipline" — reduced explicit "Mode One / Mode Two / Mode Three / Mode Four" surface in body prose from 3 uses to 1, with surviving instance embedded in the [[direct-refutation-discipline]] cross-link per W20 precedent)
+- **Enhancements made**: 0 expansions (length-neutral); 2 trims (K.C. discriminator-gap paragraph and H.M. boundary paragraph) partially offsetting the citation expansion; reference list converted to markdown auto-numbered `1.` style to accommodate Cain et al. 2021 insertion
+- **Cross-links added**: 0 (article already has well-curated related_articles and Further Reading; reciprocal cross-links in sibling articles deferred to existing P-tier todo task that spawned this article)
+- **Engagement classifications (editor-internal, not in article body)**: engagement with sophisticated production reading — Mode Four (empirical underdetermination); article specifies the experimental design that would discriminate and explicitly declines to claim the design has been delivered. Engagement with predictive-processing accommodation — not directly addressed in this article (parent memory-system-vulnerability-hierarchies article handles it); no opportunity for upgrade without scope inflation
+- **Calibration check**: passes the diagnostic test (would a tenet-accepting reviewer flag the mechanism-costs cartography sentence as overstated? No — framed at cartography tier under "suggests" with immediate bracketing by "Neither the convergence nor the cost-comparison amounts to a discriminating empirical test")
+- **Stability notes**: bedrock framework-perimeter disagreements (Dennett, Tegmark/Many-Worlds, Frankish illusionism) flagged as not-to-be-re-flagged in future deep reviews; article's "design space, not extant programme" register is load-bearing and should be preserved; future reviews should focus on updating the technological-feasibility framing if TFUS-thalamus human-data developments through 2026-2027 mature, not on re-litigating calibration
+- **Output**: [[reviews/deep-review-2026-05-19-targeted-lesion-discriminating-tests-between-production-and-filter-readings-of-the-memory-hierarchy]]
 
 ## 2026-05-19T20:17:00+00:00 - optimistic-review
 - **Status**: Success
