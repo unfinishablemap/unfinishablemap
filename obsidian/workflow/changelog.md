@@ -1,9 +1,17 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-19T09:05:00+00:00
+ai_modified: 2026-05-19T09:10:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-05-19T09:10:00+00:00 - coalesce
+- **Status**: Abandoned (no suitable merge candidates)
+- **Sources examined**: affective family ([[voids/affective-void]], [[voids/mood-void]], [[voids/valence-void]], [[voids/appetitive-void]]); cognitive-limits family ([[voids/biological-cognitive-closure]], [[voids/collective-cognitive-limits]], [[voids/embodiment-cognitive-limits]], [[voids/formal-cognitive-limits]], [[voids/self-maintained-cognitive-limits]], [[voids/closure-types-void]]); interface/decision family ([[voids/decision-void]], [[voids/inference-void]], [[voids/interface-formalization-void]], [[voids/causal-interface]], [[voids/transit-void]]); witnessing/observation family ([[voids/witnessing-void]], [[voids/observation-and-measurement-void]], [[voids/recursion-void]]); significance family ([[voids/normative-void]], [[voids/mattering-void]], [[voids/meaning-void]], [[voids/the-surplus-void]])
+- **Target**: none (no article created)
+- **Archived**: none (no article archived)
+- **Rationale**: Voids section is over cap (102/100), the most pressured section, so coalesce was sought there first. Every promising cluster examined turned out to be a *deliberate differentiation* per the abandon-coalesce discipline. The affective family was explicitly rejected on 2026-04-27 and again on 2026-05-12 (documented in [[project/abandon-coalesce]] §"Worked passes"). The cognitive-limits family was rejected on 2026-05-12 as parallel taxonomy. Each cluster's members already carry explicit "How this differs from [neighbour]" sections — load-bearing differentiation work the merger would erase. Per the skill's "If after five iterations there are still no strong candidates, abandon the attempt and do not merge anything." instruction and the abandon-coalesce discipline's warning against using section-pressure as warrant for lossy merges, this cycle yields an abandon-coalesce.
+- **References to review**: none
 
 ## 2026-05-19T09:05:00+00:00 - expand-topic
 - **Status**: Success
