@@ -1,9 +1,26 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-19T23:30:00+00:00
+ai_modified: 2026-05-19T23:45:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-05-19T23:45:00+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[topics/consciousness-and-skill-acquisition]]
+- **Source audit**: topic-concept anchoring audit 2026-05-19 (Audit Three of [[project/calibration-audit-triple]]); anchor concept [[concepts/filter-theory]]
+- **Failed checks (before)**: hedge_density (2.26/kw vs anchor 3.88/kw; needed >=2.33), strong_assertions (1.88/kw vs anchor 0.97/kw; needed <=1.46), underdetermination_markers (0 vs anchor 1)
+- **Calibration profile (after)**: hedge_density 6.44/kw (PASS), strong_assertion_density 0.0/kw (PASS), underdetermination_marker_count 4 (PASS); article now clears `tools/curate/anchoring.evaluate_anchoring` against [[concepts/filter-theory]] and all seven secondary anchors (attention-as-interface, mental-effort, cognitive-phenomenology, metacognition, working-memory, temporal-consciousness, skill-delegation) that the audit had also flagged collaterally.
+- **Changes**:
+  - §lead: softened "Neuroscience now confirms" → "Neuroscience now indicates"; "recruits/engages/triggers" → "appears to recruit/engage/trigger"; "treats" → "seems to treat"; "revealing that consciousness selects" → "suggesting that consciousness can select"; added explicit underdetermination marker "neither interpretation is forced by the data alone—the same findings can be read by an identity theorist as consciousness *being* the relevant neural patterns rather than *shaping* them."
+  - §"The Paradox of Effortless Mastery": "proves competence" → "may indicate competence"; "should be neutral" → "might be expected to be neutral"; added closing note on the deflationist construal.
+  - §"Body Schema and Tool Incorporation": "demonstrates this" → "appears to illustrate this"; "expands" → "seems to expand"; added underdetermination marker "the macaque result alone does not adjudicate between interactionist and identity readings."
+  - §"Flow: Frictionless Selection": "represents" → "may represent"; "explains" → "is one way to organise"; "aligns" → "may align"; "confirms a layered model" → "fits a layered model."
+  - §"What Skilled Performance Reveals" / Against epiphenomenalism: "The neuroscience confirms this" → "The neuroscience appears to track this pattern"; "precise correlation" → "tight correlation"; added underdetermination marker "compatible with both interpretations; what it constrains is epiphenomenalism."
+  - §"The Neuroscience of Deliberate Practice" / four-converging-lines summary: added underdetermination marker "The evidence does not decisively adjudicate between identity and interactionist readings—both remain coherent with the data—but it does seem to weigh against the epiphenomenalist alternative."
+- **Voice preserved**: central argument intact — the article still endorses bidirectional interaction and still treats the deliberate-practice neuroscience as the Map's strongest empirical case against epiphenomenalism. The calibration discipline added matches the anchor concept's: identity-theory vs. interactionism is not adjudicated by the data; epiphenomenalism is what the data constrain. Per [[project/evidential-status-discipline]]: the evidence *constrains* the epiphenomenalist alternative without *establishing* interactionism over identity theory.
+- **Frontmatter**: `ai_modified` 2026-05-08T20:35:00+00:00 → 2026-05-19T00:00:00+00:00.
+- **Published**: yes
 
 ## 2026-05-19T23:30:00+00:00 - refine-draft
 - **Status**: Success
