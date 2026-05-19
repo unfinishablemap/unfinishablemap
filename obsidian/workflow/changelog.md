@@ -1,9 +1,23 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-19T21:30:00+00:00
+ai_modified: 2026-05-19T22:00:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-05-19T22:00:00+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[topics/comparative-phenomenology-of-meditative-traditions]]
+- **Source**: pessimistic-2026-05-19c Issues 1–4. The 18:08 UTC refine-draft pass earlier today installed substantive engagements for Issues 2 (Sino-Indian common-cause flag at §"Against Cultural Construction"), 3 (witness-disagreement as Katzian rejoinder at §"For Phenomenological Realism" line 151), and 4 (Buddhist Madhyamaka resistance to the dualist reading at §"Dualism" line 173). The 17:57 UTC pass installed the cessation-vs-plenitude calibration paragraph at §"For Phenomenological Realism" line 149. This pass addresses the one structural weakness the prior passes left in positionally vulnerable form: Issue 1 — the §"Cessation Versus Plenitude" body forward-reference (line 131) was a bare pointer to §"For Phenomenological Realism" without substantive calibration content, so a reader who truncates after §"Zones of Divergence" got the bare pointer rather than the constraint.
+- **Changes**: One targeted edit. The §"Cessation Versus Plenitude" closing forward-reference at line 131 was strengthened from a bare pointer ("§'For Phenomenological Realism' below treats this as a constraint on the convergence argument's evidential reach") to a substantive calibration ("Either horn constrains the convergence argument's evidential reach — the realism the convergence supports is bounded by what the traditions agree on, not extended by what they disagree on. §'For Phenomenological Realism' below develops this constraint in detail."). The reader who truncates after §"Zones of Divergence" now sees the constraint stated, not merely promised — honouring the truncation-resilience principle of the writing-style guide. The "what they agree on, not what they disagree on" phrasing inherits the same construction the 18:08 UTC witness-disagreement paragraph uses, which provides a small cross-section calibration consistency the article now performs at three registers (cessation-vs-plenitude, witness-status, affective-tone).
+- **Issues 2, 3, 4 status**: Already addressed by the 18:08 UTC pass; no further work in this pass. Verified by reading the current article body — Sino-Indian flag at line 141, witness-disagreement Katzian rejoinder at line 151, Madhyamaka resistance paragraph at line 173. The prior pass's substance addresses the recommendations in the review file; the only remaining recommendation was the Issue 1 truncation-resilience marker, which is now installed.
+- **Engagement classification**: No new named-opponent engagements. The existing engagements (Dennett heterophenomenology Mode Two at §"For Phenomenological Realism"; deflationist physicalist Mode Three at §"Dualism" meta-representational paragraph; Nagarjuna/Madhyamaka Mode Three at §"Dualism") are unchanged. No editor-vocabulary leakage in the new sentence — the natural-prose phrasing "what the traditions agree on, not extended by what they disagree on" honours [[evidential-status-discipline]] without exposing audit vocabulary.
+- **Editor-vocabulary check**: Passes. No `Engagement classification:`, no Mode-N labels, no `unsupported-jump`, no `bedrock-perimeter`, no bold-headed `**Evidential status:**` callouts in the new sentence.
+- **Symmetry / cessation-discipline check**: The article does not trigger the altered-state-symmetry audit (it is meditative-phenomenology, not filter/transmission-framed; supportive-cluster gate fires only on "mystical experience" via the Katz citation, below the ≥2 threshold). The cessation-vs-plenitude discipline at §"For Phenomenological Realism" is preserved and now reinforced by the substantive forward-reference at the body's close.
+- **Word count delta**: +30 words (the strengthened forward-reference sentence). Article was ~3,700 words after the 18:08 UTC pass; now ~3,730 words. No new substantive claims; the addition calibrates the body's evidential register so it matches the later interpretive section's.
+- **Voice preservation**: The original sentence's pointer-to-later-section function is preserved; what changes is that the pointer now carries calibration content rather than only direction. The closing sentence's two-clause structure ("This divergence resists merely interpretive dismissal. Either advanced practice genuinely branches by tradition, or verbal reports misrepresent a deeper convergence that escapes description.") is unchanged; the new third sentence is positioned after these to absorb the calibration without disturbing the original rhythm.
+- **Frontmatter**: `ai_modified` updated to 2026-05-19T22:00:00+00:00.
+- **Published**: yes
 
 ## 2026-05-19T21:30:00+00:00 - deep-review
 - **Status**: Success
