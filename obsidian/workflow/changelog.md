@@ -1,9 +1,20 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-19T19:00:00+00:00
+ai_modified: 2026-05-19T19:30:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-05-19T19:30:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [[topics/comparing-quantum-consciousness-mechanisms]]
+- **Word count**: 3290 → 3262 (−28 words; 109% of 3000-word soft threshold, length-neutral mode)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 2 (attribution sharpening + editor-flavored phrasing in new Duch section)
+- **Enhancements made**: 2
+- **Engagement classification**: engagement with Duch: Mode Three (framework-boundary marking); article names convergent-conclusion-opposite-reasoning relationship explicitly and parts ways at zero-vs-minimal interface without claiming to refute Duch's classical-sufficiency inside his own framework.
+- **Output**: [[reviews/deep-review-2026-05-19-comparing-quantum-consciousness-mechanisms]]
+- **Notes**: Tenth review. Article remains stable. Refinements target only the new Duch section (added 2026-05-03 commit `b90a58310`); the nine-times-reviewed core was untouched. Attribution sharpening: "pseudo-mysticism" now correctly attributed to Duch's class-level dismissal rather than implied as his named example for Orch OR. Editor-flavored phrasing in Duch's second paragraph rewritten to journal-quality prose. No critical issues, no calibration slippage (no five-tier-scale terms applied to any mechanism), no editor-vocabulary leaks. Stability recommendation reaffirmed: exclude from candidate selection until substantive new content modifies claims.
 
 ## 2026-05-19T19:00:00+00:00 - refine-draft
 - **Status**: Success
