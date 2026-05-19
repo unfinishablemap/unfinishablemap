@@ -4,7 +4,7 @@ description: "What causal influence does consciousness exercise, and within what
 created: 2026-02-11
 modified: 2026-05-19
 human_modified:
-ai_modified: 2026-05-19T11:04:33+00:00
+ai_modified: 2026-05-19T20:38:03+00:00
 last_deep_review: 2026-05-19T10:36:26+00:00
 draft: false
 topics:
@@ -25,6 +25,7 @@ concepts:
   - "[[causal-closure]]"
   - "[[causal-powers]]"
   - "[[pain-asymbolia]]"
+  - "[[unity-of-consciousness]]"
 related_articles:
   - "[[tenets]]"
   - "[[phenomenology-mechanism-bridge]]"
@@ -94,7 +95,11 @@ This preserves [[conservation-laws-and-mental-causation|conservation laws]]. Whe
 
 Given these constraints, what causal work would consciousness perform under the Map's framework?
 
-The Map's commitment structure is layered. Phenomenal Biasing is the *architecture-level* claim: consciousness exercises causal influence by being phenomenally laden, with felt qualities (valence, value, salience) entering the causal story in a way sub-personal computational role does not exhaust. The other three headings below — Selection of Action, Sustained Attention, Volitional Modulation — describe *candidate implementation-level mechanisms* through which the architecture might be realised in neural systems. The framework commits to the architecture; it does not commit to any one implementation candidate, and the candidates need not all be operative jointly. This matters for evaluating quantitative objections: the twelve-to-sixteen-orders-of-magnitude decoherence gap discussed under Sustained Attention is a constraint on the Zeno *candidate*, not on the framework's architecture-level claim. Where the gap is unresolvable, an alternative implementation candidate would need to carry the explanatory load, but the architecture itself does not stand or fall on any single mechanism.
+### Architecture and Implementation Candidates
+
+The Map's commitment structure is layered, and the layering is load-bearing for the rest of this section. Phenomenal Biasing is the *architecture-level* claim: consciousness exercises causal influence by being phenomenally laden, with felt qualities (valence, value, salience) entering the causal story in a way sub-personal computational role does not exhaust. The other three headings that follow — Selection of Action, Sustained Attention, Volitional Modulation — describe *candidate implementation-level mechanisms* through which the architecture might be realised in neural systems. The framework commits to the architecture; it does not commit to any one implementation candidate, and the candidates need not all be operative jointly. The four headings are a *menu* of routes by which the architecture might be realised, not a *system* of jointly necessary moving parts.
+
+This matters for evaluating quantitative objections. The twelve-to-sixteen-orders-of-magnitude decoherence gap discussed under Sustained Attention is a constraint on the Zeno *candidate*, not on the framework's architecture-level claim. Where the gap is unresolvable, an alternative implementation candidate would need to carry the explanatory load, but the architecture itself does not stand or fall on any single mechanism. Phenomenal Biasing, notably, does not require a specific quantum-physical mechanism to be operative: the architecture's causal contribution is the felt valence that selects, not a particular physical scheme by which that selection is implemented.
 
 These hypothesised mechanisms are not empirical findings: as §"Absence of Direct Evidence" acknowledges, we lack direct evidence that conscious processes bias quantum outcomes in brains. Rival accounts (predictive processing, identity theories) predict the same phenomenology by different mechanisms. The case for the Map's reading rests on framework coherence and phenomenological fit, not direct evidence of any specific implementation. Readers should treat the affirmative-voice exposition as the Map's hypothesised causal architecture, with evidence-grade laid out in §"The Evidential Question."
 
@@ -194,7 +199,7 @@ The Map's [[tenets#^bidirectional-interaction|Bidirectional Interaction]] tenet 
 
 This framework has several virtues:
 
-**Ontological restraint**: It grants consciousness causal efficacy without multiplying unexplained powers. One *kind* of mechanism — quantum selection at the phenomenal-physical interface — suffices for the forms of mental causation the Map requires, without committing to a single specific implementation candidate.
+**Ontological restraint**: It grants consciousness causal efficacy without multiplying unexplained powers. One *kind* of mechanism — quantum selection at the phenomenal-physical interface — suffices for the forms of mental causation the Map requires, without committing to a single specific implementation candidate. The restraint presupposes that a single conscious subject coordinates the candidate mechanisms — a [[unity-of-consciousness|unity-of-consciousness]] assumption that the split-brain literature complicates (Bayne 2010; Schechter 2018) and that the Map carries as load-bearing background rather than as a derived result.
 
 **Empirical compatibility**: The framework's architecture is permitted by current physics; specific candidate mechanisms face quantitative constraints the framework has not yet resolved. The Zeno proposal, in particular, requires either protected microenvironments extending neural coherence by twelve to sixteen orders of magnitude beyond standard decoherence calculations (the contested Penrose-Hameroff microtubule conjecture; see [[quantum-biology-and-neural-mechanisms|quantum neural mechanisms]]) or an alternative quantum mechanism not yet specified. The framework's *architecture* is not empirically ruled out, but it is not yet free of quantitative debts the implementation candidates owe.
 

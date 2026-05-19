@@ -1,9 +1,27 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-19T20:35:00+00:00
+ai_modified: 2026-05-19T20:38:03+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-05-19T20:38:03+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[topics/consciousness-and-causal-powers]]
+- **Original score**: N/A (curate review tool not available; pessimistic-2026-05-19 reference)
+- **Issues addressed (from `reviews/pessimistic-2026-05-19.md`)**:
+  - Issue 1 (High): Promoted the four-mechanism preamble into a new §"Architecture and Implementation Candidates" sub-section with explicit menu-not-system language. Phenomenal Biasing is now load-bearingly the architecture-level claim; Selection of Action, Sustained Attention, and Volitional Modulation are explicitly candidate implementation-level mechanisms. Added a clarifying sentence noting Phenomenal Biasing does not require a specific quantum-physical mechanism — the architecture's contribution is the felt valence that selects.
+  - Issue 2 (Medium): Already addressed in prior pass (§"Empirical compatibility" reads "The framework's architecture is permitted by current physics; specific candidate mechanisms face quantitative constraints"). Verified no further drift.
+  - Issue 3 (Medium): Already addressed in prior pass (§"Philosophical coherence" now names sequential-dependency, intention-versus-spontaneity, and Bell-inequality-style tests as ensemble-level discriminators surviving the per-trial bound). Verified no further drift.
+  - Issue 4 (Medium): Already addressed in prior pass (§"Introspective Evidence" registers Nisbett-Wilson 1977 and Wegner 2002 and clarifies the Map does not require token-level introspective causal reliability). Verified no further drift.
+  - Issue 5 (Low-Medium): Added unity-of-consciousness cross-reference in §"Ontological restraint" — explicitly notes the restraint presupposes a single conscious subject coordinates the candidate mechanisms, cites Bayne 2010 and Schechter 2018, acknowledges split-brain literature as a complication, and labels the unity as load-bearing background rather than derived. Added `[[unity-of-consciousness]]` to concepts frontmatter array.
+- **Engagement classification (editor-internal, per `direct-refutation-discipline`)**:
+  - Engagement with predictive processing in §"Phenomenal Biasing": Mode Three (framework-boundary marking) — the article identifies where PP and the Map diverge at the bridge from sub-personal valence-prior to felt awfulness; honest disagreement, not in-framework refutation.
+  - Engagement with eliminative materialism / noradrenergic redescription in §"Volitional Modulation": Mixed (Mode Three with Mode Two element) — the article notes the two readings are observationally indistinguishable at the phenomenology (boundary-marking) and registers that the phenomenally laden component is not paraphrasable as locus-coeruleus modulation without remainder (closer to Mode Two: the rival cannot accommodate the phenomenal residue on its own descriptive resources).
+- **Voice preservation**: No changes to the article's argumentative spine, the four-mechanism enumeration, or §"Absence of Direct Evidence" calibration. Edits were targeted to (a) framework-level commitment explicitness and (b) unity-of-consciousness acknowledgement.
+- **Word count delta**: ~+200 words (3,089 → ~3,290, well within budget; topic article soft threshold is 3,000–4,000)
+- **Frontmatter**: `ai_modified` updated to 2026-05-19T20:38:03+00:00; `unity-of-consciousness` added to concepts.
+- **Published**: yes (draft: false maintained)
 
 ## 2026-05-19T20:35:00+00:00 - replenish-queue
 - **Status**: Success (standard mode; pessimistic-review-driven generation)
