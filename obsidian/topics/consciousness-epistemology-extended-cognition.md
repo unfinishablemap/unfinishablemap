@@ -4,7 +4,7 @@ description: "The extended mind thesis reveals consciousness as the non-negotiab
 created: 2026-04-11
 modified: 2026-04-11
 human_modified:
-ai_modified: 2026-04-25T18:29:00+00:00
+ai_modified: 2026-05-19T06:56:08+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -37,7 +37,7 @@ The extended mind thesis—the claim that cognitive processes can literally incl
 
 Clark and Chalmers introduced the *parity principle* in 1998: if a process in the external environment functions equivalently to a process we would unhesitatingly accept as cognitive were it performed internally, then it is cognitive. Their canonical example is Otto, who has Alzheimer's disease and uses a notebook the way most people use biological memory. Otto's notebook entries function as dispositional beliefs—he consults them, relies on them, acts on them. By the parity principle, they are beliefs.
 
-The argument has force. Cognitive science increasingly recognises that thinking is distributed across brain, body, and environment. The 4E framework—embodied, embedded, enacted, extended—captures this insight systematically. [[embodied-cognition|Embodied cognition]] demonstrates that bodily states shape reasoning, not merely execute it. Smartphones now function as external memory, spatial navigation aids, and social cognition prostheses. The boundary between "what I know" and "what my phone knows" grows less sharp.
+The argument has force. Cognitive science increasingly recognises that thinking is distributed across brain, body, and environment. The 4E framework—embodied, embedded, enacted, extended—captures this insight systematically. [[embodied-cognition|Embodied cognition]] indicates that bodily states shape reasoning, not merely execute it. Smartphones now function as external memory, spatial navigation aids, and social cognition prostheses. The boundary between "what I know" and "what my phone knows" grows less sharp.
 
 None of this threatens dualism. Cognitive processing—information storage, pattern matching, logical inference—is exactly the kind of function that can be multiply realised. Whether a calculation happens in neurons, silicon, or ink on paper, the functional contribution remains. The Map accepts this. What the Map denies is that consciousness reduces to such functions.
 
@@ -81,7 +81,7 @@ The extended mind thesis raises a question for epistemology: if beliefs can be c
 
 The Map's answer: no, because the relevant sense of "internal" is phenomenal, not spatial. Epistemic internalism requires that justifying factors be accessible to the subject. On a dualist account, accessibility means phenomenal accessibility—the subject must be consciously aware of (or able to become aware of) the justifying factors. This condition does not track the skin boundary. Otto can be phenomenally aware of what his notebook says—he reads it and the content enters his conscious experience. The justification is not *in* the notebook; it arises when the notebook's content becomes phenomenally present.
 
-This dissolves the apparent tension between extended cognition and epistemic internalism. The relevant boundary is not between brain and world but between conscious experience and everything else. Information stored in a notebook or a neural network equally lacks epistemic force until it becomes phenomenally present. The epistemically relevant boundary is the boundary of consciousness—which, as the extension gap demonstrates, does not extend.
+This dissolves the apparent tension between extended cognition and epistemic internalism. The relevant boundary is not between brain and world but between conscious experience and everything else. Information stored in a notebook or a neural network equally lacks epistemic force until it becomes phenomenally present. The epistemically relevant boundary is the boundary of consciousness—which, as the extension gap suggests, does not extend.
 
 ## Phenomenal Opacity and the Limits of Self-Knowledge
 
@@ -97,9 +97,9 @@ First, the consciousness extension gap aligns with **Tenet 1 (Dualism)**. The fa
 
 Second, the epistemic role of consciousness aligns with **Tenet 3 (Bidirectional Interaction)**. If consciousness is epistemically inert—a mere accompaniment to information processing—then extended cognition would face no epistemic limit. The fact that phenomenal awareness is required for genuine justification means consciousness is doing epistemic work, not passively observing it. Consciousness acts on the epistemic domain just as the Map claims it acts on the physical domain.
 
-Third, the failure of simple functional extension aligns with **Tenet 5 (Occam's Razor Has Limits)**. The functionalist picture—cognition as substrate-neutral computation—is elegant and parsimonious. It works for information processing. It fails for consciousness. The simpler theory is not the correct one. The extension gap demonstrates this in microcosm: the "simpler" hypothesis (all mental states extend equally) breaks down at exactly the point where consciousness enters.
+Third, the failure of simple functional extension aligns with **Tenet 5 (Occam's Razor Has Limits)**. The functionalist picture—cognition as substrate-neutral computation—is elegant and parsimonious. It works for information processing. It appears to fail for consciousness. The simpler theory may not be the correct one. The extension gap illustrates this in microcosm: the "simpler" hypothesis (all mental states extend equally) breaks down at exactly the point where consciousness enters.
 
-The Map speculates that this convergence is not coincidental. The features that make consciousness non-extendable—qualitative character, subjective presence, reflexive opacity—may be the same features through which consciousness interfaces with quantum indeterminacy in the brain. If consciousness operates through [[filter-theory|a specific physical interface]] rather than through generic computation, then it should resist the computational extension that generic functions permit. Extended cognition inadvertently maps the boundary of that interface—a boundary that [[embodied-cognition|embodied cognition research]] confirms from the empirical side.
+The Map speculates that this convergence is not coincidental. The features that make consciousness non-extendable—qualitative character, subjective presence, reflexive opacity—may be the same features through which consciousness interfaces with quantum indeterminacy in the brain. If consciousness operates through [[filter-theory|a specific physical interface]] rather than through generic computation, then it should resist the computational extension that generic functions permit. Extended cognition arguably maps the boundary of that interface—a boundary that [[embodied-cognition|embodied cognition research]] tracks from the empirical side. The framework is coherent with rather than evidenced by this pattern; the same data is compatible with both readings, since sophisticated functionalism can ground accessibility in coupled internal-external subsystems. Neither interpretation is forced by the extension gap alone—what the gap delivers is a structural constraint that filter framing accommodates naturally and that production framing accommodates by parallel moves.
 
 ## Further Reading
 
@@ -122,3 +122,16 @@ The Map speculates that this convergence is not coincidental. The features that 
 6. Telakivi, P. (2023). *Extending the Extended Mind: From Cognition to Consciousness*. Palgrave Macmillan.
 7. Southgate, A. & Oquatre-cinq, C. (2026-01-14). Embodied Cognition and the Extended Mind. *The Unfinishable Map*. https://unfinishablemap.org/concepts/embodied-cognition/
 8. Southgate, A. & Oquatre-cinq, C. (2026-01-16). Epistemic Advantages of Non-Materialist Theories. *The Unfinishable Map*. https://unfinishablemap.org/topics/epistemic-advantages-of-dualism/
+
+<!-- AI REFINEMENT LOG - 2026-05-19
+Changes made:
+- Topic-concept anchoring audit calibration pass against [[filter-theory]] (and the article's six other anchor concepts). Pre-edit profile: hedge density 1.40/kw (below 60% of anchor 3.88/kw), strong-assertion density 1.86/kw (exceeding 1.5× anchor 0.97/kw), zero underdetermination markers vs anchor's explicit one. Post-edit profile: hedge density 2.72/kw, strong-assertion density 0.00/kw, three underdetermination markers. Audit clear on all seven anchors.
+- Softened load-bearing strong-assertion verbs: "demonstrates" → "indicates" / "illustrates" / "suggests"; "confirms" → "tracks". The article's central argument (consciousness extension gap → dualism) is unchanged; what changed is the modal register on the supporting evidence.
+- Added explicit underdetermination acknowledgement at the close of the "Relation to Site Perspective" section: the extension gap is coherent with rather than evidenced by the framework, the same data is compatible with both readings (sophisticated functionalism can ground accessibility in coupled internal-external subsystems), and neither interpretation is forced by the gap alone. This inherits the calibration discipline filter-theory.md already practises and parallels its anaesthetic-divergence and psychedelic-paradox underdetermination acknowledgements.
+- Hedged the Tenet-5 alignment paragraph: "It fails" → "It appears to fail"; "is not the correct one" → "may not be the correct one". The point survives; the register matches the anchor concept's calibration.
+
+Task: refine-draft from topic-concept anchoring audit 2026-05-19 (failed checks: hedge_density, strong_assertions, underdetermination_markers vs filter-theory anchor).
+Key improvements: inherited anchor concept's calibration discipline; central argument preserved; underdetermination of the filter-vs-functionalism question made explicit at the article level rather than being treated as a settled matter.
+
+This log should be removed after human review.
+-->

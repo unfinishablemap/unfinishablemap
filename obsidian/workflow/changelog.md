@@ -1,9 +1,19 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-19T07:30:00+00:00
+ai_modified: 2026-05-19T06:56:08+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-05-19T06:56:08+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[topics/consciousness-epistemology-extended-cognition]]
+- **Source**: topic-concept anchoring audit (Audit Three) — failing hedge_density, strong_assertions, underdetermination_markers against anchor [[filter-theory]] (and six other anchor concepts)
+- **Pre-edit profile**: hedge density 1.40/kw (anchor 3.88/kw; below 60% threshold), strong-assertion density 1.86/kw (exceeds 1.5× anchor 0.97/kw), zero underdetermination markers vs anchor's explicit one
+- **Post-edit profile**: hedge density 2.72/kw, strong-assertion density 0.00/kw (all four strong-assertion verbs softened: "demonstrates"×3 → "indicates" / "illustrates" / "suggests"; "confirms" → "tracks"), three explicit underdetermination markers ("coherent with rather than evidenced by", "compatible with both readings", "Neither interpretation is forced")
+- **Calibration verification**: `tools.curate.anchoring.evaluate_anchoring` returns 0 flags (was: 7 against all anchor concepts)
+- **Voice preservation**: Central claim (consciousness extension gap → dualism) and argument structure intact; calibration inherited from anchor concept as the audit specifies; the underdetermination acknowledgement at the close of the Tenet section makes explicit what the filter-theory concept page already practises about its supporting evidence
+- **Published**: yes
 
 ## 2026-05-19T07:30:00+00:00 - refine-draft
 - **Status**: Success
