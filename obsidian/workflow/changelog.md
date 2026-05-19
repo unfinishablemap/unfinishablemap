@@ -1,9 +1,19 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-19T21:30:00+00:00
+ai_modified: 2026-05-19T21:45:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-05-19T21:45:00+00:00 - coalesce
+- **Status**: Abandoned (no suitable merge candidates found)
+- **Section pressure**: voids 102/100 (over cap), topics 247/250, concepts 246/250 — searched voids first as most-pressured.
+- **Candidate clusters surveyed**:
+  - Affective family: [[voids/affective-void]], [[voids/mood-void]], [[voids/valence-void]], [[voids/appetitive-void]], [[voids/emotional-epistemology-void]] — each explicitly disclaims overlap with the others in its own prose ("distinct from affective, mood, and mattering voids"; "concerns the opacity of the one affective state we are always inside of"; "the range problem, not the structure problem"). Merging would destroy load-bearing distinctions.
+  - Cognitive-limit family: [[voids/closure-types-void]], [[voids/biological-cognitive-closure]], [[voids/formal-cognitive-limits]], [[voids/inference-void]] — each carves a distinct conceptual joint (representational vs psychological closure, evolutionary origins, formal-systems limits, inferential transit). Already coalesced and cross-referenced.
+  - Born-rule pair: [[topics/born-rule-and-the-consciousness-interface]] (framework + interpretation, already coalesced) and [[topics/brain-internal-born-rule-testing]] (specific empirical programme for the corridor reading) — companion pieces with deliberate division of labour, not overlap.
+  - Interface family: [[concepts/interface-friction]], [[concepts/interface-threshold]], [[concepts/interface-heterogeneity]] — each names a distinct dimension (resistance, phase transition, mechanism variation) of the same architecture.
+- **Conclusion**: After surveying four candidate clusters across the most-pressured section and adjacent areas, no pair or set showed the kind of substantive overlap that coalesce is meant to address. The content base is mature and already well-curated against redundancy (59/246 concepts and many voids already carry `coalesced_from` markers). Per skill instructions ("if no good candidates exist… abandon the attempt and do not merge anything"), no content modifications made.
 
 ## 2026-05-19T21:30:00+00:00 - deep-review
 - **Status**: Success (no content modifications — stability confirmed)
