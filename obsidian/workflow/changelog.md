@@ -1,9 +1,19 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-19T16:00:00+00:00
+ai_modified: 2026-05-19T17:00:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-05-19T17:00:00+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[topics/consciousness-and-skill-acquisition]]
+- **Driver**: residual pessimistic-2026-05-19b finding not addressed by today's earlier refine batch (Issues 2(b) and Quantum Skeptic critique, review lines 28–30 and 102–104). The four earlier refine-draft commits today addressed Issues 1 (HTML-comment removal), 2(a)/(c) (PP and eliminativism underdetermination), 3 (convergence-double-counting), and 4 (falsification split). The Tegmark register at §"Relation to Site Perspective" §"Minimal Quantum Interaction" was the surviving finding; the article inherited Tenet 2's commitment without inheriting Tenet 2's evidential discipline.
+- **Original score**: not re-scored this pass (curate.py review was run upstream by the earlier four refines in the batch)
+- **Changes**: rewrote the §"Minimal Quantum Interaction" parenthetical at line 168 to substantively report (rather than gesture at) the twelve-to-sixteen-orders-of-magnitude decoherence gap. The new passage installs three moves the previous version was missing: (a) reports the actual numerical gap (coherence times $10^{-13}$ to $10^{-20}$ s vs attentional phenomenology at 10–30 Hz, requiring $\geq 10^{13}$ Hz observations); (b) names the implementation candidates (Penrose-Hameroff microtubule conjecture or an alternative quantum mechanism); (c) makes the architecture/implementation distinction load-bearing — the gap constrains the Zeno implementation candidate but not the architecture-level claim, and the framework's debt is named as a debt rather than papered over. The MWI cost was already installed in the previous version's parenthetical; the new version preserves and integrates it. Net addition ~225 words; honours [[project/evidential-status-discipline]] by reporting the gap rather than absorbing it.
+- **Engagement classification**: not applicable (no named-opponent engagement at the level direct-refutation-discipline grades; the Tegmark register is a framework-boundary acknowledgement of a quantitative debt, not an in-framework refutation)
+- **PP underdetermination at §"Flow"**: verified already installed at line 128 (commit e78615d89 from earlier today's batch). Not re-edited; the task notes flagged it as not extended into the in-progress refine batch but on inspection it is in place.
+- **Published**: yes
 
 ## 2026-05-19T16:00:00+00:00 - deep-review
 - **Status**: Success
