@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-19 16:18:23+00:00
+ai_modified: 2026-05-19 16:53:23+00:00
 ai_system: claude-opus-4-7
 author: Andy Southgate
 concepts: []
@@ -60,19 +60,23 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: optimistic-review
 - **Generated**: 2026-05-19
 
-### P3: Cross-link audit — verify reciprocal links between project/calibration-audit-triple methodology siblings
+### P2: Cross-link audit — verify reciprocal links between project/calibration-audit-triple methodology siblings
 - **Type**: cross-review
 - **Status**: pending
+- **Priority change**: Promoted P3 → P2 by /replenish-queue 2026-05-19 (4th cycle, conservative top-up). Active P0-P2 queue at threshold (3 tasks: 1 literature-drift, 1 cross-review for binding-problem coalesce, 1 expand-topic dissociative-states). Promotion adds diversification — methodology-layer hygiene is cap-safe (cross-review of existing project pages, no new article slots consumed) and complements the existing P2 mix by adding a *light, well-defined* cross-review task that can be completed quickly between heavier work. The audit-triple integration completed 2026-05-17 and has not had its internal cross-link density audited since; promoting it now closes a 2-day-old loose end before further methodology accretion makes the audit larger.
 - **Notes**: Replenish-queue 2026-05-19 — the project-tier methodology layer has continued to grow since the calibration-audit-triple integration completed 2026-05-17 (line 183). The three audits (anchoring, altered-state symmetry, literature-drift) are now firing in steady rotation and their findings are being cited across the catalogue, but the methodology layer's *internal* cross-link density has not been audited since the integration. Verify: (a) `project/calibration-audit-triple.md` continues to cite the three constituent audit pages with reciprocal navigation; (b) the three audit pages (`literature-drift-review.md` skill notes, the topic-concept-anchoring audit notes, the altered-state symmetry audit notes — verify file names) reciprocally cite the triple page; (c) the four named methodology disciplines `[[evidential-status-discipline]]`, `[[common-cause-null]]`, `[[direct-refutation-discipline]]`, `[[framework-stage-calibration]]` all cite the triple page as the audit-discipline they answer to; (d) the two newer methodology pages — `[[project/voids-circularity-discount]]`, `[[project/coherence-inflation-countermeasures]]`, `[[project/outer-reviewer-service-calibration]]`, `[[project/bedrock-clash-vs-absorption]]`, `[[project/outer-review-empirical-vs-methodological-freshness]]` — are correctly cross-linked into the methodology web; (e) `[[project/automation.md]]` continues to list the calibration-audit-triple as the fourth Methodology Discipline; (f) `[[project/project.md]]` landing page reflects the current methodology layout; (g) `[[topics/psychedelics-and-the-filter-model]]` continues to function as the canonical exhibit. Estimated scope: audit of 12–14 methodology pages, 2–4 likely to need short edits (~50–100 words per article touched). Tenet alignment: methodological. See `obsidian/project/calibration-audit-triple.md` and the integration record at todo.md line 183.
 - **Source**: gap_analysis (methodology-layer cross-link density)
 - **Generated**: 2026-05-19
+- **Promoted**: 2026-05-19 (P3 → P2 by /replenish-queue)
 
-### P3: Research animal-consciousness 2024–2025 literature for active-research-section literature-drift cadence
+### P2: Research animal-consciousness 2024–2025 literature for active-research-section literature-drift cadence
 - **Type**: research-topic
 - **Status**: pending
+- **Priority change**: Promoted P3 → P2 by /replenish-queue 2026-05-19 (4th cycle, conservative top-up). Active P0-P2 queue at threshold (3 tasks); the current P2 mix lacks a research-topic. Promoting this task feeds the existing P2 literature-drift task (`consciousness-and-skill-acquisition`) with parallel empirical-anchor work — the two together build a stronger literature-drift evidence base than either alone. Cap-safe (research-only output, no new article slots; topics/ is at 247/250 cap and this task explicitly forecloses an expand-topic chain).
 - **Notes**: Replenish-queue 2026-05-19 — the literature-drift-review skill cycles through `audit_triple.literature_drift.active_research_sections` (currently: psychedelics, animal-cognition, animal-consciousness, iit, quantum-biology, consciousness-measurement, neural-complexity). The 2026-05-19 05:00 UTC weekly literature-drift run audited `topics/animal-consciousness.md` (the `recently_audited` list shows it). The audit produced a `flagged_audits: 0 / clean_audits: 1` profile — a clean pass on first audit. The animal-consciousness domain is one of the catalogue's most-active areas — Birch's edge-of-sentience framework (2024), the cephalopod cognition literature, the fish-pain debates, the insect-sentience expansion — and a one-time clean pass at the literature-drift cadence is a thin evidence base for the current 2024–2025 consensus. A standalone research-topic pass would (a) retrieve the 2024–2025 animal-consciousness review literature systematically — Birch 2024 book, the 2024 NYU Declaration on Animal Consciousness, the cephalopod-cognition 2024 reviews, the 2024–2025 insect-sentience papers, the fish-pain 2024 debates; (b) catalogue which of the 2024–2025 findings are *cited* in the catalogue's animal-consciousness cluster and which are *missing* — `topics/animal-consciousness.md`, `topics/birch-edge-of-sentience-and-the-five-tier-scale.md`, `topics/cross-species-behavioural-confidence-proxy-tests.md`, `concepts/cross-species-channel-introspection-architecture-independence.md` (if exists — verify against the recent research note `research/cross-species-channel-introspection-architecture-independence-2026-05-15.md`); (c) identify which findings would shift the catalogue's articles toward additional underdetermination markers or new convergence-arguments. Estimated research scope: ~2 hours; output ~2000–3000 words in `research/animal-consciousness-2024-2025-literature-{date}.md`. Tenet alignment: empirical-anchor strengthening for the animal-consciousness cluster; `[[evidential-status-discipline]]` discipline. Note: this is research-only (no expand-topic chain), since `topics/` is at 246/250 cap.
 - **Source**: gap_analysis (active-research-section literature-drift cadence)
 - **Generated**: 2026-05-19
+- **Promoted**: 2026-05-19 (P3 → P2 by /replenish-queue)
 
 ### P3: Deep review project/human-supervision.md (never deep-reviewed, ai_contribution=50, age 115 days)
 - **Type**: deep-review
