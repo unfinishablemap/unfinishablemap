@@ -4,8 +4,8 @@ description: "Mine-ness is the phenomenal mark by which experience presents as b
 created: 2026-05-19
 modified: 2026-05-19
 human_modified:
-ai_modified: 2026-05-19T12:58:30+00:00
-last_deep_review: 2026-05-19T12:00:00+00:00
+ai_modified: 2026-05-19T19:00:00+00:00
+last_deep_review: 2026-05-19T19:00:00+00:00
 draft: false
 topics:
   - "[[consciousness-and-the-ownership-problem]]"
@@ -49,7 +49,7 @@ Three clarifications keep the concept from sliding into adjacent notions:
 
 **Mine-ness is not reflective self-awareness.** Reflective self-awareness is a second-order state: attending to one's own mental states as such. Zahavi's claim is stronger: mine-ness is present in *first-order* experience, before any reflective act. The phenomenal "for-me" structure is built into conscious states at the ground level, not constructed by metacognition on top of them.
 
-Heidegger's *Jemeinigkeit* goes further. Mineness is not merely a phenomenal feature of conscious states; it is an ontological structure of Dasein. Being is always "mine to be." Even *inauthenticity*—losing oneself in the anonymous "they"—is a *mode* of mineness, not its abolition. The Map does not require Heidegger's full ontological framework, but takes from him the point that mine-ness is *prior* to the subject-object distinction. It is not a relation between two pre-existing things (the experience and the subject who owns it); it is part of how experience is structured from the start.
+Heidegger's *Jemeinigkeit* goes further. Mine-ness is not merely a phenomenal feature of conscious states; it is an ontological structure of Dasein. Being is always "mine to be." Even *inauthenticity*—losing oneself in the anonymous "they"—is a *mode* of mine-ness, not its abolition. The Map does not require Heidegger's full ontological framework, but takes from him the point that mine-ness is *prior* to the subject-object distinction. It is not a relation between two pre-existing things (the experience and the subject who owns it); it is part of how experience is structured from the start.
 
 ## Evidence for Separability
 

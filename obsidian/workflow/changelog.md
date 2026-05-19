@@ -1,9 +1,26 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-19T18:30:00+00:00
+ai_modified: 2026-05-19T19:00:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-05-19T19:00:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [[concepts/mine-ness]] (cross-link audit; the audit modified four articles, not the concept page itself in any prose change)
+- **Mode**: Cross-link audit — verify the six inbound links from `voids/ownership-void.md`, `topics/phenomenology-of-recursive-self-awareness.md`, `topics/phenomenology-of-agency-vs-passivity.md`, `topics/consciousness-and-the-ownership-problem.md`, `voids/self-opacity.md`, `concepts/self-and-self-consciousness.md` use canonical terminology consistently
+- **Word counts**: net-zero across all five touched files (`mine-ness` 2481→2481, `ownership-void` 1889→1889, `consciousness-and-the-ownership-problem` 2749→2749, `self-and-self-consciousness` 3286→3286). All edits were terminology hyphenation only.
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 1 — canonical-form terminology hyphenation drift in `ownership-void.md` (8 body occurrences + description + heading), `consciousness-and-the-ownership-problem.md` (1 occurrence), `self-and-self-consciousness.md` (1 occurrence in Zahavi gloss), and `mine-ness.md` itself (1 Heidegger gloss with 2 occurrences). All standardised to canonical hyphenated "mine-ness". Reference titles "What Is It Like to Lack Mineness?" (Billon 2023) and "No Need for Mineness" (Knappik 2022) preserved as published.
+- **Audit (a) terminology**: see above; resolved.
+- **Audit (b) multi-channel re-derivation**: none found inline in any of the six inbound articles; nothing to defer to the concept page.
+- **Audit (c) rubber-hand / DPD / thought-insertion triple anchoring**: rubber-hand mentioned only on the concept page (line 98) where it is correctly framed as a sub-type. No duplication elsewhere.
+- **Audit (d) reciprocal cross-link direction**: all six inbound articles link via `concepts:` field; concept page reciprocally references all six (5 in `related_articles`, 1 in `concepts:` (self-and-self-consciousness), 1 in `topics:` (consciousness-and-the-ownership-problem)). Reciprocity complete.
+- **Audit (e) evidential-status discipline**: no explicit five-tier labels in `mine-ness.md`; calibration carried by hedging prose ("suggestive of, though not decisive against, MWI's metaphysics"). No drift across the six articles. Implicit calibration preserved.
+- **Engagement classification**: no new opponent engagements added; prior classifications (Metzinger Mode Two, Knappik Mode One, Many-Worlds Mode Three, Duch Mode Two in `self-and-self-consciousness`) all preserved.
+- **Label leakage**: none — editor-vocabulary terms appear only in changelog and review archive.
+- **Output**: [[reviews/deep-review-2026-05-19-mine-ness-crosslink-audit]]
+- **Published**: yes (drafted; the orchestrator will commit)
 
 ## 2026-05-19T18:30:00+00:00 - optimistic-review
 - **Status**: Success
