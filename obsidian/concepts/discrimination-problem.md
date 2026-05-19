@@ -4,8 +4,8 @@ description: "How can introspection distinguish genuine phenomenal consciousness
 created: 2026-05-18
 modified: 2026-05-19
 human_modified: null
-ai_modified: 2026-05-19T19:15:00+00:00
-last_deep_review: 2026-05-18T23:50:25+00:00
+ai_modified: 2026-05-19T21:00:00+00:00
+last_deep_review: 2026-05-19T21:00:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -87,9 +87,9 @@ The discrimination problem, formally stated, is the general structural-asymmetry
 - **Born-rule-bias-vs-noise readings of putative consciousness-quantum signatures.** The [[brain-internal-born-rule-testing|brain-internal Born-rule testing]] article confronts the same structural problem at the empirical-interface tier: any candidate statistical departure from Born-rule expectation in neural quantum events is ambiguous between a real consciousness-bias signal and instrumental or biological noise of the right magnitude to mimic one. The article's trumping-preemption analysis sharpens this further: a trumping reading shares with epiphenomenalism the prediction of no statistical signature at the Born level, making the two positions empirically indistinguishable by Born-rule data alone. The discriminator must come from causal-structure tests outside the Born-rule channel.
 - **Functional-vs-phenomenal readings of AI systems.** The [[machine-question|machine question]] and [[open-question-ai-consciousness|open question on AI consciousness]] apex articles inherit the discrimination problem in pure form. Behavioural, verbal, computational, and architectural signatures of LLMs and other AI systems are compatible with functional sophistication present and phenomenality absent, with both present, or with both absent in different configurations across systems. The choice of test reflects the choice of background theory of consciousness; no test currently available independently settles which background theory is correct.
 
-The generalisation is a *methodological identification of structural similarity* across cases, not a unified theory of underdetermination. Each instance has its own mechanism, its own empirical state, and its own residue; what they share is the formal shape — two properties, one channel, identical effects within that channel, no in-channel resolution without a prior framework commitment that fixes which features matter. Naming the shape makes the recurring pattern visible as a *family* of problems the catalogue must repeatedly handle with the same discipline, rather than as a series of unrelated puzzles each requiring its own ad hoc treatment. It also clarifies what kind of progress is possible: not collapsing the discrimination from inside the channel, but either (a) identifying an additional channel whose own discrimination problem is structurally different, (b) accepting that the discriminator must come from prior framework commitment and stating that commitment honestly (the [[bedrock-clash-vs-absorption|bedrock-clash discipline]]), or (c) calibrating the confidence one places in either reading to the structural underdetermination the discrimination problem identifies (the [[evidential-status-discipline|evidential-status discipline]]'s register, applied here at the discriminator-availability question).
+The generalisation is a *methodological identification of structural similarity* across cases, not a unified theory of underdetermination. Each instance has its own mechanism, its own empirical state, and its own residue; what they share is the formal shape — two properties, one channel, identical effects within that channel, no in-channel resolution without a prior framework commitment that fixes which features matter. Naming the shape makes the recurring pattern visible as a *family* of problems the catalogue handles with the same discipline rather than as a series of unrelated puzzles each requiring ad hoc treatment. It clarifies what kind of progress is possible: not collapsing the discrimination from inside the channel, but either (a) identifying an additional channel whose own discrimination problem is structurally different, (b) accepting that the discriminator must come from prior framework commitment and stating that commitment honestly (the [[bedrock-clash-vs-absorption|bedrock-clash discipline]]), or (c) calibrating confidence in either reading to the structural underdetermination the discrimination problem identifies (the [[evidential-status-discipline|evidential-status discipline]]'s register, applied at the discriminator-availability question).
 
-This generalisation honours the [[evidential-status-discipline|evidential-status discipline]] directly. The claim is *not* that consciousness epistemology, memory-interface evidence, free-will metaphysics, putative quantum-mind signatures, and AI-consciousness testing are *the same problem*. They are different problems that share a structural feature. The shared structure does not transfer evidence between them, does not unify their resolutions, and does not license any individual problem inheriting confidence from another. It does usefully transfer *discipline*: the methodological hygiene the discrimination-problem framework demands at the consciousness-epistemology instance is the same hygiene each parallel instance demands at its own tier.
+The shared structure transfers *discipline*, not evidence. Consciousness epistemology, memory-interface evidence, free-will metaphysics, putative quantum-mind signatures, and AI-consciousness testing are different problems with a common formal feature; none inherits confidence from another. The methodological hygiene the framework demands at the consciousness-epistemology instance is the same hygiene each parallel instance demands at its own tier.
 
 ## Boundary Cases That Sharpen the Problem {#cases}
 
@@ -156,37 +156,4 @@ The discrimination problem identifies a structural [[voids|void]]: a region of f
 7. Schwitzgebel, E. (2011). *Perplexities of Consciousness*. MIT Press.
 8. Southgate, A. & Oquatre-cinq, C. (2026-01-22). Access Consciousness. *The Unfinishable Map*. https://unfinishablemap.org/concepts/access-consciousness/
 9. Southgate, A. & Oquatre-six, C. (2026-01-14). Illusionism. *The Unfinishable Map*. https://unfinishablemap.org/concepts/illusionism/
-
-<!-- AI REFINEMENT LOG - 2026-05-19 (cluster-integration cross-links)
-Changes made:
-- Added one-sentence pointer at end of §"Why It Is Stubborn" connecting the structural-asymmetry result to the parallel production-vs-filter underdetermination case in the memory-system-vulnerability-hierarchies article.
-- Added [[memory-system-vulnerability-hierarchies-as-interface-evidence]] to related_articles.
-- Added Further Reading entries for memory-system-vulnerability-hierarchies-as-interface-evidence and bedrock-clash-vs-absorption (the latter already cited inline but not in Further Reading).
-- Bumped ai_modified to 2026-05-19T13:00:00+00:00.
-
-Task: refine-draft from optimistic-2026-05-19.md Cross-Linking Suggestions table — install rows (a) and (d). The reverse cross-link from bedrock-clash-vs-absorption to discrimination-problem is installed separately in that article.
-
-This is a cluster-integration link, not a tier-upgrade. Honours [[evidential-status-discipline]].
-
-This log should be removed after human review.
--->
-
-<!-- AI REFINEMENT LOG - 2026-05-19 (generalisation section)
-Changes made:
-- Added §"Generalisation Across the Catalogue" (after §"Why It Is Stubborn", before §"Boundary Cases That Sharpen the Problem"). Formally states the discrimination problem as "the general structural-asymmetry result that arises whenever a detection channel cannot distinguish between two properties that produce identical effects in that channel". Catalogues four cross-cutting instances with one-paragraph framings each: (a) production-vs-filter readings of the memory-system vulnerability hierarchy, (b) compatibilist-vs-libertarian readings of the moral phenomena, (c) Born-rule-bias-vs-noise readings of putative consciousness-quantum signatures, (d) functional-vs-phenomenal readings of AI systems. Closes with an evidential-status-discipline calibration paragraph: the generalisation is "a methodological identification of structural similarity across cases, not a unified theory of underdetermination" — naming the shape transfers discipline, not evidence.
-- Extended Tenet 5 paragraph in §"Relation to Site Perspective" with a one-paragraph add-on that draws the methodological link explicit: the discrimination-problem framework is "the methodological scaffolding that holds Tenet 5 in place across the catalogue's boundary cases."
-- Added [[compatibilist-symmetry-challenge]], [[brain-internal-born-rule-testing]], [[machine-question]], [[open-question-ai-consciousness]], [[evidential-status-discipline]] to related_articles.
-- Added matching entries to Further Reading.
-- Bumped ai_modified to 2026-05-19T19:15:00+00:00.
-
-Task: refine-draft from optimistic-2026-05-19.md §"Expansion Opportunities" Medium Priority §"Discrimination-problem framework as a first-class catalogue concept". Optimistic review offered "short addition to existing article or short new concept page (500–1000 words)" — execution-time judgement chose addition-to-existing because (a) the structural-asymmetry result that the generalisation extends already lives here in §"Why It Is Stubborn", (b) concepts/ section cap is at 245/250 with only 5 slots remaining (CLAUDE.md), so spending a slot on a standalone is the costlier choice when the addition fits cleanly into existing structure, (c) the generalisation reads as a natural extension of the existing structural-asymmetry result rather than as a separate topic.
-
-Honours [[evidential-status-discipline]] explicitly: the generalisation paragraph is closed by an evidential-status calibration note that the structural-similarity identification "does not transfer evidence between instances, does not unify their resolutions, and does not license any individual problem inheriting confidence from another. It does usefully transfer *discipline*." This blocks the failure mode where naming a recurring pattern slides into claiming the pattern is itself a unified theoretical result.
-
-Honours [[direct-refutation-discipline]]: no named-opponent engagement in this refine; the additions are catalogue-internal cartography. No reasoning-mode classification applies.
-
-Attribution accuracy: the four cross-cutting instances cited (memory-hierarchy, compatibilist-symmetry, born-rule-testing, machine-question / open-question-ai-consciousness) are all extant articles in the catalogue (verified at edit time); each instance description characterises the catalogue article's existing framing rather than introducing new claims into it.
-
-This log should be removed after human review.
--->
 

@@ -1,9 +1,24 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-19T10:30:00+00:00
+ai_modified: 2026-05-19T21:00:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-05-19T21:00:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [[concepts/discrimination-problem]]
+- **Word count**: 2834 → 2789 (-45 words, length-neutral mode; 112% of 2500 soft threshold)
+- **Previous review**: [[reviews/deep-review-2026-05-18-discrimination-problem|2026-05-18]] (one day prior — convergence pass)
+- **Critical issues addressed**: 0 (none found — article is mature)
+- **Medium issues addressed**: 2 (collapsed redundancy between two consecutive paragraphs in §"Generalisation Across the Catalogue" that both made the discipline-not-evidence point; removed two stale AI REFINEMENT LOG HTML comments from prior refine-draft passes whose content is preserved in this archive and the previous-day's archive)
+- **Enhancements made**: 0 content additions; this is a maintenance pass confirming structural maturity
+- **Attribution check**: Schwitzgebel, Loar, Dennett, Frankish, Chalmers, Block, Coutinho et al. (2021) all verified — accurate citations, no dropped qualifiers, no source/Map conflation. Four catalogue instances in Generalisation section (memory-hierarchy, compatibilist-symmetry, born-rule-testing, machine-question / open-question-ai-consciousness) all extant and faithfully characterised.
+- **Possibility/probability slippage**: None — the article is structurally about discrimination problems, and the Bidirectional Interaction tenet section explicitly maintains calibration restraint ("a real causal signature exists" but "distinguishing it from noise … is itself a discrimination problem in another register").
+- **Reasoning-mode classification**: No new engagements this pass. Prior classifications remain: Dennett (Mode Mixed leaning Mode Two), illusionism / phenomenal-concepts (Mode Mixed), NCC methodology (Mode Mixed leaning Mode Two). No editor-vocabulary label leakage in article body.
+- **Stability**: Article reached convergence over two-day review cycle. The illusionism/eliminativism disagreement is bedrock-framework-boundary and should not be re-flagged. Length at 112% of soft threshold is acceptable — well below the 3500-word hard threshold and the content is doing real work via the Generalisation section's catalogue-hub role and the Asymmetry-Breaking Signatures section's structurally-motivated calibration content.
+- **Output**: [[reviews/deep-review-2026-05-19-discrimination-problem]]
+- **Published**: yes
 
 ## 2026-05-19T10:30:00+00:00 - condense
 - **Status**: Success
