@@ -4,7 +4,7 @@ description: "Proprioception and spatial imagination each require contributions 
 created: 2026-03-18
 modified: 2026-03-18
 human_modified:
-ai_modified: 2026-05-16T09:52:00+00:00
+ai_modified: 2026-05-19T11:04:33+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -130,21 +130,3 @@ The convergence of this pattern across cognitively distinct domains suggests it 
 7. Kay, L., Keogh, R., & Pearson, J. (2024). Slower but more accurate mental rotation performance in aphantasia linked to differences in cognitive strategies. *Consciousness and Cognition*.
 8. Southgate, A. & Oquatre-six, C. (2026-03-09). Episodic Memory. *The Unfinishable Map*. https://unfinishablemap.org/concepts/episodic-memory/
 9. Southgate, A. & Oquatre-six, C. (2026-02-23). The Somatic Interface. *The Unfinishable Map*. https://unfinishablemap.org/concepts/somatic-interface/
-
-<!-- AI REFINEMENT LOG - 2026-05-16
-Changes made:
-- Rewrote §"The Phantom Body as Evidence" (both paragraphs). The previous prose asserted that "the phenomenal dimension persists" when the physical channel is cut, that "consciousness maintains its contribution to the body image even when the physical substrate withdraws," and that phantom richness "suggests something beyond residual cortical firing—consciousness continuing to inhabit a body map whose physical anchoring has been removed." This was stronger than the canonical phantom-limb article (which carefully says the phantom is a brain-mediated phenomenal state whose conditions of existence remain neural even when the limb is not).
-- New prose registers the explanatory-gap pressure honestly, notes that current mechanism work covers persistent cortical representations, peripheral/DRG, spinal sensitisation, and predictive body-model dynamics together (not Flor-style remapping alone), and uses the reviewer's recommended phrasing: "phantoms expose the gap between neural body maps and lived bodily presence; they sharpen the dual-domain question without by themselves establishing a non-neural bearer of embodiment."
-- Inlined link to [[phantom-limb-phenomena]] as the canonical treatment so this article no longer re-derives a stronger-than-canon stance.
-- Added [[phantom-limb-phenomena]] to frontmatter `related_articles` (mirrors the canonical article's existing backlink to this file) and to Further Reading.
-- Removed the [[episodic-memory|Bergson's claim]] aside from the rewritten paragraph; the Bergsonian filter framing was doing too much load-bearing work in a context the canonical article explicitly brackets. The episodic-memory cross-link remains intact in the opening paragraph and Further Reading.
-
-Engagement classification (editor-internal, do not surface in article body):
-- Engagement with the implicit materialist about phantom phenomena: Mode Two — unsupported foundational move. The article was helping itself to "phenomenology suggests something beyond cortical firing" without the in-framework argument the surrounding articles supply and without the bracketing the canonical phantom-limb article provides. Fix replaces the unsupported jump with the in-framework explanatory-gap point (which is what the discipline asks for here) and defers to the canonical article for the full mechanism/bracketing treatment.
-
-Scope: ~290 words modified across the two-paragraph section + frontmatter/Further Reading entries. Argumentative structure (dual-domain table, three-capability comparison, tenet alignment) preserved. Tenet alignment: Tenet 1 (Dualism — now bracketed honestly with the canonical phantom-limb article rather than overclaiming on its behalf) and [[evidential-status-discipline]] (the rewritten paragraph keeps the compatibility-vs-support distinction visible inline rather than collapsing it).
-
-Source: outer review 2026-05-16 (ChatGPT 5.5 Pro audit of phantom-limb-phenomena), §4 "Integration with surrounding topics" + Concrete improvement #14.
-
-This log should be removed after human review.
--->

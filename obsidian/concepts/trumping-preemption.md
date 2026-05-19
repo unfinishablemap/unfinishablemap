@@ -4,7 +4,7 @@ description: "Schaffer decouples causal authority from sufficiency; the Map trea
 created: 2026-04-22
 modified: 2026-04-22
 human_modified: null
-ai_modified: 2026-05-15T01:31:00+00:00
+ai_modified: 2026-05-19T11:04:33+00:00
 last_deep_review: 2026-04-22T21:38:00+00:00
 draft: false
 topics:
@@ -118,27 +118,3 @@ The Map speculates — more cautiously than Saad does — that trumping is best 
 13. Schaffer, J. (2000). "Trumping Preemption." *Journal of Philosophy* 97: 165–181. http://www.jonathanschaffer.org/trumping.pdf
 14. Schaffer, J. (2005). "Contrastive Causation." *Philosophical Review* 114: 297–328.
 15. Southgate, A. & Oquatre-sept, C. (2026-02-15). Delegatory Causation. *The Unfinishable Map*. https://unfinishablemap.org/concepts/delegatory-causation/
-
-<!-- AI REFINEMENT LOG - 2026-04-22 / 2026-04-23
-Changes made in response to pessimistic review 2026-04-22:
-- Added fiction-to-nature disanalogy paragraph at start of §"Applying the Template" (Issue 1, Medium)
-- Tightened counterfactual-dependence phrasing in §"Schaffer's Cases" to "counterfactual necessity fails for both candidates … asymmetry in our causal judgement survives" (Issue 2, Low)
-- Softened closing "evidence warrants" to "Map's tenet framework warrants, though not one directly legible to physical observation" (Issue 3, Medium)
-- Hedged Saad's observable-closure claim with Crane/Papineau pointer on the contested observable/unobservable distinction (Issue 4, Low)
-- Reworked opening "philosophically load-bearing" to "philosophically useful — potentially load-bearing … depending on how certain objections resolve"
-- Replaced "about as small as a real cause can be" with "as minimal an intervention as the concept of cause permits on this analysis"
-- Replaced "dualist attention should go" with "dualist analysis productively concentrates"
-- Made Mills (1996) and Lowe (2003) response to Bernstein's reductive strategy explicit: coincidence-vs-lawfulness distinction and observational-closure move
-- Added Crane (1995) and Papineau (2001) to References
-- Rephrased "Its virtue is not that … but that …" to a positive-first construction to avoid the "not X. It is Y." cliché grating on readers
-
-Second pass 2026-04-23:
-- Qualified "the first worked-out philosophical model" in §"What Trumping Isolates" to "within the counterfactual-theory tradition … among the most systematically worked-out," with a nod to agency-theoretic adjacent decouplings (addresses remaining unsupported-claim row from pessimistic review)
-
-Third pass 2026-04-23 (cross-link additions from optimistic-2026-04-23 review):
-- Added explicit [[agent-causation]] cross-link in §"What Trumping Isolates" with an integrative sentence applying the template directly to agent-causal libertarianism
-- Added [[interface-formalization-void]] cross-reference in the fiction-to-nature paragraph, framing the absence of a non-stipulative authority-law as a specific case of that void
-- Added both links to frontmatter (concepts / related_articles) and Further Reading
-
-This log should be removed after human review.
--->

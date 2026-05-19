@@ -4,7 +4,7 @@ description: "Where does consciousness meet the brain, and how does conscious st
 created: 2026-02-09
 modified: 2026-05-18
 human_modified: null
-ai_modified: 2026-05-18T17:37:00+00:00
+ai_modified: 2026-05-19T11:04:33+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -201,51 +201,3 @@ The interface problem is the Map's most significant open challenge. Partial answ
 15. Westbrook, A., et al. (2023). Dopamine regulates decision thresholds in human reinforcement learning in males. *Nature Communications*, 14, 5340.
 16. Wiest, O. et al. (2024). Microtubule-stabilizer epothilone B delays anesthetic-induced unconsciousness in rats. *eNeuro*, 11(8).
 17. Zheng, J. & Meister, M. (2024). The Unbearable Slowness of Being: Why do we live at 10 bits/s? *Neuron*, 112(24).
-
-<!-- AI REFINEMENT LOG - 2026-05-01 (11:17 UTC follow-up to 09:25 UTC pass)
-Changes made (targeted refinement, ~430 words touched, addressing the three deferred items from [[pessimistic-2026-05-01b]] left by the 09:25 UTC refine, plus the queued P2 reciprocal-hook task from [[optimistic-2026-05-01b]]):
-- Issue 2 (microtubule-demotion charity): Expanded the microtubule-demotion sentence in the "From Agnosticism" section into a fuller passage that names what would constitute a meaningful tubulin-coupling/PTM/synchrony differentiator (tubulin isoform expression shifts, post-translational modifications like acetylation/detyrosination/polyglutamylation, gamma-band coupling maturation), and acknowledges that the same charity granted to the attention-motor architecture (matters through changing organisation, not bare presence) applies in principle to microtubules through their changing molecular state. The demotion is now framed as a soft preference for the more architecturally specific account rather than a structural exclusion.
-- Issue 3 (Cai et al. dopamine→consciousness mapping): Qualified the Cai citation in two places. (a) "From Agnosticism" passage — added explicit channel-separation language: the Cai finding is cognitive-functional (initiative as disposition to begin purposive behaviour, demonstrable behaviourally without phenomenal-causal commitment); the Map's interpretation is distinct (the architecture Cai et al. characterise is the architecture conscious selection would have to act *through*); the cognitive-functional and phenomenal-selection readings are compatible without being equivalent; the framework adds the second to the first rather than deriving it from Cai. (b) "Relation to Site Perspective" Bidirectional Interaction passage — softened "gains from" to "gains qualified support from," and reframed the dopamine-deficient-mice dissociation as cognitive-functional finding *consistent with* (not establishing) the framework's distinction. Channel A (source) and Channel B (Map) are now separated.
-- Issue 6 ("What Would Falsify" testability): Reframed the section consistent with the "currently unfalsifiable in practice" framing at line 122. Opening sentence rewritten: framework is in-principle falsifiable even where not so in practice yet; "rules out quantum effects" qualified to "rules out consciousness-relevant quantum effects" / "the relevant indeterminacy". Added a new second paragraph stating the conditions are not currently testable, naming them as "in-principle falsification conditions awaiting detection-threshold improvements," and pointing to the falsification-roadmap article as the catalogue of intermediate experimental advances (single-molecule quantum readout, sharper attentional probes, joint phenomenal-physical correlation tools). The honest position: framework supplies a falsification structure whose *application* waits on instrumentation rather than on the framework's own elaboration.
-- Reciprocal-hook task (optimistic-2026-05-01b High Priority): Body cross-link to [[falsification-roadmap-for-the-interface-model]] installed as part of the "What Would Falsify" reframe, which is the natural editorial seam called out in both task notes. Forward-link direction now closed; reverse-link verification remains queued in the P2 cross-review chain task on falsification-roadmap-for-the-interface-model.
-
-Preserved (per [[optimistic-2026-05-01b]] Stability Notes): the Lakatosian concession at the "From Agnosticism" opener, the pre-Keplerian framing, and the "currently unfalsifiable in practice" wording at line 122 — all left untouched.
-
-Based on pessimistic review [[pessimistic-2026-05-01b]] deferred items + optimistic review [[optimistic-2026-05-01b]] reciprocal-hook task. No curate-tool quality score.
-Key improvements: cognitive→phenomenal channel separation made explicit at the two Cai-citation sites; microtubule demotion framed as soft preference rather than structural exclusion; "What Would Falsify" reframed as in-principle conditions awaiting instrumentation, with reciprocal hook to falsification-roadmap; methodological honesty (Tenet 5 / Bidirectional Interaction load) extended at the three weakest remaining points without disturbing the load-bearing concessions installed by the 09:25 UTC pass.
-
-This log should be removed after human review.
--->
-
-<!-- AI REFINEMENT LOG - 2026-05-09 06:43 UTC (deep-review cross-review)
-Trigger: cross-review chained from the 2026-05-09 03:09 UTC restructure of [[empirical-phenomena-mental-causation]] (in-framework Mode Two pressure on phenomenal-functional arbitrariness via two-axis systematicity, plus honest framework-boundary marking; complementarity argument earned via different-substrates/same-precision; open-label argument-shift made explicit; Mode Asymmetry rephrased without the Tulving conflation).
-
-Pre-existing convergence state: zero critical issues in [[deep-review-2026-05-01-the-interface-problem]] and [[deep-review-2026-05-05-the-interface-problem]]. Length 3027 → ~3050 (101% → 102% of soft target; well below 4000 hard threshold).
-
-Changes (light cross-link installation, length-neutral discipline applied):
-(a) Frontmatter `related_articles` updated with [[empirical-phenomena-mental-causation]] (now last entry, after [[interface-efficacy-and-the-cognitive-gap]]).
-(b) Body cross-link installed at the natural editorial seam in "Relation to Site Perspective" → Bidirectional Interaction passage. New sentence between the dopamine-research sentence and the epiphenomenalism-foreclosure sentence: "The broader empirical case for the tenet — placebo's content-specific physiological direction and choking's mode-specific skill disruption — is developed at [[empirical-phenomena-mental-causation]], establishing the explanandum the location/specification programme attempts to mechanise." Load-bearing direction: empirical case establishes the *that*; this article addresses the *where/how*. The two articles' division of labour is now signposted explicitly.
-(c) Length-neutral offset: tightened the biological-analogy sentence in "The Critic's Strongest Objection" from "...involves regulatory networks and developmental contingency — but biological relationships remain physical; if the interface involves non-physical variables, the usual tools may not apply" to "...involves regulatory networks and developmental contingency, though biological relationships remain physical and the usual tools may not apply if the interface involves non-physical variables." (Saves the em-dash + semicolon double-clutch; preserves both qualifications.)
-
-Engagement classifications (editor-internal, recorded here per direct-refutation-discipline; previous classifications carried forward):
-- Eliminative-materialist engagement in "The Critic's Strongest Objection": mixed (Mode Two on the impossibility claim — Stapp/Eccles partial models refute the *impossibility* claim by the eliminativist's own standards of structural specifiability; Mode Three on the framework-internal preference for non-epiphenomenal alternatives, with Chalmers/Robinson loosening the self-stultifying charge preserved as the eliminativist's available counter-move). Unchanged from 2026-05-05; no editor-vocabulary leakage in prose.
-
-Calibration check: no possibility/probability slippage detected. The article's "qualified support" / "consistent with… without itself establishing" / "currently unfalsifiable in practice" / pre-Keplerian framing all hold. The new cross-link sentence does not upgrade evidential status — it points to where the empirical case is *developed*, with that article's own honest framework-boundary marking absorbed by reference.
-
-Stability targets preserved: front-loaded summary, constrained-pluralism arc, hierarchical model, four-question specification framework, pre-Keplerian self-assessment, falsification criteria, "currently unfalsifiable in practice" qualifier, Lakatosian concession at "From Agnosticism" opener, dopamine cognitive→phenomenal channel-separation language, microtubule-demotion charity, framework-stage-calibration cross-link, mind-brain-interface-efficacy cross-link, no LLM clichés. All hold.
-
-This log should be removed after human review.
--->
-
-<!-- AI REFINEMENT LOG - 2026-05-01 (18:53 UTC follow-up to 11:17 UTC pass)
-Changes made (short scope, ~42 words touched, addressing the queued P2 reciprocal-hook task installing the reverse-direction back-link to the 12:25 UTC project-doc creation of [[framework-stage-calibration]]):
-- (a) Added `[[framework-stage-calibration]]` to `related_articles` frontmatter (now last entry in the list).
-- (b) Installed body cross-link at the natural editorial seam — immediately after the Tycho-analogue scaffolding sentence ("...the data and constraint scaffolding from which such a law might one day be inferred.") and before the biological-analogy turn. New text: "The editorial discipline this passage exemplifies — calibrating a borrowed analogy to the framework's actual developmental stage rather than to its rhetorical convenience — is articulated at project level in [[framework-stage-calibration]], which treats this paragraph as its worked example." (42 words; in target range.)
-- (c) Load-bearing direction honoured: the bridging text locates the *discipline* at the project doc ("articulated at project level in framework-stage-calibration") and retains the *empirical-stage commitment* (the pre-Keplerian framing, the Tycho-analogue listing, the proto-model characterisation) at the interface-problem article. The cross-link does not duplicate the project doc's exposition of the three rules, the Tycho/Kepler/Newton stage distinction, or the honest-limitation structure — those remain at the project doc, where they belong.
-- (d) Cliché audit: re-read the full article for "This is not X. It is Y." cliché violations. None found. The article's existing rhetorical handling of contrast uses "X rather than Y" patterns ("reorganisation under an architectural umbrella rather than elimination by experiment", "the editorial discipline... rather than to its rhetorical convenience"), which is the preferred construction per CLAUDE.md.
-- ai_modified bumped to 2026-05-01T18:53:00+00:00.
-
-Pre-Keplerian framing, Tycho-analogue listing, Lakatosian concession, "currently unfalsifiable in practice" framing, and dopamine cognitive→phenomenal channel-separation language all preserved untouched. Stability holds.
-
-This log should be removed after human review.
--->

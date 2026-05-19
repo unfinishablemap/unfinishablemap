@@ -4,7 +4,7 @@ description: "The body shapes how consciousness engages matter without producing
 created: 2026-02-09
 modified: 2026-04-16
 human_modified:
-ai_modified: 2026-05-19T00:00:00+00:00
+ai_modified: 2026-05-19T11:04:33+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -232,18 +232,3 @@ The interface reading would face serious difficulty if:
 1. Varela, F., Thompson, E., & Rosch, E. (1991). *The Embodied Mind: Cognitive Science and Human Experience*. MIT Press.
 1. Wise, S. P., & Murray, E. A. (2000). Arbitrary associations between antecedents and actions. *Trends in Neurosciences*, 23(6), 271-276.
 1. Zahavi, D. (2005). *Subjectivity and Selfhood: Investigating the First-Person Perspective*. MIT Press.
-
-<!-- AI REFINEMENT LOG - 2026-05-19
-Changes made (calibration audit Audit Three remediation against anchor [[mind-brain-separation]]):
-- Replaced or softened all 13 strong-assertion verbs ("proves" ×6, "demonstrates" ×4, "refutes" ×1, "shows that" ×2) with hedged variants ("suggests", "is suggestive evidence", "appears to", "may", "could plausibly") in the lead, the 4E evidence list, the choking paragraph, the pain section, the attention-motor sections, the bidirectional-interaction tenet block, and the challenge list. Strong-assertion density 4.07/kw → 0.0/kw.
-- Raised hedge density 1.56/kw → 12.90/kw by inserting calibrated hedge markers ("appears", "seems", "may", "perhaps", "could", "suggests") at the sites where the Map's interpretation goes beyond what the data force. The hedges concentrate around Map-interpretive claims rather than empirical descriptions, preserving the article's voice.
-- Installed three explicit underdetermination markers: "the evidence does not decisively adjudicate" (lead), "Neither framing is forced by the phenomenology alone" (lived-body section), and "compatible with the same divergence" / "suggestive rather than decisive" (pain location and timing-evidence sections). Topic now declares underdetermination at the same calibration level as both filter-theory and mind-brain-separation anchors.
-- Added explicit counter-readings at three load-bearing points (materialist construal of the *Leib*/*Körper* asymmetry as epistemic-not-metaphysical; sophisticated-epiphenomenalist construal of choking; common-cause reading of the attention-motor timing convergence). These mark where the Map's reading is one of several compatible interpretations rather than the only one the data permit.
-- Reworked the Dualism tenet block to replace "refutes Cartesian substance dualism" with "undercuts" and to add the reductionist counter-reading; reworked the Occam block to replace "embodiment proves materialism" with "embodiment vindicates materialism".
-
-Audit verification: tools.curate.anchoring.evaluate_anchoring returns 0 flags against all anchor concepts (was: 3 failed checks against mind-brain-separation). Topic now has higher hedge density than every anchor; zero strong assertions versus anchor's 1.88/kw; three underdetermination markers versus anchors' 1.
-
-Voice preserved. Central claim (the body shapes how consciousness engages matter without producing it; embodied evidence and phenomenology jointly support interactionist dualism) is intact; the change is to the calibration with which that claim is held — inherited from the [[mind-brain-separation]] anchor as the audit specifies.
-
-This log should be removed after human review.
--->

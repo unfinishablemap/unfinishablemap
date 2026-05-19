@@ -4,7 +4,7 @@ description: "Skill acquisition challenges epiphenomenalism—deliberate practic
 created: 2026-02-02
 modified: 2026-03-22
 human_modified:
-ai_modified: 2026-05-19T00:00:00+00:00
+ai_modified: 2026-05-19T11:04:33+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -193,15 +193,3 @@ The strongest physicalist counterargument is that executive attention networks e
 1. Walker, M.P. et al. (2002). Practice with sleep makes perfect. *Neuron*, 35(1), 205-211.
 1. Wolpert, D.M. & Flanagan, J.R. (2001). Motor prediction. *Current Biology*, 11(18), R729-R732.
 1. Zatorre, R.J., Chen, J.L. & Penhune, V.B. (2007). When the brain plays music. *Nature Reviews Neuroscience*, 8(7), 547-558.
-
-<!-- AI REFINEMENT LOG - 2026-05-19
-Changes made (topic-concept anchoring audit 2026-05-19; anchor: [[filter-theory]]):
-- Replaced five strong-assertion verbs ("confirms", "proves", "demonstrates") with calibrated alternatives ("indicates", "appears to", "seems to", "may indicate", "fits", "appears to track"). Strong-assertion density now 0/kw (was 1.88/kw; anchor 0.97/kw).
-- Added eight hedge markers ("appears", "seems", "suggesting", "may", "perhaps", "might be expected") across the opening, the deflationary-reading passage, tool-incorporation, flow, and the corticostriatal-evidence summary. Hedge density now 6.44/kw (was 2.26/kw; anchor 3.88/kw).
-- Installed four explicit underdetermination markers — "neither interpretation is forced by the data alone" in the opening, "does not adjudicate between interactionist and identity readings" in the tool-incorporation passage, "compatible with both interpretations" in the Against-Epiphenomenalism summary, and "evidence does not decisively adjudicate" in the four-converging-lines paragraph. Anchor [[filter-theory]] has one such marker; the topic now has four.
-- Preserved the central argument intact: the article still endorses bidirectional interaction and still treats deliberate-practice neuroscience as the Map's strongest empirical case against epiphenomenalism. The calibration discipline added is the [[concepts/filter-theory|anchor concept]]'s — identity-theory vs. interactionism is not adjudicated by the data; epiphenomenalism is what the data constrain — and the topic article now inherits it rather than overclaiming relative to it.
-
-Source: topic-concept anchoring audit (Audit Three of [[project/calibration-audit-triple]]); failed checks before: hedge_density, strong_assertions, underdetermination_markers; all three cleared after the refine. The audit additionally surfaced seven secondary anchor flags (attention-as-interface, mental-effort, cognitive-phenomenology, metacognition, working-memory, temporal-consciousness, skill-delegation) which were also cleared by the same edits.
-
-This log should be removed after human review.
--->

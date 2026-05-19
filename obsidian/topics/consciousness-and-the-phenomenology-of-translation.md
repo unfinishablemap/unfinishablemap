@@ -4,7 +4,7 @@ description: "What the lived experience of translating between languages reveals
 created: 2026-02-19
 modified: 2026-02-19
 human_modified:
-ai_modified: 2026-05-09T22:38:00+00:00
+ai_modified: 2026-05-19T11:04:33+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -183,26 +183,3 @@ The phenomenology of translation connects to the Map's [[tenets]] at several poi
 1. Lomas, T. (2016). "Towards a Positive Cross-Cultural Lexicography: Enriching our Emotional Landscape through 216 'Untranslatable' Words Pertaining to Well-Being." *Journal of Positive Psychology* 11(5): 546–558.
 1. Quine, W. V. O. (1960). *Word and Object*. MIT Press.
 1. Davidson, D. (1974). "On the Very Idea of a Conceptual Scheme." *Proceedings and Addresses of the American Philosophical Association* 47: 5–20.
-
-<!-- AI REFINEMENT LOG - 2026-05-09
-Pass 1 (19:38 UTC) — cross-review against apex/phenomenal-output-causal-machinery-dissociation:
-- Inserted new section "What Translation Cannot Read About Its Own Operation" (~860 words) after "The Untranslatable Remainder", surveying five structurally distinct faces of operation-to-consciousness opacity in translation: Hofstadter-Sander analogical-core opacity, Gentner structure-mapping as sub-personal, Lomas carving-invisible-from-inside, Quine-Davidson indeterminacy as the principled face, and LLMs as the cleanest functional-without-phenomenal contrast.
-- Applied constrain-vs-establish discipline in natural prose: "None of these dissociations on its own establishes the dualist reading; each removes the simplest identity claim..."
-- Connected article to apex/phenomenal-output-causal-machinery-dissociation as the cluster's linguistic-and-analogical face.
-- Cross-linked sibling voids and the consumed research note.
-
-Pass 2 (22:38 UTC) — deep-review with cross-review focus:
-- Fixed LLM cliché in "Remainder as Evidence": "This does not reduce consciousness to language. Rather, it shows that..." (two-sentence "Not X. Rather Y." cliché previously flagged in the opening) → integrated into single sentence: "Within the domain of linguistically structured thought, consciousness and language are entangled in ways that resist clean separation, though this entanglement does not reduce consciousness to language."
-- Trimmed editor-coordination meta-talk: deleted the "framework-stage placement" paragraph that explained the topic/void framing in editor vocabulary; sibling-voids navigation removed (cross-links remain in frontmatter and Further Reading where they belong).
-- Tightened cluster-connection close: merged the constrain-vs-establish sentence with the "Translation joins the cluster" sentence to remove redundancy.
-- Length-neutral mode: trims absorb the cliché-fix's slight expansion, net ~85 words trimmed (3405 → ~3320 words, 110% of soft).
-
-Reasoning-mode classification (editor-internal, not in body):
-- Engagement with materialist computationalism in §Remainder as Evidence: Mode 2 — the simplest "meaning-as-formal-relation" account hasn't earned its translation-completeness commitment by its own standards. Expressed in natural prose ("If meaning were purely computational... translation should always be possible in principle"). No label leakage.
-- Engagement with LLM functionalism in §Machine Translation: Mode 3 (boundary-marking) — surface competence does not settle the phenomenal question; the gap that persists in literary translation is what phenomenal understanding provides. Honest framework-boundary marking, no claim of refutation inside the functionalist framework.
-- Bedrock disagreements (eliminativism, MWI, functionalism) carried forward from prior reviews — not re-flagged.
-
-Convergence note: Article has now had four deep reviews. The 2026-05-09 cycle (Pass 1) added substantive content under the cross-review focus; Pass 2 is conservative — calibration cleanup and editor-vocabulary removal only. Future reviews should not re-flag the bedrock disagreements or the now-fixed cliché instances.
-
-This log should be removed after human review.
--->

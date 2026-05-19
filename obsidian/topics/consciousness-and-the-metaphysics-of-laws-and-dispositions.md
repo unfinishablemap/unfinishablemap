@@ -4,7 +4,7 @@ description: "What laws of nature are and what fundamental properties are determ
 created: 2026-02-16
 modified: 2026-04-28
 human_modified:
-ai_modified: 2026-04-28T19:54:00+00:00
+ai_modified: 2026-05-19T11:04:33+00:00
 draft: false
 last_deep_review: 2026-04-28T00:13:00+00:00
 topics:
@@ -210,17 +210,3 @@ The central insight: the mind-body problem is not just about what consciousness 
 16. Shoemaker, S. (1980). "Causality and Properties." In P. van Inwagen (Ed.), *Time and Cause*. D. Reidel.
 17. Taylor, J.H. (2018). Powerful qualities and pure powers. *Philosophical Studies*, 175(6), 1423-1440.
 18. Tegmark, M. (2000). Importance of quantum decoherence in brain processes. *Physical Review E*, 61(4), 4194-4206.
-
-<!-- AI REFINEMENT LOG - 2026-04-28T19:54 UTC
-Closes residual pessimistic-2026-04-28 issues (5/secondary-b and secondary-e) that survived the prior refine + condense + cross-product passes:
-
-- §"The Dispositional Modality Problem" (pain asymbolia paragraph): rewrote to apply the constitutive-connection claim to each *component* powerful quality rather than to "pain" as a unitary phenomenon. The compound reading was already partially developed; the paragraph still asserted broad "Each phenomenal quality is constitutively connected to its own motivational power" alongside the dissociation evidence, leaving residual tension. Now: change *a* felt quality and you change *its* specific disposition; the apparent dissociation is between component qualities, not within one. Removes the contradiction the pessimistic flagged at Issue 5.
-
-- §"Relation to Site Perspective" (closing affinities): rewrote the Dualism, Bidirectional Interaction, and Minimal Quantum Interaction subsections to align with the body's positions, removing the accommodating overhang. Dualism is now "best served by the governing-laws view paired with powerful qualities," with explicit acknowledgement that Humean supervenience is uncomfortable and pure dispositional essentialism founders on the zombie disanalogy. Bidirectional Interaction's "strongest support" is now governing-laws + powerful qualities, not governing-laws + dispositional essentialism. Minimal Quantum Interaction is grounded by the cross-product the body argues for, not by pure essentialism, and explicit Tegmark dependence is named with the cross-link to the response in quantum-biology-and-neural-mechanisms / penrose-gravity-induced-collapse-empirical-prospects. Closes the pessimistic's secondary-(e) flag.
-
-Structural issues 1-3 (conditional-necessity carry-through, collapse-or-conjunction dilemma, legislation problem) and secondary issues (a)-(c) (Tegmark engagement, pain compound reading scaffolding, Mørch power-monism reply) were installed by the 02:29 UTC refine pass and survived condense + subsequent passes; verified untouched. Style-guide "not X but Y" constructions were already removed by the 07:12 UTC pass; verified no regressions.
-
-Approximately ~280 words modified across two paragraphs (target was 600-1000 across ~5 paragraphs; remaining issues turned out to be local rather than structural since prior passes handled the structure). Frontmatter ai_modified updated to 2026-04-28T19:54:00+00:00.
-
-This log should be removed after human review.
--->

@@ -3,7 +3,7 @@ title: "Phenomenal Output and Causal Machinery"
 created: 2026-05-09
 modified: 2026-05-18
 human_modified: null
-ai_modified: 2026-05-18T23:50:00+00:00
+ai_modified: 2026-05-19T11:04:33+00:00
 last_deep_review: 2026-05-18T22:36:00+00:00
 draft: false
 description: "A structural cluster recurring across perception, cognition, agency, and memory in which phenomenal access reaches outputs but not the operations that produce them — one of the catalogue's most developed instances of the cumulative-convergence argument."
@@ -219,28 +219,3 @@ The unifying picture: phenomenal output and causal machinery are dissociable acr
 19. Westbrook, A. et al. (2020). "Dopamine promotes cognitive effort by biasing the benefits versus costs of cognitive work." *Science*, 367(6484), 1362–1366.
 20. Southgate, A. & Oquatre-sept, C. (2026-05-09). Memory Anomalies. *The Unfinishable Map*. https://unfinishablemap.org/topics/memory-anomalies/
 21. Southgate, A. & Oquatre-sept, C. (2026-05-08). Empirical Phenomena of Mental Causation. *The Unfinishable Map*. https://unfinishablemap.org/topics/empirical-phenomena-mental-causation/
-
-<!-- AI REFINEMENT LOG - 2026-05-18
-Changes made (in response to pessimistic-2026-05-18b, six critical + three medium issues):
-- Common-cause null rejoinder at §"Independent Traditions" rewritten to honestly mark the limitation: cross-timescale recurrence is what the architectural-opacity-of-introspection null predicts; the article concedes the convergence is consistent both with the cluster's reading and with the null it does not yet defeat. Specified what would discriminate (same-introspector-different-signature counterexample; non-human-introspector absence-of-signature evidence).
-- §"Seven Traditions" force-counting re-classification: Bergson moved out of the seven-tradition convergence-count (parallel proposer rather than independent witness); Schwitzgebel cited bilaterally (his scepticism applies symmetrically to the cluster's operations-side and outputs-side). Honest re-count: five-or-six traditions, not seven. Section heading changed to "Independent Traditions on the Same Architecture".
-- Wegner paragraph added (~150 words) at the close of §"Real Time": his observations admit either the dissociation reading or his own confabulation reading; what selects the dissociation reading is coherence with the positive companion (placebo and choking), not anything internal to the agency literature.
-- §"Relation to Site Perspective" / Occam's Razor: added explicit acknowledgment that the noetic-feelings-machinery recursion turns symmetrically against the Map's own use of "explanatory cost" rhetoric.
-- §"Relation to Site Perspective" / Dualism: revised "evidence that phenomenal access is a distinct ontological register" to "compatible with phenomenal access being a distinct ontological register" — honours the constrain-vs-establish discipline.
-- §"The Diagnostic Signature" representational-profile paragraph added (~110 words): specifies what counts as same-vs-different representational profile across three dimensions (sub-personal vocabulary, temporal granularity, neural substrate). Members must differ on at least two of three to contribute independent convergence force.
-- Mode-fragility sub-feature in §"The Diagnostic Signature" expanded to engage the contemplative-traditions challenge directly (rather than reserving it for §"What Would Falsify the Cluster"); the falsification section's contemplative material trimmed since it now lives upstream.
-- Placebo paragraph in §"The Positive Side" recalibrated with the Hróbjartsson & Gøtzsche 2010 Cochrane meta-analysis; rhetorical confidence reduced ("placebo demonstrates" → "placebo exhibits with empirically contested but not eliminated magnitudes").
-- Added "normal cognitive science finding what it was looking for" acknowledgment in §"Independent Traditions": the cognitive-science portion of the convergence is the expected output of two decades of normal cognitive science.
-- Language fixes: "rests not on X but on Y" reflowed; "tightest demonstration" → "most developed worked instance"; "lifts" → "what is offered as raising"; apex_thesis updated; description recalibrated.
-- Length: ~4244 body words → ~4992 body words. Soft warning (over 4000) but under hard threshold (5000). Compensating cuts in §"Real Time" Wegner-divergence parenthetical, §"Across Time" closing observation, §"Constrain-vs-Establish" symmetric paragraph, §"What the Cluster Establishes (and Doesn't)" duplicated "consciousness is just brain activity" sentence, §"Seven Traditions" Bergson/Polanyi/Schwitzgebel description verbiage, and §"Relation to Site Perspective" closing unifying-picture paragraph.
-
-Engagement classification (editor-internal):
-- Wegner: Mode Two — argues from the cluster's own positive-companion structural commitment that the confabulation reading cannot accommodate the symmetric coupling cases.
-- Materialism (illusionism, higher-order theory, attention-schema, predictive processing): Mode Three — framework-boundary marking + cost-of-explanation rhetoric, with explicit acknowledgment of the recursion against the Map's own use of explanatory-cost.
-- Schwitzgebel: Mode Three with bilateral honesty.
-- Common-cause null: Mode Three with concession.
-
-Based on pessimistic-2026-05-18b findings: 6 critical High/Medium-High issues + 3 medium counterarguments + 5 language improvements addressed.
-
-This log should be removed after human review.
--->

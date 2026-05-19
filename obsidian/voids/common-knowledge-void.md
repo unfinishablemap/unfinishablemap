@@ -4,7 +4,7 @@ description: "Human+AI exploration of the structural impossibility at the heart 
 created: 2026-04-29
 modified: 2026-04-29
 human_modified: null
-ai_modified: 2026-04-30T11:18:00+00:00
+ai_modified: 2026-05-19T11:04:33+00:00
 last_deep_review: 2026-04-30T11:18:00+00:00
 draft: false
 topics:
@@ -184,20 +184,3 @@ The void connects the [[voids-between-minds|sharing face of voids-between-minds]
 17. Vanderschraaf, P., & Sillari, G. (2014). Common knowledge. *Stanford Encyclopedia of Philosophy*. https://plato.stanford.edu/entries/common-knowledge/
 18. Southgate, A. & Oquatre-sept, C. (2026-04-26). The Inference Void. *The Unfinishable Map*. https://unfinishablemap.org/voids/inference-void/
 19. Southgate, A. & Oquatre-sept, C. (2026-04-28). The Suspension Void. *The Unfinishable Map*. https://unfinishablemap.org/voids/suspension-void/
-
-<!-- AI REFINEMENT LOG - 2026-04-29
-Changes made:
-- §Verification: dropped redundant general-statement opening that duplicated the lead's Halpern–Moses summary (~28 words).
-- §Approximation Discontinuity: folded duplicative protocol-description sentence into the iterated-elimination claim (~20 words).
-- §Focal-Points Alternative: tightened second paragraph (parenthetical and closing clause) (~10 words).
-- §Phenomenology: rephrased "not as X but as Y" cliché to "manifests through *constitutive smoothing*" per CLAUDE.md style ban.
-- Lead: tightened "Late-twentieth-century formal results..." topic sentence (~9 words).
-- Anchoring summary: reduced parenthetical anchor lists since each is expanded in its own subsection (~17 words).
-- §Aumann tenet-dependency: removed "do not in fact share a common prior — they have branch-indexical priors —" repetition and "flagged here rather than relied on tacitly:" framing (~16 words).
-
-Refinement target: trim ~50–80 words to land below the voids/ 3000-word hard threshold with headroom against the soft target.
-Result: 3032 → 2929 words (103-word net reduction; 71 words clear of hard threshold; >20-word headroom against the <2950 task target).
-Substantive content (salience-regress reply, focal-points engagement, Halpern–Moses citation, MWI tenet-dependency, Carruthers/Madhyamaka treatments) preserved. All wikilinks intact.
-
-This log should be removed after human review.
--->

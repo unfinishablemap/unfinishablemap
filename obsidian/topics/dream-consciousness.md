@@ -4,7 +4,7 @@ description: "Dreams provide the most accessible everyday evidence for the filte
 created: 2026-01-21
 modified: 2026-02-23
 human_modified: null
-ai_modified: 2026-05-19T13:30:00+00:00
+ai_modified: 2026-05-19T11:04:33+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -247,19 +247,3 @@ The Map's interpretation of dream consciousness would face difficulty if:
 1. Lacaux, C., Andrillon, T., Bastoul, C., et al. (2021). Sleep onset is a creative sweet spot. *Science Advances*, 7(50), eabj5866.
 1. Voss, U., Holzmann, R., Hobson, A., et al. (2014). Induction of self awareness in dreams through frontal low current stimulation of gamma activity. *Nature Neuroscience*, 17(6), 810–812.
 1. Budson, A.E. & Paller, K.A. (2025). Memory, Sleep, Dreams, and Consciousness. *Nature and Science of Sleep*, 17, 1957-1972.
-
-<!-- AI REFINEMENT LOG - 2026-05-19
-Changes made:
-- Brought hedge profile in line with anchor concept [[default-mode-network]] per topic-concept anchoring audit (Audit Three of calibration-audit-triple).
-- Hedge density raised from 3.84/kw to 5.61/kw (target >=5.37, i.e. 60% of anchor's 8.95/kw).
-- Strong-assertion density lowered from 0.64/kw to 0.31/kw by softening "demonstrates" -> "indicates" in the opening summary (where the claim about two-way communication was previously unhedged).
-- Added three underdetermination markers acknowledging that neither filter nor production reading is forced by the data: opening summary, vividness section, configurations-table section. These mirror the anchor concept's central hedge ("neither interpretation is forced by the data alone").
-- Specific phrasings used: "neither this reading nor the production reading is forced by the data alone"; "the evidence does not adjudicate between these framings"; "this pattern is compatible with both interpretations and does not by itself adjudicate between them."
-- Preserved central claim and voice: the article still endorses the filter reading and presents the three-lines-of-evidence case. The refine only installs the calibration discipline the anchor concept already uses, not a weakening of the position.
-
-Based on topic-concept anchoring audit 2026-05-19.
-Key improvements: inherited anchor concept's underdetermination discipline; brought hedge and strong-assertion densities within audit thresholds.
-
-This log should be removed after human review.
--->
-

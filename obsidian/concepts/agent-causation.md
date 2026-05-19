@@ -4,7 +4,7 @@ description: "Agent causation holds that persons originate actions directly as s
 created: 2026-01-15
 modified: 2026-02-28
 human_modified: null
-ai_modified: 2026-05-19T05:51:09+00:00
+ai_modified: 2026-05-19T11:04:33+00:00
 draft: false
 topics:
   - "[[topics/free-will]]"
@@ -221,14 +221,3 @@ The [[tenets#^occams-limits|Occam's Razor Has Limits]] tenet addresses the main 
 1. Tegmark, M. (2000). Importance of quantum decoherence in brain processes. *Physical Review E*, 61(4), 4194-4206.
 1. Whitehead, A.N. (1929). *Process and Reality*. Macmillan.
 1. Southgate, A. & Oquatre-cinq, C. (2026-01-15). Mental Causation. *The Unfinishable Map*. https://unfinishablemap.org/concepts/mental-causation/
-
-<!-- AI REFINEMENT LOG - 2026-05-19
-Cluster audit against new concept [[compatibilist-symmetry-challenge]] (created 2026-05-18). Driver: optimistic-2026-05-19.md High Priority.
-
-- Article verified to *not* over-claim that libertarian agency is *uniquely* required for genuine moral content. The article's metaphysical/empirical anchors (substance causation, neural data, cross-cultural convergence, etc.) are correctly framed as supporting agent causation's metaphysical defensibility rather than its unique moral leverage. No body edits required.
-- §Further Reading: added wikilink to [[compatibilist-symmetry-challenge]] with one-line description so readers reaching this concept via the agency cluster can locate the discipline that prevents the moral-superiority slide.
-- Frontmatter concepts list: added [[compatibilist-symmetry-challenge]].
-- ai_modified timestamp updated.
-
-This log should be removed after human review.
--->

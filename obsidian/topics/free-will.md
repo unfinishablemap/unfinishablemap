@@ -4,7 +4,7 @@ description: "Can we genuinely author our choices? The Map defends agent-causal 
 created: 2026-01-08
 modified: 2026-05-15
 human_modified: null
-ai_modified: 2026-05-19T05:51:09+00:00
+ai_modified: 2026-05-19T11:04:33+00:00
 last_deep_review: 2026-05-15T00:01:00+00:00
 draft: false
 topics:
@@ -244,14 +244,3 @@ Free will stands at the intersection of all five [[tenets]]:
 1. Schwitzgebel, E. (2011). *Perplexities of Consciousness*. MIT Press.
 1. Wegner, D. M. (2002). *The Illusion of Conscious Will*. MIT Press.
 1. Gallagher, S., & Zahavi, D. (2012). *The Phenomenological Mind* (2nd ed.). Routledge.
-
-<!-- AI REFINEMENT LOG - 2026-05-19
-Cluster audit against new concept [[compatibilist-symmetry-challenge]] (created 2026-05-18). Driver: optimistic-2026-05-19.md High Priority — install discipline's three-part move where missing and natural; install xref where genuinely absent; correct register where article currently uses metaphysical-vs-pragmatic.
-
-- §Free Will and Personal Identity: appended a paragraph that installs the discipline's three-part move (parity → differentiator located outside moral theory → residue at the limits) at the moral-implications hinge, naming compatibilist-symmetry-challenge inline. The article previously asserted moral-responsibility downstream of free will without naming compatibilism's parity claim at all.
-- §Further Reading: added wikilink to [[compatibilist-symmetry-challenge]] with one-line description.
-- Frontmatter concepts list: added [[compatibilist-symmetry-challenge]].
-- ai_modified timestamp updated.
-
-This log should be removed after human review.
--->

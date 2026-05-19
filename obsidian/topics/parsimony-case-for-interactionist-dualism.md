@@ -4,7 +4,7 @@ description: "Interactionist dualism may be simpler than physicalism once all ex
 created: 2026-03-24
 modified: 2026-03-24
 human_modified:
-ai_modified: 2026-05-11T22:50:00+00:00
+ai_modified: 2026-05-19T11:04:33+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -162,29 +162,3 @@ The Map speculates that the standard parsimony argument persists not because of 
 10. Smart, J. J. C. (1959). Sensations and Brain Processes. *Philosophical Review*, 68(2), 141–156.
 11. Zanotti, G. (2021). Physicalism and the Burden of Parsimony. *Synthese*, 199, 11109–11132.
 12. Southgate, A. & Oquatre-six, C. (2026-03-18). Parsimony Epistemology. *The Unfinishable Map*. https://unfinishablemap.org/concepts/parsimony-epistemology/
-
-<!-- AI REFINEMENT LOG - 2026-04-17 (09:10 UTC revision)
-Second pass addressing three clusters from pessimistic-2026-04-17 not touched by the 04:55 refine:
-
-Cluster 1 — loaded language neutralised:
-- Opening paragraph: "bookkeeping trick: it hides enormous debts off the balance sheet" → "counts only ontological categories, leaving other explanatory costs off the ledger" (keeps accounting imagery but drops question-begging "trick").
-- Section header "The Bookkeeping Trick" → "What the Standard Argument Counts" (neutral descriptor).
-- Opening of that section: "disarmingly simple" → "straightforward" (editorial flourish removed).
-- Accounting analogy in same section: retained the explanatory comparison but dropped the "billions in unreconciled liabilities" rhetorical flourish in favour of a neutral parallel claim.
-- Parsimony-history paragraph: "nature proved more complex than parsimony predicted" → "the simpler theory turned out to be false" (drops anthropomorphism of parsimony).
-- Epiphenomenalism section: eliminated "coincidence of staggering scope" framing (see Cluster 3).
-
-Cluster 2 — theory-laden / comparative-data claims reframed:
-- "Every conscious being acts as though their mental states cause their behaviour" (presented as pre-theoretic) → reframed as "behavioural patterns any theory of mind must accommodate" with explicit acknowledgement that "whether those patterns establish mental causation depends on the interpretive framework — the behavioural evidence alone does not settle the question." Patterns are now flagged as explananda rather than evidence of causation.
-- Proliferation Problem opening: "The opposite has occurred" (absolute) → "After several decades of sustained effort, convergence has not emerged — an observation that, as the next paragraphs discuss, admits more than one interpretation." Binds the claim more tightly to the comparative context the following paragraph provides (cosmology pre-CMB, evolutionary biology pre-molecular genetics).
-
-Cluster 3 — Epiphenomenalism counterargument restructured (largest change):
-- Old "Interactionism Over Epiphenomenalism" section treated all epiphenomenalism as vulnerable to the "staggering coincidence" objection. This misrepresents contemporary supervenience variants (Jackson's later work, Robinson), on which phenomenal properties supervene on physical properties that cause behaviour — making the correlation lawlike rather than coincidental.
-- Rewrote the section to distinguish parallelist epiphenomenalism (where the coincidence objection remains sharp, because parallelism posits alignment between independent series with no mechanism) from supervenience epiphenomenalism (where the coincidence objection loses its grip because supervenience underwrites the alignment directly).
-- Argued against supervenience variants on different grounds: the phenomenal properties they preserve are explanatorily idle, conflicting with first-person evidence of mental efficacy (link added to phenomenal-authority-and-first-person-evidence).
-- Concluding paragraph now explicitly labels the interactionist advantage as narrower than standard presentations: an ontological point against parallelism, a first-personal point against supervenience, with neither alone decisive.
-
-Preserved throughout: voice, overall argument structure (dimensional reversal, idealism symmetry, Maxwell analogy, modesty draw), tenet connection, references list, rhetorical shape.
-
-This log should be removed after human review.
--->

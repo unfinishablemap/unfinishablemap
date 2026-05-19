@@ -1,9 +1,17 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-19T11:30:00+00:00
+ai_modified: 2026-05-19T11:04:33+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-05-19T11:04:33+00:00 - refine-draft
+- **Status**: Success
+- **Files**: 65 articles across `topics/` (32), `concepts/` (20), `voids/` (6), `apex/` (7). Two named offenders from the review file (`topics/consciousness-and-skill-acquisition`, `topics/dream-consciousness`) plus 63 surfaced by `grep -l "AI REFINEMENT LOG"` corpus audit. Legitimate sidecar `topics/non-temporal-consciousness.refinement-log.md` correctly preserved (excluded from Hugo sync by `tools/sync/converter.py` lines 72–73 and 179).
+- **Changes**: Removed `<!-- AI REFINEMENT LOG ... -->` HTML-comment blocks from article bodies (some files carried multiple blocks — `the-interface-problem.md` had three). Closing whitespace normalised to a single trailing newline. `ai_modified` timestamps updated on all 65 files. Total block count removed: ~75 across the corpus. No prose content modified; only editor-internal HTML-comment metadata stripped.
+- **Skill patched**: `.claude/skills/refine-draft/SKILL.md` Section 8 ("Document Changes") rewritten to forbid HTML-comment log blocks in article files and direct the editor-internal record to the changelog (or to a sidecar `*.refinement-log.md` for rare longer-form cases). "Important" checklist updated accordingly. This prevents future refine-draft runs from reintroducing the leakage pattern.
+- **Source**: [[reviews/pessimistic-2026-05-19b]] Issue 1 (HTML-comment leakage; severity High; recurring pattern flagged for corpus audit). Cross-references the 2026-05-13 sidecar precedent from [[reviews/pessimistic-2026-05-13]] §"Five Trailing AI REFINEMENT LOG Blocks Persist" — the same failure mode, addressed then for one article, now closed corpus-wide and prevented at the skill level.
+- **Published**: yes (no review threshold — mechanical cleanup, no prose changes)
 
 ## 2026-05-19T11:30:00+00:00 - pessimistic-review
 - **Status**: Success

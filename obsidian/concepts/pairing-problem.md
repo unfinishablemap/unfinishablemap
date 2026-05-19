@@ -4,7 +4,7 @@ description: "What connects a particular mind to a particular body? Kim's challe
 created: 2026-01-16
 modified: 2026-01-20
 human_modified: null
-ai_modified: 2026-04-15T10:35:00+00:00
+ai_modified: 2026-05-19T11:04:33+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -190,16 +190,3 @@ The [[objections-to-interactionism]] article provides comprehensive treatment of
 1. Hasker, W. (1999). *The Emergent Self*. Cornell University Press.
 1. Zimmerman, D. (2010). "From Property Dualism to Substance Dualism." *Proceedings of the Aristotelian Society* 84: 119-150.
 1. Jahn, R.G., & Dunne, B.J. (2005). "The PEAR Proposition." *Journal of Scientific Exploration* 19(2): 195-245.
-
-<!-- AI REFINEMENT LOG - 2026-04-15
-Changes made:
-- Replaced asserted "developmental co-construction" with mechanistic account: progressive mutual adaptation through the five interface criteria, activity-dependent plasticity, and iterative consciousness-brain interaction
-- Removed steering wheel analogy (physical object analogy obscures the non-physical/physical disanalogy central to the pairing problem)
-- Replaced vague "current evidence strongly supports interface locality" with specific PEAR lab null results (effect sizes ~0.0001-0.001) and Jahn & Dunne citation
-- Added Jahn & Dunne (2005) to References
-
-Based on pessimistic review findings (2026-04-15).
-Key improvements: mechanism for developmental co-construction, evidential specificity for interface locality claim.
-
-This log should be removed after human review.
--->

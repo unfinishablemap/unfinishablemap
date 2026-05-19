@@ -4,7 +4,7 @@ description: "A comprehensive treatment of attention as consciousness's interfac
 created: 2026-02-01
 modified: 2026-05-19
 human_modified:
-ai_modified: 2026-05-19T00:00:00+00:00
+ai_modified: 2026-05-19T11:04:33+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -244,25 +244,3 @@ The convergence argument identifies *where* consciousness might influence brain 
 27. Wise, S.P., & Murray, E.A. (2022). The whole prefrontal cortex is premotor cortex. *Philosophical Transactions of the Royal Society B*, 377(1844), 20200524.
 
 28. Zheng, J. & Meister, M. (2024). The unbearable slowness of being: Why do we live at 10 bits/s? *Neuron*.
-
-<!-- AI REFINEMENT LOG - 2026-05-19 (P3 further findings from pessimistic-2026-05-14)
-Changes made:
-- (a) Tegmark numerical engagement at §"Effort, Libet, and Neural Sites": the body now states the actual figures (10⁻¹³ s for ion-channel-scale superpositions; 10⁻²⁰ s for microtubule-scale superpositions in warm, wet brain tissue; twelve-to-twenty orders of magnitude shorter than the ~280–300ms attention timescale; ~10¹⁰× faster than the fastest neural firing events) and names what would have to be true about brain quantum-ordered ion-channel subsystems for the interface mechanism to remain viable (shielded enough to outrun local decoherence; integrated bias non-zero across the relevant population — neither demonstrated). The honest framing is that the mechanism's empirical viability rides on the short-coherence integrationist response rather than positive evidence of the required subsystems.
-- (b) The unsourced "2025 evidence of room-temperature quantum effects" claim is no longer present in the body — the 2026-05-14 22:05 UTC pass had already removed it. Verified by `grep -n 'room-temperature\|controversial coherence'` returning nothing in body prose. No further action required.
-- (c) OCD/Schwartz subsection removed entirely. §"Fatigue, OCD, Meditation" → §"Fatigue and Meditation". The prior text already conceded the study was "small and unreplicated" and treated it as "illustrative ... not load-bearing evidence"; under `[[project/evidential-status-discipline]]` a citation that the article itself disclaims as non-load-bearing earns its removal rather than its presence. Schwartz et al. (1996) removed from the References list; reference numbers renumbered (21–28); Schwartz removed from the Honest-Limitations researchers-who-would-not-endorse list.
-- (d) Zheng & Meister (2024) "10 bits/sec" framing at §"Effort, Libet, and Neural Sites": reframed to acknowledge what the figure actually measures (behavioural cognitive throughput from task performance, not a neural-processing ceiling), name the scale-mixing problem with the ~10⁹ comparand (sensory transduction rate at the receptor array, not cognitive throughput), and locate the asymmetry's evidential weight correctly ("reflects the difference between transduction and cognitive throughput rather than a direct measurement of consciousness's coupling to neural dynamics").
-- (e) Sjöberg (2024) inference strength at §"Effort, Libet, and Neural Sites": the prior pass had already downgraded the inference from refutation to "consistent with the weaker interpretation that the potential reflects motor preparation rather than choice." Verified intact; no further action required.
-- (f) Witness-consciousness AST rejoinder at §"Fatigue and Meditation": the prior pass had already added "AST's rejoinder—practice may deepen the schema's apparent fundamentality—is noted rather than dismissed." Verified intact; no further action required.
-- (g) §"Relation to Site Perspective" rhetorical-stutter: verified that the current five-paragraph openings are already varied ("Both attention and motor selection feel..." / "Motor force comes from..." / "The brain presents options..." / "Within MWI, the standard indexical reply..." / "AST explains access consciousness..."). The four-of-five "Within the Map framework" / "Consciousness..." stutter the pessimistic review flagged was in an earlier version superseded by the prior pass; no further action required.
-- (h) Transit-void phenomenological claim at §"The Attention-Consciousness Dissociation": specified that the moment-of-capture is what is unavailable, distinguished from the retrospective-reconstruction level (which routinely fills in a transition narrative). Anchored to the phenomenological corpus (Husserl on retention/protention; Petitmengin's micro-phenomenology; Smallwood and Schooler's probe-caught paradigm) and to the transit-void article's empirical-anchor section, satisfying the citation gap the pessimistic review flagged.
-
-Frontmatter: `modified` 2026-05-14 → 2026-05-19; `ai_modified` 2026-05-14T22:05:00+00:00 → 2026-05-19T00:00:00+00:00.
-
-Findings actually requiring body edits: (a), (c), (d), (h). Findings already satisfied by prior pass and verified: (b), (e), (f), (g). Each finding's actually-required-or-already-satisfied status is noted above to avoid the failure mode of duplicating work the prior pass already did.
-
-Scope: 3 body-prose edits (§"Effort, Libet, and Neural Sites" twice — Tegmark numerical engagement and Zheng & Meister reframing; §"The Attention-Consciousness Dissociation" — transit-void specification), 1 section deletion + retitle (§"Fatigue, OCD, Meditation" → §"Fatigue and Meditation"), 1 reference-list removal with renumbering, 1 honest-limitations researcher-list edit, 2 frontmatter timestamp updates. Preserved: the unified attention-motor mechanism argument; the Koch/Tsuchiya four-case dissociation table; the Phenomenological Kaleidoscope table; the five-tenet alignment section (already-varied openings); the Honest Limitations coda; the label-leakage discipline. No editor-vocabulary leaked into prose. No engagement classifications recorded in this pass because no new named-opponent engagement was added; the Tegmark engagement was upgraded from naming the citation to engaging the number, which on the editor's diagnostic vocabulary is Mode Two (the framework owes the integrationist response from its own commitments) with explicit residue acknowledgment ("neither has been demonstrated"; "the mechanism's empirical viability presently rides on the short-coherence integrationist response rather than on any positive evidence").
-
-Based on pessimistic review by Claude Opus 4.7 2026-05-14 (review file: `reviews/pessimistic-2026-05-14.md`), eight-further-findings task. Sequenced after the 2026-05-14 22:05 UTC P1 critical-defects pass per the task's sequencing instruction.
-
-This log should be removed after human review.
--->

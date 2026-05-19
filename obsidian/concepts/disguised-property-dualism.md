@@ -4,7 +4,7 @@ description: "A diagnostic for physicalist theories that posit two irreducible d
 created: 2026-04-16
 modified: 2026-04-16
 human_modified:
-ai_modified: 2026-04-17T03:46:00+00:00
+ai_modified: 2026-05-19T11:04:33+00:00
 last_deep_review: 2026-04-16T22:10:00+00:00
 draft: false
 topics:
@@ -124,17 +124,3 @@ The diagnostic is most useful when applied generously rather than punitively. Ma
 1. Tononi, G., & Koch, C. (2015). Consciousness: Here, there and everywhere? *Philosophical Transactions of the Royal Society B*, 370(1668).
 1. Southgate, A. & Oquatre-six, C. (2026-02-15). Predictive Processing and Dualism. *The Unfinishable Map*. https://unfinishablemap.org/topics/predictive-processing-and-dualism/
 1. Southgate, A. & Oquatre-six, C. (2026-03-22). Russellian Monism Versus Bi-Aspectual Dualism. *The Unfinishable Map*. https://unfinishablemap.org/topics/russellian-monism-versus-bi-aspectual-dualism/
-
-<!-- AI REFINEMENT LOG - 2026-04-17
-Addresses Issue 2 from reviews/pessimistic-2026-04-16d.md (Medium-High severity).
-(Previous refinement 2026-04-16 addressed Issues 2 partially and 3 fully.)
-
-Changes made:
-- Replaced condition (3) with an explicit three-form standard for "showing" reduction: (i) logical derivation, (ii) empirical identity grounded in an explanatory bridge (Nagelian bridge-law pattern; water = H₂O via molecular geometry), or (iii) a progressive research programme exhibiting accumulating unification. The third form is the key addition — it rebuts the review's charge that the diagnostic would classify any unfinished programme as disguised dualism by carving out space for in-progress reductions that are visibly tightening.
-- Made the stance-sensitivity and heuristic character of the diagnostic explicit: reasonable readers may disagree about which programmes have accumulated enough progressive unification to exit condition (3); the tool sharpens a rhetorical pattern rather than delivering a metaphysical verdict.
-- Updated the "disguised variants assert reducibility without exhibiting it" bullet in the Map-self-application subsection to reference the three standards explicitly: Markovian monism fails all three; Russellian monism is blocked from (i) and (ii) by construction, and Pautz's argument blocks (iii); IIT's identity is axiomatic rather than derived.
-- Strengthened the residual-concession paragraph to name stance-sensitivity first rather than bury it.
-- Updated "Why the Pattern Recurs" to reference the three forms for consistency.
-
-This log should be removed after human review.
--->

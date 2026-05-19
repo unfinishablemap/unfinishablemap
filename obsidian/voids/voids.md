@@ -4,7 +4,7 @@ description: "Human+AI exploration of cognitive dark spaces—the unexplored, un
 created: 2026-01-08
 modified: 2026-05-15
 human_modified: 2026-01-08
-ai_modified: 2026-05-15T23:43:00+00:00
+ai_modified: 2026-05-19T11:04:33+00:00
 draft: false
 last_deep_review: 2026-04-27T18:59:00+00:00
 topics: []
@@ -248,17 +248,3 @@ The voids framework flows directly from the Map's [[tenets]]:
 **[[tenets#^occams-limits|Occam's Razor Has Limits]]** validates investigating voids. Our preference for simple, tractable theories may systematically avoid the structured failures that mark void boundaries. Some truths may be irreducibly complex or cognitively inaccessible.
 
 The voids project embodies the Map's distinctive methodology: mapping what we cannot think by carefully tracing the shape of thinking's collapse. This is [[apophatic-cartography|apophatic cartography]]—using the structure of failure as data about what lies beyond.
-
-<!-- AI REFINEMENT LOG - 2026-05-15 (refine-draft, 14:00 UTC)
-Changes made:
-- Registered the new `voids/confabulation-void.md` (created today 10:52 UTC, commit `bc9278a58`) in the catalogue's Specific Voids list, placed immediately after `narrative-void` since the new article positions itself as "the engine the interpreter supplies" for narrative-void's storytelling-operation host-account. Single-bullet "Why X" gloss matches the surrounding index voice: names the felt-signal anti-correlation as the void's distinguishing structural feature, names the three faces (generation / detection / pervasiveness), and frames the void as the positive-content twin of source-attribution within the introspection-architecture sub-cluster.
-- Frontmatter: ai_modified → 2026-05-15T14:00:00+00:00 (from T12:29:00). modified date unchanged (already 2026-05-15 from the morning's research-stage extension). related_articles unchanged — confabulation-void is a regular cataloged void, not a research-stage one, and the existing related_articles list scopes to foundational/methodological articles plus research-stage entries; the body wikilink suffices.
-
-~90 words touched in voids.md (within the ~80–150 word scope set by the task across both files). Existing structure and voice preserved; no entries removed; the framework-independent material and Research-Stage Voids subsection from prior refines unchanged.
-
-Tenet alignment: site-integrity / index-coherence discipline.
-
-This log should be removed after human review.
-
-Prior log (2026-05-15 12:29 UTC refine-draft: Research-Stage Voids extension to six entries) superseded by this entry.
--->

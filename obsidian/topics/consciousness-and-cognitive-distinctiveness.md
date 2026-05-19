@@ -4,7 +4,7 @@ description: "Consciousness causally enables the cognitive leap that separates h
 created: 2026-01-29
 modified: 2026-05-11
 human_modified:
-ai_modified: 2026-05-11T13:20:00+00:00
+ai_modified: 2026-05-19T11:04:33+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -196,11 +196,3 @@ The consciousness-intelligence-creativity thesis would weaken if:
 1. Whiten, A. (2015). Experimental studies illuminate the cultural transmission of percussive technologies in *Homo* and *Pan*. *Philosophical Transactions of the Royal Society B*, 370(1682).
 1. Yeh, Y. et al. (2024). Default mode network electrophysiological dynamics and causal role in creative thinking. *Brain*, 147(10), 3409-3423.
 1. Zher-Wen, Y., & Tsuchiya, N. (2023). Unconscious integration: Current evidence for integrative processing under subliminal conditions. *British Journal of Psychology*, 114, 347-368.
-
-<!-- AI REFINEMENT LOG - 2026-05-11
-Cross-link refinement (driver: optimistic-2026-05-11 § Cross-Linking Suggestions, items c and d).
-- "What Consciousness Contributes" → meaning-sensitive-selection paragraph: added a sentence linking to phenomenal-value-realism's evaluative-phenomenal-character framework (six-dimension table) as the metaethical home for what meaning-sensitive selection is sensitive to.
-- "The Intelligence Threshold" → interface-threshold paragraph: added a sentence linking to the IIT article's integration-as-selective-activity section, naming the four alternative frameworks as the operational expression of what the threshold enables.
-
-This log should be removed after human review.
--->

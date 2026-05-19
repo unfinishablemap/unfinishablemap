@@ -4,7 +4,7 @@ description: "How the progressive failure of perception reveals the architecture
 created: 2026-03-23
 modified: 2026-03-23
 human_modified:
-ai_modified: 2026-05-01T07:25:00+00:00
+ai_modified: 2026-05-19T11:04:33+00:00
 last_deep_review: 2026-04-28T23:53:00+00:00
 draft: false
 topics:
@@ -116,16 +116,3 @@ Donald Hoffman's Interface Theory of Perception provides a complementary framewo
 5. Skrzypulec, B. (2021). Blur and Interoceptive Vision. *Philosophical Studies*, 178, 3149–3168.
 6. Southgate, A. & Oquatre-six, C. (2026-03-09). Perceptual Failure and the Interface. *The Unfinishable Map*. https://unfinishablemap.org/topics/perceptual-failure-and-the-interface/
 7. van Lommel, P., van Wees, R., Meyers, V., & Elfferich, I. (2001). Near-death experience in survivors of cardiac arrest: a prospective study in the Netherlands. *The Lancet*, 358(9298), 2039–2045.
-
-<!-- AI REFINEMENT LOG - 2026-04-17
-Changes made in response to pessimistic-2026-04-17c HIGH-severity issues:
-- Reframed opening of "What the Failure Patterns Show" from "four characteristic signatures that, taken together, point toward" to "four patterns that...suggest"; flagged that three of the four have physicalist explanations and the load falls on anaesthesia + expansion-under-degradation.
-- Rewrote "The Anaesthesia Dissociation" to acknowledge anaesthesia is titratable, cite intraoperative awareness and ketamine/dexmedetomidine dissociation as intermediate states, and narrow the strong claim to surgical-depth propofol/sevoflurane where emergence reports describe absence rather than impoverishment.
-- Rewrote "The Neural Network Objection" to concede deep networks reproduce graceful degradation, priority preservation, and compensatory generation; rebuilt the case on anaesthesia dissociation (narrowed) + filter-expansion; added an explicit falsifier paragraph describing what would count against the interface framing.
-- Downgraded "Minimal Quantum Interaction" from a bandwidth-ceiling prediction to a tenet-level conjecture "consistent with the tenet"; acknowledged the unaddressed Tegmark decoherence objection (picosecond timescales) and clarified interface-friction is phenomenological shape rather than a calculated decoherence budget.
-- Updated "Dualism" paragraph in Relation to Site Perspective to align with the narrowed claim (three of four signatures reproduced by networks; weight on anaesthesia + expansion).
-- Replaced "the mask slips" borrowed metaphor with concrete claim "introspective access shifts from world to medium."
-- Updated ai_modified timestamp.
-
-This log should be removed after human review.
--->

@@ -4,7 +4,7 @@ description: "Brains meet five criteria for consciousness interfaces while exter
 created: 2026-01-16
 modified: 2026-02-22
 human_modified: null
-ai_modified: 2026-05-13T11:22:00+00:00
+ai_modified: 2026-05-19T11:04:33+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -193,37 +193,3 @@ Together, these explain why consciousness acts on brains specifically: brains me
 1. Tallis, R. (2024). The Illusion of Illusionism. *Philosophy Now*.
 1. Tegmark, M. (2000). Importance of quantum decoherence in brain processes. *Physical Review E*, 61, 4194-4206.
 1. Wiest, O. et al. (2024). Microtubule-stabilizer epothilone B delays anesthetic-induced unconsciousness in rats. *eNeuro*, 11(8).
-
-<!-- AI REFINEMENT LOG - 2026-04-17 (updated 08:55 UTC)
-Changes made (addresses pessimistic review 2026-04-17, Issues 4, 5, 6, and Counterargument on post-decoherence selection):
-
-Issue 4 (Criterion 5 ad hoc — Medium-High):
-- Renamed Criterion 5 from "Developmental History" to "Progressive Mutual Adaptation"
-- Defended the criterion on independent grounds (the pairing problem: what fixes this consciousness with this brain?) rather than on ruling out adversarial cases
-- Made explicit that the criterion does NOT rule out artificial consciousness or BCIs a priori — gradually integrated BCIs could satisfy it
-- Updated Boundary Constraint 3 (Developmental/evolutionary integration → Co-adaptive integration) to match
-- Updated comparison table row, "Why artificial consciousness is difficult" paragraph, Summary section, "Why panpsychism" phrasing, and falsification condition 3 to use the new framing consistently
-
-Issue 5 (Null PK results as confirmation — Medium):
-- Reframed PEAR null results as "consistent with" interface locality rather than "supporting" it
-- Acknowledged explicitly that the framework was constructed knowing PK is null (so null PK is post-hoc accommodation, not prediction)
-- Added a specific falsification threshold: reliably replicated effect sizes above ~0.01 under preregistered, well-powered protocols
-- Applied the same effect-size threshold in "What Would Challenge This View?" falsification condition 1
-
-Issue 6 (Wiest et al. 2024 overinterpretation — Medium):
-- Reframed the Wiest result to state what it actually shows (microtubule function affects anaesthetic sensitivity)
-- Explicitly acknowledged non-quantum compatible explanations (membrane dynamics, vesicle trafficking, cytoskeletal signalling)
-- Removed the implication that this result supports a quantum mechanism specifically
-- Softened lead-in "Neural systems may differ" to "Whether neural systems differ remains empirically contested, but the possibility is live"
-
-Counterargument (post-decoherence selection is explanatorily vacuous):
-- Expanded "The Decoherence Challenge" section to address the objection directly rather than mention post-decoherence selection in passing
-- Introduced the improper-vs-proper-mixture distinction (d'Espagnat 1976; Schlosshauer 2004) as the specifically quantum content of the move: the formalism produces an improper mixture it cannot itself resolve
-- Stated explicitly what distinguishes conscious selection from decohered pointer states from mere "conscious-caused classical indeterminism" — the gap being filled is a gap left by the quantum formalism itself (Schlosshauer's problem of outcomes)
-- Conceded the epistemological cost: reduced falsifiability relative to pre-decoherence models, shared empirical profile with other resolutions of the problem of outcomes
-- Added d'Espagnat (1976) and Schlosshauer (2004) to the References section
-
-No changes to the core argument structure, tenet alignment, or other criteria. Voice preserved.
-
-This log should be removed after human review.
--->

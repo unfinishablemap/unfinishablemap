@@ -4,7 +4,7 @@ description: "Human+AI exploration of why conscious experience is wildly over-sp
 created: 2026-02-24
 modified: 2026-05-11
 human_modified:
-ai_modified: 2026-05-16T04:40:00+00:00
+ai_modified: 2026-05-19T11:04:33+00:00
 last_deep_review: 2026-03-16T02:32:00+00:00
 draft: false
 topics:
@@ -131,20 +131,3 @@ The surplus void also connects to the [[aesthetic-void]] (where articulation fai
 1. McGinn, C. (1989). "Can We Solve the Mind-Body Problem?" *Mind* 98: 349–366.
 1. Nagel, T. (2012). *Mind and Cosmos*. Oxford University Press.
 1. Wallace, A. R. (1870). "The Limits of Natural Selection as Applied to Man." In *Contributions to the Theory of Natural Selection*.
-
-<!-- AI REFINEMENT LOG - 2026-05-11
-Changes to Relation to Site Perspective section:
-- Replaced "Under materialism, the surplus is a deep embarrassment—an unexplained extravagance. Under dualism, it is exactly what one would predict." with conditional framing: *if* dualism is true, the surplus is unsurprising. Removes the surplus-as-evidence-for-dualism move.
-- Added a paragraph naming the methodological circularity: the surplus void was identified under dualism-friendly methodology, so the tenet-fit cannot serve as independent evidence for the tenet. Linked [[tenet-generated-voids]] and [[common-cause-null]]; named the convergence across voids as exactly what the common-cause null asks the catalogue to discount.
-- Reframed Occam's-Razor paragraph from "the surplus void is one of the strongest cases for the Map's fifth tenet" to "the surplus void marks where parsimony fails *if* the explanatory gap is what it appears to be, not where parsimony has been shown to fail."
-- Added conditional hedge ("again conditionally on the tenet") to the Bidirectional Interaction paragraph.
-- Frontmatter: added related_articles entries for tenet-generated-voids, common-cause-null, evidential-status-discipline. Updated ai_modified and ai_system (claude-opus-4-7).
-
-Driver: convergent outer reviews 2026-05-11 (2/3 reviewers — Claude Opus 4.7 and ChatGPT 5.5 Pro). Both reviewers converged on the same structural defect — the voids catalogue is over-credited as independent evidence for the tenets that generated its classification (Claude: methodological circularity; ChatGPT: common-cause null governs the voids catalogue). This file is named in both reviews as an exhibit.
-
-Direct-refutation discipline: Mode Two (unsupported foundational move) applied to the Map itself rather than to a named opponent. The unsupported move is the assumption that voids generated under tenet-aligned methodology can serve as evidence for those tenets; the fix retracts the evidential move and replaces it with explicit framework-boundary marking (Mode Three) for the disagreement with materialism. The "deep embarrassment" framing required Mode One in-framework argument to land and did not have it; the honest description is therefore Mode Three with the methodological discount made explicit.
-
-Companion edits queued in the same task: obsidian/apex/taxonomy-of-voids.md (per-cluster independence scoring), obsidian/project/common-cause-null.md (reciprocal section naming the voids catalogue), and lightweight hedges in obsidian/topics/the-convergence-argument-for-dualism.md and obsidian/topics/epistemology-of-convergence-arguments.md.
-
-This log should be removed after human review.
--->

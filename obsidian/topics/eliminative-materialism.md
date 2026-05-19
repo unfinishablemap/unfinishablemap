@@ -4,7 +4,7 @@ description: "Eliminative materialism holds beliefs and qualia are theoretical f
 created: 2026-04-26
 modified: 2026-04-30
 human_modified:
-ai_modified: 2026-04-30T22:55:00+00:00
+ai_modified: 2026-05-19T11:04:33+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -175,16 +175,3 @@ Eliminativism persists because physicalism keeps failing to produce a satisfying
 15. Stich, S. (1983). *From Folk Psychology to Cognitive Science: The Case Against Belief*. MIT Press.
 16. Stich, S. (1996). *Deconstructing the Mind*. Oxford University Press.
 17. Toon, A. (2023). *Mind as Metaphor: A Defence of Mental Fictionalism*. Routledge.
-
-<!-- AI REFINEMENT LOG - 2026-04-26
-Changes made addressing pessimistic-2026-04-26b:
-- Issue 1 (High): Recast introspection-as-constitutive rebuttal as foundational commitment defended by overall theoretical fit (first tenet, physicalist failure, Moorean asymmetry) rather than as a derived counter-argument. Acknowledges bedrock disagreement.
-- Issue 2 (High): Replaced sweeping heliocentrism/atomic-theory/GR historical claim with the more defensible domain-specific point that parsimony is unreliable in domains with hidden structure not yet visible.
-- Issue 3 (Med): Distinguished causal-efficacy commitment from structural-format commitment in the third-tenet paragraph. The tenet now bears only on causal efficacy, leaving the structural-format question to cognitive science. Resolves tension with Honest Limitations.
-- Issue 4 (Med): Engaged Frankish's §6 reply to the regress (quasi-phenomenal vs phenomenal seeming) and explained why the Map still finds the regress force-able.
-- Issue 5 (Med): Added predictive-processing/Clark/Hohwy/Friston as the contemporary descendant of the connectionist challenge, in Honest Limitations.
-- Issue 6 (Low-Med): Flagged the Madhyamaka asymmetry in the Buddhist alliance via the Further Reading entry.
-- Citations: Moved self-citations (former refs 18-19) out of numbered references list — they were already in Further Reading wikilinks. Supplied SEP date (2003, revised 2019) for Ramsey ref 12.
-
-This log should be removed after human review.
--->

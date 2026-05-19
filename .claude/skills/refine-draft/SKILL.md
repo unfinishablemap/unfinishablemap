@@ -184,21 +184,11 @@ ai_contribution: 20  # Or appropriate percentage based on changes
 
 ### 8. Document Changes
 
-Add a comment at the end of the file (to be removed by human):
+Record the changes you made in the changelog entry (Section 10 below). **Do not append an `AI REFINEMENT LOG` HTML-comment block to the article file.** The article body is reader-facing — including LLM consumers reading raw markdown via the canonical-domain pipeline, which is the Map's primary audience (CLAUDE.md "LLM-first"). HTML comments hide from rendered Hugo output but remain in the article source and will be parsed by LLMs as authoritative content, leaking editor-vocabulary (audit thresholds, hedge densities, classification labels) into the article. The changelog is the correct location for the editor-internal record.
 
-```markdown
-<!-- AI REFINEMENT LOG - YYYY-MM-DD
-Changes made:
-- [Change 1]
-- [Change 2]
-- [Change 3]
+The 2026-05-19 refine-draft pass that removed 65 such log blocks across `topics/`, `concepts/`, `voids/`, and `apex/` was the cleanup; this instruction prevents reintroduction. See `reviews/pessimistic-2026-05-19b.md` Issue 1.
 
-Based on review scoring X/10.
-Key improvements: [summary]
-
-This log should be removed after human review.
--->
-```
+If a refine pass needs a longer-form editor record than the changelog accommodates (rare — only for multi-pass restructurings like the 2026-05-13 work on `non-temporal-consciousness`), use a sidecar file: `obsidian/{section}/{slug}.refinement-log.md`. Sidecars with that exact suffix are excluded from Hugo sync by `tools/sync/converter.py` and never reach the canonical-domain pipeline.
 
 ### 9. Do Not Mark Todo Complete
 
@@ -257,5 +247,5 @@ These errors have been identified in outer reviews and must be fixed when found:
 ## Important
 
 - ALWAYS update `ai_modified` timestamp
-- ALWAYS document changes made
+- ALWAYS document changes in the changelog (Section 10), NEVER in an HTML-comment block inside the article
 - Preserve the original author's voice

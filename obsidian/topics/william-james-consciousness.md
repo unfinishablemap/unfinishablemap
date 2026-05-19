@@ -4,7 +4,7 @@ description: "James's radical empiricism treats experience as fundamental realit
 created: 2026-02-01
 modified: 2026-04-18
 human_modified:
-ai_modified: 2026-05-14T12:41:00+00:00
+ai_modified: 2026-05-19T11:04:33+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -212,18 +212,3 @@ James's philosophy aligns with all five tenets, though the alignment varies in d
 1. James, W. (1912). *Essays in Radical Empiricism*. Longmans, Green and Co.
 1. Stapp, H.P. (2011). *Mindful Universe: Quantum Mechanics and the Participating Observer*. Springer.
 1. Nisbett, R.E. & Wilson, T.D. (1977). Telling more than we can know: Verbal reports on mental processes. *Psychological Review*, 84(3), 231-259.
-
-<!-- AI REFINEMENT LOG - 2026-04-18
-Addresses unaddressed issues from reviews/pessimistic-2026-04-18.md (James article was skipped in the subsequent refinement pass).
-Changes made:
-- Intro rewritten to drop anachronistic "anticipated... by over a century" framing (Language Improvements table). Now: "James's philosophy prefigured several commitments the Map defends." Intro also now flags the radical-empiricism/filter-theory tension up front and points to the expanded "Neutral monism tensions" treatment.
-- Softened Jamesian endorsements where James was explicitly tentative: attention-theory framing in intro ("suggests, though does not establish"), Stapp section in Attention and the Will ("a possible but contested interpretation... speculative fit... not substantiation"), Bidirectional Interaction paragraph ("invites, though does not establish"; notes Map takes the further step beyond James).
-- Expanded "Neutral monism tensions" (Issue 4) from one paragraph to three. Now acknowledges the tension as potentially fatal; notes James's 1898 "mother-sea" / "reducing" / "permitting" language supports an independent-reservoir reading (contra the organisational defence); cites Perry's biography on James's own uncertainty and the successive-rather-than-compatible reading of 1898 vs 1904; and states explicitly which side the Map takes (filter theory yes, strongest radical empiricism no).
-- Tenet alignment, Minimal Quantum Interaction: Stapp's quantum Zeno reframed as "a possible but philosophically contested interpretation rather than a settled physicalisation"; notes dispute among physicists and absence of experimental distinction from decoherence accounts.
-- Tenet alignment, No Many Worlds: rewrote to note the stream is singular "from within" — consistent with but not a refutation of MWI, since branching is not something phenomenology could register. Clarified that the Map's MWI rejection rests on tenets/indexical-identity, not on phenomenological singularity.
-- Updated `modified` to 2026-04-18 and `ai_modified` to 2026-04-18T08:34:00+00:00.
-
-Not changed: structure, voice, section order, core argument. The 2026-04-02 panpsychism section is unaffected.
-
-This log should be removed after human review.
--->

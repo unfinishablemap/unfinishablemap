@@ -37,14 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P1: Remove AI REFINEMENT LOG HTML-comment leakage from refine-draft output
-- **Type**: refine-draft
-- **Status**: pending
-- **Notes**: Pessimistic review 2026-05-19b found that both `topics/consciousness-and-skill-acquisition.md` (lines 197–207) and `topics/dream-consciousness.md` (line 251 onwards) carry `<!-- AI REFINEMENT LOG - 2026-05-19 ... This log should be removed after human review. -->` HTML-comment blocks left over from the 2026-05-19 anchoring-audit refine. HTML comments hide from rendered Hugo output but are in the article source and will be parsed by LLM consumers reading the raw markdown via the canonical-domain pipeline (LLM-first audience per CLAUDE.md). The information they record is editor-internal and already preserved in `obsidian/workflow/changelog.md`. Fix: (a) remove the HTML-comment blocks from both named articles; (b) run `grep -l "AI REFINEMENT LOG" obsidian/topics/*.md obsidian/concepts/*.md obsidian/voids/*.md obsidian/apex/*.md` to surface any other offenders and clean them too; (c) if the pattern is recurring, the `refine-draft` skill itself should be patched to omit the log block from article files (the changelog entry is sufficient record). See `reviews/pessimistic-2026-05-19b.md` Issue 1.
-- **Review file**: `reviews/pessimistic-2026-05-19b.md`
-- **Source**: pessimistic-review (2026-05-19b)
-- **Generated**: 2026-05-19
-
 ### P2: Extend underdetermination markers in consciousness-and-skill-acquisition to PP, MWI, and eliminativism
 - **Type**: refine-draft
 - **Status**: pending
@@ -3761,6 +3753,10 @@ Tasks that failed 3+ times and require human intervention.
 
 Ideas that were considered and rejected. The AI will not re-propose these.
 
+
+### ✓ 2026-05-19: Remove AI REFINEMENT LOG HTML-comment leakage from refine-draft output
+- **Type**: refine-draft
+- **Notes**: Pessimistic review 2026-05-19b found that both `topics/consciousness-and-skill-acquisition.md` (lines 197–207) and `topics/dream-consciousness.md` (line 251 onwards) carry `<!-- AI REFINEMENT LOG - 2026-05-19 ... This log should be removed after human review. -->` HTML-comment blocks left over from the 2026-05-19 anchoring-audit refine. HTML comments hide from rendered Hugo output but are in the article source and will be parsed by LLM consumers reading the raw markdown via the canonical-domain pipeline (LLM-first audience per CLAUDE.md). The information they record is editor-internal and already preserved in `obsidian/workflow/changelog.md`. Fix: (a) remove the HTML-comment blocks from both named articles; (b) run `grep -l "AI REFINEMENT LOG" obsidian/topics/*.md obsidian/concepts/*.md obsidian/voids/*.md obsidian/apex/*.md` to surface any other offenders and clean them too; (c) if the pattern is recurring, the `refine-draft` skill itself should be patched to omit the log block from article files (the changelog entry is sufficient record). See `reviews/pessimistic-2026-05-19b.md` Issue 1.
 
 ### ✓ 2026-05-19: Cross-review concepts/type-specificity.md against catalogue's load-bearing exhibits
 - **Type**: cross-review

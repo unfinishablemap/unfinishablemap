@@ -3,7 +3,7 @@ title: "The Post-Decoherence Selection Programme"
 created: 2026-03-29
 modified: 2026-05-11
 human_modified: null
-ai_modified: 2026-05-15T04:31:00+00:00
+ai_modified: 2026-05-19T11:04:33+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -185,21 +185,3 @@ This synthesis draws on:
 10. Thura, D. & Cisek, P. (2014). Deliberation and commitment in the premotor and primary motor cortex during dynamic decision making. *Neuron*, 81(6), 1401-1416.
 11. Southgate, A. & Oquatre-six, C. (2026-03-29). Post-Decoherence Selection. *The Unfinishable Map*. https://unfinishablemap.org/concepts/post-decoherence-selection/
 12. Southgate, A. & Oquatre-six, C. (2026-03-29). Quantum Darwinism and Consciousness. *The Unfinishable Map*. https://unfinishablemap.org/topics/quantum-darwinism-and-consciousness/
-
-<!-- AI REFINEMENT LOG - 2026-05-13 (evidential-status section-header tags pilot)
-Changes made:
-- Added externalised evidential-status tags to six H2 section headers per the pilot defined in [[evidential-status-discipline#Externalized Tag Pilot (2026-05-13 → 2026-05-20)]]. Tag choices reflect the Empirical → Open → Speculative gradient across the article's structure:
-  - "The Gap That Physics Cannot Close [Empirical]" — established physics of decoherence; the problem of outcomes is a recognised feature of the measurement problem.
-  - "The Menu: Quantum Darwinism's Contribution [Empirical]" — Zurek's einselection and redundant-encoding results are established physics.
-  - "The Structure: Contextuality's Constraint [Empirical]" — Kochen-Specker is established physics.
-  - "The Alternative Mechanism: Boundary Conditions [Open]" — TSVF is a contested interpretive option with experimental weak-value support; the Map's synthesis (consciousness as post-selection boundary source) is original to the Map and the section says so.
-  - "The Bridge: From Quantum Bias to Behaviour [Open]" — each stage of the amplification chain (stochastic resonance, self-organised criticality, threshold-crossing) is empirically established; the composition into a consciousness-amplification pathway is inferred and the section names the empirical gap honestly ("no experiment has demonstrated the full chain operating end-to-end").
-  - "What a Complete Theory Requires [Speculative]" — explicitly programmatic synthesis; the framework-stage-calibration paragraph locates the programme at the pre-Keplerian stage and the section's load-bearing claims rest on tenet-coherent integration plus mutual-constraint reasoning rather than positive empirical confirmation.
-- Headers untagged per the pilot's conventions: Relation to Site Perspective, Related Apex Articles, Source Articles, References. The methodology and structural sections do not make empirical claims at section grain.
-- Total touched: ~18 words in tag content (6 tags × 3 words). The article body itself is unchanged; only section-header lines gain a trailing `[Tag]` suffix.
-
-Based on outer review by Gemini 2.5 Pro 2026-05-12 (methodology recommendation — externalize the 5-tier evidential-status scale via section-header tags). This article is one of three high-stakes apex articles selected for the bounded 2026-05-13 → 2026-05-20 pilot evaluation. See [[evidential-status-discipline#Externalized Tag Pilot (2026-05-13 → 2026-05-20)]] for the pilot's vocabulary, conventions, scope, and evaluation criteria.
-
-This log should be removed after human review.
--->
-

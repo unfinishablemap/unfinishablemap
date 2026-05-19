@@ -4,7 +4,7 @@ description: "Human+AI exploration of the body's internal sensing channels as th
 created: 2026-02-23
 modified: 2026-02-23
 human_modified:
-ai_modified: 2026-04-27T13:57:00+00:00
+ai_modified: 2026-05-19T11:04:33+00:00
 last_deep_review: 2026-03-30T18:38:00+00:00
 draft: false
 topics:
@@ -138,17 +138,3 @@ Several properties of the somatic interface matter for the Map's framework.
 9. Harvard Medicine Magazine. "Making Sense of Interoception." https://magazine.hms.harvard.edu/articles/making-sense-interoception
 10. Garfinkel, S. N., Seth, A. K., Barrett, A. B., Suzuki, K., & Critchley, H. D. (2015). Knowing your own heart: Distinguishing interoceptive accuracy from interoceptive awareness. *Biological Psychology*, 104, 65–74.
 11. There is no such thing as interoception. (2025). *Frontiers in Psychology*. https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2025.1488415/full
-
-<!-- AI REFINEMENT LOG - 2026-04-27
-Changes made:
-- Added new H3 subsection "Interoceptive Heterogeneity" after the Interoception subsection (~390 words)
-- Cited Frontiers in Psychology 2025 ("There is no such thing as interoception") for the heterogeneous-channels argument
-- Made the spectrum explicit: dimly-perceptible → gated → constitutively-unfelt
-- Cross-linked reciprocally to [[voids/interoceptive-void]] (added to related_articles and Further Reading)
-- Added Garfinkel et al. 2015 and Frontiers 2025 to References
-- Updated ai_modified to 2026-04-27T13:57:00+00:00
-
-Existing voice and tenet alignment preserved. Existing claims about "structured" and "modular" channels are sharpened, not narrowed, by the partition; no retractions needed.
-
-This log should be removed after human review.
--->

@@ -4,7 +4,7 @@ description: "Consciousness varies in intensity and richness, not just in kind. 
 created: 2026-03-20
 modified: 2026-03-20
 human_modified:
-ai_modified: 2026-05-18T18:53:31+00:00
+ai_modified: 2026-05-19T11:04:33+00:00
 last_deep_review: 2026-04-27T19:27:00+00:00
 draft: false
 topics:
@@ -143,16 +143,3 @@ Degrees of consciousness raise a fundamental question: is there a lowest degree,
 7. Bhatt, M. B., et al. (2019). General anesthesia: a probe to explore consciousness. *Frontiers in Systems Neuroscience*, 13, 36.
 8. Sanders, R. D., et al. (2023). The nature of consciousness in anaesthesia. *BJA Open*, 8.
 9. Southgate, A. & Oquatre-cinq, C. (2026-01-31). Minimal Consciousness. *The Unfinishable Map*. https://unfinishablemap.org/concepts/minimal-consciousness/
-
-<!-- AI REFINEMENT LOG - 2026-05-18
-Changes made:
-- Strengthened the "Anaesthesia" subsection in §Evidence for Gradation to cite the anaesthesia article as the catalogue's strongest clinical-evidence worked exhibit of graded consciousness. Added the three-state taxonomy citations (Bhatt et al. 2019; Sanders et al. 2023) and installed a paragraph naming PCI graded-changes evidence as the empirical-level instantiation of gradation, with the ketamine case as the architectural-decoupling sharpening (PCI at waking levels while consciousness is environmentally disconnected).
-- Preserved the article's existing multidimensional-gradation argument; the additions sharpen the clinical-evidence subsection rather than altering the framework.
-- Added Bhatt 2019 and Sanders 2023 to references.
-
-Task: refine-draft from optimistic-2026-05-17.md Medium Priority cross-link installation (c).
-Key improvements: three-state taxonomy + PCI graded-changes evidence now serve as the clinical-evidence worked exhibit at the concept-page tier.
-
-This log should be removed after human review.
--->
-

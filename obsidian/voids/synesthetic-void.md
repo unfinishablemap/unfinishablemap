@@ -35,7 +35,7 @@ ai_system: claude-opus-4-7
 ai_generated_date: 2026-02-24
 last_curated:
 last_deep_review: 2026-05-08T22:06:00+00:00
-ai_modified: 2026-05-09T08:35:00+00:00
+ai_modified: 2026-05-19T11:04:33+00:00
 ---
 
 [[synaesthesia|Synesthesia]]—the involuntary experience of one sensory modality when another is stimulated—reveals that humans do not share the same experiential palette. Some minds perceive colours when hearing sounds, shapes when tasting food, or spatial arrangements when reading calendars. A few synesthetes report "Martian colours" that cannot be matched to any sample in the visible spectrum. The synesthetic void marks this territory: a gap in phenomenal access that exists not between humans and hypothetical aliens, but between humans and other humans. It is the other minds problem made concrete within a single species.
@@ -135,23 +135,3 @@ The synesthetic void connects directly to the Map's [[tenets|foundational commit
 11. McGinn, C. (1989). "Can We Solve the Mind-Body Problem?" *Mind*, 98, 349-366.
 12. Rosseinsky, M.J., & Bhatt, P.M. (2022). "Dimensions of Experience Space." *Frontiers in Systems Neuroscience*, 16, 828608.
 13. Merabet, L.B., Maguire, D., Warde, A., Alterescu, K., Stickgold, R., & Pascual-Leone, A. (2004). "Visual Hallucinations During Prolonged Blindfolding in Sighted Subjects." *Journal of Neuro-Ophthalmology*, 24, 109-113.
-
-<!-- AI REFINEMENT LOG - 2026-04-28
-Changes made (addressing pessimistic review pessimistic-2026-04-28b on a tweeted, externally visible page):
-- Removed two "This is not X. It is Y." cliché-ban violations (lines 43, 83) — rephrased as positive claims.
-- Weakened "active architectural maintenance" inference from Bor et al. fade-out by acknowledging passive skill-atrophy null hypothesis explicitly.
-- Added Source/Map separation paragraph in §The Developmental Occlusion: brain-only physicalism is observationally equivalent on cited evidence; filter-theory reading is preferred for consilience, not forced by data. Includes Popperian unfalsifiability hedge.
-- Cited the two previously bibliography-only references in-text: Ramachandran & Hirstein (1997) on qualia-function laws (after Gray paragraph); McGinn (1989) on cognitive closure (in §Asymmetry of Access).
-- Weakened §Asymmetry of Access claim: subtractive imagination is not obviously easier than additive; asymmetry now framed as "apparent" and "stronger reading without claiming it as settled."
-- Replaced teleological "designed for narrowness" with "ends up selectively narrowed during development."
-- Replaced "empirically false" with "empirically inadequate" (palette uniformity claim).
-- Replaced "consciousness to shape its own phenomenal content" with "high-level cognitive processes to contribute to phenomenal content."
-- Replaced "the brain reasserts its narrower experiential configuration" with "reasserting the narrower configuration" inside the two-readings frame.
-- Added Dennett-style heterophenomenology hedge after Gray paragraph.
-- Added Churchland-style brain-only naturalism hedge in §Dualism tenet paragraph.
-- Added MWI indexical-accommodation acknowledgement in §No-Many-Worlds tenet paragraph.
-
-Counterarguments now acknowledged in-line: Dennett heterophenomenology, Churchland brain-only, MWI indexical accommodation, Popper filter-theory unfalsifiability.
-
-This log should be removed after human review.
--->

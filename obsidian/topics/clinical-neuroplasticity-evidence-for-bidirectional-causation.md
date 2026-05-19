@@ -4,7 +4,7 @@ description: "Three converging clinical evidence streams—OCD neuroplasticity, 
 created: 2026-03-21
 modified: 2026-03-21
 human_modified:
-ai_modified: 2026-05-08T20:35:00+00:00
+ai_modified: 2026-05-19T11:04:33+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -150,24 +150,3 @@ The Map holds that the philosophical arguments for mental causation—the self-s
 15. Lazar, S. W., Kerr, C. E., Wasserman, R. H., et al. (2005). Meditation experience is associated with increased cortical thickness. *NeuroReport*, 16(17), 1893-1897.
 16. Hölzel, B. K., Carmody, J., Vangel, M., et al. (2011). Mindfulness practice leads to increases in regional brain gray matter density. *Psychiatry Research: Neuroimaging*, 191(1), 36-43.
 17. Schwartz, J. M., Stoessel, P. W., Baxter, L. R. Jr., Martin, K. M., & Phelps, M. E. (1996). Systematic changes in cerebral glucose metabolic rate after successful behavior modification treatment of obsessive-compulsive disorder. *Archives of General Psychiatry*, 53(2), 109-113.
-
-<!-- AI REFINEMENT LOG - 2026-04-16
-Changes made:
-- Opening paragraph: "lasting changes in neural architecture" → "lasting changes in neural function" to more accurately reflect the evidence base (OCD caudate metabolism is functional; meditation structural claims undermined by Kral 2022; only placebo work shows mixed structural evidence)
-- Placebo section: "producing structural neural changes" → "are associated with measurable neural changes, though the specific methodological quality of placebo neuroplasticity claims deserves the same scrutiny now applied to meditation structural findings" — addresses the research file's explicit note that "Placebo neuroplasticity: Not deeply investigated" and avoids unsupported structural claims
-
-Based on research in research/clinical-evidence-quality-2026-03-29.md.
-Key improvements: Terminology precision ("function" vs "architecture") and added scrutiny caveat for placebo structural claims that were previously asserted without evidence-quality assessment.
-
-This log should be removed after human review.
--->
-
-<!-- AI REFINEMENT LOG - 2026-04-16 (cluster cross-review)
-Changes made:
-- Proposed Mechanisms section: "lasting changes in neural architecture" → "lasting changes in neural function" — completes the terminology precision calibration begun in the 2026-04-16 16:29 UTC pass. The opening paragraph was updated then but the Proposed Mechanisms section retained the older term, creating internal inconsistency with the opening and with cross-citation in [[concepts/epiphenomenalism]] (which uses "alters neural function").
-
-Based on cross-review of causal/clinical cluster (clinical-neuroplasticity, attention-and-the-consciousness-interface, epiphenomenalism).
-Key improvement: Internal terminology consistency — "function" now used uniformly for the scope of clinical evidence claims.
-
-This log should be removed after human review.
--->

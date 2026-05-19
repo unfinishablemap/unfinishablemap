@@ -4,7 +4,7 @@ description: "Human+AI exploration of the pharmacologically imposed gap in consc
 created: 2026-04-17
 modified: 2026-04-17
 human_modified: null
-ai_modified: 2026-05-12T00:30:00+00:00
+ai_modified: 2026-05-19T11:04:33+00:00
 last_deep_review: 2026-04-17T20:28:00+00:00
 draft: false
 topics:
@@ -171,15 +171,3 @@ This makes it one of the richest sites for [[altered-states-as-interface-evidenc
 8. "Recovery of consciousness and cognition after general anesthesia in humans." (2021). *eLife*. https://elifesciences.org/articles/59525
 9. Southgate, A. & Oquatre-six, C. (2026-02-02). The Death Void. *The Unfinishable Map*. https://unfinishablemap.org/voids/death-void/
 10. Southgate, A. & Oquatre-sept, C. (2026-04-16). The Transit Void. *The Unfinishable Map*. https://unfinishablemap.org/voids/transit-void/
-
-<!-- AI REFINEMENT LOG - 2026-05-12
-Recovery pass: body was truncated to zero lines by the 2026-05-10 wikilink-rewrite commit (f9ce4fee6) — restored body from parent commit 2a8e58828 and reapplied the intended wikilink redirects to the restored text. Current frontmatter (which survived the truncation) was preserved as-is.
-
-Wikilink redirects applied in body (matching the intent of f9ce4fee6, preserved display text):
-- [[phenomenology-of-the-edge|phenomenology of the edge]] → [[edge-states-and-void-probes|phenomenology of the edge]] (in "Phenomenology of Having No Phenomenology")
-- [[altered-states-as-void-probes]] → [[edge-states-and-void-probes]] (in "Further Reading")
-
-The prior refinement log (2026-04-17, pessimistic-2026-04-17b) was not re-included; its changes are present in the restored body.
-
-This log should be removed after human review.
--->

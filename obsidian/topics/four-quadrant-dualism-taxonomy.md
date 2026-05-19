@@ -4,7 +4,7 @@ description: "Two-axis taxonomy sorting dualist positions by how much ontologica
 created: 2026-04-21
 modified: 2026-05-11
 human_modified:
-ai_modified: 2026-05-11T23:28:00+00:00
+ai_modified: 2026-05-19T11:04:33+00:00
 draft: false
 topics:
   - dualism
@@ -189,41 +189,3 @@ Three open questions deserve further work.
 16. Southgate, A. & Oquatre-six, C. (2026-03-22). Russellian Monism versus Bi-Aspectual Dualism. *The Unfinishable Map*. https://unfinishablemap.org/topics/russellian-monism-versus-bi-aspectual-dualism/
 17. Southgate, A. & Oquatre-cinq, C. (2026-01-28). Bradford Saad: Delegatory Dualism (Research). *The Unfinishable Map*. https://unfinishablemap.org/research/bradford-saad-delegatory-dualism-2026-01-28/
 18. Southgate, A. & Oquatre-neuf, C. (2026-04-23). Is Born-Rule-Violating Consciousness-Physics Interaction Empirically Live at the Brain Interface? (Research). *The Unfinishable Map*. https://unfinishablemap.org/research/born-rule-violation-brain-interface-empirical-status-2026-04-23/
-
-<!-- AI REFINEMENT LOG - 2026-04-23
-Changes made in response to pessimistic review 2026-04-23 (Issues 1–4, Counterarguments, and Language Improvements table):
-- Added §"Limits of the Thickness Metaphor" subsection specifying that the axis tracks structural richness above minimum, not causal work or channel width, and conceding that Stapp-style positions are placed by judgement rather than definition (Issue 1, Medium)
-- Added one-sentence scope note at the top of §"The Four Quadrants" flagging that monist limit cases (neutral monism, Berkeleyan idealism, Kastrup) are included for contrast, not classification-as-dualism (Issue 3, Low–Medium)
-- Softened empirical landscape claims lacking citation: "heavily populated" → "extensively discussed"; "cleanest Q1 inhabitant" → "most worked-out recent Q1 candidate in the literature known to us"; "Q2 dominates contemporary analytic philosophy" → "Q2 functions as the dialectical default"; "Most self-described dualists ... live here" → "Many ... sit nearer this quadrant than Q4"; "under-inhabited" → "under-discussed" (Issue 2, Medium)
-- Rephrased "Q1 stability" → "Q1 articulability" throughout; added explicit note that the question concerns availability of an argument rather than dynamical-system forces; added cross-link to the fiction-to-nature gap flagged in the prior pessimistic review of [[trumping-preemption#costs-of-the-template]] (Issue 4, Medium)
-- Softened "None of this is visible without the thickness axis" to "The thickness axis makes explicit what adjacent classifications … only partially track," naming Chalmers (2003), Goff (2017), and Pereboom-style qualitative inertness worries as partial trackers (Counterargument 3)
-- Rephrased "Q4 is under-populated not because it fails but because a parsimony norm makes it hard to teach" to acknowledge both real parsimony costs and training-convention effects
-- "Q1 looks attractive (minimal commitments both sides) but faces stability pressure" → "Q1 promises minimal commitments on both sides but faces articulation pressure"
-- Attached Tegmark-decoherence caveat to the MQI treatment in §"Relation to Site Perspective," citing [[born-rule-violation-brain-interface-empirical-status-2026-04-23]]
-- Added Tegmark (2000) and the born-rule-violation research note to References; added both plus [[interface-formalization-void]] to related_articles
-
-Second-pass additions (13:15 UTC) addressing remaining counterargument gaps:
-- Strengthened the orthogonality argument with concrete cases: Nida-Rümelin vs Descartes (both Type-D but different mind-thickness), and Saad vs Chalmers-naturalistic (Saad is Type-D-proximal but mind-thin where Chalmers is mind-medium). This disarms Counterargument 1 (the re-parameterisation-of-Chalmers charge) by showing Type-D/E/F and thickness pull apart on named positions, not just in principle
-- Rewrote Q4 closing paragraph to explicitly acknowledge that maximum commitments on both sides do carry real explanatory costs independent of sociology, and that Q4's losses on parsimony are case-by-case rather than a uniform verdict — addresses Counterargument 2 (the "parsimony-cost vs sociology" charge), aligning the Q4 paragraph with the already-revised §"Why the Thickness Axis Matters" language
-
-Third-pass verification (14:54 UTC) — P1 re-run of pessimistic-2026-04-23 refinement:
-- Cross-checked all four critical issues, six unsupported-claim rows, three counterarguments, and six language-improvement rows from the review against current text. All items already addressed by the 12:00 UTC and 13:15 UTC passes — no further substantive edits required.
-- Verified Q3 "unstable" / "slides toward" at line 108 is a legitimate logical-collapse usage (the mental doing all the work makes the physical explanatorily redundant), distinct from the Q1 "stability" dynamical-systems metaphor Issue 4 flagged — kept as is.
-- Verified "Stapp is the cleanest illustration" at line 127 is a pedagogical-clarity descriptor, distinct from the "cleanest Q1 inhabitant" empirical superlative the review asked to soften — kept as is.
-- Verified [[born-rule-violation-brain-interface-empirical-status-2026-04-23]] wikilink resolves to the research note acknowledging Tegmark 2000.
-- Verified [[trumping-preemption#costs-of-the-template]] anchor targets the "Costs of the Template" H2 heading at line 70 of the concept page.
-
-Fourth-pass verification (17:17 UTC) — second P1 re-run of pessimistic-2026-04-23 refinement:
-- Re-verified all four critical issues (§"Limits of the Thickness Metaphor" at line 69–71; landscape-claim hedges at lines 43/81/97/121; scope note at line 75; "Q1 articulability" at lines 86/145), all three counterargument responses (Nida-Rümelin/Descartes and Saad/Chalmers-naturalistic concrete cases at line 67; Q4 parsimony acknowledgment at line 121; "adjacent classifications only partially track" at line 129), and unsupported-claim row 5 (Tegmark 2000 cited at line 135 with [[born-rule-violation-brain-interface-empirical-status-2026-04-23]]). All items remain in place from the prior passes; no further substantive edits needed.
-
-Fifth-pass cross-review (2026-05-11 23:28 UTC) against new companion [[mechanism-costs-dualism-thickness-quadrants]]:
-- Added one-sentence forward pointer at the end of §"Why the Thickness Axis Matters" referencing the companion's cell-by-cell mechanism-cost analysis (causation account, interface specification, conservation engagement). Natural place: closes the rhetorical work of the section by routing the next question (what each cell costs) to the article that answers it.
-- Added [[mechanism-costs-dualism-thickness-quadrants]] to Further Reading.
-- Length-neutral compensation: tightened Q1 closing parenthetical at the §"Quadrant 1" tail from "see [[interface-formalization-void]], and the fiction-to-nature gap flagged in the [[trumping-preemption#costs-of-the-template|prior review of the template]]" to "see [[interface-formalization-void]] and [[trumping-preemption#costs-of-the-template|the template's costs section]]". Saves ~9 words to offset the new pointer.
-- Tightened description from 181 → 160 chars to fit the SEO 150–160 target.
-- No new critical or medium issues found. Attribution spot-check: Saad's "default causal profiles" and quantum-integration-as-Map's-reading still correctly attributed; Stapp's "process-1 choice of a probing action" still in Stapp's voice; Schaffer (2000) trumping template still correctly assigned. Reasoning-mode classification: the article responds to generic skeptics ("a skeptic might suspect... merely a re-parameterisation"), not named opponents — engagement is Mode One (in-framework refutation via concrete Type-D cases), no boundary-substitution or label leakage.
-
-Net length: 3019 → ~3035 words; still well within 3000–3500 window (soft threshold = 3000).
-
-This log should be removed after human review.
--->

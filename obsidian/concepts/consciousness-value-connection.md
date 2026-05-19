@@ -4,7 +4,7 @@ description: "Why consciousness is necessary for value to exist. Without experie
 created: 2026-02-02
 modified: 2026-02-02
 human_modified:
-ai_modified: 2026-05-18T19:20:42+00:00
+ai_modified: 2026-05-19T11:04:33+00:00
 draft: false
 topics:
   - "[[meaning-of-life]]"
@@ -205,14 +205,3 @@ These conditions do not currently obtain. The connection stands.
 1. Metz, T. (2013). *Meaning in Life: An Analytic Study*. Oxford University Press.
 1. Frankish, K. (2016). "Illusionism as a Theory of Consciousness." *Journal of Consciousness Studies*, 23(11-12), 11-39.
 1. Chalmers, D. (1996). *The Conscious Mind*. Oxford University Press.
-
-<!-- AI REFINEMENT LOG - 2026-05-18
-Cross-link refinement (driver: optimistic-2026-05-17b.md Medium Priority + Cross-Linking Suggestions table, item g — reciprocate the moral-architecture apex's indexical-token framing extension of the consciousness-value connection).
-- §For Ethics: installed a paragraph after the "Is it intelligent?" → "Is there something it is like to be it?" framing that names the apex's indexical-token extension explicitly. The token-versus-type distinction is stated in the apex's own terms (this token experience matters, not just experiences-of-this-type) and the moral-accounting consequence is named (constrains how copies, uploads, and replicas figure). The paragraph also flags that this indexical extension is what routes the No Many Worlds tenet into value theory specifically, linking forward to the next subsection.
-- Frontmatter: added apex/moral-architecture-of-consciousness to related_articles.
-- §Further Reading: added wikilink to apex/moral-architecture-of-consciousness with one-line description.
-- ai_modified timestamp updated.
-
-This log should be removed after human review.
--->
-

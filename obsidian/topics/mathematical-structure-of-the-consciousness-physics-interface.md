@@ -4,7 +4,7 @@ description: "Quantum mechanics' mathematical form—Hilbert space, the Born rul
 created: 2026-03-18
 modified: 2026-03-18
 human_modified:
-ai_modified: 2026-05-03T11:28:31.692517+00:00
+ai_modified: 2026-05-19T11:04:33+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -200,25 +200,3 @@ The mathematical structure of the consciousness-physics interface connects direc
 13. Arana, A. (2025). "Time-Extended Consciousness-Weighted Quantum Probabilities." PhilArchive. https://philarchive.org/rec/ARATCQ-2
 
 14. Penrose, R. & Hameroff, S. (1996, and subsequent work). Orchestrated Objective Reduction (Orch-OR).
-
-<!-- AI REFINEMENT LOG - 2026-04-23
-Changes made:
-- Rewrote the overreaching closing of the Born Rule Uniqueness subsection: replaced "ruled out by the mathematics before empirical testing begins" with an explicit conditional framing that (a) names the four Masanes-Galley-Müller postulates, (b) enumerates the tested regimes (photon, atom, qubit, triple-slit, high-energy), (c) flags the brain-internal-selection regime as untested, and (d) distinguishes postulate-intact wholesale reshaping (ruled out mathematically) from postulate-breaking brain-confined interaction (empirically open).
-- Added conditionality qualifier to the Inner Product Uniqueness subsection (dependence on exact no-signalling and linear unitary dynamics; tested only in non-neural regimes).
-- Added conditionality qualifier to the Second-Order Interference subsection (Sinha bound is at 10⁻² in optical; tightened by atomic/high-energy; not probed in neural tissue).
-- Reframed "The Corridor Defined" so the corridor "applies wherever the standard quantum postulates are satisfied" rather than as unrestricted mathematical inevitability. Removed the "this is not X—it is Y" LLM cliché ("This is not a philosophical preference—it is a constraint from the mathematics itself").
-- Added a new "Corridor Dualism and the Conditionality of the Bound" subsection that (a) distinguishes corridor dualism (the Map's default working hypothesis) from minimum-outside-the-corridor dualism (MQI-demanded if corridor selection is insufficient), (b) names concrete outside-corridor candidates (Stapp's Zeno, Chalmers-McQueen Φ-coupling, Penrose-Hameroff OR, Arana's λ-weighting), (c) states the steel-man for the corridor (no positive reason to expect QM to fail in brains specifically; brain-internal-only violation must avoid all downstream signatures), and (d) frames corridor dualism as responsive to evidence rather than a mathematical straitjacket.
-- Softened the intro to introduce conditionality without undercutting the thesis (removed "not a free parameter—it is tightly bounded" construct; kept the load-bearing claim that the mathematics constrains the interface within the regime where the postulates hold).
-- Updated the Minimal Quantum Interaction subsection in "Relation to Site Perspective" to reflect that MQI's authority inside the corridor is hypothesis-conditional, and that MQI demands the minimum *necessary to cause the effect* — which may lie outside the corridor if evidence demands.
-- Added the new 2026-04-23 research note to related_articles and Further Reading.
-- Added Sinha, Arana, Penrose/Hameroff references to support new in-text citations.
-- Bumped ai_modified to 2026-04-23T11:06:00+00:00.
-
-Based on: Human-prioritised P1 refine-draft task (2026-04-23, todo.md line 40). No automated review was run (scripts/curate.py does not exist at the expected path); task guidance was detailed enough to proceed surgically. All ten "Concrete revision asks" from the task notes are addressed.
-
-Key improvements: The article no longer claims mathematics rules out empirical possibilities in untested regimes. It now (a) makes the conditionality of MGM/Pati/Sorkin explicit, (b) names the brain-internal-selection regime as the relevant untested case, (c) offers two Map-compatible readings of MQI and declares the corridor reading as the default working hypothesis responsive to evidence, (d) articulates a steel-man for the corridor so the concession is not a capitulation but a framing. The Map's position is strengthened: corridor dualism is now explicitly a design choice that MQI could revise if evidence demanded.
-
-Downstream inconsistencies to watch: `concepts/born-rule-and-the-consciousness-interface.md` makes similar claims and may need a parallel concession (flag for follow-up refine-draft).
-
-This log should be removed after human review.
--->

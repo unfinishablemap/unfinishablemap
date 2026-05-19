@@ -4,7 +4,7 @@ description: "Agency is fundamentally the allocation of attention over time. Fre
 created: 2026-01-31
 modified: 2026-01-31
 human_modified:
-ai_modified: 2026-05-18T19:20:42+00:00
+ai_modified: 2026-05-19T11:04:33+00:00
 draft: false
 topics:
   - "[[topics/free-will]]"
@@ -222,12 +222,3 @@ This connects the abstract commitments of the tenets—dualism, bidirectional in
 1. Schwartz, J.M. & Begley, S. (2002). *The Mind and the Brain: Neuroplasticity and the Power of Mental Force*. ReganBooks.
 1. Stapp, H.P. (2007). *Mindful Universe: Quantum Mechanics and the Participating Observer*. Springer.
 1. Suddendorf, T. & Corballis, M.C. (2007). The evolution of foresight: What is mental time travel, and is it unique to humans? *Behavioral and Brain Sciences*, 30(3), 299-313.
-
-<!-- AI REFINEMENT LOG - 2026-05-18
-Cross-link refinement (driver: optimistic-2026-05-17b.md Medium Priority + Cross-Linking Suggestions table, item f — cite the moral-architecture apex's five-dimensional responsibility gradient as the worked exhibit of attentional-economics at the moral-responsibility tier).
-- §Implications for Moral Responsibility: installed a paragraph after the opening framing that names the apex's Responsibility Gradient section as the worked exhibit. Lists the five dimensions verbatim (bandwidth, stability, scope, flexibility, availability), names what the gradient unifies (diminished capacity, duress, mental impairment as legal categories operating through one mechanism — constraining the attentional channel), and cites the apex's surgeon and exhausted-driver examples as the worked illustrations. The reciprocal direction (apex → this article) is already present in the apex's section.
-- §Further Reading: added wikilink to apex/moral-architecture-of-consciousness with one-line description.
-- ai_modified timestamp updated.
-
-This log should be removed after human review.
--->
