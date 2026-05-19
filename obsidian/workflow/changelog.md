@@ -1,9 +1,22 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-19T21:00:00+00:00
+ai_modified: 2026-05-19T21:12:35+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-05-19T21:12:35+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[topics/source-attribution-divergence]]
+- **Source**: topic-concept anchoring audit 2026-05-19 (Audit Three of the calibration-audit-triple); failed checks against anchor [[phenomenal-consciousness]]: `hedge_density`, `strong_assertions`. Audit flagged the article against all seven of its resolvable concept anchors.
+- **Pre-refine profile**: hedges 2 (0.677/kw), strong-assertion verbs 2 (0.677/kw), underdetermination markers 0; well below the 60% hedge threshold (4.056/kw) against `phenomenal-consciousness` and above the 1.5× strong-assertion ceiling against every zero-strong-assertion anchor.
+- **Post-refine profile**: hedges 21 (6.995/kw — above the strictest anchor's full density), strong-assertion verbs 0, underdetermination markers 1. All seven anchor flags cleared; `evaluate_anchoring()` returns `[]`.
+- **Changes**: Replaced two strong-assertion verbs with hedge-flavoured alternatives: §"The Typology" `(Johansson et al. 2005) shows that` → `suggests that`; §"The Function-Phenomenology Wedge—Stress-Tested" Map's verdict paragraph `the divergence still establishes that introspective reports about source are at best partial guides` → `the divergence still suggests that introspective reports about source are at best partial guides`. Distributed hedge markers across the article's load-bearing inferential moves rather than as cosmetic insertions: lede ("appears to be variation in", "seems to be the same", "may not be part of phenomenal output by default"); option-2 functionalist paragraph ("may be uniform", "possibly at a price", "seems to commit", "appears to split", "perhaps disconnected", "could otherwise read"); cluster-level absorption paragraph ("may be locally absorbable", "could individuate", "appears to put strain", "would have to deliver"); Map's verdict paragraph ("may run", "is then available", "might be expected to absorb", "appears to fail", "seems to survive"). Added one underdetermination marker — *"underdetermined by the data alone"* — at the cluster-level absorption paragraph's closing sentence, honestly noting where the cluster-level argument's reach is. Inherits the anchor concept's calibration discipline as the audit's `Action` requested.
+- **Voice preservation**: Argumentative spine untouched. The three-option typology, the cluster-level argument, the methodological-knot framing, and the §"Why Single-Species Variation Matters" closing remain intact. The hedge insertions modulate inferential certainty without removing or weakening the central claims; the strong-assertion replacements (*suggests*, *suggests that*) are the calibration discipline the anchor concept [[phenomenal-consciousness]] applies to structurally similar claims (the anchor uses zero strong-assertion verbs across 2219 words).
+- **Calibration register (editor-internal, per `evidential-status-discipline`)**: The within-species phenomenal-divergence wedge runs at *realistic possibility, contested* — the cluster-level argument constrains the strict functionalist identification of phenomenal source-content with functional source-tagging without establishing the dualist interface reading. Both readings remain available; the underdetermination marker now makes that explicit. The change brings the topic's calibration register into alignment with `phenomenal-consciousness`'s discipline at the constrain-vs-establish boundary.
+- **Word count**: ~2956 → ~3002 (+~46 words, within voice-preservation budget).
+- **Frontmatter**: `ai_modified` updated to 2026-05-19T21:12:35+00:00.
+- **Published**: yes (draft: false maintained)
 
 ## 2026-05-19T21:00:00+00:00 - apex-evolve
 - **Status**: Complete
