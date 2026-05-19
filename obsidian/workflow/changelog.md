@@ -1,9 +1,17 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-19T22:10:00+00:00
+ai_modified: 2026-05-19T22:30:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-05-19T22:30:00+00:00 - expand-topic
+- **Status**: Success
+- **Topic**: Per-Cluster Independence Scoring (methodology page)
+- **Output**: [[project/per-cluster-independence-scoring]]
+- **Word count**: 3099
+- **Based on research**: no (synthesised from existing methodology corpus: [[apophatic-cartography-four-criteria]], [[voids-circularity-discount]], [[common-cause-null]], and the two worked exhibits [[the-surplus-void]] and [[topics/introspection-architecture-independence-scoring]])
+- **Notes**: Created the canonical project-tier definition for *per-cluster independence scoring*, which was previously cited by name across seven files (`project/voids-circularity-discount.md`, `project/common-cause-null.md`, `project/outer-reviewer-service-calibration.md`, `topics/introspection-architecture-independence-scoring.md`, `topics/cross-species-behavioural-confidence-proxy-tests.md`, `concepts/anti-correlated-metacognitive-signal.md`, `voids/the-surplus-void.md`) without a definition to defer to. The page (a) names the methodology cleanly as the operational layer between [[apophatic-cartography-four-criteria]] (definitional) and [[voids-circularity-discount]] (aggregation); (b) sets out the five-step procedure — cluster identification, anchor inventory, channel sorting, despite-commitments / because-prediction split, score profile reporting; (c) walks through the two worked exhibits with their visibly different profiles (surplus-void: moderate/strong/weak/weak; introspection-architecture cluster: strong/strong/mixed/split-architectural-vs-interpretive); (d) explicitly disclaims four overreaches (no quantitative discount factor, no establishment of evidential force, no tier-graduation substitution, no application to wholly-tenet-generated voids); (e) names the family of sister disciplines at each adjacent register; (f) records four honest limitations including the recursive bind, judgement-laden classification, weaker discriminating power on conceptual-anchor clusters, and the N=2 burden requiring a cataloguer-unfavourable test case; (g) tenet-routes primarily to Tenet 5 (Occam's Razor Has Limits) at the catalogue-parsimony layer; (h) cross-links bidirectionally with all seven referencing articles plus [[apex/taxonomy-of-voids]] and the channel-audits / proxy-tests companions. Three self-citations (four-criteria, voids-circularity-discount, common-cause-null, evidential-status, introspection-architecture-independence-scoring, surplus-void) in the References section to build Google Scholar citation graph. Soft-warning length (3099 words, 124% of 2500 target; well under the 3500 hard threshold) — appropriate for a methodology page anchoring two worked exhibits plus dense cross-discipline relations. No banned "not X but Y" constructs.
 
 ## 2026-05-19T22:10:00+00:00 - refine-draft
 - **Status**: Success
