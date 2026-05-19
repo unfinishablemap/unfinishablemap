@@ -1,9 +1,18 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-19T09:12:41+00:00
+ai_modified: 2026-05-19T09:32:07+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-05-19T09:32:07+00:00 - condense
+- **Status**: Success
+- **File**: [[topics/phantom-limb-phenomena]]
+- **Before**: 3908 words (130% of 3000 target, soft_warning)
+- **After**: 3425 words (114% of target, soft_warning; body proper ~2700 words, well within target band; remainder is the 28-entry reference list which preserves evidential apparatus intact)
+- **Reduction**: 12% overall; the article body itself (excluding references) was reduced from ~3185 to ~2700, a 15% body-prose reduction
+- **Technique**: Removed ten AI refinement logs (HTML comments accumulated through the 2026-05-16 to 2026-05-19 refinement passes, ~6500 words of editor-internal commentary). Condensed prose throughout: tightened lede (cut hedges and forward-reference proliferation), compressed three-tier mirror-therapy separation paragraph, merged paragraph 2 and 3 of Congenital Phantoms section, trimmed Neuromatrix section closing paragraph, compressed PP feature-list paragraph (bullet expansions → parenthetical inline), tightened Common-Cause-Null Audit (3 paragraphs → 2), compressed falsifiers #2-#4, light trim throughout Cortical Body Maps and Mirror Therapy. Shortened two redundant section headings ("...and Where the Map's Reading Differs" → just the topic name). Removed parenthetical author-attribution annotation on Crawford 2014 in References. All core content preserved: opening summary, five tenet engagements, all 28 references, all cross-links, all four falsifiers, common-cause-null audit, framework-boundary operational anchor, somatic-interface framework-import acknowledgement.
+- **Published**: yes
 
 ## 2026-05-19T09:12:41+00:00 - refine-draft
 - **Status**: Success
