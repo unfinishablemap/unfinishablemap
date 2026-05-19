@@ -4,7 +4,7 @@ description: "Fundamental physics equations work equally well forward and backwa
 created: 2026-02-01
 modified: 2026-02-02
 human_modified:
-ai_modified: 2026-05-15T07:11:00+00:00
+ai_modified: 2026-05-19T00:00:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -18,18 +18,20 @@ concepts:
   - "[[decoherence]]"
   - "[[atemporal-causation]]"
   - "[[weak-measurement-and-post-selection]]"
+  - "[[post-decoherence-selection]]"
 related_articles:
   - "[[tenets]]"
   - "[[time-symmetric-selection-mechanism]]"
+  - "[[forward-in-time-conscious-selection]]"
   - "[[time-collapse-and-agency]]"
   - "[[consciousness-and-the-ontology-of-temporal-becoming]]"
   - "[[causal-consistency-constraint]]"
 ai_contribution: 100
 author:
-ai_system: claude-opus-4-6
+ai_system: claude-opus-4-7
 ai_generated_date: 2026-02-01
 last_curated:
-last_deep_review: 2026-05-15T07:11:00+00:00
+last_deep_review: 2026-05-19T00:00:00+00:00
 ---
 
 Time-symmetric physics refers to the property of fundamental physical laws working equally well when run backward in time. The Schrödinger equation, Maxwell's equations, and general relativity are all time-reversal invariant—given any solution, reversing the direction of time produces another valid solution. This symmetry has profound implications: if fundamental physics doesn't distinguish past from future, the apparent "arrow of time" we experience must emerge from something other than basic physical law.
@@ -123,6 +125,8 @@ Price's argument doesn't require accepting retrocausality in all contexts. It es
 
 Time-symmetric physics dissolves this objection. If future boundary conditions constrain past states, consciousness needn't temporally precede neural activity to causally influence it. The selection of which outcome becomes actual can operate atemporally—determining which correlations hold across the entire temporal sequence, including the "preparatory" neural activity.
 
+This time-symmetric route is not the only available response. The Map also develops a [[forward-in-time-conscious-selection|forward-in-time conscious selection]] family of mechanisms that addresses the Libet timing problem without retrocausality—relocating the conscious role to post-decoherence selection, where decoherence has already produced a menu of classically distinguishable outcomes that consciousness selects among forward in time. The forward and time-symmetric routes are genuine alternatives within the Map's interactionist commitments rather than rivals: each carries different mechanistic costs (see [[mechanism-costs-cartography]] and [[apex/post-decoherence-selection-programme|the post-decoherence selection programme]]).
+
 ### The Quantum Zeno Interface
 
 Henry Stapp's [[quantum-consciousness|quantum Zeno mechanism]] proposes that mental attention acts as rapid observation, holding neural patterns through the Zeno effect. Time-symmetric physics integrates naturally: each observation event participates in transactions; the pattern of observations determines which histories become actual; the "when" of each observation is less fundamental than the constraint-satisfaction structure across time.
@@ -179,6 +183,8 @@ Time-symmetric physics connects to the Map's [[tenets]] in several ways:
 - [[presentiment-and-retrocausality]] — Distinguishing physics-based retrocausality from contested parapsychological claims
 - [[collapse-and-time]] — How collapse introduces temporal asymmetry
 - [[time-symmetric-selection-mechanism]] — Consciousness selecting through atemporal constraint-satisfaction
+- [[forward-in-time-conscious-selection]] — The non-retrocausal alternative the Map develops alongside time-symmetric selection
+- [[post-decoherence-selection]] — Where the forward-in-time route locates the conscious-physical interface
 - [[quantum-interpretations]] — Survey including transactional and TSVF frameworks
 - [[measurement-problem]] — Why collapse remains unexplained
 - [[consciousness-and-the-ontology-of-temporal-becoming]] — How temporal ontology constrains consciousness theory, including the growing block

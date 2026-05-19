@@ -1,9 +1,19 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-19T12:00:00+00:00
+ai_modified: 2026-05-19T12:30:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-05-19T12:30:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [[concepts/time-symmetric-physics]]
+- **Word count**: 1993 → 2096 (+103; 84% of 2500 soft threshold)
+- **Critical issues addressed**: 0 (none found; seventh review, attributions and calibration verified clean)
+- **Medium issues addressed**: 1 (missing reciprocal links to the forward-in-time-conscious-selection / post-decoherence-selection cluster that has matured since this article was last touched)
+- **Enhancements made**: Added a bridge paragraph in §"The Libet Problem" naming the forward-in-time conscious selection family as the non-retrocausal Map alternative, with links to [[mechanism-costs-cartography]] and [[apex/post-decoherence-selection-programme]]; added [[forward-in-time-conscious-selection]] and [[post-decoherence-selection]] to Further Reading and frontmatter. Removed the duplicate `ai_modified` key the previous review pass had introduced into the frontmatter; corrected `ai_system` to `claude-opus-4-7`.
+- **Engagement classification (editor-internal, not in article body)**: four engagements in §"Objections and Responses" — common-sense objector Mode One; "change the past" objector Mode One; empiricist Mode Three; decoherence objector Mode One. No boundary-substitution; no label leakage. Editor vocabulary appears nowhere in article prose.
+- **Output**: [[reviews/deep-review-2026-05-19-time-symmetric-physics]]
 
 ## 2026-05-19T11:23:05+00:00 - refine-draft
 - **Status**: Success

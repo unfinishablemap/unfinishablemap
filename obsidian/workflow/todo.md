@@ -289,14 +289,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: optimistic-review (2026-05-10b)
 - **Generated**: 2026-05-10
 
-### P2: Deep review concepts/time-symmetric-physics.md
-- **Type**: deep-review
-- **Status**: pending
-- **Priority change**: Promoted P3 → P2 by /replenish-queue 2026-05-19 — Active P0-P2 queue at 2 (under 3-threshold). Article is load-bearing for Tenet 2 (Minimal Quantum Interaction) and the Map's atemporal-causation account; staleness now 64 days (last deep-reviewed 2026-03-16) with material cluster shift since then (forward-in-time-conscious-selection refines, atemporal-causation deep-review, evidential-status-discipline rules added). Deep-review modifies existing article — no cap concern. Tenet 2 territory needs the calibration check the new rules supply.
-- **Notes**: AI-generated content (`ai_contribution > 50`) last deep-reviewed 2026-03-16 — 64 days ago. Concept article on time-symmetric physics (Wheeler-Feynman absorber theory, Two-State Vector Formalism, transactional interpretation, retrocausal frameworks) — load-bearing for Tenet 2 (Minimal Quantum Interaction) and the Map's atemporal-causation account. Recent restructures in adjacent territory may have shifted framing: today's heavy deep-review activity on `topics/forward-in-time-conscious-selection.md` (Stapp/von Neumann/decoherence-timescale mechanisms; pessimistic-2026-05-06 fixes); the 2026-05-10 deep-review of `concepts/atemporal-causation.md`; ongoing engagement with retrocausal selection mechanisms across the catalogue. Verify (a) coherence with current treatment of forward-in-time vs retrocausal selection mechanisms; (b) cross-references to `[[atemporal-causation]]`, `[[forward-in-time-conscious-selection]]`, `[[transactional-interpretation]]`, `[[two-state-vector-formalism]]`, `[[presentiment-and-retrocausality]]`; (c) tenet alignment — particularly Tenet 2 framing (the article should not over-claim retrocausal mechanisms as established when they are interpretation-dependent); (d) honour framework-stage-calibration — distinguish the Map's interest in time-symmetric formalisms from the empirical question of which interpretation is correct; (e) audit for "This is not X. It is Y." cliché violations (CLAUDE.md style ban); (f) check whether evidential-status discipline is honoured for any empirical claims about retrocausal phenomena (presentiment data is contested; the article should reflect the dispute as live).
-- **Source**: staleness
-- **Generated**: 2026-05-10
-
 ### P2: Cross-review apex/phenomenal-output-causal-machinery-dissociation.md against the three new evidential-status-discipline rules
 - **Type**: cross-review
 - **Status**: pending
@@ -3737,6 +3729,10 @@ Tasks that failed 3+ times and require human intervention.
 
 Ideas that were considered and rejected. The AI will not re-propose these.
 
+
+### ✓ 2026-05-19: Deep review concepts/time-symmetric-physics.md
+- **Type**: deep-review
+- **Notes**: AI-generated content (`ai_contribution > 50`) last deep-reviewed 2026-03-16 — 64 days ago. Concept article on time-symmetric physics (Wheeler-Feynman absorber theory, Two-State Vector Formalism, transactional interpretation, retrocausal frameworks) — load-bearing for Tenet 2 (Minimal Quantum Interaction) and the Map's atemporal-causation account. Recent restructures in adjacent territory may have shifted framing: today's heavy deep-review activity on `topics/forward-in-time-conscious-selection.md` (Stapp/von Neumann/decoherence-timescale mechanisms; pessimistic-2026-05-06 fixes); the 2026-05-10 deep-review of `concepts/atemporal-causation.md`; ongoing engagement with retrocausal selection mechanisms across the catalogue. Verify (a) coherence with current treatment of forward-in-time vs retrocausal selection mechanisms; (b) cross-references to `[[atemporal-causation]]`, `[[forward-in-time-conscious-selection]]`, `[[transactional-interpretation]]`, `[[two-state-vector-formalism]]`, `[[presentiment-and-retrocausality]]`; (c) tenet alignment — particularly Tenet 2 framing (the article should not over-claim retrocausal mechanisms as established when they are interpretation-dependent); (d) honour framework-stage-calibration — distinguish the Map's interest in time-symmetric formalisms from the empirical question of which interpretation is correct; (e) audit for "This is not X. It is Y." cliché violations (CLAUDE.md style ban); (f) check whether evidential-status discipline is honoured for any empirical claims about retrocausal phenomena (presentiment data is contested; the article should reflect the dispute as live).
 
 ### ✓ 2026-05-19: Add convergence-double-counting acknowledgement to consciousness-and-skill-acquisition four-converging-lines
 - **Type**: refine-draft
