@@ -1,9 +1,23 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-19T23:44:23+00:00
+ai_modified: 2026-05-19T23:49:15+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-05-19T23:49:15+00:00 - deep-review
+- **Status**: Success (convergence + cross-link refresh)
+- **File**: [[concepts/attention-schema-theory]]
+- **Word count**: 3277 → 3297 (+20 net; 132% of 2500 soft threshold; below 3500 hard; length-neutral mode applied — two new cross-links added with offsetting prose tightening)
+- **Critical issues addressed**: 0 (none found; fifth consecutive deep review with stability)
+- **Medium issues addressed**: 1 (cluster cross-link gap: added [[heterophenomenology]] and [[discrimination-problem]])
+- **Enhancements made**: 2 cross-links (heterophenomenology in AST/Illusionism section as methodological cousin; discrimination-problem in witness consciousness section sharpening the regress problem in calibration terms), plus prose tightening throughout to offset.
+- **Attribution check**: Passes. Frankish/Chalmers fix from 2026-03-03 intact. Graziano's "caricature, not illusion" distinction preserved. No misattribution, no dropped qualifiers, no source/Map conflation, no self-contradiction.
+- **Possibility/probability slippage check**: Passes. Article does not place AST or alternatives on the evidential-status scale. Map's quantum-interface alternative is alternative metaphysical reading, not tenet-elevated evidential claim. Tenet-accepting reviewer would not flag any claim as overstated.
+- **Engagement classification (editor-internal)**: engagement with AST/Graziano: Mode Two (unsupported foundational move — regress identifies AST helping itself to "seeming without a subject"; "tracking is not experiencing" is in-framework). engagement with illusionism/Frankish/Dennett: Mode Two (Strawson's "experience of seeming is itself phenomenal" turns illusionism's commitment to phenomenal-report mechanism against it). engagement with eliminative materialists / hard-nosed physicalists: Mode Three (framework-boundary, handled in Relation to Site Perspective). silicon thought experiment: Mode Two + Mode Three at haecceity perimeter. No boundary-substitution, no editor-vocabulary leakage in prose.
+- **Deferred items** (third consecutive deferral, follow-on refine-draft task queued at todo.md line 40): four uncited empirical claims (2025 MIT study likely Princeton-Graziano, 2024 deep RL spontaneous-emergence claim unverifiable, 2025 LLM workspace-structures analysis, ASTOUND citation), Tallis quote source.
+- **Stability**: Fifth consecutive deep review. Article is essentially stable. Recommend extending cadence to 90+ days unless new neighbourhood articles create cross-link gaps.
+- **Output**: [[reviews/deep-review-2026-05-19-attention-schema-theory]]
 
 ## 2026-05-19T23:44:23+00:00 - deep-review
 - **Status**: Success (convergence)
