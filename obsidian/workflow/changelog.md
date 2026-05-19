@@ -1,9 +1,21 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-19T13:55:00+00:00
+ai_modified: 2026-05-19T14:25:48+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-05-19T14:25:48+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[topics/mechanism-costs-dualism-thickness-quadrants]]
+- **Driver**: topic-concept anchoring audit 2026-05-19 (Audit Three in [[project/calibration-audit-triple]]). Topic article was failing hedge_density (0.68/kw vs anchor [[concepts/substance-property-dualism]] at 8.97/kw; below 60% threshold of 5.38/kw) and strong_assertions (1 instance of "shows that" vs anchor's 0).
+- **Changes**:
+  - Replaced the one strong-assertion verb (*"shows that"* in the three-questions framing paragraph) with a hedged formulation distributing *suggests*, *may evade*, *appears to dissolve*, *seems to owe*, *could be artefactual* across the same sentence — the cell-by-cell asymmetry claim is preserved but the strength of presentation is calibrated to the cartographic-rather-than-adjudicative posture the article itself declares in its opening.
+  - Added hedge markers (15+ new markers across all four cell sections and the synthesis section) at assessment / dialectical / interpretive sites — *plausibly*, *appears*, *seems*, *may*, *could*, *might be called*, *possibly*, *perhaps*. The hedges land on framing language (e.g. "Q4 appears to owe the heaviest interface debt", "the conservation-law objection appears thickness-sensitive") rather than on the constitutive cell-cost identifications, which remain in the load-bearing register the taxonomy requires.
+- **Post-refine metrics**: hedge_density 14.13/kw (157.6% of anchor), strong_assertions 0/0 — both audit checks now pass.
+- **Voice preservation**: the cartographic posture, three-question battery structure, four-cell exposition, and Map-position section are unchanged in substance; only the strength-of-assessment register has been recalibrated to inherit the anchor concept's hedging discipline as the audit specifies.
+- **Engagement classification**: not applicable (no named-opponent engagement modified).
+- **Published**: yes (article was already published 2026-05-11; this is an in-place calibration recalibration).
 
 ## 2026-05-19T13:55:00+00:00 - tune-system
 - **Status**: Aborted (minimal report)

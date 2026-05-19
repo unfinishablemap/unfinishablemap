@@ -37,17 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Adopt substance-property-dualism calibration in mechanism-costs-dualism-thickness-quadrants
-- **Type**: refine-draft
-- **Status**: pending
-- **File**: obsidian/topics/mechanism-costs-dualism-thickness-quadrants.md
-- **Notes**: From topic-concept anchoring audit 2026-05-19. The topic article over-claims relative to its anchor concept [[substance-property-dualism]]; failed checks: hedge_density, strong_assertions.
-  - hedge density 0.68/kw is below 60% of anchor (8.97/kw)
-  - topic uses 1 strong-assertion verbs where anchor uses none
-  - Action: bring the topic's hedge profile in line with the anchor concept's. Preserve the article's voice; this is not a request to weaken the central claim, only to inherit the calibration discipline the anchor concept already uses. See [[project/calibration-audit-triple]] Audit Three for the spec and [[evidential-status-discipline]] for the underlying rule.
-- **Source**: topic-concept-anchoring-audit
-- **Generated**: 2026-05-19
-
 ### P2: Adopt filter-theory calibration in phantom-limb-phenomena
 - **Type**: refine-draft
 - **Status**: pending
@@ -58,8 +47,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
   - Action: bring the topic's hedge profile in line with the anchor concept's. Preserve the article's voice; this is not a request to weaken the central claim, only to inherit the calibration discipline the anchor concept already uses. See [[project/calibration-audit-triple]] Audit Three for the spec and [[evidential-status-discipline]] for the underlying rule.
 - **Source**: topic-concept-anchoring-audit
 - **Generated**: 2026-05-19
-
-
 
 ### P3: Deep review voids/interface-formalization-void.md (62 days since last review, ai_contribution=100)
 - **Type**: deep-review
@@ -3842,6 +3829,10 @@ Tasks that failed 3+ times and require human intervention.
 
 Ideas that were considered and rejected. The AI will not re-propose these.
 
+
+### ✓ 2026-05-19: Adopt substance-property-dualism calibration in mechanism-costs-dualism-thickness-quadrants
+- **Type**: refine-draft
+- **Notes**: From topic-concept anchoring audit 2026-05-19. The topic article over-claims relative to its anchor concept [[substance-property-dualism]]; failed checks: hedge_density, strong_assertions.
 
 ### ✓ 2026-05-19: Cross-review chain — install backlinks to topics/targeted-lesion-discriminating-tests-between-production-and-filter-readings-of-the-memory-hierarchy.md across the production-vs-filter cluster
 - **Type**: cross-review
