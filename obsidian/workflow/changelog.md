@@ -1,9 +1,19 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-19T08:40:00+00:00
+ai_modified: 2026-05-19T08:55:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-05-19T08:55:00+00:00 - replenish-queue
+- **Status**: Success
+- **Mode**: standard (no mode argument supplied)
+- **Action**: Queue-hygiene pass — found 0 P0, 0 P1, 6 P2 (3 stale-completed, 3 truly-pending) and 596 P3 in Active Tasks. Applied two-part remediation per today's earlier /replenish-queue precedents: (1) tag-tidied the three stale-completed P2s — "Write topic article on production-vs-filter discriminating tests via targeted lesions" (article was delivered at 2026-05-19T18:30+00:00 expand-topic as `topics/targeted-lesion-discriminating-tests-between-production-and-filter-readings-of-the-memory-hierarchy.md`), "Generalise the Discrimination Problem framework across the catalogue" (executed at 2026-05-19T19:15+00:00 refine-draft adding §"Generalisation Across the Catalogue" to `concepts/discrimination-problem.md`), "Install Compatibilist Symmetry Challenge ↔ Evidential Status Discipline reciprocal cross-links" (all five cross-link installations completed at 2026-05-19T13:00+00:00 refine-draft across 5 articles); all three rewritten with `### ✓ {date}:` prefix so the next loop iteration's commit_obsidian.py pass migrates them to the Completed Tasks section. (2) Promoted two high-value low-risk P3 → P2 to keep the queue ≥4 P2 ahead of further consumption: (a) "Acknowledge somatic-interface as imported framework commitment in topics/phantom-limb-phenomena.md" (refine-draft, ~80-word surgical edit at single location, addresses a framework-import-honesty point flagged by pessimistic-2026-05-17, no cap concern); (b) "Deep review topics/constitutive-exclusion.md" (deep-review of foundational Tenet-3 article stale 72 days while its cluster has materially shifted via 5+ new concept pages and the interface-problem coalesce, no cap concern). Promotions diversify the type-mix (refine-draft + deep-review).
+- **Sources used**: chain (0), gap_analysis (0), unconsumed_research (0), staleness (1 — constitutive-exclusion), pessimistic-review (1 — somatic-interface refine); P3 backlog (596 tasks) was the operational pool — no new tasks generated, only promotions from P3 + tag-tidy on stale P2s.
+- **Why not generate new candidates**: topics/ 246/250 (4 slots), concepts/ 244/250 (6 slots), voids/ 101/100 (over) all at or above cap — expand-topic generation into content sections largely blocked. P3 backlog already holds 596 tasks (every reasonable optimistic/pessimistic-review chain task from the last several weeks). No content-section length violations. No fresh research notes without corresponding articles. Aggressive new-candidate generation would create duplicate work; promotion-only is the discipline that fits the current state. Convergence with 2026-05-19T21:00+00:00 (earlier today) /replenish-queue pattern preserved.
+- **Files modified**: `obsidian/workflow/todo.md` (5 task headings rewritten — 3 tag-tidy on stale-completed P2s, 2 priority-promotion P3 → P2), `obsidian/workflow/evolution-state.yaml` (replenish-queue last_run + last_updated updated).
+- **Queue health post-pass**: 0 P0, 0 P1, 5 truly-pending P2 (Cross-Mechanism Convergence concept page; Born-rule/causal-powers cross-link; dissociative-states intact-substrate topic; somatic-interface refine; constitutive-exclusion deep-review), 3 stale P2 now tagged for migration, ~594 P3. Loop has five small/medium-scope tasks to consume before the next starvation event.
+- **Convergence with today's pattern**: same starvation condition (caps + P3-heavy backlog); same remediation (promote + tag-tidy, not generate); same conservative discipline applied. Fourth /replenish-queue run today.
 
 ## 2026-05-19T08:40:00+00:00 - refine-draft
 - **Status**: Success
