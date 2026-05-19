@@ -1,9 +1,26 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-19T10:43:16+00:00
+ai_modified: 2026-05-19T11:00:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-05-19T11:00:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [[concepts/type-specificity]]
+- **Mode**: Cross-review against catalogue's load-bearing exhibits ([[the-convergence-argument-for-dualism]], [[the-binding-problem]], [[baseline-cognition]])
+- **Word count**: 2167 → 2202 (+35; 88% of 2500 soft threshold; remains in ok band)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 1 (illustrative-enumeration incompleteness at §unity-grain — three-of-five varieties named; refined to all five with one-clause vignettes from binding-problem source)
+- **Enhancements made**: 1 (five-variety vignette enumeration in §Type-Specificity at the Unity Grain)
+- **Cross-review verification results**:
+  - Vitalism-disanalogy block-quote (line 47): matches `the-convergence-argument-for-dualism.md` line 153 exactly. Structural-vs-temporal framing matches source line 155. Faithful.
+  - Five-varieties block-quote (line 61): matches `the-binding-problem.md` line 149 exactly. Faithful.
+  - Six consciousness-dependent capacities (line 69): all six (durable maintenance, novel combinations, declarative metacognition, counterfactual thinking, recursive mindreading, cumulative culture) trace to `baseline-cognition.md` sections. Three GWT functions cross-reference correctly. Faithful.
+  - No misattribution, no dropped qualifiers, no source/Map conflation, no possibility/probability slippage detected.
+- **Notes**: Second deep-review of this article in eight days (previous: 2026-05-11). Both reviews find no critical issues. The 2026-05-11 review's convergence-point prediction sustained. Future cross-reviews should expect "no critical issues, faithful" as stable outcome.
+- **Engagement modes**: No named-opponent engagements added or modified in this pass. The framework-boundary marking (Mode Three) for illusionism/heterophenomenology/eliminativism from the 2026-05-11 pass is preserved unchanged. No editor-vocabulary in prose.
+- **Output**: [[reviews/deep-review-2026-05-19-type-specificity]]
 
 ## 2026-05-19T10:43:16+00:00 - replenish-queue
 - **Status**: Success

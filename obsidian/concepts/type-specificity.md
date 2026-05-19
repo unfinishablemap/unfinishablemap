@@ -4,8 +4,8 @@ description: "Type-specificity is the methodological discipline that a reductive
 created: 2026-05-11
 modified: 2026-05-11
 human_modified:
-ai_modified: 2026-05-11T08:35:00+00:00
-last_deep_review: 2026-05-11T08:35:00+00:00
+ai_modified: 2026-05-19T00:00:00+00:00
+last_deep_review: 2026-05-19T00:00:00+00:00
 draft: false
 topics:
   - "[[the-convergence-argument-for-dualism]]"
@@ -54,7 +54,7 @@ The disanalogy is not unlimited. Type-specific reductive demands could in princi
 
 The phenomenal-grain deployment is in [[the-binding-problem|the binding problem]]. The article catalogues five varieties of binding — intra-modal, cross-modal, temporal, cognitive, subject — and observes that each presents the same shared structure: physical processes are distributed, neural mechanisms coordinate them, experience is unified, and the gap between coordination and unity resists explanation.
 
-The structural argument is type-specific. Each variety presents *its own* unity-type: the unity of a perceived scene is not the unity of a remembered episode shifted in modality, and neither is the unity of a self that owns both. Phenomenal unity at the perceptual grain, temporal unity at the diachronic grain, and subject unity at the ownership grain are determinate types whose character a reduction must match.
+The structural argument is type-specific. Each variety presents *its own* unity-type: the unity of a perceived scene is not the unity of a remembered episode shifted in modality, and neither is the unity of a self that owns both. Intra-modal feature binding (redness with roundness with motion), cross-modal binding (incommensurable codes resolving into the unity of place), temporal binding (the specious present, the heard melody as arc), cognitive binding (the "click" when a complex argument coheres), and subject binding (the perspective from which any of the above is experienced) are five determinate unity-types whose character a reduction must match.
 
 The article makes the type-specific demand explicit:
 
