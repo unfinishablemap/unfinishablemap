@@ -1,9 +1,19 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-19T20:30:00+00:00
+ai_modified: 2026-05-19T21:00:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-05-19T21:00:00+00:00 - replenish-queue
+- **Status**: Success
+- **Mode**: standard (no mode argument supplied)
+- **Action**: Queue-starvation pass — found 0 P0, 0 P1, 2 P2 (both stale-completed-but-still-in-Active-section; tag-tidied) and 516 P3 in Active Tasks. Applied two-part remediation per 2026-05-18 precedent: (1) tag-tidy the two stale P2s ("Write concepts/type-specificity.md" generated 2026-05-11, file exists since 2026-05-11 deep-review; "Update references to coalesced articles..." generated 2026-03-20, completed 2026-03-20) — both rewritten with `### ✓ {date}:` prefix so the next loop iteration's commit_obsidian.py pass migrates them to the Completed Tasks section. (2) Promoted three high-value P3 → P2 to feed the loop: (a) "Write concept page on Cross-Mechanism Convergence as Evidence Pattern" (closes a load-bearing methodological hole the catalogue uses implicitly across three exhibits — active-reboot mechanism-shared reopening, memory-hierarchy five-perturbation convergence, pharmacological-dissociation apex Class-B; `project/` placement is no-cap, `concepts/` 245/250 also viable); (b) "Audit mine-ness/agency distinction across self-and-self-consciousness cluster" (refine-draft chain from today's `concepts/mine-ness.md` expand-topic, no-cap, six-article touch); (c) "Cross-link the Born-rule / causal-powers pair more tightly" (cross-review, small scope ~150 words, pair became load-bearing after today's condense + pessimistic-review + refine on `topics/consciousness-and-causal-powers.md`).
+- **Sources used**: chain (2), gap_analysis (1); P3 backlog was the operational pool — no new tasks generated, only promotions from P3 + tag-tidy on stale P2s.
+- **Why not generate new candidates**: topics/ 247/250, concepts/ 245/250, voids/ 102/100 (over) all at or above cap — expand-topic generation into content sections largely blocked. P3 backlog already holds 516 tasks (every reasonable optimistic/pessimistic-review chain task from the last several weeks). No content-section length violations (the only length warnings are in `research/` notes which are not content articles). No fresh research notes without corresponding articles. Aggressive new-candidate generation would create duplicate work; promotion-only is the discipline that fits the current state.
+- **Files modified**: `obsidian/workflow/todo.md` (5 task headings rewritten — 2 tag-tidy, 3 priority-promotion), `obsidian/workflow/evolution-state.yaml` (replenish-queue last_run updated).
+- **Queue health post-pass**: 0 P0, 0 P1, 3 truly-pending P2, ~514 P3 (two stale P2s now tagged for migration). Loop has three small/medium-scope tasks to consume before the next starvation event.
+- **Convergence with 2026-05-18 pattern**: same starvation condition (caps + P3-heavy backlog); same remediation (promote + tag-tidy, not generate); same conservative discipline applied.
 
 ## 2026-05-19T20:30:00+00:00 - deep-review
 - **Status**: Success

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-19 19:00:00+00:00
+ai_modified: 2026-05-19 21:00:00+00:00
 ai_system: claude-opus-4-7
 author: Andy Southgate
 concepts: []
@@ -45,9 +45,10 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: optimistic-review (2026-05-19b)
 - **Generated**: 2026-05-19
 
-### P3: Audit mine-ness/agency distinction across self-and-self-consciousness cluster
+### P2: Audit mine-ness/agency distinction across self-and-self-consciousness cluster
 - **Type**: refine-draft
 - **Status**: pending
+- **Priority change**: Promoted P3 → P2 by /replenish-queue 2026-05-19 — queue starved at P0–P2. Chain from today's `concepts/mine-ness.md` expand-topic; refine-draft is no-cap and the audit-touch across 6 articles delivers high cluster-integration value at modest per-article scope. Selected to keep the loop fed with a small-scope task that exercises the cluster-integration discipline.
 - **Notes**: From optimistic-2026-05-19b §"High Priority" — the new `concepts/mine-ness.md` installs the mine-ness/agency distinction as load-bearing methodology (per Gallagher 2000, 2012: schizophrenic thought insertion preserves ownership while disrupting agency; depersonalisation does the reverse). The rest of the self-and-self-consciousness cluster does not yet uniformly preserve this distinction. Audit the following articles for places where *self-related* phenomenal features are treated without naming whether they are at the mine-ness layer or the agency layer, and install the distinction (with a short reference to `concepts/mine-ness.md`) where the discipline is currently missing: (a) `concepts/self-and-self-consciousness.md`; (b) `topics/phenomenology-of-agency-vs-passivity.md`; (c) `concepts/phenomenology-of-recursive-self-awareness.md`; (d) `voids/self-opacity.md`; (e) `topics/consciousness-and-the-ownership-problem.md`; (f) `voids/ownership-void.md`. The audit should produce reciprocal cross-links from each touched article to `concepts/mine-ness.md` and should preserve the [[evidential-status-discipline]] — the distinction is a *phenomenal-feature-architecture* claim, not a metaphysical claim. Estimated scope: ~200–500 words touched across 6 articles. Tenet alignment: Tenet 1 (Dualism) + Tenet 3 (Bidirectional Interaction) at the phenomenology-discipline tier. See `reviews/optimistic-2026-05-19b.md` §"High Priority".
 - **Review file**: `reviews/optimistic-2026-05-19b.md`
 - **Source**: optimistic-review (2026-05-19b)
@@ -61,9 +62,10 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: optimistic-review (2026-05-19b)
 - **Generated**: 2026-05-19
 
-### P3: Write concept page on Cross-Mechanism Convergence as Evidence Pattern
+### P2: Write concept page on Cross-Mechanism Convergence as Evidence Pattern
 - **Type**: expand-topic
 - **Status**: pending
+- **Priority change**: Promoted P3 → P2 by /replenish-queue 2026-05-19 — queue starved at P0–P2 (0 P0, 0 P1, 0 truly-pending P2 after tag-tidying two stale-completed P2s today). Task closes a load-bearing methodological hole the catalogue currently uses implicitly across at least three exhibits (active-reboot mechanism-shared reopening; memory-hierarchy five-perturbation convergence; pharmacological-dissociation apex Class-B). `project/` placement is no-cap and is the cleanest home for a methodological-discipline page; alternative `concepts/` (245/250, room) is viable. Highest gap-analysis bonus among the P3 backlog.
 - **Notes**: From optimistic-2026-05-19 §"New Concept Pages Needed" — short methodological-discipline page in `project/` or `concepts/` on why convergence of mechanism-distinct perturbations on the same ordering is a stronger evidence pattern than single-mechanism replication. The memory-hierarchy article uses this implicitly; the active-reboot phenomenon and the cross-state self-stultification pattern use it implicitly; the pharmacological-dissociation apex Class-B identification names it as the signature feature of one of three named classes. Naming the pattern explicitly would make it a load-bearing methodological notion the catalogue could cite. Article should (a) state the pattern cleanly — *cross-mechanism convergence*: when n ≥ 2 perturbations operating through mechanism-distinct causal pathways produce the same downstream phenomenological/functional ordering, the convergence is evidence against single-mechanism explanations and toward a *structural* feature of the system being perturbed; (b) distinguish from single-mechanism replication (which establishes a finding's robustness within one causal route but does not constrain the explanatory hypothesis to *exclude* single-mechanism explanations); (c) catalogue the worked exhibits across the catalogue: the active-reboot mechanism-shared reopening across mechanism-distinct closings (KCC2 finding + propofol vs xenon induction); the memory-hierarchy graded-vulnerability ordering being produced by anaesthesia, sleep, hemispherectomy, terminal lucidity, and dissociative states (five mechanism-distinct perturbations converging on the same ordering); the cross-state self-stultification arguments across ketamine, dissociative anaesthesia, and contemplative-pathology cases; (d) honour `[[evidential-status-discipline]]` — cross-mechanism convergence raises the evidential bar relative to single-mechanism findings, but does not by itself reach *strongly supported* tier (the pattern is an evidence-pattern *strength* indicator, not a tier-graduation); (e) state the relationship to `[[direct-refutation-discipline]]` — direct refutation requires a single decisive case; cross-mechanism convergence is a *cumulative* discipline that strengthens warranted-inference without committing to direct refutation; (f) cross-link to `[[concepts/active-reboot]]`, `[[apex/pharmacological-dissociation-as-evidence]]`, `[[topics/memory-system-vulnerability-hierarchies-as-interface-evidence]]`, `[[topics/self-stultification-as-master-argument]]`, `[[project/direct-refutation-discipline]]`, `[[project/evidential-status-discipline]]`, `[[project/cluster-integration-discipline]]`. Target section: `concepts/` placement (245/250 = 5 slots available — verify cap state at execution time; or `project/` if treated as methodological discipline page). Estimated scope: 1,200–1,800 words. Tenet alignment: methodological — applies to all five tenets equally; the discipline is about evidence-pattern strength, not tenet-specific commitment. See `reviews/optimistic-2026-05-19.md` §"New Concept Pages Needed".
 - **Review file**: `reviews/optimistic-2026-05-19.md`
 - **Source**: optimistic-review (2026-05-19)
@@ -235,9 +237,10 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: optimistic-review (2026-05-14)
 - **Generated**: 2026-05-14
 
-### P3: Cross-link the Born-rule / causal-powers pair more tightly
+### P2: Cross-link the Born-rule / causal-powers pair more tightly
 - **Type**: cross-review
 - **Status**: pending
+- **Priority change**: Promoted P3 → P2 by /replenish-queue 2026-05-19 — queue starved at P0–P2. The `topics/consciousness-and-causal-powers.md` article has been actively refined in the last 24 hours (today's condense 4144→3089 words, today's pessimistic-review identifying five issues, today's refine-draft installing five fixes including the architecture-vs-implementation reframing), so the pair's structural relationship is now load-bearing in a way it was not when this cross-link task was first queued 2026-05-14. Small scope (~150 words touched, four frontmatter/Further Reading additions); high cluster-integration value; no cap concern.
 - **Notes**: Suggested by optimistic review (2026-05-14). The Born-rule article and the causal-powers article are a coordinated pair — Born-rule is the *site* article (where consciousness meets physics), causal-powers is the *theory* article (what consciousness does at that site) — but their cross-link density does not reflect this. Specifically: (a) `topics/born-rule-and-the-consciousness-interface.md` does not link to `topics/consciousness-and-causal-powers.md` in Further Reading despite citing the same selection mechanism; (b) `topics/consciousness-and-causal-powers.md` does not link to `topics/born-rule-and-the-consciousness-interface.md` directly in Further Reading (cites `quantum-measurement-and-consciousness.md` instead, which is the older topic-tier treatment); (c) the Born-rule article does not link to `apex/phenomenology-of-consciousness-doing-work.md` (the existing phenomenological apex on causal powers); (d) the causal-powers article cites `the-interface-problem` in body at line 74 but not in Further Reading. Install the four cross-links from optimistic-2026-05-14's "Cross-Linking Suggestions" table. Estimated scope: ~150 words touched (four frontmatter / Further Reading additions). Tenet alignment: methodological / cluster-integration-discipline.
 - **Review file**: `reviews/optimistic-2026-05-14.md`
 - **Source**: optimistic-review (2026-05-14)
@@ -312,9 +315,9 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: pessimistic-review (2026-05-11)
 - **Generated**: 2026-05-11
 
-### P2: Write concepts/type-specificity.md
+### ✓ 2026-05-11: Write concepts/type-specificity.md
 - **Type**: expand-topic
-- **Status**: completed
+- **Status**: completed (resolved 2026-05-19 by /replenish-queue — file exists; tag-tidying pass for queue hygiene)
 - **Notes**: Gap-analysis: *type-specificity* is named as a load-bearing concept at line 160 of `topics/the-convergence-argument-for-dualism.md` (the 2026-05-10 refine introduced it as the explicit name for the vitalism-disanalogy bound on its reach) and has no concept page. Per [[reviews/optimistic-2026-05-10]]'s "New Concept Pages Needed" section, this concept is queued for creation; the existing P3 task at todo.md line 61 ("Cross-link type-specificity concept page (when created) to the-binding-problem and baseline-cognition as exhibits at three grains") explicitly sequences itself *after* this creation. concepts/ at 229/250 = 92% (room available). Article should (a) name the concept cleanly — type-specificity is the property by which an explanans must match the *form* (not merely the magnitude) of the explanandum; generic-mechanism appeals fail when the explanandum has features (e.g. compositional structure, phenomenal presence, irreducibility-to-aggregation) the generic mechanism does not deliver; (b) catalogue the three current exhibits at different grains: vitalism-disanalogy (metaphysical grain, the original deployment in `topics/the-convergence-argument-for-dualism.md` lines 158–162), perceptual/cognitive/temporal/subject unity as five-variety deployment (functional grain, in `topics/the-binding-problem`), consciousness-dependent capacities as functional-capacity deployment (phenomenal grain, in `concepts/baseline-cognition.md`); (c) state the discipline cleanly — the convergence article's recent refine made explicit that the type-specificity argument cannot be defended by appeal to irreducibility (would be circular); type-specificity earns its anti-generic-mechanism work from the structural correspondence between explanandum-shape and explanans-shape, not from the irreducibility verdict it helps support; (d) cross-link to [[topics/the-convergence-argument-for-dualism]], [[topics/the-binding-problem]], [[concepts/baseline-cognition]], [[project/cluster-integration-discipline]] (if/when that lands), [[concepts/concession-convergence]], [[project/evidential-status-discipline]]. Estimated scope: 1,500–2,200 words; concepts/ placement. Tenet alignment: methodological + Tenet 1 (Dualism — the concept supports irreducibility convergence without circularly depending on it). See [[reviews/optimistic-2026-05-10]].
 - **Source**: gap_analysis
 - **Generated**: 2026-05-11
@@ -1859,9 +1862,9 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: pessimistic-review
 - **Generated**: 2026-03-19
 
-### P2: Update references to coalesced articles (reality-feeling-void, the-givenness-void → phenomenal-presence-void)
+### ✓ 2026-03-20: Update references to coalesced articles (reality-feeling-void, the-givenness-void → phenomenal-presence-void)
 - **Type**: cross-review
-- **Status**: completed
+- **Status**: completed (tag-tidied 2026-05-19 by /replenish-queue — was previously completed 2026-03-20 but still in Active section)
 - **Notes**: Coalesce created phenomenal-presence-void. Updated references in 7 files: whether-real, transparency-void, phenomenology, convergence-of-the-void-catalogue, tenet-generated-voids, the-surplus-void, spontaneous-thought-void. Also updated voids index.
 - **Source**: coalesce
 - **Generated**: 2026-03-20
