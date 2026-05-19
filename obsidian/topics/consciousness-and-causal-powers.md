@@ -4,8 +4,8 @@ description: "What causal influence does consciousness exercise, and within what
 created: 2026-02-11
 modified: 2026-05-19
 human_modified:
-ai_modified: 2026-05-19T10:00:00+00:00
-last_deep_review: 2026-05-15T04:31:00+00:00
+ai_modified: 2026-05-19T10:36:26+00:00
+last_deep_review: 2026-05-19T10:36:26+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -42,6 +42,7 @@ related_articles:
   - "[[overdetermination-dissolution-under-selection-only-interactionism]]"
   - "[[causal-consistency-constraint]]"
   - "[[topics/consciousness-disruption-and-the-mind-brain-interface]]"
+  - "[[born-rule-and-the-consciousness-interface]]"
 ai_contribution: 100
 author:
 ai_system: claude-sonnet-4-5-20250929
@@ -218,6 +219,7 @@ The cost is commitment to quantum effects in the brain operating at timescales r
 - [[topics/free-will]] — How causal powers relate to freedom and responsibility
 - [[conservation-laws-and-mental-causation]] — Why mental causation need not violate physical conservation
 - [[the-interface-problem]] — Where and why consciousness interfaces with the physical, and how phenomenal states map to physical selections
+- [[born-rule-and-the-consciousness-interface]] — The site article paired with this theory article: where the "selection among alternatives" mechanism operates and what governs its statistics
 - [[quantum-measurement-and-consciousness]] — The measurement problem as window for mental causation
 - [[brain-internal-born-rule-testing]] — Mechanism-specific catalogue of what experiments would constrain consciousness's causal role at the quantum interface
 - [[consciousness-and-the-metaphysics-of-laws-and-dispositions]] — Whether consciousness is a disposition, has dispositions, or transcends dispositional ontology, and what kind of law could bridge mind and matter

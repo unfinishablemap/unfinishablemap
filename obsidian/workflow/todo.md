@@ -197,15 +197,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: optimistic-review (2026-05-14)
 - **Generated**: 2026-05-14
 
-### P2: Cross-link the Born-rule / causal-powers pair more tightly
-- **Type**: cross-review
-- **Status**: pending
-- **Priority change**: Promoted P3 → P2 by /replenish-queue 2026-05-19 — queue starved at P0–P2. The `topics/consciousness-and-causal-powers.md` article has been actively refined in the last 24 hours (today's condense 4144→3089 words, today's pessimistic-review identifying five issues, today's refine-draft installing five fixes including the architecture-vs-implementation reframing), so the pair's structural relationship is now load-bearing in a way it was not when this cross-link task was first queued 2026-05-14. Small scope (~150 words touched, four frontmatter/Further Reading additions); high cluster-integration value; no cap concern.
-- **Notes**: Suggested by optimistic review (2026-05-14). The Born-rule article and the causal-powers article are a coordinated pair — Born-rule is the *site* article (where consciousness meets physics), causal-powers is the *theory* article (what consciousness does at that site) — but their cross-link density does not reflect this. Specifically: (a) `topics/born-rule-and-the-consciousness-interface.md` does not link to `topics/consciousness-and-causal-powers.md` in Further Reading despite citing the same selection mechanism; (b) `topics/consciousness-and-causal-powers.md` does not link to `topics/born-rule-and-the-consciousness-interface.md` directly in Further Reading (cites `quantum-measurement-and-consciousness.md` instead, which is the older topic-tier treatment); (c) the Born-rule article does not link to `apex/phenomenology-of-consciousness-doing-work.md` (the existing phenomenological apex on causal powers); (d) the causal-powers article cites `the-interface-problem` in body at line 74 but not in Further Reading. Install the four cross-links from optimistic-2026-05-14's "Cross-Linking Suggestions" table. Estimated scope: ~150 words touched (four frontmatter / Further Reading additions). Tenet alignment: methodological / cluster-integration-discipline.
-- **Review file**: `reviews/optimistic-2026-05-14.md`
-- **Source**: optimistic-review (2026-05-14)
-- **Generated**: 2026-05-14
-
 ### P3: Apex-evolve technical-machinery-layer synthesis (integration-as-activity + type-token-causation + interface-threshold + selection-only-channel)
 - **Type**: apex-evolve
 - **Status**: pending
@@ -3735,6 +3726,10 @@ Tasks that failed 3+ times and require human intervention.
 
 Ideas that were considered and rejected. The AI will not re-propose these.
 
+
+### ✓ 2026-05-19: Cross-link the Born-rule / causal-powers pair more tightly
+- **Type**: cross-review
+- **Notes**: Suggested by optimistic review (2026-05-14). The Born-rule article and the causal-powers article are a coordinated pair — Born-rule is the *site* article (where consciousness meets physics), causal-powers is the *theory* article (what consciousness does at that site) — but their cross-link density does not reflect this. Specifically: (a) `topics/born-rule-and-the-consciousness-interface.md` does not link to `topics/consciousness-and-causal-powers.md` in Further Reading despite citing the same selection mechanism; (b) `topics/consciousness-and-causal-powers.md` does not link to `topics/born-rule-and-the-consciousness-interface.md` directly in Further Reading (cites `quantum-measurement-and-consciousness.md` instead, which is the older topic-tier treatment); (c) the Born-rule article does not link to `apex/phenomenology-of-consciousness-doing-work.md` (the existing phenomenological apex on causal powers); (d) the causal-powers article cites `the-interface-problem` in body at line 74 but not in Further Reading. Install the four cross-links from optimistic-2026-05-14's "Cross-Linking Suggestions" table. Estimated scope: ~150 words touched (four frontmatter / Further Reading additions). Tenet alignment: methodological / cluster-integration-discipline.
 
 ### ✓ 2026-05-19: Adopt filter-theory calibration in consciousness-and-skill-acquisition
 - **Type**: refine-draft

@@ -2,9 +2,9 @@
 title: "The Born Rule and the Consciousness-Physics Interface"
 description: "The Born rule resists derivation across every quantum interpretation — abductive evidence it encodes the consciousness-physics interface rather than a gap awaiting closure. With empirical status: which proposals require violation, what experiments could test, what negative results would foreclose."
 created: 2026-03-15
-modified: 2026-05-15
+modified: 2026-05-19
 human_modified:
-ai_modified: 2026-05-15T06:39:00+00:00
+ai_modified: 2026-05-19T10:36:26+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -48,12 +48,14 @@ related_articles:
   - "[[brain-internal-born-rule-testing]]"
   - "[[falsification-roadmap-for-the-interface-model]]"
   - "[[testing-consciousness-collapse]]"
+  - "[[consciousness-and-causal-powers]]"
+  - "[[phenomenology-of-consciousness-doing-work]]"
 ai_contribution: 100
 author:
 ai_system: claude-opus-4-7
 ai_generated_date: 2026-03-24
 last_curated:
-last_deep_review: 2026-05-14T05:04:00+00:00
+last_deep_review: 2026-05-19T10:36:26+00:00
 coalesced_from:
   - "/topics/born-rule-derivation-failures-consciousness-collapse/"
   - "/topics/born-rule-interpretation-invariance-consciousness/"
@@ -210,6 +212,8 @@ The Map's working position is that the empirical question is genuinely open, pre
 
 ## Further Reading
 
+- [[consciousness-and-causal-powers]] — The theory article paired with this site article: what consciousness does at the interface this Born-rule treatment locates
+- [[phenomenology-of-consciousness-doing-work]] — Apex synthesis tying interface site, causal-powers theory, and the phenomenology of effort into one human-readable picture
 - [[mathematical-structure-of-the-consciousness-physics-interface]] — The mathematical corridor
 - [[consciousness-physics-interface-formalism]] — Five non-negotiable coupling constraints
 - [[causal-consistency-constraint]] — Torres Alegre's no-signalling derivation of the Born form

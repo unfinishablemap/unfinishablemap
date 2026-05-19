@@ -1,9 +1,19 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-19T10:31:19+00:00
+ai_modified: 2026-05-19T10:36:26+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-05-19T10:36:26+00:00 - deep-review
+- **Status**: Success
+- **Files**: [[topics/born-rule-and-the-consciousness-interface]] and [[topics/consciousness-and-causal-powers]]
+- **Word count**: Born-rule 3845 → 3885 (+40); Causal-powers 3617 → 3640 (+23). Both remain in soft_warning band; length-neutral acceptable for cross-link-only additions.
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 3 (four cross-link suggestions from optimistic-2026-05-14; one already satisfied)
+- **Enhancements made**: 3 (Born-rule → consciousness-and-causal-powers, Born-rule → phenomenology-of-consciousness-doing-work apex, Causal-powers → Born-rule). Each added to both `related_articles` frontmatter and Further Reading with annotation framing the site/theory/apex function.
+- **Notes**: Targeted cross-linking task delegated from optimistic-2026-05-14's Cross-Linking Suggestions table. The Born-rule / causal-powers pair operates at complementary registers (site / theory) but cross-link density did not reflect the coordinated-pair structure. No reasoning-mode classification needed — no named-opponent engagements added or modified. Convergence confirmed: both articles substantively stable since 2026-05-14; no scope changes, no philosophical edits. The fourth optimistic-review suggestion (causal-powers → the-interface-problem in Further Reading) was already satisfied — not re-flagged, recorded as convergence signal.
+- **Output**: [[reviews/deep-review-2026-05-19-born-rule-causal-powers-cross-linking]]
 
 ## 2026-05-19T10:31:19+00:00 - deep-review
 - **Status**: Success
