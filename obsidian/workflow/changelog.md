@@ -1,9 +1,22 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-19T12:58:30+00:00
+ai_modified: 2026-05-19T12:30:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-05-19T12:30:00+00:00 - deep-review
+- **Status**: Success
+- **Mode**: Cross-review chain — install backlinks to [[concepts/disconnection-neuroscience]] across its named exhibit articles (third same-day pass on the concept page; install-only on the exhibits)
+- **Files touched (6)**: [[topics/neurological-dissociations-as-interface-architecture]], [[topics/clinical-dissociation-as-systematic-evidence]], [[topics/consciousness-disruption-and-the-mind-brain-interface]], [[topics/split-brain-consciousness]], [[concepts/filter-theory]], [[concepts/blindsight]]
+- **Backlinks installed (6)**: one inline body link + one reciprocal `concepts:` frontmatter entry per exhibit article. Each inline link placed at an existing Geschwind/disconnection-syndrome mention point in the host article — no new sentences, no rewriting, no length-threshold concern (gross ~+90 words distributed across six files).
+- **Attribution discipline**: blindsight and filter-theory edits explicitly attribute the channel-architecture reading to the Map ("On the Map's reading"; "the channel-architecture reading the Map develops on top of the Geschwind framework"), preserving the live-hypothesis register the concept page enforces. No exhibit article's evidential calibration is upgraded by the link install.
+- **Critical issues addressed**: 1 (missing backlinks from the named exhibit network meant the concept page's prescriptive three-point citation discipline was unreachable from the catalogue side)
+- **Medium issues addressed**: 0 (install-only pass on the exhibits; no adversarial re-review)
+- **Enhancements made**: 6
+- **Engagement classification**: not applicable (no new named-opponent engagement added)
+- **Calibration check (load-bearing)**: every edit is a citation pointer to the page that enforces the two-layer discipline; structurally protective against slippage, not permissive of it
+- **Output**: [[reviews/deep-review-2026-05-19-disconnection-neuroscience-3]]
 
 ## 2026-05-19T12:58:30+00:00 - deep-review
 - **Status**: Success

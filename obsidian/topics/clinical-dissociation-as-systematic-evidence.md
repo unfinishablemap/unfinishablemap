@@ -4,7 +4,7 @@ description: "Dissociative disorders—DID, depersonalization, conversion, amnes
 created: 2026-03-17
 modified: 2026-03-17
 human_modified:
-ai_modified: 2026-04-17T13:11:00+00:00
+ai_modified: 2026-05-19T12:30:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -17,6 +17,7 @@ concepts:
   - "[[altered-states-of-consciousness]]"
   - "[[global-workspace-theory]]"
   - "[[integrated-information-theory]]"
+  - "[[disconnection-neuroscience]]"
 related_articles:
   - "[[tenets]]"
   - "[[neurological-dissociations-as-interface-architecture]]"
@@ -35,7 +36,7 @@ last_curated:
 last_deep_review: 2026-04-17T11:27:00+00:00
 ---
 
-The Unfinishable Map's [[neurological-dissociations-as-interface-architecture|neurological dissociation work]] maps the mind-brain interface by examining what happens when specific neural pathways are destroyed. Clinical dissociation offers something different and arguably more revealing: selective disconnections that arise without structural brain damage. In dissociative identity disorder, depersonalization-derealization disorder, dissociative amnesia, and conversion disorder, the neural substrate remains anatomically intact while specific aspects of experience go offline. Neuroimaging reveals altered functional connectivity in these conditions—but the alterations are selective disconnections between intact processing regions, not degradation of the regions themselves. Modern physicalism (functionalism, global workspace theory, IIT) can accommodate this by treating consciousness as dependent on connectivity patterns rather than raw neural activity. But this concession is itself revealing: it means consciousness tracks a specific *relationship* between processing systems—which is precisely what an interface model describes. Clinical dissociation tests whether that relationship behaves like a higher-order physical property or like a functional bridge between domains.
+The Unfinishable Map's [[neurological-dissociations-as-interface-architecture|neurological dissociation work]] — itself an interface-architecture reading built on the Geschwind [[disconnection-neuroscience|disconnection-syndrome framework]] — maps the mind-brain interface by examining what happens when specific neural pathways are destroyed. Clinical dissociation offers something different and arguably more revealing: selective disconnections that arise without structural brain damage. In dissociative identity disorder, depersonalization-derealization disorder, dissociative amnesia, and conversion disorder, the neural substrate remains anatomically intact while specific aspects of experience go offline. Neuroimaging reveals altered functional connectivity in these conditions—but the alterations are selective disconnections between intact processing regions, not degradation of the regions themselves. Modern physicalism (functionalism, global workspace theory, IIT) can accommodate this by treating consciousness as dependent on connectivity patterns rather than raw neural activity. But this concession is itself revealing: it means consciousness tracks a specific *relationship* between processing systems—which is precisely what an interface model describes. Clinical dissociation tests whether that relationship behaves like a higher-order physical property or like a functional bridge between domains.
 
 ## The Dissociative Spectrum
 

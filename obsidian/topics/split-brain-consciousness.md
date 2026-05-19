@@ -4,7 +4,7 @@ description: "Split-brain surgery, anaesthesia, and dissociation each fracture c
 created: 2026-01-14
 modified: 2026-04-17
 human_modified: null
-ai_modified: 2026-05-05T15:25:16.877598+00:00
+ai_modified: 2026-05-19T12:30:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -27,6 +27,7 @@ concepts:
   - "[[integrated-information-theory]]"
   - "[[altered-states-of-consciousness]]"
   - "[[consciousness]]"
+  - "[[disconnection-neuroscience]]"
 related_articles:
   - "[[tenets]]"
   - "[[split-brain-consciousness-unity-2026-01-14]]"
@@ -60,7 +61,7 @@ Consciousness can apparently break apart. Split-brain surgery, general anaesthes
 
 ## The Classic Split-Brain Experiments
 
-In the 1960s, Roger Sperry and Michael Gazzaniga conducted experiments on patients who had undergone corpus callosotomy to treat severe epilepsy. Their findings seemed dramatic:
+In the 1960s, Roger Sperry and Michael Gazzaniga conducted experiments on patients who had undergone corpus callosotomy to treat severe epilepsy — the largest-scale [[disconnection-neuroscience|disconnection syndrome]] in the Geschwind tradition, with the entire interhemispheric tract severed rather than a single regional connection. Their findings seemed dramatic:
 
 - Objects shown to the right visual field (processed by the left hemisphere) could be verbally identified
 - Objects shown to the left visual field (processed by the right hemisphere) could not be named — but patients could select matching objects with their left hand

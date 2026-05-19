@@ -4,7 +4,7 @@ description: "Blindsight, anosognosia, alien hand syndrome, and other dissociati
 created: 2026-03-10
 modified: 2026-03-10
 human_modified:
-ai_modified: 2026-05-19T11:04:33+00:00
+ai_modified: 2026-05-19T12:30:00+00:00
 last_deep_review: 2026-04-17T15:13:00+00:00
 draft: false
 topics:
@@ -19,6 +19,7 @@ concepts:
   - "[[phenomenal-consciousness]]"
   - "[[concepts/consciousness-selecting-neural-patterns]]"
   - "[[unity-of-consciousness]]"
+  - "[[disconnection-neuroscience]]"
 related_articles:
   - "[[tenets]]"
   - "[[split-brain-consciousness]]"
@@ -54,7 +55,7 @@ This matters for the Map's framework. If consciousness were identical to neural 
 
 ## The Dissociation Logic
 
-Neurological dissociations follow a pattern that Geschwind (1965) systematised as *disconnection syndromes*: when a complex system breaks, the specific way it breaks reveals its internal structure. A radio that loses sound but keeps its display tells you the audio and visual circuits are separate. The brain's dissociations work the same way—except that one side of the interface, consciousness, is not directly observable from outside.
+Neurological dissociations follow a pattern that Geschwind (1965) systematised as [[disconnection-neuroscience|*disconnection syndromes*]]: when a complex system breaks, the specific way it breaks reveals its internal structure. A radio that loses sound but keeps its display tells you the audio and visual circuits are separate. The brain's dissociations work the same way—except that one side of the interface, consciousness, is not directly observable from outside.
 
 The key dissociations organise into four interface channels:
 
