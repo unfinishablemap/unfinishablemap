@@ -1,9 +1,19 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-19T11:04:33+00:00
+ai_modified: 2026-05-19T11:13:43+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-05-19T11:13:43+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[topics/consciousness-and-skill-acquisition]]
+- **Original score**: not re-scored (targeted fix following [[reviews/pessimistic-2026-05-19b]] Issue 2 + Counterarguments to Address)
+- **Changes**: Extended the 2026-05-19 anchoring-audit's underdetermination discipline from the single identity-theory rival to three additional rival positions. (a) Predictive-processing marker installed at the close of §"Flow" — names PP as a third reading making the same prediction about flow phenomenology and the corticostriatal correlates, observationally equivalent for the cited cases. (b) MWI parenthetical installed at §"Relation to Site Perspective" §"Minimal Quantum Interaction" — inherits the pattern from the companion `consciousness-and-causal-powers.md` (line 63 there), acknowledges that the rejection is loaded at Tenet 4 and does load-bearing work, and inherits the decoherence-gap acknowledgement for the Zeno-mechanism invocation. (c) Eliminativism marker installed at the close of §"What Skilled Performance Reveals About Consciousness" — names eliminativism as a stronger physicalist position than epiphenomenalism, marks the disagreement as framework-boundary (Tenet 1 commitment) rather than in-framework refutation. Two residual strong-assertion verbs softened: "demonstrably creates" (line 86) → "evidently creates"; "Each direction of influence is separately demonstrable" (line 150) → "separately supported". The article's affirmative argument is preserved; what changes is that three further rivals are now named with the same underdetermination discipline that the audit installed for identity theory.
+- **Engagement classification (editor-internal, not in article body)**: engagement with the predictive-processing rival — Mode Three (framework-boundary disagreement, observational equivalence noted without claim to refute PP inside PP's framework); engagement with MWI — Mode Three (rejection loaded at tenet level, cost-accounting acknowledged); engagement with eliminativism — Mode Three (Map's Tenet 1 commitment is the disagreement-point, explicitly noted as not an in-framework refutation).
+- **Source**: [[reviews/pessimistic-2026-05-19b]] Issue 2 (Medium severity; one rival named with calibration, three rivals were not) + Counterarguments to Address §"Predictive processing as the third reading flow phenomenology fits" §"The eliminativist denies the category, not just the causal role" §"MWI absorbs flow phenomenology without selection". Specific phrasings landed largely as the review suggested; minor smoothing for prose flow.
+- **Not addressed in this pass**: Issue 3 (four-fold convergence treated as four-fold evidential weight), Issue 4 (falsification conditions unequal in force), Issue 5 (literature drift in 1993–2007 citations) — these remain on the queue as separate tasks.
+- **Published**: yes
 
 ## 2026-05-19T11:04:33+00:00 - refine-draft
 - **Status**: Success

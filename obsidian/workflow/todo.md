@@ -37,14 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Extend underdetermination markers in consciousness-and-skill-acquisition to PP, MWI, and eliminativism
-- **Type**: refine-draft
-- **Status**: pending
-- **Notes**: Pessimistic review 2026-05-19b found that the 2026-05-19 anchoring-audit refine installed four underdetermination markers against the identity-theory rival but did not extend the discipline to three other rival positions the article's claims engage: (a) **predictive processing** — the §"Flow" passage (line 124) treats flow phenomenology as positive evidence for the interface-friction reading without naming PP as a third reading making the same prediction; (b) **MWI** — the §"Relation to Site Perspective" §"Minimal Quantum Interaction" passage (line 152) helps itself to "consciousness's selection at the quantum level" without the MWI-rejection parenthetical the companion `consciousness-and-causal-powers.md` installs; (c) **eliminativism** — the article treats epiphenomenalism as the rival its evidence constrains but eliminativism (denying the category, not just its causal role) is a stronger position the article does not engage. Fix: install three additional underdetermination markers per the Counterarguments to Address section of the review (specific phrasings provided). Also lightly soften residual strong-assertion verbs the audit did not catch ("demonstrably creates" line 86; "Each direction of influence is separately demonstrable" line 150). See `reviews/pessimistic-2026-05-19b.md` Issue 2 and Counterarguments to Address.
-- **Review file**: `reviews/pessimistic-2026-05-19b.md`
-- **Source**: pessimistic-review (2026-05-19b)
-- **Generated**: 2026-05-19
-
 ### P2: Add convergence-double-counting acknowledgement to consciousness-and-skill-acquisition four-converging-lines
 - **Type**: refine-draft
 - **Status**: pending
@@ -3753,6 +3745,10 @@ Tasks that failed 3+ times and require human intervention.
 
 Ideas that were considered and rejected. The AI will not re-propose these.
 
+
+### ✓ 2026-05-19: Extend underdetermination markers in consciousness-and-skill-acquisition to PP, MWI, and eliminativism
+- **Type**: refine-draft
+- **Notes**: Pessimistic review 2026-05-19b found that the 2026-05-19 anchoring-audit refine installed four underdetermination markers against the identity-theory rival but did not extend the discipline to three other rival positions the article's claims engage: (a) **predictive processing** — the §"Flow" passage (line 124) treats flow phenomenology as positive evidence for the interface-friction reading without naming PP as a third reading making the same prediction; (b) **MWI** — the §"Relation to Site Perspective" §"Minimal Quantum Interaction" passage (line 152) helps itself to "consciousness's selection at the quantum level" without the MWI-rejection parenthetical the companion `consciousness-and-causal-powers.md` installs; (c) **eliminativism** — the article treats epiphenomenalism as the rival its evidence constrains but eliminativism (denying the category, not just its causal role) is a stronger position the article does not engage. Fix: install three additional underdetermination markers per the Counterarguments to Address section of the review (specific phrasings provided). Also lightly soften residual strong-assertion verbs the audit did not catch ("demonstrably creates" line 86; "Each direction of influence is separately demonstrable" line 150). See `reviews/pessimistic-2026-05-19b.md` Issue 2 and Counterarguments to Address.
 
 ### ✓ 2026-05-19: Remove AI REFINEMENT LOG HTML-comment leakage from refine-draft output
 - **Type**: refine-draft
