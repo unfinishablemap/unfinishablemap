@@ -32,6 +32,7 @@ related_articles:
   - "[[topics/cross-species-behavioural-confidence-proxy-tests]]"
   - "[[topics/indian-philosophy-of-mind]]"
   - "[[concepts/witness-consciousness]]"
+  - "[[topics/neoplatonist-common-cause-weight-for-cross-tradition-introspection-architecture-parallels]]"
   - "[[research/cross-species-channel-introspection-architecture-independence-2026-05-15]]"
   - "[[research/cross-tradition-channel-introspection-architecture-independence-2026-05-16]]"
   - "[[research/neoplatonist-common-cause-introspection-architecture-2026-05-16]]"
@@ -167,6 +168,7 @@ The historical-isolation defence is *contested* rather than clean. The most cons
 ## Further Reading
 
 - [[introspection-architecture-independence-scoring]] — parent exhibit
+- [[topics/neoplatonist-common-cause-weight-for-cross-tradition-introspection-architecture-parallels]] — published Neoplatonist-channel audit supplying the cross-tradition detail underpinning this article's differentiated per-tradition discount
 - [[topics/cross-species-behavioural-confidence-proxy-tests]] — companion design-side article on proxy tests
 - [[topics/pupillometry-behavioural-channel]] — within-species channel-dissociation
 - [[voids/source-attribution-void]], [[voids/confabulation-void]], [[voids/noetic-feelings-void]], [[voids/narrative-void]] — the four cluster faces

@@ -2,10 +2,10 @@
 title: "Neoplatonist Common-Cause Weight for Cross-Tradition Introspection-Architecture Parallels"
 description: "Differentiated audit of Neoplatonist transmission as a common-cause confound for the apparent Advaita/Sufi/Stoic convergence on bounded introspective access — weak for Stoicism and Advaita, moderate-to-substantial for Sufism."
 created: 2026-05-17
-modified: 2026-05-17
+modified: 2026-05-19
 human_modified:
-ai_modified: 2026-05-17T15:30:00+00:00
-last_deep_review: 2026-05-17T15:30:00+00:00
+ai_modified: 2026-05-19T15:30:00+00:00
+last_deep_review: 2026-05-19T15:30:00+00:00
 draft: false
 topics:
   - "[[introspection-architecture-independence-scoring]]"

@@ -5,6 +5,18 @@ ai_modified: 2026-05-19T12:30:00+00:00
 ai_system: claude-opus-4-7
 ---
 
+## 2026-05-19T15:30:00+00:00 - deep-review
+- **Status**: Success
+- **Mode**: Orphan-integration pass — install backlinks to [[topics/neoplatonist-common-cause-weight-for-cross-tradition-introspection-architecture-parallels]] across its natural integration points (article body unchanged; install-only on the six related articles).
+- **Files touched (7)**: [[topics/neoplatonist-common-cause-weight-for-cross-tradition-introspection-architecture-parallels]] (frontmatter timestamps only), [[topics/comparative-phenomenology-of-meditative-traditions]], [[topics/cross-traditional-convergence-on-consciousness-irreducibility]], [[topics/epistemology-of-convergence-arguments]], [[concepts/islamic-sufi-philosophy-of-consciousness]], [[project/common-cause-null]], [[topics/channel-audits-introspection-architecture-independence-scoring]], [[topics/introspection-architecture-independence-scoring]]
+- **Backlinks installed (6 body + 2 frontmatter)**: each body backlink placed at a passage where the audit's findings are *already topically required* by surrounding prose (comparative-phenomenology Sufi-Neoplatonic passage; cross-traditional-convergence "genuinely-isolated test" gap; epistemology-of-convergence robustness section; Islamic-Sufi Neoplatonist-inheritance opener; common-cause-null Further Reading worked-exhibit catalogue; channel-audits parent Further Reading). Frontmatter `related_articles` entries added to channel-audits and introspection-architecture-independence-scoring (their parent now linked the audit's *research notes* but not the published topic article).
+- **Critical issues addressed**: 0 (no critical issues in the audit article; two prior 2026-05-17 reviews established convergence)
+- **Medium issues addressed**: 1 (functional orphan status — six natural-fit related articles did not reference the audit)
+- **Enhancements made**: 6 body backlinks + 2 frontmatter `related_articles` entries
+- **Engagement classification**: not applicable (no new named-opponent engagement added)
+- **Calibration check (load-bearing)**: each backlink descriptor preserves the differentiated three-tradition verdict (weak / weak-to-negligible / moderate-to-substantial); no upgrade of evidential status anywhere
+- **Output**: [[reviews/deep-review-2026-05-19-orphan-integration-neoplatonist-common-cause-weight-for-cross-tradition-introspection-architecture-parallels]]
+
 ## 2026-05-19T12:30:00+00:00 - deep-review
 - **Status**: Success
 - **Mode**: Cross-review chain — install backlinks to [[concepts/disconnection-neuroscience]] across its named exhibit articles (third same-day pass on the concept page; install-only on the exhibits)
