@@ -4,7 +4,7 @@ description: "What causal influence does consciousness exercise, and within what
 created: 2026-02-11
 modified: 2026-05-19
 human_modified:
-ai_modified: 2026-05-19T08:15:00+00:00
+ai_modified: 2026-05-19T10:00:00+00:00
 last_deep_review: 2026-05-15T04:31:00+00:00
 draft: false
 topics:
@@ -57,9 +57,9 @@ Different answers lead to radically different worldviews. If consciousness has n
 
 When we say consciousness has "causal powers," what might this mean?
 
-**Direct physical force**: Consciousness could push particles around, inject energy, exert forces. This is the view behind classical psychokinesis, ruled out by the Map's [[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]] tenet. No empirical evidence supports it, and it would violate conservation laws.
+**Direct physical force**: Consciousness could push particles around, inject energy, exert forces. This is the view behind classical psychokinesis, ruled out by the Map's [[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]] tenet. No replicable empirical evidence supports it; the parapsychology literature's positive findings have not survived methodological scrutiny, and the move would violate conservation laws.
 
-**Selection among alternatives**: Consciousness could choose among physically permissible outcomes where the laws of nature leave the result undetermined. This is the Map's position. Physics specifies probabilities; consciousness biases which probability actualizes—no energy added, no force exerted. The [[metaphysics-of-information-under-dualism|metaphysics of information under dualism]] frames this as syntactic constraints from physics, semantic selection from consciousness. (The framing presupposes a non-Everettian interpretation: under Many-Worlds, all outcomes actualise and there is nothing to select. The Map rejects MWI at the tenet level — see [[tenets#^no-many-worlds|Tenet 4]] — and the rejection does load-bearing work here.)
+**Selection among alternatives**: Consciousness could be the locus of choice among physically permissible outcomes where the laws of nature leave the result undetermined. This is the Map's position. Physics specifies probabilities; phenomenal selection biases which probability actualizes—no energy added, no force exerted. The [[metaphysics-of-information-under-dualism|metaphysics of information under dualism]] frames this as syntactic constraints from physics, semantic selection from consciousness. (The framing presupposes a non-Everettian interpretation: under Many-Worlds, all outcomes actualise and there is nothing to select. The Map rejects MWI at the tenet level — see [[tenets#^no-many-worlds|Tenet 4]] — and the rejection itself carries epistemic cost; the Map's framework absorbs this cost rather than dissolving it, and the §"Ontological restraint" virtue below should be read against that ledger entry, not as if MWI rejection were free. See [[tenets]] commentary on Tenet 4 for the cost accounting.)
 
 **Pattern amplification**: Consciousness could sustain neural patterns through repeated "observation" in the quantum sense. The [[stapp-quantum-mind|quantum Zeno effect]] suggests attention holds neural states in superposition longer than they would naturally persist. The causal power posited is one of holding rather than pushing. Seven distinct [[amplification-mechanisms-consciousness-physics|amplification mechanisms]] have been proposed for how quantum-level influence scales to macroscopic neural effects.
 
@@ -93,7 +93,9 @@ This preserves [[conservation-laws-and-mental-causation|conservation laws]]. Whe
 
 Given these constraints, what causal work would consciousness perform under the Map's framework?
 
-The four mechanisms below describe how the Map's interactionist framework hypothesises consciousness's causal role. They are not empirical findings: as §"Absence of Direct Evidence" acknowledges, we lack direct evidence that consciousness biases quantum outcomes in brains. Rival accounts (predictive processing, identity theories) predict the same phenomenology by different mechanisms. The case for the Map's reading rests on framework coherence and phenomenological fit, not direct evidence of any specific mechanism. Readers should treat the affirmative-voice exposition as the Map's hypothesised causal architecture, with evidence-grade laid out in §"The Evidential Question."
+The Map's commitment structure is layered. Phenomenal Biasing is the *architecture-level* claim: consciousness exercises causal influence by being phenomenally laden, with felt qualities (valence, value, salience) entering the causal story in a way sub-personal computational role does not exhaust. The other three headings below — Selection of Action, Sustained Attention, Volitional Modulation — describe *candidate implementation-level mechanisms* through which the architecture might be realised in neural systems. The framework commits to the architecture; it does not commit to any one implementation candidate, and the candidates need not all be operative jointly. This matters for evaluating quantitative objections: the twelve-to-sixteen-orders-of-magnitude decoherence gap discussed under Sustained Attention is a constraint on the Zeno *candidate*, not on the framework's architecture-level claim. Where the gap is unresolvable, an alternative implementation candidate would need to carry the explanatory load, but the architecture itself does not stand or fall on any single mechanism.
+
+These hypothesised mechanisms are not empirical findings: as §"Absence of Direct Evidence" acknowledges, we lack direct evidence that conscious processes bias quantum outcomes in brains. Rival accounts (predictive processing, identity theories) predict the same phenomenology by different mechanisms. The case for the Map's reading rests on framework coherence and phenomenological fit, not direct evidence of any specific implementation. Readers should treat the affirmative-voice exposition as the Map's hypothesised causal architecture, with evidence-grade laid out in §"The Evidential Question."
 
 ### Selection of Action
 
@@ -119,9 +121,9 @@ This requires [[psychophysical-laws]] specifying how phenomenal character maps t
 
 ### Volitional Modulation
 
-The [[volitional-control|phenomenology of volitional control]]—including conscious veto and the "whether" component of intentional action (Brass & Haggard 2007)—offers first-person evidence consistent with consciousness modulating its own causal engagement. On the Map's reading, consciousness varies the strength of its causal influence—what we experience as "trying harder" or "letting go." This would account for the [[phenomenology-of-intellectual-life|phenomenology of effort]].
+The [[volitional-control|phenomenology of volitional control]]—including conscious veto and the "whether" component of intentional action (Brass & Haggard 2007)—offers first-person evidence consistent with variable causal engagement at the phenomenal-physical interface. On the Map's reading, the phenomenology of variable effort is evidence for variable causal engagement; the rival reading takes it as evidence for variable noradrenergic gain. The two readings are observationally indistinguishable at the phenomenology — this is one of the live underdeterminations the §"Absence of Direct Evidence" sub-section flags. The residual claim the Map holds onto is that the *phenomenally laden* component of effort is not paraphrasable as locus-coeruleus modulation of cortical signal-to-noise without remainder, because the latter description omits the felt valence that the Phenomenal Biasing architecture treats as causally relevant.
 
-Resisting a strong impulse feels effortful in a way going along with it does not. These phenomenological differences are compatible with consciousness varying its causal engagement—the intensity of felt effort tracking the strength of causal influence. The correspondence is hypothesised rather than measured; rival accounts in which felt effort is a sub-personal cost-tracking signal predict the same phenomenology. The mechanism is speculative: perhaps sustained attention increases the frequency of quantum measurements, strengthening the Zeno effect; perhaps phenomenal intensity correlates with the magnitude of probability shifts. The Map does not commit to a specific mechanism but notes that phenomenology suggests variable causal intensity, not binary on/off.
+Resisting a strong impulse feels effortful in a way going along with it does not. These phenomenological differences are compatible with variable causal engagement — the intensity of felt effort tracking the magnitude of phenomenal contribution to the selection. As with the other implementation candidates, the underlying mechanism is unspecified at the framework level: under a Zeno-style candidate, sustained attention might increase the frequency of quantum measurements; under alternative candidates, phenomenal intensity might correlate with the magnitude of probability shifts by other routes. The framework registers the phenomenology of graded effort as evidence for variable rather than binary engagement, without commitment to which specific physical implementation realises it.
 
 ## What Consciousness Does Not Do
 
@@ -165,7 +167,7 @@ What evidence could support or refute claims about consciousness's causal powers
 
 ### Introspective Evidence
 
-We seem to experience our conscious states influencing our actions. When you decide to raise your arm and it rises, the decision feels causally relevant. Introspection is fallible—[[concepts/epiphenomenalism]] argues that this feeling is illusory—but it provides prima facie evidence that consciousness does something.
+We seem to experience our conscious states influencing our actions. When you decide to raise your arm and it rises, the decision feels causally relevant. The evidential weight of this is limited and the limits matter. Introspective causal attributions are subject to systematic distortion: Nisbett and Wilson (1977) documented that subjects confidently confabulate causal narratives for behaviour they did not consciously initiate, and Wegner (2002) extended this to show that the *feeling* of conscious will dissociates from actual causal involvement under controlled conditions. The Map's reading does not require introspective causal claims to be reliable token by token — only that the global pattern of phenomenally laden action is not exhaustively explained by sub-personal confabulation, which is a weaker and more defensible empirical commitment. With this calibration in place, the *prima facie* phenomenology that conscious processes do causal work survives as suggestive but unweighty evidence; the load-bearing evidence sits elsewhere (evolutionary, comparative, clinical).
 
 ### Evolutionary Evidence
 
@@ -191,15 +193,15 @@ The Map's [[tenets#^bidirectional-interaction|Bidirectional Interaction]] tenet 
 
 This framework has several virtues:
 
-**Ontological restraint**: It grants consciousness causal efficacy without multiplying unexplained powers. One mechanism (quantum selection) suffices for all forms of mental causation the Map requires.
+**Ontological restraint**: It grants consciousness causal efficacy without multiplying unexplained powers. One *kind* of mechanism — quantum selection at the phenomenal-physical interface — suffices for the forms of mental causation the Map requires, without committing to a single specific implementation candidate.
 
-**Empirical compatibility**: The framework makes no predictions inconsistent with current physics or neuroscience. Quantum effects in neural microtubules are controversial (see [[quantum-biology-and-neural-mechanisms|quantum neural mechanisms]]), but the hypothesis is not empirically ruled out.
+**Empirical compatibility**: The framework's architecture is permitted by current physics; specific candidate mechanisms face quantitative constraints the framework has not yet resolved. The Zeno proposal, in particular, requires either protected microenvironments extending neural coherence by twelve to sixteen orders of magnitude beyond standard decoherence calculations (the contested Penrose-Hameroff microtubule conjecture; see [[quantum-biology-and-neural-mechanisms|quantum neural mechanisms]]) or an alternative quantum mechanism not yet specified. The framework's *architecture* is not empirically ruled out, but it is not yet free of quantitative debts the implementation candidates owe.
 
 **Explanatory power**: The framework explains the phenomenology of effort, the limits of voluntary control, the correlation between attention and neural persistence, and the evolutionary value of consciousness—all from a single causal mechanism.
 
 **Philosophical coherence**: By locating mental causation at genuine physical indeterminacies, the Map aims to avoid both epiphenomenalism and overdetermination. Kim's exclusion objection assumes that physical causes are *sufficient* for every physical effect; if so, an additional mental cause must either duplicate that work (overdetermination) or do nothing (epiphenomenalism). Selection-only interactionism denies the sufficiency premise locally at quantum indeterminacies: physics specifies the candidate set and Born-rule probabilities, but does not specify which candidate actualises. The physical contribution is *necessary but not sufficient*; mind's contribution is realisation of one candidate. Overdetermination requires causal redundancy, and a non-sufficient-physical-cause plus mind-side-selection architecture has no redundancy to give. See [[overdetermination-dissolution-under-selection-only-interactionism]] for the full structural argument.
 
-The dissolution has a price. The [[causal-consistency-constraint|causal-consistency constraint]] (Torres Alegre 2025) requires that mental selection preserve Born statistics at the ensemble level: any selection scheme respecting no-signalling must be statistically indistinguishable from the unbiased Born distribution per event. Consciousness's bias, on the strictest reading of [[tenets#^minimal-quantum-interaction|Tenet 2]], leaves no per-trial empirical signature. The honest characterisation: framework-coherence-supported, operationally underdetermined. The dissolution buys ontological coherence at the price of vanishing per-trial measurable bias (bounded by approximately $\varepsilon^2 / (2 \ln 2)$ bits per trial for fractional deviation $\varepsilon$).
+The dissolution has a price. The [[causal-consistency-constraint|causal-consistency constraint]] (Torres Alegre 2025) requires that mental selection preserve Born statistics at the ensemble level: any selection scheme respecting no-signalling must be statistically indistinguishable from the unbiased Born distribution per event. The Map's hypothesised bias, on the strictest reading of [[tenets#^minimal-quantum-interaction|Tenet 2]], leaves no per-trial empirical signature (bounded by approximately $\varepsilon^2 / (2 \ln 2)$ bits per trial for fractional deviation $\varepsilon$). The structural fact is harsher than "small bias hard to measure": at the per-trial level the framework is undiscriminable from the unbiased Born distribution by construction. The honest characterisation: framework-coherence-supported, per-trial operationally undiscriminable. Discrimination is not foreclosed at every level; ensemble- and correlation-level tests remain available, and [[brain-internal-born-rule-testing]] catalogues which families survive the per-trial constraint — sequential-dependency tests on neural-Born sequences, intention-versus-spontaneity contrasts at decision points, and Bell-inequality-style tests on phenomenally correlated quantum events are the candidates that discriminate at the ensemble level without violating the per-trial bound. A reader who walks away thinking only "the bias is small" has missed the framework's actual epistemic standing.
 
 The cost is commitment to quantum effects in the brain operating at timescales relevant to neural processing—a hypothesis that remains speculative. The Map accepts this cost as the price of coherent [[interactionist-dualism|interactionist dualism]].
 
@@ -223,4 +225,30 @@ The cost is commitment to quantum effects in the brain operating at timescales r
 - [[the-epiphenomenalist-threat]] — Why most frameworks converge on causal impotence without a specific mechanism
 - [[volitional-control]] — First-person evidence for the causal powers framework: veto, agency, and the Libet dissolution
 - [[metaphysics-of-information-under-dualism]] — The syntax-semantics divide in causal selection: syntactic physics, semantic consciousness
+
+<!-- AI REFINEMENT LOG - 2026-05-19
+Changes made (addressing reviews/pessimistic-2026-05-19.md):
+
+- Issue 1 (High): Reframed §"What the Map Hypothesises" preamble to specify commitment structure — Phenomenal Biasing as architecture-level claim, Selection of Action / Sustained Attention / Volitional Modulation as candidate implementation-level mechanisms the framework does not commit to individually. This substantially reduces exposure to the Tegmark-style decoherence objection: quantitative gaps constrain implementation candidates, not the architecture.
+
+- Issue 2 (Medium): Downgraded §"Empirical compatibility" virtue. Old text claimed "no predictions inconsistent with current physics or neuroscience" which contradicted §"Sustained Attention"'s twelve-to-sixteen-orders-of-magnitude Zeno gap. New text: "architecture is permitted by current physics; specific candidate mechanisms face quantitative constraints the framework has not yet resolved."
+
+- Issue 3 (Medium): Added clarification after the ε²/(2 ln 2) bound that per-trial undiscriminability does not foreclose ensemble- or correlation-level discrimination. Named which families of brain-internal-Born-rule tests survive (sequential-dependency, intention-versus-spontaneity, Bell-style on phenomenally correlated quantum events).
+
+- Issue 4 (Medium): Added Nisbett-Wilson (1977) and Wegner (2002) citations to §"Introspective Evidence" and stated the actual residual claim the Map's reading requires (global pattern not exhaustively explained by sub-personal confabulation, not token-by-token introspective reliability).
+
+- Issue 5 (Low-Medium): Reframed §"Ontological restraint" as "one *kind* of mechanism (quantum selection)" rather than "one mechanism." Applied language-improvements-table revisions: "phenomenal selection biases which probability actualizes" in §"Selection among alternatives"; replaced "consciousness varies the strength of its causal influence" in §"Volitional Modulation" with the two-readings framing the review table proposed; added "replicable" qualifier and parapsychology dismissal in §"Direct physical force"; preserved MWI parenthetical but added one sentence registering the rejection's epistemic cost.
+
+Engagement classifications (editor-internal):
+- §"Phenomenal Biasing" with predictive processing: Mode Two (unsupported foundational move) — PP treats the sub-personal-prior-to-felt-awfulness bridge as constituted by computational role; the Map identifies this as an unsupported foundational move on PP's own terms.
+- §"Volitional Modulation" with noradrenergic-modulation rival: Mode Three (framework-boundary marking) — explicitly notes the two readings are observationally indistinguishable at phenomenology and identifies the framework boundary (phenomenal-laden component non-paraphrasable as locus-coeruleus modulation without remainder).
+- §"For Metaphysics" with epiphenomenalism / dualism: Mode Three (already clean, preserved).
+
+Word count delta: approximately +420 words from the four issues' additions (architecture/implementation preamble +175, empirical-compatibility expansion +85, per-trial discrimination clarification +110, introspective-evidence Nisbett-Wilson/Wegner addition +120, minus +90 net trim from "consciousness biases" reifications). Article now approximately 3500 words, well within the topic-tier band.
+
+Based on pessimistic review scoring no Critical issues, 1 High, 3 Medium, 1 Low-Medium.
+Key improvements: commitment-structure clarification reduces decoherence-objection exposure; honest registration of per-trial unfalsifiability while preserving ensemble-test discrimination route; heterophenomenological calibration on introspective evidence.
+
+This log should be removed after human review.
+-->
 

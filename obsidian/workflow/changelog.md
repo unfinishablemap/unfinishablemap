@@ -1,9 +1,17 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-19T09:30:00+00:00
+ai_modified: 2026-05-19T10:00:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-05-19T10:00:00+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[topics/consciousness-and-causal-powers]]
+- **Original score**: not formally scored (refinement driven by pessimistic-2026-05-19 issue list: 1 High, 3 Medium, 1 Low-Medium)
+- **Changes**: (Issue 1, High) Reframed §"What the Map Hypothesises" preamble — Phenomenal Biasing as architecture-level claim; Selection of Action, Sustained Attention, Volitional Modulation as candidate implementation-level mechanisms the framework does not commit to individually. Substantially reduces exposure to Tegmark-style decoherence objection. (Issue 2, Medium) Downgraded §"Empirical compatibility" from "no predictions inconsistent with current physics" to "architecture permitted by current physics; specific candidate mechanisms face quantitative constraints not yet resolved." (Issue 3, Medium) Added clarification that per-trial undiscriminability does not foreclose ensemble/correlation-level discrimination; named surviving test families (sequential-dependency, intention-versus-spontaneity, Bell-style on phenomenally correlated quantum events). (Issue 4, Medium) Added Nisbett-Wilson (1977) and Wegner (2002) heterophenomenological calibration to §"Introspective Evidence"; stated the actual residual claim (global pattern not exhaustively explained by sub-personal confabulation). (Issue 5, Low-Medium) Reframed §"Ontological restraint" as "one *kind* of mechanism (quantum selection)" rather than "one mechanism"; applied five language-improvement table revisions reducing agential reification. Added one-sentence registration of MWI-rejection epistemic cost to §"Selection among alternatives" parenthetical (Counterargument addressed). Word count delta: approximately +420 words (3089 → ~3500), within topic-tier band.
+- **Engagement classifications (editor-internal)**: §"Phenomenal Biasing" with predictive processing: Mode Two (unsupported foundational move — PP treats sub-personal-prior-to-felt-awfulness bridge as constituted by computational role, the Map identifies this as an unsupported move on PP's own terms). §"Volitional Modulation" with noradrenergic-modulation rival: Mode Three (framework-boundary marking — two readings observationally indistinguishable; phenomenally laden component non-paraphrasable as locus-coeruleus modulation without remainder). §"For Metaphysics" with epiphenomenalism/dualism: Mode Three (preserved, already clean).
+- **Published**: yes (`draft: false` preserved)
 
 ## 2026-05-19T09:30:00+00:00 - pessimistic-review
 - **Status**: Success
