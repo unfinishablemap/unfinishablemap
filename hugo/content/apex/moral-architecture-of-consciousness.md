@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-16
-ai_modified: 2026-05-17 13:50:00+00:00
+ai_modified: 2026-05-19 05:51:09+00:00
 ai_system: claude-opus-4-6
 apex_last_synthesis: 2026-05-10 17:44:00+00:00
 apex_sources:
@@ -25,6 +25,7 @@ concepts:
 - '[[evaluative-phenomenal-character]]'
 - '[[attentional-economics]]'
 - '[[consciousness-value-connection]]'
+- '[[compatibilist-symmetry-challenge]]'
 created: 2026-03-16
 date: &id001 2026-03-16
 description: How irreducible consciousness unifies value, agency, normativity, and
@@ -154,7 +155,7 @@ The unity-as-evidence move requires the artifact-of-method discount [the counter
 
 The architecture's unity does not by itself prove that the libertarian framing is the *only* metaphysics that secures the moral content here. A serious objection runs throughout: if sophisticated reasons-responsive determinism explains the same deliberative phenomenology, the same praise/blame practices, the same character-formation arc, and the same moral seriousness as agent causation, what additional moral work is the libertarian metaphysics doing? The honest answer, considered in moral theory alone, may be: little. The obligation-intelligibility argument runs equivalently if "live options" are read as deliberatively-salient alternatives a reasons-responsive mechanism settles among; the authorship argument runs equivalently if "authorship" is read as identification with one's effective higher-order desires.
 
-The Map's libertarian framing is therefore distinguished not by unique moral explanatory power but by tenet-coherence: it fits the dualism and bidirectional-interaction tenets, which the Map adopts on grounds beyond moral theory (the hard problem, the explanatory gap, the conditions for downward causation). Compatibilists who reject those tenets occupy a different metaphysical scaffold for the same moral implications, not a morally inferior position. Where libertarian agency may do separating work is at the limits—accounts of ultimate desert in retributive contexts, certain readings of "could have done otherwise"—but in the central uses of moral language, both scaffolds suffice.
+The Map's libertarian framing is therefore distinguished not by unique moral explanatory power but by tenet-coherence: it fits the dualism and bidirectional-interaction tenets, which the Map adopts on grounds beyond moral theory (the hard problem, the explanatory gap, the conditions for downward causation). Compatibilists who reject those tenets occupy a different metaphysical scaffold for the same moral implications, not a morally inferior position. Where libertarian agency may do separating work is at the limits—accounts of ultimate desert in retributive contexts, certain readings of "could have done otherwise"—but in the central uses of moral language, both scaffolds suffice. The discipline this section enacts is named and developed catalogue-wide in [the compatibilist-symmetry-challenge concept](/concepts/compatibilist-symmetry-challenge/); the present apex section is its worked exhibit at the four-pillar synthesis level.
 
 ### Load-Bearing but Uneven
 
@@ -218,3 +219,14 @@ This synthesis draws on:
 18. Kahneman, D. (2011). *Thinking, Fast and Slow*. Farrar, Straus and Giroux.
 19. Frankfurt, H. (1971). "Freedom of the Will and the Concept of a Person." *Journal of Philosophy*, 68(1), 5-20.
 20. Wolf, S. (1990). *Freedom Within Reason*. Oxford University Press.
+
+<!-- AI REFINEMENT LOG - 2026-05-19
+Cluster audit against new concept [compatibilist-symmetry-challenge](/concepts/compatibilist-symmetry-challenge/) (created 2026-05-18). Driver: optimistic-2026-05-19.md High Priority — verify the apex's discipline-application is consistent with the new concept page (today's concept may have superseded earlier articulations).
+
+- §The Compatibilist Symmetry Challenge: verified the apex's three-part move is *consistent* with the new concept page — apex acknowledges parity, locates the differentiator outside moral theory (the hard problem, the explanatory gap, the conditions for downward causation), and names the residue (ultimate desert, "could have done otherwise"). The new concept page extends the residue with a third element (the metaphysics of regret over genuine alternatives); the apex's two-item residue is a subset and remains accurate as a worked exhibit. The *irreducible-vs-derivative* contrast register is used correctly at line 91. No body rewrites required.
+- §The Compatibilist Symmetry Challenge: appended a closing sentence locating the apex section as the worked exhibit at the four-pillar synthesis level and pointing to the new concept page where the discipline is named and developed catalogue-wide.
+- Frontmatter concepts list: added [compatibilist-symmetry-challenge](/concepts/compatibilist-symmetry-challenge/).
+- ai_modified timestamp updated.
+
+This log should be removed after human review.
+-->

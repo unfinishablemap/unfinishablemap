@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-23
-ai_modified: 2026-05-18 18:53:31+00:00
+ai_modified: 2026-05-19 13:00:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -42,6 +42,7 @@ related_articles:
 - '[[metaproblem-of-consciousness-under-dualism]]'
 - '[[functional-seeming]]'
 - '[[anaesthesia-and-the-consciousness-interface]]'
+- '[[memory-system-vulnerability-hierarchies-as-interface-evidence]]'
 title: Self-Stultification as Master Argument
 topics:
 - '[[hard-problem-of-consciousness]]'
@@ -80,7 +81,7 @@ The [convergence with illusionism](/concepts/illusionism/#structural-convergence
 
 Phenomenal intentionality adds a further layer: the belief in epiphenomenalism must be genuinely *about* consciousness—it must have determinate intentional content directed at phenomenal experience. If the [phenomenal intentionality thesis](/concepts/intentionality/#phenomenal-intentionality-theory) is correct, this aboutness itself requires phenomenal character. The epiphenomenalist's position is thus doubly self-stultifying: it denies causal efficacy to the very consciousness whose phenomenal character is required to give the denial its content.
 
-[Ketamine anaesthesia](/topics/anaesthesia-and-the-consciousness-interface/) provides the catalogue's strongest clinical worked exhibit of the master argument applied to a specific pharmacological context. Patients under ketamine show behavioural unresponsiveness matching propofol, yet later report vivid experiences—elaborate dreams, perceived journeys, encounters with other beings—with brain dynamics showing wakefulness-like complexity (Sarasso et al. 2015). The retrospective reports demonstrate that consciousness during the dissociated interval maintained its causal connection to memory encoding, even when severed from behavioural output. If consciousness were epiphenomenal during this state, the reports would be self-stultifying in the strongest sense: their reliable correspondence to a phenomenally rich interval would presuppose the very causal efficacy epiphenomenalism denies. The pharmacological case sharpens the general argument because the dissociation is mechanistically isolable: ketamine's NMDA antagonism severs access channels while sparing the phenomenal interface, producing a clinical configuration where the self-stultification problem appears at a specific, drug-induced, time-bounded interval rather than diffusely across waking life.
+[Ketamine anaesthesia](/topics/anaesthesia-and-the-consciousness-interface/) provides the catalogue's strongest clinical worked exhibit of the master argument applied to a specific pharmacological context. Patients under ketamine show behavioural unresponsiveness matching propofol, yet later report vivid experiences—elaborate dreams, perceived journeys, encounters with other beings—with brain dynamics showing wakefulness-like complexity (Sarasso et al. 2015). The retrospective reports demonstrate that consciousness during the dissociated interval maintained its causal connection to memory encoding, even when severed from behavioural output. If consciousness were epiphenomenal during this state, the reports would be self-stultifying in the strongest sense: their reliable correspondence to a phenomenally rich interval would presuppose the very causal efficacy epiphenomenalism denies. The pharmacological case sharpens the general argument because the dissociation is mechanistically isolable: ketamine's NMDA antagonism severs access channels while sparing the phenomenal interface, producing a clinical configuration where the self-stultification problem appears at a specific, drug-induced, time-bounded interval rather than diffusely across waking life. The ketamine dissociation is one row of the cross-state pattern mapped in [the memory-system vulnerability hierarchies](/topics/memory-system-vulnerability-hierarchies-as-interface-evidence/) article — autonoetic content preserved but content-decoupled from access channels — so the worked exhibit is also one instance of the wider channel-hierarchy convergence rather than an isolated pharmacological case.
 
 ### Physicalism and the Argument from Reason
 
@@ -189,6 +190,7 @@ The [epiphenomenalist threat](/topics/the-epiphenomenalist-threat/) article show
 - [pragmatisms-path-to-dualism](/topics/pragmatisms-path-to-dualism/) — Self-stultification applied to evaluation: materialism eliminates the evaluative standpoint pragmatism requires
 - [interactionist-dualism](/concepts/interactionist-dualism/) — The framework that escapes self-stultification
 - [dualism](/concepts/dualism/) — Multiple converging arguments including self-stultification
+- [memory-system-vulnerability-hierarchies-as-interface-evidence](/topics/memory-system-vulnerability-hierarchies-as-interface-evidence/) — The cross-state channel hierarchy whose ketamine row is the same dissociation pattern this article's clinical worked exhibit uses
 
 ## References
 
@@ -202,6 +204,20 @@ The [epiphenomenalist threat](/topics/the-epiphenomenalist-threat/) article show
 1. Reppert, V. (2003). *C.S. Lewis's Dangerous Idea*. InterVarsity Press.
 1. Sarasso, S., et al. (2015). Consciousness and complexity during unresponsiveness induced by propofol, xenon, and ketamine. *Current Biology*, 25(23), 3099-3105.
 1. Sellars, W. (1956). "Empiricism and the Philosophy of Mind." *Minnesota Studies in the Philosophy of Science*, vol. 1.
+
+<!-- AI REFINEMENT LOG - 2026-05-19 (memory-hierarchy reciprocal cross-link)
+Changes made:
+- Added one-sentence cross-link in §Epiphenomenalism ketamine paragraph, noting that the ketamine dissociation is one row of the cross-state pattern in the memory-system vulnerability hierarchies article — autonoetic preserved but content-decoupled from access channels — so the worked exhibit is one instance of the wider channel-hierarchy convergence rather than an isolated pharmacological case.
+- Added [memory-system-vulnerability-hierarchies-as-interface-evidence](/topics/memory-system-vulnerability-hierarchies-as-interface-evidence/) to related_articles.
+- Added Further Reading entry pointing to the cross-state channel hierarchy.
+- Bumped ai_modified to 2026-05-19T13:00:00+00:00.
+
+Task: refine-draft from optimistic-2026-05-19.md Cross-Linking Suggestions table — install row (e). Reciprocal half installed in memory-system-vulnerability-hierarchies-as-interface-evidence.md.
+
+This is a cluster-integration link, not a tier-upgrade. The master-argument framing and its limits-section calibration are preserved verbatim.
+
+This log should be removed after human review.
+-->
 
 <!-- AI REFINEMENT LOG - 2026-05-18
 Changes made:

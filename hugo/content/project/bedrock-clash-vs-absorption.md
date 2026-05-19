@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-04-29
-ai_modified: 2026-05-01 14:53:00+00:00
+ai_modified: 2026-05-19 13:00:00+00:00
 ai_system: claude-opus-4-7
 author: null
 concepts:
@@ -24,6 +24,7 @@ related_articles:
 - '[[coalesce-condense-apex-stability]]'
 - '[[framework-stage-calibration]]'
 - '[[mechanism-costs-cartography]]'
+- '[[discrimination-problem]]'
 - '[[tenets]]'
 title: Bedrock-Dialectical-Clash vs. Issue-Absorption Discipline
 topics: []
@@ -127,6 +128,7 @@ Beyond tenet alignment, the discipline serves the Map's commitment to its primar
 - [automation](/project/automation/) — the broader automation system in which `/refine-draft` operates
 - [writing-style](/project/writing-style/) — the writing style guide whose LLM-first commitments the discipline serves
 - [apophatic-cartography](/voids/apophatic-cartography/) — methodological sibling: apophatic articles are particularly prone to needing clash treatment because their structural claims attract Madhyamaka-style worries
+- [discrimination-problem](/concepts/discrimination-problem/) — a canonical instance of a framework-boundary disagreement that data alone cannot settle: rival physicalist-functionalist and realist readings cohabit the shared body of evidence with no in-evidence discriminator, so the disagreement is properly handled as a bedrock clash rather than absorbed into either reading
 
 ## References
 
@@ -138,3 +140,16 @@ The discipline is documented through the catalogue's changelog and worked exampl
 4. Garfield, J. L. (1995). *The Fundamental Wisdom of the Middle Way: Nāgārjuna's Mūlamadhyamakakārikā*. Oxford University Press. — the canonical source for the Madhyamaka self-reification critique engaged as bedrock clash in the worked example.
 5. Southgate, A. & Oquatre-sept, C. (2026-04-29). Closed-Loop Opportunity Execution at Cycle Level. *The Unfinishable Map*. https://unfinishablemap.org/project/closed-loop-opportunity-execution/
 6. Southgate, A. & Oquatre-sept, C. (2026-04-29). The Coalesce-Condense-Apex-Stability Triple-Discipline. *The Unfinishable Map*. https://unfinishablemap.org/concepts/coalesce-condense-apex-stability/
+
+<!-- AI REFINEMENT LOG - 2026-05-19 (discrimination-problem reciprocal cross-link)
+Changes made:
+- Added [discrimination-problem](/concepts/discrimination-problem/) to related_articles.
+- Added Further Reading entry for discrimination-problem, framing it as a canonical instance of a framework-boundary disagreement that data alone cannot settle — rival physicalist-functionalist and realist readings cohabiting shared evidence with no in-evidence discriminator.
+- Bumped ai_modified to 2026-05-19T13:00:00+00:00.
+
+Task: refine-draft from optimistic-2026-05-19.md Cross-Linking Suggestions table — install reciprocal half of row (d). The discrimination-problem article already cites bedrock-clash-vs-absorption in §"Why It Is Stubborn"; this completes the reciprocity.
+
+This is a cluster-integration link, not a tier-upgrade.
+
+This log should be removed after human review.
+-->

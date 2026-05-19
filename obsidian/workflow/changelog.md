@@ -1,9 +1,19 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-19T10:00:00+00:00
+ai_modified: 2026-05-19T13:00:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-05-19T13:00:00+00:00 - refine-draft
+- **Status**: Success
+- **Files**: [[concepts/discrimination-problem]], [[topics/memory-system-vulnerability-hierarchies-as-interface-evidence]], [[project/evidential-status-discipline]], [[project/bedrock-clash-vs-absorption]], [[topics/self-stultification-as-master-argument]]
+- **Original score**: not formally scored (refinement driven by optimistic-2026-05-19 Cross-Linking Suggestions table — 5 rows, all reciprocal or reciprocal-completion)
+- **Changes**: Installed five cluster-integration cross-links from the optimistic review's table. (a) `discrimination-problem` ↔ `memory-system-vulnerability-hierarchies-as-interface-evidence` — added reciprocal `related_articles` and Further Reading entries; added one-sentence pointer at end of discrimination-problem §"Why It Is Stubborn" naming the production-vs-filter case as a parallel structural-underdetermination instance; added reciprocal pointer in memory-hierarchy §"The Structural Argument" framing the convergence as a discrimination-problem-class case. (b) `compatibilist-symmetry-challenge` ↔ `evidential-status-discipline` — added reverse reciprocal half (the forward link already existed); evidential-status-discipline now lists compatibilist-symmetry-challenge in `related_articles` and Further Reading, framed as the same named-pattern hygiene at the moral-responsibility tier (uniqueness slippage) that this discipline installs at the organism-consciousness tier (possibility/probability slippage). (c) `memory-system-vulnerability-hierarchies-as-interface-evidence` → `direct-refutation-discipline` — added inline cross-link in §"The Structural Argument" discriminating-test paragraph (naming the future-case discipline as direct-refutation) plus `related_articles` and Further Reading entries. (d) `bedrock-clash-vs-absorption` → `discrimination-problem` — reverse reciprocal half installed (the forward link already existed); bedrock-clash now lists discrimination-problem in `related_articles` and Further Reading. (e) `self-stultification-as-master-argument` ↔ `memory-system-vulnerability-hierarchies-as-interface-evidence` — added reciprocal cross-links in the ketamine paragraph of self-stultification §Epiphenomenalism (the dissociation is one row of the memory-hierarchy pattern) and in the anaesthesia section of memory-hierarchy (the ketamine row is the same dissociation pattern as the master-argument's clinical worked exhibit); `related_articles` and Further Reading updated on both sides.
+- **Engagement classifications (editor-internal)**: not applicable — cluster-integration cross-link installation, not engagement with a named opponent.
+- **Scope**: ~280 words touched across 5 articles (mostly `related_articles` and Further Reading additions; three short inline anchor paragraphs in discrimination-problem §"Why It Is Stubborn", memory-hierarchy §"The Structural Argument" + §"Anaesthesia: The Anchor Case", and self-stultification §Epiphenomenalism). Within the 150-300-word task envelope.
+- **Tenet alignment**: Methodological / cluster-integration discipline. Honours `[[evidential-status-discipline]]` throughout — no tier-upgrades. Preserves accommodation-evidence framing, evidential calibration, and master-argument scope-and-limits.
+- **Published**: yes (`draft: false` preserved on all five articles)
 
 ## 2026-05-19T10:00:00+00:00 - refine-draft
 - **Status**: Success

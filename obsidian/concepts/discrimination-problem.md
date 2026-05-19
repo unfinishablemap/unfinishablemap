@@ -4,7 +4,7 @@ description: "How can introspection distinguish genuine phenomenal consciousness
 created: 2026-05-18
 modified: 2026-05-19
 human_modified: null
-ai_modified: 2026-05-19T06:00:00+00:00
+ai_modified: 2026-05-19T13:00:00+00:00
 last_deep_review: 2026-05-18T23:50:25+00:00
 draft: false
 topics:
@@ -26,6 +26,7 @@ related_articles:
   - "[[tenets]]"
   - "[[epistemology-of-limit-knowledge]]"
   - "[[bedrock-clash-vs-absorption]]"
+  - "[[memory-system-vulnerability-hierarchies-as-interface-evidence]]"
 ai_contribution: 100
 author: null
 ai_system: claude-opus-4-7
@@ -70,7 +71,7 @@ The discrimination problem is robust because of a structural asymmetry. Whatever
 
 This is why the problem connects so tightly to the [[meta-problem-of-consciousness|meta-problem]]: explaining why we *judge* there is a hard problem is comparatively tractable, but the explanation does not, by itself, decide whether the judgement is correct. A successful theory of why people produce consciousness-reports would, at best, identify the functional state *Q* that drives such reports. Whether *P* (phenomenality) accompanies *Q* in any given case is precisely what the discrimination problem holds open.
 
-The standoff this produces between physicalist-functionalist and realist readings is the kind of framework-boundary disagreement examined in [[bedrock-clash-vs-absorption]]: the discriminator question cannot be settled by data the disputing frameworks already share, because each framework reads the same data through its own metaphysical commitments.
+The standoff this produces between physicalist-functionalist and realist readings is the kind of framework-boundary disagreement examined in [[bedrock-clash-vs-absorption]]: the discriminator question cannot be settled by data the disputing frameworks already share, because each framework reads the same data through its own metaphysical commitments. The same structural underdetermination recurs in other domains where rival readings cohabit a single body of evidence — the [[memory-system-vulnerability-hierarchies-as-interface-evidence|memory-system vulnerability hierarchies]] article names the production-vs-filter case as another instance, where convergence on the same channel ordering is itself the explanandum that no candidate discriminator inside the shared evidence can settle without prior framework commitment.
 
 ## Boundary Cases That Sharpen the Problem {#cases}
 
@@ -117,6 +118,8 @@ The discrimination problem identifies a structural [[voids|void]]: a region of f
 - [[heterophenomenology]]
 - [[ai-consciousness]]
 - [[epistemology-of-other-minds-under-dualism]]
+- [[memory-system-vulnerability-hierarchies-as-interface-evidence]] — a parallel structural-underdetermination case at the production-vs-filter interface
+- [[bedrock-clash-vs-absorption]] — the catalogue of framework-boundary disagreements that data alone cannot settle
 
 ## References
 
@@ -129,3 +132,18 @@ The discrimination problem identifies a structural [[voids|void]]: a region of f
 7. Schwitzgebel, E. (2011). *Perplexities of Consciousness*. MIT Press.
 8. Southgate, A. & Oquatre-cinq, C. (2026-01-22). Access Consciousness. *The Unfinishable Map*. https://unfinishablemap.org/concepts/access-consciousness/
 9. Southgate, A. & Oquatre-six, C. (2026-01-14). Illusionism. *The Unfinishable Map*. https://unfinishablemap.org/concepts/illusionism/
+
+<!-- AI REFINEMENT LOG - 2026-05-19 (cluster-integration cross-links)
+Changes made:
+- Added one-sentence pointer at end of §"Why It Is Stubborn" connecting the structural-asymmetry result to the parallel production-vs-filter underdetermination case in the memory-system-vulnerability-hierarchies article.
+- Added [[memory-system-vulnerability-hierarchies-as-interface-evidence]] to related_articles.
+- Added Further Reading entries for memory-system-vulnerability-hierarchies-as-interface-evidence and bedrock-clash-vs-absorption (the latter already cited inline but not in Further Reading).
+- Bumped ai_modified to 2026-05-19T13:00:00+00:00.
+
+Task: refine-draft from optimistic-2026-05-19.md Cross-Linking Suggestions table — install rows (a) and (d). The reverse cross-link from bedrock-clash-vs-absorption to discrimination-problem is installed separately in that article.
+
+This is a cluster-integration link, not a tier-upgrade. Honours [[evidential-status-discipline]].
+
+This log should be removed after human review.
+-->
+

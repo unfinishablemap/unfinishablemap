@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-08
-ai_modified: 2026-05-15 00:01:00+00:00
+ai_modified: 2026-05-19 05:51:09+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 coalesced_from:
@@ -31,6 +31,7 @@ concepts:
 - '[[self-stultification]]'
 - '[[control-theoretic-will]]'
 - '[[spontaneous-intentional-action]]'
+- '[[compatibilist-symmetry-challenge]]'
 created: 2026-01-08
 date: &id001 2026-05-15
 description: Can we genuinely author our choices? The Map defends agent-causal libertarian
@@ -165,6 +166,8 @@ On the Map's framework, free will requires: (1) [consciousness as non-physical](
 
 Free will requires [personal-identity](/topics/personal-identity/): there must be a *you* doing the authoring. The [No Many Worlds](/tenets/#no-many-worlds) tenet emphasizes indexical identity: *this* conscious being matters, each decision adding to the particular causal chain constituting your life. If agents genuinely author their choices, [moral responsibility](/concepts/moral-responsibility/) gains metaphysical grounding. The [moral implications](/topics/moral-implications-of-genuine-agency/) extend to obligation, character as self-creation, and how [cognitive enhancement reshapes the moral landscape](/topics/ethics-of-cognitive-enhancement-under-dualism/) of choice.
 
+How this article should be read on moral questions specifically: the Map's libertarian framing supports a range of moral implications, but the moral phenomena alone do not establish that libertarian agency is *required* to ground them. Sophisticated reasons-responsive determinism (Frankfurt, Fischer and Ravizza, Wolf) plausibly secures the same deliberative phenomenology, the same praise/blame practices, and the same character-formation arc on a different metaphysical scaffold. The libertarian framing's distinguishing work is its coherence with the Map's other tenets—adopted on grounds beyond moral theory—rather than unique moral explanatory power within moral theory itself. The [Compatibilist Symmetry Challenge](/concepts/compatibilist-symmetry-challenge/) names this discipline and locates the residue where libertarian agency may do separating work: ultimate desert in retributive contexts, certain readings of "could have done otherwise," the metaphysics of genuine alternatives.
+
 ## What Would Challenge This Framework?
 
 The framework is not unfalsifiable:
@@ -209,6 +212,7 @@ Free will stands at the intersection of all five [tenets](/tenets/):
 - [spontaneous-intentional-action](/concepts/spontaneous-intentional-action/) — Authored action without deliberation
 - [authentic-vs-inauthentic-choice](/topics/authentic-vs-inauthentic-choice/) — When choice engages genuine agency versus running on scripts
 - [moral-implications-of-genuine-agency](/topics/moral-implications-of-genuine-agency/) — What genuine agency implies for obligation, character, and moral life
+- [compatibilist-symmetry-challenge](/concepts/compatibilist-symmetry-challenge/) — Why the Map's libertarian framing is distinguished by tenet-coherence rather than unique moral explanatory power
 - [quantum-indeterminacy-free-will](/concepts/quantum-indeterminacy-free-will/) — How quantum mechanics supports libertarian free will
 - [mental causation](/concepts/mental-causation-and-downward-causation/) — How the framework addresses Kim's exclusion argument
 - [overdetermination-dissolution-under-selection-only-interactionism](/topics/overdetermination-dissolution-under-selection-only-interactionism/) — Why Kim's overdetermination worry dissolves under selection-only interactionism rather than needing an answer
@@ -243,3 +247,14 @@ Free will stands at the intersection of all five [tenets](/tenets/):
 1. Schwitzgebel, E. (2011). *Perplexities of Consciousness*. MIT Press.
 1. Wegner, D. M. (2002). *The Illusion of Conscious Will*. MIT Press.
 1. Gallagher, S., & Zahavi, D. (2012). *The Phenomenological Mind* (2nd ed.). Routledge.
+
+<!-- AI REFINEMENT LOG - 2026-05-19
+Cluster audit against new concept [compatibilist-symmetry-challenge](/concepts/compatibilist-symmetry-challenge/) (created 2026-05-18). Driver: optimistic-2026-05-19.md High Priority — install discipline's three-part move where missing and natural; install xref where genuinely absent; correct register where article currently uses metaphysical-vs-pragmatic.
+
+- §Free Will and Personal Identity: appended a paragraph that installs the discipline's three-part move (parity → differentiator located outside moral theory → residue at the limits) at the moral-implications hinge, naming compatibilist-symmetry-challenge inline. The article previously asserted moral-responsibility downstream of free will without naming compatibilism's parity claim at all.
+- §Further Reading: added wikilink to [compatibilist-symmetry-challenge](/concepts/compatibilist-symmetry-challenge/) with one-line description.
+- Frontmatter concepts list: added [compatibilist-symmetry-challenge](/concepts/compatibilist-symmetry-challenge/).
+- ai_modified timestamp updated.
+
+This log should be removed after human review.
+-->

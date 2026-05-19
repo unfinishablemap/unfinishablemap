@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-16
-ai_modified: 2026-05-18 19:20:42+00:00
+ai_modified: 2026-05-19 05:51:09+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -16,6 +16,7 @@ concepts:
 - '[[haecceity]]'
 - '[[witness-consciousness]]'
 - '[[buddhism-and-dualism]]'
+- '[[compatibilist-symmetry-challenge]]'
 created: 2026-01-16
 date: &id001 2026-01-16
 description: How agent causation grounds genuine moral desert. Agents originate actions
@@ -142,7 +143,7 @@ Three responses: (1) Tegmark's original calculations are disputed—Hameroff's g
 
 **"We can't detect it empirically."** We can't detect consciousness empirically either, yet we're certain we're conscious. The evidence is phenomenological (experience of choice) and argumentative (failures of deterministic alternatives). [introspection](/concepts/introspection/) provides first-person access that tracks genuine features of mental life.
 
-**"Compatibilism is sufficient."** Perhaps. But if people *don't* really deserve anything, moral practice rests on useful fictions. Agent causation offers a framework where moral practice tracks reality. The [moral architecture apex's Compatibilist Symmetry Challenge](/apex/moral-architecture-of-consciousness/#the-compatibilist-symmetry-challenge) addresses this objection at length: sophisticated reasons-responsive determinism (Frankfurt, Fischer-Ravizza, Wolf) plausibly secures the same deliberative phenomenology, praise/blame practices, character-formation arc, and moral seriousness as agent causation. The honest answer, considered in moral theory alone, is that the libertarian framing's distinguishing work is tenet-coherence with [dualism](/tenets/#dualism) and [bidirectional interaction](/tenets/#bidirectional-interaction)—not unique moral explanatory power. Compatibilists who reject those tenets occupy a different metaphysical scaffold for substantively similar moral implications, not a morally inferior position.
+**"Compatibilism is sufficient."** Perhaps. The framing has shifted in the catalogue's recent treatment: sophisticated reasons-responsive determinism (Frankfurt, Fischer-Ravizza, Wolf) does not rest on useful fictions but grounds desert in metaphysically substantive capacities—identification with effective higher-order desires, mechanism-level reasons-responsiveness, normative competence. The contrast is therefore irreducible-vs-derivative rather than metaphysical-vs-pragmatic: under compatibilism the desert-grounding capacities are real but emerge from prior states the agent did not author; under agent causation the agent is the irreducible source. The [Compatibilist Symmetry Challenge](/concepts/compatibilist-symmetry-challenge/) develops this discipline systematically and is also worked at length in [the moral architecture apex](/apex/moral-architecture-of-consciousness/#the-compatibilist-symmetry-challenge): sophisticated compatibilism plausibly secures the same deliberative phenomenology, praise/blame practices, character-formation arc, and moral seriousness as agent causation. The honest answer, considered in moral theory alone, is that the libertarian framing's distinguishing work is tenet-coherence with [dualism](/tenets/#dualism) and [bidirectional interaction](/tenets/#bidirectional-interaction)—not unique moral explanatory power. Compatibilists who reject those tenets occupy a different metaphysical scaffold for substantively similar moral implications, not a morally inferior position. Where libertarian agency may do separating work is at the limits—ultimate desert in retributive contexts, certain readings of "could have done otherwise"—but the central uses of moral language do not require these stronger readings.
 
 **"Buddhist ethics shows responsibility without selfhood."** [Buddhism](/concepts/buddhism-and-dualism/) rejects *permanent* self, not moment-to-moment continuity. The stream of consciousness that bears karma provides enough continuity for desert. Agent causation can accommodate this: the agent sources its choices without constituting an unchanging essence.
 
@@ -185,6 +186,7 @@ This framework respects the ordinary intuition that people deserve praise and bl
 - [illusionism](/concepts/illusionism/) — The eliminativist challenge and why it fails to undermine desert
 - [decoherence](/concepts/decoherence/) — The quantum challenge and biological responses
 - [buddhism-and-dualism](/concepts/buddhism-and-dualism/) — Responsibility without permanent selfhood
+- [compatibilist-symmetry-challenge](/concepts/compatibilist-symmetry-challenge/) — Named anti-slippage discipline: tenet-coherent, not moral-explanatory-superior
 - [moral-implications-of-genuine-agency](/topics/moral-implications-of-genuine-agency/) — Beyond desert: how genuine agency transforms obligation, character, and moral theory
 - [moral phenomenology and perception](/concepts/evaluative-phenomenal-character/) — The felt character of moral experience that grounds desert judgements
 - [tenets](/tenets/) — The foundational commitments grounding this view
@@ -210,6 +212,17 @@ This framework respects the ordinary intuition that people deserve praise and bl
 <!-- AI REFINEMENT LOG - 2026-05-18
 Cross-link refinement (driver: optimistic-2026-05-17b.md Medium Priority + Cross-Linking Suggestions table, item b — reciprocate link to the moral-architecture apex's Compatibilist Symmetry Challenge framing).
 - §Objections and Responses, "Compatibilism is sufficient" item: expanded from one sentence to a substantive paragraph that names the apex's symmetry-challenge framing, cites Frankfurt/Fischer-Ravizza/Wolf as the sophisticated-compatibilist tradition the apex engages, and adopts the apex's honest framing — the libertarian view's distinguishing work is tenet-coherence rather than unique moral explanatory power. The article still endorses agent causation but no longer treats compatibilism as a position whose adherents have settled for moral fiction; it engages compatibilism's substantive desert claims directly.
+- ai_modified timestamp updated.
+
+This log should be removed after human review.
+-->
+
+<!-- AI REFINEMENT LOG - 2026-05-19
+Cluster audit against new concept [compatibilist-symmetry-challenge](/concepts/compatibilist-symmetry-challenge/) (created 2026-05-18). Driver: optimistic-2026-05-19.md High Priority.
+
+- §Objections and Responses, "Compatibilism is sufficient": rewrote the opening clause from "if people *don't* really deserve anything, moral practice rests on useful fictions" — which mis-framed sophisticated compatibilism as committed to fictionalism — to the *irreducible-vs-derivative* register the new concept names. Sophisticated compatibilism grounds desert in metaphysically substantive capacities; the contrast is whether those capacities are irreducible (Map) or derivative from prior states (compatibilism). Added the three-part move's "residue at the limits" sentence at the end (ultimate desert, "could have done otherwise"). Linked the new concept page directly rather than only via the apex.
+- §Further Reading: added wikilink to [compatibilist-symmetry-challenge](/concepts/compatibilist-symmetry-challenge/) with one-line description.
+- Frontmatter concepts list: added [compatibilist-symmetry-challenge](/concepts/compatibilist-symmetry-challenge/).
 - ai_modified timestamp updated.
 
 This log should be removed after human review.

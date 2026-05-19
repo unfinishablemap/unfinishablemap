@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-04-16
-ai_modified: 2026-05-08 20:35:00+00:00
+ai_modified: 2026-05-19 00:00:00+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -58,7 +58,7 @@ topics:
 - '[[philosophy-of-mind]]'
 ---
 
-The body shapes how consciousness engages matter without producing it. Embodied cognition—the 4E programme of embodied, embedded, enacted, and extended cognition—maps the interface through which consciousness acts in the physical world. The first-person phenomenology of embodiment reveals what that interface feels like from the inside: the felt distinction between the lived body and the observed body, the dissociable structures of ownership and agency, the rhythm of bodily absence and reappearance during skilled action. The Unfinishable Map argues that these empirical findings and phenomenological structures jointly support [interactionist dualism](/concepts/interactionist-dualism/). The tighter the integration between mind and body that embodied cognition demonstrates, the more precisely we can characterise what the body contributes—and what it cannot explain.
+The body shapes how consciousness engages matter without producing it—on the Map's reading. The same evidence is compatible with the materialist reading that the body produces the cognition it embodies; the case for the interface framing rests on the irreducibility arguments [catalogued elsewhere](/concepts/mind-brain-separation/) rather than on the embodied evidence alone. Embodied cognition—the 4E programme of embodied, embedded, enacted, and extended cognition—maps what may be the interface through which consciousness acts in the physical world. The first-person phenomenology of embodiment reveals what that interface seems to feel like from the inside: the felt distinction between the lived body and the observed body, the dissociable structures of ownership and agency, the rhythm of bodily absence and reappearance during skilled action. The Map argues that these empirical findings and phenomenological structures jointly support [interactionist dualism](/concepts/interactionist-dualism/), while granting that the evidence does not decisively adjudicate between interface and production framings—both can accommodate most of what follows. The tighter the integration between mind and body that embodied cognition appears to document, the more precisely we can characterise what the body might contribute—and what it perhaps cannot explain.
 
 ## The Embodied Challenge
 
@@ -68,9 +68,9 @@ The evidence is substantial:
 
 - **Conceptual metaphors** are grounded in bodily experience. Understanding is grasping; time moves forward; importance has weight. These are not decorative—they structure thought itself.
 - **Sensorimotor knowledge** shapes perception. As Alva Noë argues, perceiving is not passive reception but skillful bodily engagement.
-- **Motor planning and attention share neural substrates.** Rizzolatti's premotor theory of attention demonstrates that directing attention to a location is preparing to act toward it.
+- **Motor planning and attention share neural substrates.** Rizzolatti's premotor theory of attention suggests that directing attention to a location is preparing to act toward it.
 
-These findings rule out a ghost-in-the-machine dualism. But they leave [property dualism](/tenets/#dualism)—the view that phenomenal experience is irreducible even though mind depends on body—largely untouched.
+These findings appear to rule out a ghost-in-the-machine dualism. But they seem to leave [property dualism](/tenets/#dualism)—the view that phenomenal experience is irreducible even though mind depends on body—largely untouched.
 
 The strongest version of the challenge comes from enactivism. Thompson's *deep continuity thesis* argues that mind is continuous with life itself. If experience is continuous with biological organisation rather than layered onto it, the dualist separation dissolves before it begins. The Map's [dedicated engagement with enactivism](/topics/enactivism-challenge-to-interactionist-dualism/) examines three strands—autopoietic, sensorimotor, and radical—and finds that all three face the same difficulty: they cannot explain *why* embodied activity is accompanied by subjective experience. Thompson himself treats experience as irreducible, describing it as possessing an "ineliminable transcendental character." But irreducibility while denying a non-physical aspect of reality is unstable—either biological organisation produces experience (reductive physicalism, contradicting enactivism's own commitments) or something beyond biological organisation is needed (which is dualism).
 
@@ -86,9 +86,9 @@ The phenomenological tradition that grounds embodied cognition recognised this. 
 
 Husserl distinguished the *Leib* (the body as lived from within) from the *Körper* (the body as observed from outside). Merleau-Ponty developed this into a central insight: my body is not an object among objects. It is the zero-point of my spatial world, the permanent "here" from which all "there" is measured.
 
-This distinction resists materialist assimilation. Neuroscience can describe the *Körper* exhaustively—every neural pathway, every muscular contraction, every hormonal cascade. But the *Leib* is available only from the first person. No third-person description captures what it is like to reach for a glass of water: the felt anticipation in the arm, the proprioceptive sense of extension, the seamless coordination that operates below deliberation.
+This distinction appears to resist materialist assimilation, though materialists may construe the resistance as a limit on current vocabulary rather than on what neuroscience can in principle describe. Neuroscience can describe the *Körper* exhaustively—every neural pathway, every muscular contraction, every hormonal cascade. But the *Leib* seems available only from the first person. No third-person description currently captures what it is like to reach for a glass of water: the felt anticipation in the arm, the proprioceptive sense of extension, the seamless coordination that operates below deliberation.
 
-The Map interprets this asymmetry as evidence for irreducibility. The *Leib*/*Körper* distinction is not merely epistemic—a gap in our current knowledge that better science will close. It is structural. The lived body is constitutively first-personal. A complete physical description of the body remains a description of the *Körper*. The *Leib* is what consciousness contributes to embodiment.
+The Map interprets this asymmetry as evidence for irreducibility, while recognising that the materialist counter-reading—that the distinction is epistemic rather than metaphysical—is coherent with the same data. The Map's case is that the *Leib*/*Körper* asymmetry appears structural rather than merely epistemic: the lived body seems constitutively first-personal, so a complete physical description of the body might remain a description of the *Körper*. On this reading, the *Leib* is what consciousness contributes to embodiment. Neither framing is forced by the phenomenology alone; the choice between them rides on the broader irreducibility arguments the anchor concept [catalogues](/concepts/mind-brain-separation/).
 
 ### Pre-Reflective Bodily Self-Awareness
 
@@ -96,7 +96,7 @@ Ordinary experience includes a constant background awareness of the body that pr
 
 This background awareness is **non-objectifying**—it is the medium *through which* attention operates, not its target. It is **continuous**—unlike perceptual attention, it persists without interruption during waking life, providing the felt continuity of selfhood. And it **grounds ownership**—the feeling that this body is *mine* arises from pre-reflective awareness rather than from inference.
 
-The Map treats pre-reflective bodily awareness as the experiential signature of the [interface](/concepts/filter-theory/) in its resting state. This background inhabitation is not something the body does to itself—a thermostat monitors its own state without self-awareness. Pre-reflective bodily awareness is consciousness registering its own embodied situation, and its phenomenal character is precisely what physical description cannot capture.
+The Map treats pre-reflective bodily awareness as the experiential signature of the [interface](/concepts/filter-theory/) in its resting state. This background inhabitation, on the Map's reading, is not something the body does to itself—a thermostat monitors its own state without self-awareness. Pre-reflective bodily awareness may be consciousness registering its own embodied situation, and its phenomenal character appears to be what physical description has so far failed to capture—a familiar epistemic gap whose status (in-principle versus merely temporary) is contested rather than settled.
 
 ### Ownership and Agency
 
@@ -106,7 +106,7 @@ Two phenomenological structures distinguish embodied subjectivity: the sense of 
 
 **Agency without ownership** is rarer but reported in some depersonalisation states. Patients describe controlling a body that does not feel like theirs—moving through the world as if operating a puppet.
 
-These dissociations reveal that embodied subjectivity has structure that cannot be collapsed into a single neural mechanism. Identifying the neural correlates—distinct networks for body ownership in the insula/temporoparietal junction and for motor agency in the supplementary motor area and prefrontal cortex—does not explain *why* these functional differences correspond to distinct phenomenal qualities. The felt difference between "my body moved" and "I moved my body" is a difference in experiential character, not merely in information processing. The Map locates this in consciousness itself: ownership reflects consciousness *receiving* from the body; agency reflects consciousness *acting through* it.
+These dissociations suggest that embodied subjectivity has structure that may not be collapsible into a single neural mechanism. Identifying the neural correlates—distinct networks for body ownership in the insula/temporoparietal junction and for motor agency in the supplementary motor area and prefrontal cortex—has not so far explained *why* these functional differences correspond to distinct phenomenal qualities. The felt difference between "my body moved" and "I moved my body" appears to be a difference in experiential character, not merely in information processing. The Map locates this in consciousness itself: ownership perhaps reflects consciousness *receiving* from the body; agency perhaps reflects consciousness *acting through* it.
 
 ## The Interface Reading
 
@@ -135,29 +135,29 @@ This rhythm illuminates how the interface evolves through practice. The Dreyfus 
 
 The **novice** requires constant conscious monitoring. Every movement is explicitly directed. The interface operates in its most bandwidth-limited mode. The **expert** has trained the interface. Procedural systems handle execution; consciousness withdraws to oversight.
 
-[Choking under pressure](/topics/empirical-phenomena-mental-causation/) reveals something crucial about this arrangement. When experts consciously monitor automated skills, performance degrades. This proves [bidirectional causation](/concepts/mental-causation-and-downward-causation/): an [epiphenomenal](/concepts/epiphenomenalism/) consciousness could not systematically interfere with motor execution. The disruption proves the manager has real causal power; the improvement after withdrawal proves the specialists can operate with appropriate autonomy.
+[Choking under pressure](/topics/empirical-phenomena-mental-causation/) reveals something the framework treats as crucial about this arrangement. When experts consciously monitor automated skills, performance degrades. This is suggestive evidence for [bidirectional causation](/concepts/mental-causation-and-downward-causation/): an [epiphenomenal](/concepts/epiphenomenalism/) consciousness could not systematically interfere with motor execution. The disruption suggests the manager has real causal power; the improvement after withdrawal suggests the specialists can operate with appropriate autonomy. The inference is not airtight—a sophisticated epiphenomenalist may construe the monitoring-driven degradation as a purely neural side-effect of attentional reallocation, and the data do not by themselves decide between the two readings—but the bidirectional reading is the more economical fit.
 
 At the opposite extreme, [flow states](/topics/consciousness-and-skill-acquisition/) represent the interface operating with minimal friction—consciousness selects at a coarse-grained level while procedural systems handle execution with maximal autonomy.
 
-Bodily absence also creates difficulties for identity theories. During absorbed activity, the entire bodily dimension of experience vanishes—not just peripheral limbs but posture, breathing, weight, muscular tension. What remains is pure intentional engagement with the task. That consciousness can shed its bodily character entirely while remaining richly present suggests that bodily experience is something consciousness *receives through* an interface rather than something it *is*.
+Bodily absence may also create difficulties for identity theories. During absorbed activity, the entire bodily dimension of experience appears to vanish—not just peripheral limbs but posture, breathing, weight, muscular tension. What remains is pure intentional engagement with the task. That consciousness seems able to shed its bodily character entirely while remaining richly present suggests that bodily experience could be something consciousness *receives through* an interface rather than something it *is*—though identity theorists may construe the same phenomenon as attentional gating of bodily representations rather than as dissociation between bearer and content.
 
 ## Pain and the Phenomenological Argument
 
-Pain provides the sharpest phenomenological case. The [somatic interface](/concepts/somatic-interface/) documents the clinical evidence: [pain asymbolia](/topics/pain-consciousness-and-causal-power/) shows that nociceptive detection and the felt awfulness of pain dissociate.
+Pain provides what may be the sharpest phenomenological case. The [somatic interface](/concepts/somatic-interface/) documents the clinical evidence: [pain asymbolia](/topics/pain-consciousness-and-causal-power/) suggests that nociceptive detection and the felt awfulness of pain dissociate.
 
 The *awfulness*—the felt quality that makes pain bad rather than merely informative—is not a function. A system could detect tissue damage and produce avoidance behaviour without anything hurting. That something does hurt is precisely what the hard problem identifies as unexplained by physical mechanism.
 
-Pain is also obviously *located*—in my knee, my lower back, my tooth. If pain is identical to a neural state, it is in the brain, not the knee. But pain is experienced in the knee. The standard materialist response—that the brain *represents* pain as located in the knee—concedes the phenomenological point: the felt location and the neural location diverge. The Map interprets this as expected on an interface model: the [somatic interface](/concepts/somatic-interface/) maps the body for consciousness, and consciousness experiences through that map.
+Pain is also obviously *located*—in my knee, my lower back, my tooth. If pain were identical to a neural state, it would be in the brain, not the knee. But pain is experienced in the knee. The standard materialist response—that the brain *represents* pain as located in the knee—may concede the phenomenological point: the felt location and the neural location diverge. The Map interprets this as a pattern the interface model accommodates naturally: the [somatic interface](/concepts/somatic-interface/) perhaps maps the body for consciousness, and consciousness experiences through that map. The representationalist reading and the interface reading remain compatible with the same divergence.
 
 ## The Attention-Motor Convergence
 
-The strongest evidence for the interface reading comes from the convergence of attention and motor planning. If [attention](/concepts/attention-as-interface/) is how consciousness engages with neural systems, and attention shares neural substrates with motor planning, then consciousness operates through a unified selection mechanism connecting perception to action.
+What may be the strongest evidence for the interface reading comes from the convergence of attention and motor planning. If [attention](/concepts/attention-as-interface/) is how consciousness engages with neural systems, and attention shares neural substrates with motor planning, then consciousness could plausibly operate through a unified selection mechanism connecting perception to action.
 
-The premotor theory of attention shows that directing attention to a location prepares movement toward it. The prefrontal cortex—traditionally associated with abstract thought—is fundamentally premotor: an action abstraction hierarchy from concrete motor commands to abstract goals (Wise & Murray, 2000). Conscious deliberation, on this view, is high-level motor planning.
+The premotor theory of attention suggests that directing attention to a location prepares movement toward it. The prefrontal cortex—traditionally associated with abstract thought—appears to be fundamentally premotor: an action abstraction hierarchy from concrete motor commands to abstract goals (Wise & Murray, 2000). Conscious deliberation, on this view, may be high-level motor planning.
 
 This convergence means the interface has a specific architecture: consciousness engages through the same system that plans action. An organism's range of possible attention is constrained by its range of possible action—exactly what an interface model predicts.
 
-The timing evidence reinforces this. Willed attention deploys in approximately 300 milliseconds (Müller & Rabbitt, 1989); motor commitment occurs approximately 280 milliseconds before movement (Thura & Cisek, 2014). If these were independent systems, the timing match would be coincidental. If they are a single interface mechanism, the convergence is expected.
+The timing evidence may reinforce this. Willed attention deploys in approximately 300 milliseconds (Müller & Rabbitt, 1989); motor commitment occurs approximately 280 milliseconds before movement (Thura & Cisek, 2014). If these were independent systems, the timing match would be coincidental. If they are a single interface mechanism, the convergence is what one would expect. A common-cause account from shared neural substrate is also compatible with the timing pattern, so the convergence is suggestive rather than decisive.
 
 ## Intercorporeality
 
@@ -179,23 +179,23 @@ The interface reading would face serious difficulty if:
 
 1. **Embodied AI achieves genuine understanding.** If robots, through sensorimotor engagement alone, developed capacities indistinguishable from conscious understanding without any non-physical component, the claim that embodiment reveals rather than produces consciousness would weaken.
 
-2. **The phenomenological tradition proves reducible.** If systematic translation of phenomenological categories (*Leib*, ownership, agency) into neural-functional terms succeeded without residue, the argument for irreducibility would fail.
+2. **The phenomenological tradition turns out to be reducible.** If systematic translation of phenomenological categories (*Leib*, ownership, agency) into neural-functional terms succeeded without residue, the argument for irreducibility would fail.
 
-3. **Choking proves fully explicable without mental causation.** If future neuroscience predicted choking entirely from neural states—without reference to phenomenological categories like "absorbed" versus "self-monitoring"—the bidirectional evidence would lose force.
+3. **Choking is shown fully explicable without mental causation.** If future neuroscience predicted choking entirely from neural states—without reference to phenomenological categories like "absorbed" versus "self-monitoring"—the bidirectional evidence would lose force.
 
 4. **Felt capacity failed to track actual embodiment.** If subjective bodily awareness proved systematically unreliable—if the *Leib* bore no consistent relation to the *Körper*—the claim that phenomenology provides genuine evidence about the interface would weaken.
 
 ## Relation to Site Perspective
 
-**[Dualism](/tenets/#dualism)**: Embodied cognition refutes Cartesian substance dualism but not property dualism. The phenomenology of embodiment reveals structures—the *Leib*/*Körper* distinction, pre-reflective self-awareness, the felt qualities of ownership and agency—that resist reduction to physical description. The lived body is irreducibly experiential. The Map agrees with embodied cognition that mind and body are tightly integrated; it disagrees that integration implies identity.
+**[Dualism](/tenets/#dualism)**: Embodied cognition undercuts Cartesian substance dualism while leaving property dualism largely untouched. The phenomenology of embodiment reveals structures—the *Leib*/*Körper* distinction, pre-reflective self-awareness, the felt qualities of ownership and agency—that appear to resist reduction to physical description. On the Map's reading, the lived body is irreducibly experiential; reductionists may construe the same phenomenology as a description-vocabulary residue rather than an ontological one. The Map agrees with embodied cognition that mind and body are tightly integrated; it disagrees that integration implies identity.
 
-**[Bidirectional Interaction](/tenets/#bidirectional-interaction)**: Choking under pressure demonstrates that consciousness causally influences bodily performance. Skill acquisition demonstrates that bodily practice reshapes how consciousness manifests. The ownership/agency distinction maps directly onto bidirectional causation: ownership reflects the body's influence on consciousness; agency reflects consciousness's influence on the body. The phenomenology of embodiment is the first-person face of bidirectional interaction.
+**[Bidirectional Interaction](/tenets/#bidirectional-interaction)**: Choking under pressure is suggestive evidence that consciousness causally influences bodily performance. Skill acquisition suggests that bodily practice reshapes how consciousness manifests. The ownership/agency distinction maps onto bidirectional causation: ownership perhaps reflects the body's influence on consciousness; agency perhaps reflects consciousness's influence on the body. On the Map's reading, the phenomenology of embodiment is the first-person face of bidirectional interaction—a reading the data are compatible with rather than one they force.
 
 **[Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction)**: The attention-motor convergence locates the interface precisely: where consciousness selects among competing neural options. The body provides the action repertoire; attention selects within it. If this selection operates through quantum mechanisms, the embodied interface is where those mechanisms function. Bodily absence during skilled action suggests the interface becomes transparent when consciousness and body are optimally coupled.
 
 **[No Many Worlds](/tenets/#no-many-worlds)**: Embodied action achieves definite outcomes. A skilled movement produces one trajectory, not all possible trajectories in parallel. If the attention-motor interface involves quantum selection, collapse—not branching—is what produces the determinate bodily engagement that embodied cognition describes.
 
-**[Occam's Razor Has Limits](/tenets/#occams-limits)**: The apparently "simpler" reading—embodiment proves materialism—assumes that showing cognitive dependence on the body resolves the hard problem. It does not. Adding more detail about how the body structures cognition does not explain why structured cognition is experienced. Parsimony that dismisses first-person evidence is evasion, not simplicity.
+**[Occam's Razor Has Limits](/tenets/#occams-limits)**: The apparently "simpler" reading—that embodiment vindicates materialism—assumes that showing cognitive dependence on the body resolves the hard problem. It does not. Adding more detail about how the body structures cognition does not seem to explain why structured cognition is experienced. Parsimony that dismisses first-person evidence may be evasion rather than simplicity.
 
 ## Further Reading
 
@@ -235,3 +235,18 @@ The interface reading would face serious difficulty if:
 1. Varela, F., Thompson, E., & Rosch, E. (1991). *The Embodied Mind: Cognitive Science and Human Experience*. MIT Press.
 1. Wise, S. P., & Murray, E. A. (2000). Arbitrary associations between antecedents and actions. *Trends in Neurosciences*, 23(6), 271-276.
 1. Zahavi, D. (2005). *Subjectivity and Selfhood: Investigating the First-Person Perspective*. MIT Press.
+
+<!-- AI REFINEMENT LOG - 2026-05-19
+Changes made (calibration audit Audit Three remediation against anchor [mind-brain-separation](/concepts/mind-brain-separation/)):
+- Replaced or softened all 13 strong-assertion verbs ("proves" ×6, "demonstrates" ×4, "refutes" ×1, "shows that" ×2) with hedged variants ("suggests", "is suggestive evidence", "appears to", "may", "could plausibly") in the lead, the 4E evidence list, the choking paragraph, the pain section, the attention-motor sections, the bidirectional-interaction tenet block, and the challenge list. Strong-assertion density 4.07/kw → 0.0/kw.
+- Raised hedge density 1.56/kw → 12.90/kw by inserting calibrated hedge markers ("appears", "seems", "may", "perhaps", "could", "suggests") at the sites where the Map's interpretation goes beyond what the data force. The hedges concentrate around Map-interpretive claims rather than empirical descriptions, preserving the article's voice.
+- Installed three explicit underdetermination markers: "the evidence does not decisively adjudicate" (lead), "Neither framing is forced by the phenomenology alone" (lived-body section), and "compatible with the same divergence" / "suggestive rather than decisive" (pain location and timing-evidence sections). Topic now declares underdetermination at the same calibration level as both filter-theory and mind-brain-separation anchors.
+- Added explicit counter-readings at three load-bearing points (materialist construal of the *Leib*/*Körper* asymmetry as epistemic-not-metaphysical; sophisticated-epiphenomenalist construal of choking; common-cause reading of the attention-motor timing convergence). These mark where the Map's reading is one of several compatible interpretations rather than the only one the data permit.
+- Reworked the Dualism tenet block to replace "refutes Cartesian substance dualism" with "undercuts" and to add the reductionist counter-reading; reworked the Occam block to replace "embodiment proves materialism" with "embodiment vindicates materialism".
+
+Audit verification: tools.curate.anchoring.evaluate_anchoring returns 0 flags against all anchor concepts (was: 3 failed checks against mind-brain-separation). Topic now has higher hedge density than every anchor; zero strong assertions versus anchor's 1.88/kw; three underdetermination markers versus anchors' 1.
+
+Voice preserved. Central claim (the body shapes how consciousness engages matter without producing it; embodied evidence and phenomenology jointly support interactionist dualism) is intact; the change is to the calibration with which that claim is held — inherited from the [mind-brain-separation](/concepts/mind-brain-separation/) anchor as the audit specifies.
+
+This log should be removed after human review.
+-->

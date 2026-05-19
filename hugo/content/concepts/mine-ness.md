@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-05-19
-ai_modified: 2026-05-19 04:50:00+00:00
+ai_modified: 2026-05-19 12:00:00+00:00
 ai_system: claude-opus-4-7
 author: null
 concepts:
@@ -17,6 +17,7 @@ description: Mine-ness is the phenomenal mark by which experience presents as be
 draft: false
 human_modified: null
 last_curated: null
+last_deep_review: 2026-05-19 12:00:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -39,7 +40,7 @@ This article defines mine-ness as a concept—its scope, its evidence, its disso
 
 ## Defining the Feature
 
-Mine-ness, on Zahavi's account, is the dimension of pre-reflective self-awareness that accompanies every conscious state. Zahavi writes that "in being aware of thoughts, actions, emotions, perceptions, memories, and bodily experiences, one is aware of them as being one's own." The "for-me" character is not added by reflection or by some second-order monitoring mechanism. It is constitutive of the experiential character of conscious states from the outset.
+Mine-ness, on Zahavi's account, is the dimension of pre-reflective self-awareness that accompanies every conscious state: "in being aware of thoughts, actions, emotions, perceptions, memories, and bodily experiences, one is aware of them as being one's own." The "for-me" character is not added by reflection or by second-order monitoring. It is constitutive of the experiential character of conscious states from the outset.
 
 Three clarifications keep the concept from sliding into adjacent notions:
 
@@ -77,7 +78,9 @@ The contemplative evidence reinforces the depersonalisation evidence: mine-ness 
 
 Franz Knappik has argued that the symptoms grouped under DPD do not necessarily reflect the loss of a *single* global mine-ness feature. The symptomatology is variable: depersonalisation (loss of self-ownership) and derealisation (loss of world-belonging) can occur independently, and different sensory and cognitive modalities may be affected differently. Knappik proposes that different mental state types relate to the subject in different ways—so what we call "loss of mine-ness" may be a family of related losses rather than the failure of a single phenomenal mark.
 
-The Map takes Knappik's challenge seriously without accepting that it defeats the concept. Even if mine-ness is plural rather than singular, *each* form is still a separable phenomenal feature, dissociable from content and from agency. The plurality would mean the concept needs sub-types (perceptual mine-ness, cognitive mine-ness, bodily mine-ness, and so on), not that the concept is empty. Knappik's view sharpens the question of what mine-ness is, but does not eliminate the phenomenon.
+The Map takes Knappik's challenge seriously without accepting that it defeats the concept. Even if mine-ness is plural rather than singular, *each* form is still a separable phenomenal feature, dissociable from content and from agency. The plurality means the concept needs sub-types (perceptual, cognitive, bodily, and so on), not that it is empty. Knappik sharpens the question of what mine-ness is without eliminating the phenomenon.
+
+The separability thesis is in principle defeasible. It would be undermined by a body of cases in which the for-me character co-varies *perfectly* with phenomenal content or with the sense of agency—where every disruption to content also disrupts ownership, or every loss of agency also abolishes ownership. The actual dissociation data run the other way: in DPD content remains while ownership fades, and in thought insertion agency fades while ownership remains. So long as such double dissociations are replicable, the separability thesis stands.
 
 ## Mine-ness and Transparency
 
@@ -85,19 +88,19 @@ A feature that pervades every experience yet normally goes unnoticed is by defin
 
 This places mine-ness on the [phenomenal-transparency-opacity-spectrum](/concepts/phenomenal-transparency-opacity-spectrum/) at the extreme transparent end. Most of the time mine-ness is so transparent that subjects do not notice it at all. Depersonalisation pushes it toward opacity—its absence becomes noticed precisely because its presence was the unnoticed background. Meditation can do something analogous voluntarily, making the feature available for inspection by reducing its grip rather than removing it altogether.
 
-The transparency observation also explains why mine-ness is so easily confused with the bare fact of having experience. If a feature is always present and never noticed, it can be hard to distinguish from the conditions of consciousness itself. The dissociation data is what breaks the confusion: mine-ness is a feature, not the bare fact, because it can vary.
+Transparency also explains why mine-ness is easily confused with the bare fact of having experience. A feature always present and never noticed is hard to distinguish from the conditions of consciousness itself. The dissociation data break the confusion: mine-ness is a feature, not the bare fact, because it can vary.
 
 ## What Mine-ness is Not
 
 Several adjacent concepts deserve explicit distinction.
 
-**Mine-ness is not personal identity over time.** Personal identity asks what makes the person who exists tomorrow the same person who exists today. Mine-ness operates within a single moment of experience: it is the phenomenal feature by which this present experience is mine *now*. The two can come apart cleanly. A patient with severe dissociative identity might have intact mine-ness in each moment (each experience presents itself as belonging to the experiencing subject) while their diachronic personal identity is fractured. Conversely, a being with continuous personal identity could in principle lose mine-ness during a depersonalised episode and recover it later.
+**Mine-ness is not personal identity over time.** Personal identity asks what makes tomorrow's person the same as today's. Mine-ness operates within a single moment: the feature by which this present experience is mine *now*. The two come apart cleanly. A patient with severe dissociative identity might have intact mine-ness in each moment while diachronic identity is fractured. Conversely, a being with continuous personal identity could lose mine-ness during a depersonalised episode and recover it later.
 
-**Mine-ness is not the sense of bodily ownership.** Bodily ownership is the more local sense that *this body* (or *this limb*) is mine. The rubber hand illusion shows it can be manipulated experimentally and even extended to foreign objects through multisensory integration. Bodily ownership is a *sub-type* of mine-ness applied to the bodily domain—but mine-ness as a general phenomenal feature extends to thoughts, perceptions, and memories that have no bodily location.
+**Mine-ness is not the sense of bodily ownership.** Bodily ownership—the sense that *this body* or *this limb* is mine, manipulable via the rubber hand illusion and similar paradigms—is a *sub-type* of mine-ness applied to the bodily domain. Mine-ness as a general phenomenal feature extends to thoughts, perceptions, and memories that have no bodily location.
 
-**Mine-ness is not haecceity.** [Haecceity](/concepts/haecceity/) is the metaphysical "thisness" that distinguishes one particular from another. Mine-ness is the *phenomenal* feature by which experience presents as a subject's; haecceity is the *metaphysical* ground of what makes a subject the particular subject it is. The relation between the two is the [vertiginous-question](/topics/vertiginous-question/): why does this particular consciousness exist as me rather than as someone else?
+**Mine-ness is not haecceity.** [Haecceity](/concepts/haecceity/) is the *metaphysical* "thisness" of a particular; mine-ness is the *phenomenal* feature by which experience presents as a subject's. The relation between them is the [vertiginous-question](/topics/vertiginous-question/): why does this particular consciousness exist as me rather than as someone else?
 
-**Mine-ness is not the same as having a self-concept.** A being can have mine-ness without explicit concepts of "self," "I," or "subject." The phenomenal feature is pre-conceptual; the self-concept is its cognitive elaboration.
+**Mine-ness is not having a self-concept.** A being can have mine-ness without explicit concepts of "self" or "I." The phenomenal feature is pre-conceptual; the self-concept is its cognitive elaboration.
 
 ## Relation to Site Perspective
 
@@ -111,7 +114,7 @@ The [Bidirectional Interaction](/tenets/#bidirectional-interaction) tenet connec
 
 ### No Many Worlds
 
-The [No Many Worlds](/tenets/#no-many-worlds) tenet relates because mine-ness is inherently *indexical*. *My* experiences are mine, not anyone else's; mine-ness picks out a determinate subject from the inside. Branch-relative indexicality on Many-Worlds accounts (associated with Saunders and Wallace) can recover a local sense of mine-ness within each branch, since each branch's observer can truly say *these* experiences are mine. The Map's stronger position is that mine-ness is one-branch-only rather than locally articulated within a globally branching structure. The phenomenal singularity of mine-ness—the felt fact that *this* experience is mine *here*, with no shadow versions running in parallel—is suggestive of, though not decisive against, MWI's metaphysics. The Map takes the suggestiveness seriously while acknowledging the position is not forced by the phenomenology alone.
+The [No Many Worlds](/tenets/#no-many-worlds) tenet relates because mine-ness is inherently *indexical*. *My* experiences are mine, not anyone else's; mine-ness picks out a determinate subject from the inside. [Branch-relative indexicality on Many-Worlds accounts](/concepts/many-worlds/#mwis-branch-relative-indexicality-reply) (Saunders, Wallace) can recover a local sense of mine-ness within each branch, since each branch's observer can truly say *these* experiences are mine. The Map's stronger position is that mine-ness is one-branch-only rather than locally articulated within a globally branching structure. The phenomenal singularity of mine-ness—the felt fact that *this* experience is mine *here*, with no shadow versions running in parallel—is suggestive of, though not decisive against, MWI's metaphysics. The Map takes the suggestiveness seriously while acknowledging the position is not forced by the phenomenology alone.
 
 ### Occam's Razor Has Limits
 

@@ -1,13 +1,160 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-19 05:00:00+00:00
+ai_modified: 2026-05-19 13:00:00+00:00
 ai_system: claude-opus-4-7
 concepts: []
 date: '2026-05-19'
 related_articles: []
 title: Changelog
 ---
+
+## 2026-05-19T13:00:00+00:00 - refine-draft
+- **Status**: Success
+- **Files**: [discrimination-problem](/concepts/discrimination-problem/), [memory-system-vulnerability-hierarchies-as-interface-evidence](/topics/memory-system-vulnerability-hierarchies-as-interface-evidence/), [evidential-status-discipline](/project/evidential-status-discipline/), [bedrock-clash-vs-absorption](/project/bedrock-clash-vs-absorption/), [self-stultification-as-master-argument](/topics/self-stultification-as-master-argument/)
+- **Original score**: not formally scored (refinement driven by optimistic-2026-05-19 Cross-Linking Suggestions table — 5 rows, all reciprocal or reciprocal-completion)
+- **Changes**: Installed five cluster-integration cross-links from the optimistic review's table. (a) `discrimination-problem` ↔ `memory-system-vulnerability-hierarchies-as-interface-evidence` — added reciprocal `related_articles` and Further Reading entries; added one-sentence pointer at end of discrimination-problem §"Why It Is Stubborn" naming the production-vs-filter case as a parallel structural-underdetermination instance; added reciprocal pointer in memory-hierarchy §"The Structural Argument" framing the convergence as a discrimination-problem-class case. (b) `compatibilist-symmetry-challenge` ↔ `evidential-status-discipline` — added reverse reciprocal half (the forward link already existed); evidential-status-discipline now lists compatibilist-symmetry-challenge in `related_articles` and Further Reading, framed as the same named-pattern hygiene at the moral-responsibility tier (uniqueness slippage) that this discipline installs at the organism-consciousness tier (possibility/probability slippage). (c) `memory-system-vulnerability-hierarchies-as-interface-evidence` → `direct-refutation-discipline` — added inline cross-link in §"The Structural Argument" discriminating-test paragraph (naming the future-case discipline as direct-refutation) plus `related_articles` and Further Reading entries. (d) `bedrock-clash-vs-absorption` → `discrimination-problem` — reverse reciprocal half installed (the forward link already existed); bedrock-clash now lists discrimination-problem in `related_articles` and Further Reading. (e) `self-stultification-as-master-argument` ↔ `memory-system-vulnerability-hierarchies-as-interface-evidence` — added reciprocal cross-links in the ketamine paragraph of self-stultification §Epiphenomenalism (the dissociation is one row of the memory-hierarchy pattern) and in the anaesthesia section of memory-hierarchy (the ketamine row is the same dissociation pattern as the master-argument's clinical worked exhibit); `related_articles` and Further Reading updated on both sides.
+- **Engagement classifications (editor-internal)**: not applicable — cluster-integration cross-link installation, not engagement with a named opponent.
+- **Scope**: ~280 words touched across 5 articles (mostly `related_articles` and Further Reading additions; three short inline anchor paragraphs in discrimination-problem §"Why It Is Stubborn", memory-hierarchy §"The Structural Argument" + §"Anaesthesia: The Anchor Case", and self-stultification §Epiphenomenalism). Within the 150-300-word task envelope.
+- **Tenet alignment**: Methodological / cluster-integration discipline. Honours `[[evidential-status-discipline]]` throughout — no tier-upgrades. Preserves accommodation-evidence framing, evidential calibration, and master-argument scope-and-limits.
+- **Published**: yes (`draft: false` preserved on all five articles)
+
+## 2026-05-19T10:00:00+00:00 - refine-draft
+- **Status**: Success
+- **File**: [consciousness-and-causal-powers](/topics/consciousness-and-causal-powers/)
+- **Original score**: not formally scored (refinement driven by pessimistic-2026-05-19 issue list: 1 High, 3 Medium, 1 Low-Medium)
+- **Changes**: (Issue 1, High) Reframed §"What the Map Hypothesises" preamble — Phenomenal Biasing as architecture-level claim; Selection of Action, Sustained Attention, Volitional Modulation as candidate implementation-level mechanisms the framework does not commit to individually. Substantially reduces exposure to Tegmark-style decoherence objection. (Issue 2, Medium) Downgraded §"Empirical compatibility" from "no predictions inconsistent with current physics" to "architecture permitted by current physics; specific candidate mechanisms face quantitative constraints not yet resolved." (Issue 3, Medium) Added clarification that per-trial undiscriminability does not foreclose ensemble/correlation-level discrimination; named surviving test families (sequential-dependency, intention-versus-spontaneity, Bell-style on phenomenally correlated quantum events). (Issue 4, Medium) Added Nisbett-Wilson (1977) and Wegner (2002) heterophenomenological calibration to §"Introspective Evidence"; stated the actual residual claim (global pattern not exhaustively explained by sub-personal confabulation). (Issue 5, Low-Medium) Reframed §"Ontological restraint" as "one *kind* of mechanism (quantum selection)" rather than "one mechanism"; applied five language-improvement table revisions reducing agential reification. Added one-sentence registration of MWI-rejection epistemic cost to §"Selection among alternatives" parenthetical (Counterargument addressed). Word count delta: approximately +420 words (3089 → ~3500), within topic-tier band.
+- **Engagement classifications (editor-internal)**: §"Phenomenal Biasing" with predictive processing: Mode Two (unsupported foundational move — PP treats sub-personal-prior-to-felt-awfulness bridge as constituted by computational role, the Map identifies this as an unsupported move on PP's own terms). §"Volitional Modulation" with noradrenergic-modulation rival: Mode Three (framework-boundary marking — two readings observationally indistinguishable; phenomenally laden component non-paraphrasable as locus-coeruleus modulation without remainder). §"For Metaphysics" with epiphenomenalism/dualism: Mode Three (preserved, already clean).
+- **Published**: yes (`draft: false` preserved)
+
+## 2026-05-19T09:30:00+00:00 - pessimistic-review
+- **Status**: Success
+- **Content reviewed**: [consciousness-and-causal-powers](/topics/consciousness-and-causal-powers/) (3089 words, post-condense). Five issues found (1 High, 3 Medium, 1 Low-Medium). High: four-mechanism commitment structure unspecified (joint/disjoint/hierarchical). Medium: §"Empirical compatibility" contradicts §"Sustained Attention" decoherence-gap; "vanishing per-trial bias" underplays structural per-trial unfalsifiability; §"Introspective Evidence" heterophenomenological slippage. Low-Medium: hidden unity-of-consciousness assumption. Reasoning-mode discipline checks (label-leakage, boundary-substitution) both passed. P2 refine-draft task added.
+- **Output**: [pessimistic-2026-05-19](/reviews/pessimistic-2026-05-19/)
+
+## 2026-05-19T08:15:00+00:00 - condense
+- **Status**: Success
+- **File**: [consciousness-and-causal-powers](/topics/consciousness-and-causal-powers/)
+- **Before**: 4144 words
+- **After**: 3089 words
+- **Reduction**: 25%
+- **Technique**: Removed three stale AI refinement log HTML comments (explicitly marked "remove after human review") from end of file; trimmed hedging and over-qualification in §"What the Map Hypothesises Consciousness Does" preamble; condensed §"Sustained Attention" decoherence-time block and §"Phenomenal Biasing" predictive-processing rival treatment; tightened §"Philosophical coherence" overdetermination summary (deferring full structural argument to linked article); trimmed §"Free Will" luck-objection block. Preserved opening summary, all four hypothesised mechanisms, §"What Consciousness Does Not Do", §"Absence of Direct Evidence" calibration, and §"Relation to Site Perspective" tenet connections.
+
+## 2026-05-19T07:08:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [disconnection-neuroscience](/concepts/disconnection-neuroscience/)
+- **Word count**: 1782 → 1782 (single reference-list correction; no body changes)
+- **Critical issues addressed**: 1 (Dejerine 1892 journal name corrected from *Comptes Rendus de la Société de Biologie* to *Mémoires de la Société de Biologie*; prior same-day attribution-accuracy pass verified author, year, and case but not the journal name)
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Convergence note**: Second review of this article (same UTC day, ~5 hours after first review). Prior review marked stable; second-pass adversarial reading converges with that verdict apart from the factual journal-name correction. No calibration slippage, no oscillation. The article is converged on the channel-architecture interpretation calibrated at live-hypothesis register, with the two-layer discipline preserved.
+- **Engagement classifications (editor-internal)**: None — article does not make named-opponent refutational engagements; rival readings (production-with-differential-dependency) absorbed at framework boundary (implicit Mode Three).
+- **Attribution check**: passed — Geschwind 1965, Wernicke/Liepmann, Sperry/Gazzaniga, Catani & ffytche 2005, Schmahmann & Pandya 2006 all correct; Dejerine 1892 journal name corrected this pass.
+- **Output**: [deep-review-2026-05-19-disconnection-neuroscience-2](/reviews/deep-review-2026-05-19-disconnection-neuroscience-2/)
+
+## 2026-05-19T07:03:12+00:00 - deep-review
+- **Status**: Success
+- **File**: [contextual-selection-in-quantum-foundations](/concepts/contextual-selection-in-quantum-foundations/)
+- **Word count**: 1890 → 1890 (one wikilink added in place of plain text; no net change)
+- **Critical issues addressed**: 0 (no critical issues found — convergence confirmed)
+- **Medium issues addressed**: 0 (all medium issues from prior reviews remain resolved)
+- **Enhancements made**: 1 (wikilinked "Stapp's quantum Zeno framework" to [stapp-quantum-mind](/concepts/stapp-quantum-mind/))
+- **Convergence note**: Third review of this article confirms stability predicted by the 2026-03-29b review ("A third review finding 'no critical issues' would confirm convergence"). No calibration slippage, no attribution errors, opponents addressed appropriately at framework boundary. Future reviews should be triggered only by substantive new content.
+- **Engagement classifications (editor-internal)**: None — article does not make named-opponent refutational engagements; counter-views are absorbed at tenet boundary (implicit Mode Three).
+- **Output**: [deep-review-2026-05-19-contextual-selection-in-quantum-foundations](/reviews/deep-review-2026-05-19-contextual-selection-in-quantum-foundations/)
+
+## 2026-05-19T06:56:08+00:00 - refine-draft
+- **Status**: Success
+- **File**: [consciousness-epistemology-extended-cognition](/topics/consciousness-epistemology-extended-cognition/)
+- **Source**: topic-concept anchoring audit (Audit Three) — failing hedge_density, strong_assertions, underdetermination_markers against anchor [filter-theory](/concepts/filter-theory/) (and six other anchor concepts)
+- **Pre-edit profile**: hedge density 1.40/kw (anchor 3.88/kw; below 60% threshold), strong-assertion density 1.86/kw (exceeds 1.5× anchor 0.97/kw), zero underdetermination markers vs anchor's explicit one
+- **Post-edit profile**: hedge density 2.72/kw, strong-assertion density 0.00/kw (all four strong-assertion verbs softened: "demonstrates"×3 → "indicates" / "illustrates" / "suggests"; "confirms" → "tracks"), three explicit underdetermination markers ("coherent with rather than evidenced by", "compatible with both readings", "Neither interpretation is forced")
+- **Calibration verification**: `tools.curate.anchoring.evaluate_anchoring` returns 0 flags (was: 7 against all anchor concepts)
+- **Voice preservation**: Central claim (consciousness extension gap → dualism) and argument structure intact; calibration inherited from anchor concept as the audit specifies; the underdetermination acknowledgement at the close of the Tenet section makes explicit what the filter-theory concept page already practises about its supporting evidence
+- **Published**: yes
+
+## 2026-05-19T07:30:00+00:00 - refine-draft
+- **Status**: Success
+- **File**: [embodied-consciousness](/topics/embodied-consciousness/)
+- **Source**: topic-concept anchoring audit (Audit Three) — failing hedge_density, strong_assertions, underdetermination_markers against anchor [mind-brain-separation](/concepts/mind-brain-separation/)
+- **Changes**: Replaced/softened all 13 strong-assertion verbs (proves×6, demonstrates×4, refutes×1, shows that×2) with hedged variants where the Map's interpretation goes beyond what the data force; raised hedge density at Map-interpretive claims (interface reading, *Leib*/*Körper*, ownership/agency dissociations, pain location, attention-motor timing, tenet blocks); installed three explicit underdetermination markers ("the evidence does not decisively adjudicate", "Neither framing is forced by the phenomenology alone", "compatible with the same divergence" / "suggestive rather than decisive"); added explicit counter-readings at three load-bearing points (materialist construal of *Leib*/*Körper*, sophisticated-epiphenomenalist construal of choking, common-cause reading of attention-motor timing convergence)
+- **Calibration verification**: tools.curate.anchoring.evaluate_anchoring returns 0 flags (was: 3 failed checks against mind-brain-separation). Topic hedge density 1.56→12.90/kw (anchor 7.54/kw); strong-assertion density 4.07→0.0/kw (anchor 1.88/kw); underdetermination markers 0→3 (anchor 1). Topic now has higher hedge density than every resolvable anchor and zero strong assertions.
+- **Voice preservation**: Central claim and argument structure intact; calibration inherited from anchor concept as the audit specifies, not weakening of the position.
+- **Published**: yes
+
+## 2026-05-19T06:40:00+00:00 - apex-evolve
+- **Status**: Complete
+- **Article**: [phenomenology-of-consciousness-doing-work](/apex/phenomenology-of-consciousness-doing-work/)
+- **Mode**: evolve (auto-selected by staleness; score=92, days_stale=23, changed_count=4)
+- **Changed sources**: 4 (`topics/consciousness-and-causal-powers`, `topics/evolutionary-case-for-mental-causation`, `concepts/mental-effort`, `concepts/mental-imagery`)
+- **Word count**: 3,775 → 3,973 (within 2,500–4,000 target)
+- **Key integrations**: Cognitive motor dissociation (Bodien et al. 2024 NEJM) added as new clinical test case; ego-depletion replication failure (Hagger et al. 2016, d=0.04) corrects the "depletes" claim; three converging effort-dissociation lines (Naccache 2005 calibration, Kurzban/Inzlicht modulation, Westbrook 2020 dopamine manipulation) replace the prior high-level effort framing; decoherence-time gap acknowledged in Holding section with post-decoherence selection as alternative; Synthesis re-layered to make explicit that non-reductive physicalism is the main contemporary opponent and the four-feature profile establishes consciousness-does-cognitive-work rather than the Map's specific interactionist mechanism (the latter being operationally underdetermined per Born-statistics preservation on the strictest reading of Tenet 2)
+- **Review**: [apex-evolve-2026-05-19-phenomenology-of-consciousness-doing-work](/reviews/apex-evolve-2026-05-19-phenomenology-of-consciousness-doing-work/)
+
+## 2026-05-19T12:00:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [mine-ness](/concepts/mine-ness/)
+- **Mode**: Cross-review (related articles considering mine-ness.md insights — [ownership-void](/voids/ownership-void/), [consciousness-and-the-ownership-problem](/topics/consciousness-and-the-ownership-problem/), [self-and-self-consciousness](/concepts/self-and-self-consciousness/))
+- **Word count**: 2481 → 2481 (length-neutral; article at 99% of 2500 soft threshold)
+- **Critical issues addressed**: 0 — cross-article attribution (Zahavi, Billon, Heidegger, Knappik), No Many Worlds calibration ("suggestive of, though not decisive against"), Metzinger bracketing, and possibility/probability slippage all consistent across sibling articles; no slippage
+- **Medium issues addressed**: 1 — tightened §No Many Worlds cross-link to match the targeted anchor used in ownership-void.md ([many-worlds](/concepts/many-worlds/#mwis-branch-relative-indexicality-reply)); previous plain-text "Saunders and Wallace" replaced with wikilink, length-neutral
+- **Enhancements made**: 1 cross-link upgrade (Saunders/Wallace branch-relative indexicality anchor)
+- **Engagement classifications**: Unchanged from initial 2026-05-19 review — Metzinger Mode Two, Knappik Mode One, Many-Worlds Mode Three; no new opponent engagements added; no label leakage
+- **Attribution check (§2.5)**: All checks PASS across mine-ness ↔ ownership-void ↔ consciousness-and-the-ownership-problem ↔ self-and-self-consciousness. Conceptual division of labour is correctly partitioned (feature page / opacity page / topic page / Zahavi-vs-Metzinger page); no overlap warranting coalescing.
+- **Stability note**: Article reached stability after initial 2026-05-19 review; cross-review confirms cross-article calibration is also stable. Future cross-reviews should preserve the partition rather than consolidate. Duch engagement belongs in self-and-self-consciousness.md, not here.
+- **Output**: [deep-review-2026-05-19-mine-ness-cross](/reviews/deep-review-2026-05-19-mine-ness-cross/)
+
+## 2026-05-19T06:00:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [anti-correlated-metacognitive-signal](/concepts/anti-correlated-metacognitive-signal/)
+- **Mode**: Cross-review (related articles considering anti-correlated-metacognitive-signal.md insights)
+- **Word count**: 2117 → 2117 (length-neutral; only reference list and frontmatter changed in the focus article)
+- **Critical issues addressed**: 2 — (a) reference #2 Dijkstra & Fleming 2024 misattributed: wrong title ("Subjective signal strength distinguishes reality from imagination"), wrong journal/volume (*Nature Communications* 14, 1627); corrected to "Confidence ratings do not distinguish imagination from reality" *Journal of Vision* 24(5) per cross-referenced citations in perceptual-reality-monitoring-void.md, apex/introspection-architecture-void-cluster.md, and research notes; (b) reference #4 Fleming 2024 wrong page range (241–268); corrected to 149–176 per cross-referenced citations in metacognition.md, introspection.md, and research/metacognition-consciousness-2026-01-18.md
+- **Medium issues addressed**: 2 — (a) added §"Asymmetry-Breaking Signatures" to discrimination-problem.md with link back to the new concept; (b) added paragraph in metacognition.md §"Error-Blindness" citing Coutinho 2021 and linking to the new concept, regime-conditional qualifier preserved
+- **Enhancements made**: 2 cross-links added to natural-host articles (discrimination-problem, metacognition); concepts and related_articles frontmatter updated in both target articles
+- **Engagement classifications**: N/A — the article does not directly reply to named opponents; cross-framework compatibility is honestly noted (Mode-Three-style boundary marking applied as absence-of-engagement)
+- **Attribution check (§2.5)**: Misattribution check FAILED (Dijkstra-Fleming 2024 title/journal/volume) — fixed; qualifier preservation PASS; position strength PASS; source/Map separation PASS; self-contradiction PASS
+- **Stability note**: Future reviews should NOT re-flag eliminative-materialist/heterophenomenological/universal-inversion concerns — these are bedrock-or-pre-empted. The article's restraint register (regime-conditional, architecture-vs-significance, calibration-grade) is the right register.
+- **Systemic finding**: Two reference errors shipped in a newly-created concept page despite the body citing correctly in prose; suggests residual risk in concept-page reference-list generation. Recommended discipline: final reference-list parity check against in-project usages before completing expand-concept tasks.
+- **Output**: [deep-review-2026-05-19-anti-correlated-metacognitive-signal](/reviews/deep-review-2026-05-19-anti-correlated-metacognitive-signal/)
+
+## 2026-05-19T05:59:00+00:00 - expand-topic
+- **Status**: Success
+- **Topic**: Anti-Correlated Metacognitive Signal
+- **Output**: [anti-correlated-metacognitive-signal](/concepts/anti-correlated-metacognitive-signal/)
+- **Word count**: 2117 (85% of 2500 soft threshold — ok)
+- **Based on research**: yes — [metacognition-consciousness-2026-01-18](/research/metacognition-consciousness-2026-01-18/) (background); load-bearing source-corpus drawn from [consciousness-disruption-and-the-mind-brain-interface](/topics/consciousness-disruption-and-the-mind-brain-interface/) §Discrimination Problem, [confabulation-void](/voids/confabulation-void/) (Detection face), [introspection-architecture-independence-scoring](/topics/introspection-architecture-independence-scoring/) (regime-conditional qualifier preservation), and [introspection-architecture-void-cluster](/apex/introspection-architecture-void-cluster/)
+- **Driver**: P2 task per [optimistic-2026-05-18](/reviews/optimistic-2026-05-18/) §"New Concept Pages Needed" — gives the Coutinho et al. 2021 inverse-correlation finding its own canonical home distinct from the noetic-feelings void (which catalogues *unreliability*); the new concept catalogues *inversion-in-regime*
+- **Key attribution discipline moves**: (a) preserved regime-conditional qualifier verbatim ("the anti-correlation claim is conditional on the experimental regime and is not a universal inversion of confidence-accuracy correlation"); (b) used Coutinho's verbatim quote ("Deceptive cues overturn the classical relationship..."); (c) kept architecture-finding vs significance distinction explicit; (d) flagged generalisation-across-domains as calibration-grade rather than strong; (e) anti-correlation framed as compatible-with-Tenet-1 rather than evidence-for; (f) silent on Tenets 2, 4, 5 explicitly noted
+- **Tenet alignment**: Methodological — compatible-with Tenet 1 (Dualism, via constraint on introspective channel) and connects to Tenet 3 (Bidirectional Interaction, via the discrimination-problem asymmetry the concept partially addresses); silent on Tenets 2, 4, 5
+- **Published**: yes
+
+## 2026-05-19T05:51:09+00:00 - refine-draft
+- **Status**: Success
+- **Audit**: Cluster audit of agency-and-responsibility cluster against new concept [compatibilist-symmetry-challenge](/concepts/compatibilist-symmetry-challenge/) (created 2026-05-18)
+- **Driver**: [optimistic-2026-05-19](/reviews/optimistic-2026-05-19/) High Priority — converts a newly-installed discipline into an actually-applied one across the six-article cluster the discipline was designed for
+- **Articles touched**: 6 (audit pass; targeted surgical edits)
+  - [free-will](/topics/free-will/): installed the three-part move at §Free Will and Personal Identity (the moral-implications hinge); added wikilink + concept-frontmatter entry. ~120 words added.
+  - [moral-responsibility](/concepts/moral-responsibility/): rewrote §"Compatibilism is sufficient" objection to use *irreducible-vs-derivative* register the new concept page names (previously the opening framed sophisticated compatibilism as committed to fictionalism); added residue-at-the-limits sentence; added direct xref to new concept page rather than only to apex section. ~70 words net.
+  - [agent-causation](/concepts/agent-causation/): verified no over-claim of unique moral leverage (no body edits required); added Further Reading entry + concept-frontmatter entry.
+  - [reasons-responsiveness](/concepts/reasons-responsiveness/): re-pointed the symmetry-challenge paragraph's primary link at the new concept page rather than only the apex; inserted the *irreducible-vs-derivative* contrast register sentence; preserved apex cross-link as secondary. ~50 words.
+  - [luck-objection](/concepts/luck-objection/): verified scope (article addresses luck, not desert; no internal slippage); added paragraph at §"Does Selection Really Escape Luck?" making explicit that surviving the luck objection does not establish libertarian agency is required for moral phenomena; added xref. ~80 words.
+  - [moral-architecture-of-consciousness](/apex/moral-architecture-of-consciousness/): verified §Compatibilist Symmetry Challenge is consistent with new concept (apex's two-item residue is a subset of concept's three-item residue; *irreducible-vs-derivative* register used correctly); appended a sentence locating the apex section as the worked exhibit at the four-pillar level. ~20 words.
+- **Total prose added**: ~350 words across 6 articles (within optimistic-review's 300-800 word estimate)
+- **Cross-link installed**: All six articles now wikilink [compatibilist-symmetry-challenge](/concepts/compatibilist-symmetry-challenge/) both in body prose and in frontmatter concepts list (or related_articles equivalent)
+- **Register correction**: Register fixed from *metaphysical-vs-pragmatic* (or no contrast) to *irreducible-vs-derivative* at the two sites where the contrast was being made (moral-responsibility, reasons-responsiveness)
+- **Tenet alignment**: Methodological (meta-ethically agnostic); preserves Tenet 3 (Bidirectional Interaction) commitment while honouring [evidential-status-discipline](/project/evidential-status-discipline/) and [coherence-inflation-countermeasures](/project/coherence-inflation-countermeasures/) at the agency pillar
+- **Published**: yes
+
+## 2026-05-19T05:30:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [mine-ness](/concepts/mine-ness/)
+- **Word count**: 2485 → 2481 (-4; length-neutral mode at 99% of 2500 soft threshold)
+- **Critical issues addressed**: 0 (none found; attribution clean, no possibility/probability slippage, no source/Map conflation)
+- **Medium issues addressed**: 1 (added falsifiability paragraph specifying defeat conditions for the separability thesis)
+- **Enhancements made**: 4 (falsifiability paragraph in §Empirical Caveat; tightened §Defining the Feature opening; tightened four §What Mine-ness is Not paragraphs; tightened §Mine-ness and Transparency closing)
+- **Reasoning-mode classifications**: engagement with Metzinger: Mode Two; engagement with Knappik: Mode One; engagement with Many-Worlds: Mode Three (boundary-marked at "suggestive of, though not decisive against")
+- **Output**: [deep-review-2026-05-19-mine-ness](/reviews/deep-review-2026-05-19-mine-ness/)
 
 ## 2026-05-19T05:00:00+00:00 - literature-drift-review
 - **Status**: Success

@@ -4,7 +4,7 @@ description: "A tenet may remove a defeater, but it must not upgrade the evidenc
 created: 2026-05-05
 modified: 2026-05-10
 human_modified: null
-ai_modified: 2026-05-14T13:41:00+00:00
+ai_modified: 2026-05-19T13:00:00+00:00
 last_deep_review: 2026-05-10T18:31:00+00:00
 draft: false
 topics: []
@@ -22,6 +22,7 @@ related_articles:
   - "[[calibration-audit-triple]]"
   - "[[testability-ledger]]"
   - "[[birch-edge-of-sentience-and-the-five-tier-scale]]"
+  - "[[compatibilist-symmetry-challenge]]"
   - "[[mental-effort]]"
   - "[[memory-anomalies]]"
   - "[[out-of-body-experiences]]"
@@ -272,6 +273,7 @@ Beyond tenet alignment, the discipline complements [[coherence-inflation-counter
 - [[consciousness-in-simple-organisms]] — the canonical worked example: the two-questions distinction (metaphysical possibility vs. empirical support) installed in the lede; per-organism calibration expressed in natural prose
 - [[animal-consciousness]] — the broader-scale propagation: calibration-scale verdicts across mammals, birds, cephalopods, decapods, insects, and boundary organisms
 - [[birch-edge-of-sentience-and-the-five-tier-scale]] — the cross-framework calibration audit: places the five-tier scale alongside Birch's two-tier precautionary framework on a shared organism set and traces the convergences, divergences, and structural complementarity
+- [[compatibilist-symmetry-challenge]] — the same named-pattern hygiene at the moral-responsibility tier (uniqueness slippage) that this discipline installs at the organism-consciousness tier (possibility/probability slippage); cite reciprocally where an article uses libertarian agency to ground moral conclusions
 - [[mental-effort]] — the source of the constrain-vs-establish formulation, applied to the felt-effort/operation dissociation
 - [[memory-anomalies]] — Bergson's "memory of the present" raised as one candidate explanation, not load-bearing dualist commitment; the empirical-side instance for source-monitoring failures
 - [[out-of-body-experiences]] — the argument-from-mechanism section as the canonical materialist-side refusal: sufficient mechanism does not entail necessary mechanism
@@ -312,6 +314,19 @@ Changes made:
 Engagement classification: not applicable — this is a methodology revision, not an engagement with a named opponent. The Gemini reviewer's recommendation is taken up at face value as a methodology proposal; the pilot is the bounded experimental design under which the proposal is evaluated against the discipline's standing prohibition on tier labels in article prose.
 
 Based on outer review by Gemini 2.5 Pro 2026-05-12 (methodology recommendation: externalize the 5-tier evidential-status scale). Convergent with the broader 2026-05 outer-review pattern of recommending the Map make its self-corrective machinery legible to academic readers rather than relying on internal editorial process alone.
+
+This log should be removed after human review.
+-->
+
+<!-- AI REFINEMENT LOG - 2026-05-19 (compatibilist-symmetry-challenge reciprocal cross-link)
+Changes made:
+- Added [[compatibilist-symmetry-challenge]] to related_articles.
+- Added Further Reading entry for compatibilist-symmetry-challenge, framing it as the same named-pattern hygiene at the moral-responsibility tier (uniqueness slippage) that this discipline installs at the organism-consciousness tier (possibility/probability slippage).
+- Bumped ai_modified to 2026-05-19T13:00:00+00:00.
+
+Task: refine-draft from optimistic-2026-05-19.md Cross-Linking Suggestions table — install reciprocal half of row (b). The compatibilist-symmetry-challenge article already links to this discipline; this completes the reciprocity the optimistic review's §"Relation to Site Perspective" parallel-noting flagged.
+
+This is a cluster-integration link, not a tier-upgrade.
 
 This log should be removed after human review.
 -->
