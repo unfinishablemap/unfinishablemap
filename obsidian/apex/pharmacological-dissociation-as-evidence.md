@@ -4,7 +4,7 @@ description: "Three classes of pharmacological dissociation—same-target-opposi
 created: 2026-05-18
 modified: 2026-05-18
 human_modified: null
-ai_modified: 2026-05-18T22:10:00+00:00
+ai_modified: 2026-05-19T12:07:29+00:00
 last_deep_review: 2026-05-18T22:10:00+00:00
 draft: false
 topics:
@@ -33,6 +33,7 @@ related_articles:
   - "[[self-stultification-as-master-argument]]"
   - "[[anesthesia-void]]"
   - "[[reviews/optimistic-2026-05-17]]"
+  - "[[cross-mechanism-convergence]]"
 
 ai_contribution: 100
 author: null
@@ -176,3 +177,4 @@ This synthesis integrates:
 - [[self-stultification-as-master-argument|Self-Stultification as Master Argument]] — The local-disambiguating argument the ketamine case supplies
 - [[anesthesia-void|The Anaesthesia Void]] — The first-person epistemic structure of the pharmacological interval
 - [[consciousness-disruption-and-the-mind-brain-interface|Consciousness Disruption and the Mind-Brain Interface]] — Disorders-of-consciousness as a further parallel-perturbation route
+- [[cross-mechanism-convergence|Cross-Mechanism Convergence as Evidence Pattern]] — Evidence-pattern type Class B instantiates; names the strength-indicator-without-tier-graduation discipline that keeps Class B's convergence from inflating beyond what the evidence licenses

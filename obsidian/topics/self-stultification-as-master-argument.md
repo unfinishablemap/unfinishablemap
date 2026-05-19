@@ -4,7 +4,7 @@ description: "Self-stultification defeats not just epiphenomenalism but every po
 created: 2026-02-23
 modified: 2026-03-05
 human_modified:
-ai_modified: 2026-05-19T11:04:33+00:00
+ai_modified: 2026-05-19T12:07:29+00:00
 last_deep_review: 2026-04-16T06:39:00+00:00
 draft: false
 topics:
@@ -39,6 +39,7 @@ related_articles:
   - "[[functional-seeming]]"
   - "[[anaesthesia-and-the-consciousness-interface]]"
   - "[[memory-system-vulnerability-hierarchies-as-interface-evidence]]"
+  - "[[cross-mechanism-convergence]]"
 ai_contribution: 100
 author:
 ai_system: claude-opus-4-6
@@ -188,6 +189,7 @@ The [[the-epiphenomenalist-threat|epiphenomenalist threat]] article shows that m
 - [[interactionist-dualism]] — The framework that escapes self-stultification
 - [[dualism]] — Multiple converging arguments including self-stultification
 - [[memory-system-vulnerability-hierarchies-as-interface-evidence]] — The cross-state channel hierarchy whose ketamine row is the same dissociation pattern this article's clinical worked exhibit uses
+- [[cross-mechanism-convergence]] — Evidence-pattern type the cross-state row instantiates; explains why the ketamine, dissociative-anaesthesia, and contemplative rows together carry more weight than any single row alone, without licensing tier-upgrade
 
 ## References
 

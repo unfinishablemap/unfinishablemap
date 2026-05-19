@@ -1,9 +1,21 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-19T12:01:19+00:00
+ai_modified: 2026-05-19T12:07:29+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-05-19T12:07:29+00:00 - deep-review (cross-review chain — backlink installation)
+- **Status**: Success
+- **Mode**: Cross-review chain — install backlinks to [[concepts/cross-mechanism-convergence]] across its four named exhibit articles
+- **Files modified**: [[concepts/active-reboot]], [[topics/memory-system-vulnerability-hierarchies-as-interface-evidence]], [[topics/self-stultification-as-master-argument]], [[apex/pharmacological-dissociation-as-evidence]]
+- **Edits per file**: one `related_articles` frontmatter entry + one `## Further Reading` one-liner with calibration-preserving characterisation of the evidential role
+- **Not modified**: [[concepts/cross-mechanism-convergence]] itself — was deep-reviewed at 2026-05-19T09:40:36+00:00 and its stability notes explicitly required no further review until either catalogue exhibits change or ≥30 days pass with modification; neither obtains, so re-deep-reviewing would violate the convergence discipline
+- **Critical issues addressed**: 0 (mechanical backlink-installation task)
+- **Engagement classification (editor-internal, not in article body)**: No named-opponent engagements introduced — Further Reading entries are catalogue cross-references, not opponent replies. No mode classification required.
+- **Length impact**: All four articles at or above soft threshold; length-neutral discipline observed (single-line additions only, no new sections, no body-text expansion)
+- **Calibration safeguard**: each backlink one-liner explicitly names the discipline at *strength-indicator-without-tier-graduation* level, preserving the anti-inflation purpose of the discipline article across the cross-references
+- **Output**: [[reviews/cross-review-2026-05-19-cross-mechanism-convergence-backlinks]]
 
 ## 2026-05-19T12:01:19+00:00 - deep-review
 - **Status**: Success

@@ -4,7 +4,7 @@ description: "Active reboot names a mechanism class where the brain dismantles a
 created: 2026-05-18
 modified: 2026-05-18
 human_modified: null
-ai_modified: 2026-05-18T20:21:05+00:00
+ai_modified: 2026-05-19T12:07:29+00:00
 draft: false
 topics:
   - "[[anaesthesia-and-the-consciousness-interface]]"
@@ -20,6 +20,7 @@ related_articles:
   - "[[altered-states-as-interface-evidence]]"
   - "[[pharmacological-dissociation-as-evidence]]"
   - "[[evidential-status-discipline]]"
+  - "[[cross-mechanism-convergence]]"
 ai_contribution: 100
 author: null
 ai_system: claude-opus-4-7
@@ -98,6 +99,7 @@ The Map treats active reboot as an architectural finding that bears on the inter
 - [[pharmacological-dissociation-as-evidence]] — apex synthesis using active reboot as load-bearing exhibit
 - [[altered-states-as-interface-evidence]] — apex synthesis placing active reboot in the broader altered-states matrix
 - [[evidential-status-discipline]] — the calibration discipline that governs how strongly the finding is read
+- [[cross-mechanism-convergence]] — evidence-pattern type the four-agent KCC2 convergence instantiates; names the structural-feature inference active reboot relies on
 
 ## References
 
