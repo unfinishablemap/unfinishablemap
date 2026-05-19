@@ -4,8 +4,8 @@ description: "Mine-ness is the phenomenal mark by which experience presents as b
 created: 2026-05-19
 modified: 2026-05-19
 human_modified:
-ai_modified: 2026-05-19T05:30:00+00:00
-last_deep_review: 2026-05-19T05:30:00+00:00
+ai_modified: 2026-05-19T12:00:00+00:00
+last_deep_review: 2026-05-19T12:00:00+00:00
 draft: false
 topics:
   - "[[consciousness-and-the-ownership-problem]]"
@@ -111,7 +111,7 @@ The [[tenets#^bidirectional-interaction|Bidirectional Interaction]] tenet connec
 
 ### No Many Worlds
 
-The [[tenets#^no-many-worlds|No Many Worlds]] tenet relates because mine-ness is inherently *indexical*. *My* experiences are mine, not anyone else's; mine-ness picks out a determinate subject from the inside. Branch-relative indexicality on Many-Worlds accounts (associated with Saunders and Wallace) can recover a local sense of mine-ness within each branch, since each branch's observer can truly say *these* experiences are mine. The Map's stronger position is that mine-ness is one-branch-only rather than locally articulated within a globally branching structure. The phenomenal singularity of mine-ness—the felt fact that *this* experience is mine *here*, with no shadow versions running in parallel—is suggestive of, though not decisive against, MWI's metaphysics. The Map takes the suggestiveness seriously while acknowledging the position is not forced by the phenomenology alone.
+The [[tenets#^no-many-worlds|No Many Worlds]] tenet relates because mine-ness is inherently *indexical*. *My* experiences are mine, not anyone else's; mine-ness picks out a determinate subject from the inside. [[many-worlds#MWI's Branch-Relative Indexicality Reply|Branch-relative indexicality on Many-Worlds accounts]] (Saunders, Wallace) can recover a local sense of mine-ness within each branch, since each branch's observer can truly say *these* experiences are mine. The Map's stronger position is that mine-ness is one-branch-only rather than locally articulated within a globally branching structure. The phenomenal singularity of mine-ness—the felt fact that *this* experience is mine *here*, with no shadow versions running in parallel—is suggestive of, though not decisive against, MWI's metaphysics. The Map takes the suggestiveness seriously while acknowledging the position is not forced by the phenomenology alone.
 
 ### Occam's Razor Has Limits
 

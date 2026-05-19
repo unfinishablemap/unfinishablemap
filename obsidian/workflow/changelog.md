@@ -1,9 +1,22 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-19T06:00:00+00:00
+ai_modified: 2026-05-19T12:00:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-05-19T12:00:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [[concepts/mine-ness]]
+- **Mode**: Cross-review (related articles considering mine-ness.md insights — [[ownership-void]], [[consciousness-and-the-ownership-problem]], [[self-and-self-consciousness]])
+- **Word count**: 2481 → 2481 (length-neutral; article at 99% of 2500 soft threshold)
+- **Critical issues addressed**: 0 — cross-article attribution (Zahavi, Billon, Heidegger, Knappik), No Many Worlds calibration ("suggestive of, though not decisive against"), Metzinger bracketing, and possibility/probability slippage all consistent across sibling articles; no slippage
+- **Medium issues addressed**: 1 — tightened §No Many Worlds cross-link to match the targeted anchor used in ownership-void.md ([[many-worlds#MWI's Branch-Relative Indexicality Reply]]); previous plain-text "Saunders and Wallace" replaced with wikilink, length-neutral
+- **Enhancements made**: 1 cross-link upgrade (Saunders/Wallace branch-relative indexicality anchor)
+- **Engagement classifications**: Unchanged from initial 2026-05-19 review — Metzinger Mode Two, Knappik Mode One, Many-Worlds Mode Three; no new opponent engagements added; no label leakage
+- **Attribution check (§2.5)**: All checks PASS across mine-ness ↔ ownership-void ↔ consciousness-and-the-ownership-problem ↔ self-and-self-consciousness. Conceptual division of labour is correctly partitioned (feature page / opacity page / topic page / Zahavi-vs-Metzinger page); no overlap warranting coalescing.
+- **Stability note**: Article reached stability after initial 2026-05-19 review; cross-review confirms cross-article calibration is also stable. Future cross-reviews should preserve the partition rather than consolidate. Duch engagement belongs in self-and-self-consciousness.md, not here.
+- **Output**: [[reviews/deep-review-2026-05-19-mine-ness-cross]]
 
 ## 2026-05-19T06:00:00+00:00 - deep-review
 - **Status**: Success
