@@ -37,6 +37,20 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
+### P3: Refine heterophenomenology.md to promote narrower self-stultification formulation
+- **Type**: refine-draft
+- **Status**: pending
+- **Notes**: Suggested by optimistic review 2026-05-19d. The §"Self-Stultification Problem" section (lines 96–104) headlines a strong conclusion ("applied consistently would undermine its own foundations") that depends on premises the illusionist could reject — specifically that finding-arguments-compelling is phenomenological in the load-bearing sense. The article is on safer ground at lines 178–181 (the "narrower point" formulation) where the self-undermining charge gains traction at "assessing whether a theoretical framework adequately captures what experience is like seems to require phenomenal acquaintance with the states being theorised about." Promote the narrower formulation to the §"Self-Stultification Problem" section's headline conclusion. This tightens the article without losing critique force. Not a calibration error — refinement only. See `obsidian/reviews/optimistic-2026-05-19d.md` Hardline Empiricist §(flag) and Expansion Opportunities §High Priority.
+- **Source**: optimistic-review
+- **Generated**: 2026-05-19
+
+### P3: Write concept page on constitutive-vs-referring observation
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review 2026-05-19d. The distinction is currently embedded in `topics/phenomenal-authority-and-first-person-evidence.md` §"Constitutive vs Referring Observation" (lines 106–114) and forward-references `[[constitutive-vs-referring-observation]]` as if a concept page exists. Verify the page does not already exist; if not, create it. The constitutive/referring distinction is the structural reason Layer 1 is apodictic — the seeming-of-phenomenality is not separable from the being-of-the-phenomenal-state in the way naked-eye astronomy's seeming is separable from celestial bodies. It underwrites multiple other arguments (the knowledge argument, the conceivability argument, the layered evidence taxonomy). A concept page would let other articles cite it without rehearsing the full argument. Tenet alignment: Dualism (structural rather than stipulative apodictic standing of Layer 1); Occam's Razor Has Limits (the distinction shows why deflating phenomenal authority on parsimony grounds discounts evidence rather than explaining it). Estimated scope: medium concept page.
+- **Source**: optimistic-review
+- **Generated**: 2026-05-19
+
 ### P3: Deep review voids/interface-formalization-void.md (62 days since last review, ai_contribution=100)
 - **Type**: deep-review
 - **Status**: pending
