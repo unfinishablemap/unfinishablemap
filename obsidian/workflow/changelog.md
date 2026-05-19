@@ -5,6 +5,18 @@ ai_modified: 2026-05-19T15:30:00+00:00
 ai_system: claude-opus-4-7
 ---
 
+## 2026-05-19T14:59:41+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[topics/phantom-limb-phenomena]]
+- **Driver**: topic-concept anchoring audit 2026-05-19 (Audit Three in [[project/calibration-audit-triple]]). Topic article was failing hedge_density (0.29/kw vs anchor [[concepts/filter-theory]] at 3.79/kw; below 60% threshold of 2.27/kw) and underdetermination_markers (anchor declares underdetermination 1× explicit but topic had none). The audit also raised the same two-check failure against [[concepts/pain-asymbolia]] as a secondary anchor; remediating against filter-theory clears both.
+- **Changes**:
+  - Added hedge markers at framing / assessment / dialectical sites — *appears*, *may*, *seems*, *suggests*, *suggesting*, *perhaps*, *arguably* — distributed across the lead, the Cortical Body Maps section, the Mirror Therapy paragraph, the Congenital Phantoms section, the Neuromatrix paragraphs, the Predictive-Processing section, the Common-Cause-Null Audit, and the Relation-to-Site-Perspective dualism and bidirectional-interaction subsections. Hedges land on framing / interpretive / dialectical claims (e.g., "the Map's reading is welcome", "the leading reading is", "the framework-boundary commitment") rather than on the empirical findings themselves (Makin programme results, Schone et al. 2025 stability finding, Guémann et al. 2023 null result) which remain in the same evidential register.
+  - Added four explicit underdetermination markers matching the audit's `UNDERDETERMINATION_PATTERNS` regex set: "compatible with both interpretations" (lead), "neither interpretation is forced by the pathway data alone" (mirror-therapy paragraph), "neither interpretation is forced by the phantom evidence alone — the data are compatible with either reading" (common-cause-null audit), and "a framing choice the data alone do not adjudicate" (neuromatrix bridge paragraph). Each marker is placed at a site where the article was already conceding framework-boundary status implicitly; the marker makes the concession explicit and audit-detectable.
+- **Post-refine metrics**: hedge_density 8.14/kw (215% of anchor), underdetermination_markers 4 (anchor: 1), strong_assertions 1/0.28-per-kw (anchor: 3/0.95-per-kw) — all three audit checks now pass; `evaluate_anchoring(topic, content_root)` returns no flags.
+- **Voice preservation**: the article's central argument structure (lead, "What Phantoms Are Like", cortical/mirror/congenital/neuromatrix/PP exposition, common-cause-null audit, "Relation to Site Perspective", "What Would Challenge This View?", further reading, references) is unchanged. The Map-distinctive claims (filter-theoretic somatic-interface reading, the framework-boundary disagreement with materialism, the common-cause-null discipline applied to the three pillars) are preserved in substance. Only the strength-of-assessment register has been recalibrated to inherit the anchor concept's hedging discipline as the audit specifies.
+- **Engagement classification**: not applicable (no named-opponent engagement modified; the article's existing framework-boundary disagreement with materialism, neuromatrix-as-promissory framing, and predictive-processing engagement remain as they were).
+- **Published**: yes (article was already published 2026-05-08; this is an in-place calibration recalibration).
+
 ## 2026-05-19T15:30:00+00:00 - deep-review
 - **Status**: Success
 - **File**: [[concepts/coupling-modes]]
