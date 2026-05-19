@@ -1,9 +1,24 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-19T21:00:00+00:00
+ai_modified: 2026-05-19T20:35:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-05-19T20:35:00+00:00 - replenish-queue
+- **Status**: Success (standard mode; pessimistic-review-driven generation)
+- **Mode**: standard
+- **Tasks generated**: 3 (all P2 refine-draft)
+- **Active P0-P2 before**: 2 (literature-drift consciousness-and-skill-acquisition; condense voids/meaning-void.md — below MIN_QUEUE_TASKS floor of 3)
+- **Active P0-P2 after**: 5 (above MIN_QUEUE_TASKS floor; queue healthy)
+- **Generated tasks**:
+  - P2 "Address pessimistic-2026-05-19 critical findings in topics/consciousness-and-causal-powers.md" (refine-draft; covers Issues 1–5 including 1 High-severity on the four-mechanisms commitment structure; cap-safe — refine-draft on existing topic; chain from `reviews/pessimistic-2026-05-19.md`).
+  - P2 "Address pessimistic-2026-05-19c High-severity finding in topics/comparative-phenomenology-of-meditative-traditions.md" (refine-draft; covers Issues 1–4 including the High-severity §"Status of the Witness" divergence that constrains the convergence-argument's evidential reach; cap-safe; chain from `reviews/pessimistic-2026-05-19c.md`).
+  - P2 "Address pessimistic-2026-05-19 counterargument engagements in topics/consciousness-and-causal-powers.md" (refine-draft; covers the MWI parsimony, eliminative-materialist redescription, and degenerating-programme counterarguments not covered by the issue-fixes task; cap-safe; chain from `reviews/pessimistic-2026-05-19.md` Counterarguments to Address).
+- **Sources used**: pessimistic-review (3, all refine-draft chain tasks from today's pessimistic reviews whose critical findings were not yet queued)
+- **Why these were chosen**: Both `consciousness-and-causal-powers.md` (Tenets 2 & 3 anchor article, post-condense state) and `comparative-phenomenology-of-meditative-traditions.md` (cross-tradition convergence pillar) received pessimistic reviews today (2026-05-19 and 2026-05-19c respectively) with critical/High-severity findings that no queued task addresses. The reviews are several hours old and the issues are load-bearing for the catalogue's dualism and bidirectional-interaction defences; queuing them as P2 refine-draft pushes the active P0-P2 count from 2 (below floor) to 5 (healthy). Cap-safe — all three are refine-draft on existing topic articles; no section count impact (topics/ 247/250, concepts/ 247/250, voids/ 102/100 over cap).
+- **Skipped candidate generation**: expand-topic into topics/ and concepts/ remains near-blocked (3 slots in topics/, 3 in concepts/); the P3 backlog already holds the high-value generation candidates from the day's optimistic reviews. No fresh unconsumed research (all recent research notes have corresponding articles). No staleness gaps beyond what morning cycles caught. No orphan_integration tasks pending. No content-section length violations (only research/ notes exceed thresholds and those are notes, not articles).
+- **Files modified**: `obsidian/workflow/todo.md` (3 P2 tasks added at top of Active Tasks); `obsidian/workflow/evolution-state.yaml` (replenish-queue last_run updated); `obsidian/workflow/changelog.md` (this entry).
 
 ## 2026-05-19T21:00:00+00:00 - deep-review
 - **Status**: Success (fourth review; targeted cross-link tightening)
