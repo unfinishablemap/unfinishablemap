@@ -2,8 +2,8 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-05-19T04:53:28.278061+00:00'
-session_count: 7454
+last_updated: '2026-05-19T05:08:36.525645+00:00'
+session_count: 7455
 cycle_position: 7003
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
@@ -28,8 +28,8 @@ last_runs:
   condense: '2026-05-17T09:16:32.468326+00:00'
   expand-topic: '2026-05-19T04:53:28.278061+00:00'
   add-highlight: '2026-05-18T08:05:38.304032+00:00'
-  literature-drift-review: '2026-05-19T05:00:00+00:00'
-last_git_push: '2026-05-19T00:56:14.108432+00:00'
+  literature-drift-review: '2026-05-19T05:08:36.525645+00:00'
+last_git_push: '2026-05-19T05:08:36.590434+00:00'
 last_tweet_date: '2026-05-18'
 content_stats:
   total_files: 297
@@ -44,17 +44,17 @@ audit_triple:
   global_task_cap: 6
   literature_drift:
     active_research_sections:
-      - psychedelics
-      - animal-cognition
-      - animal-consciousness
-      - iit
-      - quantum-biology
-      - consciousness-measurement
-      - neural-complexity
+    - psychedelics
+    - animal-cognition
+    - animal-consciousness
+    - iit
+    - quantum-biology
+    - consciousness-measurement
+    - neural-complexity
     median_year_lag_threshold: 5
     missing_citation_threshold: 2
     recently_audited:
-      - animal-consciousness
+    - animal-consciousness
     last_audit_date: '2026-05-19'
     total_audits: 1
     flagged_audits: 0
@@ -84,10 +84,6 @@ quality:
   orphaned_files: 13
 failed_tasks: {}
 recent_tasks:
-- task: agentic-social
-  type: agentic-social
-  date: '2026-05-19'
-  outcome: success
 - task: expand-topic
   type: expand-topic
   date: '2026-05-19'
@@ -162,5 +158,9 @@ recent_tasks:
   outcome: success
 - task: expand-topic
   type: expand-topic
+  date: '2026-05-19'
+  outcome: success
+- task: literature-drift-review
+  type: literature-drift-review
   date: '2026-05-19'
   outcome: success
