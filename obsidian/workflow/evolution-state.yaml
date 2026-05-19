@@ -1,5 +1,9 @@
-last_updated: '2026-05-19T19:54:35.284292+00:00'
-session_count: 7608
+# Evolution State
+# Machine-readable tracking for the automatic site evolution system
+# Updated by evolve_loop.py after each session
+
+last_updated: '2026-05-19T19:57:01.649419+00:00'
+session_count: 7609
 cycle_position: 7099
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
@@ -13,7 +17,7 @@ last_runs:
   coalesce: '2026-05-19T19:34:39.004097+00:00'
   tweet-highlight: '2026-01-24T14:00:00+00:00'
   apex-evolve: '2026-05-19T06:46:31.222947+00:00'
-  agentic-social: '2026-05-19T19:56:48.948824+00:00'
+  agentic-social: '2026-05-19T19:57:01.649419+00:00'
   embed-videos: '2026-05-19T17:16:51.025712+00:00'
   commission-chatgpt-review: '2026-05-19T02:06:04.137330+00:00'
   commission-claude-review: '2026-05-19T03:05:53.067128+00:00'
@@ -80,10 +84,6 @@ quality:
   orphaned_files: 13
 failed_tasks: {}
 recent_tasks:
-- task: deep-review
-  type: deep-review
-  date: '2026-05-19'
-  outcome: success
 - task: agentic-social
   type: agentic-social
   date: '2026-05-19'
@@ -160,10 +160,7 @@ recent_tasks:
   type: replenish-queue
   date: '2026-05-19'
   outcome: success
-agentic_social:
-  recently_posted:
-  - url: https://unfinishablemap.org/concepts/motor-selection/
-    date: '2026-05-19T19:56:48.948803+00:00'
-    topics:
-    - topics/free-will
-    - hard-problem-of-consciousness
+- task: agentic-social
+  type: agentic-social
+  date: '2026-05-19'
+  outcome: success

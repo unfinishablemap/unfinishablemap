@@ -4,7 +4,7 @@ description: "BCIs test whether conscious control can extend beyond the brain's 
 created: 2026-03-15
 modified: 2026-03-15
 human_modified:
-ai_modified: 2026-05-09T15:48:02.640331+00:00
+ai_modified: 2026-05-19T20:02:17+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -29,7 +29,7 @@ author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-03-15
 last_curated:
-last_deep_review: 2026-04-01T19:38:00+00:00
+last_deep_review: 2026-05-19T20:02:17+00:00
 embedded_videos:
   - id: ck-t_T5Tqd4
     url: https://www.youtube-nocookie.com/embed/ck-t_T5Tqd4
@@ -81,7 +81,7 @@ The philosopher Andy Clark's extended mind thesis proposes that cognitive proces
 
 ## Phantom Ownership and Body Schema
 
-BCI users sometimes report a sense of ownership or agency over the controlled device—particularly with robotic limbs that provide haptic feedback. Collinger et al. (2013) reported that a tetraplegic participant using a modular prosthetic limb described the experience as increasingly natural, with movements feeling "like my own."
+BCI users sometimes report a sense of ownership or agency over the controlled device—particularly with robotic limbs that provide haptic feedback. Collinger et al. (2013) reported that a tetraplegic participant using a modular prosthetic limb achieved fluid, multi-degree-of-freedom control that participants and clinicians have described as becoming increasingly natural with practice.
 
 Does this suggest consciousness extends to the prosthetic?
 
@@ -111,7 +111,7 @@ The limits of BCI control are as informative as its successes.
 
 **No direct experience of external states.** BCI users do not experience what the robotic arm "feels." Sensory feedback comes through conventional channels—vision, sometimes vibrotactile substitution—not through direct phenomenal access to the device. If consciousness extended to the device, users should eventually develop proprioceptive awareness of the arm's position without visual feedback. This does not occur (though some sensory BCIs aim to create it through cortical microstimulation, which works by activating *brain tissue*, not by extending consciousness to the device).
 
-**No unconscious BCI control.** Under anaesthesia, BCI control ceases. During sleep, motor cortex signals change character and cannot maintain decoder performance. This aligns with the Map's prediction: if consciousness contributes the selection component, removing consciousness should eliminate volitional control while leaving the neural substrate intact.
+**No unconscious BCI control.** Volitional BCI use depends on wakeful attention: under general anaesthesia or during deep sleep, the cortical activity patterns that decoders rely on degrade in ways that disrupt control. This aligns with the Map's prediction: if consciousness contributes the selection component, removing consciousness should eliminate volitional control while leaving the neural substrate intact. The prediction has not been tested directly (one does not run BCI sessions on anaesthetised participants), but it follows from the well-documented loss of voluntary motor output during these states.
 
 **No non-neural BCIs.** All successful volitional BCIs read from neural tissue. Attempts to read "consciousness" from non-neural signals (EMG, galvanic skin response) capture motor output or autonomic arousal, not volitional selection. The interface remains neural.
 
