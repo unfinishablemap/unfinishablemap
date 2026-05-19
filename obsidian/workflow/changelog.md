@@ -1,9 +1,20 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-19T14:25:48+00:00
+ai_modified: 2026-05-19T15:30:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-05-19T15:30:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [[concepts/coupling-modes]]
+- **Word count**: 2345 → 2366 (+21)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 1 (hypnagogic signature mapping mismatched its cited source — probability control was framed as "dissolution of agency" when the source frames it as "most robust, persisting into sleep"; rewrote the paragraph to match the source)
+- **Enhancements made**: 1
+- **Engagement classification**: not applicable (no named-opponent engagement modified; existing framework-boundary disagreements with eliminativists/physicalists/MWI defenders are bedrock and were not re-flagged)
+- **Stability**: fifth review; article has converged. The pattern is now: when new content is added, the next review checks source fidelity and either confirms or makes a small correction. Core taxonomy and tenet connections remain stable.
+- **Output**: [[reviews/deep-review-2026-05-19-coupling-modes]]
 
 ## 2026-05-19T14:25:48+00:00 - refine-draft
 - **Status**: Success

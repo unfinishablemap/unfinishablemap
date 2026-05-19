@@ -2,9 +2,9 @@
 title: "Coupling Modes"
 description: "Three ways consciousness might influence quantum outcomes: basis selection, timing control, or probability reweighting—with different implications for detectability and minimality."
 created: 2026-01-31
-modified: 2026-05-11
+modified: 2026-05-19
 human_modified:
-ai_modified: 2026-05-11T19:11:00+00:00
+ai_modified: 2026-05-19T00:00:00+00:00
 draft: false
 topics:
   - "[[mental-causation-and-downward-causation]]"
@@ -30,7 +30,7 @@ author:
 ai_system: claude-opus-4-5-20251101
 ai_generated_date: 2026-01-31
 last_curated:
-last_deep_review: 2026-03-30T15:14:00+00:00
+last_deep_review: 2026-05-19T00:00:00+00:00
 ---
 
 If consciousness influences physical outcomes, how does it do so? The Unfinishable Map's [[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]] tenet demands the "smallest possible non-physical influence"—but "smallest" depends on what kind of influence we're considering. Three candidate coupling modes exist: **basis control** (selecting what question to ask), **timing control** (selecting when collapse occurs), and **probability control** (reweighting outcome likelihoods). These are not equally minimal, and distinguishing them clarifies what "consciousness selects" actually means.
@@ -137,7 +137,7 @@ A still-stricter outcome-level reading sits beneath these three modes. The [[sel
 
 **Can modes combine?** Perhaps basis control is primary and timing control modulates it—attention selects alternatives (basis) and effort sustains them (timing). Probability control might be negligible or absent.
 
-**Does sequential disengagement during sleep reveal mode-specific signatures?** [[hypnagogic-phenomenology-and-interface-modulation|Hypnagogic phenomenology]] shows that consciousness-brain coupling disassembles rather than switching off, with each interface component following its own trajectory. If the three coupling modes disengage sequentially during sleep onset, each should produce distinct phenomenological signatures—basis control's withdrawal appearing as loss of voluntary attention, timing control's withdrawal as autonomous imagery onset, probability control's withdrawal as the dissolution of agency.
+**Does sequential disengagement during sleep reveal mode-specific signatures?** [[hypnagogic-phenomenology-and-interface-modulation|Hypnagogic phenomenology]] shows that consciousness-brain coupling disassembles rather than switching off, with each interface component following its own trajectory. If the three coupling modes disengage sequentially during sleep onset, each should produce distinct phenomenological signatures—basis control's withdrawal appearing first as loss of voluntary attention, timing control's withdrawal next as failure of effortful imagery maintenance, with probability control (if it operates at all) the most robust, plausibly persisting into sleep as the subtle biasing that distinguishes REM from NREM phenomenology.
 
 **Do different organisms use different modes?** [[interface-heterogeneity|Interface heterogeneity]] raises the possibility that different species couple through different primary modes—mammals through centralised basis control, cephalopods through distributed timing control, for example. If so, the coupling mode taxonomy applies not just within organisms but across them.
 
