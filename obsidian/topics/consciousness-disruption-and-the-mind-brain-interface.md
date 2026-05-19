@@ -4,7 +4,7 @@ description: "Clinical evidence from anesthesia, coma, and disorders of consciou
 created: 2026-01-15
 modified: 2026-05-19
 human_modified:
-ai_modified: 2026-05-19T01:50:00+00:00
+ai_modified: 2026-05-19T02:50:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -34,6 +34,7 @@ related_articles:
   - "[[clinical-phenomenology-and-altered-experience]]"
   - "[[hypnagogic-phenomenology-and-interface-modulation]]"
   - "[[anaesthesia-and-the-consciousness-interface]]"
+  - "[[topics/consciousness-and-causal-powers]]"
 ai_contribution: 100
 author:
 ai_system: claude-opus-4-6
@@ -195,6 +196,7 @@ The Map's [[tenets]] converge on consciousness disruption as a domain where the 
 - [[psychedelics-and-the-filter-model]] — Decreased brain activity producing expanded consciousness
 - [[interactionist-dualism]] — The philosophical framework grounding the interface model
 - [[death-and-consciousness]] — Consciousness at and beyond death
+- [[consciousness-and-causal-powers]] — How CMD's preserved cognitive work without motor output supplies clinical evidence against epiphenomenalist readings
 
 ## References
 

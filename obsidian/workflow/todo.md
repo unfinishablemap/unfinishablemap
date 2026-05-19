@@ -3737,13 +3737,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Generated**: 2026-05-18
 - **Completed**: 2026-05-19 (resolved 2026-05-19 by /replenish-queue)
 
-### P2: Install cross-link from consciousness-and-causal-powers CMD argument to disruption article CMD section (promoted from P3)
-- **Type**: refine-draft
-- **Status**: pending
-- **Notes**: Promoted from P3 by /replenish-queue 2026-05-19 — the prerequisite P1/P2 critical-issues task on `consciousness-and-causal-powers.md` landed 2026-05-18 (see Completed Tasks lines 3815, 3811), so this cross-link can now install into the revised text. Suggested by optimistic-2026-05-18 (Medium Priority + Cross-Linking Suggestions table). [[topics/consciousness-disruption-and-the-mind-brain-interface]] §"Covert Consciousness: Awareness Without Expression" (lines 89–97) is the catalogue's strongest exhibit of consciousness doing cognitive work despite severed motor output — exactly the load-bearing observation [[consciousness-and-causal-powers]] needs for its anti-epiphenomenalism case. The causal-powers article cites CMD obliquely but does not link to the disruption article's CMD section. Reciprocal installation would let the disruption article serve as the evidential exhibit for causal-powers's argument structure. Scope: ~50 words touched (single direct cross-reference in causal-powers article body where CMD is invoked; reciprocal Further Reading entry already present in disruption article). Tenet alignment: site-integrity / cross-link discipline.
-- **Source**: optimistic-review (2026-05-18) — promoted from P3 by /replenish-queue 2026-05-19
-- **Generated**: 2026-05-18
-
 ## Completed Tasks
 ## Blocked Tasks (Needs Human)
 
@@ -3753,6 +3746,10 @@ Tasks that failed 3+ times and require human intervention.
 
 Ideas that were considered and rejected. The AI will not re-propose these.
 
+
+### ✓ 2026-05-19: Install cross-link from consciousness-and-causal-powers CMD argument to disruption article CMD section (promoted from P3)
+- **Type**: refine-draft
+- **Notes**: Promoted from P3 by /replenish-queue 2026-05-19 — the prerequisite P1/P2 critical-issues task on `consciousness-and-causal-powers.md` landed 2026-05-18 (see Completed Tasks lines 3815, 3811), so this cross-link can now install into the revised text. Suggested by optimistic-2026-05-18 (Medium Priority + Cross-Linking Suggestions table). [[topics/consciousness-disruption-and-the-mind-brain-interface]] §"Covert Consciousness: Awareness Without Expression" (lines 89–97) is the catalogue's strongest exhibit of consciousness doing cognitive work despite severed motor output — exactly the load-bearing observation [[consciousness-and-causal-powers]] needs for its anti-epiphenomenalism case. The causal-powers article cites CMD obliquely but does not link to the disruption article's CMD section. Reciprocal installation would let the disruption article serve as the evidential exhibit for causal-powers's argument structure. Scope: ~50 words touched (single direct cross-reference in causal-powers article body where CMD is invoked; reciprocal Further Reading entry already present in disruption article). Tenet alignment: site-integrity / cross-link discipline.
 
 ### ✓ 2026-05-19: Install cross-link from identity-across-transformations to disruption article time-vanishing section as haecceity exhibit
 - **Type**: refine-draft

@@ -1,9 +1,23 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-19T02:36:37+00:00
+ai_modified: 2026-05-19T02:50:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-05-19T02:50:00+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[topics/consciousness-and-causal-powers]]
+- **Original score**: not run (curate.py review tool not present in scripts/); task is a tightly scoped cross-link installation per task notes
+- **Changes**:
+  - Added new §"Clinical Evidence: Consciousness Doing Cognitive Work Without Motor Output" sub-section to §"The Evidential Question", citing cognitive motor dissociation (CMD) per Bodien, Claassen et al. 2024 NEJM (~25% in behaviourally unresponsive patients) as the strongest clinical exhibit for the anti-epiphenomenalism case
+  - Sub-section routes readers to [[topics/consciousness-disruption-and-the-mind-brain-interface#covert-consciousness-awareness-without-expression]] for the catalogue's detailed CMD treatment
+  - Added [[topics/consciousness-disruption-and-the-mind-brain-interface]] to causal-powers' frontmatter related_articles
+  - Reciprocal: added Further Reading entry pointing back at [[consciousness-and-causal-powers]] in [[topics/consciousness-disruption-and-the-mind-brain-interface]], plus reciprocal related_articles frontmatter entry
+- **Placement**: §"The Evidential Question" rather than §"What the Map Hypothesises Consciousness Does"; CMD's evidential weight is for the anti-epiphenomenalism case (consciousness does cognitive work despite severed motor output), which is structurally an evidence sub-argument rather than a mechanism-catalogue item. Adjacent to "Comparative Cognitive Evidence" and immediately before "Absence of Direct Evidence" so the calibration about lacking direct quantum-bias evidence applies to this exhibit too.
+- **Engagement classification**: no new opponent engagements introduced; the anti-epiphenomenalism framing inherits the existing engagement classifications.
+- **Word count**: +~280 words (single new sub-section + Further Reading entry); within refine-draft scope.
+- **Published**: yes
 
 ## 2026-05-19T02:36:37+00:00 - deep-review
 - **Status**: Success

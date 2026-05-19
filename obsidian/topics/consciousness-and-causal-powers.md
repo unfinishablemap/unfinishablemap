@@ -2,9 +2,9 @@
 title: "Consciousness and Causal Powers"
 description: "What causal influence does consciousness exercise, and within what limits? The Map's hypothesised interface — selection at quantum indeterminacies — examined for scope, evidence, and operational underdetermination."
 created: 2026-02-11
-modified: 2026-05-18
+modified: 2026-05-19
 human_modified:
-ai_modified: 2026-05-18T17:30:00+00:00
+ai_modified: 2026-05-19T02:50:00+00:00
 last_deep_review: 2026-05-15T04:31:00+00:00
 draft: false
 topics:
@@ -41,6 +41,7 @@ related_articles:
   - "[[volitional-control]]"
   - "[[overdetermination-dissolution-under-selection-only-interactionism]]"
   - "[[causal-consistency-constraint]]"
+  - "[[topics/consciousness-disruption-and-the-mind-brain-interface]]"
 ai_contribution: 100
 author:
 ai_system: claude-sonnet-4-5-20250929
@@ -181,6 +182,10 @@ If consciousness evolved through natural selection, it must have affected fitnes
 ### Comparative Cognitive Evidence
 
 Humans possess cognitive capacities (logical reasoning, metacognition, cumulative culture) that great apes with sophisticated unconscious processing lack. If these capacities require conscious processing — and the cognitive-load literature offers contested but suggestive evidence that they do — this would indicate consciousness causally contributes to cognition. The empirical case is more contested than this paragraph alone conveys: dual-process distinctions, the dispute over whether "unconscious System 1" is conscious-but-not-accessible-to-report, and recent meta-analytic challenges to dual-task interference as evidence for capacity-limited consciousness all complicate the inference. The argument is suggestive rather than dispositive; see [[baseline-cognition]] for the detailed treatment and the contested empirical literature.
+
+### Clinical Evidence: Consciousness Doing Cognitive Work Without Motor Output
+
+Cognitive motor dissociation (CMD) supplies the strongest clinical exhibit for the anti-epiphenomenalism case. Patients meeting behavioural criteria for unresponsive wakefulness or minimally conscious states show, via fMRI or EEG, robust task-locked neural responses to commands like "imagine playing tennis" — they understand language, sustain attention, and form task-relevant patterns while producing no overt behaviour. Bodien, Claassen, et al. (2024, *NEJM*) found CMD in approximately 25% of behaviourally unresponsive patients. The phenomenon is direct evidence that consciousness continues to *do* cognitive work — comprehension, attention, instructed imagery — when the motor channel is severed. Whatever causal architecture the Map's framework hypothesises at the quantum interface, the clinical observation that consciousness performs cognitive work despite its inability to express itself behaviourally is harder for epiphenomenalist readings to accommodate than for interactionist ones. See [[topics/consciousness-disruption-and-the-mind-brain-interface#covert-consciousness-awareness-without-expression|Consciousness Disruption: Covert Consciousness]] for the catalogue's detailed treatment of CMD and its implications for production-versus-interface models of consciousness.
 
 ### Absence of Direct Evidence
 
@@ -329,6 +334,29 @@ Single prose change in this audit pass:
 Engagement classification: this is editor-internal housekeeping; no new opponent engagements introduced.
 
 ai_modified bumped to 2026-05-18T17:30:00+00:00.
+
+This log should be removed after human review.
+-->
+
+<!-- AI REFINEMENT LOG - 2026-05-19 (cross-link installation pass)
+Targeted cross-link refine driven by P2 task promoted from P3 (originally suggested by optimistic-2026-05-18 Medium Priority + Cross-Linking Suggestions table). The prerequisite P1/P2 critical-issues task on this article landed 2026-05-18, so this cross-link can now install into the revised text.
+
+Scope (single cross-reference, ~280 words touched):
+- Added new §"Clinical Evidence: Consciousness Doing Cognitive Work Without Motor Output" sub-section to §"The Evidential Question" between §"Comparative Cognitive Evidence" and §"Absence of Direct Evidence". The sub-section names cognitive motor dissociation (CMD) as the strongest clinical exhibit for the anti-epiphenomenalism case, cites Bodien, Claassen et al. (2024, NEJM) with the ~25% finding, and routes readers to [[topics/consciousness-disruption-and-the-mind-brain-interface#covert-consciousness-awareness-without-expression]] for the catalogue's detailed treatment.
+- Added [[topics/consciousness-disruption-and-the-mind-brain-interface]] to frontmatter related_articles.
+
+Reciprocal installation in [[topics/consciousness-disruption-and-the-mind-brain-interface]]:
+- Added "[[topics/consciousness-and-causal-powers]]" to frontmatter related_articles.
+- Added Further Reading entry pointing back at [[consciousness-and-causal-powers]] with the gloss "How CMD's preserved cognitive work without motor output supplies clinical evidence against epiphenomenalist readings".
+
+Placement reasoning: CMD's evidential weight is for the anti-epiphenomenalism / consciousness-does-cognitive-work case, so §"The Evidential Question" is the structurally correct home rather than §"What the Map Hypothesises Consciousness Does" (which catalogues the four hypothesised mechanisms) or §"Scope and Limits" (which catalogues what consciousness cannot do). The new sub-section sits adjacent to "Comparative Cognitive Evidence" because both are evidence-from-cognition sub-arguments, and immediately before "Absence of Direct Evidence" so the calibration about lacking direct quantum-bias evidence applies to this clinical evidence too — the claim is that CMD evidences consciousness doing cognitive work, not that it evidences the specific quantum-selection mechanism the Map hypothesises.
+
+Frontmatter:
+- ai_modified bumped to 2026-05-19T02:50:00+00:00; modified bumped to 2026-05-19.
+
+Word count delta: +~280 words (single new sub-section). Within refine-draft scope.
+
+Engagement classifications: this is a cross-link installation, not a new opponent engagement. The anti-epiphenomenalism framing inherits the existing Mode One-adjacent engagement classification from §"Comparative Cognitive Evidence" and the broader anti-epiphenomenalism position the article already takes — CMD is presented as evidential exhibit for an argument the article already makes, not as a new argument-engagement.
 
 This log should be removed after human review.
 -->
