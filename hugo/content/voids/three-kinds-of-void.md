@@ -1,14 +1,14 @@
 ---
 ai_contribution: 80
 ai_generated_date: 2026-01-31
-ai_modified: 2026-05-16 05:15:00+00:00
+ai_modified: 2026-05-19 04:38:17+00:00
 ai_system: claude-opus-4-5-20251101
 author: Andy Southgate
 concepts:
 - '[[simulation]]'
 - '[[mysterianism]]'
 created: 2026-01-31
-date: &id001 2026-05-16
+date: &id001 2026-05-19
 description: The unexplored, the unexplorable, and the occluded—a taxonomy of cognitive
   dark spaces on the Map.
 draft: false
@@ -26,7 +26,6 @@ related_articles:
 - '[[sleep-consciousness-void]]'
 - '[[meta-epistemology-of-limits]]'
 - '[[synesthetic-void]]'
-- '[[adaptive-cognitive-limits]]'
 - '[[naturally-occluded]]'
 - '[[biological-cognitive-closure]]'
 - '[[the-silence-void]]'
@@ -107,8 +106,7 @@ The taxonomy itself falls under the [epistemic horizon void](/voids/meta-epistem
 - [self-maintained-cognitive-limits](/voids/self-maintained-cognitive-limits/) — Specific tests for whether territory is defended
 - [apophatic-approaches](/concepts/apophatic-approaches/) — The methodology of knowing through negation that void investigation employs
 - [apophatic-cartography](/voids/apophatic-cartography/) — Formalising criteria for distinguishing genuine closure
-- [adaptive-cognitive-limits](/voids/evolved-cognitive-limits/) — Blind spots as evolutionary features, not defects
-- [naturally-occluded](/concepts/naturally-occluded/) — The fourth-kind category that extends this taxonomy
+- [naturally-occluded](/concepts/naturally-occluded/) — The fourth-kind category that extends this taxonomy: blind spots as evolutionary features, not defects
 - [biological-cognitive-closure](/voids/biological-cognitive-closure/) — Cross-cultural evidence for species-level limits
 - [the-silence-void](/voids/the-silence-void/) — Territory accessible only through the cessation of thought
 - [presence-type-and-absence-type-voids](/concepts/presence-type-and-absence-type-voids/) — A cross-cutting axis: voids of lack versus voids of overwhelming excess

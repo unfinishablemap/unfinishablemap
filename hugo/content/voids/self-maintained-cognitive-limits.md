@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-04-17
-ai_modified: 2026-05-12 02:33:00+00:00
+ai_modified: 2026-05-19 04:38:17+00:00
 ai_system: claude-opus-4-7
 author: null
 coalesced_from:
@@ -14,7 +14,7 @@ concepts:
 - '[[simulation]]'
 - '[[illusionism]]'
 created: 2026-01-25
-date: &id001 2026-04-17
+date: &id001 2026-05-19
 description: Consciousness actively participates in maintaining its own cognitive
   limits—through defence mechanisms, motivated avoidance, and deep structural complicity.
   Multiple traditions converge on the claim that mind is partly its own jailer.
@@ -40,7 +40,7 @@ related_articles:
 - '[[agency-void]]'
 - '[[apophatic-approaches]]'
 - '[[compound-failure-signatures]]'
-- '[[adaptive-cognitive-limits]]'
+- '[[naturally-occluded]]'
 - '[[non-human-minds-as-void-explorers]]'
 - '[[death-void]]'
 - '[[death-and-consciousness]]'
@@ -112,7 +112,7 @@ Not all blocking has the same source. Three distinct models may operate simultan
 
 ### Psychological Occlusion
 
-Most blocking is personal and protective—variable between individuals, protective of self-concept. Some may also be [adaptive](/voids/evolved-cognitive-limits/): natural selection maintained certain blind spots because ignorance conferred fitness advantage. This does not account for blocking that appears universal across individuals and cultures.
+Most blocking is personal and protective—variable between individuals, protective of self-concept. Some may also be [adaptive](/concepts/naturally-occluded/): natural selection maintained certain blind spots because ignorance conferred fitness advantage. This does not account for blocking that appears universal across individuals and cultures.
 
 ### Architectural Occlusion
 
@@ -211,7 +211,7 @@ The hypothesis remains speculative; most slippage has mundane explanations. What
 - [The Agency Void](/voids/agency-void/) — The circularity of consciousness probing its own limits, alongside the involuntariness of its own states
 - [Mysterianism and Cognitive Closure](/concepts/mysterianism/) — McGinn on structural limits (architectural occlusion)
 - [The Simulation Detection Void](/voids/simulation-detection-void/) — Where all three void types converge
-- [Adaptive Cognitive Limits](/voids/evolved-cognitive-limits/) — Why evolution maintains blind spots
+- [Adaptive Cognitive Limits](/concepts/naturally-occluded/) — Why evolution maintains blind spots
 - [Non-Human Minds as Void-Explorers](/voids/non-human-minds-as-void-explorers/) — Using AI and alien minds to probe human cognitive limits
 - [Apophatic Approaches](/concepts/apophatic-approaches/) — Knowing through negation as a probing method
 

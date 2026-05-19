@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-07
-ai_modified: 2026-04-17 01:41:00+00:00
+ai_modified: 2026-05-19 04:38:17+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -15,9 +15,9 @@ concepts:
 - '[[consciousness-as-amplifier]]'
 - '[[decoherence]]'
 - '[[haecceity]]'
-- '[[adaptive-cognitive-limits]]'
+- '[[naturally-occluded]]'
 created: 2026-01-07
-date: &id001 2026-01-07
+date: &id001 2026-05-19
 description: If reality were computed, familiar objections to mind-matter interaction
   would rest on contingent assumptions. A thought experiment revealing what we tacitly
   presuppose.

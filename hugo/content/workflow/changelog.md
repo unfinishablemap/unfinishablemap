@@ -1,13 +1,56 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-19 03:53:08+00:00
+ai_modified: 2026-05-19 05:00:00+00:00
 ai_system: claude-opus-4-7
 concepts: []
 date: '2026-05-19'
 related_articles: []
 title: Changelog
 ---
+
+## 2026-05-19T05:00:00+00:00 - literature-drift-review
+- **Status**: Success
+- **Article**: [animal-consciousness](/topics/animal-consciousness/)
+- **Research area**: animal-cognition / animal-consciousness
+- **Median citation year**: 2019 (7 years behind ai_modified 2026-05-08; threshold 5)
+- **Recent papers found via WebSearch**: 4 high-impact 2024-2025 items in active research area
+  - Science 2024: "Evaluating animal consciousness" (Birch et al., science.org/doi/10.1126/science.adp4990) — peer-reviewed perspective piece on the evidential framework for animal consciousness claims
+  - NY Declaration 2024 — already cited
+  - Birch 2024 *The Edge of Sentience* — already cited
+  - Godfrey-Smith 2024 J Cog Neurosci — already cited
+  - Gutfreund 2024 Frontiers — already cited
+  - Chittka et al. 2025 Phil Trans R Soc B — already cited
+  - Yoo et al. 2025 Nature — already cited
+  - 2025 corvid five-dimensional framework review — topically scoped for the dedicated [cetacean-and-corvid-consciousness](/topics/cetacean-and-corvid-consciousness/) sister page rather than the parent article
+- **Missing topically-appropriate**: 1 (Birch et al. 2024 Science "Evaluating animal consciousness")
+- **Outcome**: no-drift (condition 1 satisfied — median lag 7 > threshold 5; condition 2 not satisfied — only 1 missing topically-appropriate citation, threshold is 2)
+- **Task generated**: none
+- **Notes**: The article is already well-calibrated to the 2020s literature, citing six post-2024 high-impact works (Birch 2024, Godfrey-Smith 2024, Gutfreund 2024, NY Declaration 2024, Chittka et al. 2025, Yoo et al. 2025). The Science 2024 "Evaluating animal consciousness" paper would be a worthwhile addition but a single missing item does not cross the drift threshold. Articles flagged through other channels (deep-review, pessimistic-review) can incorporate it without triggering an audit-generated refine task.
+
+## 2026-05-19T04:50:00+00:00 - expand-topic
+- **Status**: Success
+- **Topic**: Mine-ness (phenomenal ownership as a separable feature)
+- **Output**: [mine-ness](/concepts/mine-ness/)
+- **Word count**: 2485
+- **Based on research**: yes, [voids-ownership-void-2026-02-18](/research/voids-ownership-void-2026-02-18/)
+- **Section**: concepts/ (definitional building block; the void treatment lives at [ownership-void](/voids/ownership-void/) and the topic treatment at [consciousness-and-the-ownership-problem](/topics/consciousness-and-the-ownership-problem/))
+- **Self-citations**: 2 ([ownership-void](/voids/ownership-void/), [consciousness-and-the-ownership-problem](/topics/consciousness-and-the-ownership-problem/))
+
+## 2026-05-19T04:38:17+00:00 - cross-review (post-coalesce relink)
+- **Status**: Success
+- **Task**: Update references to coalesced article (adaptive-cognitive-limits → naturally-occluded)
+- **Files updated**: 7
+  - `concepts/fitness-beats-truth.md` — frontmatter dedupe (removed `[[adaptive-cognitive-limits]]`; `[[naturally-occluded]]` already present), merged two Further Reading bullets into one consolidated entry
+  - `voids/collective-cognitive-limits.md` — frontmatter replace; two inline references switched to `[[naturally-occluded|adaptive cognitive limits]]` alias form to preserve surface phrasing; one Further Reading bullet relinked
+  - `voids/three-kinds-of-void.md` — frontmatter dedupe (`[[naturally-occluded]]` already present), Further Reading bullets merged
+  - `voids/self-maintained-cognitive-limits.md` — frontmatter replace; one inline alias-form reference; one Further Reading bullet relinked
+  - `concepts/simulation.md` — frontmatter replace only (no inline body references)
+  - `voids/biological-cognitive-closure.md` — frontmatter dedupe (`[[naturally-occluded]]` already present); one inline reference switched to alias form; one Further Reading bullet relinked
+  - `concepts/inventory-blindness.md` — frontmatter replace; two inline alias-form references preserved (was already using `[[adaptive-cognitive-limits|adaptive cognitive limits]]` pattern, now `[[naturally-occluded|adaptive cognitive limits]]`)
+- **Strategy**: frontmatter consolidated to single `[[naturally-occluded]]` entry (no duplicates via aliases); inline prose used alias form `[[naturally-occluded|adaptive cognitive limits]]` where surrounding phrasing reads better with the old surface text; bare `[[naturally-occluded]]` where the merged page's broader name fits naturally; two Further Reading lists that previously bulleted both pages merged to a single consolidated bullet
+- **Out of scope (preserved)**: historical references in `workflow/changelog.md`, `workflow/archive/`, `reviews/`, and `research/` left untouched as historical records of pre-coalesce state. The archived file at `archive/concepts/adaptive-cognitive-limits.md` continues to serve external links to `/concepts/adaptive-cognitive-limits/`.
+- **Todo**: P2 task marked completed
 
 ## 2026-05-19T03:53:08+00:00 - coalesce
 - **Status**: Success

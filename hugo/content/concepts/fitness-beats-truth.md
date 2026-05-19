@@ -1,13 +1,13 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-15
-ai_modified: 2026-05-16 21:00:00+00:00
+ai_modified: 2026-05-19 04:38:17+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
 - '[[mysterianism]]'
 created: 2026-03-15
-date: &id001 2026-04-24
+date: &id001 2026-05-19
 description: Hoffman, Singh & Prakash's formal proof that natural selection favours
   fitness-tuned perception over veridical perception—and why this undermines parsimony
   arguments against dualism.
@@ -21,7 +21,6 @@ related_articles:
 - '[[phenomenal-transparency-opacity-spectrum]]'
 - '[[perceptual-failure-and-the-interface]]'
 - '[[perceptual-degradation-and-the-interface]]'
-- '[[adaptive-cognitive-limits]]'
 - '[[the-quantitative-comprehension-void]]'
 - '[[naturally-occluded]]'
 - '[[tenets]]'
@@ -97,8 +96,7 @@ For **[Bidirectional Interaction](/tenets/#bidirectional-interaction)**, the FBT
 ## Further Reading
 
 - [biological-cognitive-closure](/voids/biological-cognitive-closure/) — How cognitive limits function as adaptive features shaped by natural selection
-- [adaptive-cognitive-limits](/voids/evolved-cognitive-limits/) — The broader framework of evolution-maintained cognitive boundaries
-- [naturally-occluded](/concepts/naturally-occluded/) — The fourth-kind void category for which FBT is the formal-mathematical anchor
+- [naturally-occluded](/concepts/naturally-occluded/) — The broader framework of evolution-maintained cognitive boundaries and the fourth-kind void category for which FBT is the formal-mathematical anchor
 - [Phenomenal transparency](/concepts/phenomenal-transparency-opacity-spectrum/) — Why experience conceals its own representational character
 - [perceptual-failure-and-the-interface](/topics/perceptual-failure-and-the-interface/) — Perceptual failure analysed through Hoffman's interface framework
 - [perceptual-degradation-and-the-interface](/concepts/perceptual-degradation-and-the-interface/) — What degraded perception reveals about the interface's architecture
