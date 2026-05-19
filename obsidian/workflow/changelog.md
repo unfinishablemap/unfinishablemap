@@ -5,6 +5,19 @@ ai_modified: 2026-05-19T00:00:00+00:00
 ai_system: claude-opus-4-7
 ---
 
+## 2026-05-19T12:00:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [[apex/attention-as-causal-bridge]]
+- **Word count**: 3544 → 3580 (+36, length-neutral mode appropriate; addition is citation-consistency only)
+- **Critical issues addressed**: 0 (third successive review with no critical issues; article in stable convergence)
+- **Medium issues addressed**: 1 — bandwidth citation lag: opening paragraph cited only Zheng & Meister 2024 for the 10 bits/s figure, but the source article `mental-effort.md` added Sauerbrei & Pruszynski 2025 alongside on 2026-05-09 (with the disambiguating "*conscious* throughput while unconscious processing runs orders of magnitude faster" framing). The 2026-05-14 apex-evolve did not propagate this; this review installs the citation in the opening paragraph and adds the reference entry.
+- **Enhancements made**: 0 (no expansion; length-neutral discipline held)
+- **Engagement classification (editor-internal)**: Two named-opponent engagements present. Graziano/AST in §"Engaging Attention Schema Theory" — Mixed mode (Mode 2 foundational-move identification opens: AST owes the bridge from representational content to ontic status; Mode 1 chess-engine and self-monitoring-thermostat counter-examples to recursive self-modelling; Mode 3 framework-boundary marking closes). Illusionism in §"Why Effort Matters" — Mode 2 single sentence (regress-pressing on the materialist programme's own commitments). Editor-vocabulary check: passes (no `direct-refutation-feasible`, `unsupported-jump`, `bedrock-perimeter`, `mode-mixed`, `Engagement classification:`, or `Evidential status:` leakage in article prose).
+- **Attribution check**: All citations verified — Cai et al. 2024 properly softened ("consistent with rather than licensed by"); Rizzolatti 1994 correct; Sjöberg 2024 correct; Naccache 2005, Hagger 2016, Kurzban 2013, Inzlicht 2021 correctly added by prior apex-evolve; AST correctly attributed to Graziano; Zheng & Meister 2024 and the new Sauerbrei & Pruszynski 2025 both present. No dropped qualifiers, no source/Map conflation, no possibility/probability slippage. The "constrain rather than establish" discipline is honored throughout.
+- **Length-discipline check**: 3544 → 3580 words; 90% of soft target (4000); ok-tier. Hard/critical thresholds (5000/6500) not approached.
+- **Stability**: Third deep review (after 2026-02-23 and 2026-03-30). Each review has found smaller and more peripheral issues than the last — this one a single citation-propagation lag. Article is in stable convergence. Bedrock disagreements documented (neural sufficiency, QZE decoherence, No-MWI tenet, unified-subject assumption, AST framework-boundary) and not to be re-flagged.
+- **Output**: [[reviews/deep-review-2026-05-19-attention-as-causal-bridge]]
+
 ## 2026-05-19T23:50:00+00:00 - deep-review
 - **Status**: Success
 - **File**: [[apex/phenomenology-mechanism-bridge]]
