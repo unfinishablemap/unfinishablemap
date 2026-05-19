@@ -1,9 +1,17 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-19T23:45:00+00:00
+ai_modified: 2026-05-19T00:00:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-05-19T00:00:00+00:00 - condense
+- **Status**: Success
+- **File**: [[voids/meaning-void]]
+- **Before**: 2959 words
+- **After**: 2076 words
+- **Reduction**: 30%
+- **Technique**: Trimmed opening and "Two Faces" introductions; consolidated Searle + Harnad into a single "Original Intentionality and Symbol Grounding" section; tightened Hesperus/Frege/Pitt into one section; compressed phenomenal intentionality and naturalisation sections; cut two of six edge-phenomenology bullets (Hesperus moment as duplicate of opening + translation failure as weakest); compressed "Why Structural" by merging unexplorable/occluded sub-bullets into prose; trimmed each tenet subsection in "Relation to Site Perspective" by ~25%; reduced Further Reading from 17 to 11 entries (dropped strongest-overlap items: imagination-and-creativity-void, mattering-void, compound-failure-signatures, what-voids-reveal, consciousness-only-territories, apophatic-cartography).
 
 ## 2026-05-19T23:45:00+00:00 - refine-draft
 - **Status**: Success
