@@ -1,9 +1,23 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-19T17:30:00+00:00
+ai_modified: 2026-05-19T18:00:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-05-19T18:00:00+00:00 - deep-review
+- **Status**: Success
+- **Mode**: Cross-link audit — verify reciprocal links between [[project/calibration-audit-triple]] and named methodology siblings (per /deep-review argument)
+- **File**: [[project/calibration-audit-triple]]
+- **Previous review**: [[reviews/deep-review-2026-05-17-calibration-audit-triple|2026-05-17]]
+- **Word count**: 3653 → 3671 (+18; 146% → 147% of 2500 soft threshold; hard_warning, length-neutral within sibling-page norms)
+- **Critical issues addressed**: 1 (missing reciprocal links to two sibling articles added after the 2026-05-17 reciprocity sweep — `concepts/cross-mechanism-convergence.md` and `project/voids-circularity-discount.md`)
+- **Medium issues addressed**: 0
+- **Enhancements made**: 4 link sites installed (2 outgoing from triple, 1 each incoming from the two siblings; frontmatter + Further Reading at each site); 1 redundant sentence tightened in "Why a Triple" section to remain length-neutral
+- **Engagement modes**: none — article is editorial-machinery documentation, does not engage named opponents
+- **Bedrock disagreements noted in archive**: none applicable (methodology infrastructure)
+- **Files touched**: [[project/calibration-audit-triple]], [[concepts/cross-mechanism-convergence]], [[project/voids-circularity-discount]]
+- **Output**: [[reviews/deep-review-2026-05-19-calibration-audit-triple]]
 
 ## 2026-05-19T17:30:00+00:00 - deep-review
 - **Status**: Success

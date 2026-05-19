@@ -2,10 +2,10 @@
 title: "Calibration Audit Triple: Literature Drift, Altered-State Symmetry, Topic-Concept Anchoring"
 description: "Three new audits detect drift the existing methodology does not catch: stale citations, asymmetric handling of altered states, and topic articles more confident than their anchor concept pages."
 created: 2026-05-14
-modified: 2026-05-17
+modified: 2026-05-19
 human_modified: null
-ai_modified: 2026-05-17T00:00:00+00:00
-last_deep_review: 2026-05-17T00:00:00+00:00
+ai_modified: 2026-05-19T16:00:00+00:00
+last_deep_review: 2026-05-19T16:00:00+00:00
 draft: false
 topics: []
 concepts: []
@@ -19,6 +19,8 @@ related_articles:
   - "[[outer-reviewer-service-calibration]]"
   - "[[framework-stage-calibration]]"
   - "[[bedrock-clash-vs-absorption]]"
+  - "[[voids-circularity-discount]]"
+  - "[[concepts/cross-mechanism-convergence]]"
   - "[[writing-style]]"
   - "[[reviews/outer-review-2026-05-14-claude-opus-4-7]]"
   - "[[reviews/outer-review-2026-05-14-chatgpt-5-5-pro]]"
@@ -144,9 +146,7 @@ The three audits are bundled into one document because they share a structural s
 3. Specifies a *remediation* — typically a P2 `refine-draft` task with structured notes.
 4. Runs on a *bounded budget* — weekly for the expensive audit, cycle-frequency for the cheap ones.
 
-Bundling them documents the *class* of audit the triple instantiates. Future audits in the same class — *cross-article terminology consistency*, *citation-loop detection beyond the existing coherence-inflation pass*, *steelman-section freshness* — can be added against the same shape. The class shape is: pairwise comparison between an article and a reference, drift threshold, mechanical detection, structured remediation. This is the audit-class spec the triple establishes; the three initial members are worked examples.
-
-The alternative — three separate documents — would lose the class-level claim. The Map already has seven named methodological disciplines; adding three more as singletons would dilute the discipline-naming convention without making the new shared structure visible.
+Bundling documents the *class* of audit the triple instantiates: pairwise comparison between an article and a reference, drift threshold, mechanical detection, structured remediation. Future audits in the same class — *cross-article terminology consistency*, *citation-loop detection beyond the existing coherence-inflation pass*, *steelman-section freshness* — can be added against the same shape. The three initial members are worked examples; three separate documents would lose this class-level claim and dilute the discipline-naming convention without making the new shared structure visible.
 
 ## Pre-Registered Falsification Triggers
 
@@ -183,6 +183,8 @@ Beyond tenet alignment, the triple feeds back into [[coherence-inflation-counter
 - [[outer-review-empirical-vs-methodological-freshness]] — companion in the outer-review-channel family; specifies how to weight outer reviewers whose empirical claims fail verification, complementing the literature-drift audit's internal-verification step
 - [[outer-reviewer-service-calibration]] — companion in the outer-review-channel family; specifies which outer reviewer to use for which subject type
 - [[bedrock-clash-vs-absorption]] — sister discipline at the within-article level; altered-state symmetry handles convergence-counting where bedrock-clash handles rival-position preservation
+- [[voids-circularity-discount]] — catalogue-level sibling at the convergence-discipline layer; altered-state symmetry (Audit Two) is the cross-article enforcement of the same anti-double-counting move the voids discount applies at the catalogue
+- [[concepts/cross-mechanism-convergence]] — evidence-pattern sibling; the audit triple's altered-state symmetry guards against the convergence-by-accident failure mode this pattern names
 - [[writing-style]] — house style; the audits operate against the calibration conventions this guide establishes
 - [[automation]] — the broader automation system in which the audits run
 - [[reviews/outer-review-2026-05-14-claude-opus-4-7]] — the originating outer review that proposed all three audits together

@@ -2,9 +2,9 @@
 title: "The Voids-Circularity Discount"
 description: "Voids catalogued under a framework cannot supply framework-independent evidence for that framework. The discount applies per-cluster independence scoring and prohibits double-counting of tenet-generated voids."
 created: 2026-05-13
-modified: 2026-05-16
+modified: 2026-05-19
 human_modified: null
-ai_modified: 2026-05-16T23:51:00+00:00
+ai_modified: 2026-05-19T16:00:00+00:00
 draft: false
 topics: []
 concepts: []
@@ -18,6 +18,7 @@ related_articles:
   - "[[coherence-inflation-countermeasures]]"
   - "[[bedrock-clash-vs-absorption]]"
   - "[[framework-stage-calibration]]"
+  - "[[calibration-audit-triple]]"
   - "[[closed-loop-opportunity-execution]]"
   - "[[testability-ledger]]"
   - "[[writing-style]]"
@@ -105,6 +106,7 @@ The catalogue retains its value under the discount. Voids document what the stan
 - [[coherence-inflation-countermeasures]] — system-level guards the discount complements
 - [[bedrock-clash-vs-absorption]] — sister discipline at the within-article level
 - [[framework-stage-calibration]] — sister discipline at the framework level
+- [[calibration-audit-triple]] — corpus-level audit family at the drift layer; altered-state symmetry (Audit Two) operationalises the same anti-double-counting move the present discount applies at the voids catalogue
 - [[testability-ledger]] — what the framework treats as decisive disconfirmation
 - [[apex/taxonomy-of-voids]] — the catalogue the discount is most often applied to
 - [[tenet-generated-voids]] — the sub-catalogue subject to the strict prohibition

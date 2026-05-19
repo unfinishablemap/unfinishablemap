@@ -4,7 +4,7 @@ description: "When mechanism-distinct perturbations produce the same downstream 
 created: 2026-05-19
 modified: 2026-05-19
 human_modified: null
-ai_modified: 2026-05-19T15:00:00+00:00
+ai_modified: 2026-05-19T16:00:00+00:00
 last_deep_review: 2026-05-19T09:40:36+00:00
 draft: false
 topics:
@@ -21,6 +21,7 @@ related_articles:
   - "[[discrimination-problem]]"
   - "[[project/common-cause-null]]"
   - "[[project/coherence-inflation-countermeasures]]"
+  - "[[project/calibration-audit-triple]]"
 ai_contribution: 100
 author: null
 ai_system: claude-opus-4-7
@@ -105,6 +106,7 @@ Indirectly, the pattern serves the Map's central commitment to a structured cons
 - [[cluster-integration-discipline]] — Sister discipline at the argument-architecture layer: cluster-integration governs how a single article structures a multi-part inference; cross-mechanism convergence governs how multiple findings converge on a structural feature
 - [[project/common-cause-null]] — Sister discipline at the convergence-evaluation grain: convergence-without-substance is the failure mode this discipline guards against
 - [[project/coherence-inflation-countermeasures]] — System-level inflation-resistance the discipline contributes to
+- [[project/calibration-audit-triple]] — Corpus-level audit family that operationalises the convergence-evaluation discipline; altered-state symmetry (Audit Two) is the cross-article enforcement against the convergence-by-accident failure mode this pattern names
 - [[discrimination-problem]] — The structural-asymmetry result at the consciousness-epistemology grain; cross-mechanism convergence is one move that can sometimes break the underdetermination the discrimination problem names
 - [[anaesthesia-and-the-consciousness-interface]] — The empirical anchor article where the pattern appears across multiple subsections
 
