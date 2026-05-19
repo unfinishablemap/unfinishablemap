@@ -1,9 +1,35 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-19T18:08:20+00:00
+ai_modified: 2026-05-19T18:00:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-05-19T18:00:00+00:00 - deep-review
+- **Status**: Success
+- **Mode**: Cross-review chain — install reciprocal cross-links to the new concept page [[concepts/process-content-distinction]] across siblings that already discuss the process/content distinction inline (chain from 2026-05-19 expand-topic creating the concept page)
+- **Anchor article**: [[concepts/process-content-distinction]]
+- **Siblings audited**: 9 — task-listed candidates (a) through (g)
+- **Articles modified**: 8 + 1 reciprocal (source page); cross-mechanism-convergence skipped on task's own conditional logic
+- **Audit question**: Does the candidate article (i) discuss the process/content asymmetric-reliability finding inline, and (ii) currently lack a direct cross-link to the new concept page? Where both conditions met, install reciprocal cross-link + frontmatter entry + Further Reading entry.
+- **Critical issues addressed**: 0 (audit found no factual errors or misattributions in any candidate)
+- **Medium issues addressed**: 0 (cross-link installations are calibration-aligning rather than substantive corrections)
+- **Per-article findings**:
+  - phenomenal-authority — INSTALLED at §"Process/content distinction." (bolded heading → linked); concept added to `concepts:`; Further Reading entry added
+  - introspection — INSTALLED at §"The Crucial Distinction: Process vs. Content" (inline link in opening paragraph); concept added to `concepts:`; Further Reading entry added
+  - heterophenomenology — INSTALLED at §"Why the Map Rejects Heterophenomenology" (Map/Dennett methodological-discipline agreement framing); concept added to `concepts:`; Further Reading entry added
+  - anti-correlated-metacognitive-signal — INSTALLED at §"Limits and Open Questions / Generalisation across cognitive domains" (Coutinho finding lives on process side); added to `related_articles:` and Further Reading
+  - confabulation-void — INSTALLED at §"Generation — The Interpreter Operates Pre-Personally" (after Nisbett-Wilson 1977 citation); concept added to `concepts:`
+  - source-attribution-void — INSTALLED at §"The Confabulatory Layer" (after Nisbett-Wilson 1977 citation, frames the void as architectural fact behind process-side failure); concept added to `concepts:`
+  - narrative-void — INSTALLED at §"The Unreliable Narrator" (after Nisbett-Wilson 1977 citation, frames the void as what fills the process-side gap); concept added to `concepts:`
+  - apex/introspection-architecture-void-cluster — INSTALLED at §"The Five Faces of One Architecture" / Storytelling face (formal naming the cluster's storytelling face presupposes); concept added to `concepts:`
+  - cross-mechanism-convergence — SKIPPED on task's own conditional logic ("install IF the convergence-pattern discussion engages process-content failure modes"); the article's convergence pattern operates on mechanism-distinct empirical perturbations, not on introspective evidence; skipping cleanly honoured the conditional
+  - process-content-distinction (source page) — `related_articles:` extended to mirror three new reciprocal targets ([[narrative-void]], [[anti-correlated-metacognitive-signal]], [[apex/introspection-architecture-void-cluster]]); existing entries for confabulation-void, source-attribution-void, microphenomenological-interview-method already in place
+- **Engagement modes**: cross-review of existing engagements; no new opponent engagements introduced. Heterophenomenology engagement with Dennett (Mode Three / framework-boundary) preserved; cross-link sharpens methodological-agreement register without re-locating boundary. No label leakage in any article body.
+- **Calibration discipline honoured**: Concept page positioned in all eight target prose-additions as *formal naming of an asymmetric-reliability empirical finding*, never as upgrading evidential status of cited research. Per [[evidential-status-discipline]] — the Nisbett-Wilson finding is *strongly supported*; the broader claim that the process-content distinction is the structural reason for introspective failure is the catalogue's hypothesis built on top of the data; no cross-reference implies the concept upgrades the evidence tier.
+- **Length impact**: ~40–75 words added per file; all eight targets comfortably under soft thresholds; no length-neutral discipline required
+- **Bedrock disagreements**: Previous deep review of the concept page itself flagged Churchland (folk-psychology elimination) and Nagarjuna (conceptual imputation) as framework-boundary disagreements. The cross-links installed in this pass operate inside the Map's framework and inside the broader empirical literature; the bedrock-disagreement framings remain at the concept page and are not propagated unnecessarily.
+- **Output**: [[reviews/deep-review-2026-05-19-process-content-distinction-cross-review]]
 
 ## 2026-05-19T18:08:20+00:00 - refine-draft
 - **Status**: Success

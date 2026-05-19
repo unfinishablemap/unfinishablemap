@@ -4,7 +4,7 @@ description: "First-person reports carry layered epistemic authority — apodict
 created: 2026-02-09
 modified: 2026-04-26
 human_modified:
-ai_modified: 2026-05-19T16:28:35+00:00
+ai_modified: 2026-05-19T18:00:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -14,6 +14,7 @@ topics:
   - "[[consciousness-and-scientific-explanation]]"
 concepts:
   - "[[introspection]]"
+  - "[[process-content-distinction]]"
   - "[[phenomenal-acquaintance]]"
   - "[[qualia]]"
   - "[[phenomenological-evidence]]"
@@ -151,7 +152,7 @@ Crucially, these critiques are unevenly distributed across the three layers. At 
 
 Strict calibration against an independent standard is impossible — the [[observation-and-measurement-void]] establishes this as structural. Five strategies provide epistemic traction:
 
-**Process/content distinction.** Nisbett and Wilson's (1977) founding critique concerns *causal processes*, not *phenomenal content*. People cannot report why they chose one item, but reports about current phenomenal content occupy different epistemic terrain — we are *acquainted* with qualitative character while lacking knowledge of generating processes.
+**[[process-content-distinction|Process/content distinction]].** Nisbett and Wilson's (1977) founding critique concerns *causal processes*, not *phenomenal content*. People cannot report why they chose one item, but reports about current phenomenal content occupy different epistemic terrain — we are *acquainted* with qualitative character while lacking knowledge of generating processes. The concept page treats the distinction as the calibration craft the Map applies whenever first-person evidence is in play, with the asymmetric-reliability backbone *strongly supported* under [[evidential-status-discipline]] while the broader pessimist programme (Schwitzgebel; Lush & Dienes) is more contested.
 
 **Convergence across traditions.** Buddhist vipassanā, Hindu dhyāna, Christian contemplative prayer, and secular mindfulness practitioners converge on structural findings: the constructed character of the narrative self, the distinction between awareness and its contents, the discrete temporal grain of experience (see [[epistemology-of-convergence-arguments]]). The stronger "perennialist" reading (Stace 1960; Forman 1990) — that contemplatives across traditions report the same underlying state — has been challenged by Katz (1978) and Sharf (1995): apparently-convergent reports are heavily shaped by tradition-specific theory and training. The defensible claim restricts to structural features that survive translation across frameworks; foundational-level divergences remain real.
 
@@ -213,6 +214,7 @@ Varela's [[neurophenomenology-and-contemplative-neuroscience|neurophenomenology]
 - [[phenomenal-acquaintance]] — The direct epistemic relation
 - [[knowledge-argument]] — Mary's room and the limits of physical knowledge
 - [[introspection]] — The reliability debate and the process/content distinction
+- [[process-content-distinction]] — The dedicated concept page on the asymmetric-reliability finding the calibration depends on
 - [[self-opacity]] — Where introspective access fails structurally
 - [[heterophenomenology]] — Dennett's deflationary methodology
 - [[phenomenological-evidence]] — When and how first-person reports constitute evidence

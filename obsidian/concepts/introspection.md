@@ -4,12 +4,13 @@ description: "Our primary access to consciousness is contested. But critiques ta
 created: 2026-01-15
 modified: 2026-01-15
 human_modified: null
-ai_modified: 2026-05-16T18:00:00+00:00
+ai_modified: 2026-05-19T18:00:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
 concepts:
   - "[[phenomenology]]"
+  - "[[process-content-distinction]]"
   - "[[neurophenomenology-and-contemplative-neuroscience]]"
   - "[[qualia]]"
   - "[[mysterianism]]"
@@ -65,7 +66,7 @@ Eric Schwitzgebel catalogued further failures: people cannot reliably report whe
 
 ## The Crucial Distinction: Process vs. Content
 
-The critique's target matters. Nisbett and Wilson explicitly distinguish mental *processes* (the causal mechanisms producing decisions) from mental *contents* (current phenomenal states). Their argument concerns process access: we lack insight into *why* we choose as we do. They make no claim about whether we accurately perceive our present experience. The [[causal-interface|causal interface void]] represents the extreme case of this limitation: we cannot observe *how* intention becomes action, though we access both the intention and the resulting movement.
+The critique's target matters. Nisbett and Wilson explicitly distinguish mental *processes* (the causal mechanisms producing decisions) from mental *contents* (current phenomenal states). Their argument concerns process access: we lack insight into *why* we choose as we do. They make no claim about whether we accurately perceive our present experience. The dedicated concept page for [[process-content-distinction|the process/content distinction]] treats it as calibration craft — asymmetric reliability that earns content reports higher evidential weight without exempting either side from error — and is the formal naming the Map applies whenever first-person evidence is in play. The [[causal-interface|causal interface void]] represents the extreme case of this limitation: we cannot observe *how* intention becomes action, though we access both the intention and the resulting movement.
 
 The [[recognition-void]] demonstrates this concretely: Capgras delusion and prosopagnosia reveal that recognition comprises at least two hidden processes — perceptual identification and affective familiarity — whose binding is invisible to introspection.
 
@@ -177,6 +178,7 @@ If we restricted inquiry to third-person methods, we would study behavior and br
 
 ## Further Reading
 
+- [[process-content-distinction]] — The Nisbett-Wilson asymmetric-reliability finding as calibration craft: content reports earn higher evidential weight than process reports, with neither side exempt from error
 - [[phenomenal-transparency-opacity-spectrum]] — The transparency-opacity spectrum: why experience presents as direct contact with reality and when representations become visible, revealing the cognitive architecture transparency hides
 - [[consciousness-and-language-interface]] — How linguistic mediation shapes what introspection can access
 - [[self-opacity|self-reference paradox]] — The structural impossibility of observing the observer
