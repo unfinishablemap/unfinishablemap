@@ -1,9 +1,22 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-19T00:00:00+00:00
+ai_modified: 2026-05-19T12:00:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-05-19T12:00:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [[topics/memory-system-vulnerability-hierarchies-as-interface-evidence]]
+- **Word count**: 3584 → 3660 (+76, soft_warning preserved; hard threshold 4000 not approached)
+- **Critical issues addressed**: 1 (editor-vocabulary label leakage in §142 Evidential Calibration — five-tier ladder names "*strongly supported*" / "*realistic possibility, contested*" exposed in prose against writing-style.md §170; rewritten in natural-language two-register calibration that preserves substance)
+- **Medium issues addressed**: 2 (loose Siclari 2017 attribution in §90 — "thought-like" descriptor from broader sleep-mentation literature, not Siclari directly; tightened to separate Foulkes/Cavallero descriptor from Siclari's actual contribution. §130 hypothetical falsification framed as if attested; reframed as a clean prediction the catalogue does not yet have a worked case for)
+- **Enhancements made**: prose tightening in §43/§84/§94/§100 to maintain length-neutral budget despite calibration rewrite
+- **Engagement classification (editor-internal, per direct-refutation-discipline)**: production theorist (binary on/off): Mode One — defective on its own terms; predicts uniform loss; observed ordering refutes. Production theorist (sophisticated, differential cortical vulnerability): Mode Two — unsupported foundational move; framework must commit to vulnerability ordering matching channel hierarchy across all five perturbations as additional empirical commitment. Predictive-processing absorption (hierarchical-prior reweighting): Mode Two — naming where the hard problem reappears one level up. No boundary-substitution detected; no label leakage in engagement prose.
+- **Attribution check**: passed (Wheeler/Stuss/Tulving 1997, Tulving 2002, Klein 2014, Nahm/Greyson 2009, Sarasso 2015, Hu 2023, Reinders 2003, Lynn 2014, Bodien 2024 all verified). Siclari 2017 tightened (medium, see above).
+- **Calibration check**: passed post-edit (diagnostic test: tenet-accepting reviewer would not flag — article distinguishes multi-channel architecture support from filter-reading-over-rivals support; explicitly classes as accommodation evidence not predictive success). Label exposure was the only failure mode; substance was honest.
+- **Stability notes**: Framework-boundary disagreements with eliminativism, heterophenomenology, Madhyamaka self-non-reification are bedrock. Tegmark decoherence-timescale objection to MQI lives in [[born-rule-and-the-consciousness-interface]] not here. Accommodation-evidence calibration in §142 is central honesty move; future reviews should preserve.
+- **Output**: [[reviews/deep-review-2026-05-19-memory-system-vulnerability-hierarchies-as-interface-evidence]]
 
 ## 2026-05-19T00:00:00+00:00 - expand-topic
 - **Status**: Success
