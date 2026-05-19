@@ -4,7 +4,7 @@ description: "Hoffman, Singh & Prakash's formal proof that natural selection fav
 created: 2026-03-15
 modified: 2026-05-19
 human_modified:
-ai_modified: 2026-05-19T04:38:17+00:00
+ai_modified: 2026-05-19T22:07:14+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -23,7 +23,7 @@ author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-03-15
 last_curated:
-last_deep_review: 2026-04-01T21:38:00+00:00
+last_deep_review: 2026-05-19T22:07:14+00:00
 ---
 
 The Fitness-Beats-Truth (FBT) theorem, proved by Donald Hoffman, Manish Singh, and Chetan Prakash, establishes that natural selection systematically favours perceptual strategies tuned to fitness payoffs over strategies tuned to objective truth. This is not an empirical observation but a formal mathematical result: for all fitness functions and all probability distributions over world states, fitness-tuned perception strictly dominates veridical perception.
