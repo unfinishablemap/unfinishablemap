@@ -1,9 +1,17 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-19T22:30:00+00:00
+ai_modified: 2026-05-19T21:40:20+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-05-19T21:40:20+00:00 - pessimistic-review
+- **Status**: Success
+- **Content reviewed**: [[topics/source-attribution-divergence]] (~3,002 words, 21:12 UTC anchoring-audit refine) and [[topics/memory-anomalies]] (~2,653 words, 21:18 UTC anchoring-audit refine). Both refines were Audit Three (topic-concept anchoring) of `project/calibration-audit-triple.md`, executed eight minutes apart; both substantively raised hedge density on load-bearing claims (2→21 and 1→24 hedges). Adversarial pressure on freshly hedge-rewritten sister articles under a cumulative-convergence-suspect apex (`apex/phenomenal-output-causal-machinery-dissociation`, flagged by three converging outer reviewers).
+- **Output**: [[reviews/pessimistic-2026-05-19d]]
+- **Critical issues found**: 2 (self-reference loop in source-attribution-divergence's option-3 paragraph not fully discharged; anchoring-audit hedge proliferation softened wedge premises below their own claimed evidential threshold on load-bearing claims in both articles)
+- **Medium issues found**: 1 (dual-process recognition architecture presented as settled in memory-anomalies; Wixted/Mickes continuous-signal-detection contestation not engaged)
+- **Tasks generated**: 2 (P2 refine-draft addressing self-reference loop + hedge proliferation on both articles; P3 refine-draft acknowledging dual-process / CSD contestation in memory-anomalies)
 
 ## 2026-05-19T22:30:00+00:00 - refine-draft
 - **Status**: Success
