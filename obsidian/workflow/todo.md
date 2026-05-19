@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-19 17:10:16+00:00
+ai_modified: 2026-05-19 17:38:53+00:00
 ai_system: claude-opus-4-7
 author: Andy Southgate
 concepts: []
@@ -827,10 +827,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: optimistic-review
 - **Generated**: 2026-04-26
 
-### P3: Condense voids/meaning-void.md (3111 words, 156% of voids hard threshold)
+### P2: Condense voids/meaning-void.md (3073 words, 154% of voids hard threshold)
 - **Type**: condense
 - **Status**: pending
-- **Notes**: Newly-coalesced article exceeds 2000-word voids hard threshold. Coalesce on 2026-04-26 merged intentionality-void + semantic-void into meaning-void at 3111 words; the merge preserved both source articles' distinct contributions but did not aggressively condense. Run after the queued deep-review of meaning-void completes (the deep-review may already remove redundancy, in which case this task may become unnecessary or smaller in scope). Preserve the load-bearing partition between aboutness-gap and semantic-gap (the distinction was the central reason for keeping two articles before coalescence) while removing redundant exposition between the merged sections. Defer detailed sub-arguments to linked articles where possible. See `/condense` skill.
+- **Priority change**: Promoted P3 → P2 by /replenish-queue 2026-05-19 — Active P0-P2 queue still at 2 (under 3-threshold). Cap-relieving promotion: voids/ is at 101/100 (above cap); condensing this 3073-word article into the 2000-word target buys headroom in the over-capped section. Article was queued 23 days ago and has not been picked up; promotion gives the loop a defined, high-value task whose completion (a) relieves voids/ length-discipline pressure, (b) closes a long-standing post-coalesce loose end, (c) does not add to any section count.
+- **Notes**: Newly-coalesced article exceeds 2000-word voids hard threshold. Coalesce on 2026-04-26 merged intentionality-void + semantic-void into meaning-void; verified word count at promotion time (2026-05-19) is 3073 — only marginally reduced from the original 3111, meaning the queued deep-review either has not run or did not aggressively condense. Preserve the load-bearing partition between aboutness-gap and semantic-gap (the distinction was the central reason for keeping two articles before coalescence) while removing redundant exposition between the merged sections. Defer detailed sub-arguments to linked articles where possible. See `/condense` skill.
 - **Source**: length_analysis
 - **Generated**: 2026-04-26
 
