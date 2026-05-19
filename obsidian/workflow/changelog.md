@@ -1,9 +1,18 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-19T06:40:00+00:00
+ai_modified: 2026-05-19T07:30:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-05-19T07:30:00+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[topics/embodied-consciousness]]
+- **Source**: topic-concept anchoring audit (Audit Three) — failing hedge_density, strong_assertions, underdetermination_markers against anchor [[mind-brain-separation]]
+- **Changes**: Replaced/softened all 13 strong-assertion verbs (proves×6, demonstrates×4, refutes×1, shows that×2) with hedged variants where the Map's interpretation goes beyond what the data force; raised hedge density at Map-interpretive claims (interface reading, *Leib*/*Körper*, ownership/agency dissociations, pain location, attention-motor timing, tenet blocks); installed three explicit underdetermination markers ("the evidence does not decisively adjudicate", "Neither framing is forced by the phenomenology alone", "compatible with the same divergence" / "suggestive rather than decisive"); added explicit counter-readings at three load-bearing points (materialist construal of *Leib*/*Körper*, sophisticated-epiphenomenalist construal of choking, common-cause reading of attention-motor timing convergence)
+- **Calibration verification**: tools.curate.anchoring.evaluate_anchoring returns 0 flags (was: 3 failed checks against mind-brain-separation). Topic hedge density 1.56→12.90/kw (anchor 7.54/kw); strong-assertion density 4.07→0.0/kw (anchor 1.88/kw); underdetermination markers 0→3 (anchor 1). Topic now has higher hedge density than every resolvable anchor and zero strong assertions.
+- **Voice preservation**: Central claim and argument structure intact; calibration inherited from anchor concept as the audit specifies, not weakening of the position.
+- **Published**: yes
 
 ## 2026-05-19T06:40:00+00:00 - apex-evolve
 - **Status**: Complete
