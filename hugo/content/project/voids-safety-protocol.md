@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-16
-ai_modified: 2026-04-17 14:56:00+00:00
+ai_modified: 2026-05-19 12:00:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -13,7 +13,7 @@ description: Safety rails for AI-assisted exploration of cognitive voids—memet
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-03-11 21:46:00+00:00
+last_deep_review: 2026-05-19 12:00:00+00:00
 modified: *id001
 related_articles:
 - '[[voids]]'
@@ -46,14 +46,7 @@ The voids exploration explicitly invites LLMs to articulate thoughts that human 
 
 ### 2. Coercive Ideology Traps
 
-Exploring "occluded" thoughts risks generating content that:
-
-- Presents speculation as hidden truth ("they don't want you to know")
-- Creates unfalsifiable frameworks that capture adherents
-- Mimics the structure of conspiracy theories or cult indoctrination
-- Exploits psychological vulnerabilities (death anxiety, identity uncertainty)
-
-The Unfinishable Map's framework—dualism, consciousness as fundamental, potential simulation—is adjacent to worldviews that can slide into harmful territory if not carefully bounded.
+Exploring "occluded" thoughts risks generating content that presents speculation as hidden truth, builds unfalsifiable frameworks that capture adherents, mimics conspiracy or cult structures, or exploits death anxiety and identity uncertainty. The Map's framework—dualism, consciousness as fundamental, potential simulation—is adjacent to worldviews that can slide into harmful territory if not carefully bounded.
 
 ### 3. Psychological Destabilization
 
@@ -251,11 +244,15 @@ This protocol serves the [Occam's Razor Has Limits](/tenets/#occams-limits) tene
 
 The [Dualism](/tenets/#dualism) tenet makes the risks concrete. If consciousness is irreducible, then probing its nature may encounter territory where comprehension itself becomes hazardous—what [necessary-opacity](/voids/necessary-opacity/) calls "knowledge that would dissolve the knower's capacity to hold it." The safety rails here are not merely editorial caution but recognition that the territory may be genuinely dangerous for conscious minds.
 
-The [Bidirectional Interaction](/tenets/#bidirectional-interaction) tenet raises a further concern. If consciousness causally shapes the physical world, then content that destabilizes a reader's self-model could have effects beyond mere discomfort. The exit paths and content boundaries in this protocol guard against cascading harm from ideas that interact with the reader's agency.
+The [Bidirectional Interaction](/tenets/#bidirectional-interaction) tenet sharpens the question of what counts as "harm" from content. If consciousness causally shapes the physical world even minimally, then a destabilized self-model is not a purely epistemic event—the reader's agency is implicated in what they then think and do. The protocol does not claim that tenet-coherence elevates the empirical risk of cognitohazardous content; the well-documented risks (anxiety, depersonalization, rumination) are sufficient justification on their own. The tenet simply means the protocol cannot treat "it's only psychological" as a dismissal.
 
 The protocol also serves the Map's commitment to intellectual honesty. Speculation about the unthinkable is interesting; presenting speculation as certainty is dishonest. The epistemic labeling and structural separation ensure readers know what they're getting.
 
 Finally, the protocol recognizes that the Map has power. Content presented confidently can shape readers' beliefs. That power creates responsibility. Voids content explores [territory that may be actively defended](/voids/self-maintained-cognitive-limits/)—the safeguards ensure the exploration doesn't cause harm.
+
+The protocol acknowledges its own conservatism. Contemplative traditions—Buddhist insight into *anatta*, apophatic mysticism, advaita inquiry—deliberately seek experiences the protocol guards against, on the view that direct encounter with the dissolution of self-models is transformative rather than destabilizing. This protocol takes no position on whether such practices succeed; it observes only that public-facing LLM-generated content lacks the framing, community, and aftercare those traditions provide. The protocol's caution is calibrated for the medium, not for the territory.
+
+The protocol is itself provisional. As the voids section matures and reader feedback accumulates, the boundaries here are revisable. Over-caution could suppress legitimate inquiry; under-caution could cause harm. The current calibration errs conservative because the costs of premature exposure are asymmetric.
 
 ## Further Reading
 

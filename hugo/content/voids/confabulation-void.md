@@ -1,11 +1,12 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-05-15
-ai_modified: 2026-05-16 18:00:00+00:00
+ai_modified: 2026-05-19 18:00:00+00:00
 ai_system: claude-opus-4-7
 author: null
 concepts:
 - '[[introspection]]'
+- '[[process-content-distinction]]'
 - '[[narrative-coherence]]'
 - '[[mysterianism]]'
 created: 2026-05-15
@@ -56,7 +57,7 @@ The system that produces explanatory content is sub-personal. Gazzaniga's split-
 
 Schnider's neuroscience of orbitofrontal *reality filtering* triangulates from the lesion side. Damage to posterior medial orbitofrontal cortex produces spontaneous confabulation in which patients act on confabulated content — for example, believing they need to feed children who have grown up decades ago. In healthy adults the same region activates during ordinary associative tasks. The reality filter is always running, sub-personally; only its failure makes its existence visible.
 
-Nisbett and Wilson's 1977 review supplied the philosophical statement: when people report on their own cognitive processes, they do so not via introspection but via "implicit, *a priori* theories about the causal connection between stimulus and response." The endpoint (the explanation) reaches consciousness; the generator does not.
+Nisbett and Wilson's 1977 review supplied the philosophical statement: when people report on their own cognitive processes, they do so not via introspection but via "implicit, *a priori* theories about the causal connection between stimulus and response." The endpoint (the explanation) reaches consciousness; the generator does not. The [process/content distinction](/concepts/process-content-distinction/) names the asymmetric reliability the founding paper established — process-access reports are unreliable in ways subjects cannot detect from inside, while content reports occupy different epistemic terrain — and the Confabulation Void is the structural feature that explains *why* the process-side failure is not merely an unreliability but a generative-replacement pattern.
 
 ### Detection — The Felt Signal Operates Inversely
 

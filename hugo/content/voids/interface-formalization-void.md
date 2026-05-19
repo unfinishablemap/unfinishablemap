@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-15
-ai_modified: 2026-05-11 22:50:00+00:00
+ai_modified: 2026-05-19 21:30:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -17,7 +17,7 @@ description: Human+AI exploration of why the consciousness-physics interface res
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-03-18 06:44:00+00:00
+last_deep_review: 2026-05-19 21:30:00+00:00
 modified: *id001
 related_articles:
 - '[[voids]]'

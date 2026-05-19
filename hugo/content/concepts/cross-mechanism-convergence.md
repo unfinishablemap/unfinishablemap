@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-05-19
-ai_modified: 2026-05-19 15:00:00+00:00
+ai_modified: 2026-05-19 16:00:00+00:00
 ai_system: claude-opus-4-7
 author: null
 concepts:
@@ -25,6 +25,7 @@ related_articles:
 - '[[discrimination-problem]]'
 - '[[project/common-cause-null]]'
 - '[[project/coherence-inflation-countermeasures]]'
+- '[[project/calibration-audit-triple]]'
 title: Cross-Mechanism Convergence as Evidence Pattern
 topics:
 - '[[memory-system-vulnerability-hierarchies-as-interface-evidence]]'
@@ -108,6 +109,7 @@ Indirectly, the pattern serves the Map's central commitment to a structured cons
 - [cluster-integration-discipline](/project/cluster-integration-discipline/) — Sister discipline at the argument-architecture layer: cluster-integration governs how a single article structures a multi-part inference; cross-mechanism convergence governs how multiple findings converge on a structural feature
 - [common-cause-null](/project/common-cause-null/) — Sister discipline at the convergence-evaluation grain: convergence-without-substance is the failure mode this discipline guards against
 - [coherence-inflation-countermeasures](/project/coherence-inflation-countermeasures/) — System-level inflation-resistance the discipline contributes to
+- [calibration-audit-triple](/project/calibration-audit-triple/) — Corpus-level audit family that operationalises the convergence-evaluation discipline; altered-state symmetry (Audit Two) is the cross-article enforcement against the convergence-by-accident failure mode this pattern names
 - [discrimination-problem](/concepts/discrimination-problem/) — The structural-asymmetry result at the consciousness-epistemology grain; cross-mechanism convergence is one move that can sometimes break the underdetermination the discrimination problem names
 - [anaesthesia-and-the-consciousness-interface](/topics/anaesthesia-and-the-consciousness-interface/) — The empirical anchor article where the pattern appears across multiple subsections
 

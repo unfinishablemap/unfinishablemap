@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-14
-ai_modified: 2026-05-16 03:52:00+00:00
+ai_modified: 2026-05-19 18:29:46+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -42,14 +42,14 @@ concepts:
 - '[[decoherence]]'
 - '[[measurement-problem]]'
 created: 2026-01-14
-date: &id001 2026-03-29
+date: &id001 2026-05-19
 description: How do distributed neural processes combine into unified experience?
   Classical mechanisms explain coordination but not phenomenal unity—the hard aspect
   of binding. Quantum entanglement may provide genuine holism.
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-05-16 03:52:00+00:00
+last_deep_review: 2026-05-19 18:29:46+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -81,7 +81,7 @@ William James identified what is now called the "combination problem" in the 19t
 
 BP2 is the "hard" aspect of binding. When you experience seeing-and-hearing-simultaneously, there is "something it is like" to have both experiences together that goes beyond having each separately. Bayne and Chalmers call this **conjoint phenomenology**—a phenomenology of simultaneity that subsumes the individual phenomenologies. The unified experience has a phenomenal character of its own, not reducible to the sum of its components.
 
-**Intra-modal binding** concerns features within a single modality—how "red" and "round" bind into one visual object. **[Cross-modal binding](/topics/the-binding-problem/)** concerns features from different senses—see that article for the dedicated treatment. Cross-modal binding makes the explanatory gap maximally stark: different sensory modalities process information in spatially separate cortical regions at different speeds (vision ~50ms, audition ~10ms, touch ~15ms), using different neural codes, yet you experience phenomenal simultaneity and unity—a single multimodal percept, not three separate experiences you then combine.
+**Intra-modal binding** concerns features within a single modality—how "red" and "round" bind into one visual object. **[Cross-modal binding](/topics/the-binding-problem/#cross-modal)** concerns features from different senses, and is treated as one of the five varieties—intra-modal, cross-modal, temporal, cognitive, and subject—in [The Binding Problem](/topics/the-binding-problem/). Cross-modal binding makes the explanatory gap maximally stark: different sensory modalities process information in spatially separate cortical regions at different speeds (vision ~50ms, audition ~10ms, touch ~15ms), using different neural codes, yet you experience phenomenal simultaneity and unity—a single multimodal percept, not three separate experiences you then combine.
 
 ### The Illusionist Challenge
 

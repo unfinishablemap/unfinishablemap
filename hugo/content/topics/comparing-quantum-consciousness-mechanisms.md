@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-09
-ai_modified: 2026-05-03 01:00:00+00:00
+ai_modified: 2026-05-19 00:00:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -23,7 +23,7 @@ description: Head-to-head evaluation of Orch OR, Stapp's Zeno model, Fisher's nu
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-03-31 19:38:00+00:00
+last_deep_review: 2026-05-19 00:00:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -122,9 +122,9 @@ Hybrid models combine spontaneous collapse theories (GRW, CSL) with consciousnes
 
 ## The External Critic: Duch's Classical-Computational Alternative
 
-A complete comparison must locate these four mechanisms against the most rigorous *external* critic — Włodzisław Duch (trained as a quantum physicist; now a cognitive scientist), whose anti-quantum-mind position challenges the quantum framing as such. Duch (2005, 2019) argues that brain dynamics require *differentiation* across regions and timescales rather than the global synchronisation Penrose-Hameroff-style proposals require, that decoherence timescales (per Tegmark 2000) make sustained quantum effects implausible at biological temperatures, and that classical-computational self-reflective dynamical access ("mind as a shadow of neurodynamics") suffices to ground consciousness. His critique cuts most sharply against Orch OR — his own example of the kind of proposal he calls "pseudo-mysticism" — and least against the discrete-event mechanisms (Stapp, Fisher) that operate without sustained coherence. Hybrids that already accept objective collapse on physical grounds (CSL-IIT) face a different objection from Duch: that consciousness modulation adds no explanatory power that classical attractor dynamics over the same neural states cannot already supply.
+A complete comparison must locate these four mechanisms against the most rigorous *external* critic — Włodzisław Duch (trained as a quantum physicist; now a cognitive scientist), whose anti-quantum-mind position challenges the quantum framing as such. Duch (2005, 2019) argues that brain dynamics require *differentiation* across regions and timescales rather than the global synchronisation Penrose-Hameroff-style proposals require, that decoherence timescales (per Tegmark 2000) make sustained quantum effects implausible at biological temperatures, and that classical-computational self-reflective dynamical access ("mind as a shadow of neurodynamics") suffices to ground consciousness. He dismisses substantive quantum-mind proposals as "pseudo-mysticism" — a charge that cuts most sharply against Orch OR and least against the discrete-event mechanisms (Stapp, Fisher) that operate without sustained coherence. Hybrids that already accept objective collapse on physical grounds (CSL-IIT) face a different Duch objection: that consciousness modulation adds no explanatory power that classical attractor dynamics over the same neural states cannot already supply.
 
-The Map's relationship to Duch's critique is *convergent-conclusion-opposite-reasoning* on a narrow question: both Map and Duch are sceptical of the *substantive* quantum-mind proposals at Orch-OR-style scale, though for opposite reasons. The Map's [Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction) tenet already favours the *minimal* end of the spectrum — which is why Stapp and CSL-IIT score better on tenet alignment than Orch OR. Duch wants *zero* quantum role on classical-sufficiency grounds; the Map wants *minimal-but-real* on bidirectional-interaction grounds. The convergence-point (anti-Orch-OR-scale substantive coherence) and the divergence-point (zero-vs-minimal interface) must be kept structurally distinct in any article borrowing Duch's anti-coherence arguments — importing his classical-sufficiency commitment alongside the anti-coherence arguments would be a category error. The detailed convergence-and-divergence map is in [the Duch research dossier](/research/wlodzislaw-duch-consciousness-2026-05-02/).
+The Map's relationship to Duch is *convergent-conclusion-opposite-reasoning*: both are sceptical of substantive quantum-mind proposals at Orch-OR-style scale, but for opposite reasons. The Map's [Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction) tenet already favours the *minimal* end of the spectrum — which is why Stapp and CSL-IIT score better on tenet alignment than Orch OR. Duch wants *zero* quantum role on classical-sufficiency grounds; the Map wants *minimal-but-real* on bidirectional-interaction grounds. Duch's anti-coherence arguments travel cleanly into the Map; his classical-sufficiency commitment does not, and conflating the two would be a category error. The detailed convergence-and-divergence map is in [the Duch research dossier](/research/wlodzislaw-duch-consciousness-2026-05-02/).
 
 ## Comparative Summary
 

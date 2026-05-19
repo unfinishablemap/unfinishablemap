@@ -1,22 +1,26 @@
 ---
-ai_contribution: 50
+ai_contribution: 55
 ai_generated_date: 2026-01-24
-ai_modified: 2026-05-15 20:52:00+00:00
-ai_system: claude-opus-4-5-20251101
+ai_modified: 2026-05-19 12:00:00+00:00
+ai_system: claude-opus-4-7
 author: Andy Southgate
 concepts: []
 created: 2026-01-24
-date: &id001 2026-01-24
+date: &id001 2026-05-19
 description: Not an AI content farm. Human-directed, AI-assisted philosophy with full
-  version history. Every article reviewed and refined.
+  version history, multi-stage review, and a structural commitment to inspectability.
 draft: false
 human_modified: 2026-01-24 00:00:00+00:00
 last_curated: null
+last_deep_review: 2026-05-19 12:00:00+00:00
 modified: *id001
 related_articles:
 - '[[automation]]'
 - '[[project]]'
 - '[[why-this-is-different]]'
+- '[[writing-style]]'
+- '[[changelog]]'
+- '[[tenets]]'
 title: Human Supervision
 topics: []
 ---
@@ -40,8 +44,11 @@ A human editor (currently Andy Southgate) maintains control over:
 
 - Which topics get researched and written
 - Task prioritization in the [task queue](/workflow/todo/)
-- Final approval of major changes
-- Alignment with the site's [philosophical commitments](/tenets/)
+- The [philosophical commitments](/tenets/) the system holds itself to
+- The skills, disciplines, and methodology the [automation system](/project/automation/) runs
+- Direct intervention when the AI drifts from site goals
+
+Direction is gated by the human; individual article publication is not. AI-generated content is published directly with full version history rather than awaiting per-article approval. This is a deliberate choice: requiring human sign-off on every change would bottleneck the system into producing roughly the volume a single editor could review, defeating the experiment in human-AI collaboration. The system instead trades pre-publication gating for post-publication inspectability — every change is auditable, retractable, and visible.
 
 ### Review Cycles
 
@@ -51,9 +58,9 @@ Content undergoes multiple review passes:
 2. **Pessimistic review**: Internal AI critiques find logical gaps and counterarguments
 3. **Optimistic review**: Internal AI identifies strengths and expansion opportunities
 4. **Outer review**: External AI systems (ChatGPT, Claude, Gemini) run nightly via a Chrome-driven automation pipeline; the Map's `/outer-review` skill verifies their citations and converts findings into tasks. This is a third lens that does not share the generator's training, so it catches blind spots the internal reviews miss.
-5. **Human curation**: Editor reviews and approves significant changes
+5. **Human curation**: Editor reviews articles as time permits, prioritising those flagged by the review pipeline
 
-The `last_curated` date in article metadata shows when a human last reviewed that page.
+The `last_curated` date in article metadata shows when a human last reviewed that page. Many articles carry `last_curated: null` — the editor cannot personally review every page in a corpus the AI maintains continuously. The signal exists so visitors can see which pages have had direct human attention and which have not; the [changelog](/workflow/changelog/) records every change regardless.
 
 ### Version History
 
@@ -103,6 +110,14 @@ Beyond general editorial oversight, certain content types receive additional pro
 
 - **Voids content**: The [Voids Safety Protocol](/project/voids-safety-protocol/) governs exploration of cognitively hazardous territory—requiring epistemic labeling, exit paths, human review gates, and stop conditions
 - **Coherence inflation**: [Dedicated countermeasures](/project/coherence-inflation-countermeasures/) prevent the AI system from systematically inflating confidence in the Map's positions
+
+## Relation to Site Perspective
+
+Human supervision is methodological infrastructure rather than a substantive philosophical claim, but its design embodies **[Tenet 5: Occam's Razor Has Limits](/tenets/)** at the editorial level. A simpler "publish what the AI generates and call it good" pipeline would saturate under load, drift from the framework, and accumulate unaddressed objections invisibly. A simpler "human approves every article before publication" pipeline would bottleneck the system into a single editor's reading speed and defeat the point of AI-assisted scale.
+
+The actual design refuses both simplifications: humans control direction, priorities, tenets, and methodology; AI handles research, drafting, cross-referencing, and review; every change is logged so the trade-off remains inspectable. Inspectability is the price the system pays for that refusal, and the reason it can be trusted by inspection rather than by trust.
+
+The [writing-style guide](/project/writing-style/) and the [automation system](/project/automation/) describe the disciplines and the orchestrator that operationalise this stance.
 
 ## Questions?
 

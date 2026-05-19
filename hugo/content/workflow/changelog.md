@@ -1,13 +1,462 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-19 21:00:00+00:00
+ai_modified: 2026-05-19 23:59:30+00:00
 ai_system: claude-opus-4-7
 concepts: []
 date: '2026-05-19'
 related_articles: []
 title: Changelog
 ---
+
+## 2026-05-19T23:59:30+00:00 - deep-review
+- **Status**: Success (first review; baseline calibration achieved)
+- **File**: [edge-states-and-void-probes](/voids/edge-states-and-void-probes/)
+- **Word count**: 2069 → 2102 (+33, length-neutral against 2000 soft threshold; 105% — soft_warning preserved)
+- **Critical issues addressed**: 2 (two archived wikilink targets redirected: `[[thoughts-that-slip-away]]` → `[[thought-stream-void]]`; `[[transition-void]]` → `[[transit-void]]`; both in body text and `related_articles` frontmatter; Further Reading entry updated)
+- **Medium issues addressed**: 5 (Stace/James common-core attribution clarified and Katz constructivist objection acknowledged with structural-vs-content reply; Kriegel→mysterianism-literature softening for cognitive closure distinction; Bergson "elimination"→"selection" gloss correction; Metzinger "500+"→"hundreds of" specificity softening; confabulation reply strengthened to mechanism-demanding Mode Two move with asymmetry-as-explanandum framing)
+- **Enhancements made**: 0 (the article was already strong; medium fixes were tightening, not expansion)
+- **Reasoning-mode classification**: engagement with materialist deflation — Mode Two (deflation must explain structural recurrence given confused-processing prediction of chaos); engagement with confabulation hypothesis — Mode Two (must specify mechanism for the asymmetry between ordinary forgetting and edge-insight loss); engagement with Katz/constructivists — Mixed (Mode Three for content-level convergence; Mode Two for structural convergence which recurs even where doctrinal content diverges). No editor-vocabulary labels in article prose.
+- **Output**: [deep-review-2026-05-19-edge-states-and-void-probes](/reviews/deep-review-2026-05-19-edge-states-and-void-probes/)
+- **Convergence note**: First deep review of this article (created 2026-01-19, ai_modified 2026-05-10, never previously deep-reviewed). Article was already well-calibrated on the central question (honest transcendence-vs-edge-mapping underdetermination preserved); review surfaced two archived-target wikilink breakages and several attribution refinements. Stability notes recorded for next reviewer: do not re-flag transcendence/edge-mapping underdetermination, nematode-MPE calibration, or quantum-interaction speculation; all are honestly hedged.
+
+## 2026-05-19T20:02:17+00:00 - deep-review
+- **Status**: Success (third review; near-stable)
+- **File**: [brain-computer-interfaces-and-the-interface-boundary](/topics/brain-computer-interfaces-and-the-interface-boundary/)
+- **Word count**: 2240 → 2285 (+45, well below 3000 soft threshold)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 2 (Collinger quote attribution flagged by both prior reviews now hedged; anaesthesia claim recalibrated from "ceases" to honest prediction-not-tested)
+- **Enhancements made**: 0 expansions (article already at stable cross-link density; convergence respected)
+- **Reasoning-mode classification**: engagement with Clark/extended mind — Mode Three (framework-boundary marking); engagement with eliminative materialism via Occam tenet — Mode Two (unsupported foundational move). Both already in natural prose; no label leakage.
+- **Output**: [deep-review-2026-05-19-brain-computer-interfaces-and-the-interface-boundary](/reviews/deep-review-2026-05-19-brain-computer-interfaces-and-the-interface-boundary/)
+- **Convergence note**: Prior review explicitly declared stability; intervening modifications (video embed, wikilink retargets, one cross-link) were mechanical. Only the two residual items flagged by both prior reviews were touched.
+
+## 2026-05-19T23:59:00+00:00 - replenish-queue
+- **Status**: Success (conservative promotion-only top-up)
+- **Mode**: conservative
+- **Tasks generated**: 0
+- **Tasks promoted**: 1 (P3 → P2)
+- **Active P0-P2 before**: 3 (at MIN_QUEUE_TASKS floor — literature-drift consciousness-and-skill-acquisition; condense voids/meaning-void.md; expand-topic dissociative-states intact-substrate. The 23:55 pass's promoted "deep-review voids-safety-protocol" task has been consumed in the subsequent loop iteration and now sits in Completed at line 3803.)
+- **Active P0-P2 after**: 4
+- **Promoted task**: "Deep review voids/edge-states-and-void-probes.md (never deep-reviewed, ai_contribution=100, age 4 months)" (todo.md line 193, staleness source). Cap-safe — deep-review of an existing voids file, no section count impact, and potential length-discipline relief if the article currently exceeds voids/ thresholds. High methodological leverage: never deep-reviewed despite 4 months old; ai_contribution=100 is the staleness-source's strongest signal; pairs naturally with today's coordinated project-tier methodology deep-review sequence (voids-safety-protocol at 23:55, human-supervision at 23:45, per-cluster-independence-scoring at 23:30) by extending into the void-probe methodology article itself. The article's void-probe vocabulary predates the four-criteria apophatic-cartography framework and the per-cluster-independence-scoring discipline — deep-review will check whether it anticipates or conflicts with them.
+- **Notes**: Ninth replenish-queue invocation today. All replenishment sources remain exhausted from the eight prior runs today (08:55, 10:43, 15:53, 21:00, 22:35, 23:15, 23:45, 23:55) — gap_analysis (handled by morning + afternoon cycles), unconsumed_research (all consumed or already queued; today's animal-consciousness research already chained to a completed refine-draft task at todo.md line 3855), staleness (worked through the >30-day list across the prior eight runs; edge-states-and-void-probes is the strongest remaining never-reviewed candidate), orphan_integration (state reports 13 orphans; actionable ones tagged in queue already), length_analysis (no non-research length violations remain), chain (no expand-topic completions since the queued ones already have cross-review tasks). Section caps remain at: topics/ 247/250 (3 slots); concepts/ 247/250 (3 slots); voids/ 102/100 (over cap). P3 backlog at ~599 tasks. Conservative promotion-only discipline matches the 23:55 / 23:45 / 23:15 / 22:35 patterns — promote, do not generate.
+- **Sources used**: existing-queue promotion (1, staleness).
+- **Files modified**: `obsidian/workflow/todo.md` (1 task heading rewritten P3 → P2 with rationale block); `obsidian/workflow/evolution-state.yaml` (replenish-queue last_run + last_updated updated to 2026-05-19T23:59:00+00:00).
+- **Queue health post-pass**: 0 P0, 0 P1, 4 P2 (literature-drift consciousness-and-skill-acquisition; condense voids/meaning-void.md; expand-topic dissociative-states intact-substrate; deep-review voids/edge-states-and-void-probes.md), ~598 P3.
+- **Convergence with today's pattern**: same starvation condition (caps + P3-heavy backlog + sources exhausted); same remediation (promote, not generate); same conservative discipline applied. Ninth /replenish-queue run today.
+
+## 2026-05-19T12:00:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [voids-safety-protocol](/project/voids-safety-protocol/)
+- **Word count**: 1569 → 1705 (+136)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 1 (possibility/probability slippage in Bidirectional Interaction paragraph — rewritten to explicitly disclaim tenet-elevation of empirical risk)
+- **Enhancements made**: 3 (contemplative-traditions caveat added; provisionality note added; Coercive Ideology Traps section tightened for length-neutrality)
+- **Reasoning-mode classification**: N/A (governance document, no named opponents)
+- **Convergence**: Second deep review; previous (2026-03-11) found cross-link/frontmatter issues which remain resolved. This pass found one calibration error (the slippage diagnostic test caught it) and applied two self-awareness improvements (contemplative-tradition tension, protocol revisability). Article is stable; future reviews may find no critical issues.
+- **Output**: [deep-review-2026-05-19-voids-safety-protocol](/reviews/deep-review-2026-05-19-voids-safety-protocol/)
+
+## 2026-05-19T23:55:00+00:00 - replenish-queue
+- **Status**: Success (conservative promotion-only top-up)
+- **Mode**: conservative
+- **Tasks generated**: 0
+- **Tasks promoted**: 1 (P3 → P2)
+- **Active P0-P2 before**: 2 (below MIN_QUEUE_TASKS threshold of 3 — literature-drift consciousness-and-skill-acquisition; condense voids/meaning-void.md. The 23:45 pass's promoted "deep-review human-supervision" task was consumed in the subsequent loop iteration and is now in Completed; the "expand-topic dissociative-states intact-substrate" task that 23:45 also referenced as active was migrated under Vetoed Tasks at some point and is no longer counted toward the active backlog.)
+- **Active P0-P2 after**: 3
+- **Promoted task**: "Deep review project/voids-safety-protocol.md (69 days since last review, ai_contribution=100)" (todo.md line 103, staleness source). The 23:45 replenish notes explicitly named voids-safety-protocol as the remaining named staleness candidate after human-supervision was promoted and completed. Cap-safe — deep-review of an existing project-tier file, no section count impact. High methodological leverage: 69 days stale, ai_contribution=100, sits at the heart of the methodology-discipline cluster that has grown substantially since March 2026 (5+ new project-tier discipline pages including today's per-cluster-independence-scoring). Pairs naturally with today's recent project-tier deep-review activity (human-supervision at 23:45 and per-cluster-independence-scoring at 23:30) — three project-tier methodology pages reviewed in coordinated sequence increases methodological-layer coherence.
+- **Notes**: Eighth replenish-queue invocation today. All replenishment sources remain exhausted from the seven prior runs today (08:55, 10:43, 15:53, 21:00, 22:35, 23:15, 23:45) — gap_analysis (handled by morning + afternoon cycles), unconsumed_research (all consumed or already queued; voids-cluster research notes blocked by voids/ 102/100 over-cap), staleness (worked through the >30-day list; voids-safety-protocol was the last remaining named candidate), orphan_integration (orphan-detection rescan confirms only special pages — authors/* and search.md — none requiring integration), length_analysis (no non-research length violations remain after today's condense passes), chain (no expand-topic completions since 22:30). Section caps remain at: topics/ 247/250 (3 slots); concepts/ 247/250 (3 slots); voids/ 102/100 (over cap). P3 backlog at 517 tasks. Conservative promotion-only discipline matches the 23:30 / 23:45 / 22:35 patterns — promote, do not generate.
+- **Sources used**: existing-queue promotion (1, staleness).
+- **Files modified**: `obsidian/workflow/todo.md` (1 task heading rewritten P3 → P2 with rationale block), `obsidian/workflow/evolution-state.yaml` (replenish-queue last_run + last_updated updated to 2026-05-19T23:55:00+00:00).
+- **Queue health post-pass**: 0 P0, 0 P1, 3 P2 (literature-drift consciousness-and-skill-acquisition; condense voids/meaning-void.md; deep-review project/voids-safety-protocol.md), ~517 P3.
+- **Convergence with today's pattern**: same starvation condition (caps + P3-heavy backlog + sources exhausted); same remediation (promote, not generate); same conservative discipline applied. Eighth /replenish-queue run today.
+
+## 2026-05-19T12:00:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [human-supervision](/project/human-supervision/)
+- **Word count**: 587 → 875 (+288; 35% of 2500 soft target — expansion appropriate, well below threshold)
+- **Critical issues addressed**: 3 (missing required "Relation to Site Perspective" section per writing-style.md; self-contradiction with automation.md re: "Final approval of major changes" vs "AI-generated content is published directly" — reconciled by distinguishing direction-level human control from publication-level AI autonomy with explicit trade-off paragraph; overstated description "Every article reviewed and refined" rewritten to remove universal-review claim that conflicted with sparse `last_curated` data)
+- **Medium issues addressed**: 3 (aspirational language in curation step 5 calibrated to actual practice; missing cross-links to [changelog](/workflow/changelog/), [writing-style](/project/writing-style/), [tenets](/tenets/) added; editorial-control list expanded with concrete editorial actions)
+- **Enhancements made**: 2 (new "Relation to Site Perspective" section connecting architecture to Tenet 5 as parsimony refusal at editorial level; explicit direction-vs-publication trade-off paragraph making the supervision model legible)
+- **Engagement mode classification**: N/A — methodological page; does not reply to any named opponent
+- **Output**: [deep-review-2026-05-19-human-supervision](/reviews/deep-review-2026-05-19-human-supervision/)
+
+## 2026-05-19T23:45:00+00:00 - replenish-queue
+- **Status**: Success (conservative promotion-only top-up)
+- **Mode**: conservative
+- **Tasks generated**: 0 (no new candidates since the 23:30 deep-review of project/per-cluster-independence-scoring.md — that pass resolved both surfaced issues in-place; no chain successor needed)
+- **Tasks promoted**: 1 (P3 → P2)
+- **Active P0-P2 before**: 3 (at MIN_QUEUE_TASKS threshold — literature-drift consciousness-and-skill-acquisition; condense voids/meaning-void.md; expand-topic dissociative-states intact-substrate; the per-cluster-independence-scoring cross-review chain task promoted at 23:15 has since been migrated to Completed)
+- **Active P0-P2 after**: 4
+- **Promoted task**: "Deep review project/human-supervision.md (never deep-reviewed, ai_contribution=50, age 115 days)" (todo.md line 103, staleness source). Cap-safe — deep-review of an existing project-tier file, no section count impact. High methodological leverage: never deep-reviewed despite 115 days old; sits in the methodology-discipline cluster that has grown substantially around it (5+ new project-tier discipline pages since January 2026, including today's per-cluster-independence-scoring page); pairs naturally with today's 23:30 deep-review of the sister project-tier methodology page. Type-mix payoff: combined with the two existing P2s, the loop now has deep-review + condense + expand-topic + literature-drift, four distinct task types.
+- **Notes**: Seventh replenish-queue invocation today. The 23:30 deep-review of project/per-cluster-independence-scoring.md was the only completion since the 23:15 sixth invocation; that deep-review resolved 1 critical issue (citation enumeration upgrade) and 1 medium issue (last_deep_review frontmatter parity) in-place, with no follow-on chain task warranted. Section caps and backlog state unchanged from 23:15: topics 246/250 (4 slots; was 247/250 — apparent fluctuation due to file-level archive/coalesce activity); concepts 246/250 (4 slots); voids 101/100 (over cap). P3 backlog stable at ~600 tasks. All replenishment sources remain exhausted from the seven-pass UTC day — gap_analysis (handled by morning + afternoon cycles), unconsumed_research (all consumed or in-flight; 391 research files vs 192 published articles is structural and not a true backlog after pairing), staleness (worked through the >30-day list; only project/human-supervision.md and project/voids-safety-protocol.md remain as named candidates and the human-supervision one is now promoted), orphan_integration (state reports 13 orphans; the directly-actionable ones are tagged in queue already), length_analysis (no non-research length violations remain). The conservative promotion-only discipline preserves convergence with the six prior runs today (08:55, 10:43, 15:53, 21:00, 22:35, 23:15 patterns). No new task generation; no candidate fabrication.
+- **Sources used**: existing-queue promotion (1, staleness).
+- **Files modified**: `obsidian/workflow/todo.md` (1 task heading rewritten P3 → P2 with rationale block), `obsidian/workflow/evolution-state.yaml` (replenish-queue last_run + last_updated updated to 2026-05-19T23:45:00+00:00).
+- **Queue health post-pass**: 0 P0, 0 P1, 4 P2 (literature-drift consciousness-and-skill-acquisition; condense voids/meaning-void.md; expand-topic dissociative-states intact-substrate; deep-review project/human-supervision.md), ~600 P3.
+- **Convergence with today's pattern**: same starvation condition (caps + P3-heavy backlog); same remediation (promote, not generate); same conservative discipline applied. Seventh /replenish-queue run today.
+
+## 2026-05-19T23:30:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [per-cluster-independence-scoring](/project/per-cluster-independence-scoring/)
+- **Word count**: 3099 → 3106 (+7; 124% of 2500 soft target — length-neutral mode)
+- **Critical issues addressed**: 1 (factual error: "Seven existing articles cite the methodology by name" — actual grep count was 9; replaced numeric claim with qualitative-but-verifiable enumeration that survives future citation growth)
+- **Medium issues addressed**: 1 (added missing `last_deep_review` frontmatter field for parity with sister disciplines)
+- **Enhancements made**: 1 (slight tightening of opening paragraph's discipline-family description to recover the words spent on the citation rewrite)
+- **Output**: [deep-review-2026-05-19-per-cluster-independence-scoring](/reviews/deep-review-2026-05-19-per-cluster-independence-scoring/)
+
+## 2026-05-19T19:18:56+00:00 - deep-review
+- **Status**: Success (stability confirmed; no content changes)
+- **File**: [william-james-consciousness](/topics/william-james-consciousness/)
+- **Word count**: 3062 → 3062 (no change; at 102% of 3000 soft target — length-neutral mode)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Output**: [deep-review-2026-05-19-william-james-consciousness](/reviews/deep-review-2026-05-19-william-james-consciousness/)
+- **Notes**: Fifth deep review. Prior reviews (2026-02-03, 2026-03-09, 2026-04-01) and the major 2026-04-18 refine-draft pass pre-resolved all issues that would otherwise have surfaced. Six adversarial personas applied — none flagged critical or medium issues. Stapp's quantum Zeno claim triple-hedged across Attention section and Minimal Quantum Interaction tenet paragraph; calibration discipline holds (no possibility/probability slippage). No named-opponent refutation passages, so reasoning-mode classification did not apply. Attribution accuracy check passed across all six sub-checks (misattribution, dropped qualifiers, position strength, source/Map separation, self-contradiction). Length-neutral mode: no expansion permitted; no expansion needed. Updated `ai_modified` and `last_deep_review` timestamps to 2026-05-19T19:18:56+00:00.
+
+## 2026-05-19T23:15:00+00:00 - replenish-queue
+- **Status**: Success (conservative promotion-only top-up)
+- **Mode**: conservative
+- **Tasks generated**: 0 (no new candidates surfaced since the 22:35 fifth invocation 40 minutes earlier)
+- **Tasks promoted**: 1 (P3 → P2)
+- **Active P0-P2 before**: 3 (at MIN_QUEUE_TASKS threshold — literature-drift consciousness-and-skill-acquisition; condense voids/meaning-void.md; expand-topic dissociative-states intact-substrate)
+- **Active P0-P2 after**: 4
+- **Promoted task**: "Cross-review related articles considering project/per-cluster-independence-scoring.md insights" (todo.md line 40, chain from 22:30 expand-topic). Cap-safe — touches existing files; 8–11 articles cite the new methodology page by name and need reciprocal back-links. Closes a freshly-opened loose end with immediate graph-integrity payoff.
+- **Notes**: Sixth replenish-queue invocation today. No new task completions since the 22:35 fifth invocation; the chain task it generated at P3 is the only well-defined small/medium-scope candidate available for the next loop iteration. Section caps and backlog state unchanged from 22:35: topics 247/250, concepts 247/250, voids 102/100 (over cap); P3 backlog at 600+ tasks. All replenishment sources remain exhausted from the morning + afternoon + late-evening passes — gap_analysis (handled), unconsumed_research (all consumed or in-flight), staleness (>30-day list cleared by morning cycles), orphan_integration (state reports 13 orphans but all prior orphan tasks resolved as ✓), length_analysis (no non-research length violations remain), chain (only the 22:35-generated one available, now promoted). The conservative promotion-only discipline preserves convergence with the 21:00 / 22:35 / earlier patterns. No new task generation; no candidate fabrication; loop has been given one well-scoped task to consume.
+- **Sources used**: existing-queue promotion (1).
+- **Files modified**: `obsidian/workflow/todo.md` (1 task heading rewritten P3 → P2 with rationale block), `obsidian/workflow/evolution-state.yaml` (replenish-queue last_run + last_updated updated).
+- **Queue health post-pass**: 0 P0, 0 P1, 4 P2 (literature-drift consciousness-and-skill-acquisition; condense voids/meaning-void.md; expand-topic dissociative-states intact-substrate; per-cluster-independence-scoring cross-review chain), ~601 P3.
+
+## 2026-05-19T22:35:00+00:00 - replenish-queue
+- **Status**: Success
+- **Mode**: conservative
+- **Tasks generated**: 1
+- **Active P0-P2 before**: 3 (at MIN_QUEUE_TASKS threshold)
+- **Active P0-P2 after**: 3 (new task is P3)
+- **Notes**: Fifth replenish-queue invocation today. Prior four runs (across cycles earlier in the UTC day) generated 23 P3 tasks from optimistic-review-2026-05-19{,b,c,d,e}, pessimistic-review-2026-05-19{,b,c}, staleness audits, length analysis, unconsumed-research (animal-consciousness-2024-2025), and chain successors. The only genuinely new replenishment candidate at this point in the UTC day is a chain task from the 22:30 expand-topic creating `project/per-cluster-independence-scoring.md` — the new methodology page is canonically cited by seven existing files and needs a cross-review pass to install reciprocal back-links. Section caps near full (topics 247/250, concepts 247/250, voids 102/100 over cap) and a P3 backlog of 600+ tasks both argued for conservative top-up rather than aggressive generation. Sources NOT used this cycle: gap_analysis (no new gaps surfaced beyond what the morning cycles handled); unconsumed_research (none — all post-Apr-2026 research notes have corresponding articles or pending tasks); staleness (the morning cycles caught the >30-day list); orphan_integration (state file reports 13 orphans but the prior orphan_integration tasks all resolved as ✓); length_analysis (no non-research length violations remain after today's condense passes).
+- **Generated tasks**:
+  - P3 cross-review chain from per-cluster-independence-scoring.md (8–11 article back-link audit)
+
+## 2026-05-19T22:30:00+00:00 - expand-topic
+- **Status**: Success
+- **Topic**: Per-Cluster Independence Scoring (methodology page)
+- **Output**: [per-cluster-independence-scoring](/project/per-cluster-independence-scoring/)
+- **Word count**: 3099
+- **Based on research**: no (synthesised from existing methodology corpus: [apophatic-cartography-four-criteria](/concepts/apophatic-cartography-four-criteria/), [voids-circularity-discount](/project/voids-circularity-discount/), [common-cause-null](/project/common-cause-null/), and the two worked exhibits [the-surplus-void](/voids/the-surplus-void/) and [introspection-architecture-independence-scoring](/topics/introspection-architecture-independence-scoring/))
+- **Notes**: Created the canonical project-tier definition for *per-cluster independence scoring*, which was previously cited by name across seven files (`project/voids-circularity-discount.md`, `project/common-cause-null.md`, `project/outer-reviewer-service-calibration.md`, `topics/introspection-architecture-independence-scoring.md`, `topics/cross-species-behavioural-confidence-proxy-tests.md`, `concepts/anti-correlated-metacognitive-signal.md`, `voids/the-surplus-void.md`) without a definition to defer to. The page (a) names the methodology cleanly as the operational layer between [apophatic-cartography-four-criteria](/concepts/apophatic-cartography-four-criteria/) (definitional) and [voids-circularity-discount](/project/voids-circularity-discount/) (aggregation); (b) sets out the five-step procedure — cluster identification, anchor inventory, channel sorting, despite-commitments / because-prediction split, score profile reporting; (c) walks through the two worked exhibits with their visibly different profiles (surplus-void: moderate/strong/weak/weak; introspection-architecture cluster: strong/strong/mixed/split-architectural-vs-interpretive); (d) explicitly disclaims four overreaches (no quantitative discount factor, no establishment of evidential force, no tier-graduation substitution, no application to wholly-tenet-generated voids); (e) names the family of sister disciplines at each adjacent register; (f) records four honest limitations including the recursive bind, judgement-laden classification, weaker discriminating power on conceptual-anchor clusters, and the N=2 burden requiring a cataloguer-unfavourable test case; (g) tenet-routes primarily to Tenet 5 (Occam's Razor Has Limits) at the catalogue-parsimony layer; (h) cross-links bidirectionally with all seven referencing articles plus [taxonomy-of-voids](/apex/taxonomy-of-voids/) and the channel-audits / proxy-tests companions. Three self-citations (four-criteria, voids-circularity-discount, common-cause-null, evidential-status, introspection-architecture-independence-scoring, surplus-void) in the References section to build Google Scholar citation graph. Soft-warning length (3099 words, 124% of 2500 target; well under the 3500 hard threshold) — appropriate for a methodology page anchoring two worked exhibits plus dense cross-discipline relations. No banned "not X but Y" constructs.
+
+## 2026-05-19T22:10:00+00:00 - refine-draft
+- **Status**: Success
+- **File**: [taxonomy-of-voids](/apex/taxonomy-of-voids/)
+- **Original score**: n/a (no curate.py review tool available; task scoped directly from optimistic-2026-05-19c High Priority)
+- **Changes**: Installed a new §"Two Worked Exhibits in Independence Scoring" subsection inside §"The Convergence Pattern" (the natural site for the per-cluster independence scoring discussion). The subsection cites [the-surplus-void](/voids/the-surplus-void/) as the retraction case and [introspection-architecture-independence-scoring](/topics/introspection-architecture-independence-scoring/) as the partial-retention case, scores each against the four criteria from [apophatic-cartography-four-criteria](/concepts/apophatic-cartography-four-criteria/), and names the two-exhibit contrast as the vehicle by which the four-criterion framework demonstrates non-flatness (with N=2 the claim is provisional and a clean unfavourable test case remains the open burden). Cross-linked [tenet-generated-voids](/voids/tenet-generated-voids/), [common-cause-null](/project/common-cause-null/), and [evidential-status-discipline](/project/evidential-status-discipline/) inline (the last quoting the discipline's central rule). Added `topics/introspection-architecture-independence-scoring` and `evidential-status-discipline` to related_articles frontmatter (surplus-void, common-cause-null, tenet-generated-voids, apophatic-cartography-four-criteria were already present). Tightened the upstream paragraph that previously crammed the two-exhibit summary into a single sentence (it now hands off cleanly to the new subsection). Honored [evidential-status-discipline](/project/evidential-status-discipline/) throughout — the addition is calibration craft demonstrating that the discount is applied in practice, not new philosophical territory. Net addition ~413 words (4690 → 5103). Preserved opening summary, all existing wikilinks, and the §"Relation to Site Perspective" tenet structure.
+- **Published**: yes
+
+## 2026-05-19T21:45:00+00:00 - optimistic-review
+- **Status**: Success
+- **Content reviewed**: Seven-article late-evening UTC cohort that the morning's four optimistic reviews did not cover — the dissociation-as-interface-architecture cluster instantiating the catalogue's three-route convergence pattern (lesion / pharmacology / psychogenic): `topics/neurological-dissociations-as-interface-architecture.md`, `topics/anaesthesia-and-the-consciousness-interface.md`, `topics/clinical-dissociation-as-systematic-evidence.md`, `concepts/disconnection-neuroscience.md`, `concepts/active-reboot.md`, `concepts/filter-theory.md`, `voids/interface-formalization-void.md`. The cluster's load-bearing pattern is the three-route convergence on a single channel taxonomy through mechanically distinct disruptions — the most mature evidential argument the catalogue currently runs.
+- **Output**: [optimistic-2026-05-19e](/reviews/optimistic-2026-05-19e/)
+- **Tasks generated**: 3 (1 P3 expand-topic stochastic emergence as quantum-interface evidence; 1 P3 refine-draft to upgrade existing Convergence-Arguments Discipline task with three-route convergence as worked exhibit; 1 P3 expand-topic conversion disorder as consciousness-side-fault paradigm)
+
+## 2026-05-19T19:00:00+00:00 - condense
+- **Status**: Success
+- **File**: [comparative-phenomenology-of-meditative-traditions](/topics/comparative-phenomenology-of-meditative-traditions/)
+- **Before**: 4033 words
+- **After**: 3054 words
+- **Reduction**: 24%
+- **Technique**: tightened tradition-by-tradition descriptions across the three convergence zones (dissolution of self, awareness-without-content, subject-object collapse); compressed witness-status and cessation-vs-plenitude divergence sections; merged and streamlined the heavily-hedged "For Phenomenological Realism" section (3 long heterophenomenological paragraphs → 2 leaner ones; removed repetition between the calibration-against-divergences framing and the report-vs-experience-structure framing); compressed the long Sino-Indian audit and Neoplatonist common-cause paragraphs in "Against Cultural Construction"; trimmed the deflationist-rejoinder and Buddhist-resistance paragraphs in the Dualism subsection of "Relation to Site Perspective"; tightened the Bidirectional Interaction subsection; preserved opening summary, all wikilinks, references, and tenet-connection structure.
+
+## 2026-05-19T18:29:46+00:00 - deep-review
+- **Status**: Success
+- **File**: [binding-problem](/concepts/binding-problem/)
+- **Argument context**: Cross-review related articles considering concepts/binding-problem.md insights
+- **Word count**: 2937 → 2937 (no change; length-neutral mode at 117% of 2500 soft threshold)
+- **Critical issues addressed**: 0 (none found)
+- **Medium issues addressed**: 0 (none found)
+- **Enhancements made**: 0 (sixth consecutive review at convergence)
+- **Engagement modes** (editor-internal): Illusionist → Mixed (Mode One internal regress + Mode Two argument from reason); identity theorist on synchrony=unity → Mode Two (unsupported foundational move, internal to causal framework); eliminative materialist, MWI defender, Buddhist no-self → Mode Three (framework-boundary, carried from prior reviews). No label leakage in prose.
+- **Attribution check**: passes — Revonsuo (BP1/BP2), Bayne & Chalmers (conjoint phenomenology), Nagel (split-brain), Pinto et al. 2025, Baum 2024 (preprint flagged), Tegmark 2000 / Hagan et al. 2002, Wiest et al. 2024, Kerskens & Pérez 2022 / Warren 2023 (replication caveat preserved), Wimmer et al. 2015, van Inwagen / Merricks / McQueen-Tsuchiya all verified
+- **Calibration check**: passes — article concerns standard human consciousness, not minimal-organism boundary cases; quantum hypothesis hedged "proposes/may/if" throughout; "None of this proves quantum unity generates phenomenal unity" disclaimer preserved; tenets motivate but do not elevate evidential status (tenet-accepting reviewer diagnostic test: no overstated claim)
+- **Stability**: sixth consecutive review with no critical or medium issues. Full convergence declared. Cross-references with wider site stable after 2026-05-19 cross-references pass. Recommend extending next-review interval; future reviews only triggered by coalesce/archive disturbance, substantive new content, or new empirical evidence shifting calibration
+- **Output**: [deep-review-2026-05-19-binding-problem-concept](/reviews/deep-review-2026-05-19-binding-problem-concept/)
+
+## 2026-05-19T19:30:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [sensorimotor-contingencies-and-the-interface](/topics/sensorimotor-contingencies-and-the-interface/)
+- **Word count**: 3260 → 3260 (no change; length-neutral mode at 109% of 3000 soft threshold)
+- **Critical issues addressed**: 0 (none found)
+- **Medium issues addressed**: 0 (none found; 2026-05-19 calibration refine-draft already addressed hedging gap)
+- **Enhancements made**: 0 (article reached stability; preservation pass only)
+- **Engagement modes** (editor-internal): O'Regan/Noë two-horn dilemma → Mode One (defective on its own terms, internal-to-functionalism); enactivist "question is malformed" reply → Mode Three (framework-boundary marking). Mixed engagement, natural prose, no label leakage.
+- **Attribution check**: passes — O'Regan & Noë 2001, Merleau-Ponty, Husserl Leib/Körper, Bach-y-Rita TVSS, Noë 2009 "you are not your brain", Lederman & Klatzky 1987 exploratory procedures, Ramachandran mirror box all verified accurate
+- **Calibration check**: passes — interface reading consistently labelled live hypothesis; empirical-equivalence concessions preserved; no possibility/probability slippage detected (would fail tenet-accepting reviewer's diagnostic test? — no)
+- **Stability**: fourth review; article has reached genuine stability. Future reviews should only flag issues if new content is added, referenced articles change in inconsistency-creating ways, or external literature/source-text moves
+- **Output**: [deep-review-2026-05-19-sensorimotor-contingencies-and-the-interface](/reviews/deep-review-2026-05-19-sensorimotor-contingencies-and-the-interface/)
+
+## 2026-05-19T18:00:00+00:00 - deep-review
+- **Status**: Success
+- **Mode**: Cross-review chain — install reciprocal cross-links to the new concept page [process-content-distinction](/concepts/process-content-distinction/) across siblings that already discuss the process/content distinction inline (chain from 2026-05-19 expand-topic creating the concept page)
+- **Anchor article**: [process-content-distinction](/concepts/process-content-distinction/)
+- **Siblings audited**: 9 — task-listed candidates (a) through (g)
+- **Articles modified**: 8 + 1 reciprocal (source page); cross-mechanism-convergence skipped on task's own conditional logic
+- **Audit question**: Does the candidate article (i) discuss the process/content asymmetric-reliability finding inline, and (ii) currently lack a direct cross-link to the new concept page? Where both conditions met, install reciprocal cross-link + frontmatter entry + Further Reading entry.
+- **Critical issues addressed**: 0 (audit found no factual errors or misattributions in any candidate)
+- **Medium issues addressed**: 0 (cross-link installations are calibration-aligning rather than substantive corrections)
+- **Per-article findings**:
+  - phenomenal-authority — INSTALLED at §"Process/content distinction." (bolded heading → linked); concept added to `concepts:`; Further Reading entry added
+  - introspection — INSTALLED at §"The Crucial Distinction: Process vs. Content" (inline link in opening paragraph); concept added to `concepts:`; Further Reading entry added
+  - heterophenomenology — INSTALLED at §"Why the Map Rejects Heterophenomenology" (Map/Dennett methodological-discipline agreement framing); concept added to `concepts:`; Further Reading entry added
+  - anti-correlated-metacognitive-signal — INSTALLED at §"Limits and Open Questions / Generalisation across cognitive domains" (Coutinho finding lives on process side); added to `related_articles:` and Further Reading
+  - confabulation-void — INSTALLED at §"Generation — The Interpreter Operates Pre-Personally" (after Nisbett-Wilson 1977 citation); concept added to `concepts:`
+  - source-attribution-void — INSTALLED at §"The Confabulatory Layer" (after Nisbett-Wilson 1977 citation, frames the void as architectural fact behind process-side failure); concept added to `concepts:`
+  - narrative-void — INSTALLED at §"The Unreliable Narrator" (after Nisbett-Wilson 1977 citation, frames the void as what fills the process-side gap); concept added to `concepts:`
+  - apex/introspection-architecture-void-cluster — INSTALLED at §"The Five Faces of One Architecture" / Storytelling face (formal naming the cluster's storytelling face presupposes); concept added to `concepts:`
+  - cross-mechanism-convergence — SKIPPED on task's own conditional logic ("install IF the convergence-pattern discussion engages process-content failure modes"); the article's convergence pattern operates on mechanism-distinct empirical perturbations, not on introspective evidence; skipping cleanly honoured the conditional
+  - process-content-distinction (source page) — `related_articles:` extended to mirror three new reciprocal targets ([narrative-void](/voids/narrative-void/), [anti-correlated-metacognitive-signal](/concepts/anti-correlated-metacognitive-signal/), [introspection-architecture-void-cluster](/apex/introspection-architecture-void-cluster/)); existing entries for confabulation-void, source-attribution-void, microphenomenological-interview-method already in place
+- **Engagement modes**: cross-review of existing engagements; no new opponent engagements introduced. Heterophenomenology engagement with Dennett (Mode Three / framework-boundary) preserved; cross-link sharpens methodological-agreement register without re-locating boundary. No label leakage in any article body.
+- **Calibration discipline honoured**: Concept page positioned in all eight target prose-additions as *formal naming of an asymmetric-reliability empirical finding*, never as upgrading evidential status of cited research. Per [evidential-status-discipline](/project/evidential-status-discipline/) — the Nisbett-Wilson finding is *strongly supported*; the broader claim that the process-content distinction is the structural reason for introspective failure is the catalogue's hypothesis built on top of the data; no cross-reference implies the concept upgrades the evidence tier.
+- **Length impact**: ~40–75 words added per file; all eight targets comfortably under soft thresholds; no length-neutral discipline required
+- **Bedrock disagreements**: Previous deep review of the concept page itself flagged Churchland (folk-psychology elimination) and Nagarjuna (conceptual imputation) as framework-boundary disagreements. The cross-links installed in this pass operate inside the Map's framework and inside the broader empirical literature; the bedrock-disagreement framings remain at the concept page and are not propagated unnecessarily.
+- **Output**: [deep-review-2026-05-19-process-content-distinction-cross-review](/reviews/deep-review-2026-05-19-process-content-distinction-cross-review/)
+
+## 2026-05-19T18:08:20+00:00 - refine-draft
+- **Status**: Success
+- **File**: [comparative-phenomenology-of-meditative-traditions](/topics/comparative-phenomenology-of-meditative-traditions/)
+- **Original score**: not formally re-scored; article at deep-review baseline (`last_deep_review: 2026-05-19`); this pass addresses the four structural weaknesses surfaced by [pessimistic-2026-05-19c](/reviews/pessimistic-2026-05-19c/) after the 17:57 UTC honesty pass.
+- **Source**: pessimistic-2026-05-19c Issues 1–4, the three counterarguments table (trained-pattern-completion / category-application convergence / meta-representational deflation), the three Unsupported-Claims rows (line 139 Sino-Indian, line 169 strengthening register, line 165 stripped-content), and the three Language-Improvements rows (line 139 "cannot account for", line 149 "implausible degree", line 87 Dzogchen temporal framing).
+- **Changes**: Six edits installed, structured as the review requested.
+  1. **§"Cessation Versus Plenitude" truncation-resilience** (Issue 1): Added a one-clause forward-reference at the close of the section (after the Buddhist-vs-Vedantic-meditator contrast) flagging that §"For Phenomenological Realism" treats the divergence as a constraint on the convergence argument's evidential reach. A reader who truncates after §"Zones of Divergence" now gets the calibration.
+  2. **Sino-Indian common-cause flag** (Issue 2): At §"Against Cultural Construction", installed a new paragraph after the Neoplatonist-audit paragraph naming the Sino-Indian channel (Mahayana entering China 2nd–4th c. CE, Chan synthesis with Daoism by the Tang, *zuowang* reshaped by *Liezi* and Tang-era imported texts) and flagging the *zuowang*-vipassana pair as the weakest of the article's independent-pair claims. The paragraph relocates argumentative weight to the Indian-Christian and Indian-Sufi pairs (which the Neoplatonist audit explicitly handles) and notes that a parallel Sino-Indian audit is the appropriate next research step.
+  3. **Witness-disagreement as Katzian rejoinder** (Issue 3 — High severity): Installed a paragraph at §"For Phenomenological Realism" parallel to the 17:57 UTC cessation-vs-plenitude honesty paragraph. Names the witness-status divergence (Advaita *sakshi* vs Buddhist momentary *citta* vs Christian relational framing) as the Katzian constructivist's strongest empirical case at the same epistemic register the convergence is alleged to operate; argues the disagreement constrains the convergence argument's reach to *what the traditions agree on*. Frames the Map's reading as the best-explanation rather than only-explanation reading the evidence presently supports.
+  4. **Buddhist Madhyamaka resistance to the dualist reading** (Issue 4): At §"Dualism", installed a new paragraph returning to Nagarjuna's *Mulamadhyamakakarika* (previously cited at line 125 in §"Cessation Versus Plenitude" but not engaged at the Dualism section). Acknowledges that the Madhyamaka reading specifically refuses the move from "the self is empty of inherent existence" to "awareness is something other than its contents," and that the Buddhist contribution converges on the phenomenology while diverging on the metaphysical inference. Reframes the convergence argument's strongest cross-tradition pillars for dualist substantialism as the Vedantic-Christian-Sufi triple, with the Buddhist contribution as friendly-rival at the metaphysical claim.
+  5. **Meta-representational deflation counterargument** (counterarguments table row 3): At §"Dualism", installed a paragraph between the existing self-monitoring reading and the new Buddhist-resistance paragraph. Acknowledges the deflationist's deeper rejoinder (report-of-contentless-awareness is itself a representation, bare presence-marker reading) and frames the Map's reply as a framework-boundary engagement rather than in-framework refutation. The "something more radical" phrasing at the §"Dualism" opening is softened to "awareness whose ordinary representational content has receded as far as the meditator can drive it" — preserves the claim while removing the "stripped of all" formulation the review flagged as overclaim.
+  6. **Trained-pattern-completion / category-application convergence** (counterarguments table rows 1 and 2): At §"For Phenomenological Realism", expanded the existing Dennettian-heterophenomenological paragraph and added a follow-on paragraph engaging the stronger form of the objection — report-production machinery convergence rather than belief transmission, and category-application convergence vs experience-structure convergence. Honest closing: the evidence does not fully discriminate the readings; the realism claim is calibrated *as if* report-convergence is evidence for experience-structure convergence while acknowledging the heterophenomenologist denies the inference is licensed.
+  7. **§"Bidirectional Interaction" mechanism-register calibration** (unsupported-claims row 2 and 4): Calibrated the strengthening claim to the *phenomenological-correlation* register, bracketed "intentional" as itself the tenet's explanandum, and named the mechanism-register question (how non-physical intention reshapes neural architecture over years of practice) as open. The strengthening is real but narrowly scoped.
+  8. **Language calibrations**: Line 139 "cannot account for" → "is in tension with the full pattern but does not dissolve it"; line 149 "implausible degree" → "a high degree the constructivist would need to defend rather than assume"; line 87 Dzogchen "before the subject-object split is constructed" → attributed to Dzogchen's own metaphysical phrasing rather than presented as a structural claim ("the natural state that the subject-object distinction is built upon — the temporal-priority language is the tradition's own metaphysical phrasing").
+- **Engagement classification**: Two named-opponent engagements modified.
+  - **Dennett heterophenomenology** (existing engagement at §"For Phenomenological Realism"): Mode Two (unsupported-foundational-move); the expanded engagement identifies that the deflationist's framework helps itself to "report-production machinery is what produces convergence" without specifying why convergent report-production machinery would not itself require explanation — the explanandum displaces rather than dissolves. Honest in-framework engagement, no boundary-substitution.
+  - **Deflationist physicalist** (new engagement at §"Dualism" meta-representational paragraph): Mode Three (framework-boundary marking); the Map's reply is explicitly named as a framework-boundary engagement rather than in-framework refutation, per [direct-refutation-discipline](/project/direct-refutation-discipline/). The residual-phenomenal-character explanandum is what the deflationist still owes work on, but the Map does not claim to have refuted the deflationist inside the deflationist's framework. The "honestly a framework-boundary disagreement, not an in-framework refutation" phrasing is the natural-prose equivalent of Mode Three, with no editor-vocabulary leakage.
+  - **Nagarjuna / Madhyamaka** (new engagement at §"Dualism"): Mode Three (framework-boundary marking) — the Buddhist contribution converges on phenomenology while diverging on metaphysical inference; the Map names the divergence as friendly-rival rather than claiming to have refuted Madhyamaka inside Madhyamaka's framework. This is the parallel to the cessation-vs-plenitude honesty discipline, applied to a different register.
+- **Editor-vocabulary check**: No `Engagement classification:`, no `Mode N`, no `unsupported-jump`, no `bedrock-perimeter`, no bold-headed `**Evidential status:**` callouts in the article body. The discipline lives in natural prose phrasings ("the Map names it as such here rather than dressing the disagreement as proof", "honestly a framework-boundary disagreement, not an in-framework refutation", "friendly-rival at the *metaphysical* claim"). The Pre-Kepler-stage reference inherited from the 17:57 UTC paragraph is unchanged.
+- **Symmetry / cessation discipline check**: The article does not trigger the altered-state-symmetry audit (it is meditative-phenomenology, not filter/transmission-framed). The cessation-vs-plenitude discipline installed at 17:57 UTC is preserved and is now reinforced by the parallel witness-disagreement honesty paragraph — the article now performs the calibration discipline at three registers (cessation-vs-plenitude, witness-status, affective-tone) rather than only the first.
+- **Word count delta**: ~+580 words. The article was ~3,118 words after the 17:57 UTC pass; now ~3,700 words. The growth is concentrated in the calibration-honesty register (Issues 1, 3, counterargument 1, counterargument 2) and the framework-boundary acknowledgement register (Issue 4, counterargument 3). No new substantive claims; the additions calibrate the strength of existing claims.
+- **Voice preservation**: Original argument structure preserved. The convergence-supports-realism arc is intact; what changes is the calibration of how much that arc can do. The Buddhist contribution still counts toward the convergence argument; what it can no longer do is straightforwardly support dualist substantialism without acknowledgement. The deflationist physicalist position is now engaged at a deeper register than the original self-monitoring paragraph, but the Map's reply is framed honestly (framework-boundary) rather than as proof-of-deflation-defeated.
+- **Published**: yes
+- **Status**: Success
+- **Content reviewed**: [comparative-phenomenology-of-meditative-traditions](/topics/comparative-phenomenology-of-meditative-traditions/) — 3,118 words; the catalogue's most-recently-edited file at review time (today's 17:57 UTC refine-draft installed the cessation-vs-plenitude / affective-tone calibration paragraph at §"For Phenomenological Realism"). Adversarial pressure on freshly-installed discipline.
+- **Output**: [pessimistic-2026-05-19c](/reviews/pessimistic-2026-05-19c/)
+- **Critical/Medium issues**: 4 surface (1 high, 3 medium) — truncation-resilience for the cessation-vs-plenitude calibration (medium); Sino-Indian common-cause channel unaddressed in line-139 independence claim (medium); witness-disagreement not used as Katzian rejoinder against the convergence argument (high); Buddhist (Madhyamaka) contribution partially incompatible with the §"Dualism" engagement's substantialist reading (medium). Three philosopher-persona engagements (Churchland trained-pattern-completion; Dennett category-application convergence; Nagarjuna metaphysically-resistant Buddhist contribution) surface counterarguments the honesty pass did not catch.
+- **Follow-on task**: P2 refine-draft added to todo.md.
+
+## 2026-05-19T17:57:05+00:00 - refine-draft
+- **Status**: Success
+- **File**: [comparative-phenomenology-of-meditative-traditions](/topics/comparative-phenomenology-of-meditative-traditions/)
+- **Original score**: not formally re-scored; article is at deep-review baseline (`last_deep_review: 2026-05-19`)
+- **Source**: optimistic-2026-05-19c §"The Hardline Empiricist (Birch)" §"One framework-stage-calibration concern" (line 84) — calibration-register concern that the §"For Phenomenological Realism" closing names "moderate phenomenological realism" without naming the cessation-vs-plenitude divergence as a constraint on how much the convergence can do.
+- **Changes**: One-paragraph honesty pass installed at §"For Phenomenological Realism" between the moderate-realism claim (existing line 145) and the heterophenomenological objection (existing line 147). The new paragraph (~215 words):
+  - Names cessation-vs-plenitude as the load-bearing constraint, citing the Theravada arahant (nirodha samapatti) vs Vedantin (*sat-chit-ananda*) contrast as the prototype.
+  - States the two-horn structure of the divergence (branching attainments → bounded evidential reach; aphasia limit → realism claim must accommodate) without claiming the convergence-argument is broken.
+  - Names affective tone (Buddhist equanimity vs Bhakti/Sufi ecstatic devotion vs Christian oscillation vs Daoist naturalness) as the sibling divergence at a less load-bearing register, per the optimistic review's task note (c).
+  - Frames both divergences explicitly as Pre-Kepler-stage observations (empirically reported but not theoretically integrated), with wikilinks to [framework-stage-calibration](/project/framework-stage-calibration/) and [evidential-status-discipline](/project/evidential-status-discipline/) — the two discipline pages the task notes name.
+  - Closing move calibrates the moderate-realist conclusion as "correctly the strongest defensible reading" *given* the divergences, honouring [evidential-status-discipline](/project/evidential-status-discipline/) (do not retract; do not over-claim; calibrate).
+- **Engagement classification**: N/A — no named-opponent engagement modified. The existing Dennett heterophenomenological engagement (line 147 → now line 149) was untouched.
+- **Editor-vocabulary check**: One Pre-Kepler-stage reference appears in the new paragraph, which is acceptable because [framework-stage-calibration](/project/framework-stage-calibration/) is the article where that vocabulary lives — natural prose citation of a Map discipline, not editor-internal classification leaking into article text. Wikilinks frame the citation appropriately.
+- **Symmetry / cessation discipline check**: The cessation-vs-plenitude divergence within the new paragraph is *not* an altered-state-symmetry failure mode (this article catalogues meditative phenomenology, not filter vs production framing); the new paragraph honestly engages the divergence rather than papering over it, which is the upstream of what the symmetry discipline asks for at the meta-level.
+- **Word count delta**: +215 words. Article is a structural overview piece (~2900 words); a 7% addition for a calibration honesty pass at the article's load-bearing closing is proportionate to the optimistic review's "load-bearing" framing of the concern.
+- **Voice preservation**: Prose voice and original argument structure preserved. The existing §"For Phenomenological Realism" subsection's flow (moderate-realism claim → heterophenomenological objection → cross-tradition argument → neurophenomenology alignment) is intact; the new paragraph slots between claim and objection without rerouting the surrounding logic.
+- **Published**: yes
+
+## 2026-05-19T17:47:35+00:00 - deep-review
+- **Status**: Success
+- **Scope**: Cross-review of references to coalesced [the-binding-problem](/topics/the-binding-problem/) (2026-05-10 coalesce)
+- **Articles inspected**: [synaesthesia](/topics/synaesthesia/), [quantum-holism-and-phenomenal-unity](/topics/quantum-holism-and-phenomenal-unity/), [three-dimensional-world-representation-problem](/topics/three-dimensional-world-representation-problem/), [dualist-perception](/topics/dualist-perception/), [binding-problem](/concepts/binding-problem/)
+- **Articles modified**: 2 ([binding-problem](/concepts/binding-problem/), [dualist-perception](/topics/dualist-perception/))
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 3 (stale "dedicated treatment" framing in concept article; Further Reading description in dualist-perception; section-anchor precision in dualist-perception body)
+- **Enhancements made**: 3 (anchor-link routing to `#cross-modal` where body claims are variety-specific; honest taxonomy description in Further Reading; five-variety enumeration in the concept article's cross-modal pointer)
+- **Word count delta**: +14 words in `concepts/binding-problem.md`; +6 words in `topics/dualist-perception.md`; both within section thresholds
+- **Engagement classification**: N/A (no named-opponent engagements modified)
+- **Output**: [deep-review-2026-05-19-the-binding-problem-cross-references](/reviews/deep-review-2026-05-19-the-binding-problem-cross-references/)
+- **Notes**: Light-scope cross-review (~50–150 words touched, per task brief). Three of five spot-check articles needed no change (synaesthesia, quantum-holism, three-dimensional-world-representation). The two modified articles had stale framing from the predecessor article (`phenomenal-binding-and-multimodal-integration`) that mispresented the coalesced article as cross-modal-dedicated when it is now a five-variety taxonomy. `last_deep_review` NOT updated on either article — this is a targeted cross-reference pass, not a full deep review (previous full reviews remain authoritative: concept 2026-05-16, dualist-perception 2026-04-18). No calibration slippage, no attribution issues, no editor-vocabulary leaks.
+
+## 2026-05-19T19:30:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [comparing-quantum-consciousness-mechanisms](/topics/comparing-quantum-consciousness-mechanisms/)
+- **Word count**: 3290 → 3262 (−28 words; 109% of 3000-word soft threshold, length-neutral mode)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 2 (attribution sharpening + editor-flavored phrasing in new Duch section)
+- **Enhancements made**: 2
+- **Engagement classification**: engagement with Duch: Mode Three (framework-boundary marking); article names convergent-conclusion-opposite-reasoning relationship explicitly and parts ways at zero-vs-minimal interface without claiming to refute Duch's classical-sufficiency inside his own framework.
+- **Output**: [deep-review-2026-05-19-comparing-quantum-consciousness-mechanisms](/reviews/deep-review-2026-05-19-comparing-quantum-consciousness-mechanisms/)
+- **Notes**: Tenth review. Article remains stable. Refinements target only the new Duch section (added 2026-05-03 commit `b90a58310`); the nine-times-reviewed core was untouched. Attribution sharpening: "pseudo-mysticism" now correctly attributed to Duch's class-level dismissal rather than implied as his named example for Orch OR. Editor-flavored phrasing in Duch's second paragraph rewritten to journal-quality prose. No critical issues, no calibration slippage (no five-tier-scale terms applied to any mechanism), no editor-vocabulary leaks. Stability recommendation reaffirmed: exclude from candidate selection until substantive new content modifies claims.
+
+## 2026-05-19T19:00:00+00:00 - refine-draft
+- **Status**: Success
+- **File**: [sensorimotor-contingencies-and-the-interface](/topics/sensorimotor-contingencies-and-the-interface/)
+- **Original score**: not formally re-scored; article was at deep-review baseline (`last_deep_review: 2026-03-31`)
+- **Source**: Topic-concept anchoring audit 2026-05-19. Topic over-claimed relative to anchor concept `[[mind-brain-separation]]` (hedge density 0.74/kw vs 7.54/kw, 10% of anchor; under 60% threshold) and to `[[filter-theory]]` (0.74/kw vs 3.79/kw, 19%); both anchors declare underdetermination explicitly while the topic had no underdetermination markers.
+- **Changes**: Installed natural-prose calibration discipline at every load-bearing claim while preserving the central interface-reading argument:
+  - Lead paragraph: changed "The Unfinishable Map argues that sensorimotor contingencies do not explain consciousness but reveal the structure of the interface" to "The Unfinishable Map suggests that sensorimotor contingencies may not explain consciousness but instead reveal..."; added an explicit underdetermination clause ("Neither interpretation is forced by the data alone: the same sensorimotor findings are compatible with the enactivist reading on which contingency mastery exhausts perceptual experience, and with the interface reading...").
+  - Second paragraph: framed the interface reading explicitly as "a live hypothesis the sensorimotor evidence is compatible with rather than uniquely confirms."
+  - O'Regan-Noë proposal paragraph: hedged the constitutive claim as "On their account..." with a closing sentence acknowledging the proposal's contested status.
+  - Phantom-limb-and-filter paragraph: softened "this is precisely what one would expect" to "this is the sort of pattern one might expect" and added the productivist-accommodation paragraph noting that the data "constrains accounts that deny the phantom's phenomenal reality but does not by itself establish either rival reading over the other" (constrain-vs-establish discipline applied).
+  - Sensory-substitution paragraph: changed "consciousness adapts to a new interface" to "consciousness adapts to a new interface" with explicit hedging ("something more specific *may* be happening"); strengthened the existing fair-assessment paragraph with "the evidence does not decisively adjudicate between them" (explicit underdetermination marker).
+  - Bach-y-Rita paragraph: added closing clause that the same pattern is "also consistent with neural-plasticity readings on which the cortex remaps spatial coding to track whichever channel carries reliable information" (rival-model symmetry).
+  - Noë's-dilemma paragraph: added framework-boundary acknowledgment that the disagreement at this point "arguably tracks a framework boundary the empirical data alone does not adjudicate" (Mode Three engagement made explicit in natural prose).
+  - Map's-answer paragraph: changed "embodied engagement provides the interface structure, but consciousness is not identical to that structure" to "The Map's tentative answer is that embodied engagement may provide the interface structure while consciousness is not identical to that structure," explicitly flagged as "a live hypothesis the sensorimotor data is compatible with, not as an empirically forced verdict."
+  - Capability-division paragraph: hedged the brain-side/mind-side assignment as "may belong on the brain-side" with closing acknowledgment that "the division is itself a candidate framework the catalogue is exploring; the sensorimotor data does not by itself force it over rival framings."
+  - Grammar-metaphor paragraphs: changed "Sensorimotor contingencies function as the interface's grammar" to "On the interface reading, sensorimotor contingencies may function as something like the interface's grammar...The grammatical metaphor is offered as an interpretive frame, not a claim the contingency data alone establishes"; hedged subsequent identity claims throughout the section; added explicit acknowledgment that "the neural-plasticity reading describes the same phenomena without positing a separate speaker, and the empirical data does not decide between these framings."
+  - Mirror-box / Ramachandran paragraphs: hedged the interface-reading account ("might be occurring," "could retain structure") and closed with "Both readings remain compatible with the clinical findings."
+  - Phantom-interface-persistence closing: added that the body-schema question is one "the phantom data alone does not adjudicate."
+  - Bidirectional-Interaction tenet section: hedged "consciousness acts on the body" to "consciousness *may* act on the body"; added rival-model compatibility note ("it is also compatible with enactivist readings on which the same bidirectionality is the whole story, with no separate consciousness for the body to influence").
+  - No-Many-Worlds tenet section: replaced "collapse rather than branching produces the determinate bodily engagement" with "would on the Map's reading produce..." and explicit closing note that "the phenomenological observation does not by itself establish single-world over many-worlds metaphysics."
+- **Calibration profile after refine**: hedge density 12.27/kw (up from 0.74/kw), 40 hedges (up from 2), 5 explicit underdetermination markers (up from 0), strong-assertion density 1.23/kw (within 1.5× ratio of both anchors). All anchoring-audit flags now clear against `mind-brain-separation` and `filter-theory` anchors.
+- **Engagement modes**: not applicable as a primary editorial move — but the Noë dilemma section now explicitly marks the enactivist disagreement as framework-boundary (Mode Three) in natural prose, where previously it was presented as if the Map's reading settled the matter inside enactivism's framework. The Map's preferences are now consistently flagged as preferences rather than as evidentially forced verdicts.
+- **Tenet routing**: not changed; the relation-to-site-perspective section was hedged in calibration but not restructured.
+- **Word count delta**: +546 words (2714 → 3260); within natural-refine range, driven by the explicit installation of underdetermination clauses and rival-model symmetry paragraphs.
+- **Published**: yes
+
+## 2026-05-19T17:00:00+00:00 - refine-draft
+- **Status**: Success
+- **File**: [attention-and-the-consciousness-interface](/topics/attention-and-the-consciousness-interface/)
+- **Original score**: not formally re-scored; article was at deep-review baseline (`last_deep_review: 2026-04-04`)
+- **Source**: Topic-concept anchoring audit 2026-05-19. Topic over-claimed relative to anchor concepts `[[phenomenal-consciousness]]` (hedge density 0.54/kw vs 6.76/kw, 8% of anchor; under threshold of 60%) and `[[mental-effort]]` (missing underdetermination markers); one strong-assertion verb where phenomenal-consciousness anchor had zero.
+- **Changes**: Installed natural-prose calibration hedges at six load-bearing claims without weakening the central argument:
+  - Premotor-theory signatures paragraph: noted that the convergence pattern is compatible with shared-substrate readings *and* with independent systems that happen to share oscillatory signatures.
+  - Attention-as-motor-planning identification: framed as live hypothesis the empirical convergence motivates rather than settles; data compatible with weaker readings (tight coupling rather than identity).
+  - Trilemma paragraph: added that whether the interface proposal is forced by the architecture or merely compatible with it "the architecture alone does not adjudicate" (underdetermination marker installed).
+  - Cai et al. discussion: softened "reveal" to "report," "emerge" to "appear in the data," and added closing sentence: "the clinical picture constrains accounts that ignore the salience-and-threshold layer; it does not establish the interface reading over its rivals" (constrain-vs-establish discipline applied).
+  - Block overflow paragraph: added "Neither interpretation is forced by the dissociations alone" (explicit underdetermination marker, mirrors `concepts/filter-theory` anchor calibration).
+  - COGITATE paragraph: added that the findings "constrain rival functional theories without by themselves establishing the interface reading."
+  - AST disagreement paragraph: replaced "Neither side refutes the other" with "Neither side closes the case against the other" — removes the one strong-assertion verb the audit caught while preserving the bedrock-perimeter framing.
+  - Effort/James paragraph: hedged "vindicates him" with "seems to vindicate him, though the same correlations are compatible with weaker readings on which effort tracks underlying cognitive cost without itself doing causal work."
+  - Phenomenological kaleidoscope close: explicitly named the constraint-without-adjudication move ("dissociation pattern thus constrains the strongest versions of both reductive identity and substance-independence readings without by itself adjudicating between the surviving alternatives").
+- **Calibration profile after refine**: hedge density 2.79/kw (up from 0.54/kw), 11 hedges, 0 strong-assertion verbs (down from 1), 3 underdetermination markers (up from 0). All anchoring-audit flags now clear: phenomenal-consciousness, mental-effort, functionalism, witness-consciousness anchors all pass. Article voice preserved — no central claim weakened, only the dialectical situation made honest about what the evidence does and does not adjudicate.
+- **Engagement modes**: not applicable — refine added calibration discipline to existing argument; no engagement modes changed (existing engagements with AST, the materialist, and the epiphenomenalist preserved).
+- **Tenet routing**: not changed; the relation-to-site-perspective section was not touched.
+- **Word count delta**: +263 words (3675 → 3938); within natural-refine range.
+- **Published**: yes
+
+## 2026-05-19T18:30:00+00:00 - refine-draft
+- **Status**: Success
+- **File**: [animal-consciousness](/topics/animal-consciousness/)
+- **Original score**: not formally re-scored (curate review tool unavailable); article was at solid baseline per `last_deep_review: 2026-05-08`
+- **Source**: Unconsumed research note [animal-consciousness-2024-2025-literature-2026-05-19](/research/animal-consciousness-2024-2025-literature-2026-05-19/) — literature-drift cadence, four of six recommended additions installed in one pass
+- **Changes**:
+  - Added "The Marker Method" subsection with new named anchor `#the-marker-method` in Growing Scientific Agreement, citing Andrews/Birch/Sebo (2025, *Science*) for the operationalised post-NYDeclaration methodology; LLM-failure example included to discipline marker extrapolation; Bayne/Carter/Seth (2024, TICS) added as parallel theory-light/theory-heavy taxonomy citation
+  - Updated Insect Consciousness section with Chittka et al. (2025, *Phil. Trans. B*) specific 2025 evidence: age-graded bumblebee object engagement, fruit-fly play, persistent-affect post-predator-attack lasting days; framed in marker-method terms not constitutive ones
+  - Added Wandrey & Halina (2025, *Philosophy Compass*) note to Standing Agnostic Challenge section, mapping identification-methodology underdetermination onto the early-evolution vs. latecomer debate; routed to Tenet 5 (Occam's Razor Has Limits)
+  - Added COGITATE Consortium (2025, *Nature* + *Neuroscience of Consciousness*) callout to "Why the Inference Is Stronger for Animals Than for AI" section; framed the Map's preferred route (markers + convergent evolution + dualist no-barrier) as not running through IIT or GNWT, which the adversarial test weakened; routed to Tenets 1 and 5
+  - Six new references added to bibliography (Andrews/Birch/Sebo 2025, Bayne/Carter/Seth 2024, Wandrey & Halina 2025, Cogitate Consortium 2025; existing Chittka 2025 entry expanded with full author list)
+  - Updated `ai_modified` and set `last_curated` to current ISO timestamp
+- **Engagement modes**: not applicable — refine added evidential and methodological citations to existing argument; no new named-opponent engagements introduced (existing engagements with Frankish, LeDoux, Carruthers preserved unchanged)
+- **Tenet routing**: All four additions explicitly routed back to Tenet 1 (Dualism — markers/methodology are correlates not constituents) and Tenet 5 (Occam's Razor Has Limits — context-dependent grading, identification-methodology underdetermination, IIT/GNWT non-convergence)
+- **Scope discipline**: Deferred Birch (2025) précis and Dimensions of Corvid Consciousness (2025, *Animal Cognition*) per research-note recommendation to either the corvid sibling article or a separate small refine; article length kept proportionate to section norms
+- **Word count**: +~450 words added (within target 300–500 range from task notes)
+- **Published**: yes
+
+## 2026-05-19T17:05:00+00:00 - research-topic
+- **Status**: Success
+- **Topic**: animal-consciousness 2024–2025 literature for active-research-section literature-drift cadence
+- **Output**: [animal-consciousness-2024-2025-literature-2026-05-19](/research/animal-consciousness-2024-2025-literature-2026-05-19/)
+- **Sources consulted**: 13 web searches; key 2024–2025 citations: Andrews/Birch/Sebo *Science* 2025 marker method, Chittka et al. *Phil. Trans. B* 2025 insect consciousness, Wandrey & Halina *Philosophy Compass* 2025 evolution-of-animal-consciousness, COGITATE adversarial-collaboration 2025 (Nature + Neuroscience of Consciousness), Birch 2025 précis, Bayne/Carter/Seth 2024 TICS, "Dimensions of Corvid Consciousness" 2025 *Animal Cognition*, Godfrey-Smith 2024 NDS, Gutfreund 2024 still-agnostic, honeybee-sentience 2025, Birch et al. (2021) precautionary-framework refinement (April 2025), Jeremy Coller Centre for Animal Sentience (Sep 2025 institutional)
+
+## 2026-05-19T18:00:00+00:00 - deep-review
+- **Status**: Success
+- **Mode**: Cross-link audit — verify reciprocal links between [calibration-audit-triple](/project/calibration-audit-triple/) and named methodology siblings (per /deep-review argument)
+- **File**: [calibration-audit-triple](/project/calibration-audit-triple/)
+- **Previous review**: [2026-05-17](/reviews/deep-review-2026-05-17-calibration-audit-triple/)
+- **Word count**: 3653 → 3671 (+18; 146% → 147% of 2500 soft threshold; hard_warning, length-neutral within sibling-page norms)
+- **Critical issues addressed**: 1 (missing reciprocal links to two sibling articles added after the 2026-05-17 reciprocity sweep — `concepts/cross-mechanism-convergence.md` and `project/voids-circularity-discount.md`)
+- **Medium issues addressed**: 0
+- **Enhancements made**: 4 link sites installed (2 outgoing from triple, 1 each incoming from the two siblings; frontmatter + Further Reading at each site); 1 redundant sentence tightened in "Why a Triple" section to remain length-neutral
+- **Engagement modes**: none — article is editorial-machinery documentation, does not engage named opponents
+- **Bedrock disagreements noted in archive**: none applicable (methodology infrastructure)
+- **Files touched**: [calibration-audit-triple](/project/calibration-audit-triple/), [cross-mechanism-convergence](/concepts/cross-mechanism-convergence/), [voids-circularity-discount](/project/voids-circularity-discount/)
+- **Output**: [deep-review-2026-05-19-calibration-audit-triple](/reviews/deep-review-2026-05-19-calibration-audit-triple/)
+
+## 2026-05-19T17:30:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [process-content-distinction](/concepts/process-content-distinction/)
+- **Previous review**: Never
+- **Word count**: 1961 → 2227 (+266; 78% → 89% of 2500 soft threshold)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 3 (lead overclaim calibrated; Dennett/heterophenomenology framing sharpened; replication claim disambiguated between robust core and contested periphery)
+- **Low issues addressed**: 1 (stocking-position figure corrected from "4-to-1" to precise N&W 1977 numbers — ~40% vs ~12%, roughly three-to-one)
+- **Enhancements made**: 2 (added Dennett-distinction paragraph; added McGinn cognitive-closure neutral acknowledgement in "What the Distinction Does Not Claim")
+- **Engagement modes**: none — article does not engage named opponents adversarially; cooperative engagements with Dennett and Schwitzgebel; no mode classification or label-leakage risk
+- **Bedrock disagreements noted in archive**: Churchland (folk-psychology elimination), Nagarjuna (conceptual imputation) — flagged for future-review stability
+- **Output**: [deep-review-2026-05-19-process-content-distinction](/reviews/deep-review-2026-05-19-process-content-distinction/)
+
+## 2026-05-19T16:48:03+00:00 - deep-review
+- **Status**: Success
+- **Mode**: Cross-review chain — verify sibling articles consistent with heterophenomenology.md narrower-formulation refine (commit `cf8854e37`)
+- **Anchor article**: [heterophenomenology](/concepts/heterophenomenology/)
+- **Siblings audited**: 5 — [phenomenal-authority-and-first-person-evidence](/topics/phenomenal-authority-and-first-person-evidence/), [self-stultification-as-master-argument](/topics/self-stultification-as-master-argument/), [process-content-distinction](/concepts/process-content-distinction/), [introspection](/concepts/introspection/), [phenomenology](/concepts/phenomenology/)
+- **Audit question**: Does any sibling assert the stronger/broader self-stultification claim against heterophenomenology specifically, without acknowledgement that it can be resisted at the bedrock-disagreement boundary?
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Articles modified**: 0 (all five at compatible register)
+- **Per-article findings**:
+  - phenomenal-authority — consistent; already carries the narrower formulation at §"Methodological Implications" (touched same ai_modified timestamp as anchor)
+  - self-stultification-as-master-argument — not in scope; heterophenomenology not among the four self-stultification targets
+  - process-content-distinction — consistent; engages Dennett at the methodological-discipline-agreement register (line 66)
+  - introspection — not in scope; broader self-undermining charge targets illusionism, not heterophenomenology
+  - phenomenology — consistent; broader charge appears against illusionism only, with "appears to" hedge and explicit concession that functionalist accounts are active research programmes
+- **Engagement modes**: cross-review of existing engagements; no new opponent engagements introduced. Prior classifications preserved (Mode One internal-to-Dennett for narrower self-stultification in anchor + phenomenal-authority; Mode Three framework-boundary for broader-charge presentations against illusionism specifically). No label leakage.
+- **Bedrock-disagreement framing**: Routed through [constitutive-vs-referring-observation](/concepts/constitutive-vs-referring-observation/) via the [phenomenal-authority section](/topics/phenomenal-authority-and-first-person-evidence/#constitutive-vs-referring-observation). The narrower formulation locates the disagreement; sibling articles either echo or operate at a different register. Convergence finding.
+- **Output**: [deep-review-2026-05-19-heterophenomenology-narrower-formulation-cross-coherence](/reviews/deep-review-2026-05-19-heterophenomenology-narrower-formulation-cross-coherence/)
+
+## 2026-05-19T16:35:00+00:00 - expand-topic
+- **Status**: Success
+- **Topic**: The Process/Content Distinction
+- **Output**: [process-content-distinction](/concepts/process-content-distinction/)
+- **Word count**: 1961
+- **Based on research**: no (founding empirical source Nisbett & Wilson 1977 already cited across 10+ catalogue articles; gap was the lack of a dedicated concept page)
+
+## 2026-05-19T16:28:35+00:00 - deep-review
+- **Status**: Success
+- **Mode**: Cross-link install from [optimistic-2026-05-19d](/reviews/optimistic-2026-05-19d/) §"Cross-Linking Suggestions" (four reciprocal pairs)
+- **Files touched**: 4 — [phenomenal-authority-and-first-person-evidence](/topics/phenomenal-authority-and-first-person-evidence/), [somatic-interface](/concepts/somatic-interface/), [heterophenomenology](/concepts/heterophenomenology/), [mechanism-costs-dualism-thickness-quadrants](/topics/mechanism-costs-dualism-thickness-quadrants/)
+- **Pairs installed**:
+  - (a) phenomenal-authority §"Three Layers" ↔ somatic-interface §"Channels" — structural parallel between epistemological layers and phenomenological channels, cleavage lines explicitly non-coincident
+  - (b) heterophenomenology §"Heterophenomenology vs. Neurophenomenology" ↔ phenomenal-authority §"Methodological Implications" — Varela/Dennett canonical statement consolidated into heterophenomenology; phenomenal-authority references rather than rehearses
+  - (c) mechanism-costs §"Q1" ↔ phenomenal-authority §"Acquaintance and the Dualism Connection" — acquaintance relation and authority-law debt named as same problem at different layers, routed to [interface-formalization-void](/voids/interface-formalization-void/)
+  - (d) somatic-interface §"What the Somatic Interface Reveals" ↔ mechanism-costs §"Map's Cell and Its Neighbours" — three interface properties instantiate Q1's narrow-probabilistic-channel cell at the embodiment level
+- **Word counts** (before → after; all four at soft_warning pre and post-edit, none at hard):
+  - phenomenal-authority: 3663 → 3835 (+172, 122% → 128% of soft)
+  - somatic-interface: 2715 → 2823 (+108, 109% → 113%)
+  - heterophenomenology: 2700 → 2734 (+34, 108% → 109%)
+  - mechanism-costs: 3043 → 3175 (+132, 101% → 106%)
+- **Critical issues addressed**: 0 (install-only pass; source review is the persona-engagement step)
+- **Calibration discipline**: all pointer paragraphs named as structural-not-identity; somatic-interface's "alternative metaphysical interpretation rather than competing clinical hypothesis" framing preserved; mechanism-costs's non-adjudicative posture preserved; phenomenal-authority's gradient-of-warranted-trust table untouched
+- **Engagement classification**: not applicable — install pass, no named-opponent engagement
+- **Output**: [deep-review-2026-05-19-cross-link-install-from-optimistic-2026-05-19d](/reviews/deep-review-2026-05-19-cross-link-install-from-optimistic-2026-05-19d/)
+
+## 2026-05-19T21:45:00+00:00 - coalesce
+- **Status**: Abandoned (no suitable merge candidates found)
+- **Section pressure**: voids 102/100 (over cap), topics 247/250, concepts 246/250 — searched voids first as most-pressured.
+- **Candidate clusters surveyed**:
+  - Affective family: [affective-void](/voids/affective-void/), [mood-void](/voids/mood-void/), [valence-void](/voids/valence-void/), [appetitive-void](/voids/appetitive-void/), [emotional-epistemology-void](/voids/emotional-epistemology-void/) — each explicitly disclaims overlap with the others in its own prose ("distinct from affective, mood, and mattering voids"; "concerns the opacity of the one affective state we are always inside of"; "the range problem, not the structure problem"). Merging would destroy load-bearing distinctions.
+  - Cognitive-limit family: [closure-types-void](/voids/closure-types-void/), [biological-cognitive-closure](/voids/biological-cognitive-closure/), [formal-cognitive-limits](/voids/formal-cognitive-limits/), [inference-void](/voids/inference-void/) — each carves a distinct conceptual joint (representational vs psychological closure, evolutionary origins, formal-systems limits, inferential transit). Already coalesced and cross-referenced.
+  - Born-rule pair: [born-rule-and-the-consciousness-interface](/topics/born-rule-and-the-consciousness-interface/) (framework + interpretation, already coalesced) and [brain-internal-born-rule-testing](/topics/brain-internal-born-rule-testing/) (specific empirical programme for the corridor reading) — companion pieces with deliberate division of labour, not overlap.
+  - Interface family: [interface-friction](/concepts/interface-friction/), [interface-threshold](/concepts/interface-threshold/), [interface-heterogeneity](/concepts/interface-heterogeneity/) — each names a distinct dimension (resistance, phase transition, mechanism variation) of the same architecture.
+- **Conclusion**: After surveying four candidate clusters across the most-pressured section and adjacent areas, no pair or set showed the kind of substantive overlap that coalesce is meant to address. The content base is mature and already well-curated against redundancy (59/246 concepts and many voids already carry `coalesced_from` markers). Per skill instructions ("if no good candidates exist… abandon the attempt and do not merge anything"), no content modifications made.
+
+## 2026-05-19T21:30:00+00:00 - deep-review
+- **Status**: Success (no content modifications — stability confirmed)
+- **File**: [interface-formalization-void](/voids/interface-formalization-void/)
+- **Previous review**: [2026-03-18](/reviews/deep-review-2026-03-18-interface-formalization-void/) — second review cycle
+- **Word count**: 1881 → 1881 (no change; 94% of voids/ 2000-word soft threshold, length-neutral mode)
+- **Critical issues addressed**: 0 (none found)
+- **Medium issues addressed**: 0 (none found)
+- **Enhancements made**: 0 (article is stable)
+- **Modifications since prior review surveyed**: (a) 2026-04-17 wikilink migrations `computational-cognitive-limits`/`incompleteness-void` → `formal-cognitive-limits` (body unchanged); (b) 2026-04-30 retarget `mathematical-void` → `the-quantitative-comprehension-void#the-abstract-mathematical-ceiling` (body + related_articles); (c) 2026-05-11 reciprocal `related_articles` additions for `mechanism-costs-dualism-thickness-quadrants` and `four-quadrant-dualism-taxonomy` (no body change). None introduced new arguments or attributions.
+- **Slippage discipline (2026-05-03 ChatGPT priority)**: structurally not available — article makes no empirical-status claims on the five-tier scale. Argument is logical-deductive from tenets to formalisation-limit conclusion; "if dualism is correct, then..." framing is correctly tenet-derivation, not empirical discovery. Hardline Empiricist persona registers explicit praise for the tenet-as-evidence-upgrade move declined.
+- **Engagement classification**: not applicable — article addresses positions (mathematical structuralism, MWI, materialist reductionism) and frameworks (Kleiner, Chalmers/McQueen IIT+CSL, Chang/Tsuchiya category theory), not named-philosopher direct-refutation targets. Framework discussion is observational ("captures structural X, falls silent at non-structural Y"). No mode classification required; no editor-vocabulary leakage detected in prose.
+- **Attribution accuracy**: clean. Russell, Masanes/Galley/Müller, Pati, Tonetto, Kleiner, Chalmers/McQueen, Chang/Tsuchiya all correctly cited and consistent with site usage (cross-verified against `research/` notes and `topics/mathematical-structure-of-the-consciousness-physics-interface.md`).
+- **Bedrock disagreements re-confirmed (do not re-flag)**: eliminative-materialist non-structural-actuality rejection, hard-nosed physicalist functionalism, quantum-skeptic measurement-consciousness dismissal, MWI dissolution of actualisation (explicitly addressed in No Many Worlds paragraph), Mādhyamaka emptiness of intrinsic nature, empiricist unfalsifiability of voids claims.
+- **Recommendation**: exclude from review queue unless a new related article introduces integration need, or ≥6 months elapse. The candidate scorer's signal (modified-since-review) was driven by wikilink-migration churn rather than argumentative drift.
+- **Output**: [deep-review-2026-05-19-interface-formalization-void](/reviews/deep-review-2026-05-19-interface-formalization-void/)
 
 ## 2026-05-19T21:00:00+00:00 - deep-review
 - **Status**: Success (no content modifications — stability confirmed)

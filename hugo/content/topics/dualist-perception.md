@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-19
-ai_modified: 2026-04-23 22:19:00+00:00
+ai_modified: 2026-05-19 17:47:35+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -22,7 +22,7 @@ concepts:
 - '[[binding-problem]]'
 - '[[phenomenal-overflow]]'
 created: 2026-02-16
-date: &id001 2026-04-23
+date: &id001 2026-05-19
 description: Perception is where consciousness meets the world. Dissociations, phenomenal
   richness, and perspectival character reveal an irreducible experiential dimension—and
   dualism reshapes every major question in the philosophy of perception.
@@ -118,7 +118,7 @@ Perceptual experience presents unified scenes. You see a red ball bouncing acros
 
 Proposed neural mechanisms — gamma-band synchrony, re-entrant processing, attentional binding — can explain how information is *integrated* across brain regions. But they face a further question: why does the integration produce a unified *experience*? Correlated firing in dispersed neural populations is still just dispersed firing from the physical perspective.
 
-The Map's framework suggests that [phenomenal binding](/concepts/binding-problem/) is a feature of consciousness rather than a feature of neural computation. In [capability division](/voids/capability-division-problem/) terms, feature extraction and spatial mapping are brain-side capabilities, while the phenomenal unification of those features into a coherent experiential scene is a mind-side contribution. [Cross-modal binding](/topics/the-binding-problem/) extends this beyond single modalities, suggesting that the unity of consciousness is not an artefact of any single sensory processing stream.
+The Map's framework suggests that [phenomenal binding](/concepts/binding-problem/) is a feature of consciousness rather than a feature of neural computation. In [capability division](/voids/capability-division-problem/) terms, feature extraction and spatial mapping are brain-side capabilities, while the phenomenal unification of those features into a coherent experiential scene is a mind-side contribution. [Cross-modal binding](/topics/the-binding-problem/#cross-modal) extends this beyond single modalities, suggesting that the unity of consciousness is not an artefact of any single sensory processing stream.
 
 ## What Dualism Adds to Perception Theory
 
@@ -177,7 +177,7 @@ The Map's [tenets](/tenets/) find their sharpest expression in perception.
 - [phenomenal-overflow](/concepts/phenomenal-overflow/) — When experience outruns cognitive access
 - [Phenomenal transparency](/concepts/phenomenal-transparency-opacity-spectrum/) — Why we see through experience to the world
 - [binding-problem](/concepts/binding-problem/) — The challenge of phenomenal unity from dispersed processing
-- [the-binding-problem](/topics/the-binding-problem/) — Cross-modal binding and phenomenal unity
+- [the-binding-problem](/topics/the-binding-problem/) — Five varieties of binding (intra-modal, cross-modal, temporal, cognitive, subject) and the shared structural gap
 - [sensorimotor-contingencies-and-the-interface](/topics/sensorimotor-contingencies-and-the-interface/) — Enactivist perception and the interface model
 - [predictive-processing-and-dualism](/topics/predictive-processing-and-dualism/) — Predictive processing through a dualist lens
 - [predictive-construction-void](/voids/predictive-construction-void/) — Why consciousness cannot determine the construction/reception boundary in perception

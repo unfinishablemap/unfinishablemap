@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-09
-ai_modified: 2026-05-19 15:31:26+00:00
+ai_modified: 2026-05-19 18:00:00+00:00
 ai_system: claude-opus-4-7
 author: null
 coalesced_from:
@@ -16,6 +16,7 @@ coalesced_from:
 - /topics/phenomenological-method-and-evidence-standards-2026-04-18/
 concepts:
 - '[[introspection]]'
+- '[[process-content-distinction]]'
 - '[[phenomenal-acquaintance]]'
 - '[[qualia]]'
 - '[[phenomenological-evidence]]'
@@ -41,7 +42,7 @@ description: First-person reports carry layered epistemic authority — apodicti
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-05-19 15:31:26+00:00
+last_deep_review: 2026-05-19 16:28:35+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -70,6 +71,8 @@ related_articles:
 - '[[microphenomenological-interview-method]]'
 - '[[voids/confabulation-void]]'
 - '[[anti-correlated-metacognitive-signal]]'
+- '[[somatic-interface]]'
+- '[[mechanism-costs-dualism-thickness-quadrants]]'
 title: Phenomenal Authority and First-Person Evidence
 topics:
 - '[[hard-problem-of-consciousness]]'
@@ -105,6 +108,8 @@ Phenomenal authority decomposes into layers, each mapping onto Husserl's taxonom
 
 The decomposition matters because the Map's core arguments draw on different layers. The [hard problem](/topics/hard-problem-of-consciousness/) rests primarily on layers 1 and 2. The [knowledge-argument](/concepts/knowledge-argument/) depends on acquaintance with phenomenal character under attention (layer 2). Challenges from introspective scepticism are strongest at layer 3, where the Map's core arguments have the least stake.
 
+The layered structure parallels the [channel structure of the somatic interface](/concepts/somatic-interface/#channels-of-the-somatic-interface) in a way worth flagging without conflating the two: epistemological layers of warranted trust are not phenomenological channels of bodily reporting, but both decompose what looks monolithic into registers that admit different evidence and pathologies. The parallel is structural; the cleavage lines do not coincide.
+
 ## Constitutive vs Referring Observation
 
 The layered structure raises a sharper question: *why* is layer 1 apodictic in a way no other empirical observation is? The answer turns on a structural distinction between two kinds of observation, developed in detail in [constitutive-vs-referring-observation](/concepts/constitutive-vs-referring-observation/).
@@ -127,6 +132,8 @@ Chalmers argues that we stand in a basic epistemic relation of *acquaintance* wi
 
 The main physicalist response is the [phenomenal concepts strategy](/topics/phenomenal-concepts-as-materialist-response/): first-person concepts pick out physical states under a special mode of presentation, just as "water" and "H₂O" refer to the same substance under different guises. Chalmers' counter: if phenomenal concepts are constituted by phenomenal qualities, the concept/referent gap collapses. For consciousness, appearance *is* reality.
 
+The acquaintance relation has an ontological counterpart at the mechanism layer: an epistemology grounded in direct phenomenal acquaintance owes an ontology that can carry the relation. The [Q1 cell of the mechanism-costs cartography](/topics/mechanism-costs-dualism-thickness-quadrants/#q1) identifies the corresponding debt as an *authority law* — a non-stipulative specification of what makes a mental rule authoritative over the physical state's default causal profile — and assigns the live open problem to the [interface-formalization-void](/voids/interface-formalization-void/). Phenomenally-grounded epistemology and mechanism-grounded ontology are the same problem at different layers.
+
 ## Competing Models of Introspective Knowledge
 
 **The acquaintance model** (Russell, BonJour, Chalmers) holds that conscious states are self-presenting — to be in pain is already to be aware of pain. It explains why introspective knowledge feels certain and why phenomenal knowledge cannot be deduced from physical truths. Apparent infallibilism dissolves once we distinguish *acquaintance* from *judgement*: you may be acquainted with your phenomenal state while forming an inaccurate judgement about it.
@@ -147,7 +154,7 @@ Crucially, these critiques are unevenly distributed across the three layers. At 
 
 Strict calibration against an independent standard is impossible — the [observation-and-measurement-void](/voids/observation-and-measurement-void/) establishes this as structural. Five strategies provide epistemic traction:
 
-**Process/content distinction.** Nisbett and Wilson's (1977) founding critique concerns *causal processes*, not *phenomenal content*. People cannot report why they chose one item, but reports about current phenomenal content occupy different epistemic terrain — we are *acquainted* with qualitative character while lacking knowledge of generating processes.
+**[Process/content distinction](/concepts/process-content-distinction/).** Nisbett and Wilson's (1977) founding critique concerns *causal processes*, not *phenomenal content*. People cannot report why they chose one item, but reports about current phenomenal content occupy different epistemic terrain — we are *acquainted* with qualitative character while lacking knowledge of generating processes. The concept page treats the distinction as the calibration craft the Map applies whenever first-person evidence is in play, with the asymmetric-reliability backbone *strongly supported* under [evidential-status-discipline](/project/evidential-status-discipline/) while the broader pessimist programme (Schwitzgebel; Lush & Dienes) is more contested.
 
 **Convergence across traditions.** Buddhist vipassanā, Hindu dhyāna, Christian contemplative prayer, and secular mindfulness practitioners converge on structural findings: the constructed character of the narrative self, the distinction between awareness and its contents, the discrete temporal grain of experience (see [epistemology-of-convergence-arguments](/topics/epistemology-of-convergence-arguments/)). The stronger "perennialist" reading (Stace 1960; Forman 1990) — that contemplatives across traditions report the same underlying state — has been challenged by Katz (1978) and Sharf (1995): apparently-convergent reports are heavily shaped by tradition-specific theory and training. The defensible claim restricts to structural features that survive translation across frameworks; foundational-level divergences remain real.
 
@@ -184,17 +191,17 @@ Heterophenomenology is harder to convict of self-stultification than crude elimi
 
 The [confabulation void](/voids/confabulation-void/) sharpens the reliability question at layer 2 and the upper edge of layer 3: a sub-personal generator supplies positive content where direct access is missing, and the felt-rightness signal that would distinguish fabrication from veridical access is [anti-correlated with accuracy](/concepts/anti-correlated-metacognitive-signal/) in the conditions that matter most (Coutinho et al. 2021, regime-conditional rather than universal). The catalogue's home for the structured-discipline response is the microphenomenological interview's [Confabulation-Resistance Discipline](/topics/microphenomenological-interview-method/#confabulation-resistance-discipline) — second-person scaffolding (evocation, position-direction prompts, re-anchoring in embodied memory) that *restricts the confabulation-eligible space* rather than dissolving it. The method's principals concede the *interviewer-prompts-novelty* objection: the structured question may generate new content the subject did not have until prompted, with the same felt-veridicality as genuine recovery. The discipline approximates the boundary without claiming to cross it; whether the restriction reaches access remains methodologically undetermined. This is partial purchase against the structural void, in the disciplined register that [evidential-status-discipline](/project/evidential-status-discipline/) requires.
 
-Varela's [neurophenomenology](/concepts/neurophenomenology-and-contemplative-neuroscience/) treats first-person reports and third-person neural data as mutually constraining. Lutz et al. (2002) demonstrated that trained meditators' phenomenological reports of distinct attentional states predicted variations in neural synchrony invisible without the phenomenological categories. The bridge is genuine but partial: identifying which neural signature corresponds to which phenomenal state still requires first-person reports, reintroducing phenomenological evidence into its own validation chain. Neurophenomenology narrows this circularity without breaking it.
+Varela's [neurophenomenology](/concepts/neurophenomenology-and-contemplative-neuroscience/) treats first-person reports and third-person neural data as mutually constraining. Lutz et al. (2002) demonstrated that trained meditators' phenomenological reports of distinct attentional states predicted variations in neural synchrony invisible without the phenomenological categories. The bridge is genuine but partial: identifying which neural signature corresponds to which phenomenal state still requires first-person reports, reintroducing phenomenological evidence into its own validation chain. Neurophenomenology narrows this circularity without breaking it. The canonical statement of the Varela/Dennett contrast lives at [heterophenomenology's "Heterophenomenology vs. Neurophenomenology" section](/concepts/heterophenomenology/#heterophenomenology-vs-neurophenomenology) — meditator/jhana case included — and is referenced rather than rehearsed here.
 
 ## Objections
 
-**Crazy seemings.** Markie objects that PC is too permissive. Huemer responds that genuine seemings must be distinguished from mere inclinations to believe, and that even marginal seemings are easily defeated by background knowledge. Introspective seemings about qualitative character are persistent, widely shared, and arise across varied traditions — paradigmatic robust seemings.
+**Crazy seemings.** Markie objects that PC is too permissive. Huemer's response: genuine seemings are distinguishable from mere inclinations to believe, and marginal seemings are defeated by background knowledge. Introspective seemings about qualitative character are persistent, widely shared, and cross-traditional — paradigmatic robust seemings.
 
-**Cognitive penetration.** Siegel raises the "bad basis" problem: if unjustified beliefs cause experiences, those experiences might inherit their sources' irrationality. The seeming that pain hurts is not plausibly produced by background theory — it is produced by pain itself. The seeming that qualitative character is *irreducible* may be more vulnerable to folk-psychological influence.
+**Cognitive penetration.** Siegel raises the "bad basis" problem: if unjustified beliefs cause experiences, those experiences might inherit their sources' irrationality. The seeming that pain hurts is not plausibly produced by background theory; the seeming that qualitative character is *irreducible* may be more vulnerable.
 
-**The metajustification demand.** Classical foundationalists argue that PC needs independent justification for trusting seemings. Huemer responds that demanding metajustification leads to infinite regress; PC is a candidate for the foundational role, with the advantage that alternatives covertly rely on it.
+**The metajustification demand.** Foundationalists argue PC needs independent justification for trusting seemings. Huemer: demanding metajustification leads to infinite regress; PC is a candidate for the foundational role, with the advantage that alternatives covertly rely on it.
 
-**Limits of reportability.** Defending phenomenal reports as data does not mean claiming they capture everything. Contemplative traditions describe advanced meditative states as "ineffable." [Phenomenological evidence standards](/concepts/phenomenological-evidence/) must grapple with the possibility that some features of experience resist not only articulation but the very subject-object structure that reporting presupposes.
+**Limits of reportability.** Defending phenomenal reports as data does not mean claiming they capture everything. Contemplative traditions describe advanced meditative states as "ineffable." [Phenomenological evidence standards](/concepts/phenomenological-evidence/) must grapple with features of experience that resist not only articulation but the subject-object structure reporting presupposes.
 
 ## Relation to Site Perspective
 
@@ -209,6 +216,7 @@ Varela's [neurophenomenology](/concepts/neurophenomenology-and-contemplative-neu
 - [phenomenal-acquaintance](/concepts/phenomenal-acquaintance/) — The direct epistemic relation
 - [knowledge-argument](/concepts/knowledge-argument/) — Mary's room and the limits of physical knowledge
 - [introspection](/concepts/introspection/) — The reliability debate and the process/content distinction
+- [process-content-distinction](/concepts/process-content-distinction/) — The dedicated concept page on the asymmetric-reliability finding the calibration depends on
 - [self-opacity](/voids/self-opacity/) — Where introspective access fails structurally
 - [heterophenomenology](/concepts/heterophenomenology/) — Dennett's deflationary methodology
 - [phenomenological-evidence](/concepts/phenomenological-evidence/) — When and how first-person reports constitute evidence
@@ -222,6 +230,8 @@ Varela's [neurophenomenology](/concepts/neurophenomenology-and-contemplative-neu
 - [argument-from-reason](/topics/argument-from-reason/) — The broader case against epiphenomenalism
 - [observation-and-measurement-void](/voids/observation-and-measurement-void/) — Why strict calibration is structurally impossible
 - [galilean-exclusion](/concepts/galilean-exclusion/) — How modern science excluded the subjective
+- [somatic-interface](/concepts/somatic-interface/) — The channel structure of bodily reporting, parallel in register to the three-layer authority decomposition
+- [mechanism-costs-dualism-thickness-quadrants](/topics/mechanism-costs-dualism-thickness-quadrants/) — Q1's authority-law debt as the mechanism-layer counterpart to phenomenal acquaintance
 
 ## References
 

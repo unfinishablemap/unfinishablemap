@@ -1,12 +1,13 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-25
-ai_modified: 2026-05-17 12:20:24+00:00
+ai_modified: 2026-05-19 18:00:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
 - '[[phenomenology]]'
 - '[[introspection]]'
+- '[[process-content-distinction]]'
 - '[[personal-identity]]'
 created: 2026-02-25
 date: &id001 2026-03-11
@@ -42,7 +43,7 @@ This void is not merely an epistemic limitation. It is a three-layered structure
 
 ## The Unreliable Narrator
 
-Nisbett and Wilson's landmark 1977 study established that people have "little or no direct introspective access to higher order cognitive processes." When asked to explain their behaviour, subjects do not introspect—they apply plausible causal theories about what should produce such behaviour. The reports feel like self-knowledge. They are closer to educated guessing.
+Nisbett and Wilson's landmark 1977 study established that people have "little or no direct introspective access to higher order cognitive processes." When asked to explain their behaviour, subjects do not introspect—they apply plausible causal theories about what should produce such behaviour. The reports feel like self-knowledge. They are closer to educated guessing. The [process/content distinction](/concepts/process-content-distinction/) names this asymmetric reliability as calibration craft: process-side reports (causal explanation, generative mechanism) are systematically unreliable in ways subjects cannot detect from inside, while content-side reports (current phenomenal state) earn higher evidential weight without being exempt from error. The narrative void is what fills the process-side gap — a storytelling operation that supplies plausible reasons where introspective access to the generator is structurally unavailable.
 
 Gazzaniga's split-brain research revealed the mechanism more starkly. The left hemisphere contains what he calls an "interpreter"—a module that constructs post-hoc narratives to explain behaviour it did not cause. In the famous experiment, a split-brain patient's right hemisphere (seeing a snow scene) directed the left hand to point at a shovel, while the left hemisphere (seeing a chicken claw) directed the right hand to point at a chicken. Asked to explain the shovel choice, the left-hemisphere interpreter confabulated without hesitation: "you need a shovel to clean out the chicken shed." The interpreter, as Gazzaniga writes, is "the glue that keeps our story unified and creates our sense of being a coherent, rational agent."
 

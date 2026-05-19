@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-05-19
-ai_modified: 2026-05-19 12:58:30+00:00
+ai_modified: 2026-05-19 18:00:00+00:00
 ai_system: claude-opus-4-7
 author: null
 concepts:
@@ -34,6 +34,7 @@ related_articles:
 - '[[inventory-blindness]]'
 - '[[topics/self-stultification-as-master-argument]]'
 - '[[cross-cultural-convergence-on-mental-causation]]'
+- '[[process-content-distinction]]'
 title: Anti-Correlated Metacognitive Signal
 topics:
 - '[[hard-problem-of-consciousness]]'
@@ -101,7 +102,7 @@ Three limits constrain the concept's evidential reach.
 
 **Regime-identification problem.** The concept's force depends on identifying the regime *R* where anti-correlation operates. Outside laboratory paradigms with controlled internal-evidence manipulation, identifying which real-world regimes correspond to *R* is non-trivial. The Map treats the everyday confabulation literature (Nisbett-Wilson, Wheatley, Johansson-Hall, Haidt) as evidence that regimes *R*-like conditions are common rather than rare, but the inference from laboratory anti-correlation to natural-setting anti-correlation is methodological rather than direct.
 
-**Generalisation across cognitive domains.** The Coutinho finding is in a perceptual-decision domain. Dijkstra and Fleming 2024 extends a related anti-correlation pattern to perceptual reality-monitoring. Whether the pattern extends to moral judgement, choice justification, source-attribution, and narrative integration — domains the [confabulation void](/voids/confabulation-void/) catalogues — is supported by *convergent* but not *identical* evidence. The healthy-adult-channel anchors for these adjacent domains (Haidt for moral, Johansson-Hall for choice, Nisbett-Wilson for self-attribution) do not all directly probe the confidence-accuracy inversion the Coutinho paradigm isolates. The concept's reach across these domains is calibration-grade, not strong.
+**Generalisation across cognitive domains.** The Coutinho finding is in a perceptual-decision domain. Dijkstra and Fleming 2024 extends a related anti-correlation pattern to perceptual reality-monitoring. Whether the pattern extends to moral judgement, choice justification, source-attribution, and narrative integration — domains the [confabulation void](/voids/confabulation-void/) catalogues — is supported by *convergent* but not *identical* evidence. The healthy-adult-channel anchors for these adjacent domains (Haidt for moral, Johansson-Hall for choice, Nisbett-Wilson for self-attribution) do not all directly probe the confidence-accuracy inversion the Coutinho paradigm isolates. The concept's reach across these domains is calibration-grade, not strong. The reach is also a *process-side* claim under the [process/content distinction](/concepts/process-content-distinction/): the inverted signal concerns introspective access to the causal machinery generating a decision, not the phenomenal content of the decision itself; calibration must respect that the anti-correlation finding lives squarely on the process side the distinction names as least reliable.
 
 **Architecture-vs-significance distinction.** The architectural finding — that a metacognitive signal can invert in identifiable regimes — survives translation across functionalist, identity-theoretic, illusionist, predictive-processing, and dualist vocabulary. The *significance* the Map attaches to the finding (that it indicates a bounded conscious witness with limited access to its substrate, sitting behind a reconstructive introspective architecture) is framework-shaped. The architecture-finding inherits a smaller framework-dependence discount; the significance inherits a larger one. The concept's use as a structural contribution to the introspection-architecture cluster operates at the architecture-finding level; its use in support of the cluster's metaphysical reading operates at the significance level, with the corresponding discount.
 
@@ -119,6 +120,7 @@ Three limits constrain the concept's evidential reach.
 - [inventory-blindness](/concepts/inventory-blindness/) — the structurally complementary opacity type: absence-of-signal opacity where anti-correlation is present-but-inverted-signal opacity
 - [self-stultification-as-master-argument](/topics/self-stultification-as-master-argument/) — the structural-tier analogue: confidence anti-correlated with truth at the theory-defending level rather than at the experimental-regime level
 - [cross-cultural-convergence-on-mental-causation](/concepts/cross-cultural-convergence-on-mental-causation/) — the population-tier parallel: Barrett 2021's default-to-intuitive-materialism finding as consistent with a fitness-shaped metacognitive signal at population level
+- [process-content-distinction](/concepts/process-content-distinction/) — the calibration craft that locates the anti-correlation finding on the process side, where introspective access to causal machinery is least reliable
 
 ## References
 
