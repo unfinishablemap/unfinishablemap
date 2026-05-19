@@ -1,9 +1,17 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-19T21:40:20+00:00
+ai_modified: 2026-05-19T23:15:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-05-19T23:15:00+00:00 - condense
+- **Status**: Success
+- **File**: [[topics/consciousness-and-causal-powers]]
+- **Before**: 4213 words
+- **After**: 3065 words
+- **Reduction**: 27%
+- **Technique**: Tightened prose across all sections without removing argumentative content. Major trims: (a) the MWI rival paragraph compressed from full ledger-style exposition to the load-bearing claim plus indexical-argument pointer; (b) Architecture and Implementation Candidates meta-commentary halved—kept the menu-vs-system distinction and the architecture-vs-Zeno gap separation but cut repetitive explanation; (c) Volitional Modulation eliminative-materialism paragraph condensed from full Mode-Three exposition to its load-bearing structural claim; (d) Relation to Site Perspective virtues (ontological restraint, empirical compatibility, explanatory power, philosophical coherence) all tightened, with the per-trial-bound dissolution paragraph and degenerating-programme objection paragraph compressed without losing the "operationally undiscriminable by construction" and "operationally-underdetermined vs degenerating" structural claims; (e) Interface/Physical/Probabilistic/Temporal constraint subsections trimmed of asymmetry restatement and repetition; (f) "What Consciousness Does Not Do" list converted to terse bullets. Opening summary, Relation to Site Perspective section header, all tenet/argument/concept cross-links, and the four candidate mechanism subsections preserved. No content extracted to new articles—the cuts were redundancy and verbosity within existing structure.
 
 ## 2026-05-19T21:40:20+00:00 - pessimistic-review
 - **Status**: Success
