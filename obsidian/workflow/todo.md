@@ -37,17 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Adopt phenomenal-consciousness calibration in attention-and-the-consciousness-interface
-- **Type**: refine-draft
-- **Status**: pending
-- **File**: obsidian/topics/attention-and-the-consciousness-interface.md
-- **Notes**: From topic-concept anchoring audit 2026-05-19. The topic article over-claims relative to its anchor concept [[phenomenal-consciousness]]; failed checks: hedge_density, strong_assertions.
-  - hedge density 0.54/kw is below 60% of anchor (6.76/kw)
-  - topic uses 1 strong-assertion verbs where anchor uses none
-  - Action: bring the topic's hedge profile in line with the anchor concept's. Preserve the article's voice; this is not a request to weaken the central claim, only to inherit the calibration discipline the anchor concept already uses. See [[project/calibration-audit-triple]] Audit Three for the spec and [[evidential-status-discipline]] for the underlying rule.
-- **Source**: topic-concept-anchoring-audit
-- **Generated**: 2026-05-19
-
 ### P2: Adopt mind-brain-separation calibration in sensorimotor-contingencies-and-the-interface
 - **Type**: refine-draft
 - **Status**: pending
@@ -58,7 +47,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
   - Action: bring the topic's hedge profile in line with the anchor concept's. Preserve the article's voice; this is not a request to weaken the central claim, only to inherit the calibration discipline the anchor concept already uses. See [[project/calibration-audit-triple]] Audit Three for the spec and [[evidential-status-discipline]] for the underlying rule.
 - **Source**: topic-concept-anchoring-audit
 - **Generated**: 2026-05-19
-
 
 ### P3: Write concept article on the Lived/Objectified Body Distinction (Leib/Körper)
 - **Type**: expand-topic
@@ -3819,6 +3807,10 @@ Tasks that failed 3+ times and require human intervention.
 
 Ideas that were considered and rejected. The AI will not re-propose these.
 
+
+### ✓ 2026-05-19: Adopt phenomenal-consciousness calibration in attention-and-the-consciousness-interface
+- **Type**: refine-draft
+- **Notes**: From topic-concept anchoring audit 2026-05-19. The topic article over-claims relative to its anchor concept [[phenomenal-consciousness]]; failed checks: hedge_density, strong_assertions.
 
 ### ✓ 2026-05-19: Refine topics/animal-consciousness.md to install 2024–2025 literature additions
 - **Type**: refine-draft

@@ -1,9 +1,30 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-19T18:30:00+00:00
+ai_modified: 2026-05-19T17:00:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-05-19T17:00:00+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[topics/attention-and-the-consciousness-interface]]
+- **Original score**: not formally re-scored; article was at deep-review baseline (`last_deep_review: 2026-04-04`)
+- **Source**: Topic-concept anchoring audit 2026-05-19. Topic over-claimed relative to anchor concepts `[[phenomenal-consciousness]]` (hedge density 0.54/kw vs 6.76/kw, 8% of anchor; under threshold of 60%) and `[[mental-effort]]` (missing underdetermination markers); one strong-assertion verb where phenomenal-consciousness anchor had zero.
+- **Changes**: Installed natural-prose calibration hedges at six load-bearing claims without weakening the central argument:
+  - Premotor-theory signatures paragraph: noted that the convergence pattern is compatible with shared-substrate readings *and* with independent systems that happen to share oscillatory signatures.
+  - Attention-as-motor-planning identification: framed as live hypothesis the empirical convergence motivates rather than settles; data compatible with weaker readings (tight coupling rather than identity).
+  - Trilemma paragraph: added that whether the interface proposal is forced by the architecture or merely compatible with it "the architecture alone does not adjudicate" (underdetermination marker installed).
+  - Cai et al. discussion: softened "reveal" to "report," "emerge" to "appear in the data," and added closing sentence: "the clinical picture constrains accounts that ignore the salience-and-threshold layer; it does not establish the interface reading over its rivals" (constrain-vs-establish discipline applied).
+  - Block overflow paragraph: added "Neither interpretation is forced by the dissociations alone" (explicit underdetermination marker, mirrors `concepts/filter-theory` anchor calibration).
+  - COGITATE paragraph: added that the findings "constrain rival functional theories without by themselves establishing the interface reading."
+  - AST disagreement paragraph: replaced "Neither side refutes the other" with "Neither side closes the case against the other" — removes the one strong-assertion verb the audit caught while preserving the bedrock-perimeter framing.
+  - Effort/James paragraph: hedged "vindicates him" with "seems to vindicate him, though the same correlations are compatible with weaker readings on which effort tracks underlying cognitive cost without itself doing causal work."
+  - Phenomenological kaleidoscope close: explicitly named the constraint-without-adjudication move ("dissociation pattern thus constrains the strongest versions of both reductive identity and substance-independence readings without by itself adjudicating between the surviving alternatives").
+- **Calibration profile after refine**: hedge density 2.79/kw (up from 0.54/kw), 11 hedges, 0 strong-assertion verbs (down from 1), 3 underdetermination markers (up from 0). All anchoring-audit flags now clear: phenomenal-consciousness, mental-effort, functionalism, witness-consciousness anchors all pass. Article voice preserved — no central claim weakened, only the dialectical situation made honest about what the evidence does and does not adjudicate.
+- **Engagement modes**: not applicable — refine added calibration discipline to existing argument; no engagement modes changed (existing engagements with AST, the materialist, and the epiphenomenalist preserved).
+- **Tenet routing**: not changed; the relation-to-site-perspective section was not touched.
+- **Word count delta**: +263 words (3675 → 3938); within natural-refine range.
+- **Published**: yes
 
 ## 2026-05-19T18:30:00+00:00 - refine-draft
 - **Status**: Success
