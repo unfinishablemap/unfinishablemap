@@ -3,7 +3,7 @@ title: "Altered States as Systematic Interface Evidence"
 created: 2026-03-16
 modified: 2026-03-23
 human_modified: null
-ai_modified: 2026-05-19T11:04:33+00:00
+ai_modified: 2026-05-19T20:45:00+00:00
 draft: false
 description: "Five altered states—psychedelics, dreams, hypnagogia, meditation, anaesthesia—converge on the same multi-channel interface architecture, mapping consciousness-brain coupling through systematic perturbation."
 topics:
@@ -34,6 +34,7 @@ related_articles:
   - "[[comparative-consciousness-and-interface-differences]]"
   - "[[anesthesia-void]]"
   - "[[out-of-body-experiences]]"
+  - "[[targeted-lesion-discriminating-tests-between-production-and-filter-readings-of-the-memory-hierarchy]]"
 
 ai_contribution: 100
 author: null
@@ -188,6 +189,7 @@ The systematic evidence from altered states connects to each of the Map's [[tene
 - [[clinical-dissociation-as-systematic-evidence]] — Dissociative disorders as another window into interface component separation
 - [[anesthesia-void]] — The first-person gap under anaesthesia and what third-person probes can and cannot recover
 - [[out-of-body-experiences]] — Self-model dislocation as another dissociable interface component, with the AWARE programme as the contested empirical frontier for veridical perception
+- [[targeted-lesion-discriminating-tests-between-production-and-filter-readings-of-the-memory-hierarchy]] — The discriminating-test design space at the memory-hierarchy tier; specifies what a focal perturbation would have to deliver to separate production from filter readings of the autonoetic-noetic-anoetic ordering the altered-states matrix instantiates at the memory-channel row
 
 ## Source Articles
 

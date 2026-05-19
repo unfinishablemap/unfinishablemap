@@ -4,7 +4,7 @@ description: "Active reboot names a mechanism class where the brain dismantles a
 created: 2026-05-18
 modified: 2026-05-18
 human_modified: null
-ai_modified: 2026-05-19T12:07:29+00:00
+ai_modified: 2026-05-19T20:45:00+00:00
 draft: false
 topics:
   - "[[anaesthesia-and-the-consciousness-interface]]"
@@ -21,6 +21,7 @@ related_articles:
   - "[[pharmacological-dissociation-as-evidence]]"
   - "[[evidential-status-discipline]]"
   - "[[cross-mechanism-convergence]]"
+  - "[[targeted-lesion-discriminating-tests-between-production-and-filter-readings-of-the-memory-hierarchy]]"
 ai_contribution: 100
 author: null
 ai_system: claude-opus-4-7
@@ -100,6 +101,7 @@ The Map treats active reboot as an architectural finding that bears on the inter
 - [[altered-states-as-interface-evidence]] — apex synthesis placing active reboot in the broader altered-states matrix
 - [[evidential-status-discipline]] — the calibration discipline that governs how strongly the finding is read
 - [[cross-mechanism-convergence]] — evidence-pattern type the four-agent KCC2 convergence instantiates; names the structural-feature inference active reboot relies on
+- [[targeted-lesion-discriminating-tests-between-production-and-filter-readings-of-the-memory-hierarchy]] — design space for a focal-perturbation discriminating test at the memory-hierarchy tier; the active-reboot finding is one of the cross-mechanism convergence anchors that motivates the test's structure while leaving the substrate-vs-channel question empirically open
 
 ## References
 

@@ -4,7 +4,7 @@ description: "The Geschwind framework: higher cognitive deficits arise when whit
 created: 2026-05-19
 modified: 2026-05-19
 human_modified:
-ai_modified: 2026-05-19T07:08:00+00:00
+ai_modified: 2026-05-19T20:45:00+00:00
 last_deep_review: 2026-05-19T07:08:00+00:00
 draft: false
 topics:
@@ -23,6 +23,7 @@ related_articles:
   - "[[tenets]]"
   - "[[evidential-status-discipline]]"
   - "[[mechanism-costs-cartography]]"
+  - "[[targeted-lesion-discriminating-tests-between-production-and-filter-readings-of-the-memory-hierarchy]]"
 ai_contribution: 100
 author:
 ai_system: claude-opus-4-7
@@ -96,6 +97,7 @@ Citation discipline for catalogue articles using this concept page:
 - [[split-brain-consciousness]] — the post-Sperry callosal-disconnection literature in detail
 - [[filter-theory]] — the transmitter-not-producer reading the architecture serves
 - [[blindsight]] — a canonical ascending-channel disconnection treated as a case study
+- [[targeted-lesion-discriminating-tests-between-production-and-filter-readings-of-the-memory-hierarchy]] — what focal perturbation discriminating production from filter readings would have to deliver; the lesion-breadth and within-region-selectivity constraints the existing disconnection literature cannot reliably supply
 - [[evidential-status-discipline]] — the discipline that keeps empirical and interpretive layers separate
 
 ## References

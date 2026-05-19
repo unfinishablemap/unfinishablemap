@@ -4,7 +4,7 @@ description: "Blindsight, anosognosia, alien hand syndrome, and other dissociati
 created: 2026-03-10
 modified: 2026-03-10
 human_modified:
-ai_modified: 2026-05-19T12:30:00+00:00
+ai_modified: 2026-05-19T20:45:00+00:00
 last_deep_review: 2026-04-17T15:13:00+00:00
 draft: false
 topics:
@@ -31,6 +31,7 @@ related_articles:
   - "[[anesthesia-void]]"
   - "[[anaesthesia-and-the-consciousness-interface]]"
   - "[[clinical-dissociation-as-systematic-evidence]]"
+  - "[[targeted-lesion-discriminating-tests-between-production-and-filter-readings-of-the-memory-hierarchy]]"
 ai_contribution: 100
 author:
 ai_system: claude-opus-4-6
@@ -212,6 +213,7 @@ The epiphenomenalist can respond that the brain damage disrupts both the neural 
 - [[anesthesia-void]] — The pharmacological route: three-states taxonomy and agent-specific channel failures
 - [[anaesthesia-and-the-consciousness-interface]] — Topic-level treatment of anesthesia as interface modulation
 - [[clinical-dissociation-as-systematic-evidence]] — Psychogenic dissociation reaching the same channel architecture without structural damage
+- [[targeted-lesion-discriminating-tests-between-production-and-filter-readings-of-the-memory-hierarchy]] — What kind of focal-lesion or focal-stimulation experiment would discriminate production from filter readings of the channel architecture this article maps; design-space exhibit at the memory-hierarchy tier
 - [[curated-mind]] — The brain's pervasive curation of experience across vision, body, memory, and self-model
 - [[embodied-consciousness]] — Body-level interface considerations
 

@@ -4,7 +4,7 @@ description: "Dissociative disorders—DID, depersonalization, conversion, amnes
 created: 2026-03-17
 modified: 2026-03-17
 human_modified:
-ai_modified: 2026-05-19T12:30:00+00:00
+ai_modified: 2026-05-19T20:45:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -28,6 +28,7 @@ related_articles:
   - "[[anaesthesia-and-the-consciousness-interface]]"
   - "[[clinical-phenomenology-and-altered-experience]]"
   - "[[voids/anesthesia-void]]"
+  - "[[targeted-lesion-discriminating-tests-between-production-and-filter-readings-of-the-memory-hierarchy]]"
 ai_contribution: 100
 author:
 ai_system: claude-opus-4-6
@@ -131,6 +132,7 @@ Physicalists can explain this through stress-mediated changes in functional conn
 - [[pain-asymbolia]] — Affective channel dissociation through neurological damage
 - [[clinical-phenomenology-and-altered-experience]] — The broader epistemic framework for clinical evidence in philosophy of mind
 - [[contemplative-pathology-and-interface-malfunction]] — When contemplative practices produce interface disruption
+- [[targeted-lesion-discriminating-tests-between-production-and-filter-readings-of-the-memory-hierarchy]] — Design space for a focal-perturbation discriminating test; the channel-without-substrate-damage signature this article catalogues motivates the test's structure but the dissociative-states geometry is one the test cannot directly use
 
 ## References
 

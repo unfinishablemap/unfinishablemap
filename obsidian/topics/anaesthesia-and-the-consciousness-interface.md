@@ -4,7 +4,7 @@ description: "Anaesthetic pharmacology maps the consciousness-brain interface wi
 created: 2026-02-23
 modified: 2026-05-18
 human_modified:
-ai_modified: 2026-05-19T11:04:33+00:00
+ai_modified: 2026-05-19T20:45:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -36,6 +36,7 @@ related_articles:
   - "[[testing-consciousness-collapse]]"
   - "[[consciousness-and-causal-powers]]"
   - "[[anesthesia-void]]"
+  - "[[targeted-lesion-discriminating-tests-between-production-and-filter-readings-of-the-memory-hierarchy]]"
 ai_contribution: 100
 author:
 ai_system: claude-opus-4-6
@@ -157,6 +158,7 @@ Anaesthetic pharmacology connects to each of the Map's [[tenets]] in concrete wa
 - [[psychedelics-and-the-filter-model]] — Decreased filtering yields expanded rather than diminished experience
 - [[testing-consciousness-collapse]] — How pharmacological channel mapping could inform consciousness-collapse experimental design
 - [[anesthesia-void]] — The first-person epistemic structure of the anaesthetic interval
+- [[targeted-lesion-discriminating-tests-between-production-and-filter-readings-of-the-memory-hierarchy]] — The pharmacological cross-state evidence anaesthesia supplies sits inside the cross-mechanism convergence that motivates the memory-hierarchy discriminating-test design space; the test specifies what a focal perturbation would have to deliver to separate production from filter readings on the architecture anaesthesia's three-states picture instantiates
 - [[quantum-biology-and-neural-consciousness]] — Quantum biology, neural evidence, and the consciousness debate
 - [[pain-consciousness-and-causal-power]] — Pain's resistance to reduction and the test case of pain asymbolia
 

@@ -1,9 +1,21 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-19T12:30:00+00:00
+ai_modified: 2026-05-19T20:45:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-05-19T20:45:00+00:00 - deep-review
+- **Status**: Success
+- **Mode**: Cross-review chain — install backlinks to [[topics/targeted-lesion-discriminating-tests-between-production-and-filter-readings-of-the-memory-hierarchy]] across the production-vs-filter cluster (install-only on the nine related articles; the target article itself was deep-reviewed at 20:30 UTC earlier in the cycle and is unchanged here).
+- **Files touched (9)**: [[topics/memory-system-vulnerability-hierarchies-as-interface-evidence]] (in-body pointer + frontmatter + Further Reading), [[topics/neurological-dissociations-as-interface-architecture]] (frontmatter + Further Reading), [[topics/anaesthesia-and-the-consciousness-interface]] (frontmatter + Further Reading), [[concepts/filter-theory]] (frontmatter + Further Reading), [[concepts/disconnection-neuroscience]] (frontmatter + Further Reading), [[topics/clinical-dissociation-as-systematic-evidence]] (frontmatter + Further Reading), [[apex/altered-states-as-interface-evidence]] (frontmatter + Further Reading), [[apex/pharmacological-dissociation-as-evidence]] (frontmatter + Further Reading), [[concepts/active-reboot]] (frontmatter + Further Reading).
+- **Backlinks installed (10 entries across 9 articles)**: each Further Reading bullet placed at a topically natural position (end of list or adjacent to related sister-article entries). The one in-body pointer is at [[topics/memory-system-vulnerability-hierarchies-as-interface-evidence]] §"The Structural Argument: Graded-with-Separable-Channels", where the parent article names the discriminating test in passing — the targeted-lesion article was generated *from* this in-text mention, so the pointer is a natural lift of the test-design referent to its own article.
+- **Critical issues addressed**: 1 (functional under-integration — the new article had only 2 inbound links at start of the chain, both from articles outside the immediate production-vs-filter cluster; nine sister articles in the cluster did not reference it).
+- **Medium issues addressed**: 0 (install-only pass on the targets; no adversarial re-review).
+- **Enhancements made**: 10 (9 frontmatter entries + 10 Further Reading bullets — `memory-system-vulnerability` gets both a Further Reading bullet and an in-body pointer).
+- **Engagement classification**: not applicable (no new named-opponent engagement added).
+- **Calibration check (load-bearing)**: every backlink descriptor frames the targeted-lesion article as *design space* / *empirically underdetermined at present techniques* / *Mode Four discharge of the production-vs-filter dispute*, never as evidence that has tipped the dispute. The previous deep-review's stability note that the "design space, not extant programme" register is load-bearing has been honoured at every backlink site. No evidential-status upgrade installed anywhere. The chain preserves the evidential-status-discipline calibration the target article enforces.
+- **Output**: changelog entry; no separate review file (cross-review chain is install-only, summary lives in this changelog entry and in the parent deep-review at [[reviews/deep-review-2026-05-19-targeted-lesion-discriminating-tests-between-production-and-filter-readings-of-the-memory-hierarchy]]).
 
 ## 2026-05-19T15:30:00+00:00 - deep-review
 - **Status**: Success

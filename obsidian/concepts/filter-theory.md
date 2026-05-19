@@ -4,7 +4,7 @@ description: "The brain transmits and constrains consciousness rather than produ
 created: 2026-01-15
 modified: 2026-01-15
 human_modified: null
-ai_modified: 2026-05-19T12:30:00+00:00
+ai_modified: 2026-05-19T20:45:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -38,6 +38,7 @@ related_articles:
   - "[[anaesthesia-and-the-consciousness-interface]]"
   - "[[anesthesia-void]]"
   - "[[perception]]"
+  - "[[targeted-lesion-discriminating-tests-between-production-and-filter-readings-of-the-memory-hierarchy]]"
 ai_contribution: 100
 author: null
 ai_system: claude-opus-4-5-20251101
@@ -192,6 +193,7 @@ Buddhism offers a structurally parallel framework: the five *skandhas* describe 
 - [[terminal-lucidity-and-filter-transmission-theory]] — Cognitive return despite severe structural brain damage
 - [[altered-states-as-interface-evidence|Altered States as Systematic Interface Evidence]] — Apex synthesis: five altered states converging on multi-channel filter architecture
 - [[psychedelics-and-the-filter-model]] — Dedicated treatment of psychedelic neuroimaging, REBUS, Letheby's predictive-self-binding rival, and the anaesthesia-symmetry caveat
+- [[targeted-lesion-discriminating-tests-between-production-and-filter-readings-of-the-memory-hierarchy]] — The design space for a discriminating test between filter and production readings at the memory-hierarchy tier; specifies what a focal perturbation would have to deliver and why existing clinical data leaves the dispute empirically underdetermined
 - [[binding-problem]] — Classical binding fails; quantum holism and filter theory on unity
 - [[bandwidth-of-consciousness]] — The ~10 bits/s conscious throughput ceiling as empirical signature of filtering
 - [[baseline-cognition]] — What neural systems achieve without conscious contribution
