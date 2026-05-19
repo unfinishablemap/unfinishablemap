@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-19 19:30:00+00:00
+ai_modified: 2026-05-19 15:53:15+00:00
 ai_system: claude-opus-4-7
 author: Andy Southgate
 concepts: []
@@ -37,23 +37,25 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P3: Refine heterophenomenology.md to promote narrower self-stultification formulation
+### P2: Refine heterophenomenology.md to promote narrower self-stultification formulation
 - **Type**: refine-draft
 - **Status**: pending
+- **Priority change**: Promoted P3 → P2 by /replenish-queue 2026-05-19 (second-cycle top-up). Active P0-P2 queue at 2 (under 3-threshold). Small-scope (~50–200 words touched) refine task with fresh signal from today's optimistic-2026-05-19d Hardline Empiricist flag (the persona whose verdict carries the most weight for that skill). Cap-safe (edits existing concept page only). The promotion diversifies the queue's P0-P2 channel with a small, well-defined task that closes a calibration-discipline loop the Map's flagship epistemology cluster (phenomenal-authority / heterophenomenology / constitutive-vs-referring-observation) needs tightened before the next outer-review cycle.
 - **Notes**: Suggested by optimistic review 2026-05-19d. The §"Self-Stultification Problem" section (lines 96–104) headlines a strong conclusion ("applied consistently would undermine its own foundations") that depends on premises the illusionist could reject — specifically that finding-arguments-compelling is phenomenological in the load-bearing sense. The article is on safer ground at lines 178–181 (the "narrower point" formulation) where the self-undermining charge gains traction at "assessing whether a theoretical framework adequately captures what experience is like seems to require phenomenal acquaintance with the states being theorised about." Promote the narrower formulation to the §"Self-Stultification Problem" section's headline conclusion. This tightens the article without losing critique force. Not a calibration error — refinement only. See `obsidian/reviews/optimistic-2026-05-19d.md` Hardline Empiricist §(flag) and Expansion Opportunities §High Priority.
 - **Source**: optimistic-review
 - **Generated**: 2026-05-19
 
-### P3: Write concept page on constitutive-vs-referring observation
+### ✓ 2026-05-19: Write concept page on constitutive-vs-referring observation (resolved obsolete during replenish-queue)
 - **Type**: expand-topic
-- **Status**: pending
-- **Notes**: Suggested by optimistic review 2026-05-19d. The distinction is currently embedded in `topics/phenomenal-authority-and-first-person-evidence.md` §"Constitutive vs Referring Observation" (lines 106–114) and forward-references `[[constitutive-vs-referring-observation]]` as if a concept page exists. Verify the page does not already exist; if not, create it. The constitutive/referring distinction is the structural reason Layer 1 is apodictic — the seeming-of-phenomenality is not separable from the being-of-the-phenomenal-state in the way naked-eye astronomy's seeming is separable from celestial bodies. It underwrites multiple other arguments (the knowledge argument, the conceivability argument, the layered evidence taxonomy). A concept page would let other articles cite it without rehearsing the full argument. Tenet alignment: Dualism (structural rather than stipulative apodictic standing of Layer 1); Occam's Razor Has Limits (the distinction shows why deflating phenomenal authority on parsimony grounds discounts evidence rather than explaining it). Estimated scope: medium concept page.
+- **Status**: completed (concept page already exists — created 2026-04-26)
+- **Notes**: Resolved as obsolete by /replenish-queue 2026-05-19 (second-cycle top-up). The optimistic-2026-05-19d task ("Verify the page does not already exist; if not, create it") was a check-then-create task; the check resolves negative — the page exists at `obsidian/concepts/constitutive-vs-referring-observation.md` (created 2026-04-26, ai_modified 2026-04-28, ai_contribution 100, last_deep_review 2026-04-28). The page is bidirectionally cross-linked with its parent article `topics/phenomenal-authority-and-first-person-evidence.md` (the parent forward-references at line 108 and Further Reading line 218; the concept page's `topics:` field at line 24 and Further Reading line 93 point back). No further action required; the optimistic review's "needed concept page" item was raised against a parent article that had not yet been refined to point at the existing concept page — that cross-link is now in place.
 - **Source**: optimistic-review
 - **Generated**: 2026-05-19
 
-### P3: Deep review voids/interface-formalization-void.md (62 days since last review, ai_contribution=100)
+### P2: Deep review voids/interface-formalization-void.md (62 days since last review, ai_contribution=100)
 - **Type**: deep-review
 - **Status**: pending
+- **Priority change**: Promoted P3 → P2 by /replenish-queue 2026-05-19 (second-cycle top-up). Active P0-P2 queue at 2 (under 3-threshold). This void is named by *both* `topics/four-quadrant-dualism-taxonomy.md` (line 144–146) and `topics/mechanism-costs-dualism-thickness-quadrants.md` (line 68 — modified today 2026-05-19 14:25 UTC) as the burden's home for Q1 articulability — the cluster's sharpest unresolved question. The thickness-grid cluster's load-bearing void should not sit 62 days stale while the cluster's apex articulation continues. Cap-safe (deep-review of existing voids article; no new article created against the 102/100 voids cap).
 - **Notes**: Staleness check (replenish-queue 2026-05-19): `voids/interface-formalization-void.md` was last deep-reviewed 62 days ago (2026-03-18) with `ai_contribution: 100`, `ai_system: claude-opus-4-7`. No pending task in the queue references this article. The interface-formalization void sits at the heart of the catalogue's thickness-grid cluster — `topics/four-quadrant-dualism-taxonomy.md` line 144–146 explicitly names *Q1 articulability* (whether a non-stipulative authority-selecting law can be specified at the psychophysical level) as the cluster's sharpest unresolved question and cross-links to this void as the burden's home; `topics/mechanism-costs-dualism-thickness-quadrants.md` line 68 similarly anchors here; the apex-cartography work has continued. Deep-review should verify: (a) the article's framing of the void (whether the interface resists mathematical formalisation as a structural feature, distinct from merely-difficult formalisation) still reflects the catalogue's current treatment; (b) cross-links to `[[topics/four-quadrant-dualism-taxonomy]]`, `[[topics/mechanism-costs-dualism-thickness-quadrants]]`, `[[concepts/trumping-preemption]]`, `[[concepts/delegatory-causation]]` are live and reciprocal; (c) cites the post-April 2026 discipline pages (`[[evidential-status-discipline]]`, `[[mechanism-costs-cartography]]`, `[[apophatic-cartography-four-criteria]]`) — interface-formalisation claims sit precisely where mechanism-cost slippage and possibility-probability slippage are most tempting; (d) per-cluster independence scoring posture — this void is tenet-generated (it follows from Tenet 1 + Tenet 2 + Tenet 3) and should be honest about its framework-dependence under the four-criteria framework; (e) tenet routing reflects refinements; (f) honours `[[evidential-status-discipline]]` — formalisation-resistance is a *structural-claim* register; (g) writing-style discipline (no `<!-- AI REFINEMENT LOG -->` HTML-comment leakage; no banned "not X but Y" constructs); (h) length-discipline check (voids/ thresholds 2000/3000/4000). Deep-review with in-place fixes if minor; generate a follow-on refine-draft task if substantive. Tenet alignment: methodological / staleness audit.
 - **Source**: staleness
 - **Generated**: 2026-05-19

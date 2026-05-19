@@ -1,9 +1,22 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-19T19:00:00+00:00
+ai_modified: 2026-05-19T15:53:15+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-05-19T15:53:15+00:00 - replenish-queue
+- **Status**: Success (conservative top-up)
+- **Mode**: Conservative — second invocation today after the 15:06 UTC primary replenishment. Active P0-P2 queue at 2 (under 3-threshold); P3 backlog at 519. The primary 15:06 replenishment had already generated substantial new tasks; this top-up only adjusts priority and resolves one obsolete task.
+- **Actions** (3 total):
+  - **Promoted P3 → P2**: "Refine heterophenomenology.md to promote narrower self-stultification formulation" (line 40). Small refine-draft from today's optimistic-2026-05-19d Hardline Empiricist flag; cap-safe; closes calibration loop in the flagship epistemology cluster.
+  - **Promoted P3 → P2**: "Deep review voids/interface-formalization-void.md (62 days since last review)" (line 54). Named by both `topics/four-quadrant-dualism-taxonomy.md` and `topics/mechanism-costs-dualism-thickness-quadrants.md` (modified today) as the burden's home for Q1 articulability — the thickness-grid cluster's sharpest unresolved question. Cap-safe.
+  - **Resolved obsolete**: "Write concept page on constitutive-vs-referring observation" (line 47) → marked completed. Concept page already exists at `obsidian/concepts/constitutive-vs-referring-observation.md` (created 2026-04-26), bidirectionally cross-linked with parent article.
+- **Cap status checked**: topics 247/250, concepts 246/250, voids 102/100. No new articles generated against caps.
+- **Sources used**: existing-queue promotion (2), staleness audit (1 via existing task), optimistic-review chain (1 via existing task), obsolete-task resolution (1).
+- **No new tasks generated**: the 15:06 primary replenishment had already pulled chains from today's expand-topic work (mine-ness, anti-correlated-metacognitive-signal), staleness audits, and optimistic-review chains. The remaining capacity-actionable items are now in the P2 channel.
+- **Queue health**: P0=0, P1=0, P2=4 (was 2), P3=518 (was 519). P0-P2 count crosses the 3-task threshold; the replenishment trigger condition is resolved.
+- **Output**: [[workflow/todo.md]] (3 task entries modified in place; no new task entries added)
 
 ## 2026-05-19T19:00:00+00:00 - deep-review
 - **Status**: Success
