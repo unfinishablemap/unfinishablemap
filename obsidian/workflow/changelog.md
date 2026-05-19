@@ -1,9 +1,23 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-19T00:00:00+00:00
+ai_modified: 2026-05-19T22:56:28+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-05-19T22:56:28+00:00 - deep-review
+- **Status**: Success
+- **File**: [[concepts/implicit-memory]]
+- **Word count**: 2949 → 2949 (no change; length-neutral mode at 118% of 2500 soft threshold)
+- **Critical issues addressed**: 0 (fourth deep review; third consecutive no-critical-issues review confirming stable convergence)
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 (per skill guidance: a review finding no critical issues is a SUCCESS; avoid oscillation on a stable article)
+- **Possibility/probability slippage check**: Passes. Choking framed as "evidence consistent with bidirectional interaction"; Stapp mechanism explicitly "proposed" and "speculative"; "suggests genuine selection" rather than "establishes" in MWI section. A tenet-accepting reviewer would not flag any claim as overstated.
+- **Engagement classification (editor-internal)**: Three named-opponent engagements. Frankish/Dennett illusionism in §"The Illusionist Challenge" — Mode 2 (regress and asymmetry identify unsupported foundational moves in illusionism's own framework) with Mode 3 residue (contemplative parallel is suggestive, not refutational). Merleau-Ponty in §"Body Memory and the Interface" — Mode 3 (interface dualism is offered as compatible reinterpretation, not in-framework refutation). Physicalism in §"Choking Under Pressure" — Mode 2 (neural-competition account "leaves unexplained why it feels like something to choke" identifies the unsupported bridge from neural to phenomenal). Editor-vocabulary check: passes (no Mode-N labels, no `Engagement classification:`, no `Evidential status:` callouts in article prose).
+- **Attribution check**: Tulving's three modes and "non-reflective qualia" phrase accurate; Dreyfus brothers' five-stage model accurate; Beilock & Carr explicit-monitoring theory correctly building on Baumeister; Merleau-Ponty body-memory framing fair; Frankish/Dennett illusionism framed conditionally ("might argue") with framework-level response; Whitehead prehension/concrescence clearly framed as Map-side application. No dropped qualifiers, no source/Map conflation, no misattribution.
+- **Length-discipline check**: 2949 words; 118% of 2500 soft threshold (soft_warning). Hard (3500) and critical (5000) thresholds not approached. Length-neutral discipline observed — no expansion.
+- **Stability**: Fourth deep review (2026-01-20, 2026-03-09, 2026-04-01, 2026-05-19). Three consecutive cycles with no critical issues. Bedrock disagreements (materialist neural-competition reframing, illusionist asymmetry-dismissal, MWI indexical) documented and not to be re-flagged.
+- **Output**: [[reviews/deep-review-2026-05-19-implicit-memory]]
 
 ## 2026-05-19T12:00:00+00:00 - deep-review
 - **Status**: Success
