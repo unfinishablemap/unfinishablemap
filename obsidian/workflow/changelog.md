@@ -1,9 +1,17 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-19T08:30:00+00:00
+ai_modified: 2026-05-19T09:05:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-05-19T09:05:00+00:00 - expand-topic
+- **Status**: Success
+- **Topic**: Cross-Mechanism Convergence as Evidence Pattern
+- **Output**: [[concepts/cross-mechanism-convergence]]
+- **Word count**: 2134 (85% of 2500 soft target — well within concepts/ band)
+- **Based on research**: no (methodological concept page synthesising patterns named implicitly across four catalogue exhibits — active-reboot KCC2, memory-hierarchy five-perturbation, self-stultification cross-state, pharmacological-dissociation Class B)
+- **Notes**: Names cross-mechanism convergence as a distinct evidence-pattern type, distinguishes it cleanly from single-mechanism replication (the explicit P2 motivation), catalogues the four worked exhibits at four grains, honours [[evidential-status-discipline]] (the pattern is a strength indicator, not a tier-graduation), honours [[direct-refutation-discipline]] (cross-mechanism convergence is cumulative; direct refutation is single-decisive-case), notes the parallel failure mode at the [[common-cause-null]] discipline grain (convergence-without-substance). Section: `concepts/` (245→246 of 250 cap). Methodological-discipline page; tenet alignment: applies to all five tenets equally at the evidence-pattern layer; secondary alignment with Tenet 5 (Occam's limits) and the coherence-inflation-countermeasures family.
 
 ## 2026-05-19T08:30:00+00:00 - deep-review
 - **Status**: Success
