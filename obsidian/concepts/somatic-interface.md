@@ -4,8 +4,8 @@ description: "Human+AI exploration of the body's internal sensing channels as th
 created: 2026-02-23
 modified: 2026-02-23
 human_modified:
-ai_modified: 2026-05-19T12:00:00+00:00
-last_deep_review: 2026-05-19T12:00:00+00:00
+ai_modified: 2026-05-19T16:28:35+00:00
+last_deep_review: 2026-05-19T16:28:35+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -25,6 +25,8 @@ related_articles:
   - "[[consciousness-only-territories]]"
   - "[[voids-embodiment-cognitive-limits-2026-01-28]]"
   - "[[interoceptive-void]]"
+  - "[[phenomenal-authority-and-first-person-evidence]]"
+  - "[[mechanism-costs-dualism-thickness-quadrants]]"
 ai_contribution: 100
 author:
 ai_system: claude-opus-4-6
@@ -34,13 +36,13 @@ last_curated:
 
 The Unfinishable Map's [[embodied-consciousness|interface reading]] of embodied cognition argues that the body shapes how consciousness engages matter without producing it. But what *kind* of interface is the body? The somatic interface is the specific set of channels—interoception, proprioception, nociception, and somatic markers—through which the body reports its own state to consciousness. These channels do not merely transmit information. They constitute the felt texture of being a physical creature: the warmth, weight, tension, rhythm, and pain that make experience *embodied* rather than abstract. The somatic interface is where the general claim that "consciousness operates through the body" becomes anatomically and phenomenologically precise.
 
-An important caveat: the clinical evidence discussed here—pain asymbolia, phantom limbs, somatic marker deficits—was discovered and explained within materialist neuroscience. Materialist accounts of these phenomena are well-developed and empirically productive. The interface reading does not predict different clinical outcomes; it offers an alternative *metaphysical interpretation* of the same data. Its value lies not in competing empirically with neuroscience but in providing a framework where the persistent explanatory gap between neural mechanism and phenomenal character is a *feature* of the model rather than an unsolved problem. Where materialism must eventually explain away the hard problem, the interface reading accommodates it structurally.
+An important caveat: the clinical evidence here—pain asymbolia, phantom limbs, somatic marker deficits—was discovered and explained within materialist neuroscience, and those accounts are empirically productive. The interface reading does not predict different clinical outcomes; it offers an alternative *metaphysical interpretation* of the same data. Its value is providing a framework where the explanatory gap between neural mechanism and phenomenal character is a structural *feature* of the model rather than an unsolved problem. Where materialism must eventually explain away the hard problem, the interface reading accommodates it structurally.
 
-This matters for the Map's framework because the somatic interface's properties constrain what consciousness can do through a given body. Understanding these properties reveals both the structure of the interface and the irreducible gap between that structure and the phenomenal character it carries.
+The somatic interface's properties constrain what consciousness can do through a given body, revealing both the interface's structure and the irreducible gap between that structure and the phenomenal character it carries.
 
 ## Channels of the Somatic Interface
 
-The somatic interface operates through several distinct but interacting systems, each contributing something different to conscious experience.
+The somatic interface operates through several distinct but interacting systems, each contributing something different to conscious experience. The channel decomposition runs parallel in structure to the three-layer decomposition in [[phenomenal-authority-and-first-person-evidence#Three Layers of Phenomenal Authority|phenomenal authority]] — different registers carry different content with different warranted trust on the epistemological side, and different phenomenal character on the embodiment side — though the cleavage lines are not identical.
 
 ### Interoception
 
@@ -102,6 +104,8 @@ Several properties of the somatic interface matter for the Map's framework.
 
 **The interface has persistence beyond current bodily state.** Phantom limb phenomena show the interface maintains a structural map that outlasts the body it represents. Neuroscience explains this through persistent cortical representations; the interface reading redescribes the same persistence as a model that consciousness *inhabits* rather than merely *generates*. Both frameworks account for the clinical data—the difference is metaphysical.
 
+The three properties together — layered, phenomenal-character-shaping, bidirectional — instantiate the narrow-probabilistic-channel reading at the embodiment level. The [[mechanism-costs-dualism-thickness-quadrants#map-position|Map's cell in the mechanism-costs cartography]] specifies the corresponding mechanism profile: physical-thin, mind-medium, narrow probabilistic interface. The somatic interface gives that cell's anatomy a body — the channels through which the lean interface operates clinically.
+
 ## Relation to Site Perspective
 
 **[[tenets#^dualism|Dualism]]**: The somatic interface provides the Map with a concrete framework for dualist interaction. Rather than consciousness meeting matter at an unspecified point, the somatic interface identifies the *channels* through which they meet. Dissociations like pain asymbolia illustrate the structural gap between mechanism and phenomenal character that dualism treats as fundamental. Materialist neuroscience explains these dissociations through distinct neural pathways—a complete functional account. The interface reading accepts the functional account while maintaining that it leaves the hard problem untouched: *why* activity in certain pathways constitutes suffering remains unexplained by mechanism alone. The somatic interface describes the body's side of the interaction; what consciousness contributes remains irreducible.
@@ -124,6 +128,8 @@ Several properties of the somatic interface matter for the Map's framework.
 - [[dual-domain-capabilities-in-proprioception-and-spatial-imagination]] — Proprioception and spatial imagination as dual-domain capabilities extending the memory framework
 - [[pain-consciousness-and-causal-power]] — Pain's resistance to reduction and the inseparability of phenomenal character from causal power
 - [[interoceptive-void]] — The structural opacity of the body's interior to the consciousness that occupies it
+- [[phenomenal-authority-and-first-person-evidence]] — Three-layer decomposition of warranted trust in first-person reports, parallel in register to the channel structure here
+- [[mechanism-costs-dualism-thickness-quadrants]] — The Map's narrow-probabilistic-channel cell whose anatomy the somatic interface populates
 
 ## References
 

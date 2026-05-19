@@ -4,8 +4,8 @@ description: "Each min/max cell of the mind-side × physical-side thickness taxo
 created: 2026-05-11
 modified: 2026-05-11
 human_modified:
-ai_modified: 2026-05-19T14:25:48+00:00
-last_deep_review: 2026-05-11T22:50:00+00:00
+ai_modified: 2026-05-19T16:28:35+00:00
+last_deep_review: 2026-05-19T16:28:35+00:00
 draft: false
 topics:
   - dualism
@@ -39,6 +39,8 @@ related_articles:
   - "[[the-interface-problem]]"
   - "[[parsimony-case-for-interactionist-dualism]]"
   - "[[interface-formalization-void]]"
+  - "[[phenomenal-authority-and-first-person-evidence]]"
+  - "[[somatic-interface]]"
 ai_contribution: 100
 author:
 ai_system: "claude-opus-4-7"
@@ -48,7 +50,7 @@ last_curated:
 
 Naming the [[four-quadrant-dualism-taxonomy|mind-side × physical-side thickness axes]] sorts dualist positions by *how much* ontology each side carries. It does not yet say what each cell of the resulting grid *commits its inhabitants to* mechanistically. Two positions that share a kind-of-relation classification (both Type-D, say) can sit in different thickness cells and owe entirely different debts: a different account of mental causation, a different specification of the mind–physical interface, a different engagement with conservation laws. This article walks the four quadrants — min-mind / min-physical (Q1), min-mind / max-physical (Q2), max-mind / min-physical (Q3), max-mind / max-physical (Q4) — and reads off, for each, what the inhabitant owes on three mechanism questions. The exercise is cartographic rather than adjudicative: the goal is to make visible what occupying a cell costs, not to argue that any one cell is right.
 
-The taxonomy and quadrant population are stated in the [[four-quadrant-dualism-taxonomy|companion taxonomy article]]. Readers who want the axes defined, the named-position inventory, or the orthogonality argument against Chalmers' Type-D/E/F classification should read that piece first. This article assumes the grid and asks: what mechanism account does each cell require? It is the inaugural deployment of the [[mechanism-costs-cartography|mechanism-costs cartography]] discipline — the cartographic-layer methodology that exposes each cell of a prior locating taxonomy to a fixed battery of mechanism questions and reads off cell-relative debts without converting cell-by-cell lightness on the chosen battery into endorsement of the lighter cell.
+The taxonomy and quadrant population are stated in the [[four-quadrant-dualism-taxonomy|companion taxonomy article]]; readers wanting the axes, the named-position inventory, or the orthogonality argument against Chalmers' Type-D/E/F classification should read that first. This article assumes the grid and asks: what mechanism account does each cell require? It inaugurates the [[mechanism-costs-cartography|mechanism-costs cartography]] discipline — exposing each cell of a prior locating taxonomy to a fixed battery of mechanism questions and reading off cell-relative debts, without converting per-cell lightness on the chosen battery into endorsement.
 
 ## The Three Mechanism Questions {#three-questions}
 
@@ -60,7 +62,7 @@ Every dualism owes answers to three questions about how mind and matter relate. 
 
 These three questions are not exhaustive — articulability, intelligibility under intersubstitution, and overdetermination-avoidance also matter — but they are the three that the philosophy of mind literature has most insistently pressed against interactionist positions, and they are the three where thickness shifts the debt most visibly.
 
-A reader might worry the trio over-emphasises the physical-side debts. It does — deliberately. The conservation-law and interface questions originate in the physicalist's challenge to interactionism, and the literature has weighted them heavily. The cell-by-cell exposition below suggests that Q1 carries small versions of all three, Q2 may evade two while paying for one (overdetermination), Q3 appears to dissolve all three at the cost of a different debt (why-does-physics-look-physical), and Q4 seems to owe the full bill. The asymmetry could be artefactual but on inspection appears to be real rather than a product of the question selection.
+The trio over-emphasises physical-side debts deliberately. The conservation-law and interface questions originate in the physicalist's challenge to interactionism, and the literature has weighted them heavily. The cell-by-cell exposition below suggests Q1 carries small versions of all three, Q2 may evade two while paying for one (overdetermination), Q3 appears to dissolve all three at the cost of a different debt (why-does-physics-look-physical), and Q4 owes the full bill. The asymmetry could be artefactual but on inspection appears real rather than a product of question selection.
 
 ## Q1: Min-Mind / Min-Physical — The Authority Debt {#q1}
 
@@ -73,6 +75,8 @@ Q1 inhabitants — Bradford Saad's [[delegatory-dualism]], some readings of [[in
 **Conservation engagement.** Q1 appears *conservation-light*. Because experience does not inject energy, momentum, or probability mass beyond what the wavefunction permits, the [[conservation-laws-and-mental-causation|standard conservation objection]] seems to gain little traction here. The selection-without-injection move (consciousness biasing which of three equal-energy outcomes actualises) is available without obvious further ontological commitments on either side. Conservation costs may come back if the authority law turns out to require additional structure — but if Q1 can be articulated cleanly, conservation is plausibly the cell's *cheapest* debt.
 
 The net Q1 bill is small but real: one articulable authority law and one specification of where in the brain the indeterminacy sites sit. The empirical question of whether such sites exist at biologically relevant scales (Tegmark 2000, and the ongoing debate documented in [[born-rule-and-the-consciousness-interface]]) is independent of the cell's mechanism cost but bears on its viability.
+
+Q1's authority-law debt has an epistemological counterpart at [[phenomenal-authority-and-first-person-evidence#Acquaintance and the Dualism Connection|phenomenal authority's "Acquaintance and the Dualism Connection" section]]. Chalmers's acquaintance relation — direct phenomenal concepts partially constituted by phenomenal qualities — needs an ontology that can carry the relation; Q1's articulability burden is what such an ontology owes at the mechanism layer. The two questions are the same problem at different layers.
 
 ## Q2: Min-Mind / Max-Physical — The Exclusion Debt {#q2}
 
@@ -126,6 +130,8 @@ The Map's *neighbouring* cells deserve explicit comparison:
 
 The Map is not committed to a single cell; it is committed to a *region* of the taxonomy — physical-thin, mind-flexible, bidirectional — that excludes Q2 strict and the idealist limit of Q3.
 
+The cell's anatomy at the embodiment level is given by the [[somatic-interface#What the Somatic Interface Reveals|somatic interface]]: layered channels (interoception, proprioception, nociception, somatic markers) instantiate the narrow-probabilistic-channel reading clinically. The interface's three properties — layered structure, phenomenal-character-shaping registers, bidirectional traffic — make the Q1 cell's mechanism profile visible at the level where consciousness actually engages a body.
+
 ## What the Mechanism Lens Reveals {#what-it-reveals}
 
 Reading the thickness taxonomy through mechanism cost makes three patterns visible.
@@ -161,6 +167,8 @@ Nothing in this article argues that any cell is *wrong*. The cells differ in wha
 - [[analytic-idealism-and-mind-centric-metaphysics]]
 - [[stapp-quantum-mind]]
 - [[born-rule-and-the-consciousness-interface]]
+- [[phenomenal-authority-and-first-person-evidence]] — Epistemological-layer counterpart to Q1's mechanism-layer authority-law debt; acquaintance relation as the same problem at the epistemology layer
+- [[somatic-interface]] — The Map's-cell anatomy at the embodiment level; layered, character-shaping, bidirectional channels instantiate Q1's narrow probabilistic interface clinically
 
 ## References
 

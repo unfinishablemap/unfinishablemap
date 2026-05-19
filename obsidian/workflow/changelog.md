@@ -1,9 +1,28 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-19T21:45:00+00:00
+ai_modified: 2026-05-19T16:28:35+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-05-19T16:28:35+00:00 - deep-review
+- **Status**: Success
+- **Mode**: Cross-link install from [[optimistic-2026-05-19d]] §"Cross-Linking Suggestions" (four reciprocal pairs)
+- **Files touched**: 4 — [[topics/phenomenal-authority-and-first-person-evidence]], [[concepts/somatic-interface]], [[concepts/heterophenomenology]], [[topics/mechanism-costs-dualism-thickness-quadrants]]
+- **Pairs installed**:
+  - (a) phenomenal-authority §"Three Layers" ↔ somatic-interface §"Channels" — structural parallel between epistemological layers and phenomenological channels, cleavage lines explicitly non-coincident
+  - (b) heterophenomenology §"Heterophenomenology vs. Neurophenomenology" ↔ phenomenal-authority §"Methodological Implications" — Varela/Dennett canonical statement consolidated into heterophenomenology; phenomenal-authority references rather than rehearses
+  - (c) mechanism-costs §"Q1" ↔ phenomenal-authority §"Acquaintance and the Dualism Connection" — acquaintance relation and authority-law debt named as same problem at different layers, routed to [[interface-formalization-void]]
+  - (d) somatic-interface §"What the Somatic Interface Reveals" ↔ mechanism-costs §"Map's Cell and Its Neighbours" — three interface properties instantiate Q1's narrow-probabilistic-channel cell at the embodiment level
+- **Word counts** (before → after; all four at soft_warning pre and post-edit, none at hard):
+  - phenomenal-authority: 3663 → 3835 (+172, 122% → 128% of soft)
+  - somatic-interface: 2715 → 2823 (+108, 109% → 113%)
+  - heterophenomenology: 2700 → 2734 (+34, 108% → 109%)
+  - mechanism-costs: 3043 → 3175 (+132, 101% → 106%)
+- **Critical issues addressed**: 0 (install-only pass; source review is the persona-engagement step)
+- **Calibration discipline**: all pointer paragraphs named as structural-not-identity; somatic-interface's "alternative metaphysical interpretation rather than competing clinical hypothesis" framing preserved; mechanism-costs's non-adjudicative posture preserved; phenomenal-authority's gradient-of-warranted-trust table untouched
+- **Engagement classification**: not applicable — install pass, no named-opponent engagement
+- **Output**: [[reviews/deep-review-2026-05-19-cross-link-install-from-optimistic-2026-05-19d]]
 
 ## 2026-05-19T21:45:00+00:00 - coalesce
 - **Status**: Abandoned (no suitable merge candidates found)
