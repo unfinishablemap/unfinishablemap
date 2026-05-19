@@ -1,9 +1,15 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-19T18:00:00+00:00
+ai_modified: 2026-05-19T17:05:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-05-19T17:05:00+00:00 - research-topic
+- **Status**: Success
+- **Topic**: animal-consciousness 2024–2025 literature for active-research-section literature-drift cadence
+- **Output**: [[research/animal-consciousness-2024-2025-literature-2026-05-19]]
+- **Sources consulted**: 13 web searches; key 2024–2025 citations: Andrews/Birch/Sebo *Science* 2025 marker method, Chittka et al. *Phil. Trans. B* 2025 insect consciousness, Wandrey & Halina *Philosophy Compass* 2025 evolution-of-animal-consciousness, COGITATE adversarial-collaboration 2025 (Nature + Neuroscience of Consciousness), Birch 2025 précis, Bayne/Carter/Seth 2024 TICS, "Dimensions of Corvid Consciousness" 2025 *Animal Cognition*, Godfrey-Smith 2024 NDS, Gutfreund 2024 still-agnostic, honeybee-sentience 2025, Birch et al. (2021) precautionary-framework refinement (April 2025), Jeremy Coller Centre for Animal Sentience (Sep 2025 institutional)
 
 ## 2026-05-19T18:00:00+00:00 - deep-review
 - **Status**: Success
