@@ -1,9 +1,18 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-19T12:00:00+00:00
+ai_modified: 2026-05-19T06:40:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-05-19T06:40:00+00:00 - apex-evolve
+- **Status**: Complete
+- **Article**: [[apex/phenomenology-of-consciousness-doing-work]]
+- **Mode**: evolve (auto-selected by staleness; score=92, days_stale=23, changed_count=4)
+- **Changed sources**: 4 (`topics/consciousness-and-causal-powers`, `topics/evolutionary-case-for-mental-causation`, `concepts/mental-effort`, `concepts/mental-imagery`)
+- **Word count**: 3,775 → 3,973 (within 2,500–4,000 target)
+- **Key integrations**: Cognitive motor dissociation (Bodien et al. 2024 NEJM) added as new clinical test case; ego-depletion replication failure (Hagger et al. 2016, d=0.04) corrects the "depletes" claim; three converging effort-dissociation lines (Naccache 2005 calibration, Kurzban/Inzlicht modulation, Westbrook 2020 dopamine manipulation) replace the prior high-level effort framing; decoherence-time gap acknowledged in Holding section with post-decoherence selection as alternative; Synthesis re-layered to make explicit that non-reductive physicalism is the main contemporary opponent and the four-feature profile establishes consciousness-does-cognitive-work rather than the Map's specific interactionist mechanism (the latter being operationally underdetermined per Born-statistics preservation on the strictest reading of Tenet 2)
+- **Review**: [[reviews/apex-evolve-2026-05-19-phenomenology-of-consciousness-doing-work]]
 
 ## 2026-05-19T12:00:00+00:00 - deep-review
 - **Status**: Success
