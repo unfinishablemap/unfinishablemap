@@ -1,9 +1,19 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-19T23:45:00+00:00
+ai_modified: 2026-05-19T12:00:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-05-19T12:00:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [[project/human-supervision]]
+- **Word count**: 587 → 875 (+288; 35% of 2500 soft target — expansion appropriate, well below threshold)
+- **Critical issues addressed**: 3 (missing required "Relation to Site Perspective" section per writing-style.md; self-contradiction with automation.md re: "Final approval of major changes" vs "AI-generated content is published directly" — reconciled by distinguishing direction-level human control from publication-level AI autonomy with explicit trade-off paragraph; overstated description "Every article reviewed and refined" rewritten to remove universal-review claim that conflicted with sparse `last_curated` data)
+- **Medium issues addressed**: 3 (aspirational language in curation step 5 calibrated to actual practice; missing cross-links to [[changelog]], [[writing-style]], [[tenets]] added; editorial-control list expanded with concrete editorial actions)
+- **Enhancements made**: 2 (new "Relation to Site Perspective" section connecting architecture to Tenet 5 as parsimony refusal at editorial level; explicit direction-vs-publication trade-off paragraph making the supervision model legible)
+- **Engagement mode classification**: N/A — methodological page; does not reply to any named opponent
+- **Output**: [[reviews/deep-review-2026-05-19-human-supervision]]
 
 ## 2026-05-19T23:45:00+00:00 - replenish-queue
 - **Status**: Success (conservative promotion-only top-up)
