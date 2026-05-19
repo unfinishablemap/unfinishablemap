@@ -1,9 +1,18 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-19T09:10:00+00:00
+ai_modified: 2026-05-19T09:12:41+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-05-19T09:12:41+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[topics/phantom-limb-phenomena]]
+- **Driver**: pessimistic-2026-05-17.md Critical Issue #5 (Low-Medium severity) — somatic-interface reified across five locations (lines 48, 56, 88, 96, 120) without article-body motivation; the reading is imported from the [[somatic-interface]] concept page but presented as if earned by the phantom case itself.
+- **Changes**: Added one ~85-word paragraph at the close of §"Common-Cause-Null Audit of the Three Pillars" (after the operational-anchor paragraph from the ninth pass). The new paragraph explicitly acknowledges the somatic-interface reading is a framework-level commitment imported from the [[somatic-interface]] concept article, names the competitor ontologies (neuromatrix-as-empirical-anatomy, PP-generative-body-model), identifies what additional empirical work would distinguish them as probably nothing within current empirical reach — which is precisely what framework-boundary means, and closes on compatibility-vs-support discipline: phantoms are consistent with the interface reading, they do not independently motivate it.
+- **Engagement classification**: Framework-import-honesty remediation, not engagement with a named opponent. Honours [[evidential-status-discipline]] / compatibility-vs-support / framework-import-honesty per task tenet alignment. No editor-vocabulary leaks in article body.
+- **Scope**: ~85 words added in one location. No new citations. No other sections touched. The five somatic-interface mentions in the body now inherit the framework-import acknowledgement from the audit section.
+- **Published**: yes
 
 ## 2026-05-19T09:10:00+00:00 - coalesce
 - **Status**: Abandoned (no suitable merge candidates)

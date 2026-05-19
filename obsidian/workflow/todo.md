@@ -81,14 +81,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: optimistic-review (2026-05-17b)
 - **Generated**: 2026-05-17
 
-### P2: Acknowledge somatic-interface as imported framework commitment in topics/phantom-limb-phenomena.md
-- **Type**: refine-draft
-- **Status**: pending
-- **Priority change**: Promoted P3 → P2 by /replenish-queue 2026-05-19 — three of the six standing P2s tag-tidied today as stale-completed (production-vs-filter discriminator task, generalise-discrimination-problem task, install-cross-links task), leaving 3 truly-pending P2 at threshold. This task promoted to keep the queue ≥4 P2 ahead of further consumption: ~80-word surgical edit at a single location, no cap concern (refine-draft on existing topic article), addresses a load-bearing framework-import-honesty point flagged by pessimistic-2026-05-17 as a discipline issue. Honours [[evidential-status-discipline]] directly. Low-risk and immediately executable.
-- **Notes**: From pessimistic-2026-05-17.md (Critical Issue #5, Low-Medium severity). The article repeatedly cashes out what materialist accounts call 'central construction' as 'the empirical anatomy of the [[somatic-interface|somatic interface]]' (lines 48, 56, 88, 96, 116, 120) — one move repeated as if it were five moves. The reader who follows the [[somatic-interface]] wikilink finds the concept defended there; but the phantom-limb article itself does no work to motivate that the somatic-interface ontology is preferable to the neuromatrix-as-empirical-anatomy or PP-generative-body-model ontologies. If a reader does not already accept the somatic-interface ontology, the article gives them no reason to. Add one paragraph (~80 words) in §"Relation to Site Perspective" Dualism subsection or at the close of the Common-Cause-Null Audit: explicitly acknowledge the somatic-interface reading is a framework-level commitment imported from the [[somatic-interface]] concept article, not earned by the phantom case itself; identify what additional empirical work would distinguish the somatic-interface reading from the neuromatrix-and-PP-only reading (the answer is: probably nothing within current empirical reach — that is the framework-boundary commitment). Honour [[evidential-status-discipline]] by not over-claiming. Scope: ~80 words added in one location. Tenet alignment: [[evidential-status-discipline]] / compatibility-vs-support / framework-import-honesty.
-- **Source**: pessimistic-review (2026-05-17)
-- **Generated**: 2026-05-17
-
 ### P3: Deep review voids/edge-states-and-void-probes.md (never deep-reviewed, ai_contribution=100, age 4 months)
 - **Type**: deep-review
 - **Status**: pending
@@ -3757,6 +3749,10 @@ Tasks that failed 3+ times and require human intervention.
 
 Ideas that were considered and rejected. The AI will not re-propose these.
 
+
+### ✓ 2026-05-19: Acknowledge somatic-interface as imported framework commitment in topics/phantom-limb-phenomena.md
+- **Type**: refine-draft
+- **Notes**: From pessimistic-2026-05-17.md (Critical Issue #5, Low-Medium severity). The article repeatedly cashes out what materialist accounts call 'central construction' as 'the empirical anatomy of the [[somatic-interface|somatic interface]]' (lines 48, 56, 88, 96, 116, 120) — one move repeated as if it were five moves. The reader who follows the [[somatic-interface]] wikilink finds the concept defended there; but the phantom-limb article itself does no work to motivate that the somatic-interface ontology is preferable to the neuromatrix-as-empirical-anatomy or PP-generative-body-model ontologies. If a reader does not already accept the somatic-interface ontology, the article gives them no reason to. Add one paragraph (~80 words) in §"Relation to Site Perspective" Dualism subsection or at the close of the Common-Cause-Null Audit: explicitly acknowledge the somatic-interface reading is a framework-level commitment imported from the [[somatic-interface]] concept article, not earned by the phantom case itself; identify what additional empirical work would distinguish the somatic-interface reading from the neuromatrix-and-PP-only reading (the answer is: probably nothing within current empirical reach — that is the framework-boundary commitment). Honour [[evidential-status-discipline]] by not over-claiming. Scope: ~80 words added in one location. Tenet alignment: [[evidential-status-discipline]] / compatibility-vs-support / framework-import-honesty.
 
 ### ✓ 2026-05-19: Write concept page on Cross-Mechanism Convergence as Evidence Pattern
 - **Type**: expand-topic

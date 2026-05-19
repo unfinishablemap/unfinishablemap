@@ -4,7 +4,7 @@ description: "Phantom limbs reveal that bodily experience is brain-constructed a
 created: 2026-05-08
 modified: 2026-05-16
 human_modified:
-ai_modified: 2026-05-18T19:36:22+00:00
+ai_modified: 2026-05-19T09:12:41+00:00
 last_deep_review: 2026-05-16T08:52:00+00:00
 draft: false
 topics:
@@ -104,6 +104,8 @@ The shared upstream is the *brain-constructed felt body*. Vivid phantom qualia p
 What the audit recovers as partially independent are the *additional* claims each pillar makes. The explanatory-gap pillar adds *clinical specifiability*. The top-down causation pillar adds *causal-pathway-shape* — modulation runs through what the patient consciously sees, a directional claim the base does not license. The innate-body-schema pillar adds *deeper-than-personal-history*, on the qualified reading the [[#congenital-phantoms-and-the-innate-body-schema|congenital-phantoms section]] earns against Price. The consequence is calibrative rather than retractive: predictive processing absorbs pathway-shape as visual prediction error and deeper-than-personal-history as innate-prior architecture; only the residual specification-to-felt-content gap sits at the framework boundary, honouring [[evidential-status-discipline|evidential-status discipline]].
 
 The framework-boundary commitment that the bridge from neural mechanism to felt content "will not be redeemed within physicalist resources" requires an operational anchor to avoid goalpost-moving. By *redemption within physicalist resources* the Map specifically means a third-person account, framed entirely in non-content vocabulary, from which the phenomenal-aboutness of impossible-posture pain can be derived without additional bridge premises — the same operationalisation [[evidential-status-discipline|evidential-status discipline]] applies elsewhere. The bar is demanding but not impossible; a successful derivation of this form, in phantom or any matched case, would warrant retracting the commitment.
+
+One further calibration. The article repeatedly reads central construction as the empirical anatomy of a [[somatic-interface|somatic interface]]. That reading is a framework-level commitment imported from the [[somatic-interface]] concept article, not earned by the phantom case itself: the empirical findings are equally available to neuromatrix-as-empirical-anatomy and predictive-processing-generative-body-model ontologies. What additional work would distinguish the interface reading from those competitors is probably nothing within current empirical reach — which is precisely what *framework-boundary* means. Phantoms are consistent with the interface reading; they do not independently motivate it.
 
 ## Relation to Site Perspective
 
@@ -332,6 +334,21 @@ Engagement classification (editor-internal, NOT for article body):
 - Compatibility-vs-support discipline remediation, not engagement with a named opponent. The fix honours [[evidential-status-discipline]]'s compatibility-vs-support distinction at two locations the pessimistic review identified as breaches. The Common-Cause-Null Audit (line 108) already states "predictive processing absorbs the pathway-shape as visual prediction error" — given that statement, neither subsection can honestly retain "interactionism predicts" or "interactionism anticipates" wording without contradicting the audit's calibration. The fix brings both closing clauses into line with the audit. No editor-vocabulary leaks in article body — checked: no "Mode One/Two/Three", no "engagement classification", no "direct-refutation-feasible", no "Evidential status:" callout, no "per direct-refutation-discipline" meta-commentary. The phrase "compatibility on both sides" and "differential prediction success" are natural prose, not editor labels.
 
 Scope: ~50 words touched across 2 locations. No new citations. Conclusion preserved. Calibration tightened: both closing clauses now exhibit the symmetric-compatibility framing the body of each subsection had already earned. The two breaches the pessimistic review flagged are closed.
+
+This log should be removed after human review.
+-->
+
+<!-- AI REFINEMENT LOG - 2026-05-19 (tenth pass — somatic-interface framework-import acknowledgement)
+Driver: pessimistic-2026-05-17.md Critical Issue #5 (Low-Medium severity). The article repeatedly cashes out what materialist accounts call 'central construction' as 'the empirical anatomy of the [[somatic-interface|somatic interface]]' (lines 48, 56, 88, 96, 116, 120) — one move repeated as if it were five moves. The reader who follows the [[somatic-interface]] wikilink finds the concept defended there, but the phantom-limb article itself does no work to motivate that the somatic-interface ontology is preferable to the neuromatrix-as-empirical-anatomy or PP-generative-body-model ontologies. If a reader does not already accept the somatic-interface ontology, the article as it stood gave them no reason to.
+
+Changes made:
+- Added a new closing paragraph (~85 words) to §"Common-Cause-Null Audit of the Three Pillars" following the operational-anchor paragraph from the ninth pass. The new paragraph: (a) explicitly acknowledges the somatic-interface reading is a framework-level commitment imported from the [[somatic-interface]] concept article, not earned by the phantom case itself; (b) names the empirical-equivalence point — neuromatrix-as-empirical-anatomy and PP-generative-body-model ontologies are equally available accommodations of the findings; (c) specifies what additional empirical work would distinguish the interface reading from competitors (probably nothing within current empirical reach — which is precisely what framework-boundary means); (d) closes with the compatibility-vs-support discipline: phantoms are consistent with the interface reading, they do not independently motivate it. Honours [[evidential-status-discipline]] / compatibility-vs-support / framework-import-honesty per task tenet alignment.
+- No other sections touched. The five appearances of the bare somatic-interface reification (lines 48, 56, 88, 96, 120) now inherit the framework-import acknowledgement from the audit section rather than each requiring separate qualification — the audit is the natural common reference because it is where the framework-boundary commitment is explicitly named and operationalised.
+
+Engagement classification (editor-internal, NOT for article body):
+- Framework-import-honesty remediation, not engagement with a named opponent. The acknowledgment honours [[evidential-status-discipline]] by separating what the phantom case earns empirically (central construction, persistent central representation, top-down modulation, deeper-than-personal-history) from what the article imports as framework-level commitment (the somatic-interface reading as the right ontology for that empirical anatomy). The previous prose read the import as if it were earned by the phantom case; the corrected prose marks it as imported, naming the competitor ontologies explicitly. No editor-vocabulary leaks in article body — checked: no "Mode One/Two/Three", no "engagement classification", no "direct-refutation-feasible", no "Evidential status:" callout, no "per direct-refutation-discipline" meta-commentary. The paragraph closes on natural-prose compatibility-vs-support language ("consistent with...; they do not independently motivate it") rather than discipline labels.
+
+Scope: ~85 words added in one location (closing paragraph of Common-Cause-Null Audit). No new citations. Conclusion preserved. Calibration tightened: the five somatic-interface mentions in the body are now structurally honest as framework-import rather than as five-fold independent reification. The Critical Issue #5 the pessimistic review flagged is closed at the location the task notes recommended.
 
 This log should be removed after human review.
 -->
