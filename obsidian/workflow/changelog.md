@@ -18,6 +18,25 @@ ai_system: claude-opus-4-7
 - **Bedrock disagreements noted in archive**: Churchland (folk-psychology elimination), Nagarjuna (conceptual imputation) — flagged for future-review stability
 - **Output**: [[reviews/deep-review-2026-05-19-process-content-distinction]]
 
+## 2026-05-19T16:48:03+00:00 - deep-review
+- **Status**: Success
+- **Mode**: Cross-review chain — verify sibling articles consistent with heterophenomenology.md narrower-formulation refine (commit `cf8854e37`)
+- **Anchor article**: [[concepts/heterophenomenology]]
+- **Siblings audited**: 5 — [[topics/phenomenal-authority-and-first-person-evidence]], [[topics/self-stultification-as-master-argument]], [[concepts/process-content-distinction]], [[concepts/introspection]], [[concepts/phenomenology]]
+- **Audit question**: Does any sibling assert the stronger/broader self-stultification claim against heterophenomenology specifically, without acknowledgement that it can be resisted at the bedrock-disagreement boundary?
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Articles modified**: 0 (all five at compatible register)
+- **Per-article findings**:
+  - phenomenal-authority — consistent; already carries the narrower formulation at §"Methodological Implications" (touched same ai_modified timestamp as anchor)
+  - self-stultification-as-master-argument — not in scope; heterophenomenology not among the four self-stultification targets
+  - process-content-distinction — consistent; engages Dennett at the methodological-discipline-agreement register (line 66)
+  - introspection — not in scope; broader self-undermining charge targets illusionism, not heterophenomenology
+  - phenomenology — consistent; broader charge appears against illusionism only, with "appears to" hedge and explicit concession that functionalist accounts are active research programmes
+- **Engagement modes**: cross-review of existing engagements; no new opponent engagements introduced. Prior classifications preserved (Mode One internal-to-Dennett for narrower self-stultification in anchor + phenomenal-authority; Mode Three framework-boundary for broader-charge presentations against illusionism specifically). No label leakage.
+- **Bedrock-disagreement framing**: Routed through [[constitutive-vs-referring-observation]] via the [[phenomenal-authority-and-first-person-evidence#Constitutive vs Referring Observation|phenomenal-authority section]]. The narrower formulation locates the disagreement; sibling articles either echo or operate at a different register. Convergence finding.
+- **Output**: [[reviews/deep-review-2026-05-19-heterophenomenology-narrower-formulation-cross-coherence]]
+
 ## 2026-05-19T16:35:00+00:00 - expand-topic
 - **Status**: Success
 - **Topic**: The Process/Content Distinction
