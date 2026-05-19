@@ -1,9 +1,23 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-19T23:20:53+00:00
+ai_modified: 2026-05-19T20:00:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-05-19T20:00:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [[voids/confabulation-void]]
+- **Word count**: 2333 → 2367 (+34; voids soft threshold 2000; now at 118%, was 117%)
+- **Critical issues addressed**: 1 (dropped regime-conditional qualifier on Coutinho 2021 anti-correlation claim; restored explicit regime-conditional framing while preserving the void's load-bearing argument that the regime *is* the one that matters)
+- **Medium issues addressed**: 1 (Feinberg cited in body but missing from References list; added Feinberg & Keenan 2005 entry and renumbered)
+- **Enhancements made**: 0 (length-neutral mode at 117%+ of voids soft threshold; one calibration fix in place + one missing reference added; no expansions)
+- **Attribution check**: Passes. Coutinho et al. 2021 quote verified verbatim against research notes; regime-conditional framing now consistent with the broader Map's treatment in taxonomy-of-voids and introspection-architecture-independence-scoring. Nisbett & Wilson "implicit, a priori theories" quote accurate. Gazzaniga "everyday behaviour of people at large" attribution matches research notes. Bortolotti "ill-grounded claim" quote matches research notes. Haidt "post hoc construction" quote matches *Psychological Review* 2001. Schnider patient example ("feed children who have grown up decades ago") consistent with the lesion literature. Feinberg right-hemisphere anosognosia attribution now backed by reference entry.
+- **Possibility/probability slippage check**: Now passes. The corrected Detection-face passage explicitly marks the inversion as regime-conditional rather than universal, then explains why the regime is nevertheless the one the void-claim load-bears on. A tenet-accepting reviewer would no longer flag the claim as overstated relative to Coutinho's actual finding.
+- **Engagement classification (editor-internal)**: No extended named-opponent replies in this article. The Relation-to-Site-Perspective section's engagement with materialism is Mode Three (framework-boundary marking) and honestly noted as such — the article does not pretend to refute materialism inside the materialist framework. No boundary-substitution, no label leakage detected. No editor-vocabulary appears in prose.
+- **Length-discipline check**: 2367 words; 118% of 2000 voids soft threshold (soft_warning). Hard (3000) and critical (4000) thresholds not approached. Article is intentionally three-face with four convergent empirical anchors plus substantive tenet section. Future reviews should default to length-neutral mode and prefer compression over expansion.
+- **Stability**: First deep review. Bedrock disagreements (eliminative materialism, Dennett heterophenomenology, quantum skepticism) noted in review archive as not-to-be-re-flagged. The single correctable issue (regime qualifier) is now fixed; future reviews should converge.
+- **Output**: [[reviews/deep-review-2026-05-19-confabulation-void]]
 
 ## 2026-05-19T23:20:53+00:00 - deep-review
 - **Status**: Success
