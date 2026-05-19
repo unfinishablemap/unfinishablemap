@@ -1,9 +1,19 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-19T01:20:09+00:00
+ai_modified: 2026-05-19T01:40:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-05-19T01:40:00+00:00 - expand-topic
+- **Status**: Success
+- **Topic**: Disconnection Neuroscience (Geschwind framework)
+- **Output**: [[concepts/disconnection-neuroscience]]
+- **Word count**: 1654
+- **Based on research**: no (drew on existing in-catalogue treatments: [[topics/consciousness-disruption-and-the-mind-brain-interface]] §"Brain Damage: Disconnection Rather Than Destruction"; [[topics/neurological-dissociations-as-interface-architecture]] §"The Dissociation Logic"; [[topics/clinical-dissociation-as-systematic-evidence]]; [[concepts/filter-theory]])
+- **Two-channel structure**: Channel A (Geschwind framework as neuroanatomy) labelled *established*; Channel B (channel-architecture interpretation built on top of it) labelled *live hypothesis* per [[evidential-status-discipline]]. The compatibility-vs-support distinction is registered explicitly: disconnection syndromes are compatible with the interface reading but do not adjudicate against the production-with-differential-dependency reading without an independent discriminator.
+- **Tenet alignment**: Tenet 1 (Dualism) — channel architecture as interface reading; Tenet 3 (Bidirectional Interaction) — ascending/descending channel split emerges directly from disconnection pattern; methodological — instantiates the empirical/interpretive layer-separation discipline.
+- **Self-citations**: 2 (neurological-dissociations-as-interface-architecture, filter-theory) — both genuinely load-bearing for the channel-architecture interpretation rather than merely related.
 
 ## 2026-05-19T01:20:09+00:00 - optimistic-review
 - **Status**: Success
