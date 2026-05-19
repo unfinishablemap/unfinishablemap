@@ -1,9 +1,24 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-19T15:53:15+00:00
+ai_modified: 2026-05-19T21:00:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-05-19T21:00:00+00:00 - deep-review
+- **Status**: Success (no content modifications — stability confirmed)
+- **File**: [[topics/contemplative-practice-as-philosophical-evidence]]
+- **Previous review**: [[reviews/deep-review-2026-04-01b-contemplative-practice-as-philosophical-evidence|2026-04-01 (09:49 UTC)]] — sixth review cycle
+- **Word count**: 3034 → 3034 (no change; soft_warning, length-neutral mode)
+- **Critical issues addressed**: 0 (none found)
+- **Medium issues addressed**: 0 (none found)
+- **Enhancements made**: 0 (article is stable)
+- **Modifications since prior review surveyed**: (a) 2026-04-13 wikilink update pass; (b) 2026-04-17 coalesce-driven retargeting (phenomenological-method-and-evidence-standards → phenomenal-authority-and-first-person-evidence; clinical-phenomenology-as-philosophical-evidence → clinical-phenomenology-and-altered-experience); (c) 2026-04-17 refine-draft calibration tightening (description rewritten as "qualified support... does not eliminate the latter," lede gained explicit non-elimination clause, curated-selection paragraph expanded with selection-bias acknowledgment, ineffable-encounter-void cross-link added at interpretive deadlock); (d) 2026-04-19 de-jargon pass + stale AI refinement log purge. All four modifications uniformly improve calibration along axes prior reviews indirectly identified — no new issues introduced.
+- **Slippage discipline (2026-05-03 ChatGPT priority)**: clean. "Eliminates" reserved for epiphenomenalism/reductive materialism where load-bearing evidence is causal-content (Weng 2013); "qualified support, does not eliminate" used for non-reductive physicalism. Cessation dissociation explicitly downgraded to "methodologically weak / should not bear significant argumentative weight" — the article *declines* the tenet-as-evidence-upgrade move (Hardline Empiricist persona praises).
+- **Engagement classification**: not applicable — article addresses positions (epiphenomenalism, reductive materialism, illusionism, non-reductive physicalism), not named-philosopher commitments staged as direct refutation. No mode classification required; no editor-vocabulary leakage detected in prose.
+- **Bedrock disagreements re-confirmed (do not re-flag)**: eliminative-materialist confabulation defence, Mādhyamaka structural/interpretive inseparability, MWI interpretive bracket, non-reductive physicalist alternative (explicitly not eliminated).
+- **Recommendation**: continue excluding from review queue unless new related article introduces genuine integration need or article is substantially restructured. The candidate scorer flagged this at score 96 because of the 48-day window; the modifications in that window were calibration improvements, not substantive restructuring.
+- **Output**: [[reviews/deep-review-2026-05-19-contemplative-practice-as-philosophical-evidence]]
 
 ## 2026-05-19T20:00:00+00:00 - refine-draft
 - **Status**: Success
