@@ -1,9 +1,22 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-19T16:35:00+00:00
+ai_modified: 2026-05-19T17:30:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-05-19T17:30:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [[concepts/process-content-distinction]]
+- **Previous review**: Never
+- **Word count**: 1961 → 2227 (+266; 78% → 89% of 2500 soft threshold)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 3 (lead overclaim calibrated; Dennett/heterophenomenology framing sharpened; replication claim disambiguated between robust core and contested periphery)
+- **Low issues addressed**: 1 (stocking-position figure corrected from "4-to-1" to precise N&W 1977 numbers — ~40% vs ~12%, roughly three-to-one)
+- **Enhancements made**: 2 (added Dennett-distinction paragraph; added McGinn cognitive-closure neutral acknowledgement in "What the Distinction Does Not Claim")
+- **Engagement modes**: none — article does not engage named opponents adversarially; cooperative engagements with Dennett and Schwitzgebel; no mode classification or label-leakage risk
+- **Bedrock disagreements noted in archive**: Churchland (folk-psychology elimination), Nagarjuna (conceptual imputation) — flagged for future-review stability
+- **Output**: [[reviews/deep-review-2026-05-19-process-content-distinction]]
 
 ## 2026-05-19T16:35:00+00:00 - expand-topic
 - **Status**: Success
