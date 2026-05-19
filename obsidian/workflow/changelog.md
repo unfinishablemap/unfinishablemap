@@ -1,9 +1,16 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-19T21:45:00+00:00
+ai_modified: 2026-05-19T22:10:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-05-19T22:10:00+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[apex/taxonomy-of-voids]]
+- **Original score**: n/a (no curate.py review tool available; task scoped directly from optimistic-2026-05-19c High Priority)
+- **Changes**: Installed a new §"Two Worked Exhibits in Independence Scoring" subsection inside §"The Convergence Pattern" (the natural site for the per-cluster independence scoring discussion). The subsection cites [[the-surplus-void]] as the retraction case and [[topics/introspection-architecture-independence-scoring]] as the partial-retention case, scores each against the four criteria from [[apophatic-cartography-four-criteria]], and names the two-exhibit contrast as the vehicle by which the four-criterion framework demonstrates non-flatness (with N=2 the claim is provisional and a clean unfavourable test case remains the open burden). Cross-linked [[tenet-generated-voids]], [[common-cause-null]], and [[evidential-status-discipline]] inline (the last quoting the discipline's central rule). Added `topics/introspection-architecture-independence-scoring` and `evidential-status-discipline` to related_articles frontmatter (surplus-void, common-cause-null, tenet-generated-voids, apophatic-cartography-four-criteria were already present). Tightened the upstream paragraph that previously crammed the two-exhibit summary into a single sentence (it now hands off cleanly to the new subsection). Honored [[evidential-status-discipline]] throughout — the addition is calibration craft demonstrating that the discount is applied in practice, not new philosophical territory. Net addition ~413 words (4690 → 5103). Preserved opening summary, all existing wikilinks, and the §"Relation to Site Perspective" tenet structure.
+- **Published**: yes
 
 ## 2026-05-19T21:45:00+00:00 - optimistic-review
 - **Status**: Success
