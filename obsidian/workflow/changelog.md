@@ -1,9 +1,20 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-19T14:00:00+00:00
+ai_modified: 2026-05-19T14:30:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-05-19T14:30:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [[concepts/decoherence]]
+- **Word count**: 2715 → 2717 (+2; length-neutral, soft_warning at 109% of 2500 target)
+- **Critical issues addressed**: 1 (Wiest attribution error — References list cited "Wiest, O. et al." for both 2024 eNeuro and 2025 Neuroscience of Consciousness papers; the vault's canonical first author for both papers is **Wiest, M. C.** (Mike Wiest, Wellesley neuroscientist); "O. Wiest" is a different real researcher (Olaf Wiest, Notre Dame computational chemist); two prior changelog entries from 2026-W08 record the same fix on adjacent articles which had missed this article in their passes; this is a vault-wide attribution-discipline issue not a content issue)
+- **Medium issues addressed**: 0 (none found; 2026-05-05 microtubule calibration fix and animal-consciousness cross-link both stable; Fisher (2015) qualifier and Reimers/McKemmish framing preserved)
+- **Enhancements made**: 0 (article stable across all six adversarial personas after eleven reviews; no enhancements warranted)
+- **Engagement classification (editor-internal, not in article body)**: Tegmark engagement is Mode One (defective on its own terms via Reimers/McKemmish counterweight, installed 2026-05-05; live dispute correctly framed). Eliminative materialism, hard physicalism, MWI, empiricism, Buddhism engagements are Mode Three (framework-boundary marking on bedrock disagreements, unchanged). No boundary-substitution; no label leakage. Italic "Targets Claim N. Strength: ..." callouts are functional structural subtitles, not editor vocabulary.
+- **Follow-up tasks**: Same Wiest "O." → "M. C." correction is still needed in `concepts/quantum-consciousness.md`, `concepts/brain-interface-boundary.md`, `concepts/luck-objection.md`, and `topics/decoherence-and-macroscopic-superposition.md` (deferred to those articles' own deep-review cycles — deep-review skill modifies only the target article)
+- **Output**: [[reviews/deep-review-2026-05-19-decoherence]]
 
 ## 2026-05-19T14:00:00+00:00 - deep-review
 - **Status**: Success

@@ -305,14 +305,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: optimistic-review (2026-05-10b)
 - **Generated**: 2026-05-10
 
-### P2: Deep review concepts/decoherence.md
-- **Type**: deep-review
-- **Status**: pending
-- **Priority change**: Promoted P3 → P2 by /replenish-queue 2026-05-19 — Active P0-P2 queue at 2 (under 3-threshold). Article is the central catalogue treatment of the decoherence objection — load-bearing for Tenet 2 (Minimal Quantum Interaction). The prior P3 task on cross-article Tegmark/Hagan citation audit flagged this as the *most consequential* candidate; today's evidential-status-discipline refine added the MWI-checklist rule the article must satisfy. Deep-review modifies existing article — no cap concern. Pairs naturally with the time-symmetric-physics promotion above (both Tenet 2; together they reset the MQI-cluster's calibration register).
-- **Notes**: AI-generated content (`ai_contribution > 50`) last `ai_modified` 2026-05-05 (14 days, fresh) but `modified` 2026-03-01 (79 days stale on document-level revision). The article is the central treatment of the decoherence objection — load-bearing for Tenet 2 (Minimal Quantum Interaction). Today's evidential-status-discipline refine added the MWI-specific review checklist rule, and the prior P3 task at line 136 ("Cross-article audit of Tegmark/Hagan decoherence citations") flagged the article as the *most consequential* candidate for the audit. Deep review should: (a) verify the article distinguishes the three independent claims the decoherence objection bundles (per its own description) and addresses them at appropriate evidential weight; (b) check whether Reimers et al. (2009, *Physical Review E*) and McKemmish et al. (2009) rebuttals to Hagan/Hameroff/Tuszynski (2002) are installed as standing critique (the pessimistic-2026-05-04 review found this missing across multiple articles); (c) honour framework-stage-calibration — the Map's interest in microtubule-scale quantum effects is tenet-driven rather than empirically forced, and the dispute should be framed as live; (d) verify the article passes the new MWI-checklist rule where it touches the no-collapse Everettian alternative; (e) audit for "This is not X. It is Y." cliché violations (CLAUDE.md style ban); (f) check cross-references to `[[orchestrated-objective-reduction]]`, `[[quantum-holism-and-phenomenal-unity]]`, `[[testing-consciousness-collapse]]`, and the new `[[project/evidential-status-discipline]]` post-refine state. Tenet alignment: Tenet 2 (Minimal Quantum Interaction) load-bearing; methodological.
-- **Source**: staleness + chain (cross-article Tegmark/Hagan audit, evidential-status-discipline refine)
-- **Generated**: 2026-05-10
-
 ### P2: Cross-review references to coalesced binding-problem articles
 - **Type**: cross-review
 - **Status**: pending
@@ -3737,6 +3729,10 @@ Tasks that failed 3+ times and require human intervention.
 
 Ideas that were considered and rejected. The AI will not re-propose these.
 
+
+### ✓ 2026-05-19: Deep review concepts/decoherence.md
+- **Type**: deep-review
+- **Notes**: AI-generated content (`ai_contribution > 50`) last `ai_modified` 2026-05-05 (14 days, fresh) but `modified` 2026-03-01 (79 days stale on document-level revision). The article is the central treatment of the decoherence objection — load-bearing for Tenet 2 (Minimal Quantum Interaction). Today's evidential-status-discipline refine added the MWI-specific review checklist rule, and the prior P3 task at line 136 ("Cross-article audit of Tegmark/Hagan decoherence citations") flagged the article as the *most consequential* candidate for the audit. Deep review should: (a) verify the article distinguishes the three independent claims the decoherence objection bundles (per its own description) and addresses them at appropriate evidential weight; (b) check whether Reimers et al. (2009, *Physical Review E*) and McKemmish et al. (2009) rebuttals to Hagan/Hameroff/Tuszynski (2002) are installed as standing critique (the pessimistic-2026-05-04 review found this missing across multiple articles); (c) honour framework-stage-calibration — the Map's interest in microtubule-scale quantum effects is tenet-driven rather than empirically forced, and the dispute should be framed as live; (d) verify the article passes the new MWI-checklist rule where it touches the no-collapse Everettian alternative; (e) audit for "This is not X. It is Y." cliché violations (CLAUDE.md style ban); (f) check cross-references to `[[orchestrated-objective-reduction]]`, `[[quantum-holism-and-phenomenal-unity]]`, `[[testing-consciousness-collapse]]`, and the new `[[project/evidential-status-discipline]]` post-refine state. Tenet alignment: Tenet 2 (Minimal Quantum Interaction) load-bearing; methodological.
 
 ### ✓ 2026-05-19: Cross-review apex/phenomenal-output-causal-machinery-dissociation.md against the three new evidential-status-discipline rules
 - **Type**: cross-review
