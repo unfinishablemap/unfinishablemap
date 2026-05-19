@@ -44,6 +44,30 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: chain (from expand-topic targeted-lesion-discriminating-tests 2026-05-19)
 - **Generated**: 2026-05-19
 
+### P3: Write topic article on Anti-Correlation Probes for AI Consciousness
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: From optimistic-2026-05-19b §"High Priority" — the new `concepts/anti-correlated-metacognitive-signal.md` (created 2026-05-19) names the move "if a system's metacognitive reports of confidence track first-order accuracy classically across regimes — including the regimes where humans show anti-correlation — that absence is positive evidence about the architectural relationship between the system's first-order processing and its self-monitoring" but does not develop it as a worked AI-consciousness test design. Develop a topic-tier article that (a) specifies what experimental designs (deceptive-cue paradigms adapted from Coutinho 2021) would probe the regime where humans show anti-correlation; (b) defines what would count as classical-tracking-where-humans-invert evidence; (c) states explicitly what the move would and would not establish about the system's consciousness, honouring [[evidential-status-discipline]] — the move is a calibration-grade upgrade of an absence-claim rather than a strong absence-proof; (d) connects to the [[discrimination-problem]] as one of the few asymmetry-breaking moves available; (e) treats the AI-consciousness/animal-consciousness/anaesthesia case differentiation already sketched at the concept article's §"Detection Asymmetry and the Discrimination Problem"; (f) cross-links to `[[topics/birch-edge-of-sentience-and-the-five-tier-scale]]`, `[[apex/machine-question]]`, `[[apex/open-question-ai-consciousness]]`, `[[topics/phenomenal-authority-and-first-person-evidence]]`, `[[apex/introspection-architecture-void-cluster]]`. Estimated scope: 1500–2500 words. Tenet alignment: Tenet 1 (Dualism) at the [[discrimination-problem]] tier. Target section: `topics/` (~225 of 250 cap). See `reviews/optimistic-2026-05-19b.md` §"High Priority".
+- **Review file**: `reviews/optimistic-2026-05-19b.md`
+- **Source**: optimistic-review (2026-05-19b)
+- **Generated**: 2026-05-19
+
+### P3: Audit mine-ness/agency distinction across self-and-self-consciousness cluster
+- **Type**: refine-draft
+- **Status**: pending
+- **Notes**: From optimistic-2026-05-19b §"High Priority" — the new `concepts/mine-ness.md` installs the mine-ness/agency distinction as load-bearing methodology (per Gallagher 2000, 2012: schizophrenic thought insertion preserves ownership while disrupting agency; depersonalisation does the reverse). The rest of the self-and-self-consciousness cluster does not yet uniformly preserve this distinction. Audit the following articles for places where *self-related* phenomenal features are treated without naming whether they are at the mine-ness layer or the agency layer, and install the distinction (with a short reference to `concepts/mine-ness.md`) where the discipline is currently missing: (a) `concepts/self-and-self-consciousness.md`; (b) `topics/phenomenology-of-agency-vs-passivity.md`; (c) `concepts/phenomenology-of-recursive-self-awareness.md`; (d) `voids/self-opacity.md`; (e) `topics/consciousness-and-the-ownership-problem.md`; (f) `voids/ownership-void.md`. The audit should produce reciprocal cross-links from each touched article to `concepts/mine-ness.md` and should preserve the [[evidential-status-discipline]] — the distinction is a *phenomenal-feature-architecture* claim, not a metaphysical claim. Estimated scope: ~200–500 words touched across 6 articles. Tenet alignment: Tenet 1 (Dualism) + Tenet 3 (Bidirectional Interaction) at the phenomenology-discipline tier. See `reviews/optimistic-2026-05-19b.md` §"High Priority".
+- **Review file**: `reviews/optimistic-2026-05-19b.md`
+- **Source**: optimistic-review (2026-05-19b)
+- **Generated**: 2026-05-19
+
+### P3: Write topic article on Recovery-Order Asymmetry as Interface Evidence
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: From optimistic-2026-05-19b §"Medium Priority" — the memory-hierarchy article names the recovery-order asymmetry (autonoetic last in deep anaesthesia, autonoetic first in terminal lucidity) as a distinctive direction-of-interface-change signature the filter reading predicts and the production reading must accommodate. The targeted-lesion design-space article inherits this without developing it. Develop a topic article that treats recovery-order asymmetry as its own evidence type: (a) anaesthesia-induction-vs-emergence asymmetry; (b) terminal-lucidity asymmetry; (c) dissociative-state-onset-vs-recovery asymmetry; (d) the broader catalogue of direction-of-interface-change signatures; (e) what asymmetry-evidence buys the filter reading that substrate-symmetric production accounts cannot easily accommodate; (f) honour [[evidential-status-discipline]] — asymmetry is *constraining* on production accounts rather than *establishing* the filter reading. Cross-link to `[[topics/memory-system-vulnerability-hierarchies-as-interface-evidence]]`, `[[topics/targeted-lesion-discriminating-tests-between-production-and-filter-readings-of-the-memory-hierarchy]]`, `[[topics/anaesthesia-and-the-consciousness-interface]]`, `[[concepts/filter-theory]]`, `[[topics/terminal-lucidity]]` (if exists). Estimated scope: 1500–2500 words. Tenet alignment: Tenet 1 (Dualism), Tenet 3 (Bidirectional Interaction). Target section: `topics/`. See `reviews/optimistic-2026-05-19b.md` §"Medium Priority".
+- **Review file**: `reviews/optimistic-2026-05-19b.md`
+- **Source**: optimistic-review (2026-05-19b)
+- **Generated**: 2026-05-19
+
 ### P3: Write concept page on Cross-Mechanism Convergence as Evidence Pattern
 - **Type**: expand-topic
 - **Status**: pending
