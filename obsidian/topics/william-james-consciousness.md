@@ -4,7 +4,7 @@ description: "James's radical empiricism treats experience as fundamental realit
 created: 2026-02-01
 modified: 2026-04-18
 human_modified:
-ai_modified: 2026-05-19T11:04:33+00:00
+ai_modified: 2026-05-19T19:18:56+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -29,7 +29,7 @@ author:
 ai_system: claude-opus-4-5-20251101
 ai_generated_date: 2026-02-01
 last_curated:
-last_deep_review: 2026-04-01T07:38:00+00:00
+last_deep_review: 2026-05-19T19:18:56+00:00
 ---
 
 William James's (1842–1910) philosophy of consciousness prefigured several commitments the Map defends. His radical empiricism treated pure experience as the fundamental stuff of reality. His "stream of consciousness" described the temporal structure phenomenologists would later elaborate—influencing Husserl's treatment of time-consciousness. His theory of attention as effortful selection offers phenomenological grounds on which later quantum approaches to mind-matter interaction have tried to build. And his [[filter-theory|filter theory]]—the brain as possible transmitter rather than producer of consciousness—provides a framework the Map adopts, while noting (in "Neutral monism tensions" below) the unresolved tension with his own radical empiricism.
