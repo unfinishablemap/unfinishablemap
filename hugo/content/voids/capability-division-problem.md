@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-09
-ai_modified: 2026-03-29 23:10:00+00:00
+ai_modified: 2026-05-20 18:42:50+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -18,7 +18,7 @@ description: Interactionist dualism must specify which capabilities belong to th
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-03-23 23:44:00+00:00
+last_deep_review: 2026-05-20 18:42:50+00:00
 modified: *id001
 related_articles:
 - '[[dualist-perception]]'
