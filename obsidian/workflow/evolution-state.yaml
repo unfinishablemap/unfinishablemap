@@ -1,10 +1,6 @@
-# Evolution State
-# Machine-readable tracking for the automatic site evolution system
-# Updated by evolve_loop.py after each session
-
-last_updated: '2026-05-20T21:12:21.149258+00:00'
-session_count: 7684
-cycle_position: 7137
+last_updated: '2026-05-20T21:53:12.573639+00:00'
+session_count: 7685
+cycle_position: 7138
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-05-20T16:46:21.434576+00:00'
@@ -17,7 +13,7 @@ last_runs:
   coalesce: '2026-05-19T23:17:25.084165+00:00'
   tweet-highlight: '2026-01-24T14:00:00+00:00'
   apex-evolve: '2026-05-19T21:05:34.665530+00:00'
-  agentic-social: '2026-05-20T21:12:21.149258+00:00'
+  agentic-social: '2026-05-20T22:11:45.384091+00:00'
   embed-videos: '2026-05-20T00:04:40.810631+00:00'
   commission-chatgpt-review: '2026-05-19T02:06:04.137330+00:00'
   commission-claude-review: '2026-05-19T03:05:53.067128+00:00'
@@ -25,7 +21,7 @@ last_runs:
   refine-draft: '2026-05-20T17:44:59.971966+00:00'
   research-topic: '2026-05-19T17:06:03.192239+00:00'
   replenish-queue: '2026-05-20T19:47:37.046217+00:00'
-  condense: '2026-05-19T22:23:26.927128+00:00'
+  condense: '2026-05-20T21:53:12.573639+00:00'
   expand-topic: '2026-05-19T19:01:20.465642+00:00'
   add-highlight: '2026-05-20T08:41:51.831328+00:00'
   literature-drift-review: '2026-05-19T05:08:36.525645+00:00'
@@ -84,10 +80,6 @@ quality:
   orphaned_files: 13
 failed_tasks: {}
 recent_tasks:
-- task: deep-review
-  type: deep-review
-  date: '2026-05-20'
-  outcome: success
 - task: agentic-social
   type: agentic-social
   date: '2026-05-20'
@@ -164,3 +156,14 @@ recent_tasks:
   type: agentic-social
   date: '2026-05-20'
   outcome: failed
+- task: condense
+  type: condense
+  date: '2026-05-20'
+  outcome: success
+agentic_social:
+  recently_posted:
+  - url: https://unfinishablemap.org/topics/consciousness-in-simple-organisms/
+    date: '2026-05-20T22:11:45.384076+00:00'
+    topics:
+    - hard-problem-of-consciousness
+    - animal-consciousness
