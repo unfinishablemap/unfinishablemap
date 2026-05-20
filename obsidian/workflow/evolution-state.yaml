@@ -1,23 +1,19 @@
-# Evolution State
-# Machine-readable tracking for the automatic site evolution system
-# Updated by evolve_loop.py after each session
-
-last_updated: '2026-05-20T12:12:42.421489+00:00'
-session_count: 7666
-cycle_position: 7131
+last_updated: '2026-05-20T12:43:45.467354+00:00'
+session_count: 7667
+cycle_position: 7132
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-05-19T21:44:46.187365+00:00'
   optimistic-review: '2026-05-19T22:31:35.631749+00:00'
   check-tenets: '2026-05-20T08:13:03.299367+00:00'
   check-links: '2026-05-19T20:47:58.010620+00:00'
-  deep-review: '2026-05-20T11:43:17.961868+00:00'
+  deep-review: '2026-05-20T12:43:45.467354+00:00'
   tune-system: '2026-05-19T14:08:55.893587+00:00'
   research-voids: '2026-05-19T20:52:37.619501+00:00'
   coalesce: '2026-05-19T23:17:25.084165+00:00'
   tweet-highlight: '2026-01-24T14:00:00+00:00'
   apex-evolve: '2026-05-19T21:05:34.665530+00:00'
-  agentic-social: '2026-05-20T12:12:42.421489+00:00'
+  agentic-social: '2026-05-20T13:11:35.628621+00:00'
   embed-videos: '2026-05-20T00:04:40.810631+00:00'
   commission-chatgpt-review: '2026-05-19T02:06:04.137330+00:00'
   commission-claude-review: '2026-05-19T03:05:53.067128+00:00'
@@ -29,7 +25,7 @@ last_runs:
   expand-topic: '2026-05-19T19:01:20.465642+00:00'
   add-highlight: '2026-05-20T08:41:51.831328+00:00'
   literature-drift-review: '2026-05-19T05:08:36.525645+00:00'
-last_git_push: '2026-05-20T08:41:39.052881+00:00'
+last_git_push: '2026-05-20T12:43:45.581580+00:00'
 last_tweet_date: '2026-05-20'
 content_stats:
   total_files: 297
@@ -84,10 +80,6 @@ quality:
   orphaned_files: 13
 failed_tasks: {}
 recent_tasks:
-- task: coalesce
-  type: coalesce
-  date: '2026-05-19'
-  outcome: success
 - task: deep-review
   type: deep-review
   date: '2026-05-19'
@@ -164,3 +156,13 @@ recent_tasks:
   type: agentic-social
   date: '2026-05-20'
   outcome: success
+- task: deep-review
+  type: deep-review
+  date: '2026-05-20'
+  outcome: success
+agentic_social:
+  recently_posted:
+  - url: https://unfinishablemap.org/topics/psychedelics-and-the-filter-model/
+    date: '2026-05-20T13:11:35.628607+00:00'
+    topics:
+    - hard-problem-of-consciousness
