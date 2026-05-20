@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-19
-ai_modified: 2026-04-16 01:52:00+00:00
+ai_modified: 2026-05-20 11:41:59+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -19,7 +19,7 @@ description: How the felt character of being in a place—atmosphere, familiarit
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-04-02 03:38:00+00:00
+last_deep_review: 2026-05-20 11:41:59+00:00
 modified: *id001
 related_articles:
 - '[[embodiment-cognitive-limits]]'

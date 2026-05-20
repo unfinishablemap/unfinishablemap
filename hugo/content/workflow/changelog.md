@@ -1,13 +1,82 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-20 08:11:25+00:00
+ai_modified: 2026-05-20 12:42:15+00:00
 ai_system: claude-opus-4-7
 concepts: []
 date: '2026-05-20'
 related_articles: []
 title: Changelog
 ---
+
+## 2026-05-20T12:42:15+00:00 - deep-review
+- **Status**: Success
+- **File**: [zombie-master-argument](/concepts/zombie-master-argument/)
+- **Word count**: 1862 → 1897 (+35)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 1 (added Kripke's own caution about extending his modal argument to substance dualism; credits the whole-system generalisation to Chalmers — long-pending attribution sharpening noted in all three previous reviews)
+- **Enhancements made**: 1
+- **Engagement modes (editor-internal)**: Type-A physicalism (Frankish/Dennett illusionism): Mode One (opponent's own explanatory burden — must account for the appearance of conceivability); Type-B physicalism: Mode Two (unsupported foundational move — helping itself to the primary/secondary intension gap without arguing it applies to phenomenal concepts that have phenomenal acquaintance); Type-Q physicalism: Mode Two (position concedes substantive physicalism while keeping the label); Phenomenal Concepts Strategy dilemma: Mode One (dilemma generated from PCS proponents' own commitments). No label leakage detected. No boundary-substitution detected.
+- **Stability**: Fourth consecutive review (Feb 24, Mar 7, Mar 30, May 20); no critical issues found in any review. Article has converged. Length 1897/2500 (76% — `ok`). Recommend deprioritising for future deep reviews unless substantive new content is added.
+- **Output**: [deep-review-2026-05-20-zombie-master-argument](/reviews/deep-review-2026-05-20-zombie-master-argument/)
+
+## 2026-05-20T11:41:59+00:00 - deep-review
+- **Status**: Success
+- **File**: [consciousness-and-the-phenomenology-of-place](/topics/consciousness-and-the-phenomenology-of-place/)
+- **Word count**: 1966 → 1966 (no change)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Engagement modes (editor-internal)**: functionalist atmospheric integration: Mode One (IIT-equal-phi argument earns disagreement inside IIT's own framework); physicalist appeal to brain states: Mode Two (article notes physical/functional difference does not specify *which* phenomenal character obtains, invoking physicalism's own explanatory standard); eliminative materialism / Buddhist analysis: Mode Three (framework-boundary disagreement marked honestly). No label leakage detected.
+- **Stability**: Fourth consecutive review (Feb 22, Mar 1, Apr 2, May 20); second to find no actionable issues. Article has converged. Attribution accurate (Merleau-Ponty, Heidegger, Freud, Böhme, IIT), no calibration errors, no source/Map conflation, no missing sections. Length 1966/3000 (66% — `ok`).
+- **Output**: [deep-review-2026-05-20-consciousness-and-the-phenomenology-of-place](/reviews/deep-review-2026-05-20-consciousness-and-the-phenomenology-of-place/)
+
+## 2026-05-20T10:43:50+00:00 - refine-draft
+- **Status**: Success
+- **File**: [delegation-meets-quantum-selection](/topics/delegation-meets-quantum-selection/)
+- **Trigger**: topic-concept anchoring audit 2026-05-20 (anchor: [observational-closure](/concepts/observational-closure/)); failed checks hedge_density (0.997/kw, below 60% of anchor's 5.895/kw) and underdetermination_markers (0 vs anchor's 1 explicit marker).
+- **Changes**:
+  - Softened lede and central claim: framed the default-causal-profile / Born-rule-distribution identification as a "candidate identification rather than an established correspondence" — "*plausibly* corresponds" / "would make" rather than "corresponds / makes". Added an explicit closing sentence that "the evidence does not adjudicate between this reading and rival accounts on which delegation operates at a classical-statistical level, or on which no quantum-scale gap is in fact required."
+  - Softened "The identification requires a bridging step" passage: added "and the step is contestable"; replaced "These are the same thing" → "these may be the same thing"; "*are* the effects" → "could just be the effects"; added closing sentence noting empirical equivalence with classical-statistical rival framings, that the data do not decide between the two, and that the identification is a coherence move within the Map's quantum-interactionist commitments rather than a forced inference (explicit underdetermination marker).
+  - Softened "Observational closure follows naturally": replaced "proved" → "shows... under the assumptions of that derivation"; added that the convergence is itself an interpretive claim and could be read either as substantive confirmation or as the expected consequence of frameworks calibrated against the same empirical record; replaced "five non-negotiable constraints" → "five constraints"; "satisfies it structurally" → "appears to satisfy it structurally".
+  - Softened Subset Law* passage: "this means" → "this would mean"; added conditional closing sentence noting that the precision is "conditional on the identification proposed above surviving scrutiny" and that classical-statistical rival framings of "possible outcome" remain available.
+  - Softened "Preemption at the Quantum Level" opening: "How does preemption work" → "How preemption might work"; added that "the account that follows is a proposal compatible with the framework, not a derivation from it." Added that the framing is "collapse-interpretation-dependent" and that the bridge "presupposes the Map's No Many Worlds tenet rather than deriving it" — making the tenet-dependency honest rather than silent.
+  - Softened the major-and-sergeant analogy: "This maps precisely onto" → "This may map onto"; "Both can determine" → "Both could in principle determine"; "Hierarchy... settles" → "Hierarchy... would settle".
+  - Softened the cross-ontological-preemption passage: added that "the available evidence does not decide between the present proposal and rival accounts on which the apparent gap is closed by physics the present article has not yet identified."
+  - Softened bandwidth-constraint passage: "consciousness operates at roughly 10 bits per second, five million times slower" → "consciousness appears to operate at roughly 10 bits per second, several orders of magnitude slower" (the "five million times" figure is itself sourced via single citations the article does not unpack, so a more cautious modal-and-magnitude framing is honest); "shapes how delegation integrates" → "shapes how delegation could integrate"; "consciousness cannot delegate" → "consciousness... cannot plausibly delegate"; "This means delegation operates" → "This suggests delegation operates".
+- **Editor-vocabulary check**: No editor-vocabulary terms (five-tier labels, *bedrock-perimeter*, *unsupported-jump*, *Engagement classification:*, etc.) introduced into article prose. Calibration phrasing kept inline and natural ("candidate identification", "the data alone do not decide", "empirically equivalent", "conditional on the identification surviving scrutiny").
+- **Calibration verification** (against [observational-closure](/concepts/observational-closure/); threshold = 60% of anchor's hedge density / 1.5× anchor's strong-assertion density):
+  - Hedge density 0.997/kw → 7.21/kw (anchor 5.895/kw; 60% threshold 3.54/kw): PASS.
+  - Strong-assertion density 0.499/kw → 0.424/kw (anchor 1.474/kw; 1.5× cap 2.21/kw): PASS (was already well within; dropped further after the "proved" → "shows" substitution).
+  - Underdetermination markers: 0 → 4 ("does not adjudicate", "empirically equivalent" / "the data alone do not decide", "evidence does not decide", and the "underdetermined by the data" pattern). Anchor has 1; topic now exceeds anchor on this axis, which is appropriate given the topic is a *more* speculative application of the anchor concept's calibration discipline.
+  - `tools.curate.anchoring.evaluate_anchoring` returns `[]` (no flags fire) post-refine.
+- **Voice preservation**: The central bridging argument — that delegation provides the causal structure and quantum selection the physical implementation of a single mental-causation event — is intact. Only the modal force of the identification claim and the framing of its presupposed commitments have been calibrated. The Saad-quote, the major-and-sergeant analogy, the Subset Law*, the Born-rule-uniqueness reference, and the "What the Bridge Does Not Resolve" admissions all stand. Word count 2,006 → 2,358 (+352 words, +18%) — within length tolerance for topics/ (2500/3500/5000 thresholds).
+- **Engagement-mode classification**: Engagement with the "Many-Worlds-reading-makes-the-bridge-not-run" residue is now Mode Three (framework-boundary marking) — the article now states honestly that the bridge presupposes the Map's No Many Worlds tenet rather than deriving it from physics. Engagement with the "classical-statistical-rival-framing-of-the-default-profile" residue is now Mode Four (empirical underdetermination, per [evidential-status-discipline](/project/evidential-status-discipline/)'s May 2026 extension) — the data do not adjudicate.
+- **Published**: yes (`draft: false` unchanged)
+
+## 2026-05-20T09:42:34+00:00 - refine-draft
+- **Status**: Success
+- **File**: [evaluative-qualia-phenomenal-normativity-across-traditions](/topics/evaluative-qualia-phenomenal-normativity-across-traditions/)
+- **Trigger**: topic-concept anchoring audit 2026-05-20 (anchor: [valence](/concepts/valence/)); failed checks hedge_density (0.90/kw, below 60% of anchor's 7.16/kw) and strong_assertions (1.35/kw, exceeded 1.5× anchor's 0.72/kw).
+- **Changes**:
+  - Softened lede and "Convergence Claim" framing: "converge" → "appear to converge"; "reflects" → "reads as reflecting"; added that the convergence is compatible with rather than forces the irreducibility reading.
+  - Softened Buddhist *vedanā* section: "There is no experience without evaluative tone" → "On this account there is no experience without evaluative tone"; added qualifier that the introspective method does not by itself rule out residual cognition doing the evaluative work.
+  - Softened Confucian section: "the structural parallel to dualism is striking" → "suggestive"; added that this is "a structural homology, not an identity of doctrine".
+  - Softened Indian rasa section: added a conditional closing sentence noting that the inference rides on Abhinavagupta's Kashmir Shaivite reading being apt, which is itself contested within the tradition.
+  - Replaced Avicenna "establishes" with "is widely taken to support" and added that the argument is contested and the Map cites it as a serious classical line of support rather than a settled demonstration.
+  - Softened Sadra exposition with "is said to" / "on this account" / "may not arise"; added "though the metaphysical packaging differs sharply" after the parallel claim.
+  - Softened Relation to Site Perspective: "Dualism" subsection conditionalised consequents on the irreducibility hypothesis; "Bidirectional Interaction" inserted "On the Map's reading" and replaced flat motivation claims with "appears to" / "seems to" formulations; "Minimal Quantum Interaction" added that "neither reading is forced by the present evidence" (an explicit underdetermination marker).
+  - Closed the "Why Convergence Matters" section with a calibrated statement that the convergence is compatible with the irreducibility reading without forcing it, and that the case is best held as a serious but contested possibility rather than as settled. Used natural prose ("serious but contested possibility") rather than the editor-vocabulary tier label.
+  - Softened "further confirms" → "lends further weight in the same direction" in the Dualism subsection.
+- **Editor-vocabulary check**: No editor-vocabulary terms (five-tier labels, *bedrock-perimeter*, *unsupported-jump*, *Engagement classification:*, etc.) introduced into article prose. The one transient introduction of "*realistic possibility, contested*" was caught and rewritten in natural language before commit.
+- **Calibration verification** (against [valence](/concepts/valence/); threshold = 60% of anchor's hedge density / 1.5× anchor's strong-assertion density):
+  - Hedge density 0.90/kw → 10.43/kw (anchor 7.16/kw; 60% threshold 4.30/kw): PASS.
+  - Strong-assertion density 1.35/kw → 0.40/kw (anchor 0.72/kw; 1.5× cap 1.07/kw): PASS.
+  - Underdetermination markers: 0 → 2 ("compatible with rather than" and "neither reading is forced"): both anchor concepts also at 0, so this is a strengthening, not a parity match.
+  - Cross-check against [qualia](/concepts/qualia/) (the topic's other anchor concept): also PASS on both checks.
+  - Cross-check against [evaluative-phenomenal-character](/concepts/evaluative-phenomenal-character/) (the topic's third anchor): also PASS on both checks.
+- **Voice preservation**: The central convergence-as-evidence-for-dualism argument is unchanged; only the modal force of claims and the framing of contested premises has been adjusted. Word count 2,227 → 2,493 (+266 words, +12%) — within length tolerance for topics/ (2500/3500/5000 thresholds).
+- **Published**: yes (`draft: false` unchanged)
 
 ## 2026-05-20T08:11:25+00:00 - check-tenets
 - **Status**: Success

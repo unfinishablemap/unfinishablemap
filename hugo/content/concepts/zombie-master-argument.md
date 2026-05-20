@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-23
-ai_modified: 2026-03-30 09:14:00+00:00
+ai_modified: 2026-05-20 12:42:15+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -24,7 +24,7 @@ description: How the conceivability argument against physicalism functions as a 
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-03-30 09:14:00+00:00
+last_deep_review: 2026-05-20 12:42:15+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -58,7 +58,7 @@ Joseph Levine's [explanatory gap](/concepts/explanatory-gap/) — the persistent
 
 ### Kripke's Modal Argument
 
-Saul Kripke's argument from *Naming and Necessity* (1980) — that pain cannot be identical to C-fibre firing because we can conceive of C-fibres firing without pain — is a direct precursor. Kripke showed that unlike water/H₂O, where conceivable separation reflects pre-scientific ignorance, the conceivable separation of consciousness from its physical correlates doesn't dissolve with better science. The zombie argument generalises Kripke's point from specific mental states to consciousness as a whole.
+Saul Kripke's argument from *Naming and Necessity* (1980) — that pain cannot be identical to C-fibre firing because we can conceive of C-fibres firing without pain — is a direct precursor. Kripke showed that unlike water/H₂O, where conceivable separation reflects pre-scientific ignorance, the conceivable separation of consciousness from its physical correlates doesn't dissolve with better science. The zombie argument generalises Kripke's point from specific mental states to consciousness as a whole. Kripke himself was cautious about extending the argument to substance dualism, framing the conclusion in narrower terms about type-identity claims for particular mental states; the generalisation to whole-system zombies is Chalmers's contribution rather than Kripke's.
 
 ## The Physicalist Response Map
 
