@@ -1,9 +1,17 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-20T19:15:00+00:00
+ai_modified: 2026-05-20T21:52:26+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-05-20T21:52:26+00:00 - condense
+- **Status**: Success
+- **File**: [[topics/animal-consciousness]]
+- **Before**: 4499 words
+- **After**: 3191 words
+- **Reduction**: 29%
+- **Technique**: Cut excessive hedging and meta-discussion (especially in Why-Animals-vs-AI COGITATE paragraph), tightened prose throughout (collapsed multi-sentence elaborations to single sentences), removed redundant qualifiers and over-attributed coherence-discipline commentary. Preserved all section structure, opening summary, Relation to Site Perspective, and all unique arguments (marker method, UAL, multiple origins, baseline cognition / amplifier, illusionist bridge critique, falsifiability candidates). All internal links and references intact.
 
 ## 2026-05-20T19:15:00+00:00 - deep-review
 - **Status**: Success
