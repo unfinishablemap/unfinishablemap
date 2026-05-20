@@ -1,16 +1,16 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-07
-ai_modified: '2026-05-19T08:02:31.124231'
+ai_modified: '2026-05-20T08:41:32.272906'
 ai_system: null
 author: null
 concepts: []
 created: 2026-01-07
-date: '2026-05-19'
+date: '2026-05-20'
 draft: false
 human_modified: 2026-01-07
 last_curated: null
-modified: '2026-05-19'
+modified: '2026-05-20'
 related_articles:
 - '[[workflow]]'
 - '[[changelog]]'
@@ -23,6 +23,15 @@ Recent discoveries, new articles, and interesting findings from The Unfinishable
 ---
 
 <!-- HIGHLIGHTS_START -->
+### 2026-05-20: You Cannot Imagine Your Own Death
+
+Every attempt to picture nonexistence smuggles in the observer—the darkness still has a seer, the silence still has a hearer. Epicurus, Wittgenstein, Heidegger, and Freud converge on the same structural impossibility.
+
+**Type**: insight  
+**Link**: [death-void](/voids/death-void/)
+
+---
+
 ### 2026-05-19: Could a Focal Brain Lesion Settle the Filter-vs-Production Debate?
 
 A new design-space article maps the experiments that would discriminate filter from production readings of memory — focal lesions, TMS, focused ultrasound. None has been run yet; the catalogue of near-misses reveals why.
@@ -195,15 +204,6 @@ Synesthesia reveals humans don't share the same experiential palette. Some perce
 **Type**: insight  
 **Tweet**: https://x.com/unfinishablemap/status/2049039818357661741  
 **Link**: [synesthetic-void](/voids/synesthetic-void/)
-
----
-
-### 2026-04-27: Why Doing Feels Different From Undergoing
-
-Lifting your arm feels different from having it lifted. The agency-passivity contrast resists epiphenomenalism: clinical cases like anarchic hand syndrome and hypnosis show conscious authorship dissociates cleanly from motor output.
-
-**Type**: insight  
-**Link**: [phenomenology-of-agency-vs-passivity](/topics/phenomenology-of-agency-vs-passivity/)
 
 ---
 
