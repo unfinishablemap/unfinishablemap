@@ -1,9 +1,21 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-20T21:52:26+00:00
+ai_modified: 2026-05-20T22:42:20+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-05-20T22:42:20+00:00 - deep-review
+- **Status**: Success
+- **File**: [[concepts/minimal-consciousness]]
+- **Word count**: 1613 → 1613 (no body changes; 65% of 2500 soft threshold)
+- **Critical issues addressed**: 0 (none found; Attribution Accuracy Check passes all dimensions; no possibility/probability slippage; no label leakage)
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 (full convergence; the three cross-links added since the 2026-03-22 review — `universal-coupling-response`, `interface-heterogeneity`, `comparative-consciousness-and-interface-differences` — were added by upstream deep reviews of those neighbouring articles, exactly as the previous review anticipated; this pass is a stable-state hygiene update)
+- **Stability**: Sixth deep review (2026-01-20, 2026-01-22, 2026-01-31, 2026-02-25, 2026-03-22, 2026-05-20). Article at sustained convergence — three consecutive reviews with 0 critical issues. Future reviews should only trigger on substantive new body content, new articles warranting cross-links, or outer-review findings.
+- **Engagement modes (editor-internal)**: No named-opponent engagements. The implicit emergentist-materialism engagement in *Why Minimal Consciousness Matters > Dualism vs emergence* operates in Mode Two (unsupported-foundational-move: emergentism has not specified the threshold mechanism by its own commitments) blended with Mode Three (boundary marking via *"indirect support"*, honestly avoiding refutation claim). No editor-vocabulary in prose.
+- **Calibration discipline**: Hardline Empiricist persona endorses the article's posture — tenet-coherence is kept separate from evidential claims about which organisms are conscious. No tenet-as-evidence-upgrade.
+- **Output**: [[reviews/deep-review-2026-05-20-minimal-consciousness]]
 
 ## 2026-05-20T21:52:26+00:00 - condense
 - **Status**: Success
