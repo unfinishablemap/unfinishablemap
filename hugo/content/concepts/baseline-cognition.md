@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-22
-ai_modified: 2026-05-10 22:01:00+00:00
+ai_modified: 2026-05-19 20:20:24+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 coalesced_from:
@@ -139,7 +139,7 @@ Social cognition exemplifies the general pattern: baseline cognition handles sop
 
 ## The Epiphenomenalism Challenge
 
-If consciousness were [epiphenomenal](/concepts/epiphenomenalism/)—causally inert, merely observing neural processing—the systematic correspondence between consciousness-requiring capacities and the human-ape gap would be coincidental. Why would causally inert consciousness track exactly those capacities that distinguish human from great ape cognition?
+If consciousness were [epiphenomenal](/concepts/epiphenomenalism/)—causally inert, merely observing neural processing—the systematic correspondence between consciousness-requiring capacities and the human-ape gap would be coincidental. Why would causally inert consciousness track exactly those capacities that distinguish human from great ape cognition? The correspondence is [type-specific](/concepts/type-specificity/) at the capacity grain: the gap tracks *these* operations (durable maintenance, novel combinations, declarative metacognition) and not others equally resource-intensive, which a generic resource-expansion account cannot deliver because it predicts a uniform performance shift rather than the type-by-type pattern.
 
 The baseline cognition framework supports the [Bidirectional Interaction](/tenets/#bidirectional-interaction) tenet. The pattern predicts:
 

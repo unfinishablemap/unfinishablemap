@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-07
-ai_modified: 2026-05-19 19:00:00+00:00
+ai_modified: 2026-05-19 22:00:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -131,7 +131,7 @@ Vedanta privileges plenitude. *Sat-chit-ananda* (being-consciousness-bliss) desc
 
 Christian tradition describes the beatific vision as infinitely rich experience—the fullness of encountering God.
 
-This divergence resists merely interpretive dismissal. Either advanced practice genuinely branches by tradition, or verbal reports misrepresent a deeper convergence that escapes description. §"For Phenomenological Realism" below treats this as a constraint on the convergence argument's evidential reach.
+This divergence resists merely interpretive dismissal. Either advanced practice genuinely branches by tradition, or verbal reports misrepresent a deeper convergence that escapes description. Either horn constrains the convergence argument's evidential reach — the realism the convergence supports is bounded by what the traditions agree on, not extended by what they disagree on. §"For Phenomenological Realism" below develops this constraint in detail.
 
 ## What Convergence Reveals
 

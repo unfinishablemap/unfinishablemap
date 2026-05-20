@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-04-15
-ai_modified: 2026-05-08 20:35:00+00:00
+ai_modified: 2026-05-19 00:00:00+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -152,7 +152,7 @@ Temporal selection—choosing *when* to act—operates within bounded intervals 
 
 ### "Not Yet": Anticipatory Openness
 
-Before the window opens, a felt quality of anticipation differs from mere waiting. A tennis player watching an approaching serve experiences the ball's trajectory as an evolving field of action possibilities—what phenomenologists call *protention* in its specifically agentive mode. The Map's treatment of [anticipation as a phenomenal structure](/topics/phenomenology-of-anticipation/) develops this further: openness not just to the about-to-arrive but *to act* at the about-to-arrive.
+Before the window opens, a felt quality of anticipation differs from mere waiting. A tennis player watching an approaching serve experiences the ball's trajectory as an evolving field of action possibilities—what phenomenologists call *protention* in its specifically agentive mode. The Map's treatment of the [phenomenology of anticipation](/topics/phenomenology-of-anticipation/#agentive-protention-and-the-kairos-moment) distinguishes ordinary protention (openness *to* the about-to-arrive) from **agentive protention** (openness *to act* at the about-to-arrive)—the receptive and active faces of the same forward-directed structure.
 
 A prepared musician hears the musical phrase differently from a passive listener precisely because the impending moment of action transforms how the approach is experienced.
 

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-14
-ai_modified: 2026-05-14 23:55:00+00:00
+ai_modified: 2026-05-19 12:00:00+00:00
 ai_system: claude-opus-4-6
 apex_last_synthesis: 2026-05-14 23:55:00+00:00
 apex_sources:
@@ -23,13 +23,13 @@ concepts:
 - '[[attentional-economics]]'
 - '[[attention-schema-theory]]'
 created: 2026-02-14
-date: &id001 2026-05-14
+date: &id001 2026-05-19
 description: How does consciousness act on matter? Through attention—a bandwidth-limited
   selection interface where mind biases quantum indeterminacy in neural systems.
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-03-30 00:52:00+00:00
+last_deep_review: 2026-05-19 12:00:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -48,7 +48,7 @@ topics:
 
 If consciousness is real and causally efficacious, it needs a way to reach the physical world. The Unfinishable Map proposes that [attention is that way](/concepts/attention-as-interface/)—not identical to consciousness, but the interface through which consciousness selects among the possibilities the brain generates. This claim has specific structure: attention divides into modes with distinct neural signatures, the effort of sustaining it reveals genuine causal work, its disorders expose the interface's components, and its limits create cognitive voids that no amount of attentional skill can eliminate. The attention cluster is the Map's most detailed account of how mind acts on matter.
 
-The argument proceeds through three layers. First, the empirical case: attention and consciousness dissociate in ways that constrain what consciousness can be. Second, the mechanistic proposal: attention operates as a unified selection interface—shared by perception and action—where conscious behavioral throughput is limited to roughly 10 bits per second (Zheng & Meister 2024)—a figure measuring what conscious agents *do*, not the internal bandwidth of phenomenal attention itself. Third, the implications: if agency flows through attention, then freedom scales with attentional skill, and the limits of attention define the limits of conscious influence.
+The argument proceeds through three layers. First, the empirical case: attention and consciousness dissociate in ways that constrain what consciousness can be. Second, the mechanistic proposal: attention operates as a unified selection interface—shared by perception and action—where conscious behavioral throughput is limited to roughly 10 bits per second (Zheng & Meister 2024; Sauerbrei & Pruszynski 2025)—a figure measuring what conscious agents *do*, not the internal bandwidth of phenomenal attention itself, which Sauerbrei and Pruszynski document running orders of magnitude faster in unconscious processing. Third, the implications: if agency flows through attention, then freedom scales with attentional skill, and the limits of attention define the limits of conscious influence.
 
 ## Attention Is Not Consciousness
 
@@ -180,6 +180,7 @@ A second candid limitation concerns falsifiability. Most of the conditions that 
 1. Naccache, L., Dehaene, S., Cohen, L., Habert, M.-O., Guichart-Gomez, E., Galanaud, D., & Willer, J.-C. (2005). Effortless control: Executive attention and conscious feeling of mental effort are dissociable. *Neuropsychologia*, 43(9), 1318-1328.
 1. Nartker, M. et al. (2025). Sensitivity to visual features in inattentional blindness. *eLife*, 14, e97156.
 1. Rizzolatti, G., Riggio, L., & Sheliga, B.M. (1994). Space and selective attention. In C. Umiltà & M. Moscovitch (Eds.), *Attention and Performance XV* (pp. 231-265). MIT Press.
+1. Sauerbrei, B.A. & Pruszynski, J.A. (2025). The brain works at more than 10 bits per second. *Nature Neuroscience*.
 1. Schwartz, J.M. & Begley, S. (2002). *The Mind and the Brain: Neuroplasticity and the Power of Mental Force*. ReganBooks.
 1. Sjöberg, R.L. (2024). The readiness potential and the soul. *Brain*, 147(7), 2267-2274.
 1. Stapp, H.P. (2007). *Mindful Universe: Quantum Mechanics and the Participating Observer*. Springer.

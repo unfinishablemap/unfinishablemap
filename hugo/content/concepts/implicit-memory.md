@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-17
-ai_modified: 2026-05-08 20:35:00+00:00
+ai_modified: 2026-05-19 22:56:28+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -27,7 +27,7 @@ description: Knowledge expressed in action without conscious recollection. Choki
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-04-01 22:38:00+00:00
+last_deep_review: 2026-05-19 22:56:28+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
