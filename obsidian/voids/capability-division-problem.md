@@ -4,7 +4,7 @@ description: "Interactionist dualism must specify which capabilities belong to t
 created: 2026-03-09
 modified: 2026-03-15
 human_modified:
-ai_modified: 2026-03-29T23:10:00+00:00
+ai_modified: 2026-05-20T18:42:50+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -30,7 +30,7 @@ author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-03-09
 last_curated:
-last_deep_review: 2026-03-23T23:44:00+00:00
+last_deep_review: 2026-05-20T18:42:50+00:00
 ---
 
 If dualism is true — if the mind is genuinely distinct from the brain — then a question follows that dualists rarely answer precisely: which capabilities belong to which domain? The brain extracts visual features, detects motion, guides reaching movements. The mind contributes phenomenal experience, perceptual ownership, flexible reasoning about what is seen. But where exactly does brain-side processing end and mind-side contribution begin? The Unfinishable Map calls this the **capability division problem**, and it may represent not merely an unsolved question but a genuine [[voids|void]] — a boundary that resists precise specification.
