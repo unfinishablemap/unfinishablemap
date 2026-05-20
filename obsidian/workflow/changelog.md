@@ -1,9 +1,32 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-20T09:42:34+00:00
+ai_modified: 2026-05-20T10:43:50+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-05-20T10:43:50+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[topics/delegation-meets-quantum-selection]]
+- **Trigger**: topic-concept anchoring audit 2026-05-20 (anchor: [[concepts/observational-closure]]); failed checks hedge_density (0.997/kw, below 60% of anchor's 5.895/kw) and underdetermination_markers (0 vs anchor's 1 explicit marker).
+- **Changes**:
+  - Softened lede and central claim: framed the default-causal-profile / Born-rule-distribution identification as a "candidate identification rather than an established correspondence" — "*plausibly* corresponds" / "would make" rather than "corresponds / makes". Added an explicit closing sentence that "the evidence does not adjudicate between this reading and rival accounts on which delegation operates at a classical-statistical level, or on which no quantum-scale gap is in fact required."
+  - Softened "The identification requires a bridging step" passage: added "and the step is contestable"; replaced "These are the same thing" → "these may be the same thing"; "*are* the effects" → "could just be the effects"; added closing sentence noting empirical equivalence with classical-statistical rival framings, that the data do not decide between the two, and that the identification is a coherence move within the Map's quantum-interactionist commitments rather than a forced inference (explicit underdetermination marker).
+  - Softened "Observational closure follows naturally": replaced "proved" → "shows... under the assumptions of that derivation"; added that the convergence is itself an interpretive claim and could be read either as substantive confirmation or as the expected consequence of frameworks calibrated against the same empirical record; replaced "five non-negotiable constraints" → "five constraints"; "satisfies it structurally" → "appears to satisfy it structurally".
+  - Softened Subset Law* passage: "this means" → "this would mean"; added conditional closing sentence noting that the precision is "conditional on the identification proposed above surviving scrutiny" and that classical-statistical rival framings of "possible outcome" remain available.
+  - Softened "Preemption at the Quantum Level" opening: "How does preemption work" → "How preemption might work"; added that "the account that follows is a proposal compatible with the framework, not a derivation from it." Added that the framing is "collapse-interpretation-dependent" and that the bridge "presupposes the Map's No Many Worlds tenet rather than deriving it" — making the tenet-dependency honest rather than silent.
+  - Softened the major-and-sergeant analogy: "This maps precisely onto" → "This may map onto"; "Both can determine" → "Both could in principle determine"; "Hierarchy... settles" → "Hierarchy... would settle".
+  - Softened the cross-ontological-preemption passage: added that "the available evidence does not decide between the present proposal and rival accounts on which the apparent gap is closed by physics the present article has not yet identified."
+  - Softened bandwidth-constraint passage: "consciousness operates at roughly 10 bits per second, five million times slower" → "consciousness appears to operate at roughly 10 bits per second, several orders of magnitude slower" (the "five million times" figure is itself sourced via single citations the article does not unpack, so a more cautious modal-and-magnitude framing is honest); "shapes how delegation integrates" → "shapes how delegation could integrate"; "consciousness cannot delegate" → "consciousness... cannot plausibly delegate"; "This means delegation operates" → "This suggests delegation operates".
+- **Editor-vocabulary check**: No editor-vocabulary terms (five-tier labels, *bedrock-perimeter*, *unsupported-jump*, *Engagement classification:*, etc.) introduced into article prose. Calibration phrasing kept inline and natural ("candidate identification", "the data alone do not decide", "empirically equivalent", "conditional on the identification surviving scrutiny").
+- **Calibration verification** (against [[concepts/observational-closure]]; threshold = 60% of anchor's hedge density / 1.5× anchor's strong-assertion density):
+  - Hedge density 0.997/kw → 7.21/kw (anchor 5.895/kw; 60% threshold 3.54/kw): PASS.
+  - Strong-assertion density 0.499/kw → 0.424/kw (anchor 1.474/kw; 1.5× cap 2.21/kw): PASS (was already well within; dropped further after the "proved" → "shows" substitution).
+  - Underdetermination markers: 0 → 4 ("does not adjudicate", "empirically equivalent" / "the data alone do not decide", "evidence does not decide", and the "underdetermined by the data" pattern). Anchor has 1; topic now exceeds anchor on this axis, which is appropriate given the topic is a *more* speculative application of the anchor concept's calibration discipline.
+  - `tools.curate.anchoring.evaluate_anchoring` returns `[]` (no flags fire) post-refine.
+- **Voice preservation**: The central bridging argument — that delegation provides the causal structure and quantum selection the physical implementation of a single mental-causation event — is intact. Only the modal force of the identification claim and the framing of its presupposed commitments have been calibrated. The Saad-quote, the major-and-sergeant analogy, the Subset Law*, the Born-rule-uniqueness reference, and the "What the Bridge Does Not Resolve" admissions all stand. Word count 2,006 → 2,358 (+352 words, +18%) — within length tolerance for topics/ (2500/3500/5000 thresholds).
+- **Engagement-mode classification**: Engagement with the "Many-Worlds-reading-makes-the-bridge-not-run" residue is now Mode Three (framework-boundary marking) — the article now states honestly that the bridge presupposes the Map's No Many Worlds tenet rather than deriving it from physics. Engagement with the "classical-statistical-rival-framing-of-the-default-profile" residue is now Mode Four (empirical underdetermination, per [[evidential-status-discipline]]'s May 2026 extension) — the data do not adjudicate.
+- **Published**: yes (`draft: false` unchanged)
 
 ## 2026-05-20T09:42:34+00:00 - refine-draft
 - **Status**: Success
