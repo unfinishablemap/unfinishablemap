@@ -4,12 +4,11 @@ description: "What makes life meaningful? The Map suggests meaning is grounded i
 created: 2026-01-08
 modified: 2026-01-21
 human_modified: null
-ai_modified: 2026-04-16T01:52:00+00:00
+ai_modified: 2026-05-20T00:00:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
 concepts:
-  - "[[nihilism-and-existentialism]]"
   - "[[nihilism-and-existentialism]]"
   - "[[purpose-and-alignment]]"
   - "[[topics/free-will]]"
@@ -34,7 +33,7 @@ author: null
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-01-08
 last_curated: null
-last_deep_review: 2026-04-02T13:38:00+00:00
+last_deep_review: 2026-05-20T00:00:00+00:00
 ---
 
 What makes a life meaningful? The question has occupied philosophers since antiquity, generating answers that range from divine purpose to self-created projects to the stark claim that meaning is impossible. The Unfinishable Map's framework—built on the conviction that consciousness is fundamental and causally efficacious—suggests a distinctive answer: meaning is grounded neither in God nor in subjective preference alone, but in the intrinsic significance of conscious experience itself.
@@ -254,8 +253,7 @@ The position takes seriously what we actually know: consciousness exists, it's r
 ## Further Reading
 
 ### Core Concepts
-- [[nihilism-and-existentialism]] — The case for meaninglessness and responses to it
-- [[nihilism-and-existentialism]] — Sartre's pour-soi and the phenomenology of freedom support consciousness-grounded meaning
+- [[nihilism-and-existentialism]] — The case for meaninglessness, responses to it, and Sartre's pour-soi as support for consciousness-grounded meaning
 - [[topics/phenomenal-value-realism]] — The metaethical grounding for consciousness-based value
 - [[purpose-and-alignment]] — How AI alignment depends on unresolved questions about meaning
 
