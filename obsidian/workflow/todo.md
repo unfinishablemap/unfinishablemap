@@ -37,17 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Adopt valence calibration in evaluative-qualia-phenomenal-normativity-across-traditions
-- **Type**: refine-draft
-- **Status**: pending
-- **File**: obsidian/topics/evaluative-qualia-phenomenal-normativity-across-traditions.md
-- **Notes**: From topic-concept anchoring audit 2026-05-20. The topic article over-claims relative to its anchor concept [[valence]]; failed checks: hedge_density, strong_assertions.
-  - hedge density 0.90/kw is below 60% of anchor (7.16/kw)
-  - strong-assertion density 1.35/kw exceeds 1.5× anchor (0.72/kw)
-  - Action: bring the topic's hedge profile in line with the anchor concept's. Preserve the article's voice; this is not a request to weaken the central claim, only to inherit the calibration discipline the anchor concept already uses. See [[project/calibration-audit-triple]] Audit Three for the spec and [[evidential-status-discipline]] for the underlying rule.
-- **Source**: topic-concept-anchoring-audit
-- **Generated**: 2026-05-20
-
 ### P2: Adopt observational-closure calibration in delegation-meets-quantum-selection
 - **Type**: refine-draft
 - **Status**: pending
@@ -58,7 +47,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
   - Action: bring the topic's hedge profile in line with the anchor concept's. Preserve the article's voice; this is not a request to weaken the central claim, only to inherit the calibration discipline the anchor concept already uses. See [[project/calibration-audit-triple]] Audit Three for the spec and [[evidential-status-discipline]] for the underlying rule.
 - **Source**: topic-concept-anchoring-audit
 - **Generated**: 2026-05-20
-
 
 ### P2: Deep review concepts/zombie-master-argument.md (50 days since last review, ai_contribution=100, central dualism argument)
 - **Type**: deep-review
@@ -3866,6 +3854,10 @@ Tasks that failed 3+ times and require human intervention.
 
 Ideas that were considered and rejected. The AI will not re-propose these.
 
+
+### ✓ 2026-05-20: Adopt valence calibration in evaluative-qualia-phenomenal-normativity-across-traditions
+- **Type**: refine-draft
+- **Notes**: From topic-concept anchoring audit 2026-05-20. The topic article over-claims relative to its anchor concept [[valence]]; failed checks: hedge_density, strong_assertions.
 
 ### ✓ 2026-05-20: Deep review voids/death-void.md (50 days since last review, ai_contribution=100, voids cluster at 102/100)
 - **Type**: deep-review

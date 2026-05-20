@@ -1,9 +1,33 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-20T08:11:25+00:00
+ai_modified: 2026-05-20T09:42:34+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-05-20T09:42:34+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[topics/evaluative-qualia-phenomenal-normativity-across-traditions]]
+- **Trigger**: topic-concept anchoring audit 2026-05-20 (anchor: [[concepts/valence]]); failed checks hedge_density (0.90/kw, below 60% of anchor's 7.16/kw) and strong_assertions (1.35/kw, exceeded 1.5× anchor's 0.72/kw).
+- **Changes**:
+  - Softened lede and "Convergence Claim" framing: "converge" → "appear to converge"; "reflects" → "reads as reflecting"; added that the convergence is compatible with rather than forces the irreducibility reading.
+  - Softened Buddhist *vedanā* section: "There is no experience without evaluative tone" → "On this account there is no experience without evaluative tone"; added qualifier that the introspective method does not by itself rule out residual cognition doing the evaluative work.
+  - Softened Confucian section: "the structural parallel to dualism is striking" → "suggestive"; added that this is "a structural homology, not an identity of doctrine".
+  - Softened Indian rasa section: added a conditional closing sentence noting that the inference rides on Abhinavagupta's Kashmir Shaivite reading being apt, which is itself contested within the tradition.
+  - Replaced Avicenna "establishes" with "is widely taken to support" and added that the argument is contested and the Map cites it as a serious classical line of support rather than a settled demonstration.
+  - Softened Sadra exposition with "is said to" / "on this account" / "may not arise"; added "though the metaphysical packaging differs sharply" after the parallel claim.
+  - Softened Relation to Site Perspective: "Dualism" subsection conditionalised consequents on the irreducibility hypothesis; "Bidirectional Interaction" inserted "On the Map's reading" and replaced flat motivation claims with "appears to" / "seems to" formulations; "Minimal Quantum Interaction" added that "neither reading is forced by the present evidence" (an explicit underdetermination marker).
+  - Closed the "Why Convergence Matters" section with a calibrated statement that the convergence is compatible with the irreducibility reading without forcing it, and that the case is best held as a serious but contested possibility rather than as settled. Used natural prose ("serious but contested possibility") rather than the editor-vocabulary tier label.
+  - Softened "further confirms" → "lends further weight in the same direction" in the Dualism subsection.
+- **Editor-vocabulary check**: No editor-vocabulary terms (five-tier labels, *bedrock-perimeter*, *unsupported-jump*, *Engagement classification:*, etc.) introduced into article prose. The one transient introduction of "*realistic possibility, contested*" was caught and rewritten in natural language before commit.
+- **Calibration verification** (against [[concepts/valence]]; threshold = 60% of anchor's hedge density / 1.5× anchor's strong-assertion density):
+  - Hedge density 0.90/kw → 10.43/kw (anchor 7.16/kw; 60% threshold 4.30/kw): PASS.
+  - Strong-assertion density 1.35/kw → 0.40/kw (anchor 0.72/kw; 1.5× cap 1.07/kw): PASS.
+  - Underdetermination markers: 0 → 2 ("compatible with rather than" and "neither reading is forced"): both anchor concepts also at 0, so this is a strengthening, not a parity match.
+  - Cross-check against [[concepts/qualia]] (the topic's other anchor concept): also PASS on both checks.
+  - Cross-check against [[concepts/evaluative-phenomenal-character]] (the topic's third anchor): also PASS on both checks.
+- **Voice preservation**: The central convergence-as-evidence-for-dualism argument is unchanged; only the modal force of claims and the framing of contested premises has been adjusted. Word count 2,227 → 2,493 (+266 words, +12%) — within length tolerance for topics/ (2500/3500/5000 thresholds).
+- **Published**: yes (`draft: false` unchanged)
 
 ## 2026-05-20T08:11:25+00:00 - check-tenets
 - **Status**: Success
