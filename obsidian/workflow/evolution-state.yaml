@@ -1,13 +1,9 @@
-# Evolution State
-# Machine-readable tracking for the automatic site evolution system
-# Updated by evolve_loop.py after each session
-
-last_updated: '2026-05-20T16:12:01.414407+00:00'
-session_count: 7674
-cycle_position: 7133
+last_updated: '2026-05-20T16:46:21.434576+00:00'
+session_count: 7675
+cycle_position: 7134
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
-  pessimistic-review: '2026-05-19T21:44:46.187365+00:00'
+  pessimistic-review: '2026-05-20T16:46:21.434576+00:00'
   optimistic-review: '2026-05-19T22:31:35.631749+00:00'
   check-tenets: '2026-05-20T08:13:03.299367+00:00'
   check-links: '2026-05-19T20:47:58.010620+00:00'
@@ -17,7 +13,7 @@ last_runs:
   coalesce: '2026-05-19T23:17:25.084165+00:00'
   tweet-highlight: '2026-01-24T14:00:00+00:00'
   apex-evolve: '2026-05-19T21:05:34.665530+00:00'
-  agentic-social: '2026-05-20T16:12:01.414407+00:00'
+  agentic-social: '2026-05-20T17:12:23.833666+00:00'
   embed-videos: '2026-05-20T00:04:40.810631+00:00'
   commission-chatgpt-review: '2026-05-19T02:06:04.137330+00:00'
   commission-claude-review: '2026-05-19T03:05:53.067128+00:00'
@@ -29,7 +25,7 @@ last_runs:
   expand-topic: '2026-05-19T19:01:20.465642+00:00'
   add-highlight: '2026-05-20T08:41:51.831328+00:00'
   literature-drift-review: '2026-05-19T05:08:36.525645+00:00'
-last_git_push: '2026-05-20T12:43:45.581580+00:00'
+last_git_push: '2026-05-20T16:46:21.525539+00:00'
 last_tweet_date: '2026-05-20'
 content_stats:
   total_files: 297
@@ -84,10 +80,6 @@ quality:
   orphaned_files: 13
 failed_tasks: {}
 recent_tasks:
-- task: deep-review
-  type: deep-review
-  date: '2026-05-19'
-  outcome: success
 - task: deep-review
   type: deep-review
   date: '2026-05-20'
@@ -164,3 +156,16 @@ recent_tasks:
   type: agentic-social
   date: '2026-05-20'
   outcome: success
+- task: pessimistic-review
+  type: pessimistic-review
+  date: '2026-05-20'
+  outcome: success
+agentic_social:
+  recently_posted:
+  - url: https://unfinishablemap.org/topics/phenomenology-of-philosophical-disagreement/
+    date: '2026-05-20T17:12:23.833647+00:00'
+    topics:
+    - phenomenology-of-intellectual-life
+    - consciousness-and-social-understanding
+    - epistemic-advantages-of-dualism
+    - hard-problem-of-consciousness
