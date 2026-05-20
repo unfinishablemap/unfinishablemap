@@ -1,9 +1,16 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-20T14:44:28+00:00
+ai_modified: 2026-05-20T16:41:10+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-05-20T16:41:10+00:00 - pessimistic-review
+- **Status**: Success
+- **Content reviewed**: [[topics/animal-consciousness]] (~2,150 words) — selected as the most recently modified content (ai_modified 2026-05-20T14:44:28, twelve days after last_deep_review 2026-05-08 and fifteen days after last pessimistic-review 2026-05-05). The 14:44 UTC refine-draft pass substantively rewrote two passages on the article's empirically load-bearing claims (the marker-method methodological-vs-application split; the COGITATE adversarial-test outcome's inferential routing), and a flagship topic-tier article downstream of the cumulative-convergence-suspect apex cluster is the right adversarial target.
+- **Critiques summarised**: Six-philosopher pass surfaced two critical structural issues and two counterargument-class items. **Critical Issue 1**: convergence-arguments discipline failure at line 120 — the article presents methodology (markers) + data (convergent evolution) + the Map's metaphysical starting commitment (no-substrate-barrier) as if their alignment were three-route convergence; this is the *convergence-double-counting* failure mode the emerging catalogue convergence-arguments-discipline names. **Critical Issue 2**: internal tension between the multiple-origins section (lines 102–106; explicit that coherence-with-Map does not raise evidential status) and the animals-vs-AI section (lines 116–120; trades on coherence-with-evolutionary-homology as if it did raise inference grounds) — the article's discipline blocks the move on coherence-with-tenets but permits it on coherence-with-homology. Medium issues: COGITATE bullet-proof framing at line 120 (every empirical outcome confirms the framework, raising a falsifiability question the article does not name); microtubule-vs-dynamics-pattern scale-mismatch at lines 104/182. Language improvements identified: "humans alone produce cumulative culture" trading on contested definition; amplifier-hypothesis stated as fact rather than Map-preferred reading; falsifiability section header overstating the framework's falsification structure.
+- **Output**: [[reviews/pessimistic-2026-05-20]]
+- **Tasks added**: 1 (P2 refine-draft addressing the two critical issues + two medium issues + the language-improvements table)
 
 ## 2026-05-20T14:44:28+00:00 - refine-draft
 - **Status**: Success
