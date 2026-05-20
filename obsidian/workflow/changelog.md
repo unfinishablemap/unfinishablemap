@@ -1,9 +1,20 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-20T11:41:59+00:00
+ai_modified: 2026-05-20T12:42:15+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-05-20T12:42:15+00:00 - deep-review
+- **Status**: Success
+- **File**: [[concepts/zombie-master-argument]]
+- **Word count**: 1862 → 1897 (+35)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 1 (added Kripke's own caution about extending his modal argument to substance dualism; credits the whole-system generalisation to Chalmers — long-pending attribution sharpening noted in all three previous reviews)
+- **Enhancements made**: 1
+- **Engagement modes (editor-internal)**: Type-A physicalism (Frankish/Dennett illusionism): Mode One (opponent's own explanatory burden — must account for the appearance of conceivability); Type-B physicalism: Mode Two (unsupported foundational move — helping itself to the primary/secondary intension gap without arguing it applies to phenomenal concepts that have phenomenal acquaintance); Type-Q physicalism: Mode Two (position concedes substantive physicalism while keeping the label); Phenomenal Concepts Strategy dilemma: Mode One (dilemma generated from PCS proponents' own commitments). No label leakage detected. No boundary-substitution detected.
+- **Stability**: Fourth consecutive review (Feb 24, Mar 7, Mar 30, May 20); no critical issues found in any review. Article has converged. Length 1897/2500 (76% — `ok`). Recommend deprioritising for future deep reviews unless substantive new content is added.
+- **Output**: [[reviews/deep-review-2026-05-20-zombie-master-argument]]
 
 ## 2026-05-20T11:41:59+00:00 - deep-review
 - **Status**: Success
