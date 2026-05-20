@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-14
-ai_modified: 2026-05-19 18:30:00+00:00
+ai_modified: 2026-05-20 14:44:28+00:00
 ai_system: claude-opus-4-7
 author: null
 concepts:
@@ -39,7 +39,7 @@ embedded_videos:
   source: notebooklm/0044-01-animal-consciousness
   url: https://www.youtube-nocookie.com/embed/DnI0-3Z9EQE
 human_modified: null
-last_curated: 2026-05-19 18:30:00+00:00
+last_curated: 2026-05-20 14:44:28+00:00
 last_deep_review: 2026-05-08 07:49:00+00:00
 modified: *id001
 related_articles:
@@ -53,6 +53,7 @@ related_articles:
 - '[[consciousness-evolution-and-biology]]'
 - '[[cetacean-and-corvid-consciousness]]'
 - '[[direct-refutation-discipline]]'
+- '[[evidential-status-discipline]]'
 - '[[topics/the-interface-problem]]'
 - '[[interface-efficacy-and-the-cognitive-gap]]'
 title: Animal Consciousness
@@ -79,6 +80,8 @@ Two declarations mark growing agreement, though neither is settled consensus. Th
 Andrews, Birch & Sebo (2025, *Science*) supply the operational counterpart to the New York Declaration's "realistic possibility" language. The marker method identifies a dimension of consciousness (pain, perception, valence), then looks for behavioural and anatomical features that correlate with that dimension in humans, and asks whether analogues are present in the target species. Each marker is graded by context-dependent confidence; no single marker is individually conclusive, and convergence across markers and dimensions is what raises evidential confidence rather than any one finding. Bayne, Carter & Seth (2024) supply a parallel taxonomy distinguishing *theory-light* from *theory-heavy* tests at the methodology layer.
 
 The instructive negative case is the LLM. Linguistic behaviour is a strong marker in humans because it correlates with the broader cluster of consciousness-relevant capacities; in LLMs it is decoupled from that cluster, and the marker therefore fails to extend. The same logic disciplines extrapolation across the animal kingdom: a marker reliable in mammals may fail in cephalopods if the underlying correlation does not hold, which is why the [standing agnostic challenge](#the-standing-agnostic-challenge) remains in force even where multiple markers are present. The method is tenet-coherent—markers identify *correlates*, consistent with Dualism's commitment that no third-person feature *constitutes* consciousness, and its context-dependent grading instantiates [Occam's Razor Has Limits](/tenets/#occams-razor) by refusing the simpler "marker present, therefore conscious" inference.
+
+The marker method itself is well-established as a methodological framework—the Andrews/Birch/Sebo *Science* publication anchors that status. Its application to any specific species remains contested in the way the method's own context-dependent grading anticipates: a methodologically strong framework does not, on its own, settle a single species-level verdict. The catalogue follows [the evidential-status discipline](/project/evidential-status-discipline/) in keeping the two layers distinct.
 
 ## Minimal Neural Requirements
 
@@ -116,7 +119,7 @@ Wandrey & Halina (2025, *Philosophy Compass*) map the same circularity onto the 
 
 The [problem-of-other-minds](/concepts/problem-of-other-minds/) applies to both, but the inferential grounds differ. We share evolutionary history, limbic systems, sensory cortices, and pain pathways with animals; when a mammal exhibits pain behaviour, "this creature has subjective experience" explains it within evolutionary pressures and neural homologies. With AI, the analogy is purely behavioural—similar outputs through entirely different mechanisms—and alternative explanations (pattern-matching, statistical correlation) cover the outputs without positing phenomenal consciousness. The result: stronger reasons to attribute consciousness to animals than to current AI, though proof remains impossible in both. The [ethics of possible AI consciousness](/topics/ethics-of-possible-ai-consciousness/) develops the moral implications of this asymmetry.
 
-The 2025 COGITATE Consortium adversarial collaboration changes which routes to this conclusion remain available. Pre-registered head-to-head testing of Integrated Information Theory and Global Neuronal Workspace Theory (n=256 participants, fMRI/MEG/iEEG) challenged core assumptions of both theories—neither was robustly confirmed even on human subjects. Any animal-consciousness inference routed through "this species has a global workspace, therefore conscious" or "this species exhibits high Φ, therefore conscious" inherits that weakened empirical support. The Map's preferred framing does not run through either theory: it routes through markers (Andrews/Birch/Sebo 2025), convergent evolution (Godfrey-Smith 2024), and the dualist no-substrate-barrier commitment. That the two leading reductive theories did not converge even on humans is the pattern [Occam's Razor Has Limits](/tenets/#occams-razor) predicts when the underlying phenomenon exceeds available frameworks, and the inconclusive outcome is also what Dualism predicts of any third-person test asked to settle a first-person question.
+The 2025 COGITATE Consortium adversarial collaboration changes which routes to this conclusion remain available. Pre-registered head-to-head testing of Integrated Information Theory and Global Neuronal Workspace Theory (n=256 participants, fMRI/MEG/iEEG) challenged core assumptions of both theories—neither was robustly confirmed even on human subjects. The adversarial-test outcome is a settled empirical finding; what follows for animal-consciousness inference is a separate, weaker claim. Any animal-consciousness inference routed through "this species has a global workspace, therefore conscious" or "this species exhibits high Φ, therefore conscious" inherits that weakened empirical support—but how strongly the weakening generalises beyond the human paradigm tested remains a live hypothesis rather than something the COGITATE result itself settles. The Map's preferred framing does not run through either theory: it routes through markers (Andrews/Birch/Sebo 2025), convergent evolution (Godfrey-Smith 2024), and the dualist no-substrate-barrier commitment. That the two leading reductive theories did not converge even on humans is the pattern [Occam's Razor Has Limits](/tenets/#occams-razor) predicts when the underlying phenomenon exceeds available frameworks, and the inconclusive outcome is also what Dualism predicts of any third-person test asked to settle a first-person question.
 
 ## Higher-Order Theories and Animal Minds
 

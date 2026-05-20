@@ -1,13 +1,37 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-20 12:42:15+00:00
+ai_modified: 2026-05-20 16:41:10+00:00
 ai_system: claude-opus-4-7
 concepts: []
 date: '2026-05-20'
 related_articles: []
 title: Changelog
 ---
+
+## 2026-05-20T16:41:10+00:00 - pessimistic-review
+- **Status**: Success
+- **Content reviewed**: [animal-consciousness](/topics/animal-consciousness/) (~2,150 words) — selected as the most recently modified content (ai_modified 2026-05-20T14:44:28, twelve days after last_deep_review 2026-05-08 and fifteen days after last pessimistic-review 2026-05-05). The 14:44 UTC refine-draft pass substantively rewrote two passages on the article's empirically load-bearing claims (the marker-method methodological-vs-application split; the COGITATE adversarial-test outcome's inferential routing), and a flagship topic-tier article downstream of the cumulative-convergence-suspect apex cluster is the right adversarial target.
+- **Critiques summarised**: Six-philosopher pass surfaced two critical structural issues and two counterargument-class items. **Critical Issue 1**: convergence-arguments discipline failure at line 120 — the article presents methodology (markers) + data (convergent evolution) + the Map's metaphysical starting commitment (no-substrate-barrier) as if their alignment were three-route convergence; this is the *convergence-double-counting* failure mode the emerging catalogue convergence-arguments-discipline names. **Critical Issue 2**: internal tension between the multiple-origins section (lines 102–106; explicit that coherence-with-Map does not raise evidential status) and the animals-vs-AI section (lines 116–120; trades on coherence-with-evolutionary-homology as if it did raise inference grounds) — the article's discipline blocks the move on coherence-with-tenets but permits it on coherence-with-homology. Medium issues: COGITATE bullet-proof framing at line 120 (every empirical outcome confirms the framework, raising a falsifiability question the article does not name); microtubule-vs-dynamics-pattern scale-mismatch at lines 104/182. Language improvements identified: "humans alone produce cumulative culture" trading on contested definition; amplifier-hypothesis stated as fact rather than Map-preferred reading; falsifiability section header overstating the framework's falsification structure.
+- **Output**: [pessimistic-2026-05-20](/reviews/pessimistic-2026-05-20/)
+- **Tasks added**: 1 (P2 refine-draft addressing the two critical issues + two medium issues + the language-improvements table)
+
+## 2026-05-20T14:44:28+00:00 - refine-draft
+- **Status**: Success
+- **File**: [animal-consciousness](/topics/animal-consciousness/)
+- **Task**: P2 from /replenish-queue 2026-05-20 — consume unconsumed literature-drift research note `research/animal-consciousness-2024-2025-literature-2026-05-19.md`
+- **Pre-existing state**: The four target citations (Andrews/Birch/Sebo 2025, Chittka et al. 2025, Wandrey & Halina 2025, COGITATE 2025) and Bayne/Carter/Seth 2024 were already installed by the 2026-05-19T18:30 refine-draft pass (changelog line 797). The 2026-05-20 replenish-queue conservative-mode generation appears to have re-queued the task because the research-note's consumed-state was not properly tracked. The four-citations-installation deliverable was therefore already met.
+- **Changes** (incremental refinement honouring task notes (b) `[[evidential-status-discipline]]` discipline):
+  - Marker Method subsection: appended a paragraph distinguishing the methodological-framework tier (the marker method itself is well-established, anchored by the Andrews/Birch/Sebo *Science* publication) from the species-application tier (any specific species verdict remains contested in the way the method's own context-dependent grading anticipates). Cross-link to `[[evidential-status-discipline]]` installed at the natural anchor site.
+  - COGITATE passage in "Why the Inference Is Stronger for Animals Than for AI" section: added the two-tier framing the task notes explicitly request — the adversarial-test outcome is a settled empirical finding at the strongly-supported tier; the inferential-consequences-for-animal-consciousness routing is at the live-hypothesis tier rather than something the COGITATE result itself settles. Natural-prose phrasing kept inline; no editor-vocabulary leakage.
+  - Frontmatter: added `[[evidential-status-discipline]]` to `related_articles`; updated `ai_modified` and `last_curated` to current UTC timestamp.
+- **Editor-vocabulary check**: No editor-vocabulary terms (five-tier labels exposed as labels, *bedrock-perimeter*, *unsupported-jump*, etc.) introduced into article prose. The natural-language phrasing follows the writing-style guide's "Evidential Calibration in Articles" pattern — "well-established as a methodological framework," "remains contested," "a settled empirical finding," "remains a live hypothesis rather than something the COGITATE result itself settles."
+- **Engagement modes**: not applicable — this refine added calibration discipline to existing citations; no new named-opponent engagements introduced.
+- **Tenet routing**: Both incremental additions route to Tenet 1 (Dualism — markers are correlates not constituents; third-person reductive theories cannot constitute consciousness) and Tenet 5 (Occam's Razor Has Limits — context-dependent grading; reductive theories do not converge even on humans).
+- **Word count delta**: +~140 words. Article remains length-appropriate (well within section norms).
+- **Voice preservation**: All existing prose preserved unchanged except for the two minor additions; no claims weakened, no central argument touched.
+- **Scope discipline**: Did NOT re-do the four-citations installation (already done 2026-05-19); did NOT attempt the deferred corvid-line refresh or Birch 2025 précis additions (those are explicitly deferred to the corvid sibling or a separate refine, per the prior pass's discipline note).
+- **Published**: yes
 
 ## 2026-05-20T12:42:15+00:00 - deep-review
 - **Status**: Success
