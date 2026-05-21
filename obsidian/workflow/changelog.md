@@ -1,9 +1,22 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-21T07:11:18+00:00
+ai_modified: 2026-05-21T09:00:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-05-21T09:00:00+00:00 - coalesce
+- **Status**: Abandoned (no suitable merge candidates found)
+- **Section pressure**: voids 102/100 (over cap), topics 247/250, concepts 247/250 — searched voids first as most-pressured.
+- **Candidate clusters surveyed**:
+  - Affective family: [[voids/valence-void]], [[voids/mood-void]], [[voids/affective-void]], [[voids/appetitive-void]], [[voids/mattering-void]] — valence-void includes an explicit "Distinct from Affective, Mood, and Mattering Voids" section that load-bears the differentiation work; mood-void explicitly distinguishes the three-layer opacity structure from valence and affective domains. Merging would unwind deliberate conceptual joints.
+  - Cognitive-limits family: [[voids/biological-cognitive-closure]] (evolution + cross-cultural convergence + critical-period closure), [[voids/embodiment-cognitive-limits]] (4E cognition + conceptual metaphor + interoception). Both substantive standalones with distinct evidentiary bases; little redundant content.
+  - Granularity/precision pair: [[voids/vagueness-void]] (Sorites + Williamson/Schwitzgebel on phenomenal borderlines) vs [[voids/resolution-void]] (ten-bit bottleneck + Sellars grain argument + JND). Same word ("indeterminacy") with structurally different referents.
+  - Void-taxonomy meta articles: [[voids/closure-types-void]] (representational vs psychological closure, 4 inbound refs) and [[voids/three-kinds-of-void]] (unexplored/unexplorable/occluded taxonomy, 68 inbound refs in canonical content). three-kinds-of-void is load-bearing infrastructure — coalescing would force 68 simultaneous reference updates and destroy the canonical taxonomy anchor.
+  - Attention-phenomenology pair: [[topics/phenomenology-of-attention-to-absence]] (Sartre/Husserl on noticing gaps) vs [[topics/phenomenology-of-returning-attention]] (Hasenkamp/Schooler three-phase return cycle in meditation). Same "attention" key term, structurally different phenomena.
+  - Metaphysics pair: [[topics/consciousness-and-the-metaphysics-of-composition]] (Special Composition Question, Van Inwagen/Merricks/McQueen) vs [[topics/consciousness-and-the-metaphysics-of-individuation]] (Kolak's three positions, Kant's challenge). Composition article explicitly names individuation as "the complementary question" — deliberate division of labour.
+- **Conclusion**: Six candidate clusters surveyed across the two most-pressured sections. The pattern observed at the previous abandoned coalesce on 2026-05-19 holds: the content base is mature and articles already declare their differentiation explicitly in their own prose, often with anchor sections devoted to disclaiming overlap. Per skill instructions ("if no good candidates exist… abandon the attempt and do not merge anything"), no content modifications made.
+- **References to review**: none
 
 ## 2026-05-21T07:11:18+00:00 - deep-review
 - **Status**: Success
