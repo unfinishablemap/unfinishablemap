@@ -1,9 +1,23 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-21T19:44:16+00:00
+ai_modified: 2026-05-21T20:43:54+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-05-21T20:43:54+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[topics/channel-audits-introspection-architecture-independence-scoring]]
+- **Scope**: Topic-concept anchoring audit remediation. The 2026-05-21 audit flagged the topic as under-hedged relative to its anchor concept [[witness-consciousness]] (hedge density 0.99/kw vs anchor 5.21/kw; 1 strong-assertion verb where anchor uses none). This refine inherits the anchor's calibration discipline without weakening the central claims — the calibration-grade-rather-than-load-bearing verdict, the cross-architecture-pivot, and the per-tradition scoring all land intact.
+- **Changes**:
+  - Lifted hedge density from 0.99/kw to 7.14/kw (target ≥ 3.13/kw, i.e. 60% of anchor's 5.21/kw). Net added ~19 hedge markers across opening, §"The Principled Obstacle", §"Despite-Commitments Versus Because-Prediction (Cross-Species)", §"The Cross-Architecture Pivot", §"Advaita Vedānta" (twice), §"Sufi Practice: Khawāṭir and Hidden Riyāʾ", §"Stoic Propatheia", and §"Combined Channel Verdict". Hedges follow the [[evidential-status-discipline]] pattern: substrate-to-architecture inference moves softened to "appears to", "may"; interpretive reconstructions (Sorabji on *propatheia*, Inwood/Long on "first movements") softened where the audit conditions on a contested reading; cross-tradition parallels softened to "perhaps" / "may" where the parallel is asserted but the verification is itself interpretive.
+  - Removed the one strong-assertion verb flagged by the audit. "Armstrong 1936 establishes early Neoplatonism as original Greek" → "Armstrong 1936 reads early Neoplatonism as original Greek" (§"Advaita Vedānta", paragraph on Neoplatonist-audit foreclosure). "Reads" preserves the attribution structure while withdrawing the audit's flagged verb; the citation remains the load-bearing one for the cross-tradition independence claim.
+  - Preserved voice: the article's argument structure, section ordering, scoring vocabulary (*calibration-grade rather than load-bearing*, *despite-commitments*, *because-prediction*, *open programme*, *low-moderate*), and per-tradition rankings (Advaita cleanest-isolated; Ghazālī's hidden *riyāʾ* as the cleanest single architectural-specifics finding; Vogel 2025 as the most cluster-relevant LLM artefact) all unchanged. Only modal verbs and hedge markers were touched; no substantive claims were retracted; the combined-channel verdict and the per-tradition discount structure are preserved.
+- **Verification**: `tools/curate/anchoring.py:evaluate_anchoring()` now returns `[]` against the full anchor-concept set ([[introspection]], [[metacognition]], [[witness-consciousness]], [[evidential-status-discipline]]); the previously-flagged witness-consciousness comparison is clean. Hedge density 7.14/kw exceeds the 60% threshold (3.13/kw) with margin; strong-assertion count is zero.
+- **Engagement-mode classification (editor-internal)**: Not applicable — this refine adds hedge markers and removes one strong-assertion verb; no named-opponent engagement was introduced or modified. The existing engagements with Carruthers (interpretive-sensory-access framework as alternative reading), Le Pelley (associative-learning critique), and the Albahari two-tier reduction risk remain unchanged.
+- **Writing-style discipline**: No `<!-- AI REFINEMENT LOG -->` block added (per the CLAUDE.md / refine-draft Section 8 prohibition). No "This is not X. It is Y." constructs. No editor-vocabulary leaked into prose. Hedge introductions follow the writing-style guide's "Evidential Calibration in Articles" pattern — softening at the inference step rather than at the load-bearing finding.
+- **Audit-calibration data**: this flag was *accepted* by the refine pass (not dismissed). The topic article was genuinely under-hedged relative to its anchor concept's discipline; the article makes cross-channel inference moves (substrate-to-architecture in cross-species; cross-tradition-pattern-to-shared-architecture in cross-tradition) that the anchor concept hedges centrally but the topic was asserting with too few hedge markers. Adds one accepted-flag datapoint to the topic-concept anchoring audit's pre-registered falsification trigger (target: 30-75% accept rate over 20 runs; see [[project/calibration-audit-triple]] §"Pre-Registered Falsification Triggers").
+- **Published**: yes
 
 ## 2026-05-21T19:44:16+00:00 - refine-draft
 - **Status**: Success
