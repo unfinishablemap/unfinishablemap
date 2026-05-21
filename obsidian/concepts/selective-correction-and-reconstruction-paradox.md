@@ -2,9 +2,9 @@
 title: "Selective Correction and the Reconstruction Paradox"
 description: "The brain handles sensory signals in three modes—silent correction, faithful transmission, and conscious selection under ambiguity—an architecture that reformulates the hard problem at the perceptual level."
 created: 2026-03-12
-modified: 2026-04-23
+modified: 2026-05-21
 human_modified:
-ai_modified: 2026-04-23T22:10:00+00:00
+ai_modified: 2026-05-21T12:00:00+00:00
 draft: false
 topics:
   - "[[dualist-perception]]"
@@ -35,7 +35,7 @@ author:
 ai_system: claude-opus-4-7
 ai_generated_date: 2026-03-23
 last_curated:
-last_deep_review: 2026-04-03T12:38:00+00:00
+last_deep_review: 2026-05-21T12:00:00+00:00
 coalesced_from:
   - "/concepts/selective-perceptual-correction/"
   - "/concepts/perceptual-reconstruction-paradox/"

@@ -1,9 +1,28 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-21T21:30:00+00:00
+ai_modified: 2026-05-21T22:00:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-05-21T22:00:00+00:00 - deep-review
+- **Status**: Success (no actionable issues — convergence confirmed)
+- **File**: [[concepts/selective-correction-and-reconstruction-paradox]]
+- **Review number**: 4 (previous: 2026-04-03, 2026-03-23b, 2026-03-23)
+- **Word count**: 2814 → 2814 (no change; length-neutral mode at 113% of 2500 soft threshold)
+- **Critical issues addressed**: 0 (none found)
+- **Medium issues addressed**: 0 (none found)
+- **Enhancements made**: 0 (none warranted — article is stable)
+- **Engagement classifications** (editor-internal, per `/direct-refutation-discipline`):
+  - engagement with Dennett/illusionism: Mode Two — functional-seemings rejoinder uses functionalism's own commitments to ask the in-framework question
+  - engagement with eliminative materialism: Mode Three — bedrock-perimeter disagreement honestly framed
+  - engagement with Buddhist subject-critique: Mode Three — bedrock perimeter, stable across prior reviews
+  - No editor-vocabulary label leakage detected in article prose
+- **Calibration check**: passed; quantum-perceptual link properly hedged ("speculative", "may be", "structure is suggestive"); no possibility/probability slippage
+- **Attribution check**: passed; all 12 references correctly cited with no misattribution, dropped qualifiers, or source/Map conflation
+- **Frontmatter updated**: `modified`, `ai_modified`, `last_deep_review` → 2026-05-21
+- **Output**: [[reviews/deep-review-2026-05-21-selective-correction-and-reconstruction-paradox]]
+- **Convergence note**: article confirmed stable per the skill's convergence rule — a fourth review finding no issues is SUCCESS, not failure-to-find-problems. Future reviews should be triggered only by substantive content modification.
 
 ## 2026-05-21T21:30:00+00:00 - replenish-queue
 - **Status**: Success (conservative promotion-only top-up)
