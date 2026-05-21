@@ -2,9 +2,9 @@
 title: "The Capability Division Problem"
 description: "Interactionist dualism must specify which capabilities belong to the brain and which to the mind. This boundary may resist precise drawing—a void at the heart of dualism."
 created: 2026-03-09
-modified: 2026-03-15
+modified: 2026-05-21
 human_modified:
-ai_modified: 2026-05-20T18:42:50+00:00
+ai_modified: 2026-05-21T22:15:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -25,6 +25,7 @@ related_articles:
   - "[[binding-void]]"
   - "[[interface-formalization-void]]"
   - "[[causal-interface]]"
+  - "[[evidential-status-discipline]]"
 ai_contribution: 100
 author:
 ai_system: claude-opus-4-6
@@ -88,6 +89,14 @@ The capability division problem is a void because the boundary it seeks may be i
 The expectation that mind and brain should divide vision into separable capabilities reflects a physicalist assumption: that all contributions are functional and therefore enumerable. But if consciousness contributes something that transforms visual processing holistically rather than adding discrete functions, then asking "what exactly does consciousness add?" may be like asking "what exactly does understanding add to symbol manipulation?" The question assumes the contribution is of the same kind as what it is being compared to.
 
 This does not make the capability division problem meaningless. It makes it a boundary marker — an indicator that interactionist dualism operates at a junction between two fundamentally different kinds of description (neural computation and phenomenal experience) that may resist reduction to a common framework. The void is not ignorance but a structural feature of the mind-brain interface.
+
+## What Would Challenge This View?
+
+**In-practice (methodologically accessible, individually non-decisive).** (1) A complete neural-mechanism specification for the capabilities the Map attributes to consciousness — phenomenal binding, perceptual ownership, flexible counterfactual deployment of visual content — would lower the prior on a mind-side contribution. The Phillips (2021) reanalysis of blindsight already presses in this direction by arguing that "unconscious" cases retain a degraded conscious residue; sustained convergent findings would constrain the division further. (2) A clean dissociation in which a patient retains every capability the Map attributes to consciousness while losing all the capabilities attributed to the brain (or vice versa) would render the division empirically tractable in a way the current evidence resists; the present data show graded overlap rather than orthogonal axes. (3) Demonstrating that the brain-handled procedural capabilities scale continuously into the flexible, deliberative capabilities the Map currently reserves for consciousness — without a phase change — would dissolve the division into a single computational gradient.
+
+**In-principle (inaccessible by the framework's own commitments).** (4) Directly observing the mind-brain interface to verify which side performs which operation — Tenet 2's [[tenets#^minimal-quantum-interaction|minimal quantum interaction]] commitment places the interface at quantum indeterminacy, below the resolution of both introspection and current neuroscience, by the framework's own design. (5) Establishing that consciousness contributes *nothing* functionally distinguishable — would require the joint phenomenal-physical instrumentation the [[interface-formalization-void]] catalogues as missing, since "contributes nothing" is a claim about absence that the framework's epistemic commitments cannot verify. (6) Proving that the asymmetric speculation at the article's close — that consciousness contributes the meta-level capacity to make neural computations *matter to someone* rather than a parallel set of functions — is *false* would require an account of mattering-to-someone in purely functional terms; the [[hard-problem-of-consciousness]] holds this gap to be irreducible.
+
+Honest framing: (4)–(6) are inaccessible by the framework's own commitments, not by an instrumentation gap future technology will close. The framework's net falsifiability is genuinely modest — the in-practice challenges constrain where the boundary falls; the in-principle challenges mark the void itself, per [[evidential-status-discipline]].
 
 ## Relation to Site Perspective
 

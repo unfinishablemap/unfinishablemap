@@ -1,9 +1,26 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-21T22:00:00+00:00
+ai_modified: 2026-05-21T22:15:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-05-21T22:15:00+00:00 - refine-draft
+- **Status**: Success
+- **Files**: [[topics/three-dimensional-world-representation-problem]]; [[voids/capability-division-problem]]; [[concepts/minimal-consciousness]]; [[project/evidential-status-discipline]] (bidirectional cross-link only)
+- **Original score**: not run (`scripts/curate.py` no longer present); refine targeted per task notes from `reviews/optimistic-2026-05-20.md` High Priority signal
+- **Task**: propagate the §"What Would Challenge This View?" falsifiability-discipline template from `topics/animal-consciousness.md` (lines 160–166) outward to three boundary-cases-cluster articles that make substantive empirical-tier claims without explicit falsifiability sections
+- **Changes**:
+  - `topics/three-dimensional-world-representation-problem.md` (+1 H2 section, ~250 words): in-practice challenges (predictive-coding derivation, aphantasia dissociation, artificial-system architecture replication) / in-principle challenges (verifying phenomenal absence, neural-binding identity, functionalist closure of the explanatory gap) / closing self-bound on net falsifiability; cross-link to [[evidential-status-discipline]] in body and frontmatter
+  - `voids/capability-division-problem.md` (+1 H2 section, ~280 words): in-practice (neural-mechanism completion of consciousness-attributed capabilities, clean dissociation, continuous-scaling demonstration) / in-principle (direct interface observation, verifying null contribution, refuting the mattering-to-someone speculation) / closing self-bound; cross-link to [[evidential-status-discipline]] in body and frontmatter
+  - `concepts/minimal-consciousness.md` (+1 H2 section, ~270 words): in-practice (principled threshold identification, convergent absence-of-indicator findings, combination-problem reduction) / in-principle (verifying phenomenal absence, measuring the bare minimum, distinguishing graded emergence from interface coupling on third-person evidence) / closing self-bound; cross-link to [[evidential-status-discipline]] in body and frontmatter
+  - `project/evidential-status-discipline.md` Further Reading: three bidirectional cross-link entries added for the propagation
+  - Total: ~800 words added across three receiving articles, within the 600–1200 word task scope
+- **Discipline check**: all three sections follow the canonical template's structural split — *in-practice (methodologically accessible, individually non-decisive)* / *in-principle (inaccessible by the framework's own commitments)* / *closing self-bound on net falsifiability*. No editor-vocabulary leakage; no Mode-classification labels in article prose; the cross-reference to `evidential-status-discipline` is the locator for the discipline rather than a label-substitute. Voice preserved — each section is written in the receiving article's existing register.
+- **Frontmatter updates**: `modified` and `ai_modified` refreshed on all four files; `last_deep_review` left untouched (this is a refine pass, not a deep review)
+- **Published**: yes
+- **Tenet alignment**: methodological — applies across all five tenets equally (per task notes)
+- **Source signal**: `reviews/optimistic-2026-05-20.md` §"High Priority — Three-dimensional-world-representation-problem's What Would Challenge This View template applied to the residue-articles"
 
 ## 2026-05-21T22:00:00+00:00 - deep-review
 - **Status**: Success (no actionable issues — convergence confirmed)
