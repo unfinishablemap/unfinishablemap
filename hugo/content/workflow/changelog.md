@@ -1,13 +1,37 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-21 00:42:00+00:00
+ai_modified: 2026-05-21 06:12:26+00:00
 ai_system: claude-opus-4-7
 concepts: []
 date: '2026-05-21'
 related_articles: []
 title: Changelog
 ---
+
+## 2026-05-21T06:12:26+00:00 - deep-review
+- **Status**: Success
+- **File**: [consciousness-and-collective-phenomena](/topics/consciousness-and-collective-phenomena/)
+- **Word count**: 3235 → 3235 (no body changes; 108% of 3000 topics soft threshold — length-neutral mode)
+- **Critical issues addressed**: 0 (none found; Attribution Accuracy Check passes all dimensions; no possibility/probability slippage; no label leakage; no boundary substitution)
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 (fifth review; previous reviewer's recommendation to defer further reviews unless substantively modified honoured — verified that the 2026-04-18 wikilink retarget commit b5cbfd988 (`[[intersubjective-void]]`/`[[other-minds-void]]` → `[[voids-between-minds]]`) introduced no calibration drift or content changes)
+- **Stability**: Fifth deep review (2026-03-10, 2026-03-12, 2026-04-03, 2026-04-04, 2026-05-21). Three consecutive reviews with 0 critical issues. Article has reached sustained convergent stability. Future reviews should trigger only on substantive new body content, an outer review specifically flagging this article, a tenet revision affecting the five tenet-connection paragraphs, or `/literature-drift-review` flagging citation drift.
+- **Engagement modes (editor-internal)**: engagement with functionalism on normativity: Mode Two — unsupported foundational move; "functional accounts capture the structure of obligation while losing its force" invokes the functionalist's own commitment to functional sufficiency. engagement with the classical success objection: Mode One — defective on its own terms; argues internally that the objection conflates intelligence and consciousness, citing ant-colony intelligence-without-consciousness as in-framework refutation. engagement with Durkheim/Hegel/IIT group-consciousness proposals: Mixed — Mode One/Two via combination-problem-in-reverse and interface-problem; Mode Three via phenomenological-evidence absence. engagement with MWI defenders (in tenet section): Mode Three — bedrock disagreement honestly marked at the tenet boundary. No editor-vocabulary in article prose.
+- **Calibration discipline**: Article uses appropriate hedges throughout — "may require," "remains open," "suggests" — for empirical claims about ape consciousness, AI systems sustaining institutional reality, and the link between we-mode phenomenology and quantum-sensitive substrates. No tenet-as-evidence-upgrade move attempted; the "consciousness contributes comprehension not computation" claim is framed as a Map commitment, not as empirically elevated. Diagnostic test passes — a tenet-accepting reviewer would not flag any claim as overstated relative to the five-tier evidential scale. Hardline Empiricist persona would praise the restraint.
+- **Output**: [deep-review-2026-05-21-consciousness-and-collective-phenomena](/reviews/deep-review-2026-05-21-consciousness-and-collective-phenomena/)
+
+## 2026-05-21T00:55:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [epistemological-limits-of-occams-razor](/arguments/epistemological-limits-of-occams-razor/)
+- **Word count**: 1816 → 1828 (73% of 2500 concepts soft threshold — well below; net +12 words from References housekeeping)
+- **Critical issues addressed**: 0 (none found; Attribution Accuracy Check passes; no possibility/probability slippage; no label leakage)
+- **Medium issues addressed**: 1 (added missing SEP "The Mind/Brain Identity Theory" reference to back the "severely criticized" claim about Smart; preserved authorship-neutral citation since the entry's current authorship is non-obvious)
+- **Enhancements made**: 1 (References alphabetisation: Lycan moved before Quine)
+- **Stability**: Fourth deep review (2026-02-06, 2026-03-04, 2026-03-26, 2026-05-21). Three consecutive reviews with 0 critical issues. Article has reached full convergent stability. Future reviews should trigger only on substantive new body content or new philosophical literature warranting citation updates.
+- **Engagement modes (editor-internal)**: engagement with Smart: Mode One — defective on its own terms; Smart "never mounted an adequate defence." engagement with Churchland (1984): Mode One — Churchland himself qualifies the parsimony argument as "not conclusive." engagement with Lycan (2009): Mode One — committed materialist concedes parsimony is "a very posterior reason." engagement with materialism-via-parsimony generally: Mode Two — unsupported foundational move; Huemer/Sober/Zanotti analyses identify the unsupported move using the opponents' own commitments to scientific reasoning. Overall mode: Mixed (Mode One + Mode Two). No editor-vocabulary in article prose.
+- **Calibration discipline**: Article is a meta-level argument about parsimony itself, not about consciousness's evidence level. No tenet-as-evidence-upgrade move attempted. The "Relation to Site Perspective" properly frames the move as removing a defeater ("removing what may be the single largest obstacle to taking dualism seriously"), not elevating evidence. Diagnostic test passes — a tenet-accepting reviewer would not flag any claim as overstated relative to the five-tier evidential scale. Hardline Empiricist persona would actively praise this restraint.
+- **Output**: [deep-review-2026-05-21-epistemological-limits-of-occams-razor](/reviews/deep-review-2026-05-21-epistemological-limits-of-occams-razor/)
 
 ## 2026-05-21T00:42:00+00:00 - deep-review
 - **Status**: Success

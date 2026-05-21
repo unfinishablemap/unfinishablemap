@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-06
-ai_modified: 2026-03-28 10:58:00+00:00
+ai_modified: 2026-05-21 00:00:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -15,7 +15,7 @@ description: Occam's Razor fails as an argument against dualism. Human-AI explor
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-03-28 10:58:00+00:00
+last_deep_review: 2026-05-21 00:00:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -117,8 +117,9 @@ The Map does not claim parsimony is useless. It remains a valuable heuristic in 
 - Huemer, M. (2009). "When Is Parsimony a Virtue?" *The Philosophical Quarterly* 59(235): 216-236.
 - Krizek, G. (2017). "Ockham's Razor and the Interpretations of Quantum Mechanics." arXiv:1701.06564.
 - Levine, J. (1983). "Materialism and Qualia: The Explanatory Gap." *Pacific Philosophical Quarterly* 64: 354-361.
-- Quine, W. V. O. (1951). "Ontology and Ideology." *Philosophical Studies* 2(1): 11-15.
 - Lycan, W. G. (2009). "Giving Dualism its Due." *Australasian Journal of Philosophy* 87(4): 551-563.
+- Quine, W. V. O. (1951). "Ontology and Ideology." *Philosophical Studies* 2(1): 11-15.
 - Smart, J. J. C. (1959). "Sensations and Brain Processes." *The Philosophical Review* 68(2): 141-156.
+- *Stanford Encyclopedia of Philosophy*, "The Mind/Brain Identity Theory." https://plato.stanford.edu/entries/mind-identity/ — discusses the reception of Smart (1959).
 - Sober, E. (2001). "What Is the Problem of Simplicity?" In Keuzenkamp, McAleer, & Zellner (eds.), *Simplicity, Inference and Modelling*. Cambridge University Press.
 - Zanotti, G. (2021). "Physicalism and the Burden of Parsimony." *Synthese* 199: 11109-11132.
