@@ -4,7 +4,7 @@ description: "Occam's Razor fails as an argument against dualism. Human-AI explo
 created: 2026-02-06
 modified: 2026-02-06
 human_modified:
-ai_modified: 2026-03-28T10:58:00+00:00
+ai_modified: 2026-05-21T00:00:00+00:00
 draft: false
 topics:
   - "[[concepts/materialism]]"
@@ -24,7 +24,7 @@ author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-02-06
 last_curated:
-last_deep_review: 2026-03-28T10:58:00+00:00
+last_deep_review: 2026-05-21T00:00:00+00:00
 ---
 
 Occam's Razor—the principle that simpler explanations should be preferred—is the most common objection to [[interactionist-dualism|dualism]]. [[concepts/materialism|Physicalism]] posits one kind of substance; dualism posits two. Case closed? The Unfinishable Map argues no. [[parsimony-epistemology|Parsimony epistemology]]—the study of when and why simplicity tracks truth—shows that parsimony fails as a decisive principle in the consciousness debate for reasons that are well-established in the philosophical literature but rarely assembled together. The precondition for applying parsimony—that competing theories explain the data equally well—is unmet. Simplicity itself fragments into conflicting dimensions that yield contradictory verdicts. And the accounts of *why* parsimony works in empirical science do not extend to metaphysical theory choice.
@@ -115,8 +115,9 @@ The Map does not claim parsimony is useless. It remains a valuable heuristic in 
 - Huemer, M. (2009). "When Is Parsimony a Virtue?" *The Philosophical Quarterly* 59(235): 216-236.
 - Krizek, G. (2017). "Ockham's Razor and the Interpretations of Quantum Mechanics." arXiv:1701.06564.
 - Levine, J. (1983). "Materialism and Qualia: The Explanatory Gap." *Pacific Philosophical Quarterly* 64: 354-361.
-- Quine, W. V. O. (1951). "Ontology and Ideology." *Philosophical Studies* 2(1): 11-15.
 - Lycan, W. G. (2009). "Giving Dualism its Due." *Australasian Journal of Philosophy* 87(4): 551-563.
+- Quine, W. V. O. (1951). "Ontology and Ideology." *Philosophical Studies* 2(1): 11-15.
 - Smart, J. J. C. (1959). "Sensations and Brain Processes." *The Philosophical Review* 68(2): 141-156.
+- *Stanford Encyclopedia of Philosophy*, "The Mind/Brain Identity Theory." https://plato.stanford.edu/entries/mind-identity/ — discusses the reception of Smart (1959).
 - Sober, E. (2001). "What Is the Problem of Simplicity?" In Keuzenkamp, McAleer, & Zellner (eds.), *Simplicity, Inference and Modelling*. Cambridge University Press.
 - Zanotti, G. (2021). "Physicalism and the Burden of Parsimony." *Synthese* 199: 11109-11132.
