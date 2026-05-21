@@ -1,9 +1,21 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-20T23:41:06+00:00
+ai_modified: 2026-05-21T00:42:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-05-21T00:42:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [[concepts/libet-experiments]]
+- **Word count**: 3069 → 3069 (no body changes; 123% of 2500 concepts soft threshold — length-neutral mode)
+- **Critical issues addressed**: 0 (none found; Attribution Accuracy Check passes all dimensions; no possibility/probability slippage; no label leakage)
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 (sixth review of a fully stable article; previous reviewer's deprioritisation recommendation honoured — verified that post-coalesce link-target updates and the volitional-control cross-link added since review 5 introduce no calibration drift)
+- **Stability**: Sixth deep review (2026-01-20, 2026-01-27, 2026-02-28, 2026-03-06, 2026-03-28, 2026-05-21). Convergence sustained across three reviews with 0 critical issues. Future reviews should trigger only on substantive new body content, new empirical findings (SMA-resection cohort, RP reinterpretation, retrocausal experiment), or calibration-audit-flagged citation drift.
+- **Engagement modes (editor-internal)**: engagement with Dennett (illusionism section): Mode One; the reply uses Dennett's own commitment to reasoning to show illusionism is defective on its own terms (self-refutation). engagement with the standard Libet interpretation: Mode Two; foundational-move identification — "RP = decision signal" is the unsupported bridge, refuted in-framework via Schurger/Sjöberg/Desmurget. engagement with MWI (implicit in retrocausal framing): Mode Three; bedrock disagreement honestly marked per the No Many Worlds tenet. No editor-vocabulary in article prose.
+- **Calibration discipline**: Article does not use the five-tier evidential-status scale and does not attempt tenet-as-evidence-upgrade. Retrocausal and Zeno mechanisms framed as "coherent mechanisms" the Map's framework permits, not as empirically elevated; falsifiability section labels the whole position as empirical territory. Diagnostic test passes — a tenet-accepting reviewer would not flag the prose as overstated.
+- **Output**: [[reviews/deep-review-2026-05-21-libet-experiments]]
 
 ## 2026-05-20T23:41:06+00:00 - optimistic-review
 - **Status**: Success
