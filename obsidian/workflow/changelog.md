@@ -1,9 +1,25 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-21T12:00:00+00:00
+ai_modified: 2026-05-21T13:11:22+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-05-21T13:11:22+00:00 - deep-review
+- **Status**: Success
+- **File**: [[apex/process-and-consciousness]]
+- **Word count**: 3923 → 3923 (no change, 98% of 4000 apex soft threshold; length-neutral mode)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 (only modification since 2026-05-01 review was the 2026-05-11 apex-evolve cross-link pass that braided in [[integration-as-activity]]; verified for attribution accuracy, source/Map separation, qualifier preservation, and IIT characterization consistency against the source concept page)
+- **Engagement classification (editor's notes; not in article body)**:
+  - Engagement with functionalists on the argument from reason (line 120): Mode Two — unsupported foundational move; the thermostat counter uses a system the functionalist accepts as tracking temperature to argue tracking does not amount to understanding (internal-to-functionalism reasoning)
+  - Engagement with Everettians on phenomenological MWI critique (line 134): Mode Three — explicitly cost-marks the response ("reveals what this response costs") rather than claiming in-framework refutation; framework-boundary disagreement is honestly noted
+  - No boundary-substitution. No label leakage. No editor vocabulary in article prose.
+- **Attribution check**: New 2026-05-11 passage (integration-as-activity link) verified against `concepts/integration-as-activity.md`. IIT characterization ("structural feature of a system at an instant") matches source. "Whitehead's concrescence is the metaphysical limit case" is the Map's editorial reading, presented as such. No misattribution.
+- **Calibration check**: Empirical citations (Kerskens 2022, Wiest 2024, Schurger 2012, Sjöberg 2024, Kent & Wittmann 2021) properly hedged. New metaphysical claim ("integration is ontologically basic") presented as implication of Whitehead's framework, with article's testability admission (line 150) keeping metaphysical scope explicit. Tenet-accepting reviewer would not flag as overstated. No possibility/probability slippage.
+- **Stability**: Fourth deep review; second consecutive review finding zero content changes warranted (May 1 review made one qualifier fix; this review made none). Article has converged across four reviews and several apex-evolve passes. Future selection should de-prioritise.
+- **Output**: [[reviews/deep-review-2026-05-21-process-and-consciousness]]
 
 ## 2026-05-21T13:00:00+00:00 - deep-review
 - **Status**: Success
