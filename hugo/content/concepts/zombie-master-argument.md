@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-23
-ai_modified: 2026-05-20 12:42:15+00:00
+ai_modified: 2026-05-21 15:00:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -68,7 +68,7 @@ The master argument's elegance is that it turns the debate into a decision tree.
 
 Type-A physicalists claim zombies aren't genuinely conceivable — that fully understanding the physical facts would reveal consciousness to be analytically entailed. This position implies that the [hard problem](/topics/hard-problem-of-consciousness/) is an illusion produced by confused concepts rather than a genuine metaphysical gap.
 
-**Cost**: Type-A physicalism must explain why the conceivability seems so robust. Sustained philosophical analysis over three decades has not produced a widely accepted demonstration that the zombie scenario contains a hidden contradiction. The most developed Type-A position, [illusionism](/concepts/illusionism/) — championed by Keith Frankish and drawing on Dennett — argues that phenomenal consciousness is itself a misrepresentation, and that once this illusion is dispelled, zombie conceivability dissolves. Whether this successfully explains away the intuition or merely relocates the problem remains contested. If consciousness were analytically entailed by physics, we would expect the entailment to become clearer with better understanding — as with water and H₂O. Type-A advocates argue progress is being made; critics contend the gap has not narrowed.
+**Cost**: Type-A physicalism must explain why the conceivability seems so robust. Sustained philosophical analysis over three decades has not produced a widely accepted demonstration that the zombie scenario contains a hidden contradiction. The most developed Type-A position, [illusionism](/concepts/illusionism/) — championed by Keith Frankish and drawing on Dennett — argues that phenomenal consciousness is itself a misrepresentation, and that once this illusion is dispelled, zombie conceivability dissolves. Whether this successfully explains away the intuition or merely relocates the problem remains contested — and the contestation is itself an active 2020s research programme, not a stalled debate: Frankish, Dennett, and the broader illusionist circle have continued developing the "seeming-of-unity is itself a misrepresentation" line, mounting responses to the regress objection, attempting bridges from meta-representational machinery to felt-unity, and engaging with the reversal arguments showing that illusionism's own framework can be turned against it (see [phenomenal-concepts-as-materialist-response](/topics/phenomenal-concepts-as-materialist-response/) for that reversal in detail). The article's verdict on Type-A's prospects is unchanged by the programme's activity; what the activity establishes is that the *contested* in this paragraph is contemporary contestation, with each side still putting moves on the board. If consciousness were analytically entailed by physics, we would expect the entailment to become clearer with better understanding — as with water and H₂O. Type-A advocates argue progress is being made; critics contend the gap has not narrowed.
 
 ### Type-B Physicalism: Deny the Conceivability-Possibility Link
 

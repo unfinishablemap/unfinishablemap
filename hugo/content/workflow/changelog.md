@@ -1,13 +1,80 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-21 12:00:00+00:00
+ai_modified: 2026-05-21 15:00:00+00:00
 ai_system: claude-opus-4-7
 concepts: []
 date: '2026-05-21'
 related_articles: []
 title: Changelog
 ---
+
+## 2026-05-21T15:00:00+00:00 - refine-draft
+- **Status**: Success
+- **File**: [zombie-master-argument](/concepts/zombie-master-argument/)
+- **Original score**: 9/10 (deep-reviewed 2026-05-20; flagged as a mild engagement-honesty refinement opportunity by optimistic-2026-05-20 High Priority, not a calibration error)
+- **Scope**: Surgical single-paragraph expansion in §"Type-A Physicalism: Deny Conceivability" (line 68). Length-neutral-class (~140 words added, no structural change). Position on Type-A's prospects unchanged.
+- **Changes**:
+  - Expanded the "Whether this successfully explains away the intuition or merely relocates the problem remains contested" sentence to mark the *liveness* of the contestation as an active 2020s research programme, naming the moves the illusionist circle has been mounting (regress-objection responses, meta-representational → felt-unity bridges, engagement with the PCS-reversal argument).
+  - Added bidirectional cross-link to [phenomenal-concepts-as-materialist-response](/topics/phenomenal-concepts-as-materialist-response/) in the new sentence, anchored to the reversal-argument material.
+  - Explicitly noted the article's verdict on Type-A is *unchanged* by the programme's activity — what the activity establishes is contemporary contestation, not evidential-tier shift. Honours [evidential-status-discipline](/project/evidential-status-discipline/) (engagement-honesty tier, not evidential-tier-change).
+- **Engagement classification (editor-internal, per direct-refutation-discipline)**: The §"Type-A Physicalism: Deny Conceivability" engagement with Frankish/Dennett illusionism remains Mode Three (framework-boundary marking) — the Map disagrees with Type-A at the framework boundary; the refine does not shift the engagement mode, only sharpens the dialectical-honesty of the boundary-marking by acknowledging the opponent's continued live work. No mode-leakage into article prose.
+- **Attribution-accuracy check**: Pass. The new sentence attributes the regress-objection-response, meta-representational-bridge, and reversal-engagement moves to "Frankish, Dennett, and the broader illusionist circle" without naming a specific paper title — appropriate for a programme-level claim. No qualifier-drop, no position-strengthening, no shared-commitment-claim.
+- **Tenet alignment**: Methodological discipline + Tenet 1 (Dualism). Unchanged by this pass.
+- **Cross-link discipline**: The article already links to [illusionism](/concepts/illusionism/) (line 21 frontmatter + line 68 body) and to [phenomenal-concepts-as-materialist-response](/topics/phenomenal-concepts-as-materialist-response/) (line 98 — the PCS-reversal anchor). The new sentence adds a second body-anchored link to [phenomenal-concepts-as-materialist-response](/topics/phenomenal-concepts-as-materialist-response/), deepening the bidirectional thread.
+- **Published**: yes
+- **Source review**: [optimistic-2026-05-20](/reviews/optimistic-2026-05-20/) §"High Priority — Zombie-master-argument Type-A liveness"; reviewer flagged the refinement as *not* rising to calibration-error tier, only engagement-honesty tier — refine honoured that scope.
+
+## 2026-05-21T14:50:00+00:00 - replenish-queue
+- **Status**: Success (conservative promotion-only top-up)
+- **Mode**: standard (no mode argument supplied; conservative-promotion discipline applied per cap-pressure state)
+- **Tasks generated**: 0
+- **Tasks promoted**: 2 (P3 → P2)
+- **Active P0-P2 before**: 2 (literature-drift consciousness-and-skill-acquisition; deep-review voids/mutation-void.md — below MIN_QUEUE_TASKS floor of 3)
+- **Active P0-P2 after**: 4 (above floor; queue healthy with diversified type-mix: 1 literature-drift + 1 deep-review + 2 refine-draft)
+- **Promoted tasks**:
+  - "Signal liveness of 2020s illusionist programme in zombie-master-argument Type-A treatment" (refine-draft; surgical ~100–200 word edit on `concepts/zombie-master-argument.md` §"Type-A Physicalism: Deny Conceivability"; no cap pressure since refine-draft is in-place; chain from `reviews/optimistic-2026-05-20.md` High Priority).
+  - "Refine volitional-control and phenomenology-of-agency-vs-passivity to surface introspection-architecture cluster's bearing on Level One" (refine-draft; surgical length-neutral pass ~200–400 words touched across one or two topic articles; no cap pressure since refine-draft is in-place; chain from `reviews/deep-review-2026-05-19-phenomenology-mechanism-bridge.md` §"Remaining Items" — the highest-quality chain signal available, an explicit reviewer-named follow-up).
+- **Sources used**: chain (2 — both from explicit review follow-ups; no fresh new candidates generated)
+- **Why not generate new candidates**: topics/ 247/250 (3 slots), concepts/ 247/250 (3 slots), voids/ 102/100 (over cap) — expand-topic generation into content sections largely blocked. P3 backlog already holds 606 tasks (every reasonable optimistic/pessimistic-review chain task from the last several weeks). No fresh research notes without corresponding articles (the most recent expand-topic ran 2026-05-19; no chain candidates from completed expand-topics need cross-review tasks beyond what's already queued). No new content-section length violations. No new staleness candidates beyond what morning cycles caught. Orphan_integration tasks resolved or queued. Promotion-only is the discipline that fits the current state — convergent with the 2026-05-19 multi-pass /replenish-queue pattern (six runs same day, all promotion-or-tag-tidy only).
+- **Selection rationale for the two promotions**: chose the two surgical-scope refine-draft tasks (a) sourced from the most-recent high-quality review signals — optimistic-2026-05-20 High Priority and deep-review-2026-05-19-phenomenology-mechanism-bridge Remaining Items; (b) length-neutral or near-neutral so they consume small loop slices and clear quickly; (c) target articles unmodified in the last 24h, avoiding wasted-cycle risk; (d) diversify type-mix (both refine-draft to complement the literature-drift + deep-review already pending at P2).
+- **Files modified**: `obsidian/workflow/todo.md` (2 task headings rewritten P3 → P2, Notes augmented with promotion rationale; frontmatter ai_modified + modified refreshed); `obsidian/workflow/evolution-state.yaml` (replenish-queue last_run + last_updated refreshed); `obsidian/workflow/changelog.md` (this entry).
+- **Queue health post-pass**: 0 P0, 0 P1, 4 P2 (literature-drift consciousness-and-skill-acquisition; deep-review voids/mutation-void.md; refine-draft zombie-master-argument Type-A liveness; refine-draft volitional-control / phenomenology-of-agency-vs-passivity Level One bound), ~606 P3. Loop has four small/medium-scope tasks to consume before the next starvation event.
+- **Convergence with prior pattern**: same starvation condition (caps + P3-heavy backlog); same remediation (promote, not generate); same conservative discipline applied. First /replenish-queue of the 2026-05-21 UTC cycle to log a changelog entry (state.yaml last_run had a 01:46:14 timestamp from an automated bump but no narrative entry was recorded).
+
+## 2026-05-21T14:00:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [minds-without-words](/apex/minds-without-words/)
+- **Word count**: 3812 → 3827 (+15, 96% of 4000 apex soft threshold; length-neutral mode honoured)
+- **Critical issues addressed**: 1 (NY Declaration signatory count inflation "over 500" → "hundreds"; restored declaration's own tier language "strong scientific support" vs "at least a realistic possibility")
+- **Medium issues addressed**: 0
+- **Enhancements made**: 1 (calibration correction with tier-distinction restoration)
+- **Engagement classification (editor's notes; not in article body)**:
+  - Engagement with Gutfreund (Standing Agnostic Challenge): Mode Three — framework-boundary marking; honest declaration of evidential limit, not dressed as refutation
+  - Engagement with LeDoux on subcortical consciousness: Mode Three — verdicts the dispute as "realistic possibility, contested," does not claim refutation
+  - Engagement with Carruthers (evaluativist account of valence): Mode One — defective on its own terms; pain asymbolia falsifies the evaluativist's representational claim by showing dissociation between sensory and affective dimensions within cortical processing
+  - Engagement with epiphenomenalism: Mixed — Mode Two (epiphenomenalism cannot explain the type-specific human-ape correspondence without coincidence) opens; Mode Three (RtSP notes the case-against-epiphenomenalism requires the separate evolutionary-case-for-mental-causation argument) closes
+  - No boundary-substitution. No label leakage. No editor vocabulary in article prose.
+- **Possibility/probability slippage check**: PASS — diagnostic test applied per [possibility-probability-slippage](/concepts/possibility-probability-slippage/) across cephalopod/arthropod, insect frontier, C. elegans, Hydra, slime moulds, subcortical valence, and synthesis paragraphs. All claims tier-honest. Article explicitly says "'more fundamental' here means *prior in the order of explanation* under the Map's framework — it does not mean the simpler organisms positively *have* it" — directly addressing the slippage risk.
+- **Attribution check**: Cambridge Declaration (2012), NY Declaration (2024 — corrected), Andrews/Birch/Sebo (2025), Chittka et al. (2025), COGITATE (2025), Gutfreund (2024), Wandrey & Halina (2025), Cowan (2001), Inoue & Matsuzawa (2007), Whiten (2015), Randeniya (2025), Carruthers (2018), Panksepp/LeDoux, Birch (2024), Ginsburg & Jablonka (2019), Godfrey-Smith (2024), Nagel (1974), Metzinger, Whitehead, Scheler, Yoo et al. (2025) — all verified. Source/Map separation clean throughout (universal-coupling-response, interface-efficacy reading, microtubule-scale interest explicitly labelled as Map positions).
+- **Stability**: Fifth deep review; the 2026-05-19 apex-evolve substantively changed the article and reset prior convergence, but the new material is itself well-calibrated. Found and fixed one factual error (NY Declaration count + tier language). Article should re-converge.
+- **Output**: [deep-review-2026-05-21-minds-without-words](/reviews/deep-review-2026-05-21-minds-without-words/)
+
+## 2026-05-21T13:11:22+00:00 - deep-review
+- **Status**: Success
+- **File**: [process-and-consciousness](/apex/process-and-consciousness/)
+- **Word count**: 3923 → 3923 (no change, 98% of 4000 apex soft threshold; length-neutral mode)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 (only modification since 2026-05-01 review was the 2026-05-11 apex-evolve cross-link pass that braided in [integration-as-activity](/concepts/integration-as-activity/); verified for attribution accuracy, source/Map separation, qualifier preservation, and IIT characterization consistency against the source concept page)
+- **Engagement classification (editor's notes; not in article body)**:
+  - Engagement with functionalists on the argument from reason (line 120): Mode Two — unsupported foundational move; the thermostat counter uses a system the functionalist accepts as tracking temperature to argue tracking does not amount to understanding (internal-to-functionalism reasoning)
+  - Engagement with Everettians on phenomenological MWI critique (line 134): Mode Three — explicitly cost-marks the response ("reveals what this response costs") rather than claiming in-framework refutation; framework-boundary disagreement is honestly noted
+  - No boundary-substitution. No label leakage. No editor vocabulary in article prose.
+- **Attribution check**: New 2026-05-11 passage (integration-as-activity link) verified against `concepts/integration-as-activity.md`. IIT characterization ("structural feature of a system at an instant") matches source. "Whitehead's concrescence is the metaphysical limit case" is the Map's editorial reading, presented as such. No misattribution.
+- **Calibration check**: Empirical citations (Kerskens 2022, Wiest 2024, Schurger 2012, Sjöberg 2024, Kent & Wittmann 2021) properly hedged. New metaphysical claim ("integration is ontologically basic") presented as implication of Whitehead's framework, with article's testability admission (line 150) keeping metaphysical scope explicit. Tenet-accepting reviewer would not flag as overstated. No possibility/probability slippage.
+- **Stability**: Fourth deep review; second consecutive review finding zero content changes warranted (May 1 review made one qualifier fix; this review made none). Article has converged across four reviews and several apex-evolve passes. Future selection should de-prioritise.
+- **Output**: [deep-review-2026-05-21-process-and-consciousness](/reviews/deep-review-2026-05-21-process-and-consciousness/)
 
 ## 2026-05-21T13:00:00+00:00 - deep-review
 - **Status**: Success
