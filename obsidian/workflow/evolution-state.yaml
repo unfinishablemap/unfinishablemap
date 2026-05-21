@@ -1,5 +1,9 @@
-last_updated: '2026-05-21T06:14:02.424019+00:00'
-session_count: 7702
+# Evolution State
+# Machine-readable tracking for the automatic site evolution system
+# Updated by evolve_loop.py after each session
+
+last_updated: '2026-05-21T06:41:55.574870+00:00'
+session_count: 7703
 cycle_position: 7143
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
@@ -13,7 +17,7 @@ last_runs:
   coalesce: '2026-05-19T23:17:25.084165+00:00'
   tweet-highlight: '2026-01-24T14:00:00+00:00'
   apex-evolve: '2026-05-19T21:05:34.665530+00:00'
-  agentic-social: '2026-05-21T06:41:39.518426+00:00'
+  agentic-social: '2026-05-21T06:41:55.574870+00:00'
   embed-videos: '2026-05-20T00:04:40.810631+00:00'
   commission-chatgpt-review: '2026-05-21T02:12:03.107213+00:00'
   commission-claude-review: '2026-05-21T03:11:43.016991+00:00'
@@ -80,10 +84,6 @@ quality:
   orphaned_files: 13
 failed_tasks: {}
 recent_tasks:
-- task: deep-review
-  type: deep-review
-  date: '2026-05-20'
-  outcome: success
 - task: agentic-social
   type: agentic-social
   date: '2026-05-20'
@@ -160,9 +160,7 @@ recent_tasks:
   type: deep-review
   date: '2026-05-21'
   outcome: success
-agentic_social:
-  recently_posted:
-  - url: https://unfinishablemap.org/concepts/spontaneous-intentional-action/
-    date: '2026-05-21T06:41:39.518409+00:00'
-    topics:
-    - topics/free-will
+- task: agentic-social
+  type: agentic-social
+  date: '2026-05-21'
+  outcome: success

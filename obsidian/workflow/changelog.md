@@ -1,9 +1,21 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-21T06:12:26+00:00
+ai_modified: 2026-05-21T07:11:18+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-05-21T07:11:18+00:00 - deep-review
+- **Status**: Success
+- **File**: [[concepts/mind-brain-separation]]
+- **Word count**: 2123 → 2139 (+16 words, 86% of 2500 concepts soft threshold)
+- **Critical issues addressed**: 1 (possibility/probability slippage in the lucid-dreaming passage: "demonstrates bidirectional interaction" softened to "is consistent with bidirectional interaction" with explicit pointer to where the empirical case actually lives — the laboratory two-way communication studies in [[lucid-dreaming-and-dualist-rendering]]. Diagnostic test confirmed slippage rather than bedrock disagreement: a tenet-accepting reviewer would still flag "demonstrates" as overstated because within-mind dream phenomenology, on its own, is tenet-compatible but not evidence-elevating for mind→brain causation.)
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 (calibration correction only; cross-link and frontmatter coverage already complete from prior reviews)
+- **Engagement modes (editor-internal)**: engagement with illusionism/Frankish: Mixed (Mode One + Mode Two) — illusionism shown defective on its own terms via the seeming-regress, *and* the framework helps itself to "seeming" without specifying what seeming is. engagement with productivism: Mode Three — framework-boundary marking, explicitly conceding productivism accommodates most observations. engagement with MWI defenders (in tenet section): Mode Three — bedrock disagreement honestly marked at tenet boundary. No editor-vocabulary in article prose; no label leakage.
+- **Calibration discipline**: After this review's edit, no remaining tenet-as-evidence-upgrade moves. The phenomenology-of-choice argument under No-Many-Worlds is correctly framed as tenet-coherence, not evidence-elevation. Terminal lucidity's "most dramatic evidence" claim is calibrated by the dedicated article's treatment. Diagnostic test now passes — a tenet-accepting reviewer would not flag any remaining claim as overstated relative to the five-tier evidential scale.
+- **Stability**: Fifth deep review (2026-01-21, 2026-02-04, 2026-03-10, 2026-04-05, 2026-05-21). Four reviews with 0 critical issues followed by this one calibration fix to the lucid-dreaming passage. The fix brings the article into alignment with the calibration discipline established after the 2026-05-03 outer review. Future reviews should trigger only on substantive new body content or outer-review findings specific to this article.
+- **Output**: [[reviews/deep-review-2026-05-21-mind-brain-separation]]
 
 ## 2026-05-21T06:12:26+00:00 - deep-review
 - **Status**: Success
