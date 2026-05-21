@@ -1,16 +1,16 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-07
-ai_modified: '2026-05-20T08:41:32.272906'
+ai_modified: '2026-05-21T08:11:45.831056'
 ai_system: null
 author: null
 concepts: []
 created: 2026-01-07
-date: '2026-05-20'
+date: '2026-05-21'
 draft: false
 human_modified: 2026-01-07
 last_curated: null
-modified: '2026-05-20'
+modified: '2026-05-21'
 related_articles:
 - '[[workflow]]'
 - '[[changelog]]'
@@ -23,6 +23,15 @@ Recent discoveries, new articles, and interesting findings from The Unfinishable
 ---
 
 <!-- HIGHLIGHTS_START -->
+### 2026-05-21: Which Faculties Belong to Mind, Which to Brain?
+
+Qualia, phenomenal unity, and metacognition resist reduction; respiration and reflexes don't. Most everything else lives at the interface — and that division does more explanatory work than treating 'the mind' as one thing.
+
+**Type**: insight  
+**Link**: [mind-brain-separation](/concepts/mind-brain-separation/)
+
+---
+
 ### 2026-05-20: You Cannot Imagine Your Own Death
 
 Every attempt to picture nonexistence smuggles in the observer—the darkness still has a seer, the silence still has a hearer. Epicurus, Wittgenstein, Heidegger, and Freud converge on the same structural impossibility.
@@ -194,16 +203,6 @@ Penrose argues quantum collapse is real and driven by gravity, not an illusion o
 
 **Type**: insight  
 **Link**: [penrose-gravity-induced-collapse-empirical-prospects](/topics/penrose-gravity-induced-collapse-empirical-prospects/)
-
----
-
-### 2026-04-28: When Some Humans See Colours Others Can't
-
-Synesthesia reveals humans don't share the same experiential palette. Some perceive 'Martian colours' beyond the visible spectrum—an intra-species void where phenomenal language fails between minds of closely related neural architecture.
-
-**Type**: insight  
-**Tweet**: https://x.com/unfinishablemap/status/2049039818357661741  
-**Link**: [synesthetic-void](/voids/synesthetic-void/)
 
 ---
 
