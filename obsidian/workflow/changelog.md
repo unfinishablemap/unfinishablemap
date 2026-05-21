@@ -1,9 +1,29 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-21T10:11:20+00:00
+ai_modified: 2026-05-21T12:00:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-05-21T12:00:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [[apex/identity-across-transformations]]
+- **Word count**: 4097 → 4064 (−33 words, 102% of 4000 apex soft threshold; length-neutral mode operated)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 1 (tightened the 2026-05-19 refine-draft paragraph at line 115 — removed "X—not Y" cliché construct flagged by writing-style guide, cut verbose dash-clarifier patterns while preserving load-bearing haecceity-exhibit dialectical claim)
+- **Low issues addressed**: 1 (sharpened "Gap-preservation is suspect" → "Gap-preservation faces the same haecceity problem" with explicit articulation of what the problem is in the death case)
+- **Enhancements made**: 0 (length-neutral mode at 102% of threshold; no expansion warranted)
+- **Engagement classification (editor's notes; not in article body)**:
+  - Engagement with MWI defenders (line 141): Mode Mixed — Mode One use of the epistemic-vs-metaphysical-thesis distinction internal to MWI, followed by Mode Three boundary-marking ("The Map requires the stronger *metaphysical* thesis")
+  - Engagement with eliminativists (line 85): Mode Three — explicit boundary-marking on whether experiences require experiencers
+  - Engagement with materialists on death (line 151): Mode Three — framework-difference declared
+  - Engagement with Buddhist Madhyamaka (line 131): Mode Mixed — Mode One observation about what contemplatives report plus Mode Three on Vedāntic vs Buddhist positioning
+  - Engagement with anti-haecceitists (line 185): Mode Three — boundary-marking with reply-and-rejoin
+  - No boundary-substitution. No label leakage. No editor vocabulary in article prose.
+- **Attribution check**: All citations re-verified (Mashour 2023, Pinto et al. 2017, Miller et al. 2025, Bodien et al. 2024, Nagel 1971, Mashour & Bharioke 2024). No misattribution, no dropped qualifiers, no source/Map conflation, no self-contradictions.
+- **Calibration check**: 2026-05-19 paragraph passes the diagnostic test — explicitly framed as "suggestive rather than definitive" and "compatible with production accounts." Tenet-accepting reviewer would not flag as overstated. No possibility/probability slippage.
+- **Stability**: Fourth deep review; convergence confirmed. Article remains stable on all core arguments across two re-syntheses and four reviews. Recurring failure mode caught this pass: refine-draft additions can introduce style violations (cliché constructions) and dilute calibration discipline; deep-review functions correctly as the corrective signal.
+- **Output**: [[reviews/deep-review-2026-05-21-identity-across-transformations]]
 
 ## 2026-05-21T10:11:20+00:00 - deep-review
 - **Status**: Success
