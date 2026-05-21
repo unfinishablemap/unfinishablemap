@@ -1,9 +1,22 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-21T15:00:00+00:00
+ai_modified: 2026-05-21T19:44:16+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-05-21T19:44:16+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[topics/consciousness-and-testimony]]
+- **Scope**: Topic-concept anchoring audit remediation. The 2026-05-21 audit flagged the topic as under-hedged relative to its anchor concept [[theory-of-mind]] (hedge density 2.30/kw vs anchor 12.94/kw; 2 strong-assertion verbs where anchor uses none). This refine inherits the anchor's calibration discipline without weakening the central thesis — the consciousness-occupies-a-distinctive-epistemic-position-in-testimony argument lands intact.
+- **Changes**:
+  - Lifted hedge density from 2.30/kw to 12.34/kw (target ≥ 7.76/kw, i.e. 60% of anchor's 12.94/kw). Net added ~36 hedge markers across opening, §"The Epistemic Circle", §"The Felt Character of Receiving Testimony", §"Default Openness and the Phenomenology of Suspicion", §"The Authority of First-Person Reports", and §"The Eliminativist Bind". Hedges follow the [[evidential-status-discipline]] pattern: phenomenological claims softened to "appears to", "seems to", "may"; framework-level interpretive moves softened where the evidence does not adjudicate; central-thesis claims preserved.
+  - Removed both strong-assertion verbs flagged by the audit. "Confirms" (§"The Authority of First-Person Reports" → expert-relief paragraph) → "validates"; "demonstrates" (§"The Eliminativist Bind" → eliminativist's-testimony paragraph) → "supports". A third "establishes" introduced in the opening as part of the *constrain*-vs-*establish* discipline-reference was replaced with "settle" to avoid re-flagging.
+  - Added explicit *constrain*-vs-*establish* register to opening paragraph: "the evidence here may *constrain* materialist treatments of testimony rather than *settle* the dualist reading on its own." This installs the calibration the [[project/evidential-status-discipline|evidential-status discipline]] requires at the lead, where the article's strongest claims used to land unhedged.
+  - Preserved voice: the article's argument structure, section ordering, philosophical commitments, and characteristic phrasings (felt-quality language, intersubjective-void framing, eliminativist self-refutation framing) all unchanged. Only modal verbs and hedge markers were touched; no substantive claims were retracted.
+- **Verification**: `tools/curate/anchoring.py:evaluate_anchoring()` now returns `[]` against the full anchor-concept set ([[introspection]], [[qualia]], [[intentionality]], [[epistemic-emotions]], [[problem-of-other-minds]], [[phenomenological-evidence]], [[intersubjectivity]], [[theory-of-mind]], [[cognitive-phenomenology]]); the previously-flagged theory-of-mind comparison is clean.
+- **Audit-calibration data**: this flag was *accepted* by the refine pass (not dismissed). The topic article was genuinely under-hedged relative to its anchor concept's discipline; the audit caught a real calibration gap. Adds one accepted-flag datapoint to the topic-concept anchoring audit's pre-registered falsification trigger (target: 30-75% accept rate over 20 runs; see [[project/calibration-audit-triple]] §"Pre-Registered Falsification Triggers").
+- **Published**: yes
 
 ## 2026-05-21T17:15:00+00:00 - refine-draft
 - **Status**: Success

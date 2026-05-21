@@ -37,17 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Adopt theory-of-mind calibration in consciousness-and-testimony
-- **Type**: refine-draft
-- **Status**: pending
-- **File**: obsidian/topics/consciousness-and-testimony.md
-- **Notes**: From topic-concept anchoring audit 2026-05-21. The topic article over-claims relative to its anchor concept [[theory-of-mind]]; failed checks: hedge_density, strong_assertions.
-  - hedge density 2.30/kw is below 60% of anchor (12.94/kw)
-  - topic uses 2 strong-assertion verbs where anchor uses none
-  - Action: bring the topic's hedge profile in line with the anchor concept's. Preserve the article's voice; this is not a request to weaken the central claim, only to inherit the calibration discipline the anchor concept already uses. See [[project/calibration-audit-triple]] Audit Three for the spec and [[evidential-status-discipline]] for the underlying rule.
-- **Source**: topic-concept-anchoring-audit
-- **Generated**: 2026-05-21
-
 ### P2: Adopt witness-consciousness calibration in channel-audits-introspection-architecture-independence-scoring
 - **Type**: refine-draft
 - **Status**: pending
@@ -58,7 +47,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
   - Action: bring the topic's hedge profile in line with the anchor concept's. Preserve the article's voice; this is not a request to weaken the central claim, only to inherit the calibration discipline the anchor concept already uses. See [[project/calibration-audit-triple]] Audit Three for the spec and [[evidential-status-discipline]] for the underlying rule.
 - **Source**: topic-concept-anchoring-audit
 - **Generated**: 2026-05-21
-
 
 ### P3: Propagate animal-consciousness §"What Would Challenge This View?" template across boundary-cases cluster
 - **Type**: refine-draft
@@ -3876,6 +3864,10 @@ Tasks that failed 3+ times and require human intervention.
 
 Ideas that were considered and rejected. The AI will not re-propose these.
 
+
+### ✓ 2026-05-21: Adopt theory-of-mind calibration in consciousness-and-testimony
+- **Type**: refine-draft
+- **Notes**: From topic-concept anchoring audit 2026-05-21. The topic article over-claims relative to its anchor concept [[theory-of-mind]]; failed checks: hedge_density, strong_assertions.
 
 ### ✓ 2026-05-21: Refine volitional-control and phenomenology-of-agency-vs-passivity to surface introspection-architecture cluster's bearing on Level One
 - **Type**: refine-draft
