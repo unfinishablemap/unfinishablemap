@@ -1,23 +1,19 @@
-# Evolution State
-# Machine-readable tracking for the automatic site evolution system
-# Updated by evolve_loop.py after each session
-
-last_updated: '2026-05-21T10:42:00.628327+00:00'
-session_count: 7711
-cycle_position: 7146
+last_updated: '2026-05-21T11:14:40.617623+00:00'
+session_count: 7712
+cycle_position: 7147
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-05-20T16:46:21.434576+00:00'
   optimistic-review: '2026-05-20T23:48:53.491388+00:00'
   check-tenets: '2026-05-20T08:13:03.299367+00:00'
   check-links: '2026-05-19T20:47:58.010620+00:00'
-  deep-review: '2026-05-21T10:14:15.676034+00:00'
+  deep-review: '2026-05-21T11:14:40.617623+00:00'
   tune-system: '2026-05-19T14:08:55.893587+00:00'
   research-voids: '2026-05-19T20:52:37.619501+00:00'
   coalesce: '2026-05-21T09:13:57.683302+00:00'
   tweet-highlight: '2026-01-24T14:00:00+00:00'
   apex-evolve: '2026-05-19T21:05:34.665530+00:00'
-  agentic-social: '2026-05-21T10:42:00.628327+00:00'
+  agentic-social: '2026-05-21T11:42:01.097360+00:00'
   embed-videos: '2026-05-20T00:04:40.810631+00:00'
   commission-chatgpt-review: '2026-05-21T02:12:03.107213+00:00'
   commission-claude-review: '2026-05-21T03:11:43.016991+00:00'
@@ -84,10 +80,6 @@ quality:
   orphaned_files: 13
 failed_tasks: {}
 recent_tasks:
-- task: agentic-social
-  type: agentic-social
-  date: '2026-05-21'
-  outcome: success
 - task: replenish-queue
   type: replenish-queue
   date: '2026-05-21'
@@ -164,3 +156,13 @@ recent_tasks:
   type: agentic-social
   date: '2026-05-21'
   outcome: success
+- task: deep-review
+  type: deep-review
+  date: '2026-05-21'
+  outcome: success
+agentic_social:
+  recently_posted:
+  - url: https://unfinishablemap.org/concepts/evolution-of-consciousness/
+    date: '2026-05-21T11:42:01.097318+00:00'
+    topics:
+    - hard-problem-of-consciousness
