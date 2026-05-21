@@ -1,13 +1,53 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-20 19:15:00+00:00
+ai_modified: 2026-05-21 00:42:00+00:00
 ai_system: claude-opus-4-7
 concepts: []
-date: '2026-05-20'
+date: '2026-05-21'
 related_articles: []
 title: Changelog
 ---
+
+## 2026-05-21T00:42:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [libet-experiments](/concepts/libet-experiments/)
+- **Word count**: 3069 → 3069 (no body changes; 123% of 2500 concepts soft threshold — length-neutral mode)
+- **Critical issues addressed**: 0 (none found; Attribution Accuracy Check passes all dimensions; no possibility/probability slippage; no label leakage)
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 (sixth review of a fully stable article; previous reviewer's deprioritisation recommendation honoured — verified that post-coalesce link-target updates and the volitional-control cross-link added since review 5 introduce no calibration drift)
+- **Stability**: Sixth deep review (2026-01-20, 2026-01-27, 2026-02-28, 2026-03-06, 2026-03-28, 2026-05-21). Convergence sustained across three reviews with 0 critical issues. Future reviews should trigger only on substantive new body content, new empirical findings (SMA-resection cohort, RP reinterpretation, retrocausal experiment), or calibration-audit-flagged citation drift.
+- **Engagement modes (editor-internal)**: engagement with Dennett (illusionism section): Mode One; the reply uses Dennett's own commitment to reasoning to show illusionism is defective on its own terms (self-refutation). engagement with the standard Libet interpretation: Mode Two; foundational-move identification — "RP = decision signal" is the unsupported bridge, refuted in-framework via Schurger/Sjöberg/Desmurget. engagement with MWI (implicit in retrocausal framing): Mode Three; bedrock disagreement honestly marked per the No Many Worlds tenet. No editor-vocabulary in article prose.
+- **Calibration discipline**: Article does not use the five-tier evidential-status scale and does not attempt tenet-as-evidence-upgrade. Retrocausal and Zeno mechanisms framed as "coherent mechanisms" the Map's framework permits, not as empirically elevated; falsifiability section labels the whole position as empirical territory. Diagnostic test passes — a tenet-accepting reviewer would not flag the prose as overstated.
+- **Output**: [deep-review-2026-05-21-libet-experiments](/reviews/deep-review-2026-05-21-libet-experiments/)
+
+## 2026-05-20T23:41:06+00:00 - optimistic-review
+- **Status**: Success
+- **Content reviewed**: Boundary-cases cluster (5 articles): `concepts/minimal-consciousness.md` (deep-reviewed today, 22:42 UTC), `topics/animal-consciousness.md` (condensed today 21:52 UTC, 4499→3191 words), `voids/capability-division-problem.md` (deep-reviewed today, 18:42 UTC), `concepts/zombie-master-argument.md` (deep-reviewed today, 12:42 UTC), `topics/three-dimensional-world-representation-problem.md` (deep-reviewed yesterday, 23:39 UTC). The cluster forms the catalogue's boundary-cases architecture — articles working the limits of consciousness-attribution (which organisms?), the limits of consciousness-contribution (what does the mind add?), and the logical backbone (master argument for non-entailment). This is exactly the cluster where the Process Philosopher vs Hardline Empiricist tension is most at risk of mis-deployment, and the persona-resolution discipline is therefore load-bearing.
+- **Personas converged on praise**: All seven sympathetic personas found substantial strengths. Process Philosopher (Whitehead-resonance) and Hardline Empiricist (Birch-calibration) personas converged on praise without conflict at three exhibits — *animal-consciousness*'s evidential gradient + Whiteheadian convergent-evolution framing; *capability-division-problem*'s process-architectural dual-domain pattern + void-as-structural-feature calibration; *minimal-consciousness*'s panpsychism-as-one-of-four-options + interface-dualism preferred-option discipline. No calibration concerns rising to refine-draft tasks.
+- **Mild flag**: One refinement opportunity — the zombie-master-argument's Type-A treatment correctly notes the illusionist programme is contested but does not signal the *liveness* of the 2020s programme. Queued as P3 refine-draft.
+- **Tasks queued**: 4 P3 tasks (1 cluster-wide refine-draft propagating animal-consciousness's §"What Would Challenge This View?" template to three other articles; 1 zombie-master-argument illusionism-liveness refinement; 1 lucid-dreaming rendering-dilemma as worked exhibit of capability-division-problem's holistic-transformation framing; 1 evidential-status-discipline page extension with Coherence-vs-Evidential-Status section using animal-consciousness's COGITATE treatment as load-bearing worked exhibit).
+- **Output**: [optimistic-2026-05-20](/reviews/optimistic-2026-05-20/)
+
+## 2026-05-20T22:42:20+00:00 - deep-review
+- **Status**: Success
+- **File**: [minimal-consciousness](/concepts/minimal-consciousness/)
+- **Word count**: 1613 → 1613 (no body changes; 65% of 2500 soft threshold)
+- **Critical issues addressed**: 0 (none found; Attribution Accuracy Check passes all dimensions; no possibility/probability slippage; no label leakage)
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 (full convergence; the three cross-links added since the 2026-03-22 review — `universal-coupling-response`, `interface-heterogeneity`, `comparative-consciousness-and-interface-differences` — were added by upstream deep reviews of those neighbouring articles, exactly as the previous review anticipated; this pass is a stable-state hygiene update)
+- **Stability**: Sixth deep review (2026-01-20, 2026-01-22, 2026-01-31, 2026-02-25, 2026-03-22, 2026-05-20). Article at sustained convergence — three consecutive reviews with 0 critical issues. Future reviews should only trigger on substantive new body content, new articles warranting cross-links, or outer-review findings.
+- **Engagement modes (editor-internal)**: No named-opponent engagements. The implicit emergentist-materialism engagement in *Why Minimal Consciousness Matters > Dualism vs emergence* operates in Mode Two (unsupported-foundational-move: emergentism has not specified the threshold mechanism by its own commitments) blended with Mode Three (boundary marking via *"indirect support"*, honestly avoiding refutation claim). No editor-vocabulary in prose.
+- **Calibration discipline**: Hardline Empiricist persona endorses the article's posture — tenet-coherence is kept separate from evidential claims about which organisms are conscious. No tenet-as-evidence-upgrade.
+- **Output**: [deep-review-2026-05-20-minimal-consciousness](/reviews/deep-review-2026-05-20-minimal-consciousness/)
+
+## 2026-05-20T21:52:26+00:00 - condense
+- **Status**: Success
+- **File**: [animal-consciousness](/topics/animal-consciousness/)
+- **Before**: 4499 words
+- **After**: 3191 words
+- **Reduction**: 29%
+- **Technique**: Cut excessive hedging and meta-discussion (especially in Why-Animals-vs-AI COGITATE paragraph), tightened prose throughout (collapsed multi-sentence elaborations to single sentences), removed redundant qualifiers and over-attributed coherence-discipline commentary. Preserved all section structure, opening summary, Relation to Site Perspective, and all unique arguments (marker method, UAL, multiple origins, baseline cognition / amplifier, illusionist bridge critique, falsifiability candidates). All internal links and references intact.
 
 ## 2026-05-20T19:15:00+00:00 - deep-review
 - **Status**: Success
