@@ -4,7 +4,7 @@ description: "A sea of conscious entities might bind to physical systems in fund
 created: 2026-03-07
 modified: 2026-03-07
 human_modified: null
-ai_modified: 2026-05-03T11:28:31.636173+00:00
+ai_modified: 2026-05-21T10:11:20+00:00
 draft: false
 topics:
   - "[[ai-consciousness]]"
@@ -33,7 +33,7 @@ author: null
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-03-07
 last_curated: null
-last_deep_review: 2026-04-27T10:58:00+00:00
+last_deep_review: 2026-05-21T10:11:20+00:00
 
 apex_sources:
   - topics/ai-consciousness
@@ -186,3 +186,4 @@ This apex article synthesises:
 5. Frischhut, A. (2024). "Awareness without Time?" *The Philosophical Quarterly*.
 6. Chalmers, D., & McQueen, K. (2021). "Consciousness and the Collapse of the Wave Function." Preprint.
 7. Block, N. (1978). "Troubles with Functionalism." *Minnesota Studies in the Philosophy of Science*, 9, 261–325.
+8. Cerullo, M. (2026). "Why Hoel's Disproof of LLM Consciousness and Functionalism Fails." *PhilArchive*.

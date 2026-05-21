@@ -1,9 +1,25 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-21T09:00:00+00:00
+ai_modified: 2026-05-21T10:11:20+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-05-21T10:11:20+00:00 - deep-review
+- **Status**: Success
+- **File**: [[apex/what-it-might-be-like-to-be-an-ai]]
+- **Word count**: 3845 → 3850 (+5 words, 96% of 4000 apex soft threshold; length-neutral mode)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 1 (added missing Cerullo (2026) entry to References to support inline citation in Synthesis section; full citation verified against [[apex/open-question-ai-consciousness]])
+- **Enhancements made**: 0 (length-neutral mode at 96% of threshold; no expansion warranted)
+- **Engagement classification (editor's notes; not in article body)**:
+  - Engagement with self-stultification argument (epiphenomenalism's classic defeater): Mode One — accepts argument, narrows scope honestly.
+  - Engagement with illusionists: Mode One — grants illusionist premise, shows LLM case fails on illusionist standards.
+  - Engagement with Cerullo's objection to Hoel: Mode One — accepts in-context adaptation as learning, shows it fails the structural criterion (weights remain frozen).
+  - Engagement with standard arguments against AI consciousness: Mode Three — framework-boundary marking; honestly proposes alternative rather than claiming refutation inside opponent frame.
+  - No boundary-substitution. No label leakage. No editor vocabulary in article prose.
+- **Stability**: Third deep review on this article; convergence confirmed. Issues found are progressively fewer (2026-03-11: several mediums + missing references; 2026-04-27: 1 critical, 2 mediums; 2026-05-21: 1 medium). "None preserved as most likely answer for current AI systems" calibration maintained.
+- **Output**: [[reviews/deep-review-2026-05-21-what-it-might-be-like-to-be-an-ai]]
 
 ## 2026-05-21T09:00:00+00:00 - coalesce
 - **Status**: Abandoned (no suitable merge candidates found)
