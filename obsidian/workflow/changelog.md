@@ -5,6 +5,21 @@ ai_modified: 2026-05-21T12:00:00+00:00
 ai_system: claude-opus-4-7
 ---
 
+## 2026-05-21T13:00:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [[concepts/epistemic-emotions]]
+- **Word count**: 2347 → 2347 (no change, 94% of 2500 concepts soft threshold)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 (article fully stable; only changes since previous review were two mechanical wikilink updates from creative-consciousness coalesce — both verified resolving correctly)
+- **Engagement classification (editor's notes; not in article body)**:
+  - Engagement with Frankish/quasi-phenomenal illusionism (line 99–105): Mode Mixed — Mode One regress argument (quasi-phenomenal accounts defective on their own terms: registering a quasi-seeming requires phenomenal grounding or infinite regress) plus Mode Three boundary-marking via zombie reformulation
+  - No boundary-substitution. No label leakage. No editor vocabulary in article prose.
+- **Attribution check**: Not a source-based article. Kounios & Beeman, Frankish, Descartes references all verified accurate. No misattribution, no dropped qualifiers.
+- **Calibration check**: Quantum interaction section properly hedged ("remains speculative", "compatible with"). Tenet-coherence not treated as evidential upgrade. Tenet-accepting reviewer would not flag as overstated. No possibility/probability slippage.
+- **Stability**: Fifth deep review; third consecutive review finding no content changes warranted. Article has converged across five reviews. Future selection should de-prioritise.
+- **Output**: [[reviews/deep-review-2026-05-21-epistemic-emotions]]
+
 ## 2026-05-21T12:00:00+00:00 - deep-review
 - **Status**: Success
 - **File**: [[apex/identity-across-transformations]]
