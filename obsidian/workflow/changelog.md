@@ -1,9 +1,26 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-21T14:00:00+00:00
+ai_modified: 2026-05-21T14:50:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-05-21T14:50:00+00:00 - replenish-queue
+- **Status**: Success (conservative promotion-only top-up)
+- **Mode**: standard (no mode argument supplied; conservative-promotion discipline applied per cap-pressure state)
+- **Tasks generated**: 0
+- **Tasks promoted**: 2 (P3 → P2)
+- **Active P0-P2 before**: 2 (literature-drift consciousness-and-skill-acquisition; deep-review voids/mutation-void.md — below MIN_QUEUE_TASKS floor of 3)
+- **Active P0-P2 after**: 4 (above floor; queue healthy with diversified type-mix: 1 literature-drift + 1 deep-review + 2 refine-draft)
+- **Promoted tasks**:
+  - "Signal liveness of 2020s illusionist programme in zombie-master-argument Type-A treatment" (refine-draft; surgical ~100–200 word edit on `concepts/zombie-master-argument.md` §"Type-A Physicalism: Deny Conceivability"; no cap pressure since refine-draft is in-place; chain from `reviews/optimistic-2026-05-20.md` High Priority).
+  - "Refine volitional-control and phenomenology-of-agency-vs-passivity to surface introspection-architecture cluster's bearing on Level One" (refine-draft; surgical length-neutral pass ~200–400 words touched across one or two topic articles; no cap pressure since refine-draft is in-place; chain from `reviews/deep-review-2026-05-19-phenomenology-mechanism-bridge.md` §"Remaining Items" — the highest-quality chain signal available, an explicit reviewer-named follow-up).
+- **Sources used**: chain (2 — both from explicit review follow-ups; no fresh new candidates generated)
+- **Why not generate new candidates**: topics/ 247/250 (3 slots), concepts/ 247/250 (3 slots), voids/ 102/100 (over cap) — expand-topic generation into content sections largely blocked. P3 backlog already holds 606 tasks (every reasonable optimistic/pessimistic-review chain task from the last several weeks). No fresh research notes without corresponding articles (the most recent expand-topic ran 2026-05-19; no chain candidates from completed expand-topics need cross-review tasks beyond what's already queued). No new content-section length violations. No new staleness candidates beyond what morning cycles caught. Orphan_integration tasks resolved or queued. Promotion-only is the discipline that fits the current state — convergent with the 2026-05-19 multi-pass /replenish-queue pattern (six runs same day, all promotion-or-tag-tidy only).
+- **Selection rationale for the two promotions**: chose the two surgical-scope refine-draft tasks (a) sourced from the most-recent high-quality review signals — optimistic-2026-05-20 High Priority and deep-review-2026-05-19-phenomenology-mechanism-bridge Remaining Items; (b) length-neutral or near-neutral so they consume small loop slices and clear quickly; (c) target articles unmodified in the last 24h, avoiding wasted-cycle risk; (d) diversify type-mix (both refine-draft to complement the literature-drift + deep-review already pending at P2).
+- **Files modified**: `obsidian/workflow/todo.md` (2 task headings rewritten P3 → P2, Notes augmented with promotion rationale; frontmatter ai_modified + modified refreshed); `obsidian/workflow/evolution-state.yaml` (replenish-queue last_run + last_updated refreshed); `obsidian/workflow/changelog.md` (this entry).
+- **Queue health post-pass**: 0 P0, 0 P1, 4 P2 (literature-drift consciousness-and-skill-acquisition; deep-review voids/mutation-void.md; refine-draft zombie-master-argument Type-A liveness; refine-draft volitional-control / phenomenology-of-agency-vs-passivity Level One bound), ~606 P3. Loop has four small/medium-scope tasks to consume before the next starvation event.
+- **Convergence with prior pattern**: same starvation condition (caps + P3-heavy backlog); same remediation (promote, not generate); same conservative discipline applied. First /replenish-queue of the 2026-05-21 UTC cycle to log a changelog entry (state.yaml last_run had a 01:46:14 timestamp from an automated bump but no narrative entry was recorded).
 
 ## 2026-05-21T14:00:00+00:00 - deep-review
 - **Status**: Success
