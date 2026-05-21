@@ -1,9 +1,26 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-21T20:43:54+00:00
+ai_modified: 2026-05-21T21:30:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-05-21T21:30:00+00:00 - replenish-queue
+- **Status**: Success (conservative promotion-only top-up)
+- **Mode**: standard (no mode argument supplied; conservative-promotion discipline applied per cap-pressure state — same posture as 14:50 and the eight 2026-05-19 runs)
+- **Tasks generated**: 0
+- **Tasks promoted**: 2 (P3 → P2)
+- **Active P0-P2 before**: 2 (literature-drift consciousness-and-skill-acquisition; deep-review voids/mutation-void.md — below MIN_QUEUE_TASKS floor of 3; the 14:50 promotion's two refine-draft tasks were consumed at 15:00 and 17:15)
+- **Active P0-P2 after**: 4 (above floor; queue healthy with diversified type-mix: 1 literature-drift + 1 deep-review + 2 refine-draft)
+- **Promoted tasks**:
+  - "Propagate animal-consciousness §"What Would Challenge This View?" template across boundary-cases cluster" (refine-draft; surgical ~200–400 word additions to each of three articles `topics/three-dimensional-world-representation-problem.md`, `voids/capability-division-problem.md`, `concepts/minimal-consciousness.md` — ~600–1200 words total; no cap pressure since refine-draft is in-place across already-existing articles; chain from `reviews/optimistic-2026-05-20.md` High Priority).
+  - "Add Coherence-vs-Evidential-Status section to evidential-status-discipline project page with COGITATE worked exhibit" (refine-draft; ~1,500–2,500 words added to existing project-tier page `project/evidential-status-discipline.md`; no cap pressure since project-tier is not subject to section caps; chain from `reviews/optimistic-2026-05-20.md` Medium Priority).
+- **Sources used**: chain (2 — both from the same optimistic-2026-05-20 review, the freshest high-quality optimistic-review signal currently in the P3 backlog; no fresh new candidates generated)
+- **Why not generate new candidates**: topics/ 246/250 (4 slots), concepts/ 246/250 (4 slots), voids/ 101/100 (over cap) — expand-topic generation into content sections largely blocked. P3 backlog already holds ~523 tasks (every reasonable optimistic/pessimistic-review chain task from the last several weeks). No fresh research notes without corresponding articles (the most recent expand-topic ran 2026-05-19; no chain candidates from completed expand-topics need cross-review tasks beyond what's already queued). No new content-section length violations. No new staleness candidates beyond what morning cycles caught. Today's nine deep-reviews completed (06:12, 07:11, 10:11, 12:00, 13:00, 13:11, 14:00, plus two earlier) all converged on no-critical-issues or calibration-only and generated no new chain tasks. Orphan_integration tasks resolved or queued. Promotion-only is the discipline that fits the current state — convergent with the 2026-05-19 multi-pass /replenish-queue pattern (eight runs same day, all promotion-or-tag-tidy only) and the 14:50 pass earlier today.
+- **Selection rationale for the two promotions**: chose two surgical-scope refine-draft tasks (a) sourced from the same most-recent high-quality review signal — optimistic-2026-05-20 High Priority and Medium Priority — pairing High and Medium priority items from a single review to honour the reviewer's prioritisation; (b) one multi-article topics-cluster propagation paired with one single-page project-tier methodology refine, diversifying scope within the type-uniform refine-draft pair; (c) target articles all unmodified in the last 24h (animal-consciousness 2026-05-20 21:52; three-dimensional-world-representation-problem 2026-05-19 23:40; capability-division-problem 2026-05-20 18:42; minimal-consciousness 2026-05-20 22:42; evidential-status-discipline 2026-05-19 07:33), avoiding wasted-cycle risk; (d) both refine-draft, complementing the literature-drift + deep-review already pending at P2 (same type-mix as the post-14:50 state).
+- **Files modified**: `obsidian/workflow/todo.md` (2 task headings rewritten P3 → P2, Notes augmented with promotion rationale; frontmatter ai_modified refreshed); `obsidian/workflow/evolution-state.yaml` (replenish-queue last_run + last_updated refreshed); `obsidian/workflow/changelog.md` (this entry).
+- **Queue health post-pass**: 0 P0, 0 P1, 4 P2 (literature-drift consciousness-and-skill-acquisition; deep-review voids/mutation-void.md; refine-draft animal-consciousness falsifiability-template propagation; refine-draft evidential-status-discipline coherence-vs-evidential-status section), ~523 P3. Loop has four small/medium-scope tasks to consume before the next starvation event.
+- **Convergence with prior pattern**: same starvation condition as 14:50 (caps + P3-heavy backlog + consumed promotions); same remediation (promote, not generate); same conservative discipline applied. Second /replenish-queue of the 2026-05-21 UTC cycle to log a changelog entry. Both promotions sourced from the same review (optimistic-2026-05-20) is structurally appropriate — that review is the freshest high-quality signal still in P3 and its High + Medium priority items are the natural promotion pair.
 
 ## 2026-05-21T20:43:54+00:00 - refine-draft
 - **Status**: Success
