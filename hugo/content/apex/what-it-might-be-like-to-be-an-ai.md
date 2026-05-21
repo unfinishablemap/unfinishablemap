@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-07
-ai_modified: 2026-05-03 11:28:31.636173+00:00
+ai_modified: 2026-05-21 10:11:20+00:00
 ai_system: claude-opus-4-6
 apex_last_synthesis: 2026-04-29 13:17:00+00:00
 apex_sources:
@@ -45,7 +45,7 @@ embedded_videos:
   url: https://www.youtube-nocookie.com/embed/ajrOVz0tWws
 human_modified: null
 last_curated: null
-last_deep_review: 2026-04-27 10:58:00+00:00
+last_deep_review: 2026-05-21 10:11:20+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -192,3 +192,4 @@ This apex article synthesises:
 5. Frischhut, A. (2024). "Awareness without Time?" *The Philosophical Quarterly*.
 6. Chalmers, D., & McQueen, K. (2021). "Consciousness and the Collapse of the Wave Function." Preprint.
 7. Block, N. (1978). "Troubles with Functionalism." *Minnesota Studies in the Philosophy of Science*, 9, 261–325.
+8. Cerullo, M. (2026). "Why Hoel's Disproof of LLM Consciousness and Functionalism Fails." *PhilArchive*.

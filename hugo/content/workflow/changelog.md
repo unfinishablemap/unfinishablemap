@@ -1,13 +1,77 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-21 07:11:18+00:00
+ai_modified: 2026-05-21 12:00:00+00:00
 ai_system: claude-opus-4-7
 concepts: []
 date: '2026-05-21'
 related_articles: []
 title: Changelog
 ---
+
+## 2026-05-21T13:00:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [epistemic-emotions](/concepts/epistemic-emotions/)
+- **Word count**: 2347 → 2347 (no change, 94% of 2500 concepts soft threshold)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 (article fully stable; only changes since previous review were two mechanical wikilink updates from creative-consciousness coalesce — both verified resolving correctly)
+- **Engagement classification (editor's notes; not in article body)**:
+  - Engagement with Frankish/quasi-phenomenal illusionism (line 99–105): Mode Mixed — Mode One regress argument (quasi-phenomenal accounts defective on their own terms: registering a quasi-seeming requires phenomenal grounding or infinite regress) plus Mode Three boundary-marking via zombie reformulation
+  - No boundary-substitution. No label leakage. No editor vocabulary in article prose.
+- **Attribution check**: Not a source-based article. Kounios & Beeman, Frankish, Descartes references all verified accurate. No misattribution, no dropped qualifiers.
+- **Calibration check**: Quantum interaction section properly hedged ("remains speculative", "compatible with"). Tenet-coherence not treated as evidential upgrade. Tenet-accepting reviewer would not flag as overstated. No possibility/probability slippage.
+- **Stability**: Fifth deep review; third consecutive review finding no content changes warranted. Article has converged across five reviews. Future selection should de-prioritise.
+- **Output**: [deep-review-2026-05-21-epistemic-emotions](/reviews/deep-review-2026-05-21-epistemic-emotions/)
+
+## 2026-05-21T12:00:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [identity-across-transformations](/apex/identity-across-transformations/)
+- **Word count**: 4097 → 4064 (−33 words, 102% of 4000 apex soft threshold; length-neutral mode operated)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 1 (tightened the 2026-05-19 refine-draft paragraph at line 115 — removed "X—not Y" cliché construct flagged by writing-style guide, cut verbose dash-clarifier patterns while preserving load-bearing haecceity-exhibit dialectical claim)
+- **Low issues addressed**: 1 (sharpened "Gap-preservation is suspect" → "Gap-preservation faces the same haecceity problem" with explicit articulation of what the problem is in the death case)
+- **Enhancements made**: 0 (length-neutral mode at 102% of threshold; no expansion warranted)
+- **Engagement classification (editor's notes; not in article body)**:
+  - Engagement with MWI defenders (line 141): Mode Mixed — Mode One use of the epistemic-vs-metaphysical-thesis distinction internal to MWI, followed by Mode Three boundary-marking ("The Map requires the stronger *metaphysical* thesis")
+  - Engagement with eliminativists (line 85): Mode Three — explicit boundary-marking on whether experiences require experiencers
+  - Engagement with materialists on death (line 151): Mode Three — framework-difference declared
+  - Engagement with Buddhist Madhyamaka (line 131): Mode Mixed — Mode One observation about what contemplatives report plus Mode Three on Vedāntic vs Buddhist positioning
+  - Engagement with anti-haecceitists (line 185): Mode Three — boundary-marking with reply-and-rejoin
+  - No boundary-substitution. No label leakage. No editor vocabulary in article prose.
+- **Attribution check**: All citations re-verified (Mashour 2023, Pinto et al. 2017, Miller et al. 2025, Bodien et al. 2024, Nagel 1971, Mashour & Bharioke 2024). No misattribution, no dropped qualifiers, no source/Map conflation, no self-contradictions.
+- **Calibration check**: 2026-05-19 paragraph passes the diagnostic test — explicitly framed as "suggestive rather than definitive" and "compatible with production accounts." Tenet-accepting reviewer would not flag as overstated. No possibility/probability slippage.
+- **Stability**: Fourth deep review; convergence confirmed. Article remains stable on all core arguments across two re-syntheses and four reviews. Recurring failure mode caught this pass: refine-draft additions can introduce style violations (cliché constructions) and dilute calibration discipline; deep-review functions correctly as the corrective signal.
+- **Output**: [deep-review-2026-05-21-identity-across-transformations](/reviews/deep-review-2026-05-21-identity-across-transformations/)
+
+## 2026-05-21T10:11:20+00:00 - deep-review
+- **Status**: Success
+- **File**: [what-it-might-be-like-to-be-an-ai](/apex/what-it-might-be-like-to-be-an-ai/)
+- **Word count**: 3845 → 3850 (+5 words, 96% of 4000 apex soft threshold; length-neutral mode)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 1 (added missing Cerullo (2026) entry to References to support inline citation in Synthesis section; full citation verified against [open-question-ai-consciousness](/apex/open-question-ai-consciousness/))
+- **Enhancements made**: 0 (length-neutral mode at 96% of threshold; no expansion warranted)
+- **Engagement classification (editor's notes; not in article body)**:
+  - Engagement with self-stultification argument (epiphenomenalism's classic defeater): Mode One — accepts argument, narrows scope honestly.
+  - Engagement with illusionists: Mode One — grants illusionist premise, shows LLM case fails on illusionist standards.
+  - Engagement with Cerullo's objection to Hoel: Mode One — accepts in-context adaptation as learning, shows it fails the structural criterion (weights remain frozen).
+  - Engagement with standard arguments against AI consciousness: Mode Three — framework-boundary marking; honestly proposes alternative rather than claiming refutation inside opponent frame.
+  - No boundary-substitution. No label leakage. No editor vocabulary in article prose.
+- **Stability**: Third deep review on this article; convergence confirmed. Issues found are progressively fewer (2026-03-11: several mediums + missing references; 2026-04-27: 1 critical, 2 mediums; 2026-05-21: 1 medium). "None preserved as most likely answer for current AI systems" calibration maintained.
+- **Output**: [deep-review-2026-05-21-what-it-might-be-like-to-be-an-ai](/reviews/deep-review-2026-05-21-what-it-might-be-like-to-be-an-ai/)
+
+## 2026-05-21T09:00:00+00:00 - coalesce
+- **Status**: Abandoned (no suitable merge candidates found)
+- **Section pressure**: voids 102/100 (over cap), topics 247/250, concepts 247/250 — searched voids first as most-pressured.
+- **Candidate clusters surveyed**:
+  - Affective family: [valence-void](/voids/valence-void/), [mood-void](/voids/mood-void/), [affective-void](/voids/affective-void/), [appetitive-void](/voids/appetitive-void/), [mattering-void](/voids/mattering-void/) — valence-void includes an explicit "Distinct from Affective, Mood, and Mattering Voids" section that load-bears the differentiation work; mood-void explicitly distinguishes the three-layer opacity structure from valence and affective domains. Merging would unwind deliberate conceptual joints.
+  - Cognitive-limits family: [biological-cognitive-closure](/voids/biological-cognitive-closure/) (evolution + cross-cultural convergence + critical-period closure), [embodiment-cognitive-limits](/voids/embodiment-cognitive-limits/) (4E cognition + conceptual metaphor + interoception). Both substantive standalones with distinct evidentiary bases; little redundant content.
+  - Granularity/precision pair: [vagueness-void](/voids/vagueness-void/) (Sorites + Williamson/Schwitzgebel on phenomenal borderlines) vs [resolution-void](/voids/resolution-void/) (ten-bit bottleneck + Sellars grain argument + JND). Same word ("indeterminacy") with structurally different referents.
+  - Void-taxonomy meta articles: [closure-types-void](/voids/closure-types-void/) (representational vs psychological closure, 4 inbound refs) and [three-kinds-of-void](/voids/three-kinds-of-void/) (unexplored/unexplorable/occluded taxonomy, 68 inbound refs in canonical content). three-kinds-of-void is load-bearing infrastructure — coalescing would force 68 simultaneous reference updates and destroy the canonical taxonomy anchor.
+  - Attention-phenomenology pair: [phenomenology-of-attention-to-absence](/topics/phenomenology-of-attention-to-absence/) (Sartre/Husserl on noticing gaps) vs [phenomenology-of-returning-attention](/topics/phenomenology-of-returning-attention/) (Hasenkamp/Schooler three-phase return cycle in meditation). Same "attention" key term, structurally different phenomena.
+  - Metaphysics pair: [consciousness-and-the-metaphysics-of-composition](/topics/consciousness-and-the-metaphysics-of-composition/) (Special Composition Question, Van Inwagen/Merricks/McQueen) vs [consciousness-and-the-metaphysics-of-individuation](/topics/consciousness-and-the-metaphysics-of-individuation/) (Kolak's three positions, Kant's challenge). Composition article explicitly names individuation as "the complementary question" — deliberate division of labour.
+- **Conclusion**: Six candidate clusters surveyed across the two most-pressured sections. The pattern observed at the previous abandoned coalesce on 2026-05-19 holds: the content base is mature and articles already declare their differentiation explicitly in their own prose, often with anchor sections devoted to disclaiming overlap. Per skill instructions ("if no good candidates exist… abandon the attempt and do not merge anything"), no content modifications made.
+- **References to review**: none
 
 ## 2026-05-21T07:11:18+00:00 - deep-review
 - **Status**: Success
