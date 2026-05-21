@@ -1,9 +1,21 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-21T00:55:00+00:00
+ai_modified: 2026-05-21T06:12:26+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-05-21T06:12:26+00:00 - deep-review
+- **Status**: Success
+- **File**: [[topics/consciousness-and-collective-phenomena]]
+- **Word count**: 3235 → 3235 (no body changes; 108% of 3000 topics soft threshold — length-neutral mode)
+- **Critical issues addressed**: 0 (none found; Attribution Accuracy Check passes all dimensions; no possibility/probability slippage; no label leakage; no boundary substitution)
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 (fifth review; previous reviewer's recommendation to defer further reviews unless substantively modified honoured — verified that the 2026-04-18 wikilink retarget commit b5cbfd988 (`[[intersubjective-void]]`/`[[other-minds-void]]` → `[[voids-between-minds]]`) introduced no calibration drift or content changes)
+- **Stability**: Fifth deep review (2026-03-10, 2026-03-12, 2026-04-03, 2026-04-04, 2026-05-21). Three consecutive reviews with 0 critical issues. Article has reached sustained convergent stability. Future reviews should trigger only on substantive new body content, an outer review specifically flagging this article, a tenet revision affecting the five tenet-connection paragraphs, or `/literature-drift-review` flagging citation drift.
+- **Engagement modes (editor-internal)**: engagement with functionalism on normativity: Mode Two — unsupported foundational move; "functional accounts capture the structure of obligation while losing its force" invokes the functionalist's own commitment to functional sufficiency. engagement with the classical success objection: Mode One — defective on its own terms; argues internally that the objection conflates intelligence and consciousness, citing ant-colony intelligence-without-consciousness as in-framework refutation. engagement with Durkheim/Hegel/IIT group-consciousness proposals: Mixed — Mode One/Two via combination-problem-in-reverse and interface-problem; Mode Three via phenomenological-evidence absence. engagement with MWI defenders (in tenet section): Mode Three — bedrock disagreement honestly marked at the tenet boundary. No editor-vocabulary in article prose.
+- **Calibration discipline**: Article uses appropriate hedges throughout — "may require," "remains open," "suggests" — for empirical claims about ape consciousness, AI systems sustaining institutional reality, and the link between we-mode phenomenology and quantum-sensitive substrates. No tenet-as-evidence-upgrade move attempted; the "consciousness contributes comprehension not computation" claim is framed as a Map commitment, not as empirically elevated. Diagnostic test passes — a tenet-accepting reviewer would not flag any claim as overstated relative to the five-tier evidential scale. Hardline Empiricist persona would praise the restraint.
+- **Output**: [[reviews/deep-review-2026-05-21-consciousness-and-collective-phenomena]]
 
 ## 2026-05-21T00:55:00+00:00 - deep-review
 - **Status**: Success
