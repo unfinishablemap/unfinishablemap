@@ -5,6 +5,20 @@ ai_modified: 2026-05-21T15:00:00+00:00
 ai_system: claude-opus-4-7
 ---
 
+## 2026-05-21T17:15:00+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[topics/phenomenology-of-agency-vs-passivity]]
+- **Original score**: not re-scored (article was deep-reviewed 2026-04-27, refined 2026-05-19; this is a chain-of-care follow-up from `reviews/deep-review-2026-05-19-phenomenology-mechanism-bridge.md` §"Remaining Items")
+- **Scope**: Surgical single-paragraph insert in §"What the Contrast Reveals → Against Epiphenomenalism", positioned immediately after the existing verification-circularity paragraph. Length-near-neutral pass (~263 words added; article remains comfortably within length discipline at ~3260 words). No structural change; argument unchanged.
+- **Changes**:
+  - Installed one paragraph registering the bound the [[apex/introspection-architecture-void-cluster|introspection-architecture void cluster]] places on the phenomenology-of-agency datum's reliability. The paragraph names: the five reconstruction-mechanism faces; the [[concepts/discrimination-problem]] as the operative sharpening; [[concepts/anti-correlated-metacognitive-signal]] (Coutinho 2021) as the deceptive-regime finding that strengthens the bound further; [[project/per-cluster-independence-scoring]] as the methodology that licenses the datum's anchoring role despite the bound; [[project/evidential-status-discipline]] as the rule the calibration honours.
+  - Honoured [[project/evidential-status-discipline]]: framed the bound as a *calibration* on the phenomenal datum, not a refutation. The agency-passivity contrast remains an empirically tractable observation with reliability *bounded* rather than eliminated. Explicit language: "*calibration* on the datum, not a refutation of it"; the contrast "can anchor empirical work; the anchoring is by per-cluster independence scoring of the dissociations and implicit measures, not by introspective vividness alone."
+  - Added 5 new entries to `related_articles`: `apex/introspection-architecture-void-cluster`, `concepts/anti-correlated-metacognitive-signal`, `concepts/discrimination-problem`, `project/per-cluster-independence-scoring`, `project/evidential-status-discipline`.
+- **Selection rationale**: Chose `phenomenology-of-agency-vs-passivity.md` over `volitional-control.md` because Level One of the phenomenology-mechanism-bridge apex is specifically the phenomenology-of-agency-as-datum anchor; this article is the canonical statement of that datum, and already contained the verification-circularity acknowledgement (paragraph immediately preceding the insert) which is the natural calibration spot. The new paragraph extends that existing structural-limitation register with the sharper, more recent bound the introspection-architecture cluster supplies.
+- **Engagement-mode classification (editor-internal)**: Not applicable — this refine adds a calibration paragraph; no named-opponent engagement was introduced or modified. The existing engagements with epiphenomenalism and illusionism remain unchanged.
+- **Writing-style discipline**: No `<!-- AI REFINEMENT LOG -->` block added (per the CLAUDE.md / refine-draft Section 8 prohibition). No "This is not X. It is Y." constructs. No editor-vocabulary leaked into prose. The "calibration / not a refutation" phrasing follows the writing-style guide's "Evidential Calibration in Articles" pattern. The introspection-architecture cluster's discipline pages are cross-linked in the natural-language form, not as bold-headed callouts.
+- **Published**: yes
+
 ## 2026-05-21T15:00:00+00:00 - refine-draft
 - **Status**: Success
 - **File**: [[concepts/zombie-master-argument]]
