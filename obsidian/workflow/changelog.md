@@ -1,9 +1,27 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-21T13:11:22+00:00
+ai_modified: 2026-05-21T14:00:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-05-21T14:00:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [[apex/minds-without-words]]
+- **Word count**: 3812 → 3827 (+15, 96% of 4000 apex soft threshold; length-neutral mode honoured)
+- **Critical issues addressed**: 1 (NY Declaration signatory count inflation "over 500" → "hundreds"; restored declaration's own tier language "strong scientific support" vs "at least a realistic possibility")
+- **Medium issues addressed**: 0
+- **Enhancements made**: 1 (calibration correction with tier-distinction restoration)
+- **Engagement classification (editor's notes; not in article body)**:
+  - Engagement with Gutfreund (Standing Agnostic Challenge): Mode Three — framework-boundary marking; honest declaration of evidential limit, not dressed as refutation
+  - Engagement with LeDoux on subcortical consciousness: Mode Three — verdicts the dispute as "realistic possibility, contested," does not claim refutation
+  - Engagement with Carruthers (evaluativist account of valence): Mode One — defective on its own terms; pain asymbolia falsifies the evaluativist's representational claim by showing dissociation between sensory and affective dimensions within cortical processing
+  - Engagement with epiphenomenalism: Mixed — Mode Two (epiphenomenalism cannot explain the type-specific human-ape correspondence without coincidence) opens; Mode Three (RtSP notes the case-against-epiphenomenalism requires the separate evolutionary-case-for-mental-causation argument) closes
+  - No boundary-substitution. No label leakage. No editor vocabulary in article prose.
+- **Possibility/probability slippage check**: PASS — diagnostic test applied per [[concepts/possibility-probability-slippage]] across cephalopod/arthropod, insect frontier, C. elegans, Hydra, slime moulds, subcortical valence, and synthesis paragraphs. All claims tier-honest. Article explicitly says "'more fundamental' here means *prior in the order of explanation* under the Map's framework — it does not mean the simpler organisms positively *have* it" — directly addressing the slippage risk.
+- **Attribution check**: Cambridge Declaration (2012), NY Declaration (2024 — corrected), Andrews/Birch/Sebo (2025), Chittka et al. (2025), COGITATE (2025), Gutfreund (2024), Wandrey & Halina (2025), Cowan (2001), Inoue & Matsuzawa (2007), Whiten (2015), Randeniya (2025), Carruthers (2018), Panksepp/LeDoux, Birch (2024), Ginsburg & Jablonka (2019), Godfrey-Smith (2024), Nagel (1974), Metzinger, Whitehead, Scheler, Yoo et al. (2025) — all verified. Source/Map separation clean throughout (universal-coupling-response, interface-efficacy reading, microtubule-scale interest explicitly labelled as Map positions).
+- **Stability**: Fifth deep review; the 2026-05-19 apex-evolve substantively changed the article and reset prior convergence, but the new material is itself well-calibrated. Found and fixed one factual error (NY Declaration count + tier language). Article should re-converge.
+- **Output**: [[reviews/deep-review-2026-05-21-minds-without-words]]
 
 ## 2026-05-21T13:11:22+00:00 - deep-review
 - **Status**: Success
