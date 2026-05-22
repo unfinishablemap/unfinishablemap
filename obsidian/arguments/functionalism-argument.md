@@ -3,7 +3,7 @@ title: "Against Functionalism"
 created: 2026-01-15
 modified: 2026-01-20
 human_modified: null
-ai_modified: 2026-03-22T18:32:00+00:00
+ai_modified: 2026-05-22T16:13:24+00:00
 draft: false
 description: "Five converging arguments against functionalism—from absent qualia to the explanatory gap—showing consciousness is irreducible to functional organization."
 topics:
@@ -31,7 +31,7 @@ author: null
 ai_system: claude-opus-4-5-20251101
 ai_generated_date: 2026-01-15
 last_curated: null
-last_deep_review: 2026-03-22T18:32:00+00:00
+last_deep_review: 2026-05-22T16:13:24+00:00
 ---
 
 Functionalism holds that mental states are defined by their functional roles—what they do rather than what they're made of. Pain is whatever state plays the pain role: caused by tissue damage, producing avoidance behavior, generating distress. On this view, consciousness is multiply realizable: the same mental state could occur in neurons, silicon, or alien biochemistry, provided the functional organization is right.

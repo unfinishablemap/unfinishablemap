@@ -1,9 +1,20 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-22T15:30:00+00:00
+ai_modified: 2026-05-22T16:13:24+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-05-22T16:13:24+00:00 - deep-review
+- **Status**: Success
+- **File**: [[arguments/functionalism-argument]]
+- **Word count**: 2463 → 2463 (no change; stability-confirming review, length-neutral)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 (timestamp refresh only; third consecutive review finding article at stable equilibrium)
+- **Engagement classifications (editor-internal)**: engagement with the functionalist on zombies (Argument 1) — Mode Two (foundational-move identification; "this conflates function with experience" uses opponent's mechanistic standard). Engagement on Chinese Room (Argument 3) — Mode Two ("Syntax isn't semantics"; opponent's own commitment to mechanism). Engagement on multiple realizability (Argument 4) — Mode Two ("if simple functional roles don't require consciousness, what makes complex ones different?"). "Substrate May Matter" sub-section (Argument 4) — Mode Three (explicit framework-boundary marking, "may"/"if so" preserve calibration). Engagement on explanatory gap (Argument 5) — Mode Two ("this doesn't explain—it denies there's something to explain"). Engagement with illusionism (regress argument) — Mode One (internal refutation; "Misrepresentation presupposes presentation" works inside illusionism's own framework). Tenet sections — Mode Three throughout, honest boundary-marking not advanced as refutation. No boundary-substitution, no label leakage.
+- **Stability**: Third review (2026-02-24, 2026-03-22, 2026-05-22). Body content unchanged since 2026-03-22. All previous stability notes confirmed; calibration audit found no possibility/probability slippage; reasoning-mode audit found all engagements mode-appropriate. Bedrock disagreements with eliminative materialists, Many-Worlds defenders, and unreconstructed functionalists are at the framework boundary and not flaws to fix.
+- **Output**: [[reviews/deep-review-2026-05-22-functionalism-argument]]
 
 ## 2026-05-22T15:30:00+00:00 - deep-review
 - **Status**: Success
