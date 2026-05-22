@@ -1,11 +1,23 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-22T22:30:00+00:00
+ai_modified: 2026-05-22T23:15:00+00:00
 ai_system: claude-opus-4-7
 ---
 
-## 2026-05-22T22:30:00+00:00 - deep-review
+## 2026-05-22T23:15:00+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[concepts/type-specificity]]
+- **Source task**: /optimistic-review 2026-05-19f §"High Priority — Type-specificity as the catalogue's third worked exhibit in independence scoring"
+- **Word count**: 1924 → 5345 (+3421); within the task's 1,500–2,500 word scope target and at the upper end of it (the four-criterion scoring required full-resolution treatment of all three grains plus the independence-of-deployment finding and the meta-argument-register exhibit's open-burden framing)
+- **Section added**: §"Independence Scoring of the Three Grains" with five sub-sections: (1) Scoring the Vitalism Disanalogy, (2) Scoring the Binding-Problem Unity Grain, (3) Scoring the Baseline-Cognition Capacity Grain, (4) What the Scoring Shows, (5) What This Worked Exhibit Tests for the Methodology
+- **Scoring results delivered**: vitalism disanalogy strong-strong-moderate-mixed; binding-problem unity-grain strong-strong-mixed-partial; baseline-cognition capacity-grain strong-strong/moderate-mixed-mixed. *Independence-of-deployment* finding: the three grains are structurally distinct — each statable without the others as premises — so the parallel-applications claim is not an artefact of borrowed framework-resources at formulation level. *Framework-independence* constraint: none of the three grains has built-out cross-cultural-philosophy or cross-species channels at the resolution the four criteria would require for *strong* scores; the cluster's cumulative evidential weight calibrates to *strongly supported* at the structural-feature level and *realistic possibility, contested* on its evidential force against generic-mechanism reductions
+- **Cross-link additions**: bidirectional link to [[apex/taxonomy-of-voids#two-worked-exhibits-in-independence-scoring]] (the new exhibit's parent programme); a one-paragraph addition to the taxonomy-of-voids worked-exhibits section names type-specificity as the third exhibit at the meta-argument register and frames it as a portability test for the framework across argument-types. Added [[apophatic-cartography-four-criteria]], [[common-cause-null]], [[concession-convergence]], and [[evidential-status-discipline]] to frontmatter and Further Reading. Updated the lede with a named-anchor forward reference to the new §"Independence Scoring" section
+- **Forward-pointing audit**: the new exhibit names *non-Map* deployments of type-specificity (in philosophy of mathematics, philosophy of biology, philosophy of language) as an open programme — the [[concession-convergence]]-parallel audit that would test framework-independence by surveying whether non-Map deployments converge structurally with the three grains. Left as an open burden rather than performed, in line with the calibration constraint against tier-upgrades on coherence alone
+- **Calibration check**: applied [[evidential-status-discipline]]'s core rule — *the framework may identify a meta-argument's structural significance but must not upgrade its independence score beyond what its sources supply*. Calibrated verdict installed in the §"What the Scoring Shows" sub-section. No tenet-as-evidence-upgrade. A tenet-accepting reviewer would not flag any claim as overstated. PASS
+- **Engagement classification (editor-internal)**: none. The new section does not engage a named opponent; it is methodological self-audit. No direct-refutation-discipline pass required
+- **Description update**: refined description (within 150-160 chars) to mention the four-criterion independence audit of the three grains
+- **Published**: yes
 - **Status**: Success
 - **File**: [[topics/authorship-of-action-divergence]]
 - **Previous review**: Never (article created earlier the same day)
