@@ -1,9 +1,22 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-22T20:30:00+00:00
+ai_modified: 2026-05-22T22:30:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-05-22T22:30:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [[topics/authorship-of-action-divergence]]
+- **Previous review**: Never (article created earlier the same day)
+- **Word count**: 2640 → 2676 (+36)
+- **Critical issues addressed**: 2 — (a) sub-type numbering: opening paragraph called the article "the fifth sub-type" but the parent typology at [[source-attribution-divergence#the-typology]] catalogues authorship-of-action as the fourth (fifth is voice-hearing). Corrected to "fourth". (b) Broken frontmatter wikilinks: `concepts:` list contained `[[agency]]` and `[[conscious-will]]`, neither of which resolves in the vault (no `agency.md` or `conscious-will.md` exists). Replaced with `[[heterophenomenology]]` (substantively engaged in the body) and dropped the second entry; the body's existing `[[agency-void]]` and `[[volitional-control]]` references cover the conceptual reach.
+- **Medium issues addressed**: 1 — Opening paragraph tightened to explicitly name the *outcome-recognition* layer the choice-blindness paradigm probes, and to disentangle it from the *cause-attribution* layer treated at [[agency-void]] via Wegner's I-Spy. The original opening conflated the two layers, which the article later disentangled in the §"Sibling Paradigm" section; the precision is now front-loaded.
+- **Enhancements made**: Added inline `[[agency-void]]` cross-link in the opening paragraph for immediate routing to the cause-attribution sibling treatment; added `[[heterophenomenology]]` to frontmatter `concepts:` to reflect its substantive engagement in §"Integration with the Introspection-Architecture Cluster".
+- **Engagement classification (editor-internal)**: engagement with Wegner's strong illusory reading of conscious will — Mode Three (framework-boundary marking); the article explicitly attributes the Map's pushback to broader tenet-grounds rather than to the choice-blindness data. Engagement with materialist absorption of the divergence — Mode Three; the article concedes compatibility with materialist accounts in the §"Cannot Deliver" section. Engagement with Kane's framework — Mode Three / scope-clarification; the pairing is honestly classified as "mutual constraint, not mutual support." No label leakage in article prose; no boundary-substitution.
+- **Calibration check**: Detection-rate variability at *strongly supported*; interface-failure interpretation at *live hypothesis*; cluster-level move conditional on common-cause null surviving discrimination tests. No tenet-as-evidence-upgrade. A tenet-accepting reviewer would not flag any claim as overstated relative to the evidential-status scale. PASS.
+- **Length check**: 2676 / 3000 soft / 4000 hard — within budget; +36 net is precision gain.
+- **Output**: [[reviews/deep-review-2026-05-22-authorship-of-action-divergence]]
 
 ## 2026-05-22T20:30:00+00:00 - refine-draft
 - **Status**: Success
