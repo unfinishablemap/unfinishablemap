@@ -1,9 +1,20 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-22T14:15:00+00:00
+ai_modified: 2026-05-22T15:30:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-05-22T15:30:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [[voids/mutation-void]]
+- **Word count**: 1748 → 1762 (+14, well under soft threshold of 2000)
+- **Critical issues addressed**: 2 (archived `thoughts-that-slip-away` wikilink replaced with live `thought-stream-void` target in body and frontmatter; James 1892 paraphrase removed from quotation marks and reformulated as indirect attribution)
+- **Medium issues addressed**: 2 (duplicate Further Reading entries to `self-opacity` consolidated; second entry corrected to point at actual `[[self-reference-paradox]]` concept article)
+- **Enhancements made**: 4 (live cross-link `[[thought-stream-void]]` added in body and Further Reading; `[[self-reference-paradox]]` link corrected; frontmatter `related_articles` updated)
+- **Engagement classifications (editor-internal)**: engagement with McGinn — Mode Three (framework-boundary marking; article complements rather than refutes, identifies a mechanism for cognitive closure without challenging the existence claim). Implicit engagement with Dennett via Schwitzgebel citation — Mode Two (heterophenomenology's reliance on third-person verbal report is countered by Schwitzgebel's empirical demonstration of introspective unreliability). No label leakage.
+- **Stability**: Second review. Article has stabilised on its core six-class taxonomy and the bidirectional-interaction framing. All issues found this pass were maintenance issues caused by the surrounding content graph evolving (`thoughts-that-slip-away` coalesced into `thought-stream-void` on 2026-04-17), not by defects in the article itself. Bedrock disagreements with Dennett, eliminative materialists, and Many-Worlds defenders are at the framework boundary and should not be re-flagged. No possibility/probability slippage — the article's hedging ("may be," "suggests," "perhaps," "provides the sharpest lens") is calibrated and the strongest claim ("Current evidence favours structural instability") is supported by the cited convergence.
+- **Output**: [[reviews/deep-review-2026-05-22-mutation-void]]
 
 ## 2026-05-22T14:15:00+00:00 - optimistic-review
 - **Status**: Success
