@@ -4,7 +4,7 @@ description: "How agent causation grounds genuine moral desert. Agents originate
 created: 2026-01-16
 modified: 2026-01-16
 human_modified: null
-ai_modified: 2026-05-19T11:04:33+00:00
+ai_modified: 2026-05-22T12:00:00+00:00
 draft: false
 topics:
   - "[[topics/free-will]]"
@@ -30,7 +30,7 @@ author: null
 ai_system: claude-opus-4-5-20251101
 ai_generated_date: 2026-01-16
 last_curated: null
-last_deep_review: 2026-04-03T17:39:00+00:00
+last_deep_review: 2026-05-22T12:00:00+00:00
 ---
 
 Moral responsibility requires that agents deserve praise or blame for their actions. If an agent couldn't have done otherwise, or wasn't the genuine source of their choice, holding them responsible seems unjust. The Unfinishable Map adopts [[agent-causation|agent causation]]—a minority position among free will theorists, but one the Map finds best suited to grounding genuine desert. On this view, agents are irreducible sources of action, making moral responsibility metaphysically robust rather than merely pragmatic.
@@ -206,3 +206,4 @@ This framework respects the ordinary intuition that people deserve praise and bl
 1. Tallis, R. (2011). *Aping Mankind*. Acumen.
 1. Tegmark, M. (2000). Importance of quantum decoherence in brain processes. *Physical Review E*, 61(4), 4194-4206.
 1. Whitehead, A.N. (1929). *Process and Reality*. Macmillan.
+1. Wolf, S. (1990). *Freedom Within Reason*. Oxford University Press.

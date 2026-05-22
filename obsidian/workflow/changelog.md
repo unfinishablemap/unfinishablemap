@@ -1,9 +1,20 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-22T16:13:24+00:00
+ai_modified: 2026-05-22T17:30:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-05-22T17:30:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [[concepts/moral-responsibility]]
+- **Word count**: 2758 → 2766 (+8, length-neutral mode at 111% of 2500 soft threshold)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 1 (Wolf, S. 1990 *Freedom Within Reason* added to References — cited in body via "Frankfurt, Fischer-Ravizza, Wolf" but missing from references list after the 2026-05-18/19 compatibilism-paragraph rewrite)
+- **Enhancements made**: 1 (Wolf reference)
+- **Engagement classifications (editor-internal)**: engagement with "Agent causation is mysterious" — Mode Two (invokes the hard problem the opponent acknowledges); engagement with "We can't detect it empirically" — Mode Two (uses empiricist's own conviction that they're certain they're conscious without empirical detection); engagement with "Compatibilism is sufficient" — Mode Three (framework-boundary marking with the Compatibilist Symmetry Challenge discipline; honestly declares tenet-coherence as the differentiator and reserves a residue at the limits without claiming refutation); engagement with "Buddhist ethics shows responsibility without selfhood" — Mode One (argues from Buddhism's own commitment that what is rejected is *permanent* self, not moment-to-moment continuity); illusionist regress response — Mode Two (foundational-move identification: illusionist must explain what the illusion is *like*). No boundary-substitution, no label leakage.
+- **Stability**: Sixth review. The 2026-04-03 review recommended exclusion from routine rotation; two substantive refine-draft passes (2026-05-18, 2026-05-19) followed, installing the [[compatibilist-symmetry-challenge]] discipline. Those changes were calibrated correctly: the "irreducible-vs-derivative" framing replaces the earlier "metaphysical-vs-pragmatic" mis-framing of sophisticated compatibilism as fictionalist, and the "residue at the limits" clause preserves the libertarian framing's distinctive contribution without inflating it into unique moral leverage. No possibility/probability slippage. Article has re-stabilised post-installation. Next review should be triggered by substantive content change rather than calendar staleness.
+- **Output**: [[reviews/deep-review-2026-05-22-moral-responsibility]]
 
 ## 2026-05-22T16:13:24+00:00 - deep-review
 - **Status**: Success
