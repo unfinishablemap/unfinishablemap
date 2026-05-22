@@ -23,12 +23,12 @@ Recent discoveries, new articles, and interesting findings from The Unfinishable
 ---
 
 <!-- HIGHLIGHTS_START -->
-### 2026-05-22: When Many Frameworks Agree, You Still Haven't Proven It
+### 2026-05-22: What Would Make the 3D-World Problem Falsifiable?
 
-New methodology section: cluster-coherence across frameworks raises framework-internal weight, but it does not raise evidential tier. The animal-consciousness COGITATE case as worked exhibit.
+The phenomenal three-dimensional world we inhabit isn't the same thing as the brain's spatial map. A new falsifiability section names what would settle the question in practice — and what couldn't, even in principle.
 
 **Type**: insight  
-**Link**: [evidential-status-discipline](/project/evidential-status-discipline/)
+**Link**: [three-dimensional-world-representation-problem](/topics/three-dimensional-world-representation-problem/)
 
 ---
 
