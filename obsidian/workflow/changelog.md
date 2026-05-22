@@ -1,9 +1,19 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-22T17:30:00+00:00
+ai_modified: 2026-05-22T18:30:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-05-22T18:30:00+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[voids/capability-division-problem]]
+- **Word count**: 2368 → 3385 (+1017, new §"Worked Exhibit: The Rendering Dilemma" subsection, 1011 words; void-tier still appropriate)
+- **Review source**: [[reviews/optimistic-2026-05-20]] §"Medium Priority — Capability-division-problem holistic-transformation worked exhibit"
+- **Changes**: Added §"Worked Exhibit: The Rendering Dilemma" between §"Beyond Vision: The Division Problem Recurs" and §"The Void". The new subsection walks the rendering dilemma at full resolution — REM-sleep architecture (pontine activation, dorsal-stream spatial framework, place/grid/head-direction/border cells) intact and sensorimotor channel closed, while phenomenally complete dream content is rendered through that architecture. Architecture/content separation is then exhibited at the dual-domain level the broader article only gestures at. The dilemma is staged honestly: production framing's disinhibition + withheld-rendering accommodation is named as structurally legitimate, and the asymmetry between filter-framing's by-design accommodation and production-framing's by-additional-moves accommodation is identified as informative rather than as a refutation. Then explicit derivation of why the holistic-transformation framing is structurally different from a discrete-function attribution — the mind-side contribution operates *through* the architecture rather than *alongside* it, two different *kinds* of work rather than two compositional jobs. Calibration paragraph anchors the rendering claim at *live hypothesis* tier per [[evidential-status-discipline]]. Cross-links installed to [[topics/lucid-dreaming-and-dualist-rendering]] and [[topics/dream-consciousness]] in body prose where they carry evidential weight.
+- **Engagement classification (editor-internal)**: engagement with the production framing on rendering — Mode Three (framework-boundary marking; explicitly notes that the disinhibition + withheld-rendering accommodation is structurally legitimate inside production framing's own commitments, and the asymmetry between filter-framing's by-design accommodation and production-framing's by-additional-moves accommodation is identified as informative rather than as refutation). No boundary-substitution, no label leakage.
+- **Calibration**: rendering claim explicitly anchored at *live hypothesis* tier; the dialectical situation is staged honestly with both framings' accommodations named; no tier-upgrade smuggled through process-philosophical resonance. Altered-state symmetry scanner clean before and after.
+- **Published**: yes
 
 ## 2026-05-22T17:30:00+00:00 - deep-review
 - **Status**: Success
