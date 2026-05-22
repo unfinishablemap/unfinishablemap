@@ -1,9 +1,24 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-22T18:30:00+00:00
+ai_modified: 2026-05-22T19:00:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-05-22T19:00:00+00:00 - coalesce
+- **Status**: Abandoned (no candidates)
+- **Section pressure check**: voids 102/100 (over cap, highest pressure); topics 247/250 (98.8%); concepts 247/250 (98.8%) — all three sections at-or-near cap
+- **Clusters surveyed** (voids, the most-pressured section):
+  - Affective family: [[voids/affective-void]], [[voids/appetitive-void]], [[voids/mood-void]], [[voids/valence-void]], [[voids/emotional-epistemology-void]], [[voids/interoceptive-void]], [[voids/noetic-feelings-void]] — each carves a distinct joint: affective = the *space* of unfeelable emotions; appetitive = desire as constitutive framework; mood = the *atmosphere within which* witnessing occurs; valence = the built-in evaluative dimension; emotional-epistemology = the knowledge-status question; interoceptive = body opacity; noetic-feelings = epistemic gating signals. All cross-reference each other in `related_articles`; the differentiation is explicit and load-bearing.
+  - Opacity / self-knowledge family: [[voids/self-opacity]], [[voids/necessary-opacity]], [[voids/recognition-void]], [[voids/source-attribution-void]] — already coalesced post-history (self-opacity is the six-thinker convergence article; necessary-opacity isolates the *self-protecting* signature; recognition-void isolates the *perceive-vs-know-as* gap; source-attribution isolates the *origin-tracking* gap).
+  - Meta-cartographic family: [[voids/three-kinds-of-void]], [[voids/closure-types-void]], [[voids/what-voids-reveal]], [[voids/apophatic-cartography]] — each operates at a different meta-level (taxonomy vs closure-typology vs what-the-catalogue-shows vs method-and-its-limits).
+- **Clusters surveyed** (concepts, second-most-pressured):
+  - Interface family: [[concepts/interface-friction]] (resistance), [[concepts/interface-heterogeneity]] (cross-system variation), [[concepts/interface-threshold]] (architectural phase transition), [[concepts/mind-matter-interface]], [[concepts/brain-interface-boundary]] — already a deliberately structured taxonomy.
+  - Causation family: [[concepts/agent-causation]], [[concepts/delegatory-causation]], [[concepts/skill-delegation]], [[concepts/spontaneous-intentional-action]], [[concepts/mental-causation-and-downward-causation]] — agent-causation is the libertarian primitive; delegatory-causation is Saad's trumping mechanism; skill-delegation is the *empirical pattern* of training+retention; spontaneous-intentional-action is the *category-challenge* sub-question.
+  - Apophatic family: [[concepts/apophatic-approaches]] (method itself), [[concepts/apophatic-cartography-four-criteria]] (the four-criteria calibration backbone), [[voids/apophatic-cartography]] (method + its limits) — explicit division of labour with mutual cross-references.
+  - Convergence family: [[concepts/concession-convergence]] (physicalist defensive concessions), [[concepts/cross-mechanism-convergence]] (mechanism-distinct perturbations producing same ordering) — different evidence patterns at different layers.
+- **External references check**: not performed (no candidate selected).
+- **Conclusion**: Five candidate clusters surveyed across the two most-pressured sections (voids and concepts). The pattern observed at the previous abandoned coalesce on 2026-05-21 and 2026-05-19 holds: the content base is mature; many articles already carry `coalesced_from` markers from prior merges; surviving articles declare their differentiation explicitly in their own prose (titles, descriptions, and `related_articles` blocks signal deliberate joint-carving). Per skill instructions ("if no good candidates exist… abandon the attempt and do not merge anything"), no content modifications made. Recommend that future coalesce cycles continue the current convergence — section-cap pressure is being managed through deep-review, refine-draft, and condense rather than further merging.
 
 ## 2026-05-22T18:30:00+00:00 - refine-draft
 - **Status**: Success
