@@ -541,3 +541,31 @@
   subject_articles:
   - topics/phantom-limb-phenomena.md
   subject_source: reuse:pending-reviews:outer-review-2026-05-16-chatgpt-5-5-pro.md
+- service: chatgpt
+  conversation_url: https://chatgpt.com/g/g-p-695a7d60af5481919d5c22ad7bcc1648-the-unfinishable-map/c/6a0fbc03-ed34-8330-be36-bb45e108496a
+  commissioned_at: '2026-05-22T02:16:09.996416+00:00'
+  prompt_summary: 'Full-site audit: novel insights, structure, tenets, contradictions'
+  target_filename: outer-review-2026-05-22-chatgpt-5-5-pro.md
+  status: pending
+  collect_attempts: 0
+  last_attempt_at: null
+  failure_reason: null
+  prompt_text: "Please conduct a fresh outer review of The Unfinishable Map (https://unfinishablemap.org)\
+    \ as a whole site, treating it as a single connected work rather than a list of\
+    \ articles.\n\nBefore forming conclusions, consult the activity changelog at https://unfinishablemap.org/workflow/changelog/\
+    \ \u2014 web-search indices lag the site by 24\u201348 hours, so the changelog\
+    \ is the most reliable view of what has been added or revised in the last week.\n\
+    \nI want you to focus on four things:\n\n1. Novel insights or inferences the site\
+    \ has NOT yet stated explicitly but that follow from its existing material (especially\
+    \ across the topics/, concepts/, apex/, and voids/ clusters).\n2. Structural weaknesses:\
+    \ thin sections, undefended load-bearing claims, missing inbound links, drift\
+    \ between related articles.\n3. Tenet coherence: where does the site stray from,\
+    \ or fail to defend, its five tenets (dualism; minimal quantum interaction; bidirectional\
+    \ interaction; rejection of MWI; limits of Occam's razor)?\n4. Cross-cluster contradictions\
+    \ where two clusters appear to assume incompatible things.\n\nEnd your report\
+    \ with a list of concrete potential improvements to specific articles and to the\
+    \ site's methodology."
+  subject_type: site
+  subject_title: Full-site audit
+  subject_articles: []
+  subject_source: fallback:site-stale-7d
