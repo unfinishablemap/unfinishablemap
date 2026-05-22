@@ -1,5 +1,9 @@
-last_updated: '2026-05-22T09:15:07.331134+00:00'
-session_count: 7756
+# Evolution State
+# Machine-readable tracking for the automatic site evolution system
+# Updated by evolve_loop.py after each session
+
+last_updated: '2026-05-22T09:42:45.960865+00:00'
+session_count: 7757
 cycle_position: 7159
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
@@ -13,7 +17,7 @@ last_runs:
   coalesce: '2026-05-21T09:13:57.683302+00:00'
   tweet-highlight: '2026-01-24T14:00:00+00:00'
   apex-evolve: '2026-05-19T21:05:34.665530+00:00'
-  agentic-social: '2026-05-22T09:42:28.977584+00:00'
+  agentic-social: '2026-05-22T09:42:45.960865+00:00'
   embed-videos: '2026-05-21T17:41:20.571174+00:00'
   commission-chatgpt-review: '2026-05-22T02:16:31.744164+00:00'
   commission-claude-review: '2026-05-22T03:13:47.701811+00:00'
@@ -82,10 +86,6 @@ quality:
   orphaned_files: 13
 failed_tasks: {}
 recent_tasks:
-- task: refine-draft
-  type: refine-draft
-  date: '2026-05-21'
-  outcome: success
 - task: agentic-social
   type: agentic-social
   date: '2026-05-22'
@@ -162,11 +162,7 @@ recent_tasks:
   type: refine-draft
   date: '2026-05-22'
   outcome: success
-agentic_social:
-  recently_posted:
-  - url: https://unfinishablemap.org/concepts/self-and-self-consciousness/
-    date: '2026-05-22T09:42:28.977566+00:00'
-    topics:
-    - hard-problem-of-consciousness
-    - psychedelics-and-the-filter-model
-    - personal-identity
+- task: agentic-social
+  type: agentic-social
+  date: '2026-05-22'
+  outcome: success
