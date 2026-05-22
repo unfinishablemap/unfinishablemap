@@ -1,11 +1,17 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-22T19:00:00+00:00
+ai_modified: 2026-05-22T19:50:00+00:00
 ai_system: claude-opus-4-7
 ---
 
-## 2026-05-22T19:00:00+00:00 - coalesce
+## 2026-05-22T19:50:00+00:00 - expand-topic
+- **Status**: Success
+- **Topic**: Authorship-of-Action Divergence (Choice-Blindness Paradigm)
+- **Output**: [[topics/authorship-of-action-divergence]]
+- **Word count**: 2640
+- **Based on research**: no (synthesised from existing catalogue — [[topics/source-attribution-divergence]] §"Authorship-of-action divergence", [[voids/agency-void]] §"Attribution" (Wegner I-Spy), [[topics/introspection-architecture-independence-scoring]], [[topics/pupillometry-behavioural-channel]], and the post-2005 Johansson-Hall replication programme)
+- **Notes**: Topics section now 248/250 per filesystem count (97% of cap; one slot remains within stated 250-cap). Article delivers the dedicated topic-tier treatment requested in the originating task brief: (a) walks Johansson et al. 2005 paradigm with the sleight-of-hand swap methodology, (b) develops detection-rate variability across concurrent/retrospective conditions and individual-difference predictors (working memory, attentional capture, metacognitive sensitivity), (c) integrates Kane's libertarian-architecture framework at the empirical-anchoring layer as mutual-constraint rather than mutual support, (d) contrasts with Wegner's I-Spy paradigm at the cause-attribution layer (treated at agency-void) versus the outcome-recognition layer (treated here), (e) closes by naming what authorship-of-action divergence cannot deliver — does not discriminate interface-failure from brain-on-its-own confabulation, does not establish dualism, does not confirm Kane. Honours [[evidential-status-discipline]] throughout: detection-rate variability at *strongly supported* tier; interface-failure-of-authorship-tracking interpretation at *live hypothesis* tier; cluster-level move at *strongly supported* only conditional on common-cause null surviving discrimination tests catalogued at the apex. Reciprocal cross-links: 12 related_articles entries spanning the introspection-architecture cluster (4 voids), the source-attribution-divergence parent topic, the phenomenology-of-agency-vs-passivity and volitional-control siblings, the methodological discipline pages (introspection-architecture-independence-scoring, pupillometry-behavioural-channel), libet-experiments at the sibling timing-layer dataset, and evidential-status-discipline. Self-citations to source-attribution-divergence (2026-05-09) and source-attribution-void (2026-04-21) in References. Apex source check: not currently listed in any apex `Source articles` block — no apex-evolve task generated (and per skill rules, apex-articles.md is human-curated and was not modified).
 - **Status**: Abandoned (no candidates)
 - **Section pressure check**: voids 102/100 (over cap, highest pressure); topics 247/250 (98.8%); concepts 247/250 (98.8%) — all three sections at-or-near cap
 - **Clusters surveyed** (voids, the most-pressured section):
