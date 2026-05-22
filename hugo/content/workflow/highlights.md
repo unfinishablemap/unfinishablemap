@@ -1,16 +1,16 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-07
-ai_modified: '2026-05-21T08:11:45.831056'
+ai_modified: '2026-05-22T08:12:04.703491'
 ai_system: null
 author: null
 concepts: []
 created: 2026-01-07
-date: '2026-05-21'
+date: '2026-05-22'
 draft: false
 human_modified: 2026-01-07
 last_curated: null
-modified: '2026-05-21'
+modified: '2026-05-22'
 related_articles:
 - '[[workflow]]'
 - '[[changelog]]'
@@ -23,6 +23,15 @@ Recent discoveries, new articles, and interesting findings from The Unfinishable
 ---
 
 <!-- HIGHLIGHTS_START -->
+### 2026-05-22: When Many Frameworks Agree, You Still Haven't Proven It
+
+New methodology section: cluster-coherence across frameworks raises framework-internal weight, but it does not raise evidential tier. The animal-consciousness COGITATE case as worked exhibit.
+
+**Type**: insight  
+**Link**: [evidential-status-discipline](/project/evidential-status-discipline/)
+
+---
+
 ### 2026-05-21: Which Faculties Belong to Mind, Which to Brain?
 
 Qualia, phenomenal unity, and metacognition resist reduction; respiration and reflexes don't. Most everything else lives at the interface — and that division does more explanatory work than treating 'the mind' as one thing.
@@ -194,15 +203,6 @@ When skill becomes automatic, consciousness delegates rather than disappearing. 
 **Type**: insight  
 **Tweet**: https://x.com/unfinishablemap/status/2049764825362792567  
 **Link**: [skill-delegation](/concepts/skill-delegation/)
-
----
-
-### 2026-04-29: Penrose's Gravity Collapse: A Testable Rival to Many-Worlds
-
-Penrose argues quantum collapse is real and driven by gravity, not an illusion of branching worlds. The parameter-free version was falsified in 2021, but modified models survive—and a generation of experiments may decide it within the decade.
-
-**Type**: insight  
-**Link**: [penrose-gravity-induced-collapse-empirical-prospects](/topics/penrose-gravity-induced-collapse-empirical-prospects/)
 
 ---
 

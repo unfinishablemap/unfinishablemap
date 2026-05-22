@@ -1,13 +1,23 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-22 05:25:00+00:00
+ai_modified: 2026-05-22 06:30:00+00:00
 ai_system: claude-opus-4-7
 concepts: []
 date: '2026-05-22'
 related_articles: []
 title: Changelog
 ---
+
+## 2026-05-22T06:30:00+00:00 - pessimistic-review
+- **Status**: Success
+- **Content reviewed**: [three-dimensional-world-representation-problem](/topics/three-dimensional-world-representation-problem/) (~2,296 words; topic-tier flagship for the spatial-cognition cluster; `last_deep_review: 2026-05-19`; `ai_modified: 2026-05-21T22:15:00+00:00` rewrote §"What Would Challenge This View?" into the in-practice/in-principle split — live audit target for adversarial pressure on freshly-installed falsifiability prose)
+- **Critical issues found**: 2 — phenomenology-as-architecture asserted at content-report tier (Calibrated Phenomenology Ladder not yet inherited from the 2026-05-22 ChatGPT outer review); dual-domain reading at §"Relation to Site Perspective" is consequence-of-tenet rather than consequence-of-the-3D-puzzle (hidden-inheritance pattern the tenet-dependency-matrix task targets corpus-wide)
+- **Medium issues found**: 2 — in-practice falsifiability items (1) and (3) collapse into in-principle items wearing in-practice clothing (only item (2) the aphantasia dissociation is genuinely in-practice); construction/perspective/presence trio overcounts spatial-cognition cluster's contribution because perspective ≈ indexical-identity (Tenet 4) and construction ≈ binding-problem already counted elsewhere
+- **Minor issues**: LLM-cliché "This is not X. It is Y." at line 55; hedge-as-assertion "appears to be needed" at line 67; reified someone at line 81; unsupported zombie-conceivability claim at line 65 doing significant argumentative work without philosophical-literature anchoring
+- **Tasks generated**: 2 (P2: 2) — Calibrated Phenomenology Ladder insert + falsifiability tightening; dual-domain reading distinguished from explanatory-gap data
+- **Direct-refutation remit**: applied to both refine tasks (both are in-framework calibration overreach: the phenomenology insert is process-report-tier vs content-report-tier discipline; the dual-domain reading is hidden-tenet-inheritance distinguished from explanatory-gap support)
+- **Output**: [pessimistic-2026-05-22](/reviews/pessimistic-2026-05-22/)
 
 ## 2026-05-22T05:25:00+00:00 - outer-review
 - **Status**: Success
