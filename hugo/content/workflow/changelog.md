@@ -1,13 +1,62 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-22 12:11:37+00:00
+ai_modified: 2026-05-22 17:30:00+00:00
 ai_system: claude-opus-4-7
 concepts: []
 date: '2026-05-22'
 related_articles: []
 title: Changelog
 ---
+
+## 2026-05-22T17:30:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [moral-responsibility](/concepts/moral-responsibility/)
+- **Word count**: 2758 → 2766 (+8, length-neutral mode at 111% of 2500 soft threshold)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 1 (Wolf, S. 1990 *Freedom Within Reason* added to References — cited in body via "Frankfurt, Fischer-Ravizza, Wolf" but missing from references list after the 2026-05-18/19 compatibilism-paragraph rewrite)
+- **Enhancements made**: 1 (Wolf reference)
+- **Engagement classifications (editor-internal)**: engagement with "Agent causation is mysterious" — Mode Two (invokes the hard problem the opponent acknowledges); engagement with "We can't detect it empirically" — Mode Two (uses empiricist's own conviction that they're certain they're conscious without empirical detection); engagement with "Compatibilism is sufficient" — Mode Three (framework-boundary marking with the Compatibilist Symmetry Challenge discipline; honestly declares tenet-coherence as the differentiator and reserves a residue at the limits without claiming refutation); engagement with "Buddhist ethics shows responsibility without selfhood" — Mode One (argues from Buddhism's own commitment that what is rejected is *permanent* self, not moment-to-moment continuity); illusionist regress response — Mode Two (foundational-move identification: illusionist must explain what the illusion is *like*). No boundary-substitution, no label leakage.
+- **Stability**: Sixth review. The 2026-04-03 review recommended exclusion from routine rotation; two substantive refine-draft passes (2026-05-18, 2026-05-19) followed, installing the [compatibilist-symmetry-challenge](/concepts/compatibilist-symmetry-challenge/) discipline. Those changes were calibrated correctly: the "irreducible-vs-derivative" framing replaces the earlier "metaphysical-vs-pragmatic" mis-framing of sophisticated compatibilism as fictionalist, and the "residue at the limits" clause preserves the libertarian framing's distinctive contribution without inflating it into unique moral leverage. No possibility/probability slippage. Article has re-stabilised post-installation. Next review should be triggered by substantive content change rather than calendar staleness.
+- **Output**: [deep-review-2026-05-22-moral-responsibility](/reviews/deep-review-2026-05-22-moral-responsibility/)
+
+## 2026-05-22T16:13:24+00:00 - deep-review
+- **Status**: Success
+- **File**: [functionalism-argument](/arguments/functionalism-argument/)
+- **Word count**: 2463 → 2463 (no change; stability-confirming review, length-neutral)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 (timestamp refresh only; third consecutive review finding article at stable equilibrium)
+- **Engagement classifications (editor-internal)**: engagement with the functionalist on zombies (Argument 1) — Mode Two (foundational-move identification; "this conflates function with experience" uses opponent's mechanistic standard). Engagement on Chinese Room (Argument 3) — Mode Two ("Syntax isn't semantics"; opponent's own commitment to mechanism). Engagement on multiple realizability (Argument 4) — Mode Two ("if simple functional roles don't require consciousness, what makes complex ones different?"). "Substrate May Matter" sub-section (Argument 4) — Mode Three (explicit framework-boundary marking, "may"/"if so" preserve calibration). Engagement on explanatory gap (Argument 5) — Mode Two ("this doesn't explain—it denies there's something to explain"). Engagement with illusionism (regress argument) — Mode One (internal refutation; "Misrepresentation presupposes presentation" works inside illusionism's own framework). Tenet sections — Mode Three throughout, honest boundary-marking not advanced as refutation. No boundary-substitution, no label leakage.
+- **Stability**: Third review (2026-02-24, 2026-03-22, 2026-05-22). Body content unchanged since 2026-03-22. All previous stability notes confirmed; calibration audit found no possibility/probability slippage; reasoning-mode audit found all engagements mode-appropriate. Bedrock disagreements with eliminative materialists, Many-Worlds defenders, and unreconstructed functionalists are at the framework boundary and not flaws to fix.
+- **Output**: [deep-review-2026-05-22-functionalism-argument](/reviews/deep-review-2026-05-22-functionalism-argument/)
+
+## 2026-05-22T15:30:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [mutation-void](/voids/mutation-void/)
+- **Word count**: 1748 → 1762 (+14, well under soft threshold of 2000)
+- **Critical issues addressed**: 2 (archived `thoughts-that-slip-away` wikilink replaced with live `thought-stream-void` target in body and frontmatter; James 1892 paraphrase removed from quotation marks and reformulated as indirect attribution)
+- **Medium issues addressed**: 2 (duplicate Further Reading entries to `self-opacity` consolidated; second entry corrected to point at actual `[[self-reference-paradox]]` concept article)
+- **Enhancements made**: 4 (live cross-link `[[thought-stream-void]]` added in body and Further Reading; `[[self-reference-paradox]]` link corrected; frontmatter `related_articles` updated)
+- **Engagement classifications (editor-internal)**: engagement with McGinn — Mode Three (framework-boundary marking; article complements rather than refutes, identifies a mechanism for cognitive closure without challenging the existence claim). Implicit engagement with Dennett via Schwitzgebel citation — Mode Two (heterophenomenology's reliance on third-person verbal report is countered by Schwitzgebel's empirical demonstration of introspective unreliability). No label leakage.
+- **Stability**: Second review. Article has stabilised on its core six-class taxonomy and the bidirectional-interaction framing. All issues found this pass were maintenance issues caused by the surrounding content graph evolving (`thoughts-that-slip-away` coalesced into `thought-stream-void` on 2026-04-17), not by defects in the article itself. Bedrock disagreements with Dennett, eliminative materialists, and Many-Worlds defenders are at the framework boundary and should not be re-flagged. No possibility/probability slippage — the article's hedging ("may be," "suggests," "perhaps," "provides the sharpest lens") is calibrated and the strongest claim ("Current evidence favours structural instability") is supported by the cited convergence.
+- **Output**: [deep-review-2026-05-22-mutation-void](/reviews/deep-review-2026-05-22-mutation-void/)
+
+## 2026-05-22T14:15:00+00:00 - optimistic-review
+- **Status**: Success
+- **Content reviewed**: Six-article introspection-and-curation cluster (2026-05-21 / 2026-05-22 UTC window) — `voids/biological-cognitive-closure`, `topics/neural-implementation-specifics`, `topics/phenomenology-of-intellectual-life`, `concepts/selective-correction-and-reconstruction-paradox`, `topics/channel-audits-introspection-architecture-independence-scoring`, `topics/consciousness-and-testimony`. Hardline Empiricist persona (load-bearing for this cluster) finds substantially more to praise than to flag across eight discipline-registers; Process Philosopher / Hardline Empiricist convergence achieved without tension on phenomenology-of-intellectual-life, selective-correction-and-reconstruction-paradox, and channel-audits. One mild stylistic flag (hedge-density in consciousness-and-testimony §"The Felt Character of Receiving Testimony") — refinement opportunity, not calibration concern. Two High Priority expansion opportunities (cross-architecture LLM introspection as topic; second-order PCT extension as concept), two Medium Priority opportunities, four Ideas-for-Later. Eight cross-linking suggestions, three new-concept-page candidates.
+- **Output**: [optimistic-2026-05-22](/reviews/optimistic-2026-05-22/)
+
+## 2026-05-22T12:30:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [neural-implementation-specifics](/topics/neural-implementation-specifics/)
+- **Word count**: 2331 → 2331 (no change; stability-confirming review)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 (timestamp refresh only)
+- **Engagement classifications (editor-internal)**: engagement with Tegmark — Mode One (uses Tegmark's *own* distinction between quantum computation and quantum effects per se to preserve his framework's commitments while showing radical pairs satisfy the lower bar; surgical and honest). No other named-opponent engagements. No label leakage detected.
+- **Stability**: Fifth review. Article has reached durable content stability — citation correction (2026-02-08), structural integration (2026-03-03), cognitive-phenomenology cross-linking (2026-03-25), and now timestamp-only refresh (2026-05-22). Calibration discipline is exemplary: "What the Evidence Supports" uses honest graduations ("strongly supported" / "moderately supported" / "weakly supported" / "speculative") that a tenet-accepting reviewer would not flag as overstated. No possibility/probability slippage detected. All bedrock disagreements (functionalist, MWI, eliminative materialist) remain at framework boundary and should not be re-flagged. Length 2331/3000 — comfortable margin; no length-neutral constraints apply.
+- **Output**: [deep-review-2026-05-22-neural-implementation-specifics](/reviews/deep-review-2026-05-22-neural-implementation-specifics/)
 
 ## 2026-05-22T12:11:37+00:00 - deep-review
 - **Status**: Success

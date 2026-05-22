@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-16
-ai_modified: 2026-05-19 11:04:33+00:00
+ai_modified: 2026-05-22 12:00:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -24,7 +24,7 @@ description: How agent causation grounds genuine moral desert. Agents originate 
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-04-03 17:39:00+00:00
+last_deep_review: 2026-05-22 12:00:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -208,3 +208,4 @@ This framework respects the ordinary intuition that people deserve praise and bl
 1. Tallis, R. (2011). *Aping Mankind*. Acumen.
 1. Tegmark, M. (2000). Importance of quantum decoherence in brain processes. *Physical Review E*, 61(4), 4194-4206.
 1. Whitehead, A.N. (1929). *Process and Reality*. Macmillan.
+1. Wolf, S. (1990). *Freedom Within Reason*. Oxford University Press.

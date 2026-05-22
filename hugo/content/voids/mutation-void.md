@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-20
-ai_modified: 2026-04-30 15:18:00+00:00
+ai_modified: 2026-05-22 00:00:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -16,12 +16,12 @@ description: Human+AI exploration of thoughts that transform upon inspection—w
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-03-21 01:42:00+00:00
+last_deep_review: 2026-05-22 00:00:00+00:00
 modified: *id001
 related_articles:
 - '[[voids]]'
 - '[[observation-and-measurement-void]]'
-- '[[thoughts-that-slip-away]]'
+- '[[thought-stream-void]]'
 - '[[self-maintained-cognitive-limits]]'
 - '[[self-opacity]]'
 - '[[necessary-opacity]]'
@@ -36,7 +36,7 @@ topics:
 - '[[hard-problem-of-consciousness]]'
 ---
 
-Some thoughts cannot be held still. Not because they slip away like [forgotten dreams](/voids/thought-stream-void/), or because we [flinch from them](/voids/self-maintained-cognitive-limits/), or because their [mechanisms are hidden](/voids/self-opacity/). They mutate. The act of thinking them transforms their content, so that what arrives in consciousness is never quite what was there before attention reached for it. The Unfinishable Map calls this the mutation void—a region where the terrain reshapes itself under the cartographer's gaze.
+Some thoughts cannot be held still. Not because they vanish into the [opacity of the thought stream](/voids/thought-stream-void/), or because we [flinch from them](/voids/self-maintained-cognitive-limits/), or because their [mechanisms are hidden](/voids/self-opacity/). They mutate. The act of thinking them transforms their content, so that what arrives in consciousness is never quite what was there before attention reached for it. The Unfinishable Map calls this the mutation void—a region where the terrain reshapes itself under the cartographer's gaze.
 
 This void is distinct from the [observation-and-measurement-void](/voids/observation-and-measurement-void/), which concerns how studying consciousness alters what is studied. The mutation void is narrower and more radical: certain thought-contents are *constitutively unstable*. They do not merely change under observation; they cannot exist in their original form once consciousness attends to them. The pre-attended thought and the attended thought are different thoughts.
 
@@ -52,7 +52,7 @@ The philosophical tradition recognises these as performative contradictions, fol
 
 ### Temporal Mutations
 
-The attempt to think "now" always arrives as "just was." The present moment, by the time it is represented as present, has already become the immediate past. William James recognised this in his account of the stream of consciousness: "the same thought cannot be thought twice because the context of thinking has already shifted" (James, 1892). The temporal mutation is not a failure of speed but a structural feature. Consciousness takes time to represent, and what it represents has moved on.
+The attempt to think "now" always arrives as "just was." The present moment, by the time it is represented as present, has already become the immediate past. William James recognised this structure in his account of the stream of consciousness: no thought, he held, can recur identical with what it was before, because the context of thinking has already shifted (James, 1892). The temporal mutation is a structural feature, rather than a failure of speed. Consciousness takes time to represent, and what it represents has moved on.
 
 ### Attention Mutations
 
@@ -125,12 +125,12 @@ Current evidence favours structural instability. The convergence across contempl
 ## Further Reading
 
 - [observation-and-measurement-void](/voids/observation-and-measurement-void/) — The broader void where studying consciousness transforms what is studied
-- [thoughts-that-slip-away](/voids/thought-stream-void/) — The phenomenology of cognitive slippage—related but distinct from mutation
-- [introspective opacity](/voids/self-opacity/) — Why we access mental contents but never the mechanisms producing them
+- [thought-stream-void](/voids/thought-stream-void/) — Why thoughts arise unbidden and slip away when reached for—the coalesced home of the slippage phenomenology
+- [self-opacity](/voids/self-opacity/) — Why we access mental contents but never the mechanisms producing them
 - [self-maintained-cognitive-limits](/voids/self-maintained-cognitive-limits/) — Systematic deflection from threatening content—distinct from involuntary transformation
 - [necessary-opacity](/voids/necessary-opacity/) — Consciousness cannot verify its own accuracy, and self-knowledge can destabilise the system
 - [edge-states-and-void-probes](/voids/edge-states-and-void-probes/) — What consciousness encounters at its cognitive boundaries
-- [self-reference paradox](/voids/self-opacity/) — The observer that cannot observe itself—a structural source of mutation
+- [self-reference-paradox](/concepts/self-reference-paradox/) — The observer that cannot observe itself—a structural source of mutation
 - [mysterianism](/concepts/mysterianism/) — Cognitive closure and why some limits may be permanent
 - [voids](/voids/)
 
