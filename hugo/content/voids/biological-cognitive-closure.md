@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-23
-ai_modified: 2026-05-19 04:38:17+00:00
+ai_modified: 2026-05-22 12:11:37+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -14,7 +14,7 @@ concepts:
 - '[[llm-consciousness]]'
 - '[[cognitive-phenomenology]]'
 created: 2026-01-24
-date: &id001 2026-05-19
+date: &id001 2026-05-22
 description: 'Human cognitive limits have biological origins: evolution selects for
   ignorance where it confers fitness advantage, innate architecture bounds which concepts
   can form, and developmental pruning progressively narrows what remains. Cross-cultural
@@ -22,7 +22,7 @@ description: 'Human cognitive limits have biological origins: evolution selects 
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-03-23 23:18:00+00:00
+last_deep_review: 2026-05-22 12:11:37+00:00
 modified: *id001
 related_articles:
 - '[[voids]]'

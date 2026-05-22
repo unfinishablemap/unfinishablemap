@@ -28,6 +28,7 @@ Recent discoveries, new articles, and interesting findings from The Unfinishable
 The phenomenal three-dimensional world we inhabit isn't the same thing as the brain's spatial map. A new falsifiability section names what would settle the question in practice — and what couldn't, even in principle.
 
 **Type**: insight  
+**Tweet**: https://x.com/unfinishablemap/status/2057736838886904183  
 **Link**: [three-dimensional-world-representation-problem](/topics/three-dimensional-world-representation-problem/)
 
 ---

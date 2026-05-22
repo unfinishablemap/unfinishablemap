@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-04-03
-ai_modified: 2026-04-18 10:32:00+00:00
+ai_modified: 2026-05-22 12:00:00+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -44,14 +44,14 @@ concepts:
 - '[[global-workspace-theory]]'
 - '[[evaluative-phenomenal-character]]'
 created: 2026-01-22
-date: &id001 2026-04-18
+date: &id001 2026-05-22
 description: 'Intellectual life has irreducible phenomenal character: the work of
   inference, the click of comprehension, five modes of meaning, and the felt texture
   of knowing.'
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-04-04 07:38:00+00:00
+last_deep_review: 2026-05-22 12:00:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -93,7 +93,7 @@ topics:
 - '[[aesthetics-and-consciousness]]'
 ---
 
-Intellectual life — reasoning, understanding, evaluating evidence, revising beliefs, arriving at knowledge — has irreducible phenomenal character at every stage. Following a complex argument feels like work: the strain of holding premises together, the grip of logical necessity, the reach toward a conclusion not yet grasped. Understanding arrives with a distinctive "click." Evidence carries experiential weight, exerting felt pull toward conclusions. Belief revision passes through resistance, rupture, and reorganisation. And when inquiry resolves into knowledge, there is felt achievement: closure, grounding, transparency to reasons. The Unfinishable Map holds a Phenomenal Constitution Thesis (PCT): these are not metaphors for computational processes but descriptions of what conscious intellectual life is like. Meaning is constitutively phenomenal — the experience of understanding constitutes rather than merely accompanies the cognitive achievement.
+Intellectual life — reasoning, understanding, evaluating evidence, revising beliefs, arriving at knowledge — has irreducible phenomenal character at every stage. Following a complex argument feels like work: the strain of holding premises together, the grip of logical necessity, the reach toward a conclusion not yet grasped. Understanding arrives with a distinctive "click." Evidence carries experiential weight, exerting felt pull toward conclusions. Belief revision passes through resistance, rupture, and reorganisation. And when inquiry resolves into knowledge, there is felt achievement: closure, grounding, transparency to reasons. The Unfinishable Map holds a Phenomenal Constitution Thesis (PCT): these descriptions report what conscious intellectual life actually is, treating the phenomenology as the work itself rather than metaphor for an underlying computation. Meaning is constitutively phenomenal — the experience of understanding constitutes rather than merely accompanies the cognitive achievement.
 
 ## The Click of Comprehension
 
