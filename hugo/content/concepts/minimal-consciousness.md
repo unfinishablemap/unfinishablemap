@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-31
-ai_modified: 2026-05-20 22:42:20+00:00
+ai_modified: 2026-05-21 22:15:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -15,7 +15,7 @@ concepts:
 - '[[combination-problem]]'
 - '[[integrated-information-theory]]'
 created: 2026-01-31
-date: &id001 2026-01-31
+date: &id001 2026-05-21
 description: The simplest form of consciousness—bare phenomenal experience without
   elaborate cognitive content. A key concept for understanding where consciousness
   begins.
@@ -28,6 +28,7 @@ related_articles:
 - '[[tenets]]'
 - '[[consciousness-simple-organisms-2026-01-19]]'
 - '[[minimal-consciousness-void]]'
+- '[[evidential-status-discipline]]'
 title: Minimal Consciousness
 topics:
 - '[[hard-problem-of-consciousness]]'
@@ -125,6 +126,14 @@ The concept matters for several reasons:
 **The hard problem**: Minimal consciousness isolates the core puzzle. Rich human experience involves memory, self-reflection, language, and complex emotional structure. Minimal consciousness strips these away, leaving just the basic problem: why is there experience at all?
 
 **Dualism vs emergence**: If consciousness emerged from physical processes, there should be a principled threshold—some complexity level where experience first appears. The difficulty of identifying any such threshold provides indirect support for treating consciousness as irreducible.
+
+## What Would Challenge This View?
+
+**In-practice (methodologically accessible, individually non-decisive).** (1) A principled, mechanism-anchored threshold separating systems with bare phenomenal experience from those without — derived from neural, computational, or thermodynamic criteria and predictive across novel cases — would press the article's claim that no such threshold has been identifiable. The article treats this absence as evidence; sustained progress on identifying the threshold would weaken that inference. (2) Convergent empirical work showing that systems with minimal Φ values (or whatever the relevant integration measure turns out to be) reliably *lack* the indicators across all proposed marker sets (anaesthetic responsiveness, learning beyond reflex, valenced behaviour) would lower the prior on widespread minimal consciousness; current evidence is mixed and theory-dependent. (3) A coherent reduction of the [combination problem](/concepts/combination-problem/) that allowed micro-experiences to compose into unified consciousness within a strictly physicalist framework would weaken the interface-dualist response, which relies in part on the combination problem's resistance to solution.
+
+**In-principle (inaccessible by the framework's own commitments).** (4) Verifying the *absence* of phenomenal experience in any candidate minimal system — requires settling the [explanatory-gap](/concepts/explanatory-gap/) from the outside, which the framework holds to be impossible from third-person evidence. (5) Direct measurement of the bare minimum of consciousness — the [minimal-consciousness-void](/voids/minimal-consciousness-void/) establishes that any introspective access enriches the experience beyond minimality; the actual minimum is structurally separated from the accessible minimum by the cost of observation. (6) Distinguishing graded emergence from interface coupling on third-person evidence alone — both views are compatible with the same behavioural and neural signatures, so the choice between them is not empirically forced.
+
+Honest framing: (4)–(6) are inaccessible by the framework's own commitments, not by an instrumentation gap future technology will close. The framework's net falsifiability is genuinely modest — the in-practice challenges constrain the threshold question; the in-principle challenges mark the void at consciousness's lower bound, per [evidential-status-discipline](/project/evidential-status-discipline/).
 
 ## Relation to Site Perspective
 

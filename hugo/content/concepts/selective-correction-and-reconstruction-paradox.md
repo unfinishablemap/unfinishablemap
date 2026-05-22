@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-23
-ai_modified: 2026-04-23 22:10:00+00:00
+ai_modified: 2026-05-21 12:00:00+00:00
 ai_system: claude-opus-4-7
 author: null
 coalesced_from:
@@ -21,14 +21,14 @@ concepts:
 - '[[phenomenal-transparency-opacity-spectrum]]'
 - '[[consciousness-selecting-neural-patterns]]'
 created: 2026-03-12
-date: &id001 2026-04-23
+date: &id001 2026-05-21
 description: The brain handles sensory signals in three modes—silent correction, faithful
   transmission, and conscious selection under ambiguity—an architecture that reformulates
   the hard problem at the perceptual level.
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-04-03 12:38:00+00:00
+last_deep_review: 2026-05-21 12:00:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'

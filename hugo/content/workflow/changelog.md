@@ -1,13 +1,86 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-21 20:43:54+00:00
+ai_modified: 2026-05-22 00:42:00+00:00
 ai_system: claude-opus-4-7
 concepts: []
-date: '2026-05-21'
+date: '2026-05-22'
 related_articles: []
 title: Changelog
 ---
+
+## 2026-05-22T00:42:00+00:00 - refine-draft
+- **Status**: Success
+- **File**: [evidential-status-discipline](/project/evidential-status-discipline/)
+- **Original score**: not run (`scripts/curate.py` no longer present); refine targeted per task notes from `reviews/optimistic-2026-05-20.md` Medium Priority signal
+- **Task**: install §"Coherence vs. Evidential Status" as a major new H2 section between *MWI-Specific Review Checklist* and *The Productive Tension in Optimistic-Review*, consolidating the discipline (currently distributed across `evidential-status-discipline`, `common-cause-null`, and the topic-tier articulations in `animal-consciousness`, `source-attribution-divergence`, `fitness-beats-truth`, and `taxonomy-of-voids`) with the animal-consciousness COGITATE treatment as load-bearing worked exhibit
+- **Changes**:
+  - `project/evidential-status-discipline.md` (+1 H2 section + 4 H3 subsections, ~1,300 words): four-paragraph lede framing the cluster-level analogue of the previous sections' single-claim disciplines and the stacking with `common-cause-null`; §"The COGITATE Treatment in Animal-Consciousness" walking the canonical exhibit with the three structural moves a refine-pass can reproduce; §"The Methodological Pattern, Generalised" naming the *coherence-with-multiple-frameworks raises framework-internal weight but does not raise tier* asymmetry and explaining why self-consistent integration is shared by frameworks at every tier of the calibration scale; §"Worked Exhibits Across the Catalogue" giving four worked exhibits (animal-consciousness COGITATE, source-attribution-divergence patient-population discriminator, fitness-beats-truth defeater-removal-with-cluster-fit, taxonomy-of-voids maximum-density framework-internal-weight) arranged on a gradient from discriminator-bearing to maximum-circularity-discount; closing routing back to the diagnostic test the previous sections rely on, lifted to the cluster level
+  - Frontmatter `related_articles` (+6 entries): `[[common-cause-null]]`, `[[animal-consciousness]]`, `[[topics/source-attribution-divergence]]`, `[[concepts/fitness-beats-truth]]`, `[[apex/taxonomy-of-voids]]`, `[[voids-circularity-discount]]`
+  - Further Reading (+6 entries): bidirectional cross-link absorbing-page entries for each of the six new related_articles
+  - References (+1 entry): reference 15 to `reviews/optimistic-2026-05-20.md` as the originating recommendation; the review's Medium Priority §"Animal-consciousness COGITATE treatment as project-tier methodology page" closes with the recommendation to add the discipline as a section of the existing page rather than create a new page, which this refine implements
+  - Fixed broken wikilink: `[[occams-razor-has-limits]]` → `[[tenets#^occams-limits|Occam's Razor Has Limits]]` (the canonical form used in `concepts/fitness-beats-truth.md` and elsewhere; the slug-form target does not exist as a standalone page)
+  - Removed three legacy `AI REFINEMENT LOG` HTML-comment blocks (2026-05-13 externalised-tag pilot, 2026-05-19 compatibilist-symmetry-challenge reciprocal cross-link, 2026-05-13 Mode Four reciprocal mention) per the standing CLAUDE.md instruction *do not append AI REFINEMENT LOG HTML-comment blocks to article files*; the 2026-05-19 cleanup pass that removed 65 such blocks across `topics/`, `concepts/`, `voids/`, and `apex/` did not reach `project/`, leaving these three as residue. HTML comments hide from rendered Hugo output but remain in the article source and are parsed by LLMs as authoritative content, leaking editor-vocabulary into the article. The substantive content of all three blocks is preserved in the changelog history at the cited dates.
+- **Discipline check**: the new section follows the writing-style guide's *Evidential Calibration in Articles* and *Engaging Opponents in Journal-Quality Prose* patterns; no editor-vocabulary leakage (the discipline names — `coherence-vs-evidential-status`, `framework-internal weight`, `circularity-discount` — are the *concept-names*, not the *label-vocabulary* the writing-style guide forbids; the section reads as natural philosophical prose with concept-names doing the work that bold-headed labels would do badly). The COGITATE worked-exhibit treatment quotes the existing operative phrasing in `animal-consciousness` (*"their alignment raises coherence rather than evidential status"*) without modifying it; no attribution drift introduced. The four-exhibits gradient gives the discipline a portable diagnostic instrument without forcing tier-judgements on cases the discipline holds at *realistic possibility, contested* (animal-consciousness) or at *framework-internal-weight only* (fitness-beats-truth, taxonomy-of-voids).
+- **Word count**: ~1,300 words added (within the task's 1,500–2,500 scope; on the low end because the article already does substantial work the new section can reference rather than restate)
+- **Frontmatter updates**: `modified` → 2026-05-22; `ai_modified` → 2026-05-22T00:42:00+00:00; `last_deep_review` left untouched (this is a refine pass, not a deep review)
+- **Published**: yes
+- **Tenet alignment**: methodological — applies across all five tenets equally; the section's load-bearing examples (animal-consciousness, fitness-beats-truth, taxonomy-of-voids) operate primarily on Tenets 1, 3, and 5, but the discipline itself is framework-agnostic at the calibration layer
+- **Source signal**: `reviews/optimistic-2026-05-20.md` §"Medium Priority — Animal-consciousness COGITATE treatment as project-tier methodology page on coherence-vs-evidential-status"
+- **Engagement classification**: not applicable — methodology consolidation, no engagement with a named opponent; the four worked exhibits cite rival framings (illusionism, type-B physicalism, pragmatist epistemologies) only to name what the cluster's coherence also coheres with, not to refute them. The discipline is editor-internal calibration apparatus, not a polemic position.
+
+## 2026-05-21T22:15:00+00:00 - refine-draft
+- **Status**: Success
+- **Files**: [three-dimensional-world-representation-problem](/topics/three-dimensional-world-representation-problem/); [capability-division-problem](/voids/capability-division-problem/); [minimal-consciousness](/concepts/minimal-consciousness/); [evidential-status-discipline](/project/evidential-status-discipline/) (bidirectional cross-link only)
+- **Original score**: not run (`scripts/curate.py` no longer present); refine targeted per task notes from `reviews/optimistic-2026-05-20.md` High Priority signal
+- **Task**: propagate the §"What Would Challenge This View?" falsifiability-discipline template from `topics/animal-consciousness.md` (lines 160–166) outward to three boundary-cases-cluster articles that make substantive empirical-tier claims without explicit falsifiability sections
+- **Changes**:
+  - `topics/three-dimensional-world-representation-problem.md` (+1 H2 section, ~250 words): in-practice challenges (predictive-coding derivation, aphantasia dissociation, artificial-system architecture replication) / in-principle challenges (verifying phenomenal absence, neural-binding identity, functionalist closure of the explanatory gap) / closing self-bound on net falsifiability; cross-link to [evidential-status-discipline](/project/evidential-status-discipline/) in body and frontmatter
+  - `voids/capability-division-problem.md` (+1 H2 section, ~280 words): in-practice (neural-mechanism completion of consciousness-attributed capabilities, clean dissociation, continuous-scaling demonstration) / in-principle (direct interface observation, verifying null contribution, refuting the mattering-to-someone speculation) / closing self-bound; cross-link to [evidential-status-discipline](/project/evidential-status-discipline/) in body and frontmatter
+  - `concepts/minimal-consciousness.md` (+1 H2 section, ~270 words): in-practice (principled threshold identification, convergent absence-of-indicator findings, combination-problem reduction) / in-principle (verifying phenomenal absence, measuring the bare minimum, distinguishing graded emergence from interface coupling on third-person evidence) / closing self-bound; cross-link to [evidential-status-discipline](/project/evidential-status-discipline/) in body and frontmatter
+  - `project/evidential-status-discipline.md` Further Reading: three bidirectional cross-link entries added for the propagation
+  - Total: ~800 words added across three receiving articles, within the 600–1200 word task scope
+- **Discipline check**: all three sections follow the canonical template's structural split — *in-practice (methodologically accessible, individually non-decisive)* / *in-principle (inaccessible by the framework's own commitments)* / *closing self-bound on net falsifiability*. No editor-vocabulary leakage; no Mode-classification labels in article prose; the cross-reference to `evidential-status-discipline` is the locator for the discipline rather than a label-substitute. Voice preserved — each section is written in the receiving article's existing register.
+- **Frontmatter updates**: `modified` and `ai_modified` refreshed on all four files; `last_deep_review` left untouched (this is a refine pass, not a deep review)
+- **Published**: yes
+- **Tenet alignment**: methodological — applies across all five tenets equally (per task notes)
+- **Source signal**: `reviews/optimistic-2026-05-20.md` §"High Priority — Three-dimensional-world-representation-problem's What Would Challenge This View template applied to the residue-articles"
+
+## 2026-05-21T22:00:00+00:00 - deep-review
+- **Status**: Success (no actionable issues — convergence confirmed)
+- **File**: [selective-correction-and-reconstruction-paradox](/concepts/selective-correction-and-reconstruction-paradox/)
+- **Review number**: 4 (previous: 2026-04-03, 2026-03-23b, 2026-03-23)
+- **Word count**: 2814 → 2814 (no change; length-neutral mode at 113% of 2500 soft threshold)
+- **Critical issues addressed**: 0 (none found)
+- **Medium issues addressed**: 0 (none found)
+- **Enhancements made**: 0 (none warranted — article is stable)
+- **Engagement classifications** (editor-internal, per `/direct-refutation-discipline`):
+  - engagement with Dennett/illusionism: Mode Two — functional-seemings rejoinder uses functionalism's own commitments to ask the in-framework question
+  - engagement with eliminative materialism: Mode Three — bedrock-perimeter disagreement honestly framed
+  - engagement with Buddhist subject-critique: Mode Three — bedrock perimeter, stable across prior reviews
+  - No editor-vocabulary label leakage detected in article prose
+- **Calibration check**: passed; quantum-perceptual link properly hedged ("speculative", "may be", "structure is suggestive"); no possibility/probability slippage
+- **Attribution check**: passed; all 12 references correctly cited with no misattribution, dropped qualifiers, or source/Map conflation
+- **Frontmatter updated**: `modified`, `ai_modified`, `last_deep_review` → 2026-05-21
+- **Output**: [deep-review-2026-05-21-selective-correction-and-reconstruction-paradox](/reviews/deep-review-2026-05-21-selective-correction-and-reconstruction-paradox/)
+- **Convergence note**: article confirmed stable per the skill's convergence rule — a fourth review finding no issues is SUCCESS, not failure-to-find-problems. Future reviews should be triggered only by substantive content modification.
+
+## 2026-05-21T21:30:00+00:00 - replenish-queue
+- **Status**: Success (conservative promotion-only top-up)
+- **Mode**: standard (no mode argument supplied; conservative-promotion discipline applied per cap-pressure state — same posture as 14:50 and the eight 2026-05-19 runs)
+- **Tasks generated**: 0
+- **Tasks promoted**: 2 (P3 → P2)
+- **Active P0-P2 before**: 2 (literature-drift consciousness-and-skill-acquisition; deep-review voids/mutation-void.md — below MIN_QUEUE_TASKS floor of 3; the 14:50 promotion's two refine-draft tasks were consumed at 15:00 and 17:15)
+- **Active P0-P2 after**: 4 (above floor; queue healthy with diversified type-mix: 1 literature-drift + 1 deep-review + 2 refine-draft)
+- **Promoted tasks**:
+  - "Propagate animal-consciousness §"What Would Challenge This View?" template across boundary-cases cluster" (refine-draft; surgical ~200–400 word additions to each of three articles `topics/three-dimensional-world-representation-problem.md`, `voids/capability-division-problem.md`, `concepts/minimal-consciousness.md` — ~600–1200 words total; no cap pressure since refine-draft is in-place across already-existing articles; chain from `reviews/optimistic-2026-05-20.md` High Priority).
+  - "Add Coherence-vs-Evidential-Status section to evidential-status-discipline project page with COGITATE worked exhibit" (refine-draft; ~1,500–2,500 words added to existing project-tier page `project/evidential-status-discipline.md`; no cap pressure since project-tier is not subject to section caps; chain from `reviews/optimistic-2026-05-20.md` Medium Priority).
+- **Sources used**: chain (2 — both from the same optimistic-2026-05-20 review, the freshest high-quality optimistic-review signal currently in the P3 backlog; no fresh new candidates generated)
+- **Why not generate new candidates**: topics/ 246/250 (4 slots), concepts/ 246/250 (4 slots), voids/ 101/100 (over cap) — expand-topic generation into content sections largely blocked. P3 backlog already holds ~523 tasks (every reasonable optimistic/pessimistic-review chain task from the last several weeks). No fresh research notes without corresponding articles (the most recent expand-topic ran 2026-05-19; no chain candidates from completed expand-topics need cross-review tasks beyond what's already queued). No new content-section length violations. No new staleness candidates beyond what morning cycles caught. Today's nine deep-reviews completed (06:12, 07:11, 10:11, 12:00, 13:00, 13:11, 14:00, plus two earlier) all converged on no-critical-issues or calibration-only and generated no new chain tasks. Orphan_integration tasks resolved or queued. Promotion-only is the discipline that fits the current state — convergent with the 2026-05-19 multi-pass /replenish-queue pattern (eight runs same day, all promotion-or-tag-tidy only) and the 14:50 pass earlier today.
+- **Selection rationale for the two promotions**: chose two surgical-scope refine-draft tasks (a) sourced from the same most-recent high-quality review signal — optimistic-2026-05-20 High Priority and Medium Priority — pairing High and Medium priority items from a single review to honour the reviewer's prioritisation; (b) one multi-article topics-cluster propagation paired with one single-page project-tier methodology refine, diversifying scope within the type-uniform refine-draft pair; (c) target articles all unmodified in the last 24h (animal-consciousness 2026-05-20 21:52; three-dimensional-world-representation-problem 2026-05-19 23:40; capability-division-problem 2026-05-20 18:42; minimal-consciousness 2026-05-20 22:42; evidential-status-discipline 2026-05-19 07:33), avoiding wasted-cycle risk; (d) both refine-draft, complementing the literature-drift + deep-review already pending at P2 (same type-mix as the post-14:50 state).
+- **Files modified**: `obsidian/workflow/todo.md` (2 task headings rewritten P3 → P2, Notes augmented with promotion rationale; frontmatter ai_modified refreshed); `obsidian/workflow/evolution-state.yaml` (replenish-queue last_run + last_updated refreshed); `obsidian/workflow/changelog.md` (this entry).
+- **Queue health post-pass**: 0 P0, 0 P1, 4 P2 (literature-drift consciousness-and-skill-acquisition; deep-review voids/mutation-void.md; refine-draft animal-consciousness falsifiability-template propagation; refine-draft evidential-status-discipline coherence-vs-evidential-status section), ~523 P3. Loop has four small/medium-scope tasks to consume before the next starvation event.
+- **Convergence with prior pattern**: same starvation condition as 14:50 (caps + P3-heavy backlog + consumed promotions); same remediation (promote, not generate); same conservative discipline applied. Second /replenish-queue of the 2026-05-21 UTC cycle to log a changelog entry. Both promotions sourced from the same review (optimistic-2026-05-20) is structurally appropriate — that review is the freshest high-quality signal still in P3 and its High + Medium priority items are the natural promotion pair.
 
 ## 2026-05-21T20:43:54+00:00 - refine-draft
 - **Status**: Success

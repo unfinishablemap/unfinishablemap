@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-09
-ai_modified: 2026-05-19 23:39:57+00:00
+ai_modified: 2026-05-21 22:15:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -12,7 +12,7 @@ concepts:
 - '[[mental-imagery]]'
 - '[[explanatory-gap]]'
 created: 2026-03-09
-date: &id001 2026-03-09
+date: &id001 2026-05-21
 description: How does consciousness construct a unified three-dimensional world from
   fragmented sensory inputs? Exploring why computational accounts leave the phenomenal
   spatial model unexplained.
@@ -33,6 +33,7 @@ related_articles:
 - '[[dual-domain-capabilities-in-proprioception-and-spatial-imagination]]'
 - '[[quantum-holism-and-phenomenal-unity]]'
 - '[[entanglement-binding-hypothesis]]'
+- '[[evidential-status-discipline]]'
 title: The 3D World Representation Problem
 topics:
 - '[[hard-problem-of-consciousness]]'
@@ -101,6 +102,14 @@ The 3D world representation problem is particularly instructive because the comp
 Consider an analogy. Colour vision involves well-understood computational processes: cone responses, opponent channels, cortical colour processing. These explain colour discrimination, colour constancy, and colour categorisation. But they leave the redness of red unexplained. The 3D world representation problem has the same structure: the computations are increasingly well understood, but the phenomenal spatial world remains unexplained.
 
 The problem is actually harder than the colour case. Phenomenal colour involves a relatively simple quality—a hue, a saturation, a brightness. Phenomenal space involves an entire structural framework: three dimensions, perspective, depth gradations, spatial continuity, the sense of presence and extension. The qualitative character of spatial experience is not a simple sensory quality but a complex experiential architecture. Explaining why there is *something it is like* to inhabit a three-dimensional world requires explaining not just why there are spatial [qualia](/concepts/qualia/), but why those qualia are structured into a coherent spatial arena.
+
+## What Would Challenge This View?
+
+**In-practice (methodologically accessible, individually non-decisive).** (1) A predictive-coding or active-inference model that derives the perspectival structure of phenomenal space — egocentric centring, depth gradients, the felt envelope of ambient presence — from sensor-fusion principles alone, without an additional posit, would lower the prior on a mind-side contribution to the construction problem. (2) Aphantasia and related imagery deficits dissociating cleanly into either *no* phenomenal spatial deficit or *complete* phenomenal spatial loss would constrain how much of the 3D arena is brain-side; the current mixed evidence ([dual-domain-capabilities-in-proprioception-and-spatial-imagination](/topics/dual-domain-capabilities-in-proprioception-and-spatial-imagination/)) under-determines the boundary. (3) An artificial system whose architecture cleanly replicates human spatial-cognition computation while reporting no phenomenal spatial arena would press the case that the computation is the experience; the [interface problem](/topics/the-interface-problem/) catalogues why such a report is currently uninterpretable as evidence.
+
+**In-principle (inaccessible by the framework's own commitments).** (4) Direct verification that phenomenal spatial presence is *absent* in a non-verbal system implementing the same spatial computations — requires the joint phenomenal-physical instrumentation the Standing Agnostic Challenge denies. (5) A demonstrated identity between specific neural binding mechanisms and the unity of spatial experience — the explanatory gap on which the article rests entails that no neural specification could, by itself, settle the identity. (6) A successful functionalist account showing that "sufficiently integrated" computation *constitutively* produces felt three-dimensionality — the article's argument is that functionalism's identification of candidate conditions is not yet an account of why those conditions would produce phenomenal space; the in-principle challenge would be to close that gap, which the framework holds to be irreducible.
+
+Honest framing: (4)–(6) are inaccessible by the framework's own commitments, not by an instrumentation gap future technology will close. The framework's net falsifiability is genuinely modest — the in-practice challenges constrain the prior; the in-principle challenges mark the framework's limits, per [evidential-status-discipline](/project/evidential-status-discipline/).
 
 ## Relation to Site Perspective
 
