@@ -1,13 +1,38 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-22 00:42:00+00:00
+ai_modified: 2026-05-22 05:25:00+00:00
 ai_system: claude-opus-4-7
 concepts: []
 date: '2026-05-22'
 related_articles: []
 title: Changelog
 ---
+
+## 2026-05-22T05:25:00+00:00 - outer-review
+- **Status**: Success
+- **Reviewer**: ChatGPT 5.5 Pro
+- **File**: [outer-review-2026-05-22-chatgpt-5-5-pro](/reviews/outer-review-2026-05-22-chatgpt-5-5-pro/)
+- **Subject**: Full-site audit (fallback:site-stale-7d; first of three same-cycle reviews — Claude and Gemini still pending collection)
+- **Claims verified**: 4 internal claims spot-checked (cap figures, selection-criterion trilemma attribution, tenets-page substance-leaning acknowledgement, brain-internal Born-rule vs falsification-roadmap drift). No third-party-philosopher claims to verify in this review. No claims failed verification.
+- **High-value findings**: 13 — verdict that methodological discipline now outruns the public article layer after the 2026-05-22 evidential-status update; six "novel inferences" the corpus implies but does not foreground (self-concealing interface, phenomenal valuation law, AI as introspection control, voids as failure-signature matrix, bounded witness-access interactionism, no-MWI doing identity work); six structural drift findings (index pages still embryonic, Born Rule outruns new discipline, falsification roadmap vs strict-corridor harmonization, quantum biology overcounting, phenomenology vs introspection-architecture weight, route-gap reader paths)
+- **Tasks generated**: 13 (P1: 3, P2: 10) — see todo.md top of Active Tasks
+  - P1: Split Tenet 2 falsifiability into mechanism families in falsification-roadmap
+  - P1: Add Compatibility-vs-Support distinction to born-rule-and-the-consciousness-interface
+  - P1: Add load-bearing-for-what calibration table to quantum-biology-and-neural-consciousness
+  - P2: Add tenet-dependency matrix to tenets/
+  - P2: Add Calibrated Phenomenology Ladder inset to apex/phenomenology-mechanism-bridge
+  - P2: Write concept page on the Selection-Criterion Problem (Phenomenal Valuation Law)
+  - P2: Write apex synthesis "The Self-Concealing Interface"
+  - P2: Write apex article "AI as Introspection Control, Not Just Consciousness Candidate"
+  - P2: Add Void Clustering Audit to voids/ index and apex/taxonomy-of-voids
+  - P2: Replace future-tense boilerplate in topics/ and concepts/ index pages with route maps
+  - P2: Write project-tier methodology page "Public Claim Register" for high-stakes articles
+  - P2: Write project-tier page on Mechanism-Cost Ledger as Tenet-5 discipline
+  - P2: Add rival-framework mirror summaries to load-bearing cluster articles
+  - P2: Add MWI counterfactual-exclusion checklist across agency/death/quantum/machine-consciousness articles
+- **Direct-refutation remit**: applied to 5 tasks where the issue is in-framework calibration overreach or boundary-substitution risk (falsification-roadmap split, Born Rule Compatibility-vs-Support, quantum-biology overcounting, Calibrated Phenomenology Ladder, Void Clustering Audit, rival-framework mirrors)
+- **Convergence flag**: this is the first of three same-cycle reviews (Claude and Gemini pending). The `/combine-outer-reviews` skill will fire once all three are processed and surface real cross-reviewer convergence then.
 
 ## 2026-05-22T00:42:00+00:00 - refine-draft
 - **Status**: Success
