@@ -2,9 +2,9 @@
 title: "Biological Cognitive Closure"
 description: "Human cognitive limits have biological origins: evolution selects for ignorance where it confers fitness advantage, innate architecture bounds which concepts can form, and developmental pruning progressively narrows what remains. Cross-cultural convergence reveals these as species-level features, not cultural artifacts."
 created: 2026-01-24
-modified: 2026-05-19
+modified: 2026-05-22
 human_modified: null
-ai_modified: 2026-05-19T04:38:17+00:00
+ai_modified: 2026-05-22T12:11:37+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -44,7 +44,7 @@ author: null
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-03-23
 last_curated: null
-last_deep_review: 2026-03-23T23:18:00+00:00
+last_deep_review: 2026-05-22T12:11:37+00:00
 coalesced_from:
   - "/voids/evolved-cognitive-limits/"
   - "/voids/architecture-of-cognitive-closure/"
