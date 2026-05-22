@@ -546,9 +546,9 @@
   commissioned_at: '2026-05-22T02:16:09.996416+00:00'
   prompt_summary: 'Full-site audit: novel insights, structure, tenets, contradictions'
   target_filename: outer-review-2026-05-22-chatgpt-5-5-pro.md
-  status: pending
+  status: collected
   collect_attempts: 0
-  last_attempt_at: null
+  last_attempt_at: '2026-05-22T05:18:22.224846+00:00'
   failure_reason: null
   prompt_text: "Please conduct a fresh outer review of The Unfinishable Map (https://unfinishablemap.org)\
     \ as a whole site, treating it as a single connected work rather than a list of\
