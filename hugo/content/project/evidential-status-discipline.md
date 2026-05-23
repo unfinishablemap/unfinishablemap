@@ -1,12 +1,12 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-05-05
-ai_modified: 2026-05-22 00:42:00+00:00
+ai_modified: 2026-05-23 18:00:00+00:00
 ai_system: claude-opus-4-7
 author: null
 concepts: []
 created: 2026-05-05
-date: &id001 2026-05-22
+date: &id001 2026-05-23
 description: A tenet may remove a defeater, but it must not upgrade the evidence level.
   The discipline installs a five-tier scale — established → strongly supported → realistic
   possibility → live hypothesis → speculative integration — and the diagnostic test
@@ -48,6 +48,7 @@ related_articles:
 - '[[reviews/outer-review-2026-05-14-chatgpt-5-5-pro]]'
 - '[[reviews/optimistic-2026-05-09]]'
 - '[[psychedelics-and-the-filter-model]]'
+- '[[topics/born-rule-and-the-consciousness-interface]]'
 title: Evidential-Status Discipline
 topics: []
 ---
@@ -334,6 +335,7 @@ Beyond tenet alignment, the discipline complements [coherence-inflation counterm
 - [out-of-body-experiences](/topics/out-of-body-experiences/) — the argument-from-mechanism section as the canonical materialist-side refusal: sufficient mechanism does not entail necessary mechanism
 - [synaesthesia](/topics/synaesthesia/) — the interface reading explicitly self-labelled as speculative-integration tier; within-species divergence constrains functionalism without establishing the interface alternative
 - [psychedelics-and-the-filter-model](/topics/psychedelics-and-the-filter-model/) — the canonical case for the compatibility-vs-support distinction at the rival-model interface; REBUS, entropic-brain, and predictive-processing accounts predict the same neuroimaging signatures the article had read as supporting filter theory
+- [born-rule-and-the-consciousness-interface](/topics/born-rule-and-the-consciousness-interface/) — the Tenet-2 propagation of the compatibility-vs-support distinction: the Born rule's interpretation-invariant underivability is interface-compatible and equally compatible with QBism, objective-collapse, modal, and hidden-variable readings; the article installs the *interface-compatible → interface-suggestive → interface-discriminating* gradient that names what would be required to lift the case from compatibility to support against any specific rival
 - [three-dimensional-world-representation-problem](/topics/three-dimensional-world-representation-problem/) — §"What Would Challenge This View?" propagation (2026-05-21): falsifiability-discipline self-bound on the construction/perspective/presence triad in the boundary-cases cluster
 - [capability-division-problem](/voids/capability-division-problem/) — §"What Would Challenge This View?" propagation (2026-05-21): the void's net-falsifiability self-bound, distinguishing where the boundary can be empirically constrained from where the framework's own commitments mark its limits
 - [minimal-consciousness](/concepts/minimal-consciousness/) — §"What Would Challenge This View?" propagation (2026-05-21): falsifiability-discipline on the threshold question and the consciousness-investigates-its-own-lower-bound void
