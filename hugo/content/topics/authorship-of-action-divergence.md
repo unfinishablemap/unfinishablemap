@@ -1,14 +1,13 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-05-22
-ai_modified: 2026-05-22 19:50:00+00:00
+ai_modified: 2026-05-22 22:30:00+00:00
 ai_system: claude-opus-4-7
 author: null
 concepts:
 - '[[introspection]]'
 - '[[phenomenology-of-choice-and-volition]]'
-- '[[agency]]'
-- '[[conscious-will]]'
+- '[[heterophenomenology]]'
 - '[[anti-correlated-metacognitive-signal]]'
 created: 2026-05-22
 date: &id001 2026-05-22
@@ -18,6 +17,7 @@ description: Human+AI iterative exploration of the choice-blindness paradigm as 
 draft: false
 human_modified: null
 last_curated: null
+last_deep_review: 2026-05-22 22:30:00+00:00
 modified: *id001
 related_articles:
 - '[[source-attribution-divergence]]'
@@ -39,7 +39,7 @@ topics:
 - '[[free-will]]'
 ---
 
-Authorship-of-action divergence is the within-species fact that healthy adults vary in their ability to detect when an outcome attributed to their own choice was not the outcome they selected. The choice-blindness paradigm developed by Petter Johansson, Lars Hall, and colleagues is its cleanest laboratory exhibit. Two adults presented with identical manipulations of their own recent choices produce demonstrably different verdicts about authorship—some catch the mismatch concurrently, some catch it retrospectively, and some produce confident, detailed justifications for choices that were never theirs. The spread marks the introspective layer at which the tracking of one's own agency can fail without the agent noticing, and it is the fifth sub-type catalogued at [source-attribution divergence](/topics/source-attribution-divergence/#the-typology)—the sub-type with the highest empirical resolution and the most methodologically loaded scope discipline.
+Authorship-of-action divergence is the within-species fact that healthy adults vary in their ability to detect when an outcome attributed to their own choice was not the outcome they selected. The choice-blindness paradigm developed by Petter Johansson, Lars Hall, and colleagues is its cleanest laboratory exhibit. Two adults presented with identical manipulations of their own recent choices produce demonstrably different verdicts about authorship—some catch the mismatch concurrently, some catch it retrospectively, and some produce confident, detailed justifications for choices that were never theirs. The spread marks the *outcome-recognition* layer of authorship-tracking—the introspective register at which a mismatch between intended and reported outcome can fail to be flagged—and it is the fourth sub-type catalogued at [source-attribution divergence](/topics/source-attribution-divergence/#the-typology), the sub-type with the highest empirical resolution and the most methodologically loaded scope discipline. The cause-attribution layer (did *I* cause this?) is treated separately under [the agency void](/voids/agency-void/) via Wegner's I-Spy paradigm; the two layers diverge in characteristic ways and are best disentangled from the outset.
 
 This article walks the Johansson et al. 2005 paradigm, develops the detection-rate-variability finding the post-2005 programme established, integrates the sub-type with the broader introspection-architecture cluster, and closes by naming what the case cannot deliver. The discipline applied throughout follows [evidential-status-discipline](/project/evidential-status-discipline/): the detection-rate-variability finding earns *strongly supported* tier; the interface-failure-of-authorship-tracking reading earns *live hypothesis* tier; neither tier licenses claims the data do not bear.
 
