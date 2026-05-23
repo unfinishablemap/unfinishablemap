@@ -4,7 +4,7 @@ description: "Mind and body are distinct yet causally connected. Quantum indeter
 created: 2026-01-14
 modified: 2026-01-31
 human_modified: null
-ai_modified: 2026-05-06T10:17:00+00:00
+ai_modified: 2026-05-23T16:30:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -176,6 +176,12 @@ Interactionism is compatible with different dualist ontologies (see [[substance-
 A second axis cross-cuts this distinction: how much ontological weight each side carries. The [[four-quadrant-dualism-taxonomy|thickness taxonomy]] places the Map near min-mind/min-physical—thin on both axes—while the Occam's-Razor-Has-Limits tenet keeps thicker quadrants live rather than ruled out by parsimony alone.
 
 The Map's [[bi-aspectual-ontology|bi-aspectual ontology]] sits within this space: reality has two irreducible aspects—structure (what physics describes) and actuality (what consciousness provides)—that interact at quantum indeterminacies. What matters is irreducibility (Dualism tenet) and causal efficacy (Bidirectional Interaction tenet).
+
+### Where the Map's Tenets Take a Substance-Leaning Sub-Reading
+
+The Dualism tenet's neutrality between substance and property dualism does not propagate uniformly across the Map's downstream positions, and interactionist dualism is one of the places the asymmetry surfaces. The bare interactionist commitment—mental states cause physical effects, physical states cause mental effects—does not by itself require a substance-bearing subject; an interactionist property dualism that grants mental properties genuine causal efficacy at quantum indeterminacies satisfies both the Dualism and Bidirectional Interaction tenets without positing a distinct mental substance. The substance-leaning enters when interactionism is paired with [[agent-causation|agent causation]]: the agent as persisting subject who exercises causal powers in its own right is what an agent-causal reading requires, and property-only readings struggle to ground that exercise. The Map combines interactionism with agent causation throughout the agency cluster, so the interactionist material does take on a substance-leaning where it engages free will, agent-causal selection, or the metaphysics of personal authorship. Where interactionism is doing only the irreducibility-plus-causal-efficacy work—as in the response to Kim's exclusion argument, the conservation-law treatment, or the response to the [[multi-mind-collapse-problem|multi-mind collapse problem]]—the substance-leaning is not load-bearing, and an interactionist property dualism would reach the same conclusions. The [[tenets#dualism|tenets page's agency-cluster paragraph]] registers this asymmetry explicitly; the same scoping applies here.
+
+A reader who accepts interactionist dualism but rejects substance-bearing agents would therefore part company with the Map specifically at the agent-causal step, not at the interactionist step. The article's first-order claims about mental causation, quantum interface, and conservation survive that disagreement; the article's claims about agents as ontologically prior causal sources do not.
 
 ## Objections and Responses
 

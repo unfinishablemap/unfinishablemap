@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-14
-ai_modified: 2026-04-16 20:55:00+00:00
+ai_modified: 2026-05-23 16:30:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -205,6 +205,12 @@ The Map's tenets are compatible with either substance or property dualism. What 
 The choice between substance and property dualism affects how we think about personal identity, survival, and the metaphysics of mind. These are important questions, but they're downstream of the central commitment: consciousness is real, irreducible, and causally efficacious.
 
 The Map leans toward substance dualism for two reasons. First, substance dualism avoids the combination problem entirely. Second, property dualism faces persistent pressure toward either panpsychism (where the combination problem bites) or epiphenomenalism (which the Bidirectional Interaction tenet rejects)—though interactionist property dualism remains a stable position that resists both pressures. This is a philosophical preference, not a doctrinal requirement.
+
+### Where the Substance-Leaning Becomes Load-Bearing
+
+The lean is not uniform across the Map's downstream positions. Articles in the agency cluster—[free-will](/topics/free-will/), [agent-causation](/concepts/agent-causation/), [moral-implications-of-genuine-agency](/topics/moral-implications-of-genuine-agency/), and the agent-causal portions of [interactionist-dualism](/concepts/interactionist-dualism/)—deploy a substance-leaning sub-reading because [agent causation](/concepts/agent-causation/) needs a persisting subject that exercises causal powers in its own right. A property-only reading on which mental properties supervene on a physical substrate without a substance-bearing subject struggles to ground that exercise. The substance-leaning is downstream of the agent-causal commitment, not inherited from the Dualism tenet, which remains neutral. The [tenets page's agency-cluster paragraph](/tenets/#dualism) registers this asymmetry as the load-bearing scoping.
+
+Articles outside the agency cluster—the [binding problem](/topics/the-binding-problem/) treatment, the [qualia and explanatory-gap arguments](/concepts/knowledge-argument/), much of the [voids catalogue](/apex/taxonomy-of-voids/)—neither require nor exclude the substance-bearing reading. They run on irreducibility alone, and an interactionist property dualism reaches the same conclusions on them. The Map's substance-leaning is therefore best read as the position the agency cluster commits to, not as the framework's general ontological default; the lean appears specifically where agency does. Readers tracking what each article requires can use this as the diagnostic: claims about the agent as ontological source need the substance-leaning reading, while claims about irreducibility, the explanatory gap, or the failure of materialism do not.
 
 ## Relation to Site Perspective
 

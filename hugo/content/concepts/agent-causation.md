@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-15
-ai_modified: 2026-05-19 11:04:33+00:00
+ai_modified: 2026-05-23 16:30:00+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -61,6 +61,10 @@ topics:
 Agent causation holds that conscious agents—understood as persisting substances rather than collections of events—directly cause their actions. The agent is the causal source, not reducible to prior mental events like beliefs and desires. This positions agents as initiators of causal chains, not merely links in chains that stretch back before their existence.
 
 The Unfinishable Map's [Bidirectional Interaction](/tenets/#bidirectional-interaction) tenet is essentially agent-causal: consciousness genuinely selects outcomes. The Map's framework specifies *how* this selection occurs—through quantum indeterminacies—while agent-causal philosophy provides the conceptual framework for *what* is happening: substances exercising irreducible causal powers.
+
+### Scope of the Substance-Leaning Commitment
+
+This article deploys a substance-leaning reading of dualism, and the scope of that commitment deserves explicit marking before the argument begins. The [Dualism tenet](/tenets/#dualism) itself is neutral between [substance and property dualism](/concepts/substance-property-dualism/)—it requires only that consciousness is irreducible to physical processes, with the specific ontological framework left open. The substance-leaning reading enters at the agent-causal level, not at the tenet level. Agent causation needs a persisting subject that exercises causal powers in its own right, and a property-only reading on which mental properties supervene on a physical substrate without a substance-bearing subject struggles to ground that exercise. The tenet does not entail this commitment; the commitment is downstream of the further claim that agents are irreducible causal sources, made in this article and elsewhere in the agency cluster ([free-will](/topics/free-will/), [interactionist-dualism](/concepts/interactionist-dualism/), [moral-implications-of-genuine-agency](/topics/moral-implications-of-genuine-agency/)). The tenets page registers the same scoping at [its Practical ontology of the agency cluster paragraph](/tenets/#dualism), so that the substance-leaning is not silently inherited from the tenet's neutral framing. Articles outside the agency cluster—the [binding problem](/topics/the-binding-problem/) treatment, the [qualia and explanatory-gap arguments](/concepts/knowledge-argument/), much of the [voids catalogue](/apex/taxonomy-of-voids/)—neither require nor exclude the substance-bearing reading; irreducibility alone does the work there. Readers who accept the Dualism tenet but reject substance-bearing agents would find this article's *agent-as-source* claim contestable; the contestation belongs at the agent-causal layer, not at the tenet. Where the property-dualist reading would change the article's conclusions is flagged inline where it bears.
 
 ## Agent vs. Event Causation
 
@@ -175,7 +179,7 @@ What the Map adds is mechanism. Traditional agent causation lacked an account of
 
 The [consciousness-value-connection](/concepts/consciousness-value-connection/) deepens the significance of agent causation. If consciousness is necessary for value to exist, then agent causation is the mechanism through which value is realised in the physical world—agents act *for the sake of* value because they are acquainted with it through experience.
 
-The [Dualism](/tenets/#dualism) tenet is essential: agent causation requires the agent to be ontologically distinct from physical events, or it collapses into event causation. Substance dualism provides this directly; property dualism supports it only if mental properties are genuinely irreducible and causally efficacious.
+The [Dualism](/tenets/#dualism) tenet is essential—agent causation requires the agent to be ontologically distinct from physical events, or it collapses into event causation—but the tenet itself does not select between substance and property dualism. Substance-bearing readings ground the agent's exercise of causal powers most naturally; a property-only reading supports agent causation only on the further requirement that mental properties are sufficient to ground a persisting subject that exercises causal powers in its own right, which is a heavier load than property dualism standardly carries. The substance-leaning is therefore a commitment of this article's agent-causal framework rather than of the tenet, and a property dualist who accepted the tenet could reject the agent-causal reading without contradiction. The Map registers this scoping rather than presenting substance dualism as inherited from the tenet directly; see [the tenets page's agency-cluster paragraph](/tenets/#dualism) for the load-bearing statement.
 
 The [Occam's Razor Has Limits](/tenets/#occams-limits) tenet addresses the main objection—that agent causation is metaphysically extravagant. Substance causation answers directly: if all causation is substances exercising powers, agent causation posits fewer primitive relations than event causation, which needs events, laws, and the mysterious relation between them. Against [epiphenomenalism](/concepts/epiphenomenalism/): if consciousness is a genuine substance, it has causal powers by its nature. Substances *act*; that's what makes them substances.
 
