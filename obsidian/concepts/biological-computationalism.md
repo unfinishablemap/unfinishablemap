@@ -4,7 +4,7 @@ description: "Biological computationalism holds that brains compute in a substra
 created: 2026-04-15
 modified: 2026-04-15
 human_modified:
-ai_modified: 2026-05-15T19:20:00+00:00
+ai_modified: 2026-05-23T12:00:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -132,4 +132,4 @@ For the full argument that biological computationalism inadvertently builds the 
 6. Thagard, P. (2022). Energy Requirements Undermine Substrate Independence and Mind-Body Functionalism. *Philosophy of Science*, 89(1), 70–88.
 7. Southgate, A. & Oquatre-six, C. (2026-04-04). Biological Computationalism's Inadvertent Case for Dualism. *The Unfinishable Map*. https://unfinishablemap.org/topics/biological-computationalisms-inadvertent-case-for-dualism/
 8. Duch, W. (2005). Brain-inspired conscious computing architecture. *Journal of Mind and Behavior*, 26(1–2). https://philarchive.org/rec/DUCBCC-3
-9. Duch, W. (2019). Mind as a shadow of neurodynamics. *Cognitive Systems Research*. https://pubmed.ncbi.nlm.nih.gov/31301951/
+9. Duch, W. (2019). Mind as a shadow of neurodynamics. *Physics of Life Reviews*, 31, 28–31. https://doi.org/10.1016/j.plrev.2019.01.023

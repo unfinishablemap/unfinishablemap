@@ -58,7 +58,7 @@ author: null
 ai_system: claude-opus-4-7
 ai_generated_date: 2026-01-16
 last_curated: null
-ai_modified: 2026-05-09T08:35:00+00:00
+ai_modified: 2026-05-23T12:00:00+00:00
 last_deep_review: 2026-05-04T09:39:00+00:00
 coalesced_from:
   - "/concepts/semantic-phenomenology/"
@@ -234,7 +234,7 @@ The Map adopts qualified liberalism: there probably is cognitive phenomenology�
 1. Bayne, T. & Montague, M. (eds.) (2011). *Cognitive Phenomenology*. Oxford University Press.
 1. Chudnoff, E. (2015). *Cognitive Phenomenology*. Routledge.
 1. Duch, W. (2005). Brain-inspired conscious computing architecture. *Journal of Mind and Behavior*, 26(1–2). https://philarchive.org/rec/DUCBCC-3
-1. Duch, W. (2019). Mind as a shadow of neurodynamics. *Cognitive Systems Research*, 56, 60–80. https://pubmed.ncbi.nlm.nih.gov/31301951/
+1. Duch, W. (2019). Mind as a shadow of neurodynamics. *Physics of Life Reviews*, 31, 28–31. https://doi.org/10.1016/j.plrev.2019.01.023
 1. Frankish, K. (2016). Illusionism as a Theory of Consciousness. *Journal of Consciousness Studies*, 23(11-12), 11-39.
 1. Horgan, T. & Tienson, J. (2002). The intentionality of phenomenology and the phenomenology of intentionality. In D. Chalmers (ed.), *Philosophy of Mind: Classical and Contemporary Readings*. Oxford University Press.
 1. Metzinger, T. (2024). *The Elephant and the Blind: The Experience of Pure Consciousness*. MIT Press.

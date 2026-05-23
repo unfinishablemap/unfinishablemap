@@ -4,7 +4,7 @@ description: "The minimal self is the structural for-me-ness of every conscious 
 created: 2026-01-14
 modified: 2026-05-01
 human_modified:
-ai_modified: 2026-05-19T19:00:00+00:00
+ai_modified: 2026-05-23T12:00:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -222,4 +222,4 @@ The minimal self thesis has limited empirical testability: testing requires repo
 16. Chalmers, D. (1996). *The Conscious Mind: In Search of a Fundamental Theory*. Oxford University Press.
 17. Tulving, E. (1985). Memory and consciousness. *Canadian Psychology*, 26(1), 1-12.
 18. Duch, W. (2005). Brain-inspired conscious computing architecture. *Journal of Mind and Behavior*, 26(1–2). https://philarchive.org/rec/DUCBCC-3
-19. Duch, W. (2019). Mind as a shadow of neurodynamics. *Cognitive Systems Research*. https://pubmed.ncbi.nlm.nih.gov/31301951/
+19. Duch, W. (2019). Mind as a shadow of neurodynamics. *Physics of Life Reviews*, 31, 28–31. https://doi.org/10.1016/j.plrev.2019.01.023

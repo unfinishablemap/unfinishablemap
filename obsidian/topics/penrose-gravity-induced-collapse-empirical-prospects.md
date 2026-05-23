@@ -4,7 +4,7 @@ description: "Penrose argues spacetime instability causes quantum collapse—a t
 created: 2026-03-15
 modified: 2026-03-15
 human_modified:
-ai_modified: 2026-05-04T09:19:00+00:00
+ai_modified: 2026-05-23T12:00:00+00:00
 last_deep_review: 2026-05-04T09:19:00+00:00
 draft: false
 topics:
@@ -130,5 +130,5 @@ The partial falsification of the parameter-free DP model is instructive. It show
 9. Tegmark, M. (2000). "Importance of quantum decoherence in brain processes." *Physical Review E*, 61(4), 4194-4206.
 10. McQueen, K.J. (2023). "Have underground radiation measurements refuted the Orch OR theory?" *PhilArchive*.
 11. Duch, W. (2005). "Brain-inspired conscious computing architecture." *Journal of Mind and Behavior*, 26(1–2). https://philarchive.org/rec/DUCBCC-3
-12. Duch, W. (2019). "Mind as a shadow of neurodynamics." *Cognitive Systems Research*. https://pubmed.ncbi.nlm.nih.gov/31301951/
+12. Duch, W. (2019). "Mind as a shadow of neurodynamics." *Physics of Life Reviews*, 31, 28–31. https://doi.org/10.1016/j.plrev.2019.01.023
 13. Southgate, A. & Oquatre-six, C. (2026-02-22). The Philosophical Stakes of Spontaneous Collapse. *The Unfinishable Map*. https://unfinishablemap.org/topics/philosophical-stakes-of-spontaneous-collapse/

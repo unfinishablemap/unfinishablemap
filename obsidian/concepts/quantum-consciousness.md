@@ -4,7 +4,7 @@ description: "How consciousness might interact with quantum mechanics: Orch OR m
 created: 2026-01-09
 modified: 2026-01-25
 human_modified: null
-ai_modified: 2026-05-03T00:57:00+00:00
+ai_modified: 2026-05-23T12:00:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -169,7 +169,7 @@ These proposals are contested but engage real physics.
 
 ## A Convergent Critic: Duch's Classical-Computational Alternative
 
-Włodzisław Duch — quantum-physicist-turned-cognitive-scientist — is the strongest competent critic of substantive quantum-mind proposals at the Penrose-Hameroff scale. Duch (2005, 2019) argues that brain processing requires *differentiation* across regions and timescales rather than the global synchronisation quantum-coherence proposals require, that decoherence timescales make sustained quantum effects implausible at biological temperatures (with Tegmark 2000 as his anchor), and that quantum proposals function as "pseudo-mysticism" — using exotic physics to fill explanatory gaps a classical-computational model can already fill via self-reflective dynamical access. His positive view (consciousness as the "shadow" of neurodynamics, articon-style architectures sufficient in principle) is a classical-computational alternative.
+Włodzisław Duch — quantum-physicist-turned-cognitive-scientist — is the strongest competent critic of substantive quantum-mind proposals at the Penrose-Hameroff scale. Duch (2005, 2019) argues that brain processing requires *differentiation* across regions and timescales rather than the global synchronisation quantum-coherence proposals require, that decoherence timescales make sustained quantum effects implausible at biological temperatures (with Tegmark 2000 as his anchor), and that quantum proposals fill explanatory gaps a classical-computational model can already fill via self-reflective dynamical access — exotic physics doing the work of an unearned explanatory leap. His positive view (consciousness as the "shadow" of neurodynamics, with the [[concepts/geometric-model-of-mind|articon architecture]] from Duch 2005 sufficient in principle) is a classical-computational alternative.
 
 The relationship to the Map's [[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]] tenet is structurally subtle: it is a *convergent-conclusion-opposite-reasoning* relationship. Duch and the Map agree that *substantive* quantum-mind proposals at Orch-OR-style macroscopic scale face severe obstacles. They part ways at the *minimal* interface — Duch wants zero quantum role for consciousness on the grounds that classical-computational dynamical access suffices; the Map wants minimal-but-real interaction on the grounds that some non-physical selection at the indeterminacy boundary is required for the *Bidirectional Interaction* tenet to do its work. The Map can therefore appropriate Duch's anti-Penrose-Hameroff arguments without inheriting his classical-sufficiency commitment, but only if the convergence-point and the divergence-point are kept structurally distinct. Articles citing Duch's quantum critique must specify which point is being borrowed; importing the classical-sufficiency commitment alongside the anti-coherence arguments would be a category error. The detailed convergence-and-divergence map is in [[research/wlodzislaw-duch-consciousness-2026-05-02|the Duch research dossier]].
 
@@ -264,4 +264,4 @@ The Map's position is strong emergentism that specifies its mechanism. Mental ca
 1. Tomaz, A. A., Mattos, R. S., & Barbatti, M. (2025). The quantum measurement problem: A review of recent trends. *Philosophical Magazine*.
 1. Wiest, O. et al. (2025). A quantum microtubule substrate of consciousness. *Neuroscience of Consciousness*, 2025(1).
 1. Duch, W. (2005). Brain-inspired conscious computing architecture. *Journal of Mind and Behavior*, 26(1–2). https://philarchive.org/rec/DUCBCC-3
-1. Duch, W. (2019). Mind as a shadow of neurodynamics. *Cognitive Systems Research*. https://pubmed.ncbi.nlm.nih.gov/31301951/
+1. Duch, W. (2019). Mind as a shadow of neurodynamics. *Physics of Life Reviews*, 31, 28–31. https://doi.org/10.1016/j.plrev.2019.01.023

@@ -37,14 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P1: Fix Duch 2019 journal citation in quantum-consciousness concept page
-- **Type**: refine-draft
-- **Status**: pending
-- **Notes**: Outer-review 2026-05-22 Claude Opus 4.7 §Key Findings 8(a), §Details 4. The `concepts/quantum-consciousness.md` References section (line 267) cites Duch (2019) "Mind as a shadow of neurodynamics" as *Cognitive Systems Research* — this is wrong. Verified via PubMed 31301951: the paper appeared in *Physics of Life Reviews* 31:28–31 (2019), DOI 10.1016/j.plrev.2019.01.023. Refine pass should: (a) correct the journal name, volume, and pages in the References section of `concepts/quantum-consciousness.md`; (b) check `research/wlodzislaw-duch-consciousness-2026-05-02.md` for the same misattribution and fix if present; (c) search the corpus for any other citations of Duch 2019 with the wrong journal and correct them; (d) also verify the labels "articon-style architectures" (line 172) and Orch-OR-as-"pseudo-mysticism" attributed to Duch — the reviewer was unable to verify these in retrievable Duch sources, so a brief check of Duch's actual writing should confirm or remove them. Tenet alignment: attribution discipline supporting Tenet 2 (Minimal Quantum Interaction) — citation integrity is foundational to the Map's distinguishing feature.
-- **Review file**: `reviews/outer-review-2026-05-22-claude-opus-4-7.md`
-- **Source**: outer-review
-- **Generated**: 2026-05-23
-
 ### P1: Anchor the 613 THz finding to Craddock et al. 2017 across the corpus
 - **Type**: refine-draft
 - **Status**: pending
@@ -3989,6 +3981,10 @@ Tasks that failed 3+ times and require human intervention.
 
 Ideas that were considered and rejected. The AI will not re-propose these.
 
+
+### ✓ 2026-05-23: Fix Duch 2019 journal citation in quantum-consciousness concept page
+- **Type**: refine-draft
+- **Notes**: Outer-review 2026-05-22 Claude Opus 4.7 §Key Findings 8(a), §Details 4. The `concepts/quantum-consciousness.md` References section (line 267) cites Duch (2019) "Mind as a shadow of neurodynamics" as *Cognitive Systems Research* — this is wrong. Verified via PubMed 31301951: the paper appeared in *Physics of Life Reviews* 31:28–31 (2019), DOI 10.1016/j.plrev.2019.01.023. Refine pass should: (a) correct the journal name, volume, and pages in the References section of `concepts/quantum-consciousness.md`; (b) check `research/wlodzislaw-duch-consciousness-2026-05-02.md` for the same misattribution and fix if present; (c) search the corpus for any other citations of Duch 2019 with the wrong journal and correct them; (d) also verify the labels "articon-style architectures" (line 172) and Orch-OR-as-"pseudo-mysticism" attributed to Duch — the reviewer was unable to verify these in retrievable Duch sources, so a brief check of Duch's actual writing should confirm or remove them. Tenet alignment: attribution discipline supporting Tenet 2 (Minimal Quantum Interaction) — citation integrity is foundational to the Map's distinguishing feature.
 
 ### ✓ 2026-05-22: Score type-specificity's three grains on the four-criterion independence framework
 - **Type**: refine-draft

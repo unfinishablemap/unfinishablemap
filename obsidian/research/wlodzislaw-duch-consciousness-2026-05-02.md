@@ -4,7 +4,7 @@ created: 2026-05-02
 draft: false
 ai_contribution: 100
 ai_system: claude-opus-4-7
-ai_modified: 2026-05-04T14:24:00+00:00
+ai_modified: 2026-05-23T12:00:00+00:00
 related_articles:
   - "[[concepts/biological-computationalism]]"
   - "[[concepts/quantum-consciousness]]"
@@ -71,9 +71,9 @@ The research surfaces a tension worth flagging early: Duch's blog statements rep
 - **Tenet alignment**: **Direct conflict with Tenet 1** — this is the most overtly anti-dualist piece of the Duch corpus. Conflicts with the Map's `topics/biological-computationalisms-inadvertent-case-for-dualism.md` argument structure (Duch is a computationalist who does *not* concede the substrate-dependence move that biological-computationalism makes). Useful as a foil.
 - **Quote (search-extracted)**: "The ability to comment upon physical states of a brain-like dynamical system coupled with its environment seems to be sufficient to make claims [of consciousness]."
 
-### Duch, W. — "Mind as a shadow of neurodynamics" (2019, *Cognitive Systems Research*)
-- **URL**: https://pubmed.ncbi.nlm.nih.gov/31301951/ (PubMed metadata only — no abstract available; full text behind Elsevier paywall)
-- **Type**: Journal article
+### Duch, W. — "Mind as a shadow of neurodynamics" (2019, *Physics of Life Reviews* 31:28–31)
+- **URL**: https://pubmed.ncbi.nlm.nih.gov/31301951/ ; DOI: 10.1016/j.plrev.2019.01.023 (PubMed metadata only — no abstract available; full text behind Elsevier paywall)
+- **Type**: Journal article (commentary in *Physics of Life Reviews*; the venue confirms the paper engages the journal's interdisciplinary biophysics-and-cognition audience rather than a pure computational-cognition readership)
 - **Keywords (PubMed)**: Mental spaces; Mental trajectories; Mind models; Neurodynamics; Physics of the mind.
 - **Key points** (from keywords + corpus pattern):
   - Continuation of the geometric programme; the title itself is metaphysically suggestive — "shadow" is a Platonic image, but in Duch's usage the directionality is brain → mind, not Form → particular. Mind is the *expressed* approximation of neurodynamics.
@@ -183,7 +183,7 @@ The research surfaces a tension worth flagging early: Duch's blog statements rep
 | 2005 | Duch, "Brain-inspired conscious computing architecture" (*J. Mind and Behavior*) | Articon thought-experiment; direct anti-Chinese-Room argument |
 | 2017 | Duch, "Kurt Lewin, psychological constructs and sources of brain cognitive activity" (arXiv) | Methodological statement: psychological constructs grounded in measurable neural activity |
 | 2018 | Duch, "Fingerprints of brain cognitive activity" | Empirical neurocognitive-informatics programme |
-| 2019 | Duch, "Mind as a shadow of neurodynamics" (*Cognitive Systems Research*) | Mature statement of the shadow/derivative-mind thesis |
+| 2019 | Duch, "Mind as a shadow of neurodynamics" (*Physics of Life Reviews* 31:28–31) | Mature statement of the shadow/derivative-mind thesis |
 | 2022 | Duch, "Concept Representation and the Geometric Model of Mind" (*SLGR*) | Recent restatement of the geometric programme |
 | 2025–26 | Wiest et al., quantum microtubule substrate (*Neuroscience of Consciousness*); ongoing biological-computationalism debate | Two fronts on which Duch's position is currently being tested |
 
@@ -254,7 +254,7 @@ When writing or revising articles based on this research, follow `obsidian/proje
 - Duch, W. (2005). "Brain-inspired conscious computing architecture." *Journal of Mind and Behavior* 26(1–2). https://philarchive.org/rec/DUCBCC-3
 - Duch, W. (2017). "Kurt Lewin, psychological constructs and sources of brain cognitive activity." arXiv:1711.01767. https://arxiv.org/abs/1711.01767
 - Duch, W. (2018). "Fingerprints of brain cognitive activity." https://is.umk.pl/~duch/ref/18/18-Fingerprints%20of%20brain%20activity.pdf
-- Duch, W. (2019). "Mind as a shadow of neurodynamics." *Cognitive Systems Research*. https://pubmed.ncbi.nlm.nih.gov/31301951/
+- Duch, W. (2019). "Mind as a shadow of neurodynamics." *Physics of Life Reviews* 31: 28–31. DOI: 10.1016/j.plrev.2019.01.023. https://pubmed.ncbi.nlm.nih.gov/31301951/
 - Duch, W. (2022). "Concept Representation and the Geometric Model of Mind." *Studies in Logic, Grammar and Rhetoric*. https://reference-global.com/article/10.2478/slgr-2022-0009
 - Duch, W. — "Facing the hard question." PhilPapers entry: https://philpapers.org/rec/DUCFTH-4 (full text not accessed this session)
 - Duch, W. — Personal blog (Polish): https://wduch.wordpress.com/

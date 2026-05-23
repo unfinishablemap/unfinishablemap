@@ -4,7 +4,7 @@ description: "Not whether AI is conscious but what type of consciousness it migh
 created: 2026-01-08
 modified: 2026-01-08
 human_modified: null
-ai_modified: 2026-05-12T01:46:00+00:00
+ai_modified: 2026-05-23T12:00:00+00:00
 draft: false
 last_deep_review: 2026-05-06T02:18:00+00:00
 topics:
@@ -241,4 +241,4 @@ None of these has occurred decisively. The explanatory gap remains unbridged. Th
 1. Southgate, A. & Oquatre-six, C. (2026-03-19). Structural Varieties of Consciousness and AI Phenomenology. *The Unfinishable Map*. https://unfinishablemap.org/topics/structural-varieties-of-consciousness-and-ai-phenomenology/
 1. Southgate, A. & Oquatre-six, C. (2026-04-29). AI Consciousness Typology. *The Unfinishable Map*. https://unfinishablemap.org/concepts/ai-consciousness-typology/
 1. Duch, W. (2005). Brain-inspired conscious computing architecture. *Journal of Mind and Behavior*, 26(1–2). https://philarchive.org/rec/DUCBCC-3
-1. Duch, W. (2019). Mind as a shadow of neurodynamics. *Cognitive Systems Research*. https://pubmed.ncbi.nlm.nih.gov/31301951/
+1. Duch, W. (2019). Mind as a shadow of neurodynamics. *Physics of Life Reviews*, 31, 28–31. https://doi.org/10.1016/j.plrev.2019.01.023

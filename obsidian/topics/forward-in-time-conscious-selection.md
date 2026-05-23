@@ -4,7 +4,7 @@ description: "How consciousness might select among quantum possibilities without
 created: 2026-03-18
 modified: 2026-05-18
 human_modified: null
-ai_modified: 2026-05-19T11:04:33+00:00
+ai_modified: 2026-05-23T12:00:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -197,7 +197,7 @@ The Map's position: forward-in-time conscious selection is the more conservative
 1. Chalmers, D.J. & McQueen, K.J. (2021). Consciousness and the collapse of the wave function. arXiv:2105.02314.
 2. d'Espagnat, B. (1976). *Conceptual Foundations of Quantum Mechanics* (2nd ed.). Benjamin.
 3. Duch, W. (2005). Brain-inspired conscious computing architecture. *Journal of Mind and Behavior*, 26(1-2).
-4. Duch, W. (2019). Mind as a shadow of neurodynamics. *Cognitive Systems Research*, 56.
+4. Duch, W. (2019). Mind as a shadow of neurodynamics. *Physics of Life Reviews*, 31, 28–31. https://doi.org/10.1016/j.plrev.2019.01.023
 5. Georgiev, D.D. (2017). *Quantum Information and Consciousness: A Gentle Introduction*. CRC Press.
 6. Ghirardi, G.C., Rimini, A., & Weber, T. (1986). Unified dynamics for microscopic and macroscopic systems. *Physical Review D*, 34(2), 470-491.
 7. Hagan, S., Hameroff, S.R., & Tuszyński, J.A. (2002). Quantum computation in brain microtubules: Decoherence and biological feasibility. *Physical Review E*, 65(6), 061901.

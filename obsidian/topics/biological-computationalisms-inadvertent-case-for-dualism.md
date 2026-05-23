@@ -4,7 +4,7 @@ description: "Biological computationalism rejects substrate independence while r
 created: 2026-04-04
 modified: 2026-05-02
 human_modified:
-ai_modified: 2026-05-02T22:53:00+00:00
+ai_modified: 2026-05-23T12:00:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -118,7 +118,7 @@ The **Bidirectional Interaction** tenet requires consciousness to causally influ
 1. Block, N. (1978). Troubles with Functionalism. *Minnesota Studies in the Philosophy of Science*, 9, 261–325.
 2. Chalmers, D.J. (1996). *The Conscious Mind: In Search of a Fundamental Theory*. Oxford University Press.
 3. Duch, W. (2005). Brain-inspired conscious computing architecture. *Journal of Mind and Behavior*, 26(1–2). https://philarchive.org/rec/DUCBCC-3
-4. Duch, W. (2019). Mind as a shadow of neurodynamics. *Cognitive Systems Research*, 56, 60–80. https://pubmed.ncbi.nlm.nih.gov/31301951/
+4. Duch, W. (2019). Mind as a shadow of neurodynamics. *Physics of Life Reviews*, 31, 28–31. https://doi.org/10.1016/j.plrev.2019.01.023
 5. Fodor, J.A. (1974). Special Sciences (Or: The Disunity of Science as a Working Hypothesis). *Synthese*, 28(2), 97–115.
 6. Milinkovic, B. & Aru, J. (2025). On biological and artificial consciousness: A case for biological computationalism. *Neuroscience & Biobehavioral Reviews*, 181, 106524.
 7. Piccinini, G. (2015). *Physical Computation: A Mechanistic Account*. Oxford University Press.
