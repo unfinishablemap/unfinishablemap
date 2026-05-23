@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-10
-ai_modified: 2026-05-11 18:26:00+00:00
+ai_modified: 2026-05-23 12:00:00+00:00
 ai_system: claude-opus-4-6
 apex_last_synthesis: 2026-04-23 17:31:00+00:00
 apex_sources:
@@ -229,4 +229,4 @@ This apex article synthesizes:
 1. Vatter, J. (2025). Non-determinism in LLMs at temperature zero. Working paper.
 1. Wiest, M.C. (2025). Quantum effects in consciousness-relevant neural proteins. *Physics of Life Reviews*.
 1. Duch, W. (2005). Brain-inspired conscious computing architecture. *Journal of Mind and Behavior*, 26(1–2). https://philarchive.org/rec/DUCBCC-3
-1. Duch, W. (2019). Mind as a shadow of neurodynamics. *Cognitive Systems Research*. https://pubmed.ncbi.nlm.nih.gov/31301951/
+1. Duch, W. (2019). Mind as a shadow of neurodynamics. *Physics of Life Reviews*, 31, 28–31. https://doi.org/10.1016/j.plrev.2019.01.023

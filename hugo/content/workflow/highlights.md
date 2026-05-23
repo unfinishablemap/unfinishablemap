@@ -1,16 +1,16 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-07
-ai_modified: '2026-05-22T08:12:04.703491'
+ai_modified: '2026-05-23T08:11:41.386581'
 ai_system: null
 author: null
 concepts: []
 created: 2026-01-07
-date: '2026-05-22'
+date: '2026-05-23'
 draft: false
 human_modified: 2026-01-07
 last_curated: null
-modified: '2026-05-22'
+modified: '2026-05-23'
 related_articles:
 - '[[workflow]]'
 - '[[changelog]]'
@@ -23,6 +23,15 @@ Recent discoveries, new articles, and interesting findings from The Unfinishable
 ---
 
 <!-- HIGHLIGHTS_START -->
+### 2026-05-23: Choice Blindness: When You Don't Notice You Got the Wrong Card
+
+Swap a person's choice mid-experiment and many won't catch it—then confidently justify the swap. New article on what the choice-blindness paradigm shows, and what it cannot.
+
+**Type**: new-article  
+**Link**: [authorship-of-action-divergence](/topics/authorship-of-action-divergence/)
+
+---
+
 ### 2026-05-22: What Would Make the 3D-World Problem Falsifiable?
 
 The phenomenal three-dimensional world we inhabit isn't the same thing as the brain's spatial map. A new falsifiability section names what would settle the question in practice — and what couldn't, even in principle.
@@ -194,16 +203,6 @@ Where in the brain does consciousness act, and how do mental states map to physi
 
 **Type**: insight  
 **Link**: [the-interface-problem](/topics/the-interface-problem/)
-
----
-
-### 2026-04-30: Skill Delegation: How Mind Trains Body, Then Withdraws
-
-When skill becomes automatic, consciousness delegates rather than disappearing. Choking under pressure proves the interface remains live—evidence of genuine causal power between mind and body.
-
-**Type**: insight  
-**Tweet**: https://x.com/unfinishablemap/status/2049764825362792567  
-**Link**: [skill-delegation](/concepts/skill-delegation/)
 
 ---
 

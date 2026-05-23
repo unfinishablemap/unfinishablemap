@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-22
-ai_modified: 2026-05-04 14:24:00+00:00
+ai_modified: 2026-05-23 12:00:00+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -203,5 +203,5 @@ Affirming strong emergence is not the same as explaining it. The deeper question
 1. O'Connor, T. & Wong, H.Y. (2005). "The Metaphysics of Emergence." *Noûs*, 39: 658-678.
 1. Tegmark, M. (2000). "Importance of quantum decoherence in brain processes." *Physical Review E*, 61(4): 4194-4206.
 1. Duch, W. (1998). "Platonic model of mind as an approximation to neurodynamics." In *Brain-like Computing and Intelligent Information Systems* (Amari & Kasabov, eds.). Springer.
-1. Duch, W. (2019). "Mind as a shadow of neurodynamics." *Cognitive Systems Research*. https://pubmed.ncbi.nlm.nih.gov/31301951/
+1. Duch, W. (2019). "Mind as a shadow of neurodynamics." *Physics of Life Reviews*, 31, 28–31. https://doi.org/10.1016/j.plrev.2019.01.023
 1. Duch, W. (2022). "Concept Representation and the Geometric Model of Mind." *Studies in Logic, Grammar and Rhetoric*. https://reference-global.com/article/10.2478/slgr-2022-0009

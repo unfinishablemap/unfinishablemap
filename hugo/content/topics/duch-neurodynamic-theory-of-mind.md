@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-05-11
-ai_modified: 2026-05-15 19:20:00+00:00
+ai_modified: 2026-05-23 12:00:00+00:00
 ai_system: claude-opus-4-7
 author: null
 concepts:
@@ -43,7 +43,7 @@ The Unfinishable Map takes Duch seriously as the most competent contemporary adv
 
 ## The Core Thesis: Mind as Shadow of Neurodynamics
 
-Duch's mature statement appears under the title "Mind as a shadow of neurodynamics" (*Cognitive Systems Research*, 2019), but the programme runs back to a 1996 paper, "Computational physics of the mind", and a 1998 book chapter, "Platonic model of mind as an approximation to neurodynamics". The image is Platonic in form but inverted in direction: shadows are projections of brain states onto a lower-dimensional psychological space, with the directionality strictly brain → mind. Mind is what neurodynamics looks like when described at the right intermediate level.
+Duch's mature statement appears under the title "Mind as a shadow of neurodynamics" (*Physics of Life Reviews* 31:28–31, 2019), but the programme runs back to a 1996 paper, "Computational physics of the mind", and a 1998 book chapter, "Platonic model of mind as an approximation to neurodynamics". The image is Platonic in form but inverted in direction: shadows are projections of brain states onto a lower-dimensional psychological space, with the directionality strictly brain → mind. Mind is what neurodynamics looks like when described at the right intermediate level.
 
 The 1998 paper introduces the geometric framework. According to Duch, "objects and events in psychological space correspond to quasi-stable states of brain dynamics and may be interpreted from a psychological point of view." Two versions of the model run in parallel. The static version, Feature Space Mapping, treats mental representations as objects in a coordinate space whose dimensions are features. The dynamic version treats mental events as trajectories between attractor states. Empirical validation comes from a 30-feature animal-concept space whose similarity structure matches multidimensional-scaling results from human similarity judgments (Duch & Naud).
 
@@ -128,7 +128,7 @@ The articon thesis is the strongest competent affirmative position the Map's [op
 3. Duch, W. (2005). Brain-inspired conscious computing architecture. *Journal of Mind and Behavior* 26(1–2): 1–22. https://philarchive.org/rec/DUCBCC-3
 4. Duch, W. (2017). Kurt Lewin, psychological constructs and sources of brain cognitive activity. arXiv:1711.01767. https://arxiv.org/abs/1711.01767
 5. Duch, W. (2018). Fingerprints of brain cognitive activity. https://is.umk.pl/~duch/ref/18/18-Fingerprints%20of%20brain%20activity.pdf
-6. Duch, W. (2019). Mind as a shadow of neurodynamics. *Cognitive Systems Research* 59: 30–37. https://pubmed.ncbi.nlm.nih.gov/31301951/
+6. Duch, W. (2019). Mind as a shadow of neurodynamics. *Physics of Life Reviews* 31: 28–31. https://doi.org/10.1016/j.plrev.2019.01.023
 7. Duch, W. (2022). Concept representation and the geometric model of mind. *Studies in Logic, Grammar and Rhetoric* 67(1): 151–167. https://reference-global.com/article/10.2478/slgr-2022-0009
 8. Duch, W. — Personal academic blog. https://wduch.wordpress.com/
 9. Wiest, M. et al. (2025). A quantum microtubule substrate of consciousness is experimentally supported and solves the binding and epiphenomenalism problems. *Neuroscience of Consciousness* 2025(1): niaf011. https://academic.oup.com/nc/article/2025/1/niaf011/8127081

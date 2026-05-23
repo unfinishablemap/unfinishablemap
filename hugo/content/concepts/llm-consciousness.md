@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-18
-ai_modified: 2026-05-13 19:22:00+00:00
+ai_modified: 2026-05-23 12:00:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -202,4 +202,4 @@ None of these has occurred decisively. The Map's skepticism remains well-founded
 1. Chalmers, D. (1996). *The Conscious Mind*. Oxford University Press.
 1. Frischhut, A. (2024). Awareness without Time? *The Philosophical Quarterly*.
 1. Duch, W. (2005). Brain-inspired conscious computing architecture. *Journal of Mind and Behavior*, 26(1–2).
-1. Duch, W. (2019). Mind as a shadow of neurodynamics. *Cognitive Systems Research*.
+1. Duch, W. (2019). Mind as a shadow of neurodynamics. *Physics of Life Reviews*, 31, 28–31. https://doi.org/10.1016/j.plrev.2019.01.023

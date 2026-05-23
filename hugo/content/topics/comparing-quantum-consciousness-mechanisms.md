@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-09
-ai_modified: 2026-05-19 00:00:00+00:00
+ai_modified: 2026-05-23 12:00:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -122,7 +122,7 @@ Hybrid models combine spontaneous collapse theories (GRW, CSL) with consciousnes
 
 ## The External Critic: Duch's Classical-Computational Alternative
 
-A complete comparison must locate these four mechanisms against the most rigorous *external* critic — Włodzisław Duch (trained as a quantum physicist; now a cognitive scientist), whose anti-quantum-mind position challenges the quantum framing as such. Duch (2005, 2019) argues that brain dynamics require *differentiation* across regions and timescales rather than the global synchronisation Penrose-Hameroff-style proposals require, that decoherence timescales (per Tegmark 2000) make sustained quantum effects implausible at biological temperatures, and that classical-computational self-reflective dynamical access ("mind as a shadow of neurodynamics") suffices to ground consciousness. He dismisses substantive quantum-mind proposals as "pseudo-mysticism" — a charge that cuts most sharply against Orch OR and least against the discrete-event mechanisms (Stapp, Fisher) that operate without sustained coherence. Hybrids that already accept objective collapse on physical grounds (CSL-IIT) face a different Duch objection: that consciousness modulation adds no explanatory power that classical attractor dynamics over the same neural states cannot already supply.
+A complete comparison must locate these four mechanisms against the most rigorous *external* critic — Włodzisław Duch (trained as a quantum physicist; now a cognitive scientist), whose anti-quantum-mind position challenges the quantum framing as such. Duch (2005, 2019) argues that brain dynamics require *differentiation* across regions and timescales rather than the global synchronisation Penrose-Hameroff-style proposals require, that decoherence timescales (per Tegmark 2000) make sustained quantum effects implausible at biological temperatures, and that classical-computational self-reflective dynamical access ("mind as a shadow of neurodynamics") suffices to ground consciousness. He dismisses substantive quantum-mind proposals as exotic-physics gap-filling — a charge that cuts most sharply against Orch OR and least against the discrete-event mechanisms (Stapp, Fisher) that operate without sustained coherence. Hybrids that already accept objective collapse on physical grounds (CSL-IIT) face a different Duch objection: that consciousness modulation adds no explanatory power that classical attractor dynamics over the same neural states cannot already supply.
 
 The Map's relationship to Duch is *convergent-conclusion-opposite-reasoning*: both are sceptical of substantive quantum-mind proposals at Orch-OR-style scale, but for opposite reasons. The Map's [Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction) tenet already favours the *minimal* end of the spectrum — which is why Stapp and CSL-IIT score better on tenet alignment than Orch OR. Duch wants *zero* quantum role on classical-sufficiency grounds; the Map wants *minimal-but-real* on bidirectional-interaction grounds. Duch's anti-coherence arguments travel cleanly into the Map; his classical-sufficiency commitment does not, and conflating the two would be a category error. The detailed convergence-and-divergence map is in [the Duch research dossier](/research/wlodzislaw-duch-consciousness-2026-05-02/).
 
@@ -201,4 +201,4 @@ The Map's position: *some* quantum consciousness mechanism exists, constrained b
 1. Wiest, M. C. (2025). A quantum microtubule substrate of consciousness. *Neuroscience of Consciousness*, 2025(1), niaf011.
 1. Wiest, M. C., & Puniani, A. S. (2025). Conscious active inference II: Quantum orchestrated objective reduction among intraneuronal microtubules naturally accounts for discrete perceptual cycles. *Computational and Structural Biotechnology Journal*.
 1. Duch, W. (2005). Brain-inspired conscious computing architecture. *Journal of Mind and Behavior*, 26(1–2). https://philarchive.org/rec/DUCBCC-3
-1. Duch, W. (2019). Mind as a shadow of neurodynamics. *Cognitive Systems Research*. https://pubmed.ncbi.nlm.nih.gov/31301951/
+1. Duch, W. (2019). Mind as a shadow of neurodynamics. *Physics of Life Reviews*, 31, 28–31. https://doi.org/10.1016/j.plrev.2019.01.023

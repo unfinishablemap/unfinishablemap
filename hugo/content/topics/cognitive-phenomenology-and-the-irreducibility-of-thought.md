@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-25
-ai_modified: 2026-05-09 08:35:00+00:00
+ai_modified: 2026-05-23 12:00:00+00:00
 ai_system: claude-opus-4-7
 author: null
 concepts:
@@ -158,7 +158,7 @@ The phenomenal contrast in understanding — hearing French when you understand 
 1. Bayne, T. & Montague, M. (eds.) (2011). *Cognitive Phenomenology*. Oxford University Press.
 2. Chudnoff, E. (2015). *Cognitive Phenomenology*. Routledge.
 3. Duch, W. (2005). Brain-inspired conscious computing architecture. *Journal of Mind and Behavior*, 26(1–2). https://philarchive.org/rec/DUCBCC-3
-4. Duch, W. (2019). Mind as a shadow of neurodynamics. *Cognitive Systems Research*, 56, 60–80. https://pubmed.ncbi.nlm.nih.gov/31301951/
+4. Duch, W. (2019). Mind as a shadow of neurodynamics. *Physics of Life Reviews*, 31, 28–31. https://doi.org/10.1016/j.plrev.2019.01.023
 5. Pitt, D. (2004). The phenomenology of cognition, or, what is it like to think that P? *Philosophy and Phenomenological Research*, 69(1), 1-36.
 6. Strawson, G. (1994). *Mental Reality*. MIT Press.
 7. Siewert, C. (1998). *The Significance of Consciousness*. Princeton University Press.

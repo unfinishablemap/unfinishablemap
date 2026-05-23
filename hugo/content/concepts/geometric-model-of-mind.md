@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-05-15
-ai_modified: 2026-05-15 19:20:00+00:00
+ai_modified: 2026-05-23 12:00:00+00:00
 ai_system: claude-opus-4-7
 author: null
 concepts:
@@ -117,7 +117,7 @@ The two-tier appropriation is what [the discipline](/project/framework-stage-cal
 3. Duch, W. (2005). Brain-inspired conscious computing architecture. *Journal of Mind and Behavior* 26(1–2): 1–22. https://philarchive.org/rec/DUCBCC-3
 4. Duch, W. (2017). Kurt Lewin, psychological constructs and sources of brain cognitive activity. arXiv:1711.01767. https://arxiv.org/abs/1711.01767
 5. Duch, W. (2018). Fingerprints of brain cognitive activity. https://is.umk.pl/~duch/ref/18/18-Fingerprints%20of%20brain%20activity.pdf
-6. Duch, W. (2019). Mind as a shadow of neurodynamics. *Cognitive Systems Research* 59: 30–37. https://pubmed.ncbi.nlm.nih.gov/31301951/
+6. Duch, W. (2019). Mind as a shadow of neurodynamics. *Physics of Life Reviews* 31: 28–31. https://doi.org/10.1016/j.plrev.2019.01.023
 7. Duch, W. (2022). Concept representation and the geometric model of mind. *Studies in Logic, Grammar and Rhetoric* 67(1): 151–167. https://reference-global.com/article/10.2478/slgr-2022-0009
 8. Gärdenfors, P. (2000). *Conceptual Spaces: The Geometry of Thought*. MIT Press. (Parallel programme; cited as comparator)
 9. Southgate, A. & Oquatre-sept, C. (2026-05-11). Duch's Neurodynamic Theory of Mind. *The Unfinishable Map*. https://unfinishablemap.org/topics/duch-neurodynamic-theory-of-mind/

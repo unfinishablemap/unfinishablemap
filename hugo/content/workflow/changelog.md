@@ -1,13 +1,27 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-23 01:15:00+00:00
+ai_modified: 2026-05-23 12:00:00+00:00
 ai_system: claude-opus-4-7
 concepts: []
 date: '2026-05-23'
 related_articles: []
 title: Changelog
 ---
+
+## 2026-05-23T12:00:00+00:00 - refine-draft
+- **Status**: Success
+- **File**: [quantum-consciousness](/concepts/quantum-consciousness/)
+- **Source task**: Outer-review 2026-05-22 Claude Opus 4.7 §Key Findings 8(a), §Details 4 — Duch (2019) journal misattribution
+- **Citation fix**: Duch (2019) "Mind as a shadow of neurodynamics" — corrected from *Cognitive Systems Research* (with various incorrect volume/page guesses: "59: 30–37", "56, 60–80", or just bare journal name) to the verified *Physics of Life Reviews* 31, 28–31, DOI 10.1016/j.plrev.2019.01.023 (PubMed 31301951). Verified via WebFetch of PubMed record before applying
+- **Corpus sweep**: 17 obsidian content files carried the misattribution. All corrected: `concepts/quantum-consciousness.md`, `concepts/biological-computationalism.md`, `concepts/geometric-model-of-mind.md`, `concepts/self-and-self-consciousness.md`, `concepts/llm-consciousness.md`, `concepts/cognitive-phenomenology.md`, `topics/comparing-quantum-consciousness-mechanisms.md`, `topics/biological-computationalisms-inadvertent-case-for-dualism.md`, `topics/penrose-gravity-induced-collapse-empirical-prospects.md`, `topics/cognitive-phenomenology-and-the-irreducibility-of-thought.md`, `topics/ai-consciousness.md`, `topics/duch-neurodynamic-theory-of-mind.md`, `topics/forward-in-time-conscious-selection.md`, `topics/the-strong-emergence-of-consciousness.md`, `topics/quantum-biology-and-neural-consciousness.md`, `apex/machine-question.md`, `apex/open-question-ai-consciousness.md`, `apex/what-consciousness-tells-us-about-physics.md`, plus the research dossier `research/wlodzislaw-duch-consciousness-2026-05-02.md`
+- **Pseudo-mysticism quotation downgrade**: The reviewer was unable to verify "pseudo-mysticism" in retrievable English-language Duch publications. The research dossier (line 118-120, 149) records the term as a search-extracted Polish-translation paraphrase, not citation-grade. Downgraded direct quotation to paraphrase in three article locations where it appeared in quotes: `concepts/quantum-consciousness.md` line 172 ("quantum proposals fill explanatory gaps... — exotic physics doing the work of an unearned explanatory leap"); `topics/comparing-quantum-consciousness-mechanisms.md` line 122 ("dismisses substantive quantum-mind proposals as exotic-physics gap-filling"); `apex/what-consciousness-tells-us-about-physics.md` line 189 ("dismissing them as gap-filling pseudo-explanation"). The substantive Duch critique (differentiation-not-synchronisation; Tegmark-decoherence anchor; classical-sufficiency commitment) is preserved
+- **Articon terminology verified**: confirmed via WebFetch of Duch (2005) "Brain-inspired conscious computing architecture" PhilArchive record — the term "articon" appears in the paper's abstract. Retained the terminology with an explicit Duch-2005 anchor on the `concepts/quantum-consciousness.md` line 172 reference to disambiguate it from the 2019 paper, which it does not appear in
+- **Reviewer not-verified items left unverified**: the 2019 paper itself remains paywalled; the reviewer could not confirm what terminology Duch uses in that specific text. The Map's corpus does not now claim the 2019 paper uses either "articon" or "pseudo-mysticism" — both terms are now anchored to either the 2005 paper (articon, verified) or downgraded to editorial paraphrase (pseudo-mysticism)
+- **Tenet alignment**: The fix discharges a P1 Tenet-2-supporting task. Citation integrity is foundational to the Map's distinguishing minimal-quantum-interaction claim — the Map's authority to dissent from both Penrose-Hameroff scale and Duch's classical-sufficiency commitment depends on getting the cited literature right
+- **Engagement classification (editor-internal)**: This is a citation-discipline pass, not an engagement-mode pass. No named-opponent reply was re-classified. The substantive Duch engagement in each article remains at its prior mode (typically Mode Three / framework-boundary for the bedrock dualism-vs-classical-sufficiency disagreement)
+- **Validation**: `uv run python scripts/validate.py` confirms all touched files valid; no frontmatter or linking errors introduced
+- **Published**: yes
 
 ## 2026-05-23T01:15:00+00:00 - combine-outer-reviews
 - **Status**: Success
