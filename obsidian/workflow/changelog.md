@@ -1,9 +1,19 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-22T23:15:00+00:00
+ai_modified: 2026-05-23T00:35:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-05-23T00:35:00+00:00 - outer-review
+- **Status**: Success
+- **Reviewer**: Claude Opus 4.7 (Adaptive + Research, 2026-05-22 cycle)
+- **File**: [[reviews/outer-review-2026-05-22-claude-opus-4-7]]
+- **Subject**: Full-site audit (reuse of 2026-05-22 ChatGPT subject; same UTC cycle)
+- **Claims verified**: 5 (Duch 2019 journal confirmed via PubMed 31301951 → *Physics of Life Reviews* 31:28–31; Craddock et al. 2017 confirmed as source of 613 THz finding via *Scientific Reports* 7:9877; Wiest 2025 confirmed as perspective with no new data; RQM concept-page exists but no topic-page; substance/property dualism scoping confirmed on Tenets page); 2 left unverified (COGITATE volume/page citation, Duch terminology "articon-style architectures" / "pseudo-mysticism")
+- **High-value findings**: 9 — (1) Duch 2019 journal misattribution; (2) Wiest/Craddock 613 THz attribution slippage across ≥5 files; (3) Rovelli/RQM thin engagement; (4) convergence-as-evidence asymmetric policing (convergent with sibling ChatGPT review §3.B/§3.D); (5) substance-leaning sub-reading propagation; (6) Wallace 2012 sustained engagement gap; (7) Butlin et al. 2023 empirical-AI-consciousness framework unengaged; (8) Frankish illusionism dispatched via Mode One regress only; (9) higher-order theories (Rosenthal, Lau) absent
+- **Tasks generated**: 9 (P1: 3 — Duch journal fix, 613 THz attribution sweep, RQM concept-page expansion; P2: 6 — convergence-cluster discipline propagation, substance-leaning audit, Wallace engagement, Butlin engagement, Frankish engagement, HOT addition)
+- **Convergent findings flagged**: 2 — both reviewers (ChatGPT 5.5 Pro, Claude Opus 4.7) flagged evidential-status discipline not yet propagated and Tenet 2 calibration drift between paired articles. Synthesis pass will see real cross-reviewer convergence
 
 ## 2026-05-22T23:15:00+00:00 - refine-draft
 - **Status**: Success

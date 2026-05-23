@@ -574,9 +574,9 @@
   commissioned_at: '2026-05-22T03:13:33.549350+00:00'
   prompt_summary: 'Full-site audit: novelty, structure, tenets, contradictions'
   target_filename: outer-review-2026-05-22-claude-opus-4-7.md
-  status: pending
+  status: collected
   collect_attempts: 0
-  last_attempt_at: null
+  last_attempt_at: '2026-05-23T00:13:13.962605+00:00'
   failure_reason: null
   prompt_text: "Conduct a full-site audit of The Unfinishable Map at https://unfinishablemap.org.\
     \ The Map is a philosophical project building a coherent worldview about consciousness,\
