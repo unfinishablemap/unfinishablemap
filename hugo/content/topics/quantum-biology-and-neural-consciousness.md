@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-20
-ai_modified: 2026-05-23 13:15:00+00:00
+ai_modified: 2026-05-23 20:00:00+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -15,9 +15,10 @@ concepts:
 - '[[quantum-consciousness]]'
 - '[[interactionist-dualism]]'
 created: 2026-01-27
-date: &id001 2026-05-18
-description: Six converging evidence lines—from biological precedent through EEG entanglement
-  to theoretical convergence—reshape what quantum biology means for consciousness.
+date: &id001 2026-05-23
+description: Six converging evidence lines reshape quantum biology's bearing on consciousness
+  — load-bearing for pre-decoherence mechanisms, plausibility supplement for post-decoherence
+  selection.
 draft: false
 human_modified: null
 last_curated: null
@@ -35,12 +36,15 @@ related_articles:
 - '[[terminal-lucidity-and-filter-transmission-theory]]'
 - '[[research/wlodzislaw-duch-consciousness-2026-05-02]]'
 - '[[brain-internal-born-rule-testing]]'
+- '[[falsification-roadmap-for-the-interface-model]]'
 title: Quantum Biology and Neural Consciousness
 topics:
 - '[[hard-problem-of-consciousness]]'
 ---
 
-Quantum biology has shifted the burden of proof in consciousness debates. For decades, critics dismissed quantum approaches to consciousness with a categorical objection: biological systems are too warm, wet, and noisy for quantum effects. The Unfinishable Map now tracks a different landscape. Established quantum effects in non-neural biology have collapsed the categorical objection. Multiple candidate mechanisms for neural quantum effects have been identified. Converging experimental evidence from pharmacology, direct measurement, and computational modelling points toward quantum effects in neural tissue. And in 2025-2026, the field shifted from theoretical speculation toward testable science. The question is no longer whether quantum effects can survive in warm biology, but whether neural systems specifically exploit them—and whether consciousness plays a role at the quantum interface.
+Quantum biology has shifted the burden of proof in consciousness debates. For decades, critics dismissed quantum approaches with a categorical objection: biological systems are too warm, wet, and noisy for quantum effects. The Unfinishable Map now tracks a different landscape. Established quantum effects in non-neural biology have collapsed the categorical objection. Multiple candidate mechanisms for neural quantum effects have been identified. Converging experimental evidence from pharmacology, direct measurement, and computational modelling points toward quantum function in neural tissue. And in 2025-2026, the field shifted from theoretical speculation toward testable science. The remaining questions are whether neural systems specifically exploit quantum effects, and whether consciousness plays a role at the quantum interface.
+
+The evidence surveyed below is not a uniform support pillar for the Map's [Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction) tenet. Tenet 2 admits at least three sub-readings that differ sharply in what they need from neural quantum biology: *pre-decoherence-coherence mechanisms* (Orch OR, Fröhlich-microtubule, Stapp Zeno, Fisher Posner) need sustained neural coherence at or near consciousness-relevant timescales and stand or fall with the evidence catalogued here; the *post-decoherence-selection programme*, which is the Map's central path for Tenet 2 (see [post-decoherence-selection-programme](/apex/post-decoherence-selection-programme/) and the [tenet body](/tenets/#minimal-quantum-interaction)), needs only that collapse or actualisation is a real physical event and that consciousness can interface with it, so the quantum-biology cluster supplies plausibility rather than load-bearing support; the *strict corridor* reading catalogued in [brain-internal-born-rule-testing](/topics/brain-internal-born-rule-testing/) is invisible to ensemble Born-rule tests by construction and is unmoved by the cluster either way. The calibration table later in this article slots each piece of cited evidence into the row where it actually bears weight, so the page is not read as a unified Tenet 2 pillar when it is not one.
 
 ## The Objection That Collapsed
 
@@ -117,9 +121,9 @@ Each evidence line has limitations. The force of the case lies in convergence ac
 | Computational | Quantum dynamics improve neural models | That the brain actually uses them |
 | Theoretical | Independent frameworks converge on quantum necessity | That any specific framework is correct |
 
-These lines are independent—pharmacological evidence does not depend on direct measurements, and biological precedent is established regardless of neural-specific findings. When independent streams converge, the probability of their shared conclusion rises faster than any individual line suggests.
+These lines are independent—pharmacological evidence does not depend on direct measurements, and biological precedent is established regardless of neural-specific findings. When independent streams converge, the probability of their shared conclusion rises faster than any individual line suggests. The rider the table below installs is that the shared conclusion is "neural quantum function is realistic" rather than "any specific Tenet 2 sub-reading is correspondingly more supported." For pre-decoherence-coherence mechanisms the convergence is genuinely load-bearing; for the post-decoherence-selection programme it is supplement; for the strict corridor it is largely orthogonal. The convergence-structure claim must be carried by the sub-reading-allocated reading, not by treating each evidence line as a separate confirmation of Tenet 2 as a unified pillar.
 
-The convergence also has directionality. Over the past decade, new evidence has consistently strengthened rather than weakened the case. If quantum effects in neural systems were illusory, accumulating evidence should fragment rather than cohere.
+The convergence also has directionality. Over the past decade, new evidence has consistently strengthened rather than weakened the case *for the realistic-quantum-function claim*. If quantum effects in neural systems were illusory, accumulating evidence should fragment rather than cohere. The directionality claim is correspondingly sub-reading-allocated: it strengthens pre-decoherence-coherence proposals it bears on, supplements the post-decoherence path, and leaves the strict corridor unmoved.
 
 ## Why This Matters for Consciousness
 
@@ -127,7 +131,26 @@ The connection runs through the [measurement-problem](/concepts/measurement-prob
 
 The Map's position: consciousness is a candidate. Where physics leaves outcomes genuinely undetermined, consciousness might bias selection without violating [conservation laws](/concepts/conservation-laws-and-mental-causation/)—acting as [non-retrocausal conscious selection](/topics/forward-in-time-conscious-selection/). This is the [Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction) tenet. The Map's most developed account of how that selection could work is [the post-decoherence selection programme](/apex/post-decoherence-selection-programme/), where consciousness biases which definite outcome emerges from the classical mixture *after* decoherence has completed—a route that does not require sustained quantum coherence at neural timescales.
 
-Quantum biology matters to the substrate question, but it matters differently for the two paths. For pre-decoherence-coherence mechanisms (Orch OR, Fröhlich-microtubule proposals), the evidence surveyed here is load-bearing: those mechanisms live or die on whether neural coherence times reach the millisecond scales of neural processing. For post-decoherence-selection mechanisms, the same evidence is a plausibility supplement rather than a load-bearing premise: those mechanisms need only that collapse or actualisation is a real physical event and that consciousness can interface with it. If brains were purely classical, the substrate would be empty for either path; the question of which kind of mechanism is actually doing the work, however, is downstream of that.
+Quantum biology matters to the substrate question, but it matters differently for the three sub-readings of Tenet 2. For *pre-decoherence-coherence mechanisms* (Orch OR, Fröhlich-microtubule, Stapp Zeno, Fisher Posner) the evidence surveyed here is load-bearing: those proposals live or die on whether neural coherence times reach the relevant scales. For the *post-decoherence-selection programme*, which is the Map's central path, the same evidence is a plausibility supplement rather than a load-bearing premise: that programme needs only that collapse or actualisation is a real physical event and that consciousness can interface with it, not that any specific neural quantum coherence persists across millisecond windows. For the *strict corridor* reading catalogued in [brain-internal-born-rule-testing](/topics/brain-internal-born-rule-testing/) the evidence is largely orthogonal: the strict corridor predicts no Born-statistical signature by construction, so neither presence nor absence of neural quantum coherence directly bears on it. The next section installs the cross-cluster discipline this asymmetry requires: the cluster of evidence below is not a single pillar but a sub-reading-by-sub-reading allocation.
+
+## The Calibration Table
+
+The table specifies which Tenet 2 sub-reading each piece of cited evidence actually bears on, so that the cluster's surface count is not silently converted into elevated support for sub-readings the same evidence does not in fact strengthen. The discipline is the cross-cluster overcounting prevention that [brain-internal-born-rule-testing](/topics/brain-internal-born-rule-testing/) and [falsification-roadmap-for-the-interface-model](/topics/falsification-roadmap-for-the-interface-model/) install at the foreclosure-programme layer; this article installs the same discipline at the evidence-cluster layer.
+
+| Evidence (article section above) | Load-bearing for pre-decoherence mechanisms | Plausibility supplement for post-decoherence selection | Bearing on the strict corridor |
+|---|---|---|---|
+| Cryptochrome / radical-pair magnetoreception (Denton 2024, Xu 2026) | Load-bearing if a radical-pair mechanism is the candidate; biological-precedent role for Orch OR / Fröhlich lines | Plausibility supplement: warm biology can host quantum function | Largely orthogonal; corridor needs no neural coherence |
+| Enzyme tunnelling and photosynthetic coherence | Background biological precedent for any pre-decoherence proposal; not load-bearing for any specific neural mechanism | Plausibility supplement | Orthogonal |
+| UV superradiance in microtubule tryptophan networks (Babcock 2024) | Load-bearing for Orch OR / Fröhlich-microtubule | Plausibility supplement only; the corridor reading does not depend on microtubule coherence | Orthogonal |
+| Anaesthetic targeting of microtubules; epothilone B delay (Wiest 2025; Khan 2024); 613 THz computational prediction (Craddock 2017) | Load-bearing for Orch OR–style proposals: anaesthesia tracks microtubule quantum disruption | Plausibility supplement: anaesthesia engages *some* consciousness substrate, compatible with post-decoherence interface in microtubule-rich tissue | Orthogonal at the Born-rule layer; could supply ancillary substrate evidence the corridor neither needs nor refuses |
+| Posner-molecule lithium isotope effects (Fisher 2015, 2025) | Load-bearing for Fisher's nuclear-spin pre-decoherence proposal | Plausibility supplement: nuclear-spin coherence is one substrate among several where a post-decoherence interface could be hosted | Orthogonal |
+| Kerskens & Pérez brain-entanglement MRI (2022); Warren 2023 critique; twin EEG (Kerskens 2025) | Load-bearing for any pre-decoherence proposal that predicts macroscopic neural entanglement signatures, if the replications hold | Plausibility supplement at most; the post-decoherence path does not require macroscopic neural entanglement | Orthogonal; brain-internal Born-rule testing is the corridor's relevant programme, catalogued in [brain-internal-born-rule-testing](/topics/brain-internal-born-rule-testing/) |
+| Active inference + collapse (Wiest & Puniani 2025); QBIT spintronic (Beshkar 2025); microtubule-QED-cavity (Mavromatos 2025); TRAZE zero-point field (Keppler 2025) | Theoretical load-bearing for the specific pre-decoherence-coherence proposals each framework advances | Plausibility supplement: independent theoretical convergence on "quantum is doing some work" raises the prior on a quantum interface generally, including post-decoherence | Orthogonal: theoretical convergence on coherence-mechanism families is not the corridor's evidential currency |
+| NV-centre quantum-sensor measurement capability | Will be load-bearing for empirically committed pre-decoherence mechanisms once deployed | Background instrumentation; does not bear on the post-decoherence selection event | Orthogonal at the Born-rule layer; relevant only for the foreclosure-programme catalogued in [brain-internal-born-rule-testing](/topics/brain-internal-born-rule-testing/) |
+
+Two readings the table is designed to prevent. *First*, treating the cluster as multiple independent confirmations of Tenet 2 generally: the supportive cluster bears unevenly on the three sub-readings, and the post-decoherence path — which is the Map's central route — is supplemented rather than loaded by it. *Second*, treating the cluster as foreclosure pressure on the strict corridor: the corridor predicts no Born-statistical signature by construction, so the experiments above neither vindicate nor refute it. The corridor's foreclosure programme is the convergent-negative-evidence catalogue in [brain-internal-born-rule-testing](/topics/brain-internal-born-rule-testing/), not this evidence-cluster.
+
+A reader who fully accepts the Map's tenets should still read the cluster as carrying the evidential weight of *one* sub-reading-allocated pattern, not three independent confirmations of Tenet 2 as a whole.
 
 ## What Remains Uncertain
 
@@ -142,9 +165,9 @@ Quantum biology matters to the substrate question, but it matters differently fo
 - Whether any specific neural quantum mechanism is functionally operative in vivo
 - Whether consciousness participates in quantum measurement
 - Which theory (if any) correctly describes the consciousness-quantum interface
-- Whether relevant timescales align with neural processing
+- Whether relevant timescales align with neural processing (load-bearing for pre-decoherence-coherence mechanisms only)
 
-**What would change the picture:** The Map's position faces serious difficulty if all biological quantum effects prove epiphenomenal, if neural quantum effects prove absent in refined experiments, if classical computation fully explains the features motivating quantum approaches (the [binding problem](/concepts/binding-problem/), [unity of consciousness](/concepts/unity-of-consciousness/), decision timing), or if [Many-Worlds](/concepts/many-worlds/) proves correct—making the concept of "selection" incoherent since all outcomes would occur.
+**What would change the picture, by sub-reading:** *Pre-decoherence-coherence mechanisms* would face decisive difficulty if neural quantum effects prove absent in refined experiments, if microtubule / radical-pair / Posner-spin coherence is shown not to persist at consciousness-relevant scales, or if Orch-OR-class predictions fail under MAQRO-class instrumentation. *Post-decoherence selection* would face difficulty if a complete decoherence-only resolution of the definite-outcome problem closes the selection space the programme needs, if classical computation fully explains the features motivating quantum approaches ([binding](/concepts/binding-problem/), [unity](/concepts/unity-of-consciousness/), decision timing), or if [Many-Worlds](/concepts/many-worlds/) proves correct (making "selection" referentless). The *strict corridor* is foreclosed not by a single Born-rule null but by the convergent-pressure programme catalogued in [brain-internal-born-rule-testing](/topics/brain-internal-born-rule-testing/) — refutation of empirically committed corridor realisations, corridor-consistent null on probability-bias, and theoretical supersession of the definite-outcome problem.
 
 ## The Decoherence Debate Today
 
@@ -162,7 +185,7 @@ The convergence of quantum biology evidence connects to all five of the Map's [t
 
 **[Dualism](/tenets/#dualism)**: If consciousness interfaces with physics at quantum indeterminacies, critics claim such effects could not survive in warm biology. Quantum biology demonstrates this claim is empirically false. The tenet does not depend on quantum biology—the [positive arguments for dualism](/concepts/dualism/) stand independently—but a major objection has been removed.
 
-**[Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction)**: This tenet requires that quantum indeterminacy exists at functionally relevant points in neural systems. The evidence surveyed here—from biological precedent through pharmacological correlation to direct measurement—increasingly supports this precondition.
+**[Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction)**: This tenet requires that quantum indeterminacy exists at functionally relevant points in neural systems. The evidence surveyed here supports this precondition unevenly across Tenet 2's sub-readings. For pre-decoherence-coherence mechanisms — Orch OR, Fröhlich-microtubule, Stapp Zeno, Fisher Posner — the cluster is load-bearing and increasingly cohesive. For the post-decoherence-selection programme, the cluster is plausibility supplement: post-decoherence selection needs only that collapse or actualisation is a real physical event, not that sustained neural coherence supplies it. For the strict corridor reading, the cluster is largely orthogonal — the corridor predicts no Born-statistical signature by construction, so its foreclosure or vindication comes through the convergent-pressure programme of [brain-internal-born-rule-testing](/topics/brain-internal-born-rule-testing/) rather than the evidence catalogued here. The calibration table above slots each piece of cited evidence into the sub-reading it actually bears on. Cross-cluster overcounting — citing the supportive cluster as multiple independent confirmations of Tenet 2 generally when the cluster's load distributes unevenly across the sub-readings — is the failure mode the table is designed to prevent.
 
 **[Bidirectional Interaction](/tenets/#bidirectional-interaction)**: The active inference integration is significant. If quantum dynamics are required for the organism's predictive engagement with its environment, and consciousness participates in quantum collapse, then consciousness is causally embedded in action—not a passive observer.
 
@@ -190,6 +213,8 @@ Two structural responses follow. *First*, the convergent-conclusion-opposite-rea
 - [measurement-problem](/concepts/measurement-problem/) — Why quantum mechanics leaves outcomes undetermined
 - [testing-consciousness-collapse](/topics/testing-consciousness-collapse/) — Designing experiments to test consciousness-collapse hypotheses
 - [brain-internal-born-rule-testing](/topics/brain-internal-born-rule-testing/) — Mechanism-specific catalogue of what brain-internal experiments would foreclose the corridor reading of Tenet 2
+- [falsification-roadmap-for-the-interface-model](/topics/falsification-roadmap-for-the-interface-model/) — The Tenet 2 sub-reading-by-sub-reading falsifiability map this article's calibration table inherits
+- [post-decoherence-selection-programme](/apex/post-decoherence-selection-programme/) — The Map's central path for Tenet 2; the quantum-biology cluster supplements rather than loads this programme
 - [causal-closure](/concepts/causal-closure/) — Why causal closure is not absolute at quantum indeterminacies
 - [evolutionary-case-for-quantum-neural-effects](/topics/evolutionary-case-for-quantum-neural-effects/) — Why evolutionary logic establishes quantum neural effects as a realistic possibility under selective pressure
 - [tenets](/tenets/) — The Map's foundational commitments

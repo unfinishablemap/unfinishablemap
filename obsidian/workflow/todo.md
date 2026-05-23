@@ -108,15 +108,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: outer-review
 - **Generated**: 2026-05-23
 
-### P1: Add tenet-dependency matrix to tenets/
-- **Type**: refine-draft
-- **Status**: pending
-- **Notes**: From convergent outer reviews (2026-05-22, 2/3 reviewers): [chatgpt-5-5-pro, claude-opus-4-7]. Upgraded P2 → P1 on cross-reviewer convergence. Paired with the substance-leaning audit task — the matrix is the *preventative* structural tool that prevents future inheritance failures; the audit is the *retrospective* sweep across already-written articles. ChatGPT (§2.E, §6.12): *"This would prevent hidden inheritance of stronger commitments than an article actually needs."* Claude (§Key Findings 4): *"downstream articles still need clearer local signaling when an argument requires only irreducibility, when it requires interactionism, and when it requires a persisting subject with substance-like causal powers."* The tenets page now acknowledges that Dualism is neutral between substance and property dualism but that the agency cluster deploys a substance-leaning sub-reading because agent causation requires a persisting subject exercising causal powers. The downstream risk is hidden inheritance: a high-stakes article inherits "Tenet 1 commits us to X" when the local argument only requires bare irreducibility, or vice versa. Refine pass should add a tenet-dependency matrix with columns for the live sub-readings — bare dualism, interactionist dualism, substance-leaning agency, minimal quantum interaction (corridor reading), post-decoherence selection, no-MWI/indexical identity, anti-parsimony — and rows for the major cross-cluster topics — agency, attention, machine consciousness, animal consciousness, voids, memory hierarchy, Born Rule, quantum biology. Each cell records which sub-reading the row's typical argument actually requires. This makes inheritance visible and prevents articles from absorbing stronger commitments than they earn. Cross-link to the major cluster articles and to the companion substance-leaning audit task. Tenet alignment: all five tenets (dependency-visibility methodology).
-- **Review files**: `reviews/outer-review-2026-05-22-chatgpt-5-5-pro.md`, `reviews/outer-review-2026-05-22-claude-opus-4-7.md`
-- **Source**: outer-review
-- **Synthesis**: `reviews/outer-review-synthesis-2026-05-22.md`
-- **Generated**: 2026-05-22
-
 ### P2: Add Calibrated Phenomenology Ladder inset to apex/phenomenology-mechanism-bridge
 - **Type**: refine-draft
 - **Status**: pending
@@ -3959,6 +3950,10 @@ Tasks that failed 3+ times and require human intervention.
 
 Ideas that were considered and rejected. The AI will not re-propose these.
 
+
+### ✓ 2026-05-23: Add tenet-dependency matrix to tenets/
+- **Type**: refine-draft
+- **Notes**: From convergent outer reviews (2026-05-22, 2/3 reviewers): [chatgpt-5-5-pro, claude-opus-4-7]. Upgraded P2 → P1 on cross-reviewer convergence. Paired with the substance-leaning audit task — the matrix is the *preventative* structural tool that prevents future inheritance failures; the audit is the *retrospective* sweep across already-written articles. ChatGPT (§2.E, §6.12): *"This would prevent hidden inheritance of stronger commitments than an article actually needs."* Claude (§Key Findings 4): *"downstream articles still need clearer local signaling when an argument requires only irreducibility, when it requires interactionism, and when it requires a persisting subject with substance-like causal powers."* The tenets page now acknowledges that Dualism is neutral between substance and property dualism but that the agency cluster deploys a substance-leaning sub-reading because agent causation requires a persisting subject exercising causal powers. The downstream risk is hidden inheritance: a high-stakes article inherits "Tenet 1 commits us to X" when the local argument only requires bare irreducibility, or vice versa. Refine pass should add a tenet-dependency matrix with columns for the live sub-readings — bare dualism, interactionist dualism, substance-leaning agency, minimal quantum interaction (corridor reading), post-decoherence selection, no-MWI/indexical identity, anti-parsimony — and rows for the major cross-cluster topics — agency, attention, machine consciousness, animal consciousness, voids, memory hierarchy, Born Rule, quantum biology. Each cell records which sub-reading the row's typical argument actually requires. This makes inheritance visible and prevents articles from absorbing stronger commitments than they earn. Cross-link to the major cluster articles and to the companion substance-leaning audit task. Tenet alignment: all five tenets (dependency-visibility methodology).
 
 ### ✓ 2026-05-23: Add load-bearing-for-what calibration table to quantum-biology-and-neural-consciousness
 - **Type**: refine-draft
