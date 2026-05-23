@@ -1,9 +1,15 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-23T18:00:00+00:00
+ai_modified: 2026-05-23T19:00:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-05-23T19:00:00+00:00 - pessimistic-review
+- **Status**: Success
+- **Content reviewed**: `topics/born-rule-and-the-consciousness-interface.md` (load-bearing Tenet-2 article refined hours earlier at 18:00 to install the *Compatibility vs. Support* discipline; re-attacked under the new framing to find residual rhetorical positioning the discipline has not yet restructured)
+- **Output**: [[reviews/pessimistic-2026-05-23]]
+- **Key findings**: (1) Tenet 4 (MWI) paragraph remains framework-asymmetric — frames MWI's Born-rule situation as a "probability problem" rather than as one of the framework-internal homes the new discipline acknowledges; boundary-substitution failure-mode. (2) Article structure still positions the catalogue as a positive dualist contribution rather than as a phenomenon that demonstrably does not discriminate. (3) Brain-internal regime appeal does not own that the Map's preferred corridor reading is structurally outside the experimentally-discriminable regime by construction. (4) QBism parity acknowledged but not engaged in-framework. (5) Pre-publication sources (Zhang 2026, Torres Alegre 2025, Babcock-Hameroff 2025) treated with same confidence as historical scholarship. Two refine-draft tasks added to todo.md (P2, P3)
 
 ## 2026-05-23T18:00:00+00:00 - refine-draft
 - **Status**: Success
