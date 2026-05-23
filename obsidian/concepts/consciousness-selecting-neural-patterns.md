@@ -4,7 +4,7 @@ description: "Consciousness selects which quantum possibilities become actual ne
 created: 2026-01-16
 modified: 2026-01-16
 human_modified: null
-ai_modified: 2026-04-30T19:21:00+00:00
+ai_modified: 2026-05-23T13:15:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -53,7 +53,7 @@ The core claim: where physics specifies probabilities but not which possibility 
 
 If consciousness selects at the post-decoherence gap, specific neural "selection sites" matter less than the general structure: decoherence narrows options, consciousness resolves the remainder. Nevertheless, several candidate sites have been proposed:
 
-**Microtubules** (Orch OR): Penrose-Hameroff theory proposes consciousness orchestrates which superposed microtubule states collapse. Wiest et al. (2024, 2025) found quantum vibrational modes in microtubules at biological temperatures—a 613 THz oscillation that anaesthetics abolish—and microtubule-stabilizing drugs delayed anaesthetic-induced unconsciousness in rats. These findings demonstrate quantum properties relevant to consciousness, though not the sustained coherent superpositions the theory requires.
+**Microtubules** (Orch OR): Penrose-Hameroff theory proposes consciousness orchestrates which superposed microtubule states collapse. Craddock et al. (2017), *Scientific Reports* 7:9877, used molecular-dynamics and quantum-chemistry simulations to predict a (613 ± 8) THz collective tubulin oscillation peak whose disruption by anaesthetics tracks clinical potency (Wiest 2025 reviews and develops this prediction without supplying new data); separately, Khan et al. (2024) reported experimentally that microtubule-stabilising epothilone B delayed anaesthetic-induced unconsciousness in rats. The combination is suggestive — a computational signature awaiting experimental verification, plus pharmacological corroboration — but does not yet demonstrate the sustained coherent superpositions Orch OR specifically requires.
 
 **Ion channels**: Consciousness might bias which channels open at decision-critical moments via quantum tunneling, influencing which neurons fire.
 

@@ -4,7 +4,7 @@ description: "The decoherence objection bundles three independent claims. Five r
 created: 2026-01-14
 modified: 2026-05-19
 human_modified: null
-ai_modified: 2026-05-19T00:00:00+00:00
+ai_modified: 2026-05-23T13:15:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -96,7 +96,7 @@ Hameroff and colleagues challenged this analysis (Hagan et al., 2002): Tegmark a
 
 The original Orch OR model required 25 milliseconds of coherence—still far longer than even Hagan's corrected estimates. But Bandyopadhyay (2014) found microtubule oscillations spanning kilohertz to terahertz frequencies. If Orch OR events occur at 10 MHz rather than 40 Hz, coherence need persist only **10⁻⁷ seconds** (100 nanoseconds), bringing theory into contact with experimentally observed timescales.
 
-Recent experiments are suggestive: epothilone B delayed anaesthetic-induced unconsciousness in rats (Wiest et al., 2024), confirming an Orch OR prediction; anaesthetics specifically abolish a 613 THz quantum oscillation in microtubules while non-anaesthetics do not (Wiest et al., 2025). Fisher (2015) proposed phosphorus nuclear spins in Posner molecules could maintain coherence for ~10⁵ seconds—not yet experimentally confirmed. No experiment has directly measured quantum coherence times in living neural tissue, but the story is more complex than Tegmark's early calculation indicated.
+Recent work is suggestive: epothilone B delayed anaesthetic-induced unconsciousness in rats (Khan et al., 2024), confirming an Orch OR prediction; Craddock et al. (2017) computationally predict — via molecular-dynamics and quantum-chemistry simulations — that anaesthetics specifically disrupt a (613 ± 8) THz collective tubulin oscillation peak while non-anaesthetic structural analogues do not, with disruption magnitude tracking clinical potency (Wiest 2025 reviews this prediction without supplying new data). The 613 THz claim is therefore a computational prediction awaiting experimental verification, not an experimental finding awaiting independent replication. Fisher (2015) proposed phosphorus nuclear spins in Posner molecules could maintain coherence for ~10⁵ seconds—not yet experimentally confirmed. No experiment has directly measured quantum coherence times in living neural tissue, but the story is more complex than Tegmark's early calculation indicated.
 
 ## Neural Decision Windows
 

@@ -4,7 +4,7 @@ description: "Multiple independent empirical lines—evolutionary, cognitive, ne
 created: 2026-02-21
 modified: 2026-02-21
 human_modified:
-ai_modified: 2026-04-27T04:13:00+00:00
+ai_modified: 2026-05-23T13:15:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -92,7 +92,7 @@ The most recent and technically specific evidence addresses whether the physical
 
 **Enzyme catalysis.** Quantum tunnelling drives reaction rates in enzymes, confirmed through kinetic isotope effects. Evolution has optimised quantum effects to accelerate reactions by factors up to 10¹⁷.
 
-**Microtubule quantum effects.** Tegmark's 2000 calculation estimated decoherence in neural microtubules at ~10⁻¹³ seconds. Hagan, Hameroff, and Tuszynski (2002) challenged his assumptions about model parameters, revising estimates to 10⁻⁵ to 10⁻⁴ seconds—seven orders of magnitude longer. In 2025, Wiest reported room-temperature quantum effects in microtubules and identified a specific 613 THz quantum oscillation abolished by anaesthetics. Microtubule-stabilising drugs delayed anaesthetic-induced unconsciousness in rats (Travis et al., 2024), suggesting a functional connection between microtubule quantum states and consciousness.
+**Microtubule quantum effects.** Tegmark's 2000 calculation estimated decoherence in neural microtubules at ~10⁻¹³ seconds. Hagan, Hameroff, and Tuszynski (2002) challenged his assumptions about model parameters, revising estimates to 10⁻⁵ to 10⁻⁴ seconds—seven orders of magnitude longer. Craddock et al. (2017) used molecular-dynamics and quantum-chemistry simulations to predict a (613 ± 8) THz collective tubulin oscillation peak that anaesthetics — but not non-anaesthetic structural analogues — disrupt, with disruption magnitude tracking clinical potency; Wiest (2025) reviews this computational prediction and develops its implications. The 613 THz peak is a computationally predicted signature that has yet to be measured directly. Microtubule-stabilising drugs (epothilone B) delayed anaesthetic-induced unconsciousness in rats (Khan et al. 2024), an experimental finding that supplies the pharmacological half of the picture the Craddock simulations supply the spectroscopic half of.
 
 **The measurement problem.** Even where decoherence operates rapidly, it does not resolve the [[measurement-problem]]. As Schlosshauer's 2025 review states: "After the basis is chosen and quantum superpositions are suppressed, the system still remains in a mixture of possible outcomes. Decoherence does not tell how and why only one of these outcomes is measured." Something must determine definite outcomes. Physics identifies probabilities without explaining why particular outcomes actualise. Consciousness remains a candidate for what completes this picture.
 

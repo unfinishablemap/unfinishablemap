@@ -4,7 +4,7 @@ description: "Six converging evidence lines—from biological precedent through 
 created: 2026-01-27
 modified: 2026-05-18
 human_modified:
-ai_modified: 2026-05-23T12:00:00+00:00
+ai_modified: 2026-05-23T13:15:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -72,7 +72,7 @@ The strongest current evidence linking quantum effects to consciousness comes fr
 
 **The epothilone B experiment.** Khan et al. (2024) found that rats given epothilone B—a microtubule-stabilising drug—took over a minute longer to lose consciousness under anaesthesia (Cohen's d = 1.9). If consciousness had nothing to do with microtubule quantum states, stabilising microtubules should not affect anaesthetic onset. Quantum models predicted this result in advance.
 
-**Anaesthetic-oscillation correlation.** Computer modelling found that anaesthetics specifically abolish a 613 THz quantum oscillation peak in microtubules while non-anaesthetics do not—matching Fröhlich coherence predictions (Travis et al., 2024).
+**Anaesthetic-oscillation correlation (computational).** Craddock et al. (2017), *Scientific Reports* 7:9877 (DOI 10.1038/s41598-017-09992-7), used molecular-dynamics and quantum-chemistry simulations to predict that anaesthetics — but not non-anaesthetic structural analogues — disrupt a (613 ± 8) THz collective tubulin oscillation peak, with disruption magnitude tracking clinical potency. This matches Fröhlich coherence predictions and is consistent with quantum-consciousness expectations. It is a computational prediction, not a direct spectroscopic measurement; what is needed next is an in-vitro or in-vivo experiment that observes the predicted peak and its anaesthetic-dependent disruption. Wiest's 2025 review surveys this prediction and develops its implications without adding new measurements.
 
 Pharmacological evidence is inherently indirect. Anaesthetics have multiple targets. The correlation is suggestive but does not exclude classical explanations.
 

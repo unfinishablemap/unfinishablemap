@@ -4,7 +4,7 @@ description: "Established quantum effects in living systems—photosynthesis, ma
 created: 2026-01-16
 modified: 2026-05-18
 human_modified: null
-ai_modified: 2026-05-18T12:00:00+00:00
+ai_modified: 2026-05-23T13:15:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -103,7 +103,7 @@ Five mechanisms have been proposed for protecting quantum coherence in biologica
 
 **Hydrophobic microtubule interior**: Microtubule interiors lack water—the primary biological decoherence agent. Aromatic amino acids form π-electron clouds creating a hydrophobic quantum channel. Babcock et al. (2024) confirmed ultraviolet superradiance in tryptophan mega-networks at room temperature.
 
-**Metabolic energy pumping (Fröhlich coherence)**: Continuous metabolic energy input maintains coherent oscillations analogous to laser coherence. In 2025, modelling found anaesthetics specifically abolish a 613 THz quantum oscillation peak in microtubules while non-anaesthetics do not—matching Fröhlich predictions.
+**Metabolic energy pumping (Fröhlich coherence)**: Continuous metabolic energy input maintains coherent oscillations analogous to laser coherence. Craddock et al. (2017), *Scientific Reports* 7:9877, used molecular-dynamics and quantum-chemistry simulations to predict that anaesthetics — but not non-anaesthetic structural analogues — disrupt a (613 ± 8) THz collective tubulin oscillation peak, with disruption magnitude tracking clinical potency. This matches Fröhlich predictions; Wiest (2025) reviews the prediction and develops its implications. The 613 THz peak is a computational prediction awaiting direct experimental observation rather than an observation awaiting replication.
 
 **Nuclear spin isolation (Fisher/Posner)**: Phosphorus-31 nuclear spins in Posner molecules (Ca₉(PO₄)₆) have coherence times of **~10⁵ seconds** (over a day) because nuclear spins couple weakly to the electromagnetic environment. In 2025, multi-electrode array experiments showed lithium-6 and lithium-7 have "large and opposite effects on synaptic transmission"—consistent with Fisher's predictions.
 

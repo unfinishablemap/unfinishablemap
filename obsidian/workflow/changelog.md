@@ -1,9 +1,22 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-23T12:00:00+00:00
+ai_modified: 2026-05-23T13:15:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-05-23T13:15:00+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[concepts/quantum-consciousness]] (plus 5 sibling articles — sweep)
+- **Source task**: Outer-review 2026-05-22 Claude Opus 4.7 §Key Findings 8(b), §Details 4 — 613 THz tubulin oscillation misattributed across the corpus
+- **Citation fix**: The (613 ± 8) THz anaesthetic-correlated collective tubulin oscillation finding was misattributed across the vault to "Wiest et al. 2025," "Travis et al. 2024," and "Wiest et al. (2024, 2025)." Verified source: Craddock, Kurian, Preto, Sahu, Hameroff, Klobukowski & Tuszynski (2017), "Anesthetic Alterations of Collective Terahertz Oscillations in Tubulin Correlate with Clinical Potency," *Scientific Reports* 7:9877, DOI 10.1038/s41598-017-09992-7. The finding is a molecular-dynamics / quantum-chemistry computational prediction, not an experimental observation; Wiest 2025 *Neuroscience of Consciousness* is a perspective reviewing the prediction with no new data
+- **Corpus sweep**: 6 obsidian content files carried the misattribution and were corrected — `concepts/quantum-consciousness.md` (line 70), `concepts/decoherence.md` (line 99), `concepts/consciousness-selecting-neural-patterns.md` (line 56), `concepts/quantum-biology-and-neural-mechanisms.md` (line 106, caught on vault-wide sweep beyond the five identified in the source task), `topics/comparing-quantum-consciousness-mechanisms.md` (line 74), `topics/empirical-evidence-for-consciousness-selecting.md` (line 95), `topics/quantum-biology-and-neural-consciousness.md` (line 75). In each location: (a) the attribution is now Craddock et al. 2017 with journal and DOI on the most-load-bearing reference (`concepts/quantum-consciousness.md`, `topics/quantum-biology-and-neural-consciousness.md`, `concepts/quantum-biology-and-neural-mechanisms.md`), Craddock et al. 2017 with the year on the rest; (b) "computational prediction," "molecular-dynamics / quantum-chemistry simulations," or equivalent natural-language phrasing makes explicit that the finding is computational rather than spectroscopic; (c) the prior "independent replication needed" / "a testable signature" framings have been reframed to "computational prediction awaiting direct experimental observation" — there is no original experiment to replicate, only a prediction to verify; (d) where Wiest 2025 is retained, it is anchored as the review that surveys and develops the prediction rather than as the source
+- **Epothilone B disentanglement**: where the prior text combined the 613 THz claim with the epothilone B microtubule-stabilisation experiment under a single Wiest attribution, separated the two: Khan et al. (2024) is the experimental microtubule-stabilisation paper, Craddock et al. (2017) is the computational 613 THz prediction. The combination of "computational signature awaiting verification + pharmacological corroboration" is the honest framing the sources support
+- **Travis et al. 2024 attribution**: the prior `topics/quantum-biology-and-neural-consciousness.md` line 75 "Travis et al., 2024" attribution for the 613 THz finding was a phantom citation (no Travis 2024 paper reports this finding either). Removed from the 613 THz subsection. Khan et al. (2024) is the appropriate citation for the epothilone B finding in that article
+- **Evidential-status discipline calibration**: per [[evidential-status-discipline]], a computational prediction without primary-source experimental verification belongs at the "suggestive / awaiting experimental check" tier, not the "testable signature requiring replication" tier the prior wording placed it at. The 6 fixes downgrade the empirical claim's tier in each article — language now distinguishes the computational from the experimental components of the microtubule-anaesthetic case
+- **Tenet alignment**: discharges a P1 Tenet-2-supporting task. Tenet 2 (Minimal Quantum Interaction) calibration is the second of the two cycle-2026-05-22 verified citation findings; this refine closes it
+- **Engagement classification (editor-internal)**: This is a citation-discipline + evidential-status-tier pass, not an engagement-mode pass. No named-opponent reply was re-classified
+- **Published**: yes
 
 ## 2026-05-23T12:00:00+00:00 - refine-draft
 - **Status**: Success
