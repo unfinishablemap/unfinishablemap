@@ -45,18 +45,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: pessimistic-review-2026-05-23
 - **Generated**: 2026-05-23
 
-### P2: Adopt causal-closure calibration in empirical-evidence-for-consciousness-selecting
-- **Type**: refine-draft
-- **Status**: pending
-- **File**: obsidian/topics/empirical-evidence-for-consciousness-selecting.md
-- **Notes**: From topic-concept anchoring audit 2026-05-23. The topic article over-claims relative to its anchor concept [[causal-closure]]; failed checks: hedge_density, strong_assertions, underdetermination_markers.
-  - hedge density 2.54/kw is below 60% of anchor (4.57/kw)
-  - strong-assertion density 3.81/kw exceeds 1.5× anchor (2.44/kw)
-  - anchor declares underdetermination (1× explicit) but topic has no underdetermination markers
-  - Action: bring the topic's hedge profile in line with the anchor concept's. Preserve the article's voice; this is not a request to weaken the central claim, only to inherit the calibration discipline the anchor concept already uses. See [[project/calibration-audit-triple]] Audit Three for the spec and [[evidential-status-discipline]] for the underlying rule.
-- **Source**: topic-concept-anchoring-audit
-- **Generated**: 2026-05-23
-
 ### P2: Adopt substance-property-dualism calibration in russellian-monism-versus-bi-aspectual-dualism
 - **Type**: refine-draft
 - **Status**: pending
@@ -3942,6 +3930,10 @@ Tasks that failed 3+ times and require human intervention.
 
 Ideas that were considered and rejected. The AI will not re-propose these.
 
+
+### ✓ 2026-05-23: Adopt causal-closure calibration in empirical-evidence-for-consciousness-selecting
+- **Type**: refine-draft
+- **Notes**: From topic-concept anchoring audit 2026-05-23. The topic article over-claims relative to its anchor concept [[causal-closure]]; failed checks: hedge_density, strong_assertions, underdetermination_markers.
 
 ### ✓ 2026-05-23: Propagate Compatibility vs. Support discipline through born-rule article's Tenet 4 paragraph and structural framing
 - **Type**: refine-draft

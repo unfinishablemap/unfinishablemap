@@ -4,7 +4,7 @@ description: "Multiple independent empirical lines—evolutionary, cognitive, ne
 created: 2026-02-21
 modified: 2026-02-21
 human_modified:
-ai_modified: 2026-05-23T13:15:00+00:00
+ai_modified: 2026-05-23T14:30:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -36,53 +36,53 @@ last_curated:
 last_deep_review: 2026-04-27T04:13:00+00:00
 ---
 
-No single experiment proves consciousness selects among quantum outcomes in the brain. The Unfinishable Map does not claim otherwise. What exists is a convergence of independent empirical lines—evolutionary, cognitive, neurological, and quantum-biological—that collectively favour the hypothesis over its competitors. Each line of evidence eliminates alternatives. Together they narrow the viable options until [[concepts/consciousness-selecting-neural-patterns|consciousness-selecting]] emerges as the most coherent explanation that survives all constraints.
+No single experiment proves consciousness selects among quantum outcomes in the brain. The Unfinishable Map does not claim otherwise. What exists is a convergence of independent empirical lines—evolutionary, cognitive, neurological, and quantum-biological—that collectively appear to favour the hypothesis over its competitors. Each line constrains the alternatives. Together they may narrow the viable options until [[concepts/consciousness-selecting-neural-patterns|consciousness-selecting]] emerges as one coherent explanation that survives the constraints jointly—though, as discussed below, the evidence does not decisively adjudicate between consciousness-selecting and certain rival readings.
 
-This article assembles the evidence in one place, distinguishes what each line establishes from what it merely suggests, and identifies where the empirical gaps remain.
+This article assembles the evidence in one place, distinguishes what each line plausibly supports from what it merely suggests, and identifies where the empirical gaps remain.
 
 ## The Evolutionary Line
 
 The oldest and broadest evidence comes from natural selection itself. Consciousness appears to have been elaborated across evolutionary lineages—richer, more integrated, more flexible in species with greater cognitive sophistication. As William James argued in 1890, a trait that does nothing cannot be selected. If consciousness evolved, it must have fitness effects. If it has fitness effects, it causally influences behaviour.
 
-The [[evolutionary-case-for-mental-causation|evolutionary argument]] establishes:
+The [[evolutionary-case-for-mental-causation|evolutionary argument]] supports two related conclusions:
 
-- **Consciousness is not epiphenomenal.** A causally inert property that changes nothing about survival cannot be selected and elaborated. The systematic correlation between phenomenal valence and biological significance—pain accompanying injury, pleasure accompanying reproduction—would be coincidental under [[concepts/epiphenomenalism]]. The interactionist has a direct explanation: phenomenal character drives behaviour, with [[valence-and-conscious-selection|valence functioning as the common currency]] by which consciousness evaluates and selects among competing options.
-- **The elaboration pattern requires explanation.** Human phenomenal experience appears richer than that of simpler organisms. If consciousness contributed nothing, this elaboration would be a free-riding byproduct of neural complexity that was itself selected for independent reasons. Possible in principle, but increasingly strained as the correlation deepens.
+- **Consciousness appears not to be epiphenomenal.** A causally inert property that changes nothing about survival cannot be selected and elaborated. The systematic correlation between phenomenal valence and biological significance—pain accompanying injury, pleasure accompanying reproduction—would seem coincidental under [[concepts/epiphenomenalism]]. The interactionist has a direct explanation: phenomenal character may drive behaviour, with [[valence-and-conscious-selection|valence functioning as the common currency]] by which consciousness evaluates and selects among competing options.
+- **The elaboration pattern requires explanation.** Human phenomenal experience appears richer than that of simpler organisms. If consciousness contributed nothing, this elaboration would be a free-riding byproduct of neural complexity that was itself selected for independent reasons. Possible in principle, perhaps, but increasingly strained as the correlation deepens.
 
-**What the evolutionary line does not establish:** Whether consciousness is non-physical. Non-reductive physicalists accept mental causation while denying dualism. The evolutionary argument shows consciousness *does something*—it does not show that what it does requires anything beyond physical processes. The further step to non-physicality depends on additional arguments (the [[explanatory-gap]], [[philosophical-zombies|conceivability]], the difficulty of reconciling genuine mental causation with [[causal-closure|causal closure]]).
+**What the evolutionary line does not establish:** Whether consciousness is non-physical. Non-reductive physicalists accept mental causation while denying dualism. The evolutionary argument constrains epiphenomenalism—it suggests consciousness *does something*—but does not show that what it does requires anything beyond physical processes. The further step to non-physicality depends on additional arguments (the [[explanatory-gap]], [[philosophical-zombies|conceivability]], the difficulty of reconciling genuine mental causation with [[causal-closure|causal closure]]).
 
 ## The Comparative Cognition Line
 
 [[baseline-cognition|Comparative cognition]] sharpens the evolutionary argument by identifying *what* consciousness contributes. Great apes possess sophisticated neural machinery producing complex behaviour—tool use, social learning, procedural metacognition. Yet they cannot perform logical reasoning, counterfactual thinking, or cumulative culture. The cognitive gap between humans and great apes tracks precisely those capacities associated with conscious processing.
 
-The key finding: Lieberman et al. (2008) demonstrated that cognitive load impairing conscious processing impairs logical reasoning, while disrupting unconscious processing does not. This is what consciousness-selecting predicts—conscious processing causally contributes to reasoning, rather than merely accompanying it.
+The key finding: Lieberman et al. (2008) reported that cognitive load impairing conscious processing impairs logical reasoning, while disrupting unconscious processing does not. This pattern is what consciousness-selecting would predict—conscious processing appearing to contribute causally to reasoning, rather than merely accompanying it.
 
-The comparative evidence establishes:
+The comparative evidence supports the following claims:
 
-- **Consciousness enables specific cognitive functions.** The capacities distinguishing human from great ape intelligence—logical reasoning, explicit metacognition, cumulative culture—require conscious access.
-- **The unconscious baseline is powerful but bounded.** Great apes demonstrate what neural computation achieves without consciousness's full contribution. The boundaries of that computation are instructive: they fall precisely where conscious involvement begins.
+- **Consciousness appears to enable specific cognitive functions.** The capacities distinguishing human from great ape intelligence—logical reasoning, explicit metacognition, cumulative culture—seem to require conscious access.
+- **The unconscious baseline is powerful but bounded.** Great apes exhibit what neural computation achieves without consciousness's full contribution. The boundaries of that computation may be instructive: they appear to fall precisely where conscious involvement begins.
 
-**What the comparative line does not establish:** That conscious contribution operates through quantum selection specifically. A physicalist account in which consciousness is identical to certain neural processes accommodates the Lieberman findings equally well. The comparative evidence supports mental causation without specifying the mechanism.
+**What the comparative line does not establish:** That conscious contribution operates through quantum selection specifically. A physicalist account in which consciousness is identical to certain neural processes accommodates the Lieberman findings equally well; the comparative evidence is compatible with both readings, and does not adjudicate between them. The evidence supports mental causation without specifying the mechanism.
 
 ## The Neurological Line
 
-Clinical and neurosurgical evidence separates conscious selection from automatic execution, supporting the claim that consciousness contributes something distinct from unconscious neural processing.
+Clinical and neurosurgical evidence appears to separate conscious selection from automatic execution, supporting the claim that consciousness contributes something distinct from unconscious neural processing.
 
-**The intention-execution dissociation.** Desmurget et al. (2009) found that parietal cortex stimulation produces conscious intention to move—even false belief of having moved—without muscle activity. Premotor cortex stimulation produces movement without awareness. Conscious intention and motor execution occupy distinct neural territory, consistent with consciousness contributing at the policy level while the motor system handles implementation.
+**The intention-execution dissociation.** Desmurget et al. (2009) found that parietal cortex stimulation produces conscious intention to move—even false belief of having moved—without muscle activity. Premotor cortex stimulation produces movement without awareness. Conscious intention and motor execution seem to occupy distinct neural territory, consistent with consciousness contributing at the policy level while the motor system handles implementation.
 
-**Supplementary motor area evidence.** Sjöberg (2024) reports that patients with the supplementary motor area (SMA) resected retain the subjective sense of willing—reporting maximal effort to move—while losing voluntary movement execution. Automatic movements (walking, reading aloud) remain intact. If consciousness were identical to the neural machinery of movement initiation, removing that machinery should eliminate the experience of willing. It does not. The experience and the mechanism come apart.
+**Supplementary motor area evidence.** Sjöberg (2024) reports that patients with the supplementary motor area (SMA) resected retain the subjective sense of willing—reporting maximal effort to move—while losing voluntary movement execution. Automatic movements (walking, reading aloud) remain intact. If consciousness were identical to the neural machinery of movement initiation, removing that machinery should eliminate the experience of willing. It does not. The experience and the mechanism appear to come apart.
 
 **OCD and directed attention.** Schwartz et al. (1996) found that patients who learn to cognitively reframe intrusive thoughts showed decreased caudate nucleus activity on PET imaging. The study was small (18 participants, only 9 of whom were new) and has not been independently replicated, but the finding is suggestive: whatever performs the reframing has physical consequences. The directed attention that produces these changes has the phenomenology of effort—patients report that the cognitive reframing is difficult, requiring sustained concentration against compelling urges. Mainstream neuroscience explains the findings via Hebbian learning without requiring non-physical causation.
 
 **Willed versus automatic attention.** Rajan et al. (2019) identified distinct neural signatures—frontal theta oscillations and bidirectional fronto-parietal coherence—present during willed attention but absent during instructed or automatic attention. These signatures appear approximately 300ms into the attentional process, matching the motor commitment timescale (Thura & Cisek, 2014). Willed processing leaves a neural footprint that automatic processing does not.
 
-The neurological line establishes:
+The neurological line supports the following claims:
 
-- **Conscious intention dissociates from motor execution.** They can be independently disrupted or produced.
-- **Directed conscious effort produces measurable neural changes.** The changes track the phenomenology of effort.
-- **Willed and automatic processing have distinct signatures.** Something distinguishes them beyond mere task difficulty.
+- **Conscious intention appears to dissociate from motor execution.** They can be independently disrupted or produced.
+- **Directed conscious effort correlates with measurable neural changes.** The changes seem to track the phenomenology of effort.
+- **Willed and automatic processing have distinct signatures.** Something appears to distinguish them beyond mere task difficulty.
 
-**What the neurological line does not establish:** That the distinction between willed and automatic processing involves quantum effects. A purely computational account—willed attention recruits additional neural circuits—remains viable as an alternative interpretation of the same data. (For first-person evidence from trained observers that complements these third-person findings, see [[contemplative-practice-as-philosophical-evidence|contemplative practice as philosophical evidence]].)
+**What the neurological line does not establish:** That the distinction between willed and automatic processing involves quantum effects. A purely computational account—willed attention recruits additional neural circuits—remains viable as an alternative interpretation of the same data. The neurological evidence is compatible with both readings, and does not by itself adjudicate between them. (For first-person evidence from trained observers that complements these third-person findings, see [[contemplative-practice-as-philosophical-evidence|contemplative practice as philosophical evidence]].)
 
 ## The Quantum-Biological Line
 
@@ -96,18 +96,18 @@ The most recent and technically specific evidence addresses whether the physical
 
 **The measurement problem.** Even where decoherence operates rapidly, it does not resolve the [[measurement-problem]]. As Schlosshauer's 2025 review states: "After the basis is chosen and quantum superpositions are suppressed, the system still remains in a mixture of possible outcomes. Decoherence does not tell how and why only one of these outcomes is measured." Something must determine definite outcomes. Physics identifies probabilities without explaining why particular outcomes actualise. Consciousness remains a candidate for what completes this picture.
 
-The quantum-biological line establishes:
+The quantum-biological line supports the following claims:
 
-- **Warm biology exploits quantum effects.** The categorical objection is empirically refuted.
+- **Warm biology appears to exploit quantum effects.** The categorical objection seems empirically refuted.
 - **Evolution can optimise quantum coherence.** If it can do so for navigation and catalysis, the neural case cannot be ruled out a priori.
-- **Microtubule quantum effects correlate with consciousness.** Anaesthetics disrupt both, and microtubule stabilisation delays unconsciousness.
+- **Microtubule quantum effects may correlate with consciousness.** Anaesthetics appear to disrupt both, and microtubule stabilisation delays unconsciousness.
 - **Decoherence does not solve the measurement problem.** The conceptual opening for consciousness at collapse survives regardless of coherence timescales.
 
 **What the quantum-biological line does not establish:** That neural quantum effects are functionally operative in consciousness specifically. The microtubule-anaesthetic correlations are suggestive, not conclusive—anaesthetics affect many cellular targets. No experiment has demonstrated that disrupting neural quantum effects selectively impairs consciousness while leaving other functions intact.
 
 ## The Convergence
 
-No individual line of evidence proves consciousness-selecting. The evolutionary argument shows consciousness does something but not what mechanism it uses. The comparative evidence shows what consciousness contributes but not how. The neurological evidence shows where conscious and automatic processing differ but not whether quantum effects are involved. The quantum-biological evidence shows the substrate exists but not whether consciousness operates there.
+No individual line of evidence proves consciousness-selecting. The evolutionary argument suggests consciousness does something but not what mechanism it uses. The comparative evidence indicates what consciousness contributes but not how. The neurological evidence appears to show where conscious and automatic processing differ but not whether quantum effects are involved. The quantum-biological evidence suggests the substrate exists but not whether consciousness operates there. Each line, taken alone, is compatible with both consciousness-selecting and classical-physicalist readings; neither interpretation is forced by the data line by line.
 
 Together, however, the lines constrain the space of viable theories:
 
@@ -119,7 +119,7 @@ Together, however, the lines constrain the space of viable theories:
 
 Classical physicalism accommodates the first three lines but has no account of why definite quantum outcomes occur—and if quantum effects are functionally relevant in neural tissue (as the fourth line suggests), that gap becomes a gap in the theory of consciousness itself, not merely in physics. Epiphenomenalism fails the first three lines outright. Consciousness-selecting is compatible with all four.
 
-This is not proof. It is convergent evidence favouring one hypothesis over its competitors—the same structure by which most scientific conclusions are reached. No single observation establishes continental drift, but the convergence of geological, palaeontological, magnetic, and geodetic evidence leaves plate tectonics as the most coherent explanation.
+This is not proof. It is convergent evidence that may favour one hypothesis over its competitors—the same structure by which many scientific conclusions are reached. No single observation settles continental drift, but the convergence of geological, palaeontological, magnetic, and geodetic evidence leaves plate tectonics as the most coherent surviving explanation. The parallel with consciousness-selecting is suggestive rather than decisive: the convergence narrows the field of viable theories without uniquely picking one out, and a determined classical physicalist may still construct accounts compatible with the same observations.
 
 ## What Would Weaken the Case
 
@@ -139,7 +139,7 @@ The empirical convergence supports all five of the Map's [[tenets]]:
 
 **[[tenets#^dualism|Dualism]]**: The comparative evidence shows consciousness contributes capacities that unconscious processing alone does not achieve. The neurological evidence shows conscious intention dissociates from motor execution. Together they support the claim that consciousness is not reducible to neural computation—though the further step from causal efficacy to non-physicality requires the [[dualism|philosophical arguments]] the Map develops elsewhere, building toward [[concepts/interactionist-dualism|interactionist dualism]].
 
-**[[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]]**: Quantum biology demonstrates the substrate exists. The bandwidth constraint—approximately 10 bits per second of conscious throughput (Meister, 2024)—ensures selection is minimal. Consciousness selects among coarse-grained action patterns, not individual quantum events.
+**[[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]]**: Quantum biology suggests the substrate exists. The bandwidth constraint—approximately 10 bits per second of conscious throughput (Meister, 2024)—appears to ensure that any selection would be minimal. Consciousness, if it selects at all, selects among coarse-grained action patterns rather than individual quantum events.
 
 **[[tenets#^bidirectional-interaction|Bidirectional Interaction]]**: The evolutionary and neurological lines provide the strongest evidence for the downward direction of interaction. Consciousness is not a passive observer—it shapes neural outcomes.
 
