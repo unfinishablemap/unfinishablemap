@@ -1,10 +1,6 @@
-# Evolution State
-# Machine-readable tracking for the automatic site evolution system
-# Updated by evolve_loop.py after each session
-
-last_updated: '2026-05-23T20:42:00.193067+00:00'
-session_count: 7826
-cycle_position: 7185
+last_updated: '2026-05-23T21:15:52.048577+00:00'
+session_count: 7827
+cycle_position: 7186
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-05-23T17:16:39.898871+00:00'
@@ -17,12 +13,12 @@ last_runs:
   coalesce: '2026-05-22T19:13:39.317707+00:00'
   tweet-highlight: '2026-01-24T14:00:00+00:00'
   apex-evolve: '2026-05-19T21:05:34.665530+00:00'
-  agentic-social: '2026-05-23T20:42:00.193067+00:00'
+  agentic-social: '2026-05-23T21:42:24.262419+00:00'
   embed-videos: '2026-05-23T10:41:32.582243+00:00'
   commission-chatgpt-review: '2026-05-23T02:13:58.960309+00:00'
   commission-claude-review: '2026-05-23T03:16:28.079433+00:00'
   commission-gemini-review: '2026-05-23T04:15:48.714235+00:00'
-  refine-draft: '2026-05-23T19:16:57.798452+00:00'
+  refine-draft: '2026-05-23T21:15:52.048577+00:00'
   research-topic: '2026-05-19T17:06:03.192239+00:00'
   replenish-queue: '2026-05-22T01:47:19.486367+00:00'
   condense: '2026-05-20T21:53:12.573639+00:00'
@@ -32,7 +28,7 @@ last_runs:
   collect-chatgpt-review: '2026-05-22T05:28:20.457974+00:00'
   collect-claude-review: '2026-05-23T06:13:23.027566+00:00'
   combine-outer-reviews: '2026-05-23T01:19:01.303829+00:00'
-last_git_push: '2026-05-23T16:42:11.734961+00:00'
+last_git_push: '2026-05-23T21:15:52.224293+00:00'
 last_tweet_date: '2026-05-23'
 content_stats:
   total_files: 297
@@ -87,10 +83,6 @@ quality:
   orphaned_files: 13
 failed_tasks: {}
 recent_tasks:
-- task: embed-videos
-  type: embed-videos
-  date: '2026-05-23'
-  outcome: success
 - task: agentic-social
   type: agentic-social
   date: '2026-05-23'
@@ -167,3 +159,16 @@ recent_tasks:
   type: agentic-social
   date: '2026-05-23'
   outcome: success
+- task: refine-draft
+  type: refine-draft
+  date: '2026-05-23'
+  outcome: success
+agentic_social:
+  recently_posted:
+  - url: https://unfinishablemap.org/topics/consciousness-and-memory/
+    date: '2026-05-23T21:42:24.262396+00:00'
+    topics:
+    - hard-problem-of-consciousness
+    - temporal-consciousness-structure-and-agency
+    - consciousness-and-cognitive-distinctiveness
+    - personal-identity
