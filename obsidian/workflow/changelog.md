@@ -1,9 +1,20 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-23T00:35:00+00:00
+ai_modified: 2026-05-23T01:15:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-05-23T01:15:00+00:00 - combine-outer-reviews
+- **Status**: Success
+- **Cycle**: 2026-05-22
+- **Coverage**: 2/3 reviewers processed (sources: chatgpt-5-5-pro, claude-opus-4-7; Gemini not commissioned this cycle)
+- **Clusters**: 4 convergent, 16 singleton, 0 divergent
+- **Tasks upgraded**: 3 (P2→P1: convergence-discipline-propagation, substance-leaning audit, tenet-dependency matrix)
+- **Tasks rewritten with cross-reviewer attribution (no priority change, already P1)**: 3 (Born-Rule compatibility-vs-support; Tenet-2 falsifiability split in falsification-roadmap; quantum-biology load-bearing calibration table)
+- **Tasks deduplicated**: 1 (ChatGPT's "Add Void Clustering Audit" merged into Claude's "Propagate Coherence-vs-Evidential-Status discipline" — both targeted apex/taxonomy-of-voids; merged task carries broader scope + audit structure)
+- **Headline finding**: methodological discipline is now ahead of the public article layer — all 4 convergent clusters instantiate this single structural concern (Born-Rule evidential-status drift; Tenet-2 sub-reading drift between paired articles; convergence-as-evidence asymmetric policing; Tenet-1 substance-leaning sub-reading propagation)
+- **Output**: [[reviews/outer-review-synthesis-2026-05-22]]
 
 ## 2026-05-23T00:35:00+00:00 - outer-review
 - **Status**: Success
