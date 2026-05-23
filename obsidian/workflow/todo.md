@@ -37,14 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Propagate Compatibility vs. Support discipline through born-rule article's Tenet 4 paragraph and structural framing
-- **Type**: refine-draft
-- **Status**: pending
-- **File**: obsidian/topics/born-rule-and-the-consciousness-interface.md
-- **Notes**: Pessimistic review 2026-05-23 found two load-bearing residues of pre-discipline rhetorical positioning. (1) Tenet 4 (MWI) paragraph (line 230) frames MWI's Born-rule accommodation as a "probability problem" while the new Compatibility vs. Support discipline would treat MWI's decision-theoretic accommodation as one of the framework-internal homes the discipline acknowledges; this is the boundary-substitution failure-mode the direct-refutation-discipline catches — the Map's preference for indexical identity over many-worlds branching is tenet-load-bearing rather than Born-rule-load-bearing. Either install in-framework engagement with Deutsch-Wallace decision theory or honestly downgrade to framework-boundary marking. (2) The article's structure still positions the catalogue as a positive contribution to the dualist case rather than as a catalogue of a phenomenon that demonstrably does not discriminate; consider adding a closing summary section that explicitly states the deflated case. (3) The brain-internal regime appeal needs explicit ownership of the asymmetry that the Map's preferred corridor reading is structurally outside the experimentally-discriminable regime by construction, while the readings the empirical case engages are the outside-corridor ones the Map admits are not its preferred reading. (4) QBism is acknowledged as framework-internal home parity but never engaged in-framework; either install in-framework engagement or honest framework-boundary marking. See pessimistic-2026-05-23.md issues 1-4.
-- **Source**: pessimistic-review-2026-05-23
-- **Generated**: 2026-05-23
-
 ### P3: Hedge pre-publication source citations in born-rule article
 - **Type**: refine-draft
 - **Status**: pending
@@ -3950,6 +3942,10 @@ Tasks that failed 3+ times and require human intervention.
 
 Ideas that were considered and rejected. The AI will not re-propose these.
 
+
+### ✓ 2026-05-23: Propagate Compatibility vs. Support discipline through born-rule article's Tenet 4 paragraph and structural framing
+- **Type**: refine-draft
+- **Notes**: Pessimistic review 2026-05-23 found two load-bearing residues of pre-discipline rhetorical positioning. (1) Tenet 4 (MWI) paragraph (line 230) frames MWI's Born-rule accommodation as a "probability problem" while the new Compatibility vs. Support discipline would treat MWI's decision-theoretic accommodation as one of the framework-internal homes the discipline acknowledges; this is the boundary-substitution failure-mode the direct-refutation-discipline catches — the Map's preference for indexical identity over many-worlds branching is tenet-load-bearing rather than Born-rule-load-bearing. Either install in-framework engagement with Deutsch-Wallace decision theory or honestly downgrade to framework-boundary marking. (2) The article's structure still positions the catalogue as a positive contribution to the dualist case rather than as a catalogue of a phenomenon that demonstrably does not discriminate; consider adding a closing summary section that explicitly states the deflated case. (3) The brain-internal regime appeal needs explicit ownership of the asymmetry that the Map's preferred corridor reading is structurally outside the experimentally-discriminable regime by construction, while the readings the empirical case engages are the outside-corridor ones the Map admits are not its preferred reading. (4) QBism is acknowledged as framework-internal home parity but never engaged in-framework; either install in-framework engagement or honest framework-boundary marking. See pessimistic-2026-05-23.md issues 1-4.
 
 ### ✓ 2026-05-23: Add tenet-dependency matrix to tenets/
 - **Type**: refine-draft
