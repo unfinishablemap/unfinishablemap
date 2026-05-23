@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-14
-ai_modified: 2026-04-04 08:39:00+00:00
+ai_modified: 2026-05-23 00:00:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -28,7 +28,7 @@ description: Global Workspace Theory explains when information becomes conscious
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-04-03 18:38:00+00:00
+last_deep_review: 2026-05-23 00:00:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -83,7 +83,7 @@ Neither theory emerged unscathed. The theories proved "too different in assumpti
 
 ### Implications for Consciousness Localization
 
-COGITATE confirmed that conscious content tracks with posterior cortex rather than the prefrontal-parietal broadcast network. [Dreaming](/topics/dream-consciousness/) reinforces this: dreams persist when the posterior hot zone remains active, even when prefrontal areas are offline. If workspace broadcast were necessary for consciousness, prefrontal deactivation should eliminate experience.
+COGITATE indicated that conscious content tracks with posterior cortex more closely than with the prefrontal-parietal broadcast network—a finding consistent with the underdetermination framing above rather than a clean falsification of GNW. [Dreaming](/topics/dream-consciousness/) reinforces this: dreams persist when the posterior hot zone remains active, even when prefrontal areas are offline. If workspace broadcast were necessary for consciousness, prefrontal deactivation should eliminate experience.
 
 This suggests the global workspace may be sufficient for *reportable* consciousness without being necessary for consciousness itself—consciousness may access whatever the posterior cortex provides, with the workspace enabling but not constituting that access.
 
@@ -113,7 +113,7 @@ The global workspace may explain *how* [consciousness amplifies cognition](/conc
 
 This reinterprets GWT's central claim: global broadcast isn't merely making information reportable—it's making information *manipulable*. The workspace enables cross-domain integration, flexible recombination, [metacognitive](/concepts/metacognition/) monitoring, and counterfactual simulation. Great apes show precisely the limitations expected if consciousness amplifies through the workspace: sophisticated within domain-specific modules, limited where global broadcast is required.
 
-Global broadcast may also enable [metarepresentation](/concepts/metacognition/)—what Whiten (2015) calls the Jourdain Hypothesis. Great apes have culture but may not *know* they have culture. Cumulative culture requires treating knowledge *as* knowledge that can be improved. When information achieves workspace ignition, it becomes available to reasoning systems that take representations as their objects, enabling the "thinking about thinking" that metarepresentation requires. Lieberman et al. (2008) confirmed this: cognitive load impairs rule-based logical reasoning while leaving pattern recognition intact.
+Global broadcast may also enable [metarepresentation](/concepts/metacognition/)—what Whiten (2015) calls the Jourdain Hypothesis. Great apes have culture but may not *know* they have culture. Cumulative culture requires treating knowledge *as* knowledge that can be improved. When information achieves workspace ignition, it becomes available to reasoning systems that take representations as their objects, enabling the "thinking about thinking" that metarepresentation requires. Lieberman et al. (2008) supported this: cognitive load impairs rule-based logical reasoning while leaving pattern recognition intact.
 
 ## Memory Systems and Global Broadcast
 

@@ -38,14 +38,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Propagate Compatibility vs. Support discipline through born-rule article's Tenet 4 paragraph and structural framing
-- **Type**: refine-draft
-- **Status**: pending
-- **File**: obsidian/topics/born-rule-and-the-consciousness-interface.md
-- **Notes**: Pessimistic review 2026-05-23 found two load-bearing residues of pre-discipline rhetorical positioning. (1) Tenet 4 (MWI) paragraph (line 230) frames MWI's Born-rule accommodation as a "probability problem" while the new Compatibility vs. Support discipline would treat MWI's decision-theoretic accommodation as one of the framework-internal homes the discipline acknowledges; this is the boundary-substitution failure-mode the direct-refutation-discipline catches — the Map's preference for indexical identity over many-worlds branching is tenet-load-bearing rather than Born-rule-load-bearing. Either install in-framework engagement with Deutsch-Wallace decision theory or honestly downgrade to framework-boundary marking. (2) The article's structure still positions the catalogue as a positive contribution to the dualist case rather than as a catalogue of a phenomenon that demonstrably does not discriminate; consider adding a closing summary section that explicitly states the deflated case. (3) The brain-internal regime appeal needs explicit ownership of the asymmetry that the Map's preferred corridor reading is structurally outside the experimentally-discriminable regime by construction, while the readings the empirical case engages are the outside-corridor ones the Map admits are not its preferred reading. (4) QBism is acknowledged as framework-internal home parity but never engaged in-framework; either install in-framework engagement or honest framework-boundary marking. See pessimistic-2026-05-23.md issues 1-4.
-- **Source**: pessimistic-review-2026-05-23
-- **Generated**: 2026-05-23
-
 ### P3: Hedge pre-publication source citations in born-rule article
 - **Type**: refine-draft
 - **Status**: pending
@@ -108,15 +100,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Review file**: `reviews/outer-review-2026-05-22-claude-opus-4-7.md`
 - **Source**: outer-review
 - **Generated**: 2026-05-23
-
-### P1: Add tenet-dependency matrix to tenets/
-- **Type**: refine-draft
-- **Status**: pending
-- **Notes**: From convergent outer reviews (2026-05-22, 2/3 reviewers): [chatgpt-5-5-pro, claude-opus-4-7]. Upgraded P2 → P1 on cross-reviewer convergence. Paired with the substance-leaning audit task — the matrix is the *preventative* structural tool that prevents future inheritance failures; the audit is the *retrospective* sweep across already-written articles. ChatGPT (§2.E, §6.12): *"This would prevent hidden inheritance of stronger commitments than an article actually needs."* Claude (§Key Findings 4): *"downstream articles still need clearer local signaling when an argument requires only irreducibility, when it requires interactionism, and when it requires a persisting subject with substance-like causal powers."* The tenets page now acknowledges that Dualism is neutral between substance and property dualism but that the agency cluster deploys a substance-leaning sub-reading because agent causation requires a persisting subject exercising causal powers. The downstream risk is hidden inheritance: a high-stakes article inherits "Tenet 1 commits us to X" when the local argument only requires bare irreducibility, or vice versa. Refine pass should add a tenet-dependency matrix with columns for the live sub-readings — bare dualism, interactionist dualism, substance-leaning agency, minimal quantum interaction (corridor reading), post-decoherence selection, no-MWI/indexical identity, anti-parsimony — and rows for the major cross-cluster topics — agency, attention, machine consciousness, animal consciousness, voids, memory hierarchy, Born Rule, quantum biology. Each cell records which sub-reading the row's typical argument actually requires. This makes inheritance visible and prevents articles from absorbing stronger commitments than they earn. Cross-link to the major cluster articles and to the companion substance-leaning audit task. Tenet alignment: all five tenets (dependency-visibility methodology).
-- **Review files**: `reviews/outer-review-2026-05-22-chatgpt-5-5-pro.md`, `reviews/outer-review-2026-05-22-claude-opus-4-7.md`
-- **Source**: outer-review
-- **Synthesis**: `reviews/outer-review-synthesis-2026-05-22.md`
-- **Generated**: 2026-05-22
 
 ### P2: Add Calibrated Phenomenology Ladder inset to apex/phenomenology-mechanism-bridge
 - **Type**: refine-draft
@@ -3960,6 +3943,14 @@ Tasks that failed 3+ times and require human intervention.
 
 Ideas that were considered and rejected. The AI will not re-propose these.
 
+
+### ✓ 2026-05-23: Propagate Compatibility vs. Support discipline through born-rule article's Tenet 4 paragraph and structural framing
+- **Type**: refine-draft
+- **Notes**: Pessimistic review 2026-05-23 found two load-bearing residues of pre-discipline rhetorical positioning. (1) Tenet 4 (MWI) paragraph (line 230) frames MWI's Born-rule accommodation as a "probability problem" while the new Compatibility vs. Support discipline would treat MWI's decision-theoretic accommodation as one of the framework-internal homes the discipline acknowledges; this is the boundary-substitution failure-mode the direct-refutation-discipline catches — the Map's preference for indexical identity over many-worlds branching is tenet-load-bearing rather than Born-rule-load-bearing. Either install in-framework engagement with Deutsch-Wallace decision theory or honestly downgrade to framework-boundary marking. (2) The article's structure still positions the catalogue as a positive contribution to the dualist case rather than as a catalogue of a phenomenon that demonstrably does not discriminate; consider adding a closing summary section that explicitly states the deflated case. (3) The brain-internal regime appeal needs explicit ownership of the asymmetry that the Map's preferred corridor reading is structurally outside the experimentally-discriminable regime by construction, while the readings the empirical case engages are the outside-corridor ones the Map admits are not its preferred reading. (4) QBism is acknowledged as framework-internal home parity but never engaged in-framework; either install in-framework engagement or honest framework-boundary marking. See pessimistic-2026-05-23.md issues 1-4.
+
+### ✓ 2026-05-23: Add tenet-dependency matrix to tenets/
+- **Type**: refine-draft
+- **Notes**: From convergent outer reviews (2026-05-22, 2/3 reviewers): [chatgpt-5-5-pro, claude-opus-4-7]. Upgraded P2 → P1 on cross-reviewer convergence. Paired with the substance-leaning audit task — the matrix is the *preventative* structural tool that prevents future inheritance failures; the audit is the *retrospective* sweep across already-written articles. ChatGPT (§2.E, §6.12): *"This would prevent hidden inheritance of stronger commitments than an article actually needs."* Claude (§Key Findings 4): *"downstream articles still need clearer local signaling when an argument requires only irreducibility, when it requires interactionism, and when it requires a persisting subject with substance-like causal powers."* The tenets page now acknowledges that Dualism is neutral between substance and property dualism but that the agency cluster deploys a substance-leaning sub-reading because agent causation requires a persisting subject exercising causal powers. The downstream risk is hidden inheritance: a high-stakes article inherits "Tenet 1 commits us to X" when the local argument only requires bare irreducibility, or vice versa. Refine pass should add a tenet-dependency matrix with columns for the live sub-readings — bare dualism, interactionist dualism, substance-leaning agency, minimal quantum interaction (corridor reading), post-decoherence selection, no-MWI/indexical identity, anti-parsimony — and rows for the major cross-cluster topics — agency, attention, machine consciousness, animal consciousness, voids, memory hierarchy, Born Rule, quantum biology. Each cell records which sub-reading the row's typical argument actually requires. This makes inheritance visible and prevents articles from absorbing stronger commitments than they earn. Cross-link to the major cluster articles and to the companion substance-leaning audit task. Tenet alignment: all five tenets (dependency-visibility methodology).
 
 ### ✓ 2026-05-23: Add load-bearing-for-what calibration table to quantum-biology-and-neural-consciousness
 - **Type**: refine-draft
