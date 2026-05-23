@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-23
-ai_modified: 2026-05-19 12:58:30+00:00
+ai_modified: 2026-05-23 15:40:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -32,6 +32,9 @@ related_articles:
 - '[[intuitive-dualism]]'
 - '[[fitness-beats-truth]]'
 - '[[anti-correlated-metacognitive-signal]]'
+- '[[project/evidential-status-discipline]]'
+- '[[topics/animal-consciousness]]'
+- '[[apex/taxonomy-of-voids]]'
 title: Cross-Cultural Convergence on Mental Causation
 topics:
 - '[[indian-philosophy-of-mind]]'
@@ -86,6 +89,16 @@ The Barrett finding fits a structural parallel that surfaces in another part of 
 **The selection bias objection.** We notice traditions that endorse mental causation and ignore those that deny it. Some traditions—notably certain Buddhist schools (particularly Mādhyamaka) and the Cārvāka materialists of India—reject or complicate the picture. This is a genuine limitation. The convergence is not universal but predominant: most traditions that seriously investigate the mind-body relationship conclude that consciousness is causally efficacious.
 
 **The conceptual translation problem.** *Puruṣa*, *okra*, and Cartesian *res cogitans* are not identical concepts. Treating them as converging on "mental causation" may impose Western categories on traditions with fundamentally different conceptual schemes. This objection has force—but the convergence operates at a level of abstraction above specific conceptual frameworks. The shared claim is functional: something non-physical participates in causing physical effects. The traditions disagree about the precise metaphysics while agreeing on this functional point.
+
+## Coherence with Interactionist Dualism Is Not an Independent Route
+
+The article's structure invites a count of three converging considerations: the *epistemology of convergence* (the methodology), the *cross-cultural data* (Indian, African, and Western traditions independently endorsing mental causation), and the *Map's framework commitment* to [interactionist dualism](/concepts/interactionist-dualism/) — which reads the convergence as supporting the framework's bidirectional-interaction tenet. The three do not count equally as independent confirmations. The methodology and the data are genuinely independent of each other; the Map's framework commitment is the interpretive lens through which the data are read, not a third independent route.
+
+The [coherence-vs-evidential-status](/project/evidential-status-discipline/#coherence-vs-evidential-status) discipline names the pattern. A framework's coherence with the cross-cultural convergence's output earns *framework-internal weight* — the Map's interactionist reading integrates cleanly with the convergence's licence to take mental causation seriously — without earning the tier-upgrade an independent third confirmation would supply. The convergence on *mental causation*'s reality is what the data and methodology actually license. The further selection of interactionist dualism over the alternatives compatible with mental causation — Nyāya-style enduring-self dualism, Akan relational personhood, Western property dualism, agent-causation libertarianism, certain compatibilist accounts that read top-down mental causation as supervenience-respecting — runs through the Map's separate arguments for the tenet-package's specific shape, including its [minimal quantum interaction](/tenets/#minimal-quantum-interaction) mechanism. That selection is honest as a framework move but does not inherit the convergence's evidential weight.
+
+The pattern is operative because the cross-cultural data are compatible with framings the Map rejects. A property dualist who denies bidirectional quantum interaction can accept every line of evidence in this article; an agent-causation libertarian who is silent on quantum mechanics can accept the same data; certain Buddhist analyses preserve mental causation without an enduring agent. The convergence does not discriminate among these without the further mechanism argument. Honest catalogue language: *the cross-cultural data earn "consciousness is causally efficacious" across the mental-causation-affirming frameworks; the Map's specific interactionist reading earns what its bidirectional-interaction and minimal-quantum-interaction arguments separately supply*.
+
+The parallel discipline operates at [the convergence argument for dualism](/topics/the-convergence-argument-for-dualism/#coherence-across-routes-is-not-independent-routes) (at the argument-cluster layer) and at [the cross-traditional convergence on irreducibility](/topics/cross-traditional-convergence-on-consciousness-irreducibility/#methodology-data-and-framework-commitment-are-not-three-independent-routes) (at the traditions layer). The catalogue's worked exhibit at the species-attribution layer is [the animal-consciousness COGITATE treatment](/topics/animal-consciousness/#why-the-inference-is-stronger-for-animals-than-for-ai), where markers, convergent evolution, and the no-substrate-barrier are explicitly held as two independent routes plus a framework selection, not three independent confirmations. The propagation extends the same calibration to the mental-causation convergence layer this article operates on.
 
 ## Relation to Site Perspective
 

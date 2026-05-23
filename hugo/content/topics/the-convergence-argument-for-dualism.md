@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-18
-ai_modified: 2026-05-19 20:20:24+00:00
+ai_modified: 2026-05-23 15:30:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -38,6 +38,9 @@ related_articles:
 - '[[cross-traditional-convergence-on-consciousness-irreducibility]]'
 - '[[concession-convergence]]'
 - '[[common-cause-null]]'
+- '[[project/evidential-status-discipline]]'
+- '[[topics/animal-consciousness]]'
+- '[[apex/taxonomy-of-voids]]'
 title: The Convergence Argument for Dualism
 topics:
 - '[[hard-problem-of-consciousness]]'
@@ -143,6 +146,18 @@ The cross-traditional convergence supports the reality of the explanatory gap ra
 **Madhyamaka emptiness** reads the convergence as recognition that any sufficiently rigorous analysis of consciousness encounters the same conceptual fracture point — not because consciousness has a determinate fundamental feature, but because the conceptual apparatus produces the fracture. This is consistent with the convergence pattern; the disagreement is that Madhyamaka's project is therapeutic while the Map's is metaphysical.
 
 The Map's selection of dualism rests primarily on the [Bidirectional Interaction tenet](/tenets/#bidirectional-interaction) — the positive thesis that consciousness causally shapes physical evolution, including via [minimal quantum interaction](/tenets/#minimal-quantum). The [companion concept article](/concepts/bidirectional-interaction/) develops the tenet's positive case independently — through the self-stultification objection to epiphenomenalism and the empirical evidence for mental causation — so the selection step here is not a bare appeal to commitment but draws on a separately-supported argument. Bidirectional interaction requires two genuinely distinct domains in causal contact: incompatible with idealism (one domain), under-specified on neutral monism, and more naturally expressed in dualist than panpsychist vocabulary. The convergence argument earns "consciousness is irreducible"; bidirectional interaction selects "and the irreducible side is a distinct kind of stuff in causal contact with the physical."
+
+## Coherence Across Routes Is Not Independent Routes
+
+The convergence argument as developed above runs three sources of support in parallel: the *epistemology of convergence* (the methodology that says cumulative independent arguments compound), the *body of arguments themselves* (knowledge argument, conceivability, explanatory gap, unity, intentionality, Kripke, Nagel — and the cross-traditional and cross-cultural patterns above), and the Map's *framework-level commitment to dualism* (the further selection from the irreducibility-respecting alternatives — panpsychism, neutral monism, idealism, Madhyamaka emptiness — to substance dualism, made on the strength of [bidirectional interaction](/tenets/#bidirectional-interaction)). It is tempting to read these as three independent routes converging on the same destination. They are not. The methodology and the arguments are genuinely independent of each other; the framework-level commitment is not an independent third route but a *selection rule operating on the output* of the first two.
+
+The distinction matters because the catalogue's [coherence-vs-evidential-status](/project/evidential-status-discipline/#coherence-vs-evidential-status) discipline forbids exactly this kind of count-inflation. A framework that selects dualism from the irreducibility-respecting alternatives on its own commitments is not supplying a third independent confirmation of the convergence; it is articulating which conclusion the framework reaches given the convergence's output. The selection's force comes from the separate argument for [bidirectional interaction](/tenets/#bidirectional-interaction) (the [companion concept article](/concepts/bidirectional-interaction/) develops it), not from being a third converging line. Counting it as one would convert framework-internal coherence into evidential-status elevation — the failure mode the discipline names at the cluster-level.
+
+The honest framing distinguishes two layers of inference. *Layer one*: from the body of arguments plus their cross-cultural and cross-traditional convergence, the catalogue earns "consciousness is irreducible to physical description" — a verdict the rival irreducibility-respecting frameworks (panpsychism, neutral monism, idealism, Madhyamaka emptiness) share. The convergence on *this* conclusion is what the methodology actually licenses; it is real and substantial. *Layer two*: from irreducibility to substance dualism, the catalogue runs the further selection on the strength of bidirectional interaction's positive case. This step is honest as a framework selection but does not inherit the convergence's evidential weight — it is a separately-supported move added downstream. Convergence does N-fold work for irreducibility; the dualism-specific further step does the work its own argument can carry.
+
+The same pattern operates against rival framings. The cross-traditional convergence is *compatible* with the Map's reading and with the rival irreducibility-respecting positions; without an independent discriminator that only the Map's reading entails, the catalogue cannot read the convergence as supporting dualism *over* the rivals. The bidirectional-interaction argument supplies the candidate discriminator (idealism collapses the asymmetry interaction requires; neutral monism leaves it under-specified; panpsychism relocates the combination problem rather than discharging it), but the discriminator's force is what the bidirectional-interaction argument earns, not what the convergence multiplies. Honest catalogue language: *convergence earns irreducibility; bidirectional interaction selects dualism among the irreducibility-respecting alternatives; the two earnings do not compound into a single triple-supported case for substance dualism*.
+
+The [animal-consciousness COGITATE treatment](/topics/animal-consciousness/#why-the-inference-is-stronger-for-animals-than-for-ai) is the catalogue's worked exhibit of the same discipline at the species-attribution layer: markers, convergent evolution, and the no-substrate-barrier are explicitly held as two genuinely independent routes plus a framework selection, not as three independent confirmations. The convergence-cluster propagation extends the same calibration up to the convergence-of-arguments layer this article operates on.
 
 ## What Convergence Does Not Prove
 

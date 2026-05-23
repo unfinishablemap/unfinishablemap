@@ -38,13 +38,29 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P1: Expand Rovelli/RQM concept page to engage Adlam & Rovelli 2023 and Lewis 2024
+### P2: Adopt causal-closure calibration in empirical-evidence-for-consciousness-selecting
 - **Type**: refine-draft
 - **Status**: pending
-- **Notes**: Outer-review 2026-05-22 Claude Opus 4.7 §Key Findings, §6 (Important thinkers under-represented), §8 P1. Rovelli's Relational Quantum Mechanics is the conspicuous gap in the Map's engagement with the strongest contemporary opposition to its post-decoherence-selection programme. RQM is currently dispatched in one paragraph of `topics/qm-interpretations-beyond-many-worlds.md` and treated briefly in `concepts/relational-quantum-mechanics.md`. The topics/ section is at 248/250 — too tight to add a new topic — so the work should expand the existing concept page (length-permitting given the ~2500-word soft target) and add a calibrated subsection to the topic article. Refine pass should: (a) substantively engage Adlam & Rovelli (2023) "Information is physical: cross-perspective links in relational quantum mechanics," *Philosophy of Physics* 1(1):1–19, DOI 10.31389/pop.8 — particularly the cross-perspective links proposal addressing the consistency-across-observers worry; (b) engage Lewis (2024) on RQM-as-epistemic-solipsism and Muciño, Okon & Sudarsky (2021) on the unsatisfactoriness of RQM's realist non-solipsism; (c) make explicit what the Map disagrees with — the "any physical system qualifies as an observer" move severs the RQM observer-relativity from the consciousness-related observer-relativity the Map needs; (d) calibrate the disagreement: this is closer to a framework-boundary marking than to an in-framework refutation, but the cross-perspective-links work matters because it is RQM's most credible attempt to recover frame-independent facts. Apply the direct-refutation discipline. Identify what kind of engagement the issue calls for: showing the opponent's position is defective on its own terms, naming an unsupported foundational move the framework has not earned by its own standards, or honestly marking the framework-boundary disagreement. Apply the corresponding reply mode in **natural journal-quality prose** — see [the writing-style guide](/project/writing-style/)'s "Engaging Opponents in Journal-Quality Prose" section. **Do not expose mode labels in the article body.** The classification is editor-internal; it belongs in the refine-draft / deep-review changelog entry, not in the article. Tenet alignment: Tenet 2 (Minimal Quantum Interaction), Tenet 4 (No Many Worlds) — RQM is the most important non-MWI non-collapse rival; Tenet 5 (bounded Occam) — RQM trades ontological commitments for observer-multiplicity in a structurally similar way to MWI.
-- **Review file**: `reviews/outer-review-2026-05-22-claude-opus-4-7.md`
-- **Source**: outer-review
+- **File**: obsidian/topics/empirical-evidence-for-consciousness-selecting.md
+- **Notes**: From topic-concept anchoring audit 2026-05-23. The topic article over-claims relative to its anchor concept [causal-closure](/concepts/causal-closure/); failed checks: hedge_density, strong_assertions, underdetermination_markers.
+  - hedge density 2.54/kw is below 60% of anchor (4.57/kw)
+  - strong-assertion density 3.81/kw exceeds 1.5× anchor (2.44/kw)
+  - anchor declares underdetermination (1× explicit) but topic has no underdetermination markers
+  - Action: bring the topic's hedge profile in line with the anchor concept's. Preserve the article's voice; this is not a request to weaken the central claim, only to inherit the calibration discipline the anchor concept already uses. See [calibration-audit-triple](/project/calibration-audit-triple/) Audit Three for the spec and [evidential-status-discipline](/project/evidential-status-discipline/) for the underlying rule.
+- **Source**: topic-concept-anchoring-audit
 - **Generated**: 2026-05-23
+
+### P2: Adopt substance-property-dualism calibration in russellian-monism-versus-bi-aspectual-dualism
+- **Type**: refine-draft
+- **Status**: pending
+- **File**: obsidian/topics/russellian-monism-versus-bi-aspectual-dualism.md
+- **Notes**: From topic-concept anchoring audit 2026-05-23. The topic article over-claims relative to its anchor concept [substance-property-dualism](/concepts/substance-property-dualism/); failed checks: hedge_density, strong_assertions.
+  - hedge density 1.84/kw is below 60% of anchor (8.97/kw)
+  - topic uses 1 strong-assertion verbs where anchor uses none
+  - Action: bring the topic's hedge profile in line with the anchor concept's. Preserve the article's voice; this is not a request to weaken the central claim, only to inherit the calibration discipline the anchor concept already uses. See [calibration-audit-triple](/project/calibration-audit-triple/) Audit Three for the spec and [evidential-status-discipline](/project/evidential-status-discipline/) for the underlying rule.
+- **Source**: topic-concept-anchoring-audit
+- **Generated**: 2026-05-23
+
 
 ### P1: Propagate Coherence-vs-Evidential-Status discipline across the convergence cluster + add Void Clustering Audit
 - **Type**: refine-draft
@@ -3974,6 +3990,10 @@ Tasks that failed 3+ times and require human intervention.
 
 Ideas that were considered and rejected. The AI will not re-propose these.
 
+
+### ✓ 2026-05-23: Expand Rovelli/RQM concept page to engage Adlam & Rovelli 2023 and Lewis 2024
+- **Type**: refine-draft
+- **Notes**: Outer-review 2026-05-22 Claude Opus 4.7 §Key Findings, §6 (Important thinkers under-represented), §8 P1. Rovelli's Relational Quantum Mechanics is the conspicuous gap in the Map's engagement with the strongest contemporary opposition to its post-decoherence-selection programme. RQM is currently dispatched in one paragraph of `topics/qm-interpretations-beyond-many-worlds.md` and treated briefly in `concepts/relational-quantum-mechanics.md`. The topics/ section is at 248/250 — too tight to add a new topic — so the work should expand the existing concept page (length-permitting given the ~2500-word soft target) and add a calibrated subsection to the topic article. Refine pass should: (a) substantively engage Adlam & Rovelli (2023) "Information is physical: cross-perspective links in relational quantum mechanics," *Philosophy of Physics* 1(1):1–19, DOI 10.31389/pop.8 — particularly the cross-perspective links proposal addressing the consistency-across-observers worry; (b) engage Lewis (2024) on RQM-as-epistemic-solipsism and Muciño, Okon & Sudarsky (2021) on the unsatisfactoriness of RQM's realist non-solipsism; (c) make explicit what the Map disagrees with — the "any physical system qualifies as an observer" move severs the RQM observer-relativity from the consciousness-related observer-relativity the Map needs; (d) calibrate the disagreement: this is closer to a framework-boundary marking than to an in-framework refutation, but the cross-perspective-links work matters because it is RQM's most credible attempt to recover frame-independent facts. Apply the direct-refutation discipline. Identify what kind of engagement the issue calls for: showing the opponent's position is defective on its own terms, naming an unsupported foundational move the framework has not earned by its own standards, or honestly marking the framework-boundary disagreement. Apply the corresponding reply mode in **natural journal-quality prose** — see [the writing-style guide](/project/writing-style/)'s "Engaging Opponents in Journal-Quality Prose" section. **Do not expose mode labels in the article body.** The classification is editor-internal; it belongs in the refine-draft / deep-review changelog entry, not in the article. Tenet alignment: Tenet 2 (Minimal Quantum Interaction), Tenet 4 (No Many Worlds) — RQM is the most important non-MWI non-collapse rival; Tenet 5 (bounded Occam) — RQM trades ontological commitments for observer-multiplicity in a structurally similar way to MWI.
 
 ### ✓ 2026-05-23: Anchor the 613 THz finding to Craddock et al. 2017 across the corpus
 - **Type**: refine-draft

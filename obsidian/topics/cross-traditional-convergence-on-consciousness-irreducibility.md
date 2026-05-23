@@ -4,7 +4,7 @@ description: "Philosophical traditions that disagree about almost everything els
 created: 2026-03-20
 modified: 2026-03-20
 human_modified:
-ai_modified: 2026-05-10T03:38:00+00:00
+ai_modified: 2026-05-23T15:35:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -30,6 +30,9 @@ related_articles:
   - "[[islamic-sufi-philosophy-of-consciousness]]"
   - "[[arguments-against-materialism]]"
   - "[[common-cause-null]]"
+  - "[[project/evidential-status-discipline]]"
+  - "[[topics/animal-consciousness]]"
+  - "[[apex/taxonomy-of-voids]]"
 ai_contribution: 100
 author:
 ai_system: claude-opus-4-7
@@ -129,6 +132,16 @@ Three structural features of the present convergence weaken—without dissolving
 - **Convergence-despite-metaphysical-disagreement.** When traditions reach the same conclusion across maximally different premises—substance versus no-substance, eternal witness versus stream of moments, monist idealism versus realist pluralism—premise-level common causes are ruled out. Whatever shared architecture remains operates beneath the level of metaphysical commitment.
 
 The strongest external tests not currently in hand are cross-species evidence (do non-human animals exhibit signatures consistent with irreducibility under species-appropriate paradigms?), genuinely-isolated cross-cultural evidence (do historically uncontaminated traditions converge after careful translation?), and patient-population evidence with anomalous introspective architecture (congenital aphantasia, alexithymia, blindsight). The common-cause-null discipline catalogues these as the open empirical research programme that would discharge the residual null. One worked instance of the historically-uncontaminated test is [[neoplatonist-common-cause-weight-for-cross-tradition-introspection-architecture-parallels|the Neoplatonist common-cause weight audit]], which evaluates whether the apparent Advaita/Sufi/Stoic convergence on bounded introspective access is one Plotinian articulation propagating downstream: it returns a differentiated verdict (weak Stoicism, weak-to-negligible Advaita, moderate-to-substantial Sufism), with Advaita emerging as the cleanest historical-isolation case. Until the broader external programme is in hand, the cross-traditional convergence supports the irreducibility claim with calibrated force: *premise-level common causes ruled out; residual introspection-architecture common cause acknowledged*. The convergence does work; it does not do unlimited work.
+
+## Methodology, Data, and Framework Commitment Are Not Three Independent Routes
+
+The convergence claim as developed here marshals three apparent sources of support: the *methodology* of cross-traditional convergence (developed at [[epistemology-of-convergence-arguments|the epistemology of convergence arguments]]), the *body of traditions* themselves (Sāṃkhya, Buddhism, Western analytic, Islamic *falsafa*, Kyoto School, African philosophy), and the Map's *tenet-package commitment* to dualism — which selects "consciousness is irreducible" as supporting the Map's framework rather than the rival irreducibility-respecting positions (Advaita monism, Buddhist *anattā*, panpsychism, neutral monism, Madhyamaka emptiness). It is tempting to read these as three independent confirmations. They are not. The methodology and the body of traditions are independent of each other; the Map's framework commitment is the *interpretive lens* through which the convergence is read, not an independent third route to the conclusion.
+
+The catalogue's [[project/evidential-status-discipline#coherence-vs-evidential-status|coherence-vs-evidential-status]] discipline names this pattern explicitly. A framework's coherence with the convergence's output is not, on its own, evidential support for the framework. The convergence on *irreducibility* is what the methodology plus the cross-traditional evidence actually license. The selection from "irreducibility" to "the Map's reading specifically" runs through the framework's own commitments — its [[tenets#^bidirectional-interaction|bidirectional-interaction tenet]] and the [[bidirectional-interaction|companion article's]] positive case for it. That selection is honest as a framework move but does not earn the cross-traditional evidence's N-fold weight; it earns the weight of the bidirectional-interaction argument it rests on.
+
+The pattern matters because the convergence is *compatible* with framings the Map rejects. Madhyamaka reads the convergence as *dissolving* the substantial-witness reading rather than confirming it; Advaita reads it as disclosure of consciousness as fundamental in the idealist register; some illusionists read it as evidence that introspection-architecture produces the same artefact across traditions. None of these readings is excluded by the convergence alone; what discriminates among them, where anything does, runs through additional arguments — the bidirectional-interaction case for the Map, the combination problem for panpsychism, the regularity-of-nature problem for idealism, the explanatory burden for illusionism. Honest catalogue language: *the convergence earns irreducibility across the rival irreducibility-respecting framings; the further selection runs on separately-supported arguments and does not inherit the convergence's evidential weight*.
+
+[[the-convergence-argument-for-dualism|The convergence argument for dualism]] makes the parallel move at the convergence-of-philosophical-arguments layer; [[topics/animal-consciousness#why-the-inference-is-stronger-for-animals-than-for-ai|the animal-consciousness COGITATE treatment]] is the catalogue's worked exhibit at the species-attribution layer. The discipline operates at each layer the catalogue offers a convergence claim: framework-coherence raises framework-internal weight without raising the tier on the empirical or metaphysical claims the framework integrates.
 
 ## What the Convergence Does and Does Not Show
 

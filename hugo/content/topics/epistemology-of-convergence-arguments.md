@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-19
-ai_modified: 2026-05-16 01:58:00+00:00
+ai_modified: 2026-05-23 15:45:00+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -38,6 +38,9 @@ related_articles:
 - '[[methodology-of-consciousness-research]]'
 - '[[phenomenological-evidence]]'
 - '[[common-cause-null]]'
+- '[[project/evidential-status-discipline]]'
+- '[[topics/animal-consciousness]]'
+- '[[apex/taxonomy-of-voids]]'
 title: The Epistemology of Convergence Arguments
 topics:
 - '[[the-convergence-argument-for-dualism]]'
@@ -165,6 +168,16 @@ The Map's [convergence argument for dualism](/topics/the-convergence-argument-fo
 ### Scope of the Argument
 
 A deeper objection holds that *all* these arguments share a common root: the intuition that there is "something it is like" to have an experience. If this intuition is a cognitive artefact, every argument collapses simultaneously. The convergence argument's dialectical reach is conditional on the experience-as-datum starting point. For audiences accepting phenomenal experience as a datum, the supposed common root is the subject matter itself — pain's felt character is the phenomenon under investigation, not a belief that could turn out to be mistaken. Eliminativists and illusionists contest the experience-as-datum framing, treating reports of experience as the data and declining to grant any additional ontological item. This is bedrock disagreement the convergence argument cannot resolve. The argument advances against rival non-eliminativist positions and stands honestly at the boundary against eliminativism rather than pretending the boundary is internal. The cumulative case for dualism ([the-convergence-argument-for-dualism](/topics/the-convergence-argument-for-dualism/), the [Dualism tenet](/tenets/#dualism)) inherits this scope condition.
+
+## Methodology and Framework Commitment Are Different Routes
+
+A subtle calibration issue runs across applications of the convergence framework. The framework supplies a methodology — three conditions on independence, robustness, and specificity — and the methodology operates on a body of arguments or data. The third element in any actual deployment is the framework that *reads* the methodology's output: which conclusion the catalogue takes the convergence to support depends on what the framework selects from the irreducibility-respecting alternatives (or the mental-causation-affirming alternatives, or the consciousness-as-real alternatives). The methodology and the data are independent of each other; the framework that reads them is not an independent third route.
+
+The [coherence-vs-evidential-status](/project/evidential-status-discipline/#coherence-vs-evidential-status) discipline guards the calibration. Convergence-methodology success at *layer one* (the body of arguments earns "consciousness is irreducible" across rival irreducibility-respecting framings) does not by itself license *layer two* (the framework's specific reading of irreducibility — substance dualism, panpsychism, neutral monism, idealism, Madhyamaka emptiness). Layer-two selection runs on the framework's own further arguments — bidirectional interaction for the Map's reading, combination strategies for panpsychism, regularity-of-nature accounts for idealism, therapeutic-deconstruction commitments for Madhyamaka. Those further arguments do honest work but they do not inherit the convergence's evidential weight; they earn what their separate cases supply.
+
+The pattern operates on every convergence-argument application in the Map. [The convergence argument for dualism](/topics/the-convergence-argument-for-dualism/) runs the philosophical-arguments cluster; [cross-traditional convergence](/topics/cross-traditional-convergence-on-consciousness-irreducibility/) runs the contemplative-and-philosophical traditions cluster; [cross-cultural convergence on mental causation](/concepts/cross-cultural-convergence-on-mental-causation/) runs the mental-causation-affirming traditions cluster. Each installs the same discipline: convergence earns the cross-rival conclusion (irreducibility, mental causation's reality, consciousness as a real explanandum); the framework's specific reading of that conclusion runs on separately-supported arguments. At the species-attribution layer, [the animal-consciousness COGITATE treatment](/topics/animal-consciousness/#why-the-inference-is-stronger-for-animals-than-for-ai) is the catalogue's worked exhibit of the same calibration — markers and convergent evolution as two independent routes plus the framework's no-substrate-barrier as the selection commitment, never three independent confirmations.
+
+The methodology's own integrity depends on this discipline. A convergence framework that silently counted its consumers' framework commitments as additional independent routes would be unfalsifiable in exactly the failure mode the methodology-symmetry test guards against: any framework that selects its preferred reading from the convergence's output would generate confirmation for itself by reading itself into the count. The honest framework reports its layer-one earnings (cross-rival irreducibility) and lets its layer-two selection earn what its independent arguments supply.
 
 ## Relation to Site Perspective
 

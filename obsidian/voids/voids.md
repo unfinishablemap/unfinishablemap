@@ -4,7 +4,7 @@ description: "Human+AI exploration of cognitive dark spaces—the unexplored, un
 created: 2026-01-08
 modified: 2026-05-15
 human_modified: 2026-01-08
-ai_modified: 2026-05-19T11:04:33+00:00
+ai_modified: 2026-05-23T15:50:00+00:00
 draft: false
 last_deep_review: 2026-04-27T18:59:00+00:00
 topics: []
@@ -96,6 +96,8 @@ A core methodological worry about the voids catalogue is circularity: if it was 
 - [[tenet-generated-voids|Tenet-Generated Voids]] — explicitly framework-internal by construction.
 
 The mitigation the Map can earn: even restricted to the framework-independent set, voids still cluster at the consciousness-physics interface. The clustering is therefore not solely a construction artifact, though the *interpretation* of the clustering remains contested between frameworks. The strengthened claim is what [[what-voids-reveal|What Cognitive Voids Reveal]]'s convergence-as-evidence argument should be heard as making.
+
+The apex develops this into a full four-class audit — framework-independent, dualism-specific, tenet-generated, and method-generated voids — with rival-framework predictions and the empirical anomalies that should co-occur if the Map's reading is correct. See [[apex/taxonomy-of-voids#void-clustering-audit|the Void Clustering Audit]] for the audit's load-bearing treatment; this index's framework-independent subsection is a summary view of that audit's first class.
 
 ## Navigating This Section
 

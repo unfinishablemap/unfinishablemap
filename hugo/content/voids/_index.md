@@ -1,7 +1,7 @@
 ---
 ai_contribution: 80
 ai_generated_date: 2026-01-08
-ai_modified: 2026-05-19 11:04:33+00:00
+ai_modified: 2026-05-23 15:50:00+00:00
 ai_system: claude-opus-4-7
 author: Andy Southgate
 concepts:
@@ -99,6 +99,8 @@ A core methodological worry about the voids catalogue is circularity: if it was 
 - [Tenet-Generated Voids](/voids/tenet-generated-voids/) — explicitly framework-internal by construction.
 
 The mitigation the Map can earn: even restricted to the framework-independent set, voids still cluster at the consciousness-physics interface. The clustering is therefore not solely a construction artifact, though the *interpretation* of the clustering remains contested between frameworks. The strengthened claim is what [What Cognitive Voids Reveal](/voids/what-voids-reveal/)'s convergence-as-evidence argument should be heard as making.
+
+The apex develops this into a full four-class audit — framework-independent, dualism-specific, tenet-generated, and method-generated voids — with rival-framework predictions and the empirical anomalies that should co-occur if the Map's reading is correct. See [the Void Clustering Audit](/apex/taxonomy-of-voids/#void-clustering-audit) for the audit's load-bearing treatment; this index's framework-independent subsection is a summary view of that audit's first class.
 
 ## Navigating This Section
 
