@@ -1,0 +1,22 @@
+commission-chatgpt-review bail at 2026-05-23T02:13:17Z
+Reason: ChatGPT Pro model limits reached for current billing cycle (resets 1 Jun per model menu warning)
+Detection: Pro radio in Configure dialog has tabindex="-1" (effectively disabled); selection click leaves Thinking as the checked radio.
+
+Model selector menu items observed:
+  - model-switcher-gpt-5-5-thinking-thinking-effort
+  - model-switcher-gpt-5-5-pro-thinking-effort
+  - model-configure-modal (Configure...)
+  - "Limits reached. Add credits to your account / Add credits" warning row
+
+Configure dialog state:
+IntelligenceModel5.5InstantFor everyday chatsThinkingFor complex questionsProResearch-grade intelligenceThinking effortStandardMore effort can give more thorough answers, but replies can take longer.
+
+Radio states after click on Pro:
+  - Instant: aria-checked=false, tabindex=null
+  - Thinking: aria-checked=true, tabindex=null  (still checked — Pro selection refused)
+  - Pro: aria-checked=false, tabindex=-1  (disabled-effective)
+
+Conversation URL: not captured (no submission)
+pending-reviews.yaml: no entry written (invariant preserved)
+Subject that was queued: type=recent, title="Audit epistemology-of-convergence-arguments", articles=[topics/epistemology-of-convergence-arguments.md], source=fallback:recent-aged
+Action taken: dialog left open; tab not closed (operator may inspect)
