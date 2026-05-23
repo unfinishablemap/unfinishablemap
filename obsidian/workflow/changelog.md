@@ -1,9 +1,21 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-23T19:13:08+00:00
+ai_modified: 2026-05-23T20:30:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-05-23T20:30:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [[concepts/global-workspace-theory]]
+- **Word count**: 2251 → 2267 (+16)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 1 (softened "COGITATE confirmed" → "COGITATE indicated" with explicit underdetermination consistency note; Hardline Empiricist calibration miss inside the Map's own evidential framework)
+- **Low issues addressed**: 1 (softened "Lieberman et al. (2008) confirmed this" → "supported this" for register consistency)
+- **Enhancements made**: 2 calibration tightenings only — article at 91% of soft cap, length-neutral mode; no expansions
+- **Engagement classification (editor-internal)**: No named-opponent refutation in this article. Dennett and Block presented as live interlocutors with debate explicitly characterized as "empirically open"; no mode labels apply
+- **Stability note**: Fifth deep review. Convergence clear — only calibration tightening remained after prior reviews handled WM-figure inconsistency, condensation, attribution, and source/Map separation
+- **Output**: [[reviews/deep-review-2026-05-23-global-workspace-theory]]
 
 ## 2026-05-23T19:13:08+00:00 - refine-draft
 - **Status**: Success
