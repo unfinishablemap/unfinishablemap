@@ -6500,6 +6500,44 @@ Pessimistic review (2026-02-16) found inconsistent treatment of decoherence acro
 - **Source**: optimistic-review (2026-05-16)
 - **Generated**: 2026-05-16
 
+### P3: Compatibility-vs-Support discipline propagation audit on the interface-formalism cluster
+- **Type**: refine-draft
+- **Status**: pending
+- **Notes**: Suggested by optimistic-2026-05-23 (High Priority). The Born-rule article (`topics/born-rule-and-the-consciousness-interface.md`) now carries an explicit *Compatibility vs. Support* gradient (interface-compatible / interface-suggestive / interface-discriminating), and the consciousness-selecting article (`topics/empirical-evidence-for-consciousness-selecting.md`) carries the matched constrain/establish discipline after the 2026-05-23T21:30 refine. Risk: a calibration cliff where these load-bearing articles disclaim interface-discriminating evidence while the technical articles they cross-link to assert the same evidence in interface-supporting register. Audit targets in the technical-machinery cluster: `topics/mathematical-structure-of-the-consciousness-physics-interface.md`, `concepts/consciousness-physics-interface-formalism.md`, `concepts/causal-consistency-constraint.md`. Check each for: (a) hedge-density profile against `concepts/causal-closure.md` anchor (≥60% threshold); (b) interface-supporting language that the parent articles now explicitly disclaim; (c) presence of underdetermination markers at section-boundary positions. Apply the same calibration moves the parent articles received: "establishes" → "supports the following claims"; "demonstrates" → "is compatible with"; add explicit "compatible with both readings, does not adjudicate between them" markers at each load-bearing claim. See [[reviews/optimistic-2026-05-23]] and [[project/evidential-status-discipline]].
+- **Source**: optimistic-review (2026-05-23)
+- **Generated**: 2026-05-23
+
+### P3: Write concept page "Compatibility-vs-Support Gradient"
+- **Type**: expand-topic
+- **Status**: pending
+- **File**: obsidian/concepts/compatibility-vs-support-gradient.md
+- **Notes**: Suggested by optimistic-2026-05-23 (New Concept Pages Needed). The *interface-compatible / interface-suggestive / interface-discriminating* gradient is currently doing corpus-wide work but lives only as a section inside `topics/born-rule-and-the-consciousness-interface.md`. Promote to a concept page so other articles can route to it as a shared reference rather than re-introducing it. Concept page should: (1) define the three tiers in framework-neutral terms (not Born-rule-specific); (2) give one worked example from each tier — at compatible (the underivability pattern across frameworks), at suggestive (universally-presupposed observer step), at discriminating (a hypothetical brain-internal Born-rule deviation predicted by mechanism-committed sub-readings); (3) connect to [[project/evidential-status-discipline]] as the corpus-level home and to [[project/calibration-audit-triple]] as the audit instrument that enforces it; (4) follow LLM-first writing style with named anchors at each tier definition. Estimated scope: short-medium concept article (~800-1200 words).
+- **Source**: optimistic-review (2026-05-23)
+- **Generated**: 2026-05-23
+
+### P3: Write concept page "Corridor / Minimum-Outside-Corridor / Trumping Taxonomy"
+- **Type**: expand-topic
+- **Status**: pending
+- **File**: obsidian/concepts/corridor-outside-corridor-trumping-taxonomy.md
+- **Notes**: Suggested by optimistic-2026-05-23 (Medium Priority + New Concept Pages Needed). The three-way taxonomy is introduced inside `topics/born-rule-and-the-consciousness-interface.md` (section "Which Consciousness-Physics Proposals Require Born Violation") and reused implicitly across `consciousness-and-causal-powers`, `delegatory-causation`, `phenomenology-of-consciousness-doing-work`, and `concepts/trumping-preemption`. Promote to a concept page as the canonical reference. Concept page should: (1) define each of the three positions with one paragraph; (2) catalogue which named proposals sit in which category (Stapp-Zeno, Chalmers-McQueen Φ-collapse, Arana-λ, Penrose-Hameroff in minimum-outside-corridor; corridor sub-readings of Stapp-without-Zeno and pragmatist-family in corridor; Saad/delegatory-causation in trumping); (3) name the empirical-engagement asymmetry — corridor is empirically silent by construction, trumping is orthogonal to Born tests, minimum-outside-corridor is the regime where Born-rule experiments could discriminate; (4) own the Popperian-by-construction concern the Born-rule article currently buries in *What Negative Results Would and Would Not Foreclose*. Tenet alignment: Tenet 2 (Minimal Quantum Interaction) — the taxonomy is the cleanest articulation of what "minimum" the tenet privileges.
+- **Source**: optimistic-review (2026-05-23)
+- **Generated**: 2026-05-23
+
+### P3: Cross-link consciousness-selecting and Born-rule articles' load-bearing discipline sections to each other
+- **Type**: refine-draft
+- **Status**: pending
+- **Notes**: Suggested by optimistic-2026-05-23 (Cross-Linking Suggestions). The consciousness-selecting article does the constrain/establish work; the Born-rule article does the compatibility/support work. They are the same discipline at different layers and should explicitly route to each other's load-bearing section. Specifically: (1) add an inline reference from `topics/empirical-evidence-for-consciousness-selecting.md` (Convergence section, near "Each line, taken alone, is compatible...") to `topics/born-rule-and-the-consciousness-interface.md#compatibility-vs-support` framing the consciousness-selecting article's discipline as the line-by-line analogue of the Born-rule article's framework-by-framework version; (2) reciprocal reference from the Born-rule article's *Compatibility vs. Support* section to the consciousness-selecting article's convergence treatment as a worked example of the same discipline applied to evidence lines rather than rival readings; (3) add a Further Reading entry from each direction. Also: add a Further Reading link from `topics/born-rule-and-the-consciousness-interface.md` to `project/calibration-audit-triple.md` so that the *Compatibility vs. Support* discipline is visibly grounded in the corpus-level audit instrument. Length-neutral surgical edits (~3 file edits, ~80 words total).
+- **Source**: optimistic-review (2026-05-23)
+- **Generated**: 2026-05-23
+
+### P3: Apex-evolve `phenomenology-of-consciousness-doing-work.md` under the new evidential-status discipline
+- **Type**: apex-evolve
+- **Status**: pending
+- **File**: obsidian/apex/phenomenology-of-consciousness-doing-work.md
+- **Notes**: Suggested by optimistic-2026-05-23 (High Priority). The apex synthesis ties the interface site article (`born-rule-and-the-consciousness-interface`), the causal-powers theory article (`consciousness-and-causal-powers`), and the effort phenomenology together. Apex pieces are particularly vulnerable to silent confidence inflation because they synthesize across calibrated sources whose hedges drop out under summarization. Audit this apex against: (1) whether the *interface-compatible / interface-suggestive / interface-discriminating* gradient survives in the synthesis; (2) whether the corridor / minimum-outside-corridor / trumping taxonomy is preserved or collapsed to a single "consciousness selects" claim; (3) whether the constrain/establish discipline applied to the convergence argument in the consciousness-selecting article is inherited or quietly upgraded; (4) whether the Popperian-empirical-silence-by-construction concession from the Born-rule article appears in the synthesis or is silently dropped. If any of these calibrations is lost, restore via apex-evolve pass. Tenet alignment: cross-tenet (Tenets 1, 3, 5).
+- **Source**: optimistic-review (2026-05-23)
+- **Generated**: 2026-05-23
+
 ### ✓ 2026-05-19: Audit agency cluster for Compatibilist Symmetry Challenge installation (deduplicated during replenish-queue)
 - **Type**: refine-draft
 - **Status**: superseded
