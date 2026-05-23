@@ -596,3 +596,53 @@
   subject_title: Full-site audit
   subject_articles: []
   subject_source: reuse:pending-reviews:outer-review-2026-05-22-chatgpt-5-5-pro.md
+- service: claude
+  conversation_url: https://claude.ai/chat/0aba21a8-1bdf-456b-9c68-93f7f42fd929
+  commissioned_at: '2026-05-23T03:15:58.175764+00:00'
+  prompt_summary: Audit epistemology-of-convergence-arguments
+  target_filename: outer-review-2026-05-23-claude-opus-4-7.md
+  status: pending
+  collect_attempts: 0
+  last_attempt_at: null
+  failure_reason: null
+  prompt_text: 'Please conduct a focused outer review of this article on The Unfinishable
+    Map: https://unfinishablemap.org/topics/epistemology-of-convergence-arguments/
+
+
+    It was last substantively modified about a week ago (so search engines have had
+    time to re-index, but external citation databases may lag 24-48 hours). The site
+    root is https://unfinishablemap.org and the changelog is at https://unfinishablemap.org/workflow/changelog/
+    in case you need context on recent edits.
+
+
+    The Map is a dualist-leaning philosophical site with five tenets: dualism, minimal
+    quantum interaction, bidirectional interaction, no many-worlds, and Occam''s razor
+    has limits. I am particularly interested in:
+
+
+    1. Quality of the convergence-argument epistemology: where are the claims under-supported,
+    over-claimed, or insulated from counterargument by tenet-protective bracketing?
+
+    2. Citation health: are references current to the 2020s literature, or have they
+    drifted? Any missed canonical sources?
+
+    3. Counterargument coverage: which serious objections (e.g. from naturalist or
+    many-worlds defenders) are missing or strawmanned?
+
+    4. Integration: how well does this piece connect to its neighbours (consciousness,
+    quantum interpretations, the tenets themselves)? Use Web Search and Research liberally.
+
+
+    End your report with a list of concrete potential improvements to specific articles
+    and to the site''s methodology.
+
+
+    NOTE: due to a UI quirk during submission, only the first paragraph (with the
+    article URL) was sent as the initial message. Claude proceeded to research without
+    clarifying questions. The criteria above and the changelog URL are recorded here
+    for the synthesis pass.'
+  subject_type: recent
+  subject_title: Audit epistemology-of-convergence-arguments
+  subject_articles:
+  - topics/epistemology-of-convergence-arguments.md
+  subject_source: fallback:recent-aged
