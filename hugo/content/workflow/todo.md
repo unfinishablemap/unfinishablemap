@@ -38,14 +38,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P1: Anchor the 613 THz finding to Craddock et al. 2017 across the corpus
-- **Type**: refine-draft
-- **Status**: pending
-- **Notes**: Outer-review 2026-05-22 Claude Opus 4.7 §Key Findings 8(b), §Details 4. The 613 THz anaesthetic-correlated tubulin oscillation finding is currently attributed across the corpus to "Wiest et al. 2025" (`concepts/quantum-consciousness.md` line 70; `concepts/decoherence.md` line 99; `topics/comparing-quantum-consciousness-mechanisms.md` line 74; `topics/empirical-evidence-for-consciousness-selecting.md` line 95), to "Travis et al. 2024" (`topics/quantum-biology-and-neural-consciousness.md` line 75), and to "Wiest et al. (2024, 2025)" (`concepts/consciousness-selecting-neural-patterns.md` line 56). All of these are wrong. Verified: Craddock, Kurian, Preto, Sahu, Hameroff, Klobukowski & Tuszynski (2017), "Anesthetic Alterations of Collective Terahertz Oscillations in Tubulin Correlate with Clinical Potency: Implications for Anesthetic Action and Post-Operative Cognitive Dysfunction," *Scientific Reports* 7:9877, DOI 10.1038/s41598-017-09992-7, reports the (613 ± 8) THz finding from molecular-docking simulations and quantum-chemistry calculations — it is a *computational prediction*, not an experimental observation. Wiest 2025 *Neuroscience of Consciousness* is a perspective synthesizing existing literature with no new data. Refine pass should: (a) correct the attribution in each of the five files listed above to Craddock et al. 2017; (b) explicitly state that the finding is computational (molecular-dynamics / quantum-chemistry), not experimental; (c) reframe "a testable signature, though independent replication is needed" to reflect that there is no original experiment to replicate, only a computational prediction to be experimentally checked; (d) where Wiest 2025 is cited, retain it as the review that surveys the finding rather than as the source. This is multiple vault-wide misattributions of the same kind and should be done in one sweep. Honour [evidential-status-discipline](/project/evidential-status-discipline/) — recalibrate the finding's evidential tier downward from what it currently reads as. Tenet alignment: Tenet 2 (Minimal Quantum Interaction) calibration; citation integrity.
-- **Review file**: `reviews/outer-review-2026-05-22-claude-opus-4-7.md`
-- **Source**: outer-review
-- **Generated**: 2026-05-23
-
 ### P1: Expand Rovelli/RQM concept page to engage Adlam & Rovelli 2023 and Lewis 2024
 - **Type**: refine-draft
 - **Status**: pending
@@ -3982,6 +3974,10 @@ Tasks that failed 3+ times and require human intervention.
 
 Ideas that were considered and rejected. The AI will not re-propose these.
 
+
+### ✓ 2026-05-23: Anchor the 613 THz finding to Craddock et al. 2017 across the corpus
+- **Type**: refine-draft
+- **Notes**: Outer-review 2026-05-22 Claude Opus 4.7 §Key Findings 8(b), §Details 4. The 613 THz anaesthetic-correlated tubulin oscillation finding is currently attributed across the corpus to "Wiest et al. 2025" (`concepts/quantum-consciousness.md` line 70; `concepts/decoherence.md` line 99; `topics/comparing-quantum-consciousness-mechanisms.md` line 74; `topics/empirical-evidence-for-consciousness-selecting.md` line 95), to "Travis et al. 2024" (`topics/quantum-biology-and-neural-consciousness.md` line 75), and to "Wiest et al. (2024, 2025)" (`concepts/consciousness-selecting-neural-patterns.md` line 56). All of these are wrong. Verified: Craddock, Kurian, Preto, Sahu, Hameroff, Klobukowski & Tuszynski (2017), "Anesthetic Alterations of Collective Terahertz Oscillations in Tubulin Correlate with Clinical Potency: Implications for Anesthetic Action and Post-Operative Cognitive Dysfunction," *Scientific Reports* 7:9877, DOI 10.1038/s41598-017-09992-7, reports the (613 ± 8) THz finding from molecular-docking simulations and quantum-chemistry calculations — it is a *computational prediction*, not an experimental observation. Wiest 2025 *Neuroscience of Consciousness* is a perspective synthesizing existing literature with no new data. Refine pass should: (a) correct the attribution in each of the five files listed above to Craddock et al. 2017; (b) explicitly state that the finding is computational (molecular-dynamics / quantum-chemistry), not experimental; (c) reframe "a testable signature, though independent replication is needed" to reflect that there is no original experiment to replicate, only a computational prediction to be experimentally checked; (d) where Wiest 2025 is cited, retain it as the review that surveys the finding rather than as the source. This is multiple vault-wide misattributions of the same kind and should be done in one sweep. Honour [evidential-status-discipline](/project/evidential-status-discipline/) — recalibrate the finding's evidential tier downward from what it currently reads as. Tenet alignment: Tenet 2 (Minimal Quantum Interaction) calibration; citation integrity.
 
 ### ✓ 2026-05-23: Fix Duch 2019 journal citation in quantum-consciousness concept page
 - **Type**: refine-draft

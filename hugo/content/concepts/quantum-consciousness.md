@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-09
-ai_modified: 2026-05-23 12:00:00+00:00
+ai_modified: 2026-05-23 13:15:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -69,7 +69,7 @@ Orch OR locates quantum effects in microtubules—protein structures inside neur
 **Recent evidence** (2024-2025):
 - **2024 epothilone B study**: Microtubule-stabilizing drugs delayed anesthetic unconsciousness, demonstrating microtubule *involvement* in consciousness. But microtubules are structural proteins with many cellular roles—drug effects on consciousness don't by themselves distinguish quantum from classical function.
 - Room-temperature superradiance in tryptophan networks demonstrates quantum collective behavior at body temperature
-- **2025 Wiest et al.**: Anesthetics abolish a 613 THz quantum oscillation peak in microtubules while non-anesthetics don't—a testable signature, though independent replication is needed
+- **Craddock et al. (2017)** *Scientific Reports* 7:9877 (DOI 10.1038/s41598-017-09992-7): molecular-dynamics and quantum-chemistry simulations predict a (613 ± 8) THz collective tubulin oscillation peak that anaesthetics — but not non-anaesthetic structural analogues — disrupt, with disruption magnitude tracking clinical potency. This is a *computational prediction*, not a direct measurement; what is needed is experimental verification, not replication. Wiest (2025) reviews and develops the prediction's implications but reports no new 613 THz data.
 
 These findings form part of a broader [convergence of independent evidence lines](/topics/quantum-biology-and-neural-consciousness/)—biological precedent, pharmacological correlation, direct measurement, and computational modelling—that strengthens the cumulative case even where individual lines remain inconclusive.
 

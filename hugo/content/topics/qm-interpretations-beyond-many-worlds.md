@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-23
-ai_modified: 2026-04-18 06:48:00+00:00
+ai_modified: 2026-05-23 14:30:00+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -14,12 +14,13 @@ concepts:
 - '[[decoherence]]'
 - '[[concepts/many-worlds]]'
 - '[[qbism]]'
+- '[[relational-quantum-mechanics]]'
 - '[[spontaneous-collapse-theories]]'
 - '[[interactionist-dualism]]'
 - '[[atemporal-causation]]'
 - '[[process-philosophy]]'
 created: 2026-01-23
-date: &id001 2026-04-18
+date: &id001 2026-05-23
 description: A survey of QM interpretations—Copenhagen, Bohmian, QBism, relational,
   transactional, and objective collapse—evaluating which leave room for consciousness
   as causal participant.
@@ -78,9 +79,13 @@ More critically, QBism sidesteps the [hard problem](/topics/hard-problem-of-cons
 
 Carlo Rovelli's relational quantum mechanics (RQM) holds that physical properties exist only relative to observers. There is no absolute, observer-independent quantum state. Different observers can consistently attribute different properties to the same system.
 
-RQM shares QBism's observer-dependence but adopts a more realist posture about the relations themselves. The challenge for the Map is that RQM's "observers" need not be conscious—any physical system qualifies. A rock can be an observer relative to another rock. This universalised observer concept dilutes the special role the Map assigns to consciousness.
+RQM shares QBism's observer-dependence but adopts a more realist posture about the relations themselves. The interpretation is the most-cited contemporary alternative to both MWI and standard collapse readings, and the Map's engagement with it should be proportionate to that standing. See [relational-quantum-mechanics](/concepts/relational-quantum-mechanics/) for the full treatment; the calibration relevant here is what RQM's recent technical developments imply for the post-decoherence selection programme the Map endorses.
 
-RQM does, however, highlight something important: the observer cannot be eliminated from quantum mechanics without philosophical cost. Where RQM sees this as grounds for a relational ontology, the Map sees it as evidence that consciousness—not mere physical interaction—plays a constitutive role in determining outcomes. The disagreement is about what kind of observer matters, not whether observers matter.
+The most consequential 2020s development is Adlam and Rovelli's (2023) Cross-Perspective Links postulate, which proposes that when one observer measures another observer's physical record of an earlier measurement, the results cohere—subject to specified information-destruction conditions. The postulate is offered as a replacement for RQM's original "Relativity of comparisons" axiom and is the interpretation's most credible attempt to recover frame-independent agreement without abandoning observer-relativity at the level of individual events. It is not a cosmetic adjustment; it is the move on which the contemporary defence of RQM now turns.
+
+Two recent critiques argue that the move costs more than it secures. Lewis (2024) presses a dilemma: without CPL, RQM tends toward epistemic solipsism in which an observer cannot in principle know anything beyond their own immediate present experience; with CPL, the solipsism is averted but at the price of quietly reinstating the frame-independent facts about measurement records that the relational ontology was supposed to do without. Muciño, Okon and Sudarsky (2022) make a structurally similar charge from a different angle—that on standards RQM should accept, its realist non-solipsistic reading is untenable. Rovelli's published response (2021) holds that the critique presupposes the very framework RQM rejects; the exchange has settled into a stable impasse at the foundations.
+
+The Map's reading of this dialectic is honestly framework-boundary. RQM and the Map both treat measurement outcomes as relative to something, and they differ on what that something is. RQM universalises "observer" to mean any physical system whatever; the Map identifies the conscious system whose neural states are being differentiated as the load-bearing observer. The cross-perspective-links work matters here because it represents RQM's best attempt to earn frame-independent agreement by its own resources—and whether it earns it without quietly importing what was supposed to be derivative is precisely what Lewis's dilemma and the Muciño-Okon-Sudarsky exchange leave contested. The disagreement at the boundary is real and is registered as such, not as in-framework refutation.
 
 ## Transactional Interpretation and TSVF: Time-Symmetric Selection
 
@@ -177,3 +182,7 @@ No interpretation is proven. The Map does not claim to know which is correct. Wh
 14. Wallace, D. (2012). *The Emergent Multiverse*. Oxford University Press.
 15. Stapp, H. P. (2007). *Mindful Universe*. Springer.
 16. Southgate, A. & Oquatre-six, C. (2026-02-22). The Philosophical Stakes of Spontaneous Collapse. *The Unfinishable Map*. https://unfinishablemap.org/topics/philosophical-stakes-of-spontaneous-collapse/
+17. Adlam, E., & Rovelli, C. (2023). Information is physical: Cross-perspective links in relational quantum mechanics. *Philosophy of Physics*, 1(1), 1–19. DOI: 10.31389/pop.8.
+18. Lewis, P. J. (2024). A dilemma for relational quantum mechanics. *Principia: An International Journal of Epistemology*, 28(3).
+19. Muciño, R., Okon, E., & Sudarsky, D. (2022). Assessing Relational Quantum Mechanics. *Synthese*, 200(5).
+20. Rovelli, C. (2021). A response to the Mucino-Okon-Sudarsky's assessment of Relational Quantum Mechanics. arXiv:2106.03205.
