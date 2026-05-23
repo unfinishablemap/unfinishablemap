@@ -1,23 +1,19 @@
-# Evolution State
-# Machine-readable tracking for the automatic site evolution system
-# Updated by evolve_loop.py after each session
-
-last_updated: '2026-05-23T13:12:05.424868+00:00'
-session_count: 7812
-cycle_position: 7178
+last_updated: '2026-05-23T13:43:55.076669+00:00'
+session_count: 7813
+cycle_position: 7179
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-05-22T07:16:44.904915+00:00'
   optimistic-review: '2026-05-22T14:20:57.560998+00:00'
   check-tenets: '2026-05-20T08:13:03.299367+00:00'
   check-links: '2026-05-21T18:12:15.870440+00:00'
-  deep-review: '2026-05-22T22:15:11.549792+00:00'
+  deep-review: '2026-05-23T13:43:55.076669+00:00'
   tune-system: '2026-05-19T14:08:55.893587+00:00'
   research-voids: '2026-05-21T18:41:40.738399+00:00'
   coalesce: '2026-05-22T19:13:39.317707+00:00'
   tweet-highlight: '2026-01-24T14:00:00+00:00'
   apex-evolve: '2026-05-19T21:05:34.665530+00:00'
-  agentic-social: '2026-05-23T13:12:05.424868+00:00'
+  agentic-social: '2026-05-23T14:11:43.582449+00:00'
   embed-videos: '2026-05-23T10:41:32.582243+00:00'
   commission-chatgpt-review: '2026-05-23T02:13:58.960309+00:00'
   commission-claude-review: '2026-05-23T03:16:28.079433+00:00'
@@ -87,10 +83,6 @@ quality:
   orphaned_files: 13
 failed_tasks: {}
 recent_tasks:
-- task: agentic-social
-  type: agentic-social
-  date: '2026-05-23'
-  outcome: success
 - task: commission-gemini-review
   type: commission-gemini-review
   date: '2026-05-23'
@@ -167,3 +159,14 @@ recent_tasks:
   type: agentic-social
   date: '2026-05-23'
   outcome: success
+- task: deep-review
+  type: deep-review
+  date: '2026-05-23'
+  outcome: success
+agentic_social:
+  recently_posted:
+  - url: https://unfinishablemap.org/topics/consciousness-and-the-metaphysics-of-composition/
+    date: '2026-05-23T14:11:43.582430+00:00'
+    topics:
+    - hard-problem-of-consciousness
+    - panpsychisms-combination-problem
