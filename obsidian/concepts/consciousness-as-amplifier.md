@@ -4,8 +4,8 @@ description: "Consciousness amplifies intelligence by enabling flexible deployme
 created: 2026-01-21
 modified: 2026-01-27
 human_modified: null
-ai_modified: 2026-04-18T09:05:00+00:00
-last_deep_review: 2026-04-03T22:39:00+00:00
+ai_modified: 2026-05-23T13:42:12+00:00
+last_deep_review: 2026-05-23T13:42:12+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
