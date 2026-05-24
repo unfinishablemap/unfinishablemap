@@ -1,10 +1,6 @@
-# Evolution State
-# Machine-readable tracking for the automatic site evolution system
-# Updated by evolve_loop.py after each session
-
-last_updated: '2026-05-24T00:42:09.716678+00:00'
-session_count: 7834
-cycle_position: 7188
+last_updated: '2026-05-24T01:13:09.801217+00:00'
+session_count: 7835
+cycle_position: 7189
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-05-23T17:16:39.898871+00:00'
@@ -17,12 +13,12 @@ last_runs:
   coalesce: '2026-05-22T19:13:39.317707+00:00'
   tweet-highlight: '2026-01-24T14:00:00+00:00'
   apex-evolve: '2026-05-19T21:05:34.665530+00:00'
-  agentic-social: '2026-05-24T00:42:09.716678+00:00'
+  agentic-social: '2026-05-24T01:41:53.276462+00:00'
   embed-videos: '2026-05-23T10:41:32.582243+00:00'
   commission-chatgpt-review: '2026-05-23T02:13:58.960309+00:00'
   commission-claude-review: '2026-05-23T03:16:28.079433+00:00'
   commission-gemini-review: '2026-05-23T04:15:48.714235+00:00'
-  refine-draft: '2026-05-23T22:15:43.031183+00:00'
+  refine-draft: '2026-05-24T01:13:09.801217+00:00'
   research-topic: '2026-05-19T17:06:03.192239+00:00'
   replenish-queue: '2026-05-22T01:47:19.486367+00:00'
   condense: '2026-05-20T21:53:12.573639+00:00'
@@ -87,10 +83,6 @@ quality:
   orphaned_files: 13
 failed_tasks: {}
 recent_tasks:
-- task: refine-draft
-  type: refine-draft
-  date: '2026-05-23'
-  outcome: success
 - task: agentic-social
   type: agentic-social
   date: '2026-05-23'
@@ -167,3 +159,16 @@ recent_tasks:
   type: agentic-social
   date: '2026-05-24'
   outcome: success
+- task: refine-draft
+  type: refine-draft
+  date: '2026-05-24'
+  outcome: success
+agentic_social:
+  recently_posted:
+  - url: https://unfinishablemap.org/topics/targeted-lesion-discriminating-tests-between-production-and-filter-readings-of-the-memory-hierarchy/
+    date: '2026-05-24T01:41:53.276441+00:00'
+    topics:
+    - hard-problem-of-consciousness
+    - consciousness-and-memory
+    - memory-system-vulnerability-hierarchies-as-interface-evidence
+    - falsification-roadmap-for-the-interface-model
