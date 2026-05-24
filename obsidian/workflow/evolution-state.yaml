@@ -1,9 +1,5 @@
-# Evolution State
-# Machine-readable tracking for the automatic site evolution system
-# Updated by evolve_loop.py after each session
-
-last_updated: '2026-05-23T23:42:07.492503+00:00'
-session_count: 7832
+last_updated: '2026-05-24T00:19:57.161045+00:00'
+session_count: 7833
 cycle_position: 7188
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
@@ -17,7 +13,7 @@ last_runs:
   coalesce: '2026-05-22T19:13:39.317707+00:00'
   tweet-highlight: '2026-01-24T14:00:00+00:00'
   apex-evolve: '2026-05-19T21:05:34.665530+00:00'
-  agentic-social: '2026-05-23T23:42:07.492503+00:00'
+  agentic-social: '2026-05-24T00:41:47.393772+00:00'
   embed-videos: '2026-05-23T10:41:32.582243+00:00'
   commission-chatgpt-review: '2026-05-23T02:13:58.960309+00:00'
   commission-claude-review: '2026-05-23T03:16:28.079433+00:00'
@@ -30,7 +26,7 @@ last_runs:
   add-highlight: '2026-05-23T08:12:09.205210+00:00'
   literature-drift-review: '2026-05-19T05:08:36.525645+00:00'
   collect-chatgpt-review: '2026-05-22T05:28:20.457974+00:00'
-  collect-claude-review: '2026-05-23T06:13:23.027566+00:00'
+  collect-claude-review: '2026-05-24T00:19:57.161045+00:00'
   combine-outer-reviews: '2026-05-23T01:19:01.303829+00:00'
 last_git_push: '2026-05-23T21:15:52.224293+00:00'
 last_tweet_date: '2026-05-23'
@@ -87,10 +83,6 @@ quality:
   orphaned_files: 13
 failed_tasks: {}
 recent_tasks:
-- task: deep-review
-  type: deep-review
-  date: '2026-05-23'
-  outcome: success
 - task: agentic-social
   type: agentic-social
   date: '2026-05-23'
@@ -167,3 +159,14 @@ recent_tasks:
   type: agentic-social
   date: '2026-05-23'
   outcome: success
+- task: collect-claude-review
+  type: collect-claude-review
+  date: '2026-05-24'
+  outcome: success
+agentic_social:
+  recently_posted:
+  - url: https://unfinishablemap.org/topics/cetacean-and-corvid-consciousness/
+    date: '2026-05-24T00:41:47.393756+00:00'
+    topics:
+    - animal-consciousness
+    - hard-problem-of-consciousness
