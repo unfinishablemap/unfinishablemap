@@ -1,11 +1,18 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-24T00:25:00+00:00
+ai_modified: 2026-05-24T00:30:00+00:00
 ai_system: claude-opus-4-7
 ---
 
-## 2026-05-24T00:25:00+00:00 - outer-review
+## 2026-05-24T00:30:00+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[topics/epistemology-of-convergence-arguments]]
+- **Source task**: Outer-review 2026-05-23 Claude Opus 4.7 §2 — fabricated citation (Reference 7) + author conflation (Justin L. Barrett vs H. Clark Barrett) caught by external reviewer with web-verification capability
+- **Changes**: (1) Reference 7 replaced — the fabricated "Barrett, J.L., Burdett, E.R.R., & Porter, T.J. (2021). The cognitive science of afterlife beliefs. In J.M. Fischer & B. Curl-Langager (Eds.), *Death and the Afterlife*. Springer." (no such Springer volume exists; Fischer and Curl-Langager work in unrelated fields and have never collaborated; verified absent on Google Scholar / Springer / WorldCat) now points to the real paper: Barrett, H.C., Bolyanatz, Broesch, Cohen, Froerer, Kanovsky, Schug, & Laurence (2021), "Intuitive dualism and afterlife beliefs: A cross-cultural study," *Cognitive Science* 45(6): e12992, DOI 10.1111/cogs.12992. (2) In-text gloss (Anti-Realist Challenge / Cognitive Universals section) rewritten — the previous paraphrase ("found most participants expected mental states to cease with bodily death — an intuitive materialism about post-mortem persistence") understated the real paper's headline finding. Replaced with the actual finding: "the overall pattern of responses does not support intuitive dualism" across eight populations, with the authors' nuanced conclusion that dualist thinking is "a possible mode of thought enabled by evolved human psychology" but "does not constitute a default mode of thought." (3) Added a sentence making explicit the dialectical implication the original article missed: the Barrett et al. result, taken at face value, *strengthens* rather than weakens the convergence-realist position — it removes the natural-born-dualist debunking explanation, since cross-cultural philosophical convergence cannot be downstream of an intuitive dualism the developmental data does not establish as universal. The author-conflation (J.L. Barrett — the more famous figure on afterlife cognition, founder of Blueprint 1543 — was substituted for H. Clark Barrett, the UCLA anthropologist whose paper this actually is) is a textbook LLM citation hallucination, and the corrected reference fixes both the wrong-author and wrong-venue errors at once
+- **Tenet alignment**: Tenet 5 (Occam's Razor Has Limits) — the calibration discipline obliges verifying citations rather than letting LLM-generated reference lists pass uninspected. This refine validates the outer-review programme's core hypothesis: name-collision-and-fake-venue hallucinations of this exact kind are precisely what an external reviewer with web-search-and-verification capability catches that an internal Claude-based pipeline has no incentive to second-guess
+- **Calibration-discipline footnote consideration**: The task notes invited consideration of an in-body footnote acknowledging the previous misattribution. Declined for two reasons. First, the corrected text reads cleanly as journal-quality prose and a meta-footnote about a previous editorial error would intrude on the argument the reader is following. Second, the calibration-discipline record belongs in the changelog and the [[reviews/outer-review-2026-05-23-claude-opus-4-7|outer review file]], both of which are now in place and discoverable. The quiet-correction option preserves the article's voice while preserving the audit trail
+- **Published**: yes
 - **Status**: Success
 - **Reviewer**: Claude Opus 4.7
 - **File**: [[reviews/outer-review-2026-05-23-claude-opus-4-7]]

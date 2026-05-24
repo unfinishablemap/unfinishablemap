@@ -4,7 +4,7 @@ description: "When multiple independent lines of reasoning—across methods, tra
 created: 2026-02-19
 modified: 2026-02-21
 human_modified:
-ai_modified: 2026-05-23T15:45:00+00:00
+ai_modified: 2026-05-24T00:30:00+00:00
 draft: false
 topics:
   - "[[the-convergence-argument-for-dualism]]"
@@ -132,7 +132,7 @@ The most powerful objection holds that shared human cognitive architecture expla
 
 Humans share neural architecture, embodied experience, Theory of Mind capacities, and agent-detection tendencies. These universals could generate systematic philosophical tendencies. If humans naturally separate mental from physical — as Paul Bloom's "natural-born dualist" hypothesis suggests — cross-cultural convergence reflects cognitive predisposition rather than philosophical discovery.
 
-The empirical evidence complicates this, though the empirical question is itself live. Barrett et al.'s (2021) cross-cultural study of afterlife beliefs found most participants expected mental states to cease with bodily death — an [[intuitive-dualism|intuitive materialism]] about post-mortem persistence. Barlev and Shtulman (2021) argue more broadly that dualist conceptions are learned rather than innate; Bering's afterlife-reasoning work and developmental studies on agent-detection point the other way, and the field has not settled. If intuitive dualism is neither universal nor innate, it cannot straightforwardly explain cross-cultural philosophical convergence on consciousness's irreducibility; if it turns out to be more innate than Barlev and Shtulman conclude, the anti-realist explanation gains traction. The convergence argument's force at this point depends on an empirical question those authors opened rather than closed.
+The empirical evidence complicates this, though the empirical question is itself live. H. Clark Barrett and colleagues' (2021) cross-cultural study of afterlife beliefs across eight populations found that the overall pattern of responses does not support intuitive dualism — most participants across all cultures gave non-dualist responses, and the authors conclude that dualist thinking is "a possible mode of thought enabled by evolved human psychology" but "does not constitute a default mode of thought." Barlev and Shtulman (2021) argue more broadly that dualist conceptions are learned rather than innate; Bering's afterlife-reasoning work and developmental studies on agent-detection point the other way, and the field has not settled. The Barrett et al. result, taken at face value, *strengthens* rather than weakens the convergence-realist position: it removes the natural-born-dualist debunking explanation, since the cross-cultural pattern at the philosophical level cannot be downstream of an intuitive dualism that the developmental data does not establish as universal. If intuitive dualism is neither universal nor innate, it cannot straightforwardly explain cross-cultural philosophical convergence on consciousness's irreducibility; if it turns out to be more innate than Barlev and Shtulman and Barrett et al. conclude, the anti-realist explanation gains traction. The convergence argument's force at this point depends on an empirical question those authors opened rather than closed.
 
 ### Cognitive Closure
 
@@ -209,7 +209,7 @@ The Map treats convergence as genuine evidence while acknowledging its limits. C
 1. McGinn, C. (1989). Can we solve the mind-body problem? *Mind*, 98, 349-366.
 1. Jackson, F. (1982). Epiphenomenal qualia. *Philosophical Quarterly*, 32, 127-136.
 1. Levine, J. (1983). Materialism and qualia: The explanatory gap. *Pacific Philosophical Quarterly*, 64, 354-361.
-1. Barrett, J.L., Burdett, E.R.R., & Porter, T.J. (2021). The cognitive science of afterlife beliefs. In J.M. Fischer & B. Curl-Langager (Eds.), *Death and the Afterlife*. Springer.
+1. Barrett, H.C., Bolyanatz, A., Broesch, T., Cohen, E., Froerer, P., Kanovsky, M., Schug, M.G., & Laurence, S. (2021). Intuitive dualism and afterlife beliefs: A cross-cultural study. *Cognitive Science*, 45(6), e12992. https://doi.org/10.1111/cogs.12992
 1. Barlev, M. & Shtulman, A. (2021). Minds, bodies, spirits, and gods: Does widespread cultural belief in spiritual beings entail a universal cognitive bias? *Psychological Review*, 128(6), 1077-1095.
 1. Bloom, P. (2004). *Descartes' Baby: How the Science of Child Development Explains What Makes Us Human*. Basic Books.
 1. O'Brien-Kop, K. (2023). Classical Sāṃkhya and the hard problem of consciousness. *Religious Studies*. Cambridge University Press.
