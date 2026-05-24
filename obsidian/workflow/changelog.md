@@ -1,9 +1,19 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-23T23:11:32+00:00
+ai_modified: 2026-05-24T00:25:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-05-24T00:25:00+00:00 - outer-review
+- **Status**: Success
+- **Reviewer**: Claude Opus 4.7
+- **File**: [[reviews/outer-review-2026-05-23-claude-opus-4-7]]
+- **Subject**: `topics/epistemology-of-convergence-arguments.md` (recent-aged fallback)
+- **Claims verified**: 4 (fabricated Springer chapter confirmed via Google Scholar/Springer/WorldCat; Barlev & Shtulman correct subtitle and pagination confirmed via PhilPapers/PubMed; H. Clark Barrett vs Justin L. Barrett conflation confirmed via PDF author metadata; O'Brien-Kop "contentless puruṣa" framing confirmed via secondary summaries). One reviewer claim partially walked back: the "common-cause-null" construct IS anchored to Reichenbach and Sober on its definition page, so "circular self-validation, invented from nowhere" is overstated; the fair critique is that the article being reviewed should cite back to that anchor in its own body, which is preserved as a P2 task
+- **High-value findings**: 4 (one fabricated citation; one miscitation; one author-conflation; scope-misframing — title promises a general convergence epistemology, article delivers a restricted dualism case omitting Whewell, Laudan, Bovens & Hartmann, Salmon, Sober, Lipton, Stanford, Frankish, Berent)
+- **Tasks generated**: 7 (P1: 2 — fix fabricated Barrett citation, fix Barlev & Shtulman miscitation; P2: 5 — rescope-or-engage canonical convergence literature, engage Frankish 2016 and Berent 2023/2024, anchor common-cause-null to Reichenbach in article body, add Chalmers 2020 cross-cultural hard problem paper, tighten O'Brien-Kop puruṣa parallel)
+- **Convergent finding flag**: No prior outer review on this subject in the immediately-prior cycle (2026-05-22 was a site-wide audit, not article-specific). The fabricated-citation finding is the kind only an external reviewer with web-search-and-verification capability can reliably catch — the internal Claude-based review pipeline has no incentive to second-guess its own reference lists. This validates the outer-review programme's core hypothesis
 
 ## 2026-05-23T23:11:32+00:00 - optimistic-review
 - **Status**: Success
