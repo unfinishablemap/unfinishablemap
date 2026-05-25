@@ -57,7 +57,7 @@ Verified against cross-referenced articles:
 - *150 years of evolutionary psychology* — verified consistent with `apophatic-cartography-four-criteria.md` line 61 and [voids/the-surplus-void.md](/voids/the-surplus-void/) line 52.
 - *2026-05-11 retraction* — verified consistent with [topics/introspection-architecture-independence-scoring.md](/topics/introspection-architecture-independence-scoring/) modified date and the retraction date discussed there.
 - *2026-05-15 cross-exhibit audit* — verified at `obsidian/reviews/deep-review-2026-05-15-introspection-architecture-cross-exhibit-audit.md`.
-- *2026-05-16 Advaita/Sufi/Stoic audit* — wikilink resolves to [topics/channel-audits-introspection-architecture-independence-scoring.md](/topics/channel-audits-introspection-architecture-independence-scoring/).
+- *2026-05-16 Advaita/Sufi/Stoic audit* — wikilink resolves to [topics/channel-audits-introspection-architecture-independence-scoring.md](/topics/introspection-architecture-independence-scoring/).
 - *Coutinho et al. 2021* — consistent with prior cluster citations.
 - *Lindsey et al. 2025-26; Vogel 2025* — consistent with the cross-architecture-via-LLMs channel claim in the introspection-architecture article.
 

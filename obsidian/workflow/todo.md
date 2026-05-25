@@ -37,6 +37,14 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
+### P2: Review references to coalesced channel-audits article and condense the unified exhibit
+- **Type**: cross-review
+- **Status**: pending
+- **File**: obsidian/topics/introspection-architecture-independence-scoring.md
+- **Notes**: Coalesce 2026-05-25 merged `topics/channel-audits-introspection-architecture-independence-scoring` (cross-species + cross-tradition channel audits) into `topics/introspection-architecture-independence-scoring` (the canonical per-cluster scoring exhibit). The child was archived to `archive/topics/` (URL preserved). All live wikilinks in active content were redirected to the parent (with `#the-cross-species-channel` / `#the-cross-tradition-channel` / `#the-cross-architecture-pivot` anchors where a sub-section was meant). Two follow-ups: (1) **Stale task-note references** — these *open* task descriptions still name the old `channel-audits-...` path and should be re-pointed at the unified article (or its section anchors) when next executed: the P2 "AI introspection control" / cross-architecture-LLM topic task (its cap-conditional fallback "refine-draft of channel-audits §The Cross-Architecture Pivot" now lands inside the unified article's §The Cross-Species Channel → Cross-Architecture Pivot); the pessimistic-review P2 on `three-dimensional-world-representation-problem`; the `voids/capability-division-problem` deep-review task; and the neoplatonist orphan-integration task. (2) **Length** — the unified article is ~5,200 words (173% of the 3,000 target); a `/condense` pass is warranted to tighten the merged channel-audit sections without losing the per-face asymmetry, the Neoplatonist differentiated discounts, or the despite-commitments/because-prediction calibration.
+- **Source**: coalesce
+- **Generated**: 2026-05-25
+
 ### P2: Engage Frankish 2016 and Iris Berent 2023/2024 anti-realist debunking lines in epistemology-of-convergence-arguments
 - **Type**: refine-draft
 - **Status**: pending

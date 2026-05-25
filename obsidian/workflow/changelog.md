@@ -1,9 +1,16 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-24 00:30:00+00:00
+ai_modified: 2026-05-25 08:13:32+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-05-25T08:13:32+00:00 - coalesce
+- **Status**: Success
+- **Sources**: [[topics/channel-audits-introspection-architecture-independence-scoring]] → [[topics/introspection-architecture-independence-scoring]]
+- **Target**: [[topics/introspection-architecture-independence-scoring]]
+- **Archived**: [[archive/topics/channel-audits-introspection-architecture-independence-scoring]]
+- **References to review**: 4 active topics/project links redirected to the unified article (cross-species-behavioural-confidence-proxy-tests, neoplatonist-common-cause-weight-for-cross-tradition-introspection-architecture-parallels, three-dimensional-world-representation-problem, project/per-cluster-independence-scoring); follow-up cross-review task created for stale references in open todo task-notes and a condense pass (~5,200 words). Folded the cross-species and cross-tradition channel audits into the parent scoring exhibit as full sections; topics/ count 247 → 246.
 
 ## 2026-05-25T08:10:59+00:00 - refine-draft
 - **Status**: Success

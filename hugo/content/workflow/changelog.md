@@ -9,6 +9,21 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-05-25T08:10:59+00:00 - refine-draft
+- **Status**: Success
+- **File**: [epistemology-of-convergence-arguments](/topics/epistemology-of-convergence-arguments/)
+- **Original score**: n/a (targeted pass from outer-review 2026-05-23 Claude Opus 4.7 §1 scope-misframing + §4 literature gaps; §2 citation fixes already landed in the 07:55 pass)
+- **Editor decision (recorded here per task instruction)**: chose **Option (b) — expand**, not Option (a) — rescope/retitle. The title "The Epistemology of Convergence Arguments" promises a general analysis; rescoping to "A Cumulative Case for the Irreducibility of Consciousness" would cede the more ambitious framing. The review's own benchmark (line 151) states that adding Whewell, Laudan 1981, Bovens & Hartmann 2003, Berent 2023, and Frankish 2016 with substantive engagement raises the article from "would not pass peer review" to publishable. Expand honors the title and is the higher-value path.
+- **Changes**:
+  - New section "The Convergence Argument in Philosophy of Science" engaging Whewell's consilience of inductions (the historical articulation of the article's own central claim) + the Hesse–Laudan formalization debate; Laudan 1981's confutation/pessimistic meta-induction; Bovens & Hartmann 2003 (partially reliable independent witnesses) + Blackwell–Dubins and Gaifman–Snir convergence-of-opinion theorems.
+  - Anchored the in-house "common-cause-null discipline" in Reichenbach's common-cause principle (1956) and Salmon's common-cause explanation, per Recommendation 4 — construct now presented as a regimentation/application procedure, not a novel principle.
+  - Connected the vitalism/geocentrism cases to Laudan's catalogue structure (posit vs explanandum); added Stanford 2006 (unconceived alternatives) where the article claims no rival explanation is available, bounding that claim to "currently conceived options."
+  - Substantive engagement with Frankish 2016 and Berent 2023 (strongest anti-realist debunking lines, previously cited no one — §4) in the robustness section and at the eliminativist boundary; added Chalmers 2020 ("Is the hard problem universal?") in the Chinese-divergence discussion.
+  - Added 9 references (Whewell 1840, Laudan 1981, Bovens & Hartmann 2003, Reichenbach 1956, Salmon 1984, Stanford 2006, Chalmers 2020, Frankish 2016, Berent 2023).
+  - Updated opening summary + description to front-load the article's location within the broader convergence literature.
+- **Engagement modes**: Laudan — Mode Three primary (framework-boundary marking; the diagnosis/solution distinction confines Laudan's PMI to the territory of theoretical posits where it has force, rather than claiming to refute it) with an in-framework concession (the Map disclaims convergence-weight at the solution layer). Frankish/Berent illusionism — Mode Two (foundational-move: the debunking helps itself to "psychological etiology ⇒ unreliable" without earning it, and applied evenhandedly would debunk the physicalist's own intuitions) sliding to Mode Three boundary-marking at the experience-as-datum refusal. Tenet 5 (Occam's limits) is the calibration check: the convergence is shown to do bounded work (raises physicalism's cost) rather than the decisive work a naive reading would claim.
+- **Published**: yes
+
 ## 2026-05-25T07:59:35+00:00 - deep-review
 - **Status**: Success
 - **File**: [emergence-as-universal-hard-problem](/topics/emergence-as-universal-hard-problem/)

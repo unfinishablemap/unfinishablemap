@@ -45,6 +45,11 @@ last_curated:
 coalesced_from:
   - "/topics/cross-species-channel-introspection-architecture-independence-scoring/"
   - "/topics/cross-tradition-channel-introspection-architecture-independence-scoring/"
+archived: true
+archived_date: 2026-05-25T08:13:32+00:00
+superseded_by: "/topics/introspection-architecture-independence-scoring/"
+archive_reason: "Coalesced into Per-Cluster Independence Scoring: The Introspection-Architecture Sub-Cluster"
+original_path: "/topics/channel-audits-introspection-architecture-independence-scoring/"
 ---
 
 The cross-species and cross-tradition channels are two of four structural defences against the [[project/common-cause-null|common-cause null]] catalogued in the [[introspection-architecture-independence-scoring|introspection-architecture independence scoring exhibit]]. Combined verdict: both appear to supply *calibration-grade rather than load-bearing* convergence for the four-void cluster (narrative, source-attribution, noetic-feelings, confabulation); the patient-population channel may remain load-bearing; and the most architecturally distant cross-observer evidence currently available seems to run through cross-architecture LLM introspection studies (the [[#cross-architecture-pivot|pivot below]]) rather than biology or contemplative tradition. The companion [[topics/cross-species-behavioural-confidence-proxy-tests|proxy-tests article]] stratifies the cross-species channel face-by-face: source-attribution accessible, noetic-feelings partial, confabulation and narrative principled-blocked.

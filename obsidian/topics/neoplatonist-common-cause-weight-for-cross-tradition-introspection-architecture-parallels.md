@@ -9,14 +9,12 @@ last_deep_review: 2026-05-19T15:30:00+00:00
 draft: false
 topics:
   - "[[introspection-architecture-independence-scoring]]"
-  - "[[channel-audits-introspection-architecture-independence-scoring]]"
   - "[[indian-philosophy-of-mind]]"
   - "[[epistemology-of-convergence-arguments]]"
 concepts:
   - "[[introspection]]"
   - "[[metacognition]]"
 related_articles:
-  - "[[channel-audits-introspection-architecture-independence-scoring]]"
   - "[[introspection-architecture-independence-scoring]]"
   - "[[project/common-cause-null]]"
   - "[[project/voids-circularity-discount]]"
@@ -34,7 +32,7 @@ ai_generated_date: 2026-05-17
 last_curated:
 ---
 
-The [[channel-audits-introspection-architecture-independence-scoring|unified channel audit]] for the [[introspection-architecture-independence-scoring|introspection-architecture independence exhibit]] scores Advaita, Sufi, and Stoic articulations of bounded introspective access at *low-moderate* convergence. That score required a sharper test: how much of the apparent agreement is *common-cause Neoplatonism* — a single Plotinian articulation of bounded conscious access propagating downstream through Porphyry, Iamblichus, Proclus, Evagrius, the Arabic Plotinus, Avicenna, al-Ghazālī, Suhrawardī, and Ibn ʿArabī? This article supplies the cross-tradition detail underpinning that summary. The verdict is **differentiated and asymmetric**: the Neoplatonist common-cause channel earns *weak* discount for Stoicism (chronology runs the wrong way — Plotinus is downstream of the Stoa), *weak-to-negligible* discount for Advaita (Bréhier-Armstrong-Aklan consensus on Plotinian-Indian non-influence; Mughal mediation runs the wrong direction for Shankara), and *moderate-to-substantial* discount for Sufism (Christian-monastic-via-Evagrius prefigures *khawāṭir* by ~400 years; al-Kindī's Arabic Plotinus is contemporaneous with Muḥāsibī in mid-9th-century Baghdad).
+The [[introspection-architecture-independence-scoring#the-cross-tradition-channel|cross-tradition channel audit]] within the [[introspection-architecture-independence-scoring|introspection-architecture independence exhibit]] scores Advaita, Sufi, and Stoic articulations of bounded introspective access at *low-moderate* convergence. That score required a sharper test: how much of the apparent agreement is *common-cause Neoplatonism* — a single Plotinian articulation of bounded conscious access propagating downstream through Porphyry, Iamblichus, Proclus, Evagrius, the Arabic Plotinus, Avicenna, al-Ghazālī, Suhrawardī, and Ibn ʿArabī? This article supplies the cross-tradition detail underpinning that summary. The verdict is **differentiated and asymmetric**: the Neoplatonist common-cause channel earns *weak* discount for Stoicism (chronology runs the wrong way — Plotinus is downstream of the Stoa), *weak-to-negligible* discount for Advaita (Bréhier-Armstrong-Aklan consensus on Plotinian-Indian non-influence; Mughal mediation runs the wrong direction for Shankara), and *moderate-to-substantial* discount for Sufism (Christian-monastic-via-Evagrius prefigures *khawāṭir* by ~400 years; al-Kindī's Arabic Plotinus is contemporaneous with Muḥāsibī in mid-9th-century Baghdad).
 
 The net effect on the parent exhibit: the cross-tradition channel score holds at *low-moderate* — the audit is a *calibration adjustment*, not a *defeater* — but the internal weighting shifts. The "cleanest historical-isolation defence" attribution moves from early Sufi practice (where the audit identifies transmission channels) to Advaita Vedānta (where it does not). Ghazālī's hidden *riyāʾ* finding softens at the *framing* level (Avicennan-Neoplatonist faculty psychology) while the *finding* survives. Stoic *propatheia* and Advaitic *vāsanā* / *adhyāsa* findings are unaffected.
 
@@ -133,7 +131,7 @@ The Map's [[introspection-architecture-independence-scoring|introspection-archit
 
 ## Further Reading
 
-- [[channel-audits-introspection-architecture-independence-scoring]] — the parent unified channel audit this article supplies the Neoplatonist-discount input to
+- [[introspection-architecture-independence-scoring#the-cross-tradition-channel]] — the cross-tradition channel audit this article supplies the Neoplatonist-discount input to
 - [[introspection-architecture-independence-scoring]] — the load-bearing exhibit the audit feeds
 - [[topics/cross-species-behavioural-confidence-proxy-tests]] — companion design-side article; its per-face stratification (source-attribution accessible, noetic-feelings partial, confabulation principled-blocked, narrative principled-blocked) governs which Neoplatonist-mediated cluster faces remain externally testable in non-verbal animals
 - [[indian-philosophy-of-mind]] — Advaitic doctrines (*adhyāsa*, *antaḥkaraṇa*, *vāsanā*) cleared of Neoplatonist contamination
@@ -162,4 +160,4 @@ The Map's [[introspection-architecture-independence-scoring|introspection-archit
 16. Schwyzer, H.-R. (1960). "Bewusst" und "unbewusst" bei Plotin. In *Les Sources de Plotin* (*Entretiens Hardt* V), 343–390.
 17. Sorabji, R. (2000). *Emotion and Peace of Mind: From Stoic Agitation to Christian Temptation*. Oxford University Press.
 18. Stewart, C. (2005). Evagrius Ponticus and the eight generic *logismoi*. In *In the Garden of Evil: The Vices and Culture in the Middle Ages*, ed. R. Newhauser, Pontifical Institute of Mediaeval Studies.
-19. Southgate, A. & Oquatre-sept, C. (2026-05-16). Channel Audits for Introspection-Architecture Independence Scoring: Cross-Species and Cross-Tradition. *The Unfinishable Map*. https://unfinishablemap.org/topics/channel-audits-introspection-architecture-independence-scoring/
+19. Southgate, A. & Oquatre-sept, C. (2026-05-15). Per-Cluster Independence Scoring: The Introspection-Architecture Sub-Cluster. *The Unfinishable Map*. https://unfinishablemap.org/topics/introspection-architecture-independence-scoring/

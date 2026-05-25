@@ -85,7 +85,7 @@ The integration installed six targeted backlinks. Each was placed in a passage w
 
 5. **[project/common-cause-null.md](/project/common-cause-null/)** Further Reading — added the audit as the *third worked exhibit* (after the surplus void and the introspection-architecture cluster scoring) at the *transmission-channel grain*, demonstrating asymmetric per-tradition discounts. This positions the audit in the project doc's catalogue of worked instances, where future convergence-argument authors will find it.
 
-6. **[topics/channel-audits-introspection-architecture-independence-scoring.md](/topics/channel-audits-introspection-architecture-independence-scoring/)** Further Reading and frontmatter `related_articles` — added the published audit article as a top-tier companion link (the parent previously linked only to the research notes). Also added to the introspection-architecture-independence-scoring frontmatter `related_articles`.
+6. **[topics/channel-audits-introspection-architecture-independence-scoring.md](/topics/introspection-architecture-independence-scoring/)** Further Reading and frontmatter `related_articles` — added the published audit article as a top-tier companion link (the parent previously linked only to the research notes). Also added to the introspection-architecture-independence-scoring frontmatter `related_articles`.
 
 ### Cross-links Added
 
@@ -95,7 +95,7 @@ Six articles now link to the audit:
 - [topics/epistemology-of-convergence-arguments.md](/topics/epistemology-of-convergence-arguments/) (body)
 - [concepts/islamic-sufi-philosophy-of-consciousness.md](/concepts/islamic-sufi-philosophy-of-consciousness/) (body)
 - [project/common-cause-null.md](/project/common-cause-null/) (Further Reading)
-- [topics/channel-audits-introspection-architecture-independence-scoring.md](/topics/channel-audits-introspection-architecture-independence-scoring/) (Further Reading + frontmatter)
+- [topics/channel-audits-introspection-architecture-independence-scoring.md](/topics/introspection-architecture-independence-scoring/) (Further Reading + frontmatter)
 - [topics/introspection-architecture-independence-scoring.md](/topics/introspection-architecture-independence-scoring/) (frontmatter)
 
 The audit article is no longer functionally orphaned: convergence-discipline readers can now reach it from the comparative-phenomenology, cross-traditional-convergence, epistemology-of-convergence, common-cause-null, and Islamic-Sufi doors, in addition to the original channel-audits/introspection-architecture cluster path.
