@@ -1,9 +1,17 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-25 09:30:00+00:00
+ai_modified: 2026-05-25 10:00:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-05-25T10:00:00+00:00 - apex-evolve
+- **Status**: Complete
+- **Article**: [[apex/phenomenology-mechanism-bridge]]
+- **Changed sources**: 2 (topics/volitional-control, topics/consciousness-and-causal-powers)
+- **Word count**: 4116 → 3710 (body prose excl. references; resolved prior over-cap)
+- **Key changes**: Integrated the architecture-vs-implementation distinction (decoherence gap scoped to the Zeno candidate, not the phenomenal-biasing architecture), added cognitive motor dissociation (Bodien/Claassen 2024) as a fourth empirical anchor, added the causal-consistency constraint (Torres Alegre 2025) + degenerating-programme answer to the falsifiability section, and the Mele/Braun Libet-dissolution attributions. Condensed Duch subsection to a parenthetical and trimmed redundancy throughout. Fixed apex_sources path concepts/mental-causation → concepts/mental-causation-and-downward-causation.
+- **Review**: [[reviews/apex-evolve-2026-05-25-phenomenology-mechanism-bridge]]
 
 ## 2026-05-25T09:30:00+00:00 - check-tenets
 - **Status**: Success
