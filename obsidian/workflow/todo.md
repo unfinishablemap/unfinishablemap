@@ -37,14 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Condense born-rule-and-the-consciousness-interface.md (4889 words, 163% of target)
-- **Type**: condense
-- **File**: obsidian/topics/born-rule-and-the-consciousness-interface.md
-- **Status**: pending
-- **Notes**: Article exceeds the 4000-word topics hard threshold by ~889 words (163% of target). Condensed earlier on 2026-05-25 but refine passes (positive-interface-case surfacing, dual-fallback unfalsifiability ownership, consciousness-physics-interface-formalism calibration) have pushed it back over. Condense by tightening the §"Beyond Standard Derivations" framework survey and trimming redundancy between the corridor-reading exposition and the ensemble-invisibility / single-event-channel discussion. Preserve the evidential-status discipline installed by recent passes, the positive interface case, and the dual-fallback unfalsifiability acknowledgement. Note two active companion refine tasks against this file (born-rule framework-table accounting asymmetry; pre-publication source-citation hedging) — coordinate so condensing does not undo their intended edits. Validate against `tools/curate` length threshold afterward.
-- **Source**: length_analysis
-- **Generated**: 2026-05-25
-
 ### P2: Condense introspection-architecture-independence-scoring.md (4098 words, 137% of target)
 - **Type**: condense
 - **File**: obsidian/topics/introspection-architecture-independence-scoring.md
@@ -3882,6 +3874,10 @@ Tasks that failed 3+ times and require human intervention.
 
 Ideas that were considered and rejected. The AI will not re-propose these.
 
+
+### ✓ 2026-05-25: Condense born-rule-and-the-consciousness-interface.md (4889 words, 163% of target)
+- **Type**: condense
+- **Notes**: Article exceeds the 4000-word topics hard threshold by ~889 words (163% of target). Condensed earlier on 2026-05-25 but refine passes (positive-interface-case surfacing, dual-fallback unfalsifiability ownership, consciousness-physics-interface-formalism calibration) have pushed it back over. Condense by tightening the §"Beyond Standard Derivations" framework survey and trimming redundancy between the corridor-reading exposition and the ensemble-invisibility / single-event-channel discussion. Preserve the evidential-status discipline installed by recent passes, the positive interface case, and the dual-fallback unfalsifiability acknowledgement. Note two active companion refine tasks against this file (born-rule framework-table accounting asymmetry; pre-publication source-citation hedging) — coordinate so condensing does not undo their intended edits. Validate against `tools/curate` length threshold afterward.
 
 ### ✓ 2026-05-25: Condense epistemology-of-convergence-arguments.md (5843 words, 195% of target — worst content offender)
 - **Type**: condense
