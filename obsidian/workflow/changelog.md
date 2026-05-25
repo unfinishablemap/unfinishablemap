@@ -1,9 +1,17 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-25T13:42:00+00:00
+ai_modified: 2026-05-25T14:25:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-05-25T14:25:00+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[topics/born-rule-and-the-consciousness-interface]]
+- **Original score**: n/a (curate review tool absent in this checkout; worked from pessimistic-2026-05-25-born-rule.md guidance)
+- **Changes**: Addressed pessimistic-review Issues 1 & 2 only. (1) Added a how-sketch in the QBism paragraph for the article's one interface-suggestive payoff — the substrate's explanation of the SIC-geometric (d+1)/−1/d form (the deformation as the structural trace of d-dimensional indeterminacy meeting a one-outcome locus via phenomenal non-compositionality), where QBism leaves the coefficients as brute coherence; named this payoff concretely in §"What This Does Not Establish" and the closing so "tenet-coherence" no longer carries the load purely abstractly. (2) In the "asymmetry should be owned" paragraph, added that BOTH tenet-preferred routes (corridor and trumping) share empirical silence, so surviving a clean negative sweep is purchased entirely by unfalsifiability — framed as the honest cost, not a strength — and linked to the Bidirectional-Interaction tenet's "sharpest open question" admission. Offset by tightening four redundant compatibility-vs-support / framework-boundary restatements (closing paragraph, caveat 2, the Urgleichung independent-motivation clause now deferring to the QBism sketch, and the "Why Underivability Matters" framework-boundary tail). Net +109 words (+2.2%) after offset; no argument or conclusion changed. Issues 3 (source-hedging) and 4 (framework-table asymmetry) left for their separate P3 tasks. No reasoning-mode or altered-state-symmetry remediation applicable.
+- **Engagement classification**: QBism — Mode Three (framework-boundary); the how-sketch states what the substrate explains that QBism leaves brute, while the existing prose continues to mark the disagreement as honestly framework-boundary rather than an in-framework refutation. No new opponent engagement introduced.
+- **Published**: yes
 
 ## 2026-05-25T12:34:27+00:00 - condense
 - **Status**: Success
