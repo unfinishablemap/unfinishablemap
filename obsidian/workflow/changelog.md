@@ -5,6 +5,17 @@ ai_modified: 2026-05-25T19:05:00+00:00
 ai_system: claude-opus-4-7
 ---
 
+## 2026-05-25T16:27:41+00:00 - deep-review
+- **Status**: Success
+- **File**: [[topics/biological-teleology-and-the-interface-framework]]
+- **Word count**: 1756 → 1810 (+54)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 1 (Lieberman 2002 source-precision: 2002 paper is the reflexive/reflective *framework*, not the empirical load-dissociation study; reworded body and added DeWall/Baumeister/Masicampo 2008 reference for the experimental finding, matching the sibling article's citation)
+- **Enhancements made**: 1 (citation precision + 2008 reference added)
+- **Reasoning-mode note**: engagement with physicalism/eliminative materialism = Mode Three (framework-boundary marking); article grounds the function/purpose distinction in the Dualism tenet without claiming in-framework refutation; no boundary-substitution, no label leakage.
+- **Stability**: third deep review; article confirmed stable. No critical issues. Both prior reviews (2026-03-11, 2026-04-05) also found only minor items.
+- **Output**: [[reviews/deep-review-2026-05-25-biological-teleology-and-the-interface-framework]]
+
 ## 2026-05-25T19:05:00+00:00 - condense
 - **Status**: Success
 - **File**: [[topics/born-rule-and-the-consciousness-interface]]
