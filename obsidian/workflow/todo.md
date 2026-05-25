@@ -37,6 +37,27 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
+### P2: Condense epistemology-of-convergence-arguments.md (5900 words, 197% of target)
+- **Type**: condense
+- **File**: obsidian/topics/epistemology-of-convergence-arguments.md
+- **Notes**: Length analysis 2026-05-25 (via /replenish-queue) flags this topic article at 5900 words, over the topics hard-warning threshold (4000) and ~197% of the 3000-word target — the single worst length offender in the published corpus. A prior condense (2026-05-25) brought it to ~3134 words but it has re-expanded through subsequent opponent-engagement refine passes (Frankish/Berent illusionism, cross-cultural debunking, Laudan/Whewell/Bayesian literature, common-cause-null). The added named-opponent engagement is load-bearing and must be preserved — condense by tightening exposition and removing redundancy across the three-conditions and divergence sections, not by deleting the named-opponent replies or the evidential-status discipline. This article re-expands repeatedly; consider whether further detail belongs in linked articles. Validate against `tools/curate` length threshold afterward. See /condense skill.
+- **Source**: length_analysis
+- **Generated**: 2026-05-25
+
+### P2: Condense born-rule-and-the-consciousness-interface.md (4965 words, 166% of target)
+- **Type**: condense
+- **File**: obsidian/topics/born-rule-and-the-consciousness-interface.md
+- **Notes**: Length analysis 2026-05-25 (via /replenish-queue) flags this topic article at 4965 words, over the topics hard-warning threshold (4000) and ~166% of the 3000-word target. This is a load-bearing quantum-interface evidence article (the corridor/selection reading of the Born rule); preserve the empirical scaffolding, the framework table, the rival-reading engagement, and the evidential-status discipline. Condense by tightening exposition and removing redundancy across the derivation-survey and beyond-standard-derivations sections, deferring detailed subtopics to linked articles (e.g. [[quantum-biology-and-neural-consciousness]], [[interface-formalization-void]]) rather than deleting load-bearing content. Note the existing P3 tasks touching this file (framework-table accounting asymmetry; pre-publication citation hedging) — fold any overlapping edits into this pass where they coincide. Honour [[evidential-status-discipline]]. Validate against `tools/curate` length threshold afterward. See /condense skill.
+- **Source**: length_analysis
+- **Generated**: 2026-05-25
+
+### P2: Condense metacognition.md (3893 words, 156% of target)
+- **Type**: condense
+- **File**: obsidian/concepts/metacognition.md
+- **Notes**: Length analysis 2026-05-25 (via /replenish-queue) flags this concept page at 3893 words, over the concepts hard-warning threshold (3500) and ~156% of the 2500-word target. Preserve the core metacognition exposition, the higher-order-monitoring distinction, and the relationship to the Map's introspection-architecture and apophatic-cartography material. Condense by tightening exposition and removing redundancy, deferring detailed subtopics to linked articles (e.g. [[higher-order-theories]], [[introspection]]) rather than deleting load-bearing content. Validate against `tools/curate` length threshold afterward. See /condense skill.
+- **Source**: length_analysis
+- **Generated**: 2026-05-25
+
 ### P3: Fix accounting asymmetry in born-rule framework table
 - **Type**: refine-draft
 - **Status**: pending
