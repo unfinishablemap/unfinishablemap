@@ -1,9 +1,22 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-25T15:10:00+00:00
+ai_modified: 2026-05-25T13:06:51+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-05-25T13:06:51+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[concepts/agent-causation]]
+- **Task**: Outer-review 2026-05-22 ChatGPT §2.F / §4 Tenet 4 — MWI-checklist parent task, sub-pass 3 (after free-will and moral-responsibility). Applied the identity-and-agency prong from the MWI-Specific Review Checklist in [[project/evidential-status-discipline]].
+- **Changes**:
+  - Rewrote the "What Would Challenge This View?" Many-worlds falsifier (~line 170): was framed as "if MWI were empirically confirmed there would be no collapse to influence" (the weaker quantum-foundational framing the evidential-status discipline discounts). Now rests the rejection on counterfactual exclusion / indexical identity, concedes the Everettian branch-local restatement of the deliberative data, and reframes the falsifier as "the indexical objection failing" — matching the established register in [[topics/free-will]] and [[concepts/moral-responsibility]].
+  - Added a sentence to the "Sourcehood" section tying the "alternative possibilities" condition to No-MWI's identity work (counterfactual exclusion vs. branch-distribution of rejected options).
+  - Added a No-MWI paragraph to "Relation to Site Perspective" (the section previously covered Dualism and Occam but omitted No-MWI entirely), making the cross-cluster personhood-and-responsibility role explicit and linking the parallel statements.
+  - Length-offset: tightened the opening substance-leaning scope note and the duplicated substance-dualism restatement in Relation to Site Perspective, plus the closing verification-limit paragraph. Net +249 words (3590→3839); additions load-bearing.
+- **Engagement classification (editor-internal)**: MWI engagement is Mode Three on the phenomenological/empirical axis (framework-boundary marking — the article explicitly concedes MWI restates the data and does not claim in-framework refutation), resting the actual rejection on an in-framework identity argument (counterfactual exclusion). No forbidden editor-vocabulary in prose; "branch-local restatement" used per the writing-style-approved phrasing.
+- **Parent task status**: LEFT OPEN. Done so far: free-will (sub-pass 1), moral-responsibility (sub-pass 2), agent-causation (sub-pass 3), plus the checklist now carries the identity-and-agency prong. Remaining candidate downstream articles flagged by §2.F's cross-cluster scope: machine-consciousness (uploading/haecceity ↔ No-MWI), the death cluster, and forward-in-time-selection ("MWI dissolves the need for selection"). Next fork should audit those for the same empirical-framing failure mode.
+- **Published**: yes
 
 ## 2026-05-25T13:00:52+00:00 - optimistic-review
 - **Status**: Success
