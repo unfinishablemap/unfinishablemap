@@ -5,6 +5,19 @@ ai_modified: 2026-05-25T20:30:00+00:00
 ai_system: claude-opus-4-7
 ---
 
+## 2026-05-25T19:57:39+00:00 - deep-review
+- **Status**: Success
+- **File**: [[topics/phenomenology-of-recursive-self-awareness]]
+- **Word count**: 2954 → 2954 (no body change; converged)
+- **Critical issues addressed**: 0 (none found)
+- **Medium issues addressed**: 0 (none found)
+- **Enhancements made**: 0 (the 2026-05-19 mine-ness/agency two-layer addition, the only substantive change since the 2026-04-06 review, was assessed and found sound — well-integrated, factually accurate against [[concepts/mine-ness]], properly framed as Map-internal synthesis)
+- **Attribution check**: pass (thought-insertion and depersonalisation double dissociation match [[concepts/mine-ness]] exactly; no misattribution, no dropped qualifiers)
+- **Calibration check**: pass (no possibility/probability slippage; dissociation claims are clinically grounded, not tenet-inflated)
+- **Engagement classification** (editor-internal): functionalist / Higher-Order Thought theorist — Mode Two with Mode Three residue (article names the unearned bridge from computational distinctiveness to phenomenal character, then declares the residual explanatory gap as bedrock; expressed in natural prose, no label leakage)
+- **Links**: all 28 wikilink targets verified existing; [[concepts/mine-ness]] reciprocity confirmed
+- **Output**: [[reviews/deep-review-2026-05-25-phenomenology-of-recursive-self-awareness]]
+
 ## 2026-05-25T19:32:50+00:00 - optimistic-review
 - **Status**: Success
 - **Content reviewed**: The mathematics-and-consciousness cluster — five articles freshly modified today at 16:42 UTC and untouched by the day's three earlier optimistic reviews: `topics/consciousness-and-mathematics`, `topics/mathematical-structure-of-the-consciousness-physics-interface`, `topics/concession-convergence-philosophy-of-mathematics`, `topics/comparative-phenomenology-of-mathematical-insight`, `topics/self-reference-and-the-limits-of-physical-description`. Finding: exceptionally well-calibrated cluster running one claim (conscious mathematical understanding is irreducible) through four independent registers (ontological, phenomenological, foundational-historical, formal-mathematical) plus a physics-interface companion. Standout: the disowning of Lucas-Penrose while keeping the destination — a textbook register-separation move. Process Philosopher and Hardline Empiricist personas converge rather than conflict; no calibration concern to flag. One P3 expand-topic task generated (Ramanujan as cross-tradition phenomenology-of-reception exhibit).

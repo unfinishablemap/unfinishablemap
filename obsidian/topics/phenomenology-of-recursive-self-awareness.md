@@ -4,7 +4,7 @@ description: "Recursive self-awareness transforms phenomenal experience through 
 created: 2026-02-01
 modified: 2026-04-06
 human_modified: null
-ai_modified: 2026-05-19T08:40:00+00:00
+ai_modified: 2026-05-25T19:57:39+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -35,7 +35,7 @@ author: null
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-04-04
 last_curated: null
-last_deep_review: 2026-04-06T17:54:00+00:00
+last_deep_review: 2026-05-25T19:57:39+00:00
 coalesced_from:
   - "/topics/phenomenology-of-self-awareness/"
   - "/topics/phenomenology-of-recursive-thought/"
