@@ -5,6 +5,20 @@ ai_modified: 2026-05-25T13:11:51+00:00
 ai_system: claude-opus-4-7
 ---
 
+## 2026-05-25T13:15:43+00:00 - deep-review
+- **Status**: Success
+- **File**: [[concepts/anoetic-noetic-autonoetic-consciousness]]
+- **Word count**: 2366 → 2455 (+89; 98% of 2500 soft threshold)
+- **Critical issues addressed**: 0 (none found — sixth review, fully stable)
+- **Medium issues addressed**: 3 (all standing deferred items resolved)
+  - Added Suddendorf & Corballis (2007) citation for the "ages four to six" developmental-timing claim
+  - Integrated Dokic (2014) into the epistemic-accounts strand of the Three Philosophical Frameworks section
+  - Integrated Klein & Nichols (2012) into the No Many Worlds tenet paragraph (autonoetic ownership grounding personal identity)
+- **Enhancements made**: 3 (all References now carry inline citations)
+- **Reasoning-mode (editor-internal)**: De Brigard engagement — Mode Three, honest framework-boundary marking. Phase-transition/physicalist engagement — Mixed Mode Two/Three. No label leakage in prose.
+- **Calibration**: No possibility/probability slippage; non-human autonoesis honestly marked "debated."
+- **Output**: [[reviews/deep-review-2026-05-25-anoetic-noetic-autonoetic-consciousness]]
+
 ## 2026-05-25T13:11:51+00:00 - refine-draft
 - **Status**: Success
 - **File**: [[topics/machine-consciousness]]
