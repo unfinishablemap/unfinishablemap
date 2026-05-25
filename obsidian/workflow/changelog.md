@@ -1,9 +1,19 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-25T23:40:00+00:00
+ai_modified: 2026-05-25T23:49:34+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-05-25T23:49:34+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[topics/the-reverse-inference]]
+- **Review context**: [[reviews/optimistic-2026-05-25c]] Medium Priority — "reverse inference vs. the convergence argument as two methodological moves"
+- **Changes**: Added new section "Relation to the Convergence Argument" (~488 words, 1862→2350w, well under 3000 target) directly comparing the Map's two flagship methodological meta-moves. Frames the relationship honestly across four points: (1) distinct mechanisms — convergence aggregates horizontally, reverse inference inverts vertically; (2) different layers with a *chaining* (not compounding) relationship — convergence works upstream in philosophy of mind to secure the irreducibility datum, reverse inference works downstream in philosophy of physics spending it, so counting them as two independent confirmations would double-count; (3) **genuine shared vulnerability** — both rest on the experience-as-datum premise, so illusionist debunking (Frankish 2016, Berent 2023/2024) defeats both at once for the same reason; framed as a real common point of failure, not just a compounding strength; (4) what reverse inference adds beyond convergence — specificity about physics convergence alone cannot reach.
+- **Cross-links**: added bidirectional link — body link from reverse-inference to [[epistemology-of-convergence-arguments#scope-of-the-argument]] plus frontmatter related_articles entry; reciprocal single-line Further Reading entry in the convergence article (non-material; its body/timestamp left unchanged per task constraint that it is at its constrained length floor / Blocked).
+- **Calibration discipline**: honored evidential-status discipline — the shared experience-as-datum vulnerability is presented as a genuine shared weakness ("real common point of failure", "less independent than their different shapes suggest"), not softened into a compounding-strength gloss. No tier inflation; the chaining framing explicitly disclaims double-counting the two moves as independent confirmations.
+- **Note**: `scripts/curate.py review` no longer exists (tooling refactored); proceeded with the well-specified review-driven addition rather than a quality-score gate.
+- **Published**: yes
 
 ## 2026-05-25T23:40:00+00:00 - expand-topic
 - **Status**: Success

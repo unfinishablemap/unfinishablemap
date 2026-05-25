@@ -4,7 +4,7 @@ description: "The reverse inference uses consciousness—our most certain datum�
 created: 2026-03-17
 modified: 2026-03-17
 human_modified:
-ai_modified: 2026-05-25T15:44:51+00:00
+ai_modified: 2026-05-25T23:49:34+00:00
 last_deep_review: 2026-05-25T15:44:51+00:00
 draft: false
 topics:
@@ -25,6 +25,7 @@ related_articles:
   - "[[bidirectional-interaction]]"
   - "[[physics-as-disclosure]]"
   - "[[the-convergence-argument-for-dualism]]"
+  - "[[epistemology-of-convergence-arguments]]"
 ai_contribution: 100
 author:
 ai_system: claude-opus-4-6
@@ -86,6 +87,16 @@ When consciousness is taken as a datum and the Map's tenets are accepted as cons
 **The measurement problem is a boundary marker.** The point where the Schrödinger equation meets collapse is not a deficiency in the theory but the boundary between two ontological domains: the structural (described by the wavefunction) and the actualizing (contributed by consciousness). The Map's [[physics-as-disclosure|disclosure reading]] holds that physics cannot describe this boundary from within, just as a formal system cannot prove its own consistency.
 
 These are not arbitrary consequences. They form a coherent picture: quantum mechanics is *partial*—complete about the structure of possibilities, silent about what makes one possibility actual. The [[what-consciousness-tells-us-about-physics|apex treatment]] develops this picture into a full bi-aspectual ontology.
+
+## Relation to the Convergence Argument
+
+The reverse inference and the [[epistemology-of-convergence-arguments|convergence argument]] are the Map's two flagship *methodological* meta-moves, and readers naturally ask how they relate. They are distinct in mechanism. The convergence argument aggregates: multiple independent routes—the [[knowledge-argument|knowledge argument]], conceivability, the [[explanatory-gap]], cross-traditional phenomenology—arrive at one conclusion, and the agreement raises confidence beyond what any single route earns. The reverse inference inverts: it takes one secure datum and uses it to constrain an underdetermined framework. One move is horizontal (many arguments, one conclusion); the other is vertical (one datum, downward pressure on theory).
+
+They are best understood as operating at different layers, with a feeding relationship between them. The convergence argument works *upstream*, in philosophy of mind, to establish that consciousness is irreducible. The reverse inference works *downstream*, in philosophy of physics, taking that irreducibility as already secured and asking what it implies about quantum interpretation. The convergence argument supplies the premise—consciousness exists and resists physical reduction—that the reverse inference then treats as its Cartesian-certain constraint. They do not so much compound as chain: convergence earns the datum; the reverse inference spends it. To count them as two independent confirmations of the same conclusion would double-count, because the reverse inference's secure datum *is* the convergence argument's conclusion. Their support is sequential, not additive.
+
+This chaining produces a genuine shared vulnerability, not merely a shared strength. Both moves rest on the same foundational premise: that conscious experience is a datum, irreducible to structural-functional description. The convergence argument makes this explicit—its [[epistemology-of-convergence-arguments#scope-of-the-argument|scope is conditional]] on granting phenomenal experience as a datum, and it stands honestly at the boundary against eliminativism. The reverse inference inherits the same condition: its "Private Datum, Public Science" reply (below) leans on the *existence* of consciousness being intersubjectively confirmed, but if illusionists like Frankish (2016) and Berent (2023, 2024) are right that the appearance of an irreducible phenomenal character is a cognitive artefact, then the secure datum is not secure and the whole inference loses its starting point. The same debunking move that threatens the convergence argument threatens the reverse inference, and for the same reason. This is a real common point of failure: an opponent who defeats the experience-as-datum premise defeats both moves at once. The honest framing is that the two arguments are less independent than their different shapes suggest—they share a single load-bearing assumption, and a critic targeting that assumption need not engage their distinct machinery at all.
+
+What the reverse inference adds beyond convergence is *specificity about physics*. Convergence establishes that consciousness is irreducible; it says nothing about quantum mechanics. The reverse inference takes the irreducibility result and extracts structural commitments—real collapse, genuine openness at measurement, the Born rule as interface—that convergence alone cannot reach. The division of labour is clean: convergence secures the datum across the philosophy-of-mind literature; the reverse inference carries that datum into physics. Neither subsumes the other, and neither can do the other's job.
 
 ## Objections
 
