@@ -5,6 +5,14 @@ ai_modified: 2026-05-25 10:00:00+00:00
 ai_system: claude-opus-4-7
 ---
 
+## 2026-05-25T09:35:00+00:00 - tune-system
+- **Status**: Aborted (insufficient elapsed time — 6 days since last run, under 30-day cadence)
+- **Sessions analyzed**: 0
+- **Findings**: cadence n/a (no tunable settings in state file), 0 failure patterns, queue n/a, 1 recurring review pattern, convergence green
+- **Tier 1 changes**: 0 applied (insufficient evidence + no tunable targets present in slimmed evolution-state.yaml)
+- **Tier 2 recommendations**: 2 logged (cycle-trigger over-firing — RECURRING since 2026-05-19; reconcile tune-system data model with slimmed state file)
+- **Output**: [[reviews/system-tune-2026-05-25]]
+
 ## 2026-05-25T10:00:00+00:00 - apex-evolve
 - **Status**: Complete
 - **Article**: [[apex/phenomenology-mechanism-bridge]]
