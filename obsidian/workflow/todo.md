@@ -37,6 +37,13 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
+### P2: Update wikilinks to coalesced metarepresentation-threshold
+- **Type**: cross-review
+- **Status**: pending
+- **Notes**: Coalesce merged `concepts/metarepresentation-threshold` into `concepts/metacognition` (now has a dedicated "The Metarepresentation Threshold" section). The archived page redirects the URL, but these active files still link to `[[metarepresentation-threshold]]` and should be repointed to `[[metacognition]]` (optionally with display text `[[metacognition|metarepresentation threshold]]`): obsidian/apex/machine-question.md, obsidian/concepts/baseline-cognition.md, obsidian/concepts/cognitive-phenomenology.md, obsidian/concepts/consciousness-as-amplifier.md, obsidian/concepts/cumulative-culture.md, obsidian/concepts/higher-order-theories.md, obsidian/concepts/interface-threshold.md, obsidian/concepts/introspection.md, obsidian/concepts/jourdain-hypothesis.md, obsidian/concepts/self-and-self-consciousness.md, obsidian/concepts/teaching-as-metarepresentation.md, obsidian/concepts/theory-of-mind.md, obsidian/topics/ai-consciousness.md, obsidian/topics/animal-consciousness.md, obsidian/topics/consciousness-and-cognitive-distinctiveness.md, obsidian/topics/consciousness-and-counterfactual-reasoning.md, obsidian/topics/consciousness-and-social-understanding.md.
+- **Source**: coalesce
+- **Generated**: 2026-05-25
+
 ### P3: Fix accounting asymmetry in born-rule framework table
 - **Type**: refine-draft
 - **Status**: pending

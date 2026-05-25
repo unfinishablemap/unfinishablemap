@@ -1,9 +1,16 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-25T13:20:37+00:00
+ai_modified: 2026-05-25T13:30:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-05-25T13:30:00+00:00 - coalesce
+- **Status**: Success
+- **Sources**: [[concepts/metacognition]], [[concepts/metarepresentation-threshold]]
+- **Target**: [[concepts/metacognition]] (merged threshold into existing article; concepts section near cap at 247/250)
+- **Archived**: [[archive/concepts/metarepresentation-threshold]] (superseded_by /concepts/metacognition/)
+- **References to review**: 17 active files link to the archived slug; follow-up cross-review task created (URLs preserved via archive redirect)
 
 ## 2026-05-25T13:20:37+00:00 - refine-draft
 - **Status**: Success

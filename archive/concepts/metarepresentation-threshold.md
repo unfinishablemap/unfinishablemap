@@ -7,6 +7,11 @@ human_modified:
 ai_modified: 2026-05-06T12:58:00+00:00
 draft: false
 last_deep_review: 2026-05-06T12:58:00+00:00
+archived: true
+archived_date: 2026-05-25T13:30:00+00:00
+superseded_by: "/concepts/metacognition/"
+archive_reason: "Coalesced into Metacognition, Metarepresentation, and Consciousness"
+original_path: "/concepts/metarepresentation-threshold/"
 topics:
   - "[[animal-consciousness]]"
   - "[[hard-problem-of-consciousness]]"
