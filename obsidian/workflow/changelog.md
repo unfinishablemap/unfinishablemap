@@ -1,9 +1,18 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-25T18:45:00+00:00
+ai_modified: 2026-05-25T19:05:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-05-25T19:05:00+00:00 - condense
+- **Status**: Success
+- **File**: [[topics/born-rule-and-the-consciousness-interface]]
+- **Before**: 4965
+- **After**: 4889
+- **Reduction**: 2%
+- **Technique**: Article reached ~4856w near-floor in an earlier condense today, then a pessimistic-review-fix refine added ~109w of load-bearing content (the SIC-geometric (d+1)/−1/d positive interface case and the dual-fallback-unfalsifiability ownership). This pass found one genuine residual duplicate: the final "What the Born-Rule Catalogue Is and Is Not Doing" section was a near-verbatim recap of "What This Does Not Establish" (discrimination-not-established vs the four consciousness-free rivals; tenet-coherence with the SIC how-sketch as its one suggestive-tier payoff; empirical engagement aimed at outside-corridor sub-readings). Removed the section, folding its one non-duplicated beat — the "catalogue length is not evidential weight" warning — into the closing sentence of the Relation to Site Perspective section.
+- **Note**: The article remains over the 3000w topic target (hard_warning, 163%) at its constrained floor. The remaining length is all load-bearing: the framework-comparison table, the corridor/outside-corridor/trumping taxonomy, the active-experimental-programmes catalogue, the named-opponent engagements (Zhang, Landsman, Gleason, Deutsch-Wallace, Zurek, MGM, DeBrota-Fuchs-Schack, Torres Alegre, Stapp, Chalmers-McQueen, Arana), the SIC-geometric positive case, the dual-fallback-unfalsifiability ownership, the five tenet connections, and the References. No protected content cut.
 
 ## 2026-05-25T18:45:00+00:00 - condense
 - **Status**: Success

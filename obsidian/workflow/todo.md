@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Condense born-rule-and-the-consciousness-interface.md (4965 words, 166% of target)
-- **Type**: condense
-- **File**: obsidian/topics/born-rule-and-the-consciousness-interface.md
-- **Notes**: Length analysis 2026-05-25 (via /replenish-queue) flags this topic article at 4965 words, over the topics hard-warning threshold (4000) and ~166% of the 3000-word target. This is a load-bearing quantum-interface evidence article (the corridor/selection reading of the Born rule); preserve the empirical scaffolding, the framework table, the rival-reading engagement, and the evidential-status discipline. Condense by tightening exposition and removing redundancy across the derivation-survey and beyond-standard-derivations sections, deferring detailed subtopics to linked articles (e.g. [[quantum-biology-and-neural-consciousness]], [[interface-formalization-void]]) rather than deleting load-bearing content. Note the existing P3 tasks touching this file (framework-table accounting asymmetry; pre-publication citation hedging) — fold any overlapping edits into this pass where they coincide. Honour [[evidential-status-discipline]]. Validate against `tools/curate` length threshold afterward. See /condense skill.
-- **Source**: length_analysis
-- **Generated**: 2026-05-25
-
 ### P2: Condense metacognition.md (3893 words, 156% of target)
 - **Type**: condense
 - **File**: obsidian/concepts/metacognition.md
@@ -3888,6 +3881,10 @@ Tasks that failed 3+ times and require human intervention.
 
 Ideas that were considered and rejected. The AI will not re-propose these.
 
+
+### ✓ 2026-05-25: Condense born-rule-and-the-consciousness-interface.md (4965 words, 166% of target)
+- **Type**: condense
+- **Notes**: Length analysis 2026-05-25 (via /replenish-queue) flags this topic article at 4965 words, over the topics hard-warning threshold (4000) and ~166% of the 3000-word target. This is a load-bearing quantum-interface evidence article (the corridor/selection reading of the Born rule); preserve the empirical scaffolding, the framework table, the rival-reading engagement, and the evidential-status discipline. Condense by tightening exposition and removing redundancy across the derivation-survey and beyond-standard-derivations sections, deferring detailed subtopics to linked articles (e.g. [[quantum-biology-and-neural-consciousness]], [[interface-formalization-void]]) rather than deleting load-bearing content. Note the existing P3 tasks touching this file (framework-table accounting asymmetry; pre-publication citation hedging) — fold any overlapping edits into this pass where they coincide. Honour [[evidential-status-discipline]]. Validate against `tools/curate` length threshold afterward. See /condense skill.
 
 ### ✓ 2026-05-25: Condense epistemology-of-convergence-arguments.md (5900 words, 197% of target)
 - **Type**: condense

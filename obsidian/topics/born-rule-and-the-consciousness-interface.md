@@ -4,7 +4,7 @@ description: "The Born rule resists derivation across every quantum interpretati
 created: 2026-03-15
 modified: 2026-05-23
 human_modified:
-ai_modified: 2026-05-25T13:50:00+00:00
+ai_modified: 2026-05-25T14:05:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -221,11 +221,7 @@ All five connections inherit the *Compatibility vs. Support* discipline: the und
 
 **[[tenets#^occams-limits|Occam's Razor Has Limits]]**: The Born rule gap's interpretation-invariance is compatible with a genuine consciousness-physics boundary, but the cross-framework derivation failure is one motivation among several the Map collects, not decisive support. Treating "the Born rule has held in every test so far" as universal validity is a case where simplicity is unreliable with incomplete knowledge: the tested regimes are a narrow slice. The symmetric restraint applies on the Map's own side — coherence with the interface reading must not silently convert into elevated empirical confidence over the rivals the pattern equally accommodates.
 
-The Map's working position is that the empirical question is genuinely open, present experiments cannot adjudicate it, and honesty requires holding the corridor-vs-minimum-outside-corridor distinction as a live fork.
-
-## What the Born-Rule Catalogue Is and Is Not Doing
-
-A one-paragraph closing, to forestall the misreading the catalogue's length invites. What it establishes: the underivability pattern holds uniformly across hidden-variable, objective-collapse, retrocausal, categorical, and gravitational-collapse frameworks, and the interface reading has a coherent framework-internal home for it. What it does *not* establish: discrimination between the interface reading and the four consciousness-free rivals (QBism, objective-collapse, modal, Bohmian), all of which accommodate the pattern equally — a reader who takes the catalogue's length as evidential weight reads it against its own discipline. The Map's preference earns its place through cross-corpus tenet-coherence, whose one concrete suggestive-tier payoff is the substrate's how-sketch for the SIC-geometric form; the empirical case, meanwhile, engages the outside-corridor sub-readings the Map admits are not its preferred ones.
+The Map's working position is that the empirical question is genuinely open, present experiments cannot adjudicate it, and honesty requires holding the corridor-vs-minimum-outside-corridor distinction as a live fork. A reader who takes the catalogue's length as evidential weight reads it against its own discipline: the catalogue establishes only that the underivability pattern holds uniformly across frameworks and that the interface reading has a coherent framework-internal home for it — never discrimination over the four consciousness-free rivals that accommodate the pattern equally.
 
 ## Further Reading
 
