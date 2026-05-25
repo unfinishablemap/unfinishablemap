@@ -37,6 +37,27 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
+### P2: Condense apex/taxonomy-of-voids.md (6257 words, exceeds apex hard threshold)
+- **Type**: condense
+- **File**: obsidian/apex/taxonomy-of-voids.md
+- **Notes**: Length analysis 2026-05-25 flags this apex hub at 6257 words, over the apex hard-warning threshold (5000) and approaching the critical threshold (6500). This is a navigational hub for the voids cluster, so its load-bearing function is orientation — preserve the classification scheme, the phenomenology-vs-function axis, the circularity-discount discipline, and the four-criteria apophatic-cartography framing. Condense by tightening exposition and deferring detailed per-void treatments to the linked voids articles rather than restating them at apex level. Note the existing P3 tasks "Refine apex/taxonomy-of-voids.md to anchor the phenomenology-vs-function axis" and the cross-link task touching this file — fold any overlapping edits into this pass where they coincide. Validate against tools/curate length threshold afterward. See /condense skill.
+- **Source**: length_analysis
+- **Generated**: 2026-05-25
+
+### P2: Condense concepts/concession-convergence.md (4882 words, exceeds concepts hard threshold)
+- **Type**: condense
+- **File**: obsidian/concepts/concession-convergence.md
+- **Notes**: Length analysis 2026-05-25 flags this concept page at 4882 words, over the concepts hard-warning threshold (3500) and approaching the critical threshold (5000) — nearly 2x the 2500-word concept target. concession-convergence is a methodology-discipline page (how opponent concessions converge on a shared structure); preserve the discipline's definition, the worked exhibits, and the relationship to [[common-cause-null]] and the convergence-discipline pages. Condense by tightening exposition and removing redundancy across the worked-exhibit sections, deferring extended case treatments to the linked articles rather than deleting the discipline's load-bearing content. Note the existing P3 "Deep review concession-convergence.md" and the concession/common-cause cross-link task — fold overlapping edits into this pass. Validate against tools/curate length threshold afterward. See /condense skill.
+- **Source**: length_analysis
+- **Generated**: 2026-05-25
+
+### P2: Condense topics/quantum-biology-and-neural-consciousness.md (4618 words, exceeds topics hard threshold)
+- **Type**: condense
+- **File**: obsidian/topics/quantum-biology-and-neural-consciousness.md
+- **Notes**: Length analysis 2026-05-25 flags this topic article at 4618 words, over the topics hard-warning threshold (4000). This is a load-bearing quantum-interface evidence article; preserve the empirical scaffolding (Tegmark/Hameroff debate and successor decoherence work, quantum-biology findings), the evidential-status discipline, and the rival-reading engagement. Condense by tightening exposition and removing redundancy across the decoherence-objection and mechanism sections, deferring detailed subtopics to linked articles (e.g. [[born-rule-and-the-consciousness-interface]], [[anaesthesia-and-the-consciousness-interface]]) rather than deleting load-bearing content. Honour [[evidential-status-discipline]] — quantum-biology readings sit at live-hypothesis tier. Validate against tools/curate length threshold afterward. See /condense skill.
+- **Source**: length_analysis
+- **Generated**: 2026-05-25
+
 ### P3: Fix accounting asymmetry in born-rule framework table
 - **Type**: refine-draft
 - **Status**: pending
