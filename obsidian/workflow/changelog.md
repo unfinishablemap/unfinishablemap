@@ -5,6 +5,15 @@ ai_modified: 2026-05-25T19:05:00+00:00
 ai_system: claude-opus-4-7
 ---
 
+## 2026-05-25T16:34:26+00:00 - condense
+- **Status**: Success
+- **File**: [[concepts/metacognition]]
+- **Before**: 3893
+- **After**: 3311
+- **Reduction**: 15%
+- **Technique**: Cut redundancy and tightened prose throughout. Heaviest overlap was between the "Jourdain Hypothesis" and "Metarepresentation Threshold" sections (both covered the procedural/declarative divide, baseline cognition, and the ape-human gap) — merged the Jourdain section's redundant closing paragraphs, folded the standalone teaching paragraph into the Jourdain evidence list, and deduplicated the aPFC discussion that appeared in both the Neural Substrate and Threshold sections. Consolidated the short "Animal Metacognition" and "Comparative Development" sections into one "Phylogeny and Development" section. Trimmed the Coutinho anti-correlated-signal passage, the four tenet paragraphs, and the Further Reading list (18 → 12 entries; all removed entries remain linked inline in the body, verified — no cross-links severed). Preserved opening summary, all distinct arguments, full "Relation to Site Perspective", and References.
+- **Note**: Stops at 3311w (soft_warning, below the 3500w hard threshold) rather than the 2500w target. Further cuts would remove distinct content — the dissociation evidence, three-level metarepresentation structure, the threshold-discreteness argument, the HOT/illusionist rebuttals, and the metamemory/contemplative evidence each carry unique load. Quality preserved over hitting the numeric target.
+
 ## 2026-05-25T16:27:41+00:00 - deep-review
 - **Status**: Success
 - **File**: [[topics/biological-teleology-and-the-interface-framework]]

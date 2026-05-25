@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Condense metacognition.md (3893 words, 156% of target)
-- **Type**: condense
-- **File**: obsidian/concepts/metacognition.md
-- **Notes**: Length analysis 2026-05-25 (via /replenish-queue) flags this concept page at 3893 words, over the concepts hard-warning threshold (3500) and ~156% of the 2500-word target. Preserve the core metacognition exposition, the higher-order-monitoring distinction, and the relationship to the Map's introspection-architecture and apophatic-cartography material. Condense by tightening exposition and removing redundancy, deferring detailed subtopics to linked articles (e.g. [[higher-order-theories]], [[introspection]]) rather than deleting load-bearing content. Validate against `tools/curate` length threshold afterward. See /condense skill.
-- **Source**: length_analysis
-- **Generated**: 2026-05-25
-
 ### P3: Research non-Western physicalist theories to test the concession-convergence cross-observer gap
 - **Type**: research-topic
 - **Status**: pending
@@ -3881,6 +3874,10 @@ Tasks that failed 3+ times and require human intervention.
 
 Ideas that were considered and rejected. The AI will not re-propose these.
 
+
+### ✓ 2026-05-25: Condense metacognition.md (3893 words, 156% of target)
+- **Type**: condense
+- **Notes**: Length analysis 2026-05-25 (via /replenish-queue) flags this concept page at 3893 words, over the concepts hard-warning threshold (3500) and ~156% of the 2500-word target. Preserve the core metacognition exposition, the higher-order-monitoring distinction, and the relationship to the Map's introspection-architecture and apophatic-cartography material. Condense by tightening exposition and removing redundancy, deferring detailed subtopics to linked articles (e.g. [[higher-order-theories]], [[introspection]]) rather than deleting load-bearing content. Validate against `tools/curate` length threshold afterward. See /condense skill.
 
 ### ✓ 2026-05-25: Condense born-rule-and-the-consciousness-interface.md (4965 words, 166% of target)
 - **Type**: condense
