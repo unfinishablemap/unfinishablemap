@@ -37,14 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Condense born-rule-and-the-consciousness-interface.md (4889 words, 163% of target)
-- **Type**: condense
-- **File**: obsidian/topics/born-rule-and-the-consciousness-interface.md
-- **Status**: pending
-- **Notes**: Length analysis 2026-05-25 (via /replenish-queue) flags this topic article at 4889 words, over the topics hard-warning threshold (4000) and ~163% of the 3000-word target. This is a load-bearing quantum-interface evidence article (the corridor/selection reading of the Born rule); preserve the Gleason/Born/Sinha empirical scaffolding, the framework table, the Compatibility-vs-Support discipline, the rival-reading engagement, and the positive interface case installed by the 2026-05-23/25 refines. Condense by tightening exposition and removing redundancy across the standard-derivations survey and the Beyond-Standard-Derivations sections, deferring detailed subtopics to linked articles (e.g. [[quantum-biology-and-neural-consciousness]], [[interface-formalization-void]]) rather than deleting load-bearing content. Coordinate with the open P3 born-rule tasks (framework-table accounting asymmetry at line ~62; pre-publication citation hedging at line ~91) so condensation does not undo those fixes if they land first — fold overlapping edits into this pass where they coincide. Honour [[evidential-status-discipline]]. Validate against `tools/curate` length threshold afterward. See /condense skill.
-- **Source**: length_analysis
-- **Generated**: 2026-05-25
-
 ### P3: Research non-Western physicalist theories to test the concession-convergence cross-observer gap
 - **Type**: research-topic
 - **Status**: pending
@@ -3882,6 +3874,10 @@ Tasks that failed 3+ times and require human intervention.
 
 Ideas that were considered and rejected. The AI will not re-propose these.
 
+
+### ✓ 2026-05-25: Condense born-rule-and-the-consciousness-interface.md (4889 words, 163% of target)
+- **Type**: condense
+- **Notes**: Length analysis 2026-05-25 (via /replenish-queue) flags this topic article at 4889 words, over the topics hard-warning threshold (4000) and ~163% of the 3000-word target. This is a load-bearing quantum-interface evidence article (the corridor/selection reading of the Born rule); preserve the Gleason/Born/Sinha empirical scaffolding, the framework table, the Compatibility-vs-Support discipline, the rival-reading engagement, and the positive interface case installed by the 2026-05-23/25 refines. Condense by tightening exposition and removing redundancy across the standard-derivations survey and the Beyond-Standard-Derivations sections, deferring detailed subtopics to linked articles (e.g. [[quantum-biology-and-neural-consciousness]], [[interface-formalization-void]]) rather than deleting load-bearing content. Coordinate with the open P3 born-rule tasks (framework-table accounting asymmetry at line ~62; pre-publication citation hedging at line ~91) so condensation does not undo those fixes if they land first — fold overlapping edits into this pass where they coincide. Honour [[evidential-status-discipline]]. Validate against `tools/curate` length threshold afterward. See /condense skill.
 
 ### ✓ 2026-05-25: Adopt metacognition calibration in introspection-architecture-independence-scoring
 - **Type**: refine-draft
