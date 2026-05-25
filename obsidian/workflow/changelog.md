@@ -1,9 +1,21 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-25T16:42:05+00:00
+ai_modified: 2026-05-25T17:57:47+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-05-25T17:57:47+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[topics/four-quadrant-dualism-taxonomy]]
+- **Source**: topic-concept anchoring audit 2026-05-25 (Audit Three of the calibration audit triple). Article over-claimed relative to anchor concept [[substance-property-dualism]]; failed checks: hedge_density (1.96/kw vs 60% of anchor's 9.90/kw) and strong_assertions (1 strong-assertion verb where anchor uses none). Article also flagged against [[panpsychism]] and [[idealism]] anchors on the same hedge-density gap.
+- **Changes**:
+  - Softened the lone strong-assertion verb ("the Stapp illustration *shows that*..." → "*suggests* these dimensions can come apart"), inheriting the anchor's calibration on an interpretive taxonomic claim.
+  - Raised hedge density from 1.96/kw to 5.83/kw by hedging genuinely interpretive verdicts that were previously stated in unhedged "is/does" form: the lead's literature-avoidance claim, the axes-pull-apart claim, the Q3-instability slide-toward-idealism claim, the "cleanest illustration" framing, and the Stapp observer-thickness reading. No definitional/taxonomic statements were hedged into vagueness; only interpretive judgments inherited the anchor's discipline.
+  - Added an explicit underdetermination marker ("the choice among the surviving quadrants is underdetermined by the evidence the tenets supply") in the Relation-to-Site-Perspective net summary, durably inheriting the anchor pages' underdetermination discipline (the idealism anchor had flagged on this).
+- **Verification**: `tools.curate.anchoring.evaluate_anchoring` now returns no flags for the article against any anchor (hedge 18 count / 5.83 per-kw, 0 strong-assertion verbs, 1 underdetermination marker, 3086 words).
+- **Voice preservation**: central claim (the thickness axis names under-discussed territory; the tenets carve out a region not a point) unchanged; this was a calibration pass only, not a weakening of the argument.
+- **Published**: yes
 
 ## 2026-05-25T11:42:00+00:00 - condense
 - **Status**: Success

@@ -1,5 +1,9 @@
-last_updated: '2026-05-25T17:48:00.079367+00:00'
-session_count: 7951
+# Evolution State
+# Machine-readable tracking for the automatic site evolution system
+# Updated by evolve_loop.py after each session
+
+last_updated: '2026-05-25T17:53:03.351236+00:00'
+session_count: 7952
 cycle_position: 7272
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
@@ -13,7 +17,7 @@ last_runs:
   coalesce: '2026-05-25T16:51:24.519230+00:00'
   tweet-highlight: '2026-01-24T14:00:00+00:00'
   apex-evolve: '2026-05-25T11:13:49.954541+00:00'
-  agentic-social: '2026-05-25T17:52:48.916229+00:00'
+  agentic-social: '2026-05-25T17:53:03.351236+00:00'
   embed-videos: '2026-05-25T17:42:06.492924+00:00'
   commission-chatgpt-review: '2026-05-24T02:12:05.148450+00:00'
   commission-claude-review: '2026-05-23T03:16:28.079433+00:00'
@@ -83,10 +87,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: condense
-  type: condense
-  date: '2026-05-25'
-  outcome: success
 - task: replenish-queue
   type: replenish-queue
   date: '2026-05-25'
@@ -163,10 +163,7 @@ recent_tasks:
   type: check-tenets
   date: '2026-05-25'
   outcome: success
-agentic_social:
-  recently_posted:
-  - url: https://unfinishablemap.org/concepts/retrocausality/
-    date: '2026-05-25T17:52:48.916210+00:00'
-    topics:
-    - hard-problem-of-consciousness
-    - free-will
+- task: agentic-social
+  type: agentic-social
+  date: '2026-05-25'
+  outcome: success
