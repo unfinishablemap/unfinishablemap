@@ -1,9 +1,16 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-25T22:30:00+00:00
+ai_modified: 2026-05-25T22:34:54+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-05-25T22:34:54+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[topics/animal-consciousness]]
+- **Original score**: n/a (targeted corrections from pessimistic-2026-05-25-animal-consciousness)
+- **Changes**: (1) FACTUAL FIX — New York Declaration "signed by over 500 scientists and philosophers" was a ~6x inflation; corrected to "launched with an initial group of researchers and since signed by more than 80" after verifying against the live NYU declaration site (launched April 2024 with ~40, grown to >80). (2) "No Many Worlds" tenet line "haecceity of animal experience is a fact MWI cannot accommodate" downgraded from boundary-substitution to honest framework-boundary marking — MWI denies the premise; clash of foundational commitments, noted as such, not an in-framework refutation. Engagement with MWI/Everettian: Mode Three (framework-boundary marking) — the prior phrasing leaked into apparent in-framework refutation and was corrected to honest boundary-marking. (3) Reconciled substrate-neutral metaphysics with homology-privileged epistemology — added a sentence at the anti-AI seam ("privileges the inference, not the metaphysics; AI is harder to assess, not barred") and a second at the Dualism-section seam naming the homology privilege as epistemic, not metaphysical. (4) Squared the Occam closing line with the common-cause-null concession — "Convergent evidence makes the capacity harder to dismiss without adjudicating between conscious and functional-sufficiency readings; the plausibility tilt rests on the evolutionary argument for mental causation rather than counting the marker cluster." (5) Tightened the inert MQI subsection (bracketed the interface scale; noted post-2009 literature runs against biologically relevant microtubule coherence, so the dispute is not 50/50). Offsetting trims across bat/Nagel, process-philosophy, ape-gap, Panksepp, marker-method, insect, and rival-reading sections to land the article under the 4000-word topics threshold (4087 → 3998).
+- **Published**: yes
 
 ## 2026-05-25T22:28:16+00:00 - pessimistic-review
 - **Status**: Success

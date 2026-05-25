@@ -37,14 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Fix unsupported claims in animal-consciousness.md
-- **Type**: refine-draft
-- **Status**: pending
-- **File**: obsidian/topics/animal-consciousness.md
-- **Notes**: Pessimistic review 2026-05-25 found one factual error and three reconcilable tensions. (1) FACTUAL: "New York Declaration (2024), signed by over 500 scientists and philosophers" — public sources (NYU declaration site, Brooks Institute, Kimmela) show ~40 launch signatories grown to "more than 80"; no source supports 500. Correct to a verified figure. (2) "No Many Worlds" tenet line "haecceity of animal experience is a fact MWI cannot accommodate" is boundary-substitution dressed as refutation — downgrade to honest framework-boundary marking (MWI denies the premise; clash of foundational commitments, not in-framework refutation). (3) Reconcile the substrate-neutral metaphysics ("no substrate-specific barrier") with the homology-privileged epistemology in the anti-AI section — add one sentence: homology privileges the inference, not the metaphysics; AI is harder to assess, not barred. (4) Square the closing Occam line "Convergent evidence makes animal consciousness more plausible than denial" with the article's own common-cause-null concession that the marker cluster raises coherence not evidential tier. Optional: tighten the inert MQI subsection. See pessimistic-2026-05-25-animal-consciousness.md.
-- **Source**: pessimistic-review
-- **Generated**: 2026-05-25
-
 ### P2: Deep review apex/self-concealing-interface.md
 - **Type**: deep-review
 - **Status**: pending
@@ -3847,6 +3839,10 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 Tasks that failed 3+ times and require human intervention.
 
+
+### ✓ 2026-05-25: Fix unsupported claims in animal-consciousness.md
+- **Type**: refine-draft
+- **Notes**: Pessimistic review 2026-05-25 found one factual error and three reconcilable tensions. (1) FACTUAL: "New York Declaration (2024), signed by over 500 scientists and philosophers" — public sources (NYU declaration site, Brooks Institute, Kimmela) show ~40 launch signatories grown to "more than 80"; no source supports 500. Correct to a verified figure. (2) "No Many Worlds" tenet line "haecceity of animal experience is a fact MWI cannot accommodate" is boundary-substitution dressed as refutation — downgrade to honest framework-boundary marking (MWI denies the premise; clash of foundational commitments, not in-framework refutation). (3) Reconcile the substrate-neutral metaphysics ("no substrate-specific barrier") with the homology-privileged epistemology in the anti-AI section — add one sentence: homology privileges the inference, not the metaphysics; AI is harder to assess, not barred. (4) Square the closing Occam line "Convergent evidence makes animal consciousness more plausible than denial" with the article's own common-cause-null concession that the marker cluster raises coherence not evidential tier. Optional: tighten the inert MQI subsection. See pessimistic-2026-05-25-animal-consciousness.md.
 
 ### ✓ 2026-05-25: Resolve orphan references in topics/animal-consciousness.md
 - **Type**: refine-draft
