@@ -1,9 +1,22 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-25 08:32:28+00:00
+ai_modified: 2026-05-25 08:51:10+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-05-25T08:51:10+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[topics/epistemology-of-convergence-arguments]]
+- **Original score**: n/a (curate.py review tool not present in repo; targeted literature-fill pass from outer-review 2026-05-23 Claude Opus 4.7 §4, todo on the missing Chalmers (2020) engagement)
+- **Context**: Chalmers (2020), "Is the hard problem of consciousness universal?" (*JCS* 27(5–6): 227–257), takes up the cross-cultural universality question that is the article's centrepiece, is cited in the O'Brien-Kop paper the article already uses, and was already present in the reference list — but the article engaged it only with a one-line "at least latent across traditions" gloss that slightly overstated Chalmers's position. Fetched and read the paper's full text (consc.net/papers/universal.pdf) to ground the engagement in his actual graded conclusions rather than the gloss.
+- **Changes**:
+  - Rewrote the Chalmers passage in the "What Divergence Reveals" section into substantive engagement. Installed Chalmers's four-thesis taxonomy (judgment / individual intuition / population-level intuition / source universality) with his actual verdicts: judgment universality "obviously" false ("in some cultures the issue never seems to have been raised" — directly the Chinese case), individual intuition universality "probably false," population-level intuition universality has "a chance," source universality the most defensible, all flagged by Chalmers himself as "disputable empirical claims."
+  - Marked the **alignment**: the Map's cross-traditional convergence is best read at the source / population-disposition grain, which is precisely the register Chalmers thinks defensible — so the Chinese explicit silence is the expected pattern on his own taxonomy, not an embarrassment. Imported his materialism-as-foil diagnosis ("one has to take materialism seriously to take the hard problem seriously") as a more principled and falsifiable reading of the Chinese silence than the bare "latent everywhere" gloss.
+  - Marked the **divergence** (the load-bearing honesty move): Chalmers says source universality "is especially natural for a realist such as myself" but "is also common among illusionists" — so the universality finding is common ground between realist and debunker, not a tiebreaker. The article therefore borrows Chalmers's authority for "the convergence is real and deep-sourced" but explicitly withholds it for "the source tracks a genuine feature of consciousness," routing that contested step back to the separate anti-Berent screening-off argument the article already runs.
+  - Annotated the Chalmers (2020) reference-list entry to flag the realist/illusionist-shared source-universality point.
+- **Engagement classification (editor-internal)**: Chalmers is engaged as a fellow realist / authority to be calibrated against, not as a named opponent, so no Mode One/Two/Three refutation applies. The one boundary move — declining to let source universality stand in as evidence for realism — is honest boundary-marking (Mode Three register) and is stated as such in prose without label leakage. No altered-state symmetry flag (article is not altered-state-cluster). Verified no editor-vocabulary leaked into the body.
+- **Published**: yes
 
 ## 2026-05-25T09:00:00+00:00 - refine-draft
 - **Status**: Success

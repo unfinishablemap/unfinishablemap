@@ -37,15 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Add Chalmers 2020 cross-cultural hard-problem paper to epistemology-of-convergence-arguments
-- **Type**: refine-draft
-- **Status**: pending
-- **File**: obsidian/topics/epistemology-of-convergence-arguments.md
-- **Notes**: Outer-review 2026-05-23 Claude Opus 4.7 §4. **Chalmers (2020)**, "Is the hard problem of consciousness universal?", *Journal of Consciousness Studies* 27(5–6): 227–257, takes up exactly the cross-cultural question the article makes its centrepiece. Chalmers himself addresses whether the hard problem is a culturally local concern or a universal one, and his analysis is precisely the kind of move the article needs to either build on or engage with. The 2020 paper is cited in the O'Brien-Kop (2023) paper the article does use, so the omission is a peer-review red flag. Refine pass should add substantive engagement: where does Chalmers conclude on universality? Does the article's cross-traditional convergence claim align with or diverge from Chalmers's own assessment of cross-cultural hard-problem evidence? If the latter, the article should mark the disagreement; if the former, the article should cite Chalmers's authority for support. Tenet alignment: Tenet 1; this is a direct fill-in of the strongest existing treatment of the article's central empirical claim.
-- **Review file**: `reviews/outer-review-2026-05-23-claude-opus-4-7.md`
-- **Source**: outer-review
-- **Generated**: 2026-05-24
-
 ### P2: Tighten O'Brien-Kop puruṣa parallel in epistemology-of-convergence-arguments
 - **Type**: refine-draft
 - **Status**: pending
@@ -3956,6 +3947,10 @@ Tasks that failed 3+ times and require human intervention.
 
 Ideas that were considered and rejected. The AI will not re-propose these.
 
+
+### ✓ 2026-05-25: Add Chalmers 2020 cross-cultural hard-problem paper to epistemology-of-convergence-arguments
+- **Type**: refine-draft
+- **Notes**: Outer-review 2026-05-23 Claude Opus 4.7 §4. **Chalmers (2020)**, "Is the hard problem of consciousness universal?", *Journal of Consciousness Studies* 27(5–6): 227–257, takes up exactly the cross-cultural question the article makes its centrepiece. Chalmers himself addresses whether the hard problem is a culturally local concern or a universal one, and his analysis is precisely the kind of move the article needs to either build on or engage with. The 2020 paper is cited in the O'Brien-Kop (2023) paper the article does use, so the omission is a peer-review red flag. Refine pass should add substantive engagement: where does Chalmers conclude on universality? Does the article's cross-traditional convergence claim align with or diverge from Chalmers's own assessment of cross-cultural hard-problem evidence? If the latter, the article should mark the disagreement; if the former, the article should cite Chalmers's authority for support. Tenet alignment: Tenet 1; this is a direct fill-in of the strongest existing treatment of the article's central empirical claim.
 
 ### ✓ 2026-05-25: Anchor "common-cause-null discipline" to Reichenbach in epistemology-of-convergence-arguments article body
 - **Type**: refine-draft
