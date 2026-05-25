@@ -37,14 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Condense born-rule-and-the-consciousness-interface.md (4889 words, 163% of target)
-- **Type**: condense
-- **Status**: pending
-- **File**: obsidian/topics/born-rule-and-the-consciousness-interface.md
-- **Notes**: Article exceeds the 4000-word hard threshold for topics/ (target 3000). Preserve the evidential-status discipline, the Compatibility-vs-Support distinction, and the interface/corridor positive case installed by the 2026-05-23/25 refines; condense by trimming redundancy across the standard-derivations survey and the Tenet-4 framing sections. Coordinate with the two open P3 born-rule refine-draft tasks (framework-table accounting asymmetry; pre-publication source hedging) so condensation does not undo those fixes if they land first. Validate against `tools/curate` length threshold afterward. See /condense skill.
-- **Source**: length_analysis
-- **Generated**: 2026-05-25
-
 ### P2: Condense agent-causation.md (3709 words, 148% of target)
 - **Type**: condense
 - **Status**: pending
@@ -3890,6 +3882,10 @@ Tasks that failed 3+ times and require human intervention.
 
 Ideas that were considered and rejected. The AI will not re-propose these.
 
+
+### ✓ 2026-05-25: Condense born-rule-and-the-consciousness-interface.md (4889 words, 163% of target)
+- **Type**: condense
+- **Notes**: Article exceeds the 4000-word hard threshold for topics/ (target 3000). Preserve the evidential-status discipline, the Compatibility-vs-Support distinction, and the interface/corridor positive case installed by the 2026-05-23/25 refines; condense by trimming redundancy across the standard-derivations survey and the Tenet-4 framing sections. Coordinate with the two open P3 born-rule refine-draft tasks (framework-table accounting asymmetry; pre-publication source hedging) so condensation does not undo those fixes if they land first. Validate against `tools/curate` length threshold afterward. See /condense skill.
 
 ### ✓ 2026-05-25: Condense epistemology-of-convergence-arguments.md (5843 words, 195% of target)
 - **Type**: condense
