@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-23
-ai_modified: 2026-05-23 14:30:00+00:00
+ai_modified: 2026-05-25 00:00:00+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -20,7 +20,7 @@ concepts:
 - '[[atemporal-causation]]'
 - '[[process-philosophy]]'
 created: 2026-01-23
-date: &id001 2026-05-23
+date: &id001 2026-05-25
 description: A survey of QM interpretations—Copenhagen, Bohmian, QBism, relational,
   transactional, and objective collapse—evaluating which leave room for consciousness
   as causal participant.
@@ -131,7 +131,7 @@ The pattern is clear. Interpretations that eliminate the observer entirely (Bohm
 
 **The critical distinction**: Interpretations that "leave room" for consciousness don't thereby *support* consciousness-based theories—they simply don't exclude them. The Map doesn't claim physics has established consciousness's role in collapse; it claims physics hasn't ruled it out.
 
-**The probability advantage of collapse**: The [interpretation-invariance analysis](/topics/born-rule-and-the-consciousness-interface/) confirms that every framework—hidden-variable, collapse, retrocausal, categorical, gravitational—either postulates the Born rule, assumes it in disguised form, or relocates it to another assumption. Collapse interpretations treat the Born rule as a fundamental law—a postulate about how nature distributes outcomes, honestly stated as such. MWI must instead *derive* probability from a theory where all outcomes occur, and every derivation strategy attempted over seven decades—decision-theoretic, self-locating uncertainty, envariance—has been shown to be circular or question-begging (see [probability-problem-in-many-worlds](/topics/probability-problem-in-many-worlds/) for the full case). This is not merely a philosophical inconvenience; it threatens MWI's empirical adequacy. Interpretations that preserve real collapse avoid the problem entirely.
+**The probability advantage of collapse**: The [interpretation-invariance analysis](/topics/born-rule-and-the-consciousness-interface/) confirms that every framework—hidden-variable, collapse, retrocausal, categorical, gravitational—either postulates the Born rule, assumes it in disguised form, or relocates it to another assumption. Collapse interpretations treat the Born rule as a fundamental law—a postulate about how nature distributes outcomes, honestly stated as such. MWI must instead *derive* probability from a theory where all outcomes occur. The most sophisticated derivations—the Deutsch-Wallace decision-theoretic theorem and the Saunders/Sebens-Carroll self-locating-uncertainty programme—face sustained in-framework objections that their critics argue render them circular or question-begging, and after seven decades the dispute remains live rather than closed (see [probability-problem-in-many-worlds](/topics/probability-problem-in-many-worlds/) for the full case and an honest account of which objections land in-framework and which mark a framework boundary). Collapse interpretations carry no comparable burden: probability is ordinary uncertainty about a genuinely indeterminate outcome. That structural asymmetry, rather than any claim to have refuted MWI on its own terms, is what the Map takes to favour real collapse.
 
 **The indexical dimension**: As explored in [quantum-measurement-and-subjective-probability](/topics/quantum-measurement-and-subjective-probability/), Born probabilities may be fundamentally about what conscious subjects will experience—not "probability that spin-up occurs" but "probability that *I* experience spin-up." If this indexical reading is correct, the first-person perspective isn't an afterthought to quantum mechanics; it's built into the foundations. The [indexical identity analysis](/topics/indexical-identity-quantum-measurement/) shows that this gap—why *this* consciousness experiences *this* outcome—persists across every major interpretation.
 
@@ -141,7 +141,9 @@ The Map's [tenets](/tenets/) constrain the interpretive options. Dualism require
 
 The Map speculates that transactional/TSVF interpretations and consciousness-modulated objective collapse theories offer the most promising foundations. TI/TSVF provides the physics for atemporal selection that the Map's treatment of free will already assumes. Consciousness-modulated CSL provides a mechanism for the Minimal Quantum Interaction tenet while solving the [prebiotic collapse problem](/concepts/prebiotic-collapse/)—physical collapse provides a baseline for the pre-conscious universe, with consciousness modulating outcomes once neural systems provide the interface.
 
-**Engaging MWI's strongest responses**: The Map's indexical objection to MWI ("why am I this branch?") has been addressed by Wallace and Saunders through "self-locating uncertainty"—the idea that branch-selves are simply uncertain about which branch they occupy. The Map's response: self-locating uncertainty presupposes there's a fact about "where I am" to be uncertain about, which is precisely what needs grounding. MWI defenders respond that "I" just means "this branch-copy," making the question trivial. The disagreement is deep and unresolved: MWI dissolves the indexical question where the Map holds it must be answered. See [many-worlds](/concepts/many-worlds/) for detailed treatment.
+**Engaging MWI's strongest responses**: The Map's indexical objection to MWI ("why am I this branch?") has its strongest answer in the branch-relative indexicality of Saunders (2010) and the self-locating-uncertainty derivation of Sebens and Carroll (2018): "I" indexes the current branch-copy, *de se* attribution localises branch-by-branch as it does across times and places, and the Born rule is recovered as the unique rational measure on self-locating credence. This reply is internally available to MWI—it is not incoherent on Everettian terms—and the published in-framework critiques (Lewis 2007 that the post-branching ignorance is spurious; Friederich and Dawid 2022 that the derivation's key premise smuggles in the Born rule) are where the dispute is genuinely contested. The Deutsch-Wallace decision-theoretic program in Wallace's *The Emergent Multiverse* (2012) is the strongest book-length development of this line, and the Map engages it at full resolution in [probability-problem-in-many-worlds](/topics/probability-problem-in-many-worlds/) rather than dispatching it here.
+
+The Map's own reservation is calibrated honestly as a framework-boundary disagreement, not an in-framework refutation. The Map cannot show, using only resources MWI accepts, that branch-relative indexicality is false. What it holds—on its [Dualism](/tenets/#dualism) and [No Many Worlds](/tenets/#no-many-worlds) tenets—is that first-person indexicality is genuinely one-branch-at-a-time, a real further fact about which successor *I* am that the third-person branch structure does not exhaust. That commitment is carried in openly as a tenet; it earns its place by absorbing the cross-branch personal-identity cost the Deutsch-Wallace recovery needs and the probability problem that comes with it. Where MWI dissolves the indexical question, the Map holds it must be answered—and says plainly that this is a disagreement at the boundary of the two frameworks, not a defeat of MWI inside its own. See [many-worlds](/concepts/many-worlds/) and [probability-problem-in-many-worlds](/topics/probability-problem-in-many-worlds/) for the detailed treatment.
 
 No interpretation is proven. The Map does not claim to know which is correct. What it claims is that the interpretive landscape is open enough—and the failure of consciousness-eliminating interpretations severe enough—that taking consciousness seriously as a participant in quantum mechanics remains a live philosophical option.
 
@@ -186,3 +188,7 @@ No interpretation is proven. The Map does not claim to know which is correct. Wh
 18. Lewis, P. J. (2024). A dilemma for relational quantum mechanics. *Principia: An International Journal of Epistemology*, 28(3).
 19. Muciño, R., Okon, E., & Sudarsky, D. (2022). Assessing Relational Quantum Mechanics. *Synthese*, 200(5).
 20. Rovelli, C. (2021). A response to the Mucino-Okon-Sudarsky's assessment of Relational Quantum Mechanics. arXiv:2106.03205.
+21. Saunders, S. (2010). Chance in the Everett interpretation. In Saunders, Barrett, Kent & Wallace (eds.), *Many Worlds? Everett, Quantum Theory, and Reality*, Oxford University Press.
+22. Sebens, C. T., & Carroll, S. M. (2018). Self-locating uncertainty and the origin of probability in Everettian quantum mechanics. *British Journal for the Philosophy of Science*, 69(1), 25–74.
+23. Lewis, P. J. (2007). Uncertainty and probability for branching selves. *Studies in History and Philosophy of Modern Physics*, 38, 1–14.
+24. Friederich, S., & Dawid, R. (2022). Epistemic separability and Everettian branches: a critique of Sebens and Carroll. *British Journal for the Philosophy of Science*, 73(3), 711–736.

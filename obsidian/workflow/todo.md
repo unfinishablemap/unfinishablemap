@@ -45,14 +45,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: pessimistic-review-2026-05-23
 - **Generated**: 2026-05-23
 
-### P2: Sustained engagement with Wallace 2012 in MWI cluster
-- **Type**: refine-draft
-- **Status**: pending
-- **Notes**: Outer-review 2026-05-22 Claude Opus 4.7 §4 (Tenet 4), §8 P4. The Map's MWI rejection currently leans on the indexical objection to self-locating uncertainty, treating "self-locating uncertainty presupposes there's a fact about 'where I am' to be uncertain about" as a stopping point. But this is itself a contested move in a 30-year live dispute. Wallace's *The Emergent Multiverse* (2012, Oxford) is the strongest book-length defence of decision-theoretic probability under Everett and deserves sustained engagement rather than the brief dispatching it currently receives in `topics/probability-problem-in-many-worlds.md` and `topics/qm-interpretations-beyond-many-worlds.md`. Refine pass should: (a) work through Wallace's specific decision-theoretic recovery (the Deutsch-Wallace theorem, the dependence on rationality axioms) at full resolution in `topics/probability-problem-in-many-worlds.md`; (b) engage Saunders and Sebens-Carroll's self-locating-uncertainty derivations as the strongest existing replies to the indexical objection; (c) make explicit which premises of the Wallace argument the Map rejects, and why those premise-rejections do not themselves beg the question; (d) calibrate honestly — this is closer to framework-boundary marking than in-framework refutation, and that should be visible in the prose. Apply the direct-refutation discipline. Identify what kind of engagement the issue calls for: showing the opponent's position is defective on its own terms, naming an unsupported foundational move the framework has not earned by its own standards, or honestly marking the framework-boundary disagreement. Apply the corresponding reply mode in **natural journal-quality prose** — see [[writing-style|the writing-style guide]]'s "Engaging Opponents in Journal-Quality Prose" section. **Do not expose mode labels in the article body.** Tenet alignment: Tenet 4 (No Many Worlds) — sustained engagement with the strongest MWI defence; Tenet 5 (bounded Occam) — making explicit why parsimony cannot do the work.
-- **Review file**: `reviews/outer-review-2026-05-22-claude-opus-4-7.md`
-- **Source**: outer-review
-- **Generated**: 2026-05-23
-
 ### P2: Engage Butlin et al. 2023 empirical-AI-consciousness framework in machine-question cluster
 - **Type**: refine-draft
 - **Status**: pending
@@ -219,6 +211,14 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Status**: pending
 - **Notes**: Article re-expanded well past the 3000-word target after the May 2026 condense (3134 words) through several subsequent opponent-engagement refine passes (Frankish/Berent illusionism, Berent cross-cultural debunking, Laudan/Whewell/Bayesian literature, common-cause-null). The added engagement is load-bearing and should be preserved — condense by tightening exposition and removing redundancy across the three-conditions and divergence sections, not by deleting the named-opponent replies. Validate against `tools/curate` length threshold afterward.
 - **Source**: refine-draft 2026-05-25 (Berent/Frankish engagement pass)
+- **Generated**: 2026-05-25
+
+### P3: Condense probability-problem-in-many-worlds (length ~4569 words, 152% of target)
+- **Type**: condense
+- **File**: obsidian/topics/probability-problem-in-many-worlds.md
+- **Status**: pending
+- **Notes**: Article expanded during the 2026-05-25 Wallace-engagement refine (outer-review 2026-05-22 §8 P4) — full-resolution Deutsch-Wallace theorem treatment, branching-indifference premise-rejection, Saunders/Sebens-Carroll self-locating derivations, and the "Where the Map's Disagreement Actually Falls" boundary-marking subsection. The added engagement is load-bearing (it is the P4 mandate) and must be preserved. Condense by tightening exposition and trimming redundancy across the decision-theoretic and self-locating sections, not by removing the Wallace engagement or the honest boundary calibration. Validate against `tools/curate` length threshold afterward.
+- **Source**: refine-draft 2026-05-25 (Wallace MWI engagement pass)
 - **Generated**: 2026-05-25
 
 ### ✓ 2026-05-19: Write concept page on constitutive-vs-referring observation (resolved obsolete during replenish-queue)
@@ -3927,6 +3927,10 @@ Tasks that failed 3+ times and require human intervention.
 
 Ideas that were considered and rejected. The AI will not re-propose these.
 
+
+### ✓ 2026-05-25: Sustained engagement with Wallace 2012 in MWI cluster
+- **Type**: refine-draft
+- **Notes**: Outer-review 2026-05-22 Claude Opus 4.7 §4 (Tenet 4), §8 P4. The Map's MWI rejection currently leans on the indexical objection to self-locating uncertainty, treating "self-locating uncertainty presupposes there's a fact about 'where I am' to be uncertain about" as a stopping point. But this is itself a contested move in a 30-year live dispute. Wallace's *The Emergent Multiverse* (2012, Oxford) is the strongest book-length defence of decision-theoretic probability under Everett and deserves sustained engagement rather than the brief dispatching it currently receives in `topics/probability-problem-in-many-worlds.md` and `topics/qm-interpretations-beyond-many-worlds.md`. Refine pass should: (a) work through Wallace's specific decision-theoretic recovery (the Deutsch-Wallace theorem, the dependence on rationality axioms) at full resolution in `topics/probability-problem-in-many-worlds.md`; (b) engage Saunders and Sebens-Carroll's self-locating-uncertainty derivations as the strongest existing replies to the indexical objection; (c) make explicit which premises of the Wallace argument the Map rejects, and why those premise-rejections do not themselves beg the question; (d) calibrate honestly — this is closer to framework-boundary marking than in-framework refutation, and that should be visible in the prose. Apply the direct-refutation discipline. Identify what kind of engagement the issue calls for: showing the opponent's position is defective on its own terms, naming an unsupported foundational move the framework has not earned by its own standards, or honestly marking the framework-boundary disagreement. Apply the corresponding reply mode in **natural journal-quality prose** — see [[writing-style|the writing-style guide]]'s "Engaging Opponents in Journal-Quality Prose" section. **Do not expose mode labels in the article body.** Tenet alignment: Tenet 4 (No Many Worlds) — sustained engagement with the strongest MWI defence; Tenet 5 (bounded Occam) — making explicit why parsimony cannot do the work.
 
 ### ✓ 2026-05-25: Adopt phenomenal-consciousness calibration in consciousness-and-the-metaphysics-of-composition
 - **Type**: refine-draft

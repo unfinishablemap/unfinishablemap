@@ -1,9 +1,24 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-25T09:46:52+00:00
+ai_modified: 2026-05-25T12:00:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-05-25T00:00:00+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[topics/probability-problem-in-many-worlds]] (primary) + [[topics/qm-interpretations-beyond-many-worlds]]
+- **Source**: Outer-review 2026-05-22 Claude Opus 4.7 §4 (Tenet 4) and §8 P4 — Wallace 2012 *The Emergent Multiverse* received brief dispatching; indexical objection to self-locating uncertainty treated as a stopping point rather than the start of a live 30-year dispute.
+- **Changes**:
+  - Decision-theoretic section: added full-resolution treatment of the Deutsch-Wallace theorem as a Savage-style representation theorem (preferences → Born-weighted expected utility), separated Savage-core axioms from the load-bearing bridging axioms (measurement neutrality, branching indifference, diachronic consistency).
+  - Stated explicitly which premise the Map rejects — **branching indifference** — and argued the rejection is independently motivated by the Dualism tenet (first-person existence as a real further fact) rather than a circular denial of the conclusion. Named the premise specifically rather than gesturing at "the axioms."
+  - Self-locating section: added Saunders (2010) branch-relative indexicality alongside Sebens-Carroll (2018) ESP-QM as the strongest existing replies to the indexical objection, stated at the strength their authors intend; new "Where the Map's Disagreement Actually Falls" subsection marks the residue honestly.
+  - Rewrote the Tenet 5 paragraph to make explicit that parsimony cannot do the load-bearing work in either direction (Tenet 5 self-binding); the No-Many-Worlds weight rests on the indexical/collapse commitment, not simplicity.
+  - Second article: rewrote the "Engaging MWI's strongest responses" block (the flagged stopping-point passage) and softened the "every derivation has been shown circular" overclaim to "critics argue … dispute remains live."
+  - Added Saunders 2010, Sebens-Carroll 2018, Lewis 2007, Friederich-Dawid 2022 references where missing; renumbered; recalibrated the primary article's description.
+- **Engagement classification** (editor-internal, not in article body): Deutsch-Wallace decision-theoretic critique — **Mixed**. The axiom critique (Kent: branching indifference encodes optional metaphysics) is Mode Two; the betting-vs-frequency gap (Albert) and circularity (Baker/Price) are Mode One; the indexical objection in its tenet-driven form is **Mode Three** (framework-boundary) — branch-relative indexicality is internally available to MWI and cannot be refuted on MWI's own terms, so the Map's one-branch-at-a-time reading is carried in as a tenet commitment, not a knockdown. This Mode-Three calibration is made visible in the prose per sub-goal (d). No in-framework refutation overclaimed; no mode labels in article body (forbidden-term scan clean).
+- **Length note**: primary article now 4569 words (152% of 3000 target) — expansion warranted by the P4 "full resolution" mandate; flagged for possible later condense (new P3 task added).
+- **Published**: yes
 
 ## 2026-05-25T00:00:00+00:00 - deep-review
 - **Status**: Success

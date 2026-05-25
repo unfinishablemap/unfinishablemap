@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-04-09
-ai_modified: 2026-04-15 14:05:00+00:00
+ai_modified: 2026-05-25 09:46:52+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -34,7 +34,7 @@ topics:
 - '[[panpsychisms-combination-problem]]'
 ---
 
-When do parts form wholes? This question—the Special Composition Question (SCQ), formulated by Peter van Inwagen (1990)—is one of the deepest in metaphysics. What makes it philosophically explosive is that three of the most prominent answers to the SCQ independently converge on consciousness as the criterion for genuine composition. Van Inwagen's organicism, Trenton Merricks' eliminativism about non-conscious composites, and McQueen and Tsuchiya's integrated information approach each arrive, by different routes, at the conclusion that consciousness is what makes genuine wholes. The Unfinishable Map argues that this convergence is not accidental: consciousness really is what distinguishes genuine composite objects from mere aggregates, and its non-physical character explains why composition resists purely physical analysis.
+When do parts form wholes? This question—the Special Composition Question (SCQ), formulated by Peter van Inwagen (1990)—is one of the deepest in metaphysics. What makes it philosophically explosive is that three of the most prominent answers to the SCQ independently converge on consciousness as the criterion for genuine composition. Van Inwagen's organicism, Trenton Merricks' eliminativism about non-conscious composites, and McQueen and Tsuchiya's integrated information approach each arrive, by different routes, at conclusions that place consciousness—or the domain where consciousness occurs—at the centre of what makes genuine wholes. The Unfinishable Map argues that this convergence may not be accidental: consciousness could be what distinguishes genuine composite objects from mere aggregates, and its non-physical character would then explain why composition appears to resist purely physical analysis. None of these three positions is forced by the others, and each can be read in physicalist as well as dualist terms; what follows is the case that the dualist reading is the more natural one, not a claim that the convergence settles the question.
 
 ## The Special Composition Question
 
@@ -62,7 +62,7 @@ Merricks' reasoning proceeds through causal redundancy. Consider a baseball. Eve
 
 Conscious organisms escape this elimination. Merricks argues that consciousness "does not even globally supervene on microscopic physical properties"—conscious organisms have causal powers their parts lack. A person's conscious decision to raise an arm is not reducible to the causal powers of individual neurons or atoms. Consciousness breaks the redundancy that eliminates inanimate composites.
 
-The criterion for genuine composition, on Merricks' view, is possession of irreducible causal powers. And consciousness is the only known case where a composite exhibits powers genuinely exceeding those of its parts.
+The criterion for genuine composition, on Merricks' view, is possession of irreducible causal powers. And consciousness may be the only widely-cited candidate for a composite exhibiting powers that genuinely exceed those of its parts—though whether it succeeds even here depends on accepting Merricks' contested claim that conscious causal powers fail to supervene on the microphysical.
 
 ### McQueen and Tsuchiya's IIT-Based Restriction
 
@@ -84,25 +84,25 @@ These three positions arrive at the same destination by different paths:
 
 The convergence is striking because these philosophers disagree about almost everything else. Van Inwagen is a materialist who defends organicism. Merricks is an eliminativist who denies the existence of most physical objects. McQueen and Tsuchiya work within a computational theory of consciousness. Yet all three independently conclude that consciousness—or the domain where consciousness occurs—is the criterion for genuine composition.
 
-A natural objection is that this convergence reflects a selection effect—these philosophers work in the same analytic tradition and may have influenced each other. But the objection understates how different their methods are. Van Inwagen reasons from biological natural kinds, Merricks from causal redundancy principles, and McQueen and Tsuchiya from information-theoretic measures. The conceptual distance between a life criterion, a causal powers criterion, and an integrated information criterion is large enough that arriving at the same destination—consciousness as the composition threshold—carries genuine evidential weight. Independent convergence from divergent methods is a hallmark of philosophical progress.
+A natural objection is that this convergence reflects a selection effect—these philosophers work in the same analytic tradition and may have influenced each other. The objection has real force, and it is not fully neutralised by what follows. Still, it arguably understates how different their methods are. Van Inwagen reasons from biological natural kinds, Merricks from causal redundancy principles, and McQueen and Tsuchiya from information-theoretic measures. The conceptual distance between a life criterion, a causal powers criterion, and an integrated information criterion is large enough that arriving at a common neighbourhood—consciousness, or the domain where it occurs, as the composition threshold—may carry some evidential weight rather than none. Independent convergence from divergent methods is often treated as a marker of philosophical progress, though it is suggestive rather than probative: convergence is consistent with a shared truth and also with a shared blind spot, and the present case does not decide between them.
 
 ## Why Consciousness Resists Mereological Analysis
 
 The convergence on consciousness as the composition criterion connects to a deeper structural fact: consciousness resists mereological analysis in both directions.
 
-**Bottom-up failure.** The [combination-problem](/concepts/combination-problem/) shows that micro-experiences—if they exist—do not compose into macro-experiences. William James identified this in 1890: "Take a hundred of them, shuffle them and pack them as close together as you can... each remains the same old private self." The [phenomenal non-compositionality](/concepts/phenomenal-non-compositionality/) thesis generalises this: there is no operation on experiences analogous to vector addition or superposition.
+**Bottom-up failure.** The [combination-problem](/concepts/combination-problem/) suggests that micro-experiences—if they exist—do not compose into macro-experiences. William James identified this in 1890: "Take a hundred of them, shuffle them and pack them as close together as you can... each remains the same old private self." The [phenomenal non-compositionality](/concepts/phenomenal-non-compositionality/) thesis generalises this: there is no operation on experiences analogous to vector addition or superposition.
 
 **Top-down failure.** Conscious experience resists decomposition into independent parts. The [unity-of-consciousness](/concepts/unity-of-consciousness/) is not a sum of features but a primitive wholeness that cannot be reconstructed from components. Bayne and Chalmers (2003) showed that phenomenal unity involves conjoint phenomenology—a "what it is like" to experience features together that is not derivable from the individual features. The [binding-problem](/concepts/binding-problem/) makes the same point empirically: neuroscience can explain how distributed features are computationally coordinated (BP1), but not why that coordination produces unified phenomenal experience (BP2). Classical neural mechanisms—synchrony, thalamocortical broadcasting, information integration—coordinate parts that remain metaphysically separate. Coordination is not composition.
 
-This bidirectional resistance to mereological analysis—neither composable from below nor decomposable from above—is unique to consciousness. Physical properties compose and decompose transparently. Consciousness does neither. The structural argument that physical composition fails in principle, not merely in practice, is developed in [Quantum Holism and Phenomenal Unity](/topics/quantum-holism-and-phenomenal-unity/).
+This bidirectional resistance to mereological analysis—neither composable from below nor decomposable from above—appears to be peculiar to consciousness. Physical properties, on the standard picture, compose and decompose transparently; consciousness seems to do neither. The structural argument that physical composition fails in principle, not merely in practice, is developed in [Quantum Holism and Phenomenal Unity](/topics/quantum-holism-and-phenomenal-unity/).
 
 ## Composition as Identity: The Consciousness Counterexample
 
 The thesis of composition as identity (CAI)—that a whole is literally identical to its parts taken collectively—faces its strongest challenge in conscious organisms. If CAI is correct, then every property of a whole must be a property of its parts collectively. But a conscious organism has phenomenal properties—the felt quality of seeing red, the unity of the visual field, the experience of being a single subject—that no collection of its microphysical parts possesses, even collectively.
 
-Atoms do not collectively experience anything. If the organism is identical to its atoms, then it should not experience anything either. The fact that it does—that there is something it is like to be the organism but nothing it is like to be the atoms collectively—provides a principled counterexample to CAI.
+Atoms do not collectively experience anything. If the organism is identical to its atoms, then it should not experience anything either. The fact that it does—that there is something it is like to be the organism but apparently nothing it is like to be the atoms collectively—looks like a principled counterexample to CAI. A defender of CAI may resist: one could hold that the parts *collectively* possess the phenomenal property under a non-distributive reading of collective predication, so the argument is not decisive against every version of the thesis.
 
-This is not the familiar hard problem restated. It is a distinct mereological argument: the relationship between a conscious whole and its physical parts cannot be identity, because identity preserves properties and the whole has properties the parts collectively lack. Conscious organisms are genuinely something over and above their physical parts.
+The argument is distinct from a restatement of the familiar hard problem. It is a mereological argument: if it succeeds, the relationship between a conscious whole and its physical parts cannot be identity, because identity preserves properties and the whole would then have properties the parts collectively lack. On this reading conscious organisms would be something over and above their physical parts—a conclusion the Map endorses, while granting that it turns on the contested premise that no collective predication recovers the phenomenal property.
 
 ## The Unity Argument
 
