@@ -1,9 +1,19 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-25T10:44:48+00:00
+ai_modified: 2026-05-25T10:54:11+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-05-25T10:54:11+00:00 - deep-review
+- **Status**: Success (no content changes — article stable, 4th review)
+- **File**: [[topics/dual-domain-capabilities-in-proprioception-and-spatial-imagination]]
+- **Word count**: 2102 → 2102 (no change)
+- **Critical issues addressed**: 0 (none found)
+- **Medium issues addressed**: 0 (prior medium issues remain resolved)
+- **Enhancements made**: 0 (article concise, complete, well-integrated; phantom-limb restraint and quantum hedging are strengths to preserve)
+- **Calibration check**: passed — phantom-limb section and MQI paragraph both decline tenet-as-evidence-upgrade; no possibility/probability slippage. Opponent engagements: epiphenomenalism Mode Three, pure-physical accounts Mode One-leaning; no label leakage.
+- **Output**: [[reviews/deep-review-2026-05-25-dual-domain-capabilities-in-proprioception-and-spatial-imagination]]
 
 ## 2026-05-25T10:44:48+00:00 - expand-topic
 - **Status**: Success
