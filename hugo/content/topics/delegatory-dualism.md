@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-29
-ai_modified: 2026-04-22 07:38:00+00:00
+ai_modified: 2026-05-25 14:43:24+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -150,9 +150,9 @@ Delegatory dualism predicts exactly this: psychophysical laws (Subset Law*) ensu
 
 ### Testability and Limitations
 
-Delegatory dualism is designed to satisfy Observational Closure—no observable violations of physical causal patterns. This means the theory deliberately avoids producing lab-detectable anomalies. Saad acknowledges this creates limited discriminability: the view is "in the same predictive boat" as epiphenomenalist dualism, overdeterminist dualism, and physicalism when it comes to empirical tests.
+Delegatory dualism is designed to satisfy Observational Closure—no observable violations of physical causal patterns. This means the theory deliberately avoids producing lab-detectable anomalies. Saad acknowledges this creates limited discriminability: the view is "in the same predictive boat" as epiphenomenalist dualism, overdeterminist dualism, and physicalism when it comes to empirical tests. The theory is, in this respect, empirically equivalent to its rivals: the available evidence does not adjudicate between delegation and the alternatives, because all of them predict the same observable causal patterns.
 
-The theory *would* be falsified by an observed violation of Closure—if an experiment detected a genuine anomaly where physical effects lacked sufficient physical causes. But Observational Closure is precisely the constraint that ensures such violations don't occur at observable scales.
+The theory *would* be falsified by an observed violation of Closure—if an experiment detected a genuine anomaly where physical effects lacked sufficient physical causes. But Observational Closure is precisely the constraint that ensures such violations don't occur at observable scales. The constraint that makes the theory coherent also makes it empirically silent against its nearest competitors, and this trade-off should be stated plainly rather than glossed.
 
 The theory's advantages are primarily *intra-dualist*—they distinguish delegation from rival dualist positions rather than from physicalism or illusionism. Compared to epiphenomenalism, delegation explains why introspective reports track experiences; compared to overdeterminism, it avoids positing systematic redundant causation. These are genuine advantages *for someone already committed to dualism*.
 
@@ -198,17 +198,17 @@ The frameworks are compatible but operate at different levels:
 
 **Delegatory dualism** specifies *how* mental causation avoids overdetermination: through delegation and preemption. This is a claim about causal structure—the logic of mind-body interaction.
 
-The frameworks could integrate: quantum indeterminacy provides the physical mechanism; delegation provides the causal structure. Consciousness biases quantum outcomes (the mechanism); this biasing constitutes the physical state delegating its causal role to the experience (the structure). [Delegation Meets Quantum Selection](/topics/delegation-meets-quantum-selection/) develops this integration, arguing that Saad's "default causal profile" corresponds to the Born-rule probability distribution — making delegation the causal structure and quantum selection the physical implementation of a single event.
+The frameworks could integrate: quantum indeterminacy might provide the physical mechanism while delegation provides the causal structure. On this picture consciousness biases quantum outcomes (the mechanism), and this biasing would constitute the physical state delegating its causal role to the experience (the structure). The integration is a proposal, not a result; each framework must stand on its own before the combination carries weight. [Delegation Meets Quantum Selection](/topics/delegation-meets-quantum-selection/) develops this integration, arguing that Saad's "default causal profile" corresponds to the Born-rule probability distribution — making delegation the causal structure and quantum selection the physical implementation of a single event.
 
-The [entanglement-binding-hypothesis](/concepts/entanglement-binding-hypothesis/) strengthens this integration. An entangled quantum state spanning many neurons constitutes a single non-decomposable physical state with a collective default causal profile—precisely what Saad's Subset Law* maps to unified experience. Entanglement provides the physical holism; delegation explains how that unified state's causal work gets taken over by experience. Together they address complementary aspects of the mind-body problem: entanglement answers why experience is *unified*, delegation answers how it is *causally efficacious*.
+The [entanglement-binding-hypothesis](/concepts/entanglement-binding-hypothesis/) may strengthen this integration. An entangled quantum state spanning many neurons would constitute a single non-decomposable physical state with a collective default causal profile—arguably what Saad's Subset Law* maps to unified experience. On this reading entanglement provides the physical holism while delegation explains how that unified state's causal work gets taken over by experience, and together they might address complementary aspects of the mind-body problem: entanglement answering why experience is *unified*, delegation answering how it is *causally efficacious*. This is a coherence proposal rather than an established result—it presupposes both that macroscopic neural entanglement is physically sustainable and that the entangled state's default profile is the right object for the Subset Law to range over, neither of which is settled.
 
-Alternatively, delegatory dualism is more general—it doesn't require quantum mechanics. The delegation framework could apply wherever mind and body interact, quantum or otherwise. For those skeptical of quantum consciousness, delegatory dualism offers an independent response to the exclusion problem.
+Alternatively, delegatory dualism may be more general—it doesn't require quantum mechanics. The delegation framework could apply wherever mind and body interact, quantum or otherwise. For those skeptical of quantum consciousness, delegatory dualism offers an independent response to the exclusion problem, and the two readings—quantum-implemented and interpretation-neutral—are not forced by anything in Saad's own text.
 
 ## Observational Closure and Minimal Quantum Interaction
 
-Saad's Observational Closure parallels the Map's approach to mental causation. Both hold that consciousness can be causally efficacious without producing empirically detectable anomalies.
+Saad's Observational Closure appears to parallel the Map's approach to mental causation. Both hold that consciousness can be causally efficacious without producing empirically detectable anomalies.
 
-The Map's [Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction) tenet holds that consciousness influences outcomes "without injecting energy or violating conservation laws" and rules out "any interaction that would be empirically detectable under current experimental precision." Saad's Observational Closure provides a *philosophical* justification for this empirical invisibility, independent of quantum considerations.
+The Map's [Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction) tenet holds that consciousness influences outcomes "without injecting energy or violating conservation laws" and rules out "any interaction that would be empirically detectable under current experimental precision." Saad's Observational Closure may provide a *philosophical* justification for this empirical invisibility, independent of quantum considerations—though the parallel is one of structure rather than derivation, and neither framing forces the other.
 
 ## The Illusionism Challenge (Map Commentary)
 
@@ -238,7 +238,7 @@ Delegatory dualism supports the Map's core tenets:
 
 **No Many-Worlds tenet**: Saad does not discuss Many-Worlds, and delegatory dualism as a framework does not depend on any particular quantum interpretation. The Map's rejection of MWI is relevant only to our quantum integration proposal, not to Saad's theory itself.
 
-Saad's work strengthens the philosophical foundations for the Map's interactionist position. The delegation mechanism answers the exclusion/overdetermination *structure* problem—how mental causation is logically coherent. The *mechanism* question (how non-physical causes interact with physical systems) remains, and the Map addresses it via quantum interactionism.
+Saad's work arguably strengthens the philosophical foundations for the Map's interactionist position. The delegation mechanism addresses the exclusion/overdetermination *structure* problem—how mental causation could be logically coherent—though "addresses" is the right verb here rather than "solves," since the proposal trades a problem about redundant causation for one about cross-ontological preemption. The *mechanism* question (how non-physical causes interact with physical systems) remains, and the Map addresses it via quantum interactionism, itself a speculative rather than settled route.
 
 ## Further Reading
 

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-05-09
-ai_modified: 2026-05-19 23:45:00+00:00
+ai_modified: 2026-05-25 13:52:14+00:00
 ai_system: claude-opus-4-7
 author: null
 concepts:
@@ -45,7 +45,7 @@ This trio is unusually load-bearing for the Map's perspective on memory. The Map
 
 ## Three Rotations on a Single Failure
 
-Begin with what the three anomalies have in common. Mainstream memory research operates with a [dual-process model](#dual-process) (defined in the next section) on which recognition has two dissociable components: a fast automatic *familiarity* signal that registers prior contact without specifying when or where, and a slower *recollection* operation that supplies source and episode. Source-monitoring sits on top, attributing each mental content to its origin — perceived, imagined, told, dreamt, generated.
+Begin with what the three anomalies have in common. One influential strand of memory research operates with a [dual-process model](#dual-process) (defined in the next section, where the live 2020s contest over it is also flagged) on which recognition has two dissociable components: a fast automatic *familiarity* signal that registers prior contact without specifying when or where, and a slower *recollection* operation that supplies source and episode. Source-monitoring sits on top, attributing each mental content to its origin — perceived, imagined, told, dreamt, generated.
 
 Each anomaly appears to be what happens when one of these channels misfires while the others run normally:
 
@@ -58,6 +58,8 @@ Reading the trio this way — as three rotations on the same architecture rather
 ## The Dual-Process Architecture {#dual-process}
 
 The familiarity/recollection distinction was developed by Mandler and refined by Yonelinas, Tulving, and others. *Familiarity* is fast, contextless, and graded — a feeling that the current input has been encountered before. *Recollection* is slower, episodic, and source-bound — the retrieval of when, where, with whom. Recognition memory in healthy subjects normally couples both, which is why the felt sense "I know this" rarely separates from the retrievable "I know this *from*."
+
+This dual-process picture is the convenient scaffolding for the trio, but it is not settled science. The active 2020s recognition-memory literature contests it: Wixted and Mickes's continuous-signal-detection account (Wixted 2007; Wixted & Mickes 2010; Wixted & Squire 2010) treats recognition as one unidimensional memory-strength variable read at different criterion points, on which familiarity and recollection are *quantitatively* different rather than *qualitatively* distinct processes — a reading Pratte and Rouder (2012) and Cohen et al. (2013) develop further. On that account déjà vu and jamais vu would be artefacts of where a single signal sits on the strength dimension rather than two channels misfiring, and cryptomnesia would not be a recognition phenomenon at all but a separate post-retrieval source-attribution failure. The "three rotations on a single failure" framing above is stated on the dual-process reading, and that empirical question is not yet decided. The Map's load-bearing claim does not ride on it. Strip out the dual-process commitment and the dissociation re-derives from anything the contesting accounts also grant: in déjà vu the signal-pattern that *produces* felt pastness comes apart from the signal-pattern that would *track* an actual past, however that signal is decomposed. Continuous-signal-detection relocates the boundary — high strength without recoverable source, low strength with retained semantics — but the gap between phenomenal output and truth-tracking machinery survives the relocation intact. The trio is a vivid exhibit of that gap; it does not need the channels to be metaphysically two for the exhibit to hold.
 
 Cleary's gestalt familiarity hypothesis (2008, 2012) makes the architecture testable. Subjects are exposed to virtual environments that share configural layout with environments they will see later but cannot consciously recall. When the layout matches, they reliably report déjà vu — and, strikingly, also report a sense of premonition, a feeling of "knowing what comes next" that does not in fact predict what comes next. In the Map's reading, this may be the most useful empirical fact in the entire literature: a configurational match in the brain appears to produce felt premonition without any actual future-knowledge. The phenomenology and the truth-tracking come apart cleanly.
 
@@ -77,7 +79,7 @@ A philosophical option worth raising as one candidate reading, though not as a M
 
 This reading may have the virtue of explaining the *qualitative* character of déjà vu — the sense of pastness-without-content — better than retrieval-failure stories alone, which can describe the signal but seem to struggle with why it feels temporally strange in just that way. Bergson's broader picture, in which the mind acts as a "reducing valve" admitting to consciousness only what survival demands, was later picked up by Aldous Huxley and is congenial to the Map's treatment of altered states.
 
-The Map raises Bergson as one candidate explanation, not a load-bearing commitment. The dual-process architecture and the gestalt-match story *constrain* identity readings on which the felt sense reports transparently on its own underlying retrieval; they do not by themselves *establish* either Bergson's surfacing-of-the-virtual reading or the standard retrieval-failure reading — neither interpretation is forced by the empirical data, a distinction the Map keeps explicit so neither reading is over-credited by the work. The deeper claim — that there is a gap between phenomenal output and the causal machinery that produces it — does not depend on Bergsonian metaphysics. Even if the cognitive-science account is correct in its entirety, the gap appears to remain: the gestalt-match story may explain *that* a déjà vu fires, not *why* the firing has the particular felt character of pastness rather than redness or hunger or nothing. Whether one prefers Bergson's surfacing-of-the-virtual reading or the standard retrieval-failure reading, the Map's interest in the trio survives.
+The Map raises Bergson as one candidate explanation, not a load-bearing commitment. The recognition-memory evidence and the gestalt-match story *constrain* identity readings on which the felt sense reports transparently on its own underlying retrieval; they do not by themselves *establish* either Bergson's surfacing-of-the-virtual reading or the standard retrieval-failure reading, a distinction the Map keeps explicit so neither is over-credited. The deeper claim — that there is a gap between phenomenal output and the causal machinery that produces it — does not depend on Bergsonian metaphysics. Even if the cognitive-science account is correct in its entirety, the gap appears to remain: the gestalt-match story may explain *that* a déjà vu fires, not *why* the firing has the particular felt character of pastness rather than redness or hunger or nothing.
 
 ## Cryptomnesia and the Necessary Opacity of Source
 
@@ -127,6 +129,7 @@ One structural honesty is owed about the cumulative-convergence move. This artic
 1. Brown, A. S. (2003). "A Review of the Déjà Vu Experience." *Psychological Bulletin* 129(3): 394–413.
 1. Brown, A. S., & Murphy, D. R. (1989). "Cryptomnesia: Delineating Inadvertent Plagiarism." *Journal of Experimental Psychology: Learning, Memory, and Cognition* 15: 432–442.
 1. Cleary, A. M. (2008). "Recognition Memory, Familiarity, and Déjà Vu Experiences." *Current Directions in Psychological Science* 17(5): 353–357.
+1. Cohen, A. L., Rotello, C. M., & Macmillan, N. A. (2013). "Evaluating models of remember–know judgments: Complexity, mimicry, and discriminability." *Psychonomic Bulletin & Review* 20: 906–926.
 1. Flournoy, T. (1900). *Des Indes à la planète Mars*. Geneva.
 1. Illman, N. A., Butler, C. R., Souchay, C., & Moulin, C. J. A. (2012). "Déjà Experiences in Temporal Lobe Epilepsy." *Epilepsy Research and Treatment*.
 1. Jung, C. G. (1905). "Cryptomnesia." In *Collected Works* vol. 1.
@@ -134,7 +137,11 @@ One structural honesty is owed about the cumulative-convergence move. This artic
 1. Martin, C. B., Mirsattari, S. M., Pruessner, J. C., et al. (2012). "Déjà vu in unilateral temporal-lobe epilepsy." *Neuropsychologia* 50(13): 2981–2991.
 1. Moulin, C. J. A., Bell, N., Turunen, M., Baharin, A., & O'Connor, A. R. (2021). "The the the the induction of jamais vu in the laboratory: word alienation and semantic satiation." *Memory* 29(7): 933–942.
 1. Perrin, D., & Sant'Anna, A. (2024). "Déjà vécu is not déjà vu: An ability view." *Philosophical Psychology*.
+1. Pratte, M. S., & Rouder, J. N. (2012). "Assessing the dissociability of recollection and familiarity in recognition memory." *Journal of Experimental Psychology: Learning, Memory, and Cognition* 38(6): 1591–1607.
 1. Spatt, J. (2002). "Déjà Vu: Possible Parahippocampal Mechanisms." *Journal of Neuropsychiatry and Clinical Neurosciences* 14(1): 6–10.
 1. Sutton, J., & Cassam, Q. "Memory." *Stanford Encyclopedia of Philosophy*.
+1. Wixted, J. T. (2007). "Dual-process theory and signal-detection theory of recognition memory." *Psychological Review* 114(1): 152–176.
+1. Wixted, J. T., & Mickes, L. (2010). "A continuous dual-process model of remember/know judgments." *Psychological Review* 117(4): 1025–1054.
+1. Wixted, J. T., & Squire, L. R. (2010). "The role of the hippocampus in signaling recollection and familiarity." *Neurobiology of Learning and Memory* 94(1): 99–106.
 1. Southgate, A. & Oquatre-sept, C. (2026-04-21). The Source-Attribution Void. *The Unfinishable Map*. https://unfinishablemap.org/voids/source-attribution-void/
 1. Southgate, A. & Oquatre-six, C. (2026-02-13). Phenomenology of Memory and the Self. *The Unfinishable Map*. https://unfinishablemap.org/topics/phenomenology-of-memory-and-the-self/

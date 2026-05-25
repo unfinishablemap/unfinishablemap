@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-14
-ai_modified: 2026-05-23 16:30:00+00:00
+ai_modified: 2026-05-25 00:00:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -38,101 +38,79 @@ topics:
 - '[[hard-problem-of-consciousness]]'
 ---
 
-Dualism comes in two main varieties: substance dualism and property dualism. The first holds that mind and body are different *kinds of thing*—distinct substances. The second holds that mental properties are genuinely different from physical properties, without positing separate substances. Both reject [materialism's](/concepts/materialism/) claim that everything is ultimately physical, but they disagree about the underlying metaphysical structure.
+Dualism comes in two main varieties. Substance dualism holds that mind and body are different *kinds of thing*—distinct substances. Property dualism holds that mental properties are genuinely different from physical properties, without positing separate substances. Both reject [materialism's](/concepts/materialism/) claim that everything is ultimately physical, but disagree about the underlying metaphysical structure.
 
-The Unfinishable Map's [Dualism](/tenets/#dualism) tenet is compatible with either formulation. What matters philosophically is that consciousness is irreducible to physics and that mental properties are genuinely novel—not the precise ontological framework that grounds this irreducibility.
+The Unfinishable Map's [Dualism](/tenets/#dualism) tenet is compatible with either. What matters philosophically is that consciousness is irreducible to physics and that mental properties are genuinely novel—not the precise ontological framework that grounds this irreducibility. The Map leans toward substance dualism on agency-related questions (explained below), but treats the choice as a philosophical preference rather than a doctrinal requirement.
 
 ## Substance Dualism
 
 ### The Cartesian View
 
-René Descartes argued that mind (res cogitans) and body (res extensa) are entirely different kinds of substance. The body is extended in space, divisible, and operates mechanically. The mind is unextended, indivisible, and has the capacity for thought. I can imagine myself existing without my body, Descartes reasoned, but I cannot imagine myself existing without my mind. Therefore mind and body are separable in principle.
-
-Substance dualism makes consciousness fundamentally different from physical reality—not just in how it appears to us, but in its basic nature. Minds are genuine additions to the ontological inventory, over and above the physical furniture of the world.
+René Descartes argued that mind (res cogitans) and body (res extensa) are entirely different kinds of substance: the body extended, divisible, and mechanical; the mind unextended, indivisible, and thinking. Substance dualism makes consciousness fundamentally different from physical reality in its basic nature—minds are genuine additions to the ontological inventory, over and above the physical furniture of the world.
 
 ### Historical Challenges
 
-Princess Elizabeth of Bohemia pressed Descartes on a crucial difficulty: how can something unextended causally interact with something extended? If mind has no spatial location, how does it push on neurons? Descartes answered unsatisfactorily, pointing to the pineal gland without explaining how the interaction works.
+Princess Elizabeth of Bohemia pressed the central difficulty: how can something unextended causally interact with something extended? Descartes answered unsatisfactorily, pointing to the pineal gland. Leibniz sharpened the objection via conservation of momentum—if mind could push matter, it would inject energy, but physics says energy is conserved. The interaction seems to require abandoning either conservation laws or causal efficacy.
 
-Leibniz sharpened the objection by invoking conservation of momentum. If mind could push matter, it would have to inject energy. But physics says energy is conserved. The interaction seems to require either abandoning conservation laws or abandoning causal efficacy.
-
-These objections pushed many philosophers toward alternatives: parallelism, [epiphenomenalism](/concepts/epiphenomenalism/), or materialism. See [history-of-the-interaction-problem](/topics/history-of-the-interaction-problem/) for how quantum mechanics later reopened possibilities that Leibniz thought closed.
+These objections pushed many philosophers toward parallelism, [epiphenomenalism](/concepts/epiphenomenalism/), or materialism. See [history-of-the-interaction-problem](/topics/history-of-the-interaction-problem/) for how quantum mechanics later reopened possibilities that Leibniz thought closed.
 
 ### Contemporary Substance Dualism
 
 Modern substance dualists have resources unavailable to Descartes:
 
-**Quantum mechanics** provides openings where conservation laws don't rule out mental causation. At quantum indeterminacies, physics specifies probabilities but not outcomes. Consciousness could select among possibilities without injecting energy (see [conservation-laws-and-mental-causation](/concepts/conservation-laws-and-mental-causation/))—which aligns with the Map's [Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction) tenet.
+**Quantum mechanics** provides openings where conservation laws don't rule out mental causation. At quantum indeterminacies, physics specifies probabilities but not outcomes; consciousness could select among possibilities without injecting energy (see [conservation-laws-and-mental-causation](/concepts/conservation-laws-and-mental-causation/)), aligning with the Map's [Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction) tenet.
 
-**Naturalistic substance dualism** (E.J. Lowe, Dean Zimmerman) accepts that mental substances are part of the natural world, just not part of the physical world as physics describes it. This avoids the Cartesian separation between nature and mind while preserving genuine ontological distinctness.
-
-The subject combination problem provides one consideration favouring substance dualism: property dualism (especially panpsychist versions) struggles to explain how micro-experiences combine into unified macro-subjects. Substance dualism avoids this by positing unified mental substances from the start, rather than constructing them from simpler components. The combination problem has led some philosophers to prefer substance dualism or to seek alternative frameworks entirely.
+**Naturalistic substance dualism** (E.J. Lowe, Dean Zimmerman) accepts that mental substances are part of the natural world, just not the physical world as physics describes it—avoiding the Cartesian separation between nature and mind while preserving ontological distinctness. By positing unified mental substances from the start, it also sidesteps the combination problem that pressures panpsychist property dualism.
 
 ## Property Dualism
 
 ### The Core Claim
 
-Property dualism holds that mental properties—the painfulness of pain, the redness of red, the what-it-is-like of experience—are not reducible to physical properties. A complete physical description of the brain leaves out something real: how it *feels*.
-
-Unlike substance dualism, property dualism doesn't posit a separate mental substance. There are just physical objects (brains, neurons, organisms), but these objects have two fundamentally different kinds of properties: physical properties (mass, charge, spatial location) and phenomenal properties ([qualia](/concepts/qualia/)).
+Property dualism holds that mental properties—the painfulness of pain, the redness of red, the what-it-is-like of experience—are not reducible to physical properties. A complete physical description of the brain leaves out something real: how it *feels*. Unlike substance dualism, it posits no separate mental substance. There are just physical objects, but these have two fundamentally different kinds of properties: physical (mass, charge, location) and phenomenal ([qualia](/concepts/qualia/)).
 
 ### Varieties of Property Dualism
 
-**Naturalistic dualism** (Chalmers's early position) holds that phenomenal properties are fundamental features of nature, like mass or charge. They arise naturally from physical systems of sufficient complexity, but they're not identical to or derivable from physical properties. The laws connecting physical and phenomenal are psychophysical laws—fundamental, brute regularities that don't reduce to physics.
+**Naturalistic dualism** (Chalmers's early position) holds that phenomenal properties are fundamental features of nature, like mass or charge—arising from sufficiently complex physical systems but not derivable from physical properties. The laws connecting physical and phenomenal are brute psychophysical regularities that don't reduce to physics.
 
-**[Russellian monism](/concepts/russellian-monism/)** (some classify this as property dualism) holds that physics describes only the *relational* or *dispositional* properties of matter—what things do, not what they are intrinsically. Consciousness might be (or be grounded in) the intrinsic nature of physical reality that physics doesn't capture. This makes phenomenal properties more fundamental than physical properties, while preserving a single underlying reality.
+**[Russellian monism](/concepts/russellian-monism/)** holds that physics describes only the *relational* or *dispositional* properties of matter—what things do, not what they are intrinsically. Consciousness might be (or ground) the intrinsic nature physics doesn't capture. Critics argue it inherits dualism's difficulties: Pautz (2019) contends it requires brute "grounding laws" connecting quiddities to consciousness, structurally parallel to dualism's psychophysical laws—"Though called a physicalist view, it seems to have many of the vices of dualism." The Map names this pattern [disguised-property-dualism](/concepts/disguised-property-dualism/)—a theory doing property-dualist work without paying its conceptual rent—and accepts the structural commitment openly instead.
 
-However, critics argue that Russellian monism inherits dualism's core difficulties. Pautz (2019) contends that it requires brute "grounding laws" connecting quiddities (intrinsic properties) to consciousness—structurally parallel to the brute psychophysical laws dualism posits: "Though called a physicalist view, it seems to have many of the vices of dualism." The Map names this pattern—two irreducible structures retained while the dualist label is disavowed—[disguised-property-dualism](/concepts/disguised-property-dualism/): a theory doing property-dualist work without paying its conceptual rent. The Map's explicit dualism with its quantum interaction mechanism accepts the structural commitment openly.
-
-**Emergent dualism** holds that mental properties [emerge](/concepts/emergence/) from physical complexity in ways that cannot be predicted or explained from physical theory alone. The [emergence](/concepts/emergence/) is ontological, not merely epistemic—mental properties are genuinely novel additions when complex systems arise.
+**Emergent dualism** holds that mental properties [emerge](/concepts/emergence/) from physical complexity in ways unpredictable from physical theory alone. The emergence is ontological, not merely epistemic—mental properties are genuinely novel when complex systems arise.
 
 ### The Appeal of Property Dualism
 
-Property dualism seems to require less ontological extravagance than substance dualism. It accepts the physical world as physics describes it, adding only that physical systems have phenomenal properties not captured by physical theory. You don't get mysterious mental substances floating around—just ordinary brains with extraordinary properties.
-
-It also preserves the intuition that consciousness is closely tied to brains. A property dualist expects mental properties to track neural properties, to arise and cease with brain activity, to be affected by drugs and damage. This matches our experience better than views where mental substances might in principle exist independently of bodies.
+Property dualism seems to require less ontological extravagance: it accepts the physical world as physics describes it, adding only that physical systems have phenomenal properties not captured by physical theory—just ordinary brains with extraordinary properties. It also preserves the intuition that consciousness is closely tied to brains, since mental properties track neural activity and are affected by drugs and damage—matching experience better than views where mental substances might exist independently of bodies.
 
 ## Comparing the Views
 
 ### Where They Agree
 
-Both substance and property dualism share the central insight: [materialism](/concepts/materialism/) fails to account for consciousness. The knowledge argument (Mary's Room), conceivability arguments (zombies), and the intrinsic character of qualia all point toward something beyond physics. Whether you package this as separate substances or irreducible properties, you're affirming that the physical story leaves something out.
-
-Both views are compatible with [interactionism](/concepts/interactionist-dualism/)—though historically, property dualists have sometimes been attracted to epiphenomenalism (mental properties are real but causally inert). The Map's framework requires causal efficacy, which either ontology can accommodate.
+Both share the central insight that [materialism](/concepts/materialism/) fails to account for consciousness. The knowledge argument (Mary's Room), conceivability arguments (zombies), and the intrinsic character of qualia all point beyond physics. Both are compatible with [interactionism](/concepts/interactionist-dualism/)—though property dualists have historically been tempted by epiphenomenalism (mental properties real but causally inert). The Map's framework requires causal efficacy, which either ontology can accommodate.
 
 ### Where They Differ
 
-**On what exists**: Substance dualism adds to the world's inventory. Besides physical objects, there are mental objects (minds, souls, subjects). Property dualism adds to the world's property types without adding objects—there are just physical objects with non-physical properties.
+**On what exists**: substance dualism adds to the world's inventory—besides physical objects, there are mental objects (minds, souls, subjects). Property dualism adds property types without adding objects: just physical objects with non-physical properties.
 
-**On survival**: Substance dualism makes personal survival after bodily death conceivable in principle—if mind is a separate substance, it might persist when the body doesn't. Property dualism makes this harder to motivate—if mental properties depend on physical systems, they presumably cease when those systems do.
+**On survival**: substance dualism makes personal survival after bodily death conceivable in principle—a separate mental substance might persist when the body doesn't. Property dualism makes this harder: if mental properties depend on physical systems, they presumably cease when those systems do.
 
-**On the [pairing-problem](/concepts/pairing-problem/)**: Kim's pairing problem asks: in virtue of what is *this* mind paired with *this* body? For physical causation, spatial relations answer the question—billiard ball A strikes ball B because they occupy adjacent positions. But if minds lack spatial location (traditional substance dualism), nothing grounds the pairing. Why does M1's intention move B1's hand rather than B2's?
+**On the [pairing-problem](/concepts/pairing-problem/)**: Kim asks in virtue of what *this* mind is paired with *this* body. For physical causation, spatial relations answer—ball A strikes ball B because they are adjacent. But if minds lack spatial location, nothing grounds the pairing: why does M1's intention move B1's hand rather than B2's? Property dualism sidesteps this—mental properties are properties *of* brains, paired by definition. Substance dualists respond by (1) locating minds spatially in the brain where they interact (Hasker, Zimmerman), (2) invoking haecceities to ground pairing without spatial relations (Bailey, Rasmussen, Van Horn), or (3) denying causation requires spatial relations at all. The Map's quantum framework supports the first: consciousness is located where it interfaces with neural quantum processes.
 
-Property dualism sidesteps this problem. Mental properties are properties *of* brains; they're "paired" with their brains by definition—a property of X is automatically connected to X. The question of pairing doesn't arise.
-
-Substance dualists respond in three ways: (1) accepting that minds are spatially located in the brain where they causally interact (Hasker, Zimmerman); (2) invoking haecceities—primitive "thisness" that grounds pairing without spatial relations (Bailey, Rasmussen, Van Horn); or (3) denying that causation requires spatial relations at all. The Map's quantum framework naturally supports the first response: consciousness is located where it interfaces with neural quantum processes.
-
-**On the combination problem**: Property dualism (especially Russellian monism) faces pressure toward [panpsychism](/concepts/panpsychism/)—if phenomenal properties are fundamental, they might be everywhere. But panpsychism faces the combination problem: how do micro-experiences combine into unified consciousness? Substance dualism avoids this by positing unified mental substances from the start.
-
-**On parsimony**: Property dualism seems more parsimonious—same objects, different properties, rather than entirely new objects. But as the Map's [Occam's Razor Has Limits](/tenets/#occam) tenet notes, parsimony is a treacherous guide when our concepts may be inadequate.
+**On the combination problem**: property dualism (especially Russellian monism) faces pressure toward [panpsychism](/concepts/panpsychism/)—if phenomenal properties are fundamental, they might be everywhere. But panpsychism then faces the combination problem: how do micro-experiences combine into unified consciousness? Substance dualism avoids this by positing unified mental substances from the start. (On parsimony, the [Occam's Razor Has Limits](/tenets/#occam) tenet warns against treating property dualism's apparent economy as decisive.)
 
 ## The Illusionist Challenge
 
-[illusionism](/concepts/illusionism/)—the view that phenomenal consciousness is an illusion created by the brain's self-model—challenges both forms of dualism. If qualia are not what they seem, then the intuitions driving the substance/property distinction may be systematically misleading.
+[illusionism](/concepts/illusionism/)—the view that phenomenal consciousness is an illusion created by the brain's self-model—challenges both forms of dualism. If qualia are not what they seem, the intuitions driving the distinction may be systematically misleading.
 
 ### The Challenge Stated
 
-Illusionists like Keith Frankish argue that [introspection](/concepts/introspection/) generates false beliefs about phenomenal properties. When we seem to encounter the ineffable redness of red, we are actually representing our own representational states in a distorted way. There are no phenomenal properties—only the *illusion* of phenomenal properties, which is itself a functional phenomenon fully explicable in physical terms.
-
-If this is correct, the entire dualism debate rests on a mistake. Both substance and property dualists are trying to accommodate something that doesn't exist.
+Illusionists like Keith Frankish argue that [introspection](/concepts/introspection/) generates false beliefs about phenomenal properties: when we seem to encounter the ineffable redness of red, we are actually representing our own representational states in a distorted way. There are no phenomenal properties—only the *illusion* of them, itself a functional phenomenon fully explicable in physical terms. If correct, the entire dualism debate rests on a mistake; both dualisms try to accommodate something that doesn't exist.
 
 ### Three Responses
 
-**The regress problem:** Illusionism explains away qualia by appealing to "introspective representations" that make qualia *seem* to exist. But seemings are themselves phenomenal states. What is it like to have the illusion of redness? If this "seeming" is also illusory, what makes *that* illusion seem real? The regress either terminates in genuine phenomenal states or renders the account vacuous.
+**The regress problem:** illusionism explains away qualia by appealing to "introspective representations" that make qualia *seem* to exist. But seemings are themselves phenomenal states—what is it like to have the illusion of redness? If that "seeming" is also illusory, what makes it seem real? The regress either terminates in genuine phenomenal states or renders the account vacuous.
 
-**Introspection survives debunking:** Even granting that introspection is imperfect—subject to biases, constructed rather than transparent—this doesn't establish that its referent is illusory. Visual perception is constructed and fallible, yet we don't conclude that external objects are illusions. The question is whether phenomenal states exist, not whether our access to them is infallible.
+**Introspection survives debunking:** granting that introspection is imperfect doesn't establish that its referent is illusory. Visual perception is constructed and fallible, yet we don't conclude external objects are illusions. The question is whether phenomenal states exist, not whether our access is infallible.
 
-**The contemplative challenge:** [witness-consciousness](/concepts/witness-consciousness/)—pure awareness stripped of intentional content—presents a problem for illusionism. In advanced meditative states, practitioners report consciousness persisting even as representational content falls away. If consciousness were *identical* with representation (as illusionism implies), eliminating representation should eliminate consciousness. That it doesn't suggests consciousness is something over and above its contents.
+**The contemplative challenge:** [witness-consciousness](/concepts/witness-consciousness/)—pure awareness stripped of intentional content—presents a problem for illusionism. Practitioners report consciousness persisting even as representational content falls away. If consciousness were *identical* with representation, eliminating representation should eliminate consciousness; that it doesn't suggests consciousness is something over and above its contents.
 
 ### Implications for the Distinction
 
@@ -140,91 +118,65 @@ If illusionism fails (as the Map holds), both substance and property dualism rem
 
 ## The Decoherence Challenge
 
-Both forms of dualism that accept quantum interaction face a scientific objection: [decoherence](/concepts/decoherence/) appears to destroy quantum coherence almost instantly in warm biological systems, undermining proposals for consciousness to interface with quantum processes.
+Both forms of dualism that accept quantum interaction face a scientific objection: [decoherence](/concepts/decoherence/) appears to destroy quantum coherence almost instantly in warm biological systems.
 
 ### The Objection
 
-Tegmark (2000) calculated decoherence times for neural microtubules at 10⁻¹³ to 10⁻²⁰ seconds—far too short for neural processes operating at millisecond timescales. If quantum superpositions collapse due to environmental interaction before consciousness can act on them, the quantum interface proposed by the Map's [Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction) tenet seems impossible.
+Tegmark (2000) calculated decoherence times for neural microtubules at 10⁻¹³ to 10⁻²⁰ seconds—far too short for neural processes operating at millisecond timescales. If superpositions collapse before consciousness can act on them, the quantum interface proposed by [Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction) seems impossible.
 
 ### Three Mitigating Considerations
 
-**Disputed timescales:** Hagan et al. (2002) challenged Tegmark's model parameters, yielding corrected estimates of 10⁻⁵ to 10⁻⁴ seconds—seven orders of magnitude longer. With revised timescale requirements based on faster microtubule dynamics, coherence times of 10⁻⁷ seconds may suffice.
-
-**Biological quantum effects prove feasibility:** Avian magnetoreception relies on quantum spin coherence in cryptochrome proteins persisting for microseconds. Xu et al. (2026) at Princeton provided computational support for the radical pair mechanism in European robin cryptochrome. If evolution can optimise quantum effects for navigation, it might optimise them for consciousness.
-
-**Decoherence doesn't solve collapse:** Decoherence suppresses quantum superpositions and selects preferred bases, but it leaves the system in a mixture of possible outcomes without determining which one is measured. Consciousness could bias outcomes at the point of measurement even after decoherence has done its work.
+**Disputed timescales:** Hagan et al. (2002) challenged Tegmark's parameters, yielding estimates seven orders of magnitude longer (10⁻⁵ to 10⁻⁴ seconds); faster microtubule dynamics may relax the requirement further. **Biological quantum effects prove feasibility:** avian magnetoreception relies on quantum spin coherence in cryptochrome proteins persisting for microseconds (Xu et al. 2026)—if evolution can optimise quantum effects for navigation, it might for consciousness. **Decoherence doesn't solve collapse:** it suppresses superpositions and selects preferred bases, but leaves the system in a mixture without determining which outcome is measured; consciousness could bias outcomes at measurement even after decoherence has done its work. See [decoherence](/concepts/decoherence/) for the full treatment.
 
 ### Implications for the Distinction
 
-The decoherence challenge affects both substance and property dualism equally *when combined with quantum interaction theories*. Property dualist frameworks that avoid quantum mechanics (e.g., Chalmersan psychophysical laws) are unaffected. But for any dualism that posits a quantum interface—as the Map does—neither framework is advantaged or disadvantaged. The issue concerns the physics of the interface, not the metaphysics of what interfaces.
+The challenge affects both frameworks equally *when combined with quantum interaction theories*. Property dualist frameworks that avoid quantum mechanics (e.g., Chalmersan psychophysical laws) are unaffected; for any dualism positing a quantum interface—as the Map does—neither framework is advantaged. The issue concerns the physics of the interface, not the metaphysics of what interfaces.
 
-## Contemplative Evidence
+## Contemplative and Process Perspectives
 
-Both traditions of contemplative practice (Eastern and Western) offer evidence relevant to the substance/property distinction, though they don't settle it.
+Contemplative practice bears on the distinction without settling it; [witness consciousness](/concepts/witness-consciousness/) is consistent with both frameworks. Buddhist [analysis](/concepts/buddhism-and-dualism/) complicates the picture: classical Buddhist philosophy denies the substantial self (anatta) while insisting on the reality of conscious moments (vijñāna)—sounding like property dualism without substance, yet also pointing to luminous awareness as fundamental. Whether this is a "mental substance" or an "irreducible property" depends on how one maps Buddhist categories onto Western ontology.
 
-### Witness Consciousness
-
-In advanced meditative practice, practitioners describe [witness-consciousness](/concepts/witness-consciousness/)—awareness that persists as a witness to changing mental contents without being identified with any particular content. This phenomenon is consistent with substance dualism (a persistent mental substance observing physical/mental states) but also consistent with property dualism (a fundamental phenomenal property of the physical system).
-
-What witness consciousness does suggest is that consciousness is not identical with any particular neural content. The observer persists while contents change. This supports dualism generally against views that identify consciousness with specific representational states.
-
-### The Buddhist Complication
-
-Buddhist [analysis](/concepts/buddhism-and-dualism/) complicates the picture. Classical Buddhist philosophy denies the substantial self (anatta/anatman) while insisting on the reality of conscious moments (vijñāna). This sounds like property dualism without substance—phenomenal properties are real, but there is no persistent experiencer.
-
-However, Buddhist phenomenology also points to luminous awareness (vijñapti-matra) as fundamental. Whether this constitutes a "mental substance" or an "irreducible property" depends on how one maps Buddhist categories onto Western ontological frameworks.
-
-## Process Philosophy Perspective
-
-Alfred North Whitehead's process philosophy offers an alternative framework worth noting. For Whitehead, reality consists of "actual occasions"—momentary experiential events that are neither persistent substances nor properties inhering in substances. Experience is constitutive of each occasion, not something added to it.
-
-This suggests the substance/property distinction might not exhaust the options. However, Whitehead's framework still preserves what matters for the Map: consciousness is irreducible to physics, and experiential reality is fundamental rather than derivative. Whether one frames this irreducibility in terms of substances, properties, or occasions, the core commitment—that no amount of physical description entails or explains experience—remains intact. The Map's tenets constrain which frameworks are acceptable; they do not require choosing among all frameworks that satisfy those constraints.
+Whitehead's process philosophy offers a third framing: reality consists of "actual occasions"—momentary experiential events that are neither persistent substances nor properties inhering in substances—suggesting the distinction may not exhaust the options. But it preserves what matters for the Map: experiential reality is fundamental, and no physical description entails or explains experience. The tenets constrain which frameworks are acceptable; they do not require choosing among all that satisfy those constraints.
 
 ## What Would Challenge This View?
 
-Several findings would create difficulties for the substance/property distinction as the Map understands it:
+Several findings would create difficulties for the distinction as the Map understands it:
 
-1. **Successful illusionist explanation:** If illusionism could explain the phenomenology of seeming *without* invoking phenomenal properties at any level, the motivation for dualism would weaken. This would require explaining how illusions can seem without phenomenal seemings—a tall order.
+1. **Successful illusionist explanation:** if illusionism could explain the phenomenology of seeming *without* invoking phenomenal properties at any level, the motivation for dualism would weaken.
 
-2. **Unified quantum-consciousness theory with clear ontology:** A successful scientific theory of quantum consciousness might force commitment to either substance or property dualism by specifying the nature of the conscious element.
+2. **Unified quantum-consciousness theory with clear ontology:** a successful scientific theory might force commitment to one framework by specifying the nature of the conscious element.
 
-3. **Combination problem solved for property dualism:** If panpsychist property dualists could explain how micro-experiences combine into unified macro-subjects, the consideration favouring substance dualism would disappear.
+3. **Combination problem solved for property dualism:** if panpsychists could explain how micro-experiences combine into unified macro-subjects, the consideration favouring substance dualism would disappear.
 
-4. **Neural identity without correlation:** Discovery that specific conscious states can occur without their neural correlates (or vice versa) would adjudicate between stronger and weaker forms of dualism.
+4. **Neural identity without correlation:** discovery that specific conscious states can occur without their neural correlates (or vice versa) would adjudicate between stronger and weaker forms of dualism.
 
-5. **Contemplative consensus on substancehood:** If contemplative traditions converged on either affirming or denying a substantial self underlying experience, this would provide phenomenological evidence for one framework over the other.
+5. **Contemplative consensus on substancehood:** convergence among contemplative traditions on affirming or denying a substantial self would provide phenomenological evidence for one framework.
 
 ## Which Does the Map Hold?
 
-The Map's tenets are compatible with either substance or property dualism. What the tenets require:
+The tenets require consciousness to be irreducible, causally efficacious (so property dualism must avoid the epiphenomenalist temptation), and interfaced at quantum indeterminacies. The choice between the frameworks affects personal identity, survival, and the metaphysics of mind, but these are downstream of the central commitment.
 
-- **Dualism**: Consciousness is not reducible to physical processes. (Either version delivers this.)
-- **Bidirectional Interaction**: Consciousness causally influences physical outcomes. (Either version permits this—though property dualism must avoid the epiphenomenalist temptation.)
-- **Minimal Quantum Interaction**: The interface is at quantum indeterminacies. (Either version is compatible.)
-
-The choice between substance and property dualism affects how we think about personal identity, survival, and the metaphysics of mind. These are important questions, but they're downstream of the central commitment: consciousness is real, irreducible, and causally efficacious.
-
-The Map leans toward substance dualism for two reasons. First, substance dualism avoids the combination problem entirely. Second, property dualism faces persistent pressure toward either panpsychism (where the combination problem bites) or epiphenomenalism (which the Bidirectional Interaction tenet rejects)—though interactionist property dualism remains a stable position that resists both pressures. This is a philosophical preference, not a doctrinal requirement.
+The Map leans toward substance dualism for two reasons. First, it avoids the combination problem entirely. Second, property dualism faces persistent pressure toward either panpsychism (where the combination problem bites) or epiphenomenalism (which the Bidirectional Interaction tenet rejects)—though interactionist property dualism remains a stable position that resists both. This is a philosophical preference, not a doctrinal requirement.
 
 ### Where the Substance-Leaning Becomes Load-Bearing
 
-The lean is not uniform across the Map's downstream positions. Articles in the agency cluster—[free-will](/topics/free-will/), [agent-causation](/concepts/agent-causation/), [moral-implications-of-genuine-agency](/topics/moral-implications-of-genuine-agency/), and the agent-causal portions of [interactionist-dualism](/concepts/interactionist-dualism/)—deploy a substance-leaning sub-reading because [agent causation](/concepts/agent-causation/) needs a persisting subject that exercises causal powers in its own right. A property-only reading on which mental properties supervene on a physical substrate without a substance-bearing subject struggles to ground that exercise. The substance-leaning is downstream of the agent-causal commitment, not inherited from the Dualism tenet, which remains neutral. The [tenets page's agency-cluster paragraph](/tenets/#dualism) registers this asymmetry as the load-bearing scoping.
+The lean is not uniform across the Map's downstream positions. The agency cluster—[free-will](/topics/free-will/), [agent-causation](/concepts/agent-causation/), [moral-implications-of-genuine-agency](/topics/moral-implications-of-genuine-agency/), and the agent-causal portions of [interactionist-dualism](/concepts/interactionist-dualism/)—deploys a substance-leaning sub-reading because [agent causation](/concepts/agent-causation/) needs a persisting subject exercising causal powers in its own right, which a property-only reading struggles to ground. This leaning is downstream of the agent-causal commitment, not inherited from the Dualism tenet, which remains neutral.
 
-Articles outside the agency cluster—the [binding problem](/topics/the-binding-problem/) treatment, the [qualia and explanatory-gap arguments](/concepts/knowledge-argument/), much of the [voids catalogue](/apex/taxonomy-of-voids/)—neither require nor exclude the substance-bearing reading. They run on irreducibility alone, and an interactionist property dualism reaches the same conclusions on them. The Map's substance-leaning is therefore best read as the position the agency cluster commits to, not as the framework's general ontological default; the lean appears specifically where agency does. Readers tracking what each article requires can use this as the diagnostic: claims about the agent as ontological source need the substance-leaning reading, while claims about irreducibility, the explanatory gap, or the failure of materialism do not.
+Articles outside that cluster—the [binding problem](/topics/the-binding-problem/), the [qualia and explanatory-gap arguments](/concepts/knowledge-argument/), much of the [voids catalogue](/apex/taxonomy-of-voids/)—neither require nor exclude the substance-bearing reading; they run on irreducibility alone, and interactionist property dualism reaches the same conclusions. The diagnostic: claims about the agent as ontological source need the substance-leaning reading; claims about irreducibility, the explanatory gap, or the failure of materialism do not.
 
 ## Relation to Site Perspective
 
-The substance/property distinction matters less than it might seem for the Map's core commitments, though the tenets illuminate the choice in important ways.
+The distinction matters less than it might seem for the Map's core commitments, though the tenets illuminate the choice in important ways.
 
-**[Dualism](/tenets/#dualism)**: Both versions satisfy this foundational tenet. The claim is that consciousness is not reducible to physical processes—whether because it's a separate substance or an irreducible property type. What matters is that no amount of physical description entails or explains the existence and character of experience. The explanatory gap, conceivability arguments, and knowledge argument work equally against physicalism regardless of which dualist framework accommodates them.
+**[Dualism](/tenets/#dualism)**: Both versions satisfy this foundational tenet—consciousness is not reducible to physical processes, whether as a separate substance or an irreducible property type.
 
-**[Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction)**: This tenet is equally compatible with both frameworks. Whether consciousness is a substance that interfaces with quantum processes or a property that influences quantum outcomes, the mechanics of the interface remain the same. The [decoherence](/concepts/decoherence/) challenge and responses to it apply identically to both views. However, substance dualism may make the interface more intuitive: a distinct mental substance selecting among quantum outcomes is conceptually clearer than an irreducible property (of what?) biasing probabilities.
+**[Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction)**: Equally compatible with both; the interface mechanics and the [decoherence](/concepts/decoherence/) challenge apply identically. Substance dualism may make the interface more intuitive—a distinct mental substance selecting among quantum outcomes is conceptually clearer than an irreducible property (of what?) biasing probabilities.
 
-**[Bidirectional Interaction](/tenets/#bidirectional-interaction)**: This tenet constrains the choice significantly. Epiphenomenalist property dualism is ruled out—if mental properties are real but causally inert, the tenet fails. But note that epiphenomenalism is not a natural implication of property dualism; it requires an additional commitment to [causal closure of the physical](/concepts/causal-closure/) that the Map rejects. Interactionist property dualism and substance dualism can both satisfy this tenet. The question is not whether consciousness is causally efficacious (both affirm it) but whether its causal role requires substancehood.
+**[Bidirectional Interaction](/tenets/#bidirectional-interaction)**: This tenet rules out epiphenomenalist property dualism. But epiphenomenalism is not a natural implication of property dualism; it requires an additional commitment to [causal closure of the physical](/concepts/causal-closure/) that the Map rejects. Both interactionist property dualism and substance dualism satisfy the tenet—the question is not whether consciousness is causally efficacious but whether its causal role requires substancehood.
 
-**[No Many Worlds](/tenets/#no-many-worlds)**: Here substance dualism has an advantage. The tenet rejects many-worlds partly because it renders indexical identity mysterious: why am I *this* observer in *this* branch? Substance dualism provides a natural answer—I am this particular mental substance with its [haecceity](/concepts/haecceity/) (primitive thisness), and that substance is located in one world, not all. Property dualism must explain why *this* brain's phenomenal properties are *mine* rather than *yours*, and why I experience outcomes in one branch rather than all branches. The indexical grounding is harder to articulate without invoking something like a substantial self.
+**[No Many Worlds](/tenets/#no-many-worlds)**: Here substance dualism has an advantage. The tenet rejects many-worlds partly because it renders indexical identity mysterious: why am I *this* observer in *this* branch? Substance dualism answers naturally—I am this particular mental substance with its [haecceity](/concepts/haecceity/) (primitive thisness), located in one world. Property dualism must explain why *this* brain's phenomenal properties are *mine*, a grounding harder to articulate without something like a substantial self.
 
-**[Occam's Razor Has Limits](/tenets/#occams-limits)**: This tenet cuts against using parsimony to prefer property dualism. Property dualism *seems* simpler—same objects, different properties, rather than new objects. But this apparent simplicity may reflect inadequate concepts rather than genuine economy. Is it really simpler to have irreducible properties mysteriously attached to physical substrates than to have distinct substances in principled interaction? The tenet counsels humility about such judgments. Both frameworks face conceptual puzzles (the combination problem for property dualism, the pairing problem for substance dualism); neither is obviously simpler once we recognise how incomplete our understanding is.
+**[Occam's Razor Has Limits](/tenets/#occams-limits)**: This tenet cuts against using parsimony to prefer property dualism. Its apparent simplicity may reflect inadequate concepts rather than genuine economy—is it really simpler to have irreducible properties mysteriously attached to physical substrates than distinct substances in principled interaction? Both frameworks face conceptual puzzles; neither is obviously simpler once we recognise how incomplete our understanding is.
 
 ## Further Reading
 
@@ -232,15 +184,9 @@ The substance/property distinction matters less than it might seem for the Map's
 - [disguised-property-dualism](/concepts/disguised-property-dualism/) — The diagnostic for physicalist theories doing dualist work while disavowing the label
 - [interactionist-dualism](/concepts/interactionist-dualism/) — the Map's position combining dualism with causal interaction
 - [pairing-problem](/concepts/pairing-problem/) — Kim's challenge to substance dualism that property dualism avoids
-- [materialism](/concepts/materialism/) — The view both dualist positions reject
 - [epiphenomenalism](/concepts/epiphenomenalism/) — Property dualism's temptation that the Map refuses
-- [qualia](/concepts/qualia/) — The phenomenal properties that dualism holds are irreducible
-- [hard-problem-of-consciousness](/topics/hard-problem-of-consciousness/) — The problem that motivates dualism in both forms
 - [illusionism](/concepts/illusionism/) — The radical challenge that questions whether qualia exist at all
-- [decoherence](/concepts/decoherence/) — The quantum challenge to consciousness-physics interfaces
-- [witness-consciousness](/concepts/witness-consciousness/) — Contemplative evidence bearing on the distinction
 - [haecceity](/concepts/haecceity/) — Primitive thisness that may ground the substance view
-- [causal-closure](/concepts/causal-closure/) — The assumption interactionist dualism rejects
 
 ## References
 
