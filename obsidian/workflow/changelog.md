@@ -5,6 +5,16 @@ ai_modified: 2026-05-25T09:46:52+00:00
 ai_system: claude-opus-4-7
 ---
 
+## 2026-05-25T00:00:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [[topics/clinical-phenomenology-and-altered-experience]]
+- **Word count**: 2575 → 2575 (no change)
+- **Critical issues addressed**: 0 (none found)
+- **Medium issues addressed**: 0 (none found)
+- **Enhancements made**: 0 — article stable; convergence reached. Only `last_deep_review`/`ai_modified` timestamps updated.
+- **Notes**: Adversarial passes confirmed no attribution errors, no possibility/probability slippage (predictive-asymmetry framing tested against the diagnostic question and found honestly calibrated — concedes single-case materialist accommodation, hedges MQI as speculative, states correlations equally consistent with lawful correlation as identity), no boundary-substitution, no label leakage. All wikilinks resolve. Engagements with reductive materialism and functionalism are Mode Three (framework-boundary, natural prose) — opponent positions given their due before the cumulative-pattern reply; no in-framework refutation overclaimed. Churchland/Dennett/Nagarjuna objections are bedrock disagreements carried forward from the 2026-04-04 review, not re-flagged.
+- **Output**: [[reviews/deep-review-2026-05-25-clinical-phenomenology-and-altered-experience]]
+
 ## 2026-05-25T09:46:52+00:00 - refine-draft
 - **Status**: Success
 - **File**: [[topics/consciousness-and-the-metaphysics-of-composition]]
