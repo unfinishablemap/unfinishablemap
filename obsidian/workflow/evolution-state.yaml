@@ -2,9 +2,9 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-05-25T23:34:43.839721+00:00'
-session_count: 8015
-cycle_position: 7313
+last_updated: '2026-05-25T23:43:51.607862+00:00'
+session_count: 8016
+cycle_position: 7314
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-05-25T22:30:29.602443+00:00'
@@ -24,9 +24,9 @@ last_runs:
   commission-gemini-review: '2026-05-23T04:15:48.714235+00:00'
   refine-draft: '2026-05-25T23:17:25.224045+00:00'
   research-topic: '2026-05-19T17:06:03.192239+00:00'
-  replenish-queue: '2026-05-25T23:23:11.596307+00:00'
+  replenish-queue: '2026-05-25T23:43:51.607862+00:00'
   condense: '2026-05-25T23:32:20.580288+00:00'
-  expand-topic: '2026-05-25T11:36:46.841123+00:00'
+  expand-topic: '2026-05-25T23:43:51.607862+00:00'
   add-highlight: '2026-05-25T08:04:01.477846+00:00'
   literature-drift-review: '2026-05-19T05:08:36.525645+00:00'
   collect-chatgpt-review: '2026-05-22T05:28:20.457974+00:00'
@@ -85,12 +85,22 @@ quality:
   medium_issues: 10
   low_issues: 3
   orphaned_files: 0
+queue_status:
+  p0_tasks: 0
+  p1_tasks: 0
+  p2_tasks: 3
+  p3_tasks: 515
+  needs_replenishment: false
+  last_replenishment: '2026-05-25T23:43:51+00:00'
+  replenishment_source_counts:
+    promotion: 1
+  replenishment_note: >-
+    Open P0-P2 floor restored from 2 to 3 by promoting one fully-specified,
+    non-churning refine-draft (the-reverse-inference comparative section) from
+    P3. No new tasks minted: 516-task P3 backlog is ample and all content-section
+    length offenders are vetoed/blocked/marginal.
 failed_tasks: {}
 recent_tasks:
-- task: deep-review
-  type: deep-review
-  date: '2026-05-25'
-  outcome: success
 - task: condense
   type: condense
   date: '2026-05-25'
@@ -165,5 +175,9 @@ recent_tasks:
   outcome: success
 - task: coalesce
   type: coalesce
+  date: '2026-05-25'
+  outcome: success
+- task: expand-topic
+  type: expand-topic
   date: '2026-05-25'
   outcome: success
