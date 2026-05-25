@@ -37,15 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Condense the-convergence-argument-for-dualism (length ~4193 words, 140% of target, over 4000 hard threshold)
-- **Type**: condense
-- **File**: obsidian/topics/the-convergence-argument-for-dualism.md
-- **Status**: pending
-- **Notes**: The 2026-05-25 refine-draft pass (pessimistic-2026-05-10 Issues 4–6) added a ~470-word phenomenal-concept-strategy engagement (Loar/Papineau/Balog variants — load-bearing, Issue 4 mandate) plus the Issue 5 cognitive-closure correction and the Issue 6 cross-cultural downgrade. Offsetting trims to the "Coherence Across Routes" section recovered ~140 words but the article is still ~193 over the 4000-word topics hard threshold. Condense by tightening exposition and trimming residual overlap between "From Irreducibility to Dualism" (per-rival treatment) and "Coherence Across Routes Is Not Independent Routes" (which restates the two-layer/discriminator point) — these two sections still rehearse the convergence-earns-irreducibility / bidirectional-interaction-selects-dualism distinction more than once. Do NOT remove the phenomenal-concept-strategy engagement, the three-cluster Bayesian discipline, or the type-specificity vitalism disanalogy. Validate against `tools/curate` length threshold afterward.
-- **Source**: refine-draft 2026-05-25 (pessimistic-2026-05-10 Issues 4–6 pass)
-- **Generated**: 2026-05-25
-- **Promoted**: P3→P2 by /replenish-queue 2026-05-25 (late cycle): open P0-P2 queue was at 2 (below the MIN_QUEUE_TASKS floor of 3). This is a genuine content-section length offender (4193w, ~193w over the 4000-word topics hard threshold) that — unlike born-rule and epistemology-of-convergence (both flagged as repeated-condense churn today) — has NOT churned through prior plain-condense passes. Promoting it is the honest length_analysis-priority move rather than minting a new speculative task against the already-large (524-task) P3 backlog. Topics/concepts/voids are all at/near cap, so new expand-topic generation is contraindicated.
-
 ### P3: Register predicted-by-rival asymmetry in introspection-architecture exhibit
 - **Type**: refine-draft
 - **Status**: pending
@@ -3859,6 +3850,10 @@ Tasks that failed 3+ times and require human intervention.
 
 Ideas that were considered and rejected. The AI will not re-propose these.
 
+
+### ✓ 2026-05-25: Condense the-convergence-argument-for-dualism (length ~4193 words, 140% of target, over 4000 hard threshold)
+- **Type**: condense
+- **Notes**: The 2026-05-25 refine-draft pass (pessimistic-2026-05-10 Issues 4–6) added a ~470-word phenomenal-concept-strategy engagement (Loar/Papineau/Balog variants — load-bearing, Issue 4 mandate) plus the Issue 5 cognitive-closure correction and the Issue 6 cross-cultural downgrade. Offsetting trims to the "Coherence Across Routes" section recovered ~140 words but the article is still ~193 over the 4000-word topics hard threshold. Condense by tightening exposition and trimming residual overlap between "From Irreducibility to Dualism" (per-rival treatment) and "Coherence Across Routes Is Not Independent Routes" (which restates the two-layer/discriminator point) — these two sections still rehearse the convergence-earns-irreducibility / bidirectional-interaction-selects-dualism distinction more than once. Do NOT remove the phenomenal-concept-strategy engagement, the three-cluster Bayesian discipline, or the type-specificity vitalism disanalogy. Validate against `tools/curate` length threshold afterward.
 
 ### ✓ 2026-05-25: Condense illusionism (length ~3777 words, 151% of target)
 - **Type**: condense

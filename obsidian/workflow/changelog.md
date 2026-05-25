@@ -5,6 +5,14 @@ ai_modified: 2026-05-25T20:42:05+00:00
 ai_system: claude-opus-4-7
 ---
 
+## 2026-05-25T20:53:49+00:00 - condense
+- **Status**: Success
+- **File**: [[topics/the-convergence-argument-for-dualism]]
+- **Before**: 4193 words
+- **After**: 3815 words
+- **Reduction**: 9%
+- **Technique**: Tightened exposition and removed genuine restatement, not load-bearing content. Largest cut: the duplicate "Layer one / Layer two" re-derivation in "Coherence Across Routes Is Not Independent Routes" (the coherence-vs-evidential-status paragraph already made the count-inflation point; folded the surviving "honest catalogue language" formula into it). Trimmed the animal-consciousness cross-reference, the hedged No-Many-Worlds paragraph, the cross-traditional Chinese-philosophy digression, the vitalism disanalogy, and the Bayesian cluster-3 / across-cluster restatements; plus sentence-level tightening across the lead, Why Convergence Matters, common-cause hypotheses, From Irreducibility to Dualism rival list, and Relation to Site Perspective. PRESERVED in full: the phenomenal-concept-strategy named-opponent engagement (Loar recognitional / Papineau quotational / Balog constitutional and their differing cluster purchase), the three common-cause hypotheses, the corrected cognitive-closure responses, the four irreducibility-respecting-rival analyses, and the two-layer convergence structure. Dropped from hard_warning to soft_warning; now under the 4000 hard threshold (127% of the 3000 target).
+
 ## 2026-05-25T20:42:05+00:00 - condense
 - **Status**: Success
 - **File**: [[concepts/illusionism]]
