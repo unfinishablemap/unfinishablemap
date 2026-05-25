@@ -1,9 +1,19 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-25T14:50:00+00:00
+ai_modified: 2026-05-25T15:18:57+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-05-25T15:18:57+00:00 - condense
+- **Status**: Success
+- **File**: [[topics/introspection-architecture-independence-scoring]]
+- **Before**: 4481 words (149% of 3000 target, status hard_warning)
+- **After**: 3999 words (133% of target, status soft_warning — under hard threshold)
+- **Reduction**: 10.8%
+- **Technique**: Tightened prose throughout (nominalizations, parentheticals, hedging) and consolidated the thrice-repeated "patient-population channel is load-bearing" / "strongest null" refrain from 6+ instances to purposeful use. Merged the three cross-tradition write-ups (Advaita/Sufi/Stoic) into compact description-plus-scoring units, deferring per-tradition derivation to the dedicated Neoplatonist audit it already links. Compressed the per-criterion channel-scoring subsections (which re-ran the main four-criteria pass) to net verdicts. Removed the three Map-internal self-citations from References (redundant with inline wikilinks), replacing them with a one-line pointer. Trimmed proxy-list and empirical-anchor descriptions that the later population-type and despite/because passes re-cite.
+- **Preserved (load-bearing)**: opening summary, the four-void definitions, the four scoring criteria, all empirical anchors (Gazzaniga, Schnider, Nisbett-Wilson, Johansson-Hall, Coutinho, Hirstein, Wheatley-Haidt), the despite-commitments/because-prediction classification, the surplus-void comparison (calibration core), Relation to Site Perspective, Honest Limitations (Evagrian-reduction gap, translation-construction caveat), section anchors `#stoic-propatheia` and `#sufi-khawatir` for inbound links, and the external References list.
+- **Note**: Did not reach the 3000-word target; this is a citation-dense methodological scoring exhibit (coalesced from three prior channel-audit articles) where most passages carry irreducible analytic content. Realistic goal was clearing the 4000-word hard threshold, achieved. Further reduction would cost substance, not redundancy.
 
 ## 2026-05-25T15:01:59+00:00 - condense
 - **Status**: Success

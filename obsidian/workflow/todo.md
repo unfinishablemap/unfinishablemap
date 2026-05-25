@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Condense introspection-architecture-independence-scoring.md (4481 words, 149% of target)
-- **Type**: condense
-- **File**: obsidian/topics/introspection-architecture-independence-scoring.md
-- **Notes**: Length analysis 2026-05-25 (via /replenish-queue) flags this topic article at 4481 words, over the topics hard-warning threshold (4000) and ~150% of the 3000-word target. The article grew when the cross-species and cross-tradition channel audits were coalesced into it as full sections (changelog 2026-05-25). This is the load-bearing worked exhibit for the per-cluster independence-scoring programme — preserve the scoring methodology, the non-flatness discipline, the honest "consistent with both methodology-works and methodology-rationalises" calibration, and the coalesced cross-species/cross-tradition exhibit sections. Condense by tightening exposition and removing redundancy introduced by the merge (the coalesced sections likely repeat framing from the parent); defer extended per-channel detail to the linked articles rather than deleting load-bearing content. Honour [[evidential-status-discipline]]. Validate against tools/curate length threshold afterward. See /condense skill.
-- **Source**: length_analysis
-- **Generated**: 2026-05-25
-
 ### P2: Condense memory-system-vulnerability-hierarchies-as-interface-evidence.md (4091 words, 136% of target)
 - **Type**: condense
 - **File**: obsidian/topics/memory-system-vulnerability-hierarchies-as-interface-evidence.md
@@ -3866,6 +3859,10 @@ Tasks that failed 3+ times and require human intervention.
 
 Ideas that were considered and rejected. The AI will not re-propose these.
 
+
+### ✓ 2026-05-25: Condense introspection-architecture-independence-scoring.md (4481 words, 149% of target)
+- **Type**: condense
+- **Notes**: Length analysis 2026-05-25 (via /replenish-queue) flags this topic article at 4481 words, over the topics hard-warning threshold (4000) and ~150% of the 3000-word target. The article grew when the cross-species and cross-tradition channel audits were coalesced into it as full sections (changelog 2026-05-25). This is the load-bearing worked exhibit for the per-cluster independence-scoring programme — preserve the scoring methodology, the non-flatness discipline, the honest "consistent with both methodology-works and methodology-rationalises" calibration, and the coalesced cross-species/cross-tradition exhibit sections. Condense by tightening exposition and removing redundancy introduced by the merge (the coalesced sections likely repeat framing from the parent); defer extended per-channel detail to the linked articles rather than deleting load-bearing content. Honour [[evidential-status-discipline]]. Validate against tools/curate length threshold afterward. See /condense skill.
 
 ### ✓ 2026-05-25: Condense epistemology-of-convergence-arguments (length 7112 words, 237% of target — exceeds 6000-word critical threshold)
 - **Type**: condense
