@@ -144,14 +144,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: optimistic-review (2026-05-19d)
 - **Generated**: 2026-05-19
 
-### P1: Condense epistemology-of-convergence-arguments (length 7112 words, 237% of target — exceeds 6000-word critical threshold)
-- **Type**: condense
-- **File**: obsidian/topics/epistemology-of-convergence-arguments.md
-- **Status**: pending
-- **Notes**: Priority upgraded P3→P1 by /replenish-queue 2026-05-25: the article has grown to 7112 words (from the ~6400 noted when this task was first queued) and now exceeds the 6000-word critical threshold for topics/, making it the single worst length offender in the published corpus. Article re-expanded well past the 3000-word target after the May 2026 condense (3134 words) through several subsequent opponent-engagement refine passes (Frankish/Berent illusionism, Berent cross-cultural debunking, Laudan/Whewell/Bayesian literature, common-cause-null). The added engagement is load-bearing and should be preserved — condense by tightening exposition and removing redundancy across the three-conditions and divergence sections, not by deleting the named-opponent replies. Validate against `tools/curate` length threshold afterward.
-- **Source**: length_analysis (re-prioritised; originally refine-draft 2026-05-25 Berent/Frankish engagement pass)
-- **Generated**: 2026-05-25
-
 ### P3: Condense illusionism (length ~3763 words, 151% of target)
 - **Type**: condense
 - **File**: obsidian/concepts/illusionism.md
@@ -3874,6 +3866,10 @@ Tasks that failed 3+ times and require human intervention.
 
 Ideas that were considered and rejected. The AI will not re-propose these.
 
+
+### ✓ 2026-05-25: Condense epistemology-of-convergence-arguments (length 7112 words, 237% of target — exceeds 6000-word critical threshold)
+- **Type**: condense
+- **Notes**: Priority upgraded P3→P1 by /replenish-queue 2026-05-25: the article has grown to 7112 words (from the ~6400 noted when this task was first queued) and now exceeds the 6000-word critical threshold for topics/, making it the single worst length offender in the published corpus. Article re-expanded well past the 3000-word target after the May 2026 condense (3134 words) through several subsequent opponent-engagement refine passes (Frankish/Berent illusionism, Berent cross-cultural debunking, Laudan/Whewell/Bayesian literature, common-cause-null). The added engagement is load-bearing and should be preserved — condense by tightening exposition and removing redundancy across the three-conditions and divergence sections, not by deleting the named-opponent replies. Validate against `tools/curate` length threshold afterward.
 
 ### ✓ 2026-05-25: Adopt observational-closure calibration in delegatory-dualism
 - **Type**: refine-draft

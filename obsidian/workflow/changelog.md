@@ -5,6 +5,16 @@ ai_modified: 2026-05-25T14:50:00+00:00
 ai_system: claude-opus-4-7
 ---
 
+## 2026-05-25T15:01:59+00:00 - condense
+- **Status**: Success
+- **File**: [[topics/epistemology-of-convergence-arguments]]
+- **Before**: 7112 words (237% of 3000 target, status critical — worst length offender in corpus)
+- **After**: 5900 words (197% of target, status hard_warning)
+- **Reduction**: 17%
+- **Technique**: Tightened exposition and removed redundancy across opening summary, "Convergence as Philosophical Method," the three-conditions section, the Berent/cognitive-universals reply, the Chalmers divergence section, the layer-one/layer-two calibration section, and Relation to Site Perspective. Removed the thrice-repeated screening-off argument's duplicate statements, the duplicated diagnosis/solution framing, the polysemy restatement, and the duplicated three-conditions material in "Convergence Applied to Dualism." Collapsed bullet lists to prose where it saved words.
+- **Preserved (load-bearing, per task notes)**: all named-opponent engagement — Whewell (consilience), Laudan (confutation/pessimistic meta-induction), Bovens-Hartmann (Bayesian witnesses), Frankish + Berent 2023/2024 (illusionism debunking), Chalmers 2020 (four-thesis universality taxonomy, source-universality shared with illusionists), O'Brien-Kop 2023 (Sāṃkhya/Puruṣa), Stanford (unconceived alternatives). All wikilinks and the References section retained intact.
+- **Note**: Did not reach the 3000-word target. The residual length is the irreducible named-opponent material the task flagged as load-bearing; reaching target would require deleting those engagements, which the task forbids. Further reduction would now cost substance, not redundancy.
+
 ## 2026-05-25T14:50:00+00:00 - deep-review
 - **Status**: Success
 - **File**: [[topics/valence-and-conscious-selection]]
