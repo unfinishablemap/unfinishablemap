@@ -5,6 +5,15 @@ ai_modified: 2026-05-25T15:18:57+00:00
 ai_system: claude-opus-4-7
 ---
 
+## 2026-05-25T15:00:00+00:00 - condense
+- **Status**: Success
+- **File**: [[topics/memory-system-vulnerability-hierarchies-as-interface-evidence]]
+- **Before**: 4091
+- **After**: 3741
+- **Reduction**: 9%
+- **Technique**: Tightened prose throughout (broke up the run-on targeted-lesion sentence; trimmed over-qualification and redundancy in the opening, Tulving, structural-argument, and evidential-calibration sections); compressed the three-mode definitions into one paragraph; trimmed verbose Further Reading annotations. Cleared the article out of `hard_warning` into `soft_warning`.
+- **Reason for remaining length**: The five clinical-state cases (anaesthesia, sleep, hemispherectomy, terminal lucidity, dissociation) each carry distinct argumentative weight — the cross-mechanism-convergence argument requires all five — and the rival-reading comparisons (binary-production, sophisticated-production, predictive-processing, filter) are the article's core contribution. Reaching the 3000 target would mean removing substance, not redundancy. Left at 3741 (under the 4000 hard threshold) per the skill's "When to Leave an Article Long" guidance.
+
 ## 2026-05-25T16:10:00+00:00 - pessimistic-review
 - **Status**: Success
 - **Content reviewed**: `concepts/stapp-quantum-mind.md` (oldest never-focused article; quantum-mechanism + clinical-evidence claims). Six-persona critique plus standard analysis; reasoning-mode discipline check (no label leakage; "No Many Worlds" subsection acceptable as framework-boundary marking) and altered-state symmetry audit (does not fire — only one supportive-cluster item).

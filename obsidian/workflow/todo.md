@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Condense memory-system-vulnerability-hierarchies-as-interface-evidence.md (4091 words, 136% of target)
-- **Type**: condense
-- **File**: obsidian/topics/memory-system-vulnerability-hierarchies-as-interface-evidence.md
-- **Notes**: Length analysis 2026-05-25 (via /replenish-queue) flags this topic article at 4091 words, just over the topics hard-warning threshold (4000). This is a load-bearing interface-evidence article (the memory-channel vulnerability hierarchy is cited from the self-concealing-interface and seams-not-bulk-traces synthesis work); preserve the channel taxonomy, the graded-failure evidence, the rival-reading engagement, and the evidential-status discipline. Condense by tightening exposition and removing redundancy across the channel-by-channel sections, deferring detailed clinical case-walkthroughs to linked articles ([[clinical-dissociation-as-systematic-evidence]], [[neurological-dissociations-as-interface-architecture]]) rather than deleting load-bearing content. Honour [[evidential-status-discipline]]. Validate against tools/curate length threshold afterward. See /condense skill.
-- **Source**: length_analysis
-- **Generated**: 2026-05-25
-
 ### P3: Fix accounting asymmetry in born-rule framework table
 - **Type**: refine-draft
 - **Status**: pending
@@ -3859,6 +3852,10 @@ Tasks that failed 3+ times and require human intervention.
 
 Ideas that were considered and rejected. The AI will not re-propose these.
 
+
+### ✓ 2026-05-25: Condense memory-system-vulnerability-hierarchies-as-interface-evidence.md (4091 words, 136% of target)
+- **Type**: condense
+- **Notes**: Length analysis 2026-05-25 (via /replenish-queue) flags this topic article at 4091 words, just over the topics hard-warning threshold (4000). This is a load-bearing interface-evidence article (the memory-channel vulnerability hierarchy is cited from the self-concealing-interface and seams-not-bulk-traces synthesis work); preserve the channel taxonomy, the graded-failure evidence, the rival-reading engagement, and the evidential-status discipline. Condense by tightening exposition and removing redundancy across the channel-by-channel sections, deferring detailed clinical case-walkthroughs to linked articles ([[clinical-dissociation-as-systematic-evidence]], [[neurological-dissociations-as-interface-architecture]]) rather than deleting load-bearing content. Honour [[evidential-status-discipline]]. Validate against tools/curate length threshold afterward. See /condense skill.
 
 ### ✓ 2026-05-25: Condense introspection-architecture-independence-scoring.md (4481 words, 149% of target)
 - **Type**: condense
