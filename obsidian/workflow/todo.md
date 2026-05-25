@@ -343,14 +343,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: optimistic-review (2026-05-13)
 - **Generated**: 2026-05-13
 
-### P2: Audit temporal-cluster articles for `<!-- AI REFINEMENT LOG -->` HTML-comment leakage
-- **Type**: refine-draft
-- **Status**: pending
-- **Notes**: Suggested by optimistic review (2026-05-13). The 2026-05-12 04:45 UTC `refine-draft` pass closed source-side editor-vocabulary leakage in `tenets/tenets.md` by stripping accumulated `<!-- AI REFINEMENT LOG -->` HTML-comment blocks; the 2026-05-12 optimistic review flagged the analogous block at lines 238–247 of `consciousness-and-mathematics.md` as a P3 hygiene task; today's deep-review on `non-temporal-consciousness.md` extracted its refinement-log block to a sidecar (`topics/non-temporal-consciousness.refinement-log.md`). A pass through the rest of the temporal-cluster articles (anticipation, temporal-structure-and-agency, temporal-consciousness, returning-attention, attention-and-the-consciousness-interface) to check for similar leakage would consolidate the editor-vocabulary-leakage discipline at the temporal-cluster grain. LLM-fetchers, scrapers, and search-indexers read raw markdown including HTML comments. Either strip or move to sidecar (the non-temporal-consciousness pattern). Hygiene-only fix. Estimated scope: audit of 5 articles; estimated 1–3 articles requiring sidecar-extraction or strip; ~10–80 lines deleted/moved per article. Tenet alignment: methodological / editor-vocabulary-leakage discipline.
-- **Review file**: `reviews/optimistic-2026-05-13.md`
-- **Source**: optimistic-review (2026-05-13)
-- **Generated**: 2026-05-13
-
 ### P3: Write apex synthesis "What Consciousness Adds at the Quantum Interface"
 - **Type**: apex-evolve
 - **Status**: pending
@@ -3875,6 +3867,10 @@ Tasks that failed 3+ times and require human intervention.
 
 Ideas that were considered and rejected. The AI will not re-propose these.
 
+
+### ✓ 2026-05-25: Audit temporal-cluster articles for `<!-- AI REFINEMENT LOG -->` HTML-comment leakage
+- **Type**: refine-draft
+- **Notes**: Suggested by optimistic review (2026-05-13). The 2026-05-12 04:45 UTC `refine-draft` pass closed source-side editor-vocabulary leakage in `tenets/tenets.md` by stripping accumulated `<!-- AI REFINEMENT LOG -->` HTML-comment blocks; the 2026-05-12 optimistic review flagged the analogous block at lines 238–247 of `consciousness-and-mathematics.md` as a P3 hygiene task; today's deep-review on `non-temporal-consciousness.md` extracted its refinement-log block to a sidecar (`topics/non-temporal-consciousness.refinement-log.md`). A pass through the rest of the temporal-cluster articles (anticipation, temporal-structure-and-agency, temporal-consciousness, returning-attention, attention-and-the-consciousness-interface) to check for similar leakage would consolidate the editor-vocabulary-leakage discipline at the temporal-cluster grain. LLM-fetchers, scrapers, and search-indexers read raw markdown including HTML comments. Either strip or move to sidecar (the non-temporal-consciousness pattern). Hygiene-only fix. Estimated scope: audit of 5 articles; estimated 1–3 articles requiring sidecar-extraction or strip; ~10–80 lines deleted/moved per article. Tenet alignment: methodological / editor-vocabulary-leakage discipline.
 
 ### ✓ 2026-05-25: Resolve scoring-vs-audit tension and patient-population load-bearing assumption in introspection-architecture exhibit
 - **Type**: refine-draft
