@@ -1,9 +1,21 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-25T13:30:00+00:00
+ai_modified: 2026-05-25T13:34:50+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-05-25T13:34:50+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[topics/death-and-consciousness]]
+- **Task**: Outer-review 2026-05-22 ChatGPT §2.F / §4 Tenet 4 — MWI-checklist parent task, final per-article sub-pass (death cluster). First checked `apex/machine-question`: its only MWI treatment (Relation to Site Perspective → No Many Worlds) already rests on haecceity/multiple-instantiability indexical grounds, NOT on empirical/phenomenological failure of MWI — no fix needed there. Per task instruction, did `topics/death-and-consciousness` instead (`topics/death` does not exist).
+- **Changes** (LIGHT pass; net +~1 paragraph):
+  - Expanded the thin No-MWI sentence in *The Identity Problem* ("identity questions have determinate answers") into a paragraph applying the MWI checklist's identity-and-agency prong: grants the Everettian branch-local restatement of survival (determinate branch-local successor with indexically owned memories), then rests the rejection on counterfactual exclusion — survival of *this* unique self requires that the alternatives genuinely did not happen, which MWI cannot supply (every successor actualised, none uniquely "me"; the indeterminacy Parfit welcomed and the Map denies). Makes the cross-cluster personhood/indexical-ownership role of No-MWI explicit; marks the disagreement as framework-boundary (rests on the tenet, not on MWI failing the phenomenology).
+  - Tightened the *Relation to the Map's Perspective* → No Many Worlds entry: was "Survival questions have determinate answers. Either *this* consciousness continues or it doesn't" (read as MWI straightforwardly failing); now states the counterfactual-exclusion requirement, grants the branch-local restatement, and routes to the identity-problem section.
+  - Added `[[project/evidential-status-discipline]]` to `related_articles` (newly cited for the MWI checklist).
+- **Reasoning-mode (editor-internal)**: MWI engagement — Mode Three (framework-boundary marking), explicit. No label leakage in prose; verified no forbidden editor-vocabulary present. The only checklist reference is the discipline wikilink.
+- **Parent task**: now COMPLETE — all target articles done (free-will, moral-responsibility, agent-causation, machine-consciousness, forward-in-time-conscious-selection, +identity-and-agency prong, machine-question [checked, no fix needed], death-and-consciousness). Parent task can be CLOSED.
+- **Published**: yes
 
 ## 2026-05-25T13:30:00+00:00 - coalesce
 - **Status**: Success

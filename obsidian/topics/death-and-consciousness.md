@@ -4,7 +4,7 @@ description: "Does consciousness survive bodily death? Dualism keeps the questio
 created: 2026-01-14
 modified: 2026-03-11
 human_modified: null
-ai_modified: 2026-05-03T11:41:37.772459+00:00
+ai_modified: 2026-05-25T13:34:50+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -34,6 +34,7 @@ related_articles:
   - "[[death-consciousness-persistence-2026-01-14]]"
   - "[[death-void]]"
   - "[[consciousness-as-perceptual-architect]]"
+  - "[[project/evidential-status-discipline]]"
 ai_contribution: 100
 author: null
 ai_system: claude-opus-4-6
@@ -63,7 +64,9 @@ On materialism, death is simple: consciousness is identical with brain processes
 
 Any account of survival must address [[personal-identity]]. What makes the consciousness that survives *yours*? This is where the Map's commitment to indexical identity becomes relevant.
 
-Derek Parfit argued that personal identity may have no determinate answer in survival cases—what matters is psychological continuity, which replicas could preserve. The Map rejects this. As discussed in the [[personal-identity]] article, indexical identity—the fact that *this* consciousness is the one having these experiences—matters independently of psychological continuity. A duplicate of you is not you. The [[tenets#^no-many-worlds|No Many Worlds tenet]] reflects this: identity questions have determinate answers.
+Derek Parfit argued that personal identity may have no determinate answer in survival cases—what matters is psychological continuity, which replicas could preserve. The Map rejects this. As discussed in the [[personal-identity]] article, indexical identity—the fact that *this* consciousness is the one having these experiences—matters independently of psychological continuity. A duplicate of you is not you.
+
+The [[tenets#^no-many-worlds|No Many Worlds tenet]] does load-bearing work here, and it is worth being precise about what that work is. The Map's rejection of the Many-Worlds Interpretation is not that an Everettian cannot describe survival. An Everettian can: inside any decohered branch there is a determinate person with indexically owned memories and a unique remembered history, and "does consciousness survive?" can be restated branch-locally as a question about whether some successor in this branch is psychologically and phenomenally continuous with the dying person. That branch-local restatement is available, and on its own it leaves the survival question phrased much as the Map phrases it. The Map's objection lies elsewhere: survival of *this* unique self requires counterfactual exclusion—a fact of the matter that *this* subject continues and the alternatives genuinely do not. Under Many-Worlds there is no such fact. Every macroscopically possible successor is actualised in some branch, each with equal claim to being the continuation, so the question "which of them is *me*?" has no determinate answer—exactly the indeterminacy Parfit welcomed and the Map denies. This is why No Many Worlds is, for the death cluster, a tenet about personhood and the determinacy of indexical ownership as much as about quantum interpretation. The disagreement with the Everettian is at the framework boundary—it rests on the tenet's demand for counterfactual exclusion, not on Many-Worlds failing to restate the phenomenological data—and it is honestly noted as such rather than presented as a refutation of Many-Worlds inside its own framework.
 
 ### Parfit's "Liberating" View of Death
 
@@ -183,7 +186,7 @@ The Map's openness to survival would face serious difficulty if:
 
 **[[tenets#^bidirectional-interaction|Bidirectional Interaction]]**: If consciousness causally influences matter, it has genuine efficacy at stake in death. The [[concepts/epiphenomenalism|epiphenomenalism]] this tenet rejects would make the question moot. Shared death experiences suggest consciousness-to-consciousness interaction may occur outside normal sensory channels when the filtering apparatus is compromised.
 
-**[[tenets#^no-many-worlds|No Many Worlds]]**: Survival questions have determinate answers. Either *this* consciousness continues or it doesn't—no pattern-based survival. [[haecceity|Haecceity]] is what might survive, not a reinstantiable pattern. The deeply personal quality of death phenomenology—the dying person's specific relatives, particular life review, individual timing awareness—reinforces that indexical identity matters.
+**[[tenets#^no-many-worlds|No Many Worlds]]**: Survival of a unique self requires counterfactual exclusion—the fact that *this* consciousness continues and the branching alternatives genuinely do not. A Many-Worlds picture can restate survival branch-locally, but it cannot supply that exclusion: it actualises every possible successor and so leaves "which one is *me*?" without a determinate answer (the identity work this is doing is set out under [the identity problem](#the-identity-problem)). [[haecceity|Haecceity]] is what might survive, not a reinstantiable pattern. The deeply personal quality of death phenomenology—the dying person's specific relatives, particular life review, individual timing awareness—reinforces that indexical identity matters.
 
 **[[tenets#^occams-limits|Occam's Razor Has Limits]]**: The simplest assumption—consciousness ends with brain function—might be wrong. Dismissing each dying phenomenon individually looks less parsimonious when they are considered together: convergent themes across radically different conditions suggest a unified explanation is needed, and the simplest unified explanation may not be the materialist one.
 

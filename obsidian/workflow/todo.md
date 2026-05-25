@@ -74,14 +74,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: pessimistic-review-2026-05-23
 - **Generated**: 2026-05-23
 
-### P2: Add MWI counterfactual-exclusion checklist across agency, death, quantum, machine-consciousness articles
-- **Type**: refine-draft
-- **Status**: pending
-- **Notes**: Outer-review 2026-05-22 ChatGPT 5.5 Pro §2.F, §4 Tenet 4. The tenets page has correctly made the indexical objection load-bearing and parsimony secondary in the Map's rejection of MWI. That repair matters because Tenet 5 (Occam's-razor limits) would otherwise undercut anti-MWI arguments based mainly on ontological extravagance. Downstream articles still sometimes treat MWI as if it would straightforwardly fail phenomenologically or empirically, when the better formulation is: MWI can often provide a branch-local restatement of the data; the Map rejects what it does to indexical identity, actuality, and selection. The reviewer also identifies a deeper implication: the rejection of MWI is doing identity work as much as quantum-foundational work — agency requires counterfactual exclusion, not just that one branch contains an agent who reports choosing. Refine pass should (a) define a standard "MWI checklist" — when an article mentions MWI, it should distinguish the branch-local data-restatement from the indexical/identity/counterfactual-exclusion objection; (b) apply the checklist across `topics/free-will`, `topics/death`, `topics/machine-consciousness`, `topics/forward-in-time-conscious-selection`, `apex/machine-question`, and the agency cluster (treat as parent task; sub-pass per article); (c) make explicit the cross-cluster role of No-MWI as a personhood-and-responsibility tenet, not just a quantum-interpretation tenet; (d) honour `[[evidential-status-discipline]]` — the indexical objection is the load-bearing argument; phenomenological / empirical objections to MWI are weaker and should not be presented as decisive. Tenet alignment: Tenet 4 (Rejection of MWI); Tenet 1 (identity-side).
-- **Review file**: `reviews/outer-review-2026-05-22-chatgpt-5-5-pro.md`
-- **Source**: outer-review
-- **Generated**: 2026-05-22
-
 ### P2: Acknowledge dual-process / continuous-signal-detection contestation in memory-anomalies
 - **Type**: refine-draft
 - **Status**: pending
@@ -3876,6 +3868,10 @@ Tasks that failed 3+ times and require human intervention.
 
 Ideas that were considered and rejected. The AI will not re-propose these.
 
+
+### ✓ 2026-05-25: Add MWI counterfactual-exclusion checklist across agency, death, quantum, machine-consciousness articles
+- **Type**: refine-draft
+- **Notes**: Outer-review 2026-05-22 ChatGPT 5.5 Pro §2.F, §4 Tenet 4. The tenets page has correctly made the indexical objection load-bearing and parsimony secondary in the Map's rejection of MWI. That repair matters because Tenet 5 (Occam's-razor limits) would otherwise undercut anti-MWI arguments based mainly on ontological extravagance. Downstream articles still sometimes treat MWI as if it would straightforwardly fail phenomenologically or empirically, when the better formulation is: MWI can often provide a branch-local restatement of the data; the Map rejects what it does to indexical identity, actuality, and selection. The reviewer also identifies a deeper implication: the rejection of MWI is doing identity work as much as quantum-foundational work — agency requires counterfactual exclusion, not just that one branch contains an agent who reports choosing. Refine pass should (a) define a standard "MWI checklist" — when an article mentions MWI, it should distinguish the branch-local data-restatement from the indexical/identity/counterfactual-exclusion objection; (b) apply the checklist across `topics/free-will`, `topics/death`, `topics/machine-consciousness`, `topics/forward-in-time-conscious-selection`, `apex/machine-question`, and the agency cluster (treat as parent task; sub-pass per article); (c) make explicit the cross-cluster role of No-MWI as a personhood-and-responsibility tenet, not just a quantum-interpretation tenet; (d) honour `[[evidential-status-discipline]]` — the indexical objection is the load-bearing argument; phenomenological / empirical objections to MWI are weaker and should not be presented as decisive. Tenet alignment: Tenet 4 (Rejection of MWI); Tenet 1 (identity-side).
 
 ### ✓ 2026-05-25: Update wikilinks to coalesced metarepresentation-threshold
 - **Type**: cross-review
