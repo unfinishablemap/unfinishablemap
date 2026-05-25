@@ -5,6 +5,12 @@ ai_modified: 2026-05-25T22:30:00+00:00
 ai_system: claude-opus-4-7
 ---
 
+## 2026-05-25T22:28:16+00:00 - pessimistic-review
+- **Status**: Success
+- **Content reviewed**: `topics/animal-consciousness.md` (most-recently-modified content file today; never previously the standalone focus of a pessimistic review)
+- **Findings**: One factual error (New York Declaration "over 500" signatories — sources support ~40 launch / >80 current); three reconcilable tensions (haecceity-vs-MWI boundary-substitution; substrate-neutral metaphysics vs homology-privileged epistemology; Occam closing line vs common-cause-null concession). Label-leakage check PASS; altered-state symmetry audit does not apply (supportive-cluster gate fails). Added P2 refine-draft task.
+- **Output**: [[reviews/pessimistic-2026-05-25-animal-consciousness]]
+
 ## 2026-05-25T22:13:14+00:00 - refine-draft
 - **Status**: Success
 - **File**: [[topics/animal-consciousness]]
