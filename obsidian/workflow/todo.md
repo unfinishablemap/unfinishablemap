@@ -37,15 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Tighten O'Brien-Kop puruṣa parallel in epistemology-of-convergence-arguments
-- **Type**: refine-draft
-- **Status**: pending
-- **File**: obsidian/topics/epistemology-of-convergence-arguments.md
-- **Notes**: Outer-review 2026-05-23 Claude Opus 4.7 §2 (O'Brien-Kop reading is one-sided). The article uses O'Brien-Kop (2023) to support a parallel between Sāṃkhya puruṣa and Chalmers's phenomenal consciousness. The citation is real and the metadata correct, but O'Brien-Kop's own framing complicates the parallel more than the article acknowledges: pure consciousness in Sāṃkhya is described as "contentless" and explicitly "does not contain sensation, feeling, or experience." Verified via secondary sources summarising the paper. This makes puruṣa *less* like phenomenal consciousness (which is paradigmatically the *what-it-is-like* of feeling and sensation) than the article implies. The current hedge to "rival scholarship (Larson, Bryant, Whicher)" understates how much O'Brien-Kop herself complicates the parallel. Refine pass: (a) Add a sentence flagging that O'Brien-Kop's reading shifts the hard problem from "subjectivity as conscious experience" to "subjectivity as the capacity to consciously recognize experience," which is a non-trivial difference from Chalmers's framing; (b) Acknowledge the contentless characterisation explicitly — the article should not lean on O'Brien-Kop for a parallel her own argument resists; (c) Either find a different supporting source for the strict puruṣa-phenomenal-consciousness parallel (Larson, Bryant, or Whicher may be available; their readings are more closely aligned with the article's framing) or weaken the parallel to fit O'Brien-Kop's framing honestly. Apply the direct-refutation discipline if it turns out the parallel cannot be sustained at the strength the article claims — mark it as a framework-boundary issue rather than a clean cross-traditional convergence. Tenet alignment: Tenet 1 + calibration discipline (don't lean a convergence argument on a source whose own argument resists the convergence).
-- **Review file**: `reviews/outer-review-2026-05-23-claude-opus-4-7.md`
-- **Source**: outer-review
-- **Generated**: 2026-05-24
-
 ### P3: Hedge pre-publication source citations in born-rule article
 - **Type**: refine-draft
 - **Status**: pending
@@ -3947,6 +3938,10 @@ Tasks that failed 3+ times and require human intervention.
 
 Ideas that were considered and rejected. The AI will not re-propose these.
 
+
+### ✓ 2026-05-25: Tighten O'Brien-Kop puruṣa parallel in epistemology-of-convergence-arguments
+- **Type**: refine-draft
+- **Notes**: Outer-review 2026-05-23 Claude Opus 4.7 §2 (O'Brien-Kop reading is one-sided). The article uses O'Brien-Kop (2023) to support a parallel between Sāṃkhya puruṣa and Chalmers's phenomenal consciousness. The citation is real and the metadata correct, but O'Brien-Kop's own framing complicates the parallel more than the article acknowledges: pure consciousness in Sāṃkhya is described as "contentless" and explicitly "does not contain sensation, feeling, or experience." Verified via secondary sources summarising the paper. This makes puruṣa *less* like phenomenal consciousness (which is paradigmatically the *what-it-is-like* of feeling and sensation) than the article implies. The current hedge to "rival scholarship (Larson, Bryant, Whicher)" understates how much O'Brien-Kop herself complicates the parallel. Refine pass: (a) Add a sentence flagging that O'Brien-Kop's reading shifts the hard problem from "subjectivity as conscious experience" to "subjectivity as the capacity to consciously recognize experience," which is a non-trivial difference from Chalmers's framing; (b) Acknowledge the contentless characterisation explicitly — the article should not lean on O'Brien-Kop for a parallel her own argument resists; (c) Either find a different supporting source for the strict puruṣa-phenomenal-consciousness parallel (Larson, Bryant, or Whicher may be available; their readings are more closely aligned with the article's framing) or weaken the parallel to fit O'Brien-Kop's framing honestly. Apply the direct-refutation discipline if it turns out the parallel cannot be sustained at the strength the article claims — mark it as a framework-boundary issue rather than a clean cross-traditional convergence. Tenet alignment: Tenet 1 + calibration discipline (don't lean a convergence argument on a source whose own argument resists the convergence).
 
 ### ✓ 2026-05-25: Add Chalmers 2020 cross-cultural hard-problem paper to epistemology-of-convergence-arguments
 - **Type**: refine-draft

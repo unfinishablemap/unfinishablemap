@@ -1,9 +1,21 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-25 08:51:10+00:00
+ai_modified: 2026-05-25 08:55:30+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-05-25T08:55:30+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[topics/epistemology-of-convergence-arguments]]
+- **Original score**: n/a (curate.py review tool not present in repo; targeted calibration pass from outer-review 2026-05-23 Claude Opus 4.7 §2, "O'Brien-Kop reading is one-sided")
+- **Context**: The article cited O'Brien-Kop (2023) in-text to support a parallel between Sāṃkhya *Puruṣa* and Chalmers's phenomenal consciousness, relegating the complicating reading to "rival scholarship (Larson, Bryant, Whicher)." The outer review (verified against secondary sources) established that O'Brien-Kop *herself* resists the strict parallel: she characterises *Puruṣa* as "contentless" — not containing sensation, feeling, or experience — and shifts the hard problem from "subjectivity as conscious experience" (Chalmers) to "subjectivity as the capacity to consciously recognise experience." Leaning on her for the phenomenal-consciousness identification was the calibration error (citing a convergence on a source whose own argument resists the convergence). Citation metadata is correct; only the in-text gloss was at fault.
+- **Changes**:
+  - Rewrote the O'Brien-Kop sentence in the "Robustness Under Variation" section's diachronic-robustness paragraph. Now states the parallel "does not survive close scholarly contact at full strength," reports O'Brien-Kop's actual position (contentless *Puruṣa*; relocation of the hard problem to the recognition-capacity reading), and notes explicitly that if *Puruṣa* lacks sensation and feeling it is "precisely not phenomenal character in Chalmers's sense," so her analysis cannot underwrite the strict parallel.
+  - Reframed the interpretive disagreement (O'Brien-Kop's recognition-capacity reading vs. Larson/Bryant/Whicher's Kantian-transcendental reading) as a framework-boundary disagreement among interpreters who differ on "what *Puruṣa* even is," not a clean cross-traditional convergence on phenomenal consciousness. Preserved the article's overall convergence conclusion by routing it to the structural level it already claimed — the irreducible witnessing subject *Prakṛti* cannot constitute or absorb — which all readings share.
+  - Did not change the line-57 Sāṃkhya/Descartes convergence claim (it operates at the structural-irreducibility level my edit preserves) or the reference-list entry (metadata correct).
+- **Engagement classification (editor-internal)**: This is a citation-calibration fix, not a named-opponent refutation, so no Mode One/Two/Three applies. The dialectical move installed is honest framework-boundary marking (Mode Three register) at the level of scholarly interpretation: the parallel is downgraded to structural-feature agreement and the contested phenomenal identification is withdrawn rather than asserted. No editor-vocabulary or self-referential meta-commentary leaked into the body (revised an initial "the article does not lean on..." phrasing into a direct claim about O'Brien-Kop's analysis). No altered-state symmetry flag (article is not altered-state-cluster).
+- **Published**: yes
 
 ## 2026-05-25T08:51:10+00:00 - refine-draft
 - **Status**: Success
