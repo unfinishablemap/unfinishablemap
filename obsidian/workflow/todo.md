@@ -37,17 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Adopt semantic-memory calibration in memory-system-vulnerability-hierarchies-as-interface-evidence
-- **Type**: refine-draft
-- **Status**: pending
-- **File**: obsidian/topics/memory-system-vulnerability-hierarchies-as-interface-evidence.md
-- **Notes**: From topic-concept anchoring audit 2026-05-25. The topic article over-claims relative to its anchor concept [[semantic-memory]]; failed checks: hedge_density, strong_assertions.
-  - hedge density 1.51/kw is below 60% of anchor (7.04/kw)
-  - strong-assertion density 1.01/kw exceeds 1.5× anchor (0.64/kw)
-  - Action: bring the topic's hedge profile in line with the anchor concept's. Preserve the article's voice; this is not a request to weaken the central claim, only to inherit the calibration discipline the anchor concept already uses. See [[project/calibration-audit-triple]] Audit Three for the spec and [[evidential-status-discipline]] for the underlying rule.
-- **Source**: topic-concept-anchoring-audit
-- **Generated**: 2026-05-25
-
 ### P2: Adopt observational-closure calibration in delegatory-dualism
 - **Type**: refine-draft
 - **Status**: pending
@@ -58,7 +47,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
   - Action: bring the topic's hedge profile in line with the anchor concept's. Preserve the article's voice; this is not a request to weaken the central claim, only to inherit the calibration discipline the anchor concept already uses. See [[project/calibration-audit-triple]] Audit Three for the spec and [[evidential-status-discipline]] for the underlying rule.
 - **Source**: topic-concept-anchoring-audit
 - **Generated**: 2026-05-25
-
 
 ### P3: Fix accounting asymmetry in born-rule framework table
 - **Type**: refine-draft
@@ -3883,6 +3871,10 @@ Tasks that failed 3+ times and require human intervention.
 
 Ideas that were considered and rejected. The AI will not re-propose these.
 
+
+### ✓ 2026-05-25: Adopt semantic-memory calibration in memory-system-vulnerability-hierarchies-as-interface-evidence
+- **Type**: refine-draft
+- **Notes**: From topic-concept anchoring audit 2026-05-25. The topic article over-claims relative to its anchor concept [[semantic-memory]]; failed checks: hedge_density, strong_assertions.
 
 ### ✓ 2026-05-25: Condense topics/quantum-biology-and-neural-consciousness.md (4618 words, exceeds topics hard threshold)
 - **Type**: condense

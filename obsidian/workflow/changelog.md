@@ -1,9 +1,19 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-25T13:52:14+00:00
+ai_modified: 2026-05-25T14:34:09+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-05-25T14:34:09+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[topics/memory-system-vulnerability-hierarchies-as-interface-evidence]]
+- **Trigger**: Topic-concept anchoring audit 2026-05-25 (Audit Three). Flagged as over-claiming relative to anchor concept [[semantic-memory]]; failed checks: hedge_density (1.51/kw vs ≥4.23 target = 60% of anchor's 7.04/kw) and strong_assertions (1.01/kw vs ≤0.96 cap = 1.5× anchor's 0.64/kw).
+- **Changes**: Inherited the anchor concept's calibration discipline without weakening the central claim. (1) Softened two reducible strong-assertion markers — lead "proves dualism" → "settles dualism"; anaesthesia "shows that the channels are separable" → "suggests that" — dropping strong-assertion density to 0.49/kw. (2) Raised hedge density from 1.51/kw (6 hedges) to 4.64/kw (19 hedges) by hedging genuinely interpretive claims that were stated in flat is/does register: lead filter-prediction framing, Klein-separability inference, hemispherectomy "channels exist independently" metaphysical step (now marked as the contested interpretive step, not a datum), terminal-lucidity filter/production sentences, and the predictive-processing absorption assessment. (3) Reinforced the constrain-vs-establish distinction: added an explicit underdetermination marker to the lead ("neither framing is forced by the cross-state data alone"; underdet markers 1→2), aligning with [[evidential-status-discipline]]. Central filter-reading endorsement preserved throughout; the article still reads the hierarchy as one of the catalogue's stronger pieces of interface evidence, now framed as a serious interpretation the data make available rather than force.
+- **Engagement classification**: production theorist / predictive-processing reading — Mode Three (framework-boundary marking); the article already marks the disagreement honestly via the evidential-status discipline and names the future discriminating test rather than claiming in-framework refutation. Calibration pass left this structure intact and reinforced it.
+- **Verification**: `evaluate_anchoring()` now returns no flags against either anchor (semantic-memory and attention-as-interface, both flagged in the same audit run). hedge 4.64/kw ≥ 4.23; strong-assertion 0.49/kw ≤ 0.96.
+- **Original score**: not run (the `scripts/curate.py review` tool referenced in the skill no longer exists; the audit's numeric targets served as the quality signal for this calibration-specific refine)
+- **Published**: yes
 
 ## 2026-05-25T14:30:00+00:00 - condense
 - **Status**: Success
