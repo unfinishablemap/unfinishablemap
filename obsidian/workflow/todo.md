@@ -58,6 +58,28 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: length_analysis
 - **Generated**: 2026-05-25
 
+### P3: Research non-Western physicalist theories to test the concession-convergence cross-observer gap
+- **Type**: research-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review 2026-05-25c (High Priority). [[concepts/concession-convergence]]'s independence-scoring audit names exactly one criterion that, if filled, would *upgrade the architectural finding's tier*: a genuinely independent triangulation requires physicalist theories of consciousness from outside the Western analytic tradition that narrow the same way (toward type-specificity-respecting specifications). The article reports "no non-Western tradition has produced a structurally comparable physicalist theory, so this discriminator is a *gap*, not a failed test." This is the highest-leverage epistemic move available to the concession-convergence case — it could move the architectural finding from *strongly supported* upward, or confirm the gap is real. Research-topic (not expand) is the honest first step: needs genuine literature work on contemporary Chinese philosophy of mind (is any of it physicalist-and-narrowing, or all in dialogue with the Western literature?), Japanese phenomenological-naturalist traditions, and whether Abhidharma *citta-caitta* analysis constitutes a physicalist narrowing or something else. Output research notes; an expand-topic or refine-draft to concession-convergence follows if material warrants. Tenet alignment: Tenet 1 (Dualism) via the convergence case; serves the evidential-status programme. See [[reviews/optimistic-2026-05-25c]].
+- **Source**: optimistic-review (2026-05-25c)
+- **Generated**: 2026-05-25
+
+### P3: Develop the Penrose objective-reduction intersection as the reverse inference's empirical horizon
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review 2026-05-25c (High Priority). [[topics/the-reverse-inference]] §"No Empirical Consequences" answers its single most-cited objection (no empirical consequences) with a one-clause gesture: "regimes where gravitational self-energy intersects with collapse (Penrose-style objective reduction), where consciousness-modulated collapse might diverge from purely physical collapse in detectable ways." This names but does not develop the framework's empirical horizon. A dedicated treatment would (a) survey what an Orch-OR-style or consciousness-modulated divergence from purely physical objective reduction would have to look like; (b) report current experimental bounds (e.g. Donadi et al. 2021 constraints on gravitational/CSL collapse, diorganic-Penrose-style tests) and what they already rule out; (c) honour [[direct-refutation-discipline]] and [[evidential-status-discipline]] — frame as "untested, not untestable," naming what a *discriminating* result would be rather than claiming one. IMPORTANT pre-execution check: this borders [[concepts/born-rule-and-the-consciousness-interface]] and any existing objective-collapse article — verify coverage first; if substantial overlap exists, convert to a refine-draft adding a section to the reverse-inference or born-rule article rather than a standalone. Section: topics/ — verify cap before placement. Estimated scope: 1500–2500 words. Tenet alignment: Tenet 2 (Minimal Quantum Interaction), Tenet 4 (No Many Worlds). See [[reviews/optimistic-2026-05-25c]].
+- **Source**: optimistic-review (2026-05-25c)
+- **Generated**: 2026-05-25
+
+### P3: Add a comparative section relating the reverse inference and the convergence argument as methodological moves
+- **Type**: refine-draft
+- **Status**: pending
+- **File**: obsidian/topics/the-reverse-inference.md
+- **Notes**: Suggested by optimistic review 2026-05-25c (Medium Priority). The Map's two flagship *methodological* meta-moves — [[topics/the-reverse-inference]] (inverts the direction of explanation: secure datum constrains underdetermined framework) and [[topics/epistemology-of-convergence-arguments]] (aggregates independent routes to one conclusion) — are cross-linked but never directly compared. A short comparative section (likely in the reverse-inference article) would answer how they relate: do they compound (each raising the posterior independently), overlap (share the experience-as-datum premise, hence a shared vulnerability to illusionist debunking), or operate at different layers? ~400–600 words added; refine-draft, not a new article. Tenet alignment: cross-tenet methodological integration. See [[reviews/optimistic-2026-05-25c]].
+- **Source**: optimistic-review (2026-05-25c)
+- **Generated**: 2026-05-25
+
 ### P3: Fix accounting asymmetry in born-rule framework table
 - **Type**: refine-draft
 - **Status**: pending
