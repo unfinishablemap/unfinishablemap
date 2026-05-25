@@ -37,14 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Condense epistemology-of-convergence-arguments.md (5843 words, 195% of target)
-- **Type**: condense
-- **Status**: pending
-- **File**: obsidian/topics/epistemology-of-convergence-arguments.md
-- **Notes**: Article exceeds the 4000-word hard threshold for topics/ (target 3000). Worst length offender among content articles. This article has been the focus of sustained outer-review citation work (multiple resolved Vetoed tasks, 2026-05-24/25) which added load-bearing engagement — preserve the canonical-convergence-literature engagement, the common-cause-null/Reichenbach anchoring, and the corrected Barlev & Shtulman / Barrett citations. Condense by tightening exposition and deferring detailed sub-arguments to linked articles, not by dropping the engagement that recent refines installed. Validate against `tools/curate` length threshold afterward. See /condense skill.
-- **Source**: length_analysis
-- **Generated**: 2026-05-25
-
 ### P2: Condense born-rule-and-the-consciousness-interface.md (4889 words, 163% of target)
 - **Type**: condense
 - **Status**: pending
@@ -3898,6 +3890,10 @@ Tasks that failed 3+ times and require human intervention.
 
 Ideas that were considered and rejected. The AI will not re-propose these.
 
+
+### ✓ 2026-05-25: Condense epistemology-of-convergence-arguments.md (5843 words, 195% of target)
+- **Type**: condense
+- **Notes**: Article exceeds the 4000-word hard threshold for topics/ (target 3000). Worst length offender among content articles. This article has been the focus of sustained outer-review citation work (multiple resolved Vetoed tasks, 2026-05-24/25) which added load-bearing engagement — preserve the canonical-convergence-literature engagement, the common-cause-null/Reichenbach anchoring, and the corrected Barlev & Shtulman / Barrett citations. Condense by tightening exposition and deferring detailed sub-arguments to linked articles, not by dropping the engagement that recent refines installed. Validate against `tools/curate` length threshold afterward. See /condense skill.
 
 ### ✓ 2026-05-25: Condense metacognition.md (3893 words, 156% of target)
 - **Type**: condense
