@@ -45,14 +45,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: pessimistic-review-2026-05-23
 - **Generated**: 2026-05-23
 
-### P2: Engage Butlin et al. 2023 empirical-AI-consciousness framework in machine-question cluster
-- **Type**: refine-draft
-- **Status**: pending
-- **Notes**: Outer-review 2026-05-22 Claude Opus 4.7 §6 (under-represented topics), §8 P8. The Butlin et al. (2023) report "Consciousness in Artificial Intelligence: Insights from the Science of Consciousness" — a systematic attempt to apply contemporary consciousness-science criteria (global workspace, higher-order, predictive processing, attention schema, agency) to current AI systems — is the most-cited 2020s empirical framework for AI consciousness assessment and is not engaged on the Map. Refine pass should: (a) add substantive treatment of Butlin et al. 2023 to `apex/machine-question.md` and/or `apex/what-it-might-be-like-to-be-an-ai.md`; (b) note where the Butlin framework's criterion-based assessment converges with the Map's pairing-problem / progressive-mutual-adaptation criteria and where it diverges; (c) discuss the framework's headline finding (current LLMs satisfy none of the criteria robustly) and how it bears on `topics/open-question-ai-consciousness.md`'s "None preserved as most likely answer" calibration; (d) check whether the broader 2024–2026 empirical-criteria literature (post-Butlin) has shifted the picture and update accordingly. Honour [[evidential-status-discipline]]: the Butlin framework is at *live-hypothesis* tier as a criterion system, *strongly-supported* tier as a synthesis of contemporary consciousness science. Apply the direct-refutation discipline if engagement uncovers contested moves. Tenet alignment: machine-question is the Tenet 1/Tenet 3 frontier — engagement with the strongest contemporary empirical-criteria framework is overdue.
-- **Review file**: `reviews/outer-review-2026-05-22-claude-opus-4-7.md`
-- **Source**: outer-review
-- **Generated**: 2026-05-23
-
 ### P2: Engage Frankish's strongest illusionism arguments in zombie/illusionism cluster
 - **Type**: refine-draft
 - **Status**: pending
@@ -3927,6 +3919,10 @@ Tasks that failed 3+ times and require human intervention.
 
 Ideas that were considered and rejected. The AI will not re-propose these.
 
+
+### ✓ 2026-05-25: Engage Butlin et al. 2023 empirical-AI-consciousness framework in machine-question cluster
+- **Type**: refine-draft
+- **Notes**: Outer-review 2026-05-22 Claude Opus 4.7 §6 (under-represented topics), §8 P8. The Butlin et al. (2023) report "Consciousness in Artificial Intelligence: Insights from the Science of Consciousness" — a systematic attempt to apply contemporary consciousness-science criteria (global workspace, higher-order, predictive processing, attention schema, agency) to current AI systems — is the most-cited 2020s empirical framework for AI consciousness assessment and is not engaged on the Map. Refine pass should: (a) add substantive treatment of Butlin et al. 2023 to `apex/machine-question.md` and/or `apex/what-it-might-be-like-to-be-an-ai.md`; (b) note where the Butlin framework's criterion-based assessment converges with the Map's pairing-problem / progressive-mutual-adaptation criteria and where it diverges; (c) discuss the framework's headline finding (current LLMs satisfy none of the criteria robustly) and how it bears on `topics/open-question-ai-consciousness.md`'s "None preserved as most likely answer" calibration; (d) check whether the broader 2024–2026 empirical-criteria literature (post-Butlin) has shifted the picture and update accordingly. Honour [[evidential-status-discipline]]: the Butlin framework is at *live-hypothesis* tier as a criterion system, *strongly-supported* tier as a synthesis of contemporary consciousness science. Apply the direct-refutation discipline if engagement uncovers contested moves. Tenet alignment: machine-question is the Tenet 1/Tenet 3 frontier — engagement with the strongest contemporary empirical-criteria framework is overdue.
 
 ### ✓ 2026-05-25: Sustained engagement with Wallace 2012 in MWI cluster
 - **Type**: refine-draft
