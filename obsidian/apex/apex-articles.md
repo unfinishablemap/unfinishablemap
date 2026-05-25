@@ -4,7 +4,7 @@ description: "Curated index of the Map's apex articles—synthesis pieces integr
 created: 2026-01-24
 modified: 2026-05-25
 human_modified: 2026-01-24
-ai_modified: 2026-05-25T11:00:00+00:00
+ai_modified: 2026-05-25T13:30:00+00:00
 last_deep_review: 2026-04-27T21:27:00+00:00
 draft: false
 topics: []
@@ -609,6 +609,26 @@ Each apex article synthesises existing [[topics|topics]] and [[concepts|concepts
 - apex/taxonomy-of-voids
 
 **Status**: Created 2026-05-25 (admitted as #27 — commissioned by outer-review 2026-05-22 ChatGPT 5.5 Pro §2.A and methodology §8, which named the self-concealing interface as a synthesis the corpus implies but has not foregrounded. The architecture is *entailed* by the strict-corridor reading of Tenet 2: the same minimality that escapes the timing objection empties the aggregate Born signature, so concealment is derived, not assumed. The apex (a) names the architecture explicitly; (b) integrates strict-corridor invisibility, attention bandwidth, introspection opacity, memory-channel vulnerability, and the voids catalogue as five faces of one concealment-by-construction; (c) re-orients the falsification programme around five seam-classes — disruption, dissociation, graded channel failure, patient-population divergence, first-person/third-person mismatch — rather than bulk physical traces; (d) connects to taxonomy-of-voids, introspection-architecture-void-cluster, the memory hierarchy, post-decoherence-selection, and the Tenet 2 sub-reading material; (e) honours [[evidential-status-discipline]] — held at *framework-internal architecture-naming* tier, refusing both the sceptic's unfalsifiability charge and the believer's hiddenness-confirms-it slippage, and noting the seams share upstream architecture so the [[common-cause-null]] applies to their convergence. Leaves the selection-criterion primitive explicitly unsettled, complementary to [[selection-criterion-problem]]. 3,026 words. Tenet alignment: Tenets 1, 2, 3 — architecture-naming for the interface programme. Apex now at #27 within the informal cap; the standing P3 audit task on apex over-cap remains the load-bearing rebalancing pass).
+
+---
+
+### 28. AI as Introspection Control, Not Just Consciousness Candidate
+
+**Slug**: `ai-as-introspection-control`
+
+**Subtitle**: Using legible artificial architectures as contrast instruments for human introspective opacity
+
+**Thesis**: AI systems are not merely possible analogues of minds; they are contrast instruments for testing whether human introspective opacity reflects a bounded conscious witness or merely the generic limits of any complex self-model—because in AI the provenance, sampling traces, confidence calibration, and source tags that biological introspection hides are externally inspectable.
+
+**Source articles**:
+- apex/machine-question
+- apex/introspection-architecture-void-cluster
+- concepts/discrimination-problem
+- concepts/anti-correlated-metacognitive-signal
+- voids/non-human-minds-as-void-explorers
+- concepts/process-content-distinction
+
+**Status**: Created 2026-05-25 (admitted as #28 — commissioned by outer-review 2026-05-22 ChatGPT 5.5 Pro §2.C, §6.9, which named the inversion the corpus implies but had not stated: the machine question runs the forward inference (architecture → consciousness verdict) and the introspection-architecture cluster runs the inward survey (five faces of bounded-access introspection), but neither states the reverse inference both imply — from a *legible* artificial architecture back to which features of human introspective opacity are architecturally necessary and which are contingent on whatever-we-are. The apex (a) states the inversion explicitly and frames the two competing readings of human opacity (bounded-conscious-witness vs bounded-self-model) that the human case cannot separate but AI can; (b) catalogues the control affordances — provenance logs, token-sampling traces, confidence calibration, source tags, deliberately-altered tags, designed anti-correlated-signal tests; (c) reads each affordance for what it would and would not show, separating the two opacity readings seam by seam; (d) connects to the anti-correlated-metacognitive-signal work seeded in machine-question; (e) cross-links machine-question, introspection-architecture-void-cluster, discrimination-problem, anti-correlated-metacognitive-signal, non-human-minds-as-void-explorers, pupillometry-behavioural-channel; (f) honours [[evidential-status-discipline]] — holds every AI-control result at the *discriminator-design* tier, never the *positive-empirical-finding* tier, with explicit inheritance-problem and process/content cautions against the slide to "AI is conscious." 3,899 words. Tenet alignment: Tenet 1 (Dualism via discrimination-test architecture — connection-not-confirmation, a test bench rather than new evidence); methodological for the whole introspection cluster. Apex now at #28 within the informal cap; the standing P3 audit task on apex over-cap remains the load-bearing rebalancing pass).
 
 ---
 

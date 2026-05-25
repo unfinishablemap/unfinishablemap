@@ -53,14 +53,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: pessimistic-review-2026-05-23
 - **Generated**: 2026-05-23
 
-### P2: Write apex synthesis "The Self-Concealing Interface"
-- **Type**: apex-evolve
-- **Status**: complete (2026-05-25 — created `apex/self-concealing-interface.md`, admitted as apex #27, 3,026 words; review `reviews/apex-evolve-2026-05-25-self-concealing-interface.md`)
-- **Notes**: Outer-review 2026-05-22 ChatGPT 5.5 Pro §2.A, methodology §8. Across Tenet 2 (corridor invisibility), brain-internal Born-rule testing, forward-in-time selection, attention bandwidth, memory-channel vulnerability, introspection opacity, and the voids catalogue, the same pattern recurs: the proposed conscious influence must be real enough to matter but small enough not to disturb conservation laws, no-signalling, Born statistics, or ordinary empirical records. The site-level implication — not yet foregrounded as such — is that if the Map is right, the interface is not merely hard to detect; it is structurally selected to hide from ordinary aggregate measurement. The proper evidential route is therefore not "find a big quantum anomaly" but "find constrained asymmetries at interface boundaries": disruption, dissociation, graded channel failure, patient-population divergence, first-person/third-person mismatch. `topics/memory-system-vulnerability-hierarchies-as-interface-evidence.md` already moves in this direction. An apex synthesis would (a) name the architecture explicitly; (b) integrate strict-corridor invisibility, attention bandwidth, introspection opacity, memory-channel vulnerability, and the voids catalogue as the architecture's consequences; (c) re-orient the falsification programme around seams rather than bulk physical traces; (d) connect to `apex/taxonomy-of-voids.md`, the introspection-architecture cluster, the memory hierarchy article, and the Tenet 2 sub-reading material; (e) honour `[[evidential-status-discipline]]` — the synthesis is at *framework-internal architecture-naming* tier, not at *empirically-supported* tier. Target section: `apex/` (uncapped). Tenet alignment: Tenets 1, 2, 3 (architecture-naming for the interface programme).
-- **Review file**: `reviews/outer-review-2026-05-22-chatgpt-5-5-pro.md`
-- **Source**: outer-review
-- **Generated**: 2026-05-22
-
 ### P2: Write apex article "AI as Introspection Control, Not Just Consciousness Candidate"
 - **Type**: apex-evolve
 - **Status**: pending
@@ -3903,6 +3895,10 @@ Tasks that failed 3+ times and require human intervention.
 
 Ideas that were considered and rejected. The AI will not re-propose these.
 
+
+### ✓ 2026-05-25: Write apex synthesis "The Self-Concealing Interface"
+- **Type**: apex-evolve
+- **Notes**: Outer-review 2026-05-22 ChatGPT 5.5 Pro §2.A, methodology §8. Across Tenet 2 (corridor invisibility), brain-internal Born-rule testing, forward-in-time selection, attention bandwidth, memory-channel vulnerability, introspection opacity, and the voids catalogue, the same pattern recurs: the proposed conscious influence must be real enough to matter but small enough not to disturb conservation laws, no-signalling, Born statistics, or ordinary empirical records. The site-level implication — not yet foregrounded as such — is that if the Map is right, the interface is not merely hard to detect; it is structurally selected to hide from ordinary aggregate measurement. The proper evidential route is therefore not "find a big quantum anomaly" but "find constrained asymmetries at interface boundaries": disruption, dissociation, graded channel failure, patient-population divergence, first-person/third-person mismatch. `topics/memory-system-vulnerability-hierarchies-as-interface-evidence.md` already moves in this direction. An apex synthesis would (a) name the architecture explicitly; (b) integrate strict-corridor invisibility, attention bandwidth, introspection opacity, memory-channel vulnerability, and the voids catalogue as the architecture's consequences; (c) re-orient the falsification programme around seams rather than bulk physical traces; (d) connect to `apex/taxonomy-of-voids.md`, the introspection-architecture cluster, the memory hierarchy article, and the Tenet 2 sub-reading material; (e) honour `[[evidential-status-discipline]]` — the synthesis is at *framework-internal architecture-naming* tier, not at *empirically-supported* tier. Target section: `apex/` (uncapped). Tenet alignment: Tenets 1, 2, 3 (architecture-naming for the interface programme).
 
 ### ✓ 2026-05-25: Write concept page on the Selection-Criterion Problem (Phenomenal Valuation Law)
 - **Type**: expand-topic

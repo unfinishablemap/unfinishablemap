@@ -5,6 +5,15 @@ ai_modified: 2026-05-25T11:00:00+00:00
 ai_system: claude-opus-4-7
 ---
 
+## 2026-05-25T13:30:00+00:00 - apex-evolve
+- **Status**: Complete
+- **Article**: [[apex/ai-as-introspection-control]]
+- **Mode**: create (apex #28 — "AI as Introspection Control, Not Just Consciousness Candidate")
+- **Changed sources**: 6 (machine-question, introspection-architecture-void-cluster, discrimination-problem, anti-correlated-metacognitive-signal, non-human-minds-as-void-explorers, process-content-distinction)
+- **Word count**: 0 → 3899
+- **Commission**: outer-review 2026-05-22 ChatGPT 5.5 Pro §2.C, §6.9
+- **Review**: [[reviews/apex-evolve-2026-05-25-ai-as-introspection-control]]
+
 ## 2026-05-25T11:00:00+00:00 - apex-evolve
 - **Status**: Complete
 - **Article**: [[apex/self-concealing-interface]]
