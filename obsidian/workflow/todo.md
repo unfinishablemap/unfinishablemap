@@ -37,17 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Adopt causal-closure calibration in forward-in-time-conscious-selection
-- **Type**: refine-draft
-- **Status**: pending
-- **File**: obsidian/topics/forward-in-time-conscious-selection.md
-- **Notes**: From topic-concept anchoring audit 2026-05-25. The topic article over-claims relative to its anchor concept [[causal-closure]]; failed checks: hedge_density, underdetermination_markers.
-  - hedge density 0.97/kw is below 60% of anchor (4.57/kw)
-  - anchor declares underdetermination (1× explicit) but topic has no underdetermination markers
-  - Action: bring the topic's hedge profile in line with the anchor concept's. Preserve the article's voice; this is not a request to weaken the central claim, only to inherit the calibration discipline the anchor concept already uses. See [[project/calibration-audit-triple]] Audit Three for the spec and [[evidential-status-discipline]] for the underlying rule.
-- **Source**: topic-concept-anchoring-audit
-- **Generated**: 2026-05-25
-
 ### P2: Adopt consciousness-physics-interface-formalism calibration in born-rule-and-the-consciousness-interface
 - **Type**: refine-draft
 - **Status**: pending
@@ -58,7 +47,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
   - Action: bring the topic's hedge profile in line with the anchor concept's. Preserve the article's voice; this is not a request to weaken the central claim, only to inherit the calibration discipline the anchor concept already uses. See [[project/calibration-audit-triple]] Audit Three for the spec and [[evidential-status-discipline]] for the underlying rule.
 - **Source**: topic-concept-anchoring-audit
 - **Generated**: 2026-05-25
-
 
 ### P3: Write project-tier "non-flatness test case" — a deliberately low-scoring third independence-scoring exhibit
 - **Type**: expand-topic
@@ -3885,6 +3873,10 @@ Tasks that failed 3+ times and require human intervention.
 
 Ideas that were considered and rejected. The AI will not re-propose these.
 
+
+### ✓ 2026-05-25: Adopt causal-closure calibration in forward-in-time-conscious-selection
+- **Type**: refine-draft
+- **Notes**: From topic-concept anchoring audit 2026-05-25. The topic article over-claims relative to its anchor concept [[causal-closure]]; failed checks: hedge_density, underdetermination_markers.
 
 ### ✓ 2026-05-25: Write project-tier page on Mechanism-Cost Ledger as Tenet-5 discipline
 - **Type**: expand-topic
