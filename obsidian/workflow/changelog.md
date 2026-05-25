@@ -1,9 +1,21 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-25T13:40:00+00:00
+ai_modified: 2026-05-25T13:52:14+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-05-25T13:52:14+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[topics/memory-anomalies]]
+- **Source**: pessimistic-2026-05-19d Issue 3 (dual-process architecture presented as settled; 2020s literature contested)
+- **Changes**:
+  - Added a paragraph to §"The Dual-Process Architecture" naming the continuous-signal-detection (CSD) contest (Wixted; Wixted & Mickes; Pratte & Rouder; Cohen et al.) and re-deriving the Map's phenomenal-output / causal-machinery dissociation claim *architecture-independently* (option a): the gap between signal-producing-phenomenology and signal-tracking-truth survives whether recognition decomposes into two channels or one continuous strength dimension. CSD relocates the boundary; the dissociation exhibit holds either way.
+  - Applied a minimal consistency qualifier in §"Three Rotations on a Single Failure": "Mainstream memory research operates with" → "One influential strand of memory research operates with," with a forward pointer to the contestation flag. The "three rotations" framing is now explicitly stated on the dual-process reading without the article's load-bearing claim depending on it.
+  - Added 5 CSD references (Wixted 2007 *Psych Review*; Wixted & Mickes 2010; Wixted & Squire 2010; Pratte & Rouder 2012; Cohen et al. 2013). Corrected the task-note journal candidate ("Wixted 2007 *Memory & Cognition*") to the actual *Psychological Review* 114(1) venue; body cites author-year only, so no inline journal claim was introduced.
+- **Common-cause-null cross-link** (19d Counterarguments §): already present and substantive at the cluster paragraph (links `[[project/common-cause-null]]` and the apex synthesis with the concession spelled out); no change needed.
+- **Length offset**: tightened the verbose Bergson constrain-vs-establish closing paragraph to partly offset the ~150-word net addition.
+- **Published**: yes
 
 ## 2026-05-25T13:40:00+00:00 - deep-review
 - **Status**: Success

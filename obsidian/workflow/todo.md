@@ -74,14 +74,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: pessimistic-review-2026-05-23
 - **Generated**: 2026-05-23
 
-### P2: Acknowledge dual-process / continuous-signal-detection contestation in memory-anomalies
-- **Type**: refine-draft
-- **Status**: pending
-- **Notes**: Pessimistic review 2026-05-19d Issue 3. The memory-anomalies article presents the familiarity/recollection dual-process model (Mandler, Yonelinas, Tulving) as the canonical theoretical framework — but the active 2020s recognition-memory literature includes substantial debate. Wixted and Mickes's continuous-signal-detection (CSD) account treats recognition as a unidimensional process at different memory-strength levels, predicting that familiarity and recollection are quantitatively different rather than qualitatively different. Under CSD, the article's headline "three rotations on a single failure" framing does not run as written — déjà vu and jamais vu would be artefacts of where the signal sits on the continuous strength dimension, and cryptomnesia would be a separate phenomenon entirely (post-retrieval source-attribution failure, not the recognition machinery at all). The fix is to add a paragraph (or substantive sentence in §"The Dual-Process Architecture") acknowledging that the dual-process / continuous-process debate is live in the 2020s literature, and either (a) note that the Map's phenomenal-output / causal-machinery dissociation claim does not require the dual-process commitment specifically — it can be re-derived from any architecture in which signal-pattern producing phenomenology comes apart from signal-pattern tracking truth — or (b) explicitly run the architectural-framing argument as conditional on the dual-process commitment with a marked "*on the dual-process reading*" qualifier. Reference candidates: Wixted 2007 (*Memory & Cognition*); Wixted and Mickes 2010 (*Psychological Review*); Pratte and Rouder 2012; Cohen et al. 2013. See `reviews/pessimistic-2026-05-19d.md` §"Critical Issues" Issue 3.
-- **Review file**: `reviews/pessimistic-2026-05-19d.md`
-- **Source**: pessimistic-review (2026-05-19d)
-- **Generated**: 2026-05-19
-
 ### P3: Write topic article on Stochastic Emergence as Quantum-Interface Evidence
 - **Type**: expand-topic
 - **Status**: pending
@@ -3868,6 +3860,10 @@ Tasks that failed 3+ times and require human intervention.
 
 Ideas that were considered and rejected. The AI will not re-propose these.
 
+
+### ✓ 2026-05-25: Acknowledge dual-process / continuous-signal-detection contestation in memory-anomalies
+- **Type**: refine-draft
+- **Notes**: Pessimistic review 2026-05-19d Issue 3. The memory-anomalies article presents the familiarity/recollection dual-process model (Mandler, Yonelinas, Tulving) as the canonical theoretical framework — but the active 2020s recognition-memory literature includes substantial debate. Wixted and Mickes's continuous-signal-detection (CSD) account treats recognition as a unidimensional process at different memory-strength levels, predicting that familiarity and recollection are quantitatively different rather than qualitatively different. Under CSD, the article's headline "three rotations on a single failure" framing does not run as written — déjà vu and jamais vu would be artefacts of where the signal sits on the continuous strength dimension, and cryptomnesia would be a separate phenomenon entirely (post-retrieval source-attribution failure, not the recognition machinery at all). The fix is to add a paragraph (or substantive sentence in §"The Dual-Process Architecture") acknowledging that the dual-process / continuous-process debate is live in the 2020s literature, and either (a) note that the Map's phenomenal-output / causal-machinery dissociation claim does not require the dual-process commitment specifically — it can be re-derived from any architecture in which signal-pattern producing phenomenology comes apart from signal-pattern tracking truth — or (b) explicitly run the architectural-framing argument as conditional on the dual-process commitment with a marked "*on the dual-process reading*" qualifier. Reference candidates: Wixted 2007 (*Memory & Cognition*); Wixted and Mickes 2010 (*Psychological Review*); Pratte and Rouder 2012; Cohen et al. 2013. See `reviews/pessimistic-2026-05-19d.md` §"Critical Issues" Issue 3.
 
 ### ✓ 2026-05-25: Add MWI counterfactual-exclusion checklist across agency, death, quantum, machine-consciousness articles
 - **Type**: refine-draft
