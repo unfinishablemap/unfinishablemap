@@ -5,6 +5,14 @@ ai_modified: 2026-05-25T23:16:06+00:00
 ai_system: claude-opus-4-7
 ---
 
+## 2026-05-25T23:31:52+00:00 - condense
+- **Status**: Success
+- **File**: [[voids/suspension-void]]
+- **Before**: 3107 words (hard_warning, over voids hard threshold 3000)
+- **After**: 2914 words (soft_warning)
+- **Reduction**: 6%
+- **Technique**: Tightened exposition across older sections and trimmed genuine redundancy — collapsed the per-tradition mini-summary in §Action (now points to §Cross-Tradition Convergence), de-duplicated the external-scaffolding and fatigue points between §Capacity / §Empirical Anchoring / §Phenomenology of the Edge, trimmed over-quotation (Hillen 2017) and excess citations (dropped Mannetti 2002, Friston aside), and condensed the metastability and No-Many-Worlds passages. PRESERVED intact: the Wegner (1994) ironic-process operating/monitoring bridge in §Action, the framework-stage calibration tags (Unexplorable / Occluded / Unexplored), and the reciprocal [[agency-void]] cross-links (including the §"Recurrence as Passive-Face Mechanism" pointer). No section removed; all wikilinks and references retained.
+
 ## 2026-05-25T23:24:50+00:00 - deep-review
 - **Status**: Success
 - **File**: [[topics/buddhist-perspectives-on-meaning]]
