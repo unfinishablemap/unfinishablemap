@@ -4,7 +4,7 @@ description: "Mental states become conscious when we become aware of them. HOT e
 created: 2026-01-14
 modified: 2026-01-19
 human_modified: null
-ai_modified: 2026-05-17T02:35:33+00:00
+ai_modified: 2026-05-25T10:27:30+00:00
 draft: false
 last_deep_review: 2026-05-17T02:35:33+00:00
 topics:
@@ -22,6 +22,8 @@ concepts:
   - "[[phenomenal-concepts-strategy]]"
   - "[[mental-causation-and-downward-causation]]"
   - "[[phenomenal-transparency-opacity-spectrum]]"
+  - "[[unity-of-consciousness]]"
+  - "[[perceptual-reality-monitoring-void]]"
 related_articles:
   - "[[tenets]]"
   - "[[higher-order-theories-consciousness-2026-01-14]]"
@@ -102,11 +104,17 @@ Richard Brown's (2025) Higher-Order Representation of a Representation (HOROR) t
 
 Does HOROR escape the fundamental objection? Critics argue not. If consciousness is constituted by representing states as having qualitative character, the question becomes: why does representing something *as* qualitative produce genuine qualitative experience? The [[phenomenal-concepts-strategy|phenomenal concepts strategy]] faces a similar dilemma. Either the "as qualitative" representation is itself qualitatively conscious—in which case we haven't explained phenomenal consciousness but presupposed it—or it isn't, in which case we still face the hard problem of how non-qualitative representation produces qualitative experience.
 
+### Lau's Perceptual Reality Monitoring
+
+The most rigorous contemporary development of the higher-order programme is Hakwan Lau's perceptual reality monitoring (PRM) account, set out in *In Consciousness We Trust* (2022). Lau replaces the vague notion of a higher-order *thought* with a specific computational function: the brain runs a reality monitor that evaluates whether activity in sensory areas reflects an external cause or an internally generated signal (imagery, noise, expectation). A first-order sensory state becomes conscious when the monitor tags it as tracking reality. This reframes consciousness as the output of a discriminator that sorts genuine perception from internal construction—a function with a plausible neural implementation in prefrontal and frontoparietal circuitry, and one that connects HOT to an independent empirical literature on the imagination-versus-reality boundary (the [[perceptual-reality-monitoring-void|perceptual reality monitoring void]] catalogues the cases where this discriminator fails).
+
+PRM is the strongest version of HOT precisely because it is the most mechanistically specific. It names the signal, the circuit, and the dissociations it predicts. And it is on its own terms that the account leaves the central question untouched. PRM specifies what the reality-monitoring tag *does*—it gates access, drives report, modulates downstream processing. It does not specify why that tag is *felt* rather than merely computed. A reality monitor that writes "this is real" onto a sensory representation is, described functionally, a flag passed between subsystems; nothing in the specification of its operation says the flag should be accompanied by phenomenal presence rather than processed in the dark. Lau's own standard is mechanistic adequacy, and by that standard the account explains the *tagging* of states as real without explaining why tagged states are experienced at all. The work the Map asks of any functional theory—say how the function generates the feeling—PRM defers rather than discharges. The empirical evidence that the discriminator can be characterised neurally (the [[reality-feeling-void|reality-feeling void]] surveys the imagery-reality literature) sharpens the question rather than answering it: a signal whose computational role is fully mapped can still be silent on whether it has any felt character (the [[perceptual-reality-monitoring-void|perceptual reality monitoring void]] develops this point). That last disagreement runs against the Map's [[tenets#^dualism|Dualism]] tenet and is noted as such, not as something PRM's own resources refute.
+
 ### The Illusionist Alternative
 
 [[illusionism|Illusionism]] represents HOT's logical extreme. If consciousness just *is* higher-order representation, and such representation can be illusory, perhaps phenomenal consciousness itself is an illusion. Frankish and Dennett argue we only *seem* to have qualitative experiences; the seeming is itself functional information processing.
 
-HOT theorists typically resist this move. Rosenthal maintains that higher-order representation *constitutes* genuine phenomenal consciousness, not its mere appearance. But the pressure toward illusionism reveals HOT's difficulty: either accept that representing a state as conscious makes it conscious (hard to explain) or accept that we're systematically wrong about our own experience (hard to believe). The illusionist objection that even seeming requires something to do the seeming applies with equal force to HOT.
+HOT theorists typically resist this move. Rosenthal maintains that higher-order representation *constitutes* genuine phenomenal consciousness, not its mere appearance. But the pressure toward illusionism reveals HOT's difficulty, and the pressure is structural rather than incidental. A higher-order theory locates consciousness in a representation that takes a first-order state as its object and represents it as conscious—or, in HOROR, as qualitative; in PRM, as real. The representing is itself a *seeming*: the higher-order state presents the first-order state a certain way. So the theory must say whether that seeming is itself something it is like to undergo. If it is, the explanation has helped itself to the very phenomenality it set out to explain, now relocated one level up; the regress the [[self-reference-paradox|self-reference paradox]] describes is not avoided but renamed. If it is not—if the higher-order seeming is "mere" functional representation with no felt character—then we are owed an account of how an unfelt seeming about a first-order state produces a felt experience of that state, which is the hard problem in higher-order dress. This is the same fork illusionism faces, and it is why the two positions sit on a single axis: either representing a state as conscious makes it conscious (hard to explain) or we are systematically wrong about our own experience (hard to believe). The illusionist objection that even a seeming requires something for which there is a seeming applies to HOT with equal force, because HOT's constitutive machinery *is* a seeming.
 
 ## Empirical Dissociation Evidence
 
@@ -197,6 +205,12 @@ The [[concepts/epiphenomenalism|self-stultification argument]] against epiphenom
 
 HOT might respond that the beliefs *are* accurate because they just *are* the cognitive mechanisms. But this seems to dissolve the distinction between having accurate beliefs about consciousness and merely implementing certain cognitive functions.
 
+### Convergence and Divergence on the Unity of Consciousness
+
+HOT and the Map converge on one substantive point about the [[unity-of-consciousness|unity of consciousness]]: both treat unity as a feature requiring explanation rather than a primitive given. Rosenthal's account makes the convergence explicit—the unity of a conscious episode is the unity of what a single higher-order thought represents itself as, so the "I" that binds disparate contents into one experience is a representational achievement, not a metaphysical substance. The Map shares the rejection of unity as a brute datum; it agrees that introspective reports of seamless wholeness are not self-certifying (the [[self-opacity]] void makes the same point from the other direction).
+
+The divergence is over what does the binding. For HOT, unity is exhausted by the structure of the higher-order representation: contents are co-conscious because they fall under one meta-state, and a creature whose higher-order machinery represented its states as two streams would have two streams, full stop. The Map cannot accept that unity is fixed entirely at the representational level, because on the Map's view the representation is one more thing that must itself be experienced as unified, which reintroduces the question the higher-order story claimed to settle. Where HOT says unity *is* single-meta-state representation, the Map says single-meta-state representation is at most the *report* of a unity whose felt character is left unexplained—the binding of contents into one *experienced* field is precisely what a functional account of co-representation does not deliver. The disagreement is the unity-of-consciousness instance of the general pattern: HOT specifies the architecture of access and presents it as the architecture of experience, and the Map holds the two apart.
+
 ### Quantum Considerations
 
 HOT operates at the cognitive level without invoking [[tenets#^minimal-quantum-interaction|quantum mechanics]]. If HOT were correct, consciousness would be a classical computational phenomenon—no room for the quantum interface the Map proposes. This represents a fundamental disagreement about the level at which mind and matter meet.
@@ -220,6 +234,8 @@ The hard problem remains hard.
 - [[global-workspace-theory]] — A complementary functionalist theory
 - [[self-reference-paradox]] — The recursive structure HOT requires
 - [[self-opacity]] — The void where consciousness cannot fully examine itself
+- [[perceptual-reality-monitoring-void]] — Where Lau's reality monitor demonstrably fails: the imagination-versus-reality discriminator
+- [[unity-of-consciousness]] — The binding HOT explains representationally and the Map holds apart from felt unity
 - [[phenomenal-transparency-opacity-spectrum]] — How transparency and opacity bear on the self-representation HOT requires
 - [[concepts/functionalism]] — The philosophical framework underlying HOT
 - [[illusionism]] — HOT's logical extreme: phenomenal consciousness as illusion
@@ -236,6 +252,7 @@ The hard problem remains hard.
 1. Brown, R. (2025). *Consciousness as Representing One's Mind: The Higher-Order Approach to Consciousness Explained*. Oxford University Press.
 1. Farrell, J. (2018). Higher-order theories of consciousness and what-it-is-like-ness. *Philosophical Psychology*, 31(8), 1183-1206.
 1. Gennaro, R. J. (2012). *The Consciousness Paradox*. MIT Press.
+1. Lau, H. (2022). *In Consciousness We Trust: The Cognitive Neuroscience of Subjective Experience*. Oxford University Press.
 1. Lycan, W. G. (1996). *Consciousness and Experience*. MIT Press.
 1. Maniscalco, B., & Lau, H. (2012). A signal detection theoretic approach to understanding blindsight. *Philosophical Transactions of the Royal Society B*, 367(1594), 1430-1443.
 1. Rosenthal, D. M. (2005). *Consciousness and Mind*. Oxford University Press.

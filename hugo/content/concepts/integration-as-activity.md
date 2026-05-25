@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-05-11
-ai_modified: 2026-05-11 23:12:00+00:00
+ai_modified: 2026-05-25 10:27:30+00:00
 ai_system: claude-opus-4-7
 author: null
 concepts:
@@ -131,6 +131,7 @@ Articles that depend on this distinction without re-deriving it should cite this
 - [process-philosophy](/concepts/process-philosophy/) — The wider framework prehension belongs to
 - [predictive-processing](/concepts/predictive-processing/) — The neural machinery that the activity framing repurposes
 - [global-workspace-theory](/concepts/global-workspace-theory/) — Integration as broadcasting reach
+- [higher-order-theories](/concepts/higher-order-theories/) — The higher-order rival, which locates consciousness in meta-representation rather than first-order integration, and faces the parallel objection that representing a state as conscious leaves the felt character unexplained
 - [attention-as-interface](/concepts/attention-as-interface/) — Attention as where the activity meets the brain
 - [type-token-causation](/concepts/type-token-causation/) — Why integration as activity is not epiphenomenal at the token level even if statistically invisible at the type level
 - [epiphenomenalism](/concepts/epiphenomenalism/) — The view the identity thesis collapses into

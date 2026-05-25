@@ -1,9 +1,25 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-25T12:00:00+00:00
+ai_modified: 2026-05-25T10:27:30+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-05-25T10:27:30+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[concepts/higher-order-theories]] (primary) + [[concepts/integration-as-activity]] (cross-link)
+- **Source**: Outer-review 2026-05-22 Claude Opus 4.7 §6 ("Higher-order theories of consciousness (Rosenthal, Lau) — surprisingly absent given they are a major contemporary alternative").
+- **Audit finding**: The gap the reviewer flagged is a reviewer blind spot, not a real absence — a thorough dedicated page `concepts/higher-order-theories.md` already exists (created 2026-01-14, last deep-review 2026-05-17, covering Rosenthal, Armstrong/Lycan HOP, Brown's HOROR 2025, Block's critique, the dissociation evidence). The reviewer did not find it. The genuine gaps the task brief identifies were the parts missing *from that page*: Lau's perceptual reality monitoring, a sharper meta-representation-as-seeming dialectic, the unity-of-consciousness convergence/divergence, and discoverability from sibling theory pages.
+- **Changes**:
+  - **`higher-order-theories.md` — new section "Lau's Perceptual Reality Monitoring"** (~2 paragraphs) inserted before the illusionist section. Presents PRM as the most mechanistically rigorous contemporary HOT (reality monitor tags sensory activity as external-vs-internal; conscious = tagged-as-real), then makes the in-framework point: by PRM's own standard of mechanistic adequacy it specifies what the tag *does* without specifying why the tag is *felt* rather than computed. Closes by honestly marking the Dualism-tenet residue as a framework-boundary disagreement, not an in-framework refutation. Cross-links the [[perceptual-reality-monitoring-void]] for the empirical failure cases.
+  - **Sharpened the existing "Illusionist Alternative" section** to make the regress structural: HOT's constitutive machinery (the higher-order representation, HOROR's "as qualitative", PRM's "as real") is itself a *seeming*, forcing the same fork illusionism faces — either the higher-order seeming is felt (phenomenality relocated up a level, regress renamed not avoided) or unfelt (the hard problem in higher-order dress). Explains why HOT and illusionism sit on one axis.
+  - **New section "Convergence and Divergence on the Unity of Consciousness"** in Relation to Site Perspective. Convergence: both treat unity as requiring explanation, not a brute given (Rosenthal: unity = what one higher-order thought represents itself as binding). Divergence: HOT exhausts unity at the representational level; the Map holds the co-representation of contents apart from their *felt* binding into one experienced field.
+  - **`integration-as-activity.md`** — added a Further Reading cross-link to [[higher-order-theories]] as the higher-order rival to the first-order integration frameworks (improves discoverability — addresses why the reviewer perceived HOT as absent). Did not disrupt the four-frameworks argument.
+  - Added Lau (2022) *In Consciousness We Trust* to references; added [[unity-of-consciousness]] and [[perceptual-reality-monitoring-void]] to frontmatter concepts and Further Reading.
+- **Attribution correction**: The task brief cited "Lau's 2022 *Reasons and the Self*" — that title is a fabrication/conflation (no such Lau book). Lau's actual 2022 book is *In Consciousness We Trust: The Cognitive Neuroscience of Subjective Experience* (Oxford University Press), verified via web search; PRM is its central account. Cited correctly; the fabricated title was not propagated (per refine-draft §3.5 attribution discipline).
+- **Named-opponent engagement (editor-internal)**: HOT/Lau (PRM) — Mixed: unsupported-foundational-move opening by PRM's own mechanistic-adequacy standard (specifies the tag's function, not why it is felt), then framework-boundary marking on the Dualism residue. HOT/illusionism axis — in-framework dilemma (the regress fork is forced by HOT's own constitutive machinery). No label leakage (forbidden-vocabulary scan clean).
+- **Verification**: sync ok on both files; all new wikilinks resolve; no exposed mode labels; no "not X, it is Y" clichés.
+- **Published**: yes (left uncommitted for orchestrator)
 
 ## 2026-05-25T14:30:00+00:00 - deep-review
 - **Status**: Success

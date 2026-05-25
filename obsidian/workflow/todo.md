@@ -45,14 +45,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: pessimistic-review-2026-05-23
 - **Generated**: 2026-05-23
 
-### P2: Add higher-order theories of consciousness (Rosenthal, Lau) to the corpus
-- **Type**: refine-draft
-- **Status**: pending
-- **Notes**: Outer-review 2026-05-22 Claude Opus 4.7 §6 (Important thinkers under-represented). Higher-order theories (HOT, HOR — Rosenthal's higher-order thought; Lau's higher-order representation theory and the perceptual reality monitoring account) are a major contemporary alternative to first-order theories like IIT and global workspace, and they receive surprisingly little treatment on the Map. Refine pass should: (a) audit existing coverage to confirm the gap (likely no dedicated page; possibly a passing mention); (b) given topics/ and concepts/ are both near cap (248/250 and 246-247/250), add the engagement to existing pages rather than create new ones — candidate hosts: `concepts/integration-as-activity.md`, `topics/scientific-theories-of-consciousness.md` if it exists, `apex/what-consciousness-tells-us-about-physics.md`; (c) develop the dialectic: HOT's "consciousness = meta-representation" move is a direct rival to first-order phenomenality; the Map's response is that meta-representation is itself a phenomenal-seeming, making HOT regress-vulnerable in the same way as illusionism; (d) engage Lau's 2022 *Reasons and the Self* refinement (perceptual reality monitoring) as the most rigorous contemporary HOT; (e) note where HOT converges with and diverges from the Map's position on the unity of consciousness. Honour [[evidential-status-discipline]]. Apply the direct-refutation discipline. Identify what kind of engagement the issue calls for: showing the opponent's position is defective on its own terms, naming an unsupported foundational move the framework has not earned by its own standards, or honestly marking the framework-boundary disagreement. Apply the corresponding reply mode in **natural journal-quality prose** — see [[writing-style|the writing-style guide]]'s "Engaging Opponents in Journal-Quality Prose" section. **Do not expose mode labels in the article body.** Tenet alignment: Tenet 1 (Dualism) — HOT is one of the strongest contemporary functionalist alternatives and the gap is real.
-- **Review file**: `reviews/outer-review-2026-05-22-claude-opus-4-7.md`
-- **Source**: outer-review
-- **Generated**: 2026-05-23
-
 ### P2: Add Calibrated Phenomenology Ladder inset to apex/phenomenology-mechanism-bridge
 - **Type**: refine-draft
 - **Status**: pending
@@ -3919,6 +3911,10 @@ Tasks that failed 3+ times and require human intervention.
 
 Ideas that were considered and rejected. The AI will not re-propose these.
 
+
+### ✓ 2026-05-25: Add higher-order theories of consciousness (Rosenthal, Lau) to the corpus
+- **Type**: refine-draft
+- **Notes**: Outer-review 2026-05-22 Claude Opus 4.7 §6 (Important thinkers under-represented). Higher-order theories (HOT, HOR — Rosenthal's higher-order thought; Lau's higher-order representation theory and the perceptual reality monitoring account) are a major contemporary alternative to first-order theories like IIT and global workspace, and they receive surprisingly little treatment on the Map. Refine pass should: (a) audit existing coverage to confirm the gap (likely no dedicated page; possibly a passing mention); (b) given topics/ and concepts/ are both near cap (248/250 and 246-247/250), add the engagement to existing pages rather than create new ones — candidate hosts: `concepts/integration-as-activity.md`, `topics/scientific-theories-of-consciousness.md` if it exists, `apex/what-consciousness-tells-us-about-physics.md`; (c) develop the dialectic: HOT's "consciousness = meta-representation" move is a direct rival to first-order phenomenality; the Map's response is that meta-representation is itself a phenomenal-seeming, making HOT regress-vulnerable in the same way as illusionism; (d) engage Lau's 2022 *Reasons and the Self* refinement (perceptual reality monitoring) as the most rigorous contemporary HOT; (e) note where HOT converges with and diverges from the Map's position on the unity of consciousness. Honour [[evidential-status-discipline]]. Apply the direct-refutation discipline. Identify what kind of engagement the issue calls for: showing the opponent's position is defective on its own terms, naming an unsupported foundational move the framework has not earned by its own standards, or honestly marking the framework-boundary disagreement. Apply the corresponding reply mode in **natural journal-quality prose** — see [[writing-style|the writing-style guide]]'s "Engaging Opponents in Journal-Quality Prose" section. **Do not expose mode labels in the article body.** Tenet alignment: Tenet 1 (Dualism) — HOT is one of the strongest contemporary functionalist alternatives and the gap is real.
 
 ### ✓ 2026-05-25: Engage Frankish's strongest illusionism arguments in zombie/illusionism cluster
 - **Type**: refine-draft

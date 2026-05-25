@@ -9,6 +9,18 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-05-25T14:30:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [attention-and-the-consciousness-interface](/topics/attention-and-the-consciousness-interface/)
+- **Word count**: 3938 → 3936 (-2; length-neutral, soft_warning at 131% of 3000 target)
+- **Critical issues addressed**: 1 — Tegmark (2000) decoherence figures were misattributed to specific structures (10⁻¹³ s pinned to ion channels, 10⁻²⁰ s pinned to microtubules), inverting the repo's canonical treatment in tenets.md/decoherence.md which give the 10⁻¹³–10⁻²⁰ s range to neural/microtubule-scale superpositions with ~10⁻¹³ s as the microtubule headline. Rewrote to the correct range framing; the ion-channel locus now appears only where it belongs, as Stapp's reply. "~10¹⁰ faster than fastest neural firing" arithmetic verified against the 10⁻¹³ end.
+- **Medium issues addressed**: 0 (none warranted; expansion declined in length-neutral mode)
+- **Enhancements made**: 0 (article stable; calibration hedging and AST boundary-marking confirmed correct, not re-litigated)
+- **Named-opponent engagement (editor-internal)**: AST/Graziano — Mixed (unsupported-foundational-move opening via the materialist programme's own mechanistic standard, then explicit framework-boundary marking on the framework-choice residue); no label leakage (forbidden-vocabulary scan clean). MWI and eliminativism — framework-boundary marking, honestly noted, bedrock per all prior reviews.
+- **Calibration check**: no possibility/probability slippage; article is a model of evidential restraint (attention=motor identification labelled "live hypothesis … motivates rather than settles", every empirical anchor paired with rival-compatibility).
+- **Output**: [deep-review-2026-05-25-attention-and-the-consciousness-interface](/reviews/deep-review-2026-05-25-attention-and-the-consciousness-interface/)
+- **Published**: yes (drafts left uncommitted for orchestrator)
+
 ## 2026-05-25T13:30:00+00:00 - refine-draft
 - **Status**: Success
 - **File**: [illusionism](/concepts/illusionism/) (primary) + [zombie-master-argument](/concepts/zombie-master-argument/)

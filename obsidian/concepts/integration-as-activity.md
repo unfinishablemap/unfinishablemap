@@ -4,7 +4,7 @@ description: "Integration is something consciousness does, not what consciousnes
 created: 2026-05-11
 modified: 2026-05-11
 human_modified:
-ai_modified: 2026-05-11T23:12:00+00:00
+ai_modified: 2026-05-25T10:27:30+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -128,6 +128,7 @@ Articles that depend on this distinction without re-deriving it should cite this
 - [[process-philosophy]] — The wider framework prehension belongs to
 - [[predictive-processing]] — The neural machinery that the activity framing repurposes
 - [[global-workspace-theory]] — Integration as broadcasting reach
+- [[higher-order-theories]] — The higher-order rival, which locates consciousness in meta-representation rather than first-order integration, and faces the parallel objection that representing a state as conscious leaves the felt character unexplained
 - [[attention-as-interface]] — Attention as where the activity meets the brain
 - [[type-token-causation]] — Why integration as activity is not epiphenomenal at the token level even if statistically invisible at the type level
 - [[epiphenomenalism]] — The view the identity thesis collapses into
