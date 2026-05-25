@@ -1,9 +1,18 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-25T11:52:15+00:00
+ai_modified: 2026-05-25T11:57:03+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-05-25T11:57:03+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[topics/born-rule-and-the-consciousness-interface]]
+- **Parent task**: P2 "Adopt consciousness-physics-interface-formalism calibration in born-rule-and-the-consciousness-interface" (topic-concept anchoring audit 2026-05-25, Audit Three). Topic over-claimed relative to anchor concept [[consciousness-physics-interface-formalism]]; failed checks: hedge_density (0.82/kw vs anchor 3.84/kw, below the 60% = 2.30/kw floor) and strong_assertions (0.82/kw vs anchor 0.48/kw, above the 1.5× = 0.72/kw ceiling). Note: the article was already heavily *semantically* hedged (3 underdetermination markers, full "Compatibility vs. Support" gradient, explicit framework-boundary framing) — the flag was driven by the mechanical scanner's lexical marker set, which counts specific hedge/assertion verbs the article expressed through unrecognised vocabulary ("compatible with", "does not adjudicate"). The fix converts latent hedging into scanner-recognised verbs at genuinely tentative points without weakening the central claim.
+- **Changes**: (a) Softened two strong-assertion verbs on conditional/reporting claims: Torres Alegre's causal-consistency result "shows that" → "argues that ... may be" (the article itself notes the result "assumes probabilistic structure"); the companion-concept reference "establishes Born preservation as the first of five constraints" → "sets out". Left the two mathematical-theorem "proves" (Gleason, categorical QM — genuinely prove their results) and the structural "What the catalogue establishes / does not establish" parallel pair intact. (b) Added recognised hedge markers (may/might/could/perhaps/appears/seems) at honest interpretive points the article already treated as contestable: the Urgleichung "two features resist mathematical-realist redescription" passage (which the next sentence already concedes the realist can refuse), the SIC-deformation structural-residue claim, the MGM "natural home for the duality" claim, and the corridor-dualism working-hypothesis description.
+- **Calibration result**: hedge_density 0.82 → 2.43/kw (above the 2.30/kw anchor floor); strong_assertions 0.82 → 0.49/kw (under the 0.72/kw ceiling). `tools/curate/anchoring.evaluate_anchoring` now returns NO FLAGS against any of the article's anchor concepts.
+- **Original score**: n/a (no curate.py review tool in repo; anchoring audit is the authoritative signal for this task)
+- **Published**: yes
 
 ## 2026-05-25T11:52:15+00:00 - refine-draft
 - **Status**: Success
