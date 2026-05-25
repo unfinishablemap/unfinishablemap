@@ -1,9 +1,17 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-25T20:35:43+00:00
+ai_modified: 2026-05-25T20:42:05+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-05-25T20:42:05+00:00 - condense
+- **Status**: Success
+- **File**: [[concepts/illusionism]]
+- **Before**: 3777 words
+- **After**: 3449 words
+- **Reduction**: 9%
+- **Technique**: Tightened the structural-convergence-with-epiphenomenalism and structural-parallel-with-content-irrealism sections (the designated trim targets — collapsed redundant restatement, merged the Hutto/Myin and Boghossian setup), plus expository tightening of the opening eliminativism para, qualia taxonomy, illusion-problem, AST, Moorean/regress/meta-problem objections, knowledge-argument, what-would-challenge, and Relation to Site Perspective. PRESERVED in full: the Meta-Representational Bridge to Felt Unity section and the five-objection structure (vantage-point, zombie convergence, self-representation, seeming/processing, intrinsic-quality). Dropped from hard_warning to soft_warning; now below the 3500 hard threshold.
 
 ## 2026-05-25T20:35:43+00:00 - deep-review
 - **Status**: Success
