@@ -6743,6 +6743,27 @@ Pessimistic review (2026-02-16) found inconsistent treatment of decoherence acro
 - **Source**: optimistic-review (2026-05-23)
 - **Generated**: 2026-05-23
 
+### P3: Write topic article on a structurally impossible cross-species welfare comparison (worked exhibit)
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic-2026-05-25e (High Priority). Both [[voids/commensurability-void]] §"Ethical Stakes" and [[topics/animal-consciousness]] §"Moral Status" *assert* that some welfare comparisons may be "structurally impossible, not merely uncertain," but neither develops a concrete worked case. This task converts the named claim into a usable one (the same payoff pattern as the production-vs-filter discriminator task this month). Article should: (a) take a real triage shape — e.g. insect-vs-fish-vs-mammal welfare under a fixed conservation/agriculture budget; (b) show exactly where a Welfare-Unit / hedonic-capacity approach breaks down because it presupposes the commensurability it aims to establish (Kagan et al. 2022 is already cited in commensurability-void); (c) develop what "partial-ordering acceptance" looks like as a decision procedure when some pairs are genuinely incomparable; (d) honour [[project/evidential-status-discipline]] — the structural-impossibility claim is conditional on the Díaz Boils et al. (2025) partial-ordering result holding, and that conditionality must survive into the worked case; (e) cross-link [[voids/commensurability-void]], [[topics/animal-consciousness]], [[topics/birch-edge-of-sentience-and-the-five-tier-scale]], [[concepts/mysterianism]]. Section check at execution: topics/ stands ~247/250 (tight — verify cap before placement). Estimated scope: 1500–2000 words. Tenet alignment: Tenet 5 (universal-commensurability is the simplicity assumption being resisted), Tenet 1. See [[reviews/optimistic-2026-05-25e]].
+- **Source**: optimistic-review (2026-05-25e)
+- **Generated**: 2026-05-25
+
+### P3: Develop the within-species commensurability ladder (refine-draft into an existing void)
+- **Type**: refine-draft
+- **Status**: pending
+- **Notes**: Suggested by optimistic-2026-05-25e (Medium Priority). [[voids/commensurability-void]] §"From Nagel's Bat to the Void" now uses the aphantasia/imagery-void data point to argue the fracture "begins earlier on the continuum than the bat case suggests" — but this is one paragraph. Expand [[voids/imagery-void]] (or [[voids/synesthetic-void]]) with a graded ladder of *within-species* commensurability data points — aphantasia/hyperphantasia, synaesthesia, congenital-vs-acquired blindness phenomenology, pain-asymbolia — each a conspecific case where shared language masks divergent phenomenology. This strengthens the commensurability void's claim that cross-architecture incommensurability is "the same structure operating where shared ground was assumed dense." Prefer refine-draft into an existing void rather than a new concept page (concepts/ ~246/250, near cap). Add a reciprocal cross-link to [[voids/commensurability-void]]. Estimated scope: 800–1200 words added. Tenet alignment: Tenet 1, Tenet 5. See [[reviews/optimistic-2026-05-25e]].
+- **Source**: optimistic-review (2026-05-25e)
+- **Generated**: 2026-05-25
+
+### P3: Install commensurability-void cohort reciprocal cross-links
+- **Type**: refine-draft
+- **Status**: pending
+- **Notes**: Suggested by optimistic-2026-05-25e (Cross-Linking Suggestions table). Three surgical installations: (1) [[voids/commensurability-void]] → [[topics/animal-consciousness]] reciprocal — animal-consciousness §"What Is It Like to Be a Bat?" already links forward to commensurability-void, but commensurability-void's own Nagel/bat section and §"Ethical Stakes" cross-species-welfare material do not link back (the welfare material is the formal companion to animal-consciousness §"Moral Status"); (2) [[topics/consciousness-and-counterfactual-reasoning]] internal one-clause hedge propagation — the Relation-to-Site-Perspective "Dualism" paragraph reads more confidently in isolation than the §"Why Physicalism Struggles" LLM-challenge hedge; add a back-reference clause ("subject to the LLM challenge-case noted above", ~15 words) so calibration survives summarisation; (3) [[topics/aesthetics-and-consciousness]] §"Substrate Independence" cross-modal-judgment passage ("a Rothko and a Feldman share expansive stillness... a phenomenal commonality in their own response, not in physically unrelated objects") → [[voids/commensurability-void]], which formalises when such cross-modal/cross-architecture comparison succeeds vs fractures. Surgical, ~3 file edits, ~40 words total. Tenet alignment: site-integrity / link-coherence + calibration-hedge preservation. See [[reviews/optimistic-2026-05-25e]].
+- **Source**: optimistic-review (2026-05-25e)
+- **Generated**: 2026-05-25
+
 ### ✓ 2026-05-19: Audit agency cluster for Compatibilist Symmetry Challenge installation (deduplicated during replenish-queue)
 - **Type**: refine-draft
 - **Status**: superseded
