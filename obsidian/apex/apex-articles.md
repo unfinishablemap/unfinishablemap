@@ -2,9 +2,9 @@
 title: "Apex Articles Index"
 description: "Curated index of the Map's apex articles—synthesis pieces integrating topics, concepts, and arguments into unified philosophical narratives."
 created: 2026-01-24
-modified: 2026-05-18
+modified: 2026-05-25
 human_modified: 2026-01-24
-ai_modified: 2026-05-18T13:55:00+00:00
+ai_modified: 2026-05-25T11:00:00+00:00
 last_deep_review: 2026-04-27T21:27:00+00:00
 draft: false
 topics: []
@@ -588,6 +588,27 @@ Each apex article synthesises existing [[topics|topics]] and [[concepts|concepts
 - concepts/mind-matter-interface
 
 **Status**: Created 2026-05-18 (admitted as #26 — promoted from P3 to P2 by replenish-queue 2026-05-18 per task brief: queue starved at P0–P2 with topics/, concepts/, voids/ at or over cap and apex/ as the catalogue's main growth zone. Suggested by optimistic-2026-05-17.md High Priority. The anaesthesia article is the catalogue's strongest current exhibit of pharmacological dissociation — three distinct contrasts in one article body, each load-bearing in different ways: xenon-ketamine (same NMDA receptor, opposite phenomenological outcomes), ketamine-midazolam (same sub-anaesthetic behavioural surface, distinct mechanism, distinct memory-encoding outcome), and propofol-xenon (two mechanistically distinct routes converging on extinction of experience, with the Hu et al. 2023 KCC2 active-reboot pathway as mechanism-shared reopening). The apex specifies the three dissociation classes once at the catalogue level, names the discipline (constrain vs establish, defeater-removal vs evidence-elevation per [[evidential-status-discipline]]), provides anaesthesia as the worked exhibit, and identifies the matching dissociation patterns across neurological lesions, clinical dissociation, and contemplative pathology as cumulative-convergence force. The methodology is held at the *realistic-possibility* tier for structured interface architecture and at the *live-hypothesis* tier for the Map's specific interactionist version of that structure. 3,760 words. Apex now at #26 within the informal 20-article cap; the standing P3 audit task on apex over-cap remains the load-bearing rebalancing pass).
+
+---
+
+### 27. The Self-Concealing Interface
+
+**Slug**: `self-concealing-interface`
+
+**Subtitle**: Why the architecture the tenets force is structurally selected to hide from aggregate measurement
+
+**Thesis**: If the Map's tenets are right, the mind-matter interface is not merely hard to detect — it is structurally selected to hide from ordinary aggregate measurement. Every constraint the Map accepts (conservation, no-signalling, Born statistics, the empirical record) forces the proposed conscious influence into the one register bulk instruments cannot register. The corollary, drawn out as a single thesis for the first time, is that the proper evidential route is not "find a big quantum anomaly" but "find constrained asymmetries at interface boundaries": disruption, dissociation, graded channel failure, patient-population divergence, and first-person/third-person mismatch.
+
+**Source articles**:
+- tenets/tenets
+- topics/brain-internal-born-rule-testing
+- topics/forward-in-time-conscious-selection
+- topics/memory-system-vulnerability-hierarchies-as-interface-evidence
+- apex/attention-as-causal-bridge
+- apex/introspection-architecture-void-cluster
+- apex/taxonomy-of-voids
+
+**Status**: Created 2026-05-25 (admitted as #27 — commissioned by outer-review 2026-05-22 ChatGPT 5.5 Pro §2.A and methodology §8, which named the self-concealing interface as a synthesis the corpus implies but has not foregrounded. The architecture is *entailed* by the strict-corridor reading of Tenet 2: the same minimality that escapes the timing objection empties the aggregate Born signature, so concealment is derived, not assumed. The apex (a) names the architecture explicitly; (b) integrates strict-corridor invisibility, attention bandwidth, introspection opacity, memory-channel vulnerability, and the voids catalogue as five faces of one concealment-by-construction; (c) re-orients the falsification programme around five seam-classes — disruption, dissociation, graded channel failure, patient-population divergence, first-person/third-person mismatch — rather than bulk physical traces; (d) connects to taxonomy-of-voids, introspection-architecture-void-cluster, the memory hierarchy, post-decoherence-selection, and the Tenet 2 sub-reading material; (e) honours [[evidential-status-discipline]] — held at *framework-internal architecture-naming* tier, refusing both the sceptic's unfalsifiability charge and the believer's hiddenness-confirms-it slippage, and noting the seams share upstream architecture so the [[common-cause-null]] applies to their convergence. Leaves the selection-criterion primitive explicitly unsettled, complementary to [[selection-criterion-problem]]. 3,026 words. Tenet alignment: Tenets 1, 2, 3 — architecture-naming for the interface programme. Apex now at #27 within the informal cap; the standing P3 audit task on apex over-cap remains the load-bearing rebalancing pass).
 
 ---
 

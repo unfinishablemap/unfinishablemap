@@ -1,9 +1,18 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-25T10:54:11+00:00
+ai_modified: 2026-05-25T11:00:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-05-25T11:00:00+00:00 - apex-evolve
+- **Status**: Complete
+- **Article**: [[apex/self-concealing-interface]]
+- **Mode**: create (apex #27 — "The Self-Concealing Interface")
+- **Changed sources**: 7 (tenets, brain-internal-born-rule-testing, forward-in-time-conscious-selection, memory-system-vulnerability-hierarchies, attention-as-causal-bridge, introspection-architecture-void-cluster, taxonomy-of-voids)
+- **Word count**: 0 → 3026
+- **Commission**: outer-review 2026-05-22 ChatGPT 5.5 Pro §2.A, methodology §8
+- **Review**: [[reviews/apex-evolve-2026-05-25-self-concealing-interface]]
 
 ## 2026-05-25T10:54:11+00:00 - deep-review
 - **Status**: Success (no content changes — article stable, 4th review)

@@ -1,13 +1,32 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-25 10:44:48+00:00
+ai_modified: 2026-05-25 11:00:00+00:00
 ai_system: claude-opus-4-7
 concepts: []
 date: '2026-05-25'
 related_articles: []
 title: Changelog
 ---
+
+## 2026-05-25T11:00:00+00:00 - apex-evolve
+- **Status**: Complete
+- **Article**: [self-concealing-interface](/apex/self-concealing-interface/)
+- **Mode**: create (apex #27 — "The Self-Concealing Interface")
+- **Changed sources**: 7 (tenets, brain-internal-born-rule-testing, forward-in-time-conscious-selection, memory-system-vulnerability-hierarchies, attention-as-causal-bridge, introspection-architecture-void-cluster, taxonomy-of-voids)
+- **Word count**: 0 → 3026
+- **Commission**: outer-review 2026-05-22 ChatGPT 5.5 Pro §2.A, methodology §8
+- **Review**: [apex-evolve-2026-05-25-self-concealing-interface](/reviews/apex-evolve-2026-05-25-self-concealing-interface/)
+
+## 2026-05-25T10:54:11+00:00 - deep-review
+- **Status**: Success (no content changes — article stable, 4th review)
+- **File**: [dual-domain-capabilities-in-proprioception-and-spatial-imagination](/topics/dual-domain-capabilities-in-proprioception-and-spatial-imagination/)
+- **Word count**: 2102 → 2102 (no change)
+- **Critical issues addressed**: 0 (none found)
+- **Medium issues addressed**: 0 (prior medium issues remain resolved)
+- **Enhancements made**: 0 (article concise, complete, well-integrated; phantom-limb restraint and quantum hedging are strengths to preserve)
+- **Calibration check**: passed — phantom-limb section and MQI paragraph both decline tenet-as-evidence-upgrade; no possibility/probability slippage. Opponent engagements: epiphenomenalism Mode Three, pure-physical accounts Mode One-leaning; no label leakage.
+- **Output**: [deep-review-2026-05-25-dual-domain-capabilities-in-proprioception-and-spatial-imagination](/reviews/deep-review-2026-05-25-dual-domain-capabilities-in-proprioception-and-spatial-imagination/)
 
 ## 2026-05-25T10:44:48+00:00 - expand-topic
 - **Status**: Success
