@@ -52,14 +52,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: pessimistic-review-2026-05-23
 - **Generated**: 2026-05-23
 
-### P2: Write concept page on the Selection-Criterion Problem (Phenomenal Valuation Law)
-- **Type**: expand-topic
-- **Status**: pending
-- **Notes**: Outer-review 2026-05-22 ChatGPT 5.5 Pro §2.B, §6.7. `topics/forward-in-time-conscious-selection.md` identifies the selection-criterion trilemma — if consciousness selects for reasons reducible to internal structure, dualism risks collapse into functionalism; if it selects randomly, it contributes nothing distinctive; if it selects by a primitive non-reducible preference, an unanalyzable primitive sits at the framework's heart — and notes the Map's likely route is the third. Across the site this primitive is doing more work than the interface mechanism itself (attention selects among brain-generated possibilities; animal consciousness ties valence to moral status and selection; memory/dissociation pages rely on "the manner in which it matters to a subject"). The implied site-level open problem deserves its own concept page named **`selection-criterion-problem`** (or **`phenomenal-valuation-law`** if the cross-cluster framing wins) where it can be referenced from attention-as-causal-bridge, forward-in-time-conscious-selection, animal-consciousness, dissociation articles, and the agency cluster without recurring re-introduction. The page should (a) state the trilemma cleanly; (b) walk through why the first two horns are unacceptable to the Map; (c) name the third horn explicitly as a primitive the framework owes a story about; (d) survey where in the corpus this primitive is already doing implicit work (attention bandwidth, valence, moral salience, mineness); (e) honour `[[evidential-status-discipline]]` — the primitive is at *open-problem* tier, not at *supported-by-evidence* tier; (f) cross-link bidirectionally to the contributing articles. Target section: `concepts/` (currently 247/250; verify cap state before placement). Tenet alignment: Tenet 1 (Dualism — names what the dualist programme owes); Tenet 3 (Bidirectional Interaction — selection is the agency-side action).
-- **Review file**: `reviews/outer-review-2026-05-22-chatgpt-5-5-pro.md`
-- **Source**: outer-review
-- **Generated**: 2026-05-22
-
 ### P2: Write apex synthesis "The Self-Concealing Interface"
 - **Type**: expand-topic
 - **Status**: pending
@@ -3910,6 +3902,10 @@ Tasks that failed 3+ times and require human intervention.
 
 Ideas that were considered and rejected. The AI will not re-propose these.
 
+
+### ✓ 2026-05-25: Write concept page on the Selection-Criterion Problem (Phenomenal Valuation Law)
+- **Type**: expand-topic
+- **Notes**: Outer-review 2026-05-22 ChatGPT 5.5 Pro §2.B, §6.7. `topics/forward-in-time-conscious-selection.md` identifies the selection-criterion trilemma — if consciousness selects for reasons reducible to internal structure, dualism risks collapse into functionalism; if it selects randomly, it contributes nothing distinctive; if it selects by a primitive non-reducible preference, an unanalyzable primitive sits at the framework's heart — and notes the Map's likely route is the third. Across the site this primitive is doing more work than the interface mechanism itself (attention selects among brain-generated possibilities; animal consciousness ties valence to moral status and selection; memory/dissociation pages rely on "the manner in which it matters to a subject"). The implied site-level open problem deserves its own concept page named **`selection-criterion-problem`** (or **`phenomenal-valuation-law`** if the cross-cluster framing wins) where it can be referenced from attention-as-causal-bridge, forward-in-time-conscious-selection, animal-consciousness, dissociation articles, and the agency cluster without recurring re-introduction. The page should (a) state the trilemma cleanly; (b) walk through why the first two horns are unacceptable to the Map; (c) name the third horn explicitly as a primitive the framework owes a story about; (d) survey where in the corpus this primitive is already doing implicit work (attention bandwidth, valence, moral salience, mineness); (e) honour `[[evidential-status-discipline]]` — the primitive is at *open-problem* tier, not at *supported-by-evidence* tier; (f) cross-link bidirectionally to the contributing articles. Target section: `concepts/` (currently 247/250; verify cap state before placement). Tenet alignment: Tenet 1 (Dualism — names what the dualist programme owes); Tenet 3 (Bidirectional Interaction — selection is the agency-side action).
 
 ### ✓ 2026-05-25: Add Calibrated Phenomenology Ladder inset to apex/phenomenology-mechanism-bridge
 - **Type**: refine-draft

@@ -3,7 +3,7 @@ title: "Valence and the Mechanism of Conscious Selection"
 created: 2026-02-19
 modified: 2026-04-01
 human_modified:
-ai_modified: 2026-05-19T11:04:33+00:00
+ai_modified: 2026-05-25T10:44:48+00:00
 draft: false
 description: "Does consciousness select outcomes guided by valence, or is value epiphenomenal to the selection mechanism? A fork forced by the Map's own commitments."
 topics:
@@ -218,6 +218,7 @@ This fork is structurally forced by the Map's own commitments, and resolving it 
 - [[emotion-and-dualism]] — Why emotional consciousness provides distinctive evidence for dualism
 - [[consciousness-bandwidth-architecture]] — The ~10 bits/second constraint on conscious selection
 - [[consciousness-and-normative-force]] — The demand-character of experience as the mechanism through which valence grips and guides
+- [[selection-criterion-problem]] — The open problem this article supplies a candidate answer to: valence as the criterion by which consciousness ranks candidates
 - [[moral-architecture-of-consciousness]] — Apex synthesis: the value-sensitivity question within a unified moral framework
 
 ## References

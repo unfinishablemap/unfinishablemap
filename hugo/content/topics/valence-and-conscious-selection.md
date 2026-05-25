@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-19
-ai_modified: 2026-05-19 11:04:33+00:00
+ai_modified: 2026-05-25 10:44:48+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -220,6 +220,7 @@ This fork is structurally forced by the Map's own commitments, and resolving it 
 - [emotion-and-dualism](/topics/emotion-and-dualism/) — Why emotional consciousness provides distinctive evidence for dualism
 - [consciousness-bandwidth-architecture](/concepts/consciousness-bandwidth-architecture/) — The ~10 bits/second constraint on conscious selection
 - [consciousness-and-normative-force](/topics/consciousness-and-normative-force/) — The demand-character of experience as the mechanism through which valence grips and guides
+- [selection-criterion-problem](/concepts/selection-criterion-problem/) — The open problem this article supplies a candidate answer to: valence as the criterion by which consciousness ranks candidates
 - [moral-architecture-of-consciousness](/apex/moral-architecture-of-consciousness/) — Apex synthesis: the value-sensitivity question within a unified moral framework
 
 ## References

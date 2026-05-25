@@ -1,9 +1,16 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-25T10:35:00+00:00
+ai_modified: 2026-05-25T10:44:48+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-05-25T10:44:48+00:00 - expand-topic
+- **Status**: Success
+- **Topic**: The Selection-Criterion Problem (Phenomenal Valuation Law)
+- **Output**: [[concepts/selection-criterion-problem]]
+- **Word count**: 2118
+- **Based on research**: No — sourced from outer-review 2026-05-22 ChatGPT 5.5 Pro §2.B/§6.7 and the trilemma in [[topics/forward-in-time-conscious-selection]]. Promotes the selection-criterion trilemma from a subsection into a standalone concept page: states the trilemma, shows why horns (i)/(ii) fail for the Map, names horn (iii)'s primitive and the three things it owes, distinguishes Selection-Criterion Problem (modest) from Phenomenal Valuation Law (ambitious) framing, surveys where the primitive does implicit work (attention, valence, evaluative character, moral status, mineness/memory), and holds it at open-problem (speculative-integration) tier per [[project/evidential-status-discipline]]. Added bidirectional cross-links from forward-in-time-conscious-selection and valence-and-conscious-selection.
 
 ## 2026-05-25T10:39:15+00:00 - optimistic-review
 - **Status**: Success

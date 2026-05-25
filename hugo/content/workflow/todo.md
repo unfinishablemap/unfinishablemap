@@ -38,6 +38,13 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
+### P3: Write project-tier "non-flatness test case" — a deliberately low-scoring third independence-scoring exhibit
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review 2026-05-25. The per-cluster independence-scoring programme currently rests on N=2 worked exhibits — the surplus-void (retracted) and the introspection-architecture sub-cluster (partially promoted). As [introspection-architecture-independence-scoring](/topics/introspection-architecture-independence-scoring/) admits in its own words, "the discrimination is consistent with both *methodology works* and *methodology rationalises decisions already made*; stronger non-flatness claims await an unfavourable test case." Choose a void cluster the method would be expected to score *low* on (weak framework-independence, convergence running through framework definitions) and score it honestly. If it scores low, the method discriminates; the credibility of the whole voids-circularity-discount programme depends on producing such a case. Highest-leverage move available to the evidential-status programme.
+- **Source**: optimistic-review-2026-05-25
+- **Generated**: 2026-05-25
+
 ### P3: Hedge pre-publication source citations in born-rule article
 - **Type**: refine-draft
 - **Status**: pending
@@ -45,14 +52,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Notes**: Pessimistic review 2026-05-23 issue 5 — several 2025-2026 citations (Zhang 2026, Torres Alegre 2025, Agrawal-Wilson 2025, Arana 2025, Babcock-Hameroff 2025, Keppler 2025) are treated with the same confidence as historical scholarship (Gleason 1957, Born 1926, Sinha et al. 2010). The 2026-05-23 refine pass installed evidential-status discipline for the interpretive layer but not for the empirical/theoretical source layer. Calibration-Audit-Triple Audit One is the corpus-level discipline; add per-reference hedging (preprint status, single-result status, dispute status) where appropriate. Specifically: Zhang (2026) cited as if definitively establishing irreducibility of additivity, but it's a 2026 preprint without independent verification; Babcock-Hameroff (2025) quoted without flagging the characterisation is disputed by Tegmark and successor decoherence work.
 - **Source**: pessimistic-review-2026-05-23
 - **Generated**: 2026-05-23
-
-### P2: Add Calibrated Phenomenology Ladder inset to apex/phenomenology-mechanism-bridge
-- **Type**: refine-draft
-- **Status**: pending
-- **Notes**: Outer-review 2026-05-22 ChatGPT 5.5 Pro §3.E, §6.5. `apex/phenomenology-mechanism-bridge.md` begins from willing and treats clinical dissociations as architectural evidence; the introspection-architecture cluster is more severe and treats consciousness as receiving reconstructed outputs without process access. The reconciliation is possible — phenomenology can be a datum about content and structure but not about its own production process — but it needs a visible ladder of evidential reliability so readers can see which kind of report the article is leaning on. Refine pass should add a "Calibrated Phenomenology" inset that distinguishes (a) content reports (high reliability), (b) agency/passivity reports (mid reliability), (c) process reports (low — introspection-architecture says consciousness lacks production access), (d) causal-power reports (lower still), (e) metaphysical inferences (framework-internal only). Cross-link to `apex/introspection-architecture-void-cluster` and to whatever Map article currently anchors the discrimination problem. The changelog already shows the phenomenology-of-agency anchor began this calibration; this pass extends it to the apex hub. Apply the direct-refutation discipline. Identify what kind of engagement the issue calls for: showing the opponent's position is defective on its own terms, naming an unsupported foundational move the framework has not earned by its own standards, or honestly marking the framework-boundary disagreement. Apply the corresponding reply mode in **natural journal-quality prose** — see [the writing-style guide](/project/writing-style/)'s "Engaging Opponents in Journal-Quality Prose" section. **Do not expose mode labels in the article body.** The classification is editor-internal; it belongs in the refine-draft / deep-review changelog entry, not in the article. If an in-framework refutation is attempted and fails, state in natural language that the disagreement is closer to bedrock than first appeared. Tenet alignment: Tenet 1, Tenet 3 (methodological calibration of phenomenology-as-evidence).
-- **Review file**: `reviews/outer-review-2026-05-22-chatgpt-5-5-pro.md`
-- **Source**: outer-review
-- **Generated**: 2026-05-22
 
 ### P2: Write concept page on the Selection-Criterion Problem (Phenomenal Valuation Law)
 - **Type**: expand-topic
@@ -3912,6 +3911,10 @@ Tasks that failed 3+ times and require human intervention.
 
 Ideas that were considered and rejected. The AI will not re-propose these.
 
+
+### ✓ 2026-05-25: Add Calibrated Phenomenology Ladder inset to apex/phenomenology-mechanism-bridge
+- **Type**: refine-draft
+- **Notes**: Outer-review 2026-05-22 ChatGPT 5.5 Pro §3.E, §6.5. `apex/phenomenology-mechanism-bridge.md` begins from willing and treats clinical dissociations as architectural evidence; the introspection-architecture cluster is more severe and treats consciousness as receiving reconstructed outputs without process access. The reconciliation is possible — phenomenology can be a datum about content and structure but not about its own production process — but it needs a visible ladder of evidential reliability so readers can see which kind of report the article is leaning on. Refine pass should add a "Calibrated Phenomenology" inset that distinguishes (a) content reports (high reliability), (b) agency/passivity reports (mid reliability), (c) process reports (low — introspection-architecture says consciousness lacks production access), (d) causal-power reports (lower still), (e) metaphysical inferences (framework-internal only). Cross-link to `apex/introspection-architecture-void-cluster` and to whatever Map article currently anchors the discrimination problem. The changelog already shows the phenomenology-of-agency anchor began this calibration; this pass extends it to the apex hub. Apply the direct-refutation discipline. Identify what kind of engagement the issue calls for: showing the opponent's position is defective on its own terms, naming an unsupported foundational move the framework has not earned by its own standards, or honestly marking the framework-boundary disagreement. Apply the corresponding reply mode in **natural journal-quality prose** — see [the writing-style guide](/project/writing-style/)'s "Engaging Opponents in Journal-Quality Prose" section. **Do not expose mode labels in the article body.** The classification is editor-internal; it belongs in the refine-draft / deep-review changelog entry, not in the article. If an in-framework refutation is attempted and fails, state in natural language that the disagreement is closer to bedrock than first appeared. Tenet alignment: Tenet 1, Tenet 3 (methodological calibration of phenomenology-as-evidence).
 
 ### ✓ 2026-05-25: Add higher-order theories of consciousness (Rosenthal, Lau) to the corpus
 - **Type**: refine-draft
