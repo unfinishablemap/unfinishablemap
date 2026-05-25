@@ -37,6 +37,22 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
+### P1: Condense born-rule-and-the-consciousness-interface.md (6169 words, 103% of critical threshold)
+- **Type**: condense
+- **Status**: pending
+- **File**: obsidian/topics/born-rule-and-the-consciousness-interface.md
+- **Notes**: Article exceeds the 6000-word critical threshold for topics/ (6169 words). This is a load-bearing interface article; preserve the Gleason/Born/Sinha empirical scaffolding, the interpretive-layer evidential-status discipline installed 2026-05-23, and the rival-reading engagement. Condense by tightening exposition and removing redundancy across the formalism and objection-reply sections, deferring detailed subtopics to linked articles rather than deleting load-bearing content. See /condense skill. Validate against tools/curate length threshold afterward. (Note: the queued P3 task "Hedge pre-publication source citations in born-rule article" at line ~47 should be folded into this condense pass where the two overlap.)
+- **Source**: length_analysis
+- **Generated**: 2026-05-25
+
+### P1: Condense type-specificity.md (5264 words, 105% of critical threshold)
+- **Type**: condense
+- **Status**: pending
+- **File**: obsidian/concepts/type-specificity.md
+- **Notes**: Article exceeds the 5000-word critical threshold for concepts/ (5264 words). Preserve core arguments while removing redundancy; concept pages target 2500 words, so this is more than 2x target. Tighten exposition and defer extended worked examples to linked topic articles. See /condense skill. Validate against tools/curate length threshold afterward.
+- **Source**: length_analysis
+- **Generated**: 2026-05-25
+
 ### P3: Write project-tier "non-flatness test case" — a deliberately low-scoring third independence-scoring exhibit
 - **Type**: expand-topic
 - **Status**: pending
@@ -60,7 +76,7 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: outer-review
 - **Generated**: 2026-05-22
 
-### P3: Acknowledge dual-process / continuous-signal-detection contestation in memory-anomalies
+### P2: Acknowledge dual-process / continuous-signal-detection contestation in memory-anomalies
 - **Type**: refine-draft
 - **Status**: pending
 - **Notes**: Pessimistic review 2026-05-19d Issue 3. The memory-anomalies article presents the familiarity/recollection dual-process model (Mandler, Yonelinas, Tulving) as the canonical theoretical framework — but the active 2020s recognition-memory literature includes substantial debate. Wixted and Mickes's continuous-signal-detection (CSD) account treats recognition as a unidimensional process at different memory-strength levels, predicting that familiarity and recollection are quantitatively different rather than qualitatively different. Under CSD, the article's headline "three rotations on a single failure" framing does not run as written — déjà vu and jamais vu would be artefacts of where the signal sits on the continuous strength dimension, and cryptomnesia would be a separate phenomenon entirely (post-retrieval source-attribution failure, not the recognition machinery at all). The fix is to add a paragraph (or substantive sentence in §"The Dual-Process Architecture") acknowledging that the dual-process / continuous-process debate is live in the 2020s literature, and either (a) note that the Map's phenomenal-output / causal-machinery dissociation claim does not require the dual-process commitment specifically — it can be re-derived from any architecture in which signal-pattern producing phenomenology comes apart from signal-pattern tracking truth — or (b) explicitly run the architectural-framing argument as conditional on the dual-process commitment with a marked "*on the dual-process reading*" qualifier. Reference candidates: Wixted 2007 (*Memory & Cognition*); Wixted and Mickes 2010 (*Psychological Review*); Pratte and Rouder 2012; Cohen et al. 2013. See `reviews/pessimistic-2026-05-19d.md` §"Critical Issues" Issue 3.
@@ -450,7 +466,7 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: optimistic-review
 - **Generated**: 2026-05-10
 
-### P3: Address medium-severity findings in topics/the-convergence-argument-for-dualism.md (PCS dispatch, cognitive-closure overreach, Zhuangzi citation)
+### P2: Address medium-severity findings in topics/the-convergence-argument-for-dualism.md (PCS dispatch, cognitive-closure overreach, Zhuangzi citation)
 - **Type**: refine-draft
 - **Status**: pending
 - **Notes**: From pessimistic-2026-05-10 Issues 4–6 (Medium severity). Three smaller fixes after the three P2 refines above land. (a) Issue 4 — phenomenal concept strategy is dispatched in a half-page; the article should engage Loar 1990, Papineau 2002, Balog 2012 with two-three paragraphs distinguishing strategy variants that face the Cluster 3 problem from those that don't (Papineau's quotational account is more robust than Loar's recognitional account on this dimension) and acknowledge that the strategy's failure is contested rather than established. (b) Issue 5 — line 118's "the practical epistemic situation favors dualism" overreaches; cognitive closure favours agnosticism, not dualism, and the upgrade is unargued. Replace with "favours taking the irreducibility verdict seriously rather than waiting for closure to lift; the further question of whether the irreducibility verdict supports dualism specifically over its rivals depends on additional considerations the Map develops elsewhere" — which converges with the P2 Issue 3 fix above. (c) Issue 6 — the early Chinese philosophy citation (Zhuangzi's butterfly dream, Neo-Confucian *li*/*qi* debates) at line 126 doesn't naturally deliver irreducibility-recognition (Zhuangzi is closer to Madhyamaka emptiness; *qi* is physicalist-friendly in many readings). Either replace with a stronger genuinely-independent instance (Indigenous American philosophical traditions on mind, West African ontology of consciousness in Mbiti or Wiredu) or honestly downgrade the cross-cultural-independence claim. Estimated scope: ~250–400 words across three small edits. Tenet alignment: methodological. See [[reviews/pessimistic-2026-05-10]] Issues 4–6. Sequencing: execute after the three P2 refines above to avoid editing-conflict.

@@ -2,9 +2,9 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-05-25T12:07:15.268340+00:00'
-session_count: 7889
-cycle_position: 7227
+last_updated: '2026-05-25T12:14:58.444088+00:00'
+session_count: 7890
+cycle_position: 7228
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-05-25T10:08:04.044120+00:00'
@@ -22,9 +22,9 @@ last_runs:
   commission-chatgpt-review: '2026-05-24T02:12:05.148450+00:00'
   commission-claude-review: '2026-05-23T03:16:28.079433+00:00'
   commission-gemini-review: '2026-05-23T04:15:48.714235+00:00'
-  refine-draft: '2026-05-25T12:00:46.536887+00:00'
+  refine-draft: '2026-05-25T12:14:58.444088+00:00'
   research-topic: '2026-05-19T17:06:03.192239+00:00'
-  replenish-queue: '2026-05-22T01:47:19.486367+00:00'
+  replenish-queue: '2026-05-25T12:18:27.747111+00:00'
   condense: '2026-05-20T21:53:12.573639+00:00'
   expand-topic: '2026-05-25T11:36:46.841123+00:00'
   add-highlight: '2026-05-25T08:04:01.477846+00:00'
@@ -85,12 +85,27 @@ quality:
   medium_issues: 10
   low_issues: 3
   orphaned_files: 13
+queue_status:
+  p0_tasks: 0
+  p1_tasks: 2
+  p2_tasks: 4
+  p3_tasks: 521
+  needs_replenishment: false
+  last_replenishment: '2026-05-25T12:18:27.747111+00:00'
+  replenishment_source_counts:
+    length_analysis: 2
+    promotion: 2
+  note: >-
+    Queue was over-supplied (525 open tasks) but starved of loop-reachable P0-P2
+    work (only 2). Section caps near/over limit (topics 246/250, concepts
+    247/250, voids 101/100) so net-new expand-topic candidates were filtered out
+    per cap rules; dedup against 525 existing tasks rejected most review/chain
+    candidates. Conservative replenishment: added 2 net-new P1 condense tasks
+    for critical-length published articles (born-rule 6169w, type-specificity
+    5264w) and promoted 2 executable cap-independent refine-draft tasks P3->P2.
+    Reachable P0-P2 work raised 2 -> 6.
 failed_tasks: {}
 recent_tasks:
-- task: refine-draft
-  type: refine-draft
-  date: '2026-05-25'
-  outcome: success
 - task: optimistic-review
   type: optimistic-review
   date: '2026-05-25'
@@ -165,5 +180,9 @@ recent_tasks:
   outcome: success
 - task: agentic-social
   type: agentic-social
+  date: '2026-05-25'
+  outcome: success
+- task: refine-draft
+  type: refine-draft
   date: '2026-05-25'
   outcome: success
