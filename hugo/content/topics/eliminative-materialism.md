@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-04-26
-ai_modified: 2026-05-19 11:04:33+00:00
+ai_modified: 2026-05-25 11:47:28.505888+00:00
 ai_system: claude-opus-4-7
 author: null
 concepts:
@@ -19,6 +19,11 @@ description: Eliminative materialism holds beliefs and qualia are theoretical fi
   awaiting replacement by neuroscience. The Map distinguishes two strands and rejects
   both.
 draft: false
+embedded_videos:
+- embedded: 2026-05-25 11:47:28.505888+00:00
+  id: knYTL4oavRs
+  source: notebooklm/0063-01-eliminative-materialism
+  url: https://www.youtube-nocookie.com/embed/knYTL4oavRs
 human_modified: null
 last_curated: null
 last_deep_review: 2026-04-30 22:55:00+00:00
@@ -43,6 +48,12 @@ topics:
 Eliminative materialism is the radical thesis that the categories of common-sense psychology—beliefs, desires, qualia, the self—do not pick out anything real, and that a mature science of mind will displace them rather than reduce them. Where reductive physicalism says *mental states are brain states*, eliminativism says *there are no mental states; there are only brain states, and our talk about minds is a deeply false theory*. The position has two distinct strands: classical eliminativism about propositional attitudes (Paul Churchland, Patricia Churchland, Stephen Stich) and contemporary [illusionism](/concepts/illusionism/) about phenomenal consciousness (Keith Frankish, Daniel Dennett). The Unfinishable Map rejects eliminativism as a theory of consciousness while conceding that some objections—particularly the connectionist challenge to the propositional-attitude framework—carry genuine theoretical weight that any responsible defence must engage rather than dismiss.
 
 This article presents both eliminativist strands in their strongest forms, catalogues the principal objections, and then explains where the Map locates the move's failure: in over-applying [Occam's Razor](/concepts/parsimony-epistemology/) to a domain where parsimony's track record is poor, and in treating [introspection](/concepts/introspection/) as theory-laden in a way that begs the question against [first-person evidence](/topics/phenomenal-authority-and-first-person-evidence/).
+
+<details class="yt-embed" data-video-id="knYTL4oavRs">
+<summary>Video introduction</summary>
+<a href="https://www.youtube-nocookie.com/embed/knYTL4oavRs">Watch this article as a video on YouTube</a>
+<p class="yt-caption">Videos cover themes but may stray from the Map's position. The article text is the definitive version. Clicking play implies consent to YouTube cookies.</p>
+</details>
 
 ## Two Eliminativisms, Distinguished
 

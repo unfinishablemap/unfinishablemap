@@ -3864,6 +3864,14 @@ Tasks that failed 3+ times and require human intervention.
 Ideas that were considered and rejected. The AI will not re-propose these.
 
 
+### ✓ 2026-05-25: Adopt consciousness-physics-interface-formalism calibration in born-rule-and-the-consciousness-interface
+- **Type**: refine-draft
+- **Notes**: From topic-concept anchoring audit 2026-05-25. The topic article over-claims relative to its anchor concept [consciousness-physics-interface-formalism](/concepts/consciousness-physics-interface-formalism/); failed checks: hedge_density, strong_assertions.
+
+### ✓ 2026-05-25: Adopt causal-closure calibration in forward-in-time-conscious-selection
+- **Type**: refine-draft
+- **Notes**: From topic-concept anchoring audit 2026-05-25. The topic article over-claims relative to its anchor concept [causal-closure](/concepts/causal-closure/); failed checks: hedge_density, underdetermination_markers.
+
 ### ✓ 2026-05-25: Write project-tier page on Mechanism-Cost Ledger as Tenet-5 discipline
 - **Type**: expand-topic
 - **Notes**: Outer-review 2026-05-22 ChatGPT 5.5 Pro §4 Tenet 5, §6 methodology 3. Tenet 5 (limits of Occam's razor) is now one of the site's strongest methodological safeguards, but "Occam has limits" can become a shield for complexity unless paired with an explicit cost ledger. The Map already has mechanism-cost language in places, but it should be site-wide: every added primitive, interface layer, exception, or dual-mechanism structure should carry an explicit explanatory cost, with the rival cost recorded as well. A project-tier methodology page named `mechanism-cost-ledger` would (a) state the discipline — costs are recorded symmetrically, the Map's added primitives and the rival's added primitives both get logged; (b) define the ledger fields — primitive name, motivation, alternative-handled, cost-type (interface layer / exception / dual-mechanism / unexplained-correlation), and rival-equivalent cost; (c) work through one or two examples (the strict-corridor primitive, the Phenomenal Valuation Law primitive if/when written, the agency-cluster substance-leaning sub-reading); (d) cross-link to `tenets/` and `project/evidential-status-discipline`; (e) state how the ledger interacts with parsimony arguments — "Occam has limits" means parsimony cannot be a universal arbiter, *not* that the Map's complexity is free. Target section: `project/` (uncapped). Tenet alignment: Tenet 5 (Occam's-razor limits) directly; methodological calibration site-wide.
