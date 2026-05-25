@@ -37,6 +37,13 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
+### P3: Write project-tier "non-flatness test case" — a deliberately low-scoring third independence-scoring exhibit
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review 2026-05-25. The per-cluster independence-scoring programme currently rests on N=2 worked exhibits — the surplus-void (retracted) and the introspection-architecture sub-cluster (partially promoted). As [[topics/introspection-architecture-independence-scoring]] admits in its own words, "the discrimination is consistent with both *methodology works* and *methodology rationalises decisions already made*; stronger non-flatness claims await an unfavourable test case." Choose a void cluster the method would be expected to score *low* on (weak framework-independence, convergence running through framework definitions) and score it honestly. If it scores low, the method discriminates; the credibility of the whole voids-circularity-discount programme depends on producing such a case. Highest-leverage move available to the evidential-status programme.
+- **Source**: optimistic-review-2026-05-25
+- **Generated**: 2026-05-25
+
 ### P3: Hedge pre-publication source citations in born-rule article
 - **Type**: refine-draft
 - **Status**: pending
