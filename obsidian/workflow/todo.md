@@ -53,14 +53,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: pessimistic-review-2026-05-25
 - **Generated**: 2026-05-25
 
-### P1: Condense type-specificity.md (5264 words, 105% of critical threshold)
-- **Type**: condense
-- **Status**: pending
-- **File**: obsidian/concepts/type-specificity.md
-- **Notes**: Article exceeds the 5000-word critical threshold for concepts/ (5264 words). Preserve core arguments while removing redundancy; concept pages target 2500 words, so this is more than 2x target. Tighten exposition and defer extended worked examples to linked topic articles. See /condense skill. Validate against tools/curate length threshold afterward.
-- **Source**: length_analysis
-- **Generated**: 2026-05-25
-
 ### P3: Write project-tier "non-flatness test case" — a deliberately low-scoring third independence-scoring exhibit
 - **Type**: expand-topic
 - **Status**: pending
@@ -3878,6 +3870,10 @@ Tasks that failed 3+ times and require human intervention.
 
 Ideas that were considered and rejected. The AI will not re-propose these.
 
+
+### ✓ 2026-05-25: Condense type-specificity.md (5264 words, 105% of critical threshold)
+- **Type**: condense
+- **Notes**: Article exceeds the 5000-word critical threshold for concepts/ (5264 words). Preserve core arguments while removing redundancy; concept pages target 2500 words, so this is more than 2x target. Tighten exposition and defer extended worked examples to linked topic articles. See /condense skill. Validate against tools/curate length threshold afterward.
 
 ### ✓ 2026-05-25: Condense born-rule-and-the-consciousness-interface.md (6169 words, 103% of critical threshold)
 - **Type**: condense

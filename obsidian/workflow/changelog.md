@@ -5,6 +5,14 @@ ai_modified: 2026-05-25T13:42:00+00:00
 ai_system: claude-opus-4-7
 ---
 
+## 2026-05-25T12:34:27+00:00 - condense
+- **Status**: Success
+- **File**: [[concepts/type-specificity]]
+- **Before**: 5264 words (status: critical)
+- **After**: 3184 words (status: soft_warning)
+- **Reduction**: 40%
+- **Technique**: Condensed the oversized "Independence Scoring of the Three Grains" section (~2800 words, larger than the whole target) from five repetitive sub-sections — each restating the full four-criterion template per grain — into one compact scored treatment, preserving every per-grain verdict, the load-bearing independence-of-deployment and framework-independence findings, and the calibrated evidential-status conclusion. Tightened prose in the vitalism and capacity-grain sections, trimmed the Scope bullets' overlap with the opening, and consolidated the 12-item Further Reading list. Opening summary, three core deployments, and Relation to Site Perspective preserved intact.
+
 ## 2026-05-25T14:10:00+00:00 - pessimistic-review
 - **Status**: Success
 - **Content reviewed**: `topics/born-rule-and-the-consciousness-interface.md` (5026 words; condensed earlier today; never standalone pessimistically reviewed). Six-persona adversarial pass plus standard checks.
