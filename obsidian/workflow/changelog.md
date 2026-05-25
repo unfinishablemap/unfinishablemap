@@ -1,9 +1,17 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-25T21:05:15+00:00
+ai_modified: 2026-05-25T21:11:29+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-05-25T21:11:29+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[topics/born-rule-and-the-consciousness-interface]]
+- **Original score**: n/a (targeted fix from pessimistic-review 2026-05-25, Issue 4 Low)
+- **Changes**: §"Beyond Standard Derivations" framework table audited seven physical frameworks with a "What It Assumes" column (incl. scare-quoted MWI "derivation") but had no row for the interface/corridor reading — granting the Map's own reading an exemption from the accounting it applies to rivals, the asymmetry the Many-Worlds Defender persona flagged and the article's own symmetry discipline forbids. Added an "Interface / corridor" row with an honest "What It Assumes" cell (non-physical substrate; the tenet-set; a single-event channel undetectable by construction at the ensemble level) and a Born-Rule-Status cell ("Underivability-expecting (reading, not derivation)"). Amended the post-table sentence so it states the Map's reading earns its row by importing assumptions of the same accounting kind, not by escaping the audit. Kept the MWI scare quotes (the added row, not scare-quote removal, is the symmetry fix the task preferred). Surgical, single-row addition — not a condense (article is at its constrained length floor; length status is a separate human-decision matter).
+- **Engagement classification**: §"Beyond Standard Derivations" / MWI table row — Mode Three (framework-boundary marking): the new row marks the interface reading's assumptions as parallel-in-kind to the rivals' rather than claiming derivational standing, consistent with the article's symmetry-of-accounting discipline; no in-framework refutation claimed.
+- **Published**: yes
 
 ## 2026-05-25T21:05:15+00:00 - refine-draft
 - **Status**: Success

@@ -4,7 +4,7 @@ description: "The Born rule resists derivation across every quantum interpretati
 created: 2026-03-15
 modified: 2026-05-23
 human_modified:
-ai_modified: 2026-05-25T14:05:00+00:00
+ai_modified: 2026-05-25T21:11:29+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -130,8 +130,9 @@ In Bohmian mechanics the Born rule is a theorem conditional on quantum equilibri
 | Transactional | Product of offer × confirmation | Confirmation wave defined as ψ* |
 | Categorical | Structural consequence | Framework includes effects and probability |
 | Diósi-Penrose | Partial (timescales only) | Decay-rate interpretation of energy gaps |
+| Interface / corridor | Underivability-expecting (reading, not derivation) | Non-physical substrate; the tenet-set; a single-event channel undetectable by construction at the ensemble level |
 
-Every framework either postulates the Born rule, assumes it in disguised form, or relocates it. None generates it from non-probabilistic, observer-independent premises.
+Every framework either postulates the Born rule, assumes it in disguised form, or relocates it. None generates it from non-probabilistic, observer-independent premises — and the Map's own interface reading earns its last row by importing assumptions of the same accounting kind, not by escaping the audit.
 
 ## Absorbing the Urgleichung
 

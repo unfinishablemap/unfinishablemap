@@ -37,6 +37,29 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
+### P2: Adopt mind-brain-separation calibration in lucid-dreaming-and-dualist-rendering
+- **Type**: refine-draft
+- **Status**: pending
+- **File**: obsidian/topics/lucid-dreaming-and-dualist-rendering.md
+- **Notes**: From topic-concept anchoring audit 2026-05-25. The topic article over-claims relative to its anchor concept [[mind-brain-separation]]; failed checks: hedge_density, underdetermination_markers.
+  - hedge density 1.69/kw is below 60% of anchor (7.48/kw)
+  - anchor declares underdetermination (1× explicit) but topic has no underdetermination markers
+  - Action: bring the topic's hedge profile in line with the anchor concept's. Preserve the article's voice; this is not a request to weaken the central claim, only to inherit the calibration discipline the anchor concept already uses. See [[project/calibration-audit-triple]] Audit Three for the spec and [[evidential-status-discipline]] for the underlying rule.
+- **Source**: topic-concept-anchoring-audit
+- **Generated**: 2026-05-25
+
+### P2: Adopt counterfactual-reasoning calibration in bandwidth-of-consciousness
+- **Type**: refine-draft
+- **Status**: pending
+- **File**: obsidian/topics/bandwidth-of-consciousness.md
+- **Notes**: From topic-concept anchoring audit 2026-05-25. The topic article over-claims relative to its anchor concept [[counterfactual-reasoning]]; failed checks: hedge_density, strong_assertions.
+  - hedge density 2.63/kw is below 60% of anchor (11.53/kw)
+  - topic uses 2 strong-assertion verbs where anchor uses none
+  - Action: bring the topic's hedge profile in line with the anchor concept's. Preserve the article's voice; this is not a request to weaken the central claim, only to inherit the calibration discipline the anchor concept already uses. See [[project/calibration-audit-triple]] Audit Three for the spec and [[evidential-status-discipline]] for the underlying rule.
+- **Source**: topic-concept-anchoring-audit
+- **Generated**: 2026-05-25
+
+
 ### P3: Research non-Western physicalist theories to test the concession-convergence cross-observer gap
 - **Type**: research-topic
 - **Status**: pending
@@ -57,14 +80,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **File**: obsidian/topics/the-reverse-inference.md
 - **Notes**: Suggested by optimistic review 2026-05-25c (Medium Priority). The Map's two flagship *methodological* meta-moves — [[topics/the-reverse-inference]] (inverts the direction of explanation: secure datum constrains underdetermined framework) and [[topics/epistemology-of-convergence-arguments]] (aggregates independent routes to one conclusion) — are cross-linked but never directly compared. A short comparative section (likely in the reverse-inference article) would answer how they relate: do they compound (each raising the posterior independently), overlap (share the experience-as-datum premise, hence a shared vulnerability to illusionist debunking), or operate at different layers? ~400–600 words added; refine-draft, not a new article. Tenet alignment: cross-tenet methodological integration. See [[reviews/optimistic-2026-05-25c]].
 - **Source**: optimistic-review (2026-05-25c)
-- **Generated**: 2026-05-25
-
-### P2: Fix accounting asymmetry in born-rule framework table
-- **Type**: refine-draft
-- **Status**: pending
-- **File**: obsidian/topics/born-rule-and-the-consciousness-interface.md
-- **Notes**: Pessimistic review 2026-05-25 issue 4. The §"Beyond Standard Derivations" framework table applies a "What It Assumes" audit to seven physical frameworks (with scare quotes around the MWI "derivation") but has no row for the interface/corridor reading and its own assumptions — granting the Map's reading an exemption from the accounting it applies to rivals (the asymmetry the Many-Worlds Defender persona flags, and which the article's own symmetry discipline forbids). Fix EITHER by adding an "Interface / corridor" row with an honest "What It Assumes" cell (non-physical substrate; tenet-set; by-construction-silent channel) OR by dropping the scare quotes from the MWI "derivation" cell so the table reads descriptively neutral. Small surgical edit. Verified 2026-05-25T21:10 UTC: the article still has no "Interface / corridor" row (grep of the synced obsidian source returns zero matches), so this fix is genuinely unaddressed. See reviews/pessimistic-2026-05-25-born-rule.md. PROMOTED P3→P2 by /replenish-queue 2026-05-25T21:10 UTC (late cycle): open P0-P2 queue was at 2 (below the MIN_QUEUE_TASKS floor of 3) after today's earlier P3→P2 surgical-refine promotion (predicted-by-rival asymmetry) was consumed and completed. All three content-section length offenders remain unavailable as honest length_analysis promotions — probability-problem-in-many-worlds is already the open P2; epistemology-of-convergence is escalated to Blocked (needs human editorial split/reclassify decision); born-rule's own over-length status is churn-exhausted/vetoed. Rather than generate a churning condense duplicate or a speculative new task against the 523-task P3 backlog, promote this small, surgical, executable refine that addresses a live Medium pessimistic-review finding and is verified still-open. NOTE: this is an accounting-asymmetry fix to one table row, NOT a condense — it does not touch the article's length class, so it does not conflict with the vetoed/blocked born-rule condense tasks. If a born-rule condense or the citation-hedging refine (P3, same file) lands first, fold this row-edit in rather than undoing it.
-- **Source**: pessimistic-review-2026-05-25; promoted by /replenish-queue 2026-05-25
 - **Generated**: 2026-05-25
 
 ### P3: Write concept page on ensemble-level epiphenomenalism (corridor reading's sharpest open question)
@@ -3838,6 +3853,10 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 Tasks that failed 3+ times and require human intervention.
 
+
+### ✓ 2026-05-25: Fix accounting asymmetry in born-rule framework table
+- **Type**: refine-draft
+- **Notes**: Pessimistic review 2026-05-25 issue 4. The §"Beyond Standard Derivations" framework table applies a "What It Assumes" audit to seven physical frameworks (with scare quotes around the MWI "derivation") but has no row for the interface/corridor reading and its own assumptions — granting the Map's reading an exemption from the accounting it applies to rivals (the asymmetry the Many-Worlds Defender persona flags, and which the article's own symmetry discipline forbids). Fix EITHER by adding an "Interface / corridor" row with an honest "What It Assumes" cell (non-physical substrate; tenet-set; by-construction-silent channel) OR by dropping the scare quotes from the MWI "derivation" cell so the table reads descriptively neutral. Small surgical edit. Verified 2026-05-25T21:10 UTC: the article still has no "Interface / corridor" row (grep of the synced obsidian source returns zero matches), so this fix is genuinely unaddressed. See reviews/pessimistic-2026-05-25-born-rule.md. PROMOTED P3→P2 by /replenish-queue 2026-05-25T21:10 UTC (late cycle): open P0-P2 queue was at 2 (below the MIN_QUEUE_TASKS floor of 3) after today's earlier P3→P2 surgical-refine promotion (predicted-by-rival asymmetry) was consumed and completed. All three content-section length offenders remain unavailable as honest length_analysis promotions — probability-problem-in-many-worlds is already the open P2; epistemology-of-convergence is escalated to Blocked (needs human editorial split/reclassify decision); born-rule's own over-length status is churn-exhausted/vetoed. Rather than generate a churning condense duplicate or a speculative new task against the 523-task P3 backlog, promote this small, surgical, executable refine that addresses a live Medium pessimistic-review finding and is verified still-open. NOTE: this is an accounting-asymmetry fix to one table row, NOT a condense — it does not touch the article's length class, so it does not conflict with the vetoed/blocked born-rule condense tasks. If a born-rule condense or the citation-hedging refine (P3, same file) lands first, fold this row-edit in rather than undoing it.
 
 ### ✓ 2026-05-25: Register predicted-by-rival asymmetry in introspection-architecture exhibit
 - **Type**: refine-draft
