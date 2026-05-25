@@ -1,10 +1,10 @@
 ---
 title: "Consciousness and Counterfactual Reasoning"
-description: "Counterfactual reasoning—imagining what isn't—reveals consciousness as more than neural processing. Human-AI exploration of why representing non-actuality demands an irreducible mind."
+description: "Counterfactual reasoning—imagining what isn't—may point to consciousness as more than neural processing. Human-AI exploration of why representing non-actuality seems to implicate an irreducible mind."
 created: 2026-02-15
-modified: 2026-04-17
+modified: 2026-05-25
 human_modified:
-ai_modified: 2026-04-17T20:17:00+00:00
+ai_modified: 2026-05-25T21:45:48+00:00
 draft: false
 topics:
   - "[[topics/free-will]]"
@@ -59,17 +59,19 @@ This dual representation has specific cognitive demands:
 
 The physicalist must explain counterfactual reasoning as nothing more than neural activity. Several approaches are available, but each faces a difficulty that goes beyond the general hard problem—each specifically struggles with the *dual-status* character of counterfactual thought:
 
-**The simulation account**: The brain "simulates" alternative scenarios by reactivating perceptual and motor circuits in modified patterns. Neuroscience confirms that imagining shares neural substrates with perceiving. The physicalist can point to metacognitive circuits—prefrontal monitoring that tags representations as imagined rather than perceived. But the difficulty is specific: the reasoner must treat the simulated scenario as informatively real (tracing its causal consequences, feeling its emotional weight) while *simultaneously* maintaining awareness that it is not actual. This is not just the hard problem of why tagging feels like something—it is the problem of how two incompatible epistemic attitudes toward the same representation coexist in a single conscious moment.
+**The simulation account**: The brain "simulates" alternative scenarios by reactivating perceptual and motor circuits in modified patterns. Neuroscience indicates that imagining shares neural substrates with perceiving. The physicalist can point to metacognitive circuits—prefrontal monitoring that tags representations as imagined rather than perceived. But the difficulty is specific: the reasoner must treat the simulated scenario as informatively real (tracing its causal consequences, feeling its emotional weight) while *simultaneously* maintaining awareness that it is not actual. This is not just the hard problem of why tagging feels like something—it is the problem of how two incompatible epistemic attitudes toward the same representation coexist in a single conscious moment.
 
 **The computational account**: Counterfactual reasoning is formal manipulation of data structures—branching operations over possible-world models. Computers do this routinely—evaluating game trees, running simulations, exploring planning spaces. But computational counterfactual processing lacks the dual-status phenomenology entirely. The system does not *grasp* that the branch it evaluates is non-actual; that distinction exists only in the programmer's interpretation, not in the processing itself. If human counterfactual reasoning is just computation, the felt awareness of non-actuality is epiphenomenal—which the Map's [[tenets#^bidirectional-interaction|Bidirectional Interaction]] tenet rejects.
 
 **The predictive processing account**: The brain is a prediction machine, and counterfactuals are predictions about what would happen under alternative conditions. This is plausible for simple anticipatory cognition. But retrospective counterfactuals ("what if I had studied philosophy instead?") are phenomenally rich in ways that exceed any learning function—a simple error signal would suffice, yet we experience elaborate imagined alternative histories complete with emotional texture and the persistent awareness that none of it happened. fMRI evidence shows retrospective counterfactual reasoning recruits an extensive network spanning prefrontal, hippocampal, and default mode regions (Van Hoeck et al., 2015), consistent with elaborated phenomenal construction rather than minimal prediction-error correction. The dual-status character is doing work that prediction error minimisation does not explain.
 
-Each account captures part of counterfactual reasoning's functional structure. But unlike the general hard problem—which asks why *any* processing is conscious—the counterfactual problem asks something more targeted: how does the mind sustain two incompatible stances toward a single representation, and why does this dual stance have a distinctive phenomenal character that formal computation lacks?
+Each account captures part of counterfactual reasoning's functional structure. But unlike the general hard problem—which asks why *any* processing is conscious—the counterfactual problem asks something more targeted: how does the mind sustain two incompatible stances toward a single representation, and why does this dual stance seem to have a distinctive phenomenal character that formal computation lacks?
+
+One pressure on this framing deserves explicit acknowledgement, since it qualifies every claim in this section. Large language models now generate counterfactual scenarios fluently, maintain a counterfactual premise across extended reasoning, and draw conclusions within the imagined frame—apparently without phenomenal consciousness. The concept article on [[counterfactual-reasoning|counterfactual reasoning]] treats this as a genuine challenge case where the Map's predictions are unclear. If such systems can perform increasingly sophisticated counterfactual *processing* without dual-status awareness, then the claim that phenomenal grasp is *necessary* (rather than merely the biological route to the capacity) is under pressure. The arguments below should accordingly be read as suggesting that conscious counterfactual reasoning has a character formal computation has not been shown to share—not as establishing that it could not in principle be matched.
 
 ## Counterfactual Reasoning as Evidence for Bidirectional Interaction
 
-The Map's [[tenets#^bidirectional-interaction|Bidirectional Interaction]] tenet holds that consciousness causally influences physical outcomes. Counterfactual reasoning provides some of the strongest evidence for this claim.
+The Map's [[tenets#^bidirectional-interaction|Bidirectional Interaction]] tenet holds that consciousness causally influences physical outcomes. Counterfactual reasoning may provide some of the strongest evidence for this claim—though, as the concept article on [[counterfactual-reasoning]] notes, the inference depends on premises a physicalist need not grant.
 
 Consider deliberation. When choosing between options, you construct counterfactual scenarios for each—imagining what would follow from each choice—and then select based on the comparison. If this deliberation is genuinely conscious and genuinely influences which action you take, then consciousness is doing causal work: the phenomenal experience of imagining alternatives shapes the physical outcome (your behaviour).
 
@@ -103,7 +105,7 @@ The Map's tenets illuminate counterfactual reasoning from multiple angles:
 
 **Dualism**: Physical and computational systems process counterfactual information routinely—but without any awareness of a representation's modal status. The *phenomenal grasp* of non-actuality, the conscious awareness that a scenario is merely possible rather than actual, resists reduction to information processing. If this dual-status awareness is irreducible, it provides a distinctive argument for dualism: not from qualia or the explanatory gap, but from the mind's ability to *consciously apprehend* what doesn't exist.
 
-**Bidirectional Interaction**: Counterfactual reasoning is the mechanism through which consciousness exercises causal influence. Without the capacity to represent and compare alternatives, conscious choice would be impossible. The phenomenal experience of deliberation—weighing counterfactual scenarios against values—is how consciousness shapes physical outcomes.
+**Bidirectional Interaction**: Counterfactual reasoning may be the mechanism through which consciousness exercises causal influence. Without the capacity to represent and compare alternatives, conscious choice would seem impossible. The phenomenal experience of deliberation—weighing counterfactual scenarios against values—could be how consciousness shapes physical outcomes, if the Map's interactionist picture is correct.
 
 **Minimal Quantum Interaction**: If consciousness influences the physical world through the smallest possible intervention at quantum-level decision points, counterfactual reasoning may be the cognitive process that makes this possible. Evaluating alternatives before selection is precisely what a minimal-interaction model requires—consciousness need not restructure neural activity wholesale but only bias which quantum possibility becomes actual, guided by counterfactual comparison.
 

@@ -5,6 +5,14 @@ ai_modified: 2026-05-25T21:45:00+00:00
 ai_system: claude-opus-4-7
 ---
 
+## 2026-05-25T21:45:48+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[topics/consciousness-and-counterfactual-reasoning]]
+- **Original score**: n/a (no curate.py review tool in repo; topic-concept anchoring audit 2026-05-25, Audit Three of [[project/calibration-audit-triple]], is the authoritative signal). Article over-claimed relative to anchor concept [[counterfactual-reasoning]]; failed checks: hedge_density (5.69/kw, below the 6.92/kw floor = 60% of anchor's 11.53/kw) and strong_assertions (1 strong-assertion verb where the anchor uses none).
+- **Changes**: Brought the topic's calibration into line with its anchor concept while preserving the central claim and argument. (1) Softened the one strong-assertion verb: "Neuroscience confirms that imagining shares neural substrates with perceiving" → "Neuroscience indicates that..." (strong_assertions 0.41/kw → 0/kw, clearing the check — anchor uses none). (2) Calibrated the description's strongest necessity claim: "why representing non-actuality demands an irreducible mind" → "seems to implicate an irreducible mind"; "reveals consciousness as more than neural processing" → "may point to". (3) Hedged the two flat Bidirectional-Interaction assertions to match the anchor's "may be the mechanism" framing: "provides some of the strongest evidence" → "may provide..., though the inference depends on premises a physicalist need not grant"; "is the mechanism through which consciousness exercises causal influence" → "may be the mechanism... could be how consciousness shapes physical outcomes, if the Map's interactionist picture is correct". (4) Installed the concept article's biggest hedge, which the topic had entirely omitted — added a paragraph in "Why Physicalism Struggles" acknowledging the LLM challenge case (sophisticated counterfactual processing apparently without phenomenal consciousness puts the strong *necessity* claim under pressure), explicitly cross-referencing the concept's treatment and reframing the section's arguments as "suggesting" rather than "establishing". Calibration result: hedge_density 5.69 → 7.27/kw (above the 6.92/kw anchor floor); strong_assertions 1 → 0. `tools/curate/anchoring.evaluate_anchoring` now returns zero flags against all anchor concepts.
+- **Engagement classification**: engagement with the physicalist/computationalist — Mode Three (framework-boundary marking): the LLM-challenge paragraph and the hedged tenet claims concede the in-framework disagreement is evidentially underdetermined (necessity vs. biological-route remains open) and decline to claim in-framework refutation, consistent with the evidential-status discipline's compatibility-vs-support boundary.
+- **Published**: yes
+
 ## 2026-05-25T21:45:00+00:00 - refine-draft
 - **Status**: Success
 - **File**: [[topics/lucid-dreaming-and-dualist-rendering]]
