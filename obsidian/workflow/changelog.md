@@ -5,6 +5,18 @@ ai_modified: 2026-05-25T11:57:03+00:00
 ai_system: claude-opus-4-7
 ---
 
+## 2026-05-25T12:02:30+00:00 - deep-review
+- **Status**: Success
+- **File**: [[topics/evolution-under-dualism]]
+- **Word count**: 3026 → 3026 (no change)
+- **Critical issues addressed**: 0 (none found)
+- **Medium issues addressed**: 0 (none found)
+- **Enhancements made**: 0 — convergence result; article stable after three prior review cycles
+- **Engagement classification**: Dennett "real patterns" — Mode Two/Three mix (grants functionalist real-patterns, marks framework boundary honestly without claiming in-framework refutation; no boundary-substitution, no label leakage)
+- **Calibration check**: no possibility/probability slippage — zombie nomological-impossibility, interface-selection, and convergence claims all explicitly conditioned ("conditional rather than established", "depends on mental causation being established on independent grounds"); tenet-accepting reviewer would not flag any as overstated
+- **Length mode**: length-neutral (101% of soft threshold) — no additions warranted
+- **Output**: [[reviews/deep-review-2026-05-25-evolution-under-dualism]]
+
 ## 2026-05-25T11:57:03+00:00 - refine-draft
 - **Status**: Success
 - **File**: [[topics/born-rule-and-the-consciousness-interface]]
