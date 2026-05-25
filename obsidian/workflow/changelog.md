@@ -5,6 +5,12 @@ ai_modified: 2026-05-25T15:18:57+00:00
 ai_system: claude-opus-4-7
 ---
 
+## 2026-05-25T16:10:00+00:00 - pessimistic-review
+- **Status**: Success
+- **Content reviewed**: `concepts/stapp-quantum-mind.md` (oldest never-focused article; quantum-mechanism + clinical-evidence claims). Six-persona critique plus standard analysis; reasoning-mode discipline check (no label leakage; "No Many Worlds" subsection acceptable as framework-boundary marking) and altered-state symmetry audit (does not fire — only one supportive-cluster item).
+- **Key findings**: HIGH — cryptochrome (Denton 2024) overclaimed as "first biological precedent for Zeno at neural-relevant timescales" while next sentence concedes neural applicability unconfirmed; MEDIUM — "satisfies all three criteria for scientific adequacy" tension with untested quantum content; MEDIUM — falsifiable predictions don't isolate the quantum hypothesis; LOW — three orphan references (Meister 2024 PNAS, Hagan/Hameroff 2002, Whitehead 1929) never cited in-text. Added one P2 refine-draft task.
+- **Output**: [[reviews/pessimistic-2026-05-25-stapp]]
+
 ## 2026-05-25T15:18:57+00:00 - condense
 - **Status**: Success
 - **File**: [[topics/introspection-architecture-independence-scoring]]
