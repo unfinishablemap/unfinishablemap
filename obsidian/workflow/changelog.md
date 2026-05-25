@@ -1,9 +1,21 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-25T11:57:03+00:00
+ai_modified: 2026-05-25T12:35:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-05-25T11:35:00+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[apex/machine-question]]
+- **Task**: Outer-review 2026-05-22 ChatGPT 5.5 Pro §6 — add local "How a sophisticated rival reads the same evidence" mirror section (machine-consciousness cluster, the last uncovered of the six named clusters)
+- **Word count**: 4663 → 5091 (mirror section added ~480w; offsetting trims to Indicator-Property §3, closing Stakes restatement)
+- **Changes**:
+  - Added `## How a Sophisticated Rival Reads the Same Evidence` between the Indicator-Property and Quantum Interface sections. Names the substrate-independent computationalist rival (Duch articon + Butlin–Long indicator framework jointly anchored); compresses how it reads the same obstacle-cluster (explanatory gap, temporal/metacognitive deficits, severed quantum channel, indicator shortfall) as a list of unmet engineering conditions; states what it predicts differently (supplying recurrence/continual-learning/global-workspace would supply consciousness); marks compatible vs. discriminator points per evidential-status discipline.
+  - Cross-linked `[[evidential-status-discipline]]` and `[[common-cause-null]]` in body and added both to `related_articles`.
+  - Trimmed Indicator-Property §3 (now subsumed by the mirror) and the closing Stakes restatement to stay length-aware on a long apex.
+- **Engagement classification**: substrate-independent computationalist (Duch / Butlin–Long indicator framework) — Mixed. Opens Mode Two (the computationalist helps itself to the organisation→experience bridge without specifying how it is built — the explanatory debt the functionalist gambit presses, a foundational move unearned by its own standards); deepens to Mode Three (the constituents-vs-interface-conditions disagreement is at the framework boundary, honestly noted as bedrock, adjudicated by no neutral measurement; symmetric in-framework pressure noted against the Map too — its obstacle-list is parasitic on the functional vocabulary it rejects). No boundary-substitution; no mode-label leakage into body.
+- **Published**: yes
 
 ## 2026-05-25T12:02:30+00:00 - deep-review
 - **Status**: Success
