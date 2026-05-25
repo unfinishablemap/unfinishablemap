@@ -38,15 +38,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P1: Fix miscited Barlev & Shtulman 2021 reference in epistemology-of-convergence-arguments
-- **Type**: refine-draft
-- **Status**: pending
-- **File**: obsidian/topics/epistemology-of-convergence-arguments.md
-- **Notes**: Outer-review 2026-05-23 Claude Opus 4.7 §2. Reference 8 (line 213) currently reads: "Barlev, M. & Shtulman, A. (2021). Minds, bodies, spirits, and gods: Does widespread cultural belief in spiritual beings entail a universal cognitive bias? *Psychological Review*, 128(6), 1077-1095." Both the subtitle and pagination are wrong. Correct citation (verified via PhilPapers, PubMed, DOI resolver): Barlev, M., & Shtulman, A. (2021). "Minds, bodies, spirits, and gods: Does widespread belief in disembodied beings imply that we are inherent dualists?" *Psychological Review*, 128(6), **1007–1021**. DOI 10.1037/rev0000298. Refine pass: replace the line. While there, audit every other reference in the list against the publisher's website. The other primary citations (Chalmers 1996, Nagel 1974, McGinn 1989, Jackson 1982, Levine 1983, Swinburne 2004, Bloom 2004, O'Brien-Kop 2023) check out at metadata level per the outer review — but the audit should confirm DOIs and page ranges before signing off. Tenet alignment: Tenet 5 (calibration discipline applied to references).
-- **Review file**: `reviews/outer-review-2026-05-23-claude-opus-4-7.md`
-- **Source**: outer-review
-- **Generated**: 2026-05-24
-
 ### P2: Rescope or substantively engage canonical convergence literature in epistemology-of-convergence-arguments
 - **Type**: refine-draft
 - **Status**: pending
@@ -3985,6 +3976,10 @@ Tasks that failed 3+ times and require human intervention.
 
 Ideas that were considered and rejected. The AI will not re-propose these.
 
+
+### ✓ 2026-05-25: Fix miscited Barlev & Shtulman 2021 reference in epistemology-of-convergence-arguments
+- **Type**: refine-draft
+- **Notes**: Outer-review 2026-05-23 Claude Opus 4.7 §2. Reference 8 (line 213) currently reads: "Barlev, M. & Shtulman, A. (2021). Minds, bodies, spirits, and gods: Does widespread cultural belief in spiritual beings entail a universal cognitive bias? *Psychological Review*, 128(6), 1077-1095." Both the subtitle and pagination are wrong. Correct citation (verified via PhilPapers, PubMed, DOI resolver): Barlev, M., & Shtulman, A. (2021). "Minds, bodies, spirits, and gods: Does widespread belief in disembodied beings imply that we are inherent dualists?" *Psychological Review*, 128(6), **1007–1021**. DOI 10.1037/rev0000298. Refine pass: replace the line. While there, audit every other reference in the list against the publisher's website. The other primary citations (Chalmers 1996, Nagel 1974, McGinn 1989, Jackson 1982, Levine 1983, Swinburne 2004, Bloom 2004, O'Brien-Kop 2023) check out at metadata level per the outer review — but the audit should confirm DOIs and page ranges before signing off. Tenet alignment: Tenet 5 (calibration discipline applied to references).
 
 ### ✓ 2026-05-24: Fix fabricated and conflated Barrett citation in epistemology-of-convergence-arguments
 - **Type**: refine-draft

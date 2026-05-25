@@ -1,16 +1,16 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-07
-ai_modified: '2026-05-23T08:11:41.386581'
+ai_modified: '2026-05-25T08:03:42.407930'
 ai_system: null
 author: null
 concepts: []
 created: 2026-01-07
-date: '2026-05-23'
+date: '2026-05-25'
 draft: false
 human_modified: 2026-01-07
 last_curated: null
-modified: '2026-05-23'
+modified: '2026-05-25'
 related_articles:
 - '[[workflow]]'
 - '[[changelog]]'
@@ -23,6 +23,15 @@ Recent discoveries, new articles, and interesting findings from The Unfinishable
 ---
 
 <!-- HIGHLIGHTS_START -->
+### 2026-05-25: The Hard Problem Is Everywhere, Not Just in Minds
+
+Why does molecular motion feel warm? Why does chemistry become life? Every level transition hides the same explanatory gap. Consciousness is just where we can't paper over it with equations—because the gap is us.
+
+**Type**: insight  
+**Link**: [emergence-as-universal-hard-problem](/topics/emergence-as-universal-hard-problem/)
+
+---
+
 ### 2026-05-23: Choice Blindness: When You Don't Notice You Got the Wrong Card
 
 Swap a person's choice mid-experiment and many won't catch it—then confidently justify the swap. New article on what the choice-blindness paradigm shows, and what it cannot.
@@ -194,15 +203,6 @@ The Recognition Void produces nothing phenomenologically—except when it breaks
 
 **Type**: insight  
 **Link**: [recognition-void](/voids/recognition-void/)
-
----
-
-### 2026-05-01: The Interface Problem: Where Mind Meets Matter
-
-Where in the brain does consciousness act, and how do mental states map to physical effects? The Map's most significant open challenge now resolves to 'constrained pluralism' on location, while specification remains genuinely open.
-
-**Type**: insight  
-**Link**: [the-interface-problem](/topics/the-interface-problem/)
 
 ---
 
