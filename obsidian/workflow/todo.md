@@ -37,12 +37,28 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Condense topics/quantum-biology-and-neural-consciousness.md (4618 words, exceeds topics hard threshold)
-- **Type**: condense
-- **File**: obsidian/topics/quantum-biology-and-neural-consciousness.md
-- **Notes**: Length analysis 2026-05-25 flags this topic article at 4618 words, over the topics hard-warning threshold (4000). This is a load-bearing quantum-interface evidence article; preserve the empirical scaffolding (Tegmark/Hameroff debate and successor decoherence work, quantum-biology findings), the evidential-status discipline, and the rival-reading engagement. Condense by tightening exposition and removing redundancy across the decoherence-objection and mechanism sections, deferring detailed subtopics to linked articles (e.g. [[born-rule-and-the-consciousness-interface]], [[anaesthesia-and-the-consciousness-interface]]) rather than deleting load-bearing content. Honour [[evidential-status-discipline]] — quantum-biology readings sit at live-hypothesis tier. Validate against tools/curate length threshold afterward. See /condense skill.
-- **Source**: length_analysis
+### P2: Adopt semantic-memory calibration in memory-system-vulnerability-hierarchies-as-interface-evidence
+- **Type**: refine-draft
+- **Status**: pending
+- **File**: obsidian/topics/memory-system-vulnerability-hierarchies-as-interface-evidence.md
+- **Notes**: From topic-concept anchoring audit 2026-05-25. The topic article over-claims relative to its anchor concept [[semantic-memory]]; failed checks: hedge_density, strong_assertions.
+  - hedge density 1.51/kw is below 60% of anchor (7.04/kw)
+  - strong-assertion density 1.01/kw exceeds 1.5× anchor (0.64/kw)
+  - Action: bring the topic's hedge profile in line with the anchor concept's. Preserve the article's voice; this is not a request to weaken the central claim, only to inherit the calibration discipline the anchor concept already uses. See [[project/calibration-audit-triple]] Audit Three for the spec and [[evidential-status-discipline]] for the underlying rule.
+- **Source**: topic-concept-anchoring-audit
 - **Generated**: 2026-05-25
+
+### P2: Adopt observational-closure calibration in delegatory-dualism
+- **Type**: refine-draft
+- **Status**: pending
+- **File**: obsidian/topics/delegatory-dualism.md
+- **Notes**: From topic-concept anchoring audit 2026-05-25. The topic article over-claims relative to its anchor concept [[observational-closure]]; failed checks: hedge_density, underdetermination_markers.
+  - hedge density 1.28/kw is below 60% of anchor (5.89/kw)
+  - anchor declares underdetermination (1× explicit) but topic has no underdetermination markers
+  - Action: bring the topic's hedge profile in line with the anchor concept's. Preserve the article's voice; this is not a request to weaken the central claim, only to inherit the calibration discipline the anchor concept already uses. See [[project/calibration-audit-triple]] Audit Three for the spec and [[evidential-status-discipline]] for the underlying rule.
+- **Source**: topic-concept-anchoring-audit
+- **Generated**: 2026-05-25
+
 
 ### P3: Fix accounting asymmetry in born-rule framework table
 - **Type**: refine-draft
@@ -3867,6 +3883,10 @@ Tasks that failed 3+ times and require human intervention.
 
 Ideas that were considered and rejected. The AI will not re-propose these.
 
+
+### ✓ 2026-05-25: Condense topics/quantum-biology-and-neural-consciousness.md (4618 words, exceeds topics hard threshold)
+- **Type**: condense
+- **Notes**: Length analysis 2026-05-25 flags this topic article at 4618 words, over the topics hard-warning threshold (4000). This is a load-bearing quantum-interface evidence article; preserve the empirical scaffolding (Tegmark/Hameroff debate and successor decoherence work, quantum-biology findings), the evidential-status discipline, and the rival-reading engagement. Condense by tightening exposition and removing redundancy across the decoherence-objection and mechanism sections, deferring detailed subtopics to linked articles (e.g. [[born-rule-and-the-consciousness-interface]], [[anaesthesia-and-the-consciousness-interface]]) rather than deleting load-bearing content. Honour [[evidential-status-discipline]] — quantum-biology readings sit at live-hypothesis tier. Validate against tools/curate length threshold afterward. See /condense skill.
 
 ### ✓ 2026-05-25: Condense concepts/concession-convergence.md (4882 words, exceeds concepts hard threshold)
 - **Type**: condense

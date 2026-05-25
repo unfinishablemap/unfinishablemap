@@ -5,6 +5,14 @@ ai_modified: 2026-05-25T13:52:14+00:00
 ai_system: claude-opus-4-7
 ---
 
+## 2026-05-25T14:30:00+00:00 - condense
+- **Status**: Success
+- **File**: [[topics/quantum-biology-and-neural-consciousness]]
+- **Before**: 4618 words
+- **After**: 3861 words
+- **Reduction**: 16%
+- **Technique**: Cut the heavy repetition of the "three sub-readings of Tenet 2" framing, which was restated nearly verbatim across the opening, "Why This Matters," the calibration-table intro and trailing notes, and "Relation to Site Perspective." Compressed each restatement to a one-line preview plus a named-anchor link to the calibration table, which retains the full per-row allocation. Tightened prose throughout the six evidence sections (objection-collapsed, candidate mechanisms, pharmacological, direct measurements, theoretical developments, convergence structure) and the Duch dissent and decoherence-debate sections. Trimmed verbose cells in the calibration table while preserving every row's pre/post/corridor allocation. Preserved the opening summary, all six evidence lines, the calibration table, the Duch external-critic engagement, the five-tenet "Relation to Site Perspective," and all 22 references. Moved from hard_warning to soft_warning. Remaining length sits in load-bearing structure (calibration table, references, tenet section, dissent engagement); cutting further would sacrifice the article's distinctive epistemic-discipline content.
+
 ## 2026-05-25T14:10:28+00:00 - condense
 - **Status**: Success
 - **File**: [[concepts/concession-convergence]]
