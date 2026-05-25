@@ -1,9 +1,22 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-25T13:34:50+00:00
+ai_modified: 2026-05-25T13:40:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-05-25T13:40:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [[topics/hypnagogic-phenomenology-and-interface-modulation]]
+- **Word count**: 2607 → 2607 (no change; within target, 87% of 3000 soft threshold)
+- **Critical issues addressed**: 0 (none found — third review, article converged)
+- **Medium issues addressed**: 0 (none found)
+- **Enhancements made**: 0 (no content changes; only `last_deep_review`/`ai_modified` timestamps updated)
+- **Calibration slippage check (§2)**: passed — no possibility/probability slippage. The "For Filter Theory" passage explicitly declines tenet-as-evidence-elevation (filter vs. disinhibition framed as phenomenologically equivalent; Map's preference grounded in broader coherence, not evidence level). A tenet-accepting reviewer would not flag it.
+- **Reasoning-mode (editor-internal)**: disinhibition/production-model engagement — Mode Three (framework-boundary marking), honest; no Mode One/Two argument was available (accounts are phenomenologically equivalent by the article's own admission) so no upgrade warranted. No label leakage — verified no forbidden editor-vocabulary in prose.
+- **Replication check** (April review's follow-up trigger): web search found NO independent replication of Lacaux 2021 or Dormio 2023; existing single-study calibration language remains accurate and was preserved. Subsequent Dormio work (2024 Frontiers, 2025 self-efficacy) is same-lab extension, not replication.
+- **Links**: all 21 wikilink targets verified to resolve.
+- **Output**: [[reviews/deep-review-2026-05-25-hypnagogic-phenomenology-and-interface-modulation]]
 
 ## 2026-05-25T13:34:50+00:00 - refine-draft
 - **Status**: Success
