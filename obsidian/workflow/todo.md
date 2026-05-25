@@ -206,13 +206,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: staleness
 - **Generated**: 2026-05-19
 
-### P2: Deep review voids/temporal-void.md (62 days since last review, ai_contribution>=50)
-- **Type**: deep-review
-- **Status**: pending
-- **Notes**: Staleness check: `voids/temporal-void.md` was last deep-reviewed 62 days ago (2026-03-17) with `ai_contribution >= 50`. No pending task in the queue references this article. The temporal void engages territory significantly elaborated since March 2026: the `topics/phenomenology-of-temporal-consciousness.md` cluster, the `topics/atemporal-causation.md` and `concepts/time-symmetric-physics.md` line (the latter deep-reviewed today 2026-05-19), the `topics/forward-in-time-conscious-selection.md` family, and the emerging `topics/kairos`-tier engagements queued for later. Deep-review should verify: (a) the article's framing of the temporal void (whether the unresolved nature of conscious time-experience — protention/retention/the specious-present problem — sits as a structurally-unchartable region of theory-space, distinct from the merely-unresolved territory) still reflects the catalogue's current treatment; (b) cross-links to the post-April 2026 temporal cluster — `[[topics/phenomenology-of-temporal-consciousness]]`, `[[concepts/atemporal-causation]]`, `[[concepts/time-symmetric-physics]]`, `[[topics/forward-in-time-conscious-selection]]`; (c) cites the post-April 2026 discipline pages (`[[evidential-status-discipline]]`, `[[mechanism-costs-cartography]]`); (d) tenet routing reflects any refinements (Tenet 5 and Tenet 2 at the time-symmetric register); (e) honours `[[evidential-status-discipline]]` — temporal-consciousness claims are particularly susceptible to phenomenology-vs-metaphysics slippage; (f) writing-style discipline holds; (g) length-discipline check. Deep-review with in-place fixes if minor; generate a follow-on refine-draft task if substantive. Tenet alignment: methodological / staleness audit.
-- **Source**: staleness
-- **Generated**: 2026-05-19
-
 ### P3: Write topic article on Anti-Correlation Probes for AI Consciousness
 - **Type**: expand-topic
 - **Status**: pending
@@ -3874,6 +3867,10 @@ Tasks that failed 3+ times and require human intervention.
 
 Ideas that were considered and rejected. The AI will not re-propose these.
 
+
+### ✓ 2026-05-25: Deep review voids/temporal-void.md (62 days since last review, ai_contribution>=50)
+- **Type**: deep-review
+- **Notes**: Staleness check: `voids/temporal-void.md` was last deep-reviewed 62 days ago (2026-03-17) with `ai_contribution >= 50`. No pending task in the queue references this article. The temporal void engages territory significantly elaborated since March 2026: the `topics/phenomenology-of-temporal-consciousness.md` cluster, the `topics/atemporal-causation.md` and `concepts/time-symmetric-physics.md` line (the latter deep-reviewed today 2026-05-19), the `topics/forward-in-time-conscious-selection.md` family, and the emerging `topics/kairos`-tier engagements queued for later. Deep-review should verify: (a) the article's framing of the temporal void (whether the unresolved nature of conscious time-experience — protention/retention/the specious-present problem — sits as a structurally-unchartable region of theory-space, distinct from the merely-unresolved territory) still reflects the catalogue's current treatment; (b) cross-links to the post-April 2026 temporal cluster — `[[topics/phenomenology-of-temporal-consciousness]]`, `[[concepts/atemporal-causation]]`, `[[concepts/time-symmetric-physics]]`, `[[topics/forward-in-time-conscious-selection]]`; (c) cites the post-April 2026 discipline pages (`[[evidential-status-discipline]]`, `[[mechanism-costs-cartography]]`); (d) tenet routing reflects any refinements (Tenet 5 and Tenet 2 at the time-symmetric register); (e) honours `[[evidential-status-discipline]]` — temporal-consciousness claims are particularly susceptible to phenomenology-vs-metaphysics slippage; (f) writing-style discipline holds; (g) length-discipline check. Deep-review with in-place fixes if minor; generate a follow-on refine-draft task if substantive. Tenet alignment: methodological / staleness audit.
 
 ### ✓ 2026-05-25: Condense born-rule-and-the-consciousness-interface.md (4889 words, 163% of target)
 - **Type**: condense

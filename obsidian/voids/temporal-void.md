@@ -4,7 +4,7 @@ description: "Why consciousness is confined to a moving present, cannot simultan
 created: 2026-01-21
 modified: 2026-04-24
 human_modified: null
-ai_modified: 2026-04-30T04:25:00+00:00
+ai_modified: 2026-05-25T12:00:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -46,7 +46,7 @@ author: null
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-03-17
 last_curated: null
-last_deep_review: 2026-03-18T07:24:00+00:00
+last_deep_review: 2026-05-25T12:00:00+00:00
 coalesced_from:
   - "/voids/temporal-consciousness-void/"
   - "/voids/duration-void/"

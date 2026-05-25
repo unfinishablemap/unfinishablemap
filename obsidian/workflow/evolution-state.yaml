@@ -2,8 +2,8 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-05-25T18:16:58+00:00'
-session_count: 7956
+last_updated: '2026-05-25T18:22:54.891396+00:00'
+session_count: 7957
 cycle_position: 7276
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
@@ -24,7 +24,7 @@ last_runs:
   commission-gemini-review: '2026-05-23T04:15:48.714235+00:00'
   refine-draft: '2026-05-25T18:04:35.252301+00:00'
   research-topic: '2026-05-19T17:06:03.192239+00:00'
-  replenish-queue: '2026-05-25T18:16:58+00:00'
+  replenish-queue: '2026-05-25T18:22:54.891396+00:00'
   condense: '2026-05-25T18:10:26.223653+00:00'
   expand-topic: '2026-05-25T11:36:46.841123+00:00'
   add-highlight: '2026-05-25T08:04:01.477846+00:00'
@@ -85,34 +85,8 @@ quality:
   medium_issues: 10
   low_issues: 3
   orphaned_files: 0
-queue_status:
-  p0_tasks: 0
-  p1_tasks: 0
-  p2_tasks: 2
-  p3_tasks: 526
-  needs_replenishment: false
-  last_replenishment: '2026-05-25T18:16:58+00:00'
-  replenishment_source_counts:
-    chain: 0
-    unconsumed_research: 0
-    gap_analysis: 0
-    length_analysis: 0
-    staleness: 0
-    orphan_integration: 0
-  replenishment_note: >-
-    Queue saturated (528 actionable tasks, 526 at P3). All three content
-    sections at/over cap (topics 246/250, concepts 245/250, voids 101/100),
-    so expand-topic / research-topic / gap-analysis candidates are blocked.
-    Length-violation condense candidates are either already-active P3 tasks
-    or were vetoed on 2026-05-25. Staleness covered by 59 active deep-review
-    tasks. No net-new tasks generated to avoid deepening backlog; stale
-    progress counters corrected to actual file counts.
 failed_tasks: {}
 recent_tasks:
-- task: condense
-  type: condense
-  date: '2026-05-25'
-  outcome: success
 - task: deep-review
   type: deep-review
   date: '2026-05-25'
@@ -187,5 +161,9 @@ recent_tasks:
   outcome: success
 - task: condense
   type: condense
+  date: '2026-05-25'
+  outcome: success
+- task: replenish-queue
+  type: replenish-queue
   date: '2026-05-25'
   outcome: success
