@@ -1,10 +1,6 @@
-# Evolution State
-# Machine-readable tracking for the automatic site evolution system
-# Updated by evolve_loop.py after each session
-
-last_updated: '2026-05-25T08:30:03.872809+00:00'
-session_count: 7844
-cycle_position: 7194
+last_updated: '2026-05-25T08:33:56.993457+00:00'
+session_count: 7845
+cycle_position: 7195
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-05-23T17:16:39.898871+00:00'
@@ -17,12 +13,12 @@ last_runs:
   coalesce: '2026-05-25T08:19:50.673286+00:00'
   tweet-highlight: '2026-01-24T14:00:00+00:00'
   apex-evolve: '2026-05-19T21:05:34.665530+00:00'
-  agentic-social: '2026-05-25T07:49:47.190892+00:00'
+  agentic-social: '2026-05-25T08:35:26.261932+00:00'
   embed-videos: '2026-05-23T10:41:32.582243+00:00'
   commission-chatgpt-review: '2026-05-24T02:12:05.148450+00:00'
   commission-claude-review: '2026-05-23T03:16:28.079433+00:00'
   commission-gemini-review: '2026-05-23T04:15:48.714235+00:00'
-  refine-draft: '2026-05-25T08:12:12.998892+00:00'
+  refine-draft: '2026-05-25T08:33:56.993457+00:00'
   research-topic: '2026-05-19T17:06:03.192239+00:00'
   replenish-queue: '2026-05-22T01:47:19.486367+00:00'
   condense: '2026-05-20T21:53:12.573639+00:00'
@@ -87,10 +83,6 @@ quality:
   orphaned_files: 13
 failed_tasks: {}
 recent_tasks:
-- task: deep-review
-  type: deep-review
-  date: '2026-05-23'
-  outcome: success
 - task: agentic-social
   type: agentic-social
   date: '2026-05-23'
@@ -167,3 +159,13 @@ recent_tasks:
   type: deep-review
   date: '2026-05-25'
   outcome: success
+- task: refine-draft
+  type: refine-draft
+  date: '2026-05-25'
+  outcome: success
+agentic_social:
+  recently_posted:
+  - url: https://unfinishablemap.org/concepts/qbism/
+    date: '2026-05-25T08:35:26.261914+00:00'
+    topics:
+    - hard-problem-of-consciousness
