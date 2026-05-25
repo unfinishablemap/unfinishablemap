@@ -1,9 +1,17 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-25T21:31:00+00:00
+ai_modified: 2026-05-25T21:45:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-05-25T21:45:00+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[topics/lucid-dreaming-and-dualist-rendering]]
+- **Original score**: n/a (topic-concept anchoring audit 2026-05-25; failed hedge_density + underdetermination_markers against anchor [[mind-brain-separation]])
+- **Changes**: Brought the article's calibration into line with its anchor concept per Audit Three of [[project/calibration-audit-triple]] and the constrain-vs-establish rule of [[project/evidential-status-discipline]]. Hedge density 1.69/kw → 5.83/kw (anchor mind-brain-separation 7.48/kw; ≥60% threshold = 4.49/kw cleared with margin; all three flagged anchors now clear, audit returns zero flags). Strong-assertion verbs 3 → 1 (only the neutral "what lucid dreaming demonstrates" remains; softened the contested "demonstrates that consciousness can reactivate its metacognitive capacity" → "suggests", and the blindsight/dream double-dissociation "demonstrates the converse" → "appears to show... seems to show"). Added one explicit underdetermination marker ("neither reading is forced by the dream phenomenology alone, which is compatible with both the production and the filter framings") to match the anchor's single explicit underdetermination declaration. Reframed the lead's "rendering dilemma whose resolution favours dualism" → a dilemma neutral between the readings whose dualist horn carries less explanatory debt (not forced by the evidence). Installed the constrain-vs-establish move at three load-bearing points: the content-constraint loosening "constrains the simplest 'perception just mirrors physics' picture without by itself establishing the filter reading"; the degradation asymmetry recast as a contrast of explanatory economy the production theorist can match via metabolic-cost/confabulation considerations, "not a result the evidence settles in the filter model's favour"; the double-dissociation now notes a production theorist may read it as two regimes of one generative system. Central claim and argument structure preserved throughout — the article still endorses the dualist rendering reading; the edit makes the dialectical situation honest rather than weakening the conclusion.
+- **Engagement classification**: engagement with the physicalist/production theorist — Mode Three (framework-boundary marking): the edits mark the production-vs-filter disagreement as evidentially underdetermined by the dream phenomenology and concede the rival's accommodations are structurally available, claiming comparative explanatory economy rather than in-framework refutation; consistent with the evidential-status discipline's compatibility-vs-support boundary.
+- **Published**: yes
 
 ## 2026-05-25T21:31:00+00:00 - apex-evolve
 - **Status**: Complete
