@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Condense concepts/concession-convergence.md (4882 words, exceeds concepts hard threshold)
-- **Type**: condense
-- **File**: obsidian/concepts/concession-convergence.md
-- **Notes**: Length analysis 2026-05-25 flags this concept page at 4882 words, over the concepts hard-warning threshold (3500) and approaching the critical threshold (5000) — nearly 2x the 2500-word concept target. concession-convergence is a methodology-discipline page (how opponent concessions converge on a shared structure); preserve the discipline's definition, the worked exhibits, and the relationship to [[common-cause-null]] and the convergence-discipline pages. Condense by tightening exposition and removing redundancy across the worked-exhibit sections, deferring extended case treatments to the linked articles rather than deleting the discipline's load-bearing content. Note the existing P3 "Deep review concession-convergence.md" and the concession/common-cause cross-link task — fold overlapping edits into this pass. Validate against tools/curate length threshold afterward. See /condense skill.
-- **Source**: length_analysis
-- **Generated**: 2026-05-25
-
 ### P2: Condense topics/quantum-biology-and-neural-consciousness.md (4618 words, exceeds topics hard threshold)
 - **Type**: condense
 - **File**: obsidian/topics/quantum-biology-and-neural-consciousness.md
@@ -3874,6 +3867,10 @@ Tasks that failed 3+ times and require human intervention.
 
 Ideas that were considered and rejected. The AI will not re-propose these.
 
+
+### ✓ 2026-05-25: Condense concepts/concession-convergence.md (4882 words, exceeds concepts hard threshold)
+- **Type**: condense
+- **Notes**: Length analysis 2026-05-25 flags this concept page at 4882 words, over the concepts hard-warning threshold (3500) and approaching the critical threshold (5000) — nearly 2x the 2500-word concept target. concession-convergence is a methodology-discipline page (how opponent concessions converge on a shared structure); preserve the discipline's definition, the worked exhibits, and the relationship to [[common-cause-null]] and the convergence-discipline pages. Condense by tightening exposition and removing redundancy across the worked-exhibit sections, deferring extended case treatments to the linked articles rather than deleting the discipline's load-bearing content. Note the existing P3 "Deep review concession-convergence.md" and the concession/common-cause cross-link task — fold overlapping edits into this pass. Validate against tools/curate length threshold afterward. See /condense skill.
 
 ### ✓ 2026-05-25: Condense apex/taxonomy-of-voids.md (6257 words, exceeds apex hard threshold)
 - **Type**: condense

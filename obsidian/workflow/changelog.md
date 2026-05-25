@@ -5,6 +5,14 @@ ai_modified: 2026-05-25T13:52:14+00:00
 ai_system: claude-opus-4-7
 ---
 
+## 2026-05-25T14:10:28+00:00 - condense
+- **Status**: Success
+- **File**: [[concepts/concession-convergence]]
+- **Before**: 4882 words
+- **After**: 3163 words
+- **Reduction**: 35%
+- **Technique**: Cut redundancy concentrated in the "Independence Scoring Against the Common-Cause Null" section (~half the article). Collapsed its six subsections to five tighter ones: merged the three-paragraph "Shared Upstream Architecture" into one paragraph, condensed each of the three discriminating tests, tightened the four-criteria scores, and folded the long standalone "Position in the Methodology Programme" subsection (which re-derived the surplus-void retraction and introspection-architecture partial-retention scoring already cited and owned by [[apex/taxonomy-of-voids]]) into a two-sentence note. Merged "What Changes If the Discharging Evidence Lands" into the tier subsection. Tightened all four case studies and the five convergence features for prose density. Preserved the opening summary, all four case studies, the five convergence features (including the "not normal refinement" objection), the full audit content (three layers, three tests, four-criteria scores, asymmetric tier assignments, the open cross-tradition programme), both "Relation to" sections, and all 19 references. Moved from hard_warning to soft_warning; remaining length is dense non-redundant argument.
+
 ## 2026-05-25T14:05:00+00:00 - condense
 - **Status**: Success
 - **File**: [[apex/taxonomy-of-voids]]
