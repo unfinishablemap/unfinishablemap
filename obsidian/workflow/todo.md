@@ -37,14 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Resolve scoring-vs-audit tension and patient-population load-bearing assumption in introspection-architecture exhibit
-- **Type**: refine-draft
-- **Status**: pending
-- **File**: obsidian/topics/introspection-architecture-independence-scoring.md
-- **Notes**: Pessimistic review 2026-05-25b, Issues 1 and 3 (both High). (1) *Scoring rubric gap*: the article assigns ordinal grades ("strong / moderate / low-moderate / partial") throughout with no rubric mapping evidence states to grades, making the central discrimination claim non-reproducible and effectively unfalsifiable. Fix by EITHER adding an explicit (even crude) rubric — e.g. what count/kind of despite-commitments anchors in genuinely independent channels maps to each grade — OR (preferred, lower-risk) dropping the scoring/ordinal language in favour of a *structured qualitative audit* framing whose output is "where the evidence is strong vs weak," not a graded score. (2) *Patient-population channel over-load*: the whole verdict is rested on the patient-population channel as the one that *discharges* the strongest common-cause null, yet the article twice flags as undischarged the assumption that lesion-induced divergence is in the introspective architecture rather than its inputs (a common-cause theorist says the same confabulatory narration machine runs in patients and neurotypicals; lesions change its inputs, not its kind). Resolve: either argue from the lesion literature that the divergence is architectural, or concede the channel supplies methodological diversity rather than clean discharge and re-ground the "partial but real" net verdict. Tenet alignment: serves the evidential-status programme (Tenet 1/3 calibration). See reviews/pessimistic-2026-05-25b.md.
-- **Source**: pessimistic-review-2026-05-25b
-- **Generated**: 2026-05-25
-
 ### P3: Register predicted-by-rival asymmetry in introspection-architecture exhibit
 - **Type**: refine-draft
 - **Status**: pending
@@ -3883,6 +3875,10 @@ Tasks that failed 3+ times and require human intervention.
 
 Ideas that were considered and rejected. The AI will not re-propose these.
 
+
+### ✓ 2026-05-25: Resolve scoring-vs-audit tension and patient-population load-bearing assumption in introspection-architecture exhibit
+- **Type**: refine-draft
+- **Notes**: Pessimistic review 2026-05-25b, Issues 1 and 3 (both High). (1) *Scoring rubric gap*: the article assigns ordinal grades ("strong / moderate / low-moderate / partial") throughout with no rubric mapping evidence states to grades, making the central discrimination claim non-reproducible and effectively unfalsifiable. Fix by EITHER adding an explicit (even crude) rubric — e.g. what count/kind of despite-commitments anchors in genuinely independent channels maps to each grade — OR (preferred, lower-risk) dropping the scoring/ordinal language in favour of a *structured qualitative audit* framing whose output is "where the evidence is strong vs weak," not a graded score. (2) *Patient-population channel over-load*: the whole verdict is rested on the patient-population channel as the one that *discharges* the strongest common-cause null, yet the article twice flags as undischarged the assumption that lesion-induced divergence is in the introspective architecture rather than its inputs (a common-cause theorist says the same confabulatory narration machine runs in patients and neurotypicals; lesions change its inputs, not its kind). Resolve: either argue from the lesion literature that the divergence is architectural, or concede the channel supplies methodological diversity rather than clean discharge and re-ground the "partial but real" net verdict. Tenet alignment: serves the evidential-status programme (Tenet 1/3 calibration). See reviews/pessimistic-2026-05-25b.md.
 
 ### ✓ 2026-05-25: Deep review voids/temporal-void.md (62 days since last review, ai_contribution>=50)
 - **Type**: deep-review

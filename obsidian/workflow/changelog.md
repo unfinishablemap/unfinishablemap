@@ -1,9 +1,20 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-25T17:57:47+00:00
+ai_modified: 2026-05-25T18:52:09+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-05-25T18:52:09+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[topics/introspection-architecture-independence-scoring]]
+- **Addressed**: pessimistic-review 2026-05-25b Issues 1 and 3 (both High)
+- **Word count**: 4094 → 4095 (canonical, net-neutral; peaked at 4559 mid-pass, trimmed back so the article is not pushed further over the 4000 topics hard threshold)
+- **Issue 1 (rubric gap)**: Took the preferred lower-risk fix — dropped the ordinal-scoring pretension in favour of a structured-qualitative-audit framing. Renamed three "Scoring" section headers to "Auditing"; added a framing paragraph to the four-criteria section stating there is no rubric and the descriptors mark where evidence is strong vs thin, not a reproducible score; reframed the surplus-void comparison from "scores higher" to "looks stronger" with the N=2/no-rubric/single-grader caveat made explicit; softened overstated grade labels ("architectural-distance triangulation" → "candidate architectural-distance parallel"; per-criterion bare grade-words normalised to qualitative descriptors). Description frontmatter now says "structured qualitative audit, not a graded score." Title slug left unchanged (canonical URL + apex programme name).
+- **Issue 3 (patient-population over-load)**: Took the concede-and-re-ground option. The Population-Type-Profile paragraph now states the discharge works only if the lesion divergence is architectural rather than input-level, gives the common-cause theorist's inputs-not-kind reply, and concedes the lesion literature does not settle it — so the channel supplies unusually-divergent methodological diversity, not clean null-discharge. Re-grounded the net verdict in Despite-Commitments-split, Cross-Species, Relation-to-Site-Perspective, and Honest-Limitations so "partial but real" now rests on convergent breadth across imperfect channels, not on any one clean discharge. Removed the stale "patient-population channel remains/is load-bearing" claims.
+- **Length method**: offset ~250w of necessary new argumentation by tightening dense prose (cross-tradition tradition entries, cross-architecture pivot, empirical-anchor descriptions, redundant per-channel four-criteria restatements, cross-cutting-discount duplication). No argument deleted; the original filter/exhibit conclusion preserved.
+- **Not in scope**: Issues 2 (N=2 leaned-on) and 4 (predicted-by-rival asymmetry) belong to the separate P3 task; the Issue-1 comparison fix incidentally covers most of Issue 2's "scores higher" language.
+- **Published**: yes
 
 ## 2026-05-25T19:30:00+00:00 - pessimistic-review
 - **Status**: Success
