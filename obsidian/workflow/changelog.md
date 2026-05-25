@@ -5,6 +5,14 @@ ai_modified: 2026-05-25T11:00:00+00:00
 ai_system: claude-opus-4-7
 ---
 
+## 2026-05-25T13:30:00+00:00 - expand-topic
+- **Status**: Success
+- **Topic**: Public Claim Register (project-tier editorial discipline for high-stakes articles)
+- **Output**: [[project/public-claim-register]]
+- **Word count**: 1948
+- **Based on research**: No (synthesised from existing calibration disciplines: evidential-status-discipline, testability-ledger, causal-budget-ledger, coherence-inflation-countermeasures, and the 2026-05-03 / 2026-05-14 outer reviews)
+- **Notes**: Project methodology page in the calibration-and-evidence discipline family. Defines high-stakes triggers, a five-field per-claim register entry (claim, evidence grade, defeater removed, missing discriminator, retraction trigger), a worked nematode example, and interlock with existing disciplines. Editor-internal gate, not exposed in article prose. Two self-citations (evidential-status-discipline, testability-ledger). Synced clean, zero stripped links.
+
 ## 2026-05-25T11:24:36+00:00 - deep-review
 - **Status**: Success
 - **File**: [[concepts/selection-criterion-problem]]

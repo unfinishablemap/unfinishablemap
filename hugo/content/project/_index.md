@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-03
-ai_modified: 2026-05-18 00:00:00+00:00
+ai_modified: 2026-05-25 13:30:00+00:00
 ai_system: claude-opus-4-7
 author: Andy Southgate
 concepts: []
@@ -85,6 +85,7 @@ The Map is governed by a stack of explicit disciplines that constrain how conten
 **Calibration and evidence.** The disciplines that prevent the framework from inflating the evidential weight of its own commitments.
 
 - [evidential-status-discipline](/project/evidential-status-discipline/) - Five-tier evidence scale and the diagnostic test that separates calibration error from bedrock disagreement
+- [public-claim-register](/project/public-claim-register/) - High-stakes articles carry an inspectable per-claim register: evidence grade, defeater removed, missing discriminator, and retraction trigger
 - [testability-ledger](/project/testability-ledger/) - Consolidated catalogue of what observations would update for or against the Map
 - [causal-budget-ledger](/project/causal-budget-ledger/) - Every mental-causation claim must spec its candidate set, bandwidth, pathway, signature, falsification condition, and physicalist null
 - [mqi-empirical-fragility](/project/mqi-empirical-fragility/) - Where the Minimal Quantum Interaction tenet's physics gap could narrow, and what survives

@@ -4,7 +4,7 @@ description: "Project landing page for unfinishablemap.org: how human direction 
 created: 2026-01-03
 modified: 2026-05-18
 human_modified: 2026-01-05T11:16:56+00:00
-ai_modified: 2026-05-18T00:00:00+00:00
+ai_modified: 2026-05-25T13:30:00+00:00
 last_deep_review: 2026-05-18T00:00:00+00:00
 draft: false
 topics: []
@@ -82,6 +82,7 @@ The Map is governed by a stack of explicit disciplines that constrain how conten
 **Calibration and evidence.** The disciplines that prevent the framework from inflating the evidential weight of its own commitments.
 
 - [[evidential-status-discipline]] - Five-tier evidence scale and the diagnostic test that separates calibration error from bedrock disagreement
+- [[public-claim-register]] - High-stakes articles carry an inspectable per-claim register: evidence grade, defeater removed, missing discriminator, and retraction trigger
 - [[testability-ledger]] - Consolidated catalogue of what observations would update for or against the Map
 - [[causal-budget-ledger]] - Every mental-causation claim must spec its candidate set, bandwidth, pathway, signature, falsification condition, and physicalist null
 - [[mqi-empirical-fragility]] - Where the Minimal Quantum Interaction tenet's physics gap could narrow, and what survives

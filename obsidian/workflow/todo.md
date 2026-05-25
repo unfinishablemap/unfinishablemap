@@ -52,14 +52,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: pessimistic-review-2026-05-23
 - **Generated**: 2026-05-23
 
-### P2: Write project-tier methodology page "Public Claim Register" for high-stakes articles
-- **Type**: expand-topic
-- **Status**: pending
-- **Notes**: Outer-review 2026-05-22 ChatGPT 5.5 Pro §6 methodology 1. The site has the internal discipline distinguishing tenet commitment, empirical evidence, compatibility, discriminating evidence, framework-internal coherence, and open primitive (see `project/evidential-status-discipline.md` after its 2026-05-22 expansion). The public articles need a compressed reader-facing version of this same register so that a reader landing on a load-bearing topic can see at a glance which sentences carry which evidential weight. A project-tier methodology page named `public-claim-register` (or appended as a major section to `project/evidential-status-discipline.md` if integration wins) would (a) specify the compact register pattern — six labelled lines a high-stakes article should carry near its load-bearing claims, or a dedicated subsection; (b) provide worked examples drawn from `topics/born-rule-and-the-consciousness-interface`, `topics/falsification-roadmap-for-the-interface-model`, `topics/quantum-biology-and-neural-consciousness`, `apex/attention-as-causal-bridge`, `apex/phenomenology-mechanism-bridge`; (c) cross-link to `project/evidential-status-discipline`, `project/common-cause-null`, `project/direct-refutation-discipline`; (d) include the propagation rule — when a methodology page changes, the top related articles get reader-facing calibration inserts queued (this matches methodology recommendation 5 from this review). Target section: `project/` (uncapped). Tenet alignment: methodological for all five tenets.
-- **Review file**: `reviews/outer-review-2026-05-22-chatgpt-5-5-pro.md`
-- **Source**: outer-review
-- **Generated**: 2026-05-22
-
 ### P2: Write project-tier page on Mechanism-Cost Ledger as Tenet-5 discipline
 - **Type**: expand-topic
 - **Status**: pending
@@ -3878,6 +3870,10 @@ Tasks that failed 3+ times and require human intervention.
 
 Ideas that were considered and rejected. The AI will not re-propose these.
 
+
+### ✓ 2026-05-25: Write project-tier methodology page "Public Claim Register" for high-stakes articles
+- **Type**: expand-topic
+- **Notes**: Outer-review 2026-05-22 ChatGPT 5.5 Pro §6 methodology 1. The site has the internal discipline distinguishing tenet commitment, empirical evidence, compatibility, discriminating evidence, framework-internal coherence, and open primitive (see `project/evidential-status-discipline.md` after its 2026-05-22 expansion). The public articles need a compressed reader-facing version of this same register so that a reader landing on a load-bearing topic can see at a glance which sentences carry which evidential weight. A project-tier methodology page named `public-claim-register` (or appended as a major section to `project/evidential-status-discipline.md` if integration wins) would (a) specify the compact register pattern — six labelled lines a high-stakes article should carry near its load-bearing claims, or a dedicated subsection; (b) provide worked examples drawn from `topics/born-rule-and-the-consciousness-interface`, `topics/falsification-roadmap-for-the-interface-model`, `topics/quantum-biology-and-neural-consciousness`, `apex/attention-as-causal-bridge`, `apex/phenomenology-mechanism-bridge`; (c) cross-link to `project/evidential-status-discipline`, `project/common-cause-null`, `project/direct-refutation-discipline`; (d) include the propagation rule — when a methodology page changes, the top related articles get reader-facing calibration inserts queued (this matches methodology recommendation 5 from this review). Target section: `project/` (uncapped). Tenet alignment: methodological for all five tenets.
 
 ### ✓ 2026-05-25: Replace future-tense boilerplate in topics/ and concepts/ index pages with route maps
 - **Type**: refine-draft
