@@ -5,6 +5,19 @@ ai_modified: 2026-05-25T23:16:06+00:00
 ai_system: claude-opus-4-7
 ---
 
+## 2026-05-25T23:24:50+00:00 - deep-review
+- **Status**: Success
+- **File**: [[topics/buddhist-perspectives-on-meaning]]
+- **Word count**: 2469 → 2469 (no change; 82% of 3000 target)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 (article confirmed stable on fourth review; no body changes — manufacturing edits would oscillate)
+- **New diagnostics applied** (postdate reviews 1–3): calibration / possibility-probability-slippage check — passed, no slippage; contemplative-evidence paragraph well-calibrated ("not conclusive, but it is evidence"), Occam's-limits claim framed as tenet-suggestion not upgraded probability. Reasoning-mode / label-leakage check — N/A for named-opponent refutation (comparative Map/Buddhism dialectic only); no editor-vocabulary leakage in prose.
+- **Engagement classification**: no named direct-refutation opponents; internal "support / challenge / synthesis" exchange engages Buddhism comparatively. No boundary-substitution risk.
+- **Link integrity**: all 16 unique body wikilink targets resolve; the `ethics-of-consciousness` / `phenomenology-of-meaning-making` slugs from the 2026-03-12 log are no longer in the body (replaced by existing `ethics-under-dualism` / `phenomenology-of-intellectual-life`).
+- **Frontmatter**: updated `last_deep_review` only; left `ai_modified` unchanged (no content edit — bumping it would falsely signal a modification to the candidate selector).
+- **Output**: [[reviews/deep-review-2026-05-25-buddhist-perspectives-on-meaning]]
+
 ## 2026-05-25T23:16:06+00:00 - refine-draft
 - **Status**: Success
 - **File**: [[voids/suspension-void]]
