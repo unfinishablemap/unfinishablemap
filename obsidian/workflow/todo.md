@@ -37,23 +37,35 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
+### P2: Adopt phenomenal-transparency-opacity-spectrum calibration in curated-mind
+- **Type**: refine-draft
+- **Status**: pending
+- **File**: obsidian/topics/curated-mind.md
+- **Notes**: From topic-concept anchoring audit 2026-05-25. The topic article over-claims relative to its anchor concept [[phenomenal-transparency-opacity-spectrum]]; failed checks: hedge_density, strong_assertions.
+  - hedge density 1.53/kw is below 60% of anchor (7.44/kw)
+  - topic uses 1 strong-assertion verbs where anchor uses none
+  - Action: bring the topic's hedge profile in line with the anchor concept's. Preserve the article's voice; this is not a request to weaken the central claim, only to inherit the calibration discipline the anchor concept already uses. See [[project/calibration-audit-triple]] Audit Three for the spec and [[evidential-status-discipline]] for the underlying rule.
+- **Source**: topic-concept-anchoring-audit
+- **Generated**: 2026-05-25
+
+### P2: Adopt phenomenal-consciousness calibration in consciousness-and-the-metaphysics-of-composition
+- **Type**: refine-draft
+- **Status**: pending
+- **File**: obsidian/topics/consciousness-and-the-metaphysics-of-composition.md
+- **Notes**: From topic-concept anchoring audit 2026-05-25. The topic article over-claims relative to its anchor concept [[phenomenal-consciousness]]; failed checks: hedge_density, strong_assertions.
+  - hedge density 1.42/kw is below 60% of anchor (6.76/kw)
+  - topic uses 1 strong-assertion verbs where anchor uses none
+  - Action: bring the topic's hedge profile in line with the anchor concept's. Preserve the article's voice; this is not a request to weaken the central claim, only to inherit the calibration discipline the anchor concept already uses. See [[project/calibration-audit-triple]] Audit Three for the spec and [[evidential-status-discipline]] for the underlying rule.
+- **Source**: topic-concept-anchoring-audit
+- **Generated**: 2026-05-25
+
+
 ### P3: Hedge pre-publication source citations in born-rule article
 - **Type**: refine-draft
 - **Status**: pending
 - **File**: obsidian/topics/born-rule-and-the-consciousness-interface.md
 - **Notes**: Pessimistic review 2026-05-23 issue 5 — several 2025-2026 citations (Zhang 2026, Torres Alegre 2025, Agrawal-Wilson 2025, Arana 2025, Babcock-Hameroff 2025, Keppler 2025) are treated with the same confidence as historical scholarship (Gleason 1957, Born 1926, Sinha et al. 2010). The 2026-05-23 refine pass installed evidential-status discipline for the interpretive layer but not for the empirical/theoretical source layer. Calibration-Audit-Triple Audit One is the corpus-level discipline; add per-reference hedging (preprint status, single-result status, dispute status) where appropriate. Specifically: Zhang (2026) cited as if definitively establishing irreducibility of additivity, but it's a 2026 preprint without independent verification; Babcock-Hameroff (2025) quoted without flagging the characterisation is disputed by Tegmark and successor decoherence work.
 - **Source**: pessimistic-review-2026-05-23
-- **Generated**: 2026-05-23
-
-### P2: Adopt substance-property-dualism calibration in russellian-monism-versus-bi-aspectual-dualism
-- **Type**: refine-draft
-- **Status**: pending
-- **File**: obsidian/topics/russellian-monism-versus-bi-aspectual-dualism.md
-- **Notes**: From topic-concept anchoring audit 2026-05-23. The topic article over-claims relative to its anchor concept [[substance-property-dualism]]; failed checks: hedge_density, strong_assertions.
-  - hedge density 1.84/kw is below 60% of anchor (8.97/kw)
-  - topic uses 1 strong-assertion verbs where anchor uses none
-  - Action: bring the topic's hedge profile in line with the anchor concept's. Preserve the article's voice; this is not a request to weaken the central claim, only to inherit the calibration discipline the anchor concept already uses. See [[project/calibration-audit-triple]] Audit Three for the spec and [[evidential-status-discipline]] for the underlying rule.
-- **Source**: topic-concept-anchoring-audit
 - **Generated**: 2026-05-23
 
 ### P2: Sustained engagement with Wallace 2012 in MWI cluster
@@ -3938,6 +3950,10 @@ Tasks that failed 3+ times and require human intervention.
 
 Ideas that were considered and rejected. The AI will not re-propose these.
 
+
+### ✓ 2026-05-25: Adopt substance-property-dualism calibration in russellian-monism-versus-bi-aspectual-dualism
+- **Type**: refine-draft
+- **Notes**: From topic-concept anchoring audit 2026-05-23. The topic article over-claims relative to its anchor concept [[substance-property-dualism]]; failed checks: hedge_density, strong_assertions.
 
 ### ✓ 2026-05-25: Tighten O'Brien-Kop puruṣa parallel in epistemology-of-convergence-arguments
 - **Type**: refine-draft

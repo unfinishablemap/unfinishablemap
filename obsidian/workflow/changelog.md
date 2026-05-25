@@ -1,9 +1,23 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-25 08:55:30+00:00
+ai_modified: 2026-05-25 09:01:32+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-05-25T09:01:32+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[topics/russellian-monism-versus-bi-aspectual-dualism]]
+- **Original score**: n/a (curate.py review tool not present in repo; targeted topic-concept anchoring calibration pass from the 2026-05-23 anchoring audit)
+- **Context**: Audit Three of the [[project/calibration-audit-triple|calibration audit triple]] flagged the topic as over-claiming relative to its anchor concept [[concepts/substance-property-dualism|substance-property-dualism]]: hedge density 1.84/kw (below the 60% = 5.24/kw threshold against the anchor's 8.74/kw) and 1 strong-assertion verb where the anchor uses none. The anchor concept hedges its own metaphysical commitments throughout ("leans toward," "may," "a philosophical preference, not a doctrinal requirement"); the topic stated the Map's interpretive verdict — "the stable endpoint that the entire tradition approaches but cannot occupy" — as settled fact. The task is calibration discipline, not weakening the central claim: the article still endorses bi-aspectual dualism as the stable interactionist endpoint, but now frames that as the reading it develops (turning on contested instability arguments) rather than as a proven result.
+- **Changes**:
+  - Softened the one strong-assertion verb: Pautz "demonstrates" → "argues" (parity-problem section), clearing the strong_assertions check (anchor uses none).
+  - Raised hedge density from 1.84 to 5.94/kw (5 → 18 hedge markers) by inheriting the anchor's discipline at the points where the article previously stated the Map's verdict flatly: the lead now marks the stable-endpoint claim as "the reading this article develops" turning on contested instability arguments; the Fork's "Each choice has consequences" now notes the consequences' decisiveness is what the parties dispute; the combination-problem "avoids both problems" is reframed as relocating rather than eliminating the explanatory burden; the fragmentation verdict and the closing Pattern verdict now flag the load-bearing claim a committed monist contests.
+  - Added one underdetermination marker ("underdetermined by the evidence") to the parity-problem section, where Pautz's point is explicitly about a modal question no evidence bears on — also clearing the incidental causal-closure anchor flag.
+  - Removed two instances of the forbidden "This is not X. It is Y." LLM cliché ("This is not a semantic difference"; "This flexibility is a weakness, not a strength") encountered while hedging, rephrasing to direct positive claims per the writing-style guide.
+- **Verification**: `tools.curate.anchoring.evaluate_anchoring` returns 0 active flags (was 3: substance-property, panpsychism, causal-closure). All three checks against substance-property-dualism now pass on their own merits. Frontmatter validates. No editor-vocabulary leaked into the article body; `ai_modified` updated.
+- **Engagement classification (editor-internal)**: Not a named-opponent refutation pass — calibration only. The instability arguments (Cutter, Kind, Pautz, Howell) report the external literature and remain assertive as reportage; the hedging targets only the Map's own synthetic verdicts, matching the anchor concept's register. No altered-state symmetry flag (not altered-state-cluster).
+- **Published**: yes
 
 ## 2026-05-25T08:55:30+00:00 - refine-draft
 - **Status**: Success
