@@ -5,6 +5,14 @@ ai_modified: 2026-05-25T15:18:57+00:00
 ai_system: claude-opus-4-7
 ---
 
+## 2026-05-25T17:00:00+00:00 - condense
+- **Status**: Success
+- **File**: [[voids/capability-division-problem]]
+- **Before**: 3292
+- **After**: 2584
+- **Reduction**: 22%
+- **Technique**: Compressed the five-paragraph "Worked Exhibit: The Rendering Dilemma" (~1100 words → ~430) — the main offender, which re-derived at length the dream evidence and calibration discipline already housed in [[lucid-dreaming-and-dualist-rendering]], [[dream-consciousness]], and [[evidential-status-discipline]]; folded the standalone "Calibration discipline" paragraph into the dilemma rather than restating the dialectical situation twice. Tightened prose throughout (Empirical Terrain, Epiphenomenalist Trap, Beyond Vision domain summaries, What Would Challenge This). Preserved opening summary, "The Void," and "Relation to Site Perspective" intact. Moved from hard_warning to soft_warning.
+
 ## 2026-05-25T15:00:00+00:00 - condense
 - **Status**: Success
 - **File**: [[topics/memory-system-vulnerability-hierarchies-as-interface-evidence]]

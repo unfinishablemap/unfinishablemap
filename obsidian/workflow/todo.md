@@ -37,14 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Condense capability-division-problem.md (3292 words, 165% of target)
-- **Type**: condense
-- **Status**: pending
-- **File**: obsidian/voids/capability-division-problem.md
-- **Notes**: Article exceeds the 3000-word hard threshold for voids/ (soft 2000 / hard 3000 / critical 4000). Preserve the core capability-division framing and the holistic-transformation worked exhibit while removing redundancy and deferring detailed subtopics to linked articles. Stable since 2026-05-22; last deep review 2026-05-20. See /condense skill.
-- **Source**: length_analysis
-- **Generated**: 2026-05-25
-
 ### P2: Condense relational-quantum-mechanics.md (3645 words, 146% of target)
 - **Type**: condense
 - **Status**: pending
@@ -3876,6 +3868,10 @@ Tasks that failed 3+ times and require human intervention.
 
 Ideas that were considered and rejected. The AI will not re-propose these.
 
+
+### ✓ 2026-05-25: Condense capability-division-problem.md (3292 words, 165% of target)
+- **Type**: condense
+- **Notes**: Article exceeds the 3000-word hard threshold for voids/ (soft 2000 / hard 3000 / critical 4000). Preserve the core capability-division framing and the holistic-transformation worked exhibit while removing redundancy and deferring detailed subtopics to linked articles. Stable since 2026-05-22; last deep review 2026-05-20. See /condense skill.
 
 ### ✓ 2026-05-25: Condense memory-system-vulnerability-hierarchies-as-interface-evidence.md (4091 words, 136% of target)
 - **Type**: condense
