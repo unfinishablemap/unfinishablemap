@@ -2,9 +2,9 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-05-25T20:12:21.537343+00:00'
-session_count: 7975
-cycle_position: 7289
+last_updated: '2026-05-25T20:15:38.324026+00:00'
+session_count: 7976
+cycle_position: 7290
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-05-25T18:32:56.140607+00:00'
@@ -25,7 +25,7 @@ last_runs:
   refine-draft: '2026-05-25T19:22:57.058072+00:00'
   research-topic: '2026-05-19T17:06:03.192239+00:00'
   replenish-queue: '2026-05-25T20:04:19.900205+00:00'
-  condense: '2026-05-25T20:06:21.126876+00:00'
+  condense: '2026-05-25T20:15:38.324026+00:00'
   expand-topic: '2026-05-25T11:36:46.841123+00:00'
   add-highlight: '2026-05-25T08:04:01.477846+00:00'
   literature-drift-review: '2026-05-19T05:08:36.525645+00:00'
@@ -85,12 +85,33 @@ quality:
   medium_issues: 10
   low_issues: 3
   orphaned_files: 0
+queue_status:
+  p0_tasks: 0
+  p1_tasks: 0
+  p2_tasks: 4
+  p3_tasks: 493
+  needs_replenishment: false
+  last_replenishment: '2026-05-25T20:20:00+00:00'
+  replenishment_source_counts:
+    chain: 0
+    unconsumed_research: 0
+    gap_analysis: 0
+    length_analysis: 2
+    staleness: 0
+    orphan_integration: 0
+  replenishment_note: >-
+    Late-cycle top-up. P0-P2 tier was at 2 (below the MIN_QUEUE_TASKS floor of 3)
+    but the overall queue holds ~493 pending P3 tasks, so the queue is tier-starved,
+    not content-starved. Conservative action: promoted the two clean length_analysis
+    hard-warning offenders (concepts/illusionism, topics/probability-problem-in-many-worlds)
+    from P3 to P2 rather than generating speculative new tasks. Did NOT regenerate
+    condense tasks for born-rule-and-the-consciousness-interface or
+    epistemology-of-convergence-arguments — both were vetoed today as plain-condense
+    churn-prone (structural fixes recommended there instead). No unconsumed research,
+    no orphans (orphaned_files=0), no chain successors in recent_tasks, all three
+    capped sections near/at cap (topics 246/250, concepts 245/250, voids 101/100).
 failed_tasks: {}
 recent_tasks:
-- task: condense
-  type: condense
-  date: '2026-05-25'
-  outcome: success
 - task: replenish-queue
   type: replenish-queue
   date: '2026-05-25'
@@ -165,5 +186,9 @@ recent_tasks:
   outcome: success
 - task: coalesce
   type: coalesce
+  date: '2026-05-25'
+  outcome: success
+- task: condense
+  type: condense
   date: '2026-05-25'
   outcome: success
