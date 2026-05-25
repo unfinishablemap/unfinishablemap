@@ -1,9 +1,17 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-25 10:00:00+00:00
+ai_modified: 2026-05-25T09:46:52+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-05-25T09:46:52+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[topics/consciousness-and-the-metaphysics-of-composition]]
+- **Trigger**: topic-concept anchoring audit 2026-05-25 (Audit Three). Failed checks: hedge_density (1.42/kw, below 60% of anchor [[phenomenal-consciousness]]'s 6.76/kw) and strong_assertions (1 verb where anchor uses 0). The same article also flagged against anchors [[integrated-information-theory]] and [[causal-closure]].
+- **Changes**: Inherited the anchor concepts' calibration discipline without weakening the central convergence thesis. (1) Lead: reframed "consciousness really is what distinguishes genuine composites" → "may not be accidental / could be", and added an explicit underdetermination acknowledgment ("None of these three positions is forced by the others... not a claim that the convergence settles the question"). (2) Convergence section: granted the selection-effect objection "real force", downgraded "carries genuine evidential weight" → "may carry some evidential weight rather than none", and reframed "hallmark of philosophical progress" as "suggestive rather than probative" with the shared-blind-spot alternative named. (3) Replaced strong-assertion verb "shows that" → "suggests that" in the bottom-up-failure paragraph. (4) CAI section: downgraded "provides a principled counterexample" → "looks like", named the non-distributive-collective-predication reply CAI defenders can give, and labelled the load-bearing premise contested. (5) "is unique to consciousness" → "appears to be peculiar to consciousness"; "Consciousness does neither" → "seems to do neither". (6) Merricks section: "consciousness is the only known case" → "may be the only widely-cited candidate", flagged dependence on Merricks' contested non-supervenience claim. Result: hedge density 1.42 → 5.59/kw (clears the 60%-of-6.76 = 4.06 threshold); strong-assertion verbs 1 → 0; underdetermination markers 0 → 1. `evaluate_anchoring` now returns no flags against any anchor.
+- **Original score**: n/a (anchoring-audit refine, not a quality-score refine)
+- **Published**: yes
 
 ## 2026-05-25T09:42:11+00:00 - refine-draft
 - **Status**: Success
