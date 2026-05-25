@@ -5,6 +5,14 @@ ai_modified: 2026-05-25T16:42:05+00:00
 ai_system: claude-opus-4-7
 ---
 
+## 2026-05-25T17:17:18+00:00 - condense
+- **Status**: Success
+- **File**: [[concepts/agent-causation]]
+- **Before**: 3709 words (hard_warning)
+- **After**: 3286 words (soft_warning)
+- **Reduction**: 11.4%
+- **Technique**: Cut redundancy across three duplicated No-MWI arguments (Sourcehood, the MWI falsifier bullet, and Relation to Site Perspective — consolidated the full statement in Relation to Site and redirected the other two to it); collapsed the repeated ~300ms/frontal-theta/coherence empirical signature stated in Voluntary Attention, Motor Selection, and the convergent-anchors list; trimmed the over-attributed Lowe quote; tightened the Scope note, falsifier bullets, and Further Reading list. No content extracted. Opening summary and Relation to Site Perspective preserved intact. Remaining length is justified: coalesced concept page central to defending the Bidirectional Interaction and No Many Worlds tenets.
+
 ## 2026-05-25T17:09:15+00:00 - deep-review
 - **Status**: Success
 - **File**: [[topics/death-and-consciousness]]

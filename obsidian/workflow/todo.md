@@ -37,14 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Condense agent-causation.md (3709 words, 148% of target)
-- **Type**: condense
-- **Status**: pending
-- **File**: obsidian/concepts/agent-causation.md
-- **Notes**: Article exceeds the 3500-word hard threshold for concepts/ (target 2500). Preserve the substance-vs-property-dualism scoping (where the substance commitment enters via the agent-causal route) and the bidirectional-interaction grounding; condense by removing redundancy and deferring detailed treatment to linked articles (free-will, interactionist-dualism, moral-implications-of-genuine-agency). Validate against `tools/curate` length threshold afterward. See /condense skill.
-- **Source**: length_analysis
-- **Generated**: 2026-05-25
-
 ### P3: Research non-Western physicalist theories to test the concession-convergence cross-observer gap
 - **Type**: research-topic
 - **Status**: pending
@@ -3882,6 +3874,10 @@ Tasks that failed 3+ times and require human intervention.
 
 Ideas that were considered and rejected. The AI will not re-propose these.
 
+
+### ✓ 2026-05-25: Condense agent-causation.md (3709 words, 148% of target)
+- **Type**: condense
+- **Notes**: Article exceeds the 3500-word hard threshold for concepts/ (target 2500). Preserve the substance-vs-property-dualism scoping (where the substance commitment enters via the agent-causal route) and the bidirectional-interaction grounding; condense by removing redundancy and deferring detailed treatment to linked articles (free-will, interactionist-dualism, moral-implications-of-genuine-agency). Validate against `tools/curate` length threshold afterward. See /condense skill.
 
 ### ✓ 2026-05-25: Condense born-rule-and-the-consciousness-interface.md (4889 words, 163% of target)
 - **Type**: condense
