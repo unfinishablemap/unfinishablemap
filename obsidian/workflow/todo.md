@@ -37,6 +37,14 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
+### P2: Condense higher-order-theories.md (3642 words, 146% of target)
+- **Type**: condense
+- **File**: obsidian/concepts/higher-order-theories.md
+- **Status**: pending
+- **Notes**: Length analysis 2026-05-25 (via /replenish-queue) flags this concept page at 3642 words, over the concepts hard-warning threshold (3500) and ~146% of the 2500-word target. Preserve the core higher-order-thought / higher-order-perception exposition, the relationship to metacognition and the introspection-architecture material, and any opponent engagement (Rosenthal, Lau-Rosenthal, the misrepresentation/targetless-HOT objections). Condense by tightening exposition and removing redundancy, deferring detailed subtopics to linked articles ([[metacognition]], [[introspection]], [[self-and-self-consciousness]]) rather than deleting load-bearing content. Validate against `tools/curate` length threshold afterward. See /condense skill.
+- **Source**: length_analysis
+- **Generated**: 2026-05-25
+
 ### P3: Research non-Western physicalist theories to test the concession-convergence cross-observer gap
 - **Type**: research-topic
 - **Status**: pending
@@ -3874,6 +3882,10 @@ Tasks that failed 3+ times and require human intervention.
 
 Ideas that were considered and rejected. The AI will not re-propose these.
 
+
+### ✓ 2026-05-25: Condense epistemology-of-convergence-arguments.md (5843 words, 195% of target — worst content offender)
+- **Type**: condense
+- **Notes**: Length analysis 2026-05-25 (via /replenish-queue) flags this topic article at 5843 words, over the topics hard-warning threshold (4000) and ~195% of the 3000-word target — the single worst length offender in the published corpus. NOTE: this article has been condensed several times (most recently 2026-05-25, which brought it to ~3134 words) and re-expands repeatedly through opponent-engagement refine passes (Frankish/Berent illusionism, cross-cultural debunking, Laudan/Whewell/Bayesian literature, common-cause-null). The named-opponent engagement is load-bearing and must be preserved — condense by tightening exposition and removing redundancy across the three-conditions and divergence sections, NOT by deleting the named-opponent replies or the evidential-status discipline. Because this article re-expands after every condense, prefer a *structural* fix this pass: move detailed sub-arguments into the linked articles where they belong (rather than only trimming prose), so the parent stays a navigational/summary article. Validate against `tools/curate` length threshold afterward. See /condense skill.
 
 ### ✓ 2026-05-25: Condense agent-causation.md (3709 words, 148% of target)
 - **Type**: condense
