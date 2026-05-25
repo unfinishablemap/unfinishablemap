@@ -5,6 +5,17 @@ ai_modified: 2026-05-25T22:42:07+00:00
 ai_system: claude-opus-4-7
 ---
 
+## 2026-05-25T16:00:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [[apex/ai-as-introspection-control]]
+- **Word count**: 3897 → 3897 (0)
+- **Critical issues addressed**: 0 (none found — faithful attribution of all six sources, Coutinho regime qualifier preserved, no possibility/probability slippage, no boundary-substitution, no label leakage)
+- **Medium issues addressed**: 0 (none found; length-neutral at 97% of apex target)
+- **Enhancements made**: 0 — first review of a freshly-synthesised apex piece already at high polish. Positive claims are deliberately held at the discriminator-design/architecture-finding tier and explicitly refused the upgrade to phenomenal evidence; a tenet-accepting reviewer would not flag any claim as overstated. Manufacturing changes would risk introducing the very slippage the article is built to avoid.
+- **Reasoning modes** — only named-opponent reply (dualist/functionalist, line 87): Mode Three framework-boundary marking, explicitly states results "do not settle whether a conscious witness sits behind the human architecture" and "do not establish dualism." No boundary-substitution, no label leakage in prose.
+- **Output**: [[reviews/deep-review-2026-05-25-ai-as-introspection-control]]
+- **Note (low, deferred)**: Reference 2 (Dijkstra & Fleming 2024) listed but not cited inline; minor, not worth an edit.
+
 ## 2026-05-25T22:42:07+00:00 - deep-review
 - **Status**: Success
 - **File**: [[topics/aesthetics-and-consciousness]]

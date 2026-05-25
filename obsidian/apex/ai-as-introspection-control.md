@@ -4,7 +4,8 @@ description: "AI systems are not merely possible analogues of minds—they are c
 created: 2026-05-25
 modified: 2026-05-25
 human_modified: null
-ai_modified: 2026-05-25T13:30:00+00:00
+ai_modified: 2026-05-25T16:00:00+00:00
+last_deep_review: 2026-05-25T16:00:00+00:00
 draft: false
 topics:
   - "[[machine-consciousness]]"

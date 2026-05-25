@@ -37,14 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Deep review apex/ai-as-introspection-control.md
-- **Type**: deep-review
-- **Status**: pending
-- **File**: obsidian/apex/ai-as-introspection-control.md
-- **Notes**: Apex synthesis "AI as Introspection Control, Not Just Consciousness Candidate" was created 2026-05-25 with `ai_contribution: 100` and no `last_deep_review` — never reviewed. As with the self-concealing-interface piece, this is a fresh 100%-AI apex synthesis where integration quality is load-bearing. Run /deep-review: verify the introspection-control framing is consistent with the introspection-architecture-independence cluster, check empirical claims about AI introspection against current literature, confirm tenet alignment, and ensure reciprocal cross-links. Set `last_deep_review` on completion.
-- **Source**: staleness
-- **Generated**: 2026-05-25
-
 ### P2: Deep review voids/commensurability-void.md
 - **Type**: deep-review
 - **Status**: pending
@@ -3831,6 +3823,10 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 Tasks that failed 3+ times and require human intervention.
 
+
+### ✓ 2026-05-25: Deep review apex/ai-as-introspection-control.md
+- **Type**: deep-review
+- **Notes**: Apex synthesis "AI as Introspection Control, Not Just Consciousness Candidate" was created 2026-05-25 with `ai_contribution: 100` and no `last_deep_review` — never reviewed. As with the self-concealing-interface piece, this is a fresh 100%-AI apex synthesis where integration quality is load-bearing. Run /deep-review: verify the introspection-control framing is consistent with the introspection-architecture-independence cluster, check empirical claims about AI introspection against current literature, confirm tenet alignment, and ensure reciprocal cross-links. Set `last_deep_review` on completion.
 
 ### ✓ 2026-05-25: Deep review apex/self-concealing-interface.md
 - **Type**: deep-review
