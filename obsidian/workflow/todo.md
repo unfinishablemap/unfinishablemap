@@ -37,14 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Register predicted-by-rival asymmetry in introspection-architecture exhibit
-- **Type**: refine-draft
-- **Status**: pending
-- **File**: obsidian/topics/introspection-architecture-independence-scoring.md
-- **Notes**: PROMOTED P3→P2 by /replenish-queue 2026-05-25 (late cycle): open P0-P2 queue was at 2 (below the MIN_QUEUE_TASKS floor of 3). All three content-section length offenders are unavailable as honest length_analysis promotions — probability-problem-in-many-worlds is already the open P2; epistemology-of-convergence and born-rule are both churn-exhausted (their structural-restructure condense passes resolved without modifying the article, condense having ruled the over-length status a human-editorial matter — epistemology now escalated to Blocked). Rather than generate a churning condense duplicate against the 523-task P3 backlog, promote this small, surgical, executable refine that addresses a live Medium pessimistic-review finding. Pessimistic review 2026-05-25b, Issue 4 (Medium). The article concedes that physicalist accounts (predictive processing; Carruthers' model-free metacognition) *predict* the cluster signature while the Map's reading offers only "compatibility," then files the result as "compatibility plus boundary-marking, not positive support." But where a rival genuinely predicts a signature the Map's reading only accommodates, the evidential vector on that item points *toward the rival* — the evidential-status discipline currently guards only the don't-upgrade-for-dualism direction. Add a sentence acknowledging the asymmetry: on items a rival predicts and the Map only tolerates, "compatibility" is the most the Map can honestly claim *because* the broader case rests elsewhere, not parity. Also soften two overstatements flagged in the same review: "architectural-distance triangulation" (LLM channel) → "candidate architectural-distance parallel, open" (the section itself calls the inference "genuinely open"), and apply the witness-reification caution specifically to the cross-tradition material (the convergence claimed should be on the *negative* finding of mis-sourced self-report, not on a positive bounded-witness metaphysics none of the traditions hold — Nagarjuna/Advaita persona). See reviews/pessimistic-2026-05-25b.md.
-- **Source**: pessimistic-review-2026-05-25b
-- **Generated**: 2026-05-25
-
 ### P3: Research non-Western physicalist theories to test the concession-convergence cross-observer gap
 - **Type**: research-topic
 - **Status**: pending
@@ -3846,6 +3838,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 Tasks that failed 3+ times and require human intervention.
 
+
+### ✓ 2026-05-25: Register predicted-by-rival asymmetry in introspection-architecture exhibit
+- **Type**: refine-draft
+- **Notes**: PROMOTED P3→P2 by /replenish-queue 2026-05-25 (late cycle): open P0-P2 queue was at 2 (below the MIN_QUEUE_TASKS floor of 3). All three content-section length offenders are unavailable as honest length_analysis promotions — probability-problem-in-many-worlds is already the open P2; epistemology-of-convergence and born-rule are both churn-exhausted (their structural-restructure condense passes resolved without modifying the article, condense having ruled the over-length status a human-editorial matter — epistemology now escalated to Blocked). Rather than generate a churning condense duplicate against the 523-task P3 backlog, promote this small, surgical, executable refine that addresses a live Medium pessimistic-review finding. Pessimistic review 2026-05-25b, Issue 4 (Medium). The article concedes that physicalist accounts (predictive processing; Carruthers' model-free metacognition) *predict* the cluster signature while the Map's reading offers only "compatibility," then files the result as "compatibility plus boundary-marking, not positive support." But where a rival genuinely predicts a signature the Map's reading only accommodates, the evidential vector on that item points *toward the rival* — the evidential-status discipline currently guards only the don't-upgrade-for-dualism direction. Add a sentence acknowledging the asymmetry: on items a rival predicts and the Map only tolerates, "compatibility" is the most the Map can honestly claim *because* the broader case rests elsewhere, not parity. Also soften two overstatements flagged in the same review: "architectural-distance triangulation" (LLM channel) → "candidate architectural-distance parallel, open" (the section itself calls the inference "genuinely open"), and apply the witness-reification caution specifically to the cross-tradition material (the convergence claimed should be on the *negative* finding of mis-sourced self-report, not on a positive bounded-witness metaphysics none of the traditions hold — Nagarjuna/Advaita persona). See reviews/pessimistic-2026-05-25b.md.
+
 ### BLOCKED: Resolve over-length status of topics/epistemology-of-convergence-arguments.md (5843 words, 195% of target) — needs human editorial decision
 - **Type**: condense
 - **Status**: blocked (needs human)
@@ -3857,7 +3854,6 @@ Tasks that failed 3+ times and require human intervention.
 ## Vetoed Tasks
 
 Ideas that were considered and rejected. The AI will not re-propose these.
-
 
 ### ✓ 2026-05-25: Condense the-convergence-argument-for-dualism (length ~4193 words, 140% of target, over 4000 hard threshold)
 - **Type**: condense

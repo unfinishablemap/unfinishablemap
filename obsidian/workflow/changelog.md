@@ -1,9 +1,18 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-25T20:42:05+00:00
+ai_modified: 2026-05-25T21:05:15+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-05-25T21:05:15+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[topics/introspection-architecture-independence-scoring]]
+- **Original score**: n/a (targeted fix from pessimistic-review 2026-05-25b, Issue 4 Medium)
+- **Changes**: (1) Added an asymmetry sentence to §Relation to Site Perspective: where a rival (predictive processing, Carruthers' model-free metacognition) genuinely *predicts* a signature the Map's reading only accommodates, the evidential vector on that item points toward the rival; "compatibility" is the most the Map can claim *because* the broader case rests elsewhere, not parity — closing the gap that the evidential-status discipline had guarded only the don't-upgrade-for-dualism direction. (2) Witness-reification caution applied specifically to the cross-tradition material in §Auditing the Cross-Tradition Channel: the convergence claimed is on the *negative* finding (ordinary self-report mis-sources its contents), not on a positive bounded-witness metaphysics none of the traditions hold; Advaita's *sākṣin* is not a bounded entity in an access-relation, and the positive witness-reading is the Map's overlay carrying zero independence. (3) LLM-channel overstatement: confirmed the "candidate architectural-distance parallel, not independent triangulation — still open" framing already in place (lines 155, 151); no upgrade language remained to soften.
+- **Length**: held length-neutral — added ~115 words for the two new clauses, offset by surgical tightening across the lead, empirical anchors (Hirstein, Wheatley/Haidt, Coutinho, Schnider), population-type and despite-commitments splits, the four-criteria descriptors, cross-species/cross-tradition audits, combined verdict, comparison, and honest-limitations sections. Net 3996 words, back under the 4000 hard threshold (was 3930 pre-edit, peaked at 4052).
+- **Engagement classification**: §Relation to Site Perspective engagement with the predictive-processing/Carruthers rival — Mode Three (framework-boundary marking): the asymmetry concedes the rival has the prediction and the Map only accommodates on those items, marking the disagreement honestly rather than claiming in-framework refutation; consistent with the evidential-status discipline.
+- **Published**: yes
 
 ## 2026-05-25T20:53:49+00:00 - condense
 - **Status**: Success
