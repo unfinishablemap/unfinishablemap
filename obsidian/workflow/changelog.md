@@ -5,6 +5,17 @@ ai_modified: 2026-05-25T17:57:47+00:00
 ai_system: claude-opus-4-7
 ---
 
+## 2026-05-25T17:05:00+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[topics/introspection-architecture-independence-scoring]]
+- **Source**: topic-concept anchoring audit 2026-05-25 (Audit Three of the calibration audit triple). Article over-claimed relative to anchor concept [[metacognition]]; failed checks: hedge_density (1.75/kw, below 60% of anchor's 8.16/kw) and strong_assertions (1.25/kw, exceeding 1.5× anchor's 0.30/kw). Article also flagged against [[introspection]] and [[witness-consciousness]] anchors on the same two checks.
+- **Changes**:
+  - Softened all 5 strong-assertion verbs (down to 0): "confirms deliberate differentiation" → "is consistent with deliberate differentiation rather than curation bias"; "Hampton's macaque metamemory confirms" → "appears to replicate"; "demonstrates by retraction what this exhibit demonstrates by partial retention" → "may illustrate the same point from opposite directions"; "neither adopts nor refutes" → "neither adopts nor rejects". Each verb sat on an interpretive scoring judgement, not a reported fact, so the softening inherits the anchor concepts' calibration rather than weakening any finding.
+  - Raised hedge density from 1.75/kw to 5.13/kw by hedging genuinely interpretive verdicts previously stated flat: the patient-population "null's preferred test class" claim, structured-persistence verdicts (Nisbett-Wilson scope, Schnider mechanism), the framework-supplied "significance" inference, the substrate-to-architecture inference, the cross-species despite-commitments reading, the Vogel silicon-parallel claim, and the Advaita *antaḥkaraṇa*/*ahaṃkāra* scoring. No definitional or empirical-anchor statements were hedged into vagueness; only interpretive scoring calls inherited the anchor's discipline.
+- **Verification**: `tools.curate.anchoring.evaluate_anchoring` returns no flags against any of the three anchor concepts (hedge 21 count / 5.13 per-kw, 0 strong-assertion verbs, 4094 words). Frontmatter validates.
+- **Voice preservation**: central conclusion (the cluster earns partial-but-real evidential weight concentrated in the patient-population channel, with auxiliary channels calibration-grade not load-bearing) unchanged; this was a calibration pass only, not a weakening of the argument.
+- **Published**: yes
+
 ## 2026-05-25T17:57:47+00:00 - refine-draft
 - **Status**: Success
 - **File**: [[topics/four-quadrant-dualism-taxonomy]]

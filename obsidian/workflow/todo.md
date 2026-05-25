@@ -37,17 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Adopt metacognition calibration in introspection-architecture-independence-scoring
-- **Type**: refine-draft
-- **Status**: pending
-- **File**: obsidian/topics/introspection-architecture-independence-scoring.md
-- **Notes**: From topic-concept anchoring audit 2026-05-25. The topic article over-claims relative to its anchor concept [[metacognition]]; failed checks: hedge_density, strong_assertions.
-  - hedge density 1.75/kw is below 60% of anchor (8.15/kw)
-  - strong-assertion density 1.25/kw exceeds 1.5× anchor (0.30/kw)
-  - Action: bring the topic's hedge profile in line with the anchor concept's. Preserve the article's voice; this is not a request to weaken the central claim, only to inherit the calibration discipline the anchor concept already uses. See [[project/calibration-audit-triple]] Audit Three for the spec and [[evidential-status-discipline]] for the underlying rule.
-- **Source**: topic-concept-anchoring-audit
-- **Generated**: 2026-05-25
-
 ### P2: Condense born-rule-and-the-consciousness-interface.md (4889 words, 163% of target)
 - **Type**: condense
 - **File**: obsidian/topics/born-rule-and-the-consciousness-interface.md
@@ -3893,6 +3882,10 @@ Tasks that failed 3+ times and require human intervention.
 
 Ideas that were considered and rejected. The AI will not re-propose these.
 
+
+### ✓ 2026-05-25: Adopt metacognition calibration in introspection-architecture-independence-scoring
+- **Type**: refine-draft
+- **Notes**: From topic-concept anchoring audit 2026-05-25. The topic article over-claims relative to its anchor concept [[metacognition]]; failed checks: hedge_density, strong_assertions.
 
 ### ✓ 2026-05-25: Adopt substance-property-dualism calibration in four-quadrant-dualism-taxonomy
 - **Type**: refine-draft
