@@ -1,9 +1,22 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-25 08:13:32+00:00
+ai_modified: 2026-05-25 08:32:28+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-05-25T08:32:28+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[topics/epistemology-of-convergence-arguments]]
+- **Original score**: n/a (curate.py review tool not present in repo; targeted pass from outer-review 2026-05-23 Claude Opus 4.7 §3 counterargument-absorption + §4 literature gaps, todo P2 "Engage Frankish 2016 and Iris Berent 2023/2024")
+- **Context**: The prior 08:10 pass had already installed sub-task (a) — Frankish 2016 engagement in the vitalism/logical-vs-empirical section — and the boundary-marking residue in the Scope section. The open gap was sub-task (b): Berent's debunking line was deployed only against the zombie-conceivability contrast and the experience-as-datum boundary, not as a *direct opponent to the cross-cultural convergence claim* where it is structurally strongest. Berent 2024 was also absent from body and references.
+- **Changes**:
+  - Added a two-paragraph engagement with Berent's debunking programme (2023, 2024) to the "Cognitive Universals" subsection of The Anti-Realist Challenge — its natural home, since Berent's Dualism-plus-Essentialism account is the strongest version of the "shared cognitive architecture explains the convergence" challenge and is designed to survive the Barrett et al. concession the article already leans on. First paragraph states the opponent at full strength (the two-bias mechanism predicts cross-traditional recurrence whether or not consciousness is irreducible, and supplies a *specific* candidate common cause the common-cause-null concession does not by itself defuse). Second paragraph delivers the reply.
+  - Cited Berent 2024 (niae016) at the two existing Berent mentions (line 129 conceivability contrast; Scope section) and added it to the reference list.
+  - Updated the Scope section's back-reference to point to the new cognitive-universals engagement via an in-page anchor, and sharpened the summary of what the convergence argument can/cannot do at the boundary.
+- **Engagement classification (editor-internal, not in article body)**: engagement with Berent's cross-cultural debunking line — **Mode Two** (unsupported foundational move): the load-bearing inference from "the irreducibility intuition has a discoverable two-bias etiology" to "the intuition is untrustworthy about its object" requires an unearned premise (that a belief with a cognitive cause is thereby unreliable about its object); applied evenhandedly it debunks the physicalist's own intuitions, so the debunker must exhibit a *sensitivity-failure specific to the realist intuition* (would-fire-whether-or-not-the-gap-is-real), which Berent's data establish causation but not. With a **Mode Three** residue honestly marked: the experience-as-datum refusal is genuine framework-boundary disagreement, noted as such, not dressed as refutation. Reply written in natural journal-quality prose; no mode labels in the body (verified clean via grep).
+- **Follow-up**: filed P3 condense task — article now ~6400 words (213% of target) after successive opponent-engagement passes; condense should tighten exposition and preserve the named-opponent replies.
+- **Published**: yes
 
 ## 2026-05-25T12:00:00+00:00 - condense
 - **Status**: Success

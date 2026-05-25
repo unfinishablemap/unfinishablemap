@@ -37,15 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Engage Frankish 2016 and Iris Berent 2023/2024 anti-realist debunking lines in epistemology-of-convergence-arguments
-- **Type**: refine-draft
-- **Status**: pending
-- **File**: obsidian/topics/epistemology-of-convergence-arguments.md
-- **Notes**: Outer-review 2026-05-23 Claude Opus 4.7 §3 (counterargument absorption) and §4 (literature gaps). The article's "specificity" defense and its dismissal of the vitalism analogy currently ride on assertion rather than confrontation with the strongest contemporary anti-realist lines. Two specific gaps: **Frankish** ("Illusionism as a Theory of Consciousness," *Journal of Consciousness Studies* 23(11–12): 11–39, 2016) argues that zombie-conceivability and the explanatory gap are cognitive artifacts rather than genuine modal data — directly aimed at the kind of in-principle move the article relies on. The current phrasing "Physicalists dispute whether zombie scenarios are genuinely conceivable, but the argument's logical character remains the structural contrast" is performative inoculation: it cites the objection without engaging it. **Berent** — "The 'Hard Problem of Consciousness' Arises from Human Psychology" (*Open Mind* 7: 564–587, 2023, DOI 10.1162/opmi_a_00094) and "Consciousness isn't 'hard' — it's human psychology that makes it so!" (*Neuroscience of Consciousness* 2024(1): niae016, DOI 10.1093/nc/niae016) — argues "the 'hard problem' emerges from two intuitive biases that lie deep within human psychology: Essentialism and Dualism." This is the strongest current anti-realist debunking line and its absence is striking given that Barlev & Shtulman (a related debunking line) IS cited. Refine pass: (a) Add substantive engagement with Frankish 2016 in the section discussing logical-vs-empirical convergence and the vitalism analogy — name the argument and reply on its own terms, not by dispatching to the "logical character" stipulation; (b) Add Berent 2023/2024 as a direct debunking-line opponent to the cross-cultural convergence claim — the article currently grants that the Chinese counterexample is honest and that the McGinn closure hypothesis is underdetermined relative to dualism, but Berent's debunking line is a stronger structural challenge that those concessions alone do not address; (c) Where the article holds the line, show why the opponent's position is defective on its own terms or honestly mark the framework-boundary. Apply the direct-refutation discipline. Identify what kind of engagement the issue calls for. Apply the corresponding reply mode in **natural journal-quality prose** — see [[writing-style|the writing-style guide]]. **Do not expose mode labels in the article body.** Tenet alignment: Tenet 1 (Dualism) — engagement with the strongest contemporary anti-dualist debunking lines is overdue in the article that names cross-traditional convergence as a primary evidential resource.
-- **Review file**: `reviews/outer-review-2026-05-23-claude-opus-4-7.md`
-- **Source**: outer-review
-- **Generated**: 2026-05-24
-
 ### P2: Anchor "common-cause-null discipline" to Reichenbach in epistemology-of-convergence-arguments article body
 - **Type**: refine-draft
 - **Status**: pending
@@ -259,6 +250,14 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Review file**: `reviews/optimistic-2026-05-19d.md`
 - **Source**: optimistic-review (2026-05-19d)
 - **Generated**: 2026-05-19
+
+### P3: Condense epistemology-of-convergence-arguments (length ~6400 words, 213% of target)
+- **Type**: condense
+- **File**: obsidian/topics/epistemology-of-convergence-arguments.md
+- **Status**: pending
+- **Notes**: Article re-expanded well past the 3000-word target after the May 2026 condense (3134 words) through several subsequent opponent-engagement refine passes (Frankish/Berent illusionism, Berent cross-cultural debunking, Laudan/Whewell/Bayesian literature, common-cause-null). The added engagement is load-bearing and should be preserved — condense by tightening exposition and removing redundancy across the three-conditions and divergence sections, not by deleting the named-opponent replies. Validate against `tools/curate` length threshold afterward.
+- **Source**: refine-draft 2026-05-25 (Berent/Frankish engagement pass)
+- **Generated**: 2026-05-25
 
 ### ✓ 2026-05-19: Write concept page on constitutive-vs-referring observation (resolved obsolete during replenish-queue)
 - **Type**: expand-topic
@@ -3966,6 +3965,10 @@ Tasks that failed 3+ times and require human intervention.
 
 Ideas that were considered and rejected. The AI will not re-propose these.
 
+
+### ✓ 2026-05-25: Engage Frankish 2016 and Iris Berent 2023/2024 anti-realist debunking lines in epistemology-of-convergence-arguments
+- **Type**: refine-draft
+- **Notes**: Outer-review 2026-05-23 Claude Opus 4.7 §3 (counterargument absorption) and §4 (literature gaps). The article's "specificity" defense and its dismissal of the vitalism analogy currently ride on assertion rather than confrontation with the strongest contemporary anti-realist lines. Two specific gaps: **Frankish** ("Illusionism as a Theory of Consciousness," *Journal of Consciousness Studies* 23(11–12): 11–39, 2016) argues that zombie-conceivability and the explanatory gap are cognitive artifacts rather than genuine modal data — directly aimed at the kind of in-principle move the article relies on. The current phrasing "Physicalists dispute whether zombie scenarios are genuinely conceivable, but the argument's logical character remains the structural contrast" is performative inoculation: it cites the objection without engaging it. **Berent** — "The 'Hard Problem of Consciousness' Arises from Human Psychology" (*Open Mind* 7: 564–587, 2023, DOI 10.1162/opmi_a_00094) and "Consciousness isn't 'hard' — it's human psychology that makes it so!" (*Neuroscience of Consciousness* 2024(1): niae016, DOI 10.1093/nc/niae016) — argues "the 'hard problem' emerges from two intuitive biases that lie deep within human psychology: Essentialism and Dualism." This is the strongest current anti-realist debunking line and its absence is striking given that Barlev & Shtulman (a related debunking line) IS cited. Refine pass: (a) Add substantive engagement with Frankish 2016 in the section discussing logical-vs-empirical convergence and the vitalism analogy — name the argument and reply on its own terms, not by dispatching to the "logical character" stipulation; (b) Add Berent 2023/2024 as a direct debunking-line opponent to the cross-cultural convergence claim — the article currently grants that the Chinese counterexample is honest and that the McGinn closure hypothesis is underdetermined relative to dualism, but Berent's debunking line is a stronger structural challenge that those concessions alone do not address; (c) Where the article holds the line, show why the opponent's position is defective on its own terms or honestly mark the framework-boundary. Apply the direct-refutation discipline. Identify what kind of engagement the issue calls for. Apply the corresponding reply mode in **natural journal-quality prose** — see [[writing-style|the writing-style guide]]. **Do not expose mode labels in the article body.** Tenet alignment: Tenet 1 (Dualism) — engagement with the strongest contemporary anti-dualist debunking lines is overdue in the article that names cross-traditional convergence as a primary evidential resource.
 
 ### ✓ 2026-05-25: Review references to coalesced channel-audits article and condense the unified exhibit
 - **Type**: cross-review
