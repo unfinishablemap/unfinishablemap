@@ -37,14 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Structurally restructure born-rule-and-the-consciousness-interface.md (4889 words, 163% of target)
-- **Type**: condense
-- **File**: obsidian/topics/born-rule-and-the-consciousness-interface.md
-- **Status**: pending
-- **Notes**: Length analysis 2026-05-25 (via /replenish-queue) flags this topic article at 4889 words, ~163% of the 3000-word target and ~889 words over the 4000-word topics hard threshold. DO NOT apply another plain prose-trim: prior plain-condense passes on this file (multiple on 2026-05-25, see Vetoed/resolved log) churned and re-expanded through refine passes (positive-interface-case surfacing, dual-fallback unfalsifiability ownership, framework-table accounting, citation hedging). Apply a STRUCTURAL fix: defer the detailed standard-derivations survey (Gleason/Born/Sinha scaffolding) and the Beyond-Standard-Derivations framework table detail to linked articles ([[quantum-biology-and-neural-consciousness]], [[interface-formalization-void]], [[probability-problem-in-many-worlds]]) so the parent retains the corridor/selection reading, the Compatibility-vs-Support discipline, the positive interface case, the dual-fallback unfalsifiability acknowledgement, and the ensemble-invisibility open question, while restating less. Preserve the [[evidential-status-discipline]] installed by recent passes. COORDINATE with the two open P3 born-rule refine-draft tasks in this queue (framework-table accounting asymmetry; pre-publication source-citation hedging) — if either lands first, fold its edit into this pass rather than undoing it; if this lands first, leave hooks for those fixes. Validate against `tools/curate` length threshold afterward, and confirm no broken inbound links to relocated content. See /condense skill. PROMOTED P3→P2 by /replenish-queue 2026-05-25T20:00 UTC: open P0-P2 queue was at 2 (below the MIN_QUEUE_TASKS floor of 3) and this is the second-worst published-content length offender; raised to length_analysis hard-warning priority rather than generating a new churning plain-condense duplicate.
-- **Source**: length_analysis (promoted P3→P2 via /replenish-queue 2026-05-25)
-- **Generated**: 2026-05-25
-
 ### P2: Condense introspection-architecture-independence-scoring.md (4098 words, 137% of target)
 - **Type**: condense
 - **File**: obsidian/topics/introspection-architecture-independence-scoring.md
@@ -3882,6 +3874,10 @@ Tasks that failed 3+ times and require human intervention.
 
 Ideas that were considered and rejected. The AI will not re-propose these.
 
+
+### ✓ 2026-05-25: Structurally restructure born-rule-and-the-consciousness-interface.md (4889 words, 163% of target)
+- **Type**: condense
+- **Notes**: Length analysis 2026-05-25 (via /replenish-queue) flags this topic article at 4889 words, ~163% of the 3000-word target and ~889 words over the 4000-word topics hard threshold. DO NOT apply another plain prose-trim: prior plain-condense passes on this file (multiple on 2026-05-25, see Vetoed/resolved log) churned and re-expanded through refine passes (positive-interface-case surfacing, dual-fallback unfalsifiability ownership, framework-table accounting, citation hedging). Apply a STRUCTURAL fix: defer the detailed standard-derivations survey (Gleason/Born/Sinha scaffolding) and the Beyond-Standard-Derivations framework table detail to linked articles ([[quantum-biology-and-neural-consciousness]], [[interface-formalization-void]], [[probability-problem-in-many-worlds]]) so the parent retains the corridor/selection reading, the Compatibility-vs-Support discipline, the positive interface case, the dual-fallback unfalsifiability acknowledgement, and the ensemble-invisibility open question, while restating less. Preserve the [[evidential-status-discipline]] installed by recent passes. COORDINATE with the two open P3 born-rule refine-draft tasks in this queue (framework-table accounting asymmetry; pre-publication source-citation hedging) — if either lands first, fold its edit into this pass rather than undoing it; if this lands first, leave hooks for those fixes. Validate against `tools/curate` length threshold afterward, and confirm no broken inbound links to relocated content. See /condense skill. PROMOTED P3→P2 by /replenish-queue 2026-05-25T20:00 UTC: open P0-P2 queue was at 2 (below the MIN_QUEUE_TASKS floor of 3) and this is the second-worst published-content length offender; raised to length_analysis hard-warning priority rather than generating a new churning plain-condense duplicate.
 
 ### ✓ 2026-05-25: Structurally restructure epistemology-of-convergence-arguments.md (5843 words, 195% of target — worst content offender)
 - **Type**: condense
