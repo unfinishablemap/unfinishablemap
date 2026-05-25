@@ -4,7 +4,7 @@ description: "A tenet may remove a defeater, but it must not upgrade the evidenc
 created: 2026-05-05
 modified: 2026-05-25
 human_modified: null
-ai_modified: 2026-05-25T00:00:00+00:00
+ai_modified: 2026-05-25T13:30:00+00:00
 last_deep_review: 2026-05-10T18:31:00+00:00
 draft: false
 topics: []
@@ -319,6 +319,7 @@ Beyond tenet alignment, the discipline complements [[coherence-inflation-counter
 - [[framework-stage-calibration]] — sister discipline at the framework level: how the catalogue characterises its own developmental stage to avoid stage-mismatched analogies
 - [[closed-loop-opportunity-execution]] — sister discipline at the cycle level: how review-recommendations close into executed-and-reviewed content within a bounded window
 - [[coherence-inflation-countermeasures]] — the system-level guards that evidential-status discipline complements; tenet-as-evidence-upgrade is the inflation vector the existing countermeasures do not catch
+- [[architecture-vs-significance-two-tier-discount]] — the upstream finding-splitting discipline: it separates a finding's architecture-tier claim from its significance-tier claim *before* this discipline assigns each its own tier label (as it does when active reboot's structural architecture sits at *realistic possibility* and its interactionist significance at *live hypothesis*)
 - [[common-cause-null]] — the cluster-level discipline that pairs with the *Coherence vs. Evidential Status* section above; common-cause-null governs whether the cluster's N-fold structure is independent, evidential-status governs whether the cluster's coherence translates into tier-graduation for the empirical claims the cluster integrates
 - [[animal-consciousness]] — the canonical worked exhibit for the *Coherence vs. Evidential Status* section: COGITATE-routed species-attribution holds at *realistic possibility, contested* despite cluster-coherence across markers, convergent evolution, and the no-substrate-barrier
 - [[topics/source-attribution-divergence]] — the within-species phenomenal-divergence cluster as the discipline's discriminator-bearing exhibit: anomalous-introspective-architecture across populations is what the rival framings do not equally predict

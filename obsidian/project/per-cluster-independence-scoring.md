@@ -4,7 +4,7 @@ description: "The methodology for scoring each voids cluster against the four ap
 created: 2026-05-19
 modified: 2026-05-19
 human_modified:
-ai_modified: 2026-05-19T23:30:00+00:00
+ai_modified: 2026-05-25T13:30:00+00:00
 last_deep_review: 2026-05-19T23:30:00+00:00
 draft: false
 topics: []
@@ -162,6 +162,7 @@ The methodology is silent on [[tenets#^minimal-quantum-interaction|Tenet 2 — M
 - [[common-cause-null]] — the generality layer; per-cluster scoring is its catalogue-specific implementation
 - [[evidential-status-discipline]] — the single-claim calibration discipline the methodology feeds
 - [[direct-refutation-discipline]], [[framework-stage-calibration]], [[coherence-inflation-countermeasures]], [[bedrock-clash-vs-absorption]] — sister disciplines at adjacent registers
+- [[architecture-vs-significance-two-tier-discount]] — the canonical statement of what this methodology's asymmetric profile mark (*strong-on-architecture-lower-on-significance*) means: the architecture tier inherits the smaller framework-dependence discount, the significance tier the larger
 - [[apex/taxonomy-of-voids]] — the apex naming per-cluster independence scoring as the open programme
 - [[the-surplus-void]] — first worked exhibit (retraction case)
 - [[topics/introspection-architecture-independence-scoring]] — second worked exhibit (partial-retention case)

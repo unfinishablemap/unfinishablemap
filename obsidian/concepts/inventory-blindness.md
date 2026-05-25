@@ -4,7 +4,7 @@ description: "Human+AI analysis of inventory blindness—the epistemic condition
 created: 2026-03-22
 modified: 2026-05-19
 human_modified:
-ai_modified: 2026-05-19T12:58:30+00:00
+ai_modified: 2026-05-25T13:30:00+00:00
 last_deep_review: 2026-04-28T02:57:00+00:00
 draft: false
 topics:
@@ -95,6 +95,8 @@ Inventory blindness engages the Map's [[tenets]] at a fundamental level.
 **[[tenets#^bidirectional-interaction|Bidirectional Interaction]]** connects through the Recognition Void. If what you recognise something *as* partly determines your physical response, and recognition itself is subject to inventory blindness, then the causal role of consciousness operates partly in a domain we cannot fully survey.
 
 ## Further Reading
+
+- [[project/architecture-vs-significance-two-tier-discount]] — the discipline that cites inventory blindness as a worked exhibit: its *existence* inherits the smaller framework-dependence discount, its *significance for Tenet 5* (materialist parsimony may reflect a blind spot) the larger one
 
 - [[mysterianism|cognitive closure]]
 - [[recognition-void]]

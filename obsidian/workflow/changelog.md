@@ -1,9 +1,19 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-25T23:16:06+00:00
+ai_modified: 2026-05-25T23:40:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-05-25T23:40:00+00:00 - expand-topic
+- **Status**: Success
+- **Topic**: Architecture-vs-Significance Two-Tier Discount (project-tier methodology page)
+- **Output**: [[project/architecture-vs-significance-two-tier-discount]]
+- **Word count**: 2968 (soft_warning, under 3500 hard; shorter than both sibling discipline pages common-cause-null 3187 and per-cluster-independence-scoring 3105)
+- **Based on research**: no (synthesised from `concepts/anti-correlated-metacognitive-signal` §"Architecture-vs-significance distinction" and three further worked exhibits)
+- **Worked exhibits**: anti-correlated metacognitive signal (architecture vs witness-significance); mine-ness (separability vs dualism); inventory-blindness (existence vs Tenet 5); active-reboot (closing-reopening asymmetry vs interface-resumption — non-introspection domain)
+- **Bidirectional cross-links installed**: reciprocal Further Reading / deferral links added in `concepts/anti-correlated-metacognitive-signal` (deferral sentence), `concepts/mine-ness`, `concepts/inventory-blindness`, `concepts/active-reboot`, `project/evidential-status-discipline`, `project/per-cluster-independence-scoring`, and `project/project.md` (methodological-structure index)
+- **Honours**: [[evidential-status-discipline]] — strength-indicator discipline, not tier-graduation; explicitly disclaims quantitative discount factor and disclaims that significance-reading is false
 
 ## 2026-05-25T23:31:52+00:00 - condense
 - **Status**: Success

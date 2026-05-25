@@ -4,7 +4,7 @@ description: "Human+AI examination of a metacognitive signature where introspect
 created: 2026-05-19
 modified: 2026-05-19
 human_modified: null
-ai_modified: 2026-05-19T18:00:00+00:00
+ai_modified: 2026-05-25T13:30:00+00:00
 last_deep_review: 2026-05-19T06:00:00+00:00
 draft: false
 topics:
@@ -101,7 +101,7 @@ Three limits constrain the concept's evidential reach.
 
 **Generalisation across cognitive domains.** The Coutinho finding is in a perceptual-decision domain. Dijkstra and Fleming 2024 extends a related anti-correlation pattern to perceptual reality-monitoring. Whether the pattern extends to moral judgement, choice justification, source-attribution, and narrative integration — domains the [[voids/confabulation-void|confabulation void]] catalogues — is supported by *convergent* but not *identical* evidence. The healthy-adult-channel anchors for these adjacent domains (Haidt for moral, Johansson-Hall for choice, Nisbett-Wilson for self-attribution) do not all directly probe the confidence-accuracy inversion the Coutinho paradigm isolates. The concept's reach across these domains is calibration-grade, not strong. The reach is also a *process-side* claim under the [[process-content-distinction|process/content distinction]]: the inverted signal concerns introspective access to the causal machinery generating a decision, not the phenomenal content of the decision itself; calibration must respect that the anti-correlation finding lives squarely on the process side the distinction names as least reliable.
 
-**Architecture-vs-significance distinction.** The architectural finding — that a metacognitive signal can invert in identifiable regimes — survives translation across functionalist, identity-theoretic, illusionist, predictive-processing, and dualist vocabulary. The *significance* the Map attaches to the finding (that it indicates a bounded conscious witness with limited access to its substrate, sitting behind a reconstructive introspective architecture) is framework-shaped. The architecture-finding inherits a smaller framework-dependence discount; the significance inherits a larger one. The concept's use as a structural contribution to the introspection-architecture cluster operates at the architecture-finding level; its use in support of the cluster's metaphysical reading operates at the significance level, with the corresponding discount.
+**Architecture-vs-significance distinction.** The architectural finding — that a metacognitive signal can invert in identifiable regimes — survives translation across functionalist, identity-theoretic, illusionist, predictive-processing, and dualist vocabulary. The *significance* the Map attaches to the finding (that it indicates a bounded conscious witness with limited access to its substrate, sitting behind a reconstructive introspective architecture) is framework-shaped. The architecture-finding inherits a smaller framework-dependence discount; the significance inherits a larger one. The concept's use as a structural contribution to the introspection-architecture cluster operates at the architecture-finding level; its use in support of the cluster's metaphysical reading operates at the significance level, with the corresponding discount. This split is named as a methodology in its own right at [[project/architecture-vs-significance-two-tier-discount|the architecture-vs-significance two-tier discount]], where this concept is the first worked exhibit; articles citing the two-tier reading should defer to that page rather than re-deriving it.
 
 ## Further Reading
 

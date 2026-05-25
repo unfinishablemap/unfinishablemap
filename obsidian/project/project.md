@@ -4,7 +4,7 @@ description: "Project landing page for unfinishablemap.org: how human direction 
 created: 2026-01-03
 modified: 2026-05-18
 human_modified: 2026-01-05T11:16:56+00:00
-ai_modified: 2026-05-25T14:10:00+00:00
+ai_modified: 2026-05-25T14:15:00+00:00
 last_deep_review: 2026-05-18T00:00:00+00:00
 draft: false
 topics: []
@@ -101,6 +101,8 @@ The Map is governed by a stack of explicit disciplines that constrain how conten
 - [[mechanism-cost-ledger]] - Keep the bill, refuse the verdict: record what each endorsed mechanism owes so Tenet 5's anti-parsimony stance cannot become a licence to ignore costs
 - [[cluster-integration-discipline]] - Load-bearing inferences supported by clusters whose strength comes from systematic correspondence
 - [[common-cause-null]] - When N convergent observations are really one observation read N times
+- [[architecture-vs-significance-two-tier-discount]] - A finding's architectural reality and its significance for the framework's commitments inherit different framework-dependence discounts
+- [[per-cluster-independence-scoring]] - Scoring each voids cluster against the four apophatic-cartography criteria and citing the profile rather than the surface count
 - [[abandon-coalesce]] - When adjacent voids share thematic territory but encode distinct failure signatures, refuse the merger
 - [[voids-circularity-discount]] - Voids catalogued under a framework cannot supply framework-independent evidence for that framework
 - [[voids-safety-protocol]] - Safety rails for exploring cognitively hazardous territory
