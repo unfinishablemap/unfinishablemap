@@ -1,9 +1,22 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-25T13:06:51+00:00
+ai_modified: 2026-05-25T13:11:51+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-05-25T13:11:51+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[topics/machine-consciousness]]
+- **Task**: Outer-review 2026-05-22 ChatGPT §2.F / §4 Tenet 4 — MWI-checklist parent task, sub-pass 4 (after free-will, moral-responsibility, agent-causation). §2.F names machine-consciousness explicitly: the uploading/haecceity ↔ No-MWI connection. Applied the MWI-Specific Review Checklist (incl. identity-and-agency prong) from [[project/evidential-status-discipline]].
+- **Changes**:
+  - Rewrote the "Haecceity Problem" No-Many-Worlds connection (~line 103): was a bare "the Map insists on facts about which observer you are; without haecceity the question has no answer." Now distinguishes the branch-local data-restatement (a perfect emulation / a decohered Everettian branch both yield a subject with determinate, indexically owned history and pass every empirical test) from the load-bearing objection (a branch-copy that reports being you is not you — counterfactual exclusion, which copies and parallel branches cannot supply). Cites the MWI checklist and routes the disagreement to the framework-boundary register rather than a phenomenological knock-down.
+  - Rewrote the "Relation to Site Perspective" No-Many-Worlds paragraph: makes the cross-cluster personhood-and-responsibility role explicit ("No Many Worlds is doing personhood-and-responsibility work as much as quantum-foundational work, and recurs across the upload, death, selection, and agency clusters; agency, desert, and survival of a unique self all require counterfactual exclusion"). Concedes MWI's branch-local restatement of both pictures; rests rejection on what MWI does to indexical identity, actuality, and selection — matching the register established in free-will, moral-responsibility, agent-causation.
+  - Length-offset: tightened the one-way-consciousness paragraph, the genuine-uncertainty closing, the ethical-implications restatements, and the Chalmers organizational-invariance exchange. Net +~210 words (3621→~3830); MWI additions load-bearing and explicitly authorized by the task.
+  - Added [[evidential-status-discipline]] to related_articles (now cited in body).
+- **Engagement classification (editor-internal)**: MWI engagement is Mode Three on the phenomenological/empirical axis (framework-boundary marking — the article explicitly concedes the Everettian branch-local restatement and does not claim in-framework refutation), resting the actual rejection on an in-framework identity argument (counterfactual exclusion / indexical ownership). No forbidden editor-vocabulary in prose; "branch-local restatement" used per writing-style-approved phrasing.
+- **Parent task status**: LEFT OPEN. Done so far: free-will (1), moral-responsibility (2), agent-causation (3) + identity-and-agency prong on the checklist, machine-consciousness (4). Remaining candidate downstream articles flagged by §2.F's cross-cluster scope: the death cluster, and forward-in-time-selection ("MWI dissolves the need for selection because all alternatives occur"). Next fork should audit those for the same empirical-framing failure mode.
+- **Published**: yes
 
 ## 2026-05-25T13:06:51+00:00 - refine-draft
 - **Status**: Success

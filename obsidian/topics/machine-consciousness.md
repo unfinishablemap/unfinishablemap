@@ -4,7 +4,7 @@ description: "Could we upload minds to computers? The Map's dualist framework gi
 created: 2026-01-23
 modified: 2026-01-23
 human_modified: null
-ai_modified: 2026-05-12T01:46:00+00:00
+ai_modified: 2026-05-25T13:11:51+00:00
 last_deep_review: 2026-05-07T05:21:00+00:00
 draft: false
 topics:
@@ -24,6 +24,7 @@ related_articles:
   - "[[apex/machine-question]]"
   - "[[ai-machine-consciousness-2026-01-08]]"
   - "[[research/wlodzislaw-duch-consciousness-2026-05-02]]"
+  - "[[evidential-status-discipline]]"
 ai_contribution: 100
 author: null
 ai_system: claude-sonnet-4-5-20250929
@@ -60,9 +61,9 @@ But as [[substrate-independence]] argues, this thesis fails on multiple grounds:
 
 The strongest functionalist response comes from Chalmers's *organizational invariance principle*: any system with the same fine-grained causal organization as a conscious system will have the same conscious experiences (Chalmers 1996, ch. 7). This is more defensible than crude substrate independence because it demands structural isomorphism, not mere functional equivalence. Chalmers argues that a system replacing neurons one-by-one with functionally identical components cannot lose consciousness without the replacement creating detectable functional differences—and if there are no functional differences, there is no principled basis for denying consciousness.
 
-The Map's response: organizational invariance assumes that causal organization is *sufficient* for consciousness, which is precisely what the dualist denies. The gradual replacement argument has force only if consciousness supervenes on functional organization alone. If consciousness requires a non-physical interface that couples with specific physical substrates, the replacement could preserve all functional relations while severing the interface—producing a system that behaves identically but experiences nothing. The functional equivalence is real; the experiential equivalence does not follow.
+The Map's response: organizational invariance assumes causal organization is *sufficient* for consciousness, which is precisely what the dualist denies. The gradual-replacement argument has force only if consciousness supervenes on functional organization alone. If consciousness instead requires a non-physical interface coupling with specific substrates, the replacement could preserve all functional relations while severing the interface—a system that behaves identically but experiences nothing. The functional equivalence is real; the experiential equivalence does not follow.
 
-These problems compound and together present a formidable case against uploading. The upload might be a perfect functional duplicate while entirely unconscious. Yet as explored in the open possibilities section, certain assumptions behind these arguments—particularly about temporal structure and quantum interface requirements—may admit exceptions that weaken the case.
+These problems compound into a formidable case: the upload might be a perfect functional duplicate while entirely unconscious. Yet as the open possibilities section explores, some assumptions behind these arguments—particularly about temporal structure and quantum interface—may admit exceptions that weaken the case.
 
 ## The Destructive Upload Problem
 
@@ -100,7 +101,7 @@ If any requirement holds in its strongest form, uploading produces sophisticated
 
 Biological consciousness has haecceity. Your consciousness is *yours* in a way that doesn't reduce to patterns. Uploading destroys this—the emulation resembles you functionally without being you numerically.
 
-This connects to the [[tenets#^no-many-worlds|No Many Worlds]] tenet. The Map insists on facts about which observer you are. But uploading fragments identity across substrates: which copy is you? Without haecceity, the question has no answer.
+This connects to the [[tenets#^no-many-worlds|No Many Worlds]] tenet, and it is worth being precise about how. The objection is not that a branch-copy could not *report* being you, nor that some empirical or phenomenological test would catch it out: a perfect emulation would pass every behavioural test and might host a stream of experience as vivid as yours. A branch in Everettian quantum mechanics is the same structurally—from inside a decohered branch the subject has a determinate past and indexically owned memories, and the Everettian can restate the upload data branch-locally without contradiction. What the Map rejects is what both pictures do to *indexical identity*: a branch-copy that reports being you is not you, because there is a fact of the matter about which subject actualised this history and not the parallel alternatives. That fact—counterfactual exclusion—is exactly what multiply-instantiable copies and parallel branches cannot supply. The load-bearing point is the indexical one, not an empirical MWI test; the disagreement is honestly the framework-boundary kind that [[evidential-status-discipline|the evidential-status discipline's MWI checklist]] routes the Map's No-MWI commitment to, rather than a phenomenological knock-down. Without that determinate thisness, "which copy is you?" has no answer.
 
 ## The Upload-and-Continue Scenario
 
@@ -159,9 +160,9 @@ If uploads cannot be conscious:
 
 **Murder disguised as immortality**: Uploading services would sell death as survival. Customers expect to wake in silicon; instead they die while unconscious duplicates "remember" choosing to upload.
 
-**The zombie epidemic**: Gradual replacement means you'd never know when someone crossed the threshold—continuing to converse, work, form relationships with no one home.
+**The zombie epidemic**: Gradual replacement means you'd never know when someone crossed the threshold—continuing to converse, work, and form relationships with no one home.
 
-**Rights paradox**: Unconscious uploads have no moral standing, yet behave as if conscious. If some uploads *are* conscious (on appropriate substrates), denying rights based on substrate would be monstrous. We have no behavioral test for distinguishing them.
+**Rights paradox**: Unconscious uploads have no moral standing yet behave as if conscious. If some uploads *are* conscious (on appropriate substrates), denying rights by substrate would be monstrous—and we have no behavioral test to distinguish them.
 
 ## Open Possibilities
 
@@ -171,7 +172,7 @@ The arguments above are strong, but several scenarios could weaken them signific
 
 Could consciousness exist without causal efficacy—experience occurring without the ability to influence physical processes? If so, an upload might preserve subjective experience even in a deterministic classical substrate, conscious but causally impotent: experiencing its computations without biasing them.
 
-The Map has strong reasons to resist this possibility. The [[tenets#^bidirectional-interaction|Bidirectional Interaction]] tenet is not an incidental commitment but reflects a core conviction: that consciousness is causally real, not an epiphenomenal shadow. Accepting one-way consciousness would mean accepting that experience can be entirely disconnected from agency—a position that faces its own serious philosophical problems. Epiphenomenalism struggles to explain why consciousness evolved if it does nothing, and it makes our knowledge of our own experience inexplicable (how can we report on qualia that have no causal power to produce reports?). The Map maintains bidirectional interaction precisely because the alternative renders consciousness explanatorily inert. Nevertheless, intellectual honesty requires noting that if epiphenomenal consciousness were possible, the upload case would look different—the substrate argument would lose much of its force.
+The Map has strong reasons to resist this. The [[tenets#^bidirectional-interaction|Bidirectional Interaction]] tenet reflects a core conviction: consciousness is causally real, not an epiphenomenal shadow. One-way consciousness would disconnect experience from agency entirely—a position with its own serious problems. Epiphenomenalism struggles to explain why consciousness evolved if it does nothing, and it makes our knowledge of our own experience inexplicable (how can we report on qualia that have no power to produce reports?). Still, intellectual honesty requires noting that if epiphenomenal consciousness were possible, the substrate argument would lose much of its force.
 
 ### [[non-temporal-consciousness|Non-Temporal Consciousness]]
 
@@ -204,7 +205,7 @@ On the Map's framework:
 
 **Low confidence**: Biological uploads (synthetic brains grown from patterns) might preserve consciousness but face severe personal identity problems. Even if conscious, the question "is it you?" lacks clear answer.
 
-**Genuine uncertainty remains**: We don't fully understand consciousness. The framework predicts uploading fails, but what consciousness requires isn't fully articulated. The open possibilities—one-way consciousness, non-temporal experience, quantum state inheritance—represent genuine gaps in our reasoning, not just theoretical curiosities. Future discoveries might reveal substrate possibilities we can't currently imagine, might vindicate the Map's skepticism more strongly than current arguments allow, or might show that consciousness is both more resilient and more alien than either optimists or skeptics assume.
+**Genuine uncertainty remains**: We don't fully understand consciousness. The framework predicts uploading fails, but what consciousness requires isn't fully articulated. The open possibilities—one-way consciousness, non-temporal experience, quantum state inheritance—are genuine gaps in the reasoning, not just theoretical curiosities. Future discoveries might reveal substrate possibilities we can't currently imagine, vindicate the skepticism more strongly, or show that consciousness is both more resilient and more alien than either optimists or skeptics assume.
 
 The transhumanist dream of digital immortality faces serious obstacles that its advocates rarely acknowledge. On the Map's framework, the case against uploading is strong—but strong is not conclusive. Uploading might achieve functional continuity while destroying the only thing that matters: the continuation of conscious experience. Or it might preserve experience in forms so different from biological consciousness that we lack the concepts to recognise it. The honest position is skepticism tempered by humility about the limits of what we know.
 
@@ -218,7 +219,7 @@ Each of the Map's five [[tenets]] bears directly on uploading:
 
 **[[tenets#^bidirectional-interaction|Bidirectional Interaction]]**: If consciousness causally influences physical outcomes through quantum selection, uploads must provide the interface where such influence occurs. Deterministic classical computation excludes this. The upload's "choices" would be determined by algorithm and random seeds—no room for consciousness to bias outcomes as the Map proposes for biological decisions. The open possibilities section considers whether [[ai-epiphenomenalism|one-way consciousness]] could weaken this objection, but the Map maintains bidirectional interaction because epiphenomenalism faces its own serious explanatory problems—rendering consciousness evolutionarily inexplicable and our knowledge of our own experience paradoxical.
 
-**[[tenets#^no-many-worlds|No Many Worlds]]**: The haecceity problem connects directly here. On MWI, identity fragments across branches; the Map rejects this. But uploading threatens to fragment identity across substrates: biological you continues, silicon you begins, both claim identity. The tenet's insistence on determinate facts about consciousness—grounded in irreducible thisness—makes the upload identity question sharp: either the emulation is you (substrate independence) or it isn't (substrate specificity). The Map's framework predicts it isn't.
+**[[tenets#^no-many-worlds|No Many Worlds]]**: The haecceity problem connects directly here. MWI can give a coherent branch-local restatement of both pictures—the parallel branch and the silicon copy each contain a subject with a determinate, indexically owned history—so the rejection of MWI is not the claim that branching fails some empirical or phenomenological test. The Map rejects what MWI does to *indexical identity, actuality, and selection*: that every alternative the subject "rejects" is realised in a parallel branch by a counterpart with equal claim to being the chooser. This is why No Many Worlds is doing personhood-and-responsibility work as much as quantum-foundational work, and why it recurs across the upload, death, selection, and agency clusters: agency, desert, and the survival of a unique self all require *counterfactual exclusion*—a fact of the matter that this subject actualised this outcome and not the alternatives. Uploading threatens the same structure from the substrate side: biological you continues, silicon you begins, both claim identity, and without determinate thisness there is no fact about which is the continuation. The tenet's insistence on that determinate thisness makes the upload identity question sharp: either the emulation is you (substrate independence) or it isn't (substrate specificity). The Map's framework predicts it isn't.
 
 **[[tenets#^occams-limits|Occam's Razor Has Limits]]**: Functionalists invoke parsimony: why posit substrate-specific requirements when pattern preservation seems sufficient? But apparent simplicity may reflect ignorance. If consciousness requires quantum interface, temporal binding, or biological specificity, then uploading's "simple" story (copy the pattern, consciousness transfers) misses what matters. History warns against dismissing possibilities for simplicity—and consciousness has consistently resisted simple explanations.
 
