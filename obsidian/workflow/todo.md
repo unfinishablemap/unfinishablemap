@@ -45,14 +45,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: pessimistic-review-2026-05-23
 - **Generated**: 2026-05-23
 
-### P2: Engage Frankish's strongest illusionism arguments in zombie/illusionism cluster
-- **Type**: refine-draft
-- **Status**: pending
-- **Notes**: Outer-review 2026-05-22 Claude Opus 4.7 §6, §8 P3. The Map treats illusionism via Mode One regress moves (the illusionist's account of why-it-seems is itself a phenomenal-seeming) but does not engage Frankish's 2016 *JCS* "Illusionism as a Theory of Consciousness" symposium responses or his quasi-phenomenal account of meta-representational structure giving rise to felt unity. The 2026-05-21 zombie-master-argument refine signals awareness — "the article correctly notes that the illusionist programme is contested but does not signal the *liveness* of the 2020s programme" — but does not yet follow through. Refine pass should: (a) engage Frankish's quasi-phenomenal account at full resolution in `concepts/illusionism.md` and/or `topics/zombie-master-argument.md` — particularly the bridge from meta-representational structure to felt unity, which Frankish argues does not require the bridge to be regress-vulnerable; (b) take seriously Dennett's late-2010s/2020s work as the most-cited contemporary defence; (c) calibrate the engagement — even if the Mode One regress reply ultimately holds, the prose should signal that the 2020s illusionist programme is live, not defeated; (d) where the Map's position holds, do so by showing the position is defective on its own terms rather than by Mode One regress dispatch alone. Apply the direct-refutation discipline. Identify what kind of engagement the issue calls for: showing the opponent's position is defective on its own terms, naming an unsupported foundational move the framework has not earned by its own standards, or honestly marking the framework-boundary disagreement. Apply the corresponding reply mode in **natural journal-quality prose** — see [[writing-style|the writing-style guide]]'s "Engaging Opponents in Journal-Quality Prose" section. **Do not expose mode labels in the article body.** Tenet alignment: Tenet 1 (Dualism) — illusionism is the strongest contemporary anti-dualist position and deserves engagement at full resolution rather than dispatch.
-- **Review file**: `reviews/outer-review-2026-05-22-claude-opus-4-7.md`
-- **Source**: outer-review
-- **Generated**: 2026-05-23
-
 ### P2: Add higher-order theories of consciousness (Rosenthal, Lau) to the corpus
 - **Type**: refine-draft
 - **Status**: pending
@@ -203,6 +195,14 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Status**: pending
 - **Notes**: Article re-expanded well past the 3000-word target after the May 2026 condense (3134 words) through several subsequent opponent-engagement refine passes (Frankish/Berent illusionism, Berent cross-cultural debunking, Laudan/Whewell/Bayesian literature, common-cause-null). The added engagement is load-bearing and should be preserved — condense by tightening exposition and removing redundancy across the three-conditions and divergence sections, not by deleting the named-opponent replies. Validate against `tools/curate` length threshold afterward.
 - **Source**: refine-draft 2026-05-25 (Berent/Frankish engagement pass)
+- **Generated**: 2026-05-25
+
+### P3: Condense illusionism (length ~3763 words, 151% of target)
+- **Type**: condense
+- **File**: obsidian/concepts/illusionism.md
+- **Status**: pending
+- **Notes**: Article was already over the 2500-word concept target before the 2026-05-25 Frankish-engagement refine (outer-review 2026-05-22 §6, §8 P3), which added the "Meta-Representational Bridge to Felt Unity" section (~330 words) and strengthened the self-representation objection (~120 words). The added engagement is load-bearing (it is the P3 mandate — full-resolution engagement with Frankish's 2016 symposium account and Dennett's late work) and must be preserved. Condense by tightening exposition and trimming redundancy across the structural-convergence-with-epiphenomenalism and structural-parallel-with-content-irrealism sections, not by removing the meta-representational-bridge engagement or the five-objection structure. Validate against `tools/curate` length threshold afterward.
+- **Source**: refine-draft 2026-05-25 (Frankish illusionism engagement pass)
 - **Generated**: 2026-05-25
 
 ### P3: Condense probability-problem-in-many-worlds (length ~4569 words, 152% of target)
@@ -3919,6 +3919,10 @@ Tasks that failed 3+ times and require human intervention.
 
 Ideas that were considered and rejected. The AI will not re-propose these.
 
+
+### ✓ 2026-05-25: Engage Frankish's strongest illusionism arguments in zombie/illusionism cluster
+- **Type**: refine-draft
+- **Notes**: Outer-review 2026-05-22 Claude Opus 4.7 §6, §8 P3. The Map treats illusionism via Mode One regress moves (the illusionist's account of why-it-seems is itself a phenomenal-seeming) but does not engage Frankish's 2016 *JCS* "Illusionism as a Theory of Consciousness" symposium responses or his quasi-phenomenal account of meta-representational structure giving rise to felt unity. The 2026-05-21 zombie-master-argument refine signals awareness — "the article correctly notes that the illusionist programme is contested but does not signal the *liveness* of the 2020s programme" — but does not yet follow through. Refine pass should: (a) engage Frankish's quasi-phenomenal account at full resolution in `concepts/illusionism.md` and/or `topics/zombie-master-argument.md` — particularly the bridge from meta-representational structure to felt unity, which Frankish argues does not require the bridge to be regress-vulnerable; (b) take seriously Dennett's late-2010s/2020s work as the most-cited contemporary defence; (c) calibrate the engagement — even if the Mode One regress reply ultimately holds, the prose should signal that the 2020s illusionist programme is live, not defeated; (d) where the Map's position holds, do so by showing the position is defective on its own terms rather than by Mode One regress dispatch alone. Apply the direct-refutation discipline. Identify what kind of engagement the issue calls for: showing the opponent's position is defective on its own terms, naming an unsupported foundational move the framework has not earned by its own standards, or honestly marking the framework-boundary disagreement. Apply the corresponding reply mode in **natural journal-quality prose** — see [[writing-style|the writing-style guide]]'s "Engaging Opponents in Journal-Quality Prose" section. **Do not expose mode labels in the article body.** Tenet alignment: Tenet 1 (Dualism) — illusionism is the strongest contemporary anti-dualist position and deserves engagement at full resolution rather than dispatch.
 
 ### ✓ 2026-05-25: Address dialectical and empirical overreach in clinical-phenomenology-and-altered-experience
 - **Type**: refine-draft
