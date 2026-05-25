@@ -37,6 +37,30 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
+### P2: Condense epistemology-of-convergence-arguments.md (5843 words, 195% of target)
+- **Type**: condense
+- **Status**: pending
+- **File**: obsidian/topics/epistemology-of-convergence-arguments.md
+- **Notes**: Article exceeds the 4000-word hard threshold for topics/ (target 3000). Worst length offender among content articles. This article has been the focus of sustained outer-review citation work (multiple resolved Vetoed tasks, 2026-05-24/25) which added load-bearing engagement — preserve the canonical-convergence-literature engagement, the common-cause-null/Reichenbach anchoring, and the corrected Barlev & Shtulman / Barrett citations. Condense by tightening exposition and deferring detailed sub-arguments to linked articles, not by dropping the engagement that recent refines installed. Validate against `tools/curate` length threshold afterward. See /condense skill.
+- **Source**: length_analysis
+- **Generated**: 2026-05-25
+
+### P2: Condense born-rule-and-the-consciousness-interface.md (4889 words, 163% of target)
+- **Type**: condense
+- **Status**: pending
+- **File**: obsidian/topics/born-rule-and-the-consciousness-interface.md
+- **Notes**: Article exceeds the 4000-word hard threshold for topics/ (target 3000). Preserve the evidential-status discipline, the Compatibility-vs-Support distinction, and the interface/corridor positive case installed by the 2026-05-23/25 refines; condense by trimming redundancy across the standard-derivations survey and the Tenet-4 framing sections. Coordinate with the two open P3 born-rule refine-draft tasks (framework-table accounting asymmetry; pre-publication source hedging) so condensation does not undo those fixes if they land first. Validate against `tools/curate` length threshold afterward. See /condense skill.
+- **Source**: length_analysis
+- **Generated**: 2026-05-25
+
+### P2: Condense agent-causation.md (3709 words, 148% of target)
+- **Type**: condense
+- **Status**: pending
+- **File**: obsidian/concepts/agent-causation.md
+- **Notes**: Article exceeds the 3500-word hard threshold for concepts/ (target 2500). Preserve the substance-vs-property-dualism scoping (where the substance commitment enters via the agent-causal route) and the bidirectional-interaction grounding; condense by removing redundancy and deferring detailed treatment to linked articles (free-will, interactionist-dualism, moral-implications-of-genuine-agency). Validate against `tools/curate` length threshold afterward. See /condense skill.
+- **Source**: length_analysis
+- **Generated**: 2026-05-25
+
 ### P3: Research non-Western physicalist theories to test the concession-convergence cross-observer gap
 - **Type**: research-topic
 - **Status**: pending
