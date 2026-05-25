@@ -4,7 +4,8 @@ description: "What makes one candidate outcome preferable to consciousness? A hu
 created: 2026-05-25
 modified: 2026-05-25
 human_modified:
-ai_modified: 2026-05-25T10:44:48+00:00
+ai_modified: 2026-05-25T11:24:36+00:00
+last_deep_review: 2026-05-25T11:24:36+00:00
 draft: false
 topics:
   - "[[forward-in-time-conscious-selection]]"
@@ -36,7 +37,7 @@ The Map's selection framework says consciousness chooses one outcome from a set 
 
 **(iii) Non-reducible preference.** The selection follows a phenomenal preference that admits no further analysis into structure or chance. If so, an unanalysable primitive sits at the framework's centre: consciousness selects *because of how the candidates feel to it*, and that felt valuation is not decomposable into computation or randomness.
 
-The trilemma is exhaustive in the relevant sense: a criterion is either reducible to structure (i), absent (ii), or an irreducible feature of phenomenal character (iii). The interesting work is in why the first two horns are unacceptable to the Map, and what accepting the third actually commits the framework to.
+The trilemma is exhaustive in the relevant sense: a criterion is either reducible to structure (i), absent (ii), or an irreducible feature of phenomenal character (iii). A mixed criterion — "partly reasons-driven, partly random" — inherits both defects rather than escaping them, the same way the [[trilemma-of-selection|agency-level trilemma]] shows its "no fourth option" mixture inherits the costs of both determinism and randomness. The interesting work is in why the first two horns are unacceptable to the Map, and what accepting the third actually commits the framework to.
 
 ## Why the First Two Horns Fail for the Map
 
@@ -73,7 +74,7 @@ The selection criterion is not an isolated puzzle. Once named, it becomes visibl
 
 - **Attention.** [[attention-as-causal-bridge|Attention as the causal bridge]] holds that consciousness selects among possibilities the brain generates, with attention as the channel. *Which* possibility attention privileges is the selection criterion under another name. The bandwidth bound on attention is the empirical face of the log₂(N) ceiling on the primitive.
 - **Valence.** [[valence|Valence]] and [[valence-and-conscious-selection|valence as the mechanism of conscious selection]] propose that the felt goodness or badness of states is what biases selection. This is the most direct candidate *content* for the primitive: the criterion is valence, and the Phenomenal Valuation Law would be the law of how valence ranks candidates.
-- **Evaluative character.** [[evaluative-phenomenal-character|Evaluative phenomenal character]] argues that experience carries intrinsic felt value — goodness, wrongness, beauty. If the selection criterion is irreducible, this is the family of phenomenal properties it is irreducible *to*.
+- **Evaluative character.** [[evaluative-phenomenal-character|Evaluative phenomenal character]] argues that experience carries intrinsic felt value — goodness, wrongness, beauty — and grounds [[phenomenal-value-realism|phenomenal value realism]]. If the selection criterion is irreducible, this is the family of phenomenal properties it is irreducible *to*.
 - **Moral status.** [[animal-consciousness|Animal consciousness]] ties valence to moral patienthood: a creature matters morally because states matter *to it*. The "mattering" that grounds moral status and the "mattering" that grounds selection are, on horn (iii), the same primitive seen from the ethical and the causal side.
 - **Mineness and memory.** [[mine-ness|Mine-ness]] and the memory cluster rely on the distinction between mere information and information *that matters to a subject in a particular way*. The selection criterion is what makes that distinction non-trivial: a subject selects, remembers, and owns according to a valuation the third-person record does not contain.
 
