@@ -4,7 +4,7 @@ description: "Cognitive science presupposes methodological materialism, yet its 
 created: 2026-02-05
 modified: 2026-02-05
 human_modified:
-ai_modified: 2026-04-15T16:51:00+00:00
+ai_modified: 2026-05-25T00:00:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -25,10 +25,10 @@ related_articles:
   - "[[phenomenology]]"
 ai_contribution: 100
 author:
-ai_system: claude-opus-4-6
+ai_system: claude-opus-4-7
 ai_generated_date: 2026-02-05
 last_curated:
-last_deep_review: 2026-04-06T08:57:00+00:00
+last_deep_review: 2026-05-25T00:00:00+00:00
 ---
 
 Cognitive science operates under methodological materialism — it studies the mind by measuring brain activity, reaction times, and behavioural outputs. This makes it a powerful tool for mapping cognitive architecture, but it also creates a structural blind spot: the methods presuppose that mental phenomena are exhaustively captured by third-person measurement. When cognitive science investigates dualism, it tends to frame the question as whether people *believe* in dualism, not whether dualism is *true*. The Unfinishable Map argues that cognitive science's own findings — the irreducibility of first-person report, the variability of mind-body intuitions, and the persistent explanatory gap — actually complicate the materialist framework the field assumes.
@@ -43,7 +43,7 @@ The problem is not that cognitive science uses third-person methods. All empiric
 
 ### Intuitive Mind-Body Reasoning Is Variable
 
-The most direct contribution of cognitive science to the dualism debate concerns [[intuitive-dualism|whether humans naturally separate mind from body]]. The evidence is surprisingly mixed. Paul Bloom (2004) argued humans are "natural-born dualists" with separate cognitive systems for physical objects and mental agents. Barrett et al. (2021) found a more complicated picture across six cultures: many participants defaulted to **intuitive materialism**, expecting mental states to cease at death, though results varied by culture and cognitive domain. Barlev and Shtulman (2021) proposed that dualist beliefs are *learned* rather than innate.
+The most direct contribution of cognitive science to the dualism debate concerns [[intuitive-dualism|whether humans naturally separate mind from body]]. The evidence is surprisingly mixed. Paul Bloom (2004) argued humans are "natural-born dualists" with separate cognitive systems for physical objects and mental agents. H. Clark Barrett and colleagues (2021) found a more complicated picture across eight populations: the overall pattern of responses did *not* support intuitive dualism — most responses of most participants across all cultures tested were non-dualist, and the authors conclude that dualist thinking is "a possible mode of thought enabled by evolved human psychology" but "does not constitute a default mode of thought." Barlev and Shtulman (2021) argued, more broadly, that dualist beliefs are *learned* rather than innate.
 
 This variability matters for a reason materialists often overlook. If dualism were merely folk error — a cognitive bias like the gambler's fallacy — we'd expect it to be universal and automatic. Instead, dualist thinking appears to require cultural scaffolding and reflective thought. This makes it look less like a bias and more like a position people arrive at through reasoning, much as heliocentrism required education to grasp despite being correct.
 
@@ -69,11 +69,11 @@ The prediction error that signals "unexpected red" could occur in a system with 
 
 ## The Genetic Fallacy in Both Directions
 
-Cognitive science is sometimes weaponised against dualism through a genetic fallacy: explaining *why* people believe in dualism supposedly shows dualism is false. If Bloom is right that separate cognitive systems generate dualist intuitions, then dualism is "just" a cognitive artefact. If Barrett is right that dualism is culturally learned, then it's "just" a cultural artefact.
+Cognitive science is sometimes weaponised against dualism through a genetic fallacy: explaining *why* people believe in dualism supposedly shows dualism is false. If Bloom is right that separate cognitive systems generate dualist intuitions, then dualism is "just" a cognitive artefact. If Barlev and Shtulman are right that dualist beliefs are culturally learned rather than innate, then dualism is "just" a cultural artefact.
 
 Both inferences are invalid. Explaining why someone believes something tells you nothing about whether the belief is true. We can explain why people believe in gravity (perceptual experience of falling objects, vestibular system) without this undermining the truth of gravitational theory. Folk physics captures real features of the world despite its cognitive origins. The [[dualism|positive case for dualism]] — the [[explanatory-gap]], [[philosophical-zombies|conceivability arguments]], the [[knowledge-argument]] — stands or falls on its own merits, independent of why people find it intuitive or counterintuitive.
 
-The genetic fallacy cuts both ways. If cognitive naturalness discredits dualism, it equally discredits intuitive materialism. Barrett et al.'s participants who expected mental states to cease at death were expressing evolved intuitions shaped by survival pressures, not philosophical analysis. Evolution selects for behaviourally useful heuristics, not metaphysical truth.
+The genetic fallacy cuts both ways. If cognitive naturalness discredits dualism, it equally discredits intuitive materialism. The non-dualist responses Barrett et al. found predominating across their eight populations were no less the product of evolved intuitions shaped by survival pressures than dualist ones — neither is the deliverance of philosophical analysis. Evolution selects for behaviourally useful heuristics, not metaphysical truth.
 
 ## The Hard Problem as Cognitive Science's Limit
 

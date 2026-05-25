@@ -1,9 +1,20 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-25T21:45:00+00:00
+ai_modified: 2026-05-25T22:10:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-05-25T22:10:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [[topics/cognitive-science-of-dualism]]
+- **Word count**: 2053 → 2104 (+51)
+- **Critical issues addressed**: 3 (all from the Barrett et al. 2021 source, surfaced by the web-verified 2026-05-23 Claude Opus 4.7 outer review of the sibling [[topics/epistemology-of-convergence-arguments]]): (1) factual error — "six cultures" corrected to "eight populations"; (2) mischaracterized finding — "many defaulted to intuitive materialism" rewritten to the verified headline "the overall pattern does not support intuitive dualism / most responses were non-dualist / dualist thinking does not constitute a default mode of thought"; (3) misattribution — "learned not innate" re-attributed from Barrett to Barlev and Shtulman, with the genetic-fallacy symmetry sentence tightened onto the non-dualist responses Barrett actually documented. Citation list confirmed already clean (correct H. C. Barrett ref; Barlev & Shtulman pages 1007-1021, no bad subtitle) — no fabrication/miscitation here, unlike the sibling.
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 (corrections only; the corrected non-dualist-default reading strengthens the article's own genetic-fallacy argument)
+- **Engagement classification** (editor-internal): physicalist behavioural-output rebuttal — Mode Two (uses the opponent's own commitment that reports are mere behavioural outputs); materialist vitalism parallel — Mode One / boundary-marking (function vs. experience on the materialist's own terms). Both in natural prose; no label leakage.
+- **Note**: not oscillation — the 2026-04-06 stability declaration was correct given prior evidence; these corrections were triggered by new external web-verified findings.
+- **Output**: [[reviews/deep-review-2026-05-25-cognitive-science-of-dualism]]
 
 ## 2026-05-25T21:45:48+00:00 - refine-draft
 - **Status**: Success
