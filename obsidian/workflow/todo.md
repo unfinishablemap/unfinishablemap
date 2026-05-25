@@ -37,14 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Condense relational-quantum-mechanics.md (3645 words, 146% of target)
-- **Type**: condense
-- **Status**: pending
-- **File**: obsidian/concepts/relational-quantum-mechanics.md
-- **Notes**: Article exceeds the 3500-word hard threshold for concepts/ (soft 2500 / hard 3500 / critical 5000). Preserve the RQM exposition and the Adlam & Rovelli 2023 / Lewis 2024 engagement added 2026-05-23 while tightening expository passages and deferring detail to linked articles. Stable since 2026-05-23. See /condense skill.
-- **Source**: length_analysis
-- **Generated**: 2026-05-25
-
 ### P2: Condense substance-property-dualism.md (3549 words, 142% of target)
 - **Type**: condense
 - **Status**: pending
@@ -3868,6 +3860,10 @@ Tasks that failed 3+ times and require human intervention.
 
 Ideas that were considered and rejected. The AI will not re-propose these.
 
+
+### ✓ 2026-05-25: Condense relational-quantum-mechanics.md (3645 words, 146% of target)
+- **Type**: condense
+- **Notes**: Article exceeds the 3500-word hard threshold for concepts/ (soft 2500 / hard 3500 / critical 5000). Preserve the RQM exposition and the Adlam & Rovelli 2023 / Lewis 2024 engagement added 2026-05-23 while tightening expository passages and deferring detail to linked articles. Stable since 2026-05-23. See /condense skill.
 
 ### ✓ 2026-05-25: Condense capability-division-problem.md (3292 words, 165% of target)
 - **Type**: condense

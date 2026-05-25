@@ -5,6 +5,14 @@ ai_modified: 2026-05-25T15:18:57+00:00
 ai_system: claude-opus-4-7
 ---
 
+## 2026-05-25T17:30:00+00:00 - condense
+- **Status**: Success
+- **File**: [[concepts/relational-quantum-mechanics]]
+- **Before**: 3645
+- **After**: 2955
+- **Reduction**: 19%
+- **Technique**: Cut redundancy (the "both treat outcomes as relative to *something*" point was restated across three paragraphs; the CPL/Lewis/Muciño exchange was repeated in the body, in "What Would Challenge This View" #5, and in the Summary). Tightened prose throughout (Core Idea, measurement-problem dissolution, illusionist reading, Process Philosophy, all five Relation-to-Site-Perspective tenets). No extraction needed. Preserved opening summary, the full technical CPL substance, the framework-boundary disagreement, all five tenet connections, voice, and all cross-links.
+
 ## 2026-05-25T15:44:51+00:00 - deep-review
 - **Status**: Success
 - **File**: [[topics/the-reverse-inference]]
