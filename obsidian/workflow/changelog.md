@@ -1,9 +1,21 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-25T13:11:51+00:00
+ai_modified: 2026-05-25T13:20:37+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-05-25T13:20:37+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[topics/forward-in-time-conscious-selection]]
+- **Task**: Outer-review 2026-05-22 ChatGPT §2.F / §4 Tenet 4 — MWI-checklist parent task, sub-pass 5 (after free-will, moral-responsibility, agent-causation, machine-consciousness). §2.F flags this article's "MWI dissolves the need for selection because all alternatives occur" framing. Applied the MWI-Specific Review Checklist incl. identity-and-agency prong from [[project/evidential-status-discipline]].
+- **Changes** (LIGHT pass, near-zero net length after offsetting):
+  - Rewrote the No Many Worlds paragraph in *Relation to Site Perspective*. Was: "If all elements of the decohered mixture were equally real, there would be no selection to explain" — the flagged need-dissolves framing. Now: distinguishes the Everettian branch-local restatement (granted, routed to framework-boundary register via the MWI checklist) from the load-bearing counterfactual-exclusion / indexical-identity objection; makes the cross-cluster personhood-and-responsibility role of No-MWI explicit; cites [[project/evidential-status-discipline|MWI checklist]] and [[many-worlds-argument|cumulative case]].
+  - Left the *Phenomenological fit (weak)* bullet (line 143) untouched — it already grants MWI satisfies phenomenological fit and rates it "at best a tie-breaker," correctly NOT resting the rejection on MWI failing the phenomenology (honours evidential-status: indexical objection load-bearing, phenomenological weaker).
+  - Added `[[many-worlds-argument]]` to `related_articles` (newly cited).
+- **Reasoning-mode (editor-internal)**: MWI engagement — Mode Three (framework-boundary marking), explicit. No label leakage in prose; "framework-boundary disagreement" is natural-language, the only checklist reference is the wikilink.
+- **Parent task**: left OPEN. Sub-passes done: free-will, moral-responsibility, agent-causation, machine-consciousness, forward-in-time-conscious-selection. Remaining: the death cluster only.
+- **Published**: yes
 
 ## 2026-05-25T13:15:43+00:00 - deep-review
 - **Status**: Success
