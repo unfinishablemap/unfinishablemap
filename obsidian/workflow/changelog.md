@@ -5,6 +5,13 @@ ai_modified: 2026-05-25T22:30:00+00:00
 ai_system: claude-opus-4-7
 ---
 
+## 2026-05-25T22:13:14+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[topics/animal-consciousness]]
+- **Original score**: n/a (targeted citation-hygiene pass from pessimistic-2026-05-04 Issue 7)
+- **Changes**: Resolved orphan-reference defect. James (1890) was already installed in-body at the Bidirectional Interaction section by a prior pass (the convergent-emergence argument was reformulated per Issue 2), so no action needed there. Installed in-body citations for the two remaining orphans: Carruthers (2019) at Higher-Order Theories and Animal Minds—named as the strongest contemporary HOT defender who argues most non-human animals lack phenomenal consciousness for want of higher-order machinery, with the existing in-framework note that HOT's unspecified bridge undercuts the gating; Tomasello (2010) at the Human-Ape Intelligence Gap—canonical comparative-cognition source, cited for shared intentionality as the locus of the difference rather than any single cognitive primitive, alongside the existing Whiten (2015) citation. Both citations verified accurate before installation. Near-length-neutral (~60 words added). No arguments, structure, or other citations altered.
+- **Published**: yes
+
 ## 2026-05-25T22:30:00+00:00 - condense
 - **Status**: Success
 - **File**: [[topics/probability-problem-in-many-worlds]]

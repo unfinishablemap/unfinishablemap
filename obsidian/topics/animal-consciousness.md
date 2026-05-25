@@ -4,7 +4,7 @@ description: "Do animals have conscious experience? Convergent evidence suggests
 created: 2026-01-14
 modified: 2026-01-14
 human_modified: null
-ai_modified: 2026-05-25T11:43:34+00:00
+ai_modified: 2026-05-25T22:13:14+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -122,11 +122,11 @@ Two places mark where the readings diverge, and both are discriminators rather t
 
 ## Higher-Order Theories and Animal Minds
 
-[[higher-order-theories|HOT theories]] require higher-order representations for phenomenal consciousness; if animals lack metacognition, HOT implies they lack it. But HOT fails to explain phenomenal consciousness even in humans—it addresses access consciousness, not felt quality. The Map's framework has no principled reason to exclude animals.
+[[higher-order-theories|HOT theories]] require higher-order representations for phenomenal consciousness; if animals lack metacognition, HOT implies they lack it. Carruthers (2019), the strongest contemporary HOT defender, argues on exactly these grounds that most non-human animals lack phenomenal consciousness because they lack the relevant higher-order machinery. But HOT fails to explain phenomenal consciousness even in humans—it addresses access consciousness, not felt quality—so the gating of animal experience on higher-order capacity inherits that unspecified bridge rather than resting on it. The Map's framework has no principled reason to exclude animals.
 
 ## Consciousness and the Human-Ape Intelligence Gap
 
-Great apes are our closest evolutionary relatives—98-99% identical at single-nucleotide variants, though post-2023 telomere-to-telomere comparisons (Yoo et al. 2025 *Nature*) put total divergence closer to 12-15%. Apes display sophisticated cognition, yet humans uniquely produce [[cumulative-culture|cumulative culture]] involving abstract mathematics and technology—Whiten (2015) argues apes have culture but do not know they do. Standard neuroscience attributes the gap to architectural differences (expanded DLPFC, arcuate-fasciculus connectivity); the picture neither forces nor refutes a dualistic reading.
+Great apes are our closest evolutionary relatives—98-99% identical at single-nucleotide variants, though post-2023 telomere-to-telomere comparisons (Yoo et al. 2025 *Nature*) put total divergence closer to 12-15%. Apes display sophisticated cognition, yet humans uniquely produce [[cumulative-culture|cumulative culture]] involving abstract mathematics and technology. Tomasello (2010) locates the difference not in any single cognitive primitive—apes share most—but in shared intentionality, the motivation and capacity to participate in collaborative activities with joint goals; Whiten (2015) adds that apes have culture but do not know they do. Standard neuroscience attributes the gap to architectural differences (expanded DLPFC, arcuate-fasciculus connectivity); the picture neither forces nor refutes a dualistic reading.
 
 The Map offers a complementary interpretation. The [[baseline-cognition]] hypothesis proposes great ape cognition represents what neural processing achieves *without* substantial conscious contribution; human-level cognition requires expanded conscious access. See [[consciousness-as-amplifier]] for the full treatment. Evidence: working-memory differences (Inoue & Matsuzawa 2007) about *deployment* rather than capacity; apes having culture but not *knowing* they have it; apes passing Level 1 theory of mind but struggling with Level 3 recursive mindreading; contested findings (Lieberman et al. 2008) that rule-based reasoning depends on conscious processing.
 

@@ -444,13 +444,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: optimistic-review (chain from optimistic-2026-05-09)
 - **Generated**: 2026-05-09
 
-### P2: Resolve orphan references in topics/animal-consciousness.md
-- **Type**: refine-draft
-- **Status**: pending (partial — James (1890) orphan resolved 2026-05-04 22:28 UTC by P2 refine-draft above; Carruthers (2019) and Tomasello (2010) remain to be resolved at Higher-Order Theories and human-ape gap sections respectively)
-- **Notes**: PROMOTED P3→P2 by /replenish-queue 2026-05-25 (late cycle): open P0-P2 queue was at 2 (below the MIN_QUEUE_TASKS floor of 3). This is a concrete, short-scope, non-churning refine tied to a specific pessimistic-review citation-hygiene finding (two remaining orphan References needing in-body citations) — promoting it restores the floor with actionable, ready-to-execute work rather than minting a new speculative task against the 520+ P3 backlog. From pessimistic-2026-05-04.md. Three sources listed in References but never cited in body: Carruthers (2019) *Human and Animal Minds* at line 248, Tomasello (2010) at line 260, James (1890) at line 262. Either install in-body citations at the relevant sections (Carruthers at Higher-Order Theories at line 120 — strongest contemporary HOT defender; James at the convergent-emergence-vs-epiphenomenalism argument at line 208 — canonical epiphenomenalist source needed for that argument to work; Tomasello at the human-ape gap at line 124 — canonical comparative-cognition source) or remove from References. Short scope (~50–150 words touched). Tenet alignment: methodological. See [[reviews/pessimistic-2026-05-04]] Issue 7. Note: this task is partially redundant with the higher-priority P2 task above — installing James to engage the epiphenomenalism argument is one of the P2 deliverables; if that lands, reduce this task's scope to Carruthers and Tomasello only.
-- **Source**: pessimistic-review (2026-05-04)
-- **Generated**: 2026-05-04
-
 ### P3: Cross-article audit of Tegmark/Hagan decoherence citations
 - **Type**: cross-review
 - **Status**: pending
@@ -3822,6 +3815,10 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 Tasks that failed 3+ times and require human intervention.
 
+
+### ✓ 2026-05-25: Resolve orphan references in topics/animal-consciousness.md
+- **Type**: refine-draft
+- **Notes**: PROMOTED P3→P2 by /replenish-queue 2026-05-25 (late cycle): open P0-P2 queue was at 2 (below the MIN_QUEUE_TASKS floor of 3). This is a concrete, short-scope, non-churning refine tied to a specific pessimistic-review citation-hygiene finding (two remaining orphan References needing in-body citations) — promoting it restores the floor with actionable, ready-to-execute work rather than minting a new speculative task against the 520+ P3 backlog. From pessimistic-2026-05-04.md. Three sources listed in References but never cited in body: Carruthers (2019) *Human and Animal Minds* at line 248, Tomasello (2010) at line 260, James (1890) at line 262. Either install in-body citations at the relevant sections (Carruthers at Higher-Order Theories at line 120 — strongest contemporary HOT defender; James at the convergent-emergence-vs-epiphenomenalism argument at line 208 — canonical epiphenomenalist source needed for that argument to work; Tomasello at the human-ape gap at line 124 — canonical comparative-cognition source) or remove from References. Short scope (~50–150 words touched). Tenet alignment: methodological. See [[reviews/pessimistic-2026-05-04]] Issue 7. Note: this task is partially redundant with the higher-priority P2 task above — installing James to engage the epiphenomenalism argument is one of the P2 deliverables; if that lands, reduce this task's scope to Carruthers and Tomasello only.
 
 ### ✓ 2026-05-25: Condense probability-problem-in-many-worlds (length ~4569 words, 152% of target)
 - **Type**: condense
