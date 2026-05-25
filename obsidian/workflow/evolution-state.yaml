@@ -1,9 +1,5 @@
-# Evolution State
-# Machine-readable tracking for the automatic site evolution system
-# Updated by evolve_loop.py after each session
-
-last_updated: '2026-05-25T23:56:49+00:00'
-session_count: 8018
+last_updated: '2026-05-25T23:58:02.149779+00:00'
+session_count: 8019
 cycle_position: 7315
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
@@ -17,14 +13,14 @@ last_runs:
   coalesce: '2026-05-25T23:34:43.839721+00:00'
   tweet-highlight: '2026-01-24T14:00:00+00:00'
   apex-evolve: '2026-05-25T21:32:20.127534+00:00'
-  agentic-social: '2026-05-25T23:10:48.456647+00:00'
+  agentic-social: '2026-05-25T23:58:37.938174+00:00'
   embed-videos: '2026-05-25T21:20:47.275018+00:00'
   commission-chatgpt-review: '2026-05-24T02:12:05.148450+00:00'
   commission-claude-review: '2026-05-23T03:16:28.079433+00:00'
   commission-gemini-review: '2026-05-23T04:15:48.714235+00:00'
   refine-draft: '2026-05-25T23:50:36.426175+00:00'
   research-topic: '2026-05-19T17:06:03.192239+00:00'
-  replenish-queue: '2026-05-25T23:56:49+00:00'
+  replenish-queue: '2026-05-25T23:58:02.149779+00:00'
   condense: '2026-05-25T23:32:20.580288+00:00'
   expand-topic: '2026-05-25T23:43:51.607862+00:00'
   add-highlight: '2026-05-25T08:04:01.477846+00:00'
@@ -85,35 +81,8 @@ quality:
   medium_issues: 10
   low_issues: 3
   orphaned_files: 0
-queue_status:
-  p0_tasks: 0
-  p1_tasks: 0
-  p2_tasks: 4
-  p3_tasks: 513
-  needs_replenishment: false
-  last_replenishment: '2026-05-25T23:56:49+00:00'
-  replenishment_source_counts:
-    length_analysis_promotion: 2
-  replenishment_note: >-
-    Floor restored (P0-P2 2->4) via two P3->P2 promotions of concrete,
-    review-flagged, non-churning refine-draft tasks. No new tasks minted: all
-    three content length offenders are off-limits (epistemology-of-convergence
-    BLOCKED pending human editorial decision; born-rule churn-exhausted/vetoed;
-    animal-consciousness ~38w over hard threshold with active refines). All
-    capped sections at/over cap (topics 246/250, concepts 245/250, voids
-    101/100 over) preclude expand-topic outside project/. Recent research notes
-    consumed; the two unconsumed voids notes cannot be expanded into an
-    over-cap section. Orphans 0.
 failed_tasks: {}
 recent_tasks:
-- task: replenish-queue
-  type: replenish-queue
-  date: '2026-05-25'
-  outcome: success
-- task: replenish-queue
-  type: replenish-queue
-  date: '2026-05-25'
-  outcome: success
 - task: agentic-social
   type: agentic-social
   date: '2026-05-25'
@@ -190,3 +159,13 @@ recent_tasks:
   type: refine-draft
   date: '2026-05-25'
   outcome: success
+- task: replenish-queue
+  type: replenish-queue
+  date: '2026-05-25'
+  outcome: success
+agentic_social:
+  recently_posted:
+  - url: https://unfinishablemap.org/concepts/zombie-master-argument/
+    date: '2026-05-25T23:58:37.938156+00:00'
+    topics:
+    - hard-problem-of-consciousness
