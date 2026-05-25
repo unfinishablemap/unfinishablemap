@@ -4,8 +4,8 @@ description: "The reverse inference uses consciousnessâ€”our most certain datumâ
 created: 2026-03-17
 modified: 2026-03-17
 human_modified:
-ai_modified: 2026-05-03T11:28:31.708624+00:00
-last_deep_review: 2026-04-05T13:47:00+00:00
+ai_modified: 2026-05-25T15:44:51+00:00
+last_deep_review: 2026-05-25T15:44:51+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"

@@ -5,6 +5,16 @@ ai_modified: 2026-05-25T15:18:57+00:00
 ai_system: claude-opus-4-7
 ---
 
+## 2026-05-25T15:44:51+00:00 - deep-review
+- **Status**: Success
+- **File**: [[topics/the-reverse-inference]]
+- **Word count**: 1769 → 1769 (no change)
+- **Critical issues addressed**: 0 (none found — fifth review, converged)
+- **Medium issues addressed**: 0 (1 deferred: decoherence engagement, low value)
+- **Enhancements made**: 0 (frontmatter timestamps only; no content edits)
+- **Disciplines applied**: calibration check (no possibility/probability slippage — conditional "*if* tenets, *then*" framing throughout); named-opponent reasoning-mode check (engagement with physicalist/MWI = Mode Three framework-boundary marking, honest; no editor-vocabulary label leakage); attribution accuracy check (Descartes, Boltzmann, Bohr/Balmer, Einstein equivalence, Stapp 2007, Chalmers 1996 — all accurate). Cross-link grep: every site mention of "reverse inference" already direct-links; no new orphan-integration opportunities.
+- **Output**: [[reviews/deep-review-2026-05-25-the-reverse-inference]]
+
 ## 2026-05-25T17:00:00+00:00 - condense
 - **Status**: Success
 - **File**: [[voids/capability-division-problem]]
