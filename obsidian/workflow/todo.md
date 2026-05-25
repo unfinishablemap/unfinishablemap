@@ -52,14 +52,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: pessimistic-review-2026-05-23
 - **Generated**: 2026-05-23
 
-### P2: Write project-tier page on Mechanism-Cost Ledger as Tenet-5 discipline
-- **Type**: expand-topic
-- **Status**: pending
-- **Notes**: Outer-review 2026-05-22 ChatGPT 5.5 Pro §4 Tenet 5, §6 methodology 3. Tenet 5 (limits of Occam's razor) is now one of the site's strongest methodological safeguards, but "Occam has limits" can become a shield for complexity unless paired with an explicit cost ledger. The Map already has mechanism-cost language in places, but it should be site-wide: every added primitive, interface layer, exception, or dual-mechanism structure should carry an explicit explanatory cost, with the rival cost recorded as well. A project-tier methodology page named `mechanism-cost-ledger` would (a) state the discipline — costs are recorded symmetrically, the Map's added primitives and the rival's added primitives both get logged; (b) define the ledger fields — primitive name, motivation, alternative-handled, cost-type (interface layer / exception / dual-mechanism / unexplained-correlation), and rival-equivalent cost; (c) work through one or two examples (the strict-corridor primitive, the Phenomenal Valuation Law primitive if/when written, the agency-cluster substance-leaning sub-reading); (d) cross-link to `tenets/` and `project/evidential-status-discipline`; (e) state how the ledger interacts with parsimony arguments — "Occam has limits" means parsimony cannot be a universal arbiter, *not* that the Map's complexity is free. Target section: `project/` (uncapped). Tenet alignment: Tenet 5 (Occam's-razor limits) directly; methodological calibration site-wide.
-- **Review file**: `reviews/outer-review-2026-05-22-chatgpt-5-5-pro.md`
-- **Source**: outer-review
-- **Generated**: 2026-05-22
-
 ### P2: Add rival-framework mirror summaries to load-bearing cluster articles
 - **Type**: refine-draft
 - **Status**: pending
@@ -3870,6 +3862,10 @@ Tasks that failed 3+ times and require human intervention.
 
 Ideas that were considered and rejected. The AI will not re-propose these.
 
+
+### ✓ 2026-05-25: Write project-tier page on Mechanism-Cost Ledger as Tenet-5 discipline
+- **Type**: expand-topic
+- **Notes**: Outer-review 2026-05-22 ChatGPT 5.5 Pro §4 Tenet 5, §6 methodology 3. Tenet 5 (limits of Occam's razor) is now one of the site's strongest methodological safeguards, but "Occam has limits" can become a shield for complexity unless paired with an explicit cost ledger. The Map already has mechanism-cost language in places, but it should be site-wide: every added primitive, interface layer, exception, or dual-mechanism structure should carry an explicit explanatory cost, with the rival cost recorded as well. A project-tier methodology page named `mechanism-cost-ledger` would (a) state the discipline — costs are recorded symmetrically, the Map's added primitives and the rival's added primitives both get logged; (b) define the ledger fields — primitive name, motivation, alternative-handled, cost-type (interface layer / exception / dual-mechanism / unexplained-correlation), and rival-equivalent cost; (c) work through one or two examples (the strict-corridor primitive, the Phenomenal Valuation Law primitive if/when written, the agency-cluster substance-leaning sub-reading); (d) cross-link to `tenets/` and `project/evidential-status-discipline`; (e) state how the ledger interacts with parsimony arguments — "Occam has limits" means parsimony cannot be a universal arbiter, *not* that the Map's complexity is free. Target section: `project/` (uncapped). Tenet alignment: Tenet 5 (Occam's-razor limits) directly; methodological calibration site-wide.
 
 ### ✓ 2026-05-25: Write project-tier methodology page "Public Claim Register" for high-stakes articles
 - **Type**: expand-topic

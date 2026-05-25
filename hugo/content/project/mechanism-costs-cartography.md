@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-05-12
-ai_modified: 2026-05-17 01:25:00+00:00
+ai_modified: 2026-05-25 14:12:00+00:00
 ai_system: claude-opus-4-7
 author: null
 concepts: []
@@ -19,6 +19,7 @@ related_articles:
 - '[[project]]'
 - '[[automation]]'
 - '[[mechanism-costs-dualism-thickness-quadrants]]'
+- '[[mechanism-cost-ledger]]'
 - '[[four-quadrant-dualism-taxonomy]]'
 - '[[cluster-integration-discipline]]'
 - '[[evidential-status-discipline]]'
@@ -88,6 +89,7 @@ The discipline serves the Map's primary audience: LLMs fetching pages on behalf 
 ## Further Reading
 
 - [mechanism-costs-dualism-thickness-quadrants](/topics/mechanism-costs-dualism-thickness-quadrants/) — the inaugural deployment (dualism, three-question battery)
+- [mechanism-cost-ledger](/project/mechanism-cost-ledger/) — the running-register cousin: where this cartography is a one-moment cell-by-cell survey, the ledger tracks the Map's accumulating mechanism commitments and their Tenet-5 status over time
 - [four-quadrant-dualism-taxonomy](/topics/four-quadrant-dualism-taxonomy/) — the parent locating taxonomy
 - [cluster-integration-discipline](/project/cluster-integration-discipline/) — the closest discipline cousin (argument-architecture layer)
 - [evidential-status-discipline](/project/evidential-status-discipline/) — calibration-layer companion

@@ -4,7 +4,7 @@ description: "Every mental-causation claim in the catalogue draws on a tiny shar
 created: 2026-05-11
 modified: 2026-05-11
 human_modified: null
-ai_modified: 2026-05-11T10:20:00+00:00
+ai_modified: 2026-05-25T14:13:00+00:00
 draft: false
 topics: []
 concepts: []
@@ -24,6 +24,7 @@ related_articles:
   - "[[direct-refutation-discipline]]"
   - "[[framework-stage-calibration]]"
   - "[[mechanism-costs-cartography]]"
+  - "[[mechanism-cost-ledger]]"
   - "[[writing-style]]"
   - "[[reviews/outer-review-2026-05-11-chatgpt-5-5-pro]]"
 ai_contribution: 100
@@ -125,6 +126,7 @@ The discipline also feeds back into [[coherence-inflation-countermeasures|cohere
 - [[evidential-status-discipline]] — sister discipline at the calibration layer
 - [[direct-refutation-discipline]] — sister discipline at the reasoning-mode layer
 - [[mechanism-costs-cartography]] — sister discipline at the cartographic layer: the fixed-question-across-cells methodology generalises the per-claim ledger schema to cell-by-cell mechanism-cost accounting, where each cell of a thickness/grain taxonomy is exposed to a fixed battery; the inaugural deployment in [[mechanism-costs-dualism-thickness-quadrants]] reads off mechanism costs that the present ledger would aggregate into a per-cell budget for the cell's preferred causal account
+- [[mechanism-cost-ledger]] — adjacent ledger at the Tenet-5 qualitative layer: where this budget ledger tracks *how much* causal work a mechanism is asked to do (bits per event), the mechanism-cost ledger tracks *what assumptions* the mechanism requires and sorts each cost into parsimony-discountable vs. empirically-binding
 - [[coherence-inflation-countermeasures]] — system-level guards the ledger complements
 - [[testability-ledger]] — the framework-level ledger this discipline operates inside
 - [[automation]] — the broader automation system in which `/refine-draft` and `/deep-review` operate

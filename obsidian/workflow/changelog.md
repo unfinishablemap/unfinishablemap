@@ -1,9 +1,17 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-25T11:00:00+00:00
+ai_modified: 2026-05-25T14:15:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-05-25T14:15:00+00:00 - expand-topic
+- **Status**: Success
+- **Topic**: Mechanism-Cost Ledger as Tenet-5 discipline (project-tier editorial discipline)
+- **Output**: [[project/mechanism-cost-ledger]]
+- **Word count**: 2673
+- **Based on research**: No (synthesised from existing disciplines: parsimony-epistemology, mechanism-costs-cartography, causal-budget-ledger, testability-ledger, evidential-status-discipline, and the Tenet 5 / tenet-dependency-matrix sections of tenets.md)
+- **Notes**: Project methodology page in the methodological-structure discipline family. Distinct from mechanism-costs-cartography (cell-by-cell survey) and causal-budget-ledger (Tenet-2 bits-per-event). Core move: separate cost-tracking (record what a mechanism owes — required by Tenet 5's honesty) from cost-weighting (treat the bill as a truth-verdict — forbidden by Tenet 5). Five-field editor-internal schema with the fifth field (Tenet-5 status: parsimony-discountable vs. survives-Tenet-5) as the hinge against the escape-hatch misuse. Three worked examples (post-decoherence selection, Orch OR, substance-leaning agent-causal subject). Two self-citations (mechanism-costs-cartography, causal-budget-ledger) + Tegmark/Hagan for the decoherence exposure. Added to project.md index under Methodological structure; reciprocal links added to mechanism-costs-cartography and causal-budget-ledger. Validates clean.
 
 ## 2026-05-25T13:30:00+00:00 - expand-topic
 - **Status**: Success
