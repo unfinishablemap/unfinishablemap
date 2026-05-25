@@ -194,12 +194,27 @@ def main() -> int:
         return 0
 
     # 6. Queue health → replenish-queue if below threshold.
+    #
+    # Guard against an infinite replenish loop: when every generative
+    # source is exhausted/blocked (all sections at cap → expand-topic
+    # refused, length offenders vetoed, no fresh research, zero orphans),
+    # replenish-queue can run yet add nothing, leaving p0_p2 below the
+    # threshold. Without the guard, step 6 would re-emit replenish every
+    # iteration forever and never reach the cycle slot (step 7), so the
+    # cycle never advances and the cycle-boundary anchoring audit — which
+    # would add reachable refine tasks and heal the queue — never fires.
+    # If the immediately-preceding task was already a replenish that did
+    # not lift the queue, fall through to the cycle slot instead: cycle
+    # slots (deep-review, pessimistic/optimistic-review, coalesce) do not
+    # require queue tasks, advance cycle_position, and eventually trigger
+    # the anchoring audit that replenishes reachable work organically.
     todo = load_todo()
     cap_skip: set[TaskType] | None = None
     if all_sections_at_cap(state.section_caps):
         cap_skip = {TaskType.EXPAND_TOPIC}
     p0_p2 = count_p0_p2_tasks(todo, skip_types=cap_skip)
-    if p0_p2 < MIN_QUEUE_TASKS:
+    last_task = state.recent_tasks[-1].task if state.recent_tasks else None
+    if p0_p2 < MIN_QUEUE_TASKS and last_task != "replenish-queue":
         _emit_invoke("replenish", "replenish-queue")
         return 0
 
