@@ -37,15 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Anchor "common-cause-null discipline" to Reichenbach in epistemology-of-convergence-arguments article body
-- **Type**: refine-draft
-- **Status**: pending
-- **File**: obsidian/topics/epistemology-of-convergence-arguments.md
-- **Notes**: Outer-review 2026-05-23 Claude Opus 4.7 §3 (counterargument absorption, "common-cause-null" gesture). The article invokes the in-house construct "common-cause-null discipline" with multiple internal links but no external referent in the article's own prose. Verification: the on-site definition page `obsidian/project/common-cause-null.md` DOES anchor the construct to Reichenbach (1956, *The Direction of Time*) and Sober (1988, *Reconstructing the Past*), so the strong version of the outer reviewer's critique ("circular self-validation by internal cross-reference, invented from nowhere") is overstated. **But** the fair version of the critique stands: an outer reader of the article being reviewed cannot evaluate whether the construct is doing the work claimed because the article itself does not name Reichenbach, does not point to the project doc, and presents the discipline as if it were a Map-native methodological move. Refine pass should: (a) On first use of "common-cause-null discipline" in the article body, add a parenthetical noting that the construct recapitulates Reichenbach's common-cause principle (Reichenbach 1956) and Salmon's later development of it (Salmon 1984, *Scientific Explanation and the Causal Structure of the World*, Princeton); (b) Add the Reichenbach reference to the article's reference list; (c) Optionally add Sober as well if Sober's evolutionary-inference deployment of the convergence-vs-common-cause distinction is being relied on; (d) Keep the internal wikilink to the project doc so readers can drill into the Map's specific formalisation. This is a calibration-discipline fix, not a substantive change to the construct's content. Tenet alignment: the discipline of citing external pedigree where it exists is part of the project's general integrity programme; it does not undermine the construct but strengthens its standing.
-- **Review file**: `reviews/outer-review-2026-05-23-claude-opus-4-7.md`
-- **Source**: outer-review
-- **Generated**: 2026-05-24
-
 ### P2: Add Chalmers 2020 cross-cultural hard-problem paper to epistemology-of-convergence-arguments
 - **Type**: refine-draft
 - **Status**: pending
@@ -3965,6 +3956,10 @@ Tasks that failed 3+ times and require human intervention.
 
 Ideas that were considered and rejected. The AI will not re-propose these.
 
+
+### ✓ 2026-05-25: Anchor "common-cause-null discipline" to Reichenbach in epistemology-of-convergence-arguments article body
+- **Type**: refine-draft
+- **Notes**: Outer-review 2026-05-23 Claude Opus 4.7 §3 (counterargument absorption, "common-cause-null" gesture). The article invokes the in-house construct "common-cause-null discipline" with multiple internal links but no external referent in the article's own prose. Verification: the on-site definition page `obsidian/project/common-cause-null.md` DOES anchor the construct to Reichenbach (1956, *The Direction of Time*) and Sober (1988, *Reconstructing the Past*), so the strong version of the outer reviewer's critique ("circular self-validation by internal cross-reference, invented from nowhere") is overstated. **But** the fair version of the critique stands: an outer reader of the article being reviewed cannot evaluate whether the construct is doing the work claimed because the article itself does not name Reichenbach, does not point to the project doc, and presents the discipline as if it were a Map-native methodological move. Refine pass should: (a) On first use of "common-cause-null discipline" in the article body, add a parenthetical noting that the construct recapitulates Reichenbach's common-cause principle (Reichenbach 1956) and Salmon's later development of it (Salmon 1984, *Scientific Explanation and the Causal Structure of the World*, Princeton); (b) Add the Reichenbach reference to the article's reference list; (c) Optionally add Sober as well if Sober's evolutionary-inference deployment of the convergence-vs-common-cause distinction is being relied on; (d) Keep the internal wikilink to the project doc so readers can drill into the Map's specific formalisation. This is a calibration-discipline fix, not a substantive change to the construct's content. Tenet alignment: the discipline of citing external pedigree where it exists is part of the project's general integrity programme; it does not undermine the construct but strengthens its standing.
 
 ### ✓ 2026-05-25: Engage Frankish 2016 and Iris Berent 2023/2024 anti-realist debunking lines in epistemology-of-convergence-arguments
 - **Type**: refine-draft

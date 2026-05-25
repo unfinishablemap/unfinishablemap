@@ -5,6 +5,19 @@ ai_modified: 2026-05-25 08:32:28+00:00
 ai_system: claude-opus-4-7
 ---
 
+## 2026-05-25T09:00:00+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[project/common-cause-null]]
+- **Original score**: n/a (curate.py review tool not present in repo; targeted calibration-discipline pass from outer-review 2026-05-23 Claude Opus 4.7 §3, todo P2 on the "common-cause-null gesture")
+- **Context**: The definition page already carried Reichenbach (1956) and Sober (1988) in its reference *list*, so the strong version of the outer-reviewer critique ("invented from nowhere / circular self-validation") was overstated — confirmed by the review's own verification note (line 172). But the page's *prose body* never named Reichenbach, Salmon, or Sober and introduced the *common-cause null* as "the standard objection" with no external anchor, so a reader could not see the construct's external pedigree. This is the same gap the 08:10/08:32 passes already closed in the sibling article [[topics/epistemology-of-convergence-arguments]]; this pass closes it on the definition page itself.
+- **Changes**:
+  - On first use of the construct in the opening summary, added an in-prose anchor: the null "regiments Reichenbach's common-cause principle (Reichenbach 1956), developed by Salmon into the causal account of scientific explanation (Salmon 1984) and applied by Sober to the convergence-versus-common-ancestry choice in evolutionary inference (Sober 1988)" — framed as application of an established principle, not a Map-native invention.
+  - Added the missing **Salmon (1984)**, *Scientific Explanation and the Causal Structure of the World*, Princeton — to the reference list (Reichenbach and Sober were already present); expanded all three annotations to state what each contributes; renumbered the list.
+  - Rewrote the References-section preamble, which previously asserted the discipline was "documented through the catalogue's review corpus and worked examples rather than external literature" — now distinguishes the classically-pedigreed null (Reichenbach/Salmon/Sober) from the Map-native *application apparatus* (cross-substrate test, despite/because split, specificity threshold).
+  - Kept all internal wikilinks intact so readers can still drill into the Map's specific formalisation (per task instruction (d)).
+- **Calibration note (editor-internal)**: this is a pedigree/attribution fix, not a substantive change to the construct's content. Citing external pedigree where it exists strengthens the construct's standing without altering its claims. No named-opponent engagement in this article, so no reasoning-mode classification applies. No altered-state symmetry flag.
+- **Published**: yes
+
 ## 2026-05-25T08:40:35+00:00 - deep-review
 - **Status**: Success (stability confirmed, no content changes)
 - **File**: [[topics/metaproblem-of-consciousness-under-dualism]]

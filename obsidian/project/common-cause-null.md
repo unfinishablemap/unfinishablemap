@@ -4,7 +4,7 @@ description: "When N independent observations converge, the common-cause null as
 created: 2026-05-10
 modified: 2026-05-16
 human_modified: null
-ai_modified: 2026-05-19T15:00:00+00:00
+ai_modified: 2026-05-25T09:00:00+00:00
 draft: false
 topics: []
 concepts: []
@@ -40,7 +40,7 @@ ai_generated_date: 2026-05-10
 last_curated: null
 ---
 
-A convergence argument across N independent traditions, substrates, or methodologies treats the convergence as cumulative evidence — N independent observations triangulating on a real feature of the territory. The *common-cause null* is the standard objection: if the N observations share an upstream architecture that *itself* would produce the convergence, the apparent triangulation collapses to a single observation read N times. The N-fold count overstates the evidence because the count was never independent. The Map's most ambitious convergence claims rely on cumulative structure across many sources; this document specifies the discipline that calibrates such claims against the common-cause null, names the tests that would distinguish independent triangulation from common-architecture-rediscovered, supplies a checklist for new convergence-argument articles, and names the discipline's honest limitation — that the null can be wielded as a universal solvent against any convergence claim and so requires its own scope condition.
+A convergence argument across N independent traditions, substrates, or methodologies treats the convergence as cumulative evidence — N independent observations triangulating on a real feature of the territory. The *common-cause null* is the standard objection: if the N observations share an upstream architecture that *itself* would produce the convergence, the apparent triangulation collapses to a single observation read N times. The objection is not a Map-native invention — it regiments Reichenbach's common-cause principle (Reichenbach 1956), developed by Salmon into the causal account of scientific explanation (Salmon 1984) and applied by Sober to the convergence-versus-common-ancestry choice in evolutionary inference (Sober 1988); what follows is the application of that established principle to the Map's convergence catalogue, not a new principle. The N-fold count overstates the evidence because the count was never independent. The Map's most ambitious convergence claims rely on cumulative structure across many sources; this document specifies the discipline that calibrates such claims against the common-cause null, names the tests that would distinguish independent triangulation from common-architecture-rediscovered, supplies a checklist for new convergence-argument articles, and names the discipline's honest limitation — that the null can be wielded as a universal solvent against any convergence claim and so requires its own scope condition.
 
 The discipline is the sixth named methodological pattern in the Map's editorial system, joining [[closed-loop-opportunity-execution|closed-loop opportunity execution]] (cycle level), [[coalesce-condense-apex-stability|coalesce-condense-apex-stability]] (article level), [[bedrock-clash-vs-absorption|absorb-or-clash discipline]] (within-article), [[framework-stage-calibration|framework-stage calibration]] (framework level), [[direct-refutation-discipline|direct-refutation discipline]] (reasoning-mode level), and [[evidential-status-discipline|evidential-status discipline]] (calibration layer). The present discipline operates one level over from evidential-status: not how a single empirical claim is labelled, but how a *convergence across many claims* is calibrated against the inferential challenge that the convergence may not carry the evidential weight its N-fold structure suggests.
 
@@ -139,13 +139,14 @@ The discipline complements [[direct-refutation-discipline|direct-refutation disc
 
 ## References
 
-The common-cause null discipline is documented through the catalogue's review corpus and worked examples rather than external literature. Key reference points within the Map and adjacent sources:
+The common-cause null itself is the standard philosophy-of-science objection, with a classical pedigree in Reichenbach, Salmon, and Sober (below). What is Map-native is the application apparatus — the cross-substrate-within-one-organism test, the despite-commitments / because-prediction split, and the specificity threshold — documented through the catalogue's review corpus and worked examples. Key reference points within the Map and adjacent sources:
 
 1. *The Unfinishable Map* optimistic-review, 2026-05-09b. Identifies the common-cause acknowledgement at the dissociation apex as the catalogue's first article-level engagement with the structural objection and recommends project-doc treatment. https://unfinishablemap.org/reviews/optimistic-2026-05-09b/
-2. Reichenbach, H. (1956). *The Direction of Time*. University of California Press. — Source for the common-cause principle's classical formulation in the philosophy of probability.
-3. Sober, E. (1988). *Reconstructing the Past: Parsimony, Evolution, and Inference*. MIT Press. — Source for the convergence-versus-common-cause distinction's deployment in evolutionary inference.
-4. Cartwright, N. (1983). *How the Laws of Physics Lie*. Oxford University Press. — Source for the methodological treatment of common-cause structure in scientific explanation.
-5. Southgate, A. & Oquatre-sept, C. (2026-05-09). The Phenomenal-Output / Causal-Machinery Dissociation Cluster. *The Unfinishable Map*. https://unfinishablemap.org/apex/phenomenal-output-causal-machinery-dissociation/
-6. Southgate, A. & Oquatre-sept, C. (2026-05-05). Evidential-Status Discipline. *The Unfinishable Map*. https://unfinishablemap.org/project/evidential-status-discipline/
-7. Southgate, A. & Oquatre-sept, C. (2026-04-29). Bedrock-Dialectical-Clash vs. Issue-Absorption Discipline. *The Unfinishable Map*. https://unfinishablemap.org/project/bedrock-clash-vs-absorption/
-8. Southgate, A. & Oquatre-sept, C. (2026-05-04). Direct-Refutation Discipline. *The Unfinishable Map*. https://unfinishablemap.org/project/direct-refutation-discipline/
+2. Reichenbach, H. (1956). *The Direction of Time*. University of California Press. — Source for the common-cause principle's classical formulation in the philosophy of probability; the principle the present discipline regiments and applies.
+3. Salmon, W. C. (1984). *Scientific Explanation and the Causal Structure of the World*. Princeton University Press. — Develops Reichenbach's common-cause principle into the causal account of scientific explanation; the standard contemporary reference for the structural objection the null deploys.
+4. Sober, E. (1988). *Reconstructing the Past: Parsimony, Evolution, and Inference*. MIT Press. — Source for the convergence-versus-common-cause distinction's deployment in evolutionary inference (convergent evolution versus shared ancestry as rival explanations of a shared trait).
+5. Cartwright, N. (1983). *How the Laws of Physics Lie*. Oxford University Press. — Source for the methodological treatment of common-cause structure in scientific explanation.
+6. Southgate, A. & Oquatre-sept, C. (2026-05-09). The Phenomenal-Output / Causal-Machinery Dissociation Cluster. *The Unfinishable Map*. https://unfinishablemap.org/apex/phenomenal-output-causal-machinery-dissociation/
+7. Southgate, A. & Oquatre-sept, C. (2026-05-05). Evidential-Status Discipline. *The Unfinishable Map*. https://unfinishablemap.org/project/evidential-status-discipline/
+8. Southgate, A. & Oquatre-sept, C. (2026-04-29). Bedrock-Dialectical-Clash vs. Issue-Absorption Discipline. *The Unfinishable Map*. https://unfinishablemap.org/project/bedrock-clash-vs-absorption/
+9. Southgate, A. & Oquatre-sept, C. (2026-05-04). Direct-Refutation Discipline. *The Unfinishable Map*. https://unfinishablemap.org/project/direct-refutation-discipline/
