@@ -4,7 +4,7 @@ description: "Consciousness cannot control most of its own states, and cannot ve
 created: 2026-02-25
 modified: 2026-05-11
 human_modified: null
-ai_modified: 2026-05-15T12:29:00+00:00
+ai_modified: 2026-05-25T23:16:06+00:00
 last_deep_review: 2026-05-11T00:05:00+00:00
 draft: false
 topics:
@@ -93,7 +93,7 @@ The passive face has internal mechanism, visible where consciousness cannot prev
 
 **Rumination** concerns loop persistence. Nolen-Hoeksema, Wisco, and Lyubomirsky (2008) frame rumination as repetitive negative-mood-content thinking maintained partly through the very efforts to escape it. Earworms lasting hours, rumination lasting days, and intrusive memories recurring for years share the same loop-sustains-itself pattern.
 
-The apophatic signature: detecting recurrence requires representing what one wants suppressed; noticing rumination supplies fresh ruminative content. The control surface and the surveillance surface are the same surface. This is the operational complement of [[thought-stream-void|the thought-stream void's]] handling of *generation*; recurrence concerns *re-presentation*. The recurrence faces *constrain* the dualist reading without *establishing* it—Inzlicht and Schmeichel's (2012) resource-redeployment account accommodates the same dissociations within physicalism. What recurrence adds is sharper grain on the passive limit: a typology of *how* the inability operates when consciousness tries.
+The apophatic signature: detecting recurrence requires representing what one wants suppressed; noticing rumination supplies fresh ruminative content. The control surface and the surveillance surface are the same surface. The same Wegner monitor logic recurs on the active side as the self-defeat of withholding judgment ([[suspension-void]] §"Action"): suspending judgment about X requires monitoring for the verdict one refrains from, so under load the monitor generates exactly that verdict. This is the operational complement of [[thought-stream-void|the thought-stream void's]] handling of *generation*; recurrence concerns *re-presentation*. The recurrence faces *constrain* the dualist reading without *establishing* it—Inzlicht and Schmeichel's (2012) resource-redeployment account accommodates the same dissociations within physicalism. What recurrence adds is sharper grain on the passive limit: a typology of *how* the inability operates when consciousness tries.
 
 ## The Verification Circularity
 

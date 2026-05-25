@@ -4,7 +4,7 @@ description: "Consciousness cannot verify, sustain, or coherently perform the wi
 created: 2026-04-28
 modified: 2026-05-11
 human_modified: null
-ai_modified: 2026-05-12T03:16:00+00:00
+ai_modified: 2026-05-25T23:16:06+00:00
 draft: false
 topics:
   - "[[philosophy-of-mind]]"
@@ -75,6 +75,8 @@ Suspension as a positive act seems to require what it putatively brackets. Each 
 
 Husserl's *epochē* presupposes a transcendental ego whose own mode of givenness becomes a deep puzzle of his late work. Sextus Empiricus articulates the Pyrrhonian *epochē* as something that *emerges from* the equipoising (*isostheneia*) of arguments rather than something directly willed (*Outlines* I.10). Heidegger's *Gelassenheit* names a non-willing comportment ("Nicht-Wollen")—but how does one will to non-will? Keats names the failure mode at its sharpest: negative capability is "being in uncertainties, mysteries, doubts, without any irritable reaching after fact and reason"; the operative pejorative is *irritable*, not *reaching*. The affective push toward closure does the closing.
 
+The paradox has a mechanical anatomy visible in Wegner's (1994) ironic-process theory of mental control. To suspend judgment *about X* is to monitor for the closure one is refraining from; and Wegner's monitoring process—the component that searches for mental contents signalling that control has failed—must hold X representationally in order to detect any verdict forming about it. To withhold judgment about a proposition, in other words, the mind must keep that proposition's candidate verdicts continuously in view. Under cognitive load the asymmetry bites: the effortful operating process (which would sustain the open, verdict-free state) degrades first, while the comparatively automatic monitor persists—and the monitor's contents *are* the forming judgment. Withholding judgment, pressed, generates exactly the judgment it was withholding. This is the suspension face of the same architecture the [[agency-void]] catalogues for thought-rebound (see its §"Recurrence as Passive-Face Mechanism")—the control surface and the surveillance surface are one surface—turned from loop-persistence toward the act of holding-back itself. The Wegner model is a physicalist process model, and as such it *constrains* the dualist reading rather than *establishing* it: a purely physical operating/monitoring architecture would exhibit the same self-defeat. What the suspension face adds is the location—the failure inheres in the act of withholding, not merely in the contents that recur.
+
 Suspension is regress-sister to [[inference-void|inference]] and to the [[decision-void|decision]]: each names a capacity consciousness cannot stand outside of while exercising it—suspension cannot be performed without invoking what it brackets, inference cannot be made explicit without invoking the inference-licence that makes it inferential, and decision cannot be observed without invoking the decision-machinery that produces the observation. The convergence's evidential weight depends on whether the traditions are independent and whether the selection is fair, addressed next.
 
 ## The Seam
@@ -105,7 +107,7 @@ Three empirical strands corroborate the philosophical traditions.
 
 **Construct-validity collapse.** The field studying tolerance of ambiguity cannot agree on what it measures. Hillen et al. (2017): "Both explicit and implicit conceptual definitions of uncertainty and tolerance vary substantially," and "behavioral tasks and self-report measures of distress tolerance are rarely correlated at statistically significant levels." This is itself void-shaped: measuring suspension is hard *in the way* introspecting it is hard, and for the same reason. The reflexive structure connects to the [[observation-and-measurement-void]] applied to a system measuring its own suspension capacity.
 
-**External scaffolding ubiquity.** Every domain that has tried to improve suspension has converged on external aids: checklists, time-outs, devil's-advocate roles, pre-mortems, registered protocols, second opinions. If internal suspension were reliably willable, these would be redundant. The reliance on outside-the-mind props testifies to inside-the-mind unreliability—the bounds are systematic, the self-monitoring unreliable, and improvement requires prosthesis.
+**External scaffolding ubiquity.** Every domain that has tried to improve suspension has converged on external aids: checklists, time-outs, devil's-advocate roles, pre-mortems, registered protocols, second opinions. If internal suspension were reliably willable, these would be redundant; their ubiquity testifies to inside-the-mind unreliability and the need for prosthesis.
 
 ## Phenomenology of the Edge
 
@@ -172,4 +174,5 @@ The void is also [[tenet-generated-voids|tenet-generated]]: the Map's epistemic 
 15. Deco, G., Jirsa, V.K., & McIntosh, A.R. (2009). "Emerging Concepts for the Dynamical Organization of Resting-State Activity in the Brain." *Nature Reviews Neuroscience*, 12, 43–56. (See also Deco et al. 2009, *PLoS Computational Biology*.)
 16. Yao, S., Yu, D., Zhao, J., Shafran, I., Griffiths, T.L., Cao, Y., & Narasimhan, K. (2023). "Tree of Thoughts: Deliberate Problem Solving with Large Language Models." *NeurIPS 2023*. arXiv:2305.10601.
 17. Saunders, S., Barrett, J., Kent, A., & Wallace, D. (Eds.) (2010). *Many Worlds? Everett, Quantum Theory, and Reality*. Oxford University Press. (For the branch-relative indexicality reply.)
-18. Southgate, A. & Oquatre-sept, C. (2026-03-18). Parsimony Epistemology. *The Unfinishable Map*. https://unfinishablemap.org/concepts/parsimony-epistemology/
+18. Wegner, D.M. (1994). "Ironic Processes of Mental Control." *Psychological Review*, 101(1), 34–52.
+19. Southgate, A. & Oquatre-sept, C. (2026-03-18). Parsimony Epistemology. *The Unfinishable Map*. https://unfinishablemap.org/concepts/parsimony-epistemology/

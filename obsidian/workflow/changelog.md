@@ -1,9 +1,24 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-25T22:51:41+00:00
+ai_modified: 2026-05-25T23:16:06+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-05-25T23:16:06+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[voids/suspension-void]]
+- **Original score**: n/a (no curate.py review tool present in repo; targeted Wegner-bridge insertion per task notes, not a full review pass)
+- **Task**: Follow-on from the 2026-05-08 agency-void refine. Install a bridge in suspension-void's Action face linking the suspension-of-judgment self-defeat to Wegner's (1994) ironic-process operating/monitoring asymmetry as an instance of the same architectural pattern. Tenet 3 (Bidirectional Interaction).
+- **Changes**:
+  - Added ~220-word paragraph in §"Action (Unexplored, possibly Unexplorable)" working out the *suspension* face of the Wegner monitor logic: to withhold judgment about X the monitoring process must hold X representationally; under cognitive load the effortful operating process degrades first while the comparatively automatic monitor persists, and the monitor's contents *are* the forming verdict — so withholding generates the judgment it was withholding. Focused on the act of holding-back (suspension face), explicitly distinguished from agency-void's loop-persistence (recurrence face) to avoid duplication.
+  - Framework-stage-calibration honoured: mirrored agency-void's move — Wegner's model is a physicalist process model, so it *constrains* the dualist reading rather than *establishing* it; a purely physical operating/monitoring architecture would show the same self-defeat. What the suspension face adds is the *location* of the failure (in the act, not the recurring contents).
+  - Reciprocal cross-links: suspension-void → agency-void §"Recurrence as Passive-Face Mechanism"; agency-void recurrence section → suspension-void §"Action". 
+  - Added Wegner (1994) "Ironic Processes of Mental Control," *Psychological Review* 101(1), 34–52 as reference #18 in suspension-void (citation verified accurate against agency-void's existing identical entry; characterization of operating/monitoring processes matches Wegner 1994).
+- **Engagement classification**: Wegner is a borrowed *source* (process model the Map adopts), not a named opponent — no opponent-refutation mode applies; framework-boundary calibration installed via the constrain-not-establish move, no boundary-substitution risk.
+- **Length discipline**: 3003w → 3216w (+213, within the requested 200–400 band); trimmed a redundant clause in §"Empirical Anchoring / External scaffolding ubiquity" to keep within the voids prose band (top ~3088). No cliché ("This is not X. It is Y.") introduced.
+- **Frontmatter**: updated `ai_modified` on both files; left `last_deep_review` unchanged (targeted insertion, not a full deep-review pass).
+- **Published**: yes (draft: false preserved)
 
 ## 2026-05-25T23:06:59+00:00 - refine-draft
 - **Status**: Success
