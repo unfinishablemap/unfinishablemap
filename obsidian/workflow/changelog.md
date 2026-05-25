@@ -1,9 +1,18 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-25T12:35:00+00:00
+ai_modified: 2026-05-25T13:42:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-05-25T13:42:00+00:00 - condense
+- **Status**: Success
+- **File**: [[topics/born-rule-and-the-consciousness-interface]]
+- **Before**: 6169 words (status: critical)
+- **After**: 4856 words (status: hard_warning)
+- **Reduction**: 21%
+- **Technique**: Eliminated structural redundancy — the compatibility-vs-support discipline was restated ~5 times (opening, its own section, "What This Does Not Establish", "What the Catalogue Is and Is Not Doing", and verbatim in all five tenet subsections). Consolidated to one canonical statement in "Compatibility vs. Support"; folded the near-duplicate closing "Catalogue Is and Is Not Doing" section to a single paragraph; trimmed the per-tenet repetition under "Relation to Site Perspective" with a one-line shared preamble. Tightened the bloated QBism paragraph, the experimental-programmes strands, and the Bohmian/GRW/transactional/categorical prose. Pruned Further Reading from 22 to 15 items (all removed links retained in related_articles frontmatter — no orphaning). Preserved: opening summary, framework table, corridor taxonomy, experimental catalogue, all tenet connections, References.
+- **Note**: Left in hard_warning rather than pushed to 3000-word target; the remaining length is the article's unique empirical taxonomy (corridor / outside-corridor / trumping families, active experimental programmes) and citation-dense References that constitute non-duplicated coverage central to Tenets 1-2. Quality > brevity per skill guidance.
 
 ## 2026-05-25T11:35:00+00:00 - refine-draft
 - **Status**: Success

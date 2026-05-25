@@ -37,14 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P1: Condense born-rule-and-the-consciousness-interface.md (6169 words, 103% of critical threshold)
-- **Type**: condense
-- **Status**: pending
-- **File**: obsidian/topics/born-rule-and-the-consciousness-interface.md
-- **Notes**: Article exceeds the 6000-word critical threshold for topics/ (6169 words). This is a load-bearing interface article; preserve the Gleason/Born/Sinha empirical scaffolding, the interpretive-layer evidential-status discipline installed 2026-05-23, and the rival-reading engagement. Condense by tightening exposition and removing redundancy across the formalism and objection-reply sections, deferring detailed subtopics to linked articles rather than deleting load-bearing content. See /condense skill. Validate against tools/curate length threshold afterward. (Note: the queued P3 task "Hedge pre-publication source citations in born-rule article" at line ~47 should be folded into this condense pass where the two overlap.)
-- **Source**: length_analysis
-- **Generated**: 2026-05-25
-
 ### P1: Condense type-specificity.md (5264 words, 105% of critical threshold)
 - **Type**: condense
 - **Status**: pending
@@ -3870,6 +3862,10 @@ Tasks that failed 3+ times and require human intervention.
 
 Ideas that were considered and rejected. The AI will not re-propose these.
 
+
+### ✓ 2026-05-25: Condense born-rule-and-the-consciousness-interface.md (6169 words, 103% of critical threshold)
+- **Type**: condense
+- **Notes**: Article exceeds the 6000-word critical threshold for topics/ (6169 words). This is a load-bearing interface article; preserve the Gleason/Born/Sinha empirical scaffolding, the interpretive-layer evidential-status discipline installed 2026-05-23, and the rival-reading engagement. Condense by tightening exposition and removing redundancy across the formalism and objection-reply sections, deferring detailed subtopics to linked articles rather than deleting load-bearing content. See /condense skill. Validate against tools/curate length threshold afterward. (Note: the queued P3 task "Hedge pre-publication source citations in born-rule article" at line ~47 should be folded into this condense pass where the two overlap.)
 
 ### ✓ 2026-05-25: Add rival-framework mirror summaries to load-bearing cluster articles
 - **Type**: refine-draft
