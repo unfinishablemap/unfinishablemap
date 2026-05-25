@@ -37,6 +37,20 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
+### P2: Condense introspection-architecture-independence-scoring.md (4481 words, 149% of target)
+- **Type**: condense
+- **File**: obsidian/topics/introspection-architecture-independence-scoring.md
+- **Notes**: Length analysis 2026-05-25 (via /replenish-queue) flags this topic article at 4481 words, over the topics hard-warning threshold (4000) and ~150% of the 3000-word target. The article grew when the cross-species and cross-tradition channel audits were coalesced into it as full sections (changelog 2026-05-25). This is the load-bearing worked exhibit for the per-cluster independence-scoring programme — preserve the scoring methodology, the non-flatness discipline, the honest "consistent with both methodology-works and methodology-rationalises" calibration, and the coalesced cross-species/cross-tradition exhibit sections. Condense by tightening exposition and removing redundancy introduced by the merge (the coalesced sections likely repeat framing from the parent); defer extended per-channel detail to the linked articles rather than deleting load-bearing content. Honour [[evidential-status-discipline]]. Validate against tools/curate length threshold afterward. See /condense skill.
+- **Source**: length_analysis
+- **Generated**: 2026-05-25
+
+### P2: Condense memory-system-vulnerability-hierarchies-as-interface-evidence.md (4091 words, 136% of target)
+- **Type**: condense
+- **File**: obsidian/topics/memory-system-vulnerability-hierarchies-as-interface-evidence.md
+- **Notes**: Length analysis 2026-05-25 (via /replenish-queue) flags this topic article at 4091 words, just over the topics hard-warning threshold (4000). This is a load-bearing interface-evidence article (the memory-channel vulnerability hierarchy is cited from the self-concealing-interface and seams-not-bulk-traces synthesis work); preserve the channel taxonomy, the graded-failure evidence, the rival-reading engagement, and the evidential-status discipline. Condense by tightening exposition and removing redundancy across the channel-by-channel sections, deferring detailed clinical case-walkthroughs to linked articles ([[clinical-dissociation-as-systematic-evidence]], [[neurological-dissociations-as-interface-architecture]]) rather than deleting load-bearing content. Honour [[evidential-status-discipline]]. Validate against tools/curate length threshold afterward. See /condense skill.
+- **Source**: length_analysis
+- **Generated**: 2026-05-25
+
 ### P3: Fix accounting asymmetry in born-rule framework table
 - **Type**: refine-draft
 - **Status**: pending
@@ -130,12 +144,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: optimistic-review (2026-05-19d)
 - **Generated**: 2026-05-19
 
-### P3: Condense epistemology-of-convergence-arguments (length ~6400 words, 213% of target)
+### P1: Condense epistemology-of-convergence-arguments (length 7112 words, 237% of target — exceeds 6000-word critical threshold)
 - **Type**: condense
 - **File**: obsidian/topics/epistemology-of-convergence-arguments.md
 - **Status**: pending
-- **Notes**: Article re-expanded well past the 3000-word target after the May 2026 condense (3134 words) through several subsequent opponent-engagement refine passes (Frankish/Berent illusionism, Berent cross-cultural debunking, Laudan/Whewell/Bayesian literature, common-cause-null). The added engagement is load-bearing and should be preserved — condense by tightening exposition and removing redundancy across the three-conditions and divergence sections, not by deleting the named-opponent replies. Validate against `tools/curate` length threshold afterward.
-- **Source**: refine-draft 2026-05-25 (Berent/Frankish engagement pass)
+- **Notes**: Priority upgraded P3→P1 by /replenish-queue 2026-05-25: the article has grown to 7112 words (from the ~6400 noted when this task was first queued) and now exceeds the 6000-word critical threshold for topics/, making it the single worst length offender in the published corpus. Article re-expanded well past the 3000-word target after the May 2026 condense (3134 words) through several subsequent opponent-engagement refine passes (Frankish/Berent illusionism, Berent cross-cultural debunking, Laudan/Whewell/Bayesian literature, common-cause-null). The added engagement is load-bearing and should be preserved — condense by tightening exposition and removing redundancy across the three-conditions and divergence sections, not by deleting the named-opponent replies. Validate against `tools/curate` length threshold afterward.
+- **Source**: length_analysis (re-prioritised; originally refine-draft 2026-05-25 Berent/Frankish engagement pass)
 - **Generated**: 2026-05-25
 
 ### P3: Condense illusionism (length ~3763 words, 151% of target)
