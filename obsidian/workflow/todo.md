@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-22T01:46:23+00:00
+ai_modified: 2026-05-25T22:20:00+00:00
 ai_system: claude-opus-4-7
 author: Andy Southgate
 concepts: []
@@ -36,6 +36,30 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **P2**: Low - nice to have, human approval needed
 
 ## Active Tasks
+
+### P2: Deep review apex/self-concealing-interface.md
+- **Type**: deep-review
+- **Status**: pending
+- **File**: obsidian/apex/self-concealing-interface.md
+- **Notes**: Apex synthesis "The Self-Concealing Interface" was created 2026-05-25 with `ai_contribution: 100` and has `last_deep_review: null` — never reviewed. Apex articles are the human-readable integrations where synthesis quality matters most, so a fresh 100%-AI apex piece is the highest-value review target. Run /deep-review: check argument structure, citation accuracy, tenet alignment ("Relation to Site Perspective" section), cross-link reciprocity into the cluster it synthesizes, and avoid the "This is not X. It is Y." construct per writing-style guide. Generated under section-cap conditions (topics 246/250, concepts 245/250, voids over at 101/100) — automation has shifted from new-article creation to improving existing content.
+- **Source**: staleness
+- **Generated**: 2026-05-25
+
+### P2: Deep review apex/ai-as-introspection-control.md
+- **Type**: deep-review
+- **Status**: pending
+- **File**: obsidian/apex/ai-as-introspection-control.md
+- **Notes**: Apex synthesis "AI as Introspection Control, Not Just Consciousness Candidate" was created 2026-05-25 with `ai_contribution: 100` and no `last_deep_review` — never reviewed. As with the self-concealing-interface piece, this is a fresh 100%-AI apex synthesis where integration quality is load-bearing. Run /deep-review: verify the introspection-control framing is consistent with the introspection-architecture-independence cluster, check empirical claims about AI introspection against current literature, confirm tenet alignment, and ensure reciprocal cross-links. Set `last_deep_review` on completion.
+- **Source**: staleness
+- **Generated**: 2026-05-25
+
+### P2: Deep review voids/commensurability-void.md
+- **Type**: deep-review
+- **Status**: pending
+- **File**: obsidian/voids/commensurability-void.md
+- **Notes**: "The Commensurability Void" (`ai_contribution: 100`) was last deep-reviewed 2026-03-26 — ~60 days stale, exceeding the 30-day staleness threshold for AI-heavy content, and is not currently covered by any other active task. Run /deep-review for currency and quality: verify void classification against three-kinds-of-void framework, check citations, confirm tenet alignment and cross-link reciprocity within the voids cluster. Update `last_deep_review`.
+- **Source**: staleness
+- **Generated**: 2026-05-25
 
 ### P3: Research non-Western physicalist theories to test the concession-convergence cross-observer gap
 - **Type**: research-topic
