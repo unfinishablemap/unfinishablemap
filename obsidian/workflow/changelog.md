@@ -1,9 +1,22 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-25T18:59:24+00:00
+ai_modified: 2026-05-25T20:30:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-05-25T20:30:00+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[topics/the-convergence-argument-for-dualism]]
+- **Source review**: [[reviews/pessimistic-2026-05-10]] Issues 4–6 (Medium). Issues 1–3 (High) were already addressed in prior revisions; this pass closed the three Medium issues.
+- **Issue 4 (phenomenal concept strategy dispatched too quickly)**: expanded the half-page response into a fuller engagement. Added the Loar (1990) recognitional vs. Papineau (2002) quotational vs. Balog (2012) constitutional distinction; argued the recognitional variant is weaker against the third-person-anchored binding prong (Cluster 3) while the quotational variant locates the residual gap at concept-constitution and so retains some traction there; named the strategy's failure as *contested rather than established* (Chalmers's master argument vs. defenders) and placed its assessment in the open posterior balance, not the converged conclusion; conceded the strategy has a ready answer to the cross-cultural-robustness burden.
+- **Issue 5 (cognitive-closure response overreaches to "favours dualism")**: replaced the unargued upgrade with "favours taking the irreducibility verdict seriously rather than waiting for closure to lift; the further question of whether irreducibility supports dualism over its rivals depends on additional considerations the Map develops elsewhere," with a forward link to the From-Irreducibility-to-Dualism section and an explicit note that mysterianism is a defensible alternative the Map's preference rests on bidirectional interaction to outweigh.
+- **Issue 6 (early-Chinese-philosophy independence claim weakly supported)**: chose the lower-risk honest-downgrade option over substituting an unsourced tradition. Now states Zhuangzi's butterfly dream sits closer to Madhyamaka emptiness (fluid self, permeable state-boundaries) than to irreducibility-recognition, and *li*/*qi* is physicalist-friendly on many readings; reframed to near-independence between Indian and Western traditions — strong enough against a parochially-Western-methodology explanation, not strong enough to count as a third independent confirmation; flagged Indigenous American / West African ontologies as candidate genuinely-independent lineages and pointed to the companion article for the open work.
+- **Engagement classifications** (editor-internal): phenomenal concept strategy / Dennett — Mode Two (the strategy is the opponent's strongest unified move; reply identifies that its purchase on the third-person binding prong is unearned and places the contest in the open posterior balance rather than claiming refutation). Mysterianism / McGinn — Mode Three (framework-boundary: the Map's preference for dualism over mysterian agnosticism is honestly routed through the separately-argued bidirectional-interaction tenet, not claimed as in-framework refutation).
+- **Length-awareness**: additions ~+570 words pushed the article from soft_warning into hard_warning (4,296). Offset by tightening the redundant "Coherence Across Routes" section (merged two overlapping paragraphs restating the two-layer/discriminator point; trimmed a discriminator parenthetical now fully covered by the per-rival section above) and trimming the Issue 4/6 prose. Net landed at 4,193 words — still ~193 over the 4,000 hard threshold. Did not cut further because remaining material is load-bearing argument, not redundancy. Follow-up condense task created.
+- **New references**: Loar (1990), Papineau (2002), Balog (2012) added in alphabetical order.
+- **Editor-vocabulary check**: clean — no mode labels, classification headers, or evidential-status callouts leaked into the body.
+- **Published**: yes
 
 ## 2026-05-25T19:11:15+00:00 - cross-review
 - **Status**: Success

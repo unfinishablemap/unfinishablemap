@@ -37,6 +37,14 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
+### P3: Condense the-convergence-argument-for-dualism (length ~4193 words, 140% of target, over 4000 hard threshold)
+- **Type**: condense
+- **File**: obsidian/topics/the-convergence-argument-for-dualism.md
+- **Status**: pending
+- **Notes**: The 2026-05-25 refine-draft pass (pessimistic-2026-05-10 Issues 4–6) added a ~470-word phenomenal-concept-strategy engagement (Loar/Papineau/Balog variants — load-bearing, Issue 4 mandate) plus the Issue 5 cognitive-closure correction and the Issue 6 cross-cultural downgrade. Offsetting trims to the "Coherence Across Routes" section recovered ~140 words but the article is still ~193 over the 4000-word topics hard threshold. Condense by tightening exposition and trimming residual overlap between "From Irreducibility to Dualism" (per-rival treatment) and "Coherence Across Routes Is Not Independent Routes" (which restates the two-layer/discriminator point) — these two sections still rehearse the convergence-earns-irreducibility / bidirectional-interaction-selects-dualism distinction more than once. Do NOT remove the phenomenal-concept-strategy engagement, the three-cluster Bayesian discipline, or the type-specificity vitalism disanalogy. Validate against `tools/curate` length threshold afterward.
+- **Source**: refine-draft 2026-05-25 (pessimistic-2026-05-10 Issues 4–6 pass)
+- **Generated**: 2026-05-25
+
 ### P3: Register predicted-by-rival asymmetry in introspection-architecture exhibit
 - **Type**: refine-draft
 - **Status**: pending
@@ -453,14 +461,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Status**: pending
 - **Notes**: Suggested by optimistic-2026-05-10 (Medium Priority). The convergence argument's line 100 names the methodology version of the common-cause objection ("what look like independent considerations are one observation read many times") and references [[concepts/concession-convergence]] and [[project/common-cause-null]] in its further-reading list. Cross-review should: (a) verify the concession-convergence article's catalogue of physicalist concessions is structurally connected to the convergence argument's *positive* convergence (concession-convergence shows physicalism retreating; convergence-from-arguments shows independent routes converging — together they form a two-sided argument); (b) verify the common-cause-null discipline is operating at the convergence article's three structural commitments — the Cluster 3 binding-problem prong is a successful common-cause-null result (the unity prong's third-person establishability defeats the methodology-version common-cause objection); the type-specificity disanalogy is similarly establishable from the structure of the explananda independently of the convergence argument's conclusion. Short scope (~200–400 words touched across two articles). Tenet alignment: methodological + [[tenets#^dualism|Dualism]]. See [[reviews/optimistic-2026-05-10]].
 - **Source**: optimistic-review
-- **Generated**: 2026-05-10
-
-### P2: Address medium-severity findings in topics/the-convergence-argument-for-dualism.md (PCS dispatch, cognitive-closure overreach, Zhuangzi citation)
-- **Type**: refine-draft
-- **Status**: pending
-- **Notes**: From pessimistic-2026-05-10 Issues 4–6 (Medium severity). Three smaller fixes after the three P2 refines above land. (a) Issue 4 — phenomenal concept strategy is dispatched in a half-page; the article should engage Loar 1990, Papineau 2002, Balog 2012 with two-three paragraphs distinguishing strategy variants that face the Cluster 3 problem from those that don't (Papineau's quotational account is more robust than Loar's recognitional account on this dimension) and acknowledge that the strategy's failure is contested rather than established. (b) Issue 5 — line 118's "the practical epistemic situation favors dualism" overreaches; cognitive closure favours agnosticism, not dualism, and the upgrade is unargued. Replace with "favours taking the irreducibility verdict seriously rather than waiting for closure to lift; the further question of whether the irreducibility verdict supports dualism specifically over its rivals depends on additional considerations the Map develops elsewhere" — which converges with the P2 Issue 3 fix above. (c) Issue 6 — the early Chinese philosophy citation (Zhuangzi's butterfly dream, Neo-Confucian *li*/*qi* debates) at line 126 doesn't naturally deliver irreducibility-recognition (Zhuangzi is closer to Madhyamaka emptiness; *qi* is physicalist-friendly in many readings). Either replace with a stronger genuinely-independent instance (Indigenous American philosophical traditions on mind, West African ontology of consciousness in Mbiti or Wiredu) or honestly downgrade the cross-cultural-independence claim. Estimated scope: ~250–400 words across three small edits. Tenet alignment: methodological. See [[reviews/pessimistic-2026-05-10]] Issues 4–6. Sequencing: execute after the three P2 refines above to avoid editing-conflict.
-- **Review file**: `reviews/pessimistic-2026-05-10.md`
-- **Source**: pessimistic-review
 - **Generated**: 2026-05-10
 
 ### P3: Write topic article on Reconsolidation as Selection-Window
@@ -3859,6 +3859,10 @@ Tasks that failed 3+ times and require human intervention.
 
 Ideas that were considered and rejected. The AI will not re-propose these.
 
+
+### ✓ 2026-05-25: Address medium-severity findings in topics/the-convergence-argument-for-dualism.md (PCS dispatch, cognitive-closure overreach, Zhuangzi citation)
+- **Type**: refine-draft
+- **Notes**: From pessimistic-2026-05-10 Issues 4–6 (Medium severity). Three smaller fixes after the three P2 refines above land. (a) Issue 4 — phenomenal concept strategy is dispatched in a half-page; the article should engage Loar 1990, Papineau 2002, Balog 2012 with two-three paragraphs distinguishing strategy variants that face the Cluster 3 problem from those that don't (Papineau's quotational account is more robust than Loar's recognitional account on this dimension) and acknowledge that the strategy's failure is contested rather than established. (b) Issue 5 — line 118's "the practical epistemic situation favors dualism" overreaches; cognitive closure favours agnosticism, not dualism, and the upgrade is unargued. Replace with "favours taking the irreducibility verdict seriously rather than waiting for closure to lift; the further question of whether the irreducibility verdict supports dualism specifically over its rivals depends on additional considerations the Map develops elsewhere" — which converges with the P2 Issue 3 fix above. (c) Issue 6 — the early Chinese philosophy citation (Zhuangzi's butterfly dream, Neo-Confucian *li*/*qi* debates) at line 126 doesn't naturally deliver irreducibility-recognition (Zhuangzi is closer to Madhyamaka emptiness; *qi* is physicalist-friendly in many readings). Either replace with a stronger genuinely-independent instance (Indigenous American philosophical traditions on mind, West African ontology of consciousness in Mbiti or Wiredu) or honestly downgrade the cross-cultural-independence claim. Estimated scope: ~250–400 words across three small edits. Tenet alignment: methodological. See [[reviews/pessimistic-2026-05-10]] Issues 4–6. Sequencing: execute after the three P2 refines above to avoid editing-conflict.
 
 ### ✓ 2026-05-25: Cross-link density refine across today's quartet (PVR ↔ IIT ↔ cognitive-distinctiveness ↔ quantum-biology)
 - **Type**: cross-review
