@@ -5,6 +5,13 @@ ai_modified: 2026-05-25 10:00:00+00:00
 ai_system: claude-opus-4-7
 ---
 
+## 2026-05-25T09:42:11+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[topics/curated-mind]]
+- **Trigger**: topic-concept anchoring audit 2026-05-25 (Audit Three). Failed checks: hedge_density (1.53/kw, below 60% of anchor [[phenomenal-transparency-opacity-spectrum]]'s 7.44/kw) and strong_assertions (1 verb where anchor uses 0).
+- **Changes**: Inherited the anchor concept's calibration discipline without weakening the central presupposition argument (which was already framed as inference-to-best-explanation, so the under-hedging was a genuine drift). (1) Replaced strong-assertion verb "demonstrates" → "illustrates" on the rubber-hand case. (2) Hedged the inferential leaps in the lead, convergence section, GWT section, and Relation-to-Site-Perspective, leaving empirical descriptions assertive. (3) Added explicit underdetermination acknowledgments inheriting the anchor's "neither reading is forced" discipline — the curation data are "compatible with both a dualist and a deflationary reading," the dualist prediction is "real but soft," and the workspace theorist's "experiential coherence = behavioural coherence redescribed" reply is named as something the argument must answer. Result: hedge density 1.53 → 5.02/kw (clears 4.47 threshold); strong-assertion verbs 1 → 0. `evaluate_anchoring` now returns no flags against any anchor.
+- **Published**: yes
+
 ## 2026-05-25T09:35:00+00:00 - tune-system
 - **Status**: Aborted (insufficient elapsed time — 6 days since last run, under 30-day cadence)
 - **Sessions analyzed**: 0
