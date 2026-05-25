@@ -1,9 +1,17 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-25T15:18:57+00:00
+ai_modified: 2026-05-25T18:00:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-05-25T18:00:00+00:00 - condense
+- **Status**: Success
+- **File**: [[concepts/substance-property-dualism]]
+- **Before**: 3549
+- **After**: 2627
+- **Reduction**: 26%
+- **Technique**: Cut heavy redundancy—the subject combination problem was stated four separate times (Contemporary Substance Dualism, Comparing the Views, Which Does the Map Hold, plus the panpsychism digression); the decoherence and witness-consciousness material was duplicated between its own section and Relation to Site Perspective; the "On parsimony" bullet duplicated the Occam tenet entry. Trimmed standard Cartesian/Leibniz background (linked instead), tightened the Russellian-monism/Pautz passage, merged Contemplative Evidence and Process Philosophy into one section, condensed the load-bearing agency-cluster scoping, and trimmed Further Reading from 13 to 7 entries. Preserved opening summary, the three illusionism responses, the three decoherence considerations, the agency-cluster load-bearing diagnostic, all five tenet connections, voice, and all body cross-links.
 
 ## 2026-05-25T17:30:00+00:00 - condense
 - **Status**: Success

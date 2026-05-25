@@ -37,14 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Condense substance-property-dualism.md (3549 words, 142% of target)
-- **Type**: condense
-- **Status**: pending
-- **File**: obsidian/concepts/substance-property-dualism.md
-- **Notes**: Article exceeds the 3500-word hard threshold for concepts/ (soft 2500 / hard 3500 / critical 5000). Preserve the substance-vs-property distinction and the Map's scoping commitments while removing redundancy. Stable since 2026-05-23. See /condense skill.
-- **Source**: length_analysis
-- **Generated**: 2026-05-25
-
 ### P3: Fix accounting asymmetry in born-rule framework table
 - **Type**: refine-draft
 - **Status**: pending
@@ -3860,6 +3852,10 @@ Tasks that failed 3+ times and require human intervention.
 
 Ideas that were considered and rejected. The AI will not re-propose these.
 
+
+### ✓ 2026-05-25: Condense substance-property-dualism.md (3549 words, 142% of target)
+- **Type**: condense
+- **Notes**: Article exceeds the 3500-word hard threshold for concepts/ (soft 2500 / hard 3500 / critical 5000). Preserve the substance-vs-property distinction and the Map's scoping commitments while removing redundancy. Stable since 2026-05-23. See /condense skill.
 
 ### ✓ 2026-05-25: Condense relational-quantum-mechanics.md (3645 words, 146% of target)
 - **Type**: condense
