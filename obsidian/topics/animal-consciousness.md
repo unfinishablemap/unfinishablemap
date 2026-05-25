@@ -4,7 +4,7 @@ description: "Do animals have conscious experience? Convergent evidence suggests
 created: 2026-01-14
 modified: 2026-01-14
 human_modified: null
-ai_modified: 2026-05-20T21:52:26+00:00
+ai_modified: 2026-05-25T11:43:34+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -44,13 +44,14 @@ related_articles:
   - "[[cetacean-and-corvid-consciousness]]"
   - "[[direct-refutation-discipline]]"
   - "[[evidential-status-discipline]]"
+  - "[[common-cause-null]]"
   - "[[topics/the-interface-problem]]"
   - "[[interface-efficacy-and-the-cognitive-gap]]"
 ai_contribution: 100
 author: null
 ai_system: claude-opus-4-7
 ai_generated_date: 2026-01-14
-last_curated: 2026-05-20T21:52:26+00:00
+last_curated: 2026-05-25T11:43:34+00:00
 last_deep_review: 2026-05-08T07:49:00+00:00
 embedded_videos:
   - id: DnI0-3Z9EQE
@@ -110,6 +111,14 @@ Wandrey & Halina (2025, *Philosophy Compass*) map the same circularity onto the 
 The [[problem-of-other-minds]] applies to both, but the inferential grounds differ. We share evolutionary history, limbic systems, sensory cortices, and pain pathways with animals; when a mammal exhibits pain behaviour, "this creature has subjective experience" explains it within evolutionary pressures and neural homologies. With AI, the analogy is purely behavioural—similar outputs through different mechanisms—and alternative explanations (pattern-matching, statistical correlation) cover the outputs without positing phenomenal consciousness. Homology supplies stronger inference grounds without raising evidential status above what markers deliver; the [[#the-standing-agnostic-challenge|Standing Agnostic Challenge]] applies to both. The [[ethics-of-possible-ai-consciousness|ethics of possible AI consciousness]] develops the moral implications.
 
 The 2025 COGITATE Consortium adversarial collaboration constrains available routes. Pre-registered head-to-head testing of IIT and Global Neuronal Workspace Theory (n=256, fMRI/MEG/iEEG) confirmed neither theory even on humans. Any inference routed through "global workspace, therefore conscious" or "high Φ, therefore conscious" inherits that weakened support. The Map's preferred framing routes through markers (Andrews/Birch/Sebo 2025), convergent evolution (Godfrey-Smith 2024), and the no-substrate-barrier from dualist commitment—not independent confirmations, since the no-substrate-barrier is metaphysical commitment and markers/convergent evolution are *coherent with* alternatives (illusionism, type-B physicalism). Their alignment raises coherence rather than evidential status; species-level verdicts remain "realistic possibility, contested" for the invertebrate frontier.
+
+## How a Sophisticated Rival Reads the Same Evidence
+
+The article assembles a specific body of evidence for animal consciousness: the marker method (Andrews, Birch & Sebo 2025), the Unlimited Associative Learning transition (Ginsburg & Jablonka 2019), valence-like persistent states in bees (Chittka et al. 2025), multiple independent evolutionary origins (Godfrey-Smith 2024), subcortical emotional systems (Panksepp), and the neural homologies that make the inference stronger for animals than for AI. A sophisticated rival need not dispute a single one of these findings to read the whole cluster differently. The most developed evidence-reading rival here is the **deflationary functionalist** reading that underwrites Gutfreund's standing agnostic challenge: every marker tracks a functional-cognitive capacity—nociceptive integration, flexible learning, valence-guided action selection, metacognitive monitoring—and the convergent presence of those capacities is evidence for sophisticated information-processing, not for phenomenal experience accompanying it. On this reading "this creature is conscious" and "this creature instantiates the consciousness-correlated functional profile" predict the same markers, because the markers were calibrated on the human case where the two travel together.
+
+On the deflationary reading the same evidence lands as follows. The marker convergence is real but inherits its meaning from the human calibration set, where consciousness and the functional profile are confounded; transferring the markers to a bee transfers the confound, not a resolution of it. UAL identifies the architecture that supports flexible open-ended learning—which is exactly what a functionalist expects to find at the behavioural transition, with or without an accompanying felt quality. The persistent affect-like states in attacked bumblebees are state-dependent biases in decision policy, which valence-as-functional-signal already predicts. Multiple independent evolutionary origins show that the *functional* solution to flexible valenced control is convergently useful, not that phenomenal experience independently re-arose. And the COGITATE null, which retired the simplest theory-driven routes, tells against IIT and Global Neuronal Workspace alike without telling for any positive consciousness attribution. The deflationary rival is, in short, genuinely compatible with almost everything the article's evidence directly establishes—which is why the article already concedes that markers identify *correlates*, that convergence raises coherence rather than evidential tier, and that the invertebrate verdicts stay at realistic possibility, contested.
+
+Two places mark where the readings diverge, and both are discriminators rather than settled refutations. The first runs *against* the deflationary rival when it tightens into full illusionism. An illusionist who says the bee generates no seeming-of-experience owes the same bridge owed in the human case: which structures generate the misrepresentation that there is something it is like, how, and why that machinery produces a *felt* seeming rather than an unfelt functional report—a foundational move the framework helps itself to without specifying. This is the cluster's live in-framework pressure point, and the [[#the-illusionist-challenge|illusionist challenge]] section presses it directly. The second runs *against* the Map. The homology argument and the no-substrate-barrier do not, by the framework's own admission, raise the case above what the markers deliver; the standing agnostic challenge applies to the Map's attribution exactly as it applies to the deflationary denial, because verifying the *presence* of phenomenal experience and verifying its *absence* are symmetric epistemic problems with the instruments the field has. Where the two readings genuinely part is not over any catalogued finding but over the prior: whether the convergent functional profile is best explained by accompanying experience (the Map, via the evolutionary case for mental causation and the no-anthropocentric-barrier commitment) or by functional sufficiency alone (the deflationary rival). Until an instrument exists that registers phenomenal presence independently of the functional markers—which the [[topics/the-interface-problem|interface problem]] catalogues as missing—the disagreement is closer to bedrock than the convergent marker evidence alone suggests: both readings absorb the established findings, and the case turns on a discriminator no current method supplies. Naming the rival reading here, locally, is what the [[evidential-status-discipline|evidential-status discipline]] requires of an article citing a convergent cluster; the [[common-cause-null|common-cause null]]'s caution against counting markers, UAL, valence behaviour, and convergent evolution as four independent confirmations—when a single functional kind is the candidate common cause of all four—applies in full.
 
 ## Higher-Order Theories and Animal Minds
 
@@ -200,6 +209,8 @@ Honest framing: (3)-(5) are inaccessible by the framework's own commitments, not
 - [[hard-problem-of-consciousness]] — Why the explanatory gap applies universally
 - [[ai-consciousness]] — Parallel questions about non-biological minds
 - [[higher-order-theories]] — Why HOT theories fail
+- [[evidential-status-discipline]] — Why convergent markers raise coherence, not evidential tier
+- [[common-cause-null]] — Why one functional kind underlying several markers blocks counting them as independent confirmations
 
 ### Apex Synthesis
 - [[minds-without-words]] — Integrated perspective on non-linguistic consciousness across species
