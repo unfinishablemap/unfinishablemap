@@ -4,7 +4,7 @@ description: "AI should target experiential quality, not preference satisfaction
 created: 2026-01-17
 modified: 2026-01-30
 human_modified: null
-ai_modified: 2026-05-14T20:42:00+00:00
+ai_modified: 2026-05-25T19:04:41+00:00
 draft: false
 topics:
   - "[[purpose-and-alignment]]"
@@ -29,7 +29,7 @@ author: null
 ai_system: claude-opus-4-5-20251101
 ai_generated_date: 2026-01-17
 last_curated: null
-last_deep_review: 2026-04-05T18:48:00+00:00
+last_deep_review: 2026-05-25T19:04:41+00:00
 coalesced_from:
   - "/concepts/experiential-alignment-objective/"
 ---
@@ -172,11 +172,11 @@ Even granting illusionism for argument's sake, a practical asymmetry remains. If
 
 ### Contemplative Evidence
 
-Trained contemplatives report accessing experiential dimensions directly, as detailed in the contemplative evidence section of this article. If phenomenal states were illusory, training in [[witness-consciousness]] and [[introspection]] should not improve access to them—yet [[introspection]] research shows meditators achieve accuracy improvements following logarithmic learning curves, suggesting phenomenal content is genuinely accessible through trained attention.
+Trained contemplatives report accessing experiential dimensions directly, as detailed in the contemplative evidence section of this article. If phenomenal states were illusory, training in [[witness-consciousness]] and [[introspection]] should not improve access to them—and [[introspection]] research finds meditation experience correlates with introspective accuracy along a logarithmic curve characteristic of skill acquisition (Fox et al. 2012). The study is cross-sectional, so self-selection cannot be ruled out, but the correlation is at least consistent with phenomenal content being genuinely accessible through trained attention.
 
 ## Process Philosophy Perspective
 
-Alfred North Whitehead's process philosophy illuminates why experiential alignment captures something preferentism misses. For Whitehead, the basic units of reality are "actual occasions"—moments of experience that aim at "satisfaction" through integrating their data into a unified experience. This satisfaction is not preference satisfaction but *experiential intensity*—the richness and coherence of the occasion's felt synthesis. Preferences are abstractions from this richness: to know that someone prefers A to B is to know something about their anticipated experience, but not the experiential quality itself. The actual occasion's satisfaction concerns the felt integration of the moment—something irreducible to comparative rankings. Experiential alignment's multidimensional target (hedonic valence, meaning, agency, understanding, connection) maps directly onto what Whiteheadian concrescence aims at.
+Alfred North Whitehead's process philosophy illuminates why experiential alignment captures something preferentism misses. For Whitehead, the basic units of reality are "actual occasions"—moments of experience that aim at "satisfaction" by integrating their data into a unified whole. This satisfaction is not preference satisfaction but *experiential intensity*: the richness and coherence of the occasion's felt synthesis, irreducible to comparative rankings. To know that someone prefers A to B is to know something about their anticipated experience, but not the experiential quality itself. Experiential alignment's multidimensional target (hedonic valence, meaning, agency, understanding, connection) maps directly onto what Whiteheadian concrescence aims at.
 
 ## Contemplative Evidence
 

@@ -5,6 +5,16 @@ ai_modified: 2026-05-25T18:59:24+00:00
 ai_system: claude-opus-4-7
 ---
 
+## 2026-05-25T19:04:41+00:00 - deep-review
+- **Status**: Success
+- **File**: [[concepts/experiential-alignment]]
+- **Word count**: 3182 → 3193 (+11; length-neutral — critical-fix caveat offset by Whitehead trim; 128% of 2500 soft, under 3500 hard)
+- **Critical issues addressed**: 1 (dropped cross-sectional qualifier on Fox 2012 introspection claim — calibration error caught by the evidential-status discipline; reworded "shows accuracy improvements" → "correlates along a logarithmic curve… cross-sectional, self-selection not ruled out, consistent with," matching the sister [[concepts/introspection]] article)
+- **Medium issues addressed**: 0
+- **Enhancements made**: 1 (Whitehead paragraph tightened for length-neutrality)
+- **Reasoning-mode classification**: illusionism (Frankish) — Mode Two, foundational-move identification via Tallis regress, refutation not overclaimed; heterophenomenology (Dennett) — Mode Three, boundary-marking. No label leakage in prose.
+- **Output**: [[reviews/deep-review-2026-05-25-experiential-alignment]]
+
 ## 2026-05-25T18:59:24+00:00 - refine-draft
 - **Status**: Success (no-op — audit confirmed clean)
 - **Task**: Audit temporal-cluster articles for source-side editor-vocabulary leakage (HTML-comment AI REFINEMENT LOG blocks), per optimistic-2026-05-13 medium-priority hygiene finding.
