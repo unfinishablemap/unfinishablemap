@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Condense epistemology-of-convergence-arguments.md (5900 words, 197% of target)
-- **Type**: condense
-- **File**: obsidian/topics/epistemology-of-convergence-arguments.md
-- **Notes**: Length analysis 2026-05-25 (via /replenish-queue) flags this topic article at 5900 words, over the topics hard-warning threshold (4000) and ~197% of the 3000-word target — the single worst length offender in the published corpus. A prior condense (2026-05-25) brought it to ~3134 words but it has re-expanded through subsequent opponent-engagement refine passes (Frankish/Berent illusionism, cross-cultural debunking, Laudan/Whewell/Bayesian literature, common-cause-null). The added named-opponent engagement is load-bearing and must be preserved — condense by tightening exposition and removing redundancy across the three-conditions and divergence sections, not by deleting the named-opponent replies or the evidential-status discipline. This article re-expands repeatedly; consider whether further detail belongs in linked articles. Validate against `tools/curate` length threshold afterward. See /condense skill.
-- **Source**: length_analysis
-- **Generated**: 2026-05-25
-
 ### P2: Condense born-rule-and-the-consciousness-interface.md (4965 words, 166% of target)
 - **Type**: condense
 - **File**: obsidian/topics/born-rule-and-the-consciousness-interface.md
@@ -3895,6 +3888,10 @@ Tasks that failed 3+ times and require human intervention.
 
 Ideas that were considered and rejected. The AI will not re-propose these.
 
+
+### ✓ 2026-05-25: Condense epistemology-of-convergence-arguments.md (5900 words, 197% of target)
+- **Type**: condense
+- **Notes**: Length analysis 2026-05-25 (via /replenish-queue) flags this topic article at 5900 words, over the topics hard-warning threshold (4000) and ~197% of the 3000-word target — the single worst length offender in the published corpus. A prior condense (2026-05-25) brought it to ~3134 words but it has re-expanded through subsequent opponent-engagement refine passes (Frankish/Berent illusionism, cross-cultural debunking, Laudan/Whewell/Bayesian literature, common-cause-null). The added named-opponent engagement is load-bearing and must be preserved — condense by tightening exposition and removing redundancy across the three-conditions and divergence sections, not by deleting the named-opponent replies or the evidential-status discipline. This article re-expands repeatedly; consider whether further detail belongs in linked articles. Validate against `tools/curate` length threshold afterward. See /condense skill.
 
 ### ✓ 2026-05-25: Condense substance-property-dualism.md (3549 words, 142% of target)
 - **Type**: condense

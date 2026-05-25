@@ -1,9 +1,18 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-25T18:00:00+00:00
+ai_modified: 2026-05-25T18:45:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-05-25T18:45:00+00:00 - condense
+- **Status**: Success
+- **File**: [[topics/epistemology-of-convergence-arguments]]
+- **Before**: 5900
+- **After**: 5843
+- **Reduction**: 1%
+- **Technique**: Article was condensed to its 5900w constrained floor earlier today; this pass found one genuine residual redundancy. The full debunking-reply against Iris Berent (etiology-doesn't-show-unreliability, the proves-too-much/even-handed-application move, and the screening-off/sensitivity-failure demand, plus the eliminativism-boundary marker) was stated in full twice — once in the Vitalism passage and again, more fully, in its dedicated home in the Cognitive Universals section. Trimmed the Vitalism-passage copy to make only its distinctive logical-vs-empirical point and cross-link the full reply forward, leaving Frankish and Berent both named and engaged there. No protected opponent-engagement or analytic substance cut.
+- **Note**: The article remains far over the 3000w topic target (hard_warning). This is a content-architecture issue, not residual flab: the piece carries eight distinct named-opponent engagements (Whewell, Laudan, Bovens-Hartmann, Frankish, Berent, Chalmers 2020, O'Brien-Kop, Stanford) and has structurally outgrown the topic length class. Resolving the over-threshold status needs a human/editorial decision (split the convergence-epistemology literature into its own article, raise this article's threshold, or reclassify it as an intentional survey) — outside condense's scope.
 
 ## 2026-05-25T18:30:00+00:00 - optimistic-review
 - **Status**: Success
