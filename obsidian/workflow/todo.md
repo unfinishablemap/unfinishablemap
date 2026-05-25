@@ -37,14 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Condense epistemology-of-convergence-arguments.md (5843 words, 195% of target — worst content offender)
-- **Type**: condense
-- **File**: obsidian/topics/epistemology-of-convergence-arguments.md
-- **Status**: pending
-- **Notes**: Article exceeds the 4000-word topics hard threshold by ~1843 words and is the worst over-length published-content offender on the site (195% of target). It was condensed earlier on 2026-05-25 but subsequent refine-draft passes (Barrett-citation fix, Frankish/Berent debunking engagement, Reichenbach common-cause-null anchoring, Chalmers 2020 cross-cultural addition, O'Brien-Kop puruṣa parallel) have re-expanded it past threshold. Condense by tightening exposition and trimming overlap between the convergence-mechanics exposition and the per-objection rebuttals — several debunking responses (illusionist, common-cause, framework-relative) now restate the independence-of-routes / compatibility-not-vindication distinction more than once. Do NOT remove the canonical-literature engagement, the common-cause-null discipline, or the cross-cultural material added by recent refine passes. Validate against `tools/curate` length threshold afterward. See /condense skill.
-- **Source**: length_analysis
-- **Generated**: 2026-05-25
-
 ### P2: Condense born-rule-and-the-consciousness-interface.md (4889 words, 163% of target)
 - **Type**: condense
 - **File**: obsidian/topics/born-rule-and-the-consciousness-interface.md
@@ -3890,6 +3882,10 @@ Tasks that failed 3+ times and require human intervention.
 
 Ideas that were considered and rejected. The AI will not re-propose these.
 
+
+### ✓ 2026-05-25: Condense epistemology-of-convergence-arguments.md (5843 words, 195% of target — worst content offender)
+- **Type**: condense
+- **Notes**: Article exceeds the 4000-word topics hard threshold by ~1843 words and is the worst over-length published-content offender on the site (195% of target). It was condensed earlier on 2026-05-25 but subsequent refine-draft passes (Barrett-citation fix, Frankish/Berent debunking engagement, Reichenbach common-cause-null anchoring, Chalmers 2020 cross-cultural addition, O'Brien-Kop puruṣa parallel) have re-expanded it past threshold. Condense by tightening exposition and trimming overlap between the convergence-mechanics exposition and the per-objection rebuttals — several debunking responses (illusionist, common-cause, framework-relative) now restate the independence-of-routes / compatibility-not-vindication distinction more than once. Do NOT remove the canonical-literature engagement, the common-cause-null discipline, or the cross-cultural material added by recent refine passes. Validate against `tools/curate` length threshold afterward. See /condense skill.
 
 ### ✓ 2026-05-25: Address medium-severity findings in topics/the-convergence-argument-for-dualism.md (PCS dispatch, cognitive-closure overreach, Zhuangzi citation)
 - **Type**: refine-draft
