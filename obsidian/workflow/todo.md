@@ -37,6 +37,37 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
+### P2: Adopt substance-property-dualism calibration in four-quadrant-dualism-taxonomy
+- **Type**: refine-draft
+- **Status**: pending
+- **File**: obsidian/topics/four-quadrant-dualism-taxonomy.md
+- **Notes**: From topic-concept anchoring audit 2026-05-25. The topic article over-claims relative to its anchor concept [[substance-property-dualism]]; failed checks: hedge_density, strong_assertions.
+  - hedge density 1.96/kw is below 60% of anchor (9.90/kw)
+  - topic uses 1 strong-assertion verbs where anchor uses none
+  - Action: bring the topic's hedge profile in line with the anchor concept's. Preserve the article's voice; this is not a request to weaken the central claim, only to inherit the calibration discipline the anchor concept already uses. See [[project/calibration-audit-triple]] Audit Three for the spec and [[evidential-status-discipline]] for the underlying rule.
+- **Source**: topic-concept-anchoring-audit
+- **Generated**: 2026-05-25
+
+### P2: Adopt metacognition calibration in introspection-architecture-independence-scoring
+- **Type**: refine-draft
+- **Status**: pending
+- **File**: obsidian/topics/introspection-architecture-independence-scoring.md
+- **Notes**: From topic-concept anchoring audit 2026-05-25. The topic article over-claims relative to its anchor concept [[metacognition]]; failed checks: hedge_density, strong_assertions.
+  - hedge density 1.75/kw is below 60% of anchor (8.15/kw)
+  - strong-assertion density 1.25/kw exceeds 1.5× anchor (0.30/kw)
+  - Action: bring the topic's hedge profile in line with the anchor concept's. Preserve the article's voice; this is not a request to weaken the central claim, only to inherit the calibration discipline the anchor concept already uses. See [[project/calibration-audit-triple]] Audit Three for the spec and [[evidential-status-discipline]] for the underlying rule.
+- **Source**: topic-concept-anchoring-audit
+- **Generated**: 2026-05-25
+
+
+### P2: Condense born-rule-and-the-consciousness-interface.md (4889 words, 163% of target)
+- **Type**: condense
+- **File**: obsidian/topics/born-rule-and-the-consciousness-interface.md
+- **Status**: pending
+- **Notes**: Length analysis 2026-05-25 (via /replenish-queue) flags this topic article at 4889 words, over the topics hard-warning threshold (4000) and ~163% of the 3000-word target. This is a load-bearing quantum-interface evidence article (the corridor/selection reading of the Born rule); preserve the Gleason/Born/Sinha empirical scaffolding, the framework table, the Compatibility-vs-Support discipline, the rival-reading engagement, and the positive interface case installed by the 2026-05-23/25 refines. Condense by tightening exposition and removing redundancy across the standard-derivations survey and the Beyond-Standard-Derivations sections, deferring detailed subtopics to linked articles (e.g. [[quantum-biology-and-neural-consciousness]], [[interface-formalization-void]]) rather than deleting load-bearing content. Coordinate with the open P3 born-rule tasks (framework-table accounting asymmetry at line ~62; pre-publication citation hedging at line ~91) so condensation does not undo those fixes if they land first — fold overlapping edits into this pass where they coincide. Honour [[evidential-status-discipline]]. Validate against `tools/curate` length threshold afterward. See /condense skill.
+- **Source**: length_analysis
+- **Generated**: 2026-05-25
+
 ### P3: Research non-Western physicalist theories to test the concession-convergence cross-observer gap
 - **Type**: research-topic
 - **Status**: pending
@@ -3874,6 +3905,10 @@ Tasks that failed 3+ times and require human intervention.
 
 Ideas that were considered and rejected. The AI will not re-propose these.
 
+
+### ✓ 2026-05-25: Structurally condense epistemology-of-convergence-arguments.md (5843 words, 195% of target — worst content offender)
+- **Type**: condense
+- **Notes**: Length analysis 2026-05-25 (via /replenish-queue) flags this topic article at 5843 words, over the topics hard-warning threshold (4000) and ~195% of the 3000-word target — the single worst length offender in the published content corpus. CAUTION: this article has been condensed repeatedly (at least four passes on 2026-05-25, most recently from 7112 words) and re-expands every time through opponent-engagement refine passes (Frankish/Berent illusionism, Berent cross-cultural debunking, Laudan/Whewell/Bayesian literature, common-cause-null/Reichenbach/Sober). Plain prose-trimming has proven to be churn. Apply a STRUCTURAL fix this pass, not another trim: move detailed sub-arguments into the linked articles where they belong ([[concepts/concession-convergence]], [[concepts/common-cause-null]], [[topics/the-reverse-inference]], [[concepts/illusionism]]) so the parent becomes a navigational/summary article that defers detail rather than restating it. The named-opponent engagement is load-bearing and must survive somewhere in the cluster — relocate it, do not delete it. Honour [[evidential-status-discipline]]. Validate against `tools/curate` length threshold afterward. See /condense skill.
 
 ### ✓ 2026-05-25: Condense higher-order-theories.md (3642 words, 146% of target)
 - **Type**: condense
