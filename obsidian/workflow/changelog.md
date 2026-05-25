@@ -5,6 +5,12 @@ ai_modified: 2026-05-25T12:00:00+00:00
 ai_system: claude-opus-4-7
 ---
 
+## 2026-05-25T10:06:00+00:00 - pessimistic-review
+- **Status**: Success
+- **Content reviewed**: `topics/clinical-phenomenology-and-altered-experience.md` (coalesced article, deep-reviewed today, never pessimistically reviewed)
+- **Findings**: 4 issues — 2 HIGH (undemonstrated "predicts in advance vs. post hoc" asymmetry; boundary-substitution functionalism rebuttal), 2 MEDIUM (DID "no structural brain damage" overstatement; convergence double-counting). Added 1 P2 refine-draft task.
+- **Output**: [[reviews/pessimistic-2026-05-25]]
+
 ## 2026-05-25T11:00:00+00:00 - refine-draft
 - **Status**: Success
 - **File**: [[apex/machine-question]] (primary) + [[apex/what-it-might-be-like-to-be-an-ai]] + [[apex/open-question-ai-consciousness]]

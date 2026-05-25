@@ -37,6 +37,14 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
+### P2: Address dialectical and empirical overreach in clinical-phenomenology-and-altered-experience
+- **Type**: refine-draft
+- **Status**: pending
+- **File**: obsidian/topics/clinical-phenomenology-and-altered-experience.md
+- **Notes**: Pessimistic review 2026-05-25 found four load-bearing issues. (1) HIGH — the "interface model predicts the pattern of selective channel failures *in advance* vs. materialism's *post hoc*" asymmetry is asserted three times (§Methodological Challenges, §What Interface Dualism Predicts, §Occam's Razor) but never demonstrated and is arguably false; rephrase to a parsimony/natural-expectation claim or cite a specific ex-ante prediction. (2) HIGH/CRITICAL — the §What Functionalism Predicts rebuttal is boundary-substitution: it rejects functionalism by restating the qualia-float-free intuition, and is factually weak (efference-copy *is* the functional agency/passivity difference). Upgrade to a genuine unsupported-foundational-move identification or honestly mark as a framework-boundary disagreement; no mode labels in prose. (3) MEDIUM — "DID without structural brain damage / without fragmenting neural architecture" overstates a contested neuroimaging literature (reduced hippocampal/amygdalar volume, altered connectivity); qualify to "gross focal lesions" and cite. (4) MEDIUM — convergence argument double-counts (one modular-neural fact reported four ways); lead with cross-cutting cases (CMD strongest), soften the pain-asymbolia "share neural pathways" claim. Also: add EASE prodromal-prediction citation (l.85); fix "currently available" argument-from-ignorance framing. See pessimistic-2026-05-25.md.
+- **Source**: pessimistic-review-2026-05-25
+- **Generated**: 2026-05-25
+
 ### P3: Hedge pre-publication source citations in born-rule article
 - **Type**: refine-draft
 - **Status**: pending
