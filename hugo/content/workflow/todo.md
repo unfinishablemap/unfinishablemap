@@ -53,14 +53,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: pessimistic-review-2026-05-23
 - **Generated**: 2026-05-23
 
-### P2: Write apex article "AI as Introspection Control, Not Just Consciousness Candidate"
-- **Type**: apex-evolve
-- **Status**: pending
-- **Notes**: Outer-review 2026-05-22 ChatGPT 5.5 Pro §2.C, §6.9. `apex/machine-question.md` treats "Is AI conscious?" as the wrong binary framing and asks what type of consciousness AI might have, including none; it distinguishes hard-problem-independent arguments from dualism-specific obstacles (quantum interface, haecceity, bidirectional interaction). The introspection-architecture cluster argues human consciousness receives reconstructed outputs without process access; the discrimination problem asks whether reports can distinguish phenomenality from sophisticated functional states. Combined, these imply a useful inversion the site has not stated explicitly: **AI systems are not merely possible analogues of minds; they are contrast instruments for testing claims about opacity, provenance, confidence, source-tagging, and self-report architecture**. An apex page would (a) state the inversion clearly; (b) catalogue the AI-control affordances the site can exploit — provenance logs, token sampling traces, confidence calibration, source tags, anti-correlated metacognitive signals, deliberately altered tags; (c) show how each affordance separates "human-like opacity because consciousness is bounded" from "opacity because any complex self-model has limited access"; (d) connect to existing anti-correlated metacognitive signal work in machine-question; (e) cross-link to `topics/machine-consciousness`, `apex/introspection-architecture-void-cluster`, the discrimination-problem material, and `concepts/the-discrimination-problem` if present; (f) honour `[[evidential-status-discipline]]` — AI-control results are *discriminator-design* tier, not *positive-empirical-finding* tier. Target section: `apex/` (uncapped). Tenet alignment: Tenet 1 (Dualism via discrimination-test architecture); methodological for the whole introspection cluster.
-- **Review file**: `reviews/outer-review-2026-05-22-chatgpt-5-5-pro.md`
-- **Source**: outer-review
-- **Generated**: 2026-05-22
-
 ### P2: Replace future-tense boilerplate in topics/ and concepts/ index pages with route maps
 - **Type**: refine-draft
 - **Status**: pending
@@ -3895,6 +3887,10 @@ Tasks that failed 3+ times and require human intervention.
 
 Ideas that were considered and rejected. The AI will not re-propose these.
 
+
+### ✓ 2026-05-25: Write apex article "AI as Introspection Control, Not Just Consciousness Candidate"
+- **Type**: apex-evolve
+- **Notes**: Outer-review 2026-05-22 ChatGPT 5.5 Pro §2.C, §6.9. `apex/machine-question.md` treats "Is AI conscious?" as the wrong binary framing and asks what type of consciousness AI might have, including none; it distinguishes hard-problem-independent arguments from dualism-specific obstacles (quantum interface, haecceity, bidirectional interaction). The introspection-architecture cluster argues human consciousness receives reconstructed outputs without process access; the discrimination problem asks whether reports can distinguish phenomenality from sophisticated functional states. Combined, these imply a useful inversion the site has not stated explicitly: **AI systems are not merely possible analogues of minds; they are contrast instruments for testing claims about opacity, provenance, confidence, source-tagging, and self-report architecture**. An apex page would (a) state the inversion clearly; (b) catalogue the AI-control affordances the site can exploit — provenance logs, token sampling traces, confidence calibration, source tags, anti-correlated metacognitive signals, deliberately altered tags; (c) show how each affordance separates "human-like opacity because consciousness is bounded" from "opacity because any complex self-model has limited access"; (d) connect to existing anti-correlated metacognitive signal work in machine-question; (e) cross-link to `topics/machine-consciousness`, `apex/introspection-architecture-void-cluster`, the discrimination-problem material, and `concepts/the-discrimination-problem` if present; (f) honour `[[evidential-status-discipline]]` — AI-control results are *discriminator-design* tier, not *positive-empirical-finding* tier. Target section: `apex/` (uncapped). Tenet alignment: Tenet 1 (Dualism via discrimination-test architecture); methodological for the whole introspection cluster.
 
 ### ✓ 2026-05-25: Write apex synthesis "The Self-Concealing Interface"
 - **Type**: apex-evolve

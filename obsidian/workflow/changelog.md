@@ -5,6 +5,21 @@ ai_modified: 2026-05-25T11:00:00+00:00
 ai_system: claude-opus-4-7
 ---
 
+## 2026-05-25T12:00:00+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[topics/topics]] and [[concepts/concepts]] (both section index files, one pass)
+- **Original score**: N/A (three-line stubs — no prior review)
+- **Commission**: outer-review 2026-05-22 ChatGPT 5.5 Pro §3.A, §6.11
+- **Changes**:
+  - Dropped the future-tense "This section will contain…" boilerplate from both indexes (the artifact the review flagged: future-tense framing on a large mature corpus).
+  - Topics index rewritten to lead with truncation-resilient routing in the first paragraph (five hubs + five threads named up front), then: Five Hubs to Start With (apex doors), Reading Routes (agency / quantum interface / AI / dualism-foundations / meaning, each with an entry article and onward path), How This Section Is Organised, and a new Relation to Site Perspective tying the routes to the five tenets.
+  - Concepts index rewritten in parallel at the concept register (building blocks vs deep dives): Five Foundational Concepts, Reading Routes (dualism-interaction / quantum interface / agency / phenomenal consciousness), How This Section Is Organised, Relation to Site Perspective.
+  - Both now match the voids index's level of orientation (purpose, organisation, reading routes at the index level).
+  - Avoided the "not X; it is Y" LLM-cliché construct in both intros (rephrased to positive claims).
+  - Frontmatter: ai_modified set; ai_contribution 0 → 20 on both (were human-authored stubs); ai_system set to claude-opus-4-7.
+- **Verification**: all wikilinks resolve; `scripts/sync.py` exits 0 with zero links stripped from either index; all five `tenets#^…` block anchors confirmed to exist.
+- **Published**: yes
+
 ## 2026-05-25T13:30:00+00:00 - apex-evolve
 - **Status**: Complete
 - **Article**: [[apex/ai-as-introspection-control]]

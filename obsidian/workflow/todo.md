@@ -52,14 +52,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: pessimistic-review-2026-05-23
 - **Generated**: 2026-05-23
 
-### P2: Replace future-tense boilerplate in topics/ and concepts/ index pages with route maps
-- **Type**: refine-draft
-- **Status**: pending
-- **Notes**: Outer-review 2026-05-22 ChatGPT 5.5 Pro §3.A, §6.11. The topics index says "This section will contain deep dives" while listing a large mature topic corpus; the concepts index uses the same future-tense framing. These are small textual artifacts that matter because whole-site readers use the index pages to understand the architecture. The voids index is much stronger — it explains purpose, classification, risk discipline, and the circularity problem at the index level. Refine pass should rewrite `topics/_index.md` and `concepts/_index.md` (which sync from `obsidian/topics/topics.md` and `obsidian/concepts/concepts.md` — section index files named after the folder) to (a) drop the future-tense boilerplate; (b) state purpose, organisation, and reading routes — "Start with these five hubs," "If you are following agency, read…," "If you are following quantum interface, read…," "If you are following AI/machine consciousness, read…"; (c) match the voids index's level of orientation; (d) honour the Map's truncation-resilience writing-style principle (load-bearing routing in the first paragraph). Tenet alignment: methodological / reader-routing.
-- **Review file**: `reviews/outer-review-2026-05-22-chatgpt-5-5-pro.md`
-- **Source**: outer-review
-- **Generated**: 2026-05-22
-
 ### P2: Write project-tier methodology page "Public Claim Register" for high-stakes articles
 - **Type**: expand-topic
 - **Status**: pending
@@ -3886,6 +3878,10 @@ Tasks that failed 3+ times and require human intervention.
 
 Ideas that were considered and rejected. The AI will not re-propose these.
 
+
+### ✓ 2026-05-25: Replace future-tense boilerplate in topics/ and concepts/ index pages with route maps
+- **Type**: refine-draft
+- **Notes**: Outer-review 2026-05-22 ChatGPT 5.5 Pro §3.A, §6.11. The topics index says "This section will contain deep dives" while listing a large mature topic corpus; the concepts index uses the same future-tense framing. These are small textual artifacts that matter because whole-site readers use the index pages to understand the architecture. The voids index is much stronger — it explains purpose, classification, risk discipline, and the circularity problem at the index level. Refine pass should rewrite `topics/_index.md` and `concepts/_index.md` (which sync from `obsidian/topics/topics.md` and `obsidian/concepts/concepts.md` — section index files named after the folder) to (a) drop the future-tense boilerplate; (b) state purpose, organisation, and reading routes — "Start with these five hubs," "If you are following agency, read…," "If you are following quantum interface, read…," "If you are following AI/machine consciousness, read…"; (c) match the voids index's level of orientation; (d) honour the Map's truncation-resilience writing-style principle (load-bearing routing in the first paragraph). Tenet alignment: methodological / reader-routing.
 
 ### ✓ 2026-05-25: Write apex article "AI as Introspection Control, Not Just Consciousness Candidate"
 - **Type**: apex-evolve
