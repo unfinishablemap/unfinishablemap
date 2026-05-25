@@ -5,6 +5,13 @@ ai_modified: 2026-05-25T13:42:00+00:00
 ai_system: claude-opus-4-7
 ---
 
+## 2026-05-25T14:10:00+00:00 - pessimistic-review
+- **Status**: Success
+- **Content reviewed**: `topics/born-rule-and-the-consciousness-interface.md` (5026 words; condensed earlier today; never standalone pessimistically reviewed). Six-persona adversarial pass plus standard checks.
+- **Findings**: 2 medium issues (discipline proves too much / no in-article positive case; both tenet-preferred fallback routes are unfalsifiable, half-owned only), 2 low issues (intra-article hedging inconsistency on Zhang 2026 — mostly tracked by existing P3; framework-table accounting asymmetry omitting the interface reading's own row). No reasoning-mode or label-leakage failures; altered-state symmetry audit not applicable (no supportive-cluster items). Citations verified against research notes.
+- **Tasks added**: P2 (surface positive interface case + own dual-fallback unfalsifiability), P3 (fix framework-table accounting asymmetry). Source-hedging folded into existing P3 from pessimistic-2026-05-23.
+- **Output**: [[reviews/pessimistic-2026-05-25-born-rule]]
+
 ## 2026-05-25T13:42:00+00:00 - condense
 - **Status**: Success
 - **File**: [[topics/born-rule-and-the-consciousness-interface]]

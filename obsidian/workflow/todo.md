@@ -37,6 +37,22 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
+### P2: Surface the positive interface case and own dual-fallback unfalsifiability in born-rule article
+- **Type**: refine-draft
+- **Status**: pending
+- **File**: obsidian/topics/born-rule-and-the-consciousness-interface.md
+- **Notes**: Pessimistic review 2026-05-25 issues 1 & 2. (1) The compatibility-vs-support discipline is so thorough that the article states no in-article reason to hold the interface reading over the four consciousness-free rivals (QBism, objective-collapse, modal, Bohmian) — "tenet-coherence" is asserted ~6 times but never sketched concretely, and parsimony cuts against the Map's extra posit. Add 2-3 sentences naming the one concrete interface-suggestive payoff already latent in-text: the substrate's claim to explain the SIC-geometric (d+1)/−1/d form that DeBrota-Fuchs-Schack leave unexplained (currently asserted in the QBism paragraph without a how-sketch). (2) The "asymmetry should be owned" paragraph concedes the preferred corridor reading is unfalsifiable by construction, but the trumping fallback is *also* empirically silent ("orthogonal to Born"). Add one sentence stating that BOTH tenet-preferred routes share empirical silence, so "surviving a clean negative sweep" is purchased entirely by unfalsifiability — the honest cost, not a strength. Link to the Bidirectional-Interaction tenet paragraph's own admission that the ensemble-signature problem is "the Map's sharpest open question." Do NOT lengthen materially — article was just condensed today; net additions should be offset by tightening. See reviews/pessimistic-2026-05-25-born-rule.md.
+- **Source**: pessimistic-review-2026-05-25
+- **Generated**: 2026-05-25
+
+### P3: Fix accounting asymmetry in born-rule framework table
+- **Type**: refine-draft
+- **Status**: pending
+- **File**: obsidian/topics/born-rule-and-the-consciousness-interface.md
+- **Notes**: Pessimistic review 2026-05-25 issue 4. The §"Beyond Standard Derivations" framework table applies a "What It Assumes" audit to seven physical frameworks (with scare quotes around the MWI "derivation") but has no row for the interface/corridor reading and its own assumptions — granting the Map's reading an exemption from the accounting it applies to rivals (the asymmetry the Many-Worlds Defender persona flags, and which the article's own symmetry discipline forbids). Fix EITHER by adding an "Interface / corridor" row with an honest "What It Assumes" cell (non-physical substrate; tenet-set; by-construction-silent channel) OR by dropping the scare quotes from the MWI "derivation" cell so the table reads descriptively neutral. Small surgical edit. See reviews/pessimistic-2026-05-25-born-rule.md.
+- **Source**: pessimistic-review-2026-05-25
+- **Generated**: 2026-05-25
+
 ### P1: Condense type-specificity.md (5264 words, 105% of critical threshold)
 - **Type**: condense
 - **Status**: pending
