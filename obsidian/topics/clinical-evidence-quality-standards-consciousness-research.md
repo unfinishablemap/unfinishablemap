@@ -4,7 +4,7 @@ description: "When does clinical and neurological evidence bear on metaphysical 
 created: 2026-04-06
 modified: 2026-04-06
 human_modified:
-ai_modified: 2026-05-08T20:35:00+00:00
+ai_modified: 2026-05-25T20:35:43+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -31,7 +31,7 @@ author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-04-06
 last_curated:
-last_deep_review: 2026-04-06T04:52:00+00:00
+last_deep_review: 2026-05-25T20:35:43+00:00
 ---
 
 Clinical and neurological evidence is routinely cited in debates about consciousness — Schwartz's OCD neuroplasticity, meditation neuroimaging, placebo effects, dissociation syndromes, anaesthesia studies. Yet consciousness research faces a distinctive methodological problem: the inferential gap between clinical findings and metaphysical conclusions is wider than in ordinary medicine, and standard evidence hierarchies (RCTs, meta-analyses, replication) address only part of the difficulty. The Unfinishable Map holds that clinical evidence can be genuinely probative for questions about consciousness, but only when evaluated against standards that account for both third-person and first-person data, the underdetermination problem, and the asymmetry between functional and structural claims.
@@ -126,7 +126,7 @@ This ordering has a practical consequence: if the clinical evidence were shown t
 
 The five standards above must apply to the Map's own empirical claims, including those supporting the [[tenets#^quantum-interaction|Minimal Quantum Interaction tenet]] (Tenet 2). Intellectual honesty requires acknowledging that quantum interaction evidence currently scores poorly on several of these standards.
 
-**Replication status.** Key findings remain preliminary. The microtubule-anaesthesia correlations (Khan et al., 2024; Wiest et al., 2025) await independent replication. Brain entanglement signatures (Kerskens & Pérez, 2022) have been challenged on methodological grounds (Warren, 2023) and have not been independently confirmed. No direct measurement of quantum coherence in living neural tissue has been achieved. The Map's [[quantum-biology-and-neural-consciousness|quantum biology synthesis]] tracks six converging evidence lines — from established biological precedent through pharmacological correlations to theoretical convergence — and applying the present article's standards to that synthesis is a test of self-consistency: the strongest lines (biological precedent, anaesthesia pharmacology) score well on replication, while the most provocative (EEG entanglement signatures) score poorly.
+**Replication status.** Key findings remain preliminary. The microtubule-anaesthesia correlations (Khan et al., 2024; Wiest, 2025) await independent replication. Brain entanglement signatures (Kerskens & Pérez, 2022) have been challenged on methodological grounds (Warren, 2023) and have not been independently confirmed. No direct measurement of quantum coherence in living neural tissue has been achieved. The Map's [[quantum-biology-and-neural-consciousness|quantum biology synthesis]] tracks six converging evidence lines — from established biological precedent through pharmacological correlations to theoretical convergence — and applying the present article's standards to that synthesis is a test of self-consistency: the strongest lines (biological precedent, anaesthesia pharmacology) score well on replication, while the most provocative (EEG entanglement signatures) score poorly.
 
 **Control adequacy.** The "consciousness placebo" problem identified in clinical research applies with equal force here: there is no way to isolate consciousness's quantum contribution from quantum effects that would occur without conscious involvement. Correlations between quantum disruption and consciousness loss (anaesthesia studies) are suggestive but do not exclude classical explanations for the same observations.
 
@@ -156,3 +156,9 @@ The Map's quantum interaction claims currently rest on convergence across multip
 8. Hölzel, B. K., Carmody, J., Vangel, M., et al. (2011). Mindfulness practice leads to increases in regional brain gray matter density. *Psychiatry Research: Neuroimaging*, 191(1), 36-43.
 9. Schwartz, J. M., Stapp, H. P., & Beauregard, M. (2005). Quantum physics in neuroscience and psychology: A neurophysical model of mind-brain interaction. *Philosophical Transactions of the Royal Society B*, 360(1458), 1309-1327.
 10. Southgate, A. & Oquatre-six, C. (2026-03-21). Clinical Neuroplasticity Evidence for Bidirectional Causation. *The Unfinishable Map*. https://unfinishablemap.org/topics/clinical-neuroplasticity-evidence-for-bidirectional-causation/
+11. Tegmark, M. (2000). Importance of quantum decoherence in brain processes. *Physical Review E*, 61(4), 4194-4206.
+12. Hagan, S., Hameroff, S., & Tuszynski, J. A. (2002). Quantum computation in brain microtubules: Decoherence and biological feasibility. *Physical Review E*, 65(6), 061901.
+13. Kerskens, C. M. & Pérez, D. L. (2022). Experimental indications of non-classical brain functions. *Journal of Physics Communications*, 6, 105001.
+14. Warren, W. S. (2023). Comment on "Experimental indications of non-classical brain functions." *Journal of Physics Communications*, 7, 048001.
+15. Khan, S., et al. (2024). Microtubule-stabilizer epothilone B delays anesthetic-induced unconsciousness in rats. *eNeuro*, 11(8).
+16. Wiest, M. C. (2025). A quantum microtubule substrate of consciousness is experimentally supported and solves the binding and epiphenomenalism problems. *Neuroscience of Consciousness*, 2025(1), niaf011.

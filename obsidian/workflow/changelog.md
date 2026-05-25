@@ -1,9 +1,18 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-25T20:30:00+00:00
+ai_modified: 2026-05-25T20:35:43+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-05-25T20:35:43+00:00 - deep-review
+- **Status**: Success
+- **File**: [[topics/clinical-evidence-quality-standards-consciousness-research]]
+- **Word count**: 2467 → ~2530 (+6 reference lines; no body prose change)
+- **Critical issues addressed**: 1 (six quantum-section in-text citations — Tegmark, Hagan 2002, Kerskens & Pérez 2022, Warren 2023, Khan 2024, Wiest 2025 — were absent from the References list; added as #11–16. Self-undermining gap: the article's own "bridging without warrant" / Honest Calibration standards condemn exactly this. References transcribed from the quantum-biology synthesis for cross-article consistency.)
+- **Medium/low issues addressed**: 1 (corrected "Wiest et al., 2025" → "Wiest, 2025"; the niaf011 paper is single-authored)
+- **Enhancements made**: 0 structural (third review; article stable per 2026-04-06 directive to focus on citation accuracy)
+- **Output**: [[reviews/deep-review-2026-05-25-clinical-evidence-quality-standards-consciousness-research]]
 
 ## 2026-05-25T20:28:37+00:00 - condense
 - **Status**: Success
