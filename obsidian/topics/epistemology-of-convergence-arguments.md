@@ -4,7 +4,7 @@ description: "When multiple independent lines of reasoning—across methods, tra
 created: 2026-02-19
 modified: 2026-02-21
 human_modified:
-ai_modified: 2026-05-24T00:30:00+00:00
+ai_modified: 2026-05-25T07:55:16+00:00
 draft: false
 topics:
   - "[[the-convergence-argument-for-dualism]]"
@@ -205,11 +205,11 @@ The Map treats convergence as genuine evidence while acknowledging its limits. C
 
 1. Swinburne, R. (2004). *The Existence of God* (2nd ed.). Oxford University Press. [For Bayesian cumulative case methodology.]
 1. Chalmers, D. J. (1996). *The Conscious Mind*. Oxford University Press.
-1. Nagel, T. (1974). What is it like to be a bat? *Philosophical Review*, 83(4), 435-450.
-1. McGinn, C. (1989). Can we solve the mind-body problem? *Mind*, 98, 349-366.
-1. Jackson, F. (1982). Epiphenomenal qualia. *Philosophical Quarterly*, 32, 127-136.
-1. Levine, J. (1983). Materialism and qualia: The explanatory gap. *Pacific Philosophical Quarterly*, 64, 354-361.
+1. Nagel, T. (1974). What is it like to be a bat? *Philosophical Review*, 83(4), 435-450. https://doi.org/10.2307/2183914
+1. McGinn, C. (1989). Can we solve the mind-body problem? *Mind*, 98(391), 349-366. https://doi.org/10.1093/mind/XCVIII.391.349
+1. Jackson, F. (1982). Epiphenomenal qualia. *Philosophical Quarterly*, 32(127), 127-136. https://doi.org/10.2307/2960077
+1. Levine, J. (1983). Materialism and qualia: The explanatory gap. *Pacific Philosophical Quarterly*, 64, 354-361. https://doi.org/10.1111/j.1468-0114.1983.tb00207.x
 1. Barrett, H.C., Bolyanatz, A., Broesch, T., Cohen, E., Froerer, P., Kanovsky, M., Schug, M.G., & Laurence, S. (2021). Intuitive dualism and afterlife beliefs: A cross-cultural study. *Cognitive Science*, 45(6), e12992. https://doi.org/10.1111/cogs.12992
-1. Barlev, M. & Shtulman, A. (2021). Minds, bodies, spirits, and gods: Does widespread cultural belief in spiritual beings entail a universal cognitive bias? *Psychological Review*, 128(6), 1077-1095.
+1. Barlev, M. & Shtulman, A. (2021). Minds, bodies, spirits, and gods: Does widespread belief in disembodied beings imply that we are inherent dualists? *Psychological Review*, 128(6), 1007-1021. https://doi.org/10.1037/rev0000298
 1. Bloom, P. (2004). *Descartes' Baby: How the Science of Child Development Explains What Makes Us Human*. Basic Books.
-1. O'Brien-Kop, K. (2023). Classical Sāṃkhya and the hard problem of consciousness. *Religious Studies*. Cambridge University Press.
+1. O'Brien-Kop, K. (2023). The hard problem of 'pure' consciousness: Sāṃkhya dualist ontology. *Religious Studies*. Cambridge University Press. https://doi.org/10.1017/S0034412523000410
