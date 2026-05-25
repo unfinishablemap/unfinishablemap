@@ -5,6 +5,14 @@ ai_modified: 2026-05-25T13:52:14+00:00
 ai_system: claude-opus-4-7
 ---
 
+## 2026-05-25T14:05:00+00:00 - condense
+- **Status**: Success
+- **File**: [[apex/taxonomy-of-voids]]
+- **Before**: 6257 words
+- **After**: 4914 words
+- **Reduction**: 21%
+- **Technique**: Cut redundancy across the three overlapping evidential sections — collapsed the standalone "Two Worked Exhibits" subsection (which re-derived the surplus-void retraction and introspection-architecture partial-retention scoring already cited in the Void Clustering Audit) from three long paragraphs to two; tightened the Void Clustering Audit's four origin-class paragraphs while preserving the rival-framework prediction table and the anomalies/co-occurrence paragraph (unique content); compressed the dense void-enumeration run-on sentences in the phenomenological, access, interpersonal, and formal clusters to one clause per void with links carrying the detail; removed restatement between "Convergence Pattern" tenet-matching and "Relation to Site Perspective" (added a forward anchor instead of duplicating). Preserved opening summary, all six failure signatures, the rival-framework table, and the required "Relation to Site Perspective" section. Article moved from hard_warning to soft_warning; remaining length is dense non-redundant synthesis appropriate to the upper acceptable range for an apex.
+
 ## 2026-05-25T13:52:14+00:00 - refine-draft
 - **Status**: Success
 - **File**: [[topics/memory-anomalies]]

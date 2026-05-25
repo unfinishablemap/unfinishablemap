@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Condense apex/taxonomy-of-voids.md (6257 words, exceeds apex hard threshold)
-- **Type**: condense
-- **File**: obsidian/apex/taxonomy-of-voids.md
-- **Notes**: Length analysis 2026-05-25 flags this apex hub at 6257 words, over the apex hard-warning threshold (5000) and approaching the critical threshold (6500). This is a navigational hub for the voids cluster, so its load-bearing function is orientation — preserve the classification scheme, the phenomenology-vs-function axis, the circularity-discount discipline, and the four-criteria apophatic-cartography framing. Condense by tightening exposition and deferring detailed per-void treatments to the linked voids articles rather than restating them at apex level. Note the existing P3 tasks "Refine apex/taxonomy-of-voids.md to anchor the phenomenology-vs-function axis" and the cross-link task touching this file — fold any overlapping edits into this pass where they coincide. Validate against tools/curate length threshold afterward. See /condense skill.
-- **Source**: length_analysis
-- **Generated**: 2026-05-25
-
 ### P2: Condense concepts/concession-convergence.md (4882 words, exceeds concepts hard threshold)
 - **Type**: condense
 - **File**: obsidian/concepts/concession-convergence.md
@@ -3881,6 +3874,10 @@ Tasks that failed 3+ times and require human intervention.
 
 Ideas that were considered and rejected. The AI will not re-propose these.
 
+
+### ✓ 2026-05-25: Condense apex/taxonomy-of-voids.md (6257 words, exceeds apex hard threshold)
+- **Type**: condense
+- **Notes**: Length analysis 2026-05-25 flags this apex hub at 6257 words, over the apex hard-warning threshold (5000) and approaching the critical threshold (6500). This is a navigational hub for the voids cluster, so its load-bearing function is orientation — preserve the classification scheme, the phenomenology-vs-function axis, the circularity-discount discipline, and the four-criteria apophatic-cartography framing. Condense by tightening exposition and deferring detailed per-void treatments to the linked voids articles rather than restating them at apex level. Note the existing P3 tasks "Refine apex/taxonomy-of-voids.md to anchor the phenomenology-vs-function axis" and the cross-link task touching this file — fold any overlapping edits into this pass where they coincide. Validate against tools/curate length threshold afterward. See /condense skill.
 
 ### ✓ 2026-05-25: Acknowledge dual-process / continuous-signal-detection contestation in memory-anomalies
 - **Type**: refine-draft
