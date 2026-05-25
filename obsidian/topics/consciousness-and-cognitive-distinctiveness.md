@@ -4,7 +4,7 @@ description: "Consciousness causally enables the cognitive leap that separates h
 created: 2026-01-29
 modified: 2026-05-11
 human_modified:
-ai_modified: 2026-05-19T11:04:33+00:00
+ai_modified: 2026-05-25T19:11:15+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -55,6 +55,7 @@ related_articles:
   - "[[incubation-effect-and-unconscious-processing]]"
   - "[[phenomenology-of-imagination]]"
   - "[[consciousness-and-the-phenomenology-of-translation]]"
+  - "[[quantum-biology-and-neural-consciousness]]"
 ai_contribution: 100
 author:
 ai_system: claude-opus-4-6
@@ -144,7 +145,7 @@ The consciousness-intelligence-creativity thesis would weaken if:
 
 **[[tenets#^bidirectional-interaction|Bidirectional Interaction]]**: The systematic correspondence between consciousness-requiring functions and the human-ape gap suggests consciousness enables rather than merely accompanies cognition. The creative loop specifies *how*: consciousness orchestrates network switching, selects through attention, and generates through imagination. The amplification hypothesis specifies the mechanism: flexible deployment, metacognitive monitoring, and counterfactual simulation.
 
-**[[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]]**: The quantum Zeno mechanism satisfies minimality—operating at quantum indeterminacies without injecting energy. The ~10 bits/second bandwidth of conscious processing matches the grain at which both deliberate reasoning and creative selection operate.
+**[[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]]**: The quantum Zeno mechanism satisfies minimality—operating at quantum indeterminacies without injecting energy. Whether neural tissue can host such effects is the empirical question that [[topics/quantum-biology-and-neural-consciousness|quantum biology and neural consciousness]] surveys; the threshold argument here is consistent with the post-decoherence-selection reading developed there, which does not require sustained coherence at neural timescales. The ~10 bits/second bandwidth of conscious processing matches the grain at which both deliberate reasoning and creative selection operate.
 
 **[[tenets#^no-many-worlds|No Many Worlds]]**: Genuine creativity presupposes that some possibilities actualise while others remain merely possible. Many-worlds eliminates this distinction. The phenomenology of creative choice—the felt stakes, the relief or regret after selection—presupposes that possibilities were genuinely narrowed.
 
@@ -167,6 +168,7 @@ The consciousness-intelligence-creativity thesis would weaken if:
 - [[creative-consciousness]] — The generation-selection synthesis
 - [[attention-as-interface]] — Attention as the consciousness-brain interface
 - [[concepts/consciousness-selecting-neural-patterns]] — The quantum Zeno mechanism for selection
+- [[topics/quantum-biology-and-neural-consciousness]] — Whether neural tissue can host the quantum effects the selection mechanism requires
 - [[conscious-vs-unconscious-processing]] — Empirical evidence on consciousness-requiring functions
 - [[metacognition|metarepresentation]] — Representing representations
 - [[cumulative-culture]] — Cultural ratcheting and metarepresentation

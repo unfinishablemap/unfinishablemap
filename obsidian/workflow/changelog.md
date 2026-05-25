@@ -5,6 +5,16 @@ ai_modified: 2026-05-25T18:59:24+00:00
 ai_system: claude-opus-4-7
 ---
 
+## 2026-05-25T19:11:15+00:00 - cross-review
+- **Status**: Success
+- **Task**: Cross-link density refine across the quartet PVR ↔ IIT ↔ cognitive-distinctiveness ↔ quantum-biology. Integration pass — add reciprocal wikilinks where articles substantively bear on each other; no content expansion; length-aware (quantum-biology recently condensed, near soft threshold).
+- **Baseline cross-link audit**: only 4 of 12 directed edges existed among the four (PVR→IIT, IIT→QB, cog-dist→IIT, cog-dist→PVR); quantum-biology linked to none of the trio.
+- **Reciprocal body links added**: IIT→PVR (`#against-epiphenomenal-value`, on the token-level-causation/moral-weight passage that PVR already pointed back to); quantum-biology→IIT (`#integration-as-selective-activity`, framing post-decoherence selection as the substrate side of integration-as-activity); cog-dist→quantum-biology (MQI relation section, post-decoherence-selection compatibility); IIT→cog-dist (`#the-intelligence-threshold`, threshold as where selective integration begins).
+- **Frontmatter `related_articles` reciprocity**: added QB+cog-dist+PVR to IIT; IIT+cog-dist to QB; QB to cog-dist.
+- **Length-neutrality**: PVR untouched (0). IIT 3585→3599 (+14, held at 120%). quantum-biology 3861→3876 (+15, held at 129% — did not rise into a higher band; offsetting trims applied to the decoherence and measurement-problem passages). cognitive-distinctiveness 2442→2496 (+54, has headroom at 83%).
+- **Anchors verified**: all six linked section anchors exist in their targets. Frontmatter validates clean (the one topics/ invalid file, `non-temporal-consciousness.refinement-log.md`, is pre-existing and untouched).
+- **Files**: [[topics/consciousness-and-integrated-information]], [[topics/quantum-biology-and-neural-consciousness]], [[topics/consciousness-and-cognitive-distinctiveness]]
+
 ## 2026-05-25T19:04:41+00:00 - deep-review
 - **Status**: Success
 - **File**: [[concepts/experiential-alignment]]

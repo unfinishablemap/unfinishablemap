@@ -367,14 +367,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: optimistic-review (2026-05-11b)
 - **Generated**: 2026-05-11
 
-### P2: Cross-link density refine across today's quartet (PVR ↔ IIT ↔ cognitive-distinctiveness ↔ quantum-biology)
-- **Type**: cross-review
-- **Status**: pending
-- **Notes**: From optimistic-2026-05-11 "Medium Priority — Refine cross-link density between today's quartet". The four articles deep-reviewed today are thematically connected in ways the current cross-link structure does not fully exploit: (a) `topics/phenomenal-value-realism.md` "Why Dualism Matters Here" section (lines 156–176) should cross-link to `topics/consciousness-and-integrated-information.md` type-token-causation discussion (lines 67–81) as the operational mechanism for value's causal efficacy; (b) the IIT article's lines 169–179 (post-decoherence-selection escaping the decoherence objection) should cross-link to the quantum-biology article's two-paths framing (lines 125–127) as the wider architectural home; (c) `topics/consciousness-and-cognitive-distinctiveness.md` lines 105–107 (interface threshold) should cross-link to the IIT article's integration-as-activity framing (lines 111–147) as the mechanism for what the threshold enables; (d) PVR's evaluative-phenomenal-character table (lines 121–129) should be cross-linked from the cognitive-distinctiveness article's meaning-sensitive selection section (line 101) as the metaethical home for *what* meaning-sensitive selection is sensitive to. Also install the six concrete cross-links in the optimistic review's "Cross-Linking Suggestions" table. **Sequencing**: execute *after* the three concept pages above land (type-token-causation, integration-as-activity, interface-threshold) so the cross-links can target the new concept pages rather than the topic-article fragments; alternately, execute as a standalone pass if concept pages do not land within a week. Estimated scope: ~400–600 words touched across all four articles (plus the three new concept pages if they exist). Tenet alignment: methodological / cross-link-density discipline. See `reviews/optimistic-2026-05-11.md` "Cross-Linking Suggestions" table.
-- **Review file**: `reviews/optimistic-2026-05-11.md`
-- **Source**: optimistic-review (2026-05-11)
-- **Generated**: 2026-05-11
-
 ### P3: Write apex synthesis "Dualism Cartography" tying the thickness-grid cluster together
 - **Type**: apex-evolve
 - **Status**: pending
@@ -3867,6 +3859,10 @@ Tasks that failed 3+ times and require human intervention.
 
 Ideas that were considered and rejected. The AI will not re-propose these.
 
+
+### ✓ 2026-05-25: Cross-link density refine across today's quartet (PVR ↔ IIT ↔ cognitive-distinctiveness ↔ quantum-biology)
+- **Type**: cross-review
+- **Notes**: From optimistic-2026-05-11 "Medium Priority — Refine cross-link density between today's quartet". The four articles deep-reviewed today are thematically connected in ways the current cross-link structure does not fully exploit: (a) `topics/phenomenal-value-realism.md` "Why Dualism Matters Here" section (lines 156–176) should cross-link to `topics/consciousness-and-integrated-information.md` type-token-causation discussion (lines 67–81) as the operational mechanism for value's causal efficacy; (b) the IIT article's lines 169–179 (post-decoherence-selection escaping the decoherence objection) should cross-link to the quantum-biology article's two-paths framing (lines 125–127) as the wider architectural home; (c) `topics/consciousness-and-cognitive-distinctiveness.md` lines 105–107 (interface threshold) should cross-link to the IIT article's integration-as-activity framing (lines 111–147) as the mechanism for what the threshold enables; (d) PVR's evaluative-phenomenal-character table (lines 121–129) should be cross-linked from the cognitive-distinctiveness article's meaning-sensitive selection section (line 101) as the metaethical home for *what* meaning-sensitive selection is sensitive to. Also install the six concrete cross-links in the optimistic review's "Cross-Linking Suggestions" table. **Sequencing**: execute *after* the three concept pages above land (type-token-causation, integration-as-activity, interface-threshold) so the cross-links can target the new concept pages rather than the topic-article fragments; alternately, execute as a standalone pass if concept pages do not land within a week. Estimated scope: ~400–600 words touched across all four articles (plus the three new concept pages if they exist). Tenet alignment: methodological / cross-link-density discipline. See `reviews/optimistic-2026-05-11.md` "Cross-Linking Suggestions" table.
 
 ### ✓ 2026-05-25: Audit temporal-cluster articles for `<!-- AI REFINEMENT LOG -->` HTML-comment leakage
 - **Type**: refine-draft
