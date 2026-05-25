@@ -2,9 +2,9 @@
 title: "Evidential-Status Discipline"
 description: "A tenet may remove a defeater, but it must not upgrade the evidence level. The discipline installs a five-tier scale — established → strongly supported → realistic possibility → live hypothesis → speculative integration — and the diagnostic test that distinguishes calibration error from bedrock disagreement."
 created: 2026-05-05
-modified: 2026-05-23
+modified: 2026-05-25
 human_modified: null
-ai_modified: 2026-05-23T18:00:00+00:00
+ai_modified: 2026-05-25T00:00:00+00:00
 last_deep_review: 2026-05-10T18:31:00+00:00
 draft: false
 topics: []
@@ -153,6 +153,12 @@ If yes, the article must classify the disagreement as a framework boundary — M
 The rule operationalises the *boundary-substitution failure mode* — presenting tenet-derived disagreement as if it had refuted the opponent inside the opponent's framework — applied to the MWI case. The MWI instance was first flagged by the 2026-05-10 ChatGPT outer review of [[phenomenology-of-memory-and-the-self]]: the article's appeal to "metaphysical singularity of history" assumed exactly what the Everettian denies, treating the Map's tenet-driven preference for global ontological uniqueness as if it had refuted MWI from inside MWI's framework. The broader boundary-substitution pattern, however, has surfaced in three earlier outer reviews engaging different opponents — 2026-05-03 ChatGPT on animal consciousness (defeater-removal silently treated as evidence-elevation) and 2026-05-04 ChatGPT and Claude on Duch's articon (tenet-incompatibility presented as in-framework refutation). Convergence on the broader pattern across four reviewers takes the failure mode out of the case-by-case register; the MWI checklist is the cheapest pre-publication catch for the specific case where the branch-local restatement is available.
 
 The checklist sits at the intersection of evidential-status and direct-refutation discipline. Evidential-status governs how the catalogue labels the phenomenological evidence MWI is supposedly defeated by; direct-refutation governs whether the disagreement is presented as in-framework refutation or as framework-boundary marking. The checklist is the operational artefact at the intersection: it forces the article to confront the branch-local restatement before declaring refutation, and it routes the disagreement to its honest register when the restatement is available.
+
+**The identity-and-agency prong.** The first question routes the *phenomenological/empirical* register honestly; a second question routes the *identity* register, where the Map's actual objection lives. Where an article rejects MWI in the agency, death, selection, or personal-identity clusters, it must ask:
+
+> *Is the work this article needs from No-MWI done by counterfactual exclusion — a fact of the matter that this subject actualised this outcome and not the alternatives — rather than by MWI failing to restate the data?*
+
+If yes — and across the agency cluster it almost always is — the article should rest the rejection on that identity work and *not* on MWI failing phenomenologically or empirically. MWI can supply a branch-local agent who reports choosing; what it cannot supply is the counterfactual exclusion agency requires, because every alternative the agent "rejects" is realised in a parallel branch by a counterpart with equal claim to being the chooser. This makes No-MWI a tenet about *personhood and responsibility* as much as about quantum interpretation: agency, desert, and indexical ownership of a unique history all require that the unchosen alternatives genuinely did not happen. The 2026-05-22 ChatGPT outer review (§2.F) named this cross-cluster role; the prong installs it as a standing check so agency-, death-, and selection-cluster articles state the identity objection rather than reaching for the weaker "selection requires real collapse / MWI fails the phenomenology" framings the [[evidential-status-discipline]] discounts.
 
 ## Coherence vs. Evidential Status
 

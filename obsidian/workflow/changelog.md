@@ -1,9 +1,19 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-25T14:25:00+00:00
+ai_modified: 2026-05-25T15:10:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-05-25T15:10:00+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[topics/free-will]]
+- **Original score**: n/a (curate review tool absent in this checkout; worked from outer-review-2026-05-22-chatgpt-5-5-pro §2.F + §4 Tenet 4 guidance)
+- **Changes**: First sub-pass of the parent MWI-checklist task (todo line 66). (1) **Checklist reference established at canonical source, not duplicated.** Discovered the "MWI checklist" already exists at [[project/evidential-status-discipline]]#MWI-Specific Review Checklist (added 2026-05-10) covering the branch-local-restatement-vs-framework-boundary register. Added a second prong to it — the *identity-and-agency prong* — installing the 2026-05-22 §2.F counterfactual-exclusion point as a standing check: agency/death/selection/identity articles must rest No-MWI rejection on counterfactual exclusion (a fact that *this* subject actualised *this* outcome, not the alternatives) rather than on MWI failing phenomenologically/empirically; makes the cross-cluster personhood-and-responsibility role explicit. (2) **Applied to free-will.md** (highest-leverage agency-cluster anchor). Rewrote the No-MWI tenet-relation bullet (was "Selection requires real collapse… MWI fails on multiple fronts"): now leads with the indexical/counterfactual-exclusion objection, notes MWI *can* restate the deliberative data branch-locally (so it does not straightforwardly fail empirically), demotes "requires real collapse" to a weaker framework-boundary disagreement, cites the checklist, and distinguishes Deutsch-Wallace rational policy from authorship. Net +~95 words on a 3258-word article (~2.9%); rephrased to avoid the "This is not X. It is Y." cliché.
+- **Engagement classification**: Everettian/MWI — Mode Three (framework-boundary marking). The rejection is a tenet (Tenet 4), not a derived refutation; the edit explicitly routes the disagreement to its honest register rather than presenting tenet-derived disagreement as in-framework refutation. No label leakage into article prose.
+- **Honoured**: [[project/evidential-status-discipline]] — indexical objection load-bearing; "selection requires real collapse" / phenomenological objections demoted to weaker, non-decisive. Tenet 4 (Rejection of MWI), Tenet 1 (identity-side).
+- **Parent task left open.** Remaining sub-passes: `topics/death` (no MWI treatment currently — may need one added), `topics/machine-consciousness` (3 mentions: lines ~103/111/221 — haecceity framing already identity-leaning but should cite the checklist and the counterfactual-exclusion prong), `topics/forward-in-time-conscious-selection` (already careful — MWI noted as satisfying phenomenological fit / a tie-breaker; light pass to cite checklist + counterfactual-exclusion), `apex/machine-question` (line ~182 haecceity bullet — cite checklist), and the wider agency cluster ([[agent-causation]], [[concepts/moral-responsibility]]).
+- **Published**: yes (drafts remain draft:false per existing state; no draft-flag changes)
 
 ## 2026-05-25T12:42:11+00:00 - deep-review
 - **Status**: Success (converged — no critical or medium issues; no content edits)
