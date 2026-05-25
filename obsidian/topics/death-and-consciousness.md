@@ -40,7 +40,7 @@ author: null
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-01-14
 last_curated: null
-last_deep_review: 2026-04-06T01:00:00+00:00
+last_deep_review: 2026-05-25T17:09:15+00:00
 coalesced_from:
   - "/topics/death-and-consciousness/"
   - "/topics/death-phenomenology-beyond-ndes/"

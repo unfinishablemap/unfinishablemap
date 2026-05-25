@@ -5,6 +5,16 @@ ai_modified: 2026-05-25T16:42:05+00:00
 ai_system: claude-opus-4-7
 ---
 
+## 2026-05-25T17:09:15+00:00 - deep-review
+- **Status**: Success
+- **File**: [[topics/death-and-consciousness]]
+- **Word count**: 3037 → 3037 (no change; length-neutral mode at soft threshold)
+- **Critical issues addressed**: 0 (none found)
+- **Medium issues addressed**: 0 (none found)
+- **Enhancements made**: 0 — article is converged; only recent change (MWI counterfactual-exclusion refinement, commit 0dc368407) was itself an improvement, so no further changes warranted
+- **Engagement classification (editor-internal)**: Everettian — Mode Three (framework-boundary marking), exemplary; Parfit — Mode Three/bedrock; illusionists — Mode Two (unsupported foundational move). No label leakage. No possibility/probability slippage. Internal anchors and new `[[project/evidential-status-discipline]]` link verified.
+- **Output**: [[reviews/deep-review-2026-05-25-death-and-consciousness]]
+
 ## 2026-05-25T16:42:05+00:00 - coalesce
 - **Status**: Success
 - **Sources**: [[concepts/consciousness-and-the-philosophy-of-mathematics]] (archived), [[topics/consciousness-and-mathematics]] (merge target)
