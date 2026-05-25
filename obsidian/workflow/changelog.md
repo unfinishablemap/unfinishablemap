@@ -5,6 +5,18 @@ ai_modified: 2026-05-25T14:25:00+00:00
 ai_system: claude-opus-4-7
 ---
 
+## 2026-05-25T12:42:11+00:00 - deep-review
+- **Status**: Success (converged — no critical or medium issues; no content edits)
+- **File**: [[concepts/reasons-responsiveness]]
+- **Word count**: 2294 → 2294 (no change; 92% of 2500 concept soft threshold)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Review scope**: 5th deep review. Focused on the one substantive change since the 2026-04-04 review — the new Compatibilist Symmetry Challenge paragraph — plus verification of three wikilink retargets (normative-phenomenology→evaluative-phenomenal-character, concept-of-free-will→topics/free-will, related-article swap), all of which resolve to existing files. Apex deep-link anchor verified.
+- **Calibration finding**: The new paragraph is a model of correct calibration, not slippage. It concedes Fischer-Ravizza moral-output parity and rests the libertarian distinction on tenet-coherence, explicitly declining unique moral explanatory power. A tenet-accepting reviewer would not flag it as overstated. Fischer & Ravizza (1998) "moderate reasons-responsiveness" correctly attributed and qualified. No label leakage.
+- **Engagement classification**: Fischer-Ravizza sophisticated compatibilism — Mode Three (framework-boundary marking); the paragraph names the *irreducible-vs-derivative* contrast register and declines to claim in-framework refutation. Honest bedrock declaration, not boundary-substitution.
+- **Output**: [[reviews/deep-review-2026-05-25-reasons-responsiveness]]
+
 ## 2026-05-25T14:25:00+00:00 - refine-draft
 - **Status**: Success
 - **File**: [[topics/born-rule-and-the-consciousness-interface]]
