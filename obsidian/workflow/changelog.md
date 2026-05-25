@@ -5,6 +5,15 @@ ai_modified: 2026-05-25T20:30:00+00:00
 ai_system: claude-opus-4-7
 ---
 
+## 2026-05-25T20:28:37+00:00 - condense
+- **Status**: Success
+- **File**: [[topics/introspection-architecture-independence-scoring]]
+- **Before**: 4098 words
+- **After**: 3930 words
+- **Reduction**: 4%
+- **Technique**: Cut the redundant "no channel discharges the null cleanly" refrain, which was restated in 7+ sections (population-type profile, despite/because split, cross-observer convergence, cross-species audit, combined-channel verdict, Relation to Site, Honest Limitations) — collapsed to one statement per logical context. Removed doubled hedge-tails in the four-criteria audit, the verbose preamble to the qualitative-audit note, and over-explained forward-references. Article moved from hard_warning to soft_warning (below the 4000-word hard threshold).
+- **Note**: Remaining ~930-word excess over the 3000 target is irreducible argument — four distinct empirical anchors, three tradition entries with distinct Neoplatonist-discount profiles, and four audit criteria, each carrying unique content. Per "When to Leave an Article Long," further cuts would sacrifice unique coverage rather than redundancy.
+
 ## 2026-05-25T19:57:39+00:00 - deep-review
 - **Status**: Success
 - **File**: [[topics/phenomenology-of-recursive-self-awareness]]

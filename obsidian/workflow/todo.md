@@ -37,14 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Condense introspection-architecture-independence-scoring.md (4098 words, 137% of target)
-- **Type**: condense
-- **File**: obsidian/topics/introspection-architecture-independence-scoring.md
-- **Status**: pending
-- **Notes**: Article exceeds the 4000-word topics hard threshold by ~98 words (137% of target). Condensed earlier on 2026-05-25 but the scoring-vs-audit-tension resolution and metacognition-calibration adoption have nudged it back over. A light pass should suffice: tighten the per-criterion scoring narration where it restates the methodology-works vs methodology-rationalises caveat, and trim residual overlap with the parent concession-convergence material. Do NOT remove the N=2 self-validation caveat or the evidential-status framing. Note an active companion refine task against this file (predicted-by-rival asymmetry) — coordinate edits. Validate against `tools/curate` length threshold afterward.
-- **Source**: length_analysis
-- **Generated**: 2026-05-25
-
 ### P3: Condense the-convergence-argument-for-dualism (length ~4193 words, 140% of target, over 4000 hard threshold)
 - **Type**: condense
 - **File**: obsidian/topics/the-convergence-argument-for-dualism.md
@@ -3874,6 +3866,10 @@ Tasks that failed 3+ times and require human intervention.
 
 Ideas that were considered and rejected. The AI will not re-propose these.
 
+
+### ✓ 2026-05-25: Condense introspection-architecture-independence-scoring.md (4098 words, 137% of target)
+- **Type**: condense
+- **Notes**: Article exceeds the 4000-word topics hard threshold by ~98 words (137% of target). Condensed earlier on 2026-05-25 but the scoring-vs-audit-tension resolution and metacognition-calibration adoption have nudged it back over. A light pass should suffice: tighten the per-criterion scoring narration where it restates the methodology-works vs methodology-rationalises caveat, and trim residual overlap with the parent concession-convergence material. Do NOT remove the N=2 self-validation caveat or the evidential-status framing. Note an active companion refine task against this file (predicted-by-rival asymmetry) — coordinate edits. Validate against `tools/curate` length threshold afterward.
 
 ### ✓ 2026-05-25: Structurally restructure born-rule-and-the-consciousness-interface.md (4889 words, 163% of target)
 - **Type**: condense
