@@ -1,9 +1,21 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-25T10:27:30+00:00
+ai_modified: 2026-05-25T10:35:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-05-25T10:35:00+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[apex/phenomenology-mechanism-bridge]]
+- **Source**: Outer-review 2026-05-22 ChatGPT 5.5 Pro §3.E and §6.5 (improvement 5). The agency bridge begins from felt willing and treats clinical dissociations as architectural evidence; the introspection-architecture cluster is more severe — consciousness receives reconstructed outputs without process access. The reconciliation is honest but needed a visible ladder of evidential reliability so readers can see which kind of report each level leans on.
+- **Changes**:
+  - **Added a "Calibrated Phenomenology" inset** (blockquote) immediately after Level One, where the article leans hardest on phenomenology, so the ladder governs how the later levels' reports are weighted. Five-rung ladder of declining reliability: (1) content reports — high, cross-checked by clinical dissociations and intentional binding; (2) agency/passivity reports — mid, comparator can misfire but distinction is clinically structured; (3) process reports — low, introspection-architecture denies process readout, and this is where the discrimination problem bites; (4) causal-power reports — lower, feeling of efficacy does not show consciousness contributed the cause, so causal claims are anchored in third-person findings; (5) metaphysical inferences — framework-internal only, registered as commitments not data. Closing paragraph states the chain is *built to lean low*: Levels One/Two draw force from content/agency-tier reports cross-checked against third-person measures, Level Three's quantum proposal inherits process-tier reliability (candidate mechanism, not introspective deliverance), Level Four is openly framework-internal.
+  - **Cross-linked** [[apex/introspection-architecture-void-cluster]] (named as the cluster that "sets the ceiling") and [[concepts/discrimination-problem]] (the Map article anchoring the discrimination problem, at the process-report rung where reports cannot certify genuine phenomenality vs. sophisticated functional process). Added `concepts/discrimination-problem` to frontmatter concepts.
+  - **Net length-aware** (article was condensed to ~3710-word body earlier today, commit c5cba47e, near the 4000 ceiling): trimmed the intro's redundant coherence-discount tail (the artifact-of-method point and countermeasures link are fully developed later in "The Chain as Evidence"; replaced with a same-page anchor pointer `[[#The Chain as Evidence|...]]`). Body landed at 3916 words — inset is the intended net addition, still under ceiling.
+- **Named-opponent engagement (editor-internal)**: the "opponent" here is an internal Map tension (introspection-architecture cluster vs. the bridge's phenomenology-first starting point), not an external framework. Mode Three — framework-boundary marking. The introspection-architecture constraint is the more severe view; the chain *defers* to it ("where consciousness lacks process access, the bridge cannot read its own mechanism off the phenomenology, and does not claim to") rather than refuting it. No in-framework refutation was available or attempted, because the two are co-tenable Map commitments to be reconciled, not opposed; the honest reconciliation is the methodological calibration (phenomenology is a reliable datum about content/structure, not about its own production process). No label leakage (forbidden-vocabulary scan clean).
+- **Tenet alignment**: Tenet 1 (Dualism) and Tenet 3 (Bidirectional Interaction) — methodological calibration of phenomenology-as-evidence; the ladder makes explicit that the chain's causal and metaphysical claims do not rest on process- or causal-power-tier introspection.
+- **Published**: yes
 
 ## 2026-05-25T10:27:30+00:00 - refine-draft
 - **Status**: Success
