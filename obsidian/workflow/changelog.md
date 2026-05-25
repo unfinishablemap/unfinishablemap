@@ -5,6 +5,17 @@ ai_modified: 2026-05-25T22:34:54+00:00
 ai_system: claude-opus-4-7
 ---
 
+## 2026-05-25T22:38:07+00:00 - deep-review
+- **Status**: Success
+- **File**: [[apex/self-concealing-interface]]
+- **Word count**: 3026 → 3025 (-1)
+- **Critical issues addressed**: 2 (both quotation-fidelity / dropped-qualifier). (1) Memory-hierarchy quote in §"Five Consequences" was passed off as verbatim but inserted "exactly"/"most" and dropped three hedges ("appears to be", "would", "seem to") — strengthening a deliberately hedged interface-prediction claim; restored source wording. (2) Taxonomy-of-voids quote inserted "Map's" and "then" inside quotation marks; restored verbatim source ("if the tenet-package is correct, ...").
+- **Medium issues addressed**: 0 (concealment-derivation repetition judged load-bearing, not filler).
+- **Enhancements made**: 0 — article is below soft threshold (3025/4000) but its thesis is a calibration guardrail; expansion deliberately declined to avoid introducing the possibility/probability slippage the piece exists to prevent. Stable.
+- **Reasoning modes** — engagement with "the sceptic" (unfalsifiability charge): Mode One/Mixed, answered on the sceptic's own terms then honest boundary-marking; engagement with "the believer" (hiddenness-confirms-it): Mode Three honest concession ("evidentially inert between the Map and eliminativism"). Both are Map-internal disciplinary voices, not external opponents. No label leakage in prose.
+- **Attribution check**: 5 of 7 source quotes verified verbatim; the 2 non-verbatim ones fixed (above). No source/Map conflation, false shared commitments, or self-contradiction. All 19 body wikilink targets verified to exist.
+- **Output**: [[reviews/deep-review-2026-05-25-self-concealing-interface]]
+
 ## 2026-05-25T22:34:54+00:00 - refine-draft
 - **Status**: Success
 - **File**: [[topics/animal-consciousness]]

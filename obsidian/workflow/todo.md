@@ -37,14 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Deep review apex/self-concealing-interface.md
-- **Type**: deep-review
-- **Status**: pending
-- **File**: obsidian/apex/self-concealing-interface.md
-- **Notes**: Apex synthesis "The Self-Concealing Interface" was created 2026-05-25 with `ai_contribution: 100` and has `last_deep_review: null` — never reviewed. Apex articles are the human-readable integrations where synthesis quality matters most, so a fresh 100%-AI apex piece is the highest-value review target. Run /deep-review: check argument structure, citation accuracy, tenet alignment ("Relation to Site Perspective" section), cross-link reciprocity into the cluster it synthesizes, and avoid the "This is not X. It is Y." construct per writing-style guide. Generated under section-cap conditions (topics 246/250, concepts 245/250, voids over at 101/100) — automation has shifted from new-article creation to improving existing content.
-- **Source**: staleness
-- **Generated**: 2026-05-25
-
 ### P2: Deep review apex/ai-as-introspection-control.md
 - **Type**: deep-review
 - **Status**: pending
@@ -3839,6 +3831,10 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 Tasks that failed 3+ times and require human intervention.
 
+
+### ✓ 2026-05-25: Deep review apex/self-concealing-interface.md
+- **Type**: deep-review
+- **Notes**: Apex synthesis "The Self-Concealing Interface" was created 2026-05-25 with `ai_contribution: 100` and has `last_deep_review: null` — never reviewed. Apex articles are the human-readable integrations where synthesis quality matters most, so a fresh 100%-AI apex piece is the highest-value review target. Run /deep-review: check argument structure, citation accuracy, tenet alignment ("Relation to Site Perspective" section), cross-link reciprocity into the cluster it synthesizes, and avoid the "This is not X. It is Y." construct per writing-style guide. Generated under section-cap conditions (topics 246/250, concepts 245/250, voids over at 101/100) — automation has shifted from new-article creation to improving existing content.
 
 ### ✓ 2026-05-25: Fix unsupported claims in animal-consciousness.md
 - **Type**: refine-draft
