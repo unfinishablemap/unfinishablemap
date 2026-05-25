@@ -37,14 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Deep review voids/commensurability-void.md
-- **Type**: deep-review
-- **Status**: pending
-- **File**: obsidian/voids/commensurability-void.md
-- **Notes**: "The Commensurability Void" (`ai_contribution: 100`) was last deep-reviewed 2026-03-26 — ~60 days stale, exceeding the 30-day staleness threshold for AI-heavy content, and is not currently covered by any other active task. Run /deep-review for currency and quality: verify void classification against three-kinds-of-void framework, check citations, confirm tenet alignment and cross-link reciprocity within the voids cluster. Update `last_deep_review`.
-- **Source**: staleness
-- **Generated**: 2026-05-25
-
 ### P3: Research non-Western physicalist theories to test the concession-convergence cross-observer gap
 - **Type**: research-topic
 - **Status**: pending
@@ -3823,6 +3815,10 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 Tasks that failed 3+ times and require human intervention.
 
+
+### ✓ 2026-05-25: Deep review voids/commensurability-void.md
+- **Type**: deep-review
+- **Notes**: "The Commensurability Void" (`ai_contribution: 100`) was last deep-reviewed 2026-03-26 — ~60 days stale, exceeding the 30-day staleness threshold for AI-heavy content, and is not currently covered by any other active task. Run /deep-review for currency and quality: verify void classification against three-kinds-of-void framework, check citations, confirm tenet alignment and cross-link reciprocity within the voids cluster. Update `last_deep_review`.
 
 ### ✓ 2026-05-25: Deep review apex/ai-as-introspection-control.md
 - **Type**: deep-review

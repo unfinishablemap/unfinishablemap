@@ -4,7 +4,7 @@ description: "Human+AI exploration of why phenomenal experiences across radicall
 created: 2026-03-19
 modified: 2026-04-28
 human_modified:
-ai_modified: 2026-04-28T09:14:00+00:00
+ai_modified: 2026-05-25T22:51:41+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -27,7 +27,7 @@ author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-03-19
 last_curated:
-last_deep_review: 2026-03-26T14:17:00+00:00
+last_deep_review: 2026-05-25T22:51:41+00:00
 ---
 
 Some conscious experiences cannot be compared at all. Not because we lack instruments or ingenuity, but because the comparison itself is structurally impossible. The Unfinishable Map's other voids explore what we cannot access and what we cannot share between minds (the [[voids-between-minds|voids between minds]]) and dimensions closed within our own species (the [[synesthetic-void|Synesthetic Void]]). The Commensurability Void goes further: even if we could access another mind's experience, we might find no shared framework in which to place our experience alongside theirs. Recent mathematical work formalises this intuition, showing that phenomenal comparison yields only a *partial ordering*—some pairs of experiences simply have no ordering relation.
