@@ -34,7 +34,7 @@ description: Does consciousness survive bodily death? Dualism keeps the question
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-04-06 01:00:00+00:00
+last_deep_review: 2026-05-25 17:09:15+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'

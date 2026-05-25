@@ -1,13 +1,166 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-25 16:42:05+00:00
+ai_modified: 2026-05-25 20:30:00+00:00
 ai_system: claude-opus-4-7
 concepts: []
 date: '2026-05-25'
 related_articles: []
 title: Changelog
 ---
+
+## 2026-05-25T19:57:39+00:00 - deep-review
+- **Status**: Success
+- **File**: [phenomenology-of-recursive-self-awareness](/topics/phenomenology-of-recursive-self-awareness/)
+- **Word count**: 2954 → 2954 (no body change; converged)
+- **Critical issues addressed**: 0 (none found)
+- **Medium issues addressed**: 0 (none found)
+- **Enhancements made**: 0 (the 2026-05-19 mine-ness/agency two-layer addition, the only substantive change since the 2026-04-06 review, was assessed and found sound — well-integrated, factually accurate against [mine-ness](/concepts/mine-ness/), properly framed as Map-internal synthesis)
+- **Attribution check**: pass (thought-insertion and depersonalisation double dissociation match [mine-ness](/concepts/mine-ness/) exactly; no misattribution, no dropped qualifiers)
+- **Calibration check**: pass (no possibility/probability slippage; dissociation claims are clinically grounded, not tenet-inflated)
+- **Engagement classification** (editor-internal): functionalist / Higher-Order Thought theorist — Mode Two with Mode Three residue (article names the unearned bridge from computational distinctiveness to phenomenal character, then declares the residual explanatory gap as bedrock; expressed in natural prose, no label leakage)
+- **Links**: all 28 wikilink targets verified existing; [mine-ness](/concepts/mine-ness/) reciprocity confirmed
+- **Output**: [deep-review-2026-05-25-phenomenology-of-recursive-self-awareness](/reviews/deep-review-2026-05-25-phenomenology-of-recursive-self-awareness/)
+
+## 2026-05-25T19:32:50+00:00 - optimistic-review
+- **Status**: Success
+- **Content reviewed**: The mathematics-and-consciousness cluster — five articles freshly modified today at 16:42 UTC and untouched by the day's three earlier optimistic reviews: `topics/consciousness-and-mathematics`, `topics/mathematical-structure-of-the-consciousness-physics-interface`, `topics/concession-convergence-philosophy-of-mathematics`, `topics/comparative-phenomenology-of-mathematical-insight`, `topics/self-reference-and-the-limits-of-physical-description`. Finding: exceptionally well-calibrated cluster running one claim (conscious mathematical understanding is irreducible) through four independent registers (ontological, phenomenological, foundational-historical, formal-mathematical) plus a physics-interface companion. Standout: the disowning of Lucas-Penrose while keeping the destination — a textbook register-separation move. Process Philosopher and Hardline Empiricist personas converge rather than conflict; no calibration concern to flag. One P3 expand-topic task generated (Ramanujan as cross-tradition phenomenology-of-reception exhibit).
+- **Output**: [optimistic-2026-05-25d](/reviews/optimistic-2026-05-25d/)
+
+## 2026-05-25T20:30:00+00:00 - refine-draft
+- **Status**: Success
+- **File**: [the-convergence-argument-for-dualism](/topics/the-convergence-argument-for-dualism/)
+- **Source review**: [pessimistic-2026-05-10](/reviews/pessimistic-2026-05-10/) Issues 4–6 (Medium). Issues 1–3 (High) were already addressed in prior revisions; this pass closed the three Medium issues.
+- **Issue 4 (phenomenal concept strategy dispatched too quickly)**: expanded the half-page response into a fuller engagement. Added the Loar (1990) recognitional vs. Papineau (2002) quotational vs. Balog (2012) constitutional distinction; argued the recognitional variant is weaker against the third-person-anchored binding prong (Cluster 3) while the quotational variant locates the residual gap at concept-constitution and so retains some traction there; named the strategy's failure as *contested rather than established* (Chalmers's master argument vs. defenders) and placed its assessment in the open posterior balance, not the converged conclusion; conceded the strategy has a ready answer to the cross-cultural-robustness burden.
+- **Issue 5 (cognitive-closure response overreaches to "favours dualism")**: replaced the unargued upgrade with "favours taking the irreducibility verdict seriously rather than waiting for closure to lift; the further question of whether irreducibility supports dualism over its rivals depends on additional considerations the Map develops elsewhere," with a forward link to the From-Irreducibility-to-Dualism section and an explicit note that mysterianism is a defensible alternative the Map's preference rests on bidirectional interaction to outweigh.
+- **Issue 6 (early-Chinese-philosophy independence claim weakly supported)**: chose the lower-risk honest-downgrade option over substituting an unsourced tradition. Now states Zhuangzi's butterfly dream sits closer to Madhyamaka emptiness (fluid self, permeable state-boundaries) than to irreducibility-recognition, and *li*/*qi* is physicalist-friendly on many readings; reframed to near-independence between Indian and Western traditions — strong enough against a parochially-Western-methodology explanation, not strong enough to count as a third independent confirmation; flagged Indigenous American / West African ontologies as candidate genuinely-independent lineages and pointed to the companion article for the open work.
+- **Engagement classifications** (editor-internal): phenomenal concept strategy / Dennett — Mode Two (the strategy is the opponent's strongest unified move; reply identifies that its purchase on the third-person binding prong is unearned and places the contest in the open posterior balance rather than claiming refutation). Mysterianism / McGinn — Mode Three (framework-boundary: the Map's preference for dualism over mysterian agnosticism is honestly routed through the separately-argued bidirectional-interaction tenet, not claimed as in-framework refutation).
+- **Length-awareness**: additions ~+570 words pushed the article from soft_warning into hard_warning (4,296). Offset by tightening the redundant "Coherence Across Routes" section (merged two overlapping paragraphs restating the two-layer/discriminator point; trimmed a discriminator parenthetical now fully covered by the per-rival section above) and trimming the Issue 4/6 prose. Net landed at 4,193 words — still ~193 over the 4,000 hard threshold. Did not cut further because remaining material is load-bearing argument, not redundancy. Follow-up condense task created.
+- **New references**: Loar (1990), Papineau (2002), Balog (2012) added in alphabetical order.
+- **Editor-vocabulary check**: clean — no mode labels, classification headers, or evidential-status callouts leaked into the body.
+- **Published**: yes
+
+## 2026-05-25T19:11:15+00:00 - cross-review
+- **Status**: Success
+- **Task**: Cross-link density refine across the quartet PVR ↔ IIT ↔ cognitive-distinctiveness ↔ quantum-biology. Integration pass — add reciprocal wikilinks where articles substantively bear on each other; no content expansion; length-aware (quantum-biology recently condensed, near soft threshold).
+- **Baseline cross-link audit**: only 4 of 12 directed edges existed among the four (PVR→IIT, IIT→QB, cog-dist→IIT, cog-dist→PVR); quantum-biology linked to none of the trio.
+- **Reciprocal body links added**: IIT→PVR (`#against-epiphenomenal-value`, on the token-level-causation/moral-weight passage that PVR already pointed back to); quantum-biology→IIT (`#integration-as-selective-activity`, framing post-decoherence selection as the substrate side of integration-as-activity); cog-dist→quantum-biology (MQI relation section, post-decoherence-selection compatibility); IIT→cog-dist (`#the-intelligence-threshold`, threshold as where selective integration begins).
+- **Frontmatter `related_articles` reciprocity**: added QB+cog-dist+PVR to IIT; IIT+cog-dist to QB; QB to cog-dist.
+- **Length-neutrality**: PVR untouched (0). IIT 3585→3599 (+14, held at 120%). quantum-biology 3861→3876 (+15, held at 129% — did not rise into a higher band; offsetting trims applied to the decoherence and measurement-problem passages). cognitive-distinctiveness 2442→2496 (+54, has headroom at 83%).
+- **Anchors verified**: all six linked section anchors exist in their targets. Frontmatter validates clean (the one topics/ invalid file, `non-temporal-consciousness.refinement-log.md`, is pre-existing and untouched).
+- **Files**: [consciousness-and-integrated-information](/topics/consciousness-and-integrated-information/), [quantum-biology-and-neural-consciousness](/topics/quantum-biology-and-neural-consciousness/), [consciousness-and-cognitive-distinctiveness](/topics/consciousness-and-cognitive-distinctiveness/)
+
+## 2026-05-25T19:04:41+00:00 - deep-review
+- **Status**: Success
+- **File**: [experiential-alignment](/concepts/experiential-alignment/)
+- **Word count**: 3182 → 3193 (+11; length-neutral — critical-fix caveat offset by Whitehead trim; 128% of 2500 soft, under 3500 hard)
+- **Critical issues addressed**: 1 (dropped cross-sectional qualifier on Fox 2012 introspection claim — calibration error caught by the evidential-status discipline; reworded "shows accuracy improvements" → "correlates along a logarithmic curve… cross-sectional, self-selection not ruled out, consistent with," matching the sister [introspection](/concepts/introspection/) article)
+- **Medium issues addressed**: 0
+- **Enhancements made**: 1 (Whitehead paragraph tightened for length-neutrality)
+- **Reasoning-mode classification**: illusionism (Frankish) — Mode Two, foundational-move identification via Tallis regress, refutation not overclaimed; heterophenomenology (Dennett) — Mode Three, boundary-marking. No label leakage in prose.
+- **Output**: [deep-review-2026-05-25-experiential-alignment](/reviews/deep-review-2026-05-25-experiential-alignment/)
+
+## 2026-05-25T18:59:24+00:00 - refine-draft
+- **Status**: Success (no-op — audit confirmed clean)
+- **Task**: Audit temporal-cluster articles for source-side editor-vocabulary leakage (HTML-comment AI REFINEMENT LOG blocks), per optimistic-2026-05-13 medium-priority hygiene finding.
+- **Files audited**: [phenomenology-of-anticipation](/topics/phenomenology-of-anticipation/), [temporal-consciousness-structure-and-agency](/topics/temporal-consciousness-structure-and-agency/), [temporal-consciousness](/concepts/temporal-consciousness/), [phenomenology-of-returning-attention](/topics/phenomenology-of-returning-attention/), [attention-and-the-consciousness-interface](/topics/attention-and-the-consciousness-interface/) (plus [non-temporal-consciousness](/topics/non-temporal-consciousness/) and [consciousness-and-the-ontology-of-temporal-becoming](/topics/consciousness-and-the-ontology-of-temporal-becoming/) for completeness).
+- **Findings**: Zero HTML comments (multiline-safe check) and zero forbidden editor-vocabulary labels (Mode One/Two/Three, direct-refutation-feasible, unsupported-jump, bedrock-perimeter, Engagement classification, Evidential status callouts) in any cluster article body. The cluster was already swept by commit `b78b8096a` (2026-05-19 bulk strip of 65 AI REFINEMENT LOG blocks); `non-temporal-consciousness.md` had its block extracted to sidecar by commit `8a2ef523e`.
+- **Changes**: None to article files — target condition already satisfied. No padding or stylistic edits made (per refine-draft "What NOT to Do").
+- **Published**: n/a (no content change)
+
+## 2026-05-25T18:52:09+00:00 - refine-draft
+- **Status**: Success
+- **File**: [introspection-architecture-independence-scoring](/topics/introspection-architecture-independence-scoring/)
+- **Addressed**: pessimistic-review 2026-05-25b Issues 1 and 3 (both High)
+- **Word count**: 4094 → 4095 (canonical, net-neutral; peaked at 4559 mid-pass, trimmed back so the article is not pushed further over the 4000 topics hard threshold)
+- **Issue 1 (rubric gap)**: Took the preferred lower-risk fix — dropped the ordinal-scoring pretension in favour of a structured-qualitative-audit framing. Renamed three "Scoring" section headers to "Auditing"; added a framing paragraph to the four-criteria section stating there is no rubric and the descriptors mark where evidence is strong vs thin, not a reproducible score; reframed the surplus-void comparison from "scores higher" to "looks stronger" with the N=2/no-rubric/single-grader caveat made explicit; softened overstated grade labels ("architectural-distance triangulation" → "candidate architectural-distance parallel"; per-criterion bare grade-words normalised to qualitative descriptors). Description frontmatter now says "structured qualitative audit, not a graded score." Title slug left unchanged (canonical URL + apex programme name).
+- **Issue 3 (patient-population over-load)**: Took the concede-and-re-ground option. The Population-Type-Profile paragraph now states the discharge works only if the lesion divergence is architectural rather than input-level, gives the common-cause theorist's inputs-not-kind reply, and concedes the lesion literature does not settle it — so the channel supplies unusually-divergent methodological diversity, not clean null-discharge. Re-grounded the net verdict in Despite-Commitments-split, Cross-Species, Relation-to-Site-Perspective, and Honest-Limitations so "partial but real" now rests on convergent breadth across imperfect channels, not on any one clean discharge. Removed the stale "patient-population channel remains/is load-bearing" claims.
+- **Length method**: offset ~250w of necessary new argumentation by tightening dense prose (cross-tradition tradition entries, cross-architecture pivot, empirical-anchor descriptions, redundant per-channel four-criteria restatements, cross-cutting-discount duplication). No argument deleted; the original filter/exhibit conclusion preserved.
+- **Not in scope**: Issues 2 (N=2 leaned-on) and 4 (predicted-by-rival asymmetry) belong to the separate P3 task; the Issue-1 comparison fix incidentally covers most of Issue 2's "scores higher" language.
+- **Published**: yes
+
+## 2026-05-25T19:30:00+00:00 - pessimistic-review
+- **Status**: Success
+- **Content reviewed**: `topics/introspection-architecture-independence-scoring.md` (~4,227 words; second worked exhibit of the per-cluster independence-scoring programme; modified 17:05 today, last deep-reviewed 2026-05-17, never previously the standalone focus of a pessimistic review)
+- **Findings**: 3 High, 1 Medium. High: (1) no scoring rubric — ordinal grades assigned by unstated holistic judgement, making the discrimination claim non-reproducible and unfalsifiable as stated; (2) N=2 self-validation named but then leaned on ("scores higher than the surplus-void" presented as a finding by a constant grader); (3) the load-bearing patient-population channel rests on an architectural-divergence assumption the article itself flags as undischarged (lesions may change the introspective machine's inputs, not its kind). Medium: (4) physicalist rivals *predict* the signature while the Map merely accommodates it — the evidential-status discipline guards only the don't-upgrade-for-dualism direction and never registers the predicted-by-rival asymmetry pointing toward the rival.
+- **Tasks added**: P2 refine-draft (rubric-vs-audit framing + patient-population load-bearing resolution); P3 refine-draft (register predicted-by-rival asymmetry + soften "triangulation"/witness-reification). Upgraded existing P3 "non-flatness test case" task to require explicit-rubric or blind scoring (a third exhibit graded by the same hand does not discharge the N=2 circularity).
+- **Checklist results**: altered-state-symmetry gate did not fire (no supportive-cluster citation); no editor-vocabulary label leakage in prose; no named-opponent direct-refutation structure requiring substitution audit. Article is sentence-level honest — most fixes are acting on concessions it already makes.
+- **Output**: [pessimistic-2026-05-25b](/reviews/pessimistic-2026-05-25b/)
+
+## 2026-05-25T12:00:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [temporal-void](/voids/temporal-void/)
+- **Word count**: 2158 → 2158 (no change; length-neutral mode at 108% of 2000 voids/ soft threshold)
+- **Critical issues addressed**: 0 (none found)
+- **Medium issues addressed**: 0 (none found)
+- **Enhancements made**: 0 (frontmatter timestamps only)
+- **Context**: Third deep review; converged across the 2026-03-08 and 2026-03-18 reviews. Modifications since 2026-03-18 were wikilink retargeting and cross-link additions only (MWI indexicality reply, conjunction-coalesce, edge-states, quantitative-comprehension-void) — no substantive claim changes. Convergence-confirming.
+- **Attribution verification**: All load-bearing citations held — Hancock et al. (2019) flow meta-analysis (earlier Stoll→Hancock fix stays corrected), Dietrich (2004) hypofrontality, Addis/Wong/Schacter (2007) hippocampal asymmetry (cross-checked against [prospective-memory](/concepts/prospective-memory/), consistent), De Brigard (2020). No misattribution, no dropped qualifiers, no source/Map conflation, no self-contradiction.
+- **Calibration**: No possibility/probability slippage. Claims hedged at "suggests"/"may"/"void-adjacent" throughout; no five-tier-scale labels; no tenet-as-evidence upgrade. The MWI No-Many-Worlds paragraph honestly concedes branch-local indexicality and stakes only the stronger one-branch tenet claim.
+- **Engagement classification** (editor-internal, not in article body): illusionist/functionalist challenge — Mixed (response 1 Mode Two "seeming is still experiencing"; response 2 Mode One internal causal-marker constraint; response 3 Mode Three boundary-marking). No label leakage in prose.
+- **Output**: [deep-review-2026-05-25-temporal-void](/reviews/deep-review-2026-05-25-temporal-void/)
+
+## 2026-05-25T19:00:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [relational-quantum-mechanics](/concepts/relational-quantum-mechanics/)
+- **Word count**: 2955 → 2955 (no change; length-neutral mode at 118% of 2500 soft threshold)
+- **Critical issues addressed**: 0 (none found)
+- **Medium issues addressed**: 0 (none found)
+- **Enhancements made**: 0 (frontmatter timestamps only)
+- **Context**: First deep review of the CPL/solipsism content added by the 2026-05-25 refine-draft + condense (commits 4cd081a5a, b12aedeea). The 2026-04-05 review had recommended exclusion-unless-substantive-changes; substantive changes were made, legitimately re-entering rotation. New content is citation-heavy, so attribution and calibration were the priority checks.
+- **Attribution verification** (against live literature via WebSearch): Adlam & Rovelli 2023 (CPL replaces original fourth postulate "Relativity of comparisons" — confirmed), Lewis 2024 (dilemma stated exactly), Muciño-Okon-Sudarsky 2022 *Synthese* 200(5), Rovelli 2021 arXiv:2106.03205 — all accurate, no overstatement, no source/Map conflation.
+- **Calibration**: No possibility/probability slippage. CPL claims are about RQM's internal dialectic, not Map evidential standing; the Map's reading leaves Lewis's dilemma open rather than letting tenets settle it. Tenet-accepting reviewer would not flag any claim as overstated.
+- **Engagement classification** (editor-internal, not in article body): illusionism (Dennett/Frankish) — Mixed (Tallis reply Mode One/Two, residue Mode Three, declared honestly); RQM universalised-observer (Rovelli) — Mode Three, explicit framework-boundary. No label leakage in prose.
+- **Output**: [deep-review-2026-05-25-relational-quantum-mechanics](/reviews/deep-review-2026-05-25-relational-quantum-mechanics/)
+
+## 2026-05-25T17:05:00+00:00 - refine-draft
+- **Status**: Success
+- **File**: [introspection-architecture-independence-scoring](/topics/introspection-architecture-independence-scoring/)
+- **Source**: topic-concept anchoring audit 2026-05-25 (Audit Three of the calibration audit triple). Article over-claimed relative to anchor concept [metacognition](/concepts/metacognition/); failed checks: hedge_density (1.75/kw, below 60% of anchor's 8.16/kw) and strong_assertions (1.25/kw, exceeding 1.5× anchor's 0.30/kw). Article also flagged against [introspection](/concepts/introspection/) and [witness-consciousness](/concepts/witness-consciousness/) anchors on the same two checks.
+- **Changes**:
+  - Softened all 5 strong-assertion verbs (down to 0): "confirms deliberate differentiation" → "is consistent with deliberate differentiation rather than curation bias"; "Hampton's macaque metamemory confirms" → "appears to replicate"; "demonstrates by retraction what this exhibit demonstrates by partial retention" → "may illustrate the same point from opposite directions"; "neither adopts nor refutes" → "neither adopts nor rejects". Each verb sat on an interpretive scoring judgement, not a reported fact, so the softening inherits the anchor concepts' calibration rather than weakening any finding.
+  - Raised hedge density from 1.75/kw to 5.13/kw by hedging genuinely interpretive verdicts previously stated flat: the patient-population "null's preferred test class" claim, structured-persistence verdicts (Nisbett-Wilson scope, Schnider mechanism), the framework-supplied "significance" inference, the substrate-to-architecture inference, the cross-species despite-commitments reading, the Vogel silicon-parallel claim, and the Advaita *antaḥkaraṇa*/*ahaṃkāra* scoring. No definitional or empirical-anchor statements were hedged into vagueness; only interpretive scoring calls inherited the anchor's discipline.
+- **Verification**: `tools.curate.anchoring.evaluate_anchoring` returns no flags against any of the three anchor concepts (hedge 21 count / 5.13 per-kw, 0 strong-assertion verbs, 4094 words). Frontmatter validates.
+- **Voice preservation**: central conclusion (the cluster earns partial-but-real evidential weight concentrated in the patient-population channel, with auxiliary channels calibration-grade not load-bearing) unchanged; this was a calibration pass only, not a weakening of the argument.
+- **Published**: yes
+
+## 2026-05-25T17:57:47+00:00 - refine-draft
+- **Status**: Success
+- **File**: [four-quadrant-dualism-taxonomy](/topics/four-quadrant-dualism-taxonomy/)
+- **Source**: topic-concept anchoring audit 2026-05-25 (Audit Three of the calibration audit triple). Article over-claimed relative to anchor concept [substance-property-dualism](/concepts/substance-property-dualism/); failed checks: hedge_density (1.96/kw vs 60% of anchor's 9.90/kw) and strong_assertions (1 strong-assertion verb where anchor uses none). Article also flagged against [panpsychism](/concepts/panpsychism/) and [idealism](/concepts/idealism/) anchors on the same hedge-density gap.
+- **Changes**:
+  - Softened the lone strong-assertion verb ("the Stapp illustration *shows that*..." → "*suggests* these dimensions can come apart"), inheriting the anchor's calibration on an interpretive taxonomic claim.
+  - Raised hedge density from 1.96/kw to 5.83/kw by hedging genuinely interpretive verdicts that were previously stated in unhedged "is/does" form: the lead's literature-avoidance claim, the axes-pull-apart claim, the Q3-instability slide-toward-idealism claim, the "cleanest illustration" framing, and the Stapp observer-thickness reading. No definitional/taxonomic statements were hedged into vagueness; only interpretive judgments inherited the anchor's discipline.
+  - Added an explicit underdetermination marker ("the choice among the surviving quadrants is underdetermined by the evidence the tenets supply") in the Relation-to-Site-Perspective net summary, durably inheriting the anchor pages' underdetermination discipline (the idealism anchor had flagged on this).
+- **Verification**: `tools.curate.anchoring.evaluate_anchoring` now returns no flags for the article against any anchor (hedge 18 count / 5.83 per-kw, 0 strong-assertion verbs, 1 underdetermination marker, 3086 words).
+- **Voice preservation**: central claim (the thickness axis names under-discussed territory; the tenets carve out a region not a point) unchanged; this was a calibration pass only, not a weakening of the argument.
+- **Published**: yes
+
+## 2026-05-25T11:42:00+00:00 - condense
+- **Status**: Success
+- **File**: [higher-order-theories](/concepts/higher-order-theories/)
+- **Before**: 3642 words (hard_warning)
+- **After**: 2765 words (soft_warning)
+- **Reduction**: 24.1%
+- **Technique**: Cut the heavy duplication between "The Metarepresentational Distinction" and the "Animal and Infant Consciousness" objection (the great-apes / Jourdain Hypothesis argument was stated twice — consolidated into the first, collapsed the second to its dilemma). Tightened the three most verbose passages — Lau's PRM section, the Illusionist Alternative, and the unity-of-consciousness convergence/divergence — preserving every distinct argument while removing restatement and hedging. Condensed the three empirical-dissociation subsections, merged the Dreaming and Contemplative test cases (same falsifiability point), and trimmed the Further Reading list from 15 to 12 entries (dropped items redundant with inline links). Opening summary and "Relation to Site Perspective" (all four tenet subsections) preserved intact. No content extracted to new articles. Remaining length above the 2500 target is justified: the PRM, illusionism, and unity arguments are the Map's distinctive contributions and every section now carries unique content.
+
+## 2026-05-25T17:17:18+00:00 - condense
+- **Status**: Success
+- **File**: [agent-causation](/concepts/agent-causation/)
+- **Before**: 3709 words (hard_warning)
+- **After**: 3286 words (soft_warning)
+- **Reduction**: 11.4%
+- **Technique**: Cut redundancy across three duplicated No-MWI arguments (Sourcehood, the MWI falsifier bullet, and Relation to Site Perspective — consolidated the full statement in Relation to Site and redirected the other two to it); collapsed the repeated ~300ms/frontal-theta/coherence empirical signature stated in Voluntary Attention, Motor Selection, and the convergent-anchors list; trimmed the over-attributed Lowe quote; tightened the Scope note, falsifier bullets, and Further Reading list. No content extracted. Opening summary and Relation to Site Perspective preserved intact. Remaining length is justified: coalesced concept page central to defending the Bidirectional Interaction and No Many Worlds tenets.
+
+## 2026-05-25T17:09:15+00:00 - deep-review
+- **Status**: Success
+- **File**: [death-and-consciousness](/topics/death-and-consciousness/)
+- **Word count**: 3037 → 3037 (no change; length-neutral mode at soft threshold)
+- **Critical issues addressed**: 0 (none found)
+- **Medium issues addressed**: 0 (none found)
+- **Enhancements made**: 0 — article is converged; only recent change (MWI counterfactual-exclusion refinement, commit 0dc368407) was itself an improvement, so no further changes warranted
+- **Engagement classification (editor-internal)**: Everettian — Mode Three (framework-boundary marking), exemplary; Parfit — Mode Three/bedrock; illusionists — Mode Two (unsupported foundational move). No label leakage. No possibility/probability slippage. Internal anchors and new `[[project/evidential-status-discipline]]` link verified.
+- **Output**: [deep-review-2026-05-25-death-and-consciousness](/reviews/deep-review-2026-05-25-death-and-consciousness/)
 
 ## 2026-05-25T16:42:05+00:00 - coalesce
 - **Status**: Success

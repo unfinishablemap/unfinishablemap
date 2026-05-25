@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-20
-ai_modified: 2026-05-25 00:00:00+00:00
+ai_modified: 2026-05-25 19:11:15+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -37,6 +37,8 @@ related_articles:
 - '[[research/wlodzislaw-duch-consciousness-2026-05-02]]'
 - '[[brain-internal-born-rule-testing]]'
 - '[[falsification-roadmap-for-the-interface-model]]'
+- '[[consciousness-and-integrated-information]]'
+- '[[consciousness-and-cognitive-distinctiveness]]'
 title: Quantum Biology and Neural Consciousness
 topics:
 - '[[hard-problem-of-consciousness]]'
@@ -127,9 +129,9 @@ The convergence also has directionality. Over the past decade, new evidence has 
 
 ## Why This Matters for Consciousness
 
-The connection runs through the [measurement-problem](/concepts/measurement-problem/). Every quantum system eventually produces definite outcomes; physics provides probabilities but is silent on what determines which outcome becomes actual. The Map's position: consciousness is a candidate. Where physics leaves outcomes genuinely undetermined, consciousness might bias selection without violating [conservation laws](/concepts/conservation-laws-and-mental-causation/)—acting as [non-retrocausal conscious selection](/topics/forward-in-time-conscious-selection/), the [Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction) tenet. The Map's most developed account is [the post-decoherence selection programme](/apex/post-decoherence-selection-programme/), where consciousness biases which outcome emerges from the classical mixture *after* decoherence completes—a route not requiring sustained coherence at neural timescales.
+The connection runs through the [measurement-problem](/concepts/measurement-problem/). Physics provides probabilities but is silent on what determines which outcome becomes actual. The Map's position: consciousness is a candidate. Where physics leaves outcomes genuinely undetermined, consciousness might bias selection without violating [conservation laws](/concepts/conservation-laws-and-mental-causation/)—acting as [non-retrocausal conscious selection](/topics/forward-in-time-conscious-selection/), the [Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction) tenet. The Map's most developed account is [the post-decoherence selection programme](/apex/post-decoherence-selection-programme/), where consciousness biases which outcome emerges from the classical mixture *after* decoherence completes—a route not requiring sustained coherence at neural timescales. This is the substrate side of the [integration-as-activity](/topics/consciousness-and-integrated-information/#integration-as-selective-activity) view: where IIT treats integration as a property *identical to* consciousness, this reading treats it as something consciousness *does*.
 
-Quantum biology bears on the substrate question, but unevenly across Tenet 2's three sub-readings—load-bearing for pre-decoherence-coherence mechanisms, a plausibility supplement for the post-decoherence path, largely orthogonal to the strict corridor. The next section installs the cross-cluster discipline this asymmetry requires: the evidence below is not a single pillar but a sub-reading-by-sub-reading allocation.
+Quantum biology bears on the substrate question, but unevenly across Tenet 2's three sub-readings—load-bearing for pre-decoherence-coherence mechanisms, a plausibility supplement for the post-decoherence path, largely orthogonal to the strict corridor. The next section installs the cross-cluster discipline this asymmetry requires: a sub-reading-by-sub-reading allocation, not a single pillar.
 
 ## The Calibration Table
 
