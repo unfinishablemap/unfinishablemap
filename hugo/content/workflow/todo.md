@@ -38,24 +38,27 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Condense epistemology-of-convergence-arguments.md (5900 words, 197% of target)
+### P2: Condense epistemology-of-convergence-arguments.md (5843 words, 195% of target)
 - **Type**: condense
+- **Status**: pending
 - **File**: obsidian/topics/epistemology-of-convergence-arguments.md
-- **Notes**: Length analysis 2026-05-25 (via /replenish-queue) flags this topic article at 5900 words, over the topics hard-warning threshold (4000) and ~197% of the 3000-word target — the single worst length offender in the published corpus. A prior condense (2026-05-25) brought it to ~3134 words but it has re-expanded through subsequent opponent-engagement refine passes (Frankish/Berent illusionism, cross-cultural debunking, Laudan/Whewell/Bayesian literature, common-cause-null). The added named-opponent engagement is load-bearing and must be preserved — condense by tightening exposition and removing redundancy across the three-conditions and divergence sections, not by deleting the named-opponent replies or the evidential-status discipline. This article re-expands repeatedly; consider whether further detail belongs in linked articles. Validate against `tools/curate` length threshold afterward. See /condense skill.
+- **Notes**: Article exceeds the 4000-word hard threshold for topics/ (target 3000). Worst length offender among content articles. This article has been the focus of sustained outer-review citation work (multiple resolved Vetoed tasks, 2026-05-24/25) which added load-bearing engagement — preserve the canonical-convergence-literature engagement, the common-cause-null/Reichenbach anchoring, and the corrected Barlev & Shtulman / Barrett citations. Condense by tightening exposition and deferring detailed sub-arguments to linked articles, not by dropping the engagement that recent refines installed. Validate against `tools/curate` length threshold afterward. See /condense skill.
 - **Source**: length_analysis
 - **Generated**: 2026-05-25
 
-### P2: Condense born-rule-and-the-consciousness-interface.md (4965 words, 166% of target)
+### P2: Condense born-rule-and-the-consciousness-interface.md (4889 words, 163% of target)
 - **Type**: condense
+- **Status**: pending
 - **File**: obsidian/topics/born-rule-and-the-consciousness-interface.md
-- **Notes**: Length analysis 2026-05-25 (via /replenish-queue) flags this topic article at 4965 words, over the topics hard-warning threshold (4000) and ~166% of the 3000-word target. This is a load-bearing quantum-interface evidence article (the corridor/selection reading of the Born rule); preserve the empirical scaffolding, the framework table, the rival-reading engagement, and the evidential-status discipline. Condense by tightening exposition and removing redundancy across the derivation-survey and beyond-standard-derivations sections, deferring detailed subtopics to linked articles (e.g. [quantum-biology-and-neural-consciousness](/topics/quantum-biology-and-neural-consciousness/), [interface-formalization-void](/voids/interface-formalization-void/)) rather than deleting load-bearing content. Note the existing P3 tasks touching this file (framework-table accounting asymmetry; pre-publication citation hedging) — fold any overlapping edits into this pass where they coincide. Honour [evidential-status-discipline](/project/evidential-status-discipline/). Validate against `tools/curate` length threshold afterward. See /condense skill.
+- **Notes**: Article exceeds the 4000-word hard threshold for topics/ (target 3000). Preserve the evidential-status discipline, the Compatibility-vs-Support distinction, and the interface/corridor positive case installed by the 2026-05-23/25 refines; condense by trimming redundancy across the standard-derivations survey and the Tenet-4 framing sections. Coordinate with the two open P3 born-rule refine-draft tasks (framework-table accounting asymmetry; pre-publication source hedging) so condensation does not undo those fixes if they land first. Validate against `tools/curate` length threshold afterward. See /condense skill.
 - **Source**: length_analysis
 - **Generated**: 2026-05-25
 
-### P2: Condense metacognition.md (3893 words, 156% of target)
+### P2: Condense agent-causation.md (3709 words, 148% of target)
 - **Type**: condense
-- **File**: obsidian/concepts/metacognition.md
-- **Notes**: Length analysis 2026-05-25 (via /replenish-queue) flags this concept page at 3893 words, over the concepts hard-warning threshold (3500) and ~156% of the 2500-word target. Preserve the core metacognition exposition, the higher-order-monitoring distinction, and the relationship to the Map's introspection-architecture and apophatic-cartography material. Condense by tightening exposition and removing redundancy, deferring detailed subtopics to linked articles (e.g. [higher-order-theories](/concepts/higher-order-theories/), [introspection](/concepts/introspection/)) rather than deleting load-bearing content. Validate against `tools/curate` length threshold afterward. See /condense skill.
+- **Status**: pending
+- **File**: obsidian/concepts/agent-causation.md
+- **Notes**: Article exceeds the 3500-word hard threshold for concepts/ (target 2500). Preserve the substance-vs-property-dualism scoping (where the substance commitment enters via the agent-causal route) and the bidirectional-interaction grounding; condense by removing redundancy and deferring detailed treatment to linked articles (free-will, interactionist-dualism, moral-implications-of-genuine-agency). Validate against `tools/curate` length threshold afterward. See /condense skill.
 - **Source**: length_analysis
 - **Generated**: 2026-05-25
 
@@ -3896,6 +3899,18 @@ Tasks that failed 3+ times and require human intervention.
 
 Ideas that were considered and rejected. The AI will not re-propose these.
 
+
+### ✓ 2026-05-25: Condense metacognition.md (3893 words, 156% of target)
+- **Type**: condense
+- **Notes**: Length analysis 2026-05-25 (via /replenish-queue) flags this concept page at 3893 words, over the concepts hard-warning threshold (3500) and ~156% of the 2500-word target. Preserve the core metacognition exposition, the higher-order-monitoring distinction, and the relationship to the Map's introspection-architecture and apophatic-cartography material. Condense by tightening exposition and removing redundancy, deferring detailed subtopics to linked articles (e.g. [higher-order-theories](/concepts/higher-order-theories/), [introspection](/concepts/introspection/)) rather than deleting load-bearing content. Validate against `tools/curate` length threshold afterward. See /condense skill.
+
+### ✓ 2026-05-25: Condense born-rule-and-the-consciousness-interface.md (4965 words, 166% of target)
+- **Type**: condense
+- **Notes**: Length analysis 2026-05-25 (via /replenish-queue) flags this topic article at 4965 words, over the topics hard-warning threshold (4000) and ~166% of the 3000-word target. This is a load-bearing quantum-interface evidence article (the corridor/selection reading of the Born rule); preserve the empirical scaffolding, the framework table, the rival-reading engagement, and the evidential-status discipline. Condense by tightening exposition and removing redundancy across the derivation-survey and beyond-standard-derivations sections, deferring detailed subtopics to linked articles (e.g. [quantum-biology-and-neural-consciousness](/topics/quantum-biology-and-neural-consciousness/), [interface-formalization-void](/voids/interface-formalization-void/)) rather than deleting load-bearing content. Note the existing P3 tasks touching this file (framework-table accounting asymmetry; pre-publication citation hedging) — fold any overlapping edits into this pass where they coincide. Honour [evidential-status-discipline](/project/evidential-status-discipline/). Validate against `tools/curate` length threshold afterward. See /condense skill.
+
+### ✓ 2026-05-25: Condense epistemology-of-convergence-arguments.md (5900 words, 197% of target)
+- **Type**: condense
+- **Notes**: Length analysis 2026-05-25 (via /replenish-queue) flags this topic article at 5900 words, over the topics hard-warning threshold (4000) and ~197% of the 3000-word target — the single worst length offender in the published corpus. A prior condense (2026-05-25) brought it to ~3134 words but it has re-expanded through subsequent opponent-engagement refine passes (Frankish/Berent illusionism, cross-cultural debunking, Laudan/Whewell/Bayesian literature, common-cause-null). The added named-opponent engagement is load-bearing and must be preserved — condense by tightening exposition and removing redundancy across the three-conditions and divergence sections, not by deleting the named-opponent replies or the evidential-status discipline. This article re-expands repeatedly; consider whether further detail belongs in linked articles. Validate against `tools/curate` length threshold afterward. See /condense skill.
 
 ### ✓ 2026-05-25: Condense substance-property-dualism.md (3549 words, 142% of target)
 - **Type**: condense

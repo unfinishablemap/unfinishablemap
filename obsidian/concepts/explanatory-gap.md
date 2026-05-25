@@ -4,7 +4,7 @@ description: "Physical descriptions leave unexplained why neural activity feels 
 created: 2026-01-14
 modified: 2026-01-20
 human_modified: null
-ai_modified: 2026-05-01T03:40:00+00:00
+ai_modified: 2026-05-25T16:42:05+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -28,7 +28,7 @@ related_articles:
   - "[[duhem-quine-underdetermination-consciousness]]"
   - "[[what-consciousness-tells-us-about-physics]]"
   - "[[consciousness-and-memory]]"
-  - "[[consciousness-and-the-philosophy-of-mathematics]]"
+  - "[[consciousness-and-mathematics]]"
   - "[[phenomenal-authority-and-first-person-evidence]]"
   - "[[cross-traditional-convergence-on-consciousness-irreducibility]]"
   - "[[the-naturalisation-failure-for-content]]"

@@ -56,7 +56,7 @@ No new attributions. Existing attributions (Hadamard, Poincare, Brahmagupta, Bha
 
 ### Cross-links Added (inbound to target article)
 - [cognitive-phenomenology](/concepts/cognitive-phenomenology/) — linked from Sudden Insight section, extending the mathematical paradigm case with cross-cultural evidence
-- [consciousness-and-the-philosophy-of-mathematics](/concepts/consciousness-and-the-philosophy-of-mathematics/) — linked from What Would Challenge section, as evidence against eliminability of mathematical phenomenology
+- [consciousness-and-the-philosophy-of-mathematics](/topics/mathematical-truth-and-conscious-access/) — linked from What Would Challenge section, as evidence against eliminability of mathematical phenomenology
 - [consciousness-and-mathematics](/topics/consciousness-and-mathematics/) — linked from What Would Challenge section, as the cross-cultural convergence that would support the view
 - [phenomenology-of-intellectual-life](/topics/phenomenology-of-intellectual-life/) — linked from Contemplative Evidence section, extending cross-cultural convergence discussion
 - [phenomenology-of-creative-insight](/concepts/creative-consciousness/) — linked from Aesthetic Experience section, showing cross-cultural aesthetic variation

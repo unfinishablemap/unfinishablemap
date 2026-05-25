@@ -4,7 +4,7 @@ description: "Intellectual life has irreducible phenomenal character: the work o
 created: 2026-01-22
 modified: 2026-05-22
 human_modified: null
-ai_modified: 2026-05-22T12:00:00+00:00
+ai_modified: 2026-05-25T16:42:05+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -68,7 +68,6 @@ related_articles:
   - "[[phenomenology-of-musical-understanding]]"
   - "[[phenomenology-of-anticipation]]"
   - "[[topics/phenomenal-value-realism]]"
-  - "[[consciousness-and-the-philosophy-of-mathematics]]"
   - "[[ineffable-encounter-void]]"
   - "[[comparative-phenomenology-of-mathematical-insight]]"
   - "[[epistemology-of-limit-knowledge]]"

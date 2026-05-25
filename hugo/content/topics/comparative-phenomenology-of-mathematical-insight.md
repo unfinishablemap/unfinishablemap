@@ -1,13 +1,12 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-04-14
-ai_modified: 2026-05-19 11:04:33+00:00
+ai_modified: 2026-05-25 16:42:05+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
 - '[[cognitive-phenomenology]]'
 - '[[phenomenology]]'
-- '[[consciousness-and-the-philosophy-of-mathematics]]'
 - '[[creative-consciousness]]'
 - '[[qualia]]'
 - '[[explanatory-gap]]'
@@ -125,7 +124,6 @@ The Map's fifth tenet—that Occam's razor has limits—is illustrated by the in
 ## Further Reading
 
 - [consciousness-and-mathematics](/topics/consciousness-and-mathematics/) — The comprehensive case for irreducible consciousness in mathematical cognition
-- [consciousness-and-the-philosophy-of-mathematics](/concepts/consciousness-and-the-philosophy-of-mathematics/)
 - [concession-convergence-philosophy-of-mathematics](/topics/concession-convergence-philosophy-of-mathematics/) — The theoretical complement: how foundational programmes converge on conceding irreducibility
 - [aesthetics-and-consciousness](/topics/aesthetics-and-consciousness/)
 - [creative-consciousness](/concepts/creative-consciousness/)

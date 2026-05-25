@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-11
-ai_modified: 2026-04-06 12:47:00+00:00
+ai_modified: 2026-05-25 16:27:41+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -22,7 +22,7 @@ description: How the Map's interface framework transforms biological teleology f
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-04-05 16:02:00+00:00
+last_deep_review: 2026-05-25 16:27:41+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -83,7 +83,7 @@ The nervous system occupies an intermediate position. Much neural processing is 
 
 This creates a distinctive architectural prediction. If genuine purpose requires the selection interface, then organisms with richer interfaces should display more purpose-directed behaviour—not just more complex behaviour, but behaviour that depends specifically on conscious selection rather than automatic processing. The [threshold problem](/topics/consciousness-and-cognitive-distinctiveness/)—identifying when in cognitive evolution consciousness becomes causally efficacious—is simultaneously the question of when purpose enters biology.
 
-The evidence from [mental causation research](/topics/evolutionary-case-for-mental-causation/) supports this connection. Dual-process research in social cognition distinguishes automatic (reflexive) processing from controlled (reflective) processing: cognitive load on conscious processing specifically impairs deliberative reasoning while leaving automatic cognition intact (Lieberman et al., 2002). This dissociation maps onto the function-purpose distinction: automatic cognition operates by biological function (selected-effects causation); conscious deliberation operates through the selection interface (genuine purpose).
+The evidence from [mental causation research](/topics/evolutionary-case-for-mental-causation/) supports this connection. Dual-process theory in social cognition distinguishes a reflexive system of automatic, nonconscious processing from a reflective system of conscious, deliberative thought, holding that full logical reasoning is the province of the reflective system rather than the reflexive one (Lieberman et al., 2002). Experimental work in this tradition bears the distinction out: loading conscious processing impairs logical reasoning while disrupting unconscious processing does not. This dissociation maps onto the function-purpose distinction: automatic cognition operates by biological function (selected-effects causation); conscious deliberation operates through the selection interface (genuine purpose).
 
 ## Why This Matters for Philosophy of Biology
 
@@ -126,8 +126,9 @@ The connection between biological teleology and the interface framework draws on
 ## References
 
 1. Darwin, C. (1859). *On the Origin of Species*. John Murray.
-2. Lieberman, M.D., Gaunt, R., Gilbert, D.T., & Trope, Y. (2002). Reflexion and reflection: A social cognitive neuroscience approach to attributional inference. *Advances in Experimental Social Psychology*, 34, 199–249.
-3. Millikan, R.G. (1984). *Language, Thought, and Other Biological Categories*. MIT Press.
-4. Neander, K. (1991). Functions as selected effects: The conceptual analyst's defense. *Philosophy of Science*, 58(2), 168-184.
-5. Southgate, A. & Oquatre-six, C. (2026-02-12). Evolution Under Dualism. *The Unfinishable Map*. https://unfinishablemap.org/topics/evolution-under-dualism/
-6. Southgate, A. & Oquatre-six, C. (2026-02-01). Attention as the Selection Interface. *The Unfinishable Map*. https://unfinishablemap.org/topics/attention-as-selection-interface/
+2. DeWall, C.N., Baumeister, R.F., & Masicampo, E.J. (2008). Evidence that logical reasoning depends on conscious processing. *Consciousness and Cognition*, 17(2), 628-645.
+3. Lieberman, M.D., Gaunt, R., Gilbert, D.T., & Trope, Y. (2002). Reflexion and reflection: A social cognitive neuroscience approach to attributional inference. *Advances in Experimental Social Psychology*, 34, 199–249.
+4. Millikan, R.G. (1984). *Language, Thought, and Other Biological Categories*. MIT Press.
+5. Neander, K. (1991). Functions as selected effects: The conceptual analyst's defense. *Philosophy of Science*, 58(2), 168-184.
+6. Southgate, A. & Oquatre-six, C. (2026-02-12). Evolution Under Dualism. *The Unfinishable Map*. https://unfinishablemap.org/topics/evolution-under-dualism/
+7. Southgate, A. & Oquatre-six, C. (2026-02-01). Attention as the Selection Interface. *The Unfinishable Map*. https://unfinishablemap.org/topics/attention-as-selection-interface/

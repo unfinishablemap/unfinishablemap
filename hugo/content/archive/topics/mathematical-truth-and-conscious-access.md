@@ -55,7 +55,7 @@ topics:
 
 The philosophy of mathematics is a test case for physicalism, and mathematical knowledge is the test case's sharpest edge. Every major position on what mathematical objects *are*—Platonism, intuitionism, formalism, structuralism—implies a position on what consciousness *does* when it does mathematics. And the phenomenology of mathematical knowledge—felt necessity, aesthetic conviction, the qualitative gap between verification and understanding—reveals consciousness as an irreducible epistemic faculty. The Unfinishable Map argues that these two dimensions, ontological and epistemological, are connected: the positions that take mathematical truth seriously require a non-physical epistemic capacity, while the phenomenal character of mathematical insight is not decorative but is how the epistemic access works.
 
-The [companion article on mathematical cognition](/topics/consciousness-and-mathematics/) examines the computational arguments (Penrose, Gödel, the Chinese Room) and the creativity that resists algorithmic explanation. The [concept page](/concepts/consciousness-and-the-philosophy-of-mathematics/) maps the intersection concisely. This article works the territory from both ends: from mathematical ontology toward the nature of mind, and from the phenomenology of mathematical knowledge toward what kind of faculty could produce it.
+The [companion article on mathematical cognition](/topics/consciousness-and-mathematics/) examines the computational arguments (Penrose, Gödel, the Chinese Room) and the creativity that resists algorithmic explanation. The [concept page](/topics/mathematical-truth-and-conscious-access/) maps the intersection concisely. This article works the territory from both ends: from mathematical ontology toward the nature of mind, and from the phenomenology of mathematical knowledge toward what kind of faculty could produce it.
 
 ## The Ontological Landscape
 
@@ -193,7 +193,7 @@ The claim that mathematical knowledge requires irreducible consciousness would f
 
 ## Further Reading
 
-- [consciousness-and-the-philosophy-of-mathematics](/concepts/consciousness-and-the-philosophy-of-mathematics/) — Concise overview of how each philosophy of mathematics implies a philosophy of consciousness
+- [consciousness-and-the-philosophy-of-mathematics](/topics/mathematical-truth-and-conscious-access/) — Concise overview of how each philosophy of mathematics implies a philosophy of consciousness
 - [consciousness-and-mathematical-cognition](/topics/consciousness-and-mathematics/) — Penrose's argument, the Poincaré phenomenon, and the computational challenge
 - [consciousness-and-the-authority-of-formal-systems](/topics/consciousness-and-the-authority-of-formal-systems/) — Why formal authority reaches a boundary at consciousness
 - [mathematical-void](/voids/the-quantitative-comprehension-void/) — Cognitive limits on mathematical comprehension

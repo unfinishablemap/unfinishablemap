@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-15
-ai_modified: 2026-04-29 02:05:00+00:00
+ai_modified: 2026-05-25 16:42:05+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -34,7 +34,7 @@ related_articles:
 - '[[aesthetics-and-consciousness]]'
 - '[[phenomenal-authority-and-first-person-evidence]]'
 - '[[clinical-neuroplasticity-evidence-for-bidirectional-causation]]'
-- '[[consciousness-and-the-philosophy-of-mathematics]]'
+- '[[consciousness-and-mathematics]]'
 title: The Knowledge Argument (Mary's Room)
 topics:
 - '[[hard-problem-of-consciousness]]'

@@ -49,13 +49,13 @@ All six adversarial personas engaged. No new issues beyond bedrock disagreements
 - Process philosophy integration
 
 ### Enhancements Made
-- Re-added cross-link to [consciousness-and-the-philosophy-of-mathematics](/concepts/consciousness-and-the-philosophy-of-mathematics/) in "Sense of Discovery" subsection, enriching the Gödel reference with his notion of mathematical intuition as *sui generis* faculty
+- Re-added cross-link to [consciousness-and-the-philosophy-of-mathematics](/topics/mathematical-truth-and-conscious-access/) in "Sense of Discovery" subsection, enriching the Gödel reference with his notion of mathematical intuition as *sui generis* faculty
 - Added to `concepts` frontmatter and Further Reading
 - Trimmed redundant sentence in Chinese Room section ("They derive '2+2=4' without grasping why two and two make four" — restated what preceding sentence already established)
 - Tightened Poincaré caveat (removed clause about theoretical commitments that added little)
 
 ### Cross-links Added
-- [consciousness-and-the-philosophy-of-mathematics](/concepts/consciousness-and-the-philosophy-of-mathematics/)
+- [consciousness-and-the-philosophy-of-mathematics](/topics/mathematical-truth-and-conscious-access/)
 
 ## Word Count
 3588 → 3603 (net +15 words, effectively length-neutral)

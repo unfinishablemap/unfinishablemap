@@ -4,7 +4,7 @@ description: "A structural family of cognitive limits—cardinality, magnitudes,
 created: 2026-02-02
 modified: 2026-04-30
 human_modified:
-ai_modified: 2026-04-30T20:35:00+00:00
+ai_modified: 2026-05-25T16:42:05+00:00
 last_deep_review: 2026-04-30T07:45:00+00:00
 draft: false
 topics:
@@ -33,7 +33,7 @@ related_articles:
   - "[[compound-failure-signatures]]"
   - "[[formal-cognitive-limits]]"
   - "[[intrinsic-nature-void]]"
-  - "[[consciousness-and-the-philosophy-of-mathematics]]"
+  - "[[consciousness-and-mathematics]]"
   - "[[medium-status-voids-in-cognition]]"
   - "[[conjunction-coalesce]]"
   - "[[phenomenal-output-causal-machinery-dissociation]]"
@@ -132,7 +132,7 @@ The void would be empirically pressured by: a training intervention shifting the
 - [[compound-failure-signatures]] — How multiple cognitive limits interact
 - [[noetic-feelings-void]] — Output-without-operation as "just there" answers
 - [[non-human-minds-as-void-explorers]] — Asymmetric architectures as void probes
-- [[consciousness-and-the-philosophy-of-mathematics]] — Philosophies of mathematics and positions on consciousness
+- [[consciousness-and-mathematics]] — Philosophies of mathematics and positions on consciousness
 
 ## References
 

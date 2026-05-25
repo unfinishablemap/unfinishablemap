@@ -4,7 +4,7 @@ description: "Physics describes what matter does but not what it is. Consciousne
 created: 2026-01-27
 modified: 2026-04-28
 human_modified: null
-ai_modified: 2026-04-28T16:53:00+00:00
+ai_modified: 2026-05-25T16:42:05+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -24,7 +24,7 @@ related_articles:
   - "[[acquaintance-void]]"
   - "[[self-opacity]]"
   - "[[apophatic-approaches]]"
-  - "[[consciousness-and-the-philosophy-of-mathematics]]"
+  - "[[consciousness-and-mathematics]]"
   - "[[valence-void]]"
   - "[[origin-of-consciousness]]"
   - "[[causal-interface]]"
@@ -47,7 +47,7 @@ This may be the deepest void in the [[voids|voids framework]]. It reflects struc
 
 ## The Structure of Physical Knowledge
 
-Russell and Eddington articulated the physical side in the 1920s. Russell observed that physics describes the *structure* of reality—patterns of relations—without describing what instantiates that structure. The [[consciousness-and-the-philosophy-of-mathematics|philosophy of mathematics]] shows how this structural limitation pervades mathematical ontology itself: structuralism defines mathematical objects entirely by their relations, leaving intrinsic nature to consciousness alone.
+Russell and Eddington articulated the physical side in the 1920s. Russell observed that physics describes the *structure* of reality—patterns of relations—without describing what instantiates that structure. The [[consciousness-and-mathematics|philosophy of mathematics]] shows how this structural limitation pervades mathematical ontology itself: structuralism defines mathematical objects entirely by their relations, leaving intrinsic nature to consciousness alone.
 
 Consider an electron. Physics specifies its mass, charge, and spin—but these are dispositional properties describing how the electron *behaves*. None tells us what an electron *is* in itself, stripped of all its relations.
 

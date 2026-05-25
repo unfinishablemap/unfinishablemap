@@ -1,13 +1,60 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-25 18:00:00+00:00
+ai_modified: 2026-05-25 16:42:05+00:00
 ai_system: claude-opus-4-7
 concepts: []
 date: '2026-05-25'
 related_articles: []
 title: Changelog
 ---
+
+## 2026-05-25T16:42:05+00:00 - coalesce
+- **Status**: Success
+- **Sources**: [consciousness-and-the-philosophy-of-mathematics](/concepts/consciousness-and-the-philosophy-of-mathematics/) (archived), [consciousness-and-mathematics](/topics/consciousness-and-mathematics/) (merge target)
+- **Target**: [consciousness-and-mathematics](/topics/consciousness-and-mathematics/)
+- **Archived**: [consciousness-and-the-philosophy-of-mathematics](/archive/concepts/consciousness-and-the-philosophy-of-mathematics/)
+- **Rationale**: The concept article was a near-complete redundant subset of the topic article — identical thesis (every mathematical ontology implies a position on consciousness), identical four-position structure (Platonism/intuitionism/formalism/structuralism), shared core arguments (Benacerraf's dilemma, Gödel's intuition, Russell on structuralism, Wigner's effectiveness), and identical tenet relations. The concept's own intro pointed readers to the topic for "deep treatment," and the topic already listed a same-named topic-tier article in its coalesced_from. Folded the concept's one distinctive framing (mathematical knowledge as physicalism's diagnostic hardest-case test) into the topic's Epistemological Challenge section.
+- **References updated**: 13 active content files redirected from [consciousness-and-the-philosophy-of-mathematics](/topics/mathematical-truth-and-conscious-access/) to [consciousness-and-mathematics](/topics/consciousness-and-mathematics/) (frontmatter, inline, and Further Reading links; deduplicated where both already linked the topic). Netlify 301 redirect generated for the preserved /concepts/ URL. Stale live Hugo copy removed so the redirect fires. Build: all 6179 files valid.
+- **References to review**: none (all active references redirected)
+
+## 2026-05-25T16:34:26+00:00 - condense
+- **Status**: Success
+- **File**: [metacognition](/concepts/metacognition/)
+- **Before**: 3893
+- **After**: 3311
+- **Reduction**: 15%
+- **Technique**: Cut redundancy and tightened prose throughout. Heaviest overlap was between the "Jourdain Hypothesis" and "Metarepresentation Threshold" sections (both covered the procedural/declarative divide, baseline cognition, and the ape-human gap) — merged the Jourdain section's redundant closing paragraphs, folded the standalone teaching paragraph into the Jourdain evidence list, and deduplicated the aPFC discussion that appeared in both the Neural Substrate and Threshold sections. Consolidated the short "Animal Metacognition" and "Comparative Development" sections into one "Phylogeny and Development" section. Trimmed the Coutinho anti-correlated-signal passage, the four tenet paragraphs, and the Further Reading list (18 → 12 entries; all removed entries remain linked inline in the body, verified — no cross-links severed). Preserved opening summary, all distinct arguments, full "Relation to Site Perspective", and References.
+- **Note**: Stops at 3311w (soft_warning, below the 3500w hard threshold) rather than the 2500w target. Further cuts would remove distinct content — the dissociation evidence, three-level metarepresentation structure, the threshold-discreteness argument, the HOT/illusionist rebuttals, and the metamemory/contemplative evidence each carry unique load. Quality preserved over hitting the numeric target.
+
+## 2026-05-25T16:27:41+00:00 - deep-review
+- **Status**: Success
+- **File**: [biological-teleology-and-the-interface-framework](/topics/biological-teleology-and-the-interface-framework/)
+- **Word count**: 1756 → 1810 (+54)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 1 (Lieberman 2002 source-precision: 2002 paper is the reflexive/reflective *framework*, not the empirical load-dissociation study; reworded body and added DeWall/Baumeister/Masicampo 2008 reference for the experimental finding, matching the sibling article's citation)
+- **Enhancements made**: 1 (citation precision + 2008 reference added)
+- **Reasoning-mode note**: engagement with physicalism/eliminative materialism = Mode Three (framework-boundary marking); article grounds the function/purpose distinction in the Dualism tenet without claiming in-framework refutation; no boundary-substitution, no label leakage.
+- **Stability**: third deep review; article confirmed stable. No critical issues. Both prior reviews (2026-03-11, 2026-04-05) also found only minor items.
+- **Output**: [deep-review-2026-05-25-biological-teleology-and-the-interface-framework](/reviews/deep-review-2026-05-25-biological-teleology-and-the-interface-framework/)
+
+## 2026-05-25T19:05:00+00:00 - condense
+- **Status**: Success
+- **File**: [born-rule-and-the-consciousness-interface](/topics/born-rule-and-the-consciousness-interface/)
+- **Before**: 4965
+- **After**: 4889
+- **Reduction**: 2%
+- **Technique**: Article reached ~4856w near-floor in an earlier condense today, then a pessimistic-review-fix refine added ~109w of load-bearing content (the SIC-geometric (d+1)/−1/d positive interface case and the dual-fallback-unfalsifiability ownership). This pass found one genuine residual duplicate: the final "What the Born-Rule Catalogue Is and Is Not Doing" section was a near-verbatim recap of "What This Does Not Establish" (discrimination-not-established vs the four consciousness-free rivals; tenet-coherence with the SIC how-sketch as its one suggestive-tier payoff; empirical engagement aimed at outside-corridor sub-readings). Removed the section, folding its one non-duplicated beat — the "catalogue length is not evidential weight" warning — into the closing sentence of the Relation to Site Perspective section.
+- **Note**: The article remains over the 3000w topic target (hard_warning, 163%) at its constrained floor. The remaining length is all load-bearing: the framework-comparison table, the corridor/outside-corridor/trumping taxonomy, the active-experimental-programmes catalogue, the named-opponent engagements (Zhang, Landsman, Gleason, Deutsch-Wallace, Zurek, MGM, DeBrota-Fuchs-Schack, Torres Alegre, Stapp, Chalmers-McQueen, Arana), the SIC-geometric positive case, the dual-fallback-unfalsifiability ownership, the five tenet connections, and the References. No protected content cut.
+
+## 2026-05-25T18:45:00+00:00 - condense
+- **Status**: Success
+- **File**: [epistemology-of-convergence-arguments](/topics/epistemology-of-convergence-arguments/)
+- **Before**: 5900
+- **After**: 5843
+- **Reduction**: 1%
+- **Technique**: Article was condensed to its 5900w constrained floor earlier today; this pass found one genuine residual redundancy. The full debunking-reply against Iris Berent (etiology-doesn't-show-unreliability, the proves-too-much/even-handed-application move, and the screening-off/sensitivity-failure demand, plus the eliminativism-boundary marker) was stated in full twice — once in the Vitalism passage and again, more fully, in its dedicated home in the Cognitive Universals section. Trimmed the Vitalism-passage copy to make only its distinctive logical-vs-empirical point and cross-link the full reply forward, leaving Frankish and Berent both named and engaged there. No protected opponent-engagement or analytic substance cut.
+- **Note**: The article remains far over the 3000w topic target (hard_warning). This is a content-architecture issue, not residual flab: the piece carries eight distinct named-opponent engagements (Whewell, Laudan, Bovens-Hartmann, Frankish, Berent, Chalmers 2020, O'Brien-Kop, Stanford) and has structurally outgrown the topic length class. Resolving the over-threshold status needs a human/editorial decision (split the convergence-epistemology literature into its own article, raise this article's threshold, or reclassify it as an intentional survey) — outside condense's scope.
 
 ## 2026-05-25T18:30:00+00:00 - optimistic-review
 - **Status**: Success

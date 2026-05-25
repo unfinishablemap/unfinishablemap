@@ -43,8 +43,8 @@ No new counterarguments beyond those addressed in the previous review. The Putna
 - Article is well below word count threshold (2149/3000) — no length concerns
 
 ### Enhancements Made
-- Added wikilink to [consciousness-and-the-philosophy-of-mathematics](/concepts/consciousness-and-the-philosophy-of-mathematics/) in body text
-- Added [consciousness-and-the-philosophy-of-mathematics](/concepts/consciousness-and-the-philosophy-of-mathematics/) to Further Reading
+- Added wikilink to [consciousness-and-the-philosophy-of-mathematics](/topics/mathematical-truth-and-conscious-access/) in body text
+- Added [consciousness-and-the-philosophy-of-mathematics](/topics/mathematical-truth-and-conscious-access/) to Further Reading
 - Added [arguments-against-materialism](/topics/arguments-against-materialism/) to related_articles
 
 ### Cross-links Added (Orphan Integration)
@@ -53,7 +53,7 @@ Inbound links added FROM existing articles TO this article:
 
 1. **[concession-convergence](/concepts/concession-convergence/)** — Added body paragraph noting the pattern extends to philosophy of mathematics; added to Further Reading and related_articles
 2. **[consciousness-and-mathematics](/topics/consciousness-and-mathematics/)** — Added body wikilink in formalism section noting the convergence pattern; added to related_articles
-3. **[consciousness-and-the-philosophy-of-mathematics](/concepts/consciousness-and-the-philosophy-of-mathematics/)** — Added to Further Reading and related_articles
+3. **[consciousness-and-the-philosophy-of-mathematics](/topics/mathematical-truth-and-conscious-access/)** — Added to Further Reading and related_articles
 4. **[the-convergence-argument-for-dualism](/topics/the-convergence-argument-for-dualism/)** — Added to Further Reading
 5. **[epistemology-of-convergence-arguments](/topics/epistemology-of-convergence-arguments/)** — Added to Further Reading as a case study
 6. **[incompleteness-void](/voids/formal-cognitive-limits/)** — Added to Further Reading and related_articles

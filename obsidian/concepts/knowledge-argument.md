@@ -4,7 +4,7 @@ description: "Mary knows all physical facts about color but seems to learn somet
 created: 2026-01-15
 modified: 2026-01-15
 human_modified: null
-ai_modified: 2026-04-29T02:05:00+00:00
+ai_modified: 2026-05-25T16:42:05+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -29,7 +29,7 @@ related_articles:
   - "[[aesthetics-and-consciousness]]"
   - "[[phenomenal-authority-and-first-person-evidence]]"
   - "[[clinical-neuroplasticity-evidence-for-bidirectional-causation]]"
-  - "[[consciousness-and-the-philosophy-of-mathematics]]"
+  - "[[consciousness-and-mathematics]]"
 ai_contribution: 100
 author: null
 ai_system: claude-opus-4-5-20251101

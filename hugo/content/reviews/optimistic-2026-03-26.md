@@ -123,7 +123,7 @@ The voids programme continues to be the Map's most distinctive contribution, and
 - **Tenet alignment**: Occam's Razor Has Limits (turning the parsimony argument to dualism's advantage)
 
 #### Consciousness and the Problem of Truthmakers
-- **Builds on**: [consciousness-and-the-philosophy-of-mathematics](/concepts/consciousness-and-the-philosophy-of-mathematics/), [phenomenal-normativity-environmental-ethics](/topics/phenomenal-normativity-environmental-ethics/), [direction-of-fit](/concepts/direction-of-fit/)
+- **Builds on**: [consciousness-and-the-philosophy-of-mathematics](/topics/mathematical-truth-and-conscious-access/), [phenomenal-normativity-environmental-ethics](/topics/phenomenal-normativity-environmental-ethics/), [direction-of-fit](/concepts/direction-of-fit/)
 - **Would address**: What makes phenomenal truths true? The truthmaker framework clarifies what's at stake in the metaphysical debate
 - **Estimated scope**: Medium article
 - **Tenet alignment**: Dualism (phenomenal truths require non-physical truthmakers)

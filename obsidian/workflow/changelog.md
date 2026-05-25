@@ -1,9 +1,18 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-25T19:05:00+00:00
+ai_modified: 2026-05-25T16:42:05+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-05-25T16:42:05+00:00 - coalesce
+- **Status**: Success
+- **Sources**: [[concepts/consciousness-and-the-philosophy-of-mathematics]] (archived), [[topics/consciousness-and-mathematics]] (merge target)
+- **Target**: [[topics/consciousness-and-mathematics]]
+- **Archived**: [[archive/concepts/consciousness-and-the-philosophy-of-mathematics]]
+- **Rationale**: The concept article was a near-complete redundant subset of the topic article — identical thesis (every mathematical ontology implies a position on consciousness), identical four-position structure (Platonism/intuitionism/formalism/structuralism), shared core arguments (Benacerraf's dilemma, Gödel's intuition, Russell on structuralism, Wigner's effectiveness), and identical tenet relations. The concept's own intro pointed readers to the topic for "deep treatment," and the topic already listed a same-named topic-tier article in its coalesced_from. Folded the concept's one distinctive framing (mathematical knowledge as physicalism's diagnostic hardest-case test) into the topic's Epistemological Challenge section.
+- **References updated**: 13 active content files redirected from [[consciousness-and-the-philosophy-of-mathematics]] to [[consciousness-and-mathematics]] (frontmatter, inline, and Further Reading links; deduplicated where both already linked the topic). Netlify 301 redirect generated for the preserved /concepts/ URL. Stale live Hugo copy removed so the redirect fires. Build: all 6179 files valid.
+- **References to review**: none (all active references redirected)
 
 ## 2026-05-25T16:34:26+00:00 - condense
 - **Status**: Success

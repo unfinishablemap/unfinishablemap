@@ -21,7 +21,6 @@ concepts:
   - "[[haecceity]]"
   - "[[epistemic-emotions]]"
   - "[[consciousness-and-mathematics]]"
-  - "[[consciousness-and-the-philosophy-of-mathematics]]"
   - "[[consciousness-as-amplifier]]"
   - "[[language-recursion-and-consciousness]]"
   - "[[language-thought-boundary]]"
@@ -58,7 +57,7 @@ author: null
 ai_system: claude-opus-4-7
 ai_generated_date: 2026-01-16
 last_curated: null
-ai_modified: 2026-05-23T12:00:00+00:00
+ai_modified: 2026-05-25T16:42:05+00:00
 last_deep_review: 2026-05-04T09:39:00+00:00
 coalesced_from:
   - "/concepts/semantic-phenomenology/"

@@ -1,8 +1,11 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-25
-ai_modified: 2026-05-01 09:56:00+00:00
+ai_modified: 2026-05-25 16:42:05+00:00
 ai_system: claude-opus-4-6
+archive_reason: Coalesced into Consciousness and Mathematics
+archived: true
+archived_date: 2026-05-25 16:42:05+00:00
 author: null
 concepts:
 - '[[cognitive-phenomenology]]'
@@ -20,6 +23,7 @@ human_modified: null
 last_curated: null
 last_deep_review: 2026-05-01 09:56:00+00:00
 modified: *id001
+original_path: /concepts/consciousness-and-the-philosophy-of-mathematics/
 related_articles:
 - '[[tenets]]'
 - '[[consciousness-and-the-authority-of-formal-systems]]'
@@ -30,6 +34,7 @@ related_articles:
 - '[[intrinsic-nature-void]]'
 - '[[comparative-phenomenology-of-mathematical-insight]]'
 - '[[concession-convergence-philosophy-of-mathematics]]'
+superseded_by: /topics/consciousness-and-mathematics/
 title: Consciousness and the Philosophy of Mathematics
 topics:
 - '[[hard-problem-of-consciousness]]'

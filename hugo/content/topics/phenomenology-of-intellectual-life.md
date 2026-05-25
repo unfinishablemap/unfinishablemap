@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-04-03
-ai_modified: 2026-05-22 12:00:00+00:00
+ai_modified: 2026-05-25 16:42:05+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -79,7 +79,6 @@ related_articles:
 - '[[phenomenology-of-musical-understanding]]'
 - '[[phenomenology-of-anticipation]]'
 - '[[topics/phenomenal-value-realism]]'
-- '[[consciousness-and-the-philosophy-of-mathematics]]'
 - '[[ineffable-encounter-void]]'
 - '[[comparative-phenomenology-of-mathematical-insight]]'
 - '[[epistemology-of-limit-knowledge]]'

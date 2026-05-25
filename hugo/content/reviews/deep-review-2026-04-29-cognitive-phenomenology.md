@@ -35,7 +35,7 @@ None. The article remains free of factual errors, misattributions, dropped quali
 ### Medium Issues Found
 
 - **Missing connection to phenomenology-vs-function-axis**: The article makes function-phenomenology dissociation arguments throughout (Strawson's foreign-language argument, aphantasia/imagery wedge, conceptual contrasts) without naming the axis or signalling that the pattern is structural rather than argument-local. The newly-created axis article gathers four exemplars (imagery, synaesthesia, comprehension, agency) under a shared theoretical frame; cognitive phenomenology is the comprehension exemplar of that quartet. Resolution: one-sentence cross-link in "Evidence from Unusual Cases," positioned where the article's most recent and empirical evidence already sits.
-- **Awkward parenthetical aside in Mathematical Understanding section**: A 24-word parenthetical pointing to [consciousness-and-the-philosophy-of-mathematics](/concepts/consciousness-and-the-philosophy-of-mathematics/) interrupted the colon attachment between "three phenomenal stages are clearly delineated" and "verification / understanding / insight," producing the sequence "delineated. (...): verification" — the colon stranded from its anchor. Resolution: removed the parenthetical entirely. The link to consciousness-and-the-philosophy-of-mathematics is preserved via the frontmatter `concepts` list, so the connection is not lost.
+- **Awkward parenthetical aside in Mathematical Understanding section**: A 24-word parenthetical pointing to [consciousness-and-the-philosophy-of-mathematics](/topics/mathematical-truth-and-conscious-access/) interrupted the colon attachment between "three phenomenal stages are clearly delineated" and "verification / understanding / insight," producing the sequence "delineated. (...): verification" — the colon stranded from its anchor. Resolution: removed the parenthetical entirely. The link to consciousness-and-the-philosophy-of-mathematics is preserved via the frontmatter `concepts` list, so the connection is not lost.
 
 ### Counterarguments Considered
 
@@ -68,7 +68,7 @@ All six adversarial personas engaged. No new issues beyond bedrock disagreements
 ### Enhancements Made
 
 - Added cross-link to [phenomenology-vs-function-axis](/concepts/phenomenology-vs-function-axis/) in "Evidence from Unusual Cases" — naturally positioned adjacent to the imagery-void mention, so the reader passes from the within-imagery wedge to the cross-domain structural framing in a single beat.
-- Removed awkward parenthetical aside in "The Mathematical Understanding Case" section — improved punctuation by allowing the colon to attach properly to "delineated" rather than being stranded behind a parenthetical. Connection to [consciousness-and-the-philosophy-of-mathematics](/concepts/consciousness-and-the-philosophy-of-mathematics/) preserved via frontmatter.
+- Removed awkward parenthetical aside in "The Mathematical Understanding Case" section — improved punctuation by allowing the colon to attach properly to "delineated" rather than being stranded behind a parenthetical. Connection to [consciousness-and-the-philosophy-of-mathematics](/topics/mathematical-truth-and-conscious-access/) preserved via frontmatter.
 - Added [phenomenology-vs-function-axis](/concepts/phenomenology-vs-function-axis/) to `concepts` frontmatter list.
 
 ### Cross-links Added

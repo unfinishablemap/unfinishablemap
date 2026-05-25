@@ -4,8 +4,13 @@ description: "Every major philosophy of mathematics implies a philosophy of cons
 created: 2026-03-25
 modified: 2026-03-25
 human_modified:
-ai_modified: 2026-05-01T09:56:00+00:00
+ai_modified: 2026-05-25T16:42:05+00:00
 draft: false
+archived: true
+archived_date: 2026-05-25T16:42:05+00:00
+superseded_by: "/topics/consciousness-and-mathematics/"
+archive_reason: "Coalesced into Consciousness and Mathematics"
+original_path: "/concepts/consciousness-and-the-philosophy-of-mathematics/"
 topics:
   - "[[hard-problem-of-consciousness]]"
   - "[[consciousness-and-mathematics]]"

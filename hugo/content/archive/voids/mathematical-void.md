@@ -166,7 +166,7 @@ Current evidence suggests none of these obtains. The mathematical void persists 
 - [Formal Cognitive Limits](/voids/formal-cognitive-limits/) — Gödel's theorems and self-referential limits
 - [Conceptual Impossibility](/voids/conceptual-impossibility/) — Thoughts that cannot form at all
 - [Apophatic Approaches](/concepts/apophatic-approaches/) — Methods for knowing through negation
-- [consciousness-and-the-philosophy-of-mathematics](/concepts/consciousness-and-the-philosophy-of-mathematics/) — How each philosophy of mathematics implies a position on consciousness
+- [consciousness-and-the-philosophy-of-mathematics](/topics/mathematical-truth-and-conscious-access/) — How each philosophy of mathematics implies a position on consciousness
 - [The Intrinsic Nature Void](/voids/intrinsic-nature-void/) — Physical reality's hidden character
 
 ## References

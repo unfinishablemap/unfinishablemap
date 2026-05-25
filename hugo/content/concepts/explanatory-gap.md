@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-14
-ai_modified: 2026-05-01 03:40:00+00:00
+ai_modified: 2026-05-25 16:42:05+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -33,7 +33,7 @@ related_articles:
 - '[[duhem-quine-underdetermination-consciousness]]'
 - '[[what-consciousness-tells-us-about-physics]]'
 - '[[consciousness-and-memory]]'
-- '[[consciousness-and-the-philosophy-of-mathematics]]'
+- '[[consciousness-and-mathematics]]'
 - '[[phenomenal-authority-and-first-person-evidence]]'
 - '[[cross-traditional-convergence-on-consciousness-irreducibility]]'
 - '[[the-naturalisation-failure-for-content]]'

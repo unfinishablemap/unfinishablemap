@@ -44,7 +44,6 @@ related_articles:
   - "[[formal-cognitive-limits]]"
   - "[[consciousness-and-the-metaphysics-of-laws-and-dispositions]]"
   - "[[self-reference-and-the-limits-of-physical-description]]"
-  - "[[consciousness-and-the-philosophy-of-mathematics]]"
   - "[[consciousness-and-the-normativity-of-reason]]"
   - "[[tenets]]"
   - "[[delegatory-causation]]"
@@ -126,7 +125,7 @@ The Map prefers dualism for two reasons. The [[tenets#^bidirectional-interaction
 
 ### Mathematical Platonism
 
-Mathematical Platonists hold that mathematical objects have intrinsic properties beyond their structural characterisation. The [[consciousness-and-the-philosophy-of-mathematics|philosophy of mathematics]] reveals that every major position—Platonism, intuitionism, formalism, structuralism—implies a position on what consciousness does. If so, the clean separation between "formal systems = structure" and "consciousness = quality" needs nuance. The Map's response: even granting mathematical Platonism, the intrinsic nature of mathematical objects is nothing like phenomenal consciousness. Whatever makes 7 the particular number it is, it is not *like anything* to be 7. The relevant limitation is not that formal systems lack all intrinsic natures but that they lack the *specific kind* — phenomenal quality, subjective experience, the first-person perspective.
+Mathematical Platonists hold that mathematical objects have intrinsic properties beyond their structural characterisation. The [[consciousness-and-mathematics|philosophy of mathematics]] reveals that every major position—Platonism, intuitionism, formalism, structuralism—implies a position on what consciousness does. If so, the clean separation between "formal systems = structure" and "consciousness = quality" needs nuance. The Map's response: even granting mathematical Platonism, the intrinsic nature of mathematical objects is nothing like phenomenal consciousness. Whatever makes 7 the particular number it is, it is not *like anything* to be 7. The relevant limitation is not that formal systems lack all intrinsic natures but that they lack the *specific kind* — phenomenal quality, subjective experience, the first-person perspective.
 
 ## Relation to Site Perspective
 

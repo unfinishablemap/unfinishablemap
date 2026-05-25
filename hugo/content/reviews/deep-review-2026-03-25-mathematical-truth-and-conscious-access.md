@@ -19,7 +19,7 @@ topics: []
 **Date**: 2026-03-25
 **Article**: [Mathematical Truth and Conscious Access](/topics/consciousness-and-mathematics/)
 **Previous review**: [2026-03-24](/reviews/deep-review-2026-03-24-mathematical-truth-and-conscious-access/)
-**Context**: Cross-review considering the new [consciousness-and-the-philosophy-of-mathematics](/concepts/consciousness-and-the-philosophy-of-mathematics/) concept page created 2026-03-25.
+**Context**: Cross-review considering the new [consciousness-and-the-philosophy-of-mathematics](/topics/mathematical-truth-and-conscious-access/) concept page created 2026-03-25.
 
 ## Pessimistic Analysis Summary
 
@@ -47,7 +47,7 @@ topics: []
 - Added concept page as first entry in Further Reading section
 
 ### Cross-links Added
-- [consciousness-and-the-philosophy-of-mathematics](/concepts/consciousness-and-the-philosophy-of-mathematics/)
+- [consciousness-and-the-philosophy-of-mathematics](/topics/mathematical-truth-and-conscious-access/)
 
 ## Consistency Check: Topic vs. Concept Page
 

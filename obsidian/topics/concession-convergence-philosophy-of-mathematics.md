@@ -4,7 +4,7 @@ description: "Formalism, logicism, intuitionism, and structuralism each independ
 created: 2026-04-13
 modified: 2026-04-13
 human_modified:
-ai_modified: 2026-04-30T04:25:00+00:00
+ai_modified: 2026-05-25T16:42:05+00:00
 draft: false
 topics:
   - "[[consciousness-and-mathematics]]"
@@ -39,7 +39,7 @@ The [[concession-convergence]] pattern—where competing theories independently 
 
 ## The Pattern in Mathematics
 
-The concession-convergence pattern in consciousness studies tracks how physicalist theories—[[integrated-information-theory|IIT]], [[global-workspace-theory|GWT]], [[higher-order-theories|HOT]]—each add constraints that replicate the dualist distinction between functional organisation and experience. The mathematical parallel tracks how anti-realist or reductionist philosophies of mathematics—each of which [[consciousness-and-the-philosophy-of-mathematics|implies a position on consciousness]]—add constraints that replicate the distinction between formal manipulation and mathematical *understanding*.
+The concession-convergence pattern in consciousness studies tracks how physicalist theories—[[integrated-information-theory|IIT]], [[global-workspace-theory|GWT]], [[higher-order-theories|HOT]]—each add constraints that replicate the dualist distinction between functional organisation and experience. The mathematical parallel tracks how anti-realist or reductionist philosophies of mathematics—each of which [[consciousness-and-mathematics|implies a position on consciousness]]—add constraints that replicate the distinction between formal manipulation and mathematical *understanding*.
 
 The structure is the same. A theory begins with a reductive claim: mathematics is just symbol manipulation, or just logic, or just mental construction, or just structure. Foundational crises then force narrowing moves. The narrowing invariably points toward the same gap—between what formal systems can capture and what mathematicians actually grasp when they do mathematics.
 
@@ -118,8 +118,7 @@ The Map interprets the cross-domain convergence as evidence that the problem is 
 ## Further Reading
 
 - [[concession-convergence]] — The original pattern in consciousness studies
-- [[consciousness-and-the-philosophy-of-mathematics]] — How each mathematical ontology implies a philosophy of consciousness
-- [[consciousness-and-mathematics]] — The broader case for irreducible mathematical cognition
+- [[consciousness-and-mathematics]] — How each mathematical ontology implies a philosophy of consciousness; the broader case for irreducible mathematical cognition
 - [[consciousness-and-the-authority-of-formal-systems]] — Why formal authority reaches its limit at consciousness
 - [[epistemology-of-convergence-arguments]] — When independent convergence constitutes evidence
 - [[reductionism-and-consciousness]] — Why reductive programmes fail at consciousness

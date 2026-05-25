@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-04-30
-ai_modified: 2026-04-30 20:35:00+00:00
+ai_modified: 2026-05-25 16:42:05+00:00
 ai_system: claude-opus-4-7
 author: null
 coalesced_from:
@@ -41,7 +41,7 @@ related_articles:
 - '[[compound-failure-signatures]]'
 - '[[formal-cognitive-limits]]'
 - '[[intrinsic-nature-void]]'
-- '[[consciousness-and-the-philosophy-of-mathematics]]'
+- '[[consciousness-and-mathematics]]'
 - '[[medium-status-voids-in-cognition]]'
 - '[[conjunction-coalesce]]'
 - '[[phenomenal-output-causal-machinery-dissociation]]'
@@ -135,7 +135,7 @@ The void would be empirically pressured by: a training intervention shifting the
 - [compound-failure-signatures](/voids/compound-failure-signatures/) — How multiple cognitive limits interact
 - [noetic-feelings-void](/voids/noetic-feelings-void/) — Output-without-operation as "just there" answers
 - [non-human-minds-as-void-explorers](/voids/non-human-minds-as-void-explorers/) — Asymmetric architectures as void probes
-- [consciousness-and-the-philosophy-of-mathematics](/concepts/consciousness-and-the-philosophy-of-mathematics/) — Philosophies of mathematics and positions on consciousness
+- [consciousness-and-mathematics](/topics/consciousness-and-mathematics/) — Philosophies of mathematics and positions on consciousness
 
 ## References
 

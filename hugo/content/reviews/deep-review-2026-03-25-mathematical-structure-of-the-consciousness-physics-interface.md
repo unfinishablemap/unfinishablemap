@@ -50,7 +50,7 @@ topics: []
 - Added four new Further Reading entries connecting to the math cluster
 
 ### Cross-links Added
-- [consciousness-and-the-philosophy-of-mathematics](/concepts/consciousness-and-the-philosophy-of-mathematics/)
+- [consciousness-and-the-philosophy-of-mathematics](/topics/mathematical-truth-and-conscious-access/)
 - [mathematical-truth-and-conscious-access](/topics/consciousness-and-mathematics/)
 - [consciousness-and-mathematical-cognition](/topics/consciousness-and-mathematics/)
 - [intrinsic-nature-void](/voids/intrinsic-nature-void/)
