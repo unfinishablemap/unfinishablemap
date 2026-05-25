@@ -45,6 +45,20 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: pessimistic-review-2026-05-25
 - **Generated**: 2026-05-25
 
+### P3: Write concept page on ensemble-level epiphenomenalism (corridor reading's sharpest open question)
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review 2026-05-25b. `topics/born-rule-and-the-consciousness-interface` names this as "arguably the Map's sharpest open question" but treats it only in clauses: on the corridor reading, per-event conscious selection is posited to average to |⟨φ|ψ⟩|² over the ensemble, leaving no statistical signature — so how does an ensemble-invisible single-event channel constitute a *genuine* mental-to-physical channel rather than ensemble-level epiphenomenalism? The page should state the worry cleanly, lay out the two escape routes (trumping/delegatory authority; minimum-outside-corridor Born-bending), and rate each honestly against the evidential-status discipline. Highest-leverage gap because it is the load-bearing open question of the whole interface programme, currently homeless. Target concepts/. See reviews/optimistic-2026-05-25b.md.
+- **Source**: optimistic-review-2026-05-25b
+- **Generated**: 2026-05-25
+
+### P3: Write concept page consolidating the substance-vs-property-dualism scoping note
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review 2026-05-25b. `topics/free-will` carries a carefully-scoped paragraph: agent causation pushes the framework toward substance-bearing dualism, while the Dualism tenet itself stays neutral between substance and property dualism ("the substance-leaning is downstream of the agent-causal commitment, not inherited from the tenet directly"). This scoping is load-bearing in `topics/free-will`, `concepts/agent-causation`, `concepts/interactionist-dualism` (agent-causal portions), and `topics/moral-implications-of-genuine-agency`, but is re-stated inline in each — a drift risk. A single concept page ("where the substance commitment enters") would let those articles link rather than repeat. Target concepts/. See reviews/optimistic-2026-05-25b.md.
+- **Source**: optimistic-review-2026-05-25b
+- **Generated**: 2026-05-25
+
 ### P3: Write project-tier "non-flatness test case" — a deliberately low-scoring third independence-scoring exhibit
 - **Type**: expand-topic
 - **Status**: pending
