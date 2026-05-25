@@ -5,6 +5,14 @@ ai_modified: 2026-05-25T17:57:47+00:00
 ai_system: claude-opus-4-7
 ---
 
+## 2026-05-25T19:30:00+00:00 - pessimistic-review
+- **Status**: Success
+- **Content reviewed**: `topics/introspection-architecture-independence-scoring.md` (~4,227 words; second worked exhibit of the per-cluster independence-scoring programme; modified 17:05 today, last deep-reviewed 2026-05-17, never previously the standalone focus of a pessimistic review)
+- **Findings**: 3 High, 1 Medium. High: (1) no scoring rubric — ordinal grades assigned by unstated holistic judgement, making the discrimination claim non-reproducible and unfalsifiable as stated; (2) N=2 self-validation named but then leaned on ("scores higher than the surplus-void" presented as a finding by a constant grader); (3) the load-bearing patient-population channel rests on an architectural-divergence assumption the article itself flags as undischarged (lesions may change the introspective machine's inputs, not its kind). Medium: (4) physicalist rivals *predict* the signature while the Map merely accommodates it — the evidential-status discipline guards only the don't-upgrade-for-dualism direction and never registers the predicted-by-rival asymmetry pointing toward the rival.
+- **Tasks added**: P2 refine-draft (rubric-vs-audit framing + patient-population load-bearing resolution); P3 refine-draft (register predicted-by-rival asymmetry + soften "triangulation"/witness-reification). Upgraded existing P3 "non-flatness test case" task to require explicit-rubric or blind scoring (a third exhibit graded by the same hand does not discharge the N=2 circularity).
+- **Checklist results**: altered-state-symmetry gate did not fire (no supportive-cluster citation); no editor-vocabulary label leakage in prose; no named-opponent direct-refutation structure requiring substitution audit. Article is sentence-level honest — most fixes are acting on concessions it already makes.
+- **Output**: [[reviews/pessimistic-2026-05-25b]]
+
 ## 2026-05-25T12:00:00+00:00 - deep-review
 - **Status**: Success
 - **File**: [[voids/temporal-void]]

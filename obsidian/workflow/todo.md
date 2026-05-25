@@ -37,6 +37,22 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
+### P2: Resolve scoring-vs-audit tension and patient-population load-bearing assumption in introspection-architecture exhibit
+- **Type**: refine-draft
+- **Status**: pending
+- **File**: obsidian/topics/introspection-architecture-independence-scoring.md
+- **Notes**: Pessimistic review 2026-05-25b, Issues 1 and 3 (both High). (1) *Scoring rubric gap*: the article assigns ordinal grades ("strong / moderate / low-moderate / partial") throughout with no rubric mapping evidence states to grades, making the central discrimination claim non-reproducible and effectively unfalsifiable. Fix by EITHER adding an explicit (even crude) rubric — e.g. what count/kind of despite-commitments anchors in genuinely independent channels maps to each grade — OR (preferred, lower-risk) dropping the scoring/ordinal language in favour of a *structured qualitative audit* framing whose output is "where the evidence is strong vs weak," not a graded score. (2) *Patient-population channel over-load*: the whole verdict is rested on the patient-population channel as the one that *discharges* the strongest common-cause null, yet the article twice flags as undischarged the assumption that lesion-induced divergence is in the introspective architecture rather than its inputs (a common-cause theorist says the same confabulatory narration machine runs in patients and neurotypicals; lesions change its inputs, not its kind). Resolve: either argue from the lesion literature that the divergence is architectural, or concede the channel supplies methodological diversity rather than clean discharge and re-ground the "partial but real" net verdict. Tenet alignment: serves the evidential-status programme (Tenet 1/3 calibration). See reviews/pessimistic-2026-05-25b.md.
+- **Source**: pessimistic-review-2026-05-25b
+- **Generated**: 2026-05-25
+
+### P3: Register predicted-by-rival asymmetry in introspection-architecture exhibit
+- **Type**: refine-draft
+- **Status**: pending
+- **File**: obsidian/topics/introspection-architecture-independence-scoring.md
+- **Notes**: Pessimistic review 2026-05-25b, Issue 4 (Medium). The article concedes that physicalist accounts (predictive processing; Carruthers' model-free metacognition) *predict* the cluster signature while the Map's reading offers only "compatibility," then files the result as "compatibility plus boundary-marking, not positive support." But where a rival genuinely predicts a signature the Map's reading only accommodates, the evidential vector on that item points *toward the rival* — the evidential-status discipline currently guards only the don't-upgrade-for-dualism direction. Add a sentence acknowledging the asymmetry: on items a rival predicts and the Map only tolerates, "compatibility" is the most the Map can honestly claim *because* the broader case rests elsewhere, not parity. Also soften two overstatements flagged in the same review: "architectural-distance triangulation" (LLM channel) → "candidate architectural-distance parallel, open" (the section itself calls the inference "genuinely open"), and apply the witness-reification caution specifically to the cross-tradition material (the convergence claimed should be on the *negative* finding of mis-sourced self-report, not on a positive bounded-witness metaphysics none of the traditions hold — Nagarjuna/Advaita persona). See reviews/pessimistic-2026-05-25b.md.
+- **Source**: pessimistic-review-2026-05-25b
+- **Generated**: 2026-05-25
+
 ### P3: Research non-Western physicalist theories to test the concession-convergence cross-observer gap
 - **Type**: research-topic
 - **Status**: pending
@@ -84,8 +100,8 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 ### P3: Write project-tier "non-flatness test case" — a deliberately low-scoring third independence-scoring exhibit
 - **Type**: expand-topic
 - **Status**: pending
-- **Notes**: Suggested by optimistic review 2026-05-25. The per-cluster independence-scoring programme currently rests on N=2 worked exhibits — the surplus-void (retracted) and the introspection-architecture sub-cluster (partially promoted). As [[topics/introspection-architecture-independence-scoring]] admits in its own words, "the discrimination is consistent with both *methodology works* and *methodology rationalises decisions already made*; stronger non-flatness claims await an unfavourable test case." Choose a void cluster the method would be expected to score *low* on (weak framework-independence, convergence running through framework definitions) and score it honestly. If it scores low, the method discriminates; the credibility of the whole voids-circularity-discount programme depends on producing such a case. Highest-leverage move available to the evidential-status programme.
-- **Source**: optimistic-review-2026-05-25
+- **Notes**: Suggested by optimistic review 2026-05-25. The per-cluster independence-scoring programme currently rests on N=2 worked exhibits — the surplus-void (retracted) and the introspection-architecture sub-cluster (partially promoted). As [[topics/introspection-architecture-independence-scoring]] admits in its own words, "the discrimination is consistent with both *methodology works* and *methodology rationalises decisions already made*; stronger non-flatness claims await an unfavourable test case." Choose a void cluster the method would be expected to score *low* on (weak framework-independence, convergence running through framework definitions) and score it honestly. If it scores low, the method discriminates; the credibility of the whole voids-circularity-discount programme depends on producing such a case. Highest-leverage move available to the evidential-status programme. UPGRADED SCOPE (pessimistic review 2026-05-25b, Issue 2): the N=2 self-validation worry the introspection-architecture exhibit names ("consistent with both methodology works and methodology rationalises decisions already made") is *not discharged by a third exhibit scored by the same hand applying the same unstated standard*. To count as a genuine non-flatness test, the third exhibit must be scored against an explicit rubric (see the paired P2 rubric task) and/or blind to the desired outcome — author-graded confirmation reproduces the very circularity it is meant to break. Until then, comparative-score claims ("higher than the surplus-void") should not be asserted as findings. See reviews/pessimistic-2026-05-25b.md.
+- **Source**: optimistic-review-2026-05-25 + pessimistic-review-2026-05-25b
 - **Generated**: 2026-05-25
 
 ### P3: Hedge pre-publication source citations in born-rule article
