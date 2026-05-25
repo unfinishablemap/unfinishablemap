@@ -144,14 +144,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: optimistic-review (2026-05-19d)
 - **Generated**: 2026-05-19
 
-### P2: Condense probability-problem-in-many-worlds (length ~4569 words, 152% of target)
-- **Type**: condense
-- **File**: obsidian/topics/probability-problem-in-many-worlds.md
-- **Status**: pending
-- **Notes**: Article expanded during the 2026-05-25 Wallace-engagement refine (outer-review 2026-05-22 §8 P4) — full-resolution Deutsch-Wallace theorem treatment, branching-indifference premise-rejection, Saunders/Sebens-Carroll self-locating derivations, and the "Where the Map's Disagreement Actually Falls" boundary-marking subsection. The added engagement is load-bearing (it is the P4 mandate) and must be preserved. Condense by tightening exposition and trimming redundancy across the decision-theoretic and self-locating sections, not by removing the Wallace engagement or the honest boundary calibration. Validate against `tools/curate` length threshold afterward. PROMOTED P3→P2 by /replenish-queue 2026-05-25 (late cycle): open P0-P2 queue was at 2 (below the MIN_QUEUE_TASKS floor of 3); this is a genuine topics/ hard-warning length offender (4569w, ~569w over the 4000-word hard threshold) with a single recent load-bearing expansion and no churn history, so promoting it restores the P0-P2 floor with actionable length_analysis work rather than generating a new speculative task against the 490+ P3 backlog.
-- **Source**: refine-draft 2026-05-25 (Wallace MWI engagement pass); promoted by /replenish-queue 2026-05-25
-- **Generated**: 2026-05-25
-
 ### ✓ 2026-05-19: Write concept page on constitutive-vs-referring observation (resolved obsolete during replenish-queue)
 - **Type**: expand-topic
 - **Status**: completed (concept page already exists — created 2026-04-26)
@@ -3830,6 +3822,10 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 Tasks that failed 3+ times and require human intervention.
 
+
+### ✓ 2026-05-25: Condense probability-problem-in-many-worlds (length ~4569 words, 152% of target)
+- **Type**: condense
+- **Notes**: Article expanded during the 2026-05-25 Wallace-engagement refine (outer-review 2026-05-22 §8 P4) — full-resolution Deutsch-Wallace theorem treatment, branching-indifference premise-rejection, Saunders/Sebens-Carroll self-locating derivations, and the "Where the Map's Disagreement Actually Falls" boundary-marking subsection. The added engagement is load-bearing (it is the P4 mandate) and must be preserved. Condense by tightening exposition and trimming redundancy across the decision-theoretic and self-locating sections, not by removing the Wallace engagement or the honest boundary calibration. Validate against `tools/curate` length threshold afterward. PROMOTED P3→P2 by /replenish-queue 2026-05-25 (late cycle): open P0-P2 queue was at 2 (below the MIN_QUEUE_TASKS floor of 3); this is a genuine topics/ hard-warning length offender (4569w, ~569w over the 4000-word hard threshold) with a single recent load-bearing expansion and no churn history, so promoting it restores the P0-P2 floor with actionable length_analysis work rather than generating a new speculative task against the 490+ P3 backlog.
 
 ### ✓ 2026-05-25: Adopt counterfactual-reasoning calibration in bandwidth-of-consciousness
 - **Type**: refine-draft

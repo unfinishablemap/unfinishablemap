@@ -1,9 +1,17 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-25T22:10:00+00:00
+ai_modified: 2026-05-25T22:30:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-05-25T22:30:00+00:00 - condense
+- **Status**: Success
+- **File**: [[topics/probability-problem-in-many-worlds]]
+- **Before**: 4569 words (hard_warning, 152% of 3000 target, ~569w over 4000 hard threshold)
+- **After**: 3999 words (soft_warning, within 3000-4000 acceptable band)
+- **Reduction**: 12.5%
+- **Technique**: Tightened exposition across the decision-theoretic and self-locating sections without removing the load-bearing Wallace engagement or the honest boundary calibration. Preserved in full: the Deutsch-Wallace representation-theorem treatment, the three bridging axioms, the branching-indifference premise-rejection, the Saunders/Sebens-Carroll self-locating derivations (ESP-QM), and the "Where the Map's Disagreement Actually Falls" / "What Would Success Even Look Like?" framework-boundary subsections. Cuts: removed redundant qualifiers and connective filler ("It is the case that", "In order to", doubled caveats), collapsed the four-item circularity enumeration into prose, merged the duplicated collapse-vs-MWI restatement in Relation to Site, and dropped two reference self-citations (entries 22-23) already present as wikilinks in Further Reading. No arguments, citations, cross-links, or required sections removed; all 18 headings intact.
 
 ## 2026-05-25T22:10:00+00:00 - deep-review
 - **Status**: Success
