@@ -80,14 +80,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: optimistic-review-2026-05-25 + pessimistic-review-2026-05-25b
 - **Generated**: 2026-05-25
 
-### P2: Hedge pre-publication source citations in born-rule article
-- **Type**: refine-draft
-- **Status**: pending
-- **File**: obsidian/topics/born-rule-and-the-consciousness-interface.md
-- **Notes**: PROMOTED P3→P2 by /replenish-queue 2026-05-25 (late cycle): open P0-P2 queue was at 2 (below the MIN_QUEUE_TASKS floor of 3). The three content-section length offenders are all unavailable as honest length_analysis promotions — epistemology-of-convergence-arguments is Blocked (needs human editorial split/reclassify); born-rule's own over-length condense passes are churn-exhausted/vetoed; animal-consciousness sits only marginally over the hard threshold with active refines already touching it. Rather than mint a speculative new task against the 519-task P3 backlog, promote this small, surgical, fully-specified refine that addresses a live Medium pessimistic-review finding (citation-hedging — a *content* fix to the same file, NOT a condense, so it does not touch the article's length class or conflict with the vetoed/blocked born-rule condense tasks). Pessimistic review 2026-05-23 issue 5 — several 2025-2026 citations (Zhang 2026, Torres Alegre 2025, Agrawal-Wilson 2025, Arana 2025, Babcock-Hameroff 2025, Keppler 2025) are treated with the same confidence as historical scholarship (Gleason 1957, Born 1926, Sinha et al. 2010). The 2026-05-23 refine pass installed evidential-status discipline for the interpretive layer but not for the empirical/theoretical source layer. Calibration-Audit-Triple Audit One is the corpus-level discipline; add per-reference hedging (preprint status, single-result status, dispute status) where appropriate. Specifically: Zhang (2026) cited as if definitively establishing irreducibility of additivity, but it's a 2026 preprint without independent verification; Babcock-Hameroff (2025) quoted without flagging the characterisation is disputed by Tegmark and successor decoherence work.
-- **Source**: pessimistic-review-2026-05-23 (P3→P2 promotion, replenish-queue 2026-05-25)
-- **Generated**: 2026-05-23
-
 ### P3: Write topic article on Stochastic Emergence as Quantum-Interface Evidence
 - **Type**: expand-topic
 - **Status**: pending
@@ -3815,6 +3807,10 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 Tasks that failed 3+ times and require human intervention.
 
+
+### ✓ 2026-05-25: Hedge pre-publication source citations in born-rule article
+- **Type**: refine-draft
+- **Notes**: PROMOTED P3→P2 by /replenish-queue 2026-05-25 (late cycle): open P0-P2 queue was at 2 (below the MIN_QUEUE_TASKS floor of 3). The three content-section length offenders are all unavailable as honest length_analysis promotions — epistemology-of-convergence-arguments is Blocked (needs human editorial split/reclassify); born-rule's own over-length condense passes are churn-exhausted/vetoed; animal-consciousness sits only marginally over the hard threshold with active refines already touching it. Rather than mint a speculative new task against the 519-task P3 backlog, promote this small, surgical, fully-specified refine that addresses a live Medium pessimistic-review finding (citation-hedging — a *content* fix to the same file, NOT a condense, so it does not touch the article's length class or conflict with the vetoed/blocked born-rule condense tasks). Pessimistic review 2026-05-23 issue 5 — several 2025-2026 citations (Zhang 2026, Torres Alegre 2025, Agrawal-Wilson 2025, Arana 2025, Babcock-Hameroff 2025, Keppler 2025) are treated with the same confidence as historical scholarship (Gleason 1957, Born 1926, Sinha et al. 2010). The 2026-05-23 refine pass installed evidential-status discipline for the interpretive layer but not for the empirical/theoretical source layer. Calibration-Audit-Triple Audit One is the corpus-level discipline; add per-reference hedging (preprint status, single-result status, dispute status) where appropriate. Specifically: Zhang (2026) cited as if definitively establishing irreducibility of additivity, but it's a 2026 preprint without independent verification; Babcock-Hameroff (2025) quoted without flagging the characterisation is disputed by Tegmark and successor decoherence work.
 
 ### ✓ 2026-05-25: Deep review voids/commensurability-void.md
 - **Type**: deep-review

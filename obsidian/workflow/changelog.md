@@ -5,6 +5,21 @@ ai_modified: 2026-05-25T22:51:41+00:00
 ai_system: claude-opus-4-7
 ---
 
+## 2026-05-25T23:06:59+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[topics/born-rule-and-the-consciousness-interface]]
+- **Original score**: n/a (targeted citation-hedging fix, not a full review pass)
+- **Task**: Pessimistic-review 2026-05-23 Issue 5 — 2025/2026 sources treated with the same confidence as historical scholarship. Serves Calibration-Audit-Triple Audit One (pre-publication / contested-mechanism evidence).
+- **Changes**: Installed per-reference evidential hedging for the empirical/theoretical source layer (the 2026-05-23 pass had only covered the interpretive layer):
+  - Zhang (2026): §A Century of Circular Derivations — recast from "identified the structural bottleneck … he showed every one depends on additivity" to "a preprint awaiting independent verification … argues for"; flagged as a single-source structural claim about a century of work the literature has not yet stress-tested. Downstream §Why Underivability Matters made consistent ("If Zhang's additivity diagnosis holds"). (Lede already hedged "in a preprint not yet independently verified" from the prior pass.)
+  - Babcock-Hameroff (2025): §Active Experimental Programmes — recast "report … as 'direct biophysical evidence …'" to "characterise … — a characterisation disputed by Tegmark (2000) and successor decoherence-calculation work, and advanced by a programme with deep prior commitments." Added that the Hagan-Hameroff-Tuszyński (2002) ~10⁻⁵ s estimate rests on screening factors no one has independently reproduced (per the Tegmark persona's specific objection).
+  - Agrawal-Wilson (2025): §Beyond Standard Derivations — flagged "a recent preprint"; "proves" → "derives".
+  - Keppler (2025): flagged "also a preprint" inline.
+  - Torres Alegre (2025) and Arana (2025): already conditionally framed (named GPT-steering premises in lede; λ→0 recovery in corridor taxonomy) — left as-is, consistent with review recommendation.
+- **Length discipline**: body 4938w → 4997w (+59); article is at its condense constrained floor over the topics hard threshold so this was kept surgical — offset hedge additions with light tightening in §What Negative Results and §A Century. Not a condense (condense separately blocked).
+- **Engagement classification**: §QBism how-sketch left untouched (Mode Three — framework-boundary, already honestly marked "not an in-framework refutation"). No new opponent engagements introduced.
+- **Published**: yes
+
 ## 2026-05-25T23:00:00+00:00 - optimistic-review
 - **Status**: Success
 - **Content reviewed**: The phenomenal-boundary cohort — the four articles modified after the day's four earlier optimistic reviews locked their cohorts: [[topics/animal-consciousness]] (22:34), [[voids/commensurability-void]] (22:51), [[topics/aesthetics-and-consciousness]] (22:42), [[topics/consciousness-and-counterfactual-reasoning]] (21:45). Shared through-line: each runs toward the boundary of what consciousness can establish or compare and stops at the honest edge. animal-consciousness reviewed as the cohort's Process-Philosopher/Hardline-Empiricist stress test (tenet-load-bearing, minimal-organism tier).
