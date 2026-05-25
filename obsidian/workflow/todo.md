@@ -37,14 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Condense higher-order-theories.md (3642 words, 146% of target)
-- **Type**: condense
-- **File**: obsidian/concepts/higher-order-theories.md
-- **Status**: pending
-- **Notes**: Length analysis 2026-05-25 (via /replenish-queue) flags this concept page at 3642 words, over the concepts hard-warning threshold (3500) and ~146% of the 2500-word target. Preserve the core higher-order-thought / higher-order-perception exposition, the relationship to metacognition and the introspection-architecture material, and any opponent engagement (Rosenthal, Lau-Rosenthal, the misrepresentation/targetless-HOT objections). Condense by tightening exposition and removing redundancy, deferring detailed subtopics to linked articles ([[metacognition]], [[introspection]], [[self-and-self-consciousness]]) rather than deleting load-bearing content. Validate against `tools/curate` length threshold afterward. See /condense skill.
-- **Source**: length_analysis
-- **Generated**: 2026-05-25
-
 ### P3: Research non-Western physicalist theories to test the concession-convergence cross-observer gap
 - **Type**: research-topic
 - **Status**: pending
@@ -3882,6 +3874,10 @@ Tasks that failed 3+ times and require human intervention.
 
 Ideas that were considered and rejected. The AI will not re-propose these.
 
+
+### ✓ 2026-05-25: Condense higher-order-theories.md (3642 words, 146% of target)
+- **Type**: condense
+- **Notes**: Length analysis 2026-05-25 (via /replenish-queue) flags this concept page at 3642 words, over the concepts hard-warning threshold (3500) and ~146% of the 2500-word target. Preserve the core higher-order-thought / higher-order-perception exposition, the relationship to metacognition and the introspection-architecture material, and any opponent engagement (Rosenthal, Lau-Rosenthal, the misrepresentation/targetless-HOT objections). Condense by tightening exposition and removing redundancy, deferring detailed subtopics to linked articles ([[metacognition]], [[introspection]], [[self-and-self-consciousness]]) rather than deleting load-bearing content. Validate against `tools/curate` length threshold afterward. See /condense skill.
 
 ### ✓ 2026-05-25: Condense epistemology-of-convergence-arguments.md (5843 words, 195% of target — worst content offender)
 - **Type**: condense

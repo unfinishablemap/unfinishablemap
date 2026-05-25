@@ -5,6 +5,14 @@ ai_modified: 2026-05-25T16:42:05+00:00
 ai_system: claude-opus-4-7
 ---
 
+## 2026-05-25T11:42:00+00:00 - condense
+- **Status**: Success
+- **File**: [[concepts/higher-order-theories]]
+- **Before**: 3642 words (hard_warning)
+- **After**: 2765 words (soft_warning)
+- **Reduction**: 24.1%
+- **Technique**: Cut the heavy duplication between "The Metarepresentational Distinction" and the "Animal and Infant Consciousness" objection (the great-apes / Jourdain Hypothesis argument was stated twice — consolidated into the first, collapsed the second to its dilemma). Tightened the three most verbose passages — Lau's PRM section, the Illusionist Alternative, and the unity-of-consciousness convergence/divergence — preserving every distinct argument while removing restatement and hedging. Condensed the three empirical-dissociation subsections, merged the Dreaming and Contemplative test cases (same falsifiability point), and trimmed the Further Reading list from 15 to 12 entries (dropped items redundant with inline links). Opening summary and "Relation to Site Perspective" (all four tenet subsections) preserved intact. No content extracted to new articles. Remaining length above the 2500 target is justified: the PRM, illusionism, and unity arguments are the Map's distinctive contributions and every section now carries unique content.
+
 ## 2026-05-25T17:17:18+00:00 - condense
 - **Status**: Success
 - **File**: [[concepts/agent-causation]]
