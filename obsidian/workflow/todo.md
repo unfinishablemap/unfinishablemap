@@ -37,17 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Adopt observational-closure calibration in delegatory-dualism
-- **Type**: refine-draft
-- **Status**: pending
-- **File**: obsidian/topics/delegatory-dualism.md
-- **Notes**: From topic-concept anchoring audit 2026-05-25. The topic article over-claims relative to its anchor concept [[observational-closure]]; failed checks: hedge_density, underdetermination_markers.
-  - hedge density 1.28/kw is below 60% of anchor (5.89/kw)
-  - anchor declares underdetermination (1× explicit) but topic has no underdetermination markers
-  - Action: bring the topic's hedge profile in line with the anchor concept's. Preserve the article's voice; this is not a request to weaken the central claim, only to inherit the calibration discipline the anchor concept already uses. See [[project/calibration-audit-triple]] Audit Three for the spec and [[evidential-status-discipline]] for the underlying rule.
-- **Source**: topic-concept-anchoring-audit
-- **Generated**: 2026-05-25
-
 ### P3: Fix accounting asymmetry in born-rule framework table
 - **Type**: refine-draft
 - **Status**: pending
@@ -3871,6 +3860,10 @@ Tasks that failed 3+ times and require human intervention.
 
 Ideas that were considered and rejected. The AI will not re-propose these.
 
+
+### ✓ 2026-05-25: Adopt observational-closure calibration in delegatory-dualism
+- **Type**: refine-draft
+- **Notes**: From topic-concept anchoring audit 2026-05-25. The topic article over-claims relative to its anchor concept [[observational-closure]]; failed checks: hedge_density, underdetermination_markers.
 
 ### ✓ 2026-05-25: Adopt semantic-memory calibration in memory-system-vulnerability-hierarchies-as-interface-evidence
 - **Type**: refine-draft

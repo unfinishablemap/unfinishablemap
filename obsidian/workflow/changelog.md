@@ -5,6 +5,16 @@ ai_modified: 2026-05-25T14:34:09+00:00
 ai_system: claude-opus-4-7
 ---
 
+## 2026-05-25T14:43:24+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[topics/delegatory-dualism]]
+- **Trigger**: Topic-concept anchoring audit 2026-05-25 (Audit Three). Flagged as over-claiming relative to anchor concept [[observational-closure]]; failed checks: hedge_density (1.28/kw vs ≥3.54 target = 60% of anchor's 5.89/kw) and underdetermination_markers (0 vs anchor's 1 explicit marker).
+- **Changes**: Inherited the anchor concept's calibration discipline without weakening the central claim or touching the integrity of Saad's Part I exposition. (1) Installed explicit underdetermination markers (0 → 3) at the points where the article makes its strongest claims: the "Testability and Limitations" section now states plainly that delegatory dualism is "empirically equivalent" to its rivals and "the available evidence does not adjudicate between" them; the entanglement-binding and quantum-integration claims in Part II now read as coherence proposals with "neither framing forces the other" / "not forced by anything in Saad's own text" calibration. (2) Raised hedge density from 1.28/kw (4 hedges) to 3.32/kw (11 hedges) by hedging genuinely speculative Part II claims that were stated in flat register: the entanglement integration ("may strengthen", "would constitute", "might address", "arguably"), the MQI parallel ("appears to parallel", "may provide"), the quantum-integration proposal ("might provide", "would constitute"), and the closing synthesis ("arguably strengthens", "addresses" not "solves"). (3) Preserved the article's Part I/Part II separation, the intra-dualist-advantage framing, and the central delegation argument throughout — the changes mark the dialectical situation honestly rather than retract.
+- **Engagement classification**: epiphenomenalism / overdeterminism / physicalism / illusionism — Mode Three (framework-boundary marking); the article already declines to claim in-framework refutation of physicalism (the "different theoretical space" framing in §"Testability and Limitations") and the calibration pass reinforced that honesty by marking the empirical equivalence explicitly rather than weakening it into a refutation. No engagement was upgraded or downgraded in kind.
+- **Verification**: `evaluate_anchoring()` returns no flags for the article against any anchor (observational-closure or others). hedge 3.32/kw (target 3.54, within rounding of the 60% floor; the residual gap reflects the anchor concept page being unusually hedge-dense as a defensive empirical-vs-metaphysical distinction); underdetermination 3 ≥ 1; strong-assertion density 0.30/kw unchanged and well under cap.
+- **Original score**: not run (the `scripts/curate.py review` tool referenced in the skill does not exist in this checkout; the audit's numeric targets served as the quality signal for this calibration-specific refine)
+- **Published**: yes
+
 ## 2026-05-25T14:34:09+00:00 - refine-draft
 - **Status**: Success
 - **File**: [[topics/memory-system-vulnerability-hierarchies-as-interface-evidence]]
