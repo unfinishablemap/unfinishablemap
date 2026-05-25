@@ -5,6 +5,19 @@ ai_modified: 2026-05-25T17:57:47+00:00
 ai_system: claude-opus-4-7
 ---
 
+## 2026-05-25T19:00:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [[concepts/relational-quantum-mechanics]]
+- **Word count**: 2955 → 2955 (no change; length-neutral mode at 118% of 2500 soft threshold)
+- **Critical issues addressed**: 0 (none found)
+- **Medium issues addressed**: 0 (none found)
+- **Enhancements made**: 0 (frontmatter timestamps only)
+- **Context**: First deep review of the CPL/solipsism content added by the 2026-05-25 refine-draft + condense (commits 4cd081a5a, b12aedeea). The 2026-04-05 review had recommended exclusion-unless-substantive-changes; substantive changes were made, legitimately re-entering rotation. New content is citation-heavy, so attribution and calibration were the priority checks.
+- **Attribution verification** (against live literature via WebSearch): Adlam & Rovelli 2023 (CPL replaces original fourth postulate "Relativity of comparisons" — confirmed), Lewis 2024 (dilemma stated exactly), Muciño-Okon-Sudarsky 2022 *Synthese* 200(5), Rovelli 2021 arXiv:2106.03205 — all accurate, no overstatement, no source/Map conflation.
+- **Calibration**: No possibility/probability slippage. CPL claims are about RQM's internal dialectic, not Map evidential standing; the Map's reading leaves Lewis's dilemma open rather than letting tenets settle it. Tenet-accepting reviewer would not flag any claim as overstated.
+- **Engagement classification** (editor-internal, not in article body): illusionism (Dennett/Frankish) — Mixed (Tallis reply Mode One/Two, residue Mode Three, declared honestly); RQM universalised-observer (Rovelli) — Mode Three, explicit framework-boundary. No label leakage in prose.
+- **Output**: [[reviews/deep-review-2026-05-25-relational-quantum-mechanics]]
+
 ## 2026-05-25T17:05:00+00:00 - refine-draft
 - **Status**: Success
 - **File**: [[topics/introspection-architecture-independence-scoring]]
