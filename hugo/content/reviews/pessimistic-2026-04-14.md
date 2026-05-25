@@ -12,7 +12,7 @@ title: Pessimistic Review - 2026-04-14
 # Pessimistic Review
 
 **Date**: 2026-04-14
-**Content reviewed**: [topics/comparative-phenomenology-of-mathematical-insight.md](/topics/comparative-phenomenology-of-mathematical-insight/), [topics/pragmatist-normative-bridge.md](/topics/pragmatisms-path-to-dualism/), [concepts/metarepresentation-threshold.md](/concepts/metarepresentation-threshold/)
+**Content reviewed**: [topics/comparative-phenomenology-of-mathematical-insight.md](/topics/comparative-phenomenology-of-mathematical-insight/), [topics/pragmatist-normative-bridge.md](/topics/pragmatisms-path-to-dualism/), [concepts/metarepresentation-threshold.md](/concepts/metacognition/)
 
 ## Executive Summary
 
@@ -85,14 +85,14 @@ Three recent articles demonstrate the Map's characteristic ambition in synthesis
 - **Recommendation**: Add a section addressing the symmetry objection. The strongest response would be: the dualist's reflexivity is coherent (using consciousness to investigate consciousness is unproblematic if consciousness is fundamental), while the functionalist's reflexivity is incoherent (using demand-character to evaluate whether demand-character is mere function undermines the evaluation). But this response needs to be explicitly made and defended, not assumed.
 
 ### Issue 3: "No Intermediate Cases" Overstated
-- **File**: [concepts/metarepresentation-threshold.md](/concepts/metarepresentation-threshold/)
+- **File**: [concepts/metarepresentation-threshold.md](/concepts/metacognition/)
 - **Location**: §Evidence for a Discrete Threshold
 - **Problem**: The claim that "no species occupies an intermediate position" is stated as a finding when it reflects the current state of ethological research, which has significant gaps. Corvids (known for sophisticated cognition), cetaceans, and elephants have not been systematically tested for declarative metarepresentation. The article presents absence of evidence as evidence of discreteness.
 - **Severity**: Medium
 - **Recommendation**: Qualify: "Among species studied to date, no intermediate cases have been identified, though systematic testing remains limited to primates." This preserves the interesting observation while acknowledging its provisional status.
 
 ### Issue 4: Neural Evidence Cuts Both Ways
-- **File**: [concepts/metarepresentation-threshold.md](/concepts/metarepresentation-threshold/)
+- **File**: [concepts/metarepresentation-threshold.md](/concepts/metacognition/)
 - **Location**: §Evidence for a Discrete Threshold
 - **Problem**: The article cites Brodmann area 10 as evidence for a categorical transition supporting dualism. But specific neural localisation is precisely what physicalism predicts: a function depends on a physical structure. The article needs to explain why neural specificity supports dualism rather than undermining it.
 - **Severity**: Medium

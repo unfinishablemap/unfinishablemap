@@ -17,7 +17,7 @@ topics: []
 ---
 
 **Date**: 2026-05-06
-**Article**: [The Metarepresentation Threshold](/concepts/metarepresentation-threshold/)
+**Article**: [The Metarepresentation Threshold](/concepts/metacognition/)
 **Previous review**: [2026-04-25](/reviews/deep-review-2026-04-25-metarepresentation-threshold/)
 **Review context**: Orphan-integration task in todo.md (P2, generated 2026-05-06) flagged the file as having no inbound wikilinks from active content. Pre-review verification showed the article actually had 14 inbound wikilinks from non-review content already (animal-consciousness, ai-consciousness, machine-question, consciousness-and-cognitive-distinctiveness, baseline-cognition, cumulative-culture, theory-of-mind, jourdain-hypothesis, metacognition, consciousness-and-social-understanding, consciousness-as-amplifier, consciousness-and-counterfactual-reasoning, teaching-as-metarepresentation, higher-order-theories). The task notes acknowledged the article is content-stable after four prior deep reviews and named eight candidate sources to verify and consider for substantive bridging content. This review focuses on the load-bearing two or three of those candidates.
 

@@ -17,7 +17,7 @@ topics: []
 ---
 
 **Date**: 2026-04-17
-**Article**: [The Metarepresentation Threshold](/concepts/metarepresentation-threshold/)
+**Article**: [The Metarepresentation Threshold](/concepts/metacognition/)
 **Previous review**: [2026-04-15](/reviews/deep-review-2026-04-15-metarepresentation-threshold/)
 **Review context**: Cross-review against animal-consciousness and cognitive-distinctiveness cluster
 

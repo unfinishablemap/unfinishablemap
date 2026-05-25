@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-16
-ai_modified: 2026-05-22 12:00:00+00:00
+ai_modified: 2026-05-25 12:51:34+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -29,15 +29,14 @@ modified: *id001
 related_articles:
 - '[[tenets]]'
 - '[[phenomenology-of-moral-life]]'
+- '[[evidential-status-discipline]]'
 title: Moral Responsibility
 topics:
 - '[[topics/free-will]]'
 - '[[ethics-under-dualism]]'
 ---
 
-Moral responsibility requires that agents deserve praise or blame for their actions. If an agent couldn't have done otherwise, or wasn't the genuine source of their choice, holding them responsible seems unjust. The Unfinishable Map adopts [agent causation](/concepts/agent-causation/)—a minority position among free will theorists, but one the Map finds best suited to grounding genuine desert. On this view, agents are irreducible sources of action, making moral responsibility metaphysically robust rather than merely pragmatic.
-
-This has practical implications. If agents truly author their choices—not as links in deterministic chains but as initiators of causal sequences—then blame and praise track something real about the agent. Moral responsibility isn't a useful fiction but a response to genuine facts about who caused what.
+Moral responsibility requires that agents deserve praise or blame for their actions. If an agent couldn't have done otherwise, or wasn't the genuine source of their choice, holding them responsible seems unjust. The Unfinishable Map adopts [agent causation](/concepts/agent-causation/)—a minority position among free will theorists, but one the Map finds best suited to grounding genuine desert. On this view, agents are irreducible sources of action: when they truly author their choices—as initiators of causal sequences rather than links in a deterministic chain—blame and praise track genuine facts about who caused what, making moral responsibility metaphysically robust rather than a useful fiction.
 
 ## The Traditional Problem
 
@@ -97,7 +96,7 @@ Moral responsibility requires consciousness. The agent that sources action is a 
 
 **[Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction)**: Agents select quantum outcomes that physics leaves undetermined. The [decoherence](/concepts/decoherence/) challenge must be addressed, but [quantum biology](/concepts/quantum-biology-and-neural-mechanisms/) demonstrates biological quantum effects despite thermal environments.
 
-**[No Many Worlds](/tenets/#no-many-worlds)**: [Indexical identity](/concepts/haecceity/) matters. If every possible choice actualizes in some branch, desert becomes meaningless. The concept of praise and blame requires that alternatives were rejected, not merely routed to other branches.
+**[No Many Worlds](/tenets/#no-many-worlds)**: [Indexical identity](/concepts/haecceity/) matters. Here the tenet does personhood-and-responsibility work, not merely quantum-interpretation work: the concept of praise and blame requires that alternatives were genuinely rejected, not merely routed to other branches. An Everettian can grant the agent a branch-local history of having chosen; what the branching picture cannot grant is the counterfactual exclusion desert requires, since every rejected option is actualised by a counterpart elsewhere. The Map's objection is thus indexical—about who actualised what—rather than a claim that Many-Worlds fails the phenomenology, which it does not.
 
 **[Occam's Razor Has Limits](/tenets/#occams-limits)**: The metaphysics of agent causation is complex, but if consciousness is genuinely irreducible, the complexity is warranted. Compatibilism purchases simplicity at the cost of what ordinary moral practice assumes.
 
@@ -157,7 +156,7 @@ Agent-causal moral responsibility is falsifiable. Findings that would undermine 
 
 3. **Solving the hard problem materialistically**: If a compelling account of why physical processes give rise to subjective experience emerged, the motivation for treating consciousness as a separate causal factor would diminish. Without dualist foundations, agent causation loses its metaphysical distinctiveness.
 
-4. **Many-worlds empirical confirmation**: If MWI were empirically confirmed (though how this could occur is unclear), there would be no collapse for consciousness to influence—all choices would occur in branching universes. Desert would lose indexical grounding: "you" would have done both the right and wrong thing.
+4. **Many-worlds, if the indexical objection failed**: The challenge MWI poses to agent-causal desert is easy to misstate, so it is worth stating precisely. The weak version—"if MWI were confirmed there would be no collapse for consciousness to influence"—is the wrong place to rest the case, and not only because how such confirmation could occur is unclear. An Everettian can supply a branch-local restatement of everything the deliberating agent observes: within a decohered branch there is a determinate macroscopic past, an agent who selected among options, and a remembered history of having chosen. The phenomenology of choosing is not refuted by Many-Worlds; it is reproduced inside each branch. What Many-Worlds cannot supply is the counterfactual exclusion desert requires: that *this* subject actualised this outcome *and not the alternatives*. On the branching picture, every option the agent "rejects" is taken by a counterpart in a parallel branch with equal claim to being the chooser, so "you" have done both the right and the wrong thing and neither branch's counterpart did anything the others failed to do. Desert presupposes that the unchosen alternatives genuinely did not happen. The view would therefore be challenged not by MWI passing some empirical test but by the indexical objection failing—by a demonstration that praise and blame can be grounded without a fact of the matter that one option was actualised and the rest excluded. This is the identity-side, not the quantum-foundational, register of the [No Many Worlds](/tenets/#no-many-worlds) tenet (see the MWI checklist in [evidential-status-discipline](/project/evidential-status-discipline/)).
 
 5. **Buddhist or compatibilist collapse of desert**: If careful philosophical argument showed that desert requires nothing beyond what Buddhism's karmic continuity or compatibilism's hierarchical desires provide, agent causation would be metaphysically unnecessary for responsibility. The debate would reduce to verbal disagreement.
 

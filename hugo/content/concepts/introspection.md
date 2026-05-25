@@ -11,7 +11,7 @@ concepts:
 - '[[qualia]]'
 - '[[mysterianism]]'
 - '[[metacognition]]'
-- '[[metarepresentation-threshold]]'
+- '[[metacognition#the-metarepresentation-threshold|metarepresentation threshold]]'
 - '[[higher-order-theories]]'
 - '[[illusionism]]'
 - '[[witness-consciousness]]'
@@ -126,7 +126,7 @@ Illusionism may undermine its own epistemic basis. The experience of finding an 
 
 The [metacognition literature](/concepts/metacognition/) illuminates introspection's nature. The *capacity* to introspect (metacognitive skill) differs from the *content* introspected (phenomenal consciousness). Evidence suggests these are dissociable.
 
-This capacity sits above what the Map calls the [metarepresentation-threshold](/concepts/metarepresentation-threshold/) — the boundary between procedural metacognition (responding to uncertainty without representing it as a mental state) and declarative metarepresentation (treating one's own cognitive states as objects of thought). Introspection in the philosophically loaded sense — the deliberate examination of one's own experience — requires declarative metarepresentation: the subject must hold a mental state and simultaneously hold a representation of that state *as* the subject's own mental state. Procedural metacognition can monitor and adjust behaviour without yielding introspective reports; only above the threshold does the architecture for first-person reportage exist at all. This places limits on what species and what cognitive systems can be the *subjects* of introspective evidence, even where lower-order monitoring is preserved.
+This capacity sits above what the Map calls the [metarepresentation threshold](/concepts/metacognition/#the-metarepresentation-threshold) — the boundary between procedural metacognition (responding to uncertainty without representing it as a mental state) and declarative metarepresentation (treating one's own cognitive states as objects of thought). Introspection in the philosophically loaded sense — the deliberate examination of one's own experience — requires declarative metarepresentation: the subject must hold a mental state and simultaneously hold a representation of that state *as* the subject's own mental state. Procedural metacognition can monitor and adjust behaviour without yielding introspective reports; only above the threshold does the architecture for first-person reportage exist at all. This places limits on what species and what cognitive systems can be the *subjects* of introspective evidence, even where lower-order monitoring is preserved.
 
 ### The Dissociation Evidence
 

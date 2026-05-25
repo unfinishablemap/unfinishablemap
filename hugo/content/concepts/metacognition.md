@@ -1,12 +1,13 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-17
-ai_modified: 2026-05-19 06:00:00+00:00
+ai_modified: 2026-05-25 13:30:00+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
 - /concepts/metacognition/
 - /concepts/metarepresentation/
+- /concepts/metarepresentation-threshold/
 concepts:
 - '[[topics/consciousness-and-social-understanding]]'
 - '[[jourdain-hypothesis]]'
@@ -35,7 +36,7 @@ concepts:
 - '[[epistemic-emotions]]'
 - '[[self-reference-paradox]]'
 created: 2026-01-18
-date: &id001 2026-05-19
+date: &id001 2026-05-25
 description: Metacognition and metarepresentation are cognitive tools consciousness
   enables, not what consciousness is. Dissociation evidence and comparative cognition
   reveal their distinct but interrelated roles.
@@ -132,9 +133,29 @@ The [Jourdain Hypothesis](/concepts/jourdain-hypothesis/) (Whiten 2015) captures
 
 A chimpanzee might *feel* uncertain and seek more information, but may not represent that uncertainty *as* uncertainty. Evidence includes: great ape traditions show stability but little cumulative improvement; great apes rarely teach actively (which requires knowing you know something the learner doesn't); tip-of-the-tongue assessment of unretrieved knowledge has no documented analogue in great apes.
 
-This dissociation—metacognition without metarepresentation—reinforces the Map's framework. Metacognition is widespread in the animal kingdom; metarepresentation may require the expanded phenomenal workspace of human consciousness, particularly the [working-memory](/concepts/working-memory/) capacity to hold multiple representational levels simultaneously. The Jourdain transition—from procedural to declarative—may mark the [metarepresentation threshold](/concepts/metarepresentation-threshold/), the boundary between [baseline](/concepts/baseline-cognition/) and consciousness-amplified cognition. The [consciousness threshold](/topics/consciousness-and-cognitive-distinctiveness/) article situates this transition within a broader pattern: the shift from procedural to declarative metacognition is one of several consciousness-dependent capacities that appear together at a specific point in cognitive evolution.
+This dissociation—metacognition without metarepresentation—reinforces the Map's framework. Metacognition is widespread in the animal kingdom; metarepresentation may require the expanded phenomenal workspace of human consciousness, particularly the [working-memory](/concepts/working-memory/) capacity to hold multiple representational levels simultaneously. The Jourdain transition—from procedural to declarative—marks the **metarepresentation threshold**, the boundary between [baseline](/concepts/baseline-cognition/) and consciousness-amplified cognition. The [consciousness threshold](/topics/consciousness-and-cognitive-distinctiveness/) article situates this transition within a broader pattern: the shift from procedural to declarative metacognition is one of several consciousness-dependent capacities that appear together at a specific point in cognitive evolution.
 
 [Teaching](/concepts/teaching-as-metarepresentation/) serves as a paradigm case. It requires simultaneously maintaining nested representational levels: knowing something, knowing that you know, representing the learner's knowledge state, and adjusting behaviour to bridge the gap. Great apes rarely if ever teach in this sense—learning happens through tolerated scrounging rather than deliberate transmission, suggesting metarepresentation is the limiting factor.
+
+## The Metarepresentation Threshold
+
+The metarepresentation threshold is the cognitive boundary between *having* mental states and *representing those states as mental states*. Below it, organisms monitor and adjust their behaviour using procedural metacognition—implicit feelings of uncertainty, confidence, or familiarity that guide action without being understood as mental phenomena. Above it, organisms possess declarative metarepresentation: they know that they know, doubt that they doubt, and can reflect on their own cognition as an object of thought. This threshold appears to require [phenomenal consciousness](/concepts/consciousness-as-amplifier/) and marks the point where consciousness becomes causally indispensable for cognition. The capacities that emerge above it are distinctly human: cumulative culture, evaluating one's own inferences for consistency, counterfactual thinking, transformational creativity that changes a domain's rules rather than recombining within them, teaching, and moral agency (representing one's own desires as states subject to normative assessment).
+
+### Evidence for a Discrete Threshold
+
+Several lines of evidence suggest the transition from procedural metacognition to declarative metarepresentation is not a smooth continuum but a qualitative shift.
+
+The comparative record shows no clear intermediate cases among well-studied species. Great apes demonstrate procedural metacognition without declarative metarepresentation, and humans demonstrate both. Corvids and cetaceans show sophisticated cognition that occasionally invites metarepresentational interpretation, but the evidence remains contested and no species has been convincingly shown to occupy an intermediate position where some but not all metarepresentational capacities are present. This absence of clear gradation is striking given the otherwise gradual spectrum of cognitive abilities across species.
+
+Neurological evidence points in the same direction. The anterior prefrontal cortex (aPFC), particularly Brodmann area 10, is disproportionately enlarged in humans relative to other primates and is specifically associated with metacognitive accuracy. Damage to this region impairs explicit metacognitive judgements while leaving first-order task performance intact (Fleming et al. 2010). The neural substrate for metarepresentation appears to be an all-or-nothing anatomical feature rather than a gradually scalable capacity.
+
+The [baseline cognition hypothesis](/concepts/baseline-cognition/) provides additional structural evidence. If consciousness were removed from human cognition, the remaining unconscious capacities would closely resemble great ape cognition: working memory of approximately 2±1 items, procedural but not declarative metacognition, product-oriented but not process-oriented social learning. The selective pattern of the human-ape cognitive gap—dramatic differences on tasks requiring explicit representation, modest differences on perceptual speed and associative learning—matches precisely what a [consciousness-driven threshold](/topics/consciousness-and-cognitive-distinctiveness/) would predict rather than a uniform scaling effect.
+
+### Why the Threshold Falls in the Wrong Place for HOT
+
+The discreteness of the threshold sharpens the problem for [Higher-Order Thought theory](/concepts/higher-order-theories/) developed above. HOT claims a mental state becomes conscious when targeted by a higher-order representation. But the comparative evidence places the salient boundary between *procedural* and *declarative* metacognition—not between first-order and higher-order processing. HOT theorists might respond that procedural metacognition is not genuine higher-order *representation* in their technical sense, being functional monitoring without conceptual content. But this narrows HOT considerably: if only conceptually structured higher-order states count, HOT becomes a theory of *reflective* consciousness rather than consciousness as such, and the question of what makes some higher-order states conceptual while others remain merely functional reopens the explanatory gap. Either way, consciousness appears to be *required for* metarepresentation rather than *constituted by* it: metarepresentation becomes evidence of consciousness rather than its explanation.
+
+The threshold also connects to the Map's analysis of [concession convergence in philosophy of mathematics](/topics/concession-convergence-philosophy-of-mathematics/). The gap between formal manipulation and mathematical *understanding*—the gap that formalism, logicism, intuitionism, and structuralism each independently concede—is the metarepresentation threshold applied to mathematical cognition. A formal system manipulates symbols (procedural); a mathematician grasps *why* a proof works and can evaluate its own inferences as objects of thought (declarative). The convergence of independent mathematical programmes on this same gap strengthens the case that the threshold marks something real about conscious cognition, not an artefact of comparative psychology. It bears equally on [ai-consciousness](/topics/ai-consciousness/): a system can *model* metarepresentation—producing outputs describing its own processing states—without *having* it, and whether any AI has genuinely crossed the threshold is the question of whether it knows that it knows or merely mimics such knowledge.
 
 ## Error-Blindness: A Structural Limit
 
@@ -212,6 +233,8 @@ The Map's framework accommodates both: consciousness provides phenomenal content
 - [baseline-cognition](/concepts/baseline-cognition/) — What cognition achieves without metarepresentation
 - [cognitive-phenomenology](/concepts/cognitive-phenomenology/) — The phenomenal character of thinking
 - [theory-of-mind](/concepts/theory-of-mind/) — Levels 0-3+ and the metarepresentational threshold
+- [consciousness-and-cognitive-distinctiveness](/topics/consciousness-and-cognitive-distinctiveness/) — The consciousness threshold across cognitive evolution
+- [concession-convergence-philosophy-of-mathematics](/topics/concession-convergence-philosophy-of-mathematics/) — The threshold applied to mathematical understanding
 - [minimal-consciousness](/concepts/minimal-consciousness/) — The baseline cognition hypothesis
 - [witness-consciousness](/concepts/witness-consciousness/) — Contemplative cultivation of metarepresentation
 - [self-transcendence-void](/voids/self-transcendence-void/) — Whether consciousness can bootstrap beyond its own cognitive architecture
@@ -231,6 +254,7 @@ The Map's framework accommodates both: consciousness provides phenomenal content
 1. Fox, K.C.R., et al. (2012). Meditation experience predicts introspective accuracy. *PLOS One*, 7(9), e45370.
 1. Kapetaniou, G.E., Moisa, M., Ruff, C.C., Tobler, P.N., & Soutschek, A. (2025). Frontopolar cortex interacts with dorsolateral prefrontal cortex to causally guide metacognition. *Human Brain Mapping*, 46(2), e70146.
 1. Koriat, A. (2000). The feeling of knowing: Some metatheoretical implications. *Consciousness and Cognition*, 9(2), 149-171.
+1. Lieberman, M. D., Gaunt, R., Gilbert, D. T., & Trope, Y. (2002). Reflexion and Reflection: A Social Cognitive Neuroscience Approach to Attributional Inference. *Advances in Experimental Social Psychology*, 34, 199-249.
 1. Maniscalco, B., & Lau, H. (2012). A signal detection theoretic approach to understanding blindsight. *Philosophical Transactions of the Royal Society B*, 367(1594), 1430-1443.
 1. Perner, J. (1991). *Understanding the Representational Mind*. MIT Press.
 1. Read, D.W. (2008). Working memory: A cognitive limit to non-human primate recursive thinking prior to hominid evolution. *Evolutionary Psychology*, 6(4), 676-714.

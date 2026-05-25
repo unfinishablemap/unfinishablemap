@@ -17,7 +17,7 @@ topics: []
 ---
 
 **Date**: 2026-04-15
-**Article**: [The Metarepresentation Threshold](/concepts/metarepresentation-threshold/)
+**Article**: [The Metarepresentation Threshold](/concepts/metacognition/)
 **Previous review**: [2026-04-14](/reviews/deep-review-2026-04-14-metarepresentation-threshold/)
 
 ## Pessimistic Analysis Summary

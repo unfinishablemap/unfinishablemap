@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-04-30
-ai_modified: 2026-05-25 11:52:15+00:00
+ai_modified: 2026-05-25 13:20:37+00:00
 ai_system: claude-opus-4-7
 author: null
 coalesced_from:
@@ -56,6 +56,7 @@ related_articles:
 - '[[timing-gap-problem]]'
 - '[[decision-void]]'
 - '[[causal-consistency-constraint]]'
+- '[[many-worlds-argument]]'
 title: Forward-in-Time Conscious Selection
 topics:
 - '[[hard-problem-of-consciousness]]'
@@ -176,7 +177,7 @@ The [Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction) tenet fi
 
 The [Bidirectional Interaction](/tenets/#bidirectional-interaction) tenet is directly enacted: the brain presents decohered alternatives (world-to-mind); consciousness selects among them (mind-to-world). The [trilemma of selection](/topics/trilemma-of-selection/) argues that, given dualism, directed resolution of genuine indeterminacy is the only framework preserving authorship—neither determinism nor randomness can deliver it. The asymmetry between third-person measurability of commitment-relevant signal and first-person opacity of the closing-itself—catalogued as the [decision-void](/voids/decision-void/)—is what an interface doing causal work at a primitive seam predicts: the cause cannot be observed from inside the system whose cause it is.
 
-The [No Many Worlds](/tenets/#no-many-worlds) tenet makes selection necessary. If all elements of the decohered mixture were equally real, there would be no selection to explain.
+The [No Many Worlds](/tenets/#no-many-worlds) tenet is what makes selection a real act rather than a redundant label. A many-worlds reading can restate the post-decoherence data branch-locally—each element of the mixture is realised in its own branch, and the agent in this branch has a determinate outcome and an indexically owned history. That restatement is not refuted here; it is a framework-boundary disagreement, and the [MWI checklist](/project/evidential-status-discipline/) routes it to that register. What the branch-local picture cannot supply is the *counterfactual exclusion* selection requires: a fact of the matter that *this* subject actualised *this* element and not the others, when under branching every unchosen element is actualised in a parallel branch by a counterpart with equal claim to being the selector. The rejection rests on that indexical-identity work, not on the weaker claim that MWI fails to restate the data—making No-MWI a tenet about personhood and responsibility as much as about quantum interpretation. See the [cumulative case against MWI](/arguments/many-worlds-argument/) for the full treatment.
 
 The [Occam's Razor Has Limits](/tenets/#occams-limits) tenet cautions against dismissing either pathway prematurely. The improper mixture distinction shows the problem of outcomes is real; the [time-symmetric-selection-mechanism](/topics/time-symmetric-selection-mechanism/) remains a live alternative resolving certain puzzles (particularly the Libet timing problem) that forward-in-time models must address through other means.
 

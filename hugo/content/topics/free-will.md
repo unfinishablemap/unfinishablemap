@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-08
-ai_modified: 2026-05-23 16:30:00+00:00
+ai_modified: 2026-05-25 00:05:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 coalesced_from:
@@ -33,7 +33,7 @@ concepts:
 - '[[spontaneous-intentional-action]]'
 - '[[compatibilist-symmetry-challenge]]'
 created: 2026-01-08
-date: &id001 2026-05-15
+date: &id001 2026-05-25
 description: Can we genuinely author our choices? The Map defends agent-causal libertarian
   free will grounded in phenomenology—the felt difference between choosing and merely
   observing.
@@ -201,7 +201,7 @@ Free will stands at the intersection of all five [tenets](/tenets/):
 
 **[Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction)**: Consciousness operates within what physics allows—selecting among possibilities without violating conservation laws or causal closure where it holds.
 
-**[No Many Worlds](/tenets/#no-many-worlds)**: Selection requires real collapse. If all possibilities actualize in branching worlds, consciousness selects nothing. The [cumulative case against MWI](/arguments/many-worlds-argument/) shows why the interpretation fails on multiple fronts. The Deutsch-Wallace decision theorem grounds rational *policy* under branching, but the Map holds this doesn't recover genuine *authorship*—what matters for free will is whether the agent is a cause of what actually happens.
+**[No Many Worlds](/tenets/#no-many-worlds)**: The objection here is about identity. A many-worlds reading can supply a branch-local agent who deliberates and reports choosing—it restates the deliberative data without difficulty. What it cannot supply is the *counterfactual exclusion* agency requires: a fact of the matter that *this* subject actualised *this* outcome and not the alternatives. Under branching, every option the agent "rejects" is realised in a parallel branch by a counterpart with equal claim to being the chooser, so nothing in the formalism makes the unchosen genuinely unchosen—yet authorship needs exactly that. So No-MWI functions as a tenet about personhood and responsibility as much as about quantum interpretation, and the rejection rests on this indexical-identity argument rather than on the weaker claim that selection "requires real collapse"—a framework-boundary disagreement the [MWI checklist](/project/evidential-status-discipline/) routes to its honest register. The Deutsch-Wallace decision theorem grounds rational *policy* under branching, but policy is not authorship: it tells a branching agent how to weight outcomes, not which subject causes what actually happens. See the [cumulative case against MWI](/arguments/many-worlds-argument/) for the full treatment.
 
 **[Occam's Razor Has Limits](/tenets/#occams-limits)**: Determinism seems simpler but fails to explain the data: phenomenology of effort, willed/instructed neural distinctions, conscious engagement correlating with neuroplasticity.
 

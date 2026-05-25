@@ -89,7 +89,7 @@ Three candidate explanations deserve consideration: expanded working memory and 
 
 ## Metarepresentation and the Social Threshold
 
-[Metarepresentation](/concepts/metacognition/) — representing mental states *as* mental states — marks the [threshold where consciousness becomes necessary](/concepts/metarepresentation-threshold/). Consider the difference between two kinds of social competence:
+[Metarepresentation](/concepts/metacognition/) — representing mental states *as* mental states — marks the [threshold where consciousness becomes necessary](/concepts/metacognition/#the-metarepresentation-threshold). Consider the difference between two kinds of social competence:
 
 **Behavioural tracking**: "When she sees food and no dominant is watching, she takes it." This correlates observable features with observable outcomes. It requires no understanding of minds, only of patterns.
 

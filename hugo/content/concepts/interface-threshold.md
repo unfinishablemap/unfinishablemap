@@ -7,7 +7,7 @@ author: null
 concepts:
 - '[[consciousness-as-amplifier]]'
 - '[[baseline-cognition]]'
-- '[[metarepresentation-threshold]]'
+- '[[metacognition#the-metarepresentation-threshold|metarepresentation threshold]]'
 - '[[attention-as-interface]]'
 - '[[interface-friction]]'
 - '[[interface-heterogeneity]]'
@@ -50,9 +50,9 @@ topics:
 - '[[evolution-under-dualism]]'
 ---
 
-The interface threshold names an architectural phase transition in the mind-brain coupling: a region in cognitive evolution where the [interface between consciousness and neural systems](/concepts/attention-as-interface/) becomes rich enough for consciousness to *select among* neural patterns rather than merely *accompany* them. Below the threshold, conscious states ride along on neural activity without substantially redirecting it; above it, the same coupling sustains deliberate reasoning, [declarative metarepresentation](/concepts/metarepresentation-threshold/), and the cluster of distinctively human cognitive capacities. The threshold is the Unfinishable Map's preferred explanation for why the great-ape-to-human cognitive gap appears as a discontinuity rather than as smooth scaling with neural complexity. It is structurally a *qualitative* feature of the coupling — whether selection-grade interaction is supported at all — layered above the continuous efficacy axes treated in [interface-efficacy-and-the-cognitive-gap](/topics/interface-efficacy-and-the-cognitive-gap/).
+The interface threshold names an architectural phase transition in the mind-brain coupling: a region in cognitive evolution where the [interface between consciousness and neural systems](/concepts/attention-as-interface/) becomes rich enough for consciousness to *select among* neural patterns rather than merely *accompany* them. Below the threshold, conscious states ride along on neural activity without substantially redirecting it; above it, the same coupling sustains deliberate reasoning, [declarative metarepresentation](/concepts/metacognition/#the-metarepresentation-threshold), and the cluster of distinctively human cognitive capacities. The threshold is the Unfinishable Map's preferred explanation for why the great-ape-to-human cognitive gap appears as a discontinuity rather than as smooth scaling with neural complexity. It is structurally a *qualitative* feature of the coupling — whether selection-grade interaction is supported at all — layered above the continuous efficacy axes treated in [interface-efficacy-and-the-cognitive-gap](/topics/interface-efficacy-and-the-cognitive-gap/).
 
-The concept does specific explanatory work the Map elsewhere distributes across several articles. [consciousness-as-amplifier](/concepts/consciousness-as-amplifier/) names *what* consciousness contributes once the threshold is crossed; [metarepresentation-threshold](/concepts/metarepresentation-threshold/) names *which capacities* the crossing enables; [interface-efficacy-and-the-cognitive-gap](/topics/interface-efficacy-and-the-cognitive-gap/) names *how* the resulting interface might continue to vary in efficacy across species. The interface threshold names the architectural moment that makes all three possible — the point at which the coupling stops being merely receptive and starts being selectively active.
+The concept does specific explanatory work the Map elsewhere distributes across several articles. [consciousness-as-amplifier](/concepts/consciousness-as-amplifier/) names *what* consciousness contributes once the threshold is crossed; [metarepresentation threshold](/concepts/metacognition/#the-metarepresentation-threshold) names *which capacities* the crossing enables; [interface-efficacy-and-the-cognitive-gap](/topics/interface-efficacy-and-the-cognitive-gap/) names *how* the resulting interface might continue to vary in efficacy across species. The interface threshold names the architectural moment that makes all three possible — the point at which the coupling stops being merely receptive and starts being selectively active.
 
 ## Two Models of the Cognitive Discontinuity
 
@@ -80,7 +80,7 @@ The threshold model's central empirical commitment is that the capacities crossi
 
 1. **Durable conscious maintenance.** The interval over which consciously accessed information persists extends from sub-second to seconds-to-minutes, enabling cross-element combination.
 2. **Novel chaining of operations.** Information becomes available for broadcast across modules rather than remaining local — the [global workspace](/concepts/global-workspace-theory/) picture, treated by the Map as a downstream consequence of the threshold, not its cause.
-3. **Declarative metarepresentation.** Mental states become representable *as* mental states; the procedural-to-declarative transition described in the [metarepresentation-threshold article](/concepts/metarepresentation-threshold/).
+3. **Declarative metarepresentation.** Mental states become representable *as* mental states; the procedural-to-declarative transition described in the [metarepresentation-threshold article](/concepts/metacognition/#the-metarepresentation-threshold).
 4. **Spontaneous intentional action.** Behaviour can be initiated from internal states alone, not just triggered by current circumstances.
 5. **Meaning-sensitive selection.** Conscious choice can be guided by felt resonance and significance — the basis of transformational creativity, [cultural ratcheting](/concepts/cumulative-culture/), and rule-changing rather than rule-following.
 
@@ -129,7 +129,7 @@ The first three are within-paradigm empirical bets. The fourth is a substrate-ve
 ## Further Reading
 
 - [consciousness-and-cognitive-distinctiveness](/topics/consciousness-and-cognitive-distinctiveness/) — The host article in which the threshold appears as the central explanatory mechanism
-- [metarepresentation-threshold](/concepts/metarepresentation-threshold/) — The cluster of capacities crossing the threshold
+- [metarepresentation threshold](/concepts/metacognition/#the-metarepresentation-threshold) — The cluster of capacities crossing the threshold
 - [consciousness-as-amplifier](/concepts/consciousness-as-amplifier/) — What consciousness contributes once the threshold is crossed
 - [interface-efficacy-and-the-cognitive-gap](/topics/interface-efficacy-and-the-cognitive-gap/) — Continuous efficacy scaling above the threshold
 - [attention-as-interface](/concepts/attention-as-interface/) — The coupling layer in which the threshold inheres

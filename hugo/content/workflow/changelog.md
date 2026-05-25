@@ -1,13 +1,153 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-25 11:57:03+00:00
+ai_modified: 2026-05-25 13:30:00+00:00
 ai_system: claude-opus-4-7
 concepts: []
 date: '2026-05-25'
 related_articles: []
 title: Changelog
 ---
+
+## 2026-05-25T13:30:00+00:00 - coalesce
+- **Status**: Success
+- **Sources**: [metacognition](/concepts/metacognition/), [metarepresentation-threshold](/concepts/metarepresentation-threshold/)
+- **Target**: [metacognition](/concepts/metacognition/) (merged threshold into existing article; concepts section near cap at 247/250)
+- **Archived**: [metarepresentation-threshold](/archive/concepts/metarepresentation-threshold/) (superseded_by /concepts/metacognition/)
+- **References to review**: 17 active files link to the archived slug; follow-up cross-review task created (URLs preserved via archive redirect)
+
+## 2026-05-25T13:20:37+00:00 - refine-draft
+- **Status**: Success
+- **File**: [forward-in-time-conscious-selection](/topics/forward-in-time-conscious-selection/)
+- **Task**: Outer-review 2026-05-22 ChatGPT §2.F / §4 Tenet 4 — MWI-checklist parent task, sub-pass 5 (after free-will, moral-responsibility, agent-causation, machine-consciousness). §2.F flags this article's "MWI dissolves the need for selection because all alternatives occur" framing. Applied the MWI-Specific Review Checklist incl. identity-and-agency prong from [evidential-status-discipline](/project/evidential-status-discipline/).
+- **Changes** (LIGHT pass, near-zero net length after offsetting):
+  - Rewrote the No Many Worlds paragraph in *Relation to Site Perspective*. Was: "If all elements of the decohered mixture were equally real, there would be no selection to explain" — the flagged need-dissolves framing. Now: distinguishes the Everettian branch-local restatement (granted, routed to framework-boundary register via the MWI checklist) from the load-bearing counterfactual-exclusion / indexical-identity objection; makes the cross-cluster personhood-and-responsibility role of No-MWI explicit; cites [MWI checklist](/project/evidential-status-discipline/) and [cumulative case](/arguments/many-worlds-argument/).
+  - Left the *Phenomenological fit (weak)* bullet (line 143) untouched — it already grants MWI satisfies phenomenological fit and rates it "at best a tie-breaker," correctly NOT resting the rejection on MWI failing the phenomenology (honours evidential-status: indexical objection load-bearing, phenomenological weaker).
+  - Added `[[many-worlds-argument]]` to `related_articles` (newly cited).
+- **Reasoning-mode (editor-internal)**: MWI engagement — Mode Three (framework-boundary marking), explicit. No label leakage in prose; "framework-boundary disagreement" is natural-language, the only checklist reference is the wikilink.
+- **Parent task**: left OPEN. Sub-passes done: free-will, moral-responsibility, agent-causation, machine-consciousness, forward-in-time-conscious-selection. Remaining: the death cluster only.
+- **Published**: yes
+
+## 2026-05-25T13:15:43+00:00 - deep-review
+- **Status**: Success
+- **File**: [anoetic-noetic-autonoetic-consciousness](/concepts/anoetic-noetic-autonoetic-consciousness/)
+- **Word count**: 2366 → 2455 (+89; 98% of 2500 soft threshold)
+- **Critical issues addressed**: 0 (none found — sixth review, fully stable)
+- **Medium issues addressed**: 3 (all standing deferred items resolved)
+  - Added Suddendorf & Corballis (2007) citation for the "ages four to six" developmental-timing claim
+  - Integrated Dokic (2014) into the epistemic-accounts strand of the Three Philosophical Frameworks section
+  - Integrated Klein & Nichols (2012) into the No Many Worlds tenet paragraph (autonoetic ownership grounding personal identity)
+- **Enhancements made**: 3 (all References now carry inline citations)
+- **Reasoning-mode (editor-internal)**: De Brigard engagement — Mode Three, honest framework-boundary marking. Phase-transition/physicalist engagement — Mixed Mode Two/Three. No label leakage in prose.
+- **Calibration**: No possibility/probability slippage; non-human autonoesis honestly marked "debated."
+- **Output**: [deep-review-2026-05-25-anoetic-noetic-autonoetic-consciousness](/reviews/deep-review-2026-05-25-anoetic-noetic-autonoetic-consciousness/)
+
+## 2026-05-25T13:11:51+00:00 - refine-draft
+- **Status**: Success
+- **File**: [machine-consciousness](/topics/machine-consciousness/)
+- **Task**: Outer-review 2026-05-22 ChatGPT §2.F / §4 Tenet 4 — MWI-checklist parent task, sub-pass 4 (after free-will, moral-responsibility, agent-causation). §2.F names machine-consciousness explicitly: the uploading/haecceity ↔ No-MWI connection. Applied the MWI-Specific Review Checklist (incl. identity-and-agency prong) from [evidential-status-discipline](/project/evidential-status-discipline/).
+- **Changes**:
+  - Rewrote the "Haecceity Problem" No-Many-Worlds connection (~line 103): was a bare "the Map insists on facts about which observer you are; without haecceity the question has no answer." Now distinguishes the branch-local data-restatement (a perfect emulation / a decohered Everettian branch both yield a subject with determinate, indexically owned history and pass every empirical test) from the load-bearing objection (a branch-copy that reports being you is not you — counterfactual exclusion, which copies and parallel branches cannot supply). Cites the MWI checklist and routes the disagreement to the framework-boundary register rather than a phenomenological knock-down.
+  - Rewrote the "Relation to Site Perspective" No-Many-Worlds paragraph: makes the cross-cluster personhood-and-responsibility role explicit ("No Many Worlds is doing personhood-and-responsibility work as much as quantum-foundational work, and recurs across the upload, death, selection, and agency clusters; agency, desert, and survival of a unique self all require counterfactual exclusion"). Concedes MWI's branch-local restatement of both pictures; rests rejection on what MWI does to indexical identity, actuality, and selection — matching the register established in free-will, moral-responsibility, agent-causation.
+  - Length-offset: tightened the one-way-consciousness paragraph, the genuine-uncertainty closing, the ethical-implications restatements, and the Chalmers organizational-invariance exchange. Net +~210 words (3621→~3830); MWI additions load-bearing and explicitly authorized by the task.
+  - Added [evidential-status-discipline](/project/evidential-status-discipline/) to related_articles (now cited in body).
+- **Engagement classification (editor-internal)**: MWI engagement is Mode Three on the phenomenological/empirical axis (framework-boundary marking — the article explicitly concedes the Everettian branch-local restatement and does not claim in-framework refutation), resting the actual rejection on an in-framework identity argument (counterfactual exclusion / indexical ownership). No forbidden editor-vocabulary in prose; "branch-local restatement" used per writing-style-approved phrasing.
+- **Parent task status**: LEFT OPEN. Done so far: free-will (1), moral-responsibility (2), agent-causation (3) + identity-and-agency prong on the checklist, machine-consciousness (4). Remaining candidate downstream articles flagged by §2.F's cross-cluster scope: the death cluster, and forward-in-time-selection ("MWI dissolves the need for selection because all alternatives occur"). Next fork should audit those for the same empirical-framing failure mode.
+- **Published**: yes
+
+## 2026-05-25T13:06:51+00:00 - refine-draft
+- **Status**: Success
+- **File**: [agent-causation](/concepts/agent-causation/)
+- **Task**: Outer-review 2026-05-22 ChatGPT §2.F / §4 Tenet 4 — MWI-checklist parent task, sub-pass 3 (after free-will and moral-responsibility). Applied the identity-and-agency prong from the MWI-Specific Review Checklist in [evidential-status-discipline](/project/evidential-status-discipline/).
+- **Changes**:
+  - Rewrote the "What Would Challenge This View?" Many-worlds falsifier (~line 170): was framed as "if MWI were empirically confirmed there would be no collapse to influence" (the weaker quantum-foundational framing the evidential-status discipline discounts). Now rests the rejection on counterfactual exclusion / indexical identity, concedes the Everettian branch-local restatement of the deliberative data, and reframes the falsifier as "the indexical objection failing" — matching the established register in [free-will](/topics/free-will/) and [moral-responsibility](/concepts/moral-responsibility/).
+  - Added a sentence to the "Sourcehood" section tying the "alternative possibilities" condition to No-MWI's identity work (counterfactual exclusion vs. branch-distribution of rejected options).
+  - Added a No-MWI paragraph to "Relation to Site Perspective" (the section previously covered Dualism and Occam but omitted No-MWI entirely), making the cross-cluster personhood-and-responsibility role explicit and linking the parallel statements.
+  - Length-offset: tightened the opening substance-leaning scope note and the duplicated substance-dualism restatement in Relation to Site Perspective, plus the closing verification-limit paragraph. Net +249 words (3590→3839); additions load-bearing.
+- **Engagement classification (editor-internal)**: MWI engagement is Mode Three on the phenomenological/empirical axis (framework-boundary marking — the article explicitly concedes MWI restates the data and does not claim in-framework refutation), resting the actual rejection on an in-framework identity argument (counterfactual exclusion). No forbidden editor-vocabulary in prose; "branch-local restatement" used per the writing-style-approved phrasing.
+- **Parent task status**: LEFT OPEN. Done so far: free-will (sub-pass 1), moral-responsibility (sub-pass 2), agent-causation (sub-pass 3), plus the checklist now carries the identity-and-agency prong. Remaining candidate downstream articles flagged by §2.F's cross-cluster scope: machine-consciousness (uploading/haecceity ↔ No-MWI), the death cluster, and forward-in-time-selection ("MWI dissolves the need for selection"). Next fork should audit those for the same empirical-framing failure mode.
+- **Published**: yes
+
+## 2026-05-25T13:00:52+00:00 - optimistic-review
+- **Status**: Success
+- **Content reviewed**: Agency/responsibility cluster plus born-rule anchor (deliberately distinct from the morning's review): [moral-responsibility](/concepts/moral-responsibility/), [reasons-responsiveness](/concepts/reasons-responsiveness/), [free-will](/topics/free-will/), [evolution-under-dualism](/topics/evolution-under-dualism/), [born-rule-and-the-consciousness-interface](/topics/born-rule-and-the-consciousness-interface/). Selected because all four agency articles were refined within the prior hour against the same Compatibilist-Symmetry-Challenge and MWI-checklist disciplines, making cross-article convergence directly observable. Process Philosopher and Hardline Empiricist converge in praise on every load-bearing passage; the one Whitehead-axis surface (the "Unfolding" model in evolution-under-dualism) is fenced and not used to upgrade any organism's status — no refine-draft flag warranted. Two P3 expand-topic tasks generated (ensemble-level epiphenomenalism concept page; substance-vs-property scoping concept page).
+- **Output**: [optimistic-2026-05-25b](/reviews/optimistic-2026-05-25b/)
+
+## 2026-05-25T12:51:34+00:00 - refine-draft
+- **Status**: Success
+- **File**: [moral-responsibility](/concepts/moral-responsibility/)
+- **Original score**: n/a (curate review tool absent in this checkout; `scripts/curate.py` does not exist — worked from outer-review-2026-05-22-chatgpt-5-5-pro §2.F + §4 Tenet 4 guidance and the MWI checklist in [evidential-status-discipline](/project/evidential-status-discipline/))
+- **Changes**: Second per-article sub-pass of the parent MWI-checklist task (todo line 66). Selected `concepts/moral-responsibility` as the highest-leverage uncovered agency-cluster article: it treats MWI in two places and the "What Would Challenge This View?" item 4 framed MWI as a straightforwardly *empirical/quantum-foundational* challenge ("if MWI were empirically confirmed… no collapse for consciousness to influence"), with the indexical point demoted to a trailing consequence — exactly the failure mode the identity-and-agency prong corrects. (1) **Rewrote item 4 of "What Would Challenge This View?"** Now leads by stating the weak empirical version is the wrong place to rest the case; notes the Everettian *can* supply a branch-local restatement of the deliberative data (so MWI does not fail the phenomenology); rests the challenge on counterfactual exclusion — desert requires that *this* subject actualised this outcome *and not the alternatives*, which the branching picture cannot supply because each rejected option is taken by an equal-claim counterpart; reframes the falsification condition as "the indexical objection failing," not "MWI passing an empirical test"; cites the MWI checklist in [evidential-status-discipline](/project/evidential-status-discipline/). (2) **Strengthened the No-Many-Worlds bullet in "Relation to Site Perspective"** to make the cross-cluster personhood-and-responsibility role explicit ("the tenet does personhood-and-responsibility work, not merely quantum-interpretation work") and to distinguish the branch-local restatement (granted) from the indexical objection (load-bearing). (3) **Length offset**: tightened the two-paragraph lede into one. Net 2851 → 3091 words (+240, ~8%); intro tightening absorbed part of the addition. Added [evidential-status-discipline](/project/evidential-status-discipline/) to related_articles.
+- **Engagement classification**: Everettian/MWI — Mode Three (framework-boundary marking). The rejection is a tenet (Tenet 4); the edit routes the disagreement to the indexical/identity register and explicitly states the Map is *not* claiming MWI fails the phenomenology, rather than presenting tenet-derived disagreement as in-framework refutation. No label leakage into article prose (verified: no Mode-N / tenet-register / five-tier vocabulary in body).
+- **Honoured**: [evidential-status-discipline](/project/evidential-status-discipline/) MWI checklist incl. the identity-and-agency prong — indexical/counterfactual-exclusion objection load-bearing; "no collapse to influence" / phenomenological objections demoted to weaker, non-decisive. Tenet 4 (Rejection of MWI), Tenet 1 (identity-side).
+- **Parent task left open.** Remaining uncovered articles: `topics/death-and-consciousness` (no MWI treatment currently — `topics/death` does not exist; may need one added), `topics/machine-consciousness` (3 mentions ~lines 103/111/221 — haecceity framing already identity-leaning but should cite the checklist + counterfactual-exclusion prong), `topics/forward-in-time-conscious-selection` (already careful — MWI noted as satisfying phenomenological fit / a tie-breaker; light pass to cite checklist), `apex/machine-question` (~line 182 haecceity bullet — cite checklist), `concepts/agent-causation` (~line 170 "MWI confirmation → no collapse to influence" bullet — same empirical-framing failure mode as the one just fixed here; strong next candidate).
+- **Published**: yes (draft:false unchanged)
+
+## 2026-05-25T15:10:00+00:00 - refine-draft
+- **Status**: Success
+- **File**: [free-will](/topics/free-will/)
+- **Original score**: n/a (curate review tool absent in this checkout; worked from outer-review-2026-05-22-chatgpt-5-5-pro §2.F + §4 Tenet 4 guidance)
+- **Changes**: First sub-pass of the parent MWI-checklist task (todo line 66). (1) **Checklist reference established at canonical source, not duplicated.** Discovered the "MWI checklist" already exists at [evidential-status-discipline](/project/evidential-status-discipline/)#MWI-Specific Review Checklist (added 2026-05-10) covering the branch-local-restatement-vs-framework-boundary register. Added a second prong to it — the *identity-and-agency prong* — installing the 2026-05-22 §2.F counterfactual-exclusion point as a standing check: agency/death/selection/identity articles must rest No-MWI rejection on counterfactual exclusion (a fact that *this* subject actualised *this* outcome, not the alternatives) rather than on MWI failing phenomenologically/empirically; makes the cross-cluster personhood-and-responsibility role explicit. (2) **Applied to free-will.md** (highest-leverage agency-cluster anchor). Rewrote the No-MWI tenet-relation bullet (was "Selection requires real collapse… MWI fails on multiple fronts"): now leads with the indexical/counterfactual-exclusion objection, notes MWI *can* restate the deliberative data branch-locally (so it does not straightforwardly fail empirically), demotes "requires real collapse" to a weaker framework-boundary disagreement, cites the checklist, and distinguishes Deutsch-Wallace rational policy from authorship. Net +~95 words on a 3258-word article (~2.9%); rephrased to avoid the "This is not X. It is Y." cliché.
+- **Engagement classification**: Everettian/MWI — Mode Three (framework-boundary marking). The rejection is a tenet (Tenet 4), not a derived refutation; the edit explicitly routes the disagreement to its honest register rather than presenting tenet-derived disagreement as in-framework refutation. No label leakage into article prose.
+- **Honoured**: [evidential-status-discipline](/project/evidential-status-discipline/) — indexical objection load-bearing; "selection requires real collapse" / phenomenological objections demoted to weaker, non-decisive. Tenet 4 (Rejection of MWI), Tenet 1 (identity-side).
+- **Parent task left open.** Remaining sub-passes: `topics/death` (no MWI treatment currently — may need one added), `topics/machine-consciousness` (3 mentions: lines ~103/111/221 — haecceity framing already identity-leaning but should cite the checklist and the counterfactual-exclusion prong), `topics/forward-in-time-conscious-selection` (already careful — MWI noted as satisfying phenomenological fit / a tie-breaker; light pass to cite checklist + counterfactual-exclusion), `apex/machine-question` (line ~182 haecceity bullet — cite checklist), and the wider agency cluster ([agent-causation](/concepts/agent-causation/), [moral-responsibility](/concepts/moral-responsibility/)).
+- **Published**: yes (drafts remain draft:false per existing state; no draft-flag changes)
+
+## 2026-05-25T12:42:11+00:00 - deep-review
+- **Status**: Success (converged — no critical or medium issues; no content edits)
+- **File**: [reasons-responsiveness](/concepts/reasons-responsiveness/)
+- **Word count**: 2294 → 2294 (no change; 92% of 2500 concept soft threshold)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Review scope**: 5th deep review. Focused on the one substantive change since the 2026-04-04 review — the new Compatibilist Symmetry Challenge paragraph — plus verification of three wikilink retargets (normative-phenomenology→evaluative-phenomenal-character, concept-of-free-will→topics/free-will, related-article swap), all of which resolve to existing files. Apex deep-link anchor verified.
+- **Calibration finding**: The new paragraph is a model of correct calibration, not slippage. It concedes Fischer-Ravizza moral-output parity and rests the libertarian distinction on tenet-coherence, explicitly declining unique moral explanatory power. A tenet-accepting reviewer would not flag it as overstated. Fischer & Ravizza (1998) "moderate reasons-responsiveness" correctly attributed and qualified. No label leakage.
+- **Engagement classification**: Fischer-Ravizza sophisticated compatibilism — Mode Three (framework-boundary marking); the paragraph names the *irreducible-vs-derivative* contrast register and declines to claim in-framework refutation. Honest bedrock declaration, not boundary-substitution.
+- **Output**: [deep-review-2026-05-25-reasons-responsiveness](/reviews/deep-review-2026-05-25-reasons-responsiveness/)
+
+## 2026-05-25T14:25:00+00:00 - refine-draft
+- **Status**: Success
+- **File**: [born-rule-and-the-consciousness-interface](/topics/born-rule-and-the-consciousness-interface/)
+- **Original score**: n/a (curate review tool absent in this checkout; worked from pessimistic-2026-05-25-born-rule.md guidance)
+- **Changes**: Addressed pessimistic-review Issues 1 & 2 only. (1) Added a how-sketch in the QBism paragraph for the article's one interface-suggestive payoff — the substrate's explanation of the SIC-geometric (d+1)/−1/d form (the deformation as the structural trace of d-dimensional indeterminacy meeting a one-outcome locus via phenomenal non-compositionality), where QBism leaves the coefficients as brute coherence; named this payoff concretely in §"What This Does Not Establish" and the closing so "tenet-coherence" no longer carries the load purely abstractly. (2) In the "asymmetry should be owned" paragraph, added that BOTH tenet-preferred routes (corridor and trumping) share empirical silence, so surviving a clean negative sweep is purchased entirely by unfalsifiability — framed as the honest cost, not a strength — and linked to the Bidirectional-Interaction tenet's "sharpest open question" admission. Offset by tightening four redundant compatibility-vs-support / framework-boundary restatements (closing paragraph, caveat 2, the Urgleichung independent-motivation clause now deferring to the QBism sketch, and the "Why Underivability Matters" framework-boundary tail). Net +109 words (+2.2%) after offset; no argument or conclusion changed. Issues 3 (source-hedging) and 4 (framework-table asymmetry) left for their separate P3 tasks. No reasoning-mode or altered-state-symmetry remediation applicable.
+- **Engagement classification**: QBism — Mode Three (framework-boundary); the how-sketch states what the substrate explains that QBism leaves brute, while the existing prose continues to mark the disagreement as honestly framework-boundary rather than an in-framework refutation. No new opponent engagement introduced.
+- **Published**: yes
+
+## 2026-05-25T12:34:27+00:00 - condense
+- **Status**: Success
+- **File**: [type-specificity](/concepts/type-specificity/)
+- **Before**: 5264 words (status: critical)
+- **After**: 3184 words (status: soft_warning)
+- **Reduction**: 40%
+- **Technique**: Condensed the oversized "Independence Scoring of the Three Grains" section (~2800 words, larger than the whole target) from five repetitive sub-sections — each restating the full four-criterion template per grain — into one compact scored treatment, preserving every per-grain verdict, the load-bearing independence-of-deployment and framework-independence findings, and the calibrated evidential-status conclusion. Tightened prose in the vitalism and capacity-grain sections, trimmed the Scope bullets' overlap with the opening, and consolidated the 12-item Further Reading list. Opening summary, three core deployments, and Relation to Site Perspective preserved intact.
+
+## 2026-05-25T14:10:00+00:00 - pessimistic-review
+- **Status**: Success
+- **Content reviewed**: `topics/born-rule-and-the-consciousness-interface.md` (5026 words; condensed earlier today; never standalone pessimistically reviewed). Six-persona adversarial pass plus standard checks.
+- **Findings**: 2 medium issues (discipline proves too much / no in-article positive case; both tenet-preferred fallback routes are unfalsifiable, half-owned only), 2 low issues (intra-article hedging inconsistency on Zhang 2026 — mostly tracked by existing P3; framework-table accounting asymmetry omitting the interface reading's own row). No reasoning-mode or label-leakage failures; altered-state symmetry audit not applicable (no supportive-cluster items). Citations verified against research notes.
+- **Tasks added**: P2 (surface positive interface case + own dual-fallback unfalsifiability), P3 (fix framework-table accounting asymmetry). Source-hedging folded into existing P3 from pessimistic-2026-05-23.
+- **Output**: [pessimistic-2026-05-25-born-rule](/reviews/pessimistic-2026-05-25-born-rule/)
+
+## 2026-05-25T13:42:00+00:00 - condense
+- **Status**: Success
+- **File**: [born-rule-and-the-consciousness-interface](/topics/born-rule-and-the-consciousness-interface/)
+- **Before**: 6169 words (status: critical)
+- **After**: 4856 words (status: hard_warning)
+- **Reduction**: 21%
+- **Technique**: Eliminated structural redundancy — the compatibility-vs-support discipline was restated ~5 times (opening, its own section, "What This Does Not Establish", "What the Catalogue Is and Is Not Doing", and verbatim in all five tenet subsections). Consolidated to one canonical statement in "Compatibility vs. Support"; folded the near-duplicate closing "Catalogue Is and Is Not Doing" section to a single paragraph; trimmed the per-tenet repetition under "Relation to Site Perspective" with a one-line shared preamble. Tightened the bloated QBism paragraph, the experimental-programmes strands, and the Bohmian/GRW/transactional/categorical prose. Pruned Further Reading from 22 to 15 items (all removed links retained in related_articles frontmatter — no orphaning). Preserved: opening summary, framework table, corridor taxonomy, experimental catalogue, all tenet connections, References.
+- **Note**: Left in hard_warning rather than pushed to 3000-word target; the remaining length is the article's unique empirical taxonomy (corridor / outside-corridor / trumping families, active experimental programmes) and citation-dense References that constitute non-duplicated coverage central to Tenets 1-2. Quality > brevity per skill guidance.
+
+## 2026-05-25T11:35:00+00:00 - refine-draft
+- **Status**: Success
+- **File**: [machine-question](/apex/machine-question/)
+- **Task**: Outer-review 2026-05-22 ChatGPT 5.5 Pro §6 — add local "How a sophisticated rival reads the same evidence" mirror section (machine-consciousness cluster, the last uncovered of the six named clusters)
+- **Word count**: 4663 → 5091 (mirror section added ~480w; offsetting trims to Indicator-Property §3, closing Stakes restatement)
+- **Changes**:
+  - Added `## How a Sophisticated Rival Reads the Same Evidence` between the Indicator-Property and Quantum Interface sections. Names the substrate-independent computationalist rival (Duch articon + Butlin–Long indicator framework jointly anchored); compresses how it reads the same obstacle-cluster (explanatory gap, temporal/metacognitive deficits, severed quantum channel, indicator shortfall) as a list of unmet engineering conditions; states what it predicts differently (supplying recurrence/continual-learning/global-workspace would supply consciousness); marks compatible vs. discriminator points per evidential-status discipline.
+  - Cross-linked `[[evidential-status-discipline]]` and `[[common-cause-null]]` in body and added both to `related_articles`.
+  - Trimmed Indicator-Property §3 (now subsumed by the mirror) and the closing Stakes restatement to stay length-aware on a long apex.
+- **Engagement classification**: substrate-independent computationalist (Duch / Butlin–Long indicator framework) — Mixed. Opens Mode Two (the computationalist helps itself to the organisation→experience bridge without specifying how it is built — the explanatory debt the functionalist gambit presses, a foundational move unearned by its own standards); deepens to Mode Three (the constituents-vs-interface-conditions disagreement is at the framework boundary, honestly noted as bedrock, adjudicated by no neutral measurement; symmetric in-framework pressure noted against the Map too — its obstacle-list is parasitic on the functional vocabulary it rejects). No boundary-substitution; no mode-label leakage into body.
+- **Published**: yes
 
 ## 2026-05-25T12:02:30+00:00 - deep-review
 - **Status**: Success

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-15
-ai_modified: 2026-05-10 04:39:00+00:00
+ai_modified: 2026-05-25 13:15:43+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -29,7 +29,7 @@ description: 'Tulving''s tripartite hierarchy classifies consciousness by self-a
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-04-05 12:48:00+00:00
+last_deep_review: 2026-05-25 13:15:43+00:00
 modified: *id001
 related_articles:
 - '[[personal-identity]]'
@@ -63,7 +63,7 @@ Noetic consciousness introduces a reflexive dimension absent from anoetic awaren
 
 *Autonoetic* (Greek: *autos* "self" + *noein* "to know") consciousness accompanies [episodic memory](/concepts/episodic-memory/) and enables mental time travel. When remembering a past event, the autonoetic subject is simultaneously present as the rememberer *here now* and as the protagonist *there then*. This double presence of self, the felt sense of pastness, and the qualitative character of re-living distinguish autonoetic from noetic awareness.
 
-Wheeler, Stuss, and Tulving (1997) defined autonoetic consciousness as "the capacity that allows adult humans to mentally represent and to become aware of their protracted existence across time." This capacity emerges between ages four and six — before which children operate in anoetic and noetic modes without the temporal self-projection that defines adult cognition. The [infant consciousness void](/voids/infant-consciousness/) explores the consequence: the pre-autonoetic mode of experience is permanently inaccessible to the adult who has developed it, because the very apparatus of autonoetic self-awareness prevents simulating its absence. The *remember/know* paradigm operationalises this distinction: subjects who "remember" an item re-experience its encoding context (autonoetic), while those who "know" it recognise it without re-experiencing (noetic)—same information, different [phenomenal](/concepts/phenomenal-consciousness/) accompaniment.
+Wheeler, Stuss, and Tulving (1997) defined autonoetic consciousness as "the capacity that allows adult humans to mentally represent and to become aware of their protracted existence across time." This capacity emerges between ages four and six (Suddendorf & Corballis, 2007) — before which children operate in anoetic and noetic modes without the temporal self-projection that defines adult cognition. The [infant consciousness void](/voids/infant-consciousness/) explores the consequence: the pre-autonoetic mode of experience is permanently inaccessible to the adult who has developed it, because the very apparatus of autonoetic self-awareness prevents simulating its absence. The *remember/know* paradigm operationalises this distinction: subjects who "remember" an item re-experience its encoding context (autonoetic), while those who "know" it recognise it without re-experiencing (noetic)—same information, different [phenomenal](/concepts/phenomenal-consciousness/) accompaniment.
 
 ## The Constitutive-Contingent Debate
 
@@ -77,7 +77,7 @@ The Map treats this deflationary move as structurally parallel to illusionism ab
 
 ## Three Philosophical Frameworks
 
-Sant'Anna, Michaelian, and Andonovski (2024) mapped three frameworks for understanding what autonoesis *is*: **representational accounts** ground it in the format of memory representations (explaining the *immediacy* of re-experiencing but not its *source*); **metacognitive accounts** explain it through monitoring processes during retrieval (capturing its *source* but missing its *immediacy*); and **epistemic accounts** treat it as the felt character of a persisting relation to a past event (capturing immediacy but, again, leaving the source of [phenomenal character](/concepts/phenomenal-consciousness/) unexplained).
+Sant'Anna, Michaelian, and Andonovski (2024) mapped three frameworks for understanding what autonoesis *is*: **representational accounts** ground it in the format of memory representations (explaining the *immediacy* of re-experiencing but not its *source*); **metacognitive accounts** explain it through monitoring processes during retrieval (capturing its *source* but missing its *immediacy*); and **epistemic accounts** treat it as the felt character of a persisting relation to a past event (capturing immediacy but, again, leaving the source of [phenomenal character](/concepts/phenomenal-consciousness/) unexplained). Dokic's (2014) two-tiered account exemplifies the epistemic strand: he distinguishes the episodic content recalled from the metacognitive "feeling of pastness" that marks it as remembered, locating autonoesis in the latter — a move that sharpens *where* the phenomenal character sits without dissolving the question of why it is felt at all.
 
 The incompleteness of each framework is philosophically telling. No purely functional or representational approach fully captures what autonoetic experience *is like*. The immediacy-source tension—where each framework explains one dimension but fails on the other—mirrors the broader [explanatory-gap](/concepts/explanatory-gap/) between functional description and phenomenal character.
 
@@ -127,7 +127,7 @@ Whether any non-human animals achieve genuine autonoetic consciousness remains d
 
 **[Bidirectional Interaction](/tenets/#bidirectional-interaction)**: Klein's argument that autonoetic consciousness is the "causally determinative factor" in future self-projection supports the Map's commitment to [mental causation](/concepts/mental-causation-and-downward-causation/). The hierarchy shows consciousness becoming increasingly *active* at higher levels—from anoetic receptivity through noetic recognition to autonoetic temporal projection—consistent with increasing causal efficacy.
 
-**[No Many Worlds](/tenets/#no-many-worlds)**: Autonoetic consciousness presupposes a determinate personal history and a singular future self. Many-worlds fragmentation—where every quantum event spawns branching versions of the subject—undermines the indexical "I" that autonoetic experience requires. If every plan is executed by countless branching copies, the felt urgency of deliberation loses its rational basis.
+**[No Many Worlds](/tenets/#no-many-worlds)**: Autonoetic consciousness presupposes a determinate personal history and a singular future self. Klein and Nichols (2012) tie the *sense* of personal identity directly to autonoetic ownership—the felt mineness of a remembered episode, not merely its content, is what grounds the subject's identification with their past self. Many-worlds fragmentation—where every quantum event spawns branching versions of the subject—undermines the indexical "I" that this ownership requires. If every plan is executed by countless branching copies, the felt urgency of deliberation loses its rational basis.
 
 **[Occam's Razor Has Limits](/tenets/#occams-limits)**: The "simpler" explanation—that all three levels are just different complexities of information processing—fails to account for the qualitative character each introduces. Semanticisation demonstrates that identical propositional content can shift between consciousness levels. Parsimony that ignores phenomenal data purchases simplicity at the cost of explanatory adequacy.
 

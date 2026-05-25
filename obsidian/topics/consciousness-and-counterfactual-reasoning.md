@@ -47,7 +47,7 @@ Counterfactual reasoning requires holding two incompatible representations simul
 
 This dual representation has specific cognitive demands:
 
-**Explicit negation**: The counterfactual premise must be marked as non-actual. The mind must represent "not-P" while reasoning within a frame where P obtains. This requires [[metarepresentation-threshold|metarepresentation]]—representing one's own representations as bearing a particular status (actual vs. imagined).
+**Explicit negation**: The counterfactual premise must be marked as non-actual. The mind must represent "not-P" while reasoning within a frame where P obtains. This requires [[metacognition#the-metarepresentation-threshold|metarepresentation]]—representing one's own representations as bearing a particular status (actual vs. imagined).
 
 **Causal modelling**: Tracing consequences within a counterfactual frame requires understanding causal structure, not merely statistical association. "If the glass hadn't been pushed, it wouldn't have fallen" requires grasping that pushing caused falling, not merely that pushing and falling co-occurred. This causal grasp seems to require something beyond pattern extraction from observed regularities.
 

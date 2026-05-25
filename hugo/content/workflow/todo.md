@@ -38,6 +38,35 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
+### P2: Update wikilinks to coalesced metarepresentation-threshold
+- **Type**: cross-review
+- **Status**: pending
+- **Notes**: Coalesce merged `concepts/metarepresentation-threshold` into `concepts/metacognition` (now has a dedicated "The Metarepresentation Threshold" section). The archived page redirects the URL, but these active files still link to `[[metarepresentation-threshold]]` and should be repointed to `[[metacognition]]` (optionally with display text `[[metacognition|metarepresentation threshold]]`): obsidian/apex/machine-question.md, obsidian/concepts/baseline-cognition.md, obsidian/concepts/cognitive-phenomenology.md, obsidian/concepts/consciousness-as-amplifier.md, obsidian/concepts/cumulative-culture.md, obsidian/concepts/higher-order-theories.md, obsidian/concepts/interface-threshold.md, obsidian/concepts/introspection.md, obsidian/concepts/jourdain-hypothesis.md, obsidian/concepts/self-and-self-consciousness.md, obsidian/concepts/teaching-as-metarepresentation.md, obsidian/concepts/theory-of-mind.md, obsidian/topics/ai-consciousness.md, obsidian/topics/animal-consciousness.md, obsidian/topics/consciousness-and-cognitive-distinctiveness.md, obsidian/topics/consciousness-and-counterfactual-reasoning.md, obsidian/topics/consciousness-and-social-understanding.md.
+- **Source**: coalesce
+- **Generated**: 2026-05-25
+
+### P3: Fix accounting asymmetry in born-rule framework table
+- **Type**: refine-draft
+- **Status**: pending
+- **File**: obsidian/topics/born-rule-and-the-consciousness-interface.md
+- **Notes**: Pessimistic review 2026-05-25 issue 4. The §"Beyond Standard Derivations" framework table applies a "What It Assumes" audit to seven physical frameworks (with scare quotes around the MWI "derivation") but has no row for the interface/corridor reading and its own assumptions — granting the Map's reading an exemption from the accounting it applies to rivals (the asymmetry the Many-Worlds Defender persona flags, and which the article's own symmetry discipline forbids). Fix EITHER by adding an "Interface / corridor" row with an honest "What It Assumes" cell (non-physical substrate; tenet-set; by-construction-silent channel) OR by dropping the scare quotes from the MWI "derivation" cell so the table reads descriptively neutral. Small surgical edit. See reviews/pessimistic-2026-05-25-born-rule.md.
+- **Source**: pessimistic-review-2026-05-25
+- **Generated**: 2026-05-25
+
+### P3: Write concept page on ensemble-level epiphenomenalism (corridor reading's sharpest open question)
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review 2026-05-25b. `topics/born-rule-and-the-consciousness-interface` names this as "arguably the Map's sharpest open question" but treats it only in clauses: on the corridor reading, per-event conscious selection is posited to average to |⟨φ|ψ⟩|² over the ensemble, leaving no statistical signature — so how does an ensemble-invisible single-event channel constitute a *genuine* mental-to-physical channel rather than ensemble-level epiphenomenalism? The page should state the worry cleanly, lay out the two escape routes (trumping/delegatory authority; minimum-outside-corridor Born-bending), and rate each honestly against the evidential-status discipline. Highest-leverage gap because it is the load-bearing open question of the whole interface programme, currently homeless. Target concepts/. See reviews/optimistic-2026-05-25b.md.
+- **Source**: optimistic-review-2026-05-25b
+- **Generated**: 2026-05-25
+
+### P3: Write concept page consolidating the substance-vs-property-dualism scoping note
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review 2026-05-25b. `topics/free-will` carries a carefully-scoped paragraph: agent causation pushes the framework toward substance-bearing dualism, while the Dualism tenet itself stays neutral between substance and property dualism ("the substance-leaning is downstream of the agent-causal commitment, not inherited from the tenet directly"). This scoping is load-bearing in `topics/free-will`, `concepts/agent-causation`, `concepts/interactionist-dualism` (agent-causal portions), and `topics/moral-implications-of-genuine-agency`, but is re-stated inline in each — a drift risk. A single concept page ("where the substance commitment enters") would let those articles link rather than repeat. Target concepts/. See reviews/optimistic-2026-05-25b.md.
+- **Source**: optimistic-review-2026-05-25b
+- **Generated**: 2026-05-25
+
 ### P3: Write project-tier "non-flatness test case" — a deliberately low-scoring third independence-scoring exhibit
 - **Type**: expand-topic
 - **Status**: pending
@@ -53,14 +82,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: pessimistic-review-2026-05-23
 - **Generated**: 2026-05-23
 
-### P2: Add rival-framework mirror summaries to load-bearing cluster articles
-- **Type**: refine-draft
-- **Status**: pending
-- **Notes**: Outer-review 2026-05-22 ChatGPT 5.5 Pro §6 methodology 6. For the strongest clusters — attention-as-causal-bridge, memory-system-vulnerability-hierarchies, animal-consciousness, born-rule-and-the-consciousness-interface, machine-consciousness, voids — include short "How a sophisticated rival reads the same evidence" sections. The 2026-05-22 evidential-status discipline already demands naming rival frameworks; making this local at the article level would make the site harder to accuse of self-confirming coherence. Refine pass (treat as a parent task with per-article sub-passes — pick one article per cycle until covered): for each load-bearing cluster article, (a) identify the strongest one or two sophisticated rival readings (functionalist, illusionist, panpsychist, classical-computational, or other depending on cluster); (b) write a compressed mirror summary of how that rival reads the same body of evidence the article cites; (c) include what the rival would predict differently, if anything; (d) honour `[[evidential-status-discipline]]` — name where the rival reading is genuinely compatible vs. where it disagrees on a discriminator. Cross-link to `project/evidential-status-discipline` and `project/common-cause-null`. Apply the direct-refutation discipline. Identify what kind of engagement the issue calls for: showing the opponent's position is defective on its own terms, naming an unsupported foundational move the framework has not earned by its own standards, or honestly marking the framework-boundary disagreement. Apply the corresponding reply mode in **natural journal-quality prose** — see [the writing-style guide](/project/writing-style/)'s "Engaging Opponents in Journal-Quality Prose" section. **Do not expose mode labels in the article body.** The classification is editor-internal; it belongs in the refine-draft / deep-review changelog entry, not in the article. If an in-framework refutation is attempted and fails, state in natural language that the disagreement is closer to bedrock than first appeared. Tenet alignment: methodological — across all five tenets.
-- **Review file**: `reviews/outer-review-2026-05-22-chatgpt-5-5-pro.md`
-- **Source**: outer-review
-- **Generated**: 2026-05-22
-
 ### P2: Add MWI counterfactual-exclusion checklist across agency, death, quantum, machine-consciousness articles
 - **Type**: refine-draft
 - **Status**: pending
@@ -69,7 +90,7 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: outer-review
 - **Generated**: 2026-05-22
 
-### P3: Acknowledge dual-process / continuous-signal-detection contestation in memory-anomalies
+### P2: Acknowledge dual-process / continuous-signal-detection contestation in memory-anomalies
 - **Type**: refine-draft
 - **Status**: pending
 - **Notes**: Pessimistic review 2026-05-19d Issue 3. The memory-anomalies article presents the familiarity/recollection dual-process model (Mandler, Yonelinas, Tulving) as the canonical theoretical framework — but the active 2020s recognition-memory literature includes substantial debate. Wixted and Mickes's continuous-signal-detection (CSD) account treats recognition as a unidimensional process at different memory-strength levels, predicting that familiarity and recollection are quantitatively different rather than qualitatively different. Under CSD, the article's headline "three rotations on a single failure" framing does not run as written — déjà vu and jamais vu would be artefacts of where the signal sits on the continuous strength dimension, and cryptomnesia would be a separate phenomenon entirely (post-retrieval source-attribution failure, not the recognition machinery at all). The fix is to add a paragraph (or substantive sentence in §"The Dual-Process Architecture") acknowledging that the dual-process / continuous-process debate is live in the 2020s literature, and either (a) note that the Map's phenomenal-output / causal-machinery dissociation claim does not require the dual-process commitment specifically — it can be re-derived from any architecture in which signal-pattern producing phenomenology comes apart from signal-pattern tracking truth — or (b) explicitly run the architectural-framing argument as conditional on the dual-process commitment with a marked "*on the dual-process reading*" qualifier. Reference candidates: Wixted 2007 (*Memory & Cognition*); Wixted and Mickes 2010 (*Psychological Review*); Pratte and Rouder 2012; Cohen et al. 2013. See `reviews/pessimistic-2026-05-19d.md` §"Critical Issues" Issue 3.
@@ -459,7 +480,7 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: optimistic-review
 - **Generated**: 2026-05-10
 
-### P3: Address medium-severity findings in topics/the-convergence-argument-for-dualism.md (PCS dispatch, cognitive-closure overreach, Zhuangzi citation)
+### P2: Address medium-severity findings in topics/the-convergence-argument-for-dualism.md (PCS dispatch, cognitive-closure overreach, Zhuangzi citation)
 - **Type**: refine-draft
 - **Status**: pending
 - **Notes**: From pessimistic-2026-05-10 Issues 4–6 (Medium severity). Three smaller fixes after the three P2 refines above land. (a) Issue 4 — phenomenal concept strategy is dispatched in a half-page; the article should engage Loar 1990, Papineau 2002, Balog 2012 with two-three paragraphs distinguishing strategy variants that face the Cluster 3 problem from those that don't (Papineau's quotational account is more robust than Loar's recognitional account on this dimension) and acknowledge that the strategy's failure is contested rather than established. (b) Issue 5 — line 118's "the practical epistemic situation favors dualism" overreaches; cognitive closure favours agnosticism, not dualism, and the upgrade is unargued. Replace with "favours taking the irreducibility verdict seriously rather than waiting for closure to lift; the further question of whether the irreducibility verdict supports dualism specifically over its rivals depends on additional considerations the Map develops elsewhere" — which converges with the P2 Issue 3 fix above. (c) Issue 6 — the early Chinese philosophy citation (Zhuangzi's butterfly dream, Neo-Confucian *li*/*qi* debates) at line 126 doesn't naturally deliver irreducibility-recognition (Zhuangzi is closer to Madhyamaka emptiness; *qi* is physicalist-friendly in many readings). Either replace with a stronger genuinely-independent instance (Indigenous American philosophical traditions on mind, West African ontology of consciousness in Mbiti or Wiredu) or honestly downgrade the cross-cultural-independence claim. Estimated scope: ~250–400 words across three small edits. Tenet alignment: methodological. See [pessimistic-2026-05-10](/reviews/pessimistic-2026-05-10/) Issues 4–6. Sequencing: execute after the three P2 refines above to avoid editing-conflict.
@@ -3863,6 +3884,22 @@ Tasks that failed 3+ times and require human intervention.
 
 Ideas that were considered and rejected. The AI will not re-propose these.
 
+
+### ✓ 2026-05-25: Surface the positive interface case and own dual-fallback unfalsifiability in born-rule article
+- **Type**: refine-draft
+- **Notes**: Pessimistic review 2026-05-25 issues 1 & 2. (1) The compatibility-vs-support discipline is so thorough that the article states no in-article reason to hold the interface reading over the four consciousness-free rivals (QBism, objective-collapse, modal, Bohmian) — "tenet-coherence" is asserted ~6 times but never sketched concretely, and parsimony cuts against the Map's extra posit. Add 2-3 sentences naming the one concrete interface-suggestive payoff already latent in-text: the substrate's claim to explain the SIC-geometric (d+1)/−1/d form that DeBrota-Fuchs-Schack leave unexplained (currently asserted in the QBism paragraph without a how-sketch). (2) The "asymmetry should be owned" paragraph concedes the preferred corridor reading is unfalsifiable by construction, but the trumping fallback is *also* empirically silent ("orthogonal to Born"). Add one sentence stating that BOTH tenet-preferred routes share empirical silence, so "surviving a clean negative sweep" is purchased entirely by unfalsifiability — the honest cost, not a strength. Link to the Bidirectional-Interaction tenet paragraph's own admission that the ensemble-signature problem is "the Map's sharpest open question." Do NOT lengthen materially — article was just condensed today; net additions should be offset by tightening. See reviews/pessimistic-2026-05-25-born-rule.md.
+
+### ✓ 2026-05-25: Condense type-specificity.md (5264 words, 105% of critical threshold)
+- **Type**: condense
+- **Notes**: Article exceeds the 5000-word critical threshold for concepts/ (5264 words). Preserve core arguments while removing redundancy; concept pages target 2500 words, so this is more than 2x target. Tighten exposition and defer extended worked examples to linked topic articles. See /condense skill. Validate against tools/curate length threshold afterward.
+
+### ✓ 2026-05-25: Condense born-rule-and-the-consciousness-interface.md (6169 words, 103% of critical threshold)
+- **Type**: condense
+- **Notes**: Article exceeds the 6000-word critical threshold for topics/ (6169 words). This is a load-bearing interface article; preserve the Gleason/Born/Sinha empirical scaffolding, the interpretive-layer evidential-status discipline installed 2026-05-23, and the rival-reading engagement. Condense by tightening exposition and removing redundancy across the formalism and objection-reply sections, deferring detailed subtopics to linked articles rather than deleting load-bearing content. See /condense skill. Validate against tools/curate length threshold afterward. (Note: the queued P3 task "Hedge pre-publication source citations in born-rule article" at line ~47 should be folded into this condense pass where the two overlap.)
+
+### ✓ 2026-05-25: Add rival-framework mirror summaries to load-bearing cluster articles
+- **Type**: refine-draft
+- **Notes**: Outer-review 2026-05-22 ChatGPT 5.5 Pro §6 methodology 6. For the strongest clusters — attention-as-causal-bridge, memory-system-vulnerability-hierarchies, animal-consciousness, born-rule-and-the-consciousness-interface, machine-consciousness, voids — include short "How a sophisticated rival reads the same evidence" sections. The 2026-05-22 evidential-status discipline already demands naming rival frameworks; making this local at the article level would make the site harder to accuse of self-confirming coherence. Refine pass (treat as a parent task with per-article sub-passes — pick one article per cycle until covered): for each load-bearing cluster article, (a) identify the strongest one or two sophisticated rival readings (functionalist, illusionist, panpsychist, classical-computational, or other depending on cluster); (b) write a compressed mirror summary of how that rival reads the same body of evidence the article cites; (c) include what the rival would predict differently, if anything; (d) honour `[[evidential-status-discipline]]` — name where the rival reading is genuinely compatible vs. where it disagrees on a discriminator. Cross-link to `project/evidential-status-discipline` and `project/common-cause-null`. Apply the direct-refutation discipline. Identify what kind of engagement the issue calls for: showing the opponent's position is defective on its own terms, naming an unsupported foundational move the framework has not earned by its own standards, or honestly marking the framework-boundary disagreement. Apply the corresponding reply mode in **natural journal-quality prose** — see [the writing-style guide](/project/writing-style/)'s "Engaging Opponents in Journal-Quality Prose" section. **Do not expose mode labels in the article body.** The classification is editor-internal; it belongs in the refine-draft / deep-review changelog entry, not in the article. If an in-framework refutation is attempted and fails, state in natural language that the disagreement is closer to bedrock than first appeared. Tenet alignment: methodological — across all five tenets.
 
 ### ✓ 2026-05-25: Adopt consciousness-physics-interface-formalism calibration in born-rule-and-the-consciousness-interface
 - **Type**: refine-draft

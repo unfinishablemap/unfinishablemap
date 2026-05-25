@@ -17,7 +17,7 @@ topics: []
 ---
 
 **Date**: 2026-04-25
-**Article**: [The Metarepresentation Threshold](/concepts/metarepresentation-threshold/)
+**Article**: [The Metarepresentation Threshold](/concepts/metacognition/)
 **Previous review**: [2026-04-17](/reviews/deep-review-2026-04-17-metarepresentation-threshold/)
 **Review context**: Orphan integration — task notes flagged the file as having no inbound wikilinks. Verification showed it actually had 9 inbound wikilinks, but several natural-fit candidates listed in the task notes were not yet linking. This review focuses on adding inbound links from those natural targets rather than substantive content changes.
 
