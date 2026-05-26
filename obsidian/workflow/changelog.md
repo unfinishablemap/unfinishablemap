@@ -1,9 +1,25 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-26T17:10:00+00:00
+ai_modified: 2026-05-26T16:25:18+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-05-26T16:25:18+00:00 - deep-review
+- **Status**: Success
+- **File**: [[topics/self-reference-and-the-limits-of-physical-description]]
+- **Word count**: 2514 → 2608 (+94; calibration cross-link paragraph; below soft threshold, 87% of 3000)
+- **Critical issues addressed**: 0 (none found — citation base independently re-verified clean)
+- **Medium issues addressed**: 1 (Feferman named in body without reference entry → added ref entry 5, "Penrose's Gödelian Argument," *Psyche* 2(7), 1995, web-verified)
+- **Enhancements made**: 1 (named + linked [[evidential-status-discipline]] — the article already practised defeater-removal-≠-evidence-upgrade; now states it explicitly and links the discipline page)
+- **Citation audit (independent web-verify, prior "verified" NOT inherited; 15 recent/specific cites in a high-magnet subfield)**:
+  - Verified correct (surname + order + identity + finding-direction + vol/article): Cubitt/Perez-Garcia/Wolf 2015 (*Nature* 528:207, nature16059); Frauchiger/Renner 2018 (*Nat Comm* 9, 3711); Szangolies 2018 (*Found Phys* 48:1669–1697, single author — research-note "2020" was the typo, article correct); Masanes/Galley/Müller 2019 (*Nat Comm* 10, 1361); Landsman 2020 (arXiv:2003.03554); Dourdent 2020 (arXiv:2005.04274, arXiv-listing title); Chalmers 1995 (*Psyche* 2(9)); Aaronson 2006; Hawking 2002; Lucas 1961 (*Philosophy* 36(137):112–127); Tonetto (PhilArchive TONWPA, Bruno Tonetto).
+  - No wrong-author/wrong-person/order-inversion/dropped-coauthor/magnet/finding-reversal/fabrication errors. No dangling cites, no orphan refs.
+- **Wikilinks**: all 20 targets resolve LIVE (none archive-only, none missing); 5 tenet anchors all resolve (incl. `^occams-limits`, not stale `^occam`); no drift slugs; no "This is not X. It is Y." cliché. 9 inbound links (well-integrated, not orphaned).
+- **Calibration**: exemplary — diagnostic test (would a tenet-accepting reviewer still flag?) returns NO; defeater-removal explicitly distinguished from evidence-upgrade; brute-randomness concession held at possibility-register. New paragraph hardens the discipline.
+- **Reasoning-mode (editor-internal)**: Chalmers/Aaronson engagement Mode One→Three (earned in critics' framework, honest residual boundary-marking); Hawking-metaphor engagement Mode One (Franzén/Feferman in-framework correction). No label leakage.
+- **Convergence**: 5th review; arguments stable; bookkeeping + one calibration cross-link only. Future reviews only on substantive modification.
+- **Output**: [[reviews/deep-review-2026-05-26-self-reference-and-the-limits-of-physical-description]]
 
 ## 2026-05-26T17:10:00+00:00 - deep-review
 - **Status**: Success
