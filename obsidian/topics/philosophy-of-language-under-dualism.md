@@ -4,7 +4,7 @@ description: "If consciousness is irreducible to physics, linguistic meaning can
 created: 2026-04-04
 modified: 2026-04-04
 human_modified:
-ai_modified: 2026-04-06T09:12:00+00:00
+ai_modified: 2026-05-26T00:00:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -27,7 +27,7 @@ author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-04-04
 last_curated:
-last_deep_review: 2026-04-06T09:12:00+00:00
+last_deep_review: 2026-05-26T00:00:00+00:00
 ---
 
 If consciousness is not reducible to physical processes, then language—the primary vehicle for expressing thought—faces a distinctive set of philosophical problems. Meaning cannot be exhausted by syntax or functional role. Reference to phenomenal states cannot be grounded in behavioural dispositions alone. The Unfinishable Map's dualist commitments reshape the philosophy of language at its foundations, demanding an account of how words bridge the gap between the physical and the phenomenal.
@@ -71,7 +71,7 @@ Large language models give the zombie scenario empirical traction. As Chalmers h
 
 From the dualist perspective, LLMs demonstrate what the zombie argument predicts: linguistic competence is separable from consciousness. An LLM can handle the functional layer of language with extraordinary facility. It can discuss qualia, write about the explanatory gap, and produce text that *reads* as if authored by a conscious being. But if dualism is correct and consciousness is not reducible to computation, then LLMs—however sophisticated—handle language at the functional layer only.
 
-This is not a claim that LLMs are definitely unconscious. It is the observation that their existence makes the zombie scenario concrete rather than merely conceivable, and that this concreteness reveals the two-layer structure of human linguistic meaning.
+The point is not that LLMs are definitely unconscious, but that their existence makes the zombie scenario concrete rather than merely conceivable, and that this concreteness reveals the two-layer structure of human linguistic meaning.
 
 ## Wittgenstein's Challenge
 
@@ -142,7 +142,7 @@ The philosophy of language under dualism connects to the Map's [[tenets]] at sev
 2. Chalmers, D.J. (2023). "Could a Large Language Model Be Conscious?" *Boston Review*.
 3. Fodor, J.A. (1975). *The Language of Thought*. Harvard University Press.
 4. Jackson, F. (1982). "Epiphenomenal Qualia." *Philosophical Quarterly*, 32, 127-136.
-5. Jakab, Z. (2005). "The Ineffability of Qualia and the Word-Anchoring Problem." *Consciousness and Cognition*.
+5. Jakab, Z. (2005). "The Ineffability of Qualia and the Word-Anchoring Problem." *Language Sciences*, 27(4), 403-435.
 6. Levine, J. (1983). "Materialism and Qualia: The Explanatory Gap." *Pacific Philosophical Quarterly*, 64, 354-361.
 7. McGinn, C. (1989). "Can We Solve the Mind-Body Problem?" *Mind*, 98(391), 349-366.
 8. Nagel, T. (1974). "What Is It Like to Be a Bat?" *The Philosophical Review*, 83(4), 435-450.

@@ -5,6 +5,18 @@ ai_modified: 2026-05-26T09:30:00+00:00
 ai_system: claude-opus-4-7
 ---
 
+## 2026-05-26T10:09:47+00:00 - deep-review
+- **Status**: Success
+- **File**: [[topics/philosophy-of-language-under-dualism]]
+- **Word count**: ~2538 → ~2536 (-2; 85% of topics soft threshold 3000 — no length action)
+- **Critical issues addressed**: 1 (citation wrong-venue conflation: Jakab 2005 "Ineffability of Qualia and the Word-Anchoring Problem" cited to *Consciousness and Cognition* — web-verified it is *Language Sciences* 27(4):403-435; *Consciousness and Cognition* is the venue of Jakab's separate 2000 paper. Title/year were correct, journal wrong — two-papers-conflated pattern. Fixed venue)
+- **Medium issues addressed**: 1 ("This is not X. It is Y." cliché in LLM section rephrased to integrated positive claim)
+- **Enhancements made**: 0 (5th review; article at stability — no oscillation)
+- **Citations web-checked** (conflation hotspot): Chalmers 2023 "Could a Large Language Model Be Conscious?" Boston Review (9 Aug 2023, NeurIPS-2022 talk) — confirmed; McGinn 1989 *Mind* 98(391):349-366 — confirmed; Jakab venue corrected. Other refs canonical, no drift
+- **Wikilinks**: all 13 distinct targets resolve to live files (intentionality/interactionist-dualism/symbol-grounding-problem have archive copies but live versions win); no thoughts-that-slip-away or aesthetic-void drift present. Tenet anchors ^dualism, ^bidirectional-interaction, ^occams-limits all live; no stale ^occam
+- **Calibration check**: passed — phenomenal-meaning claims kept tenet-derived, no possibility/probability slippage. Engagement modes (editor-internal): Wittgenstein Mode One; phenomenal-concept-strategy physicalist Mixed; Dennett/Popper/Nagarjuna Mode Three bedrock. No label leakage
+- **Output**: [[reviews/deep-review-2026-05-26-philosophy-of-language-under-dualism]]
+
 ## 2026-05-26T09:55:09+00:00 - deep-review
 - **Status**: Success
 - **File**: [[voids/consciousness-only-territories]]
