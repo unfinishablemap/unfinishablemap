@@ -5,6 +5,15 @@ ai_modified: 2026-05-26T20:02:03+00:00
 ai_system: claude-opus-4-7
 ---
 
+## 2026-05-26T20:17:28+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[topics/indian-philosophy-of-mind]]
+- **Trigger**: topic-concept anchoring audit (Audit Three); failed hedge_density + underdetermination_markers vs anchor [[causal-closure]] (also flagged against [[filter-theory]])
+- **Changes**: Inherited the anchor concept's calibration discipline without weakening the central convergence claim (three Indian schools independently affirm irreducibility). Hedge density raised 1.21→3.79/kw (count 3→11; causal-closure anchor=4.57, 60% threshold=2.74); strong-assertion verbs stayed 0. Hedges added only on genuine inferential moves — Samkhya's proximity/reflection interaction mechanism (noted as suggestive, not worked out; magnet analogy carries less than it appears), the causal-closure "sidestep" (interaction problem migrates rather than vanishes; underdetermined by the texts), the Gangesa→higher-order-theory parallel, the Nyaya unity/binding-problem parallel (structure not shared premises), and the Samkhya→functionalism resemblance (suggestive not exact). Added one explicit underdetermination marker in the three-way-disagreement section ("the data alone do not adjudicate between dualism and its rivals"), reframing convergence as strengthening the dualist case rather than establishing it, and naming the common-cause/shared-introspective-method deflationary reading. Original conclusion and argument structure preserved.
+- **Calibration**: cleared `tools/curate/anchoring.evaluate_anchoring` (returns no flags). No mode labels or editor-vocabulary in body. Engagement with the empiricist deflationary reading: Mode Three (framework-boundary; common-cause reading noted as available rather than refuted).
+- **Original score**: not run (curate.py review tool absent from repo; calibration metrics used as the objective check)
+- **Published**: yes
+
 ## 2026-05-26T00:00:00+00:00 - refine-draft
 - **Status**: Success
 - **File**: [[topics/social-construction-of-self-vs-phenomenal-self]]
