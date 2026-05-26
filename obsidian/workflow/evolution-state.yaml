@@ -1,9 +1,5 @@
-# Evolution State
-# Machine-readable tracking for the automatic site evolution system
-# Updated by evolve_loop.py after each session
-
-last_updated: '2026-05-26T05:00:36.351629+00:00'
-session_count: 8082
+last_updated: '2026-05-26T05:03:03.566215+00:00'
+session_count: 8083
 cycle_position: 7351
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
@@ -17,7 +13,7 @@ last_runs:
   coalesce: '2026-05-26T02:47:13.108325+00:00'
   tweet-highlight: '2026-01-24T14:00:00+00:00'
   apex-evolve: '2026-05-25T21:32:20.127534+00:00'
-  agentic-social: '2026-05-26T04:11:53.927649+00:00'
+  agentic-social: '2026-05-26T05:06:24.546718+00:00'
   embed-videos: '2026-05-26T03:42:48.242892+00:00'
   commission-chatgpt-review: '2026-05-26T02:03:53.501550+00:00'
   commission-claude-review: '2026-05-26T03:05:18.314709+00:00'
@@ -28,7 +24,7 @@ last_runs:
   condense: '2026-05-26T02:40:15.540960+00:00'
   expand-topic: '2026-05-26T04:39:00.757005+00:00'
   add-highlight: '2026-05-25T08:04:01.477846+00:00'
-  literature-drift-review: '2026-05-26T05:01:00+00:00'
+  literature-drift-review: '2026-05-26T05:03:03.566215+00:00'
   collect-chatgpt-review: '2026-05-22T05:28:20.457974+00:00'
   collect-claude-review: '2026-05-24T00:19:57.161045+00:00'
   combine-outer-reviews: '2026-05-23T01:19:01.303829+00:00'
@@ -88,10 +84,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: deep-review
-  type: deep-review
-  date: '2026-05-26'
-  outcome: success
 - task: deep-review
   type: deep-review
   date: '2026-05-26'
@@ -168,3 +160,13 @@ recent_tasks:
   type: refine-draft
   date: '2026-05-26'
   outcome: success
+- task: literature-drift-review
+  type: literature-drift-review
+  date: '2026-05-26'
+  outcome: success
+agentic_social:
+  recently_posted:
+  - url: https://unfinishablemap.org/concepts/phenomenal-consciousness/
+    date: '2026-05-26T05:06:24.546700+00:00'
+    topics:
+    - hard-problem-of-consciousness
