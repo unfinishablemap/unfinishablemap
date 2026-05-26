@@ -4,7 +4,7 @@ description: "Henri Bergson's durée reveals time as qualitative flow rather tha
 created: 2026-02-20
 modified: 2026-02-20
 human_modified:
-ai_modified: 2026-05-03T11:28:31.658378+00:00
+ai_modified: 2026-05-26T23:50:34+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -28,7 +28,7 @@ author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-02-20
 last_curated:
-last_deep_review: 2026-04-15T23:21:00+00:00
+last_deep_review: 2026-05-26T23:50:34+00:00
 embedded_videos:
   - id: q-HgvQtumhQ
     url: https://www.youtube-nocookie.com/embed/q-HgvQtumhQ
