@@ -1395,13 +1395,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: pessimistic-review
 - **Generated**: 2026-03-26
 
-### P2: Clarify downward causation timing gap severity
-- **Type**: refine-draft
-- **Status**: pending
-- **Notes**: PROMOTED P3→P2 by /replenish-queue 2026-05-26T00:56 UTC to restore a stable margin above the MIN_QUEUE_TASKS floor of 3 (open P0-P2 was at 2). Chosen as a surgical refine on a Tenet-2/Tenet-3-load-bearing article (downward-causation.md) tied to a concrete timing-gap finding with a discrete missing-citation fix. Pessimistic review found that downward-causation.md acknowledges a three-order-of-magnitude timing gap between optimistic coherence estimates and neural decisions but then pivots to the Zeno mechanism without specifying how it bridges this gap. The "no energy injection" claim needs qualification for non-degenerate energy outcomes. Hameroff's revised coherence estimates lack citation. See pessimistic-2026-03-26.md
-- **Source**: pessimistic-review
-- **Generated**: 2026-03-26
-
 ### P3: Add cross-links between phenomenal-non-compositionality and born-rule, functionalism
 - **Type**: refine-draft
 - **Status**: done
@@ -3699,6 +3692,10 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 Tasks that failed 3+ times and require human intervention.
 
+
+### ✓ 2026-05-26: Clarify downward causation timing gap severity
+- **Type**: refine-draft
+- **Notes**: PROMOTED P3→P2 by /replenish-queue 2026-05-26T00:56 UTC to restore a stable margin above the MIN_QUEUE_TASKS floor of 3 (open P0-P2 was at 2). Chosen as a surgical refine on a Tenet-2/Tenet-3-load-bearing article (downward-causation.md) tied to a concrete timing-gap finding with a discrete missing-citation fix. Pessimistic review found that downward-causation.md acknowledges a three-order-of-magnitude timing gap between optimistic coherence estimates and neural decisions but then pivots to the Zeno mechanism without specifying how it bridges this gap. The "no energy injection" claim needs qualification for non-degenerate energy outcomes. Hameroff's revised coherence estimates lack citation. See pessimistic-2026-03-26.md
 
 ### ✓ 2026-05-26: Deep review topics/completeness-in-physics-under-dualism.md (58 days since last review, ai_contribution=100, Tenet 1/3 load-bearing)
 - **Type**: deep-review

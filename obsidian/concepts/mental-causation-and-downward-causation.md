@@ -4,7 +4,7 @@ description: "How mental states cause physical effects despite Kim's exclusion a
 created: 2026-01-15
 modified: 2026-05-05
 human_modified: null
-ai_modified: 2026-05-15T03:31:00+00:00
+ai_modified: 2026-05-26T06:08:19+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -124,7 +124,7 @@ Several mechanisms have been proposed. Henry Stapp's quantum Zeno mechanism is t
 
 Key features:
 
-**No energy injection**: Consciousness selects among outcomes physics already allows, all conserving energy. No [[conservation-laws-and-mental-causation|conservation law]] is violated. Conservation laws derive from symmetries (Noether's theorem); mental influence would break the relevant symmetry, making the objection question-begging (Cucu and Pitts 2019).
+**No energy injection (under degenerate outcomes)**: Where consciousness selects among outcomes of equal energy—the degenerate case—no energy is added or removed; only which possibility actualises differs from what chance would produce, so no [[conservation-laws-and-mental-causation|conservation law]] is touched. This exactness holds only in the degenerate case. Real neural superpositions need not be energy-degenerate, and biasing toward a higher- or lower-energy outcome would shift the selected branch's expected energy. For those non-degenerate cases the Map relies on a second, independent response: conservation laws derive from symmetries (Noether's theorem), and a non-physical influence breaks the relevant time-translation symmetry, so expecting conservation to hold at the interface begs the question against interactionism (Cucu and Pitts 2019). The [[conservation-laws-and-mental-causation|conservation-laws article]] develops both responses in full.
 
 **Operates at incompleteness**: Consciousness acts where physics specifies probabilities, not outcomes—no sufficient physical cause to be excluded by.
 
@@ -136,15 +136,15 @@ The main physics-based objection: warm neural tissue decoheres quantum superposi
 
 Several responses are available, though none fully resolves the gap:
 
-**Revised coherence estimates**: Biological protective mechanisms (Fröhlich coherence, hydrophobic interiors, nuclear spin isolation) extend coherence by many orders of magnitude. Hameroff's group found seven orders longer than Tegmark's estimate, reaching 10^-5 to 10^-4 seconds—three orders still short of neural decision timescales (~300ms), but the gap is reduced.
+**Revised coherence estimates**: Biological protective mechanisms (Fröhlich coherence, hydrophobic interiors, nuclear spin isolation) may extend coherence by many orders of magnitude. Hagan, Hameroff, and Tuszyński (2002) disputed Tegmark's model parameters and derived estimates roughly seven orders longer, reaching 10^-5 to 10^-4 seconds. This dispute is not settled: Reimers et al. (2009) and McKemmish et al. (2009) re-examined the recalibration and found Hagan's parameter assumptions either rest on microtubule dielectric properties that are not empirically established or specify regimes microtubules do not occupy in living tissue (see [[decoherence]] for the full status). Even at face value, 10^-4 seconds is still three orders of magnitude short of neural decision timescales (~300ms). Longer coherence narrows the gap; it does not close it.
 
-**The discrete observation alternative**: Stapp's quantum Zeno mechanism may sidestep sustained coherence entirely. If consciousness operates through discrete observation cycles that each reset the quantum state, the question shifts from "can coherence survive?" to "can observation cycles operate fast enough?" This is a research direction, not a proposed solution.
+**The discrete observation alternative**: Stapp's quantum Zeno mechanism may sidestep sustained coherence. If consciousness operates through discrete observation cycles that each reset the quantum state, the requirement is no longer that a superposition survive ~300ms but that observation cycles recur faster than decoherence destroys each freshly reset state—every 10^-4 seconds or less if the corrected estimates hold, every 10^-13 seconds if Tegmark's do. This relocates the three-order-of-magnitude gap rather than closing it: "can coherence persist long enough?" becomes "can the observation cycles fire fast enough?", and the rate, number, and physical implementation of those cycles remain entirely unspecified. No currently specified mechanism bridges the timing gap; the Zeno proposal is a conceptual research direction, not a mechanistic solution.
 
 **Outcome selection persists**: [[decoherence]] explains why interference effects wash out, but outcomes still require determination. Something must select which possibility becomes actual.
 
 **Bandwidth and amplification**: Conscious thought operates at roughly 10 bits per second, suggesting consciousness works at the policy level, not individual quantum events. The [[consciousness-bandwidth-architecture|bandwidth problem]] is resolved by [[bandwidth-of-consciousness|hierarchical selection]]; the strict per-event ceiling — log₂(N) bits per selection over a brain-prepared candidate set, sharply tightened to ε² / (2 ln 2) bits per trial under Born-rule preservation — is derived in [[selection-only-mind-influence]] and grounds the policy-level reading in information-theoretic terms. Even granting the quantum opening, consciousness must bridge to macroscopic outcomes; six distinct [[amplification-mechanisms-consciousness-physics|amplification mechanisms]] have been proposed.
 
-The decoherence objection is a serious empirical challenge, not a philosophical refutation. The quantum opening remains, but the Map should not claim the mechanism is fully specified.
+The decoherence objection is a serious empirical challenge rather than a philosophical refutation: it constrains where and how fast any quantum mechanism could operate without establishing that none can. The conceptual quantum opening—indeterminacy leaving outcomes underdetermined—survives that constraint. What does not survive is any claim that a *specified* mechanism currently bridges the timing gap. Removing the in-principle defeater is not the same as supplying a working mechanism, and the Map should not present it as one.
 
 ### Why Not Many Worlds?
 
@@ -251,10 +251,13 @@ Mental causation and downward causation are central to the Map's framework.
 1. Campbell, D. T. (1974). "'Downward causation' in hierarchically organised biological systems." In F. J. Ayala & T. Dobzhansky (Eds.), *Studies in the Philosophy of Biology*. Macmillan.
 1. Cucu, A. C., & Pitts, J. B. (2019). How Dualists Should (Not) Respond to the Objection from Energy Conservation. *arXiv:1909.13643*.
 1. Frankish, K. (2016). Illusionism as a Theory of Consciousness. *Journal of Consciousness Studies*, 23(11-12), 11-39.
+1. Hagan, S., Hameroff, S. R., & Tuszyński, J. A. (2002). Quantum computation in brain microtubules: Decoherence and biological feasibility. *Physical Review E*, 65(6), 061901.
 1. Kim, J. (1998). *Mind in a Physical World*. MIT Press.
 1. Kim, J. (2005). *Physicalism, or Something Near Enough*. Princeton University Press.
 1. Lowe, E.J. (2008). *Personal Agency: The Metaphysics of Mind and Action*. Oxford University Press.
+1. McKemmish, L.K., Reimers, J.R., McKenzie, R.H., Mark, A.E., & Hush, N.S. (2009). Penrose-Hameroff orchestrated objective-reduction proposal for human consciousness is not biologically feasible. *Physical Review E*, 80(2), 021912.
 1. O'Connor, T. & Wong, H.Y. (2005). The Metaphysics of Emergence. *Noûs*, 39: 658-678.
+1. Reimers, J.R., McKemmish, L.K., McKenzie, R.H., Mark, A.E., & Hush, N.S. (2009). Weak, strong, and coherent regimes of Fröhlich condensation and their applications to terahertz medicine and quantum consciousness. *PNAS*, 106(11), 4219-4224.
 1. Saad, B. (2025). A dualist theory of experience. *Philosophical Studies*, 182(3), 939-967.
 1. Schwartz, J. M., Stoessel, P. W., Baxter, L. R. Jr., Martin, K. M., & Phelps, M. E. (1996). Systematic changes in cerebral glucose metabolic rate after successful behavior modification treatment of obsessive-compulsive disorder. *Archives of General Psychiatry*, 53(2), 109-113.
 1. Schwartz, J. M., Stapp, H. P., & Beauregard, M. (2005). Quantum physics in neuroscience and psychology. *Philosophical Transactions of the Royal Society B*, 360(1458), 1309-1327.

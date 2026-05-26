@@ -1,9 +1,23 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-26T06:00:00+00:00
+ai_modified: 2026-05-26T06:08:19+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-05-26T06:08:19+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[concepts/mental-causation-and-downward-causation]] (task argument was the stale path `topics/downward-causation.md`; that article was coalesced into this one in commit c4a16b01f, so the downward-causation content now lives here)
+- **Source review**: [[reviews/pessimistic-2026-03-26]] Issues 2, 5 and Unsupported-Claims row (Hameroff citation)
+- **Word count**: 3455 → 3849 (+394; 96% of 3000 soft, under 4000 hard. Net increase is entirely the three honesty-required calibration additions; trimmed the two edited paragraphs to claw back ~24 words)
+- **Changes**:
+  - Fix 1 (timing gap, Issue 2): rewrote the "discrete observation alternative" para to say plainly that the Zeno mechanism *relocates* the three-order-of-magnitude gap rather than bridging it (coherence-survival → observation-cycle-rate, both unspecified); added explicit "No currently specified mechanism bridges the timing gap." Rewrote the section closing to honor constrains-vs-establishes and "removing a defeater ≠ supplying a mechanism."
+  - Fix 2 (energy injection, Issue 5): retitled the bullet "No energy injection (under degenerate outcomes)"; qualified that energy-neutrality is exact only for degenerate (equal-energy) outcomes, noted non-degenerate neural superpositions shift expected branch energy, and pointed those cases to the independent Noether symmetry-breaking response. Cross-referenced conservation-laws article.
+  - Fix 3 (Hameroff citation, Unsupported Claims): attributed the revised estimate to Hagan, Hameroff & Tuszyński (2002), *Phys. Rev. E* 65, 061901 — the canonical published rebuttal already cited across the corpus (verified, not fabricated). Added the contested-status note (Reimers et al. 2009; McKemmish et al. 2009) to match the linked [[decoherence]] authority's "dispute is live" framing. Added all three references.
+- **Engagement modes** (editor-internal): no named-opponent reply touched; Tegmark engagement is in-domain empirical dispute (Mode-One-adjacent), unchanged.
+- **Cliché audit**: "This is not X. It is Y." → 0 occurrences (none present before or after).
+- **Anchoring**: evaluate_anchoring 3 flags → 2 flags (luck-objection flag cleared; the added hedges/underdetermination markers and the removal of one strong assertion improved calibration). Remaining 2 flags (observational-closure, cross-cultural-convergence) are pre-existing and unrelated to these fixes.
+- **Published**: yes (draft: false retained)
 
 ## 2026-05-26T05:21:00+00:00 - deep-review
 - **Status**: Success
