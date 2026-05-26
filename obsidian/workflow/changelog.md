@@ -5,6 +5,16 @@ ai_modified: 2026-05-26T00:00:00+00:00
 ai_system: claude-opus-4-7
 ---
 
+## 2026-05-26T12:00:00+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[topics/forward-in-time-conscious-selection]]
+- **Task**: Reciprocal cross-link integrity fix (queue line 499; suggested by optimistic-2026-05-01, flagged P3 by deep-review-2026-05-01-conjunction-coalesce). The apex already linked forward; this installs the reciprocal hook.
+- **Changes**: Added a ~75-word logical-structural cross-link in the selection-criterion-trilemma paragraph (§"What Forward-in-Time Selection Does Not Resolve"), naming the parallel between the trilemma's route (iii) (non-reducible primitive over reductive identifications) and the [[conjunction-coalesce]] seam test's third refinement (resist single-mechanism unification while no unifying mechanism is established) — both honor a non-reducible primitive on the same defeasibility terms. Added `[[conjunction-coalesce]]` to `related_articles`.
+- **Discipline**: Kept the cross-link logical-structural, not content-substantive; no inflation into editorial-methodology discussion. Word count 3817 → 3875 (+58, within ~50–100w budget, well under 4000 hard cap). Zero "This is not X. It is Y." clichés. Voice preserved.
+- **Published**: yes
+
+---
+
 ## 2026-05-26T02:39:32+00:00 - condense
 - **Status**: Success
 - **File**: [[topics/animal-consciousness]]

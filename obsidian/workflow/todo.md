@@ -497,13 +497,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: optimistic-review (chain from optimistic-2026-04-30)
 - **Generated**: 2026-04-30
 
-### P2: Install reciprocal hook in topics/forward-in-time-conscious-selection.md → apex/conjunction-coalesce.md
-- **Type**: refine-draft
-- **Status**: pending
-- **Notes**: PROMOTED P3→P2 by /replenish-queue 2026-05-26T02:45 UTC to restore a stable margin above the MIN_QUEUE_TASKS floor of 3 (open P0-P2 was at 2). Chosen as a surgical, high-confidence link-integrity refine (~50–100 words) on a load-bearing reciprocal cross-link, not cap-blocked. Suggested by optimistic-2026-05-01 (High Priority). The 2026-05-01 04:10 UTC tenth-pass deep-review of `apex/conjunction-coalesce.md` installed a forward cross-link to `topics/forward-in-time-conscious-selection.md` naming the structural parallel between the seam test's third refinement (resist single-mechanism unification when no unifying mechanism is established) and the trilemma's option (iii) (non-reducible primitive over reductive identifications) — both honor a non-reducible primitive on the same defeasibility terms. The deep-review's "Remaining Items" section explicitly flags the reciprocal hook as P3: the apex's cross-link is the load-bearing direction; the topic's reciprocal is documentation discipline. Refine should (a) install a brief mention (~50–100 words) in `topics/forward-in-time-conscious-selection.md` near §"What Forward-in-Time Selection Does Not Resolve" / "The selection-criterion trilemma" (currently around line 170), naming the editorial-discipline parallel and linking to `[[conjunction-coalesce]]`; (b) maintain the topic's load-bearing focus on metaphysical content rather than letting the reference inflate into editorial-methodology discussion (the cross-link is logical-structural, not content-substantive); (c) preserve the topic article's existing length band — this is a small-addition refine, not an expansion. Short scope (~50–100 words). Tenet alignment: methodological — directly aligned with the catalogue's reciprocal-link discipline. See [[reviews/optimistic-2026-05-01]] and [[reviews/deep-review-2026-05-01-conjunction-coalesce]].
-- **Source**: optimistic-review (2026-05-01)
-- **Generated**: 2026-05-01
-
 ### P3: Write project doc on cross-domain isomorphism (editorial-methodology ↔ metaphysical-commitment) as named pattern
 - **Type**: expand-topic
 - **Status**: pending
@@ -3723,6 +3716,10 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 Tasks that failed 3+ times and require human intervention.
 
+
+### ✓ 2026-05-26: Install reciprocal hook in topics/forward-in-time-conscious-selection.md → apex/conjunction-coalesce.md
+- **Type**: refine-draft
+- **Notes**: PROMOTED P3→P2 by /replenish-queue 2026-05-26T02:45 UTC to restore a stable margin above the MIN_QUEUE_TASKS floor of 3 (open P0-P2 was at 2). Chosen as a surgical, high-confidence link-integrity refine (~50–100 words) on a load-bearing reciprocal cross-link, not cap-blocked. Suggested by optimistic-2026-05-01 (High Priority). The 2026-05-01 04:10 UTC tenth-pass deep-review of `apex/conjunction-coalesce.md` installed a forward cross-link to `topics/forward-in-time-conscious-selection.md` naming the structural parallel between the seam test's third refinement (resist single-mechanism unification when no unifying mechanism is established) and the trilemma's option (iii) (non-reducible primitive over reductive identifications) — both honor a non-reducible primitive on the same defeasibility terms. The deep-review's "Remaining Items" section explicitly flags the reciprocal hook as P3: the apex's cross-link is the load-bearing direction; the topic's reciprocal is documentation discipline. Refine should (a) install a brief mention (~50–100 words) in `topics/forward-in-time-conscious-selection.md` near §"What Forward-in-Time Selection Does Not Resolve" / "The selection-criterion trilemma" (currently around line 170), naming the editorial-discipline parallel and linking to `[[conjunction-coalesce]]`; (b) maintain the topic's load-bearing focus on metaphysical content rather than letting the reference inflate into editorial-methodology discussion (the cross-link is logical-structural, not content-substantive); (c) preserve the topic article's existing length band — this is a small-addition refine, not an expansion. Short scope (~50–100 words). Tenet alignment: methodological — directly aligned with the catalogue's reciprocal-link discipline. See [[reviews/optimistic-2026-05-01]] and [[reviews/deep-review-2026-05-01-conjunction-coalesce]].
 
 ### ✓ 2026-05-26: Condense animal-consciousness.md (4038 words, 135% of target)
 - **Type**: condense
