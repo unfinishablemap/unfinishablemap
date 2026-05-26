@@ -148,10 +148,14 @@ Wait 4s, then:
   return JSON.stringify({
     // Gemini's explicit research-started confirmation. This message is
     // posted by Gemini *only* after Deep Research has actually launched.
-    researchStartedConfirm: /I'?ll let you know when your research is done/i.test(text),
-    // Belt-and-braces: the "Starting research..." status indicator that
-    // appears alongside the confirmation message.
-    startingResearchText: /\bstarting research\b/i.test(text),
+    // The wording has drifted across UI versions — both
+    // "I'll let you know when your research is done" (older) and
+    // "I'll let you know as soon as I'm done" (2026-05 wording) appear, so
+    // match the stable "I'll let you know (when|as soon as)" stem.
+    researchStartedConfirm: /I'?ll let you know (when|as soon as)\b/i.test(text),
+    // Belt-and-braces: the "while I'm researching" / "starting research"
+    // status text that appears alongside the confirmation message.
+    startingResearchText: /\bstarting research\b|while I'?m researching/i.test(text),
     // Plan-stage tell: if the Start-research button is still the primary
     // call-to-action (i.e., the click didn't land), this is true.
     startResearchBtnStillPresent: !!Array.from(document.querySelectorAll('button')).find(b => /start research/i.test((b.getAttribute('aria-label') || '') + (b.innerText || ''))),
@@ -160,7 +164,7 @@ Wait 4s, then:
 })()
 ```
 
-**Ready** when `researchStartedConfirm: true` (the gold signal — Gemini posts the literal "I'll let you know when your research is done" line only after Deep Research has actually launched).
+**Ready** when `researchStartedConfirm: true` (the gold signal — Gemini posts an "I'll let you know …" line, e.g. "I'll let you know as soon as I'm done", only after Deep Research has actually launched).
 
 **Not ready** if `researchStartedConfirm: false`. In that case the click did not land OR Gemini bounced the click back to the plan stage. Bail without writing a pending entry — a stuck plan-stage entry would keep consuming collect attempts indefinitely without yielding a report.
 
@@ -221,7 +225,7 @@ Total runtime budget: 5 minutes (Gemini's research-plan + Start research click a
 | "Start research" never appears | not visible after 60s | Bail; no pending entry. |
 | Click on "Start research" doesn't take | `researchStartedConfirm: false` after click + 4s wait | Bail; no pending entry. |
 
-**Critical invariant**: a pending-reviews entry is written ONLY after research is verifiably underway — i.e., Gemini has posted the literal "I'll let you know when your research is done" confirmation. The earlier `stopBtn` check produced a false positive on 2026-05-10; do not regress to it.
+**Critical invariant**: a pending-reviews entry is written ONLY after research is verifiably underway — i.e., Gemini has posted its "I'll let you know …" launch confirmation (match the `I'?ll let you know (when|as soon as)` stem; the exact wording drifts across UI versions). The earlier `stopBtn` check produced a false positive on 2026-05-10; do not regress to it.
 
 ## Important
 
