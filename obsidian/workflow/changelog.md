@@ -1,9 +1,16 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-26T09:30:00+00:00
+ai_modified: 2026-05-26T12:00:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-05-26T00:00:00+00:00 - apex-evolve
+- **Status**: Complete
+- **Article**: [[apex/testing-the-map-from-inside]]
+- **Changed sources**: 1 ([[concepts/mental-effort]], modified 2026-05-09 — new "What Felt Effort Misses About Its Own Operation" section: calibration/depletion/modulation dissociations + constrain-vs-establish discipline + autonomic SCR-coupling residue)
+- **Word count**: 3476 → 3882 (within 2500–4000 target)
+- **Review**: [[reviews/apex-evolve-2026-05-26-testing-the-map-from-inside]]
 
 ## 2026-05-26T12:00:00+00:00 - deep-review
 - **Status**: Success
