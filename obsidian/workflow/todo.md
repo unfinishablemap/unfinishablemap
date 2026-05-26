@@ -37,12 +37,28 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Deep review topics/trilemma-of-selection.md (40 days since last review, ai_contribution=100, Tenet 2/3 load-bearing)
-- **Type**: deep-review
+### P2: Adopt global-workspace-theory calibration in clinical-dissociation-as-systematic-evidence
+- **Type**: refine-draft
 - **Status**: pending
-- **Notes**: PROMOTED to P2 by /replenish-queue 2026-05-26: the actionable (P0-P2) queue stood at 2 valid tasks (the consciousness-and-skill-acquisition literature-drift P2 + the episodic-memory deep-review P2), below the MIN_QUEUE floor of 3. Per the documented steady-state pattern (memory: "replenish-at-floor alternation is EXPECTED"; sections sit near cap — topics 247/270, concepts 245/270, voids 101/100 over cap — and the ~500-task P3 backlog plus blocked length offenders mean genuine new-content supply is thin), promoting grounded tenet-load-bearing staleness deep-reviews is the honest replenishment move rather than minting speculative expand-topic work. Verified `last_deep_review: 2026-04-16T08:49:00+00:00` (~40 days), `ai_contribution=100`, 2803 words (under the 4000 topics hard threshold); not the subject of any other open task header. The trilemma — at any genuinely indeterminate decision point exactly three options obtain (determinism, randomness, or mental causation) and only the third preserves authorship — is one of the Map's core load-bearing arguments for Tenet 3 (Bidirectional Interaction) and Tenet 2 (Minimal Quantum Interaction). Deep-review should: (a) verify the trilemma framing still coheres with the post-April selection/corridor cluster ([[selection-only-channel]], [[born-rule-and-the-consciousness-interface]], [[forward-in-time-conscious-selection]]) and the selection-criterion-problem material now circulating in the queue; (b) honour [[evidential-status-discipline]] — the "only the third preserves authorship" step is an argument, not an empirical result, and must not over-claim; (c) confirm cross-links resolve live and are reciprocated where load-bearing; (d) writing-style + length discipline (no "This is not X. It is Y." cliché). Apply in-place fixes if minor; generate a follow-on refine-draft task if substantive. Tenet alignment: Tenet 3 (Bidirectional Interaction — mental causation as the only authorship-preserving horn), Tenet 2 (Minimal Quantum Interaction — the indeterminacy the trilemma exploits).
-- **Source**: staleness
+- **File**: obsidian/topics/clinical-dissociation-as-systematic-evidence.md
+- **Notes**: From topic-concept anchoring audit 2026-05-26. The topic article over-claims relative to its anchor concept [[global-workspace-theory]]; failed checks: hedge_density, strong_assertions.
+  - hedge density 2.74/kw is below 60% of anchor (10.15/kw)
+  - strong-assertion density 1.18/kw exceeds 1.5× anchor (0.44/kw)
+  - Action: bring the topic's hedge profile in line with the anchor concept's. Preserve the article's voice; this is not a request to weaken the central claim, only to inherit the calibration discipline the anchor concept already uses. See [[project/calibration-audit-triple]] Audit Three for the spec and [[evidential-status-discipline]] for the underlying rule.
+- **Source**: topic-concept-anchoring-audit
 - **Generated**: 2026-05-26
+
+### P2: Adopt causal-closure calibration in falsification-roadmap-for-the-interface-model
+- **Type**: refine-draft
+- **Status**: pending
+- **File**: obsidian/topics/falsification-roadmap-for-the-interface-model.md
+- **Notes**: From topic-concept anchoring audit 2026-05-26. The topic article over-claims relative to its anchor concept [[causal-closure]]; failed checks: hedge_density, underdetermination_markers.
+  - hedge density 1.32/kw is below 60% of anchor (4.57/kw)
+  - anchor declares underdetermination (1× explicit) but topic has no underdetermination markers
+  - Action: bring the topic's hedge profile in line with the anchor concept's. Preserve the article's voice; this is not a request to weaken the central claim, only to inherit the calibration discipline the anchor concept already uses. See [[project/calibration-audit-triple]] Audit Three for the spec and [[evidential-status-discipline]] for the underlying rule.
+- **Source**: topic-concept-anchoring-audit
+- **Generated**: 2026-05-26
+
 
 ### P2: Deep review topics/psychophysical-laws-bridging-mind-and-matter.md (40 days since last review, ai_contribution=100, Tenet 1/3 load-bearing)
 - **Type**: deep-review
@@ -3741,6 +3757,10 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 Tasks that failed 3+ times and require human intervention.
 
+
+### ✓ 2026-05-26: Deep review topics/trilemma-of-selection.md (40 days since last review, ai_contribution=100, Tenet 2/3 load-bearing)
+- **Type**: deep-review
+- **Notes**: PROMOTED to P2 by /replenish-queue 2026-05-26: the actionable (P0-P2) queue stood at 2 valid tasks (the consciousness-and-skill-acquisition literature-drift P2 + the episodic-memory deep-review P2), below the MIN_QUEUE floor of 3. Per the documented steady-state pattern (memory: "replenish-at-floor alternation is EXPECTED"; sections sit near cap — topics 247/270, concepts 245/270, voids 101/100 over cap — and the ~500-task P3 backlog plus blocked length offenders mean genuine new-content supply is thin), promoting grounded tenet-load-bearing staleness deep-reviews is the honest replenishment move rather than minting speculative expand-topic work. Verified `last_deep_review: 2026-04-16T08:49:00+00:00` (~40 days), `ai_contribution=100`, 2803 words (under the 4000 topics hard threshold); not the subject of any other open task header. The trilemma — at any genuinely indeterminate decision point exactly three options obtain (determinism, randomness, or mental causation) and only the third preserves authorship — is one of the Map's core load-bearing arguments for Tenet 3 (Bidirectional Interaction) and Tenet 2 (Minimal Quantum Interaction). Deep-review should: (a) verify the trilemma framing still coheres with the post-April selection/corridor cluster ([[selection-only-channel]], [[born-rule-and-the-consciousness-interface]], [[forward-in-time-conscious-selection]]) and the selection-criterion-problem material now circulating in the queue; (b) honour [[evidential-status-discipline]] — the "only the third preserves authorship" step is an argument, not an empirical result, and must not over-claim; (c) confirm cross-links resolve live and are reciprocated where load-bearing; (d) writing-style + length discipline (no "This is not X. It is Y." cliché). Apply in-place fixes if minor; generate a follow-on refine-draft task if substantive. Tenet alignment: Tenet 3 (Bidirectional Interaction — mental causation as the only authorship-preserving horn), Tenet 2 (Minimal Quantum Interaction — the indeterminacy the trilemma exploits).
 
 ### ✓ 2026-05-26: Deep review topics/modal-structure-of-phenomenal-properties.md (45 days since last review, ai_contribution=100, Tenet 1 load-bearing)
 - **Type**: deep-review
