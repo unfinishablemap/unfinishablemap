@@ -5,6 +5,20 @@ ai_modified: 2026-05-26T12:00:00+00:00
 ai_system: claude-opus-4-7
 ---
 
+## 2026-05-26T11:35:42+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[concepts/functionalism]]
+- **Original score**: not re-scored; addressed the 5 dispatch findings from [[reviews/pessimistic-2026-05-26-functionalism]]
+- **Changes**:
+  - (#1 Citation) Fixed COGITATE mis-citation: inline text now cites protocol (Melloni 2023) and results (Cogitate Consortium / Melloni 2025) separately; added the *Nature* 642:133-142 results entry to the reference list, keeping the 2023 protocol entry. Removed the unsupportable "2023-2024" date.
+  - (#2 Internal tension) Softened "The failure of functionalism reframes the AI question" → conditional "If functionalism fails, the AI question is reframed," matching the dialectically-open Chinese Room two paragraphs prior.
+  - (#3 Conceivability) Added a clause at the absent/inverted-qualia conclusion naming the contested conceivability→metaphysical-possibility inference (type-B physicalist response, water-without-H₂O analogue) with a pointer to functionalism-argument; also softened the immunizing final sentence so the empirical predictions retain real defeating power over the Map's *motivation*.
+  - (#4 Concession-convergence) Reframed both the Putnam-pragmatism and biological-computationalism passages as Map-FAVOURED interpretations, not forced readings: explicitly stated substrate-dependence is physicalism-compatible and that a committed physicalist sees these as naturalism getting more precise, not retreating toward dualism.
+  - (#5 Reasoning-mode — engagement with the functionalist: Mode Two; functionalism helps itself to the sufficiency claim "functional organization is sufficient for consciousness" without earning it by its own explanatory standards) Added a crisp in-framework statement in the Hard Problem section that functionalism asserts sufficiency without specifying why a functional role involves experience, and that phenomenal-concepts and brute-necessity moves attempt but do not discharge that debt. No editor-vocabulary in prose.
+- **Preserved untouched**: Specification Problem section and the phenomenal-non-compositionality paragraph (per dispatch constraint).
+- **Word count**: 2659 → 3017 (soft_warning; was already over the 2500 soft threshold pre-edit; under the 3500 hard cap). altered_state_symmetry.evaluate_symmetry() returns None (clears). Added P3 condense follow-up.
+- **Published**: yes
+
 ## 2026-05-26T11:29:43+00:00 - pessimistic-review
 - **Status**: Success
 - **Content reviewed**: `concepts/functionalism.md` (oldest concept by modified date, last deep-reviewed 2026-04-28, no prior dedicated pessimistic review)
