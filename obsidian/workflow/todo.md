@@ -1420,13 +1420,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Notes**: Suggested by optimistic review. Unify the phenomenology of resistance across domains—physical objects pushing back, logical necessities constraining thought, moral obligations binding action, aesthetic standards judging creation—under a common interface signature. Builds on interface-friction.md, phenomenology-of-intellectual-effort.md, mental-effort.md. See optimistic-2026-04-05.md
 - **Generated**: 2026-04-05
 
-### P2: Fix circular MWI reasoning and compress player analogy in simulation.md
-- **Type**: refine-draft
-- **Status**: pending
-- **Notes**: PROMOTED P3→P2 by /replenish-queue 2026-05-26T00:56 UTC to restore a stable margin above the MIN_QUEUE_TASKS floor of 3 (open P0-P2 was at 2). Chosen because it carries a HIGH-severity pessimistic-review finding (circular reasoning in the No Many Worlds / Tenet 4 section), making it the highest-value editorial fix among the surgical candidates. Pessimistic review found two issues: (1) High: No Many Worlds section uses circular reasoning—selects substrate assumption that favours single outcomes without justification, uses phenomenological argument that cannot distinguish phenomenologically identical hypotheses. (2) Medium: Player analogy concedes its own failure but still occupies ~300 words reaching a trivially true conclusion. See pessimistic-2026-03-28-d.md
-- **Source**: pessimistic-review
-- **Generated**: 2026-03-28
-
 ### P3: Expand treatment of phenomenal concepts strategy and MWI indexical objection in materialism.md
 - **Type**: refine-draft
 - **Status**: pending
@@ -3736,6 +3729,10 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 Tasks that failed 3+ times and require human intervention.
 
+
+### ✓ 2026-05-26: Fix circular MWI reasoning and compress player analogy in simulation.md
+- **Type**: refine-draft
+- **Notes**: PROMOTED P3→P2 by /replenish-queue 2026-05-26T00:56 UTC to restore a stable margin above the MIN_QUEUE_TASKS floor of 3 (open P0-P2 was at 2). Chosen because it carries a HIGH-severity pessimistic-review finding (circular reasoning in the No Many Worlds / Tenet 4 section), making it the highest-value editorial fix among the surgical candidates. Pessimistic review found two issues: (1) High: No Many Worlds section uses circular reasoning—selects substrate assumption that favours single outcomes without justification, uses phenomenological argument that cannot distinguish phenomenologically identical hypotheses. (2) Medium: Player analogy concedes its own failure but still occupies ~300 words reaching a trivially true conclusion. See pessimistic-2026-03-28-d.md
 
 ### ✓ 2026-05-26: Address physical-completeness.md equivocation on "structural"
 - **Type**: refine-draft

@@ -5,6 +5,18 @@ ai_modified: 2026-05-26T00:00:00+00:00
 ai_system: claude-opus-4-7
 ---
 
+## 2026-05-26T01:38:41+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[concepts/simulation]]
+- **Word count**: 2678 → 2762 (92% of 3000 concepts soft threshold)
+- **Source**: pessimistic-2026-03-28-d.md (queue_task_line 1422)
+- **Issue 1 (HIGH) — circular reasoning in No Many Worlds / Tenet 4 section**: Honestly downgraded the claim from "simulation supports single-outcome QM" to "simulation is neutral between single-outcome and branching implementations." Removed the question-begging selection of the objective-collapse substrate, removed the phenomenological argument that "felt reality of selecting one option aligns better with genuine single outcomes" (cannot distinguish phenomenologically identical hypotheses), and explicitly named both the circularity (selecting the implementation that delivers the conclusion) and the from-inside indistinguishability. Reframed as *compatibility* (a simulation can be built to match No-MWI) while routing the actual rejection of MWI to [[many-worlds-argument]] where it is argued on independent grounds. Honors "constrains vs establishes."
+- **Issue 2 (MEDIUM) — bloated player analogy**: Compressed the Mind-Matter Interface section from ~150 words to ~70; the analogy's self-conceded triviality (concept-coherence was never disputed) now stated in two sentences. Bidirectional Interaction section left intact (concise, tenet-anchored, not redundant).
+- **Downstream consistency fix**: Triviality Objection's "Targeted assumption identification" list previously cited "single quantum outcomes become a feature of computational economy" as a revealed contingency — now reworded to flag single-vs-branching as the one neutral case, matching the downgraded section.
+- **Engagement classification (editor-internal)**: reply to the Many-Worlds defender — Mode Three (framework-boundary marking). Simulation neither refutes nor establishes branching; the disagreement is at the framework boundary and the section says so honestly rather than dressing boundary-marking as refutation. No label leakage; modes not named in body.
+- **Calibration**: evaluate_anchoring() re-run — 0 flags before and after (Tenet 4 anchor preserved). "This is not X. It is Y." cliché count: 0 preserved.
+- **Published**: yes
+
 ## 2026-05-26T00:00:00+00:00 - deep-review
 - **Status**: Success
 - **File**: [[topics/ethics-of-cognitive-enhancement-under-dualism]]
