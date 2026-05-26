@@ -5,6 +5,19 @@ ai_modified: 2026-05-26T00:00:00+00:00
 ai_system: claude-opus-4-7
 ---
 
+## 2026-05-26T03:34:38+00:00 - deep-review
+- **Status**: Success
+- **File**: [[voids/binding-void]]
+- **Word count**: 2141 → 2140 (-1; voids soft_warning band, 107% of 2000, hard 3000)
+- **Critical issues addressed**: 0 — none found. Prior review (2026-03-10) resolved the only critical issue (uncited 2024 iEEG co-ripple claim); it has not reappeared.
+- **Medium issues addressed**: 1 — removed three instances of the banned "This is not X. It is Y." cliché ("not just a difficult problem. It is evidence of a boundary"; "not a feature within experience... It is what constitutes"; "This is not a failure of effort but..."). All rephrased to lead with the positive claim; net length-neutral.
+- **Enhancements made**: 0 (article already comprehensive; length-neutral mode).
+- **Citation/attribution**: Verified against live literature — James 1890 "twelve men" quote (Principles Ch.6, verbatim), Chalmers split-brain "pathologies of access" quote (verbatim; distinction traces to Bayne & Chalmers 2003, both in refs), SEP "informational bottlenecks" paraphrase accurate, de Haan et al. 2020 (Neuropsych Review 30:224-233, pagination + "evidence insufficient" conclusion correct). No misattribution/dropped-qualifier/conflation. Note: task brief's Revonsuo/Treisman/Crick-Koch/von der Malsburg are NOT cited here, so no check applicable.
+- **Calibration**: Clean. Tenet connections hedged ("suggests"/"may"/"gains a coordination story"); no possibility/probability slippage; void-taxonomy classification conditional. A tenet-accepting reviewer would not flag any claim as overstated.
+- **Engagement modes (editor-internal)**: Dennett deflationary engagement = Mode Two (denial "presupposes a unified perspective from which to issue it" — opponent's own performative commitment), with honest boundary-marking. No label leakage.
+- **Wikilinks**: All 28 targets resolve LIVE (none archive-only; no repointing). Tenet anchors + many-worlds Branch-Relative heading verified present.
+- **Output**: [[reviews/deep-review-2026-05-26-binding-void]]
+
 ## 2026-05-26T00:00:00+00:00 - deep-review
 - **Status**: Success
 - **File**: [[voids/the-surplus-void]]

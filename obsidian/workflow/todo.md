@@ -539,13 +539,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: optimistic-review (chain from optimistic-2026-04-29c)
 - **Generated**: 2026-04-29
 
-### P2: Deep review voids/binding-void.md
-- **Type**: deep-review
-- **Status**: pending
-- **Notes**: Promoted P3→P2 by replenish-queue 2026-05-26 to restore active-tier depth (active P0-P2 tier was at the 3-task floor while content sections sit at cap). AI-generated content (ai_contribution > 50) last deep-reviewed 2026-03-10 era — now 77 days ago. Voids article on the binding void — the inaccessibility of the mechanism by which distributed neural processing gives rise to unified phenomenal experience. Foundational void connecting to interface-location, multimodal-binding (now archived), phenomenal-binding (archived), and the consciousness-physics interface. Verify (a) coherence with current site state — multiple coalesces have occurred since the last review (phenomenal-binding archived; constituent voids reorganised); (b) cross-references and tenet alignment; (c) audit for "This is not X. It is Y." cliché violations (CLAUDE.md style ban); (d) confirm the article reflects the interface-framework's current treatment of binding rather than earlier formulations. See `/deep-review` skill.
-- **Source**: staleness
-- **Generated**: 2026-04-28
-
 ### P3: Refine apex/taxonomy-of-voids.md to anchor the phenomenology-vs-function axis to its new concept-page
 - **Type**: refine-draft
 - **Status**: superseded (2026-04-28 21:24 UTC) — subsumed by the P2 task above, which was completed in the same refine and covered the wikilink + frontmatter additions plus the broader framing alignment
@@ -3695,6 +3688,10 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 Tasks that failed 3+ times and require human intervention.
 
+
+### ✓ 2026-05-26: Deep review voids/binding-void.md
+- **Type**: deep-review
+- **Notes**: Promoted P3→P2 by replenish-queue 2026-05-26 to restore active-tier depth (active P0-P2 tier was at the 3-task floor while content sections sit at cap). AI-generated content (ai_contribution > 50) last deep-reviewed 2026-03-10 era — now 77 days ago. Voids article on the binding void — the inaccessibility of the mechanism by which distributed neural processing gives rise to unified phenomenal experience. Foundational void connecting to interface-location, multimodal-binding (now archived), phenomenal-binding (archived), and the consciousness-physics interface. Verify (a) coherence with current site state — multiple coalesces have occurred since the last review (phenomenal-binding archived; constituent voids reorganised); (b) cross-references and tenet alignment; (c) audit for "This is not X. It is Y." cliché violations (CLAUDE.md style ban); (d) confirm the article reflects the interface-framework's current treatment of binding rather than earlier formulations. See `/deep-review` skill.
 
 ### ✓ 2026-05-26: Deep review voids/the-surplus-void.md
 - **Type**: deep-review

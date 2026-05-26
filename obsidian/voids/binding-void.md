@@ -4,8 +4,8 @@ description: "Human+AI exploration of why unified conscious experience resists e
 created: 2026-02-24
 modified: 2026-04-28
 human_modified:
-ai_modified: 2026-04-28T16:53:00+00:00
-last_deep_review: 2026-03-10T17:39:00+00:00
+ai_modified: 2026-05-26T03:34:38+00:00
+last_deep_review: 2026-05-26T03:34:38+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -51,7 +51,7 @@ Philosophers approaching phenomenal unity converge on a striking conclusion: co-
 
 Barry Dainton treats co-consciousness as a primitive, unanalysable relation. It is the most fundamental feature of phenomenal experience, and any attempt to define it in terms of something else either fails or smuggles unity back in under a different name. Tim Bayne's subsumption analysis faces circularity: explaining unity in terms of a subsuming experience that is itself unified. Representational analyses fare no better—they require that representations be unified, which is the very thing they aim to explain.
 
-When multiple independent philosophical approaches converge on "analysis terminates here," this is not just a difficult problem. It is evidence of a boundary. The primitivist convergence—the agreement among otherwise diverse thinkers that phenomenal unity is where decomposition stops—is the philosophical signature of a void.
+When multiple independent philosophical approaches converge on "analysis terminates here," the convergence itself becomes evidence of a boundary rather than a merely difficult problem. The primitivist convergence—the agreement among otherwise diverse thinkers that phenomenal unity is where decomposition stops—is the philosophical signature of a void.
 
 William James saw this in 1890. "Take a sentence of a dozen words, and take twelve men and tell to each one word," he wrote. "Then stand the men in a row or jam them in a bunch, and let each think of his word as intently as he will; nowhere will there be a consciousness of the whole sentence." James concluded that the compounding of consciousness is not merely unexplained but fundamentally unintelligible. He later attempted to dissolve this through radical empiricism in *A Pluralistic Universe* (1909), but even his revised account acknowledged that combination resists ordinary analysis. The unintelligibility persists despite enormous progress in understanding the brain.
 
@@ -97,7 +97,7 @@ The binding void occupies a precise position in the Map's void taxonomy.
 
 **Split-brain opacity.** Even surgically severing the corpus callosum does not clearly reveal whether consciousness remains unified or becomes disunified. If physically splitting the brain cannot answer the question of unity, the mechanism is extraordinarily opaque. Colin McGinn's [[mysterianism|cognitive closure]] thesis finds one of its strongest applications here.
 
-**The constitutive barrier.** The binding mechanism is not a feature *within* experience that happens to be hard to observe. It is what constitutes experience as a unified space. Observing it would require standing outside the very structure that makes observation possible.
+**The constitutive barrier.** The binding mechanism constitutes experience as a unified space rather than sitting within experience as a feature that happens to be hard to observe. Observing it would require standing outside the very structure that makes observation possible.
 
 ## Phenomenology of the Edge
 
@@ -113,7 +113,7 @@ The binding void occupies a precise position in the Map's void taxonomy.
 
 The binding void is primarily **Unexplorable** in the [[three-kinds-of-void|voids taxonomy]], with a significant **Occluded** dimension.
 
-**Unexplorable.** The mechanism of phenomenal unity appears to be cognitively closed in McGinn's sense: accessible from neither introspective first-person investigation nor neuroscientific third-person observation. Every attempt to introspect on the *process* of binding finds only the *result*. This is not a failure of effort but an architectural constraint: the binding mechanism is the substrate on which observation depends.
+**Unexplorable.** The mechanism of phenomenal unity appears to be cognitively closed in McGinn's sense: accessible from neither introspective first-person investigation nor neuroscientific third-person observation. Every attempt to introspect on the *process* of binding finds only the *result*. The barrier is architectural rather than a failure of effort: the binding mechanism is the substrate on which observation depends.
 
 **Occluded.** If the Map's [[tenets#^bidirectional-interaction|bidirectional interaction]] tenet is correct and consciousness actively participates in its own binding, then the mechanism may be hidden precisely because it constitutes the observer. The binding is not behind a curtain—it *is* the curtain. The void may be actively maintained by the very process it conceals.
 
