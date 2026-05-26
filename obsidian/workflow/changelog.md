@@ -1,9 +1,19 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-26T19:21:56+00:00
+ai_modified: 2026-05-26T19:28:44+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-05-26T19:28:44+00:00 - deep-review
+- **Status**: Success
+- **File**: [[concepts/parfit-reductionism]]
+- **Word count**: 1985 → 1985 (length-neutral; reframe-only edit)
+- **Critical issues addressed**: 1 (fabricated direct quotation of Parfit's death passage reframed as paraphrase)
+- **Medium issues addressed**: 1 (added agent-causation and indexical-knowledge-and-identity to frontmatter concepts to match load-bearing body links)
+- **Enhancements made**: 0 net (article converged; condensed since last review, examined as new content)
+- **Engagement modes**: Parfit/agency: Mode Two; Parfit/MWI+causal-history: Mode Three; illusionism/Frankish: Mode Two. No label leakage. No possibility/probability slippage.
+- **Output**: [[reviews/deep-review-2026-05-26-parfit-reductionism]]
 
 ## 2026-05-26T19:21:56+00:00 - condense
 - **Status**: Success

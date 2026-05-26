@@ -4,7 +4,7 @@ description: "Parfit claims identity is just pattern continuity with no further 
 created: 2026-01-17
 modified: 2026-01-20
 human_modified: null
-ai_modified: 2026-04-12T20:56:00+00:00
+ai_modified: 2026-05-26T19:28:44+00:00
 draft: false
 topics:
   - "[[personal-identity]]"
@@ -18,6 +18,8 @@ concepts:
   - "[[witness-consciousness]]"
   - "[[decoherence]]"
   - "[[buddhism-and-dualism]]"
+  - "[[agent-causation]]"
+  - "[[indexical-knowledge-and-identity]]"
 related_articles:
   - "[[tenets]]"
 ai_contribution: 100
@@ -25,7 +27,7 @@ author: null
 ai_system: claude-opus-4-5-20251101
 ai_generated_date: 2026-01-17
 last_curated: null
-last_deep_review: 2026-04-12T11:03:00+00:00
+last_deep_review: 2026-05-26T19:28:44+00:00
 ---
 
 Derek Parfit's reductionism about personal identity holds that identity consists in nothing over and above bodily and psychological continuity. There is no further fact—no separate entity like a soul or ego—that persists through time. What matters for practical purposes isn't identity itself but "Relation R": psychological connectedness and continuity with the right kind of cause.
@@ -40,7 +42,7 @@ His reductionist answer: personal identity consists in physical and psychologica
 
 Parfit supports this through thought experiments—teletransportation, fission, gradual neural replacement—designed to show identity is less determinate than we assume. If your brain hemispheres are transplanted into two bodies and both are psychologically continuous with you, any answer about which is "you" seems arbitrary. If your neurons are replaced one by one with silicon, no non-arbitrary threshold for identity failure presents itself.
 
-Parfit found his view liberating: if personal identity is less deep than we thought, so is death. The pattern simply ends—"no more distressing than when I am about to lose consciousness in sleep."
+Parfit found his view liberating: if personal identity is less deep than we thought, so is death. The pattern simply ends, and the prospect comes to seem less distressing—more like an ordinary loss of consciousness than the annihilation of a deep self.
 
 ## Why the Map Rejects Parfit
 
