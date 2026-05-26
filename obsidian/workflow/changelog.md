@@ -1,9 +1,23 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-26T12:00:26+00:00
+ai_modified: 2026-05-26T12:11:38+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-05-26T12:11:38+00:00 - deep-review
+- **Status**: Success
+- **File**: [[concepts/conscious-vs-unconscious-processing]]
+- **Word count**: 3202 → 3253 (130% of 2500 soft target; under 3500 hard — no condensation forced in fix-focused pass)
+- **Critical issues addressed**: 3 — (1) fabricated/conflated P3b citation: attributed to "Kouider, Sackur & de Gardelle (2016), Consciousness & Cognition 36, 348-351" but the real paper is Silverstein, Snodgrass, Shevrin & Kushwaha (2015), Cortex 73, 216-227 (web-verified Google Scholar/PubMed 26474391); inline characterization also wrong (called it a "survey" claiming "conscious perception without P3b" — actually a primary subliminal-oddball study); fixed text + ref + added Naccache & Marti (2016) Cortex commentary for the contested status. (2) Zher-Wen (2023) cited with phantom co-author "Tsuchiya" and wrong pages 347-368 — paper is single-author Zher-Wen, pages 430-456 (web-verified Wiley DOI 10.1111/bjop.12631); fixed inline + ref. (3) `[[Mysterianism-cognitive-closure]]` pointed to archived/superseded file → repointed to live `[[mysterianism]]`.
+- **Medium issues addressed**: 0
+- **Style**: 1 "This is not X. It is Y." cliché in opening ("Consciousness is not a passive observer. It enables...") rephrased to direct positive claim.
+- **Citation verification**: web-verified surnames (not just venue/year) per task flag — Randeniya 2025 (niaf042), Melloni/COGITATE 2025 (Nature 642, Melloni corresponding author, GNW vs IIT), Kouider & Dehaene 2007 (the real Kouider ref, distinct from fabricated P3b entry), Lieberman 2007, Koch/Massimini/Boly/Tononi 2016 all confirmed accurate; Silverstein 2015 + Zher-Wen 2023 corrected.
+- **Wikilinks**: all 30 body + frontmatter targets resolved to live files except the one archive-only link now fixed. All 5 tenet anchors (`^dualism`/`^minimal-quantum-interaction`/`^bidirectional-interaction`/`^no-many-worlds`/`^occams-limits`) valid — no stale `^occam`/`^occams-razor` variants present. None of the flagged drift slugs (thoughts-that-slip-away/aesthetic-void/transition-void) present.
+- **Calibration**: passed; Relation-to-Site-Perspective uses "don't establish"/"compatible with"/"consistent" throughout — no possibility/probability slippage.
+- **Reasoning-mode**: no named-opponent refutations; physicalist-reading engagement is Mode Two (unsupported-move) + Mode Three (boundary residue) in natural prose, no label leakage.
+- **Enhancements made**: 1 (Naccache & Marti 2016 commentary added so P3b discussion reflects the live debate).
+- **Output**: [[reviews/deep-review-2026-05-26-conscious-vs-unconscious-processing]]
 
 ## 2026-05-26T12:00:26+00:00 - deep-review
 - **Status**: Success

@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Deep review concepts/conscious-vs-unconscious-processing.md (55 days since last review, ai_contribution=100)
-- **Type**: deep-review
-- **Status**: pending
-- **Notes**: Staleness check (/replenish-queue 2026-05-26). The actionable (P0-P2) queue stood at 2 (the consciousness-and-skill-acquisition literature-drift P2 + the pragmatism.md deep-review P2), below the MIN_QUEUE floor of 3, so grounded staleness deep-reviews are promoted to the staleness tier rather than generating speculative content against the already-large (~496-task) P3 backlog and the near/over-cap sections (topics 247/250, concepts 245/250, voids 101/100). Length analysis surfaced no clean published condense candidate — the only two over-hard published articles (epistemology-of-convergence-arguments.md, born-rule-and-the-consciousness-interface.md) were both vetoed today as churn-prone condense targets, and research-note over-length does not generate condense tasks. `concepts/conscious-vs-unconscious-processing.md` ("Conscious vs Unconscious Processing", last_deep_review 2026-03-31 ~55 days ago, `ai_contribution=100`) is the stalest AI-heavy article in the corpus not carrying a P2 task. Deep-review should: (a) verify the conscious/unconscious dissociation treatment still reflects the catalogue's current usage — it is load-bearing for the access/phenomenal distinction and the empirical-phenomena-of-mental-causation cluster; (b) honour `[[evidential-status-discipline]]` — the priming/masking/blindsight empirical claims sit in an active-research domain (flag a literature-drift follow-on if drift detected, esp. for dual-process and signal-detection contestation); (c) verify cross-links resolve live and are reciprocated where load-bearing; (d) writing-style + length discipline (concepts/ thresholds 2500/3500/5000), including the no-"This is not X. It is Y." cliché check. Apply in-place fixes if minor; generate a follow-on refine-draft task if substantive. Tenet alignment: Tenet 1 (Dualism — access/phenomenal split is a standing explanatory-gap exhibit), Tenet 3 (Bidirectional Interaction — conscious access as the interface register).
-- **Source**: staleness
-- **Generated**: 2026-05-26
-
 ### P2: Deep review concepts/symbol-grounding-problem.md (51 days since last review, ai_contribution=100)
 - **Type**: deep-review
 - **Status**: pending
@@ -3741,6 +3734,10 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 Tasks that failed 3+ times and require human intervention.
 
+
+### ✓ 2026-05-26: Deep review concepts/conscious-vs-unconscious-processing.md (55 days since last review, ai_contribution=100)
+- **Type**: deep-review
+- **Notes**: Staleness check (/replenish-queue 2026-05-26). The actionable (P0-P2) queue stood at 2 (the consciousness-and-skill-acquisition literature-drift P2 + the pragmatism.md deep-review P2), below the MIN_QUEUE floor of 3, so grounded staleness deep-reviews are promoted to the staleness tier rather than generating speculative content against the already-large (~496-task) P3 backlog and the near/over-cap sections (topics 247/250, concepts 245/250, voids 101/100). Length analysis surfaced no clean published condense candidate — the only two over-hard published articles (epistemology-of-convergence-arguments.md, born-rule-and-the-consciousness-interface.md) were both vetoed today as churn-prone condense targets, and research-note over-length does not generate condense tasks. `concepts/conscious-vs-unconscious-processing.md` ("Conscious vs Unconscious Processing", last_deep_review 2026-03-31 ~55 days ago, `ai_contribution=100`) is the stalest AI-heavy article in the corpus not carrying a P2 task. Deep-review should: (a) verify the conscious/unconscious dissociation treatment still reflects the catalogue's current usage — it is load-bearing for the access/phenomenal distinction and the empirical-phenomena-of-mental-causation cluster; (b) honour `[[evidential-status-discipline]]` — the priming/masking/blindsight empirical claims sit in an active-research domain (flag a literature-drift follow-on if drift detected, esp. for dual-process and signal-detection contestation); (c) verify cross-links resolve live and are reciprocated where load-bearing; (d) writing-style + length discipline (concepts/ thresholds 2500/3500/5000), including the no-"This is not X. It is Y." cliché check. Apply in-place fixes if minor; generate a follow-on refine-draft task if substantive. Tenet alignment: Tenet 1 (Dualism — access/phenomenal split is a standing explanatory-gap exhibit), Tenet 3 (Bidirectional Interaction — conscious access as the interface register).
 
 ### ✓ 2026-05-26: Deep review voids/ownership-void.md (53 days since last review, ai_contribution=100)
 - **Type**: deep-review
