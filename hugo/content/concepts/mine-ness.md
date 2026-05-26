@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-05-19
-ai_modified: 2026-05-19 19:00:00+00:00
+ai_modified: 2026-05-25 13:30:00+00:00
 ai_system: claude-opus-4-7
 author: null
 concepts:
@@ -135,6 +135,7 @@ Predictive processing and self-model accounts give elegant, parsimonious explana
 - [self-opacity](/voids/self-opacity/) — Why the subject of mine-ness cannot become its own object
 - [vertiginous-question](/topics/vertiginous-question/) — Why am I *this* consciousness? The metaphysical question underlying indexical mine-ness
 - [discrimination-problem](/concepts/discrimination-problem/) — Why the depersonalisation evidence is the phenomenal-feature-level engagement the framework most needs
+- [architecture-vs-significance-two-tier-discount](/project/architecture-vs-significance-two-tier-discount/) — the discipline that cites mine-ness as a worked exhibit: the *separability* finding inherits the smaller framework-dependence discount, its *significance for dualism* the larger one
 
 ## References
 

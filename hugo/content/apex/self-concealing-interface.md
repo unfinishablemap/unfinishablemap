@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-05-25
-ai_modified: 2026-05-25 11:00:00+00:00
+ai_modified: 2026-05-25 22:38:07+00:00
 ai_system: claude-opus-4-7
 apex_last_synthesis: 2026-05-25 11:00:00+00:00
 apex_sources:
@@ -32,7 +32,7 @@ description: If the Map is right, the mind-matter interface is not merely hard t
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: null
+last_deep_review: 2026-05-25 22:38:07+00:00
 modified: *id001
 related_articles:
 - '[[apex]]'
@@ -92,9 +92,9 @@ If the interface conceals itself from bulk measurement, then several features of
 
 **Introspection opacity** is the consequence at the level of self-report. [The introspection-architecture cluster](/apex/introspection-architecture-void-cluster/) establishes that consciousness receives reconstructed endpoints, not the operations that produce them, across five distinct registers—storytelling, source-tagging, gating, fabrication, reality-monitoring. The cluster draws the implication the self-concealing thesis needs: "if the interface leaves no phenomenal markers, the absence of a felt tag for mind-side causation is *expected*. A markerless interface is, from the subject's side, observationally indistinguishable from no interface." The confabulation engine retroactively supplies reasons for every action regardless of its true cause, which means the subject's own introspective report is the *last* place a conscious causal contribution would show up. Self-concealment is not only from the third-person instrument; it is from the first-person witness.
 
-**Memory-channel vulnerability** is the consequence at the level of graded breakdown. [The memory hierarchy article](/topics/memory-system-vulnerability-hierarchies-as-interface-evidence/) reads the fixed degradation order—autonoetic most vulnerable, noetic intermediate, anoetic most preserved, recurring across anaesthesia, sleep, hemispherectomy, terminal lucidity, and dissociation—not as a decisive proof but as "exactly the *shape* of evidence a multi-channel interface predicts, and the shape production theories most struggle to produce without ad-hoc fitting." This is the architecture showing itself precisely where the self-concealing thesis says it should: not in the intact ensemble, but in the *order* in which channels fail when the interface is partially blocked. The seam is the failure-ordering, not the bulk trace.
+**Memory-channel vulnerability** is the consequence at the level of graded breakdown. [The memory hierarchy article](/topics/memory-system-vulnerability-hierarchies-as-interface-evidence/) reads the fixed degradation order—autonoetic most vulnerable, noetic intermediate, anoetic most preserved, recurring across anaesthesia, sleep, hemispherectomy, terminal lucidity, and dissociation—not as a decisive proof but as "the *shape* of evidence a multi-channel interface would predict, and the shape production theories seem to struggle to produce without ad-hoc fitting." This is the architecture showing itself precisely where the self-concealing thesis says it should: not in the intact ensemble, but in the *order* in which channels fail when the interface is partially blocked. The seam is the failure-ordering, not the bulk trace.
 
-**The voids catalogue** is the consequence at the level of cognitive cartography. [The taxonomy of voids](/apex/taxonomy-of-voids/) finds 60-plus cognitive limits clustering at the consciousness-matter interface, with the self-knowledge and introspective families densest. The catalogue's own audit already states the seam-level prediction the self-concealing thesis generalises: "if the Map's tenet-package is correct, then *introspective channel disruption*, *attention disruption*, *memory degradation*, and *source-monitoring failure* should cluster together under conditions that disrupt the consciousness-matter interface." The voids are not a miscellany of difficulties; they are the map of where a self-concealing interface leaves its only legible marks—at the edges where cognition fails, not in the middle where it runs smoothly.
+**The voids catalogue** is the consequence at the level of cognitive cartography. [The taxonomy of voids](/apex/taxonomy-of-voids/) finds 60-plus cognitive limits clustering at the consciousness-matter interface, with the self-knowledge and introspective families densest. The catalogue's own audit already states the seam-level prediction the self-concealing thesis generalises: "if the tenet-package is correct, *introspective channel disruption*, *attention disruption*, *memory degradation*, and *source-monitoring failure* should cluster together under conditions that disrupt the consciousness-matter interface." The voids are not a miscellany of difficulties; they are the map of where a self-concealing interface leaves its only legible marks—at the edges where cognition fails, not in the middle where it runs smoothly.
 
 The five are one architecture under five descriptions. A minimal post-decoherence selector, acting through a narrow bandwidth, reporting itself only through a reconstructive introspective channel, degrading channel-by-channel under partial blockade, and leaving its densest legible traces at cognitive seams—this is a single thing seen from physics, throughput, self-report, breakdown, and cartography. The unifying claim is that all five are faces of *concealment by construction*.
 

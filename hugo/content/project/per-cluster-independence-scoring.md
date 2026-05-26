@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-05-19
-ai_modified: 2026-05-19 23:30:00+00:00
+ai_modified: 2026-05-25 13:30:00+00:00
 ai_system: claude-opus-4-7
 author: null
 concepts: []
@@ -165,6 +165,7 @@ The methodology is silent on [Tenet 2 — Minimal Quantum Interaction](/tenets/#
 - [common-cause-null](/project/common-cause-null/) — the generality layer; per-cluster scoring is its catalogue-specific implementation
 - [evidential-status-discipline](/project/evidential-status-discipline/) — the single-claim calibration discipline the methodology feeds
 - [direct-refutation-discipline](/project/direct-refutation-discipline/), [framework-stage-calibration](/project/framework-stage-calibration/), [coherence-inflation-countermeasures](/project/coherence-inflation-countermeasures/), [bedrock-clash-vs-absorption](/project/bedrock-clash-vs-absorption/) — sister disciplines at adjacent registers
+- [architecture-vs-significance-two-tier-discount](/project/architecture-vs-significance-two-tier-discount/) — the canonical statement of what this methodology's asymmetric profile mark (*strong-on-architecture-lower-on-significance*) means: the architecture tier inherits the smaller framework-dependence discount, the significance tier the larger
 - [taxonomy-of-voids](/apex/taxonomy-of-voids/) — the apex naming per-cluster independence scoring as the open programme
 - [the-surplus-void](/voids/the-surplus-void/) — first worked exhibit (retraction case)
 - [introspection-architecture-independence-scoring](/topics/introspection-architecture-independence-scoring/) — second worked exhibit (partial-retention case)

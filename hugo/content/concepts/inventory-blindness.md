@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-22
-ai_modified: 2026-05-19 12:58:30+00:00
+ai_modified: 2026-05-25 13:30:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -98,6 +98,8 @@ Inventory blindness engages the Map's [tenets](/tenets/) at a fundamental level.
 **[Bidirectional Interaction](/tenets/#bidirectional-interaction)** connects through the Recognition Void. If what you recognise something *as* partly determines your physical response, and recognition itself is subject to inventory blindness, then the causal role of consciousness operates partly in a domain we cannot fully survey.
 
 ## Further Reading
+
+- [architecture-vs-significance-two-tier-discount](/project/architecture-vs-significance-two-tier-discount/) — the discipline that cites inventory blindness as a worked exhibit: its *existence* inherits the smaller framework-dependence discount, its *significance for Tenet 5* (materialist parsimony may reflect a blind spot) the larger one
 
 - [cognitive closure](/concepts/mysterianism/)
 - [recognition-void](/voids/recognition-void/)

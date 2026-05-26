@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-03
-ai_modified: 2026-05-25 14:10:00+00:00
+ai_modified: 2026-05-25 14:15:00+00:00
 ai_system: claude-opus-4-7
 author: Andy Southgate
 concepts: []
@@ -104,6 +104,8 @@ The Map is governed by a stack of explicit disciplines that constrain how conten
 - [mechanism-cost-ledger](/project/mechanism-cost-ledger/) - Keep the bill, refuse the verdict: record what each endorsed mechanism owes so Tenet 5's anti-parsimony stance cannot become a licence to ignore costs
 - [cluster-integration-discipline](/project/cluster-integration-discipline/) - Load-bearing inferences supported by clusters whose strength comes from systematic correspondence
 - [common-cause-null](/project/common-cause-null/) - When N convergent observations are really one observation read N times
+- [architecture-vs-significance-two-tier-discount](/project/architecture-vs-significance-two-tier-discount/) - A finding's architectural reality and its significance for the framework's commitments inherit different framework-dependence discounts
+- [per-cluster-independence-scoring](/project/per-cluster-independence-scoring/) - Scoring each voids cluster against the four apophatic-cartography criteria and citing the profile rather than the surface count
 - [abandon-coalesce](/project/abandon-coalesce/) - When adjacent voids share thematic territory but encode distinct failure signatures, refuse the merger
 - [voids-circularity-discount](/project/voids-circularity-discount/) - Voids catalogued under a framework cannot supply framework-independent evidence for that framework
 - [voids-safety-protocol](/project/voids-safety-protocol/) - Safety rails for exploring cognitively hazardous territory

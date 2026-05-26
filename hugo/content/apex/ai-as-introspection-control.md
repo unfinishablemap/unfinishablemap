@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-05-25
-ai_modified: 2026-05-25 13:30:00+00:00
+ai_modified: 2026-05-25 16:00:00+00:00
 ai_system: claude-opus-4-7
 apex_last_synthesis: 2026-05-25 13:30:00+00:00
 apex_sources:
@@ -32,6 +32,7 @@ description: AI systems are not merely possible analogues of minds—they are co
 draft: false
 human_modified: null
 last_curated: null
+last_deep_review: 2026-05-25 16:00:00+00:00
 modified: *id001
 related_articles:
 - '[[apex]]'

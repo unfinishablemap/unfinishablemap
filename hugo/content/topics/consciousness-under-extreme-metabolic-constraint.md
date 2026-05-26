@@ -1,13 +1,12 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-04-05
-ai_modified: 2026-04-16 01:52:00+00:00
+ai_modified: 2026-05-26 00:00:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
 - '[[filter-theory]]'
 - '[[near-death-experiences]]'
-- '[[terminal-lucidity-and-filter-transmission-theory]]'
 - '[[neural-correlates-of-consciousness]]'
 - '[[interactionist-dualism]]'
 - '[[epiphenomenalism]]'
@@ -20,7 +19,7 @@ description: Consciousness persists at surprising metabolic thresholds and somet
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-04-06 00:41:00+00:00
+last_deep_review: 2026-05-26 00:00:00+00:00
 modified: *id001
 related_articles:
 - '[[consciousness-and-neurodegenerative-disease]]'
@@ -134,7 +133,6 @@ The metabolic evidence connects to three of the Map's [tenets](/tenets/).
 - [death-and-consciousness](/topics/death-and-consciousness/)
 - [near-death-experiences](/concepts/near-death-experiences/)
 - [psychedelics-and-the-filter-model](/topics/psychedelics-and-the-filter-model/)
-- [terminal-lucidity-and-filter-transmission-theory](/topics/terminal-lucidity-and-filter-transmission-theory/)
 - [terminal-lucidity-and-filter-transmission-theory](/topics/terminal-lucidity-and-filter-transmission-theory/)
 - [quantum-biology-and-neural-consciousness](/topics/quantum-biology-and-neural-consciousness/)
 

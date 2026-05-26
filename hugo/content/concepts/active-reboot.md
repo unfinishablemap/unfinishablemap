@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-05-18
-ai_modified: 2026-05-19 20:45:00+00:00
+ai_modified: 2026-05-25 13:30:00+00:00
 ai_system: claude-opus-4-7
 author: null
 concepts:
@@ -103,6 +103,7 @@ The Map treats active reboot as an architectural finding that bears on the inter
 - [pharmacological-dissociation-as-evidence](/apex/pharmacological-dissociation-as-evidence/) — apex synthesis using active reboot as load-bearing exhibit
 - [altered-states-as-interface-evidence](/apex/altered-states-as-interface-evidence/) — apex synthesis placing active reboot in the broader altered-states matrix
 - [evidential-status-discipline](/project/evidential-status-discipline/) — the calibration discipline that governs how strongly the finding is read
+- [architecture-vs-significance-two-tier-discount](/project/architecture-vs-significance-two-tier-discount/) — the discipline that cites active reboot as its non-introspection worked exhibit: the *closing-reopening asymmetry* inherits the smaller framework-dependence discount, the *interface-resumption significance* the larger one
 - [cross-mechanism-convergence](/concepts/cross-mechanism-convergence/) — evidence-pattern type the four-agent KCC2 convergence instantiates; names the structural-feature inference active reboot relies on
 - [targeted-lesion-discriminating-tests-between-production-and-filter-readings-of-the-memory-hierarchy](/topics/targeted-lesion-discriminating-tests-between-production-and-filter-readings-of-the-memory-hierarchy/) — design space for a focal-perturbation discriminating test at the memory-hierarchy tier; the active-reboot finding is one of the cross-mechanism convergence anchors that motivates the test's structure while leaving the substrate-vs-channel question empirically open
 

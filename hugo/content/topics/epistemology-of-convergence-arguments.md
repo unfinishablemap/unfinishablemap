@@ -186,6 +186,7 @@ The Map treats convergence as genuine evidence while acknowledging its limits. C
 - [methodological-pluralism](/concepts/methodological-pluralism/) — Multiple methods as a philosophical approach
 - [concession-convergence-philosophy-of-mathematics](/topics/concession-convergence-philosophy-of-mathematics/) — Convergence applied to philosophy of mathematics: four independent concessions
 - [Convergent Phenomenological Evidence](/concepts/phenomenological-evidence/#convergence) — When first-person reports converge across independent traditions
+- [the-reverse-inference](/topics/the-reverse-inference/) — The Map's other methodological meta-move; chains downstream of this one, spending the irreducibility datum convergence secures and sharing its experience-as-datum vulnerability
 
 ## References
 
