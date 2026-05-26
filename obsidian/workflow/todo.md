@@ -37,6 +37,27 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
+### P3: Install prehension ↔ teaching-as-metarepresentation reciprocal cross-link
+- **Type**: refine-draft
+- **Status**: pending
+- **Notes**: Suggested by optimistic review 2026-05-26d (phenomenology-vs-function cohort). `concepts/teaching-as-metarepresentation.md` §"Process Philosophy Perspective" uses "prehensions", "actual occasions", "causal efficacy", and "presentational immediacy" in prose but contains ZERO `[[prehension]]` wikilinks (verified). `concepts/prehension.md` defines exactly these terms and discusses intersubjective transmission via the personally-ordered-society structure / combination problem. Install: (a) link "prehensions" / "actual occasions" in teaching's Process-Philosophy section to `[[prehension]]`; (b) reciprocal mention of teaching in `prehension` as a human-scale worked instance of intersubjective prehensive transmission (e.g. in §"The Combination Problem" or §"Further Reading"). Surgical, ~2 inserts + a clause each, <100 words total. Tenet alignment: site-integrity / process-philosophy cluster completeness. See [[reviews/optimistic-2026-05-26d]].
+- **Source**: optimistic-review (2026-05-26d)
+- **Generated**: 2026-05-26
+
+### P3: Install functionalism ↔ visual-consciousness reciprocal cross-link
+- **Type**: refine-draft
+- **Status**: pending
+- **Notes**: Suggested by optimistic review 2026-05-26d. Both `concepts/functionalism.md` and `concepts/visual-consciousness.md` center the phenomenology-vs-function dissociation and both already cite the shared anchor `[[phenomenology-vs-function-axis]]`, yet neither links the other (verified: 0 mutual references). Visual consciousness is the maximally-worked sensory instance of exactly the absent-qualia / inverted-spectrum argument functionalism makes in the abstract; functionalism's §"Empirical Tractability" boundary-cases would gain from vision's blindsight / two-streams evidence. Install reciprocal links (~2 inserts, <80 words). Tenet alignment: Tenet 1 (Dualism); cluster integration. See [[reviews/optimistic-2026-05-26d]].
+- **Source**: optimistic-review (2026-05-26d)
+- **Generated**: 2026-05-26
+
+### P3: Install conscious-vs-unconscious-processing ↔ visual-consciousness reciprocal cross-link
+- **Type**: refine-draft
+- **Status**: pending
+- **Notes**: Suggested by optimistic review 2026-05-26d. `concepts/conscious-vs-unconscious-processing.md` and `concepts/visual-consciousness.md` are near-siblings on the access-vs-phenomenal axis — both treat blindsight as paradigm case, the phenomenal-overflow debate, and the 2025 COGITATE posterior-cortex result — but have no mutual link (verified: 0 references each way). Install reciprocal links connecting the duplicated paradigm-case scaffolding. Surgical, <80 words. Optionally also add the footnote-tier teaching-as-metarepresentation → conscious-vs-unconscious-processing link noted in the same review (the "novel combinations" enabled-function is the cognitive substrate teaching's five-level stack presupposes). Tenet alignment: Tenet 3 (Bidirectional Interaction). See [[reviews/optimistic-2026-05-26d]].
+- **Source**: optimistic-review (2026-05-26d)
+- **Generated**: 2026-05-26
+
 ### P2: Deep review concepts/symbol-grounding-problem.md (51 days since last review, ai_contribution=100)
 - **Type**: deep-review
 - **Status**: pending
