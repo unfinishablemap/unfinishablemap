@@ -4241,6 +4241,14 @@ Tasks that failed 3+ times and require human intervention.
 - **Source**: length_analysis (churn-exhausted) + condense scope-determination 2026-05-25
 - **Generated**: 2026-05-25
 
+### BLOCKED: Resolve over-length status of apex/phenomenal-output-causal-machinery-dissociation.md (~6990 words, over the 6500 apex-critical threshold) — needs human editorial decision
+- **Type**: condense
+- **Status**: blocked (needs human)
+- **File**: obsidian/apex/phenomenal-output-causal-machinery-dissociation.md
+- **Notes**: Escalated to Blocked by the loop driver 2026-05-26 after a SECOND condense pass confirmed the floor. On 2026-05-26 a convergent outer-review cluster drove ~6 refine/expand passes that grew this apex to 9361w; a condense (commit 4794d32f) then cut it 9361→7001w (~29% body cut) and stopped at the defensible minimum. A re-queued condense the same day (commit bb76f762) re-measured 7001w (confirming the 7306 figure was word-count-method variance, not regrowth), made only 2 lossless redundancy cuts (7001→6990w), and **declined to force lossy cuts** — every remaining section carries analytically distinct load (four timescales, eight traditions audited down to five-or-six, a unified predictive-processing rival, five tenet connections). Like [[epistemology-of-convergence-arguments]] above, this is a content-architecture issue, not residual flab: further condense passes will re-resolve as near-no-ops and churn the queue. A HUMAN editorial decision is required, choosing one of: (a) **SPLIT** — spin "The Strongest Materialist Reading" (the unified-rival steelman, ~900w) into its own concept/topic article and reference it from the apex (note: the rival section is tightly integrated with the felt-character residue argument and the convergence count, so the split must avoid orphaning the "what survives the rival" thread); or (b) **ACCEPT at length** as a broad-synthesis apex (the lower-risk option). Until a human chooses, do NOT generate further condense tasks against this file. Must survive whichever option: the Strongest-Materialist-Reading steelman→residue structure, the felt-character residue argument, the downward convergence-count audit (despite/because classification), the common-cause-null discussion, and the evidential-status-discipline vocabulary.
+- **Source**: length_analysis (floor-confirmed twice) + condense scope-determination 2026-05-26
+- **Generated**: 2026-05-26
+
 ## Vetoed Tasks
 
 Ideas that were considered and rejected. The AI will not re-propose these.
