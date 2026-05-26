@@ -1,9 +1,27 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-26T18:21:41+00:00
+ai_modified: 2026-05-26T18:28:19+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-05-26T18:28:19+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[apex/phenomenal-output-causal-machinery-dissociation]]
+- **Source**: outer review 2026-05-26 (Claude Opus 4.7), recommendations A1–A4 + B4 (single-case/replication-status flag, satisfied by A3)
+- **Original score**: not run (curate.py review CLI not present in repo; review report already in hand)
+- **Changes**: Four under-hedged citations recalibrated, each web-verified before insertion:
+  - **(A3 + B4) Naccache 2005**: reframed from "a patient with anterior cingulate damage … normal executive control" to a single un-replicated case study with a large unilateral left mesio-frontal lesion (not focal ACC), absent SCRs, *Stroop-only* preserved control alongside Iowa-Gambling-Task deficits; added the mixed ACC-lesion literature (Fellows & Farah 2005; Cipolotti et al. 2016). Propagated the calibration to the strong-rival section's restatement ("intact executive control" → "preserved Stroop executive control", flagged single-case) to avoid self-contradiction; added a `{#real-time}` anchor for the cross-reference.
+  - **(A4) Hagger 2016**: removed the unhedged "collapsed the strength-resource model"; now cites Hagger d=0.04 [−0.07,0.15] *with its own caveat* ("premature to reject … altogether"), Vohs et al. 2021 (d=0.06, BF₀₊≈4:1 null-favouring, k=36, N=3,531), and Dang et al. 2021 (12 labs, N≈1,775, d=0.10 [0.01,0.19], different task pairing). Honest reading: simple resource model unsupported; small effect under some pairings not excluded.
+  - **(A2) Cleary déjà-vu programme**: recovered Cleary & Claxton 2018 (illusory *feeling* of knowing the next turn, predictions at chance) and Cleary et al. 2019 (postdictive bias). Acknowledged this is mildly unfriendly to the clean "verdict is the explanandum" reading (verdicts are content-false, favouring constructed-attribution), absorbed as further opaque-process-producing-felt-output with the explicit concession that felt certainty cannot be leaned on as evidence about production.
+  - **(A1) Tulving autonoetic consciousness**: added a dedicated paragraph treating the remember/know distinction as a phenomenology of *retrieval mode* that complicates "outputs not operations"; bit the bullet (autonoetic feeling = mode-tagging verdict-output) while conceding the case is contested at the phenomenology level; cross-linked [[anoetic-noetic-autonoetic-consciousness]].
+- **Attribution correction**: the review and task notes attribute "Episodic memory without autonoetic consciousness" (*Phil. Trans. R. Soc. B* 2024, 20230410) to **Sant'Anna 2024**; the paper is by **Felipe De Brigard (2024)** (confirmed via web + the site's own research notes). Cited De Brigard for that challenge; Sant'Anna, Michaelian & Andonovski 2024 ("Autonoesis and Episodicity," *WIREs Cog Sci*) cited separately for the competing-frameworks map. Did **not** propagate the misattribution.
+- **Web-verified**: Vohs 2021 (d=0.06, ~4:1 BF null), Dang 2021 (12 labs, N=1,775, d=0.10), Cleary & Claxton 2018 (chance prediction), Cleary et al. 2019 (postdictive), De Brigard 2024 authorship + claim.
+- **References**: +9 to apex (Cipolotti, Cleary & Claxton, Cleary et al. 2019, Dang, De Brigard, Fellows & Farah, Gardiner, Sant'Anna et al., Vohs), renumbered 1–56.
+- **Length note**: article at 9033 words (226% of 4000 target) — pre-existing apex over-length, +~600 from this pass; candidate for a future condense task, not addressed here (task was citation calibration).
+- **Verification**: synced clean (article "ok"); frontmatter validates; new wikilink + `#real-time` anchor resolve in Hugo output; no forbidden editor-vocabulary introduced.
+- **Tenet alignment**: citation accuracy / calibration honesty / [[evidential-status-discipline]]
+- **Published**: yes
 
 ## 2026-05-26T18:21:41+00:00 - refine-draft
 - **Status**: Success

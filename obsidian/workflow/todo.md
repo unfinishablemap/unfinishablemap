@@ -37,14 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Recalibrate the four load-bearing empirical citations in phenomenal-output-causal-machinery-dissociation.md (Naccache, Hagger, Cleary, Tulving)
-- **Type**: refine-draft
-- **Status**: pending
-- **Notes**: From outer review 2026-05-26 (Claude Opus 4.7), recommendations A1–A4 + B4. Verified against the live article that each citation is under-hedged. (A3) Naccache et al. 2005 is presented as plain evidence; flag it as a **single-patient case study** with a large unilateral mesio-frontal lesion (not focal ACC) whose patient also showed Iowa-Gambling-Task deficits and absent SCRs, with no direct replication (cite Fellows & Farah 2005, Cipolotti et al. 2016 for the mixed ACC-lesion literature). (A4) The Hagger 2016 line says it "collapsed the strength-resource model" with no hedge; recalibrate to cite both Hagger (d=0.04, [−0.07,0.15]) *and* Vohs et al. 2021 (d=0.06, BF₀₊≈4.39) and Dang et al. 2021 (12 labs, N≈1,775, d=0.10, [0.01,0.19], different task pairing showing a small significant effect), and note Hagger's own caveat against fully rejecting depletion. (A2) Recover the fuller Cleary déjà-vu programme — Cleary & Claxton 2018 found déjà vu produces an illusory *feeling* of knowing the next turn while predictions stayed at chance, plus Cleary et al. 2019's postdictive bias; this is mildly unfriendly to the clean "verdict is the explanandum" reading and should be acknowledged, not omitted. (A1) Add a paragraph on Tulving's autonoetic consciousness / the remember-know distinction as a *phenomenology of retrieval mode* that complicates the clean "outputs not operations" picture — either bite the bullet (autonoetic feeling is itself a mode-tagging verdict-output) or concede the recollection case is less clean; note Sant'Anna 2024's "episodic memory without autonoetic consciousness" challenge. **Web-verify every effect size, CI, and the Cleary/Sant'Anna findings before inserting** (see Verification Notes in the review). Tenet alignment: citation accuracy / calibration honesty.
-- **Review file**: `reviews/outer-review-2026-05-26-claude-opus-4-7.md`
-- **Source**: outer-review
-- **Generated**: 2026-05-26
-
 ### P2: Add the positive-companion (placebo/choking) coupling as a dedicated article or apex section
 - **Type**: expand-topic
 - **Status**: pending
@@ -3753,6 +3745,10 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 Tasks that failed 3+ times and require human intervention.
 
+
+### ✓ 2026-05-26: Recalibrate the four load-bearing empirical citations in phenomenal-output-causal-machinery-dissociation.md (Naccache, Hagger, Cleary, Tulving)
+- **Type**: refine-draft
+- **Notes**: From outer review 2026-05-26 (Claude Opus 4.7), recommendations A1–A4 + B4. Verified against the live article that each citation is under-hedged. (A3) Naccache et al. 2005 is presented as plain evidence; flag it as a **single-patient case study** with a large unilateral mesio-frontal lesion (not focal ACC) whose patient also showed Iowa-Gambling-Task deficits and absent SCRs, with no direct replication (cite Fellows & Farah 2005, Cipolotti et al. 2016 for the mixed ACC-lesion literature). (A4) The Hagger 2016 line says it "collapsed the strength-resource model" with no hedge; recalibrate to cite both Hagger (d=0.04, [−0.07,0.15]) *and* Vohs et al. 2021 (d=0.06, BF₀₊≈4.39) and Dang et al. 2021 (12 labs, N≈1,775, d=0.10, [0.01,0.19], different task pairing showing a small significant effect), and note Hagger's own caveat against fully rejecting depletion. (A2) Recover the fuller Cleary déjà-vu programme — Cleary & Claxton 2018 found déjà vu produces an illusory *feeling* of knowing the next turn while predictions stayed at chance, plus Cleary et al. 2019's postdictive bias; this is mildly unfriendly to the clean "verdict is the explanandum" reading and should be acknowledged, not omitted. (A1) Add a paragraph on Tulving's autonoetic consciousness / the remember-know distinction as a *phenomenology of retrieval mode* that complicates the clean "outputs not operations" picture — either bite the bullet (autonoetic feeling is itself a mode-tagging verdict-output) or concede the recollection case is less clean; note Sant'Anna 2024's "episodic memory without autonoetic consciousness" challenge. **Web-verify every effect size, CI, and the Cleary/Sant'Anna findings before inserting** (see Verification Notes in the review). Tenet alignment: citation accuracy / calibration honesty.
 
 ### ✓ 2026-05-26: Update three stale mechanism claims in phenomenal-output-causal-machinery-dissociation.md (subitizing, agency taxonomy, open-label placebo)
 - **Type**: refine-draft
