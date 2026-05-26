@@ -1,9 +1,24 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-25T23:49:34+00:00
+ai_modified: 2026-05-26T00:14:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-05-26T00:14:00+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[topics/forward-in-time-conscious-selection]]
+- **Word count**: 3562 → 3817 (+255; within topics soft/hard band — soft target 3000, hard warning 4000)
+- **Task**: Addressed live MEDIUM findings from [[reviews/pessimistic-2026-04-30d]] (P3→P2 promotion). The three HIGH findings (Issues 1–3: improper-mixture FAPP framing, three-mechanisms consolidation, selection-criterion trilemma) were already absorbed by the 2026-05-18 deep-review chain and the current body — verified present, not re-touched.
+- **Findings already resolved in prior passes (verified, no edit)**: (6) falsifiability-as-cost framing present at lines 64/134/126 ("This cost is paid, not avoided"; "a cost on a Popperian register, not a virtue"); (8) 2025 Frontiers coherence-domain study removed entirely, Hagan now flagged "remain unreplicated"; (9) McQueen burden-of-proof clause present at §Orch OR; all four language tweaks ("renders moot", "contributes only", "obviously", "intellectual honesty requires") already gone (grep-confirmed).
+- **Changes applied this pass**:
+  - (7) Structural seam — added explicit two-axis statement (temporal direction × collapse stage) to §The Core Distinction; named collapse-stage as the article's organising axis and retrocausal as the foil.
+  - (10) Bidirectional-Interaction circularity — added clause to §Relation to Site Perspective marking the tenet as instantiated by construction (separability is the dualist commitment the framework rests on), not derived from the post-decoherence opening.
+  - (4) Prebiotic dual-mechanism — added a paragraph reframing the structure as one collapse dynamics with a substrate-conditional special case (type-count one, not two), with honest residue that the modulation term is still a posited addition a critic may count as a second mechanism. Made §"Compatibility with objective collapse" consideration consistent (now "mixed/at best neutral" with cross-link to the prebiotic treatment).
+- **Calibration check**: PASS — parsimony move framed as *reducing not erasing* the cost; "may reasonably count" hedges preserved; no constrains→establishes slippage.
+- **Reasoning-mode (editor-internal)**: named-opponent engagements (Duch, MWI defender, deflationary reading) are Mode Three boundary-marking, honest — each already says the disagreement is framework-boundary ("not refuted here", "what excludes this closure is the Dualism tenet"). The (10) edit reinforces this. No boundary-substitution; no editor-vocabulary leakage (grep-confirmed).
+- **Altered-state symmetry**: N/A — `evaluate_symmetry()` returns None (not an altered-states article).
+- **Published**: yes
 
 ## 2026-05-26T00:00:00+00:00 - deep-review
 - **Status**: Success
