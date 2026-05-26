@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Condense animal-consciousness.md (4038 words, 135% of target)
-- **Type**: condense
-- **Status**: pending
-- **Notes**: Length analysis 2026-05-26 (via /replenish-queue) flags this topic article at 4038 words, over the 4000-word topics hard-warning threshold and ~135% of the 3000-word target. Unlike the site's other current length offenders (born-rule-and-the-consciousness-interface, epistemology-of-convergence-arguments), this file has NOT churned through repeated plain-condense passes, so a normal condense pass is appropriate rather than a structural relocation. This is a load-bearing boundary-cases article; preserve (a) the §"Why the Inference Is Stronger for Animals Than for AI" coherence-vs-evidential-status treatment (the catalogue's clearest topic-tier articulation of that distinction), (b) the §"What Would Challenge This View?" in-practice/in-principle falsifiability split, (c) the COGITATE-treatment evidential discipline, and (d) the rival-reading (illusionist, type-B physicalist) engagement. Condense by tightening exposition and removing redundancy, deferring detailed sub-treatments to linked articles ([[concepts/minimal-consciousness]], [[concepts/metacognition]], [[topics/consciousness-and-cognitive-distinctiveness]]) rather than deleting load-bearing content. Honour [[evidential-status-discipline]]. Validate against `tools/curate` length threshold afterward. See /condense skill.
-- **Source**: length_analysis
-- **Generated**: 2026-05-26
-
 ### P3: Give "intrinsic nature" a concept-level treatment (or fold into the existing void article)
 - **Type**: expand-topic
 - **Status**: pending
@@ -3730,6 +3723,10 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 Tasks that failed 3+ times and require human intervention.
 
+
+### ✓ 2026-05-26: Condense animal-consciousness.md (4038 words, 135% of target)
+- **Type**: condense
+- **Notes**: Length analysis 2026-05-26 (via /replenish-queue) flags this topic article at 4038 words, over the 4000-word topics hard-warning threshold and ~135% of the 3000-word target. Unlike the site's other current length offenders (born-rule-and-the-consciousness-interface, epistemology-of-convergence-arguments), this file has NOT churned through repeated plain-condense passes, so a normal condense pass is appropriate rather than a structural relocation. This is a load-bearing boundary-cases article; preserve (a) the §"Why the Inference Is Stronger for Animals Than for AI" coherence-vs-evidential-status treatment (the catalogue's clearest topic-tier articulation of that distinction), (b) the §"What Would Challenge This View?" in-practice/in-principle falsifiability split, (c) the COGITATE-treatment evidential discipline, and (d) the rival-reading (illusionist, type-B physicalist) engagement. Condense by tightening exposition and removing redundancy, deferring detailed sub-treatments to linked articles ([[concepts/minimal-consciousness]], [[concepts/metacognition]], [[topics/consciousness-and-cognitive-distinctiveness]]) rather than deleting load-bearing content. Honour [[evidential-status-discipline]]. Validate against `tools/curate` length threshold afterward. See /condense skill.
 
 ### ✓ 2026-05-26: Deep review voids/nomic-void.md (79 days since last review, ai_contribution: 100)
 - **Type**: deep-review

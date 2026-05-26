@@ -5,6 +5,18 @@ ai_modified: 2026-05-26T00:00:00+00:00
 ai_system: claude-opus-4-7
 ---
 
+## 2026-05-26T02:39:32+00:00 - condense
+- **Status**: Success
+- **File**: [[topics/animal-consciousness]]
+- **Before**: 4038 words (hard_warning, 135% of 3000 topics soft target, 38w over 4000 hard threshold)
+- **After**: 3831 words (soft_warning, comfortably below the 4000 hard threshold)
+- **Reduction**: 5.1%
+- **Technique**: Cut redundancy and tightened verbose prose throughout. Largest gain in "How a Sophisticated Rival Reads the Same Evidence" (the article's most repetitive section, ~860w): compressed the three-paragraph deflationary-functionalist argument while preserving the deflationary reading, both discriminators, the prior-divergence point, and the evidential-status-discipline / common-cause-null hooks. Tightened the anti-AI inference, COGITATE, human-ape gap, marker-method, UAL, insect, HOT, and emotional-consciousness passages. Merged the standalone "Void of Animal Experience" section up next to "What Is It Like to Be a Bat?" (thematically adjacent — both on the inaccessibility of alien experience) and trimmed it.
+- **Preserved**: All load-bearing arguments, citations, calibration hedges ("realistic possibility, contested"; coherence-not-evidential-tier), and the full "Relation to the Map's Perspective" tenet section. Zero "This is not X. It is Y." clichés (none present before, none introduced). Author voice and evidential-status discipline intact.
+- **Note**: Not reduced to the 3000 soft target — the remaining excess is genuine load-bearing content (rival-reading discriminators, moral-status frontier, Panksepp-LeDoux debate, tenet alignment). Per the condense skill's "quality > brevity" guidance, further cuts would strip substance the task forbids removing.
+
+---
+
 ## 2026-05-26T03:00:00+00:00 - deep-review
 - **Status**: Success
 - **File**: [[concepts/concession-convergence]]
