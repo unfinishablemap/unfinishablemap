@@ -4,7 +4,7 @@ description: "Physicalism's best response to the explanatory gap: the puzzle is 
 created: 2026-01-15
 modified: 2026-01-20
 human_modified: null
-ai_modified: 2026-04-07T04:45:00+00:00
+ai_modified: 2026-05-26T13:27:17+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -26,7 +26,7 @@ author: null
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-01-15
 last_curated: null
-last_deep_review: 2026-04-07T04:45:00+00:00
+last_deep_review: 2026-05-26T13:27:17+00:00
 ---
 
 The phenomenal concepts strategy (PCS) is the most sophisticated physicalist response to the [[explanatory-gap|explanatory gap]]. Rather than denying that consciousness seems puzzling, PCS locates the puzzle in our *concepts* rather than in reality. The gap between physical descriptions and conscious experience, it claims, reflects how we think about experience—not something non-physical in experience itself.
@@ -196,5 +196,5 @@ Several findings would strengthen PCS and weaken the dualist interpretation:
 - Stoljar, D. (2005). "Physicalism and Phenomenal Concepts." *Mind & Language*, 20(5), 469–494.
 - Lewis, D. (1988). "What Experience Teaches." *Proceedings of the Russellian Society*.
 - Nemirow, L. (1990). "Physicalism and the Cognitive Role of Acquaintance."
-- Tallis, R. (2016). *Aping Mankind: Neuromania, Darwinitis and the Misrepresentation of Humanity*.
+- Tallis, R. (2011). *Aping Mankind: Neuromania, Darwinitis and the Misrepresentation of Humanity*. Acumen.
 - Whitehead, A. N. (1929). *Process and Reality*. Macmillan.

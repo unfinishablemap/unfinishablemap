@@ -5,6 +5,20 @@ ai_modified: 2026-05-26T12:14:27+00:00
 ai_system: claude-opus-4-7
 ---
 
+## 2026-05-26T13:27:17+00:00 - deep-review
+- **Status**: Success
+- **File**: [[concepts/phenomenal-concepts-strategy]]
+- **Word count**: 2559 → 2559 (102% of 2500 concepts soft target; length-neutral — date string swap only)
+- **Critical issues addressed**: 0 — sixth review; article re-stabilised since 2026-04-07. All six adversarial personas engaged; no critical issues.
+- **Citation re-verification (★ web-verified, NOT inherited per task)**: All cites confirmed clean from primary sources at author-surname AND finding-direction level. Chalmers 2006 (dilemma structure exact), Balog 2012 *PPR* 84(1) 1–23 (defends PCS vs Master Argument; standoff concession accurate), **Fürst 2011 *Acta Analytica* 26(1) 29–48 (finding-direction exact: encapsulation account implies non-physical referents, reinforces dualism)**, Stoljar 2005 *Mind & Language* 20(5) 469–494 (venue/pages correct), Tallis *Aping Mankind* (presentation/representation argument genuinely his), PhilPapers 2020 62.4%/29.7% (rounding accurate). NOT in the ~31% fabrication band.
+- **Medium issues addressed**: 0
+- **Low issues addressed**: 1 — Tallis *Aping Mankind* edition date 2016 → 2011 (Acumen); 2016 is a valid Routledge reissue but 2011 is the standard first-edition cite.
+- **Calibration check**: passed — central conclusion "something resists physical explanation" is the output of Chalmers's dilemma (correctly attributed to its logic, not to tenets); persistence-of-intuitions/vitalism passage hedged as suggestive not probative; Balog concession bidirectional. A tenet-accepting reviewer would not flag overstatement. No possibility/probability slippage.
+- **Reasoning-mode (editor-internal)**: physicalist PCS via Chalmers — Mode Two (unsupported foundational move); illusionism/Tallis regress — Mode Two/Mixed; ability hypothesis — Mode One; MWI/indexicality in tenet section — Mode Three (boundary-marked). No boundary-substitution. No label leakage in prose (grep-confirmed).
+- **Link hygiene**: all 11 wikilinks + `concepts/materialism` + `tenets` resolve to LIVE files; five tenet anchors all current (`^occams-limits`, not stale `^occam*`); no drift slugs; no archive-only links.
+- **Cliché check**: no "This is not X. It is Y." or variants.
+- **Output**: [[reviews/deep-review-2026-05-26-phenomenal-concepts-strategy]]
+
 ## 2026-05-26T13:10:54+00:00 - deep-review
 - **Status**: Success
 - **File**: [[concepts/jourdain-hypothesis]]
