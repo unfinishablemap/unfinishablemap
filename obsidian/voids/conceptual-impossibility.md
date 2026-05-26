@@ -3,7 +3,7 @@ title: "Conceptual Impossibility"
 created: 2026-01-23
 modified: 2026-02-25
 human_modified: null
-ai_modified: 2026-04-30T04:25:00+00:00
+ai_modified: 2026-05-26T00:00:00+00:00
 draft: false
 description: "How consciousness encounters the formally unthinkable—we can reference impossibilities but cannot grasp them, revealing cognitive architecture's limits."
 topics: []
@@ -13,7 +13,7 @@ concepts:
 related_articles:
   - "[[voids]]"
   - "[[tenets]]"
-  - "[[thoughts-that-slip-away]]"
+  - "[[thought-stream-void]]"
   - "[[edge-states-and-void-probes]]"
   - "[[apophatic-approaches]]"
   - "[[interactionist-dualism]]"
@@ -23,7 +23,7 @@ author: null
 ai_system: claude-opus-4-5-20251101
 ai_generated_date: 2026-01-23
 last_curated: null
-last_deep_review: 2026-04-01T17:39:00+00:00
+last_deep_review: 2026-05-26T00:00:00+00:00
 ---
 
 Try to imagine a round square. Not a circle drawn on a square. Not a rounded square with gentle corners. A shape that is simultaneously, *in the same respect*, perfectly round and perfectly square. What happens when you try?
@@ -50,7 +50,7 @@ The puzzle: what explains this asymmetry? If we truly cannot conceive impossibil
 
 When attempting to grasp a conceptual impossibility, several characteristic experiences emerge:
 
-**Cognitive slippage.** You try to hold roundness and squareness together. The mental image flickers—now round, now square—but won't stabilize. This differs from [[thoughts-that-slip-away|thoughts that slip away]] where content forms briefly then vanishes. Here, content never forms at all.
+**Cognitive slippage.** You try to hold roundness and squareness together. The mental image flickers—now round, now square—but won't stabilize. This differs from [[thought-stream-void|thoughts that slip away]] where content forms briefly then vanishes. Here, content never forms at all.
 
 **Active resistance.** The experience isn't mere absence (like trying to remember something never learned) but *presence of obstacle*. Thought approaches, encounters resistance, bounces back. Many describe it as "hitting a wall" rather than "finding emptiness."
 
@@ -62,7 +62,7 @@ Compare to related phenomena:
 
 - **Forgetting**: Absence of content that once was present. With impossibilities, no content was ever present.
 - **Difficulty**: Hard concepts feel like "approaching comprehension" with incremental gains. Impossibilities feel like "absolute blockage" with no gains possible.
-- **[[thoughts-that-slip-away|Slippage]]**: Content forms briefly then vanishes. Impossibilities never form—only the linguistic shell exists.
+- **[[thought-stream-void|Slippage]]**: Content forms briefly then vanishes. Impossibilities never form—only the linguistic shell exists.
 - **[[counterfactual-void|Counterfactual limits]]**: Modal imagination thins gradually as alternatives grow radical—a "horizon" passing unnoticed. Impossibilities present a "wall" that announces itself through active resistance.
 
 ## Unexplorable or Occluded?
@@ -123,7 +123,7 @@ But Jean-Luc Marion warns: even calling something "unthinkable" makes it a think
 
 **Inference without grasping.** Logical inference permits deriving properties of impossibilities without claiming to conceive them. "If P is a round square, then P is round" remains valid. This allows systematic exploration of logical space surrounding impossibilities—charting what *would* follow if the impossible were possible—without requiring phenomenal access to impossible content itself.
 
-**Negative phenomenology.** Study what the gap *feels like* rather than what fills it. The [[edge-states-and-void-probes|edge-experiences]] of cognitive blockage have distinctive character. Impossibility-encounter differs from forgetting, differs from confusion about hard ideas, differs from [[thoughts-that-slip-away|thoughts slipping away]]. These differences are data.
+**Negative phenomenology.** Study what the gap *feels like* rather than what fills it. The [[edge-states-and-void-probes|edge-experiences]] of cognitive blockage have distinctive character. Impossibility-encounter differs from forgetting, differs from confusion about hard ideas, differs from [[thought-stream-void|thoughts slipping away]]. These differences are data.
 
 ## Relation to Site Perspective
 
@@ -160,7 +160,7 @@ The claim that conceptual impossibilities mark genuine cognitive boundaries woul
 - [[apophatic-approaches|Apophatic Approaches]] — Methods for knowing through negation
 - [[edge-states-and-void-probes|The Phenomenology of the Edge]] — What consciousness encounters at boundaries
 - [[counterfactual-void|The Counterfactual Void]] — Where modal imagination thins rather than hitting a wall
-- [[thoughts-that-slip-away|Thoughts That Slip Away]] — Related but distinct slippage phenomena
+- [[thought-stream-void|The Thought Stream Void]] — Related but distinct slippage phenomena: thoughts that form then vanish, rather than never forming
 - [[mysterianism|Mysterianism and Cognitive Closure]] — McGinn's analysis of structural limits
 - [[cognitive-phenomenology|Cognitive Phenomenology]] — The experiential character of thinking
 - [[conceptual-scheme-void|The Conceptual Scheme Void]] — A different cognitive gap: missing the categorial *shape* any concept would have to take, rather than a malformed combination of existing categories. Where impossibility produces a hard wall, the conceptual scheme void produces a soft absence where thought cannot determine what it is reaching for.
