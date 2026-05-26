@@ -1,9 +1,17 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-26T18:05:00+00:00
+ai_modified: 2026-05-26T17:50:02+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-05-26T17:50:02+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[apex/phenomenal-output-causal-machinery-dissociation]]
+- **Driver**: Outer review 2026-05-26 (ChatGPT 5.5 Pro), Verification Notes high-confidence factual error; review file `reviews/outer-review-2026-05-26-chatgpt-5-5-pro.md`
+- **Changes**: Corrected the Howard (2016) agency-paper citation, wrong in three reference lists. Was "Howard, I. S., Ingram, J. N., Wolpert, D. M., et al. (2016)... *Cognition*, 157, 23–32" (a different Howard/Ingram/Wolpert motor-control paper); fixed to "Howard, E. E., Edwards, S. G., & Bayliss, A. P. (2016). Physical and mental effort disrupts the implicit sense of agency. *Cognition*, 157, 114–125" (confirmed PubMed 27610746, ScienceDirect S0010027716302086). Fixed in: apex ref 15, [[concepts/mental-effort]] ref 1, and [[research/voids-effort-void-2026-05-08]] ref 11 (research note's ScienceDirect URL already pointed at the correct paper). In-text "Howard and colleagues (2016)" / "Howard et al., 2016" attributions left intact — Howard is still lead author and the load-bearing claim (effort disrupts *implicit* agency while *explicit* sense rises) matches the actual paper.
+- **Corpus grep**: confirmed no other instances of the wrong author/page metadata; other Wolpert hits (Blakemore tickle studies, Wolpert & Flanagan motor prediction) and other vol-157 hits (Ellis & Young) are genuinely distinct papers.
+- **Published**: yes
 
 ## 2026-05-26T18:05:00+00:00 - refine-draft
 - **Status**: Success

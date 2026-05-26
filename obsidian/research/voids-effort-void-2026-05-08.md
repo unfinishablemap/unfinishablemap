@@ -3,7 +3,7 @@ title: "Research Notes - Voids: The Effort Void"
 created: 2026-05-08
 modified: 2026-05-08
 human_modified: null
-ai_modified: 2026-05-08T11:45:00+00:00
+ai_modified: 2026-05-26T17:50:02+00:00
 draft: false
 target_section: voids
 topics: []
@@ -247,4 +247,4 @@ The first angle is recommended as the primary structure, with the second and thi
 8. Bermúdez, J. P., & Massin, O. (2024). Efforts and their Feelings. https://philpapers.org/rec/BEREAT-31
 9. Westbrook, A., & Braver, T. S. (2015). Dopamine Does Double Duty in Motivating Cognitive Effort. *Neuron*, 89(4), 695–710. https://pubmed.ncbi.nlm.nih.gov/26889810/
 10. Westbrook, A., et al. (2020). Dopamine promotes cognitive effort by biasing the benefits versus costs of cognitive work. *Science*, 367(6484), 1362–1366. https://pubmed.ncbi.nlm.nih.gov/32193325/
-11. Howard, I. S., Ingram, J. N., Wolpert, D. M., et al. (2016). Physical and mental effort disrupts the implicit sense of agency. *Cognition*, 157, 23–32. https://www.sciencedirect.com/science/article/abs/pii/S0010027716302086
+11. Howard, E. E., Edwards, S. G., & Bayliss, A. P. (2016). Physical and mental effort disrupts the implicit sense of agency. *Cognition*, 157, 114–125. https://www.sciencedirect.com/science/article/abs/pii/S0010027716302086

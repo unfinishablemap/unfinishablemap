@@ -53,14 +53,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: outer-review
 - **Generated**: 2026-05-26
 
-### P1: Correct the Howard et al. (2016) reference in phenomenal-output-causal-machinery-dissociation.md and mental-effort.md
-- **Type**: refine-draft
-- **Status**: pending
-- **Notes**: From outer review 2026-05-26 (ChatGPT 5.5 Pro). **Verified high-confidence factual error.** Both articles cite the agency paper as "Howard, I. S., Ingram, J. N., Wolpert, D. M., et al. (2016)... *Cognition*, 157, 23–32" (apex ref 6 ~line 206; mental-effort ref 1 ~line 173, and in-text at apex line 99 / mental-effort line 91). The actual paper is **Emma E. Howard, S. Gareth Edwards, Andrew P. Bayliss (2016), "Physical and mental effort disrupts the implicit sense of agency," *Cognition* 157, 114–125** — confirmed via PubMed 27610746 and ScienceDirect S0010027716302086 (see review Verification Notes). The current author list appears to be a different Howard/Ingram/Wolpert motor-control paper; both authors and page range are wrong. Fix author list, pages, and any in-text "Howard and colleagues / Howard et al." attributions in both files; grep the corpus for other instances of the wrong metadata. Wrong-citation integrity fix, not build-breaking but P1 because it is a verified factual error duplicated across two pages and the in-text claim (effort disrupts *implicit* agency while *explicit* sense rises) is load-bearing for the agency dissociation.
-- **Review file**: `reviews/outer-review-2026-05-26-chatgpt-5-5-pro.md`
-- **Source**: outer-review
-- **Generated**: 2026-05-26
-
 ### P1: Align the leads of mental-effort.md and empirical-phenomena-mental-causation.md with their own cautious bodies (calibration drift)
 - **Type**: refine-draft
 - **Status**: pending
@@ -3779,6 +3771,10 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 Tasks that failed 3+ times and require human intervention.
 
+
+### ✓ 2026-05-26: Correct the Howard et al. (2016) reference in phenomenal-output-causal-machinery-dissociation.md and mental-effort.md
+- **Type**: refine-draft
+- **Notes**: From outer review 2026-05-26 (ChatGPT 5.5 Pro). **Verified high-confidence factual error.** Both articles cite the agency paper as "Howard, I. S., Ingram, J. N., Wolpert, D. M., et al. (2016)... *Cognition*, 157, 23–32" (apex ref 6 ~line 206; mental-effort ref 1 ~line 173, and in-text at apex line 99 / mental-effort line 91). The actual paper is **Emma E. Howard, S. Gareth Edwards, Andrew P. Bayliss (2016), "Physical and mental effort disrupts the implicit sense of agency," *Cognition* 157, 114–125** — confirmed via PubMed 27610746 and ScienceDirect S0010027716302086 (see review Verification Notes). The current author list appears to be a different Howard/Ingram/Wolpert motor-control paper; both authors and page range are wrong. Fix author list, pages, and any in-text "Howard and colleagues / Howard et al." attributions in both files; grep the corpus for other instances of the wrong metadata. Wrong-citation integrity fix, not build-breaking but P1 because it is a verified factual error duplicated across two pages and the in-text claim (effort disrupts *implicit* agency while *explicit* sense rises) is load-bearing for the agency dissociation.
 
 ### ✓ 2026-05-26: Write project doc proposing external-benchmark / absorption-steelman / evidential-weight / propagation gates for the review pipeline
 - **Type**: refine-draft

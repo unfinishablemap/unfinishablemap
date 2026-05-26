@@ -4,7 +4,7 @@ description: "Why controlling attention feels like work—and what this widely-s
 created: 2026-01-14
 modified: 2026-05-09
 human_modified: null
-ai_modified: 2026-05-10T10:09:00+00:00
+ai_modified: 2026-05-26T17:50:02+00:00
 draft: false
 topics:
   - "[[topics/free-will]]"
@@ -170,7 +170,7 @@ If controlling attention genuinely costs something, something must be doing the 
 ## References
 
 1. Hagger, M.S., Chatzisarantis, N.L.D., et al. (2016). A multilab preregistered replication of the ego-depletion effect. *Perspectives on Psychological Science*, 11(4), 546-573.
-1. Howard, I.S., Ingram, J.N., Wolpert, D.M., et al. (2016). Physical and mental effort disrupts the implicit sense of agency. *Cognition*, 157, 23-32.
+1. Howard, E.E., Edwards, S.G., & Bayliss, A.P. (2016). Physical and mental effort disrupts the implicit sense of agency. *Cognition*, 157, 114-125.
 1. Inzlicht, M. & Schmeichel, B.J. (2012). What is ego depletion? Toward a mechanistic revision of the resource model of self-control. *Perspectives on Psychological Science*, 7(5), 450-463.
 1. Inzlicht, M., Werner, K.M., Briskin, J.L., & Roberts, B.W. (2021). Integrating models of self-regulation. *Annual Review of Psychology*, 72, 319-345.
 1. James, W. (1890). *The Principles of Psychology*.
