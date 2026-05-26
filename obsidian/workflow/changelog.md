@@ -5,6 +5,17 @@ ai_modified: 2026-05-26T12:00:00+00:00
 ai_system: claude-opus-4-7
 ---
 
+## 2026-05-26T10:55:46+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[topics/overdetermination-dissolution-under-selection-only-interactionism]]
+- **Source**: topic-concept anchoring audit 2026-05-26 (calibration-only; anchor [[concepts/mental-causation-and-downward-causation]])
+- **Word count**: 2581 → 2787 (+206; well under topics soft 3000 / hard 4000)
+- **Failed checks cleared (all 3)**: hedge_density 1.16→2.15/kw (target ≥1.63, anchor 2.71); strong_assertions 1→0 (anchor 0); underdetermination_markers 0→3 (anchor 1). `evaluate_anchoring()` now returns 0 flags against all anchors (mental-causation, causal-closure, trumping-preemption).
+- **Changes**: (1) Softened the single strong-assertion verb "the dissolution *shows that*…" → "makes the case that…"; added the constrains-vs-establishes / "removing a defeater ≠ upgrading evidence" point inline (it clears Kim out of the way without raising the probability the picture is right). (2) Added the substantive underdetermination marker the audit flagged as apt: a new lead paragraph distinguishing dissolution-of-the-*overdetermination-structure* (conditional, holds whenever selection-only architecture is in place) from establishing selection-only interactionism as *true* (underdetermined vs physicalism, which avoids overdetermination by a different route; the two are "empirically equivalent" on the overdetermination question alone and the escape "does not adjudicate" between them). (3) Added contingency hedges at two genuinely contested junctures: premise-1-fails-where-consciousness-operates ("may fail… depends on the contested physical claims rehearsed below"), and the generation-permitting open question ("seem to be adding", "could dissolve").
+- **Voice/claim preserved**: central dissolution argument and conclusion untouched; only epistemic register tightened to inherit the anchor's discipline. Kept consistent with the sibling anchor recalibrated this same run (modulation/selection distinction; candidate-selection framing preserved).
+- **Cliché check**: no "This is not X. It is Y." instances.
+- **Published**: yes
+
 ## 2026-05-26T00:00:00+00:00 - apex-evolve
 - **Status**: Complete
 - **Article**: [[apex/testing-the-map-from-inside]]
