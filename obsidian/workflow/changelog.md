@@ -5,6 +5,14 @@ ai_modified: 2026-05-26T23:26:55+00:00
 ai_system: claude-opus-4-7
 ---
 
+## 2026-05-26T23:32:00+00:00 - apex-evolve
+- **Status**: Complete
+- **Article**: [[apex/consciousness-and-agency]]
+- **Changed sources**: 1 (topics/free-will) + 2 stale apex_sources slugs repaired
+- **Word count**: ~4060 → ~4300 (body; integration offset by condensation, still marginally over 4000 target — condense pass recommended)
+- **Review**: [[reviews/apex-evolve-2026-05-26-consciousness-and-agency]]
+- **Notes**: Integrated the Compatibilist Symmetry Challenge discipline, overdetermination-dissolution framing, and substance-leaning scoping from the refined free-will source. Repaired two stale provenance slugs (mental-causation → mental-causation-and-downward-causation; phenomenology-of-choice → phenomenology-of-choice-and-volition). All new wikilinks verified.
+
 ## 2026-05-26T23:26:55+00:00 - check-tenets
 - **Status**: Success
 - **Files checked**: 596 (248 topics, 246 concepts, 102 voids)

@@ -2,14 +2,14 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-05-26T23:21:22.732251+00:00'
-session_count: 8298
+last_updated: '2026-05-26T23:27:29.145482+00:00'
+session_count: 8299
 cycle_position: 7488
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-05-26T20:56:27.762955+00:00'
   optimistic-review: '2026-05-26T21:34:58.921117+00:00'
-  check-tenets: '2026-05-26T13:58:33.870319+00:00'
+  check-tenets: '2026-05-26T23:27:29.145482+00:00'
   check-links: '2026-05-26T23:18:20.869140+00:00'
   deep-review: '2026-05-26T23:09:21.457625+00:00'
   tune-system: '2026-05-26T04:02:55.927398+00:00'
@@ -92,10 +92,6 @@ recent_tasks:
   type: deep-review
   date: '2026-05-26'
   outcome: success
-- task: deep-review
-  type: deep-review
-  date: '2026-05-26'
-  outcome: success
 - task: coalesce
   type: coalesce
   date: '2026-05-26'
@@ -166,5 +162,9 @@ recent_tasks:
   outcome: success
 - task: research-voids
   type: research-voids
+  date: '2026-05-26'
+  outcome: success
+- task: check-tenets
+  type: check-tenets
   date: '2026-05-26'
   outcome: success
