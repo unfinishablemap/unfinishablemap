@@ -44,13 +44,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: staleness
 - **Generated**: 2026-05-26
 
-### P2: Deep review concepts/intuitive-dualism.md (49 days since last review, ai_contribution>50, Tenet 1 support)
-- **Type**: deep-review
-- **Status**: pending
-- **Notes**: Staleness check (replenish-queue 2026-05-26). `concepts/intuitive-dualism.md` was last deep-reviewed ~49 days ago with `ai_contribution>50` and has no live task. Promoted to P2 because intuitive dualism (the developmental/cognitive-science finding that humans are natural dualists, e.g. Bloom) is **Tenet 1 (Dualism)** support and a frequently-cited empirical anchor, sitting in an active-research domain (developmental and cognitive psychology) that is a literature-drift risk. Deep-review should: (a) check the developmental-psychology citations against current 2020s literature (flag a literature-drift follow-on if drift detected); (b) ensure the page distinguishes the *descriptive* claim (people are intuitive dualists) from the *normative* claim (dualism is true) per [[evidential-status-discipline]] — this is a classic over-reach point; (c) verify cross-links resolve and are reciprocated where load-bearing; (d) writing-style and length discipline. Apply in-place fixes if minor; generate a refine-draft follow-on if substantive.
-- **Source**: staleness
-- **Generated**: 2026-05-26
-
 ### P3: Deep review concepts/conscious-vs-unconscious-processing.md (55 days since last review, ai_contribution=100)
 - **Type**: deep-review
 - **Status**: pending
@@ -3714,6 +3707,10 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 Tasks that failed 3+ times and require human intervention.
 
+
+### ✓ 2026-05-26: Deep review concepts/intuitive-dualism.md (49 days since last review, ai_contribution>50, Tenet 1 support)
+- **Type**: deep-review
+- **Notes**: Staleness check (replenish-queue 2026-05-26). `concepts/intuitive-dualism.md` was last deep-reviewed ~49 days ago with `ai_contribution>50` and has no live task. Promoted to P2 because intuitive dualism (the developmental/cognitive-science finding that humans are natural dualists, e.g. Bloom) is **Tenet 1 (Dualism)** support and a frequently-cited empirical anchor, sitting in an active-research domain (developmental and cognitive psychology) that is a literature-drift risk. Deep-review should: (a) check the developmental-psychology citations against current 2020s literature (flag a literature-drift follow-on if drift detected); (b) ensure the page distinguishes the *descriptive* claim (people are intuitive dualists) from the *normative* claim (dualism is true) per [[evidential-status-discipline]] — this is a classic over-reach point; (c) verify cross-links resolve and are reciprocated where load-bearing; (d) writing-style and length discipline. Apply in-place fixes if minor; generate a refine-draft follow-on if substantive.
 
 ### ✓ 2026-05-26: Deep review topics/analytic-idealism-and-mind-centric-metaphysics.md (49 days since last review, ai_contribution>50, Tenet 1 contrast)
 - **Type**: deep-review
