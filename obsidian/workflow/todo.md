@@ -51,13 +51,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: pessimistic-review (2026-05-26)
 - **Generated**: 2026-05-26
 
-### P2: Import constrain-vs-establish calibration into terminal-lucidity-and-filter-transmission-theory
-- **Type**: refine-draft
-- **Status**: pending
-- **Notes**: PROMOTED P3→P2 by /replenish-queue 2026-05-26 (floor-restoring batch, queue at 2 below the MIN_QUEUE floor of 3). A concrete, review-flagged, small-scope calibration fix (not speculative new content) — the safest kind of floor-restoring promotion under the documented replenish-at-floor steady state. Suggested by optimistic review 2026-05-26f (calibration concern, not a content error). [[topics/terminal-lucidity-and-filter-transmission-theory]] is the only article in the reviewed sample that does NOT install the [[evidential-status-discipline]] vocabulary its three sibling articles ([[apex/phenomenal-output-causal-machinery-dissociation]], [[voids/agency-void]], [[concepts/mental-effort]]) carry. Its evidence base is 100% retrospective caregiver/case-report data with acknowledged selection bias and no prospective EEG/fMRI capture — on the five-tier scale this licenses "live hypothesis," but the headline ("the strongest single-phenomenon case for filter/transmission theory over production models") and the "breaks this monotonicity" framing read at "realistic possibility" and lean toward *establishing* filter theory rather than *constraining* production models. FIX (small): (1) reframe the thesis so the phenomenon raises *explanatory cost on production models* rather than favouring filter theory; (2) add a `[[evidential-status-discipline]]` cross-link and one sentence naming the constrain-vs-establish move (the Selectivity Problem and Current Research Gaps sections already do the work — they just need the vocabulary); (3) PRESERVE the genuinely self-critical "Selectivity Problem" section, the unfalsifiability concession, the "no prospective study has captured an episode" gap statement, and the Murray "speculative leap" hedge. Do NOT downgrade the convergent-evidence framing, which is the right move for an anomaly literature. Tenet alignment: 1, 3, 5. See [[reviews/optimistic-2026-05-26f]].
-- **Source**: optimistic-review (2026-05-26f)
-- **Generated**: 2026-05-26
-
 ### P3: Apex synthesis — "Steelmanning as Method: Building the Rival Before the Residue"
 - **Type**: apex-evolve
 - **Status**: pending
@@ -3728,6 +3721,10 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 Tasks that failed 3+ times and require human intervention.
 
+
+### ✓ 2026-05-26: Import constrain-vs-establish calibration into terminal-lucidity-and-filter-transmission-theory
+- **Type**: refine-draft
+- **Notes**: PROMOTED P3→P2 by /replenish-queue 2026-05-26 (floor-restoring batch, queue at 2 below the MIN_QUEUE floor of 3). A concrete, review-flagged, small-scope calibration fix (not speculative new content) — the safest kind of floor-restoring promotion under the documented replenish-at-floor steady state. Suggested by optimistic review 2026-05-26f (calibration concern, not a content error). [[topics/terminal-lucidity-and-filter-transmission-theory]] is the only article in the reviewed sample that does NOT install the [[evidential-status-discipline]] vocabulary its three sibling articles ([[apex/phenomenal-output-causal-machinery-dissociation]], [[voids/agency-void]], [[concepts/mental-effort]]) carry. Its evidence base is 100% retrospective caregiver/case-report data with acknowledged selection bias and no prospective EEG/fMRI capture — on the five-tier scale this licenses "live hypothesis," but the headline ("the strongest single-phenomenon case for filter/transmission theory over production models") and the "breaks this monotonicity" framing read at "realistic possibility" and lean toward *establishing* filter theory rather than *constraining* production models. FIX (small): (1) reframe the thesis so the phenomenon raises *explanatory cost on production models* rather than favouring filter theory; (2) add a `[[evidential-status-discipline]]` cross-link and one sentence naming the constrain-vs-establish move (the Selectivity Problem and Current Research Gaps sections already do the work — they just need the vocabulary); (3) PRESERVE the genuinely self-critical "Selectivity Problem" section, the unfalsifiability concession, the "no prospective study has captured an episode" gap statement, and the Murray "speculative leap" hedge. Do NOT downgrade the convergent-evidence framing, which is the right move for an anomaly literature. Tenet alignment: 1, 3, 5. See [[reviews/optimistic-2026-05-26f]].
 
 ### ✓ 2026-05-26: Deep review concepts/theory-of-mind.md (49 days since last review, ai_contribution=100, navigational hub)
 - **Type**: deep-review

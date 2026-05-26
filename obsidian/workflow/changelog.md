@@ -5,6 +5,14 @@ ai_modified: 2026-05-26T20:49:50+00:00
 ai_system: claude-opus-4-7
 ---
 
+## 2026-05-26T12:00:00+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[topics/terminal-lucidity-and-filter-transmission-theory]]
+- **Original score**: not run (scripts/curate.py absent; used optimistic-2026-05-26f calibration finding as review context)
+- **Changes**: Installed the [[evidential-status-discipline|constrain-vs-establish]] vocabulary the article's three sibling articles already carry (optimistic review's sole calibration concern). (1) Reframed thesis/headline/description from "strongest single-phenomenon case for filter theory" → "single anomaly that raises the steepest explanatory cost on production models"; added a second lede paragraph naming the constrain-not-establish move and the live-hypothesis tier inline. (2) Reframed "breaks this monotonicity" passage so the monotonicity strain is stated as a cost on production models, not a confirmation of filter theory; added the parsimony-favours ≠ positive-evidence caveat. (3) Reframed "strongest individual element" in Convergent Evidence as "steepest single-phenomenon cost" while preserving the convergent framing (NOT downgraded — right move for an anomaly literature). (4) Added one sentence to Current Research Gaps naming why the 100%-retrospective base licenses constraint not establishment, and that prospective neural capture is the missing discriminator. (5) Added [[evidential-status-discipline]] to concepts frontmatter + Further Reading. PRESERVED: Selectivity Problem section, unfalsifiability concession, "no prospective study captured an episode" gap, Murray "speculative leap" hedge, dualism-presupposition hedge.
+- **Calibration**: Article now states explanatory-cost/constraint throughout rather than establishing filter theory; passes the diagnostic test (a tenet-accepting reviewer would no longer flag the headline as over-claimed). No editor-vocabulary labels leaked into body (verified: no "Evidential status:", no bracketed tier labels, no five-tier scale exposed). New link target verified live in Hugo.
+- **Published**: yes
+
 ## 2026-05-26T20:54:13+00:00 - pessimistic-review
 - **Status**: Success
 - **Content reviewed**: [[topics/indian-philosophy-of-mind]] (3008 words; last deep review 2026-04-24; most recently modified content file). Mechanical checks clean (no label leakage; altered-state symmetry audit N/A — "nde" grep hits are substring false positives). Two facts web-verified: sapta-vidha anupapatti correctly attributed to Ramanuja; the 1017–1137 dates are accurate as *traditional* dates (modern scholarship favours 1077–1157). Four small in-place fixes flagged (1 medium convergence re-lean, 1 medium unrebutted Nyaya-vs-Buddhist argument, 2 low: unhedged Ramanuja date, over-claimed vertiginous-question fit). §"Three-Way Disagreement" empiricist concession noted as exemplary, to be preserved. Added P3 refine-draft task.
