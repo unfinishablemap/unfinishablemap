@@ -1,9 +1,22 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-26T07:30:00+00:00
+ai_modified: 2026-05-26T07:11:58+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-05-26T07:11:58+00:00 - deep-review
+- **Status**: Success
+- **File**: [[voids/collective-cognitive-limits]]
+- **Word count**: 2159 → 2159 (no change; 108% of voids soft threshold 2000, below hard 3000; length-neutral)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 1 (repointed genuinely archive-only `[[thoughts-that-slip-away]]` → live successor `[[thought-stream-void]]` in both related_articles and Further Reading; target was coalesced into The Thought Stream Void on 2026-04-17)
+- **Enhancements made**: 0 (converged — fifth review; all changes since last review were mechanical wikilink retargets, no substantive content drift)
+- **Wikilink audit**: 13 distinct targets; 12 resolve to LIVE obsidian files (left untouched), only `thoughts-that-slip-away` was archive-only and repointed. No resolves-to-live link was touched.
+- **Calibration check**: Passed — consistent hedging, explicit WEIRD caveat bounding universality claims, "Relation to Site Perspective" draws tenet parallels/connections rather than upgrading evidential status on tenet-load. No constrains-vs-establishes conflation, no defeater-removal-as-evidence-upgrade, no possibility/probability slippage.
+- **Attribution check**: Passed — Kuhn (incommensurability, already qualified), Zerubavel (conspiracies of silence, quoted), Aristarchus, Trivers (grounded by naturally-occluded's von Hippel & Trivers 2011 cite), McGinn all accurate. All four tenet anchors exist in tenets.md.
+- **Cliché check**: banned "This is not X. It is Y." staccato form absent; line-53 semicolon contrast is natural and retained.
+- **Output**: [[reviews/deep-review-2026-05-26-collective-cognitive-limits]]
 
 ## 2026-05-26T12:00:00+00:00 - deep-review
 - **Status**: Success

@@ -4,9 +4,9 @@ description: "Beyond individual cognitive closure: how paradigms, social silence
 created: 2026-01-26
 modified: 2026-05-19
 human_modified: null
-ai_modified: 2026-05-19T04:38:17+00:00
+ai_modified: 2026-05-26T07:11:58+00:00
 draft: false
-last_deep_review: 2026-03-26T10:32:00+00:00
+last_deep_review: 2026-05-26T07:11:58+00:00
 topics: []
 concepts:
   - "[[simulation]]"
@@ -16,7 +16,7 @@ related_articles:
   - "[[tenets]]"
   - "[[self-maintained-cognitive-limits]]"
   - "[[what-voids-reveal]]"
-  - "[[thoughts-that-slip-away]]"
+  - "[[thought-stream-void]]"
   - "[[non-human-minds-as-void-explorers]]"
   - "[[biological-cognitive-closure]]"
   - "[[naturally-occluded]]"
@@ -142,7 +142,7 @@ The mapping project therefore requires triangulation: individual minds probing w
 - [[self-maintained-cognitive-limits|Defended Territory]] — Occlusion mechanisms in detail
 - [[what-voids-reveal|What the Limits Reveal]] — How limitation illuminates architecture
 - [[non-human-minds-as-void-explorers|Non-Human Minds as Void-Explorers]] — Using AI and alien minds to probe human limits
-- [[thoughts-that-slip-away|Thoughts That Slip Away]] — Phenomenology of slippage mechanisms
+- [[thought-stream-void|The Thought Stream Void]] — Phenomenology of slippage mechanisms
 - [[mysterianism|Mysterianism and Cognitive Closure]] — Individual cognitive closure analysis
 - [[naturally-occluded|Adaptive Cognitive Limits]] — Why evolution maintains blind spots as fitness advantages
 - [[voids-between-minds|The Intersubjective Void]] — How testimony and social calibration suppress phenomenal knowledge
