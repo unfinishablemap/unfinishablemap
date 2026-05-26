@@ -3,7 +3,7 @@ title: "Split-Brain Cases and the Unity of Consciousness"
 created: 2026-01-14
 modified: 2026-01-14
 human_modified: null
-ai_modified: 2026-01-14T12:00:00+00:00
+ai_modified: 2026-05-26T15:56:34+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -39,7 +39,11 @@ Sperry famously concluded that split-brain patients have "two separate spheres o
 
 ## New Research Challenging Classical Picture (2025)
 
-A November 2025 PNAS study by Michael Miller, Tyler Santander, Michael Gazzaniga, and colleagues from University of Cologne and Indiana University offers surprising new findings:
+An October 2025 PNAS study (Santander, T., et al.; *PNAS* 122(43), e2520190122; doi:10.1073/pnas.2520190122) offers surprising new findings. The senior authors are Kirsten Volz (University of Cologne) and Michael B. Miller (UC Santa Barbara); Michael S. Gazzaniga (UC Santa Barbara) and Olaf Sporns (Indiana University) are among the co-authors.
+
+> **Citation guardrail (do not strip):** Lead author is Santander, T.; Miller is the senior/last author — cite as **Santander et al.**, NOT Miller. The real paper title is *"Full interhemispheric integration sustained by a fraction of posterior callosal fibers"*, not the press-release headline *"Even minimal fiber connections can unify consciousness."* Use the DOI (10.1073/pnas.2520190122), not the UCSB news URL.
+
+Key findings:
 
 **Key Discovery**: Only a small bundle of intact corpus callosum fibers—rather than the entire 250 million axons—can maintain full synchronization between brain hemispheres. One patient with just "about a centimeter of fibers in the posterior section" showed normal brain function.
 
@@ -154,7 +158,7 @@ The binding problem connection is relevant: If quantum coherence explains phenom
 
 ## Sources
 
-- [New findings in split-brain science: Even minimal fiber connections can unify consciousness (2025)](https://news.ucsb.edu/2025/022246/new-findings-split-brain-science-even-minimal-fiber-connections-can-unify-consciousness)
+- Santander, T., Bekir, S., Paul, T., et al. (2025). Full interhemispheric integration sustained by a fraction of posterior callosal fibers. *Proceedings of the National Academy of Sciences*, 122(43), e2520190122. doi:10.1073/pnas.2520190122. [Senior authors: Volz (Cologne), Miller (UCSB); Gazzaniga (UCSB) and Sporns (Indiana) among co-authors. Press-release headline: "Even minimal fiber connections can unify consciousness" — not the paper title.]
 - [Split-Brain: What We Know Now and Why This is Important for Understanding Consciousness (2020)](https://pmc.ncbi.nlm.nih.gov/articles/PMC7305066/)
 - [Thomas Nagel, "Brain Bisection and the Unity of Consciousness" (1971)](https://philpapers.org/rec/NAGBBA)
 - [A layered unity model of split-brain consciousness (2025)](https://link.springer.com/article/10.1007/s11098-025-02339-3)

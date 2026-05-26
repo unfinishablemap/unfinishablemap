@@ -5,6 +5,20 @@ ai_modified: 2026-05-26T16:30:00+00:00
 ai_system: claude-opus-4-7
 ---
 
+## 2026-05-26T15:56:34+00:00 - refine-draft
+- **Status**: Success
+- **Task**: CORPUS-RECONCILE — propagate verified Santander et al. (2025) PNAS citation across the split-brain cluster (P2 from [[reviews/deep-review-2026-05-26-split-brain-consciousness]])
+- **Source note fixed**: [[research/split-brain-consciousness-unity-2026-01-14]]
+- **Changes** (citation-metadata only; body substance unchanged, length-neutral, no draft flips):
+  - Corrected mis-cite "Miller, M. et al. (2025). Even minimal fiber connections can unify consciousness. *PNAS*." → "Santander, T., Bekir, S., Paul, T., et al. (2025). Full interhemispheric integration sustained by a fraction of posterior callosal fibers. *PNAS* 122(43), e2520190122. doi:10.1073/pnas.2520190122" with senior-author annotation [Volz, Miller; Gazzaniga co-author].
+  - Author-order inversion fixed (Santander first author; Miller is senior/last) and press-release headline removed as the paper title; UCSB news URL replaced by DOI.
+  - Files reconciled (body-cite ↔ reference-list consistency verified in each): [[topics/personal-identity]] (body + ref), [[topics/neurological-dissociations-as-interface-architecture]] (ref; body line 116 has no author name, untouched), [[topics/experimental-consciousness-science-2025-2026]] (ref), [[apex/identity-across-transformations]] (ref), [[concepts/substrate-independence]] (body + ref).
+  - Source research note: fixed date (November→October 2025), author order, and affiliation errors (Gazzaniga/Miller = UCSB, Sporns = Indiana, Volz = Cologne); replaced UCSB URL with DOI in Sources; added an inline citation guardrail so future expands inherit the correction.
+  - Also reconciled a second research note found by grep: [[research/experimental-consciousness-science-2025-2026-2026-03-26]] (same mis-cite + UCSB URL; added DOI + guardrail).
+  - Updated `ai_modified` on all 7 touched files.
+- **Grep-confirmed**: zero residual "Miller, M. et al. (2025)" body/reference cites, zero press-release-headline-as-title, zero UCSB-news-URL cites across topics/, concepts/, apex/, research/. Remaining "Even minimal fiber..." strings appear only inside guardrail annotations explicitly flagging it as NOT the title.
+- **Published**: yes
+
 ## 2026-05-26T16:30:00+00:00 - deep-review
 - **Status**: Success
 - **File**: [[topics/split-brain-consciousness]]

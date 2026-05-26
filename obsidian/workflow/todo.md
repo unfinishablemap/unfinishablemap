@@ -58,13 +58,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: refine-draft (incidental finding)
 - **Generated**: 2026-05-26
 
-### P2: Propagate corrected Santander et al. (2025) PNAS citation across the split-brain cluster
-- **Type**: refine-draft
-- **Status**: pending
-- **Notes**: Discovered during the 2026-05-26 deep review of `topics/split-brain-consciousness.md`. The 2025 PNAS minimal-callosal-fibers study is mis-cited across the corpus as "Miller, M. et al. (2025). Even minimal fiber connections can unify consciousness. *PNAS*." Web-verified primary source (PubMed 41118210; doi 10.1073/pnas.2520190122): first author is **Tyler Santander** (NOT Miller — Miller is the *senior/last* author; M.S. Gazzaniga is a co-author), the real title is **"Full interhemispheric integration sustained by a fraction of posterior callosal fibers"** *PNAS* **122(43), e2520190122**, published **October 28, 2025** (epub Oct 21) — NOT "November 2025". The press-release headline ("Even minimal fiber connections can unify consciousness") was used as the paper title, and several files use the UCSB news URL in place of the DOI. `topics/split-brain-consciousness.md` is now FIXED (reference + body date + an internal "2025 layered model" mislabel). Propagate the correct citation to: `topics/personal-identity.md` (lines ~140, ~257), `topics/neurological-dissociations-as-interface-architecture.md` (lines ~116, ~225), `topics/experimental-consciousness-science-2025-2026.md` (line ~127), `apex/identity-across-transformations.md` (line ~200), `concepts/substrate-independence.md` (line ~234), and the source research note `research/split-brain-consciousness-unity-2026-01-14.md` (line ~42; also has author-affiliation errors — Gazzaniga/Miller are UCSB, Sporns is Indiana, Volz is Cologne). Citation metadata only — the body substance (250M axons; ~1cm/minimal posterior fibers sustain full integration; rerouting across remaining ribbon) is accurate everywhere. Corpus-split tell: defect originated in the research note and propagated outward. See [[reviews/deep-review-2026-05-26-split-brain-consciousness]].
-- **Source**: deep-review (2026-05-26)
-- **Generated**: 2026-05-26
-
 ### P2: Install conscious-vs-unconscious-processing ↔ visual-consciousness reciprocal cross-link
 - **Type**: refine-draft
 - **Status**: pending
@@ -3735,6 +3728,10 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 Tasks that failed 3+ times and require human intervention.
 
+
+### ✓ 2026-05-26: Propagate corrected Santander et al. (2025) PNAS citation across the split-brain cluster
+- **Type**: refine-draft
+- **Notes**: Discovered during the 2026-05-26 deep review of `topics/split-brain-consciousness.md`. The 2025 PNAS minimal-callosal-fibers study is mis-cited across the corpus as "Miller, M. et al. (2025). Even minimal fiber connections can unify consciousness. *PNAS*." Web-verified primary source (PubMed 41118210; doi 10.1073/pnas.2520190122): first author is **Tyler Santander** (NOT Miller — Miller is the *senior/last* author; M.S. Gazzaniga is a co-author), the real title is **"Full interhemispheric integration sustained by a fraction of posterior callosal fibers"** *PNAS* **122(43), e2520190122**, published **October 28, 2025** (epub Oct 21) — NOT "November 2025". The press-release headline ("Even minimal fiber connections can unify consciousness") was used as the paper title, and several files use the UCSB news URL in place of the DOI. `topics/split-brain-consciousness.md` is now FIXED (reference + body date + an internal "2025 layered model" mislabel). Propagate the correct citation to: `topics/personal-identity.md` (lines ~140, ~257), `topics/neurological-dissociations-as-interface-architecture.md` (lines ~116, ~225), `topics/experimental-consciousness-science-2025-2026.md` (line ~127), `apex/identity-across-transformations.md` (line ~200), `concepts/substrate-independence.md` (line ~234), and the source research note `research/split-brain-consciousness-unity-2026-01-14.md` (line ~42; also has author-affiliation errors — Gazzaniga/Miller are UCSB, Sporns is Indiana, Volz is Cologne). Citation metadata only — the body substance (250M axons; ~1cm/minimal posterior fibers sustain full integration; rerouting across remaining ribbon) is accurate everywhere. Corpus-split tell: defect originated in the research note and propagated outward. See [[reviews/deep-review-2026-05-26-split-brain-consciousness]].
 
 ### ✓ 2026-05-26: Install quantum-neural-timing-constraints ↔ neural-refresh-rates reciprocal cross-link
 - **Type**: refine-draft

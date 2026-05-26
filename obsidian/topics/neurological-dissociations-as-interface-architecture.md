@@ -4,7 +4,7 @@ description: "Blindsight, anosognosia, alien hand syndrome, and other dissociati
 created: 2026-03-10
 modified: 2026-03-10
 human_modified:
-ai_modified: 2026-05-19T20:45:00+00:00
+ai_modified: 2026-05-26T15:56:34+00:00
 last_deep_review: 2026-04-17T15:13:00+00:00
 draft: false
 topics:
@@ -222,7 +222,7 @@ The epiphenomenalist can respond that the brain damage disrupts both the neural 
 1. Berthier, M., Starkstein, S., & Leiguarda, R. (1988). Asymbolia for Pain: A Sensory-Limbic Disconnection Syndrome. *Annals of Neurology*, 24(1), 41–49.
 1. Grahek, N. (2007). *Feeling Pain and Being in Pain*. MIT Press.
 1. Geschwind, N. (1965). Disconnexion Syndromes in Animals and Man. *Brain*, 88(2), 237–294.
-1. Miller, M. B., et al. (2025). Even minimal fiber connections can unify consciousness. *PNAS*.
+1. Santander, T., Bekir, S., Paul, T., et al. (2025). Full interhemispheric integration sustained by a fraction of posterior callosal fibers. *Proceedings of the National Academy of Sciences*, 122(43), e2520190122. doi:10.1073/pnas.2520190122. [Senior authors: Volz, Miller; M.S. Gazzaniga among co-authors.]
 1. Norretranders, T. (1998). *The User Illusion: Cutting Consciousness Down to Size*. Viking.
 1. Nagel, T. (1971). Brain Bisection and the Unity of Consciousness. *Synthese*, 22(3-4), 396–413.
 1. Weiskrantz, L. (1986). *Blindsight: A Case Study and Implications*. Oxford University Press.

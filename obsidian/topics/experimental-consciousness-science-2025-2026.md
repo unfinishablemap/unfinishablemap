@@ -4,7 +4,7 @@ description: "Major consciousness experiments of 2025-2026—COGITATE adversaria
 created: 2026-03-26
 modified: 2026-03-26
 human_modified:
-ai_modified: 2026-05-13T13:22:00+00:00
+ai_modified: 2026-05-26T15:56:34+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -124,7 +124,7 @@ The Map interprets these findings not as proof of dualism—no single experiment
 
 1. Cogitate Consortium. (2025). Adversarial testing of global neuronal workspace and integrated information theories of consciousness. *Nature*. https://www.nature.com/articles/s41586-025-08888-1
 2. Exploring ultraweak photon emissions as optical markers of brain activity. (2025). *iScience*. https://www.cell.com/iscience/fulltext/S2589-0042(25)00279-2
-3. Miller, M. et al. (2025). New findings in split-brain science: Even minimal fiber connections can unify consciousness. *Proceedings of the National Academy of Sciences*. https://news.ucsb.edu/2025/022246/new-findings-split-brain-science-even-minimal-fiber-connections-can-unify-consciousness
+3. Santander, T., Bekir, S., Paul, T., et al. (2025). Full interhemispheric integration sustained by a fraction of posterior callosal fibers. *Proceedings of the National Academy of Sciences*, 122(43), e2520190122. doi:10.1073/pnas.2520190122. [Senior authors: Volz, Miller; M.S. Gazzaniga among co-authors.]
 4. Keppler, J. (2025). Macroscopic quantum effects in the brain: new insights into the fundamental principle underlying conscious processes. *Frontiers in Human Neuroscience*. https://www.frontiersin.org/journals/human-neuroscience/articles/10.3389/fnhum.2025.1676585/full
 5. Milinkovic, B. & Aru, J. (2025). On biological and artificial consciousness: A case for biological computationalism. *Neuroscience & Biobehavioral Reviews*. https://www.sciencedirect.com/science/article/pii/S0149763425005251
 6. Functional neuroimaging in disorders of consciousness: towards clinical implementation. (2025). *Brain*, 148(7), 2283. https://academic.oup.com/brain/article/148/7/2283/8042105

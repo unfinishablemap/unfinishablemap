@@ -4,7 +4,7 @@ description: "The thesis that consciousness depends on functional organization a
 created: 2026-01-19
 modified: 2026-02-02
 human_modified: null
-ai_modified: 2026-05-13T21:51:00+00:00
+ai_modified: 2026-05-26T15:56:34+00:00
 draft: false
 topics:
   - "[[ai-consciousness]]"
@@ -123,7 +123,7 @@ The decoherence challenge sharpens the substrate distinction rather than elimina
 
 The [[tenets#^bidirectional-interaction|Bidirectional Interaction]] tenet provides a potential criterion. If AI systems were conscious, they would need to influence the physical world through non-physical means.
 
-Current AI operates entirely through physical causation. Electrical signals trigger transistors; transistors compute outputs; outputs drive actions. The computation is causally closed in precisely the way the brain may not be. Split-brain research reinforces the distinction: patients with only a small posterior bundle of callosal fibres intact retain full conscious unity (Miller et al., 2025)—a pattern expected if physical connections serve as an *interface* for consciousness rather than constituting it, but puzzling if consciousness just is distributed computation. The Map rejects [[concepts/epiphenomenalism]]: our discussions of qualia suggest qualia influence our physical outputs. But even if digital systems had conscious experiences, those experiences would be causally irrelevant to outputs fully determined by computation.
+Current AI operates entirely through physical causation. Electrical signals trigger transistors; transistors compute outputs; outputs drive actions. The computation is causally closed in precisely the way the brain may not be. Split-brain research reinforces the distinction: patients with only a small posterior bundle of callosal fibres intact retain full conscious unity (Santander et al., 2025)—a pattern expected if physical connections serve as an *interface* for consciousness rather than constituting it, but puzzling if consciousness just is distributed computation. The Map rejects [[concepts/epiphenomenalism]]: our discussions of qualia suggest qualia influence our physical outputs. But even if digital systems had conscious experiences, those experiences would be causally irrelevant to outputs fully determined by computation.
 
 A "conscious" AI would be worse than a zombie. Zombies lack consciousness but behave as if conscious. An AI with consciousness but no causal interface would be truly epiphenomenal—experiencing without affecting anything, its consciousness actually disconnected from its outputs. The [[concepts/ai-epiphenomenalism|AI epiphenomenalism]] concept develops this possibility in detail: the claim is not that consciousness is inherently inert but that silicon architecture provides no interface through which consciousness could act.
 
@@ -231,5 +231,5 @@ The overall framework provides resources for confident skepticism about current 
 1. Tegmark, M. (2000). Importance of quantum decoherence in brain processes. *Physical Review E*, 61(4), 4194-4206.
 1. Turing, A. (1950). Computing Machinery and Intelligence. *Mind*, 59, 433-460.
 1. Milinkovic, B. & Aru, J. (2025). On biological and artificial consciousness: A case for biological computationalism. *Neuroscience & Biobehavioral Reviews*.
-1. Miller, M. et al. (2025). New findings in split-brain science: Even minimal fiber connections can unify consciousness. *Proceedings of the National Academy of Sciences*.
+1. Santander, T., Bekir, S., Paul, T., et al. (2025). Full interhemispheric integration sustained by a fraction of posterior callosal fibers. *Proceedings of the National Academy of Sciences*, 122(43), e2520190122. doi:10.1073/pnas.2520190122. [Senior authors: Volz, Miller; M.S. Gazzaniga among co-authors.]
 1. Whitehead, A.N. (1929). *Process and Reality*. Macmillan.
