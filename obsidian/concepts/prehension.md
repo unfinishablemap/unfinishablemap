@@ -4,7 +4,7 @@ description: "Whitehead's concept of how each moment of reality grasps its prede
 created: 2026-02-09
 modified: 2026-02-09
 human_modified:
-ai_modified: 2026-03-29T02:36:00+00:00
+ai_modified: 2026-05-26T11:44:56+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -23,7 +23,7 @@ author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-02-09
 last_curated:
-last_deep_review: 2026-03-29T02:36:00+00:00
+last_deep_review: 2026-05-26T11:44:56+00:00
 ---
 
 Prehension is Alfred North Whitehead's term for the fundamental relation by which each moment of reality grasps, includes, or takes account of what came before. In Whitehead's [[process-philosophy|process philosophy]], reality consists of "actual occasions"—momentary events of experience that perish and give rise to successors. Prehension is how these occasions relate: each new occasion prehends (from the Latin *prehendere*, to grasp) its predecessors, incorporating them into its own constitution. The past doesn't push events from behind; events actively integrate the past into novel unities.
@@ -104,7 +104,7 @@ Prehension intersects with the Map's framework in several ways, though the Map d
 
 **[[tenets#^no-many-worlds|No Many Worlds]]**: Prehension's asymmetric structure—occasions prehend their settled past, not branching alternatives—presupposes definite outcomes. If all branches existed equally, prehensive intimacy would be replicated across uncountably many streams, undermining the personal identity it constitutes.
 
-**[[tenets#^occams-razor|Occam's Razor Has Limits]]**: Prehension's metaphysical vocabulary—actual occasions, concrescence, subjective aim—invites the Occam's objection that simpler causal language suffices. But if consciousness genuinely involves active synthesis rather than passive causal transmission, the additional structure is not ornamental. Simplicity is a virtue only when the simpler account captures the phenomenon; if it doesn't, parsimony becomes a reason to ignore what needs explaining.
+**[[tenets#^occams-limits|Occam's Razor Has Limits]]**: Prehension's metaphysical vocabulary—actual occasions, concrescence, subjective aim—invites the Occam's objection that simpler causal language suffices. But if consciousness genuinely involves active synthesis rather than passive causal transmission, the additional structure is not ornamental. Simplicity is a virtue only when the simpler account captures the phenomenon; if it doesn't, parsimony becomes a reason to ignore what needs explaining.
 
 ## Further Reading
 

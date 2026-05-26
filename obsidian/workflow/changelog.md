@@ -1,9 +1,21 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-26T12:00:00+00:00
+ai_modified: 2026-05-26T11:44:56+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-05-26T11:44:56+00:00 - deep-review
+- **Status**: Success
+- **File**: [[concepts/prehension]]
+- **Word count**: 1727 → 1727 (no change; 69% of 2500 soft target — well within range)
+- **Critical issues addressed**: 1 (stale tenet anchor `[[tenets#^occams-razor]]` → `[[tenets#^occams-limits]]`; the renamed-anchor was confirmed absent in tenets.md)
+- **Medium issues addressed**: 0 (none found)
+- **Enhancements made**: 0 (article stable after 3 reviews; content unchanged)
+- **Citation web-verification**: All 5 reference author surnames checked — Griffin (David Ray Griffin, 1998 UC Press) and Rescher (Nicholas Rescher, 1996 SUNY Press) web-verified; Whitehead ×2 and Stapp canonical. No fabricated surnames, no metadata conflation this run.
+- **Calibration**: concrescence/collapse parallel correctly hedged as Map speculation; panpsychism engagement fair (no overclaiming dualism over Whitehead). No possibility/probability slippage.
+- **Reasoning-mode**: no named-opponent replies requiring classification (Criticisms engages persona families generically, all bedrock framework-boundary disagreements per prior reviews).
+- **Output**: [[reviews/deep-review-2026-05-26-prehension]]
 
 ## 2026-05-26T11:35:42+00:00 - refine-draft
 - **Status**: Success
