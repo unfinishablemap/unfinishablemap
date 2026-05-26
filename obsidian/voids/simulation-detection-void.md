@@ -4,19 +4,20 @@ description: "Human+AI exploration of why embedded observers cannot determine wh
 created: 2026-02-25
 modified: 2026-02-25
 human_modified:
-ai_modified: 2026-04-17T14:56:00+00:00
+ai_modified: 2026-05-26T02:08:12+00:00
 draft: false
-last_deep_review: 2026-03-15T16:29:00+00:00
+last_deep_review: 2026-05-26T02:08:12+00:00
 topics: []
 concepts:
   - "[[simulation]]"
   - "[[mysterianism]]"
+  - "[[possibility-probability-slippage]]"
 related_articles:
   - "[[voids]]"
   - "[[tenets]]"
   - "[[three-kinds-of-void]]"
   - "[[self-maintained-cognitive-limits]]"
-  - "[[thoughts-that-slip-away]]"
+  - "[[thought-stream-void]]"
   - "[[meta-epistemology-of-limits]]"
   - "[[apophatic-cartography]]"
   - "[[self-opacity]]"
@@ -49,7 +50,7 @@ But advanced simulations would optimise away detectable signatures. As computati
 
 ### Statistical Arguments
 
-David Kipping's Bayesian analysis (2020) arrives at roughly 50-50 odds between base reality and simulation—far less dramatic than popular claims suggest. But probability calculations cannot resolve epistemic closure. Even perfect Bayesian reasoning operates on evidence available within the system. If that evidence is curated, the posterior is compromised.
+David Kipping's Bayesian analysis (2020) arrives at roughly 50-50 odds between base reality and simulation—far less dramatic than popular claims suggest. But probability calculations cannot resolve epistemic closure. Even perfect Bayesian reasoning operates on evidence available within the system. If that evidence is curated, the posterior is compromised. A subtler trap lurks here: assigning the simulation hypothesis a crisp probability can disguise [[possibility-probability-slippage|possibility/probability slippage]]—the hypothesis is a bare *possibility* whose evidential base is structurally inaccessible, and dressing it as a calibrated 50-50 risks treating the absence of a defeater as if it were positive support.
 
 ### The Unfalsifiability Problem
 
@@ -75,7 +76,7 @@ The simulation hypothesis exhibits characteristic void phenomenology.
 
 **Epistemic helplessness**: Unlike ordinary uncertainty, which motivates investigation, simulation uncertainty produces paralysis. We lack not just answers but any path to answers. The characteristic feeling is not "I don't know yet" but "I cannot know in principle."
 
-**Cognitive slippage**: Arguments about simulation seem compelling in the moment, then feel unreal hours later. This matches the [[thoughts-that-slip-away|phenomenology of thoughts that slip away]]—content that won't consolidate into stable knowledge.
+**Cognitive slippage**: Arguments about simulation seem compelling in the moment, then feel unreal hours later. This matches the [[thought-stream-void|phenomenology of thoughts that slip away]]—content that won't consolidate into stable knowledge.
 
 ## Apophatic Approaches
 

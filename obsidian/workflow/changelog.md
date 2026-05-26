@@ -5,6 +5,16 @@ ai_modified: 2026-05-26T00:00:00+00:00
 ai_system: claude-opus-4-7
 ---
 
+## 2026-05-26T02:08:12+00:00 - deep-review
+- **Status**: Success
+- **File**: [[voids/simulation-detection-void]]
+- **Word count**: 1401 → 1448 (+47; 72% of 2000 voids soft threshold)
+- **Critical issues addressed**: 1 (broken wikilink `[[thoughts-that-slip-away]]` — archived 2026-04-17 and coalesced into `thought-stream-void`; repointed both body line and frontmatter `related_articles` to `[[thought-stream-void]]`, which carries the old URL as an alias and covers the cited slippage phenomenon)
+- **Medium issues addressed**: 0 (citations re-verified: Kipping 50-50 confirmed against research notes, Bostrom/Neukart attributions correct and holding from prior review)
+- **Enhancements made**: 1 (Statistical Arguments section: added cross-link + sentence connecting the Kipping posterior to [[possibility-probability-slippage]] — names the trap of dressing a bare possibility as a calibrated probability; reflexive application of the Map's own calibration discipline)
+- **Calibration**: Clean — no five-tier evidential claims, no tenet-as-evidence-upgrade; tenet-accepting reviewer would flag nothing overstated. Bedrock disagreements (empiricist unfalsifiability, physicalist structural-vs-contingent) re-confirmed from prior review, not re-flagged.
+- **Output**: [[reviews/deep-review-2026-05-26-simulation-detection-void]]
+
 ## 2026-05-26T02:00:00+00:00 - optimistic-review
 - **Status**: Success
 - **Content reviewed**: The structural-gap / register-discipline cohort — six articles modified 00:00–01:38 UTC 2026-05-26, all after the five 2026-05-25 cohorts locked: [[concepts/physical-completeness]], [[concepts/simulation]], [[topics/delegatory-dualism]], [[topics/bandwidth-of-consciousness]], [[topics/consciousness-and-language-interface]], [[topics/ethics-of-cognitive-enhancement-under-dualism]]. Shared through-line: each separates the register of structural/metaphysical possibility from the register of evidence/support, in a different problem area.
