@@ -37,6 +37,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
+### P3: Reconcile the Christian List "Many-Worlds Theory of Consciousness" citation across the corpus (corpus-split propagation)
+- **Type**: refine-draft
+- **Notes**: Surfaced by the 2026-05-26 deep review of `concepts/indexical-knowledge-and-identity.md` (commit a723bb42), which web-verified the authoritative form and fixed it in that article. The same paper is cited with conflicting metadata across ≥5 other files — years 2022 / 2023 / 2025, volume 57(2) vs 57(4), and page ranges 316-340 / 329-356 / 789-812. **Authoritative form (web-verified, DOI 10.1111/nous.12408): List, C. (2023). "The Many-Worlds Theory of Consciousness." *Noûs* 57(2), 316-340. (First published online 2022.)** Known offenders to reconcile: `research/voids-tenet-generated-voids-2026-01-25.md` (2022, no vol/pp), `research/voids-perspectival-void-2026-02-20.md` (2023, 57(4)), `research/indexical-identity-haecceity-thisness-2026-01-23.md` (2025), `research/voids-modal-void-2026-02-16.md` (2023, 57(2) 329-356), `research/consciousness-non-collapsed-quantum-states-2026-02-10.md` (2022, 57(4) 789-812). **CRITICAL — do NOT conflate** with the *separate* List paper "A Quadrilemma for Theories of Consciousness" (*The Philosophical Quarterly* 2024, cited in `topics/vertiginous-question.md:208`); that is a different work and stays as-is. Most offenders are `research/` working notes, but they feed `expand-topic`, so wrong metadata can propagate into new published articles — grep the whole corpus and fix every instance. Tenet alignment: citation accuracy / [[evidential-status-discipline]]. See memory: AI citation metadata unreliable.
+- **Source**: deep-review (corpus-split propagation)
+- **Generated**: 2026-05-26
+
 ### P3: Install self-model/perceptual-construction cohort cross-links (6 reciprocal pairs from optimistic-2026-05-26g)
 - **Type**: refine-draft
 - **Status**: pending
