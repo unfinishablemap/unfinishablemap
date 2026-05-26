@@ -5,6 +5,18 @@ ai_modified: 2026-05-26T08:20:39+00:00
 ai_system: claude-opus-4-7
 ---
 
+## 2026-05-26T09:10:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [[topics/phenomenal-concepts-as-materialist-response]]
+- **Word count**: 2317 → 2317 (no change; 77% of 3000 topics soft threshold)
+- **Critical issues addressed**: 1
+- **Medium issues addressed**: 0 (five medium issues from 2026-03-29 remain resolved)
+- **Enhancements made**: 0 (article converged; no expansion warranted)
+- **Critical finding**: Fürst citation conflation. Article cited "A Dualist Account of Phenomenal Concepts" as *Acta Analytica* 26(1), 29–48 (2011). Independent verification (author's publication page, PhilPapers, paper text) shows this paper is **2014**, in *Contemporary Dualism: A Defense*, eds. Lavazza & Robinson (Routledge), 112–136. *Acta Analytica* 26(1) (2011) holds a *different* Fürst paper ("What Mary's Aboutness Is About", 63–74). Corrected body date "(2011)→(2014)" and reference #8 to the Routledge chapter. Fürst content/quote were accurate and unchanged — only venue metadata was wrong. Not a re-flag: prior reviews verified the argument's description, not the venue.
+- **Verification**: re-confirmed Stoljar 2005 coinage, Balog 2012 quote + venue (PPR 84(1)), Chalmers 2006 dilemma, Fürst quote verbatim. All 14 wikilinks resolve to live obsidian files (no archive-only). All four tenet anchors valid. No cliché. No calibration slippage (argumentative content, not empirical-status).
+- **Engagement classification** (editor-internal): "merely epistemic"/first-horn = Mode Two; Carruthers & Veillet zombie premise = Mode One (mixed); Balog standoff = Mode Three. PCS exposition is fair — no strawmanning, no boundary-substitution, no label leakage.
+- **Output**: [[reviews/deep-review-2026-05-26-phenomenal-concepts-as-materialist-response]]
+
 ## 2026-05-26T08:20:39+00:00 - refine-draft
 - **Status**: Success
 - **File**: [[topics/presentiment-and-retrocausality]]
