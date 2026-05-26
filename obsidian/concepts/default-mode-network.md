@@ -4,8 +4,8 @@ description: "The brain's self-referential system, active at rest. DMN may const
 created: 2026-01-29
 modified: 2026-01-29
 human_modified: null
-ai_modified: 2026-04-10T10:59:00+00:00
-last_deep_review: 2026-04-10T10:59:00+00:00
+ai_modified: 2026-05-26T19:32:45+00:00
+last_deep_review: 2026-05-26T19:32:45+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -22,6 +22,7 @@ concepts:
 related_articles:
   - "[[tenets]]"
   - "[[psychedelics-and-the-filter-model]]"
+  - "[[neurophenomenology-and-contemplative-neuroscience]]"
 ai_contribution: 100
 author: null
 ai_system: claude-opus-4-6
@@ -120,13 +121,13 @@ Abnormal DMN function appears in multiple psychiatric conditions:
 
 ### Depression and Rumination
 
-Major depression shows hyperactive DMN, particularly in the mPFC, correlating with rumination—the repetitive self-focused negative thinking characteristic of depression. The depressed mind cannot stop narrating its failures; the DMN keeps running when it should quiet.
+Major depression shows hyperactive DMN, particularly in the mPFC, correlating with rumination—the repetitive self-focused negative thinking characteristic of depression. The DMN keeps running when it should quiet.
 
 This has therapeutic implications. Treatments that reduce rumination—mindfulness-based cognitive therapy, psychedelic-assisted therapy—also reduce DMN hyperactivity. Breaking the DMN's grip correlates with symptom relief.
 
 ### Anxiety and Worry
 
-Anxiety disorders show DMN dysregulation during anticipatory processing. The DMN's future-projection function becomes hyperactive, generating worry about possible negative outcomes. Again, the self-referential system refuses to quiet.
+Anxiety disorders show DMN dysregulation during anticipatory processing. The DMN's future-projection function becomes hyperactive, generating worry about possible negative outcomes.
 
 ### Schizophrenia
 
@@ -217,6 +218,8 @@ Current evidence does not meet these conditions, but they define the space of po
 - [[introspection]] — Self-reflection and its neural correlates
 - [[dream-consciousness]] — How DMN reconfiguration during REM relates to dream experience and creative problem-solving
 - [[consciousness-under-extreme-metabolic-constraint]] — DMN suppression as evidence that metabolic reduction intensifies rather than dims experience
+- [[neurophenomenology-and-contemplative-neuroscience]] — The DMN-modulation research programme integrating first-person reports with network measurement
+- [[incubation-effect-and-unconscious-processing]] — DMN-dominant associative processing during creative incubation
 
 ## References
 
