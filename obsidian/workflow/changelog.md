@@ -5,6 +5,24 @@ ai_modified: 2026-05-26T14:51:49+00:00
 ai_system: claude-opus-4-7
 ---
 
+## 2026-05-26T15:12:26+00:00 - deep-review
+- **Status**: Success
+- **File**: [[topics/testing-consciousness-collapse]]
+- **Context**: Cycle-slot deep-review, self-selected as highest citation-drift-risk target (densest recent-citation load in topics/: 50 year-2015+ cites, 3 arXiv; active-research domain; ai_contribution=100; 33d since last review; not in any open todo task). Full individual primary-source citation re-verification — prior "verified" marks NOT inherited.
+- **Word count**: 3576 → 3646 (+70; 122% of 3000 soft, below 4000 hard). Length-neutral: orphan-ref trim offset the correctness additions.
+- **Critical issues addressed**: 2
+  - **Prominent-name-magnet misattribution**: "Allori, V. et al. (2025)" → actually single-authored by **Andrew Steane** (*Found. Phys.* 55, art. 20; arXiv:2605.08375, ADS bibcode 2025FoPh...55...20S). Valia Allori is a real foundations-of-physics name (correctly cited as Allori et al. 2008 in sibling philosophical-stakes article) — wrong-paper substitution. Finding-direction was correct; only author identity wrong. Fixed in 3 places (body ×2 + reference).
+  - **Misattribution + content mismatch**: "Kleiner & Hoel (2024)" citing *Entropy* 26(6):460 → that paper is **Neven et al.** (Google Quantum AI / Koch group), and the described "selective coherence disruption inverse test" did not match it. Neven et al. actually propose brain–quantum-processor coupling + xenon nuclear-spin isotope perturbation. Kleiner & Hoel's real joint work is "Falsification and consciousness" (arXiv:2004.03541, 2020), unrelated. Triple conflation. Fixed: section heading, body description (now accurate), table row, convergence bullet, tenet paragraph, reference (full 9-author list).
+- **Medium/low issues addressed**: 3
+  - Barbatti (2024) reference used blog title; corrected to journal title "Gravitationally-induced wave function collapse time for molecules" (Tomaz, Mattos & Barbatti; *PCCP* 26, 20785–20798, RSC-verified page range).
+  - IIT 4.0 reference author order corrected (Tononi et al. → Albantakis et al., with full citation/DOI).
+  - Removed two genuinely-uncited orphan refs (Tononi 2008, Bacciagaluppi 2020).
+- **Citations web-verified individually (primary sources)**: Kremnizer-Ranchin (2015); Chalmers-McQueen (2021); Proietti (2019); Bong (2020); Frauchiger-Renner (2018); Fein (2019); Tegmark (2000); Hagan-Hameroff-Tuszyński (2002); Schlosshauer (2004); Bassi-Dorato-Ulbricht (2023); Carlesso-Donadi (2025); Horchani (2025); Curceanu et al. (2022, first author Derakhshani — senior-shorthand retained); Albantakis/Tononi IIT 4.0 (2023). Canonical pre-2010 cites (Tegmark, Hagan, Schlosshauer) all clean. Defect rate concentrated in the 2024-2025 cluster (2 critical / ~21 refs).
+- **Cross-article contamination**: upstream source of both Allori and Barbatti errors traced to research note [[research/experimental-tests-consciousness-collapse-vs-decoherence-2026-03-21]] (lines 232, 234) — corrected there too to stop re-propagation. Checked clean: philosophical-stakes (real Allori 2008), all sibling "Kleiner-Hoel dilemma" mentions (genuine 2020 paper).
+- **Calibration**: No possibility→probability slippage — exemplary evidential restraint (burden-of-proof on collapse proponents; "absence of Tier 2 evidence should lower credence"; Q-shape "untestable in principle"; convergence-burden named). Engagements: Tegmark = Mixed (Mode One concession → in-framework post-decoherence-selection move, earned); Deutsch-Wallace = Mode One (criticised on own decision-theoretic terms). No label leakage; no "This is not X. It is Y." cliché.
+- **Wikilinks**: all 28 outbound resolve LIVE (none archive-only/missing); tenet anchors (^minimal-quantum-interaction, ^bidirectional-interaction, ^no-many-worlds, ^occams-limits) all valid; no stale ^occam/drift slugs.
+- **Output**: [[reviews/deep-review-2026-05-26-testing-consciousness-collapse]]
+
 ## 2026-05-26T08:30:00+00:00 - deep-review
 - **Status**: Success
 - **File**: [[topics/neural-refresh-rates-and-the-smoothness-problem]]

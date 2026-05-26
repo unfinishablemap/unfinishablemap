@@ -229,6 +229,6 @@ When writing any article, follow `obsidian/project/writing-style.md` for:
 - Carlesso, M. & Donadi, S. (2025). "Spontaneous Collapse Models." arXiv:2508.18822. https://arxiv.org/abs/2508.18822
 - Stanford Encyclopedia of Philosophy. "The Role of Decoherence in Quantum Mechanics." https://plato.stanford.edu/entries/qm-decoherence/
 - Stanford Encyclopedia of Philosophy. "Collapse Theories." https://plato.stanford.edu/entries/qm-collapse/
-- Barbatti, M. (2024). "Gravity Induced Wave-Function Collapse." *Physical Chemistry Chemical Physics*. https://pubs.rsc.org/en/content/articlelanding/2024/cp/d4cp02364a
+- Tomaz, A.A., Mattos, R.S. & Barbatti, M. (2024). "Gravitationally-induced wave function collapse time for molecules." *Physical Chemistry Chemical Physics*, 26, 20785–20798. https://pubs.rsc.org/en/content/articlelanding/2024/cp/d4cp02364a
 - Adler, S.L. (2007). "Lower and upper bounds on CSL parameters from latent image formation and IGM heating." *Journal of Physics A*.
-- Allori, V. et al. (2025). "The Extended Wigner's Friend, Many-and Single-Worlds and Reasoning from Observation." *Foundations of Physics*. https://link.springer.com/article/10.1007/s10701-025-00831-8
+- Steane, A.M. (2025). "The Extended Wigner's Friend, Many- and Single-Worlds and Reasoning from Observation." *Foundations of Physics*, 55, 20. https://link.springer.com/article/10.1007/s10701-025-00831-8
