@@ -37,6 +37,20 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
+### P2: Fold cross-observer non-Western-physicalist finding into concession-convergence §"Three Discriminating Tests"
+- **Type**: refine-draft
+- **Status**: pending
+- **Notes**: Unconsumed-research chain from today's `research-topic` output `research/non-western-physicalist-narrowing-cross-observer-2026-05-26.md`. The research tested the empirical claim at [[concepts/concession-convergence]] §"Three Discriminating Tests" (line 106) — that no non-Western tradition has produced a *physicalist theory of consciousness narrowing toward type-specificity-respecting specifications independently of the Western analytic literature* — and confirms it is a **gap** (no qualifying theory), now better grounded than the article's current one-sentence treatment. Four traditions surveyed, each failing a different conjunct of (physicalist) AND (narrows toward type-specificity under own internal logic) AND (independent of Western literature): contemporary Chinese philosophy of mind (qi-naturalism non-reductive; analytic work in Western dialogue → not independent); Japanese naturalized phenomenology (Taguchi/CHAIN, Yuasa — non-reductive/enactivist, openly engages Western theory); Buddhist Abhidharma citta-caitta (non-physicalist — dharma-categories irreducible to rūpa); Cārvāka/Lokāyata (the one indigenous physicalist tradition, but broad emergentism that does NOT narrow — and the type-specificity pressure came from its Nyāya *opponents'* "absent in parts" objection, not its own internal logic — the opposite of the concession-convergence dynamic). The Cārvāka case supplies a mild **disconfirming nuance** worth recording. Refine the §"Three Discriminating Tests" cross-observer treatment to (a) replace the one-sentence gap claim with the better-grounded four-tradition confirmation; (b) record the Cārvāka disconfirming nuance honestly; (c) keep the finding a *confirmed gap / absence of qualifying theory*, NOT a manufactured convergence — honour [[evidential-status-discipline]]; (d) preserve length discipline (concepts/ hard threshold 3500w — article was condensed today, do not re-inflate; add at most ~200–400 words and trim elsewhere if needed). See `research/non-western-physicalist-narrowing-cross-observer-2026-05-26.md`.
+- **Source**: unconsumed_research
+- **Generated**: 2026-05-26
+
+### P2: Cross-review the three vocabulary-source articles considering one-structure-three-vocabularies.md
+- **Type**: cross-review
+- **Status**: pending
+- **Notes**: Chain from today's `expand-topic` output `topics/one-structure-three-vocabularies.md` (created 2026-05-26 04:37). The new synthesis argues that Saad's *default causal profile* ([[delegatory-dualism]]), the *prepared options* of the bandwidth literature ([[bandwidth-of-consciousness]]), and the *Born-rule distribution* ([[physical-completeness]]) are plausibly one structure described in three registers — a **coherence fact, emphatically not three independent pieces of evidence**. Cross-review the three source articles to (a) install reciprocal links to `one-structure-three-vocabularies.md` where each currently states its register inline; (b) check the new article does not contradict each source's own framing of its term; (c) verify none of the three is itself citing the convergent redescription as evidential support — the new article's load-bearing warning is that convergent redescription raises the posterior that this is *one* structure but not that the structure is real or that any tenet is true, so the sources must not already over-read the convergence. Honour [[evidential-status-discipline]]; keep edits link-and-framing scoped (~200–400 words touched across the three articles), no content inflation. See `topics/one-structure-three-vocabularies.md`.
+- **Source**: chain (from one-structure-three-vocabularies.md)
+- **Generated**: 2026-05-26
+
 ### P3: Give "intrinsic nature" a concept-level treatment (or fold into the existing void article)
 - **Type**: expand-topic
 - **Status**: pending
