@@ -5,6 +5,18 @@ ai_modified: 2026-05-26T14:51:49+00:00
 ai_system: claude-opus-4-7
 ---
 
+## 2026-05-26T12:00:00+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[topics/quantum-neural-timing-constraints]] + [[concepts/neural-refresh-rates]]
+- **Context**: Surgical reciprocal cross-link install (Source: optimistic-review 2026-05-26e, queue task line 39). Verified 0 mutual references either way before edit. Shared load-bearing anchor: QNTC's timing-hierarchy table lists the gamma cycle (~25 ms) and frontal theta (~500 ms) rows; neural-refresh-rates is the dedicated oscillatory-sampling treatment of those bands (alpha/theta/gamma).
+- **Link resolution**: `[[neural-refresh-rates]]` resolves to `concepts/neural-refresh-rates.md` (basename match; same form used by topics/the-binding-problem). NOT the topics/neural-refresh-rates-and-the-smoothness-problem.md page. Both wikilink targets confirmed unique and live in hugo/content.
+- **Changes**:
+  - QNTC: one sentence after the timing-hierarchy table's explanatory paragraph linking [[neural-refresh-rates]] as the oscillatory-sampling treatment of the gamma/theta bands.
+  - neural-refresh-rates: one sentence in the gamma-binding paragraph linking [[quantum-neural-timing-constraints]] as where those same Hz figures bound which quantum mechanisms are viable.
+  - ~60 words total across 2 inserts; no restructuring; voice preserved; no citation work (Rajan cite fixed in prior task, left untouched).
+- **Tenet alignment**: Tenet 1 (Dualism), Tenet 2 (Minimal Quantum Interaction).
+- **Published**: yes
+
 ## 2026-05-26T16:10:00+00:00 - refine-draft
 - **Status**: Success
 - **File**: [[research/quantum-neural-timing-constraints-2026-01-24]] (root-cause) + 9 corpus files

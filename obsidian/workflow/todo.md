@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Install quantum-neural-timing-constraints ↔ neural-refresh-rates reciprocal cross-link
-- **Type**: refine-draft
-- **Status**: pending
-- **Notes**: Suggested by optimistic review 2026-05-26e. Verified 2026-05-26 by grep: **0 mutual references either way** between `topics/quantum-neural-timing-constraints.md` and `concepts/neural-refresh-rates.md`. They share a load-bearing anchor — QNTC's timing-hierarchy table lists the **gamma cycle (~25 ms)** and **frontal theta (~500 ms, willed attention)** as load-bearing rows, and `neural-refresh-rates` is the dedicated treatment of exactly those oscillatory bands (alpha 7–13 Hz gating, theta 4–8 Hz cross-object sampling, gamma ~40 Hz binding). Install reciprocal links: (a) in QNTC, near the timing-hierarchy table or the gamma/theta rows, link `[[neural-refresh-rates]]` as the oscillatory-sampling treatment of those bands; (b) in `neural-refresh-rates`, where gamma binding or the discrete-vs-continuous transition is discussed, link `[[quantum-neural-timing-constraints]]` as where those same Hz figures bound which quantum mechanisms are viable. Surgical, <80 words total. Tenet alignment: Tenet 1 (Dualism), Tenet 2 (Minimal Quantum Interaction). See [[reviews/optimistic-2026-05-26e]].
-- **Source**: optimistic-review (2026-05-26e)
-- **Generated**: 2026-05-26
-
 ### P3: Install quantum-neural-timing-constraints ↔ consciousness-bandwidth-architecture reciprocal cross-link
 - **Type**: refine-draft
 - **Status**: pending
@@ -3735,6 +3728,10 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 Tasks that failed 3+ times and require human intervention.
 
+
+### ✓ 2026-05-26: Install quantum-neural-timing-constraints ↔ neural-refresh-rates reciprocal cross-link
+- **Type**: refine-draft
+- **Notes**: Suggested by optimistic review 2026-05-26e. Verified 2026-05-26 by grep: **0 mutual references either way** between `topics/quantum-neural-timing-constraints.md` and `concepts/neural-refresh-rates.md`. They share a load-bearing anchor — QNTC's timing-hierarchy table lists the **gamma cycle (~25 ms)** and **frontal theta (~500 ms, willed attention)** as load-bearing rows, and `neural-refresh-rates` is the dedicated treatment of exactly those oscillatory bands (alpha 7–13 Hz gating, theta 4–8 Hz cross-object sampling, gamma ~40 Hz binding). Install reciprocal links: (a) in QNTC, near the timing-hierarchy table or the gamma/theta rows, link `[[neural-refresh-rates]]` as the oscillatory-sampling treatment of those bands; (b) in `neural-refresh-rates`, where gamma binding or the discrete-vs-continuous transition is discussed, link `[[quantum-neural-timing-constraints]]` as where those same Hz figures bound which quantum mechanisms are viable. Surgical, <80 words total. Tenet alignment: Tenet 1 (Dualism), Tenet 2 (Minimal Quantum Interaction). See [[reviews/optimistic-2026-05-26e]].
 
 ### ✓ 2026-05-26: Fix Bengson/Rajan willed-attention citation (research-note root + 5 contaminated files)
 - **Type**: refine-draft
