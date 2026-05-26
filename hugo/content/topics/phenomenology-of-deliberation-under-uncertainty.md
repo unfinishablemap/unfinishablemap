@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-09
-ai_modified: 2026-05-08 20:35:00+00:00
+ai_modified: 2026-05-26 18:46:03+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -22,7 +22,7 @@ description: What it feels like to decide when outcomes are unknowable—the ver
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-04-11 13:56:00+00:00
+last_deep_review: 2026-05-26 18:46:03+00:00
 modified: *id001
 related_articles:
 - '[[authentic-vs-inauthentic-choice]]'

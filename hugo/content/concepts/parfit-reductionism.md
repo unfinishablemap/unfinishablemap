@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-17
-ai_modified: 2026-04-12 20:56:00+00:00
+ai_modified: 2026-05-26 19:28:44+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -13,6 +13,8 @@ concepts:
 - '[[witness-consciousness]]'
 - '[[decoherence]]'
 - '[[buddhism-and-dualism]]'
+- '[[agent-causation]]'
+- '[[indexical-knowledge-and-identity]]'
 created: 2026-01-17
 date: &id001 2026-01-20
 description: 'Parfit claims identity is just pattern continuity with no further fact.
@@ -20,7 +22,7 @@ description: 'Parfit claims identity is just pattern continuity with no further 
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-04-12 11:03:00+00:00
+last_deep_review: 2026-05-26 19:28:44+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -42,7 +44,7 @@ His reductionist answer: personal identity consists in physical and psychologica
 
 Parfit supports this through thought experiments—teletransportation, fission, gradual neural replacement—designed to show identity is less determinate than we assume. If your brain hemispheres are transplanted into two bodies and both are psychologically continuous with you, any answer about which is "you" seems arbitrary. If your neurons are replaced one by one with silicon, no non-arbitrary threshold for identity failure presents itself.
 
-Parfit found his view liberating: if personal identity is less deep than we thought, so is death. The pattern simply ends—"no more distressing than when I am about to lose consciousness in sleep."
+Parfit found his view liberating: if personal identity is less deep than we thought, so is death. The pattern simply ends, and the prospect comes to seem less distressing—more like an ordinary loss of consciousness than the annihilation of a deep self.
 
 ## Why the Map Rejects Parfit
 

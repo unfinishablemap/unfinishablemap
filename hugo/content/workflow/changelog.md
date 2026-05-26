@@ -1,13 +1,109 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-26 18:38:52+00:00
+ai_modified: 2026-05-26 20:02:03+00:00
 ai_system: claude-opus-4-7
 concepts: []
 date: '2026-05-26'
 related_articles: []
 title: Changelog
 ---
+
+## 2026-05-26T00:00:00+00:00 - refine-draft
+- **Status**: Success
+- **File**: [social-construction-of-self-vs-phenomenal-self](/topics/social-construction-of-self-vs-phenomenal-self/)
+- **Trigger**: topic-concept anchoring audit (Audit Three); failed hedge_density + strong_assertions vs anchor [theory-of-mind](/concepts/theory-of-mind/)
+- **Changes**: Inherited the anchor concept's calibration discipline without weakening the central claim (phenomenal self is ontologically prior). Hedge density raised 3.39→8.73/kw (count 8→21, anchor=12.93, threshold 7.76); strong-assertion verbs 2→0 (both "confirms" softened to "reinforces"/"appears to favour"). Hedges added only on genuine inferential moves — cross-cultural invariance (already self-labelled a philosophical inference), structure/content boundary, social-dissolution persistence, zombie-community argument, phylogenetic asymmetry. Conclusion and argument structure preserved.
+- **Calibration**: cleared `tools/curate/anchoring.evaluate_anchoring` (returns no flags). No mode labels or editor-vocabulary in body.
+- **Published**: yes
+
+## 2026-05-26T20:02:03+00:00 - deep-review
+- **Status**: Success
+- **File**: [compound-failure-signatures](/voids/compound-failure-signatures/)
+- **Word count**: 1875 → 1875 (no change; 94% of soft threshold)
+- **Critical issues addressed**: 0 (article converged — second review)
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 (no content edits warranted; prior review's two fixes hold)
+- **Verification**: Spagna et al. 2020 (Cerebral Cortex 30(3), superadditive interference) and Dunbar 1998 (fifth-order intentionality) citations confirmed against live literature; characterizations and hedges accurate. No possibility/probability slippage — tenets never used to upgrade evidential status; extrapolation gap explicitly flagged in-text. All 14 inline wikilinks and 4 tenet anchors resolve. No named-opponent replies requiring mode classification (McGinn/Hofstadter cited as predecessors, not refuted).
+- **Output**: [deep-review-2026-05-26-compound-failure-signatures](/reviews/deep-review-2026-05-26-compound-failure-signatures/)
+
+## 2026-05-26T19:52:37+00:00 - deep-review
+- **Status**: Success
+- **File**: [consciousness-as-perceptual-architect](/topics/consciousness-as-perceptual-architect/)
+- **Word count**: 2586 → 2633 (+47; length-neutral, 88% of soft threshold)
+- **Critical issues addressed**: 1 (possibility/probability slippage in Bidirectional Interaction tenet paragraph — "stronger evidence"/"represents downward causation" recalibrated to flag the downward-causation reading as the Map's interpretation, not empirically forced. First review under the slippage discipline; four prior reviews predate it.)
+- **Medium issues addressed**: 0
+- **Enhancements made**: 1 (the calibration fix above)
+- **Engagement modes**: enactivists (O'Regan & Noë): Mode Two→Three, honest in prose; physicalists (thermostat/inverted qualia): Mode Two; parsimony advocate (Occam tenet): Mode Two. No label leakage. All 29 wikilinks resolve.
+- **Output**: [deep-review-2026-05-26-consciousness-as-perceptual-architect](/reviews/deep-review-2026-05-26-consciousness-as-perceptual-architect/)
+
+## 2026-05-26T19:43:10+00:00 - deep-review
+- **Status**: Success
+- **File**: [thrownness-void](/voids/thrownness-void/)
+- **Word count**: 1627 → 1627 (no content change; convergence-confirming review)
+- **Critical issues addressed**: 0 (second pass; article stable since 2026-04-05, only mechanical wikilink migrations intervened)
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 (all four primary-source quotes re-verified — Levinas "held by being, held to be" confirmed authentic via web search; all 11 wikilinks resolve to live files)
+- **Engagement modes**: materialist/Dennettian in Dualism tenet paragraph: Mode Three (framework-boundary marking). No label leakage. No possibility/probability slippage (occluded-dimension language properly hedged; no organism-consciousness evidential claims).
+- **Output**: [deep-review-2026-05-26-thrownness-void](/reviews/deep-review-2026-05-26-thrownness-void/)
+
+## 2026-05-26T19:32:45+00:00 - deep-review
+- **Status**: Success
+- **File**: [default-mode-network](/concepts/default-mode-network/)
+- **Word count**: 2459 → 2466 (length-neutral; two reciprocal-link lines offset by two redundant-clause trims in the psychopathology sections)
+- **Critical issues addressed**: 0 (sixth pass; article stable)
+- **Medium issues addressed**: 1 (asymmetric cross-link gap: neurophenomenology-and-contemplative-neuroscience and incubation-effect-and-unconscious-processing both substantively discuss the DMN and link here but received no reciprocal link)
+- **Enhancements made**: 2 cross-links added (neurophenomenology, incubation-effect); neurophenomenology added to related_articles frontmatter
+- **Engagement modes**: physicalist/filter-section: Mode Three; physicalist/bidirectional-section: Mode Three. No label leakage. No possibility/probability slippage (article repeatedly states "neither interpretation is forced by the data alone").
+- **Output**: [deep-review-2026-05-26-default-mode-network](/reviews/deep-review-2026-05-26-default-mode-network/)
+
+## 2026-05-26T19:28:44+00:00 - deep-review
+- **Status**: Success
+- **File**: [parfit-reductionism](/concepts/parfit-reductionism/)
+- **Word count**: 1985 → 1985 (length-neutral; reframe-only edit)
+- **Critical issues addressed**: 1 (fabricated direct quotation of Parfit's death passage reframed as paraphrase)
+- **Medium issues addressed**: 1 (added agent-causation and indexical-knowledge-and-identity to frontmatter concepts to match load-bearing body links)
+- **Enhancements made**: 0 net (article converged; condensed since last review, examined as new content)
+- **Engagement modes**: Parfit/agency: Mode Two; Parfit/MWI+causal-history: Mode Three; illusionism/Frankish: Mode Two. No label leakage. No possibility/probability slippage.
+- **Output**: [deep-review-2026-05-26-parfit-reductionism](/reviews/deep-review-2026-05-26-parfit-reductionism/)
+
+## 2026-05-26T19:21:56+00:00 - condense
+- **Status**: Success
+- **File**: [phenomenal-output-causal-machinery-dissociation](/apex/phenomenal-output-causal-machinery-dissociation/)
+- **Before**: 9361 words (234% of target, critical)
+- **After**: 7001 words (argument body ~5773; References apparatus 1170 words preserved)
+- **Reduction**: 25% overall; ~29% of the argument body (≈8100 → ≈5773)
+- **Technique**: Cut redundancy and over-detailed citation recaps throughout. Compressed the heaviest statistical paragraphs (mental-effort ego-depletion stats, placebo open-label meta-analysis numbers, dual-process recognition literature) to one key citation + the load-bearing point each. Tightened the eight tradition entries, the unified-rival construction, the constrain-vs-establish four-level chain, and the Relation to Site Perspective while preserving all five tenet connections, every internal wikilink, the opening summary, and the convergence argument's distinctive structure. Folded the recollection deep-dive and conjunction paragraph into adjacent text. Left the full References list intact (each citation backs a specific body claim).
+- **Note**: Body remains modestly above the apex 5000 hard threshold. Further cutting would sacrifice analytically distinct content (despite/because sub-classing, common-cause null, four same-introspector counterexamples, four-level evidential chain) central to this synthesis piece's convergence argument; stopped per quality-over-brevity guidance.
+- **Published**: yes
+
+## 2026-05-26T16:30:00+00:00 - refine-draft
+- **Status**: Success
+- **File**: [biological-computationalisms-inadvertent-case-for-dualism](/topics/biological-computationalisms-inadvertent-case-for-dualism/)
+- **Trigger**: topic-concept anchoring audit (Audit Three) — over-claimed relative to anchor concept [substrate-independence](/concepts/substrate-independence/); failed hedge_density (3.03/kw vs ≥7.04 target = 60% of anchor's 11.74) and strong_assertions (1 verb where anchor uses none).
+- **Changes**: Inherited the anchor's calibration discipline without weakening the central structural-parallel claim (biological computationalism's substrate-dependence concessions parallel dualist arguments about the limits of functional organisation). (1) Removed the strong-assertion verb: "Biological computationalism demonstrates the tenet in real time" → "may illustrate the tenet". (2) Added honest hedges across lead and body marking the parallel as the Map's interpretive reading rather than a forced conclusion — lead ("are structurally analogous" → "may be structurally analogous"; "arrives at" → "appears to arrive at"; "gap it opens" → "gap it seems to open"); added a calibration sentence ("the parallel is structural rather than evidential: at most it points to the two positions sharing a diagnosis, not to the empirical case for dualism being settled by the convergence"); concession-by-concession intro ("parallels" → "seems to parallel", "concede" → "may concede"); substrate-dependence ("abandons" → "appears to abandon", "does not suffice" → "would not suffice", "effectively endorses" → "seems, in effect, to endorse"); metabolic-grounding ("narrows" → "appears to narrow", "is enormous" → "seems large", "is structurally analogous" → "may be structurally analogous"); relocated-hard-problem ("amounts to" → "seems to amount to", "relocates" → "may relocate", "narrows" → "appears to narrow", "has changed" → "seems to have changed").
+- **Post-audit**: hedge_density 8.90/kw (pass, ≥7.04), strong_assertion_count 0 (pass), `evaluate_anchoring` returns no flags against any anchor concept.
+- **Note**: Central claim preserved per Audit Three spec — calibration not retraction. The structural-parallel thesis stands; only the modal confidence was brought in line with [substrate-independence](/concepts/substrate-independence/). Mode labels kept out of article body.
+- **Published**: yes
+
+## 2026-05-26T19:00:00+00:00 - refine-draft
+- **Status**: Success
+- **File**: [consciousness-and-the-structure-of-scientific-revolutions](/topics/consciousness-and-the-structure-of-scientific-revolutions/)
+- **Trigger**: topic-concept anchoring audit (Audit Three) — over-claimed relative to anchor concept [explanatory-gap](/concepts/explanatory-gap/); failed hedge_density (2.52/kw vs ≥5.92 target = 60% of anchor's 9.87) and strong_assertions (1.51/kw vs ≤0.87 ceiling).
+- **Changes**: Inherited the anchor's calibration discipline without weakening the central physicalism-as-paradigm-in-crisis claim. (1) Removed 2 strong-assertion verbs: "Parsimony epistemology shows that" → "suggests that"; "Kuhn's own work demonstrates" → "points to the way". (2) Added 8 honest hedges marking the Kuhnian diagnosis as the Map's interpretive reading rather than a forced conclusion — lead ("reveals" → "may reveal", "cannot" → "appears unable"); framework-fit caveat ("whether the fit is genuine or merely suggestive is itself contestable"); anomaly framing ("seem philosophical", "appear to follow"); proliferation ("may be... though compatible with a healthy field"); degenerating-programme ("may resemble... the Map reads into the situation rather than the data force"); paradigm-expansion ("perhaps", reworded); parsimony ("may reflect").
+- **Post-audit**: hedge_density 6.35/kw (pass), strong_assertion_density 0.49/kw (pass), `evaluate_anchoring` returns no flags.
+- **Note**: Central claim preserved per Audit Three spec — calibration not retraction. Mode labels kept out of article body.
+- **Published**: yes
+
+## 2026-05-26T18:46:03+00:00 - deep-review
+- **Status**: Success
+- **File**: [phenomenology-of-deliberation-under-uncertainty](/topics/phenomenology-of-deliberation-under-uncertainty/)
+- **Word count**: ~1850 → ~1850 (no change)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Notes**: Fourth review. Article declared fully stable at the 2026-04-11 review. Scored as a candidate only because `ai_modified` advanced to 2026-05-08, but the diff since the last review is entirely mechanical wikilink retargeting from coalesce/archive ops (`probability-intuition-void` → `the-quantitative-comprehension-void#the-magnitude-and-probability-domain`; `choking-phenomenon-mental-causation` → `empirical-phenomena-mental-causation`). Verified all retargeted links resolve, including the section-anchor deep-link to "## The Magnitude and Probability Domain". No content edits — confirming stability rather than oscillating. Bedrock disagreements (eliminativist, empiricist, MWI) not re-flagged per discipline.
+- **Output**: [deep-review-2026-05-26-phenomenology-of-deliberation-under-uncertainty](/reviews/deep-review-2026-05-26-phenomenology-of-deliberation-under-uncertainty/)
 
 ## 2026-05-26T18:42:51+00:00 - refine-draft
 - **Status**: Success
