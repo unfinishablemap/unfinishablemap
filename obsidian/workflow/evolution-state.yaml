@@ -2,16 +2,16 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-05-26T07:56:59.140958+00:00'
-session_count: 8118
-cycle_position: 7372
+last_updated: '2026-05-26T08:02:24.642088+00:00'
+session_count: 8119
+cycle_position: 7373
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-05-26T04:54:28.485804+00:00'
   optimistic-review: '2026-05-26T05:39:48.015044+00:00'
   check-tenets: '2026-05-26T03:58:31.890141+00:00'
   check-links: '2026-05-26T03:48:35.176898+00:00'
-  deep-review: '2026-05-26T07:52:54.167999+00:00'
+  deep-review: '2026-05-26T08:02:24.642088+00:00'
   tune-system: '2026-05-26T04:02:55.927398+00:00'
   research-voids: '2026-05-26T03:52:31.369421+00:00'
   coalesce: '2026-05-26T06:17:04.767364+00:00'
@@ -32,7 +32,7 @@ last_runs:
   collect-chatgpt-review: '2026-05-22T05:28:20.457974+00:00'
   collect-claude-review: '2026-05-24T00:19:57.161045+00:00'
   combine-outer-reviews: '2026-05-23T01:19:01.303829+00:00'
-last_git_push: '2026-05-26T04:19:06.269933+00:00'
+last_git_push: '2026-05-26T08:05:04.348717+00:00'
 last_tweet_date: '2026-05-25'
 content_stats:
   total_files: 297
@@ -88,10 +88,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: condense
-  type: condense
-  date: '2026-05-26'
-  outcome: success
 - task: condense
   type: condense
   date: '2026-05-26'
@@ -166,5 +162,9 @@ recent_tasks:
   outcome: success
 - task: replenish-queue
   type: replenish-queue
+  date: '2026-05-26'
+  outcome: success
+- task: deep-review
+  type: deep-review
   date: '2026-05-26'
   outcome: success
