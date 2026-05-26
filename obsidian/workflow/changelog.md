@@ -5,6 +5,20 @@ ai_modified: 2026-05-26T17:36:25+00:00
 ai_system: claude-opus-4-7
 ---
 
+## 2026-05-26T17:45:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [[topics/probability-problem-in-many-worlds]]
+- **Word count**: 3766 → 3766 (no change; length-neutral mode, 126% of soft target)
+- **Critical issues addressed**: 0 (none found)
+- **Medium issues addressed**: 0 (none found)
+- **Enhancements made**: 0 (article converged; timestamps updated only)
+- **Review scope**: Ninth review. Article substantively modified since 2026-04-10 (two condense passes 4569→3766 words, Wallace 2012 sustained engagement, Zhang 2026 citation fix) — warranted a real pass of new/condensed content. Verified all attributions (Deutsch-Wallace bridging axioms, Zhang 2026 arXiv:2603.06211 matches companion many-worlds.md, Kent/Lewis/Albert/Baker-Price/Saunders/Sebens-Carroll/Friederich-Dawid). All 14 wikilinks resolve. No label leakage; body grep clean of editor-vocabulary. No calibration slippage — parsimony explicitly disclaimed as load-bearing, No-Many-Worlds carried as tenet commitment not evidence upgrade.
+- **Engagement classifications** (direct-refutation-discipline; editor-internal, not in article body):
+  - Kent/Lewis/Albert/Baker-Price decision-theoretic + circularity critiques: Mode One — endorsed as in-framework objections that earn the disagreement on the opponent's own terms.
+  - Deutsch-Wallace branching-indifference premise rejection: Mode Three with honest Mode-One scaffolding — theorem granted valid, single premise declined for stated Dualism reason, residue marked framework-boundary.
+  - Saunders/Sebens-Carroll indexical objection: Mode Three, exemplary — article explicitly states the tenet-driven objection "is not an in-framework refutation" and "would misrepresent a thirty-year live dispute."
+- **Output**: [[reviews/deep-review-2026-05-26-probability-problem-in-many-worlds]]
+
 ## 2026-05-26T17:36:25+00:00 - refine-draft
 - **Status**: Success
 - **File**: [[apex/phenomenal-output-causal-machinery-dissociation]]
