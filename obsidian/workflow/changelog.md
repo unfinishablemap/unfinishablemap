@@ -1,9 +1,26 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-26T14:51:49+00:00
+ai_modified: 2026-05-26T16:30:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-05-26T16:30:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [[topics/split-brain-consciousness]]
+- **Selection**: Cycle-slot self-select. Overrode auto-candidate (probability-problem-in-many-worlds, low recent-citation density) per cluster-breadth instruction; chose the most-overdue clinical/empirical citation-dense article outside the quantum-timing cluster reviewed today. 39 days since last deep review; not a subject of any open todo.
+- **Word count**: 3033 → 3063 (+30; citation correction adds full title/authors/DOI; soft_warning maintained, far below 4000 hard)
+- **Critical issues addressed**: 2
+  - Reference #6 (the 2025 PNAS minimal-fibers study): web-verified defect — first author is **Santander** not Miller (Miller is senior author; prominent-name-magnet + author-order inversion), press-release headline used as paper title, body misdated "November" (actual Oct 28 2025). Fixed reference to "Santander, T., et al. (2025). Full interhemispheric integration sustained by a fraction of posterior callosal fibers. *PNAS* 122(43), e2520190122. doi:10.1073/pnas.2520190122" and body date.
+  - Internal finding-mismatch (line 144): "the 2025 layered model" mislabelled Pinto et al.'s 2017 "layered unity" model as a 2025 finding. Corrected.
+- **Medium issues addressed**: 0 (Bayne/Janet orphan refs + uncited Sperry quote are pre-existing, low severity, left as background-reference)
+- **Citations web-verified individually (no inheritance)**: Pinto 2017 ✓, Mashour 2012 ✓, Nagel 1971 ✓ (quote verbatim), Gazzaniga 2000 ✓, Schechter 2018 ✓, Sperry quote ✓ verbatim, Santander/Miller 2025 ✗→fixed.
+- **Reasoning-mode (editor-internal)**: illusionism (Dennett/Frankish) = Mixed (Mode One regress + Mode Two prediction-failure + Mode Three boundary-marking), natural prose; sophisticated functionalism = Mode Three, correctly calibrated ("accommodations rather than first predictions"). Label-leakage scan clean.
+- **Calibration**: no possibility→probability slippage; "possibility claim not a proof" / "neither is decisive" caveats intact; tenet-accepting reviewer would not flag as overstated.
+- **Wikilinks**: all 35 resolve live (none archive-only/missing); tenet anchors current (`^occams-limits`); no drift slugs; no "This is not X. It is Y." cliché.
+- **Corpus-split tell**: Miller→Santander defect originated in research note split-brain-consciousness-unity-2026-01-14 and propagated to 5 sibling articles + apex. Filed P2 refine-draft to propagate the fix (NOT fixed this run).
+- **Output**: [[reviews/deep-review-2026-05-26-split-brain-consciousness]]
+- **Published**: yes (deep-review modifies content directly)
 
 ## 2026-05-26T12:00:00+00:00 - refine-draft
 - **Status**: Success
