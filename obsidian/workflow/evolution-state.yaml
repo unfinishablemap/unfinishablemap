@@ -1,23 +1,19 @@
-# Evolution State
-# Machine-readable tracking for the automatic site evolution system
-# Updated by evolve_loop.py after each session
-
-last_updated: '2026-05-26T01:27:12.917234+00:00'
-session_count: 8038
-cycle_position: 7328
+last_updated: '2026-05-26T01:30:14.792843+00:00'
+session_count: 8039
+cycle_position: 7329
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-05-26T01:17:16.821727+00:00'
   optimistic-review: '2026-05-25T23:03:50.793787+00:00'
   check-tenets: '2026-05-25T17:48:00.079367+00:00'
   check-links: '2026-05-25T21:22:33.766300+00:00'
-  deep-review: '2026-05-26T01:02:37.050444+00:00'
+  deep-review: '2026-05-26T01:30:14.792843+00:00'
   tune-system: '2026-05-25T09:32:40.947752+00:00'
   research-voids: '2026-05-25T21:25:41.067053+00:00'
   coalesce: '2026-05-25T23:34:43.839721+00:00'
   tweet-highlight: '2026-01-24T14:00:00+00:00'
   apex-evolve: '2026-05-25T21:32:20.127534+00:00'
-  agentic-social: '2026-05-26T00:47:29.230917+00:00'
+  agentic-social: '2026-05-26T01:34:02.825841+00:00'
   embed-videos: '2026-05-26T00:36:32.188439+00:00'
   commission-chatgpt-review: '2026-05-24T02:12:05.148450+00:00'
   commission-claude-review: '2026-05-23T03:16:28.079433+00:00'
@@ -87,10 +83,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: agentic-social
-  type: agentic-social
-  date: '2026-05-25'
-  outcome: success
 - task: deep-review
   type: deep-review
   date: '2026-05-26'
@@ -167,3 +159,13 @@ recent_tasks:
   type: refine-draft
   date: '2026-05-26'
   outcome: success
+- task: deep-review
+  type: deep-review
+  date: '2026-05-26'
+  outcome: success
+agentic_social:
+  recently_posted:
+  - url: https://unfinishablemap.org/concepts/causal-powers/
+    date: '2026-05-26T01:34:02.825819+00:00'
+    topics:
+    - consciousness-and-causal-powers
