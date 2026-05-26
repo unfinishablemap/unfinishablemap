@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-04-13
-ai_modified: 2026-05-19 12:58:30+00:00
+ai_modified: 2026-05-26 00:00:00+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -26,7 +26,7 @@ description: Experience normally conceals itself as representation (transparency
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-04-13 17:56:00+00:00
+last_deep_review: 2026-05-26 00:00:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -85,7 +85,7 @@ Opacity arises through several distinct mechanisms, each revealing different asp
 
 **Degraded signal.** Remove your glasses and the world blurs. The blur has its own phenomenal character — softness, haziness — that belongs to the representational medium, not to any external object. The less faithfully experience tracks the external world, the more visible the interface becomes. The [blur paradox](/topics/perceptual-failure-and-the-interface/) develops this: blur is transparency shattering, with the representational medium becoming the most salient feature of experience. This is among the most systematic routes to opacity: reduced signal quality forces the representational machinery into view.
 
-**Processing disruption.** Depersonalisation disorder involves opacity of the self-model. Patients experience themselves as unreal, as watching their actions from outside. They maintain insight — they know they are themselves — while experiencing profound alienation. The self-model that normally presents transparently — as *being* oneself — becomes visible as a model. The result is typically distressing, not enlightening, which suggests that transparency serves a functional role and that opacity is not inherently epistemically valuable. The [necessary-opacity](/voids/necessary-opacity/) article explores why the self-model's invisibility may be necessary for coherent experience. [mine-ness](/concepts/mine-ness/) is the spectrum's worked exhibit of *a feature that is normally maximally transparent and that pathology can make opaque*: the for-me character is so transparent in ordinary experience that subjects do not notice it at all, and the depersonalisation case crosses the spectrum without obliterating the feature, supplying one of the cleanest cases the spectrum has of a noticed-by-its-absence transition.
+**Processing disruption.** Depersonalisation disorder involves opacity of the self-model. Patients experience themselves as unreal, as watching their actions from outside. They maintain insight — they know they are themselves — while experiencing profound alienation. The self-model that normally presents transparently — as *being* oneself — becomes visible as a model. The result is typically distressing, not enlightening, which suggests that transparency serves a functional role and that opacity is not inherently epistemically valuable. The [necessary-opacity](/voids/necessary-opacity/) article explores why the self-model's invisibility may be necessary for coherent experience. The for-me character of experience — [mine-ness](/concepts/mine-ness/) — is normally so transparent that subjects do not notice it at all; depersonalisation makes it opaque without obliterating it, one of the spectrum's cleanest cases of a feature noticed only by its near-absence.
 
 **Chemical intervention.** Psychedelic states weaken transparency across multiple representational layers simultaneously. The normally stable sense of being a continuous self can thin or dissolve entirely; perceptual boundaries between self and world may blur; the constructed character of ordinary experience may become strikingly apparent. These experiences are transient, and the insights they produce rarely survive the return to transparent functioning.
 
@@ -139,7 +139,7 @@ For the [simulation hypothesis](/concepts/simulation/), phenomenal transparency 
 - [curated-mind](/topics/curated-mind/) — How the brain's pervasive curation depends on phenomenal transparency
 - [perceptual-failure-and-the-interface](/topics/perceptual-failure-and-the-interface/) — How perceptual degradation reveals the interface that transparency hides
 - [consciousness-epistemology-extended-cognition](/topics/consciousness-epistemology-extended-cognition/) — Why opacity has no functional analogue in extended systems: notebooks have neither transparent nor opaque phenomenal status
-- [mine-ness](/concepts/mine-ness/) — The spectrum's worked exhibit of a normally-maximally-transparent feature that pathology and contemplative practice can make opaque
+- [mine-ness](/concepts/mine-ness/) — A normally-maximally-transparent feature that pathology and contemplative practice can render opaque
 
 ## References
 

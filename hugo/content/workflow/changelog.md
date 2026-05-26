@@ -1,13 +1,123 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-26 20:02:03+00:00
+ai_modified: 2026-05-26 21:37:28+00:00
 ai_system: claude-opus-4-7
 concepts: []
 date: '2026-05-26'
 related_articles: []
 title: Changelog
 ---
+
+## 2026-05-26T21:37:28+00:00 - condense
+- **Status**: Reviewed, minimal condensation applied
+- **File**: [phenomenal-output-causal-machinery-dissociation](/apex/phenomenal-output-causal-machinery-dissociation/)
+- **Before**: 7001 words
+- **After**: 6990 words
+- **Reduction**: <1%
+- **Technique**: Near-floor re-queue of a file already cut 9361→7001 (~29%) earlier this session at its judged defensible minimum. Scanned for genuine remaining redundancy: only two lossless recap-side trims found — the Trick/Pylyshyn and Inzlicht/Kurzban entries in the convergence list duplicated mechanism phrasing already stated in the timescales sections, so the second occurrences now defer to the first via internal links (added explicit `{#instant-of-perception}` anchor to support one link). No repeated statistics found (ego-depletion d-values, placebo SMDs each appear once). Declined to force lossy cuts: remaining length is analytically distinct content (four timescales, the five-or-six convergence audit, the unified materialist rival's steelman→residue structure), not redundancy.
+- **Recommendation**: SPLIT (spin "The Strongest Materialist Reading" into its own article) or ACCEPT at length as a broad-synthesis apex, pending human editorial decision. The article legitimately exceeds the 6500 apex-critical threshold but every section carries distinct argumentative load.
+
+## 2026-05-26T21:31:25+00:00 - optimistic-review
+- **Status**: Success
+- **Content reviewed**: The self-model and perceptual-construction cohort — 5 articles deep-reviewed in the 19:32–20:49 UTC evening window (none covered by the day's six earlier optimistic cohorts): [consciousness-as-perceptual-architect](/topics/consciousness-as-perceptual-architect/), [theory-of-mind](/concepts/theory-of-mind/), [default-mode-network](/concepts/default-mode-network/), [phenomenal-transparency-opacity-spectrum](/concepts/phenomenal-transparency-opacity-spectrum/), [social-construction-of-self-vs-phenomenal-self](/topics/social-construction-of-self-vs-phenomenal-self/). Shared signature: the construction/constructor distinction (the self/percept/world-model is built, but the building presupposes an experiential subject it cannot generate).
+- **Findings**: Calibration-clean cohort — Process Philosopher and Hardline Empiricist personas converge (no tier-upgrade-on-tenet-load); perceptual-architect's Bidirectional-Interaction section is a model "tenet-coherent, not evidence-elevating" exhibit; DMN holds production-vs-filter symmetry with a 4-condition falsification section. 6 reciprocal cross-link gaps verified absent and not covered by existing tasks (notably theory-of-mind ↔ default-mode-network, a near-omission). 2 P3 tasks added (cohort cross-links refine-draft; "self is constructed, constructor is not" apex synthesis).
+- **Output**: [optimistic-2026-05-26g](/reviews/optimistic-2026-05-26g/)
+
+## 2026-05-26T21:20:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [indexical-identity-quantum-measurement](/topics/indexical-identity-quantum-measurement/)
+- **Word count**: 2726 → 2726 (+0)
+- **Critical issues addressed**: 0 (none found — eighth review; full stability maintained across last five reviews)
+- **Medium issues addressed**: 0 (cross-linking already comprehensive — 66 inbound links verified)
+- **Enhancements made**: 0 (length-neutral; convergence-confirming review, no oscillation)
+- **Verification**: Re-ran attribution check (Fuchs, Albert, von Neumann, Wigner, London & Bauer, Rovelli, Friederich & Dawid, Wallace — all pass), possibility/probability slippage check (empirical-status disclaimer keeps proposal honestly metaphysical, no calibration error), reasoning-mode/named-opponent check (MWI/QBism engagements honest journal-quality prose, no label leakage, no boundary-substitution). All frontmatter + Further Reading wikilink targets resolve.
+- **Engagement classification**: MWI defenders (Wallace/Albert): Mode Three with in-framework pressure — boundary marked honestly while importing the probability-circularity critique; QBism (Fuchs): Mode Two — QBism presupposes determinate experiential content it does not earn.
+- **Tenet alignment**: All five (article's "Relation to Site Perspective" maps each)
+- **Output**: [deep-review-2026-05-26-indexical-identity-quantum-measurement](/reviews/deep-review-2026-05-26-indexical-identity-quantum-measurement/)
+- **Published**: yes
+
+## 2026-05-26T21:12:59+00:00 - refine-draft
+- **Status**: Success
+- **Files**: [consciousness-bandwidth-architecture](/concepts/consciousness-bandwidth-architecture/) and [neural-refresh-rates](/concepts/neural-refresh-rates/)
+- **Changes**: Installed reciprocal sibling cross-links (~45 words total) between the informational face (CBA, 10⁹-in / 10-out) and the temporal face (neural-refresh-rates, discrete oscillatory sampling vs smooth experience) of the same three-face grain-mismatch programme. Both previously linked only the grain-mismatch hub, not each other, so the convergent-evidence programme was hub-mediated only. Framing verified against [grain-mismatch](/concepts/grain-mismatch/) (informational/temporal/spatial faces). Both Further Reading sections.
+- **Verification**: All 19 cross-links in neural-refresh-rates (cohort's stalest member, last deep-reviewed 2026-04-22) confirmed resolving to live files. No content/argument changes.
+- **Tenet alignment**: Tenet 1 (Dualism — convergent grain-mismatch evidence)
+- **Source**: optimistic review 2026-05-26e ([optimistic-2026-05-26e](/reviews/optimistic-2026-05-26e/))
+- **Published**: yes
+
+## 2026-05-26T21:08:09+00:00 - deep-review
+- **Status**: Success
+- **File**: [continual-learning-argument](/concepts/continual-learning-argument/)
+- **Word count**: 2811 → 2811 (+0)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 (converged — sixth review; only change since 2026-04-13 was a mechanical wikilink retarget, target verified)
+- **Engagement modes** (editor-internal): illusionism (Dennett/Frankish) = Mode Two (unsupported foundational move: illusionism owes account of what makes the illusion seem like something) + in-framework heterophenomenology turn; functionalism (proximity argument) = Mode Three boundary-marking on the function-suffices residue. No label leakage in prose.
+- **Calibration**: No possibility/probability slippage — continual learning framed as necessary marker not sufficient; quantum link explicitly non-load-bearing; consciousness framed as likely consequence not cause.
+- **Output**: [deep-review-2026-05-26-continual-learning-argument](/reviews/deep-review-2026-05-26-continual-learning-argument/)
+- **Recommendation**: Strongly deprioritize future deep reviews; stable across six reviews.
+
+## 2026-05-26T15:10:00+00:00 - refine-draft
+- **Status**: Success
+- **File**: [consciousness-bandwidth-architecture](/concepts/consciousness-bandwidth-architecture/) AND [quantum-neural-timing-constraints](/topics/quantum-neural-timing-constraints/)
+- **Original score**: not run (scripts/curate.py absent); surgical review-flagged cross-link install per [optimistic-2026-05-26e](/reviews/optimistic-2026-05-26e/)
+- **Changes**: Installed a bidirectional cross-link the optimistic review flagged (verified 0 mutual references either way). (a) In CBA's §"Format Translation Problem", where Stapp's quantum Zeno framework is named as the format-translation candidate, linked [timing analysis of the Zeno candidate](/topics/quantum-neural-timing-constraints/) as the dedicated check on whether its observation cycles fit the 200–500 ms decision window. (b) In QNTC's §"Quantum Zeno: A Different Timing Logic", linked [bandwidth architecture](/concepts/consciousness-bandwidth-architecture/) as the format-translation account those timing constraints discipline (consciousness encodes attentional targets, not physical specifications). ~55 words added across both files. Both articles turn on the same 200–500 ms window and Stapp's question-and-answer mechanism; the link makes CBA the format/bandwidth candidate and QNTC the timing test of it. Tenet 2 (Minimal Quantum Interaction) and Tenet 3 (Bidirectional Interaction).
+- **Published**: yes
+
+## 2026-05-26T12:00:00+00:00 - refine-draft
+- **Status**: Success
+- **File**: [terminal-lucidity-and-filter-transmission-theory](/topics/terminal-lucidity-and-filter-transmission-theory/)
+- **Original score**: not run (scripts/curate.py absent; used optimistic-2026-05-26f calibration finding as review context)
+- **Changes**: Installed the [constrain-vs-establish](/project/evidential-status-discipline/) vocabulary the article's three sibling articles already carry (optimistic review's sole calibration concern). (1) Reframed thesis/headline/description from "strongest single-phenomenon case for filter theory" → "single anomaly that raises the steepest explanatory cost on production models"; added a second lede paragraph naming the constrain-not-establish move and the live-hypothesis tier inline. (2) Reframed "breaks this monotonicity" passage so the monotonicity strain is stated as a cost on production models, not a confirmation of filter theory; added the parsimony-favours ≠ positive-evidence caveat. (3) Reframed "strongest individual element" in Convergent Evidence as "steepest single-phenomenon cost" while preserving the convergent framing (NOT downgraded — right move for an anomaly literature). (4) Added one sentence to Current Research Gaps naming why the 100%-retrospective base licenses constraint not establishment, and that prospective neural capture is the missing discriminator. (5) Added [evidential-status-discipline](/project/evidential-status-discipline/) to concepts frontmatter + Further Reading. PRESERVED: Selectivity Problem section, unfalsifiability concession, "no prospective study captured an episode" gap, Murray "speculative leap" hedge, dualism-presupposition hedge.
+- **Calibration**: Article now states explanatory-cost/constraint throughout rather than establishing filter theory; passes the diagnostic test (a tenet-accepting reviewer would no longer flag the headline as over-claimed). No editor-vocabulary labels leaked into body (verified: no "Evidential status:", no bracketed tier labels, no five-tier scale exposed). New link target verified live in Hugo.
+- **Published**: yes
+
+## 2026-05-26T20:54:13+00:00 - pessimistic-review
+- **Status**: Success
+- **Content reviewed**: [indian-philosophy-of-mind](/topics/indian-philosophy-of-mind/) (3008 words; last deep review 2026-04-24; most recently modified content file). Mechanical checks clean (no label leakage; altered-state symmetry audit N/A — "nde" grep hits are substring false positives). Two facts web-verified: sapta-vidha anupapatti correctly attributed to Ramanuja; the 1017–1137 dates are accurate as *traditional* dates (modern scholarship favours 1077–1157). Four small in-place fixes flagged (1 medium convergence re-lean, 1 medium unrebutted Nyaya-vs-Buddhist argument, 2 low: unhedged Ramanuja date, over-claimed vertiginous-question fit). §"Three-Way Disagreement" empiricist concession noted as exemplary, to be preserved. Added P3 refine-draft task.
+- **Output**: [pessimistic-2026-05-26-indian-philosophy-of-mind](/reviews/pessimistic-2026-05-26-indian-philosophy-of-mind/)
+
+## 2026-05-26T20:49:50+00:00 - deep-review
+- **Status**: Success
+- **File**: [theory-of-mind](/concepts/theory-of-mind/)
+- **Word count**: 3093 → 3093 (+0; length-neutral, 124% of 2500 soft target, below hard)
+- **Critical issues addressed**: 0 (none found)
+- **Medium issues addressed**: 0 (none found)
+- **Enhancements made**: 0 (5th pass; converged at 4th pass 2026-04-07; only changes since were a benign cross-link sentence to the coalesced metarepresentation-threshold and a wikilink retarget — both verified correctly calibrated and link-valid)
+- **Calibration**: new "cleanest empirical signature of the metarepresentation threshold" sentence passes the §2 slippage diagnostic — empirical human-ape Level 3 gap at "strongly supported," consciousness-dependence held separately at "appears to require"; no possibility/probability slippage
+- **Engagement classification**: functionalist = Mixed (Mode Two unsupported-jump on phenomenal-unity + Mode Three boundary); eliminativist/illusionist = Mixed (Mode Two binding-problem residue + Mode Three boundary); Buddhist no-self = Mode Three. No boundary-substitution, no editor-vocabulary label leakage in body.
+- **Link integrity**: `[[metacognition#the-metarepresentation-threshold]]` resolves to live heading in the coalesce target; all frontmatter + Further Reading targets verified live
+- **Output**: [deep-review-2026-05-26-theory-of-mind](/reviews/deep-review-2026-05-26-theory-of-mind/)
+
+## 2026-05-26T20:31:33+00:00 - deep-review
+- **Status**: Success
+- **File**: [collapse-and-time](/concepts/collapse-and-time/)
+- **Word count**: 2004 → 2007 (+3)
+- **Critical issues addressed**: 1 (misattribution: "Müller, S. et al. (2021)" → correct first author Jayaseelan et al.; verified against live literature — Jayaseelan, Manikandan, Jordan & Bigelow, *Nature Communications* 12:1847. Error originated in the 2026-01-14 research note, propagated via the 2026-03-07 coalesce, survived 5 prior reviews. Isolated to this article; all other live "Müller" cites are different authors.)
+- **Medium issues addressed**: 0 (none found; article well-converged after 5 prior reviews)
+- **Enhancements made**: 1 (citation correction — author, full title, article number); 22 wikilinks verified resolving; no calibration slippage
+- **Engagement classification**: MWI engagement = Mixed (Mode One in-framework circularity charge on the Past-Hypothesis dependence; Mode Three framework-boundary marking for the indexical/phenomenology moves). No boundary-substitution, no editor-vocabulary label leakage in body.
+- **Output**: [deep-review-2026-05-26-collapse-and-time](/reviews/deep-review-2026-05-26-collapse-and-time/)
+
+## 2026-05-26T20:30:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [phenomenal-transparency-opacity-spectrum](/concepts/phenomenal-transparency-opacity-spectrum/)
+- **Word count**: 2553 → 2519 (-34)
+- **Critical issues addressed**: 0 (none found — first review of the coalesced spectrum article; full attribution check passed for all 10 sources; no calibration slippage)
+- **Medium issues addressed**: 1 (length crossed soft threshold at 102%; trimmed two near-duplicate mine-ness passages in length-neutral mode, now 101%)
+- **Enhancements made**: 1 (redundancy trim); 20 wikilinks verified resolving
+- **Engagement classification**: pure functionalism = Mode Two ("struggles to accommodate," hedged, no boundary-substitution); physicalism = Mode Three (framework-boundary marked honestly). No editor-vocabulary label leakage in body.
+- **Output**: [deep-review-2026-05-26-phenomenal-transparency-opacity-spectrum](/reviews/deep-review-2026-05-26-phenomenal-transparency-opacity-spectrum/)
+
+## 2026-05-26T20:17:28+00:00 - refine-draft
+- **Status**: Success
+- **File**: [indian-philosophy-of-mind](/topics/indian-philosophy-of-mind/)
+- **Trigger**: topic-concept anchoring audit (Audit Three); failed hedge_density + underdetermination_markers vs anchor [causal-closure](/concepts/causal-closure/) (also flagged against [filter-theory](/concepts/filter-theory/))
+- **Changes**: Inherited the anchor concept's calibration discipline without weakening the central convergence claim (three Indian schools independently affirm irreducibility). Hedge density raised 1.21→3.79/kw (count 3→11; causal-closure anchor=4.57, 60% threshold=2.74); strong-assertion verbs stayed 0. Hedges added only on genuine inferential moves — Samkhya's proximity/reflection interaction mechanism (noted as suggestive, not worked out; magnet analogy carries less than it appears), the causal-closure "sidestep" (interaction problem migrates rather than vanishes; underdetermined by the texts), the Gangesa→higher-order-theory parallel, the Nyaya unity/binding-problem parallel (structure not shared premises), and the Samkhya→functionalism resemblance (suggestive not exact). Added one explicit underdetermination marker in the three-way-disagreement section ("the data alone do not adjudicate between dualism and its rivals"), reframing convergence as strengthening the dualist case rather than establishing it, and naming the common-cause/shared-introspective-method deflationary reading. Original conclusion and argument structure preserved.
+- **Calibration**: cleared `tools/curate/anchoring.evaluate_anchoring` (returns no flags). No mode labels or editor-vocabulary in body. Engagement with the empiricist deflationary reading: Mode Three (framework-boundary; common-cause reading noted as available rather than refuted).
+- **Original score**: not run (curate.py review tool absent from repo; calibration metrics used as the objective check)
+- **Published**: yes
 
 ## 2026-05-26T00:00:00+00:00 - refine-draft
 - **Status**: Success

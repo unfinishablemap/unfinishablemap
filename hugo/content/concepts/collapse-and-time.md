@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-14
-ai_modified: 2026-04-11 23:05:00+00:00
+ai_modified: 2026-05-26 20:31:33+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -23,7 +23,7 @@ description: Wavefunction collapse introduces temporal asymmetry into physics. I
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-04-11 23:05:00+00:00
+last_deep_review: 2026-05-26 20:31:33+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -109,7 +109,7 @@ If each collapse constitutes a new moment, what preserves agent identity across 
 
 What would it mean to reverse a collapse? Under decoherence views, it means reversing all environmental entanglements—theoretically possible, practically absurd. Under collapse-realist views, it's impossible in principle: actualized outcomes are ontologically final. Under time-symmetric views, it's a category error: the transaction was never "at" a moment to be reversed.
 
-Müller et al. (2021) demonstrated experimentally that forward-to-backward transition probabilities define a measurable asymmetry, confirming that quantum measurement irreversibility is real and quantifiable. For consciousness theories, the key finding is that measurement irreversibility comes in degrees—stronger observations produce more definite, less reversible outcomes.
+Jayaseelan et al. (2021) demonstrated experimentally that forward-to-backward transition probabilities define a measurable asymmetry, confirming that quantum measurement irreversibility is real and quantifiable. For consciousness theories, the key finding is that measurement irreversibility comes in degrees—stronger observations produce more definite, less reversible outcomes.
 
 ## Why Many-Worlds Avoids the Question
 
@@ -164,7 +164,7 @@ The triad of consciousness, collapse, and time's arrow engages all five [tenets]
 1. Ghirardi, G. C., Rimini, A., & Weber, T. (1986). Unified dynamics for microscopic and macroscopic systems. *Physical Review D*, 34(2), 470.
 1. Kastner, R. E. (2012). *The Transactional Interpretation of Quantum Mechanics: The Reality of Possibility*. Cambridge University Press.
 1. Leifer, M. S. & Pusey, M. F. (2017). Is a time symmetric interpretation of quantum theory possible without retrocausality? *Proceedings of the Royal Society A*, 473, 20160607.
-1. Müller, S. et al. (2021). Quantum measurement arrow of time and fluctuation relations. *Nature Communications*, 12(1), 1-8.
+1. Jayaseelan, M., Manikandan, S. K., Jordan, A. N., & Bigelow, N. P. (2021). Quantum measurement arrow of time and fluctuation relations for measuring spin of ultracold atoms. *Nature Communications*, 12, 1847.
 1. Penrose, R. (1989). *The Emperor's New Mind*. Oxford University Press.
 1. Price, H. (1996). *Time's Arrow and Archimedes' Point*. Oxford University Press.
 1. Price, H. (2012). Does time-symmetry imply retrocausality? *Studies in History and Philosophy of Modern Physics*, 43, 75-83.

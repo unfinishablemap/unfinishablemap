@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-04-21
-ai_modified: 2026-05-26 14:23:19+00:00
+ai_modified: 2026-05-26 21:12:59+00:00
 ai_system: claude-opus-4-7
 author: null
 coalesced_from:
@@ -119,7 +119,7 @@ Even granting hierarchical selection, a residual problem remains: how does inten
 
 This is the format dimension of the bandwidth problem, and it connects to the broader [psychophysical coupling problem](/concepts/psychophysical-laws/). The Map requires selection laws—laws specifying how phenomenal states map to physical selections. Whatever coupling law governs the interface, it must translate between intentional and physical vocabularies without requiring the intentional side to encode physical details.
 
-One proposed mechanism—Stapp's quantum Zeno framework—suggests consciousness poses questions ("is this neural pattern present?") and the physical system answers. If viable, the intentional content would determine *which question* to ask while physics determines the answer. This separation of labour would mean consciousness need not encode physical specifications—it would encode attentional targets, and the brain's architecture would translate these into the relevant physical observables. Whether this specific mechanism works remains contested.
+One proposed mechanism—Stapp's quantum Zeno framework—suggests consciousness poses questions ("is this neural pattern present?") and the physical system answers. If viable, the intentional content would determine *which question* to ask while physics determines the answer. This separation of labour would mean consciousness need not encode physical specifications—it would encode attentional targets, and the brain's architecture would translate these into the relevant physical observables. Whether this specific mechanism works remains contested; the dedicated [timing analysis of the Zeno candidate](/topics/quantum-neural-timing-constraints/) examines whether its observation cycles fit the 200–500 ms decision window the format translation must occur within.
 
 Mandik (2010) provides empirical corroboration of this architectural separation. Control phenomenology—the experience of being in control—is informationally sparse compared to sensory phenomenology. Introspecting motor control introduces a "doubling of tasks" that interferes with controlling, because the narrow outbound channel cannot simultaneously carry action-selections and self-monitoring data. This sparseness is intelligible if the outbound channel carries intentional targets rather than physical specifications: the format of conscious control matches the format of selection, not computation.
 
@@ -174,6 +174,7 @@ The bandwidth architecture connects to all five tenets.
 - [attention-as-interface](/concepts/attention-as-interface/) — Attention as the selection channel through which consciousness operates
 - [resolution-void](/voids/resolution-void/) — The broader resolution gap between brain processing and conscious access
 - [grain-mismatch](/concepts/grain-mismatch/) — The structural mismatch between conscious and neural grain
+- [neural-refresh-rates](/concepts/neural-refresh-rates/) — The temporal face of the same grain-mismatch programme; this article is the informational face (10⁹-in / 10-out)
 - [inverted-qualia](/concepts/inverted-qualia/) — Qualitative-side companion argument disciplined by the same outbound channel
 - [filter-theory](/concepts/filter-theory/) — The filter/transmission model that accommodates the asymmetry naturally
 

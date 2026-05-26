@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-05-09
-ai_modified: 2026-05-26 19:21:56+00:00
+ai_modified: 2026-05-26 21:37:28+00:00
 ai_system: claude-opus-4-7
 apex_last_synthesis: 2026-05-09 17:38:00+00:00
 apex_sources:
@@ -99,7 +99,7 @@ The convergence claim depends on members operating on *substrates with different
 
 The dissociation appears across three nested timescales. The signatures match; the substrates do not.
 
-### Instant of Perception
+### Instant of Perception {#instant-of-perception}
 
 At the instant of perception, recognition delivers content with the act of recognising hidden behind it. The [recognition void](/voids/recognition-void/) names the gap between perceiving and knowing-*as*, where consciousness must find meaning in what it already sees but cannot observe itself doing so. Bruce and Young's two-component model and the Capgras-prosopagnosia double dissociation expose recognition as a hidden compound of perceptual identification and affective familiarity bound together invisibly. The patient experiences "this person feels wrong" or "this face means nothing"; neither experiences "my familiarity module is offline." The failure is given as content, not as mechanism.
 
@@ -141,13 +141,13 @@ The cluster's evidential weight rests on the convergence of independent traditio
 
 **Carruthers (2011) on cognition.** *The Opacity of Mind* argues introspection of propositional attitudes is interpretive: we infer our attitudes from sensory-format evidence much as we infer others'. Listed for completeness but counts as an *absorption* of the signature rather than a witness — the [strong-rival section](#strong-rival) below explains why his interpretive-sensory-access theory predicts the dissociation from materialist premises, the cluster's preferred reading run in reverse.
 
-**Trick and Pylyshyn (1994) on perception.** Their FINST model gives the cardinality floor's diagnostic sharpest: visual indexing operates on a pool of pre-attentive tokens whose allocation is invisible. Mechanism contested (Liu et al. 2020), but the dissociation is mechanism-neutral.
+**Trick and Pylyshyn (1994) on perception.** Their FINST model gives the cardinality floor's diagnostic sharpest: visual indexing operates on a pool of pre-attentive tokens whose allocation is invisible — mechanism-neutrally so, as the [instant-of-perception](#instant-of-perception) treatment notes.
 
 **Koriat (2000) on fluency.** Metacognitive feelings that gate cognition — knowing, rightness, confidence — are outputs of implicit inferential heuristics. The "Lima problem" sharpens the recursive face: epistemic feelings report on content we cannot independently access, so we cannot cross-check them except through more feelings of the same kind.
 
 **Polanyi (1966) on tacit integration.** "We know more than we can tell" names the dissociation in the integrative-knowledge face; the "from-to" structure is a phenomenologist's vocabulary for output-while-operation-hidden.
 
-**Inzlicht and Kurzban on effort.** The opportunity-cost (Kurzban et al. 2013) and process (Inzlicht-Schmeichel 2012) models treat felt effort as the output of sub-personal cost-benefit machinery whose inputs the introspector cannot access. Westbrook et al. (2020) confirm a prediction: dopamine elevation shifts willingness to engage demanding tasks, the introspector noticing the result not the manipulation.
+**Inzlicht and Kurzban on effort.** The opportunity-cost (Kurzban et al. 2013) and process (Inzlicht-Schmeichel 2012) models supply the [real-time section](#real-time)'s reading with a confirmed prediction: Westbrook et al. (2020) found dopamine elevation shifts willingness to engage demanding tasks, the introspector noticing the result not the manipulation.
 
 **Bergson (1908) on memory.** "Le souvenir du présent" proposes memory and perception form simultaneously, the memory-aspect normally suppressed; déjà vu is the brief surfacing of an occluded shadow. The reducing-valve picture names the architecture.
 

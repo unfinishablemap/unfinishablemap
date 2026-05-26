@@ -1,9 +1,18 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-26T21:31:25+00:00
+ai_modified: 2026-05-26T21:37:28+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-05-26T21:37:28+00:00 - condense
+- **Status**: Reviewed, minimal condensation applied
+- **File**: [[apex/phenomenal-output-causal-machinery-dissociation]]
+- **Before**: 7001 words
+- **After**: 6990 words
+- **Reduction**: <1%
+- **Technique**: Near-floor re-queue of a file already cut 9361→7001 (~29%) earlier this session at its judged defensible minimum. Scanned for genuine remaining redundancy: only two lossless recap-side trims found — the Trick/Pylyshyn and Inzlicht/Kurzban entries in the convergence list duplicated mechanism phrasing already stated in the timescales sections, so the second occurrences now defer to the first via internal links (added explicit `{#instant-of-perception}` anchor to support one link). No repeated statistics found (ego-depletion d-values, placebo SMDs each appear once). Declined to force lossy cuts: remaining length is analytically distinct content (four timescales, the five-or-six convergence audit, the unified materialist rival's steelman→residue structure), not redundancy.
+- **Recommendation**: SPLIT (spin "The Strongest Materialist Reading" into its own article) or ACCEPT at length as a broad-synthesis apex, pending human editorial decision. The article legitimately exceeds the 6500 apex-critical threshold but every section carries distinct argumentative load.
 
 ## 2026-05-26T21:31:25+00:00 - optimistic-review
 - **Status**: Success

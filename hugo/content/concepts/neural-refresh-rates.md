@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-18
-ai_modified: 2026-05-26 13:30:00+00:00
+ai_modified: 2026-05-26 21:12:59+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -87,6 +87,7 @@ The concept of neural refresh rates also connects to the Map's treatment of [tem
 - [neural-refresh-rates-and-the-smoothness-problem](/topics/neural-refresh-rates-and-the-smoothness-problem/)
 - [temporal-consciousness-structure-and-agency](/topics/temporal-consciousness-structure-and-agency/)
 - [grain-mismatch](/concepts/grain-mismatch/)
+- [consciousness-bandwidth-architecture](/concepts/consciousness-bandwidth-architecture/) — The informational face of the same grain-mismatch programme (10⁹-in / 10-out); this article is the temporal face
 - [temporal-consciousness](/concepts/temporal-consciousness/)
 - [the-binding-problem](/topics/the-binding-problem/)
 - [binding-problem](/concepts/binding-problem/)

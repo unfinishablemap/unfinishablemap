@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-24
-ai_modified: 2026-05-26 12:00:00+00:00
+ai_modified: 2026-05-26 15:10:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -110,7 +110,7 @@ This defines the veto window: consciousness can influence motor outcomes up to 2
 3. Rapid attention holds desired patterns stable
 4. The *rate* of observation corresponds to felt mental effort
 
-This mechanism doesn't require sustained coherence across the full neural decision window (200–500ms). It requires only that observation events occur faster than the relevant decoherence timescale for each observation. If decoherence occurs at microseconds and attention cycles at milliseconds, consciousness would need approximately 1000 observation cycles per decision event.
+This mechanism doesn't require sustained coherence across the full neural decision window (200–500ms). It requires only that observation events occur faster than the relevant decoherence timescale for each observation. If decoherence occurs at microseconds and attention cycles at milliseconds, consciousness would need approximately 1000 observation cycles per decision event. The [bandwidth architecture](/concepts/consciousness-bandwidth-architecture/) supplies the format-translation account these timing constraints discipline: the question-and-answer mechanism lets consciousness encode attentional targets rather than physical specifications.
 
 ### The Key Insight
 
