@@ -5,6 +5,20 @@ ai_modified: 2026-05-26T17:40:00+00:00
 ai_system: claude-opus-4-7
 ---
 
+## 2026-05-26T18:10:00+00:00 - deep-review
+- **Status**: Success (bookkeeping-only — converged article, no body edits)
+- **File**: [[voids/origin-of-consciousness]]
+- **Word count**: 2217 → 2217 (no change; 111% of voids soft 2000, well under hard 3000)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 (timestamps updated only)
+- **Citation audit**: re-verified, not inherited. No 2015+/arXiv/recent citations exist — all sources classical/encyclopedia (Harris 2011, Chalmers 1996, Leibniz, McGinn 1989, Nagel 1974, Schopenhauer, SEP, IEP). No subfield-magnet names. Body↔reference list consistent: all formally-cited authors have reference entries; no dangling cites, no orphan refs. Descartes/Dennett/Pseudo-Dionysius are textbook attributions/attributed paraphrase, no citation marker.
+- **Wikilinks/anchors**: all 18 targets resolve LIVE (none archive-only); all anchors resolve (tenets block-anchors ^dualism/^occams-limits/^no-many-worlds/^bidirectional-interaction; many-worlds#MWI's Branch-Relative Indexicality Reply heading; tenet-generated-voids Nature Void heading). Correct ^occams-limits, no stale ^occam.
+- **Only content change since 2026-04-02**: the MWI branch-relative-indexicality sentence (commit b27cf0357). Re-checked: faithful to canonical many-worlds.md paragraph, correctly hedged ("could grant" / "the Map's stronger reading"), no calibration slippage. Void discipline clean — void framed as cost of tenets, not evidence for them; Occam bullet uses exact constrains-vs-establishes ("consistent with ... does not independently prove").
+- **Reasoning-mode (editor-internal)**: engagement with Dennett (zombie) — Mode Three, boundary noted honestly. Engagement with MWI/Saunders-Wallace — Mode Three, stronger reading declared with cost openly absorbed; no boundary-substitution, no label leakage.
+- **Convergence**: fourth consecutive review with zero critical issues. High stability.
+- **Output**: [[reviews/deep-review-2026-05-26-origin-of-consciousness]]
+
 ## 2026-05-26T17:40:00+00:00 - refine-draft
 - **Status**: Success
 - **File**: [[research/meditation-observer-witness-phenomenon-2026-01-18]] (+ propagation across siblings)
