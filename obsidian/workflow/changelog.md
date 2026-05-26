@@ -1,9 +1,27 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-26T00:14:00+00:00
+ai_modified: 2026-05-26T00:15:04+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-05-26T00:15:04+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[voids/vagueness-void]]
+- **Word count**: 2580 → 2996 (+416; voids band — soft 2000, hard 3000, critical 4000. Deliberately kept under the 3000 hard warning by trimming verbose existing prose in §"The Seam" and condensing the new additions; the article was already 580 over soft before this pass.)
+- **Task**: Addressed the four high/medium findings from [[reviews/pessimistic-2026-04-30c]] (P3→P2 promotion). Issue 3 (substrate-fuzziness scale slide) was already resolved in a prior pass — grep confirmed no Haueis/connectomic/quantum-channel content remains; not re-touched.
+- **Changes applied this pass**:
+  - (1) Conjunction-coalesce unification — added a paragraph to §"Three Faces, One Void" arguing the higher-order face is not a third problem but the *same* vagueness applied reflexively: one vocabulary at three targets, the metalanguage drawn from the repertoire whose object-level uses are vague. Removing the higher-order face would leave the other two dissolvable by a sharp metalanguage; the higher-order face is the demonstration none is available from inside. Trimmed the §"The Seam" closing sentence (now defers to this argument) to offset words.
+  - (2) Typology asymmetry — relabelled the Sorites heading "Unexplorable, with Occluded traces" and added justification: both faces share the logical structure and leave traces; the Sorites residue points *outward* (public usage), so the unmappability is logical, while the introspective residue is a first-person blind spot, so occlusion is load-bearing. The distinction is the direction of the residue, which is what the typology tracks.
+  - (4) Sharp-concept exclusions — added a scope paragraph after the "not exotic" para: formal (mathematical/logical) and self-referential indexical concepts have determinate extensions and admit no Sorites series; the void covers empirically-deployed concepts of mind. Clarified that "no neutral perch" survives because sharp categories are not vantage points on the vague ones (fixing *anger*'s borderline needs *anger*-judgements, not arithmetic).
+  - Language note from the review folded in: "structural rather than provisional" (para 2) varied to "structural rather than incidental" to break the repeat with the psychiatry paragraph.
+- **Lower-priority items (5/6/7) not done**: budget spent on the four high/medium fixes plus staying under the 3000 hard cap; reflexive-instability, Hampton attribution softening, and the optional Tenet 4 connection left for a future pass.
+- **Calibration check**: PASS — no constrains→establishes slippage; the unification argument says higher-order vagueness *demonstrates* no sharp metalanguage is available, which is warranted, not over-claimed.
+- **"This is not X. It is Y." cliché**: zero before, zero after (grep-confirmed). Preserved.
+- **Reasoning-mode (editor-internal)**: the Tye engagement (§Introspective Face) remains Mode Three framework-boundary marking — already says "not refuted inside Tye's framework here"; not re-touched. No editor-vocabulary leakage (grep-confirmed).
+- **Altered-state symmetry**: N/A — `evaluate_symmetry()` returns None (not an altered-states article).
+- **Published**: yes
+- **Validation**: frontmatter ✓ Valid
 
 ## 2026-05-26T00:14:00+00:00 - refine-draft
 - **Status**: Success
