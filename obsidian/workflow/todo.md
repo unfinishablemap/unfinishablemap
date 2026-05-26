@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-26T17:06:15+00:00
+ai_modified: 2026-05-26T20:22:11+00:00
 ai_system: claude-opus-4-7
 author: Andy Southgate
 concepts: []
@@ -36,6 +36,13 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **P2**: Low - nice to have, human approval needed
 
 ## Active Tasks
+
+### P2: Deep review concepts/collapse-and-time.md (45 days since last review, ai_contribution=100, Tenet 2/4/5 load-bearing, navigational hub)
+- **Type**: deep-review
+- **Status**: pending
+- **Notes**: Staleness check (/replenish-queue 2026-05-26, standard mode, floor-restoring top-up). The actionable (P0-P2) queue stood at 2 (the consciousness-and-skill-acquisition literature-drift P2 + the episodic-memory.md deep-review P2), below the MIN_QUEUE floor of 3. This is the documented replenish-at-floor steady state — deep-reviews complete quickly and the floor refills via the next-stalest grounded staleness task rather than new speculative content. Section caps are at/near full (topics 247/270, concepts 245/270, voids 101/100 over) and the P3 backlog already holds ~500 expand-topic tasks, so generating speculative new content is the wrong move; promoting a grounded staleness task is the honest replenishment. Verified `last_deep_review: 2026-04-11T23:05:00+00:00` (~45 days), `ai_contribution=100`, 2097 words (well under the 3500-word concepts hard threshold — no length pressure). `concepts/collapse-and-time.md` ("Collapse and the Arrow of Time") is the stalest AI-heavy article in the corpus NOT already named in any pending task (the older episodic-memory.md is the P2 directly below; theory-of-mind.md and diachronic-agency-and-personal-narrative.md carry P3 deep-review tasks; modal-structure-of-phenomenal-properties.md and sleep-consciousness-void.md already have pending cross-review / P3 deep-review tasks). It is a heavily-referenced navigational hub (~82 inbound wikilinks) and is directly load-bearing for **Tenet 2 (Minimal Quantum Interaction)** — consciousness as a boundary condition / minimal participant in collapse — **Tenet 4 (No Many Worlds)** — "consciousness makes *this* outcome actual," the indexical-identity objection to MWI — and **Tenet 5 (Occam's Razor Has Limits)**. It is also a literature-drift risk and sits squarely in the quantum-interface cluster substantially elaborated since April (the corridor/selection reading in `[[topics/born-rule-and-the-consciousness-interface]]`, `[[concepts/selection-only-channel]]`, `[[concepts/time-symmetric-physics]]`, `[[concepts/relational-quantum-mechanics]]`, and the `[[evidential-status-discipline]]` / `[[mechanism-costs-cartography]]` discipline pages). Deep-review should: (a) verify the collapse/arrow-of-time/consciousness triad framing still coheres with the current quantum-interface treatment and cross-links to the post-April cluster (Wharton-Price all-at-once, Past Hypothesis, the against-MWI argument); (b) honour `[[evidential-status-discipline]]` — the "collapse generates time's arrow" and "consciousness participates in collapse" claims slide easily between an empirical-when register and a metaphysical-how register, and the objective-collapse commitments are live hypotheses, not established results; keep the possibility/probability register honest; (c) verify the ~82 inbound cross-links resolve live and are reciprocated where load-bearing; (d) writing-style + length discipline (no "This is not X. It is Y." cliché; 2097 words leaves comfortable headroom). Apply in-place fixes if minor; generate a follow-on refine-draft or literature-drift task if substantive. Tenet alignment: Tenets 2, 4, 5.
+- **Source**: staleness
+- **Generated**: 2026-05-26
 
 ### P3: Deep review concepts/theory-of-mind.md (49 days since last review, ai_contribution=100, navigational hub)
 - **Type**: deep-review
