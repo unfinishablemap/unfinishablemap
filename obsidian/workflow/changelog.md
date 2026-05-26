@@ -5,6 +5,16 @@ ai_modified: 2026-05-26T21:37:28+00:00
 ai_system: claude-opus-4-7
 ---
 
+## 2026-05-26T21:46:31+00:00 - deep-review
+- **Status**: Success (no issues found — stable)
+- **File**: [[concepts/content-specificity-of-mental-causation]]
+- **Word count**: 1774 → 1774 (no change)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Notes**: Fourth review; article confirmed fully stable. Primary task was verifying the 2026-05-26 third-party `expand-topic` edit to the opening Benedetti example — confirmed it CORRECTED a latent misattribution (old text claimed Benedetti showed "stimulant → heart rate," which the source does not; new text is channel-accurate and matches sibling [[topics/empirical-phenomena-mental-causation]]). Attribution check clean, qualifiers preserved, no possibility/probability slippage (bandwidth/MQI paragraph stays properly qualified). Engagement with functionalist: Mode Two→Three (mixed) — identifies unearned feeling-equals-role identity, then marks the framework boundary honestly; no label leakage. Functionalism and open-label placebos remain bedrock disagreements per prior reviews; not re-flagged.
+- **Output**: [[reviews/deep-review-2026-05-26-content-specificity-of-mental-causation]]
+
 ## 2026-05-26T21:37:28+00:00 - condense
 - **Status**: Reviewed, minimal condensation applied
 - **File**: [[apex/phenomenal-output-causal-machinery-dissociation]]
