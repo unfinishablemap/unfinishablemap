@@ -1,9 +1,20 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-26T00:44:13+00:00
+ai_modified: 2026-05-26T00:52:57+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-05-26T00:52:57+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[topics/bandwidth-of-consciousness]]
+- **Task**: P2 topic-concept anchoring audit (2026-05-26) — topic over-claimed relative to anchor concept [[counterfactual-reasoning]]; failed hedge_density (2.63/kw < 60% of anchor's 11.53/kw) and strong_assertions (2 verbs where anchor uses none). Calibration-only refine per [[project/calibration-audit-triple]] Audit Three and [[evidential-status-discipline]].
+- **Word count**: 3796 → 3910 (net-neutral; only hedge words added, no material expansion. Under 4000 hard topic threshold. Pre-existing length was already over the 3000 soft cap; this pass did not materially change that.)
+- **Strong-assertion fixes** (2 → 0): "Conscious processing rate *proves* much higher" → "turns out much higher" (the scanner-tripping verb was a conditional false positive, reworded to avoid the marker); "outbound bandwidth empirically *confirms* what the tenet stipulates" → "is strikingly compatible with… may find its empirical expression… though the data constrain rather than establish the reading, since a production architecture could in principle yield the same ceiling" — the only genuine over-claim, fixed by honoring constrain-vs-establish.
+- **Hedge calibration** (density 2.63/kw → 9.21/kw, ≥ anchor-60% target 6.92/kw): added contingency hedges only where claims are genuinely contingent on the dualist/filter/interface reading — lead ("on the dualist reading", "may define", "arguably", "appear to handle more naturally"); forced-abstraction, why-coarseness, resolution-coupling sections ("appears", "may", "on this reading"); the four interpretive subsections under "Why the Asymmetry Is Philosophically Revealing" ("may seem puzzling", "appears", "seems to hold", "may capture"); epiphenomenalism test ("suggests", "may reinforce"); evolutionary-puzzle ("may explain", "appears to hold"). Empirical bit-rate reporting (Hick, Miller, Zheng & Meister tables) left firm — calibration targets the interpretive layer, not the data.
+- **Engagement with the production theorist / GWT**: Mode Two→Three mixed. Added an in-prose concession that "a production theorist could reply that the workspace bottleneck is exactly such an imposition" (against-production-models section) — the boundary disagreement is now noted honestly rather than dressed as refutation.
+- **Altered-state symmetry**: the psychedelic entropy-richness claim gained "though the entropy-richness correlation could admit production-side readings too", granting the symmetric concession rather than citing it as one-sided confirmation.
+- **Discipline honored**: constrain-vs-establish; removing-a-defeater ≠ upgrading-evidence. Central interface/selection thesis NOT weakened — only calibrated. "This is not X. It is Y." cliché count: 0 (verified). evaluate_anchoring() now returns 0 flags against all anchors (was 6, including the target counterfactual-reasoning).
 
 ## 2026-05-26T00:44:13+00:00 - refine-draft
 - **Status**: Success
