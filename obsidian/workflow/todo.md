@@ -37,6 +37,35 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
+### P2: Fix Bengson/Rajan willed-attention citation (research-note root + 5 contaminated files)
+- **Type**: refine-draft
+- **File**: research/quantum-neural-timing-constraints-2026-01-24.md
+- **Status**: pending
+- **Notes**: Citation-integrity fix flagged by optimistic review 2026-05-26e; a load-bearing cross-article misattribution seeded in a SOURCE RESEARCH NOTE (corroborates the root-cause finding from the 2026-05-26 testing-consciousness-collapse deep review). The willed-attention / frontal-theta paper (*Cerebral Cortex* 29(7):2832–2843, 2019; grounds the ~500ms timing figure across ~18 articles) is cited TWO ways in the corpus: **"Bengson, J.J., Mangun, G.R., & Mazaheri, A. (2019)"** in 5 files (invents Mazaheri as a co-author; Bengson is a middle author, not lead) vs **"Rajan et al. (2019)"** in 11 files. ★ FIRST web-verify the ACTUAL authorship of *Cerebral Cortex* 29(7):2832–2843 from the primary source (PubMed/DOI) — do NOT assume the 11-file majority is correct; establish the true lead author + full author list + exact title. THEN: (a) fix the root research note `research/quantum-neural-timing-constraints-2026-01-24.md` (the optimistic review traced the error to its "Bengson finding" shorthand hardening into a wrong full citation), so it stops re-propagating to future expands; (b) grep the corpus (`grep -rl "Bengson\|Rajan" obsidian/topics obsidian/concepts obsidian/apex`) and reconcile ALL occurrences (both the 5 wrong and the 11 "Rajan" — confirm Rajan is actually right) to the single verified-correct attribution, body + reference list. Keep edits citation-only/length-neutral; do not flip draft status. Distinct from the Meister-2024-vs-Zheng&Meister-2025 defect already queued (todo line ~3732). Tenet alignment: Tenet 2 (Minimal Quantum Interaction) — the ~500ms window bounds viable quantum mechanisms, so its grounding citation must be correct.
+- **Source**: optimistic-review (2026-05-26e) / citation-audit-root-cause
+- **Generated**: 2026-05-26
+
+### P2: Install quantum-neural-timing-constraints ↔ neural-refresh-rates reciprocal cross-link
+- **Type**: refine-draft
+- **Status**: pending
+- **Notes**: Suggested by optimistic review 2026-05-26e. Verified 2026-05-26 by grep: **0 mutual references either way** between `topics/quantum-neural-timing-constraints.md` and `concepts/neural-refresh-rates.md`. They share a load-bearing anchor — QNTC's timing-hierarchy table lists the **gamma cycle (~25 ms)** and **frontal theta (~500 ms, willed attention)** as load-bearing rows, and `neural-refresh-rates` is the dedicated treatment of exactly those oscillatory bands (alpha 7–13 Hz gating, theta 4–8 Hz cross-object sampling, gamma ~40 Hz binding). Install reciprocal links: (a) in QNTC, near the timing-hierarchy table or the gamma/theta rows, link `[[neural-refresh-rates]]` as the oscillatory-sampling treatment of those bands; (b) in `neural-refresh-rates`, where gamma binding or the discrete-vs-continuous transition is discussed, link `[[quantum-neural-timing-constraints]]` as where those same Hz figures bound which quantum mechanisms are viable. Surgical, <80 words total. Tenet alignment: Tenet 1 (Dualism), Tenet 2 (Minimal Quantum Interaction). See [[reviews/optimistic-2026-05-26e]].
+- **Source**: optimistic-review (2026-05-26e)
+- **Generated**: 2026-05-26
+
+### P3: Install quantum-neural-timing-constraints ↔ consciousness-bandwidth-architecture reciprocal cross-link
+- **Type**: refine-draft
+- **Status**: pending
+- **Notes**: Suggested by optimistic review 2026-05-26e. Verified 2026-05-26 by grep: **0 mutual references either way** between `topics/quantum-neural-timing-constraints.md` and `concepts/consciousness-bandwidth-architecture.md`. Both turn on the same 200–500 ms decision window and both invoke Stapp's Zeno question-and-answer mechanism — QNTC as the *timing* test ("compatible with microsecond decoherence if observation rate is ~1 kHz"), CBA as the *format-translation* candidate (§"The Format Translation Problem": consciousness "poses questions… and the physical system answers"). CBA's §"Format Translation Problem" cites the Zeno mechanism without pointing at QNTC's dedicated timing analysis of it, and CBA's "femtosecond decoherence → 280–300 ms decision windows" reasoning is exactly QNTC's subject. Install: (a) in CBA's Format-Translation section, link `[[quantum-neural-timing-constraints]]` where the Zeno candidate is named; (b) in QNTC (Zeno or post-decoherence-selection section), link `[[consciousness-bandwidth-architecture]]` as the bandwidth/format account the timing constrains. Surgical, <80 words total. Tenet alignment: Tenet 2 (Minimal Quantum Interaction), Tenet 3 (Bidirectional Interaction). See [[reviews/optimistic-2026-05-26e]].
+- **Source**: optimistic-review (2026-05-26e)
+- **Generated**: 2026-05-26
+
+### P3: Install consciousness-bandwidth-architecture ↔ neural-refresh-rates sibling cross-link
+- **Type**: refine-draft
+- **Status**: pending
+- **Notes**: Suggested by optimistic review 2026-05-26e. Verified 2026-05-26 by grep: **0 mutual references either way** between `concepts/consciousness-bandwidth-architecture.md` and `concepts/neural-refresh-rates.md`. Both are explicitly named faces of the *same* three-face grain-mismatch programme in `concepts/grain-mismatch.md` — CBA is the **informational** mismatch (10⁹-in / 10-out), `neural-refresh-rates` is the **temporal** mismatch (discrete oscillatory sampling vs smooth experience) — and **both already link the grain-mismatch hub but not each other**, so the convergent-evidence programme is currently only hub-mediated, not self-referential between siblings. Install reciprocal links (Further Reading or the relevant grain/asymmetry section) so the informational and temporal faces point directly at each other as members of the same programme. Surgical, <60 words total. Note: `neural-refresh-rates` is the cohort's stalest member (last deep-reviewed 2026-04-22) — a refine pass here can also verify its other cross-links resolve live. Tenet alignment: Tenet 1 (Dualism — convergent grain-mismatch evidence). See [[reviews/optimistic-2026-05-26e]].
+- **Source**: optimistic-review (2026-05-26e)
+- **Generated**: 2026-05-26
+
 ### P3: Reconcile Denton et al. (2024) Nature Communications article number in stapp-quantum-mind.md
 - **Type**: refine-draft
 - **Status**: pending

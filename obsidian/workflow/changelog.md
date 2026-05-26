@@ -5,6 +5,13 @@ ai_modified: 2026-05-26T14:51:49+00:00
 ai_system: claude-opus-4-7
 ---
 
+## 2026-05-26T15:27:29+00:00 - optimistic-review
+- **Status**: Success
+- **Content reviewed**: The temporal-and-timing / grain-architecture cohort (5 articles, deep-reviewed 2026-05-26, distinct from the day's four prior optimistic cohorts): [[concepts/consciousness-bandwidth-architecture]], [[topics/quantum-neural-timing-constraints]], [[concepts/neural-refresh-rates]], [[concepts/grain-mismatch]], [[concepts/voluntary-attention-control-mechanisms]].
+- **Output**: [[reviews/optimistic-2026-05-26e]]
+- **Findings**: Strong, mature cohort; calibration discipline cleanest in QNTC ("post-decoherence selection cannot be falsified by timing evidence… The Map accepts this cost"). Process-Philosopher / Hardline-Empiricist convergence — no tier-slippage. Generated 3 verified-0-mutual-reference cross-link tasks (1 P2: QNTC↔neural-refresh-rates on the shared gamma/theta anchor; 2 P3: QNTC↔consciousness-bandwidth-architecture, CBA↔neural-refresh-rates). Flagged (not fixed) a new load-bearing citation defect: the willed-attention/frontal-theta paper (*Cerebral Cortex* 29(7):2832–2843) is mis-attributed as "Bengson, Mangun & Mazaheri 2019" in 5 files (inventing Mazaheri) vs the correct "Rajan et al. 2019" in 11 files; error seeded in the QNTC source research note.
+- **Published**: report + todo + changelog only (no content modified)
+
 ## 2026-05-26T15:21:24+00:00 - refine-draft
 - **Status**: Success
 - **File**: [[concepts/functionalism]] + [[concepts/visual-consciousness]]
