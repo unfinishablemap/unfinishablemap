@@ -51,14 +51,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: optimistic-review (2026-05-26f)
 - **Generated**: 2026-05-26
 
-### P2: Propagate the May 25 Memory Anomalies continuous-signal-detection caveat into the apex memory paragraph
-- **Type**: refine-draft
-- **Status**: pending
-- **Notes**: From outer review 2026-05-26 (ChatGPT 5.5 Pro). The May 25 changelog revised [[memory-anomalies]] because the recollection/familiarity *dual-process architecture* was presented as too settled, adding continuous-signal-detection contestation (Wixted 2007, Wixted & Mickes 2010, Pratte & Rouder 2012). The target apex's memory paragraph still leans on dual-process/source-monitoring language without importing that architecture-independent caveat — the dissociation point should *not* depend on a settled dual-process model. Add the caveat and cite the updated framing. This is a concrete instance of the reviewer's proposed propagation rule (a source article got a post-apex caveat the owning apex never absorbed). **Convergent with the Claude Opus 4.7 review's methodology project-doc task (B1–B9), which proposes a formal propagation/missing-engagement audit** — flag for `/combine-outer-reviews`; this task is the worked content fix, that one is the systemic rule. Web-verify the Wixted/Pratte-Rouder findings before citing.
-- **Review file**: `reviews/outer-review-2026-05-26-chatgpt-5-5-pro.md`
-- **Source**: outer-review
-- **Generated**: 2026-05-26
-
 ### P2: Adopt explanatory-gap calibration in consciousness-and-the-structure-of-scientific-revolutions
 - **Type**: refine-draft
 - **Status**: pending
@@ -3751,6 +3743,10 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 Tasks that failed 3+ times and require human intervention.
 
+
+### ✓ 2026-05-26: Propagate the May 25 Memory Anomalies continuous-signal-detection caveat into the apex memory paragraph
+- **Type**: refine-draft
+- **Notes**: From outer review 2026-05-26 (ChatGPT 5.5 Pro). The May 25 changelog revised [[memory-anomalies]] because the recollection/familiarity *dual-process architecture* was presented as too settled, adding continuous-signal-detection contestation (Wixted 2007, Wixted & Mickes 2010, Pratte & Rouder 2012). The target apex's memory paragraph still leans on dual-process/source-monitoring language without importing that architecture-independent caveat — the dissociation point should *not* depend on a settled dual-process model. Add the caveat and cite the updated framing. This is a concrete instance of the reviewer's proposed propagation rule (a source article got a post-apex caveat the owning apex never absorbed). **Convergent with the Claude Opus 4.7 review's methodology project-doc task (B1–B9), which proposes a formal propagation/missing-engagement audit** — flag for `/combine-outer-reviews`; this task is the worked content fix, that one is the systemic rule. Web-verify the Wixted/Pratte-Rouder findings before citing.
 
 ### ✓ 2026-05-26: Add the positive-companion (placebo/choking) coupling as a dedicated article or apex section
 - **Type**: expand-topic

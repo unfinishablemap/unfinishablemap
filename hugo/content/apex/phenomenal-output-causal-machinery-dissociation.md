@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-05-09
-ai_modified: 2026-05-26 18:38:52+00:00
+ai_modified: 2026-05-26 18:42:51+00:00
 ai_system: claude-opus-4-7
 apex_last_synthesis: 2026-05-09 17:38:00+00:00
 apex_sources:
@@ -103,7 +103,7 @@ The dissociation appears across three nested timescales. The signatures match; t
 
 At the instant of perception, recognition delivers content with the act of recognising hidden behind it. The [recognition void](/voids/recognition-void/) names the gap between perceiving and knowing-*as*, where consciousness must find meaning in what it already sees but cannot observe itself doing so. Bruce and Young's two-component model and the Capgras-prosopagnosia double dissociation expose recognition as a hidden compound of perceptual identification and affective familiarity bound together invisibly. The patient experiences "this person feels wrong" or "this face means nothing"; neither experiences "my familiarity module is offline." The failure is given as content, not as mechanism.
 
-The [memory anomalies cluster](/topics/memory-anomalies/) develops the same dissociation along three rotations of a single source-monitoring failure. Déjà vu is felt pastness without retrievable past — Cleary's gestalt-match paradigm shows configurational match producing the experience without retrievable source. Jamais vu is felt alienness on still-known material; cryptomnesia is recollection without source-tag. What arrives in consciousness is the verdict (familiar / alien / mine); what stays hidden is the dual-process retrieval and source-monitoring machinery that produced it.
+The [memory anomalies cluster](/topics/memory-anomalies/) develops the same dissociation along three rotations of a single source-monitoring failure. Déjà vu is felt pastness without retrievable past — Cleary's gestalt-match paradigm shows configurational match producing the experience without retrievable source. Jamais vu is felt alienness on still-known material; cryptomnesia is recollection without source-tag. What arrives in consciousness is the verdict (familiar / alien / mine); what stays hidden is the retrieval and source-monitoring machinery that produced it. The "three rotations on a single failure" framing is stated on the familiarity/recollection dual-process reading, but the dissociation the cluster needs does not ride on that architecture being settled — and it is not. The active 2020s recognition-memory literature contests the dual-process model: Wixted's signal-detection critique (Wixted 2007, finding the literature "almost unanimous" in favouring a unidimensional signal-detection account over a process-pure threshold model) and Wixted and Mickes's (2010) continuous dual-process model treat familiarity and recollection as *quantitatively* different read-out points on one memory-strength variable rather than two *qualitatively* distinct processes, and Pratte and Rouder (2012) report that conventional dissociation manipulations fail to dissociate the two — the data are more parsimoniously fit by a single mnemonic process. As [the source article now flags](/topics/memory-anomalies/#dual-process), the dissociation re-derives architecture-independently: strip out the two-channel commitment and the gap between the signal-pattern that *produces* felt pastness and the signal-pattern that would *track* an actual past survives intact, however recognition decomposes. Continuous-signal-detection relocates the boundary (high strength without recoverable source, low strength with retained semantics); it does not close the output-while-operation-hidden gap. The cluster's claim is that the verdict is felt while its production is opaque, and that holds whether the channels are metaphysically two or one.
 
 Cleary's larger programme complicates the clean reading and should be granted rather than truncated. Cleary and Claxton (2018) found that déjà vu produces an increased *feeling* of knowing the direction of the next turn in a navigational analogue, yet predictions stayed at chance — the premonition is an illusory feeling, not veridical foresight; Cleary and colleagues (2019) document a companion postdictive bias, a heightened "it unfolded as I expected" feeling after the event, scaling with familiarity intensity. These findings are mildly unfriendly to the cluster's clean "the verdict is the explanandum" reading: the architecture here generates verdicts that are not merely opaque about their production but *systematically wrong about content*, which a constructed-attribution account (a fluency signal misattributed as prediction or confirmation) absorbs more naturally than an interface-to-a-distinct-register reading. The cluster's honest position is that déjà vu's premonition and postdictive feelings are themselves further opaque-process-producing-felt-output instances — meta-feelings of prediction and confirmation generated sub-personally — which preserves the output-while-operation-hidden signature but at the cost of conceding that the verdicts can be content-false, so their felt certainty cannot be leaned on as evidence about what produced them. That concession is the constrain-vs-establish discipline operating exactly as it should.
 
@@ -277,19 +277,22 @@ The unifying picture: phenomenal output and causal machinery are dissociable acr
 38. Piazza, M., Fumarola, A., Chinello, A., & Melcher, D. (2011). "Subitizing reflects visuo-spatial object individuation capacity." *Cognition*, 121(1), 147–153.
 39. Pitt, D. (2004). "The phenomenology of cognition, or, what is it like to think that P?" *Philosophy and Phenomenological Research*, 69(1), 1–36.
 40. Polanyi, M. (1966). *The Tacit Dimension*. University of Chicago Press.
-41. Sandved-Smith, L., Hesp, C., Mattout, J., Friston, K., Lutz, A., & Ramstead, M. J. D. (2021). "Towards a computational phenomenology of mental action: modelling meta-awareness and attentional control with deep parametric active inference." *Neuroscience of Consciousness*, 2021(1), niab018.
-42. Sant'Anna, A., Michaelian, K., & Andonovski, N. (2024). "Autonoesis and episodicity: Perspectives from philosophy of memory." *WIREs Cognitive Science*, 15(6), e1665.
-43. Schwartz, B. L. (1999). "Sparkling at the end of the tongue: The etiology of tip-of-the-tongue phenomenology." *Psychonomic Bulletin & Review*, 6(3), 379–393.
-44. Schwengerer, L. (2019). "Self-Knowledge in a Predictive Processing Framework." *Review of Philosophy and Psychology*, 10(3), 563–585.
-45. Schwitzgebel, E. (2011). *Perplexities of Consciousness*. MIT Press.
-46. Seghezzi, S., Parés-Pujolràs, E., & Haggard, P. (2025). "Intentional binding decreases during learning: implications for sense of agency." *Quarterly Journal of Experimental Psychology*. https://doi.org/10.1177/17470218251349521
-47. Strawson, G. (1994). *Mental Reality*. MIT Press.
-48. Thompson, V. A., Prowse Turner, J. A., & Pennycook, G. (2011). "Intuition, reason, and metacognition." *Cognitive Psychology*, 63(3), 107–140.
-49. Trick, L. M. & Pylyshyn, Z. W. (1994). "Why are small and large numbers enumerated differently?" *Psychological Review*, 101(1), 80–102.
-50. Tulving, E. (1985). "Memory and consciousness." *Canadian Psychology*, 26(1), 1–12.
-51. Vohs, K. D. et al. (2021). "A multisite preregistered paradigmatic test of the ego-depletion effect." *Psychological Science*, 32(10), 1566–1581.
-52. Wegner, D. M. (2002). *The Illusion of Conscious Will*. MIT Press.
-53. Wen, W. & Imamizu, H. (2022). "The sense of agency in perception, behaviour and human–machine interactions." *Nature Reviews Psychology*, 1, 211–222.
-54. Westbrook, A. et al. (2020). "Dopamine promotes cognitive effort by biasing the benefits versus costs of cognitive work." *Science*, 367(6484), 1362–1366.
-55. Southgate, A. & Oquatre-sept, C. (2026-05-09). Memory Anomalies. *The Unfinishable Map*. https://unfinishablemap.org/topics/memory-anomalies/
-56. Southgate, A. & Oquatre-sept, C. (2026-05-08). Empirical Phenomena of Mental Causation. *The Unfinishable Map*. https://unfinishablemap.org/topics/empirical-phenomena-mental-causation/
+41. Pratte, M. S. & Rouder, J. N. (2012). "Assessing the dissociability of recollection and familiarity in recognition memory." *Journal of Experimental Psychology: Learning, Memory, and Cognition*, 38(6), 1591–1607.
+42. Sandved-Smith, L., Hesp, C., Mattout, J., Friston, K., Lutz, A., & Ramstead, M. J. D. (2021). "Towards a computational phenomenology of mental action: modelling meta-awareness and attentional control with deep parametric active inference." *Neuroscience of Consciousness*, 2021(1), niab018.
+43. Sant'Anna, A., Michaelian, K., & Andonovski, N. (2024). "Autonoesis and episodicity: Perspectives from philosophy of memory." *WIREs Cognitive Science*, 15(6), e1665.
+44. Schwartz, B. L. (1999). "Sparkling at the end of the tongue: The etiology of tip-of-the-tongue phenomenology." *Psychonomic Bulletin & Review*, 6(3), 379–393.
+45. Schwengerer, L. (2019). "Self-Knowledge in a Predictive Processing Framework." *Review of Philosophy and Psychology*, 10(3), 563–585.
+46. Schwitzgebel, E. (2011). *Perplexities of Consciousness*. MIT Press.
+47. Seghezzi, S., Parés-Pujolràs, E., & Haggard, P. (2025). "Intentional binding decreases during learning: implications for sense of agency." *Quarterly Journal of Experimental Psychology*. https://doi.org/10.1177/17470218251349521
+48. Strawson, G. (1994). *Mental Reality*. MIT Press.
+49. Thompson, V. A., Prowse Turner, J. A., & Pennycook, G. (2011). "Intuition, reason, and metacognition." *Cognitive Psychology*, 63(3), 107–140.
+50. Trick, L. M. & Pylyshyn, Z. W. (1994). "Why are small and large numbers enumerated differently?" *Psychological Review*, 101(1), 80–102.
+51. Tulving, E. (1985). "Memory and consciousness." *Canadian Psychology*, 26(1), 1–12.
+52. Vohs, K. D. et al. (2021). "A multisite preregistered paradigmatic test of the ego-depletion effect." *Psychological Science*, 32(10), 1566–1581.
+53. Wegner, D. M. (2002). *The Illusion of Conscious Will*. MIT Press.
+54. Wen, W. & Imamizu, H. (2022). "The sense of agency in perception, behaviour and human–machine interactions." *Nature Reviews Psychology*, 1, 211–222.
+55. Westbrook, A. et al. (2020). "Dopamine promotes cognitive effort by biasing the benefits versus costs of cognitive work." *Science*, 367(6484), 1362–1366.
+56. Wixted, J. T. (2007). "Dual-process theory and signal-detection theory of recognition memory." *Psychological Review*, 114(1), 152–176.
+57. Wixted, J. T. & Mickes, L. (2010). "A continuous dual-process model of remember/know judgments." *Psychological Review*, 117(4), 1025–1054.
+58. Southgate, A. & Oquatre-sept, C. (2026-05-09). Memory Anomalies. *The Unfinishable Map*. https://unfinishablemap.org/topics/memory-anomalies/
+59. Southgate, A. & Oquatre-sept, C. (2026-05-08). Empirical Phenomena of Mental Causation. *The Unfinishable Map*. https://unfinishablemap.org/topics/empirical-phenomena-mental-causation/

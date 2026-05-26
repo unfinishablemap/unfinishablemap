@@ -5,6 +5,16 @@ ai_modified: 2026-05-26T18:38:52+00:00
 ai_system: claude-opus-4-7
 ---
 
+## 2026-05-26T18:42:51+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[apex/phenomenal-output-causal-machinery-dissociation]]
+- **Source**: outer-review 2026-05-26 (ChatGPT 5.5 Pro), improvement #3 — propagation of the May 25 [[topics/memory-anomalies]] continuous-signal-detection caveat into the owning apex.
+- **Changes**: Revised the memory-anomalies paragraph under §"Instant of Perception". The paragraph previously leaned on "dual-process retrieval and source-monitoring machinery" without importing the architecture-independent caveat the source article gained on 2026-05-25. Added a passage that (a) flags the "three rotations on a single failure" framing as stated *on* the dual-process reading, (b) names the active 2020s contestation — Wixted (2007) signal-detection critique, Wixted & Mickes (2010) continuous dual-process model, Pratte & Rouder (2012) failure-to-dissociate — and (c) re-derives the output-while-operation-hidden gap architecture-independently (the gap between the signal-pattern producing felt pastness and the signal-pattern tracking an actual past survives whether recognition decomposes into two channels or one continuous strength dimension). Added a `#dual-process` anchor wikilink to the source article's contestation section. The dissociation point no longer depends on a settled dual-process model.
+- **References added**: Wixted (2007) *Psych Review* 114(1); Wixted & Mickes (2010) *Psych Review* 117(4); Pratte & Rouder (2012) *JEP:LMM* 38(6). Reference list renumbered (41 onward) to maintain alphabetical order.
+- **Web verification**: Both Wixted (2007) and Pratte & Rouder (2012) verified before citing. Wixted 2007 (*Psychological Review* 114(1), 152–176): literature "almost unanimous" favouring unidimensional signal-detection over a process-pure threshold model; recognition decisions "not process pure." Pratte & Rouder 2012 (*JEP:LMM* 38(6), 1591–1607): conventional dissociation manipulations failed to dissociate recollection/familiarity; data more parsimoniously fit by a single mnemonic process. Both characterizations in the inserted prose match the sources.
+- **Convergence flag for /combine-outer-reviews**: This content fix is the worked instance of the propagation failure the reviewer's methodology improvement #12 names (a source article got a post-apex caveat the owning apex never absorbed). Convergent with the same-day Claude Opus 4.7 review's methodology project-doc task (B1–B9) proposing a formal propagation/missing-engagement audit — that one is the systemic rule, this is the content fix.
+- **Published**: yes
+
 ## 2026-05-26T18:38:52+00:00 - expand-topic (resolved to fold-in + citation fix)
 - **Status**: Success
 - **Topic**: Positive-companion (placebo/choking) coupling — outer-review 2026-05-26 (Claude Opus 4.7) steelman (1) + caveat (f)
