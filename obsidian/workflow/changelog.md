@@ -5,6 +5,20 @@ ai_modified: 2026-05-26T12:14:27+00:00
 ai_system: claude-opus-4-7
 ---
 
+## 2026-05-26T13:10:54+00:00 - deep-review
+- **Status**: Success
+- **File**: [[concepts/jourdain-hypothesis]]
+- **Word count**: 2849 → 2849 (114% of 2500 concepts soft target; length-neutral — author-name correction only)
+- **Critical issues addressed**: 1 — **misattribution corrected (web-verified)**: "Apes have culture but may not know that they do" (*Front. Psychol.* 2015, 6, 91) and the Jourdain Hypothesis itself were attributed to **Andrew Whiten**; the actual authors are **Gruber, Zuberbühler, Clément & van Schaik (2015)** (Whiten is cited within, not an author). Confirmed against PMC4319388 / PubMed 25705199 / Frontiers. Fixed all 3 occurrences (opening, literary-reference section, References list); references re-alphabetised. Error had survived 4 prior reviews that asserted the citation correct without consulting the primary source.
+- **Citation verification**: Tennie, Call & Tomasello (2009) "Ratcheting up the ratchet," *Phil. Trans. R. Soc. B* 364(1528) 2405-2415 + "zone of latent solutions" finding-direction — web-verified correct (doi 10.1098/rstb.2009.0052), no change.
+- **Link hygiene**: all 13 wikilinks resolve to live obsidian files; tenet anchors `^bidirectional-interaction`, `^dualism` present in tenets.md; `metacognition#the-metarepresentation-threshold` resolves; no stale `^occam*` anchors.
+- **Calibration check**: passed — core claim consistently conditional ("if metarepresentation requires phenomenal consciousness," "isn't conclusive," "shifts the burden"); no possibility/probability slippage; a tenet-accepting reviewer would not flag overstatement.
+- **Reasoning-mode (functionalist challenge)**: Mode Two/Three — identifies pure functionalism helps itself to "recursive processing = metarepresentation" without specifying the bridge, then declares the residual phenomenology question a framework-boundary matter. No boundary-substitution, no editor-vocabulary label leakage in prose.
+- **Cliché check**: no "This is not X. It is Y." construct present.
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 (convergence; the one edit is the credibility-protecting attribution fix)
+- **Output**: [[reviews/deep-review-2026-05-26-jourdain-hypothesis]]
+
 ## 2026-05-26T13:10:00+00:00 - deep-review
 - **Status**: Success
 - **File**: [[concepts/observational-closure]]
