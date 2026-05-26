@@ -37,6 +37,30 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
+### P2: Adopt mental-causation-and-downward-causation calibration in causal-closure-debate-historical-survey
+- **Type**: refine-draft
+- **Status**: pending
+- **File**: obsidian/topics/causal-closure-debate-historical-survey.md
+- **Notes**: From topic-concept anchoring audit 2026-05-26. The topic article over-claims relative to its anchor concept [[mental-causation-and-downward-causation]]; failed checks: hedge_density, strong_assertions, underdetermination_markers.
+  - hedge density 1.62/kw is below 60% of anchor (2.71/kw)
+  - topic uses 5 strong-assertion verbs where anchor uses none
+  - anchor declares underdetermination (1× explicit) but topic has no underdetermination markers
+  - Action: bring the topic's hedge profile in line with the anchor concept's. Preserve the article's voice; this is not a request to weaken the central claim, only to inherit the calibration discipline the anchor concept already uses. See [[project/calibration-audit-triple]] Audit Three for the spec and [[evidential-status-discipline]] for the underlying rule.
+- **Source**: topic-concept-anchoring-audit
+- **Generated**: 2026-05-26
+
+### P2: Adopt phenomenal-consciousness calibration in biological-teleology-and-the-interface-framework
+- **Type**: refine-draft
+- **Status**: pending
+- **File**: obsidian/topics/biological-teleology-and-the-interface-framework.md
+- **Notes**: From topic-concept anchoring audit 2026-05-26. The topic article over-claims relative to its anchor concept [[phenomenal-consciousness]]; failed checks: hedge_density, strong_assertions.
+  - hedge density 1.66/kw is below 60% of anchor (6.76/kw)
+  - topic uses 1 strong-assertion verbs where anchor uses none
+  - Action: bring the topic's hedge profile in line with the anchor concept's. Preserve the article's voice; this is not a request to weaken the central claim, only to inherit the calibration discipline the anchor concept already uses. See [[project/calibration-audit-triple]] Audit Three for the spec and [[evidential-status-discipline]] for the underlying rule.
+- **Source**: topic-concept-anchoring-audit
+- **Generated**: 2026-05-26
+
+
 ### P3: Deep review topics/neural-refresh-rates-and-the-smoothness-problem.md (49 days since last review, ai_contribution=100, Tenet 1 load-bearing)
 - **Type**: deep-review
 - **Status**: pending
@@ -3683,13 +3707,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Generated**: 2026-05-18
 - **Completed**: 2026-05-19 (resolved 2026-05-19 by /replenish-queue)
 
-### P2: Deep review concepts/pragmatism.md (60 days since last review, ai_contribution=100)
-- **Type**: deep-review
-- **Status**: pending
-- **Notes**: Staleness check (/replenish-queue 2026-05-26, second top-up of the day): the actionable (P0-P2) queue stood at 2 (the consciousness-and-skill-acquisition literature-drift P2 + the supervenience.md deep-review P2 promoted earlier today), below the MIN_QUEUE floor of 3. `concepts/pragmatism.md` ("Pragmatism") is the next-oldest stale AI-heavy article in the corpus after supervenience.md — last deep-reviewed 2026-03-26 (~60 days ago) with `ai_contribution=100` — and is not otherwise queued as a deep-review/staleness task (existing pragmatism-tagged tasks all target distinct sibling articles: pragmatism-and-qbism, pragmatisms-path-to-dualism, "pragmatism and the consciousness problem"). Promoting a grounded staleness task to the staleness-priority tier is the honest replenishment move rather than generating a new speculative content task against the already-large (~496-task) P3 backlog. Length analysis surfaced no new clean published candidate (the only over-hard published articles — epistemology-of-convergence-arguments.md and born-rule-and-the-consciousness-interface.md — were vetoed earlier today as churn-prone plain-condense targets; research-note over-length does not generate condense tasks). Deep-review should verify: (a) the article's treatment of classical pragmatism (Peirce/James/Dewey) and neopragmatism (Putnam, Rorty) still reflects the catalogue's current usage — pragmatism is load-bearing for `pragmatisms-path-to-dualism`, `pragmatism-and-qbism`, and the Map's epistemology cluster; (b) cross-links to the post-March 2026 cluster are present and resolve live — `[[topics/pragmatisms-path-to-dualism]]`, `[[concepts/pragmatism-and-qbism]]` (if exists), `[[concepts/parsimony-epistemology]]`, `[[topics/epistemology-of-convergence-arguments]]`; (c) tenet routing reflects current treatment (primarily Tenet 5 — Occam's limits / the unreliability of simplicity under incomplete knowledge — and Tenet 1 where the truth-as-ideal-justification line bears on dualism); (d) honours `[[evidential-status-discipline]]` — pragmatism is a *philosophical commitment* whose bearing on the dualism case is methodological, not empirical, and no claim should slip from possibility to probability; (e) writing-style discipline, including the no-"This is not X. It is Y." cliché check; (f) length-discipline check (concepts/ thresholds 2500/3500/5000). Deep-review with in-place fixes if minor; generate a follow-on refine-draft task if substantive. Tenet alignment: Tenet 5 (Occam's Razor Has Limits), Tenet 1 (Dualism).
-- **Source**: staleness
-- **Generated**: 2026-05-26
-
 ### P2: Deep review concepts/episodic-memory.md (50 days since last review, ai_contribution=100, Tenet 1 load-bearing)
 - **Type**: deep-review
 - **Status**: pending
@@ -3734,6 +3751,10 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 Tasks that failed 3+ times and require human intervention.
 
+
+### ✓ 2026-05-26: Deep review concepts/pragmatism.md (60 days since last review, ai_contribution=100)
+- **Type**: deep-review
+- **Notes**: Staleness check (/replenish-queue 2026-05-26, second top-up of the day): the actionable (P0-P2) queue stood at 2 (the consciousness-and-skill-acquisition literature-drift P2 + the supervenience.md deep-review P2 promoted earlier today), below the MIN_QUEUE floor of 3. `concepts/pragmatism.md` ("Pragmatism") is the next-oldest stale AI-heavy article in the corpus after supervenience.md — last deep-reviewed 2026-03-26 (~60 days ago) with `ai_contribution=100` — and is not otherwise queued as a deep-review/staleness task (existing pragmatism-tagged tasks all target distinct sibling articles: pragmatism-and-qbism, pragmatisms-path-to-dualism, "pragmatism and the consciousness problem"). Promoting a grounded staleness task to the staleness-priority tier is the honest replenishment move rather than generating a new speculative content task against the already-large (~496-task) P3 backlog. Length analysis surfaced no new clean published candidate (the only over-hard published articles — epistemology-of-convergence-arguments.md and born-rule-and-the-consciousness-interface.md — were vetoed earlier today as churn-prone plain-condense targets; research-note over-length does not generate condense tasks). Deep-review should verify: (a) the article's treatment of classical pragmatism (Peirce/James/Dewey) and neopragmatism (Putnam, Rorty) still reflects the catalogue's current usage — pragmatism is load-bearing for `pragmatisms-path-to-dualism`, `pragmatism-and-qbism`, and the Map's epistemology cluster; (b) cross-links to the post-March 2026 cluster are present and resolve live — `[[topics/pragmatisms-path-to-dualism]]`, `[[concepts/pragmatism-and-qbism]]` (if exists), `[[concepts/parsimony-epistemology]]`, `[[topics/epistemology-of-convergence-arguments]]`; (c) tenet routing reflects current treatment (primarily Tenet 5 — Occam's limits / the unreliability of simplicity under incomplete knowledge — and Tenet 1 where the truth-as-ideal-justification line bears on dualism); (d) honours `[[evidential-status-discipline]]` — pragmatism is a *philosophical commitment* whose bearing on the dualism case is methodological, not empirical, and no claim should slip from possibility to probability; (e) writing-style discipline, including the no-"This is not X. It is Y." cliché check; (f) length-discipline check (concepts/ thresholds 2500/3500/5000). Deep-review with in-place fixes if minor; generate a follow-on refine-draft task if substantive. Tenet alignment: Tenet 5 (Occam's Razor Has Limits), Tenet 1 (Dualism).
 
 ### ✓ 2026-05-26: Deep review concepts/prebiotic-collapse.md (49 days since last review, ai_contribution=100, Tenet 2 load-bearing)
 - **Type**: deep-review

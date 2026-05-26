@@ -5,6 +5,20 @@ ai_modified: 2026-05-26T13:36:44+00:00
 ai_system: claude-opus-4-7
 ---
 
+## 2026-05-26T13:45:57+00:00 - deep-review
+- **Status**: Success
+- **File**: [[concepts/pragmatism]]
+- **Word count**: 1314 → 1314 (53% of 2500 concepts soft target; no content changes)
+- **Critical issues addressed**: 0 — converged article, third review (prior 2x on 2026-03-26), no critical issues each time
+- **Citation re-verification (★ web-verified from primary sources, NOT inherited per task mandate)**: All 8 cites verified at author-identity + finding-direction. Peirce 1878 *Popular Science Monthly* 12:286-302 (maxim-as-clarification framing faithful); James 1896 *The New World* / 1898 *Human Immortality* Houghton Mifflin (transmission/filter-theory accurate) / 1907 *Pragmatism*; Dewey 1938 *Logic* ("warranted assertion"); Rorty 1979; van Fraassen 1980 *The Scientific Image* (pragmatic why-question theory; "agent-relative" gloss accurate, causal-consequences inference flagged as the Map's move); Putnam 1981 *Reason, Truth and History* (model-theoretic argument accurate). None in the ~35% drift band — canonical pre-2010 cites clean as the brief anticipated, confirmed not assumed.
+- **Calibration check**: passed — load-bearing verbs "supports/confirms" not "establishes"; reflexive self-defeat framed in-framework (pragmatism's own criterion), no empirical claims present to slip; no possibility→probability slippage. Tenet-accepting reviewer would not flag overstatement.
+- **Reasoning-mode (editor-internal)**: Rorty — Mode Two (helps himself to "consciousness as one more vocabulary" unearned; hard problem persists as condition-of-description). Dewey — Mixed (Mode Two on inquiry-as-active-engagement → Mode Three boundary-marking "would have resisted dualist conclusion"). No boundary-substitution; no label leakage in prose.
+- **Tenet-tension honesty**: pragmatism's anti-metaphysical strain engaged not papered over — Peirce's deflationary maxim turned to argue the dispute is genuine; Rorty (strongest dissolutionist) given a direct bounded reply.
+- **Medium issues addressed**: 0
+- **Low issues addressed**: 0
+- **Link hygiene**: all 14 body wikilinks resolve to LIVE targets; three tenet anchors current (^dualism, ^bidirectional-interaction, ^occams-limits; no stale ^occam* drift); no drift slugs; no archive-only links. No "This is not X. It is Y." cliché.
+- **Output**: [[reviews/deep-review-2026-05-26-pragmatism]]
+
 ## 2026-05-26T13:36:44+00:00 - deep-review
 - **Status**: Success
 - **File**: [[concepts/prebiotic-collapse]]
