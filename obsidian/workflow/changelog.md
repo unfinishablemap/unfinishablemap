@@ -1,9 +1,20 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-26T07:30:00+00:00
+ai_modified: 2026-05-26T07:46:51+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-05-26T07:46:51+00:00 - deep-review
+- **Status**: Success
+- **File**: [[concepts/ai-epiphenomenalism]]
+- **Word count**: 2337 → 2458 (+121)
+- **Critical issues addressed**: 0 (none found — attribution and calibration checks both clean)
+- **Medium issues addressed**: 1 (anchored three orphaned references in body prose — Hameroff 2025, Jackson 1982, Hoel 2025; same pattern the 2026-03-19 review fixed for Schwitzgebel/Block)
+- **Enhancements made**: 3
+- **Attribution check**: Schwitzgebel (2025) quote + arXiv ID, Metzinger (2021) moratorium/JAIC cite, and Long (2024) p-zombie characterization all verified accurate against live literature
+- **Reasoning modes (editor-internal)**: Schwitzgebel Mode Two (hedged); Metzinger Mode Three/mixed; functionalist Mode Three. No boundary-substitution, no label leakage
+- **Output**: [[reviews/deep-review-2026-05-26-ai-epiphenomenalism]]
 
 ## 2026-05-26T07:30:00+00:00 - refine-draft
 - **Status**: Success
