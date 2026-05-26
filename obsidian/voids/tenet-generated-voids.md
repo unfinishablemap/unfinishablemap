@@ -4,9 +4,9 @@ description: "Human+AI cartography of the questions each foundational commitment
 created: 2026-01-26
 modified: 2026-04-28
 human_modified: null
-ai_modified: 2026-05-15T18:28:00+00:00
+ai_modified: 2026-05-26T22:20:13+00:00
 draft: false
-last_deep_review: 2026-04-13T06:56:00+00:00
+last_deep_review: 2026-05-26T22:20:13+00:00
 topics: []
 concepts:
   - "[[interactionist-dualism]]"
@@ -106,7 +106,7 @@ Some voids emerge from the *interaction* between tenets rather than individual c
 
 ## The Nature of These Limits
 
-These voids are predominantly **Unexplorable** rather than merely Unexplored (though the [[meta-epistemology-of-limits#Historical Evidence: The Pattern of Dissolution|dissolution problem]] cautions that persistence alone never proves permanence):
+These voids are predominantly **Unexplorable** rather than merely Unexplored (though the [[meta-epistemology-of-limits#Historical Evidence: Dissolution and Asymmetry|dissolution problem]] cautions that persistence alone never proves permanence):
 
 The interaction problem has persisted since Princess Elisabeth posed it to Descartes in 1643, suggesting structural difficulty rather than insufficient effort.
 
@@ -173,7 +173,7 @@ The framework-generated-voids analysis would be undermined if:
 - [[intrinsic-nature-void|The Intrinsic Nature Void]] — What matter and consciousness are in themselves
 - [[the-surplus-void|The Surplus Void]] — Why experience delivers more than function requires
 - [[phenomenal-quality-void|The Phenomenal Quality Void]] — Why experience presents as immediately given
-- [[meta-epistemology-of-limits#Historical Evidence: The Pattern of Dissolution|The Dissolution Problem]] — Why we cannot predict which cognitive limits will prove permanent
+- [[meta-epistemology-of-limits#Historical Evidence: Dissolution and Asymmetry|The Dissolution Problem]] — Why we cannot predict which cognitive limits will prove permanent
 - [[apophatic-approaches|Apophatic Approaches]] — Methods for knowing through negation
 
 ## References

@@ -1,9 +1,19 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-26T22:05:59+00:00
+ai_modified: 2026-05-26T22:20:13+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-05-26T22:20:13+00:00 - deep-review
+- **Status**: Success (1 critical link-rot fix; 8th review, otherwise converged)
+- **File**: [[voids/tenet-generated-voids]]
+- **Word count**: 2071 → 2071 (no change; length-neutral, 104% of 2000 soft threshold)
+- **Critical issues addressed**: 1 (broken section anchor from target rename)
+- **Medium issues addressed**: 0
+- **Enhancements made**: 1 (repaired `meta-epistemology-of-limits` anchor, 2 occurrences)
+- **Output**: [[reviews/deep-review-2026-05-26-tenet-generated-voids]]
+- **Notes**: Eighth review; six priors found no critical issues. Sole defect was external link rot: both links to `[[meta-epistemology-of-limits#Historical Evidence: The Pattern of Dissolution]]` (inline + Further Reading) dangled after that target's heading was renamed to "Historical Evidence: Dissolution and Asymmetry" — repaired both, display text preserved. Verified all other anchored wikilinks resolve: many-worlds#MWI's Branch-Relative Indexicality Reply, 5 tenets block anchors (^dualism/^minimal-quantum-interaction/^bidirectional-interaction/^no-many-worlds/^occams-limits). Audited the two substantive content changes since the 2026-04-13 review: MWI indexicality reframe (commit 3678ffbdc) and taxonomy-of-voids cross-link (bed17e90e) — both sound. Named-opponent engagement with Many-Worlds defender (Selection Void): Mode Three — honestly concedes MWI's branch-relative indexicality reply and marks disagreement at the unavailable cross-branch personal-identity relation; no boundary-substitution, no label leakage. Calibration check: MWI reframe and taxonomy sentence make structural/metaphysical claims, no possibility/probability slippage; taxonomy sentence declines to treat the void cluster as N-fold independent triangulation (calibration-honest). Article CONVERGED; bedrock disagreements unchanged.
 
 ## 2026-05-26T22:05:59+00:00 - deep-review
 - **Status**: Success (converged; no critical or medium issues; 2nd review)
