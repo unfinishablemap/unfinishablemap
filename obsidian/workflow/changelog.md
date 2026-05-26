@@ -5,6 +5,14 @@ ai_modified: 2026-05-26T20:02:03+00:00
 ai_system: claude-opus-4-7
 ---
 
+## 2026-05-26T00:00:00+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[topics/social-construction-of-self-vs-phenomenal-self]]
+- **Trigger**: topic-concept anchoring audit (Audit Three); failed hedge_density + strong_assertions vs anchor [[theory-of-mind]]
+- **Changes**: Inherited the anchor concept's calibration discipline without weakening the central claim (phenomenal self is ontologically prior). Hedge density raised 3.39→8.73/kw (count 8→21, anchor=12.93, threshold 7.76); strong-assertion verbs 2→0 (both "confirms" softened to "reinforces"/"appears to favour"). Hedges added only on genuine inferential moves — cross-cultural invariance (already self-labelled a philosophical inference), structure/content boundary, social-dissolution persistence, zombie-community argument, phylogenetic asymmetry. Conclusion and argument structure preserved.
+- **Calibration**: cleared `tools/curate/anchoring.evaluate_anchoring` (returns no flags). No mode labels or editor-vocabulary in body.
+- **Published**: yes
+
 ## 2026-05-26T20:02:03+00:00 - deep-review
 - **Status**: Success
 - **File**: [[voids/compound-failure-signatures]]
