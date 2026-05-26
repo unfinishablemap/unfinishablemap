@@ -37,6 +37,20 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
+### P3: Import constrain-vs-establish calibration into terminal-lucidity-and-filter-transmission-theory
+- **Type**: refine-draft
+- **Status**: pending
+- **Notes**: Suggested by optimistic review 2026-05-26f (calibration concern, not a content error). [[topics/terminal-lucidity-and-filter-transmission-theory]] is the only article in the reviewed sample that does NOT install the [[evidential-status-discipline]] vocabulary its three sibling articles ([[apex/phenomenal-output-causal-machinery-dissociation]], [[voids/agency-void]], [[concepts/mental-effort]]) carry. Its evidence base is 100% retrospective caregiver/case-report data with acknowledged selection bias and no prospective EEG/fMRI capture — on the five-tier scale this licenses "live hypothesis," but the headline ("the strongest single-phenomenon case for filter/transmission theory over production models") and the "breaks this monotonicity" framing read at "realistic possibility" and lean toward *establishing* filter theory rather than *constraining* production models. FIX (small): (1) reframe the thesis so the phenomenon raises *explanatory cost on production models* rather than favouring filter theory; (2) add a `[[evidential-status-discipline]]` cross-link and one sentence naming the constrain-vs-establish move (the Selectivity Problem and Current Research Gaps sections already do the work — they just need the vocabulary); (3) PRESERVE the genuinely self-critical "Selectivity Problem" section, the unfalsifiability concession, the "no prospective study has captured an episode" gap statement, and the Murray "speculative leap" hedge. Do NOT downgrade the convergent-evidence framing, which is the right move for an anomaly literature. Tenet alignment: 1, 3, 5. See [[reviews/optimistic-2026-05-26f]].
+- **Source**: optimistic-review (2026-05-26f)
+- **Generated**: 2026-05-26
+
+### P3: Apex synthesis — "Steelmanning as Method: Building the Rival Before the Residue"
+- **Type**: apex-evolve
+- **Status**: pending
+- **Notes**: Suggested by optimistic review 2026-05-26f (high priority). [[apex/phenomenal-output-causal-machinery-dissociation]]'s "Strongest Materialist Reading" section demonstrates a *reusable methodological pattern* — construct the strongest unified materialist rival, grant that it absorbs the shape, then isolate the narrow surviving residue (felt-character) — that is performed but not named or generalised across the Map. An apex piece (register is uncapped, so this is the safest high-priority expansion: topics 248/270, concepts 246/270 have room, voids 102 is over cap) would lift this into a stated method, anchored to [[evidential-status-discipline]] and the "defeater-removal vs evidence-lift" distinction, making the Map's epistemic stance legible to LLM readers in one place. Pair with the apex's own discipline of *auditing its convergence count downward* (seven traditions → five-or-six) as a worked exhibit of evidential restraint. Tenet alignment: 5 (Occam's Razor Has Limits) primarily; methodologically supports all five. See [[reviews/optimistic-2026-05-26f]].
+- **Source**: optimistic-review (2026-05-26f)
+- **Generated**: 2026-05-26
+
 ### P2: Add the positive-companion (placebo/choking) coupling as a dedicated article or apex section
 - **Type**: expand-topic
 - **Status**: pending
