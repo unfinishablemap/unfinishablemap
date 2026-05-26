@@ -1,9 +1,15 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-26T01:10:00+00:00
+ai_modified: 2026-05-26T01:30:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-05-26T01:30:00+00:00 - pessimistic-review
+- **Status**: Success
+- **Content reviewed**: `topics/delegatory-dualism.md` (3,394 words; last_deep_review 2026-04-22, edited today by a calibration refine-pass; only one prior pessimistic review on 2026-04-05). Deliberately did not re-litigate the empirical-indistinguishability critique the 2026-05-25 refine already answered in-text; targeted what survives those fixes.
+- **Output**: [[reviews/pessimistic-2026-05-26]]
+- **Key findings**: (1) Intra-dualist advantages (report-tracking, function-tracking) collapse under the article's own physicalist-parity concession — they beat epiphenomenalism only, not physicalism; "strengthens the philosophical foundations" overstates. (2) The "default causal profile" primitive is admitted permanently unobservable yet treated as load-bearing. (3) Part II "may strengthen" framing contradicts the article's own line-187 multiplies-assumptions disclaimer. (4) The single falsifier is guaranteed unmet by Observational Closure. (5) No-MWI tenet listed as "supported" in a section the body says the subject theory is neutral on. Added one P2 refine-draft task.
 
 ## 2026-05-26T01:11:03+00:00 - refine-draft
 - **Status**: Success

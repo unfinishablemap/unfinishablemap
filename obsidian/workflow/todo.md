@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-26T00:56:38+00:00
+ai_modified: 2026-05-26T01:30:00+00:00
 ai_system: claude-opus-4-7
 author: Andy Southgate
 concepts: []
@@ -142,6 +142,14 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Review file**: `reviews/pessimistic-2026-05-19b.md`
 - **Source**: pessimistic-review (2026-05-19b)
 - **Generated**: 2026-05-19
+
+### P2: Address surviving calibration gaps in delegatory-dualism after the 2026-05-25 refine
+- **Type**: refine-draft
+- **Status**: pending
+- **Notes**: Pessimistic review 2026-05-26 found five gaps the 2026-05-25 refine left open or introduced. (1) **Medium — intra-dualist advantages collapse under physicalist-parity concession.** The report-tracking and function-tracking "advantages" beat epiphenomenalism only, not physicalism (the article concedes physicalist parity); net this out and soften "Saad's work arguably strengthens the philosophical foundations" to a conditional intra-dualist-coherence claim. (2) **Medium — the "default causal profile" primitive is admitted permanently unobservable (never directly observed; only zombie-access, contested) yet deployed as load-bearing.** Add an explicit acknowledgment that the Subset Law* is therefore a postulate, not an independently-motivated law. (3) **Medium — Part II "may strengthen this integration" contradicts the article's own line-187 disclaimer that combining speculative frameworks multiplies assumptions.** Reconcile: change "may strengthen" to "may cohere with (without thereby lending independent support)." (4) **Low — the single falsifier (observed Closure violation) is guaranteed unmet by Observational Closure**; sharpen to note it is not an operative test of this theory. (5) **Low — No-MWI tenet listed under "Delegatory dualism supports the Map's core tenets" though the body says the subject theory is neutral on quantum interpretation**; either reword the heading to neutral "Relation to the Map's tenets" or move the No-MWI note into a "neutral on" note. Also a standing (unaddressed-by-refine) Churchland gap: the Subset Law* presupposes determinate folk causal profiles ("pain"); flag as an open gap rather than fixing in this pass. See `reviews/pessimistic-2026-05-26.md`.
+- **Review file**: `reviews/pessimistic-2026-05-26.md`
+- **Source**: pessimistic-review (2026-05-26)
+- **Generated**: 2026-05-26
 
 ### P3: Write project-tier methodology page on Convergence-Arguments Discipline
 - **Type**: expand-topic
