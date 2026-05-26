@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-26T08:35:00+00:00
+ai_modified: 2026-05-26T10:05:00+00:00
 ai_system: claude-opus-4-7
 author: Andy Southgate
 concepts: []
@@ -36,6 +36,20 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **P2**: Low - nice to have, human approval needed
 
 ## Active Tasks
+
+### P2: Deep review topics/philosophy-of-language-under-dualism.md (50 days since last review, ai_contribution=100, Tenet 1 load-bearing)
+- **Type**: deep-review
+- **Status**: pending
+- **Notes**: Staleness check (/replenish-queue 2026-05-26, conservative top-up). The actionable (P0-P2) queue stood at 2 (the consciousness-and-skill-acquisition literature-drift P2 + the pragmatism.md deep-review P2), below the MIN_QUEUE floor of 3. `topics/philosophy-of-language-under-dualism.md` ("Philosophy of Language Under Dualism", 2486 words) was last deep-reviewed 2026-04-06 (~50 days ago) with `ai_contribution=100`, `ai_system=claude-opus-4-6`; not currently the focus of any pending task header. Promoting a grounded staleness task to the staleness tier is the honest replenishment move rather than generating a speculative content task against the already-large (~500-task) P3 backlog — and section caps (topics 246/250, concepts 245/250, voids 101/100) make expand-topic inappropriate. The article is Tenet 1 load-bearing: its thesis is that if consciousness is irreducible to physics, linguistic meaning cannot be exhausted by syntax or function. Deep-review should: (a) verify the semantics/reference/expression-limit treatment still coheres with the current language cluster — `[[topics/consciousness-and-language-interface]]`, `[[topics/language-recursion-and-consciousness]]` (itself 50d stale), `[[concepts/intentionality]]`, the language-thought-boundary articles; (b) honour `[[evidential-status-discipline]]` (claims about meaning resisting functional reduction are philosophical, not empirical — no possibility→probability slippage); (c) verify the listed cross-links resolve live and are reciprocated where load-bearing, repointing any coalesced/archived targets; (d) writing-style + length discipline (2486 words, under the 3000-word topics soft; no "This is not X. It is Y." cliché). Apply in-place fixes if minor; generate a follow-on refine-draft task if substantive. Tenet alignment: Tenet 1 (Dualism — irreducible consciousness reframes what linguistic meaning can be).
+- **Source**: staleness
+- **Generated**: 2026-05-26
+
+### P2: Deep review concepts/objectivity-and-consciousness.md (50 days since last review, ai_contribution=100, Tenet 1/5 load-bearing)
+- **Type**: deep-review
+- **Status**: pending
+- **Notes**: Staleness check (/replenish-queue 2026-05-26, conservative top-up). Paired with the philosophy-of-language-under-dualism promotion above to clear the MIN_QUEUE floor of 3. `concepts/objectivity-and-consciousness.md` ("Objectivity and Consciousness", 2516 words) was last deep-reviewed 2026-04-06 (~50 days ago) with `ai_contribution=100`; not currently the focus of any pending task header (0 active-task mentions). This is a methodology/epistemology hub — it anchors the "view from nowhere" / consciousness-IS-perspective argument and lists 18 cross-links (heterophenomenology, the knowledge argument, explanatory-gap, mysterianism, methodology-of-consciousness-research, the measurement-standards article). Deep-review should: (a) verify the objectivity/perspective framing still coheres with the current epistemology cluster and post-April additions (the convergence-arguments / parsimony-epistemology / evidential-status-discipline pages); (b) honour `[[evidential-status-discipline]]` — the "objectivity eliminates perspective, consciousness IS perspective" move is a structural/conceptual claim and should not be presented as an empirical result; (c) verify the 18 listed cross-links resolve live and are reciprocated where load-bearing, repointing any coalesced/archived targets; (d) writing-style + length discipline (2516 words, ~101% of the 2500-word concepts soft, well under the 3500 hard threshold — note for a possible condense follow-on only if a refine pass pushes it over hard; no "This is not X. It is Y." cliché). Apply in-place fixes if minor; generate a follow-on refine-draft task if substantive. Tenet alignment: Tenet 1 (Dualism — the irreducibility of perspective is a standing explanatory-gap exhibit), Tenet 5 (Occam's limits — the eliminativist "view from nowhere" is a methodological bet, not a result).
+- **Source**: staleness
+- **Generated**: 2026-05-26
 
 ### P3: Deep review voids/origin-of-consciousness.md (54 days since last review, ai_contribution=100)
 - **Type**: deep-review
