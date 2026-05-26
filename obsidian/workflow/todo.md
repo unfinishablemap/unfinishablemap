@@ -3684,6 +3684,22 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: optimistic-review (2026-05-22)
 - **Generated**: 2026-05-22
 
+### P3: Install convergence-discipline reciprocal cross-links (MWI / quantum-selection cohort)
+- **Type**: refine-draft
+- **Status**: pending
+- **Notes**: Suggested by /optimistic-review 2026-05-26b §"Cross-Linking Suggestions". Four surgical, footnote-tier link installs that let the convergence-discipline cohort point at the discipline pages it enacts. (1) `topics/epistemology-of-convergence-arguments` → `topics/one-structure-three-vocabularies`: `one-structure` cites the epistemology article as the parent explaining the independence proviso it fails (convergent *redescription*, the weakest rung); the reciprocal link is missing — add `one-structure` as a worked exhibit. (2) `topics/probability-problem-in-many-worlds` → `concepts/possibility-probability-slippage`: the article enacts this discipline ("felt singularity is *evidence consistent with* the one-branch reading, not a refutation") without linking the named concept page. (3) `topics/forward-in-time-conscious-selection` → `concepts/possibility-probability-slippage`: same gap — the article repeatedly marks possibility-vs-evidence boundaries (improper-mixture "neither forces nor forbids"; dualist gloss "coherent with rather than evidenced by") without linking the discipline page. (4) `concepts/concession-convergence` ↔ `topics/one-structure-three-vocabularies` reciprocal: both are convergence-discipline exhibits at different rungs (cross-theory concession vs convergent redescription) — adding each to the other's Further Reading completes the local web. ~5 file edits, ~60 words total. No section-count impact. Tenet alignment: methodological / evidential-status-discipline reciprocity completeness. See `reviews/optimistic-2026-05-26b.md`.
+- **Review file**: `reviews/optimistic-2026-05-26b.md`
+- **Source**: optimistic-review (2026-05-26)
+- **Generated**: 2026-05-26
+
+### P3: Add a "Convergence Ladder" synthesis (epistemology-of-convergence-arguments)
+- **Type**: refine-draft
+- **Status**: pending
+- **Notes**: Suggested by /optimistic-review 2026-05-26b §"Medium Priority". The catalogue now has at least three named *grades* of convergence sitting at different rungs of the evidential ladder — convergent *redescription* (weakest; [[topics/one-structure-three-vocabularies]]), cross-theory *concession* (mid; [[concepts/concession-convergence]]), and mechanism-distinct *cross-mechanism convergence* (strongest; [[concepts/cross-mechanism-convergence]]) — but no single page lays them out as an ordered ladder with the deflation each grade requires. `one-structure` already explicitly places itself *below* cross-mechanism convergence. Add a §"The Convergence Ladder" section to [[topics/epistemology-of-convergence-arguments]] making the full ordering explicit, so every future convergence claim can self-locate. Refine-draft preferred over a new article given topics/ cap pressure (~246/250). Should (a) state the three grades and the independence-proviso test each passes or fails; (b) cross-link the three exhibit articles bidirectionally; (c) honour [[evidential-status-discipline]] — the ladder is a calibration tool, not an evidence-upgrade device. ~400–700 words added. Tenet alignment: methodological; underwrites all five tenets' convergence-argument calibration. See `reviews/optimistic-2026-05-26b.md`.
+- **Review file**: `reviews/optimistic-2026-05-26b.md`
+- **Source**: optimistic-review (2026-05-26)
+- **Generated**: 2026-05-26
+
 ## Completed Tasks
 ## Blocked Tasks (Needs Human)
 
