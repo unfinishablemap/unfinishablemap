@@ -1,9 +1,23 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-26T08:14:00+00:00
+ai_modified: 2026-05-26T08:20:39+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-05-26T08:20:39+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[topics/presentiment-and-retrocausality]]
+- **Source review**: [[reviews/pessimistic-2026-05-26c]] (3 issues)
+- **Word count**: 1652 → 1965 (+313; soft 3000 / hard 4000 — well under)
+- **Changes**:
+  - Issue 1 (Med-High citation conflation): web-verified the figures. The BF≈10⁹ belongs to **Bem et al. (2016)** meta-analysis of 90 experiments (already in the reference list as F1000Research — this IS the "mega-analysis"); the 10²⁰ prior odds and 10¹¹-against posterior belong to **Wagenmakers et al. (2011)** reanalyzing Bem (2011). The research note's "2025 Bem mega meta-analysis" was a conflation in the note's timeline — the verifiable figures are the 2011/2016 exchange, so NO 2025 reference was added and nothing fabricated. Rewrote the passage to pin each figure to its actual cited source; no reference-list change needed.
+  - Issue 2 (Med mechanism-gap double standard): named the Tegmark decoherence objection (~310K, femtosecond coherence), recast the asymmetry from kind to *degree of implausibility* (single decision-relevant ion-channel collapse vs organism-scale autonomic anticipation), conceded the Map's own neural interface is contested at the decoherence level, cross-linked [[quantum-consciousness]]. Engagement with Tegmark/Quantum-Skeptic: Mode Three (framework-boundary) blended with a genuine in-framework degree argument — decoherence threatens both mechanisms; the article now notes the shared threat honestly rather than granting itself a free pass.
+  - Issue 3 (Med interpretation-as-datum): softened "delayed-choice experiments demonstrate retrocausal structure empirically" (l.103) and "is experimentally confirmed" (l.73) to phenomenon-confirmed / interpretation-contested. Honored constrains-vs-establishes ("they do not, by themselves, *establish* retrocausal structure"); explicitly flagged this as the same falsifiability bar the article applies to presentiment (the consistency through-line).
+  - Reframed two "stands alone / independently grounded" overstatements as comparative ("respectable mainstream-physics interpretive dispute" vs "conceded unfalsifiable").
+- **Preserved**: honest critic section, Libet/presentiment separation, firewall thesis, conditional "would be as fallacious as" closing.
+- **Checks**: cliché count 0; evaluate_anchoring() → no flags; all wikilinks intact (quantum-consciousness already a valid concept target).
+- **Published**: yes
 
 ## 2026-05-26T08:14:00+00:00 - pessimistic-review
 - **Status**: Success
