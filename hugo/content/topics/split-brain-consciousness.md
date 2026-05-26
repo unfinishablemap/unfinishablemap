@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-14
-ai_modified: 2026-05-19 13:00:00+00:00
+ai_modified: 2026-05-26 16:30:00+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -39,7 +39,7 @@ embedded_videos:
   url: https://www.youtube-nocookie.com/embed/ygshLBkDAGE
 human_modified: null
 last_curated: null
-last_deep_review: 2026-04-17 10:26:00+00:00
+last_deep_review: 2026-05-26 16:30:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -70,7 +70,7 @@ Sperry concluded these patients had "two separate spheres of conscious awareness
 
 ## The Resilience of Unity
 
-A November 2025 PNAS study from UC Santa Barbara complicates the classic picture. Using fMRI on callosotomy patients, researchers found that as little as a centimeter of intact corpus callosum fibers can maintain full neural synchronization between hemispheres. As Michael Miller noted: "The corpus callosum consists of about 250 million axons, but you need only a small bundle of them to have full synchrony." In one patient, networks had rerouted across a small remaining ribbon of callosum — undermining the assumption that tightly synchronized brain areas must be directly connected.
+An October 2025 PNAS study (Santander et al.) from UC Santa Barbara complicates the classic picture. Using fMRI on callosotomy patients, researchers found that a fraction of intact posterior corpus callosum fibers can sustain full interhemispheric integration. As senior author Michael Miller noted: "The corpus callosum consists of about 250 million axons, but you need only a small bundle of them to have full synchrony." In one patient, networks had rerouted across a small remaining ribbon of callosum — undermining the assumption that tightly synchronized brain areas must be directly connected.
 
 The 2017 University of Amsterdam research adds another layer: split-brain patients could report seeing shapes presented to either visual field, both verbally and by pointing with either hand. The study's own framing — "divided perception but undivided consciousness" — captures a "layered unity" model: divided perception at local levels but preserved unity at higher, global levels.
 
@@ -144,7 +144,7 @@ What the cases *do* compound is the [hard problem](/topics/hard-problem-of-consc
 
 ### Two Features Support the Interface Reading
 
-**The resilience of unity.** If consciousness were the brain's integrated activity, severing the corpus callosum should produce a clean split. It does not. The preservation of global unity despite massive disconnection (Pinto et al. 2017; the 2025 layered model) is more naturally explained if unity belongs to consciousness itself rather than to its physical substrate.
+**The resilience of unity.** If consciousness were the brain's integrated activity, severing the corpus callosum should produce a clean split. It does not. The preservation of global unity despite massive disconnection (Pinto et al.'s 2017 "layered unity" model; the 2025 minimal-fiber synchronization finding) is more naturally explained if unity belongs to consciousness itself rather than to its physical substrate.
 
 **The threshold character of loss.** When general anaesthesia succeeds, consciousness does not fragment into multiple diminished streams — it disappears. If consciousness were reducible to integrated activity, fragmenting integration should produce fragmented but still-present experiences. Instead, below a threshold of global integration, experience ceases — what one would expect if integration is a *condition* for consciousness to interact with the brain rather than the thing that constitutes consciousness.
 
@@ -227,7 +227,7 @@ Perhaps what the cases really show: consciousness is neither a simple unity that
 3. Gazzaniga, M.S. (2000). Cerebral specialization and interhemispheric communication. *Brain*, 123(7), 1293-1326.
 4. Janet, P. (1889). *L'automatisme psychologique*. Paris: Félix Alcan.
 5. Mashour, G. (2012). Fragmenting Consciousness. *Proceedings of the National Academy of Sciences*, 109(49), 19876-19877.
-6. Miller, M. et al. (2025). Even minimal fiber connections can unify consciousness. *PNAS*.
+6. Santander, T., Bekir, S., Paul, T., et al. (2025). Full interhemispheric integration sustained by a fraction of posterior callosal fibers. *Proceedings of the National Academy of Sciences*, 122(43), e2520190122. doi:10.1073/pnas.2520190122. [Senior authors: Volz, Miller; M.S. Gazzaniga among co-authors.]
 7. Nagel, T. (1971). Brain Bisection and the Unity of Consciousness. *Synthese*, 22, 396-413.
 8. Pinto, Y. et al. (2017). Split brain: divided perception but undivided consciousness. *Brain*, 140(5), 1231-1237.
 9. Schechter, E. (2018). *Self-Consciousness and "Split" Brains: The Minds' I*. Oxford University Press.

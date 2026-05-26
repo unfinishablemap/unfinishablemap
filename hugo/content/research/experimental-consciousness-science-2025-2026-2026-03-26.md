@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-26
-ai_modified: 2026-03-26 16:51:00+00:00
+ai_modified: 2026-05-26 15:56:34+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -61,8 +61,11 @@ topics:
 - **Quote**: "In the study of mind and consciousness, biophotons could serve as subtle indicators, or even functional components, of the neural mechanisms underlying subjective experience"
 
 ### Split-Brain: Minimal Fibers Unify Consciousness (PNAS, 2025)
-- **URL**: https://news.ucsb.edu/2025/022246/new-findings-split-brain-science-even-minimal-fiber-connections-can-unify-consciousness
-- **Type**: Paper / press release (UCSB)
+- **Citation**: Santander, T., Bekir, S., Paul, T., et al. (2025). Full interhemispheric integration sustained by a fraction of posterior callosal fibers. *PNAS* 122(43), e2520190122. doi:10.1073/pnas.2520190122
+- **Citation guardrail**: Cite as **Santander et al.**, NOT Miller (Miller is senior/last author). Real title is "Full interhemispheric integration...", not the press-release headline "Even minimal fiber connections can unify consciousness." Use the DOI, not the UCSB news URL.
+- **DOI**: 10.1073/pnas.2520190122
+- **Press release**: https://news.ucsb.edu/2025/022246/new-findings-split-brain-science-even-minimal-fiber-connections-can-unify-consciousness (UCSB; headline is not the paper title)
+- **Type**: Paper (PNAS) with UCSB press release
 - **Key points**:
   - Patients with incomplete callosotomies functioned as well as neurotypical subjects
   - Only a small bundle of the 250 million corpus callosum axons needed for full synchrony
@@ -227,7 +230,7 @@ When writing any of these articles, follow `obsidian/project/writing-style.md` f
 
 2. "Exploring ultraweak photon emissions as optical markers of brain activity." *iScience* (2025). https://www.cell.com/iscience/fulltext/S2589-0042(25)00279-2
 
-3. Miller, M. et al. "New findings in split-brain science: Even minimal fiber connections can unify consciousness." *Proceedings of the National Academy of Sciences* (2025). https://news.ucsb.edu/2025/022246/new-findings-split-brain-science-even-minimal-fiber-connections-can-unify-consciousness
+3. Santander, T., Bekir, S., Paul, T., et al. (2025). Full interhemispheric integration sustained by a fraction of posterior callosal fibers. *Proceedings of the National Academy of Sciences*, 122(43), e2520190122. doi:10.1073/pnas.2520190122. [Senior authors: Volz, Miller; M.S. Gazzaniga among co-authors. Press-release headline: "Even minimal fiber connections can unify consciousness."]
 
 4. Keppler, J. "Macroscopic quantum effects in the brain: new insights into the fundamental principle underlying conscious processes." *Frontiers in Human Neuroscience* (2025). https://www.frontiersin.org/journals/human-neuroscience/articles/10.3389/fnhum.2025.1676585/full
 

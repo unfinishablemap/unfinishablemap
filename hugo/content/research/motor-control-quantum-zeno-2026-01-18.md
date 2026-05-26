@@ -1,9 +1,10 @@
 ---
 ai_contribution: 100
+ai_modified: 2026-05-26 00:00:00+00:00
 ai_system: claude-opus-4-5-20251101
 concepts: []
 created: 2026-01-18
-date: '2026-02-21'
+date: '2026-05-26'
 draft: false
 related_articles: []
 target_section: concepts/motor-selection
@@ -86,7 +87,7 @@ Motor control provides a second domain—beyond attention—where consciousness 
 - **Tenet alignment**: Central to site's Minimal Quantum Interaction and Bidirectional Interaction tenets
 - **Quote**: "By virtue of the quantum Zeno effect, a 'template for action' can be held in place despite the normal dissipative physical tendencies, allowing the consciously intended bodily action to occur"
 
-### Bengson et al. - Frontal Theta in Willed Attention (2019)
+### Rajan et al. - Frontal Theta in Willed Attention (2019)
 - **URL**: https://academic.oup.com/cercor/article/29/7/2832/5041999
 - **Type**: EEG study
 - **Key points**:
@@ -233,7 +234,7 @@ This research directly extends:
 
 Key integration opportunities:
 
-1. The **willed vs instructed** distinction from attention (Bengson 2019) has a motor parallel—willed vs instructed action shows similar frontal theta signatures
+1. The **willed vs instructed** distinction from attention (Rajan et al. 2019) has a motor parallel—willed vs instructed action shows similar frontal theta signatures
 2. The **basal ganglia brake model** offers a selection mechanism parallel to the thalamic gating in attention
 3. **Efference copy and sense of agency** provide mechanism for consciousness to "read" whether selection succeeded
 4. The **~300ms deployment time** for voluntary action matches willed attention deployment
@@ -259,7 +260,7 @@ Key integration opportunities:
 
 5. Stapp, H.P. (2007). *Mindful Universe: Quantum Mechanics and the Participating Observer*. Springer.
 
-6. Bengson, J.J., Mangun, G.R., & Mazaheri, A. (2019). Theta oscillations index frontal decision-making and mediate reciprocal frontal-parietal interactions in willed attention. *Cerebral Cortex*, 29(7), 2832-2843.
+6. Rajan, A., Siegel, S.N., Liu, Y., Bengson, J., Mangun, G.R., & Ding, M. (2019). Theta oscillations index frontal decision-making and mediate reciprocal frontal-parietal interactions in willed attention. *Cerebral Cortex*, 29(7), 2832-2843.
 
 7. Sjöberg, R.L. (2024). The readiness potential and the soul: what happens when you resect their seat in the brain? *Brain*, 147(7), 2267-2274.
 

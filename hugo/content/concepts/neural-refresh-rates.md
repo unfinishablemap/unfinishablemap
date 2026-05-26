@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-18
-ai_modified: 2026-04-22 08:39:00+00:00
+ai_modified: 2026-05-26 12:00:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -48,7 +48,7 @@ Three oscillatory bands dominate the discussion of perceptual timing.
 
 **Theta (4–8 Hz).** Theta oscillations operate across objects rather than within a single attended location. They govern how attention shifts between targets, creating a slower sampling rhythm for multi-object scenes. Together with alpha, they produce a layered periodicity in perceptual access.
 
-**Gamma (~40 Hz).** Crick and Koch (1990) proposed that synchronous gamma oscillations bind distributed neural representations into unified percepts, with each ~25 ms gamma cycle constituting a candidate integration window. The strong version of this hypothesis — that gamma synchrony is sufficient for conscious binding — has weakened, since gamma activity persists during anaesthesia and seizures. The correlation between gamma and awareness remains robust, but its interpretation as causal mechanism versus mere correlate is contested.
+**Gamma (~40 Hz).** Crick and Koch (1990) proposed that synchronous gamma oscillations bind distributed neural representations into unified percepts, with each ~25 ms gamma cycle constituting a candidate integration window. The strong version of this hypothesis — that gamma synchrony is sufficient for conscious binding — has weakened, since gamma activity persists during anaesthesia and seizures. The correlation between gamma and awareness remains robust, but its interpretation as causal mechanism versus mere correlate is contested. These same Hz figures recur in [quantum-neural-timing-constraints](/topics/quantum-neural-timing-constraints/), where the ~25 ms gamma cycle and the ~500 ms frontal theta band bound which quantum mechanisms could plausibly influence neural timing.
 
 The psychophysical evidence converges with the oscillatory data. The attentional blink (inability to detect a second target 200–500 ms after the first), the flash-lag effect, and the wagon-wheel illusion under continuous illumination all indicate that perception samples discretely rather than monitoring continuously.
 

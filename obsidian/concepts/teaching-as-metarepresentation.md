@@ -4,7 +4,7 @@ description: "Teaching requires knowing that you know and that others don't. Gre
 created: 2026-01-22
 modified: 2026-01-22
 human_modified: null
-ai_modified: 2026-05-26T15:16:44+00:00
+ai_modified: 2026-05-26T16:05:09+00:00
 draft: false
 last_deep_review: 2026-05-26T11:54:20+00:00
 topics:
@@ -87,7 +87,7 @@ Several converging considerations suggest teaching depends on phenomenal conscio
 
 Teaching requires holding multiple representations simultaneously: your knowledge, the learner's knowledge state, the gap between them, and the pedagogical action designed to bridge it. This multi-level structure demands expanded [[working-memory|working memory]] capacity.
 
-Humans maintain roughly 4 items in working memory (Cowan, 2001), with capacity declining under cognitive load. Great apes show more limited working memory, struggling with tasks requiring simultaneous tracking of more than 2-3 elements (Read, 2008). Teaching's representational demands—tracking your knowledge, their knowledge, the gap, and the pedagogical action simultaneously—may exceed great ape working memory capacity entirely. If working memory depends on conscious access—as [[global-workspace-theory|Global Workspace Theory]] proposes—teaching inherits this dependence.
+Humans maintain roughly 4 items in working memory (Cowan, 2001), with capacity declining under cognitive load. Great apes show more limited working memory, struggling with tasks requiring simultaneous tracking of more than 2-3 elements (Read, 2008). Teaching's representational demands—tracking your knowledge, their knowledge, the gap, and the pedagogical action simultaneously—may exceed great ape working memory capacity entirely. If working memory depends on conscious access—as [[global-workspace-theory|Global Workspace Theory]] proposes—teaching inherits this dependence. The chaining of these representations into a new pedagogical sequence is exactly the "novel combinations" function that [[conscious-vs-unconscious-processing]] identifies as requiring consciousness rather than fixed unconscious routines.
 
 ### The Theory of Mind Requirement
 

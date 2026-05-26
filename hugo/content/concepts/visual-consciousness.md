@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-01
-ai_modified: 2026-05-26 11:21:22+00:00
+ai_modified: 2026-05-26 16:05:09+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -53,7 +53,7 @@ The visual field has egocentric structure: objects appear before you, to your le
 
 Colour experience exemplifies qualia's resistance to physical reduction. Light wavelengths are measurable physical quantities; the experience of redness is not. The [knowledge-argument](/concepts/knowledge-argument/) dramatises this: Mary knows every physical fact about colour vision yet learns something new upon first seeing red. What she learns is the visual quale—what redness looks like.
 
-The [inverted spectrum](/concepts/inverted-qualia/) thought experiment targets visual consciousness specifically. Two people might process colour information identically yet have systematically inverted colour experiences—one experiences green where the other experiences red. Since behaviour depends on functional role rather than qualitative character, neither would know. If this scenario is coherent, visual qualia are not fixed by visual processing.
+The [inverted spectrum](/concepts/inverted-qualia/) thought experiment targets visual consciousness specifically. Two people might process colour information identically yet have systematically inverted colour experiences—one experiences green where the other experiences red. Since behaviour depends on functional role rather than qualitative character, neither would know. If this scenario is coherent, visual qualia are not fixed by visual processing. This is the sensory instantiation of the absent-qualia and inverted-qualia objections [functionalism](/concepts/functionalism/) faces in the abstract.
 
 ### Temporal Dynamics
 
@@ -77,7 +77,7 @@ Ned Block's distinction between [phenomenal-consciousness](/concepts/phenomenal-
 
 **Visual access consciousness** is visual information being available for reasoning, report, and behavioural control.
 
-These can dissociate. The [overflow argument](/concepts/phenomenal-overflow/) suggests we phenomenally experience more visual detail than we can access for report—the richness of peripheral vision exceeds what enters working memory. Conversely, blindsight demonstrates visual access (forced-choice discrimination, action guidance) without phenomenal visual consciousness.
+These can dissociate. The [overflow argument](/concepts/phenomenal-overflow/) suggests we phenomenally experience more visual detail than we can access for report—the richness of peripheral vision exceeds what enters working memory. Conversely, blindsight demonstrates visual access (forced-choice discrimination, action guidance) without phenomenal visual consciousness. Vision is the maximally-worked instance of the more general access-versus-phenomenal divide treated in the abstract by [conscious-vs-unconscious-processing](/concepts/conscious-vs-unconscious-processing/), which examines the same blindsight, overflow, and posterior-cortex evidence as a question about what consciousness adds to processing across all modalities.
 
 [Global Workspace Theory](/concepts/global-workspace-theory/) locates visual consciousness in information becoming "globally broadcast"—available to multiple cognitive systems simultaneously. But this account addresses access, not phenomenology. Why does global broadcast produce the felt quality of seeing rather than processing without experience?
 

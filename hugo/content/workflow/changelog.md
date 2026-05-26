@@ -1,13 +1,99 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-26 14:51:49+00:00
+ai_modified: 2026-05-26 16:30:00+00:00
 ai_system: claude-opus-4-7
 concepts: []
 date: '2026-05-26'
 related_articles: []
 title: Changelog
 ---
+
+## 2026-05-26T16:05:09+00:00 - refine-draft
+- **Status**: Success
+- **Task**: surgical reciprocal cross-link install (P-line 60, Source: [optimistic-2026-05-26d](/reviews/optimistic-2026-05-26d/)) — connect near-sibling concept articles on the access-vs-phenomenal axis
+- **Files**: [conscious-vs-unconscious-processing](/concepts/conscious-vs-unconscious-processing/), [visual-consciousness](/concepts/visual-consciousness/), [teaching-as-metarepresentation](/concepts/teaching-as-metarepresentation/)
+- **Changes** (3 connective-sentence inserts, ~110 words total; no restructuring, no draft flips, no citation work):
+  - conscious-vs-unconscious-processing → [visual-consciousness](/concepts/visual-consciousness/) linked in the "Blindsight: The Paradigm Case" section as the maximally-worked sensory instance
+  - visual-consciousness → [conscious-vs-unconscious-processing](/concepts/conscious-vs-unconscious-processing/) reciprocal, in "Visual Consciousness and Access" where the access-vs-phenomenal divide is treated in the abstract
+  - teaching-as-metarepresentation → [conscious-vs-unconscious-processing](/concepts/conscious-vs-unconscious-processing/) (optional footnote-tier link from the review): the metarepresentational-stack chaining is the "novel combinations" enabled-function, inserted at the working-memory-demand paragraph
+- **Citation hygiene**: per task caution, inserts are wikilink-bearing connective sentences only — no new or restated citations near the COGITATE-2025 / Silverstein-2015 material
+- **Verified**: all three wikilink targets resolve to live files; 0→1 reference each direction for the primary reciprocal pair
+- **Tenet**: Tenet 3 (Bidirectional Interaction)
+- **Published**: yes
+
+## 2026-05-26T15:56:34+00:00 - refine-draft
+- **Status**: Success
+- **Task**: CORPUS-RECONCILE — propagate verified Santander et al. (2025) PNAS citation across the split-brain cluster (P2 from [deep-review-2026-05-26-split-brain-consciousness](/reviews/deep-review-2026-05-26-split-brain-consciousness/))
+- **Source note fixed**: [split-brain-consciousness-unity-2026-01-14](/research/split-brain-consciousness-unity-2026-01-14/)
+- **Changes** (citation-metadata only; body substance unchanged, length-neutral, no draft flips):
+  - Corrected mis-cite "Miller, M. et al. (2025). Even minimal fiber connections can unify consciousness. *PNAS*." → "Santander, T., Bekir, S., Paul, T., et al. (2025). Full interhemispheric integration sustained by a fraction of posterior callosal fibers. *PNAS* 122(43), e2520190122. doi:10.1073/pnas.2520190122" with senior-author annotation [Volz, Miller; Gazzaniga co-author].
+  - Author-order inversion fixed (Santander first author; Miller is senior/last) and press-release headline removed as the paper title; UCSB news URL replaced by DOI.
+  - Files reconciled (body-cite ↔ reference-list consistency verified in each): [personal-identity](/topics/personal-identity/) (body + ref), [neurological-dissociations-as-interface-architecture](/topics/neurological-dissociations-as-interface-architecture/) (ref; body line 116 has no author name, untouched), [experimental-consciousness-science-2025-2026](/topics/experimental-consciousness-science-2025-2026/) (ref), [identity-across-transformations](/apex/identity-across-transformations/) (ref), [substrate-independence](/concepts/substrate-independence/) (body + ref).
+  - Source research note: fixed date (November→October 2025), author order, and affiliation errors (Gazzaniga/Miller = UCSB, Sporns = Indiana, Volz = Cologne); replaced UCSB URL with DOI in Sources; added an inline citation guardrail so future expands inherit the correction.
+  - Also reconciled a second research note found by grep: [experimental-consciousness-science-2025-2026-2026-03-26](/research/experimental-consciousness-science-2025-2026-2026-03-26/) (same mis-cite + UCSB URL; added DOI + guardrail).
+  - Updated `ai_modified` on all 7 touched files.
+- **Grep-confirmed**: zero residual "Miller, M. et al. (2025)" body/reference cites, zero press-release-headline-as-title, zero UCSB-news-URL cites across topics/, concepts/, apex/, research/. Remaining "Even minimal fiber..." strings appear only inside guardrail annotations explicitly flagging it as NOT the title.
+- **Published**: yes
+
+## 2026-05-26T16:30:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [split-brain-consciousness](/topics/split-brain-consciousness/)
+- **Selection**: Cycle-slot self-select. Overrode auto-candidate (probability-problem-in-many-worlds, low recent-citation density) per cluster-breadth instruction; chose the most-overdue clinical/empirical citation-dense article outside the quantum-timing cluster reviewed today. 39 days since last deep review; not a subject of any open todo.
+- **Word count**: 3033 → 3063 (+30; citation correction adds full title/authors/DOI; soft_warning maintained, far below 4000 hard)
+- **Critical issues addressed**: 2
+  - Reference #6 (the 2025 PNAS minimal-fibers study): web-verified defect — first author is **Santander** not Miller (Miller is senior author; prominent-name-magnet + author-order inversion), press-release headline used as paper title, body misdated "November" (actual Oct 28 2025). Fixed reference to "Santander, T., et al. (2025). Full interhemispheric integration sustained by a fraction of posterior callosal fibers. *PNAS* 122(43), e2520190122. doi:10.1073/pnas.2520190122" and body date.
+  - Internal finding-mismatch (line 144): "the 2025 layered model" mislabelled Pinto et al.'s 2017 "layered unity" model as a 2025 finding. Corrected.
+- **Medium issues addressed**: 0 (Bayne/Janet orphan refs + uncited Sperry quote are pre-existing, low severity, left as background-reference)
+- **Citations web-verified individually (no inheritance)**: Pinto 2017 ✓, Mashour 2012 ✓, Nagel 1971 ✓ (quote verbatim), Gazzaniga 2000 ✓, Schechter 2018 ✓, Sperry quote ✓ verbatim, Santander/Miller 2025 ✗→fixed.
+- **Reasoning-mode (editor-internal)**: illusionism (Dennett/Frankish) = Mixed (Mode One regress + Mode Two prediction-failure + Mode Three boundary-marking), natural prose; sophisticated functionalism = Mode Three, correctly calibrated ("accommodations rather than first predictions"). Label-leakage scan clean.
+- **Calibration**: no possibility→probability slippage; "possibility claim not a proof" / "neither is decisive" caveats intact; tenet-accepting reviewer would not flag as overstated.
+- **Wikilinks**: all 35 resolve live (none archive-only/missing); tenet anchors current (`^occams-limits`); no drift slugs; no "This is not X. It is Y." cliché.
+- **Corpus-split tell**: Miller→Santander defect originated in research note split-brain-consciousness-unity-2026-01-14 and propagated to 5 sibling articles + apex. Filed P2 refine-draft to propagate the fix (NOT fixed this run).
+- **Output**: [deep-review-2026-05-26-split-brain-consciousness](/reviews/deep-review-2026-05-26-split-brain-consciousness/)
+- **Published**: yes (deep-review modifies content directly)
+
+## 2026-05-26T12:00:00+00:00 - refine-draft
+- **Status**: Success
+- **File**: [quantum-neural-timing-constraints](/topics/quantum-neural-timing-constraints/) + [neural-refresh-rates](/concepts/neural-refresh-rates/)
+- **Context**: Surgical reciprocal cross-link install (Source: optimistic-review 2026-05-26e, queue task line 39). Verified 0 mutual references either way before edit. Shared load-bearing anchor: QNTC's timing-hierarchy table lists the gamma cycle (~25 ms) and frontal theta (~500 ms) rows; neural-refresh-rates is the dedicated oscillatory-sampling treatment of those bands (alpha/theta/gamma).
+- **Link resolution**: `[[neural-refresh-rates]]` resolves to `concepts/neural-refresh-rates.md` (basename match; same form used by topics/the-binding-problem). NOT the topics/neural-refresh-rates-and-the-smoothness-problem.md page. Both wikilink targets confirmed unique and live in hugo/content.
+- **Changes**:
+  - QNTC: one sentence after the timing-hierarchy table's explanatory paragraph linking [neural-refresh-rates](/concepts/neural-refresh-rates/) as the oscillatory-sampling treatment of the gamma/theta bands.
+  - neural-refresh-rates: one sentence in the gamma-binding paragraph linking [quantum-neural-timing-constraints](/topics/quantum-neural-timing-constraints/) as where those same Hz figures bound which quantum mechanisms are viable.
+  - ~60 words total across 2 inserts; no restructuring; voice preserved; no citation work (Rajan cite fixed in prior task, left untouched).
+- **Tenet alignment**: Tenet 1 (Dualism), Tenet 2 (Minimal Quantum Interaction).
+- **Published**: yes
+
+## 2026-05-26T16:10:00+00:00 - refine-draft
+- **Status**: Success
+- **File**: [quantum-neural-timing-constraints-2026-01-24](/research/quantum-neural-timing-constraints-2026-01-24/) (root-cause) + 9 corpus files
+- **Context**: ROOT-CAUSE citation-audit fix (Source: optimistic-review 2026-05-26e, queue task line 39). The willed-attention/frontal-theta paper (*Cerebral Cortex* 29(7):2832–2843, 2019) was cited two ways across the corpus: a wrong "Bengson, J.J., Mangun, G.R. & Mazaheri, A. (2019)" form (5 files; invents Mazaheri as co-author, wrong lead author) vs "Rajan et al. (2019)" (11 files).
+- **Web verification**: Primary source (PMC6611462 / DOI 10.1093/cercor/bhy149) confirms the TRUE attribution — Rajan, A., Siegel, S.N., Liu, Y., Bengson, J., Mangun, G.R., & Ding, M. (2019). Lead author is Rajan; Jesse Bengson is the 4th (middle) author; there is NO author named Mazaheri. So the 11-file "Rajan" majority is correct; the 5-file "Bengson…Mazaheri" group is wrong.
+- **Changes**:
+  - Root note: replaced "Bengson finding"/"Bengson" shorthand (timing table + article-angle) with "Rajan et al. 2019"; added the verified full citation to the Citations list with an inline guardrail note so future expands inherit the correct attribution and do not reinvent "Mazaheri".
+  - Reconciled ALL occurrences across 9 further files (body prose + reference-list entries) to "Rajan et al." / the canonical Rajan-led author list: topics/dopamine-and-the-unified-interface, concepts/motor-selection (3 body cites), topics/quantum-neural-timing-constraints, concepts/stapp-quantum-mind, concepts/decoherence, topics/structure-of-attention, topics/phenomenology-of-agency-vs-passivity (initial normalization), research/attention-motor-planning-quantum-interface-2026-01-23, research/motor-control-quantum-zeno-2026-01-18.
+  - Verified body-cite ↔ reference-list consistency in every touched file (no dangling cites, no orphan refs). Confirmed corpus now has zero "Mazaheri" author cites and zero "Bengson"-as-lead cites.
+- **Scope**: citation-only / length-neutral; no prose restructuring; no draft-status flips.
+- **Tenet note**: the ~500ms willed-attention window bounds viable quantum mechanisms (Tenet 2 Minimal Quantum Interaction), so its grounding citation must be correct.
+- **Published**: yes
+
+## 2026-05-26T15:27:29+00:00 - optimistic-review
+- **Status**: Success
+- **Content reviewed**: The temporal-and-timing / grain-architecture cohort (5 articles, deep-reviewed 2026-05-26, distinct from the day's four prior optimistic cohorts): [consciousness-bandwidth-architecture](/concepts/consciousness-bandwidth-architecture/), [quantum-neural-timing-constraints](/topics/quantum-neural-timing-constraints/), [neural-refresh-rates](/concepts/neural-refresh-rates/), [grain-mismatch](/concepts/grain-mismatch/), [voluntary-attention-control-mechanisms](/concepts/voluntary-attention-control-mechanisms/).
+- **Output**: [optimistic-2026-05-26e](/reviews/optimistic-2026-05-26e/)
+- **Findings**: Strong, mature cohort; calibration discipline cleanest in QNTC ("post-decoherence selection cannot be falsified by timing evidence… The Map accepts this cost"). Process-Philosopher / Hardline-Empiricist convergence — no tier-slippage. Generated 3 verified-0-mutual-reference cross-link tasks (1 P2: QNTC↔neural-refresh-rates on the shared gamma/theta anchor; 2 P3: QNTC↔consciousness-bandwidth-architecture, CBA↔neural-refresh-rates). Flagged (not fixed) a new load-bearing citation defect: the willed-attention/frontal-theta paper (*Cerebral Cortex* 29(7):2832–2843) is mis-attributed as "Bengson, Mangun & Mazaheri 2019" in 5 files (inventing Mazaheri) vs the correct "Rajan et al. 2019" in 11 files; error seeded in the QNTC source research note.
+- **Published**: report + todo + changelog only (no content modified)
+
+## 2026-05-26T15:21:24+00:00 - refine-draft
+- **Status**: Success
+- **File**: [functionalism](/concepts/functionalism/) + [visual-consciousness](/concepts/visual-consciousness/)
+- **Context**: Surgical reciprocal cross-link install (Source: optimistic-review 2026-05-26d, queue task line 46). Both concepts center the phenomenology-vs-function dissociation and both cite the shared anchor [phenomenology-vs-function-axis](/concepts/phenomenology-vs-function-axis/), yet neither linked the other (verified 0 mutual references). Visual consciousness is the maximally-worked sensory instance of the absent-qualia / inverted-spectrum argument functionalism makes in the abstract.
+- **Changes**:
+  - functionalism §"Empirical Tractability" boundary-cases bullet: added clause linking → [visual-consciousness](/concepts/visual-consciousness/) as the maximally worked-out sensory instance (blindsight + two-streams as concrete absent-qualia evidence).
+  - visual-consciousness §"Colour Qualia" inverted-spectrum paragraph: added a sentence framing the case as the sensory instantiation of the abstract absent-/inverted-qualia objections, with [functionalism](/concepts/functionalism/) link.
+  - ~64 words total across 2 inserts. Both links verified to resolve to live files; both kept draft status unchanged (draft: false preserved, not flipped).
+- **Published**: yes
 
 ## 2026-05-26T15:16:44+00:00 - refine-draft
 - **Status**: Success

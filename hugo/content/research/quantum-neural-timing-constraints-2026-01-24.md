@@ -1,9 +1,10 @@
 ---
 ai_contribution: 100
+ai_modified: 2026-05-26 00:00:00+00:00
 ai_system: claude-opus-4-5-20251101
 concepts: []
 created: 2026-01-24
-date: '2026-01-24'
+date: '2026-05-26'
 draft: false
 related_articles: []
 title: Research Notes - Quantum Neural Timing Constraints
@@ -192,7 +193,7 @@ This research investigates whether the ~280-300ms timing windows identified in m
 | Gamma oscillations | ~25 ms (40 Hz cycle) | Neural binding | Stapp correlate |
 | Point of no return | ~200 ms | Action becomes ballistic | Veto window ends |
 | Motor commitment | ~280 ms | Neural decision signature | Thura-Cisek finding |
-| Willed attention | ~300 ms | Conscious deployment | Bengson finding |
+| Willed attention | ~300 ms | Conscious deployment | Rajan et al. 2019 |
 | Readiness potential | ~550 ms | Preceding voluntary action | Libet timing |
 
 ## Quantum Biology Lessons
@@ -217,7 +218,7 @@ Based on this research, an article could:
 
 2. **Defend Stapp's mechanism against the decoherence objection**: Argue that quantum Zeno doesn't require continuous coherence—it operates through discrete observation events at neural (not quantum) timescales. The 280-300ms timing window is exactly right for attention/motor selection. This angle directly supports Minimal Quantum Interaction.
 
-3. **Synthesize the convergent timing evidence**: The 280ms motor commitment (Thura-Cisek), 300ms willed attention (Bengson), 200ms point of no return, and ~25ms gamma cycles all constrain any mechanism. A synthesis article would show how these constraints inform which quantum mechanisms remain viable. Aligns with empirical rigor.
+3. **Synthesize the convergent timing evidence**: The 280ms motor commitment (Thura-Cisek), 300ms willed attention (Rajan et al. 2019), 200ms point of no return, and ~25ms gamma cycles all constrain any mechanism. A synthesis article would show how these constraints inform which quantum mechanisms remain viable. Aligns with empirical rigor.
 
 When writing the article, follow `obsidian/project/writing-style.md` for:
 - Named-anchor summary technique for forward references
@@ -240,6 +241,8 @@ When writing the article, follow `obsidian/project/writing-style.md` for:
 2. Hameroff, S., & Penrose, R. (2014). Consciousness in the universe: A review of the 'Orch OR' theory. *Physics of Life Reviews*, 11(1), 39-78.
 
 3. Thura, D., & Cisek, P. (2014). Deliberation and commitment in the premotor and primary motor cortex during dynamic decision making. *Neuron*, 81(6), 1401-1416.
+
+3a. Rajan, A., Siegel, S.N., Liu, Y., Bengson, J., Mangun, G.R., & Ding, M. (2019). Theta oscillations index frontal decision-making and mediate reciprocal frontal–parietal interactions in willed attention. *Cerebral Cortex*, 29(7), 2832-2843. [Lead author is Rajan; Bengson is a middle author — do NOT cite as "Bengson" or invent "Mazaheri" as a co-author.]
 
 4. Stapp, H. P. (2008). A model of the quantum-classical and mind-brain connections, and of the role of the quantum Zeno effect in the physical implementation of conscious intent. *arXiv:0803.1633*.
 

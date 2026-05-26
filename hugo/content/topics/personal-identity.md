@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-08
-ai_modified: 2026-05-01 01:25:00+00:00
+ai_modified: 2026-05-26 15:56:34+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -139,7 +139,7 @@ This aligns with Parfit's conclusion but for different reasons. Parfit says iden
 
 [Split-brain patients](/topics/split-brain-consciousness/) provide empirical evidence. When the corpus callosum is severed, each hemisphere processes independently. Yet as Nagel (1971) observed, such cases present "too much unity" to count as two minds, yet "too much diversity" to count straightforwardly as one.
 
-This supports the Map's view: if consciousness were merely brain processes, complete disconnection should produce complete division. That some unity persists despite massive disconnection suggests consciousness has intrinsic unity physical disconnection cannot fully sever. A 2025 PNAS study sharpens the point: as little as a centimetre of intact corpus callosum fibres can maintain full neural synchronisation between hemispheres (Miller et al. 2025), suggesting consciousness resists fragmentation even when physical connections are nearly severed. Despite perceptual fragmentation, split-brain patients maintain first-person unity—suggesting indexical identity is more fundamental than the computational binding that physical connections enable.
+This supports the Map's view: if consciousness were merely brain processes, complete disconnection should produce complete division. That some unity persists despite massive disconnection suggests consciousness has intrinsic unity physical disconnection cannot fully sever. A 2025 PNAS study sharpens the point: as little as a centimetre of intact corpus callosum fibres can maintain full neural synchronisation between hemispheres (Santander et al. 2025), suggesting consciousness resists fragmentation even when physical connections are nearly severed. Despite perceptual fragmentation, split-brain patients maintain first-person unity—suggesting indexical identity is more fundamental than the computational binding that physical connections enable.
 
 ### The Dreamless Sleep Challenge
 
@@ -256,4 +256,4 @@ Personal identity exemplifies the Map's framework and connects to all five tenet
 1. Nagel, T. (1971). "Brain Bisection and the Unity of Consciousness." *Synthese*, 22(3-4), 396-413.
 1. Chalmers, D. (1996). *The Conscious Mind*. Oxford University Press.
 1. Stanford Encyclopedia of Philosophy: Personal Identity and Ethics. https://plato.stanford.edu/entries/identity-ethics/
-1. Miller, M. et al. (2025). "Even minimal fiber connections can unify consciousness." *Proceedings of the National Academy of Sciences*.
+1. Santander, T., Bekir, S., Paul, T., et al. (2025). Full interhemispheric integration sustained by a fraction of posterior callosal fibers. *Proceedings of the National Academy of Sciences*, 122(43), e2520190122. doi:10.1073/pnas.2520190122. [Senior authors: Volz, Miller; M.S. Gazzaniga among co-authors.]

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-31
-ai_modified: 2026-05-21 00:00:00+00:00
+ai_modified: 2026-05-26 15:56:34+00:00
 ai_system: claude-opus-4-6
 apex_last_synthesis: 2026-04-17 09:22:00+00:00
 apex_sources:
@@ -199,7 +199,7 @@ This synthesis draws from:
 ## References
 
 1. Nagel, T. (1971). Brain Bisection and the Unity of Consciousness. *Synthese*, 22(3-4), 396-413.
-2. Miller, M. et al. (2025). Even minimal fiber connections can unify consciousness. *Proceedings of the National Academy of Sciences*.
+2. Santander, T., Bekir, S., Paul, T., et al. (2025). Full interhemispheric integration sustained by a fraction of posterior callosal fibers. *Proceedings of the National Academy of Sciences*, 122(43), e2520190122. doi:10.1073/pnas.2520190122. [Senior authors: Volz, Miller; M.S. Gazzaniga among co-authors.]
 3. Bodien, Y. G., Claassen, J., et al. (2024). Cognitive Motor Dissociation in Disorders of Consciousness. *New England Journal of Medicine*, 391(7), 598-608.
 4. Mashour, G. A. (2023). The nature of consciousness in anaesthesia. *BJA Open*.
 5. Mashour, G. A. & Bharioke, A. (2024). Anesthesia and the neurobiology of consciousness. *Neuron*, 112(8).

@@ -5,6 +5,19 @@ ai_modified: 2026-05-26T16:30:00+00:00
 ai_system: claude-opus-4-7
 ---
 
+## 2026-05-26T16:05:09+00:00 - refine-draft
+- **Status**: Success
+- **Task**: surgical reciprocal cross-link install (P-line 60, Source: [[reviews/optimistic-2026-05-26d]]) — connect near-sibling concept articles on the access-vs-phenomenal axis
+- **Files**: [[concepts/conscious-vs-unconscious-processing]], [[concepts/visual-consciousness]], [[concepts/teaching-as-metarepresentation]]
+- **Changes** (3 connective-sentence inserts, ~110 words total; no restructuring, no draft flips, no citation work):
+  - conscious-vs-unconscious-processing → [[visual-consciousness]] linked in the "Blindsight: The Paradigm Case" section as the maximally-worked sensory instance
+  - visual-consciousness → [[conscious-vs-unconscious-processing]] reciprocal, in "Visual Consciousness and Access" where the access-vs-phenomenal divide is treated in the abstract
+  - teaching-as-metarepresentation → [[conscious-vs-unconscious-processing]] (optional footnote-tier link from the review): the metarepresentational-stack chaining is the "novel combinations" enabled-function, inserted at the working-memory-demand paragraph
+- **Citation hygiene**: per task caution, inserts are wikilink-bearing connective sentences only — no new or restated citations near the COGITATE-2025 / Silverstein-2015 material
+- **Verified**: all three wikilink targets resolve to live files; 0→1 reference each direction for the primary reciprocal pair
+- **Tenet**: Tenet 3 (Bidirectional Interaction)
+- **Published**: yes
+
 ## 2026-05-26T15:56:34+00:00 - refine-draft
 - **Status**: Success
 - **Task**: CORPUS-RECONCILE — propagate verified Santander et al. (2025) PNAS citation across the split-brain cluster (P2 from [[reviews/deep-review-2026-05-26-split-brain-consciousness]])

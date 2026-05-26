@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-23
-ai_modified: 2026-05-26 12:11:38+00:00
+ai_modified: 2026-05-26 16:05:09+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 coalesced_from:
@@ -120,7 +120,7 @@ For the Map's argument here, the functional evidence for [Bidirectional Interact
 
 ## Blindsight: The Paradigm Case
 
-[blindsight](/concepts/blindsight/) provides the clearest evidence that consciousness adds functionality beyond unconscious processing.
+[blindsight](/concepts/blindsight/) provides the clearest evidence that consciousness adds functionality beyond unconscious processing. [visual-consciousness](/concepts/visual-consciousness/) works this paradigm case out as the maximally-detailed sensory instance, where the same access-versus-phenomenal divide is traced through colour qualia, binding, and the posterior-cortex correlates.
 
 Patients with V1 damage report being completely blind in portions of their visual field. Yet when forced to guess about stimuli in their blind field, they perform above chance for orientation, motion, and emotional expression.
 

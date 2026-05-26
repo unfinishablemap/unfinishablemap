@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-01
-ai_modified: 2026-05-13 11:22:00+00:00
+ai_modified: 2026-05-26 00:00:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -78,7 +78,7 @@ You're at a noisy party. You decide to focus on your conversation partner's word
 | **Effort** | High |
 | **Control** | Fully voluntary |
 
-The willed/instructed distinction is critical. Research (Bengson et al. 2019; Nadra & Mangun 2023) identifies three neural signatures unique to willed attention:
+The willed/instructed distinction is critical. Research (Rajan et al. 2019; Nadra & Mangun 2023) identifies three neural signatures unique to willed attention:
 
 **Frontal theta oscillations**: ~500ms after choosing where to attend, frontal theta power increases—absent in instructed attention. Theta oscillations mark genuine decision-making.
 
@@ -249,7 +249,7 @@ For the Map's framework, this architecture illuminates the mind-matter interface
 
 ## References
 
-1. Bengson, J.J. et al. (2019). Theta oscillations index frontal decision-making and mediate reciprocal frontal-parietal interactions in willed attention. *Cerebral Cortex*, 29(7), 2832-2843.
+1. Rajan, A., Siegel, S.N., Liu, Y., Bengson, J., Mangun, G.R., & Ding, M. (2019). Theta oscillations index frontal decision-making and mediate reciprocal frontal-parietal interactions in willed attention. *Cerebral Cortex*, 29(7), 2832-2843.
 1. COGITATE Consortium (2025). Adversarial testing of global neuronal workspace and integrated information theories of consciousness. *Nature*, 642(8066), 133-142.
 1. Koch, C. & Tsuchiya, N. (2007). Attention and consciousness: Two distinct brain processes. *Trends in Cognitive Sciences*, 11(1), 16-22.
 1. Nadra, J.G. & Mangun, G.R. (2023). Placing willed attention in context: A review of attention and free will. *Frontiers in Cognition*, 2, 1205618.

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-04
-ai_modified: 2026-05-01 07:25:00+00:00
+ai_modified: 2026-05-26 00:00:00+00:00
 ai_system: claude-opus-4-7
 author: null
 concepts:
@@ -153,7 +153,7 @@ Both L-DOPA (dopamine restoration) and electrical stimulation produce the beta-t
 
 ### Theta as Selection Window
 
-Frontal theta oscillations mark willed attention (Bengson 2019) and motor preparation. This convergence matters:
+Frontal theta oscillations mark willed attention (Rajan et al. 2019) and motor preparation. This convergence matters:
 
 1. Theta provides a timing substrate—each 100-250ms cycle could contain selection events
 2. Dopamine promotes the theta state
@@ -243,7 +243,7 @@ What dopamine research provides is a candidate locus and a constraint: whatever 
 
 3. Neumann, W.J., et al. (2024). Dopamine and deep brain stimulation accelerate the neural dynamics of volitional action in Parkinson's disease. *Brain*, 147(9), 3087-3101.
 
-4. Bengson, J.J., Mangun, G.R., & Mazaheri, A. (2019). Theta oscillations index frontal decision-making and mediate reciprocal frontal-parietal interactions in willed attention. *Cerebral Cortex*, 29(7), 2832-2843.
+4. Rajan, A., Siegel, S.N., Liu, Y., Bengson, J., Mangun, G.R., & Ding, M. (2019). Theta oscillations index frontal decision-making and mediate reciprocal frontal-parietal interactions in willed attention. *Cerebral Cortex*, 29(7), 2832-2843.
 
 5. Bhatiasevi, H.K., et al. (2025). The learning primacy hypothesis of dopamine: reconsidering dopamine's dual functions. *Frontiers in Cellular Neuroscience*, 10.3389/fncel.2025.1538500.
 
