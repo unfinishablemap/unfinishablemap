@@ -1,9 +1,18 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-26T18:38:52+00:00
+ai_modified: 2026-05-26T19:05:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-05-26T16:30:00+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[topics/biological-computationalisms-inadvertent-case-for-dualism]]
+- **Trigger**: topic-concept anchoring audit (Audit Three) — over-claimed relative to anchor concept [[substrate-independence]]; failed hedge_density (3.03/kw vs ≥7.04 target = 60% of anchor's 11.74) and strong_assertions (1 verb where anchor uses none).
+- **Changes**: Inherited the anchor's calibration discipline without weakening the central structural-parallel claim (biological computationalism's substrate-dependence concessions parallel dualist arguments about the limits of functional organisation). (1) Removed the strong-assertion verb: "Biological computationalism demonstrates the tenet in real time" → "may illustrate the tenet". (2) Added honest hedges across lead and body marking the parallel as the Map's interpretive reading rather than a forced conclusion — lead ("are structurally analogous" → "may be structurally analogous"; "arrives at" → "appears to arrive at"; "gap it opens" → "gap it seems to open"); added a calibration sentence ("the parallel is structural rather than evidential: at most it points to the two positions sharing a diagnosis, not to the empirical case for dualism being settled by the convergence"); concession-by-concession intro ("parallels" → "seems to parallel", "concede" → "may concede"); substrate-dependence ("abandons" → "appears to abandon", "does not suffice" → "would not suffice", "effectively endorses" → "seems, in effect, to endorse"); metabolic-grounding ("narrows" → "appears to narrow", "is enormous" → "seems large", "is structurally analogous" → "may be structurally analogous"); relocated-hard-problem ("amounts to" → "seems to amount to", "relocates" → "may relocate", "narrows" → "appears to narrow", "has changed" → "seems to have changed").
+- **Post-audit**: hedge_density 8.90/kw (pass, ≥7.04), strong_assertion_count 0 (pass), `evaluate_anchoring` returns no flags against any anchor concept.
+- **Note**: Central claim preserved per Audit Three spec — calibration not retraction. The structural-parallel thesis stands; only the modal confidence was brought in line with [[substrate-independence]]. Mode labels kept out of article body.
+- **Published**: yes
 
 ## 2026-05-26T19:00:00+00:00 - refine-draft
 - **Status**: Success
