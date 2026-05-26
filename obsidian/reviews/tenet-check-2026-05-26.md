@@ -53,6 +53,16 @@ High-risk-page spot checks:
 - `concepts/illusionism.md` — frames illusionism as "the most direct challenge to taking consciousness seriously," then rejects AST and the bare-regress reply, locating the live disagreement at the meta-representational bridge. Rejection tied to the Dualism tenet.
 - `topics/eliminative-materialism.md` — distinguishes two eliminativist strands, rejects both as a theory of consciousness, locating the failure in over-applying Occam's Razor (Tenet 5) and in the introspection-as-theory-laden move; rejection tied to Tenets 1 and 3 explicitly.
 
+## Third-Pass Re-Confirmation (voids included)
+
+A third independent scan later in the 2026-05-26 cycle widened coverage to the `voids/` section (102 files) in addition to topics (248) and concepts (246) — **596 files total**. Findings unchanged: 0 errors, 0 warnings, 0 notes.
+
+- **Coverage completeness**: every one of the 596 content files references a tenet or dualism (`grep` for `tenet|dualis|site perspective|relation to` returned zero files lacking such a reference across all three sections). Tenet alignment is systematic, not sampled.
+- **Danger-pattern re-scan** (consciousness-as-illusion / just-neurons, MWI endorsement, epiphenomenalism endorsement, physicalism-asserted-as-true, Occam-against-dualism-without-caveat, "Map holds functionalism/illusionism"): every surviving match resolved to conditional/refutation framing. Representative confirmations — `conservation-laws-and-mental-causation.md:169` and `delegatory-dualism.md:227` ("If MWI is true, the framework fails"); the argument-from-reason cluster's "if physicalism is true…" conditionals inside pro-dualism self-stultification arguments; all Occam-against-dualism instances explicitly grounded in Tenet 5's self-binding (`parsimony-epistemology.md`, `fitness-beats-truth.md`, `naturally-occluded.md`).
+- **Voids section**: `emergence-void.md`, `self-maintained-cognitive-limits.md`, `interested-party-void.md`, `amplification-void.md`, `voids-between-minds.md`, `conceptual-scheme-void.md`, `epistemological-limits-occams-razor.md` spot-checked — all tie their analysis to a named tenet (predominantly Dualism and Occam's-Razor-Has-Limits) and present opposing views only to refute them.
+
+No content errors require human attention. The corpus remains in strong, systematic alignment with all five tenets.
+
 ## Files Passing All Checks
 
-All 494 files pass with no errors, warnings, or notes.
+All 596 files (248 topics, 246 concepts, 102 voids) pass with no errors, warnings, or notes.
