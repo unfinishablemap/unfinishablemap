@@ -1,9 +1,22 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-26T08:20:39+00:00
+ai_modified: 2026-05-26T08:40:12+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-05-26T08:40:12+00:00 - deep-review
+- **Status**: Success
+- **File**: [[concepts/evaluative-phenomenal-character]]
+- **Word count**: 2650 → 2677 (+27; 107% of 2500 concepts soft threshold, consistent with prior reviews' accepted 5-6% overage)
+- **Critical issues addressed**: 0 (none found; article at convergence after three 2026-04-06 reviews)
+- **Medium issues addressed**: 1
+- **Enhancements made**: 8 reference anchors
+- **Medium finding**: Orphan references. 11 of 19 references were listed but never invoked in body or by inline name/year (Gethin, Horgan & Timmons, Joyce, Kriegel, Levinas, Mackie, McDowell, Moore, Prinz, Street, Werner). The first review established the orphan-removal convention by removing Kriegel 2022 / Onof 2008. Resolution: anchored the 8 that map to existing body claims (McDowell+Werner→Moral Perception; Moore→Is-Ought Bridge naturalistic-fallacy clarification; Mackie→Projection Objection; Street→Evolutionary Debunking; Gethin→Buddhist vedanā; Horgan & Timmons+Kriegel→moral-phenomenology field references); removed the 3 unanchorable (Joyce, Levinas, Prinz). Zero orphans remain. Length offset by tightening the Moore clause and the vipassanā sentence (length-neutral mode, article over soft cap).
+- **Engagement classification** (editor-internal): illusionist = Mode Two (regress uses illusionism's own seeming-commitment; valence problem flags missing reductive base); projection objection = Mode Two; evolutionary debunking = Mixed (fire-is-hot in-framework + boundary at "badness there to be tracked"); cultural-variation empiricist = Mode One (meditation changes meta-attitudes not first-order valence). No boundary-substitution, no label leakage (grep-verified).
+- **Calibration**: "five civilisations" and "convergence demands explanation" claims are conditional inferences / demands-for-explanation, not evidential-status upgrades. No possibility/probability slippage.
+- **Stability**: Did not re-flag settled points (Sosa = normativity broadly; Dimitrov constitutivism; Hume is-ought as premise shift; bedrock persona disagreements). Spot-checked 10 body wikilink targets — all resolve.
+- **Output**: [[reviews/deep-review-2026-05-26-evaluative-phenomenal-character]]
 
 ## 2026-05-26T09:10:00+00:00 - deep-review
 - **Status**: Success

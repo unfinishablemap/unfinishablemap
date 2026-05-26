@@ -4,7 +4,7 @@ description: "Conscious experience carries intrinsic evaluative character—felt
 created: 2026-01-16
 modified: 2026-04-06
 human_modified:
-ai_modified: 2026-05-14T20:42:00+00:00
+ai_modified: 2026-05-26T08:40:12+00:00
 draft: false
 topics:
   - "[[meaning-of-life]]"
@@ -54,7 +54,7 @@ author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-04-06
 last_curated:
-last_deep_review: 2026-04-06T21:10:00+00:00
+last_deep_review: 2026-05-26T08:40:12+00:00
 coalesced_from:
   - "/concepts/phenomenal-normativity/"
   - "/concepts/evaluative-qualia/"
@@ -82,7 +82,7 @@ Martin Dimitrov extends this via constitutivism about phenomenal introspection: 
 
 ### The Is-Ought Bridge
 
-Hume argued you cannot derive "ought" from "is." The logical point stands: no formal deduction bridges the gap. But phenomenal normativity reframes the premises. If pain's badness is constitutive of what pain *is*, then the phenomenal "is" already contains normativity—not by illicit derivation but because the starting point was never purely descriptive. Attending to pain puts you in contact with a fact that is simultaneously natural and normative.
+Hume argued you cannot derive "ought" from "is." The logical point stands: no formal deduction bridges the gap. But phenomenal normativity reframes the premises. If pain's badness is constitutive of what pain *is*, then the phenomenal "is" already contains normativity—not by illicit derivation but because the starting point was never purely descriptive. Attending to pain puts you in contact with a fact that is simultaneously natural and normative. This avoids Moore's naturalistic fallacy (Moore 1903): the claim is identity discovered in acquaintance, not a *definition* of goodness in non-evaluative terms.
 
 ## Phenomenal Value Pluralism
 
@@ -121,7 +121,7 @@ This bracketing is not scepticism about normativity. It is methodological discip
 
 ## Moral Perception
 
-Moral phenomenology applies these methods to the ethical domain specifically. A central question is whether ethical properties can be directly *perceived*. Moral perception holds that wrongness presents itself in experience with the immediacy of colour or shape, rather than being inferred from morally neutral facts.
+Moral phenomenology applies these methods to the ethical domain specifically (Horgan & Timmons 2005; Kriegel 2008). A central question is whether ethical properties can be directly *perceived*. Moral perception holds that wrongness presents itself in experience with the immediacy of colour or shape, rather than being inferred from morally neutral facts (McDowell 1979; for a survey of the contemporary debate, Werner 2020).
 
 Witnessing cruelty produces an experience with identifiable phenomenal character (see [[topics/phenomenology-of-moral-life|phenomenology of moral life]] for the full arc from pre-reflective strike through deliberation). The wrongness presents itself as a feature of the situation—belonging to the act, not merely to the observer's reaction. Obligation has a distinct phenomenal profile: a felt practical necessity rather than an inclination. Moral admiration, guilt, and moral remainder each carry specific felt qualities that resist functional reduction.
 
@@ -137,7 +137,7 @@ The [[normative-void]] extends this: if ethical perception varies within humanit
 
 The recognition that experience carries intrinsic evaluative character is not a recent Western discovery. Multiple traditions arrived at structurally similar conclusions through independent routes.
 
-**Buddhist vedanā.** The Pāli canon identifies feeling tone as one of the five aggregates constituting experience, operating prior to both emotion and judgment. Buddhist phenomenology treats evaluative character as a basic stratum of experience, not a higher-order addition.
+**Buddhist vedanā.** The Pāli canon identifies feeling tone as one of the five aggregates constituting experience, operating prior to both emotion and judgment (Gethin 1998). Buddhist phenomenology treats evaluative character as a basic stratum of experience, not a higher-order addition.
 
 **Neo-Confucian moral phenomenology.** Wang Yangming's *liángzhī* (innate moral knowledge) holds that moral feeling *is* moral knowledge rather than evidence requiring interpretation—paralleling Rawlette's normative qualia thesis.
 
@@ -151,7 +151,7 @@ The independence matters. When traditions sharing no common textual lineage, ope
 
 [[witness-consciousness|Contemplative traditions]] provide additional data. Meditators report observing valence directly—not as attribution but as constituent of experience. Advanced meditators can attend to valence while suspending evaluative judgment; they report that valence persists even when meta-attitudes are suspended.
 
-Buddhist *vipassanā* discloses how hedonic valence arises moment-to-moment as a constitutive feature of experience, not an evaluative overlay. A tension deserves acknowledgment: the Buddhist tradition concludes that *vedanā* is conditioned and impermanent—a source of suffering when reified. Normative phenomenology can accept the observational finding (normativity is pre-reflective) without endorsing the Buddhist metaphysical conclusion. The methods of sustained attention are separable from the interpretive frameworks.
+Buddhist *vipassanā* discloses hedonic valence arising moment-to-moment as constitutive, not overlaid. A tension deserves acknowledgment: the tradition concludes that *vedanā* is conditioned and impermanent—a source of suffering when reified. Normative phenomenology can accept the observational finding (normativity is pre-reflective) without endorsing the Buddhist metaphysical conclusion. The methods of sustained attention are separable from the interpretive frameworks.
 
 Iris Murdoch and Simone Weil developed complementary accounts of moral [[attention-as-interface|attention]]: sustained, ego-displacing receptivity that allows another person's reality to become fully present. If moral perception were mere projection, sustained contemplative attention should eventually reveal the projection mechanism. Contemplatives across traditions report the opposite: deeper attention reveals more evaluative structure, not less.
 
@@ -163,11 +163,11 @@ Iris Murdoch and Simone Weil developed complementary accounts of moral [[attenti
 
 ### The Projection Objection
 
-Perhaps normativity is projected onto phenomenal states by evolution. **Response**: projection theories must identify what the projection latches onto. If evolution causes us to *treat* pain as bad, some feature of pain makes it apt for negative treatment. The [[explanatory-gap]] reappears.
+Perhaps normativity is projected onto phenomenal states by evolution, as Mackie's error theory holds for moral properties generally (Mackie 1977). **Response**: projection theories must identify what the projection latches onto. If evolution causes us to *treat* pain as bad, some feature of pain makes it apt for negative treatment. The [[explanatory-gap]] reappears.
 
 ### The Evolutionary Debunking Challenge
 
-Evolution fully explains why we believe pain is bad—organisms avoiding tissue damage survived. **Response**: evolution also explains why we believe fire is hot, but we don't conclude fire isn't really hot. The evolutionary explanation accounts for why we *track* pain's badness, not for why badness is there to be tracked. More tellingly, the structural uniformity of demand phenomenology across domains with very different evolutionary histories—moral emergency, mathematical proof, aesthetic pattern—resists explanation through fitness relevance alone.
+Evolution fully explains why we believe pain is bad—organisms avoiding tissue damage survived, and Street's Darwinian dilemma presses realists to explain the fit between evaluative beliefs and evaluative truths (Street 2006). **Response**: evolution also explains why we believe fire is hot, but we don't conclude fire isn't really hot. The evolutionary explanation accounts for why we *track* pain's badness, not for why badness is there to be tracked. More tellingly, the structural uniformity of demand phenomenology across domains with very different evolutionary histories—moral emergency, mathematical proof, aesthetic pattern—resists explanation through fitness relevance alone.
 
 ### The Cultural Variation Objection
 
@@ -217,18 +217,15 @@ None of these findings currently obtains.
 2. Gethin, R. (1998). *The Foundations of Buddhism*. Oxford University Press.
 3. Horgan, T. & Timmons, M. (2005). "Moral Phenomenology and Moral Theory." *Philosophical Issues*, 15, 56–77.
 4. Hume, D. (1739/1978). *A Treatise of Human Nature*. Oxford University Press.
-5. Joyce, R. (2006). *The Evolution of Morality*. MIT Press.
-6. Kriegel, U. (2008). "Moral Phenomenology: Foundational Issues." *Phenomenology and the Cognitive Sciences*, 7(1), 1–19.
-7. Levinas, E. (1961/1969). *Totality and Infinity*. Trans. A. Lingis. Duquesne University Press.
-8. Mackie, J. L. (1977). *Ethics: Inventing Right and Wrong*. Penguin.
-9. McDowell, J. (1979). "Virtue and Reason." *The Monist*, 62(3), 331–350.
-10. Moore, G. E. (1903). *Principia Ethica*. Cambridge University Press.
-11. Murdoch, I. (1970). *The Sovereignty of Good*. Routledge.
-12. Palazzo, G., Krings, F., & Hoffrage, U. (2012). "Ethical Blindness." *Journal of Business Ethics*, 109(3), 323–338.
-13. Petitmengin, C. (2006). Describing one's subjective experience in the second person. *Phenomenology and the Cognitive Sciences*, 5(3), 229–269.
-14. Prinz, J. (2007). *The Emotional Construction of Morals*. Oxford University Press.
-15. Rawlette, S. H. (2016). *The Feeling of Value: Moral Realism Grounded in Phenomenal Consciousness*. [Foreword by Thomas Nagel]
-16. Sosa, D. (2011). Two Forms of Dualism. *Dialogue: Canadian Philosophical Review*, 50(2).
-17. Street, S. (2006). "A Darwinian Dilemma for Realist Theories of Value." *Philosophical Studies*, 127(1), 109–166.
-18. Weil, S. (1947/1952). *Gravity and Grace*. Trans. A. Wills. Routledge & Kegan Paul.
-19. Werner, P. (2020). "Moral Perception." *Philosophy Compass*, 15(1), e12640.
+5. Kriegel, U. (2008). "Moral Phenomenology: Foundational Issues." *Phenomenology and the Cognitive Sciences*, 7(1), 1–19.
+6. Mackie, J. L. (1977). *Ethics: Inventing Right and Wrong*. Penguin.
+7. McDowell, J. (1979). "Virtue and Reason." *The Monist*, 62(3), 331–350.
+8. Moore, G. E. (1903). *Principia Ethica*. Cambridge University Press.
+9. Murdoch, I. (1970). *The Sovereignty of Good*. Routledge.
+10. Palazzo, G., Krings, F., & Hoffrage, U. (2012). "Ethical Blindness." *Journal of Business Ethics*, 109(3), 323–338.
+11. Petitmengin, C. (2006). Describing one's subjective experience in the second person. *Phenomenology and the Cognitive Sciences*, 5(3), 229–269.
+12. Rawlette, S. H. (2016). *The Feeling of Value: Moral Realism Grounded in Phenomenal Consciousness*. [Foreword by Thomas Nagel]
+13. Sosa, D. (2011). Two Forms of Dualism. *Dialogue: Canadian Philosophical Review*, 50(2).
+14. Street, S. (2006). "A Darwinian Dilemma for Realist Theories of Value." *Philosophical Studies*, 127(1), 109–166.
+15. Weil, S. (1947/1952). *Gravity and Grace*. Trans. A. Wills. Routledge & Kegan Paul.
+16. Werner, P. (2020). "Moral Perception." *Philosophy Compass*, 15(1), e12640.
