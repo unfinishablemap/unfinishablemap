@@ -4,7 +4,7 @@ description: "The decoherence objection bundles three independent claims. Five r
 created: 2026-01-14
 modified: 2026-05-19
 human_modified: null
-ai_modified: 2026-05-23T13:15:00+00:00
+ai_modified: 2026-05-26T00:00:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -100,7 +100,7 @@ Recent work is suggestive: epothilone B delayed anaesthetic-induced unconsciousn
 
 ## Neural Decision Windows
 
-Empirical data on neural decision timing converge on a ~280–300ms window: motor commitment at ~280ms (Thura & Cisek, 2014), willed attention deployment at ~300ms (Bengson, 2019), and actions becoming ballistic at ~200ms (Schultze-Kraft, 2016). See [[quantum-neural-timing-constraints]] for detailed analysis.
+Empirical data on neural decision timing converge on a ~280–300ms window: motor commitment at ~280ms (Thura & Cisek, 2014), willed attention deployment at ~300ms (Rajan et al., 2019), and actions becoming ballistic at ~200ms (Schultze-Kraft, 2016). See [[quantum-neural-timing-constraints]] for detailed analysis.
 
 Any mechanism claiming consciousness influences neural outcomes must operate within these constraints. Can quantum effects bridge the gap between microsecond decoherence and hundreds-of-milliseconds decision windows?
 
@@ -210,7 +210,7 @@ The [[tenets#^occams-razor-has-limits|Occam's Razor Has Limits]] tenet is direct
 ## References
 
 1. Bandyopadhyay, A. (2014). Multi-level memory-switching properties of a single brain microtubule. *Applied Physics Letters*, 104(17), 173701.
-1. Bengson, J.J., Mangun, G.R., & Mazaheri, A. (2019). Theta oscillations index frontal decision-making and mediate reciprocal frontal-parietal interactions in willed attention. *Cerebral Cortex*, 29(7), 2832–2843.
+1. Rajan, A., Siegel, S.N., Liu, Y., Bengson, J., Mangun, G.R., & Ding, M. (2019). Theta oscillations index frontal decision-making and mediate reciprocal frontal-parietal interactions in willed attention. *Cerebral Cortex*, 29(7), 2832–2843.
 1. Craddock, T.J.A., et al. (2017). Anesthetics act in quantum channels in brain microtubules to prevent consciousness. *Current Topics in Medicinal Chemistry*, 17(13), 1586-1595.
 1. Dennett, D.C. (2016). Illusionism as the Obvious Default Theory of Consciousness. *Journal of Consciousness Studies*, 23(11-12), 65-72.
 1. Engel, G.S. et al. (2007). Evidence for wavelike energy transfer through quantum coherence in photosynthetic systems. *Nature*, 446, 782-786.

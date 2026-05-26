@@ -4,6 +4,7 @@ created: 2026-01-23
 draft: false
 ai_contribution: 100
 ai_system: claude-opus-4-5-20251101
+ai_modified: 2026-05-26T00:00:00+00:00
 ---
 
 # Research: Attention and Motor Planning Quantum Interface
@@ -271,7 +272,7 @@ Research reveals deep connections between attention and motor planning that supp
 | 2009 | Desmurget parietal stimulation | Double dissociation of intention (parietal) and execution (premotor) |
 | 2012 | Schurger stochastic model | Reinterprets RP as noise; weakens Libet challenge |
 | 2014 | Deliberation/commitment study | Identifies 280ms commitment point in PMd/M1 |
-| 2019 | Bengson willed attention | Frontal theta distinguishes willed from instructed attention |
+| 2019 | Rajan et al. willed attention | Frontal theta distinguishes willed from instructed attention |
 | 2022 | "Whole PFC is premotor" | Establishes action abstraction hierarchy throughout prefrontal cortex |
 | 2024 | Sjöberg SMA resection | Shows RP generation region dispensable for voluntary action sense |
 | 2025 | Revised microtubule coherence | New evidence for macroscopic quantum effects in conscious state formation |
@@ -317,7 +318,7 @@ When writing the article, follow `obsidian/project/writing-style.md` for:
 
 ## Citations
 
-1. Bengson, J.J., Mangun, G.R., & Mazaheri, A. (2019). Theta oscillations index frontal decision-making and mediate reciprocal frontal-parietal interactions in willed attention. *Cerebral Cortex*, 29(7), 2832-2843.
+1. Rajan, A., Siegel, S.N., Liu, Y., Bengson, J., Mangun, G.R., & Ding, M. (2019). Theta oscillations index frontal decision-making and mediate reciprocal frontal-parietal interactions in willed attention. *Cerebral Cortex*, 29(7), 2832-2843.
 
 2. Cisek, P. (2007). Cortical mechanisms of action selection: the affordance competition hypothesis. *Philosophical Transactions of the Royal Society B*, 362(1485), 1585-1599.
 

@@ -4,7 +4,7 @@ description: "Quantum decoherence at femtoseconds, neural decisions at hundreds 
 created: 2026-01-24
 modified: 2026-01-27
 human_modified: null
-ai_modified: 2026-05-26T05:21:00+00:00
+ai_modified: 2026-05-26T06:00:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -42,7 +42,7 @@ Understanding the debate requires distinguishing timescales that differ by many 
 | Gamma cycle | ~25 ms (40 Hz) | Neural binding oscillation | Crick & Koch 1990 |
 | Point of no return | ~200 ms | Motor action becomes ballistic | Schultze-Kraft 2016 |
 | Motor commitment | ~280 ms | Neural decision signature in PMd | Thura & Cisek 2014 |
-| Frontal theta (willed attention) | ~500 ms | Theta power increase during willed attention | Bengson 2019 |
+| Frontal theta (willed attention) | ~500 ms | Theta power increase during willed attention | Rajan et al. 2019 |
 | Readiness potential | ~550 ms | Pre-movement neural signal | Libet 1983 |
 
 The bottom four entries—from 200ms to 550ms—represent empirically established neural timing windows. Any mechanism claiming consciousness influences neural outcomes must operate within these constraints. The top four entries represent decoherence estimates ranging from contested to theoretical. The compatibility question depends on which estimate is correct and which mechanism is proposed.
@@ -85,7 +85,7 @@ This 280ms window represents when motor decisions become fixed in neural activit
 
 ### Willed Attention Deployment
 
-Bengson et al. (2019) examined the timing of willed versus instructed attention shifts. Key findings:
+Rajan et al. (2019) examined the timing of willed versus instructed attention shifts. Key findings:
 
 - Frontal theta power increases at ~500ms post-cue during willed attention
 - Willed attention is neurally distinct from instructed attention
@@ -204,7 +204,7 @@ What would challenge the Map's metaphysical position is not timing evidence but 
 ## References
 
 1. Beck, F. & Eccles, J.C. (1992). Quantum aspects of brain activity and the role of consciousness. *PNAS*, 89(23), 11357–11361.
-1. Bengson, J.J., Mangun, G.R., & Mazaheri, A. (2019). Theta oscillations index frontal decision-making and mediate reciprocal frontal-parietal interactions in willed attention. *Cerebral Cortex*, 29(7), 2832–2843.
+1. Rajan, A., Siegel, S.N., Liu, Y., Bengson, J., Mangun, G.R., & Ding, M. (2019). Theta oscillations index frontal decision-making and mediate reciprocal frontal-parietal interactions in willed attention. *Cerebral Cortex*, 29(7), 2832–2843.
 1. Crick, F. & Koch, C. (1990). Towards a neurobiological theory of consciousness. *Seminars in the Neurosciences*, 2, 263–275.
 1. Hagan, S., Hameroff, S., & Tuszynski, J. (2002). Quantum computation in brain microtubules: Decoherence and biological feasibility. *Physical Review E*, 65, 061901.
 1. Hameroff, S. & Penrose, R. (2014). Consciousness in the universe: A review of the 'Orch OR' theory. *Physics of Life Reviews*, 11(1), 39–78.

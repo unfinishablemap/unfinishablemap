@@ -5,6 +5,19 @@ ai_modified: 2026-05-26T14:51:49+00:00
 ai_system: claude-opus-4-7
 ---
 
+## 2026-05-26T16:10:00+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[research/quantum-neural-timing-constraints-2026-01-24]] (root-cause) + 9 corpus files
+- **Context**: ROOT-CAUSE citation-audit fix (Source: optimistic-review 2026-05-26e, queue task line 39). The willed-attention/frontal-theta paper (*Cerebral Cortex* 29(7):2832–2843, 2019) was cited two ways across the corpus: a wrong "Bengson, J.J., Mangun, G.R. & Mazaheri, A. (2019)" form (5 files; invents Mazaheri as co-author, wrong lead author) vs "Rajan et al. (2019)" (11 files).
+- **Web verification**: Primary source (PMC6611462 / DOI 10.1093/cercor/bhy149) confirms the TRUE attribution — Rajan, A., Siegel, S.N., Liu, Y., Bengson, J., Mangun, G.R., & Ding, M. (2019). Lead author is Rajan; Jesse Bengson is the 4th (middle) author; there is NO author named Mazaheri. So the 11-file "Rajan" majority is correct; the 5-file "Bengson…Mazaheri" group is wrong.
+- **Changes**:
+  - Root note: replaced "Bengson finding"/"Bengson" shorthand (timing table + article-angle) with "Rajan et al. 2019"; added the verified full citation to the Citations list with an inline guardrail note so future expands inherit the correct attribution and do not reinvent "Mazaheri".
+  - Reconciled ALL occurrences across 9 further files (body prose + reference-list entries) to "Rajan et al." / the canonical Rajan-led author list: topics/dopamine-and-the-unified-interface, concepts/motor-selection (3 body cites), topics/quantum-neural-timing-constraints, concepts/stapp-quantum-mind, concepts/decoherence, topics/structure-of-attention, topics/phenomenology-of-agency-vs-passivity (initial normalization), research/attention-motor-planning-quantum-interface-2026-01-23, research/motor-control-quantum-zeno-2026-01-18.
+  - Verified body-cite ↔ reference-list consistency in every touched file (no dangling cites, no orphan refs). Confirmed corpus now has zero "Mazaheri" author cites and zero "Bengson"-as-lead cites.
+- **Scope**: citation-only / length-neutral; no prose restructuring; no draft-status flips.
+- **Tenet note**: the ~500ms willed-attention window bounds viable quantum mechanisms (Tenet 2 Minimal Quantum Interaction), so its grounding citation must be correct.
+- **Published**: yes
+
 ## 2026-05-26T15:27:29+00:00 - optimistic-review
 - **Status**: Success
 - **Content reviewed**: The temporal-and-timing / grain-architecture cohort (5 articles, deep-reviewed 2026-05-26, distinct from the day's four prior optimistic cohorts): [[concepts/consciousness-bandwidth-architecture]], [[topics/quantum-neural-timing-constraints]], [[concepts/neural-refresh-rates]], [[concepts/grain-mismatch]], [[concepts/voluntary-attention-control-mechanisms]].

@@ -4,7 +4,7 @@ description: "Motor control and attention share neural substrates. Dopamine mark
 created: 2026-01-18
 modified: 2026-02-25
 human_modified: null
-ai_modified: 2026-04-27T23:49:00+00:00
+ai_modified: 2026-05-26T00:00:00+00:00
 draft: false
 topics:
   - "[[topics/free-will]]"
@@ -89,7 +89,7 @@ Either competition is deterministic (one option was always going to win) or it i
 
 ### The 280ms Commitment Point
 
-Thura and Cisek (2014) identified that approximately 280ms before movement onset, activity for the selected target reaches a consistent peak while the unselected target is suppressed—"volitional commitment to an action choice." This timing remarkably matches willed attention's ~300ms deployment (Bengson 2019), supporting unified mechanism.
+Thura and Cisek (2014) identified that approximately 280ms before movement onset, activity for the selected target reaches a consistent peak while the unselected target is suppressed—"volitional commitment to an action choice." This timing remarkably matches willed attention's ~300ms deployment (Rajan et al. 2019), supporting unified mechanism.
 
 ### Basal Ganglia Brake-Release
 
@@ -132,7 +132,7 @@ If dopamine simply lowered threshold uniformly, faster responses would be random
 
 ### Dopamine and Theta Oscillations
 
-A 2024 *Brain* study found that both dopamine and deep brain stimulation shorten the latency between motor intention and execution by shifting oscillatory dynamics from antikinetic beta rhythms (13-35 Hz) to prokinetic theta rhythms (4-10 Hz). Frontal theta oscillations mark both willed attention (Bengson 2019) and motor preparation. Dopamine facilitates the theta state—the same timing substrate where both attentional and motor selection events occur.
+A 2024 *Brain* study found that both dopamine and deep brain stimulation shorten the latency between motor intention and execution by shifting oscillatory dynamics from antikinetic beta rhythms (13-35 Hz) to prokinetic theta rhythms (4-10 Hz). Frontal theta oscillations mark both willed attention (Rajan et al. 2019) and motor preparation. Dopamine facilitates the theta state—the same timing substrate where both attentional and motor selection events occur.
 
 This architecture satisfies Minimal Quantum Interaction: consciousness doesn't inject energy—it biases which accumulating option wins the threshold race.
 
@@ -152,7 +152,7 @@ This maps directly onto the Map's framework. Consciousness contributes at the *s
 
 ## Neural Signatures of Motor Selection
 
-Research on [[voluntary-attention-control-mechanisms|voluntary attention]] (Bengson 2019) found that willed attention engages distinct neural mechanisms: frontal theta oscillations and bidirectional frontoparietal coherence. Motor control shows the same pattern—willed action involves bidirectional information flow (genuine "deliberation") while instructed action is primarily feedforward.
+Research on [[voluntary-attention-control-mechanisms|voluntary attention]] (Rajan et al. 2019) found that willed attention engages distinct neural mechanisms: frontal theta oscillations and bidirectional frontoparietal coherence. Motor control shows the same pattern—willed action involves bidirectional information flow (genuine "deliberation") while instructed action is primarily feedforward.
 
 Both willed attention and willed motor action take ~280-300ms to deploy—versus ~100ms for automatic responses. If attention and motor selection were independent systems, this timing match would be coincidental. In the quantum Zeno framework, 300ms reflects the time required for consciousness to engage through repeated observation and stabilize the selected pattern to threshold.
 
@@ -234,7 +234,7 @@ This framework identifies *where* consciousness might influence motor selection�
 
 ## References
 
-1. Bengson, J.J., Mangun, G.R., & Mazaheri, A. (2019). Theta oscillations index frontal decision-making and mediate reciprocal frontal-parietal interactions in willed attention. *Cerebral Cortex*, 29(7), 2832-2843.
+1. Rajan, A., Siegel, S.N., Liu, Y., Bengson, J., Mangun, G.R., & Ding, M. (2019). Theta oscillations index frontal decision-making and mediate reciprocal frontal-parietal interactions in willed attention. *Cerebral Cortex*, 29(7), 2832-2843.
 
 2. Cisek, P. (2007). Cortical mechanisms of action selection: the affordance competition hypothesis. *Philosophical Transactions of the Royal Society B*, 362(1485), 1585-1599.
 

@@ -37,14 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Fix Bengson/Rajan willed-attention citation (research-note root + 5 contaminated files)
-- **Type**: refine-draft
-- **File**: research/quantum-neural-timing-constraints-2026-01-24.md
-- **Status**: pending
-- **Notes**: Citation-integrity fix flagged by optimistic review 2026-05-26e; a load-bearing cross-article misattribution seeded in a SOURCE RESEARCH NOTE (corroborates the root-cause finding from the 2026-05-26 testing-consciousness-collapse deep review). The willed-attention / frontal-theta paper (*Cerebral Cortex* 29(7):2832–2843, 2019; grounds the ~500ms timing figure across ~18 articles) is cited TWO ways in the corpus: **"Bengson, J.J., Mangun, G.R., & Mazaheri, A. (2019)"** in 5 files (invents Mazaheri as a co-author; Bengson is a middle author, not lead) vs **"Rajan et al. (2019)"** in 11 files. ★ FIRST web-verify the ACTUAL authorship of *Cerebral Cortex* 29(7):2832–2843 from the primary source (PubMed/DOI) — do NOT assume the 11-file majority is correct; establish the true lead author + full author list + exact title. THEN: (a) fix the root research note `research/quantum-neural-timing-constraints-2026-01-24.md` (the optimistic review traced the error to its "Bengson finding" shorthand hardening into a wrong full citation), so it stops re-propagating to future expands; (b) grep the corpus (`grep -rl "Bengson\|Rajan" obsidian/topics obsidian/concepts obsidian/apex`) and reconcile ALL occurrences (both the 5 wrong and the 11 "Rajan" — confirm Rajan is actually right) to the single verified-correct attribution, body + reference list. Keep edits citation-only/length-neutral; do not flip draft status. Distinct from the Meister-2024-vs-Zheng&Meister-2025 defect already queued (todo line ~3732). Tenet alignment: Tenet 2 (Minimal Quantum Interaction) — the ~500ms window bounds viable quantum mechanisms, so its grounding citation must be correct.
-- **Source**: optimistic-review (2026-05-26e) / citation-audit-root-cause
-- **Generated**: 2026-05-26
-
 ### P2: Install quantum-neural-timing-constraints ↔ neural-refresh-rates reciprocal cross-link
 - **Type**: refine-draft
 - **Status**: pending
@@ -3743,6 +3735,10 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 Tasks that failed 3+ times and require human intervention.
 
+
+### ✓ 2026-05-26: Fix Bengson/Rajan willed-attention citation (research-note root + 5 contaminated files)
+- **Type**: refine-draft
+- **Notes**: Citation-integrity fix flagged by optimistic review 2026-05-26e; a load-bearing cross-article misattribution seeded in a SOURCE RESEARCH NOTE (corroborates the root-cause finding from the 2026-05-26 testing-consciousness-collapse deep review). The willed-attention / frontal-theta paper (*Cerebral Cortex* 29(7):2832–2843, 2019; grounds the ~500ms timing figure across ~18 articles) is cited TWO ways in the corpus: **"Bengson, J.J., Mangun, G.R., & Mazaheri, A. (2019)"** in 5 files (invents Mazaheri as a co-author; Bengson is a middle author, not lead) vs **"Rajan et al. (2019)"** in 11 files. ★ FIRST web-verify the ACTUAL authorship of *Cerebral Cortex* 29(7):2832–2843 from the primary source (PubMed/DOI) — do NOT assume the 11-file majority is correct; establish the true lead author + full author list + exact title. THEN: (a) fix the root research note `research/quantum-neural-timing-constraints-2026-01-24.md` (the optimistic review traced the error to its "Bengson finding" shorthand hardening into a wrong full citation), so it stops re-propagating to future expands; (b) grep the corpus (`grep -rl "Bengson\|Rajan" obsidian/topics obsidian/concepts obsidian/apex`) and reconcile ALL occurrences (both the 5 wrong and the 11 "Rajan" — confirm Rajan is actually right) to the single verified-correct attribution, body + reference list. Keep edits citation-only/length-neutral; do not flip draft status. Distinct from the Meister-2024-vs-Zheng&Meister-2025 defect already queued (todo line ~3732). Tenet alignment: Tenet 2 (Minimal Quantum Interaction) — the ~500ms window bounds viable quantum mechanisms, so its grounding citation must be correct.
 
 ### ✓ 2026-05-26: Install functionalism ↔ visual-consciousness reciprocal cross-link
 - **Type**: refine-draft
