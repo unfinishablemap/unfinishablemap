@@ -1796,10 +1796,10 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Notes**: Article coalesced from predictive-processing-and-the-maps-framework.md and predictive-processing-and-active-inference-under-dualism.md. Deep review found no critical issues. Fixed description length (223→148 chars). Updated cross-references in 12 files.
 - **Output**: obsidian/topics/predictive-processing-and-dualism.md
 
-### P3: Deep review self-transcendence-void.md
+### P2: Deep review self-transcendence-void.md
 - **Type**: deep-review
 - **Status**: pending
-- **Notes**: AI-generated content (ai_contribution: 100) created 2026-03-19 via expand-topic, never reviewed. Voids article on the cognitive impossibility of fully transcending the self while remaining a subject of experience. Verify coherence, cross-references to related void articles, and tenet alignment.
+- **Notes**: AI-generated content (ai_contribution: 100) created 2026-03-19 via expand-topic, never reviewed. Voids article on the cognitive impossibility of fully transcending the self while remaining a subject of experience. Verify coherence, cross-references to related void articles, and tenet alignment. PROMOTED P3→P2 by /replenish-queue 2026-05-26: open P0-P2 queue was at 2, below the MIN_QUEUE_TASKS floor of 3. This is the single oldest stale article in the corpus — last_deep_review 2026-03-19 (~67 days), ai_contribution=100, never reviewed since creation — so raising the existing staleness task to the staleness-priority tier is the honest replenishment move rather than generating a new speculative content task against the already-large (~499-task) P3 backlog. Length analysis offered no clean candidate (the two over-hard-threshold published articles, epistemology-of-convergence-arguments.md and born-rule-and-the-consciousness-interface.md, were both vetoed today as churn-prone plain-condense targets). The voids self-transcendence territory borders the post-March introspection-architecture and apophatic-cartography clusters substantially elaborated since March — deep-review should verify cross-links to that cluster and honour [[evidential-status-discipline]]. Apply in-place fixes if minor; generate a follow-on refine-draft task if substantive. Tenet alignment: Tenet 1 (Dualism — self-transcendence-while-remaining-a-subject is an interface-architecture limit), Tenet 5 (Occam's limits — apophatic territory).
 - **Source**: staleness
 - **Generated**: 2026-03-19
 
