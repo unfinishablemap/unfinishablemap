@@ -5,6 +5,20 @@ ai_modified: 2026-05-26T12:00:00+00:00
 ai_system: claude-opus-4-7
 ---
 
+## 2026-05-26T11:21:22+00:00 - deep-review
+- **Status**: Success
+- **File**: [[concepts/visual-consciousness]]
+- **Word count**: 1756 → 1756 (no change; 70% of 2500 soft threshold)
+- **Critical issues addressed**: 1
+  - Broken tenet block anchor `[[tenets#^occams-razor-has-limits]]` → corrected to `^occams-limits` (actual anchor in tenets.md; likely stale after a tenets.md anchor rename). Other 3 tenet anchors verified valid.
+- **Medium issues addressed**: 1
+  - Removed prohibited "This is not X. It's Y." cliché ("This is not ignorance about neural detail. It's a gap...") → rephrased to make the positive claim directly. Note: this exact line was *praised* by the 2026-03-06 and 2026-03-29 reviews, predating the style-guide rule.
+- **Citations web-verified CORRECT** (surnames specifically): Block 1995 (BBS 18:227-287), Koch/Massimini/Boly/Tononi 2016 (NRN 17:307-321), Lamme 2003 (TiCS 7:12-18), Melloni et al./COGITATE 2025 (Nature 642:133-142, Melloni confirmed author). No fabricated surnames, no metadata conflation — the sibling-article failure mode does NOT appear here.
+- **Wikilinks**: all 22 unique targets resolve to LIVE content (0 archive-only, 0 missing)
+- **Anchoring**: quantum-binding passage hedged ("This remains speculative"); no possibility/probability slippage (tenet-accepting reviewer would not flag overstatement)
+- **No named-opponent reasoning-mode classification needed** (engages Block/Lamme as expositors, no adversarial named-opponent reply)
+- **Output**: [[reviews/deep-review-2026-05-26-visual-consciousness]]
+
 ## 2026-05-26T09:30:00+00:00 - deep-review
 - **Status**: Success
 - **File**: [[topics/clinical-neuroplasticity-evidence-for-bidirectional-causation]]

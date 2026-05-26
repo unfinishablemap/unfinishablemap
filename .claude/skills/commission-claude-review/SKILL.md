@@ -29,7 +29,7 @@ For manual invocation, the user's Chrome with the Claude Code extension must alr
 
 1. **No commission already in flight.** Run:
    ```bash
-   uv run python -c "from tools.reviews import has_in_flight; import sys; sys.exit(0 if not has_in_flight('claude') else 1)"
+   uv run python -c "from tools.reviews.pending import has_in_flight; import sys; sys.exit(0 if not has_in_flight('claude') else 1)"
    ```
    Exit if a pending claude entry exists.
 

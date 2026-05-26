@@ -22,8 +22,8 @@ When invoked by `evolve_loop.py`, Chrome is **already running** under the dedica
 
 ## Pre-flight checks
 
-1. **No commission already in flight** — `has_in_flight("gemini")`. Skip if True.
-2. **Cooldown after recent failure** — `find_recent_failed("gemini", now, 1)`. Skip if returns an entry.
+1. **No commission already in flight** — `tools.reviews.pending.has_in_flight("gemini")`. Skip if True.
+2. **Cooldown after recent failure** — `tools.reviews.pending.find_recent_failed("gemini", now, 1)`. Skip if returns an entry.
 3. **Chrome MCP available** — `tabs_context_mcp` with `createIfEmpty: true`. Skip silently if errors.
 
 ## Step 1: Determine the subject and compose the prompt

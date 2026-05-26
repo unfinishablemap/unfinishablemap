@@ -4,8 +4,8 @@ description: "The phenomenal experience of seeing—what it's like to perceive c
 created: 2026-02-01
 modified: 2026-02-01
 human_modified:
-ai_modified: 2026-03-29T22:24:00+00:00
-last_deep_review: 2026-03-29T22:24:00+00:00
+ai_modified: 2026-05-26T11:21:22+00:00
+last_deep_review: 2026-05-26T11:21:22+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -97,7 +97,7 @@ Visual consciousness exemplifies the [[hard-problem-of-consciousness|hard proble
 
 The explanatory gap is starkest for vision because we know so much about visual processing. The retina, V1, the ventral and dorsal streams—neuroscience has mapped vision extensively. Yet the more we learn about how visual information is processed, the more glaring becomes the absence of any explanation for why this processing feels like anything at all.
 
-This is not ignorance about neural detail. It's a gap in our conceptual apparatus—an [[explanatory-gap]] between physical description and phenomenal fact. Physical descriptions trade in structure, function, causal relations. Visual qualia—the redness, the spatial spread, the sense of things *appearing*—resist capture in these terms. Either physics must expand to include qualitative properties (becoming unrecognisable), or there is more to visual consciousness than physics captures.
+The difficulty lies not in missing neural detail but in our conceptual apparatus itself—an [[explanatory-gap]] between physical description and phenomenal fact. Physical descriptions trade in structure, function, causal relations. Visual qualia—the redness, the spatial spread, the sense of things *appearing*—resist capture in these terms. Either physics must expand to include qualitative properties (becoming unrecognisable), or there is more to visual consciousness than physics captures.
 
 ## Relation to Site Perspective
 
@@ -121,7 +121,7 @@ Visual consciousness presents a determinate world—*this* scene, from *this* pe
 
 ### Occam's Razor Has Limits
 
-The sheer complexity of visual consciousness—spatial layout, colour qualia, temporal dynamics, attentional selection, phenomenal unity—resists the simplifying move of identifying experience with neural processing. A simpler ontology that eliminates visual qualia must explain away the very data that make vision philosophically interesting. The [[tenets#^occams-razor-has-limits|Occam's Razor Has Limits]] tenet reminds us that parsimony is a guide, not a proof: when the phenomenon to be explained is the richness of visual experience itself, ontological economy that discards that richness has not simplified the problem but changed the subject.
+The sheer complexity of visual consciousness—spatial layout, colour qualia, temporal dynamics, attentional selection, phenomenal unity—resists the simplifying move of identifying experience with neural processing. A simpler ontology that eliminates visual qualia must explain away the very data that make vision philosophically interesting. The [[tenets#^occams-limits|Occam's Razor Has Limits]] tenet reminds us that parsimony is a guide, not a proof: when the phenomenon to be explained is the richness of visual experience itself, ontological economy that discards that richness has not simplified the problem but changed the subject.
 
 ## Further Reading
 

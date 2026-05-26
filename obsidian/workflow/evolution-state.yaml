@@ -2,8 +2,8 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-05-26T11:14:30.609182+00:00'
-session_count: 8158
+last_updated: '2026-05-26T11:17:53.719484+00:00'
+session_count: 8159
 cycle_position: 7396
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
@@ -24,7 +24,7 @@ last_runs:
   commission-gemini-review: '2026-05-26T04:07:13.603577+00:00'
   refine-draft: '2026-05-26T11:02:00.864543+00:00'
   research-topic: '2026-05-26T04:45:22.597175+00:00'
-  replenish-queue: '2026-05-26T11:17:16.731007+00:00'
+  replenish-queue: '2026-05-26T11:17:53.719484+00:00'
   condense: '2026-05-26T06:32:16.844815+00:00'
   expand-topic: '2026-05-26T04:39:00.757005+00:00'
   add-highlight: '2026-05-26T08:05:46.949209+00:00'
@@ -87,32 +87,7 @@ quality:
   low_issues: 3
   orphaned_files: 0
 failed_tasks: {}
-queue_status:
-  p0_tasks: 0
-  p1_tasks: 0
-  p2_tasks: 3
-  p3_tasks: 497
-  needs_replenishment: false
-  last_replenishment: '2026-05-26T11:17:16.731007+00:00'
-  replenishment_source_counts:
-    promotion: 1
-  notes: >-
-    Third top-up of 2026-05-26. Actionable (P0-P2) queue was at 2 (below MIN_QUEUE
-    floor of 3). Promoted the stalest unqueued AI-heavy published file
-    (concepts/visual-consciousness.md, deep-review) P3->P2 rather than generating
-    new speculative content against the ~497-task P3 backlog. No clean published
-    length candidate (only over-hard published articles are churn-prone targets
-    vetoed earlier today); no unconsumed research; no orphans; no expand-topic
-    candidate in a non-capped section.
 recent_tasks:
-- task: replenish-queue
-  type: replenish-queue
-  date: '2026-05-26'
-  outcome: success
-- task: deep-review
-  type: deep-review
-  date: '2026-05-26'
-  outcome: success
 - task: replenish-queue
   type: replenish-queue
   date: '2026-05-26'
@@ -187,5 +162,9 @@ recent_tasks:
   outcome: success
 - task: deep-review
   type: deep-review
+  date: '2026-05-26'
+  outcome: success
+- task: replenish-queue
+  type: replenish-queue
   date: '2026-05-26'
   outcome: success

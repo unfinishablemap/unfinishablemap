@@ -30,7 +30,7 @@ For manual invocation, the user must ensure their own Chrome with the Claude Cod
 
 1. **No commission already in flight.** Run:
    ```python
-   uv run python -c "from tools.reviews import has_in_flight; import sys; sys.exit(0 if not has_in_flight('chatgpt') else 1)"
+   uv run python -c "from tools.reviews.pending import has_in_flight; import sys; sys.exit(0 if not has_in_flight('chatgpt') else 1)"
    ```
    If exit code is 1, log "Commission already in flight; skipping." and stop.
 
