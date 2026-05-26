@@ -1,9 +1,19 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-26T06:08:19+00:00
+ai_modified: 2026-05-26T07:30:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-05-26T07:30:00+00:00 - condense
+- **Status**: Success
+- **File**: [[concepts/mental-causation-and-downward-causation]]
+- **Before**: 3522 words (over concepts hard threshold of 3500)
+- **After**: 3318 words (soft_warning; back under hard threshold)
+- **Reduction**: ~6% (204 words)
+- **Technique**: Cut genuine redundancy from the coalesced halves and tightened verbose prose throughout. No load-bearing content removed. Folded the §"Operates at incompleteness"/"Answers Kim" bullets into the MQI-mechanism lead (they restated the quantum-opening point already made two paragraphs earlier); condensed the over-long Delegatory Dualism subsection (heavy overlap with the dedicated [[delegatory-causation]]/[[delegatory-dualism]]/[[trumping-preemption]] articles); consolidated the Downward-Causation general-concept section (duplicated the opening's examples); tightened the Drainage/Supervenience, Overdetermination, Interventionism, Strong-Emergence, clinical-neuroplasticity, agent-causation, self-stultification, illusionist, falsifiability, and Relation-to-Site passages (verbose hedging, restated openers/closers).
+- **Preserved (per task)**: timing-gap RELOCATION framing + "no currently specified mechanism bridges the timing gap" statement intact; energy-neutrality degenerate-only qualification + Noether/symmetry-breaking (Cucu & Pitts 2019) response intact; Hagan/Hameroff/Tuszyński (2002) + Reimers/McKemmish (2009) dispute note intact; Kim exclusion-argument engagement and all citations/calibration hedges retained.
+- **Discipline**: "This is not X. It is Y." cliché count = 0 (none introduced, none present). Restored one explicit underdetermination marker ("compatible with both interpretations") as a faithful rephrase of the existing "materialist reading fits the same data" claim — no new claim. Post-edit `evaluate_anchoring()` returns no flags (underdetermination_marker_count=1, was 0).
 
 ## 2026-05-26T06:25:20+00:00 - condense
 - **Status**: Success
