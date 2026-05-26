@@ -9,6 +9,21 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-05-26T08:30:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [neural-refresh-rates-and-the-smoothness-problem](/topics/neural-refresh-rates-and-the-smoothness-problem/)
+- **Context**: Staleness deep-review (49d since 2026-04-07, Tenet-1 load-bearing). Full independent citation re-verification — prior "verified" not inherited.
+- **Word count**: 2320 → 2354 (+34; 78% of 3000 soft)
+- **Critical issues addressed**: 2
+  - **Citation author-order inversion**: Herzog two-stage-model paper cited as "Herzog, Doerig, Drissi-Daoudi" in body + reference; corrected to published order **Herzog, Drissi-Daoudi, Doerig** (web-verified, EPFL LPSY + Semantic Scholar). Contaminant check: no sibling timing article cites Herzog — error did not propagate.
+  - **Dangling cites (BODY↔REFERENCE inconsistency)**: Locke (full section) and Sellars (Relation to Site Perspective) cited in body with no reference entries. Added Locke (1689) *Essay* Bk II Ch 1 and Sellars (1965) *Review of Metaphysics* 18(3):430–451 (verified; Sellars made consistent with grain-mismatch siblings). Reference list renumbered 1–11.
+- **Medium issues addressed**: 1
+  - Removed "This is not X. It is Y." LLM cliché in The Functionalist Response; rephrased as direct positive claim.
+- **Citations web-verified individually (primary sources)**: VanRullen (2016) incl. quoted sentence; Crick & Koch (1990); Herzog/Drissi-Daoudi/Doerig (2020); Lee (2023); Locke (1689); Sellars (1965). Gamma correctly credited to Crick & Koch and perceptual cycles to VanRullen — no prominent-name-magnet errors.
+- **Calibration**: No possibility→probability slippage; article explicitly declines independent-evidence claim and hedges bidirectional interaction. Engagements classified Mode Three (functionalist, boundary-marking) and Mode One (identity theory, defective on own terms) — both honest, no label leakage.
+- **Cross-links**: all 14 outbound resolve LIVE (none archive-only); load-bearing siblings reciprocate. Tenet anchors (^dualism, ^bidirectional-interaction) valid; no stale ^occam/drift slugs. No literature drift — empirical figures match current 2020s literature.
+- **Output**: [deep-review-2026-05-26-neural-refresh-rates](/reviews/deep-review-2026-05-26-neural-refresh-rates/)
+
 ## 2026-05-26T14:51:49+00:00 - refine-draft
 - **Status**: Success
 - **File**: [empirical-evidence-for-consciousness-selecting](/topics/empirical-evidence-for-consciousness-selecting/)

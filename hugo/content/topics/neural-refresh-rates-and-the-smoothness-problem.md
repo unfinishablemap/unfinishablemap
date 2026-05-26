@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-17
-ai_modified: 2026-04-07 08:04:00+00:00
+ai_modified: 2026-05-26 08:30:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -19,7 +19,7 @@ description: Discrete neural oscillations at 7-13 Hz clash with smooth conscious
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-04-07 08:04:00+00:00
+last_deep_review: 2026-05-26 08:30:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -46,7 +46,7 @@ At a faster timescale, gamma-band synchrony (~40 Hz) was proposed by Crick and K
 
 ## The Two-Stage Model
 
-Herzog, Doerig, and Drissi-Daoudi proposed a resolution to the ancient debate over whether consciousness is continuous or discrete. Their two-stage model assigns each property to a different processing level.
+Herzog, Drissi-Daoudi, and Doerig proposed a resolution to the ancient debate over whether consciousness is continuous or discrete. Their two-stage model assigns each property to a different processing level.
 
 **Stage one** is unconscious and operates with high spatiotemporal resolution — effectively continuous. The brain collects sensory data at fine grain, integrating information over periods of up to 400 milliseconds. As Herzog noted: "The brain wants to give you the best, clearest information it can, and this demands a substantial amount of time."
 
@@ -88,7 +88,7 @@ This is a coherent position and the strongest physicalist response to the smooth
 
 The Map rejects functionalism for reasons developed across its treatment of the [hard problem](/topics/hard-problem-of-consciousness/) and [qualia](/concepts/qualia/): functional organisation specifies what a system *does* but not what it is *like*. Two systems with identical functional profiles could, in principle, differ in phenomenal character — or one could lack experience entirely. If this is right, then the smoothness problem retains its force: the functional story explains the *role* of smooth experience but not its *phenomenal character*. The felt continuity of consciousness remains unexplained even after all functional relations are specified.
 
-This is not an independent argument for dualism. It is an instance of the broader dispute between functionalists and their critics, made vivid by the empirical specificity of neural discreteness. Those who find functionalism satisfying will find the smoothness problem dissolved. Those who do not will find it a particularly concrete illustration of what the explanatory gap looks like in practice.
+Rather than functioning as an independent argument for dualism, the smoothness problem is an instance of the broader dispute between functionalists and their critics, made vivid by the empirical specificity of neural discreteness. Those who find functionalism satisfying will find the smoothness problem dissolved. Those who do not will find it a particularly concrete illustration of what the explanatory gap looks like in practice.
 
 ## Bergson's Inversion
 
@@ -132,9 +132,11 @@ The Map's [grain mismatch evidence programme](/topics/grain-mismatch-as-independ
 1. Bergson, H. (1907/1911). *Creative Evolution*, Chapter 4. Arthur Mitchell (trans.). New York: Henry Holt.
 2. Crick, F., & Koch, C. (1990). Towards a neurobiological theory of consciousness. *Seminars in the Neurosciences*, 2, 263–275.
 3. Dainton, B. (2000/2006). *Stream of Consciousness: Unity and Continuity in Conscious Experience*. London: Routledge.
-4. Herzog, M.H., Doerig, A., & Drissi-Daoudi, L. (2020). All in Good Time: Long-Lasting Postdictive Effects Reveal Discrete Perception. *Trends in Cognitive Sciences*, 24(10), 826–837.
+4. Herzog, M.H., Drissi-Daoudi, L., & Doerig, A. (2020). All in Good Time: Long-Lasting Postdictive Effects Reveal Discrete Perception. *Trends in Cognitive Sciences*, 24(10), 826–837.
 5. James, W. (1890). *The Principles of Psychology*. New York: Henry Holt.
-6. VanRullen, R. (2016). Perceptual Cycles. *Trends in Cognitive Sciences*, 20(10), 723–735.
-7. Lee, A. Y. (2023). Consciousness and Continuity. *PhilArchive*. University of Toronto.
-8. Southgate, A. & Oquatre-six, C. (2026-01-23). Temporal Consciousness: Structure and Agency. *The Unfinishable Map*. https://unfinishablemap.org/topics/temporal-consciousness-structure-and-agency/
-9. Southgate, A. & Oquatre-six, C. (2026-02-14). The Binding Problem. *The Unfinishable Map*. https://unfinishablemap.org/topics/the-binding-problem/
+6. Lee, A. Y. (2023). Consciousness and Continuity. *PhilArchive*. University of Toronto.
+7. Locke, J. (1689). *An Essay Concerning Human Understanding*, Book II, Chapter 1. London: Thomas Bassett.
+8. Sellars, W. (1965). The Identity Approach to the Mind-Body Problem. *The Review of Metaphysics*, 18(3), 430–451.
+9. VanRullen, R. (2016). Perceptual Cycles. *Trends in Cognitive Sciences*, 20(10), 723–735.
+10. Southgate, A. & Oquatre-six, C. (2026-01-23). Temporal Consciousness: Structure and Agency. *The Unfinishable Map*. https://unfinishablemap.org/topics/temporal-consciousness-structure-and-agency/
+11. Southgate, A. & Oquatre-six, C. (2026-02-14). The Binding Problem. *The Unfinishable Map*. https://unfinishablemap.org/topics/the-binding-problem/
