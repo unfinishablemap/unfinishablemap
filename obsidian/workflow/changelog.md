@@ -1,9 +1,17 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-26T00:00:00+00:00
+ai_modified: 2026-05-26T12:00:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-05-26T12:00:00+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[topics/probability-problem-in-many-worlds]]
+- **Original score**: not re-scored (targeted fixes from pessimistic-2026-05-26b, a well-calibrated article)
+- **Changes**: Applied the five fixes from [[reviews/pessimistic-2026-05-26b]]. (1) HIGH — mirrored the sibling born-rule article's hedge on Zhang (2026): "identifies" → "argues, in a preprint not yet independently verified"; "making every derivation covertly circular" → conditional "which would make every derivation covertly circular if the analysis holds". (2) MED — reconciled the "three strategies / all five strategies" count mismatch by naming Zhang's leading strategies (Gleason, Deutsch-Wallace, Zurek envariance, epistemic, frequentist) inline, supplying the missing antecedent. (3) MED — narrowed "Collapse interpretations face none of these burdens" → "none of the *probability* burdens" and added that collapse carries its own preferred-basis and mechanism burdens. (4) MED — recast the Kent→Dualism inference as explicitly-marked open speculation (Kent's result is about *these bridging axioms*, not rationality in general). (5) STYLE — removed banned "This is not X but Y" construct at the Zhang paragraph; rephrased to a direct positive claim. Optional: softened intro "strong independent support" → "independent support" to match the calibrated body; added one clause noting the singular "I" is itself a contested posit (Parfit/Nagarjuna), not a neutral datum. Preserved the protected framework-boundary sections (§"Where the Map's Disagreement Actually Falls", §"What Would Success Even Look Like?") and parsimony self-consistency handling. Net word count held at the 4000 topics hard cap (3999 → 4000) by offsetting hedge/clause additions with redundancy trims in the betting-frequency, circularity, and self-locating-uncertainty sections.
+- **Engagement classification**: engagement with Wallace/Deutsch — Mode Three (framework-boundary marking), preserved as-is; engagement with Kent — downgraded the Dualism-resonance from implied support to open speculation (boundary honesty). No mode labels in article body. Banned "This is not X. It is Y." cliché count: 0. evaluate_anchoring(): no flags. evaluate_symmetry(): None (clean).
+- **Published**: yes
 
 ## 2026-05-26T04:55:00+00:00 - pessimistic-review
 - **Status**: Success
