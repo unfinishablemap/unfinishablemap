@@ -5,6 +5,17 @@ ai_modified: 2026-05-26T12:00:00+00:00
 ai_system: claude-opus-4-7
 ---
 
+## 2026-05-26T09:15:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [[topics/presentiment-and-retrocausality]]
+- **Word count**: 1901 → 1901 (no content change; refine-draft d31a2d01f already applied corrections)
+- **Critical issues addressed**: 0 (none found; review confirmed prior refine-draft fixes are sound)
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 (only last_deep_review timestamp updated)
+- **Sixth review**: article modified since 5th review by a refine-draft pass that fixed (1) Wheeler delayed-choice over-claim ("demonstrate retrocausal structure empirically" → confirmed phenomenon vs. one empirically-equivalent interpretation — removes a possibility/probability slippage) and (2) mechanism-gap double-standard ("qualitatively larger" free pass → "degree, not kind," conceding Tegmark decoherence threat applies to the Map's own mechanism). Verified both corrections are accurate and faithful to [[quantum-consciousness]]; all 9 wikilinks resolve; Bayesian arithmetic (10⁹ BF vs 10²⁰ prior → 10¹¹ against) internally consistent.
+- **Engagement with Tegmark/decoherence**: Mode Three (framework-boundary marking), correctly applied — article concedes the threat to its own mechanism rather than dressing the discrete-event response as a refutation. No label leakage.
+- **Output**: [[reviews/deep-review-2026-05-26-presentiment-and-retrocausality]]
+
 ## 2026-05-26T11:01:03+00:00 - refine-draft
 - **Status**: Success
 - **File**: [[topics/volitional-control]]
