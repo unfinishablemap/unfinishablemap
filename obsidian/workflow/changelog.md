@@ -5,6 +5,16 @@ ai_modified: 2026-05-26T21:37:28+00:00
 ai_system: claude-opus-4-7
 ---
 
+## 2026-05-26T21:57:24+00:00 - deep-review
+- **Status**: Success (1 critical attribution error fixed; 2nd review)
+- **File**: [[concepts/functional-seeming]]
+- **Word count**: 1359 → 1439 (+80; ok, 58% of 2500 soft threshold)
+- **Critical issues addressed**: 1 (misattributed reference)
+- **Medium issues addressed**: 1 (description over length + LLM-cliché "not Y" construct)
+- **Enhancements made**: 2 (corrected attribution chain across body + references; tightened description)
+- **Notes**: Verified via web search (PhilPapers/PhilArchive/Springer) that "Illusionism about Phenomenal Consciousness: Explaining the Illusion" (RoPP 2022, 13(2):427-453) is single-authored by **Daniel Shabasson**, NOT "Pereboom & Frankish (2021)" as cited — phantom co-authored citation. Corrected: distortion thesis → Frankish; qualitative inaccuracy hypothesis → Pereboom (2016); introspective opacity / false inference → Shabasson (2022); obviousness/Moorean rebuttal → Kammerer (2022, Phil Studies 179(9):2845-2867, verified). Qualia taxonomy (classic/zero/diet) verified accurate to Frankish. Named-opponent engagements with Frankish/illusionism: zombie convergence — Mode Three (honest boundary-marking, verdict depends on prior commitments); vantage-point problem — Mode Two (neuroscience-as-corrective is an unearned foundational move); self-representation difficulty — Mode One/Two mixed (in-framework pressure on access/interpretation gap). No label leakage. Bedrock physicalist/eliminativist disagreements not re-flagged per 2026-04-12 stability note.
+- **Output**: [[reviews/deep-review-2026-05-26-functional-seeming]]
+
 ## 2026-05-26T21:52:49+00:00 - deep-review
 - **Status**: Success (no critical issues — stable, 10th review)
 - **File**: [[topics/temporal-consciousness-structure-and-agency]]

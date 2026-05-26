@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Deep review concepts/functional-seeming.md (44 days since last review, ai_contribution=100, Tenet 1 load-bearing)
-- **Type**: deep-review
-- **Status**: pending
-- **Notes**: Staleness check (/replenish-queue 2026-05-26, late-cycle top-up, queue-diversity companion to the content-specificity P2 above — a distinct cluster). Verified `last_deep_review: 2026-04-12` (~44 days), `ai_contribution=100`, ~1360 words (well under the 2500 concepts soft — no condense risk). A genuinely-stale article NOT previously the standalone subject of any review (only one incidental link-mention in the queue). It is referenced by ~5 files and is Tenet 1 load-bearing: "functional seeming" names the illusionist/functionalist move of treating the *seeming* of phenomenal properties as itself a functional/representational state — the precise locus where the Map parts company with illusionism, so the page is a framework-boundary anchor for the [[concepts/illusionism]] / [[concepts/functionalism]] cluster. Deep-review should: (a) verify the functional-seeming treatment still coheres with the post-March illusionism/functionalism cluster (the Frankish-engagement refines on [[concepts/illusionism]], the meta-representational-bridge material, [[concepts/phenomenal-transparency-opacity-spectrum]]) and cross-links to it; (b) honour [[direct-refutation-discipline]] / [[evidential-status-discipline]] — engaging the functional-seeming move on its own terms (showing where it under-delivers) rather than asserting its failure, and marking the framework-boundary disagreement honestly; (c) confirm cross-links resolve live and are reciprocated where load-bearing; (d) writing-style + length discipline (no-"This is not X. It is Y." cliché check). Apply in-place fixes if minor; generate a follow-on refine-draft task if substantive. Tenet alignment: Tenet 1 (Dualism — the seeming/being distinction for phenomenal properties is the framework boundary with illusionism).
-- **Source**: staleness
-- **Generated**: 2026-05-26
-
 ### P3: Install self-model/perceptual-construction cohort cross-links (6 reciprocal pairs from optimistic-2026-05-26g)
 - **Type**: refine-draft
 - **Status**: pending
@@ -3735,6 +3728,10 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 Tasks that failed 3+ times and require human intervention.
 
+
+### ✓ 2026-05-26: Deep review concepts/functional-seeming.md (44 days since last review, ai_contribution=100, Tenet 1 load-bearing)
+- **Type**: deep-review
+- **Notes**: Staleness check (/replenish-queue 2026-05-26, late-cycle top-up, queue-diversity companion to the content-specificity P2 above — a distinct cluster). Verified `last_deep_review: 2026-04-12` (~44 days), `ai_contribution=100`, ~1360 words (well under the 2500 concepts soft — no condense risk). A genuinely-stale article NOT previously the standalone subject of any review (only one incidental link-mention in the queue). It is referenced by ~5 files and is Tenet 1 load-bearing: "functional seeming" names the illusionist/functionalist move of treating the *seeming* of phenomenal properties as itself a functional/representational state — the precise locus where the Map parts company with illusionism, so the page is a framework-boundary anchor for the [[concepts/illusionism]] / [[concepts/functionalism]] cluster. Deep-review should: (a) verify the functional-seeming treatment still coheres with the post-March illusionism/functionalism cluster (the Frankish-engagement refines on [[concepts/illusionism]], the meta-representational-bridge material, [[concepts/phenomenal-transparency-opacity-spectrum]]) and cross-links to it; (b) honour [[direct-refutation-discipline]] / [[evidential-status-discipline]] — engaging the functional-seeming move on its own terms (showing where it under-delivers) rather than asserting its failure, and marking the framework-boundary disagreement honestly; (c) confirm cross-links resolve live and are reciprocated where load-bearing; (d) writing-style + length discipline (no-"This is not X. It is Y." cliché check). Apply in-place fixes if minor; generate a follow-on refine-draft task if substantive. Tenet alignment: Tenet 1 (Dualism — the seeming/being distinction for phenomenal properties is the framework boundary with illusionism).
 
 ### ✓ 2026-05-26: Deep review concepts/content-specificity-of-mental-causation.md (44 days since last review, ai_contribution=100, Tenet 3 load-bearing)
 - **Type**: deep-review
