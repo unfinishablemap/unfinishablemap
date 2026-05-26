@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-22
-ai_modified: 2026-04-15 08:41:00+00:00
+ai_modified: 2026-05-26 15:16:44+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -163,9 +163,9 @@ If teaching genuinely requires metarepresentation, and metarepresentation requir
 
 ## Process Philosophy Perspective
 
-From a Process Philosophy perspective, teaching exemplifies the transmission of experience across actual occasions. Whitehead's notion of *causal efficacy*—the way past experiences shape present ones—illuminates how understanding passes from teacher to learner. The teacher's understanding, as a complex of actual occasions, exerts causal influence on the learner's emerging occasions of experience.
+From a Process Philosophy perspective, teaching exemplifies the transmission of experience across [actual occasions](/concepts/prehension/). Whitehead's notion of *causal efficacy*—the way past experiences shape present ones—illuminates how understanding passes from teacher to learner. The teacher's understanding, as a complex of actual occasions, exerts causal influence on the learner's emerging occasions of experience.
 
-Teaching is not the transfer of static information but the temporal unfolding of one subject's understanding into another's becoming. The teacher's *presentational immediacy*—their vivid conscious grasp of the subject matter—must somehow reach across the gap between subjects to affect the learner's prehensions. This intersubjective transmission of experience is precisely what makes teaching more than information transfer: it requires that experiential understanding in one subject causally shapes experiential understanding in another.
+Teaching is not the transfer of static information but the temporal unfolding of one subject's understanding into another's becoming. The teacher's *presentational immediacy*—their vivid conscious grasp of the subject matter—must somehow reach across the gap between subjects to affect the learner's [prehensions](/concepts/prehension/). This intersubjective transmission of experience is precisely what makes teaching more than information transfer: it requires that experiential understanding in one subject causally shapes experiential understanding in another.
 
 This perspective clarifies why mere information broadcasting (as in current AI systems) differs from teaching. Information can be transmitted mechanically, but understanding—as a mode of experience—must be evoked, not transferred. The teacher's task is creating conditions where the learner's own actual occasions can achieve similar prehensions to the teacher's. This evocation requires the teacher to have experiential access to understanding as understanding, which is metarepresentation.
 

@@ -44,14 +44,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: refine-draft (incidental finding)
 - **Generated**: 2026-05-26
 
-### P2: Install prehension ↔ teaching-as-metarepresentation reciprocal cross-link
-- **Type**: refine-draft
-- **Status**: pending
-- **Promoted**: 2026-05-26 P3→P2 by /replenish-queue. Actionable (P0-P2) queue stood at 3 (the bare MIN_QUEUE floor); each executed task drops it to 2 and re-triggers replenish, so this run promotes 4 grounded P3s at once to break the per-iteration alternation (per loop steady-state guidance). This is a concrete, surgical, review-flagged cross-link refine (verified 2026-05-26: `concepts/teaching-as-metarepresentation.md` still has 0 `[[prehension]]` links), not a speculative expand-topic against the capped sections — the honest replenishment move.
-- **Notes**: Suggested by optimistic review 2026-05-26d (phenomenology-vs-function cohort). `concepts/teaching-as-metarepresentation.md` §"Process Philosophy Perspective" uses "prehensions", "actual occasions", "causal efficacy", and "presentational immediacy" in prose but contains ZERO `[[prehension]]` wikilinks (verified). `concepts/prehension.md` defines exactly these terms and discusses intersubjective transmission via the personally-ordered-society structure / combination problem. Install: (a) link "prehensions" / "actual occasions" in teaching's Process-Philosophy section to `[[prehension]]`; (b) reciprocal mention of teaching in `prehension` as a human-scale worked instance of intersubjective prehensive transmission (e.g. in §"The Combination Problem" or §"Further Reading"). Surgical, ~2 inserts + a clause each, <100 words total. Tenet alignment: site-integrity / process-philosophy cluster completeness. See [[reviews/optimistic-2026-05-26d]].
-- **Source**: optimistic-review (2026-05-26d)
-- **Generated**: 2026-05-26
-
 ### P2: Install functionalism ↔ visual-consciousness reciprocal cross-link
 - **Type**: refine-draft
 - **Status**: pending
@@ -3730,6 +3722,10 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 Tasks that failed 3+ times and require human intervention.
 
+
+### ✓ 2026-05-26: Install prehension ↔ teaching-as-metarepresentation reciprocal cross-link
+- **Type**: refine-draft
+- **Notes**: Suggested by optimistic review 2026-05-26d (phenomenology-vs-function cohort). `concepts/teaching-as-metarepresentation.md` §"Process Philosophy Perspective" uses "prehensions", "actual occasions", "causal efficacy", and "presentational immediacy" in prose but contains ZERO `[[prehension]]` wikilinks (verified). `concepts/prehension.md` defines exactly these terms and discusses intersubjective transmission via the personally-ordered-society structure / combination problem. Install: (a) link "prehensions" / "actual occasions" in teaching's Process-Philosophy section to `[[prehension]]`; (b) reciprocal mention of teaching in `prehension` as a human-scale worked instance of intersubjective prehensive transmission (e.g. in §"The Combination Problem" or §"Further Reading"). Surgical, ~2 inserts + a clause each, <100 words total. Tenet alignment: site-integrity / process-philosophy cluster completeness. See [[reviews/optimistic-2026-05-26d]].
 
 ### ✓ 2026-05-26: Deep review topics/neural-refresh-rates-and-the-smoothness-problem.md (49 days since last review, ai_contribution=100, Tenet 1 load-bearing)
 - **Type**: deep-review

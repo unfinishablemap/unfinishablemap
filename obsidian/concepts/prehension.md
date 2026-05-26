@@ -4,7 +4,7 @@ description: "Whitehead's concept of how each moment of reality grasps its prede
 created: 2026-02-09
 modified: 2026-02-09
 human_modified:
-ai_modified: 2026-05-26T11:44:56+00:00
+ai_modified: 2026-05-26T15:16:44+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -81,6 +81,8 @@ Prehension is central to process philosophy's response to the [[combination-prob
 A "personally ordered society" is a stream of occasions where each prehends its immediate predecessor with peculiar intimacy—more directly than it prehends lateral contemporaries. This asymmetric intimacy constitutes personal identity across time. The current occasion doesn't merely receive data from its predecessor; it takes up that predecessor's experience as *its own* past.
 
 Critics object that this doesn't explain *why* prehensive inheritance feels unified rather than merely serial. Prehending a past occasion might be like reading someone else's diary rather than continuing one's own story. Process philosophers respond that the intimacy of immediate prehension—the directness with which each occasion grasps its predecessor—is constitutively different from lateral prehension. But whether this response succeeds remains debated.
+
+[[teaching-as-metarepresentation|Teaching]] offers a human-scale worked instance of the harder problem prehension faces here: transmission *across* personally ordered societies rather than within one. When understanding passes from teacher to learner, one stream of occasions must shape another's becoming without the intimate self-inheritance that constitutes a single mind—the intersubjective limit case of prehensive transmission.
 
 ## Criticisms
 

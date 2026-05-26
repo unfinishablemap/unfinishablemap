@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-19
-ai_modified: 2026-05-15 06:39:00+00:00
+ai_modified: 2026-05-26 15:12:26+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -22,7 +22,7 @@ concepts:
 - '[[consciousness-selecting-neural-patterns]]'
 - '[[post-decoherence-selection]]'
 created: 2026-02-19
-date: &id001 2026-05-15
+date: &id001 2026-05-26
 description: Can experiments distinguish consciousness-driven collapse from decoherence?
   Predictions fall into three tiers—collapse existence, consciousness-dependence,
   and logical constraints—with the consciousness-specific tier remaining the hardest
@@ -30,7 +30,7 @@ description: Can experiments distinguish consciousness-driven collapse from deco
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-04-23 15:29:00+00:00
+last_deep_review: 2026-05-26 15:12:26+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -133,7 +133,7 @@ Chalmers and McQueen (2021) extend the Kremnizer-Ranchin approach: collapse rate
 
 ### Consciousness-Dependent Collapse Timing
 
-If consciousness modulates collapse, collapse *timing* should correlate with when a conscious observer becomes entangled with the measurement result — not when the physical detector registers it. Extended Wigner's friend experiments bear on this: Proietti et al. (2019) confirmed observer-modelling tensions are empirically real, Bong et al. (2020) derived the "local friendliness" no-go theorem, and Allori et al. (2025) showed both many-worlds and single-world interpretations face difficulties. The logical implications are developed in [Tier 3](#the-frauchiger-renner-argument).
+If consciousness modulates collapse, collapse *timing* should correlate with when a conscious observer becomes entangled with the measurement result — not when the physical detector registers it. Extended Wigner's friend experiments bear on this: Proietti et al. (2019) confirmed observer-modelling tensions are empirically real, Bong et al. (2020) derived the "local friendliness" no-go theorem, and Steane (2025) argued that the extended scenario tells against subjective-collapse interpretations without distinguishing single-world from many-world readings. The logical implications are developed in [Tier 3](#the-frauchiger-renner-argument).
 
 **Current status:** Requires quantum memories maintaining coherence through macroscopic measurement chains — beyond current technology.
 
@@ -143,11 +143,11 @@ If consciousness participates in collapse, suppressing it pharmacologically shou
 
 **Current status:** No experiment has attempted this. Anaesthesia alters brain dynamics sufficiently that attributing differences to absent consciousness (rather than changed physical conditions) faces the confound of embodiment.
 
-### Selective Quantum Coherence Disruption
+### Quantum-Substrate Perturbation
 
-Kleiner and Hoel (2024) propose an inverse test: rather than checking whether consciousness triggers collapse, check whether disrupting quantum coherence in neural tissue disrupts consciousness. This probes the other direction of the Map's [Bidirectional Interaction](/tenets/#bidirectional-interaction) tenet.
+Neven et al. (2024) propose an inverse test: rather than checking whether consciousness triggers collapse, manipulate the quantum substrate and check whether consciousness changes. Their programme has two strands — coupling a brain to an external quantum processor to coherently extend conscious experience, and perturbing nuclear-spin coherence pharmacologically, exploiting the finding that xenon isotopes with half-integer nuclear spin (¹²⁹Xe, ¹³¹Xe) are measurably less anaesthetically potent than zero-spin isotopes (¹³²Xe, ¹³⁴Xe). This probes the other direction of the Map's [Bidirectional Interaction](/tenets/#bidirectional-interaction) tenet — whether quantum-level manipulation produces a consciousness-level effect.
 
-**Current status:** Conceptual. Faces the same confound of embodiment — disrupting quantum coherence also alters classical dynamics. If a method could suppress coherence without altering firing rates or metabolic activity, a resulting change in consciousness would constitute convergence evidence for bidirectional causation.
+**Current status:** Proposed; isotope-potency experiments planned in brain organoids and model organisms. Faces the same confound of embodiment — altering nuclear-spin states also alters classical biochemistry. If a manipulation could perturb coherence without altering firing rates or metabolic activity, a resulting change in consciousness would constitute convergence evidence for bidirectional causation.
 
 ### Attention-Based Selection (Stapp)
 
@@ -173,7 +173,7 @@ Tier 3 consists of logical arguments constraining which interpretation-packages 
 
 ### The Frauchiger-Renner Argument {#the-frauchiger-renner-argument}
 
-Extended Wigner's friend scenarios show that universal quantum mechanics plus definite conscious experiences produces contradictions — confirmed empirically by Proietti et al. (2019) and sharpened by Bong et al. (2020) and Allori et al. (2025). Many-worlds resolves this parsimoniously; consciousness-collapse resolves it by denying quantum mechanics applies universally to conscious systems — a more expensive move. The argument narrows viable positions without selecting among them empirically.
+Extended Wigner's friend scenarios show that universal quantum mechanics plus definite conscious experiences produces contradictions — confirmed empirically by Proietti et al. (2019) and sharpened by Bong et al. (2020) and Steane (2025). Many-worlds resolves this parsimoniously; consciousness-collapse resolves it by denying quantum mechanics applies universally to conscious systems — a more expensive move. The argument narrows viable positions without selecting among them empirically.
 
 ### Born Rule Derivation as Indirect Evidence
 
@@ -198,7 +198,7 @@ The most promising strategy uses *shielded systems* — cases where collapse mod
 | Q-shape collapse test (C-M) | 2 | Theoretical | Would test consciousness-structure-specific predictions |
 | Consciousness-dependent timing test | 2 | Conceptual | Would test consciousness-specific collapse timing |
 | Anaesthesia-modulated collapse test | 2 | Conceptual | Would test consciousness-specific participation |
-| Selective coherence disruption (K-H) | 2 | Conceptual | Would test inverse direction: quantum → consciousness |
+| Quantum-substrate perturbation (Neven et al.) | 2 | Proposed | Would test inverse direction: quantum → consciousness |
 | Attention-based Zeno selection (Stapp) | 2 | Theoretical | No novel predictions; may be permanently indistinguishable |
 | Frauchiger-Renner argument | 3 | Logical | Forces interpretation choice |
 | Born rule observer-dependence | 3 | Logical | Consciousness structurally implicated |
@@ -215,7 +215,7 @@ Supporting convergence lines:
 - Failure of objective collapse theories to match observed collapse rates
 - Evidence that decoherence cannot solve the measurement problem
 - Discovery of quantum coherence effects in neural systems
-- Selective coherence disruption affecting consciousness without altering classical neural function (Kleiner & Hoel, 2024)
+- Quantum-substrate perturbation affecting consciousness without altering classical neural function (Neven et al., 2024)
 - Philosophical arguments that indexical facts require consciousness (see [indexical-identity-quantum-measurement](/topics/indexical-identity-quantum-measurement/))
 
 ## Why the Difficulty Is Informative
@@ -230,7 +230,7 @@ The three-tier prediction hierarchy maps directly onto the Map's [tenets](/tenet
 
 The minimality commitment is double-edged: it explains why no differential prediction has yet been confirmed (minimal effects are hardest to detect), but also constrains which positive results the Map can claim — a large, dramatic consciousness-dependent effect would conflict with minimality as much as a null result would conflict with bidirectional interaction.
 
-**[Bidirectional Interaction](/tenets/#bidirectional-interaction)**: Tier 2 tests this directly. Five pathways bear on it: levitated nanoparticle experiments, the MAQRO mission, the Kremnizer-Ranchin Phi-threshold test, the Chalmers-McQueen Q-shape test, and Kleiner and Hoel's (2024) selective coherence disruption — the only proposed test probing the reverse direction (quantum → consciousness). The IIT-CSL programme provides the most direct consciousness-to-physics path because it predicts Φ-correlated collapse rates that no purely physical mechanism would produce.
+**[Bidirectional Interaction](/tenets/#bidirectional-interaction)**: Tier 2 tests this directly. Five pathways bear on it: levitated nanoparticle experiments, the MAQRO mission, the Kremnizer-Ranchin Phi-threshold test, the Chalmers-McQueen Q-shape test, and Neven et al.'s (2024) quantum-substrate perturbation — the only proposed test probing the reverse direction (quantum → consciousness). The IIT-CSL programme provides the most direct consciousness-to-physics path because it predicts Φ-correlated collapse rates that no purely physical mechanism would produce.
 
 **[No Many Worlds](/tenets/#no-many-worlds)**: Load-bearing for this entire analysis — many-worlds dissolves the distinction by denying collapse occurs at all. Every prediction here presupposes collapse is real. Tier 3 shows no-collapse interpretations carry their own costs around indexical identity and probability, but the case against many-worlds rests on the [indexical arguments](/topics/indexical-identity-quantum-measurement/), not parsimony.
 
@@ -253,8 +253,8 @@ If Tier 1 experiments progressively eliminate all collapse models, consciousness
 
 ## References
 
-1. Allori, V. et al. (2025). "The Extended Wigner's Friend, Many-and Single-Worlds and Reasoning from Observation." *Foundations of Physics*.
-2. Barbatti, M. (2024). "Gravity Induced Wave-Function Collapse." *Physical Chemistry Chemical Physics*.
+1. Steane, A.M. (2025). "The Extended Wigner's Friend, Many- and Single-Worlds and Reasoning from Observation." *Foundations of Physics*, 55, 20.
+2. Tomaz, A.A., Mattos, R.S. & Barbatti, M. (2024). "Gravitationally-induced wave function collapse time for molecules." *Physical Chemistry Chemical Physics*, 26, 20785–20798.
 3. Bassi, A., Dorato, M. & Ulbricht, H. (2023). "Collapse Models: A Theoretical, Experimental and Philosophical Review." *Entropy*, 25(4), 645.
 4. Bong, K. W., et al. (2020). "A strong no-go theorem on the Wigner's friend paradox." *Nature Physics*, 16, 1199–1205.
 5. Carlesso, M. & Donadi, S. (2025). "Spontaneous Collapse Models." *arXiv:2508.18822*.
@@ -265,12 +265,10 @@ If Tier 1 experiments progressively eliminate all collapse models, consciousness
 10. Hagan, S., Hameroff, S. & Tuszyński, J. (2002). "Quantum computation in brain microtubules: Decoherence and biological feasibility." *Physical Review E*, 65, 061901.
 11. Horchani, R. (2025). "Experimental Blueprint for Distinguishing Decoherence from Objective Collapse." *arXiv:2512.02838*.
 12. Jahn, R. G., & Dunne, B. J. (2005). "The PEAR Proposition." *Journal of Scientific Exploration*, 19(2), 195–245.
-13. Kleiner, J. & Hoel, E. (2024). "Testing the Conjecture That Quantum Processes Create Conscious Experience." *Entropy*, 26(6), 460.
+13. Neven, H., Zalcman, A., Read, P., Kosik, K.S., van der Molen, T., Bouwmeester, D., Bodnia, E., Turin, L. & Koch, C. (2024). "Testing the Conjecture That Quantum Processes Create Conscious Experience." *Entropy*, 26(6), 460.
 14. Kremnizer, K. & Ranchin, A. (2015). "Integrated Information-Induced Quantum Collapse." *Foundations of Physics*, 45(8), 889–899.
 15. Proietti, M. et al. (2019). "Experimental test of local observer independence." *Science Advances*, 5(9), eaaw9832.
 16. Schlosshauer, M. (2004). "Decoherence, the measurement problem, and interpretations of quantum mechanics." *Reviews of Modern Physics*, 76(4), 1267–1305.
 17. Stapp, H.P. (2007). *Mindful Universe: Quantum Mechanics and the Participating Observer.* Springer.
 18. Tegmark, M. (2000). "Importance of quantum decoherence in brain processes." *Physical Review E*, 61, 4194–4206.
-19. Tononi, G. (2008). "Consciousness as Integrated Information: A Provisional Manifesto." *Biological Bulletin*, 215(3), 216–242.
-20. Tononi, G. et al. (2023). "Integrated information theory (IIT) 4.0." *PLOS Computational Biology*.
-21. Bacciagaluppi, G. (2020). "The Role of Decoherence in Quantum Mechanics." *Stanford Encyclopedia of Philosophy* (Fall 2020 Edition), Edward N. Zalta (ed.).
+19. Albantakis, L., Barbosa, L., Findlay, G., Grasso, M. & Tononi, G. (2023). "Integrated information theory (IIT) 4.0: Formulating the properties of phenomenal existence in physical terms." *PLOS Computational Biology*, 19(10), e1011465.
