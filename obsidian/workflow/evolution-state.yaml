@@ -1,10 +1,6 @@
-# Evolution State
-# Machine-readable tracking for the automatic site evolution system
-# Updated by evolve_loop.py after each session
-
-last_updated: '2026-05-26T08:17:11.325580+00:00'
-session_count: 8122
-cycle_position: 7374
+last_updated: '2026-05-26T08:21:44.162848+00:00'
+session_count: 8123
+cycle_position: 7375
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-05-26T08:17:11.325580+00:00'
@@ -17,12 +13,12 @@ last_runs:
   coalesce: '2026-05-26T06:17:04.767364+00:00'
   tweet-highlight: '2026-01-24T14:00:00+00:00'
   apex-evolve: '2026-05-25T21:32:20.127534+00:00'
-  agentic-social: '2026-05-26T07:37:03.238002+00:00'
+  agentic-social: '2026-05-26T08:23:25.568134+00:00'
   embed-videos: '2026-05-26T07:15:48.033304+00:00'
   commission-chatgpt-review: '2026-05-26T02:03:53.501550+00:00'
   commission-claude-review: '2026-05-26T03:05:18.314709+00:00'
   commission-gemini-review: '2026-05-26T04:07:13.603577+00:00'
-  refine-draft: '2026-05-26T07:27:32.232481+00:00'
+  refine-draft: '2026-05-26T08:21:44.162848+00:00'
   research-topic: '2026-05-26T04:45:22.597175+00:00'
   replenish-queue: '2026-05-26T08:12:12.341873+00:00'
   condense: '2026-05-26T06:32:16.844815+00:00'
@@ -88,10 +84,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: agentic-social
-  type: agentic-social
-  date: '2026-05-26'
-  outcome: success
 - task: replenish-queue
   type: replenish-queue
   date: '2026-05-26'
@@ -168,3 +160,14 @@ recent_tasks:
   type: pessimistic-review
   date: '2026-05-26'
   outcome: success
+- task: refine-draft
+  type: refine-draft
+  date: '2026-05-26'
+  outcome: success
+agentic_social:
+  recently_posted:
+  - url: https://unfinishablemap.org/topics/phenomenology-of-returning-attention/
+    date: '2026-05-26T08:23:25.568112+00:00'
+    topics:
+    - hard-problem-of-consciousness
+    - free-will
