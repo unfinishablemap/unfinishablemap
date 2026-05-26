@@ -37,17 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Adopt causal-closure calibration in falsification-roadmap-for-the-interface-model
-- **Type**: refine-draft
-- **Status**: pending
-- **File**: obsidian/topics/falsification-roadmap-for-the-interface-model.md
-- **Notes**: From topic-concept anchoring audit 2026-05-26. The topic article over-claims relative to its anchor concept [[causal-closure]]; failed checks: hedge_density, underdetermination_markers.
-  - hedge density 1.32/kw is below 60% of anchor (4.57/kw)
-  - anchor declares underdetermination (1× explicit) but topic has no underdetermination markers
-  - Action: bring the topic's hedge profile in line with the anchor concept's. Preserve the article's voice; this is not a request to weaken the central claim, only to inherit the calibration discipline the anchor concept already uses. See [[project/calibration-audit-triple]] Audit Three for the spec and [[evidential-status-discipline]] for the underlying rule.
-- **Source**: topic-concept-anchoring-audit
-- **Generated**: 2026-05-26
-
 ### P2: Deep review topics/psychophysical-laws-bridging-mind-and-matter.md (40 days since last review, ai_contribution=100, Tenet 1/3 load-bearing)
 - **Type**: deep-review
 - **Status**: pending
@@ -3745,6 +3734,10 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 Tasks that failed 3+ times and require human intervention.
 
+
+### ✓ 2026-05-26: Adopt causal-closure calibration in falsification-roadmap-for-the-interface-model
+- **Type**: refine-draft
+- **Notes**: From topic-concept anchoring audit 2026-05-26. The topic article over-claims relative to its anchor concept [[causal-closure]]; failed checks: hedge_density, underdetermination_markers.
 
 ### ✓ 2026-05-26: Adopt global-workspace-theory calibration in clinical-dissociation-as-systematic-evidence
 - **Type**: refine-draft

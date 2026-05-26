@@ -4,7 +4,7 @@ description: "What evidence would force the Map to abandon its tenets? A tenet-b
 created: 2026-04-09
 modified: 2026-05-23
 human_modified:
-ai_modified: 2026-05-23T17:00:00+00:00
+ai_modified: 2026-05-26T23:46:58+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -67,7 +67,7 @@ A principled resolution of the [[knowledge-argument|knowledge argument]] (Mary's
 
 **What would not count**: Finding more neural correlates of consciousness, demonstrating that brain damage affects consciousness, or showing that anaesthesia eliminates experience. Dualism already expects all of these through the interaction interface. A common error is treating evidence of mind-brain *correlation* as evidence of mind-brain *identity*—but correlation is precisely what interactionist dualism predicts.
 
-**Honest assessment**: No path to decisive falsification exists today. Dualism functions as a framework commitment testable through cumulative evidence rather than a single decisive experiment. Its strength lies in the persistent failure of physicalist alternatives to close the explanatory gap. The Map should present this honestly: dualism earns its keep not by being directly testable but by being the best available response to problems that physicalism cannot solve.
+**Honest assessment**: No path to decisive falsification appears to exist today. Dualism functions as a framework commitment testable through cumulative evidence rather than a single decisive experiment. Its strength seems to lie in the persistent failure of physicalist alternatives to close the explanatory gap—though this is an inference to the best available explanation, and the dualism-vs-physicalism question is itself underdetermined by the data, since no experiment yet discriminates a reducible from an irreducible reading of the same neural correlates. The Map should present this honestly: dualism earns its keep not by being directly testable but by being, on the Map's reading, the best available response to problems physicalism has so far been unable to solve.
 
 ## Tenet 2: Minimal Quantum Interaction
 
@@ -107,7 +107,7 @@ A further distinction sharpens the falsification picture. The "minimum" in Minim
 
 **The conservation of energy challenge**: Gamez (2022) argues that conservation laws "trivially nearly entail" causal closure. The Map's response—consciousness biases outcome selection at quantum indeterminacies without adding energy—is exactly the strategy Gamez identifies as remaining open within physics. This is not special pleading; it is the standard move for quantum interactionist dualism, and it is consistent with how quantum measurement works. Selection among energetically equivalent alternatives does not violate conservation laws.
 
-**Honest assessment**: The self-undermining argument against epiphenomenalism remains the strongest philosophical support (see [[the-epiphenomenalist-threat]] for why epiphenomenalism is the default destination of most consciousness theories and what genuine escape requires). If consciousness is causally inert, our beliefs *about* consciousness are causally disconnected from consciousness itself, making every report about experience accidentally right at best. The position is epistemically [[concepts/epiphenomenalism|self-defeating]]. Empirical support for bidirectional interaction is real but indirect: establishing that the functional role requires *non-physical* causation rather than complex physical processing is extremely difficult.
+**Honest assessment**: The self-undermining argument against epiphenomenalism remains the strongest philosophical support (see [[the-epiphenomenalist-threat]] for why epiphenomenalism is the default destination of most consciousness theories and what genuine escape requires). If consciousness is causally inert, our beliefs *about* consciousness are causally disconnected from consciousness itself, making every report about experience accidentally right at best. The position appears epistemically [[concepts/epiphenomenalism|self-defeating]]. Empirical support for bidirectional interaction is real but indirect: establishing that the functional role requires *non-physical* causation rather than complex physical processing seems extremely difficult, and on present evidence the two readings may be empirically equivalent at the level of behaviour and report.
 
 ## Tenet 4: No Many Worlds
 
@@ -121,7 +121,7 @@ A further distinction sharpens the falsification picture. The "minimum" in Minim
 
 **What would support the tenet**: Experimental confirmation of objective collapse through any mechanism. The levitated-optomechanical experiments proposed in 2025 could distinguish decoherence (compatible with MWI) from genuine collapse (incompatible with MWI) by detecting collapse-induced excess decoherence beyond environmental noise baselines. See [[testing-consciousness-collapse]] for the three-tier experimental programme.
 
-**Honest assessment**: MWI and collapse interpretations make identical predictions for all currently feasible experiments. The Map's rejection of MWI is motivated primarily by philosophical concerns—indexical identity, ontological profligacy—rather than empirical evidence (see [[many-worlds-argument]] for the full cumulative case). This is a legitimate philosophical stance but should not be presented as empirically testable in the near term. The collapse-vs-no-collapse question may become experimentally accessible within decades as quantum technology advances, and the Map should watch these developments closely.
+**Honest assessment**: MWI and collapse interpretations are empirically equivalent for all currently feasible experiments—the choice between them is underdetermined by the data presently available. The Map's rejection of MWI is motivated primarily by philosophical concerns—indexical identity, ontological profligacy—rather than empirical evidence (see [[many-worlds-argument]] for the full cumulative case). This is a legitimate philosophical stance but should not be presented as empirically testable in the near term. The collapse-vs-no-collapse question may become experimentally accessible within decades as quantum technology advances, and the Map should watch these developments closely; until it does, the interpretive question remains one the data does not adjudicate.
 
 ## Tenet 5: Occam's Razor Has Limits
 
@@ -149,7 +149,7 @@ The analysis reveals a clear asymmetry across the five tenets. These map to dist
 | No Many Worlds | Interpretation choice | Low (emerging) | Near-term experimental blueprints |
 | Occam's Razor Has Limits | Epistemological thesis | Not scientific | Historical evidence only |
 
-The Map should not pretend this asymmetry does not exist, nor flatten the within-Tenet-2 spread into a single "high traction" row. The mechanism-committed readings (Stapp/Zeno, Orch-OR, Chalmers-McQueen, objective-collapse modulation) generate genuine experimental predictions; the strict corridor by construction does not, and the trumping reading is empirically distinguishable from epiphenomenalism only via causal-structure evidence rather than via Born-rule data. The dualism commitment does not generate decisive predictions—but neither does any competing theory of consciousness generate decisive predictions about whether experience is reducible. The honest position is: the Map is partially testable, partially a framework choice, the testable parts are under active investigation, and which testable part one is testing matters as much as the fact of testability.
+The Map should not pretend this asymmetry does not exist, nor flatten the within-Tenet-2 spread into a single "high traction" row. The mechanism-committed readings (Stapp/Zeno, Orch-OR, Chalmers-McQueen, objective-collapse modulation) appear to generate genuine experimental predictions; the strict corridor by construction does not, and the trumping reading seems empirically distinguishable from epiphenomenalism only via causal-structure evidence rather than via Born-rule data. The dualism commitment does not generate decisive predictions—but neither does any competing theory of consciousness generate decisive predictions about whether experience is reducible, so the framework-level choice may remain underdetermined by the data even as the mechanism-level readings narrow. The honest position is: the Map is partially testable, partially a framework choice, the testable parts are under active investigation, and which testable part one is testing matters as much as the fact of testability.
 
 ### How `brain-internal-born-rule-testing` Modifies This Roadmap
 

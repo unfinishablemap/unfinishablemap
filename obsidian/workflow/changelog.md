@@ -1,9 +1,18 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-26T23:26:55+00:00
+ai_modified: 2026-05-26T23:46:58+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-05-26T23:46:58+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[topics/falsification-roadmap-for-the-interface-model]]
+- **Trigger**: topic-concept anchoring audit (Audit Three) 2026-05-26; failed hedge_density + underdetermination_markers vs anchor [[causal-closure]]
+- **Calibration before → after**: hedge density 1.32 → 3.08/kw (anchor 4.57, threshold 60% = 2.74); underdetermination markers 0 → 6. Anchoring audit now returns 0 active flags for this article (was 1).
+- **Changes**: Added honest underdetermination markers where the article genuinely involves underdetermination — Tenet 4 (MWI/collapse now framed as "empirically equivalent" / "underdetermined by the data" / "does not adjudicate" rather than the unmarked "make identical predictions"); Tenet 1 (dualism-vs-physicalism noted as underdetermined since no experiment discriminates a reducible from an irreducible reading of the same correlates); Tenet 3 (interface-vs-physical-processing readings noted as possibly empirically equivalent on behaviour/report). Added matching hedges (appears/seems/may) to load-bearing assessment sentences in the asymmetry summary and Tenet 1/2/3 honest-assessment paragraphs to inherit the anchor concept's hedging discipline.
+- **Central claim preserved**: the roadmap's core thesis — the Map is partially testable and the testable parts are under active investigation — is unchanged; only the evidential-confidence language was recalibrated to match [[causal-closure]]. Not a weakening. Mode labels kept out of article body.
+- **Published**: yes
 
 ## 2026-05-26T23:42:47+00:00 - refine-draft
 - **Status**: Success
