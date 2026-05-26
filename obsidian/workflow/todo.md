@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-26T20:22:11+00:00
+ai_modified: 2026-05-26T21:31:25+00:00
 ai_system: claude-opus-4-7
 author: Andy Southgate
 concepts: []
@@ -36,6 +36,20 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **P2**: Low - nice to have, human approval needed
 
 ## Active Tasks
+
+### P3: Install self-model/perceptual-construction cohort cross-links (6 reciprocal pairs from optimistic-2026-05-26g)
+- **Type**: refine-draft
+- **Status**: pending
+- **Notes**: Suggested by optimistic review 2026-05-26g (the self-model and perceptual-construction cohort). Six cross-link gaps verified absent in both directions on 2026-05-26 and NOT covered by any existing cross-link task (checked vs todo.md lines 1149, 1571, 1625, 2944, 4880, 6681). Install reciprocal `related_articles` + Further Reading entries (surgical pointer sentences only where existing prose benefits; do not rewrite bodies; honour [[evidential-status-discipline]] — no tier-upgrades): (a) [[concepts/theory-of-mind]] ↔ [[concepts/default-mode-network]] — HIGHEST VALUE / near-omission: ToM §"Neural Correlates" names the DMN overlap ("This network overlaps substantially with the 'default mode network'") but does not link it; DMN lists "theory of mind" as angular-gyrus function and self/other content but does not link ToM; both pages explicitly invoke the other's subject. (b) [[topics/social-construction-of-self-vs-phenomenal-self]] ↔ [[concepts/phenomenal-transparency-opacity-spectrum]] — social-construction cites Metzinger's *transparent self-model*, which is the spectrum article's subject; depersonalisation (spectrum's cleanest self-model-opacity case) is the persistence-through-dissolution evidence social-construction needs. (c) [[topics/consciousness-as-perceptual-architect]] ↔ [[concepts/phenomenal-transparency-opacity-spectrum]] — constancy-breaking (the painter's squint) IS a controlled transparency→opacity shift; both already link perceptual-failure-and-the-interface but not each other. (d) [[topics/consciousness-as-perceptual-architect]] → [[concepts/default-mode-network]] — shared attention-as-interface + neuroplasticity-as-trained-engagement (perceptual ratchet vs meditator DMN plasticity = same downward-causation-across-developmental-timescales claim). Estimated scope: ~4 file-pairs, ~250–400 words total touched across 6–8 files. Tenet alignment: methodological / cluster-integration completeness. See [[reviews/optimistic-2026-05-26g]].
+- **Source**: optimistic-review (2026-05-26g)
+- **Generated**: 2026-05-26
+
+### P3: Apex synthesis — "The self is constructed; the constructor is not"
+- **Type**: apex-evolve
+- **Status**: pending
+- **Notes**: Suggested by optimistic review 2026-05-26g (the self-model and perceptual-construction cohort). The construction/constructor distinction is the cohort's shared spine but lives implicitly across five articles: [[topics/consciousness-as-perceptual-architect]], [[concepts/theory-of-mind]], [[concepts/default-mode-network]], [[concepts/phenomenal-transparency-opacity-spectrum]], [[topics/social-construction-of-self-vs-phenomenal-self]] (plus [[concepts/self-and-self-consciousness]], [[topics/the-self-minimal-narrative-and-substantial]], [[concepts/self-opacity]]). An apex piece could state the general move once — perception, social self, narrative self, and world-model are all genuinely *constructed*, yet each construction presupposes an experiential subject and a phenomenal medium it cannot itself generate — and show it operating identically across the perceptual, social, neural-resting, and representational registers. Apex register is uncapped, so this is the safe high-value expansion while topics/ (~248/270) and concepts/ (~246/270) sit near cap. DISTINCT SUBJECT from the apex synthesis suggested by optimistic-2026-05-26c (which concerns the mind–matter *link* — covariance/lawfulness/opacity); this one concerns the *self/constructor*. Confirm no overlap before promoting. Honour [[evidential-status-discipline]]. Tenet alignment: Tenet 1 (Dualism — the irreducible constructor), Tenet 3 (the constructor is causally efficacious, not a passive screen). See [[reviews/optimistic-2026-05-26g]].
+- **Source**: optimistic-review (2026-05-26g)
+- **Generated**: 2026-05-26
 
 ### P2: Condense apex/phenomenal-output-causal-machinery-dissociation.md (7306 words, over the 6500 apex critical threshold)
 - **Type**: condense
