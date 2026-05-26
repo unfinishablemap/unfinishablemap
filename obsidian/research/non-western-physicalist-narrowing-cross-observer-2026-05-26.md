@@ -4,6 +4,8 @@ created: 2026-05-26
 draft: false
 ai_contribution: 100
 ai_system: claude-opus-4-7
+related_articles:
+  - "[[concepts/concession-convergence]]"  # consumed: confirmed-gap finding folded into §"Three Discriminating Tests" 2026-05-26 (commit 1be6654d)
 ---
 
 # Research: Non-Western Physicalist Theories to Test the Concession-Convergence Cross-Observer Gap
