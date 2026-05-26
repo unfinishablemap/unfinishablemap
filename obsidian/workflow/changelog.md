@@ -1,9 +1,17 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-26T18:32:13+00:00
+ai_modified: 2026-05-26T18:38:52+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-05-26T18:38:52+00:00 - expand-topic (resolved to fold-in + citation fix)
+- **Status**: Success
+- **Topic**: Positive-companion (placebo/choking) coupling — outer-review 2026-05-26 (Claude Opus 4.7) steelman (1) + caveat (f)
+- **Outcome**: NO new article created. Per the task's own conditional ("check first whether coverage is thin … otherwise fold into an existing article"), coverage is among the most developed on the site and topics/ is at 248/270. The positive companion already has dedicated, focused treatment: [[empirical-phenomena-mental-causation]] (a coalesced topic article), a full "Positive Side" section in [[apex/phenomenal-output-causal-machinery-dissociation]], and the conceptual backbone in [[content-specificity-of-mental-causation]]. The reviewer's favoured asymmetry point ("you cannot confabulate interference") is already load-bearing in all three. A new page would be redundant duplication and split the citation/URL surface.
+- **Substantive finding (citation correction, web-verified)**: While verifying Benedetti et al. (2003) as the task instructed, found a load-bearing **misattribution** repeated across all three articles. The corpus used the growth-hormone example as the strongest *content-specificity-via-conscious-belief* case ("tell them it should suppress GH and secretion drops; tell them it should release it and secretion rises — opposite hormonal effects depending on verbal information"). Benedetti 2003 found the **opposite**: verbal expectations of GH/cortisol increase/decrease had *no effect*; the hormonal placebo response was driven by *unconscious conditioning* (sumatriptan) and persisted *even when contrary verbal suggestions were given*. Verbal expectation dominated and overrode conditioning only for the **analgesic and motor** channels. Verified via jneurosci.org/content/23/10/4315 and PubMed 12764120.
+- **Fix**: Corrected the example in [[topics/empirical-phenomena-mental-causation]] (×2 paragraphs), [[concepts/content-specificity-of-mental-causation]] (opening), and [[apex/phenomenal-output-causal-machinery-dissociation]] (Positive Side paragraph). Content-specificity-by-conscious-belief now correctly carried by the analgesic/motor channels; hormonal results presented as conditioning-driven, which actually *strengthens* honesty without weakening the two-sided argument (choking + analgesic/motor placebo remain intact).
+- **Word count**: no net new article; ~3 paragraphs revised across 3 files
 
 ## 2026-05-26T18:32:13+00:00 - optimistic-review
 - **Status**: Success

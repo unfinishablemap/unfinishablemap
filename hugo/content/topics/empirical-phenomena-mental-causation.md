@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-05-08
-ai_modified: 2026-05-26 18:04:23+00:00
+ai_modified: 2026-05-26 18:38:52+00:00
 ai_system: claude-opus-4-7
 author: null
 coalesced_from:
@@ -86,7 +86,7 @@ These are objective changes in neurotransmitter levels, neural activation, and i
 
 The philosophically critical feature is [content-specificity](/concepts/content-specificity-of-mental-causation/): the physiological response tracks what the person believes about the treatment.
 
-Tell someone a pill is a painkiller, and endogenous opioids are released. Tell them an injection should suppress growth hormone, and secretion drops; tell them the same injection should release it, and secretion rises — the same compound producing opposite hormonal effects depending on the verbal information attached (Benedetti et al., 2003). The [Recognition Void](/voids/recognition-void/) reveals the same principle pathologically: in Capgras delusion, what a face is recognised *as* determines the patient's affective response despite identical perceptual input.
+Tell someone a pill is a painkiller, and endogenous opioids are released. Benedetti et al. (2003) sharpen where this content-direction holds and where it does not: verbally induced expectations of analgesia/hyperalgesia and of motor improvement/worsening *overrode* a prior conditioning procedure, so for pain and motor performance the conscious content of the instruction selected the direction of the effect. The same study found the opposite for hormonal responses — verbal expectations of raised or lowered growth hormone and cortisol had *no effect on secretion*; the hormonal placebo response was driven by unconscious conditioning (with sumatriptan), which persisted even when contrary verbal suggestions were given. Content-specificity through conscious belief is therefore demonstrated for the analgesic and motor channels, not the hormonal one, and the article's case rests on the former. The [Recognition Void](/voids/recognition-void/) reveals the same principle pathologically: in Capgras delusion, what a face is recognised *as* determines the patient's affective response despite identical perceptual input.
 
 This connects to the [phenomenal intentionality](/concepts/intentionality/#phenomenal-intentionality-theory) thesis: if genuine intentionality requires phenomenal character, the content doing causal work in placebo is phenomenally constituted — the felt quality of expecting pain relief rather than some extensionally equivalent neural description.
 
@@ -100,7 +100,7 @@ Kaptchuk et al. (2010) showed that patients told they were receiving placebos st
 
 ### Conditioning and Meaning
 
-Placebo effects are sometimes dismissed as classical conditioning. Conditioning captures part of the picture, particularly for immune and hormonal responses, but cannot account for novel placebos — treatments patients have never encountered, which still produce effects when accompanied by verbal information about expected outcomes (Benedetti et al., 2003).
+Placebo effects are sometimes dismissed as classical conditioning. Benedetti et al. (2003) show the division of labour is response-specific rather than uniform: conditioning dominated the *hormonal* responses (growth hormone and cortisol), where verbal expectation alone did nothing, while conscious *expectation* dominated and could override conditioning for the analgesic and motor responses. So conditioning captures part of the picture — the hormonal part squarely — but not the analgesic and motor effects, where novel verbal instructions select the outcome directly.
 
 More fundamentally, human conditioning involves *expectation* — the conditioned stimulus works because the person expects the unconditioned response. When expectations are explicitly contradicted, conditioned responses diminish faster than in uninformed subjects (Montgomery & Kirsch, 1997). A recent review suggests placebo responses in depression may engage neuroplastic processes rather than purely transient shifts (Marueckova et al., 2024). [Predictive processing](/topics/predictive-processing-and-dualism/) frameworks fit this: expectations function as strong priors shaping physiological prediction errors. Why those priors are accompanied by phenomenal experience returns us to the hard problem.
 

@@ -51,14 +51,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: optimistic-review (2026-05-26f)
 - **Generated**: 2026-05-26
 
-### P2: Add the positive-companion (placebo/choking) coupling as a dedicated article or apex section
-- **Type**: expand-topic
-- **Status**: pending
-- **Notes**: From outer review 2026-05-26 (Claude Opus 4.7), Steelmanning point (1) + caveat (f). The reviewer's most favourable finding: the *symmetry* between the negative cluster (decoupling: outputs-not-operations) and a positive companion (content-specific *coupling* — placebo/nocebo where opposite verbal instructions produce opposite hormonal effects per Benedetti et al. 2003; choking under pressure where attention to the operation degrades the output) is "the more powerful half and deserves separate, focused treatment." Confabulation cannot easily explain the *negative interference* of choking, so the materialist absorption owes more than a pure-modularity story here. Check first whether `topics/empirical-phenomena-mental-causation.md` or an existing placebo/choking article already covers this before creating a new page; if coverage is thin, write a topic article (or apex section) developing content-specific phenomenology→physiology coupling as evidence-lift, web-verifying Benedetti et al. 2003 and the choking literature. Tenet alignment: Tenet 3 (Bidirectional Interaction). Note: topics/ is near its 250 cap — confirm headroom or fold into an existing article.
-- **Review file**: `reviews/outer-review-2026-05-26-claude-opus-4-7.md`
-- **Source**: outer-review
-- **Generated**: 2026-05-26
-
 ### P2: Propagate the May 25 Memory Anomalies continuous-signal-detection caveat into the apex memory paragraph
 - **Type**: refine-draft
 - **Status**: pending
@@ -3759,6 +3751,10 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 Tasks that failed 3+ times and require human intervention.
 
+
+### ✓ 2026-05-26: Add the positive-companion (placebo/choking) coupling as a dedicated article or apex section
+- **Type**: expand-topic
+- **Notes**: From outer review 2026-05-26 (Claude Opus 4.7), Steelmanning point (1) + caveat (f). The reviewer's most favourable finding: the *symmetry* between the negative cluster (decoupling: outputs-not-operations) and a positive companion (content-specific *coupling* — placebo/nocebo where opposite verbal instructions produce opposite hormonal effects per Benedetti et al. 2003; choking under pressure where attention to the operation degrades the output) is "the more powerful half and deserves separate, focused treatment." Confabulation cannot easily explain the *negative interference* of choking, so the materialist absorption owes more than a pure-modularity story here. Check first whether `topics/empirical-phenomena-mental-causation.md` or an existing placebo/choking article already covers this before creating a new page; if coverage is thin, write a topic article (or apex section) developing content-specific phenomenology→physiology coupling as evidence-lift, web-verifying Benedetti et al. 2003 and the choking literature. Tenet alignment: Tenet 3 (Bidirectional Interaction). Note: topics/ is near its 250 cap — confirm headroom or fold into an existing article.
 
 ### ✓ 2026-05-26: Recalibrate the four load-bearing empirical citations in phenomenal-output-causal-machinery-dissociation.md (Naccache, Hagger, Cleary, Tulving)
 - **Type**: refine-draft

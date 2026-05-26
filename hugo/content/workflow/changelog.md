@@ -1,13 +1,44 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-26 18:21:41+00:00
+ai_modified: 2026-05-26 18:38:52+00:00
 ai_system: claude-opus-4-7
 concepts: []
 date: '2026-05-26'
 related_articles: []
 title: Changelog
 ---
+
+## 2026-05-26T18:38:52+00:00 - expand-topic (resolved to fold-in + citation fix)
+- **Status**: Success
+- **Topic**: Positive-companion (placebo/choking) coupling — outer-review 2026-05-26 (Claude Opus 4.7) steelman (1) + caveat (f)
+- **Outcome**: NO new article created. Per the task's own conditional ("check first whether coverage is thin … otherwise fold into an existing article"), coverage is among the most developed on the site and topics/ is at 248/270. The positive companion already has dedicated, focused treatment: [empirical-phenomena-mental-causation](/topics/empirical-phenomena-mental-causation/) (a coalesced topic article), a full "Positive Side" section in [phenomenal-output-causal-machinery-dissociation](/apex/phenomenal-output-causal-machinery-dissociation/), and the conceptual backbone in [content-specificity-of-mental-causation](/concepts/content-specificity-of-mental-causation/). The reviewer's favoured asymmetry point ("you cannot confabulate interference") is already load-bearing in all three. A new page would be redundant duplication and split the citation/URL surface.
+- **Substantive finding (citation correction, web-verified)**: While verifying Benedetti et al. (2003) as the task instructed, found a load-bearing **misattribution** repeated across all three articles. The corpus used the growth-hormone example as the strongest *content-specificity-via-conscious-belief* case ("tell them it should suppress GH and secretion drops; tell them it should release it and secretion rises — opposite hormonal effects depending on verbal information"). Benedetti 2003 found the **opposite**: verbal expectations of GH/cortisol increase/decrease had *no effect*; the hormonal placebo response was driven by *unconscious conditioning* (sumatriptan) and persisted *even when contrary verbal suggestions were given*. Verbal expectation dominated and overrode conditioning only for the **analgesic and motor** channels. Verified via jneurosci.org/content/23/10/4315 and PubMed 12764120.
+- **Fix**: Corrected the example in [empirical-phenomena-mental-causation](/topics/empirical-phenomena-mental-causation/) (×2 paragraphs), [content-specificity-of-mental-causation](/concepts/content-specificity-of-mental-causation/) (opening), and [phenomenal-output-causal-machinery-dissociation](/apex/phenomenal-output-causal-machinery-dissociation/) (Positive Side paragraph). Content-specificity-by-conscious-belief now correctly carried by the analgesic/motor channels; hormonal results presented as conditioning-driven, which actually *strengthens* honesty without weakening the two-sided argument (choking + analgesic/motor placebo remain intact).
+- **Word count**: no net new article; ~3 paragraphs revised across 3 files
+
+## 2026-05-26T18:32:13+00:00 - optimistic-review
+- **Status**: Success
+- **Content reviewed**: Recently-modified sample across all four registers — [phenomenal-output-causal-machinery-dissociation](/apex/phenomenal-output-causal-machinery-dissociation/), [agency-void](/voids/agency-void/), [mental-effort](/concepts/mental-effort/), [terminal-lucidity-and-filter-transmission-theory](/topics/terminal-lucidity-and-filter-transmission-theory/) — selected to stress-test calibration discipline. Hardline Empiricist and Process Philosopher converged in praising the same passages on three of four articles (constrain-vs-establish, defeater-removal-vs-evidence-lift, self-audited convergence count); terminal lucidity flagged as a calibration concern (bullish "strongest single-phenomenon case" framing without the evidential-status vocabulary its siblings carry). Generated 1 high-priority apex task (steelmanning-as-method) + 1 refine-draft task (import constrain-vs-establish into terminal lucidity).
+- **Output**: [optimistic-2026-05-26f](/reviews/optimistic-2026-05-26f/)
+
+## 2026-05-26T18:28:19+00:00 - refine-draft
+- **Status**: Success
+- **File**: [phenomenal-output-causal-machinery-dissociation](/apex/phenomenal-output-causal-machinery-dissociation/)
+- **Source**: outer review 2026-05-26 (Claude Opus 4.7), recommendations A1–A4 + B4 (single-case/replication-status flag, satisfied by A3)
+- **Original score**: not run (curate.py review CLI not present in repo; review report already in hand)
+- **Changes**: Four under-hedged citations recalibrated, each web-verified before insertion:
+  - **(A3 + B4) Naccache 2005**: reframed from "a patient with anterior cingulate damage … normal executive control" to a single un-replicated case study with a large unilateral left mesio-frontal lesion (not focal ACC), absent SCRs, *Stroop-only* preserved control alongside Iowa-Gambling-Task deficits; added the mixed ACC-lesion literature (Fellows & Farah 2005; Cipolotti et al. 2016). Propagated the calibration to the strong-rival section's restatement ("intact executive control" → "preserved Stroop executive control", flagged single-case) to avoid self-contradiction; added a `{#real-time}` anchor for the cross-reference.
+  - **(A4) Hagger 2016**: removed the unhedged "collapsed the strength-resource model"; now cites Hagger d=0.04 [−0.07,0.15] *with its own caveat* ("premature to reject … altogether"), Vohs et al. 2021 (d=0.06, BF₀₊≈4:1 null-favouring, k=36, N=3,531), and Dang et al. 2021 (12 labs, N≈1,775, d=0.10 [0.01,0.19], different task pairing). Honest reading: simple resource model unsupported; small effect under some pairings not excluded.
+  - **(A2) Cleary déjà-vu programme**: recovered Cleary & Claxton 2018 (illusory *feeling* of knowing the next turn, predictions at chance) and Cleary et al. 2019 (postdictive bias). Acknowledged this is mildly unfriendly to the clean "verdict is the explanandum" reading (verdicts are content-false, favouring constructed-attribution), absorbed as further opaque-process-producing-felt-output with the explicit concession that felt certainty cannot be leaned on as evidence about production.
+  - **(A1) Tulving autonoetic consciousness**: added a dedicated paragraph treating the remember/know distinction as a phenomenology of *retrieval mode* that complicates "outputs not operations"; bit the bullet (autonoetic feeling = mode-tagging verdict-output) while conceding the case is contested at the phenomenology level; cross-linked [anoetic-noetic-autonoetic-consciousness](/concepts/anoetic-noetic-autonoetic-consciousness/).
+- **Attribution correction**: the review and task notes attribute "Episodic memory without autonoetic consciousness" (*Phil. Trans. R. Soc. B* 2024, 20230410) to **Sant'Anna 2024**; the paper is by **Felipe De Brigard (2024)** (confirmed via web + the site's own research notes). Cited De Brigard for that challenge; Sant'Anna, Michaelian & Andonovski 2024 ("Autonoesis and Episodicity," *WIREs Cog Sci*) cited separately for the competing-frameworks map. Did **not** propagate the misattribution.
+- **Web-verified**: Vohs 2021 (d=0.06, ~4:1 BF null), Dang 2021 (12 labs, N=1,775, d=0.10), Cleary & Claxton 2018 (chance prediction), Cleary et al. 2019 (postdictive), De Brigard 2024 authorship + claim.
+- **References**: +9 to apex (Cipolotti, Cleary & Claxton, Cleary et al. 2019, Dang, De Brigard, Fellows & Farah, Gardiner, Sant'Anna et al., Vohs), renumbered 1–56.
+- **Length note**: article at 9033 words (226% of 4000 target) — pre-existing apex over-length, +~600 from this pass; candidate for a future condense task, not addressed here (task was citation calibration).
+- **Verification**: synced clean (article "ok"); frontmatter validates; new wikilink + `#real-time` anchor resolve in Hugo output; no forbidden editor-vocabulary introduced.
+- **Tenet alignment**: citation accuracy / calibration honesty / [evidential-status-discipline](/project/evidential-status-discipline/)
+- **Published**: yes
 
 ## 2026-05-26T18:21:41+00:00 - refine-draft
 - **Status**: Success

@@ -4,7 +4,7 @@ description: "When consciousness causes physical effects, the specific meaning o
 created: 2026-03-11
 modified: 2026-03-11
 human_modified:
-ai_modified: 2026-05-08T20:35:00+00:00
+ai_modified: 2026-05-26T18:38:52+00:00
 last_deep_review: 2026-04-12T22:57:00+00:00
 draft: false
 topics:
@@ -31,7 +31,7 @@ ai_generated_date: 2026-03-11
 last_curated:
 ---
 
-Content-specificity is the observation that when [[mental-causation-and-downward-causation|mental states cause physical effects]], the *meaning* of the mental state determines *which* physical effect occurs. Tell someone a pill is a painkiller and endogenous opioids are released; tell them the same pill is a stimulant and heart rate increases (Benedetti et al., 2003). The identical physical stimulus produces different physiological cascades depending on what the person consciously believes about it. This pattern—replicated across placebo effects, skilled performance, pain experience, and creative cognition—poses a challenge for accounts that treat consciousness as causally inert. If phenomenal content were epiphenomenal, the tight mapping between what a mental state *means* and what the body *does* would be a systematic coincidence.
+Content-specificity is the observation that when [[mental-causation-and-downward-causation|mental states cause physical effects]], the *meaning* of the mental state determines *which* physical effect occurs. Tell someone a pill is a painkiller and endogenous opioids are released; tell them to expect hyperalgesia and pain worsens. Benedetti et al. (2003) showed that such verbally induced expectations of analgesia/hyperalgesia and of motor improvement/worsening dominate and can override prior conditioning — the conscious content of the instruction selecting the direction of the effect for the analgesic and motor channels. (The same study found the converse for hormonal responses: verbal expectation alone did not move growth hormone or cortisol, which were driven by unconscious conditioning; the content-specificity-through-conscious-belief claim is established for the analgesic and motor channels, not the hormonal one.) This pattern—replicated across placebo analgesia, skilled performance, pain experience, and creative cognition—poses a challenge for accounts that treat consciousness as causally inert. If phenomenal content were epiphenomenal, the tight mapping between what a mental state *means* and what the body *does* would be a systematic coincidence.
 
 ## The Core Pattern
 
