@@ -1,9 +1,19 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-26T22:20:13+00:00
+ai_modified: 2026-05-26T22:30:17+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-05-26T22:30:17+00:00 - deep-review
+- **Status**: Success (1 critical factual fix + 1 medium gap closed; 4th review)
+- **File**: [[topics/concession-convergence-philosophy-of-mathematics]]
+- **Word count**: 2187 → 2460 (+273; well below 3000 soft threshold)
+- **Critical issues addressed**: 1 (factual error: Brouwer's fixed-point theorem)
+- **Medium issues addressed**: 1 (common-cause-null left unengaged)
+- **Enhancements made**: 2 (Brouwer correction; common-cause-null engagement paragraph + link)
+- **Output**: [[reviews/deep-review-2026-05-26-concession-convergence-philosophy-of-mathematics]]
+- **Notes**: Topic article (distinct from the same-day `concession-convergence` concept review). Critical factual fix: the intuitionism section claimed "Brouwer's fixed-point theorem... depend[s] on properties of choice sequences" — this inverts the history. Brouwer's fixed-point theorem (1911) is a classical, *non-constructive* result that Brouwer himself disowned as intuitionistically invalid; the genuine choice-sequence-dependent results are the fan theorem and bar theorem. Corrected, and added the disowned-theorem note (which strengthens the involuntariness point). Medium gap: the article's independence claim faced the common-cause null (mathematical form of the Tegmark objection) only obliquely; companion infra (`common-cause-null`, `apophatic-cartography-four-criteria`, `evidential-status-discipline`) now exists and the sibling concept page engages it heavily, so added a focused paragraph using the four-criteria discriminator + burden-shift, holding the claim at the level evidence supports and marking the residual physicalist disagreement at the framework boundary. Linked `[[common-cause-null]]` (frontmatter + Further Reading + body). Engagement with physicalist/Tegmark: Mode Three — boundary-marking, no boundary-substitution, no label leakage. Calibration check: new paragraph declines to upgrade "tracks mathematics vs cognition" — no slippage. Verified all 21 body wikilinks resolve (the 2026-04-15 link to `consciousness-and-the-philosophy-of-mathematics` was superseded by a coalesce; retarget to `consciousness-and-the-authority-of-formal-systems` is correct). Attribution check passed on all historical claims (Gödel, Hilbert, Russell, neo-logicists, Brouwer, structuralists). Bedrock disagreements (Putnam/Dennett consistency, Tegmark) NOT re-flagged.
 
 ## 2026-05-26T22:20:13+00:00 - deep-review
 - **Status**: Success (1 critical link-rot fix; 8th review, otherwise converged)
