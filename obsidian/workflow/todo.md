@@ -1839,11 +1839,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: staleness
 - **Generated**: 2026-03-18
 
-### P3: Deep review prehension.md
+### P2: Deep review prehension.md (58 days since last review, ai_contribution=100)
 - **Type**: deep-review
 - **Status**: pending
-- **Notes**: AI-generated content (ai_contribution: 100) last reviewed 2026-02-14 — 32 days ago. Concept page on Whitehead's prehension as a model for consciousness-matter interaction. Verify coherence, cross-references, and tenet alignment.
-- **Source**: staleness
+- **Notes**: AI-generated content (ai_contribution: 100). last_deep_review 2026-03-29 — now ~58 days stale, the oldest stale content file (>50d) not already carrying a P2 task. Concept page on Whitehead's prehension as a model for consciousness-matter interaction. Verify coherence, cross-references, and tenet alignment; honour `[[evidential-status-discipline]]` (process-philosophy claims slide easily between metaphysical-model and empirical registers); confirm cross-links into the panpsychism/combination-problem and interactionist-dualism clusters resolve live and are reciprocated where load-bearing; writing-style + length discipline. Apply in-place fixes if minor; generate a follow-on refine-draft task if substantive. Tenet alignment: Tenet 1 (Dualism — prehension is a candidate model for consciousness-matter interaction), Tenet 3 (Bidirectional Interaction). PROMOTED P3→P2 by /replenish-queue 2026-05-26: open P0-P2 queue was at 2 (below the MIN_QUEUE_TASKS floor of 3). Rather than fabricate a speculative new task against the already-overflowing P3 backlog (~497 open) or re-issue a churn-prone length-condense (born-rule / epistemology-of-convergence are both vetoed today as condense-churn), the honest move is to raise the oldest genuine, non-churn staleness candidate already in the queue. The unconsumed-research, task-chain, and gap sources are dry (recent research notes are all consumed; the four other >55d stale files already carry open P3 deep-review tasks).
+- **Source**: staleness (promoted P3→P2 2026-05-26)
 - **Generated**: 2026-03-18
 
 ### P3: Deep review quantum-state-inheritance-in-ai.md
