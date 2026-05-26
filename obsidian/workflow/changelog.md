@@ -1,9 +1,19 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-26T19:43:10+00:00
+ai_modified: 2026-05-26T19:52:37+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-05-26T19:52:37+00:00 - deep-review
+- **Status**: Success
+- **File**: [[topics/consciousness-as-perceptual-architect]]
+- **Word count**: 2586 → 2633 (+47; length-neutral, 88% of soft threshold)
+- **Critical issues addressed**: 1 (possibility/probability slippage in Bidirectional Interaction tenet paragraph — "stronger evidence"/"represents downward causation" recalibrated to flag the downward-causation reading as the Map's interpretation, not empirically forced. First review under the slippage discipline; four prior reviews predate it.)
+- **Medium issues addressed**: 0
+- **Enhancements made**: 1 (the calibration fix above)
+- **Engagement modes**: enactivists (O'Regan & Noë): Mode Two→Three, honest in prose; physicalists (thermostat/inverted qualia): Mode Two; parsimony advocate (Occam tenet): Mode Two. No label leakage. All 29 wikilinks resolve.
+- **Output**: [[reviews/deep-review-2026-05-26-consciousness-as-perceptual-architect]]
 
 ## 2026-05-26T19:43:10+00:00 - deep-review
 - **Status**: Success

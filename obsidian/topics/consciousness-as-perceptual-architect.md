@@ -4,7 +4,7 @@ description: "Consciousness actively shapes perception in two ways: stabilising 
 created: 2026-02-15
 modified: 2026-03-11
 human_modified:
-ai_modified: 2026-04-11T15:56:00+00:00
+ai_modified: 2026-05-26T19:52:37+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -42,7 +42,7 @@ author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-03-11
 last_curated:
-last_deep_review: 2026-04-11T15:56:00+00:00
+last_deep_review: 2026-05-26T19:52:37+00:00
 coalesced_from:
   - "/topics/phenomenology-of-perceptual-constancy/"
   - "/topics/phenomenology-of-perceptual-learning/"
@@ -136,7 +136,7 @@ And both face the same explanatory gap. Predictive processing frameworks describ
 
 **[[tenets#^dualism|Dualism]]**: Both constancy and learning reveal that conscious experience has structure that cannot be read off physical stimulation. In constancy, the stability of experienced qualities across variable inputs suggests phenomenal properties do not reduce to sensory states. In learning, two perceivers with identical retinal images have different visual experiences because one has undergone training. The physical signal underdetermines the conscious percept. The explanatory gap between neural processing and the felt quality of perception — whether maintaining stability or creating new perceptual objects — is precisely the gap dualism predicts.
 
-**[[tenets#^bidirectional-interaction|Bidirectional Interaction]]**: Constancy involves attentional selection — choosing the stable distal interpretation — suggesting consciousness contributes to shaping what is perceived. Learning provides even stronger evidence: consciousness directs attention in ways that restructure what future perception delivers. The perceptual ratchet represents downward causation operating across developmental timescales — consciousness constructs its own future perceptual conditions through sustained engagement.
+**[[tenets#^bidirectional-interaction|Bidirectional Interaction]]**: Constancy involves attentional selection — choosing the stable distal interpretation — consistent with consciousness contributing to what is perceived. Learning makes the pattern more vivid rather than the evidence stronger: the same attention-gated plasticity is fully describable in brain-side terms, so the appeal to downward causation is the Map's interpretation of the phenomenon, not a measurement that compels it. On that reading, the perceptual ratchet is downward causation operating across developmental timescales — consciousness constructing its own future perceptual conditions through sustained engagement. The mechanism's vividness is what learning supplies; whether it is *consciousness* doing the restructuring remains tenet-dependent rather than empirically forced.
 
 **[[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]]**: If the selection among competing perceptual interpretations involves quantum-level biasing, constancy may represent one of its most basic operations. Speculatively, perceptual learning may represent the cumulative effect of sustained selection pressure — each attentive engagement during training involving consciousness selecting among neural options, until new perceptual objects become structurally embedded and the interface has been tuned to deliver what consciousness selects for.
 
