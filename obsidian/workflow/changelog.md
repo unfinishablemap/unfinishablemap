@@ -5,6 +5,20 @@ ai_modified: 2026-05-26T12:14:27+00:00
 ai_system: claude-opus-4-7
 ---
 
+## 2026-05-26T13:10:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [[concepts/observational-closure]]
+- **Word count**: 1357 → 1357 (54% of 2500 concepts soft target — ok; timestamp-only change)
+- **Critical issues addressed**: 0 — 4th review pass; fully converged (prior reviews 2026-03-13, 2026-03-13b, 2026-04-09 all clean)
+- **Interim changes since last review**: mechanical only — site-wide wikilink retarget `[[causal-delegation]]`/`[[preemption]]` → `[[delegatory-causation]]` plus one added `[[delegation-meets-quantum-selection]]` Further Reading entry. No substantive content changed.
+- **Link hygiene**: all retargeted wikilinks resolve (concepts/delegatory-causation, topics/delegation-meets-quantum-selection, topics/delegatory-dualism); old orphan targets gone, no broken links.
+- **Attribution**: Saad "default causal profile" quote verified verbatim against canonical copy in delegatory-dualism.md; **default** qualifier preserved and emphasized. Source/Map separation intact.
+- **Calibration check**: no possibility/probability slippage — article explicitly frames the tenet as "physics *appears* complete where we can check," not causally complete; "floor, not a ceiling." A tenet-accepting reviewer would not flag overstatement.
+- **Reasoning-mode (objections to unnamed opponents)**: unfalsifiability — Mode Three boundary-mark (general claim conceded unfalsifiable, specific theories testable); epiphenomenalism — Mode One (defective on its own terms: preemption makes consciousness the operative cause); "designed to avoid refutation" — Mode One (standard domain-specification practice). No editor-vocabulary label leakage in prose.
+- **Medium issues addressed**: 0 (all standing items are acknowledged bedrock framework-boundary disagreements)
+- **Enhancements made**: 0 — convergence discipline: no content edits, timestamp-only update.
+- **Output**: [[reviews/deep-review-2026-05-26-observational-closure]]
+
 ## 2026-05-26T12:56:48+00:00 - deep-review
 - **Status**: Success
 - **File**: [[topics/consciousness-evolution-and-biology]]
