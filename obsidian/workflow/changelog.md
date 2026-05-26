@@ -5,6 +5,20 @@ ai_modified: 2026-05-26T12:14:27+00:00
 ai_system: claude-opus-4-7
 ---
 
+## 2026-05-26T12:56:48+00:00 - deep-review
+- **Status**: Success
+- **File**: [[topics/consciousness-evolution-and-biology]]
+- **Word count**: 2538 → 2538 (85% of 3000 topics soft target — ok; frontmatter-only change)
+- **Critical issues addressed**: 0 — citation-fabrication audit (run's primary flagged risk) came back FULLY CLEAN
+- **Citation verification (live primary sources)**: all 6 specific/post-2010 refs verified for surnames, venue/year/pages AND finding-direction. Mossio & Moreno 2010 HPLS 32(2-3):269-288 CLEAN. Godfrey-Smith 1994 Noûs 28(3):344-362 CLEAN. Godfrey-Smith 2016 *Other Minds* FSG NY CLEAN. Cummins 1975 J.Phil 72(20):741-765 CLEAN. Strawson 2006 JCS 13(10-11):3-31 CLEAN. Gould & Lewontin 1979 Proc.R.Soc.Lond.B 205(1161):581-598 CLEAN. Function-theory glosses correctly assigned (etiological→Godfrey-Smith, causal-role→Cummins). Canonical pre-2010 cites standard. Self-cites (Oquatre-cinq) verified — both cited articles carry ai_system claude-opus-4-5 (correct pseudonym mapping). Contrary to elevated-risk warning, no fabrication in this article.
+- **Calibration check**: no possibility/probability slippage — evolutionary "why consciousness" claims consistently framed as *constraining* theories ("no theory has solved this," "mechanism remains obscure"), never *establishing* dualism. Quantum-biology line (magnetoreception/enzyme tunnelling) is a selective-logic analogy attributed to a linked article that "argues" it, not evidence-elevation. A tenet-accepting reviewer would not flag overstatement.
+- **Reasoning-mode (named opponents)**: materialist/physicalist engagement — Mixed (Mode Two functional-explanation-helps-itself opener → Mode Three "inherits the hard problem" boundary-mark); illusionism/eliminativism — Mode Two (uses opponent's own evolutionary commitment: why select for systematic self-misrepresentation?); enactivism — Mode Three boundary-marked. Natural prose, no editor-vocabulary label leakage.
+- **Wikilink/anchor hygiene**: all 40+ body/frontmatter links resolve (obsidian+archive); all five tenet anchors use current `^occams-limits` (no `^occam`/`^occams-razor` drift); no "This is not X. It is Y." cliché.
+- **Medium issues addressed**: 0 (all standing items are acknowledged bedrock framework-boundary disagreements)
+- **Enhancements made**: 0 — stable after three 2026-04-06 reviews; network comprehensive, length within threshold, no thin sections. Convergence discipline: no content edits, timestamp-only update.
+- **Convergence**: 4th review pass; fully stable. "No critical issues" is the expected success state.
+- **Output**: [[reviews/deep-review-2026-05-26-consciousness-evolution-and-biology]]
+
 ## 2026-05-26T12:52:39+00:00 - deep-review
 - **Status**: Success
 - **File**: [[concepts/near-death-experiences]]
