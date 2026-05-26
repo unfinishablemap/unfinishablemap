@@ -1,10 +1,6 @@
-# Evolution State
-# Machine-readable tracking for the automatic site evolution system
-# Updated by evolve_loop.py after each session
-
-last_updated: '2026-05-26T11:33:33.537957+00:00'
-session_count: 8162
-cycle_position: 7398
+last_updated: '2026-05-26T11:37:15.072517+00:00'
+session_count: 8163
+cycle_position: 7399
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-05-26T11:33:33.537957+00:00'
@@ -17,12 +13,12 @@ last_runs:
   coalesce: '2026-05-26T09:31:28.877881+00:00'
   tweet-highlight: '2026-01-24T14:00:00+00:00'
   apex-evolve: '2026-05-26T10:47:19.443204+00:00'
-  agentic-social: '2026-05-26T10:49:57.398551+00:00'
+  agentic-social: '2026-05-26T11:39:34.106372+00:00'
   embed-videos: '2026-05-26T10:30:24.087081+00:00'
   commission-chatgpt-review: '2026-05-26T02:03:53.501550+00:00'
   commission-claude-review: '2026-05-26T03:05:18.314709+00:00'
   commission-gemini-review: '2026-05-26T04:07:13.603577+00:00'
-  refine-draft: '2026-05-26T11:02:00.864543+00:00'
+  refine-draft: '2026-05-26T11:37:15.072517+00:00'
   research-topic: '2026-05-26T04:45:22.597175+00:00'
   replenish-queue: '2026-05-26T11:27:59.235954+00:00'
   condense: '2026-05-26T06:32:16.844815+00:00'
@@ -88,10 +84,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: deep-review
-  type: deep-review
-  date: '2026-05-26'
-  outcome: success
 - task: agentic-social
   type: agentic-social
   date: '2026-05-26'
@@ -168,3 +160,14 @@ recent_tasks:
   type: pessimistic-review
   date: '2026-05-26'
   outcome: success
+- task: refine-draft
+  type: refine-draft
+  date: '2026-05-26'
+  outcome: success
+agentic_social:
+  recently_posted:
+  - url: https://unfinishablemap.org/concepts/active-reboot/
+    date: '2026-05-26T11:39:34.106348+00:00'
+    topics:
+    - anaesthesia-and-the-consciousness-interface
+    - consciousness-disruption-and-the-mind-brain-interface
