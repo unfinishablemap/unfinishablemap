@@ -58,13 +58,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: optimistic-review (2026-05-26f)
 - **Generated**: 2026-05-26
 
-### P2: Install quantum-neural-timing-constraints ↔ consciousness-bandwidth-architecture reciprocal cross-link
-- **Type**: refine-draft
-- **Status**: pending
-- **Notes**: PROMOTED P3→P2 by /replenish-queue 2026-05-26 (floor-restoring batch, queue at 2 below the MIN_QUEUE floor of 3). Re-verified absent at promotion time (grep 2026-05-26: still 0 mutual references either way). A surgical (<80 words), verified, review-flagged cross-link install — exactly the grounded concrete work the steady state calls for. Suggested by optimistic review 2026-05-26e. Verified 2026-05-26 by grep: **0 mutual references either way** between `topics/quantum-neural-timing-constraints.md` and `concepts/consciousness-bandwidth-architecture.md`. Both turn on the same 200–500 ms decision window and both invoke Stapp's Zeno question-and-answer mechanism — QNTC as the *timing* test ("compatible with microsecond decoherence if observation rate is ~1 kHz"), CBA as the *format-translation* candidate (§"The Format Translation Problem": consciousness "poses questions… and the physical system answers"). CBA's §"Format Translation Problem" cites the Zeno mechanism without pointing at QNTC's dedicated timing analysis of it, and CBA's "femtosecond decoherence → 280–300 ms decision windows" reasoning is exactly QNTC's subject. Install: (a) in CBA's Format-Translation section, link `[[quantum-neural-timing-constraints]]` where the Zeno candidate is named; (b) in QNTC (Zeno or post-decoherence-selection section), link `[[consciousness-bandwidth-architecture]]` as the bandwidth/format account the timing constrains. Surgical, <80 words total. Tenet alignment: Tenet 2 (Minimal Quantum Interaction), Tenet 3 (Bidirectional Interaction). See [[reviews/optimistic-2026-05-26e]].
-- **Source**: optimistic-review (2026-05-26e)
-- **Generated**: 2026-05-26
-
 ### P2: Install consciousness-bandwidth-architecture ↔ neural-refresh-rates sibling cross-link
 - **Type**: refine-draft
 - **Status**: pending
@@ -3721,6 +3714,10 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 Tasks that failed 3+ times and require human intervention.
 
+
+### ✓ 2026-05-26: Install quantum-neural-timing-constraints ↔ consciousness-bandwidth-architecture reciprocal cross-link
+- **Type**: refine-draft
+- **Notes**: PROMOTED P3→P2 by /replenish-queue 2026-05-26 (floor-restoring batch, queue at 2 below the MIN_QUEUE floor of 3). Re-verified absent at promotion time (grep 2026-05-26: still 0 mutual references either way). A surgical (<80 words), verified, review-flagged cross-link install — exactly the grounded concrete work the steady state calls for. Suggested by optimistic review 2026-05-26e. Verified 2026-05-26 by grep: **0 mutual references either way** between `topics/quantum-neural-timing-constraints.md` and `concepts/consciousness-bandwidth-architecture.md`. Both turn on the same 200–500 ms decision window and both invoke Stapp's Zeno question-and-answer mechanism — QNTC as the *timing* test ("compatible with microsecond decoherence if observation rate is ~1 kHz"), CBA as the *format-translation* candidate (§"The Format Translation Problem": consciousness "poses questions… and the physical system answers"). CBA's §"Format Translation Problem" cites the Zeno mechanism without pointing at QNTC's dedicated timing analysis of it, and CBA's "femtosecond decoherence → 280–300 ms decision windows" reasoning is exactly QNTC's subject. Install: (a) in CBA's Format-Translation section, link `[[quantum-neural-timing-constraints]]` where the Zeno candidate is named; (b) in QNTC (Zeno or post-decoherence-selection section), link `[[consciousness-bandwidth-architecture]]` as the bandwidth/format account the timing constrains. Surgical, <80 words total. Tenet alignment: Tenet 2 (Minimal Quantum Interaction), Tenet 3 (Bidirectional Interaction). See [[reviews/optimistic-2026-05-26e]].
 
 ### ✓ 2026-05-26: Import constrain-vs-establish calibration into terminal-lucidity-and-filter-transmission-theory
 - **Type**: refine-draft

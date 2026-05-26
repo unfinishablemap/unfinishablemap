@@ -4,7 +4,7 @@ description: "The mind-brain interface delivers ~10⁹ bits/second of experience
 created: 2026-02-23
 modified: 2026-05-26
 human_modified: null
-ai_modified: 2026-05-26T14:23:19+00:00
+ai_modified: 2026-05-26T15:10:00+00:00
 draft: false
 last_deep_review: 2026-05-26T14:23:19+00:00
 topics:
@@ -116,7 +116,7 @@ Even granting hierarchical selection, a residual problem remains: how does inten
 
 This is the format dimension of the bandwidth problem, and it connects to the broader [[psychophysical-laws|psychophysical coupling problem]]. The Map requires selection laws—laws specifying how phenomenal states map to physical selections. Whatever coupling law governs the interface, it must translate between intentional and physical vocabularies without requiring the intentional side to encode physical details.
 
-One proposed mechanism—Stapp's quantum Zeno framework—suggests consciousness poses questions ("is this neural pattern present?") and the physical system answers. If viable, the intentional content would determine *which question* to ask while physics determines the answer. This separation of labour would mean consciousness need not encode physical specifications—it would encode attentional targets, and the brain's architecture would translate these into the relevant physical observables. Whether this specific mechanism works remains contested.
+One proposed mechanism—Stapp's quantum Zeno framework—suggests consciousness poses questions ("is this neural pattern present?") and the physical system answers. If viable, the intentional content would determine *which question* to ask while physics determines the answer. This separation of labour would mean consciousness need not encode physical specifications—it would encode attentional targets, and the brain's architecture would translate these into the relevant physical observables. Whether this specific mechanism works remains contested; the dedicated [[quantum-neural-timing-constraints|timing analysis of the Zeno candidate]] examines whether its observation cycles fit the 200–500 ms decision window the format translation must occur within.
 
 Mandik (2010) provides empirical corroboration of this architectural separation. Control phenomenology—the experience of being in control—is informationally sparse compared to sensory phenomenology. Introspecting motor control introduces a "doubling of tasks" that interferes with controlling, because the narrow outbound channel cannot simultaneously carry action-selections and self-monitoring data. This sparseness is intelligible if the outbound channel carries intentional targets rather than physical specifications: the format of conscious control matches the format of selection, not computation.
 

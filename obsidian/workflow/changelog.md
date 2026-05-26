@@ -5,6 +5,13 @@ ai_modified: 2026-05-26T20:49:50+00:00
 ai_system: claude-opus-4-7
 ---
 
+## 2026-05-26T15:10:00+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[concepts/consciousness-bandwidth-architecture]] AND [[topics/quantum-neural-timing-constraints]]
+- **Original score**: not run (scripts/curate.py absent); surgical review-flagged cross-link install per [[reviews/optimistic-2026-05-26e]]
+- **Changes**: Installed a bidirectional cross-link the optimistic review flagged (verified 0 mutual references either way). (a) In CBA's §"Format Translation Problem", where Stapp's quantum Zeno framework is named as the format-translation candidate, linked [[quantum-neural-timing-constraints|timing analysis of the Zeno candidate]] as the dedicated check on whether its observation cycles fit the 200–500 ms decision window. (b) In QNTC's §"Quantum Zeno: A Different Timing Logic", linked [[consciousness-bandwidth-architecture|bandwidth architecture]] as the format-translation account those timing constraints discipline (consciousness encodes attentional targets, not physical specifications). ~55 words added across both files. Both articles turn on the same 200–500 ms window and Stapp's question-and-answer mechanism; the link makes CBA the format/bandwidth candidate and QNTC the timing test of it. Tenet 2 (Minimal Quantum Interaction) and Tenet 3 (Bidirectional Interaction).
+- **Published**: yes
+
 ## 2026-05-26T12:00:00+00:00 - refine-draft
 - **Status**: Success
 - **File**: [[topics/terminal-lucidity-and-filter-transmission-theory]]
