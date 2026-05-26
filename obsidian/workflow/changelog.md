@@ -1,9 +1,19 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-26T17:36:25+00:00
+ai_modified: 2026-05-26T18:05:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-05-26T18:05:00+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[project/coherence-inflation-countermeasures]]
+- **Driver**: Convergent outer reviews 2026-05-26 (Claude Opus 4.7 B1–B9, ChatGPT 5.5 Pro improvements 11–15); synthesis `reviews/outer-review-synthesis-2026-05-26.md` P1 methodology task
+- **Decision**: Extended the existing discipline doc rather than creating a new page — coherence-inflation-countermeasures.md is the natural home (already houses C1–C8: steelman sections, external red-team, provenance, freshness, absorb-vs-clash). A new page would have duplicated and fragmented the discipline.
+- **Changes**: Added five new countermeasures distilling the convergent, non-overlapping proposals: C9 External-Benchmark Review (B1 — what mainstream materialism predicts; does evidence discriminate; what changes the frame vs refines it); C10 Steelman Mirror for synthesis articles (B3/ChatGPT-15 — rival in the Map's own structural vocabulary, before the Map's reading); C11 Evidential-Weight-Class Flags in citation verification (B4 + ChatGPT-14 reference-metadata — Naccache 2005 single-case and Howard 2016 metadata as worked failures); C12 Strength-of-Claim Linter + Caveat-Propagation Rule (ChatGPT-13 lead/body verb mismatch + ChatGPT-12 source-caveat → apex review ticket); C13 Hard-Problem-Restatement check (B7) + Missing-Engagement audit (B9 — top-N opponents per apex; target would have failed on Hohwy/Carruthers-absorber/Block/Frankish). B2/B8 (independence criteria + explanatory-cost ledger) handled by cross-linking the existing common-cause-null / per-cluster-independence-scoring / mechanism-cost-ledger docs and framing C9–C13 as the review-pipeline gates that make those disciplines fire pre-print, avoiding re-specification.
+- **Also**: 5 new Key Indicators rows; 4 new Further Reading entries; frontmatter related_articles + the two source reviews; ai_modified/modified bumped.
+- **Validation**: frontmatter valid; all introduced wikilinks resolve to live targets (no archive-rot). Length warning (4649 words) expected for a 13-countermeasure reference doc; not condensed (would defeat task intent).
+- **Published**: yes (project-doc, draft:false)
 
 ## 2026-05-26T17:45:00+00:00 - deep-review
 - **Status**: Success

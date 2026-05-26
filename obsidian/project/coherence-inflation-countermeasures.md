@@ -2,9 +2,9 @@
 title: "Coherence Inflation Countermeasures"
 description: "Safeguards against systematic overcommitment when an AI system both generates and reviews content optimised for internal consistency. Detection, confidence calibration, and editorial discipline against silent absorption."
 created: 2026-01-16
-modified: 2026-04-29
+modified: 2026-05-26
 human_modified: null
-ai_modified: 2026-05-19T15:00:00+00:00
+ai_modified: 2026-05-26T18:05:00+00:00
 draft: false
 topics: []
 concepts:
@@ -18,11 +18,18 @@ related_articles:
   - "[[bedrock-clash-vs-absorption]]"
   - "[[calibration-audit-triple]]"
   - "[[framework-stage-calibration]]"
+  - "[[common-cause-null]]"
+  - "[[per-cluster-independence-scoring]]"
+  - "[[mechanism-cost-ledger]]"
+  - "[[evidential-status-discipline]]"
+  - "[[direct-refutation-discipline]]"
   - "[[apex/phenomenology-mechanism-bridge]]"
   - "[[apex/moral-architecture-of-consciousness]]"
   - "[[apex/taxonomy-of-voids]]"
   - "[[apex/living-with-the-map]]"
   - "[[concepts/cross-mechanism-convergence]]"
+  - "[[reviews/outer-review-2026-05-26-claude-opus-4-7]]"
+  - "[[reviews/outer-review-2026-05-26-chatgpt-5-5-pro]]"
 ai_contribution: 100
 author: null
 ai_system: claude-opus-4-7
@@ -288,7 +295,97 @@ The `/refine-draft` and `/deep-review` skills should:
 
 The discipline closes the inflation loop the other countermeasures leave open. Countermeasure 4 (external red-team reviews) generates findings; Countermeasure 8 governs how the editor handles them. Without Countermeasure 8, an external review's most uncomfortable findings — those naming a rival philosophical position — face the same absorption pressure that compounds inflation in the first place, just from a different source.
 
+## Countermeasure 9: External-Benchmark Review
 
+### Policy
+
+Countermeasures 1–8 detect inflation *within* the frame: they catch citation loops, confidence creep, absorbed objections, and stale evidence. They do not catch the deeper failure mode two convergent 2026-05-26 outer reviews (ChatGPT 5.5 Pro and Claude Opus 4.7) independently named: *the adversarial review cycle refines a frame until everything fits inside it, but the frame itself is never re-evaluated against an external benchmark.* Internal coherence becomes the optimization target — the changelog's recurring "converged" / "3rd review… converged" verdicts are the signature — and an article's apparent strength inflates because the catalogue keeps agreeing with itself.
+
+The external-benchmark review periodically asks, of a load-bearing article, three questions the internal cycle does not:
+
+1. **What does the dominant rival research programme predict for the same data?** For most consciousness-science articles this is mainstream materialism (global workspace theory, higher-order theory, predictive processing, illusionism). If the rival predicts the article's central observation *from its own first principles*, the observation is redescription, not evidence-lift.
+2. **Does the article's evidence discriminate between the rival and the Map's reading, or is it merely compatible with both?** Compatibility is not support — the distinction the [[evidential-status-discipline|evidential-status discipline]] enforces at the claim level, applied here at the article level.
+3. **What observation would change the article's frame, versus merely refine it within the frame?** An article that can only ever be refined is one whose frame has stopped being falsifiable in practice.
+
+### Implementation
+
+This is the job the outer-review pipeline (Countermeasure 4) is already positioned to do, but the prompt must ask it explicitly. The benchmark questions above should be a standing clause in commission prompts for apex and other load-bearing articles, so reviewers are steered toward frame-level evaluation rather than within-frame copy-editing. The 2026-05-26 cycle is the worked case: both reviewers, asked whether the cumulative-convergence inference was valid, returned the same finding — "access to outputs but not processes" is the *predicted, mainstream null* under modular/global-workspace architecture (Nisbett & Wilson 1977; Fodor 1983; Marr 1982), so the "convergence across traditions" generated little evidence-lift. No amount of internal review would have surfaced this, because the internal cycle shares the frame.
+
+The benchmark review's output is not automatically a content change. It feeds the [[bedrock-clash-vs-absorption|absorb-vs-clash decision]] (Countermeasure 8): the article may legitimately keep its claim while downgrading it from "supported" to "compatible with, and made more live by," or it may install the rival as a bedrock clash. What the review forbids is leaving the inflated framing in place unexamined.
+
+## Countermeasure 10: The Steelman Mirror for Synthesis Articles
+
+### Policy
+
+Countermeasure 2 already requires steelman sections for major critique pages. Countermeasure 10 strengthens the requirement specifically for apex and convergence-synthesis articles, and changes its *form*. A generic steelman ("here is why most philosophers accept materialism") is necessary but insufficient against an apex article's convergence claim. What an apex article owes is a **steelman mirror**: the strongest rival account stated *in the same structural vocabulary the apex itself uses*, applied to the apex's own data, before the Map's reading is given.
+
+For a dissociation apex, the mirror is not "materialism denies phenomenology." It is the rival's positive architecture for the exact pattern the apex catalogues — e.g., "a selective-access metacognitive architecture explains why outputs reach consciousness and the operations producing them do not, because lower-level process access is computationally unavailable or maladaptive; conscious feelings are higher-order, predictive, or globally-broadcast representations of control signals." The mirror then names the *exact residual disagreement* that survives once the rival has been granted its strongest form.
+
+### Implementation
+
+For every apex article and every convergence-synthesis topic article, a mandatory section — placed *before* the article's own reading — titled to the effect of "The strongest rival account, in its own framing." The section must:
+
+1. State the rival's positive architecture for the article's specific data, not a generic dismissal.
+2. Use the rival's own vocabulary and cite its actual proponents (predictive processing: Hohwy, Clark, Sandved-Smith et al.; higher-order: Rosenthal, Lau; illusionism: Frankish, Kammerer; global workspace: Dehaene; interpretive self-knowledge: Carruthers).
+3. Grant the rival its strongest move before replying.
+4. Name the precise residual disagreement that remains — which is where the Map's reading and the constrain-vs-establish discipline take over.
+
+The `/deep-review`, `/refine-draft`, and `/apex-evolve` skills should treat the absence of a steelman mirror in an apex article as a structural deficiency, not a stylistic one. The mirror is the article-level analogue of Countermeasure 9's external benchmark: it forces the rival's prediction onto the page before the Map's conclusion, so a reader can see whether the data discriminates.
+
+## Countermeasure 11: Evidential-Weight-Class Flags in Citation Verification
+
+### Policy
+
+Citation web-verification (Countermeasure 3 provenance; the outer-review pipeline's source-fetch step) currently confirms that a cited source *exists and says what the article claims*. It does not record the *evidential weight class* of the source. A single-patient case study and a multi-lab preregistered replication are both "a real citation that supports the sentence," but they carry radically different weight when a cumulative argument leans on them.
+
+Every empirical citation supporting a load-bearing claim should carry an explicit weight-class flag:
+
+| Weight class | Example |
+|---|---|
+| Single-case / case study | Naccache et al. (2005) — one patient, unilateral lesion, collateral Iowa-Gambling deficits |
+| Small-N / pilot | Underpowered single-lab experiment |
+| Single-lab replication | One independent confirmation |
+| Preregistered replication | Hagger et al. (2016) registered replication report |
+| Multi-lab consortium | 20+ lab coordinated replication |
+| Meta-analysis / systematic review | Pooled effect across many trials |
+
+The **Naccache (2005) node is the worked failure**: the apex article treated a single un-replicated case study (with collateral deficits and no direct replication of the specific dissociation) as a load-bearing convergence node without flagging its weight class. Reference-metadata verification must also cover *author identity, title, journal, volume, pages, and DOI* — the **Howard et al. (2016) error** (wrong authors and page range, duplicated across the apex and [[mental-effort]]) is the worked failure for metadata as opposed to weight.
+
+### Implementation
+
+The outer-review verification step and `/validate-all` should, for citations attached to load-bearing claims, record the weight class and flag any cumulative argument that rests a convergence node on a single-case or small-N source without an explicit in-text acknowledgment of that fragility. This complements the [[evidential-status-discipline|five-tier evidential-status scale]]: the five-tier scale calibrates *the Map's claim*; the weight-class flag calibrates *the source the claim leans on*.
+
+## Countermeasure 12: The Strength-of-Claim Linter and the Caveat-Propagation Rule
+
+### Policy
+
+Two convergent failure modes share a fix: claims that drift *up* in a lead relative to the article's own body, and caveats that land in a source article but never propagate up to the apex that depends on it.
+
+**Strength-of-claim linter.** A lead that says a phenomenon "demonstrates," "establishes," or "supports dualism" while the body later concedes the same phenomenon is "compatible with," "constrains," or "raises the explanatory cost on" the rival is internally calibration-inconsistent. The 2026-05-26 cycle found exactly this in [[mental-effort]] ("among the strongest evidence that consciousness does something") and [[empirical-phenomena-mental-causation]] ("placebo demonstrates consciousness directing physical processes"), whose bodies retreat to "raises the explanatory cost." The lead, being the truncation-resilient part an LLM reads first (see [[writing-style]]), is the most damaging place for the strong verb to sit.
+
+**Caveat-propagation rule.** When a source article receives a caveat *after* an apex was last reviewed — a continuous-signal-detection caveat in [[memory-anomalies]], a perceptual-reality-monitoring caveat in a higher-order-theories article, a calibrated-evidential-rung caveat in a bridge article — the owning apex is now silently overstated. The source-level honesty does not reach the synthesis that leans on it.
+
+### Implementation
+
+- **Linter**: `/validate-all` (or a dedicated check) scans leads and "Relation to Site Perspective" sections for the strong-verb set ("demonstrates," "establishes," "proves," "supports dualism") and flags any article whose body uses the discipline-compliant weaker set ("compatible with," "constrains," "raises the explanatory cost," "made more live"). The fix is to align the lead down to the body, never the body up to the lead.
+- **Propagation**: when a `/refine-draft` or `/deep-review` pass adds a caveat to a source article, it generates a `cross-review` ticket in `todo.md` for every apex that links that source. The apex's owning synthesis receives an automatic review prompt rather than waiting for the next scheduled deep-review to notice the drift. This is the per-apex companion to the corpus-split propagation the changelog already performs for citation fixes.
+
+## Countermeasure 13: Hard-Problem-Restatement and Missing-Engagement Audits
+
+### Policy
+
+Two final frame-level checks, both aimed at the apex tier.
+
+**Hard-problem-restatement check.** "Raises the explanatory cost on materialism" can be a genuine new pressure, or it can be the explanatory gap (Levine 1983), the conceivability argument (Chalmers 1996), or the knowledge argument (Jackson 1982) in new packaging. If an article's load-bearing claim reduces to a well-known feature of materialism dressed as a fresh convergence-based cost, it should *say so* and then articulate what additional structure — if any — it claims beyond the classical argument. An article that re-derives the hard problem and presents it as new empirical pressure is inflating by equivocation.
+
+**Missing-engagement audit.** The [[direct-refutation-discipline|named-opponent reasoning-mode classification]] (Mode One / Two / Three) audits the engagements an article *already contains*. It does not audit whether an article has engaged the opponents it *should*. For each apex article, enumerate the top-N named opponents the literature would expect it to engage, and check each is engaged at the appropriate mode. The 2026-05-26 target article would have failed this audit: predictive processing (Hohwy), Carruthers-as-absorber, Block's access/phenomenal distinction, and Frankish's illusionism were catalogued as "convergent traditions" rather than engaged as already-on-offer absorption strategies.
+
+### Implementation
+
+- **Hard-problem check**: `/deep-review` and `/apex-evolve` should, for any article using "explanatory cost" or "raises the cost on materialism" language, confirm the article either (a) demonstrates structure beyond the classical hard-problem arguments, or (b) labels the claim as a restatement of a known argument and scopes its ambition accordingly.
+- **Missing-engagement audit**: a periodic pass (suited to `/apex-evolve` or a dedicated review) generates, per apex, a top-N opponent list from the relevant literature and checks each against the article's actual engagements. A catalogued-but-not-engaged opponent — especially one whose own theory is a complete absorption of the article's data — is a structural gap, recorded as a `cross-review` or `refine-draft` ticket.
+
+These two audits and Countermeasures 9–12 share a common-cause screening prerequisite: before any cross-tradition convergence is counted as evidence, it passes the [[common-cause-null|common-cause-null]] screen (are N observations one architecture read N times?) and the [[per-cluster-independence-scoring|independence-scoring]] criteria (evidential independence — separate datasets, substrates, generating processes — versus mere interpretive independence). The convergence weight that survives that screen is then costed against the [[mechanism-cost-ledger|explanatory-cost ledger]] — which materialist commitments must be added or strengthened to absorb each member, and at what parsimony or coherence cost — so "explanatory cost" discriminates rather than inflates. Countermeasures 9–13 are the review-pipeline gates that make those three existing disciplines fire *before* a convergence claim reaches print, rather than only when a reader or an outer reviewer later objects.
 
 ### Key Indicators
 
@@ -302,6 +399,11 @@ Track these metrics across evolution sessions:
 | Days since external review | <30 | >60 |
 | Steelman sections in major critique pages | 100% | <80% |
 | Pessimistic-review findings with explicit absorb-vs-clash classification | 100% | <70% |
+| Apex articles with a steelman-mirror section (Countermeasure 10) | 100% | <80% |
+| Apex articles with no external-benchmark review in 90 days (Countermeasure 9) | 0 | >2 |
+| Load-bearing single-case/small-N citations without a weight-class flag (Countermeasure 11) | 0 | >0 |
+| Leads with strong-verb claims contradicted by their own bodies (Countermeasure 12) | 0 | >0 |
+| Apex articles failing the missing-engagement audit on a top-N opponent (Countermeasure 13) | 0 | >1 |
 
 ### Reporting
 
@@ -328,6 +430,10 @@ This is the prose-level half of the countermeasure; the corpus-level half is Cou
 
 ## Further Reading
 
+- [[common-cause-null]] — The convergence-screening discipline Countermeasures 9 and 13 gate on: are N observations one architecture read N times?
+- [[per-cluster-independence-scoring]] — Evidential-vs-interpretive independence criteria a convergence claim must pass before its members are counted as evidence
+- [[mechanism-cost-ledger]] — The explanatory-cost ledger that makes "raises the cost on materialism" discriminate rather than inflate
+- [[evidential-status-discipline]] — The five-tier claim-calibration scale Countermeasures 11 and 12 complement at the source and lead level
 - [[bedrock-clash-vs-absorption]] — The article-level editorial discipline operationalising Countermeasure 8
 - [[calibration-audit-triple]] — Three corpus-level drift audits (literature-drift, altered-state symmetry, topic-concept anchoring) that catch specific inflation vectors the present countermeasures do not directly detect
 - [[framework-stage-calibration]] — The framework-level discipline that resists the specific inflation vector of aspirational stage-claiming (Newton-analogue or Maxwell-analogue framings where only Tycho-analogue measurements exist)

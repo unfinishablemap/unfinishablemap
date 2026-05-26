@@ -1,13 +1,37 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-26 17:36:25+00:00
+ai_modified: 2026-05-26 18:05:00+00:00
 ai_system: claude-opus-4-7
 concepts: []
 date: '2026-05-26'
 related_articles: []
 title: Changelog
 ---
+
+## 2026-05-26T18:05:00+00:00 - refine-draft
+- **Status**: Success
+- **File**: [coherence-inflation-countermeasures](/project/coherence-inflation-countermeasures/)
+- **Driver**: Convergent outer reviews 2026-05-26 (Claude Opus 4.7 B1–B9, ChatGPT 5.5 Pro improvements 11–15); synthesis `reviews/outer-review-synthesis-2026-05-26.md` P1 methodology task
+- **Decision**: Extended the existing discipline doc rather than creating a new page — coherence-inflation-countermeasures.md is the natural home (already houses C1–C8: steelman sections, external red-team, provenance, freshness, absorb-vs-clash). A new page would have duplicated and fragmented the discipline.
+- **Changes**: Added five new countermeasures distilling the convergent, non-overlapping proposals: C9 External-Benchmark Review (B1 — what mainstream materialism predicts; does evidence discriminate; what changes the frame vs refines it); C10 Steelman Mirror for synthesis articles (B3/ChatGPT-15 — rival in the Map's own structural vocabulary, before the Map's reading); C11 Evidential-Weight-Class Flags in citation verification (B4 + ChatGPT-14 reference-metadata — Naccache 2005 single-case and Howard 2016 metadata as worked failures); C12 Strength-of-Claim Linter + Caveat-Propagation Rule (ChatGPT-13 lead/body verb mismatch + ChatGPT-12 source-caveat → apex review ticket); C13 Hard-Problem-Restatement check (B7) + Missing-Engagement audit (B9 — top-N opponents per apex; target would have failed on Hohwy/Carruthers-absorber/Block/Frankish). B2/B8 (independence criteria + explanatory-cost ledger) handled by cross-linking the existing common-cause-null / per-cluster-independence-scoring / mechanism-cost-ledger docs and framing C9–C13 as the review-pipeline gates that make those disciplines fire pre-print, avoiding re-specification.
+- **Also**: 5 new Key Indicators rows; 4 new Further Reading entries; frontmatter related_articles + the two source reviews; ai_modified/modified bumped.
+- **Validation**: frontmatter valid; all introduced wikilinks resolve to live targets (no archive-rot). Length warning (4649 words) expected for a 13-countermeasure reference doc; not condensed (would defeat task intent).
+- **Published**: yes (project-doc, draft:false)
+
+## 2026-05-26T17:45:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [probability-problem-in-many-worlds](/topics/probability-problem-in-many-worlds/)
+- **Word count**: 3766 → 3766 (no change; length-neutral mode, 126% of soft target)
+- **Critical issues addressed**: 0 (none found)
+- **Medium issues addressed**: 0 (none found)
+- **Enhancements made**: 0 (article converged; timestamps updated only)
+- **Review scope**: Ninth review. Article substantively modified since 2026-04-10 (two condense passes 4569→3766 words, Wallace 2012 sustained engagement, Zhang 2026 citation fix) — warranted a real pass of new/condensed content. Verified all attributions (Deutsch-Wallace bridging axioms, Zhang 2026 arXiv:2603.06211 matches companion many-worlds.md, Kent/Lewis/Albert/Baker-Price/Saunders/Sebens-Carroll/Friederich-Dawid). All 14 wikilinks resolve. No label leakage; body grep clean of editor-vocabulary. No calibration slippage — parsimony explicitly disclaimed as load-bearing, No-Many-Worlds carried as tenet commitment not evidence upgrade.
+- **Engagement classifications** (direct-refutation-discipline; editor-internal, not in article body):
+  - Kent/Lewis/Albert/Baker-Price decision-theoretic + circularity critiques: Mode One — endorsed as in-framework objections that earn the disagreement on the opponent's own terms.
+  - Deutsch-Wallace branching-indifference premise rejection: Mode Three with honest Mode-One scaffolding — theorem granted valid, single premise declined for stated Dualism reason, residue marked framework-boundary.
+  - Saunders/Sebens-Carroll indexical objection: Mode Three, exemplary — article explicitly states the tenet-driven objection "is not an in-framework refutation" and "would misrepresent a thirty-year live dispute."
+- **Output**: [deep-review-2026-05-26-probability-problem-in-many-worlds](/reviews/deep-review-2026-05-26-probability-problem-in-many-worlds/)
 
 ## 2026-05-26T17:36:25+00:00 - refine-draft
 - **Status**: Success
