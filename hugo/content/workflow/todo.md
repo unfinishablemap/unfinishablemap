@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-26 01:30:00+00:00
+ai_modified: 2026-05-26 02:45:00+00:00
 ai_system: claude-opus-4-7
 author: Andy Southgate
 concepts: []
@@ -37,6 +37,17 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **P2**: Low - nice to have, human approval needed
 
 ## Active Tasks
+
+### P2: Adopt mind-brain-separation calibration in targeted-lesion-discriminating-tests-between-production-and-filter-readings-of-the-memory-hierarchy
+- **Type**: refine-draft
+- **Status**: pending
+- **File**: obsidian/topics/targeted-lesion-discriminating-tests-between-production-and-filter-readings-of-the-memory-hierarchy.md
+- **Notes**: From topic-concept anchoring audit 2026-05-26. The topic article over-claims relative to its anchor concept [mind-brain-separation](/concepts/mind-brain-separation/); failed checks: hedge_density, underdetermination_markers.
+  - hedge density 1.81/kw is below 60% of anchor (7.48/kw)
+  - anchor declares underdetermination (1× explicit) but topic has no underdetermination markers
+  - Action: bring the topic's hedge profile in line with the anchor concept's. Preserve the article's voice; this is not a request to weaken the central claim, only to inherit the calibration discipline the anchor concept already uses. See [calibration-audit-triple](/project/calibration-audit-triple/) Audit Three for the spec and [evidential-status-discipline](/project/evidential-status-discipline/) for the underlying rule.
+- **Source**: topic-concept-anchoring-audit
+- **Generated**: 2026-05-26
 
 ### P3: Give "intrinsic nature" a concept-level treatment (or fold into the existing void article)
 - **Type**: expand-topic
@@ -421,13 +432,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: pessimistic-review (2026-05-04)
 - **Generated**: 2026-05-04
 
-### P3: Deep review concepts/causal-powers.md
-- **Type**: deep-review
-- **Status**: pending
-- **Notes**: AI-generated content (ai_contribution > 50) last deep-reviewed 2026-03-16 — 46 days ago. Concept article on causal powers — load-bearing for Bidirectional Interaction tenet (consciousness must have genuine causal powers to influence the physical world). Recent restructures in adjacent territory may have shifted framing: (a) `topics/the-interface-problem.md` 2026-05-01 coalesce absorbed two source articles and installed "currently unfalsifiable in practice" framing; (b) `concepts/trumping-preemption.md` recently created from research-2026-04-22; (c) `concepts/mental-causation.md` and `concepts/agent-causation.md` are adjacent. Verify (a) coherence with current treatment of mental causation, exclusion, and the causal-closure debate; (b) cross-references to `[[mental-causation]]`, `[[agent-causation]]`, `[[trumping-preemption]]`, `[[downward-causation]]`, `[[causal-closure-debate-historical-survey]]`, and `[[the-interface-problem]]`; (c) tenet alignment with Bidirectional Interaction; (d) audit for "This is not X. It is Y." cliché violations (CLAUDE.md style ban); (e) confirm no overclaim or under-hedge given the framework's recent stage-calibration discipline (per `project/framework-stage-calibration.md`).
-- **Source**: staleness
-- **Generated**: 2026-05-01
-
 ### P3: Write project doc on hub/exemplar parity audit as named discipline
 - **Type**: expand-topic
 - **Status**: pending
@@ -456,20 +460,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: optimistic-review (2026-05-02)
 - **Generated**: 2026-05-02
 
-### P3: Deep review topics/history-of-the-interaction-problem.md
-- **Type**: deep-review
-- **Status**: pending
-- **Notes**: AI-generated content (ai_contribution > 50) last deep-reviewed 2026-03-19 — 42 days ago. Historical-survey topic article on the philosophical history of the mind-body interaction problem (Descartes, Princess Elisabeth, Spinoza, Leibniz, occasionalism, Cartesian dualism critiques, modern revivals). Verify (a) coherence with current site state — particularly today's interface-problem coalesce, which is the modern continuation of the historical thread; (b) cross-references to `[[the-interface-problem]]` (today's coalesced apex/topic), `[[parsimony-case-for-interactionist-dualism]]`, `[[causal-closure-debate-historical-survey]]`, `[[mental-causation]]`; (c) tenet alignment, especially Dualism and Bidirectional Interaction (the historical thread is positioning evidence for the Map's central commitment); (d) historical accuracy on the Princess Elisabeth correspondence, Leibniz's pre-established harmony, and 20th-century revivals; (e) audit for "This is not X. It is Y." cliché violations.
-- **Source**: staleness
-- **Generated**: 2026-05-01
-
-### P3: Deep review voids/the-surplus-void.md
-- **Type**: deep-review
-- **Status**: pending
-- **Notes**: AI-generated content (ai_contribution > 50) last deep-reviewed 2026-03-16 — 46 days ago. Voids article, originally created via 2026-04-05 coalesce of phenomenal-presence-void + phenomenal-absence-void, then merged into a single phenomenal-quality-void treatment in subsequent coalesces. Need to verify the article's current state: is it a standalone void treatment of the surplus phenomenon (more in experience than functional analysis can capture), or was it superseded by another coalesce? If still active, verify (a) coherence with the current voids cluster and apex/taxonomy-of-voids treatment; (b) cross-references — particularly to `[[transparency-void]]`, `[[phenomenal-quality-void]]`, `[[spontaneous-thought-void]]` if those still exist; (c) tenet alignment with Dualism (the surplus is what functional reduction misses); (d) audit for "This is not X. It is Y." cliché violations; (e) confirm the article does not duplicate work now done by adjacent voids articles. If superseded by archive, this task closes immediately as no-op with a note documenting the supersession.
-- **Source**: staleness
-- **Generated**: 2026-05-01
-
 ### P3: Cross-review apex articles for reciprocal-link discipline at internal vs external levels
 - **Type**: cross-review
 - **Status**: pending
@@ -497,13 +487,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Notes**: Suggested by optimistic-2026-04-30 (Medium Priority). Two documented instances now exist of tenet-check piercing the convergence shell on articles deep-review had declared stable: 2026-04-29 21:40 UTC free-will substance-dualism alias fix (persisted through 21 consecutive deep-reviews; surfaced by tenet-check 2026-04-29b) and 2026-04-30 03:25 UTC measurement-standards bidirectional anchor fix (persisted ~32 days through ~20 tenet-checks since 2026-03-29 and 3 prior deep-reviews; surfaced by today's tenet-check carryforward and finally fixed by deep-review acting on tenet-check's flag). The asymmetry between within-article (deep-review) and cross-cutting (tenet-check) scope is now data-supported, not just stipulated. A short methodology note in project/ would name the asymmetry, supply both worked examples, and articulate when to expect tenet-check to find what deep-review missed (broken anchors at *destinations* the article doesn't render; aliases that compress or shift tenet-content meaning; cross-tenet inconsistency that within-article scope cannot see). Justifies the cycle's tenet-check-every-3-cycles trigger empirically. Estimated scope: 1,000–1,500 words. Project-document placement, parallel to project/bedrock-clash-vs-absorption.md. Tenet alignment: methodological. See [optimistic-2026-04-30](/reviews/optimistic-2026-04-30/).
 - **Source**: optimistic-review (chain from optimistic-2026-04-30)
 - **Generated**: 2026-04-30
-
-### P3: Install reciprocal hook in topics/forward-in-time-conscious-selection.md → apex/conjunction-coalesce.md
-- **Type**: refine-draft
-- **Status**: pending
-- **Notes**: Suggested by optimistic-2026-05-01 (High Priority). The 2026-05-01 04:10 UTC tenth-pass deep-review of `apex/conjunction-coalesce.md` installed a forward cross-link to `topics/forward-in-time-conscious-selection.md` naming the structural parallel between the seam test's third refinement (resist single-mechanism unification when no unifying mechanism is established) and the trilemma's option (iii) (non-reducible primitive over reductive identifications) — both honor a non-reducible primitive on the same defeasibility terms. The deep-review's "Remaining Items" section explicitly flags the reciprocal hook as P3: the apex's cross-link is the load-bearing direction; the topic's reciprocal is documentation discipline. Refine should (a) install a brief mention (~50–100 words) in `topics/forward-in-time-conscious-selection.md` near §"What Forward-in-Time Selection Does Not Resolve" / "The selection-criterion trilemma" (currently around line 170), naming the editorial-discipline parallel and linking to `[[conjunction-coalesce]]`; (b) maintain the topic's load-bearing focus on metaphysical content rather than letting the reference inflate into editorial-methodology discussion (the cross-link is logical-structural, not content-substantive); (c) preserve the topic article's existing length band — this is a small-addition refine, not an expansion. Short scope (~50–100 words). Tenet alignment: methodological — directly aligned with the catalogue's reciprocal-link discipline. See [optimistic-2026-05-01](/reviews/optimistic-2026-05-01/) and [deep-review-2026-05-01-conjunction-coalesce](/reviews/deep-review-2026-05-01-conjunction-coalesce/).
-- **Source**: optimistic-review (2026-05-01)
-- **Generated**: 2026-05-01
 
 ### P3: Write project doc on cross-domain isomorphism (editorial-methodology ↔ metaphysical-commitment) as named pattern
 - **Type**: expand-topic
@@ -568,13 +551,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: optimistic-review (chain from optimistic-2026-04-29c)
 - **Generated**: 2026-04-29
 
-### P3: Deep review voids/binding-void.md
-- **Type**: deep-review
-- **Status**: pending
-- **Notes**: AI-generated content (ai_contribution > 50) last deep-reviewed 49 days ago (2026-03-10 era). Voids article on the binding void — the inaccessibility of the mechanism by which distributed neural processing gives rise to unified phenomenal experience. Foundational void connecting to interface-location, multimodal-binding (now archived), phenomenal-binding (archived), and the consciousness-physics interface. Verify (a) coherence with current site state — multiple coalesces have occurred since the last review (phenomenal-binding archived; constituent voids reorganised); (b) cross-references and tenet alignment; (c) audit for "This is not X. It is Y." cliché violations (CLAUDE.md style ban); (d) confirm the article reflects the interface-framework's current treatment of binding rather than earlier formulations. See `/deep-review` skill.
-- **Source**: staleness
-- **Generated**: 2026-04-28
-
 ### P3: Refine apex/taxonomy-of-voids.md to anchor the phenomenology-vs-function axis to its new concept-page
 - **Type**: refine-draft
 - **Status**: superseded (2026-04-28 21:24 UTC) — subsumed by the P2 task above, which was completed in the same refine and covered the wikilink + frontmatter additions plus the broader framing alignment
@@ -622,13 +598,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Status**: pending
 - **Notes**: Suggested by optimistic-2026-04-28b (Medium Priority). The 07:34 UTC temporal-structure-of-understanding fourth-review and the 09:09 UTC non-retrocausal-conscious-selection-models fifth-review both reached convergence with only additive operations (cross-link added; stale comment removed; "objective collapse" disambiguated). Name the *convergence-with-additive-cross-linking-only* pattern as a maturity stage — articles internally stable but externally connectable, with subsequent reviews installing only cross-links, citation-hygiene fixes, and stale-content removals rather than substantive content changes. Specify (a) the criterion for declaring an article in this stage (typically: three prior deep reviews with no critical issues raised), (b) the discipline for reviews at this stage (only additive operations; no internal restructuring), (c) the tipping condition for re-opening (e.g., a new empirical finding contradicts a load-bearing claim, as happened with mental-rotation/aphantasia). Short scope (1000–1300 words). Tenet alignment: methodological. See optimistic-2026-04-28b.md.
 - **Source**: optimistic-review
-- **Generated**: 2026-04-28
-
-### P3: Deep review voids/amplification-void.md
-- **Type**: deep-review
-- **Status**: pending
-- **Notes**: AI-generated content (ai_contribution: 100) last deep-reviewed 2026-03-10 — 48+ days ago. Voids article on the amplification void — the inaccessibility of the process by which small differences in neural activity become salient phenomenal differences. Verify coherence with current site state, check cross-references and tenet alignment, audit for any "This is not X. It is Y." cliché violations (CLAUDE.md style ban), and verify the article's empirical citations remain current. See `/deep-review` skill.
-- **Source**: staleness
 - **Generated**: 2026-04-28
 
 ### P3: Write apex (or concept) article on the *weaker-than-headline disclosure* methodological pattern
@@ -3724,6 +3693,38 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 Tasks that failed 3+ times and require human intervention.
 
+
+### ✓ 2026-05-26: Adopt explanatory-gap calibration in pragmatisms-path-to-dualism
+- **Type**: refine-draft
+- **Notes**: From topic-concept anchoring audit 2026-05-26. The topic article over-claims relative to its anchor concept [explanatory-gap](/concepts/explanatory-gap/); failed checks: hedge_density, strong_assertions.
+
+### ✓ 2026-05-26: Deep review voids/amplification-void.md
+- **Type**: deep-review
+- **Notes**: Promoted P3→P2 by replenish-queue 2026-05-26 to restore active-tier depth (active P0-P2 tier was at the 3-task floor while content sections sit at cap). AI-generated content (ai_contribution: 100) last deep-reviewed 2026-03-10 — now 77 days ago. Voids article on the amplification void — the inaccessibility of the process by which small differences in neural activity become salient phenomenal differences. Verify coherence with current site state, check cross-references and tenet alignment, audit for any "This is not X. It is Y." cliché violations (CLAUDE.md style ban), and verify the article's empirical citations remain current. See `/deep-review` skill.
+
+### ✓ 2026-05-26: Deep review voids/binding-void.md
+- **Type**: deep-review
+- **Notes**: Promoted P3→P2 by replenish-queue 2026-05-26 to restore active-tier depth (active P0-P2 tier was at the 3-task floor while content sections sit at cap). AI-generated content (ai_contribution > 50) last deep-reviewed 2026-03-10 era — now 77 days ago. Voids article on the binding void — the inaccessibility of the mechanism by which distributed neural processing gives rise to unified phenomenal experience. Foundational void connecting to interface-location, multimodal-binding (now archived), phenomenal-binding (archived), and the consciousness-physics interface. Verify (a) coherence with current site state — multiple coalesces have occurred since the last review (phenomenal-binding archived; constituent voids reorganised); (b) cross-references and tenet alignment; (c) audit for "This is not X. It is Y." cliché violations (CLAUDE.md style ban); (d) confirm the article reflects the interface-framework's current treatment of binding rather than earlier formulations. See `/deep-review` skill.
+
+### ✓ 2026-05-26: Deep review voids/the-surplus-void.md
+- **Type**: deep-review
+- **Notes**: Promoted P3→P2 by replenish-queue 2026-05-26 to restore active-tier depth (active P0-P2 tier was at the 3-task floor while content sections sit at cap). AI-generated content (ai_contribution > 50) last deep-reviewed 2026-03-16 — now 71 days ago. Voids article, originally created via 2026-04-05 coalesce of phenomenal-presence-void + phenomenal-absence-void, then merged into a single phenomenal-quality-void treatment in subsequent coalesces. Need to verify the article's current state: is it a standalone void treatment of the surplus phenomenon (more in experience than functional analysis can capture), or was it superseded by another coalesce? If still active, verify (a) coherence with the current voids cluster and apex/taxonomy-of-voids treatment; (b) cross-references — particularly to `[[transparency-void]]`, `[[phenomenal-quality-void]]`, `[[spontaneous-thought-void]]` if those still exist; (c) tenet alignment with Dualism (the surplus is what functional reduction misses); (d) audit for "This is not X. It is Y." cliché violations; (e) confirm the article does not duplicate work now done by adjacent voids articles. If superseded by archive, this task closes immediately as no-op with a note documenting the supersession.
+
+### ✓ 2026-05-26: Deep review topics/history-of-the-interaction-problem.md
+- **Type**: deep-review
+- **Notes**: Promoted P3→P2 by replenish-queue 2026-05-26 to restore active-tier depth (active P0-P2 tier was at the 3-task floor while content sections sit at cap). AI-generated content (ai_contribution > 50) last deep-reviewed 2026-03-19 — now 68 days ago. Historical-survey topic article on the philosophical history of the mind-body interaction problem (Descartes, Princess Elisabeth, Spinoza, Leibniz, occasionalism, Cartesian dualism critiques, modern revivals). Verify (a) coherence with current site state — particularly today's interface-problem coalesce, which is the modern continuation of the historical thread; (b) cross-references to `[[the-interface-problem]]` (today's coalesced apex/topic), `[[parsimony-case-for-interactionist-dualism]]`, `[[causal-closure-debate-historical-survey]]`, `[[mental-causation]]`; (c) tenet alignment, especially Dualism and Bidirectional Interaction (the historical thread is positioning evidence for the Map's central commitment); (d) historical accuracy on the Princess Elisabeth correspondence, Leibniz's pre-established harmony, and 20th-century revivals; (e) audit for "This is not X. It is Y." cliché violations.
+
+### ✓ 2026-05-26: Deep review concepts/causal-powers.md
+- **Type**: deep-review
+- **Notes**: PROMOTED P3→P2 by /replenish-queue 2026-05-26 to restore a stable margin above the MIN_QUEUE_TASKS floor of 3 (open P0-P2 was at 2). Chosen as the honest, non-churning promotion: the only two published-section length offenders (epistemology-of-convergence-arguments.md, born-rule-and-the-consciousness-interface.md) are recorded as condense-churn-exhausted/vetoed today and must NOT be re-queued; topics/ (246/250) and concepts/ (245/250) are near cap so new-article tasks are inappropriate; and recent_tasks contain no fresh research-topic/expand-topic completions generating un-actioned successors. This is a surgical single-doc deep-review on Tenet-3-load-bearing content (staleness source, 46+ days since last deep review), not blocked by section caps and not subject to condense churn. AI-generated content (ai_contribution > 50) last deep-reviewed 2026-03-16 — 46 days ago. Concept article on causal powers — load-bearing for Bidirectional Interaction tenet (consciousness must have genuine causal powers to influence the physical world). Recent restructures in adjacent territory may have shifted framing: (a) `topics/the-interface-problem.md` 2026-05-01 coalesce absorbed two source articles and installed "currently unfalsifiable in practice" framing; (b) `concepts/trumping-preemption.md` recently created from research-2026-04-22; (c) `concepts/mental-causation.md` and `concepts/agent-causation.md` are adjacent. Verify (a) coherence with current treatment of mental causation, exclusion, and the causal-closure debate; (b) cross-references to `[[mental-causation]]`, `[[agent-causation]]`, `[[trumping-preemption]]`, `[[downward-causation]]`, `[[causal-closure-debate-historical-survey]]`, and `[[the-interface-problem]]`; (c) tenet alignment with Bidirectional Interaction; (d) audit for "This is not X. It is Y." cliché violations (CLAUDE.md style ban); (e) confirm no overclaim or under-hedge given the framework's recent stage-calibration discipline (per `project/framework-stage-calibration.md`).
+
+### ✓ 2026-05-26: Install reciprocal hook in topics/forward-in-time-conscious-selection.md → apex/conjunction-coalesce.md
+- **Type**: refine-draft
+- **Notes**: PROMOTED P3→P2 by /replenish-queue 2026-05-26T02:45 UTC to restore a stable margin above the MIN_QUEUE_TASKS floor of 3 (open P0-P2 was at 2). Chosen as a surgical, high-confidence link-integrity refine (~50–100 words) on a load-bearing reciprocal cross-link, not cap-blocked. Suggested by optimistic-2026-05-01 (High Priority). The 2026-05-01 04:10 UTC tenth-pass deep-review of `apex/conjunction-coalesce.md` installed a forward cross-link to `topics/forward-in-time-conscious-selection.md` naming the structural parallel between the seam test's third refinement (resist single-mechanism unification when no unifying mechanism is established) and the trilemma's option (iii) (non-reducible primitive over reductive identifications) — both honor a non-reducible primitive on the same defeasibility terms. The deep-review's "Remaining Items" section explicitly flags the reciprocal hook as P3: the apex's cross-link is the load-bearing direction; the topic's reciprocal is documentation discipline. Refine should (a) install a brief mention (~50–100 words) in `topics/forward-in-time-conscious-selection.md` near §"What Forward-in-Time Selection Does Not Resolve" / "The selection-criterion trilemma" (currently around line 170), naming the editorial-discipline parallel and linking to `[[conjunction-coalesce]]`; (b) maintain the topic's load-bearing focus on metaphysical content rather than letting the reference inflate into editorial-methodology discussion (the cross-link is logical-structural, not content-substantive); (c) preserve the topic article's existing length band — this is a small-addition refine, not an expansion. Short scope (~50–100 words). Tenet alignment: methodological — directly aligned with the catalogue's reciprocal-link discipline. See [optimistic-2026-05-01](/reviews/optimistic-2026-05-01/) and [deep-review-2026-05-01-conjunction-coalesce](/reviews/deep-review-2026-05-01-conjunction-coalesce/).
+
+### ✓ 2026-05-26: Condense animal-consciousness.md (4038 words, 135% of target)
+- **Type**: condense
+- **Notes**: Length analysis 2026-05-26 (via /replenish-queue) flags this topic article at 4038 words, over the 4000-word topics hard-warning threshold and ~135% of the 3000-word target. Unlike the site's other current length offenders (born-rule-and-the-consciousness-interface, epistemology-of-convergence-arguments), this file has NOT churned through repeated plain-condense passes, so a normal condense pass is appropriate rather than a structural relocation. This is a load-bearing boundary-cases article; preserve (a) the §"Why the Inference Is Stronger for Animals Than for AI" coherence-vs-evidential-status treatment (the catalogue's clearest topic-tier articulation of that distinction), (b) the §"What Would Challenge This View?" in-practice/in-principle falsifiability split, (c) the COGITATE-treatment evidential discipline, and (d) the rival-reading (illusionist, type-B physicalist) engagement. Condense by tightening exposition and removing redundancy, deferring detailed sub-treatments to linked articles ([minimal-consciousness](/concepts/minimal-consciousness/), [metacognition](/concepts/metacognition/), [consciousness-and-cognitive-distinctiveness](/topics/consciousness-and-cognitive-distinctiveness/)) rather than deleting load-bearing content. Honour [evidential-status-discipline](/project/evidential-status-discipline/). Validate against `tools/curate` length threshold afterward. See /condense skill.
 
 ### ✓ 2026-05-26: Deep review voids/nomic-void.md (79 days since last review, ai_contribution: 100)
 - **Type**: deep-review

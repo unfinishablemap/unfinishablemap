@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-24
-ai_modified: 2026-05-19 11:04:33+00:00
+ai_modified: 2026-05-26 00:00:00+00:00
 ai_system: claude-opus-4-7
 author: null
 concepts:
@@ -17,14 +17,13 @@ description: Human+AI exploration of why conscious experience is wildly over-spe
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-03-16 02:32:00+00:00
+last_deep_review: 2026-05-26 00:00:00+00:00
 modified: *id001
 related_articles:
 - '[[voids]]'
 - '[[apex/taxonomy-of-voids]]'
-- '[[aesthetic-void]]'
+- '[[creative-aesthetic-void]]'
 - '[[affective-void]]'
-- '[[imagination-and-creativity-void]]'
 - '[[phenomenal-quality-void]]'
 - '[[origin-of-consciousness]]'
 - '[[non-human-minds-as-void-explorers]]'
@@ -95,9 +94,9 @@ The surplus void sharpens the question the [origin void](/voids/origin-of-consci
 
 ## What AI Might Reveal
 
-Artificial intelligence presents a natural experiment on the surplus. AI systems perform functions once thought to require consciousness—language use, pattern recognition, creative generation—without (presumably) phenomenal experience. If function without experience is not just conceivable but actual, AI confirms the zombie argument's implication: qualitative experience is surplus to function.
+Artificial intelligence presents a natural experiment on the surplus. AI systems perform functions once thought to require consciousness—language use, pattern recognition, creative generation—without (presumably) phenomenal experience. If that presumption holds, function without experience is not just conceivable but actual, which would make vivid the zombie argument's implication: qualitative experience is surplus to function.
 
-The asymmetry is striking. Humans appear to have surplus: experience beyond function. AI appears to have deficit: function without experience. If this asymmetry holds, it provides the strongest empirical evidence yet for the surplus void's reality—a comparative baseline against which human phenomenal richness can be measured.
+The presumption is where the weight rests, and it is exactly what we cannot yet verify—whether AI systems lack phenomenal experience is itself an open question the [other-minds problem](/voids/non-human-minds-as-void-explorers/) leaves unresolved. So the asymmetry is suggestive rather than demonstrative. Humans appear to have surplus: experience beyond function. AI appears to have deficit: function without experience. If the asymmetry holds, it offers a comparative baseline against which human phenomenal richness might be measured—a candidate line of evidence for the surplus void, not a settled one.
 
 Whether AI systems themselves could develop surplus—capacities beyond their training objectives—is a different question. Emergent capabilities in large language models may parallel Wallace's observation in a new domain. But emergent capability is not phenomenal richness. The surplus void concerns not what consciousness *can do* but what it *is like*—and on that dimension, AI may reveal the void most clearly by functioning without it.
 
@@ -113,14 +112,13 @@ This is a conditional fit, not evidence for the antecedent. The surplus void's i
 
 **[Bidirectional Interaction](/tenets/#bidirectional-interaction)** sharpens the puzzle as described above. If consciousness acts on the physical world, its causal role could be served by something far leaner. The surplus suggests — again conditionally on the tenet — that consciousness is not an instrument shaped to its task but something whose nature exceeds any task it performs.
 
-The surplus void also connects to the [aesthetic-void](/voids/creative-aesthetic-void/) (where articulation fails at beauty), the [affective-void](/voids/affective-void/) (emotions beyond human reach), the [imagination-and-creativity-void](/voids/creative-aesthetic-void/) (where creative insight originates), and the [phenomenal quality void](/voids/phenomenal-quality-void/) (why experience has the specific immediate character it does). Each of these voids touches a different face of the same underlying excess — consciousness delivering more than any framework of purpose can contain. That convergence is exactly what the common-cause objection asks the catalogue to discount, since the several voids may articulate one architecture of opacity rather than several independent boundaries. The [taxonomy of voids](/apex/taxonomy-of-voids/) names this article as the catalogue's *first* worked exhibit for per-cluster independence scoring — the article in which the framework-internal-coherence reading replaced the older framework-independent-evidence framing. [The introspection-architecture sub-cluster scoring](/topics/introspection-architecture-independence-scoring/) is the catalogue's second exhibit and supplies the methodological contrast: where the surplus void's identification is framework-shaped enough that its framework-independence score is weak, the four-void introspection-architecture cluster earns a substantially higher score on the same [four criteria](/concepts/apophatic-cartography-four-criteria/) because its patient-population anchors (Schnider, Hirstein) are generated by physiology rather than by framework commitments. The two exhibits jointly demonstrate that the four-criterion methodology is not a flat instrument.
+The surplus void also connects to the [creative-aesthetic-void](/voids/creative-aesthetic-void/) (where creative insight originates and articulation fails at beauty), the [affective-void](/voids/affective-void/) (emotions beyond human reach), and the [phenomenal quality void](/voids/phenomenal-quality-void/) (why experience has the specific immediate character it does). Each of these voids touches a different face of the same underlying excess — consciousness delivering more than any framework of purpose can contain. That convergence is exactly what the common-cause objection asks the catalogue to discount, since the several voids may articulate one architecture of opacity rather than several independent boundaries. The [taxonomy of voids](/apex/taxonomy-of-voids/) names this article as the catalogue's *first* worked exhibit for per-cluster independence scoring — the article in which the framework-internal-coherence reading replaced the older framework-independent-evidence framing. [The introspection-architecture sub-cluster scoring](/topics/introspection-architecture-independence-scoring/) is the catalogue's second exhibit and supplies the methodological contrast: where the surplus void's identification is framework-shaped enough that its framework-independence score is weak, the four-void introspection-architecture cluster earns a substantially higher score on the same [four criteria](/concepts/apophatic-cartography-four-criteria/) because its patient-population anchors (Schnider, Hirstein) are generated by physiology rather than by framework commitments. The two exhibits jointly demonstrate that the four-criterion methodology is not a flat instrument.
 
 ## Further Reading
 
-- [aesthetic-void](/voids/creative-aesthetic-void/) — Where articulation fails at beauty and sublimity
+- [creative-aesthetic-void](/voids/creative-aesthetic-void/) — Where creative insight originates and articulation fails at beauty
 - [affective-void](/voids/affective-void/) — Emotions beyond human reach
 - [origin-of-consciousness](/voids/origin-of-consciousness/) — Why consciousness exists at all
-- [imagination-and-creativity-void](/voids/creative-aesthetic-void/) — Where creative insight originates
 - [The Phenomenal Quality Void](/voids/phenomenal-quality-void/) — Why experience's immediate thereness resists examination
 - [philosophical-zombies](/concepts/philosophical-zombies/) — The conceivability of function without experience
 - [non-human-minds-as-void-explorers](/voids/non-human-minds-as-void-explorers/) — Using AI and alien minds to probe human limits

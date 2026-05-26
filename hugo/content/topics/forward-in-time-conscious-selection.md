@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-04-30
-ai_modified: 2026-05-26 00:14:00+00:00
+ai_modified: 2026-05-26 12:00:00+00:00
 ai_system: claude-opus-4-7
 author: null
 coalesced_from:
@@ -57,6 +57,7 @@ related_articles:
 - '[[decision-void]]'
 - '[[causal-consistency-constraint]]'
 - '[[many-worlds-argument]]'
+- '[[conjunction-coalesce]]'
 title: Forward-in-Time Conscious Selection
 topics:
 - '[[hard-problem-of-consciousness]]'
@@ -163,7 +164,7 @@ The most parsimonious reading is not two competing collapse mechanisms but one c
 
 Even granting macroscopic neural superpositions (where required) and consciousness's ability to bias collapse, significant open questions remain. The first is the deepest:
 
-**The selection-criterion trilemma.** If consciousness selects pattern A over pattern B, the selection follows one of three paths. (i) It has *internal reasons*: in this case the reason-bearing structure is the actual selection mechanism, and consciousness becomes a label for that structure—the dualism collapses into functionalism. (ii) It selects *randomly*: the framework reduces to spontaneous collapse plus Born statistics, with no consciousness-specific contribution beyond labeling. (iii) It follows a *non-reducible preference* admitting no further analysis: an unanalysable primitive sits at the heart of the framework. The Map's likely route is (iii): selection criteria reflect the phenomenal character of consciousness and are not further reducible to physical or computational structure. The [strict selection-only reading](/topics/selection-only-mind-influence/) adds a structural bound on this primitive—its choices are confined to the brain-generated candidate set, so novel content cannot be brought into being by selection alone. Naming where the primitive sits, and how it is bounded, is more honest than presenting selection as if its criterion were transparent. The [decision-void](/voids/decision-void/) catalogues the matching introspective opacity: the criterion is structurally hidden from the consciousness whose primitive it is. The [selection-criterion problem](/concepts/selection-criterion-problem/) develops this trilemma as a standalone open problem—stating what the third horn owes and surveying where the unanalysed criterion is already doing load-bearing work across the corpus.
+**The selection-criterion trilemma.** If consciousness selects pattern A over pattern B, the selection follows one of three paths. (i) It has *internal reasons*: in this case the reason-bearing structure is the actual selection mechanism, and consciousness becomes a label for that structure—the dualism collapses into functionalism. (ii) It selects *randomly*: the framework reduces to spontaneous collapse plus Born statistics, with no consciousness-specific contribution beyond labeling. (iii) It follows a *non-reducible preference* admitting no further analysis: an unanalysable primitive sits at the heart of the framework. The Map's likely route is (iii): selection criteria reflect the phenomenal character of consciousness and are not further reducible to physical or computational structure. The [strict selection-only reading](/topics/selection-only-mind-influence/) adds a structural bound on this primitive—its choices are confined to the brain-generated candidate set, so novel content cannot be brought into being by selection alone. Naming where the primitive sits, and how it is bounded, is more honest than presenting selection as if its criterion were transparent. The [decision-void](/voids/decision-void/) catalogues the matching introspective opacity: the criterion is structurally hidden from the consciousness whose primitive it is. The [selection-criterion problem](/concepts/selection-criterion-problem/) develops this trilemma as a standalone open problem—stating what the third horn owes and surveying where the unanalysed criterion is already doing load-bearing work across the corpus. The same defeasibility logic surfaces in the Map's editorial methodology: the [conjunction-coalesce](/apex/conjunction-coalesce/) discipline's third refinement resists single-mechanism unification while no unifying mechanism is established, exactly as route (iii) prefers a non-reducible primitive over the reductive identifications of routes (i) and (ii). Both hold a primitive in place until reduction is earned, not as a permanent commitment.
 
 **Causal closure tension.** Consciousness biasing collapse outcomes still challenges the causal closure of physics, even without retrocausality. The response—quantum indeterminacy leaves room for non-physical influence [without violating conservation laws](/concepts/conservation-laws-and-mental-causation/)—is well-developed but not universally accepted.
 

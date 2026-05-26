@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-15
-ai_modified: 2026-05-14 20:42:00+00:00
+ai_modified: 2026-05-26 04:18:25+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -55,7 +55,7 @@ The path runs through four stages — James's pragmatic openness to dualism, Pei
 
 [William James](/topics/william-james-consciousness/) established the first connection between pragmatism and dualism. His pragmatist methodology asks of any philosophical dispute: what practical difference would it make if one side were true rather than the other?
 
-Applied to the mind-body problem, James argued in "Human Immortality" (1898) that the stakes are real. If consciousness is produced by the brain, death is annihilation and consciousness has no special status. If consciousness is transmitted through but not produced by the brain, each conclusion changes. The practical consequences diverge — the question is genuinely meaningful. The pragmatist who dismisses dualism as unscientific has abandoned pragmatism for methodological convenience masquerading as philosophical argument.
+Applied to the mind-body problem, James argued in "Human Immortality" (1898) that the stakes are real. If consciousness is produced by the brain, death is annihilation and consciousness has no special status. If consciousness is transmitted through but not produced by the brain, each conclusion changes. The practical consequences may diverge sharply — which would make the question genuinely meaningful. The pragmatist who dismisses dualism as unscientific has abandoned pragmatism for methodological convenience masquerading as philosophical argument.
 
 James's "Will to Believe" (1896) reinforces this: when a choice is forced, living, and momentous, we may legitimately choose based on our nature and needs rather than waiting for conclusive evidence. The consciousness question meets all three conditions.
 
@@ -65,7 +65,7 @@ A common objection: James moved beyond dualism toward *radical empiricism*, argu
 
 Charles Sanders Peirce — pragmatism's founder — arrived at a convergent position through his doctrine of *tychism*: absolute chance is a real factor in the universe, not merely a reflection of ignorance. In "The Architecture of Theories" (1891) and "The Law of Mind" (1892), Peirce argued that strict determinism leaves no room for consciousness to play a genuine role — mind is either identical to physical events or epiphenomenal.
 
-Peirce's resolution was direct: real indeterminism in nature opens space for mental causation. He wrote that consciousness "is not to be reinstated without tychism" — without genuine ontological chance, there is nowhere for mind to act. This philosophical argument anticipated quantum indeterminacy by decades. Karl Popper later noted that Peirce's indeterminism received little attention until quantum mechanics vindicated it.
+Peirce's resolution was direct: real indeterminism in nature opens space for mental causation. He wrote that consciousness "is not to be reinstated without tychism" — without genuine ontological chance, there is nowhere for mind to act. This philosophical argument arguably anticipated quantum indeterminacy by decades. Karl Popper later noted that Peirce's indeterminism received little attention until quantum mechanics, on Popper's reading, vindicated it — though the convergence may be looser than this framing suggests.
 
 Peirce went further. His *synechism* — the doctrine of continuity — held that mind and matter exist on a continuum, with the universe "suffused with mind." While synechism differs from the Map's dualism — Peirce posited a continuum rather than distinct properties — it shares the essential commitment: consciousness is causally efficacious, and strict physicalism cannot accommodate it. Peirce reached this conclusion through pragmatism's own logic applied to the conditions under which inquiry and reasoning are possible.
 
@@ -77,7 +77,7 @@ Bas van Fraassen's *The Scientific Image* (1980) provides the crucial third step
 
 Van Fraassen argues that explanation is not an objective relation between theory and world but a pragmatic relation involving a questioner, a context, and interests. Explanation is interest-relative, context-dependent, and answerable to the concerns of a conscious agent.
 
-This has a consequence van Fraassen does not pursue. If explanation is irreducibly tied to conscious agents, then removing consciousness does not merely leave explanatory relations unrecognised — they cease to exist. Explanation is not in the territory but in the map-maker.
+This has a consequence van Fraassen does not pursue. If explanation is irreducibly tied to conscious agents, then removing consciousness might not merely leave explanatory relations unrecognised — on this reading they would cease to exist. Explanation, the suggestion runs, is not in the territory but in the map-maker.
 
 The Map's article on [consciousness and the limits of explanation](/topics/consciousness-defeats-explanation/) develops this into the reflexive gap: science explains phenomena by producing understanding, understanding is a phenomenal state, and science therefore depends on a phenomenal capacity it cannot account for within its own framework. If you take seriously that explanation is agent-relative, the agent's conscious experience is not one more thing to be explained but the condition that makes explanation possible.
 
@@ -85,11 +85,11 @@ The Map's article on [consciousness and the limits of explanation](/topics/consc
 
 The pragmatic path to dualism reaches its strongest form when applied to pragmatism itself. Pragmatism evaluates beliefs by their practical consequences. But evaluation is a conscious activity. Assessing whether a belief "works" — whether it resolves difficulties, opens productive inquiries, coheres with experience — requires phenomenal experience: the felt sense that things fit together, the recognition that one framework illuminates while another obscures. This is [cognitive-phenomenology](/concepts/cognitive-phenomenology/) in action.
 
-If consciousness reduces to physical processes, then evaluation reduces to physical processes too. But then "what works" becomes merely "what physical processes happen to produce" — and the pragmatic criterion collapses into a description of what brains do rather than a norm for what we should believe. The pragmatist who adopts materialism about consciousness eliminates the evaluative standpoint that pragmatism requires.
+If consciousness reduces to physical processes, then evaluation reduces to physical processes too. But then "what works" arguably becomes merely "what physical processes happen to produce" — and the pragmatic criterion may collapse into a description of what brains do rather than a norm for what we should believe. On this analysis, the pragmatist who adopts materialism about consciousness eliminates the evaluative standpoint that pragmatism requires.
 
 This reflexive argument is powerful but incomplete on its own. A functionalist might concede the point while insisting that the relevant evaluative capacity is a computational role, not an irreducible phenomenal property.
 
-Phenomenal normativity closes this gap. The [normative force analysis](/topics/consciousness-and-normative-force/) shows that evaluation is not a neutral computational operation to which phenomenal character is incidentally attached — the evaluative work *is* the phenomenal character. Pain's badness is constitutive of what pain feels like. The felt pull of a valid argument toward acceptance is the mode through which the logical structure grips the thinker. [Demand-character](/concepts/evaluative-phenomenal-character/) — the quality of experience that presents its object as calling for a response — is where evaluation actually happens.
+Phenomenal normativity arguably closes this gap. The [normative force analysis](/topics/consciousness-and-normative-force/) indicates that evaluation may not be a neutral computational operation to which phenomenal character is incidentally attached — on the dualist reading, the evaluative work *is* the phenomenal character. Pain's badness is constitutive of what pain feels like. The felt pull of a valid argument toward acceptance is the mode through which the logical structure grips the thinker. [Demand-character](/concepts/evaluative-phenomenal-character/) — the quality of experience that presents its object as calling for a response — is where evaluation actually happens.
 
 The bridge between these arguments transforms both. Pragmatism, supplemented by phenomenal normativity, specifies what about consciousness is ineliminable: the demand-character through which experience presents states of affairs as calling for response. Phenomenal normativity, supplemented by pragmatism's reflexive logic, gains a new argument: any theory that eliminates demand-character eliminates the evaluative standpoint on which theory-choice depends, including the choice of that theory.
 
@@ -107,7 +107,7 @@ An obvious objection: every position about consciousness is reflexive. If reflex
 
 ## Parsimony as Evaluative Norm
 
-The bridge generates a further argument concerning [Occam's Razor](/tenets/#occams-limits). Parsimony is a normative principle with demand-character: the simpler theory presents itself as calling for acceptance. If parsimony depends on demand-character, and demand-character depends on irreducible consciousness, then using parsimony to argue against irreducible consciousness is self-undermining. The razor cuts its own handle.
+The bridge generates a further argument concerning [Occam's Razor](/tenets/#occams-limits). Parsimony is a normative principle that arguably carries demand-character: the simpler theory presents itself as calling for acceptance. If parsimony depends on demand-character, and demand-character depends on irreducible consciousness, then using parsimony to argue against irreducible consciousness may be self-undermining. The razor cuts its own handle.
 
 This goes beyond the Map's fifth tenet (parsimony has limits). The bridge provides a specific mechanism: parsimony is an evaluative norm, evaluative norms depend on phenomenal demand-character, and phenomenal demand-character is irreducible. The argument explains *why* parsimony cannot serve as grounds for eliminating consciousness.
 
@@ -121,9 +121,9 @@ The shared architecture across domains — demand-character, resistance to prefe
 
 Hilary Putnam's trajectory reinforces the pragmatic path. He invented functionalism in "Minds and Machines" (1960), then abandoned it in *Representation and Reality* (1988), arguing that it remained committed to an internalist conception of mental states that his own semantic externalism had discredited.
 
-Putnam's subsequent "pragmatic realism" argues that truth is what would be justified under epistemically ideal conditions — conditions that essentially involve conscious rational agents. His model-theoretic argument demonstrates that reference cannot be fixed by physical/causal relations alone: any purely physical description is compatible with multiple incompatible interpretations. What pins down meaning is the perspective of a conscious interpreter.
+Putnam's subsequent "pragmatic realism" argues that truth is what would be justified under epistemically ideal conditions — conditions that essentially involve conscious rational agents. His model-theoretic argument indicates that reference cannot be fixed by physical/causal relations alone: any purely physical description appears compatible with multiple incompatible interpretations. What pins down meaning is the perspective of a conscious interpreter.
 
-If reference and meaning require conscious interpreters, consciousness cannot be explained away as "just" physical processing without undermining the meaningfulness of the explanation itself. Putnam did not endorse dualism, but his pragmatic realism establishes that consciousness plays an ineliminable role in constituting the meaningful world that science describes.
+If reference and meaning require conscious interpreters, consciousness cannot be explained away as "just" physical processing without undermining the meaningfulness of the explanation itself. Putnam did not endorse dualism, but his pragmatic realism suggests that consciousness plays an ineliminable role in constituting the meaningful world that science describes.
 
 ## Why Pragmatists Resist and Why They Shouldn't
 
@@ -131,15 +131,15 @@ Most pragmatists have resisted the path to dualism. The reasons are instructive.
 
 **Dissolution rather than solution.** From Dewey through Rorty, the most influential pragmatist response holds that the mind-body problem is an artifact of Cartesian framing. Dewey replaced "consciousness" with "experience" and treated mind as an organism actively transacting with its environment. Rorty argued that the very idea of mind representing reality should be abandoned.
 
-But dissolution is not refutation. The hard problem does not depend on Cartesian assumptions. Even within Dewey's framework, the question remains: why is there something it is like to be this organism? His model of inquiry begins with "felt difficulty," proceeds through deliberation, and concludes with "consummatory experience" — every stage involves phenomenal character. Dewey's replacement of "consciousness" with "experience" renamed the phenomenal rather than eliminating it.
+But dissolution is not refutation. The hard problem arguably does not depend on Cartesian assumptions. Even within Dewey's framework, the question seems to remain: why is there something it is like to be this organism? His model of inquiry begins with "felt difficulty," proceeds through deliberation, and concludes with "consummatory experience" — every stage involves phenomenal character. Dewey's replacement of "consciousness" with "experience" renamed the phenomenal rather than eliminating it.
 
-**Methodological naturalism.** Many pragmatists assume philosophy should operate within natural science. But this assumption is not itself pragmatic — it is a prior commitment that pragmatism's own method should evaluate rather than presuppose.
+**Methodological naturalism.** Many pragmatists assume philosophy should operate within natural science. But this assumption is arguably not itself pragmatic — it seems to be a prior commitment that pragmatism's own method should evaluate rather than presuppose.
 
 **Association with substance dualism.** Pragmatists associate dualism with Cartesian substance dualism and its interaction problem. But the Map's [interactionist-dualism](/concepts/interactionist-dualism/) is not Descartes'. Property dualism and other non-Cartesian frameworks satisfy the Map's requirements without inheriting Cartesian difficulties.
 
 **The enactivist inheritance.** Contemporary 4E cognition traces a direct genealogy from Dewey through Merleau-Ponty to Varela, Thompson, and Rosch's enactivism. Enactivists typically draw anti-dualist conclusions from these pragmatist roots. But if pragmatism's reflexive logic supports dualism, enactivism inherits an unresolved tension. The Map's article on [the enactivist challenge](/topics/enactivism-challenge-to-interactionist-dualism/) develops this: enactivism's insistence on the irreducibility of lived experience sits uncomfortably with its materialist metaphysics.
 
-**The success of science.** Science works by producing understanding in conscious agents. Its success is evidence that conscious agents can grasp truths about the physical world — which is what bidirectional interaction predicts. Science's success presupposes what materialism denies: that conscious evaluation has genuine normative authority over what we should believe.
+**The success of science.** Science works by producing understanding in conscious agents. Its success may be read as evidence that conscious agents can grasp truths about the physical world — which is what bidirectional interaction predicts. On this reading, science's success presupposes what materialism denies: that conscious evaluation has genuine normative authority over what we should believe.
 
 ## What Would Challenge This View
 

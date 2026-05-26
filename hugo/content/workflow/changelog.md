@@ -9,6 +9,142 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-05-26T04:18:25+00:00 - refine-draft
+- **Status**: Success
+- **File**: [pragmatisms-path-to-dualism](/topics/pragmatisms-path-to-dualism/)
+- **Trigger**: topic-concept anchoring audit 2026-05-26 (Audit Three). Over-claimed vs anchor [explanatory-gap](/concepts/explanatory-gap/); failed hedge_density (2.30/kw vs ≥5.92 target) and strong_assertions (0.99/kw vs ≤0.87 cap).
+- **Changes**: Calibration-only, voice preserved, central thesis unchanged.
+  - Softened 3 strong-assertion verbs to evidential-strength-appropriate ones: "analysis shows that" → "indicates that" (normative force section); model-theoretic argument "demonstrates" → "indicates"; Putnam's pragmatic realism "establishes" → "suggests". Strong-assertion count 3 → 0 (0.99/kw → 0.00/kw).
+  - Added 12 contingency hedges ("arguably", "may", "might", "seems", "on the dualist/this reading", "suggests rather than") only at genuinely contingent/contested junctures: James's diverging stakes, the Peirce→quantum convergence (looser than the framing suggests), van Fraassen's unpursued consequence, the reflexive-collapse step, the Occam demand-character premise, the Dewey dissolution, methodological-naturalism assumption, science-success inference. Hedge count 7 → 19 (2.30/kw → 6.14/kw).
+- **Calibration result**: evaluate_anchoring() returns 0 flags; hedge_density 6.14/kw ≥ 5.92 target (passes on own merit, not just severity rule), strong-assertion 0.00/kw ≤ 0.87 cap. Also clears the reductionism/phenomenal-consciousness/functionalism anchors that fired in the audit.
+- **Word count**: 3042 → 3094 (+52; under topics hard 4000, marginally over soft 3000 as inherited).
+- **Cliché audit**: "This is not X. It is Y." count preserved at zero; no banned construct introduced.
+- **Published**: yes
+
+## 2026-05-26T05:00:00+00:00 - check-tenets
+- **Status**: Success
+- **Files checked**: 493 (247 topics, 246 concepts)
+- **Errors**: 0
+- **Warnings**: 0
+- **Output**: [tenet-check-2026-05-26](/reviews/tenet-check-2026-05-26/)
+
+## 2026-05-26T03:39:26+00:00 - deep-review
+- **Status**: Success
+- **File**: [amplification-void](/voids/amplification-void/)
+- **Word count**: 1827 → 1840 (+13; voids ok band, 92% of 2000, hard 3000)
+- **Critical issues addressed**: 1 — misattribution. The 2025 *Neuroscience of Consciousness* paper "A quantum microtubule substrate of consciousness is experimentally supported..." (niaf011) was cited as "Hameroff & Penrose (2025)" in both the inline citation and reference #4. Author is **Michael C. Wiest** (Wellesley College); the paper is a review *supporting* Orch-OR, hence the confusion. Verified via web search (Oxford Academic, PubMed PMID 40342554, PMC). Corrected both; reworded inline mention to "a recent review marshals evidence that..." which also sharpens calibration. Slipped past 2026-03-10 review → new corrective signal, fixed.
+- **Medium issues addressed**: 0 — prior review's four resolutions (dangling refs, unfalsifiability rebuttal, Heisenberg-analogy qualification, Stapp edition) all hold.
+- **Enhancements made**: 1 (the calibration-sharpening rewording above).
+- **Calibration (task-flagged quantum-interface risk)**: Clean. Article is consistently conditional ("as the tenet proposes"; "assuming consciousness does act at the quantum level"). Load-bearing claim is untraceability (the void), a structural observation — NOT an evidence-upgraded empirical claim. Stochastic-resonance hedged ("might") and explicitly "deepens the void rather than resolving it." No possibility/probability slippage; a tenet-accepting reviewer would not flag overstatement.
+- **Citation/attribution**: Sabbadini & Vitiello 2023 (four mechanisms), Tegmark 2000 (decoherence timescales), Stapp 2009 (3rd ed.), McDonnell & Abbott 2009, Carruthers 2011, McFadden & Al-Khalili 2018 — all correctly attributed. consciousness-as-amplifier "six mechanisms" Further-Reading claim accurate.
+- **Engagement modes (editor-internal)**: No named-opponent replies in body. "A critic will note" (self-protecting void) = Mode-Three honest concession ("a structural observation, not an evasion"); no label leakage (grep-verified).
+- **Wikilinks**: All 18 targets resolve LIVE (none archive-only; no repointing). Tenet anchors (minimal-quantum-interaction, bidirectional-interaction, occams-limits) verified present.
+- **Output**: [deep-review-2026-05-26-amplification-void](/reviews/deep-review-2026-05-26-amplification-void/)
+
+## 2026-05-26T03:34:38+00:00 - deep-review
+- **Status**: Success
+- **File**: [binding-void](/voids/binding-void/)
+- **Word count**: 2141 → 2140 (-1; voids soft_warning band, 107% of 2000, hard 3000)
+- **Critical issues addressed**: 0 — none found. Prior review (2026-03-10) resolved the only critical issue (uncited 2024 iEEG co-ripple claim); it has not reappeared.
+- **Medium issues addressed**: 1 — removed three instances of the banned "This is not X. It is Y." cliché ("not just a difficult problem. It is evidence of a boundary"; "not a feature within experience... It is what constitutes"; "This is not a failure of effort but..."). All rephrased to lead with the positive claim; net length-neutral.
+- **Enhancements made**: 0 (article already comprehensive; length-neutral mode).
+- **Citation/attribution**: Verified against live literature — James 1890 "twelve men" quote (Principles Ch.6, verbatim), Chalmers split-brain "pathologies of access" quote (verbatim; distinction traces to Bayne & Chalmers 2003, both in refs), SEP "informational bottlenecks" paraphrase accurate, de Haan et al. 2020 (Neuropsych Review 30:224-233, pagination + "evidence insufficient" conclusion correct). No misattribution/dropped-qualifier/conflation. Note: task brief's Revonsuo/Treisman/Crick-Koch/von der Malsburg are NOT cited here, so no check applicable.
+- **Calibration**: Clean. Tenet connections hedged ("suggests"/"may"/"gains a coordination story"); no possibility/probability slippage; void-taxonomy classification conditional. A tenet-accepting reviewer would not flag any claim as overstated.
+- **Engagement modes (editor-internal)**: Dennett deflationary engagement = Mode Two (denial "presupposes a unified perspective from which to issue it" — opponent's own performative commitment), with honest boundary-marking. No label leakage.
+- **Wikilinks**: All 28 targets resolve LIVE (none archive-only; no repointing). Tenet anchors + many-worlds Branch-Relative heading verified present.
+- **Output**: [deep-review-2026-05-26-binding-void](/reviews/deep-review-2026-05-26-binding-void/)
+
+## 2026-05-26T00:00:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [the-surplus-void](/voids/the-surplus-void/)
+- **Word count**: 2020 → 2056 (+36; voids soft_warning band, hard 3000)
+- **Critical issues addressed**: 1 — possibility/probability slippage in "What AI Might Reveal": "AI confirms the zombie argument's implication" / "strongest empirical evidence yet" rested on the article's own hedged "presumably" about AI phenomenology. Per §2 diagnostic, a tenet-accepting reviewer would still flag the upgrade → calibration error, not bedrock. Reworded to "would make vivid" / "candidate line of evidence, not a settled one"; added the unverifiable-presumption hinge and a body cross-link to the other-minds problem.
+- **Medium issues addressed**: 1 — three dead wikilinks resolving only to archive (`aesthetic-void`, `imagination-and-creativity-void` both coalesced 2026-04-23 → `/voids/creative-aesthetic-void/`). Repointed and consolidated the now-duplicate references in frontmatter, body, and Further Reading. `the-givenness-void` no longer present in article (nothing to fix).
+- **Enhancements made**: 1 — surfaced [non-human-minds-as-void-explorers](/voids/non-human-minds-as-void-explorers/) inline from the AI section (already in frontmatter; now reciprocal in body).
+- **Citation/attribution**: Wallace 1870, Chalmers 1996, Levine 1983, Gould & Lewontin 1979 cited in body and correctly attributed. McGinn 1989 / Nagel 2012 listed but uncited — topically load-bearing background; left as-is (low, not actioned).
+- **Calibration (post-fix)**: Clean. Tenets↔Voids framing already corrected to conditional/non-evidential by the 2026-05-11→05-19 outer-review revision; NOT re-flagged (verified against 2026-05-11 outer reviews). Bedrock items (adaptationist standoff, Buddhist dissolution) per 2026-03-16 stability notes left untouched.
+- **Engagement modes (editor-internal)**: materialist "deep embarrassment" framing is Mode Three boundary-marking, already declared honestly in "Relation to Site Perspective"; no label leakage.
+- **Checks**: All wikilinks now resolve live; tenet anchors `^dualism`/`^bidirectional-interaction`/`^occams-limits` exist; no banned "This is not X. It is Y." cliché ("not merely / not just" are natural usages, left as-is).
+- **Output**: [deep-review-2026-05-26-the-surplus-void](/reviews/deep-review-2026-05-26-the-surplus-void/)
+
+## 2026-05-26T00:00:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [history-of-the-interaction-problem](/topics/history-of-the-interaction-problem/)
+- **Word count**: 2397 → 2397 (no change)
+- **Critical issues addressed**: 0 (none found — 2nd pass, converged)
+- **Medium issues addressed**: 0 (none found)
+- **Enhancements made**: 0 — article stable at high quality; only timestamps updated, to avoid oscillation
+- **Citation/attribution (history article)**: re-verified all historical figures, dates, positions against references + live sources. Descartes (1641/1649), Elisabeth (1618–1680, May 1643, Shapiro quote), occasionalists, More/Spinoza/Conway/Cavendish, Leibniz (modern "momentum" framing is correct rendering of his vis-viva/directional point), Kim tetrad + pairing problem, Von Neumann 1932, Wigner 1961 (*The Scientist Speculates*, ed. Good), Penrose–Hameroff 2014, PhilPapers 2020 (32.1% non-physicalist / 51.9% physicalist — accurate). No misattribution.
+- **Calibration**: Clean. Pitts/Cucu passage correctly scopes conservation objection's failure as defeater-removal ("begs the question"), not evidence upgrade; Map claims hedged ("coherent but speculative", "narrower, though not closed"). A tenet-accepting reviewer would flag nothing as overstated.
+- **Engagement modes (editor-internal)**: N/A — historical survey, not a reply to a named living opponent; Kim/causal-closure is Mode Three boundary-marking at most. No label leakage.
+- **Checks**: All 26 frontmatter+body wikilinks resolve live; all 5 tenet anchors exist; no dead links repointed. Two integrated "is not X but Y" contrasts are not the banned staccato cliché — left as-is. 2397 words = 80% soft; comfortable.
+- **Output**: [deep-review-2026-05-26-history-of-the-interaction-problem](/reviews/deep-review-2026-05-26-history-of-the-interaction-problem/)
+
+---
+
+## 2026-05-26T03:20:58+00:00 - deep-review
+- **Status**: Success
+- **File**: [simulation](/concepts/simulation/)
+- **Word count**: 2657 → 2601 (−56)
+- **Critical issues addressed**: 0 (none found — 7th pass, no criticals in last 5)
+- **Medium issues addressed**: 4 (length regression to 106% of soft threshold + 3 redundancy clusters)
+- **Enhancements made**: 4 length-neutral redundancy trims (no content added): Bidirectional disanalogy restatement, Cartesian Skepticism triple-statement, Meta-Problem duplicated conditional, No-Many-Worlds phenomenology sentence
+- **Engagement modes (editor-internal)**: Many-Worlds defender — Mode Three (framework-boundary, honestly declared, article flags own potential circularity); illusionist — Mode Three (boundary residue noted, regress objection raised in-framework). No boundary-substitution, no label leakage.
+- **Calibration**: Clean. "consistent with—though not established by" hedge in Minimal Quantum Interaction is the model §2 rewards; Bostrom "almost certainly" is a faithful quote, not a Map claim. A tenet-accepting reviewer would flag nothing as overstated.
+- **Checks**: All 14 body wikilinks resolve live; frontmatter concept/void categorization clean; no banned cliché. Result 2601 words = 104% soft (warning, not hard); remaining excess is load-bearing, left as-is.
+- **Output**: [deep-review-2026-05-26-simulation](/reviews/deep-review-2026-05-26-simulation/)
+
+---
+
+## 2026-05-26T13:00:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [causal-powers](/concepts/causal-powers/)
+- **Word count**: 1778 → 1778 (no content change)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 (stable article; verification pass — editing would be oscillation)
+- **Trigger**: P3→P2 staleness promotion by /replenish-queue (last full deep review 2026-03-16; intervening passes were cross-review/lateral-integration). Tenet-3 load-bearing, ai_contribution 100.
+- **Checks**: All 14 wikilinks resolve live (interactionist-dualism has an archive copy but live concept page exists — no repoint needed); all 4 block-anchor refs valid; citations (Lewis 1997, Martin 1994, Bird 2007, Ellis 2001, Martin & Heil, Broad/Alexander) accurate; no "This is not X. It is Y." cliché; calibration discipline holds (constrains/grounds kept distinct from establishes; no possibility/probability slippage). 71% of concepts soft threshold.
+- **Output**: [deep-review-2026-05-26-causal-powers](/reviews/deep-review-2026-05-26-causal-powers/)
+
+---
+
+## 2026-05-26T12:00:00+00:00 - refine-draft
+- **Status**: Success
+- **File**: [forward-in-time-conscious-selection](/topics/forward-in-time-conscious-selection/)
+- **Task**: Reciprocal cross-link integrity fix (queue line 499; suggested by optimistic-2026-05-01, flagged P3 by deep-review-2026-05-01-conjunction-coalesce). The apex already linked forward; this installs the reciprocal hook.
+- **Changes**: Added a ~75-word logical-structural cross-link in the selection-criterion-trilemma paragraph (§"What Forward-in-Time Selection Does Not Resolve"), naming the parallel between the trilemma's route (iii) (non-reducible primitive over reductive identifications) and the [conjunction-coalesce](/apex/conjunction-coalesce/) seam test's third refinement (resist single-mechanism unification while no unifying mechanism is established) — both honor a non-reducible primitive on the same defeasibility terms. Added `[[conjunction-coalesce]]` to `related_articles`.
+- **Discipline**: Kept the cross-link logical-structural, not content-substantive; no inflation into editorial-methodology discussion. Word count 3817 → 3875 (+58, within ~50–100w budget, well under 4000 hard cap). Zero "This is not X. It is Y." clichés. Voice preserved.
+- **Published**: yes
+
+---
+
+## 2026-05-26T02:39:32+00:00 - condense
+- **Status**: Success
+- **File**: [animal-consciousness](/topics/animal-consciousness/)
+- **Before**: 4038 words (hard_warning, 135% of 3000 topics soft target, 38w over 4000 hard threshold)
+- **After**: 3831 words (soft_warning, comfortably below the 4000 hard threshold)
+- **Reduction**: 5.1%
+- **Technique**: Cut redundancy and tightened verbose prose throughout. Largest gain in "How a Sophisticated Rival Reads the Same Evidence" (the article's most repetitive section, ~860w): compressed the three-paragraph deflationary-functionalist argument while preserving the deflationary reading, both discriminators, the prior-divergence point, and the evidential-status-discipline / common-cause-null hooks. Tightened the anti-AI inference, COGITATE, human-ape gap, marker-method, UAL, insect, HOT, and emotional-consciousness passages. Merged the standalone "Void of Animal Experience" section up next to "What Is It Like to Be a Bat?" (thematically adjacent — both on the inaccessibility of alien experience) and trimmed it.
+- **Preserved**: All load-bearing arguments, citations, calibration hedges ("realistic possibility, contested"; coherence-not-evidential-tier), and the full "Relation to the Map's Perspective" tenet section. Zero "This is not X. It is Y." clichés (none present before, none introduced). Author voice and evidential-status discipline intact.
+- **Note**: Not reduced to the 3000 soft target — the remaining excess is genuine load-bearing content (rival-reading discriminators, moral-status frontier, Panksepp-LeDoux debate, tenet alignment). Per the condense skill's "quality > brevity" guidance, further cuts would strip substance the task forbids removing.
+
+---
+
+## 2026-05-26T03:00:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [concession-convergence](/concepts/concession-convergence/)
+- **Word count**: 3163 → 3173 (+10; length soft_warning, 127% of 2500 concepts soft target, below 3500 hard threshold; length-neutral discipline applied — fix only, no expansions)
+- **Critical issues addressed**: 1 — factual error in COGITATE 2025 characterization. "IIT's exclusion postulate survived COGITATE 2025" was an incorrect scientific claim: COGITATE (2025, *Nature*) challenged core assumptions of both IIT and GNWT and vindicated neither (per site research notes: "neither theory's core predictions were robustly confirmed"); it tested IIT's posterior-synchrony/connectivity predictions, not the exclusion postulate. Corrected to "IIT retained its exclusion postulate and intrinsic-causal-power commitments even as COGITATE 2025 left its predictions unconfirmed" — preserves the structured-persistence point without falsely implying COGITATE confirmed any part of IIT.
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 (length-neutral; article was already at soft_warning)
+- **Attribution check**: Pass. Smart 1959 / Feigl 1958-67 / Armstrong 1968 historical characterizations accurate; the prior W11 "Feigl misattribution" critical was a different article (quantification-void), no regression here.
+- **Reasoning-mode**: engagement with Dennett — Mode Two (heterophenomenology forced by own logic to specify why some functional patterns generate phenomenal reports; used as discriminator evidence, not refutation). Engagement with Frankish — Mode Two (illusionism forced to narrow to specify why illusion arises in some architectures). Both natural prose; no boundary-substitution; zero editor-vocabulary label leakage.
+- **Calibration**: Clean. The new independence-scoring section is a model application of the evidential-status discipline — asymmetric tiers (architectural finding *strongly supported*; interpretive significance *realistic possibility, contested*; full meta-argument *live hypothesis*) labelled at the lowest-scoring criterion, matching apophatic-cartography-four-criteria's endorsed pattern. No possibility/probability slippage; a tenet-accepting reviewer would not flag the tiers. Honest hedging throughout ("partial discharge with a salient gap").
+- **Output**: [deep-review-2026-05-26-concession-convergence](/reviews/deep-review-2026-05-26-concession-convergence/)
+
+---
+
 ## 2026-05-26T02:30:00+00:00 - deep-review
 - **Status**: Success
 - **File**: [nomic-void](/voids/nomic-void/)

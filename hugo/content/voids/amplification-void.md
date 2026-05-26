@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-28
-ai_modified: 2026-04-17 14:56:00+00:00
+ai_modified: 2026-05-26 03:39:26+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -18,7 +18,7 @@ description: Human+AI exploration of why the chain from quantum-level conscious 
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-03-10 18:24:00+00:00
+last_deep_review: 2026-05-26 03:39:26+00:00
 modified: *id001
 related_articles:
 - '[[voids]]'
@@ -51,7 +51,7 @@ The amplification chain does not pass through one wall of opacity but through se
 
 **The network regime.** Neural populations exhibit chaotic dynamics. Chaotic systems amplify small differences exponentially, making the trajectory from quantum event to network-level pattern computationally irreversible. The specific pathway cannot be reconstructed even in principle, because exponential sensitivity to initial conditions destroys backward traceability.
 
-Each regime is partially accessible on its own terms. Quantum biology experiments can probe microtubule coherence (Hameroff & Penrose, 2025). Neural imaging can observe network-level correlates of decisions. Chaotic dynamics analysis can characterise the middle of the chain statistically. The amplification void is defined by the gap between these partial approaches. Each illuminates its own level; none bridges the full span.
+Each regime is partially accessible on its own terms. Quantum biology experiments can probe microtubule coherence, and a recent review marshals evidence that functionally relevant quantum effects occur in microtubules at room temperature (Wiest, 2025). Neural imaging can observe network-level correlates of decisions. Chaotic dynamics analysis can characterise the middle of the chain statistically. The amplification void is defined by the gap between these partial approaches. Each illuminates its own level; none bridges the full span.
 
 ## An Ally in the Noise
 
@@ -121,7 +121,7 @@ The amplification void is both **Unexplorable** and potentially **Occluded** in 
 1. Sabbadini, S.A. & Vitiello, G. (2023). "A Quantum–Classical Model of Brain Dynamics." *Entropy*, 25(4), 592.
 2. Tegmark, M. (2000). "Importance of quantum decoherence in brain processes." *Physical Review E*, 61(4), 4194-4206.
 3. Stapp, H.P. (2009). "A Model of the Quantum–Classical and Mind–Brain Connections, and the Role of the Quantum Zeno Effect in the Physical Implementation of Conscious Intent." In *Mind, Matter and Quantum Mechanics* (3rd ed.), Springer.
-4. Hameroff, S. & Penrose, R. (2025). "A quantum microtubule substrate of consciousness is experimentally supported and solves the binding and epiphenomenalism problems." *Neuroscience of Consciousness*, 2025(1).
+4. Wiest, M.C. (2025). "A quantum microtubule substrate of consciousness is experimentally supported and solves the binding and epiphenomenalism problems." *Neuroscience of Consciousness*, 2025(1), niaf011.
 5. McDonnell, M.D. & Abbott, D. (2009). "What Is Stochastic Resonance?" *PLOS Computational Biology*.
 6. Carruthers, P. (2011). *The Opacity of Mind: An Integrative Theory of Self-Knowledge*. Oxford University Press.
 7. McFadden, J. & Al-Khalili, J. (2018). "The origins of quantum biology." *Proceedings of the Royal Society A*, 474(2220).
