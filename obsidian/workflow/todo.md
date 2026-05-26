@@ -65,13 +65,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: staleness
 - **Generated**: 2026-05-26
 
-### P2: Propagate Garrison 2013 + Rodriguez-Larios 2020 citation fixes across the meditation cluster
-- **Type**: refine-draft
-- **Status**: pending
-- **Notes**: Discovered during the 2026-05-26 deep-review of `topics/the-observer-witness-in-meditation.md` (now fixed there). Two misattributed citations propagated from the source research note `research/meditation-observer-witness-phenomenon-2026-01-18.md` to sibling articles. (1) **Hasenkamp → Garrison**: the 2013 "Effortless awareness: using real time neurofeedback..." paper (*Frontiers in Human Neuroscience*, 7, 440) is first-authored by **Kathleen A. Garrison** (Garrison, Santoyo, Davis, Thornhill, Kerr, Brewer); Wendy Hasenkamp was the editor, not an author — a prominent-name-magnet conflation with the real Hasenkamp et al. (2012) *NeuroImage* 59(1):750-760 mind-wandering paper (correctly cited in `phenomenology-of-returning-attention.md`). (2) **Wong → Rodriguez-Larios + wrong article number**: the 2020 *Scientific Reports* paper "From thoughtless awareness to effortful cognition: alpha-theta cross-frequency dynamics..." is authored by **Julio Rodriguez-Larios et al.** (no author named Wong), article number **5419** not 2095 (DOI 10.1038/s41598-020-62392-2). Files still carrying errors: `concepts/meditation-and-consciousness-modes.md` (BOTH errors, ref lines ~285-286); `concepts/witness-consciousness.md` (Wong→Rodriguez-Larios ONLY at ref line ~227 — Garrison already correct there at line 218); `research/meditation-observer-witness-phenomenon-2026-01-18.md` (BOTH, ref lines ~286, 297 — fix to stop re-propagation). After fixing, grep the corpus for residual `Hasenkamp, W., et al. (2013)`, `Wong, K. F.`, and `10, 2095` to confirm full cleanup. Citation integrity only, not build-breaking.
-- **Source**: deep-review (incidental finding)
-- **Generated**: 2026-05-26
-
 ### P3: Condense concepts/functionalism.md (soft_warning, 3017 words)
 - **Type**: condense
 - **Status**: pending
@@ -3728,6 +3721,10 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 Tasks that failed 3+ times and require human intervention.
 
+
+### ✓ 2026-05-26: Propagate Garrison 2013 + Rodriguez-Larios 2020 citation fixes across the meditation cluster
+- **Type**: refine-draft
+- **Notes**: Discovered during the 2026-05-26 deep-review of `topics/the-observer-witness-in-meditation.md` (now fixed there). Two misattributed citations propagated from the source research note `research/meditation-observer-witness-phenomenon-2026-01-18.md` to sibling articles. (1) **Hasenkamp → Garrison**: the 2013 "Effortless awareness: using real time neurofeedback..." paper (*Frontiers in Human Neuroscience*, 7, 440) is first-authored by **Kathleen A. Garrison** (Garrison, Santoyo, Davis, Thornhill, Kerr, Brewer); Wendy Hasenkamp was the editor, not an author — a prominent-name-magnet conflation with the real Hasenkamp et al. (2012) *NeuroImage* 59(1):750-760 mind-wandering paper (correctly cited in `phenomenology-of-returning-attention.md`). (2) **Wong → Rodriguez-Larios + wrong article number**: the 2020 *Scientific Reports* paper "From thoughtless awareness to effortful cognition: alpha-theta cross-frequency dynamics..." is authored by **Julio Rodriguez-Larios et al.** (no author named Wong), article number **5419** not 2095 (DOI 10.1038/s41598-020-62392-2). Files still carrying errors: `concepts/meditation-and-consciousness-modes.md` (BOTH errors, ref lines ~285-286); `concepts/witness-consciousness.md` (Wong→Rodriguez-Larios ONLY at ref line ~227 — Garrison already correct there at line 218); `research/meditation-observer-witness-phenomenon-2026-01-18.md` (BOTH, ref lines ~286, 297 — fix to stop re-propagation). After fixing, grep the corpus for residual `Hasenkamp, W., et al. (2013)`, `Wong, K. F.`, and `10, 2095` to confirm full cleanup. Citation integrity only, not build-breaking.
 
 ### ✓ 2026-05-26: Install conscious-vs-unconscious-processing ↔ visual-consciousness reciprocal cross-link
 - **Type**: refine-draft

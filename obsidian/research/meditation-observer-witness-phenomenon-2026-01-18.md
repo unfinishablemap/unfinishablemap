@@ -4,6 +4,7 @@ created: 2026-01-18
 draft: false
 ai_contribution: 100
 ai_system: claude-opus-4-5-20251101
+ai_modified: 2026-05-26T00:00:00+00:00
 ---
 
 # Research: Meditation and the Observer-Witness Phenomenon
@@ -283,7 +284,7 @@ Before synthesis articles, further research would strengthen the analysis:
 - Brewer, J. A., et al. (2011). Meditation experience is associated with differences in default mode network activity and connectivity. *PNAS*, 108(50). https://www.pnas.org/doi/10.1073/pnas.1112029108
 - Dahl, C. J., Lutz, A., & Davidson, R. J. (2015). Reconstructing and deconstructing the self: Cognitive mechanisms in meditation practice. *Trends in Cognitive Sciences*, 19(9). https://pmc.ncbi.nlm.nih.gov/articles/PMC4595910/
 - Gupta, B. (1998). *The Disinterested Witness: A Fragment of Advaita Vedanta Phenomenology*. Northwestern University Press. https://nupress.northwestern.edu/9780810115651/the-disinterested-witness/
-- Hasenkamp, W., et al. (2013). Effortless awareness: Using real time neurofeedback to investigate correlates of posterior cingulate cortex activity in meditators' self-report. *Frontiers in Human Neuroscience*, 7. https://www.frontiersin.org/journals/human-neuroscience/articles/10.3389/fnhum.2013.00440/full
+- Garrison, K. A., et al. (2013). Effortless awareness: Using real time neurofeedback to investigate correlates of posterior cingulate cortex activity in meditators' self-report. *Frontiers in Human Neuroscience*, 7, 440. https://www.frontiersin.org/journals/human-neuroscience/articles/10.3389/fnhum.2013.00440/full
 - Krishnamurti, J. Choiceless awareness. Wikipedia. https://en.wikipedia.org/wiki/Choiceless_awareness
 - Laukkonen, R. E., & Slagter, H. A. (2024). Deconstructing the self and reshaping perceptions: An intensive whole-brain 7T MRI case study. *NeuroImage*. https://www.sciencedirect.com/science/article/pii/S1053811924004658
 - Manna, A., et al. (2010). Neural correlates of focused attention and cognitive monitoring in meditation. *Brain Research Bulletin*, 82(1-2). https://pubmed.ncbi.nlm.nih.gov/20223285/
@@ -294,4 +295,7 @@ Before synthesis articles, further research would strengthen the analysis:
 - Stanford Encyclopedia of Philosophy. Phenomenological Approaches to Self-Consciousness. https://plato.stanford.edu/entries/self-consciousness-phenomenological/
 - Tang, Y. Y., et al. (2014). Neural mechanisms of mindfulness and meditation. *PMC*. https://pmc.ncbi.nlm.nih.gov/articles/PMC4109098/
 - Treves, I. N., et al. (2024). The Mindful Brain: Neural Correlates of Trait Mindfulness. https://meditation.mgh.harvard.edu/files/Treves_24_JournalOfCognitiveNeuroscience.pdf
-- Wong, K. F., et al. (2020). From thoughtless awareness to effortful cognition: alpha-theta cross-frequency dynamics. *Scientific Reports*. https://www.nature.com/articles/s41598-020-62392-2
+- Rodriguez-Larios, J., et al. (2020). From thoughtless awareness to effortful cognition: alpha-theta cross-frequency dynamics in experienced meditators during meditation, rest and arithmetic. *Scientific Reports*, 10, 5419. https://www.nature.com/articles/s41598-020-62392-2
+
+<!-- CITATION GUARDRAIL (do not remove): 2013 effortless-awareness paper: first author is Garrison, K.A.; Hasenkamp was the editor — cite as Garrison et al., NOT Hasenkamp. 2020 alpha-theta paper: Rodriguez-Larios et al., Sci Reports art# 5419, NOT Wong / NOT 2095. -->
+

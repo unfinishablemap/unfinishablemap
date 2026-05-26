@@ -4,7 +4,7 @@ description: "Two modes of consciousness: active selection through attention and
 created: 2026-01-18
 modified: 2026-01-21
 human_modified: null
-ai_modified: 2026-05-15T16:01:00+00:00
+ai_modified: 2026-05-26T00:00:00+00:00
 draft: false
 topics:
   - "[[topics/free-will]]"
@@ -282,8 +282,8 @@ FA meditation strengthens selection. OM meditation cultivates witnessing. Both a
 ## References
 
 1. Brewer, J. A., et al. (2011). Meditation experience is associated with differences in default mode network activity and connectivity. *PNAS*, 108(50).
-2. Hasenkamp, W., et al. (2013). Effortless awareness: Using real time neurofeedback to investigate correlates of posterior cingulate cortex activity in meditators' self-report. *Frontiers in Human Neuroscience*, 7.
-3. Wong, K. F., et al. (2020). From thoughtless awareness to effortful cognition: alpha-theta cross-frequency dynamics. *Scientific Reports*.
+2. Garrison, K. A., et al. (2013). Effortless awareness: Using real time neurofeedback to investigate correlates of posterior cingulate cortex activity in meditators' self-report. *Frontiers in Human Neuroscience*, 7, 440.
+3. Rodriguez-Larios, J., et al. (2020). From thoughtless awareness to effortful cognition: alpha-theta cross-frequency dynamics in experienced meditators during meditation, rest and arithmetic. *Scientific Reports*, 10, 5419.
 4. Stapp, H. P. (2007). *Mindful Universe: Quantum Mechanics and the Participating Observer*. Springer.
 5. Gupta, B. (1998). *The Disinterested Witness: A Fragment of Advaita Vedanta Phenomenology*. Northwestern University Press.
 6. Schwartz, J. M. & Begley, S. (2002). *The Mind and the Brain: Neuroplasticity and the Power of Mental Force*. HarperCollins.

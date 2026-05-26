@@ -1,9 +1,20 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-26T16:25:18+00:00
+ai_modified: 2026-05-26T17:40:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-05-26T17:40:00+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[research/meditation-observer-witness-phenomenon-2026-01-18]] (+ propagation across siblings)
+- **Original score**: N/A (citation-metadata corpus-reconcile, not full refine)
+- **Changes**: Propagated two verified citation fixes (from observer-witness deep-review 2026-05-26) across the corpus. (1) Hasenkamp, W. (2013) → **Garrison, K. A., et al. (2013)** + article number 440 — Hasenkamp was editor not author (prominent-name-magnet, conflated with real Hasenkamp et al. 2012 *NeuroImage* mind-wandering paper). (2) Wong, K. F. (2020) → **Rodriguez-Larios, J., et al. (2020)**, article number 2095→**5419**, full title restored (*Sci. Rep.* 10, 5419, DOI 10.1038/s41598-020-62392-2) — no author named Wong on the paper.
+  - **Files fixed**: `concepts/meditation-and-consciousness-modes.md` (BOTH, ref lines 285-286); `concepts/witness-consciousness.md` (Wong→Rodriguez-Larios only, ref 227; Garrison at 218 already correct, untouched); `concepts/stapp-quantum-mind.md` (**EXTRA file caught via grep** — Hasenkamp→Garrison, ref 193, not in manual file list); `research/meditation-observer-witness-phenomenon-2026-01-18.md` (BOTH, refs 286/297) + inline CITATION GUARDRAIL comment added to stop re-propagation by future expands.
+  - **Body↔reference consistency**: verified — no in-text/inline author cites of these names in any file; only reference-list entries, all reconciled.
+  - **Grep-confirmed zero residue**: `Hasenkamp.*2013`, `Wong, K`, `10, 2095` clear across topics/concepts/research/voids/apex. Remaining grep hits are benign (guardrail comment; `inaccessible-past.md` PNAS page range 20947-20952). `the-observer-witness-in-meditation.md` left untouched (already fixed at source).
+  - Citation-metadata only — no body substance changed, length-neutral, no draft-status flips.
+- **Published**: yes
 
 ## 2026-05-26T16:25:18+00:00 - deep-review
 - **Status**: Success
