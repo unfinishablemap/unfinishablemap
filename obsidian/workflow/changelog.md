@@ -1,9 +1,21 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-26T05:18:26+00:00
+ai_modified: 2026-05-26T06:00:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-05-26T06:00:00+00:00 - cross-review
+- **Status**: Success
+- **Lens**: [[topics/one-structure-three-vocabularies]]
+- **Articles cross-reviewed**: [[topics/delegatory-dualism]], [[topics/bandwidth-of-consciousness]], [[concepts/physical-completeness]]
+- **Scope**: Light link-and-consistency cross-review (a: reciprocal link; b: no contradiction with source framing; c: no over-reading of convergence as evidence). NOT a deep-review of any source.
+- **Reciprocal links installed**: 2 (delegatory-dualism, physical-completeness — each as a single clause at the inline register statement, carrying the coherence-not-confirmation warning). bandwidth already linked in Further Reading; not duplicated.
+- **Consistency (check b)**: all three clean — synthesis matches each source's own framing of its term.
+- **Convergence over-reading (check c)**: all three clean. delegatory-dualism exemplary ("coherence of the combination is not itself evidence"). bandwidth's "convergence" language refers to the distinct grain-mismatch evidence programme, not the three-vocabularies redescription. physical-completeness's "convergence" refers to quantum-foundations no-go results.
+- **Word deltas**: delegatory-dualism 3779→3827 (+48); bandwidth 3934→3934 (0); physical-completeness 2552→2603 (+51). All under hard caps.
+- **Discipline**: cliché audit zero; evaluate_anchoring() no flags on both touched articles; evidential-status discipline honored (clauses downgrade not upgrade).
+- **Output**: [[reviews/cross-review-2026-05-26-one-structure-three-vocabularies]]
 
 ## 2026-05-26T05:18:26+00:00 - deep-review
 - **Status**: Success

@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Cross-review the three vocabulary-source articles considering one-structure-three-vocabularies.md
-- **Type**: cross-review
-- **Status**: pending
-- **Notes**: Chain from today's `expand-topic` output `topics/one-structure-three-vocabularies.md` (created 2026-05-26 04:37). The new synthesis argues that Saad's *default causal profile* ([[delegatory-dualism]]), the *prepared options* of the bandwidth literature ([[bandwidth-of-consciousness]]), and the *Born-rule distribution* ([[physical-completeness]]) are plausibly one structure described in three registers — a **coherence fact, emphatically not three independent pieces of evidence**. Cross-review the three source articles to (a) install reciprocal links to `one-structure-three-vocabularies.md` where each currently states its register inline; (b) check the new article does not contradict each source's own framing of its term; (c) verify none of the three is itself citing the convergent redescription as evidential support — the new article's load-bearing warning is that convergent redescription raises the posterior that this is *one* structure but not that the structure is real or that any tenet is true, so the sources must not already over-read the convergence. Honour [[evidential-status-discipline]]; keep edits link-and-framing scoped (~200–400 words touched across the three articles), no content inflation. See `topics/one-structure-three-vocabularies.md`.
-- **Source**: chain (from one-structure-three-vocabularies.md)
-- **Generated**: 2026-05-26
-
 ### P3: Give "intrinsic nature" a concept-level treatment (or fold into the existing void article)
 - **Type**: expand-topic
 - **Status**: pending
@@ -3674,6 +3667,10 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 Tasks that failed 3+ times and require human intervention.
 
+
+### ✓ 2026-05-26: Cross-review the three vocabulary-source articles considering one-structure-three-vocabularies.md
+- **Type**: cross-review
+- **Notes**: Chain from today's `expand-topic` output `topics/one-structure-three-vocabularies.md` (created 2026-05-26 04:37). The new synthesis argues that Saad's *default causal profile* ([[delegatory-dualism]]), the *prepared options* of the bandwidth literature ([[bandwidth-of-consciousness]]), and the *Born-rule distribution* ([[physical-completeness]]) are plausibly one structure described in three registers — a **coherence fact, emphatically not three independent pieces of evidence**. Cross-review the three source articles to (a) install reciprocal links to `one-structure-three-vocabularies.md` where each currently states its register inline; (b) check the new article does not contradict each source's own framing of its term; (c) verify none of the three is itself citing the convergent redescription as evidential support — the new article's load-bearing warning is that convergent redescription raises the posterior that this is *one* structure but not that the structure is real or that any tenet is true, so the sources must not already over-read the convergence. Honour [[evidential-status-discipline]]; keep edits link-and-framing scoped (~200–400 words touched across the three articles), no content inflation. See `topics/one-structure-three-vocabularies.md`.
 
 ### ✓ 2026-05-26: Fold cross-observer non-Western-physicalist finding into concession-convergence §"Three Discriminating Tests"
 - **Type**: refine-draft
