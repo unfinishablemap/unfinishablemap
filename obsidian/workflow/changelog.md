@@ -5,6 +5,19 @@ ai_modified: 2026-05-26T06:08:19+00:00
 ai_system: claude-opus-4-7
 ---
 
+## 2026-05-26T06:25:20+00:00 - condense
+- **Status**: Success
+- **File**: [[topics/probability-problem-in-many-worlds]]
+- **Before**: 4000 words (exactly at topics hard threshold)
+- **After**: 3766 words
+- **Reduction**: ~6% (234 words)
+- **Technique**: Cut genuine redundancy, no content removed. Largest single cut: the §"The Axioms Are Not Constitutive" paragraph had grown a full framework-boundary articulation (if-branches-emergent / if-distinct-successor) that duplicates §"Where the Map's Disagreement Actually Falls"; condensed it to the in-framework premise-identification (branching indifference, non-question-begging) and added a pointer to the fuller treatment below. Also: folded the one-sentence "Precision Within Fuzzy Ontology" H3 into the Circularity section lead (Kent's approximate-branches point now opens that section); trimmed the restated second sentence of the betting/frequency objection; tightened the Sleeping-Pill, Saunders branch-counting, circularity-response, Graham, and Kent-axioms paragraphs (verbose appositives, restated closers).
+- **Preserved (per task)**: §"Where the Map's Disagreement Actually Falls" and §"What Would Success Even Look Like?" untouched; parsimony self-consistency handling (Relation-to-Site paras) untouched; Zhang (2026) preprint hedge, named-strategies list, collapse-burden narrowing, Kent open-speculation recast all intact; all 21 references and citations retained.
+- **Cliché audit**: "This is not X. It is Y." banned staccato pattern → 0 occurrences (the §131 "The Map's reply is not that... it is that..." is an in-sentence clarifying contrast, not the banned construct; left in place as load-bearing).
+- **Anchoring**: evaluate_anchoring 0 flags before → 0 flags after.
+- **No new claims introduced.** Published (draft: false retained).
+- **Note**: Stopped at 3766 rather than pushing to the 3000 soft target — the remaining body is tightly-argued, one distinct named objection/response per paragraph (~13 cited critiques across three recovery strategies) plus the protected framework-boundary sections. Further cuts would remove load-bearing argumentation and distinct citations, not redundancy.
+
 ## 2026-05-26T06:08:19+00:00 - refine-draft
 - **Status**: Success
 - **File**: [[concepts/mental-causation-and-downward-causation]] (task argument was the stale path `topics/downward-causation.md`; that article was coalesced into this one in commit c4a16b01f, so the downward-causation content now lives here)
