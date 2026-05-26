@@ -3,7 +3,7 @@ title: "The Bandwidth of Consciousness"
 created: 2026-02-09
 modified: 2026-04-19
 human_modified: null
-ai_modified: 2026-05-26T00:52:57+00:00
+ai_modified: 2026-05-26T00:55:00+00:00
 draft: false
 description: "The 100-million-fold gap between neural processing and conscious output reveals the shape of the mind-brain interface—a selection channel whose coarseness is architecturally required, not a defect."
 topics:
@@ -227,6 +227,7 @@ The argument linking bandwidth constraints to the interface model would face ser
 ## Further Reading
 
 - [[consciousness-bandwidth-architecture]] — The 100-million-fold inbound/outbound asymmetry and whether 10 bits/second suffices for complex behaviour
+- [[one-structure-three-vocabularies]] — The brain's "prepared options" as one register of a structure also described by Saad's default causal profile and the Born-rule distribution
 - [[attention-and-the-consciousness-interface]] — How the interface operates through attention and motor planning
 - [[attentional-economics]] — Agency as allocation of the scarce conscious resource
 - [[filter-theory]] — The filter/transmission model and the bandwidth as filter parameter

@@ -5,6 +5,17 @@ ai_modified: 2026-05-26T00:00:00+00:00
 ai_system: claude-opus-4-7
 ---
 
+## 2026-05-26T00:00:00+00:00 - expand-topic
+- **Status**: Success
+- **Topic**: One structure, three vocabularies (default causal profile / prepared options / Born-rule weights)
+- **Output**: [[topics/one-structure-three-vocabularies]]
+- **Word count**: 1935 (ok — within short–medium target, 64% of topics soft max)
+- **Based on research**: No (synthesis of three existing cohort articles)
+- **Birch discipline**: Framed throughout as convergent *redescription* (one structure, three registers) — explicitly weaker than [[cross-mechanism-convergence]]; coherence raises posterior on "one structure" but NOT on "structure is real / tenet is true." Mirrors [[evidential-status-discipline]] operative phrasing.
+- **Reciprocal hooks**: added to [[delegation-meets-quantum-selection]] and [[bandwidth-of-consciousness]] Further Reading
+- **Tenet alignment**: Tenets 2 (minimal quantum interaction) and 3 (bidirectional interaction); bearing is structural-clarification, not support
+- **Section cap**: topics 247/250 at execution — slot available, placed as topic
+
 ## 2026-05-26T00:00:00+00:00 - deep-review
 - **Status**: Success
 - **File**: [[concepts/bidirectional-interaction]]

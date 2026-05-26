@@ -4,7 +4,7 @@ description: "Causal delegation provides the logical structure of mental causati
 created: 2026-04-13
 modified: 2026-04-13
 human_modified:
-ai_modified: 2026-05-20T10:43:50+00:00
+ai_modified: 2026-05-26T00:00:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -110,6 +110,7 @@ The delegation-selection bridge integrates multiple tenets into a unified accoun
 
 ## Further Reading
 
+- [[one-structure-three-vocabularies]] — The default causal profile, prepared options, and Born-rule weights as one structure in three registers (coherence, not confirmation)
 - [[delegatory-causation]] — The causal structure: preemption, default causal profile, and the Subset Law*
 - [[delegatory-dualism]] — Saad's full theory including five constraints
 - [[consciousness-selecting-neural-patterns]] — The selection mechanism in detail
