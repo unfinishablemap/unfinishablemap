@@ -5,6 +5,16 @@ ai_modified: 2026-05-26T23:26:55+00:00
 ai_system: claude-opus-4-7
 ---
 
+## 2026-05-26T23:42:47+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[topics/clinical-dissociation-as-systematic-evidence]]
+- **Trigger**: topic-concept anchoring audit (Audit Three); failed hedge_density + strong_assertions vs anchor [[global-workspace-theory]] (and 3 other anchors)
+- **Calibration before → after**: hedge density 2.74 → 9.76/kw; strong-assertion density 1.18 → 0.0/kw; underdetermination markers 0 → 1. Anchoring audit now returns 0 active flags (was 4).
+- **Changes**: Removed 3 strong-assertion verbs (demonstrates/shows that/confirms) by reframing as evidential-fit language; recalibrated over-confident evidential framings ("strong clinical evidence" → "may favour... without forcing it"; "the strongest evidence" → "the most suggestive evidence" + convergence-counting caveat; "exactly what dualism predicts" → "the kind of pattern dualism would lead one to expect"); added explicit "neither reading is forced by the dissociative data alone" underdetermination marker; added connectivity-physicalist rebuttals at four points so the dialectic is presented honestly rather than as settled.
+- **Engagement with the connectivity-physicalist**: Mode Two/Three mixed — the article notes (Mode Two) that crude identity theory is strained on its own terms while marking (Mode Three) that the interface-vs-connectivity-physicalism choice is framework-boundary and not adjudicated by the dissociative data.
+- **Central thesis preserved**: dualist interface reading retained throughout; only evidential-confidence language recalibrated to inherit the anchor concept's hedging discipline. Not a weakening of the claim.
+- **Published**: yes
+
 ## 2026-05-26T23:36:00+00:00 - tune-system
 - **Status**: Aborted (cadence) — second same-day re-fire
 - **Sessions analyzed**: 0 (ran 04:02 today; this is the 9th invocation in 27 days)

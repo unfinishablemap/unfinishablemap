@@ -37,17 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Adopt global-workspace-theory calibration in clinical-dissociation-as-systematic-evidence
-- **Type**: refine-draft
-- **Status**: pending
-- **File**: obsidian/topics/clinical-dissociation-as-systematic-evidence.md
-- **Notes**: From topic-concept anchoring audit 2026-05-26. The topic article over-claims relative to its anchor concept [[global-workspace-theory]]; failed checks: hedge_density, strong_assertions.
-  - hedge density 2.74/kw is below 60% of anchor (10.15/kw)
-  - strong-assertion density 1.18/kw exceeds 1.5× anchor (0.44/kw)
-  - Action: bring the topic's hedge profile in line with the anchor concept's. Preserve the article's voice; this is not a request to weaken the central claim, only to inherit the calibration discipline the anchor concept already uses. See [[project/calibration-audit-triple]] Audit Three for the spec and [[evidential-status-discipline]] for the underlying rule.
-- **Source**: topic-concept-anchoring-audit
-- **Generated**: 2026-05-26
-
 ### P2: Adopt causal-closure calibration in falsification-roadmap-for-the-interface-model
 - **Type**: refine-draft
 - **Status**: pending
@@ -58,7 +47,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
   - Action: bring the topic's hedge profile in line with the anchor concept's. Preserve the article's voice; this is not a request to weaken the central claim, only to inherit the calibration discipline the anchor concept already uses. See [[project/calibration-audit-triple]] Audit Three for the spec and [[evidential-status-discipline]] for the underlying rule.
 - **Source**: topic-concept-anchoring-audit
 - **Generated**: 2026-05-26
-
 
 ### P2: Deep review topics/psychophysical-laws-bridging-mind-and-matter.md (40 days since last review, ai_contribution=100, Tenet 1/3 load-bearing)
 - **Type**: deep-review
@@ -3757,6 +3745,10 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 Tasks that failed 3+ times and require human intervention.
 
+
+### ✓ 2026-05-26: Adopt global-workspace-theory calibration in clinical-dissociation-as-systematic-evidence
+- **Type**: refine-draft
+- **Notes**: From topic-concept anchoring audit 2026-05-26. The topic article over-claims relative to its anchor concept [[global-workspace-theory]]; failed checks: hedge_density, strong_assertions.
 
 ### ✓ 2026-05-26: Deep review topics/trilemma-of-selection.md (40 days since last review, ai_contribution=100, Tenet 2/3 load-bearing)
 - **Type**: deep-review
