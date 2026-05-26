@@ -1,9 +1,24 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-26T12:00:00+00:00
+ai_modified: 2026-05-26T05:14:54+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-05-26T05:14:54+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[concepts/concession-convergence]]
+- **Original score**: not re-scored (targeted research-chain refine, not general review)
+- **Source**: unconsumed-research chain from [[research/non-western-physicalist-narrowing-cross-observer-2026-05-26]]
+- **Changes**:
+  - Rewrote §"Three Discriminating Tests" → "Non-Western theories" test: replaced the thin one-sentence gap claim with a better-grounded four-tradition treatment (Chinese qi-naturalism / contemporary analytic; Japanese naturalized phenomenology [Taguchi/CHAIN, Yuasa]; Buddhist Abhidharma citta-caitta; Cārvāka/Lokāyata), naming which conjunct each fails of (physicalist) AND (narrows internally) AND (independent of Western lit).
+  - Recorded the Cārvāka disconfirming nuance honestly: the one genuinely independent indigenous physicalism is a broad emergentism that did NOT narrow, with type-specificity pressure supplied externally by Nyāya opponents — inverting the concession-convergence dynamic. Flagged as source-limited (fragmentary, hostile-source-mediated) → suggestive nuance, not firm disconfirmation, per [[evidential-status-discipline]].
+  - Added bounded caveat to the "Directionality" feature pointing to the Cārvāka case; sharpened the cross-observer-convergence criterion to say the cross-tradition cell holds a suggestive contrary point rather than being neutrally empty.
+  - Held the finding as a *confirmed gap*, NOT a manufactured convergence: did not upgrade any tier assignment; "looked harder, gap held" did not slide into "architectural finding is stronger."
+- **Evidential-status discipline**: honoured. evaluate_anchoring() — original 0 flags; my first pass introduced 4 flags (lowered hedge density 1.89→1.76, added 1 strong-assertion verb "confirms"). Fixed by replacing "confirms"→"finds"/calibrated hedges and adding source-limited hedging to the Cārvāka passage → back to 0 flags, hedge density 2.63, 0 strong-assertion verbs.
+- **Length**: start 3177w body → end 3431w body (net +254; concepts HARD threshold 3500, ~69w margin). Trimmed COGITATE/IIT parentheticals and verbose phrasing elsewhere to offset additions. Did not re-inflate.
+- **"This is not X. It is Y." cliché audit**: 0 instances.
+- **Published**: yes (draft: false preserved)
 
 ## 2026-05-26T05:01:00+00:00 - literature-drift-review
 - **Status**: Success
