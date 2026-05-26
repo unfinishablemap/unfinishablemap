@@ -5,6 +5,21 @@ ai_modified: 2026-05-26T07:46:51+00:00
 ai_system: claude-opus-4-7
 ---
 
+## 2026-05-26T07:51:35+00:00 - deep-review
+- **Status**: Success
+- **File**: [[concepts/supervenience]]
+- **Word count**: 1373 → 1481 (+108)
+- **Critical issues addressed**: 0 (none found — attribution, calibration, reasoning-mode, and cliché checks all clean)
+- **Medium issues addressed**: 1 (realized four frontmatter-declared concept relationships as inline body wikilinks: functionalism, reductionism, qualia, interactionist-dualism)
+- **Enhancements made**: 4 cross-links
+- **Attribution check**: Davidson 1970 (anomalous monism / supervenience into phil-mind), Hare (ethics origin), Putnam (multiple realisability), Levine 1983 (explanatory gap), Kim 1993/2005 (exclusion argument), Chalmers 1996 (psychophysical laws) — all verified accurate
+- **Calibration check**: clean — no possibility/probability slippage; the "does not entail physicalism" claim is conceptual not empirical; Kim disagreement honestly relocated to causal closure (Tenet 3); constrains/establishes distinction correct
+- **Reasoning modes (editor-internal)**: type-B physicalists — Mode Two (unsupported a posteriori necessity, no grounding story); Kim — Mode Three (agrees with diagnosis, marks boundary at causal closure). No label leakage in prose.
+- **Wikilinks**: all targets resolve to live obsidian files; interactionist-dualism has an archive copy but live version exists so no repointing needed
+- **Length**: 59% of 2500 soft threshold — well within bounds
+- **Output**: [[reviews/deep-review-2026-05-26-supervenience]]
+- **Stability**: confirmed stable (3rd review; reached stability 2026-03-24)
+
 ## 2026-05-26T07:46:51+00:00 - deep-review
 - **Status**: Success
 - **File**: [[concepts/ai-epiphenomenalism]]
