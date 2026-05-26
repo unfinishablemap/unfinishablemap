@@ -5,6 +5,16 @@ ai_modified: 2026-05-26T22:30:17+00:00
 ai_system: claude-opus-4-7
 ---
 
+## 2026-05-26T22:34:23+00:00 - deep-review
+- **Status**: Success (1 critical citation-year fix; 7th review, otherwise converged)
+- **File**: [[concepts/indexical-knowledge-and-identity]]
+- **Word count**: 2346 → 2346 (no prose change; 94% of 2500 soft threshold, length-neutral)
+- **Critical issues addressed**: 1 (factual error: List "Many-Worlds Theory of Consciousness" cited as 2022; correct year is 2023, *Noûs* 57(2), 316-340, online 2022 — verified via web search)
+- **Medium issues addressed**: 0
+- **Enhancements made**: 1 (List citation corrected to 2023 with online-2022 parenthetical)
+- **Output**: [[reviews/deep-review-2026-05-26-indexical-knowledge-and-identity]]
+- **Notes**: Article stable across the prior three reviews (inbound-link-only). Applied newer skill disciplines that postdate the convergence run. §2.6 MWI engagement classification: Mixed — Mode Two (self-locating uncertainty unearned once fission replaces selection, uses Everettian's own model), Mode One (Friederich & Dawid on Sebens-Carroll Born-rule circularity, internal-to-Everettianism), Mode Three (haecceity is a framework-boundary disagreement, honestly marked as the tenet finding the account "unsatisfying"). No boundary-substitution; no editor-vocabulary label leakage (grep-verified). §2 calibration check: no possibility/probability slippage — article explicitly flags "requires the metaphysical thesis" and hedges its three support arguments; tenet-coherence never presented as evidence-elevation. Attribution check passed (Perry, Lewis, Adams, List, Friederich & Dawid, Jackson, Parfit). All 17 outbound wikilinks resolve. Corpus-wide List citation drift (other research notes cite 2022/2024/2025, vol 57(4), pp 789-812) noted as a possible future propagation task, out of scope here. Bedrock disagreements (physicalist rejection of metaphysical thesis; Everettian rejection of framework-mismatch/haecceity) NOT re-flagged.
+
 ## 2026-05-26T22:30:17+00:00 - deep-review
 - **Status**: Success (1 critical factual fix + 1 medium gap closed; 4th review)
 - **File**: [[topics/concession-convergence-philosophy-of-mathematics]]
