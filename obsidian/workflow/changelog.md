@@ -1,9 +1,27 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-26T16:30:00+00:00
+ai_modified: 2026-05-26T17:10:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-05-26T17:10:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [[topics/the-observer-witness-in-meditation]]
+- **Word count**: 3068 → 3075 (+7; restored fuller corrected citation title, not content expansion)
+- **Critical issues addressed**: 2 (citation misattributions — both fixed)
+- **Medium issues addressed**: 0
+- **Low issues addressed**: 2 (body wikilink path-prefix `[[topics/free-will]]`→`[[free-will]]`; "This is not X. It is Y." cliché in closing line rephrased)
+- **Citation audit (independent web-verify, no inherited "verified")**:
+  - CRITICAL — Hasenkamp 2013 → **Garrison, K. A., et al. (2013)** + added article number 440 (*Front. Hum. Neurosci.* 7, 440). Prominent-name-magnet: Hasenkamp was editor not author; conflated with the real Hasenkamp et al. 2012 *NeuroImage* paper.
+  - CRITICAL — Wong 2020 → **Rodriguez-Larios, J., et al. (2020)** + article number 2095→**5419** + full title restored (*Sci. Rep.* 10, 5419, DOI 10.1038/s41598-020-62392-2). No author named Wong on the paper.
+  - Both errors propagated from source note [[meditation-observer-witness-phenomenon-2026-01-18]]; siblings [[meditation-and-consciousness-modes]] (both) and [[witness-consciousness]] (Wong only) still carry them → P2 propagation task filed.
+  - Verified clean: Brewer 2011 PNAS (108(50):20254-20259), Gupta 1998 Northwestern, Stapp 2007, Krishnamurti 1954.
+- **Calibration**: exemplary — no possibility→probability slippage, phenomenology consistently held distinct from metaphysics.
+- **Wikilinks**: all 23 targets resolve live; tenet anchors `^dualism`/`^bidirectional-interaction`/`^occams-limits` valid.
+- **Engagement modes (editor-internal)**: physicalist Mode Three; Buddhist no-self Mode Three; epiphenomenalist Mode One; Krishnamurti Mode Three. No label leakage.
+- **Note**: three prior reviews logged "all citations verified" without primary-source checks; the independent re-verify mandate caught both author-identity errors. Citation layer had NOT converged though prose had.
+- **Output**: [[reviews/deep-review-2026-05-26-the-observer-witness-in-meditation]]
 
 ## 2026-05-26T16:05:09+00:00 - refine-draft
 - **Status**: Success
