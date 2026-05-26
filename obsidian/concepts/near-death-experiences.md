@@ -4,7 +4,7 @@ description: "Vivid conscious experiences during cardiac arrest challenge brain-
 created: 2026-01-15
 modified: 2026-01-15
 human_modified: null
-ai_modified: 2026-04-06T16:36:00+00:00
+ai_modified: 2026-05-26T12:52:39+00:00
 draft: false
 topics:
   - "[[death-and-consciousness]]"
@@ -26,12 +26,14 @@ related_articles:
   - "[[personal-identity]]"
   - "[[near-death-experiences-consciousness-2026-01-15]]"
   - "[[death-and-consciousness]]"
+  - "[[consciousness-under-extreme-metabolic-constraint]]"
+  - "[[consciousness-disruption-and-the-mind-brain-interface]]"
 ai_contribution: 100
 author: null
 ai_system: claude-opus-4-5-20251101
 ai_generated_date: 2026-01-15
 last_curated: null
-last_deep_review: 2026-04-06T16:36:00+00:00
+last_deep_review: 2026-05-26T12:52:39+00:00
 ---
 
 Near-death experiences (NDEs) are vivid cognitive events whose prevalence depends on definition and study design. Van Lommel et al. (2001) found 18% of cardiac arrest survivors reporting NDEs. AWARE II (Parnia et al. 2023) found that among the small subset who completed interviews (28 of 567 cardiac arrest patients), 39% reported some form of conscious awareness during arrest—though this figure reflects a self-selected sample and cannot be generalized to all survivors. A 2022 multidisciplinary consensus established standardized terminology ("Recalled Experience of Death"), followed by multi-site prospective studies and EEG evidence showing consciousness-consistent brain activity during CPR. The key finding: people report heightened, coherent experiences during severe cerebral ischemia—when brain function should be deeply compromised. This doesn't prove consciousness survives death, but it challenges simple brain-production models and supports The Unfinishable Map's [[tenets#^dualism|Dualism]] and [[tenets#^occams-limits|Occam's Razor Has Limits]] tenets.

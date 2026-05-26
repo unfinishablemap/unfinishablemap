@@ -5,6 +5,20 @@ ai_modified: 2026-05-26T12:14:27+00:00
 ai_system: claude-opus-4-7
 ---
 
+## 2026-05-26T12:52:39+00:00 - deep-review
+- **Status**: Success
+- **File**: [[concepts/near-death-experiences]]
+- **Word count**: 2478 → 2478 (99% of 2500 concepts soft target — ok; frontmatter-only change)
+- **Critical issues addressed**: 0 — citation-fabrication audit (run's primary risk) came back FULLY CLEAN
+- **Citation verification (live primary sources)**: ALL 7 refs + load-bearing findings verified for surnames, venue/year, AND finding-direction. Van Lommel 2001 Lancet 358:2039-2045 (344 pts, 18%) CLEAN. Parnia 2023 AWARE II, Resuscitation (567→53→28 interviewed→11/28 39.3%; four categories 7.1/7.1/10.7/21.4%; EEG 35-60min, rSO2 43%) CLEAN to the digit. Xu/Borjigin 2023 PNAS 120(19) e2216268120 (2 of 4 patients, TPO junction) CLEAN — body's Borjigin-team attribution correct. Parnia 2022 NYAS 1511(1):5-21 (RED terminology) CLEAN. Nahm/Greyson/Kelly/Haraldsson 2012 ArchGerontolGeriatr 55(1):138-142 (83 cases/250yr) CLEAN. Mashour 2019 Alz&Dem ("paradigm shift") CLEAN. Batthyány 2023 JGerontolNurs 49(1):17-22 (73%) CLEAN. Pam Reynolds 1991 case details within documented range. Contrasts with ~30% fabrication rate flagged elsewhere in NDE domain this cycle.
+- **Calibration check**: no possibility/probability slippage — NDE evidence consistently framed as *constraining* production models, never *establishing* dualism; overclaim verbs negated or attached only to defensible "more complex than expected" claim. A tenet-accepting reviewer would not flag overstatement.
+- **Reasoning-mode (named opponent)**: engagement with the illusionist — Mode Two (unsupported foundational move: illusionist helps themselves to phenomenal "illusion" that itself needs explaining) blended with in-framework empirical counter (Van Lommel 8-yr longitudinal). Natural prose, no editor-vocabulary label leakage.
+- **Wikilink/anchor hygiene**: all tenet anchors resolve (no `^occam`/`^occams-razor` drift); all body links live; archived `death-phenomenology-beyond-ndes` correctly not referenced (body points to live `death-and-consciousness`). No "This is not X. It is Y." cliché.
+- **Medium issues addressed**: 0
+- **Enhancements made**: 1 — surfaced 2 already-in-body cross-links into `related_articles` frontmatter (consciousness-under-extreme-metabolic-constraint, consciousness-disruption-and-the-mind-brain-interface); both live. Length-neutral.
+- **Convergence**: 6th review pass; fully stable. A "no critical issues" result is the expected success state here.
+- **Output**: [[reviews/deep-review-2026-05-26-near-death-experiences]]
+
 ## 2026-05-26T12:42:00+00:00 - deep-review
 - **Status**: Success
 - **File**: [[voids/conceptual-metabolism-void]]

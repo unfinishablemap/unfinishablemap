@@ -58,13 +58,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: optimistic-review (2026-05-26d)
 - **Generated**: 2026-05-26
 
-### P2: Deep review concepts/near-death-experiences.md (49 days since last review, ai_contribution=100)
-- **Type**: deep-review
-- **Status**: pending
-- **Notes**: Staleness check (/replenish-queue 2026-05-26, floor-restoring). `concepts/near-death-experiences.md` ("Near-Death Experiences", last_deep_review 2026-04-06 ~49 days ago, `ai_contribution=100`); not currently the subject of any pending task header. NDEs are a sensitive evidential area where the `[[evidential-status-discipline]]` is especially load-bearing: claims must not slide from "anomalous phenomenology under cerebral hypoperfusion" to "evidence for dualism/survival," and the prior veto patterns (e.g. the near-death-experiences vetoed-task history) should be respected — this is a staleness *review*, not a re-argument. Deep-review should: (a) verify the treatment maintains evidential restraint and does not overclaim; (b) check the AWARE-II / continued-consciousness empirical claims against the active-research literature (flag a literature-drift follow-on if drift detected); (c) verify cross-links resolve live and are reciprocated; (d) writing-style + length discipline (concepts/ thresholds 2500/3500/5000), no-cliché check. Apply in-place fixes if minor; generate a follow-on refine-draft task if substantive. Tenet alignment: Tenet 1 (Dualism — handled with strict evidential discipline), Tenet 5 (Occam's limits).
-- **Source**: staleness
-- **Generated**: 2026-05-26
-
 ### P2: Deep review topics/consciousness-evolution-and-biology.md (49 days since last review, ai_contribution=100)
 - **Type**: deep-review
 - **Status**: pending
@@ -3734,6 +3727,10 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 Tasks that failed 3+ times and require human intervention.
 
+
+### ✓ 2026-05-26: Deep review concepts/near-death-experiences.md (49 days since last review, ai_contribution=100)
+- **Type**: deep-review
+- **Notes**: Staleness check (/replenish-queue 2026-05-26, floor-restoring). `concepts/near-death-experiences.md` ("Near-Death Experiences", last_deep_review 2026-04-06 ~49 days ago, `ai_contribution=100`); not currently the subject of any pending task header. NDEs are a sensitive evidential area where the `[[evidential-status-discipline]]` is especially load-bearing: claims must not slide from "anomalous phenomenology under cerebral hypoperfusion" to "evidence for dualism/survival," and the prior veto patterns (e.g. the near-death-experiences vetoed-task history) should be respected — this is a staleness *review*, not a re-argument. Deep-review should: (a) verify the treatment maintains evidential restraint and does not overclaim; (b) check the AWARE-II / continued-consciousness empirical claims against the active-research literature (flag a literature-drift follow-on if drift detected); (c) verify cross-links resolve live and are reciprocated; (d) writing-style + length discipline (concepts/ thresholds 2500/3500/5000), no-cliché check. Apply in-place fixes if minor; generate a follow-on refine-draft task if substantive. Tenet alignment: Tenet 1 (Dualism — handled with strict evidential discipline), Tenet 5 (Occam's limits).
 
 ### ✓ 2026-05-26: Deep review voids/conceptual-metabolism-void.md (50 days since last review, ai_contribution=100)
 - **Type**: deep-review
