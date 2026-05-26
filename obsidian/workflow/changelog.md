@@ -1,9 +1,23 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-26T07:46:51+00:00
+ai_modified: 2026-05-26T08:10:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-05-26T08:10:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [[concepts/physics-as-disclosure]]
+- **Word count**: 2012 → 2065 (+53)
+- **Critical issues addressed**: 1 (cross-article calibration mismatch — the Disclosure View paragraph said physical-completeness "establishes" via the no-go theorems that QM is "structurally exhaustive" and that the theorems "confirm" what lies beyond physics is non-structural; physical-completeness was refined to forbid exactly this, restricting the theorems to "of the avenues so far identified" and routing the beyond-physics conclusion through a separate contested modal premise. Rewrote to restore qualifiers, downgrade "establishes"→"argues", separate mathematical-result from contested-premise, replace "confirm" with explicit "rests on a separate, contested premise". Constrains-vs-establishes slippage — correctable inside the framework; tenet-accepting reviewer who read physical-completeness would still flag it)
+- **Medium issues addressed**: 1 (aligned "structural" vocabulary with physical-completeness sense-1 relational reading via "structural in the relational sense all the way down"; framed as contested premise)
+- **Attribution check**: Barrett 2007, Tomaz et al. 2025, Newton 1693, Bell/Kochen-Specker scope — all verified accurate and unchanged. Structural-realism literature (Ladyman/French, Russell, Worrall, Eddington) correctly deferred to sibling articles, not misattributed here
+- **Reasoning modes (editor-internal)**: no named-opponent replies (engages generic "deficiency reading"); Maudlin engagement lives in physical-completeness. N/A
+- **Wikilinks**: all 18 targets resolve to live obsidian files; none archive-only, no repointing needed
+- **Style**: "This is not X. It is Y." cliché absent; tenet anchors all verified present
+- **Cross-link consistency**: cluster (physics-as-disclosure / physical-completeness / completeness-in-physics-under-dualism) now shares a consistent constrains-vs-establishes calibration register
+- **Length**: 83% of 2500 soft threshold — normal mode
+- **Output**: [[reviews/deep-review-2026-05-26-physics-as-disclosure]]
 
 ## 2026-05-26T07:51:35+00:00 - deep-review
 - **Status**: Success
