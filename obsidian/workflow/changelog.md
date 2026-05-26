@@ -1,9 +1,19 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-26T21:37:28+00:00
+ai_modified: 2026-05-26T22:05:59+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-05-26T22:05:59+00:00 - deep-review
+- **Status**: Success (converged; no critical or medium issues; 2nd review)
+- **File**: [[voids/sleep-consciousness-void]]
+- **Word count**: 2609 → 2609 (no change; length-neutral, 130% of 2000 soft threshold)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 (frontmatter timestamps only)
+- **Output**: [[reviews/deep-review-2026-05-26-sleep-consciousness-void]]
+- **Notes**: Convergence review. Changes since 2026-04-06 review were mechanical (system-wide MWI indexicality reframe across 9 voids commit 3678ffbdc; wikilink redirects after disappearance-voids coalesce, commits 30fd5976f/f9ce4fee6) — verified accurate, not content-substantive. Verified Demirel et al. (2025) "Electrophysiological Correlates of Lucid Dreaming" *J. Neurosci.* 45(20) via web search against jneurosci.org/PubMed 40258661 — volume/issue/title/finding all match; correctly distinguished from the unrelated quantum-microtubule Demirel 2025 cited elsewhere on site. All wikilink anchors resolve (many-worlds#MWI's Branch-Relative Indexicality Reply x2, dream-consciousness#The Phenomenal Mode Tracking Pattern, 4 tenet anchors). Named-opponent engagements: physicalist — Mode Three; Many-Worlds defender — Mode Three (honest cross-branch-relation boundary-marking, consistent with tenets file); Dennett — Mode Three. No label leakage. Calibration check: MPE/contemplative-evidence section explicitly declines tenet→evidence upgrade ("do not prove ... but demonstrate ... more permeable") — no possibility/probability slippage; model of the tenet-coherent-not-evidence-elevating discipline. Article CONVERGED across two reviews; physicalist + MWI engagements are bedrock framework-boundary disagreements, not to be re-flagged.
 
 ## 2026-05-26T21:57:24+00:00 - deep-review
 - **Status**: Success (1 critical attribution error fixed; 2nd review)

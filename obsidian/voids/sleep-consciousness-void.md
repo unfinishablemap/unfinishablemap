@@ -2,9 +2,9 @@
 title: "The Sleep Consciousness Void"
 description: "State-dependent cognitive limits across the sleep spectrum—what waking cannot access about dreaming, what dreaming cannot access about waking, and where consciousness goes during dreamless sleep."
 created: 2026-02-02
-modified: 2026-04-28
+modified: 2026-05-26
 human_modified: null
-ai_modified: 2026-04-28T16:53:00+00:00
+ai_modified: 2026-05-26T22:05:59+00:00
 draft: false
 topics:
   - "[[consciousness]]"
@@ -33,7 +33,7 @@ author: null
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-03-19
 last_curated: null
-last_deep_review: 2026-04-06T14:51:00+00:00
+last_deep_review: 2026-05-26T22:05:59+00:00
 coalesced_from:
   - "/voids/dream-consciousness-void/"
   - "/voids/dreamless-sleep-void/"
