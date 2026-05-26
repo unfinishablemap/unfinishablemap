@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-23
-ai_modified: 2026-03-31 13:38:00+00:00
+ai_modified: 2026-05-26 12:11:38+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 coalesced_from:
@@ -31,7 +31,7 @@ description: 'Consciousness enables specific functions unconscious processing ca
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-03-31 13:38:00+00:00
+last_deep_review: 2026-05-26 12:11:38+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -45,7 +45,7 @@ topics:
 - '[[topics/free-will]]'
 ---
 
-If consciousness were merely an epiphenomenal byproduct of neural activity—along for the ride but making no functional difference—then unconscious processes should achieve everything conscious ones can. Yet the empirical evidence shows otherwise. A 2025 meta-analysis reanalyzed 80 experimental conditions from 16 fMRI studies and found that only 10% provided genuine evidence for unconscious processing. Consciousness is not a passive observer. It enables specific cognitive functions that unconscious processing cannot achieve: maintaining information in [working memory](/concepts/working-memory/) across time, combining operations in novel ways, and generating voluntary action. The very fact that you are reading and understanding these words—integrating meaning across sentences, holding context, deciding whether to continue—demonstrates consciousness at work.
+If consciousness were merely an epiphenomenal byproduct of neural activity—along for the ride but making no functional difference—then unconscious processes should achieve everything conscious ones can. Yet the empirical evidence shows otherwise. A 2025 meta-analysis reanalyzed 80 experimental conditions from 16 fMRI studies and found that only 10% provided genuine evidence for unconscious processing. Rather than riding along as a passive observer, consciousness enables specific cognitive functions that unconscious processing cannot achieve: maintaining information in [working memory](/concepts/working-memory/) across time, combining operations in novel ways, and generating voluntary action. The very fact that you are reading and understanding these words—integrating meaning across sentences, holding context, deciding whether to continue—demonstrates consciousness at work.
 
 These findings directly support the [Bidirectional Interaction](/tenets/#bidirectional-interaction) tenet—consciousness makes a causal difference to cognition and behavior. [Perceptual dissociations](/topics/dualist-perception/)—blindsight, inattentional blindness, subliminal processing—provide the clearest empirical cases of this conscious/unconscious divide.
 
@@ -162,7 +162,7 @@ Experimental evidence confirms this selective impairment: when conscious process
 
 ## Failed Neural Markers
 
-Not all proposed neural correlates of consciousness have survived scrutiny. The P3b event-related potential—a positive deflection around 350ms at centro-parietal electrodes—was initially proposed as a consciousness signature. But Kouider et al. (2016) surveyed evidence showing: (1) conscious perception can occur without P3b, and (2) P3b can occur for rigorously subliminal stimuli. The component likely marks decision-related or task-related processes rather than consciousness itself.
+Not all proposed neural correlates of consciousness have survived scrutiny. The P3b event-related potential—a positive deflection around 350ms at centro-parietal electrodes—was initially proposed as a consciousness signature. But Silverstein et al. (2015), using a rigorous subliminal oddball paradigm, found that P3b (and later slow-wave activity) can occur for stimuli participants cannot consciously discriminate—evidence that the component does not require conscious access. The P3b likely marks decision-related or task-related processes rather than consciousness itself, though its status remains contested (Naccache & Marti, 2016, defend it as a correlate of conscious access).
 
 The lesson: identifying reliable neural signatures of consciousness requires careful methodology distinguishing what tracks consciousness from what tracks attention, decision-making, or task requirements.
 
@@ -220,7 +220,7 @@ The three functions consciousness enables might require content NCCs (specific i
 
 The functional necessity of consciousness would be undermined if:
 
-1. **Unconscious integration was demonstrated reliably.** If complex novel combinations could be performed subliminally, the "novel combinations" criterion would fall. Current evidence suggests this has not been achieved (Zher-Wen & Tsuchiya, 2023).
+1. **Unconscious integration was demonstrated reliably.** If complex novel combinations could be performed subliminally, the "novel combinations" criterion would fall. Current evidence suggests this has not been achieved (Zher-Wen, 2023).
 
 2. **Blindsight achieved spontaneous action.** If blindsight patients could spontaneously use blind-field information without prompting, consciousness would be less functionally necessary. Current evidence: they cannot.
 
@@ -284,13 +284,14 @@ The 2025 reanalysis reveals that decades of "simpler" interpretations (extensive
 1. Dehaene, S., Lau, H., & Kouider, S. (2017). What is consciousness, and could machines have it? *Science*, 358(6362), 486-492.
 1. Koch, C., Massimini, M., Boly, M., & Tononi, G. (2016). Neural correlates of consciousness: Progress and problems. *Nature Reviews Neuroscience*, 17, 307-321.
 1. Kouider, S., & Dehaene, S. (2007). Levels of processing during non-conscious perception. *Philosophical Transactions of the Royal Society B*, 362(1481), 857-875.
-1. Kouider, S., Sackur, J., & de Gardelle, V. (2016). P3b, consciousness, and complex unconscious processing. *Consciousness and Cognition*, 36, 348-351.
+1. Silverstein, B. H., Snodgrass, M., Shevrin, H., & Kushwaha, R. (2015). P3b, consciousness, and complex unconscious processing. *Cortex*, 73, 216-227.
 1. Lamme, V. A. F. (2006). Towards a true neural stance on consciousness. *Trends in Cognitive Sciences*, 10(11), 494-501.
 1. Lieberman, M. D. (2007). Social cognitive neuroscience: A review of core processes. *Annual Review of Psychology*, 58, 259-289.
 1. Melloni, L., et al. (2025). Adversarial testing of global neuronal workspace and integrated information theories of consciousness. *Nature*, 642(8066), 133-142.
+1. Naccache, L., & Marti, S. (2016). Why the P3b is still a plausible correlate of conscious access? A commentary on Silverstein et al., 2015. *Cortex*, 85, 126-128.
 1. Overgaard, M., & Fazekas, P. (2022). The nature of blindsight: Implications for current theories of consciousness. *Neuroscience of Consciousness*, 2022(1), niab043.
 1. Pitts, M. A., Metzler, S., & Hillyard, S. A. (2019). Recurrent processing theory versus global neuronal workspace theory. *Neuroscience of Consciousness*, 2019(1), niz005.
 1. Randeniya, R. (2025). Neural correlates of unconscious processing in fMRI: Does brain activity contain more information than can be consciously reported? *Neuroscience of Consciousness*, 2025(1), niaf042.
 1. Stapp, H. P. (2007). *Mindful Universe: Quantum Mechanics and the Participating Observer*. Springer.
 1. Tomasello, M. (2014). *A Natural History of Human Thinking*. Harvard University Press.
-1. Zher-Wen, Y., & Tsuchiya, N. (2023). Unconscious integration: Current evidence for integrative processing under subliminal conditions. *British Journal of Psychology*, 114, 347-368.
+1. Zher-Wen (2023). Unconscious integration: Current evidence for integrative processing under subliminal conditions. *British Journal of Psychology*, 114(2), 430-456.

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-22
-ai_modified: 2026-04-06 20:07:00+00:00
+ai_modified: 2026-05-26 13:10:54+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -22,7 +22,7 @@ description: Apes have culture but may not know they have culture. The gap betwe
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-04-06 20:07:00+00:00
+last_deep_review: 2026-05-26 13:10:54+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -33,7 +33,7 @@ topics:
 - '[[ai-consciousness]]'
 ---
 
-Apes have culture but may not know they have culture. This is the Jourdain Hypothesis, named after Monsieur Jourdain in Molière's *Le Bourgeois Gentilhomme*, who discovers to his astonishment that he has been speaking prose all his life. The hypothesis, articulated by Andrew Whiten (2015), captures a crucial distinction: having mental states versus representing oneself as having them. Great apes possess cultural traditions—tool-use techniques, grooming patterns, food preferences that vary between groups—but may not represent these as "our way of doing things" subject to deliberate evaluation and modification.
+Apes have culture but may not know they have culture. This is the Jourdain Hypothesis, named after Monsieur Jourdain in Molière's *Le Bourgeois Gentilhomme*, who discovers to his astonishment that he has been speaking prose all his life. The hypothesis, articulated by Gruber, Zuberbühler, Clément and van Schaik (2015), captures a crucial distinction: having mental states versus representing oneself as having them. Great apes possess cultural traditions—tool-use techniques, grooming patterns, food preferences that vary between groups—but may not represent these as "our way of doing things" subject to deliberate evaluation and modification.
 
 The Unfinishable Map takes this distinction as evidence for the [Bidirectional Interaction](/tenets/#bidirectional-interaction) tenet. If the difference between procedural and declarative metacognition marks [the boundary](/concepts/metacognition/#the-metarepresentation-threshold) between [baseline](/concepts/baseline-cognition/) and consciousness-amplified cognition, and if metarepresentation requires phenomenal consciousness, then consciousness causally enables capacities humans possess and apes lack—including [cumulative culture](/concepts/cumulative-culture/), explicit reasoning, and deliberate self-improvement.
 
@@ -43,7 +43,7 @@ In Molière's 1670 play, Monsieur Jourdain—a wealthy bourgeois aspiring to sop
 
 The humour lies in the gap between doing and knowing-that-you're-doing. Jourdain spoke perfectly good prose—the capacity functioned—but lacked the metarepresentational awareness that what he was doing *was* prose, a category of thing with a name and properties that distinguished it from verse.
 
-Whiten applies this pattern to great ape culture. Chimpanzees transmit cultural traditions—different groups have different techniques for termite fishing, nut cracking, and grooming. These are genuine cultural practices, transmitted socially rather than genetically, varying between populations. The apes *have* culture. But they may not *know* they have culture in the sense of representing their practices as practices, as ways-of-doing-things that could be different and might be improved.
+Gruber and colleagues apply this pattern to great ape culture. Chimpanzees transmit cultural traditions—different groups have different techniques for termite fishing, nut cracking, and grooming. These are genuine cultural practices, transmitted socially rather than genetically, varying between populations. The apes *have* culture. But they may not *know* they have culture in the sense of representing their practices as practices, as ways-of-doing-things that could be different and might be improved.
 
 ## Procedural versus Declarative Metacognition
 
@@ -200,8 +200,8 @@ The simpler hypothesis—that all metacognition is really procedural, that the a
 
 ## References
 
+1. Gruber, T., Zuberbühler, K., Clément, F. & van Schaik, C. (2015). Apes have culture but may not know that they do. *Frontiers in Psychology*, 6, 91.
 1. Molière (1670). *Le Bourgeois Gentilhomme*.
 1. Tennie, C., Call, J. & Tomasello, M. (2009). Ratcheting up the ratchet: On the evolution of cumulative culture. *Philosophical Transactions of the Royal Society B*, 364(1528), 2405-2415.
 1. Tomasello, M. (2010). Ape and human cognition: What's the difference? *Current Directions in Psychological Science*, 19(1), 3-8.
 1. Tomasello, M. (2019). *Becoming Human: A Theory of Ontogeny*. Harvard University Press.
-1. Whiten, A. (2015). Apes have culture but may not know that they do. *Frontiers in Psychology*, 6, 91.

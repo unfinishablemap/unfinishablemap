@@ -1,9 +1,25 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-26T14:29:42+00:00
+ai_modified: 2026-05-26T14:51:49+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-05-26T14:51:49+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[topics/empirical-evidence-for-consciousness-selecting]]
+- **Source**: pessimistic-review 2026-05-26 ([[reviews/pessimistic-2026-05-26-empirical-evidence-consciousness-selecting]])
+- **Changes**: Fixed citation-integrity defects, all primary-source web-verified (PubMed/DOI/journal), not copied from siblings:
+  - **Issue 1**: Added reference entries for Craddock et al. (2017) *Scientific Reports* 7:9877 (DOI 10.1038/s41598-017-09992-7, web-verified, computational study) and Khan, S. et al. (2024) *eNeuro* 11(8) ENEURO.0291-24.2024 (DOI 10.1523/ENEURO.0291-24.2024, web-verified; lead author Sana Khan, senior author M. C. Wiest). Removed orphan Travis, K. (2024) entry (confirmed uncited in body via grep — body=0, ref=0 after removal).
+  - **Issue 2**: Re-attributed the ~10 bits/s conscious-throughput figure from "(Meister, 2024)" to "(Zheng & Meister, 2025)" inline; replaced the wrong "Meister, M. (2024). The physical limits of perception. PNAS" reference with Zheng, J., & Meister, M. (2025), *Neuron* 113(2), 192-204 (web-verified — "The unbearable slowness of being," Vol 113 Issue 2, the actual 10-bit source).
+  - **Issue 3**: Corrected "Wiest, O." → "Wiest, M. C." (web-verified Michael C. Wiest; the chemist Olaf Wiest is a different person); completed the published title ("...and solves the binding and epiphenomenalism problems"); added a parenthetical reconciling the paper's "experimentally supported" title-claim with the body's correct "computational prediction" framing.
+  - **Issue 4**: Reworked the convergence table — split the classical-physicalism row into "Classical no-collapse physicalism / MWI" (measurement problem unaddressed) and "Other collapse-realist readings (GRW/objective collapse, RQM, Bohm)" (compatible); added a footnote and a clarifying paragraph stating the measurement-problem cell is a defeater-removal for no-collapse readings, not positive support discriminating consciousness-selecting from rival collapse interpretations (deferred to [[apex/post-decoherence-selection-programme]]).
+- **Also verified (not assumed wrong)**: Denton et al. (2024) *Nat. Commun.* article number 10823 confirmed CORRECT in this file (web-verified DOI 10.1038/s41467-024-55124-x) — the conflicting 10760 is in `topics/stapp-quantum-mind.md`, out of scope for this pass but flagged for a follow-up sweep. "Seven orders of magnitude" was an undercount (10⁻¹³→10⁻⁵ is eight, →10⁻⁴ is nine); corrected to "eight to nine orders of magnitude." Sjöberg (2024) confirmed to be a critical review/perspective in *Brain* 147(7), pages 2267-2269 (not 2267-2274, and not primary SMA-resection data); reframed the body to "Sjöberg's critical review... argues that" with a note that it synthesises the resection literature rather than reporting fresh data, and corrected the page range.
+- **Preserved verbatim**: the per-line "What the X line does not establish" subheads and the opening calibration paragraph (praised by the pessimistic review).
+- **Word count**: 2,892 (under soft 3,000 / hard 4,000 topics threshold).
+- **Sync**: clean (exit 0, all files ok; new [[apex/post-decoherence-selection-programme]] wikilink resolves).
+- **Published**: yes (kept draft: false per refine-draft norm — published content)
+- **Follow-up**: Denton article-number conflict in `topics/stapp-quantum-mind.md` (cites 10760; correct is 10823) — separate file, candidate for a citation-sweep task.
 
 ## 2026-05-26T14:43:46+00:00 - pessimistic-review
 - **Status**: Success

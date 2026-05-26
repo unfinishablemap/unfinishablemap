@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-22
-ai_modified: 2026-04-06 08:54:00+00:00
+ai_modified: 2026-05-26 00:00:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -23,7 +23,7 @@ description: Recursive language structure may require phenomenal consciousness. 
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-04-06 08:54:00+00:00
+last_deep_review: 2026-05-26 00:00:00+00:00
 modified: *id001
 related_articles:
 - '[[consciousness-and-language-interface]]'
@@ -101,7 +101,7 @@ The phenomenal intentionality thesis (see [intentionality](/concepts/intentional
 
 Recursive language has nested intentionality. "John believes that Mary thinks that the door is open" contains belief about belief about fact. Each level has its own intentional content: John's belief is about Mary's thought, Mary's thought is about the door.
 
-If intentionality requires phenomenality, nested intentionality requires nested phenomenality. The experience of understanding the recursive sentence involves grasping John's mental state containing a representation of Mary's mental state containing a representation of the door. This isn't just structural embedding—it's intentional embedding, where the "aboutness" at each level must be phenomenally realized.
+If intentionality requires phenomenality, nested intentionality requires nested phenomenality. The experience of understanding the recursive sentence involves grasping John's mental state containing a representation of Mary's mental state containing a representation of the door. The embedding here is intentional, not merely structural: the "aboutness" at each level must be phenomenally realized.
 
 A system without phenomenal consciousness might produce the sentence "John believes that Mary thinks that the door is open," but would lack the nested intentional phenomenology that constitutes genuine understanding of what the sentence means.
 

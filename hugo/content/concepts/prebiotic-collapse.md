@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-16
-ai_modified: 2026-04-07 22:05:00+00:00
+ai_modified: 2026-05-26 13:36:44+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -28,7 +28,7 @@ description: How quantum wave functions collapsed before conscious observers exi
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-04-07 22:05:00+00:00
+last_deep_review: 2026-05-26 13:36:44+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -103,7 +103,7 @@ But decoherence alone doesn't solve the [measurement problem](/concepts/measurem
 
 The [Many-Worlds Interpretation](/concepts/many-worlds/) claims to dissolve the prebiotic problem entirely: there was no collapse before minds because there is never any collapse. All outcomes occur in branching universes; conscious observers simply find themselves in one branch among infinitely many.
 
-This is not a solution but a different problem. MWI trades the prebiotic collapse question for the [indexical identity question](/concepts/haecceity/): why am I *this* observer in *this* branch? If all branches are equally real and all observers equally exist, the question of "which outcome" merely relocates to "which me." The explanatory burden shifts from physics to metaphysics without genuine progress.
+This relocates the problem rather than solving it. MWI trades the prebiotic collapse question for the [indexical identity question](/concepts/haecceity/): why am I *this* observer in *this* branch? If all branches are equally real and all observers equally exist, the question of "which outcome" merely relocates to "which me." The explanatory burden shifts from physics to metaphysics without genuine progress.
 
 Moreover, MWI eliminates the causal role for consciousness entirely. The Map holds that consciousness participates in determining physical outcomes—that [mental causation](/concepts/mental-causation-and-downward-causation/) is real. MWI explicitly denies this: outcomes occur regardless of consciousness; the appearance of selection is illusion. Far from solving the prebiotic problem, MWI dissolves the framework within which consciousness matters at all.
 
@@ -233,7 +233,7 @@ The Map's commitment is to the *framework* (real collapse + consciousness modula
 
 ## References
 
-1. Donadi, S. et al. (2020). Underground test of gravity-related wave function collapse. *Nature Physics*, 17, 74-78.
+1. Donadi, S., Piscicchia, K., Curceanu, C., Diósi, L., Laubenstein, M., & Bassi, A. (2020). Underground test of gravity-related wave function collapse. *Nature Physics*, 17, 74.
 1. Ghirardi, G. C., Rimini, A., & Weber, T. (1986). Unified dynamics for microscopic and macroscopic systems. *Physical Review D*, 34(2), 470.
 1. Hameroff, S., & Penrose, R. (2014). Consciousness in the universe: A review of the 'Orch OR' theory. *Physics of Life Reviews*, 11(1), 39-78.
 1. Penrose, R. (1989). *The Emperor's New Mind*. Oxford University Press.
@@ -243,6 +243,6 @@ The Map's commitment is to the *framework* (real collapse + consciousness modula
 1. Tomaz, A. (2025). "The Quantum Measurement Problem: A Review of Recent Trends." arXiv:2502.19278.
 1. Wheeler, J. A. (1990). Information, physics, quantum: The search for links. In *Complexity, Entropy, and the Physics of Information*. Addison-Wesley.
 1. Whitehead, A. N. (1929). *Process and Reality*. Macmillan.
-1. Wiest, O. et al. (2024). Microtubule-stabilizer epothilone B delays anesthetic-induced unconsciousness in rats. *eNeuro*, 11(8).
+1. Khan, S., ... Wiest, M. C. et al. (2024). Microtubule-stabilizer epothilone B delays anesthetic-induced unconsciousness in rats. *eNeuro*, 11(8), ENEURO.0291-24.2024.
 1. Wigner, E. (1961). Remarks on the mind-body question. In *The Scientist Speculates*. Heinemann.
 1. Wolchover, N. (2022). Physics Experiments Spell Doom for Quantum 'Collapse' Theory. *Quanta Magazine*.

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-15
-ai_modified: 2026-04-06 16:36:00+00:00
+ai_modified: 2026-05-26 12:52:39+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -23,13 +23,15 @@ description: Vivid conscious experiences during cardiac arrest challenge brain-p
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-04-06 16:36:00+00:00
+last_deep_review: 2026-05-26 12:52:39+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
 - '[[personal-identity]]'
 - '[[near-death-experiences-consciousness-2026-01-15]]'
 - '[[death-and-consciousness]]'
+- '[[consciousness-under-extreme-metabolic-constraint]]'
+- '[[consciousness-disruption-and-the-mind-brain-interface]]'
 title: Near-Death Experiences
 topics:
 - '[[death-and-consciousness]]'

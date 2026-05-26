@@ -4,7 +4,7 @@ description: "Multiple independent empirical lines—evolutionary, cognitive, ne
 created: 2026-02-21
 modified: 2026-02-21
 human_modified:
-ai_modified: 2026-05-23T14:30:00+00:00
+ai_modified: 2026-05-26T14:51:49+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -70,7 +70,7 @@ Clinical and neurosurgical evidence appears to separate conscious selection from
 
 **The intention-execution dissociation.** Desmurget et al. (2009) found that parietal cortex stimulation produces conscious intention to move—even false belief of having moved—without muscle activity. Premotor cortex stimulation produces movement without awareness. Conscious intention and motor execution seem to occupy distinct neural territory, consistent with consciousness contributing at the policy level while the motor system handles implementation.
 
-**Supplementary motor area evidence.** Sjöberg (2024) reports that patients with the supplementary motor area (SMA) resected retain the subjective sense of willing—reporting maximal effort to move—while losing voluntary movement execution. Automatic movements (walking, reading aloud) remain intact. If consciousness were identical to the neural machinery of movement initiation, removing that machinery should eliminate the experience of willing. It does not. The experience and the mechanism appear to come apart.
+**Supplementary motor area evidence.** Sjöberg's (2024) critical review of the supplementary motor area (SMA) resection literature argues that patients with the SMA resected retain the subjective sense of willing—reporting maximal effort to move—while losing voluntary movement execution. Automatic movements (walking, reading aloud) remain intact. If consciousness were identical to the neural machinery of movement initiation, removing that machinery should eliminate the experience of willing. It does not. The experience and the mechanism appear to come apart. (Sjöberg's piece is a review-and-argument synthesising the resection literature rather than a report of fresh clinical data, so the dissociation it draws inherits the strengths and limits of the underlying case series.)
 
 **OCD and directed attention.** Schwartz et al. (1996) found that patients who learn to cognitively reframe intrusive thoughts showed decreased caudate nucleus activity on PET imaging. The study was small (18 participants, only 9 of whom were new) and has not been independently replicated, but the finding is suggestive: whatever performs the reframing has physical consequences. The directed attention that produces these changes has the phenomenology of effort—patients report that the cognitive reframing is difficult, requiring sustained concentration against compelling urges. Mainstream neuroscience explains the findings via Hebbian learning without requiring non-physical causation.
 
@@ -92,7 +92,7 @@ The most recent and technically specific evidence addresses whether the physical
 
 **Enzyme catalysis.** Quantum tunnelling drives reaction rates in enzymes, confirmed through kinetic isotope effects. Evolution has optimised quantum effects to accelerate reactions by factors up to 10¹⁷.
 
-**Microtubule quantum effects.** Tegmark's 2000 calculation estimated decoherence in neural microtubules at ~10⁻¹³ seconds. Hagan, Hameroff, and Tuszynski (2002) challenged his assumptions about model parameters, revising estimates to 10⁻⁵ to 10⁻⁴ seconds—seven orders of magnitude longer. Craddock et al. (2017) used molecular-dynamics and quantum-chemistry simulations to predict a (613 ± 8) THz collective tubulin oscillation peak that anaesthetics — but not non-anaesthetic structural analogues — disrupt, with disruption magnitude tracking clinical potency; Wiest (2025) reviews this computational prediction and develops its implications. The 613 THz peak is a computationally predicted signature that has yet to be measured directly. Microtubule-stabilising drugs (epothilone B) delayed anaesthetic-induced unconsciousness in rats (Khan et al. 2024), an experimental finding that supplies the pharmacological half of the picture the Craddock simulations supply the spectroscopic half of.
+**Microtubule quantum effects.** Tegmark's 2000 calculation estimated decoherence in neural microtubules at ~10⁻¹³ seconds. Hagan, Hameroff, and Tuszynski (2002) challenged his assumptions about model parameters, revising estimates to 10⁻⁵ to 10⁻⁴ seconds—eight to nine orders of magnitude longer. Craddock et al. (2017) used molecular-dynamics and quantum-chemistry simulations to predict a (613 ± 8) THz collective tubulin oscillation peak that anaesthetics — but not non-anaesthetic structural analogues — disrupt, with disruption magnitude tracking clinical potency; Wiest (2025) reviews this computational prediction and develops its implications. The 613 THz peak is a computationally predicted signature that has yet to be measured directly. Microtubule-stabilising drugs (epothilone B) delayed anaesthetic-induced unconsciousness in rats (Khan et al. 2024), an experimental finding that supplies the pharmacological half of the picture the Craddock simulations supply the spectroscopic half of.
 
 **The measurement problem.** Even where decoherence operates rapidly, it does not resolve the [[measurement-problem]]. As Schlosshauer's 2025 review states: "After the basis is chosen and quantum superpositions are suppressed, the system still remains in a mixture of possible outcomes. Decoherence does not tell how and why only one of these outcomes is measured." Something must determine definite outcomes. Physics identifies probabilities without explaining why particular outcomes actualise. Consciousness remains a candidate for what completes this picture.
 
@@ -114,10 +114,13 @@ Together, however, the lines constrain the space of viable theories:
 | Theory | Evolutionary | Comparative | Neurological | Quantum-Bio |
 |--------|-------------|-------------|--------------|-------------|
 | **Epiphenomenalism** | Fails (selection requires effects) | Fails (conscious capacities causally distinct) | Problematic (effort produces changes) | Compatible but irrelevant |
-| **Classical physicalism** | Compatible | Compatible | Compatible | Cannot explain measurement |
+| **Classical no-collapse physicalism / MWI** | Compatible | Compatible | Compatible | Measurement problem unaddressed* |
+| **Other collapse-realist readings** (GRW/objective collapse, RQM, Bohm) | Compatible | Compatible | Compatible | Compatible |
 | **Consciousness-selecting** | Compatible | Compatible | Compatible | Compatible |
 
-Classical physicalism accommodates the first three lines but has no account of why definite quantum outcomes occur—and if quantum effects are functionally relevant in neural tissue (as the fourth line suggests), that gap becomes a gap in the theory of consciousness itself, not merely in physics. Epiphenomenalism fails the first three lines outright. Consciousness-selecting is compatible with all four.
+\*The fourth-column entry is a *defeater for the no-collapse readings*, not positive support for consciousness-selecting. It marks where classical no-collapse physicalism (and Many-Worlds) leave the definiteness of outcomes unexplained; it does not discriminate consciousness-selecting from the other collapse-realist interpretations, which inherit the same opening. Those rivals are separated from consciousness-selecting on other grounds, developed in [[apex/post-decoherence-selection-programme|the post-decoherence selection programme]], not by this table.
+
+Read this way, the table establishes less than its visual logic might suggest. Classical no-collapse physicalism accommodates the first three lines but has no account of why definite quantum outcomes occur—and if quantum effects are functionally relevant in neural tissue (as the fourth line suggests), that gap becomes a gap in the theory of consciousness itself, not merely in physics. Epiphenomenalism fails the first three lines outright. Consciousness-selecting is compatible with all four—but so is every other collapse-realist interpretation. The convergence removes a competitor (no-collapse physicalism) and leaves consciousness-selecting *among the surviving candidates*; it does not single it out from its true rivals, which is separate work.
 
 This is not proof. It is convergent evidence that may favour one hypothesis over its competitors—the same structure by which many scientific conclusions are reached. No single observation settles continental drift, but the convergence of geological, palaeontological, magnetic, and geodetic evidence leaves plate tectonics as the most coherent surviving explanation. The parallel with consciousness-selecting is suggestive rather than decisive: the convergence narrows the field of viable theories without uniquely picking one out, and a determined classical physicalist may still construct accounts compatible with the same observations.
 
@@ -139,7 +142,7 @@ The empirical convergence supports all five of the Map's [[tenets]]:
 
 **[[tenets#^dualism|Dualism]]**: The comparative evidence shows consciousness contributes capacities that unconscious processing alone does not achieve. The neurological evidence shows conscious intention dissociates from motor execution. Together they support the claim that consciousness is not reducible to neural computation—though the further step from causal efficacy to non-physicality requires the [[dualism|philosophical arguments]] the Map develops elsewhere, building toward [[concepts/interactionist-dualism|interactionist dualism]].
 
-**[[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]]**: Quantum biology suggests the substrate exists. The bandwidth constraint—approximately 10 bits per second of conscious throughput (Meister, 2024)—appears to ensure that any selection would be minimal. Consciousness, if it selects at all, selects among coarse-grained action patterns rather than individual quantum events.
+**[[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]]**: Quantum biology suggests the substrate exists. The bandwidth constraint—approximately 10 bits per second of conscious throughput (Zheng & Meister, 2025)—appears to ensure that any selection would be minimal. Consciousness, if it selects at all, selects among coarse-grained action patterns rather than individual quantum events.
 
 **[[tenets#^bidirectional-interaction|Bidirectional Interaction]]**: The evolutionary and neurological lines provide the strongest evidence for the downward direction of interaction. Consciousness is not a passive observer—it shapes neural outcomes.
 
@@ -161,18 +164,19 @@ The empirical convergence supports all five of the Map's [[tenets]]:
 
 ## References
 
+1. Craddock, T. J. A., Kurian, P., Preto, J., Sahu, K., Hameroff, S. R., Klobukowski, M., & Tuszynski, J. A. (2017). Anesthetic alterations of collective terahertz oscillations in tubulin correlate with clinical potency: Implications for anesthetic action and post-operative cognitive dysfunction. *Scientific Reports*, 7, 9877. https://doi.org/10.1038/s41598-017-09992-7
 1. Denton, M. C. J., Smith, L. D., Xu, W., Pugsley, J., Toghill, A., & Kattnig, D. R. (2024). Magnetosensitivity of tightly bound radical pairs in cryptochrome is enabled by the quantum Zeno effect. *Nature Communications*, 15, 10823.
 1. Desmurget, M., et al. (2009). Movement intention after parietal cortex stimulation in humans. *Science*, 324(5928), 811-813.
 1. Hagan, S., Hameroff, S., & Tuszynski, J. (2002). Quantum computation in brain microtubules: Decoherence and biological feasibility. *Physical Review E*, 65, 061901.
 1. James, W. (1890). *The Principles of Psychology*. Henry Holt.
+1. Khan, S., et al. (2024). Microtubule-stabilizer epothilone B delays anesthetic-induced unconsciousness in rats. *eNeuro*, 11(8), ENEURO.0291-24.2024. https://doi.org/10.1523/ENEURO.0291-24.2024
 1. Lieberman, M.D., et al. (2008). Evidence that logical reasoning depends on conscious processing. *Consciousness and Cognition*, 17(2), 628-645.
-1. Meister, M. (2024). The physical limits of perception. *PNAS*, 121(14), e2400258121.
 1. Rajan, A., et al. (2019). Theta oscillations index frontal decision-making and mediate reciprocal frontal-parietal interactions in willed attention. *Cerebral Cortex*, 29(7), 2832-2843.
 1. Schlosshauer, M. (2025). Quantum decoherence. *Physics Reports*, 1063, 1-64.
 1. Schwartz, J.M., et al. (1996). Systematic changes in cerebral glucose metabolic rate after successful behavior modification treatment of OCD. *Archives of General Psychiatry*, 53(2), 109-113.
-1. Sjöberg, R.L. (2024). The readiness potential and the soul. *Brain*, 147(7), 2267-2274.
+1. Sjöberg, R.L. (2024). The readiness potential and the soul: what happens when you resect their seat in the brain? *Brain*, 147(7), 2267-2269.
 1. Tegmark, M. (2000). Importance of quantum decoherence in brain processes. *Physical Review E*, 61, 4194-4206.
 1. Thura, D., & Cisek, P. (2014). Deliberation and commitment in the premotor and primary motor cortex during dynamic decision making. *Neuron*, 81(6), 1401-1416.
-1. Travis, K., et al. (2024). Anesthetic-sensitive quantum effects in microtubules. *Journal of Integrative Neuroscience*, 23(3), 45-58.
-1. Wiest, O., et al. (2025). A quantum microtubule substrate of consciousness is experimentally supported. *Neuroscience of Consciousness*, 2025(1), niaf011.
+1. Wiest, M. C. (2025). A quantum microtubule substrate of consciousness is experimentally supported and solves the binding and epiphenomenalism problems. *Neuroscience of Consciousness*, 2025(1), niaf011. (The article treats the 613 THz finding as a computational prediction; the paper's title-claim of experimental support is the author's framing, which this article does not adopt.)
 1. Xu, J., et al. (2026). Computational confirmation of the radical pair mechanism in European robin cryptochrome-4a. *Journal of the American Chemical Society*.
+1. Zheng, J., & Meister, M. (2025). The unbearable slowness of being: Why do we live at 10 bits/s? *Neuron*, 113(2), 192-204.
