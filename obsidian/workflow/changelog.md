@@ -7,6 +7,19 @@ ai_system: claude-opus-4-7
 
 ## 2026-05-26T00:00:00+00:00 - deep-review
 - **Status**: Success
+- **File**: [[voids/the-surplus-void]]
+- **Word count**: 2020 → 2056 (+36; voids soft_warning band, hard 3000)
+- **Critical issues addressed**: 1 — possibility/probability slippage in "What AI Might Reveal": "AI confirms the zombie argument's implication" / "strongest empirical evidence yet" rested on the article's own hedged "presumably" about AI phenomenology. Per §2 diagnostic, a tenet-accepting reviewer would still flag the upgrade → calibration error, not bedrock. Reworded to "would make vivid" / "candidate line of evidence, not a settled one"; added the unverifiable-presumption hinge and a body cross-link to the other-minds problem.
+- **Medium issues addressed**: 1 — three dead wikilinks resolving only to archive (`aesthetic-void`, `imagination-and-creativity-void` both coalesced 2026-04-23 → `/voids/creative-aesthetic-void/`). Repointed and consolidated the now-duplicate references in frontmatter, body, and Further Reading. `the-givenness-void` no longer present in article (nothing to fix).
+- **Enhancements made**: 1 — surfaced [[non-human-minds-as-void-explorers]] inline from the AI section (already in frontmatter; now reciprocal in body).
+- **Citation/attribution**: Wallace 1870, Chalmers 1996, Levine 1983, Gould & Lewontin 1979 cited in body and correctly attributed. McGinn 1989 / Nagel 2012 listed but uncited — topically load-bearing background; left as-is (low, not actioned).
+- **Calibration (post-fix)**: Clean. Tenets↔Voids framing already corrected to conditional/non-evidential by the 2026-05-11→05-19 outer-review revision; NOT re-flagged (verified against 2026-05-11 outer reviews). Bedrock items (adaptationist standoff, Buddhist dissolution) per 2026-03-16 stability notes left untouched.
+- **Engagement modes (editor-internal)**: materialist "deep embarrassment" framing is Mode Three boundary-marking, already declared honestly in "Relation to Site Perspective"; no label leakage.
+- **Checks**: All wikilinks now resolve live; tenet anchors `^dualism`/`^bidirectional-interaction`/`^occams-limits` exist; no banned "This is not X. It is Y." cliché ("not merely / not just" are natural usages, left as-is).
+- **Output**: [[reviews/deep-review-2026-05-26-the-surplus-void]]
+
+## 2026-05-26T00:00:00+00:00 - deep-review
+- **Status**: Success
 - **File**: [[topics/history-of-the-interaction-problem]]
 - **Word count**: 2397 → 2397 (no change)
 - **Critical issues addressed**: 0 (none found — 2nd pass, converged)

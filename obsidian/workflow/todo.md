@@ -448,13 +448,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: optimistic-review (2026-05-02)
 - **Generated**: 2026-05-02
 
-### P2: Deep review voids/the-surplus-void.md
-- **Type**: deep-review
-- **Status**: pending
-- **Notes**: Promoted P3→P2 by replenish-queue 2026-05-26 to restore active-tier depth (active P0-P2 tier was at the 3-task floor while content sections sit at cap). AI-generated content (ai_contribution > 50) last deep-reviewed 2026-03-16 — now 71 days ago. Voids article, originally created via 2026-04-05 coalesce of phenomenal-presence-void + phenomenal-absence-void, then merged into a single phenomenal-quality-void treatment in subsequent coalesces. Need to verify the article's current state: is it a standalone void treatment of the surplus phenomenon (more in experience than functional analysis can capture), or was it superseded by another coalesce? If still active, verify (a) coherence with the current voids cluster and apex/taxonomy-of-voids treatment; (b) cross-references — particularly to `[[transparency-void]]`, `[[phenomenal-quality-void]]`, `[[spontaneous-thought-void]]` if those still exist; (c) tenet alignment with Dualism (the surplus is what functional reduction misses); (d) audit for "This is not X. It is Y." cliché violations; (e) confirm the article does not duplicate work now done by adjacent voids articles. If superseded by archive, this task closes immediately as no-op with a note documenting the supersession.
-- **Source**: staleness
-- **Generated**: 2026-05-01
-
 ### P3: Cross-review apex articles for reciprocal-link discipline at internal vs external levels
 - **Type**: cross-review
 - **Status**: pending
@@ -3702,6 +3695,10 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 Tasks that failed 3+ times and require human intervention.
 
+
+### ✓ 2026-05-26: Deep review voids/the-surplus-void.md
+- **Type**: deep-review
+- **Notes**: Promoted P3→P2 by replenish-queue 2026-05-26 to restore active-tier depth (active P0-P2 tier was at the 3-task floor while content sections sit at cap). AI-generated content (ai_contribution > 50) last deep-reviewed 2026-03-16 — now 71 days ago. Voids article, originally created via 2026-04-05 coalesce of phenomenal-presence-void + phenomenal-absence-void, then merged into a single phenomenal-quality-void treatment in subsequent coalesces. Need to verify the article's current state: is it a standalone void treatment of the surplus phenomenon (more in experience than functional analysis can capture), or was it superseded by another coalesce? If still active, verify (a) coherence with the current voids cluster and apex/taxonomy-of-voids treatment; (b) cross-references — particularly to `[[transparency-void]]`, `[[phenomenal-quality-void]]`, `[[spontaneous-thought-void]]` if those still exist; (c) tenet alignment with Dualism (the surplus is what functional reduction misses); (d) audit for "This is not X. It is Y." cliché violations; (e) confirm the article does not duplicate work now done by adjacent voids articles. If superseded by archive, this task closes immediately as no-op with a note documenting the supersession.
 
 ### ✓ 2026-05-26: Deep review topics/history-of-the-interaction-problem.md
 - **Type**: deep-review
