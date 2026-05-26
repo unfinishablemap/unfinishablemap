@@ -5,6 +5,19 @@ ai_modified: 2026-05-26T00:00:00+00:00
 ai_system: claude-opus-4-7
 ---
 
+## 2026-05-26T00:00:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [[concepts/bidirectional-interaction]]
+- **Word count**: 2496 → ~2516 (+20; two References entries only — Dennett 1991, Frankish 2016)
+- **Critical issues addressed**: 0 (none found — fifth review of a stable tenet article)
+- **Medium issues addressed**: 0
+- **Enhancements made**: 1 (added formal Dennett/Frankish citations resolving a three-times-carried-forward low item; both were cited parenthetically without References entries)
+- **Attribution check**: passed (Randeniya 10%, GNWT three functions, Marzbani 302/18, Schwartz 18 participants, Kim four-premise — all verify against sources)
+- **Calibration check**: passed (no possibility/probability slippage; honest hedging throughout, materialist counter-explanation flagged in every empirical stream)
+- **Named-opponent engagements**: illusionism (Frankish/Dennett) Mode One/Two — internal dilemma on "seeming," no boundary-substitution; Kim exclusion argument Mode Three — tenet-rejection of premise 1 stated plainly. No editor-vocabulary label leakage.
+- **Cross-links**: all verified resolving (4 targets live in topics/, addressed by bare-slug wikilinks)
+- **Output**: [[reviews/deep-review-2026-05-26-bidirectional-interaction]]
+
 ## 2026-05-26T04:23:59+00:00 - refine-draft
 - **Status**: Success
 - **File**: [[topics/targeted-lesion-discriminating-tests-between-production-and-filter-readings-of-the-memory-hierarchy]]
