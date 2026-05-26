@@ -5,6 +5,18 @@ ai_modified: 2026-05-26T12:14:27+00:00
 ai_system: claude-opus-4-7
 ---
 
+## 2026-05-26T08:00:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [[concepts/grain-mismatch]]
+- **Word count**: 1624 → 1625 (65% of 2500 soft target — well under)
+- **Critical issues addressed**: 0 — none found. Fourth review; article stable and well-calibrated.
+- **Attribution re-verification (independent, live sources)**: Lee (2023) *Consciousness and Continuity* — opacity quote accurate; article correctly uses only the "cuts both ways" framing and does not misrepresent Lee's own lean toward the discrete model. Zheng & Meister (2024) *Neuron* — ~10 bits/s conscious throughput confirmed. Sellars 1965/1971, Lockwood 1993, Bechtel & Mundale 1999 stable across four reviews.
+- **Calibration check**: No possibility/probability slippage. No evidential tier assigned; "structural impossibility" is the argument's own logical claim, properly conditioned on "if phenomenal smoothness is genuine." A tenet-accepting reviewer would not flag it as overstated.
+- **Reasoning-mode classification (editor-internal)**: eliminativist illusion-reply = Mode Three (boundary-marking); grain-of-analysis reply (Bechtel & Mundale) = Mode One (defective on own terms, properties contradictory regardless of descriptive grain); structural-mismatch reply = Mode One (pressed on own terms via EM-field qualitative gap). No boundary-substitution. Label-leakage scan CLEAN.
+- **Medium issues addressed**: 1 — bandwidth-side precision: "neural processing (~10⁹)" → "rate at which the sensory periphery delivers information to the brain (~10⁹)"; ~10⁹ is the sensory-input rate in Zheng & Meister (synaptic substrate is ~10¹⁴). Mismatch argument unaffected.
+- **Other checks**: all wikilinks resolve to live obsidian files; front-loaded summary and "Relation to Site Perspective" present; description present.
+- **Output**: [[reviews/deep-review-2026-05-26-grain-mismatch]]
+
 ## 2026-05-26T00:00:00+00:00 - deep-review
 - **Status**: Success
 - **File**: [[topics/language-recursion-and-consciousness]]
