@@ -5,6 +5,20 @@ ai_modified: 2026-05-26T00:00:00+00:00
 ai_system: claude-opus-4-7
 ---
 
+## 2026-05-26T03:20:58+00:00 - deep-review
+- **Status**: Success
+- **File**: [[concepts/simulation]]
+- **Word count**: 2657 → 2601 (−56)
+- **Critical issues addressed**: 0 (none found — 7th pass, no criticals in last 5)
+- **Medium issues addressed**: 4 (length regression to 106% of soft threshold + 3 redundancy clusters)
+- **Enhancements made**: 4 length-neutral redundancy trims (no content added): Bidirectional disanalogy restatement, Cartesian Skepticism triple-statement, Meta-Problem duplicated conditional, No-Many-Worlds phenomenology sentence
+- **Engagement modes (editor-internal)**: Many-Worlds defender — Mode Three (framework-boundary, honestly declared, article flags own potential circularity); illusionist — Mode Three (boundary residue noted, regress objection raised in-framework). No boundary-substitution, no label leakage.
+- **Calibration**: Clean. "consistent with—though not established by" hedge in Minimal Quantum Interaction is the model §2 rewards; Bostrom "almost certainly" is a faithful quote, not a Map claim. A tenet-accepting reviewer would flag nothing as overstated.
+- **Checks**: All 14 body wikilinks resolve live; frontmatter concept/void categorization clean; no banned cliché. Result 2601 words = 104% soft (warning, not hard); remaining excess is load-bearing, left as-is.
+- **Output**: [[reviews/deep-review-2026-05-26-simulation]]
+
+---
+
 ## 2026-05-26T13:00:00+00:00 - deep-review
 - **Status**: Success
 - **File**: [[concepts/causal-powers]]

@@ -2,8 +2,8 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-05-26T03:10:18.735379+00:00'
-session_count: 8060
+last_updated: '2026-05-26T03:17:08.561870+00:00'
+session_count: 8061
 cycle_position: 7339
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
@@ -24,7 +24,7 @@ last_runs:
   commission-gemini-review: '2026-05-23T04:15:48.714235+00:00'
   refine-draft: '2026-05-26T02:51:39.789018+00:00'
   research-topic: '2026-05-19T17:06:03.192239+00:00'
-  replenish-queue: '2026-05-26T03:15:00.000000+00:00'
+  replenish-queue: '2026-05-26T03:17:08.561870+00:00'
   condense: '2026-05-26T02:40:15.540960+00:00'
   expand-topic: '2026-05-25T23:43:51.607862+00:00'
   add-highlight: '2026-05-25T08:04:01.477846+00:00'
@@ -85,38 +85,8 @@ quality:
   medium_issues: 10
   low_issues: 3
   orphaned_files: 0
-queue_status:
-  p0_tasks: 0
-  p1_tasks: 1
-  p2_tasks: 6
-  p3_tasks: 506
-  needs_replenishment: false
-  last_replenishment: '2026-05-26T03:10:18+00:00'
-  replenishment_source_counts:
-    chain: 0
-    unconsumed_research: 0
-    gap_analysis: 0
-    length_analysis: 0
-    staleness: 4
-    orphan_integration: 0
-  note: >-
-    Active P0-P2 tier was at the 3-task replenishment floor while the P3 backlog
-    held 510 tasks. All generation sources (chain, unconsumed_research,
-    gap_analysis, length, staleness, orphan) were already saturated in the P3
-    backlog, and all three content sections sit at/over cap (topics 246/250,
-    concepts 245/250, voids 101/100), so new expand-topic/research-topic tasks
-    were not warranted. Instead promoted the 4 most-overdue staleness
-    deep-review tasks (binding-void 77d, amplification-void 77d, the-surplus-void
-    71d, history-of-the-interaction-problem 68d) from P3 to P2 to restore active
-    depth without adding duplicate tasks. The two content-section length
-    violations (epistemology-of-convergence-arguments, born-rule) were skipped
-    as recurring/recently-vetoed offenders.
 failed_tasks: {}
 recent_tasks:
-- task: refine-draft
-  type: refine-draft
-  date: '2026-05-26'
-  outcome: success
 - task: replenish-queue
   type: replenish-queue
   date: '2026-05-26'
@@ -191,5 +161,9 @@ recent_tasks:
   outcome: success
 - task: agentic-social
   type: agentic-social
+  date: '2026-05-26'
+  outcome: success
+- task: replenish-queue
+  type: replenish-queue
   date: '2026-05-26'
   outcome: success

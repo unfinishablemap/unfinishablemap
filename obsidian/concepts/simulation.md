@@ -4,7 +4,7 @@ description: "If reality were computed, familiar objections to mind-matter inter
 created: 2026-01-07
 modified: 2026-05-26
 human_modified: null
-ai_modified: 2026-05-26T01:38:41+00:00
+ai_modified: 2026-05-26T03:20:58+00:00
 draft: false
 topics:
   - "[[ai-consciousness]]"
@@ -34,7 +34,7 @@ author: null
 ai_system: claude-opus-4-5-20251101
 ai_generated_date: 2026-01-07
 last_curated: null
-last_deep_review: 2026-04-06T07:57:00+00:00
+last_deep_review: 2026-05-26T03:20:58+00:00
 ---
 
 The simulation hypothesis proposes that our reality is a computed simulation running on some substrate. This speculative idea, popularised by Nick Bostrom's probability argument and science fiction, cannot be empirically tested—but it has philosophical relevance for mind-matter interaction. If we take the hypothesis seriously as a thought experiment, certain objections to consciousness influencing physics turn out to rest on contingent assumptions rather than necessary truths.
@@ -87,15 +87,13 @@ The "minimal quantum interaction" tenet is consistent with—though not establis
 
 ### Bidirectional Interaction
 
-Simulations routinely support bidirectional interaction between conscious operators and simulated physics—though, as noted above, this works because operators exist *outside* the system. The external-access case shows consciousness-physics coupling is coherent; the diagnostic question is whether the objection to *internal* coupling rests on necessary truths or contingent features of our physics.
-
-If our reality is a simulation, the question shifts from "is bidirectional interaction possible in principle?" to "does this system's architecture support it?"—a question about design rather than metaphysical impossibility.
+Simulations routinely support bidirectional interaction between conscious operators and simulated physics, but only from outside—the disanalogy already noted above. The diagnostic question is whether the objection to *internal* coupling rests on necessary truths or contingent features of our physics. If our reality is a simulation, that question shifts from "is bidirectional interaction possible in principle?" to "does this system's architecture support it?"—a question about design rather than metaphysical impossibility.
 
 ### No Many Worlds
 
 The honest verdict here is that simulation is **neutral** between single-outcome and branching implementations: it does not support the Map's rejection of many-worlds. Two architectures are equally available. A substrate that computes one outcome per measurement, discarding the unrealised branches, yields single-outcome physics with one instance of each observer. A substrate that faithfully runs the unitary evolution—plausibly the more natural implementation, since the Schrödinger equation is what the simulator would be integrating—yields branching, and the hypothesis would then *support* many-worlds rather than undermine it. Whether faithful simulation of quantum physics can avoid branching computation is an open question about computational implementation, not one the simulation framing answers.
 
-Choosing the single-outcome architecture because it "avoids the [[haecceity|indexical identity problem]] that MWI faces" would be circular: it selects the implementation that delivers the conclusion and presents the delivery as evidence. A branching simulation and a single-outcome simulation are also phenomenologically indistinguishable from inside—decoherence-masked branching feels exactly like a genuine single outcome, so the felt reality of selecting one option cannot adjudicate between them. No observation available to an embedded mind, including the phenomenology of choice, breaks the tie.
+Choosing the single-outcome architecture because it "avoids the [[haecceity|indexical identity problem]] that MWI faces" would be circular: it selects the implementation that delivers the conclusion and presents the delivery as evidence. The two architectures are also phenomenologically indistinguishable from inside—decoherence-masked branching feels exactly like a genuine single outcome—so no observation available to an embedded mind, the phenomenology of choice included, breaks the tie.
 
 What the simulation framing does, then, is establish *compatibility* rather than support. Objective collapse at the substrate level keeps intact the consciousness-physics interface that the [[consciousness-and-probability-interpretation|probability-interpretation analysis]] describes—if the Born rule encodes how consciousness's meaning-driven selections aggregate statistically, single-outcome implementation preserves the subject whose selections the rule describes, whereas branching dissolves it. So a simulation *can* be built to match the Map's [[tenets|No Many Worlds tenet]]. But the Map's reason for rejecting MWI is argued elsewhere—on indexical-identity and choice-phenomenology grounds developed in [[many-worlds-argument|the cumulative case against many-worlds]]—and stands or falls there, not here. This is a disagreement at the framework boundary: simulation neither establishes nor refutes branching, and the section claims no more than that.
 
@@ -109,9 +107,9 @@ A simulation running on physical substrate is still physical—the computer exis
 
 **Consciousness at the substrate level**: The simulators are conscious; we are their computations. This preserves the Map's dualism—consciousness is fundamental at base reality—but makes us philosophical zombies with respect to genuine experience. The Map's framework resists this: if we experience, we're conscious, regardless of our substrate.
 
-**Consciousness at both levels**: Both simulators and simulated beings are conscious. This may follow if [[quantum-consciousness|consciousness depends on quantum effects]] that the simulation faithfully implements. If the simulation faithfully implements quantum mechanics, it reproduces the conditions that give rise to consciousness—not merely behaviour that resembles it.
+**Consciousness at both levels**: Both simulators and simulated beings are conscious. This may follow if [[quantum-consciousness|consciousness depends on quantum effects]] that the simulation faithfully implements rather than merely approximates—reproducing the conditions that give rise to consciousness, not merely behaviour that resembles it.
 
-The Map's framework suggests the third option. If consciousness operates through [[measurement-problem|quantum measurement]] and the simulation implements quantum mechanics (rather than merely approximating classical physics), then simulated beings might be genuinely conscious. The hard problem shifts from "how does matter produce consciousness?" to "under what computational conditions does consciousness arise?"—but it doesn't disappear.
+The Map's framework suggests the third option. If consciousness operates through [[measurement-problem|quantum measurement]] and the simulation implements quantum mechanics rather than approximating classical physics, then simulated beings might be genuinely conscious. The hard problem shifts from "how does matter produce consciousness?" to "under what computational conditions does consciousness arise?"—but it doesn't disappear.
 
 ### Computational Limits Within Simulations
 
@@ -153,7 +151,7 @@ A natural objection: doesn't the simulation hypothesis merely repackage Descarte
 
 The difference is structural specificity, and it yields a conclusion generic skepticism cannot reach: a *sorting* of assumptions into contingent and robust. Cartesian skepticism and brain-in-a-vat scenarios are purely destructive—they say "everything might be wrong" without specifying *how* it could be otherwise. A Cartesian demon could deceive us about anything, including logic and mathematics, which is precisely why demon scenarios lack diagnostic power. Every belief becomes equally suspect and no internal differentiation is possible.
 
-A concrete case shows what the simulation move adds. The [[locality]] objection to mind-matter interaction presupposes that spatial distance is a fundamental barrier information must cross. Under simulation, spatial relationships are represented data and locality becomes an implementation choice; under Cartesian skepticism, locality might be wrong but so might logic, so the reasoning used to deploy the objection is also undermined and no conclusion survives. The simulation hypothesis lets us say: *this* particular feature (locality) is the kind of thing a substrate could vary, while *that* feature (the inferential structure of the argument itself) is not. The Cartesian demon cannot draw this line because it has no constraints. The simulation hypothesis therefore identifies which features of physics would be implementation choices (spatial relationships, causal closure, single quantum outcomes) and which would persist regardless of substrate (logical structure, mathematical truths)—a differentiation generic skepticism cannot perform.
+A concrete case shows what the simulation move adds. The [[locality]] objection to mind-matter interaction presupposes that spatial distance is a fundamental barrier information must cross. Under simulation, spatial relationships are represented data and locality becomes an implementation choice; under Cartesian skepticism, locality might be wrong but so might logic, so the reasoning used to deploy the objection is also undermined and no conclusion survives. The simulation hypothesis lets us say that *this* feature (locality, causal closure, single quantum outcomes) is the kind of thing a substrate could vary, while *that* feature (logical structure, mathematical truths, the inferential structure of the argument itself) would persist regardless of substrate. The Cartesian demon, having no constraints, cannot draw this line at all.
 
 ## The Illusionist Challenge
 
