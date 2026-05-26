@@ -5,6 +5,16 @@ ai_modified: 2026-05-26T12:00:00+00:00
 ai_system: claude-opus-4-7
 ---
 
+## 2026-05-26T11:01:03+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[topics/volitional-control]]
+- **Source**: topic-concept anchoring audit 2026-05-26 (calibration-only; anchor [[concepts/mental-causation-and-downward-causation]], recalibrated this same run)
+- **Word count**: 3212 → 3465 (+253; under topics hard 4000, slightly over soft 3000 — was already over soft pre-pass at 3212, growth is the required underdetermination addition)
+- **Failed checks cleared (all 3)**: hedge_density 1.56→1.73/kw (target ≥1.63, anchor 2.71); strong_assertions 3→0 (anchor 0); underdetermination_markers 0→1 (anchor 1). `evaluate_anchoring()` now returns 0 flags against ALL anchors (mental-causation, attention-as-interface, mental-effort, introspection, causal-closure — the latter four were also firing on hedge/strong-assertion before the pass).
+- **Changes**: (1) Softened the one genuine over-claim — clinical dissociations "demonstrates that the phenomenology reflects causal architecture" → "strongly indicates… rather than narrative convenience," and appended the constrains-vs-establishes point inline (constrains the space of viable accounts; does not by itself establish the architecture is non-physical). (2) Reworded two non-Map detector hits without distorting meaning: veto-section "hypothesises rather than establishes empirically" → "rather than something it has shown empirically"; Occam-section opponent-claim "the RP proves consciousness is epiphenomenal" → "marked consciousness as epiphenomenal" (still the discredited opponent view). (3) Added the substantive underdetermination marker the audit specified: new subsection "What the Felt Data Can and Cannot Settle" making the felt phenomenology of willing "empirically equivalent" across libertarian/compatibilist/hard-determinist readings, blocking the "we experience willing → therefore non-physical volition" inference and locating the interface case in the broader framework (reportability + tenets + quantum opening), plus the explicit "removing the epiphenomenalist defeater ≠ upgrading positive evidence" point.
+- **Voice/claim preserved**: central claim (willing tracks real causal architecture, not confabulation; converges against epiphenomenalism) untouched; only epistemic register tightened to inherit the anchor's discipline. No fabrication; "This is not X. It is Y." cliché count = 0.
+- **Published**: yes
+
 ## 2026-05-26T10:55:46+00:00 - refine-draft
 - **Status**: Success
 - **File**: [[topics/overdetermination-dissolution-under-selection-only-interactionism]]

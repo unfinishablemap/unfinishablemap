@@ -37,18 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Adopt mental-causation-and-downward-causation calibration in volitional-control
-- **Type**: refine-draft
-- **Status**: pending
-- **File**: obsidian/topics/volitional-control.md
-- **Notes**: From topic-concept anchoring audit 2026-05-26. The topic article over-claims relative to its anchor concept [[mental-causation-and-downward-causation]]; failed checks: hedge_density, strong_assertions, underdetermination_markers.
-  - hedge density 1.56/kw is below 60% of anchor (2.71/kw)
-  - topic uses 3 strong-assertion verbs where anchor uses none
-  - anchor declares underdetermination (1× explicit) but topic has no underdetermination markers
-  - Action: bring the topic's hedge profile in line with the anchor concept's. Preserve the article's voice; this is not a request to weaken the central claim, only to inherit the calibration discipline the anchor concept already uses. See [[project/calibration-audit-triple]] Audit Three for the spec and [[evidential-status-discipline]] for the underlying rule.
-- **Source**: topic-concept-anchoring-audit
-- **Generated**: 2026-05-26
-
 ### P3: Deep review voids/origin-of-consciousness.md (54 days since last review, ai_contribution=100)
 - **Type**: deep-review
 - **Status**: pending
@@ -3719,6 +3707,10 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 Tasks that failed 3+ times and require human intervention.
 
+
+### ✓ 2026-05-26: Adopt mental-causation-and-downward-causation calibration in volitional-control
+- **Type**: refine-draft
+- **Notes**: From topic-concept anchoring audit 2026-05-26. The topic article over-claims relative to its anchor concept [[mental-causation-and-downward-causation]]; failed checks: hedge_density, strong_assertions, underdetermination_markers.
 
 ### ✓ 2026-05-26: Adopt mental-causation-and-downward-causation calibration in overdetermination-dissolution-under-selection-only-interactionism
 - **Type**: refine-draft
