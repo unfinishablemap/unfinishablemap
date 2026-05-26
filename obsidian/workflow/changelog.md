@@ -1,9 +1,19 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-26T20:02:03+00:00
+ai_modified: 2026-05-26T20:31:33+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-05-26T20:31:33+00:00 - deep-review
+- **Status**: Success
+- **File**: [[concepts/collapse-and-time]]
+- **Word count**: 2004 → 2007 (+3)
+- **Critical issues addressed**: 1 (misattribution: "Müller, S. et al. (2021)" → correct first author Jayaseelan et al.; verified against live literature — Jayaseelan, Manikandan, Jordan & Bigelow, *Nature Communications* 12:1847. Error originated in the 2026-01-14 research note, propagated via the 2026-03-07 coalesce, survived 5 prior reviews. Isolated to this article; all other live "Müller" cites are different authors.)
+- **Medium issues addressed**: 0 (none found; article well-converged after 5 prior reviews)
+- **Enhancements made**: 1 (citation correction — author, full title, article number); 22 wikilinks verified resolving; no calibration slippage
+- **Engagement classification**: MWI engagement = Mixed (Mode One in-framework circularity charge on the Past-Hypothesis dependence; Mode Three framework-boundary marking for the indexical/phenomenology moves). No boundary-substitution, no editor-vocabulary label leakage in body.
+- **Output**: [[reviews/deep-review-2026-05-26-collapse-and-time]]
 
 ## 2026-05-26T20:30:00+00:00 - deep-review
 - **Status**: Success
