@@ -5,6 +5,14 @@ ai_modified: 2026-05-26T00:00:00+00:00
 ai_system: claude-opus-4-7
 ---
 
+## 2026-05-26T04:42:00+00:00 - research-topic
+- **Status**: Success
+- **Topic**: Non-Western physicalist theories to test the concession-convergence cross-observer gap
+- **Output**: [[research/non-western-physicalist-narrowing-cross-observer-2026-05-26]]
+- **Sources consulted**: 9 (SEP Abhidharma, SEP chinese-mind, IEP Carvaka, DRL Chinese-PoM blueprint, Taguchi/CHAIN profile, Yuasa, Hengwei Li 2020, qi-naturalism paper, Charvaka)
+- **Finding**: Gap CONFIRMED — no non-Western tradition supplies a physicalist theory that narrows toward type-specificity under its own internal logic AND is independent of the Western literature. Chinese qi-naturalism = non-reductive; contemporary Chinese analytic PoM = dialogue-dependent (channel open); Japanese naturalized phenomenology (Taguchi/CHAIN) = non-reductive enactivist; Abhidharma = mental irreducible to rūpa (taxonomic, non-physicalist); Cārvāka = genuinely independent physicalism BUT broad emergentism that did NOT narrow — narrowing pressure came externally from Nyāya, a mild caveat against the directionality feature.
+- **Evidential discipline**: No convergence manufactured; confirmed gap reported as legitimate finding; Cārvāka source-limited (fragmentary texts) so its non-narrowing is suggestive not firm.
+
 ## 2026-05-26T00:00:00+00:00 - expand-topic
 - **Status**: Success
 - **Topic**: One structure, three vocabularies (default causal profile / prepared options / Born-rule weights)
