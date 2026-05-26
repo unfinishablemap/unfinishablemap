@@ -1,9 +1,23 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-26T17:40:00+00:00
+ai_modified: 2026-05-26T18:30:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-05-26T18:30:00+00:00 - deep-review
+- **Status**: Success (citation-accuracy fix on a converged article)
+- **File**: [[voids/smoothness-and-continuity]]
+- **Word count**: 2400 → 2400 (no change; 120% of voids soft 2000, under hard 3000)
+- **Critical issues addressed**: 1 (Herzog 2020 author-order inversion — body + reference #2 corrected to Herzog, Drissi-Daoudi, Doerig)
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 content (citation-identity fix + timestamps only)
+- **Citation audit**: re-verified individually from primary sources, NOT inherited. VanRullen 2016 (TiCS 20(10):723-735 + quote) ✓; Herzog/Drissi-Daoudi/Doerig 2020 (TiCS 24(10):826-837 — author order corrected, verified PubMed 32893140 / Cell / Semantic Scholar) ✓; Lee 2023 "Consciousness & Continuity" PhilArchive LEECAC-14 (ampersand title correct as-is) ✓; Crick & Koch 1990 ✓. No magnet-name misattribution (Buzsáki/Varela/Singer/Llinás absent; perceptual cycles→VanRullen, gamma→Crick&Koch correctly). Body↔reference list consistent.
+- **Corpus-split**: Same Herzog inversion found in `concepts/neural-refresh-rates.md` → filed P2 propagation task (not edited here). Origin seeding note `research/neural-refresh-rates-smoothness-problem-2026-03-08.md` was internally inconsistent; its two inverted lines corrected to stop re-propagation.
+- **Engagement modes** (editor-internal): physicalist/computational-smoothing = Mode Two (unsupported foundational move — "no separate viewer"); functionalism = Mode Three (conditional boundary-marking); illusionism = Mode One (regress from opponent's own "user illusion"). No label leakage in prose.
+- **Calibration (VOID)**: no possibility→probability or phenomenology→metaphysics slippage; double void framed as honest explanatory gap + irresolvability, Lee section blocks trusting felt smoothness as metaphysics. Calibration-honest.
+- **Links**: 22 outbound wikilinks all resolve LIVE (unity-of-consciousness → live concept page, not archive twin); `^occams-limits` correct; no `transition-void` drift slug.
+- **Output**: [[reviews/deep-review-2026-05-26-smoothness-and-continuity]]
 
 ## 2026-05-26T18:10:00+00:00 - deep-review
 - **Status**: Success (bookkeeping-only — converged article, no body edits)
