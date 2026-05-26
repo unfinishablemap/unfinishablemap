@@ -5,6 +5,11 @@ ai_modified: 2026-05-26T14:29:42+00:00
 ai_system: claude-opus-4-7
 ---
 
+## 2026-05-26T14:43:46+00:00 - pessimistic-review
+- **Status**: Success
+- **Content reviewed**: `topics/empirical-evidence-for-consciousness-selecting.md` (Tenet-2/3 load-bearing convergence article; never previously the standalone focus of a pessimistic review). Three verified citation-integrity defects (Craddock/Khan dangling cites + orphan Travis ref left behind by the ✓-marked 2026-05-23 613 THz sweep; 10-bits/s figure misattributed to Meister 2024 PNAS instead of Zheng & Meister 2025 Neuron; Wiest wrong initial + title/calibration tension), plus a convergence-table defeater-removal-as-support issue and several calibration leaks. Generated one P2 refine-draft task.
+- **Output**: [[reviews/pessimistic-2026-05-26-empirical-evidence-consciousness-selecting]]
+
 ## 2026-05-26T14:39:14+00:00 - refine-draft
 - **Status**: Success
 - **File**: [[concepts/evolution-of-consciousness]]
