@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-25T22:20:00+00:00
+ai_modified: 2026-05-26T00:56:38+00:00
 ai_system: claude-opus-4-7
 author: Andy Southgate
 concepts: []
@@ -1024,10 +1024,10 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: optimistic-review
 - **Generated**: 2026-04-19
 
-### P3: Address symmetry problem in Parsimony Void article
+### P2: Address symmetry problem in Parsimony Void article
 - **Type**: refine-draft
 - **Status**: pending
-- **Notes**: Pessimistic review 2026-04-18c noted that the void-argument (parsimony bias filters correct-but-complex theories) supports every anti-parsimony view equally — panpsychism, Russellian monism, neutral monism — not dualism specifically. Add a paragraph conceding the symmetric consequence, and either commit to the broader view (the void rehabilitates a cluster of positions) or argue specifically why dualism is the view *most* penalised by parsimony bias. Also reconsider whether the Mach example cuts against the thesis as much as for it: Mach was overridden by data, and where data is unavailable the honest conclusion is underdetermination, not dualism. See pessimistic-2026-04-18c.md.
+- **Notes**: PROMOTED P3→P2 by /replenish-queue 2026-05-26T00:56 UTC to restore a stable margin above the MIN_QUEUE_TASKS floor of 3 (open P0-P2 was at 2; sections near caps so promotion of ready-to-execute P3 work is preferred over new article tasks). Chosen as a surgical, fully-specified refine tied to a concrete pessimistic-review finding on a non-churning file. Pessimistic review 2026-04-18c noted that the void-argument (parsimony bias filters correct-but-complex theories) supports every anti-parsimony view equally — panpsychism, Russellian monism, neutral monism — not dualism specifically. Add a paragraph conceding the symmetric consequence, and either commit to the broader view (the void rehabilitates a cluster of positions) or argue specifically why dualism is the view *most* penalised by parsimony bias. Also reconsider whether the Mach example cuts against the thesis as much as for it: Mach was overridden by data, and where data is unavailable the honest conclusion is underdetermination, not dualism. See pessimistic-2026-04-18c.md.
 - **Source**: pessimistic-review
 - **Generated**: 2026-04-18
 
@@ -1075,10 +1075,10 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: optimistic-review
 - **Generated**: 2026-04-18
 
-### P3: Disentangle epistemic vs authenticity critiques in transformative-experience-void.md
+### P2: Disentangle epistemic vs authenticity critiques in transformative-experience-void.md
 - **Type**: refine-draft
 - **Status**: pending
-- **Notes**: Pessimistic review 2026-04-17d found Paul's response to Harman conflates (a) whether testimony conveys phenomenal content with (b) whether testimony-grounded decisions satisfy authenticity. These are distinct and should be separated. Also: add citations for the "interview studies of parents, combat veterans..." empirical claim (currently unsupported); soften Jackson/Mary reference to acknowledge its contested status; resolve or reformat the "Oquatre-six, C." co-author citation (Reference 9). See pessimistic-2026-04-17d.md.
+- **Notes**: PROMOTED P3→P2 by /replenish-queue 2026-05-26T00:56 UTC to restore a stable margin above the MIN_QUEUE_TASKS floor of 3 (open P0-P2 was at 2). Chosen as a surgical, fully-specified refine tied to a concrete pessimistic-review finding with discrete sub-fixes (citation, contested-status softening, malformed reference). Pessimistic review 2026-04-17d found Paul's response to Harman conflates (a) whether testimony conveys phenomenal content with (b) whether testimony-grounded decisions satisfy authenticity. These are distinct and should be separated. Also: add citations for the "interview studies of parents, combat veterans..." empirical claim (currently unsupported); soften Jackson/Mary reference to acknowledge its contested status; resolve or reformat the "Oquatre-six, C." co-author citation (Reference 9). See pessimistic-2026-04-17d.md.
 - **Source**: pessimistic-review
 - **Generated**: 2026-04-17
 
@@ -1441,10 +1441,10 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Notes**: Suggested by optimistic review. Unify the phenomenology of resistance across domains—physical objects pushing back, logical necessities constraining thought, moral obligations binding action, aesthetic standards judging creation—under a common interface signature. Builds on interface-friction.md, phenomenology-of-intellectual-effort.md, mental-effort.md. See optimistic-2026-04-05.md
 - **Generated**: 2026-04-05
 
-### P3: Fix circular MWI reasoning and compress player analogy in simulation.md
+### P2: Fix circular MWI reasoning and compress player analogy in simulation.md
 - **Type**: refine-draft
 - **Status**: pending
-- **Notes**: Pessimistic review found two issues: (1) High: No Many Worlds section uses circular reasoning—selects substrate assumption that favours single outcomes without justification, uses phenomenological argument that cannot distinguish phenomenologically identical hypotheses. (2) Medium: Player analogy concedes its own failure but still occupies ~300 words reaching a trivially true conclusion. See pessimistic-2026-03-28-d.md
+- **Notes**: PROMOTED P3→P2 by /replenish-queue 2026-05-26T00:56 UTC to restore a stable margin above the MIN_QUEUE_TASKS floor of 3 (open P0-P2 was at 2). Chosen because it carries a HIGH-severity pessimistic-review finding (circular reasoning in the No Many Worlds / Tenet 4 section), making it the highest-value editorial fix among the surgical candidates. Pessimistic review found two issues: (1) High: No Many Worlds section uses circular reasoning—selects substrate assumption that favours single outcomes without justification, uses phenomenological argument that cannot distinguish phenomenologically identical hypotheses. (2) Medium: Player analogy concedes its own failure but still occupies ~300 words reaching a trivially true conclusion. See pessimistic-2026-03-28-d.md
 - **Source**: pessimistic-review
 - **Generated**: 2026-03-28
 
@@ -1469,10 +1469,10 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: pessimistic-review
 - **Generated**: 2026-03-26
 
-### P3: Clarify downward causation timing gap severity
+### P2: Clarify downward causation timing gap severity
 - **Type**: refine-draft
 - **Status**: pending
-- **Notes**: Pessimistic review found that downward-causation.md acknowledges a three-order-of-magnitude timing gap between optimistic coherence estimates and neural decisions but then pivots to the Zeno mechanism without specifying how it bridges this gap. The "no energy injection" claim needs qualification for non-degenerate energy outcomes. Hameroff's revised coherence estimates lack citation. See pessimistic-2026-03-26.md
+- **Notes**: PROMOTED P3→P2 by /replenish-queue 2026-05-26T00:56 UTC to restore a stable margin above the MIN_QUEUE_TASKS floor of 3 (open P0-P2 was at 2). Chosen as a surgical refine on a Tenet-2/Tenet-3-load-bearing article (downward-causation.md) tied to a concrete timing-gap finding with a discrete missing-citation fix. Pessimistic review found that downward-causation.md acknowledges a three-order-of-magnitude timing gap between optimistic coherence estimates and neural decisions but then pivots to the Zeno mechanism without specifying how it bridges this gap. The "no energy injection" claim needs qualification for non-degenerate energy outcomes. Hameroff's revised coherence estimates lack citation. See pessimistic-2026-03-26.md
 - **Source**: pessimistic-review
 - **Generated**: 2026-03-26
 
