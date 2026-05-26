@@ -5,6 +5,13 @@ ai_modified: 2026-05-26T07:11:58+00:00
 ai_system: claude-opus-4-7
 ---
 
+## 2026-05-26T07:11:58+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[topics/clinical-neuroplasticity-evidence-for-bidirectional-causation]]
+- **Original score**: anchoring-audit flag (3/3 checks failed vs anchor [[mental-causation-and-downward-causation]])
+- **Changes**: Calibration-only refine (Audit Three). Inherited the anchor's hedge profile without weakening the central claim. (1) Strong-assertion verb removed: "which mechanism ultimately *proves* correct" → "turns out to be correct" (strong-assertion density 0.38→0/kw, anchor uses none). (2) Added the load-bearing underdetermination acknowledgment in the Convergence Argument: the clinical findings are *compatible with both interpretations* and *do not adjudicate between them* — clinical neuroplasticity removes the epiphenomenalist defeater without establishing dualist over physicalist causation; "evidence for" restricted to "consistent with / does not discriminate from brain→brain causation" (underdetermination markers 0→1, the honest status the title's "evidence for" risked overclaiming). (3) Added contingency hedges at contested junctures (seems/appears/may) → hedge density 1.15→2.18/kw, clears the ≥1.627 target. Cliché check: zero "This is not X. It is Y." constructs. Word count 2617→2759 (under soft 3000). evaluate_anchoring() now returns 0 flags (both mental-causation and causal-closure anchors clear). Voice preserved.
+- **Published**: yes
+
 ## 2026-05-26T07:11:58+00:00 - deep-review
 - **Status**: Success
 - **File**: [[voids/collective-cognitive-limits]]
