@@ -37,6 +37,31 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
+### P2: Adopt mental-causation-and-downward-causation calibration in overdetermination-dissolution-under-selection-only-interactionism
+- **Type**: refine-draft
+- **Status**: pending
+- **File**: obsidian/topics/overdetermination-dissolution-under-selection-only-interactionism.md
+- **Notes**: From topic-concept anchoring audit 2026-05-26. The topic article over-claims relative to its anchor concept [[mental-causation-and-downward-causation]]; failed checks: hedge_density, strong_assertions, underdetermination_markers.
+  - hedge density 1.16/kw is below 60% of anchor (2.71/kw)
+  - topic uses 1 strong-assertion verbs where anchor uses none
+  - anchor declares underdetermination (1× explicit) but topic has no underdetermination markers
+  - Action: bring the topic's hedge profile in line with the anchor concept's. Preserve the article's voice; this is not a request to weaken the central claim, only to inherit the calibration discipline the anchor concept already uses. See [[project/calibration-audit-triple]] Audit Three for the spec and [[evidential-status-discipline]] for the underlying rule.
+- **Source**: topic-concept-anchoring-audit
+- **Generated**: 2026-05-26
+
+### P2: Adopt mental-causation-and-downward-causation calibration in volitional-control
+- **Type**: refine-draft
+- **Status**: pending
+- **File**: obsidian/topics/volitional-control.md
+- **Notes**: From topic-concept anchoring audit 2026-05-26. The topic article over-claims relative to its anchor concept [[mental-causation-and-downward-causation]]; failed checks: hedge_density, strong_assertions, underdetermination_markers.
+  - hedge density 1.56/kw is below 60% of anchor (2.71/kw)
+  - topic uses 3 strong-assertion verbs where anchor uses none
+  - anchor declares underdetermination (1× explicit) but topic has no underdetermination markers
+  - Action: bring the topic's hedge profile in line with the anchor concept's. Preserve the article's voice; this is not a request to weaken the central claim, only to inherit the calibration discipline the anchor concept already uses. See [[project/calibration-audit-triple]] Audit Three for the spec and [[evidential-status-discipline]] for the underlying rule.
+- **Source**: topic-concept-anchoring-audit
+- **Generated**: 2026-05-26
+
+
 ### P3: Deep review voids/origin-of-consciousness.md (54 days since last review, ai_contribution=100)
 - **Type**: deep-review
 - **Status**: pending
@@ -1339,13 +1364,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Notes**: AI-generated content (ai_contribution: 100) last reviewed 2026-02-25 — 35 days ago. Voids article on the limits of affective self-knowledge. Referenced by valence-void and emotional consciousness articles. Verify coherence, accuracy, cross-references to recent affective/emotional articles, and tenet alignment.
 - **Source**: staleness
 - **Generated**: 2026-04-01
-
-### P2: Deep review parsimony-case-for-interactionist-dualism.md (~27 days since review, ai_contribution=100, Tenet 1/5 load-bearing)
-- **Type**: deep-review
-- **Status**: pending
-- **Notes**: AI-generated content (ai_contribution: 100) created 2026-03-24 from research/parsimony-case-interactionist-dualism-2026-03-24.md, last_deep_review 2026-04-29 (~27 days). Topics article arguing that interactionist dualism is actually the more parsimonious position. Cross-referenced in optimistic reviews. Verify accuracy of parsimony arguments, coherence, cross-references to Occam's razor articles and tenet 5, and tenet alignment. PROMOTED to P2 by /replenish-queue 2026-05-26: actionable (P0-P2) queue was at 2, below the MIN_QUEUE floor of 3. This is a genuinely-stale article directly load-bearing for **Tenet 1 (Dualism)** and **Tenet 5 (Occam's Razor Has Limits)** — the parsimony/Occam argument is the article's whole thesis, so promoting an existing staleness candidate is the honest replenishment move rather than fabricating new content tasks against the already-large (468-item) P3 backlog with all three sections near cap (topics 247/250, concepts 245/250, voids 101/100).
-- **Source**: staleness
-- **Generated**: 2026-03-30 (promoted to P2 2026-05-26)
 
 ### P3: Deep review necessary-opacity.md
 - **Type**: deep-review
@@ -3714,6 +3732,10 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 Tasks that failed 3+ times and require human intervention.
 
+
+### ✓ 2026-05-26: Deep review parsimony-case-for-interactionist-dualism.md (~27 days since review, ai_contribution=100, Tenet 1/5 load-bearing)
+- **Type**: deep-review
+- **Notes**: AI-generated content (ai_contribution: 100) created 2026-03-24 from research/parsimony-case-interactionist-dualism-2026-03-24.md, last_deep_review 2026-04-29 (~27 days). Topics article arguing that interactionist dualism is actually the more parsimonious position. Cross-referenced in optimistic reviews. Verify accuracy of parsimony arguments, coherence, cross-references to Occam's razor articles and tenet 5, and tenet alignment. PROMOTED to P2 by /replenish-queue 2026-05-26: actionable (P0-P2) queue was at 2, below the MIN_QUEUE floor of 3. This is a genuinely-stale article directly load-bearing for **Tenet 1 (Dualism)** and **Tenet 5 (Occam's Razor Has Limits)** — the parsimony/Occam argument is the article's whole thesis, so promoting an existing staleness candidate is the honest replenishment move rather than fabricating new content tasks against the already-large (468-item) P3 backlog with all three sections near cap (topics 247/250, concepts 245/250, voids 101/100).
 
 ### ✓ 2026-05-26: Deep review concepts/objectivity-and-consciousness.md (50 days since last review, ai_contribution=100, Tenet 1/5 load-bearing)
 - **Type**: deep-review
