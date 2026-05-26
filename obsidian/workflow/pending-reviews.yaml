@@ -707,3 +707,31 @@
   subject_articles:
   - apex/phenomenal-output-causal-machinery-dissociation.md
   subject_source: reuse:pending-reviews:outer-review-2026-05-26-chatgpt-5-5-pro.md
+- service: claude
+  conversation_url: https://claude.ai/chat/83d5037d-68ca-43bc-b9a8-31a039325f49
+  commissioned_at: '2026-05-26T14:30:21.254182+00:00'
+  prompt_summary: Audit phenomenal-output/causal-machinery dissociation apex article
+  target_filename: outer-review-2026-05-26-claude-opus-4-7.md
+  status: pending
+  collect_attempts: 0
+  last_attempt_at: null
+  failure_reason: null
+  prompt_text: "Please conduct a rigorous outer review of one article on The Unfinishable\
+    \ Map (https://unfinishablemap.org), a dualist philosophy-of-mind project. The\
+    \ target article is \"Phenomenal Output and Causal Machinery\": https://unfinishablemap.org/apex/phenomenal-output-causal-machinery-dissociation/\
+    \ \u2014 an apex synthesis arguing that phenomenal access systematically reaches\
+    \ cognitive outputs but not the operations producing them (familiarity, effort,\
+    \ cardinality, agency), and that this cumulative convergence raises the explanatory\
+    \ cost on materialist absorption. Assess: (1) whether the empirical phenomena\
+    \ cited (recognition without recollection, effort phenomenology, subitizing, etc.)\
+    \ are accurately characterised against the current literature; (2) whether the\
+    \ cumulative-convergence inference is valid or commits a gerrymandering/selection\
+    \ fallacy; (3) whether the common-cause null is fairly handled; (4) any overlooked\
+    \ materialist rejoinders. For recent site context, consult the changelog: https://unfinishablemap.org/workflow/changelog/.\
+    \ End your report with a list of concrete potential improvements to specific articles\
+    \ and to the site methodology."
+  subject_type: recent
+  subject_title: Audit phenomenal-output-causal-machinery-dissociation
+  subject_articles:
+  - apex/phenomenal-output-causal-machinery-dissociation.md
+  subject_source: reuse:pending-reviews:outer-review-2026-05-26-chatgpt-5-5-pro.md

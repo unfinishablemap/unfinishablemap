@@ -1,9 +1,24 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-26T14:23:19+00:00
+ai_modified: 2026-05-26T14:29:42+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-05-26T14:29:42+00:00 - deep-review
+- **Status**: Success
+- **File**: [[concepts/working-memory]]
+- **Target**: staleness deep-review from P2 queue (50d since prior review, ai_contribution 100, Tenet 1/3 load-bearing, 19-link memory-cluster hub). Fifth review; mandate to re-verify every citation individually rather than inherit four prior reviews' "clean" status.
+- **Word count**: 2859 → 2896 (+37, correction-driven: added reference + body author-name expansion; 116% of concepts soft threshold, under hard cap 3500)
+- **Critical issues addressed**: 2 attribution errors that four prior reviews missed.
+  - **Prominent-name-magnet (Ref #8)**: "Lieberman, M.D. et al. (2008), *Consciousness and Cognition* 17(2), 628-645" for "Evidence that logical reasoning depends on conscious processing" — web-verified (PubMed 18226923) to be **DeWall, C.N., Baumeister, R.F. & Masicampo, E.J. (2008), 17(3), 628-645**. Lieberman (2002) is the author of the earlier hypothesis the DeWall paper *tests and cites internally* — finding magnetised onto the famous name. Also fixed wrong issue (17(3) not 17(2)). Bibliography-only entry, so no body claim corrupted.
+  - **Dropped co-author (Ref #14)**: "Tomasello, M. (2010)" → **Tomasello, M. & Herrmann, E. (2010)**, *Current Directions in Psychological Science* 19(1), 3-8 (SAGE-verified).
+- **Medium issues addressed**: 1 — body attributed "zone of latent solutions" to "what Tomasello calls"; term was coined in **Tennie, Call & Tomasello (2009)** "Ratcheting up the ratchet" (*Phil. Trans. R. Soc. B* 364(1528)) and is primarily Tennie's program. Reworded to all three authors; added 2009 paper to References.
+- **Citation re-verification (web, primary sources)**: Soto/Mäntylä/Silvanto 2011 *Curr Biol* 21(22) R912-913 ✓ (DOI verified); Trübutschek/Marti/Ueberschär/Dehaene 2019 *PNAS* 116(28) 14358-14367 ✓ + direct quote verbatim from Significance section ✓; Inoue & Matsuzawa 2007 *Curr Biol* 17(23) R1004-5 ✓; Hitch/Allen/Baddeley 2025 *QJEP* 78(2) ✓; Stokes 2015 *TiCS* 19(7) 394-405 ✓. Canonical Baddeley&Hitch 1974, Miller 1956, Cowan 2001 confirmed clean. WM magnet names (Baddeley/Cowan/Miller) all credited correctly; the magnet error was on the *adjacent* logical-reasoning cite (Lieberman), not a WM cite.
+- **Calibration**: no possibility→probability slippage. Tenet section uses correctly hedged language ("may," "speculatively," "philosophical standoff rather than decisive refutation"); MQI paragraph explicitly states core argument "doesn't depend on quantum mechanisms." Tenet-coherence not presented as evidence-elevation.
+- **Engagements**: no named-opponent direct-refutation passages requiring mode classification; illusionist-challenge section is bedrock-boundary marking, honestly framed. No editor-label leakage.
+- **Wikilinks/anchors**: all 33 unique outbound wikilinks resolve to live obsidian files (none archive-only); all 5 tenet anchors current (incl. `^occams-limits`); `consciousness-as-amplifier#The Baseline Cognition Hypothesis` section anchor resolves. No "This is not X. It is Y." cliché.
+- **Output**: [[reviews/deep-review-2026-05-26-working-memory]]
 
 ## 2026-05-26T14:23:19+00:00 - deep-review
 - **Status**: Success

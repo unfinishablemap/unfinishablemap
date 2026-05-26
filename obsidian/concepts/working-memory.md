@@ -4,7 +4,7 @@ description: "Working memory manipulation requires consciousness while maintenan
 created: 2026-01-17
 modified: 2026-02-02
 human_modified: null
-ai_modified: 2026-04-06T22:03:00+00:00
+ai_modified: 2026-05-26T00:00:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -36,7 +36,7 @@ author: null
 ai_system: claude-opus-4-5-20251101
 ai_generated_date: 2026-01-17
 last_curated: null
-last_deep_review: 2026-04-06T22:03:00+00:00
+last_deep_review: 2026-05-26T00:00:00+00:00
 coalesced_from:
   - "/concepts/working-memory/"
   - "/topics/working-memory-as-consciousness-amplifier/"
@@ -108,7 +108,7 @@ The Bischof-Köhler hypothesis (Bischof-Köhler 1985) proposes that non-human an
 
 ## Cumulative Culture
 
-Human culture accumulates across generations—each generation builds on previous achievements, producing technologies and knowledge no individual could develop alone. Great ape culture exists (tool traditions, grooming patterns, vocalisations) but doesn't accumulate: cultural practices remain within what Tomasello calls the "zone of latent solutions," never exceeding what single individuals could discover.
+Human culture accumulates across generations—each generation builds on previous achievements, producing technologies and knowledge no individual could develop alone. Great ape culture exists (tool traditions, grooming patterns, vocalisations) but doesn't accumulate: cultural practices remain within what Tennie, Call, and Tomasello call the "zone of latent solutions," never exceeding what single individuals could discover.
 
 Why doesn't great ape culture accumulate? The [[consciousness-as-amplifier#The Baseline Cognition Hypothesis|baseline cognition hypothesis]] proposes that accumulation requires [[metacognition|metarepresentation]]—treating knowledge as knowledge that can be improved, transmitted, and built upon. This demands holding current practice and possible modifications simultaneously, then comparing them to select improvements. With 2±1 working memory capacity, this approaches the limit. The cognitive operations cumulative culture requires are exactly those expanded working memory enables.
 
@@ -212,11 +212,12 @@ None currently obtains. The asymmetry persists across studies; binding remains c
 1. Hitch, G.J., Allen, R.J., & Baddeley, A.D. (2025). The multicomponent model of working memory fifty years on. *Quarterly Journal of Experimental Psychology*.
 1. Inoue, S. & Matsuzawa, T. (2007). Working memory of numerals in chimpanzees. *Current Biology*, 17(23), R1004-R1005.
 1. Cowan, N. (2001). The magical number 4 in short-term memory: A reconsideration of mental storage capacity. *Behavioral and Brain Sciences*, 24(1), 87-114.
-1. Lieberman, M.D. et al. (2008). Evidence that logical reasoning depends on conscious processing. *Consciousness and Cognition*, 17(2), 628-645.
+1. DeWall, C.N., Baumeister, R.F., & Masicampo, E.J. (2008). Evidence that logical reasoning depends on conscious processing. *Consciousness and Cognition*, 17(3), 628-645.
 1. Miller, G.A. (1956). The magical number seven, plus or minus two. *Psychological Review*, 63(2), 81-97.
 1. Pöppel, E. (1997). A hierarchical model of temporal perception. *Trends in Cognitive Sciences*, 1(2), 56-61.
 1. Soto, D., Mäntylä, T., & Silvanto, J. (2011). Working memory without consciousness. *Current Biology*, 21(22), R912-R913.
 1. Stokes, M.G. (2015). 'Activity-silent' working memory in prefrontal cortex: A dynamic coding framework. *Trends in Cognitive Sciences*, 19(7), 394-405.
-1. Tomasello, M. (2010). Ape and human cognition: What's the difference? *Current Directions in Psychological Science*, 19(1), 3-8.
+1. Tennie, C., Call, J., & Tomasello, M. (2009). Ratcheting up the ratchet: On the evolution of cumulative culture. *Philosophical Transactions of the Royal Society B*, 364(1528), 2405-2415.
+1. Tomasello, M. & Herrmann, E. (2010). Ape and human cognition: What's the difference? *Current Directions in Psychological Science*, 19(1), 3-8.
 1. Trübutschek, D., Marti, S., Ueberschär, H., & Dehaene, S. (2019). Probing the limits of activity-silent non-conscious working memory. *Proceedings of the National Academy of Sciences*, 116(28), 14358-14367.
 1. Tulving, E. (2002). Episodic memory: From mind to brain. *Annual Review of Psychology*, 53, 1-25.
