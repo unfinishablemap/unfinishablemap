@@ -4,7 +4,7 @@ description: "From Princess Elisabeth's 1643 challenge through occasionalism, ex
 created: 2026-02-02
 modified: 2026-03-20
 human_modified:
-ai_modified: 2026-03-20T11:10:00+00:00
+ai_modified: 2026-05-26T00:00:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -36,7 +36,7 @@ author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-03-20
 last_curated:
-last_deep_review: 2026-03-20T11:10:00+00:00
+last_deep_review: 2026-05-26T00:00:00+00:00
 coalesced_from:
   - "/topics/history-of-interactionist-dualism/"
   - "/topics/princess-elizabeths-challenge/"

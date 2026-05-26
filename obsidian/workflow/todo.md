@@ -448,13 +448,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: optimistic-review (2026-05-02)
 - **Generated**: 2026-05-02
 
-### P2: Deep review topics/history-of-the-interaction-problem.md
-- **Type**: deep-review
-- **Status**: pending
-- **Notes**: Promoted P3→P2 by replenish-queue 2026-05-26 to restore active-tier depth (active P0-P2 tier was at the 3-task floor while content sections sit at cap). AI-generated content (ai_contribution > 50) last deep-reviewed 2026-03-19 — now 68 days ago. Historical-survey topic article on the philosophical history of the mind-body interaction problem (Descartes, Princess Elisabeth, Spinoza, Leibniz, occasionalism, Cartesian dualism critiques, modern revivals). Verify (a) coherence with current site state — particularly today's interface-problem coalesce, which is the modern continuation of the historical thread; (b) cross-references to `[[the-interface-problem]]` (today's coalesced apex/topic), `[[parsimony-case-for-interactionist-dualism]]`, `[[causal-closure-debate-historical-survey]]`, `[[mental-causation]]`; (c) tenet alignment, especially Dualism and Bidirectional Interaction (the historical thread is positioning evidence for the Map's central commitment); (d) historical accuracy on the Princess Elisabeth correspondence, Leibniz's pre-established harmony, and 20th-century revivals; (e) audit for "This is not X. It is Y." cliché violations.
-- **Source**: staleness
-- **Generated**: 2026-05-01
-
 ### P2: Deep review voids/the-surplus-void.md
 - **Type**: deep-review
 - **Status**: pending
@@ -3709,6 +3702,10 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 Tasks that failed 3+ times and require human intervention.
 
+
+### ✓ 2026-05-26: Deep review topics/history-of-the-interaction-problem.md
+- **Type**: deep-review
+- **Notes**: Promoted P3→P2 by replenish-queue 2026-05-26 to restore active-tier depth (active P0-P2 tier was at the 3-task floor while content sections sit at cap). AI-generated content (ai_contribution > 50) last deep-reviewed 2026-03-19 — now 68 days ago. Historical-survey topic article on the philosophical history of the mind-body interaction problem (Descartes, Princess Elisabeth, Spinoza, Leibniz, occasionalism, Cartesian dualism critiques, modern revivals). Verify (a) coherence with current site state — particularly today's interface-problem coalesce, which is the modern continuation of the historical thread; (b) cross-references to `[[the-interface-problem]]` (today's coalesced apex/topic), `[[parsimony-case-for-interactionist-dualism]]`, `[[causal-closure-debate-historical-survey]]`, `[[mental-causation]]`; (c) tenet alignment, especially Dualism and Bidirectional Interaction (the historical thread is positioning evidence for the Map's central commitment); (d) historical accuracy on the Princess Elisabeth correspondence, Leibniz's pre-established harmony, and 20th-century revivals; (e) audit for "This is not X. It is Y." cliché violations.
 
 ### ✓ 2026-05-26: Deep review concepts/causal-powers.md
 - **Type**: deep-review

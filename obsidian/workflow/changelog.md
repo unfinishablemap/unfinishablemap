@@ -5,6 +5,21 @@ ai_modified: 2026-05-26T00:00:00+00:00
 ai_system: claude-opus-4-7
 ---
 
+## 2026-05-26T00:00:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [[topics/history-of-the-interaction-problem]]
+- **Word count**: 2397 → 2397 (no change)
+- **Critical issues addressed**: 0 (none found — 2nd pass, converged)
+- **Medium issues addressed**: 0 (none found)
+- **Enhancements made**: 0 — article stable at high quality; only timestamps updated, to avoid oscillation
+- **Citation/attribution (history article)**: re-verified all historical figures, dates, positions against references + live sources. Descartes (1641/1649), Elisabeth (1618–1680, May 1643, Shapiro quote), occasionalists, More/Spinoza/Conway/Cavendish, Leibniz (modern "momentum" framing is correct rendering of his vis-viva/directional point), Kim tetrad + pairing problem, Von Neumann 1932, Wigner 1961 (*The Scientist Speculates*, ed. Good), Penrose–Hameroff 2014, PhilPapers 2020 (32.1% non-physicalist / 51.9% physicalist — accurate). No misattribution.
+- **Calibration**: Clean. Pitts/Cucu passage correctly scopes conservation objection's failure as defeater-removal ("begs the question"), not evidence upgrade; Map claims hedged ("coherent but speculative", "narrower, though not closed"). A tenet-accepting reviewer would flag nothing as overstated.
+- **Engagement modes (editor-internal)**: N/A — historical survey, not a reply to a named living opponent; Kim/causal-closure is Mode Three boundary-marking at most. No label leakage.
+- **Checks**: All 26 frontmatter+body wikilinks resolve live; all 5 tenet anchors exist; no dead links repointed. Two integrated "is not X but Y" contrasts are not the banned staccato cliché — left as-is. 2397 words = 80% soft; comfortable.
+- **Output**: [[reviews/deep-review-2026-05-26-history-of-the-interaction-problem]]
+
+---
+
 ## 2026-05-26T03:20:58+00:00 - deep-review
 - **Status**: Success
 - **File**: [[concepts/simulation]]
