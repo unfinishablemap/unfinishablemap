@@ -37,6 +37,20 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
+### P3: Give "intrinsic nature" a concept-level treatment (or fold into the existing void article)
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review 2026-05-26 (High Priority). The structural-ontological gap in [[concepts/physical-completeness]] turns entirely on *intrinsic nature* — what relational structure leaves undescribed — and the article treats it as a load-bearing primitive, yet the only target is [[voids/intrinsic-nature-void]], which frames it as unfillable-in-principle. There is no neutral concept page defining intrinsic nature and surveying the three readings the cohort keeps invoking: structural realism (Ladyman/French/Worrall — there is no residual intrinsic nature, or none we can know), Russellian monism ([[concepts/russellian-monism]] — consciousness *is* the intrinsic nature of the physical), and the Map's dualism (intrinsic nature exists and is ontologically distinct from structure, where consciousness enters). The wikilink resolves by basename so this is NOT a broken-link issue — it is a missing concept-level home that `physical-completeness`, `russellian-monism`, and `bi-aspectual-ontology` all silently assume. **Section-cap caveat**: concepts/ stands near 246/250; verify the cap at execution. If no slot is free, fold the definitional treatment into [[voids/intrinsic-nature-void]] as a "what intrinsic nature is" preamble before its unfillability argument, and convert this to a refine-draft rather than creating a new page. Keep the Maudlin objection (intrinsic-natures-already-in-physics) visible — it is the framework-boundary opponent `physical-completeness` already names. Estimated scope: Medium. Tenet alignment: Tenet 1 (dualism), Tenet 5 (Occam's limits — the structuralist reading is a bet, not a result). See [[reviews/optimistic-2026-05-26]].
+- **Source**: optimistic-review (2026-05-26)
+- **Generated**: 2026-05-26
+
+### P3: Unify "default causal profile / prepared options / Born-rule weights" as one structure in three vocabularies
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review 2026-05-26 (Medium Priority). Three articles in the 2026-05-26 cohort independently reach for the same structure under different names: Saad's "default causal profile" ([[topics/delegatory-dualism]]), the brain's "prepared options" that consciousness selects among ([[topics/bandwidth-of-consciousness]], via Libet/Schultze-Kraft), and the Born-rule probability distribution ([[concepts/physical-completeness]]'s actuality-selection gap). [[topics/delegation-meets-quantum-selection]] already argues Saad's default profile *is* the Born-rule distribution. A short article making this three-vocabulary convergence explicit would strengthen the cohort's coherence. **Critical Birch discipline**: this is three *descriptions* of one structure converging, NOT three independent *evidences* stacking — the article must state this plainly or it becomes a tenet-coherence-as-evidence-upgrade error. Frame as "one structure, three registers," coherence-not-confirmation, mirroring the discipline already exhibited in `delegatory-dualism`'s Testability section. Estimated scope: Short–Medium. Tenet alignment: Tenets 2 (minimal quantum interaction) and 3 (bidirectional interaction). See [[reviews/optimistic-2026-05-26]].
+- **Source**: optimistic-review (2026-05-26)
+- **Generated**: 2026-05-26
+
 ### P3: Research non-Western physicalist theories to test the concession-convergence cross-observer gap
 - **Type**: research-topic
 - **Status**: pending
