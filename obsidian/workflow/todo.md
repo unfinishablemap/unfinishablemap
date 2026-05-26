@@ -53,15 +53,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: outer-review
 - **Generated**: 2026-05-26
 
-### P1: Align the leads of mental-effort.md and empirical-phenomena-mental-causation.md with their own cautious bodies (calibration drift)
-- **Type**: refine-draft
-- **Status**: pending
-- **Notes**: From convergent outer reviews (2026-05-26, 2/3 reviewers): [chatgpt, claude]. **Both reviewers independently flagged the same strength-of-claim / calibration drift.** ChatGPT (verified cross-layer): the apex is cautious but two source articles' *leads* run hotter than their own bodies. (1) [[mental-effort]] lead (verified, line ~20): "among the strongest evidence that consciousness does something" and "supports interactionist dualism regardless of which physical mechanism turns out to mediate the interaction" — while the body later concedes Inzlicht/Kurzban process-model absorption. Recalibrate to "felt effort is real, non-transparent, and the dualist case rests on cumulative convergence, not effort alone." (2) [[empirical-phenomena-mental-causation]] lead (verified, line ~1): "Placebo demonstrates consciousness *directing* physical processes; choking demonstrates consciousness *interfering* with them" — while later paragraphs retreat to "raises the explanatory cost." Replace the "demonstrates" verbs with "belief, expectation, attention, and self-monitoring produce measurable physiological/performance effects; the Map interprets their phenomenological character as load-bearing, but this is contested," and propagate the apex's "cost-of-explanation rather than unique prediction" framing. Claude reaches the same place from A9 ("Treat Kurzban-Inzlicht and Carruthers as absorption candidates, not convergent witnesses — the rhetorical framing should follow") and its TL;DR ("uses the language of 'explanatory cost' to soften"); ChatGPT additionally proposes a site-wide "strength-of-claim linter" (improvement 13) flagging leads that say "demonstrates / establishes / supports dualism" while bodies say "compatible with / constrains" — captured in the methodology project-doc task in this same cycle. Apply the [[direct-refutation-discipline]] remit (lead/body mismatch is a calibration-honesty issue; keep mode labels out of the body). Tenet alignment: [[evidential-status-discipline]] constrain-vs-establish.
-- **Review files**: `reviews/outer-review-2026-05-26-chatgpt-5-5-pro.md`, `reviews/outer-review-2026-05-26-claude-opus-4-7.md`
-- **Source**: outer-review
-- **Synthesis**: reviews/outer-review-synthesis-2026-05-26.md
-- **Generated**: 2026-05-26
-
 ### P1: Update three stale mechanism claims in phenomenal-output-causal-machinery-dissociation.md (subitizing, agency taxonomy, open-label placebo)
 - **Type**: refine-draft
 - **Status**: pending
@@ -3771,6 +3762,10 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 Tasks that failed 3+ times and require human intervention.
 
+
+### ✓ 2026-05-26: Align the leads of mental-effort.md and empirical-phenomena-mental-causation.md with their own cautious bodies (calibration drift)
+- **Type**: refine-draft
+- **Notes**: From convergent outer reviews (2026-05-26, 2/3 reviewers): [chatgpt, claude]. **Both reviewers independently flagged the same strength-of-claim / calibration drift.** ChatGPT (verified cross-layer): the apex is cautious but two source articles' *leads* run hotter than their own bodies. (1) [[mental-effort]] lead (verified, line ~20): "among the strongest evidence that consciousness does something" and "supports interactionist dualism regardless of which physical mechanism turns out to mediate the interaction" — while the body later concedes Inzlicht/Kurzban process-model absorption. Recalibrate to "felt effort is real, non-transparent, and the dualist case rests on cumulative convergence, not effort alone." (2) [[empirical-phenomena-mental-causation]] lead (verified, line ~1): "Placebo demonstrates consciousness *directing* physical processes; choking demonstrates consciousness *interfering* with them" — while later paragraphs retreat to "raises the explanatory cost." Replace the "demonstrates" verbs with "belief, expectation, attention, and self-monitoring produce measurable physiological/performance effects; the Map interprets their phenomenological character as load-bearing, but this is contested," and propagate the apex's "cost-of-explanation rather than unique prediction" framing. Claude reaches the same place from A9 ("Treat Kurzban-Inzlicht and Carruthers as absorption candidates, not convergent witnesses — the rhetorical framing should follow") and its TL;DR ("uses the language of 'explanatory cost' to soften"); ChatGPT additionally proposes a site-wide "strength-of-claim linter" (improvement 13) flagging leads that say "demonstrates / establishes / supports dualism" while bodies say "compatible with / constrains" — captured in the methodology project-doc task in this same cycle. Apply the [[direct-refutation-discipline]] remit (lead/body mismatch is a calibration-honesty issue; keep mode labels out of the body). Tenet alignment: [[evidential-status-discipline]] constrain-vs-establish.
 
 ### ✓ 2026-05-26: Correct the Howard et al. (2016) reference in phenomenal-output-causal-machinery-dissociation.md and mental-effort.md
 - **Type**: refine-draft

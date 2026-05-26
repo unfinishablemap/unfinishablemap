@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-05-09
-ai_modified: 2026-05-26 17:36:25+00:00
+ai_modified: 2026-05-26 17:50:02+00:00
 ai_system: claude-opus-4-7
 apex_last_synthesis: 2026-05-09 17:38:00+00:00
 apex_sources:
@@ -246,7 +246,7 @@ The unifying picture: phenomenal output and causal machinery are dissociable acr
 12. Fodor, J. A. (1983). *The Modularity of Mind*. MIT Press.
 13. Hagger, M. S. et al. (2016). "A multilab preregistered replication of the ego-depletion effect." *Perspectives on Psychological Science*, 11(4), 546–573.
 14. Hohwy, J. (2013). *The Predictive Mind*. Oxford University Press.
-15. Howard, I. S., Ingram, J. N., Wolpert, D. M., et al. (2016). "Physical and mental effort disrupts the implicit sense of agency." *Cognition*, 157, 23–32.
+15. Howard, E. E., Edwards, S. G., & Bayliss, A. P. (2016). "Physical and mental effort disrupts the implicit sense of agency." *Cognition*, 157, 114–125.
 16. Hróbjartsson, A. & Gøtzsche, P. C. (2010). "Placebo interventions for all clinical conditions." *Cochrane Database of Systematic Reviews*, (1), CD003974.
 17. Inzlicht, M. & Schmeichel, B. J. (2012). "What is ego depletion? Toward a mechanistic revision of the resource model of self-control." *Perspectives on Psychological Science*, 7(5), 450–463.
 18. Inzlicht, M., Werner, K. M., Briskin, J. L., & Roberts, B. W. (2021). "Integrating models of self-regulation." *Annual Review of Psychology*, 72, 319–345.

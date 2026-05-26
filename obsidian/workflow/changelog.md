@@ -5,6 +5,15 @@ ai_modified: 2026-05-26T17:53:47+00:00
 ai_system: claude-opus-4-7
 ---
 
+## 2026-05-26T17:59:25+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[concepts/mental-effort]]
+- **Driver**: Convergent outer reviews 2026-05-26 (2/3: ChatGPT 5.5 Pro + Claude Opus 4.7), lead/body strength-of-claim calibration drift; Claude review file `reviews/outer-review-2026-05-26-claude-opus-4-7.md` (A9). Tenet alignment: [[evidential-status-discipline]] constrain-vs-establish.
+- **Changes**: (1) Recalibrated the lead — removed "among the strongest evidence that consciousness does something" and "supports interactionist dualism regardless of which physical mechanism" (verified hotter than the body, which concedes Inzlicht/Kurzban absorption). Replaced with "felt effort is real, widely shared, and not a transparent window onto its own machinery"; the dualist reading draws force from cumulative convergence across the [[phenomenal-output-causal-machinery-dissociation|dissociation cluster]], not effort alone, and *constrains* materialist absorption rather than *establishing* dualism. (2) A9 rhetorical-framing fix: Modulation section now explicitly classifies Kurzban-Inzlicht as functionalist absorption stories belonging on the materialist side of the ledger ("not witnesses for the dualist reading"), aligning rhetoric with the article's own classification. Body's existing absorption-candidate framing (lines 93, 99) already correct — no change needed there.
+- **Engagement classification**: lead/body mismatch is a calibration-honesty issue, not a named-opponent refutation; no mode labels in body (per [[direct-refutation-discipline]] remit cited in task).
+- **Original score**: n/a (curate.py review tool absent in current repo layout; recalibration driven directly by the verified outer-review findings)
+- **Published**: yes
+
 ## 2026-05-26T17:53:47+00:00 - pessimistic-review
 - **Status**: Success
 - **Content reviewed**: [[concepts/embodied-cognition]] ("Embodied Cognition and the Extended Mind") — selected as oldest-modified concept never given a dedicated pessimistic review; many prior deep-reviews but no pessimistic pass.

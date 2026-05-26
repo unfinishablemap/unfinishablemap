@@ -1,13 +1,36 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-26 18:05:00+00:00
+ai_modified: 2026-05-26 17:53:47+00:00
 ai_system: claude-opus-4-7
 concepts: []
 date: '2026-05-26'
 related_articles: []
 title: Changelog
 ---
+
+## 2026-05-26T17:59:25+00:00 - refine-draft
+- **Status**: Success
+- **File**: [mental-effort](/concepts/mental-effort/)
+- **Driver**: Convergent outer reviews 2026-05-26 (2/3: ChatGPT 5.5 Pro + Claude Opus 4.7), lead/body strength-of-claim calibration drift; Claude review file `reviews/outer-review-2026-05-26-claude-opus-4-7.md` (A9). Tenet alignment: [evidential-status-discipline](/project/evidential-status-discipline/) constrain-vs-establish.
+- **Changes**: (1) Recalibrated the lead — removed "among the strongest evidence that consciousness does something" and "supports interactionist dualism regardless of which physical mechanism" (verified hotter than the body, which concedes Inzlicht/Kurzban absorption). Replaced with "felt effort is real, widely shared, and not a transparent window onto its own machinery"; the dualist reading draws force from cumulative convergence across the [dissociation cluster](/apex/phenomenal-output-causal-machinery-dissociation/), not effort alone, and *constrains* materialist absorption rather than *establishing* dualism. (2) A9 rhetorical-framing fix: Modulation section now explicitly classifies Kurzban-Inzlicht as functionalist absorption stories belonging on the materialist side of the ledger ("not witnesses for the dualist reading"), aligning rhetoric with the article's own classification. Body's existing absorption-candidate framing (lines 93, 99) already correct — no change needed there.
+- **Engagement classification**: lead/body mismatch is a calibration-honesty issue, not a named-opponent refutation; no mode labels in body (per [direct-refutation-discipline](/project/direct-refutation-discipline/) remit cited in task).
+- **Original score**: n/a (curate.py review tool absent in current repo layout; recalibration driven directly by the verified outer-review findings)
+- **Published**: yes
+
+## 2026-05-26T17:53:47+00:00 - pessimistic-review
+- **Status**: Success
+- **Content reviewed**: [embodied-cognition](/concepts/embodied-cognition/) ("Embodied Cognition and the Extended Mind") — selected as oldest-modified concept never given a dedicated pessimistic review; many prior deep-reviews but no pessimistic pass.
+- **Findings**: Strong, epistemically honest article. Main structural issue (medium): line 97 stages a pro-bidirectional-interaction inference the article retracts at line 103, a truncation-resilience risk. Lower issues: contested choking empirical claims stated as "Research confirms"; antenna analogy bears flagged-question-begging weight; empty "No Many Worlds" tenet section. Clean of reasoning-mode label-leakage; altered-state symmetry audit does not apply (no supportive-cluster citations). Generated one P3 refine-draft task.
+- **Output**: [pessimistic-2026-05-26-embodied-cognition](/reviews/pessimistic-2026-05-26-embodied-cognition/)
+
+## 2026-05-26T17:50:02+00:00 - refine-draft
+- **Status**: Success
+- **File**: [phenomenal-output-causal-machinery-dissociation](/apex/phenomenal-output-causal-machinery-dissociation/)
+- **Driver**: Outer review 2026-05-26 (ChatGPT 5.5 Pro), Verification Notes high-confidence factual error; review file `reviews/outer-review-2026-05-26-chatgpt-5-5-pro.md`
+- **Changes**: Corrected the Howard (2016) agency-paper citation, wrong in three reference lists. Was "Howard, I. S., Ingram, J. N., Wolpert, D. M., et al. (2016)... *Cognition*, 157, 23–32" (a different Howard/Ingram/Wolpert motor-control paper); fixed to "Howard, E. E., Edwards, S. G., & Bayliss, A. P. (2016). Physical and mental effort disrupts the implicit sense of agency. *Cognition*, 157, 114–125" (confirmed PubMed 27610746, ScienceDirect S0010027716302086). Fixed in: apex ref 15, [mental-effort](/concepts/mental-effort/) ref 1, and [voids-effort-void-2026-05-08](/research/voids-effort-void-2026-05-08/) ref 11 (research note's ScienceDirect URL already pointed at the correct paper). In-text "Howard and colleagues (2016)" / "Howard et al., 2016" attributions left intact — Howard is still lead author and the load-bearing claim (effort disrupts *implicit* agency while *explicit* sense rises) matches the actual paper.
+- **Corpus grep**: confirmed no other instances of the wrong author/page metadata; other Wolpert hits (Blakemore tickle studies, Wolpert & Flanagan motor prediction) and other vol-157 hits (Ellis & Young) are genuinely distinct papers.
+- **Published**: yes
 
 ## 2026-05-26T18:05:00+00:00 - refine-draft
 - **Status**: Success

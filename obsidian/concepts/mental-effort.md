@@ -4,7 +4,7 @@ description: "Why controlling attention feels like work—and what this widely-s
 created: 2026-01-14
 modified: 2026-05-09
 human_modified: null
-ai_modified: 2026-05-26T17:50:02+00:00
+ai_modified: 2026-05-26T17:59:25+00:00
 draft: false
 topics:
   - "[[topics/free-will]]"
@@ -46,7 +46,7 @@ last_curated: null
 last_deep_review: 2026-05-09T04:40:00+00:00
 ---
 
-Controlling your attention takes effort. This simple phenomenological fact—that directing the mind feels effortful, that overriding impulses requires work—is among the strongest evidence that consciousness does something. If effort is *real*—if it genuinely costs something to hold attention on a topic—then something is doing work. The question is what. The Unfinishable Map argues that this datum supports interactionist dualism regardless of which physical mechanism turns out to mediate the interaction.
+Controlling your attention takes effort. This simple phenomenological fact—that directing the mind feels effortful, that overriding impulses requires work—is real, widely shared, and not a transparent window onto its own machinery. Felt effort genuinely costs something to hold attention on a topic, yet the empirical literature (set out below) shows the felt sense detaching, in several distinct ways, from the operation it ostensibly reports. The Unfinishable Map does not rest its case on effort alone: the dualist reading draws what force it has from cumulative convergence across the broader [[phenomenal-output-causal-machinery-dissociation|phenomenal-output / causal-machinery dissociation cluster]], not from this single datum, and it *constrains* materialist absorption rather than *establishing* dualism (see [[evidential-status-discipline]]).
 
 See [[attentional-economics]] for how this effort phenomenology fits within a broader framework where agency is the allocation of scarce attentional resources.
 
@@ -84,7 +84,7 @@ Hagger and colleagues (2016) ran a preregistered 23-laboratory replication of th
 
 ### Modulation
 
-Kurzban and colleagues (2013) reframe felt effort as the output of an opportunity-cost computation: what gets felt as the cost of trying is the cost of the alternative deployment forgone. Inzlicht and Schmeichel (2012; Inzlicht et al., 2021) develop a parallel process model in which felt effort is an adaptive informational signal — "this is no longer worth your while; switch" — rather than a fuel-gauge readout. Westbrook and colleagues (2020) confirm one prediction: methylphenidate-induced dopamine elevation shifts willingness to engage demanding tasks, with the felt sense shifting as a consequence — and the introspector noticing the result without noticing the manipulation.
+Kurzban and colleagues (2013) reframe felt effort as the output of an opportunity-cost computation: what gets felt as the cost of trying is the cost of the alternative deployment forgone. Inzlicht and Schmeichel (2012; Inzlicht et al., 2021) develop a parallel process model in which felt effort is an adaptive informational signal — "this is no longer worth your while; switch" — rather than a fuel-gauge readout. These are functionalist absorption stories, not witnesses for the dualist reading: felt effort *just is* the output of the cost-benefit machinery, with no residual that demands a distinct phenomenal register. They belong on the materialist side of the ledger and must be engaged as such, not enlisted as convergent support. Westbrook and colleagues (2020) confirm one prediction: methylphenidate-induced dopamine elevation shifts willingness to engage demanding tasks, with the felt sense shifting as a consequence — and the introspector noticing the result without noticing the manipulation.
 
 ### What This Constrains, and What It Doesn't
 

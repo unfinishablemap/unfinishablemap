@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-14
-ai_modified: 2026-05-10 10:09:00+00:00
+ai_modified: 2026-05-26 17:59:25+00:00
 ai_system: claude-opus-4-7
 author: null
 concepts:
@@ -48,7 +48,7 @@ topics:
 - '[[topics/bandwidth-of-consciousness]]'
 ---
 
-Controlling your attention takes effort. This simple phenomenological fact—that directing the mind feels effortful, that overriding impulses requires work—is among the strongest evidence that consciousness does something. If effort is *real*—if it genuinely costs something to hold attention on a topic—then something is doing work. The question is what. The Unfinishable Map argues that this datum supports interactionist dualism regardless of which physical mechanism turns out to mediate the interaction.
+Controlling your attention takes effort. This simple phenomenological fact—that directing the mind feels effortful, that overriding impulses requires work—is real, widely shared, and not a transparent window onto its own machinery. Felt effort genuinely costs something to hold attention on a topic, yet the empirical literature (set out below) shows the felt sense detaching, in several distinct ways, from the operation it ostensibly reports. The Unfinishable Map does not rest its case on effort alone: the dualist reading draws what force it has from cumulative convergence across the broader [phenomenal-output / causal-machinery dissociation cluster](/apex/phenomenal-output-causal-machinery-dissociation/), not from this single datum, and it *constrains* materialist absorption rather than *establishing* dualism (see [evidential-status-discipline](/project/evidential-status-discipline/)).
 
 See [attentional-economics](/concepts/attentional-economics/) for how this effort phenomenology fits within a broader framework where agency is the allocation of scarce attentional resources.
 
@@ -86,7 +86,7 @@ Hagger and colleagues (2016) ran a preregistered 23-laboratory replication of th
 
 ### Modulation
 
-Kurzban and colleagues (2013) reframe felt effort as the output of an opportunity-cost computation: what gets felt as the cost of trying is the cost of the alternative deployment forgone. Inzlicht and Schmeichel (2012; Inzlicht et al., 2021) develop a parallel process model in which felt effort is an adaptive informational signal — "this is no longer worth your while; switch" — rather than a fuel-gauge readout. Westbrook and colleagues (2020) confirm one prediction: methylphenidate-induced dopamine elevation shifts willingness to engage demanding tasks, with the felt sense shifting as a consequence — and the introspector noticing the result without noticing the manipulation.
+Kurzban and colleagues (2013) reframe felt effort as the output of an opportunity-cost computation: what gets felt as the cost of trying is the cost of the alternative deployment forgone. Inzlicht and Schmeichel (2012; Inzlicht et al., 2021) develop a parallel process model in which felt effort is an adaptive informational signal — "this is no longer worth your while; switch" — rather than a fuel-gauge readout. These are functionalist absorption stories, not witnesses for the dualist reading: felt effort *just is* the output of the cost-benefit machinery, with no residual that demands a distinct phenomenal register. They belong on the materialist side of the ledger and must be engaged as such, not enlisted as convergent support. Westbrook and colleagues (2020) confirm one prediction: methylphenidate-induced dopamine elevation shifts willingness to engage demanding tasks, with the felt sense shifting as a consequence — and the introspector noticing the result without noticing the manipulation.
 
 ### What This Constrains, and What It Doesn't
 
@@ -172,7 +172,7 @@ If controlling attention genuinely costs something, something must be doing the 
 ## References
 
 1. Hagger, M.S., Chatzisarantis, N.L.D., et al. (2016). A multilab preregistered replication of the ego-depletion effect. *Perspectives on Psychological Science*, 11(4), 546-573.
-1. Howard, I.S., Ingram, J.N., Wolpert, D.M., et al. (2016). Physical and mental effort disrupts the implicit sense of agency. *Cognition*, 157, 23-32.
+1. Howard, E.E., Edwards, S.G., & Bayliss, A.P. (2016). Physical and mental effort disrupts the implicit sense of agency. *Cognition*, 157, 114-125.
 1. Inzlicht, M. & Schmeichel, B.J. (2012). What is ego depletion? Toward a mechanistic revision of the resource model of self-control. *Perspectives on Psychological Science*, 7(5), 450-463.
 1. Inzlicht, M., Werner, K.M., Briskin, J.L., & Roberts, B.W. (2021). Integrating models of self-regulation. *Annual Review of Psychology*, 72, 319-345.
 1. James, W. (1890). *The Principles of Psychology*.
