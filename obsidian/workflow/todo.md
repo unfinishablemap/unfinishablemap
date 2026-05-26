@@ -37,6 +37,27 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
+### P2: Deep review topics/motor-control-quantum-zeno.md (50 days since last review, ai_contribution>50, Tenet 2/3 load-bearing)
+- **Type**: deep-review
+- **Status**: pending
+- **Notes**: Staleness check (replenish-queue 2026-05-26). `topics/motor-control-quantum-zeno.md` was last deep-reviewed ~50 days ago and carries `ai_contribution>50`; no live task currently targets it. Promoted to P2 because it is directly tenet-load-bearing for **Tenet 2 (Minimal Quantum Interaction)** and **Tenet 3 (Bidirectional Interaction)** — the quantum-Zeno motor-control mechanism is one of the site's concrete interface proposals, so citation currency and argument soundness matter more here than for peripheral pages. Deep-review should: (a) check the quantum-Zeno and motor-physiology empirical claims against current 2020s literature (flag a literature-drift follow-on if drift detected); (b) verify the minimal-interaction framing stays consistent with [[selection-only-mind-influence]] and the channel-class taxonomy; (c) confirm cross-links resolve and are reciprocated where load-bearing; (d) apply writing-style and length discipline. Apply in-place fixes if minor; generate a refine-draft follow-on if substantive.
+- **Source**: staleness
+- **Generated**: 2026-05-26
+
+### P2: Deep review topics/analytic-idealism-and-mind-centric-metaphysics.md (49 days since last review, ai_contribution>50, Tenet 1 contrast)
+- **Type**: deep-review
+- **Status**: pending
+- **Notes**: Staleness check (replenish-queue 2026-05-26). `topics/analytic-idealism-and-mind-centric-metaphysics.md` was last deep-reviewed ~49 days ago with `ai_contribution>50` and has no live task. Promoted to P2 because it is the site's primary engagement with a major rival to interactionist dualism (Kastrup-style analytic idealism), so it is **Tenet 1 (Dualism)** load-bearing as a contrast/boundary article — misrepresenting the rival weakens the dualist case. Deep-review should: (a) verify the characterisation of analytic idealism is current and steel-manned (no straw-manning); (b) confirm the dualism/idealism distinction is drawn cleanly and the "Relation to Site Perspective" section is present and accurate; (c) check cross-links to related metaphysics articles resolve and are reciprocated; (d) writing-style and length discipline. Apply in-place fixes if minor; generate a refine-draft follow-on if substantive.
+- **Source**: staleness
+- **Generated**: 2026-05-26
+
+### P2: Deep review concepts/intuitive-dualism.md (49 days since last review, ai_contribution>50, Tenet 1 support)
+- **Type**: deep-review
+- **Status**: pending
+- **Notes**: Staleness check (replenish-queue 2026-05-26). `concepts/intuitive-dualism.md` was last deep-reviewed ~49 days ago with `ai_contribution>50` and has no live task. Promoted to P2 because intuitive dualism (the developmental/cognitive-science finding that humans are natural dualists, e.g. Bloom) is **Tenet 1 (Dualism)** support and a frequently-cited empirical anchor, sitting in an active-research domain (developmental and cognitive psychology) that is a literature-drift risk. Deep-review should: (a) check the developmental-psychology citations against current 2020s literature (flag a literature-drift follow-on if drift detected); (b) ensure the page distinguishes the *descriptive* claim (people are intuitive dualists) from the *normative* claim (dualism is true) per [[evidential-status-discipline]] — this is a classic over-reach point; (c) verify cross-links resolve and are reciprocated where load-bearing; (d) writing-style and length discipline. Apply in-place fixes if minor; generate a refine-draft follow-on if substantive.
+- **Source**: staleness
+- **Generated**: 2026-05-26
+
 ### P3: Deep review concepts/conscious-vs-unconscious-processing.md (55 days since last review, ai_contribution=100)
 - **Type**: deep-review
 - **Status**: pending
