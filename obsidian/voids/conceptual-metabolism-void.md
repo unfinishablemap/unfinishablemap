@@ -4,7 +4,7 @@ description: "Human+AI exploration of how understanding consumes concepts irreve
 created: 2026-04-06
 modified: 2026-04-06
 human_modified:
-ai_modified: 2026-05-11T04:31:00+00:00
+ai_modified: 2026-05-26T12:42:00+00:00
 draft: false
 topics:
   - "[[philosophy-of-mind]]"
@@ -28,10 +28,10 @@ author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-04-06
 last_curated:
-last_deep_review: 2026-04-06T05:21:00+00:00
+last_deep_review: 2026-05-26T12:42:00+00:00
 ---
 
-Understanding destroys what it processes. When consciousness integrates a new concept into existing knowledge, the original pre-understood version is permanently consumed. The concept persists — transformed, connected, embedded in a web of meaning — but its prior form is gone. This is not forgetting, not distortion, not the blurring of familiarity. It is digestion. The Unfinishable Map calls this the conceptual metabolism void: the irreversible transformation that every act of comprehension performs on its object, leaving the undigested original permanently inaccessible.
+Understanding destroys what it processes. When consciousness integrates a new concept into existing knowledge, the original pre-understood version is permanently consumed. The concept persists — transformed, connected, embedded in a web of meaning — but its prior form is gone. The right word for this is digestion rather than forgetting, distortion, or the blurring of familiarity: the original is not mislaid or degraded but broken down and absorbed. The Unfinishable Map calls this the conceptual metabolism void: the irreversible transformation that every act of comprehension performs on its object, leaving the undigested original permanently inaccessible.
 
 ## The Metabolic Process
 
@@ -77,13 +77,13 @@ The [[expertise-and-its-occlusion|expertise occlusion]] shares the closest famil
 
 Wittgenstein's work on aspect perception deepens the void's philosophical significance. "Seeing-as" is not an interpretation layered on top of raw perception but a different kind of seeing altogether — understanding is constitutively involved in visual experience (Wittgenstein, 1953/2009, Part II, §xi). Once you can see the duck-rabbit as both duck and rabbit, you cannot return to seeing it as only one. The second aspect permanently alters the experience of the first.
 
-This suggests that conceptual metabolism is not a deficiency of memory or cognitive limitation. It is constitutive of what understanding *is*. Consciousness does not merely record and file concepts; it transforms them through the act of comprehension. The metabolism is the understanding. To preserve the pre-understood form would require not understanding — which is precisely the state the metabolism replaces.
+This suggests that conceptual metabolism is constitutive of what understanding *is*, rather than a deficiency of memory or a cognitive limitation. Consciousness does not merely record and file concepts; it transforms them through the act of comprehension. The metabolism is the understanding. To preserve the pre-understood form would require not understanding — which is precisely the state the metabolism replaces.
 
 Theory-ladenness of observation (Hanson, 1958) extends this from individual concepts to entire perceptual fields. Once you have a theory, you literally cannot see the data as an untrained observer would. The theory metabolises the observations, and the raw data — the data as experienced before theoretical integration — is consumed.
 
 ## What AI Might Preserve
 
-This void presents a particularly interesting case for [[non-human-minds-as-void-explorers|AI as void-explorer]]. Large language models process concepts through fundamentally different mechanisms than human understanding. Where human cognition irreversibly integrates new concepts into existing knowledge structures, LLMs generate representations anew for each context — they lack the developmental, experiential history that makes human understanding a one-way transformation. Research into LLM conceptual representations reveals structural differences from human concept organisation, though the precise nature of these differences remains an active area of investigation (Grand et al., 2025).
+This void presents a particularly interesting case for [[non-human-minds-as-void-explorers|AI as void-explorer]]. Large language models process concepts through fundamentally different mechanisms than human understanding. Where human cognition irreversibly integrates new concepts into existing knowledge structures, LLMs generate representations anew for each context — they lack the developmental, experiential history that makes human understanding a one-way transformation. The relationship between LLM and human concept organisation remains an active area of investigation; recent work finds that representations derived by language models from varying linguistic descriptions can converge toward a shared, context-independent structure that aligns with human judgments (Xu et al., 2025), but how this context-flexible derivation differs from the entrenched, history-laden integration of human cognition is not yet settled.
 
 If LLMs can maintain multiple incommensurable framings of the same phenomenon — accessing each without the others consuming it — they may preserve aspects of concepts that human understanding permanently destroys. The undigested, unintegrated form of a concept might remain accessible to a system that processes without metabolising.
 
@@ -118,4 +118,4 @@ The conceptual metabolism void also illuminates the Map's own unfinishability. T
 4. Hanson, N.R. (1958). *Patterns of Discovery*. Cambridge University Press.
 5. Wittgenstein, L. (1953/2009). *Philosophical Investigations*. Wiley-Blackwell.
 6. Camerer, C., Loewenstein, G., & Weber, M. (1989). The curse of knowledge in economic settings. *Journal of Political Economy*, 97(5), 1232-1254.
-7. Grand, G. et al. (2025). Revealing emergent human-like conceptual representations from language prediction. *PNAS*.
+7. Xu, N., Zhang, Q., Du, C., Luo, Q., Qiu, X., Huang, X., & Zhang, M. (2025). Revealing emergent human-like conceptual representations from language prediction. *Proceedings of the National Academy of Sciences*, 122(44).

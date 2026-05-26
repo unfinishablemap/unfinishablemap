@@ -5,6 +5,18 @@ ai_modified: 2026-05-26T12:14:27+00:00
 ai_system: claude-opus-4-7
 ---
 
+## 2026-05-26T12:42:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [[voids/conceptual-metabolism-void]]
+- **Word count**: 1575 → 1639 (82% of 2000 voids soft target — under)
+- **Critical issues addressed**: 1 — **author misattribution** in the recent (2025) cite: "Grand, G. et al." for the PNAS paper "Revealing emergent human-like conceptual representations from language prediction" is fabricated; primary source (PNAS 122(44), arXiv:2501.12547) gives first author **Ningyu Xu**. Corrected to "Xu et al., 2025" in body and references. Closes the verification item the 2026-04-06 review explicitly deferred.
+- **Source-finding correction (critical-adjacent)**: body claimed the paper shows "structural differences from human concept organisation"; paper's actual finding is the opposite — LLM representations *converge toward a shared, human-aligned structure*. Reframed to report the real finding while keeping the article's defensible open question.
+- **Citation re-verification (live primary sources)**: Camerer, Loewenstein & Weber (1989) JPE 97(5) 1232-1254 — CLEAN. Hanson (1958) *Patterns of Discovery*, CUP — CLEAN. Canonical pre-2010 cites (Gadamer, Kuhn, Piaget, Wittgenstein) match standard editions. Fabrication confined to the recent cite, as task context predicted.
+- **Calibration check**: no possibility/probability slippage — AI/LLM speculation flagged speculative; tenets interpret the void rather than upgrade an empirical claim. A tenet-accepting reviewer would not flag any claim as overstated.
+- **Wikilink/anchor check**: all wikilinks resolve to live (non-archive) obsidian files; tenet anchors ^occams-limits, ^dualism, ^no-many-worlds all present in tenets.md — no stale anchors.
+- **Medium issues addressed**: 2 — removed two "This is not X. It is Y." cliché instances (opening paragraph + Wittgenstein section), rephrased to direct positive claims preserving voice.
+- **Output**: [[reviews/deep-review-2026-05-26-conceptual-metabolism-void]]
+
 ## 2026-05-26T08:00:00+00:00 - deep-review
 - **Status**: Success
 - **File**: [[concepts/grain-mismatch]]

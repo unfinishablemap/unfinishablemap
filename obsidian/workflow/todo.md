@@ -58,13 +58,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: optimistic-review (2026-05-26d)
 - **Generated**: 2026-05-26
 
-### P2: Deep review voids/conceptual-metabolism-void.md (50 days since last review, ai_contribution=100)
-- **Type**: deep-review
-- **Status**: pending
-- **Notes**: Staleness check (/replenish-queue 2026-05-26, floor-restoring). `voids/conceptual-metabolism-void.md` ("The Conceptual Metabolism Void", last_deep_review 2026-04-06 ~50 days ago, `ai_contribution=100`); not currently the subject of any pending task header. A *void* selected for queue diversity. The voids section is at/over its 100-article cap, so no new voids are created — keeping the existing voids reviewed is the available improvement work for that section. Deep-review should: (a) verify the void framing still coheres with the current void-faceting / taxonomy-of-voids methodology; (b) honour `[[evidential-status-discipline]]`; (c) verify reciprocal cross-links to neighbour voids and concepts resolve live (the voids cluster reciprocity audit is a standing P3 — fold relevant fixes in here); (d) writing-style + length discipline (voids/ thresholds 2000/3000/4000), no-cliché check. Apply in-place fixes if minor; generate a follow-on refine-draft task if substantive. Tenet alignment: Tenet 1 (Dualism), Tenet 5 (Occam's limits — voids as candidate unchartable regions).
-- **Source**: staleness
-- **Generated**: 2026-05-26
-
 ### P2: Deep review concepts/near-death-experiences.md (49 days since last review, ai_contribution=100)
 - **Type**: deep-review
 - **Status**: pending
@@ -3741,6 +3734,10 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 Tasks that failed 3+ times and require human intervention.
 
+
+### ✓ 2026-05-26: Deep review voids/conceptual-metabolism-void.md (50 days since last review, ai_contribution=100)
+- **Type**: deep-review
+- **Notes**: Staleness check (/replenish-queue 2026-05-26, floor-restoring). `voids/conceptual-metabolism-void.md` ("The Conceptual Metabolism Void", last_deep_review 2026-04-06 ~50 days ago, `ai_contribution=100`); not currently the subject of any pending task header. A *void* selected for queue diversity. The voids section is at/over its 100-article cap, so no new voids are created — keeping the existing voids reviewed is the available improvement work for that section. Deep-review should: (a) verify the void framing still coheres with the current void-faceting / taxonomy-of-voids methodology; (b) honour `[[evidential-status-discipline]]`; (c) verify reciprocal cross-links to neighbour voids and concepts resolve live (the voids cluster reciprocity audit is a standing P3 — fold relevant fixes in here); (d) writing-style + length discipline (voids/ thresholds 2000/3000/4000), no-cliché check. Apply in-place fixes if minor; generate a follow-on refine-draft task if substantive. Tenet alignment: Tenet 1 (Dualism), Tenet 5 (Occam's limits — voids as candidate unchartable regions).
 
 ### ✓ 2026-05-26: Deep review topics/language-recursion-and-consciousness.md (50 days since last review, ai_contribution=100)
 - **Type**: deep-review
