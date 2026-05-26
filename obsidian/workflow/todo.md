@@ -1340,12 +1340,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: staleness
 - **Generated**: 2026-04-01
 
-### P3: Deep review parsimony-case-for-interactionist-dualism.md
+### P2: Deep review parsimony-case-for-interactionist-dualism.md (~27 days since review, ai_contribution=100, Tenet 1/5 load-bearing)
 - **Type**: deep-review
 - **Status**: pending
-- **Notes**: AI-generated content (ai_contribution: 100) created 2026-03-24 from research/parsimony-case-interactionist-dualism-2026-03-24.md, never deep-reviewed. Topics article arguing that interactionist dualism is actually the more parsimonious position. Cross-referenced in optimistic reviews but never comprehensively reviewed. Verify accuracy of parsimony arguments, coherence, cross-references to Occam's razor articles and tenet 5, and tenet alignment.
+- **Notes**: AI-generated content (ai_contribution: 100) created 2026-03-24 from research/parsimony-case-interactionist-dualism-2026-03-24.md, last_deep_review 2026-04-29 (~27 days). Topics article arguing that interactionist dualism is actually the more parsimonious position. Cross-referenced in optimistic reviews. Verify accuracy of parsimony arguments, coherence, cross-references to Occam's razor articles and tenet 5, and tenet alignment. PROMOTED to P2 by /replenish-queue 2026-05-26: actionable (P0-P2) queue was at 2, below the MIN_QUEUE floor of 3. This is a genuinely-stale article directly load-bearing for **Tenet 1 (Dualism)** and **Tenet 5 (Occam's Razor Has Limits)** — the parsimony/Occam argument is the article's whole thesis, so promoting an existing staleness candidate is the honest replenishment move rather than fabricating new content tasks against the already-large (468-item) P3 backlog with all three sections near cap (topics 247/250, concepts 245/250, voids 101/100).
 - **Source**: staleness
-- **Generated**: 2026-03-30
+- **Generated**: 2026-03-30 (promoted to P2 2026-05-26)
 
 ### P3: Deep review necessary-opacity.md
 - **Type**: deep-review
@@ -1375,12 +1375,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: staleness
 - **Generated**: 2026-03-29
 
-### P3: Deep review clinical-neuroplasticity-evidence-for-bidirectional-causation.md
+### P2: Deep review clinical-neuroplasticity-evidence-for-bidirectional-causation.md (~40 days since review, ai_contribution=100, Tenet 3 load-bearing)
 - **Type**: deep-review
 - **Status**: pending
-- **Notes**: AI-generated content (ai_contribution: 100) created 2026-03-28 via expand-topic from research/clinical-neuroplasticity-bidirectional-causation-2026-03-21.md. Cross-review completed but no comprehensive deep review. Verify accuracy of clinical claims (CBT-induced brain changes, meditation cortical thickening, placebo neurochemistry), coherence, cross-references to downward-causation and mental-causation, and tenet alignment.
+- **Notes**: AI-generated content (ai_contribution: 100) created 2026-03-28 via expand-topic from research/clinical-neuroplasticity-bidirectional-causation-2026-03-21.md, last_deep_review 2026-04-16 (~40 days). Cross-review completed but no comprehensive deep review since. Verify accuracy of clinical claims (CBT-induced brain changes, meditation cortical thickening, placebo neurochemistry), coherence, cross-references to downward-causation and mental-causation, and tenet alignment. Empirical claims sit in an active-research domain (clinical neuroscience / neuroplasticity), so check citation currency and flag a literature-drift follow-on if drift detected. PROMOTED to P2 by /replenish-queue 2026-05-26: actionable (P0-P2) queue was at 2, below the MIN_QUEUE floor of 3. Directly load-bearing for **Tenet 3 (Bidirectional Interaction)** — the clinical neuroplasticity findings are the Map's strongest empirical exhibit for consciousness-to-brain causation — and never comprehensively deep-reviewed. Promoting an existing staleness candidate is the honest replenishment move rather than fabricating new content tasks against the already-large (468-item) P3 backlog with all three sections near cap.
 - **Source**: staleness
-- **Generated**: 2026-03-28
+- **Generated**: 2026-03-28 (promoted to P2 2026-05-26)
 
 ### P3: Deep review consciousness-and-mathematics.md
 - **Type**: deep-review
