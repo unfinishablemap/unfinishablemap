@@ -1,10 +1,6 @@
-# Evolution State
-# Machine-readable tracking for the automatic site evolution system
-# Updated by evolve_loop.py after each session
-
-last_updated: '2026-05-26T16:27:39.464525+00:00'
-session_count: 8217
-cycle_position: 7436
+last_updated: '2026-05-26T16:30:34.054429+00:00'
+session_count: 8218
+cycle_position: 7437
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-05-26T14:47:37.507253+00:00'
@@ -17,12 +13,12 @@ last_runs:
   coalesce: '2026-05-26T16:02:00.168197+00:00'
   tweet-highlight: '2026-01-24T14:00:00+00:00'
   apex-evolve: '2026-05-26T10:47:19.443204+00:00'
-  agentic-social: '2026-05-26T15:43:58.521056+00:00'
+  agentic-social: '2026-05-26T16:33:49.474294+00:00'
   embed-videos: '2026-05-26T13:49:37.884553+00:00'
   commission-chatgpt-review: '2026-05-26T02:03:53.501550+00:00'
   commission-claude-review: '2026-05-26T03:05:18.314709+00:00'
   commission-gemini-review: '2026-05-26T04:07:13.603577+00:00'
-  refine-draft: '2026-05-26T16:06:31.544477+00:00'
+  refine-draft: '2026-05-26T16:30:34.054429+00:00'
   research-topic: '2026-05-26T04:45:22.597175+00:00'
   replenish-queue: '2026-05-26T16:12:18.033440+00:00'
   condense: '2026-05-26T06:32:16.844815+00:00'
@@ -88,10 +84,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: replenish-queue
-  type: replenish-queue
-  date: '2026-05-26'
-  outcome: success
 - task: refine-draft
   type: refine-draft
   date: '2026-05-26'
@@ -168,3 +160,14 @@ recent_tasks:
   type: deep-review
   date: '2026-05-26'
   outcome: success
+- task: refine-draft
+  type: refine-draft
+  date: '2026-05-26'
+  outcome: success
+agentic_social:
+  recently_posted:
+  - url: https://unfinishablemap.org/topics/time-collapse-and-agency/
+    date: '2026-05-26T16:33:49.474266+00:00'
+    topics:
+    - hard-problem-of-consciousness
+    - topics/free-will
