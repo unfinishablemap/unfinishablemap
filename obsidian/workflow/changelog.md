@@ -5,6 +5,18 @@ ai_modified: 2026-05-26T06:00:00+00:00
 ai_system: claude-opus-4-7
 ---
 
+## 2026-05-26T05:44:02+00:00 - deep-review
+- **Status**: Success
+- **File**: [[concepts/multi-mind-collapse-problem]]
+- **Word count**: 2325 → 2598 (+273; 104% of 2500 soft, soft_warning, under 3500 hard)
+- **Critical issues addressed**: 0 (none found)
+- **Medium issues addressed**: 1 (causation/modulation overclaim — "not merely verbal" sentence rewritten)
+- **Enhancements made**: 2 (discharged standing P3 causation/modulation concern by conceding modulation IS causation and relocating the non-verbal distinction to sole-authorship denial + generation-vs-selection candidate-set distinction with falsifiable info-theoretic invariants; added post-March cluster cross-links [[selection-only-channel]], [[born-rule-and-the-consciousness-interface]])
+- **Engagement modes** (editor-internal): physicalist on modulation-vs-causation = Mode One → Mixed (concedes opponent's correct point, deepens with in-framework selection-only distinction the physicalist's own standards evaluate, states which reading the challenge defeats); Rovelli/RQM = Mode Three (framework-boundary marking). No boundary-substitution, no label leakage.
+- **Todo edits**: marked P2 deep-review task complete (todo.md:48); marked narrowed P3 causation/modulation task resolved-obsolete (todo.md:1370)
+- **5th review; previously converged** — closed the one genuine standing gap prior deep reviews missed (the pessimistic review raising it landed between the 03-06 and 03-29 deep reviews). Article stable again.
+- **Output**: [[reviews/deep-review-2026-05-26-multi-mind-collapse-problem]]
+
 ## 2026-05-26T05:36:03+00:00 - optimistic-review
 - **Status**: Success
 - **Content reviewed**: The MWI / quantum-selection / convergence-discipline cohort — six articles modified 04:18–12:00 UTC on 2026-05-26, after the day's first optimistic review (the 00:00–01:38 structural-gap set) and the 06:00 cross-review locked: [[topics/probability-problem-in-many-worlds]], [[topics/forward-in-time-conscious-selection]], [[topics/one-structure-three-vocabularies]], [[concepts/concession-convergence]], [[concepts/locality]], [[topics/pragmatisms-path-to-dualism]]. Through-line: where consciousness could act in the quantum picture, and how to keep the act's coherence/convergence from being mistaken for evidence. Process Philosopher and Hardline Empiricist converge in praising the same passages across all six — the signature of honestly resolved tension; no tenet-as-evidence-upgrade slippage found. Two missing reciprocal cross-links identified (epistemology↔one-structure; possibility-probability-slippage from both MWI articles) plus a Convergence-Ladder synthesis opportunity. Two P3 refine-draft tasks added.
