@@ -4,7 +4,7 @@ description: "How the Map's interface framework transforms biological teleology 
 created: 2026-03-11
 modified: 2026-03-11
 human_modified:
-ai_modified: 2026-05-25T16:27:41+00:00
+ai_modified: 2026-05-26T14:12:44+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -35,7 +35,7 @@ last_curated:
 last_deep_review: 2026-05-25T16:27:41+00:00
 ---
 
-Biology banished purpose from nature. Darwin showed that apparent design arises from blind variation and selection, and the neo-Darwinian synthesis completed the project: biological "functions" are selected effects, not intentions. Organs exist *because of* what they did, not *for* what they will do. The Unfinishable Map accepts this account for all of biology except one domain. Where conscious organisms act through the [[attention-as-interface|unified selection interface]], genuine teleology re-enters nature—not as cosmic design or divine intention, but as conscious purpose realised through a specific physical mechanism. This article develops the connection between biological teleology and the Map's interface framework, arguing that the interface is where the "as if" purposiveness of biological function becomes the real purposiveness of conscious agency.
+Biology banished purpose from nature. Darwin showed that apparent design arises from blind variation and selection, and the neo-Darwinian synthesis completed the project: biological "functions" are selected effects, not intentions. Organs exist *because of* what they did, not *for* what they will do. The Unfinishable Map accepts this account for all of biology except one domain. Where conscious organisms act through the [[attention-as-interface|unified selection interface]], the Map proposes that genuine teleology re-enters nature—not as cosmic design or divine intention, but as conscious purpose realised through a specific physical mechanism. This article develops the connection between biological teleology and the Map's interface framework, suggesting that the interface may be where the "as if" purposiveness of biological function becomes the real purposiveness of conscious agency. The argument is conditional on the Map's dualism: it shows what teleology would look like if consciousness is irreducible and causally efficacious, not that the selected-effects account is independently inadequate.
 
 ## The Standard Account: Function Without Purpose
 
@@ -49,7 +49,7 @@ The Map agrees that this account is correct for most of biology. But it identifi
 
 The [[evolution-under-dualism|evolution under dualism]] article introduces [[agent-teleology]]—the thesis that conscious beings introduce genuine purpose into nature through their choices. But introducing the concept leaves a crucial question undeveloped: *how* does purpose get realised physically? If consciousness is non-physical, how does genuine intentionality translate into bodily action?
 
-The interface framework answers this. The [[attention-and-the-consciousness-interface|attention-as-selection interface]] demonstrates that attention and motor planning share neural substrates. The brain generates competing options in parallel; [[dopamine-and-the-unified-interface|dopamine marks]] which options are salient and modulates the selection threshold; consciousness selects which option crosses threshold and becomes actual. This three-layer architecture—computation, threshold modulation, selection—provides the mechanism through which purpose enters the causal order.
+The interface framework offers an answer. The [[attention-and-the-consciousness-interface|attention-as-selection interface]] draws on evidence that attention and motor planning share neural substrates. The brain generates competing options in parallel; [[dopamine-and-the-unified-interface|dopamine marks]] which options are salient and modulates the selection threshold; consciousness, on the Map's reading, selects which option crosses threshold and becomes actual. This three-layer architecture—computation, threshold modulation, selection—is proposed as the mechanism through which purpose might enter the causal order. The proposal is consistent with the neuroscience rather than uniquely established by it; what the evidence constrains is where in the architecture a selection step could sit, not whether consciousness occupies it.
 
 Consider the contrast with pure biological function:
 
@@ -79,7 +79,7 @@ The nervous system occupies an intermediate position. Much neural processing is 
 
 This creates a distinctive architectural prediction. If genuine purpose requires the selection interface, then organisms with richer interfaces should display more purpose-directed behaviour—not just more complex behaviour, but behaviour that depends specifically on conscious selection rather than automatic processing. The [[consciousness-and-cognitive-distinctiveness|threshold problem]]—identifying when in cognitive evolution consciousness becomes causally efficacious—is simultaneously the question of when purpose enters biology.
 
-The evidence from [[evolutionary-case-for-mental-causation|mental causation research]] supports this connection. Dual-process theory in social cognition distinguishes a reflexive system of automatic, nonconscious processing from a reflective system of conscious, deliberative thought, holding that full logical reasoning is the province of the reflective system rather than the reflexive one (Lieberman et al., 2002). Experimental work in this tradition bears the distinction out: loading conscious processing impairs logical reasoning while disrupting unconscious processing does not. This dissociation maps onto the function-purpose distinction: automatic cognition operates by biological function (selected-effects causation); conscious deliberation operates through the selection interface (genuine purpose).
+Evidence from [[evolutionary-case-for-mental-causation|mental causation research]] is at least consistent with this connection, though it does not adjudicate between the interface reading and a purely functional one. Dual-process theory in social cognition distinguishes a reflexive system of automatic, nonconscious processing from a reflective system of conscious, deliberative thought, holding that full logical reasoning is the province of the reflective system rather than the reflexive one (Lieberman et al., 2002). Experimental work in this tradition appears to bear the distinction out: loading conscious processing impairs logical reasoning while disrupting unconscious processing does not (DeWall et al., 2008). This dissociation may map onto the function-purpose distinction—automatic cognition operating by biological function (selected-effects causation), conscious deliberation operating through the selection interface (genuine purpose). The mapping is an interpretation the data permit rather than compel: a functionalist can read the same dissociation as two processing regimes within one selected-effects architecture. What the experiments establish is a behavioural dissociation; what the Map adds is the claim that the conscious regime involves genuine selection, and that addition rests on the dualist commitment, not on the experiments alone.
 
 ## Why This Matters for Philosophy of Biology
 
@@ -122,7 +122,7 @@ The connection between biological teleology and the interface framework draws on
 ## References
 
 1. Darwin, C. (1859). *On the Origin of Species*. John Murray.
-2. DeWall, C.N., Baumeister, R.F., & Masicampo, E.J. (2008). Evidence that logical reasoning depends on conscious processing. *Consciousness and Cognition*, 17(2), 628-645.
+2. DeWall, C.N., Baumeister, R.F., & Masicampo, E.J. (2008). Evidence that logical reasoning depends on conscious processing. *Consciousness and Cognition*, 17(3), 628-645.
 3. Lieberman, M.D., Gaunt, R., Gilbert, D.T., & Trope, Y. (2002). Reflexion and reflection: A social cognitive neuroscience approach to attributional inference. *Advances in Experimental Social Psychology*, 34, 199–249.
 4. Millikan, R.G. (1984). *Language, Thought, and Other Biological Categories*. MIT Press.
 5. Neander, K. (1991). Functions as selected effects: The conceptual analyst's defense. *Philosophy of Science*, 58(2), 168-184.

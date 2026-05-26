@@ -1,9 +1,22 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-26T13:36:44+00:00
+ai_modified: 2026-05-26T14:12:44+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-05-26T14:12:44+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[topics/biological-teleology-and-the-interface-framework]]
+- **Task**: Topic-concept anchoring audit 2026-05-26 (queue_task_line 39) — adopt [[phenomenal-consciousness]] calibration
+- **Original score**: anchoring audit flag (no curate review run; calibration-targeted refine)
+- **Changes**: Brought hedge profile in line with anchor concept per [[evidential-status-discipline]] (consistent-with ≠ evidence-for; constrains-vs-establishes). Softened the one strong-assertion verb (interface "demonstrates" → "draws on evidence that"). Calibrated the central claim as conditional on the Map's dualism in the lead ("the Map proposes", "may be where", "conditional on the Map's dualism: it shows what teleology *would* look like if..."). Recalibrated the dual-process evidence paragraph from "supports this connection" to "at least consistent with... does not adjudicate between the interface reading and a purely functional one", added the functionalist's parallel reading, and separated what the experiments establish (a behavioural dissociation) from what the Map adds (the genuine-selection claim, resting on the dualist commitment not the experiments). Central filter/teleology thesis preserved — calibrated, not retracted.
+- **Calibration metrics (anchoring_audit)**: hedge density 1.66→4.57/kw (anchor phenomenal-consciousness 6.76, floor 4.06; also clears attention-as-interface floor 3.28); strong-assertion density 0.55→0.00/kw (anchor 0.00); underdetermination markers 0→1 ("does not adjudicate"). `evaluate_anchoring` now returns [] — all three previously-firing anchor flags (phenomenal-consciousness, attention-as-interface, mental-causation-and-downward-causation) cleared. Hedge density deliberately left below the anchor's 6.76 (concept page is unusually heavily hedged) — calibrated confidence, not over-hedged mush.
+- **Citation verification (web)**: DeWall, Baumeister & Masicampo 2008 (*Consciousness and Cognition*; title verbatim; finding-direction — logical reasoning impaired by conscious-processing load but not by suppressed-thought/nonconscious load — confirmed; full initials C.N./R.F./E.J. confirmed). Lieberman, Gaunt, Gilbert & Trope 2002 (*Adv. Exp. Soc. Psych.* 34, 199–249; title verbatim; reflexive-X vs reflective-C system, full logical reasoning is the reflective system's province — confirmed). Both clean at surname + finding-direction + author-identity level. Fixed: DeWall issue number 17(2) → 17(3) (publisher record); also added the previously-orphaned DeWall ref as an inline cite. Canonical refs (Darwin 1859, Millikan 1984, Neander 1991) not web-rechecked — pre-2010 canonical.
+- **Secondary checks**: all wikilinks resolve to live obsidian files (no archive-only targets); no tenet-anchor drift (article uses ^dualism/^minimal-quantum-interaction/^bidirectional-interaction/^no-many-worlds, all valid; no ^occam reference present); no "This is not X. It is Y." cliché (the em-dash contrastive constructs are single-sentence, acceptable).
+- **Engagement classification (editor-internal)**: engagement with the functionalist/selected-effects opponent: Mode Three (framework-boundary marking) — the refine makes explicit that the dual-process dissociation does not refute the functionalist within their framework; the Map's genuine-selection addition is honestly marked as resting on the dualist commitment, not on the experiments. This corrects a prior boundary-substitution where "supports this connection" let the empirical data silently stand in for the metaphysical claim.
+- **Word count**: 1810 → 1971 (under soft 3000 / hard 4000 topics thresholds)
+- **Published**: yes (kept draft: false; was already published)
 
 ## 2026-05-26T14:05:00+00:00 - refine-draft
 - **Status**: Success
