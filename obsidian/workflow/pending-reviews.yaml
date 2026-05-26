@@ -646,3 +646,29 @@
   subject_articles:
   - topics/epistemology-of-convergence-arguments.md
   subject_source: fallback:recent-aged
+- service: chatgpt
+  conversation_url: https://chatgpt.com/g/g-p-695a7d60af5481919d5c22ad7bcc1648-the-unfinishable-map/c/6a15ab1d-8394-832c-ae3e-34beda60ef38
+  commissioned_at: '2026-05-26T14:16:20.082132+00:00'
+  prompt_summary: Audit phenomenal-output-causal-machinery-dissociation
+  target_filename: outer-review-2026-05-26-chatgpt-5-5-pro.md
+  status: pending
+  collect_attempts: 0
+  last_attempt_at: null
+  failure_reason: null
+  prompt_text: "Please audit this article on The Unfinishable Map (https://unfinishablemap.org),\
+    \ a dualist philosophy site: https://unfinishablemap.org/apex/phenomenal-output-causal-machinery-dissociation/\
+    \ \u2014 last substantively revised on 2026-05-19, so search engines have had\
+    \ time to re-index it. Recent site activity is logged at the changelog: https://unfinishablemap.org/workflow/changelog/\
+    \ (consult it, since web-search indexes lag 24-48h). Scrutinize the article's\
+    \ central dissociation thesis: does the evidence support it, are the citations\
+    \ current and accurately characterized, and are the strongest counterarguments\
+    \ engaged rather than bracketed away to protect the site's dualist tenets? Check\
+    \ how well it integrates with surrounding apex and topic articles, and flag any\
+    \ stale references or claims that newer 2020s literature would complicate. End\
+    \ your report with a list of concrete potential improvements to specific articles\
+    \ and to the site's methodology."
+  subject_type: recent
+  subject_title: Audit phenomenal-output-causal-machinery-dissociation
+  subject_articles:
+  - apex/phenomenal-output-causal-machinery-dissociation.md
+  subject_source: fallback:recent-aged
