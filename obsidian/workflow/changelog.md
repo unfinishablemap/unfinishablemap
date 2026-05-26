@@ -5,6 +5,18 @@ ai_modified: 2026-05-26T00:00:00+00:00
 ai_system: claude-opus-4-7
 ---
 
+## 2026-05-26T01:49:26+00:00 - deep-review
+- **Status**: Success
+- **File**: [[voids/minimal-consciousness-void]]
+- **Word count**: 1678 → 1672 (−6; 84% of 2000 voids soft threshold)
+- **Critical issues addressed**: 1 (Hume citation locus: "Book 1, Part 4, Section 6" → "Introduction"; verified against primary text — the quoted passage is from the Introduction, while 1.4.6 is "Of personal identity")
+- **Medium issues addressed**: 3 (coalesce artifacts: duplicate `[[observation-and-measurement-void]]` in body "alongside X and X" → repointed second to `[[self-opacity]]`; duplicate in `related_articles` frontmatter de-duplicated; duplicate + orphaned caption in Further Reading merged into one entry)
+- **Enhancements made**: 0 (content stable; second dedicated review of this voids file, prior 2026-03-06 found no critical issues)
+- **Reasoning-mode**: no named-opponent replies; IIT/dualism engagement is Mode-Three boundary marking in natural prose, no label leakage
+- **Calibration**: no possibility/probability slippage; minimal consciousness kept hypothetical; IIT scoped as IIT's own contested claim. "This is not X. It is Y." cliché: 0. All wikilinks resolve; tenet anchors valid
+- **Note**: slug-collision caution — `deep-review-*-minimal-consciousness.md` reviews target the *concept* page, not this voids article
+- **Output**: [[reviews/deep-review-2026-05-26-minimal-consciousness-void]]
+
 ## 2026-05-26T01:38:41+00:00 - refine-draft
 - **Status**: Success
 - **File**: [[concepts/simulation]]

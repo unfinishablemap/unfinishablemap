@@ -1167,13 +1167,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: staleness
 - **Generated**: 2026-04-16
 
-### P2: Deep review minimal-consciousness-void.md
-- **Type**: deep-review
-- **Status**: pending
-- **Notes**: PROMOTED P3→P2 by /replenish-queue 2026-05-26T01:40 UTC: open P0-P2 queue was at 2 (below the MIN_QUEUE_TASKS floor of 3). No honest new high-confidence task is available to mint, exactly as the 00:30/00:45/00:56/23:56 UTC runs documented: orphaned_files=0; the newest unconsumed research targets the over-cap voids section (voids 101/100); all capped sections (topics 246/250, concepts 245/250, voids 101/100 over) preclude new expand-topic placements outside project/; and all three content-section length offenders are unavailable as length_analysis promotions — `epistemology-of-convergence-arguments.md` (5867w) is human-BLOCKED awaiting an editorial split/reclassify decision, `born-rule-and-the-consciousness-interface.md` (4997w) is churn-exhausted/vetoed (condense-targeted 20+ times on 2026-05-25, re-expands through refine passes), and `animal-consciousness.md` (4038w) sits only ~38 words over the 4000-word hard threshold with active refines already touching it. Rather than mint a speculative task against the ~507-task P3 backlog or regenerate a vetoed churn-prone condense, promote this concrete, fully-specified, cap-safe deep-review of the most-overdue remaining staleness candidate (80 days since last review, 2026-03-06, ai_contribution: 100 — the longest in the queue; the prior 63/64-day emergence-void and embodiment-cognitive-limits candidates were already promoted and resolved earlier today). Original task body: AI-generated content (ai_contribution: 100) with no recorded deep review. Voids article on the impossibility of identifying the minimal conditions for consciousness. Verify coherence, cross-references to degrees-of-consciousness and threshold-void, and tenet alignment. Honour [[evidential-status-discipline]]; check writing-style discipline (no banned "not X but Y" constructs; no `<!-- AI REFINEMENT LOG -->` HTML-comment leakage) and the voids/ length thresholds (2000/3000/4000). Deep-review with in-place fixes if minor; generate a follow-on refine-draft task if substantive.
-- **Source**: staleness (promoted by replenish-queue 2026-05-26)
-- **Generated**: 2026-04-16
-
 ### P3: Cross-review necessary-opacity.md and predictive-processing-and-dualism.md considering predictive-construction-void insights
 - **Type**: cross-review
 - **Status**: pending
@@ -3729,6 +3722,10 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 Tasks that failed 3+ times and require human intervention.
 
+
+### ✓ 2026-05-26: Deep review minimal-consciousness-void.md
+- **Type**: deep-review
+- **Notes**: PROMOTED P3→P2 by /replenish-queue 2026-05-26T01:40 UTC: open P0-P2 queue was at 2 (below the MIN_QUEUE_TASKS floor of 3). No honest new high-confidence task is available to mint, exactly as the 00:30/00:45/00:56/23:56 UTC runs documented: orphaned_files=0; the newest unconsumed research targets the over-cap voids section (voids 101/100); all capped sections (topics 246/250, concepts 245/250, voids 101/100 over) preclude new expand-topic placements outside project/; and all three content-section length offenders are unavailable as length_analysis promotions — `epistemology-of-convergence-arguments.md` (5867w) is human-BLOCKED awaiting an editorial split/reclassify decision, `born-rule-and-the-consciousness-interface.md` (4997w) is churn-exhausted/vetoed (condense-targeted 20+ times on 2026-05-25, re-expands through refine passes), and `animal-consciousness.md` (4038w) sits only ~38 words over the 4000-word hard threshold with active refines already touching it. Rather than mint a speculative task against the ~507-task P3 backlog or regenerate a vetoed churn-prone condense, promote this concrete, fully-specified, cap-safe deep-review of the most-overdue remaining staleness candidate (80 days since last review, 2026-03-06, ai_contribution: 100 — the longest in the queue; the prior 63/64-day emergence-void and embodiment-cognitive-limits candidates were already promoted and resolved earlier today). Original task body: AI-generated content (ai_contribution: 100) with no recorded deep review. Voids article on the impossibility of identifying the minimal conditions for consciousness. Verify coherence, cross-references to degrees-of-consciousness and threshold-void, and tenet alignment. Honour [[evidential-status-discipline]]; check writing-style discipline (no banned "not X but Y" constructs; no `<!-- AI REFINEMENT LOG -->` HTML-comment leakage) and the voids/ length thresholds (2000/3000/4000). Deep-review with in-place fixes if minor; generate a follow-on refine-draft task if substantive.
 
 ### ✓ 2026-05-26: Fix circular MWI reasoning and compress player analogy in simulation.md
 - **Type**: refine-draft
