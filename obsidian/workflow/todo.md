@@ -44,6 +44,13 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: staleness
 - **Generated**: 2026-05-26
 
+### P3: Address calibration gaps in topics/indian-philosophy-of-mind.md
+- **Type**: refine-draft
+- **Status**: pending
+- **Notes**: Pessimistic review 2026-05-26 (see [[reviews/pessimistic-2026-05-26-indian-philosophy-of-mind]]) found four small, in-place fixes — no structural rework needed; the article's §"The Three-Way Disagreement" empiricist concession is exemplary and must be PRESERVED verbatim. Fixes: (1) LOW — §Ramanuja's Critique states "Ramanuja (1017–1137 CE)" as bare fact; these are the *traditional* Sri Vaishnava dates (120-year lifespan), modern scholarship (Carman) favours 1077–1157; add a "traditionally" hedge. (2) MEDIUM — the §"Relation to Site Perspective" Dualism and Occam paragraphs re-lean on the convergence as strong evidence ("one would expect at least one major school… to have found reduction viable") after §Three-Way explicitly downgraded it and granted the common-cause reading "force"; add a back-reference clause so the strong inference is not made twice unqualified. (3) MEDIUM — §"Arguments for the Self" presents the Nyaya memory/cross-modal/unity arguments as defeating the Buddhist bundle theory ("cannot explain this convergence") and lets them stand unrebutted, in tension with the site's own serious treatment of *anatman* in [[buddhism-and-dualism]] and [[void-as-ground-of-meaning]]; add one sentence noting the Madhyamaka causal-continuity rejoinder (continuity ≠ identity) and that the debate remains live. (4) LOW — §No Many Worlds calls the plurality-of-selves question "precisely the vertiginous question"; plurality of co-real simultaneous selves is orthogonal to branch-relative indexing — soften "precisely" to "anticipates the structure of" and note the disanalogy. Verified clean: no label leakage, altered-state symmetry audit N/A, sapta-vidha anupapatti correctly attributed. Tenet alignment: 1, 3, 4, 5.
+- **Source**: pessimistic-review (2026-05-26)
+- **Generated**: 2026-05-26
+
 ### P2: Import constrain-vs-establish calibration into terminal-lucidity-and-filter-transmission-theory
 - **Type**: refine-draft
 - **Status**: pending
