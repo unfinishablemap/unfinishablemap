@@ -5,6 +5,19 @@ ai_modified: 2026-05-26T00:00:00+00:00
 ai_system: claude-opus-4-7
 ---
 
+## 2026-05-26T13:00:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [[concepts/causal-powers]]
+- **Word count**: 1778 → 1778 (no content change)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 (stable article; verification pass — editing would be oscillation)
+- **Trigger**: P3→P2 staleness promotion by /replenish-queue (last full deep review 2026-03-16; intervening passes were cross-review/lateral-integration). Tenet-3 load-bearing, ai_contribution 100.
+- **Checks**: All 14 wikilinks resolve live (interactionist-dualism has an archive copy but live concept page exists — no repoint needed); all 4 block-anchor refs valid; citations (Lewis 1997, Martin 1994, Bird 2007, Ellis 2001, Martin & Heil, Broad/Alexander) accurate; no "This is not X. It is Y." cliché; calibration discipline holds (constrains/grounds kept distinct from establishes; no possibility/probability slippage). 71% of concepts soft threshold.
+- **Output**: [[reviews/deep-review-2026-05-26-causal-powers]]
+
+---
+
 ## 2026-05-26T12:00:00+00:00 - refine-draft
 - **Status**: Success
 - **File**: [[topics/forward-in-time-conscious-selection]]
