@@ -1,9 +1,21 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-26T00:15:04+00:00
+ai_modified: 2026-05-26T00:44:13+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-05-26T00:44:13+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[topics/the-reverse-inference]]
+- **Task**: P2 topic-concept anchoring audit (2026-05-26) — topic over-claimed relative to anchor concept [[explanatory-gap]]; failed hedge_density (1.33/kw < 60% of anchor's 9.87/kw) and strong_assertions (0.89/kw > 1.5× anchor's 0.58/kw). Calibration-only refine per [[project/calibration-audit-triple]] Audit Three and [[evidential-status-discipline]].
+- **Word count**: 2255 → 2340 (net-neutral; only hedge words added, no material expansion. Under 3000 soft / 4000 hard topic thresholds.)
+- **Strong-assertion fixes** (density 0.89/kw → 0.0/kw, under 0.871 cap): "Convergence *establishes* that consciousness is irreducible" → "supports the conclusion that"; "the objection *proves* too much" → "the objection appears to overreach". Both softened where the evidential strength did not warrant the strong verb; central thesis preserved.
+- **Hedge calibration** (density 1.33/kw → 5.98/kw, ≥ anchor-60% target 5.92/kw): added 11 contingency hedges where claims are genuinely conditional/contested — "on this reading"/"appears" (lead, derivations), "arguably"/"the natural move" (epistemic asymmetry, honoring constrain-vs-establish), "may"/"could" on the illusionist shared-vulnerability claim, "may explain"/"would make" on MQI and Occam tenet derivations, "may point the wrong way" on the causal-closure challenge. Convergence section ("Relation to the Convergence Argument," added earlier today) was a contributor to assertion density and was calibrated.
+- **Discipline honored**: constrain-vs-establish ("constrains the framework rather than establishing any single interpretation outright"); defeater-removal not treated as evidence-elevation. Central reverse-inference thesis NOT weakened — only calibrated.
+- **Cliché check**: PASS — zero "This is not X. It is Y." instances (pre-existing single-sentence "not a deficiency but a disclosure" in lead is a different, acceptable construction; not introduced by this pass).
+- **Verification**: `evaluate_anchoring` returns no flags against any anchor concept.
+- **Published**: yes
 
 ## 2026-05-26T00:32:31+00:00 - deep-review
 - **Status**: Success
