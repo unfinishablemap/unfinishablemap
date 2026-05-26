@@ -5,6 +5,16 @@ ai_modified: 2026-05-26T12:00:00+00:00
 ai_system: claude-opus-4-7
 ---
 
+## 2026-05-26T05:01:00+00:00 - literature-drift-review
+- **Status**: Success
+- **Article**: [[topics/psychedelics-and-the-filter-model]]
+- **Research area**: psychedelics
+- **Median citation year**: 2022 (4 years behind ai_modified 2026-05-14; below the 5-year lag threshold)
+- **Recent papers found**: 4 distinct 2025 items (MDPI neural-circuits review Jan 2025; ScienceDirect psilocybin neuroimaging systematic review 2025; "Psychedelics Align Brain Activity with Context" bioRxiv 2025 preprint; brain-network connectivity scoping review)
+- **Missing topically-appropriate**: 0 — the 2025 results (entropy/repertoire increase, integration-over-sensory shift, REBUS) are already engaged by the article via Siegel 2024, Timmermann 2024, Doss/Považan 2022, Mason 2020 and the entropic-brain/REBUS discussion; the one genuinely new item is a preprint (excluded per skill rules)
+- **Outcome**: no-drift
+- **Task generated**: none
+
 ## 2026-05-26T12:00:00+00:00 - refine-draft
 - **Status**: Success
 - **File**: [[topics/probability-problem-in-many-worlds]]

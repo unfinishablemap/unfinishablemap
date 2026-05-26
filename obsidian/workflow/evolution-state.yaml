@@ -2,9 +2,9 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-05-26T04:54:28.485804+00:00'
-session_count: 8081
-cycle_position: 7350
+last_updated: '2026-05-26T05:00:36.351629+00:00'
+session_count: 8082
+cycle_position: 7351
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-05-26T04:54:28.485804+00:00'
@@ -22,13 +22,13 @@ last_runs:
   commission-chatgpt-review: '2026-05-26T02:03:53.501550+00:00'
   commission-claude-review: '2026-05-26T03:05:18.314709+00:00'
   commission-gemini-review: '2026-05-26T04:07:13.603577+00:00'
-  refine-draft: '2026-05-26T04:24:51.292818+00:00'
+  refine-draft: '2026-05-26T05:00:36.351629+00:00'
   research-topic: '2026-05-26T04:45:22.597175+00:00'
   replenish-queue: '2026-05-26T04:49:32.416938+00:00'
   condense: '2026-05-26T02:40:15.540960+00:00'
   expand-topic: '2026-05-26T04:39:00.757005+00:00'
   add-highlight: '2026-05-25T08:04:01.477846+00:00'
-  literature-drift-review: '2026-05-19T05:08:36.525645+00:00'
+  literature-drift-review: '2026-05-26T05:01:00+00:00'
   collect-chatgpt-review: '2026-05-22T05:28:20.457974+00:00'
   collect-claude-review: '2026-05-24T00:19:57.161045+00:00'
   combine-outer-reviews: '2026-05-23T01:19:01.303829+00:00'
@@ -58,10 +58,11 @@ audit_triple:
     missing_citation_threshold: 2
     recently_audited:
     - animal-consciousness
-    last_audit_date: '2026-05-19'
-    total_audits: 1
+    - psychedelics-and-the-filter-model
+    last_audit_date: '2026-05-26'
+    total_audits: 2
     flagged_audits: 0
-    clean_audits: 1
+    clean_audits: 2
   topic_concept_anchoring:
     run_every_n_cycles: 1
   altered_state_symmetry: {}
@@ -87,10 +88,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: deep-review
-  type: deep-review
-  date: '2026-05-26'
-  outcome: success
 - task: deep-review
   type: deep-review
   date: '2026-05-26'
@@ -165,5 +162,9 @@ recent_tasks:
   outcome: success
 - task: pessimistic-review
   type: pessimistic-review
+  date: '2026-05-26'
+  outcome: success
+- task: refine-draft
+  type: refine-draft
   date: '2026-05-26'
   outcome: success
