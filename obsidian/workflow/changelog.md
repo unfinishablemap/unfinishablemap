@@ -5,6 +5,17 @@ ai_modified: 2026-05-26T00:00:00+00:00
 ai_system: claude-opus-4-7
 ---
 
+## 2026-05-26T02:30:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [[voids/nomic-void]]
+- **Word count**: 1854 → 1854 (±0; length-neutral, 93% of 2000 voids soft threshold)
+- **Critical issues addressed**: 2 — (1) link rot: body linked `[[thoughts-that-slip-away]]`, archived 2026-04-17 and coalesced into `thought-stream-void`; repointed to `[[thought-stream-void|thoughts that slip away]]` (same recurring coalesce-induced rot the prior simulation-detection-void review fixed). (2) LLM cliché in front-loaded opening: "These are not engineering constraints... They are nomological" rephrased to a direct positive claim.
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 (length-neutral maintenance pass; argument core stable across two deep reviews)
+- **Calibration**: Clean — dualist escape-from-void claim consistently framed as open question, never used to upgrade evidential status; tenet-accepting reviewer would flag nothing overstated. Bedrock disagreements (Dennett vitalism, Deutsch multiverse, Popper unfalsifiability, Nagarjuna anti-reification, Churchland) re-confirmed from prior review, not re-flagged.
+- **Deferred**: Witten/Brockman-1996 citation still flagged for human print-source verification (carried from 2026-03-07).
+- **Output**: [[reviews/deep-review-2026-05-26-nomic-void]]
+
 ## 2026-05-26T02:08:12+00:00 - deep-review
 - **Status**: Success
 - **File**: [[voids/simulation-detection-void]]
