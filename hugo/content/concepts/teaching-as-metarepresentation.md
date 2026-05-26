@@ -20,7 +20,7 @@ description: Teaching requires knowing that you know and that others don't. Grea
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-04-07 10:43:00+00:00
+last_deep_review: 2026-05-26 11:54:20+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-24
-ai_modified: 2026-05-19 19:00:00+00:00
+ai_modified: 2026-05-26 12:00:26+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -18,7 +18,7 @@ description: Human+AI inquiry into why we cannot introspect how experiences beco
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-04-02 06:38:00+00:00
+last_deep_review: 2026-05-26 12:00:26+00:00
 modified: *id001
 related_articles:
 - '[[voids]]'
@@ -32,7 +32,7 @@ related_articles:
 - '[[self-reference-paradox]]'
 - '[[phenomenology-of-recursive-self-awareness]]'
 - '[[comparative-phenomenology-of-meditative-traditions]]'
-- '[[transition-void]]'
+- '[[transit-void]]'
 - '[[vertiginous-question]]'
 title: The Ownership Void
 topics:
@@ -52,7 +52,7 @@ Dan Zahavi argues that for-me-ness is not added to experience by reflection but 
 
 Heidegger's *Jemeinigkeit* makes a stronger ontological claim. Mine-ness is not a contingent psychological feature but an existential structure of Dasein: being is always "mine to be." Even inauthenticity—losing oneself in the crowd—is a *mode* of mine-ness, not its absence. On this reading, ownership is prior to any subject-object distinction, prior to any analysis that might decompose it.
 
-If these accounts are correct, the ownership void is not a gap in our knowledge waiting to be filled. It is a structural limit. You cannot get behind ownership to explain it because ownership is presupposed by every explanation.
+If these accounts are correct, the ownership void is a structural limit rather than a gap in our knowledge waiting to be filled. You cannot get behind ownership to explain it because ownership is presupposed by every explanation.
 
 ## When Ownership Vanishes
 
@@ -124,7 +124,7 @@ The [Occam's Razor Has Limits](/tenets/#occams-limits) tenet applies. Predictive
 - [Phenomenal transparency](/concepts/phenomenal-transparency-opacity-spectrum/) — When the self-model hides its own construction
 - [phenomenology-of-recursive-self-awareness](/topics/phenomenology-of-recursive-self-awareness/) — How self-awareness restructures experience, including pre-reflective for-me-ness
 - [comparative-phenomenology-of-meditative-traditions](/topics/comparative-phenomenology-of-meditative-traditions/) — Cross-tradition approaches to dissolving selfhood
-- [transition-void](/voids/transit-void/) — Observation-transition incompatibility as a parallel structural limit
+- [transit-void](/voids/transit-void/) — Consciousness cannot witness its own state transitions—a parallel structural limit
 - [mysterianism](/concepts/mysterianism/) — McGinn on structural cognitive limits
 - [vertiginous-question](/topics/vertiginous-question/) — Why am I *this* consciousness? The identity question underlying ownership
 

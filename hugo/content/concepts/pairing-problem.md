@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-16
-ai_modified: 2026-05-19 11:04:33+00:00
+ai_modified: 2026-05-26 00:00:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -23,7 +23,7 @@ description: What connects a particular mind to a particular body? Kim's challen
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-04-07 05:05:00+00:00
+last_deep_review: 2026-05-26 00:00:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -140,7 +140,7 @@ The Map's response to the pairing problem would face serious difficulty if:
 
 2. **Haecceities were eliminated**: If anti-haecceitists showed that primitive thisness is metaphysically untenable—that individuation must reduce to qualitative properties—the haecceity response would collapse, and the problem would recur at a deeper level.
 
-3. **Interface locality failed empirically**: If consciousness could demonstrably influence quantum systems outside the brain—genuine psychokinesis on external random number generators—the spatial restriction would be ad hoc. Decades of micro-PK research at the Princeton PEAR laboratory found effect sizes of ~0.0001–0.001, effectively indistinguishable from null (Jahn & Dunne, 2005). The absence of robust external effects supports interface locality.
+3. **Interface locality failed empirically**: If consciousness could demonstrably influence quantum systems outside the brain—genuine psychokinesis on external random number generators—the spatial restriction would be ad hoc. Decades of micro-PK research at the Princeton PEAR laboratory found effect sizes of ~0.0001–0.001, effectively indistinguishable from null (Jahn & Dunne, 2005). Interface locality was formulated knowing these null results, so they are *consistent with* the framework rather than positive evidence *for* it; what makes the commitment substantive is the falsification threshold—reliably replicable external-PK effects above roughly 0.01 under preregistered protocols would refute it (see [brain-interface-boundary](/concepts/brain-interface-boundary/)).
 
 4. **Development didn't create specific coupling**: If minds could "jump" between brains (robust evidence for possession, walk-in experiences, or mind transfer), the developmental co-construction argument would fail.
 

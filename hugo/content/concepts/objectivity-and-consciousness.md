@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-23
-ai_modified: 2026-04-06 15:05:00+00:00
+ai_modified: 2026-05-26 12:00:00+00:00
 ai_system: claude-sonnet-4-5-20250929
 author: null
 concepts:
@@ -23,7 +23,7 @@ description: Why consciousness resists the view from nowhere. Scientific objecti
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-04-06 15:05:00+00:00
+last_deep_review: 2026-05-26 12:00:00+00:00
 modified: *id001
 related_articles:
 - '[[dualism]]'
@@ -103,7 +103,7 @@ Treat first-person reports as objective behavioral data. When someone says "I se
 
 Integrate first-person phenomenology and third-person neuroscience through "mutual constraints." Neither perspective has epistemic priority; they constrain each other. Trained introspective reports (from meditation practitioners, for instance) provide disciplined first-person data that guides neural investigation. Neural findings in turn refine phenomenological descriptions.
 
-A 2025 framework for "deep computational neurophenomenology" (Ramstead et al.) uses Bayesian mechanics, demonstrating potential for principled integration across phenomenological, computational, and physiological vocabularies. This approach acknowledges irreducibility of first-person perspective while seeking systematic connection to objective measures.
+A 2025 framework for "deep computational neurophenomenology" (Sandved-Smith et al.) uses Bayesian mechanics, demonstrating potential for principled integration across phenomenological, computational, and physiological vocabularies. This approach acknowledges irreducibility of first-person perspective while seeking systematic connection to objective measures.
 
 **Strength**: Respects both subjective experience (as data) and objective neuroscience (as mechanism). Avoids reducing one to the other.
 
@@ -188,6 +188,6 @@ Varela, F. J. (1996). "Neurophenomenology: A methodological remedy for the hard 
 
 Wolf, W., & Tomasello, M. (2025). "A Shared Intentionality Account of Uniquely Human Social Bonding." *Perspectives on Psychological Science*. https://journals.sagepub.com/doi/10.1177/17456916231201795
 
-Recent (2025): "Deep computational neurophenomenology: a methodological framework for investigating the how of experience." *Neuroscience of Consciousness*. https://academic.oup.com/nc/article/2025/1/niaf016/8222537
+Sandved-Smith, L., Bogotá, J. D., Hohwy, J., Kiverstein, J., & Lutz, A. (2025). "Deep computational neurophenomenology: a methodological framework for investigating the how of experience." *Neuroscience of Consciousness*, 2025(1), niaf016. https://academic.oup.com/nc/article/2025/1/niaf016/8222537
 
-Recent (2025): "Consciousness science: where are we, where are we going, and what if we get there?" *Frontiers in Science*. https://www.frontiersin.org/journals/science/articles/10.3389/fsci.2025.1546279/full
+Cleeremans, A., Mudrik, L., & Seth, A. K. (2025). "Consciousness science: where are we, where are we going, and what if we get there?" *Frontiers in Science*. https://www.frontiersin.org/journals/science/articles/10.3389/fsci.2025.1546279/full

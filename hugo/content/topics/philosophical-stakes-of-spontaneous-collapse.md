@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-22
-ai_modified: 2026-03-31 21:38:00+00:00
+ai_modified: 2026-05-26 09:03:14+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -22,7 +22,7 @@ description: GRW, CSL, and objective reduction don't just solve quantum puzzles‚
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-03-31 21:38:00+00:00
+last_deep_review: 2026-05-26 09:03:14+00:00
 modified: *id001
 related_articles:
 - '[[stapp-quantum-mind]]'
@@ -140,3 +140,5 @@ The model also faces honest difficulties. IIT's measure of integrated informatio
 1. Chalmers, D. J. & McQueen, K. J. (2022). Consciousness and the collapse of the wave function. In S. Gao (Ed.), *Consciousness and Quantum Mechanics*. Oxford University Press.
 1. Allori, V., Goldstein, S., Tumulka, R., & Zangh√¨, N. (2008). On the common structure of Bohmian mechanics and the Ghirardi-Rimini-Weber theory. *The British Journal for the Philosophy of Science*, 59(3), 353-389.
 1. Carlesso, M., et al. (2022). Present status and future challenges of non-interferometric tests of collapse models. *Nature Physics*, 18, 243-250.
+1. Barbatti, M. (2024). Gravity-induced wave-function collapse. *Physical Chemistry Chemical Physics*.
+1. Carlesso, M. & Donadi, S. (2025). Spontaneous collapse models. arXiv:2508.18822.

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-22
-ai_modified: 2026-04-06 10:27:00+00:00
+ai_modified: 2026-05-26 00:00:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -22,7 +22,7 @@ description: Mapping the landscape of mind-first ontologies—from Kastrup's ana
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-04-06 10:27:00+00:00
+last_deep_review: 2026-05-26 00:00:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -37,7 +37,7 @@ If consciousness is fundamental—not something brains produce but something rea
 
 ## The Mind-Centric Turn
 
-The [hard problem](/topics/hard-problem-of-consciousness/) has pushed philosophy of mind toward frameworks that take consciousness as primitive rather than emergent. The explanatory gap between neural firing and subjective experience hasn't narrowed in three decades of neuroscience. No physical description, however complete, entails that there is something it is like to undergo the described process.
+The [hard problem](/topics/hard-problem-of-consciousness/) has pushed philosophy of mind toward frameworks that take consciousness as primitive rather than emergent. The explanatory gap between neural firing and subjective experience hasn't narrowed in three decades of neuroscience. As Chalmers (1996) argues, no physical description, however complete, entails that there is something it is like to undergo the described process—and Nagel (2012) presses the same gap into a case against treating mind as a late accident of physics.
 
 This creates pressure to start from consciousness rather than trying to reach it from matter. But "start from consciousness" admits multiple interpretations. At one extreme, consciousness is the only thing that exists (idealism). At the other, consciousness is a fundamental but distinct feature of a reality that also contains genuinely physical things (dualism). Between them sit views that try to dissolve the mind-matter distinction altogether (dual-aspect monism, neutral monism) or that distribute mentality throughout matter itself (panpsychism).
 

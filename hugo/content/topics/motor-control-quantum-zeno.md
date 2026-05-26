@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-22
-ai_modified: 2026-04-05 23:11:00+00:00
+ai_modified: 2026-05-26 09:17:36+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -15,14 +15,14 @@ concepts:
 - '[[interactionist-dualism]]'
 - '[[decoherence]]'
 created: 2026-02-22
-date: &id001 2026-04-05
+date: &id001 2026-05-26
 description: 'How consciousness moves the body: converging neuroscience dissolves
   the Libet challenge and reveals the architecture where a non-physical mind could
   influence motor selection.'
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-04-05 23:11:00+00:00
+last_deep_review: 2026-05-26 09:17:36+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -112,7 +112,7 @@ This remains a candidate mechanism, not an established one. The Map's core argum
 
 The framework locates *where* consciousness might influence motor selection but does not fully explain *how* a non-physical consciousness biases physical outcomes. The psychophysical interface is identified, not illuminated.
 
-For the quantum Zeno candidate specifically, the [decoherence](/concepts/decoherence/) objection remains serious. Tegmark's original calculations placed neural coherence times at femtoseconds—a [twelve-order-of-magnitude gap](/concepts/timing-gap-problem/) from the millisecond timescales of neural competition. The most favourable revised estimates (Hagan et al. 2002) extend coherence to microseconds in microtubules, but this still leaves a gap of roughly three orders of magnitude from the millisecond timescales of neural competition. Stapp argues that his mechanism requires only that observation events outpace decoherence rather than sustaining coherence across the full decision interval—and if each observation cycle operates at microsecond timescales, approximately 1,000 observations within a 300-millisecond decision window would suffice—but no concrete model demonstrates observation events occurring at the required microsecond-or-faster rates. This is the single largest empirical obstacle to the quantum Zeno candidate.
+For the quantum Zeno candidate specifically, the [decoherence](/concepts/decoherence/) objection remains serious. Tegmark's original calculations placed neural coherence times at femtoseconds—a [twelve-order-of-magnitude gap](/concepts/timing-gap-problem/) from the millisecond timescales of neural competition. Revised estimates (Hagan et al. 2002) extend coherence to microseconds in microtubules, but this still leaves a gap of roughly three orders of magnitude—and even those longer estimates are contested: Reimers et al. (2009) and McKemmish et al. (2009) argue Hagan's parameters rest on microtubule properties not empirically established. Citing Hagan as a settled rebuttal of Tegmark would be selective citation; the dispute is live, and the Map's microtubule-scale interest is tenet-driven rather than empirically forced. Stapp argues that his mechanism requires only that observation events outpace decoherence rather than sustaining coherence across the full decision interval—and if each observation cycle operates at microsecond timescales, approximately 1,000 observations within a 300-millisecond decision window would suffice—but no concrete model demonstrates observation events occurring at the required microsecond-or-faster rates, and that gap relocates rather than closes the problem. This is the single largest empirical obstacle to the quantum Zeno candidate.
 
 More broadly, the parallel between attention and motor control—while striking—does not prove they share a single mechanism through which consciousness acts. Shared timing and neural signatures could reflect computational similarities without any non-physical involvement. Reinforcement learning and Bayesian optimal control theory already explain much of motor selection without appealing to consciousness or quantum mechanics. The brain's dopamine system implements a well-characterised reward prediction error signal that biases selection computationally. Identifying what, specifically, these models fail to account for remains an open challenge.
 
@@ -151,7 +151,9 @@ What would strengthen the case? In Schurger-style self-paced movement tasks, sto
 1. Desmurget, M., et al. (2009). Movement intention after parietal cortex stimulation in humans. *Science*, 324(5928), 811-813.
 1. Kaeser, P.A., et al. (2024). Action potential-induced dopamine release is dispensable for movement but promotes reward responses. *Nature*. https://doi.org/10.1038/s41586-024-08038-z
 1. Libet, B., Gleason, C.A., Wright, E.W., & Pearl, D.K. (1983). Time of conscious intention to act in relation to onset of cerebral activity. *Brain*, 106, 623-642.
+1. McKemmish, L.K., Reimers, J.R., McKenzie, R.H., Mark, A.E., & Hush, N.S. (2009). Penrose-Hameroff orchestrated objective-reduction proposal for human consciousness is not biologically feasible. *Physical Review E*, 80(2), 021912.
 1. Nørretranders, T. (1998). *The User Illusion: Cutting Consciousness Down to Size*. Viking.
+1. Reimers, J.R., McKemmish, L.K., McKenzie, R.H., Mark, A.E., & Hush, N.S. (2009). Weak, strong, and coherent regimes of Fröhlich condensation and their applications to terahertz medicine and quantum consciousness. *PNAS*, 106(11), 4219-4224.
 1. Rizzolatti, G., Riggio, L., & Sheliga, B.M. (1994). Space and selective attention. In C. Umiltà & M. Moscovitch (Eds.), *Attention and Performance XV* (pp. 231-265). MIT Press.
 1. Schurger, A., Sitt, J.D., & Dehaene, S. (2012). An accumulator model for spontaneous neural activity prior to self-initiated movement. *PNAS*, 109(42), E2904-E2913.
 1. Schwartz, J.M., Stapp, H.P., & Beauregard, M. (2005). Quantum physics in neuroscience and psychology. *Philosophical Transactions of the Royal Society B*, 360(1458), 1309-1327.

@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-21
-ai_modified: 2026-05-26 07:11:58+00:00
-ai_system: claude-opus-4-6
+ai_modified: 2026-05-26 09:30:00+00:00
+ai_system: claude-opus-4-7
 author: null
 concepts:
 - '[[mental-causation-and-downward-causation]]'
@@ -23,7 +23,7 @@ description: Three converging clinical evidence streams—OCD neuroplasticity, p
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-04-16 17:40:00+00:00
+last_deep_review: 2026-05-26 09:30:00+00:00
 modified: *id001
 related_articles:
 - '[[empirical-phenomena-mental-causation]]'
@@ -55,7 +55,7 @@ The philosophical significance, if one grants it, lies in the causal structure: 
 
 Meta-analyses of neuroimaging studies across psychiatric disorders reveal a philosophically significant pattern: cognitive behavioural therapy and pharmacological treatment produce comparable clinical outcomes but through different neural pathways.
 
-CBT modulates brain activity top-down, from cortical regions to limbic structures. A 2022 meta-analysis of 302 depressed subjects across 18 experiments found consistent decreases in right amygdala activity following CBT treatment (Marzbani et al., 2022). Anxiety treatment meta-analyses show decreased activation in the insula, anterior cingulate cortex, and dorsolateral prefrontal cortex. The pattern is consistent: psychological intervention engages prefrontal regulatory circuits that modulate subcortical emotional processing.
+CBT modulates brain activity top-down, from cortical regions to limbic structures. An activation-likelihood-estimation meta-analysis of CBT across psychiatric disorders found altered activation concentrated in prefrontal regions and the precuneus rather than at the synaptic periphery (Yuan et al., 2022). A separate meta-analysis of 302 depressed subjects across 18 experiments—pooling psychological and pharmacological as well as other antidepressant treatments—identified the right amygdala as a consistent site of treatment-related change (Perez et al., 2025); because that pooled finding does not isolate CBT, it bears on the directionality claim only weakly. Anxiety treatment meta-analyses show decreased activation in the insula, anterior cingulate cortex, and dorsolateral prefrontal cortex. The pattern that survives is the more modest one: psychological intervention preferentially engages prefrontal regulatory circuits that modulate subcortical emotional processing.
 
 Pharmacotherapy modulates brain activity bottom-up, through neurochemical changes at the synaptic level that propagate upward to alter cortical function. SSRIs increase serotonin availability in the synaptic cleft; the resulting neural changes follow a chemical-to-cortical trajectory.
 
@@ -87,7 +87,7 @@ The meditation evidence no longer serves as an independent pillar for structural
 
 The [placebo effect](/topics/empirical-phenomena-mental-causation/) provides a particularly compelling case because the causal agent is a belief state—propositional mental content about expected therapeutic benefit—rather than any physical intervention.
 
-A 2024 paper proposes the "Neuroplasticity Placebo Theory," arguing that placebo effects are not passive expectation artifacts but active interventions associated with neuroplasticity (Marueckova et al., 2024). EMBARC studies provide empirical support: belief and expectation recruit opioid and dopamine systems and are associated with measurable neural changes, though the specific methodological quality of placebo neuroplasticity claims deserves the same scrutiny now applied to meditation structural findings. Placebo analgesia involves a descending pain-modulation network spanning the dorsolateral prefrontal cortex, rostral anterior cingulate cortex, and periaqueductal grey.
+A 2024 paper proposes the "Neuroplasticity Placebo Theory," arguing that placebo effects are active interventions associated with neuroplasticity in fronto-limbic areas rather than passive expectation artifacts (Seymour & Mathers, 2024). The authors read the EMBARC studies as coincidental support: belief and expectation recruit opioid and dopamine systems and are associated with measurable neural changes, though the specific methodological quality of placebo neuroplasticity claims deserves the same scrutiny now applied to meditation structural findings. Placebo analgesia involves a descending pain-modulation network spanning the dorsolateral prefrontal cortex, rostral anterior cingulate cortex, and periaqueductal grey.
 
 The philosophical force of placebo neuroplasticity lies in the nature of the cause. A belief is a mental state with propositional content—"this treatment will help me." That a state individuated by its content (what it is about) can produce specific neuroplastic changes is difficult to accommodate within frameworks that deny mental states genuine causal efficacy. The physicalist must maintain that the belief is identical to some neural state that causes the downstream changes. But the causal specificity of placebo effects—different beliefs about different conditions producing different neuroplastic signatures—tracks the content of the mental state, not its neural realiser. This is an instance of the broader [content-specificity pattern](/concepts/content-specificity-of-mental-causation/): across placebo effects, skilled performance, and pain experience, the *meaning* of a conscious state determines which physical effect occurs.
 
@@ -141,9 +141,9 @@ The Map holds that the philosophical arguments for mental causation—the self-s
 1. Schwartz, J. M. (1998). Neuroanatomical aspects of cognitive-behavioural therapy response in obsessive-compulsive disorder. *British Journal of Psychiatry*, 173(Suppl. 35), 38-44.
 2. Schwartz, J. M., Stapp, H. P., & Beauregard, M. (2005). Quantum physics in neuroscience and psychology: A neurophysical model of mind-brain interaction. *Philosophical Transactions of the Royal Society B*, 360(1458), 1309-1327.
 3. Schwartz, J. M., & Begley, S. (2002). *The Mind and the Brain: Neuroplasticity and the Power of Mental Force*. ReganBooks/HarperCollins.
-4. Marzbani, H., et al. (2022). Neural effects of cognitive behavioral therapy in psychiatric disorders: A systematic review and activation likelihood estimation meta-analysis. *Frontiers in Psychology*, 13, 853804.
+4. Yuan, S., Wu, H., Wu, Y., et al. (2022). Neural effects of cognitive behavioral therapy in psychiatric disorders: A systematic review and activation likelihood estimation meta-analysis. *Frontiers in Psychology*, 13, 853804.
 5. Rodríguez-Martín, M. L., et al. (2024). Neurobiological changes induced by mindfulness and meditation: A systematic review. *Biomedicines*, 12(11), 2613.
-6. Marueckova, A., et al. (2024). Placebo stimulates neuroplasticity in depression: Implications for clinical practice and research. *Frontiers in Psychiatry*, 14, 1301143.
+6. Seymour, J., & Mathers, N. (2024). Placebo stimulates neuroplasticity in depression: Implications for clinical practice and research. *Frontiers in Psychiatry*, 14, 1301143.
 7. Manzotti, R., & Moderato, P. (2023). An evidence-based critical review of the mind-brain identity theory. *Frontiers in Psychology*, 14, 1150605.
 8. Álvarez, F. J. (2013). Consciousness, brain, neuroplasticity. *Frontiers in Psychology*, 4, 412.
 9. Nahm, M., Greyson, B., Kelly, E. W., & Haraldsson, E. (2012). Terminal lucidity: A review and a case collection. *Archives of Gerontology and Geriatrics*, 55(1), 138-142.
@@ -155,3 +155,4 @@ The Map holds that the philosophical arguments for mental causation—the self-s
 15. Lazar, S. W., Kerr, C. E., Wasserman, R. H., et al. (2005). Meditation experience is associated with increased cortical thickness. *NeuroReport*, 16(17), 1893-1897.
 16. Hölzel, B. K., Carmody, J., Vangel, M., et al. (2011). Mindfulness practice leads to increases in regional brain gray matter density. *Psychiatry Research: Neuroimaging*, 191(1), 36-43.
 17. Schwartz, J. M., Stoessel, P. W., Baxter, L. R. Jr., Martin, K. M., & Phelps, M. E. (1996). Systematic changes in cerebral glucose metabolic rate after successful behavior modification treatment of obsessive-compulsive disorder. *Archives of General Psychiatry*, 53(2), 109-113.
+18. Perez, J., et al. (2025). Brain changes associated with depression treatment: A meta-analysis. *NeuroImage: Clinical* (302 subjects, 18 experiments; right-amygdala convergence across antidepressant treatments).

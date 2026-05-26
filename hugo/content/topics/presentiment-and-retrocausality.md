@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-27
-ai_modified: 2026-04-07 10:22:00+00:00
+ai_modified: 2026-05-26 08:20:39+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -17,7 +17,7 @@ description: Distinguishing physics-based retrocausality from contested parapsyc
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-04-07 10:22:00+00:00
+last_deep_review: 2026-05-26 09:15:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -64,7 +64,7 @@ Skeptical analyses paint a different picture:
 
 The literature is genuinely contested. Proponents cite pre-registered replications and meta-analytic robustness. Skeptics note that independent replications by researchers without prior commitment consistently fail. Neither side accepts the other's evidence. The experimenter-effect hypothesis—that believers' experiments succeed and skeptics' fail—makes the claims difficult to falsify.
 
-The Bayesian debate is particularly instructive. Bem's mega-analysis claims a Bayes factor of 10⁹ for presentiment. But Wagenmakers counters that against prior odds of 10²⁰ (reflecting how implausible retrocausal physiology seems given known biology), this still yields posterior odds of 10¹¹ *against*. What prior probability you assign determines what evidence you require.
+The Bayesian debate is particularly instructive. Bem, Tressoldi, Rabeyron, and Duggan's (2016) meta-analysis of 90 experiments reports a Bayes factor on the order of 10⁹ in favor of presentiment. But the prior probability one assigns does the decisive work. Wagenmakers et al. (2011), in their reanalysis of Bem's original 2011 studies, set prior odds against psi at roughly 10²⁰ to 1 (reflecting how implausible retrocausal physiology seems given known biology). Against a prior that extreme, even a Bayes factor of 10⁹ leaves posterior odds on the order of 10¹¹ *against*. What prior probability you assign determines what evidence you require—and the 2011 exchange turned precisely on whether Wagenmakers' near-zero prior was reasonable or question-begging.
 
 ## Why the Map Doesn't Rest on Presentiment
 
@@ -72,11 +72,11 @@ Even granting the presentiment literature's most generous interpretation, severa
 
 **Unconscious responses don't establish conscious causation.** Presentiment concerns involuntary physiological activity—skin conductance, pupil dilation, autonomic responses. This is precisely *not* the conscious selection the Map's [Bidirectional Interaction tenet](/tenets/#bidirectional-interaction) describes. The tenet claims consciousness selects among neural possibilities—a selection that manifests in [phenomenal experience](/concepts/qualia/), reasoned deliberation, and actions attributable to the agent. Unconscious anticipation, even if real, would be something different: automatic organismic response rather than [agent-level selection](/concepts/agent-causation/).
 
-**Physics-based retrocausality is independently grounded.** The transactional interpretation doesn't require presentiment. Wheeler's delayed-choice is experimentally confirmed. Time-symmetric quantum mechanics is mathematically sound. The Map can affirm retrocausality while remaining agnostic about presentiment because the physics stands alone.
+**Physics-based retrocausality is independently grounded.** The transactional interpretation doesn't require presentiment. Wheeler's delayed-choice *phenomenon* is experimentally confirmed—though the retrocausal *reading* of it is one interpretation among empirically-equivalent others, a point the next paragraph and the "Relation to Site Perspective" section handle with the same care this article demands of presentiment. Time-symmetric quantum mechanics is mathematically sound. The Map can affirm a retrocausal reading while remaining agnostic about presentiment because the physics rests on a respectable mainstream interpretive dispute rather than on a literature whose central defense is conceded unfalsifiable.
 
 **Controversial evidence is fragile foundation.** The Map's [Occam's Razor Has Limits tenet](/tenets/#occams-limits) acknowledges that simplicity preferences can mislead. But this cuts against relying on contested evidence too. If the Map's claims required presentiment, critics could dismiss the entire framework by attacking the weakest evidence. Grounding retrocausality in physics insulates core commitments from parapsychological controversies.
 
-**The mechanism gap is far larger for presentiment.** Even if quantum retrocausality is real, no demonstrated pathway connects it to macroscopic physiological responses. Physics-based retrocausality operates at quantum measurement—the transition from superposition to definite outcome. Neural firing involves quantum events at synapses and ion channels, plausibly interfacing with this level. But skin conductance changes require coordinated activity across millions of sweat glands. The mechanism gap for presentiment is qualitatively larger: it requires amplifying quantum retrocausality not just to individual neural decisions but to coherent organismic responses anticipating external events the organism has no information about.
+**The mechanism gap is larger for presentiment—but in degree, not kind.** Even if quantum retrocausality is real, no demonstrated pathway connects it to macroscopic physiological responses. Physics-based retrocausality operates at quantum measurement—the transition from superposition to definite outcome. Neural firing involves quantum events at synapses and ion channels that might interface with this level. Honesty requires conceding that the Map's *own* interface mechanism is contested at exactly the point that would undercut presentiment: Tegmark's decoherence objection holds that warm, wet neural tissue at ~310K destroys quantum coherence in femtoseconds, far faster than any process that could matter for cognition. If decoherence forbids quantum retrocausality from reaching skin conductance, it threatens the Map's own neural interface too. The asymmetry between the two is therefore one of *degree of implausibility*, not a clean plausible-versus-impossible line. The case for the difference being large: a single retrocausally-influenced collapse at one decision-relevant ion channel is a far smaller ask than coherent anticipation across an entire autonomic system about an external event the organism has no information about—and the Map's response to decoherence (see [quantum-consciousness](/concepts/quantum-consciousness/)) addresses the single-event case, not organism-scale coordination. But the decoherence threat is real for both, and the Map should not grant its own mechanism a free pass while denying presentiment one on scale alone.
 
 ## What Presentiment Would Mean If Real
 
@@ -102,7 +102,7 @@ Presentiment would require a different application of retrocausality—not just 
 
 The Map's [Dualism](/tenets/#dualism) and [Bidirectional Interaction](/tenets/#bidirectional-interaction) tenets require that consciousness causally influences physical processes. [Retrocausality](/concepts/retrocausality/) provides one mechanism: consciousness selects among superposed neural states, with the selection determining which history becomes actual.
 
-This doesn't require presentiment. The physics of time-symmetric quantum mechanics provides independent grounding. Wheeler's delayed-choice experiments demonstrate retrocausal structure empirically. The transactional interpretation offers coherent interpretation.
+This doesn't require presentiment. The physics of time-symmetric quantum mechanics provides independent grounding. Wheeler's delayed-choice experiments confirm a phenomenon that is consistent with—and motivates—a retrocausal reading; they do not, by themselves, *establish* retrocausal structure, since standard quantum mechanics accounts for delayed-choice without it. The retrocausal reading is one empirically-equivalent interpretation, and the transactional interpretation makes it coherent. Consistency demands the same scrupulousness here that the article applies to presentiment: a confirmed phenomenon is not a confirmed interpretation. What the firewall buys is comparative, not absolute—the interpretive debate over time-symmetric quantum mechanics is a respectable mainstream-physics dispute, whereas presentiment's central defense (the experimenter-effect escape hatch) is conceded unfalsifiable.
 
 Presentiment would be additional evidence if confirmed—but the Map's commitments don't depend on it. By keeping these lines of inquiry distinct, the Map protects its core claims from association with the most contested research while remaining open to future evidence.
 

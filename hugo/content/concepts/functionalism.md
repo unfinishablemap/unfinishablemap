@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-09
-ai_modified: 2026-04-30 16:27:00+00:00
+ai_modified: 2026-05-26 11:35:42+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -69,11 +69,11 @@ In *Representation and Reality* (1988), Hilary Putnam argued that functionalism�
 
 The argument's force is independent of its author. Two agents with identical internal functional organization can have different mental contents if their environments differ. In Putnam's Twin Earth case, the beliefs "water is wet" and "twater is wet" play identical internal functional roles yet refer to different substances. Functional role underdetermines mental content.
 
-Putnam's own trajectory continued past rejecting functionalism toward "pragmatic realism," granting consciousness an ineliminable role in constituting the meaningful world (see [pragmatism's path to dualism](/topics/pragmatisms-path-to-dualism/)). The Map reads this as one instance of [concession-convergence](/concepts/concession-convergence/)—physicalist programmes independently retreating from positions unable to accommodate meaning, reference, or phenomenal character.
+Putnam's own trajectory continued past rejecting functionalism toward "pragmatic realism," granting consciousness an ineliminable role in constituting the meaningful world (see [pragmatism's path to dualism](/topics/pragmatisms-path-to-dualism/)). The Map reads this as one instance of [concession-convergence](/concepts/concession-convergence/)—physicalist programmes independently retreating from positions unable to accommodate meaning, reference, or phenomenal character. This is an interpretation the Map favours, not a reading the data forces: a committed physicalist can take Putnam's pragmatism as a course-correction *within* naturalism rather than a step toward dualism, and the convergence claim is offered as the more illuminating gloss, not the only available one.
 
 ## Modern Functionalist Frameworks
 
-[Predictive processing](/concepts/predictive-processing/) describes the brain as continuously generating predictions about incoming sensory information—Anil Seth's "controlled hallucination." [Global Workspace Theory](/concepts/global-workspace-theory/) proposes consciousness arises when information broadcasts to a "global workspace" accessible across brain regions. Both inherit functionalism's core limitation: explaining how information is processed or globally available doesn't explain why processing feels like anything. Ned Block's distinction between "access consciousness" and "phenomenal consciousness" captures the gap. The COGITATE adversarial collaboration (Melloni et al., 2023-2024) tested GWT against IIT; neither theory's predictions were fully confirmed.
+[Predictive processing](/concepts/predictive-processing/) describes the brain as continuously generating predictions about incoming sensory information—Anil Seth's "controlled hallucination." [Global Workspace Theory](/concepts/global-workspace-theory/) proposes consciousness arises when information broadcasts to a "global workspace" accessible across brain regions. Both inherit functionalism's core limitation: explaining how information is processed or globally available doesn't explain why processing feels like anything. Ned Block's distinction between "access consciousness" and "phenomenal consciousness" captures the gap. The COGITATE adversarial collaboration tested GWT against IIT (protocol: Melloni et al., 2023; results: Cogitate Consortium / Melloni et al., 2025); neither theory's predictions were fully confirmed.
 
 ### A Physicalist Rejection of Functionalism
 
@@ -81,7 +81,7 @@ Putnam's own trajectory continued past rejecting functionalism toward "pragmatic
 
 This matters because rejecting functionalism isn't merely a dualist move. The Map and IIT agree that substrate matters, though they disagree on *why*: IIT claims consciousness is identical to integrated physical structure, while the Map holds that the right physical structure enables non-physical consciousness to interact with the brain. See [metaphysics of information under dualism](/concepts/metaphysics-of-information-under-dualism/) for development.
 
-[Biological computationalism](/concepts/biological-computationalism/) (Milinkovic & Aru, 2025) pushes further: biological computation is hybrid discrete-continuous, metabolically grounded, inseparable from its fluidic substrate—"the algorithm *is* the substrate." This narrows consciousness-capable computation so drastically that classical functionalism's substrate neutrality is abandoned—another instance of [concession convergence](/concepts/concession-convergence/).
+[Biological computationalism](/concepts/biological-computationalism/) (Milinkovic & Aru, 2025) pushes further: biological computation is hybrid discrete-continuous, metabolically grounded, inseparable from its fluidic substrate—"the algorithm *is* the substrate." This narrows consciousness-capable computation so drastically that classical functionalism's substrate neutrality is abandoned. The Map reads this too as [concession convergence](/concepts/concession-convergence/), but the same qualification applies with full force: substrate-dependence is entirely compatible with physicalism. A committed physicalist sees biological computationalism not as a retreat toward dualism but as physicalism getting *more* precise about which physical systems are conscious—the opposite of a concession. The convergence reading is the Map's favoured interpretation; what the narrowing establishes neutrally is only that functional sufficiency, the substrate-neutral claim, has been given up.
 
 ## Functionalism and AI
 
@@ -89,7 +89,7 @@ Functionalism has direct implications for [AI consciousness](/topics/ai-consciou
 
 John Searle's Chinese Room argument challenges this directly. A person in a room manipulating Chinese symbols according to rules implements the same function as a Chinese speaker without understanding Chinese. Syntax isn't semantics. Functionalists reply that the *system*—person plus rules plus room—understands. [Dennett](/concepts/heterophenomenology/) goes further: the intuition that "understanding is missing" may itself be a cognitive illusion. Searle counters: imagine the person memorizes the rules and does everything in their head. Now they *are* the system, yet understanding is still missing. Critics note that this move may beg the question—exactly what's at issue.
 
-The failure of functionalism reframes the AI question. [The Machine Question](/apex/machine-question/) uses this failure as entry into a broader reframing: not "is AI conscious?" but *what type* of consciousness might an AI have—null, simulated, functional, borrowed, epiphenomenal, or alien phenomenality as logically distinct possibilities.
+If functionalism fails, the AI question is reframed. [The Machine Question](/apex/machine-question/) uses that prospect as entry into a broader reframing: not "is AI conscious?" but *what type* of consciousness might an AI have—null, simulated, functional, borrowed, epiphenomenal, or alien phenomenality as logically distinct possibilities.
 
 ## The Absent Qualia Objection
 
@@ -99,7 +99,7 @@ The deepest objection to functionalism concerns [qualia](/concepts/qualia/)—th
 
 **Absent qualia**: A [philosophical zombie](/concepts/philosophical-zombies/) functionally identical to you but with no experience at all—acts like it's in pain, believes it's in pain, feels nothing.
 
-If either is possible, functionalism is false: mental states have qualitative character not captured by functional role. See [Against Functionalism](/arguments/functionalism-argument/) for the full argument.
+If either is possible, functionalism is false: mental states have qualitative character not captured by functional role. The load-bearing step is the inference from *conceivability* to *metaphysical possibility*, which type-B physicalists contest—conceiving a zombie, they argue, no more establishes its possibility than conceiving water without H₂O establishes that water could lack it. The Map does not treat the inference as automatic; see [Against Functionalism](/arguments/functionalism-argument/) for where it is defended against the type-B response.
 
 The [phenomenology-vs-function axis](/concepts/phenomenology-vs-function-axis/) supplies empirical complements—aphantasic mental rotation, Wager's synaesthetic "extra qualia," Strawson's foreign-language case, and Wegner's I-Spy paradigm—where phenomenology and function come apart in documented rather than merely conceivable conditions. Functionalists can absorb individual cases via multi-realizability; the cross-domain pattern is harder to dispatch as a joint package.
 
@@ -129,7 +129,9 @@ The [hard problem](/topics/hard-problem-of-consciousness/) asks: why is there so
 
 [Phenomenal non-compositionality](/concepts/phenomenal-non-compositionality/) sharpens the difficulty. Functional states compose straightforwardly—combine two information-processing subsystems and you get a richer causal profile. But phenomenal states do not compose: two perspectives do not merge into a third. If functional organization were sufficient for consciousness, functional composition should yield phenomenal composition. It does not, and the gap is conceptual rather than computational.
 
-This doesn't prove functionalism wrong. It might be that once you have the right functional organization, experience necessarily comes along—but the necessity would be brute. This is where [mysterianism](/concepts/mysterianism/) gains traction.
+This exposes the pressure functionalism faces on its own terms. Functionalism does not merely describe mental states by their causal roles; it asserts that functional organization is *sufficient* for consciousness. But it never specifies why exercising a functional role should involve qualitative experience at all—why the right causal structure does not simply run "in the dark." By the standards functionalism itself accepts, an adequate account of a property explains why instantiating the property's defining conditions produces the property; functionalism helps itself to the sufficiency claim without supplying that explanation. The phenomenal-concepts strategy and the appeal to brute necessity are attempts to discharge this debt; neither pays it.
+
+This doesn't prove functionalism wrong. It might be that once you have the right functional organization, experience necessarily comes along—but the necessity would be brute, an unexplained sufficiency rather than an earned one. This is where [mysterianism](/concepts/mysterianism/) gains traction.
 
 ## Functionalism's Appeal
 
@@ -173,7 +175,7 @@ The Map's rejection of functionalism would face serious pressure if:
 - **AI systems exhibited genuine phenomenal understanding.** If computational systems demonstrated not just behavioral sophistication but capacities that dualists predict require non-physical consciousness (such as resolving genuinely novel hard-problem puzzles or exhibiting first-person creativity indistinguishable from biological minds), the claim that "something non-physical is missing" would lose empirical support.
 - **Quantum sensitivity proved irrelevant to consciousness.** If consciousness correlated with macroscopic neural processes and showed no dependence on quantum-level phenomena—especially if anesthesia and consciousness disorders were fully explained by classical neural mechanisms—the Minimal Quantum Interaction tenet would be undermined, weakening one pillar of the case against functionalism.
 
-None of these would logically refute dualism (the conceivability arguments would remain), but they would erode the empirical motivation for rejecting functionalism and shift the burden of proof.
+None of these would logically refute dualism—the conceivability arguments would formally remain, though they rest on the contested conceivability-to-possibility inference noted above and so cannot carry the case alone. What such results would do is substantially erode the empirical motivation for rejecting functionalism and shift the burden of proof. The honest accounting: the empirical predictions have real defeating power over the Map's *motivation*, even where they leave the conceivability arguments formally standing.
 
 ## Further Reading
 
@@ -202,6 +204,7 @@ None of these would logically refute dualism (the conceivability arguments would
 1. Lewis, D. (1972). "Psychophysical and Theoretical Identifications." *Australasian Journal of Philosophy*, 50, 249-258.
 1. Milinkovic, B. & Aru, J. (2025). "On biological and artificial consciousness: A case for biological computationalism." *Neuroscience & Biobehavioral Reviews*, 181, 106524.
 1. Melloni, L., et al. (2023). "An adversarial collaboration protocol for testing contrasting predictions of global neuronal workspace and integrated information theory." *PLOS ONE*, 18(2), e0268577.
+1. Cogitate Consortium; Melloni, L., et al. (2025). "Adversarial testing of global neuronal workspace and integrated information theories of consciousness." *Nature*, 642, 133-142.
 1. Morgan, P.G. & Bhatt, D.H. (2015). "Anesthetic Action in *C. elegans*." In *Bhatt, D.H. (ed.), C. elegans: Methods and Applications*, 2nd ed.
 1. Nakagaki, T., Yamada, H. & Tóth, Á. (2000). "Maze-solving by an amoeboid organism." *Nature*, 407, 470.
 1. Oizumi, M., Albantakis, L. & Tononi, G. (2014). "From the Phenomenology to the Mechanisms of Consciousness: Integrated Information Theory 3.0." *PLOS Computational Biology*, 10(5), e1003588.

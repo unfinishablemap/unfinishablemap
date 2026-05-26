@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-01
-ai_modified: 2026-03-30 03:33:00+00:00
+ai_modified: 2026-05-26 08:43:29+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -18,7 +18,7 @@ description: Leibniz's 1714 thought experiment—walk through an enlarged brain,
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-03-30 03:33:00+00:00
+last_deep_review: 2026-05-26 08:43:29+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -87,7 +87,7 @@ Several features make Leibniz's Mill more than a historical curiosity:
 
 **It appeals to a clear intuition.** The thought experiment invites verification. We don't need to accept Leibniz's metaphysics to feel the force of the question: where, among all those parts, is the perception?
 
-A caution: intuitions have been unreliable guides to physics—we couldn't imagine curved spacetime or quantum entanglement either. But Leibniz's intuition differs from those cases. It doesn't say physics must work a certain way; it says that no physical description, however accurate, addresses the felt quality of experience. This is not a failure of imagination about physical possibilities but a recognition that physical description and phenomenal quality are different kinds of discourse.
+A caution: intuitions have been unreliable guides to physics—we couldn't imagine curved spacetime or quantum entanglement either. But Leibniz's intuition differs from those cases. It doesn't say physics must work a certain way; it says that no physical description, however accurate, addresses the felt quality of experience. The claim turns not on a failure of imagination about physical possibilities but on a recognition that physical description and phenomenal quality are different kinds of discourse.
 
 **It distinguishes function from experience.** A machine could pass any behavioral test for perception while the mill argument still applies. The parts would implement the right input-output relations, but walking through would still reveal "only parts which work one upon another."
 
@@ -129,7 +129,7 @@ Leibniz's Mill supports several of the Map's [tenets](/tenets/):
 
 **[Dualism](/tenets/#dualism)**: The argument provides independent support for the claim that consciousness is not reducible to physical processes. Leibniz reached this conclusion centuries before the modern hard problem was articulated, using only imaginative inspection of what physical systems could contain.
 
-**[Occam's Razor Has Limits](/tenets/#occam)**: The materialist response that experience "just is" the arrangement of parts invokes parsimony: why posit anything beyond the physical? But parsimony cannot close an explanatory gap. If physical description genuinely fails to capture something about experience—something revealed by the mill thought experiment—adding that something to our ontology is not profligacy but intellectual honesty.
+**[Occam's Razor Has Limits](/tenets/#occams-limits)**: The materialist response that experience "just is" the arrangement of parts invokes parsimony: why posit anything beyond the physical? But parsimony cannot close an explanatory gap. If physical description genuinely fails to capture something about experience—something revealed by the mill thought experiment—adding that something to our ontology is not profligacy but intellectual honesty.
 
 **[Bidirectional Interaction](/tenets/#bidirectional-interaction)**: Leibniz himself denied mind-body interaction, preferring pre-established harmony. The Map disagrees. But the mill argument is compatible with interactionist dualism: if perception is not reducible to mechanism, it may nonetheless influence mechanism at points where physics leaves outcomes undetermined—precisely the [Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction) the Map proposes.
 

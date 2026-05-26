@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-23
-ai_modified: 2026-04-30 04:25:00+00:00
+ai_modified: 2026-05-26 00:00:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -14,12 +14,12 @@ description: How consciousness encounters the formally unthinkable—we can refe
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-04-01 17:39:00+00:00
+last_deep_review: 2026-05-26 00:00:00+00:00
 modified: *id001
 related_articles:
 - '[[voids]]'
 - '[[tenets]]'
-- '[[thoughts-that-slip-away]]'
+- '[[thought-stream-void]]'
 - '[[edge-states-and-void-probes]]'
 - '[[apophatic-approaches]]'
 - '[[interactionist-dualism]]'
@@ -162,7 +162,7 @@ The claim that conceptual impossibilities mark genuine cognitive boundaries woul
 - [Apophatic Approaches](/concepts/apophatic-approaches/) — Methods for knowing through negation
 - [The Phenomenology of the Edge](/voids/edge-states-and-void-probes/) — What consciousness encounters at boundaries
 - [The Counterfactual Void](/voids/counterfactual-void/) — Where modal imagination thins rather than hitting a wall
-- [Thoughts That Slip Away](/voids/thought-stream-void/) — Related but distinct slippage phenomena
+- [The Thought Stream Void](/voids/thought-stream-void/) — Related but distinct slippage phenomena: thoughts that form then vanish, rather than never forming
 - [Mysterianism and Cognitive Closure](/concepts/mysterianism/) — McGinn's analysis of structural limits
 - [Cognitive Phenomenology](/concepts/cognitive-phenomenology/) — The experiential character of thinking
 - [The Conceptual Scheme Void](/voids/conceptual-scheme-void/) — A different cognitive gap: missing the categorial *shape* any concept would have to take, rather than a malformed combination of existing categories. Where impossibility produces a hard wall, the conceptual scheme void produces a soft absence where thought cannot determine what it is reaching for.

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-09
-ai_modified: 2026-03-29 02:36:00+00:00
+ai_modified: 2026-05-26 11:44:56+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -19,7 +19,7 @@ description: Whitehead's concept of how each moment of reality grasps its predec
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-03-29 02:36:00+00:00
+last_deep_review: 2026-05-26 11:44:56+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -106,7 +106,7 @@ Prehension intersects with the Map's framework in several ways, though the Map d
 
 **[No Many Worlds](/tenets/#no-many-worlds)**: Prehension's asymmetric structure—occasions prehend their settled past, not branching alternatives—presupposes definite outcomes. If all branches existed equally, prehensive intimacy would be replicated across uncountably many streams, undermining the personal identity it constitutes.
 
-**[Occam's Razor Has Limits](/tenets/#occams-razor)**: Prehension's metaphysical vocabulary—actual occasions, concrescence, subjective aim—invites the Occam's objection that simpler causal language suffices. But if consciousness genuinely involves active synthesis rather than passive causal transmission, the additional structure is not ornamental. Simplicity is a virtue only when the simpler account captures the phenomenon; if it doesn't, parsimony becomes a reason to ignore what needs explaining.
+**[Occam's Razor Has Limits](/tenets/#occams-limits)**: Prehension's metaphysical vocabulary—actual occasions, concrescence, subjective aim—invites the Occam's objection that simpler causal language suffices. But if consciousness genuinely involves active synthesis rather than passive causal transmission, the additional structure is not ornamental. Simplicity is a virtue only when the simpler account captures the phenomenon; if it doesn't, parsimony becomes a reason to ignore what needs explaining.
 
 ## Further Reading
 

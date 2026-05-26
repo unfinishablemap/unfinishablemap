@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-24
-ai_modified: 2026-05-19 11:04:33+00:00
-ai_system: claude-opus-4-6
+ai_modified: 2026-05-26 12:00:00+00:00
+ai_system: claude-opus-4-7
 author: null
 concepts:
 - '[[parsimony-epistemology]]'
@@ -20,7 +20,7 @@ description: Interactionist dualism may be simpler than physicalism once all exp
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-04-29 22:41:00+00:00
+last_deep_review: 2026-05-26 12:00:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -38,13 +38,15 @@ topics:
 - '[[arguments-against-materialism]]'
 ---
 
-The Unfinishable Map's existing articles on [parsimony-epistemology](/concepts/parsimony-epistemology/) and the [limits of parsimony](/concepts/parsimony-epistemology/) make the defensive case: Occam's Razor cannot adjudicate the mind-body problem because its preconditions fail. This article makes the stronger, positive claim. When all explanatory costs are tallied — not just substance count but theoretical proliferation, brute facts, and accommodation of the data — [interactionist-dualism](/concepts/interactionist-dualism/) emerges as the more parsimonious position. Physicalism's apparent simplicity counts only ontological categories, leaving other explanatory costs off the ledger.
+The Unfinishable Map's existing articles on [parsimony-epistemology](/concepts/parsimony-epistemology/) and the [limits of parsimony](/concepts/parsimony-epistemology/) make the defensive case: Occam's Razor cannot adjudicate the mind-body problem because its preconditions fail. This article makes a stronger, *dialectical* claim — one addressed to the physicalist who still trusts parsimony here. Granting that trust for the sake of argument, when all explanatory costs are tallied — not just substance count but theoretical proliferation, brute facts, and accommodation of the data — [interactionist-dualism](/concepts/interactionist-dualism/) is at least as parsimonious as physicalism, and on two of three dimensions arguably more so. Physicalism's apparent simplicity counts only ontological categories, leaving other explanatory costs off the ledger.
+
+The Map does not endorse the inference *simpler-therefore-truer* here. The fifth tenet ([Occam's Razor Has Limits](/tenets/#occams-limits)) holds that parsimony is not a reliable guide to truth where knowledge is this incomplete, and that self-binding applies to parsimony arguments *for* dualism exactly as it applies to those *against* it. What follows is therefore not a proof that simplicity establishes dualism but a demonstration that the objector's own weapon, wielded honestly, does not deliver the verdict it was raised to deliver. The Map's positive case for dualism rests on its other arguments; this article only removes a barrier.
 
 ## What the Standard Argument Counts
 
 The standard parsimony argument against dualism is straightforward: physicalism posits one substance type, dualism posits two. One is less than two. Prefer physicalism.
 
-This argument counts ontological categories and nothing else. Comparing two accounting systems only by the number of account types, while ignoring unreconciled liabilities in each, gives a partial picture at best. [Simplicity has three dimensions](/concepts/parsimony-epistemology/#three-dimensions-of-simplicity) — ontological, syntactic, and explanatory — and physicalism's advantage on the first is purchased at significant cost on the other two. The [broader case against materialism](/topics/arguments-against-materialism/) converges on the same conclusion from multiple independent directions; what follows is the parsimony-specific version of that convergence.
+This argument counts ontological categories and nothing else — comparing two accounting systems only by the number of account types, ignoring the unreconciled liabilities in each. [Simplicity has three dimensions](/concepts/parsimony-epistemology/#three-dimensions-of-simplicity) — ontological, syntactic, and explanatory — and physicalism's advantage on the first is purchased at significant cost on the other two. The [broader case against materialism](/topics/arguments-against-materialism/) converges on the same conclusion from multiple independent directions; what follows is the parsimony-specific version of that convergence.
 
 Zanotti (2021) makes this precise. Physicalism's ontological economy comes with what he calls the "burden of parsimony" — the explanatory debts that accumulate when consciousness must be accommodated within a framework that provides no natural place for it. These debts are not speculative future problems. They are present structural features of every physicalist programme.
 
@@ -78,7 +80,7 @@ Every physicalist account must accept at least one of three explanatory debts:
 
 **Conceptual gap.** [Mysterians](/concepts/mysterianism/) (McGinn) hold that physicalism is true but human cognition cannot understand how. This concedes that the explanatory gap is real from our perspective while insisting it would dissolve with better concepts. The cost: physicalism's superiority becomes unfalsifiable. If the explanation is in principle beyond our grasp, we cannot evaluate whether it exists.
 
-Interactionist dualism avoids all three. It takes consciousness at face value — experience is real, non-physical, and causally efficacious — and adds [psychophysical-laws](/concepts/psychophysical-laws/) connecting mental and physical domains. This is a genuine explanatory cost, and not a single flat question: the laws' domain (which mental properties couple to which physical properties), functional form, determinism or probabilism, relation to conservation principles, handling of the pairing problem, and ground or origin each need specification. What dualism offers over physicalism here is not fewer sub-problems but more coherently posed ones — questions about how two acknowledged categories connect, rather than how to derive one category from another its framework lacks resources to contain.
+Interactionist dualism avoids all three. It takes consciousness at face value — experience is real, non-physical, and causally efficacious — and adds [psychophysical-laws](/concepts/psychophysical-laws/) connecting mental and physical domains. This is a genuine explanatory cost, and not a single flat question: the laws' domain, functional form, determinism or probabilism, relation to conservation, handling of the pairing problem, and origin each need specification (the full enumeration is taken up in the modesty comparison below). What dualism offers over physicalism here is more coherently posed sub-problems — how two acknowledged categories connect, rather than how to derive one category from another its framework lacks resources to contain.
 
 A physicalist might object that brute psychophysical laws are no worse than other brute laws of nature — gravity, for instance, is fundamental and unexplained. But the analogy is asymmetric. Brute physical laws connect entities of the same ontological category; physicalism's brute psychophysical law must connect physical structure to phenomenal character across what the physicalist insists is *not* an ontological divide. This is not merely an unexplained law but an unexplained law whose very possibility the framework cannot articulate. The dualist's psychophysical laws, by contrast, connect two acknowledged categories — the explanatory task is difficult but coherent.
 
@@ -92,7 +94,7 @@ Hubbard distinguishes three kinds of parsimony — roughly corresponding to the 
 
 **Epistemological parsimony** (explanatory economy): Dualism wins. Physicalism must explain *away* consciousness — reduce it, eliminate it, or declare it brute. Each strategy adds explanatory machinery. Dualism explains consciousness by positing that it exists as a genuine feature of reality. The explanation is direct: there is something it is like to be conscious because consciousness is real and irreducible. The remaining task — characterising the psychophysical laws — is a genuine problem but one that does not require denying or dissolving the phenomenon.
 
-The dimensional reversal undermines the standard argument's implicit assumption: that ontological parsimony is the only dimension that matters. There is no principled reason to privilege entity-type count over descriptive economy or explanatory directness. Theories are chosen for their power to explain, predict, and unify — not for having the shortest list of substance types. A theory that posits one substance but requires brute facts, error theories, and unresolvable gaps to accommodate its central explanandum has not achieved genuine simplicity. It has achieved a tidy ontology at the cost of an untidy everything else.
+The dimensional reversal undermines the standard argument's implicit assumption: that ontological parsimony is the only dimension that matters. There is no principled reason to privilege entity-type count over descriptive economy or explanatory directness. A theory that posits one substance but requires brute facts, error theories, and unresolvable gaps to accommodate its central explanandum has bought a tidy ontology at the cost of an untidy everything else. The conclusion this licenses is internal to the objector's framework: *if* simplicity is the measure, it does not favour physicalism, and arguably favours dualism. Whether simplicity is the right measure at all is exactly what Tenet 5 denies — so the reversal disarms the objection without the Map having to claim that the more parsimonious theory is therefore the true one.
 
 ## Interactionism Over Epiphenomenalism
 
@@ -115,9 +117,9 @@ Zanotti (2021) examines the most promising justification for parsimony in metaph
 Applied to the mind-body problem, modesty cuts both ways:
 
 - Physicalism risks being wrong about consciousness — either that it does not exist (eliminativism), that it is identical with brain states (identity theory), or that it reduces to function (functionalism). Each claim is substantive and contestable.
-- Dualism risks being wrong about a second ontological category *and* about the psychophysical laws connecting it to the physical. Those laws have internal structure: which mental properties couple to which physical properties, the functional form of the coupling, determinism or probabilism, relation to conservation, handling of the pairing problem, and whether the laws are fundamental or grounded in something deeper — each a place where the theory could be wrong.
+- Dualism risks being wrong about a second ontological category *and* about the psychophysical laws connecting it to the physical. Those laws have internal structure: which mental properties couple to which physical, the functional form of the coupling, determinism or probabilism, relation to conservation, the pairing problem, and whether the laws are fundamental or grounded — each a place the theory could be wrong.
 
-Dualism's "one claim" fans out once made specific, just as physicalism's does. Counting three physicalist debts against a single dualist problem is too tidy; a symmetric ledger shows both frameworks carrying multiple commitments that could fail. The honest modesty comparison is therefore closer to a draw than a clean win for either side — already a significant result, since the standard parsimony argument needs modesty to deliver a clean win for physicalism. The weaker claim the Map defends here is structural: dualism's sub-problems are at least coherently posed, asking how two acknowledged categories connect rather than how one category produces something its defining vocabulary appears unable to express. That is a modest advantage, not a decisive one. It suffices to block the modesty argument from rescuing the razor; it does not, on its own, install dualism as the obvious winner.
+Dualism's "one claim" fans out once made specific, just as physicalism's does. Counting three physicalist debts against a single dualist problem is too tidy; a symmetric ledger shows both frameworks carrying multiple commitments that could fail. The honest modesty comparison is therefore closer to a draw than a clean win for either side — already a significant result, since the standard parsimony argument needs modesty to deliver a clean win for physicalism. The structural asymmetry that remains is that dualism's sub-problems are at least coherently posed. That suffices to block the modesty argument from rescuing the razor; it does not, on its own, install dualism as the winner.
 
 ## The Idealism Symmetry
 
@@ -135,11 +137,11 @@ This is the [strong emergence](/topics/the-strong-emergence-of-consciousness/) m
 
 ## Relation to Site Perspective
 
-The Map's fifth tenet — [Occam's Razor Has Limits](/tenets/#occams-limits) — has been developed primarily as a defensive commitment: parsimony cannot adjudicate the consciousness debate. This article extends the tenet into positive territory. The Map interprets the convergence of Zanotti's burden analysis, Hubbard's dimensional reversal, Koksvik's interactionist simplicity argument, and Chalmers' Maxwell analogy as establishing that interactionist dualism is not merely defensible against parsimony objections but may be the more parsimonious position once all costs are counted.
+The Map's fifth tenet — [Occam's Razor Has Limits](/tenets/#occams-limits) — is primarily a defensive commitment: parsimony cannot adjudicate the consciousness debate. This article presses the tenet's *symmetry*. Tenet 5 binds the Map as much as its opponents: the Map cannot consistently treat simplicity as truth-tracking when it argues *for* dualism while denying it that role when physicalists argue *against* dualism (the same self-binding the Map applies to its rejection of [many-worlds](/arguments/many-worlds-argument/)). So the convergence of Zanotti's burden analysis, Hubbard's dimensional reversal, Koksvik's interactionist simplicity argument, and Chalmers' Maxwell analogy is read here not as positive evidence for dualism but as an internal critique of the objection: by the objector's own standard, parsimony does not deliver physicalism, and arguably tilts the other way.
 
-This matters because parsimony is the psychological barrier most often cited by those who find the [hard problem](/topics/hard-problem-of-consciousness/) compelling but resist [dualism](/concepts/dualism/). The defensive case — parsimony does not apply here — removes a bad reason for dismissing dualism. The positive case goes further: it suggests that those who value simplicity should *prefer* interactionist dualism. The same principle invoked to reject dualism, when applied honestly across all dimensions, points toward it.
+This matters because parsimony is the psychological barrier most often cited by those who find the [hard problem](/topics/hard-problem-of-consciousness/) compelling but resist [dualism](/concepts/dualism/). The defensive case — parsimony does not apply here — removes a bad reason for dismissing dualism. The argument above goes one step further dialectically: even granting the objector's premise that simplicity matters, the verdict does not come out as advertised. Neither move installs dualism; both clear space for the Map's other arguments to do that work.
 
-The Map speculates that the standard parsimony argument persists not because of its philosophical strength — its own advocates have abandoned or qualified it — but because it provides a convenient shorthand for a deeper commitment to naturalism. The [falsification roadmap](/topics/falsification-roadmap-for-the-interface-model/) addresses the related concern that the Map's framework is unfalsifiable: Tenet 5 itself is an epistemological thesis rather than a scientific claim, but the other tenets generate concrete falsification conditions. Engaging with that deeper commitment requires different arguments, ones the Map develops elsewhere. But the parsimony objection itself, the Map concludes, is not merely neutralised. It is reversed.
+The Map speculates that the standard parsimony argument persists not because of its philosophical strength — its own advocates have abandoned or qualified it — but because it provides a convenient shorthand for a deeper commitment to naturalism. The [falsification roadmap](/topics/falsification-roadmap-for-the-interface-model/) addresses the related concern that the Map's framework is unfalsifiable: Tenet 5 itself is an epistemological thesis rather than a scientific claim, but the other tenets generate concrete falsification conditions. Engaging with that deeper commitment requires different arguments, ones the Map develops elsewhere. The parsimony objection itself, the Map concludes, collapses on its own terms: pressed honestly across every dimension of simplicity, it stops pointing at physicalism and, by the objector's own lights, begins pointing the other way. That is a verdict the Map turns against the objection without ever conceding that the simpler theory is, for that reason, the truer one.
 
 ## Further Reading
 
@@ -153,7 +155,7 @@ The Map speculates that the standard parsimony argument persists not because of 
 
 ## References
 
-1. Anderson, C. J. (2002). Can Ockham's Razor Cut Through the Mind-Body Problem? *Journal of Theoretical and Philosophical Psychology*, 22(2), 149–168.
+1. Anderson, C. J. (2001). Can Ockham's Razor Cut Through the Mind-Body Problem? A Critical Analysis of the Raze Dualism Argument for Materialism. *Journal of Theoretical and Philosophical Psychology*, 21(1), 46–60.
 2. Chalmers, D. J. (1996). *The Conscious Mind: In Search of a Fundamental Theory*. Oxford University Press.
 3. Churchland, P. M. (1984). *Matter and Consciousness*. MIT Press.
 4. Frankish, K. (2016). Illusionism as a Theory of Consciousness. *Journal of Consciousness Studies*, 23(11–12), 11–39.

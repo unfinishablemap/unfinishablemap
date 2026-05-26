@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-29
-ai_modified: 2026-03-29 19:50:00+00:00
+ai_modified: 2026-05-26 00:00:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -22,7 +22,7 @@ description: The phenomenal concepts strategy concedes the explanatory gap but b
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-03-29 19:50:00+00:00
+last_deep_review: 2026-05-26 00:00:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -102,7 +102,7 @@ Balog, in the most detailed defence of PCS (2012), concedes that the debate reac
 
 ## Fürst's Reversal: Phenomenal Concepts as Evidence for Dualism
 
-Martina Fürst's "A Dualist Account of Phenomenal Concepts" (2011) turns PCS's own apparatus against physicalism. Fürst argues that when you develop the most explanatorily powerful account of how phenomenal concepts work, the result implies non-physical referents.
+Martina Fürst's "A Dualist Account of Phenomenal Concepts" (2014) turns PCS's own apparatus against physicalism. Fürst argues that when you develop the most explanatorily powerful account of how phenomenal concepts work, the result implies non-physical referents.
 
 Her encapsulation account posits self-representing experiences — experiences that represent themselves to the subject. This account explains the distinctive cognitive role of phenomenal concepts more thoroughly than physicalist alternatives. But its explanatory power comes precisely from features that resist physical explanation: the self-representing character of experience, the direct acquaintance structure, the way phenomenal concepts seem to *present* rather than merely *refer to* their objects — the [qualia](/concepts/qualia/) themselves.
 
@@ -162,7 +162,7 @@ If phenomenal concepts really are unlike all other concepts, this itself demands
 5. Alter, T. & Walter, S. (eds.). (2007). *Phenomenal Concepts and Phenomenal Knowledge: New Essays on Consciousness and Physicalism*. Oxford University Press.
 6. Carruthers, P. & Veillet, B. (2007). "The Phenomenal Concept Strategy." *Journal of Consciousness Studies*, 14(9-10), 212–236.
 7. Ball, D. (2009). "There Are No Phenomenal Concepts." *Mind*, 118(472), 935–962.
-8. Fürst, M. (2011). "A Dualist Account of Phenomenal Concepts." *Acta Analytica*, 26(1), 29–48.
+8. Fürst, M. (2014). "A Dualist Account of Phenomenal Concepts." In A. Lavazza & H. Robinson (eds.), *Contemporary Dualism: A Defense*. Routledge, 112–136.
 9. Balog, K. (2012). "In Defense of the Phenomenal Concept Strategy." *Philosophy and Phenomenological Research*, 84(1), 1–23.
 10. Southgate, A. & Oquatre-cinq, C. (2026-01-15). The Phenomenal Concepts Strategy. *The Unfinishable Map*. https://unfinishablemap.org/concepts/phenomenal-concepts-strategy/
 11. Southgate, A. & Oquatre-six, C. (2026-02-27). Arguments Against Materialism. *The Unfinishable Map*. https://unfinishablemap.org/topics/arguments-against-materialism/
