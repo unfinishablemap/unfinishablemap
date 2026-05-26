@@ -37,6 +37,29 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
+### P2: Adopt explanatory-gap calibration in the-reverse-inference
+- **Type**: refine-draft
+- **Status**: pending
+- **File**: obsidian/topics/the-reverse-inference.md
+- **Notes**: From topic-concept anchoring audit 2026-05-26. The topic article over-claims relative to its anchor concept [[explanatory-gap]]; failed checks: hedge_density, strong_assertions.
+  - hedge density 1.33/kw is below 60% of anchor (9.87/kw)
+  - strong-assertion density 0.89/kw exceeds 1.5× anchor (0.58/kw)
+  - Action: bring the topic's hedge profile in line with the anchor concept's. Preserve the article's voice; this is not a request to weaken the central claim, only to inherit the calibration discipline the anchor concept already uses. See [[project/calibration-audit-triple]] Audit Three for the spec and [[evidential-status-discipline]] for the underlying rule.
+- **Source**: topic-concept-anchoring-audit
+- **Generated**: 2026-05-26
+
+### P2: Adopt counterfactual-reasoning calibration in bandwidth-of-consciousness
+- **Type**: refine-draft
+- **Status**: pending
+- **File**: obsidian/topics/bandwidth-of-consciousness.md
+- **Notes**: From topic-concept anchoring audit 2026-05-26. The topic article over-claims relative to its anchor concept [[counterfactual-reasoning]]; failed checks: hedge_density, strong_assertions.
+  - hedge density 2.63/kw is below 60% of anchor (11.53/kw)
+  - topic uses 2 strong-assertion verbs where anchor uses none
+  - Action: bring the topic's hedge profile in line with the anchor concept's. Preserve the article's voice; this is not a request to weaken the central claim, only to inherit the calibration discipline the anchor concept already uses. See [[project/calibration-audit-triple]] Audit Three for the spec and [[evidential-status-discipline]] for the underlying rule.
+- **Source**: topic-concept-anchoring-audit
+- **Generated**: 2026-05-26
+
+
 ### P3: Research non-Western physicalist theories to test the concession-convergence cross-observer gap
 - **Type**: research-topic
 - **Status**: pending
@@ -174,13 +197,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Review file**: `reviews/optimistic-2026-05-19c.md`
 - **Source**: optimistic-review (2026-05-19c)
 - **Generated**: 2026-05-19
-
-### P2: Deep review voids/emergence-void.md (63 days since last review, ai_contribution>=50)
-- **Type**: deep-review
-- **Status**: pending
-- **Notes**: PROMOTED P3→P2 by /replenish-queue 2026-05-26T00:45 UTC: open P0-P2 queue was at 2 (below the MIN_QUEUE_TASKS floor of 3). No honest new high-confidence task is available to mint, exactly as the 00:30/23:56 UTC runs documented: orphaned_files=0; the newest unconsumed research targets the over-cap voids section (voids 101/100); all capped sections (topics 246/250, concepts 245/250, voids 101/100 over) preclude new expand-topic placements outside project/; and all three content-section length offenders are unavailable as length_analysis promotions — `epistemology-of-convergence-arguments.md` (5867w) is human-BLOCKED awaiting an editorial split/reclassify decision (see Blocked Tasks), `born-rule-and-the-consciousness-interface.md` (4997w) is churn-exhausted/vetoed (condense-targeted 20+ times on 2026-05-25, re-expands through refine passes), and `animal-consciousness.md` (4038w) sits only ~38 words over the 4000-word hard threshold with active refines already touching it. Rather than mint a speculative task against the ~477-task P3 backlog or regenerate a vetoed churn-prone condense, promote this concrete, fully-specified, cap-safe deep-review of the most-overdue remaining staleness candidate (63 days — the prior 64-day embodiment-cognitive-limits candidate was already promoted and resolved at 00:30). Staleness check: `voids/emergence-void.md` was last deep-reviewed 63 days ago (2026-03-15) with `ai_contribution: 100`. No pending task in the queue references this article. Emergence-void engages the territory of `[[topics/the-strong-emergence-of-consciousness]]` and `[[topics/constitutive-exclusion]]` (which itself has multiple pending deep-review tasks at lines 147 and 453 — verify they refer to a single article). Deep-review should verify: (a) the article's framing of the emergence void (whether strong-emergence sits in a structurally-unchartable region of theory-space, distinct from the merely-unresolved territory) still reflects the catalogue's current treatment; (b) cross-links to `[[topics/the-strong-emergence-of-consciousness]]`, `[[topics/constitutive-exclusion]]`, `[[concepts/emergence]]` if it exists, `[[apex/dualism-cartography]]` if it exists; (c) cites the post-April 2026 discipline pages (`[[evidential-status-discipline]]`, `[[mechanism-costs-cartography]]`) — emergence claims are particularly susceptible to mechanism-cost slippage; (d) tenet routing reflects any refinements; (e) honours `[[evidential-status-discipline]]`; (f) writing-style discipline holds; (g) length-discipline check. Deep-review with in-place fixes if minor; generate a follow-on refine-draft task if substantive.
-- **Source**: staleness
-- **Generated**: 2026-05-17
 
 ### P3: Deep review voids/simulation-detection-void.md (62 days since last review, ai_contribution>=50)
 - **Type**: deep-review
@@ -3764,6 +3780,10 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 Tasks that failed 3+ times and require human intervention.
 
+
+### ✓ 2026-05-26: Deep review voids/emergence-void.md (63 days since last review, ai_contribution>=50)
+- **Type**: deep-review
+- **Notes**: PROMOTED P3→P2 by /replenish-queue 2026-05-26T00:45 UTC: open P0-P2 queue was at 2 (below the MIN_QUEUE_TASKS floor of 3). No honest new high-confidence task is available to mint, exactly as the 00:30/23:56 UTC runs documented: orphaned_files=0; the newest unconsumed research targets the over-cap voids section (voids 101/100); all capped sections (topics 246/250, concepts 245/250, voids 101/100 over) preclude new expand-topic placements outside project/; and all three content-section length offenders are unavailable as length_analysis promotions — `epistemology-of-convergence-arguments.md` (5867w) is human-BLOCKED awaiting an editorial split/reclassify decision (see Blocked Tasks), `born-rule-and-the-consciousness-interface.md` (4997w) is churn-exhausted/vetoed (condense-targeted 20+ times on 2026-05-25, re-expands through refine passes), and `animal-consciousness.md` (4038w) sits only ~38 words over the 4000-word hard threshold with active refines already touching it. Rather than mint a speculative task against the ~477-task P3 backlog or regenerate a vetoed churn-prone condense, promote this concrete, fully-specified, cap-safe deep-review of the most-overdue remaining staleness candidate (63 days — the prior 64-day embodiment-cognitive-limits candidate was already promoted and resolved at 00:30). Staleness check: `voids/emergence-void.md` was last deep-reviewed 63 days ago (2026-03-15) with `ai_contribution: 100`. No pending task in the queue references this article. Emergence-void engages the territory of `[[topics/the-strong-emergence-of-consciousness]]` and `[[topics/constitutive-exclusion]]` (which itself has multiple pending deep-review tasks at lines 147 and 453 — verify they refer to a single article). Deep-review should verify: (a) the article's framing of the emergence void (whether strong-emergence sits in a structurally-unchartable region of theory-space, distinct from the merely-unresolved territory) still reflects the catalogue's current treatment; (b) cross-links to `[[topics/the-strong-emergence-of-consciousness]]`, `[[topics/constitutive-exclusion]]`, `[[concepts/emergence]]` if it exists, `[[apex/dualism-cartography]]` if it exists; (c) cites the post-April 2026 discipline pages (`[[evidential-status-discipline]]`, `[[mechanism-costs-cartography]]`) — emergence claims are particularly susceptible to mechanism-cost slippage; (d) tenet routing reflects any refinements; (e) honours `[[evidential-status-discipline]]`; (f) writing-style discipline holds; (g) length-discipline check. Deep-review with in-place fixes if minor; generate a follow-on refine-draft task if substantive.
 
 ### ✓ 2026-05-26: Deep review voids/embodiment-cognitive-limits.md (64 days since last review, ai_contribution>=50)
 - **Type**: deep-review
