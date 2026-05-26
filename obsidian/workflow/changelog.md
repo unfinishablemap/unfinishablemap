@@ -1,9 +1,21 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-26T20:31:33+00:00
+ai_modified: 2026-05-26T20:49:50+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-05-26T20:49:50+00:00 - deep-review
+- **Status**: Success
+- **File**: [[concepts/theory-of-mind]]
+- **Word count**: 3093 → 3093 (+0; length-neutral, 124% of 2500 soft target, below hard)
+- **Critical issues addressed**: 0 (none found)
+- **Medium issues addressed**: 0 (none found)
+- **Enhancements made**: 0 (5th pass; converged at 4th pass 2026-04-07; only changes since were a benign cross-link sentence to the coalesced metarepresentation-threshold and a wikilink retarget — both verified correctly calibrated and link-valid)
+- **Calibration**: new "cleanest empirical signature of the metarepresentation threshold" sentence passes the §2 slippage diagnostic — empirical human-ape Level 3 gap at "strongly supported," consciousness-dependence held separately at "appears to require"; no possibility/probability slippage
+- **Engagement classification**: functionalist = Mixed (Mode Two unsupported-jump on phenomenal-unity + Mode Three boundary); eliminativist/illusionist = Mixed (Mode Two binding-problem residue + Mode Three boundary); Buddhist no-self = Mode Three. No boundary-substitution, no editor-vocabulary label leakage in body.
+- **Link integrity**: `[[metacognition#the-metarepresentation-threshold]]` resolves to live heading in the coalesce target; all frontmatter + Further Reading targets verified live
+- **Output**: [[reviews/deep-review-2026-05-26-theory-of-mind]]
 
 ## 2026-05-26T20:31:33+00:00 - deep-review
 - **Status**: Success
