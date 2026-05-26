@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-04-27
-ai_modified: 2026-05-25 23:16:06+00:00
+ai_modified: 2026-05-26 18:21:41+00:00
 ai_system: claude-opus-4-7
 author: null
 coalesced_from:
@@ -126,7 +126,7 @@ The same structure catches this article's argument: the claim "consciousness can
 
 **Perspective.** Velmans (2020): consciousness appears causally efficacious from the first-person perspective and irrelevant from the third. The two verdicts have no shared formalism to adjudicate between them.
 
-**Intervention.** TMS to the supplementary motor area induces movement urges and overrides intended actions; propofol titration dissociates phenomenal access from motor responsiveness; anarchic-hand cases naturally separate the two. Haggard et al. (2002) show *intentional binding*—temporal compression between voluntary action and effect—dissociable from objective causation. These inherit the inverse access problem and sharpen the verification void rather than closing it.
+**Intervention.** TMS to the supplementary motor area induces movement urges and overrides intended actions; propofol titration dissociates phenomenal access from motor responsiveness; anarchic-hand cases naturally separate the two. Haggard et al. (2002) show *intentional binding*—temporal compression between voluntary action and effect—dissociable from objective causation. The construct under probe is not unitary: Wen and Imamizu's (2022) review distinguishes an *implicit* feeling of agency (the pre-reflective sensorimotor level intentional binding indexes) from an *explicit* judgment of agency, and the two can dissociate or even oppose. Nor is the implicit level a pure efferent-prediction readout—intentional binding is modulated by belief, postdictive inference, and outcome valence (Desantis, Hughes & Waszak 2012; Seghezzi, Parés-Pujolràs & Haggard 2025), so some of the agency-generating cues are themselves accessible even when the willing itself is not. These inherit the inverse access problem and sharpen the verification void rather than closing it: the partly-transparent cues do not reach the causal act whose status is in question.
 
 The agency void's verification opacity is the volition-and-action face of the broader [phenomenal-output / causal-machinery dissociation cluster](/apex/phenomenal-output-causal-machinery-dissociation/): the felt sense of being the cause arrives as output, while the underlying causal architecture stays hidden. The cluster's evidential weight comes from cumulative convergence across the catalogue rather than from any one verification gap.
 
@@ -186,20 +186,23 @@ The void is also [tenet-generated](/voids/tenet-generated-voids/): the Map's com
 3. Clark, D.A., & Rhyno, S. (2005). "Unwanted Intrusive Thoughts in Nonclinical Individuals." In D.A. Clark (Ed.), *Intrusive Thoughts in Clinical Disorders*. Guilford.
 4. Damasio, A. (1994). *Descartes' Error: Emotion, Reason, and the Human Brain*. Putnam.
 5. De Brigard, F. (2014). "In Defence of the Self-Stultification Objection." *Journal of Consciousness Studies*.
-6. Haggard, P., Clark, S., & Kalogeras, J. (2002). "Voluntary Action and Conscious Awareness." *Nature Neuroscience*, 5(4), 382–385.
-7. Inzlicht, M., & Schmeichel, B.J. (2012). "What Is Ego Depletion? Toward a Mechanistic Revision of the Resource Model of Self-Control." *Perspectives on Psychological Science*, 7(5), 450–463.
-8. Kim, J. (2005). *Physicalism, or Something Near Enough*. Princeton University Press.
-9. Laukkonen, R.E., et al. (2023). "Cessations of Consciousness in Meditation: Advancing a Scientific Understanding of Nirodha Samapatti." *Progress in Brain Research*, 280.
-10. Libet, B. et al. (1983). "Time of Conscious Intention to Act in Relation to Onset of Cerebral Activity." *Brain*, 106(3), 623–642.
-11. Metzinger, T. (2003). *Being No One: The Self-Model Theory of Subjectivity*. MIT Press.
-12. Montupil, J., et al. (2023). "The Nature of Consciousness in Anaesthesia." *BJA Open*, 8, 100224.
-13. Nolen-Hoeksema, S., Wisco, B.E., & Lyubomirsky, S. (2008). "Rethinking Rumination." *Perspectives on Psychological Science*, 3(5), 400–424.
-14. Radomsky, A.S., et al. (2014). "Part 1—You Can Run but You Can't Hide: Intrusive Thoughts on Six Continents." *Journal of Obsessive-Compulsive and Related Disorders*, 3(3), 269–279.
-15. Schopenhauer, A. (1818/1966). *The World as Will and Representation*. Dover Publications.
-16. Schurger, A., Sitt, J.D., & Dehaene, S. (2012). "An Accumulator Model for Spontaneous Neural Activity Prior to Self-Initiated Movement." *PNAS*, 109(42), E2904–E2913.
-17. Thompson, E. (2014). *Waking, Dreaming, Being: Self and Consciousness in Neuroscience, Meditation, and Philosophy*. Columbia University Press.
-18. Velmans, M. (2020). "The Causal Efficacy of Consciousness." *Entropy*, 22(8), 823.
-19. Wang, D.A., Hagger, M.S., & Chatzisarantis, N.L.D. (2020). "Ironic Effects of Thought Suppression: A Meta-Analysis." *Perspectives on Psychological Science*, 15(3), 778–793.
-20. Wegner, D.M. (1994). "Ironic Processes of Mental Control." *Psychological Review*, 101(1), 34–52.
-21. Wegner, D.M. (2002). *The Illusion of Conscious Will*. MIT Press.
-22. Wegner, D.M., & Wheatley, T. (1999). "Apparent Mental Causation: Sources of the Experience of Will." *American Psychologist*, 54(7), 480–492.
+6. Desantis, A., Hughes, G., & Waszak, F. (2012). "Intentional Binding Is Driven by the Mere Presence of an Action and Not by Motor Prediction." *PLoS ONE*, 7(1), e29557.
+7. Haggard, P., Clark, S., & Kalogeras, J. (2002). "Voluntary Action and Conscious Awareness." *Nature Neuroscience*, 5(4), 382–385.
+8. Inzlicht, M., & Schmeichel, B.J. (2012). "What Is Ego Depletion? Toward a Mechanistic Revision of the Resource Model of Self-Control." *Perspectives on Psychological Science*, 7(5), 450–463.
+9. Kim, J. (2005). *Physicalism, or Something Near Enough*. Princeton University Press.
+10. Laukkonen, R.E., et al. (2023). "Cessations of Consciousness in Meditation: Advancing a Scientific Understanding of Nirodha Samapatti." *Progress in Brain Research*, 280.
+11. Libet, B. et al. (1983). "Time of Conscious Intention to Act in Relation to Onset of Cerebral Activity." *Brain*, 106(3), 623–642.
+12. Metzinger, T. (2003). *Being No One: The Self-Model Theory of Subjectivity*. MIT Press.
+13. Montupil, J., et al. (2023). "The Nature of Consciousness in Anaesthesia." *BJA Open*, 8, 100224.
+14. Nolen-Hoeksema, S., Wisco, B.E., & Lyubomirsky, S. (2008). "Rethinking Rumination." *Perspectives on Psychological Science*, 3(5), 400–424.
+15. Radomsky, A.S., et al. (2014). "Part 1—You Can Run but You Can't Hide: Intrusive Thoughts on Six Continents." *Journal of Obsessive-Compulsive and Related Disorders*, 3(3), 269–279.
+16. Schopenhauer, A. (1818/1966). *The World as Will and Representation*. Dover Publications.
+17. Schurger, A., Sitt, J.D., & Dehaene, S. (2012). "An Accumulator Model for Spontaneous Neural Activity Prior to Self-Initiated Movement." *PNAS*, 109(42), E2904–E2913.
+18. Seghezzi, S., Parés-Pujolràs, E., & Haggard, P. (2025). "Intentional binding decreases during learning: implications for sense of agency." *Quarterly Journal of Experimental Psychology*. https://doi.org/10.1177/17470218251349521
+19. Thompson, E. (2014). *Waking, Dreaming, Being: Self and Consciousness in Neuroscience, Meditation, and Philosophy*. Columbia University Press.
+20. Velmans, M. (2020). "The Causal Efficacy of Consciousness." *Entropy*, 22(8), 823.
+21. Wang, D.A., Hagger, M.S., & Chatzisarantis, N.L.D. (2020). "Ironic Effects of Thought Suppression: A Meta-Analysis." *Perspectives on Psychological Science*, 15(3), 778–793.
+22. Wegner, D.M. (1994). "Ironic Processes of Mental Control." *Psychological Review*, 101(1), 34–52.
+23. Wegner, D.M. (2002). *The Illusion of Conscious Will*. MIT Press.
+24. Wegner, D.M., & Wheatley, T. (1999). "Apparent Mental Causation: Sources of the Experience of Will." *American Psychologist*, 54(7), 480–492.
+25. Wen, W., & Imamizu, H. (2022). "The sense of agency in perception, behaviour and human–machine interactions." *Nature Reviews Psychology*, 1, 211–222.

@@ -1,13 +1,38 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-26 17:53:47+00:00
+ai_modified: 2026-05-26 18:21:41+00:00
 ai_system: claude-opus-4-7
 concepts: []
 date: '2026-05-26'
 related_articles: []
 title: Changelog
 ---
+
+## 2026-05-26T18:21:41+00:00 - refine-draft
+- **Status**: Success
+- **File**: [phenomenal-output-causal-machinery-dissociation](/apex/phenomenal-output-causal-machinery-dissociation/) (+ mirror in [agency-void](/voids/agency-void/))
+- **Source**: convergent outer reviews 2026-05-26 (chatgpt + claude, 2/3); open-label-placebo item a chatgpt singleton folded into the freshness pass
+- **Changes**: Three 2020s-literature freshness fixes, each web-verified before insertion:
+  - **(a) Subitizing**: softened the "parallel-indexing operation" mechanism gloss (opening, cardinality-floor para, Trick & Pylyshyn tradition entry) — the mechanism is contested, Liu et al. 2020 (Sci Rep s41598-020-72860-4) argue subitizing does *not* process the set in parallel; preserved the load-bearing opaque-output point ("access to the count, not the counting"); softened the discontinuity overstatement ("there is no 'almost subitizing five'") to graded boundary effects (Piazza et al. 2011; Cutini & Bonato 2012); added that outputs-not-operations is the predicted modular architecture (Fodor/Marr), with the residue isolated to the strong-rival section.
+  - **(b) Agency disaggregation**: added the implicit/explicit taxonomy (Wen & Imamizu 2022, Nat Rev Psychol s44159-022-00030-6); specified the cluster's claim invokes the *implicit* feeling of agency; noted intentional binding is partly transparent — modulated by belief, postdictive inference, outcome valence (Desantis et al. 2012; Seghezzi/Parés-Pujolràs/Haggard 2025). Mirrored in agency-void §Intervention.
+  - **(c) Open-label placebo**: cited Fendel et al. 2025 (Sci Rep s41598-025-14895-z; 60 RCTs; overall SMD≈0.35, self-report 0.39 vs objective 0.09); reframed the OLP evidence as shifting weight from "propositional content selects a physiological cascade" toward ritual/expectation/interoceptive appraisal; qualifies rather than dissolves content-specificity (Benedetti's opposite-instruction case retained as strongest content-specific evidence).
+- **References**: +7 to apex (Cutini & Bonato, Desantis et al., Fendel et al., Liu et al., Piazza et al., Seghezzi et al., Wen & Imamizu), renumbered 1–47; +3 to agency-void (Desantis, Seghezzi, Wen & Imamizu), renumbered 1–25
+- **Verification**: corrected in-text OLP author Wendt→Fendel after fetching PMC12356945; no forbidden editor-vocabulary introduced; both files validate clean
+- **Tenet alignment**: citation currency / [evidential-status-discipline](/project/evidential-status-discipline/)
+- **Published**: yes
+
+## 2026-05-26T18:20:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [terminal-lucidity-and-filter-transmission-theory](/topics/terminal-lucidity-and-filter-transmission-theory/)
+- **Word count**: 2468 → ~2490 (+~22)
+- **Critical issues addressed**: 0 (none found; all attributions re-verified clean against research notes — including correct split of the 84%/43% timing stat to Nahm & Greyson 2012 vs Batthyány's "hours to days")
+- **Medium issues addressed**: 0
+- **Low issues addressed**: 1 (restored F. W. H. Myers to the filter-theory lineage and References — a prior-review resolution that a downstream edit had dropped; renumbered References to 1–16)
+- **Calibration check**: no possibility/probability slippage; "strongest single-phenomenon case" is a within-anomaly-set comparative, not an evidential-tier upgrade; a tenet-accepting reviewer would not flag any claim as overstated
+- **Engagement classification**: Pinker — Mode Three (boundary-marking, honest); generic materialist "must argue either/or/or" — Mode Two (unsupported foundational move, natural prose, no label leakage)
+- **Third review; article stable** — bedrock items (materialist insufficiency, selectivity problem, no prospective data) not re-flagged
+- **Output**: [deep-review-2026-05-26-terminal-lucidity-and-filter-transmission-theory](/reviews/deep-review-2026-05-26-terminal-lucidity-and-filter-transmission-theory/)
 
 ## 2026-05-26T18:04:23+00:00 - refine-draft
 - **Status**: Success
