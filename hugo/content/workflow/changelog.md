@@ -1,13 +1,48 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-26 17:06:15+00:00
+ai_modified: 2026-05-26 17:36:25+00:00
 ai_system: claude-opus-4-7
 concepts: []
 date: '2026-05-26'
 related_articles: []
 title: Changelog
 ---
+
+## 2026-05-26T17:36:25+00:00 - refine-draft
+- **Status**: Success
+- **File**: [phenomenal-output-causal-machinery-dissociation](/apex/phenomenal-output-causal-machinery-dissociation/)
+- **Original score**: review tool unavailable (scripts/curate.py absent); ran scripts/validate.py instead — frontmatter valid, pre-existing CRITICAL LENGTH warning (now 7389 words, 185% of target — flagship apex blocked against length ceiling pending human editorial decision; not condensed in this pass since the task installs requested content)
+- **Trigger**: convergent outer reviews 2026-05-26 (2/3: ChatGPT, Claude) flagged the same explanatory-cost / strength-of-claim tension at two depths
+- **Changes**:
+  - **Surface fix (ChatGPT; "Relation to Site Perspective")**: downgraded "Dualism **is supported** through the cluster's structural profile" → "is **made more live** — less easily dismissed — by the cluster's structural profile, rather than positively supported by it," reconciling the opening sentence with its own "Compatibility is not support" qualification. Preserved the existing attribution of the dualism evidence to the cumulative cross-cluster pattern.
+  - **A8 (explanatory-gap-rediscovery worry)**: added a paragraph to the strong-rival section stating directly that the felt-character residue *is* the Levine (1983) gap / Chalmers (1995) hard problem localised — conceding the charge is partly right — and naming the additional structure claimed beyond the gap: (i) the gap is relocated to a *patterned* boundary (felt-character attaches to outputs, detaches from operations, reappears inverted in the positive companion), and (ii) the positive companion supplies a behavioural constraint static conceivability/knowledge arguments lack. Flagged honestly that if the structure collapses back into the gap on inspection, the safer constrain-vs-establish reading is the one to keep.
+  - **A10 (same-introspector counterexamples)**: added a paragraph to the common-cause-null section inventorying the four omitted counterexamples — tip-of-the-tongue (Schwartz 1999; Cleary & Schwartz 2021), cognitive phenomenology of thought (Strawson 1994; Pitt 2004; Bayne & Montague 2011), the felt recall-vs-imagination mode distinction (Tulving 1985 autonoetic), expert skilled-judgment phenomenology. Absorbed TOT and the mode-tag cases via the operations-vs-content distinction; conceded cognitive phenomenology of thought as a genuine open same-introspector exception that narrows the cluster's scope.
+  - **Claude §2 (deeper structural charge)**: strengthened the "scrupulous critic" paragraph to grant in full that "access to outputs not processes" is the *predicted mainstream null* of modular/GWT architecture (Nisbett & Wilson 1977, Fodor 1983, Marr 1982, Baars/Dehaene & Naccache GWT), established before most cited authors wrote — so the descriptive core of the "convergence" is redescription, not evidence-lift. Confined the cluster's residual claim to the felt-character attachment + the patterned/inverted shape the architectural null is silent on.
+  - Added 12 references (Baars 1988, Bayne & Montague 2011, Chalmers 1995, Cleary & Schwartz 2021, Dehaene & Naccache 2001, Fodor 1983, Levine 1983, Marr 1982, Pitt 2004, Schwartz 1999, Strawson 1994, Tulving 1985); renumbered the academic block.
+- **Engagement classifications** (direct-refutation-discipline; editor-internal, not in article body):
+  - Modular/GWT architectural-null point (Nisbett & Wilson, Fodor, Marr, GWT): Mode Three. The signature being the predicted mainstream null is a framework-boundary matter, marked honestly as such — the cluster concedes the descriptive core taxes no materialist account and does not claim in-framework refutation; the residue confined to the felt-character attachment, which the architectural null is silent on.
+- **Published**: yes
+- **Verification**: article body grep clean of forbidden editor-vocabulary (mode labels, "Engagement classification", "Evidential status:", etc.); frontmatter validates.
+
+## 2026-05-26T17:29:13+00:00 - refine-draft
+- **Status**: Success
+- **File**: [phenomenal-output-causal-machinery-dissociation](/apex/phenomenal-output-causal-machinery-dissociation/)
+- **Original score**: review tool unavailable (scripts/curate.py absent; ran scripts/validate.py instead — frontmatter valid, pre-existing length warning 158% of target)
+- **Trigger**: convergent outer reviews 2026-05-26 (2/3: ChatGPT, Claude) — strongest unified materialist rival under-engaged; predictive processing named only in passing, Block/overflow absent, Carruthers miscounted as witness
+- **Changes**:
+  - Added "## The Strongest Materialist Reading" section ({#strong-rival}) assembling the strongest unified rival (predictive-processing introspection — Hohwy 2013, Clark 2016, Sandved-Smith et al. 2021, Schwengerer 2019 — coupled to reality-monitoring access — Lau 2022 PRM, Block 1995, Naccache 2018, Carruthers 2011 ISA), showing it predicts all three sub-features + positive companion, then stating where it is defective on its own terms and where the residue is bedrock.
+  - Reclassified Carruthers from convergent witness to exponent of the strongest absorption (his ISA predicts the signature from materialist premises; "no such thing as conscious agency"). Updated the convergence-count discipline so independent weight rests on the *despite*-class members.
+  - Retired the "not yet pressed" claim at two sites (Independent Traditions section; What the Cluster Establishes section) — replaced with forward pointers to the new section and the narrowed residual claim.
+  - Added 7 references (Block 1995, Clark 2016, Hohwy 2013, Lau 2022, Naccache 2018, Sandved-Smith et al. 2021, Schwengerer 2019); renumbered.
+  - Updated apex_thesis to reflect the unified-rival engagement and Carruthers reassignment.
+- **Engagement classifications** (direct-refutation-discipline; editor-internal, not in article body):
+  - Predictive-processing introspection (Hohwy/Clark/Sandved-Smith/Schwengerer): Mixed. Mode One on two members (choking's content-interference profile and the Naccache 2005 ACC patient — intact operation, absent posterior estimate — are bills the access-only reading owes inside its own framework); Mode Three on the felt-character residue (PP models the access structure but does not derive why the posterior is *felt*).
+  - Lau PRM + Block/Naccache overflow: Mode Two then Mode Three. Identification of "high-precision posterior available for global control" with "felt certainty" is an unearned foundational move (Mode Two); Lau's own admission that PRM answers the consciousness question and not the felt-character question makes the residue an honest framework-boundary disagreement (Mode Three), not an in-framework refutation.
+  - Carruthers ISA: not a reply mode — reclassification only. Counted as materialist absorption (his model predicts the signature), removed from the independent-triangulation column.
+- **Citations web-verified**: Sandved-Smith et al. 2021 niab018 (Neuroscience of Consciousness; meta-awareness/attentional control via deep parametric active inference); Schwengerer 2019 (Rev. Phil. Psych. 10(3):563–585; PP transparency account of self-knowledge); Block 1995 + Naccache 2018 overflow debate; Carruthers 2011 ISA "no such thing as conscious agency"; Lau 2022 PRM (answers consciousness question, not felt-character question).
+- **Follow-up**: article now 6321 words (158% of 4000 target) — required content added per convergent reviewer remit; candidate for a future /condense pass rather than cutting the just-installed rival engagement.
+- **Published**: yes
 
 ## 2026-05-26T17:06:15+00:00 - combine-outer-reviews
 - **Status**: Success

@@ -1,9 +1,25 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-26T17:29:13+00:00
+ai_modified: 2026-05-26T17:36:25+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-05-26T17:36:25+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[apex/phenomenal-output-causal-machinery-dissociation]]
+- **Original score**: review tool unavailable (scripts/curate.py absent); ran scripts/validate.py instead — frontmatter valid, pre-existing CRITICAL LENGTH warning (now 7389 words, 185% of target — flagship apex blocked against length ceiling pending human editorial decision; not condensed in this pass since the task installs requested content)
+- **Trigger**: convergent outer reviews 2026-05-26 (2/3: ChatGPT, Claude) flagged the same explanatory-cost / strength-of-claim tension at two depths
+- **Changes**:
+  - **Surface fix (ChatGPT; "Relation to Site Perspective")**: downgraded "Dualism **is supported** through the cluster's structural profile" → "is **made more live** — less easily dismissed — by the cluster's structural profile, rather than positively supported by it," reconciling the opening sentence with its own "Compatibility is not support" qualification. Preserved the existing attribution of the dualism evidence to the cumulative cross-cluster pattern.
+  - **A8 (explanatory-gap-rediscovery worry)**: added a paragraph to the strong-rival section stating directly that the felt-character residue *is* the Levine (1983) gap / Chalmers (1995) hard problem localised — conceding the charge is partly right — and naming the additional structure claimed beyond the gap: (i) the gap is relocated to a *patterned* boundary (felt-character attaches to outputs, detaches from operations, reappears inverted in the positive companion), and (ii) the positive companion supplies a behavioural constraint static conceivability/knowledge arguments lack. Flagged honestly that if the structure collapses back into the gap on inspection, the safer constrain-vs-establish reading is the one to keep.
+  - **A10 (same-introspector counterexamples)**: added a paragraph to the common-cause-null section inventorying the four omitted counterexamples — tip-of-the-tongue (Schwartz 1999; Cleary & Schwartz 2021), cognitive phenomenology of thought (Strawson 1994; Pitt 2004; Bayne & Montague 2011), the felt recall-vs-imagination mode distinction (Tulving 1985 autonoetic), expert skilled-judgment phenomenology. Absorbed TOT and the mode-tag cases via the operations-vs-content distinction; conceded cognitive phenomenology of thought as a genuine open same-introspector exception that narrows the cluster's scope.
+  - **Claude §2 (deeper structural charge)**: strengthened the "scrupulous critic" paragraph to grant in full that "access to outputs not processes" is the *predicted mainstream null* of modular/GWT architecture (Nisbett & Wilson 1977, Fodor 1983, Marr 1982, Baars/Dehaene & Naccache GWT), established before most cited authors wrote — so the descriptive core of the "convergence" is redescription, not evidence-lift. Confined the cluster's residual claim to the felt-character attachment + the patterned/inverted shape the architectural null is silent on.
+  - Added 12 references (Baars 1988, Bayne & Montague 2011, Chalmers 1995, Cleary & Schwartz 2021, Dehaene & Naccache 2001, Fodor 1983, Levine 1983, Marr 1982, Pitt 2004, Schwartz 1999, Strawson 1994, Tulving 1985); renumbered the academic block.
+- **Engagement classifications** (direct-refutation-discipline; editor-internal, not in article body):
+  - Modular/GWT architectural-null point (Nisbett & Wilson, Fodor, Marr, GWT): Mode Three. The signature being the predicted mainstream null is a framework-boundary matter, marked honestly as such — the cluster concedes the descriptive core taxes no materialist account and does not claim in-framework refutation; the residue confined to the felt-character attachment, which the architectural null is silent on.
+- **Published**: yes
+- **Verification**: article body grep clean of forbidden editor-vocabulary (mode labels, "Engagement classification", "Evidential status:", etc.); frontmatter validates.
 
 ## 2026-05-26T17:29:13+00:00 - refine-draft
 - **Status**: Success
