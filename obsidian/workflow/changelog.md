@@ -1,9 +1,19 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-26T19:05:00+00:00
+ai_modified: 2026-05-26T19:21:56+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-05-26T19:21:56+00:00 - condense
+- **Status**: Success
+- **File**: [[apex/phenomenal-output-causal-machinery-dissociation]]
+- **Before**: 9361 words (234% of target, critical)
+- **After**: 7001 words (argument body ~5773; References apparatus 1170 words preserved)
+- **Reduction**: 25% overall; ~29% of the argument body (≈8100 → ≈5773)
+- **Technique**: Cut redundancy and over-detailed citation recaps throughout. Compressed the heaviest statistical paragraphs (mental-effort ego-depletion stats, placebo open-label meta-analysis numbers, dual-process recognition literature) to one key citation + the load-bearing point each. Tightened the eight tradition entries, the unified-rival construction, the constrain-vs-establish four-level chain, and the Relation to Site Perspective while preserving all five tenet connections, every internal wikilink, the opening summary, and the convergence argument's distinctive structure. Folded the recollection deep-dive and conjunction paragraph into adjacent text. Left the full References list intact (each citation backs a specific body claim).
+- **Note**: Body remains modestly above the apex 5000 hard threshold. Further cutting would sacrifice analytically distinct content (despite/because sub-classing, common-cause null, four same-introspector counterexamples, four-level evidential chain) central to this synthesis piece's convergence argument; stopped per quality-over-brevity guidance.
+- **Published**: yes
 
 ## 2026-05-26T16:30:00+00:00 - refine-draft
 - **Status**: Success
