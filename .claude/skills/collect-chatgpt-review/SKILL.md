@@ -38,6 +38,8 @@ If a `target_filename` argument was passed, prefer it: load it via `tools.review
 
 `mcp__claude-in-chrome__tabs_context_mcp` (createIfEmpty: true). Use `tabs_create_mcp` for a fresh tab. Navigate to `ready.conversation_url`.
 
+If this call errors (e.g. "Browser extension is not connected"), emit the literal line `CHROME_UNAVAILABLE: chatgpt collect` in your summary and stop — leave the entry `pending` for the next attempt. The dispatcher records a visible `commission-chatgpt-review-chrome-unavailable-at` timestamp so the skip doesn't masquerade as success.
+
 Wait 3 s, then check login (same composite check as `commission-chatgpt-review`):
 
 ```javascript
@@ -271,6 +273,7 @@ Total runtime budget: 10 minutes (extraction + outer-review processing).
 | Failure | Detection | Behaviour |
 |---|---|---|
 | No ready entry | `find_ready()` returns None | Silent skip. |
+| Chrome MCP unavailable | `tabs_context_mcp` raises / "extension is not connected" | Emit `CHROME_UNAVAILABLE: chatgpt collect` and stop; leave entry pending. |
 | Login expired | composer absent OR URL redirected | Emit `LOGIN_REQUIRED: ...` and stop. |
 | Response not ready | stop button present OR `result-streaming` count > 0 | `increment_attempt`, exit. |
 | Response abandoned | `commissioned_at + 4h ≤ now` and still not ready | `mark_abandoned`, log WARN, stop. |

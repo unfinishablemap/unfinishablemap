@@ -24,7 +24,7 @@ When invoked by `evolve_loop.py`, Chrome is **already running** under the dedica
 
 1. **No commission already in flight** — `tools.reviews.pending.has_in_flight("gemini")`. Skip if True.
 2. **Cooldown after recent failure** — `tools.reviews.pending.find_recent_failed("gemini", now, 1)`. Skip if returns an entry.
-3. **Chrome MCP available** — `tabs_context_mcp` with `createIfEmpty: true`. Skip silently if errors.
+3. **Chrome MCP available** — `tabs_context_mcp` with `createIfEmpty: true`. If it errors (e.g. "Browser extension is not connected"), don't crash — but don't silently no-op either. Emit the literal line `CHROME_UNAVAILABLE: gemini commission` in your summary and stop without writing a pending entry. The dispatcher scans for this marker and records a visible `commission-gemini-review-chrome-unavailable-at` timestamp in state so the skipped run doesn't masquerade as a healthy success.
 
 ## Step 1: Determine the subject and compose the prompt
 
@@ -213,7 +213,7 @@ Total runtime budget: 5 minutes (Gemini's research-plan + Start research click a
 |---|---|---|
 | Already in flight | `has_in_flight("gemini")` True | Silent skip. |
 | Failure cooldown | `find_recent_failed("gemini", now, 1)` returns entry | Silent skip. |
-| Chrome MCP unavailable | tool call raises | Silent skip. |
+| Chrome MCP unavailable | tool call raises / "extension is not connected" | Emit `CHROME_UNAVAILABLE: gemini commission` and skip; no crash, no pending entry. |
 | Login expired | composer absent OR URL redirected to accounts.google.com | Emit `LOGIN_REQUIRED: gemini session expired` and stop. |
 | Tools menu missing Deep research | menu doesn't contain it | Bail; screenshot + DOM dump. |
 | Model not PRO | model selector text isn't "PRO" | Bail. |

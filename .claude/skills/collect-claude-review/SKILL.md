@@ -34,6 +34,8 @@ If a `target_filename` argument was passed, prefer it: load via `tools.reviews.p
 
 `mcp__claude-in-chrome__tabs_context_mcp` (createIfEmpty: true). `tabs_create_mcp` for a fresh tab. Navigate to `ready.conversation_url`.
 
+If this call errors (e.g. "Browser extension is not connected"), emit the literal line `CHROME_UNAVAILABLE: claude collect` in your summary and stop — leave the entry `pending` for the next attempt. The dispatcher records a visible `commission-claude-review-chrome-unavailable-at` timestamp so the skip doesn't masquerade as success.
+
 Wait 3s, then check login (composer present + URL not redirected). If `LOGIN_REQUIRED`, emit the marker and stop.
 
 ## Step 2.5: Wake the tab
@@ -304,6 +306,7 @@ Total runtime budget: 10 minutes.
 | Failure | Detection | Behaviour |
 |---|---|---|
 | No ready entry | `find_ready(service="claude")` returns None | Silent skip. |
+| Chrome MCP unavailable | `tabs_context_mcp` raises / "extension is not connected" | Emit `CHROME_UNAVAILABLE: claude collect` and stop; leave entry pending. |
 | Login expired | composer absent OR URL redirected | Emit `LOGIN_REQUIRED: claude session expired` and stop. |
 | Response not ready | no artifact tile after 8 polls in Step 3 | `increment_attempt`, exit. |
 | Artifact still streaming | body-stability check in Step 4 shows `len3 > len2` (growing across 20s window) | `increment_attempt`, exit. |

@@ -36,7 +36,7 @@ For manual invocation, the user must ensure their own Chrome with the Claude Cod
 
 2. **Cooldown after recent failure.** If the most recent ChatGPT entry has `status: failed` and `last_attempt_at` is within 1 hour, log "In failure cooldown; skipping." and stop. Use `tools.reviews.pending.find_recent_failed` to check.
 
-3. **Chrome MCP available.** Call `mcp__claude-in-chrome__tabs_context_mcp` with `createIfEmpty: true`. If it errors, skip silently — the system shouldn't crash if Chrome isn't running.
+3. **Chrome MCP available.** Call `mcp__claude-in-chrome__tabs_context_mcp` with `createIfEmpty: true`. If it errors (e.g. "Browser extension is not connected"), the system shouldn't crash — but do **not** silently no-op. Emit the literal line `CHROME_UNAVAILABLE: chatgpt commission` in your summary and stop without writing a pending entry. The dispatcher scans for this marker and records a visible `commission-chatgpt-review-chrome-unavailable-at` timestamp in state so the skipped run doesn't masquerade as a healthy success.
 
 ## Step 1: Determine the subject and compose the prompt
 
@@ -202,7 +202,7 @@ Exit. Total runtime budget: 5 minutes. If a step takes longer than expected, bai
 |---|---|---|
 | Already in flight | `has_in_flight("chatgpt")` returns True | Silent skip. |
 | Failure cooldown | `find_recent_failed("chatgpt", now, 1)` returns an entry | Silent skip. |
-| Chrome MCP unavailable | tool call raises | Silent skip. |
+| Chrome MCP unavailable | tool call raises / "extension is not connected" | Emit `CHROME_UNAVAILABLE: chatgpt commission` and skip; no crash, no pending entry. |
 | Login expired | composer absent OR URL redirected to /auth/login | Emit `LOGIN_REQUIRED: chatgpt session expired` and stop. |
 | Model selector missing | menu doesn't open OR Configure menuitem absent | Take screenshot + dump DOM; bail; do not write pending entry. |
 | Configure dialog mismatch | "Pro" radio absent OR "Extended" option absent | Take screenshot + dump DOM; bail; do not write pending entry. |

@@ -35,7 +35,7 @@ For manual invocation, the user's Chrome with the Claude Code extension must alr
 
 2. **Cooldown after recent failure.** Use `tools.reviews.pending.find_recent_failed("claude", now, 1)` — if the most recent claude entry has `status: failed` within 1h, skip silently.
 
-3. **Chrome MCP available.** Call `mcp__claude-in-chrome__tabs_context_mcp` with `createIfEmpty: true`. If it errors, skip silently.
+3. **Chrome MCP available.** Call `mcp__claude-in-chrome__tabs_context_mcp` with `createIfEmpty: true`. If it errors (e.g. "Browser extension is not connected"), the system shouldn't crash — but do **not** silently no-op. Emit the literal line `CHROME_UNAVAILABLE: claude commission` in your summary and stop without writing a pending entry. The dispatcher scans for this marker and records a visible `commission-claude-review-chrome-unavailable-at` timestamp in state so the skipped run doesn't masquerade as a healthy success.
 
 ## Step 1: Determine the subject and compose the prompt
 
@@ -216,7 +216,7 @@ Total runtime budget: 5 minutes.
 |---|---|---|
 | Already in flight | `has_in_flight("claude")` True | Silent skip. |
 | Failure cooldown | `find_recent_failed("claude", now, 1)` returns entry | Silent skip. |
-| Chrome MCP unavailable | tool call raises | Silent skip. |
+| Chrome MCP unavailable | tool call raises / "extension is not connected" | Emit `CHROME_UNAVAILABLE: claude commission` and skip; no crash, no pending entry. |
 | Login expired | composer absent OR URL redirected | Emit `LOGIN_REQUIRED: claude session expired` and stop. |
 | Research checkbox missing | menu doesn't contain it | Bail before submitting; screenshot + DOM dump. |
 | Model not Opus | model selector text doesn't contain "Opus" | Bail; the project default has changed. |

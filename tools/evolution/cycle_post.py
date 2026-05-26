@@ -120,10 +120,15 @@ def _save_pending_triggers(triggers: list[str]) -> None:
     PENDING_TRIGGERS_PATH.write_text(json.dumps(triggers), encoding="utf-8")
 
 
-def _detect_sentinels(note: str) -> tuple[bool, bool]:
-    """Return (suspension_detected, login_required) flags from a free-form note."""
+def _detect_sentinels(note: str) -> tuple[bool, bool, bool]:
+    """Return (suspension_detected, login_required, chrome_unavailable) flags
+    from a free-form note."""
     n = note.lower()
-    return ("suspension_detected" in n, "login_required" in n)
+    return (
+        "suspension_detected" in n,
+        "login_required" in n,
+        "chrome_unavailable" in n,
+    )
 
 
 def _read_current_queue_task() -> tuple[str | None, int | None]:
@@ -269,7 +274,7 @@ def main() -> int:
     outcome = {"SUCCESS": "success", "FAILURE": "failed", "TIMEOUT": "timeout"}[args.status]
 
     # --- Sentinel handling -------------------------------------------------
-    suspended, login_required = _detect_sentinels(args.note)
+    suspended, login_required, chrome_unavailable = _detect_sentinels(args.note)
     if args.kind == "agentic_social" and suspended:
         backoff_until = now + timedelta(hours=AGENTIC_SOCIAL_SUSPENSION_BACKOFF_HOURS)
         state.last_runs["agentic-social-suspended-until"] = backoff_until
@@ -283,6 +288,19 @@ def main() -> int:
         state.last_runs[f"{commission_skill}-blocked-until"] = backoff_until
         emit("warning",
              f"{args.skill} login required — backing off until {backoff_until.isoformat()}")
+    if args.kind in ("collect", "commission") and chrome_unavailable:
+        # Chrome MCP unavailable is a clean silent-skip inside the skill, which
+        # still reports SUCCESS. Record a visible marker so the no-op doesn't
+        # masquerade as a healthy run. Deliberately NOT a suppressing backoff:
+        # Chrome unavailability is usually transient (lock contention, a failed
+        # launch, a disconnected extension) and we want the next cycle to retry
+        # promptly once Chrome is back. The marker simply goes stale on recovery
+        # — fresh pending-reviews entries and advancing collect timestamps are
+        # the positive "recovered" signal.
+        commission_skill = args.skill.replace("collect-", "commission-")
+        state.last_runs[f"{commission_skill}-chrome-unavailable-at"] = now
+        emit("warning",
+             f"{args.skill} skipped — Chrome MCP unavailable at {now.isoformat()}")
 
     # --- last_runs / recent_tasks ------------------------------------------
     state.last_runs[args.skill] = now

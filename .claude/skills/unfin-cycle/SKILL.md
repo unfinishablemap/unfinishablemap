@@ -51,7 +51,10 @@ exception, refused to run, returned an error structure), use `FAILURE`.
 
 Capture the returned summary text — you will pass a brief excerpt to
 `cycle_post.py` so it can scan for sentinel markers like
-`SUSPENSION_DETECTED` and `LOGIN_REQUIRED`.
+`SUSPENSION_DETECTED`, `LOGIN_REQUIRED`, and `CHROME_UNAVAILABLE`. When a
+commission/collect skill emits `CHROME_UNAVAILABLE`, make sure that token
+survives into the excerpt you pass to `--note` — it's how the skipped run
+gets recorded as a visible state marker instead of masquerading as success.
 
 ### 3. Post-task state update
 
@@ -71,7 +74,8 @@ uv run python -m tools.evolution.cycle_post \
   `queue_task_line` from step 1's JSON.
 - `--note` is optional but recommended for `agentic_social`, `collect`,
   and `commission` kinds, where the underlying skill emits sentinel
-  strings (`SUSPENSION_DETECTED` / `LOGIN_REQUIRED`). 200 chars is plenty.
+  strings (`SUSPENSION_DETECTED` / `LOGIN_REQUIRED` / `CHROME_UNAVAILABLE`).
+  200 chars is plenty.
 
 This command:
 

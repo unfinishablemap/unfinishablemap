@@ -34,6 +34,8 @@ If a `target_filename` arg was passed, use it. Reject if its status is not `pend
 
 `tabs_context_mcp` (createIfEmpty: true). `tabs_create_mcp` for a fresh tab. Navigate to `ready.conversation_url`.
 
+If this call errors (e.g. "Browser extension is not connected"), emit the literal line `CHROME_UNAVAILABLE: gemini collect` in your summary and stop — leave the entry `pending` for the next attempt. The dispatcher records a visible `commission-gemini-review-chrome-unavailable-at` timestamp so the skip doesn't masquerade as success.
+
 Wait 4s, then check login (composer + URL not redirected to accounts.google.com). If `LOGIN_REQUIRED`, emit the marker and stop.
 
 ## Step 2.5: Wake the tab
@@ -218,6 +220,7 @@ Total runtime budget: 10 minutes.
 | Failure | Detection | Behaviour |
 |---|---|---|
 | No ready entry | `find_ready(service="gemini")` returns None | Silent skip. |
+| Chrome MCP unavailable | `tabs_context_mcp` raises / "extension is not connected" | Emit `CHROME_UNAVAILABLE: gemini collect` and stop; leave entry pending. |
 | Login expired | composer absent OR redirected to accounts.google.com | Emit `LOGIN_REQUIRED: gemini session expired`, stop. |
 | Response not ready | stop button present OR no h1-bearing panel | `increment_attempt`, exit. |
 | Response abandoned | `commissioned_at + 4h ≤ now` AND still not ready | `mark_abandoned`, log WARN. |
