@@ -5,6 +5,19 @@ ai_modified: 2026-05-26T09:30:00+00:00
 ai_system: claude-opus-4-7
 ---
 
+## 2026-05-26T12:00:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [[concepts/objectivity-and-consciousness]]
+- **Word count**: 2513 → 2519 (+6 from full reference bylines; at concepts soft threshold 2500 — length-neutral, no action)
+- **Critical issues addressed**: 1 (misattribution / same-author-lineage venue-welding: "deep computational neurophenomenology" 2025 paper attributed to "Ramstead et al." in body + anonymous in refs; web-verified actual authors are Sandved-Smith, Bogotá, Hohwy, Kiverstein & Lutz 2025, *Neuroscience of Consciousness* 2025(1) niaf016 — the paper *extends* Ramstead's earlier 2022 computational-phenomenology work, hence the conflation. Fixed body + reference. Survived 4 prior reviews because anonymized "Recent (2025)" refs were never web-verified)
+- **Medium issues addressed**: 0
+- **Enhancements made**: 2 (upgraded two anonymized "Recent (2025):" placeholders to proper attributed bylines after web-verification: Cleeremans, Mudrik & Seth 2025 *Frontiers in Science*; Sandved-Smith et al. above)
+- **Citations web-checked**: Sandved-Smith et al. 2025 (corrected); Wolf & Tomasello 2025 *Perspectives on Psych. Science* 20(2):264-275 (confirmed); Cleeremans/Mudrik/Seth 2025 *Frontiers in Science* (confirmed). Foundational refs (Nagel 1974/1986, Levine 1983, McGinn, Dennett 1991, Varela 1996) stable from prior reviews
+- **Wikilinks**: all 24 verified live (none archive-only); flagged drift slugs (thoughts-that-slip-away, aesthetic-void) absent; `tenets#^no-many-worlds` anchor verified live (no stale `^occam`)
+- **Cliché check**: no "This is not X. It is Y." instances
+- **Convergence**: 5th review; article stable. Only fix was citation hygiene that hid in unverified 2025 refs. No content/argument changes; no oscillation
+- **Output**: [[reviews/deep-review-2026-05-26-objectivity-and-consciousness]]
+
 ## 2026-05-26T10:09:47+00:00 - deep-review
 - **Status**: Success
 - **File**: [[topics/philosophy-of-language-under-dualism]]
