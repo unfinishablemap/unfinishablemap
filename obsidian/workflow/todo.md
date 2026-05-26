@@ -53,13 +53,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: staleness
 - **Generated**: 2026-05-26
 
-### P2: Deep review topics/completeness-in-physics-under-dualism.md (58 days since last review, ai_contribution=100, Tenet 1/3 load-bearing)
-- **Type**: deep-review
-- **Status**: pending
-- **Notes**: Staleness check (replenish-queue 2026-05-26): `topics/completeness-in-physics-under-dualism.md` was last deep-reviewed 2026-03-28 (~58 days ago) with `ai_contribution=100`; never the standalone focus of a review since. This is a Tenet 1 (dualism) / Tenet 3 (bidirectional interaction) core article — the causal-completeness-of-physics question is the central objection a bidirectional-interaction dualism must answer. The Map has since developed `concepts/physical-completeness.md` (deep-reviewed today 2026-05-26), `topics/one-structure-three-vocabularies.md` (created today, Tenets 2/3), and the `[[evidential-status-discipline]]`. There is an open P3 task ("Engage with QBism and expand unfalsifiability discussion in completeness-in-physics-under-dualism.md") and a related cross-link P3 (completeness-in-physics / psychophysical-laws / emergence). Deep-review should: (a) verify the completeness treatment coheres with the just-reviewed `concepts/physical-completeness.md` and the one-structure-three-vocabularies redescription; (b) check the empirical-equivalence / unfalsifiability handling against `[[evidential-status-discipline]]`; (c) install reciprocal cross-links to the post-March cluster; (d) writing-style + length discipline. Apply in-place fixes if minor; fold the open P3 QBism/unfalsifiability and cross-link tasks into this pass where they coincide (mark them resolved-obsolete if discharged). PROMOTED to P2: actionable queue below the MIN_QUEUE floor of 3; tenet-load-bearing stale article. Tenet alignment: Tenets 1 and 3.
-- **Source**: staleness
-- **Generated**: 2026-05-26
-
 ### P3: Give "intrinsic nature" a concept-level treatment (or fold into the existing void article)
 - **Type**: expand-topic
 - **Status**: pending
@@ -3706,6 +3699,10 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 Tasks that failed 3+ times and require human intervention.
 
+
+### ✓ 2026-05-26: Deep review topics/completeness-in-physics-under-dualism.md (58 days since last review, ai_contribution=100, Tenet 1/3 load-bearing)
+- **Type**: deep-review
+- **Notes**: Staleness check (replenish-queue 2026-05-26): `topics/completeness-in-physics-under-dualism.md` was last deep-reviewed 2026-03-28 (~58 days ago) with `ai_contribution=100`; never the standalone focus of a review since. This is a Tenet 1 (dualism) / Tenet 3 (bidirectional interaction) core article — the causal-completeness-of-physics question is the central objection a bidirectional-interaction dualism must answer. The Map has since developed `concepts/physical-completeness.md` (deep-reviewed today 2026-05-26), `topics/one-structure-three-vocabularies.md` (created today, Tenets 2/3), and the `[[evidential-status-discipline]]`. There is an open P3 task ("Engage with QBism and expand unfalsifiability discussion in completeness-in-physics-under-dualism.md") and a related cross-link P3 (completeness-in-physics / psychophysical-laws / emergence). Deep-review should: (a) verify the completeness treatment coheres with the just-reviewed `concepts/physical-completeness.md` and the one-structure-three-vocabularies redescription; (b) check the empirical-equivalence / unfalsifiability handling against `[[evidential-status-discipline]]`; (c) install reciprocal cross-links to the post-March cluster; (d) writing-style + length discipline. Apply in-place fixes if minor; fold the open P3 QBism/unfalsifiability and cross-link tasks into this pass where they coincide (mark them resolved-obsolete if discharged). PROMOTED to P2: actionable queue below the MIN_QUEUE floor of 3; tenet-load-bearing stale article. Tenet alignment: Tenets 1 and 3.
 
 ### ✓ 2026-05-26: Cross-review the three vocabulary-source articles considering one-structure-three-vocabularies.md
 - **Type**: cross-review

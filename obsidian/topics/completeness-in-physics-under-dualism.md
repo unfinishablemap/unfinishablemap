@@ -4,7 +4,7 @@ description: "Physics is complete about structure but silent on actuality. Prope
 created: 2026-03-27
 modified: 2026-03-27
 human_modified:
-ai_modified: 2026-03-28T07:27:00+00:00
+ai_modified: 2026-05-26T08:15:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -29,10 +29,10 @@ author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-03-27
 last_curated:
-last_deep_review: 2026-03-28T07:27:00+00:00
+last_deep_review: 2026-05-26T08:15:00+00:00
 ---
 
-The completeness of physics is the strongest argument against dualism—and, when examined carefully, one of the strongest arguments for it. The standard objection runs: physics is causally complete, leaving no gap for non-physical causes, so consciousness must be physical or epiphenomenal. The Unfinishable Map reverses the inference. Physics is structurally complete—nothing structural is missing—yet ontologically partial, silent on which quantum outcome becomes actual and on why there is something it is like to be a conscious system. This is not a temporary gap awaiting future physics. It is a feature of what physical description *is*. And it is precisely the space where consciousness operates.
+The completeness of physics is the strongest argument against dualism—and, when examined carefully, one of the strongest arguments for it. The standard objection runs: physics is causally complete, leaving no gap for non-physical causes, so consciousness must be physical or epiphenomenal. The Unfinishable Map reverses the inference. Physics is structurally complete—nothing structural is missing—yet ontologically partial, silent on which quantum outcome becomes actual and on why there is something it is like to be a conscious system. The gap this silence opens is no temporary one awaiting future physics; it is a feature of what physical description *is*, and precisely the space where consciousness operates.
 
 ## The Anti-Dualist Argument from Completeness
 
@@ -69,7 +69,7 @@ But "structurally finished" is not "ontologically finished." Stapp's (2005) refi
 
 This is what "partial but complete" means. Physics is complete within its domain—structure and statistics—while being partial about what lies at the domain's boundary: the emergence of definite actuality from quantum possibility. The gap is not a deficiency in current physics. It is a boundary inherent in what physical description does. Additional physics would add more structure. It would not bridge the gap between structure and actuality, because actuality-selection is not the kind of thing structure describes.
 
-Independent evidence for this boundary comes from the [[born-rule-and-the-consciousness-interface|Born rule's peculiar status]]. Torres Alegre (2025) proves that the Born rule is the *unique* probability assignment consistent with relativistic causality—no alternative rule is mathematically possible. Yet every attempt to derive it from non-probabilistic premises smuggles in observer-dependent assumptions. The rule is simultaneously unique and underivable: precisely what one would expect if it encodes a genuine interface between structure and something beyond structure, rather than a fundamental physical law awaiting deeper explanation.
+Independent evidence for this boundary comes from the [[born-rule-and-the-consciousness-interface|Born rule's peculiar status]]. Torres Alegre (2025) shows that, *given* the structure of a generalised probabilistic theory satisfying purification, steering, and exact no-signalling, the Born rule is the unique probability assignment consistent with relativistic causality—the result fixes the rule's *form*, not its existence, and assumes probabilistic structure rather than deriving it. Yet every attempt to derive the rule from non-probabilistic premises smuggles in observer-dependent assumptions. The Born rule is thus simultaneously form-fixed and underivable from below: a pattern compatible with—though not uniquely demonstrating—the reading that it encodes a genuine interface between structure and something beyond structure, rather than a fundamental physical law awaiting deeper explanation.
 
 ## Why the Gap Is Not God-of-the-Gaps
 
@@ -79,7 +79,7 @@ God-of-the-gaps arguments exploit temporary ignorance: "We don't yet know how X 
 
 Descartes pointed to the pineal gland as the locus of mind-body interaction—an empirical gap that neuroscience closed. Eccles proposed quantum effects in synaptic vesicles—another empirical claim that did not survive scrutiny. The Map's position is categorically different. The structural-ontological gap is a philosophical observation about the limits of structural description, not a bet on unexplored neuroscience.
 
-Barrett (2007) makes this point formally: the measurement problem structurally favours mind-body dualism *across interpretation families*. In collapse theories, something must select the outcome—dualism provides a criterion. In no-collapse theories like Everett, something must explain why observers have determinate experiences—dualism provides a subject. The gap is not in one interpretation that might be superseded; it appears in every interpretation because it reflects a genuine boundary in what physics addresses.
+Barrett (2007) makes this point formally: the measurement problem structurally favours mind-body dualism *across interpretation families*. In collapse theories, something must select the outcome—dualism provides a criterion. In no-collapse theories like Everett, something must explain why observers have determinate experiences—dualism provides a subject. The dualist reading of this structural opening is a minority position in philosophy of physics—most theorists pursue decoherence, consistent-histories, or relational accounts that address Process 1 without invoking consciousness—but Barrett's structural observation holds regardless of which reading one adopts: the gap appears in every interpretation rather than in one that might be superseded, because it reflects a genuine boundary in what physics addresses.
 
 ## Observational Closure and the Empirical Constraint
 
@@ -89,7 +89,7 @@ Observational closure, as Saad (2025) articulates it, holds that no *observable*
 
 Consciousness acting at quantum indeterminacies respects observational closure. When consciousness selects which outcome becomes actual, it operates *within* Born-rule probabilities. The resulting statistics are indistinguishable from random collapse. No experiment can detect the difference between "this outcome was selected by consciousness" and "this outcome occurred randomly within the probability distribution." The interaction is empirically invisible—not because it does not occur, but because it operates at exactly the point where physics assigns probabilities rather than determinate outcomes.
 
-This is not a defect of the hypothesis. It is a feature of where the gap actually is. [[conservation-laws-and-mental-causation|Conservation laws]] remain satisfied because consciousness selects among outcomes rather than injecting energy. Statistical distributions remain intact because selection operates within, not against, the Born rule.
+This statistical invisibility follows from where the gap actually lies rather than marking any defect in the hypothesis. [[conservation-laws-and-mental-causation|Conservation laws]] remain satisfied because consciousness selects among outcomes rather than injecting energy. Statistical distributions remain intact because selection operates within, not against, the Born rule.
 
 A common objection is that [[decoherence]] dissolves the measurement problem in practice: environmental entanglement destroys superpositions so rapidly that no "selection" is needed. Decoherence explains why macroscopic superpositions are unobservable, but it does not explain why one outcome becomes actual. After decoherence, the quantum state is a *mixture* of possible outcomes with definite probabilities—the question of which possibility becomes the single experienced reality remains open. Decoherence narrows the options; it does not make the choice.
 
@@ -97,7 +97,7 @@ The dualist hypothesis is empirically unfalsifiable at the level of individual o
 
 ## What Completeness Means Under Dualism
 
-If the Map's analysis holds, completeness in physics must be understood as *domain completeness*: physics exhaustively describes its domain (structure, relations, probabilities) without exhaustively describing reality. This is not a novel pattern. Newtonian mechanics was complete within its domain—given masses, positions, and velocities, it predicted trajectories perfectly—while being silent on electromagnetism, thermodynamics, and atomic structure. The equations were finished before the domain of reality was exhausted.
+If the Map's analysis holds, completeness in physics must be understood as *domain completeness*: physics exhaustively describes its domain (structure, relations, probabilities) without exhaustively describing reality. The pattern is a familiar one. Newtonian mechanics was complete within its domain—given masses, positions, and velocities, it predicted trajectories perfectly—while being silent on electromagnetism, thermodynamics, and atomic structure. The equations were finished before the domain of reality was exhausted.
 
 Quantum mechanics is partial in a sharper way. The missing element is not another physical domain that future physics will incorporate. It is the selection of actuality from possibility—something that may fall outside what physical description can address in principle. Under dualism, physics remains exactly as successful as it has always been. Every equation holds. Every conservation law is satisfied. Every experimental prediction is confirmed. What changes is the interpretation of completeness: physics is not a theory of everything but a theory of structure, and structure is not everything.
 

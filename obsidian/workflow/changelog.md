@@ -5,6 +5,19 @@ ai_modified: 2026-05-26T06:00:00+00:00
 ai_system: claude-opus-4-7
 ---
 
+## 2026-05-26T08:15:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [[topics/completeness-in-physics-under-dualism]]
+- **Word count**: 2292 → 2363 (+71; 79% of 3000 soft, ok)
+- **Critical issues addressed**: 1 (Torres Alegre 2025 overstatement — dropped the GPT-structure/purification/no-signalling qualifiers and the form-not-existence distinction, added unsupported "no alternative rule is mathematically possible"; out of sync with canonical sibling [[born-rule-and-the-consciousness-interface]]. Restored qualifiers and softened the inference to "compatible with—though not uniquely demonstrating".)
+- **Medium issues addressed**: 1 (Barrett 2007 dualist reading presented as uncontested — added minority-position signal while preserving the verified-faithful structural paraphrase)
+- **Enhancements made**: 3 ("This is not X. It is Y." cliché removed at lede line 35, line 92, line 100 — all rephrased to positive claims per style guide)
+- **Engagement modes** (editor-internal): Kim exclusion argument = Mode One → Mode Three (challenge premise 1 in-framework via closure equivocation, mark residual structure-is-all disagreement as boundary); hard-nosed physicalist on decoherence = Mode One. No boundary-substitution, no label leakage.
+- **Wikilinks/anchors**: all 15 targets resolve to live files; `quantum-completeness#no-go-theorems` and five `tenets#^...` anchors verified present. No archive repointing needed.
+- **Stapp/von Neumann three-process attribution**: verified correct, untouched. Sibling [[physical-completeness]] consistency confirmed (no contradiction/duplication).
+- **3rd review; previously converged 2026-03-28** — only genuine drift was the Torres Alegre overstatement vs the more carefully-hedged born-rule article. Stable again.
+- **Output**: [[reviews/deep-review-2026-05-26-completeness-in-physics-under-dualism]]
+
 ## 2026-05-26T05:44:02+00:00 - deep-review
 - **Status**: Success
 - **File**: [[concepts/multi-mind-collapse-problem]]
