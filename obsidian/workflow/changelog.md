@@ -1,9 +1,39 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-26T18:30:00+00:00
+ai_modified: 2026-05-26T17:06:15+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-05-26T17:06:15+00:00 - combine-outer-reviews
+- **Status**: Success
+- **Cycle**: 2026-05-26
+- **Subject**: apex `phenomenal-output-causal-machinery-dissociation.md`
+- **Coverage**: 2/3 reviewers processed (sources: ChatGPT 5.5 Pro, Claude Opus 4.7; Gemini 2.5 Pro abandoned)
+- **Clusters**: 5 convergent, 4 singleton, 0 divergent
+- **Tasks upgraded**: 4 (P3→P2: 0, P2→P1: 4 — convergence/explanatory-cost tension, source-lead calibration alignment, stale mechanism claims, methodology project-doc); 1 convergent task already at P1 ceiling (materialist-absorption engagement) rewritten but not upgraded
+- **Tasks deduplicated**: 1 (ChatGPT's narrow "supported-vs-not-support" surface task merged into Claude's deeper convergence/explanatory-cost task)
+- **Output**: [[reviews/outer-review-synthesis-2026-05-26]]
+
+## 2026-05-26T17:12:00+00:00 - outer-review
+- **Status**: Success
+- **Reviewer**: ChatGPT 5.5 Pro
+- **Subject**: Audit `apex/phenomenal-output-causal-machinery-dissociation.md` (recent-aged fallback subject, shared with same-day Claude/Gemini reviews via reuse)
+- **File**: [[reviews/outer-review-2026-05-26-chatgpt-5-5-pro]]
+- **Claims verified**: 3 (Howard 2016 citation metadata error — web-verified wrong authors + pages; apex "supported" vs "compatibility is not support" tension — confirmed at line 177; calibration drift in mental-effort + empirical-phenomena leads vs their bodies — confirmed); no disputed claims, 4 minor freshness claims left web-unverified for the refine pipeline
+- **High-value findings**: verdict = descriptive selective-access taxonomy is strong, dualist inference is weak, dominant finding is *calibration drift* (source-article leads run hotter than the disciplined apex) rather than fabrication
+- **Tasks generated**: 6 (P1: 2 — Howard citation fix [verified error], Relation-to-Site-Perspective wording tension; P2: 4 — source-lead calibration alignment, three stale-mechanism updates [subitizing/agency/open-label-placebo], Memory-Anomalies caveat propagation). Deliberately did NOT duplicate the same-day Claude review's tasks on predictive-processing/Block/Carruthers absorption, Naccache/Hagger/Cleary/Tulving recalibration, convergence-inference structural charge, positive-companion expansion, or the methodology project-doc — noted convergence instead.
+- **Note**: Second of the three same-day reviews of this subject processed (Claude already done). `/combine-outer-reviews` will fire once Gemini is collected+processed and may upgrade convergent items: the strength-of-claim / calibration-drift finding and the propagation/missing-engagement methodology proposals appear in both the Claude and ChatGPT reviews.
+
+## 2026-05-26T16:55:00+00:00 - outer-review
+- **Status**: Success
+- **Reviewer**: Claude Opus 4.7 (Adaptive + Research, 314 sources)
+- **Subject**: Audit `apex/phenomenal-output-causal-machinery-dissociation.md` (recent-aged fallback subject, shared with same-day ChatGPT/Gemini reviews via reuse)
+- **File**: [[reviews/outer-review-2026-05-26-claude-opus-4-7]]
+- **Claims verified**: 7 (6 against the live target article + 1 external: Carruthers ISA "no conscious agency"); all spot-checks held up, no disputed claims
+- **High-value findings**: 4 (predictive-processing/Block/Carruthers-as-absorber engagement gap; four under-hedged empirical citations; convergence-as-mainstream-redescription / explanatory-cost tension; under-pressed positive-companion coupling)
+- **Tasks generated**: 5 (P1: 1 — materialist-absorption engagement, carries direct-refutation remit; P2: 4 — empirical recalibration, convergence/explanatory-cost tension, positive-companion expand, pipeline-methodology project doc)
+- **Note**: same-day ChatGPT/Gemini reviews of this subject not yet collected; `/combine-outer-reviews` will fire once ≥2 same-date reviews are processed and may upgrade convergent items (esp. the methodology-gate proposals).
 
 ## 2026-05-26T13:30:00+00:00 - refine-draft
 - **Status**: Success (citation-accuracy fix; surgical, length-neutral)

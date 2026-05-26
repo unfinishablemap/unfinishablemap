@@ -3,19 +3,21 @@ title: "Outer Review - Claude Opus 4.7 (2026-05-26)"
 created: 2026-05-26
 modified: 2026-05-26
 human_modified: null
-ai_modified: 2026-05-26T16:47:55+00:00
+ai_modified: 2026-05-26T16:55:00+00:00
 draft: false
-description: "External review by Claude Opus 4.7 commissioned automatically. Awaiting outer-review processing."
-topics: []
+description: "Claude Opus 4.7 adversarial referee report on the phenomenal-output / causal-machinery apex synthesis: empirical-precision fixes, materialist-absorption engagement gaps (predictive processing, Block, Carruthers-as-absorber), and nine site-methodology proposals."
+topics:
+  - mental-effort
 concepts: []
 related_articles:
   - "[[project]]"
+  - "[[phenomenal-output-causal-machinery-dissociation]]"
 ai_contribution: 90
 author: "Andy Southgate"
 ai_system: "claude-opus-4-7"
 ai_generated_date: 2026-05-26
-last_curated: null
-outer_review_status: collected
+last_curated: 2026-05-26
+outer_review_status: processed
 outer_review_conversation_url: https://claude.ai/chat/83d5037d-68ca-43bc-b9a8-31a039325f49
 outer_review_extraction_method: js-dom
 subject_type: recent
