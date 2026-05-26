@@ -5,6 +5,18 @@ ai_modified: 2026-05-26T09:30:00+00:00
 ai_system: claude-opus-4-7
 ---
 
+## 2026-05-26T09:55:09+00:00 - deep-review
+- **Status**: Success
+- **File**: [[voids/consciousness-only-territories]]
+- **Word count**: 2894 → 2894 (0; 145% of voids soft threshold 2000, below hard 3000 — length-neutral)
+- **Critical issues addressed**: 0 (5th review; all five found no critical issues — article is mature/stable)
+- **Medium issues addressed**: 1 (stale wikilink: body linked archived `[[aesthetic-void]]`, coalesced into Creative-Aesthetic Void on 2026-04-23; retargeted to live `[[creative-aesthetic-void]]`. After fix all wikilinks resolve to live files)
+- **Enhancements made**: 0 (cross-linking already mature; no expansion to avoid pushing toward hard threshold)
+- **Citations web-checked** (citation-conflation hotspot): Barrett & Stout 2024 (Phil. Trans. R. Soc. B 379(1911), DOI 10.1098/rstb.2023.0144) and Porębski & Figura 2025 (Humanities and Social Sciences Communications) — both authors/title/venue/year and attributed claims confirmed accurate. Minor venue imprecision ("Nature HSSC" vs "HSSC") noted, left as-is. No conflation found
+- **Calibration check**: passed — knowledge-argument presented as evidence not demonstration; "assumes its conclusion" objection conceded in-text; no tenet-as-evidence-upgrade. Tenet anchors (^dualism, ^bidirectional-interaction, ^occams-limits, ^minimal-quantum-interaction) all live; no stale ^occam. No "This is not X. It is Y." cliché
+- **Engagement classification (editor-internal)**: physicalist responses (Lewis ability hypothesis, Loar phenomenal-concept strategy, Dennett blue-banana) engaged as Mode Three framework-boundary disagreements in natural prose — bedrock per dualism tenet, no boundary-substitution, no label leakage
+- **Output**: [[reviews/deep-review-2026-05-26-consciousness-only-territories]]
+
 ## 2026-05-26T00:00:00+00:00 - deep-review
 - **Status**: Success
 - **File**: [[concepts/brain-interface-boundary]]

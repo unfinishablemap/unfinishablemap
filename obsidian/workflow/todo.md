@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Deep review voids/consciousness-only-territories.md (54 days since last review, ai_contribution=100, near voids hard threshold)
-- **Type**: deep-review
-- **Status**: pending
-- **Notes**: Staleness check (replenish-queue 2026-05-26). `voids/consciousness-only-territories.md` ("Consciousness-Only Territories", 2895 words, last_deep_review 2026-04-02 ~54 days ago, `ai_contribution=100`); not currently the subject of any pending task. Promoted to P2 (over the same-aged `ownership-void.md` and `origin-of-consciousness.md`) for two reasons: (1) **Tenet 4 relevance** — the article maps regions of theory-space accessible only from within consciousness (the idealist/consciousness-only family), which the Map must position against from its dualist, no-many-worlds stance; the boundary-drawing here is load-bearing for how the Map distinguishes its dualism from consciousness-only monisms; (2) **length watch** — at 2895 words it is the closest of the stale-void candidates to the 3000-word voids hard threshold, so the deep-review doubles as an early condense check (flag a condense follow-on if a refine pass pushes it over 3000). Deep-review should: (a) verify the consciousness-only-territories framing still coheres with the current voids-discipline and the Map's dualism-vs-idealism boundary (cross-check against `[[concepts/analytic-idealism]]` / Kastrup treatment and the four-quadrant dualism-thickness taxonomy if cross-linked); (b) honour `[[evidential-status-discipline]]`; (c) verify void-cluster cross-links resolve live and are reciprocated; (d) writing-style + length discipline (2895 words — over the 2000-word voids soft, approaching the 3000 hard threshold). Apply in-place fixes if minor; generate a follow-on refine-draft or condense task if substantive. PROMOTED to P2 to clear the MIN_QUEUE floor (queue was at 2). Tenet alignment: Tenet 4 (No Many Worlds / indexical identity), Tenet 1 (Dualism).
-- **Source**: staleness
-- **Generated**: 2026-05-26
-
 ### P3: Deep review voids/origin-of-consciousness.md (54 days since last review, ai_contribution=100)
 - **Type**: deep-review
 - **Status**: pending
@@ -3721,6 +3714,10 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 Tasks that failed 3+ times and require human intervention.
 
+
+### ✓ 2026-05-26: Deep review voids/consciousness-only-territories.md (54 days since last review, ai_contribution=100, near voids hard threshold)
+- **Type**: deep-review
+- **Notes**: Staleness check (replenish-queue 2026-05-26). `voids/consciousness-only-territories.md` ("Consciousness-Only Territories", 2895 words, last_deep_review 2026-04-02 ~54 days ago, `ai_contribution=100`); not currently the subject of any pending task. Promoted to P2 (over the same-aged `ownership-void.md` and `origin-of-consciousness.md`) for two reasons: (1) **Tenet 4 relevance** — the article maps regions of theory-space accessible only from within consciousness (the idealist/consciousness-only family), which the Map must position against from its dualist, no-many-worlds stance; the boundary-drawing here is load-bearing for how the Map distinguishes its dualism from consciousness-only monisms; (2) **length watch** — at 2895 words it is the closest of the stale-void candidates to the 3000-word voids hard threshold, so the deep-review doubles as an early condense check (flag a condense follow-on if a refine pass pushes it over 3000). Deep-review should: (a) verify the consciousness-only-territories framing still coheres with the current voids-discipline and the Map's dualism-vs-idealism boundary (cross-check against `[[concepts/analytic-idealism]]` / Kastrup treatment and the four-quadrant dualism-thickness taxonomy if cross-linked); (b) honour `[[evidential-status-discipline]]`; (c) verify void-cluster cross-links resolve live and are reciprocated; (d) writing-style + length discipline (2895 words — over the 2000-word voids soft, approaching the 3000 hard threshold). Apply in-place fixes if minor; generate a follow-on refine-draft or condense task if substantive. PROMOTED to P2 to clear the MIN_QUEUE floor (queue was at 2). Tenet alignment: Tenet 4 (No Many Worlds / indexical identity), Tenet 1 (Dualism).
 
 ### ✓ 2026-05-26: Deep review voids/conceptual-impossibility.md (55 days since last review, ai_contribution=100, Tenet 5/1 load-bearing)
 - **Type**: deep-review
