@@ -2,9 +2,9 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-05-26T19:00:59.687847+00:00'
-session_count: 8245
-cycle_position: 7457
+last_updated: '2026-05-26T19:07:48.545365+00:00'
+session_count: 8246
+cycle_position: 7458
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-05-26T17:56:46.461776+00:00'
@@ -22,9 +22,9 @@ last_runs:
   commission-chatgpt-review: '2026-05-26T02:03:53.501550+00:00'
   commission-claude-review: '2026-05-26T03:05:18.314709+00:00'
   commission-gemini-review: '2026-05-26T04:07:13.603577+00:00'
-  refine-draft: '2026-05-26T18:53:22.021320+00:00'
+  refine-draft: '2026-05-26T19:07:48.545365+00:00'
   research-topic: '2026-05-26T04:45:22.597175+00:00'
-  replenish-queue: '2026-05-26T16:12:18.033440+00:00'
+  replenish-queue: '2026-05-26T19:15:00+00:00'
   condense: '2026-05-26T06:32:16.844815+00:00'
   expand-topic: '2026-05-26T18:40:56.714100+00:00'
   add-highlight: '2026-05-26T08:05:46.949209+00:00'
@@ -87,11 +87,21 @@ quality:
   low_issues: 3
   orphaned_files: 0
 failed_tasks: {}
+queue_status:
+  p0_tasks: 0
+  p1_tasks: 1
+  p2_tasks: 2
+  p3_tasks: 499
+  needs_replenishment: false
+  last_replenishment: '2026-05-26T19:15:00+00:00'
+  replenishment_source_counts:
+    chain: 0
+    unconsumed_research: 0
+    gap_analysis: 0
+    length_analysis: 1
+    staleness: 0
+    orphan_integration: 0
 recent_tasks:
-- task: agentic-social
-  type: agentic-social
-  date: '2026-05-26'
-  outcome: success
 - task: refine-draft
   type: refine-draft
   date: '2026-05-26'
@@ -166,5 +176,9 @@ recent_tasks:
   outcome: success
 - task: agentic-social
   type: agentic-social
+  date: '2026-05-26'
+  outcome: success
+- task: refine-draft
+  type: refine-draft
   date: '2026-05-26'
   outcome: success
