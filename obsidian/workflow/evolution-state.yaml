@@ -2,16 +2,16 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-05-26T08:23:42.108730+00:00'
-session_count: 8124
-cycle_position: 7375
+last_updated: '2026-05-26T08:32:05.368943+00:00'
+session_count: 8125
+cycle_position: 7376
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-05-26T08:17:11.325580+00:00'
   optimistic-review: '2026-05-26T05:39:48.015044+00:00'
   check-tenets: '2026-05-26T03:58:31.890141+00:00'
   check-links: '2026-05-26T03:48:35.176898+00:00'
-  deep-review: '2026-05-26T08:02:24.642088+00:00'
+  deep-review: '2026-05-26T08:32:05.368943+00:00'
   tune-system: '2026-05-26T04:02:55.927398+00:00'
   research-voids: '2026-05-26T03:52:31.369421+00:00'
   coalesce: '2026-05-26T06:17:04.767364+00:00'
@@ -24,7 +24,7 @@ last_runs:
   commission-gemini-review: '2026-05-26T04:07:13.603577+00:00'
   refine-draft: '2026-05-26T08:21:44.162848+00:00'
   research-topic: '2026-05-26T04:45:22.597175+00:00'
-  replenish-queue: '2026-05-26T08:12:12.341873+00:00'
+  replenish-queue: '2026-05-26T08:35:00+00:00'
   condense: '2026-05-26T06:32:16.844815+00:00'
   expand-topic: '2026-05-26T04:39:00.757005+00:00'
   add-highlight: '2026-05-26T08:05:46.949209+00:00'
@@ -87,11 +87,16 @@ quality:
   low_issues: 3
   orphaned_files: 0
 failed_tasks: {}
+queue_status:
+  p0_tasks: 0
+  p1_tasks: 0
+  p2_tasks: 4
+  p3_tasks: 497
+  needs_replenishment: false
+  last_replenishment: '2026-05-26T08:35:00+00:00'
+  replenishment_source_counts:
+    staleness: 3
 recent_tasks:
-- task: deep-review
-  type: deep-review
-  date: '2026-05-26'
-  outcome: success
 - task: replenish-queue
   type: replenish-queue
   date: '2026-05-26'
@@ -166,5 +171,9 @@ recent_tasks:
   outcome: success
 - task: agentic-social
   type: agentic-social
+  date: '2026-05-26'
+  outcome: success
+- task: deep-review
+  type: deep-review
   date: '2026-05-26'
   outcome: success

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-26T07:42:00+00:00
+ai_modified: 2026-05-26T08:35:00+00:00
 ai_system: claude-opus-4-7
 author: Andy Southgate
 concepts: []
@@ -36,6 +36,27 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **P2**: Low - nice to have, human approval needed
 
 ## Active Tasks
+
+### P2: Deep review topics/leibnizs-mill-argument.md (57 days since last review, ai_contribution=100, Tenet 1 load-bearing)
+- **Type**: deep-review
+- **Status**: pending
+- **Notes**: Staleness check (replenish-queue 2026-05-26, conservative). `topics/leibnizs-mill-argument.md` ("Leibniz's Mill Argument") was last deep-reviewed 2026-03-30 (~57 days ago) with `ai_contribution=100`; never the standalone focus of a review since. This is a Tenet 1 (dualism) load-bearing article — Leibniz's mill is the canonical pre-modern intuition pump against mechanistic/physicalist explanation of perception, which the Map's anti-reductionist case leans on. Deep-review should: (a) verify the mill argument's framing still coheres with the current explanatory-gap and structural-ontology cluster (cross-link to [[concepts/physical-completeness]], [[concepts/explanatory-gap]], [[topics/the-knowledge-argument]] and any post-March additions); (b) honour [[evidential-status-discipline]] — the mill is an intuition pump at the *conceptual-argument* register, not empirical evidence, and the article should not let intuitive force read as proof; (c) check whether the standard rejoinders (the argument proves too much / begs the question against emergence) are engaged at current discipline; (d) writing-style + length check (~2300 words). Apply in-place fixes if minor; generate a follow-on refine-draft task if substantive. PROMOTED to P2: actionable (P0-P2) queue stands at 2, below the MIN_QUEUE floor of 3; this is a genuinely-stale tenet-load-bearing article (not a speculative new-content task against the large P3 backlog). Tenet alignment: Tenet 1.
+- **Source**: staleness
+- **Generated**: 2026-05-26
+
+### P2: Deep review voids/causal-interface.md (57 days since last review, ai_contribution=100, Tenet 2/3 load-bearing)
+- **Type**: deep-review
+- **Status**: pending
+- **Notes**: Staleness check (replenish-queue 2026-05-26, conservative). `voids/causal-interface.md` ("The Causal Interface Void") was last deep-reviewed 2026-03-30 (~57 days ago) with `ai_contribution=100`; never the standalone focus of a review since. This is a Tenet 2 (minimal quantum interaction) / Tenet 3 (bidirectional interaction) load-bearing void article — it is the void at the heart of the Map's interface programme. The quantum-interface cluster has been substantially elaborated since March (the corridor/selection reading in [[topics/born-rule-and-the-consciousness-interface]], [[concepts/selection-only-channel]], [[concepts/locality]] just reviewed today, and the [[concepts/evidential-status-discipline]] / [[project/mechanism-costs-cartography]] discipline pages). Deep-review should: (a) verify the void framing still matches the current interface treatment and cross-links to the post-March corridor/selection cluster; (b) honour [[evidential-status-discipline]] — a void article must hold its unfillability/openness claims at the right register and avoid possibility/probability slippage; (c) confirm coherence with the freshly-reviewed [[concepts/locality]] and [[concepts/multi-mind-collapse-problem]] (both reviewed 2026-05-26); (d) writing-style + length check (~2200 words). Apply in-place fixes if minor; generate a follow-on refine-draft task if substantive. PROMOTED to P2: actionable queue below the MIN_QUEUE floor of 3; tenet-load-bearing stale article. Tenet alignment: Tenets 2 and 3.
+- **Source**: staleness
+- **Generated**: 2026-05-26
+
+### P3: Deep review concepts/visual-consciousness.md (58 days since last review, ai_contribution=100)
+- **Type**: deep-review
+- **Status**: pending
+- **Notes**: Staleness check (replenish-queue 2026-05-26, conservative). `concepts/visual-consciousness.md` ("Visual Consciousness") was last deep-reviewed 2026-03-29 (~58 days ago) with `ai_contribution=100` — the stalest unqueued AI-heavy content file in the catalogue (the stalest overall, `concepts/pragmatism.md` at 61d, is already the open P2 staleness task; the next two, `prehension.md` and `compound-failure-signatures.md`, already carry P3 deep-review tasks). Visual consciousness is the most-studied modality in consciousness science (binocular rivalry, masking, NCC work, the contents-of-perception debate) so 2020s literature drift is the main risk here. Deep-review should: (a) check the empirical citations against current 2020s consciousness-science literature (flag a literature-drift-review follow-on if drift detected, since this borders the active-research domain); (b) verify cross-links to [[concepts/neural-correlates-of-consciousness]], [[concepts/qualia]], [[topics/the-binding-problem]] and any predictive-processing / reality-monitoring additions; (c) honour [[evidential-status-discipline]]; (d) writing-style + length check (~1800 words, comfortably under soft). Apply in-place fixes if minor; generate a follow-on refine-draft or literature-drift task if substantive. Kept at P3 (not tenet-load-bearing in the direct sense the two P2 staleness tasks are) but still a genuine staleness candidate for queue diversity. Tenet alignment: Tenet 1 (Dualism — the qualitative character of vision is a standing explanatory-gap exhibit).
+- **Source**: staleness
+- **Generated**: 2026-05-26
 
 ### ✓ 2026-05-26: Deep review concepts/locality.md (57 days since last review, ai_contribution=100, Tenet 2/3 load-bearing)
 - **Type**: deep-review
