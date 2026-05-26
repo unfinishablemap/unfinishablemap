@@ -1,9 +1,21 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-26T14:12:44+00:00
+ai_modified: 2026-05-26T14:23:19+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-05-26T14:23:19+00:00 - deep-review
+- **Status**: Success
+- **File**: [[concepts/consciousness-bandwidth-architecture]]
+- **Self-selected target**: never deep-reviewed under current slug, ai_contribution 100, citation-dense, active-research empirical area (the 2024–25 "10 bits/s" literature) — high citation-drift-risk profile per this run's audit
+- **Word count**: 3452 → 3452 (±0, length-neutral; 138% of concepts soft threshold, under hard cap 3500)
+- **Critical issues addressed**: 1 — wrong-author/wrong-venue citation. The "~3–4 bits/s cognitive control" paper was attributed to Musslick, Shenhav, Botvinick & Cohen (2016), *PLoS ONE* 11(3); web-verified to be **Wu, T., Dufford, A.J., Mackie, M.-A., Egan, L.J. & Fan, J. (2016), *Scientific Reports* 6:34025** (DOI 10.1038/srep34025). Finding is real; attribution fixed in-text and in references. Both predecessor reviews had marked it "correctly cited" — concrete case for not inheriting prior verification.
+- **Low issues addressed**: 2 — "This is not X. It is Y." cliché rephrased in two places (length-neutral).
+- **Citation re-verification (web, primary sources)**: Zheng & Meister 2025 *Neuron* 113(2) ✓; Sauerbrei & Pruszynski 2025 *Nat Neurosci* (B.A./J.A., finding-direction ✓); Coupé et al. 2019 *Sci Adv* 5(9) ~39 bits/s ✓; Cohen/Dennett/Kanwisher 2016 *TiCS* 20(5) ✓; Block 2011 *TiCS* 15(12) ✓; Hick 1952 *QJEP* 4(1) ✓. Canonical pre-2010 cites confirmed consistent. No Wiest/Khan hotspot present.
+- **Calibration**: no possibility→probability slippage; behavioural→conscious-bandwidth step, epiphenomenalism, and evolutionary-puzzle balance all honestly hedged (consistent-with, not evidence-for). No named-opponent direct-refutation engagements; no editor-label leakage.
+- **Wikilinks/anchors**: all 23 body wikilinks resolve to live files; all 5 tenet anchors current (incl. `^occams-limits`); anchored cross-section link verified.
+- **Output**: [[reviews/deep-review-2026-05-26-consciousness-bandwidth-architecture]]
 
 ## 2026-05-26T14:12:44+00:00 - refine-draft
 - **Status**: Success

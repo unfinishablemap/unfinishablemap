@@ -2,11 +2,11 @@
 title: "Consciousness Bandwidth Architecture"
 description: "The mind-brain interface delivers ~10⁹ bits/second of experience inward but permits only ~10 bits/second of volitional influence outward. The asymmetry and its causal consequences together define consciousness's architecture."
 created: 2026-02-23
-modified: 2026-04-21
+modified: 2026-05-26
 human_modified: null
-ai_modified: 2026-04-21T10:38:00+00:00
+ai_modified: 2026-05-26T14:23:19+00:00
 draft: false
-last_deep_review: 2026-04-21T10:38:00+00:00
+last_deep_review: 2026-05-26T14:23:19+00:00
 topics:
   - "[[bandwidth-of-consciousness]]"
   - "[[hard-problem-of-consciousness]]"
@@ -62,7 +62,7 @@ Strictly, Zheng and Meister measured *behavioural* throughput in tasks requiring
 
 Raising your arm requires coordinating thousands of motor neurons in precise temporal sequences. The intention "raise my arm" has perhaps a few bits of informational content—a goal specification. The physical execution requires millions of bits—exact firing rates, timing patterns, muscle recruitment sequences. Where does the additional specification come from?
 
-This is not merely a problem of quantity. It is a problem of *kind*. Mental content is structured in terms of goals, meanings, and reasons. Physical execution is structured in terms of forces, rates, and spatial coordinates. The bandwidth problem asks how a channel carrying goal-specifications produces coordinate-specifications. Even an infinite-bandwidth channel would face this translation problem if it carried the wrong type of information.
+The problem is one of *kind* rather than merely of quantity. Mental content is structured in terms of goals, meanings, and reasons. Physical execution is structured in terms of forces, rates, and spatial coordinates. The bandwidth problem asks how a channel carrying goal-specifications produces coordinate-specifications. Even an infinite-bandwidth channel would face this translation problem if it carried the wrong type of information.
 
 The problem has three dimensions:
 
@@ -78,7 +78,7 @@ The grain dimension is the most philosophically distinctive. Kim's exclusion arg
 
 Consider the space of possible neural configurations underlying a simple voluntary action. The motor cortex alone contains millions of neurons, each capable of firing at different rates. The combinatorial space dwarfs anything a 10-bit/second channel could address by enumeration. If consciousness had to specify which configuration to actualise by enumerating neural states, the bandwidth constraint would be fatal.
 
-This gives the bandwidth problem its force: the mismatch between the information content of conscious intentions and the information content of their physical realisations seems not just quantitative but structural. An intention is not a partial specification of a neural state. It is a different kind of representation entirely. The Map's [[resolution-void|resolution void]] formalises the broader context: consciousness discards 99.9999% of available sensory information, operating at a resolution orders of magnitude coarser than the brain's processing grain. The bandwidth problem is the downward-direction consequence of this gap—the challenge of using a low-resolution selection channel to influence a high-resolution execution system.
+This gives the bandwidth problem its force: the mismatch between the information content of conscious intentions and the information content of their physical realisations seems not just quantitative but structural. An intention is a different kind of representation entirely, not a partial specification of a neural state. The Map's [[resolution-void|resolution void]] formalises the broader context: consciousness discards 99.9999% of available sensory information, operating at a resolution orders of magnitude coarser than the brain's processing grain. The bandwidth problem is the downward-direction consequence of this gap—the challenge of using a low-resolution selection channel to influence a high-resolution execution system.
 
 ### Why Symmetry Fails
 
@@ -90,7 +90,7 @@ The Map's framework provides a unified answer to both the asymmetry and the band
 
 This is the bandwidth constraint interpreted architecturally. The brain's unconscious systems—running at roughly 10⁹ bits per second—perform the computationally intensive work of translating goals into motor plans, generating candidate action sequences, and computing the fine-grained specifications execution requires. Consciousness selects among the prepared candidates.
 
-On this architecture, the bandwidth problem transforms. The question is no longer "how does a 10-bit/second channel specify a million-bit neural configuration?" but "how does a 10-bit/second channel choose among a small number of prepared alternatives?" A channel carrying 10 bits per second can make roughly 3–4 selections per second among small sets of alternatives, matching the [[concepts/consciousness-selecting-neural-patterns#The Bandwidth Constraint|phenomenology of deliberate choice]]. Musslick et al. (2016) estimated cognitive control capacity at ~3–4 bits per second, directly measuring the rate of deliberate control rather than automated skill execution.
+On this architecture, the bandwidth problem transforms. The question is no longer "how does a 10-bit/second channel specify a million-bit neural configuration?" but "how does a 10-bit/second channel choose among a small number of prepared alternatives?" A channel carrying 10 bits per second can make roughly 3–4 selections per second among small sets of alternatives, matching the [[concepts/consciousness-selecting-neural-patterns#The Bandwidth Constraint|phenomenology of deliberate choice]]. Wu et al. (2016) estimated cognitive control capacity at ~3–4 bits per second, directly measuring the rate of deliberate control rather than automated skill execution.
 
 The hierarchical structure addresses the grain problem directly. Consciousness operates at policy level—"reach for the cup," "attend to the speaker," "inhibit the impulse." Each policy-level selection triggers a cascade of progressively finer-grained specifications, all handled by unconscious neural mechanisms. The grain of conscious intention matches the grain of conscious selection. The finer grain is supplied by the brain, not the mind.
 
@@ -186,9 +186,9 @@ The bandwidth architecture connects to all five tenets.
 1. Kim, J. (2005). *Physicalism, or Something Near Enough*. Princeton University Press.
 1. Mandik, P. (2010). Control consciousness. *Topics in Cognitive Science*, 2(4), 643–657.
 1. Miller, G.A. (1956). The magical number seven, plus or minus two. *Psychological Review*, 63(2), 81–97.
-1. Musslick, S., Shenhav, A., Botvinick, M.M., & Cohen, J.D. (2016). The capacity of cognitive control estimated from a perceptual decision making task. *PLoS ONE*, 11(3).
 1. Nørretranders, T. (1998). *The User Illusion: Cutting Consciousness Down to Size*. Viking Press.
 1. Sauerbrei, B.A. & Pruszynski, J.A. (2025). The brain works at more than 10 bits per second. *Nature Neuroscience*.
 1. Stapp, H.P. (2007). *Mindful Universe: Quantum Mechanics and the Participating Observer*. Springer.
+1. Wu, T., Dufford, A.J., Mackie, M.-A., Egan, L.J., & Fan, J. (2016). The capacity of cognitive control estimated from a perceptual decision making task. *Scientific Reports*, 6, 34025.
 1. Zheng, J. & Meister, M. (2025). The unbearable slowness of being: Why do we live at 10 bits/s? *Neuron*, 113(2), 192–204.
 1. Zimmermann, M. (1986). Neurophysiology of sensory systems. In R.F. Schmidt (Ed.), *Fundamentals of Sensory Physiology*. Springer.
