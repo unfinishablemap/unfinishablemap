@@ -1,10 +1,10 @@
 ---
 title: "Subjective Aim"
-description: "Whitehead's subjective aim—each occasion's directedness toward its own completion—illuminates the structure of conscious selection without requiring panpsychism."
+description: "Whitehead's subjective aim—each occasion's directedness toward its completion—illuminates the structure of conscious selection without requiring panpsychism."
 created: 2026-02-13
 modified: 2026-02-13
 human_modified:
-ai_modified: 2026-04-30T18:10:00+00:00
+ai_modified: 2026-05-26T06:33:40+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -29,7 +29,7 @@ author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-02-13
 last_curated:
-last_deep_review: 2026-04-06T15:20:00+00:00
+last_deep_review: 2026-05-26T06:33:40+00:00
 ---
 
 Subjective aim is Alfred North Whitehead's term for the inherent directedness of each actual occasion toward its own completion. Every moment of reality, in Whitehead's [[process-philosophy|process philosophy]], is not passive matter awaiting external forces but an event actively steering itself toward a definite outcome—what Whitehead called "satisfaction." Subjective aim is what makes each occasion *for itself* rather than merely *there*: it introduces teleology at the most fundamental level of reality.
