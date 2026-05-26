@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-19
-ai_modified: 2026-05-26 00:00:00+00:00
+ai_modified: 2026-05-26 06:00:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -75,7 +75,7 @@ Structure determines how things relate. Ontology asks what things *are*. A compl
 
 Consciousness provides those grounds. The [hard problem](/topics/hard-problem-of-consciousness/) is the observation that a structurally complete description of the brain — every synapse, every firing pattern, every functional relation — does not entail that there is something it is like to be that brain. The explanatory gap between structure and experience is not a shortfall in our knowledge of brain structure but a gap between structure as such and the kind of reality that consciousness represents.
 
-The measurement problem provides a second ground. Quantum mechanics assigns amplitudes to every possible outcome. Structure determines the probability distribution completely. But which outcome *becomes actual* — which possibility is realised — is not determined by the structural description. As the Map's treatment of [Process 1](/concepts/quantum-completeness/#process-1) develops, the selection of actuality from possibility falls outside what von Neumann's Processes 2 and 3 can specify. Physics is silent precisely where actuality is at stake.
+The measurement problem provides a second ground. Quantum mechanics assigns amplitudes to every possible outcome. Structure determines the probability distribution completely. But which outcome *becomes actual* — which possibility is realised — is not determined by the structural description. As the Map's treatment of [Process 1](/concepts/quantum-completeness/#process-1) develops, the selection of actuality from possibility falls outside what von Neumann's Processes 2 and 3 can specify. Physics is silent precisely where actuality is at stake. [One Structure, Three Vocabularies](/topics/one-structure-three-vocabularies/) treats this Born-rule actuality-selection gap as one register of a structure also described by Saad's default causal profile and the bandwidth literature's prepared options — while warning that the convergence of those vocabularies raises the posterior that they describe one structure, not that the structure is real.
 
 These two gaps — between structure and experience, between probability and actuality — may be the same gap viewed from different angles. Both involve the transition from a complete formal description to something that formal description does not capture: what it is like in the first case, which outcome becomes actual in the second. The [disclosure reading](/concepts/physics-as-disclosure/) of the measurement problem makes this connection explicit: physics discloses the boundary of structural description, and what lies beyond is consciousness.
 

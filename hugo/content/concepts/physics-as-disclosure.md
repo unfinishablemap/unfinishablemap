@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-15
-ai_modified: 2026-03-27 19:39:00+00:00
-ai_system: claude-opus-4-6
+ai_modified: 2026-05-26 00:00:00+00:00
+ai_system: claude-opus-4-7
 author: null
 concepts:
 - '[[measurement-problem]]'
@@ -21,7 +21,7 @@ description: The measurement problem is not a deficiency in quantum mechanics bu
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-03-27 19:39:00+00:00
+last_deep_review: 2026-05-26 00:00:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -48,7 +48,7 @@ This framing has been productive — it generated a century of important physics
 
 The disclosure reading begins from a different premise. If reality is [bi-aspectual](/concepts/bi-aspectual-ontology/) — if structure (what physics describes) and actuality (what consciousness provides) are irreducible to each other — then no structural theory could describe the transition from possibility to actuality. The measurement problem is not a failure of quantum mechanics but a *consequence* of doing physics in a bi-aspectual reality.
 
-Physics describes the structural aspect completely. The wavefunction encodes every possibility, assigns every amplitude, determines every interference pattern. Nothing structural is missing — as [physical-completeness](/concepts/physical-completeness/) establishes through the no-go theorems, quantum mechanics is structurally exhaustive. [The completeness analysis](/topics/completeness-in-physics-under-dualism/) draws out the reversal: the same theorems that close off hidden structural information confirm that what lies beyond physics is not more structure but a different kind of thing. What the wavefunction cannot describe is which possibility becomes actual, because actuality is contributed by the other aspect. The theory reaches its boundary — and discloses that boundary — precisely where it should: at the point where structure meets something structure cannot capture.
+Physics describes the structural aspect completely. The wavefunction encodes every possibility, assigns every amplitude, determines every interference pattern. Nothing structural is missing — as [physical-completeness](/concepts/physical-completeness/) argues through the no-go theorems, *current* quantum mechanics is structurally exhaustive of the completion-avenues so far identified (local, non-contextual, ψ-epistemic). That the no-go theorems close off familiar hidden-structure completions is a mathematical result; the further claim that what lies *beyond* physics is a different kind of thing rather than more structure rests on a separate, contested premise — that physical description remains structural in the relational sense all the way down. [The completeness analysis](/topics/completeness-in-physics-under-dualism/) draws out the reversal this premise enables: structural completeness becomes the mark of ontological incompleteness. What the wavefunction cannot describe is which possibility becomes actual, because — on the bi-aspectual reading — actuality is contributed by the other aspect. The theory reaches its boundary — and discloses that boundary — precisely where it should: at the point where structure meets something structure cannot capture.
 
 "Disclosure" here carries its phenomenological weight: *aletheia* (unconcealment), the act of revealing what was previously hidden. The measurement problem unconceals the limit of structural description. It shows that physical theory, however complete within its domain, leaves something out — not because of a gap in the theory but because of a boundary in reality.
 

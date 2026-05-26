@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-26
-ai_modified: 2026-05-19 04:38:17+00:00
+ai_modified: 2026-05-26 07:11:58+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -15,14 +15,14 @@ description: 'Beyond individual cognitive closure: how paradigms, social silence
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-03-26 10:32:00+00:00
+last_deep_review: 2026-05-26 07:11:58+00:00
 modified: *id001
 related_articles:
 - '[[voids]]'
 - '[[tenets]]'
 - '[[self-maintained-cognitive-limits]]'
 - '[[what-voids-reveal]]'
-- '[[thoughts-that-slip-away]]'
+- '[[thought-stream-void]]'
 - '[[non-human-minds-as-void-explorers]]'
 - '[[biological-cognitive-closure]]'
 - '[[naturally-occluded]]'
@@ -145,7 +145,7 @@ The mapping project therefore requires triangulation: individual minds probing w
 - [Defended Territory](/voids/self-maintained-cognitive-limits/) — Occlusion mechanisms in detail
 - [What the Limits Reveal](/voids/what-voids-reveal/) — How limitation illuminates architecture
 - [Non-Human Minds as Void-Explorers](/voids/non-human-minds-as-void-explorers/) — Using AI and alien minds to probe human limits
-- [Thoughts That Slip Away](/voids/thought-stream-void/) — Phenomenology of slippage mechanisms
+- [The Thought Stream Void](/voids/thought-stream-void/) — Phenomenology of slippage mechanisms
 - [Mysterianism and Cognitive Closure](/concepts/mysterianism/) — Individual cognitive closure analysis
 - [Adaptive Cognitive Limits](/concepts/naturally-occluded/) — Why evolution maintains blind spots as fitness advantages
 - [The Intersubjective Void](/voids/voids-between-minds/) — How testimony and social calibration suppress phenomenal knowledge

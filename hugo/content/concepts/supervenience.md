@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-24
-ai_modified: 2026-03-24 20:09:00+00:00
+ai_modified: 2026-05-26 07:51:35+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -25,7 +25,7 @@ description: Supervenience defines when higher-level properties depend on lower-
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-03-24 20:09:00+00:00
+last_deep_review: 2026-05-26 07:51:35+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -60,9 +60,9 @@ For physicalism, strong supervenience with metaphysical necessity is the standar
 
 ## Why Physicalists Need Supervenience
 
-Physicalists appeal to supervenience to secure the dependence of mind on matter without requiring crude identity claims. Since Hilary Putnam's multiple realisability argument showed that pain need not be identical to any single brain state (pain could be realised differently in octopi, humans, and hypothetical silicon beings), type-identity theory lost ground. Supervenience offered a replacement: mental properties are not *identical* to physical properties but are *determined* by them.
+Physicalists appeal to supervenience to secure the dependence of mind on matter without requiring crude identity claims. Since Hilary Putnam's multiple realisability argument showed that pain need not be identical to any single brain state (pain could be realised differently in octopi, humans, and hypothetical silicon beings), type-identity theory lost ground — and the same multiple-realisability point became the springboard for [functionalism](/concepts/functionalism/), which individuates mental states by causal-functional role rather than physical constitution. Supervenience offered a replacement for type-identity: mental properties are not *identical* to physical properties but are *determined* by them.
 
-This allows physicalists to say that fixing the complete physical facts fixes all the mental facts — while acknowledging that different physical configurations might realise the same mental state. (For the Map's critique of this programme, see [materialism](/concepts/materialism/).)
+This allows physicalists to say that fixing the complete physical facts fixes all the mental facts — while acknowledging that different physical configurations might realise the same mental state. Supervenience is thus weaker than [reduction](/concepts/reductionism/): it claims dependence without requiring that mental properties be analysed away in physical terms. (For the Map's critique of this programme, see [materialism](/concepts/materialism/).)
 
 ## Why Supervenience Does Not Entail Physicalism
 
@@ -70,7 +70,7 @@ The Map holds that supervenience, even if accepted, is far weaker than physicali
 
 ### The Explanatory Gap Remains
 
-Supervenience is a modal claim about covariance — it says mental properties *track* physical properties. It says nothing about *why* they do. As Joseph Levine argued, even if pain necessarily accompanies C-fibre firing, this leaves entirely unexplained why C-fibre firing feels like *that* rather than like something else or like nothing at all. The [explanatory gap](/concepts/explanatory-gap/) persists even under the strongest supervenience thesis.
+Supervenience is a modal claim about covariance — it says mental properties *track* physical properties. It says nothing about *why* they do. As Joseph Levine argued, even if pain necessarily accompanies C-fibre firing, this leaves entirely unexplained why C-fibre firing feels like *that* rather than like something else or like nothing at all. The [explanatory gap](/concepts/explanatory-gap/) persists even under the strongest supervenience thesis: a complete supervenience base fixes the [qualia](/concepts/qualia/) but never says why those physical facts should be accompanied by any felt character at all.
 
 Physicalists sometimes respond that other inter-level relations (temperature supervening on molecular motion) involve similar explanatory "gaps." But the cases are disanalogous. Temperature is reductively identified with mean molecular kinetic energy — once the identity is grasped, the explanatory work is done. With consciousness, grasping every physical detail leaves the phenomenal character unexplained. The supervenience relation in the consciousness case demands new fundamental laws — the [psychophysical laws](/concepts/psychophysical-laws/) that Chalmers argues must supplement physics.
 
@@ -88,7 +88,7 @@ This is precisely the Map's position. The correlation between brain states and e
 
 Jaegwon Kim's exclusion argument uses supervenience to argue *against* non-reductive physicalism and, by extension, against dualist mental causation. The argument runs: if mental properties supervene on physical properties, then for any mental cause M of a physical effect P, there exists a physical supervenience base M* that is sufficient for P. The mental cause is either identical to M* (reduction) or excluded by it ([epiphenomenalism](/concepts/epiphenomenalism/)). The mental is stripped of genuine [causal-powers](/concepts/causal-powers/) — it becomes causally redundant.
 
-Kim himself concluded that non-reductive physicalism is unstable — it collapses into either reductionism or epiphenomenalism. The Map agrees with Kim's diagnosis of non-reductive physicalism but draws a different conclusion: the problem lies not with mental causation but with the assumption of [causal closure](/concepts/causal-closure/). At quantum indeterminacies, physics does not provide sufficient physical causes. Consciousness can select among physically underdetermined outcomes without competing with physical causes — because at those junctures, there is no sufficient physical cause to compete with. [Mental causation](/concepts/mental-causation-and-downward-causation/) operates in the gaps that physics itself acknowledges.
+Kim himself concluded that non-reductive physicalism is unstable — it collapses into either reductionism or epiphenomenalism. The Map agrees with Kim's diagnosis of non-reductive physicalism but draws a different conclusion: the problem lies not with mental causation but with the assumption of [causal closure](/concepts/causal-closure/). At quantum indeterminacies, physics does not provide sufficient physical causes. Consciousness can select among physically underdetermined outcomes without competing with physical causes — because at those junctures, there is no sufficient physical cause to compete with. [Mental causation](/concepts/mental-causation-and-downward-causation/) operates in the gaps that physics itself acknowledges. This is the move that distinguishes the Map's [interactionist dualism](/concepts/interactionist-dualism/) from the non-reductive physicalism Kim targets: rather than accepting causal closure and losing the mental to the exclusion argument, the Map locates a genuine causal opening where closure does not hold.
 
 ## Relation to Site Perspective
 

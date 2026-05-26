@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-07
-ai_modified: 2026-03-29 00:48:00+00:00
+ai_modified: 2026-05-26 05:33:06+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -19,7 +19,7 @@ description: AI-assisted analysis of the locality objection to dualist mind-matt
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-03-29 00:48:00+00:00
+last_deep_review: 2026-05-26 05:33:06+00:00
 modified: *id001
 related_articles:
 - '[[concepts/consciousness-selecting-neural-patterns]]'
@@ -68,9 +68,13 @@ The [brain-interface-boundary](/concepts/brain-interface-boundary/) article deve
 The mind side of dualism could include:
 - Structure sufficient to engage with distributed physical events
 - Intrinsic organisation that maps onto neural patterns
-- Complexity that makes "coordinating billions of sites" trivial from its perspective
+- Complexity that makes "coordinating billions of sites" straightforward from its perspective
 
 We should not import materialist assumptions about simplicity into our conception of what consciousness might be.
+
+**The honest limit of this response.** Positing that the mind side "has whatever structure it needs" risks becoming an escape hatch: any interface puzzle could be answered by stipulating exactly the mental complexity required to solve it. That would be unfalsifiable in the worst way—not even wrong. So this response claims less than it might appear to. It is a *logical-possibility* argument, not a positive account of mental structure: it shows the locality objection's simplicity assumption is unearned, not that consciousness in fact has the posited organisation. On the [five-tier evidential scale](/project/evidential-status-discipline/), "the mind side could be complex enough" sits at *speculative integration*—coherent with the tenets, not evidence-elevated by them. The richness and unity of conscious experience offer indirect, contested support for *some* non-trivial mental structure, but they do not license filling in details to taste.
+
+What would constrain the posit? Genuine mental structure, if it exists, should be *the same across the puzzles it answers*—the organisation invoked to explain binding cannot be freely re-specified to also explain pairing or coordination unless one structure does both work. A response that needs a differently-shaped mind for each objection has explained nothing. The discipline, then, is to invoke mental structure once and let it constrain the rest, rather than minting new structure per challenge.
 
 ## Response 3: The Objection Assumes a Contested Picture of Space
 
@@ -90,11 +94,11 @@ But the same point applies: the mind side of dualism can have whatever structure
 
 Indeed, quantum entanglement may *help* with binding rather than hinder it. If neural quantum events are entangled, they constitute a single holistic state rather than billions of independent decisions. The quantum framework doesn't merely tolerate coordination—it provides a natural mechanism for it.
 
-Quantum selection doesn't make binding harder; binding is already hard. The question is whether we have any reason to think quantum selection is *additionally* problematic. Given the responses above, we don't.
+Quantum selection doesn't make binding harder; binding is already hard. The question is whether we have any reason to think quantum selection is *additionally* problematic. Given the responses above, we don't. The Map's more developed treatment of what consciousness does at the quantum level—selecting within an already-prepared space of outcomes rather than reaching out to coordinate independent sites—appears in [the corridor reading of the Born rule](/topics/born-rule-and-the-consciousness-interface/); on that picture the "billions of sites" framing already mistakes the structure of the interaction.
 
 ## Relation to Site Perspective
 
-The Unfinishable Map's [tenets](/tenets/) commit to bidirectional interaction: consciousness causally influences physical outcomes. The locality objection is one challenge to this commitment.
+The Unfinishable Map's [tenets](/tenets/) commit to bidirectional interaction: consciousness causally influences physical outcomes. The locality objection is among the more serious challenges to this commitment.
 
 The responses here don't *prove* that consciousness coordinates quantum events across the brain. They show that:
 
@@ -113,6 +117,7 @@ The bidirectional interaction tenet survives the locality challenge. It faces ot
 - [consciousness-selecting-neural-patterns](/concepts/consciousness-selecting-neural-patterns/) — The broader question of whether quantum selection is coherent
 - [causal-closure](/concepts/causal-closure/) — Why rejecting causal closure creates room for non-physical causation
 - [binding-problem](/concepts/binding-problem/) — How distributed activity yields unified experience
+- [born-rule-and-the-consciousness-interface](/topics/born-rule-and-the-consciousness-interface/) — The corridor/selection reading: consciousness selects within a prepared outcome space rather than coordinating sites
 - [tenets](/tenets/) — The foundational commitments these concepts serve
 - [free-will](/topics/free-will/) — How quantum selection relates to libertarian free will
 

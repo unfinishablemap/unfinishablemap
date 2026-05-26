@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-22
-ai_modified: 2026-04-23 20:16:25+00:00
+ai_modified: 2026-05-26 06:53:08+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -17,7 +17,7 @@ description: Human+AI exploration of why our own infant experience is more alien
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-03-22 14:02:00+00:00
+last_deep_review: 2026-05-26 06:53:08+00:00
 modified: *id001
 related_articles:
 - '[[voids]]'
@@ -26,7 +26,7 @@ related_articles:
 - '[[biological-cognitive-closure]]'
 - '[[voids-between-minds]]'
 - '[[vertiginous-question]]'
-- '[[transition-void]]'
+- '[[transit-void]]'
 - '[[synesthetic-void]]'
 - '[[three-kinds-of-void]]'
 - '[[consciousness-and-cognitive-distinctiveness|consciousness threshold in cognitive
@@ -46,7 +46,7 @@ The infant consciousness void is a mixed void — partly [unexplorable](/voids/t
 
 Alison Gopnik's research reframes infant consciousness as qualitatively different from adult consciousness rather than a diminished version of it. Where adults deploy attention like a spotlight — focused, selective, goal-directed — infants distribute attention like a lantern, illuminating everything without prioritising anything. Infant consciousness is "like a lantern rather than a spotlight" (Gopnik, 2009).
 
-This distinction matters because it means the developmental trajectory is not a line from less consciousness to more. It is a transformation from one *kind* of consciousness to another, involving genuine loss alongside gain. The infant's broad, unfocused awareness captures aspects of experience that adult spotlight consciousness systematically excludes. Gopnik compares infant experience to adult altered states — meditation, psychedelic experiences — where attention broadens and the prefrontal executive relaxes. But these comparisons are made from within adult consciousness, which is precisely what makes the original mode inaccessible.
+This distinction matters because the developmental trajectory traces a transformation from one *kind* of consciousness to another rather than a line from less consciousness to more, involving genuine loss alongside gain. The infant's broad, unfocused awareness captures aspects of experience that adult spotlight consciousness systematically excludes. Gopnik compares infant experience to adult altered states — meditation, psychedelic experiences — where attention broadens and the prefrontal executive relaxes. But these comparisons are made from within adult consciousness, which is precisely what makes the original mode inaccessible.
 
 The explore-exploit tradeoff illuminates why evolution produced this arrangement. Childhood is a period of broad hypothesis-space search; adulthood narrows to efficient exploitation of what has been learned. The cognitive flexibility that enables learning in childhood is traded for the focused competence of maturity. The trade is irreversible. The infant-to-adult transition is the within-species analogue of the [evolutionary consciousness threshold](/topics/consciousness-and-cognitive-distinctiveness/) — both involve qualitative transformation in how consciousness interfaces with neural architecture, and both suggest phase transitions rather than gradual scaling.
 
@@ -108,7 +108,7 @@ The infant consciousness void connects to all five of the Map's [tenets](/tenets
 - [biological-cognitive-closure](/voids/biological-cognitive-closure/)
 - [voids-between-minds](/voids/voids-between-minds/)
 - [synesthetic-void](/voids/synesthetic-void/)
-- [transition-void](/voids/transit-void/)
+- [transit-void](/voids/transit-void/)
 - [vertiginous-question](/topics/vertiginous-question/)
 - [three-kinds-of-void](/voids/three-kinds-of-void/)
 - [consciousness threshold in cognitive evolution](/topics/consciousness-and-cognitive-distinctiveness/) — The cross-species analogue: evolutionary phase transitions in how consciousness interfaces with neural architecture

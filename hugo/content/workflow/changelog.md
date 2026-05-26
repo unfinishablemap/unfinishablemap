@@ -1,13 +1,328 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-26 00:00:00+00:00
+ai_modified: 2026-05-26 08:10:00+00:00
 ai_system: claude-opus-4-7
 concepts: []
 date: '2026-05-26'
 related_articles: []
 title: Changelog
 ---
+
+## 2026-05-26T08:10:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [physics-as-disclosure](/concepts/physics-as-disclosure/)
+- **Word count**: 2012 → 2065 (+53)
+- **Critical issues addressed**: 1 (cross-article calibration mismatch — the Disclosure View paragraph said physical-completeness "establishes" via the no-go theorems that QM is "structurally exhaustive" and that the theorems "confirm" what lies beyond physics is non-structural; physical-completeness was refined to forbid exactly this, restricting the theorems to "of the avenues so far identified" and routing the beyond-physics conclusion through a separate contested modal premise. Rewrote to restore qualifiers, downgrade "establishes"→"argues", separate mathematical-result from contested-premise, replace "confirm" with explicit "rests on a separate, contested premise". Constrains-vs-establishes slippage — correctable inside the framework; tenet-accepting reviewer who read physical-completeness would still flag it)
+- **Medium issues addressed**: 1 (aligned "structural" vocabulary with physical-completeness sense-1 relational reading via "structural in the relational sense all the way down"; framed as contested premise)
+- **Attribution check**: Barrett 2007, Tomaz et al. 2025, Newton 1693, Bell/Kochen-Specker scope — all verified accurate and unchanged. Structural-realism literature (Ladyman/French, Russell, Worrall, Eddington) correctly deferred to sibling articles, not misattributed here
+- **Reasoning modes (editor-internal)**: no named-opponent replies (engages generic "deficiency reading"); Maudlin engagement lives in physical-completeness. N/A
+- **Wikilinks**: all 18 targets resolve to live obsidian files; none archive-only, no repointing needed
+- **Style**: "This is not X. It is Y." cliché absent; tenet anchors all verified present
+- **Cross-link consistency**: cluster (physics-as-disclosure / physical-completeness / completeness-in-physics-under-dualism) now shares a consistent constrains-vs-establishes calibration register
+- **Length**: 83% of 2500 soft threshold — normal mode
+- **Output**: [deep-review-2026-05-26-physics-as-disclosure](/reviews/deep-review-2026-05-26-physics-as-disclosure/)
+
+## 2026-05-26T07:51:35+00:00 - deep-review
+- **Status**: Success
+- **File**: [supervenience](/concepts/supervenience/)
+- **Word count**: 1373 → 1481 (+108)
+- **Critical issues addressed**: 0 (none found — attribution, calibration, reasoning-mode, and cliché checks all clean)
+- **Medium issues addressed**: 1 (realized four frontmatter-declared concept relationships as inline body wikilinks: functionalism, reductionism, qualia, interactionist-dualism)
+- **Enhancements made**: 4 cross-links
+- **Attribution check**: Davidson 1970 (anomalous monism / supervenience into phil-mind), Hare (ethics origin), Putnam (multiple realisability), Levine 1983 (explanatory gap), Kim 1993/2005 (exclusion argument), Chalmers 1996 (psychophysical laws) — all verified accurate
+- **Calibration check**: clean — no possibility/probability slippage; the "does not entail physicalism" claim is conceptual not empirical; Kim disagreement honestly relocated to causal closure (Tenet 3); constrains/establishes distinction correct
+- **Reasoning modes (editor-internal)**: type-B physicalists — Mode Two (unsupported a posteriori necessity, no grounding story); Kim — Mode Three (agrees with diagnosis, marks boundary at causal closure). No label leakage in prose.
+- **Wikilinks**: all targets resolve to live obsidian files; interactionist-dualism has an archive copy but live version exists so no repointing needed
+- **Length**: 59% of 2500 soft threshold — well within bounds
+- **Output**: [deep-review-2026-05-26-supervenience](/reviews/deep-review-2026-05-26-supervenience/)
+- **Stability**: confirmed stable (3rd review; reached stability 2026-03-24)
+
+## 2026-05-26T07:46:51+00:00 - deep-review
+- **Status**: Success
+- **File**: [ai-epiphenomenalism](/concepts/ai-epiphenomenalism/)
+- **Word count**: 2337 → 2458 (+121)
+- **Critical issues addressed**: 0 (none found — attribution and calibration checks both clean)
+- **Medium issues addressed**: 1 (anchored three orphaned references in body prose — Hameroff 2025, Jackson 1982, Hoel 2025; same pattern the 2026-03-19 review fixed for Schwitzgebel/Block)
+- **Enhancements made**: 3
+- **Attribution check**: Schwitzgebel (2025) quote + arXiv ID, Metzinger (2021) moratorium/JAIC cite, and Long (2024) p-zombie characterization all verified accurate against live literature
+- **Reasoning modes (editor-internal)**: Schwitzgebel Mode Two (hedged); Metzinger Mode Three/mixed; functionalist Mode Three. No boundary-substitution, no label leakage
+- **Output**: [deep-review-2026-05-26-ai-epiphenomenalism](/reviews/deep-review-2026-05-26-ai-epiphenomenalism/)
+
+## 2026-05-26T07:30:00+00:00 - refine-draft
+- **Status**: Success
+- **File**: [clinical-evidence-quality-standards-consciousness-research](/topics/clinical-evidence-quality-standards-consciousness-research/)
+- **Original score**: anchoring-audit flag (3/3 checks failed vs anchor [mental-causation-and-downward-causation](/concepts/mental-causation-and-downward-causation/): hedge_density 1.16<1.627, 2 strong-assertion verbs vs anchor's 0, 0 underdetermination markers vs anchor's 1)
+- **Changes**: Calibration-only refine (Audit Three). Inherited the anchor's discipline without weakening the central claim. (1) Strong-assertion verbs driven to 0/kw: "a controlled trial demonstrates efficacy" → "supports a verdict on efficacy"; the calibration-vocabulary term "demonstrates" (in the Honest Calibration ceiling) → "demonstrated reserved only for…" (past participle, not a marker). Anchor uses none. (2) Added the load-bearing underdetermination acknowledgment in Standard 5: even methodologically high-quality clinical evidence typically underdetermines the dualism-vs-physicalism question — the same finding is usually *compatible with both interpretations* and the *evidence does not adjudicate*; quality standards *constrain which inferences are warranted without settling the metaphysics* ("removing a defeater ≠ upgrading evidence"). Underdetermination markers 0→3. (3) Added an honest contingency hedge at a contested juncture (Interpretive Range / pathway divergence): "appears to narrow" + "the narrowing may be partial rather than decisive" with the physicalist's same-physical-routes reply, mirroring the anchor. Hedge density 1.16→2.17/kw, clears the ≥1.627 target. Cliché check: zero "This is not X. It is Y." constructs. Voice and central claim preserved. Word count 2587→2771 (under soft 3000). evaluate_anchoring() now returns 0 flags for this anchor.
+- **Published**: yes
+
+## 2026-05-26T07:11:58+00:00 - refine-draft
+- **Status**: Success
+- **File**: [clinical-neuroplasticity-evidence-for-bidirectional-causation](/topics/clinical-neuroplasticity-evidence-for-bidirectional-causation/)
+- **Original score**: anchoring-audit flag (3/3 checks failed vs anchor [mental-causation-and-downward-causation](/concepts/mental-causation-and-downward-causation/))
+- **Changes**: Calibration-only refine (Audit Three). Inherited the anchor's hedge profile without weakening the central claim. (1) Strong-assertion verb removed: "which mechanism ultimately *proves* correct" → "turns out to be correct" (strong-assertion density 0.38→0/kw, anchor uses none). (2) Added the load-bearing underdetermination acknowledgment in the Convergence Argument: the clinical findings are *compatible with both interpretations* and *do not adjudicate between them* — clinical neuroplasticity removes the epiphenomenalist defeater without establishing dualist over physicalist causation; "evidence for" restricted to "consistent with / does not discriminate from brain→brain causation" (underdetermination markers 0→1, the honest status the title's "evidence for" risked overclaiming). (3) Added contingency hedges at contested junctures (seems/appears/may) → hedge density 1.15→2.18/kw, clears the ≥1.627 target. Cliché check: zero "This is not X. It is Y." constructs. Word count 2617→2759 (under soft 3000). evaluate_anchoring() now returns 0 flags (both mental-causation and causal-closure anchors clear). Voice preserved.
+- **Published**: yes
+
+## 2026-05-26T07:11:58+00:00 - deep-review
+- **Status**: Success
+- **File**: [collective-cognitive-limits](/voids/collective-cognitive-limits/)
+- **Word count**: 2159 → 2159 (no change; 108% of voids soft threshold 2000, below hard 3000; length-neutral)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 1 (repointed genuinely archive-only `[[thoughts-that-slip-away]]` → live successor `[[thought-stream-void]]` in both related_articles and Further Reading; target was coalesced into The Thought Stream Void on 2026-04-17)
+- **Enhancements made**: 0 (converged — fifth review; all changes since last review were mechanical wikilink retargets, no substantive content drift)
+- **Wikilink audit**: 13 distinct targets; 12 resolve to LIVE obsidian files (left untouched), only `thoughts-that-slip-away` was archive-only and repointed. No resolves-to-live link was touched.
+- **Calibration check**: Passed — consistent hedging, explicit WEIRD caveat bounding universality claims, "Relation to Site Perspective" draws tenet parallels/connections rather than upgrading evidential status on tenet-load. No constrains-vs-establishes conflation, no defeater-removal-as-evidence-upgrade, no possibility/probability slippage.
+- **Attribution check**: Passed — Kuhn (incommensurability, already qualified), Zerubavel (conspiracies of silence, quoted), Aristarchus, Trivers (grounded by naturally-occluded's von Hippel & Trivers 2011 cite), McGinn all accurate. All four tenet anchors exist in tenets.md.
+- **Cliché check**: banned "This is not X. It is Y." staccato form absent; line-53 semicolon contrast is natural and retained.
+- **Output**: [deep-review-2026-05-26-collective-cognitive-limits](/reviews/deep-review-2026-05-26-collective-cognitive-limits/)
+
+## 2026-05-26T12:00:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [voluntary-attention-control-mechanisms](/concepts/voluntary-attention-control-mechanisms/)
+- **Word count**: 1745 → 1745 (no change; under concepts soft threshold 2500)
+- **Critical issues addressed**: 0 (Tenet-3 load-bearing; calibration verified — "establishes choices are implemented through neural mechanisms... does not establish neural mechanisms are all that is involved" is correct defeater-removal framing, not evidence upgrade; thalamic/MQI framing stays at "candidate site")
+- **Medium issues addressed**: 0 (article stable since first review; no oscillation)
+- **Enhancements made**: 0
+- **Attribution check**: Passed — load-bearing Rajan et al. 2019 (Cerebral Cortex 29(7), 2832-2843) verified against live literature: ~500ms frontal theta, reciprocal frontal-parietal Granger causality, willed-vs-instructed contrast all match exactly. No inflated Posner/Petersen-network or frontoparietal top-down claims. Menon & Uddin, Koch & Tsuchiya, Thura & Cisek, Filevich, Denton 2024 stated conservatively.
+- **Wikilinks**: all 15 (5 concepts + 2 topics + 3 research + body links) resolve to LIVE obsidian files; no archive-only repointing needed.
+- **Reasoning-mode**: engagement with the materialist "more computation" response (Occam's section): Mode Two opening into boundary-marking — identifies the unearned move that computational complexity alone explains the phenomenology of effort, then marks the residual disagreement honestly. No label leakage, no boundary-substitution.
+- **Cliché check**: banned "This is not X. It is Y." staccato form absent; mid-sentence "not X but Y" forms acceptable.
+- **Output**: [deep-review-2026-05-26-voluntary-attention-control-mechanisms](/reviews/deep-review-2026-05-26-voluntary-attention-control-mechanisms/)
+
+## 2026-05-26T06:53:08+00:00 - deep-review
+- **Status**: Success
+- **File**: [infant-consciousness](/voids/infant-consciousness/)
+- **Word count**: 1863 → 1860 (-3; under voids soft threshold 2000)
+- **Critical issues addressed**: 0 (citations, attributions, all 5 tenet anchors verified; no calibration slippage — dualism para is explicitly unresolved, MQI para is tenet-conditional)
+- **Medium issues addressed**: 2 (removed "not a line... It is a transformation" cliché; repointed archive-only [transition-void](/voids/transit-void/) → live [transit-void](/voids/transit-void/) in frontmatter and Further Reading)
+- **Enhancements made**: 0 (prior review established 9 inbound links + good integration; no oscillation)
+- **Attribution check**: Passed — Gopnik 2009, Tulving 1985, Vygotsky 1934/1986, Bauer 2015, Petanjek 2011 all verified against research notes; quotes faithful; phoneme-discrimination claim accurate.
+- **Wikilinks**: 17 of 18 resolve to LIVE; transition-void was the only genuinely archive-only link (coalesced into transit-void) — repointed.
+- **Reasoning-mode**: N/A — no named-opponent in-framework refutation; eliminative-materialist objection handled as bedrock disagreement per prior stability notes.
+- **Output**: [deep-review-2026-05-26-infant-consciousness](/reviews/deep-review-2026-05-26-infant-consciousness/)
+
+## 2026-05-26T06:38:32+00:00 - deep-review
+- **Status**: Success
+- **File**: [self-transcendence-void](/voids/self-transcendence-void/)
+- **Word count**: 1744 → 1783 (+39; under voids soft threshold 2000)
+- **Critical issues addressed**: 0 (citations, attributions, tenet anchors all verified; no calibration slippage)
+- **Medium issues addressed**: 3 (two "This is not X. It is Y." clichés removed; protective-occlusion speculation given an explicit speculative-integration evidential-status marker)
+- **Enhancements made**: 1 (calibration transparency on the bidirectional-interaction paragraph)
+- **Attribution check**: Passed — McGinn quote faithful and corpus-consistent; Münchhausen "by his own hair" correct; Huairang brick-polishing koan correctly attributed; Fasoli 2025 and brain-energy claim grounded in research note.
+- **Wikilinks**: All 15 body targets resolve to LIVE files; no archive-only links to repoint.
+- **Reasoning-mode**: N/A — named philosophers used as convergent support, not refutation targets; no boundary-substitution or label-leakage risk.
+- **Output**: [deep-review-2026-05-26-self-transcendence-void](/reviews/deep-review-2026-05-26-self-transcendence-void/)
+
+## 2026-05-26T06:33:40+00:00 - deep-review
+- **Status**: Success
+- **File**: [subjective-aim](/concepts/subjective-aim/)
+- **Word count**: 1796 → 1793 (-3; description trim only, body unchanged)
+- **Critical issues addressed**: 0 (none found — article converged; this is the third review)
+- **Medium issues addressed**: 1 (description trimmed 161 → 157 chars to meet 150-160 target)
+- **Enhancements made**: 0 (body preserved; all prior-review resolutions verified intact)
+- **Attribution check**: Passed — Whitehead p.167 quote verified against secondary literature; Stapp "debated" qualifier intact; no source/Map conflation.
+- **Reasoning-mode classification**: eliminativist verbal-manoeuvre engagement = Mode Three (boundary-marking, honest); Many-Worlds engagement = Mixed (Mode One in-branch epiphenomenalism argument + Mode Three bedrock residue). No editor-vocabulary label leakage in prose.
+- **Stability**: Article declared STABLE — third review, no critical issues, predicted-stable by the 2026-04-06 review. Should not be re-reviewed near-term.
+- **Output**: [deep-review-2026-05-26-subjective-aim](/reviews/deep-review-2026-05-26-subjective-aim/)
+
+## 2026-05-26T07:30:00+00:00 - condense
+- **Status**: Success
+- **File**: [mental-causation-and-downward-causation](/concepts/mental-causation-and-downward-causation/)
+- **Before**: 3522 words (over concepts hard threshold of 3500)
+- **After**: 3318 words (soft_warning; back under hard threshold)
+- **Reduction**: ~6% (204 words)
+- **Technique**: Cut genuine redundancy from the coalesced halves and tightened verbose prose throughout. No load-bearing content removed. Folded the §"Operates at incompleteness"/"Answers Kim" bullets into the MQI-mechanism lead (they restated the quantum-opening point already made two paragraphs earlier); condensed the over-long Delegatory Dualism subsection (heavy overlap with the dedicated [delegatory-causation](/concepts/delegatory-causation/)/[delegatory-dualism](/topics/delegatory-dualism/)/[trumping-preemption](/concepts/trumping-preemption/) articles); consolidated the Downward-Causation general-concept section (duplicated the opening's examples); tightened the Drainage/Supervenience, Overdetermination, Interventionism, Strong-Emergence, clinical-neuroplasticity, agent-causation, self-stultification, illusionist, falsifiability, and Relation-to-Site passages (verbose hedging, restated openers/closers).
+- **Preserved (per task)**: timing-gap RELOCATION framing + "no currently specified mechanism bridges the timing gap" statement intact; energy-neutrality degenerate-only qualification + Noether/symmetry-breaking (Cucu & Pitts 2019) response intact; Hagan/Hameroff/Tuszyński (2002) + Reimers/McKemmish (2009) dispute note intact; Kim exclusion-argument engagement and all citations/calibration hedges retained.
+- **Discipline**: "This is not X. It is Y." cliché count = 0 (none introduced, none present). Restored one explicit underdetermination marker ("compatible with both interpretations") as a faithful rephrase of the existing "materialist reading fits the same data" claim — no new claim. Post-edit `evaluate_anchoring()` returns no flags (underdetermination_marker_count=1, was 0).
+
+## 2026-05-26T06:25:20+00:00 - condense
+- **Status**: Success
+- **File**: [probability-problem-in-many-worlds](/topics/probability-problem-in-many-worlds/)
+- **Before**: 4000 words (exactly at topics hard threshold)
+- **After**: 3766 words
+- **Reduction**: ~6% (234 words)
+- **Technique**: Cut genuine redundancy, no content removed. Largest single cut: the §"The Axioms Are Not Constitutive" paragraph had grown a full framework-boundary articulation (if-branches-emergent / if-distinct-successor) that duplicates §"Where the Map's Disagreement Actually Falls"; condensed it to the in-framework premise-identification (branching indifference, non-question-begging) and added a pointer to the fuller treatment below. Also: folded the one-sentence "Precision Within Fuzzy Ontology" H3 into the Circularity section lead (Kent's approximate-branches point now opens that section); trimmed the restated second sentence of the betting/frequency objection; tightened the Sleeping-Pill, Saunders branch-counting, circularity-response, Graham, and Kent-axioms paragraphs (verbose appositives, restated closers).
+- **Preserved (per task)**: §"Where the Map's Disagreement Actually Falls" and §"What Would Success Even Look Like?" untouched; parsimony self-consistency handling (Relation-to-Site paras) untouched; Zhang (2026) preprint hedge, named-strategies list, collapse-burden narrowing, Kent open-speculation recast all intact; all 21 references and citations retained.
+- **Cliché audit**: "This is not X. It is Y." banned staccato pattern → 0 occurrences (the §131 "The Map's reply is not that... it is that..." is an in-sentence clarifying contrast, not the banned construct; left in place as load-bearing).
+- **Anchoring**: evaluate_anchoring 0 flags before → 0 flags after.
+- **No new claims introduced.** Published (draft: false retained).
+- **Note**: Stopped at 3766 rather than pushing to the 3000 soft target — the remaining body is tightly-argued, one distinct named objection/response per paragraph (~13 cited critiques across three recovery strategies) plus the protected framework-boundary sections. Further cuts would remove load-bearing argumentation and distinct citations, not redundancy.
+
+## 2026-05-26T06:08:19+00:00 - refine-draft
+- **Status**: Success
+- **File**: [mental-causation-and-downward-causation](/concepts/mental-causation-and-downward-causation/) (task argument was the stale path `topics/downward-causation.md`; that article was coalesced into this one in commit c4a16b01f, so the downward-causation content now lives here)
+- **Source review**: [pessimistic-2026-03-26](/reviews/pessimistic-2026-03-26/) Issues 2, 5 and Unsupported-Claims row (Hameroff citation)
+- **Word count**: 3455 → 3849 (+394; 96% of 3000 soft, under 4000 hard. Net increase is entirely the three honesty-required calibration additions; trimmed the two edited paragraphs to claw back ~24 words)
+- **Changes**:
+  - Fix 1 (timing gap, Issue 2): rewrote the "discrete observation alternative" para to say plainly that the Zeno mechanism *relocates* the three-order-of-magnitude gap rather than bridging it (coherence-survival → observation-cycle-rate, both unspecified); added explicit "No currently specified mechanism bridges the timing gap." Rewrote the section closing to honor constrains-vs-establishes and "removing a defeater ≠ supplying a mechanism."
+  - Fix 2 (energy injection, Issue 5): retitled the bullet "No energy injection (under degenerate outcomes)"; qualified that energy-neutrality is exact only for degenerate (equal-energy) outcomes, noted non-degenerate neural superpositions shift expected branch energy, and pointed those cases to the independent Noether symmetry-breaking response. Cross-referenced conservation-laws article.
+  - Fix 3 (Hameroff citation, Unsupported Claims): attributed the revised estimate to Hagan, Hameroff & Tuszyński (2002), *Phys. Rev. E* 65, 061901 — the canonical published rebuttal already cited across the corpus (verified, not fabricated). Added the contested-status note (Reimers et al. 2009; McKemmish et al. 2009) to match the linked [decoherence](/concepts/decoherence/) authority's "dispute is live" framing. Added all three references.
+- **Engagement modes** (editor-internal): no named-opponent reply touched; Tegmark engagement is in-domain empirical dispute (Mode-One-adjacent), unchanged.
+- **Cliché audit**: "This is not X. It is Y." → 0 occurrences (none present before or after).
+- **Anchoring**: evaluate_anchoring 3 flags → 2 flags (luck-objection flag cleared; the added hedges/underdetermination markers and the removal of one strong assertion improved calibration). Remaining 2 flags (observational-closure, cross-cultural-convergence) are pre-existing and unrelated to these fixes.
+- **Published**: yes (draft: false retained)
+
+## 2026-05-26T05:21:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [quantum-neural-timing-constraints](/topics/quantum-neural-timing-constraints/)
+- **Word count**: 2597 → 2597 (0; 87% of 3000 soft, ok)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 (sixth review; fully converged since fourth. Only change since 2026-04-07 was a mechanical wikilink repoint — `non-retrocausal-conscious-selection-models` → `forward-in-time-conscious-selection` — from a coalesce; the link resolves. All 13 refs present, all 14 wikilinks resolve. Calibration check clean: article explicitly disowns any "survives timing objections" framing and acknowledges post-decoherence selection's reduced empirical content. Timestamps updated only.)
+- **Engagement modes** (editor-internal): Tegmark = Mode Three (empirical-question/boundary marking) with Mode-One-adjacent in-domain dispute on decoherence parameters via Hagan et al. recalculation. No boundary-substitution, no label leakage.
+- **Output**: [deep-review-2026-05-26-quantum-neural-timing-constraints](/reviews/deep-review-2026-05-26-quantum-neural-timing-constraints/)
+
+## 2026-05-26T08:15:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [completeness-in-physics-under-dualism](/topics/completeness-in-physics-under-dualism/)
+- **Word count**: 2292 → 2363 (+71; 79% of 3000 soft, ok)
+- **Critical issues addressed**: 1 (Torres Alegre 2025 overstatement — dropped the GPT-structure/purification/no-signalling qualifiers and the form-not-existence distinction, added unsupported "no alternative rule is mathematically possible"; out of sync with canonical sibling [born-rule-and-the-consciousness-interface](/topics/born-rule-and-the-consciousness-interface/). Restored qualifiers and softened the inference to "compatible with—though not uniquely demonstrating".)
+- **Medium issues addressed**: 1 (Barrett 2007 dualist reading presented as uncontested — added minority-position signal while preserving the verified-faithful structural paraphrase)
+- **Enhancements made**: 3 ("This is not X. It is Y." cliché removed at lede line 35, line 92, line 100 — all rephrased to positive claims per style guide)
+- **Engagement modes** (editor-internal): Kim exclusion argument = Mode One → Mode Three (challenge premise 1 in-framework via closure equivocation, mark residual structure-is-all disagreement as boundary); hard-nosed physicalist on decoherence = Mode One. No boundary-substitution, no label leakage.
+- **Wikilinks/anchors**: all 15 targets resolve to live files; `quantum-completeness#no-go-theorems` and five `tenets#^...` anchors verified present. No archive repointing needed.
+- **Stapp/von Neumann three-process attribution**: verified correct, untouched. Sibling [physical-completeness](/concepts/physical-completeness/) consistency confirmed (no contradiction/duplication).
+- **3rd review; previously converged 2026-03-28** — only genuine drift was the Torres Alegre overstatement vs the more carefully-hedged born-rule article. Stable again.
+- **Output**: [deep-review-2026-05-26-completeness-in-physics-under-dualism](/reviews/deep-review-2026-05-26-completeness-in-physics-under-dualism/)
+
+## 2026-05-26T05:44:02+00:00 - deep-review
+- **Status**: Success
+- **File**: [multi-mind-collapse-problem](/concepts/multi-mind-collapse-problem/)
+- **Word count**: 2325 → 2598 (+273; 104% of 2500 soft, soft_warning, under 3500 hard)
+- **Critical issues addressed**: 0 (none found)
+- **Medium issues addressed**: 1 (causation/modulation overclaim — "not merely verbal" sentence rewritten)
+- **Enhancements made**: 2 (discharged standing P3 causation/modulation concern by conceding modulation IS causation and relocating the non-verbal distinction to sole-authorship denial + generation-vs-selection candidate-set distinction with falsifiable info-theoretic invariants; added post-March cluster cross-links [selection-only-channel](/concepts/selection-only-channel/), [born-rule-and-the-consciousness-interface](/topics/born-rule-and-the-consciousness-interface/))
+- **Engagement modes** (editor-internal): physicalist on modulation-vs-causation = Mode One → Mixed (concedes opponent's correct point, deepens with in-framework selection-only distinction the physicalist's own standards evaluate, states which reading the challenge defeats); Rovelli/RQM = Mode Three (framework-boundary marking). No boundary-substitution, no label leakage.
+- **Todo edits**: marked P2 deep-review task complete (todo.md:48); marked narrowed P3 causation/modulation task resolved-obsolete (todo.md:1370)
+- **5th review; previously converged** — closed the one genuine standing gap prior deep reviews missed (the pessimistic review raising it landed between the 03-06 and 03-29 deep reviews). Article stable again.
+- **Output**: [deep-review-2026-05-26-multi-mind-collapse-problem](/reviews/deep-review-2026-05-26-multi-mind-collapse-problem/)
+
+## 2026-05-26T05:36:03+00:00 - optimistic-review
+- **Status**: Success
+- **Content reviewed**: The MWI / quantum-selection / convergence-discipline cohort — six articles modified 04:18–12:00 UTC on 2026-05-26, after the day's first optimistic review (the 00:00–01:38 structural-gap set) and the 06:00 cross-review locked: [probability-problem-in-many-worlds](/topics/probability-problem-in-many-worlds/), [forward-in-time-conscious-selection](/topics/forward-in-time-conscious-selection/), [one-structure-three-vocabularies](/topics/one-structure-three-vocabularies/), [concession-convergence](/concepts/concession-convergence/), [locality](/concepts/locality/), [pragmatisms-path-to-dualism](/topics/pragmatisms-path-to-dualism/). Through-line: where consciousness could act in the quantum picture, and how to keep the act's coherence/convergence from being mistaken for evidence. Process Philosopher and Hardline Empiricist converge in praising the same passages across all six — the signature of honestly resolved tension; no tenet-as-evidence-upgrade slippage found. Two missing reciprocal cross-links identified (epistemology↔one-structure; possibility-probability-slippage from both MWI articles) plus a Convergence-Ladder synthesis opportunity. Two P3 refine-draft tasks added.
+- **Output**: [optimistic-2026-05-26b](/reviews/optimistic-2026-05-26b/)
+
+## 2026-05-26T05:33:06+00:00 - deep-review
+- **Status**: Success
+- **File**: [locality](/concepts/locality/)
+- **Word count**: 1423 → 1705 (+282; 68% of 2500 soft threshold)
+- **Critical issues addressed**: 0 (none found — citations, attribution, wikilinks all clean)
+- **Medium issues addressed**: 3 — (1) closed the standing Response 2 unfalsifiability gap from pessimistic-2026-03-28-c: reframed "mind side could be complex" as a logical-possibility argument at *speculative integration* on the [five-tier scale](/project/evidential-status-discipline/) + added a same-structure constraint (mental structure invoked for one puzzle must do the cross-puzzle work, not be re-minted per objection); (2) "trivial from its perspective" → "straightforward" (overclaim); (3) "the locality objection is one challenge" → "among the more serious challenges" (understatement)
+- **Enhancements made**: 1 cross-link to the post-March quantum-interface cluster ([born-rule-and-the-consciousness-interface](/topics/born-rule-and-the-consciousness-interface/), corridor/selection reading) in the binding section + Further Reading
+- **Citations verified**: Bell 1964 (canonical), Huggett & Wüthrich 2013 (web-verified: vol 44, 276-285), Kim 2005, no-signaling theorem claim — all accurate; no Aspect/2015-loophole over-reach (article rests on Bell alone)
+- **Wikilinks**: all resolve live; [interactionist-dualism](/concepts/interactionist-dualism/) resolves to the live concept page, not the coalesced archive duplicate at archive/arguments/ — NOT repointed (resolves-to-live, not genuinely archive-only)
+- **Named-opponent engagement modes**: Response 1 (objector/Dennett) Mode Two (unearned universal-locality foundational move); new Response 2 honest-limit paragraph Mixed→Mode Three residue (boundary marked honestly, no label leakage)
+- **Task coordination**: P3 causation/modulation task (todo.md) narrowed — locality/mind-side half discharged; causation-vs-modulation half remains in multi-mind-collapse-problem.md (folded into its open P2 deep-review)
+- **Output**: [deep-review-2026-05-26-locality](/reviews/deep-review-2026-05-26-locality/)
+
+## 2026-05-26T06:00:00+00:00 - cross-review
+- **Status**: Success
+- **Lens**: [one-structure-three-vocabularies](/topics/one-structure-three-vocabularies/)
+- **Articles cross-reviewed**: [delegatory-dualism](/topics/delegatory-dualism/), [bandwidth-of-consciousness](/topics/bandwidth-of-consciousness/), [physical-completeness](/concepts/physical-completeness/)
+- **Scope**: Light link-and-consistency cross-review (a: reciprocal link; b: no contradiction with source framing; c: no over-reading of convergence as evidence). NOT a deep-review of any source.
+- **Reciprocal links installed**: 2 (delegatory-dualism, physical-completeness — each as a single clause at the inline register statement, carrying the coherence-not-confirmation warning). bandwidth already linked in Further Reading; not duplicated.
+- **Consistency (check b)**: all three clean — synthesis matches each source's own framing of its term.
+- **Convergence over-reading (check c)**: all three clean. delegatory-dualism exemplary ("coherence of the combination is not itself evidence"). bandwidth's "convergence" language refers to the distinct grain-mismatch evidence programme, not the three-vocabularies redescription. physical-completeness's "convergence" refers to quantum-foundations no-go results.
+- **Word deltas**: delegatory-dualism 3779→3827 (+48); bandwidth 3934→3934 (0); physical-completeness 2552→2603 (+51). All under hard caps.
+- **Discipline**: cliché audit zero; evaluate_anchoring() no flags on both touched articles; evidential-status discipline honored (clauses downgrade not upgrade).
+- **Output**: [cross-review-2026-05-26-one-structure-three-vocabularies](/reviews/cross-review-2026-05-26-one-structure-three-vocabularies/)
+
+## 2026-05-26T05:18:26+00:00 - deep-review
+- **Status**: Success
+- **File**: [one-structure-three-vocabularies](/topics/one-structure-three-vocabularies/)
+- **Word count**: 1935 → 1998 (+63)
+- **Critical issues addressed**: 1 (conflated/fabricated Saad quote in Register A — a blockquote attributed to "(Saad 2025)" spliced the verbatim Subset Law term with the Map's own authorial gloss from [delegatory-dualism](/topics/delegatory-dualism/); rewrote so only "default causal profile" is attributed to Saad and the counterfactual gloss is attributed to the Map's article. The load-bearing "default" qualifier preserved.)
+- **Medium issues addressed**: 1 (engaged [epistemology-of-convergence-arguments](/topics/epistemology-of-convergence-arguments/) in the body — tying the "weakest form / no independent witnesses" claim to the independence proviso and common-cause screen — rather than leaving it in Further Reading only)
+- **Enhancements made**: 2 (attribution repair; convergence-epistemology cross-link)
+- **Attribution check (§2.5)**: passed after fix — all source claims verified verbatim/accurate against delegatory-dualism, delegation-meets-quantum-selection, bandwidth-of-consciousness, physical-completeness (10 bits/s, 10⁹ bits/s, Schultze-Kraft 2016 ~200ms, No-Many-Worlds presupposition, empirical-equivalence concession, Saad 2025 citation all confirmed)
+- **Calibration (§2 possibility/probability slippage)**: no slippage — the article is itself a model of the discipline; explicitly places convergent redescription below cross-mechanism convergence and declines every evidential upgrade. A tenet-accepting reviewer would flag nothing as overstated.
+- **Reasoning-mode (§2.6)**: no named-opponent refutation mode, no boundary-substitution, no editor-label leakage. Physicalist readings conceded as live.
+- **Output**: [deep-review-2026-05-26-one-structure-three-vocabularies](/reviews/deep-review-2026-05-26-one-structure-three-vocabularies/)
+
+## 2026-05-26T05:14:54+00:00 - refine-draft
+- **Status**: Success
+- **File**: [concession-convergence](/concepts/concession-convergence/)
+- **Original score**: not re-scored (targeted research-chain refine, not general review)
+- **Source**: unconsumed-research chain from [non-western-physicalist-narrowing-cross-observer-2026-05-26](/research/non-western-physicalist-narrowing-cross-observer-2026-05-26/)
+- **Changes**:
+  - Rewrote §"Three Discriminating Tests" → "Non-Western theories" test: replaced the thin one-sentence gap claim with a better-grounded four-tradition treatment (Chinese qi-naturalism / contemporary analytic; Japanese naturalized phenomenology [Taguchi/CHAIN, Yuasa]; Buddhist Abhidharma citta-caitta; Cārvāka/Lokāyata), naming which conjunct each fails of (physicalist) AND (narrows internally) AND (independent of Western lit).
+  - Recorded the Cārvāka disconfirming nuance honestly: the one genuinely independent indigenous physicalism is a broad emergentism that did NOT narrow, with type-specificity pressure supplied externally by Nyāya opponents — inverting the concession-convergence dynamic. Flagged as source-limited (fragmentary, hostile-source-mediated) → suggestive nuance, not firm disconfirmation, per [evidential-status-discipline](/project/evidential-status-discipline/).
+  - Added bounded caveat to the "Directionality" feature pointing to the Cārvāka case; sharpened the cross-observer-convergence criterion to say the cross-tradition cell holds a suggestive contrary point rather than being neutrally empty.
+  - Held the finding as a *confirmed gap*, NOT a manufactured convergence: did not upgrade any tier assignment; "looked harder, gap held" did not slide into "architectural finding is stronger."
+- **Evidential-status discipline**: honoured. evaluate_anchoring() — original 0 flags; my first pass introduced 4 flags (lowered hedge density 1.89→1.76, added 1 strong-assertion verb "confirms"). Fixed by replacing "confirms"→"finds"/calibrated hedges and adding source-limited hedging to the Cārvāka passage → back to 0 flags, hedge density 2.63, 0 strong-assertion verbs.
+- **Length**: start 3177w body → end 3431w body (net +254; concepts HARD threshold 3500, ~69w margin). Trimmed COGITATE/IIT parentheticals and verbose phrasing elsewhere to offset additions. Did not re-inflate.
+- **"This is not X. It is Y." cliché audit**: 0 instances.
+- **Published**: yes (draft: false preserved)
+
+## 2026-05-26T05:01:00+00:00 - literature-drift-review
+- **Status**: Success
+- **Article**: [psychedelics-and-the-filter-model](/topics/psychedelics-and-the-filter-model/)
+- **Research area**: psychedelics
+- **Median citation year**: 2022 (4 years behind ai_modified 2026-05-14; below the 5-year lag threshold)
+- **Recent papers found**: 4 distinct 2025 items (MDPI neural-circuits review Jan 2025; ScienceDirect psilocybin neuroimaging systematic review 2025; "Psychedelics Align Brain Activity with Context" bioRxiv 2025 preprint; brain-network connectivity scoping review)
+- **Missing topically-appropriate**: 0 — the 2025 results (entropy/repertoire increase, integration-over-sensory shift, REBUS) are already engaged by the article via Siegel 2024, Timmermann 2024, Doss/Považan 2022, Mason 2020 and the entropic-brain/REBUS discussion; the one genuinely new item is a preprint (excluded per skill rules)
+- **Outcome**: no-drift
+- **Task generated**: none
+
+## 2026-05-26T12:00:00+00:00 - refine-draft
+- **Status**: Success
+- **File**: [probability-problem-in-many-worlds](/topics/probability-problem-in-many-worlds/)
+- **Original score**: not re-scored (targeted fixes from pessimistic-2026-05-26b, a well-calibrated article)
+- **Changes**: Applied the five fixes from [pessimistic-2026-05-26b](/reviews/pessimistic-2026-05-26b/). (1) HIGH — mirrored the sibling born-rule article's hedge on Zhang (2026): "identifies" → "argues, in a preprint not yet independently verified"; "making every derivation covertly circular" → conditional "which would make every derivation covertly circular if the analysis holds". (2) MED — reconciled the "three strategies / all five strategies" count mismatch by naming Zhang's leading strategies (Gleason, Deutsch-Wallace, Zurek envariance, epistemic, frequentist) inline, supplying the missing antecedent. (3) MED — narrowed "Collapse interpretations face none of these burdens" → "none of the *probability* burdens" and added that collapse carries its own preferred-basis and mechanism burdens. (4) MED — recast the Kent→Dualism inference as explicitly-marked open speculation (Kent's result is about *these bridging axioms*, not rationality in general). (5) STYLE — removed banned "This is not X but Y" construct at the Zhang paragraph; rephrased to a direct positive claim. Optional: softened intro "strong independent support" → "independent support" to match the calibrated body; added one clause noting the singular "I" is itself a contested posit (Parfit/Nagarjuna), not a neutral datum. Preserved the protected framework-boundary sections (§"Where the Map's Disagreement Actually Falls", §"What Would Success Even Look Like?") and parsimony self-consistency handling. Net word count held at the 4000 topics hard cap (3999 → 4000) by offsetting hedge/clause additions with redundancy trims in the betting-frequency, circularity, and self-locating-uncertainty sections.
+- **Engagement classification**: engagement with Wallace/Deutsch — Mode Three (framework-boundary marking), preserved as-is; engagement with Kent — downgraded the Dualism-resonance from implied support to open speculation (boundary honesty). No mode labels in article body. Banned "This is not X. It is Y." cliché count: 0. evaluate_anchoring(): no flags. evaluate_symmetry(): None (clean).
+- **Published**: yes
+
+## 2026-05-26T04:55:00+00:00 - pessimistic-review
+- **Status**: Success
+- **Content reviewed**: `topics/probability-problem-in-many-worlds.md` (4,100 words; Tenet-4 load-bearing; deep review 46 days stale; never previously the standalone focus of a pessimistic review). Targeted as a recently-edited (2026-05-25 refine + condense) article whose framework-boundary calibration warranted adversarial stress-testing.
+- **Findings**: 1 High + 3 Medium + 1 style issue. High — Zhang (2026) preprint asserted as flat fact here while the sibling born-rule article hedges it as "not yet independently verified" (cross-article source-hedging inconsistency). Medium — "three strategies" (intro) vs. "all five leading strategies" (line 139) count mismatch; "Collapse interpretations face none of these burdens" overclaim; loose Kent→Dualism inference. Style — banned "This is not X but Y" construct at line 139. Strengths preserved: exemplary framework-boundary discipline, full-resolution Deutsch-Wallace treatment, correct parsimony self-consistency handling, no label leakage, altered-state audit N/A.
+- **Output**: [pessimistic-2026-05-26b](/reviews/pessimistic-2026-05-26b/)
+- **Task added**: P2 refine-draft for the five fixes.
+
+## 2026-05-26T04:42:00+00:00 - research-topic
+- **Status**: Success
+- **Topic**: Non-Western physicalist theories to test the concession-convergence cross-observer gap
+- **Output**: [non-western-physicalist-narrowing-cross-observer-2026-05-26](/research/non-western-physicalist-narrowing-cross-observer-2026-05-26/)
+- **Sources consulted**: 9 (SEP Abhidharma, SEP chinese-mind, IEP Carvaka, DRL Chinese-PoM blueprint, Taguchi/CHAIN profile, Yuasa, Hengwei Li 2020, qi-naturalism paper, Charvaka)
+- **Finding**: Gap CONFIRMED — no non-Western tradition supplies a physicalist theory that narrows toward type-specificity under its own internal logic AND is independent of the Western literature. Chinese qi-naturalism = non-reductive; contemporary Chinese analytic PoM = dialogue-dependent (channel open); Japanese naturalized phenomenology (Taguchi/CHAIN) = non-reductive enactivist; Abhidharma = mental irreducible to rūpa (taxonomic, non-physicalist); Cārvāka = genuinely independent physicalism BUT broad emergentism that did NOT narrow — narrowing pressure came externally from Nyāya, a mild caveat against the directionality feature.
+- **Evidential discipline**: No convergence manufactured; confirmed gap reported as legitimate finding; Cārvāka source-limited (fragmentary texts) so its non-narrowing is suggestive not firm.
+
+## 2026-05-26T00:00:00+00:00 - expand-topic
+- **Status**: Success
+- **Topic**: One structure, three vocabularies (default causal profile / prepared options / Born-rule weights)
+- **Output**: [one-structure-three-vocabularies](/topics/one-structure-three-vocabularies/)
+- **Word count**: 1935 (ok — within short–medium target, 64% of topics soft max)
+- **Based on research**: No (synthesis of three existing cohort articles)
+- **Birch discipline**: Framed throughout as convergent *redescription* (one structure, three registers) — explicitly weaker than [cross-mechanism-convergence](/concepts/cross-mechanism-convergence/); coherence raises posterior on "one structure" but NOT on "structure is real / tenet is true." Mirrors [evidential-status-discipline](/project/evidential-status-discipline/) operative phrasing.
+- **Reciprocal hooks**: added to [delegation-meets-quantum-selection](/topics/delegation-meets-quantum-selection/) and [bandwidth-of-consciousness](/topics/bandwidth-of-consciousness/) Further Reading
+- **Tenet alignment**: Tenets 2 (minimal quantum interaction) and 3 (bidirectional interaction); bearing is structural-clarification, not support
+- **Section cap**: topics 247/250 at execution — slot available, placed as topic
+
+## 2026-05-26T00:00:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [bidirectional-interaction](/concepts/bidirectional-interaction/)
+- **Word count**: 2496 → ~2516 (+20; two References entries only — Dennett 1991, Frankish 2016)
+- **Critical issues addressed**: 0 (none found — fifth review of a stable tenet article)
+- **Medium issues addressed**: 0
+- **Enhancements made**: 1 (added formal Dennett/Frankish citations resolving a three-times-carried-forward low item; both were cited parenthetically without References entries)
+- **Attribution check**: passed (Randeniya 10%, GNWT three functions, Marzbani 302/18, Schwartz 18 participants, Kim four-premise — all verify against sources)
+- **Calibration check**: passed (no possibility/probability slippage; honest hedging throughout, materialist counter-explanation flagged in every empirical stream)
+- **Named-opponent engagements**: illusionism (Frankish/Dennett) Mode One/Two — internal dilemma on "seeming," no boundary-substitution; Kim exclusion argument Mode Three — tenet-rejection of premise 1 stated plainly. No editor-vocabulary label leakage.
+- **Cross-links**: all verified resolving (4 targets live in topics/, addressed by bare-slug wikilinks)
+- **Output**: [deep-review-2026-05-26-bidirectional-interaction](/reviews/deep-review-2026-05-26-bidirectional-interaction/)
+
+## 2026-05-26T04:23:59+00:00 - refine-draft
+- **Status**: Success
+- **File**: [targeted-lesion-discriminating-tests-between-production-and-filter-readings-of-the-memory-hierarchy](/topics/targeted-lesion-discriminating-tests-between-production-and-filter-readings-of-the-memory-hierarchy/)
+- **Trigger**: topic-concept anchoring audit 2026-05-26 (Audit Three). Over-claimed vs anchor [mind-brain-separation](/concepts/mind-brain-separation/) (and [filter-theory](/concepts/filter-theory/)); failed hedge_density (1.81/kw vs ≥4.49 target for the mind-brain-separation anchor) and underdetermination_markers (anchor declares underdetermination 1×, topic had 0).
+- **Changes**: Calibration-only, voice preserved, central thesis (which targeted-lesion tests *would* discriminate the readings) unchanged.
+  - Added explicit underdetermination acknowledgment to the lead and woven through: "empirically equivalent", "underdetermined by the data", "does not decide between them; compatible with both readings" — apt and honest since the article's whole point is that these are *proposed* discriminators, not settled results. Underdetermination markers 0 → 5.
+  - Added 15 contingency hedges ("would require/depend", "appear", "seems", "may", "might", "perhaps", "could", "open question") only at genuinely contingent junctures: the focal-perturbation divergence, whether a dissociation could be cleanly attributed, the retrograde-amnesia residue assignment, the REM-lesion inference, the TFUS maturity claims, the near-discriminating-cases framing. Hedge count 6 → 21 (1.81/kw → 6.21/kw).
+  - Preserved "constrains vs establishes" discipline; no proposed/hypothetical test implied to have returned discriminating results. "demonstrates" (Verhagen et al. 2024) left intact as it describes an actual published empirical result, not the production/filter dispute. Strong-assertion density 0.30/kw unchanged (well under 1.5× anchor cap).
+- **Word count**: 3309 → 3381 (net +72; trimmed verbose passages to offset added hedging; under topics hard cap 4000; soft 3000 was already exceeded pre-pass).
+- **Calibration result**: evaluate_anchoring() returns 0 flags; hedge_density 6.21/kw ≥ 4.49 target (passes on own merit). "This is not X. It is Y." cliché count: 0 preserved.
+- **Original score**: not separately scored (calibration-only anchoring refine)
+- **Published**: yes
 
 ## 2026-05-26T04:18:25+00:00 - refine-draft
 - **Status**: Success

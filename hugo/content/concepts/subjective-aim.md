@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-13
-ai_modified: 2026-04-30 18:10:00+00:00
+ai_modified: 2026-05-26 06:33:40+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -18,12 +18,12 @@ concepts:
 - '[[mental-causation-and-downward-causation]]'
 created: 2026-02-13
 date: &id001 2026-02-13
-description: Whitehead's subjective aim—each occasion's directedness toward its own
-  completion—illuminates the structure of conscious selection without requiring panpsychism.
+description: Whitehead's subjective aim—each occasion's directedness toward its completion—illuminates
+  the structure of conscious selection without requiring panpsychism.
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-04-06 15:20:00+00:00
+last_deep_review: 2026-05-26 06:33:40+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'

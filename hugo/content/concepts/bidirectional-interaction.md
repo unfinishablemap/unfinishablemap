@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-23
-ai_modified: 2026-05-08 20:35:00+00:00
+ai_modified: 2026-05-26 00:00:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -22,7 +22,7 @@ description: Consciousness and matter causally influence each other. This tenet 
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-04-06 21:25:00+00:00
+last_deep_review: 2026-05-26 00:00:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -182,6 +182,8 @@ Together with Minimal Quantum Interaction, this tenet commits the Map to [intera
 ## References
 
 1. Dehaene, S., Lau, H., & Kouider, S. (2017). "What is consciousness, and could machines have it?" *Science*, 358(6362), 486-492.
+1. Dennett, D. C. (1991). *Consciousness Explained*. Little, Brown and Company.
+1. Frankish, K. (2016). "Illusionism as a theory of consciousness." *Journal of Consciousness Studies*, 23(11-12), 11-39.
 1. Kim, J. (2005). *Physicalism, or Something Near Enough*. Princeton University Press.
 1. Randeniya, R. (2025). "Neural correlates of unconscious processing in fMRI: Does brain activity contain more information than can be consciously reported?" *Neuroscience of Consciousness*, 2025(1), niaf042.
 1. Stapp, H. P. (2007). *Mindful Universe: Quantum Mechanics and the Participating Observer*. Springer.

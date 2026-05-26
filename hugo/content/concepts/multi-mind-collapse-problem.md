@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-18
-ai_modified: 2026-03-29 21:54:00+00:00
+ai_modified: 2026-05-26 05:44:02+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -24,7 +24,7 @@ description: When multiple minds observe entangled systems, whose consciousness 
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-03-29 21:54:00+00:00
+last_deep_review: 2026-05-26 05:44:02+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -77,9 +77,9 @@ Under interface locality, there is no coordination problem for the same reason t
 
 The Map's [prebiotic-collapse](/concepts/prebiotic-collapse/) resolution extends interface locality with a crucial addition: consciousness doesn't cause all collapse; it modulates collapse specifically in brains.
 
-Physical mechanisms—gravitational self-collapse (Penrose), spontaneous localization (GRW), or unknown processes—provide the baseline. Collapse happens throughout the universe without observers. Stars form, chemistry proceeds, dice land face-up, all through physical processes that produce definite outcomes.
+Physical mechanisms—gravitational self-collapse (Penrose), spontaneous localization (GRW), or unknown processes—provide the baseline. Collapse happens throughout the universe without observers: stars form, chemistry proceeds, dice land face-up, all through physical processes that produce definite outcomes.
 
-What consciousness adds is *modulation*. In systems where collapse interfaces with neural processing, consciousness biases which outcomes become actual. The specific mechanism remains open—proposals include quantum Zeno-like attentional effects (Stapp 2007), orchestrated reduction (Hameroff & Penrose 2014), or yet-unidentified processes. What matters for the multi-mind resolution is not the mechanism's details but its locality: modulation is brain-specific.
+What consciousness adds is *modulation*. In systems where collapse interfaces with neural processing, consciousness biases which outcomes become actual. The specific mechanism remains open—proposals include quantum Zeno-like attentional effects (Stapp 2007), orchestrated reduction (Hameroff & Penrose 2014), or yet-unidentified processes. What matters for the multi-mind resolution is not the mechanism but its locality: modulation is brain-specific.
 
 This combination dissolves the multi-mind problem:
 
@@ -87,18 +87,20 @@ This combination dissolves the multi-mind problem:
 
 - **Neural systems collapse with modulation.** Within Alice's brain, her consciousness modulates which neural patterns become actual. Within Bob's brain, his consciousness does the same. No coordination is needed because each operates only on its own substrate.
 
-- **Shared observations pose no problem.** When Alice and Bob both observe a photon, the photon's position was determined by objective collapse. Their respective brain states—the neural patterns representing "photon here" vs "photon there"—are each modulated by their own consciousness. But since both are processing the same physical fact (the already-collapsed photon position), their experiences naturally agree.
+- **Shared observations pose no problem.** When Alice and Bob both observe a photon, its position was already fixed by objective collapse. Each brain then modulates its own neural representation of that same physical fact, so their experiences naturally agree without any coordination.
 
 ## Why This Works
 
-The key insight: the multi-mind problem assumes consciousness *causes* collapse universally. The resolution distinguishes causation from modulation:
+The key insight: the multi-mind problem assumes consciousness *causes* collapse universally. The resolution narrows that role to modulation. But "modulation" must be defined carefully, because a natural objection is that it is mere relabelling—biasing which outcome occurs among alternatives is selecting among them, and selecting is a paradigm case of causation. The objection is partly right and worth conceding plainly: modulation, on this view, *is* a form of causation. Consciousness is genuinely causally efficacious, exactly as the [Bidirectional Interaction](/tenets/#bidirectional-interaction) tenet requires. The word "modulation" is not chosen to deny that consciousness causes anything.
 
-- **Causation** means producing collapse where none would otherwise occur. If consciousness causes collapse, then without observers, superpositions persist indefinitely—generating the prebiotic problem and the multi-mind coordination problem.
-- **Modulation** means biasing the outcomes of collapse events that physical processes already produce. Objective collapse mechanisms deliver definite outcomes throughout the universe. Consciousness adds a *selection bias* within neural systems, favouring some outcomes over others from within the space of physically possible results.
+What it denies is two specific further claims, and the denial does metaphysical and empirical work the bare word "causation" obscures:
 
-This distinction is not merely verbal. Causation requires coordinating who collapses what; modulation requires only that each consciousness biases its own neural substrate. The physical world reaches definite states independently, and consciousness influences *which* definite state its own brain settles into.
+- **Not sole authorship of definite outcomes.** Universal-cause models make consciousness the *only* thing that turns superpositions into definite states; without observers, nothing collapses. Modulation rejects that monopoly: objective collapse mechanisms (Penrose, GRW, or unknown) produce definite outcomes throughout the universe independently. This is the difference that dissolves the multi-mind and prebiotic problems—coordination is needed only if minds are jointly responsible for every shared outcome, and on the modulation view they are not.
+- **Not contribution to the candidate set.** The deeper, genuinely non-verbal distinction is between a *generation channel*, on which mind helps determine *which alternatives* are physically available, and a *[selection-only channel](/concepts/selection-only-channel/)*, on which mind can only redistribute probability over a candidate set fixed entirely by upstream physical dynamics. The Map's interface is selection-only: consciousness picks within a space it did not author. This is not a matter of marketing because it carries falsifiable consequences—a selection-only channel obeys a per-event information ceiling of log₂(N) bits in the brain-prepared candidate set, and preserves [Born-rule statistics](/topics/born-rule-and-the-consciousness-interface/) across many trials, driving the long-run signed influence toward the appearance of noise. A generation channel need obey neither bound. Two channels can produce the same single outcome while differing sharply in these structural invariants.
 
-Each consciousness is an island, causally isolated from other consciousnesses at the quantum level. There is no "meeting point" where selections must be reconciled, because they operate on entirely different substrates. Agreement between observers doesn't require coordination—it reflects external reality determined by objective physical processes that all observers independently access.
+So the physicalist's challenge succeeds against the weak reading—if "modulation" meant only "non-sole causation," the gain over "causation" would indeed be slight. It fails against the strong reading: the selection-only restriction is a substantive structural claim, evaluable by the physicalist's own information-theoretic standards, not a softer synonym for causing. For the multi-mind resolution specifically, only the first denial is load-bearing—the physical world reaches definite states independently, so consciousness influences *which* definite state its own brain settles into without needing to coordinate with any other mind.
+
+Each consciousness is an island, causally isolated from other consciousnesses at the quantum level. There is no "meeting point" where selections must be reconciled, because they operate on entirely different substrates—and agreement between observers reflects the shared external reality that objective collapse fixes independently of any of them.
 
 ## The Decoherence Challenge
 
@@ -189,6 +191,7 @@ This resolution preserves the Map's commitment to consciousness as causally effi
 - [decoherence](/concepts/decoherence/) — The coherence timescale objection and quantum biology responses
 - [haecceity](/concepts/haecceity/) — Why indexical identity matters for multi-mind questions
 - [witness-consciousness](/concepts/witness-consciousness/) — Phenomenology of being *this* observer
+- [selection-only-channel](/concepts/selection-only-channel/) — The information-theoretic invariants that make "modulation" a substantive structural claim rather than a synonym for causation
 
 ## References
 

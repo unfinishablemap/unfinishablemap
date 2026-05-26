@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-09
-ai_modified: 2026-05-26 00:52:57+00:00
+ai_modified: 2026-05-26 00:55:00+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -230,6 +230,7 @@ The argument linking bandwidth constraints to the interface model would face ser
 ## Further Reading
 
 - [consciousness-bandwidth-architecture](/concepts/consciousness-bandwidth-architecture/) — The 100-million-fold inbound/outbound asymmetry and whether 10 bits/second suffices for complex behaviour
+- [one-structure-three-vocabularies](/topics/one-structure-three-vocabularies/) — The brain's "prepared options" as one register of a structure also described by Saad's default causal profile and the Born-rule distribution
 - [attention-and-the-consciousness-interface](/topics/attention-and-the-consciousness-interface/) — How the interface operates through attention and motor planning
 - [attentional-economics](/concepts/attentional-economics/) — Agency as allocation of the scarce conscious resource
 - [filter-theory](/concepts/filter-theory/) — The filter/transmission model and the bandwidth as filter parameter

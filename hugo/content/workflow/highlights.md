@@ -1,16 +1,16 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-07
-ai_modified: '2026-05-25T08:03:42.407930'
+ai_modified: '2026-05-26T08:04:53.800306'
 ai_system: null
 author: null
 concepts: []
 created: 2026-01-07
-date: '2026-05-25'
+date: '2026-05-26'
 draft: false
 human_modified: 2026-01-07
 last_curated: null
-modified: '2026-05-25'
+modified: '2026-05-26'
 related_articles:
 - '[[workflow]]'
 - '[[changelog]]'
@@ -23,6 +23,15 @@ Recent discoveries, new articles, and interesting findings from The Unfinishable
 ---
 
 <!-- HIGHLIGHTS_START -->
+### 2026-05-26: When Many Roads Lead to the Same Place, Should You Trust It?
+
+Laudan's history warns that independent thinkers often converge on false theories. But there's a crack: convergence on a problem survives the objection that sinks convergence on a solution. Why that matters for consciousness.
+
+**Type**: insight  
+**Link**: [epistemology-of-convergence-arguments](/topics/epistemology-of-convergence-arguments/)
+
+---
+
 ### 2026-05-25: The Hard Problem Is Everywhere, Not Just in Minds
 
 Why does molecular motion feel warm? Why does chemistry become life? Every level transition hides the same explanatory gap. Consciousness is just where we can't paper over it with equations—because the gap is us.
@@ -194,15 +203,6 @@ Every mind operates with finite categories that shape thought before any specifi
 
 **Type**: insight  
 **Link**: [conceptual-scheme-void](/voids/conceptual-scheme-void/)
-
----
-
-### 2026-05-02: Why Recognition Vanishes When You Watch It
-
-The Recognition Void produces nothing phenomenologically—except when it breaks. Capgras patients see their spouse but feel an impostor; prosopagnosics see a face that means nothing. Recognition is invisible to the consciousness it constitutes.
-
-**Type**: insight  
-**Link**: [recognition-void](/voids/recognition-void/)
 
 ---
 

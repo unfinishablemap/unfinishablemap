@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-04-06
-ai_modified: 2026-05-25 20:35:43+00:00
+ai_modified: 2026-05-26 07:30:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -40,7 +40,7 @@ Clinical and neurological evidence is routinely cited in debates about conscious
 
 ## The Inferential Gap Problem
 
-In standard clinical research, the chain from evidence to conclusion is relatively direct: a drug reduces symptoms, an imaging study reveals structural changes, a controlled trial demonstrates efficacy. The question "does this treatment work?" admits clear operationalisation.
+In standard clinical research, the chain from evidence to conclusion is relatively direct: a drug reduces symptoms, an imaging study reveals structural changes, a controlled trial supports a verdict on efficacy. The question "does this treatment work?" admits clear operationalisation.
 
 Consciousness research borrows clinical methodology but asks a fundamentally different question: does this clinical finding tell us something about the *metaphysical nature* of mind? This is the inferential gap — the distance between "therapy changed brain scans" and "consciousness causally reshapes neural architecture." The [methodology of consciousness research](/topics/methodology-of-consciousness-research/) faces this gap at every level, from experimental design to philosophical interpretation.
 
@@ -92,7 +92,7 @@ Does the study include active controls that isolate the consciousness-relevant v
 
 ### 3. Interpretive Range
 
-How many theoretical frameworks are consistent with the finding? Evidence is most philosophically probative when it differentially supports one framework over another. Pathway divergence (top-down vs bottom-up neural routes for psychological vs pharmacological treatment) narrows the interpretive range more than simple "therapy changed brain scans" findings, because it places structural constraints on how the explanation must work.
+How many theoretical frameworks are consistent with the finding? Evidence is most philosophically probative when it differentially supports one framework over another. Pathway divergence (top-down vs bottom-up neural routes for psychological vs pharmacological treatment) appears to narrow the interpretive range more than simple "therapy changed brain scans" findings, because it places structural constraints on how the explanation must work. Even here the narrowing may be partial rather than decisive: a physicalist can reply that different physical inputs naturally take different physical routes, so the divergence constrains the *form* a successful explanation must take without yet selecting between dualist and physicalist versions of it.
 
 ### 4. Convergence Across Methods
 
@@ -100,7 +100,9 @@ Does the finding converge with evidence from different methodologies — clinica
 
 ### 5. Honest Calibration
 
-Does the presentation match the evidence strength? The most common failure in consciousness research is overclaiming — presenting suggestive evidence as if it were demonstrative. Honest calibration means using language that tracks what the evidence actually shows: "compatible with" for underdetermined findings, "suggestive of" for findings that narrow the interpretive range, "demonstrates" only for findings with independent replication and active controls that rule out major alternative explanations.
+Does the presentation match the evidence strength? The most common failure in consciousness research is overclaiming — presenting suggestive evidence as if it were demonstrative. Honest calibration means using language that tracks what the evidence actually shows: "compatible with" for underdetermined findings, "suggestive of" for findings that narrow the interpretive range, and "demonstrated" reserved only for findings with independent replication and active controls that rule out major alternative explanations.
+
+A standard worth stating explicitly governs all five: even methodologically high-quality clinical evidence typically underdetermines the dualism-versus-physicalism question. A well-powered, well-controlled, independently replicated finding may settle *that* a treatment works and *which* neural pathways it engages while leaving the metaphysical reading open — the same finding is usually compatible with both interpretations, the dualist and the physicalist. The evidence does not adjudicate between them. Quality standards therefore do important but bounded work: they constrain which inferences are warranted without, on their own, settling the metaphysics. A finding can clear every methodological bar and still leave the question of consciousness's nature exactly where it was. Raising evidence quality removes defeaters and narrows the space of tenable readings; it does not by itself convert a metaphysically neutral result into support for one framework over another.
 
 ## Common Failures in Evidence Presentation
 
