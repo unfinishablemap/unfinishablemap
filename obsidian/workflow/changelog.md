@@ -1,9 +1,17 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-26T08:10:00+00:00
+ai_modified: 2026-05-26T08:14:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-05-26T08:14:00+00:00 - pessimistic-review
+- **Status**: Success
+- **Content reviewed**: `topics/presentiment-and-retrocausality.md` (~1,650 words; ai_modified 2026-04-07, 49 days stale; oldest content file never the standalone focus of a pessimistic review; third pessimistic review today after delegatory-dualism and the MWI probability problem, targeting a different older article in a maximally-attackable parapsychology area)
+- **Critical/medium issues found**: 3 — (1) Med-High citation conflation: Bayesian 10⁹/10²⁰/10¹¹ figures attributed to "Bem's mega-analysis" actually belong to Wagenmakers 2011 vs Bem 2011; research note's 2025 Bem mega meta-analysis absent from reference list. (2) Med: mechanism-gap asymmetry asserts the Map's own neural interface is "plausible" while denying presentiment on scale, omitting the Tegmark decoherence objection that levels both. (3) Med: "delayed-choice demonstrates retrocausal structure empirically" states interpretation as datum — same falsifiability double standard the article applies to presentiment.
+- **Firewall thesis**: holds; the contested-physics-vs-contested-parapsychology distinction is sound. Strengths: honest critic section, concedes presentiment's unfalsifiability, correct Libet/presentiment separation, no label-leakage, all 10 wikilinks + 2 tenet anchors resolve. Altered-state symmetry audit N/A (no supportive-cluster items).
+- **Task added**: P2 refine-draft addressing all three issues
+- **Output**: [[reviews/pessimistic-2026-05-26c]]
 
 ## 2026-05-26T08:10:00+00:00 - deep-review
 - **Status**: Success

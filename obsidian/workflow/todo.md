@@ -37,6 +37,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
+### P2: Address citation conflation and mechanism-gap double-standard in topics/presentiment-and-retrocausality.md
+- **Type**: refine-draft
+- **Status**: pending
+- **Notes**: Pessimistic review 2026-05-26c found three issues. (1) Med-High: the Bayesian passage (l.65) attributes the "10⁹ Bayes factor / 10²⁰ prior / 10¹¹-against" figures to "Bem's mega-analysis," but these originate in Wagenmakers et al. (2011) reanalyzing Bem (2011); the research note dates the BF to a 2025 Bem et al. mega meta-analysis not present in the reference list — pin to a cited source and resolve the 2011/2016/2025 conflation. (2) Med: mechanism-gap asymmetry (l.77) grants the Map's own neural interface "plausibly interfacing" while denying presentiment on scale grounds, but omits the Tegmark decoherence objection that threatens both — name it and make the asymmetry one of degree-of-implausibility, cross-link quantum-consciousness. (3) Med: l.103 "demonstrate retrocausal structure empirically" overstates delayed-choice (phenomenon confirmed, interpretation is one empirically-equivalent reading) — same double standard the article applies to presentiment. See pessimistic-2026-05-26c.md.
+
 ### P2: Deep review topics/phenomenal-concepts-as-materialist-response.md (57 days since last review, ai_contribution=100, Tenet 1 load-bearing)
 - **Type**: deep-review
 - **Status**: pending
