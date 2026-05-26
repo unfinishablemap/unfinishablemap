@@ -1,9 +1,27 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-26T01:30:00+00:00
+ai_modified: 2026-05-26T01:31:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-05-26T01:31:00+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[topics/delegatory-dualism]]
+- **Source**: pessimistic-2026-05-26.md (5 findings + 1 standing-gap flag)
+- **Original score**: not re-scored; pessimistic review judged the article "already operating with substantial intellectual honesty" — these are calibration refinements, not repairs
+- **Word count**: 3394 → 3856 (over soft 3000, under hard 4000). Additions are six load-bearing candor paragraphs the review requested; no padding. Flagging as a future condense candidate — the article was already over soft before this pass.
+- **Changes**:
+  - **(1) Medium — intra-dualist advantages netted against physicalist parity.** Added a paragraph in "Testability and Limitations" making explicit that the report-tracking and function-tracking advantages hold *only* against epiphenomenalism, not against physicalism (which explains the same phenomena more cheaply via self-modelling / state-identity, without the extra ontology). They presuppose rather than support the choice of dualism. Softened the closing "Saad's work arguably strengthens the philosophical foundations" to "offers the most internally coherent option for a dualism adopted on independent grounds" — a conditional intra-dualist-coherence claim, not independent support for adopting dualism. Calibration: advantages-over-epiphenomenalism ≠ advantages-over-physicalism.
+  - **(2) Medium — Subset Law* relabelled a postulate, not an independently-motivated law.** Added explicit acknowledgment in the Subset Law* section that the default causal profile's only access route (the zombie functional-duplicate) depends on a contested metaphysical possibility and is never directly observed wherever the theory applies, so the Law is best read as a *postulate* that earns its keep by coherence, not by independent observation. Calibration: postulate ≠ independently-motivated law.
+  - **(3) Medium — "may strengthen" reconciled with the line-187 multiplies-assumptions disclaimer.** Changed entanglement-binding's "may strengthen this integration" → "may cohere with this integration (without thereby lending it independent support)", and added that the coherence of the combination is not itself evidence for either component. Also upgraded the Tegmark hedge per the review's language-improvement table: "would constitute" now reads "would — if macroscopic neural entanglement were physically sustainable, which the [[decoherence-and-macroscopic-superposition|decoherence literature]] renders strongly doubtful at brain temperatures — constitute"; "unsettled" upgraded to "the decoherence consensus contests, not merely an open question". Added a cross-link to topics/decoherence-and-macroscopic-superposition. Calibration: coherence ≠ independent support.
+  - **(4) Low — single falsifier sharpened to non-operative.** "Testability and Limitations" now states Observational Closure is a *constitutive* constraint, so the one falsification condition (observed Closure violation) is one the theory's own defining constraint guarantees will never be met — not a live empirical test of *this* theory, at most a test of dualist interactionism in general against an observational-closure denier.
+  - **(5) Low — No-MWI tenet de-framed from "support".** Reworded the "Relation to Site Perspective" framing line from "Delegatory dualism supports the Map's core tenets" to "bears on the Map's core tenets as follows — supporting some directly, and remaining neutral on others", and re-labelled the No-MWI entry "(neutral)" with an explicit note that it is a tenet the subject theory does *not* bear on, listed for completeness rather than support.
+  - **Standing Churchland gap — FLAGGED, not fixed (per task).** Added a transparent flag in the Subset Law* exposition that the "subset" relation presupposes a determinate folk relatum ("pain") individuated at a shared grain; an eliminativist (after Churchland) would object that "pain" decomposes into dissociable nociceptive-affective-motor processes, leaving open which experiential property is the subset-bearer. Recorded as an open question the framework owes work on; the Map does not resolve it here.
+  - **Engagement (Churchland, Dennett, the physicalist):** Mode Two / unsupported-foundational-move for the physicalist-parity netting (physicalism's cheaper explanations are granted on the physicalist's own standards); Mode Three / framework-boundary for the Churchland flag (recorded as a standing gap, not refuted in-framework). No mode labels in body.
+  - Cliché audit: zero "This is not X. It is Y." constructs (verified by grep before and after).
+  - Verification: `evaluate_anchoring()` returns no flags after the edits (softening direction only helps); no editor-vocabulary leakage; no HTML-comment refinement-log block added.
+- **Published**: yes
 
 ## 2026-05-26T01:30:00+00:00 - pessimistic-review
 - **Status**: Success
