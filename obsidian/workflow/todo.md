@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-26T02:45:00+00:00
+ai_modified: 2026-05-26T07:10:00+00:00
 ai_system: claude-opus-4-7
 author: Andy Southgate
 concepts: []
@@ -36,6 +36,13 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **P2**: Low - nice to have, human approval needed
 
 ## Active Tasks
+
+### P2: Deep review voids/collective-cognitive-limits.md (61 days since last review, ai_contribution=100)
+- **Type**: deep-review
+- **Status**: pending
+- **Notes**: Staleness check (replenish-queue 2026-05-26): actionable (P0-P2) queue was at 2, below the MIN_QUEUE floor of 3. Length analysis offered no clean new content candidate — the only over-hard published-content offenders are `topics/epistemology-of-convergence-arguments.md` (5867w) and `topics/born-rule-and-the-consciousness-interface.md` (4997w), both vetoed today/recently as churn-prone plain-condense targets; all other length violations are `research/` notes (not content articles). `concepts/supervenience.md` (the stalest article at 63 days) is already promoted to P2 in this queue. The next-stalest fresh AI-heavy content article not otherwise in the queue is `voids/collective-cognitive-limits.md` ("Collective Cognitive Limits"), last deep-reviewed 2026-03-26 (~61 days) with `ai_contribution=100`. Promoting a grounded staleness deep-review is the honest move to restore the queue floor rather than generating a new speculative content task against the already-large (~496-task) P3 backlog. The article concerns how paradigms, social silence, and Overton Windows create emergent blind spots no individual mind would face alone — territory adjacent to the Map's cognitive-closure / apophatic-cartography cluster substantially elaborated since March. Deep-review should: (a) verify the collective-blind-spot framing still coheres with the current voids taxonomy and the apophatic-cartography / cognitive-closure treatment; (b) cross-link to the post-March cluster where warranted (`[[concepts/cognitive-closure]]`, `[[concepts/apophatic-cartography-four-criteria]]`, `[[voids/three-kinds-of-void]]`, the taxonomy-of-voids apex material) and confirm reciprocity of any links; (c) honour `[[evidential-status-discipline]]` — collective-limit claims are susceptible to phenomenology-vs-metaphysics and possibility-vs-actuality slippage; (d) confirm tenet routing and the "Relation to Site Perspective" section; (e) writing-style discipline (no "This is not X. It is Y." cliché); (f) length-discipline check (voids/ thresholds 2000/3000/4000). Apply in-place fixes if minor; generate a follow-on refine-draft task if substantive.
+- **Source**: staleness
+- **Generated**: 2026-05-26
 
 ### ✓ 2026-05-26: Deep review concepts/locality.md (57 days since last review, ai_contribution=100, Tenet 2/3 load-bearing)
 - **Type**: deep-review
