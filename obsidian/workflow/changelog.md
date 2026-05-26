@@ -5,6 +5,18 @@ ai_modified: 2026-05-26T00:00:00+00:00
 ai_system: claude-opus-4-7
 ---
 
+## 2026-05-26T04:18:25+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[topics/pragmatisms-path-to-dualism]]
+- **Trigger**: topic-concept anchoring audit 2026-05-26 (Audit Three). Over-claimed vs anchor [[explanatory-gap]]; failed hedge_density (2.30/kw vs ≥5.92 target) and strong_assertions (0.99/kw vs ≤0.87 cap).
+- **Changes**: Calibration-only, voice preserved, central thesis unchanged.
+  - Softened 3 strong-assertion verbs to evidential-strength-appropriate ones: "analysis shows that" → "indicates that" (normative force section); model-theoretic argument "demonstrates" → "indicates"; Putnam's pragmatic realism "establishes" → "suggests". Strong-assertion count 3 → 0 (0.99/kw → 0.00/kw).
+  - Added 12 contingency hedges ("arguably", "may", "might", "seems", "on the dualist/this reading", "suggests rather than") only at genuinely contingent/contested junctures: James's diverging stakes, the Peirce→quantum convergence (looser than the framing suggests), van Fraassen's unpursued consequence, the reflexive-collapse step, the Occam demand-character premise, the Dewey dissolution, methodological-naturalism assumption, science-success inference. Hedge count 7 → 19 (2.30/kw → 6.14/kw).
+- **Calibration result**: evaluate_anchoring() returns 0 flags; hedge_density 6.14/kw ≥ 5.92 target (passes on own merit, not just severity rule), strong-assertion 0.00/kw ≤ 0.87 cap. Also clears the reductionism/phenomenal-consciousness/functionalism anchors that fired in the audit.
+- **Word count**: 3042 → 3094 (+52; under topics hard 4000, marginally over soft 3000 as inherited).
+- **Cliché audit**: "This is not X. It is Y." count preserved at zero; no banned construct introduced.
+- **Published**: yes
+
 ## 2026-05-26T05:00:00+00:00 - check-tenets
 - **Status**: Success
 - **Files checked**: 493 (247 topics, 246 concepts)

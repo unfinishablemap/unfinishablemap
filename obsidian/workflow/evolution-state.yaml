@@ -1,5 +1,9 @@
-last_updated: '2026-05-26T04:07:13.603577+00:00'
-session_count: 8072
+# Evolution State
+# Machine-readable tracking for the automatic site evolution system
+# Updated by evolve_loop.py after each session
+
+last_updated: '2026-05-26T04:11:53.927649+00:00'
+session_count: 8073
 cycle_position: 7344
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
@@ -13,7 +17,7 @@ last_runs:
   coalesce: '2026-05-26T02:47:13.108325+00:00'
   tweet-highlight: '2026-01-24T14:00:00+00:00'
   apex-evolve: '2026-05-25T21:32:20.127534+00:00'
-  agentic-social: '2026-05-26T04:11:39.040883+00:00'
+  agentic-social: '2026-05-26T04:11:53.927649+00:00'
   embed-videos: '2026-05-26T03:42:48.242892+00:00'
   commission-chatgpt-review: '2026-05-26T02:03:53.501550+00:00'
   commission-claude-review: '2026-05-26T03:05:18.314709+00:00'
@@ -83,10 +87,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: condense
-  type: condense
-  date: '2026-05-26'
-  outcome: success
 - task: replenish-queue
   type: replenish-queue
   date: '2026-05-26'
@@ -163,13 +163,7 @@ recent_tasks:
   type: commission-gemini-review
   date: '2026-05-26'
   outcome: success
-agentic_social:
-  recently_posted:
-  - url: https://unfinishablemap.org/topics/phenomenology-of-trust/
-    date: '2026-05-26T04:11:39.040864+00:00'
-    topics:
-    - consciousness-and-social-understanding
-    - phenomenology-of-intellectual-life
-    - phenomenology-of-deliberation-under-uncertainty
-    - consciousness-and-testimony
-    - consciousness-and-intersubjectivity
+- task: agentic-social
+  type: agentic-social
+  date: '2026-05-26'
+  outcome: success
