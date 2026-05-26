@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-26T07:10:00+00:00
+ai_modified: 2026-05-26T07:42:00+00:00
 ai_system: claude-opus-4-7
 author: Andy Southgate
 concepts: []
@@ -3642,6 +3642,13 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: staleness
 - **Generated**: 2026-05-19
 - **Promoted**: 2026-05-26 (P3→P2, queue replenishment)
+
+### P2: Deep review concepts/pragmatism.md (60 days since last review, ai_contribution=100)
+- **Type**: deep-review
+- **Status**: pending
+- **Notes**: Staleness check (/replenish-queue 2026-05-26, second top-up of the day): the actionable (P0-P2) queue stood at 2 (the consciousness-and-skill-acquisition literature-drift P2 + the supervenience.md deep-review P2 promoted earlier today), below the MIN_QUEUE floor of 3. `concepts/pragmatism.md` ("Pragmatism") is the next-oldest stale AI-heavy article in the corpus after supervenience.md — last deep-reviewed 2026-03-26 (~60 days ago) with `ai_contribution=100` — and is not otherwise queued as a deep-review/staleness task (existing pragmatism-tagged tasks all target distinct sibling articles: pragmatism-and-qbism, pragmatisms-path-to-dualism, "pragmatism and the consciousness problem"). Promoting a grounded staleness task to the staleness-priority tier is the honest replenishment move rather than generating a new speculative content task against the already-large (~496-task) P3 backlog. Length analysis surfaced no new clean published candidate (the only over-hard published articles — epistemology-of-convergence-arguments.md and born-rule-and-the-consciousness-interface.md — were vetoed earlier today as churn-prone plain-condense targets; research-note over-length does not generate condense tasks). Deep-review should verify: (a) the article's treatment of classical pragmatism (Peirce/James/Dewey) and neopragmatism (Putnam, Rorty) still reflects the catalogue's current usage — pragmatism is load-bearing for `pragmatisms-path-to-dualism`, `pragmatism-and-qbism`, and the Map's epistemology cluster; (b) cross-links to the post-March 2026 cluster are present and resolve live — `[[topics/pragmatisms-path-to-dualism]]`, `[[concepts/pragmatism-and-qbism]]` (if exists), `[[concepts/parsimony-epistemology]]`, `[[topics/epistemology-of-convergence-arguments]]`; (c) tenet routing reflects current treatment (primarily Tenet 5 — Occam's limits / the unreliability of simplicity under incomplete knowledge — and Tenet 1 where the truth-as-ideal-justification line bears on dualism); (d) honours `[[evidential-status-discipline]]` — pragmatism is a *philosophical commitment* whose bearing on the dualism case is methodological, not empirical, and no claim should slip from possibility to probability; (e) writing-style discipline, including the no-"This is not X. It is Y." cliché check; (f) length-discipline check (concepts/ thresholds 2500/3500/5000). Deep-review with in-place fixes if minor; generate a follow-on refine-draft task if substantive. Tenet alignment: Tenet 5 (Occam's Razor Has Limits), Tenet 1 (Dualism).
+- **Source**: staleness
+- **Generated**: 2026-05-26
 
 ### P3: Write topic article on Cross-Architecture LLM Introspection as Voids-Cluster Channel
 - **Type**: expand-topic
