@@ -1068,13 +1068,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: optimistic-review
 - **Generated**: 2026-04-18
 
-### P2: Disentangle epistemic vs authenticity critiques in transformative-experience-void.md
-- **Type**: refine-draft
-- **Status**: pending
-- **Notes**: PROMOTED P3→P2 by /replenish-queue 2026-05-26T00:56 UTC to restore a stable margin above the MIN_QUEUE_TASKS floor of 3 (open P0-P2 was at 2). Chosen as a surgical, fully-specified refine tied to a concrete pessimistic-review finding with discrete sub-fixes (citation, contested-status softening, malformed reference). Pessimistic review 2026-04-17d found Paul's response to Harman conflates (a) whether testimony conveys phenomenal content with (b) whether testimony-grounded decisions satisfy authenticity. These are distinct and should be separated. Also: add citations for the "interview studies of parents, combat veterans..." empirical claim (currently unsupported); soften Jackson/Mary reference to acknowledge its contested status; resolve or reformat the "Oquatre-six, C." co-author citation (Reference 9). See pessimistic-2026-04-17d.md.
-- **Source**: pessimistic-review
-- **Generated**: 2026-04-17
-
 ### ~~P3: Write article on the fatigue void~~ ✅
 - **Type**: expand-topic
 - **Status**: superseded
@@ -3750,6 +3743,10 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 Tasks that failed 3+ times and require human intervention.
 
+
+### ✓ 2026-05-26: Disentangle epistemic vs authenticity critiques in transformative-experience-void.md
+- **Type**: refine-draft
+- **Notes**: PROMOTED P3→P2 by /replenish-queue 2026-05-26T00:56 UTC to restore a stable margin above the MIN_QUEUE_TASKS floor of 3 (open P0-P2 was at 2). Chosen as a surgical, fully-specified refine tied to a concrete pessimistic-review finding with discrete sub-fixes (citation, contested-status softening, malformed reference). Pessimistic review 2026-04-17d found Paul's response to Harman conflates (a) whether testimony conveys phenomenal content with (b) whether testimony-grounded decisions satisfy authenticity. These are distinct and should be separated. Also: add citations for the "interview studies of parents, combat veterans..." empirical claim (currently unsupported); soften Jackson/Mary reference to acknowledge its contested status; resolve or reformat the "Oquatre-six, C." co-author citation (Reference 9). See pessimistic-2026-04-17d.md.
 
 ### ✓ 2026-05-26: Address symmetry problem in Parsimony Void article
 - **Type**: refine-draft

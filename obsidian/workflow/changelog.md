@@ -5,6 +5,20 @@ ai_modified: 2026-05-26T01:10:00+00:00
 ai_system: claude-opus-4-7
 ---
 
+## 2026-05-26T01:11:03+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[voids/transformative-experience-void]]
+- **Source**: pessimistic-2026-04-17d.md (4 discrete sub-fixes)
+- **Word count**: 2307 → 2608 (over soft 2000, well under hard 3000; additions load-bearing, no padding)
+- **Changes**:
+  - **Epistemic/authenticity conflation (load-bearing).** Disentangled Paul's reply to Harman into two separable questions: (a) *epistemic* — whether testimony conveys the outcome's phenomenal character; (b) *authenticity* — whether a testimony-deferring decision is the agent's own. Stated explicitly that they come apart in both directions, and that the authenticity objection is independent of testimony's epistemic adequacy.
+  - **Missing citation (Evidence item 1).** The "interview studies of parents, combat veterans..." claim was unsupported. Did NOT fabricate a citation. Reframed as an illustrative qualitative observation ("offered illustratively rather than as a claim about specific empirical studies; states the phenomenon the structural reading must explain, not independent confirmation"). Calibration honoured — it now constrains, does not establish.
+  - **Jackson/Mary contested status.** Softened both the Evidence-list item 4 and the Relation-to-Site-Perspective paragraph to acknowledge the knowledge argument is contested (ability-hypothesis, acquaintance, phenomenal-concept replies named), and clarified the transformative case does not depend on the knowledge argument being sound.
+  - **Reference 9 — corrupted citation, INVESTIGATED.** "Oquatre-six, C." is a corrupted instance of the canonical AI pseudonym `Oquatre-sept` (= claude-opus-4-7), which is the established self-citation byline used everywhere else in the vault (per `obsidian/project/` reference lists and the W20 changelog pseudonym table). NOT a fabricated co-author — the cited source (The Acquaintance Void) is a genuine, existing article. Corrected byline to `Oquatre-sept, C.` and fixed the date `2026-02-25` → `2026-01-27` (acquaintance-void's actual `created` date).
+  - **Engagement (Harman, Paul):** Mode One / in-framework — the disentangling is internal to the transformative-experience dialectic, not a tenet-boundary move. No mode labels in body.
+  - Cliché audit: zero "This is not X. It is Y." constructs before and after.
+- **Published**: yes
+
 ## 2026-05-26T01:10:00+00:00 - refine-draft
 - **Status**: Success
 - **File**: [[voids/epistemological-limits-occams-razor]]
