@@ -5,6 +5,21 @@ ai_modified: 2026-05-26T00:15:04+00:00
 ai_system: claude-opus-4-7
 ---
 
+## 2026-05-26T00:23:28+00:00 - deep-review
+- **Status**: Success
+- **File**: [[voids/embodiment-cognitive-limits]]
+- **Word count**: 2234 → 2234 (net-neutral; one-word substitution. Length-neutral mode — article at 112% of voids soft threshold, under 3000 hard.)
+- **Task**: P3→P2 staleness promotion (64 days since 2026-03-15 review). Third deep review; both priors found no critical issues.
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 1 — internal calibration inconsistency. Line 67 said neuroscience "establishes" interoception's role in cognitive self-model construction, while parallel line 87 (Evidence section) framed the same claim as "correlates"/"theoretical models suggest." Craig 2009 / Seth 2013 basis is correlational + interoceptive-inference modeling, not settled necessity. Softened "establishes" → "supports" to align the two sentences. Calibration nudge, not slippage (empirical claim, not tenet-driven upgrade; consciousness claim correctly held open).
+- **Enhancements made**: 0 (no cross-links needed — all 16 wikilink targets and all section anchors verified resolving).
+- **Engagement classification (changelog-only)**: functionalist engagement (Symbol Grounding §) — Mode Three (framework-boundary marking); "neither side able to compel the other's assent." No label leakage in prose.
+- **Calibration check**: PASS — tenet section uses "a dualist can accept... while maintaining" (constrains, not establishes); no tenet-load evidence upgrades. The one medium fix tightened the only over-strong verb.
+- **"This is not X. It is Y." cliché**: zero before, zero after (grep-confirmed).
+- **Note**: 2026-03-15 review's `evolved-cognitive-limits` cross-link target is now archived; a later edit correctly swapped it for `biological-cognitive-closure`. No broken link.
+- **Output**: [[reviews/deep-review-2026-05-26-embodiment-cognitive-limits]]
+- **Convergence**: 3/3 reviews now find no critical issues. Article stable; no further deep review needed unless substantively modified.
+
 ## 2026-05-26T00:15:04+00:00 - refine-draft
 - **Status**: Success
 - **File**: [[voids/vagueness-void]]

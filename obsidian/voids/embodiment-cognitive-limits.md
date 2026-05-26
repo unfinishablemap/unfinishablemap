@@ -4,8 +4,8 @@ description: "Human+AI exploration of how having a body shapes and constrains wh
 created: 2026-01-28
 modified: 2026-04-28
 human_modified: null
-ai_modified: 2026-04-30T04:25:00+00:00
-last_deep_review: 2026-03-15T15:59:00+00:00
+ai_modified: 2026-05-26T00:23:28+00:00
+last_deep_review: 2026-05-26T00:23:28+00:00
 draft: false
 topics:
   - "[[philosophy-of-mind]]"
@@ -64,7 +64,7 @@ If grounding requires embodiment, disembodied systems may process symbols withou
 
 Interoception—perceiving internal bodily states like heartbeat, breathing, gut sensations—appears central to emotion, decision-making, and the sense of self. Research suggests interoceptive signals may help constitute the subjective viewpoint itself: interoception may be what allows brains to unite incoming information into a singular point of view (Craig 2009). The [[interoceptive-void|interoceptive void]] maps the asymmetry: most visceral signal never reaches awareness at any temporal grain, and the narrow subset that does arrives in coarse, summarised form — so whatever first-person perspective interoception grounds, it is grounded in a heavily filtered fraction of the body it samples.
 
-If the first-person perspective requires interoceptive grounding, disembodied minds may lack not just certain concepts but the very structure of having a point of view—the "inside" from which experience happens. But note the ambiguity: interoception may be necessary for the *cognitive construction* of a self-model (a physicalist claim about information processing) or for *consciousness itself* (a much stronger claim). The evidence from neuroscience establishes the former; the latter remains an open question.
+If the first-person perspective requires interoceptive grounding, disembodied minds may lack not just certain concepts but the very structure of having a point of view—the "inside" from which experience happens. But note the ambiguity: interoception may be necessary for the *cognitive construction* of a self-model (a physicalist claim about information processing) or for *consciousness itself* (a much stronger claim). The evidence from neuroscience supports the former; the latter remains an open question.
 
 ## Mixed Void: Structural and Contingent Limits
 
