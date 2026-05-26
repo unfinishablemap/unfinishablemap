@@ -5,6 +5,17 @@ ai_modified: 2026-05-26T13:36:44+00:00
 ai_system: claude-opus-4-7
 ---
 
+## 2026-05-26T14:05:00+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[topics/causal-closure-debate-historical-survey]]
+- **Task**: Topic-concept anchoring audit 2026-05-26 — adopt [[mental-causation-and-downward-causation]] calibration
+- **Changes**: Brought hedge profile in line with anchor concept per [[evidential-status-discipline]] (constrains-vs-establishes). Softened strong-assertion verbs to load-bearing-appropriate verbs (demonstrates→argues, showed→argued, proves too much→threatens to prove too much, successfully rescue→appear to rescue, directly contradicts→sits in tension with, misses the point→does not address the relevant gap, plus removed flat "is not"/"is clear" assertions). Added two explicit underdetermination markers at the interpretive conclusions ("underdetermined by the evidence"; "the metaphysics underdetermines"). Reframed closing "supports the Map's position"→"coheres with" per compatibility-vs-support discipline. Added explicit "weakening the case for closure is not establishing its denial" caveat.
+- **Calibration metrics (anchoring_audit)**: hedge density 1.62→3.33/kw (anchor 2.71, floor 1.63); strong-assertion density 2.02→0.00/kw (anchor 0.00); underdetermination markers 0→2 (anchor 1). `evaluate_anchoring` now returns [] — all three failed checks cleared.
+- **Citation verification (web)**: Buhler 2020 (Metaphysica, DOI 10.1515/mp-2019-0026, finding-direction confirmed), Pitts 2022 (Erkenntnis 87, DOI 10.1007/s10670-020-00284-7), Cucu & Pitts 2019 (Mind and Matter 17(1), 95–121), Saad 2025 (Phil Studies 182, 939–967; five constraints correctly Saad's), Gibb 2010 (Dialectica 64(3), 363–384), Stapp "Process 0" (free choice of measurement, distinct from von Neumann Process 1/2 — confirmed). All clean. Minor: Pitts page range in refs (1861–1892) differs from publisher (1931–1973) — DOI/vol/year/author/finding all correct; left as-is.
+- **Secondary checks**: all 20 wikilinks resolve to live obsidian files; tenet anchors (^minimal-quantum-interaction, ^bidirectional-interaction, ^occams-limits) valid; no "This is not X. It is Y." cliché; survey does not co-cite the Hagan/Reimers/McKemmish decoherence-timescale dispute, so no anchor-alignment needed there.
+- **Word count**: 2475 → 2701 (under soft 3000 / hard 4000 topics thresholds)
+- **Published**: yes (kept draft: false; was already published)
+
 ## 2026-05-26T13:56:41+00:00 - check-tenets
 - **Status**: Success
 - **Files checked**: 494 (248 topics, 246 concepts)
