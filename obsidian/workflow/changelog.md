@@ -1,9 +1,23 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-26T01:01:12+00:00
+ai_modified: 2026-05-26T01:10:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-05-26T01:10:00+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[voids/epistemological-limits-occams-razor]]
+- **Original score**: prior reviews; addressed pessimistic-2026-04-18c.md Issue 4 + "The Mach lesson cuts the other way"
+- **Word count**: 1942 → ~2422 body (over soft 2000, well under hard 3000; trimmed "A Partial Access Point" and "Consider:" paragraphs to partially offset two load-bearing additions)
+- **Changes**:
+  - **Symmetry problem (load-bearing).** Conceded the void-argument is *ecumenical* — parsimony bias filters out every anti-parsimony contender (panpsychism, Russellian monism, neutral monism), not dualism alone. Added a concession paragraph in "What This Changes" framing the verdict as underdetermination *across the cluster*, not a promotion of dualism. Reframed "Relation to Site Perspective" from "strengthening the case for Tenet 1" to "clearing space for" dualism, explicitly noting the void supplies no parsimony-independent reason to prefer dualism over cluster-mates; Map's dualism rests on its other arguments.
+  - **Mach example.** Added the asymmetry: empirical pressure (not insight) is what overrode Mach's bias, so the *absence* of empirical distinguishability in the consciousness case yields underdetermination, not a privilege for either side. Honored calibration: "removing a defeater ≠ supplying positive evidence."
+  - Reinforced ecumenical point in "A Partial Access Point": phenomenological evidence does not adjudicate among the anti-parsimony cluster either.
+  - Tenet-5-shaped conclusion throughout (epistemic humility / underdetermination), not "therefore dualism."
+  - Cliché audit: rephrased 3 pre-existing "This is not X. It is Y."-family constructs (lines 39, 61, 65) to natural prose; final count zero.
+- **Anchoring**: evaluate_anchoring() returns no flags.
+- **Published**: yes
 
 ## 2026-05-26T01:01:12+00:00 - deep-review
 - **Status**: Success

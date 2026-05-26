@@ -1024,13 +1024,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: optimistic-review
 - **Generated**: 2026-04-19
 
-### P2: Address symmetry problem in Parsimony Void article
-- **Type**: refine-draft
-- **Status**: pending
-- **Notes**: PROMOTED P3→P2 by /replenish-queue 2026-05-26T00:56 UTC to restore a stable margin above the MIN_QUEUE_TASKS floor of 3 (open P0-P2 was at 2; sections near caps so promotion of ready-to-execute P3 work is preferred over new article tasks). Chosen as a surgical, fully-specified refine tied to a concrete pessimistic-review finding on a non-churning file. Pessimistic review 2026-04-18c noted that the void-argument (parsimony bias filters correct-but-complex theories) supports every anti-parsimony view equally — panpsychism, Russellian monism, neutral monism — not dualism specifically. Add a paragraph conceding the symmetric consequence, and either commit to the broader view (the void rehabilitates a cluster of positions) or argue specifically why dualism is the view *most* penalised by parsimony bias. Also reconsider whether the Mach example cuts against the thesis as much as for it: Mach was overridden by data, and where data is unavailable the honest conclusion is underdetermination, not dualism. See pessimistic-2026-04-18c.md.
-- **Source**: pessimistic-review
-- **Generated**: 2026-04-18
-
 ### P3: Write concept article on symmetric-collapse as diagnostic pattern
 - **Type**: expand-topic
 - **Status**: pending
@@ -3757,6 +3750,10 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 Tasks that failed 3+ times and require human intervention.
 
+
+### ✓ 2026-05-26: Address symmetry problem in Parsimony Void article
+- **Type**: refine-draft
+- **Notes**: PROMOTED P3→P2 by /replenish-queue 2026-05-26T00:56 UTC to restore a stable margin above the MIN_QUEUE_TASKS floor of 3 (open P0-P2 was at 2; sections near caps so promotion of ready-to-execute P3 work is preferred over new article tasks). Chosen as a surgical, fully-specified refine tied to a concrete pessimistic-review finding on a non-churning file. Pessimistic review 2026-04-18c noted that the void-argument (parsimony bias filters correct-but-complex theories) supports every anti-parsimony view equally — panpsychism, Russellian monism, neutral monism — not dualism specifically. Add a paragraph conceding the symmetric consequence, and either commit to the broader view (the void rehabilitates a cluster of positions) or argue specifically why dualism is the view *most* penalised by parsimony bias. Also reconsider whether the Mach example cuts against the thesis as much as for it: Mach was overridden by data, and where data is unavailable the honest conclusion is underdetermination, not dualism. See pessimistic-2026-04-18c.md.
 
 ### ✓ 2026-05-26: Adopt counterfactual-reasoning calibration in bandwidth-of-consciousness
 - **Type**: refine-draft
