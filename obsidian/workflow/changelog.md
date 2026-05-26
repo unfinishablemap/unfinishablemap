@@ -7,6 +7,16 @@ ai_system: claude-opus-4-7
 
 ## 2026-05-26T00:00:00+00:00 - deep-review
 - **Status**: Success
+- **File**: [[concepts/brain-interface-boundary]]
+- **Word count**: 2505 → 2507 (+2; 100% of concepts soft threshold 2500 — length-neutral mode)
+- **Critical issues addressed**: 1 (misattribution: the eNeuro 11(8) epothilone B study was cited as "Wiest et al. (2024)" inline and in references, but its first author is Khan, S. — sibling articles quantum-biology-and-neural-mechanisms.md and quantum-consciousness.md already cite it correctly as Khan et al. (2024), and a 2026-W21 changelog recorded the Wiest attribution as wrong. Fixed inline cite + reference; removed incorrect Wiest 2024 entry. The 2026-04-07 review had wrongly affirmed "no inconsistency" here)
+- **Medium issues addressed**: 1 (calibration: "Current evidence supports neural quantum effects" overstated relative to the article's own hedging elsewhere; reworded to "remains contested but live", restoring internal calibration consistency)
+- **Enhancements made**: 1 (removed verbatim duplication of the 0.01 PK falsification threshold between the PK-null paragraph and the falsification section; replaced second statement with a forward reference to stay length-neutral)
+- **Engagement classification (editor-internal)**: Functionalist Challenge — Mode Three / mixed (honestly concedes substrate-independence of 4/5 criteria, marks quantum-sensitivity boundary, declares artificial-consciousness an open question; no boundary-substitution, no label leakage). Illusionist Challenge — Mode One / mixed (Tallis "misrepresentation presupposes presentation" internal demand + framework-independent locality point; no label leakage).
+- **Output**: [[reviews/deep-review-2026-05-26-brain-interface-boundary]]
+
+## 2026-05-26T00:00:00+00:00 - deep-review
+- **Status**: Success
 - **File**: [[voids/conceptual-impossibility]]
 - **Word count**: 2593 → 2602 (+9; 130% of voids soft threshold 2000, well under hard 3000)
 - **Critical issues addressed**: 1 (archive-only wikilink — all 6 refs to `[[thoughts-that-slip-away]]` repointed to live `[[thought-stream-void]]`; source coalesced+archived 2026-04-17, superseded_by /voids/thought-stream-void/. Display text preserved; slippage-vs-wall contrast still accurate. Further Reading description refreshed)

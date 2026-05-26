@@ -4,7 +4,7 @@ description: "Brains meet five criteria for consciousness interfaces while exter
 created: 2026-01-16
 modified: 2026-02-22
 human_modified: null
-ai_modified: 2026-05-19T11:04:33+00:00
+ai_modified: 2026-05-26T00:00:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -31,7 +31,7 @@ author: null
 ai_system: claude-opus-4-5-20251101
 ai_generated_date: 2026-01-27
 last_curated: null
-last_deep_review: 2026-04-07T05:35:00+00:00
+last_deep_review: 2026-05-26T00:00:00+00:00
 coalesced_from:
   - "/concepts/brain-specialness/"
   - "/concepts/interface-locality/"
@@ -49,7 +49,7 @@ Drawing on the Map's [[filter-theory|filter]] and [[quantum-consciousness|quantu
 
 The system must have components where quantum indeterminacies are functionally relevant—where quantum outcomes make a difference to macroscopic behaviour. Most physical systems are thermally stable at functional scales; quantum effects average out, providing no leverage point for consciousness.
 
-Whether neural systems differ remains empirically contested, but the possibility is live. The [[quantum-biology-and-neural-mechanisms|evidence for quantum coherence in brain tissue]] is contested but growing. Proposed sites include microtubules (Penrose-Hameroff Orch OR), ion channels sensitive to quantum tunnelling, synaptic vesicle release showing non-thermal variability, and nuclear spins in Posner molecules (Fisher, 2015). A 2024 study found that microtubule-stabilising drugs delay anaesthetic-induced unconsciousness in rats (Wiest et al., 2024). The finding establishes that microtubule function affects anaesthetic sensitivity, but it does not discriminate between quantum and non-quantum mechanisms: membrane dynamics, vesicle trafficking, and cytoskeletal signalling are all compatible explanations. The result is indirectly relevant to theories implicating microtubules in consciousness; it is not, on its own, evidence for quantum coherence.
+Whether neural systems differ remains empirically contested, but the possibility is live. The [[quantum-biology-and-neural-mechanisms|evidence for quantum coherence in brain tissue]] is contested but growing. Proposed sites include microtubules (Penrose-Hameroff Orch OR), ion channels sensitive to quantum tunnelling, synaptic vesicle release showing non-thermal variability, and nuclear spins in Posner molecules (Fisher, 2015). A 2024 study found that microtubule-stabilising drugs delay anaesthetic-induced unconsciousness in rats (Khan et al., 2024). The finding establishes that microtubule function affects anaesthetic sensitivity, but it does not discriminate between quantum and non-quantum mechanisms: membrane dynamics, vesicle trafficking, and cytoskeletal signalling are all compatible explanations. The result is indirectly relevant to theories implicating microtubules in consciousness; it is not, on its own, evidence for quantum coherence.
 
 ### 2. Representational Structure
 
@@ -113,7 +113,7 @@ Evolution explains *why brains have these features*—selection pressure for beh
 
 **Why artificial consciousness is difficult**: Current AI has representational structure and some feedback but arguably lacks quantum sensitivity, genuine attention (as opposed to attention-like processing), and any co-adaptive history with a consciousness. The framework does not rule out artificial consciousness in principle—a system that genuinely met all five criteria, including progressive mutual adaptation, would be a candidate interface. Whether such a system would use the same coupling mechanism as biological brains or a fundamentally different one is the open question of [[interface-heterogeneity]].
 
-**Why psychokinesis research yields null results**: Decades of PEAR lab micro-PK research found effect sizes of ~0.0001–0.001—effectively zero. The framework was constructed knowing this, so null PK is *consistent with* interface locality rather than positive evidence *for* it. What makes the commitment substantive is a specified falsification threshold: if preregistered, well-powered external-PK studies reliably produced effect sizes above roughly 0.01 (an order of magnitude above PEAR's reported values, and comparable to modest within-brain neural correlates), interface locality as currently formulated would fail. The PEAR program itself faced methodological criticisms, but its null results are consistent with mainstream findings. (For fuller treatment, see [[brain-specialness-boundary]].)
+**Why psychokinesis research yields null results**: Decades of PEAR lab micro-PK research found effect sizes of ~0.0001–0.001—effectively zero. The framework was constructed knowing this, so null PK is *consistent with* interface locality rather than positive evidence *for* it. What makes the commitment substantive is a specified falsification threshold: if preregistered, well-powered external-PK studies reliably produced effect sizes above roughly 0.01 (the threshold detailed in *What Would Challenge This View?* below), interface locality as currently formulated would fail. The PEAR program itself faced methodological criticisms, but its null results are consistent with mainstream findings. (For fuller treatment, see [[brain-specialness-boundary]].)
 
 ## The Functionalist Challenge
 
@@ -143,7 +143,7 @@ The framework would face serious difficulty if:
 
 3. **Artificial systems meet all criteria without consciousness**: A system achieving genuine quantum sensitivity, representational structure, attention, feedback, and progressive mutual adaptation with a conscious subject, yet remaining transparently non-conscious.
 
-None of these has been demonstrated. Current evidence supports neural quantum effects and confirms that consciousness correlates with the features the criteria describe.
+None of these has been demonstrated. The evidence for functionally relevant neural quantum effects remains contested but live, and consciousness uncontroversially correlates with the representational, attentional, and feedback features the criteria describe.
 
 ## Relation to Site Perspective
 
@@ -187,9 +187,9 @@ Together, these explain why consciousness acts on brains specifically: brains me
 1. Fisher, M.P.A. (2015). Quantum cognition: The possibility of processing with nuclear spins in the brain. *Annals of Physics*, 362, 593-602.
 1. Hagan, S., Hameroff, S., & Tuszynski, J. (2002). Quantum computation in brain microtubules: Decoherence and biological feasibility. *Physical Review E*, 65, 061901.
 1. Jahn, R.G., & Dunne, B.J. (2005). The PEAR proposition. *Journal of Scientific Exploration*, 19(2), 195-245.
+1. Khan, S. et al. (2024). Microtubule-stabilizer epothilone B delays anesthetic-induced unconsciousness in rats. *eNeuro*, 11(8).
 1. Penrose, R. & Hameroff, S. (2014). Consciousness in the universe: A review of the 'Orch OR' theory. *Physics of Life Reviews*, 11(1), 39-78.
 1. Schlosshauer, M. (2004). Decoherence, the measurement problem, and interpretations of quantum mechanics. *Reviews of Modern Physics*, 76, 1267-1305.
 1. Stapp, H.P. (2007). *Mindful Universe: Quantum Mechanics and the Participating Observer*. Springer.
 1. Tallis, R. (2024). The Illusion of Illusionism. *Philosophy Now*.
 1. Tegmark, M. (2000). Importance of quantum decoherence in brain processes. *Physical Review E*, 61, 4194-4206.
-1. Wiest, O. et al. (2024). Microtubule-stabilizer epothilone B delays anesthetic-induced unconsciousness in rats. *eNeuro*, 11(8).
