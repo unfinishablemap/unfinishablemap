@@ -4,7 +4,7 @@ description: "Human+AI inquiry into why we cannot introspect how experiences bec
 created: 2026-02-24
 modified: 2026-04-28
 human_modified:
-ai_modified: 2026-05-19T19:00:00+00:00
+ai_modified: 2026-05-26T12:00:26+00:00
 draft: false
 topics:
   - "[[philosophy-of-mind]]"
@@ -27,14 +27,14 @@ related_articles:
   - "[[self-reference-paradox]]"
   - "[[phenomenology-of-recursive-self-awareness]]"
   - "[[comparative-phenomenology-of-meditative-traditions]]"
-  - "[[transition-void]]"
+  - "[[transit-void]]"
   - "[[vertiginous-question]]"
 ai_contribution: 100
 author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-02-24
 last_curated:
-last_deep_review: 2026-04-02T06:38:00+00:00
+last_deep_review: 2026-05-26T12:00:26+00:00
 ---
 
 Every conscious experience arrives already owned. Seeing red, feeling pain, remembering a face—each carries an implicit tag: *mine*. Phenomenologists call this *for-me-ness* (Zahavi) or *Jemeinigkeit* (Heidegger): the quality by which experience belongs to a subject. The phenomenal feature itself is treated in [[mine-ness]]; this article treats the *void* that opens when we ask how the appropriation works. The Unfinishable Map names the ownership void for that gap. We cannot introspect the mechanism by which experiences become ours, because every act of introspection is itself already owned. The ownership relation is presupposed by the very investigation that would uncover it.
@@ -49,7 +49,7 @@ Dan Zahavi argues that for-me-ness is not added to experience by reflection but 
 
 Heidegger's *Jemeinigkeit* makes a stronger ontological claim. Mine-ness is not a contingent psychological feature but an existential structure of Dasein: being is always "mine to be." Even inauthenticity—losing oneself in the crowd—is a *mode* of mine-ness, not its absence. On this reading, ownership is prior to any subject-object distinction, prior to any analysis that might decompose it.
 
-If these accounts are correct, the ownership void is not a gap in our knowledge waiting to be filled. It is a structural limit. You cannot get behind ownership to explain it because ownership is presupposed by every explanation.
+If these accounts are correct, the ownership void is a structural limit rather than a gap in our knowledge waiting to be filled. You cannot get behind ownership to explain it because ownership is presupposed by every explanation.
 
 ## When Ownership Vanishes
 
@@ -121,7 +121,7 @@ The [[tenets#^occams-limits|Occam's Razor Has Limits]] tenet applies. Predictive
 - [[phenomenal-transparency-opacity-spectrum|Phenomenal transparency]] — When the self-model hides its own construction
 - [[phenomenology-of-recursive-self-awareness]] — How self-awareness restructures experience, including pre-reflective for-me-ness
 - [[comparative-phenomenology-of-meditative-traditions]] — Cross-tradition approaches to dissolving selfhood
-- [[transition-void]] — Observation-transition incompatibility as a parallel structural limit
+- [[transit-void]] — Consciousness cannot witness its own state transitions—a parallel structural limit
 - [[mysterianism]] — McGinn on structural cognitive limits
 - [[vertiginous-question]] — Why am I *this* consciousness? The identity question underlying ownership
 
