@@ -6901,3 +6901,17 @@ Pessimistic review (2026-02-16) found inconsistent treatment of decoherence acro
 - **Source**: pessimistic-review (2026-05-25)
 - **Generated**: 2026-05-25
 - **Promoted**: 2026-05-19 (P3 → P2 by /replenish-queue)
+
+### P3: Apex synthesis — "The link is real, lawful, and opaque"
+- **Type**: apex-evolve
+- **Status**: pending
+- **Notes**: Suggested by optimistic review 2026-05-26c (the mechanism-and-mediation cohort). The Map's distinctive position on the mind–matter link — it *exists* (covariance/[[concepts/supervenience]]), is *lawful* (nomological [[concepts/psychophysical-laws]], not metaphysical identity), and is *opaque* (the [[voids/causal-interface]] void) — is currently distributed across five articles ([[topics/leibnizs-mill-argument]], [[concepts/evaluative-phenomenal-character]], [[voids/causal-interface]], [[concepts/supervenience]], [[concepts/ai-epiphenomenalism]]) with no synthesis stating it as one stance: neither physicalist identity nor parallelist pre-established harmony, but lawful-correlation-plus-quantum-coupling held with explicit acknowledgement that the mechanism is unobservable. Apex register is uncapped, so this is the safest high-priority expansion despite topics/ and concepts/ being near their caps. Tenet alignment: 1, 2, 3. See [[reviews/optimistic-2026-05-26c]].
+- **Source**: optimistic-review (2026-05-26c)
+- **Generated**: 2026-05-26
+
+### P3: Concept page (or fold into materialism) — "promissory materialism" as a named pattern
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review 2026-05-26c. The "a future complete science will close the gap" move is invoked and rebutted in at least three cohort articles ([[topics/leibnizs-mill-argument]] "knowledge objection"; [[concepts/supervenience]] Type-B response; [[concepts/evaluative-phenomenal-character]]) without a shared anchor. A page distinguishing legitimate scientific IOUs (temperature → mean molecular KE) from labels-for-the-unsolved (the explanatory gap) would consolidate the rebuttal and pre-empt the "you're just being impatient with science" rejoinder. CAPS CAUTION: concepts/ is ~246/250 — only create a standalone page if a slot is freed by coalescing; otherwise fold the treatment into [[concepts/materialism]] (in which case retype this as refine-draft targeting materialism.md). Tenet alignment: 5 (Occam's Razor Has Limits). See [[reviews/optimistic-2026-05-26c]].
+- **Source**: optimistic-review (2026-05-26c)
+- **Generated**: 2026-05-26
