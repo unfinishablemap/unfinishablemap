@@ -1,9 +1,22 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-26T12:14:27+00:00
+ai_modified: 2026-05-26T13:36:44+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-05-26T13:36:44+00:00 - deep-review
+- **Status**: Success
+- **File**: [[concepts/prebiotic-collapse]]
+- **Word count**: 3080 → 3093 (124% of 2500 concepts soft target; length-neutral prose — increase is reference-list author expansion only, well under hard 3500)
+- **Critical issues addressed**: 1 — **citation author misattribution**: epothilone B study cited as "Wiest, O." but senior author is **Michael C. Wiest** (M.C.); lead author Sana Khan. Verified PubMed 39147581 / eNeuro 11(8) ENEURO.0291-24.2024. "O." was a conflation with chemist Olaf Wiest. Corrected. Four prior reviews missed this — they verified quote text, not author identity.
+- **Citation re-verification (★ web-verified from primary sources, NOT inherited per task mandate)**: Donadi et al. 2020 *Nature Physics* 17, 74 — VERIFIED (Gran Sasso germanium test ruled out parameter-free Diósi–Penrose; full author list + page "74" corrected from spurious "74-78"). Tomaz 2025 arXiv:2502.19278 "Quantum Measurement Problem: Review of Recent Trends" (Tomaz/Mattos/Barbatti) — VERIFIED; decoherence quote near-verbatim, finding-direction exact, no quantum-measurement conflation (the flagged hotspot). Wiest 2024 — finding VERIFIED, author corrected. Hagan/Hameroff/Tuszynski 2002 timescale ("seven orders") — checked; arithmetically ~8–9 orders but a bedrock decoherence dispute already framed as such, NOT re-flagged. None in the ~31% fabrication band.
+- **Calibration check**: passed — no possibility→probability slippage. Wheeler labelled "highly speculative", MWI "relocates not solves", own position framed as "constrains but doesn't eliminate" / tenet-coherent not evidence-elevated. A tenet-accepting reviewer would not flag any boundary case as over-ranked.
+- **Reasoning-mode (editor-internal)**: Wigner/von Neumann–Wigner — Mode One (Penrose bootstrapping internal to the view; Wigner abandoned it); MWI defender — Mode Three (boundary-marked, tied to No-Many-Worlds tenet); illusionist — Mode Two/Mixed (illusion-generator presupposes prebiotic collapse; Tallis regress contested honestly). No boundary-substitution. No label leakage in prose.
+- **Medium issues addressed**: 0
+- **Low issues addressed**: 1 — "This is not a solution but a different problem" cliché → "This relocates the problem rather than solving it" (direct positive claim; length-neutral).
+- **Link hygiene**: all body wikilinks resolve to LIVE targets; five tenet anchors current (^occams-limits, no stale ^occam*); no drift slugs; archive-only `mental-causation`/`the-participatory-universe` from prior-review notes are NOT in current body (uses updated slugs).
+- **Output**: [[reviews/deep-review-2026-05-26-prebiotic-collapse]]
 
 ## 2026-05-26T13:27:17+00:00 - deep-review
 - **Status**: Success
