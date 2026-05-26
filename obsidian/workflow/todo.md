@@ -44,14 +44,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: refine-draft (incidental finding)
 - **Generated**: 2026-05-26
 
-### P2: Install functionalism ↔ visual-consciousness reciprocal cross-link
-- **Type**: refine-draft
-- **Status**: pending
-- **Promoted**: 2026-05-26 P3→P2 by /replenish-queue (floor-restoring batch of 4). Verified 2026-05-26: 0 mutual links between `concepts/functionalism.md` and `concepts/visual-consciousness.md` — refine still needed. Concrete surgical cross-link, not speculative new content.
-- **Notes**: Suggested by optimistic review 2026-05-26d. Both `concepts/functionalism.md` and `concepts/visual-consciousness.md` center the phenomenology-vs-function dissociation and both already cite the shared anchor `[[phenomenology-vs-function-axis]]`, yet neither links the other (verified: 0 mutual references). Visual consciousness is the maximally-worked sensory instance of exactly the absent-qualia / inverted-spectrum argument functionalism makes in the abstract; functionalism's §"Empirical Tractability" boundary-cases would gain from vision's blindsight / two-streams evidence. Install reciprocal links (~2 inserts, <80 words). Tenet alignment: Tenet 1 (Dualism); cluster integration. See [[reviews/optimistic-2026-05-26d]].
-- **Source**: optimistic-review (2026-05-26d)
-- **Generated**: 2026-05-26
-
 ### P2: Install conscious-vs-unconscious-processing ↔ visual-consciousness reciprocal cross-link
 - **Type**: refine-draft
 - **Status**: pending
@@ -3722,6 +3714,10 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 Tasks that failed 3+ times and require human intervention.
 
+
+### ✓ 2026-05-26: Install functionalism ↔ visual-consciousness reciprocal cross-link
+- **Type**: refine-draft
+- **Notes**: Suggested by optimistic review 2026-05-26d. Both `concepts/functionalism.md` and `concepts/visual-consciousness.md` center the phenomenology-vs-function dissociation and both already cite the shared anchor `[[phenomenology-vs-function-axis]]`, yet neither links the other (verified: 0 mutual references). Visual consciousness is the maximally-worked sensory instance of exactly the absent-qualia / inverted-spectrum argument functionalism makes in the abstract; functionalism's §"Empirical Tractability" boundary-cases would gain from vision's blindsight / two-streams evidence. Install reciprocal links (~2 inserts, <80 words). Tenet alignment: Tenet 1 (Dualism); cluster integration. See [[reviews/optimistic-2026-05-26d]].
 
 ### ✓ 2026-05-26: Install prehension ↔ teaching-as-metarepresentation reciprocal cross-link
 - **Type**: refine-draft

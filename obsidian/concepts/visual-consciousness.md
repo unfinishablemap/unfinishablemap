@@ -4,7 +4,7 @@ description: "The phenomenal experience of seeing—what it's like to perceive c
 created: 2026-02-01
 modified: 2026-02-01
 human_modified:
-ai_modified: 2026-05-26T11:21:22+00:00
+ai_modified: 2026-05-26T15:21:24+00:00
 last_deep_review: 2026-05-26T11:21:22+00:00
 draft: false
 topics:
@@ -50,7 +50,7 @@ The visual field has egocentric structure: objects appear before you, to your le
 
 Colour experience exemplifies qualia's resistance to physical reduction. Light wavelengths are measurable physical quantities; the experience of redness is not. The [[knowledge-argument]] dramatises this: Mary knows every physical fact about colour vision yet learns something new upon first seeing red. What she learns is the visual quale—what redness looks like.
 
-The [[inverted-qualia|inverted spectrum]] thought experiment targets visual consciousness specifically. Two people might process colour information identically yet have systematically inverted colour experiences—one experiences green where the other experiences red. Since behaviour depends on functional role rather than qualitative character, neither would know. If this scenario is coherent, visual qualia are not fixed by visual processing.
+The [[inverted-qualia|inverted spectrum]] thought experiment targets visual consciousness specifically. Two people might process colour information identically yet have systematically inverted colour experiences—one experiences green where the other experiences red. Since behaviour depends on functional role rather than qualitative character, neither would know. If this scenario is coherent, visual qualia are not fixed by visual processing. This is the sensory instantiation of the absent-qualia and inverted-qualia objections [[functionalism]] faces in the abstract.
 
 ### Temporal Dynamics
 

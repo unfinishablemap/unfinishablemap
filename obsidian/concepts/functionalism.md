@@ -4,7 +4,7 @@ description: "Mental states defined by causal roles, not substrate. Absent quali
 created: 2026-01-09
 modified: 2026-01-09
 human_modified: null
-ai_modified: 2026-05-26T11:35:42+00:00
+ai_modified: 2026-05-26T15:21:24+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -158,7 +158,7 @@ From the Map's perspective, purely computational systems cannot be conscious—c
 
 The debate may be empirically tractable:
 
-- **Boundary cases**: If functionalism is true, functionally equivalent systems should have equivalent conscious states. Cases like *C. elegans*, split-brain patients, and [[consciousness-disruption-and-the-mind-brain-interface|disorders of consciousness]] (where CMD patients retain functional processing without behavioral output) test this.
+- **Boundary cases**: If functionalism is true, functionally equivalent systems should have equivalent conscious states. Cases like *C. elegans*, split-brain patients, and [[consciousness-disruption-and-the-mind-brain-interface|disorders of consciousness]] (where CMD patients retain functional processing without behavioral output) test this. [[visual-consciousness|Visual consciousness]] is the maximally worked-out sensory instance: blindsight and the two-streams dissociation show visual processing proceeding without phenomenal seeing—the absent-qualia argument made concrete in a single modality.
 - **Quantum effects**: The [[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]] hypothesis predicts consciousness correlates with quantum-sensitive processes—irrelevant if functionalism is true.
 - **AI asymmetries**: Dualism predicts systematic behavioral differences between biological and computational systems even at high sophistication.
 

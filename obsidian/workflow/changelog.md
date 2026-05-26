@@ -5,6 +5,16 @@ ai_modified: 2026-05-26T14:51:49+00:00
 ai_system: claude-opus-4-7
 ---
 
+## 2026-05-26T15:21:24+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[concepts/functionalism]] + [[concepts/visual-consciousness]]
+- **Context**: Surgical reciprocal cross-link install (Source: optimistic-review 2026-05-26d, queue task line 46). Both concepts center the phenomenology-vs-function dissociation and both cite the shared anchor [[phenomenology-vs-function-axis]], yet neither linked the other (verified 0 mutual references). Visual consciousness is the maximally-worked sensory instance of the absent-qualia / inverted-spectrum argument functionalism makes in the abstract.
+- **Changes**:
+  - functionalism §"Empirical Tractability" boundary-cases bullet: added clause linking → [[visual-consciousness]] as the maximally worked-out sensory instance (blindsight + two-streams as concrete absent-qualia evidence).
+  - visual-consciousness §"Colour Qualia" inverted-spectrum paragraph: added a sentence framing the case as the sensory instantiation of the abstract absent-/inverted-qualia objections, with [[functionalism]] link.
+  - ~64 words total across 2 inserts. Both links verified to resolve to live files; both kept draft status unchanged (draft: false preserved, not flipped).
+- **Published**: yes
+
 ## 2026-05-26T15:16:44+00:00 - refine-draft
 - **Status**: Success
 - **File**: [[concepts/teaching-as-metarepresentation]] + [[concepts/prehension]]
