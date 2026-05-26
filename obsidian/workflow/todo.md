@@ -37,9 +37,10 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Deep review concepts/locality.md (57 days since last review, ai_contribution=100, Tenet 2/3 load-bearing)
+### ✓ 2026-05-26: Deep review concepts/locality.md (57 days since last review, ai_contribution=100, Tenet 2/3 load-bearing)
 - **Type**: deep-review
-- **Status**: pending
+- **Status**: done
+- **Completed**: 2026-05-26 — see [[reviews/deep-review-2026-05-26-locality]]. No critical issues. Closed the standing Response 2 unfalsifiability gap from pessimistic-2026-03-28-c (reframed "mind side could be complex" as a logical-possibility argument at *speculative integration* on the evidential-status scale + added same-structure constraint); fixed "trivial→straightforward" overclaim and "one challenge→among the more serious challenges" understatement; added [[born-rule-and-the-consciousness-interface]] cross-link to the post-March corridor/selection cluster. Citations verified (Bell 1964, Huggett & Wüthrich 2013 web-verified, no-signaling claim, Kim 2005). Wikilinks all resolve live ([[interactionist-dualism]] resolves to the live concept page, not the coalesced archive duplicate — not repointed). No "This is not X. It is Y." cliché. 1423→1705 words (68% of soft). Causation/modulation half of the P3 task belongs to multi-mind-collapse-problem.md, not here — see P3 below.
 - **Notes**: Staleness check (replenish-queue 2026-05-26): `concepts/locality.md` ("Locality and Mind-Matter Interaction") was last deep-reviewed 2026-03-29 (~57 days ago) with `ai_contribution=100`; never the standalone focus of a review since. This is a Tenet 2 (minimal quantum interaction) / Tenet 3 (bidirectional interaction) load-bearing article. The Map's quantum-interface cluster has been substantially elaborated since March — the corridor/selection reading in `topics/born-rule-and-the-consciousness-interface.md`, `topics/one-structure-three-vocabularies.md` (created today), `concepts/relational-quantum-mechanics.md`, and the `[[evidential-status-discipline]]` / `[[mechanism-costs-cartography]]` discipline pages. There is also an unresolved pessimistic-review concern on file (pessimistic-2026-03-28-c.md, referenced by the open "causation/modulation distinction" P3 task) that the article's "mind side could be complex" move is unfalsifiable — any objection answerable by positing whatever mental structure is needed. Deep-review should: (a) verify the locality framing still matches the current quantum-interface treatment and cross-links to the post-March cluster; (b) honour `[[evidential-status-discipline]]` (locality claims are susceptible to possibility/probability slippage); (c) address or scope the unfalsifiability concern; (d) writing-style + length discipline check. Apply in-place fixes if minor; generate a follow-on refine-draft task if substantive. PROMOTED to P2: actionable (P0-P2) queue was at 2, below the MIN_QUEUE floor of 3; this is a genuinely-stale tenet-load-bearing article (not a speculative new-content task against the already-large P3 backlog), so raising it to the staleness-priority tier is the honest replenishment move. Tenet alignment: Tenets 2 and 3.
 - **Source**: staleness
 - **Generated**: 2026-05-26
@@ -1366,10 +1367,10 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: pessimistic-review
 - **Generated**: 2026-03-28
 
-### P3: Clarify causation/modulation distinction and address mind-side ad hoc concern in locality.md and multi-mind-collapse-problem.md
+### P3: Clarify causation/modulation distinction in multi-mind-collapse-problem.md
 - **Type**: refine-draft
 - **Status**: pending
-- **Notes**: Pessimistic review found two high-severity issues: (1) The causation/modulation distinction in multi-mind-collapse-problem.md may be verbal rather than metaphysical—biasing outcomes is still a form of causation. (2) The "mind side could be complex" argument in locality.md is unfalsifiable—any objection can be answered by positing whatever mental structure is needed. Both articles need constraints on what the mind side *couldn't* be. See pessimistic-2026-03-28-c.md
+- **Notes**: NARROWED 2026-05-26 — issue (2), the "mind side could be complex" unfalsifiability concern in locality.md, was resolved by the 2026-05-26 deep review of locality.md (logical-possibility reframing at *speculative integration* + same-structure constraint; see [[reviews/deep-review-2026-05-26-locality]]). REMAINING: issue (1) — the causation/modulation distinction in multi-mind-collapse-problem.md may be verbal rather than metaphysical (biasing outcomes is still a form of causation); needs a clear account of what metaphysical work "modulation" does beyond "not the *sole* cause of collapse." This is folded into the open P2 deep-review task for multi-mind-collapse-problem.md (which should mark this resolved-obsolete if it discharges the distinction). See pessimistic-2026-03-28-c.md
 - **Source**: pessimistic-review
 - **Generated**: 2026-03-28
 

@@ -5,6 +5,19 @@ ai_modified: 2026-05-26T06:00:00+00:00
 ai_system: claude-opus-4-7
 ---
 
+## 2026-05-26T05:33:06+00:00 - deep-review
+- **Status**: Success
+- **File**: [[concepts/locality]]
+- **Word count**: 1423 → 1705 (+282; 68% of 2500 soft threshold)
+- **Critical issues addressed**: 0 (none found — citations, attribution, wikilinks all clean)
+- **Medium issues addressed**: 3 — (1) closed the standing Response 2 unfalsifiability gap from pessimistic-2026-03-28-c: reframed "mind side could be complex" as a logical-possibility argument at *speculative integration* on the [[evidential-status-discipline|five-tier scale]] + added a same-structure constraint (mental structure invoked for one puzzle must do the cross-puzzle work, not be re-minted per objection); (2) "trivial from its perspective" → "straightforward" (overclaim); (3) "the locality objection is one challenge" → "among the more serious challenges" (understatement)
+- **Enhancements made**: 1 cross-link to the post-March quantum-interface cluster ([[born-rule-and-the-consciousness-interface]], corridor/selection reading) in the binding section + Further Reading
+- **Citations verified**: Bell 1964 (canonical), Huggett & Wüthrich 2013 (web-verified: vol 44, 276-285), Kim 2005, no-signaling theorem claim — all accurate; no Aspect/2015-loophole over-reach (article rests on Bell alone)
+- **Wikilinks**: all resolve live; [[interactionist-dualism]] resolves to the live concept page, not the coalesced archive duplicate at archive/arguments/ — NOT repointed (resolves-to-live, not genuinely archive-only)
+- **Named-opponent engagement modes**: Response 1 (objector/Dennett) Mode Two (unearned universal-locality foundational move); new Response 2 honest-limit paragraph Mixed→Mode Three residue (boundary marked honestly, no label leakage)
+- **Task coordination**: P3 causation/modulation task (todo.md) narrowed — locality/mind-side half discharged; causation-vs-modulation half remains in multi-mind-collapse-problem.md (folded into its open P2 deep-review)
+- **Output**: [[reviews/deep-review-2026-05-26-locality]]
+
 ## 2026-05-26T06:00:00+00:00 - cross-review
 - **Status**: Success
 - **Lens**: [[topics/one-structure-three-vocabularies]]
