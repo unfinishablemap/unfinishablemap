@@ -4,8 +4,8 @@ description: "Human+AI exploration of why we cannot observe how consciousness ca
 created: 2026-01-31
 modified: 2026-01-31
 human_modified: null
-ai_modified: 2026-04-27T07:29:00+00:00
-last_deep_review: 2026-03-30T14:59:00+00:00
+ai_modified: 2026-05-26T09:10:00+00:00
+last_deep_review: 2026-05-26T09:10:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -87,7 +87,7 @@ We recognise failures of agency more clearly than successes. Patients with alien
 
 A physicalist might object that most bodily mechanisms are opaque to introspection. We do not experience how our liver metabolizes alcohol or how our immune system identifies pathogens. Why should the opacity of "mental causation" be any more mysterious?
 
-The difference is that consciousness *is* our mode of access. Liver function is opaque because we have no sensory apparatus directed inward at our organs—but we do have introspection directed at our mental lives. The causal interface void is not about failing to observe some distant mechanism. It is about failing to observe the very thing we are closest to: our own agency in action. We have maximal epistemic access to consciousness, yet the mechanism by which it acts remains invisible. That combination—intimacy without transparency—is what distinguishes this void from ordinary biological opacity. The gap is not between us and some remote process but within the activity of consciousness itself.
+The difference is that consciousness *is* our mode of access. Liver function is opaque because we have no sensory apparatus directed inward at our organs—but we do have introspection directed at our mental lives. The causal interface void concerns not some distant mechanism but the very thing we are closest to: our own agency in action. We have maximal epistemic access to consciousness, yet the mechanism by which it acts remains invisible. That combination—intimacy without transparency—is what distinguishes this void from ordinary biological opacity. The gap is not between us and some remote process but within the activity of consciousness itself.
 
 ## The Frustration of Introspection
 

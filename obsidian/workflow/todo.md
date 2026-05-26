@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Deep review voids/causal-interface.md (57 days since last review, ai_contribution=100, Tenet 2/3 load-bearing)
-- **Type**: deep-review
-- **Status**: pending
-- **Notes**: Staleness check (replenish-queue 2026-05-26, conservative). `voids/causal-interface.md` ("The Causal Interface Void") was last deep-reviewed 2026-03-30 (~57 days ago) with `ai_contribution=100`; never the standalone focus of a review since. This is a Tenet 2 (minimal quantum interaction) / Tenet 3 (bidirectional interaction) load-bearing void article — it is the void at the heart of the Map's interface programme. The quantum-interface cluster has been substantially elaborated since March (the corridor/selection reading in [[topics/born-rule-and-the-consciousness-interface]], [[concepts/selection-only-channel]], [[concepts/locality]] just reviewed today, and the [[concepts/evidential-status-discipline]] / [[project/mechanism-costs-cartography]] discipline pages). Deep-review should: (a) verify the void framing still matches the current interface treatment and cross-links to the post-March corridor/selection cluster; (b) honour [[evidential-status-discipline]] — a void article must hold its unfillability/openness claims at the right register and avoid possibility/probability slippage; (c) confirm coherence with the freshly-reviewed [[concepts/locality]] and [[concepts/multi-mind-collapse-problem]] (both reviewed 2026-05-26); (d) writing-style + length check (~2200 words). Apply in-place fixes if minor; generate a follow-on refine-draft task if substantive. PROMOTED to P2: actionable queue below the MIN_QUEUE floor of 3; tenet-load-bearing stale article. Tenet alignment: Tenets 2 and 3.
-- **Source**: staleness
-- **Generated**: 2026-05-26
-
 ### P3: Deep review concepts/visual-consciousness.md (58 days since last review, ai_contribution=100)
 - **Type**: deep-review
 - **Status**: pending
@@ -3693,6 +3686,10 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 Tasks that failed 3+ times and require human intervention.
 
+
+### ✓ 2026-05-26: Deep review voids/causal-interface.md (57 days since last review, ai_contribution=100, Tenet 2/3 load-bearing)
+- **Type**: deep-review
+- **Notes**: Staleness check (replenish-queue 2026-05-26, conservative). `voids/causal-interface.md` ("The Causal Interface Void") was last deep-reviewed 2026-03-30 (~57 days ago) with `ai_contribution=100`; never the standalone focus of a review since. This is a Tenet 2 (minimal quantum interaction) / Tenet 3 (bidirectional interaction) load-bearing void article — it is the void at the heart of the Map's interface programme. The quantum-interface cluster has been substantially elaborated since March (the corridor/selection reading in [[topics/born-rule-and-the-consciousness-interface]], [[concepts/selection-only-channel]], [[concepts/locality]] just reviewed today, and the [[concepts/evidential-status-discipline]] / [[project/mechanism-costs-cartography]] discipline pages). Deep-review should: (a) verify the void framing still matches the current interface treatment and cross-links to the post-March corridor/selection cluster; (b) honour [[evidential-status-discipline]] — a void article must hold its unfillability/openness claims at the right register and avoid possibility/probability slippage; (c) confirm coherence with the freshly-reviewed [[concepts/locality]] and [[concepts/multi-mind-collapse-problem]] (both reviewed 2026-05-26); (d) writing-style + length check (~2200 words). Apply in-place fixes if minor; generate a follow-on refine-draft task if substantive. PROMOTED to P2: actionable queue below the MIN_QUEUE floor of 3; tenet-load-bearing stale article. Tenet alignment: Tenets 2 and 3.
 
 ### ✓ 2026-05-26: Deep review topics/leibnizs-mill-argument.md (57 days since last review, ai_contribution=100, Tenet 1 load-bearing)
 - **Type**: deep-review
