@@ -5,6 +5,16 @@ ai_modified: 2026-05-26T06:00:00+00:00
 ai_system: claude-opus-4-7
 ---
 
+## 2026-05-26T05:21:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [[topics/quantum-neural-timing-constraints]]
+- **Word count**: 2597 → 2597 (0; 87% of 3000 soft, ok)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 (sixth review; fully converged since fourth. Only change since 2026-04-07 was a mechanical wikilink repoint — `non-retrocausal-conscious-selection-models` → `forward-in-time-conscious-selection` — from a coalesce; the link resolves. All 13 refs present, all 14 wikilinks resolve. Calibration check clean: article explicitly disowns any "survives timing objections" framing and acknowledges post-decoherence selection's reduced empirical content. Timestamps updated only.)
+- **Engagement modes** (editor-internal): Tegmark = Mode Three (empirical-question/boundary marking) with Mode-One-adjacent in-domain dispute on decoherence parameters via Hagan et al. recalculation. No boundary-substitution, no label leakage.
+- **Output**: [[reviews/deep-review-2026-05-26-quantum-neural-timing-constraints]]
+
 ## 2026-05-26T08:15:00+00:00 - deep-review
 - **Status**: Success
 - **File**: [[topics/completeness-in-physics-under-dualism]]
