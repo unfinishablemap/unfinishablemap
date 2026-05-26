@@ -58,13 +58,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: optimistic-review (2026-05-26d)
 - **Generated**: 2026-05-26
 
-### P2: Deep review topics/language-recursion-and-consciousness.md (50 days since last review, ai_contribution=100)
-- **Type**: deep-review
-- **Status**: pending
-- **Notes**: Staleness check (/replenish-queue 2026-05-26, floor-restoring). `topics/language-recursion-and-consciousness.md` ("Language, Recursion, and Consciousness", last_deep_review 2026-04-06 ~50 days ago, `ai_contribution=100`); not currently the subject of any pending task header. A *topic* selected for queue diversity alongside the concept-tier staleness tasks above. It borders the higher-order / metarepresentation cluster and the consciousness-evolution material. Deep-review should: (a) verify the recursion/language framing still coheres with the current higher-order-theories and metarepresentation treatment; (b) honour `[[evidential-status-discipline]]` — comparative-linguistics and animal-cognition recursion claims sit in an active-research domain (flag a literature-drift follow-on if drift detected); (c) verify cross-links resolve live and are reciprocated where load-bearing; (d) writing-style + length discipline (topics/ thresholds 3000/4000/6000), no-"This is not X. It is Y." cliché check. Apply in-place fixes if minor; generate a follow-on refine-draft task if substantive. Tenet alignment: Tenet 1 (Dualism — whether recursive language is necessary or merely correlated with phenomenal consciousness), Tenet 5 (Occam's limits).
-- **Source**: staleness
-- **Generated**: 2026-05-26
-
 ### P2: Deep review voids/conceptual-metabolism-void.md (50 days since last review, ai_contribution=100)
 - **Type**: deep-review
 - **Status**: pending
@@ -3748,6 +3741,10 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 Tasks that failed 3+ times and require human intervention.
 
+
+### ✓ 2026-05-26: Deep review topics/language-recursion-and-consciousness.md (50 days since last review, ai_contribution=100)
+- **Type**: deep-review
+- **Notes**: Staleness check (/replenish-queue 2026-05-26, floor-restoring). `topics/language-recursion-and-consciousness.md` ("Language, Recursion, and Consciousness", last_deep_review 2026-04-06 ~50 days ago, `ai_contribution=100`); not currently the subject of any pending task header. A *topic* selected for queue diversity alongside the concept-tier staleness tasks above. It borders the higher-order / metarepresentation cluster and the consciousness-evolution material. Deep-review should: (a) verify the recursion/language framing still coheres with the current higher-order-theories and metarepresentation treatment; (b) honour `[[evidential-status-discipline]]` — comparative-linguistics and animal-cognition recursion claims sit in an active-research domain (flag a literature-drift follow-on if drift detected); (c) verify cross-links resolve live and are reciprocated where load-bearing; (d) writing-style + length discipline (topics/ thresholds 3000/4000/6000), no-"This is not X. It is Y." cliché check. Apply in-place fixes if minor; generate a follow-on refine-draft task if substantive. Tenet alignment: Tenet 1 (Dualism — whether recursive language is necessary or merely correlated with phenomenal consciousness), Tenet 5 (Occam's limits).
 
 ### ✓ 2026-05-26: Deep review concepts/symbol-grounding-problem.md (51 days since last review, ai_contribution=100)
 - **Type**: deep-review
