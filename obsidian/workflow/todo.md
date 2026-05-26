@@ -37,6 +37,27 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
+### P2: Deep review topics/indexical-identity-quantum-measurement.md (41 days since last review, ai_contribution=100, Tenet 4 load-bearing)
+- **Type**: deep-review
+- **Status**: pending
+- **Notes**: Staleness check (/replenish-queue 2026-05-26). The actionable (P0–P2) queue stood at 2 open tasks (the consciousness-and-skill-acquisition literature-drift P2 and the episodic-memory deep-review P2), below the MIN_QUEUE floor of 3. Per the documented steady-state pattern, promoting a grounded, tenet-load-bearing staleness deep-review is the honest replenishment move — minting speculative expand-topic work against the ~498-task P3 backlog while topics (247/270), concepts (245/270) sit near cap and voids (101/100) is over cap is not. Verified `last_deep_review: 2026-04-15T15:05:00+00:00` (~41 days), `ai_contribution=100`, 2809 words (well under the 4000 topics hard threshold). This is a **Tenet 4 (No Many Worlds / indexical identity matters)** load-bearing article and a major navigational hub (~144 cross-corpus mentions); no dedicated open task currently targets it. Deep-review should: (a) verify the indexical-identity framing still coheres with the current Tenet 4 treatment and the post-March quantum-interface / corridor-selection cluster ([[born-rule-and-the-consciousness-interface]], [[multi-mind-collapse-problem]], [[indexical-knowledge-and-identity]]); (b) honour [[evidential-status-discipline]] — indexical-identity claims about measurement are prone to possibility/probability and metaphysics/physics slippage; (c) confirm the dense inbound cross-links resolve live and are reciprocated where load-bearing; (d) writing-style + length discipline (no "This is not X. It is Y." cliché). Apply in-place fixes if minor; generate a follow-on refine-draft task if substantive. Tenet alignment: Tenet 4 primarily (indexical identity vs branch-relative MWI indexing), Tenet 1 (Dualism — the indexical first-person standpoint resists reduction).
+- **Source**: staleness
+- **Generated**: 2026-05-26
+
+### P2: Condense apex/phenomenal-output-causal-machinery-dissociation.md (7306 words, over the 6500 apex critical threshold)
+- **Type**: condense
+- **Status**: pending
+- **Notes**: Length analysis (/replenish-queue 2026-05-26). At 7306 words this apex exceeds the 6500-word *critical* threshold for `apex/` (the worst publishable-content length offender in the corpus; the other hard-warning offenders — `topics/epistemology-of-convergence-arguments.md` 5867w and `topics/born-rule-and-the-consciousness-interface.md` 4997w — sit below their 6000-word topics critical and are deferred). No existing condense task targets this file. `last_deep_review: 2026-05-19` (recent and stable), so the content is settled — a good condense candidate. The article's load-bearing "Strongest Materialist Reading" steelmanning pattern and the felt-character residue argument MUST be preserved verbatim; tighten older expository passages and defer detailed subtopics to linked articles per the /condense skill. Apex register is human-readable synthesis, so prioritise readability and the organising spine over exhaustive coverage. Tenet alignment: Tenet 1 (Dualism — the phenomenal-output / causal-machinery dissociation is the apex's load-bearing exhibit), Tenet 5 (Occam's Razor Has Limits — via the steelmanning-then-residue method).
+- **Source**: length_analysis
+- **Generated**: 2026-05-26
+
+### P3: Deep review concepts/tenet-falsification-conditions.md (41 days since last review, ai_contribution=100, methodology/Tenet 5 load-bearing)
+- **Type**: deep-review
+- **Status**: pending
+- **Notes**: Staleness check (/replenish-queue 2026-05-26, queue-diversity top-up — a concept rather than the two promoted topics/apex tasks above). Verified `last_deep_review: 2026-04-15T20:56:00+00:00` (~41 days), `ai_contribution=100`, 1464 words (well under the 2500 concepts soft threshold — no condense risk). This page states the falsification conditions for each of the five tenets, so it is methodologically load-bearing across the whole framework and a [[direct-refutation-discipline]] / [[evidential-status-discipline]] anchor. Deep-review should: (a) verify each tenet's stated falsification condition still matches the current tenet treatment and the post-March empirical-horizon work (the reverse-inference / Penrose-OR and Born-rule-testing material elaborates what a discriminating result would look like — check the falsification conditions name these where appropriate); (b) confirm the conditions are genuinely falsifiable claims ("untested, not untestable") rather than scope-retreats that absorb any objection; (c) check cross-links resolve live and are reciprocated; (d) writing-style + length discipline. Apply in-place fixes if minor; generate a follow-on refine-draft task if substantive. Tenet alignment: all five (methodology page), Tenet 5 (Occam's Razor Has Limits) primarily as the discipline anchor.
+- **Source**: staleness
+- **Generated**: 2026-05-26
+
 ### P3: Deep review topics/diachronic-agency-and-personal-narrative.md (46 days since last review, ai_contribution=100)
 - **Type**: deep-review
 - **Status**: pending
