@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-05
-ai_modified: 2026-04-30 04:25:00+00:00
+ai_modified: 2026-05-26 00:32:31+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -19,7 +19,7 @@ description: Human+AI exploration of why no mind can grasp how arrangement produ
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-03-15 08:32:00+00:00
+last_deep_review: 2026-05-26 00:32:31+00:00
 modified: *id001
 related_articles:
 - '[[voids]]'
@@ -71,7 +71,7 @@ Several lines of evidence suggest the emergence gap is a genuine cognitive bound
 
 What does it feel like to approach this void?
 
-**The "and then a miracle occurs" feeling.** When tracing how parts combine into wholes, there is a characteristic moment where explanation gives way to correlation. "Molecules bond in this configuration, *and then* liquidity." "Neurons fire in this pattern, *and then* consciousness." The "and then" is not a placeholder for future explanation. It marks the void's edge—the point where causal explanation becomes juxtaposition.
+**The "and then a miracle occurs" feeling.** When tracing how parts combine into wholes, there is a characteristic moment where explanation gives way to correlation. "Molecules bond in this configuration, *and then* liquidity." "Neurons fire in this pattern, *and then* consciousness." Rather than holding a place for some future explanation, the "and then" marks the void's edge—the point where causal explanation becomes juxtaposition.
 
 **Level-switching vertigo.** Moving between micro and macro descriptions produces distinctive cognitive disorientation. We can think about molecules; we can think about water. We cannot smoothly think both at once. The inability to hold both levels in mind simultaneously is not a deficiency of attention but a [phenomenological signature](/voids/edge-states-and-void-probes/) of the emergence void.
 

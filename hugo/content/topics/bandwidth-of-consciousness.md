@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-09
-ai_modified: 2026-05-14 12:41:00+00:00
+ai_modified: 2026-05-26 00:52:57+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -61,7 +61,7 @@ topics:
 - '[[attention-and-the-consciousness-interface]]'
 ---
 
-Consciousness sits at the centre of a dramatic information asymmetry. Sensory transduction delivers roughly 11 million bits per second to the brain (Zimmermann 1986; Nørretranders 1998), and aggregate neural processing runs at ~10⁹ bits per second (Zheng & Meister 2025). Yet conscious influence on behaviour measures at approximately 10 bits per second—a ratio Zheng and Meister call the "sifting ratio," running to 100 million to one. The Unfinishable Map treats this asymmetry as a structural signature of the mind-brain interface: consciousness *receives* vast information passively but *acts* through a channel so narrow it can only select among pre-computed options. The bandwidth constraint defines the *shape* of the interface, distinguishing what consciousness does from what the brain does, and exposing why production models face a problem that [filter](/concepts/filter-theory/) and [interactionist](/concepts/interactionist-dualism/) models handle naturally.
+Consciousness sits at the centre of a dramatic information asymmetry. Sensory transduction delivers roughly 11 million bits per second to the brain (Zimmermann 1986; Nørretranders 1998), and aggregate neural processing runs at ~10⁹ bits per second (Zheng & Meister 2025). Yet conscious influence on behaviour measures at approximately 10 bits per second—a ratio Zheng and Meister call the "sifting ratio," running to 100 million to one. The Unfinishable Map treats this asymmetry as a structural signature of the mind-brain interface: on the dualist reading, consciousness *receives* vast information passively but *acts* through a channel so narrow it can only select among pre-computed options. The bandwidth constraint may define the *shape* of the interface, distinguishing what consciousness does from what the brain does, and arguably exposing why production models face a problem that [filter](/concepts/filter-theory/) and [interactionist](/concepts/interactionist-dualism/) models appear to handle more naturally.
 
 ## Measuring the Ceiling in Bits
 
@@ -107,7 +107,7 @@ Consciousness processes one thing at a time. At 10 bits per second, dividing cap
 
 ### Forced Abstraction
 
-A 10-bit/second processor cannot operate on raw sensory data. Vision delivers roughly 10⁷ bits per second; even after cortical compression, the data stream dwarfs conscious capacity by orders of magnitude. Consciousness is forced to operate on *abstractions*—compressed, categorical representations encoding meanings and goals rather than sensory primitives. Intentions are coarse-grained—"reach for the cup" rather than "fire motor neurons N₄₅₆₇₈ in sequence"—as the [bandwidth problem in mental causation](/concepts/consciousness-bandwidth-architecture/) makes explicit. [Recursive linguistic structure](/topics/language-recursion-and-consciousness/) may be the most powerful compression scheme consciousness employs, composing compressed representations into novel combinations at rates the bandwidth can sustain.
+A 10-bit/second processor cannot operate on raw sensory data. Vision delivers roughly 10⁷ bits per second; even after cortical compression, the data stream dwarfs conscious capacity by orders of magnitude. Consciousness appears forced to operate on *abstractions*—compressed, categorical representations encoding meanings and goals rather than sensory primitives. Intentions are coarse-grained—"reach for the cup" rather than "fire motor neurons N₄₅₆₇₈ in sequence"—as the [bandwidth problem in mental causation](/concepts/consciousness-bandwidth-architecture/) makes explicit. [Recursive linguistic structure](/topics/language-recursion-and-consciousness/) may be the most powerful compression scheme consciousness employs, composing compressed representations into novel combinations at rates the bandwidth can sustain.
 
 ### The Temporal Grain
 
@@ -119,15 +119,15 @@ The bandwidth constraint creates a functional partition: unconscious systems han
 
 ## Why Coarseness Is Necessary
 
-The bandwidth constraint is not merely a limitation — it is an architectural requirement for effective control. A controller matching the brain's processing grain would need to track a hundred trillion synaptic states at millisecond timescales. Such a consciousness would not be a controller; it would be a duplicate of the system it was supposed to govern. Effective hierarchical control requires operating at a different grain than the system being controlled.
+The bandwidth constraint may be more than a mere limitation — on this reading it is an architectural requirement for effective control. A controller matching the brain's processing grain would need to track a hundred trillion synaptic states at millisecond timescales. Such a consciousness would arguably not be a controller at all; it would be a duplicate of the system it was supposed to govern. Effective hierarchical control plausibly requires operating at a different grain than the system being controlled.
 
-The [resolution-void](/voids/resolution-void/) creates this abstraction. By compressing eleven million bits to ten, consciousness operates at a level where the relevant categories are goals, policies, and action types—not synaptic weights and firing rates. The bandwidth constraint ensures that conscious intervention is limited to the small number of selection points where it can make a difference.
+The [resolution-void](/voids/resolution-void/) may create this abstraction. By compressing eleven million bits to ten, consciousness operates at a level where the relevant categories are goals, policies, and action types—not synaptic weights and firing rates. The bandwidth constraint, on this reading, ensures that conscious intervention is limited to the small number of selection points where it could make a difference.
 
 ## The Resolution-Bandwidth Coupling
 
 The [resolution void](/voids/resolution-void/) and bandwidth constraint are tightly coupled. The compression ratio determines the selection vocabulary, and the selection vocabulary determines the bandwidth requirement. Finer-grained perception would require finer-grained selection to be useful: perceiving individual motor units demands controlling individual motor units.
 
-The ten-bit resolution and ten-bit bandwidth are matched. Consciousness perceives at the resolution it can control, and controls at the resolution it can perceive. A mismatch in either direction would render the system dysfunctional.
+The ten-bit resolution and ten-bit bandwidth appear matched. Consciousness perceives at roughly the resolution it can control, and controls at roughly the resolution it can perceive. A mismatch in either direction would, on this picture, render the system dysfunctional.
 
 This tuning suggests an architectural constraint rather than accident. A self-monitoring system could adjust both "resolution" and "bandwidth" by allocating more neural resources. That the two remain locked in ratio across all tasks and training conditions suggests a constraint external to neural architecture.
 
@@ -135,21 +135,21 @@ This tuning suggests an architectural constraint rather than accident. A self-mo
 
 ### Against Production Models
 
-If the brain *produces* consciousness, the bandwidth constraint is puzzling. A system with 86 billion neurons and petabit-scale internal processing produces a consciousness that processes at 10 bits per second—a narrowing factor of 10⁸, far beyond what parallel-to-serial architectures typically impose.
+If the brain *produces* consciousness, the bandwidth constraint may seem puzzling. A system with 86 billion neurons and petabit-scale internal processing produces a consciousness that processes at 10 bits per second—a narrowing factor of 10⁸, arguably far beyond what parallel-to-serial architectures typically impose, though a production theorist could reply that the workspace bottleneck is exactly such an imposition.
 
-The bottleneck appears precisely where consciousness enters the picture—the brain *can* process at higher rates, as Sauerbrei and Pruszynski demonstrate. The [grain mismatch evidence programme](/topics/grain-mismatch-as-independent-evidence/) situates this informational asymmetry alongside two independent structural mismatches—spatial and temporal—arguing that their convergence constitutes structural evidence rather than a conceivability exercise.
+The bottleneck appears precisely where consciousness enters the picture—the brain *can* process at higher rates, as Sauerbrei and Pruszynski show experimentally. The [grain mismatch evidence programme](/topics/grain-mismatch-as-independent-evidence/) situates this informational asymmetry alongside two independent structural mismatches—spatial and temporal—suggesting that their convergence may constitute structural evidence rather than a conceivability exercise.
 
 ### Filter Theory's Natural Fit
 
-The [filter model](/concepts/filter-theory/) handles the bandwidth constraint without strain. If the brain constrains consciousness rather than producing it, the bottleneck is the *filter itself*—the narrow channel through which consciousness accesses and influences the physical world. The 10 bits per second measures the channel's capacity, not consciousness's capacity.
+The [filter model](/concepts/filter-theory/) appears to handle the bandwidth constraint without strain. If the brain constrains consciousness rather than producing it, the bottleneck may be the *filter itself*—the narrow channel through which consciousness accesses and influences the physical world. On this reading the 10 bits per second measures the channel's capacity, not consciousness's capacity.
 
-The same brain that runs high-bandwidth motor control in the cerebellum throttles to ~10 bits per second where consciousness participates. On the filter model, this is expected: the filter constrains consciousness specifically, not neural processing in general. The converse prediction also holds: altered states involving loosened interface constraints should involve experiences reported as *richer* than ordinary waking consciousness. Psychedelic research finds increased neural entropy correlating with expanded subjective richness (Carhart-Harris et al., 2014)—which production models struggle to explain but filter models expect.
+The same brain that runs high-bandwidth motor control in the cerebellum throttles to ~10 bits per second where consciousness participates. On the filter model, this is what one would expect: the filter constrains consciousness specifically, not neural processing in general. The converse prediction also seems to hold: altered states involving loosened interface constraints might involve experiences reported as *richer* than ordinary waking consciousness. Psychedelic research finds increased neural entropy correlating with expanded subjective richness (Carhart-Harris et al., 2014)—a pattern production models may struggle to explain but filter models seem to anticipate, though the entropy-richness correlation could admit production-side readings too.
 
 ### The Outbound Side Suggests Selection
 
-A system that *computes* its outputs should scale its throughput with its processing resources. But a system that *selects* among pre-computed options needs only enough bandwidth to make choices—and 10 bits per second suffices for roughly 3–4 selections per second among small sets of alternatives.
+A system that *computes* its outputs should scale its throughput with its processing resources. But a system that *selects* among pre-computed options may need only enough bandwidth to make choices—and 10 bits per second appears to suffice for roughly 3–4 selections per second among small sets of alternatives.
 
-This matches the phenomenology of deliberate action: choosing among presented options, not computing from raw data. The [Libet readiness potential experiments](/concepts/libet-experiments/) captured this architecture: neural preparation precedes conscious awareness because preparation *must* precede selection.
+This seems to match the phenomenology of deliberate action: choosing among presented options, not computing from raw data. The [Libet readiness potential experiments](/concepts/libet-experiments/) may capture this architecture: neural preparation precedes conscious awareness because, on the selection reading, preparation *must* precede selection.
 
 Unconscious systems handle execution at full neural bandwidth; consciousness handles [selection](/concepts/consciousness-selecting-neural-patterns/) at interface bandwidth.
 
@@ -169,13 +169,13 @@ The [baseline cognition hypothesis](/concepts/baseline-cognition/) attributes so
 
 ## The Epiphenomenalism Test
 
-The asymmetry poses a specific challenge to [epiphenomenalism](/concepts/epiphenomenalism/). If consciousness were epiphenomenal, the outbound "channel" would carry zero bits per second. There would be no consistent throughput ceiling, because epiphenomena have no throughput. The existence of a measurable, task-independent bandwidth—10 bits per second, not zero, not random—indicates consciousness is performing work. Mandik (2010) reinforces this: introspecting motor control introduces a "doubling of tasks"—attending to controlling interferes with controlling—intelligible only if conscious action operates through a narrow channel that cannot simultaneously carry action-selections and self-monitoring.
+The asymmetry poses a specific challenge to [epiphenomenalism](/concepts/epiphenomenalism/). If consciousness were epiphenomenal, the outbound "channel" would carry zero bits per second. There would be no consistent throughput ceiling, because epiphenomena have no throughput. The existence of a measurable, task-independent bandwidth—10 bits per second, not zero, not random—suggests consciousness is performing work. Mandik (2010) may reinforce this: introspecting motor control introduces a "doubling of tasks"—attending to controlling interferes with controlling—a pattern that seems most intelligible if conscious action operates through a narrow channel that cannot simultaneously carry action-selections and self-monitoring.
 
 ## The Evolutionary Puzzle
 
 Zheng and Meister propose that serial conscious processing was inherited from primitive organisms navigating chemical gradients—ancient one-dimensional decision-making that never scaled up. But evolution routinely scales inherited architectures: the mammalian eye began as a light-sensitive patch and became a high-resolution imaging system. If conscious throughput were purely neural-architectural, selective pressure should have increased it over hundreds of millions of years.
 
-The Map offers an alternative. If the ~10 bits/s ceiling reflects the capacity of a mind-brain *interface*, evolutionary pressure on brain architecture alone could not raise it. Evolution can optimise the brain's side—preparing better options faster—but cannot widen a channel whose narrow end is non-physical. This explains why the ceiling holds from Hick's 1952 experiments through 2024 professional e-sports telemetry.
+The Map offers an alternative. If the ~10 bits/s ceiling reflects the capacity of a mind-brain *interface*, evolutionary pressure on brain architecture alone could not raise it. Evolution can optimise the brain's side—preparing better options faster—but, on this reading, cannot widen a channel whose narrow end is non-physical. This may explain why the ceiling appears to hold from Hick's 1952 experiments through 2024 professional e-sports telemetry.
 
 ## The Bandwidth and Free Will
 
@@ -205,7 +205,7 @@ The number ~10 is a load-bearing empirical fact in search of a theory.
 
 The argument linking bandwidth constraints to the interface model would face serious challenge if:
 
-1. **Conscious processing rate proves much higher than ~10 bits/second.** Decades of measurement converge on the same order of magnitude, but if the true figure is hundreds or thousands, the bottleneck interpretation weakens.
+1. **Conscious processing rate turns out much higher than ~10 bits/second.** Decades of measurement converge on the same order of magnitude, but if the true figure is hundreds or thousands, the bottleneck interpretation weakens.
 
 2. **The bottleneck is explained purely by neural architecture.** If serial global broadcasting fully accounts for the ~10⁸ ratio, the philosophical implications dissolve.
 
@@ -219,7 +219,7 @@ The argument linking bandwidth constraints to the interface model would face ser
 
 **[Dualism](/tenets/#dualism)**: A system operating at 10⁹ bits per second internally but producing conscious throughput at 10¹ bits per second contains a discontinuity that identity theories cannot bridge without treating consciousness as a marginal byproduct—contradicting the functional importance of conscious processing for logical reasoning, counterfactual thinking, and deliberate choice.
 
-**[Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction)**: The outbound bandwidth empirically confirms what the tenet stipulates philosophically. A 10-bit/second channel carries exactly the minimal information required for selection among prepared alternatives. The tenet's "smallest possible influence" finds its empirical expression in Zheng and Meister's universal ceiling.
+**[Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction)**: The outbound bandwidth is strikingly compatible with what the tenet stipulates philosophically. A 10-bit/second channel carries roughly the minimal information required for selection among prepared alternatives. The tenet's "smallest possible influence" may find its empirical expression in Zheng and Meister's universal ceiling—though the data constrain rather than establish the reading, since a production architecture could in principle yield the same ceiling.
 
 **[Bidirectional Interaction](/tenets/#bidirectional-interaction)**: Brain-to-consciousness runs at ~10⁹ bits per second; consciousness-to-brain runs at ~10 bits per second. Both directions are causally real; they differ in bandwidth by eight orders of magnitude—an asymmetric channel narrow enough to operate within the gaps that [causal closure](/concepts/causal-closure/) leaves open.
 

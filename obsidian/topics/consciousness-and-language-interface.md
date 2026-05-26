@@ -4,7 +4,7 @@ description: "Consciousness and language are separable but interact bidirectiona
 created: 2026-02-01
 modified: 2026-04-06
 human_modified:
-ai_modified: 2026-04-07T10:07:00+00:00
+ai_modified: 2026-05-26T01:01:12+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -37,7 +37,7 @@ author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-02-01
 last_curated:
-last_deep_review: 2026-04-06T21:04:00+00:00
+last_deep_review: 2026-05-26T01:01:12+00:00
 coalesced_from:
   - "/topics/consciousness-and-language-interface/"
   - "/topics/consciousness-and-language-under-dualism/"
@@ -183,7 +183,7 @@ The Map holds that this confuses correlation with constitution. Language and hig
 
 **Deaf individuals without language exposure** who acquire sign language late in life sometimes report having had rich inner lives—including self-reflection and deliberation—before language acquisition. Such retrospective testimony is methodologically fraught, but the consistent pattern across documented cases suggests that reflective consciousness preceded linguistic capacity.
 
-**[[Consciousness-and-intelligence|The consciousness-intelligence distinction]]** further undermines the constitutive view. Intelligence—the capacity to process information and solve problems—does not require consciousness. Consciousness does not require intelligence. Language contributes to intelligence by providing representational tools. But consciousness is not intelligence, and what language contributes to intelligence it need not contribute to consciousness.
+**[[consciousness-and-cognitive-distinctiveness|The consciousness-intelligence distinction]]** further undermines the constitutive view. Intelligence—the capacity to process information and solve problems—does not require consciousness. Consciousness does not require intelligence. Language contributes to intelligence by providing representational tools. But consciousness is not intelligence, and what language contributes to intelligence it need not contribute to consciousness.
 
 ## The Lossy Bidirectional Channel
 
