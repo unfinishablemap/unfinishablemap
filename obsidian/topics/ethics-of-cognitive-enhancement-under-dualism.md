@@ -4,7 +4,7 @@ description: "If the brain is an interface rather than the seat of mind, cogniti
 created: 2026-03-08
 modified: 2026-03-08
 human_modified:
-ai_modified: 2026-05-14T20:42:00+00:00
+ai_modified: 2026-05-26T00:00:00+00:00
 draft: false
 topics:
   - "[[ethics-under-dualism]]"
@@ -31,7 +31,7 @@ author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-03-08
 last_curated:
-last_deep_review: 2026-04-06T10:42:00+00:00
+last_deep_review: 2026-05-26T00:00:00+00:00
 ---
 
 Cognitive enhancement—through pharmaceuticals, brain-computer interfaces, genetic modification, or neurostimulation—is typically framed as upgrading the brain's computational capacity. Under dualism, this framing is incomplete. If consciousness is not reducible to neural processes but instead interacts with them through a [[mind-matter-interface|mind-matter interface]], then enhancement technologies modify the *interface* rather than the mind itself. This distinction transforms the ethical landscape: questions about identity, responsibility, and human flourishing take on different contours when the thing being enhanced is not the seat of consciousness but the channel through which consciousness acts.

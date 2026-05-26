@@ -1,9 +1,21 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-26T01:31:00+00:00
+ai_modified: 2026-05-26T00:00:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-05-26T00:00:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [[topics/ethics-of-cognitive-enhancement-under-dualism]]
+- **Word count**: 2250 → 2250 (no change; 75% of 3000 topics soft threshold)
+- **Critical issues addressed**: 0 (none found — fourth review, article at convergence)
+- **Medium issues addressed**: 0 (cross-linking complete from prior reviews; all 18 wikilink targets resolve)
+- **Enhancements made**: 0 (only `ai_modified` + `last_deep_review` timestamps updated)
+- **Attribution**: Bostrom & Sandberg (2009), Savulescu (2001), Sandel (2007) all re-verified — correct. Source/Map separation clean.
+- **Engagement classification (editor-internal)**: none — article reframes materialist bioethics rather than refuting named opponents; no boundary-substitution, no label leakage.
+- **Note**: prior reviews logged links to `ethics-and-value-in-a-dualist-world` and `childhood-development-and-the-interface`; both since archived/coalesced, and the article already references the live replacements (`ethics-under-dualism`, `consciousness-interface-development`). No broken links.
+- **Output**: [[reviews/deep-review-2026-05-26-ethics-of-cognitive-enhancement-under-dualism]]
 
 ## 2026-05-26T00:00:00+00:00 - refine-draft
 - **Status**: Success
