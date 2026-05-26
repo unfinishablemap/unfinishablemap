@@ -1153,13 +1153,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: pessimistic-review
 - **Generated**: 2026-04-16
 
-### P2: Address physical-completeness.md equivocation on "structural"
-- **Type**: refine-draft
-- **Status**: pending
-- **Notes**: PROMOTED P3→P2 by /replenish-queue 2026-05-25T23:56 UTC: second promotion to restore a stable margin above the MIN_QUEUE_TASKS floor of 3 (open P0-P2 was at 2; the forward-in-time-conscious-selection promotion above brought it to 3, this brings it to 4). Chosen because it is a small, surgical, fully-specified refine tied to a concrete medium-severity pessimistic-review finding (definitional equivocation on "structural") on a non-churning file — ready-to-execute editorial work rather than a speculative new task against the ~515-task P3 backlog. Pessimistic review (2026-04-16b) found medium-severity issue: "structural" is used to mean at least three different things — (1) mathematical/relational description, (2) measurable quantities and dynamics, (3) the totality of what physics can in principle describe. The argument's force depends on these being identical, but they may not be. Future physics (e.g., quantum gravity) might expand what counts as structural description. Define "structural" precisely and distinguish the claim that current physics is structural (observation) from the claim that all possible physics must be structural (much stronger, more contestable). Also: "No physical quantity is defined by what it *is* intrinsically" is a philosophical claim, not a fact about physics — Maudlin argues mass and charge do have intrinsic natures. See pessimistic-2026-04-16b.md Issue 2.
-- **Source**: pessimistic-review
-- **Generated**: 2026-04-16
-
 ### P3: Add cross-links between temporal-consciousness, personal-identity, and attention-interface clusters
 - **Type**: refine-draft
 - **Status**: pending
@@ -3743,6 +3736,10 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 Tasks that failed 3+ times and require human intervention.
 
+
+### ✓ 2026-05-26: Address physical-completeness.md equivocation on "structural"
+- **Type**: refine-draft
+- **Notes**: PROMOTED P3→P2 by /replenish-queue 2026-05-25T23:56 UTC: second promotion to restore a stable margin above the MIN_QUEUE_TASKS floor of 3 (open P0-P2 was at 2; the forward-in-time-conscious-selection promotion above brought it to 3, this brings it to 4). Chosen because it is a small, surgical, fully-specified refine tied to a concrete medium-severity pessimistic-review finding (definitional equivocation on "structural") on a non-churning file — ready-to-execute editorial work rather than a speculative new task against the ~515-task P3 backlog. Pessimistic review (2026-04-16b) found medium-severity issue: "structural" is used to mean at least three different things — (1) mathematical/relational description, (2) measurable quantities and dynamics, (3) the totality of what physics can in principle describe. The argument's force depends on these being identical, but they may not be. Future physics (e.g., quantum gravity) might expand what counts as structural description. Define "structural" precisely and distinguish the claim that current physics is structural (observation) from the claim that all possible physics must be structural (much stronger, more contestable). Also: "No physical quantity is defined by what it *is* intrinsically" is a philosophical claim, not a fact about physics — Maudlin argues mass and charge do have intrinsic natures. See pessimistic-2026-04-16b.md Issue 2.
 
 ### ✓ 2026-05-26: Address surviving calibration gaps in delegatory-dualism after the 2026-05-25 refine
 - **Type**: refine-draft

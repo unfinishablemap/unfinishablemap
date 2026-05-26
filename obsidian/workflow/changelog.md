@@ -5,6 +5,22 @@ ai_modified: 2026-05-26T01:31:00+00:00
 ai_system: claude-opus-4-7
 ---
 
+## 2026-05-26T00:00:00+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[concepts/physical-completeness]]
+- **Source**: pessimistic-2026-04-16b.md Issue 2 (medium — definitional equivocation on "structural")
+- **Original score**: not re-scored (curate review CLI not present in repo); fixes are the review's named recommendations
+- **Word count**: ~1815 → ~2628 body words (concepts soft 3000 / hard 4000 — within soft). Modest growth, all load-bearing calibration prose; no padding.
+- **Changes**:
+  - **(1) Defined "structural" precisely.** Added a "What 'Structural' Means Here" subsection naming the three conflated senses — (1) relational, (2) mathematical, (3) exhaustive-of-the-physical — and fixing sense (1) as operative throughout. Noted that (2) and (3) are substantive claims *about* structure, not definitions, so the argument cannot silently borrow force from their coincidence.
+  - **(2) Separated the current-physics observation from the all-possible-physics modal claim.** Rewrote "Structural Completeness Is Real" to scope the no-go result to *current* physics and the standard completion-avenues; rewrote the god-of-the-gaps premise list so premise 1 and the conclusion concern current physics, then added an explicit paragraph surfacing the load-bearing modal premise (any future physics stays structural in sense 1). Framed it as a bet on the *method* of physics, not a no-go theorem, and named quantum gravity as the candidate that might expand what counts as structural. Honest framing: gap is "robust across the physics we can presently envisage," not "closed by metaphysical necessity."
+  - **(3) Attributed the intrinsic-nature claim honestly + named Maudlin.** "No physical quantity is defined by what it *is* intrinsically" is now flagged as philosophy, not physics — a form of structuralism about physical properties. Named Tim Maudlin's *metaphysics-within-physics* dissent (mass/charge as intrinsic natures the theory specifies), framed the disagreement as framework-boundary (Mode Three engagement: the Map adopts structuralism as more defensible, does not claim to refute Maudlin on his own terms). Added a closing note that a reader siding with Maudlin rejects the gap at this exact point — the honest location of the disagreement. Added Maudlin (2007) *The Metaphysics Within Physics* to References (renumbered 4–11).
+  - **Calibration (constrains vs establishes):** softened "the no-go theorems collectively establish... structurally exhaustive / provably cannot take the forms" → "constrain what a deeper theory could look like / cannot take the *specific* forms (local, non-contextual, ψ-epistemic) the standard programmes proposed." PBR ontic claim qualified "given the theorem's auxiliary assumptions." Opening "it is precisely where consciousness operates" → "the Map proposes it is precisely where consciousness operates."
+  - **Cliché audit:** removed three pre-existing "This is not X. It is Y." constructs (opening paragraph, hard-problem paragraph, god-of-the-gaps closing) by rephrasing to direct/contrastive prose. Final grep: zero remaining.
+  - **Engagement classification (editor-internal):** Maudlin reply — Mode Three (framework-boundary). The disagreement is over what the formalism of physics describes; the Map marks it honestly rather than claiming in-framework refutation.
+  - **Verification:** `evaluate_anchoring()` now returns `[]` (previously flagged hedge_density + underdetermination_markers — both resolved by the added calibration/modal-honesty language).
+- **Published**: yes
+
 ## 2026-05-26T01:31:00+00:00 - refine-draft
 - **Status**: Success
 - **File**: [[topics/delegatory-dualism]]
