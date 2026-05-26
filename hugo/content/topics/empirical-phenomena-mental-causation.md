@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-05-08
-ai_modified: 2026-05-10 11:38:00+00:00
+ai_modified: 2026-05-26 18:04:23+00:00
 ai_system: claude-opus-4-7
 author: null
 coalesced_from:
@@ -58,7 +58,7 @@ topics:
 - '[[topics/free-will]]'
 ---
 
-Two empirical phenomena, taken together, supply mutually reinforcing evidence for [mental causation](/concepts/mental-causation-and-downward-causation/) along complementary axes. The *placebo effect* shows beliefs and expectations producing measurable, content-specific physiological changes — endogenous opioid release, dopamine modulation, immune suppression — tracked by what the subject consciously understands a treatment to do. The *choking phenomenon* shows the converse: when consciousness intrudes on automatised skill, performance degrades in precisely those cases where self-focused monitoring is maximal. Placebo demonstrates consciousness *directing* physical processes toward specific outcomes; choking demonstrates consciousness *interfering* with them. Each phenomenon constrains [epiphenomenalism](/concepts/epiphenomenalism/) from a different angle, and the conjunction is complementary in a way single-phenomenon arguments are not — operating across substrates that share little except the involvement of conscious processing.
+Two empirical phenomena, taken together, supply mutually reinforcing evidence for [mental causation](/concepts/mental-causation-and-downward-causation/) along complementary axes. The *placebo effect* shows beliefs and expectations producing measurable, content-specific physiological changes — endogenous opioid release, dopamine modulation, immune suppression — tracked by what the subject consciously understands a treatment to do. The *choking phenomenon* shows the converse: when consciousness intrudes on automatised skill, performance degrades in precisely those cases where self-focused monitoring is maximal. In the placebo case, belief and expectation produce measurable physiological effects tracked to their content; in the choking case, attention and self-monitoring produce measurable performance effects tracked to their mode. The Map reads the phenomenological character of belief, expectation, and attention as load-bearing in producing those effects — but this reading is contested, and the data alone do not force it. Each phenomenon *constrains* [epiphenomenalism](/concepts/epiphenomenalism/) from a different angle without *establishing* the dualist alternative (see [evidential-status-discipline](/project/evidential-status-discipline/)), and the conjunction is complementary in a way single-phenomenon arguments are not — operating across substrates that share little except the involvement of conscious processing.
 
 <details class="yt-embed" data-video-id="H3WzrTowuDQ">
 <summary>Video introduction</summary>
@@ -66,7 +66,7 @@ Two empirical phenomena, taken together, supply mutually reinforcing evidence fo
 <p class="yt-caption">Videos cover themes but may stray from the Map's position. The article text is the definitive version. Clicking play implies consent to YouTube cookies.</p>
 </details>
 
-Neither phenomenon by itself settles the philosophical debate. The conjunction raises the explanatory cost for accounts that grant the phenomena but deny phenomenology any causal role — most directly [epiphenomenalism](/concepts/epiphenomenalism/) and [illusionism](/concepts/illusionism/), which must absorb the same fineness of phenomenology-physiology coupling across two substrates sharing little common machinery.
+Neither phenomenon by itself settles the philosophical debate, and the claim made here is cost-of-explanation rather than unique-prediction: accounts that grant the phenomena but deny phenomenology any causal role — most directly [epiphenomenalism](/concepts/epiphenomenalism/) and [illusionism](/concepts/illusionism/) — can absorb the shape of the data, but the conjunction raises the cost of doing so, since each must absorb the same fineness of phenomenology-physiology coupling across two substrates sharing little common machinery. The question the two cases pose is what additional structure each absorbing account must posit, not whether the data are predicted only by the dualist reading.
 
 Placebo and choking are the positive companion to the [phenomenal-output / causal-machinery dissociation cluster](/apex/phenomenal-output-causal-machinery-dissociation/): where the cluster shows phenomenology *decoupling* from causal machinery, placebo and choking show phenomenology *coupling* to it at a matched grain — propositional content for placebo, attentional mode for choking.
 
@@ -183,11 +183,11 @@ Contemplative traditions describe phenomenological structures parallel to both p
 
 These phenomena instantiate The Unfinishable Map's [foundational commitments](/tenets/) at multiple points.
 
-**[Bidirectional Interaction](/tenets/#bidirectional-interaction)** receives its most empirically tractable illustration. Placebo demonstrates positive direction; choking demonstrates the same channel in reverse. The interface operates constructively (skill acquisition, therapeutic ritual) and destructively (self-monitoring disrupting flow, nocebo). [Attention](/concepts/attention-as-interface/) provides the channel; *what* and *how* it is attended shapes physiological consequences.
+**[Bidirectional Interaction](/tenets/#bidirectional-interaction)** receives its most empirically tractable illustration. Placebo exhibits the positive direction; choking exhibits the same channel in reverse. On the Map's reading the interface operates constructively (skill acquisition, therapeutic ritual) and destructively (self-monitoring disrupting flow, nocebo), with [attention](/concepts/attention-as-interface/) providing the channel and *what* and *how* it is attended shaping physiological consequences — a reading the data render coherent and constrain alternatives against, rather than uniquely predict.
 
 **[Dualism](/tenets/#dualism)** is supported through content- and mode-dependence. Functionalists handle why different neural patterns produce different outcomes but leave unexplained why these patterns are accompanied by conscious experiences whose felt character tracks content and mode so precisely. The tighter the correlation between conscious understanding and physiological outcome, the harder it becomes to treat consciousness as explanatorily idle.
 
-**[Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction)** offers one candidate mechanism — consciousness biasing neural outcomes at quantum indeterminacy, with biases cascading through classical pathways. Placebo and choking establish that consciousness *does* something; the quantum framework proposes *where*.
+**[Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction)** offers one candidate mechanism — consciousness biasing neural outcomes at quantum indeterminacy, with biases cascading through classical pathways. Placebo and choking establish the explanandum — that belief and attention reliably produce content- and mode-tracked physical effects; on the Map's reading consciousness *does* something, and the quantum framework proposes *where*.
 
 These phenomena contribute one strand to a [broader convergence](/topics/empirical-evidence-for-consciousness-selecting/) of evidence — evolutionary, comparative, neurological, and quantum-biological — favouring consciousness as causally efficacious rather than epiphenomenal.
 

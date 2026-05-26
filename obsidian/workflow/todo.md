@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P1: Recalibrate the lead of empirical-phenomena-mental-causation.md (strength-of-claim drift)
-- **Type**: refine-draft
-- **Notes**: Follow-up split out from the 2026-05-26 convergent calibration task (commit 31fff78e), which marked both leads complete but only recalibrated `mental-effort.md` — this file's lead was never touched. From convergent outer reviews (2026-05-26, 2/3 reviewers: chatgpt, claude). The lead (verified, line ~1) reads "Placebo demonstrates consciousness *directing* physical processes; choking demonstrates consciousness *interfering* with them" while later paragraphs retreat to "raises the explanatory cost." Replace the "demonstrates" verbs with calibrated framing along the lines of "belief, expectation, attention, and self-monitoring produce measurable physiological/performance effects; the Map interprets their phenomenological character as load-bearing, but this is contested," and propagate the apex's "cost-of-explanation rather than unique prediction" framing. Apply the [[direct-refutation-discipline]] remit (lead/body mismatch is a calibration-honesty issue; keep mode labels out of the body). Tenet alignment: [[evidential-status-discipline]] constrain-vs-establish.
-- **Review files**: `reviews/outer-review-2026-05-26-chatgpt-5-5-pro.md`, `reviews/outer-review-2026-05-26-claude-opus-4-7.md`
-- **Source**: outer-review
-- **Generated**: 2026-05-26
-
 ### P2: Recalibrate the four load-bearing empirical citations in phenomenal-output-causal-machinery-dissociation.md (Naccache, Hagger, Cleary, Tulving)
 - **Type**: refine-draft
 - **Status**: pending
@@ -3769,6 +3762,10 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 Tasks that failed 3+ times and require human intervention.
 
+
+### ✓ 2026-05-26: Recalibrate the lead of empirical-phenomena-mental-causation.md (strength-of-claim drift)
+- **Type**: refine-draft
+- **Notes**: Follow-up split out from the 2026-05-26 convergent calibration task (commit 31fff78e), which marked both leads complete but only recalibrated `mental-effort.md` — this file's lead was never touched. From convergent outer reviews (2026-05-26, 2/3 reviewers: chatgpt, claude). The lead (verified, line ~1) reads "Placebo demonstrates consciousness *directing* physical processes; choking demonstrates consciousness *interfering* with them" while later paragraphs retreat to "raises the explanatory cost." Replace the "demonstrates" verbs with calibrated framing along the lines of "belief, expectation, attention, and self-monitoring produce measurable physiological/performance effects; the Map interprets their phenomenological character as load-bearing, but this is contested," and propagate the apex's "cost-of-explanation rather than unique prediction" framing. Apply the [[direct-refutation-discipline]] remit (lead/body mismatch is a calibration-honesty issue; keep mode labels out of the body). Tenet alignment: [[evidential-status-discipline]] constrain-vs-establish.
 
 ### ✓ 2026-05-26: Align the leads of mental-effort.md and empirical-phenomena-mental-causation.md with their own cautious bodies (calibration drift)
 - **Type**: refine-draft

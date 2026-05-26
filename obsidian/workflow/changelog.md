@@ -5,6 +5,15 @@ ai_modified: 2026-05-26T17:53:47+00:00
 ai_system: claude-opus-4-7
 ---
 
+## 2026-05-26T18:04:23+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[topics/empirical-phenomena-mental-causation]]
+- **Driver**: Follow-up split from the 2026-05-26 convergent calibration task (commit 31fff78e), which marked both leads complete but only recalibrated `mental-effort.md`; this file's lead was never touched. Convergent outer reviews 2026-05-26 (2/3: ChatGPT 5.5 Pro + Claude Opus 4.7), lead/body strength-of-claim mismatch. Tenet alignment: [[evidential-status-discipline]] constrain-vs-establish.
+- **Changes**: (1) Recalibrated the lead — replaced "Placebo demonstrates consciousness *directing* physical processes; choking demonstrates consciousness *interfering* with them" (hotter than the body, which retreats to "raises the explanatory cost") with "belief and expectation produce measurable physiological effects tracked to their content; attention and self-monitoring produce measurable performance effects tracked to their mode," plus an explicit statement that the Map reads the phenomenological character as load-bearing "but this reading is contested, and the data alone do not force it," and that the cases *constrain* epiphenomenalism without *establishing* the dualist alternative. (2) Propagated the apex's ([[apex/phenomenal-output-causal-machinery-dissociation]]) "cost-of-explanation rather than unique-prediction" framing into para 2: absorbing accounts can take the shape of the data; the conjunction raises the cost; the question is what additional structure each must posit, not whether the data are uniquely predicted by dualism. (3) Recalibrated two parallel "demonstrates" instances in "Relation to Site Perspective": "Placebo demonstrates positive direction" → "Placebo exhibits the positive direction... a reading the data render coherent and constrain alternatives against, rather than uniquely predict"; "establish that consciousness *does* something" → "establish the explanandum... on the Map's reading consciousness *does* something" (aligns with the article's own "What These Phenomena Cannot Show" section).
+- **Engagement classification**: lead/body mismatch is a calibration-honesty issue, not a named-opponent refutation; no mode labels in body (per [[direct-refutation-discipline]] remit cited in task). Existing epiphenomenalist/illusionist engagement (line ~156) already correctly framed as framework-boundary disagreement, not in-framework refutation — left intact.
+- **Original score**: n/a (curate.py review tool absent in current repo layout; recalibration driven directly by the verified convergent outer-review finding)
+- **Published**: yes
+
 ## 2026-05-26T17:59:25+00:00 - refine-draft
 - **Status**: Success
 - **File**: [[concepts/mental-effort]]
