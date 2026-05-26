@@ -5,6 +5,19 @@ ai_modified: 2026-05-26T00:00:00+00:00
 ai_system: claude-opus-4-7
 ---
 
+## 2026-05-26T04:23:59+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[topics/targeted-lesion-discriminating-tests-between-production-and-filter-readings-of-the-memory-hierarchy]]
+- **Trigger**: topic-concept anchoring audit 2026-05-26 (Audit Three). Over-claimed vs anchor [[mind-brain-separation]] (and [[filter-theory]]); failed hedge_density (1.81/kw vs ≥4.49 target for the mind-brain-separation anchor) and underdetermination_markers (anchor declares underdetermination 1×, topic had 0).
+- **Changes**: Calibration-only, voice preserved, central thesis (which targeted-lesion tests *would* discriminate the readings) unchanged.
+  - Added explicit underdetermination acknowledgment to the lead and woven through: "empirically equivalent", "underdetermined by the data", "does not decide between them; compatible with both readings" — apt and honest since the article's whole point is that these are *proposed* discriminators, not settled results. Underdetermination markers 0 → 5.
+  - Added 15 contingency hedges ("would require/depend", "appear", "seems", "may", "might", "perhaps", "could", "open question") only at genuinely contingent junctures: the focal-perturbation divergence, whether a dissociation could be cleanly attributed, the retrograde-amnesia residue assignment, the REM-lesion inference, the TFUS maturity claims, the near-discriminating-cases framing. Hedge count 6 → 21 (1.81/kw → 6.21/kw).
+  - Preserved "constrains vs establishes" discipline; no proposed/hypothetical test implied to have returned discriminating results. "demonstrates" (Verhagen et al. 2024) left intact as it describes an actual published empirical result, not the production/filter dispute. Strong-assertion density 0.30/kw unchanged (well under 1.5× anchor cap).
+- **Word count**: 3309 → 3381 (net +72; trimmed verbose passages to offset added hedging; under topics hard cap 4000; soft 3000 was already exceeded pre-pass).
+- **Calibration result**: evaluate_anchoring() returns 0 flags; hedge_density 6.21/kw ≥ 4.49 target (passes on own merit). "This is not X. It is Y." cliché count: 0 preserved.
+- **Original score**: not separately scored (calibration-only anchoring refine)
+- **Published**: yes
+
 ## 2026-05-26T04:18:25+00:00 - refine-draft
 - **Status**: Success
 - **File**: [[topics/pragmatisms-path-to-dualism]]
