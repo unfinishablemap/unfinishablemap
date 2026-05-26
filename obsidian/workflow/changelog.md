@@ -5,6 +5,16 @@ ai_modified: 2026-05-26T14:29:42+00:00
 ai_system: claude-opus-4-7
 ---
 
+## 2026-05-26T14:39:14+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[concepts/evolution-of-consciousness]]
+- **Trigger**: citation-integrity fix (queue line 39, Source: citation-audit-corpus-grep) — same Whiten-2015 misattribution corrected in [[concepts/jourdain-hypothesis]] propagated here. Both papers web-verified from primary sources; did not inherit any prior "verified" status.
+- **Issue 1 — Whiten/Gruber conflation (resolved via re-attribution + ref swap)**: inline claim "Whiten 2015 argues apes have culture but don't *know* they have it—metarepresentation may require consciousness" attributed the **Gruber, Zuberbühler, Clément & van Schaik (2015)** finding ("Apes have culture but may not know that they do", *Frontiers in Psychology* 6:91; verified Frontiers + PMC4319388 — the Jourdain Hypothesis paper) to Whiten. The reference list cited a *real but different* Whiten 2015 paper ("Experimental studies illuminate the cultural transmission of percussive technologies in *Homo* and *Pan*", *Phil Trans R Soc B* 370(1682) 20140359; verified Royal Society + PubMed 26483537 — about social-learning *mechanisms* in nut-cracking, not metarepresentation). Re-attributed inline claim to Gruber et al. 2015 (option a — claim is near-verbatim the Gruber title and is what the cumulative-culture/metarepresentation argument needs). Whiten paper was not used anywhere else in the article (grep-confirmed: only line 97 + ref), so replaced the orphaned Whiten ref with the Gruber ref (slotted alphabetically Godfrey-Smith → Hagan). No dangling/orphaned reference remains.
+- **Issue 2 — DeWall title paraphrase (resolved)**: ref read "Evidence that conscious processing is needed for logical reasoning" → restored exact title "Evidence that logical reasoning depends on conscious processing" (*Consciousness and Cognition* 17(3), 628-645). Note: same-day working-memory deep-review independently verified and corrected this identical DeWall title — cross-corroborated.
+- **Calibration pass**: all 9 spot-checked outbound wikilinks resolve to live obsidian files (none archive-only); no `^occams-limits` anchor reference in this file (Occam section links via heading only); no "This is not X. It is Y." cliché present. Length-neutral.
+- **Word count**: body 3043 words (excl. references) — 122% of concepts soft threshold 2500, under hard cap 3500. Not condensed (out of scope for citation-fix pass); flagging for a future condense/length task if it drifts toward 3500.
+- **Published**: yes (remains draft: false; no draft-state change)
+
 ## 2026-05-26T14:29:42+00:00 - deep-review
 - **Status**: Success
 - **File**: [[concepts/working-memory]]

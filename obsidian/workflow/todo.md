@@ -37,17 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Fix Whiten/Gruber citation conflation + DeWall title in evolution-of-consciousness
-- **Type**: refine-draft
-- **Status**: pending
-- **File**: obsidian/concepts/evolution-of-consciousness.md
-- **Notes**: Citation-integrity fix discovered 2026-05-26 by a corpus grep after the same Whiten-2015 misattribution was corrected in `concepts/jourdain-hypothesis.md` (this is the cross-article propagation the citation audit predicted). TWO issues, both need web-verification from primary sources before editing (do NOT inherit; ~42% of audited articles this run carried cite errors):
-  1. **Whiten/Gruber conflation (line ~97).** The inline claim "Whiten 2015 argues apes have culture but don't *know* they have it—metarepresentation may require consciousness" attributes the **Gruber, Zuberbühler, Clément & van Schaik (2015)** finding (paper title literally "Apes have culture but may not know that they do", *Frontiers in Psychology* 6:91, verified PMC4319388) to Whiten. BUT the reference list (line ~256) cites a REAL, DIFFERENT Whiten 2015 paper — "Experimental studies illuminate the cultural transmission of percussive technologies in *Homo* and *Pan*", *Phil Trans R Soc B* 370(1682), 20140359 — which is about cultural TRANSMISSION mechanisms, not metarepresentation/knowing-one-has-culture. So this is a CONFLATION, not a simple swap: either (a) re-attribute the "may not know they have it / metarepresentation" claim to Gruber et al. 2015 and add that reference, OR (b) reword the inline claim to match what Whiten's percussive-technologies paper actually establishes. Verify BOTH papers' actual findings before deciding; (a) is most likely correct since the claim is verbatim-ish the Gruber title.
-  2. **DeWall title paraphrase (line ~250).** Reference reads "Evidence that conscious processing is needed for logical reasoning" — the actual title is "Evidence that logical reasoning depends on conscious processing" (*Consciousness and Cognition* 17(3), 628–645; correct everywhere else in the corpus). Restore the exact title.
-  - While in the file: quick calibration/wikilink/cliché pass per [[evidential-status-discipline]]; keep length-neutral. Tenet alignment: citation integrity underpins the empirical case for consciousness-as-selected (Tenet 1/3). See [[reviews/deep-review-2026-05-26-jourdain-hypothesis]] for the verified Gruber attribution.
-- **Source**: citation-audit-corpus-grep
-- **Generated**: 2026-05-26
-
 ### P2: Deep review topics/neural-refresh-rates-and-the-smoothness-problem.md (49 days since last review, ai_contribution=100, Tenet 1 load-bearing)
 - **Type**: deep-review
 - **Status**: pending
@@ -3742,6 +3731,10 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 Tasks that failed 3+ times and require human intervention.
 
+
+### ✓ 2026-05-26: Fix Whiten/Gruber citation conflation + DeWall title in evolution-of-consciousness
+- **Type**: refine-draft
+- **Notes**: Citation-integrity fix discovered 2026-05-26 by a corpus grep after the same Whiten-2015 misattribution was corrected in `concepts/jourdain-hypothesis.md` (this is the cross-article propagation the citation audit predicted). TWO issues, both need web-verification from primary sources before editing (do NOT inherit; ~42% of audited articles this run carried cite errors):
 
 ### ✓ 2026-05-26: Deep review concepts/working-memory.md (50 days since last review, ai_contribution=100, Tenet 1/3 load-bearing)
 - **Type**: deep-review

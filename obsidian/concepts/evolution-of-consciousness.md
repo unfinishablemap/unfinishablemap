@@ -4,7 +4,7 @@ description: "When did consciousness arise? Dualism avoids the strong emergence 
 created: 2026-01-19
 modified: 2026-01-21
 human_modified: null
-ai_modified: 2026-05-17T03:05:00+00:00
+ai_modified: 2026-05-26T14:39:14+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -94,7 +94,7 @@ If consciousness is causally efficacious, several advantages might drive its evo
 
 The [[consciousness-as-amplifier|amplification hypothesis]] provides the strongest positive case for why consciousness was selected. The human-great ape intelligence gap—approximately tenfold despite only 1-2% genetic difference—tracks consciousness-dependent capacities systematically.
 
-Great apes succeed at tool use, social cognition, and procedural metacognition—capacities that don't require conscious access to succeed. They fail precisely where consciousness appears required: logical reasoning (DeWall, Baumeister, & Masicampo 2008 showed rule-following specifically depends on conscious processing), cumulative culture (Whiten 2015 argues apes have culture but don't *know* they have it—metarepresentation may require consciousness), and counterfactual thinking.
+Great apes succeed at tool use, social cognition, and procedural metacognition—capacities that don't require conscious access to succeed. They fail precisely where consciousness appears required: logical reasoning (DeWall, Baumeister, & Masicampo 2008 showed rule-following specifically depends on conscious processing), cumulative culture (Gruber, Zuberbühler, Clément, & van Schaik 2015 argue apes have culture but may not know that they do—metarepresentation may require consciousness), and counterfactual thinking.
 
 **Working memory expansion**: Chimpanzee working memory capacity is substantially more limited than humans' 7±2 items, particularly for abstract tasks—though performance varies with task type (Inoue & Matsuzawa 2007). If working memory depends on conscious access (as Global Workspace Theory proposes), expanded working memory implies expanded consciousness.
 
@@ -245,14 +245,14 @@ Scientific humility requires specifying what would count against one's view.
 1. Frankish, K. (2016). Illusionism as a theory of consciousness. *Journal of Consciousness Studies*, 23(11-12), 11-39.
 1. Ginsburg, S., & Jablonka, E. (2019). *The Evolution of the Sensitive Soul: Learning and the Origins of Consciousness*. MIT Press.
 1. Godfrey-Smith, P. (2020). *Metazoa: Animal Life and the Birth of the Mind*. Farrar, Straus and Giroux.
+1. Gruber, T., Zuberbühler, K., Clément, F., & van Schaik, C. (2015). Apes have culture but may not know that they do. *Frontiers in Psychology*, 6, 91.
 1. Hagan, S., Hameroff, S., & Tuszynski, J. (2002). Quantum computation in brain microtubules: Decoherence and biological feasibility. *Physical Review E*, 65, 061901.
 1. Inoue, S., & Matsuzawa, T. (2007). Working memory of numerals in chimpanzees. *Current Biology*, 17(23), R1004-R1005.
-1. DeWall, C.N., Baumeister, R.F., & Masicampo, E.J. (2008). Evidence that conscious processing is needed for logical reasoning. *Consciousness and Cognition*, 17(3), 628-645.
+1. DeWall, C.N., Baumeister, R.F., & Masicampo, E.J. (2008). Evidence that logical reasoning depends on conscious processing. *Consciousness and Cognition*, 17(3), 628-645.
 1. New York Declaration on Animal Consciousness. (2024). NYU Conference on the Emerging Science of Animal Consciousness.
 1. O'Connor, T., & Wong, H.Y. (2005). The Metaphysics of Emergence. *Noûs*, 39: 658-678.
 1. Penrose, R. (1994). *Shadows of the Mind*. Oxford University Press.
 1. Tallis, R. (2024). The Illusion of Illusionism. *Philosophy Now*.
 1. Tegmark, M. (2000). Importance of quantum decoherence in brain processes. *Physical Review E*, 61, 4194-4206.
-1. Whiten, A. (2015). Experimental studies illuminate the cultural transmission of percussive technologies in *Homo* and *Pan*. *Philosophical Transactions of the Royal Society B*, 370(1682), 20140359.
 1. Whitehead, A. N. (1929). *Process and Reality*. Macmillan.
 1. Wiest, M. C. et al. (2024). Microtubule-stabilizer epothilone B delays anesthetic-induced unconsciousness in rats. *eNeuro*, 11(8).
