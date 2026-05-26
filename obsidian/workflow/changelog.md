@@ -5,6 +5,21 @@ ai_modified: 2026-05-26T12:00:00+00:00
 ai_system: claude-opus-4-7
 ---
 
+## 2026-05-26T09:30:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [[topics/clinical-neuroplasticity-evidence-for-bidirectional-causation]]
+- **Word count**: 2759 → 2855 (+96; 95% of 3000 soft threshold)
+- **Critical issues addressed**: 2 (both citation misattributions, web-verified)
+  - Marzbani et al. 2022 → fabricated author + conflation: real DOI 853804 is Yuan et al. (prefrontal/precuneus, CBT-specific); the "302 subjects / right amygdala" finding is actually Perez et al. 2025 (treatment-general, NOT CBT-specific). Rewrote in-text to attribute both correctly and flag the pooled finding as only weakly bearing on directionality; updated ref #4, added ref #18.
+  - Marueckova et al. 2024 → fabricated author: real authors Seymour & Mathers 2024 (Front Psychiatry 1301143). EMBARC content was faithful; only the name was wrong. Corrected in-text and ref #6.
+- **Medium issues addressed**: 0
+- **Enhancements made**: 1 (citation corrections sharpened the Psychotherapy Neuroimaging calibration); rephrased one latent "not passive...but active" cliché
+- **Citations web-verified CORRECT**: Schwartz 1996, Kral 2022, Goyal 2014, Van Dam 2018, Manzotti & Moderato 2023, Seymour/Mathers EMBARC content
+- **Anchoring refine verification**: the earlier-this-run "evidence for → consistent with, does not discriminate" fix (commit a6cd7293a) HELD and is internally consistent throughout; no possibility/probability slippage (tenet-accepting reviewer would not flag overstatement). Line-99 calibration paragraph preserved.
+- **Wikilinks**: all 21 resolve to LIVE content; `tenets#^minimal-quantum-interaction` anchor live; no stale `tenets#^occam` present (article does not link Tenet 5)
+- **No named-opponent reasoning-mode classification needed** (article engages "the physicalist" generically, not a named opponent; bedrock pathway-divergence disagreement acknowledged in-article)
+- **Output**: [[reviews/deep-review-2026-05-26-clinical-neuroplasticity-evidence-for-bidirectional-causation]]
+
 ## 2026-05-26T09:15:00+00:00 - deep-review
 - **Status**: Success
 - **File**: [[topics/presentiment-and-retrocausality]]

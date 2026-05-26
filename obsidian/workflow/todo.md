@@ -1368,13 +1368,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: staleness
 - **Generated**: 2026-03-29
 
-### P2: Deep review clinical-neuroplasticity-evidence-for-bidirectional-causation.md (~40 days since review, ai_contribution=100, Tenet 3 load-bearing)
-- **Type**: deep-review
-- **Status**: pending
-- **Notes**: AI-generated content (ai_contribution: 100) created 2026-03-28 via expand-topic from research/clinical-neuroplasticity-bidirectional-causation-2026-03-21.md, last_deep_review 2026-04-16 (~40 days). Cross-review completed but no comprehensive deep review since. Verify accuracy of clinical claims (CBT-induced brain changes, meditation cortical thickening, placebo neurochemistry), coherence, cross-references to downward-causation and mental-causation, and tenet alignment. Empirical claims sit in an active-research domain (clinical neuroscience / neuroplasticity), so check citation currency and flag a literature-drift follow-on if drift detected. PROMOTED to P2 by /replenish-queue 2026-05-26: actionable (P0-P2) queue was at 2, below the MIN_QUEUE floor of 3. Directly load-bearing for **Tenet 3 (Bidirectional Interaction)** — the clinical neuroplasticity findings are the Map's strongest empirical exhibit for consciousness-to-brain causation — and never comprehensively deep-reviewed. Promoting an existing staleness candidate is the honest replenishment move rather than fabricating new content tasks against the already-large (468-item) P3 backlog with all three sections near cap.
-- **Source**: staleness
-- **Generated**: 2026-03-28 (promoted to P2 2026-05-26)
-
 ### P3: Deep review consciousness-and-mathematics.md
 - **Type**: deep-review
 - **Status**: pending
@@ -3707,6 +3700,10 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 Tasks that failed 3+ times and require human intervention.
 
+
+### ✓ 2026-05-26: Deep review clinical-neuroplasticity-evidence-for-bidirectional-causation.md (~40 days since review, ai_contribution=100, Tenet 3 load-bearing)
+- **Type**: deep-review
+- **Notes**: AI-generated content (ai_contribution: 100) created 2026-03-28 via expand-topic from research/clinical-neuroplasticity-bidirectional-causation-2026-03-21.md, last_deep_review 2026-04-16 (~40 days). Cross-review completed but no comprehensive deep review since. Verify accuracy of clinical claims (CBT-induced brain changes, meditation cortical thickening, placebo neurochemistry), coherence, cross-references to downward-causation and mental-causation, and tenet alignment. Empirical claims sit in an active-research domain (clinical neuroscience / neuroplasticity), so check citation currency and flag a literature-drift follow-on if drift detected. PROMOTED to P2 by /replenish-queue 2026-05-26: actionable (P0-P2) queue was at 2, below the MIN_QUEUE floor of 3. Directly load-bearing for **Tenet 3 (Bidirectional Interaction)** — the clinical neuroplasticity findings are the Map's strongest empirical exhibit for consciousness-to-brain causation — and never comprehensively deep-reviewed. Promoting an existing staleness candidate is the honest replenishment move rather than fabricating new content tasks against the already-large (468-item) P3 backlog with all three sections near cap.
 
 ### ✓ 2026-05-26: Adopt mental-causation-and-downward-causation calibration in volitional-control
 - **Type**: refine-draft
