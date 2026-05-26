@@ -4,7 +4,7 @@ description: "Consciousness persists at surprising metabolic thresholds and some
 created: 2026-04-05
 modified: 2026-04-05
 human_modified:
-ai_modified: 2026-04-16T01:52:00+00:00
+ai_modified: 2026-05-26T00:00:00+00:00
 draft: false
 topics:
   - "[[death-and-consciousness]]"
@@ -14,7 +14,6 @@ topics:
 concepts:
   - "[[filter-theory]]"
   - "[[near-death-experiences]]"
-  - "[[terminal-lucidity-and-filter-transmission-theory]]"
   - "[[neural-correlates-of-consciousness]]"
   - "[[interactionist-dualism]]"
   - "[[epiphenomenalism]]"
@@ -27,7 +26,7 @@ author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-04-05
 last_curated:
-last_deep_review: 2026-04-06T00:41:00+00:00
+last_deep_review: 2026-05-26T00:00:00+00:00
 ---
 
 If the brain produces consciousness the way a generator produces electricity, then cutting the fuel supply should dim the lights proportionally. It does not. Across minimally conscious states, psychedelic suppression of the default mode network, anaesthesia, cardiac arrest, deep hypothermia, and hibernation, consciousness follows a pattern that production models struggle to explain: selective component failures, sharp non-linear thresholds, and paradoxical intensification precisely when metabolic supply is collapsing. The Unfinishable Map argues that this pattern is compatible with [[filter-theory|filter theory]]—the brain constrains and channels consciousness rather than generating it, and metabolic crisis disrupts the constraint rather than the source. The evidence does not prove filter theory, but it identifies specific anomalies that production models must accommodate through auxiliary hypotheses.
@@ -131,7 +130,6 @@ The metabolic evidence connects to three of the Map's [[tenets]].
 - [[death-and-consciousness]]
 - [[near-death-experiences]]
 - [[psychedelics-and-the-filter-model]]
-- [[terminal-lucidity-and-filter-transmission-theory]]
 - [[terminal-lucidity-and-filter-transmission-theory]]
 - [[quantum-biology-and-neural-consciousness]]
 

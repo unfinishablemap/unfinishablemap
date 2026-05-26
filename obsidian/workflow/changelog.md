@@ -5,6 +5,18 @@ ai_modified: 2026-05-25T23:49:34+00:00
 ai_system: claude-opus-4-7
 ---
 
+## 2026-05-26T00:00:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [[topics/consciousness-under-extreme-metabolic-constraint]]
+- **Word count**: 2571 → 2569 (-2; removed duplicate Further Reading link and redundant frontmatter entry)
+- **Critical issues addressed**: 0 (none found)
+- **Medium issues addressed**: 2 — duplicate `[[terminal-lucidity-and-filter-transmission-theory]]` in both topics and concepts frontmatter (removed concepts copy); duplicate identical link in Further Reading (removed one). Both were mechanical artifacts of the terminal-lucidity → terminal-lucidity-and-filter-transmission-theory slug migration in a prior refine-draft pass.
+- **Enhancements made**: 0 — the two post-convergence refine-draft passes (falsifiability section, evidence reordering by strength, confidence recalibration) had already improved quality; no content changes needed.
+- **Calibration check**: PASS — no possibility/probability slippage. Recalibration moved every load-bearing claim conservatively ("predicts" → "is compatible with"; gamma surges "suggestive rather than established", n=2 caveat). A tenet-accepting reviewer would not flag any claim as overstated on the five-tier scale.
+- **Reasoning-mode (editor-internal)**: engagement with the production model / physicalism (a position, not a named opponent) = Mode Two with honest Mixed boundary-marking — parsimony argument from the opponent's own commitments, plus explicit concession that the production model can accommodate each anomaly individually and that the filter model carries its own unfalsifiability risk. No boundary-substitution. No editor-vocabulary label leakage in prose.
+- **Convergence**: fourth review; STABLE. Triggered legitimately by substantive post-convergence modification. No oscillation — edits extended prior review decisions rather than reversing them.
+- **Output**: [[reviews/deep-review-2026-05-26-consciousness-under-extreme-metabolic-constraint]]
+
 ## 2026-05-25T23:49:34+00:00 - refine-draft
 - **Status**: Success
 - **File**: [[topics/the-reverse-inference]]
