@@ -6,7 +6,7 @@ modified: 2026-01-22
 human_modified: null
 ai_modified: 2026-04-15T08:41:00+00:00
 draft: false
-last_deep_review: 2026-04-07T10:43:00+00:00
+last_deep_review: 2026-05-26T11:54:20+00:00
 topics:
   - "[[animal-consciousness]]"
   - "[[ai-consciousness]]"
