@@ -4,7 +4,7 @@ description: "Saad's default causal profile, the brain's prepared options, and t
 created: 2026-05-26
 modified: 2026-05-26
 human_modified:
-ai_modified: 2026-05-26T00:00:00+00:00
+ai_modified: 2026-05-26T05:18:26+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -27,6 +27,7 @@ author:
 ai_system: claude-opus-4-7
 ai_generated_date: 2026-05-26
 last_curated:
+last_deep_review: 2026-05-26T05:18:26+00:00
 ---
 
 Three of the Map's articles independently reach for the same object under different names. Bradford Saad's [[delegatory-dualism|delegatory dualism]] calls it the **default causal profile** — the pattern of effects a brain state would produce absent conscious takeover. The [[bandwidth-of-consciousness|bandwidth literature]] calls it the **prepared options** — the small set of action policies the brain readies for consciousness to select among at ~10 bits per second. The [[physical-completeness|structural-ontological gap]] calls it the **Born-rule distribution** — the probability measure over quantum outcomes that physics specifies completely while leaving actuality-selection open. This article argues that these are plausibly **one structure described in three registers**, not three independent structures and emphatically not three independent pieces of evidence. The convergence is a coherence fact about the Map's vocabulary, and the central discipline of the article is to keep it from inflating into a confirmation fact about the Map's claims.
@@ -39,11 +40,7 @@ Each register answers a different question about the same posited object: what c
 
 ### Register A: The Default Causal Profile (Saad)
 
-Saad's [[delegatory-causation|Subset Law*]] assigns an experience to a physical state when the experience's causal profile is a subset of the state's *default* causal profile. The "default" qualifier is essential and must not be dropped: it is
-
-> "the **default causal profile** of a physical property P" — the pattern of effects P "would produce in the absence of any experience taking over." (Saad 2025)
-
-This is inherently counterfactual. Wherever experience is present, delegation is already occurring, so the default profile is never directly observed where the theory applies. As the [[delegatory-dualism]] article states plainly, the default causal profile is "the load-bearing primitive of the whole theory, yet its only access route — the zombie functional-duplicate — depends on a contested metaphysical possibility." It is a *postulate*, earning its keep by the coherence it buys rather than by independent observation.
+Saad's [[delegatory-causation|Subset Law*]] assigns an experience to a physical state when the experience's causal profile is a subset of the **default causal profile** of the physical state (Saad 2025). The "default" qualifier is essential and must not be dropped. As the [[delegatory-dualism]] article glosses it, the default causal profile is the pattern of effects a physical state "would produce in the absence of any experience taking over" — what the state would cause if delegation didn't occur. This is inherently counterfactual. Wherever experience is present, delegation is already occurring, so the default profile is never directly observed where the theory applies. As the [[delegatory-dualism]] article states plainly, the default causal profile is "the load-bearing primitive of the whole theory, yet its only access route — the zombie functional-duplicate — depends on a contested metaphysical possibility." It is a *postulate*, earning its keep by the coherence it buys rather than by independent observation.
 
 ### Register B: Prepared Options (Bandwidth / Libet)
 
@@ -77,7 +74,7 @@ Here the article must be most careful, because the move it describes is exactly 
 
 Three distinctions keep the convergence honest.
 
-**This is redescription, not independent evidence.** The [[cross-mechanism-convergence|cross-mechanism convergence]] pattern earns evidential weight because *mechanism-distinct* perturbations produce the *same downstream ordering* — propofol and ketamine, acting through different molecular pathways, revealing the same vulnerability hierarchy. That is genuinely several witnesses, because the pathways are independent and could have disagreed. The present case is the opposite: there are no independent pathways and no independent observations. There is one posited structure and three theoretical vocabularies pointing at it. The vocabularies *cannot disagree about whether the structure exists*, because each was constructed to describe it. So this convergence sits even lower than cross-mechanism convergence on the evidential ladder — it is convergent *redescription*, which is the weakest form, carrying no independent confirmation at all.
+**This is redescription, not independent evidence.** The [[cross-mechanism-convergence|cross-mechanism convergence]] pattern earns evidential weight because *mechanism-distinct* perturbations produce the *same downstream ordering* — propofol and ketamine, acting through different molecular pathways, revealing the same vulnerability hierarchy. That is genuinely several witnesses, because the pathways are independent and could have disagreed. The present case is the opposite: there are no independent pathways and no independent observations. There is one posited structure and three theoretical vocabularies pointing at it. The vocabularies *cannot disagree about whether the structure exists*, because each was constructed to describe it. So this convergence sits even lower than cross-mechanism convergence on the evidential ladder — it is convergent *redescription*, which is the weakest form, carrying no independent confirmation at all. In the terms of the [[epistemology-of-convergence-arguments|epistemology of convergence arguments]], the registers fail the independence proviso outright: they do not arrive at the same conclusion by separate routes, they *are* one route restated, so there is nothing for a common-cause screen to discount because there was never more than one witness.
 
 **What the convergence does raise.** Convergent redescription is not worthless. When three independently developed frameworks turn out to be describing the same object, the posterior that *it is one object* — rather than three loosely related ones — goes up. This is framework-internal weight in the discipline's sense: the Map's articulation becomes more self-consistent and more able to integrate disparate phenomena. A theory that needs one primitive is tidier than one needing three. That tidiness is a real virtue and a real reason to prefer the unified reading. It is not a reason to believe the structure is *real*, that *consciousness* (rather than physics) performs the draw, or that any tenet is *true*.
 

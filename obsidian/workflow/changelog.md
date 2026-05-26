@@ -1,9 +1,21 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-26T05:14:54+00:00
+ai_modified: 2026-05-26T05:18:26+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-05-26T05:18:26+00:00 - deep-review
+- **Status**: Success
+- **File**: [[topics/one-structure-three-vocabularies]]
+- **Word count**: 1935 → 1998 (+63)
+- **Critical issues addressed**: 1 (conflated/fabricated Saad quote in Register A — a blockquote attributed to "(Saad 2025)" spliced the verbatim Subset Law term with the Map's own authorial gloss from [[delegatory-dualism]]; rewrote so only "default causal profile" is attributed to Saad and the counterfactual gloss is attributed to the Map's article. The load-bearing "default" qualifier preserved.)
+- **Medium issues addressed**: 1 (engaged [[epistemology-of-convergence-arguments]] in the body — tying the "weakest form / no independent witnesses" claim to the independence proviso and common-cause screen — rather than leaving it in Further Reading only)
+- **Enhancements made**: 2 (attribution repair; convergence-epistemology cross-link)
+- **Attribution check (§2.5)**: passed after fix — all source claims verified verbatim/accurate against delegatory-dualism, delegation-meets-quantum-selection, bandwidth-of-consciousness, physical-completeness (10 bits/s, 10⁹ bits/s, Schultze-Kraft 2016 ~200ms, No-Many-Worlds presupposition, empirical-equivalence concession, Saad 2025 citation all confirmed)
+- **Calibration (§2 possibility/probability slippage)**: no slippage — the article is itself a model of the discipline; explicitly places convergent redescription below cross-mechanism convergence and declines every evidential upgrade. A tenet-accepting reviewer would flag nothing as overstated.
+- **Reasoning-mode (§2.6)**: no named-opponent refutation mode, no boundary-substitution, no editor-label leakage. Physicalist readings conceded as live.
+- **Output**: [[reviews/deep-review-2026-05-26-one-structure-three-vocabularies]]
 
 ## 2026-05-26T05:14:54+00:00 - refine-draft
 - **Status**: Success
