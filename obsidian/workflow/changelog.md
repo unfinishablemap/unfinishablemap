@@ -5,6 +5,13 @@ ai_modified: 2026-05-26T00:00:00+00:00
 ai_system: claude-opus-4-7
 ---
 
+## 2026-05-26T04:55:00+00:00 - pessimistic-review
+- **Status**: Success
+- **Content reviewed**: `topics/probability-problem-in-many-worlds.md` (4,100 words; Tenet-4 load-bearing; deep review 46 days stale; never previously the standalone focus of a pessimistic review). Targeted as a recently-edited (2026-05-25 refine + condense) article whose framework-boundary calibration warranted adversarial stress-testing.
+- **Findings**: 1 High + 3 Medium + 1 style issue. High — Zhang (2026) preprint asserted as flat fact here while the sibling born-rule article hedges it as "not yet independently verified" (cross-article source-hedging inconsistency). Medium — "three strategies" (intro) vs. "all five leading strategies" (line 139) count mismatch; "Collapse interpretations face none of these burdens" overclaim; loose Kent→Dualism inference. Style — banned "This is not X but Y" construct at line 139. Strengths preserved: exemplary framework-boundary discipline, full-resolution Deutsch-Wallace treatment, correct parsimony self-consistency handling, no label leakage, altered-state audit N/A.
+- **Output**: [[reviews/pessimistic-2026-05-26b]]
+- **Task added**: P2 refine-draft for the five fixes.
+
 ## 2026-05-26T04:42:00+00:00 - research-topic
 - **Status**: Success
 - **Topic**: Non-Western physicalist theories to test the concession-convergence cross-observer gap

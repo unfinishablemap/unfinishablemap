@@ -37,6 +37,13 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
+### P2: Fix Zhang-citation hedge and count inconsistency in probability-problem-in-many-worlds
+- **Type**: refine-draft
+- **Status**: pending
+- **Notes**: Pessimistic review 2026-05-26b found a cross-article source-hedging inconsistency and an internal count mismatch in [[topics/probability-problem-in-many-worlds]]. Five fixes. (1) **High** — line 139 cites Zhang (2026) (arXiv:2603.06211) as flat fact ("identifies a unifying bottleneck... making every derivation covertly circular"), but the sibling [[topics/born-rule-and-the-consciousness-interface]] line 66 hedges the *same* source as "a preprint not yet independently verified." Mirror the sibling's hedge; downgrade "identifies" to "argues" and "making every derivation covertly circular" to a conditional. Same source-hedging failure the 2026-05-23 review fixed on the sibling, still live here. (2) **Medium** — intro (line 41) promises "three recovery strategies" but line 139 invokes Zhang's "all five leading strategies" with no antecedent; reconcile (name the five, or rephrase to "the leading strategies"). (3) **Medium** — line 145 "Collapse interpretations face none of these burdens" overclaims; narrow to "none of *the probability* burdens" and note collapse has its own basis/mechanism burdens. (4) **Medium** — line 157 Kent→Dualism inference ("rational agency may resist formalisation because it depends on conscious deliberation") does not follow from Kent's axioms-are-substantive point; recast as open speculation or cut. (5) **Style** — line 139 uses the banned "This is not X but Y" construct; rephrase per writing-style guide. Also consider softening the intro's "strong independent support" → "independent support" to match the well-calibrated body, and adding one sentence acknowledging the singular "I" is itself a contested posit (Nagarjuna/Parfit). Preserve the exemplary framework-boundary discipline (§"Where the Map's Disagreement Actually Falls", §"What Would Success Even Look Like?") and the parsimony self-consistency handling in §Relation. Article was condensed today to 3999 words; keep within band, net-neutral on length. See [[reviews/pessimistic-2026-05-26b]].
+- **Source**: pessimistic-review (2026-05-26)
+- **Generated**: 2026-05-26
+
 ### P2: Fold cross-observer non-Western-physicalist finding into concession-convergence §"Three Discriminating Tests"
 - **Type**: refine-draft
 - **Status**: pending
