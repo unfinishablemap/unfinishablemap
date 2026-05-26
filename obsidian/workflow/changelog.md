@@ -5,6 +5,16 @@ ai_modified: 2026-05-26T18:38:52+00:00
 ai_system: claude-opus-4-7
 ---
 
+## 2026-05-26T18:46:03+00:00 - deep-review
+- **Status**: Success
+- **File**: [[topics/phenomenology-of-deliberation-under-uncertainty]]
+- **Word count**: ~1850 → ~1850 (no change)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Notes**: Fourth review. Article declared fully stable at the 2026-04-11 review. Scored as a candidate only because `ai_modified` advanced to 2026-05-08, but the diff since the last review is entirely mechanical wikilink retargeting from coalesce/archive ops (`probability-intuition-void` → `the-quantitative-comprehension-void#the-magnitude-and-probability-domain`; `choking-phenomenon-mental-causation` → `empirical-phenomena-mental-causation`). Verified all retargeted links resolve, including the section-anchor deep-link to "## The Magnitude and Probability Domain". No content edits — confirming stability rather than oscillating. Bedrock disagreements (eliminativist, empiricist, MWI) not re-flagged per discipline.
+- **Output**: [[reviews/deep-review-2026-05-26-phenomenology-of-deliberation-under-uncertainty]]
+
 ## 2026-05-26T18:42:51+00:00 - refine-draft
 - **Status**: Success
 - **File**: [[apex/phenomenal-output-causal-machinery-dissociation]]

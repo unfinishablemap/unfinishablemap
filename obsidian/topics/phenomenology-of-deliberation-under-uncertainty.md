@@ -4,7 +4,7 @@ description: "What it feels like to decide when outcomes are unknowable—the ve
 created: 2026-02-09
 modified: 2026-04-24
 human_modified:
-ai_modified: 2026-05-08T20:35:00+00:00
+ai_modified: 2026-05-26T18:46:03+00:00
 draft: false
 topics:
   - "[[topics/free-will]]"
@@ -35,7 +35,7 @@ author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-02-09
 last_curated:
-last_deep_review: 2026-04-11T13:56:00+00:00
+last_deep_review: 2026-05-26T18:46:03+00:00
 ---
 
 Deciding under uncertainty feels different from deciding with full information. The Unfinishable Map proposes that this difference is not merely cognitive but phenomenal—that deliberation under genuine uncertainty has a distinctive experiential texture involving vertigo, estimation, and a particular form of commitment that reveals something important about consciousness. When you choose without knowing how things will turn out, the felt character of the choice changes in ways that computational models of decision-making cannot capture. The openness is not just epistemic but experiential: it colours attention, shapes effort, and demands a kind of courage that determined or fully-informed decision-making never requires.
