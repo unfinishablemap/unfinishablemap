@@ -37,30 +37,45 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P3: Deep review topics/neural-refresh-rates-and-the-smoothness-problem.md (49 days since last review, ai_contribution=100, Tenet 1 load-bearing)
+### P2: Fix Whiten/Gruber citation conflation + DeWall title in evolution-of-consciousness
+- **Type**: refine-draft
+- **Status**: pending
+- **File**: obsidian/concepts/evolution-of-consciousness.md
+- **Notes**: Citation-integrity fix discovered 2026-05-26 by a corpus grep after the same Whiten-2015 misattribution was corrected in `concepts/jourdain-hypothesis.md` (this is the cross-article propagation the citation audit predicted). TWO issues, both need web-verification from primary sources before editing (do NOT inherit; ~42% of audited articles this run carried cite errors):
+  1. **Whiten/Gruber conflation (line ~97).** The inline claim "Whiten 2015 argues apes have culture but don't *know* they have it—metarepresentation may require consciousness" attributes the **Gruber, Zuberbühler, Clément & van Schaik (2015)** finding (paper title literally "Apes have culture but may not know that they do", *Frontiers in Psychology* 6:91, verified PMC4319388) to Whiten. BUT the reference list (line ~256) cites a REAL, DIFFERENT Whiten 2015 paper — "Experimental studies illuminate the cultural transmission of percussive technologies in *Homo* and *Pan*", *Phil Trans R Soc B* 370(1682), 20140359 — which is about cultural TRANSMISSION mechanisms, not metarepresentation/knowing-one-has-culture. So this is a CONFLATION, not a simple swap: either (a) re-attribute the "may not know they have it / metarepresentation" claim to Gruber et al. 2015 and add that reference, OR (b) reword the inline claim to match what Whiten's percussive-technologies paper actually establishes. Verify BOTH papers' actual findings before deciding; (a) is most likely correct since the claim is verbatim-ish the Gruber title.
+  2. **DeWall title paraphrase (line ~250).** Reference reads "Evidence that conscious processing is needed for logical reasoning" — the actual title is "Evidence that logical reasoning depends on conscious processing" (*Consciousness and Cognition* 17(3), 628–645; correct everywhere else in the corpus). Restore the exact title.
+  - While in the file: quick calibration/wikilink/cliché pass per [[evidential-status-discipline]]; keep length-neutral. Tenet alignment: citation integrity underpins the empirical case for consciousness-as-selected (Tenet 1/3). See [[reviews/deep-review-2026-05-26-jourdain-hypothesis]] for the verified Gruber attribution.
+- **Source**: citation-audit-corpus-grep
+- **Generated**: 2026-05-26
+
+### P2: Deep review topics/neural-refresh-rates-and-the-smoothness-problem.md (49 days since last review, ai_contribution=100, Tenet 1 load-bearing)
 - **Type**: deep-review
 - **Status**: pending
+- **Promoted**: 2026-05-26 P3→P2 by /replenish-queue (floor-restoring batch of 4). Verified 2026-05-26: last_deep_review 2026-04-07 (~49 days), ai_contribution=100 — genuine staleness, Tenet 1 load-bearing. Provides type-diversity (deep-review) alongside the three promoted refine-drafts. Not a speculative expand-topic against the capped sections.
 - **Notes**: Staleness check (/replenish-queue 2026-05-26). `topics/neural-refresh-rates-and-the-smoothness-problem.md` ("Neural Refresh Rates and the Smoothness Problem", ~2406 words) was last deep-reviewed 2026-04-07 (~49 days ago) with `ai_contribution=100`; it is not the subject of any pending task. Kept at P3 (the prebiotic-collapse P2 above is the floor-restoring task; this is retained for queue diversity as a *topic* rather than a concept/void, and it is directly **Tenet 1 (Dualism)** load-bearing — the clash between discrete 7–13 Hz neural oscillations and smooth conscious experience is one of the Map's concrete explanatory-gap exhibits). The article borders the temporal/smoothness cluster elaborated since April: `[[voids/smoothness-and-continuity]]` (57d stale, already queued P3), `[[concepts/grain-mismatch]]`, `[[concepts/temporal-consciousness]]`, `[[topics/temporal-consciousness-structure-and-agency]]`, and the specious-present / temporal-binding material. Deep-review should: (a) verify the smoothness-problem framing still coheres with the current temporal-consciousness treatment and cross-links to the post-April cluster; (b) check the neural-oscillation / refresh-rate empirical claims (alpha-band timing, perceptual cycles) against current 2020s literature (flag a literature-drift follow-on if drift detected — this is an active-research timing domain); (c) honour `[[evidential-status-discipline]]` (the discrete-substrate-vs-smooth-experience claim is prone to phenomenology-vs-metaphysics slippage, and the functionalism-vs-dualism contrast should not overclaim); (d) verify cross-links resolve live and are reciprocated where load-bearing; (e) writing-style + length discipline (~2406 words, under the 3000-word topics soft threshold; no-"This is not X. It is Y." cliché check). Apply in-place fixes if minor; generate a follow-on refine-draft task if substantive. Tenet alignment: Tenet 1 (Dualism — the smoothness of experience resists reduction to discrete neural events).
 - **Source**: staleness
 - **Generated**: 2026-05-26
 
-### P3: Install prehension ↔ teaching-as-metarepresentation reciprocal cross-link
+### P2: Install prehension ↔ teaching-as-metarepresentation reciprocal cross-link
 - **Type**: refine-draft
 - **Status**: pending
+- **Promoted**: 2026-05-26 P3→P2 by /replenish-queue. Actionable (P0-P2) queue stood at 3 (the bare MIN_QUEUE floor); each executed task drops it to 2 and re-triggers replenish, so this run promotes 4 grounded P3s at once to break the per-iteration alternation (per loop steady-state guidance). This is a concrete, surgical, review-flagged cross-link refine (verified 2026-05-26: `concepts/teaching-as-metarepresentation.md` still has 0 `[[prehension]]` links), not a speculative expand-topic against the capped sections — the honest replenishment move.
 - **Notes**: Suggested by optimistic review 2026-05-26d (phenomenology-vs-function cohort). `concepts/teaching-as-metarepresentation.md` §"Process Philosophy Perspective" uses "prehensions", "actual occasions", "causal efficacy", and "presentational immediacy" in prose but contains ZERO `[[prehension]]` wikilinks (verified). `concepts/prehension.md` defines exactly these terms and discusses intersubjective transmission via the personally-ordered-society structure / combination problem. Install: (a) link "prehensions" / "actual occasions" in teaching's Process-Philosophy section to `[[prehension]]`; (b) reciprocal mention of teaching in `prehension` as a human-scale worked instance of intersubjective prehensive transmission (e.g. in §"The Combination Problem" or §"Further Reading"). Surgical, ~2 inserts + a clause each, <100 words total. Tenet alignment: site-integrity / process-philosophy cluster completeness. See [[reviews/optimistic-2026-05-26d]].
 - **Source**: optimistic-review (2026-05-26d)
 - **Generated**: 2026-05-26
 
-### P3: Install functionalism ↔ visual-consciousness reciprocal cross-link
+### P2: Install functionalism ↔ visual-consciousness reciprocal cross-link
 - **Type**: refine-draft
 - **Status**: pending
+- **Promoted**: 2026-05-26 P3→P2 by /replenish-queue (floor-restoring batch of 4). Verified 2026-05-26: 0 mutual links between `concepts/functionalism.md` and `concepts/visual-consciousness.md` — refine still needed. Concrete surgical cross-link, not speculative new content.
 - **Notes**: Suggested by optimistic review 2026-05-26d. Both `concepts/functionalism.md` and `concepts/visual-consciousness.md` center the phenomenology-vs-function dissociation and both already cite the shared anchor `[[phenomenology-vs-function-axis]]`, yet neither links the other (verified: 0 mutual references). Visual consciousness is the maximally-worked sensory instance of exactly the absent-qualia / inverted-spectrum argument functionalism makes in the abstract; functionalism's §"Empirical Tractability" boundary-cases would gain from vision's blindsight / two-streams evidence. Install reciprocal links (~2 inserts, <80 words). Tenet alignment: Tenet 1 (Dualism); cluster integration. See [[reviews/optimistic-2026-05-26d]].
 - **Source**: optimistic-review (2026-05-26d)
 - **Generated**: 2026-05-26
 
-### P3: Install conscious-vs-unconscious-processing ↔ visual-consciousness reciprocal cross-link
+### P2: Install conscious-vs-unconscious-processing ↔ visual-consciousness reciprocal cross-link
 - **Type**: refine-draft
 - **Status**: pending
+- **Promoted**: 2026-05-26 P3→P2 by /replenish-queue (floor-restoring batch of 4). Verified 2026-05-26: 0 mutual links between `concepts/conscious-vs-unconscious-processing.md` and `concepts/visual-consciousness.md` — refine still needed. Concrete surgical cross-link, not speculative new content.
 - **Notes**: Suggested by optimistic review 2026-05-26d. `concepts/conscious-vs-unconscious-processing.md` and `concepts/visual-consciousness.md` are near-siblings on the access-vs-phenomenal axis — both treat blindsight as paradigm case, the phenomenal-overflow debate, and the 2025 COGITATE posterior-cortex result — but have no mutual link (verified: 0 references each way). Install reciprocal links connecting the duplicated paradigm-case scaffolding. Surgical, <80 words. Optionally also add the footnote-tier teaching-as-metarepresentation → conscious-vs-unconscious-processing link noted in the same review (the "novel combinations" enabled-function is the cognitive substrate teaching's five-level stack presupposes). Tenet alignment: Tenet 3 (Bidirectional Interaction). See [[reviews/optimistic-2026-05-26d]].
 - **Source**: optimistic-review (2026-05-26d)
 - **Generated**: 2026-05-26

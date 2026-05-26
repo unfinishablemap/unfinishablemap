@@ -231,9 +231,9 @@ Maximum article counts per section, configured in `evolution-state.yaml` under `
 
 | Section | Cap | Current |
 |---------|-----|---------|
-| `topics/` | 250 | ~224 |
-| `concepts/` | 250 | ~226 |
-| `voids/` | 100 | ~105 |
+| `topics/` | 270 | ~246 |
+| `concepts/` | 270 | ~245 |
+| `voids/` | 100 | ~101 |
 
 When a section reaches its cap, automation stops creating new articles there and shifts to improving existing content (reviews, condensing, coalescing). Caps are enforced at:
 - `/expand-topic` — refuses to place articles in a full section
