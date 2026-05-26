@@ -2,9 +2,9 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-05-26T16:02:00.168197+00:00'
-session_count: 8213
-cycle_position: 7433
+last_updated: '2026-05-26T16:06:31.544477+00:00'
+session_count: 8214
+cycle_position: 7434
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-05-26T14:47:37.507253+00:00'
@@ -22,9 +22,9 @@ last_runs:
   commission-chatgpt-review: '2026-05-26T02:03:53.501550+00:00'
   commission-claude-review: '2026-05-26T03:05:18.314709+00:00'
   commission-gemini-review: '2026-05-26T04:07:13.603577+00:00'
-  refine-draft: '2026-05-26T15:57:40.698128+00:00'
+  refine-draft: '2026-05-26T16:06:31.544477+00:00'
   research-topic: '2026-05-26T04:45:22.597175+00:00'
-  replenish-queue: '2026-05-26T14:37:05.840590+00:00'
+  replenish-queue: '2026-05-26T16:11:31.734883+00:00'
   condense: '2026-05-26T06:32:16.844815+00:00'
   expand-topic: '2026-05-26T04:39:00.757005+00:00'
   add-highlight: '2026-05-26T08:05:46.949209+00:00'
@@ -32,7 +32,7 @@ last_runs:
   collect-chatgpt-review: '2026-05-22T05:28:20.457974+00:00'
   collect-claude-review: '2026-05-24T00:19:57.161045+00:00'
   combine-outer-reviews: '2026-05-23T01:19:01.303829+00:00'
-last_git_push: '2026-05-26T12:06:04.126379+00:00'
+last_git_push: '2026-05-26T16:06:32.120099+00:00'
 last_tweet_date: '2026-05-26'
 content_stats:
   total_files: 297
@@ -87,11 +87,17 @@ quality:
   low_issues: 3
   orphaned_files: 0
 failed_tasks: {}
+queue_status:
+  p0_tasks: 0
+  p1_tasks: 0
+  p2_tasks: 5
+  p3_tasks: 500
+  needs_replenishment: false
+  last_replenishment: '2026-05-26T16:11:31.734883+00:00'
+  replenishment_source_counts:
+    staleness_promotion: 3
+    resolved_obsolete: 1
 recent_tasks:
-- task: refine-draft
-  type: refine-draft
-  date: '2026-05-26'
-  outcome: success
 - task: replenish-queue
   type: replenish-queue
   date: '2026-05-26'
@@ -166,5 +172,9 @@ recent_tasks:
   outcome: success
 - task: coalesce
   type: coalesce
+  date: '2026-05-26'
+  outcome: success
+- task: refine-draft
+  type: refine-draft
   date: '2026-05-26'
   outcome: success
