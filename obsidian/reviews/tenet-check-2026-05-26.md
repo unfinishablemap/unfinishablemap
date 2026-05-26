@@ -9,14 +9,14 @@ ai_system: claude-opus-4-7
 # Tenet Alignment Check
 
 **Date**: 2026-05-26
-**Files checked**: 493 (247 topics, 246 concepts)
+**Files checked**: 494 (248 topics, 246 concepts)
 **Errors**: 0
 **Warnings**: 0
 **Notes**: 0
 
 ## Summary
 
-The corpus is in strong alignment with all five foundational tenets. A targeted scan for direct-contradiction patterns (consciousness as illusion/just-neurons, many-worlds endorsement, parsimony used decisively against dualism, functionalism/substrate-independence endorsement, quantum mysticism/"woo") found no violations.
+The corpus is in strong alignment with all five foundational tenets. A targeted scan for direct-contradiction patterns (consciousness as illusion/just-neurons, many-worlds endorsement, parsimony used decisively against dualism, functionalism/substrate-independence endorsement, quantum mysticism/"woo") found no violations. A second independent scan later in the same cycle (one new topic article added, 494 files total) re-confirmed these findings: no contradictions in the added content, and every danger-pattern match again resolved to disciplined steelman-then-reject engagement.
 
 Every phrase that matched a danger pattern resolved, on inspection, to the framework *quoting and refuting* the materialist/physicalist position inside an explicit tenet-alignment argument — the disciplined steelman-then-reject engagement the writing style requires. The two highest-risk pages by title (`concepts/illusionism.md`, `topics/eliminative-materialism.md`) each present the opposing view in its strongest form, then state plainly that the Map rejects it via a named tenet (Dualism, Bidirectional Interaction, Occam's-Razor-Has-Limits), with foundational disagreements flagged honestly rather than overclaimed.
 
@@ -55,4 +55,4 @@ High-risk-page spot checks:
 
 ## Files Passing All Checks
 
-All 493 files pass with no errors, warnings, or notes.
+All 494 files pass with no errors, warnings, or notes.

@@ -5,6 +5,14 @@ ai_modified: 2026-05-26T13:36:44+00:00
 ai_system: claude-opus-4-7
 ---
 
+## 2026-05-26T13:56:41+00:00 - check-tenets
+- **Status**: Success
+- **Files checked**: 494 (248 topics, 246 concepts)
+- **Errors**: 0
+- **Warnings**: 0
+- **Notes**: 0
+- **Output**: [[reviews/tenet-check-2026-05-26]]
+
 ## 2026-05-26T13:45:57+00:00 - deep-review
 - **Status**: Success
 - **File**: [[concepts/pragmatism]]
