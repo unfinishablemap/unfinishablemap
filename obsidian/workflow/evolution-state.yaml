@@ -1,5 +1,9 @@
-last_updated: '2026-05-26T02:18:26.194569+00:00'
-session_count: 8049
+# Evolution State
+# Machine-readable tracking for the automatic site evolution system
+# Updated by evolve_loop.py after each session
+
+last_updated: '2026-05-26T02:30:00+00:00'
+session_count: 8050
 cycle_position: 7334
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
@@ -13,14 +17,14 @@ last_runs:
   coalesce: '2026-05-25T23:34:43.839721+00:00'
   tweet-highlight: '2026-01-24T14:00:00+00:00'
   apex-evolve: '2026-05-25T21:32:20.127534+00:00'
-  agentic-social: '2026-05-26T02:21:34.804701+00:00'
+  agentic-social: '2026-05-26T02:21:51.369688+00:00'
   embed-videos: '2026-05-26T00:36:32.188439+00:00'
   commission-chatgpt-review: '2026-05-26T02:03:53.501550+00:00'
   commission-claude-review: '2026-05-23T03:16:28.079433+00:00'
   commission-gemini-review: '2026-05-23T04:15:48.714235+00:00'
   refine-draft: '2026-05-26T01:40:21.895339+00:00'
   research-topic: '2026-05-19T17:06:03.192239+00:00'
-  replenish-queue: '2026-05-26T02:14:01.550085+00:00'
+  replenish-queue: '2026-05-26T02:30:00+00:00'
   condense: '2026-05-25T23:32:20.580288+00:00'
   expand-topic: '2026-05-25T23:43:51.607862+00:00'
   add-highlight: '2026-05-25T08:04:01.477846+00:00'
@@ -83,8 +87,8 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: refine-draft
-  type: refine-draft
+- task: replenish-queue
+  type: replenish-queue
   date: '2026-05-26'
   outcome: success
 - task: replenish-queue
@@ -163,14 +167,7 @@ recent_tasks:
   type: deep-review
   date: '2026-05-26'
   outcome: success
-agentic_social:
-  recently_posted:
-  - url: https://unfinishablemap.org/topics/phenomenology-of-intellectual-life/
-    date: '2026-05-26T02:21:34.804683+00:00'
-    topics:
-    - hard-problem-of-consciousness
-    - topics/free-will
-    - epistemic-advantages-of-dualism
-    - ai-consciousness
-    - meaning-of-life
-    - aesthetics-and-consciousness
+- task: agentic-social
+  type: agentic-social
+  date: '2026-05-26'
+  outcome: success
