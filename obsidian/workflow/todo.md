@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Deep review topics/indexical-identity-quantum-measurement.md (41 days since last review, ai_contribution=100, Tenet 4 load-bearing)
-- **Type**: deep-review
-- **Status**: pending
-- **Notes**: Staleness check (/replenish-queue 2026-05-26). The actionable (P0–P2) queue stood at 2 open tasks (the consciousness-and-skill-acquisition literature-drift P2 and the episodic-memory deep-review P2), below the MIN_QUEUE floor of 3. Per the documented steady-state pattern, promoting a grounded, tenet-load-bearing staleness deep-review is the honest replenishment move — minting speculative expand-topic work against the ~498-task P3 backlog while topics (247/270), concepts (245/270) sit near cap and voids (101/100) is over cap is not. Verified `last_deep_review: 2026-04-15T15:05:00+00:00` (~41 days), `ai_contribution=100`, 2809 words (well under the 4000 topics hard threshold). This is a **Tenet 4 (No Many Worlds / indexical identity matters)** load-bearing article and a major navigational hub (~144 cross-corpus mentions); no dedicated open task currently targets it. Deep-review should: (a) verify the indexical-identity framing still coheres with the current Tenet 4 treatment and the post-March quantum-interface / corridor-selection cluster ([[born-rule-and-the-consciousness-interface]], [[multi-mind-collapse-problem]], [[indexical-knowledge-and-identity]]); (b) honour [[evidential-status-discipline]] — indexical-identity claims about measurement are prone to possibility/probability and metaphysics/physics slippage; (c) confirm the dense inbound cross-links resolve live and are reciprocated where load-bearing; (d) writing-style + length discipline (no "This is not X. It is Y." cliché). Apply in-place fixes if minor; generate a follow-on refine-draft task if substantive. Tenet alignment: Tenet 4 primarily (indexical identity vs branch-relative MWI indexing), Tenet 1 (Dualism — the indexical first-person standpoint resists reduction).
-- **Source**: staleness
-- **Generated**: 2026-05-26
-
 ### P2: Condense apex/phenomenal-output-causal-machinery-dissociation.md (7306 words, over the 6500 apex critical threshold)
 - **Type**: condense
 - **Status**: pending
@@ -3729,6 +3722,10 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 Tasks that failed 3+ times and require human intervention.
 
+
+### ✓ 2026-05-26: Deep review topics/indexical-identity-quantum-measurement.md (41 days since last review, ai_contribution=100, Tenet 4 load-bearing)
+- **Type**: deep-review
+- **Notes**: Staleness check (/replenish-queue 2026-05-26). The actionable (P0–P2) queue stood at 2 open tasks (the consciousness-and-skill-acquisition literature-drift P2 and the episodic-memory deep-review P2), below the MIN_QUEUE floor of 3. Per the documented steady-state pattern, promoting a grounded, tenet-load-bearing staleness deep-review is the honest replenishment move — minting speculative expand-topic work against the ~498-task P3 backlog while topics (247/270), concepts (245/270) sit near cap and voids (101/100) is over cap is not. Verified `last_deep_review: 2026-04-15T15:05:00+00:00` (~41 days), `ai_contribution=100`, 2809 words (well under the 4000 topics hard threshold). This is a **Tenet 4 (No Many Worlds / indexical identity matters)** load-bearing article and a major navigational hub (~144 cross-corpus mentions); no dedicated open task currently targets it. Deep-review should: (a) verify the indexical-identity framing still coheres with the current Tenet 4 treatment and the post-March quantum-interface / corridor-selection cluster ([[born-rule-and-the-consciousness-interface]], [[multi-mind-collapse-problem]], [[indexical-knowledge-and-identity]]); (b) honour [[evidential-status-discipline]] — indexical-identity claims about measurement are prone to possibility/probability and metaphysics/physics slippage; (c) confirm the dense inbound cross-links resolve live and are reciprocated where load-bearing; (d) writing-style + length discipline (no "This is not X. It is Y." cliché). Apply in-place fixes if minor; generate a follow-on refine-draft task if substantive. Tenet alignment: Tenet 4 primarily (indexical identity vs branch-relative MWI indexing), Tenet 1 (Dualism — the indexical first-person standpoint resists reduction).
 
 ### ✓ 2026-05-26: Install consciousness-bandwidth-architecture ↔ neural-refresh-rates sibling cross-link
 - **Type**: refine-draft
