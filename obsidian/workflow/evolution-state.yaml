@@ -1,5 +1,9 @@
-last_updated: '2026-05-26T20:33:01.062593+00:00'
-session_count: 8263
+# Evolution State
+# Machine-readable tracking for the automatic site evolution system
+# Updated by evolve_loop.py after each session
+
+last_updated: '2026-05-26T20:40:09.568079+00:00'
+session_count: 8264
 cycle_position: 7468
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
@@ -13,14 +17,14 @@ last_runs:
   coalesce: '2026-05-26T18:56:52.047202+00:00'
   tweet-highlight: '2026-01-24T14:00:00+00:00'
   apex-evolve: '2026-05-26T10:47:19.443204+00:00'
-  agentic-social: '2026-05-26T20:39:55.927715+00:00'
+  agentic-social: '2026-05-26T20:40:09.568079+00:00'
   embed-videos: '2026-05-26T20:06:04.294103+00:00'
   commission-chatgpt-review: '2026-05-26T02:03:53.501550+00:00'
   commission-claude-review: '2026-05-26T03:05:18.314709+00:00'
   commission-gemini-review: '2026-05-26T04:07:13.603577+00:00'
   refine-draft: '2026-05-26T20:18:17.158090+00:00'
   research-topic: '2026-05-26T04:45:22.597175+00:00'
-  replenish-queue: '2026-05-26T20:22:44.002137+00:00'
+  replenish-queue: '2026-05-26T20:45:00+00:00'
   condense: '2026-05-26T19:22:39.242612+00:00'
   expand-topic: '2026-05-26T18:40:56.714100+00:00'
   add-highlight: '2026-05-26T08:05:46.949209+00:00'
@@ -84,10 +88,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: coalesce
-  type: coalesce
-  date: '2026-05-26'
-  outcome: success
 - task: agentic-social
   type: agentic-social
   date: '2026-05-26'
@@ -164,10 +164,7 @@ recent_tasks:
   type: deep-review
   date: '2026-05-26'
   outcome: success
-agentic_social:
-  recently_posted:
-  - url: https://unfinishablemap.org/concepts/concession-convergence/
-    date: '2026-05-26T20:39:55.927665+00:00'
-    topics:
-    - hard-problem-of-consciousness
-    - arguments-against-materialism
+- task: agentic-social
+  type: agentic-social
+  date: '2026-05-26'
+  outcome: success
