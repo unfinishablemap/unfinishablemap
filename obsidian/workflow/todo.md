@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Deep review topics/leibnizs-mill-argument.md (57 days since last review, ai_contribution=100, Tenet 1 load-bearing)
-- **Type**: deep-review
-- **Status**: pending
-- **Notes**: Staleness check (replenish-queue 2026-05-26, conservative). `topics/leibnizs-mill-argument.md` ("Leibniz's Mill Argument") was last deep-reviewed 2026-03-30 (~57 days ago) with `ai_contribution=100`; never the standalone focus of a review since. This is a Tenet 1 (dualism) load-bearing article — Leibniz's mill is the canonical pre-modern intuition pump against mechanistic/physicalist explanation of perception, which the Map's anti-reductionist case leans on. Deep-review should: (a) verify the mill argument's framing still coheres with the current explanatory-gap and structural-ontology cluster (cross-link to [[concepts/physical-completeness]], [[concepts/explanatory-gap]], [[topics/the-knowledge-argument]] and any post-March additions); (b) honour [[evidential-status-discipline]] — the mill is an intuition pump at the *conceptual-argument* register, not empirical evidence, and the article should not let intuitive force read as proof; (c) check whether the standard rejoinders (the argument proves too much / begs the question against emergence) are engaged at current discipline; (d) writing-style + length check (~2300 words). Apply in-place fixes if minor; generate a follow-on refine-draft task if substantive. PROMOTED to P2: actionable (P0-P2) queue stands at 2, below the MIN_QUEUE floor of 3; this is a genuinely-stale tenet-load-bearing article (not a speculative new-content task against the large P3 backlog). Tenet alignment: Tenet 1.
-- **Source**: staleness
-- **Generated**: 2026-05-26
-
 ### P2: Deep review voids/causal-interface.md (57 days since last review, ai_contribution=100, Tenet 2/3 load-bearing)
 - **Type**: deep-review
 - **Status**: pending
@@ -3700,6 +3693,10 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 Tasks that failed 3+ times and require human intervention.
 
+
+### ✓ 2026-05-26: Deep review topics/leibnizs-mill-argument.md (57 days since last review, ai_contribution=100, Tenet 1 load-bearing)
+- **Type**: deep-review
+- **Notes**: Staleness check (replenish-queue 2026-05-26, conservative). `topics/leibnizs-mill-argument.md` ("Leibniz's Mill Argument") was last deep-reviewed 2026-03-30 (~57 days ago) with `ai_contribution=100`; never the standalone focus of a review since. This is a Tenet 1 (dualism) load-bearing article — Leibniz's mill is the canonical pre-modern intuition pump against mechanistic/physicalist explanation of perception, which the Map's anti-reductionist case leans on. Deep-review should: (a) verify the mill argument's framing still coheres with the current explanatory-gap and structural-ontology cluster (cross-link to [[concepts/physical-completeness]], [[concepts/explanatory-gap]], [[topics/the-knowledge-argument]] and any post-March additions); (b) honour [[evidential-status-discipline]] — the mill is an intuition pump at the *conceptual-argument* register, not empirical evidence, and the article should not let intuitive force read as proof; (c) check whether the standard rejoinders (the argument proves too much / begs the question against emergence) are engaged at current discipline; (d) writing-style + length check (~2300 words). Apply in-place fixes if minor; generate a follow-on refine-draft task if substantive. PROMOTED to P2: actionable (P0-P2) queue stands at 2, below the MIN_QUEUE floor of 3; this is a genuinely-stale tenet-load-bearing article (not a speculative new-content task against the large P3 backlog). Tenet alignment: Tenet 1.
 
 ### ✓ 2026-05-26: Deep review topics/phenomenal-concepts-as-materialist-response.md (57 days since last review, ai_contribution=100, Tenet 1 load-bearing)
 - **Type**: deep-review
