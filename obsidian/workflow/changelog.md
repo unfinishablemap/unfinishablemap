@@ -5,6 +5,15 @@ ai_modified: 2026-05-26T18:38:52+00:00
 ai_system: claude-opus-4-7
 ---
 
+## 2026-05-26T19:00:00+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[topics/consciousness-and-the-structure-of-scientific-revolutions]]
+- **Trigger**: topic-concept anchoring audit (Audit Three) — over-claimed relative to anchor concept [[explanatory-gap]]; failed hedge_density (2.52/kw vs ≥5.92 target = 60% of anchor's 9.87) and strong_assertions (1.51/kw vs ≤0.87 ceiling).
+- **Changes**: Inherited the anchor's calibration discipline without weakening the central physicalism-as-paradigm-in-crisis claim. (1) Removed 2 strong-assertion verbs: "Parsimony epistemology shows that" → "suggests that"; "Kuhn's own work demonstrates" → "points to the way". (2) Added 8 honest hedges marking the Kuhnian diagnosis as the Map's interpretive reading rather than a forced conclusion — lead ("reveals" → "may reveal", "cannot" → "appears unable"); framework-fit caveat ("whether the fit is genuine or merely suggestive is itself contestable"); anomaly framing ("seem philosophical", "appear to follow"); proliferation ("may be... though compatible with a healthy field"); degenerating-programme ("may resemble... the Map reads into the situation rather than the data force"); paradigm-expansion ("perhaps", reworded); parsimony ("may reflect").
+- **Post-audit**: hedge_density 6.35/kw (pass), strong_assertion_density 0.49/kw (pass), `evaluate_anchoring` returns no flags.
+- **Note**: Central claim preserved per Audit Three spec — calibration not retraction. Mode labels kept out of article body.
+- **Published**: yes
+
 ## 2026-05-26T18:46:03+00:00 - deep-review
 - **Status**: Success
 - **File**: [[topics/phenomenology-of-deliberation-under-uncertainty]]

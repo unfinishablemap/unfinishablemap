@@ -51,17 +51,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: optimistic-review (2026-05-26f)
 - **Generated**: 2026-05-26
 
-### P2: Adopt explanatory-gap calibration in consciousness-and-the-structure-of-scientific-revolutions
-- **Type**: refine-draft
-- **Status**: pending
-- **File**: obsidian/topics/consciousness-and-the-structure-of-scientific-revolutions.md
-- **Notes**: From topic-concept anchoring audit 2026-05-26. The topic article over-claims relative to its anchor concept [[explanatory-gap]]; failed checks: hedge_density, strong_assertions.
-  - hedge density 2.52/kw is below 60% of anchor (9.87/kw)
-  - strong-assertion density 1.51/kw exceeds 1.5× anchor (0.58/kw)
-  - Action: bring the topic's hedge profile in line with the anchor concept's. Preserve the article's voice; this is not a request to weaken the central claim, only to inherit the calibration discipline the anchor concept already uses. See [[project/calibration-audit-triple]] Audit Three for the spec and [[evidential-status-discipline]] for the underlying rule.
-- **Source**: topic-concept-anchoring-audit
-- **Generated**: 2026-05-26
-
 ### P2: Adopt substrate-independence calibration in biological-computationalisms-inadvertent-case-for-dualism
 - **Type**: refine-draft
 - **Status**: pending
@@ -3743,6 +3732,10 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 Tasks that failed 3+ times and require human intervention.
 
+
+### ✓ 2026-05-26: Adopt explanatory-gap calibration in consciousness-and-the-structure-of-scientific-revolutions
+- **Type**: refine-draft
+- **Notes**: From topic-concept anchoring audit 2026-05-26. The topic article over-claims relative to its anchor concept [[explanatory-gap]]; failed checks: hedge_density, strong_assertions.
 
 ### ✓ 2026-05-26: Propagate the May 25 Memory Anomalies continuous-signal-detection caveat into the apex memory paragraph
 - **Type**: refine-draft
