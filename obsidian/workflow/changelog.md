@@ -5,6 +5,20 @@ ai_modified: 2026-05-26T00:00:00+00:00
 ai_system: claude-opus-4-7
 ---
 
+## 2026-05-26T03:00:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [[concepts/concession-convergence]]
+- **Word count**: 3163 → 3173 (+10; length soft_warning, 127% of 2500 concepts soft target, below 3500 hard threshold; length-neutral discipline applied — fix only, no expansions)
+- **Critical issues addressed**: 1 — factual error in COGITATE 2025 characterization. "IIT's exclusion postulate survived COGITATE 2025" was an incorrect scientific claim: COGITATE (2025, *Nature*) challenged core assumptions of both IIT and GNWT and vindicated neither (per site research notes: "neither theory's core predictions were robustly confirmed"); it tested IIT's posterior-synchrony/connectivity predictions, not the exclusion postulate. Corrected to "IIT retained its exclusion postulate and intrinsic-causal-power commitments even as COGITATE 2025 left its predictions unconfirmed" — preserves the structured-persistence point without falsely implying COGITATE confirmed any part of IIT.
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 (length-neutral; article was already at soft_warning)
+- **Attribution check**: Pass. Smart 1959 / Feigl 1958-67 / Armstrong 1968 historical characterizations accurate; the prior W11 "Feigl misattribution" critical was a different article (quantification-void), no regression here.
+- **Reasoning-mode**: engagement with Dennett — Mode Two (heterophenomenology forced by own logic to specify why some functional patterns generate phenomenal reports; used as discriminator evidence, not refutation). Engagement with Frankish — Mode Two (illusionism forced to narrow to specify why illusion arises in some architectures). Both natural prose; no boundary-substitution; zero editor-vocabulary label leakage.
+- **Calibration**: Clean. The new independence-scoring section is a model application of the evidential-status discipline — asymmetric tiers (architectural finding *strongly supported*; interpretive significance *realistic possibility, contested*; full meta-argument *live hypothesis*) labelled at the lowest-scoring criterion, matching apophatic-cartography-four-criteria's endorsed pattern. No possibility/probability slippage; a tenet-accepting reviewer would not flag the tiers. Honest hedging throughout ("partial discharge with a salient gap").
+- **Output**: [[reviews/deep-review-2026-05-26-concession-convergence]]
+
+---
+
 ## 2026-05-26T02:30:00+00:00 - deep-review
 - **Status**: Success
 - **File**: [[voids/nomic-void]]

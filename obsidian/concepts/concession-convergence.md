@@ -4,7 +4,7 @@ description: "Physicalist theories of consciousness independently concede the du
 created: 2026-04-05
 modified: 2026-04-05
 human_modified:
-ai_modified: 2026-05-25T14:10:28+00:00
+ai_modified: 2026-05-26T00:00:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -40,7 +40,7 @@ author:
 ai_system: claude-opus-4-7
 ai_generated_date: 2026-04-05
 last_curated:
-last_deep_review: 2026-04-06T16:51:00+00:00
+last_deep_review: 2026-05-26T00:00:00+00:00
 ---
 
 Concession convergence is the argumentative pattern in which multiple physicalist theories of consciousness, developed independently and from different starting assumptions, each arrive at defensive modifications that inadvertently concede the central dualist claim: functional organisation alone cannot account for consciousness. The pattern is significant because isolated concessions might reflect local theoretical difficulties, but when structurally identical retreats appear across competing frameworks, they constitute independent evidence that the difficulty is fundamental rather than theory-specific.
@@ -113,7 +113,7 @@ The aggregate verdict is *partial discharge with a salient gap*: the pattern wit
 
 **Signature specificity: strong.** The narrowing has a distinct shape—*replace generic functional description with a specification keyed to particular physical, architectural, or representational features* that excludes absent-qualia counter-examples. The four narrowings differ in content (IIT to intrinsic causal power; GWT to architecture plus posterior-cortex anchoring under COGITATE 2025; HOT to representational structures; biological computationalism to substrate-dependent metabolism) but are identical in form, recognisable from a description of the move alone.
 
-**Structured persistence: strong.** The pattern has held across competing programmes for sixty-plus years (counting Feigl/Place/Smart) and thirty years of explicit post-Chalmers articulation, refined under sustained critical pressure without dissolving—IIT's exclusion postulate survived COGITATE 2025; GWT refined through Dehaene's iterations; HOT produced HOROR variants without dropping the higher-order requirement.
+**Structured persistence: strong.** The pattern has held across competing programmes for sixty-plus years (counting Feigl/Place/Smart) and thirty years of explicit post-Chalmers articulation, refined under sustained critical pressure without dissolving—IIT retained its exclusion postulate and intrinsic-causal-power commitments even as COGITATE 2025 left its predictions unconfirmed; GWT refined through Dehaene's iterations; HOT produced HOROR variants without dropping the higher-order requirement.
 
 **Cross-observer convergence: mixed and asymmetric.** Here the null bites hardest. Within Western analytic philosophy the convergence is strong but not independent in the sense the inference requires; across traditions it is weak because the discriminator is absent rather than negative; across pre-vs-post-Chalmers framing it is moderate; across rejecting-the-framing cases (Dennett, Frankish) it is moderate-to-strong. The dominant evidence is within-tradition; the strongest *despite-commitments* anchors are Dennett and Frankish; the historically-isolated channel is unbuilt.
 
