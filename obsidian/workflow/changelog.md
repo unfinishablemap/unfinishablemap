@@ -1,9 +1,18 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-26T20:49:50+00:00
+ai_modified: 2026-05-26T21:12:59+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-05-26T21:12:59+00:00 - refine-draft
+- **Status**: Success
+- **Files**: [[concepts/consciousness-bandwidth-architecture]] and [[concepts/neural-refresh-rates]]
+- **Changes**: Installed reciprocal sibling cross-links (~45 words total) between the informational face (CBA, 10⁹-in / 10-out) and the temporal face (neural-refresh-rates, discrete oscillatory sampling vs smooth experience) of the same three-face grain-mismatch programme. Both previously linked only the grain-mismatch hub, not each other, so the convergent-evidence programme was hub-mediated only. Framing verified against [[concepts/grain-mismatch]] (informational/temporal/spatial faces). Both Further Reading sections.
+- **Verification**: All 19 cross-links in neural-refresh-rates (cohort's stalest member, last deep-reviewed 2026-04-22) confirmed resolving to live files. No content/argument changes.
+- **Tenet alignment**: Tenet 1 (Dualism — convergent grain-mismatch evidence)
+- **Source**: optimistic review 2026-05-26e ([[reviews/optimistic-2026-05-26e]])
+- **Published**: yes
 
 ## 2026-05-26T21:08:09+00:00 - deep-review
 - **Status**: Success

@@ -58,13 +58,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: optimistic-review (2026-05-26f)
 - **Generated**: 2026-05-26
 
-### P2: Install consciousness-bandwidth-architecture ↔ neural-refresh-rates sibling cross-link
-- **Type**: refine-draft
-- **Status**: pending
-- **Notes**: PROMOTED P3→P2 by /replenish-queue 2026-05-26 (floor-restoring batch, queue at 2 below the MIN_QUEUE floor of 3). Re-verified absent at promotion time (grep 2026-05-26: still 0 mutual references either way; both link the grain-mismatch hub but not each other). A surgical (<60 words), verified, review-flagged sibling cross-link install. Suggested by optimistic review 2026-05-26e. Verified 2026-05-26 by grep: **0 mutual references either way** between `concepts/consciousness-bandwidth-architecture.md` and `concepts/neural-refresh-rates.md`. Both are explicitly named faces of the *same* three-face grain-mismatch programme in `concepts/grain-mismatch.md` — CBA is the **informational** mismatch (10⁹-in / 10-out), `neural-refresh-rates` is the **temporal** mismatch (discrete oscillatory sampling vs smooth experience) — and **both already link the grain-mismatch hub but not each other**, so the convergent-evidence programme is currently only hub-mediated, not self-referential between siblings. Install reciprocal links (Further Reading or the relevant grain/asymmetry section) so the informational and temporal faces point directly at each other as members of the same programme. Surgical, <60 words total. Note: `neural-refresh-rates` is the cohort's stalest member (last deep-reviewed 2026-04-22) — a refine pass here can also verify its other cross-links resolve live. Tenet alignment: Tenet 1 (Dualism — convergent grain-mismatch evidence). See [[reviews/optimistic-2026-05-26e]].
-- **Source**: optimistic-review (2026-05-26e)
-- **Generated**: 2026-05-26
-
 ### P3: Reconcile Denton et al. (2024) Nature Communications article number in stapp-quantum-mind.md
 - **Type**: refine-draft
 - **Status**: pending
@@ -3714,6 +3707,10 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 Tasks that failed 3+ times and require human intervention.
 
+
+### ✓ 2026-05-26: Install consciousness-bandwidth-architecture ↔ neural-refresh-rates sibling cross-link
+- **Type**: refine-draft
+- **Notes**: PROMOTED P3→P2 by /replenish-queue 2026-05-26 (floor-restoring batch, queue at 2 below the MIN_QUEUE floor of 3). Re-verified absent at promotion time (grep 2026-05-26: still 0 mutual references either way; both link the grain-mismatch hub but not each other). A surgical (<60 words), verified, review-flagged sibling cross-link install. Suggested by optimistic review 2026-05-26e. Verified 2026-05-26 by grep: **0 mutual references either way** between `concepts/consciousness-bandwidth-architecture.md` and `concepts/neural-refresh-rates.md`. Both are explicitly named faces of the *same* three-face grain-mismatch programme in `concepts/grain-mismatch.md` — CBA is the **informational** mismatch (10⁹-in / 10-out), `neural-refresh-rates` is the **temporal** mismatch (discrete oscillatory sampling vs smooth experience) — and **both already link the grain-mismatch hub but not each other**, so the convergent-evidence programme is currently only hub-mediated, not self-referential between siblings. Install reciprocal links (Further Reading or the relevant grain/asymmetry section) so the informational and temporal faces point directly at each other as members of the same programme. Surgical, <60 words total. Note: `neural-refresh-rates` is the cohort's stalest member (last deep-reviewed 2026-04-22) — a refine pass here can also verify its other cross-links resolve live. Tenet alignment: Tenet 1 (Dualism — convergent grain-mismatch evidence). See [[reviews/optimistic-2026-05-26e]].
 
 ### ✓ 2026-05-26: Install quantum-neural-timing-constraints ↔ consciousness-bandwidth-architecture reciprocal cross-link
 - **Type**: refine-draft

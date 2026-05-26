@@ -4,7 +4,7 @@ description: "The brain samples the world in discrete oscillatory cycles at 7-13
 created: 2026-03-18
 modified: 2026-03-18
 human_modified:
-ai_modified: 2026-05-26T13:30:00+00:00
+ai_modified: 2026-05-26T21:12:59+00:00
 last_deep_review: 2026-04-22T08:39:00+00:00
 draft: false
 topics:
@@ -84,6 +84,7 @@ The concept of neural refresh rates also connects to the Map's treatment of [[th
 - [[neural-refresh-rates-and-the-smoothness-problem]]
 - [[temporal-consciousness-structure-and-agency]]
 - [[grain-mismatch]]
+- [[consciousness-bandwidth-architecture]] — The informational face of the same grain-mismatch programme (10⁹-in / 10-out); this article is the temporal face
 - [[temporal-consciousness]]
 - [[the-binding-problem]]
 - [[binding-problem]]
