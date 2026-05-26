@@ -5,7 +5,15 @@ ai_modified: 2026-05-26T18:30:00+00:00
 ai_system: claude-opus-4-7
 ---
 
-## 2026-05-26T18:30:00+00:00 - deep-review
+## 2026-05-26T13:30:00+00:00 - refine-draft
+- **Status**: Success (citation-accuracy fix; surgical, length-neutral)
+- **File**: [[concepts/neural-refresh-rates]]
+- **Changes**: Corrected Herzog 2020 two-stage-model author-order inversion in both the body (§Herzog's Two-Stage Model) and reference #3 — "Herzog, Doerig, and Drissi-Daoudi" → published order **Herzog, M.H., Drissi-Daoudi, L., & Doerig, A.** (web-verified PubMed 32893140 / Cell S1364-6613(20)30170-4 / Semantic Scholar). Body↔reference-list now consistent.
+- **Corpus-wide grep contaminant check**: The task's "last contaminated file" claim was inaccurate — the seeding note `research/neural-refresh-rates-smoothness-problem-2026-03-08.md` still carried the inverted order in TWO "Proponents" metadata fields (Discrete Perception §, Two-Stage Hybrid Model §). Both corrected to Herzog, Drissi-Daoudi, Doerig. (Confirms this session's process lesson: manual "did-not-propagate" claims under-count; grep is authoritative.)
+- **Final residue**: strict inverted-pattern grep across obsidian/ returns zero hits in any article body or reference list (only workflow/review/changelog records remain, which correctly quote the old order while documenting the fix). Loose Herzog grep across topics/concepts/voids/apex/research confirms every live cite now uses the published order. The 2024 Doerig/Schurger/Herzog paper and the 2016 Herzog/Kammer/Scharnowski paper are distinct works, correct as-is.
+- **Published**: yes
+
+
 - **Status**: Success (citation-accuracy fix on a converged article)
 - **File**: [[voids/smoothness-and-continuity]]
 - **Word count**: 2400 → 2400 (no change; 120% of voids soft 2000, under hard 3000)

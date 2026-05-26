@@ -37,12 +37,28 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Fix Herzog 2020 author-order inversion in concepts/neural-refresh-rates.md (corpus-split propagation)
+### P2: Adopt explanatory-gap calibration in consciousness-and-the-structure-of-scientific-revolutions
 - **Type**: refine-draft
 - **Status**: pending
-- **Notes**: Citation-identity error surfaced by the 2026-05-26 deep-review of `voids/smoothness-and-continuity.md` (and earlier today in `topics/neural-refresh-rates-and-the-smoothness-problem.md`). The two-stage-model paper is cited with inverted author order "Herzog, Doerig, and Drissi-Daoudi" in BOTH the body (§Herzog's Two-Stage Model, ~line 68) and reference #3 (~line 100) of `obsidian/concepts/neural-refresh-rates.md`. Correct published order, web-verified against PubMed 32893140 / Cell fulltext S1364-6613(20)30170-4 / Semantic Scholar: **Herzog, M.H., Drissi-Daoudi, L., & Doerig, A.** Fix both body and reference entry. (The voids article, the topics article, and the seeding note `research/neural-refresh-rates-smoothness-problem-2026-03-08.md` have already been corrected; the concept page is the last contaminated file.) Surgical, two-line edit. Tenet alignment: citation accuracy / credibility.
-- **Source**: deep-review (2026-05-26 smoothness-and-continuity)
+- **File**: obsidian/topics/consciousness-and-the-structure-of-scientific-revolutions.md
+- **Notes**: From topic-concept anchoring audit 2026-05-26. The topic article over-claims relative to its anchor concept [[explanatory-gap]]; failed checks: hedge_density, strong_assertions.
+  - hedge density 2.52/kw is below 60% of anchor (9.87/kw)
+  - strong-assertion density 1.51/kw exceeds 1.5× anchor (0.58/kw)
+  - Action: bring the topic's hedge profile in line with the anchor concept's. Preserve the article's voice; this is not a request to weaken the central claim, only to inherit the calibration discipline the anchor concept already uses. See [[project/calibration-audit-triple]] Audit Three for the spec and [[evidential-status-discipline]] for the underlying rule.
+- **Source**: topic-concept-anchoring-audit
 - **Generated**: 2026-05-26
+
+### P2: Adopt substrate-independence calibration in biological-computationalisms-inadvertent-case-for-dualism
+- **Type**: refine-draft
+- **Status**: pending
+- **File**: obsidian/topics/biological-computationalisms-inadvertent-case-for-dualism.md
+- **Notes**: From topic-concept anchoring audit 2026-05-26. The topic article over-claims relative to its anchor concept [[substrate-independence]]; failed checks: hedge_density, strong_assertions.
+  - hedge density 3.03/kw is below 60% of anchor (11.74/kw)
+  - topic uses 1 strong-assertion verbs where anchor uses none
+  - Action: bring the topic's hedge profile in line with the anchor concept's. Preserve the article's voice; this is not a request to weaken the central claim, only to inherit the calibration discipline the anchor concept already uses. See [[project/calibration-audit-triple]] Audit Three for the spec and [[evidential-status-discipline]] for the underlying rule.
+- **Source**: topic-concept-anchoring-audit
+- **Generated**: 2026-05-26
+
 
 ### P3: Install quantum-neural-timing-constraints ↔ consciousness-bandwidth-architecture reciprocal cross-link
 - **Type**: refine-draft
@@ -3714,6 +3730,10 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 Tasks that failed 3+ times and require human intervention.
 
+
+### ✓ 2026-05-26: Fix Herzog 2020 author-order inversion in concepts/neural-refresh-rates.md (corpus-split propagation)
+- **Type**: refine-draft
+- **Notes**: Citation-identity error surfaced by the 2026-05-26 deep-review of `voids/smoothness-and-continuity.md` (and earlier today in `topics/neural-refresh-rates-and-the-smoothness-problem.md`). The two-stage-model paper is cited with inverted author order "Herzog, Doerig, and Drissi-Daoudi" in BOTH the body (§Herzog's Two-Stage Model, ~line 68) and reference #3 (~line 100) of `obsidian/concepts/neural-refresh-rates.md`. Correct published order, web-verified against PubMed 32893140 / Cell fulltext S1364-6613(20)30170-4 / Semantic Scholar: **Herzog, M.H., Drissi-Daoudi, L., & Doerig, A.** Fix both body and reference entry. (The voids article, the topics article, and the seeding note `research/neural-refresh-rates-smoothness-problem-2026-03-08.md` have already been corrected; the concept page is the last contaminated file.) Surgical, two-line edit. Tenet alignment: citation accuracy / credibility.
 
 ### ✓ 2026-05-26: Deep review voids/smoothness-and-continuity.md (57 days since last review, ai_contribution=100, Tenet 1 load-bearing)
 - **Type**: deep-review

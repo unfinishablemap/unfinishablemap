@@ -4,7 +4,7 @@ description: "The brain samples the world in discrete oscillatory cycles at 7-13
 created: 2026-03-18
 modified: 2026-03-18
 human_modified:
-ai_modified: 2026-05-26T12:00:00+00:00
+ai_modified: 2026-05-26T13:30:00+00:00
 last_deep_review: 2026-04-22T08:39:00+00:00
 draft: false
 topics:
@@ -65,7 +65,7 @@ These proposals are computationally plausible and explain how a discrete system 
 
 ## Herzog's Two-Stage Model
 
-Herzog, Doerig, and Drissi-Daoudi (2020) proposed a compromise: unconscious processing is continuous and high-resolution, while conscious perception is discrete, crystallising in "time slices" of up to 400 ms. Postdictive effects — stimuli presented *after* a target altering how the target is consciously perceived — support this architecture.
+Herzog, Drissi-Daoudi, and Doerig (2020) proposed a compromise: unconscious processing is continuous and high-resolution, while conscious perception is discrete, crystallising in "time slices" of up to 400 ms. Postdictive effects — stimuli presented *after* a target altering how the target is consciously perceived — support this architecture.
 
 The two-stage model resolves some tensions but opens the deeper question of what produces the conscious percept from the unconscious processing. The transition from continuous computation to discrete experience is the juncture where the [[explanatory-gap]] opens widest.
 
@@ -97,7 +97,7 @@ The concept of neural refresh rates also connects to the Map's treatment of [[th
 
 1. Bergson, H. (1889/1910). *Time and Free Will: An Essay on the Immediate Data of Consciousness*. F.L. Pogson (trans.). London: George Allen & Unwin.
 2. Crick, F., & Koch, C. (1990). Towards a neurobiological theory of consciousness. *Seminars in the Neurosciences*, 2, 263–275.
-3. Herzog, M.H., Doerig, A., & Drissi-Daoudi, L. (2020). All in Good Time: Long-Lasting Postdictive Effects Reveal Discrete Perception. *Trends in Cognitive Sciences*, 24(10), 826–837.
+3. Herzog, M.H., Drissi-Daoudi, L., & Doerig, A. (2020). All in Good Time: Long-Lasting Postdictive Effects Reveal Discrete Perception. *Trends in Cognitive Sciences*, 24(10), 826–837.
 4. James, W. (1890). *The Principles of Psychology*. New York: Henry Holt.
 5. Sellars, W. (1965). The Identity Approach to the Mind-Body Problem. *Review of Metaphysics*, 18(3), 430–451.
 6. VanRullen, R. (2016). Perceptual Cycles. *Trends in Cognitive Sciences*, 20(10), 723–735.

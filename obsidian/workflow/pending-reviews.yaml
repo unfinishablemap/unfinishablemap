@@ -712,9 +712,9 @@
   commissioned_at: '2026-05-26T14:30:21.254182+00:00'
   prompt_summary: Audit phenomenal-output/causal-machinery dissociation apex article
   target_filename: outer-review-2026-05-26-claude-opus-4-7.md
-  status: pending
+  status: collected
   collect_attempts: 0
-  last_attempt_at: null
+  last_attempt_at: '2026-05-26T16:48:03.172409+00:00'
   failure_reason: null
   prompt_text: "Please conduct a rigorous outer review of one article on The Unfinishable\
     \ Map (https://unfinishablemap.org), a dualist philosophy-of-mind project. The\

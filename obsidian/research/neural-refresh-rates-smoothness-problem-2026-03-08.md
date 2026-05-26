@@ -100,7 +100,7 @@ Neural activity is discrete and oscillatory—brainwaves cycle at measurable fre
 ## Major Positions
 
 ### Discrete Perception (Perceptual Frames)
-- **Proponents**: VanRullen, Herzog, Doerig, Drissi-Daoudi
+- **Proponents**: VanRullen, Herzog, Drissi-Daoudi, Doerig
 - **Core claim**: Conscious perception operates in discrete episodes or "time slices," analogous to frames in a film. Neural oscillations (alpha ~10 Hz, theta ~4–8 Hz) create periodic sampling windows.
 - **Key arguments**: Flash-lag effect, attentional blink, temporal order reversals, wagon-wheel illusion under continuous illumination all suggest discrete sampling rather than continuous monitoring.
 - **Relation to site tenets**: Compatible with dualism — discrete neural processing means consciousness receives periodic inputs. The question of who or what assembles these into smooth experience remains open. If physical mechanisms alone cannot explain the smoothness, a non-physical contribution is needed.
@@ -118,7 +118,7 @@ Neural activity is discrete and oscillatory—brainwaves cycle at measurable fre
 - **Relation to site tenets**: Conflicts with dualism in its strong form (gamma synchrony is *sufficient* for consciousness). However, the persistent failures of this programme — gamma during anaesthesia, ongoing debate about whether correlation equals causation — support the dualist position that synchrony is necessary but not sufficient.
 
 ### Two-Stage Hybrid Model
-- **Proponents**: Herzog, Doerig, Drissi-Daoudi
+- **Proponents**: Herzog, Drissi-Daoudi, Doerig
 - **Core claim**: Unconscious processing is continuous and high-resolution; conscious perception is discrete, emerging after substantial (~400 ms) integration periods.
 - **Key arguments**: Resolves contradictions between continuous neural processing data and discrete perceptual phenomena. Explains both the richness of perception (continuous processing) and the temporal granularity of awareness (discrete percepts).
 - **Relation to site tenets**: Highly compatible with dualism. The model explicitly separates unconscious neural processing (physical, continuous) from conscious perception (discrete, emergent). This separation naturally invites the question: what produces the conscious percept from the unconscious processing? The transition from continuous processing to discrete consciousness is the very juncture where a non-physical contribution could operate.
