@@ -58,13 +58,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: optimistic-review (2026-05-26d)
 - **Generated**: 2026-05-26
 
-### P2: Deep review concepts/symbol-grounding-problem.md (51 days since last review, ai_contribution=100)
-- **Type**: deep-review
-- **Status**: pending
-- **Notes**: Staleness check (/replenish-queue 2026-05-26, floor-restoring). `concepts/symbol-grounding-problem.md` ("Symbol Grounding Problem", last_deep_review 2026-04-04 ~51 days ago, `ai_contribution=100`). An existing P3 refine task ("Refine symbol-grounding-problem, dualism, qualia to invoke HPoC explicitly") touches this file but is a targeted cross-cutting refine, not a staleness deep-review — a fresh full-document review is warranted and not otherwise queued. Symbol grounding is load-bearing for the AI-consciousness typology and the meaning/intentionality cluster. Deep-review should: (a) verify the grounding treatment still coheres with current functionalism / biological-computationalism usage and the AI-consciousness apex pages; (b) honour `[[evidential-status-discipline]]`; (c) check whether the HPoC-invocation refine intent (the open P3) can be folded in here, and if so resolve that P3 as obsolete; (d) verify cross-links resolve live and are reciprocated; (e) writing-style + length discipline (concepts/ thresholds 2500/3500/5000), no-cliché check. Apply in-place fixes if minor; generate a follow-on refine-draft task if substantive. Tenet alignment: Tenet 1 (Dualism — meaning/intentionality as a candidate non-physical contribution), Tenet 5 (Occam's limits).
-- **Source**: staleness
-- **Generated**: 2026-05-26
-
 ### P2: Deep review topics/language-recursion-and-consciousness.md (50 days since last review, ai_contribution=100)
 - **Type**: deep-review
 - **Status**: pending
@@ -3755,6 +3748,10 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 Tasks that failed 3+ times and require human intervention.
 
+
+### ✓ 2026-05-26: Deep review concepts/symbol-grounding-problem.md (51 days since last review, ai_contribution=100)
+- **Type**: deep-review
+- **Notes**: Staleness check (/replenish-queue 2026-05-26, floor-restoring). `concepts/symbol-grounding-problem.md` ("Symbol Grounding Problem", last_deep_review 2026-04-04 ~51 days ago, `ai_contribution=100`). An existing P3 refine task ("Refine symbol-grounding-problem, dualism, qualia to invoke HPoC explicitly") touches this file but is a targeted cross-cutting refine, not a staleness deep-review — a fresh full-document review is warranted and not otherwise queued. Symbol grounding is load-bearing for the AI-consciousness typology and the meaning/intentionality cluster. Deep-review should: (a) verify the grounding treatment still coheres with current functionalism / biological-computationalism usage and the AI-consciousness apex pages; (b) honour `[[evidential-status-discipline]]`; (c) check whether the HPoC-invocation refine intent (the open P3) can be folded in here, and if so resolve that P3 as obsolete; (d) verify cross-links resolve live and are reciprocated; (e) writing-style + length discipline (concepts/ thresholds 2500/3500/5000), no-cliché check. Apply in-place fixes if minor; generate a follow-on refine-draft task if substantive. Tenet alignment: Tenet 1 (Dualism — meaning/intentionality as a candidate non-physical contribution), Tenet 5 (Occam's limits).
 
 ### ✓ 2026-05-26: Deep review concepts/conscious-vs-unconscious-processing.md (55 days since last review, ai_contribution=100)
 - **Type**: deep-review

@@ -5,6 +5,17 @@ ai_modified: 2026-05-26T12:14:27+00:00
 ai_system: claude-opus-4-7
 ---
 
+## 2026-05-26T00:00:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [[concepts/symbol-grounding-problem]]
+- **Word count**: 2480 → 2548 (102% of 2500 soft target; under 3500 hard — net growth from required attribution corrections, offsetting trims applied)
+- **Critical issues addressed**: 4 — all citation/attribution errors that the prior two "stable, all attributions verified" reviews had propagated without web-checking. (1) "The Vector Grounding Problem" (arXiv:2304.01481) misattributed to Piantadosi & Hill → actually **Mollo & Millière (2023)**; Piantadosi & Hill's real paper is "Meaning without reference in LLMs" (arXiv:2208.02957), which wasn't being used. Fixed body + Ref 5. (2) Fabricated verbatim quote "vector components are not connected to the world either but to other symbols" — not in the source (full-text checked); de-quoted and replaced with the paper's actual phrase "merry-go-round of representations." (3) Royal Society paper "Symbols and grounding in LLMs" (Phil. Trans. R. Soc. A 381(2251), 20220041) misattributed to Mollo & Millière → actually **Ellie Pavlick (2023)**; the quote IS verbatim Pavlick, only the author was wrong; fixed body + Ref 4, added clause noting Pavlick resists the no-meaning inference. (4) "Three Symbol Ungrounding Problems" (2015) misattributed to "Cangelosi & Greco, New Ideas in Psychology 39:1-6" → actually **Guy Dove**, Psychonomic Bulletin & Review 23(4):1109-1121; fixed Ref 8.
+- **Medium issues addressed**: 1 — Lin & Liu (2022) reframed: article said they "propose" the hard/easy division; abstract shows they critique it and recast as machine intentionality. Reworded; citation itself verified correct.
+- **Citations verified accurate (unchanged)**: Harnad 1990, Searle 1980, Steels 2008, Harnad Scholarpedia quote, Barsalou 2008.
+- **Other checks**: all 18 wikilinks resolve live (non-archive); tenet anchors current (^occams-limits, etc.); section anchors valid; no drift slugs; no "This is not X. It is Y." cliché; no possibility/probability slippage (dualist reading consistently framed as interpretation, quantum tenet flagged speculative).
+- **Process note**: prior two reviews marked this article "stable / do not re-review" while it held four real citation errors — "verified in previous review" was trusted in place of actual source lookup.
+- **Output**: [[reviews/deep-review-2026-05-26-symbol-grounding-problem]]
+
 ## 2026-05-26T12:14:27+00:00 - optimistic-review
 - **Status**: Success
 - **Content reviewed**: Phenomenology-vs-function / consciousness-as-enabler cohort — 5 concept articles deep-reviewed 11:21–12:11 UTC today, none covered by the day's three prior optimistic reviews: [[concepts/conscious-vs-unconscious-processing]], [[concepts/teaching-as-metarepresentation]], [[concepts/prehension]], [[concepts/functionalism]], [[concepts/visual-consciousness]].
