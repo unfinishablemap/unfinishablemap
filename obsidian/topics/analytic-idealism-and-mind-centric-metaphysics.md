@@ -4,7 +4,7 @@ description: "Mapping the landscape of mind-first ontologies—from Kastrup's an
 created: 2026-02-22
 modified: 2026-02-23
 human_modified:
-ai_modified: 2026-04-06T10:27:00+00:00
+ai_modified: 2026-05-26T00:00:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -28,14 +28,14 @@ author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-02-22
 last_curated:
-last_deep_review: 2026-04-06T10:27:00+00:00
+last_deep_review: 2026-05-26T00:00:00+00:00
 ---
 
 If consciousness is fundamental—not something brains produce but something reality includes from the start—how should we build a metaphysics around that conviction? The Unfinishable Map, Bernardo Kastrup's analytic idealism, panpsychism, cosmopsychism, and dual-aspect monism all answer this question differently. They agree that physicalism fails. They disagree about what replaces it. The choice between these mind-centric frameworks turns on three questions: what is matter, how does causation work, and does individual identity survive?
 
 ## The Mind-Centric Turn
 
-The [[hard-problem-of-consciousness|hard problem]] has pushed philosophy of mind toward frameworks that take consciousness as primitive rather than emergent. The explanatory gap between neural firing and subjective experience hasn't narrowed in three decades of neuroscience. No physical description, however complete, entails that there is something it is like to undergo the described process.
+The [[hard-problem-of-consciousness|hard problem]] has pushed philosophy of mind toward frameworks that take consciousness as primitive rather than emergent. The explanatory gap between neural firing and subjective experience hasn't narrowed in three decades of neuroscience. As Chalmers (1996) argues, no physical description, however complete, entails that there is something it is like to undergo the described process—and Nagel (2012) presses the same gap into a case against treating mind as a late accident of physics.
 
 This creates pressure to start from consciousness rather than trying to reach it from matter. But "start from consciousness" admits multiple interpretations. At one extreme, consciousness is the only thing that exists (idealism). At the other, consciousness is a fundamental but distinct feature of a reality that also contains genuinely physical things (dualism). Between them sit views that try to dissolve the mind-matter distinction altogether (dual-aspect monism, neutral monism) or that distribute mentality throughout matter itself (panpsychism).
 

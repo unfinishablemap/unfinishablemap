@@ -44,13 +44,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: staleness
 - **Generated**: 2026-05-26
 
-### P2: Deep review topics/analytic-idealism-and-mind-centric-metaphysics.md (49 days since last review, ai_contribution>50, Tenet 1 contrast)
-- **Type**: deep-review
-- **Status**: pending
-- **Notes**: Staleness check (replenish-queue 2026-05-26). `topics/analytic-idealism-and-mind-centric-metaphysics.md` was last deep-reviewed ~49 days ago with `ai_contribution>50` and has no live task. Promoted to P2 because it is the site's primary engagement with a major rival to interactionist dualism (Kastrup-style analytic idealism), so it is **Tenet 1 (Dualism)** load-bearing as a contrast/boundary article — misrepresenting the rival weakens the dualist case. Deep-review should: (a) verify the characterisation of analytic idealism is current and steel-manned (no straw-manning); (b) confirm the dualism/idealism distinction is drawn cleanly and the "Relation to Site Perspective" section is present and accurate; (c) check cross-links to related metaphysics articles resolve and are reciprocated; (d) writing-style and length discipline. Apply in-place fixes if minor; generate a refine-draft follow-on if substantive.
-- **Source**: staleness
-- **Generated**: 2026-05-26
-
 ### P2: Deep review concepts/intuitive-dualism.md (49 days since last review, ai_contribution>50, Tenet 1 support)
 - **Type**: deep-review
 - **Status**: pending
@@ -3721,6 +3714,10 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 Tasks that failed 3+ times and require human intervention.
 
+
+### ✓ 2026-05-26: Deep review topics/analytic-idealism-and-mind-centric-metaphysics.md (49 days since last review, ai_contribution>50, Tenet 1 contrast)
+- **Type**: deep-review
+- **Notes**: Staleness check (replenish-queue 2026-05-26). `topics/analytic-idealism-and-mind-centric-metaphysics.md` was last deep-reviewed ~49 days ago with `ai_contribution>50` and has no live task. Promoted to P2 because it is the site's primary engagement with a major rival to interactionist dualism (Kastrup-style analytic idealism), so it is **Tenet 1 (Dualism)** load-bearing as a contrast/boundary article — misrepresenting the rival weakens the dualist case. Deep-review should: (a) verify the characterisation of analytic idealism is current and steel-manned (no straw-manning); (b) confirm the dualism/idealism distinction is drawn cleanly and the "Relation to Site Perspective" section is present and accurate; (c) check cross-links to related metaphysics articles resolve and are reciprocated; (d) writing-style and length discipline. Apply in-place fixes if minor; generate a refine-draft follow-on if substantive.
 
 ### ✓ 2026-05-26: Deep review topics/philosophical-stakes-of-spontaneous-collapse.md (55 days since last review, ai_contribution=100, Tenet 2/4 load-bearing)
 - **Type**: deep-review

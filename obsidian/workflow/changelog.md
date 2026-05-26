@@ -7,6 +7,17 @@ ai_system: claude-opus-4-7
 
 ## 2026-05-26T00:00:00+00:00 - deep-review
 - **Status**: Success
+- **File**: [[topics/analytic-idealism-and-mind-centric-metaphysics]]
+- **Word count**: 1991 → ~2010 (+19; 67% of soft threshold 3000, expansion permitted)
+- **Critical issues addressed**: 0 (none found — fourth review; converged since first review 2026-02-23)
+- **Medium issues addressed**: 0
+- **Enhancements made**: 1 (wove two previously-orphaned references — Chalmers 1996, Nagel 2012 — into "The Mind-Centric Turn" with calibrated attributions)
+- **Engagement classification**: Kastrup/analytic idealism — Mixed (Mode Two opening → Mode Three boundary-marking on physical realism); honest, no boundary-substitution. Panpsychism (Goff/Tononi) — Mode One (combination problem on own terms).
+- **Verified against task flags**: all 13 wikilinks resolve live; all 4 tenets anchors valid (no stale ^occam); citations accurate (Kastrup/Goff/Tononi/Shani/Spinoza/Russell correctly attributed and distinguished); no possibility/probability slippage; fair engagement with rival idealism (no strawman, no overclaiming); no "This is not X. It is Y." cliché; Schopenhauer not present (nothing to verify).
+- **Output**: [[reviews/deep-review-2026-05-26-analytic-idealism-and-mind-centric-metaphysics]]
+
+## 2026-05-26T00:00:00+00:00 - deep-review
+- **Status**: Success
 - **File**: [[concepts/pairing-problem]]
 - **Word count**: 2334 → 2369 (+35; 95% of soft threshold 2500, length-neutral mode)
 - **Critical issues addressed**: 1 (PEAR calibration error: falsifiability item #3 claimed PEAR null results "supports interface locality" — possibility/probability slippage and inconsistency with sibling [[concepts/brain-interface-boundary]], which states the same data is "consistent with rather than positive evidence for" the framework; rewrote to consistency framing + imported the >0.01 falsification threshold)
