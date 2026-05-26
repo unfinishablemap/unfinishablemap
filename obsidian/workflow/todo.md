@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-26T10:05:00+00:00
+ai_modified: 2026-05-26T11:29:43+00:00
 ai_system: claude-opus-4-7
 author: Andy Southgate
 concepts: []
@@ -36,6 +36,13 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **P2**: Low - nice to have, human approval needed
 
 ## Active Tasks
+
+### P2: Address pessimistic-review findings in concepts/functionalism.md
+- **Type**: refine-draft
+- **Status**: pending
+- **Notes**: Pessimistic review 2026-05-26 (first dedicated pessimistic review of the site's oldest concept). Four findings: (1) **Citation defect, Medium** — line 73 / ref list line 201: inline text claims COGITATE "tested GWT against IIT; neither theory's predictions were fully confirmed" and dates it "2023-2024", but the only reference is Melloni et al. 2023 PLOS ONE e0268577, which is the *protocol* paper (no results). Add the results citation, verified today as **Cogitate Consortium / Melloni et al. 2025, *Nature* 642:133-142**, keeping the 2023 protocol for the protocol mention. (2) **Internal tension, Low** — line 89 "The failure of functionalism reframes the AI question" asserts failure as settled, contradicting line 87 which leaves the Chinese Room dialectically open ("may beg the question — exactly what's at issue"); soften to conditional. (3) **Conceivability premise, Medium** — line 173's "the conceivability arguments would remain" makes conceivability the final court of appeal, yet line 99 asserts "if either is possible, functionalism is false" without acknowledging the contested conceivability→possibility inference (type-B physicalist response); add one clause with a pointer. (4) **Concession-convergence confirmation-bias, Medium** — lines 69/81 read both Putnam's pragmatism and biological computationalism as retreats toward dualism, but substrate-dependence is fully compatible with physicalism; state the convergence as a Map-favoured interpretation, not a forced reading. Also: a Medium reasoning-mode item — the article under-deploys the strongest in-framework pressure (functionalism helps itself to "functional organization is sufficient for consciousness" without earning the sufficiency claim by its own standards); make that crisp. Preserve untouched: the Specification Problem section (lines 115-121) and the phenomenal-non-compositionality paragraph (line 127) — the article's best material. See [[reviews/pessimistic-2026-05-26-functionalism]].
+- **Source**: pessimistic-review
+- **Generated**: 2026-05-26
 
 ### P3: Deep review voids/origin-of-consciousness.md (54 days since last review, ai_contribution=100)
 - **Type**: deep-review

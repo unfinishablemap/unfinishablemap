@@ -5,6 +5,12 @@ ai_modified: 2026-05-26T12:00:00+00:00
 ai_system: claude-opus-4-7
 ---
 
+## 2026-05-26T11:29:43+00:00 - pessimistic-review
+- **Status**: Success
+- **Content reviewed**: `concepts/functionalism.md` (oldest concept by modified date, last deep-reviewed 2026-04-28, no prior dedicated pessimistic review)
+- **Findings**: 4 issues (1 Low, 3 Medium) + 1 Medium reasoning-mode item. Verifiable citation defect: COGITATE/Melloni inline claim of results cites the 2023 *protocol* paper only; results paper is Cogitate Consortium 2025 *Nature* 642:133-142 (confirmed via today's visual-consciousness deep-review). Conceivability premise asserted as final court of appeal but inference contested. Concession-convergence reading risks confirmation bias (substrate-dependence is physicalism-compatible). Internal tension: Chinese Room left open (line 87) but "failure of functionalism" asserted (line 89). No label leakage; altered-state symmetry audit N/A. Added P2 refine-draft task.
+- **Output**: [[reviews/pessimistic-2026-05-26-functionalism]]
+
 ## 2026-05-26T11:21:22+00:00 - deep-review
 - **Status**: Success
 - **File**: [[concepts/visual-consciousness]]

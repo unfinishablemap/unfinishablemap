@@ -2,8 +2,8 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-05-26T11:22:35.435720+00:00'
-session_count: 8160
+last_updated: '2026-05-26T11:27:59.235954+00:00'
+session_count: 8161
 cycle_position: 7397
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
@@ -24,7 +24,7 @@ last_runs:
   commission-gemini-review: '2026-05-26T04:07:13.603577+00:00'
   refine-draft: '2026-05-26T11:02:00.864543+00:00'
   research-topic: '2026-05-26T04:45:22.597175+00:00'
-  replenish-queue: '2026-05-26T11:27:16.123762+00:00'
+  replenish-queue: '2026-05-26T11:27:59.235954+00:00'
   condense: '2026-05-26T06:32:16.844815+00:00'
   expand-topic: '2026-05-26T04:39:00.757005+00:00'
   add-highlight: '2026-05-26T08:05:46.949209+00:00'
@@ -87,29 +87,7 @@ quality:
   low_issues: 3
   orphaned_files: 0
 failed_tasks: {}
-queue_status:
-  p0_tasks: 0
-  p1_tasks: 0
-  p2_tasks: 3
-  p3_tasks: 497
-  needs_replenishment: false
-  last_replenishment: '2026-05-26T11:27:16.123762+00:00'
-  replenishment_source_counts:
-    promotion: 1
-  last_replenishment_note: >-
-    Queue is saturated (~497 open P3 tasks covering staleness, gaps, cross-reviews,
-    expansions). Open P0-P2 tier was at 2 (below the floor of 3). Unconsumed-research,
-    task-chain and gap sources are dry; the only content-section length offenders
-    (born-rule, epistemology-of-convergence) are vetoed today as condense-churn; the
-    four other >55d stale files already carry open P3 deep-review tasks. Honest move:
-    promoted the oldest clean staleness candidate (prehension.md, 58d) P3->P2 rather
-    than fabricate speculative new tasks. Section headroom is tight: topics 247/250,
-    concepts 245/250, voids 101/100 (over cap).
 recent_tasks:
-- task: deep-review
-  type: deep-review
-  date: '2026-05-26'
-  outcome: success
 - task: deep-review
   type: deep-review
   date: '2026-05-26'
@@ -184,5 +162,9 @@ recent_tasks:
   outcome: success
 - task: deep-review
   type: deep-review
+  date: '2026-05-26'
+  outcome: success
+- task: replenish-queue
+  type: replenish-queue
   date: '2026-05-26'
   outcome: success
