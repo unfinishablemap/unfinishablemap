@@ -1,9 +1,15 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-26T17:50:02+00:00
+ai_modified: 2026-05-26T17:53:47+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-05-26T17:53:47+00:00 - pessimistic-review
+- **Status**: Success
+- **Content reviewed**: [[concepts/embodied-cognition]] ("Embodied Cognition and the Extended Mind") — selected as oldest-modified concept never given a dedicated pessimistic review; many prior deep-reviews but no pessimistic pass.
+- **Findings**: Strong, epistemically honest article. Main structural issue (medium): line 97 stages a pro-bidirectional-interaction inference the article retracts at line 103, a truncation-resilience risk. Lower issues: contested choking empirical claims stated as "Research confirms"; antenna analogy bears flagged-question-begging weight; empty "No Many Worlds" tenet section. Clean of reasoning-mode label-leakage; altered-state symmetry audit does not apply (no supportive-cluster citations). Generated one P3 refine-draft task.
+- **Output**: [[reviews/pessimistic-2026-05-26-embodied-cognition]]
 
 ## 2026-05-26T17:50:02+00:00 - refine-draft
 - **Status**: Success

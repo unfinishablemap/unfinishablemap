@@ -7146,6 +7146,13 @@ Pessimistic review (2026-02-16) found inconsistent treatment of decoherence acro
 - **Generated**: 2026-05-25
 - **Promoted**: 2026-05-19 (P3 → P2 by /replenish-queue)
 
+### P3: Fix choking-section structure and soften empirical claims in embodied-cognition.md
+- **Type**: refine-draft
+- **Status**: pending
+- **Notes**: Pessimistic review (2026-05-26) found four issues in [[concepts/embodied-cognition]], all non-critical. (1) MEDIUM / truncation-resilience — line 97 stages the inference "If consciousness were epiphenomenal... step 2 couldn't follow from step 1" as if it goes through, but line 103 concedes the choking data "does not provide evidence *for* [bidirectional interaction] over the standard physicalist account." A truncating LLM reader gets the over-claim without the retraction. Reframe line 97 to lead with the qualification ("It is tempting to read this as evidence against epiphenomenalism, but the inference does not survive scrutiny:") so structure matches conclusion. (2) LOW — soften the choking empirical bullets (lines 90-94): "Research confirms:" → "Research has found:"; attribute "skills learned without explicit awareness are protected" to Masters (1992) reinvestment line; hedge the contested "highly skilled choke more" and "dual-task can improve performance" claims with "some studies find." (3) LOW — the "No Many Worlds" tenet section (line 191) is a placeholder that outsources entirely to [[mental-effort]]; either state honestly that embodiment is orthogonal to the MWI question or trim. (4) LOW — soften "sit comfortably within a dualist framework" (L103, L137) to "is consistent with"; the fit relies on the antenna analogy the article itself flags as question-begging. PRESERVE the choking section's self-correction (line 103), the falsificationist "What Would Challenge This View?" section, and the Nāgārjuna/antenna open-question honesty. Article is clean of label-leakage and does NOT trigger the altered-state symmetry audit. See [[reviews/pessimistic-2026-05-26-embodied-cognition]].
+- **Source**: pessimistic-review (2026-05-26)
+- **Generated**: 2026-05-26
+
 ### P3: Apex synthesis — "The link is real, lawful, and opaque"
 - **Type**: apex-evolve
 - **Status**: pending
