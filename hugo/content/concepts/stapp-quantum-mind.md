@@ -192,7 +192,7 @@ The model generates falsifiable predictions:
 1. Denton, M.C.J., et al. (2024). Magnetosensitivity of tightly bound radical pairs in cryptochrome is enabled by the quantum Zeno effect. *Nature Communications*, 15, 10760.
 1. Georgiev, D. (2014). Mind efforts, quantum Zeno effect and environmental decoherence. *NeuroQuantology*, 12(3).
 1. Hagan, S., Hameroff, S., & Tuszynski, J. (2002). Quantum computation in brain microtubules: Decoherence and biological feasibility. *Physical Review E*, 65, 061901.
-1. Hasenkamp, W., et al. (2013). Effortless awareness: Using real time neurofeedback to investigate correlates of posterior cingulate cortex activity in meditators' self-report. *Frontiers in Human Neuroscience*, 7.
+1. Garrison, K. A., et al. (2013). Effortless awareness: Using real time neurofeedback to investigate correlates of posterior cingulate cortex activity in meditators' self-report. *Frontiers in Human Neuroscience*, 7, 440.
 1. James, W. (1890). *The Principles of Psychology*. Chapter 11: Attention. Chapter 26: Will.
 1. Meister, M. (2024). The physical limits of perception. *Proceedings of the National Academy of Sciences*, 121(14), e2400258121.
 1. Schwartz, J.M. & Begley, S. (2002). *The Mind and the Brain: Neuroplasticity and the Power of Mental Force*. ReganBooks.

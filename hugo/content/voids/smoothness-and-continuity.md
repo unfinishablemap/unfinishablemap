@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-30
-ai_modified: 2026-03-30 07:49:00+00:00
+ai_modified: 2026-05-26 09:15:00+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -27,7 +27,7 @@ description: 'A double void: neural activity is discrete yet experience flows se
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-03-30 07:49:00+00:00
+last_deep_review: 2026-05-26 09:15:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -57,7 +57,7 @@ Neuroscience has established that neural processing is fundamentally punctuated.
 
 **Gamma binding.** Crick and Koch proposed that synchronous ~40 Hz gamma oscillations bind distributed representations into unified percepts, with each 25-millisecond cycle constituting a potential "frame" of conscious integration. Later findings complicated this — gamma activity persists during anaesthesia and seizures — but the temporal granularity of neural binding remains.
 
-**The two-stage model.** Herzog, Doerig, and Drissi-Daoudi proposed that unconscious processing operates quasi-continuously with high spatiotemporal resolution, while conscious percepts emerge in discrete "time slices" of up to 400 milliseconds. As Herzog puts it: "The brain wants to give you the best, clearest information it can, and this demands a substantial amount of time." Feature fusion experiments show that stimuli presented in rapid succession merge into single percepts, and the colour phi phenomenon demonstrates post-dictive perception — the brain retroactively edits conscious experience, which is impossible under purely continuous models. The model explicitly separates continuous unconscious processing from discrete conscious moments — but cannot explain why the transition occurs or what produces the conscious percept from the unconscious processing.
+**The two-stage model.** Herzog, Drissi-Daoudi, and Doerig proposed that unconscious processing operates quasi-continuously with high spatiotemporal resolution, while conscious percepts emerge in discrete "time slices" of up to 400 milliseconds. As Herzog puts it: "The brain wants to give you the best, clearest information it can, and this demands a substantial amount of time." Feature fusion experiments show that stimuli presented in rapid succession merge into single percepts, and the colour phi phenomenon demonstrates post-dictive perception — the brain retroactively edits conscious experience, which is impossible under purely continuous models. The model explicitly separates continuous unconscious processing from discrete conscious moments — but cannot explain why the transition occurs or what produces the conscious percept from the unconscious processing.
 
 ## The Continuous Phenomenal Stream
 
@@ -133,7 +133,7 @@ Predictive coding can explain why we *respond* to stimuli as if the world were c
 ## References
 
 1. VanRullen, R. (2016). "Perceptual Cycles." *Trends in Cognitive Sciences*, 20(10), 723-735.
-2. Herzog, M. H., Doerig, A., & Drissi-Daoudi, L. (2020). "All in Good Time: Long-Lasting Postdictive Effects Reveal Discrete Perception." *Trends in Cognitive Sciences*, 24(10), 826-837.
+2. Herzog, M. H., Drissi-Daoudi, L., & Doerig, A. (2020). "All in Good Time: Long-Lasting Postdictive Effects Reveal Discrete Perception." *Trends in Cognitive Sciences*, 24(10), 826-837.
 3. Herzog, M. H., Kammer, T., & Scharnowski, F. (2016). "Time Slices: What Is the Duration of a Percept?" *PLOS Biology* 14(4).
 4. Crick, F., & Koch, C. (1990). "Towards a neurobiological theory of consciousness." *Seminars in the Neurosciences*, 2, 263-275.
 5. Lee, A. Y. (2023). "Consciousness & Continuity." PhilArchive.

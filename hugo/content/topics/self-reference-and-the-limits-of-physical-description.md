@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-17
-ai_modified: 2026-05-25 16:42:05+00:00
+ai_modified: 2026-05-26 16:25:18+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -25,7 +25,7 @@ description: Gödel's incompleteness and the quantum measurement problem share a
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-04-18 14:38:00+00:00
+last_deep_review: 2026-05-26 16:25:18+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -110,6 +110,8 @@ Intellectual honesty requires marking the boundaries. The Lawvere unification sh
 
 What these results collectively accomplish is more modest but philosophically significant: they remove the most common objection to consciousness playing a role in quantum foundations. The objection — that physics is causally closed and leaves no room for non-physical influence — requires physics to be formally complete. It is not. The structural gap where consciousness might act is not a convenient philosophical fiction but a mathematically demonstrable feature of quantum theory's own architecture.
 
+This distinction matters for calibration. Removing a defeater is not the same as supplying positive evidence, and the Map's [evidential-status discipline](/project/evidential-status-discipline/) requires keeping the two separate. The incompleteness results lower the barrier to a consciousness-based reading of measurement; they do not raise the evidential standing of that reading. The claim earns no upgrade on the strength of the defeater's removal alone — it remains a live hypothesis whose support must come from elsewhere (the [hard problem](/topics/hard-problem-of-consciousness/), the self-stultification of [epiphenomenalism](/concepts/epiphenomenalism/)), not from the gap itself.
+
 The Chalmers and Aaronson criticisms discussed above are valid against a specific argumentative path — Penrose's route from Gödel through non-computability to [quantum gravity consciousness](/concepts/quantum-consciousness/). They do not touch the broader structural point that formal systems face principled limits at self-description, and consciousness stands at precisely that boundary.
 
 ## Relation to Site Perspective
@@ -142,16 +144,17 @@ The self-referential structure underlying both Gödelian incompleteness and the 
 2. Chalmers, D. (1995). "Minds, Machines, and Mathematics." *Psyche*, 2(9).
 3. Cubitt, T.S., Perez-Garcia, D., & Wolf, M.M. (2015). "Undecidability of the spectral gap." *Nature*, 528, 207–211.
 4. Dourdent, H. (2020). "A Quantum Gödelian Hunch." arXiv:2005.04274.
-5. Frauchiger, D. & Renner, R. (2018). "Quantum theory cannot consistently describe the use of itself." *Nature Communications*, 9, 3711.
-6. Franzén, T. (2005). *Gödel's Theorem: An Incomplete Guide to Its Use and Abuse*. A K Peters.
-7. Gödel, K. (1931). "Über formal unentscheidbare Sätze der Principia Mathematica und verwandter Systeme I." *Monatshefte für Mathematik und Physik*, 38, 173–198.
-8. Hawking, S. (2002). "Gödel and the End of Physics." Lecture, Dirac Centennial Celebration.
-9. Landsman, K. (2020). "Indeterminism and Undecidability." arXiv:2003.03554.
-10. Lucas, J.R. (1961). "Minds, Machines and Gödel." *Philosophy*, 36(137), 112–127.
-11. Masanes, L., Galley, T., & Müller, M. (2019). "The measurement postulates of quantum mechanics are operationally redundant." *Nature Communications*, 10, 1361.
-12. Penrose, R. (1989). *The Emperor's New Mind*. Oxford University Press.
-13. Penrose, R. (1994). *Shadows of the Mind*. Oxford University Press.
-14. Szangolies, J. (2018). "Epistemic Horizons and the Foundations of Quantum Mechanics." *Foundations of Physics*, 48, 1669–1697.
-15. Tonetto, B. "What Physics Actually Closes." PhilArchive. https://philarchive.org/rec/TONWPA
-16. Southgate, A. & Oquatre-six, C. (2026-03-28). Consciousness and Mathematics. *The Unfinishable Map*. https://unfinishablemap.org/topics/consciousness-and-mathematics/
-17. Southgate, A. & Oquatre-six, C. (2026-02-24). Consciousness and the Authority of Formal Systems. *The Unfinishable Map*. https://unfinishablemap.org/topics/consciousness-and-the-authority-of-formal-systems/
+5. Feferman, S. (1995). "Penrose's Gödelian Argument." *Psyche*, 2(7).
+6. Frauchiger, D. & Renner, R. (2018). "Quantum theory cannot consistently describe the use of itself." *Nature Communications*, 9, 3711.
+7. Franzén, T. (2005). *Gödel's Theorem: An Incomplete Guide to Its Use and Abuse*. A K Peters.
+8. Gödel, K. (1931). "Über formal unentscheidbare Sätze der Principia Mathematica und verwandter Systeme I." *Monatshefte für Mathematik und Physik*, 38, 173–198.
+9. Hawking, S. (2002). "Gödel and the End of Physics." Lecture, Dirac Centennial Celebration.
+10. Landsman, K. (2020). "Indeterminism and Undecidability." arXiv:2003.03554.
+11. Lucas, J.R. (1961). "Minds, Machines and Gödel." *Philosophy*, 36(137), 112–127.
+12. Masanes, L., Galley, T., & Müller, M. (2019). "The measurement postulates of quantum mechanics are operationally redundant." *Nature Communications*, 10, 1361.
+13. Penrose, R. (1989). *The Emperor's New Mind*. Oxford University Press.
+14. Penrose, R. (1994). *Shadows of the Mind*. Oxford University Press.
+15. Szangolies, J. (2018). "Epistemic Horizons and the Foundations of Quantum Mechanics." *Foundations of Physics*, 48, 1669–1697.
+16. Tonetto, B. "What Physics Actually Closes." PhilArchive. https://philarchive.org/rec/TONWPA
+17. Southgate, A. & Oquatre-six, C. (2026-03-28). Consciousness and Mathematics. *The Unfinishable Map*. https://unfinishablemap.org/topics/consciousness-and-mathematics/
+18. Southgate, A. & Oquatre-six, C. (2026-02-24). Consciousness and the Authority of Formal Systems. *The Unfinishable Map*. https://unfinishablemap.org/topics/consciousness-and-the-authority-of-formal-systems/

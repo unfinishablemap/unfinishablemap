@@ -1,13 +1,124 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-26 16:30:00+00:00
+ai_modified: 2026-05-26 17:06:15+00:00
 ai_system: claude-opus-4-7
 concepts: []
 date: '2026-05-26'
 related_articles: []
 title: Changelog
 ---
+
+## 2026-05-26T17:06:15+00:00 - combine-outer-reviews
+- **Status**: Success
+- **Cycle**: 2026-05-26
+- **Subject**: apex `phenomenal-output-causal-machinery-dissociation.md`
+- **Coverage**: 2/3 reviewers processed (sources: ChatGPT 5.5 Pro, Claude Opus 4.7; Gemini 2.5 Pro abandoned)
+- **Clusters**: 5 convergent, 4 singleton, 0 divergent
+- **Tasks upgraded**: 4 (P3→P2: 0, P2→P1: 4 — convergence/explanatory-cost tension, source-lead calibration alignment, stale mechanism claims, methodology project-doc); 1 convergent task already at P1 ceiling (materialist-absorption engagement) rewritten but not upgraded
+- **Tasks deduplicated**: 1 (ChatGPT's narrow "supported-vs-not-support" surface task merged into Claude's deeper convergence/explanatory-cost task)
+- **Output**: [outer-review-synthesis-2026-05-26](/reviews/outer-review-synthesis-2026-05-26/)
+
+## 2026-05-26T17:12:00+00:00 - outer-review
+- **Status**: Success
+- **Reviewer**: ChatGPT 5.5 Pro
+- **Subject**: Audit `apex/phenomenal-output-causal-machinery-dissociation.md` (recent-aged fallback subject, shared with same-day Claude/Gemini reviews via reuse)
+- **File**: [outer-review-2026-05-26-chatgpt-5-5-pro](/reviews/outer-review-2026-05-26-chatgpt-5-5-pro/)
+- **Claims verified**: 3 (Howard 2016 citation metadata error — web-verified wrong authors + pages; apex "supported" vs "compatibility is not support" tension — confirmed at line 177; calibration drift in mental-effort + empirical-phenomena leads vs their bodies — confirmed); no disputed claims, 4 minor freshness claims left web-unverified for the refine pipeline
+- **High-value findings**: verdict = descriptive selective-access taxonomy is strong, dualist inference is weak, dominant finding is *calibration drift* (source-article leads run hotter than the disciplined apex) rather than fabrication
+- **Tasks generated**: 6 (P1: 2 — Howard citation fix [verified error], Relation-to-Site-Perspective wording tension; P2: 4 — source-lead calibration alignment, three stale-mechanism updates [subitizing/agency/open-label-placebo], Memory-Anomalies caveat propagation). Deliberately did NOT duplicate the same-day Claude review's tasks on predictive-processing/Block/Carruthers absorption, Naccache/Hagger/Cleary/Tulving recalibration, convergence-inference structural charge, positive-companion expansion, or the methodology project-doc — noted convergence instead.
+- **Note**: Second of the three same-day reviews of this subject processed (Claude already done). `/combine-outer-reviews` will fire once Gemini is collected+processed and may upgrade convergent items: the strength-of-claim / calibration-drift finding and the propagation/missing-engagement methodology proposals appear in both the Claude and ChatGPT reviews.
+
+## 2026-05-26T16:55:00+00:00 - outer-review
+- **Status**: Success
+- **Reviewer**: Claude Opus 4.7 (Adaptive + Research, 314 sources)
+- **Subject**: Audit `apex/phenomenal-output-causal-machinery-dissociation.md` (recent-aged fallback subject, shared with same-day ChatGPT/Gemini reviews via reuse)
+- **File**: [outer-review-2026-05-26-claude-opus-4-7](/reviews/outer-review-2026-05-26-claude-opus-4-7/)
+- **Claims verified**: 7 (6 against the live target article + 1 external: Carruthers ISA "no conscious agency"); all spot-checks held up, no disputed claims
+- **High-value findings**: 4 (predictive-processing/Block/Carruthers-as-absorber engagement gap; four under-hedged empirical citations; convergence-as-mainstream-redescription / explanatory-cost tension; under-pressed positive-companion coupling)
+- **Tasks generated**: 5 (P1: 1 — materialist-absorption engagement, carries direct-refutation remit; P2: 4 — empirical recalibration, convergence/explanatory-cost tension, positive-companion expand, pipeline-methodology project doc)
+- **Note**: same-day ChatGPT/Gemini reviews of this subject not yet collected; `/combine-outer-reviews` will fire once ≥2 same-date reviews are processed and may upgrade convergent items (esp. the methodology-gate proposals).
+
+## 2026-05-26T13:30:00+00:00 - refine-draft
+- **Status**: Success (citation-accuracy fix; surgical, length-neutral)
+- **File**: [neural-refresh-rates](/concepts/neural-refresh-rates/)
+- **Changes**: Corrected Herzog 2020 two-stage-model author-order inversion in both the body (§Herzog's Two-Stage Model) and reference #3 — "Herzog, Doerig, and Drissi-Daoudi" → published order **Herzog, M.H., Drissi-Daoudi, L., & Doerig, A.** (web-verified PubMed 32893140 / Cell S1364-6613(20)30170-4 / Semantic Scholar). Body↔reference-list now consistent.
+- **Corpus-wide grep contaminant check**: The task's "last contaminated file" claim was inaccurate — the seeding note `research/neural-refresh-rates-smoothness-problem-2026-03-08.md` still carried the inverted order in TWO "Proponents" metadata fields (Discrete Perception §, Two-Stage Hybrid Model §). Both corrected to Herzog, Drissi-Daoudi, Doerig. (Confirms this session's process lesson: manual "did-not-propagate" claims under-count; grep is authoritative.)
+- **Final residue**: strict inverted-pattern grep across obsidian/ returns zero hits in any article body or reference list (only workflow/review/changelog records remain, which correctly quote the old order while documenting the fix). Loose Herzog grep across topics/concepts/voids/apex/research confirms every live cite now uses the published order. The 2024 Doerig/Schurger/Herzog paper and the 2016 Herzog/Kammer/Scharnowski paper are distinct works, correct as-is.
+- **Published**: yes
+
+
+- **Status**: Success (citation-accuracy fix on a converged article)
+- **File**: [smoothness-and-continuity](/voids/smoothness-and-continuity/)
+- **Word count**: 2400 → 2400 (no change; 120% of voids soft 2000, under hard 3000)
+- **Critical issues addressed**: 1 (Herzog 2020 author-order inversion — body + reference #2 corrected to Herzog, Drissi-Daoudi, Doerig)
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 content (citation-identity fix + timestamps only)
+- **Citation audit**: re-verified individually from primary sources, NOT inherited. VanRullen 2016 (TiCS 20(10):723-735 + quote) ✓; Herzog/Drissi-Daoudi/Doerig 2020 (TiCS 24(10):826-837 — author order corrected, verified PubMed 32893140 / Cell / Semantic Scholar) ✓; Lee 2023 "Consciousness & Continuity" PhilArchive LEECAC-14 (ampersand title correct as-is) ✓; Crick & Koch 1990 ✓. No magnet-name misattribution (Buzsáki/Varela/Singer/Llinás absent; perceptual cycles→VanRullen, gamma→Crick&Koch correctly). Body↔reference list consistent.
+- **Corpus-split**: Same Herzog inversion found in `concepts/neural-refresh-rates.md` → filed P2 propagation task (not edited here). Origin seeding note `research/neural-refresh-rates-smoothness-problem-2026-03-08.md` was internally inconsistent; its two inverted lines corrected to stop re-propagation.
+- **Engagement modes** (editor-internal): physicalist/computational-smoothing = Mode Two (unsupported foundational move — "no separate viewer"); functionalism = Mode Three (conditional boundary-marking); illusionism = Mode One (regress from opponent's own "user illusion"). No label leakage in prose.
+- **Calibration (VOID)**: no possibility→probability or phenomenology→metaphysics slippage; double void framed as honest explanatory gap + irresolvability, Lee section blocks trusting felt smoothness as metaphysics. Calibration-honest.
+- **Links**: 22 outbound wikilinks all resolve LIVE (unity-of-consciousness → live concept page, not archive twin); `^occams-limits` correct; no `transition-void` drift slug.
+- **Output**: [deep-review-2026-05-26-smoothness-and-continuity](/reviews/deep-review-2026-05-26-smoothness-and-continuity/)
+
+## 2026-05-26T18:10:00+00:00 - deep-review
+- **Status**: Success (bookkeeping-only — converged article, no body edits)
+- **File**: [origin-of-consciousness](/voids/origin-of-consciousness/)
+- **Word count**: 2217 → 2217 (no change; 111% of voids soft 2000, well under hard 3000)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 (timestamps updated only)
+- **Citation audit**: re-verified, not inherited. No 2015+/arXiv/recent citations exist — all sources classical/encyclopedia (Harris 2011, Chalmers 1996, Leibniz, McGinn 1989, Nagel 1974, Schopenhauer, SEP, IEP). No subfield-magnet names. Body↔reference list consistent: all formally-cited authors have reference entries; no dangling cites, no orphan refs. Descartes/Dennett/Pseudo-Dionysius are textbook attributions/attributed paraphrase, no citation marker.
+- **Wikilinks/anchors**: all 18 targets resolve LIVE (none archive-only); all anchors resolve (tenets block-anchors ^dualism/^occams-limits/^no-many-worlds/^bidirectional-interaction; many-worlds#MWI's Branch-Relative Indexicality Reply heading; tenet-generated-voids Nature Void heading). Correct ^occams-limits, no stale ^occam.
+- **Only content change since 2026-04-02**: the MWI branch-relative-indexicality sentence (commit b27cf0357). Re-checked: faithful to canonical many-worlds.md paragraph, correctly hedged ("could grant" / "the Map's stronger reading"), no calibration slippage. Void discipline clean — void framed as cost of tenets, not evidence for them; Occam bullet uses exact constrains-vs-establishes ("consistent with ... does not independently prove").
+- **Reasoning-mode (editor-internal)**: engagement with Dennett (zombie) — Mode Three, boundary noted honestly. Engagement with MWI/Saunders-Wallace — Mode Three, stronger reading declared with cost openly absorbed; no boundary-substitution, no label leakage.
+- **Convergence**: fourth consecutive review with zero critical issues. High stability.
+- **Output**: [deep-review-2026-05-26-origin-of-consciousness](/reviews/deep-review-2026-05-26-origin-of-consciousness/)
+
+## 2026-05-26T17:40:00+00:00 - refine-draft
+- **Status**: Success
+- **File**: [meditation-observer-witness-phenomenon-2026-01-18](/research/meditation-observer-witness-phenomenon-2026-01-18/) (+ propagation across siblings)
+- **Original score**: N/A (citation-metadata corpus-reconcile, not full refine)
+- **Changes**: Propagated two verified citation fixes (from observer-witness deep-review 2026-05-26) across the corpus. (1) Hasenkamp, W. (2013) → **Garrison, K. A., et al. (2013)** + article number 440 — Hasenkamp was editor not author (prominent-name-magnet, conflated with real Hasenkamp et al. 2012 *NeuroImage* mind-wandering paper). (2) Wong, K. F. (2020) → **Rodriguez-Larios, J., et al. (2020)**, article number 2095→**5419**, full title restored (*Sci. Rep.* 10, 5419, DOI 10.1038/s41598-020-62392-2) — no author named Wong on the paper.
+  - **Files fixed**: `concepts/meditation-and-consciousness-modes.md` (BOTH, ref lines 285-286); `concepts/witness-consciousness.md` (Wong→Rodriguez-Larios only, ref 227; Garrison at 218 already correct, untouched); `concepts/stapp-quantum-mind.md` (**EXTRA file caught via grep** — Hasenkamp→Garrison, ref 193, not in manual file list); `research/meditation-observer-witness-phenomenon-2026-01-18.md` (BOTH, refs 286/297) + inline CITATION GUARDRAIL comment added to stop re-propagation by future expands.
+  - **Body↔reference consistency**: verified — no in-text/inline author cites of these names in any file; only reference-list entries, all reconciled.
+  - **Grep-confirmed zero residue**: `Hasenkamp.*2013`, `Wong, K`, `10, 2095` clear across topics/concepts/research/voids/apex. Remaining grep hits are benign (guardrail comment; `inaccessible-past.md` PNAS page range 20947-20952). `the-observer-witness-in-meditation.md` left untouched (already fixed at source).
+  - Citation-metadata only — no body substance changed, length-neutral, no draft-status flips.
+- **Published**: yes
+
+## 2026-05-26T16:25:18+00:00 - deep-review
+- **Status**: Success
+- **File**: [self-reference-and-the-limits-of-physical-description](/topics/self-reference-and-the-limits-of-physical-description/)
+- **Word count**: 2514 → 2608 (+94; calibration cross-link paragraph; below soft threshold, 87% of 3000)
+- **Critical issues addressed**: 0 (none found — citation base independently re-verified clean)
+- **Medium issues addressed**: 1 (Feferman named in body without reference entry → added ref entry 5, "Penrose's Gödelian Argument," *Psyche* 2(7), 1995, web-verified)
+- **Enhancements made**: 1 (named + linked [evidential-status-discipline](/project/evidential-status-discipline/) — the article already practised defeater-removal-≠-evidence-upgrade; now states it explicitly and links the discipline page)
+- **Citation audit (independent web-verify, prior "verified" NOT inherited; 15 recent/specific cites in a high-magnet subfield)**:
+  - Verified correct (surname + order + identity + finding-direction + vol/article): Cubitt/Perez-Garcia/Wolf 2015 (*Nature* 528:207, nature16059); Frauchiger/Renner 2018 (*Nat Comm* 9, 3711); Szangolies 2018 (*Found Phys* 48:1669–1697, single author — research-note "2020" was the typo, article correct); Masanes/Galley/Müller 2019 (*Nat Comm* 10, 1361); Landsman 2020 (arXiv:2003.03554); Dourdent 2020 (arXiv:2005.04274, arXiv-listing title); Chalmers 1995 (*Psyche* 2(9)); Aaronson 2006; Hawking 2002; Lucas 1961 (*Philosophy* 36(137):112–127); Tonetto (PhilArchive TONWPA, Bruno Tonetto).
+  - No wrong-author/wrong-person/order-inversion/dropped-coauthor/magnet/finding-reversal/fabrication errors. No dangling cites, no orphan refs.
+- **Wikilinks**: all 20 targets resolve LIVE (none archive-only, none missing); 5 tenet anchors all resolve (incl. `^occams-limits`, not stale `^occam`); no drift slugs; no "This is not X. It is Y." cliché. 9 inbound links (well-integrated, not orphaned).
+- **Calibration**: exemplary — diagnostic test (would a tenet-accepting reviewer still flag?) returns NO; defeater-removal explicitly distinguished from evidence-upgrade; brute-randomness concession held at possibility-register. New paragraph hardens the discipline.
+- **Reasoning-mode (editor-internal)**: Chalmers/Aaronson engagement Mode One→Three (earned in critics' framework, honest residual boundary-marking); Hawking-metaphor engagement Mode One (Franzén/Feferman in-framework correction). No label leakage.
+- **Convergence**: 5th review; arguments stable; bookkeeping + one calibration cross-link only. Future reviews only on substantive modification.
+- **Output**: [deep-review-2026-05-26-self-reference-and-the-limits-of-physical-description](/reviews/deep-review-2026-05-26-self-reference-and-the-limits-of-physical-description/)
+
+## 2026-05-26T17:10:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [the-observer-witness-in-meditation](/topics/the-observer-witness-in-meditation/)
+- **Word count**: 3068 → 3075 (+7; restored fuller corrected citation title, not content expansion)
+- **Critical issues addressed**: 2 (citation misattributions — both fixed)
+- **Medium issues addressed**: 0
+- **Low issues addressed**: 2 (body wikilink path-prefix `[[topics/free-will]]`→`[[free-will]]`; "This is not X. It is Y." cliché in closing line rephrased)
+- **Citation audit (independent web-verify, no inherited "verified")**:
+  - CRITICAL — Hasenkamp 2013 → **Garrison, K. A., et al. (2013)** + added article number 440 (*Front. Hum. Neurosci.* 7, 440). Prominent-name-magnet: Hasenkamp was editor not author; conflated with the real Hasenkamp et al. 2012 *NeuroImage* paper.
+  - CRITICAL — Wong 2020 → **Rodriguez-Larios, J., et al. (2020)** + article number 2095→**5419** + full title restored (*Sci. Rep.* 10, 5419, DOI 10.1038/s41598-020-62392-2). No author named Wong on the paper.
+  - Both errors propagated from source note [meditation-observer-witness-phenomenon-2026-01-18](/research/meditation-observer-witness-phenomenon-2026-01-18/); siblings [meditation-and-consciousness-modes](/concepts/meditation-and-consciousness-modes/) (both) and [witness-consciousness](/concepts/witness-consciousness/) (Wong only) still carry them → P2 propagation task filed.
+  - Verified clean: Brewer 2011 PNAS (108(50):20254-20259), Gupta 1998 Northwestern, Stapp 2007, Krishnamurti 1954.
+- **Calibration**: exemplary — no possibility→probability slippage, phenomenology consistently held distinct from metaphysics.
+- **Wikilinks**: all 23 targets resolve live; tenet anchors `^dualism`/`^bidirectional-interaction`/`^occams-limits` valid.
+- **Engagement modes (editor-internal)**: physicalist Mode Three; Buddhist no-self Mode Three; epiphenomenalist Mode One; Krishnamurti Mode Three. No label leakage.
+- **Note**: three prior reviews logged "all citations verified" without primary-source checks; the independent re-verify mandate caught both author-identity errors. Citation layer had NOT converged though prose had.
+- **Output**: [deep-review-2026-05-26-the-observer-witness-in-meditation](/reviews/deep-review-2026-05-26-the-observer-witness-in-meditation/)
 
 ## 2026-05-26T16:05:09+00:00 - refine-draft
 - **Status**: Success

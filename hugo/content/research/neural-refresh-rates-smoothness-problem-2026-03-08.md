@@ -3,7 +3,7 @@ ai_contribution: 100
 ai_system: claude-opus-4-6
 concepts: []
 created: 2026-03-08
-date: '2026-03-08'
+date: '2026-05-26'
 draft: false
 related_articles: []
 title: Research Notes - Neural Refresh Rates and the Smoothness Problem
@@ -103,7 +103,7 @@ Neural activity is discrete and oscillatory—brainwaves cycle at measurable fre
 ## Major Positions
 
 ### Discrete Perception (Perceptual Frames)
-- **Proponents**: VanRullen, Herzog, Doerig, Drissi-Daoudi
+- **Proponents**: VanRullen, Herzog, Drissi-Daoudi, Doerig
 - **Core claim**: Conscious perception operates in discrete episodes or "time slices," analogous to frames in a film. Neural oscillations (alpha ~10 Hz, theta ~4–8 Hz) create periodic sampling windows.
 - **Key arguments**: Flash-lag effect, attentional blink, temporal order reversals, wagon-wheel illusion under continuous illumination all suggest discrete sampling rather than continuous monitoring.
 - **Relation to site tenets**: Compatible with dualism — discrete neural processing means consciousness receives periodic inputs. The question of who or what assembles these into smooth experience remains open. If physical mechanisms alone cannot explain the smoothness, a non-physical contribution is needed.
@@ -121,7 +121,7 @@ Neural activity is discrete and oscillatory—brainwaves cycle at measurable fre
 - **Relation to site tenets**: Conflicts with dualism in its strong form (gamma synchrony is *sufficient* for consciousness). However, the persistent failures of this programme — gamma during anaesthesia, ongoing debate about whether correlation equals causation — support the dualist position that synchrony is necessary but not sufficient.
 
 ### Two-Stage Hybrid Model
-- **Proponents**: Herzog, Doerig, Drissi-Daoudi
+- **Proponents**: Herzog, Drissi-Daoudi, Doerig
 - **Core claim**: Unconscious processing is continuous and high-resolution; conscious perception is discrete, emerging after substantial (~400 ms) integration periods.
 - **Key arguments**: Resolves contradictions between continuous neural processing data and discrete perceptual phenomena. Explains both the richness of perception (continuous processing) and the temporal granularity of awareness (discrete percepts).
 - **Relation to site tenets**: Highly compatible with dualism. The model explicitly separates unconscious neural processing (physical, continuous) from conscious perception (discrete, emergent). This separation naturally invites the question: what produces the conscious percept from the unconscious processing? The transition from continuous processing to discrete consciousness is the very juncture where a non-physical contribution could operate.
@@ -156,7 +156,7 @@ Neural activity is discrete and oscillatory—brainwaves cycle at measurable fre
 | 2009 | VanRullen & Koch, "Is perception discrete or continuous?" | Framed the modern experimental debate |
 | 2016 | VanRullen, "Perceptual Cycles" | Comprehensive review of oscillatory perceptual sampling |
 | 2016 | Herzog et al., two-stage model | Proposed unconscious-continuous / conscious-discrete hybrid |
-| 2020 | Herzog, Doerig & Drissi-Daoudi, extended two-stage model | Refined the discrete-continuous reconciliation |
+| 2020 | Herzog, Drissi-Daoudi & Doerig, extended two-stage model | Refined the discrete-continuous reconciliation |
 
 ## Potential Article Angles
 
@@ -187,7 +187,7 @@ When writing the article, follow `obsidian/project/writing-style.md` for:
 - Crick, F., & Koch, C. (1990). "Towards a neurobiological theory of consciousness." *Seminars in the Neurosciences*, 2, 263–275.
 - Dainton, B. (2000/2006). *Stream of Consciousness: Unity and Continuity in Conscious Experience*. London: Routledge.
 - Herzog, M.H., Kammer, T., & Scharnowski, F. (2016). "How the brain produces consciousness in 'time slices'." EPFL.
-- Herzog, M.H., Doerig, A., & Drissi-Daoudi, L. (2020). "All in Good Time: Long-Lasting Postdictive Effects Reveal Discrete Perception." *Trends in Cognitive Sciences*, 24(10), 826–837.
+- Herzog, M.H., Drissi-Daoudi, L., & Doerig, A. (2020). "All in Good Time: Long-Lasting Postdictive Effects Reveal Discrete Perception." *Trends in Cognitive Sciences*, 24(10), 826–837.
 - Husserl, E. (1905/1991). *On the Phenomenology of the Consciousness of Internal Time*. J. Brough (trans.). Dordrecht: Kluwer.
 - James, W. (1890). *The Principles of Psychology*. New York: Henry Holt.
 - Locke, J. (1689). *An Essay Concerning Human Understanding*, Book II.

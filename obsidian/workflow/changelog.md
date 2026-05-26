@@ -1,9 +1,28 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-26T17:06:15+00:00
+ai_modified: 2026-05-26T17:29:13+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-05-26T17:29:13+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[apex/phenomenal-output-causal-machinery-dissociation]]
+- **Original score**: review tool unavailable (scripts/curate.py absent; ran scripts/validate.py instead — frontmatter valid, pre-existing length warning 158% of target)
+- **Trigger**: convergent outer reviews 2026-05-26 (2/3: ChatGPT, Claude) — strongest unified materialist rival under-engaged; predictive processing named only in passing, Block/overflow absent, Carruthers miscounted as witness
+- **Changes**:
+  - Added "## The Strongest Materialist Reading" section ({#strong-rival}) assembling the strongest unified rival (predictive-processing introspection — Hohwy 2013, Clark 2016, Sandved-Smith et al. 2021, Schwengerer 2019 — coupled to reality-monitoring access — Lau 2022 PRM, Block 1995, Naccache 2018, Carruthers 2011 ISA), showing it predicts all three sub-features + positive companion, then stating where it is defective on its own terms and where the residue is bedrock.
+  - Reclassified Carruthers from convergent witness to exponent of the strongest absorption (his ISA predicts the signature from materialist premises; "no such thing as conscious agency"). Updated the convergence-count discipline so independent weight rests on the *despite*-class members.
+  - Retired the "not yet pressed" claim at two sites (Independent Traditions section; What the Cluster Establishes section) — replaced with forward pointers to the new section and the narrowed residual claim.
+  - Added 7 references (Block 1995, Clark 2016, Hohwy 2013, Lau 2022, Naccache 2018, Sandved-Smith et al. 2021, Schwengerer 2019); renumbered.
+  - Updated apex_thesis to reflect the unified-rival engagement and Carruthers reassignment.
+- **Engagement classifications** (direct-refutation-discipline; editor-internal, not in article body):
+  - Predictive-processing introspection (Hohwy/Clark/Sandved-Smith/Schwengerer): Mixed. Mode One on two members (choking's content-interference profile and the Naccache 2005 ACC patient — intact operation, absent posterior estimate — are bills the access-only reading owes inside its own framework); Mode Three on the felt-character residue (PP models the access structure but does not derive why the posterior is *felt*).
+  - Lau PRM + Block/Naccache overflow: Mode Two then Mode Three. Identification of "high-precision posterior available for global control" with "felt certainty" is an unearned foundational move (Mode Two); Lau's own admission that PRM answers the consciousness question and not the felt-character question makes the residue an honest framework-boundary disagreement (Mode Three), not an in-framework refutation.
+  - Carruthers ISA: not a reply mode — reclassification only. Counted as materialist absorption (his model predicts the signature), removed from the independent-triangulation column.
+- **Citations web-verified**: Sandved-Smith et al. 2021 niab018 (Neuroscience of Consciousness; meta-awareness/attentional control via deep parametric active inference); Schwengerer 2019 (Rev. Phil. Psych. 10(3):563–585; PP transparency account of self-knowledge); Block 1995 + Naccache 2018 overflow debate; Carruthers 2011 ISA "no such thing as conscious agency"; Lau 2022 PRM (answers consciousness question, not felt-character question).
+- **Follow-up**: article now 6321 words (158% of 4000 target) — required content added per convergent reviewer remit; candidate for a future /condense pass rather than cutting the just-installed rival engagement.
+- **Published**: yes
 
 ## 2026-05-26T17:06:15+00:00 - combine-outer-reviews
 - **Status**: Success

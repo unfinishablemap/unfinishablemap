@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-05
-ai_modified: 2026-04-05 19:33:00+00:00
+ai_modified: 2026-05-26 12:00:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -21,7 +21,7 @@ description: 'What meditation''s witness state reveals about consciousness: that
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-04-05 19:33:00+00:00
+last_deep_review: 2026-05-26 12:00:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -196,7 +196,7 @@ The observer-witness phenomenon reveals consciousness is not limited to selectio
 
 What millennia of contemplative practice have consistently reported, and what neuroscience now correlates with distinctive brain signatures, is a robust feature of conscious experience: the division between that which witnesses and that which is witnessed. Whether this division reflects a genuine metaphysical distinction or a feature of self-modeling architecture remains debated—but the phenomenology is convergent across traditions and measurable in the brain. The Map interprets this as supporting dualism: consciousness is richer than any single function, neither only selecting nor only observing, but capable of both, and the qualitative character of witnessing resists capture in purely physical terms.
 
-The witness mode is not an escape from consciousness or a dissolution into unconsciousness. It is consciousness at rest, present without project, aware without agenda. This too is what consciousness can be.
+Far from an escape from consciousness or a dissolution into unconsciousness, the witness mode is consciousness at rest—present without project, aware without agenda. This too is what consciousness can be.
 
 ## Further Reading
 
@@ -213,7 +213,7 @@ The witness mode is not an escape from consciousness or a dissolution into uncon
 
 1. Brewer, J. A., et al. (2011). Meditation experience is associated with differences in default mode network activity and connectivity. *PNAS*, 108(50), 20254-20259.
 1. Gupta, B. (1998). *The Disinterested Witness: A Fragment of Advaita Vedanta Phenomenology*. Northwestern University Press.
-1. Hasenkamp, W., et al. (2013). Effortless awareness: Using real time neurofeedback to investigate correlates of posterior cingulate cortex activity in meditators' self-report. *Frontiers in Human Neuroscience*, 7.
+1. Garrison, K. A., et al. (2013). Effortless awareness: Using real time neurofeedback to investigate correlates of posterior cingulate cortex activity in meditators' self-report. *Frontiers in Human Neuroscience*, 7, 440.
 1. Krishnamurti, J. (1954). *The First and Last Freedom*. Harper & Brothers.
 1. Stapp, H. P. (2007). *Mindful Universe: Quantum Mechanics and the Participating Observer*. Springer.
-1. Wong, K. F., et al. (2020). From thoughtless awareness to effortful cognition: alpha-theta cross-frequency dynamics. *Scientific Reports*, 10, 2095.
+1. Rodriguez-Larios, J., et al. (2020). From thoughtless awareness to effortful cognition: alpha-theta cross-frequency dynamics in experienced meditators during meditation, rest and arithmetic. *Scientific Reports*, 10, 5419.

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-18
-ai_modified: 2026-04-25 02:29:00+00:00
+ai_modified: 2026-05-26 00:00:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -226,5 +226,5 @@ What contemplatives discovered through sustained practice, phenomenology articul
 1. Tallis, R. (2024). "The Illusion of Illusionism." *Philosophy Now*.
 1. Treves, I. N., et al. (2024). The Mindful Brain: Neural Correlates of Trait Mindfulness. *Journal of Cognitive Neuroscience*.
 1. Whitehead, A. N. (1929). *Process and Reality*. Macmillan.
-1. Wong, K. F., et al. (2020). From thoughtless awareness to effortful cognition: alpha-theta cross-frequency dynamics. *Scientific Reports*.
+1. Rodriguez-Larios, J., et al. (2020). From thoughtless awareness to effortful cognition: alpha-theta cross-frequency dynamics in experienced meditators during meditation, rest and arithmetic. *Scientific Reports*, 10, 5419.
 1. Zahavi, D. (2005). *Subjectivity and Selfhood: Investigating the First-Person Perspective*. MIT Press.
