@@ -37,9 +37,9 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Deep review topics/motor-control-quantum-zeno.md (50 days since last review, ai_contribution>50, Tenet 2/3 load-bearing)
+### ✓ P2: Deep review topics/motor-control-quantum-zeno.md (50 days since last review, ai_contribution>50, Tenet 2/3 load-bearing)
 - **Type**: deep-review
-- **Status**: pending
+- **Status**: completed 2026-05-26 — fifth review, article STABLE. One medium calibration-consistency fix: added Reimers/McKemmish 2009 contestation of Hagan to match same-cycle refinement of sibling decoherence/mental-causation articles ("gap relocates rather than closes"). Verified (a) empirical claims current and consistent with timing-gap-problem; (b) minimal-interaction framing consistent with selection-only-mind-influence and channel taxonomy; (c) all 18 wikilinks resolve live, tenet anchors correct; (d) length 89% of soft threshold, no cliché. No critical issues, no follow-on needed. Output: [[reviews/deep-review-2026-05-26-motor-control-quantum-zeno]]
 - **Notes**: Staleness check (replenish-queue 2026-05-26). `topics/motor-control-quantum-zeno.md` was last deep-reviewed ~50 days ago and carries `ai_contribution>50`; no live task currently targets it. Promoted to P2 because it is directly tenet-load-bearing for **Tenet 2 (Minimal Quantum Interaction)** and **Tenet 3 (Bidirectional Interaction)** — the quantum-Zeno motor-control mechanism is one of the site's concrete interface proposals, so citation currency and argument soundness matter more here than for peripheral pages. Deep-review should: (a) check the quantum-Zeno and motor-physiology empirical claims against current 2020s literature (flag a literature-drift follow-on if drift detected); (b) verify the minimal-interaction framing stays consistent with [[selection-only-mind-influence]] and the channel-class taxonomy; (c) confirm cross-links resolve and are reciprocated where load-bearing; (d) apply writing-style and length discipline. Apply in-place fixes if minor; generate a refine-draft follow-on if substantive.
 - **Source**: staleness
 - **Generated**: 2026-05-26
