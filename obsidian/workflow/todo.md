@@ -37,6 +37,29 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
+### P2: Adopt explanatory-gap calibration in pragmatisms-path-to-dualism
+- **Type**: refine-draft
+- **Status**: pending
+- **File**: obsidian/topics/pragmatisms-path-to-dualism.md
+- **Notes**: From topic-concept anchoring audit 2026-05-26. The topic article over-claims relative to its anchor concept [[explanatory-gap]]; failed checks: hedge_density, strong_assertions.
+  - hedge density 2.30/kw is below 60% of anchor (9.87/kw)
+  - strong-assertion density 0.99/kw exceeds 1.5× anchor (0.58/kw)
+  - Action: bring the topic's hedge profile in line with the anchor concept's. Preserve the article's voice; this is not a request to weaken the central claim, only to inherit the calibration discipline the anchor concept already uses. See [[project/calibration-audit-triple]] Audit Three for the spec and [[evidential-status-discipline]] for the underlying rule.
+- **Source**: topic-concept-anchoring-audit
+- **Generated**: 2026-05-26
+
+### P2: Adopt mind-brain-separation calibration in targeted-lesion-discriminating-tests-between-production-and-filter-readings-of-the-memory-hierarchy
+- **Type**: refine-draft
+- **Status**: pending
+- **File**: obsidian/topics/targeted-lesion-discriminating-tests-between-production-and-filter-readings-of-the-memory-hierarchy.md
+- **Notes**: From topic-concept anchoring audit 2026-05-26. The topic article over-claims relative to its anchor concept [[mind-brain-separation]]; failed checks: hedge_density, underdetermination_markers.
+  - hedge density 1.81/kw is below 60% of anchor (7.48/kw)
+  - anchor declares underdetermination (1× explicit) but topic has no underdetermination markers
+  - Action: bring the topic's hedge profile in line with the anchor concept's. Preserve the article's voice; this is not a request to weaken the central claim, only to inherit the calibration discipline the anchor concept already uses. See [[project/calibration-audit-triple]] Audit Three for the spec and [[evidential-status-discipline]] for the underlying rule.
+- **Source**: topic-concept-anchoring-audit
+- **Generated**: 2026-05-26
+
+
 ### P3: Give "intrinsic nature" a concept-level treatment (or fold into the existing void article)
 - **Type**: expand-topic
 - **Status**: pending
@@ -586,13 +609,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Status**: pending
 - **Notes**: Suggested by optimistic-2026-04-28b (Medium Priority). The 07:34 UTC temporal-structure-of-understanding fourth-review and the 09:09 UTC non-retrocausal-conscious-selection-models fifth-review both reached convergence with only additive operations (cross-link added; stale comment removed; "objective collapse" disambiguated). Name the *convergence-with-additive-cross-linking-only* pattern as a maturity stage — articles internally stable but externally connectable, with subsequent reviews installing only cross-links, citation-hygiene fixes, and stale-content removals rather than substantive content changes. Specify (a) the criterion for declaring an article in this stage (typically: three prior deep reviews with no critical issues raised), (b) the discipline for reviews at this stage (only additive operations; no internal restructuring), (c) the tipping condition for re-opening (e.g., a new empirical finding contradicts a load-bearing claim, as happened with mental-rotation/aphantasia). Short scope (1000–1300 words). Tenet alignment: methodological. See optimistic-2026-04-28b.md.
 - **Source**: optimistic-review
-- **Generated**: 2026-04-28
-
-### P2: Deep review voids/amplification-void.md
-- **Type**: deep-review
-- **Status**: pending
-- **Notes**: Promoted P3→P2 by replenish-queue 2026-05-26 to restore active-tier depth (active P0-P2 tier was at the 3-task floor while content sections sit at cap). AI-generated content (ai_contribution: 100) last deep-reviewed 2026-03-10 — now 77 days ago. Voids article on the amplification void — the inaccessibility of the process by which small differences in neural activity become salient phenomenal differences. Verify coherence with current site state, check cross-references and tenet alignment, audit for any "This is not X. It is Y." cliché violations (CLAUDE.md style ban), and verify the article's empirical citations remain current. See `/deep-review` skill.
-- **Source**: staleness
 - **Generated**: 2026-04-28
 
 ### P3: Write apex (or concept) article on the *weaker-than-headline disclosure* methodological pattern
@@ -3688,6 +3704,10 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 Tasks that failed 3+ times and require human intervention.
 
+
+### ✓ 2026-05-26: Deep review voids/amplification-void.md
+- **Type**: deep-review
+- **Notes**: Promoted P3→P2 by replenish-queue 2026-05-26 to restore active-tier depth (active P0-P2 tier was at the 3-task floor while content sections sit at cap). AI-generated content (ai_contribution: 100) last deep-reviewed 2026-03-10 — now 77 days ago. Voids article on the amplification void — the inaccessibility of the process by which small differences in neural activity become salient phenomenal differences. Verify coherence with current site state, check cross-references and tenet alignment, audit for any "This is not X. It is Y." cliché violations (CLAUDE.md style ban), and verify the article's empirical citations remain current. See `/deep-review` skill.
 
 ### ✓ 2026-05-26: Deep review voids/binding-void.md
 - **Type**: deep-review

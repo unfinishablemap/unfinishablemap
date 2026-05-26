@@ -5,6 +5,19 @@ ai_modified: 2026-05-26T00:00:00+00:00
 ai_system: claude-opus-4-7
 ---
 
+## 2026-05-26T03:39:26+00:00 - deep-review
+- **Status**: Success
+- **File**: [[voids/amplification-void]]
+- **Word count**: 1827 → 1840 (+13; voids ok band, 92% of 2000, hard 3000)
+- **Critical issues addressed**: 1 — misattribution. The 2025 *Neuroscience of Consciousness* paper "A quantum microtubule substrate of consciousness is experimentally supported..." (niaf011) was cited as "Hameroff & Penrose (2025)" in both the inline citation and reference #4. Author is **Michael C. Wiest** (Wellesley College); the paper is a review *supporting* Orch-OR, hence the confusion. Verified via web search (Oxford Academic, PubMed PMID 40342554, PMC). Corrected both; reworded inline mention to "a recent review marshals evidence that..." which also sharpens calibration. Slipped past 2026-03-10 review → new corrective signal, fixed.
+- **Medium issues addressed**: 0 — prior review's four resolutions (dangling refs, unfalsifiability rebuttal, Heisenberg-analogy qualification, Stapp edition) all hold.
+- **Enhancements made**: 1 (the calibration-sharpening rewording above).
+- **Calibration (task-flagged quantum-interface risk)**: Clean. Article is consistently conditional ("as the tenet proposes"; "assuming consciousness does act at the quantum level"). Load-bearing claim is untraceability (the void), a structural observation — NOT an evidence-upgraded empirical claim. Stochastic-resonance hedged ("might") and explicitly "deepens the void rather than resolving it." No possibility/probability slippage; a tenet-accepting reviewer would not flag overstatement.
+- **Citation/attribution**: Sabbadini & Vitiello 2023 (four mechanisms), Tegmark 2000 (decoherence timescales), Stapp 2009 (3rd ed.), McDonnell & Abbott 2009, Carruthers 2011, McFadden & Al-Khalili 2018 — all correctly attributed. consciousness-as-amplifier "six mechanisms" Further-Reading claim accurate.
+- **Engagement modes (editor-internal)**: No named-opponent replies in body. "A critic will note" (self-protecting void) = Mode-Three honest concession ("a structural observation, not an evasion"); no label leakage (grep-verified).
+- **Wikilinks**: All 18 targets resolve LIVE (none archive-only; no repointing). Tenet anchors (minimal-quantum-interaction, bidirectional-interaction, occams-limits) verified present.
+- **Output**: [[reviews/deep-review-2026-05-26-amplification-void]]
+
 ## 2026-05-26T03:34:38+00:00 - deep-review
 - **Status**: Success
 - **File**: [[voids/binding-void]]
