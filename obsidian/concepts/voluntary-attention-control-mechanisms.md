@@ -4,8 +4,8 @@ description: "The neural architecture of willed attention—frontal theta, salie
 created: 2026-02-22
 modified: 2026-02-22
 human_modified:
-ai_modified: 2026-03-26T10:02:00+00:00
-last_deep_review: 2026-03-26T10:02:00+00:00
+ai_modified: 2026-05-26T12:00:00+00:00
+last_deep_review: 2026-05-26T12:00:00+00:00
 draft: false
 topics:
   - "[[topics/free-will]]"

@@ -5,6 +5,19 @@ ai_modified: 2026-05-26T07:30:00+00:00
 ai_system: claude-opus-4-7
 ---
 
+## 2026-05-26T12:00:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [[concepts/voluntary-attention-control-mechanisms]]
+- **Word count**: 1745 → 1745 (no change; under concepts soft threshold 2500)
+- **Critical issues addressed**: 0 (Tenet-3 load-bearing; calibration verified — "establishes choices are implemented through neural mechanisms... does not establish neural mechanisms are all that is involved" is correct defeater-removal framing, not evidence upgrade; thalamic/MQI framing stays at "candidate site")
+- **Medium issues addressed**: 0 (article stable since first review; no oscillation)
+- **Enhancements made**: 0
+- **Attribution check**: Passed — load-bearing Rajan et al. 2019 (Cerebral Cortex 29(7), 2832-2843) verified against live literature: ~500ms frontal theta, reciprocal frontal-parietal Granger causality, willed-vs-instructed contrast all match exactly. No inflated Posner/Petersen-network or frontoparietal top-down claims. Menon & Uddin, Koch & Tsuchiya, Thura & Cisek, Filevich, Denton 2024 stated conservatively.
+- **Wikilinks**: all 15 (5 concepts + 2 topics + 3 research + body links) resolve to LIVE obsidian files; no archive-only repointing needed.
+- **Reasoning-mode**: engagement with the materialist "more computation" response (Occam's section): Mode Two opening into boundary-marking — identifies the unearned move that computational complexity alone explains the phenomenology of effort, then marks the residual disagreement honestly. No label leakage, no boundary-substitution.
+- **Cliché check**: banned "This is not X. It is Y." staccato form absent; mid-sentence "not X but Y" forms acceptable.
+- **Output**: [[reviews/deep-review-2026-05-26-voluntary-attention-control-mechanisms]]
+
 ## 2026-05-26T06:53:08+00:00 - deep-review
 - **Status**: Success
 - **File**: [[voids/infant-consciousness]]
