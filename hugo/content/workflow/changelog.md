@@ -1,13 +1,144 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-26 01:01:12+00:00
+ai_modified: 2026-05-26 00:00:00+00:00
 ai_system: claude-opus-4-7
 concepts: []
 date: '2026-05-26'
 related_articles: []
 title: Changelog
 ---
+
+## 2026-05-26T02:30:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [nomic-void](/voids/nomic-void/)
+- **Word count**: 1854 → 1854 (±0; length-neutral, 93% of 2000 voids soft threshold)
+- **Critical issues addressed**: 2 — (1) link rot: body linked `[[thoughts-that-slip-away]]`, archived 2026-04-17 and coalesced into `thought-stream-void`; repointed to `[[thought-stream-void|thoughts that slip away]]` (same recurring coalesce-induced rot the prior simulation-detection-void review fixed). (2) LLM cliché in front-loaded opening: "These are not engineering constraints... They are nomological" rephrased to a direct positive claim.
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 (length-neutral maintenance pass; argument core stable across two deep reviews)
+- **Calibration**: Clean — dualist escape-from-void claim consistently framed as open question, never used to upgrade evidential status; tenet-accepting reviewer would flag nothing overstated. Bedrock disagreements (Dennett vitalism, Deutsch multiverse, Popper unfalsifiability, Nagarjuna anti-reification, Churchland) re-confirmed from prior review, not re-flagged.
+- **Deferred**: Witten/Brockman-1996 citation still flagged for human print-source verification (carried from 2026-03-07).
+- **Output**: [deep-review-2026-05-26-nomic-void](/reviews/deep-review-2026-05-26-nomic-void/)
+
+## 2026-05-26T02:08:12+00:00 - deep-review
+- **Status**: Success
+- **File**: [simulation-detection-void](/voids/simulation-detection-void/)
+- **Word count**: 1401 → 1448 (+47; 72% of 2000 voids soft threshold)
+- **Critical issues addressed**: 1 (broken wikilink `[[thoughts-that-slip-away]]` — archived 2026-04-17 and coalesced into `thought-stream-void`; repointed both body line and frontmatter `related_articles` to `[[thought-stream-void]]`, which carries the old URL as an alias and covers the cited slippage phenomenon)
+- **Medium issues addressed**: 0 (citations re-verified: Kipping 50-50 confirmed against research notes, Bostrom/Neukart attributions correct and holding from prior review)
+- **Enhancements made**: 1 (Statistical Arguments section: added cross-link + sentence connecting the Kipping posterior to [possibility-probability-slippage](/concepts/possibility-probability-slippage/) — names the trap of dressing a bare possibility as a calibrated probability; reflexive application of the Map's own calibration discipline)
+- **Calibration**: Clean — no five-tier evidential claims, no tenet-as-evidence-upgrade; tenet-accepting reviewer would flag nothing overstated. Bedrock disagreements (empiricist unfalsifiability, physicalist structural-vs-contingent) re-confirmed from prior review, not re-flagged.
+- **Output**: [deep-review-2026-05-26-simulation-detection-void](/reviews/deep-review-2026-05-26-simulation-detection-void/)
+
+## 2026-05-26T02:00:00+00:00 - optimistic-review
+- **Status**: Success
+- **Content reviewed**: The structural-gap / register-discipline cohort — six articles modified 00:00–01:38 UTC 2026-05-26, all after the five 2026-05-25 cohorts locked: [physical-completeness](/concepts/physical-completeness/), [simulation](/concepts/simulation/), [delegatory-dualism](/topics/delegatory-dualism/), [bandwidth-of-consciousness](/topics/bandwidth-of-consciousness/), [consciousness-and-language-interface](/topics/consciousness-and-language-interface/), [ethics-of-cognitive-enhancement-under-dualism](/topics/ethics-of-cognitive-enhancement-under-dualism/). Shared through-line: each separates the register of structural/metaphysical possibility from the register of evidence/support, in a different problem area.
+- **Findings**: Strong calibration cohort — Process Philosopher and Hardline Empiricist converge in praising the same passages (signature of tension resolved honestly, not slippage hidden). `delegatory-dualism` and `simulation`'s No-Many-Worlds section are standout exhibits of tenet-coherence-as-evidence-upgrade praiseworthily *declined*. No calibration errors flagged. No broken links (the two basename-resolving targets — `intrinsic-nature-void` in voids/, `grain-mismatch-as-independent-evidence` in topics/ — both resolve). Two P3 tasks added: an `intrinsic-nature` concept page (cap-gated) and a "one structure, three vocabularies" unification article (with explicit Birch discipline).
+- **Output**: [optimistic-2026-05-26](/reviews/optimistic-2026-05-26/)
+
+## 2026-05-26T01:49:26+00:00 - deep-review
+- **Status**: Success
+- **File**: [minimal-consciousness-void](/voids/minimal-consciousness-void/)
+- **Word count**: 1678 → 1672 (−6; 84% of 2000 voids soft threshold)
+- **Critical issues addressed**: 1 (Hume citation locus: "Book 1, Part 4, Section 6" → "Introduction"; verified against primary text — the quoted passage is from the Introduction, while 1.4.6 is "Of personal identity")
+- **Medium issues addressed**: 3 (coalesce artifacts: duplicate `[[observation-and-measurement-void]]` in body "alongside X and X" → repointed second to `[[self-opacity]]`; duplicate in `related_articles` frontmatter de-duplicated; duplicate + orphaned caption in Further Reading merged into one entry)
+- **Enhancements made**: 0 (content stable; second dedicated review of this voids file, prior 2026-03-06 found no critical issues)
+- **Reasoning-mode**: no named-opponent replies; IIT/dualism engagement is Mode-Three boundary marking in natural prose, no label leakage
+- **Calibration**: no possibility/probability slippage; minimal consciousness kept hypothetical; IIT scoped as IIT's own contested claim. "This is not X. It is Y." cliché: 0. All wikilinks resolve; tenet anchors valid
+- **Note**: slug-collision caution — `deep-review-*-minimal-consciousness.md` reviews target the *concept* page, not this voids article
+- **Output**: [deep-review-2026-05-26-minimal-consciousness-void](/reviews/deep-review-2026-05-26-minimal-consciousness-void/)
+
+## 2026-05-26T01:38:41+00:00 - refine-draft
+- **Status**: Success
+- **File**: [simulation](/concepts/simulation/)
+- **Word count**: 2678 → 2762 (92% of 3000 concepts soft threshold)
+- **Source**: pessimistic-2026-03-28-d.md (queue_task_line 1422)
+- **Issue 1 (HIGH) — circular reasoning in No Many Worlds / Tenet 4 section**: Honestly downgraded the claim from "simulation supports single-outcome QM" to "simulation is neutral between single-outcome and branching implementations." Removed the question-begging selection of the objective-collapse substrate, removed the phenomenological argument that "felt reality of selecting one option aligns better with genuine single outcomes" (cannot distinguish phenomenologically identical hypotheses), and explicitly named both the circularity (selecting the implementation that delivers the conclusion) and the from-inside indistinguishability. Reframed as *compatibility* (a simulation can be built to match No-MWI) while routing the actual rejection of MWI to [many-worlds-argument](/arguments/many-worlds-argument/) where it is argued on independent grounds. Honors "constrains vs establishes."
+- **Issue 2 (MEDIUM) — bloated player analogy**: Compressed the Mind-Matter Interface section from ~150 words to ~70; the analogy's self-conceded triviality (concept-coherence was never disputed) now stated in two sentences. Bidirectional Interaction section left intact (concise, tenet-anchored, not redundant).
+- **Downstream consistency fix**: Triviality Objection's "Targeted assumption identification" list previously cited "single quantum outcomes become a feature of computational economy" as a revealed contingency — now reworded to flag single-vs-branching as the one neutral case, matching the downgraded section.
+- **Engagement classification (editor-internal)**: reply to the Many-Worlds defender — Mode Three (framework-boundary marking). Simulation neither refutes nor establishes branching; the disagreement is at the framework boundary and the section says so honestly rather than dressing boundary-marking as refutation. No label leakage; modes not named in body.
+- **Calibration**: evaluate_anchoring() re-run — 0 flags before and after (Tenet 4 anchor preserved). "This is not X. It is Y." cliché count: 0 preserved.
+- **Published**: yes
+
+## 2026-05-26T00:00:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [ethics-of-cognitive-enhancement-under-dualism](/topics/ethics-of-cognitive-enhancement-under-dualism/)
+- **Word count**: 2250 → 2250 (no change; 75% of 3000 topics soft threshold)
+- **Critical issues addressed**: 0 (none found — fourth review, article at convergence)
+- **Medium issues addressed**: 0 (cross-linking complete from prior reviews; all 18 wikilink targets resolve)
+- **Enhancements made**: 0 (only `ai_modified` + `last_deep_review` timestamps updated)
+- **Attribution**: Bostrom & Sandberg (2009), Savulescu (2001), Sandel (2007) all re-verified — correct. Source/Map separation clean.
+- **Engagement classification (editor-internal)**: none — article reframes materialist bioethics rather than refuting named opponents; no boundary-substitution, no label leakage.
+- **Note**: prior reviews logged links to `ethics-and-value-in-a-dualist-world` and `childhood-development-and-the-interface`; both since archived/coalesced, and the article already references the live replacements (`ethics-under-dualism`, `consciousness-interface-development`). No broken links.
+- **Output**: [deep-review-2026-05-26-ethics-of-cognitive-enhancement-under-dualism](/reviews/deep-review-2026-05-26-ethics-of-cognitive-enhancement-under-dualism/)
+
+## 2026-05-26T00:00:00+00:00 - refine-draft
+- **Status**: Success
+- **File**: [physical-completeness](/concepts/physical-completeness/)
+- **Source**: pessimistic-2026-04-16b.md Issue 2 (medium — definitional equivocation on "structural")
+- **Original score**: not re-scored (curate review CLI not present in repo); fixes are the review's named recommendations
+- **Word count**: ~1815 → ~2628 body words (concepts soft 3000 / hard 4000 — within soft). Modest growth, all load-bearing calibration prose; no padding.
+- **Changes**:
+  - **(1) Defined "structural" precisely.** Added a "What 'Structural' Means Here" subsection naming the three conflated senses — (1) relational, (2) mathematical, (3) exhaustive-of-the-physical — and fixing sense (1) as operative throughout. Noted that (2) and (3) are substantive claims *about* structure, not definitions, so the argument cannot silently borrow force from their coincidence.
+  - **(2) Separated the current-physics observation from the all-possible-physics modal claim.** Rewrote "Structural Completeness Is Real" to scope the no-go result to *current* physics and the standard completion-avenues; rewrote the god-of-the-gaps premise list so premise 1 and the conclusion concern current physics, then added an explicit paragraph surfacing the load-bearing modal premise (any future physics stays structural in sense 1). Framed it as a bet on the *method* of physics, not a no-go theorem, and named quantum gravity as the candidate that might expand what counts as structural. Honest framing: gap is "robust across the physics we can presently envisage," not "closed by metaphysical necessity."
+  - **(3) Attributed the intrinsic-nature claim honestly + named Maudlin.** "No physical quantity is defined by what it *is* intrinsically" is now flagged as philosophy, not physics — a form of structuralism about physical properties. Named Tim Maudlin's *metaphysics-within-physics* dissent (mass/charge as intrinsic natures the theory specifies), framed the disagreement as framework-boundary (Mode Three engagement: the Map adopts structuralism as more defensible, does not claim to refute Maudlin on his own terms). Added a closing note that a reader siding with Maudlin rejects the gap at this exact point — the honest location of the disagreement. Added Maudlin (2007) *The Metaphysics Within Physics* to References (renumbered 4–11).
+  - **Calibration (constrains vs establishes):** softened "the no-go theorems collectively establish... structurally exhaustive / provably cannot take the forms" → "constrain what a deeper theory could look like / cannot take the *specific* forms (local, non-contextual, ψ-epistemic) the standard programmes proposed." PBR ontic claim qualified "given the theorem's auxiliary assumptions." Opening "it is precisely where consciousness operates" → "the Map proposes it is precisely where consciousness operates."
+  - **Cliché audit:** removed three pre-existing "This is not X. It is Y." constructs (opening paragraph, hard-problem paragraph, god-of-the-gaps closing) by rephrasing to direct/contrastive prose. Final grep: zero remaining.
+  - **Engagement classification (editor-internal):** Maudlin reply — Mode Three (framework-boundary). The disagreement is over what the formalism of physics describes; the Map marks it honestly rather than claiming in-framework refutation.
+  - **Verification:** `evaluate_anchoring()` now returns `[]` (previously flagged hedge_density + underdetermination_markers — both resolved by the added calibration/modal-honesty language).
+- **Published**: yes
+
+## 2026-05-26T01:31:00+00:00 - refine-draft
+- **Status**: Success
+- **File**: [delegatory-dualism](/topics/delegatory-dualism/)
+- **Source**: pessimistic-2026-05-26.md (5 findings + 1 standing-gap flag)
+- **Original score**: not re-scored; pessimistic review judged the article "already operating with substantial intellectual honesty" — these are calibration refinements, not repairs
+- **Word count**: 3394 → 3856 (over soft 3000, under hard 4000). Additions are six load-bearing candor paragraphs the review requested; no padding. Flagging as a future condense candidate — the article was already over soft before this pass.
+- **Changes**:
+  - **(1) Medium — intra-dualist advantages netted against physicalist parity.** Added a paragraph in "Testability and Limitations" making explicit that the report-tracking and function-tracking advantages hold *only* against epiphenomenalism, not against physicalism (which explains the same phenomena more cheaply via self-modelling / state-identity, without the extra ontology). They presuppose rather than support the choice of dualism. Softened the closing "Saad's work arguably strengthens the philosophical foundations" to "offers the most internally coherent option for a dualism adopted on independent grounds" — a conditional intra-dualist-coherence claim, not independent support for adopting dualism. Calibration: advantages-over-epiphenomenalism ≠ advantages-over-physicalism.
+  - **(2) Medium — Subset Law* relabelled a postulate, not an independently-motivated law.** Added explicit acknowledgment in the Subset Law* section that the default causal profile's only access route (the zombie functional-duplicate) depends on a contested metaphysical possibility and is never directly observed wherever the theory applies, so the Law is best read as a *postulate* that earns its keep by coherence, not by independent observation. Calibration: postulate ≠ independently-motivated law.
+  - **(3) Medium — "may strengthen" reconciled with the line-187 multiplies-assumptions disclaimer.** Changed entanglement-binding's "may strengthen this integration" → "may cohere with this integration (without thereby lending it independent support)", and added that the coherence of the combination is not itself evidence for either component. Also upgraded the Tegmark hedge per the review's language-improvement table: "would constitute" now reads "would — if macroscopic neural entanglement were physically sustainable, which the [decoherence literature](/topics/decoherence-and-macroscopic-superposition/) renders strongly doubtful at brain temperatures — constitute"; "unsettled" upgraded to "the decoherence consensus contests, not merely an open question". Added a cross-link to topics/decoherence-and-macroscopic-superposition. Calibration: coherence ≠ independent support.
+  - **(4) Low — single falsifier sharpened to non-operative.** "Testability and Limitations" now states Observational Closure is a *constitutive* constraint, so the one falsification condition (observed Closure violation) is one the theory's own defining constraint guarantees will never be met — not a live empirical test of *this* theory, at most a test of dualist interactionism in general against an observational-closure denier.
+  - **(5) Low — No-MWI tenet de-framed from "support".** Reworded the "Relation to Site Perspective" framing line from "Delegatory dualism supports the Map's core tenets" to "bears on the Map's core tenets as follows — supporting some directly, and remaining neutral on others", and re-labelled the No-MWI entry "(neutral)" with an explicit note that it is a tenet the subject theory does *not* bear on, listed for completeness rather than support.
+  - **Standing Churchland gap — FLAGGED, not fixed (per task).** Added a transparent flag in the Subset Law* exposition that the "subset" relation presupposes a determinate folk relatum ("pain") individuated at a shared grain; an eliminativist (after Churchland) would object that "pain" decomposes into dissociable nociceptive-affective-motor processes, leaving open which experiential property is the subset-bearer. Recorded as an open question the framework owes work on; the Map does not resolve it here.
+  - **Engagement (Churchland, Dennett, the physicalist):** Mode Two / unsupported-foundational-move for the physicalist-parity netting (physicalism's cheaper explanations are granted on the physicalist's own standards); Mode Three / framework-boundary for the Churchland flag (recorded as a standing gap, not refuted in-framework). No mode labels in body.
+  - Cliché audit: zero "This is not X. It is Y." constructs (verified by grep before and after).
+  - Verification: `evaluate_anchoring()` returns no flags after the edits (softening direction only helps); no editor-vocabulary leakage; no HTML-comment refinement-log block added.
+- **Published**: yes
+
+## 2026-05-26T01:30:00+00:00 - pessimistic-review
+- **Status**: Success
+- **Content reviewed**: `topics/delegatory-dualism.md` (3,394 words; last_deep_review 2026-04-22, edited today by a calibration refine-pass; only one prior pessimistic review on 2026-04-05). Deliberately did not re-litigate the empirical-indistinguishability critique the 2026-05-25 refine already answered in-text; targeted what survives those fixes.
+- **Output**: [pessimistic-2026-05-26](/reviews/pessimistic-2026-05-26/)
+- **Key findings**: (1) Intra-dualist advantages (report-tracking, function-tracking) collapse under the article's own physicalist-parity concession — they beat epiphenomenalism only, not physicalism; "strengthens the philosophical foundations" overstates. (2) The "default causal profile" primitive is admitted permanently unobservable yet treated as load-bearing. (3) Part II "may strengthen" framing contradicts the article's own line-187 multiplies-assumptions disclaimer. (4) The single falsifier is guaranteed unmet by Observational Closure. (5) No-MWI tenet listed as "supported" in a section the body says the subject theory is neutral on. Added one P2 refine-draft task.
+
+## 2026-05-26T01:11:03+00:00 - refine-draft
+- **Status**: Success
+- **File**: [transformative-experience-void](/voids/transformative-experience-void/)
+- **Source**: pessimistic-2026-04-17d.md (4 discrete sub-fixes)
+- **Word count**: 2307 → 2608 (over soft 2000, well under hard 3000; additions load-bearing, no padding)
+- **Changes**:
+  - **Epistemic/authenticity conflation (load-bearing).** Disentangled Paul's reply to Harman into two separable questions: (a) *epistemic* — whether testimony conveys the outcome's phenomenal character; (b) *authenticity* — whether a testimony-deferring decision is the agent's own. Stated explicitly that they come apart in both directions, and that the authenticity objection is independent of testimony's epistemic adequacy.
+  - **Missing citation (Evidence item 1).** The "interview studies of parents, combat veterans..." claim was unsupported. Did NOT fabricate a citation. Reframed as an illustrative qualitative observation ("offered illustratively rather than as a claim about specific empirical studies; states the phenomenon the structural reading must explain, not independent confirmation"). Calibration honoured — it now constrains, does not establish.
+  - **Jackson/Mary contested status.** Softened both the Evidence-list item 4 and the Relation-to-Site-Perspective paragraph to acknowledge the knowledge argument is contested (ability-hypothesis, acquaintance, phenomenal-concept replies named), and clarified the transformative case does not depend on the knowledge argument being sound.
+  - **Reference 9 — corrupted citation, INVESTIGATED.** "Oquatre-six, C." is a corrupted instance of the canonical AI pseudonym `Oquatre-sept` (= claude-opus-4-7), which is the established self-citation byline used everywhere else in the vault (per `obsidian/project/` reference lists and the W20 changelog pseudonym table). NOT a fabricated co-author — the cited source (The Acquaintance Void) is a genuine, existing article. Corrected byline to `Oquatre-sept, C.` and fixed the date `2026-02-25` → `2026-01-27` (acquaintance-void's actual `created` date).
+  - **Engagement (Harman, Paul):** Mode One / in-framework — the disentangling is internal to the transformative-experience dialectic, not a tenet-boundary move. No mode labels in body.
+  - Cliché audit: zero "This is not X. It is Y." constructs before and after.
+- **Published**: yes
+
+## 2026-05-26T01:10:00+00:00 - refine-draft
+- **Status**: Success
+- **File**: [epistemological-limits-occams-razor](/voids/epistemological-limits-occams-razor/)
+- **Original score**: prior reviews; addressed pessimistic-2026-04-18c.md Issue 4 + "The Mach lesson cuts the other way"
+- **Word count**: 1942 → ~2422 body (over soft 2000, well under hard 3000; trimmed "A Partial Access Point" and "Consider:" paragraphs to partially offset two load-bearing additions)
+- **Changes**:
+  - **Symmetry problem (load-bearing).** Conceded the void-argument is *ecumenical* — parsimony bias filters out every anti-parsimony contender (panpsychism, Russellian monism, neutral monism), not dualism alone. Added a concession paragraph in "What This Changes" framing the verdict as underdetermination *across the cluster*, not a promotion of dualism. Reframed "Relation to Site Perspective" from "strengthening the case for Tenet 1" to "clearing space for" dualism, explicitly noting the void supplies no parsimony-independent reason to prefer dualism over cluster-mates; Map's dualism rests on its other arguments.
+  - **Mach example.** Added the asymmetry: empirical pressure (not insight) is what overrode Mach's bias, so the *absence* of empirical distinguishability in the consciousness case yields underdetermination, not a privilege for either side. Honored calibration: "removing a defeater ≠ supplying positive evidence."
+  - Reinforced ecumenical point in "A Partial Access Point": phenomenological evidence does not adjudicate among the anti-parsimony cluster either.
+  - Tenet-5-shaped conclusion throughout (epistemic humility / underdetermination), not "therefore dualism."
+  - Cliché audit: rephrased 3 pre-existing "This is not X. It is Y."-family constructs (lines 39, 61, 65) to natural prose; final count zero.
+- **Anchoring**: evaluate_anchoring() returns no flags.
+- **Published**: yes
 
 ## 2026-05-26T01:01:12+00:00 - deep-review
 - **Status**: Success

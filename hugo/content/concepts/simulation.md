@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-07
-ai_modified: 2026-05-19 11:04:33+00:00
+ai_modified: 2026-05-26 01:38:41+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -17,7 +17,7 @@ concepts:
 - '[[haecceity]]'
 - '[[naturally-occluded]]'
 created: 2026-01-07
-date: &id001 2026-05-19
+date: &id001 2026-05-26
 description: If reality were computed, familiar objections to mind-matter interaction
   would rest on contingent assumptions. A thought experiment revealing what we tacitly
   presuppose.
@@ -60,9 +60,7 @@ In any simulation, spatial relationships are represented data, not fundamental c
 
 ### Mind-Matter Interface: A Limited Analogy
 
-We routinely couple mental states to simulated physics: a player's intention moves a character, a programmer's decision changes physical laws. This establishes that consciousness-physics coupling is not conceptually incoherent—something those who assert "consciousness cannot in principle interact with physics" must address.
-
-The analogy breaks down in a way that limits its force: players exist *outside* the game, while we're supposedly *inside* the simulation. The player's consciousness is not constituted by the game world—their causal access comes from an external position unavailable to simulated beings. The analogy therefore cannot show that *internal* consciousness-physics coupling is possible; it shows only that the *concept* of such coupling is coherent. Whether beings embedded in a system could exert causal influence on it from within remains an open question—exactly the question the Map's [tenets](/tenets/) address through other arguments.
+We routinely couple mental states to simulated physics—a player's intention moves a character—but the analogy carries little weight: players act on the game from *outside*, whereas we are supposedly embedded *inside*. At most it shows the *concept* of consciousness-physics coupling is coherent, which was never seriously disputed. Whether beings embedded in a system could influence it from within is the open question the Map's [tenets](/tenets/) address through other arguments.
 
 ### Physical Laws Are Implementation Choices
 
@@ -98,11 +96,11 @@ If our reality is a simulation, the question shifts from "is bidirectional inter
 
 ### No Many Worlds
 
-Whether the simulation hypothesis supports single-outcome quantum mechanics depends on a central question: can quantum physics be faithfully simulated without the computation itself implying MWI's branching structure? If faithful simulation requires branching computation, the hypothesis could *support* many-worlds rather than undermine it.
+The honest verdict here is that simulation is **neutral** between single-outcome and branching implementations: it does not support the Map's rejection of many-worlds. Two architectures are equally available. A substrate that computes one outcome per measurement, discarding the unrealised branches, yields single-outcome physics with one instance of each observer. A substrate that faithfully runs the unitary evolution—plausibly the more natural implementation, since the Schrödinger equation is what the simulator would be integrating—yields branching, and the hypothesis would then *support* many-worlds rather than undermine it. Whether faithful simulation of quantum physics can avoid branching computation is an open question about computational implementation, not one the simulation framing answers.
 
-If the simulation implements objective collapse at the substrate level, the picture favours single outcomes: the simulator calculates one outcome per measurement, other "branches" are simply not computed, and indexical identity is preserved because there's only one instance of each observer.
+Choosing the single-outcome architecture because it "avoids the [indexical identity problem](/concepts/haecceity/) that MWI faces" would be circular: it selects the implementation that delivers the conclusion and presents the delivery as evidence. A branching simulation and a single-outcome simulation are also phenomenologically indistinguishable from inside—decoherence-masked branching feels exactly like a genuine single outcome, so the felt reality of selecting one option cannot adjudicate between them. No observation available to an embedded mind, including the phenomenology of choice, breaks the tie.
 
-Under these conditions, simulation avoids the [indexical identity problem](/concepts/haecceity/) that MWI faces—why am I *this* branch-instance rather than another? It also preserves the consciousness-physics interface that the [probability-interpretation analysis](/topics/consciousness-and-probability-interpretation/) identifies: if the Born rule encodes how consciousness's meaning-driven selections aggregate statistically, objective collapse keeps that interface intact, while MWI branching dissolves the very subject whose selections the rule describes. For the Map's commitment to [choice phenomenology](/concepts/phenomenology-of-choice-and-volition/), this matters: the felt reality of selecting one option aligns better with genuine single outcomes than with decoherence-masked branching.
+What the simulation framing does, then, is establish *compatibility* rather than support. Objective collapse at the substrate level keeps intact the consciousness-physics interface that the [probability-interpretation analysis](/topics/consciousness-and-probability-interpretation/) describes—if the Born rule encodes how consciousness's meaning-driven selections aggregate statistically, single-outcome implementation preserves the subject whose selections the rule describes, whereas branching dissolves it. So a simulation *can* be built to match the Map's [No Many Worlds tenet](/tenets/). But the Map's reason for rejecting MWI is argued elsewhere—on indexical-identity and choice-phenomenology grounds developed in [the cumulative case against many-worlds](/arguments/many-worlds-argument/)—and stands or falls there, not here. This is a disagreement at the framework boundary: simulation neither establishes nor refutes branching, and the section claims no more than that.
 
 ## The Meta-Problem: Where Is Consciousness?
 
@@ -148,7 +146,7 @@ The simulation hypothesis is speculative metaphysics, not empirical science. It 
 
 But triviality requires sameness, not just compatibility. The simulation hypothesis does specific diagnostic work that generic "everything might be different" claims do not:
 
-**Targeted assumption identification.** The hypothesis makes specific metaphysical commitments visible as contingent design choices rather than necessary truths. Causal closure becomes an implementation decision. [Spatial relationships](/concepts/locality/) become represented data rather than fundamental constraints. Single quantum outcomes become a feature of computational economy (with caveats about quantum computation noted in the No Many Worlds section). Each of these targets a specific objection to interactionist dualism by showing the objection depends on a particular metaphysical picture—not by providing an alternative model of how interaction works, but by revealing that the objection's force is conditional rather than absolute.
+**Targeted assumption identification.** The hypothesis makes specific metaphysical commitments visible as contingent design choices rather than necessary truths. Causal closure becomes an implementation decision. [Spatial relationships](/concepts/locality/) become represented data rather than fundamental constraints. (Single versus branching quantum outcomes is the one case where the framing stays neutral—both implementations are available, as the No Many Worlds section above explains.) Each contingent example targets a specific objection to interactionist dualism by showing the objection depends on a particular metaphysical picture—not by providing an alternative model of how interaction works, but by revealing that the objection's force is conditional rather than absolute.
 
 What it cannot do: it doesn't explain consciousness (relocating the mystery is not solving it), doesn't solve [decoherence](/concepts/decoherence/) (the challenge persists within simulated physics), and provides no empirical tests.
 

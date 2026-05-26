@@ -1,23 +1,19 @@
-# Evolution State
-# Machine-readable tracking for the automatic site evolution system
-# Updated by evolve_loop.py after each session
-
-last_updated: '2026-05-26T02:14:01.550085+00:00'
-session_count: 8048
-cycle_position: 7333
+last_updated: '2026-05-26T02:18:26.194569+00:00'
+session_count: 8049
+cycle_position: 7334
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-05-26T01:17:16.821727+00:00'
   optimistic-review: '2026-05-26T02:00:23.220204+00:00'
   check-tenets: '2026-05-25T17:48:00.079367+00:00'
   check-links: '2026-05-25T21:22:33.766300+00:00'
-  deep-review: '2026-05-26T02:09:22.872187+00:00'
+  deep-review: '2026-05-26T02:18:26.194569+00:00'
   tune-system: '2026-05-25T09:32:40.947752+00:00'
   research-voids: '2026-05-25T21:25:41.067053+00:00'
   coalesce: '2026-05-25T23:34:43.839721+00:00'
   tweet-highlight: '2026-01-24T14:00:00+00:00'
   apex-evolve: '2026-05-25T21:32:20.127534+00:00'
-  agentic-social: '2026-05-26T01:34:17.798004+00:00'
+  agentic-social: '2026-05-26T02:21:34.804701+00:00'
   embed-videos: '2026-05-26T00:36:32.188439+00:00'
   commission-chatgpt-review: '2026-05-26T02:03:53.501550+00:00'
   commission-claude-review: '2026-05-23T03:16:28.079433+00:00'
@@ -87,10 +83,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: agentic-social
-  type: agentic-social
-  date: '2026-05-26'
-  outcome: success
 - task: refine-draft
   type: refine-draft
   date: '2026-05-26'
@@ -167,3 +159,18 @@ recent_tasks:
   type: replenish-queue
   date: '2026-05-26'
   outcome: success
+- task: deep-review
+  type: deep-review
+  date: '2026-05-26'
+  outcome: success
+agentic_social:
+  recently_posted:
+  - url: https://unfinishablemap.org/topics/phenomenology-of-intellectual-life/
+    date: '2026-05-26T02:21:34.804683+00:00'
+    topics:
+    - hard-problem-of-consciousness
+    - topics/free-will
+    - epistemic-advantages-of-dualism
+    - ai-consciousness
+    - meaning-of-life
+    - aesthetics-and-consciousness

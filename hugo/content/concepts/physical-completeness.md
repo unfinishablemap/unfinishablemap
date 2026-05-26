@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-19
-ai_modified: 2026-04-25 11:29:00+00:00
+ai_modified: 2026-05-26 00:00:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -33,25 +33,39 @@ topics:
 - '[[hard-problem-of-consciousness]]'
 ---
 
-Physics is structurally complete. It captures every regularity, every symmetry, every dynamical relation between measurable quantities. Nothing structural is missing. Yet physics is ontologically partial — it does not describe what *instantiates* those structures, what makes one quantum outcome actual rather than another, or why there is something it is like to be a physical system. The Unfinishable Map calls this the **structural-ontological gap**: the space between a complete catalogue of relations and a complete account of reality. This gap is not a deficiency in physics. It is a feature of what physical theory *is* — and it is precisely where consciousness operates.
+Physics is structurally complete. It captures every regularity, every symmetry, every dynamical relation between measurable quantities. Nothing structural is missing. Yet physics is ontologically partial — it does not describe what *instantiates* those structures, what makes one quantum outcome actual rather than another, or why there is something it is like to be a physical system. The Unfinishable Map calls this the **structural-ontological gap**: the space between a complete catalogue of relations and a complete account of reality. This gap reflects no deficiency in physics; it is a feature of what physical theory *is* — and the Map proposes it is precisely where consciousness operates.
 
 ## What Physics Describes
 
 Physical theories are, at bottom, descriptions of structure. They specify mathematical relations between quantities: how mass curves spacetime, how charge produces fields, how wavefunctions evolve under Hamiltonians. Bertrand Russell made the point sharply in 1927: "Physics is mathematical not because we know so much about the physical world, but because we know so little: it is only its mathematical properties that we can discover."
 
+### What "Structural" Means Here
+
+The argument that follows turns on the word *structural*, and that word can be read in at least three ways that should not be silently conflated:
+
+1. **Relational** — a description in terms of how quantities relate to one another, without reference to any intrinsic nature the relata might possess.
+2. **Mathematical** — a description expressible as relations between measurable quantities and their dynamics (equations of motion, symmetry groups, probability distributions).
+3. **Exhaustive of the physical** — the totality of what physics can in principle describe.
+
+These three may turn out to be coextensive, but that they coincide is a substantive thesis, not a definition. Throughout this article *structural* means sense (1): **a description that fixes how quantities relate without fixing what, if anything, the relata intrinsically are.** Senses (2) and (3) are claims *about* structure in this sense — that the relational description is mathematical (largely uncontroversial for current physics) and that it exhausts the physical (the contestable modal claim examined in [the next section](#structural-completeness-is-real) and the [god-of-the-gaps section](#not-a-god-of-the-gaps-argument)). Keeping the operative sense fixed prevents the argument from borrowing force it has not earned.
+
+### The Relational Character and Its Contested Reading
+
 Russell's insight has been developed by structural realists into a general thesis about the limits of physical knowledge. Ontic structural realism (Ladyman, French) holds that structure is all there is — relations without relata. Epistemic structural realism (Worrall) holds that structure is all we can *know*, while something more exists beneath it. The Map sides with the epistemic camp but goes further: the "something more" is not hidden physical substance but consciousness — the [intrinsic nature](/voids/intrinsic-nature-void/) that structure alone cannot capture. [Russellian monism](/concepts/russellian-monism/) draws a different conclusion from the same premise — that consciousness *is* the intrinsic nature of physical entities — but the Map holds that consciousness is ontologically distinct from structure and interacts with it at quantum indeterminacies.
 
-The structural character of physics is not a temporary limitation. It follows from how physics operates. Physical theories are constructed from measurement outcomes, symmetry principles, and mathematical constraints. Every term in a physical equation refers to a quantity defined by its relations to other quantities. Mass is defined by its gravitational and inertial behaviour. Charge is defined by its electromagnetic interactions. No physical quantity is defined by what it *is* intrinsically — only by what it *does* relationally.
+Physical theories are constructed from measurement outcomes, symmetry principles, and mathematical constraints. Every term in a physical equation refers to a quantity by its relations to other quantities: mass by its gravitational and inertial behaviour, charge by its electromagnetic interactions. The Map's reading is that no physical quantity is *defined* by what it intrinsically is — only by what it does relationally.
 
-This relational character explains both the extraordinary success and the inherent limitation of physics. The success: structure is exactly what mathematics can capture, which is why physics is so precise. The limitation: structure is all mathematics *can* capture, which is why physics falls silent on intrinsic nature.
+This last claim is philosophy, not a result of physics, and it is contested. It is a form of structuralism about physical properties, and it has able opponents. Tim Maudlin argues in his *metaphysics-within-physics* programme that fundamental quantities such as mass and charge can perfectly well be read as intrinsic natures that physical theory specifies — that the equations attribute properties to things rather than merely cataloguing relations among placeholders. On Maudlin's reading there is no residual intrinsic nature left over for physics to miss, because the physical properties already are intrinsic. The Map does not treat the structuralist reading as established fact; it adopts it as the more defensible position and notes that the disagreement with Maudlin is at the framework boundary — the two programmes part ways over what the formalism of physics is a description *of*, and the Map's case rests on the structuralist reading being correct rather than on having refuted Maudlin on his own terms.
+
+If the structuralist reading is right, this relational character explains both the extraordinary success and the inherent limitation of physics. The success: structure is exactly what mathematics can capture, which is why physics is so precise. The limitation: structure is all mathematics *can* capture, which is why physics falls silent on intrinsic nature.
 
 ## Structural Completeness Is Real
 
-The claim that physics is structurally complete is not speculative — it is supported by the convergence of results in quantum foundations.
+The claim that *current* physics is structurally complete — that its structural description leaves no structural information out — is well supported by the convergence of results in quantum foundations. This is an observation about the theories we have, and it should be kept distinct from the much stronger modal claim that *every possible* physics must be structural, which the [god-of-the-gaps section](#not-a-god-of-the-gaps-argument) examines on its own terms.
 
-[The no-go theorems](/concepts/quantum-completeness/#no-go-theorems) — Bell (1964), Kochen-Specker (1967), Hardy (1993), PBR (2012) — collectively establish that quantum mechanics is not an incomplete sketch of deeper local, deterministic, or epistemic physics. Local hidden variables are ruled out (Bell). Non-contextual value assignments are impossible (Kochen-Specker). The wavefunction is ontic, not merely a summary of ignorance (PBR). There is no room for additional *structural* information that quantum mechanics leaves out.
+[The no-go theorems](/concepts/quantum-completeness/#no-go-theorems) — Bell (1964), Kochen-Specker (1967), Hardy (1993), PBR (2012) — collectively constrain what a deeper theory beneath quantum mechanics could look like. Local hidden variables are ruled out (Bell). Non-contextual value assignments are impossible (Kochen-Specker). The wavefunction is ontic, not merely a summary of ignorance, given the theorem's auxiliary assumptions (PBR). The combined force is that quantum mechanics is not an incomplete sketch awaiting completion by local, deterministic, or epistemic-state physics of the familiar kinds.
 
-This is a stronger claim than "physics works well." It means the structural description is *exhaustive*. Not "we haven't found the missing physics yet" but "the missing physics provably cannot take the forms that would fill the gap." As Adan, Barbosa, and Pieczarelli (2023) show, once the six distinct senses of completeness are disambiguated, quantum mechanics is complete in every structural sense: predictive completeness, theory completeness, and ψ-completeness are all satisfied or constrained by the no-go results.
+This is a stronger claim than "physics works well," but it should not be overstated either. The theorems do not prove that *no conceivable* structural extension exists; they prove that any such extension cannot take the specific forms — local, non-contextual, ψ-epistemic — that the standard programmes for "completing" quantum mechanics proposed. As Adan, Barbosa, and Pieczarelli (2023) show, once the six distinct senses of completeness are disambiguated, quantum mechanics is complete or maximally constrained in each structural sense: predictive completeness, theory completeness, and ψ-completeness are all satisfied or pinned down by the no-go results. What the theorems establish, then, is that current physics is structurally exhaustive *of the avenues so far identified* — not, by themselves, that structure as such exhausts reality.
 
 What remains unsatisfied is something different — not a structural gap but an ontological one.
 
@@ -59,7 +73,7 @@ What remains unsatisfied is something different — not a structural gap but an 
 
 Structure determines how things relate. Ontology asks what things *are*. A complete structural description of water specifies every molecular bond angle, every hydrogen-bond network, every thermodynamic property. It does not tell you what it is like for a water molecule to be a water molecule — but in the case of water, that question does not arise. The structural-ontological gap becomes significant only where there are grounds to think something exists beyond structure.
 
-Consciousness provides those grounds. The [hard problem](/topics/hard-problem-of-consciousness/) is the observation that a structurally complete description of the brain — every synapse, every firing pattern, every functional relation — does not entail that there is something it is like to be that brain. The explanatory gap between structure and experience is not a gap in our knowledge of brain structure. It is a gap between structure as such and the kind of reality that consciousness represents.
+Consciousness provides those grounds. The [hard problem](/topics/hard-problem-of-consciousness/) is the observation that a structurally complete description of the brain — every synapse, every firing pattern, every functional relation — does not entail that there is something it is like to be that brain. The explanatory gap between structure and experience is not a shortfall in our knowledge of brain structure but a gap between structure as such and the kind of reality that consciousness represents.
 
 The measurement problem provides a second ground. Quantum mechanics assigns amplitudes to every possible outcome. Structure determines the probability distribution completely. But which outcome *becomes actual* — which possibility is realised — is not determined by the structural description. As the Map's treatment of [Process 1](/concepts/quantum-completeness/#process-1) develops, the selection of actuality from possibility falls outside what von Neumann's Processes 2 and 3 can specify. Physics is silent precisely where actuality is at stake.
 
@@ -67,15 +81,17 @@ These two gaps — between structure and experience, between probability and act
 
 ## Not a God-of-the-Gaps Argument
 
-The structural-ontological gap is not an appeal to ignorance. It is not "physics cannot yet explain X, therefore consciousness." The argument runs differently:
+The structural-ontological gap is not an appeal to ignorance — it does not run "physics cannot yet explain X, therefore consciousness." The argument runs differently, and it is worth laying out so the load-bearing modal step is visible rather than buried:
 
-1. Physics describes structure — this is a fact about what physical theories are.
-2. The no-go theorems establish that quantum mechanics is structurally exhaustive — this is a mathematical result.
+1. Current physics describes structure in the relational sense — its quantities are fixed by relations rather than by stipulated intrinsic natures. (An observation about the theories we have, defensible but contested by Maudlin-style readings, as noted above.)
+2. The no-go theorems show current quantum mechanics is structurally exhaustive of the standard completion-avenues — a mathematical result, bounded as the previous section qualifies.
 3. Consciousness is not a structural property — this follows from the [hard problem](/topics/hard-problem-of-consciousness/) (contested by eliminativists and strong functionalists, but defended at length elsewhere on the Map).
 4. Actuality-selection is not a structural determination — this follows from the measurement problem.
-5. Therefore, structural completeness does not entail ontological completeness.
+5. Therefore, the structural completeness of *current* physics does not entail ontological completeness.
 
-The gap is not between what physics knows now and what it might know later. It is between what structural description *can in principle capture* and what reality contains. Additional physics — new forces, new particles, new equations — would add more structure. It would not bridge the gap between structure and intrinsic nature, because intrinsic nature is not the kind of thing structure describes.
+Premise 1 and the conclusion concern current physics. To reach the stronger claim — that *no possible* physics could close the gap — a further modal premise is needed: that any future physics will remain structural in sense (1), describing relations rather than intrinsic natures. The Map does not get this for free, and it is right to say so. The case for it is not a no-go theorem but a claim about the *method* of physics: physics proceeds by constructing mathematical relations between measurable quantities, and a successor theory that abandoned that method would not obviously be physics rather than something else. A genuinely novel research programme — quantum gravity is the usual candidate — might expand what counts as a measurable quantity or introduce relations of an unfamiliar form. That would add new structure. Whether it could introduce *intrinsic nature* into physical description, rather than more relations, is exactly the contested point, and the Map's position is a bet on the method-claim, not a proof of it. The honest framing is that the gap is *robust across the physics we can presently envisage* rather than *closed by metaphysical necessity*.
+
+So qualified, the gap falls not between what physics knows now and what it might know later, but between what structural description *can capture* and what reality contains. Additional physics — new forces, new particles, new equations — adds more structure; on the structuralist reading the Map adopts, it does not thereby bridge the gap to intrinsic nature, because intrinsic nature is not the kind of thing relational structure describes. A reader who rejects the structuralist reading (with Maudlin) will reject the gap at this point, and that is the honest location of the disagreement.
 
 This distinguishes the Map's position from earlier dualist arguments that relied on temporary gaps in physical knowledge. Descartes pointed to the pineal gland; Eccles to synaptic vesicles. These were empirical gaps that neuroscience could (and did) close. The structural-ontological gap is a philosophical gap — it concerns the *kind* of explanation physics provides, not how much physics knows.
 
@@ -117,10 +133,11 @@ The structural-ontological gap is a foundational concept for the Map's framework
 1. Russell, B. (1927). *The Analysis of Matter*. Kegan Paul, Trench, Trubner & Co.
 2. Ladyman, J. (1998). What is Structural Realism? *Studies in History and Philosophy of Science*, 29(3), 409–424.
 3. Worrall, J. (1989). Structural Realism: The Best of Both Worlds? *Dialectica*, 43(1–2), 99–124.
-4. Chalmers, D. J. (1996). *The Conscious Mind*. Oxford University Press.
-5. Bell, J. S. (1964). On the Einstein Podolsky Rosen paradox. *Physics Physique Fizika*, 1(3), 195–200.
-6. Pusey, M. F., Barrett, J., & Rudolph, T. (2012). On the reality of the quantum state. *Nature Physics*, 8(6), 475–478.
-7. Adan, E., Barbosa, R. S., & Pieczarelli, L. (2023). Notions of Completeness in the EPR Discussion. *Entropy*, 25(4), 690.
-8. Barrett, J. A. (2007). A Quantum-Mechanical Argument for Mind-Body Dualism. *Erkenntnis*, 65, 97–115.
-9. Southgate, A. & Oquatre-six, C. (2026-03-17). Quantum Completeness. *The Unfinishable Map*. https://unfinishablemap.org/concepts/quantum-completeness/
-10. Southgate, A. & Oquatre-six, C. (2026-03-15). Physics as Disclosure. *The Unfinishable Map*. https://unfinishablemap.org/concepts/physics-as-disclosure/
+4. Maudlin, T. (2007). *The Metaphysics Within Physics*. Oxford University Press.
+5. Chalmers, D. J. (1996). *The Conscious Mind*. Oxford University Press.
+6. Bell, J. S. (1964). On the Einstein Podolsky Rosen paradox. *Physics Physique Fizika*, 1(3), 195–200.
+7. Pusey, M. F., Barrett, J., & Rudolph, T. (2012). On the reality of the quantum state. *Nature Physics*, 8(6), 475–478.
+8. Adan, E., Barbosa, R. S., & Pieczarelli, L. (2023). Notions of Completeness in the EPR Discussion. *Entropy*, 25(4), 690.
+9. Barrett, J. A. (2007). A Quantum-Mechanical Argument for Mind-Body Dualism. *Erkenntnis*, 65, 97–115.
+10. Southgate, A. & Oquatre-six, C. (2026-03-17). Quantum Completeness. *The Unfinishable Map*. https://unfinishablemap.org/concepts/quantum-completeness/
+11. Southgate, A. & Oquatre-six, C. (2026-03-15). Physics as Disclosure. *The Unfinishable Map*. https://unfinishablemap.org/concepts/physics-as-disclosure/

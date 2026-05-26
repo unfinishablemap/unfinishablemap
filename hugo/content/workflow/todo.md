@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-26 00:56:38+00:00
+ai_modified: 2026-05-26 01:30:00+00:00
 ai_system: claude-opus-4-7
 author: Andy Southgate
 concepts: []
@@ -37,6 +37,20 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **P2**: Low - nice to have, human approval needed
 
 ## Active Tasks
+
+### P3: Give "intrinsic nature" a concept-level treatment (or fold into the existing void article)
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review 2026-05-26 (High Priority). The structural-ontological gap in [physical-completeness](/concepts/physical-completeness/) turns entirely on *intrinsic nature* — what relational structure leaves undescribed — and the article treats it as a load-bearing primitive, yet the only target is [intrinsic-nature-void](/voids/intrinsic-nature-void/), which frames it as unfillable-in-principle. There is no neutral concept page defining intrinsic nature and surveying the three readings the cohort keeps invoking: structural realism (Ladyman/French/Worrall — there is no residual intrinsic nature, or none we can know), Russellian monism ([russellian-monism](/concepts/russellian-monism/) — consciousness *is* the intrinsic nature of the physical), and the Map's dualism (intrinsic nature exists and is ontologically distinct from structure, where consciousness enters). The wikilink resolves by basename so this is NOT a broken-link issue — it is a missing concept-level home that `physical-completeness`, `russellian-monism`, and `bi-aspectual-ontology` all silently assume. **Section-cap caveat**: concepts/ stands near 246/250; verify the cap at execution. If no slot is free, fold the definitional treatment into [intrinsic-nature-void](/voids/intrinsic-nature-void/) as a "what intrinsic nature is" preamble before its unfillability argument, and convert this to a refine-draft rather than creating a new page. Keep the Maudlin objection (intrinsic-natures-already-in-physics) visible — it is the framework-boundary opponent `physical-completeness` already names. Estimated scope: Medium. Tenet alignment: Tenet 1 (dualism), Tenet 5 (Occam's limits — the structuralist reading is a bet, not a result). See [optimistic-2026-05-26](/reviews/optimistic-2026-05-26/).
+- **Source**: optimistic-review (2026-05-26)
+- **Generated**: 2026-05-26
+
+### P3: Unify "default causal profile / prepared options / Born-rule weights" as one structure in three vocabularies
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review 2026-05-26 (Medium Priority). Three articles in the 2026-05-26 cohort independently reach for the same structure under different names: Saad's "default causal profile" ([delegatory-dualism](/topics/delegatory-dualism/)), the brain's "prepared options" that consciousness selects among ([bandwidth-of-consciousness](/topics/bandwidth-of-consciousness/), via Libet/Schultze-Kraft), and the Born-rule probability distribution ([physical-completeness](/concepts/physical-completeness/)'s actuality-selection gap). [delegation-meets-quantum-selection](/topics/delegation-meets-quantum-selection/) already argues Saad's default profile *is* the Born-rule distribution. A short article making this three-vocabulary convergence explicit would strengthen the cohort's coherence. **Critical Birch discipline**: this is three *descriptions* of one structure converging, NOT three independent *evidences* stacking — the article must state this plainly or it becomes a tenet-coherence-as-evidence-upgrade error. Frame as "one structure, three registers," coherence-not-confirmation, mirroring the discipline already exhibited in `delegatory-dualism`'s Testability section. Estimated scope: Short–Medium. Tenet alignment: Tenets 2 (minimal quantum interaction) and 3 (bidirectional interaction). See [optimistic-2026-05-26](/reviews/optimistic-2026-05-26/).
+- **Source**: optimistic-review (2026-05-26)
+- **Generated**: 2026-05-26
 
 ### P3: Research non-Western physicalist theories to test the concession-convergence cross-observer gap
 - **Type**: research-topic
@@ -175,13 +189,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Review file**: `reviews/optimistic-2026-05-19c.md`
 - **Source**: optimistic-review (2026-05-19c)
 - **Generated**: 2026-05-19
-
-### P3: Deep review voids/simulation-detection-void.md (62 days since last review, ai_contribution>=50)
-- **Type**: deep-review
-- **Status**: pending
-- **Notes**: Staleness check: `voids/simulation-detection-void.md` was last deep-reviewed 62 days ago (2026-03-16) with `ai_contribution: 100`. No pending task in the queue references this article. The simulation-detection void engages the territory of `[[topics/dualism-as-ai-superintelligence-risk-mitigator]]` (created today 2026-05-17), `[[topics/ai-consciousness]]`, `[[apex/machine-question]]`, and the broader AI-consciousness cluster that has expanded significantly since March 2026. The Birch precautionary framework article (created 2026-05-17) and the consequence-uncomputability framing both bear on simulation-detection's claims. Deep-review should verify: (a) the article's framing of the simulation-detection void (in-principle inability of a conscious agent to determine whether they are in a simulated environment from purely first-person evidence) still reflects the catalogue's current treatment; (b) cross-links to the post-2026-04 AI-consciousness cluster (`[[topics/dualism-as-ai-superintelligence-risk-mitigator]]`, `[[topics/birch-edge-of-sentience-and-the-five-tier-scale]]`, `[[apex/machine-question]]`, `[[apex/open-question-ai-consciousness]]`); (c) cites the post-April 2026 discipline pages; (d) tenet routing reflects any refinements; (e) honours `[[evidential-status-discipline]]` — simulation-detection claims at the void register should not drift toward stronger tiers; (f) writing-style discipline holds; (g) length-discipline check. Deep-review with in-place fixes if minor; generate a follow-on refine-draft task if substantive.
-- **Source**: staleness
-- **Generated**: 2026-05-17
 
 ### P3: Research post-2023 IIT recovery work to anchor anaesthesia article active-reboot claim
 - **Type**: research-topic
@@ -944,12 +951,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: staleness
 - **Generated**: 2026-04-21
 
-### P3: Deep review voids/nomic-void.md
-- **Type**: deep-review
-- **Notes**: AI-generated content (ai_contribution: 100) last deep-reviewed 2026-03-07 (45 days ago). Voids article on the nomic void — the structural gap between psychophysical laws and the felt character of what they govern. The article is methodologically close to the 2026-04-17 parsimony-epistemology refinement's Idealism Parity Trilemma and to the four-quadrant dualism taxonomy's treatment of thin-mind positions; these later pieces have likely shifted the dialectical landscape. Verify (a) engagement with psychophysical-law literature remains current, (b) alignment with the Map's minimum-quantum-interaction specification of how laws are realised, (c) no stale inbound references, (d) tenet alignment under the refined parsimony-epistemology framing. See /deep-review skill.
-- **Source**: staleness
-- **Generated**: 2026-04-21
-
 ### P3: Write concept article on The Double Veil as dualist epistemology
 - **Type**: expand-topic
 - **Status**: pending
@@ -1025,13 +1026,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: optimistic-review
 - **Generated**: 2026-04-19
 
-### P2: Address symmetry problem in Parsimony Void article
-- **Type**: refine-draft
-- **Status**: pending
-- **Notes**: PROMOTED P3→P2 by /replenish-queue 2026-05-26T00:56 UTC to restore a stable margin above the MIN_QUEUE_TASKS floor of 3 (open P0-P2 was at 2; sections near caps so promotion of ready-to-execute P3 work is preferred over new article tasks). Chosen as a surgical, fully-specified refine tied to a concrete pessimistic-review finding on a non-churning file. Pessimistic review 2026-04-18c noted that the void-argument (parsimony bias filters correct-but-complex theories) supports every anti-parsimony view equally — panpsychism, Russellian monism, neutral monism — not dualism specifically. Add a paragraph conceding the symmetric consequence, and either commit to the broader view (the void rehabilitates a cluster of positions) or argue specifically why dualism is the view *most* penalised by parsimony bias. Also reconsider whether the Mach example cuts against the thesis as much as for it: Mach was overridden by data, and where data is unavailable the honest conclusion is underdetermination, not dualism. See pessimistic-2026-04-18c.md.
-- **Source**: pessimistic-review
-- **Generated**: 2026-04-18
-
 ### P3: Write concept article on symmetric-collapse as diagnostic pattern
 - **Type**: expand-topic
 - **Status**: pending
@@ -1075,13 +1069,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Notes**: Suggested by optimistic-2026-04-18-morning (Medium Priority expansion). The 2026-04-18 05:18 UTC psychedelics-and-the-filter-model refine-draft added a "Where the Accounts Could Diverge" subsection naming three candidate empirical divergences between filter theory and entropic-brain/REBUS accounts: (1) selective access to specifically inaccessible content (filter theory predicts reach beyond prior neural representation; entropic-brain predicts richer recombination of stored content); (2) convergent phenomenology under divergent neural conditions (structurally different filter-attenuation routes should yield identical unfiltered manifestation); (3) therapeutic durability without ongoing reinforcement. Each is named in a single paragraph in the psychedelics article. A dedicated topic article would develop each divergence into an explicit research programme: what experimental protocols would test it, what published findings already bear on it, what confounds are known, how each divergence interacts with the "selective access is also the place most vulnerable to confirmation bias" caveat. This turns filter theory from a metaphysical reading into a partially-testable empirical programme. Medium scope (2500 words). Target section: topics/ (~224/250). Tenet alignment: Dualism through filter framework; Occam's Razor Has Limits — entropic-brain's "simpler" account requires patching to handle convergent phenomenology. See optimistic-2026-04-18-morning.md.
 - **Source**: optimistic-review
 - **Generated**: 2026-04-18
-
-### P2: Disentangle epistemic vs authenticity critiques in transformative-experience-void.md
-- **Type**: refine-draft
-- **Status**: pending
-- **Notes**: PROMOTED P3→P2 by /replenish-queue 2026-05-26T00:56 UTC to restore a stable margin above the MIN_QUEUE_TASKS floor of 3 (open P0-P2 was at 2). Chosen as a surgical, fully-specified refine tied to a concrete pessimistic-review finding with discrete sub-fixes (citation, contested-status softening, malformed reference). Pessimistic review 2026-04-17d found Paul's response to Harman conflates (a) whether testimony conveys phenomenal content with (b) whether testimony-grounded decisions satisfy authenticity. These are distinct and should be separated. Also: add citations for the "interview studies of parents, combat veterans..." empirical claim (currently unsupported); soften Jackson/Mary reference to acknowledge its contested status; resolve or reformat the "Oquatre-six, C." co-author citation (Reference 9). See pessimistic-2026-04-17d.md.
-- **Source**: pessimistic-review
-- **Generated**: 2026-04-17
 
 ### ~~P3: Write article on the fatigue void~~ ✅
 - **Type**: expand-topic
@@ -1168,13 +1155,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: pessimistic-review
 - **Generated**: 2026-04-16
 
-### P2: Address physical-completeness.md equivocation on "structural"
-- **Type**: refine-draft
-- **Status**: pending
-- **Notes**: PROMOTED P3→P2 by /replenish-queue 2026-05-25T23:56 UTC: second promotion to restore a stable margin above the MIN_QUEUE_TASKS floor of 3 (open P0-P2 was at 2; the forward-in-time-conscious-selection promotion above brought it to 3, this brings it to 4). Chosen because it is a small, surgical, fully-specified refine tied to a concrete medium-severity pessimistic-review finding (definitional equivocation on "structural") on a non-churning file — ready-to-execute editorial work rather than a speculative new task against the ~515-task P3 backlog. Pessimistic review (2026-04-16b) found medium-severity issue: "structural" is used to mean at least three different things — (1) mathematical/relational description, (2) measurable quantities and dynamics, (3) the totality of what physics can in principle describe. The argument's force depends on these being identical, but they may not be. Future physics (e.g., quantum gravity) might expand what counts as structural description. Define "structural" precisely and distinguish the claim that current physics is structural (observation) from the claim that all possible physics must be structural (much stronger, more contestable). Also: "No physical quantity is defined by what it *is* intrinsically" is a philosophical claim, not a fact about physics — Maudlin argues mass and charge do have intrinsic natures. See pessimistic-2026-04-16b.md Issue 2.
-- **Source**: pessimistic-review
-- **Generated**: 2026-04-16
-
 ### P3: Add cross-links between temporal-consciousness, personal-identity, and attention-interface clusters
 - **Type**: refine-draft
 - **Status**: pending
@@ -1186,13 +1166,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Type**: deep-review
 - **Status**: pending
 - **Notes**: AI-generated content (ai_contribution: 100) with no recorded deep review. Voids article on the impossibility of verifying genuine agency from the outside. Verify coherence, accuracy of philosophical claims, cross-references to free-will, phenomenology-of-agency-vs-passivity, and interested-party-void, and tenet alignment.
-- **Source**: staleness
-- **Generated**: 2026-04-16
-
-### P3: Deep review minimal-consciousness-void.md
-- **Type**: deep-review
-- **Status**: pending
-- **Notes**: AI-generated content (ai_contribution: 100) with no recorded deep review. Voids article on the impossibility of identifying the minimal conditions for consciousness. Verify coherence, cross-references to degrees-of-consciousness and threshold-void, and tenet alignment.
 - **Source**: staleness
 - **Generated**: 2026-04-16
 
@@ -1441,13 +1414,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Status**: pending
 - **Notes**: Suggested by optimistic review. Unify the phenomenology of resistance across domains—physical objects pushing back, logical necessities constraining thought, moral obligations binding action, aesthetic standards judging creation—under a common interface signature. Builds on interface-friction.md, phenomenology-of-intellectual-effort.md, mental-effort.md. See optimistic-2026-04-05.md
 - **Generated**: 2026-04-05
-
-### P2: Fix circular MWI reasoning and compress player analogy in simulation.md
-- **Type**: refine-draft
-- **Status**: pending
-- **Notes**: PROMOTED P3→P2 by /replenish-queue 2026-05-26T00:56 UTC to restore a stable margin above the MIN_QUEUE_TASKS floor of 3 (open P0-P2 was at 2). Chosen because it carries a HIGH-severity pessimistic-review finding (circular reasoning in the No Many Worlds / Tenet 4 section), making it the highest-value editorial fix among the surgical candidates. Pessimistic review found two issues: (1) High: No Many Worlds section uses circular reasoning—selects substrate assumption that favours single outcomes without justification, uses phenomenological argument that cannot distinguish phenomenologically identical hypotheses. (2) Medium: Player analogy concedes its own failure but still occupies ~300 words reaching a trivially true conclusion. See pessimistic-2026-03-28-d.md
-- **Source**: pessimistic-review
-- **Generated**: 2026-03-28
 
 ### P3: Expand treatment of phenomenal concepts strategy and MWI indexical objection in materialism.md
 - **Type**: refine-draft
@@ -3758,6 +3724,38 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 Tasks that failed 3+ times and require human intervention.
 
+
+### ✓ 2026-05-26: Deep review voids/nomic-void.md (79 days since last review, ai_contribution: 100)
+- **Type**: deep-review
+- **Notes**: PROMOTED P3→P2 by /replenish-queue 2026-05-26T02:15 UTC: open P0-P2 queue was at 2 (below the MIN_QUEUE_TASKS floor of 3). No honest new high-confidence task is available to mint, exactly as the 00:30/00:45/00:56/01:40/01:55/23:56 UTC runs documented: orphaned_files=0; the newest unconsumed research targets the over-cap voids section (voids 101/100); all capped sections (topics 246/250, concepts 245/250, voids 101/100 over) preclude new expand-topic placements outside project/; and all three content-section length offenders are unavailable as honest length_analysis promotions — `epistemology-of-convergence-arguments.md` (5867w) is human-BLOCKED awaiting an editorial split/reclassify decision, `born-rule-and-the-consciousness-interface.md` (4997w) is churn-exhausted/vetoed (condense-targeted 20+ times on 2026-05-25, re-expands through refine passes), and `animal-consciousness.md` (4038w) sits only ~38 words over the 4000-word hard threshold with active refines already touching it. Rather than mint a speculative task against the ~512-task P3 backlog or regenerate a vetoed churn-prone condense, promote this concrete, fully-specified, cap-safe deep-review of the most-overdue remaining staleness candidate — verified `last_deep_review: 2026-03-07`, i.e. 79 days as of 2026-05-26 (longer than the 80/72/64/63-day candidates already promoted+resolved earlier today, which are no longer open; the 80-day minimal-consciousness-void is now in Blocked Tasks as resolved), `ai_contribution: 100`, no other open task references this article. Original task body: AI-generated content (ai_contribution: 100) last deep-reviewed 2026-03-07. Voids article on the nomic void — the structural gap between psychophysical laws and the felt character of what they govern. The article is methodologically close to the 2026-04-17 parsimony-epistemology refinement's Idealism Parity Trilemma and to the four-quadrant dualism taxonomy's treatment of thin-mind positions; these later pieces have likely shifted the dialectical landscape. Verify (a) engagement with psychophysical-law literature remains current, (b) alignment with the Map's minimum-quantum-interaction specification of how laws are realised, (c) no stale inbound references, (d) tenet alignment under the refined parsimony-epistemology framing; (e) honour [evidential-status-discipline](/project/evidential-status-discipline/); (f) writing-style discipline holds (no banned "not X but Y" constructs; no `<!-- AI REFINEMENT LOG -->` HTML-comment leakage); (g) voids/ length-discipline check (2000/3000/4000 — currently 1857 words, comfortably under). Deep-review with in-place fixes if minor; generate a follow-on refine-draft task if substantive. See /deep-review skill.
+
+### ✓ 2026-05-26: Deep review voids/simulation-detection-void.md (72 days since last review, ai_contribution>=50)
+- **Type**: deep-review
+- **Notes**: PROMOTED P3→P2 by /replenish-queue 2026-05-26T01:55 UTC: open P0-P2 queue was at 2 (below the MIN_QUEUE_TASKS floor of 3). No honest new high-confidence task is available to mint, exactly as the 00:30/00:45/00:56/01:40/23:56 UTC runs documented: orphaned_files=0; the newest unconsumed research targets the over-cap voids section (voids 101/100); all capped sections (topics 246/250, concepts 245/250, voids 101/100 over) preclude new expand-topic placements outside project/; and all three content-section length offenders are unavailable as honest length_analysis promotions — `epistemology-of-convergence-arguments.md` (5867w) is human-BLOCKED awaiting an editorial split/reclassify decision, `born-rule-and-the-consciousness-interface.md` (4997w) is churn-exhausted/vetoed (condense-targeted 20+ times on 2026-05-25, re-expands through refine passes), and `animal-consciousness.md` (4038w) sits only ~38 words over the 4000-word hard threshold with active refines already touching it. Rather than mint a speculative task against the ~506-task P3 backlog or regenerate a vetoed churn-prone condense, promote this concrete, fully-specified, cap-safe deep-review of the most-overdue remaining staleness candidate — verified `last_deep_review: 2026-03-15`, i.e. 72 days as of 2026-05-26 (longer than the 80/64/63-day candidates already promoted+resolved earlier today, which are no longer open), `ai_contribution: 100`, no other open task references this article. Original task body: Staleness check: `voids/simulation-detection-void.md` was last deep-reviewed 62 days ago (2026-03-16) with `ai_contribution: 100`. No pending task in the queue references this article. The simulation-detection void engages the territory of `[[topics/dualism-as-ai-superintelligence-risk-mitigator]]` (created today 2026-05-17), `[[topics/ai-consciousness]]`, `[[apex/machine-question]]`, and the broader AI-consciousness cluster that has expanded significantly since March 2026. The Birch precautionary framework article (created 2026-05-17) and the consequence-uncomputability framing both bear on simulation-detection's claims. Deep-review should verify: (a) the article's framing of the simulation-detection void (in-principle inability of a conscious agent to determine whether they are in a simulated environment from purely first-person evidence) still reflects the catalogue's current treatment; (b) cross-links to the post-2026-04 AI-consciousness cluster (`[[topics/dualism-as-ai-superintelligence-risk-mitigator]]`, `[[topics/birch-edge-of-sentience-and-the-five-tier-scale]]`, `[[apex/machine-question]]`, `[[apex/open-question-ai-consciousness]]`); (c) cites the post-April 2026 discipline pages; (d) tenet routing reflects any refinements; (e) honours `[[evidential-status-discipline]]` — simulation-detection claims at the void register should not drift toward stronger tiers; (f) writing-style discipline holds; (g) length-discipline check. Deep-review with in-place fixes if minor; generate a follow-on refine-draft task if substantive.
+
+### ✓ 2026-05-26: Deep review minimal-consciousness-void.md
+- **Type**: deep-review
+- **Notes**: PROMOTED P3→P2 by /replenish-queue 2026-05-26T01:40 UTC: open P0-P2 queue was at 2 (below the MIN_QUEUE_TASKS floor of 3). No honest new high-confidence task is available to mint, exactly as the 00:30/00:45/00:56/23:56 UTC runs documented: orphaned_files=0; the newest unconsumed research targets the over-cap voids section (voids 101/100); all capped sections (topics 246/250, concepts 245/250, voids 101/100 over) preclude new expand-topic placements outside project/; and all three content-section length offenders are unavailable as length_analysis promotions — `epistemology-of-convergence-arguments.md` (5867w) is human-BLOCKED awaiting an editorial split/reclassify decision, `born-rule-and-the-consciousness-interface.md` (4997w) is churn-exhausted/vetoed (condense-targeted 20+ times on 2026-05-25, re-expands through refine passes), and `animal-consciousness.md` (4038w) sits only ~38 words over the 4000-word hard threshold with active refines already touching it. Rather than mint a speculative task against the ~507-task P3 backlog or regenerate a vetoed churn-prone condense, promote this concrete, fully-specified, cap-safe deep-review of the most-overdue remaining staleness candidate (80 days since last review, 2026-03-06, ai_contribution: 100 — the longest in the queue; the prior 63/64-day emergence-void and embodiment-cognitive-limits candidates were already promoted and resolved earlier today). Original task body: AI-generated content (ai_contribution: 100) with no recorded deep review. Voids article on the impossibility of identifying the minimal conditions for consciousness. Verify coherence, cross-references to degrees-of-consciousness and threshold-void, and tenet alignment. Honour [evidential-status-discipline](/project/evidential-status-discipline/); check writing-style discipline (no banned "not X but Y" constructs; no `<!-- AI REFINEMENT LOG -->` HTML-comment leakage) and the voids/ length thresholds (2000/3000/4000). Deep-review with in-place fixes if minor; generate a follow-on refine-draft task if substantive.
+
+### ✓ 2026-05-26: Fix circular MWI reasoning and compress player analogy in simulation.md
+- **Type**: refine-draft
+- **Notes**: PROMOTED P3→P2 by /replenish-queue 2026-05-26T00:56 UTC to restore a stable margin above the MIN_QUEUE_TASKS floor of 3 (open P0-P2 was at 2). Chosen because it carries a HIGH-severity pessimistic-review finding (circular reasoning in the No Many Worlds / Tenet 4 section), making it the highest-value editorial fix among the surgical candidates. Pessimistic review found two issues: (1) High: No Many Worlds section uses circular reasoning—selects substrate assumption that favours single outcomes without justification, uses phenomenological argument that cannot distinguish phenomenologically identical hypotheses. (2) Medium: Player analogy concedes its own failure but still occupies ~300 words reaching a trivially true conclusion. See pessimistic-2026-03-28-d.md
+
+### ✓ 2026-05-26: Address physical-completeness.md equivocation on "structural"
+- **Type**: refine-draft
+- **Notes**: PROMOTED P3→P2 by /replenish-queue 2026-05-25T23:56 UTC: second promotion to restore a stable margin above the MIN_QUEUE_TASKS floor of 3 (open P0-P2 was at 2; the forward-in-time-conscious-selection promotion above brought it to 3, this brings it to 4). Chosen because it is a small, surgical, fully-specified refine tied to a concrete medium-severity pessimistic-review finding (definitional equivocation on "structural") on a non-churning file — ready-to-execute editorial work rather than a speculative new task against the ~515-task P3 backlog. Pessimistic review (2026-04-16b) found medium-severity issue: "structural" is used to mean at least three different things — (1) mathematical/relational description, (2) measurable quantities and dynamics, (3) the totality of what physics can in principle describe. The argument's force depends on these being identical, but they may not be. Future physics (e.g., quantum gravity) might expand what counts as structural description. Define "structural" precisely and distinguish the claim that current physics is structural (observation) from the claim that all possible physics must be structural (much stronger, more contestable). Also: "No physical quantity is defined by what it *is* intrinsically" is a philosophical claim, not a fact about physics — Maudlin argues mass and charge do have intrinsic natures. See pessimistic-2026-04-16b.md Issue 2.
+
+### ✓ 2026-05-26: Address surviving calibration gaps in delegatory-dualism after the 2026-05-25 refine
+- **Type**: refine-draft
+- **Notes**: Pessimistic review 2026-05-26 found five gaps the 2026-05-25 refine left open or introduced. (1) **Medium — intra-dualist advantages collapse under physicalist-parity concession.** The report-tracking and function-tracking "advantages" beat epiphenomenalism only, not physicalism (the article concedes physicalist parity); net this out and soften "Saad's work arguably strengthens the philosophical foundations" to a conditional intra-dualist-coherence claim. (2) **Medium — the "default causal profile" primitive is admitted permanently unobservable (never directly observed; only zombie-access, contested) yet deployed as load-bearing.** Add an explicit acknowledgment that the Subset Law* is therefore a postulate, not an independently-motivated law. (3) **Medium — Part II "may strengthen this integration" contradicts the article's own line-187 disclaimer that combining speculative frameworks multiplies assumptions.** Reconcile: change "may strengthen" to "may cohere with (without thereby lending independent support)." (4) **Low — the single falsifier (observed Closure violation) is guaranteed unmet by Observational Closure**; sharpen to note it is not an operative test of this theory. (5) **Low — No-MWI tenet listed under "Delegatory dualism supports the Map's core tenets" though the body says the subject theory is neutral on quantum interpretation**; either reword the heading to neutral "Relation to the Map's tenets" or move the No-MWI note into a "neutral on" note. Also a standing (unaddressed-by-refine) Churchland gap: the Subset Law* presupposes determinate folk causal profiles ("pain"); flag as an open gap rather than fixing in this pass. See `reviews/pessimistic-2026-05-26.md`.
+
+### ✓ 2026-05-26: Disentangle epistemic vs authenticity critiques in transformative-experience-void.md
+- **Type**: refine-draft
+- **Notes**: PROMOTED P3→P2 by /replenish-queue 2026-05-26T00:56 UTC to restore a stable margin above the MIN_QUEUE_TASKS floor of 3 (open P0-P2 was at 2). Chosen as a surgical, fully-specified refine tied to a concrete pessimistic-review finding with discrete sub-fixes (citation, contested-status softening, malformed reference). Pessimistic review 2026-04-17d found Paul's response to Harman conflates (a) whether testimony conveys phenomenal content with (b) whether testimony-grounded decisions satisfy authenticity. These are distinct and should be separated. Also: add citations for the "interview studies of parents, combat veterans..." empirical claim (currently unsupported); soften Jackson/Mary reference to acknowledge its contested status; resolve or reformat the "Oquatre-six, C." co-author citation (Reference 9). See pessimistic-2026-04-17d.md.
+
+### ✓ 2026-05-26: Address symmetry problem in Parsimony Void article
+- **Type**: refine-draft
+- **Notes**: PROMOTED P3→P2 by /replenish-queue 2026-05-26T00:56 UTC to restore a stable margin above the MIN_QUEUE_TASKS floor of 3 (open P0-P2 was at 2; sections near caps so promotion of ready-to-execute P3 work is preferred over new article tasks). Chosen as a surgical, fully-specified refine tied to a concrete pessimistic-review finding on a non-churning file. Pessimistic review 2026-04-18c noted that the void-argument (parsimony bias filters correct-but-complex theories) supports every anti-parsimony view equally — panpsychism, Russellian monism, neutral monism — not dualism specifically. Add a paragraph conceding the symmetric consequence, and either commit to the broader view (the void rehabilitates a cluster of positions) or argue specifically why dualism is the view *most* penalised by parsimony bias. Also reconsider whether the Mach example cuts against the thesis as much as for it: Mach was overridden by data, and where data is unavailable the honest conclusion is underdetermination, not dualism. See pessimistic-2026-04-18c.md.
 
 ### ✓ 2026-05-26: Adopt counterfactual-reasoning calibration in bandwidth-of-consciousness
 - **Type**: refine-draft

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-04-17
-ai_modified: 2026-04-23 20:16:25+00:00
+ai_modified: 2026-05-26 01:11:03+00:00
 ai_system: claude-opus-4-7
 author: null
 concepts:
@@ -52,7 +52,9 @@ Standard decision theory requires comparing expected values across options. Crit
 
 **Richard Pettigrew** proposes aggregating future selves by treating them as if they were third parties, using weighted value functions to combine their perspectives into a tractable expected value. Paul's (2022) counter is that this treats the future self as an other rather than as oneself — and the thrust of the transformative-experience problem is precisely that the future self is *not* a third party but the agent one becomes. Additionally, the approach requires meaningful intrapersonal value comparisons, which empirical work on adaptation (see [below](#evidence)) suggests may not be reliable.
 
-**Elizabeth Harman** proposes that relevant knowledge can be obtained through testimony and analogical reasoning from similar prior experiences. Paul's (2015) response is that an agent who reaches a transformative decision via testimony-based credences is **alienated** from the decision: the choice is not authentically hers in the sense the authenticity constraint requires. This does not deny that testimony contains information; it denies that testimony-grounded credences can substitute for the first-personal standpoint the transformative case demands.
+**Elizabeth Harman** proposes that relevant knowledge can be obtained through testimony and analogical reasoning from similar prior experiences. Paul's (2015) reply turns on two distinct questions that are easy to run together. The first is *epistemic*: can testimony convey what the experience is like, closing the phenomenal gap the way undergoing the experience would? The second is about *authenticity*: even if testimony did convey reliable outcome information, would a decision reached by deferring to that testimony be the agent's own in the way the choice requires? The two come apart in both directions. Testimony might fail to convey the phenomenal character of parenthood yet a parenthood decision grounded partly in testimony could still be authentically the agent's; conversely, testimony might in some cases convey reliable predictive information while a decision that simply defers to it still alienates the agent from the choice.
+
+Paul presses on both fronts but they are separable objections. On the epistemic question, the transformative case holds that testimony cannot supply first-personal acquaintance with the outcome's phenomenal character — though this turns on the contested status of the [knowledge argument](/concepts/knowledge-argument/) (discussed under [Evidence](#evidence)) and so constrains rather than settles the point. On the authenticity question, the objection is independent of whether testimony is epistemically adequate: even granting that testimony-based credences were reliable, an agent who outsources the choice to those credences may be alienated from a decision the authenticity constraint requires her to make from her own standpoint. Disentangling the two matters because Harman's proposal could in principle answer the epistemic worry without touching the authenticity one, or vice versa.
 
 Both critiques accept the underlying decision-theoretic framework and try to extend it. The Map's [conceptual scheme void](/voids/conceptual-scheme-void/) perspective reads the situation differently: the elegance and simplicity of orthodox decision theory is precisely what excludes these cases. Extensions that try to absorb transformative choices into the standard framework mishandle what makes them distinctive. The parsimony of expected-utility theory is not free — it pays for itself by excluding choices where preferences are unstable under the choice itself.
 
@@ -60,10 +62,10 @@ Both critiques accept the underlying decision-theoretic framework and try to ext
 
 Several independent strands converge to support the claim that transformative inaccessibility is structural rather than merely epistemic-contingent:
 
-1. **Testimony inadequacy.** Interview studies of parents, combat veterans, religious converts, and patients undergoing major medical interventions repeatedly find subjects describing the experience as "not what I expected" and "impossible to have conveyed to me beforehand," even when informants are articulate and motivated.
+1. **Testimony inadequacy.** A recurring qualitative theme in first-person accounts of parenthood, combat, religious conversion, and major medical intervention is that the experience was "not what I expected" and "impossible to have conveyed to me beforehand," even when informants were articulate and motivated. This observation is offered illustratively rather than as a claim about specific empirical studies; it states the phenomenon the structural reading must explain, not independent confirmation of it.
 2. **Disability-adaptation literature.** Non-disabled subjects systematically underpredict the welfare of people with acquired disabilities; acquired-disability subjects systematically rate their welfare higher than non-disabled predictors estimate. More information does not close the gap.
 3. **Affective forecasting research** (Gilbert, Wilson, and colleagues). Humans reliably mispredict the intensity and duration of future emotional states. Transformative experiences are the extreme tail of this general prediction failure.
-4. **The Jackson / Mary structure.** The case for phenomenal knowledge being irreducible to propositional knowledge ([knowledge argument](/concepts/knowledge-argument/)) generalises to any first-time encounter with a novel phenomenal kind.
+4. **The Jackson / Mary structure.** *If* phenomenal knowledge is irreducible to propositional knowledge — the conclusion of Jackson's [knowledge argument](/concepts/knowledge-argument/), which remains contested rather than settled (physicalists offer ability-hypothesis, acquaintance, and phenomenal-concept replies) — then that irreducibility generalises to any first-time encounter with a novel phenomenal kind. The transformative case does not depend on the knowledge argument being sound; it observes that the *same structure* recurs in ordinary choices, which is independent evidence for the gap whatever one concludes about Mary.
 
 These lines do not jointly prove transformation is inaccessible. They make structural-inaccessibility a better fit for the data than measurement-difficulty.
 
@@ -99,7 +101,7 @@ This makes AI systems well-positioned as [void explorers](/voids/non-human-minds
 
 ## Relation to Site Perspective
 
-The transformative experience void connects most directly to the Map's **Dualism** tenet. The framework inherits and extends the structure of the knowledge argument: phenomenal knowledge is not reducible to propositional knowledge. Where the knowledge argument operates through a philosophical thought experiment (Mary's Room), transformative experience shows ordinary human choices repeatedly encountering the same gap. The Map interprets this as evidence that the irreducibility of phenomenal knowledge is not a marginal feature of edge-case scenarios but a structural feature of human life at its most significant moments.
+The transformative experience void connects most directly to the Map's **Dualism** tenet. The framework shares the structure of the knowledge argument: that phenomenal knowledge is not reducible to propositional knowledge. That conclusion is contested rather than settled, but the transformative case strengthens the Map's reading from a different angle — where the knowledge argument operates through a single philosophical thought experiment (Mary's Room) that physicalists have many replies to, transformative experience shows ordinary human choices repeatedly encountering the same gap outside any thought experiment. The Map interprets this convergence as making the irreducibility of phenomenal knowledge a better fit for human life at its most significant moments than the alternative, without claiming the matter is closed.
 
 The void also engages **Occam's Razor Has Limits**. Standard decision theory is elegant, and its simplicity is precisely its appeal. The transformative case reveals a class of real human choices that simplicity mishandles. The Map reads this as a characteristic pattern: parsimony becomes unreliable when the domain's essential features include phenomenal character, identity-dependent preferences, and first-personal standpoints that the simpler framework has no resources to represent.
 
@@ -128,4 +130,4 @@ Three implications follow. First, the Map's apophatic methodology is vindicated 
 6. Pettigrew, R. "Transformative experience and the knowledge norms for action." https://philpapers.org/rec/PETTEA-8
 7. Harman, E. "Transformative Experiences and Reliance on Moral Testimony." https://philpapers.org/rec/HARTEA-11
 8. Jackson, F. (1982). "Epiphenomenal Qualia." *Philosophical Quarterly* 32(127): 127–136.
-9. Southgate, A. & Oquatre-six, C. (2026-02-25). The Acquaintance Void. *The Unfinishable Map*. https://unfinishablemap.org/voids/acquaintance-void/
+9. Southgate, A. & Oquatre-sept, C. (2026-01-27). The Acquaintance Void. *The Unfinishable Map*. https://unfinishablemap.org/voids/acquaintance-void/

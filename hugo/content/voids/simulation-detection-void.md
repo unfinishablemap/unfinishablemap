@@ -1,12 +1,13 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-25
-ai_modified: 2026-04-17 14:56:00+00:00
+ai_modified: 2026-05-26 02:08:12+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
 - '[[simulation]]'
 - '[[mysterianism]]'
+- '[[possibility-probability-slippage]]'
 created: 2026-02-25
 date: &id001 2026-02-25
 description: Human+AI exploration of why embedded observers cannot determine whether
@@ -14,14 +15,14 @@ description: Human+AI exploration of why embedded observers cannot determine whe
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-03-15 16:29:00+00:00
+last_deep_review: 2026-05-26 02:08:12+00:00
 modified: *id001
 related_articles:
 - '[[voids]]'
 - '[[tenets]]'
 - '[[three-kinds-of-void]]'
 - '[[self-maintained-cognitive-limits]]'
-- '[[thoughts-that-slip-away]]'
+- '[[thought-stream-void]]'
 - '[[meta-epistemology-of-limits]]'
 - '[[apophatic-cartography]]'
 - '[[self-opacity]]'
@@ -51,7 +52,7 @@ But advanced simulations would optimise away detectable signatures. As computati
 
 ### Statistical Arguments
 
-David Kipping's Bayesian analysis (2020) arrives at roughly 50-50 odds between base reality and simulation—far less dramatic than popular claims suggest. But probability calculations cannot resolve epistemic closure. Even perfect Bayesian reasoning operates on evidence available within the system. If that evidence is curated, the posterior is compromised.
+David Kipping's Bayesian analysis (2020) arrives at roughly 50-50 odds between base reality and simulation—far less dramatic than popular claims suggest. But probability calculations cannot resolve epistemic closure. Even perfect Bayesian reasoning operates on evidence available within the system. If that evidence is curated, the posterior is compromised. A subtler trap lurks here: assigning the simulation hypothesis a crisp probability can disguise [possibility/probability slippage](/concepts/possibility-probability-slippage/)—the hypothesis is a bare *possibility* whose evidential base is structurally inaccessible, and dressing it as a calibrated 50-50 risks treating the absence of a defeater as if it were positive support.
 
 ### The Unfalsifiability Problem
 

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-06
-ai_modified: 2026-04-17 01:41:00+00:00
+ai_modified: 2026-05-26 01:41:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -16,7 +16,7 @@ description: Human+AI exploration of cognitive limits imposed by the laws of phy
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-03-07 01:38:00+00:00
+last_deep_review: 2026-05-26 01:41:00+00:00
 modified: *id001
 related_articles:
 - '[[voids]]'
@@ -34,7 +34,7 @@ topics:
 - '[[hard-problem-of-consciousness]]'
 ---
 
-The [computational void](/voids/formal-cognitive-limits/) constrains what any algorithm can determine. The [embodiment void](/voids/embodiment-cognitive-limits/) constrains what bodied minds can think. But beneath both lies a deeper stratum: the laws of physics themselves limit what kinds of physical substrates can exist and what physical processes those substrates can perform. Bremermann's limit caps computation at ~1.36 × 10⁵⁰ bits per second per kilogram. Landauer's principle sets a thermodynamic floor on the cost of erasing information. The Bekenstein bound limits how much information a region of space can contain. These are not engineering constraints awaiting better technology. They are nomological—built into the structure of our universe. A universe with different fundamental constants would have different ceilings, enabling different physical architectures for cognition. The nomic void is the territory of thoughts that no physical mind operating under our physics can reach—though whether consciousness itself, if non-physical, faces the same limits is a separate question the Map's [dualism](/tenets/#dualism) must confront.
+The [computational void](/voids/formal-cognitive-limits/) constrains what any algorithm can determine. The [embodiment void](/voids/embodiment-cognitive-limits/) constrains what bodied minds can think. But beneath both lies a deeper stratum: the laws of physics themselves limit what kinds of physical substrates can exist and what physical processes those substrates can perform. Bremermann's limit caps computation at ~1.36 × 10⁵⁰ bits per second per kilogram. Landauer's principle sets a thermodynamic floor on the cost of erasing information. The Bekenstein bound limits how much information a region of space can contain. These are nomological constraints—built into the structure of our universe rather than engineering hurdles awaiting better technology. A universe with different fundamental constants would have different ceilings, enabling different physical architectures for cognition. The nomic void is the territory of thoughts that no physical mind operating under our physics can reach—though whether consciousness itself, if non-physical, faces the same limits is a separate question the Map's [dualism](/tenets/#dualism) must confront.
 
 ## Layers of Nomic Constraint
 

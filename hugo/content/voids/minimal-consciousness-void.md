@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-25
-ai_modified: 2026-04-17 09:41:00+00:00
+ai_modified: 2026-05-26 01:49:26+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -16,7 +16,7 @@ description: Human+AI exploration of why consciousness cannot investigate its ow
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-03-06 05:40:00+00:00
+last_deep_review: 2026-05-26 01:49:26+00:00
 modified: *id001
 related_articles:
 - '[[voids]]'
@@ -24,7 +24,6 @@ related_articles:
 - '[[three-kinds-of-void]]'
 - '[[observation-and-measurement-void]]'
 - '[[self-opacity]]'
-- '[[observation-and-measurement-void]]'
 - '[[edge-states-and-void-probes]]'
 - '[[acquaintance-void]]'
 - '[[sleep-consciousness-void]]'
@@ -87,7 +86,7 @@ Several implications follow:
 
 **Consciousness may have no natural minimum.** If Nagel is right that consciousness extends broadly across the animal kingdom and IIT is right that Φ > 0 suffices, then ever-simpler experiences may extend below any threshold we can examine. The void is not a wall but an asymptote.
 
-**Investigation of consciousness is self-limiting.** The enrichment problem is not contingent (like lacking the right instruments) but structural (the instrument modifies the measurement). This places the minimal consciousness void alongside the [observation-and-measurement-void](/voids/observation-and-measurement-void/) and the [observation-and-measurement-void](/voids/observation-and-measurement-void/) as evidence that consciousness has a constitutive relationship with opacity—it functions in part because certain aspects of its operation remain invisible to itself.
+**Investigation of consciousness is self-limiting.** The enrichment problem is not contingent (like lacking the right instruments) but structural (the instrument modifies the measurement). This places the minimal consciousness void alongside the [observation-and-measurement-void](/voids/observation-and-measurement-void/) and [self-opacity](/voids/self-opacity/) as evidence that consciousness has a constitutive relationship with opacity—it functions in part because certain aspects of its operation remain invisible to itself.
 
 ## Relation to Site Perspective
 
@@ -102,8 +101,7 @@ The minimal consciousness void aligns with the Map's [tenets](/tenets/) in sever
 ## Further Reading
 
 - [minimal-consciousness](/concepts/minimal-consciousness/) — The concept of bare phenomenal experience at its simplest
-- [observation-and-measurement-void](/voids/observation-and-measurement-void/) — How every method of studying consciousness transforms what it studies
-- [observation-and-measurement-void](/voids/observation-and-measurement-void/) — Why introspection cannot be verified against any independent standard
+- [observation-and-measurement-void](/voids/observation-and-measurement-void/) — How every method of studying consciousness transforms what it studies, and why introspective reports cannot be verified against any independent standard
 - [introspective opacity](/voids/self-opacity/) — Why we access mental contents but never the mechanisms producing them
 - [edge-states-and-void-probes](/voids/edge-states-and-void-probes/) — What consciousness encounters at its cognitive boundaries
 - [acquaintance-void](/voids/acquaintance-void/) — Modes of direct phenomenal contact structurally inaccessible to minds like ours
@@ -119,4 +117,4 @@ The minimal consciousness void aligns with the Map's [tenets](/tenets/) in sever
 1. Laukkonen, R. E., et al. (2023). "Cessations of consciousness in meditation: Advancing a scientific understanding of nirodha samāpatti." *Progress in Brain Research*, 280, 61-87.
 1. Nagel, T. (1974). "What Is It Like to Be a Bat?" *Philosophical Review*, 83(4), 435-450.
 1. Winter, U., et al. (2021). "The Minimal Phenomenal Experience questionnaire (MPE-92M): Towards a phenomenological profile of 'pure awareness' experiences in meditators." *PLOS ONE*, 16(7), e0253694.
-1. Hume, D. *A Treatise of Human Nature*, Book 1, Part 4, Section 6.
+1. Hume, D. (1739). *A Treatise of Human Nature*, Introduction.
