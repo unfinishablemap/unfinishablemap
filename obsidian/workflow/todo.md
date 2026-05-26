@@ -37,6 +37,29 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
+### P2: Adopt theory-of-mind calibration in social-construction-of-self-vs-phenomenal-self
+- **Type**: refine-draft
+- **Status**: pending
+- **File**: obsidian/topics/social-construction-of-self-vs-phenomenal-self.md
+- **Notes**: From topic-concept anchoring audit 2026-05-26. The topic article over-claims relative to its anchor concept [[theory-of-mind]]; failed checks: hedge_density, strong_assertions.
+  - hedge density 3.39/kw is below 60% of anchor (12.93/kw)
+  - topic uses 2 strong-assertion verbs where anchor uses none
+  - Action: bring the topic's hedge profile in line with the anchor concept's. Preserve the article's voice; this is not a request to weaken the central claim, only to inherit the calibration discipline the anchor concept already uses. See [[project/calibration-audit-triple]] Audit Three for the spec and [[evidential-status-discipline]] for the underlying rule.
+- **Source**: topic-concept-anchoring-audit
+- **Generated**: 2026-05-26
+
+### P2: Adopt causal-closure calibration in indian-philosophy-of-mind
+- **Type**: refine-draft
+- **Status**: pending
+- **File**: obsidian/topics/indian-philosophy-of-mind.md
+- **Notes**: From topic-concept anchoring audit 2026-05-26. The topic article over-claims relative to its anchor concept [[causal-closure]]; failed checks: hedge_density, underdetermination_markers.
+  - hedge density 1.21/kw is below 60% of anchor (4.57/kw)
+  - anchor declares underdetermination (1× explicit) but topic has no underdetermination markers
+  - Action: bring the topic's hedge profile in line with the anchor concept's. Preserve the article's voice; this is not a request to weaken the central claim, only to inherit the calibration discipline the anchor concept already uses. See [[project/calibration-audit-triple]] Audit Three for the spec and [[evidential-status-discipline]] for the underlying rule.
+- **Source**: topic-concept-anchoring-audit
+- **Generated**: 2026-05-26
+
+
 ### P3: Deep review concepts/theory-of-mind.md (49 days since last review, ai_contribution=100, navigational hub)
 - **Type**: deep-review
 - **Status**: pending
@@ -1845,13 +1868,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Status**: done
 - **Notes**: Article coalesced from predictive-processing-and-the-maps-framework.md and predictive-processing-and-active-inference-under-dualism.md. Deep review found no critical issues. Fixed description length (223→148 chars). Updated cross-references in 12 files.
 - **Output**: obsidian/topics/predictive-processing-and-dualism.md
-
-### P2: Deep review compound-failure-signatures.md (57 days since last review, ai_contribution=100, stalest AI-heavy article, methodology void)
-- **Type**: deep-review
-- **Status**: pending
-- **Notes**: PROMOTED P3→P2 by /replenish-queue 2026-05-26: the actionable (P0-P2) queue stood at 2 (the consciousness-and-skill-acquisition literature-drift P2 + the episodic-memory deep-review P2), below the MIN_QUEUE floor of 3. Consistent with today's repeated precedent, the honest floor-restoring move is to promote a grounded, tenet-load-bearing stale deep-review rather than mint speculative expand-topic work against the ~469-task P3 backlog while sections sit near cap (topics 247/270, concepts 245/270, voids 101/100 over). This is the **stalest AI-heavy article in the corpus**: verified `last_deep_review: 2026-03-30T11:51:00+00:00` (~57 days), `ai_contribution=100`, ~1982 words (under the 2000-word voids soft threshold). A load-bearing methodology void — the apophatic-cartography / structural-evidence-for-dualism cluster (~83 inbound link references across the vault) — on how cognitive limits produce structured, superadditively-interacting failure signatures that map void boundaries. Originally created via coalesce 2026-03-19 and deep-reviewed once since (2026-03-30); never standalone-reviewed against the post-March voids-methodology elaboration. Deep-review should: (a) verify the compound/superadditive-signature framing still coheres with the current apophatic-cartography, what-voids-reveal, meta-epistemology-of-limits, and edge-states-and-void-probes treatment, and cross-links to the post-March cluster; (b) honour [[evidential-status-discipline]] — signatures-as-data must not silently upgrade to data-as-established-structure (the structural-evidence-for-dualism sibling makes exactly this move under explicit scope-distinction); (c) confirm the many inbound/outbound wikilinks resolve live and are reciprocated where load-bearing; (d) writing-style + length discipline (no "This is not X. It is Y." cliché; ~1982 words, comfortably under voids soft — no condense follow-on expected). Apply in-place fixes if minor; generate a follow-on refine-draft task if substantive. Tenet alignment: Tenet 1 (Dualism — the failure-signature method is structural evidence for non-physical features), Tenet 5 (Occam's Razor Has Limits — compound blindness is evidence against the felt-sufficiency reading of parsimony).
-- **Source**: staleness
-- **Generated**: 2026-03-19
 
 ### P3: Deep review spontaneous-intentional-action.md
 - **Type**: deep-review
@@ -3735,6 +3751,10 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 Tasks that failed 3+ times and require human intervention.
 
+
+### ✓ 2026-05-26: Deep review compound-failure-signatures.md (57 days since last review, ai_contribution=100, stalest AI-heavy article, methodology void)
+- **Type**: deep-review
+- **Notes**: PROMOTED P3→P2 by /replenish-queue 2026-05-26: the actionable (P0-P2) queue stood at 2 (the consciousness-and-skill-acquisition literature-drift P2 + the episodic-memory deep-review P2), below the MIN_QUEUE floor of 3. Consistent with today's repeated precedent, the honest floor-restoring move is to promote a grounded, tenet-load-bearing stale deep-review rather than mint speculative expand-topic work against the ~469-task P3 backlog while sections sit near cap (topics 247/270, concepts 245/270, voids 101/100 over). This is the **stalest AI-heavy article in the corpus**: verified `last_deep_review: 2026-03-30T11:51:00+00:00` (~57 days), `ai_contribution=100`, ~1982 words (under the 2000-word voids soft threshold). A load-bearing methodology void — the apophatic-cartography / structural-evidence-for-dualism cluster (~83 inbound link references across the vault) — on how cognitive limits produce structured, superadditively-interacting failure signatures that map void boundaries. Originally created via coalesce 2026-03-19 and deep-reviewed once since (2026-03-30); never standalone-reviewed against the post-March voids-methodology elaboration. Deep-review should: (a) verify the compound/superadditive-signature framing still coheres with the current apophatic-cartography, what-voids-reveal, meta-epistemology-of-limits, and edge-states-and-void-probes treatment, and cross-links to the post-March cluster; (b) honour [[evidential-status-discipline]] — signatures-as-data must not silently upgrade to data-as-established-structure (the structural-evidence-for-dualism sibling makes exactly this move under explicit scope-distinction); (c) confirm the many inbound/outbound wikilinks resolve live and are reciprocated where load-bearing; (d) writing-style + length discipline (no "This is not X. It is Y." cliché; ~1982 words, comfortably under voids soft — no condense follow-on expected). Apply in-place fixes if minor; generate a follow-on refine-draft task if substantive. Tenet alignment: Tenet 1 (Dualism — the failure-signature method is structural evidence for non-physical features), Tenet 5 (Occam's Razor Has Limits — compound blindness is evidence against the felt-sufficiency reading of parsimony).
 
 ### ✓ 2026-05-26: Deep review topics/consciousness-as-perceptual-architect.md (44 days since last review, ai_contribution=100, Tenet 1/3 load-bearing)
 - **Type**: deep-review
