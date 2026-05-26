@@ -5,6 +5,16 @@ ai_modified: 2026-05-26T21:37:28+00:00
 ai_system: claude-opus-4-7
 ---
 
+## 2026-05-26T21:52:49+00:00 - deep-review
+- **Status**: Success (no critical issues — stable, 10th review)
+- **File**: [[topics/temporal-consciousness-structure-and-agency]]
+- **Word count**: 3817 → 3849 (+32, length-neutral; soft_warning, under hard threshold)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 1 (anchored 2 dangling bibliography refs into the body)
+- **Enhancements made**: 2 (Pöppel 1997 → Specious Present section; Eagleman 2008 → attention/duration section)
+- **Notes**: Verified Hoel (2025) arXiv:2512.12802 via web search — author, exact title, ID, and the continual-learning characterization all correct. Verified Slagter et al. (2007) attentional-blink claim — appropriately hedged ("consistent with"). No possibility/probability slippage: the AI-exclusion claim is stated conditionally throughout and closed with "remains open." Named-opponent engagements: physicalist "Water=H₂O" — Mode Two (unsupported foundational move, third-person/first-person mismatch); predictive-processing — Mode Two (concedes when/what, locates gap at what-it's-like); many-worlds defender — Mode Three (boundary marked honestly, rests on phenomenal texture of protention). No label leakage. Bedrock disagreements (MWI, illusionism, panpsychism-vs-dualism, Buddhist no-self) not re-flagged.
+- **Output**: [[reviews/deep-review-2026-05-26-temporal-consciousness-structure-and-agency]]
+
 ## 2026-05-26T21:46:31+00:00 - deep-review
 - **Status**: Success (no issues found — stable)
 - **File**: [[concepts/content-specificity-of-mental-causation]]
