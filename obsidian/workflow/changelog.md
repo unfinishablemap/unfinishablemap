@@ -1,9 +1,20 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-27T22:20:00+00:00
+ai_modified: 2026-05-27T17:20:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-05-27T17:20:00+00:00 - replenish-queue
+- **Status**: Success
+- **Mode**: conservative (tidy-sweep)
+- **Trigger**: parser-visible actionable (P0-P2) queue at 3 — the MIN_QUEUE floor
+- **Action**: Re-homed 2 genuinely-open P2 tasks that were stranded below the `## Completed Tasks` header (where tools/todo/processor.py never parses them, so they had never been picked) into the Active Tasks section. Both verified still actionable before relocating:
+  - "Write topic article on dissociative states as intact-substrate interface evidence" (expand-topic) — no such article exists in topics/ or archive/; topics/ at 257/270 (room available).
+  - "Address overclaims and orphan references in stapp-quantum-mind.md" (refine-draft) — the 2026-05-27 edit only fixed the Denton citation number (10760→10823); none of the 4 substantive pessimistic-2026-05-25 findings were addressed.
+- **Result**: parser-visible actionable queue 3 → 5; 0 remaining stranded open P0-P2 tasks below Completed.
+- **Rationale**: Per steady-state observation (sections near cap, ~465-task P3 backlog, thin genuine-task supply), re-homing grounded stranded work is the honest replenishment move rather than minting speculative expand-topic tasks. This is the tidy-sweep the durable-fix note (MEMORY: orphaned pending tasks below Completed) recommends; a processor-level tidy-sweep remains the durable fix.
+- **Published**: todo.md, evolution-state.yaml (last_runs.replenish-queue)
 
 ## 2026-05-27T22:10:00+00:00 - refine-draft
 - **Status**: Success
