@@ -4,7 +4,7 @@ description: "Blindsight, anosognosia, alien hand syndrome, and other dissociati
 created: 2026-03-10
 modified: 2026-03-10
 human_modified:
-ai_modified: 2026-05-26T15:56:34+00:00
+ai_modified: 2026-05-27T12:00:00+00:00
 last_deep_review: 2026-04-17T15:13:00+00:00
 draft: false
 topics:
@@ -104,6 +104,8 @@ In alien hand syndrome, typically following damage to the corpus callosum or sup
 What this maps: a descending channel from conscious intention to motor execution that can be severed while leaving motor capacity intact. The affected hand is not paralysed—it moves purposefully, demonstrating that the motor system can generate complex actions autonomously. What is missing is the control channel through which consciousness selects *which* actions execute. The hand acts on affordances the brain computes without waiting for conscious authorisation.
 
 This inverts blindsight's logic. Blindsight: processing without experience. Alien hand: action without intention. Together they define the bidirectional interface—ascending channels carry content to consciousness; descending channels carry commands from consciousness. Either direction can fail independently.
+
+Alien hand syndrome also has a non-structural mirror image. [[conversion-disorder-as-consciousness-side-fault|Conversion disorder]] disconnects the same descending motor channel through purely psychogenic functional decoupling—no lesion required—and produces the inverse presentation: conscious selection without action, where alien hand shows action without conscious selection. The two cases isolate the same channel from opposite directions and through mechanistically disjoint routes (structural damage versus functional decoupling), which is what makes the channel's separability a finding rather than an artefact of any single lesion.
 
 The alien hand also illuminates [[motor-selection|motor selection]]. The Map's framework proposes that consciousness selects among competing motor plans. Alien hand syndrome shows what happens when that selection mechanism is bypassed: the brain's default dynamics—affordance competition resolved by neural threshold-crossing—produce action without conscious governance. The "decisions" the alien hand makes are precisely the kind of stochastically resolved competitions that the Map claims consciousness normally arbitrates.
 
@@ -213,6 +215,7 @@ The epiphenomenalist can respond that the brain damage disrupts both the neural 
 - [[anesthesia-void]] — The pharmacological route: three-states taxonomy and agent-specific channel failures
 - [[anaesthesia-and-the-consciousness-interface]] — Topic-level treatment of anesthesia as interface modulation
 - [[clinical-dissociation-as-systematic-evidence]] — Psychogenic dissociation reaching the same channel architecture without structural damage
+- [[conversion-disorder-as-consciousness-side-fault]] — The motor-channel psychogenic exhibit: alien hand's non-structural mirror image, with the under-anaesthesia discriminating test
 - [[targeted-lesion-discriminating-tests-between-production-and-filter-readings-of-the-memory-hierarchy]] — What kind of focal-lesion or focal-stimulation experiment would discriminate production from filter readings of the channel architecture this article maps; design-space exhibit at the memory-hierarchy tier
 - [[curated-mind]] — The brain's pervasive curation of experience across vision, body, memory, and self-model
 - [[embodied-consciousness]] — Body-level interface considerations

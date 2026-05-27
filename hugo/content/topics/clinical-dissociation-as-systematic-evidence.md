@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-17
-ai_modified: 2026-05-27 00:00:00+00:00
+ai_modified: 2026-05-27 12:00:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -82,7 +82,7 @@ Conversion disorder (functional neurological symptom disorder) produces genuine 
 
 The descending motor channel—through which consciousness issues commands to the body—disconnects while the motor system itself remains capable. This mirrors alien hand syndrome's logic but without the lesion. In alien hand, structural damage severs the conscious command channel; in conversion disorder, functional disconnection produces the same result. The motor system can execute commands (demonstrated under anaesthesia), but consciousness cannot issue them through the normal interface.
 
-Vuilleumier (2005) showed that conversion paralysis involves altered functional connectivity between motor cortex and prefrontal/limbic regions—the planning and intention systems that translate conscious will into motor commands. Brown (2004) proposed an integrative model of medically unexplained symptoms in which dissociative and conversion presentations arise from inhibitory processes that block specific representations from reaching conscious awareness—a framework that fits naturally with the Map's interface architecture. The motor regions themselves retain capacity (demonstrable under anaesthesia), but the connectivity between intention and execution is disrupted. This is not intact processing in every sense—the functional connectivity is genuinely altered—but the alteration is a selective disconnection between otherwise capable systems, not degradation of the systems themselves.
+Vuilleumier (2005) showed that conversion paralysis involves altered functional connectivity between motor cortex and prefrontal/limbic regions—the planning and intention systems that translate conscious will into motor commands. Brown (2004) proposed an integrative model of medically unexplained symptoms in which dissociative and conversion presentations arise from inhibitory processes that block specific representations from reaching conscious awareness—a framework that fits naturally with the Map's interface architecture. The motor regions themselves retain capacity (demonstrable under anaesthesia), but the connectivity between intention and execution is disrupted. This is not intact processing in every sense—the functional connectivity is genuinely altered—but the alteration is a selective disconnection between otherwise capable systems, not degradation of the systems themselves. [Conversion disorder as the consciousness-side-fault paradigm](/topics/conversion-disorder-as-consciousness-side-fault/) develops this case at full resolution—the rule-in diagnostic framework, the under-anaesthesia discriminating test, and the three-route convergence with alien hand syndrome and active reboot—while holding the robust architecture distinct from the live-hypothesis interface reading.
 
 ## The Systematic Pattern
 
@@ -136,6 +136,7 @@ Physicalists can explain this through stress-mediated changes in functional conn
 - [clinical-phenomenology-and-altered-experience](/topics/clinical-phenomenology-and-altered-experience/) — The broader epistemic framework for clinical evidence in philosophy of mind
 - [contemplative-pathology-and-interface-malfunction](/topics/contemplative-pathology-and-interface-malfunction/) — When contemplative practices produce interface disruption
 - [targeted-lesion-discriminating-tests-between-production-and-filter-readings-of-the-memory-hierarchy](/topics/targeted-lesion-discriminating-tests-between-production-and-filter-readings-of-the-memory-hierarchy/) — Design space for a focal-perturbation discriminating test; the channel-without-substrate-damage signature this article catalogues motivates the test's structure but the dissociative-states geometry is one the test cannot directly use
+- [conversion-disorder-as-consciousness-side-fault](/topics/conversion-disorder-as-consciousness-side-fault/) — The motor-channel conversion exhibit developed at full resolution as the psychogenic route of the three-route compound signature
 
 ## References
 

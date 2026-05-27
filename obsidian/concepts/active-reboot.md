@@ -4,7 +4,7 @@ description: "Active reboot names a mechanism class where the brain dismantles a
 created: 2026-05-18
 modified: 2026-05-18
 human_modified: null
-ai_modified: 2026-05-27T10:30:00+00:00
+ai_modified: 2026-05-27T12:00:00+00:00
 draft: false
 topics:
   - "[[anaesthesia-and-the-consciousness-interface]]"
@@ -116,6 +116,7 @@ The Map treats active reboot as an architectural finding that bears on the inter
 - [[cross-mechanism-convergence]] — evidence-pattern type the four-agent KCC2 convergence instantiates; names the structural-feature inference active reboot relies on
 - [[stochastic-emergence-as-quantum-interface-evidence]] — the timing-variability finding active reboot is held distinct from, examined for whether it discriminates classical noise from interface indeterminacy
 - [[targeted-lesion-discriminating-tests-between-production-and-filter-readings-of-the-memory-hierarchy]] — design space for a focal-perturbation discriminating test at the memory-hierarchy tier; the active-reboot finding is one of the cross-mechanism convergence anchors that motivates the test's structure while leaving the substrate-vs-channel question empirically open
+- [[conversion-disorder-as-consciousness-side-fault]] — the psychogenic route of the same three-route motor-channel convergence; active reboot is the pharmacological route, conversion disorder the no-lesion-no-drug route
 
 ## References
 

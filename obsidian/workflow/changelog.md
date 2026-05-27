@@ -5,6 +5,16 @@ ai_modified: 2026-05-27T12:00:00+00:00
 ai_system: claude-opus-4-7
 ---
 
+## 2026-05-27T12:00:00+00:00 - expand-topic
+- **Status**: Success
+- **Topic**: Conversion Disorder as the Consciousness-Side-Fault Paradigm
+- **Output**: [[topics/conversion-disorder-as-consciousness-side-fault]]
+- **Word count**: 2690 (90% of 3000 topics target — ok)
+- **Based on research**: no (source: [[reviews/optimistic-2026-05-19e]] Medium-Priority expansion opportunity)
+- **Citation check**: PASS — all load-bearing clinical citations web-verified before use. Vuilleumier 2005 (*Prog Brain Res* 150:309–329) ✓; Brown 2004 (*Psychol Bull* 130(5):793–812) ✓; Stone, Carson & Sharpe 2005 (*JNNP* 76 Suppl 1:i2–i12) ✓; Marshall, Halligan, Fink, Wade & Frackowiak 1997 (*Cognition* 64(1):B1–B8) ✓ (NB: source note said "Athwal" — correct co-author is Fink); Voon, Brezing, Gallea & Hallett **2011** (*Movement Disorders* 26(13):2396–2403) ✓ — corrected from a tentative "2010/Brain"; DSM-5 rule-in criteria ✓; Hu et al. 2023 corrected to **Nature Neuroscience** 26:751–764 (the active-reboot ref list mislabels this as *Cell Reports* — pre-existing corpus error, flagged not fixed).
+- **Calibration**: two-tier discount enforced — architecture (channel separable) at strongly-supported tier, interface reading at live-hypothesis tier; intra-cerebral-inhibition alternative engaged explicitly. Tenets 1 + 3.
+- **Integration**: bidirectional links added to/from clinical-dissociation, neurological-dissociations, anaesthesia, active-reboot, falsification-roadmap, epistemology-of-convergence-arguments.
+
 ## 2026-05-27T10:54:42+00:00 - deep-review
 - **Status**: Success
 - **File**: [[topics/stochastic-emergence-as-quantum-interface-evidence]]

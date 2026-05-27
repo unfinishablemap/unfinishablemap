@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-23
-ai_modified: 2026-05-27 10:30:00+00:00
+ai_modified: 2026-05-27 12:00:00+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -166,6 +166,7 @@ Anaesthetic pharmacology connects to each of the Map's [tenets](/tenets/) in con
 - [quantum-biology-and-neural-consciousness](/topics/quantum-biology-and-neural-consciousness/) — Quantum biology, neural evidence, and the consciousness debate
 - [stochastic-emergence-as-quantum-interface-evidence](/topics/stochastic-emergence-as-quantum-interface-evidence/) — The two-orders-of-magnitude emergence-variability finding at full resolution: classical-stochastic vs quantum-indeterministic readings
 - [pain-consciousness-and-causal-power](/topics/pain-consciousness-and-causal-power/) — Pain's resistance to reduction and the test case of pain asymbolia
+- [conversion-disorder-as-consciousness-side-fault](/topics/conversion-disorder-as-consciousness-side-fault/) — The psychogenic route of the three-route motor-channel convergence; conversion paralysis remits under anaesthesia, making anaesthesia itself the discriminating test that localises the fault away from the motor substrate
 
 ## References
 

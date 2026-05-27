@@ -4,7 +4,7 @@ description: "Anaesthetic pharmacology maps the consciousness-brain interface wi
 created: 2026-02-23
 modified: 2026-05-18
 human_modified:
-ai_modified: 2026-05-27T10:30:00+00:00
+ai_modified: 2026-05-27T12:00:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -163,6 +163,7 @@ Anaesthetic pharmacology connects to each of the Map's [[tenets]] in concrete wa
 - [[quantum-biology-and-neural-consciousness]] — Quantum biology, neural evidence, and the consciousness debate
 - [[stochastic-emergence-as-quantum-interface-evidence]] — The two-orders-of-magnitude emergence-variability finding at full resolution: classical-stochastic vs quantum-indeterministic readings
 - [[pain-consciousness-and-causal-power]] — Pain's resistance to reduction and the test case of pain asymbolia
+- [[conversion-disorder-as-consciousness-side-fault]] — The psychogenic route of the three-route motor-channel convergence; conversion paralysis remits under anaesthesia, making anaesthesia itself the discriminating test that localises the fault away from the motor substrate
 
 ## References
 
