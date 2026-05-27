@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-16
-ai_modified: 2026-05-15 07:31:00+00:00
+ai_modified: 2026-05-27 09:30:00+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -284,7 +284,7 @@ The Map cannot resolve which coupling law is correct—this remains open. What t
 5. Eccles, J.C. (1994). *How the Self Controls Its Brain*. Springer.
 6. Frankish, K. (2016). "Illusionism as a Theory of Consciousness." *Journal of Consciousness Studies* 23(11-12), 11-39.
 7. Georgiev, D.D. (2015). "Monte Carlo simulation of quantum Zeno effect in the brain." *International Journal of Modern Physics B* 29(7), 1550039. arXiv:1412.4741.
-8. Maier, M.A. & Dechamps, M.C. (2018). "Intentional Observer Effects on Quantum Randomness: A Bayesian Analysis Reveals Evidence Against Micro-Psychokinesis." *Frontiers in Psychology* 9, 379.
+8. Maier, M. A., Dechamps, M. C., & Pflitsch, M. (2018). "Intentional Observer Effects on Quantum Randomness: A Bayesian Analysis Reveals Evidence Against Micro-Psychokinesis." *Frontiers in Psychology* 9, 379. doi:10.3389/fpsyg.2018.00379.
 9. Schaffer, J. (2000). "Trumping Preemption." *Journal of Philosophy* 97: 165–181. http://www.jonathanschaffer.org/trumping.pdf
 10. Schaffer, J. "Naturalistic Dualism and the Problem of the Physical Correlate." http://www.jonathanschaffer.org/dualismcorrelate.pdf
 11. Schwartz, J.M. et al. (1996). "Systematic changes in cerebral glucose metabolic rate after successful behavior modification treatment of obsessive-compulsive disorder." *Archives of General Psychiatry* 53(2), 109-113.

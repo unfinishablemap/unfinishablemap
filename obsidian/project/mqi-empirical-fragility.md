@@ -4,7 +4,7 @@ description: "The Minimal Quantum Interaction tenet depends on a physics gap tha
 created: 2026-05-13
 modified: 2026-05-13
 human_modified: null
-ai_modified: 2026-05-15T07:31:00+00:00
+ai_modified: 2026-05-27T00:00:00+00:00
 draft: false
 topics: []
 concepts: []
@@ -120,7 +120,7 @@ The MQI empirical-fragility discipline is documented through the catalogue's own
 
 1. *The Unfinishable Map* tenets page, "Minimal Quantum Interaction" section. The "Empirical risk and the amplification gap" passage is the catalogue's existing acknowledgement that "empirical risk has been concentrated into a narrower band" — the dependence the present discipline articulates as fragility. https://unfinishablemap.org/tenets/
 2. Donadi, S. *et al.* (2021). Underground test of gravity-related wave function collapse. *Nature Physics* 17, 74–78. The Gran Sasso falsification of the parameter-free Diósi-Penrose model — the canonical instance of physics narrowing the gap MQI operates inside without foreclosing the framework's modulation-channel commitment.
-3. Maier, M. A. & Dechamps, M. C. (2018). Hardly anything new under the sun: A meta-analytic study of psi research from 2000 to 2014. *Journal of Parapsychology* 82(1). Preregistered Bayesian evidence against large-signal Born-rule violation; the foreclosure of one MQI reading without foreclosing the corridor reading is the worked example for item 5 of the narrowing-gap inventory.
+3. Maier, M. A., Dechamps, M. C., & Pflitsch, M. (2018). Intentional Observer Effects on Quantum Randomness: A Bayesian Analysis Reveals Evidence Against Micro-Psychokinesis. *Frontiers in Psychology* 9, 379. doi:10.3389/fpsyg.2018.00379. Preregistered Bayesian evidence against large-signal Born-rule violation; the foreclosure of one MQI reading without foreclosing the corridor reading is the worked example for item 5 of the narrowing-gap inventory.
 4. Tegmark, M. (2000). Importance of quantum decoherence in brain processes. *Physical Review E* 61, 4194. The decoherence-time calculation whose dispute with Hameroff's group defines the active site at which item 4 of the narrowing-gap inventory could close.
 5. Zheng, J. & Meister, M. (2024). The Unbearable Slowness of Being: Why do we live at 10 bits/s? *Neuron* 112(24). The bandwidth-constraint Tycho-analogue measurement that constrains MQI's operating regime without resolving its physics-dependence.
 6. Southgate, A. & Oquatre-sept, C. (2026-05-01). Framework-Stage Calibration. *The Unfinishable Map*. https://unfinishablemap.org/project/framework-stage-calibration/

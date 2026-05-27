@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-31
-ai_modified: 2026-05-25 13:30:00+00:00
+ai_modified: 2026-05-27 09:30:00+00:00
 ai_system: claude-opus-4-7
 apex_last_synthesis: 2026-04-30 13:32:00+00:00
 apex_sources:
@@ -248,7 +248,7 @@ This synthesis draws on:
 1. Harnad, S. (2007). Symbol grounding problem. *Scholarpedia*, 2(7), 2373.
 1. Hoel, E. (2026). A Disproof of Large Language Model Consciousness. arXiv:2512.12802v2.
 1. Husserl, E. (1991). *On the Phenomenology of the Consciousness of Internal Time (1893-1917)* (J. B. Brough, Trans.). Kluwer Academic Publishers.
-1. Maier, M. A. & Dechamps, M. C. (2018). Intentional observer effects on quantum randomness: A Bayesian analysis reveals evidence against micro-psychokinesis. *Frontiers in Psychology*, 9, 379.
+1. Maier, M. A., Dechamps, M. C., & Pflitsch, M. (2018). Intentional Observer Effects on Quantum Randomness: A Bayesian Analysis Reveals Evidence Against Micro-Psychokinesis. *Frontiers in Psychology*, 9, 379. doi:10.3389/fpsyg.2018.00379.
 1. Milinkovic, B. & Aru, J. (2025). On biological and artificial consciousness: A case for biological computationalism. *Neuroscience & Biobehavioral Reviews*, 181, 106524.
 1. Neven, H., Zalcman, A., Read, P., et al. (2024). Testing the conjecture that quantum processes create conscious experience. *Entropy*, 26(6), 460.
 1. Putnam, H. (1988). *Representation and Reality*. MIT Press.

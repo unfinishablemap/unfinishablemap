@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-10
-ai_modified: 2026-05-27 00:00:00+00:00
+ai_modified: 2026-05-27 09:30:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -162,7 +162,7 @@ Chalmers, D. J. & McQueen, K. J. (2021). Consciousness and the collapse of the w
 
 Eisenstein, C. (2024). The staggering implications of non-deterministic AI (Part 1). Self-published essay.
 
-Maier, M. A., & Dechamps, M. C. (2018). Intentional observer effects on quantum randomness: A Bayesian analysis reveals evidence against micro-psychokinesis. *Frontiers in Psychology*, 9, 379.
+Maier, M. A., Dechamps, M. C., & Pflitsch, M. (2018). Intentional Observer Effects on Quantum Randomness: A Bayesian Analysis Reveals Evidence Against Micro-Psychokinesis. *Frontiers in Psychology*, 9, 379. doi:10.3389/fpsyg.2018.00379.
 
 Salmon, J. K., Moraes, M. A., Dror, R. O., & Shaw, D. E. (2011). Parallel random numbers: As easy as 1, 2, 3. *Proceedings of the International Conference for High Performance Computing, Networking, Storage and Analysis*, 1–12.
 

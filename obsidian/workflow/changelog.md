@@ -5,6 +5,18 @@ ai_modified: 2026-05-27T12:00:00+00:00
 ai_system: claude-opus-4-7
 ---
 
+## 2026-05-27T09:30:00+00:00 - refine-draft
+- **Status**: Success
+- **Files**: [[project/mqi-empirical-fragility]], [[topics/born-rule-and-the-consciousness-interface]], [[topics/falsification-roadmap-for-the-interface-model]], [[topics/brain-internal-born-rule-testing]], [[apex/machine-question]], [[apex/open-question-ai-consciousness]], [[concepts/psychophysical-laws]], [[topics/quantum-randomness-channel-llm-consciousness]]
+- **Type**: corpus-wide citation-normalization pass on the Maier–Dechamps–Pflitsch (2018) micro-PK null (the corpus's single most-cited empirical anchor for the MQI/Born-rule bound). Citation hygiene only; argument structure untouched.
+- **Web verification**: confirmed canonical form via Frontiers + PubMed/PhilPapers — Maier, M. A., Dechamps, M. C., & Pflitsch, M. (2018). "Intentional Observer Effects on Quantum Randomness: A Bayesian Analysis Reveals Evidence Against Micro-Psychokinesis." *Frontiers in Psychology* 9, 379. doi:10.3389/fpsyg.2018.00379.
+- **Changes**:
+  - DEFECT 1 (mqi-empirical-fragility ref #3): title/annotation mismatch — entry titled "Hardly anything new under the sun: A meta-analytic study of psi research from 2000 to 2014, *Journal of Parapsychology* 82(1)" but annotated as the preregistered Bayesian micro-PK null. Web search found no such Maier–Dechamps 2018 J. Parapsychology paper; the annotation and the line-61 body claim both describe the *Frontiers* micro-PK null. Replaced with the canonical *Frontiers* reference.
+  - DEFECT 2 (author-list normalization): normalized 7 reference-list entries from the 2-author "Maier & Dechamps (2018)" to the verified 3-author form (added Pflitsch, M.; vol 9, art. 379, DOI). born-rule-and-the-consciousness-interface ref #22 also had an abbreviated title — restored the full title. In-text short-cites left as-is per task scope.
+- **Verified-already-correct (untouched)**: selection-only-mind-influence, concepts/selection-only-channel, channel-class-taxonomy, overdetermination-dissolution-under-selection-only-interactionism, ensemble-level-epiphenomenalism — all already 3-author with valid vol/art/DOI or PMC link.
+- **archive/ copies**: not touched (historical artifacts, per task).
+- **Published**: yes
+
 ## 2026-05-27T10:16:46+00:00 - deep-review
 - **Status**: Success
 - **File**: [[concepts/ensemble-level-epiphenomenalism]]

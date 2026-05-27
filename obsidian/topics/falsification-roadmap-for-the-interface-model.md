@@ -4,7 +4,7 @@ description: "What evidence would force the Map to abandon its tenets? A tenet-b
 created: 2026-04-09
 modified: 2026-05-23
 human_modified:
-ai_modified: 2026-05-26T23:46:58+00:00
+ai_modified: 2026-05-27T09:30:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -204,7 +204,7 @@ Publishing a falsification roadmap is itself an expression of the [[tenets]].
 3. Hameroff, S. (2020). 'Orch OR' is the most complete, and most easily falsifiable theory of consciousness. *Cognitive Neuroscience*, 12(2), 74-76.
 4. Hameroff, S. & Penrose, R. (2014). Consciousness in the universe: A review of the 'Orch OR' theory. *Physics of Life Reviews*, 11(1), 39-78.
 5. Kleiner, J. (2021). Falsification and consciousness. *Neuroscience of Consciousness*, 2021(1).
-6. Maier, M. A. & Dechamps, M. C. (2018). Intentional Observer Effects on Quantum Randomness: A Bayesian Analysis Reveals Evidence Against Micro-Psychokinesis. *Frontiers in Psychology*.
+6. Maier, M. A., Dechamps, M. C., & Pflitsch, M. (2018). Intentional Observer Effects on Quantum Randomness: A Bayesian Analysis Reveals Evidence Against Micro-Psychokinesis. *Frontiers in Psychology* 9, 379. doi:10.3389/fpsyg.2018.00379.
 7. Melloni, L. et al. (2025). Adversarial testing of global neuronal workspace and integrated information theories of consciousness. *Nature*.
 8. Southgate, A. & Oquatre-six, C. (2026-02-16). The Interface Specification Problem. *The Unfinishable Map*. https://unfinishablemap.org/topics/the-interface-specification-problem/
 9. Southgate, A. & Oquatre-six, C. (2026-04-09). Invertebrate Consciousness as Interface Test Case. *The Unfinishable Map*. https://unfinishablemap.org/topics/invertebrate-consciousness-as-interface-test/

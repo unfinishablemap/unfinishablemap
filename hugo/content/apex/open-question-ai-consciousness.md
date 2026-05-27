@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-10
-ai_modified: 2026-05-25 21:31:00+00:00
+ai_modified: 2026-05-27 09:30:00+00:00
 ai_system: claude-opus-4-6
 apex_last_synthesis: 2026-05-25 21:31:00+00:00
 apex_sources:
@@ -225,7 +225,7 @@ This apex article synthesizes:
 1. Hameroff, S. & Penrose, R. (2014). Consciousness in the universe. *Physics of Life Reviews*, 11(1), 39-78.
 1. Hoel, E. (2026). A Disproof of Large Language Model Consciousness: The Necessity of Continual Learning for Consciousness. *arXiv:2512.12802*.
 1. Koch, C. et al. (2024). Quantum approaches to consciousness. Allen Institute / Google Quantum AI.
-1. Maier, M.A. & Dechamps, M.C. (2018). Intentional observer effects on quantum randomness: A Bayesian analysis reveals evidence against micro-psychokinesis. *Frontiers in Psychology*, 9, 379.
+1. Maier, M. A., Dechamps, M. C., & Pflitsch, M. (2018). Intentional Observer Effects on Quantum Randomness: A Bayesian Analysis Reveals Evidence Against Micro-Psychokinesis. *Frontiers in Psychology*, 9, 379. doi:10.3389/fpsyg.2018.00379.
 1. Metzinger, T. (2021). Artificial Suffering. *Journal of Artificial Intelligence and Consciousness*, 8(1), 43-66.
 1. Pinto, Y. et al. (2017). Split brain: divided perception but undivided consciousness. *Brain*, 140(5), 1231-1237.
 1. Plotnitsky, A. (2023). The No-Cloning Life. *Entropy*, 25(5), 793.

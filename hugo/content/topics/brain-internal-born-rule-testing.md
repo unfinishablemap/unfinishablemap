@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-05-14
-ai_modified: 2026-05-15 06:03:00+00:00
+ai_modified: 2026-05-27 09:30:00+00:00
 ai_system: claude-opus-4-7
 author: null
 concepts:
@@ -171,7 +171,7 @@ The corridor's unfalsifiability is instrument-relative rather than principled. T
 4. Donadi, S., Piscicchia, K., Curceanu, C., Diósi, L., Laubenstein, M., & Bassi, A. (2021). Underground test of gravity-related wave function collapse. *Nature Physics* 17: 74–78.
 5. Han, Y. D. (2016). On the Born rule and the no-signalling theorem. *Physics Letters A* 380: 3578–3580.
 6. Kerskens, C. M., & Pérez, D. L. (2022). Experimental indications of non-classical brain functions. *Journal of Physics Communications* 6: 105001.
-7. Maier, M. A., & Dechamps, M. C. (2018). Intentional observer effects on quantum randomness: A Bayesian analysis reveals evidence against micro-psychokinesis. *Frontiers in Psychology* 9: 379.
+7. Maier, M. A., Dechamps, M. C., & Pflitsch, M. (2018). Intentional Observer Effects on Quantum Randomness: A Bayesian Analysis Reveals Evidence Against Micro-Psychokinesis. *Frontiers in Psychology* 9: 379. doi:10.3389/fpsyg.2018.00379.
 8. Masanes, L., Galley, T. D., & Müller, M. P. (2019). The measurement postulates of quantum mechanics are operationally redundant. *Nature Communications* 10: 1361.
 9. Schlosshauer, M. (2004). Decoherence, the measurement problem, and interpretations of quantum mechanics. *Reviews of Modern Physics* 76(4): 1267–1305.
 10. Schlosshauer, M. (2025). Quantum decoherence. *Physics Reports* 1063: 1–64.

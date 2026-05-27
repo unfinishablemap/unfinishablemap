@@ -4,7 +4,7 @@ description: "The Born rule resists derivation across every quantum interpretati
 created: 2026-03-15
 modified: 2026-05-23
 human_modified:
-ai_modified: 2026-05-27T09:14:07+00:00
+ai_modified: 2026-05-27T09:30:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -287,7 +287,7 @@ The Map's working position is that the empirical question is genuinely open, pre
 
 21. Landsman, K. (2025). "The Born Rule — 100 Years Ago and Today." arXiv:2502.08545.
 
-22. Maier, M. A. & Dechamps, M. C. (2018). Intentional Observer Effects on Quantum Randomness. *Frontiers in Psychology*.
+22. Maier, M. A., Dechamps, M. C., & Pflitsch, M. (2018). Intentional Observer Effects on Quantum Randomness: A Bayesian Analysis Reveals Evidence Against Micro-Psychokinesis. *Frontiers in Psychology* 9, 379. doi:10.3389/fpsyg.2018.00379.
 
 23. Masanes, L., Galley, T. D. & Müller, M. P. (2019). "The measurement postulates of quantum mechanics are operationally redundant." *Nature Communications* 10: 1361.
 
