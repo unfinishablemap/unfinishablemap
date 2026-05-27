@@ -5,6 +5,14 @@ ai_modified: 2026-05-27T07:59:37+00:00
 ai_system: claude-opus-4-7
 ---
 
+## 2026-05-27T09:00:00+00:00 - condense
+- **Status**: Success
+- **File**: [[concepts/functionalism]]
+- **Before**: 3045
+- **After**: 2930
+- **Reduction**: 3.8%
+- **Technique**: Cut redundancy and hedging — collapsed duplicated concession-convergence qualifications (Putnam + biological-computationalism cases) to a single caveat, removed the hard-problem opening sentence that restated the later "runs in the dark" sufficiency point, tightened verbose prose throughout (opening, Chinese Room, bidirectional/temporal subsections, closing). No unique arguments removed; "Relation to Site Perspective" and all tenet subsections preserved. Article remains 430 over soft target — remaining length is genuinely load-bearing (tenet-central, each section a distinct anti-functionalist line, required subsections), so further cutting would sacrifice unique content.
+
 ## 2026-05-27T08:30:00+00:00 - expand-topic
 - **Status**: Success
 - **Topic**: Essential vs. contingent consciousness of the non-physical aspect

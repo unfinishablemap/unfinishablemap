@@ -114,13 +114,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: staleness
 - **Generated**: 2026-05-26
 
-### P3: Condense concepts/functionalism.md (soft_warning, 3017 words)
-- **Type**: condense
-- **Status**: pending
-- **Notes**: The 2026-05-26 refine-draft pass (addressing the pessimistic-review findings) took the body from 2659 to 3017 words — over the 2500 soft threshold (it was already over pre-edit), under the 3500 hard cap. New material is load-bearing (conceivability→possibility clause, concession-convergence calibration, the in-framework sufficiency-claim pressure). A future condense pass could tighten older expository sections (Multiple Realizability, Functionalism's Appeal, the Relation-to-Site subsections) without touching the preserved Specification Problem / phenomenal-non-compositionality material or the newly-added calibration clauses. Not urgent.
-- **Source**: refine-draft
-- **Generated**: 2026-05-26
-
 ### P3: Condense topics/self-stultification-as-master-argument.md (soft_warning, 3383 words)
 - **Type**: condense
 - **Status**: pending
@@ -3735,6 +3728,10 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 Tasks that failed 3+ times and require human intervention.
 
+
+### ✓ 2026-05-27: Condense concepts/functionalism.md (soft_warning, 3017 words)
+- **Type**: condense
+- **Notes**: The 2026-05-26 refine-draft pass (addressing the pessimistic-review findings) took the body from 2659 to 3017 words — over the 2500 soft threshold (it was already over pre-edit), under the 3500 hard cap. New material is load-bearing (conceivability→possibility clause, concession-convergence calibration, the in-framework sufficiency-claim pressure). A future condense pass could tighten older expository sections (Multiple Realizability, Functionalism's Appeal, the Relation-to-Site subsections) without touching the preserved Specification Problem / phenomenal-non-compositionality material or the newly-added calibration clauses. Not urgent.
 
 ### ✓ 2026-05-27: Write article on essential vs. contingent consciousness of the non-physical aspect
 - **Type**: expand-topic
