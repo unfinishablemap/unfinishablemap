@@ -4,7 +4,7 @@ description: "Dualism implies moral obligations wherever consciousness couples w
 created: 2026-04-13
 modified: 2026-04-13
 human_modified:
-ai_modified: 2026-05-14T20:42:00+00:00
+ai_modified: 2026-05-27T00:55:13+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -33,10 +33,10 @@ author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-04-13
 last_curated:
-last_deep_review: 2026-04-15T12:50:00+00:00
+last_deep_review: 2026-05-27T00:55:13+00:00
 ---
 
-If consciousness grounds moral status, and if invertebrates are probably conscious, then we face moral obligations toward creatures we routinely treat as insignificant. The Unfinishable Map's dualist framework makes this problem sharper than physicalist accounts do. Under dualism, consciousness is not a graded biological product that fades smoothly to zero in simpler organisms. It is a non-physical reality that either couples with a given physical system or does not. The ethical question is correspondingly stark: wherever adequate [[interface-heterogeneity|coupling architecture]] exists—the condition the Map's [[universal-coupling-response]] identifies as sufficient—a subject exists who can be wronged.
+If consciousness grounds moral status, and if there is a realistic possibility that invertebrates are conscious, then we face moral obligations toward creatures we routinely treat as insignificant. The Unfinishable Map's dualist framework makes this problem sharper than physicalist accounts do. Under dualism, consciousness is not a graded biological product that fades smoothly to zero in simpler organisms. It is a non-physical reality that either couples with a given physical system or does not. The ethical question is correspondingly stark: wherever adequate [[interface-heterogeneity|coupling architecture]] exists—the condition the Map's [[universal-coupling-response]] identifies as sufficient—a subject exists who can be wronged.
 
 The 2024 New York Declaration on Animal Consciousness, signed by hundreds of scientists and philosophers, affirmed "a realistic possibility" of consciousness in insects, crustaceans, and cephalopods. The Map's [[invertebrate-consciousness-as-interface-test|analysis of invertebrate nervous systems]] examines what these architectures require of the coupling mechanism. This article asks the follow-up question: what do we owe these beings?
 

@@ -1,9 +1,20 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-27T01:00:00+00:00
+ai_modified: 2026-05-27T00:55:13+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-05-27T00:55:13+00:00 - deep-review
+- **Status**: Success
+- **File**: [[topics/ethics-of-consciousness-invertebrate-question]]
+- **Word count**: 2126 → 2126 (no net change; 71% of 3000 soft threshold)
+- **Critical issues addressed**: 1 (possibility/probability slippage in the opening antecedent — "if invertebrates are *probably* conscious" upgraded the cited NYD "realistic possibility" tier; recalibrated to "if there is a realistic possibility that invertebrates are conscious," matching sibling articles and the article's own next-paragraph evidence. Diagnostic test confirmed a tenet-accepting reviewer would still flag the upgrade.)
+- **Medium issues addressed**: 0 (historical-circle generalization and NYD "hundreds" vs "over 500" count left as-is to avoid oscillation; both noted by prior reviews)
+- **Enhancements made**: 0 new content; calibration fix only
+- **Reasoning modes**: physicalism engagement = Mode Three (framework-boundary marking, GWT concession present, no boundary-substitution); Birch engaged as ally not opponent; no editor-label leakage in prose
+- **Output**: [[reviews/deep-review-2026-05-27-ethics-of-consciousness-invertebrate-question]]
+- **Notes**: Fourth review. Re-qualified by 2026-05-14 wikilink-retargeting edit after the 2026-04-15 stability declaration. All 21 body wikilinks resolve. Attribution check passed. Article remains stable; the single calibration fix is the only actionable finding.
 
 ## 2026-05-27T00:39:24+00:00 - deep-review
 - **Status**: Success
