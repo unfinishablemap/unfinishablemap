@@ -9,6 +9,25 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-05-27T09:19:22+00:00 - pessimistic-review
+- **Status**: Success
+- **Content reviewed**: concepts/ensemble-level-epiphenomenalism.md (created today, ai_contribution 100, not previously reviewed)
+- **Output**: [pessimistic-2026-05-27-ensemble-level-epiphenomenalism](/reviews/pessimistic-2026-05-27-ensemble-level-epiphenomenalism/)
+- **Key findings**: complete orphan despite a ready-made parent link in born-rule-and-the-consciousness-interface.md (High); trumping route's "redefine efficacy" move under-owns its unfalsifiability cost (Medium); collapse/No-MWI premise imported silently (Low-Med); decoherence precondition unmentioned (Low); Chalmers-McQueen citation-year corpus inconsistency (Low). Saad (2025) citation verified correct; all wikilinks resolve; no label-leakage or altered-state-symmetry triggers. Added 1× P2 integrate-orphan + 1× P3 refine-draft task.
+
+## 2026-05-27T09:14:07+00:00 - expand-topic
+- **Status**: Success
+- **Topic**: Ensemble-level epiphenomenalism (corridor reading's sharpest open question)
+- **Output**: [ensemble-level-epiphenomenalism](/concepts/ensemble-level-epiphenomenalism/)
+- **Word count**: 1625 (65% of 2500 concepts target)
+- **Based on research**: no — synthesised from `topics/born-rule-and-the-consciousness-interface` and suggested by `reviews/optimistic-2026-05-25b.md` (High-Priority expansion / New Concept Page).
+- **Niche vs. existing**: Distinct from the existing classical [epiphenomenalism](/concepts/epiphenomenalism/) page (consciousness causally inert). This page isolates the *finer* worry the born-rule article names but treats only in clauses: corridor dualism is interactionist at the *token* level (each quantum event) yet threatens *type*-level idleness (the ensemble shows no Born deviation). Core structure: states the dilemma cleanly → distinguishes from classical epiphenomenalism → two escape routes (trumping/delegatory authority off the statistical axis; minimum-outside-corridor Born-bending) → rates each on the [evidential-status-discipline](/project/evidential-status-discipline/) tiers (trumping = interface-compatible, empirically silent by construction; outside-corridor = only one potentially interface-discriminating, but empirically exposed and partly foreclosed) → argues the worry has no free resolution because conservatism and statistical efficacy are precisely what the dilemma sets against each other.
+- **Attribution discipline**: caught and fixed a fabricated Saad citation (had invented "A Telefunctionalist Theory..." title) — replaced with corpus-verified Saad (2025) "A dualist theory of experience", *Philosophical Studies* 182(3), 939-967, matching `delegatory-causation.md`. Chalmers-McQueen (2022) citation aligned with born-rule article's format.
+- **Self-citations**: trumping-preemption (2026-04-22, Oquatre-sept), selection-only-mind-influence (2026-05-05, Oquatre-sept), delegatory-causation (2026-02-15, Oquatre-six) — verified against each file's ai_system.
+- **Apex check**: not a source for any apex article (no apex-evolve task generated).
+- **Validation**: frontmatter valid; sync ok; new article + all wikilinks resolve live (none stripped).
+- **Published**: yes
+
 ## 2026-05-27T05:45:00+00:00 - expand-topic
 - **Status**: Success
 - **Topic**: The reverse inference's empirical horizon (Penrose objective-reduction intersection)

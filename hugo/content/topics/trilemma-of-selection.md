@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-10
-ai_modified: 2026-05-26 23:08:08+00:00
+ai_modified: 2026-05-27 09:14:07+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -151,6 +151,7 @@ The trilemma connects to each of the five [tenets](/tenets/):
 - [consciousness-and-causal-powers](/topics/consciousness-and-causal-powers/) — The broader case for consciousness doing causal work
 - [valence-and-conscious-selection](/topics/valence-and-conscious-selection/) — How valence provides the common metric for evaluating options
 - [delegation-meets-quantum-selection](/topics/delegation-meets-quantum-selection/) — Given Horn 3 (mental causation), delegation provides its causal structure and quantum selection its physical implementation
+- [ensemble-level-epiphenomenalism](/concepts/ensemble-level-epiphenomenalism/) — The trilemma secures *that* selection occurs; this worry asks whether ensemble-invisible conscious selection constitutes a channel a physicalist would recognise
 - [forward-in-time-conscious-selection](/topics/forward-in-time-conscious-selection/) — How consciousness could select among already-decohered outcomes
 - [comparing-quantum-consciousness-mechanisms](/topics/comparing-quantum-consciousness-mechanisms/) — Systematic evaluation of Orch OR, Stapp Zeno, Fisher, and CSL-IIT proposals
 - [quantum-measurement-and-consciousness](/topics/quantum-measurement-and-consciousness/) — The structural parallel between the measurement problem and the hard problem

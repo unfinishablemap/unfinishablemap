@@ -4,7 +4,7 @@ description: "Consciousness as causally inert byproduct. Self-stultification pro
 created: 2026-01-09
 modified: 2026-05-15
 human_modified: null
-ai_modified: 2026-05-15T00:01:00+00:00
+ai_modified: 2026-05-27T09:14:07+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -32,6 +32,7 @@ related_articles:
   - "[[neurophenomenology-and-contemplative-neuroscience]]"
   - "[[ai-epiphenomenalism]]"
   - "[[the-epiphenomenalist-threat]]"
+  - "[[ensemble-level-epiphenomenalism]]"
   - "[[self-stultification-as-master-argument]]"
   - "[[overdetermination-dissolution-under-selection-only-interactionism]]"
 coalesced_from:
@@ -202,6 +203,7 @@ The self-stultification problem remains the strongest objection: if epiphenomena
 - [[bidirectional-interaction]] — The Map's tenet that consciousness and physics causally influence each other
 - [[self-stultification-as-master-argument]] — How self-stultification generalises beyond epiphenomenalism
 - [[the-epiphenomenalist-threat]] — Why the threat recurs across theories and what it takes to escape it
+- [[ensemble-level-epiphenomenalism]] — A finer, interactionism-internal cousin: per-event selection that averages to the Born rule may be token-efficacious yet type-epiphenomenal
 - [[ai-epiphenomenalism]] — Why AI consciousness, if present, would be architecturally epiphenomenal
 - [[evolutionary-case-for-mental-causation]] — The full evolutionary argument for mental causation
 - [[consciousness-as-amplifier]] — Empirical evidence that consciousness amplifies cognitive capacity

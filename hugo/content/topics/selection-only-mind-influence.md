@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-05-05
-ai_modified: 2026-05-15 03:31:00+00:00
+ai_modified: 2026-05-27 09:14:07+00:00
 ai_system: claude-opus-4-7
 author: null
 concepts:
@@ -118,7 +118,7 @@ The strictest selection-only model is *not* primarily constrained by the energy-
 
 The binding constraint is information-theoretic. The Born rule itself can be derived from relativistic-causality / no-signalling considerations (Han 2016), and "violation of higher sum-rules allows for superluminal signalling". Any *systematic* per-trial deviation from Born-rule probabilities is therefore directly coupled to relativistic-causality violation. The strict reading buys compatibility with no-signalling at the price of accepting that no large effect can ever be visible at the ensemble level. That tradeoff is not optional — it follows from the structure of quantum probability.
 
-This reframes the metaphysical pressure on Tenet 2. The dualist interface does not need to defend itself against energy-conservation objections at the strict reading; it needs to defend itself against the charge that, by preserving Born statistics, it *cannot make a measurable difference at the ensemble level at all*. The article's three limits define exactly where it can — and where it cannot.
+This reframes the metaphysical pressure on Tenet 2. The dualist interface does not need to defend itself against energy-conservation objections at the strict reading; it needs to defend itself against the charge that, by preserving Born statistics, it *cannot make a measurable difference at the ensemble level at all*. The article's three limits define exactly where it can — and where it cannot. That charge, pressed as a dilemma about whether ensemble-invisible single-event selection is a genuine channel rather than a hidden idleness, is [ensemble-level-epiphenomenalism](/concepts/ensemble-level-epiphenomenalism/): the strict reading's signed-per-trial-rate-toward-zero result is precisely the formal teeth behind the worry.
 
 ## Distinguishing Observables
 
@@ -168,6 +168,7 @@ The Map interprets the empirical situation as follows. The vanishing of detectab
 - [amplification-mechanisms-consciousness-physics](/topics/amplification-mechanisms-consciousness-physics/)
 - [possibility-probability-slippage](/concepts/possibility-probability-slippage/)
 - [interface-efficacy-and-the-cognitive-gap](/topics/interface-efficacy-and-the-cognitive-gap/)
+- [ensemble-level-epiphenomenalism](/concepts/ensemble-level-epiphenomenalism/) — Whether the ensemble-invisible selection channel these limits describe constitutes genuine efficacy
 
 ## References
 

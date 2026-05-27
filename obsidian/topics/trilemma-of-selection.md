@@ -4,7 +4,7 @@ description: "At any decision point involving genuine indeterminacy, exactly thr
 created: 2026-03-10
 modified: 2026-03-10
 human_modified:
-ai_modified: 2026-05-26T23:08:08+00:00
+ai_modified: 2026-05-27T09:14:07+00:00
 draft: false
 topics:
   - "[[topics/free-will]]"
@@ -148,6 +148,7 @@ The trilemma connects to each of the five [[tenets]]:
 - [[consciousness-and-causal-powers]] — The broader case for consciousness doing causal work
 - [[valence-and-conscious-selection]] — How valence provides the common metric for evaluating options
 - [[delegation-meets-quantum-selection]] — Given Horn 3 (mental causation), delegation provides its causal structure and quantum selection its physical implementation
+- [[ensemble-level-epiphenomenalism]] — The trilemma secures *that* selection occurs; this worry asks whether ensemble-invisible conscious selection constitutes a channel a physicalist would recognise
 - [[forward-in-time-conscious-selection]] — How consciousness could select among already-decohered outcomes
 - [[comparing-quantum-consciousness-mechanisms]] — Systematic evaluation of Orch OR, Stapp Zeno, Fisher, and CSL-IIT proposals
 - [[quantum-measurement-and-consciousness]] — The structural parallel between the measurement problem and the hard problem

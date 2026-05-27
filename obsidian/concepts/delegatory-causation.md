@@ -4,7 +4,7 @@ description: "Bradford Saad's unified mechanism for mental causation: experience
 created: 2026-02-15
 modified: 2026-04-22
 human_modified: null
-ai_modified: 2026-04-22T20:38:00+00:00
+ai_modified: 2026-05-27T09:14:07+00:00
 last_deep_review: 2026-04-22T20:38:00+00:00
 draft: false
 topics:
@@ -143,7 +143,7 @@ This identification has consequences:
 
 **The counterfactual becomes measurable.** The Born rule is the most precisely confirmed regularity in physics. The default causal profile is no longer merely a philosopher's thought experiment but a physical quantity derivable from the quantum state of the neural system.
 
-**Observational closure follows necessarily.** If consciousness selects *within* Born-rule probabilities rather than deviating from them, the statistical distribution of outcomes is unchanged. Delegation produces no empirical anomalies because the experience causes exactly what the default profile would have produced statistically. The philosophical constraint Saad imposes by design—no observable violations—coincides with the physical constraint the Born rule imposes by necessity. The [[consciousness-physics-interface-formalism]] establishes Born-rule preservation as the first of five non-negotiable constraints on any consciousness-physics coupling; delegation satisfies it structurally.
+**Observational closure follows necessarily.** If consciousness selects *within* Born-rule probabilities rather than deviating from them, the statistical distribution of outcomes is unchanged. Delegation produces no empirical anomalies because the experience causes exactly what the default profile would have produced statistically. The philosophical constraint Saad imposes by design—no observable violations—coincides with the physical constraint the Born rule imposes by necessity. The [[consciousness-physics-interface-formalism]] establishes Born-rule preservation as the first of five non-negotiable constraints on any consciousness-physics coupling; delegation satisfies it structurally. This very coincidence is what generates the sharpest residual worry: if the experience leaves *no* trace at the ensemble level, [[ensemble-level-epiphenomenalism|is it doing causal work or only riding the distribution physics already fixes]]? Delegation's answer is the trumping route—efficacy is a structural property, not a statistical one—rated honestly there as framework-internal rather than empirically demonstrable.
 
 **Profile matching gains precision.** The Subset Law* requires that an experience's causal profile be a subset of the physical state's default profile. On the quantum reading, this means consciousness cannot cause effects the quantum state assigns zero probability. Selection chooses among live options; it does not create options physics forbids. The [[trilemma-of-selection]] establishes why this selection must be conscious: at any point of genuine indeterminacy, determinism, randomness, and mental causation exhaust the options, and only mental causation preserves authorship.
 
@@ -192,6 +192,7 @@ The full development of Saad's theory, including his five constraints on dualist
 - [[causal-closure]] — The principle delegation selectively violates
 - [[observational-closure]] — Why delegation leaves no empirical trace
 - [[epiphenomenalism]] — The alternative delegation rejects
+- [[ensemble-level-epiphenomenalism]] — The finer, type-level version of the worry that ensemble-invisible delegation faces
 - [[skill-delegation]] — The inverse parallel: consciousness delegating to procedural systems
 - [[agent-causation]] — Substance causation as complementary framework for what exercises delegated powers
 - [[psychophysical-laws]] — Chalmers' framework for mind-body laws, related to Saad's Subset Law*

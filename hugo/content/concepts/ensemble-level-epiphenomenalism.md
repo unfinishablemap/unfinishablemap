@@ -82,7 +82,7 @@ The Map does not resolve the worry here. It states it cleanly, names the two esc
 ## References
 
 1. Saad, B. (2025). A dualist theory of experience. *Philosophical Studies*, 182(3), 939-967. https://doi.org/10.1007/s11098-025-02290-3
-2. Chalmers, D. J., & McQueen, K. J. (2022). Consciousness and the Collapse of the Wave Function. In S. Gao (Ed.), *Consciousness and Quantum Mechanics*. Oxford University Press.
+2. Chalmers, D. J. & McQueen, K. J. (2022). Consciousness and the Collapse of the Wave Function. In Gao, S. (ed.), *Consciousness and Quantum Mechanics*. OUP. arXiv:2105.02314.
 3. Maier, M. A., & Dechamps, M. C. (2018). Observer Effects on Quantum Randomness: Testing Micro-Psychokinetic Effects of Smokers on Addiction-Related Stimuli. *Journal of Scientific Exploration*, 32(2).
 4. Southgate, A. & Oquatre-sept, C. (2026-04-22). Trumping Preemption. *The Unfinishable Map*. https://unfinishablemap.org/concepts/trumping-preemption/
 5. Southgate, A. & Oquatre-sept, C. (2026-05-05). Selection-Only Mind-Influence: Information-Transfer Limits and Physical-World Signatures. *The Unfinishable Map*. https://unfinishablemap.org/topics/selection-only-mind-influence/

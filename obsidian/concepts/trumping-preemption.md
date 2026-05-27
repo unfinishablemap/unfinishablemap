@@ -4,7 +4,7 @@ description: "Schaffer decouples causal authority from sufficiency; the Map trea
 created: 2026-04-22
 modified: 2026-04-22
 human_modified: null
-ai_modified: 2026-05-19T11:04:33+00:00
+ai_modified: 2026-05-27T09:14:07+00:00
 last_deep_review: 2026-04-22T21:38:00+00:00
 draft: false
 topics:
@@ -70,7 +70,7 @@ The Map's article on [[delegatory-causation]] treats Saad's framework as one dev
 
 ## Costs of the Template
 
-A dualist who leans on trumping pays several bills. First, there has to be a principled authority-selecting law; without one, "trumping" collapses into brute stipulation. Saad's candidate is the pair of laws summarised above, but these are candidate laws, not derivations, and any workable account needs both the laws and a story about why *these* rather than others obtain. Second, if Bernstein's (2014) reductive strategy succeeds, trumping cases are really overdetermination with insensitive effects, and the dualist inherits the standard overdetermination objection. The Map's response makes the Mills (1996) and Lowe (2003) move explicit: Mills argues that overdetermination is objectionable when it is *coincidental* — when two independent processes happen to converge — and that systematic psychophysical laws make convergence non-coincidental by metaphysically linking the two processes rather than leaving them independent. Lowe (2003) pushes further: what the physicalist is entitled to is *observational* closure (no detectable trajectory violation), not closure full-stop; if lawful co-causation preserves observational closure, the dualist has not taken on the bad kind of overdetermination. The critic can still object that lawful overdetermination is overdetermination, ontologically; the Mills/Lowe reply is that the *independence* the objection targets is absent under a systematic law, so the objection loses its sting. This is a response to a live objection rather than a refutation of it. Third, trumping offers no new empirical signature. Schaffer's structure is deliberately designed to be invisible at the trajectory level: both processes complete, and the authoritative one is picked out by a law, not a trace. A trumping-based dualism therefore inherits this invisibility and must earn its keep on theoretical grounds.
+A dualist who leans on trumping pays several bills. First, there has to be a principled authority-selecting law; without one, "trumping" collapses into brute stipulation. Saad's candidate is the pair of laws summarised above, but these are candidate laws, not derivations, and any workable account needs both the laws and a story about why *these* rather than others obtain. Second, if Bernstein's (2014) reductive strategy succeeds, trumping cases are really overdetermination with insensitive effects, and the dualist inherits the standard overdetermination objection. The Map's response makes the Mills (1996) and Lowe (2003) move explicit: Mills argues that overdetermination is objectionable when it is *coincidental* — when two independent processes happen to converge — and that systematic psychophysical laws make convergence non-coincidental by metaphysically linking the two processes rather than leaving them independent. Lowe (2003) pushes further: what the physicalist is entitled to is *observational* closure (no detectable trajectory violation), not closure full-stop; if lawful co-causation preserves observational closure, the dualist has not taken on the bad kind of overdetermination. The critic can still object that lawful overdetermination is overdetermination, ontologically; the Mills/Lowe reply is that the *independence* the objection targets is absent under a systematic law, so the objection loses its sting. This is a response to a live objection rather than a refutation of it. Third, trumping offers no new empirical signature. Schaffer's structure is deliberately designed to be invisible at the trajectory level: both processes complete, and the authoritative one is picked out by a law, not a trace. A trumping-based dualism therefore inherits this invisibility and must earn its keep on theoretical grounds. This invisibility is precisely what [[ensemble-level-epiphenomenalism]] interrogates: the trumping route answers the efficacy worry by relocating efficacy onto the authority axis, where ensemble-invisibility is no longer disqualifying — a move available to the dualist but, the worry insists, not compelling to a physicalist who equates efficacy with statistical signature.
 
 ## Relation to Site Perspective
 
@@ -96,6 +96,7 @@ The Map speculates — more cautiously than Saad does — that trumping is best 
 - [[psychophysical-laws]]
 - [[conservation-laws-and-mental-causation]]
 - [[epiphenomenalism]]
+- [[ensemble-level-epiphenomenalism]] — Whether the trumping route's ensemble-invisible efficacy is a genuine channel or a hidden idleness
 - [[interface-formalization-void]]
 - [[four-quadrant-dualism-taxonomy]]
 - [[tenets]]

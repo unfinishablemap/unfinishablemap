@@ -4,7 +4,7 @@ description: "Epiphenomenalism isn't just one view among many—it's the default
 created: 2026-02-22
 modified: 2026-04-30
 human_modified:
-ai_modified: 2026-05-08T20:35:00+00:00
+ai_modified: 2026-05-27T09:14:07+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -135,6 +135,8 @@ The framework escapes because it denies step 2 of the pattern. Physical events d
 
 This escape depends on a collapse interpretation. Under [[tenets#^no-many-worlds|many-worlds]], every quantum outcome actualizes—there are no undetermined outcomes for consciousness to select among. The Map's No Many Worlds tenet is not a separate preference; it is a structural requirement for maintaining escape velocity. See [[many-worlds-argument|Against Many-Worlds]] for the full argument.
 
+The escape generates a subtler internal worry that does not appear in the classical gravity well. If consciousness selects single quantum outcomes while preserving Born statistics over any ensemble, its influence leaves no statistical trace at the aggregate level—raising the question of whether single-event efficacy that washes out in aggregate is genuine causal work or only token-level authorship of a distribution physics already fixes. This is [[ensemble-level-epiphenomenalism]]: token-interactionist but threatening to be type-epiphenomenal, a finer challenge internal to interactionism rather than a rival to it, and arguably the sharpest open question the corridor reading faces.
+
 ## The Decoherence Challenge
 
 The quantum escape faces a serious empirical objection. [[decoherence|Decoherence]] occurs rapidly in warm biological systems—Tegmark (2000) estimated neural decoherence times at ~10⁻¹³ seconds, while neural decision-making operates on millisecond timescales. The [[decoherence|decoherence article]] disaggregates this fully; three points matter here.
@@ -179,6 +181,7 @@ The Map's framework provides all three elements needed for escape: acknowledgmen
 ## Further Reading
 
 - [[concepts/epiphenomenalism]] — The view itself: what it claims and why it fails
+- [[ensemble-level-epiphenomenalism]] — The type-level worry the Map's own corridor escape generates, and the two routes that answer it
 - [[mental-causation-and-downward-causation|mental causation]] — Kim's exclusion argument and the Map's quantum response
 - [[causal-closure]] — The principle that drives most theories toward epiphenomenalism
 - [[consciousness-and-causal-powers]] — What kind of causal influence consciousness exercises

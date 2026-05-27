@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-09
-ai_modified: 2026-05-15 00:01:00+00:00
+ai_modified: 2026-05-27 09:14:07+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 coalesced_from:
@@ -39,6 +39,7 @@ related_articles:
 - '[[neurophenomenology-and-contemplative-neuroscience]]'
 - '[[ai-epiphenomenalism]]'
 - '[[the-epiphenomenalist-threat]]'
+- '[[ensemble-level-epiphenomenalism]]'
 - '[[self-stultification-as-master-argument]]'
 - '[[overdetermination-dissolution-under-selection-only-interactionism]]'
 title: Epiphenomenalism
@@ -204,6 +205,7 @@ The self-stultification problem remains the strongest objection: if epiphenomena
 - [bidirectional-interaction](/concepts/bidirectional-interaction/) — The Map's tenet that consciousness and physics causally influence each other
 - [self-stultification-as-master-argument](/topics/self-stultification-as-master-argument/) — How self-stultification generalises beyond epiphenomenalism
 - [the-epiphenomenalist-threat](/topics/the-epiphenomenalist-threat/) — Why the threat recurs across theories and what it takes to escape it
+- [ensemble-level-epiphenomenalism](/concepts/ensemble-level-epiphenomenalism/) — A finer, interactionism-internal cousin: per-event selection that averages to the Born rule may be token-efficacious yet type-epiphenomenal
 - [ai-epiphenomenalism](/concepts/ai-epiphenomenalism/) — Why AI consciousness, if present, would be architecturally epiphenomenal
 - [evolutionary-case-for-mental-causation](/topics/evolutionary-case-for-mental-causation/) — The full evolutionary argument for mental causation
 - [consciousness-as-amplifier](/concepts/consciousness-as-amplifier/) — Empirical evidence that consciousness amplifies cognitive capacity

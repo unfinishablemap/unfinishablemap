@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-24
-ai_modified: 2026-05-25 23:06:59+00:00
+ai_modified: 2026-05-27 09:14:07+00:00
 ai_system: claude-opus-4-7
 author: null
 coalesced_from:
@@ -195,7 +195,7 @@ Masanes-Galley-Müller (2019) showed the Born rule is simultaneously unique and 
 
 The Minimal Quantum Interaction tenet, strictly read, privileges whichever minimum is *actually sufficient*. The corridor is the Map's working hypothesis because it is most conservative, not because it is definitionally required. Three attitudes remain in tension:
 
-1. **Corridor dualism** — maximally compatible with existing Born tests and the 2025 GPT-steering derivation, at the cost of making the single-event channel ensemble-invisible, risking ensemble-level epiphenomenalism unless trumping is adopted.
+1. **Corridor dualism** — maximally compatible with existing Born tests and the 2025 GPT-steering derivation, at the cost of making the single-event channel ensemble-invisible, risking [ensemble-level-epiphenomenalism](/concepts/ensemble-level-epiphenomenalism/) unless trumping is adopted.
 2. **Minimum-outside-the-corridor dualism** — empirically distinguishable from physicalism (an Arana-λ, Stapp-Zeno rate, Chalmers-McQueen Φ-strength, or Penrose OR timescale), losing nothing tenet-critical.
 3. **Trumping dualism** — Born rule orthogonal to the consciousness question; Born tests neither support nor threaten the Map's dualism.
 
@@ -221,7 +221,7 @@ All five connections inherit the *Compatibility vs. Support* discipline: the und
 
 **[Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction)**: On the default corridor reading, consciousness's influence must follow the Born rule exactly wherever that regime binds; [phenomenal non-compositionality](/concepts/phenomenal-non-compositionality/) adds that it operates at a unified locus. Trumping-based readings realise MQI without trajectory-level interaction — an even smaller footprint at the cost of empirical invisibility. The corridor-preserving / minimum-outside-corridor / trumping-orthogonal taxonomy is a live structural question, not a settled commitment.
 
-**[Bidirectional Interaction](/tenets/#bidirectional-interaction)**: On the interface reading, obtaining an outcome is itself an act — consciousness selecting among possibilities — so observer-dependence reflects genuine bidirectional causation. The [trilemma-of-selection](/topics/trilemma-of-selection/) supports this: at any point of genuine indeterminacy, determinism, randomness, and mental causation exhaust the options, and only the third preserves authorship. The [trumping route](/concepts/trumping-preemption/) realises bidirectional causation at the authority layer. A corridor position has to explain how single-event selection adds up to a genuine mental-to-physical channel without leaving an ensemble signature — arguably the Map's sharpest open question, and why minimum-outside-corridor readings stay attractive despite their empirical riskiness.
+**[Bidirectional Interaction](/tenets/#bidirectional-interaction)**: On the interface reading, obtaining an outcome is itself an act — consciousness selecting among possibilities — so observer-dependence reflects genuine bidirectional causation. The [trilemma-of-selection](/topics/trilemma-of-selection/) supports this: at any point of genuine indeterminacy, determinism, randomness, and mental causation exhaust the options, and only the third preserves authorship. The [trumping route](/concepts/trumping-preemption/) realises bidirectional causation at the authority layer. A corridor position has to explain how single-event selection adds up to a genuine mental-to-physical channel without leaving an ensemble signature — arguably the Map's sharpest open question, stated and rated route-by-route in [ensemble-level-epiphenomenalism](/concepts/ensemble-level-epiphenomenalism/), and why minimum-outside-corridor readings stay attractive despite their empirical riskiness.
 
 **[No Many Worlds](/tenets/#no-many-worlds)**: MWI accommodates the Born rule through decision-theoretic rationality axioms (Deutsch 1999, Wallace 2010, Carroll-Sebens 2014) — a framework-internal home parallel to those QBism, objective collapse, and the interface reading construct. These reconstructions are internally coherent; the Map's disagreement is not that they fail on their own terms but that its preference for indexical identity over branching is tenet-load-bearing. The [probability problem in many worlds](/topics/probability-problem-in-many-worlds/) catalogues the in-framework debate over what probability *means* when all outcomes occur, and the [cumulative case against MWI](/arguments/many-worlds-argument/) gathers the tenet-coherence considerations the Map regards as decisive even granting MWI's accommodation.
 
@@ -240,6 +240,7 @@ The Map's working position is that the empirical question is genuinely open, pre
 - [Against Many-Worlds](/arguments/many-worlds-argument/) — Cumulative case against MWI
 - [completeness-in-physics-under-dualism](/topics/completeness-in-physics-under-dualism/) — Structural vs ontological completeness
 - [trumping-preemption](/concepts/trumping-preemption/) / [delegatory-causation](/concepts/delegatory-causation/) — Authority-without-trajectory-change alternative
+- [ensemble-level-epiphenomenalism](/concepts/ensemble-level-epiphenomenalism/) — Whether corridor-level single-event selection that averages to the Born rule is a genuine channel or a hidden idleness
 - [pragmatist-quantum-foundations-and-the-agent](/topics/pragmatist-quantum-foundations-and-the-agent/) — Pragmatist-family positions and Born preservation
 - [brain-internal-born-rule-testing](/topics/brain-internal-born-rule-testing/) — Mechanism-by-mechanism catalogue of what would foreclose the corridor reading
 - [evidential-status-discipline](/project/evidential-status-discipline/) — The corpus-level compatibility-vs-support discipline
