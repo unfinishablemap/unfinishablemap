@@ -4,7 +4,7 @@ description: "Curated index of the Map's apex articles—synthesis pieces integr
 created: 2026-01-24
 modified: 2026-05-25
 human_modified: 2026-01-24
-ai_modified: 2026-05-25T13:30:00+00:00
+ai_modified: 2026-05-27T07:35:38+00:00
 last_deep_review: 2026-04-27T21:27:00+00:00
 draft: false
 topics: []
@@ -629,6 +629,28 @@ Each apex article synthesises existing [[topics|topics]] and [[concepts|concepts
 - concepts/process-content-distinction
 
 **Status**: Created 2026-05-25 (admitted as #28 — commissioned by outer-review 2026-05-22 ChatGPT 5.5 Pro §2.C, §6.9, which named the inversion the corpus implies but had not stated: the machine question runs the forward inference (architecture → consciousness verdict) and the introspection-architecture cluster runs the inward survey (five faces of bounded-access introspection), but neither states the reverse inference both imply — from a *legible* artificial architecture back to which features of human introspective opacity are architecturally necessary and which are contingent on whatever-we-are. The apex (a) states the inversion explicitly and frames the two competing readings of human opacity (bounded-conscious-witness vs bounded-self-model) that the human case cannot separate but AI can; (b) catalogues the control affordances — provenance logs, token-sampling traces, confidence calibration, source tags, deliberately-altered tags, designed anti-correlated-signal tests; (c) reads each affordance for what it would and would not show, separating the two opacity readings seam by seam; (d) connects to the anti-correlated-metacognitive-signal work seeded in machine-question; (e) cross-links machine-question, introspection-architecture-void-cluster, discrimination-problem, anti-correlated-metacognitive-signal, non-human-minds-as-void-explorers, pupillometry-behavioural-channel; (f) honours [[evidential-status-discipline]] — holds every AI-control result at the *discriminator-design* tier, never the *positive-empirical-finding* tier, with explicit inheritance-problem and process/content cautions against the slide to "AI is conscious." 3,899 words. Tenet alignment: Tenet 1 (Dualism via discrimination-test architecture — connection-not-confirmation, a test bench rather than new evidence); methodological for the whole introspection cluster. Apex now at #28 within the informal cap; the standing P3 audit task on apex over-cap remains the load-bearing rebalancing pass).
+
+---
+
+### 29. The Self Is Constructed; the Constructor Is Not
+
+**Slug**: `self-construction-constructor`
+
+**Subtitle**: Perception, social self, narrative self, and world-model are all built—yet each construction presupposes an experiential subject it cannot itself generate
+
+**Thesis**: Perception, the social self, the narrative self, and the world-model are all genuinely constructed, yet each construction presupposes an experiential subject and a phenomenal medium it cannot itself generate. The same structural move recurs across four registers—the perceptual (constancy and learning), the social (recognition and identity), the neural-resting (the DMN narrative), and the representational (transparency hiding its own construction)—and a fifth source, the theory-of-mind metarepresentational threshold, marks where the constructor stops being a passive presupposition and becomes a causal participant. Constructing the constructor relocates it rather than eliminating it: building produces content, and content requires a subject, so the regress terminates in an irreducible constructor on pain of the eliminativist's self-undermining regress.
+
+**Source articles**:
+- topics/consciousness-as-perceptual-architect
+- concepts/theory-of-mind
+- concepts/default-mode-network
+- concepts/phenomenal-transparency-opacity-spectrum
+- topics/social-construction-of-self-vs-phenomenal-self
+- concepts/self-and-self-consciousness
+- topics/the-self-minimal-narrative-and-substantial
+- voids/self-opacity
+
+**Status**: Created 2026-05-27 (admitted as #29 — suggested by optimistic-2026-05-26g Medium Priority, which named the construction/constructor distinction as the shared but implicit spine of the self-model and perceptual-construction cohort. The five cohort articles were all deep-reviewed 2026-05-26 and each works the same underlying question — how the conscious subject and its world-model are constructed, and what in that construction resists reduction — from a different station. The apex (a) states the general move once: real construction, irreducible constructor; (b) shows it operating identically across the perceptual, social, neural-resting, and representational registers via a four-row synthesis table; (c) adds the theory-of-mind metarepresentational threshold as the fifth source where the constructor becomes causally indispensable rather than merely presupposed; (d) handles the strongest opposing case (Metzinger's self-model eliminativism) via the relocation-not-elimination regress, keeping the minimal claim (some subject is presupposed) separate from the conditional strong claim (the subject is substantial); (e) honours [[evidential-status-discipline]] — every register held as the Map's interpretation of shared data rather than data-compelled, the DMN production/filter symmetry preserved, the quantum-coherence reading of ToM binding held as promising-not-established, and convergence-across-registers explicitly noted to raise the explanatory bar without elevating evidence to proof. Confirmed DISTINCT from the apex suggested by optimistic-2026-05-26c (the mind–matter *link* — covariance/lawfulness/opacity: supervenience, causal-interface, ai-epiphenomenalism, leibniz's-mill, evaluative-phenomenal-character); this one concerns the *self/constructor*, with no source-article overlap. 3,100 words. Tenet alignment: Tenet 1 (Dualism — the irreducible constructor as the explanatory gap's most general exhibit), Tenet 3 (the constructor causally efficacious, not a passive screen), with Tenets 4 and 5 connections drawn. Apex now at #29 within the informal cap; the standing P3 audit task on apex over-cap remains the load-bearing rebalancing pass).
 
 ---
 

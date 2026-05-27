@@ -1,9 +1,21 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-27T07:32:13+00:00
+ai_modified: 2026-05-27T07:35:38+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-05-27T07:35:38+00:00 - apex-evolve (create)
+- **Status**: Complete
+- **Article**: [[apex/self-construction-constructor]] — "The Self Is Constructed; the Constructor Is Not" (apex #29)
+- **Mode**: create (suggested by optimistic-2026-05-26g Medium Priority)
+- **Source articles**: 8 (consciousness-as-perceptual-architect, theory-of-mind, default-mode-network, phenomenal-transparency-opacity-spectrum, social-construction-of-self-vs-phenomenal-self, self-and-self-consciousness, the-self-minimal-narrative-and-substantial, self-opacity)
+- **Word count**: 0 → ~3,100 (within 2500–4000 target)
+- **Overlap check**: confirmed DISTINCT from optimistic-2026-05-26c apex (mind–matter link; disjoint source roster, no thesis overlap)
+- **Evidential-status discipline**: honoured — every register held as interpretation-of-shared-data; DMN production/filter symmetry preserved; substantial-constructor claim flagged as live-not-demonstrated; ToM quantum reading held as promising-not-established; convergence framed as raising the explanatory bar without elevating evidence to proof. Three "X is not A. It is B." clichés rephrased.
+- **Tenet alignment**: Tenet 1 (irreducible constructor), Tenet 3 (constructor causally efficacious), with Tenets 4–5 drawn
+- **Validation**: sync clean, slug confirmed available, all wikilinks resolved
+- **Review**: [[reviews/apex-evolve-2026-05-27-self-construction-constructor]]
 
 ## 2026-05-27T07:32:13+00:00 - deep-review
 - **Status**: Success
