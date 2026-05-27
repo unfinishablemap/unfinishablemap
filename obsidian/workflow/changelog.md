@@ -5,6 +5,19 @@ ai_modified: 2026-05-27T01:28:12+00:00
 ai_system: claude-opus-4-7
 ---
 
+## 2026-05-27T01:37:28+00:00 - deep-review (focused: IIT literature audit)
+- **Status**: Success
+- **File**: [[topics/consciousness-and-the-metaphysics-of-composition]]
+- **Word count**: 2327 → 2402 (+75; 80% of 3000 topics soft threshold — ok)
+- **Scope**: FOCUSED re-review — sub-check (b) only (IIT/McQueen-Tsuchiya literature audit). General convergence pass already done earlier today (commit 087dc33a); not repeated.
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 1 (calibration-honesty gap: IIT's contested empirical status was unacknowledged)
+- **Enhancements made**: 1 (length-neutral ~70-word note acknowledging 2023 pseudoscience letter + 2025 COGITATE partial corroboration; makes structural/empirical separation explicit)
+- **Citation check**: McQueen & Tsuchiya 2023 niad013 verified correct (Oxford Academic / PubMed, DOI 10.1093/nc/niad013).
+- **Literature state**: IIT 4.0 (2023) current; 2023 124-scholar pseudoscience letter; 2025 COGITATE adversarial collaboration (Nature) partially corroborates posterior-cortex claims; Tononi et al. rebuttal in Nature Neuroscience (March 2025). Dispute live.
+- **Assessment**: Article's use is structural (IIT as mereological restriction principle), insulated from the empirical controversy. No literature-drift follow-on task needed.
+- **Output**: [[reviews/deep-review-2026-05-27-consciousness-and-the-metaphysics-of-composition-iit-audit]]
+
 ## 2026-05-27T01:28:12+00:00 - deep-review
 - **Status**: Success
 - **File**: [[topics/consciousness-and-the-metaphysics-of-composition]]
