@@ -18,6 +18,7 @@ description: Contemplative traditions report incompatible emotional tones at the
 draft: false
 human_modified: null
 last_curated: null
+last_deep_review: 2026-05-27 00:00:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -50,7 +51,7 @@ The Christian contemplative tradition reports neither stable flatness nor stable
 
 ### Daoist Naturalness (*ziran*)
 
-The Daoist sources report an affective tone that resists placement on the valence axis altogether. The *Zhuangzi* and *Liezi* describe the sage's state as *ziran*—self-so, spontaneous, unforced—coupled with *wu wei*, action without contrivance. The famous "fasting of the heart-mind" (*xin zhai*) and "sitting in forgetfulness" (*zuowang*) passages in the *Zhuangzi* describe ordinary striving and emotional turbulence falling away, leaving responsiveness without imposition. The affective signature is neither the cultivated intensity of *bhakti* nor the purified neutrality of *upekkhā*, but ease: a tone of fittingness or flow that the tradition declines to characterise in terms of pleasure or its absence.
+The Daoist sources report an affective tone that resists placement on the valence axis altogether. The *Zhuangzi* and *Liezi* describe the sage's state as *ziran*—self-so, spontaneous, unforced—coupled with *wu wei*, action without contrivance. The famous "fasting of the heart-mind" (*xin zhai*) and "sitting in forgetfulness" (*zuowang*) passages in the *Zhuangzi* describe ordinary striving and emotional turbulence falling away, leaving responsiveness without imposition. The affective signature is neither the cultivated intensity of *bhakti* nor the purified neutrality of *upekkhā*, but ease: a tone of fittingness or flow that the tradition declines to characterise in terms of pleasure or its absence. The parent article calls this tone "without emotional coloration"; the present reading sharpens that to *ease* rather than blankness—the difference between an affect the tradition refuses to score on the pleasant/unpleasant axis and the simple absence of affect. *Ziran* is responsive, not anaesthetised, which is why it is not a second instance of *upekkhā*'s disengaged neutrality.
 
 ## The Structural Shape: Tone Covaries With Interface Mode
 
