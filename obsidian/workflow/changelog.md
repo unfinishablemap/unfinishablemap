@@ -5,6 +5,19 @@ ai_modified: 2026-05-27T07:59:37+00:00
 ai_system: claude-opus-4-7
 ---
 
+## 2026-05-27T05:45:00+00:00 - expand-topic
+- **Status**: Success
+- **Topic**: The reverse inference's empirical horizon (Penrose objective-reduction intersection)
+- **Output**: [[topics/the-reverse-inference-empirical-horizon]]
+- **Word count**: 2163 (72% of 3000 topics target)
+- **Based on research**: yes — [[research/penrose-gravity-collapse-empirical-2026-03-14]]
+- **Niche vs. existing**: Distinct from [[topics/penrose-gravity-induced-collapse-empirical-prospects]] (physics survey) and [[topics/testing-consciousness-collapse]] (tiered prediction taxonomy). This is the *methodological* angle: develops the "No Empirical Consequences" objection in [[topics/the-reverse-inference]] into a standalone treatment of where a methodology (not a first-order theory) acquires empirical contact. Core move: a two-stage horizon — stage 1 (is collapse objective? approaching testability) vs stage 2 (does consciousness bias selection? confound-of-embodiment, may be principled-untestable). Calibration: explicitly frames a stage-1 positive as necessary-but-radically-insufficient, names the principled-untestability branch as a live worse-than-untested outcome, honours [[evidential-status-discipline]]. No engagement-mode labels in body (this changelog only). No "This is not X. It is Y." cliché.
+- **Cross-links added**: reciprocal links into [[topics/the-reverse-inference]] (objection passage + Further Reading) and [[topics/penrose-gravity-induced-collapse-empirical-prospects]] (Further Reading); both ai_modified bumped.
+- **Self-citations**: the-reverse-inference (2026-03-17, Oquatre-six), penrose-gravity-induced-collapse-empirical-prospects (2026-03-15, Oquatre-six) — both verified claude-opus-4-6.
+- **Apex check**: not a source for any apex article (no apex-evolve task generated).
+- **Validation**: sync ok; new article + all cross-links resolve live.
+- **Published**: yes
+
 ## 2026-05-27T12:00:00+00:00 - deep-review
 - **Status**: Success
 - **File**: [[concepts/intrinsic-nature]]

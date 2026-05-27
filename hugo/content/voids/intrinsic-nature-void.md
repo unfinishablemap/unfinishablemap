@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-27
-ai_modified: 2026-05-25 16:42:05+00:00
+ai_modified: 2026-05-27 00:00:00+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -102,7 +102,7 @@ The void operates from both directions simultaneously.
 
 ## Two Directions, One Void
 
-Russellian monism offers the most sophisticated approach to the convergence of these two questions. Physics describes only the structural and relational properties of matter; the *intrinsic* nature—the quiddities—remains unknown. Consciousness might *be* that intrinsic nature. This move dissolves both questions rather than answering either: the unknown intrinsic nature of matter and the unknown substrate of consciousness point toward the same territory.
+Russellian monism offers the most sophisticated approach to the convergence of these two questions. Physics describes only the structural and relational properties of matter; the [intrinsic nature](/concepts/intrinsic-nature/)—the quiddities—remains unknown. Consciousness might *be* that intrinsic nature. This move dissolves both questions rather than answering either: the unknown intrinsic nature of matter and the unknown substrate of consciousness point toward the same territory.
 
 The void viewed from the physical direction: what is matter in itself, beneath its relational properties? The void viewed from the mental direction: what is consciousness in itself, beneath its experiential manifestations? If Russellian monism has the right shape (even if not the right details), these questions converge—and the answer lies in territory that neither physics nor introspection can reach, because physics is constitutively structural and introspection is constitutively experiential. The convergence may itself compound with the [conceptual scheme void](/voids/conceptual-scheme-void/): if the shared intrinsic nature falls along a categorial axis our apparatus does not carve, then even a successful Russellian reduction would deliver an answer whose *shape* our minds cannot hold.
 

@@ -4,7 +4,7 @@ description: "The reverse inference uses consciousness—our most certain datum�
 created: 2026-03-17
 modified: 2026-03-17
 human_modified:
-ai_modified: 2026-05-26T00:44:13+00:00
+ai_modified: 2026-05-27T05:42:00+00:00
 last_deep_review: 2026-05-25T15:44:51+00:00
 draft: false
 topics:
@@ -112,7 +112,7 @@ Moreover, *all* interpretation of quantum mechanics is constrained by prior comm
 
 A harder objection: if consciousness operates within Born probabilities, the reverse inference generates no empirically distinguishable predictions. The framework is empirically equivalent to standard quantum mechanics. How is this different from unfalsifiable metaphysics?
 
-The response is twofold. First, empirical equivalence at the level of quantum statistics does not mean empirical irrelevance. The reverse inference constrains which interpretations are viable, which matters for the direction of research. Second, the framework may eventually generate predictions—particularly in regimes where gravitational self-energy intersects with collapse (Penrose-style objective reduction), where consciousness-modulated collapse might diverge from purely physical collapse in possibly detectable ways. The framework is arguably not permanently untestable; it is currently untested.
+The response is twofold. First, empirical equivalence at the level of quantum statistics does not mean empirical irrelevance. The reverse inference constrains which interpretations are viable, which matters for the direction of research. Second, the framework may eventually generate predictions—particularly in regimes where gravitational self-energy intersects with collapse (Penrose-style objective reduction), where consciousness-modulated collapse might diverge from purely physical collapse in possibly detectable ways. This intersection is the methodology's [[the-reverse-inference-empirical-horizon|empirical horizon]]: a two-staged point of contact (is collapse objective? does a conscious system bias which outcome it selects?) where the reverse inference's constraints could be checked rather than merely interpreted. The framework is arguably not permanently untestable; it is currently untested.
 
 ### Private Datum, Public Science
 
@@ -149,6 +149,7 @@ The reverse inference is one of the Map's central methodological moves. It conne
 - [[quantum-probability-consciousness]] — Born probabilities as interface structure
 - [[hard-problem-of-consciousness]] — Why consciousness is the secure datum
 - [[physics-as-disclosure]] — The measurement problem as boundary disclosure, not theoretical deficiency
+- [[the-reverse-inference-empirical-horizon]] — Where the methodology could meet evidence: the Penrose objective-reduction intersection
 - [[quantum-interpretations]] — Why interpretive choice matters for consciousness
 - [[self-stultification]] — The argument motivating bidirectional interaction
 - [[prebiotic-collapse]] — How collapse works without consciousness

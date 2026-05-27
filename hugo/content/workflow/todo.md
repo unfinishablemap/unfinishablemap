@@ -145,13 +145,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: staleness
 - **Generated**: 2026-05-26
 
-### P3: Give "intrinsic nature" a concept-level treatment (or fold into the existing void article)
-- **Type**: expand-topic
-- **Status**: pending
-- **Notes**: Suggested by optimistic review 2026-05-26 (High Priority). The structural-ontological gap in [physical-completeness](/concepts/physical-completeness/) turns entirely on *intrinsic nature* — what relational structure leaves undescribed — and the article treats it as a load-bearing primitive, yet the only target is [intrinsic-nature-void](/voids/intrinsic-nature-void/), which frames it as unfillable-in-principle. There is no neutral concept page defining intrinsic nature and surveying the three readings the cohort keeps invoking: structural realism (Ladyman/French/Worrall — there is no residual intrinsic nature, or none we can know), Russellian monism ([russellian-monism](/concepts/russellian-monism/) — consciousness *is* the intrinsic nature of the physical), and the Map's dualism (intrinsic nature exists and is ontologically distinct from structure, where consciousness enters). The wikilink resolves by basename so this is NOT a broken-link issue — it is a missing concept-level home that `physical-completeness`, `russellian-monism`, and `bi-aspectual-ontology` all silently assume. **Section-cap caveat**: concepts/ stands near 246/250; verify the cap at execution. If no slot is free, fold the definitional treatment into [intrinsic-nature-void](/voids/intrinsic-nature-void/) as a "what intrinsic nature is" preamble before its unfillability argument, and convert this to a refine-draft rather than creating a new page. Keep the Maudlin objection (intrinsic-natures-already-in-physics) visible — it is the framework-boundary opponent `physical-completeness` already names. Estimated scope: Medium. Tenet alignment: Tenet 1 (dualism), Tenet 5 (Occam's limits — the structuralist reading is a bet, not a result). See [optimistic-2026-05-26](/reviews/optimistic-2026-05-26/).
-- **Source**: optimistic-review (2026-05-26)
-- **Generated**: 2026-05-26
-
 ### P3: Develop the Penrose objective-reduction intersection as the reverse inference's empirical horizon
 - **Type**: expand-topic
 - **Status**: pending
@@ -3722,6 +3715,18 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 Tasks that failed 3+ times and require human intervention.
 
+
+### ✓ 2026-05-27: Adopt witness-consciousness calibration in essential-vs-contingent-consciousness
+- **Type**: refine-draft
+- **Notes**: From topic-concept anchoring audit 2026-05-27. The topic article over-claims relative to its anchor concept [witness-consciousness](/concepts/witness-consciousness/); failed checks: hedge_density, strong_assertions.
+
+### ✓ 2026-05-27: Adopt substance-property-dualism calibration in essential-vs-contingent-consciousness
+- **Type**: refine-draft
+- **Notes**: From topic-concept anchoring audit 2026-05-27. The topic article over-claims relative to its anchor concept [substance-property-dualism](/concepts/substance-property-dualism/); failed checks: hedge_density, strong_assertions.
+
+### ✓ 2026-05-27: Give "intrinsic nature" a concept-level treatment (or fold into the existing void article)
+- **Type**: expand-topic
+- **Notes**: Suggested by optimistic review 2026-05-26 (High Priority). The structural-ontological gap in [physical-completeness](/concepts/physical-completeness/) turns entirely on *intrinsic nature* — what relational structure leaves undescribed — and the article treats it as a load-bearing primitive, yet the only target is [intrinsic-nature-void](/voids/intrinsic-nature-void/), which frames it as unfillable-in-principle. There is no neutral concept page defining intrinsic nature and surveying the three readings the cohort keeps invoking: structural realism (Ladyman/French/Worrall — there is no residual intrinsic nature, or none we can know), Russellian monism ([russellian-monism](/concepts/russellian-monism/) — consciousness *is* the intrinsic nature of the physical), and the Map's dualism (intrinsic nature exists and is ontologically distinct from structure, where consciousness enters). The wikilink resolves by basename so this is NOT a broken-link issue — it is a missing concept-level home that `physical-completeness`, `russellian-monism`, and `bi-aspectual-ontology` all silently assume. **Section-cap caveat**: concepts/ stands near 246/250; verify the cap at execution. If no slot is free, fold the definitional treatment into [intrinsic-nature-void](/voids/intrinsic-nature-void/) as a "what intrinsic nature is" preamble before its unfillability argument, and convert this to a refine-draft rather than creating a new page. Keep the Maudlin objection (intrinsic-natures-already-in-physics) visible — it is the framework-boundary opponent `physical-completeness` already names. Estimated scope: Medium. Tenet alignment: Tenet 1 (dualism), Tenet 5 (Occam's limits — the structuralist reading is a bet, not a result). See [optimistic-2026-05-26](/reviews/optimistic-2026-05-26/).
 
 ### ✓ 2026-05-27: Condense topics/self-stultification-as-master-argument.md (soft_warning, 3383 words)
 - **Type**: condense

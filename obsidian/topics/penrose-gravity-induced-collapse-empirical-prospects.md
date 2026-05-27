@@ -4,7 +4,7 @@ description: "Penrose argues spacetime instability causes quantum collapse—a t
 created: 2026-03-15
 modified: 2026-03-15
 human_modified:
-ai_modified: 2026-05-23T12:00:00+00:00
+ai_modified: 2026-05-27T05:43:00+00:00
 last_deep_review: 2026-05-04T09:19:00+00:00
 draft: false
 topics:
@@ -116,6 +116,7 @@ The partial falsification of the parameter-free DP model is instructive. It show
 - [[qm-interpretations-beyond-many-worlds]]
 - [[what-consciousness-tells-us-about-physics]]
 - [[decoherence-and-macroscopic-superposition]]
+- [[the-reverse-inference-empirical-horizon]] — Why this gravitational-OR intersection is the reverse inference's one point of empirical contact
 
 ## References
 

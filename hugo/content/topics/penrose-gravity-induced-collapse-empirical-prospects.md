@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-15
-ai_modified: 2026-05-23 12:00:00+00:00
+ai_modified: 2026-05-27 05:43:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -118,6 +118,7 @@ The partial falsification of the parameter-free DP model is instructive. It show
 - [qm-interpretations-beyond-many-worlds](/topics/qm-interpretations-beyond-many-worlds/)
 - [what-consciousness-tells-us-about-physics](/apex/what-consciousness-tells-us-about-physics/)
 - [decoherence-and-macroscopic-superposition](/topics/decoherence-and-macroscopic-superposition/)
+- [the-reverse-inference-empirical-horizon](/topics/the-reverse-inference-empirical-horizon/) — Why this gravitational-OR intersection is the reverse inference's one point of empirical contact
 
 ## References
 

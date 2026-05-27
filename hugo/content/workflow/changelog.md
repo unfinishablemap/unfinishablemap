@@ -9,6 +9,33 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-05-27T12:00:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [intrinsic-nature](/concepts/intrinsic-nature/)
+- **Word count**: 1981 → 2038 (+57)
+- **Critical issues addressed**: 0 (none found — attribution, calibration, source/Map separation, and all links all passed)
+- **Medium issues addressed**: 1 (acquaintance premise stated without flagging its contestedness and missing the [phenomenal-acquaintance](/concepts/phenomenal-acquaintance/) cross-link — added contestedness flag + link in frontmatter/body/Further Reading)
+- **Enhancements made**: 2 (contestedness sentence at the acquaintance hinge; phenomenal-acquaintance cross-link)
+- **Calibration check**: PASSED — the article's "discipline note on what the distinction earns" correctly treats the intrinsic-nature gap as defeater-removal, not positive evidence ("the gap creates room; it does not furnish the room"). No possibility/probability slippage. Marked in Stability Notes as a passage to protect, not strengthen.
+- **Engagement modes**: no named-opponent in-framework refutations to classify; the four adversarial standoffs (eliminativist, Dennett, structural realist/Tegmark, Buddhist) are all Mode Three framework-boundary disagreements, honestly marked (three appear as explicit falsifiers in "What Would Challenge This View").
+- **Output**: [deep-review-2026-05-27-intrinsic-nature](/reviews/deep-review-2026-05-27-intrinsic-nature/)
+
+## 2026-05-27T12:00:00+00:00 - refine-draft
+- **Status**: Success
+- **File**: [essential-vs-contingent-consciousness](/topics/essential-vs-contingent-consciousness/)
+- **Original score**: n/a (calibration-only pass from topic-concept anchoring audit 2026-05-27)
+- **Changes**: Calibration discipline (Audit Three), not weakening. Brought the topic's hedge profile into line with anchor concept [substance-property-dualism](/concepts/substance-property-dualism/). (1) Removed all 3 strong-assertion verbs: "none of them establishes the thesis" → "none of them … looks able to settle the thesis"; "the pull *constrains* rather than *establishes*" → "seems to *constrain* rather than to fix the verdict"; "shows that dualism alone does not fix that nature" → "suggests that dualism alone does not fix". (2) Added honest hedges on the inferential moves in "The Map's Reading" and "Relation to Site Perspective" (coheres → appears to cohere; underdetermined → may be underdetermined; etc.) plus two underdetermination markers ("not framework-neutral", "the evidence does not adjudicate"). Preserved the article's central lean toward essential consciousness as a provisional metaphysical commitment — the conclusion is unchanged. Engagement with Nyaya/contingentist: Mode Three (framework-boundary, declined on coherence not evidential grounds) — already honestly framed in the source; the refine reinforced the boundary-marking without claiming in-framework refutation.
+- **Audit result**: hedge_density 1.50/kw → 6.55/kw (target ≥5.94); strong-assertion verbs 3 → 0; underdetermination markers 1 → 5. evaluate_anchoring now returns no flags against any anchor concept.
+- **Published**: yes
+
+## 2026-05-27T09:30:00+00:00 - expand-topic
+- **Status**: Success
+- **Topic**: Intrinsic nature (the structural/intrinsic distinction as a concept-level building block)
+- **Output**: [intrinsic-nature](/concepts/intrinsic-nature/)
+- **Word count**: 1981
+- **Based on research**: No (synthesised from existing corpus coverage)
+- **Notes**: Checked existing coverage first per task instruction. Found [intrinsic-nature-void](/voids/intrinsic-nature-void/) (the destination/void), [russellian-monism](/concepts/russellian-monism/) (the theory), and [bi-aspectual-ontology](/concepts/bi-aspectual-ontology/) (the Map's ontology) all introduce the structural/intrinsic distinction inline as a premise but none anchors it as a reusable building block. Wrote a definitional concept piece covering the structural/intrinsic distinction (Russell, Eddington, structuralist-vs-quidditist), Hempel's dilemma on "the physical", the quiddity-inscrutability problem (Lewis/Langton humility), and the Map's distinct-aspect reading (intrinsic base as home of the non-physical aspect, but distinct interacting aspect rather than identified-with-quiddities). Delegated all RM critique apparatus to russellian-monism rather than duplicating. Used [evidential-status-discipline](/project/evidential-status-discipline/) to mark "gap removes a defeater, does not furnish positive evidence." Added inbound links from russellian-monism and intrinsic-nature-void (timestamps updated). concepts/ now 247/270.
+
 ## 2026-05-27T08:28:22+00:00 - condense
 - **Status**: Success
 - **File**: [self-stultification-as-master-argument](/topics/self-stultification-as-master-argument/)

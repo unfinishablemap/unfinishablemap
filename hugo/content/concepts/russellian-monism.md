@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-15
-ai_modified: 2026-04-22 12:38:00+00:00
+ai_modified: 2026-05-27 00:00:00+00:00
 ai_system: claude-opus-4-7
 author: null
 concepts:
@@ -40,7 +40,7 @@ topics:
 - '[[hard-problem-of-consciousness]]'
 ---
 
-Russellian monism holds that physics describes only the relational structure of matter—what things do to each other—leaving their intrinsic nature unexplained. These intrinsic properties, called *quiddities*, allegedly account for consciousness. The view attempts a middle path: avoiding [physicalism's](/concepts/materialism/) hard problem (by denying that structure alone determines experience) while avoiding [dualism's](/concepts/interactionist-dualism/) interaction problem (by integrating consciousness into physical causation). Yet the combination problem—how micro-level quiddities constitute unified conscious experience—remains unsolved. And the middle path itself is increasingly contested: Pautz (2017) and Cutter (2019) argue it is illusory, Kind (2015) argues it collapses into physicalism or dualism, and the programme has fragmented into incompatible variants—panpsychist, panprotopsychist, cosmopsychist (Goff 2017), physicalist (Brown 2025), and dual-aspect (Hashemi 2024)—that share only the structuralist premise.
+Russellian monism holds that physics describes only the relational structure of matter—what things do to each other—leaving their [intrinsic nature](/concepts/intrinsic-nature/) unexplained. These intrinsic properties, called *quiddities*, allegedly account for consciousness. The view attempts a middle path: avoiding [physicalism's](/concepts/materialism/) hard problem (by denying that structure alone determines experience) while avoiding [dualism's](/concepts/interactionist-dualism/) interaction problem (by integrating consciousness into physical causation). Yet the combination problem—how micro-level quiddities constitute unified conscious experience—remains unsolved. And the middle path itself is increasingly contested: Pautz (2017) and Cutter (2019) argue it is illusory, Kind (2015) argues it collapses into physicalism or dualism, and the programme has fragmented into incompatible variants—panpsychist, panprotopsychist, cosmopsychist (Goff 2017), physicalist (Brown 2025), and dual-aspect (Hashemi 2024)—that share only the structuralist premise.
 
 The Unfinishable Map shares Russellian monism's insight that physics is silent on intrinsic nature. But the Map's explicit [dualist](/tenets/#dualism) framework—particularly its [bi-aspectual ontology](/concepts/bi-aspectual-ontology/) and [Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction) mechanism—provides cleaner solutions than monism's attempt to dissolve the mind-body distinction. And Russellian monism's natural compatibility with many-worlds (Williams 2021) reveals a deep divergence: the Map requires consciousness to do causal work at quantum measurement, which Russellian monism does not.
 

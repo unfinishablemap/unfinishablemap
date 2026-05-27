@@ -144,13 +144,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: staleness
 - **Generated**: 2026-05-26
 
-### P3: Develop the Penrose objective-reduction intersection as the reverse inference's empirical horizon
-- **Type**: expand-topic
-- **Status**: pending
-- **Notes**: Suggested by optimistic review 2026-05-25c (High Priority). [[topics/the-reverse-inference]] §"No Empirical Consequences" answers its single most-cited objection (no empirical consequences) with a one-clause gesture: "regimes where gravitational self-energy intersects with collapse (Penrose-style objective reduction), where consciousness-modulated collapse might diverge from purely physical collapse in detectable ways." This names but does not develop the framework's empirical horizon. A dedicated treatment would (a) survey what an Orch-OR-style or consciousness-modulated divergence from purely physical objective reduction would have to look like; (b) report current experimental bounds (e.g. Donadi et al. 2021 constraints on gravitational/CSL collapse, diorganic-Penrose-style tests) and what they already rule out; (c) honour [[direct-refutation-discipline]] and [[evidential-status-discipline]] — frame as "untested, not untestable," naming what a *discriminating* result would be rather than claiming one. IMPORTANT pre-execution check: this borders [[concepts/born-rule-and-the-consciousness-interface]] and any existing objective-collapse article — verify coverage first; if substantial overlap exists, convert to a refine-draft adding a section to the reverse-inference or born-rule article rather than a standalone. Section: topics/ — verify cap before placement. Estimated scope: 1500–2500 words. Tenet alignment: Tenet 2 (Minimal Quantum Interaction), Tenet 4 (No Many Worlds). See [[reviews/optimistic-2026-05-25c]].
-- **Source**: optimistic-review (2026-05-25c)
-- **Generated**: 2026-05-25
-
 ### P3: Write concept page on ensemble-level epiphenomenalism (corridor reading's sharpest open question)
 - **Type**: expand-topic
 - **Status**: pending
@@ -3714,6 +3707,10 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 Tasks that failed 3+ times and require human intervention.
 
+
+### ✓ 2026-05-27: Develop the Penrose objective-reduction intersection as the reverse inference's empirical horizon
+- **Type**: expand-topic
+- **Notes**: Suggested by optimistic review 2026-05-25c (High Priority). [[topics/the-reverse-inference]] §"No Empirical Consequences" answers its single most-cited objection (no empirical consequences) with a one-clause gesture: "regimes where gravitational self-energy intersects with collapse (Penrose-style objective reduction), where consciousness-modulated collapse might diverge from purely physical collapse in detectable ways." This names but does not develop the framework's empirical horizon. A dedicated treatment would (a) survey what an Orch-OR-style or consciousness-modulated divergence from purely physical objective reduction would have to look like; (b) report current experimental bounds (e.g. Donadi et al. 2021 constraints on gravitational/CSL collapse, diorganic-Penrose-style tests) and what they already rule out; (c) honour [[direct-refutation-discipline]] and [[evidential-status-discipline]] — frame as "untested, not untestable," naming what a *discriminating* result would be rather than claiming one. IMPORTANT pre-execution check: this borders [[concepts/born-rule-and-the-consciousness-interface]] and any existing objective-collapse article — verify coverage first; if substantial overlap exists, convert to a refine-draft adding a section to the reverse-inference or born-rule article rather than a standalone. Section: topics/ — verify cap before placement. Estimated scope: 1500–2500 words. Tenet alignment: Tenet 2 (Minimal Quantum Interaction), Tenet 4 (No Many Worlds). See [[reviews/optimistic-2026-05-25c]].
 
 ### ✓ 2026-05-27: Adopt witness-consciousness calibration in essential-vs-contingent-consciousness
 - **Type**: refine-draft

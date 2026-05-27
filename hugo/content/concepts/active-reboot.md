@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-05-18
-ai_modified: 2026-05-25 13:30:00+00:00
+ai_modified: 2026-05-27 08:34:08.680714+00:00
 ai_system: claude-opus-4-7
 author: null
 concepts:
@@ -17,6 +17,11 @@ description: Active reboot names a mechanism class where the brain dismantles a 
   barrier to consciousness rather than passively returning. Human-AI iterative refinement
   of the catalogue concept.
 draft: false
+embedded_videos:
+- embedded: 2026-05-27 08:34:08.680714+00:00
+  id: 2F3STZw7jVw
+  source: notebooklm/0065-01-active-reboot
+  url: https://www.youtube-nocookie.com/embed/2F3STZw7jVw
 human_modified: null
 last_curated: null
 last_deep_review: 2026-05-18 20:21:05+00:00
@@ -34,6 +39,12 @@ topics:
 ---
 
 Active reboot names a mechanism class where the brain *dismantles* a maintained barrier to consciousness rather than waiting for that barrier to dissipate. The canonical instance is Hu et al.'s (2023) finding that emergence from general anaesthesia, across pharmacologically dissimilar agents, runs through ubiquitin-driven degradation of the KCC2 cotransporter in the ventral posteromedial thalamus — a *coordinated molecular response* that reopens the channel, not passive drug clearance. The mechanism class is wider than anaesthesia: sleep-wake transitions, recovery from disorders of consciousness, and re-engagement after deep contemplative states all show the same architectural signature — re-entry follows a dedicated reopening pathway, separable from whatever closed the channel in the first place. The philosophical work the concept does is to name the architectural feature: *active preparation of conditions for re-entry is event-architecturally distinct from substance-return*, which matters for any reading of consciousness-state transitions that depends on the difference between generator-resumption and channel-reopening.
+
+<details class="yt-embed" data-video-id="2F3STZw7jVw">
+<summary>Video introduction</summary>
+<a href="https://www.youtube-nocookie.com/embed/2F3STZw7jVw">Watch this article as a video on YouTube</a>
+<p class="yt-caption">Videos cover themes but may stray from the Map's position. The article text is the definitive version. Clicking play implies consent to YouTube cookies.</p>
+</details>
 
 ## The Mechanism Class
 

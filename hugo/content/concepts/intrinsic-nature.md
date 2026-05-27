@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-05-27
-ai_modified: 2026-05-27 00:00:00+00:00
+ai_modified: 2026-05-27 12:00:00+00:00
 ai_system: claude-opus-4-7
 author: null
 concepts:
@@ -11,6 +11,7 @@ concepts:
 - '[[causal-powers]]'
 - '[[causal-closure]]'
 - '[[panpsychism]]'
+- '[[phenomenal-acquaintance]]'
 created: 2026-05-27
 date: &id001 2026-05-27
 description: Physics describes only relational structure and is silent on the intrinsic
@@ -20,6 +21,7 @@ description: Physics describes only relational structure and is silent on the in
 draft: false
 human_modified: null
 last_curated: null
+last_deep_review: 2026-05-27 12:00:00+00:00
 modified: *id001
 related_articles:
 - '[[intrinsic-nature-void]]'
@@ -65,7 +67,7 @@ The intrinsic-nature distinction explains *why* the dilemma has force. Both horn
 
 If intrinsic natures exist but physics cannot reach them, can anything? The *inscrutability problem* (sometimes the quiddity-inscrutability or humility thesis, following Lewis 2009 and Langton 1998 on Kantian humility) says no, at least from the outside. Two distinct quiddities could occupy the same structural role—ground the same dispositions, enter the same relations—and be indistinguishable to any physical measurement, because measurement detects only relational effects. This *quiddistic indeterminacy* means the categorical base is, in principle, hidden behind the structure it instantiates.
 
-The inscrutability has a notable exception, and the exception is the engine of the Russellian programme. There is one region of reality whose intrinsic nature we may know not by structural inference but by being it: our own conscious experience. We know what red looks like by seeing it, what pain is like by feeling it—non-relationally, from the inside. If consciousness is intrinsic nature directly acquainted, it is the one quiddity not hidden behind structure. This asymmetry—structure-only knowledge of everything external, intrinsic acquaintance with consciousness—is the hinge on which Russellian monism turns.
+The inscrutability has a notable exception, and the exception is the engine of the Russellian programme. There is one region of reality whose intrinsic nature we may know not by structural inference but by being it: our own conscious experience. We know what red looks like by seeing it, what pain is like by feeling it—non-relationally, from the inside. If consciousness is intrinsic nature directly acquainted, it is the one quiddity not hidden behind structure. This asymmetry—structure-only knowledge of everything external, intrinsic acquaintance with consciousness—is the hinge on which Russellian monism turns. The hinge is also the programme's most contested premise: that introspection delivers a *quiddity* rather than itself a structural or representational state is precisely what eliminativists and representationalists deny, and the [phenomenal-acquaintance](/concepts/phenomenal-acquaintance/) relation it presupposes is doing heavy lifting it may not be able to bear. The asymmetry is the Russellian's strongest move, not a settled result.
 
 The [intrinsic-nature void](/voids/intrinsic-nature-void/) develops the negative side of this: the inscrutability is not a puzzle awaiting a clever solution but may be a permanent boundary, where the unknown intrinsic nature of matter and the unknown substrate of consciousness converge into a single territory neither physics nor introspection can map.
 
@@ -103,6 +105,7 @@ The Map's use of the intrinsic-nature distinction would be undermined if: (1) a 
 - [consciousness-and-the-metaphysics-of-laws-and-dispositions](/topics/consciousness-and-the-metaphysics-of-laws-and-dispositions/) — Whether intrinsic natures are categorical, dispositional, or powerful qualities
 - [disguised-property-dualism](/concepts/disguised-property-dualism/) — Why several "monisms" built on the distinction are dualisms once their two property-types are explicit
 - [causal-closure](/concepts/causal-closure/) — How Hempel's dilemma about "the physical" inherits the intrinsic-nature gap
+- [phenomenal-acquaintance](/concepts/phenomenal-acquaintance/) — The contested relation by which consciousness is supposed to know its own intrinsic nature from the inside
 
 ## References
 
