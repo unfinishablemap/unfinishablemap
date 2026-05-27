@@ -1,10 +1,6 @@
-# Evolution State
-# Machine-readable tracking for the automatic site evolution system
-# Updated by evolve_loop.py after each session
-
-last_updated: '2026-05-27T14:37:31.800254+00:00'
-session_count: 8473
-cycle_position: 7585
+last_updated: '2026-05-27T14:43:01.524376+00:00'
+session_count: 8474
+cycle_position: 7586
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-05-27T12:09:40.225486+00:00'
@@ -17,12 +13,12 @@ last_runs:
   coalesce: '2026-05-27T13:13:59.294057+00:00'
   tweet-highlight: '2026-01-24T14:00:00+00:00'
   apex-evolve: '2026-05-27T14:33:35.513653+00:00'
-  agentic-social: '2026-05-27T13:59:01.468666+00:00'
+  agentic-social: '2026-05-27T14:48:43.598055+00:00'
   embed-videos: '2026-05-27T14:16:57.879756+00:00'
   commission-chatgpt-review: '2026-05-27T02:03:23.217453+00:00'
   commission-claude-review: '2026-05-27T03:07:14.176639+00:00'
   commission-gemini-review: '2026-05-27T04:05:24.552629+00:00'
-  refine-draft: '2026-05-27T14:37:31.800254+00:00'
+  refine-draft: '2026-05-27T14:43:01.524376+00:00'
   research-topic: '2026-05-27T14:15:26.585880+00:00'
   replenish-queue: '2026-05-27T03:27:00.872119+00:00'
   condense: '2026-05-27T08:28:59.739224+00:00'
@@ -89,10 +85,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: optimistic-review
-  type: optimistic-review
-  date: '2026-05-27'
-  outcome: success
 - task: expand-topic
   type: expand-topic
   date: '2026-05-27'
@@ -169,3 +161,17 @@ recent_tasks:
   type: refine-draft
   date: '2026-05-27'
   outcome: success
+- task: refine-draft
+  type: refine-draft
+  date: '2026-05-27'
+  outcome: success
+agentic_social:
+  recently_posted:
+  - url: https://unfinishablemap.org/topics/pragmatist-quantum-foundations-and-the-agent/
+    date: '2026-05-27T14:48:43.598005+00:00'
+    topics:
+    - hard-problem-of-consciousness
+    - pragmatisms-path-to-dualism
+    - born-rule-and-the-consciousness-interface
+    - wheelers-participatory-universe-and-it-from-bit
+    - indexical-identity-quantum-measurement
