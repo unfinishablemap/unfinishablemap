@@ -38,12 +38,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P3: Add inbound links to topics/q3-q4-sliding-boundary-and-transparency-problem.md (near-orphan)
-- **Type**: refine-draft
-- **Notes**: Follow-on from expand-topic 2026-05-27 (commit ec114ce7). The new article added outbound links only; no content article links back, leaving it a near-orphan (verified: zero inbound). Add an inbound `[[q3-q4-sliding-boundary-and-transparency-problem]]` link where contextually load-bearing: PRIORITY `topics/mechanism-costs-dualism-thickness-quadrants.md` §"Q3" (~lines 89-99) — this is the parent whose Q3-cell observation ("genuine Q3 dualism appears rare... slides toward Q3-monism") the new article expands; point that passage to the full standalone treatment. Also add inbound from `topics/four-quadrant-dualism-taxonomy.md` where it discusses the Q3 cell, and from `concepts/selection-only-channel.md` / `concepts/interactionist-dualism.md` if either has a load-bearing anchor about what keeps physics ontologically real (the stabilising-Q3 argument). Add only where load-bearing, not bare dumps; skip any with no natural anchor and say so. Verify scripts/sync.py exits 0.
-- **Source**: expand-topic-followon
-- **Generated**: 2026-05-27
-
 ### P1: Fix verified citation errors in topics/meaning-of-life.md (Tallis issue, Landau 2025, missing references)
 - **Type**: refine-draft
 - **Notes**: From outer review 2026-05-27 (ChatGPT 5.5 Pro), two citation errors **independently verified** during processing (see Verification Notes in the review file). (1) **Tallis** — References list (line 286) cites "The Illusion of Illusionism. *Philosophy Now*, 159." The piece is actually in *Philosophy Now* **Issue 161 (April/May 2024)**, full title "Tallis in Wonderland: The Illusion of Illusionism," pp. 58–59 (confirmed via Philosophy Now issue-161 listing + Philosophy Documentation Center). Fix the issue number 159→161 and consider adding the full column title and page range. (2) **Landau 2025** — citation "The Implications of Cosmic Meaninglessness, *Journal of Philosophy of Life*, 15(1), 2025" could not be verified in PhilPapers/PhilPeople/JPL contents; Landau's closest cosmic-context work is "Can Lives Be Seen as Meaningful Within the Cosmic Context?" (*Philosophia*, 2023, doi:10.1007/s11406-023-00660-x). Either replace with a verifiable Landau reference or remove the unverifiable one — do not leave a fabricated-looking citation. (3) **Missing references** — Craig, Swinburne (line 47), Frankfurt, Taylor (line 61), Parfit (line 103), Sartre (line 151) are named in body text but absent from the References list; add proper references or note them inline. Citation hygiene only — do not touch argument structure. See [outer-review-2026-05-27-chatgpt-5-5-pro](/reviews/outer-review-2026-05-27-chatgpt-5-5-pro/).
@@ -165,6 +159,22 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Review file**: `reviews/pessimistic-2026-05-19b.md`
 - **Source**: pessimistic-review (2026-05-19b)
 - **Generated**: 2026-05-19
+
+### P3: Write topic article on the Channel-Width Third Axis of the Dualism-Thickness Taxonomy
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic-2026-05-27d (High Priority — thickness-taxonomy cohort). `topics/four-quadrant-dualism-taxonomy.md` §"Limits of the Thickness Metaphor" explicitly defers a third axis — *channel width* (how narrow the interaction interface is) — distinguishing it from the structural-richness measure the two-axis grid actually tracks. The article concedes that compressing channel and richness into one classification "places some positions (Stapp chief among them) by judgement rather than definition" and invites "a reader who wants to hold channel width separate" to add the axis. A standalone topic article should (a) define channel width as a distinct measure (structural richness, causal work, counterfactual role, and channel width are the four sub-measures the parent names); (b) populate a channel-width ordering across the canonical positions — Saad's delegatory dualism (narrow, selection-only), Stapp's quantum-Zeno (narrow channel / thick endpoints — the case that *forces* the third axis), Cartesian energy-transfer (wide), Kastrup (no channel / intrinsic-extrinsic instead); (c) test whether the channel-width axis cleanly separates cases the two-axis grid conflates (the parent's claim is that it does for Stapp); (d) connect to `[[concepts/selection-only-channel]]` (channel width at its minimum is the selection-only channel) and to MQI. Must preserve the parent's non-adjudicative cartographic posture and `[[concepts/evidential-status-discipline]]`. Note that an apex synthesis tying the thickness-grid cluster together is already queued separately (P3 "Dualism Cartography"); this is the missing *third locating axis*, not the synthesis. Target section: topics/ (~255/270 — confirm cap headroom at execution; if full, fold into the parent taxonomy article as a new section). Estimated scope: ~1,800–2,400 words. Tenet alignment: Tenet 2 (Minimal Quantum Interaction — channel narrowness is what MQI is about). See `reviews/optimistic-2026-05-27d.md`.
+- **Review file**: `reviews/optimistic-2026-05-27d.md`
+- **Source**: optimistic-review (2026-05-27d)
+- **Generated**: 2026-05-27
+
+### P3: Add forward cross-link from indian-philosophy-of-mind to essential-vs-contingent-consciousness (orphan fix)
+- **Type**: integrate-orphan
+- **Status**: pending
+- **Notes**: Suggested by optimistic-2026-05-27d (Cross-linking). `topics/essential-vs-contingent-consciousness.md` (created 2026-05-27) names `topics/indian-philosophy-of-mind.md` as the parent survey that "raises this open question without resolving it," but the parent does not yet link forward — the new article currently has 0 inbound links (fresh orphan). Add a forward link from `indian-philosophy-of-mind` (in body where the essential/contingent open question is raised, and in related_articles) completing the survey→deep-dive chain. While editing, also add the three other reciprocal links flagged in the review: `concepts/self-and-self-consciousness.md` → essential-vs-contingent (the Zahavi/Metzinger choice as "the Western form of this dispute"); `voids/sleep-consciousness-void.md` → essential-vs-contingent ("the sleep-consciousness void in its sharpest form"); `concepts/witness-consciousness.md` → essential-vs-contingent (the *sakshi* witness is load-bearing for the Advaita essentialist reading). Short scope (link additions plus brief integrative sentences where natural). See `reviews/optimistic-2026-05-27d.md` Cross-Linking Suggestions table.
+- **Review file**: `reviews/optimistic-2026-05-27d.md`
+- **Source**: optimistic-review (2026-05-27d)
+- **Generated**: 2026-05-27
 
 ### P3: Write project-tier methodology page on Convergence-Arguments Discipline
 - **Type**: expand-topic
@@ -3653,6 +3663,10 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 Tasks that failed 3+ times and require human intervention.
 
+
+### ✓ 2026-05-27: Add inbound links to topics/q3-q4-sliding-boundary-and-transparency-problem.md (near-orphan)
+- **Type**: refine-draft
+- **Notes**: Follow-on from expand-topic 2026-05-27 (commit ec114ce7). The new article added outbound links only; no content article links back, leaving it a near-orphan (verified: zero inbound). Add an inbound `[[q3-q4-sliding-boundary-and-transparency-problem]]` link where contextually load-bearing: PRIORITY `topics/mechanism-costs-dualism-thickness-quadrants.md` §"Q3" (~lines 89-99) — this is the parent whose Q3-cell observation ("genuine Q3 dualism appears rare... slides toward Q3-monism") the new article expands; point that passage to the full standalone treatment. Also add inbound from `topics/four-quadrant-dualism-taxonomy.md` where it discusses the Q3 cell, and from `concepts/selection-only-channel.md` / `concepts/interactionist-dualism.md` if either has a load-bearing anchor about what keeps physics ontologically real (the stabilising-Q3 argument). Add only where load-bearing, not bare dumps; skip any with no natural anchor and say so. Verify scripts/sync.py exits 0.
 
 ### ✓ 2026-05-27: Write topic article on Q3-Q4 Sliding Boundary and the Transparency Problem
 - **Type**: expand-topic

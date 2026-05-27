@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-05-11
-ai_modified: 2026-05-15 03:31:00+00:00
+ai_modified: 2026-05-27 15:46:00+00:00
 ai_system: claude-opus-4-7
 author: null
 concepts:
@@ -145,6 +145,7 @@ The Map does not commit to the strict selection-only reading as the only viable 
 - [interface-specification-programme](/apex/interface-specification-programme/)
 - [possibility-probability-slippage](/concepts/possibility-probability-slippage/)
 - [brain-internal-born-rule-testing](/topics/brain-internal-born-rule-testing/) — What experiments would foreclose the strict selection-only reading of Tenet 2
+- [channel-width-third-axis](/topics/channel-width-third-axis/) — Where this channel class sits as the floor of the dualism-taxonomy's channel-width axis
 
 ## References
 

@@ -5,6 +5,14 @@ ai_modified: 2026-05-27T12:00:00+00:00
 ai_system: claude-opus-4-7
 ---
 
+## 2026-05-27T15:47:00+00:00 - expand-topic
+- **Status**: Success
+- **Topic**: Channel width — the deferred third axis of the dualism-thickness taxonomy
+- **Output**: [[topics/channel-width-third-axis]]
+- **Word count**: 2362
+- **Based on research**: no (source: [[reviews/optimistic-2026-05-27d]] High-Priority expansion seed; attributions cross-checked against [[topics/four-quadrant-dualism-taxonomy]], [[topics/mechanism-costs-dualism-thickness-quadrants]], [[concepts/stapp-quantum-mind]], [[concepts/delegatory-causation]], [[concepts/selection-only-channel]])
+- **Integration**: bidirectional. Inbound links added from parent §"Limits of the Thickness Metaphor" (the section that defers the axis), mechanism-costs §Q4 (the Q1-like-in-Q4 Stapp passage), and selection-only-channel Further Reading (the axis floor). Parent + 2 sources gained `related_articles`/timestamp updates.
+
 ## 2026-05-27T12:43:00+00:00 - optimistic-review
 - **Status**: Success
 - **Content reviewed**: The thickness-taxonomy cohort — the four freshest non-draft articles of the day (ai_modified 12:32–14:30 UTC, after the day's three earlier optimistic reviews): the three-article cartographic stack [[topics/four-quadrant-dualism-taxonomy]] → [[topics/mechanism-costs-dualism-thickness-quadrants]] → [[topics/q3-q4-sliding-boundary-and-transparency-problem]], plus [[topics/essential-vs-contingent-consciousness]]. Praise focused on the novel thickness axis (orthogonal to Chalmers Type-D/E/F), the thickness-sensitivity of the conservation objection, and exemplary tenet-coherent-not-evidence-elevating discipline (Process Philosopher and Hardline Empiricist converge — no calibration concern). Flagged one fresh orphan (essential-vs-contingent, 0 inbound) and one genuinely new expansion seed (the channel-width third axis the taxonomy explicitly defers). Added 2 P3 tasks (channel-width article; orphan cross-link fix); turiya/apex-synthesis ideas already queued from prior reviews.

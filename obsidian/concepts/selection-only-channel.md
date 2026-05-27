@@ -4,7 +4,7 @@ description: "Information-channel framing of selection-only mind-influence: per-
 created: 2026-05-11
 modified: 2026-05-11
 human_modified:
-ai_modified: 2026-05-15T03:31:00+00:00
+ai_modified: 2026-05-27T15:46:00+00:00
 last_deep_review: 2026-05-11T19:11:00+00:00
 draft: false
 topics:
@@ -143,6 +143,7 @@ The Map does not commit to the strict selection-only reading as the only viable 
 - [[interface-specification-programme]]
 - [[possibility-probability-slippage]]
 - [[brain-internal-born-rule-testing]] — What experiments would foreclose the strict selection-only reading of Tenet 2
+- [[channel-width-third-axis]] — Where this channel class sits as the floor of the dualism-taxonomy's channel-width axis
 
 ## References
 

@@ -159,14 +159,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: pessimistic-review (2026-05-19b)
 - **Generated**: 2026-05-19
 
-### P3: Write topic article on the Channel-Width Third Axis of the Dualism-Thickness Taxonomy
-- **Type**: expand-topic
-- **Status**: pending
-- **Notes**: Suggested by optimistic-2026-05-27d (High Priority — thickness-taxonomy cohort). `topics/four-quadrant-dualism-taxonomy.md` §"Limits of the Thickness Metaphor" explicitly defers a third axis — *channel width* (how narrow the interaction interface is) — distinguishing it from the structural-richness measure the two-axis grid actually tracks. The article concedes that compressing channel and richness into one classification "places some positions (Stapp chief among them) by judgement rather than definition" and invites "a reader who wants to hold channel width separate" to add the axis. A standalone topic article should (a) define channel width as a distinct measure (structural richness, causal work, counterfactual role, and channel width are the four sub-measures the parent names); (b) populate a channel-width ordering across the canonical positions — Saad's delegatory dualism (narrow, selection-only), Stapp's quantum-Zeno (narrow channel / thick endpoints — the case that *forces* the third axis), Cartesian energy-transfer (wide), Kastrup (no channel / intrinsic-extrinsic instead); (c) test whether the channel-width axis cleanly separates cases the two-axis grid conflates (the parent's claim is that it does for Stapp); (d) connect to `[[concepts/selection-only-channel]]` (channel width at its minimum is the selection-only channel) and to MQI. Must preserve the parent's non-adjudicative cartographic posture and `[[concepts/evidential-status-discipline]]`. Note that an apex synthesis tying the thickness-grid cluster together is already queued separately (P3 "Dualism Cartography"); this is the missing *third locating axis*, not the synthesis. Target section: topics/ (~255/270 — confirm cap headroom at execution; if full, fold into the parent taxonomy article as a new section). Estimated scope: ~1,800–2,400 words. Tenet alignment: Tenet 2 (Minimal Quantum Interaction — channel narrowness is what MQI is about). See `reviews/optimistic-2026-05-27d.md`.
-- **Review file**: `reviews/optimistic-2026-05-27d.md`
-- **Source**: optimistic-review (2026-05-27d)
-- **Generated**: 2026-05-27
-
 ### P3: Add forward cross-link from indian-philosophy-of-mind to essential-vs-contingent-consciousness (orphan fix)
 - **Type**: integrate-orphan
 - **Status**: pending
@@ -3662,6 +3654,10 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 Tasks that failed 3+ times and require human intervention.
 
+
+### ✓ 2026-05-27: Write topic article on the Channel-Width Third Axis of the Dualism-Thickness Taxonomy
+- **Type**: expand-topic
+- **Notes**: Suggested by optimistic-2026-05-27d (High Priority — thickness-taxonomy cohort). `topics/four-quadrant-dualism-taxonomy.md` §"Limits of the Thickness Metaphor" explicitly defers a third axis — *channel width* (how narrow the interaction interface is) — distinguishing it from the structural-richness measure the two-axis grid actually tracks. The article concedes that compressing channel and richness into one classification "places some positions (Stapp chief among them) by judgement rather than definition" and invites "a reader who wants to hold channel width separate" to add the axis. A standalone topic article should (a) define channel width as a distinct measure (structural richness, causal work, counterfactual role, and channel width are the four sub-measures the parent names); (b) populate a channel-width ordering across the canonical positions — Saad's delegatory dualism (narrow, selection-only), Stapp's quantum-Zeno (narrow channel / thick endpoints — the case that *forces* the third axis), Cartesian energy-transfer (wide), Kastrup (no channel / intrinsic-extrinsic instead); (c) test whether the channel-width axis cleanly separates cases the two-axis grid conflates (the parent's claim is that it does for Stapp); (d) connect to `[[concepts/selection-only-channel]]` (channel width at its minimum is the selection-only channel) and to MQI. Must preserve the parent's non-adjudicative cartographic posture and `[[concepts/evidential-status-discipline]]`. Note that an apex synthesis tying the thickness-grid cluster together is already queued separately (P3 "Dualism Cartography"); this is the missing *third locating axis*, not the synthesis. Target section: topics/ (~255/270 — confirm cap headroom at execution; if full, fold into the parent taxonomy article as a new section). Estimated scope: ~1,800–2,400 words. Tenet alignment: Tenet 2 (Minimal Quantum Interaction — channel narrowness is what MQI is about). See `reviews/optimistic-2026-05-27d.md`.
 
 ### ✓ 2026-05-27: Add inbound links to topics/q3-q4-sliding-boundary-and-transparency-problem.md (near-orphan)
 - **Type**: refine-draft

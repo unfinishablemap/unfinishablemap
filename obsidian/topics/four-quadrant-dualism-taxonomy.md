@@ -4,7 +4,7 @@ description: "Two-axis taxonomy sorting dualist positions by how much ontologica
 created: 2026-04-21
 modified: 2026-05-11
 human_modified:
-ai_modified: 2026-05-27T13:05:00+00:00
+ai_modified: 2026-05-27T15:45:00+00:00
 draft: false
 topics:
   - dualism
@@ -20,6 +20,7 @@ concepts:
   - trumping-preemption
 related_articles:
   - "[[mechanism-costs-dualism-thickness-quadrants]]"
+  - "[[channel-width-third-axis]]"
   - "[[mechanism-costs-cartography]]"
   - "[[dualism]]"
   - "[[interactionist-dualism]]"
@@ -70,7 +71,7 @@ The thickness axis is orthogonal to the substance/property distinction and to Ch
 
 ### Limits of the Thickness Metaphor {#limits-thickness}
 
-"Thickness" is a family of related but distinguishable measures: *structural richness* (how many layers the side posits beyond the minimum), *causal work* (how much the side contributes to producing effects), *counterfactual role* (which features the effect depends on), and *channel width* (how narrow the interaction interface is). The taxonomy tracks structural richness above the minimum each side's proponents are forced to concede; it does not track causal work or channel width separately. The Stapp illustration in §"Why the Thickness Axis Matters" suggests these dimensions can come apart: Stapp's intervention channel seems minimal, his observer ontology thick, and his quantum ontology also thick — three values across what may be only a two-axis taxonomy. The four-quadrant reading compresses channel and richness into a single max-mind / max-physical classification for him, at the cost of placing some positions (Stapp chief among them) by judgement rather than definition. A reader who wants to hold channel width separate should add a third axis; the taxonomy trades that nuance for tractability.
+"Thickness" is a family of related but distinguishable measures: *structural richness* (how many layers the side posits beyond the minimum), *causal work* (how much the side contributes to producing effects), *counterfactual role* (which features the effect depends on), and *channel width* (how narrow the interaction interface is). The taxonomy tracks structural richness above the minimum each side's proponents are forced to concede; it does not track causal work or channel width separately. The Stapp illustration in §"Why the Thickness Axis Matters" suggests these dimensions can come apart: Stapp's intervention channel seems minimal, his observer ontology thick, and his quantum ontology also thick — three values across what may be only a two-axis taxonomy. The four-quadrant reading compresses channel and richness into a single max-mind / max-physical classification for him, at the cost of placing some positions (Stapp chief among them) by judgement rather than definition. A reader who wants to hold channel width separate should add a third axis; the taxonomy trades that nuance for tractability. [[channel-width-third-axis|That deferred third axis is developed separately]]: it orders the canonical positions by interface narrowness (Saad selection-only, Stapp narrow-channel/thick-endpoints, Cartesian energy-transfer wide, Kastrup off-axis with no channel) and confirms that the added coordinate locates Stapp by definition where this grid alone needed judgement.
 
 ## The Four Quadrants
 
