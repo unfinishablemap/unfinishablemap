@@ -4,7 +4,7 @@ description: "Two forms of dualism: separate mental substances versus irreducibl
 created: 2026-01-14
 modified: 2026-01-16
 human_modified: null
-ai_modified: 2026-05-25T00:00:00+00:00
+ai_modified: 2026-05-27T00:00:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -32,7 +32,7 @@ author: null
 ai_system: claude-opus-4-5-20251101
 ai_generated_date: 2026-01-14
 last_curated: null
-last_deep_review: 2026-04-16T20:55:00+00:00
+last_deep_review: 2026-05-27T00:00:00+00:00
 ---
 
 Dualism comes in two main varieties. Substance dualism holds that mind and body are different *kinds of thing*—distinct substances. Property dualism holds that mental properties are genuinely different from physical properties, without positing separate substances. Both reject [[concepts/materialism|materialism's]] claim that everything is ultimately physical, but disagree about the underlying metaphysical structure.
@@ -123,7 +123,7 @@ Tegmark (2000) calculated decoherence times for neural microtubules at 10⁻¹³
 
 ### Three Mitigating Considerations
 
-**Disputed timescales:** Hagan et al. (2002) challenged Tegmark's parameters, yielding estimates seven orders of magnitude longer (10⁻⁵ to 10⁻⁴ seconds); faster microtubule dynamics may relax the requirement further. **Biological quantum effects prove feasibility:** avian magnetoreception relies on quantum spin coherence in cryptochrome proteins persisting for microseconds (Xu et al. 2026)—if evolution can optimise quantum effects for navigation, it might for consciousness. **Decoherence doesn't solve collapse:** it suppresses superpositions and selects preferred bases, but leaves the system in a mixture without determining which outcome is measured; consciousness could bias outcomes at measurement even after decoherence has done its work. See [[decoherence]] for the full treatment.
+**Disputed timescales:** Hagan et al. (2002) challenged Tegmark's parameters, yielding estimates seven orders of magnitude longer (10⁻⁵ to 10⁻⁴ seconds); faster microtubule dynamics may relax the requirement further. **Biological quantum effects prove feasibility:** avian magnetoreception relies on quantum spin coherence in cryptochrome proteins persisting for microseconds, with Xu et al. (2026) providing computational support for the radical-pair mechanism—if evolution can optimise quantum effects for navigation, it might for consciousness, though cryptochrome's specific architecture does not by itself license neural-scale coherence. **Decoherence doesn't solve collapse:** it suppresses superpositions and selects preferred bases, but leaves the system in a mixture without determining which outcome is measured; consciousness could bias outcomes at measurement even after decoherence has done its work. See [[decoherence]] for the full treatment.
 
 ### Implications for the Distinction
 

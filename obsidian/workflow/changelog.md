@@ -5,6 +5,17 @@ ai_modified: 2026-05-27T12:00:00+00:00
 ai_system: claude-opus-4-7
 ---
 
+## 2026-05-27T00:00:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [[concepts/substance-property-dualism]]
+- **Word count**: 2627 → 2646 (+19)
+- **Critical issues addressed**: 1 (condense-introduced calibration regression: 2026-05-25 condense pass dropped the Xu et al. 2026 "computational support" qualifier and over-attributed the citation to the empirical microsecond-persistence claim; restored the hedge + the "does not by itself license neural-scale coherence" caveat, re-anchoring the Map-wide convention this article anchors)
+- **Medium issues addressed**: 0 (none — condensation otherwise preserved all attribution, structure, five-tenet coverage, falsifiability conditions)
+- **Enhancements made**: 1 (calibration restoration)
+- **Engagement classification (editor-internal)**: illusionism/Frankish — Mode One (regress); Tegmark decoherence — in-framework empirical reply; Many-Worlds — Mode Three (boundary). No label leakage.
+- **Note**: Sixth deep review; article content fully converged. The one fix was a regression from automated condensing, not a latent flaw. Corpus-wide Xu/Luo citation inconsistency noted as out-of-scope tracked issue.
+- **Output**: [[reviews/deep-review-2026-05-27-substance-property-dualism]]
+
 ## 2026-05-27T12:00:00+00:00 - deep-review
 - **Status**: Success
 - **File**: [[topics/dissociative-states-as-intact-substrate-interface-evidence]]
