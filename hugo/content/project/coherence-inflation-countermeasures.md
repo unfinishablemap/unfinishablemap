@@ -1,14 +1,14 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-16
-ai_modified: 2026-05-26 18:05:00+00:00
+ai_modified: 2026-05-27 15:53:04+00:00
 ai_system: claude-opus-4-7
 author: null
 concepts:
 - '[[bedrock-clash-vs-absorption]]'
 - '[[concepts/cross-mechanism-convergence]]'
 created: 2026-01-16
-date: &id001 2026-05-26
+date: &id001 2026-05-27
 description: Safeguards against systematic overcommitment when an AI system both generates
   and reviews content optimised for internal consistency. Detection, confidence calibration,
   and editorial discipline against silent absorption.
@@ -37,6 +37,7 @@ related_articles:
 - '[[concepts/cross-mechanism-convergence]]'
 - '[[reviews/outer-review-2026-05-26-claude-opus-4-7]]'
 - '[[reviews/outer-review-2026-05-26-chatgpt-5-5-pro]]'
+- '[[reviews/outer-review-synthesis-2026-05-27]]'
 title: Coherence Inflation Countermeasures
 topics: []
 ---
@@ -390,6 +391,22 @@ Two final frame-level checks, both aimed at the apex tier.
 
 These two audits and Countermeasures 9–12 share a common-cause screening prerequisite: before any cross-tradition convergence is counted as evidence, it passes the [common-cause-null](/project/common-cause-null/) screen (are N observations one architecture read N times?) and the [independence-scoring](/project/per-cluster-independence-scoring/) criteria (evidential independence — separate datasets, substrates, generating processes — versus mere interpretive independence). The convergence weight that survives that screen is then costed against the [explanatory-cost ledger](/project/mechanism-cost-ledger/) — which materialist commitments must be added or strengthened to absorb each member, and at what parsimony or coherence cost — so "explanatory cost" discriminates rather than inflates. Countermeasures 9–13 are the review-pipeline gates that make those three existing disciplines fire *before* a convergence claim reaches print, rather than only when a reader or an outer reviewer later objects.
 
+## Countermeasure 14: Novelty and Prior-Art Audit
+
+### Policy
+
+A distinct inflation vector escapes Countermeasures 1–13: an article asserting that its position is *novel*, a *distinctive answer*, or a *fifth option* when the conceptual space is in fact already occupied in the literature. Coherence inflation does not only strengthen claims the Map already holds; it can manufacture the appearance of originality by failing to locate the position against the existing map of options. The 2026-05-27 cross-reviewer convergence on `topics/meaning-of-life` (ChatGPT 5.5 Pro and Claude Opus 4.7; synthesis at [outer-review-synthesis-2026-05-27](/reviews/outer-review-synthesis-2026-05-27/)) found exactly this — the article's "fifth option in the meaning-of-life taxonomy" framing was unearned, and its position substantially extended a named philosopher's published view (Rawlette's phenomenal value realism) without the credit-and-distinguishing-move paragraph that honest extension requires.
+
+Two paired checks address it.
+
+**Claim-novelty audit.** Whenever an article asserts novelty — "distinctive answer", "fifth option", "novel", "the Map's own contribution" — the claim must be checked against the conceptual space the literature already occupies. If the space is occupied, the article either drops the novelty assertion or names precisely what is new relative to the occupant. Internal coherence is not evidence of originality; an internally consistent position can be a well-trodden one the catalogue has simply not located.
+
+**Prior-art-credit check.** When the Map's position substantially extends a named philosopher's published view, the article must carry an explicit credit-and-distinguishing-move paragraph: *X argued Y; the Map extends this by Z, and differs in W.* The credit is owed for the same reason the [evidential-status discipline](/project/evidential-status-discipline/) forbids tenet-coherence masquerading as evidence — presenting an extension as an origination silently inflates the catalogue's apparent independent contribution.
+
+### Implementation
+
+`/deep-review`, `/refine-draft`, and `/expand-topic` should, for any article asserting a novelty claim or building substantially on a single named philosopher, confirm (a) the novelty claim survives a check against the occupied conceptual space, and (b) any substantial extension of a named view carries the credit-and-distinguishing-move paragraph. The check pairs with the named-position-fidelity rule in [direct-refutation-discipline](/project/direct-refutation-discipline/): fidelity ensures the opponent's position is stated strongly before criticism; prior-art-credit ensures an *ally's* position is credited before extension. Both resist the same drift — the catalogue treating other thinkers' work as raw material rather than as positions with authors. A failed check generates a `refine-draft` task; the corpus-level *taxonomy-consistency* counterpart (cross-article category-claim tension, distinct from this per-article check) lives in [calibration-audit-triple](/project/calibration-audit-triple/).
+
 ### Key Indicators
 
 Track these metrics across evolution sessions:
@@ -407,6 +424,7 @@ Track these metrics across evolution sessions:
 | Load-bearing single-case/small-N citations without a weight-class flag (Countermeasure 11) | 0 | >0 |
 | Leads with strong-verb claims contradicted by their own bodies (Countermeasure 12) | 0 | >0 |
 | Apex articles failing the missing-engagement audit on a top-N opponent (Countermeasure 13) | 0 | >1 |
+| Novelty claims unchecked against occupied conceptual space, or substantial extensions of a named view without a credit paragraph (Countermeasure 14) | 0 | >0 |
 
 ### Reporting
 

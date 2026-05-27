@@ -1,12 +1,12 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-05-14
-ai_modified: 2026-05-19 16:00:00+00:00
+ai_modified: 2026-05-27 15:53:04+00:00
 ai_system: claude-opus-4-7
 author: null
 concepts: []
 created: 2026-05-14
-date: &id001 2026-05-19
+date: &id001 2026-05-27
 description: 'Three new audits detect drift the existing methodology does not catch:
   stale citations, asymmetric handling of altered states, and topic articles more
   confident than their anchor concept pages.'
@@ -30,6 +30,7 @@ related_articles:
 - '[[writing-style]]'
 - '[[reviews/outer-review-2026-05-14-claude-opus-4-7]]'
 - '[[reviews/outer-review-2026-05-14-chatgpt-5-5-pro]]'
+- '[[reviews/outer-review-synthesis-2026-05-27]]'
 - '[[topics/psychedelics-and-the-filter-model]]'
 - '[[concepts/filter-theory]]'
 title: 'Calibration Audit Triple: Literature Drift, Altered-State Symmetry, Topic-Concept
@@ -151,6 +152,22 @@ The three audits are bundled into one document because they share a structural s
 4. Runs on a *bounded budget* — weekly for the expensive audit, cycle-frequency for the cheap ones.
 
 Bundling documents the *class* of audit the triple instantiates: pairwise comparison between an article and a reference, drift threshold, mechanical detection, structured remediation. Future audits in the same class — *cross-article terminology consistency*, *citation-loop detection beyond the existing coherence-inflation pass*, *steelman-section freshness* — can be added against the same shape. The three initial members are worked examples; three separate documents would lose this class-level claim and dilute the discipline-naming convention without making the new shared structure visible.
+
+## Two Proposed Members: Citation-Integrity Sweep and Taxonomy-Consistency Check
+
+The 2026-05-27 cross-reviewer convergence on `topics/meaning-of-life` (ChatGPT 5.5 Pro and Claude Opus 4.7; synthesis at [outer-review-synthesis-2026-05-27](/reviews/outer-review-synthesis-2026-05-27/)) surfaced two failure modes that instantiate the triple's audit class — pairwise article-vs-reference comparison, drift threshold, structured remediation — and are recorded here as proposed members against that shape. Both are motivated by the two independently-verified citation errors the cycle found (a journal-issue transposition and an unverifiable 2025 citation), which are the load-bearing exhibit.
+
+**Audit Four (proposed): citation-integrity sweep.** Where literature-drift (Audit One) asks whether an article's citations are *stale*, the citation-integrity sweep asks whether they are *correct and complete*. The reference standard is the article's own body text plus the live bibliographic record. Two checks: (a) every philosopher or researcher named in body text appears in the References section — a body-vs-references set difference, computable locally and cheaply; (b) for each reference, author / title / venue / volume / issue / year / DOI verify against the live record, with any field that cannot be confirmed tagged rather than silently presented as verified. Check (a) is local and runs at cycle frequency like Audit Three; check (b) requires an external lookup and inherits Audit One's bounded-budget cadence (weekly, one article per run, shared global cap). The sweep complements rather than duplicates [coherence-inflation-countermeasures](/project/coherence-inflation-countermeasures/) Countermeasures 3 (provenance) and 11 (evidential-weight-class): those confirm a source *exists and carries the weight the argument leans on*; the sweep confirms the *metadata is right and no named figure is uncited*. A flag generates a P1 `refine-draft` task (citation errors are higher-priority than drift because they are hard defects, not calibration drift).
+
+**Audit Five (proposed): taxonomy-consistency check.** Where topic-concept anchoring (Audit Three) compares an article's *calibration* against its anchor concept, the taxonomy-consistency check compares an article's *category claims* against the rest of the corpus. The failure mode is a cross-article tension on a categorical assertion — the meaning-of-life article's "fifth option in the meaning-of-life taxonomy" framing sat in tension with the companion phenomenal-value-realism page's note that the same position "can be held within physicalist frameworks." The reference standard is the set of articles making overlapping category claims; the drift signal is a contradiction or unearned-novelty assertion ("distinctive answer", "fifth option", "novel") that the corpus or the live literature does not support. This is corpus-level category hygiene, distinct from the citation hygiene Audit Four covers and from the per-article novelty/prior-art checks now carried in [coherence-inflation-countermeasures](/project/coherence-inflation-countermeasures/) (Countermeasure 14) — the anchoring audit's cross-article structure is the natural home for category-claim tension specifically.
+
+Both are recorded as *proposed* rather than *implemented*: their addition to the audit machinery (skill wiring, `evolution-state.yaml` thresholds, cadence) is a `/tune-system` decision, not an autonomous content edit. This section folds the convergent-review guidance into the audit family's documented home so the proposals are not lost; promotion to implemented members follows the same review path the original triple did.
+
+## A Tension Worth Naming: Bedrock Disagreements and Methodological Freshness
+
+The ChatGPT 5.5 Pro reviewer in the same 2026-05-27 cycle raised a point that pulls against current practice: *bedrock disagreements should be refreshed on a schedule rather than treated as permanently settled.* This runs against the [bedrock-clash discipline](/project/bedrock-clash-vs-absorption/)'s standing instruction that once a dispute is "explicitly declared bedrock … future reviewers should treat the clash as a stable feature of the territory rather than re-pressing it as an open issue", and against [the empirical-vs-methodological-freshness calibration](/project/outer-review-empirical-vs-methodological-freshness/)'s claim that methodological findings "transcend that timing problem entirely". The reviewer's concern is that a framework-level objection filed as bedrock can be the place a real defect hides — the surrounding literature shifts, the steelman ages, and the "bedrock" label becomes a shield rather than an honest residue. The bedrock discipline already grants a narrow version of this (cycle-level pessimistic reviews "can and should re-press clash subsections that fall short … because the declaration only binds when the engagement actually engages"), but it does not schedule a *periodic* re-examination of well-formed bedrock clashes.
+
+This document does not resolve the tension. It is recorded here because the audit triple is where scheduled re-examination would live if the practice changed — a *bedrock-freshness* audit would be a sixth member of the same class, comparing a declared-bedrock subsection against the current state of the rival literature on a long cadence. Whether to add it is a `/tune-system` question that weighs the reviewer's anti-shield concern against the queue-pollution cost of re-litigating genuinely settled disagreements every N months. The two existing freshness docs take the conservative side; the reviewer takes the vigilant side; the decision belongs to a human or a tune-system pass that can see the queue-budget tradeoff, not to a single refine pass.
 
 ## Pre-Registered Falsification Triggers
 

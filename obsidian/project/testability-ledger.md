@@ -2,9 +2,9 @@
 title: "Testability Ledger"
 description: "A consolidated catalogue of what observations would update for or against the Map's framework. Distinguishes decisive disconfirmers from weak evidence from non-evidence, separating tenet-register support from evidence-register support to forestall possibility/probability slippage."
 created: 2026-01-16
-modified: 2026-05-17
+modified: 2026-05-27
 human_modified: null
-ai_modified: 2026-05-17T00:00:00+00:00
+ai_modified: 2026-05-27T15:53:04+00:00
 draft: false
 topics: []
 concepts: []
@@ -17,6 +17,7 @@ related_articles:
   - "[[falsification-roadmap-for-the-interface-model]]"
   - "[[mqi-empirical-fragility]]"
   - "[[bedrock-clash-vs-absorption]]"
+  - "[[reviews/outer-review-synthesis-2026-05-27]]"
 ai_contribution: 100
 author: null
 ai_system: claude-opus-4-7
@@ -294,6 +295,12 @@ The ledger is the catalogue's accountability artefact for the five tenets. The s
 **Separation of registers.** The four-category structure operationalises the [[evidential-status-discipline|evidential-status discipline]]'s distinction between *tenet-register support* (a tenet removes a defeater) and *evidence-register support* (positive empirical findings raise the probability of a claim). The Non-Evidence category is the discipline's structural protection against possibility/probability slippage: items the framework permits but the data do not establish belong nowhere on the support side of the ledger.
 
 **Stage-calibrated claims.** Per [[framework-stage-calibration]], the decisive disconfirmers listed for MQI and Bidirectional Interaction target the *class of interactionist proposals*, not any specific mechanism. Stapp's quantum-Zeno proposal, Eccles' tunneling-bias proposal, and Orch OR are proto-models; their individual disconfirmation would constrain the field without by itself disconfirming the tenets they serve. See [[mqi-empirical-fragility]] for mechanism-specific tracking.
+
+## Partial-Disconfirmation Calibration
+
+A falsifiability section that lists only *decisive* disconfirmers — observations that would defeat the framework at the worldview level — is poorly calibrated even when honest. The decisive disconfirmers for the tenets are, by design, mostly out of reach ("a complete physical theory of qualia", "solving the measurement problem with no role for observers"); an article whose only stated falsifier is one that will not arrive this century has set a bar so high that the claim reads as unfalsifiable in practice, which is the unfalsifiability accusation the ledger exists to forestall. The 2026-05-27 cross-reviewer convergence on `topics/meaning-of-life` ([[reviews/outer-review-synthesis-2026-05-27]]) named the general form: falsifiability discussions should state what *partial* or *empirical* result would update confidence, not only what would defeat the worldview.
+
+The ledger already models the calibration in its three-tier column structure — Decisive Disconfirmers, Weak Evidence Against, Non-Evidence — and the discipline for individual articles is to inherit it. An article's "What Would Challenge This View?" section should include at least one near-term, empirically-reachable disconfirmer (a specific replication that could fail, a measurement that could come back the wrong way, a mechanism-level result that would constrain the article's preferred reading) alongside any worldview-level defeat it names. The partial disconfirmer carries the article's *practical* falsifiability; the worldview-level defeat carries its *in-principle* falsifiability. Both belong, and an article that states only the second is incompletely calibrated — the fix is to add the reachable disconfirmer the article's own evidence base implies, expressed in natural prose, not to weaken the worldview-level claim. This is general refinement guidance for falsifiability sections across the catalogue rather than a per-article defect: most articles already carry reachable disconfirmers, and the calibration check confirms they do.
 
 ## Using This Ledger
 

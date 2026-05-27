@@ -1,9 +1,28 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-27T15:47:42+00:00
+ai_modified: 2026-05-27T15:53:04+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-05-27T15:53:04+00:00 - refine-draft
+- **Status**: Success
+- **File**: project methodology pages (4) — [[project/direct-refutation-discipline]], [[project/calibration-audit-triple]], [[project/coherence-inflation-countermeasures]], [[project/testability-ledger]]
+- **Type**: Project-doc methodology refine (not a content article). Source: convergent outer reviews 2026-05-27 (ChatGPT 5.5 Pro + Claude Opus 4.7), synthesis [[reviews/outer-review-synthesis-2026-05-27]]. Consolidated 7-item review-methodology checklist folded into best-fit existing discipline pages; no new pages created, no skill files touched.
+- **Coverage assessment (which item → which page; what was judged already-covered)**:
+  - (1) Opponent-reply requirement → **direct-refutation-discipline** (new "Engaging the Position, Not the Name" section). GENUINELY UNCOVERED: existing doc classifies the Map's *reply mode* but never required anticipating the opponent's rejoinder *to that reply* — the meaning-of-life "engages the name not the position" defect.
+  - (5) Named-position-fidelity rule → **direct-refutation-discipline** (same new section, paired with item 1 as its precondition). Adjacent to coherence-inflation CM2/CM10 (steelman/steelman-mirror) but those target major *worldviews*; the fidelity rule applies at the grain of each *individual named philosopher* (Benatar/Landau/Nagel misfiling). Cross-referenced CM2/CM10 to mark the distinction.
+  - (2) Citation-integrity sweep → **calibration-audit-triple** (proposed "Audit Four"). PARTIALLY covered: coherence-inflation CM3 (provenance) + CM11 (weight-class) confirm a source exists and carries weight, but body-vs-references completeness + metadata-field verification as a *periodic sweep* was unowned. Synthesis explicitly suggested the triple own it. Recorded as *proposed* (skill wiring is a tune-system decision).
+  - (6) Taxonomy-consistency check → **calibration-audit-triple** (proposed "Audit Five"). UNCOVERED: cross-article *category-claim* tension (vs. citation hygiene). Fits the triple's existing cross-article pairwise-comparison audit class (Audit Three already does topic-concept). Recorded as proposed.
+  - (3) Claim-novelty audit → **coherence-inflation-countermeasures** (new Countermeasure 14, paired with item 4). UNCOVERED: novelty/"fifth option" over-claiming is a frame-level inflation vector like CM13; added Key Indicators row.
+  - (4) Prior-art-credit check → **coherence-inflation-countermeasures** (Countermeasure 14, paired with item 3). UNCOVERED: credit-and-distinguishing-move for substantial extension of a named view (Rawlette exhibit). Cross-referenced direct-refutation's fidelity rule (fidelity for opponents; credit for allies — same drift).
+  - (7) Partial-disconfirmation calibration → **testability-ledger** (new "Partial-Disconfirmation Calibration" section). PARTIALLY covered: ledger already has the 3-tier column structure (Decisive / Weak Evidence / Non-Evidence); added the discipline that individual articles' "What Would Challenge This View?" sections must inherit it (include a near-term reachable disconfirmer, not only worldview-level defeat). Noted as general refinement, not a per-article defect, per synthesis.
+  - Bedrock-tension note ("refresh bedrock disagreements on schedule" vs. current not-re-flag practice) → **calibration-audit-triple** ("A Tension Worth Naming" section). Did NOT resolve unilaterally per scope guardrail — recorded the tension against [[bedrock-clash-vs-absorption]] and [[outer-review-empirical-vs-methodological-freshness]], flagged a possible "bedrock-freshness" audit as a tune-system question weighing anti-shield vigilance vs. queue-pollution cost.
+- **Incidental cleanup**: Removed a policy-violating `AI REFINEMENT LOG` HTML-comment block (lines 255-277, the 2026-05-13 Mode Four log) from direct-refutation-discipline.md per refine-draft §8 / [[reviews/pessimistic-2026-05-19b]] Issue 1 (HTML comments leak editor-vocabulary to LLM consumers reading raw markdown). The log's substance is already in git history.
+- **Engagement classification**: N/A — methodology-extension refine, not engagement with a named opponent. No reasoning-mode labels introduced into any prose.
+- **Frontmatter**: bumped ai_modified to 2026-05-27T15:53:04+00:00 on all 4 files; added [[reviews/outer-review-synthesis-2026-05-27]] to related_articles on each.
+- **Build**: scripts/sync.py exits 0.
+- **Published**: yes (project docs publish directly; draft: false preserved)
 
 ## 2026-05-27T15:47:42+00:00 - deep-review
 - **Status**: Success

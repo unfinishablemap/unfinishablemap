@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-05-27
-ai_modified: 2026-05-27 14:00:00+00:00
+ai_modified: 2026-05-27 15:47:42+00:00
 ai_system: claude-opus-4-7
 author: null
 concepts:
@@ -19,6 +19,7 @@ description: 'A human+AI worked test design: probing whether an AI''s confidence
 draft: false
 human_modified: null
 last_curated: null
+last_deep_review: 2026-05-27 15:47:42+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -48,7 +49,7 @@ The load-bearing observation: deceptive cues overturn the classical confidence�
 
 This is not a universal inversion. Outside the weak-internal-evidence-plus-deceptive-cue regime, confidence tracks accuracy positively, as the broad [metacognition](/concepts/metacognition/) literature reports. The claim the probe needs is narrower and sharper: there exists an *identifiable regime* in which human metacognitive confidence is actively misleading rather than merely noisy, and that regime is reproducible in the laboratory.
 
-> A citation caveat worth surfacing: this finding is sometimes attributed in secondary sources (including the parent concept page at time of writing) to "Coutinho et al. 2021, *Scientific Reports* 11, 4842." Live-literature verification finds no such *Scientific Reports* paper; the correct source is Rebouillat, Leonetti, and Kouider (2021), *Neuroscience of Consciousness* 2021(1), niab004. This article uses the verified attribution.
+> A citation caveat worth surfacing: this finding was for a time misattributed across secondary sources — and earlier across this site's own corpus — to "Coutinho et al. 2021, *Scientific Reports* 11, 4842." Live-literature verification finds no such *Scientific Reports* paper; the correct source is Rebouillat, Leonetti, and Kouider (2021), *Neuroscience of Consciousness* 2021(1), niab004. The Map's pages have since been corrected to the verified attribution used here. The episode is a worked instance of the intra-corpus citation-propagation failure the [evidential-status discipline](/project/evidential-status-discipline/) is meant to catch: a fabricated reference can survive several internal cross-checks and is broken only by live-literature verification.
 
 ## Specifying the Experimental Design {#design}
 
