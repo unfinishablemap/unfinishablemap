@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-16
-ai_modified: 2026-03-05 01:49:00+00:00
+ai_modified: 2026-05-27 00:00:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -205,7 +205,7 @@ Based on this research, a voids article could:
 ## Citations
 
 - Lewis, D. (1986). *On the Plurality of Worlds*. Blackwell.
-- List, C. (2023). "The Many-Worlds Theory of Consciousness." *Noûs*, 57(2), 329-356.
+- List, C. (2023). "The Many-Worlds Theory of Consciousness." *Noûs*, 57(2), 316-340. (First published online 2022.)
 - Kripke, S. (1980). *Naming and Necessity*. Harvard University Press.
 - Van Inwagen, P. (1998). "Modal Epistemology." *Philosophical Studies*, 92, 67-84.
 - Nagel, T. (1986). *The View from Nowhere*. Oxford University Press.

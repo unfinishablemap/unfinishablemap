@@ -4,7 +4,7 @@ description: "The formal mathematical components and constraints any theory of c
 created: 2026-03-19
 modified: 2026-05-18
 human_modified:
-ai_modified: 2026-05-18T17:37:00+00:00
+ai_modified: 2026-05-27T00:00:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -34,7 +34,7 @@ last_curated:
 last_deep_review: 2026-05-18T17:37:00+00:00
 ---
 
-Any theory claiming that consciousness interacts with physics must specify three formal components: a state space for consciousness, a state space for physics, and a mathematical coupling between them. The Unfinishable Map holds that this coupling is real and causal — not merely correlational — but that quantum foundations impose five non-negotiable constraints on its mathematical form. These constraints are not philosophical preferences; they follow from the structure of quantum mechanics itself. This article defines the formal components and bounds that any adequate interface formalism must satisfy.
+Any theory claiming that consciousness interacts with physics must specify three formal components: a state space for consciousness, a state space for physics, and a mathematical coupling between them. The Unfinishable Map holds that this coupling is real and causal — not merely correlational — but that quantum foundations impose five constraints on its mathematical form wherever the standard quantum postulates hold. These constraints follow from the structure of quantum mechanics rather than from philosophical preference; they are theorems conditional on premises that have been confirmed across photon, atom, and qubit regimes but not inside living neural tissue during a conscious act of selection. Within that tested regime the constraints are non-negotiable; whether they bind the brain-internal interface is the empirically open question the parent [[born-rule-and-the-consciousness-interface]] article holds as a live fork. This article defines the formal components and bounds that any adequate interface formalism must satisfy where they apply.
 
 ## The Three Required Components
 
@@ -50,11 +50,11 @@ No existing framework fully specifies all three components. Proposals specify on
 
 ## The Five Mathematical Constraints
 
-Quantum foundations impose five constraints that any coupling map C must respect. Violating any one produces empirically detectable deviations from established physics.
+Quantum foundations impose five constraints that any coupling map C must respect wherever the standard postulates hold. Violating any one produces empirically detectable deviations from established physics *in the regimes where the postulates have been tested*. Each constraint is a theorem conditional on premises; the brain-internal regime during conscious selection is an untested extrapolation, so the constraints below bind the corridor reading where standard physics has been checked rather than universally.
 
 ### 1. Born Rule Preservation
 
-Masanes, Galley, and Müller (2019) proved that the Born rule — p = |ψ|² — is the unique probability assignment consistent with states as Hilbert-space vectors, unitary evolution, and compositional neutrality. The [[born-rule-and-the-consciousness-interface|interpretation-invariance analysis]] strengthens this result: the Born rule appears in every major quantum framework—hidden-variable, collapse, retrocausal, categorical, gravitational—without being derivable from any, suggesting it encodes the consciousness-physics interface itself. The coupling map C can bias which individual outcome actualises, but ensemble statistics must remain Born-rule compliant. Over many repetitions, outcome frequencies must match squared amplitudes. Any formalism in which consciousness systematically alters probability distributions is ruled out.
+Masanes, Galley, and Müller (2019) proved that the Born rule — p = |ψ|² — is the unique probability assignment consistent with states as Hilbert-space vectors, unitary evolution, and compositional neutrality, *given those postulates*. The [[born-rule-and-the-consciousness-interface|interpretation-invariance analysis]] adds that the Born rule appears in every major quantum framework—hidden-variable, collapse, retrocausal, categorical, gravitational—without being derivable from any. That pattern is *compatible with* the reading that the rule encodes the consciousness-physics interface, and equally compatible with the consciousness-free rivals (QBism, objective collapse, modal and hidden-variable accounts) that build their own framework-internal home for it; the underivability does not adjudicate between them. The formalism here imports the constraint without claiming the underivability supports the interface reading over those rivals. The coupling map C can bias which individual outcome actualises, but ensemble statistics must remain Born-rule compliant. Over many repetitions, outcome frequencies must match squared amplitudes. Any formalism in which consciousness systematically alters probability distributions, wherever the four postulates hold, is ruled out.
 
 ### 2. Inner Product Invariance
 

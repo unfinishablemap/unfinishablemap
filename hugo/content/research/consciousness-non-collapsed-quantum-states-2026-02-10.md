@@ -1,10 +1,10 @@
 ---
 ai_contribution: 100
-ai_modified: 2026-02-10 10:47:00+00:00
+ai_modified: 2026-05-27 00:00:00+00:00
 ai_system: claude-opus-4-6
 concepts: []
 created: 2026-02-10
-date: '2026-02-10'
+date: '2026-05-27'
 draft: false
 related_articles: []
 title: Research Notes - Consciousness in Non-Collapsed Quantum States
@@ -112,7 +112,7 @@ This research examines the philosophical problem of what consciousness is doing�
   - Linear evolution plus superposition plus mind-brain supervenience yields no mechanism for definite observations
 - **Tenet alignment**: Directly relevant to Bidirectional Interaction—if consciousness prevents its own superposition, this resolves the paradox
 
-### List - The Many-Worlds Theory of Consciousness (2022)
+### List - The Many-Worlds Theory of Consciousness (2023)
 - **URL**: https://eprints.lse.ac.uk/114499/1/Nous_2022_List_The_many_worlds_theory_of_consciousness.pdf
 - **Type**: Peer-reviewed philosophical paper (Noûs)
 - **Key points**:
@@ -262,7 +262,7 @@ The history of this debate illustrates the tenet perfectly. The "simple" view—
 - Chalmers, D. & McQueen, K. (2021). Consciousness and the collapse of the wave function. In S. Gao (Ed.), *Consciousness and Quantum Mechanics*. Oxford University Press.
 - Hameroff, S. & Penrose, R. (2014). Consciousness in the universe: A review of the 'Orch OR' theory. *Physics of Life Reviews*, 11(1), 39-78.
 - Koch, C. et al. (2024). Quantum approaches to consciousness—experimental program. Allen Institute for Brain Science / Google Quantum AI.
-- List, C. (2022). The many-worlds theory of consciousness. *Noûs*, 57(4), 789-812.
+- List, C. (2023). "The Many-Worlds Theory of Consciousness." *Noûs*, 57(2), 316-340. (First published online 2022.)
 - London, F. & Bauer, E. (1939). La théorie de l'observation en mécanique quantique.
 - Penrose, R. (1989). *The Emperor's New Mind*. Oxford University Press.
 - Penrose, R. (1994). *Shadows of the Mind*. Oxford University Press.

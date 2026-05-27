@@ -1,10 +1,10 @@
 ---
 ai_contribution: 100
-ai_modified: 2026-01-27 20:00:00+00:00
+ai_modified: 2026-05-27 00:00:00+00:00
 ai_system: claude-sonnet-4-5-20250929
 concepts: []
 created: 2026-01-23
-date: '2026-01-27'
+date: '2026-05-27'
 draft: false
 related_articles: []
 title: Research Notes - Indexical Identity, Haecceity, and Primitive Thisness
@@ -127,7 +127,7 @@ Hellie, B. (2012). "Against Egalitarianism." *Analysis*, 73(2), 304–320.
 
 Lewis, D. (1968). "Counterpart Theory and Quantified Modal Logic." *Journal of Philosophy*, 65(5), 113–126.
 
-List, C. (2025). "The Many-Worlds Theory of Consciousness." *Noûs*.
+List, C. (2023). "The Many-Worlds Theory of Consciousness." *Noûs*, 57(2), 316-340. (First published online 2022.)
 
 Murphy, D. S. (2025). "Haecceitism and Symmetry-Breaking." *Ergo*.
 

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-15
-ai_modified: 2026-05-26 04:18:25+00:00
+ai_modified: 2026-05-27 02:06:13+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -25,7 +25,7 @@ description: Pragmatism—the philosophy that evaluates ideas by practical conse
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-04-16 17:14:00+00:00
+last_deep_review: 2026-05-27 02:06:13+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -34,7 +34,7 @@ related_articles:
 - '[[consciousness-defeats-explanation]]'
 - '[[epistemic-advantages-of-dualism]]'
 - '[[enactivism-challenge-to-interactionist-dualism]]'
-- '[[pragmatism-and-qbism]]'
+- '[[pragmatist-quantum-foundations-and-the-agent]]'
 - '[[consciousness-and-normative-force]]'
 - '[[self-stultification-as-master-argument]]'
 - '[[topics/phenomenal-value-realism]]'
@@ -69,7 +69,7 @@ Peirce's resolution was direct: real indeterminism in nature opens space for men
 
 Peirce went further. His *synechism* — the doctrine of continuity — held that mind and matter exist on a continuum, with the universe "suffused with mind." While synechism differs from the Map's dualism — Peirce posited a continuum rather than distinct properties — it shares the essential commitment: consciousness is causally efficacious, and strict physicalism cannot accommodate it. Peirce reached this conclusion through pragmatism's own logic applied to the conditions under which inquiry and reasoning are possible.
 
-This pragmatist lineage extends into contemporary physics through QBism, which centres the conscious agent in quantum mechanics itself. The Map's article on [pragmatism and QBism](/topics/pragmatist-quantum-foundations-and-the-agent/) develops this connection, arguing that QBism's refusal to theorise about what its agents *are* is precisely where dualism enters quantum foundations.
+This pragmatist lineage extends into contemporary physics through QBism, which centres the conscious agent in quantum mechanics itself. The Map's article on [pragmatist quantum foundations and the agent-shaped hole](/topics/pragmatist-quantum-foundations-and-the-agent/) develops this connection, arguing that the refusal of QBism and allied interpretations to theorise about what their agents *are* is precisely where dualism enters quantum foundations.
 
 ## Van Fraassen and the Pragmatics of Explanation
 
@@ -178,7 +178,7 @@ The pragmatic path to dualism is distinctive because it does not rely on intuiti
 - [consciousness-and-normative-force](/topics/consciousness-and-normative-force/) — How the demand-character of experience grounds the evaluation pragmatism requires
 - [self-stultification-as-master-argument](/topics/self-stultification-as-master-argument/) — The master argument pattern that pragmatism's reflexive case instantiates
 - [enactivism-challenge-to-interactionist-dualism](/topics/enactivism-challenge-to-interactionist-dualism/) — How enactivism's pragmatist heritage creates tension with its anti-dualist conclusions
-- [pragmatism-and-qbism](/topics/pragmatist-quantum-foundations-and-the-agent/) — QBism's pragmatist foundations and the agent-shaped hole in quantum foundations
+- [pragmatist-quantum-foundations-and-the-agent](/topics/pragmatist-quantum-foundations-and-the-agent/) — QBism's pragmatist foundations and the agent-shaped hole in quantum foundations
 - [phenomenal-value-realism](/topics/phenomenal-value-realism/) — Value as constituted by conscious experience
 - [consciousness-and-the-normativity-of-reason](/topics/consciousness-and-the-normativity-of-reason/) — Why the gap between causal and normative "because" requires conscious minds
 - [evaluative-phenomenal-character](/concepts/evaluative-phenomenal-character/) — Demand-character as intrinsic to experience

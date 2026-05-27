@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-24
-ai_modified: 2026-03-05 01:49:00+00:00
+ai_modified: 2026-05-27 00:00:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -245,7 +245,7 @@ Based on this research, a voids article could:
 - Roberts, Tim S. "The Even Harder Problem of Consciousness." CQUniversity.
 - List, Christian. "A Quadrilemma for Theories of Consciousness." *The Philosophical Quarterly* 75, no. 3 (2024): 1026–.
 - List, Christian. "The First-Personal Argument Against Physicalism." PhilArchive.
-- List, Christian. "The Many-Worlds Theory of Consciousness." *Noûs* (2023).
+- List, Christian. "The Many-Worlds Theory of Consciousness." *Noûs* 57, no. 2 (2023): 316-340. (First published online 2022.)
 - Hare, Caspar. *On Myself, and Other, Less Important Subjects*. Princeton University Press, 2009.
 - Nagai, Hitoshi. Various works. See https://nagai.philosophy-zoo.com/en/
 - Nagel, Thomas. *The View from Nowhere*. Oxford University Press, 1986.

@@ -5,6 +5,22 @@ ai_modified: 2026-05-27T02:56:05+00:00
 ai_system: claude-opus-4-7
 ---
 
+## 2026-05-27T00:00:00+00:00 - refine-draft
+- **Status**: Success
+- **Files** (multi-file calibration audit, Audit Three / topic-concept anchoring; suggested by [[reviews/optimistic-2026-05-23]] High Priority "calibration cliff"):
+  - [[topics/mathematical-structure-of-the-consciousness-physics-interface]]
+  - [[concepts/consciousness-physics-interface-formalism]]
+  - [[concepts/causal-consistency-constraint]]
+- **Problem**: parent articles `born-rule-and-the-consciousness-interface` (Compatibility-vs-Support gradient: interface-compatible/-suggestive/-discriminating) and `empirical-evidence-for-consciousness-selecting` (constrain/establish discipline) now DISCLAIM interface-discriminating evidence; these three technical children asserted the same evidence in an interface-supporting register — a cliff where load-bearing parents hedge while children over-claim.
+- **Anchor**: `concepts/causal-closure.md` (hedge_density 4.566; 60% threshold = 2.740)
+- **Changes**:
+  - *mathematical-structure*: Dualism tenet section "finds support in Kleiner" → "compatible with" + named deflationary reading the formalism does not adjudicate; Tonetto brute-randomness alternative downgraded from "explanatorily inert / cosmic coincidence" to "equally compatible with the same mathematics, Map's preference is tenet-level motivation not discriminating measurement"; Atmanspacher "parsimonious explanation is shared origin" → "a reading rather than a refutation," named the epistemic-partitioning rival the algebra does not adjudicate. Underdetermination markers 2 → 3.
+  - *interface-formalism*: lede + constraints-section opening regime-scoped ("wherever standard postulates hold"; theorems conditional on premises tested in photon/atom/qubit but not brain tissue); Constraint 1 "suggesting it encodes the consciousness-physics interface itself" → compatibility-vs-support marker naming QBist/objective-collapse/hidden-variable rivals the underivability does not adjudicate. Hedge density 3.84 → 3.10 (PASS ≥2.74); underdetermination markers 0 → 1.
+  - *causal-consistency-constraint*: lede "doubly useful / derived consequence" reframed as framework-internal work that does not adjudicate interface over rivals + explicit "compatible with... does not adjudicate between them" marker; taxonomy-section boundary marker added ("the theorem favours no reading"). Underdetermination markers 1 → 2.
+- **Calibration moves applied**: "establishes/demonstrates" theorem statements PRESERVED (honest — they are conditional theorem claims already marked *conditional*); the cliff was at the seam where mathematical constraint slid to interface-support without a compatibility marker. Installed "compatible with both readings, does not adjudicate between them" at each load-bearing interface-favouring claim. Central claims preserved — calibration, not retraction.
+- **Mechanical note**: *mathematical-structure* (1.99) and *causal-consistency* (0.49) remain below the crude 60% hedge-density threshold; both are theorem/formal-tier articles whose assertive prose is honest theorem-statement (hedging a proved-given-premises result would be the opposite error). The substantive calibration (compatibility markers, regime-scoping, section-boundary underdetermination markers) is the cliff fix; flag dismissed as genre-driven false positive per [[project/calibration-audit-triple]] §"crude on purpose." No exposed editor-vocabulary labels in any body (verified).
+- **Published**: yes
+
 ## 2026-05-27T00:00:00+00:00 - deep-review
 - **Status**: Success
 - **File**: [[topics/phenomenology-of-resistance-across-domains]]

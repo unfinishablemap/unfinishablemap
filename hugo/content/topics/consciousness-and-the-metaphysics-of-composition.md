@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-04-09
-ai_modified: 2026-05-25 09:46:52+00:00
+ai_modified: 2026-05-27 01:37:28+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -21,7 +21,7 @@ description: Multiple independent answers to the Special Composition Question co
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-04-15 14:05:00+00:00
+last_deep_review: 2026-05-27 01:37:28+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -70,7 +70,7 @@ McQueen and Tsuchiya (2023) approach the SCQ from a different direction entirely
 
 This criterion avoids the vagueness problems plaguing other restricted composition proposals. It provides a precise, measurable threshold. And it connects consciousness directly to the most fundamental metaphysical question about which objects exist: the same measure (Φ) that purportedly measures consciousness also determines when genuine wholes exist.
 
-McQueen and Tsuchiya work within IIT's physicalist framework, identifying consciousness with integrated information. But the structural insight can be separated from the physicalist commitment: consciousness—or whatever consciousness tracks—is what makes genuine wholes.
+McQueen and Tsuchiya work within IIT's physicalist framework, identifying consciousness with integrated information. IIT's empirical standing is contested—a 2023 open letter from over a hundred researchers argued the theory is untestable in principle, while the 2025 COGITATE adversarial collaboration partially corroborated its posterior-cortex predictions; the dispute remains live. But the structural insight survives this disagreement, because it can be separated from the physicalist commitment: whether or not Φ is the correct empirical measure of consciousness, the proposal that composition tracks consciousness—or whatever consciousness tracks—is what does the metaphysical work here, and it stands or falls independently of IIT's fortunes as a scientific theory of the neural correlates.
 
 ## The Convergence
 

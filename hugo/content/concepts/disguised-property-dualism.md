@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-04-16
-ai_modified: 2026-05-19 11:04:33+00:00
+ai_modified: 2026-05-27 01:18:48+00:00
 ai_system: claude-opus-4-7
 author: null
 concepts:
@@ -22,7 +22,7 @@ description: A diagnostic for physicalist theories that posit two irreducible de
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-04-16 22:10:00+00:00
+last_deep_review: 2026-05-27 01:18:48+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -90,7 +90,7 @@ The substantive difference is what each position *claims* about reduction. Condi
 
 The [minimal quantum interaction](/tenets/#minimal-quantum-interaction) tenet might be misread as a back-door reduction. It is not. The interaction-mechanism question and the reduction question pull in opposite directions: a successful reduction would eliminate the need for any mechanism, while a successful mechanism presupposes the two-structure ontology it links. Chemistry is not "disguised vitalism" because it lacks a complete reduction to quantum electrodynamics — it is a two-level theory whose inter-level mechanism remains under active investigation. The quantum interface is the Map's proposal for such a mechanism, not a hidden route back to a single structure.
 
-Even so, a residual concession is worth stating plainly. The diagnostic is stance-sensitive and heuristic rather than demonstrative. Different readers will judge differently which physicalist programmes have accumulated enough progressive unification to exit condition (3), and a critic who rejects the claim-versus-vacuous-condition distinction between the Map and the disguised variants will reasonably count the tool as a scoring device rather than a metaphysical discovery. The diagnostic does not prove that the disguised variants are metaphysically equivalent to dualism; it shows that their parsimony advantage is thinner than advertised and that their reputational distance from dualism is carried by a promise about reduction, not a demonstration. Applied to the Map, the diagnostic does not bite — because condition (3) is vacuous for a theory that asserts no unification. The Map offers the tool in that spirit: a piece of philosophical hygiene, not a knockdown argument.
+Even so, a residual concession is worth stating plainly. A critic who rejects the claim-versus-vacuous-condition distinction between the Map and the disguised variants will reasonably count the tool as a scoring device rather than a metaphysical discovery. The diagnostic does not prove that the disguised variants are metaphysically equivalent to dualism; it shows that their parsimony advantage is thinner than advertised and that their reputational distance from dualism is carried by a promise about reduction, not a demonstration. Applied to the Map, the diagnostic does not bite — because condition (3) is vacuous for a theory that asserts no unification. That asymmetry is the whole of the defence, and a reader who finds it too thin to bear the weight is disagreeing in good faith.
 
 ### From eliminativism
 

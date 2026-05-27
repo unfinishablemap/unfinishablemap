@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-14
-ai_modified: 2026-05-12 02:56:00+00:00
+ai_modified: 2026-05-27 02:41:15+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -89,20 +89,20 @@ This withdrawal is not elimination. Consciousness [delegates](/concepts/skill-de
 
 When skilled performers face high-pressure situations, a counterintuitive breakdown occurs: conscious attention to automatized skills *degrades* performance. The expert golfer thinking about their swing, the concert pianist monitoring their finger placement—all perform worse than when acting without self-focus.
 
-The *explicit monitoring theory* (Beilock and Carr, 2001; building on Baumeister's 1984 self-focus model) explains the mechanism: pressure generates anxiety, anxiety triggers self-focus, and self-focus leads to step-by-step monitoring of what should be automatic execution. The performer "reinvests" explicit control in procedures that work better without it. Research confirms:
+The *explicit monitoring theory* (Beilock and Carr, 2001; building on Baumeister's 1984 self-focus model) explains the mechanism: pressure generates anxiety, anxiety triggers self-focus, and self-focus leads to step-by-step monitoring of what should be automatic execution. The performer "reinvests" explicit control in procedures that work better without it (Masters, 1992). Research has found:
 
-- Highly skilled performers choke more than moderately skilled ones (they have more to disrupt)
-- Skills learned without explicit awareness are protected against choking
-- Dual-task conditions that occupy conscious attention can *improve* skilled performance
+- Some studies find highly skilled performers choke more than moderately skilled ones (they have more to disrupt)
+- Skills learned without explicit awareness appear protected against choking—the implicit-learning prediction of Masters' (1992) reinvestment account
+- Some studies find that dual-task conditions occupying conscious attention can *improve* skilled performance
 - Instructions to focus on outcomes rather than mechanics reduce choking
 
-This is consistent with [bidirectional interaction](/concepts/mental-causation-and-downward-causation/). Consider the causal chain: (1) conscious attention shifts to procedural execution, (2) procedural execution is disrupted, (3) performance degrades. If consciousness were epiphenomenal—a mere byproduct—step 2 couldn't follow from step 1.
+It is tempting to read this as evidence against epiphenomenalism, but the inference does not survive scrutiny. Consider the causal chain: (1) conscious attention shifts to procedural execution, (2) procedural execution is disrupted, (3) performance degrades. The tempting reading is that if consciousness were epiphenomenal—a mere byproduct—step 2 couldn't follow from step 1. The next two paragraphs show why this reading fails: the chain is equally describable as one neural process interfering with another, so the data is consistent with [bidirectional interaction](/concepts/mental-causation-and-downward-causation/) without being evidence for it.
 
 The standard neuroscience interpretation explains choking as neural resource competition: conscious monitoring is a neural process that competes with automated motor routines for shared resources. On this reading, "attention disrupting performance" is one neural process interfering with another. Baumeister and Beilock's own explanations are framed in these neural-functional terms, and this reading is mainstream.
 
 The phenomenological categories that predict choking—absorbed versus self-reflective, outcome-focused versus mechanics-focused—track functional states that have causal consequences. A physicalist reads this straightforwardly: categories like "absorbed" versus "self-monitoring" track distinct neural configurations, and distinct neural configurations produce distinct performance outcomes. The taxonomy carves at causal joints because it tracks functional differences, and functional differences are causal under any framework. The [supervenience](/concepts/supervenience/) reading accommodates the correlation without requiring phenomenal properties to do causal work.
 
-The Map's reservation is that supervenience preserves the correlation while deepening the [hard problem](/topics/hard-problem-of-consciousness/): why does phenomenal character exist at all if the physical base does all the work? This is a general objection to epiphenomenalism, not one the choking evidence specifically strengthens. The choking data is consistent with bidirectional interaction but does not provide evidence *for* it over the standard physicalist account (see the [illusionism](/concepts/illusionism/) article for the full debate). What the evidence does show is that embodied cognition's empirical findings sit comfortably within a dualist framework—contrary to the assumption that embodiment research supports physicalism.
+The Map's reservation is that supervenience preserves the correlation while deepening the [hard problem](/topics/hard-problem-of-consciousness/): why does phenomenal character exist at all if the physical base does all the work? This is a general objection to epiphenomenalism, not one the choking evidence specifically strengthens. The choking data is consistent with bidirectional interaction but does not provide evidence *for* it over the standard physicalist account (see the [illusionism](/concepts/illusionism/) article for the full debate). What the evidence does show is that embodied cognition's empirical findings are consistent with a dualist framework—contrary to the assumption that embodiment research supports physicalism.
 
 This phenomenological heritage matters. Merleau-Ponty treated lived experience as irreducible, rejecting both Cartesian dualism and reductive materialism. The lived body is a third term—leaving space for property dualism while rejecting substance dualism.
 
@@ -190,7 +190,7 @@ Embodied cognition's relationship to the Map's tenets requires careful analysis:
 
 **[Minimal Quantum Interaction](/tenets/#minimal-quantum)**: The Dreyfus progression reveals *where* consciousness interfaces with motor systems—the transition between absorbed and reflective modes. Whatever mechanism mediates this interface (the [attention-as-interface](/concepts/attention-as-interface/) model proposes one possibility), embodied cognition maps the functional architecture of the interaction point.
 
-**[No Many Worlds](/tenets/#no-mwi)**: The choking evidence is compatible with both collapse and Many-Worlds interpretations. The stronger anti-MWI argument comes from the phenomenology of singular determination in effortful selection (see [mental-effort](/concepts/mental-effort/)).
+**[No Many Worlds](/tenets/#no-mwi)**: Embodiment is orthogonal to the Many-Worlds question. The choking evidence is compatible with both collapse and Many-Worlds interpretations, and nothing in the structure of embodied skill discriminates between them—the body shapes how consciousness interfaces with the world regardless of how quantum outcomes resolve. The anti-MWI argument the Map relies on comes not from embodiment but from the phenomenology of singular determination in effortful selection (see [mental-effort](/concepts/mental-effort/)).
 
 Embodied cognition challenges a specific historical position (Cartesian substance dualism) without refuting dualism as such. Showing that cognition is embodied doesn't show that consciousness is purely physical. The hard problem persists regardless of whether the explanatory target is brain computation or bodily interaction.
 
@@ -229,6 +229,7 @@ Embodied cognition challenges a specific historical position (Cartesian substanc
 1. Fuchs, T. (2005). Corporealized and Disembodied Minds: A Phenomenological View of the Body in Melancholia and Schizophrenia. *Philosophy, Psychiatry, & Psychology*, 12(2), 95-107.
 1. Dreyfus, H. L. (1992). *What Computers Still Can't Do*. MIT Press.
 1. Frankish, K. (2016). Illusionism as a Theory of Consciousness. *Journal of Consciousness Studies*, 23(11-12), 11-39.
+1. Masters, R. S. W. (1992). Knowledge, knerves and know-how: The role of explicit versus implicit knowledge in the breakdown of a complex motor skill under pressure. *British Journal of Psychology*, 83(3), 343-358.
 1. Merleau-Ponty, M. (1945/2012). *Phenomenology of Perception*. Routledge.
 1. Noë, A. (2004). *Action in Perception*. MIT Press.
 1. Sass, L., & Parnas, J. (2003). Schizophrenia, Consciousness, and the Self. *Schizophrenia Bulletin*, 29(3), 427-444.

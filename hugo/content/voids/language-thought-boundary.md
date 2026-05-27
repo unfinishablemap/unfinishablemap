@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-26
-ai_modified: 2026-05-11 14:27:00+00:00
+ai_modified: 2026-05-27 00:00:00+00:00
 ai_system: claude-opus-4-7
 author: null
 concepts:
@@ -16,7 +16,7 @@ description: 'Where thought exceeds language: visual cognition, qualia, and the 
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-04-16 21:10:00+00:00
+last_deep_review: 2026-05-27 00:00:00+00:00
 modified: *id001
 related_articles:
 - '[[voids]]'
@@ -48,7 +48,7 @@ Some thoughts expressible in one language resist translation to another. Russian
 
 The weak Sapir-Whorf hypothesis—that language influences habitual thought—has substantial empirical support. Japanese speakers thinking in Japanese categorise objects differently than when thinking in English. The language you're using changes what thoughts come readily, though it doesn't absolutely determine what you can think.
 
-The boundary intersects the [vagueness void](/voids/vagueness-void/) at the point of translation. *Siniy* and *goluboy* carve a borderline region English treats as a single shade with vague edges; rendering the Russian sentence into English forces a closure on the Sorites series the source language did not close. Each translation has to commit to a determinate verdict where the source treated the cut-off as indeterminate—a vagueness-shaped commitment baked into every cross-linguistic transit.
+The boundary intersects the [vagueness void](/voids/vagueness-void/) at the point of translation. *Siniy* and *goluboy* carve a borderline region English treats as a single shade with vague edges; rendering the Russian into English forces closure on a Sorites series the source language left open. Every cross-linguistic transit bakes in this vagueness-shaped commitment—a determinate verdict where the source treated the cut-off as indeterminate.
 
 ### Language-as-Such Limits
 
@@ -177,7 +177,7 @@ The claim that language and thought have genuinely different limits would be cha
 - [Mysterianism and Cognitive Closure](/concepts/mysterianism/) — McGinn's formal analysis
 - [What the Limits Reveal](/voids/what-voids-reveal/) — How boundaries illuminate architecture
 - [The Phenomenology of Linguistic Failure](/topics/phenomenology-of-linguistic-failure/) — What linguistic failure feels like from the inside: five distinct experiential modes
-- [The Translation Void (research-stage)](/research/voids-translation-void-2026-05-09/) — Three-face survey of cross-format-mapping opacity (phenomenal-to-linguistic / cross-lexical / analogical-domain); cap-deferred, awaiting absorption into this article and [metaphor-void](/voids/metaphor-void/) as additional faces. Ji et al. 2024 quantify the phenomenal-to-linguistic compression bound; Lomas 2016+ documents 1,400+ untranslatable terms; Hofstadter-Gentner locate analogy as the unconscious operational core
+- [The Translation Void (research-stage)](/research/voids-translation-void-2026-05-09/) — Survey of cross-format-mapping opacity across three faces: phenomenal-to-linguistic compression, cross-lexical untranslatability, and analogical-domain transfer. Cap-deferred, awaiting absorption into this article and [metaphor-void](/voids/metaphor-void/) as additional faces of the boundary
 - [Site Tenets](/tenets/) — The foundational commitments shaping this investigation
 
 ## References

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-04-13
-ai_modified: 2026-04-25 01:29:00+00:00
+ai_modified: 2026-05-27 00:39:24+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -16,13 +16,13 @@ description: What it feels like when words fail—the distinct experiential sign
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-04-15 07:56:00+00:00
+last_deep_review: 2026-05-27 00:39:24+00:00
 modified: *id001
 related_articles:
 - '[[language-thought-boundary]]'
 - '[[language-and-consciousness]]'
 - '[[consciousness-and-language-interface]]'
-- '[[thoughts-that-slip-away]]'
+- '[[thought-stream-void]]'
 - '[[edge-states-and-void-probes]]'
 - '[[phenomenology-of-cognitive-limit-types]]'
 - '[[tenets]]'
@@ -116,7 +116,7 @@ The phenomenology of linguistic failure connects to The Unfinishable Map's [tene
 - [language-thought-boundary](/voids/language-thought-boundary/) — Where thought exceeds language: the structural analysis
 - [language-and-consciousness](/concepts/language-and-consciousness/) — How philosophy of language reveals the irreducibility of consciousness
 - [consciousness-and-language-interface](/topics/consciousness-and-language-interface/) — The bidirectional relationship between language and experience
-- [thoughts-that-slip-away](/voids/thought-stream-void/) — Related phenomena of cognitive slippage
+- [thought-stream-void](/voids/thought-stream-void/) — Related phenomena of cognitive slippage, where thoughts vanish as you reach for them
 - [edge-states-and-void-probes](/voids/edge-states-and-void-probes/) — The general phenomenology of approaching cognitive limits
 - [cognitive-phenomenology](/concepts/cognitive-phenomenology/) — Whether understanding has its own phenomenal character
 - [phenomenology-of-cognitive-limit-types](/topics/phenomenology-of-cognitive-limit-types/) — How different cognitive limits produce distinct experiential signatures

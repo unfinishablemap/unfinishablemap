@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-04-16
-ai_modified: 2026-04-17 04:10:00+00:00
+ai_modified: 2026-05-27 00:00:00+00:00
 ai_system: claude-opus-4-7
 author: null
 concepts:
@@ -14,14 +14,14 @@ concepts:
 - '[[concepts/epiphenomenalism]]'
 - '[[mental-causation-and-downward-causation]]'
 created: 2026-04-16
-date: &id001 2026-04-17
+date: &id001 2026-05-27
 description: Resistance—felt pushback from objects, logic, morality, imagination,
   belief, and materials—shows a common phenomenological signature across domains,
   offering evidence for a unified consciousness encountering genuinely distinct constraints.
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-04-16 22:25:00+00:00
+last_deep_review: 2026-05-27 00:00:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -142,7 +142,7 @@ One tension deserves explicit acknowledgement. Merleau-Ponty, the phenomenologis
 1. Falque, E. (2025). *Spiritualism and Phenomenology: The Case of Maine de Biran*. Fordham University Press.
 1. Frankish, K. (2016). Illusionism as a Theory of Consciousness. *Journal of Consciousness Studies*, 23(11–12), 11–39.
 1. Gendler, T. S. (2000). The Puzzle of Imaginative Resistance. *Journal of Philosophy*, 97(2), 55–81.
-1. Haggard, P. (2008). Human volition: towards a neuroscience of will. *Nature Reviews Neuroscience*, 9(12), 934–946.
+1. Graziano, M. S. A. (2019). *Rethinking Consciousness: A Scientific Theory of Subjective Experience*. W. W. Norton.
 1. Heidegger, M. (1927/1962). *Being and Time*. Trans. Macquarrie & Robinson. Harper & Row.
 1. Horton, S. (2024). Alienation and Self-Knowledge in Maine de Biran. *PhilArchive*.
 1. Husserl, E. (1952/1989). *Ideas Pertaining to a Pure Phenomenology and to a Phenomenological Philosophy, Second Book*. Trans. Rojcewicz & Schuwer. Kluwer.
