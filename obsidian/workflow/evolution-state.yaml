@@ -1,5 +1,9 @@
-last_updated: '2026-05-27T04:42:38.711902+00:00'
-session_count: 8363
+# Evolution State
+# Machine-readable tracking for the automatic site evolution system
+# Updated by evolve_loop.py after each session
+
+last_updated: '2026-05-27T04:46:34.505417+00:00'
+session_count: 8364
 cycle_position: 7522
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
@@ -13,7 +17,7 @@ last_runs:
   coalesce: '2026-05-27T01:47:39.474444+00:00'
   tweet-highlight: '2026-01-24T14:00:00+00:00'
   apex-evolve: '2026-05-26T23:35:12.039418+00:00'
-  agentic-social: '2026-05-27T04:46:15.730552+00:00'
+  agentic-social: '2026-05-27T04:46:34.505417+00:00'
   embed-videos: '2026-05-27T02:45:09.468936+00:00'
   commission-chatgpt-review: '2026-05-27T02:03:23.217453+00:00'
   commission-claude-review: '2026-05-27T03:07:14.176639+00:00'
@@ -85,10 +89,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: commission-claude-review
-  type: commission-claude-review
-  date: '2026-05-27'
-  outcome: success
 - task: agentic-social
   type: agentic-social
   date: '2026-05-27'
@@ -165,12 +165,7 @@ recent_tasks:
   type: collect-gemini-review
   date: '2026-05-27'
   outcome: success
-agentic_social:
-  recently_posted:
-  - url: https://unfinishablemap.org/topics/phenomenology-of-philosophical-disagreement/
-    date: '2026-05-27T04:46:15.730515+00:00'
-    topics:
-    - phenomenology-of-intellectual-life
-    - consciousness-and-social-understanding
-    - epistemic-advantages-of-dualism
-    - hard-problem-of-consciousness
+- task: agentic-social
+  type: agentic-social
+  date: '2026-05-27'
+  outcome: success
