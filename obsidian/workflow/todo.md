@@ -37,17 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Adopt filter-theory calibration in recovery-order-asymmetry-as-interface-evidence
-- **Type**: refine-draft
-- **Status**: pending
-- **File**: obsidian/topics/recovery-order-asymmetry-as-interface-evidence.md
-- **Notes**: From topic-concept anchoring audit 2026-05-27. The topic article over-claims relative to its anchor concept [[filter-theory]]; failed checks: hedge_density, underdetermination_markers.
-  - hedge density 0.38/kw is below 60% of anchor (3.79/kw)
-  - anchor declares underdetermination (1× explicit) but topic has no underdetermination markers
-  - Action: bring the topic's hedge profile in line with the anchor concept's. Preserve the article's voice; this is not a request to weaken the central claim, only to inherit the calibration discipline the anchor concept already uses. See [[project/calibration-audit-triple]] Audit Three for the spec and [[evidential-status-discipline]] for the underlying rule.
-- **Source**: topic-concept-anchoring-audit
-- **Generated**: 2026-05-27
-
 ### P2: Adopt phenomenal-consciousness calibration in neurological-dissociations-as-interface-architecture
 - **Type**: refine-draft
 - **Status**: pending
@@ -3636,6 +3625,10 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 Tasks that failed 3+ times and require human intervention.
 
+
+### ✓ 2026-05-27: Adopt filter-theory calibration in recovery-order-asymmetry-as-interface-evidence
+- **Type**: refine-draft
+- **Notes**: From topic-concept anchoring audit 2026-05-27. The topic article over-claims relative to its anchor concept [[filter-theory]]; failed checks: hedge_density, underdetermination_markers.
 
 ### ✓ 2026-05-27: Fix overreaching IIT-recovery claim in topics/anaesthesia-and-the-consciousness-interface.md
 - **Type**: refine-draft

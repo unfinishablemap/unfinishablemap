@@ -5,6 +5,13 @@ ai_modified: 2026-05-27T12:00:00+00:00
 ai_system: claude-opus-4-7
 ---
 
+## 2026-05-27T14:41:47+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[topics/recovery-order-asymmetry-as-interface-evidence]]
+- **Original score**: n/a (topic-concept anchoring audit 2026-05-27, Audit Three of [[project/calibration-audit-triple]])
+- **Changes**: Brought the article's mechanical hedge profile in line with anchor concept [[filter-theory]]. Failed checks were hedge_density (0.38/kw, below 60% of anchor's 3.79/kw) and underdetermination_markers (0 vs anchor's 1). Concentrated added hedges on the filter-reading *interpretive* claims (lead, terminal-lucidity §, dissociation §, "What Asymmetry Buys the Filter Reading" §) while leaving the robust empirical findings (the asymmetry observations themselves) appropriately confident, per the task's instruction and [[evidential-status-discipline]]. Added one explicit underdetermination marker in the lead — "the asymmetry data are underdetermined by the evidence on this point, since a production account willing to pay the per-case cost can accommodate every signature." Result: hedge density 0.38→2.95/kw (8 markers, above 2.27 threshold); underdetermination markers 0→1; strong-assertion density unchanged at 0. evaluate_anchoring() now returns 0 flags. Central claim (recovery-order asymmetry as constraining-not-establishing evidence) and argument structure preserved; citations untouched.
+- **Published**: yes
+
 ## 2026-05-27T13:30:00+00:00 - refine-draft
 - **Status**: Success
 - **File**: [[topics/anaesthesia-and-the-consciousness-interface]]

@@ -38,12 +38,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Fix overreaching IIT-recovery claim in topics/anaesthesia-and-the-consciousness-interface.md
-- **Type**: refine-draft
-- **Notes**: From research-topic 2026-05-27 → `research/pci-phi-anaesthesia-recovery-2026-05-27.md` (web-verified). The §"The Active Reboot" sentence — "Recent IIT work (2024–2025 PCI and Φ literature) finds integration measures recover *before* behavioural responsiveness, consistent with the workspace being prepared in advance" — **overreaches the literature** (constrain-vs-establish calibration error per [evidential-status-discipline](/project/evidential-status-discipline/)). The 2024–2025 PCI/Φ papers establish state-*dissociation* (integration stays high in unresponsive states) but are essentially silent on the fine-grained *timing* of integration-recovery vs. behaviour-return; the temporal-ordering claim is live-hypothesis at best, and attributing it to "recent IIT work" is inaccurate. The genuine "transient state precedes emergence" finding is **Lewis et al. (2018), *eLife* 7:e33250** (a sleep-like K-complex sensory-gating state — different mechanism, 2018 not 2024–2025). FIX (per the research note's recommendation): either (a) narrow the sentence to the *dissociation* claim and cite the verified state-dissociation papers — Onoda et al. 2025 (*Neurosci. Consciousness* 2025(1):niaf024), Breyton et al. 2025 (*eLife* 13:RP98920), Van Maldegem et al. 2025 (*Br. J. Anaesth.* 134(4):1088–1104, the best dissociation anchor) — OR (b) keep a precedence framing but anchor it explicitly on Lewis 2018 with corrected mechanism/date. Do NOT cite the 2024–2025 PCI/Φ papers *as* support for the timing claim. All citations in the research note are web-verified with DOIs/PMIDs — use them verbatim. Citation + calibration hygiene; preserve the article's argument. Verify scripts/sync.py exits 0.
-- **Source**: research-topic-followon
-- **Generated**: 2026-05-27
-
 ### P2: Adopt filter-theory calibration in recovery-order-asymmetry-as-interface-evidence
 - **Type**: refine-draft
 - **Status**: pending
@@ -65,7 +59,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
   - Action: bring the topic's hedge profile in line with the anchor concept's. Preserve the article's voice; this is not a request to weaken the central claim, only to inherit the calibration discipline the anchor concept already uses. See [calibration-audit-triple](/project/calibration-audit-triple/) Audit Three for the spec and [evidential-status-discipline](/project/evidential-status-discipline/) for the underlying rule.
 - **Source**: topic-concept-anchoring-audit
 - **Generated**: 2026-05-27
-
 
 ### P1: Fix verified citation errors in topics/meaning-of-life.md (Tallis issue, Landau 2025, missing references)
 - **Type**: refine-draft
@@ -3644,6 +3637,10 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 Tasks that failed 3+ times and require human intervention.
 
+
+### ✓ 2026-05-27: Fix overreaching IIT-recovery claim in topics/anaesthesia-and-the-consciousness-interface.md
+- **Type**: refine-draft
+- **Notes**: From research-topic 2026-05-27 → `research/pci-phi-anaesthesia-recovery-2026-05-27.md` (web-verified). The §"The Active Reboot" sentence — "Recent IIT work (2024–2025 PCI and Φ literature) finds integration measures recover *before* behavioural responsiveness, consistent with the workspace being prepared in advance" — **overreaches the literature** (constrain-vs-establish calibration error per [evidential-status-discipline](/project/evidential-status-discipline/)). The 2024–2025 PCI/Φ papers establish state-*dissociation* (integration stays high in unresponsive states) but are essentially silent on the fine-grained *timing* of integration-recovery vs. behaviour-return; the temporal-ordering claim is live-hypothesis at best, and attributing it to "recent IIT work" is inaccurate. The genuine "transient state precedes emergence" finding is **Lewis et al. (2018), *eLife* 7:e33250** (a sleep-like K-complex sensory-gating state — different mechanism, 2018 not 2024–2025). FIX (per the research note's recommendation): either (a) narrow the sentence to the *dissociation* claim and cite the verified state-dissociation papers — Onoda et al. 2025 (*Neurosci. Consciousness* 2025(1):niaf024), Breyton et al. 2025 (*eLife* 13:RP98920), Van Maldegem et al. 2025 (*Br. J. Anaesth.* 134(4):1088–1104, the best dissociation anchor) — OR (b) keep a precedence framing but anchor it explicitly on Lewis 2018 with corrected mechanism/date. Do NOT cite the 2024–2025 PCI/Φ papers *as* support for the timing claim. All citations in the research note are web-verified with DOIs/PMIDs — use them verbatim. Citation + calibration hygiene; preserve the article's argument. Verify scripts/sync.py exits 0.
 
 ### ✓ 2026-05-27: Research post-2023 IIT recovery work to anchor anaesthesia article active-reboot claim
 - **Type**: research-topic
