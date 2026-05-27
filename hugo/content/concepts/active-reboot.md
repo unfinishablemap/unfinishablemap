@@ -123,7 +123,7 @@ The Map treats active reboot as an architectural finding that bears on the inter
 
 ## References
 
-1. Hu, Y., Yu, X., Yang, L., et al. (2023). A common thalamic mechanism for general anesthetic emergence regulated by KCC2 ubiquitination. *Cell Reports*. (KCC2 ubiquitination as mechanism-shared emergence pathway across propofol, isoflurane, sevoflurane, and ketamine.)
+1. Hu, J.-J., Liu, Y., Yao, H., et al. (2023). Emergence of consciousness from anesthesia through ubiquitin degradation of KCC2 in the ventral posteromedial nucleus of the thalamus. *Nature Neuroscience*, 26, 751–764. https://doi.org/10.1038/s41593-023-01290-y (KCC2 ubiquitination as mechanism-shared emergence pathway across propofol, isoflurane, sevoflurane, and ketamine.)
 2. Mashour, G. A., Pal, D., & Brown, E. N. (2021). Prefrontal cortex as a key node in arousal circuitry. *Trends in Neurosciences*, 44(11), 909–921.
 3. Bhatt, M. B., Bowen, S., Rossiter, H. E., et al. (2021). Recovery of consciousness and cognition after general anesthesia in humans. *eLife*, 10, e59525. https://elifesciences.org/articles/59525
 4. Redinbaugh, M. J., Afrasiabi, M., Phillips, J. M., et al. (2022). Thalamic deep brain stimulation paradigm to reduce consciousness: Cortico-striatal dynamics implicated in mechanisms of consciousness. *Science Advances*, 8(11), eabl5547. https://www.science.org/doi/10.1126/sciadv.abl5547

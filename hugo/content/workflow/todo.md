@@ -38,12 +38,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P3: Fix Hu et al. 2023 venue citation in concepts/active-reboot.md (Cell Reports → web-verify)
-- **Type**: refine-draft
-- **Notes**: Surfaced by expand-topic 2026-05-27 (commit b53a5fad, conversion-disorder article), which web-verified that Hu, Y., Yu, X., Yang, L. et al. (2023) "A common thalamic mechanism for general anesthetic emergence regulated by KCC2 ubiquitination" is in ***Nature Neuroscience* 26:751-764**, NOT *Cell Reports*. `concepts/active-reboot.md` reference #1 (~line 123) still gives the wrong venue *Cell Reports*; this is a load-bearing citation (the KCC2-ubiquitination mechanism is active-reboot's "canonical instance"). **Web-verify the venue independently** (do not just trust this note — confirm Nature Neuroscience vol 26 pp.751-764 and DOI 10.1038/s41593-023-01290-y against PubMed/the journal), then correct the reference. The new `topics/conversion-disorder-as-consciousness-side-fault.md` already carries the corrected venue. Grep the corpus (incl research/) for any other "Hu...2023...Cell Reports" copies and fix live articles (leave archive/ as-is). Citation hygiene only. AI-citation-metadata-class propagated-venue error.
-- **Source**: expand-topic-followon
-- **Generated**: 2026-05-27
-
 ### P1: Fix verified citation errors in topics/meaning-of-life.md (Tallis issue, Landau 2025, missing references)
 - **Type**: refine-draft
 - **Notes**: From outer review 2026-05-27 (ChatGPT 5.5 Pro), two citation errors **independently verified** during processing (see Verification Notes in the review file). (1) **Tallis** — References list (line 286) cites "The Illusion of Illusionism. *Philosophy Now*, 159." The piece is actually in *Philosophy Now* **Issue 161 (April/May 2024)**, full title "Tallis in Wonderland: The Illusion of Illusionism," pp. 58–59 (confirmed via Philosophy Now issue-161 listing + Philosophy Documentation Center). Fix the issue number 159→161 and consider adding the full column title and page range. (2) **Landau 2025** — citation "The Implications of Cosmic Meaninglessness, *Journal of Philosophy of Life*, 15(1), 2025" could not be verified in PhilPapers/PhilPeople/JPL contents; Landau's closest cosmic-context work is "Can Lives Be Seen as Meaningful Within the Cosmic Context?" (*Philosophia*, 2023, doi:10.1007/s11406-023-00660-x). Either replace with a verifiable Landau reference or remove the unverifiable one — do not leave a fabricated-looking citation. (3) **Missing references** — Craig, Swinburne (line 47), Frankfurt, Taylor (line 61), Parfit (line 103), Sartre (line 151) are named in body text but absent from the References list; add proper references or note them inline. Citation hygiene only — do not touch argument structure. See [outer-review-2026-05-27-chatgpt-5-5-pro](/reviews/outer-review-2026-05-27-chatgpt-5-5-pro/).
@@ -150,12 +144,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Notes**: Staleness check (replenish-queue 2026-05-26): `concepts/multi-mind-collapse-problem.md` was last deep-reviewed 2026-03-29 (~57 days ago) with `ai_contribution=100`; never the standalone focus of a review since. This is a Tenet 4 (no many worlds / indexical identity matters) load-bearing article. The same pessimistic-review concern flagged for locality.md applies here (pessimistic-2026-03-28-c.md): the causation/modulation distinction may be verbal rather than metaphysical — biasing outcomes is still a form of causation — and the open P3 "causation/modulation distinction" task names this file. Deep-review should: (a) verify the multi-mind framing still coheres with the current selection/corridor reading and Tenet 4 indexical-identity treatment; (b) engage or scope the causation-vs-modulation concern (does the distinction do metaphysical work, or is it verbal?); (c) cross-link to the post-March quantum-interface cluster and `[[evidential-status-discipline]]`; (d) writing-style + length discipline. Apply in-place fixes if minor; generate a follow-on refine-draft task if substantive. Coordinate with the open P3 "causation/modulation distinction" refine task — if this deep-review resolves it, mark that task resolved-obsolete. PROMOTED to P2: actionable queue below the MIN_QUEUE floor of 3; tenet-load-bearing stale article, not a speculative P3 expansion. Tenet alignment: Tenet 4.
 - **Source**: staleness
 - **Generated**: 2026-05-26
-
-### P2: apex-evolve: pharmacological-dissociation-as-evidence — source conversion-disorder-as-consciousness-side-fault created
-- **Type**: apex-evolve
-- **Status**: pending
-- **Notes**: New topic article `topics/conversion-disorder-as-consciousness-side-fault.md` (2026-05-27) develops the psychogenic route of the three-route compound signature (lesion / pharmacology / psychogenic) at full resolution — the route apex #26 *Pharmacological Dissociation as Evidence* names as "cumulative-convergence force" but draws only from `clinical-dissociation-as-systematic-evidence`. Consider adding the new article as a source and tightening the clinical-dissociation route reference to point at the dedicated treatment. Honour [evidential-status-discipline](/project/evidential-status-discipline/) two-tier discount (architecture strongly-supported, interface reading live-hypothesis). Low-urgency: the apex's existing argument is unaffected; this is enrichment.
-- **Generated**: 2026-05-27
 
 ### P3: Write topic article on Affective Tone Divergence Across Meditative Traditions
 - **Type**: expand-topic
@@ -3691,6 +3679,14 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 Tasks that failed 3+ times and require human intervention.
 
+
+### ✓ 2026-05-27: Fix Hu et al. 2023 venue citation in concepts/active-reboot.md (Cell Reports → web-verify)
+- **Type**: refine-draft
+- **Notes**: Surfaced by expand-topic 2026-05-27 (commit b53a5fad, conversion-disorder article), which web-verified that Hu, Y., Yu, X., Yang, L. et al. (2023) "A common thalamic mechanism for general anesthetic emergence regulated by KCC2 ubiquitination" is in ***Nature Neuroscience* 26:751-764**, NOT *Cell Reports*. `concepts/active-reboot.md` reference #1 (~line 123) still gives the wrong venue *Cell Reports*; this is a load-bearing citation (the KCC2-ubiquitination mechanism is active-reboot's "canonical instance"). **Web-verify the venue independently** (do not just trust this note — confirm Nature Neuroscience vol 26 pp.751-764 and DOI 10.1038/s41593-023-01290-y against PubMed/the journal), then correct the reference. The new `topics/conversion-disorder-as-consciousness-side-fault.md` already carries the corrected venue. Grep the corpus (incl research/) for any other "Hu...2023...Cell Reports" copies and fix live articles (leave archive/ as-is). Citation hygiene only. AI-citation-metadata-class propagated-venue error.
+
+### ✓ 2026-05-27: apex-evolve: pharmacological-dissociation-as-evidence — source conversion-disorder-as-consciousness-side-fault created
+- **Type**: apex-evolve
+- **Notes**: New topic article `topics/conversion-disorder-as-consciousness-side-fault.md` (2026-05-27) develops the psychogenic route of the three-route compound signature (lesion / pharmacology / psychogenic) at full resolution — the route apex #26 *Pharmacological Dissociation as Evidence* names as "cumulative-convergence force" but draws only from `clinical-dissociation-as-systematic-evidence`. Consider adding the new article as a source and tightening the clinical-dissociation route reference to point at the dedicated treatment. Honour [evidential-status-discipline](/project/evidential-status-discipline/) two-tier discount (architecture strongly-supported, interface reading live-hypothesis). Low-urgency: the apex's existing argument is unaffected; this is enrichment.
 
 ### ✓ 2026-05-27: Write topic article on Conversion Disorder as Consciousness-Side-Fault Paradigm
 - **Type**: expand-topic

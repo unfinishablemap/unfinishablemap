@@ -5,6 +5,16 @@ ai_modified: 2026-05-27T12:00:00+00:00
 ai_system: claude-opus-4-7
 ---
 
+## 2026-05-27T13:00:00+00:00 - expand-topic
+- **Status**: Success
+- **Topic**: Affective Tone Divergence Across Meditative Traditions
+- **Output**: [[topics/affective-tone-divergence-across-meditative-traditions]]
+- **Word count**: 2511
+- **Based on research**: no (developed from [[reviews/optimistic-2026-05-19c]] §"Medium Priority" and [[comparative-phenomenology-of-meditative-traditions]] §"Affective Tone")
+- **Calibration**: affective divergences treated as *established*; interface-mode reading held strictly as the article's *hypothesis* (live, unrefuted, not upgraded) per [[evidential-status-discipline]] + [[framework-stage-calibration]]. Identity-theory rival named as undefeated.
+- **Citations web-verified**: Lutz et al. 2008 (TiCS 12(4):163-169), Fredrickson et al. 2008 (JPSP 95(5):1045-1062), Zeng et al. 2015 (Front. Psychol. 6:1693) — all author/year/venue/volume confirmed. Classical primary sources cited directly.
+- **Integration**: cross-linked comparative-phenomenology, meditation-and-consciousness-modes, witness-consciousness, selection-only-channel. interface-as-architecture NOT linked (verified missing — avoided broken wikilink).
+
 ## 2026-05-27T12:30:00+00:00 - refine-draft
 - **Status**: Success
 - **File**: [[concepts/active-reboot]] (+ propagated to [[concepts/cross-mechanism-convergence]], [[topics/stochastic-emergence-as-quantum-interface-evidence]])

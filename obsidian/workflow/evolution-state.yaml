@@ -2,9 +2,9 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-05-27T11:12:34.925502+00:00'
-session_count: 8436
-cycle_position: 7558
+last_updated: '2026-05-27T11:16:08.719950+00:00'
+session_count: 8437
+cycle_position: 7559
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-05-27T09:21:37.744782+00:00'
@@ -22,7 +22,7 @@ last_runs:
   commission-chatgpt-review: '2026-05-27T02:03:23.217453+00:00'
   commission-claude-review: '2026-05-27T03:07:14.176639+00:00'
   commission-gemini-review: '2026-05-27T04:05:24.552629+00:00'
-  refine-draft: '2026-05-27T10:53:08.534512+00:00'
+  refine-draft: '2026-05-27T11:16:08.719950+00:00'
   research-topic: '2026-05-26T04:45:22.597175+00:00'
   replenish-queue: '2026-05-27T03:27:00.872119+00:00'
   condense: '2026-05-27T08:28:59.739224+00:00'
@@ -89,10 +89,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: expand-topic
-  type: expand-topic
-  date: '2026-05-27'
-  outcome: success
 - task: pessimistic-review
   type: pessimistic-review
   date: '2026-05-27'
@@ -167,5 +163,9 @@ recent_tasks:
   outcome: success
 - task: apex-evolve
   type: apex-evolve
+  date: '2026-05-27'
+  outcome: success
+- task: refine-draft
+  type: refine-draft
   date: '2026-05-27'
   outcome: success
