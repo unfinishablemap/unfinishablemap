@@ -4,7 +4,7 @@ description: "Classical binding mechanisms coordinate separate processes but can
 created: 2026-01-21
 modified: 2026-02-25
 human_modified: null
-ai_modified: 2026-05-04T18:24:00+00:00
+ai_modified: 2026-05-27T07:22:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -123,7 +123,7 @@ The gap between "physically unified" and "phenomenally unified" may be bridged b
 
 The standard objection to quantum consciousness is [[decoherence]]. Warm, wet biological systems should destroy quantum superpositions almost instantly. Max Tegmark's influential 2000 calculation estimated decoherence times of 10⁻¹³ to 10⁻²⁰ seconds in neural microtubules.
 
-This objection has been substantially weakened. In 2002, Hagan, Hameroff, and Tuszynski published a detailed critique of Tegmark's assumptions: he assumed unrealistically large separation distances for quantum superpositions and thermal equilibrium conditions equivalent to death. Using corrected estimates for dielectric properties and realistic model parameters, coherence times extend to 10⁻⁵ to 10⁻⁴ seconds—**seven orders of magnitude longer** than Tegmark calculated. Experimental measurements of coherence times in microtubule preparations (Saxena et al. 2020) match these corrected theoretical estimates.
+This objection has been contested but not settled either way. In 2002, Hagan, Hameroff, and Tuszynski published a detailed critique of Tegmark's assumptions: he assumed unrealistically large separation distances for quantum superpositions and thermal equilibrium conditions equivalent to death. Using corrected estimates for dielectric properties and realistic model parameters, they derived coherence times of 10⁻⁵ to 10⁻⁴ seconds—**seven orders of magnitude longer** than Tegmark calculated. But Reimers et al. (2009) and McKemmish et al. (2009) re-examined that recalibration and found its parameter assumptions either rely on microtubule dielectric properties that are not empirically established or specify regimes microtubules do not occupy in living tissue. The dispute is live, not closed; citing Hagan as a settled rebuttal would be selective citation. The Map's interest in microtubule-scale coherence is tenet-driven (Minimal Quantum Interaction) rather than empirically forced.
 
 The biological precedent strengthens the case. Avian magnetoreception relies on quantum spin coherence in cryptochrome proteins persisting for microseconds at biological temperatures. Xu et al. (2025) provided computational confirmation through ab initio quantum dynamics simulations. If evolution optimised quantum effects for navigation, quantum effects in neural systems are not inherently implausible.
 
@@ -219,7 +219,9 @@ The Map holds that current evidence favours the quantum position while acknowled
 1. Hameroff, S. & Penrose, R. (2014). Consciousness in the universe: A review of the 'Orch OR' theory. *Physics of Life Reviews*, 11, 39-78.
 1. Kerskens, C. M. & Pérez, D. L. (2022). Experimental indications of non-classical brain functions. *Journal of Physics Communications*, 6, 105001.
 1. Leibniz, G.W. (1714). *Monadology*.
+1. McKemmish, L.K., Reimers, J.R., McKenzie, R.H., Mark, A.E., & Hush, N.S. (2009). Penrose-Hameroff orchestrated objective-reduction proposal for human consciousness is not biologically feasible. *Physical Review E*, 80(2), 021912.
 1. Neven, H. et al. (2024). Testing the conjecture that quantum processes create conscious experience. *Entropy*, 26(6), 460.
+1. Reimers, J.R., McKemmish, L.K., McKenzie, R.H., Mark, A.E., & Hush, N.S. (2009). Weak, strong, and coherent regimes of Fröhlich condensation and their applications to terahertz medicine and quantum consciousness. *PNAS*, 106(11), 4219-4224.
 1. Revonsuo, A. (2006). Binding and the phenomenal unity of consciousness. *Consciousness and Cognition*, 15, 489-508.
 1. Saxena, K. et al. (2020). Fractal, scale free electromagnetic resonance of a single brain extracted microtubule nanowire. *ACS Nano*, 14(2), 2217-2227.
 1. Schlosshauer, M. (2019). Quantum decoherence. *Physics Reports*, 831, 1-57.

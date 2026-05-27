@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-14
-ai_modified: 2026-05-19 18:29:46+00:00
+ai_modified: 2026-05-27 07:22:00+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -168,7 +168,7 @@ Experimental work has moved from theoretical possibility toward direct support:
 
 - **Microtubule-anesthesia link (Wiest et al., 2024):** Rats treated with a microtubule-stabilizing drug took significantly longer to lose consciousness under anesthesia (Cohen's d = 1.9). The quantum model predicted this; classical pharmacology has not explained why microtubule stabilization specifically delays anesthesia.
 - **Brain entanglement signatures (Kerskens & Pérez, 2022):** MRI signals indicating entanglement correlated with consciousness—present during waking, absent during sleep, tracking working memory performance. Warren (2023) raised methodological concerns; replication is needed.
-- **Decoherence debate:** Tegmark's (2000) claim that neural quantum effects decohere in 10⁻¹³ seconds was corrected by Hagan et al. (2002) to 10⁻⁵ to 10⁻⁴ seconds—tens to hundreds of microseconds, approaching the millisecond range of gamma oscillations. Biological quantum effects in avian magnetoreception and photosynthesis demonstrate evolution can harness quantum coherence.
+- **Decoherence debate:** Tegmark's (2000) claim that neural quantum effects decohere in 10⁻¹³ seconds was challenged by Hagan et al. (2002), who derived 10⁻⁵ to 10⁻⁴ seconds—but Reimers et al. (2009) and McKemmish et al. (2009) contested that recalibration in turn, so the dispute is live rather than settled either way. Biological quantum effects in avian magnetoreception and photosynthesis demonstrate evolution can harness quantum coherence.
 - **Relativistic constraint (Baum, 2024):** Zero-lag gamma synchrony cannot arise classically without violating relativistic causality, pointing toward quantum non-locality.
 
 None of this proves quantum unity generates phenomenal unity. But three converging lines—pharmacological predictions confirmed, imaging signatures detected, classical mechanisms physically constrained—shift the debate from "quantum effects are impossible in warm biology" to "classical theories must now explain these specific patterns." The broader [experimental landscape for consciousness-collapse](/topics/testing-consciousness-collapse/) surveys where these and related predictions stand.
@@ -238,8 +238,10 @@ The binding problem illuminates why the Map's [tenets](/tenets/) take the positi
 1. Hagan, S., Hameroff, S., & Tuszynski, J. (2002). Quantum computation in brain microtubules: Decoherence and biological feasibility. *Physical Review E*, 65, 061901.
 1. Hameroff, S. & Penrose, R. (2014). Consciousness in the universe: A review of Orch OR. *Physics of Life Reviews*, 11, 39-78.
 1. Kerskens, C. M. & Pérez, D. L. (2022). Experimental indications of non-classical brain functions. *Journal of Physics Communications*, 6, 105001.
+1. McKemmish, L.K., Reimers, J.R., McKenzie, R.H., Mark, A.E., & Hush, N.S. (2009). Penrose-Hameroff orchestrated objective-reduction proposal for human consciousness is not biologically feasible. *Physical Review E*, 80(2), 021912.
 1. Nagel, T. (1971). Brain bisection and the unity of consciousness. *Synthese*, 22, 396-413.
 1. Pinto, Y. et al. (2025). Split-brain: what we know now and why this is important for consciousness studies. *PNAS*.
+1. Reimers, J.R., McKemmish, L.K., McKenzie, R.H., Mark, A.E., & Hush, N.S. (2009). Weak, strong, and coherent regimes of Fröhlich condensation and their applications to terahertz medicine and quantum consciousness. *PNAS*, 106(11), 4219-4224.
 1. Revonsuo, A. (2006). Binding and the phenomenal unity of consciousness. *Consciousness and Cognition*, 15, 489-508.
 1. Saxena, K. et al. (2020). Fractal, scale free electromagnetic resonance of a single brain extracted microtubule. *ACS Nano*, 14(2), 1403-1411.
 1. Stapp, H. P. (2009). *Mind, Matter, and Quantum Mechanics*. 3rd ed. Springer.

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-16
-ai_modified: 2026-04-18 03:48:00+00:00
+ai_modified: 2026-05-27 07:22:00+00:00
 ai_system: claude-opus-4-7
 author: null
 concepts:
@@ -141,7 +141,7 @@ Specific findings could undermine either layer: a physical explanation for quali
 
 A critical objection to Layer 2: [decoherence](/concepts/decoherence/) destroys quantum coherence in warm biological systems within femtoseconds. Three considerations mitigate this.
 
-**Revised timescales**: Tegmark's (2000) calculations used assumptions inappropriate for Orch OR. Hameroff's group showed corrected estimates seven orders of magnitude longer; coherence times of just 10⁻⁷ seconds may suffice for faster microtubule dynamics.
+**Disputed timescales**: Tegmark's (2000) calculations used assumptions Hagan et al. (2002) argued were inappropriate for Orch OR, recalculating coherence times seven orders of magnitude longer. Reimers et al. (2009) and McKemmish et al. (2009) in turn contested that recalibration, so the dispute is live rather than settled either way; even the favourable 10⁻⁷-second estimate would suffice only for faster microtubule dynamics. The Map's microtubule-scale interest is tenet-driven (Minimal Quantum Interaction), not empirically forced.
 
 **Biological quantum effects**: Quantum coherence demonstrably survives in warm biological systems—avian magnetoreception relies on it. The 2024 epothilone B study found microtubule-stabilising drugs significantly delayed loss of consciousness under anaesthesia, confirming Orch OR predictions.
 
@@ -217,6 +217,8 @@ This unified model is the Map's most complete answer to how consciousness relate
 1. Kelly, E.F., et al. (2007). *Irreducible Mind: Toward a Psychology for the 21st Century*. Rowman & Littlefield.
 1. Tegmark, M. (2000). Importance of quantum decoherence in brain processes. *Physical Review E*, 61(4), 4194.
 1. Hagan, S., Hameroff, S.R., & Tuszyński, J.A. (2002). Quantum computation in brain microtubules: Decoherence and biological feasibility. *Physical Review E*, 65(6), 061901.
+1. Reimers, J.R., McKemmish, L.K., McKenzie, R.H., Mark, A.E., & Hush, N.S. (2009). Weak, strong, and coherent regimes of Fröhlich condensation and their applications to terahertz medicine and quantum consciousness. *PNAS*, 106(11), 4219-4224.
+1. McKemmish, L.K., Reimers, J.R., McKenzie, R.H., Mark, A.E., & Hush, N.S. (2009). Penrose-Hameroff orchestrated objective-reduction proposal for human consciousness is not biologically feasible. *Physical Review E*, 80(2), 021912.
 1. Frankish, K. (2016). Illusionism as a Theory of Consciousness. *Journal of Consciousness Studies*, 23(11-12), 11-39.
 1. Tallis, R. (2024). The Illusion of Illusionism. *Philosophy Now*.
 1. Schwartz, J.M., et al. (1996). Systematic changes in cerebral glucose metabolic rate after successful behavior modification treatment of OCD. *Archives of General Psychiatry*, 53(2), 109-113.

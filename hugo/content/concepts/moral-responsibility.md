@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-16
-ai_modified: 2026-05-25 12:51:34+00:00
+ai_modified: 2026-05-27 07:22:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -134,7 +134,7 @@ Three responses preserve desert:
 
 The **[decoherence](/concepts/decoherence/)** objection: quantum superpositions decohere almost instantly in warm neural tissue. If quantum effects can't influence neural processing, consciousness couldn't "select" outcomes. See [decoherence](/concepts/decoherence/) for the full challenge.
 
-Three responses: (1) Tegmark's original calculations are disputed—Hameroff's group obtained estimates seven orders of magnitude longer. (2) [Quantum biology](/concepts/quantum-biology-and-neural-mechanisms/) demonstrates biological quantum effects that Tegmark's calculations seemed to rule out. (3) The Map's framework does not require sustained coherence—it requires only that quantum indeterminacy leaves outcomes genuinely open at the moment of measurement. Decoherence doesn't solve the [measurement problem](/concepts/measurement-problem/)—consciousness might bias which outcome actualises *at the moment of decoherence*, regardless of how quickly that moment arrives.
+Three responses: (1) Tegmark's original calculations are disputed—Hameroff's group obtained estimates seven orders of magnitude longer, though that recalibration was itself contested (Reimers et al. 2009; McKemmish et al. 2009), leaving the dispute live rather than settled. (2) [Quantum biology](/concepts/quantum-biology-and-neural-mechanisms/) demonstrates biological quantum effects that Tegmark's calculations seemed to rule out. (3) The Map's framework does not require sustained coherence—it requires only that quantum indeterminacy leaves outcomes genuinely open at the moment of measurement. Decoherence doesn't solve the [measurement problem](/concepts/measurement-problem/)—consciousness might bias which outcome actualises *at the moment of decoherence*, regardless of how quickly that moment arrives.
 
 ## Objections and Responses
 
@@ -200,8 +200,10 @@ This framework respects the ordinary intuition that people deserve praise and bl
 1. Frankfurt, H. (1971). "Freedom of the Will and the Concept of a Person." *Journal of Philosophy*.
 1. Hagan, S., Hameroff, S.R., & Tuszyński, J.A. (2002). Quantum computation in brain microtubules: Decoherence and biological feasibility. *Physical Review E*, 65(6), 061901.
 1. Kane, R. (1996). *The Significance of Free Will*. Oxford University Press.
+1. McKemmish, L.K., Reimers, J.R., McKenzie, R.H., Mark, A.E., & Hush, N.S. (2009). Penrose-Hameroff orchestrated objective-reduction proposal for human consciousness is not biologically feasible. *Physical Review E*, 80(2), 021912.
 1. O'Connor, T. (2000). *Persons and Causes*. Oxford University Press.
 1. Pereboom, D. (2001). *Living Without Free Will*. Cambridge University Press.
+1. Reimers, J.R., McKemmish, L.K., McKenzie, R.H., Mark, A.E., & Hush, N.S. (2009). Weak, strong, and coherent regimes of Fröhlich condensation and their applications to terahertz medicine and quantum consciousness. *PNAS*, 106(11), 4219-4224.
 1. Soon, C.S., Brass, M., Heinze, H.J., & Haynes, J.D. (2008). Unconscious determinants of free decisions in the human brain. *Nature Neuroscience*, 11(5), 543-545.
 1. Strawson, P.F. (1962). "Freedom and Resentment." *Proceedings of the British Academy*.
 1. Tallis, R. (2011). *Aping Mankind*. Acumen.

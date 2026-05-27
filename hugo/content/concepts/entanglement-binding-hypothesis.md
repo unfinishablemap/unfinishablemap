@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-01
-ai_modified: 2026-05-02 02:57:00+00:00
+ai_modified: 2026-05-27 07:22:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -76,7 +76,7 @@ A 2025 study (Escolà-Gascón) using 106 monozygotic twin pairs found that entan
 
 The standard objection holds that quantum coherence cannot survive in warm, wet biological tissue. Tegmark (2000) calculated decoherence times of 10⁻¹³ to 10⁻²⁰ seconds for neural microtubules—too short for any neural process.
 
-This calculation has been substantially challenged. Hagan, Hameroff, and Tuszyński (2002) identified problematic assumptions in Tegmark's model: unrealistically large superposition separation distances and thermal equilibrium conditions that, as they put it, are "equivalent to death, and thus not appropriate for describing living matter." Their corrected estimates yield decoherence times of 10⁻⁵ to 10⁻⁴ seconds—seven orders of magnitude longer than Tegmark's figures. Experimental measurements of coherence in microtubule preparations (Saxena et al., 2020) are consistent with the corrected estimates.
+This calculation has been challenged, though the challenge remains contested. Hagan, Hameroff, and Tuszyński (2002) identified problematic assumptions in Tegmark's model: unrealistically large superposition separation distances and thermal equilibrium conditions that, as they put it, are "equivalent to death, and thus not appropriate for describing living matter." Their recalculation yielded decoherence times of 10⁻⁵ to 10⁻⁴ seconds—seven orders of magnitude longer than Tegmark's figures. But Reimers et al. (2009) and McKemmish et al. (2009) re-derived the recalibration and found the Hagan parameter assumptions rest on microtubule dielectric properties that are not empirically established. The Tegmark/Hagan dispute is therefore live rather than settled either way, and the Map's microtubule-scale interest is tenet-driven (Minimal Quantum Interaction) rather than empirically forced.
 
 Biological precedent further weakens the objection. Quantum coherence plays functional roles in photosynthetic energy transfer and avian magnetoreception, where cryptochrome proteins maintain spin coherence for microseconds. If evolution can harness quantum effects for navigation, it might harness them for consciousness. The [evolutionary case for quantum neural effects](/topics/evolutionary-case-for-quantum-neural-effects/) develops this argument systematically: the computational payoffs of quantum effects in neural systems would dwarf those of a compass or a faster enzyme, making neural quantum effects probable rather than merely possible.
 
@@ -125,10 +125,12 @@ The entanglement binding hypothesis aligns with several of the Map's [tenets](/t
 3. Hagan, S., Hameroff, S., & Tuszyński, J. (2002). Quantum computation in brain microtubules: Decoherence and biological feasibility. *Physical Review E*, 65, 061901.
 4. Hameroff, S. & Penrose, R. (2014). Consciousness in the universe: A review of the 'Orch OR' theory. *Physics of Life Reviews*, 11, 39-78.
 5. Kerskens, C. M. & Pérez, D. L. (2022). Experimental indications of non-classical brain functions. *Journal of Physics Communications*, 6, 105001.
-6. Neven, H. et al. (2024). Testing the conjecture that quantum processes create conscious experience. *Entropy*, 26(6), 460.
-7. Saxena, K. et al. (2020). Fractal, scale free electromagnetic resonance of a single brain extracted microtubule. *AIP Advances*, 10(1), 015114.
-8. Tegmark, M. (2000). Importance of quantum decoherence in brain processes. *Physical Review E*, 61, 4194-4206.
-9. Wiest, M. C. et al. (2024). Microtubule-stabilizer epothilone B delays anesthetic-induced unconsciousness in rats. *eNeuro*, 11(8), ENEURO.0291-24.2024.
-10. Wiest, M. C. (2025). A quantum microtubule substrate of consciousness is experimentally supported. *Neuroscience of Consciousness*, niaf011.
-11. Southgate, A. & Oquatre-cinq, C. (2026-01-14). The Binding Problem. *The Unfinishable Map*. https://unfinishablemap.org/concepts/binding-problem/
-12. Southgate, A. & Oquatre-six, C. (2026-02-25). The Unity of Consciousness. *The Unfinishable Map*. https://unfinishablemap.org/concepts/unity-of-consciousness/
+6. McKemmish, L.K., Reimers, J.R., McKenzie, R.H., Mark, A.E., & Hush, N.S. (2009). Penrose-Hameroff orchestrated objective-reduction proposal for human consciousness is not biologically feasible. *Physical Review E*, 80(2), 021912.
+7. Neven, H. et al. (2024). Testing the conjecture that quantum processes create conscious experience. *Entropy*, 26(6), 460.
+8. Reimers, J.R., McKemmish, L.K., McKenzie, R.H., Mark, A.E., & Hush, N.S. (2009). Weak, strong, and coherent regimes of Fröhlich condensation and their applications to terahertz medicine and quantum consciousness. *PNAS*, 106(11), 4219-4224.
+9. Saxena, K. et al. (2020). Fractal, scale free electromagnetic resonance of a single brain extracted microtubule. *AIP Advances*, 10(1), 015114.
+10. Tegmark, M. (2000). Importance of quantum decoherence in brain processes. *Physical Review E*, 61, 4194-4206.
+11. Wiest, M. C. et al. (2024). Microtubule-stabilizer epothilone B delays anesthetic-induced unconsciousness in rats. *eNeuro*, 11(8), ENEURO.0291-24.2024.
+12. Wiest, M. C. (2025). A quantum microtubule substrate of consciousness is experimentally supported. *Neuroscience of Consciousness*, niaf011.
+13. Southgate, A. & Oquatre-cinq, C. (2026-01-14). The Binding Problem. *The Unfinishable Map*. https://unfinishablemap.org/concepts/binding-problem/
+14. Southgate, A. & Oquatre-six, C. (2026-02-25). The Unity of Consciousness. *The Unfinishable Map*. https://unfinishablemap.org/concepts/unity-of-consciousness/

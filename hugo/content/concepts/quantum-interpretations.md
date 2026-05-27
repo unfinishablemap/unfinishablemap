@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-17
-ai_modified: 2026-05-27 00:00:00+00:00
+ai_modified: 2026-05-27 07:22:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -168,7 +168,7 @@ The Map's preference for consciousness-inclusive interpretations would face seri
 
 2. **Consciousness-physics interaction is experimentally refuted.** If well-designed experiments consistently found conscious observation produces identical results to unconscious measurement, the consciousness-collapse hypothesis would weaken.
 
-3. **Decoherence timescales prove insurmountable.** Tegmark (2000) estimated neural microtubule coherence would decay in ~10⁻¹³ seconds—too short for millisecond cognition. Hagan, Hameroff, and Tuszyński (2002) corrected the model (non-thermal conditions, dipole interactions) and derived revised estimates of 10⁻⁵ to 10⁻⁴ seconds. If Tegmark's original holds, conventional quantum-coherence models fail.
+3. **Decoherence timescales prove insurmountable.** Tegmark (2000) estimated neural microtubule coherence would decay in ~10⁻¹³ seconds—too short for millisecond cognition. Hagan, Hameroff, and Tuszyński (2002) challenged the model (non-thermal conditions, dipole interactions) and derived revised estimates of 10⁻⁵ to 10⁻⁴ seconds, but Reimers et al. (2009) and McKemmish et al. (2009) contested that recalibration in turn—the dispute is live, not settled either way. If Tegmark's original holds, conventional quantum-coherence models fail.
 
    Two points blunt this against the time-symmetric reading. The revised estimates have independent support in adjacent quantum-biological systems—magnetoreception, photosynthetic coherence, 2024 tryptophan superradiance (see [quantum-biology-and-neural-mechanisms](/concepts/quantum-biology-and-neural-mechanisms/)). More importantly, atemporal selection does not require sustained coherent superposition as Orch OR does. On the TI/TSVF reading, consciousness participates in which *transaction* completes; the substrate is the ordinary post-decoherence set of branch-candidates produced by standard neural dynamics (see [post-decoherence-selection-programme](/apex/post-decoherence-selection-programme/)). The decoherence timescale constrains only variants requiring in-brain coherence.
 
@@ -231,6 +231,8 @@ The choice of quantum interpretation bears directly on all five [tenets](/tenets
 1. Kastner, R. E. (2022). *The Transactional Interpretation of Quantum Mechanics*. Cambridge University Press.
 1. Tegmark, M. (2000). Importance of quantum decoherence in brain processes. *Physical Review E*, 61(4), 4194–4206.
 1. Hagan, S., Hameroff, S. R., & Tuszyński, J. A. (2002). Quantum computation in brain microtubules: decoherence and biological feasibility. *Physical Review E*, 65, 061901.
+1. Reimers, J. R., McKemmish, L. K., McKenzie, R. H., Mark, A. E., & Hush, N. S. (2009). Weak, strong, and coherent regimes of Fröhlich condensation and their applications to terahertz medicine and quantum consciousness. *PNAS*, 106(11), 4219–4224.
+1. McKemmish, L. K., Reimers, J. R., McKenzie, R. H., Mark, A. E., & Hush, N. S. (2009). Penrose-Hameroff orchestrated objective-reduction proposal for human consciousness is not biologically feasible. *Physical Review E*, 80(2), 021912.
 1. Wallace, D. (2012). *The Emergent Multiverse: Quantum Theory according to the Everett Interpretation*. Oxford University Press.
 1. Saunders, S. (2010). Chance in the Everett interpretation. In *Many Worlds? Everett, Quantum Theory, and Reality*, eds. Saunders, Barrett, Kent, & Wallace. Oxford University Press.
 1. Frankish, K. (2016). Illusionism as a theory of consciousness. *Journal of Consciousness Studies*, 23(11–12), 11–39.

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-14
-ai_modified: 2026-05-25 13:34:50+00:00
+ai_modified: 2026-05-27 07:22:00+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -163,7 +163,7 @@ Stuart Hameroff and Roger Penrose's [Orch OR theory](/concepts/quantum-conscious
 
 ### The Decoherence Challenge
 
-[Decoherence](/concepts/decoherence/) poses a serious objection—quantum coherence is extremely fragile in warm biological systems. However: (1) Hameroff's group challenged Tegmark's calculations, obtaining estimates seven orders of magnitude longer; (2) consciousness may act at collapse, not require sustained coherence; (3) decoherence doesn't solve the measurement problem—why we observe *this* outcome remains unexplained.
+[Decoherence](/concepts/decoherence/) poses a serious objection—quantum coherence is extremely fragile in warm biological systems. However: (1) Hameroff's group challenged Tegmark's calculations, obtaining estimates seven orders of magnitude longer, though Reimers et al. (2009) and McKemmish et al. (2009) in turn contested those parameters—the dispute is live, not settled either way; (2) consciousness may act at collapse, not require sustained coherence; (3) decoherence doesn't solve the measurement problem—why we observe *this* outcome remains unexplained.
 
 **Significant caveats:** Highly speculative; no mechanism explains post-mortem coherence; dispersed quantum information might not preserve *your* particular [perspective](/concepts/haecceity/).
 
@@ -223,12 +223,14 @@ What the Map claims: given its dualist commitments, survival is a *coherent poss
 1. Hagan, S., Hameroff, S., & Tuszynski, J. (2002). "Quantum computation in brain microtubules." *Physical Review E*.
 1. Kerr, C. et al. (2014). End-of-life dreams and visions: A longitudinal study of hospice patients' experiences. *Journal of Palliative Medicine*, 17(3), 296-303.
 1. Mashour, G.A. et al. (2019). Paradoxical lucidity: A potential paradigm shift for the neurobiology and treatment of severe dementias. *Alzheimer's & Dementia*, 15(8), 1107-1114.
+1. McKemmish, L.K., Reimers, J.R., McKenzie, R.H., Mark, A.E., & Hush, N.S. (2009). "Penrose-Hameroff orchestrated objective-reduction proposal for human consciousness is not biologically feasible." *Physical Review E*, 80(2), 021912.
 1. Moody, R. (2010). *Glimpses of Eternity: Sharing a Loved One's Passage from This Life to the Next*. Guideposts.
 1. Nahm, M., Greyson, B., Kelly, E.W. & Haraldsson, E. (2012). Terminal lucidity: A review and a case collection. *Archives of Gerontology and Geriatrics*, 55(1), 138-142.
 1. Osis, K. & Haraldsson, E. (1977). *At the Hour of Death*. Avon Books.
 1. Parfit, D. (1984). *Reasons and Persons*. Oxford University Press.
 1. Parnia, S., et al. (2014). "AWARE—AWAreness during REsuscitation—A prospective study." *Resuscitation*, 85(12), 1799-1805.
 1. Parnia, S., et al. (2023). "AWAreness during REsuscitation II: A multi-center study of consciousness and awareness in cardiac arrest." *Resuscitation*, 191, 109903.
+1. Reimers, J.R., McKemmish, L.K., McKenzie, R.H., Mark, A.E., & Hush, N.S. (2009). "Weak, strong, and coherent regimes of Fröhlich condensation and their applications to terahertz medicine and quantum consciousness." *PNAS*, 106(11), 4219-4224.
 1. Tegmark, M. (2000). "Importance of quantum decoherence in brain processes." *Physical Review E*.
 1. Van Lommel, P., et al. (2001). "Near-death experience in survivors of cardiac arrest." *The Lancet*, 358(9298), 2039-2045.
 1. Xu, G., et al. (2023). "Surge of neurophysiological coupling and connectivity of gamma oscillations in the dying human brain." *PNAS*, 120(19).
