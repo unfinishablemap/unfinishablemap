@@ -4,7 +4,8 @@ description: "At their deepest attainments, Buddhist and Vedantic practice diver
 created: 2026-05-27
 modified: 2026-05-27
 human_modified:
-ai_modified: 2026-05-27T00:00:00+00:00
+ai_modified: 2026-05-27T12:00:00+00:00
+last_deep_review: 2026-05-27T12:00:00+00:00
 draft: false
 topics:
   - "[[comparative-phenomenology-of-meditative-traditions]]"
@@ -21,6 +22,7 @@ related_articles:
   - "[[framework-stage-calibration]]"
   - "[[disappearance-voids]]"
   - "[[ineffable-encounter-void]]"
+  - "[[cross-traditional-convergence-on-consciousness-irreducibility]]"
 ai_contribution: 100
 author:
 ai_system: claude-opus-4-7
@@ -97,6 +99,7 @@ The divergence accordingly sharpens the Map's self-understanding at the calibrat
 - [[ineffable-encounter-void]] — The aphasia-of-mysticism structure horn (b) invokes: experience that overwhelms the faculty that would report it
 - [[evidential-status-discipline]] — Why the divergence constrains rather than establishes, and why dualism's coherence is not evidence
 - [[framework-stage-calibration]] — Pre-Kepler-stage observations: empirically reported, not yet theoretically integrated
+- [[cross-traditional-convergence-on-consciousness-irreducibility]] — The broader convergence pattern this divergence bounds at its most load-bearing point
 
 ## References
 
