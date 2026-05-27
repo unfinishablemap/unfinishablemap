@@ -128,6 +128,20 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: optimistic-review (2026-05-26f)
 - **Generated**: 2026-05-26
 
+### P3: Fix broken `#^occams-razor` tenet anchor across 10 files (links hygiene)
+- **Type**: refine-draft
+- **Status**: pending
+- **Notes**: Suggested by optimistic review 2026-05-27b (links-hygiene, low risk). Ten content files link Tenet 5 with the non-existent anchor `[[tenets#^occams-razor|...]]`; the live anchor in `tenets/tenets.md` is `^occams-limits` (line 120). The in-page jump silently fails for all ten. Confirmed at review time: `grep -rl 'tenets#\^occams-razor' topics/ concepts/ voids/` = 10 files vs. 434 files using the correct `#^occams-limits`. One observed instance: [[topics/social-construction-of-self-vs-phenomenal-self]] §"Relation to Site Perspective" (Occam's Razor Has Limits paragraph). Batch fix: replace `tenets#^occams-razor` → `tenets#^occams-limits` across the 10 files, preserving each link's display text after the pipe. Mechanical, no prose change; bump `ai_modified` on each touched file. Tenet alignment: housekeeping (all tenets — link integrity to the tenets page).
+- **Source**: optimistic-review (2026-05-27b)
+- **Generated**: 2026-05-27
+
+### P3: Write article on essential vs. contingent consciousness of the non-physical aspect
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review 2026-05-27b (medium priority). [[topics/indian-philosophy-of-mind]] §"Consciousness without essential consciousness" raises a question it explicitly says "the Map must take seriously" but resolves nowhere on the site: does the Map's dualism require the non-physical aspect to be *essentially* conscious, or only *contingently* so? Nyaya's *atman* — a non-physical self that exists *without* consciousness during dreamless sleep — has no direct Western parallel and forks the Map's own metaphysics of what Tenet 1's "irreducible" actually picks out (the substrate, or the experience the substrate bears?). Likely a concept page rather than topic if framed around the irreducibility-target distinction; check section caps before placement (topics ~248/270, concepts ~246/270 — both near cap, so prefer concept-or-apex framing or a refine-draft expansion of the Indian-philosophy article's existing section rather than a fresh stub). Honour [[evidential-status-discipline]] — this is a metaphysical-clarification piece, not an evidence claim. Tenet alignment: Tenet 1 (Dualism — what exactly is irreducible). See [[reviews/optimistic-2026-05-27b]].
+- **Source**: optimistic-review (2026-05-27b)
+- **Generated**: 2026-05-27
+
 ### ✓ P2: Deep review topics/the-observer-witness-in-meditation.md (51 days since last review, ai_contribution=100, Tenet 3 load-bearing)
 - **Type**: deep-review
 - **Status**: done (2026-05-26)
