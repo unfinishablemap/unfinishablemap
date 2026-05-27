@@ -1,9 +1,22 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-27T07:35:38+00:00
+ai_modified: 2026-05-27T07:47:13+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-05-27T07:47:13+00:00 - apex-evolve (create)
+- **Status**: Complete
+- **Article**: [[apex/steelmanning-as-method]] — "Steelmanning as Method: Building the Rival Before the Residue" (apex #30)
+- **Mode**: create (suggested by optimistic-2026-05-26f High Priority)
+- **Source articles**: 8 (project/evidential-status-discipline, project/coherence-inflation-countermeasures, project/bedrock-clash-vs-absorption, project/common-cause-null, project/mechanism-cost-ledger, apex/phenomenal-output-causal-machinery-dissociation, apex/moral-architecture-of-consciousness, apex/phenomenology-mechanism-bridge)
+- **Word count**: 0 → 3,501 (within 2500–4000 target)
+- **What it does**: lifts the performed-but-unnamed pattern from the dissociation apex's "Strongest Materialist Reading" section into a stated four-move method (build unified rival → grant absorption → isolate residue → audit convergence count downward). Worked exhibit = the dissociation apex's felt-character residue + its seven→five-or-six self-audit (Carruthers reassigned witness→absorber, Bergson demoted to parallel proposer, Schwitzgebel re-read as symmetric sceptic).
+- **Overlap check**: confirmed DISTINCT from the methodology layer it cross-links rather than duplicates — evidential-status-discipline supplies the *defensive* prohibitions for which this is the *constructive* companion; coherence-inflation-countermeasures C10 (steelman mirror) + C9 (external-benchmark) are the *requirements* this formalises; bedrock-clash-vs-absorption governs how the residue is *installed* (one level below); common-cause-null / per-cluster-independence-scoring / mechanism-cost-ledger are the *screens* the downward audit applies. No duplication; positions the apex as the *method synthesis* cross-linking the existing docs.
+- **Evidential-status discipline**: honoured — residue held at *framework-boundary* register, explicitly refusing "survived the steelman → tier-upgrade"; theatrical-steelman failure mode (residue silently re-inflated) named as honest limitation; method's reliability routed to external-benchmark review (C9). No "not X but Y" clichés.
+- **Tenet alignment**: Tenet 5 (Occam's Razor Has Limits) primarily — the instrument keeping the Map's coherence from passing for evidence; methodologically supports all five.
+- **Index**: registered as #30 in [[apex/apex-articles]] (apex register uncapped; topics 248/270, concepts 246/270 have room, voids over cap)
+- **Review**: [[reviews/apex-evolve-2026-05-27-steelmanning-as-method]]
 
 ## 2026-05-27T07:35:38+00:00 - apex-evolve (create)
 - **Status**: Complete

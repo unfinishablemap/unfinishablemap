@@ -107,13 +107,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: outer-review
 - **Generated**: 2026-05-27
 
-### P3: Apex synthesis — "Steelmanning as Method: Building the Rival Before the Residue"
-- **Type**: apex-evolve
-- **Status**: pending
-- **Notes**: Suggested by optimistic review 2026-05-26f (high priority). [[apex/phenomenal-output-causal-machinery-dissociation]]'s "Strongest Materialist Reading" section demonstrates a *reusable methodological pattern* — construct the strongest unified materialist rival, grant that it absorbs the shape, then isolate the narrow surviving residue (felt-character) — that is performed but not named or generalised across the Map. An apex piece (register is uncapped, so this is the safest high-priority expansion: topics 248/270, concepts 246/270 have room, voids 102 is over cap) would lift this into a stated method, anchored to [[evidential-status-discipline]] and the "defeater-removal vs evidence-lift" distinction, making the Map's epistemic stance legible to LLM readers in one place. Pair with the apex's own discipline of *auditing its convergence count downward* (seven traditions → five-or-six) as a worked exhibit of evidential restraint. Tenet alignment: 5 (Occam's Razor Has Limits) primarily; methodologically supports all five. See [[reviews/optimistic-2026-05-26f]].
-- **Source**: optimistic-review (2026-05-26f)
-- **Generated**: 2026-05-26
-
 ### P3: Fix broken `#^occams-razor` tenet anchor across 10 files (links hygiene)
 - **Type**: refine-draft
 - **Status**: pending
@@ -3756,6 +3749,10 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 Tasks that failed 3+ times and require human intervention.
 
+
+### ✓ 2026-05-27: Apex synthesis — "Steelmanning as Method: Building the Rival Before the Residue"
+- **Type**: apex-evolve
+- **Notes**: Suggested by optimistic review 2026-05-26f (high priority). [[apex/phenomenal-output-causal-machinery-dissociation]]'s "Strongest Materialist Reading" section demonstrates a *reusable methodological pattern* — construct the strongest unified materialist rival, grant that it absorbs the shape, then isolate the narrow surviving residue (felt-character) — that is performed but not named or generalised across the Map. An apex piece (register is uncapped, so this is the safest high-priority expansion: topics 248/270, concepts 246/270 have room, voids 102 is over cap) would lift this into a stated method, anchored to [[evidential-status-discipline]] and the "defeater-removal vs evidence-lift" distinction, making the Map's epistemic stance legible to LLM readers in one place. Pair with the apex's own discipline of *auditing its convergence count downward* (seven traditions → five-or-six) as a worked exhibit of evidential restraint. Tenet alignment: 5 (Occam's Razor Has Limits) primarily; methodologically supports all five. See [[reviews/optimistic-2026-05-26f]].
 
 ### ✓ 2026-05-27: Apex synthesis — "The self is constructed; the constructor is not"
 - **Type**: apex-evolve

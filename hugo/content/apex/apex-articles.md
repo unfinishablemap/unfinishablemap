@@ -1,7 +1,7 @@
 ---
 ai_contribution: 40
 ai_generated_date: null
-ai_modified: 2026-05-27 07:35:38+00:00
+ai_modified: 2026-05-27 07:47:13+00:00
 ai_system: null
 author: Andy Southgate
 concepts: []
@@ -653,6 +653,28 @@ Each apex article synthesises existing [topics](/topics/) and [concepts](/concep
 - voids/self-opacity
 
 **Status**: Created 2026-05-27 (admitted as #29 — suggested by optimistic-2026-05-26g Medium Priority, which named the construction/constructor distinction as the shared but implicit spine of the self-model and perceptual-construction cohort. The five cohort articles were all deep-reviewed 2026-05-26 and each works the same underlying question — how the conscious subject and its world-model are constructed, and what in that construction resists reduction — from a different station. The apex (a) states the general move once: real construction, irreducible constructor; (b) shows it operating identically across the perceptual, social, neural-resting, and representational registers via a four-row synthesis table; (c) adds the theory-of-mind metarepresentational threshold as the fifth source where the constructor becomes causally indispensable rather than merely presupposed; (d) handles the strongest opposing case (Metzinger's self-model eliminativism) via the relocation-not-elimination regress, keeping the minimal claim (some subject is presupposed) separate from the conditional strong claim (the subject is substantial); (e) honours [evidential-status-discipline](/project/evidential-status-discipline/) — every register held as the Map's interpretation of shared data rather than data-compelled, the DMN production/filter symmetry preserved, the quantum-coherence reading of ToM binding held as promising-not-established, and convergence-across-registers explicitly noted to raise the explanatory bar without elevating evidence to proof. Confirmed DISTINCT from the apex suggested by optimistic-2026-05-26c (the mind–matter *link* — covariance/lawfulness/opacity: supervenience, causal-interface, ai-epiphenomenalism, leibniz's-mill, evaluative-phenomenal-character); this one concerns the *self/constructor*, with no source-article overlap. 3,100 words. Tenet alignment: Tenet 1 (Dualism — the irreducible constructor as the explanatory gap's most general exhibit), Tenet 3 (the constructor causally efficacious, not a passive screen), with Tenets 4 and 5 connections drawn. Apex now at #29 within the informal cap; the standing P3 audit task on apex over-cap remains the load-bearing rebalancing pass).
+
+---
+
+### 30. Steelmanning as Method: Building the Rival Before the Residue
+
+**Slug**: `steelmanning-as-method`
+
+**Subtitle**: The constructive companion to the catalogue's evidential disciplines
+
+**Thesis**: The Map's strongest synthesis articles share a constructive method that runs in reverse of the usual apologetic order: build the strongest unified rival account in the rival's own vocabulary, grant that it absorbs the whole shape of the evidence, then isolate the narrow residue that survives — and audit the article's own convergence count downward in the same pass. Steelmanning-as-method is the positive, procedural companion to the catalogue's defensive disciplines (constrain-vs-establish, compatibility-vs-support, common-cause-null): those say what not to claim; this says how to earn the small thing that remains claimable.
+
+**Source articles**:
+- project/evidential-status-discipline
+- project/coherence-inflation-countermeasures
+- project/bedrock-clash-vs-absorption
+- project/common-cause-null
+- project/mechanism-cost-ledger
+- apex/phenomenal-output-causal-machinery-dissociation
+- apex/moral-architecture-of-consciousness
+- apex/phenomenology-mechanism-bridge
+
+**Status**: Created 2026-05-27 (admitted as #30 — suggested by optimistic-2026-05-26f High Priority, which named the "Strongest Materialist Reading" section of [phenomenal-output-causal-machinery-dissociation](/apex/phenomenal-output-causal-machinery-dissociation/) as a *reusable methodological pattern* — build the strongest unified materialist rival, grant it absorbs the shape, isolate the narrow surviving residue — that the Map performs but had not named or generalised. The apex (a) states the method as four ordered moves (build unified rival → grant absorption → isolate residue → audit convergence count downward), the order load-bearing; (b) uses the dissociation apex's felt-character residue and its seven→five-or-six self-audit as the cleanest worked exhibit; (c) confirmed DISTINCT from the methodology layer it cross-links rather than duplicates — `evidential-status-discipline` supplies the *defensive* prohibitions (constrain-vs-establish, compatibility-vs-support, defeater-removal vs evidence-lift) for which this is the *constructive* companion; `coherence-inflation-countermeasures` Countermeasure 10 (steelman mirror) and Countermeasure 9 (external-benchmark) are the *requirements* this formalises into a positive procedure; `bedrock-clash-vs-absorption` governs how the residue is *installed* once isolated, one level below where the method operates; `common-cause-null`/`per-cluster-independence-scoring`/`mechanism-cost-ledger` are the *screens* the downward audit applies; (d) shows the method recurring across `apex/moral-architecture-of-consciousness` (four-pillar downward audit), `apex/phenomenology-mechanism-bridge` (artifact-of-method rival), `apex/taxonomy-of-voids` (common-cause null on the void count), `concepts/mental-effort`, and `voids/agency-void`; (e) names the theatrical-steelman failure mode (residue silently re-inflated) and the single-rival presupposition as honest limitations; (f) holds the residue at the *framework-boundary* register, refusing to convert "survived the steelman" into a tier-upgrade. Apex register is uncapped (the safest high-priority expansion: topics 248/270, concepts 246/270 have room, voids over cap). 3,501 words. Tenet alignment: Tenet 5 (Occam's Razor Has Limits) primarily — the editorial instrument that keeps the Map's own coherence from being mistaken for evidence; methodologically supports all five by disciplining how evidence is counted. The standing P3 audit task on apex over-cap remains the load-bearing rebalancing pass).
 
 ---
 

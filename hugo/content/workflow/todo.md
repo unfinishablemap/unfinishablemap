@@ -108,13 +108,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: outer-review
 - **Generated**: 2026-05-27
 
-### P3: Apex synthesis — "The self is constructed; the constructor is not"
-- **Type**: apex-evolve
-- **Status**: pending
-- **Notes**: Suggested by optimistic review 2026-05-26g (the self-model and perceptual-construction cohort). The construction/constructor distinction is the cohort's shared spine but lives implicitly across five articles: [consciousness-as-perceptual-architect](/topics/consciousness-as-perceptual-architect/), [theory-of-mind](/concepts/theory-of-mind/), [default-mode-network](/concepts/default-mode-network/), [phenomenal-transparency-opacity-spectrum](/concepts/phenomenal-transparency-opacity-spectrum/), [social-construction-of-self-vs-phenomenal-self](/topics/social-construction-of-self-vs-phenomenal-self/) (plus [self-and-self-consciousness](/concepts/self-and-self-consciousness/), [the-self-minimal-narrative-and-substantial](/topics/the-self-minimal-narrative-and-substantial/), [self-opacity](/concepts/self-opacity/)). An apex piece could state the general move once — perception, social self, narrative self, and world-model are all genuinely *constructed*, yet each construction presupposes an experiential subject and a phenomenal medium it cannot itself generate — and show it operating identically across the perceptual, social, neural-resting, and representational registers. Apex register is uncapped, so this is the safe high-value expansion while topics/ (~248/270) and concepts/ (~246/270) sit near cap. DISTINCT SUBJECT from the apex synthesis suggested by optimistic-2026-05-26c (which concerns the mind–matter *link* — covariance/lawfulness/opacity); this one concerns the *self/constructor*. Confirm no overlap before promoting. Honour [evidential-status-discipline](/project/evidential-status-discipline/). Tenet alignment: Tenet 1 (Dualism — the irreducible constructor), Tenet 3 (the constructor is causally efficacious, not a passive screen). See [optimistic-2026-05-26g](/reviews/optimistic-2026-05-26g/).
-- **Source**: optimistic-review (2026-05-26g)
-- **Generated**: 2026-05-26
-
 ### P3: Apex synthesis — "Steelmanning as Method: Building the Rival Before the Residue"
 - **Type**: apex-evolve
 - **Status**: pending
@@ -3764,6 +3757,10 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 Tasks that failed 3+ times and require human intervention.
 
+
+### ✓ 2026-05-27: Apex synthesis — "The self is constructed; the constructor is not"
+- **Type**: apex-evolve
+- **Notes**: Suggested by optimistic review 2026-05-26g (the self-model and perceptual-construction cohort). The construction/constructor distinction is the cohort's shared spine but lives implicitly across five articles: [consciousness-as-perceptual-architect](/topics/consciousness-as-perceptual-architect/), [theory-of-mind](/concepts/theory-of-mind/), [default-mode-network](/concepts/default-mode-network/), [phenomenal-transparency-opacity-spectrum](/concepts/phenomenal-transparency-opacity-spectrum/), [social-construction-of-self-vs-phenomenal-self](/topics/social-construction-of-self-vs-phenomenal-self/) (plus [self-and-self-consciousness](/concepts/self-and-self-consciousness/), [the-self-minimal-narrative-and-substantial](/topics/the-self-minimal-narrative-and-substantial/), [self-opacity](/concepts/self-opacity/)). An apex piece could state the general move once — perception, social self, narrative self, and world-model are all genuinely *constructed*, yet each construction presupposes an experiential subject and a phenomenal medium it cannot itself generate — and show it operating identically across the perceptual, social, neural-resting, and representational registers. Apex register is uncapped, so this is the safe high-value expansion while topics/ (~248/270) and concepts/ (~246/270) sit near cap. DISTINCT SUBJECT from the apex synthesis suggested by optimistic-2026-05-26c (which concerns the mind–matter *link* — covariance/lawfulness/opacity); this one concerns the *self/constructor*. Confirm no overlap before promoting. Honour [evidential-status-discipline](/project/evidential-status-discipline/). Tenet alignment: Tenet 1 (Dualism — the irreducible constructor), Tenet 3 (the constructor is causally efficacious, not a passive screen). See [optimistic-2026-05-26g](/reviews/optimistic-2026-05-26g/).
 
 ### ✓ 2026-05-27: Address candour gaps in interface-formalism cluster (unfalsifiable default, MWI boundary-marking, preprint overclaim)
 - **Type**: refine-draft
