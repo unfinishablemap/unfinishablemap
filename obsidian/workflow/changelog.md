@@ -5,6 +5,13 @@ ai_modified: 2026-05-27T12:00:00+00:00
 ai_system: claude-opus-4-7
 ---
 
+## 2026-05-27T13:30:00+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[topics/anaesthesia-and-the-consciousness-interface]]
+- **Original score**: n/a (targeted citation + calibration fix from research-topic chain)
+- **Changes**: Fixed constrain-vs-establish calibration error in §"The Active Reboot" per [[evidential-status-discipline]] and [[research/pci-phi-anaesthesia-recovery-2026-05-27]]. Removed the unsupported sentence attributing "integration recovers before behavioural responsiveness" timing to "recent IIT work (2024–2025 PCI and Φ literature)" — the 2024–2025 corpus establishes state-*dissociation*, not emergence *timing*. Replaced with: (a) the dissociation claim it can actually support, cited to verified Onoda et al. 2025 (niaf024), Breyton et al. 2025 (eLife RP98920), Van Maldegem et al. 2025 (BJA 134(4):1088-1104); (b) the precedence intuition correctly anchored on Lewis et al. (2018, eLife 7:e33250) with corrected mechanism (sensory-gating transient state) and date. Added 4 verbatim web-verified references. Argument preserved.
+- **Published**: yes
+
 ## 2026-05-27T14:32:20+00:00 - apex-evolve
 - **Status**: Complete
 - **Article**: [[apex/post-decoherence-selection-programme]]

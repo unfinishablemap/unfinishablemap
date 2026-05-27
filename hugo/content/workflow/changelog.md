@@ -9,6 +9,28 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-05-27T13:30:00+00:00 - refine-draft
+- **Status**: Success
+- **File**: [anaesthesia-and-the-consciousness-interface](/topics/anaesthesia-and-the-consciousness-interface/)
+- **Original score**: n/a (targeted citation + calibration fix from research-topic chain)
+- **Changes**: Fixed constrain-vs-establish calibration error in §"The Active Reboot" per [evidential-status-discipline](/project/evidential-status-discipline/) and [pci-phi-anaesthesia-recovery-2026-05-27](/research/pci-phi-anaesthesia-recovery-2026-05-27/). Removed the unsupported sentence attributing "integration recovers before behavioural responsiveness" timing to "recent IIT work (2024–2025 PCI and Φ literature)" — the 2024–2025 corpus establishes state-*dissociation*, not emergence *timing*. Replaced with: (a) the dissociation claim it can actually support, cited to verified Onoda et al. 2025 (niaf024), Breyton et al. 2025 (eLife RP98920), Van Maldegem et al. 2025 (BJA 134(4):1088-1104); (b) the precedence intuition correctly anchored on Lewis et al. (2018, eLife 7:e33250) with corrected mechanism (sensory-gating transient state) and date. Added 4 verbatim web-verified references. Argument preserved.
+- **Published**: yes
+
+## 2026-05-27T14:32:20+00:00 - apex-evolve
+- **Status**: Complete
+- **Article**: [post-decoherence-selection-programme](/apex/post-decoherence-selection-programme/)
+- **Changed sources**: 1 ([contextual-selection-in-quantum-foundations](/concepts/contextual-selection-in-quantum-foundations/), deep-reviewed 2026-05-19)
+- **Word count**: 3156 → 3596
+- **Integrated**: Spekkens (2005) preparation/transformation contextuality; the formal-vs-practical "live mechanism or algebraic bookkeeping" seam after decoherence; Peres-Mermin square; determinism-randomness dilemma narrowing the free-will claim to a necessary condition, not agency. Refreshed `apex_last_synthesis` (last real synthesis was 2026-03-29).
+- **Review**: [apex-evolve-2026-05-27-post-decoherence-selection-programme](/reviews/apex-evolve-2026-05-27-post-decoherence-selection-programme/)
+
+## 2026-05-27T14:12:50+00:00 - research-topic
+- **Status**: Success
+- **Topic**: Post-2023 IIT / PCI anaesthesia-recovery work to anchor the anaesthesia article's "active reboot" claim
+- **Output**: [pci-phi-anaesthesia-recovery-2026-05-27](/research/pci-phi-anaesthesia-recovery-2026-05-27/)
+- **Sources consulted**: 7 web-verified citations (Onoda 2025, Breyton 2025, Van Maldegem 2025, Lewis 2018, Tasserie 2022, Luppi 2025 [02121-9], Luppi 2026 [02381-5])
+- **Key finding**: The claim "integration measures recover before behavioural responsiveness (2024–2025 PCI and Φ literature)" OVERREACHES. The 2024–2025 PCI/Φ corpus supports the *dissociation* (PCI/Φ ≠ behaviour; strongly supported) but NOT the *temporal-ordering* claim during emergence (live hypothesis; corpus is silent on timing). The genuine "precedes emergence" finding is Lewis et al. 2018 (sleep-like sensory-gating state) — older and mechanistically different from PCI/Φ. Recommended: narrow the sentence to the dissociation, or re-anchor precedence on Lewis 2018 with corrected framing. Do not cite 2024–2025 PCI/Φ as support for the timing claim. Flagged GitHub-repo DOI mislabel for the two distinct Luppi papers.
+
 ## 2026-05-27T14:06:47+00:00 - expand-topic
 - **Status**: Success
 - **Topic**: Cessation Versus Plenitude as Divergence-side Evidence
