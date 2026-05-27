@@ -1,9 +1,21 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-27T18:30:00+00:00
+ai_modified: 2026-05-27T15:47:42+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-05-27T15:47:42+00:00 - deep-review
+- **Status**: Success
+- **File**: [[topics/anti-correlation-probes-for-ai-consciousness]]
+- **Word count**: 2622 → ~2660 (+~38; 87%→89% of 3000 topics soft target, well within bounds)
+- **Critical issues addressed**: 1 (stale citation caveat — the blockquote claimed the parent concept page "at time of writing" still misattributed the finding to "Coutinho et al. 2021, *Scientific Reports*"; the parent was in fact corrected to Rebouillat 2021 in commit 32664cb82 during the same propagation pass, making the caveat a now-false statement about the current corpus state)
+- **Medium issues addressed**: 0
+- **Enhancements made**: 1 (reframed the corrected caveat as a worked instance of the intra-corpus citation-propagation failure mode, with an added cross-link to the evidential-status discipline)
+- **Citation verification**: Rebouillat, Leonetti & Kouider (2021), *Neuroscience of Consciousness* 2021(1) niab004 confirmed against parent concept page and discrimination-problem page; all 17 body wikilinks resolve in Hugo output (incl. [[evidential-status-discipline]] → /project/evidential-status-discipline/ by basename, matching the established peer-concept convention in process-content-distinction.md)
+- **Reasoning-mode check**: N/A — methodological design article, replies to no named opponent; no label leakage present
+- **Calibration check**: No possibility/probability slippage. Article relentlessly self-downgrades ("calibration-grade upgrade of an absence-claim, not a consciousness detector"); a tenet-accepting reviewer would not flag any claim as overstated against the five-tier scale
+- **Output**: [[reviews/deep-review-2026-05-27-anti-correlation-probes-for-ai-consciousness]]
 
 ## 2026-05-27T18:30:00+00:00 - condense
 - **Status**: Success
