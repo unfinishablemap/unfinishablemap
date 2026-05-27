@@ -9,6 +9,16 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-05-27T14:06:47+00:00 - expand-topic
+- **Status**: Success
+- **Topic**: Cessation Versus Plenitude as Divergence-side Evidence
+- **Output**: [cessation-versus-plenitude](/concepts/cessation-versus-plenitude/)
+- **Word count**: 2253 (90% of 2500 concepts target — ok)
+- **Based on research**: No (seeded by [optimistic-2026-05-19c](/reviews/optimistic-2026-05-19c/) §"High Priority"; develops [comparative-phenomenology-of-meditative-traditions](/topics/comparative-phenomenology-of-meditative-traditions/) §"Cessation Versus Plenitude")
+- **Citations web-verified**: Laukkonen, Sacchet, Barendregt, Devaney, Chowdhury & Slagter (2023), "Cessations of consciousness in meditation: Advancing a scientific understanding of nirodha samāpatti," *Progress in Brain Research* 280:61–87, DOI 10.1016/bs.pbr.2022.12.007 ✓ (expanded from corpus's bare "et al." to full author list + page range). Classical sources (Buddhaghosa *Visuddhimagga*, Patañjali *Yoga Sūtras*, Nāgārjuna *Mūlamadhyamakakārikā*) cross-checked against parent article — accurate.
+- **Bidirectional links**: inbound from parent [comparative-phenomenology-of-meditative-traditions](/topics/comparative-phenomenology-of-meditative-traditions/) §"Cessation Versus Plenitude" (full-development pointer); reciprocal sibling links to/from [affective-tone-divergence-across-meditative-traditions](/topics/affective-tone-divergence-across-meditative-traditions/) (Sibling section + Further Reading). Verified targets: [the-observer-witness-in-meditation](/topics/the-observer-witness-in-meditation/) exists in topics/ not concepts/ (used bare slug); [disappearance-voids](/voids/disappearance-voids/), [ineffable-encounter-void](/voids/ineffable-encounter-void/), [framework-stage-calibration](/project/framework-stage-calibration/) (project/), [evidential-status-discipline](/project/evidential-status-discipline/) (project/), [witness-consciousness](/concepts/witness-consciousness/), [meditation-and-consciousness-modes](/concepts/meditation-and-consciousness-modes/) all verified.
+- **Calibration**: held at constrain-not-establish throughout per [evidential-status-discipline](/project/evidential-status-discipline/); both horns of the dilemma treated honestly, neither resolved; divergence named as Pre-Kepler-stage observation per [framework-stage-calibration](/project/framework-stage-calibration/); substantialist horn-(b) reading explicitly flagged as tenet-coherent-but-not-evidenced.
+
 ## 2026-05-27T15:00:00+00:00 - expand-topic
 - **Status**: Success
 - **Topic**: Recovery-Order Asymmetry as Interface Evidence

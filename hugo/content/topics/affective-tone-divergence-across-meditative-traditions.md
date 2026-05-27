@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-05-27
-ai_modified: 2026-05-27 00:00:00+00:00
+ai_modified: 2026-05-27 14:06:47+00:00
 ai_system: claude-opus-4-7
 author: null
 concepts:
@@ -89,7 +89,7 @@ There is at least one serious rival the hypothesis does not defeat. The affectiv
 
 ## Sibling To, or Distinct From, Cessation-Versus-Plenitude?
 
-The parent article treats affective-tone divergence as a "sibling phenomenon at a less load-bearing register" to the cessation-versus-plenitude divergence (whether the ultimate state is the cessation of experience or its fullest expression). The relationship is worth making precise, because the two divergences operate on different axes.
+The parent article treats affective-tone divergence as a "sibling phenomenon at a less load-bearing register" to the [cessation-versus-plenitude divergence](/concepts/cessation-versus-plenitude/) (whether the ultimate state is the cessation of experience or its fullest expression). The relationship is worth making precise, because the two divergences operate on different axes.
 
 Cessation-versus-plenitude is a disagreement about the *presence or absence of content* at the limit. The Theravāda *nirodha samāpatti* reports the stopping of perception and feeling; the Vedāntic *sat-chit-ānanda* reports awareness at maximal fullness. The axis is content-quantity: nothing versus everything.
 
@@ -110,6 +110,7 @@ The hypothesis connects to [Bidirectional Interaction](/tenets/#bidirectional-in
 ## Further Reading
 
 - [comparative-phenomenology-of-meditative-traditions](/topics/comparative-phenomenology-of-meditative-traditions/) — The parent article; affective tone is one of its three divergence zones
+- [cessation-versus-plenitude](/concepts/cessation-versus-plenitude/) — The sibling divergence at the content-presence register; the more load-bearing of the two
 - [meditation-and-consciousness-modes](/concepts/meditation-and-consciousness-modes/) — The selection/witness two-mode framework this article reads the traditions against
 - [witness-consciousness](/concepts/witness-consciousness/) — The *sakshi* register and the phenomenology of disengaged selection
 - [selection-only-channel](/concepts/selection-only-channel/) — The technical picture of selection as choice among brain-prepared candidates

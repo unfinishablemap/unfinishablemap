@@ -4,7 +4,7 @@ description: "Contemplative traditions report incompatible emotional tones at th
 created: 2026-05-27
 modified: 2026-05-27
 human_modified:
-ai_modified: 2026-05-27T00:00:00+00:00
+ai_modified: 2026-05-27T14:06:47+00:00
 last_deep_review: 2026-05-27T00:00:00+00:00
 draft: false
 topics:
@@ -86,7 +86,7 @@ There is at least one serious rival the hypothesis does not defeat. The affectiv
 
 ## Sibling To, or Distinct From, Cessation-Versus-Plenitude?
 
-The parent article treats affective-tone divergence as a "sibling phenomenon at a less load-bearing register" to the cessation-versus-plenitude divergence (whether the ultimate state is the cessation of experience or its fullest expression). The relationship is worth making precise, because the two divergences operate on different axes.
+The parent article treats affective-tone divergence as a "sibling phenomenon at a less load-bearing register" to the [[cessation-versus-plenitude|cessation-versus-plenitude divergence]] (whether the ultimate state is the cessation of experience or its fullest expression). The relationship is worth making precise, because the two divergences operate on different axes.
 
 Cessation-versus-plenitude is a disagreement about the *presence or absence of content* at the limit. The Theravāda *nirodha samāpatti* reports the stopping of perception and feeling; the Vedāntic *sat-chit-ānanda* reports awareness at maximal fullness. The axis is content-quantity: nothing versus everything.
 
@@ -107,6 +107,7 @@ The hypothesis connects to [[tenets#^bidirectional-interaction|Bidirectional Int
 ## Further Reading
 
 - [[comparative-phenomenology-of-meditative-traditions]] — The parent article; affective tone is one of its three divergence zones
+- [[cessation-versus-plenitude]] — The sibling divergence at the content-presence register; the more load-bearing of the two
 - [[meditation-and-consciousness-modes]] — The selection/witness two-mode framework this article reads the traditions against
 - [[witness-consciousness]] — The *sakshi* register and the phenomenology of disengaged selection
 - [[selection-only-channel]] — The technical picture of selection as choice among brain-prepared candidates
