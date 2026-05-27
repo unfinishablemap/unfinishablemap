@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-08
-ai_modified: 2026-05-27 16:20:00+00:00
+ai_modified: 2026-05-27 17:45:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -64,7 +64,9 @@ The challenge: where do these mind-independent values come from? Wolf acknowledg
 
 Meaning derives from our attitudes—what we care about or find fulfilling. Harry Frankfurt emphasizes caring; Richard Taylor focuses on desire-satisfaction. There's no external standard; meaning is whatever you authentically pursue.
 
-This avoids metaphysical commitments but invites counterexamples. If someone devotes their life to counting hairs, is that meaningful? Intuition protests. Meaning seems to require that what we care about actually matters, not just that we care.
+Sophisticated subjectivists do not rest on bare desire, and the strongest version must be met first. They add a structural constraint: meaning attaches to *categorical* desires (ends one would not trade away, in Williams's sense), to desires that survive *reflective endorsement*, or to pro-attitudes standing in a *fitting* relation to their objects. These already screen off the trivial cases—an idle hair-counting urge that dissolves under reflection fails the categorical and reflective tests without any appeal to mind-independent value.
+
+So the familiar counterexample needs care: the refined subjectivist need not call hair-counting meaningful. The Map's disagreement is not that subjectivism licenses absurd projects but that even an idealised, reflectively-stable pro-attitude leaves a residual question it cannot answer from inside—*what is it about the object that the fitting attitude is fitting to?* Reflective endorsement can be perfectly stable and still track nothing; the structure secures consistency, not contact with anything that matters. Meaning seems to require that what we care about actually matters, not merely that our caring is well-ordered—and the Map locates that "actually matters" in the intrinsic character of the conscious engagement rather than in the agent's stance toward it.
 
 ### Nihilism
 
@@ -97,6 +99,8 @@ This connects to the [free-will](/topics/free-will/) discussion and [agent-causa
 The weight-of-choice claim does not, in fact, *need* the quantum apparatus. If consciousness causally influences the physical world—the [Bidirectional Interaction](/tenets/#bidirectional-interaction) tenet—then what you do has real consequences mediated by irreducible consciousness, whatever the mechanism turns out to be. The quantum proposal is one candidate mechanism for that influence, not a premise the meaning thesis stands or falls on. So understood, your choices aren't epiphenomenal froth; on the bidirectional-interaction commitment they are causally efficacious, which makes us constitutive participants rather than negligible spectators. That commitment is a tenet carried openly, not a result the argument of this article delivers.
 
 This invites the [luck objection](/concepts/luck-objection/): if a choice is not fixed by prior causes, what makes it *yours* rather than mere noise? Genuine indeterminacy without authorship would dissolve meaning as surely as determinism does. The Map's reply is [agent-causal](/concepts/agent-causation/)—the agent as persisting subject directly authors the choice rather than the choice being squeezed out by chance—but this is the Map's answer to a live problem, not a difficulty the meaning thesis can assume away.
+
+A compatibilist will object that none of this indeterminist machinery is needed for meaning. On a widely-held view, meaning survives determinism: a life of projects, relationships, and understanding can be fully meaningful even if every choice is the deterministic upshot of prior states, so long as the choices flow from the agent's own reflectively-endorsed values rather than from coercion. This is a live position, and compatibilist meaning is not obviously impossible. The Map's reply is twofold. First, the core meaning thesis does not need libertarian agency—the intrinsic value of conscious experience grounds meaning whether or not choice is undetermined, so a compatibilist could accept most of this article. Second, what indeterminism *adds* is a stronger sense in which a choice settles which possibility becomes actual: on determinism the outcome was already fixed, so deliberation is the channel through which a settled result arrives rather than the locus where an open future is closed. Whether that added weight is necessary for meaning or merely deepens it is a genuine disagreement at the framework boundary, and the Map carries its libertarian commitment openly rather than claiming to have shown compatibilist meaning impossible.
 
 ### Individual Consciousness Matters
 
@@ -146,17 +150,21 @@ The Map's framework provides resources against the main nihilist arguments.
 
 "From the point of view of the universe, you don't matter." But the universe *as such* doesn't have a point of view. Only conscious beings have perspectives—and from those perspectives, things do matter. The cosmic insignificance argument appeals to an impersonal "view from nowhere," but that view is an abstraction, not an actual perspective. The question is not whether we matter to the void, but whether our lives have significance from the perspectives that actually exist.
 
+A subtler opponent is the *neutral nihilist*, who grants exactly this: the absence of cosmic telos is neither good nor bad—it simply is—and this is compatible with local mattering, experiences mattering to the beings who have them while the cosmos remains indifferent. This is not answered by insisting consciousness matters, since it already concedes that. The Map instead locates the disagreement. If "meaning" means *cosmic purpose*, the neutral nihilist is right and the Map agrees there is none. If "meaning" means *intrinsic significance grounded in the value of conscious experience*, the neutral "neither good nor bad" is too quick: the experiences are not value-neutral from within, and a rich life does not merely *feel* to matter but *does* matter on the Map's identity of phenomenal character with value. Whether local mattering needs cosmic backing to count as meaning is the residual dispute—one the Map answers negatively without having to defeat the neutral nihilist on cosmic telos, where the two coincide.
+
 ### Against Error Theory
 
-Error theory holds that all value claims are false because there's nothing in the world for them to be true about. But conscious experience is not a dubious metaphysical posit—it's the most immediately certain feature of reality. Even radical skepticism cannot doubt that experience exists.
+Error theory holds that all value claims are false because there's nothing in the world for them to be true about. Two clarifications come first. The error theorist's target is *moral* facts and objective *prescriptions*; they can grant that conscious states with felt valence exist and still deny that the valence is the property of intrinsic goodness. So "experience is the most certain feature of reality, therefore value exists" answers a claim the error theorist never made. And the value at issue here is *prudential* or eudaimonic—what makes a life go well—not categorical morality, which narrows what the Map must defend to the goodness of good experience.
 
-The Map's position is that intrinsic properties of experience—its qualitative character, its first-person givenness—constitute a kind of value error theory cannot coherently deny. The error theorist must assert their claim from *within* conscious experience, deploying meaning in the service of denying meaning—a performative tension.
+On Jonas Olson's reconstruction (*Moral Error Theory*, 2014), Mackie's queerness charge decomposes into supervenience, epistemic-access, motivation, and irreducible-normativity strands. The Map's view discharges some and inherits others. *Epistemic access* is its strongest ground: phenomenal value is known by acquaintance, not by a queer faculty of moral perception. The *supervenience* strand is partly defused, since phenomenal value does not float free of natural facts and then mysteriously co-vary with them—it *is* a feature of the experience, not a non-natural property supervening on it. The hardest strand is *motivation*: Mackie found it queer that a fact could be intrinsically action-guiding, and the Map owes an account of why apprehending felt-badness gives a reason to avoid it beyond the brute pull of aversion. Honestly, the view answers the access and supervenience strands well and the irreducible-normativity strand only by accepting the identity thesis the error theorist rejects—so on that last strand the disagreement is at the framework boundary, not resolved within Mackie's terms.
 
 ### Against Evolutionary Debunking
 
-[Evolutionary debunking arguments](/voids/normative-void/) suggest our moral intuitions are unreliable because natural selection shaped them for fitness, not truth. Does this extend to intuitions about consciousness-grounded value?
+[Evolutionary debunking arguments](/voids/normative-void/) suggest our moral intuitions are unreliable because natural selection shaped them for fitness, not truth. Sharon Street's Darwinian Dilemma (2006) puts the value realist on two horns: either evaluative judgements *track* stance-independent value—and the realist owes an account of why evolution would build a truth-tracking faculty rather than a fitness-tracking one—or they are *adaptive links*, selected because the disposition raised fitness, with no detour through evaluative truth. Richard Joyce's parallel debunking (*The Evolution of Morality*, 2006) presses justification rather than truth: if we would hold these judgements whether or not they were true, the holding is unjustified.
 
-The disanalogy is crucial. Moral intuitions are *about* external facts (what's right, what's obligatory). Our access to them is indirect. But the intrinsic value of conscious experience isn't an inference about external facts—it's given in the experience itself. We don't conclude that pain is bad by observing it from outside; the badness is phenomenologically present in the suffering. Evolution could distort our beliefs *about* consciousness, but the immediate givenness of experience isn't a belief to be distorted.
+The Map's first move is a tracking-style response keyed to phenomenal acquaintance. Moral intuitions are *about* external facts, accessed indirectly; the intrinsic value of conscious experience is not an inference about external facts but is given in the experience itself. We don't conclude pain is bad by observing it from outside—the badness is phenomenologically present in the suffering. Evolution could distort our beliefs *about* consciousness, but the immediate givenness of suffering's badness is not a belief positioned to be distorted.
+
+This answers the tracking horn but not the adaptive-link horn, and honesty requires saying so. Street's sharper objection is that felt valence is *itself* evolved hedonic architecture: organisms acquired the felt-bad response to tissue damage because it tracked survival, so "felt-badness = intrinsic disvalue" risks being a just-so story dressed as metaphysics. The Map's reply is that the identity is *constitutive*, not correlational—the disvalue is not a further fact the felt-bad state points at but the state's own phenomenal character, leaving no gap between state and value for selection to have aimed elsewhere. Selection explains why creatures *have* the response; it does not thereby explain its badness *away*, any more than explaining why we evolved colour vision shows red is not really red. This is the most defensible answer available, but it leans on the contested identity thesis and does not refute the adaptive-link horn from premises the debunker grants—the disagreement bottoms out at whether phenomenal valence *constitutes* value or merely co-occurs with the dispositions selection installed. The Map carries the constitutive reading openly; whether it can be vindicated against a determined debunker is registered among the open problems on the falsifiability list below.
 
 ### Against the Infinity Requirement
 
@@ -166,19 +174,19 @@ The disanalogy is crucial. Moral intuitions are *about* external facts (what's r
 
 [illusionism](/concepts/illusionism/)—the view that phenomenal consciousness is an introspective illusion—presents the most radical objection to consciousness-grounded meaning. If qualia are representational fictions, grounding meaning in experiential quality would ground it in nothing real.
 
-### The Regress Response
+### The Seeming-To-Whom Problem
 
-The illusionist faces a fundamental problem: the *seeming* of meaning must appear *to* something. Raymond Tallis: "Misrepresentation presupposes presentation." If the felt significance of a sunset is an illusion, something must be experiencing that illusion. The regress terminates in genuine experience—either the appearance is phenomenal (so phenomenal states exist) or nothing explains why experiences *seem* significant.
+A first-pass reply runs through regress: the *seeming* of meaning must appear *to* something. Raymond Tallis puts it as "misrepresentation presupposes presentation." But the regress is not as decisive as it looks, and the sophisticated illusionist has anticipated it. Keith Frankish ("Illusionism as a Theory of Consciousness," 2016) replaces the hard problem with an *illusion problem*: explaining why a physical system *represents itself* as having phenomenal properties, conceding nothing phenomenal thereby present. Daniel Dennett ("Illusionism as the Obvious Default Theory of Consciousness," 2016) cashes this out as functional self-representation—a system can misrepresent its own states with no phenomenal subject to whom the misrepresentation appears. The "seeming" Frankish needs is *quasi-phenomenal*, a representational fact, not the diet-qualia the regress assumes. So the regress as stated begs the question: it reads "seems" as already entailing phenomenal givenness, exactly what the illusionist denies.
 
-Sartre's analysis of the *pour-soi* (being-for-itself) anticipated this point: consciousness cannot be objectified—turned into a thing with properties—without ceasing to be consciousness. The attempt to explain away phenomenal experience treats the subject as if it were an object with potentially illusory features. But consciousness is the perspective from which features appear, not a thing that appears. See [nihilism-and-existentialism](/concepts/nihilism-and-existentialism/) for the full analysis.
+The Map's sharper disagreement is in-framework rather than question-begging. Illusionism's standard against rivals is mechanistic specification—it faults phenomenal realism for positing properties no physics will explain. Held to that standard, the illusion problem owes an account of *why the misrepresentation has the specific introspectable character it does*—why the report is of unified, present, evaluatively-loaded experience rather than of nothing in particular. François Kammerer's "rich illusion" account ("How Rich is the Illusion of Consciousness?", 2022) is the most developed attempt to discharge this debt and a genuine advance; whether it specifies the bridge or relocates the explanandum is contested. Where the Map parts company is at the framework boundary: it holds, as a [Dualism](/tenets/#dualism) commitment, that the introspective report is *of* a real phenomenal property rather than a self-representation that misfires—carried openly, not established against illusionism on its own terms. Sartre's *pour-soi*—consciousness as the perspective from which features appear, not a thing that appears—sharpens the Map's side without refuting the illusionist from inside their programme. See [nihilism-and-existentialism](/concepts/nihilism-and-existentialism/) and [illusionism](/concepts/illusionism/) for the full analysis.
 
 ### The Contemplative Challenge
 
-[introspection](/concepts/introspection/) research reveals trained contemplatives access experiential quality directly—not as attribution but as observed feature. If phenomenal states were illusory, contemplative training should dissolve the illusion. Instead, practice *refines* phenomenal access, revealing finer-grained distinctions. What would training be refining access to if phenomenal properties didn't exist?
+[introspection](/concepts/introspection/) research reveals trained contemplatives access experiential quality directly, with practice *refining* phenomenal access rather than dissolving it. This is suggestive but not decisive against the illusionist, who has a ready reply: training refines *functional* access to whatever states underlie the report, and finer-grained discrimination is itself a functional achievement that needs no phenomenal properties to explain. Kammerer's "rich illusion" account is built precisely to absorb the persistence of the seeming under reflective scrutiny. The contemplative data therefore raise the bar the illusionist must clear—why would functional refinement track a stable, reportable structure of *evaluative* quality?—without settling the metaphysics. The honest verdict is that this is evidence the illusionist owes work on, not a proof phenomenal properties exist.
 
 ### The Functional Asymmetry
 
-Even granting illusionism, a practical asymmetry remains. If consciousness is real, grounding meaning in behaviour misses what ultimately matters. If illusionism is correct, attending to "illusory" phenomenal quality still tracks the functional states generating reports of significance. The downside of consciousness being real while we ignore it is worse than attending to illusions. [Phenomenal value realism](/topics/phenomenal-value-realism/) provides the theoretical framework for this asymmetry.
+Even granting illusionism, a practical asymmetry remains. If consciousness is real, grounding meaning in behaviour misses what ultimately matters; if illusionism is correct, attending to "illusory" phenomenal quality still tracks the functional states generating reports of significance. The downside of consciousness being real while we ignore it is worse than attending to illusions. This is a pragmatic response to a metaphysical question, and it should be flagged as such: it gives a reason to act *as if* phenomenal value is real, but does no work against the *truth* of illusionism. [Phenomenal value realism](/topics/phenomenal-value-realism/) provides the theoretical framework for the asymmetry.
 
 ## Contemplative Evidence
 
@@ -196,11 +204,9 @@ Henri Bergson's *durée*—lived time as opposed to clock time—connects here. 
 
 ## Process Philosophy Perspective
 
-Alfred North Whitehead's process philosophy illuminates why consciousness can ground meaning without external validation. For Whitehead, reality consists of "actual occasions"—momentary events of experience, each with intrinsic "subjective aim" toward the richest possible integration. Value isn't added from outside; it's constitutive of what experience *is*.
+Alfred North Whitehead's process philosophy illuminates why consciousness can ground meaning without external validation. For Whitehead, reality consists of "actual occasions"—momentary events of experience, each with intrinsic "subjective aim" toward the richest possible integration. Value isn't added from outside; it is constitutive of what experience *is*. If reality is fundamentally experiential—as process philosophy and the Map's framework both hold—meaning needs no external grounding, and the question "why does experience matter?" may be a pseudo-question.
 
-If reality is fundamentally experiential—as process philosophy and the Map's framework both hold—meaning doesn't need external grounding. Each moment of experience *is* a realization of value. The question "why does experience matter?" may be a pseudo-question, since value is built into what experience is.
-
-This addresses the existentialist concern about self-creation. Existentialists claim we must create meaning because none is given. Process philosophy suggests that meaning-creation is the fundamental nature of experience itself—each conscious moment contributes novelty to reality. The question is not whether to create meaning but what kind.
+This addresses the existentialist concern about self-creation. Existentialists claim we must create meaning because none is given; process philosophy suggests meaning-creation is the fundamental nature of experience itself—each conscious moment contributes novelty to reality. The question is not whether to create meaning but what kind.
 
 Can fleeting moments bear genuine significance? Process philosophy answers: not despite their transience, but *because* of it. Each occasion is a unique achievement of value—[haecceity](/concepts/haecceity/) at the level of experience. Meaning is not diluted by transience but concentrated by it.
 
@@ -218,7 +224,9 @@ Any position worth holding should be falsifiable.
 
 **5. If contemplative convergence failed.** If skilled meditators disagreed radically about what deep presence feels like rather than converging, that would weaken the evidentiary base.
 
-These conditions don't currently obtain, but they represent ongoing debates where the Map's position could be wrong.
+**6. The adaptive-link horn remains open.** Street's adaptive-link objection—that felt valence is evolved fitness-tracking architecture rather than constitutive disvalue—is not refuted from premises the debunker grants. The Map's constitutive-identity reply is the most defensible answer but is not decisive; if it cannot be sustained, the claim that phenomenal value grounds meaning would have to retreat to a weaker correlational reading. This is a live problem, not a settled defence.
+
+These conditions don't all currently obtain, but they mark ongoing debates—several already live—where the Map's position could be wrong.
 
 ## Relation to Site Perspective
 
@@ -302,16 +310,22 @@ The position takes seriously what we actually know: consciousness exists, it's r
 1. Benatar, D. (2006). *Better Never to Have Been*. Oxford University Press.
 1. Bergson, H. (1889). *Time and Free Will*. Dover (1913 translation).
 1. Craig, W.L. (2008). The Absurdity of Life Without God. In *Reasonable Faith: Christian Truth and Apologetics* (3rd ed., ch. 2). Crossway.
+1. Dennett, D.C. (2016). Illusionism as the Obvious Default Theory of Consciousness. *Journal of Consciousness Studies*, 23(11–12), 65–72.
 1. Frankfurt, H.G. (1988). *The Importance of What We Care About: Philosophical Essays*. Cambridge University Press.
+1. Frankish, K. (2016). Illusionism as a Theory of Consciousness. *Journal of Consciousness Studies*, 23(11–12), 11–39.
+1. Joyce, R. (2006). *The Evolution of Morality*. MIT Press.
+1. Kammerer, F. (2022). How Rich is the Illusion of Consciousness? *Erkenntnis*, 87(2), 499–515. doi:10.1007/s10670-019-00204-4
 1. Landau, I. (2023). Can Lives Be Seen as Meaningful Within the Cosmic Context? *Philosophia*, 51, 2085–2102. doi:10.1007/s11406-023-00660-x
 1. Metz, T. (2013). *Meaning in Life: An Analytic Study*. Oxford University Press.
 1. Metz, T. (2019). *God, Soul and the Meaning of Life* (Elements in the Philosophy of Religion). Cambridge University Press.
 1. Metz, T. (2021). The Meaning of Life. In E.N. Zalta (ed.), *The Stanford Encyclopedia of Philosophy* (Spring 2021 ed.). [Substantive revision.]
 1. Metz, T. (2022). The Concept of Life's Meaning. In I. Landau (ed.), *The Oxford Handbook of Meaning in Life* (pp. 27–42). Oxford University Press.
 1. Nagel, T. (1971). The Absurd. *Journal of Philosophy*, 68(20), 716-727.
+1. Olson, J. (2014). *Moral Error Theory: History, Critique, Defence*. Oxford University Press.
 1. Parfit, D. (1984). *Reasons and Persons*. Oxford University Press.
 1. Rawlette, S.H. (2016). *The Feeling of Value*. CreateSpace.
 1. Sartre, J.-P. (1943/1956). *Being and Nothingness: An Essay on Phenomenological Ontology* (H.E. Barnes, trans.). Philosophical Library.
+1. Street, S. (2006). A Darwinian Dilemma for Realist Theories of Value. *Philosophical Studies*, 127(1), 109–166. doi:10.1007/s11098-005-1726-6
 1. Swinburne, R. (1996). *Is There a God?* Oxford University Press.
 1. Tallis, R. (2024). Tallis in Wonderland: The Illusion of Illusionism. *Philosophy Now*, 161 (April/May 2024), 58–59.
 1. Taylor, R. (1970). The Meaning of Human Existence. In *Good and Evil: A New Direction*. Macmillan.

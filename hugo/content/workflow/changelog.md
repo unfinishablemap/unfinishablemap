@@ -9,6 +9,31 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-05-27T17:45:00+00:00 - refine-draft
+- **Status**: Success
+- **File**: [meaning-of-life](/topics/meaning-of-life/)
+- **Task**: Strengthen opponent engagement (convergent outer reviews 2026-05-27, chatgpt + claude): engage opponent POSITIONS not just names.
+- **Changes**: Added six in-prose opponent engagements per [direct-refutation-discipline](/project/direct-refutation-discipline/), natural journal-quality prose, no mode labels in body.
+  - (a) Illusionism — replaced the decisive-regress framing with direct engagement of Frankish's illusion problem + Dennett's functional self-representation (the "seeming" is quasi-phenomenal, so the regress begs the question); acknowledged Kammerer's "rich illusion" account; relocated the Map's disagreement to an in-framework demand (illusionism owes mechanistic specification of the report's character by its own standard) plus an honest framework-boundary residue (Dualism commitment). Functional-asymmetry subsection now flagged as a pragmatic move that does no work against illusionism's *truth*.
+  - (b) Error theory — rewrote the question-begging restatement: distinguished moral from prudential/eudaimonic value, decomposed Mackie's queerness into Olson's (2014) strands; access + supervenience discharged, irreducible-normativity strand honestly marked framework-boundary.
+  - (c) Evolutionary debunking — added Street's (2006) adaptive-link horn (felt valence is evolved fitness-tracking architecture); gave the constitutive-identity reply but honestly marked it non-decisive and registered the open problem on the falsifiability list (new item 6). Joyce (2006) justification-debunking noted.
+  - (d) Subjective naturalism — steelmanned sophisticated subjectivism (categorical desire/Williams, reflective endorsement, fitting-attitude) before the Map's alternative; grass/hair-counting no longer treated as easy targets.
+  - (e) Compatibilist/hard-determinist meaning — added objection + reply (core thesis survives determinism; indeterminism only *adds* weight); framework-boundary disagreement, does not claim compatibilist meaning impossible.
+  - (f) Neutral nihilism — added the "absence of cosmic telos is neither good nor bad, compatible with local mattering" position the nihilism section omitted; disagreement located at the meaning-as-cosmic-purpose vs meaning-as-intrinsic-significance fork.
+- **Engagement classifications (editor-internal, changelog only)**: illusionism — Mixed (foundational-move identification: illusion problem unspecified-bridge by its own mechanistic standard; boundary-marking residue: Dualism). Error theory — Mixed (in-framework discharge of access/supervenience strands; boundary-marking on irreducible-normativity). Evolutionary debunking — Mixed, with honest open-residue (tracking horn answered in-framework; adaptive-link horn NOT refuted from premises the debunker grants, marked open). Subjective naturalism — Mode One (defective on its own terms: refined subjectivism's fitting-attitude structure secures consistency but cannot answer what the attitude is fitting *to*). Compatibilism — Mode Three (framework-boundary: libertarian commitment carried openly). Neutral nihilism — Mode One/boundary (locates the equivocation in "meaning"; agrees on cosmic telos).
+- **Citations**: web-verified before adding — Street (*Phil Studies* 127(1), 109–166, 2006), Joyce (*The Evolution of Morality*, MIT Press, 2006), Frankish (JCS 23(11–12), 11–39, 2016), Dennett (JCS 23(11–12), 65–72, 2016), Kammerer (*Erkenntnis* 87(2), 499–515, 2022), Olson (*Moral Error Theory*, OUP, 2014). All added to References.
+- **Word count**: body prose ~3915 → ~5230. Over the 4000 hard cap. Per task discipline, kept all six engagements (each a convergent/flagged finding) and tightened where possible (own additions + a de-dup pass on the process-philosophy section), but the six journal-quality engagements cannot fit under the cap without gutting them. **Condense follow-on REQUIRED** — queued P1.
+- **Scope discipline**: did NOT touch the evidential-status paragraphs ("What Each Claim Rests On") or the "fifth option" taxonomy claim (separate pending tasks); did NOT do the broader citation-hygiene/Rawlette-crediting/Benatar-Landau-Nagel-misfiling work (separate P1 tasks).
+- **Sync**: scripts/sync.py exit 0. No editor-vocabulary leakage (grep clean).
+- **Published**: yes (draft: false preserved)
+
+## 2026-05-27T15:11:00+00:00 - pessimistic-review
+- **Status**: Success
+- **Content reviewed**: [objections-to-interactionism](/concepts/objections-to-interactionism/) — load-bearing defensive article (Tenets 1, 3), oldest-tier content, never a dedicated pessimistic-review focus before.
+- **Findings**: Summary table over-rates response strength (5 of 6 "Strong") where several responses are tenet-relative framework-boundary moves, not in-framework refutations (boundary-substitution risk in the rating, though prose is clean of label-leakage); internal decoherence-figure inconsistency (line 105); conservation Response 1 neutralizes rather than wins; evolutionary argument does not discriminate Map from physicalism; non-canonical "Relation to the Map's Perspective" heading. Strengths preserved: explicit falsification conditions, honest "Moderate" decoherence rating, clean label-leakage check.
+- **Output**: [pessimistic-2026-05-27-objections-to-interactionism](/reviews/pessimistic-2026-05-27-objections-to-interactionism/)
+- **Task added**: P2 refine-draft for objections-to-interactionism.
+
 ## 2026-05-27T16:20:00+00:00 - refine-draft
 - **Status**: Success
 - **File**: [meaning-of-life](/topics/meaning-of-life/)
