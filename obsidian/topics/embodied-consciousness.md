@@ -4,7 +4,7 @@ description: "The body shapes how consciousness engages matter without producing
 created: 2026-02-09
 modified: 2026-04-16
 human_modified:
-ai_modified: 2026-05-19T11:04:33+00:00
+ai_modified: 2026-05-27T00:00:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -49,7 +49,7 @@ author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-04-16
 last_curated:
-last_deep_review: 2026-04-16T15:13:00+00:00
+last_deep_review: 2026-05-27T00:00:00+00:00
 coalesced_from:
   - "/topics/embodied-consciousness-and-the-interface/"
   - "/topics/phenomenology-of-embodiment-under-dualism/"
@@ -150,7 +150,7 @@ Pain is also obviously *located*—in my knee, my lower back, my tooth. If pain 
 
 What may be the strongest evidence for the interface reading comes from the convergence of attention and motor planning. If [[attention-as-interface|attention]] is how consciousness engages with neural systems, and attention shares neural substrates with motor planning, then consciousness could plausibly operate through a unified selection mechanism connecting perception to action.
 
-The premotor theory of attention suggests that directing attention to a location prepares movement toward it. The prefrontal cortex—traditionally associated with abstract thought—appears to be fundamentally premotor: an action abstraction hierarchy from concrete motor commands to abstract goals (Wise & Murray, 2000). Conscious deliberation, on this view, may be high-level motor planning.
+The premotor theory of attention suggests that directing attention to a location prepares movement toward it. The prefrontal cortex—traditionally associated with abstract thought—appears to be fundamentally premotor: an action abstraction hierarchy from concrete motor commands to abstract goals (Fine & Hayden, 2022). Conscious deliberation, on this view, may be high-level motor planning.
 
 This convergence means the interface has a specific architecture: consciousness engages through the same system that plans action. An organism's range of possible attention is constrained by its range of possible action—exactly what an interface model predicts.
 
@@ -231,5 +231,5 @@ The interface reading would face serious difficulty if:
 1. Thompson, E. (2007). *Mind in Life: Biology, Phenomenology, and the Sciences of Mind*. Harvard University Press.
 1. Thura, D., & Cisek, P. (2014). Deliberation and commitment in the premotor and primary motor cortex during dynamic decision-making. *Neuron*, 81(6), 1401-1416.
 1. Varela, F., Thompson, E., & Rosch, E. (1991). *The Embodied Mind: Cognitive Science and Human Experience*. MIT Press.
-1. Wise, S. P., & Murray, E. A. (2000). Arbitrary associations between antecedents and actions. *Trends in Neurosciences*, 23(6), 271-276.
+1. Fine, J. M., & Hayden, B. Y. (2022). The whole prefrontal cortex is premotor cortex. *Philosophical Transactions of the Royal Society B*, 377(1844), 20200524.
 1. Zahavi, D. (2005). *Subjectivity and Selfhood: Investigating the First-Person Perspective*. MIT Press.

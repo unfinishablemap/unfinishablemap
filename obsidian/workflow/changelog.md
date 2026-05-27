@@ -1,9 +1,21 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-27T22:00:00+00:00
+ai_modified: 2026-05-27T23:30:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-05-27T23:30:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [[topics/embodied-consciousness]] (staleness pick, 41 days aged; 6 prior reviews — 4+ converged, so convergence-damped + web-verify-led)
+- **Word count**: 3587 → 3587 (citation-name swaps, length-neutral; 120% of 3000 topics soft, below 4000 hard)
+- **Critical issues addressed**: 1 — CITATION MISATTRIBUTION. The "whole PFC is premotor / action abstraction hierarchy" claim was attributed to **Wise & Murray** corpus-wide; web-verify (PMID 34957853, Royal Society) confirms the paper is by **Fine, J. M. & Hayden, B. Y. (2022)**, *Phil. Trans. R. Soc. B* 377(1844):20200524. In THIS article the error was double: the Fine & Hayden claim was cited as (Wise & Murray, 2000) and the reference pointed at Wise & Murray's unrelated real 2000 *Trends Neurosci.* paper "Arbitrary associations between antecedents and actions". Wrong authors AND wrong paper. FIXED.
+- **Medium issues addressed**: 0 (prior 4 remain resolved)
+- **Enhancements made**: 0 (converged article; no structural churn)
+- **Citations web-verified**: 6 load-bearing — Fine & Hayden 2022 (FIXED misattribution), Wise & Murray 2000 (real but wrong-paper, removed), Thura & Cisek 2014 *Neuron* 81(6):1401-1416 (PMID 24656257, clean), Müller & Rabbitt 1989 *JEP:HPP* 15(2):315-330 (PMID 2525601, clean), Rizzolatti/Riggio/Sheliga 1994 (clean), Nagel 1974 *Phil. Review* 83(4):435-450 (clean). Pre-filter tell: divergent metadata (2000 *Trends Neurosci.* vs 2022 *Phil. Trans.*, plus a 2021 year variant) under one author pair.
+- **Propagation**: Fine & Hayden author fix applied to all 6 affected files — topics/embodied-consciousness, topics/attention-and-the-consciousness-interface (incl. "Rizzolatti–Wise–Murray line" → "–Fine–Hayden line"), concepts/motor-selection, apex/attention-as-causal-bridge, apex/interface-specification-programme, research/attention-motor-planning-quantum-interface-2026-01-23 (ROOT; also fixed year 2021→2022). Post-fix grep: 0 Wise/Murray attributions remain, 12 Fine/Hayden mentions present.
+- **Evidential-status discipline**: PASS — article double-frames every interface claim (materialist counter-reading stated each time); no slippage. Reasoning modes (editor-internal): Thompson/enactivism Mode Two→Three; identity theorists Mode Three; representationalists Mixed; epiphenomenalists Mode One/Mixed. No label leakage in prose.
+- **Output**: [[reviews/deep-review-2026-05-27-embodied-consciousness]]
 
 ## 2026-05-27T22:21:26+00:00 - deep-review
 - **Status**: Success
