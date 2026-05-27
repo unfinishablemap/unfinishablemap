@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-18
-ai_modified: 2026-05-26 00:00:00+00:00
+ai_modified: 2026-05-27 00:00:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -150,7 +150,7 @@ The Tibetan Buddhist tradition's *śamatha* meditation distinguishes nine progre
 
 The Zen tradition's *shikantaza* ("just sitting") represents radical witness mode: "not trying to become a buddha" but simply being present. Dōgen described this as "dropping body and mind" (*shinjin datsuraku*)—neither actively selecting nor passively observing in ordinary senses, but a mode beyond both.
 
-The [comparative phenomenology of meditative traditions](/topics/comparative-phenomenology-of-meditative-traditions/) extends this cross-traditional analysis further, identifying three convergence zones (self-dissolution, contentless awareness, subject-object collapse) alongside divergences that illuminate how different traditions emphasise different aspects of the selection-witnessing continuum.
+The [comparative phenomenology of meditative traditions](/topics/comparative-phenomenology-of-meditative-traditions/) extends this cross-traditional analysis further, identifying three convergence zones (self-dissolution, contentless awareness, subject-object collapse) alongside divergences that illuminate how different traditions emphasise different aspects of the selection-witnessing continuum. [Affective tone divergence across meditative traditions](/topics/affective-tone-divergence-across-meditative-traditions/) applies the two-mode framework directly to one of those divergences: it reads Buddhist flatness as the affective signature of maximally disengaged selection (the witness mode at its purest), devotional ecstasy as the interface running hot on a single object, and Daoist ease as selection released from contrivance—proposing, as a serious-but-unconfirmed hypothesis, that affective tone covaries with which register of the interface a tradition trains rather than tracking consciousness as such.
 
 ## Relation to the Quantum Zeno Mechanism
 

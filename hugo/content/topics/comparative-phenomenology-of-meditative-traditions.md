@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-07
-ai_modified: 2026-05-19 22:00:00+00:00
+ai_modified: 2026-05-27 00:00:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -119,7 +119,7 @@ Christian mysticism oscillates: Teresa of Avila describes spiritual delight, whi
 
 Daoist tradition emphasises naturalness and ease rather than any specific affective tone—*wu wei* (non-action) is characterised by spontaneous responsiveness without emotional coloration.
 
-These differences may reflect genuine phenomenological variation, or they may reflect different stages of practice being compared, or different attentional emphases producing different experiential profiles. The Map observes that if consciousness has distinct [modes](/concepts/meditation-and-consciousness-modes/), the affective dimension might depend on which aspects of the interface are engaged or disengaged rather than on what consciousness itself "feels like" at base.
+These differences may reflect genuine phenomenological variation, or they may reflect different stages of practice being compared, or different attentional emphases producing different experiential profiles. The Map observes that if consciousness has distinct [modes](/concepts/meditation-and-consciousness-modes/), the affective dimension might depend on which aspects of the interface are engaged or disengaged rather than on what consciousness itself "feels like" at base. [Affective tone divergence across meditative traditions](/topics/affective-tone-divergence-across-meditative-traditions/) develops this one-sentence hypothesis at full resolution, reading all four affective profiles against the selection/witness registers and holding the interface-mode reading at "a serious possibility" rather than letting the data it organises promote it.
 
 ### Cessation Versus Plenitude
 
@@ -193,6 +193,7 @@ The divergence zones illustrate [Occam's Razor Has Limits](/tenets/#occams-limit
 - [buddhism-and-dualism](/concepts/buddhism-and-dualism/) — How Buddhist philosophy relates to dualist frameworks
 - [the-convergence-argument-for-dualism](/topics/the-convergence-argument-for-dualism/) — The formal convergence argument
 - [epistemology-of-convergence-arguments](/topics/epistemology-of-convergence-arguments/) — Methodology of convergence reasoning
+- [affective-tone-divergence-across-meditative-traditions](/topics/affective-tone-divergence-across-meditative-traditions/) — The affective-tone divergence zone developed at full resolution: tone as a feature of trained interface mode
 - [the-subject-object-distinction-as-philosophical-discovery](/topics/the-subject-object-distinction-as-philosophical-discovery/) — The third convergence zone explored
 - [indian-philosophy-of-mind](/topics/indian-philosophy-of-mind/) — Broader Indian philosophical context
 - [the-hard-problem-in-non-western-philosophy](/topics/the-hard-problem-in-non-western-philosophy/) — Argumentative-level convergence complementing this article's experiential-level convergence

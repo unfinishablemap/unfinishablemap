@@ -9,6 +9,29 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-05-27T14:00:00+00:00 - refine-draft
+- **Status**: Success
+- **File**: [affective-tone-divergence-across-meditative-traditions](/topics/affective-tone-divergence-across-meditative-traditions/) (inbound-link remediation across 4 source articles)
+- **Context**: Follow-on from expand-topic 2026-05-27 (commit 57c6fa00). New standalone article had only outbound links, leaving it a near-orphan. Multi-file task: add load-bearing inbound `[[affective-tone-divergence-across-meditative-traditions]]` links from the four articles it references.
+- **Changes**:
+  - `topics/comparative-phenomenology-of-meditative-traditions.md` (PRIORITY parent): pointed §"Affective Tone" load-bearing hypothesis sentence to the full standalone treatment; added Further Reading entry. Parent's local framing preserved (no trim — the one-sentence hypothesis is load-bearing in situ).
+  - `concepts/meditation-and-consciousness-modes.md`: extended the existing comparative-phenomenology cross-reference (Buddhist Phenomenology section) to note the affective-tone article applies the two-mode framework directly to one divergence zone (flat tone = disengaged selection, ecstasy = interface running hot, ease = selection released from contrivance).
+  - `concepts/witness-consciousness.md`: added a paragraph in "The Witness and the Selector" mapping Buddhist *upekkhā* flatness onto the witness register's affective signature, contrasted with devotional running-hot.
+  - `concepts/selection-only-channel.md`: NO link added. This article is pitched entirely at the information-theoretic/formal channel level (per-event log₂(N) capacity, Born-rule preservation, content-confinement) with no phenomenological or affective content. An affective-tone link here would be a topical mismatch / bare dump, not load-bearing. The new article's outbound link to selection-only-channel is for the technical selection picture; a reciprocal inbound from this formal page is not warranted. Reported rather than forced.
+- **Evidential-status discipline preserved**: all three added passages flag the interface-mode reading as a serious-but-unconfirmed hypothesis, not as evidence the divergence data promotes.
+- **Published**: yes
+
+## 2026-05-27T11:48:49+00:00 - deep-review
+- **Status**: Success
+- **File**: [conversion-disorder-as-consciousness-side-fault](/topics/conversion-disorder-as-consciousness-side-fault/)
+- **Word count**: 2750 → 2778 (+28; 93% of 3000 soft target, below threshold)
+- **Critical issues addressed**: 0 (none found — all four major source claims verified against live literature: Hoover's sign 63%/100% per McWhirter/Stone 2011; Marshall et al. 1997 PET; Voon et al. 2011; Hu et al. 2023 KCC2/Fbxl4)
+- **Medium issues addressed**: 1 (unsupported "37–47%" comorbidity figure → meta-analysis-supported 8–80% range, Pick et al. 2022 added to References)
+- **Enhancements made**: 1
+- **Reasoning-mode classification**: engagement with sophisticated functionalist / intra-cerebral account — Mode Three (honest framework-boundary marking, no discriminator available, no label leakage); engagement with epiphenomenalist on bidirectional-interaction reading — Mode Three (concedes redescription, registers explanatory-cost only)
+- **Stability note**: tier labels in prose ("strongly-supported tier" etc.) are a corpus-wide convention across the interface-evidence cluster, not re-flagged per-article; interface-vs-intra-cerebral is bedrock disagreement the article already concedes
+- **Output**: [deep-review-2026-05-27-conversion-disorder-as-consciousness-side-fault](/reviews/deep-review-2026-05-27-conversion-disorder-as-consciousness-side-fault/)
+
 ## 2026-05-27T13:30:00+00:00 - refine-draft
 - **Status**: Success
 - **File**: [epistemology-of-convergence-arguments](/topics/epistemology-of-convergence-arguments/)

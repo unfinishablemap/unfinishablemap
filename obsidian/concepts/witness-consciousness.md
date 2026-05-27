@@ -4,7 +4,7 @@ description: "Awareness that observes mental contents without identifying with t
 created: 2026-01-18
 modified: 2026-01-20
 human_modified: null
-ai_modified: 2026-05-26T00:00:00+00:00
+ai_modified: 2026-05-27T00:00:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -101,6 +101,8 @@ The [[meditation-and-consciousness-modes|meditation literature]] reveals two mod
 | **Passive witnessing** | Effortless, open | Reduced observation rate |
 
 These are modes consciousness *can adopt*, not essential definitions. When consciousness operates as witness: thoughts slow (less feedback to the brain's option-generation), [[mental-effort|effort]] disappears (no choosing), and the self-narrative quiets (no amplification of "me"-thoughts).
+
+The witness register may also carry a characteristic *affective* signature. [[affective-tone-divergence-across-meditative-traditions|Affective tone divergence across meditative traditions]] reads Buddhist equanimity (*upekkhā*)—neither pleasant nor unpleasant—as the felt tone of selection at its most disengaged, the witness mode at its purest, and contrasts it with devotional traditions where the interface runs hot on a beloved object. On that reading the flatness of the witness state is not affective poverty but the valence-signature of disengaged selection. The article holds this as a serious-but-unconfirmed hypothesis, not as evidence the witness mode's phenomenology earns from the divergence data.
 
 The witness mode extends rather than contradicts [[tenets#^bidirectional-interaction|Bidirectional Interaction]]. The capacity for interaction includes the capacity to suspend interaction.
 
