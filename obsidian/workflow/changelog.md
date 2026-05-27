@@ -1,9 +1,22 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-27T02:56:05+00:00
+ai_modified: 2026-05-27T03:21:14+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-05-27T03:21:14+00:00 - deep-review
+- **Status**: Success
+- **File**: [[concepts/bi-aspectual-ontology]]
+- **Word count**: 2652 → 2652 (no change; length-neutral mode at 106% of soft threshold)
+- **Critical issues addressed**: 2 (citation accuracy)
+  - Cutter citation corrected: "(2020). The Instability of Russellian Monism. *Philosophical Perspectives*, 34, 28-53." → verified "(2019). Against the Middle Ground: Why Russellian Monism Is Unstable. *Analytic Philosophy*, 60(2), 109-130." (in-text year + reference). Article had drifted from the dedicated [[concepts/russellian-monism]] article's verified citation.
+  - Pautz chapter title corrected: "The Significance Problem" → "How is constitutive Russellian monism (or panpsychism) better than dualism?" to match the authoritative Russellian-monism article (same editors/volume/year).
+- **Medium issues addressed**: 0 (none new; prior reviews' resolutions hold)
+- **Enhancements made**: 0 new content; corrections only (length-neutral)
+- **Engagement classification** (editor-internal): all "Distinguished from" sections (Spinoza, Pauli-Jung, Velmans, Russellian monism, IIT, QBism, substance dualism) are Mode Three framework-boundary marking expressed via concrete structural differences, not boundary-substitution. No label leakage; no evidential-status slippage (metaphysics article, no minimal-organism claims).
+- **Convergence**: third review; structurally stable. Fixes were corpus-consistency defects, not argumentative flaws.
+- **Output**: [[reviews/deep-review-2026-05-27-bi-aspectual-ontology]]
 
 ## 2026-05-27T00:00:00+00:00 - refine-draft
 - **Status**: Success
