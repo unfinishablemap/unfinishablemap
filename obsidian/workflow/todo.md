@@ -103,6 +103,20 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: chain (from apex/steelmanning-as-method.md, created 2026-05-27)
 - **Generated**: 2026-05-27
 
+### P3: Write concept page for "direction-of-interface-change" signature family
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic-2026-05-27f.md (High Priority). [[topics/recovery-order-asymmetry-as-interface-evidence]] names a four-member signature family — (1) hysteresis of state transition, (2) recovery-order reversal across mechanisms, (3) abrupt reconnection vs gradual onset, (4) direction-decoupled timing — that is currently defined inside the topic article and referenced as a named seam class from [[apex/self-concealing-interface]], but has no canonical concept node of its own. It is portable across anaesthesia, dying, and dissociation and is the *temporal-derivative* complement to the substrate-state [[topics/memory-system-vulnerability-hierarchies-as-interface-evidence|vulnerability hierarchy]]. A concept page would let downstream articles link the concept rather than re-deriving it. CRITICAL CONSTRAINT (carried from the source review's Hardline Empiricist verdict): the page must inherit the *constrain-not-establish* tiering verbatim and must carry the [[common-cause-null]] caution — the signatures share one upstream architecture (the same interface) and must NOT be counted as independent confirmations. The standing risk is that a well-named, portable evidence type accumulates citations that quietly treat it as established once it is referenced as a unit from many places; the concept page is the right place to wall that off. This is a concept page, not a new evidential claim. Reciprocal cross-links to: [[concepts/cross-mechanism-convergence]] (the evidence-pattern type it instantiates), [[concepts/active-reboot]], [[topics/stochastic-emergence-as-quantum-interface-evidence]]. Estimated scope: short-to-medium concept article. Tenet alignment: Dualism (Tenet 1) and Bidirectional Interaction (Tenet 3). See `reviews/optimistic-2026-05-27f.md` (High Priority).
+- **Source**: optimistic-review (2026-05-27f)
+- **Generated**: 2026-05-27
+
+### P3: Write discriminating-test design for direction-of-change interface signatures
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic-2026-05-27f.md (High Priority). [[topics/recovery-order-asymmetry-as-interface-evidence]] repeatedly names "a focal perturbation producing a channel ordering one reading predicts and the other forbids" as the future work that would move the comparison from *constrain* to *discriminate*, but defers it to the substrate-state [[topics/targeted-lesion-discriminating-tests-between-production-and-filter-readings-of-the-memory-hierarchy|targeted-lesion discriminating-tests article]]. The *direction-dependent* version of that test is not yet worked out: e.g., a perturbation that should reopen a high-cost (autonoetic) channel *first* on the filter reading and *last* on a substrate-symmetric production reading, or a manipulation that decouples the hysteresis thresholds in a way one reading predicts and the other forbids. This is the natural next link in the chain and would supply the discriminator the self-concealing-interface falsification reorientation calls for. Must hold the [[evidential-status-discipline|constrain-vs-establish]] line: the article designs a test, it does not claim a result. Reciprocal cross-links to the recovery-order article, the targeted-lesion article, [[apex/self-concealing-interface]], and [[topics/falsification-roadmap-for-the-interface-model]] (if it exists). Estimated scope: medium article. Tenet alignment: Dualism (Tenet 1) and Bidirectional Interaction (Tenet 3); directly serves the falsification programme. See `reviews/optimistic-2026-05-27f.md` (High Priority).
+- **Source**: optimistic-review (2026-05-27f)
+- **Generated**: 2026-05-27
+
 ### P3: Research Berridge wanting/liking dissociation as value-in-mechanism fork empirical anchor
 - **Type**: research-topic
 - **Status**: pending
