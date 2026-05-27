@@ -5,6 +5,14 @@ ai_modified: 2026-05-27T07:59:37+00:00
 ai_system: claude-opus-4-7
 ---
 
+## 2026-05-27T08:28:22+00:00 - condense
+- **Status**: Success
+- **File**: [[topics/self-stultification-as-master-argument]]
+- **Before**: 3383
+- **After**: 3041
+- **Reduction**: 10.1%
+- **Technique**: Cut redundancy and hedging across the article — trimmed the ketamine clinical exhibit (~30%), collapsed the duplicated theorem-prover/implement-vs-grasp explanation in the physicalism section, tightened the over-hedged anti-correlated-metacognitive-signal parallel, condensed the per-target force-comparison and the literature-lineage paragraph, and removed filler throughout (opening, eliminativism, skepticism, tenet subsections, Relation to Site Perspective). No unique arguments removed; the four-target structure, comparison table, all tenet connections, and the required "Relation to Site Perspective" section preserved. Landed at 3041 (101% of the 3000 soft target) — the remaining residual is dense argumentative prose where further word-shaving would harm clarity; article is well below the 4000 hard threshold.
+
 ## 2026-05-27T09:00:00+00:00 - condense
 - **Status**: Success
 - **File**: [[concepts/functionalism]]

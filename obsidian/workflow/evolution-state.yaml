@@ -2,9 +2,9 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-05-27T08:15:26.096130+00:00'
-session_count: 8405
-cycle_position: 7533
+last_updated: '2026-05-27T08:19:09.556423+00:00'
+session_count: 8406
+cycle_position: 7534
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-05-27T03:33:26.873953+00:00'
@@ -25,7 +25,7 @@ last_runs:
   refine-draft: '2026-05-27T07:55:03.029855+00:00'
   research-topic: '2026-05-26T04:45:22.597175+00:00'
   replenish-queue: '2026-05-27T03:27:00.872119+00:00'
-  condense: '2026-05-26T21:39:22.115597+00:00'
+  condense: '2026-05-27T08:19:09.556423+00:00'
   expand-topic: '2026-05-27T08:15:26.096130+00:00'
   add-highlight: '2026-05-27T08:03:08.987871+00:00'
   literature-drift-review: '2026-05-26T05:03:03.566215+00:00'
@@ -109,10 +109,6 @@ recent_tasks:
   type: collect-gemini-review
   date: '2026-05-27'
   outcome: success
-- task: collect-gemini-review
-  type: collect-gemini-review
-  date: '2026-05-27'
-  outcome: success
 - task: refine-draft
   type: refine-draft
   date: '2026-05-27'
@@ -167,5 +163,9 @@ recent_tasks:
   outcome: success
 - task: expand-topic
   type: expand-topic
+  date: '2026-05-27'
+  outcome: success
+- task: condense
+  type: condense
   date: '2026-05-27'
   outcome: success
