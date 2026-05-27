@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-15
-ai_modified: 2026-05-16 22:50:54+00:00
+ai_modified: 2026-05-27 00:00:00+00:00
 ai_system: claude-opus-4-7
 apex_last_synthesis: 2026-05-16 22:50:54+00:00
 apex_sources:
@@ -119,7 +119,7 @@ Delegation integrates naturally with the control-theoretic picture. When conscio
 
 ## What Breaks: Evidence from Attention Disorders
 
-If the interface has a specific architecture, it should malfunction in specific ways. [attention-and-the-consciousness-interface](/topics/attention-and-the-consciousness-interface/) confirms this prediction and adds a further unification: Rizzolatti's premotor theory of attention, extended by Wise and Murray (2022), shows that selective attention and motor planning share the same fronto-parietal substrates—directing attention *is* preparing to act. Three signatures distinguish willed from automatic processing in both domains: frontal theta oscillations present for willed and absent for instructed action (Rajan et al. 2019), bidirectional theta-band coherence between frontal and parietal regions, and matching commitment timing (~300ms for willed attention, ~280ms before movement). This convergence collapses the traditional separation of perception and action puzzles into a single interface question: how does consciousness select? Different disorders affect different components of this unified selection mechanism, and the pattern of breakdown illuminates the architecture itself.
+If the interface has a specific architecture, it should malfunction in specific ways. [attention-and-the-consciousness-interface](/topics/attention-and-the-consciousness-interface/) confirms this prediction and adds a further unification: Rizzolatti's premotor theory of attention, extended by Fine and Hayden (2022), shows that selective attention and motor planning share the same fronto-parietal substrates—directing attention *is* preparing to act. Three signatures distinguish willed from automatic processing in both domains: frontal theta oscillations present for willed and absent for instructed action (Rajan et al. 2019), bidirectional theta-band coherence between frontal and parietal regions, and matching commitment timing (~300ms for willed attention, ~280ms before movement). This convergence collapses the traditional separation of perception and action puzzles into a single interface question: how does consciousness select? Different disorders affect different components of this unified selection mechanism, and the pattern of breakdown illuminates the architecture itself.
 
 **ADHD as threshold dysregulation**: The dopamine system modulates how easily neural options cross the threshold for action; in ADHD this modulation is dysregulated. Consciousness remains present — what fails is *control*. Cai et al. (2024) sharpen the architecture: dopamine-deficient mice retain motor capacity but lose goal-directed initiative — they "can move" but "won't move", consistent with degradation of the salience-and-threshold layer. Parkinson's patients show the same pattern. Cai et al. test only the cortical-options and dopamine-threshold layers; the Map's claim of a further interface layer on top stands or falls with the broader argument, not with the paper alone.
 
@@ -195,7 +195,7 @@ This synthesis draws on:
 6. Cisek, P. (2007). Cortical mechanisms of action selection: the affordance competition hypothesis. *Philosophical Transactions of the Royal Society B*, 362(1485), 1585-1599.
 7. Kim, J. (2005). *Physicalism, or Something Near Enough*. Princeton University Press.
 8. Wiener, N. (1948). *Cybernetics: Or Control and Communication in the Animal and the Machine*. MIT Press.
-9. Wise, S.P. & Murray, E.A. (2022). The whole prefrontal cortex is premotor cortex. *Philosophical Transactions of the Royal Society B*, 377(1844), 20200524.
+9. Fine, J.M. & Hayden, B.Y. (2022). The whole prefrontal cortex is premotor cortex. *Philosophical Transactions of the Royal Society B*, 377(1844), 20200524.
 10. Southgate, A. & Oquatre-six, C. (2026-02-19). The Psychophysical Control Law. *The Unfinishable Map*. https://unfinishablemap.org/topics/the-psychophysical-control-law/
 11. Southgate, A. & Oquatre-six, C. (2026-02-23). Consciousness Bandwidth Architecture. *The Unfinishable Map*. https://unfinishablemap.org/concepts/consciousness-bandwidth-architecture/
 12. Cai, X., Liu, C., et al. (2024). Dopamine dynamics are dispensable for movement but promote reward responses. *Nature*, 635, 406-414.

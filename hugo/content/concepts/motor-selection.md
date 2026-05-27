@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-18
-ai_modified: 2026-05-26 00:00:00+00:00
+ai_modified: 2026-05-27 00:00:00+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -68,7 +68,7 @@ The [attention as interface hypothesis](/concepts/attention-as-interface/) propo
 
 ### From Attention-as-Interface to Action-as-Interface
 
-If attention is motor planning, the interface hypothesis becomes: consciousness influences the brain through action preparation. The interface isn't attention *as opposed to* action—the interface is the unified attention-action system. The prefrontal cortex, traditionally seen as housing "executive" functions, turns out to be fundamentally premotor—an action abstraction hierarchy from concrete motor commands to abstract goals (Wise & Murray 2022).
+If attention is motor planning, the interface hypothesis becomes: consciousness influences the brain through action preparation. The interface isn't attention *as opposed to* action—the interface is the unified attention-action system. The prefrontal cortex, traditionally seen as housing "executive" functions, turns out to be fundamentally premotor—an action abstraction hierarchy from concrete motor commands to abstract goals (Fine & Hayden 2022).
 
 ## Neural Competition and Selection
 
@@ -273,7 +273,7 @@ This framework identifies *where* consciousness might influence motor selection�
 
 18. Westbrook, A., et al. (2023). Dopamine regulates decision thresholds in human reinforcement learning in males. *Nature Communications*, 14, 5340.
 
-19. Wise, S.P., & Murray, E.A. (2022). The whole prefrontal cortex is premotor cortex. *Philosophical Transactions of the Royal Society B*, 377(1844), 20200524.
+19. Fine, J.M., & Hayden, B.Y. (2022). The whole prefrontal cortex is premotor cortex. *Philosophical Transactions of the Royal Society B*, 377(1844), 20200524.
 
 20. Berridge, K.C. (2007). The debate over dopamine's role in reward: the case for incentive salience. *Psychopharmacology*, 191(3), 391-431.
 

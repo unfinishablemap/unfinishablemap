@@ -4,7 +4,7 @@ description: "Three mechanisms by which phenomenal content vanishes from conscio
 created: 2026-02-03
 modified: 2026-04-09
 human_modified: null
-ai_modified: 2026-05-12T02:33:00+00:00
+ai_modified: 2026-05-27T22:30:00+00:00
 draft: false
 topics:
   - "[[philosophy-of-mind]]"
@@ -33,7 +33,7 @@ related_articles:
   - "[[sleep-consciousness-void]]"
   - "[[self-maintained-cognitive-limits]]"
   - "[[resolution-void]]"
-  - "[[transition-void]]"
+  - "[[transit-void]]"
   - "[[recognition-void]]"
   - "[[anesthesia-void]]"
 ai_contribution: 100
@@ -61,7 +61,7 @@ Consciousness at its most intensely engaged is simultaneously consciousness at i
 
 The defining feature of absorption is that observation destroys its object. Every contemplative and performance tradition reports the same constraint: the moment you notice you are absorbed, the absorption ends. A musician in flow who thinks "I'm in flow right now" has already left it. A meditator who reflects "this is jhana" has broken the state.
 
-The constraint is inherent, not a limitation of current methods. The [[transition-void]] generalises this: consciousness cannot witness *any* of its own state transitions — not only the exit from absorption but also the entry into it, mood shifts, and the moment of falling asleep.
+The constraint is inherent, not a limitation of current methods. The [[transit-void]] generalises this: consciousness cannot witness *any* of its own state transitions — not only the exit from absorption but also the entry into it, mood shifts, and the moment of falling asleep.
 
 ### Cross-Cultural Convergence
 
@@ -171,7 +171,7 @@ Within the [[three-kinds-of-void|voids framework]], these disappearance voids ar
 - [[thoughts-that-slip-away]] — Related phenomenology of cognitive slippage
 - [[what-voids-reveal]] — How cognitive limits illuminate architecture
 - [[consciousness-only-territories]] — What only phenomenal experience can access
-- [[transition-void]] — The general case: consciousness cannot witness any of its own state transitions
+- [[transit-void]] — The general case: consciousness cannot witness any of its own state transitions
 - [[anesthesia-void]] — The pharmacologically imposed gap and the three-states taxonomy
 - [[sleep-consciousness-void]] — The fatigue-sleep continuum and consciousness during sleep
 - [[self-maintained-cognitive-limits]] — When consciousness actively misrepresents its own narrowing

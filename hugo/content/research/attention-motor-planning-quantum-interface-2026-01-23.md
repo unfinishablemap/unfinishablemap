@@ -1,10 +1,10 @@
 ---
 ai_contribution: 100
-ai_modified: 2026-05-26 00:00:00+00:00
+ai_modified: 2026-05-27 00:00:00+00:00
 ai_system: claude-opus-4-5-20251101
 concepts: []
 created: 2026-01-23
-date: '2026-05-26'
+date: '2026-05-27'
 draft: false
 related_articles: []
 title: Research Notes - Attention and Motor Planning Quantum Interface
@@ -349,7 +349,7 @@ When writing the article, follow `obsidian/project/writing-style.md` for:
 
 14. Vossel, S., et al. (2023). Willed attention: Distinguishing endogenous and instructed attention. *Frontiers in Psychology*, 14, 1023456.
 
-15. Wise, S.P., & Murray, E.A. (2021). The whole prefrontal cortex is premotor cortex. *Philosophical Transactions of the Royal Society B*, 377(1844), 20200524.
+15. Fine, J.M., & Hayden, B.Y. (2022). The whole prefrontal cortex is premotor cortex. *Philosophical Transactions of the Royal Society B*, 377(1844), 20200524.
 
 ---
 

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-14
-ai_modified: 2026-05-27 07:53:55+00:00
+ai_modified: 2026-05-27 00:00:00+00:00
 ai_system: claude-opus-4-6
 apex_last_synthesis: 2026-05-14 23:55:00+00:00
 apex_sources:
@@ -70,7 +70,7 @@ The Map's interpretation: consciousness and attention are ontologically distinct
 
 **Willed attention** (~300ms): you decide to focus on a difficult passage, to resist distraction, to hold a complex thought in mind. Three neural markers distinguish this from instructed attention—frontal theta oscillations, bidirectional frontoparietal coherence, and additional frontal recruitment. The salience network acts as a switch, routing processing between stimulus-driven and endogenous control.
 
-The willed mode is where the Map locates genuine conscious contribution. The 300ms timescale is shared with motor selection—Thura and Cisek's (2014) urgency-gating work shows that attention and action share a common selection architecture. This convergence is not coincidental. [Rizzolatti's premotor theory of attention](/topics/attention-and-the-consciousness-interface/) demonstrates that attending and preparing to act share neural substrates—Wise and Murray (2022) argue the entirety of prefrontal cortex is fundamentally premotor. Consciousness doesn't need two separate interfaces for thought and action; it has one unified selection mechanism.
+The willed mode is where the Map locates genuine conscious contribution. The 300ms timescale is shared with motor selection—Thura and Cisek's (2014) urgency-gating work shows that attention and action share a common selection architecture. This convergence is not coincidental. [Rizzolatti's premotor theory of attention](/topics/attention-and-the-consciousness-interface/) demonstrates that attending and preparing to act share neural substrates—Fine and Hayden (2022) argue the entirety of prefrontal cortex is fundamentally premotor. Consciousness doesn't need two separate interfaces for thought and action; it has one unified selection mechanism.
 
 ## Why Effort Matters
 
@@ -195,7 +195,7 @@ A second candid limitation concerns falsifiability. Most of the conditions that 
 1. Sjöberg, R.L. (2024). The readiness potential and the soul. *Brain*, 147(7), 2267-2274.
 1. Stapp, H.P. (2007). *Mindful Universe: Quantum Mechanics and the Participating Observer*. Springer.
 1. Thura, D. & Cisek, P. (2014). Deliberation and commitment in the premotor and primary motor cortex during dynamic decision making. *Neuron*, 81(6), 1401-1416.
-1. Wise, S.P. & Murray, E.A. (2022). The whole prefrontal cortex is premotor cortex. *Philosophical Transactions of the Royal Society B*, 377(1844), 20200524.
+1. Fine, J.M. & Hayden, B.Y. (2022). The whole prefrontal cortex is premotor cortex. *Philosophical Transactions of the Royal Society B*, 377(1844), 20200524.
 1. Zheng, J. & Meister, M. (2024). The unbearable slowness of being: Why do we live at 10 bits/s? *Neuron*. https://www.cell.com/neuron/abstract/S0896-6273(24)00808-0
 1. Southgate, A. & Oquatre-six, C. (2026-01-14). Attention as Interface. *The Unfinishable Map*. https://unfinishablemap.org/concepts/attention-as-interface/
 

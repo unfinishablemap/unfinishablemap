@@ -4,7 +4,7 @@ description: "State-dependent cognitive limits across the sleep spectrum—what 
 created: 2026-02-02
 modified: 2026-05-26
 human_modified: null
-ai_modified: 2026-05-26T22:05:59+00:00
+ai_modified: 2026-05-27T22:30:00+00:00
 draft: false
 topics:
   - "[[consciousness]]"
@@ -21,7 +21,7 @@ related_articles:
   - "[[voids]]"
   - "[[three-kinds-of-void]]"
   - "[[dream-consciousness]]"
-  - "[[transition-void]]"
+  - "[[transit-void]]"
   - "[[death-void]]"
   - "[[consciousness-only-territories]]"
   - "[[the-silence-void]]"
@@ -115,7 +115,7 @@ The sleep consciousness void combines features of all [[three-kinds-of-void|thre
 
 **Unexplorable.** We cannot observe dreaming while awake; we can only recall, and recall transforms. We cannot maintain full waking cognition within dreams—dorsolateral prefrontal cortex deactivation during REM is systematic. For dreamless sleep, the observer paradox is absolute: to observe it from within, consciousness must be present, but the question concerns its absence.
 
-**Occluded.** The [[transition-void|transition between states]] systematically erases content. Dream memories fade rapidly upon waking. Vedantic traditions suggest awareness during deep sleep may be actively veiled—the ego's dissolution preventing recognition, not because awareness is absent but because the "who" that would know is not present.
+**Occluded.** The [[transit-void|transition between states]] systematically erases content. Dream memories fade rapidly upon waking. Vedantic traditions suggest awareness during deep sleep may be actively veiled—the ego's dissolution preventing recognition, not because awareness is absent but because the "who" that would know is not present.
 
 ## The Physicalist Response
 
@@ -164,7 +164,7 @@ The evidence currently favours genuine state-dependent inaccessibility. But the 
 - [[voids]] — The broader framework for investigating cognitive limits
 - [[three-kinds-of-void]] — The taxonomy: unexplored, unexplorable, occluded
 - [[dream-consciousness]] — How dreams illuminate the consciousness-brain relationship
-- [[transition-void]] — The void at the boundary between conscious states
+- [[transit-void]] — The void at the boundary between conscious states
 - [[witness-consciousness]] — The Vedantic concept of awareness that observes without identifying
 - [[personal-identity]] — What grounds identity through gaps in consciousness
 - [[death-void]] — Consciousness cannot represent its own permanent cessation

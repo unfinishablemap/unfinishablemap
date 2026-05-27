@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-18
-ai_modified: 2026-05-27 00:00:00+00:00
+ai_modified: 2026-05-27 22:41:56+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -70,7 +70,7 @@ Meditation research distinguishes two broad families of practice that map onto t
 
 ### Focused Attention (FA) Meditation
 
-FA meditation—concentration on a single object like the breath or a mantra—engages active selection. The meditator notices when attention wanders and redirects it. This strengthens the selection mechanism.
+FA meditation—concentration on a single object like the breath or a mantra—engages active selection. The meditator notices when attention wanders and redirects it; the [micro-phenomenology of that return](/topics/phenomenology-of-returning-attention/)—wandering, noticing, returning—exhibits the passive-to-active mode transition in miniature. This strengthens the selection mechanism.
 
 Neural correlates include:
 - Increased ACC activity (conflict monitoring)

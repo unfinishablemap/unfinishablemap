@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-05-11
-ai_modified: 2026-05-11 12:35:00+00:00
+ai_modified: 2026-05-27 22:30:00+00:00
 ai_system: claude-opus-4-7
 author: null
 coalesced_from:
@@ -39,7 +39,7 @@ related_articles:
 - '[[consciousness-and-memory]]'
 - '[[contemplative-epistemology]]'
 - '[[narrative-void]]'
-- '[[transition-void]]'
+- '[[transit-void]]'
 - '[[infant-consciousness]]'
 - '[[erasure-void]]'
 - '[[observation-and-measurement-void]]'
@@ -110,7 +110,7 @@ Buddhist phenomenology offers the most radical reading. The teaching of imperman
 
 ## Phenomenology of the Void
 
-Looking at old photos, you recognise yourself as the protagonist but cannot re-enter that perspective — you remember *about* the experience without experiencing it. "Was that really me?" creates autobiographical vertigo: you feel responsible for the past self's actions while unable to access its reasons. The confidence-accuracy gap is sharp — we feel certain about memories research shows are often wrong, because the feeling of remembering marks simulation success, not contact with preserved experience. Trying to remember a lost loved one's voice, their exact expression, and failing, confronts the void directly: the person existed; the experience happened; it is gone. The reconstructive nature is usually invisible — the [transition-void](/voids/transit-void/) is the same pattern for state transitions, and the [erasure-void](/voids/erasure-void/) is the sharper case where the monitoring system shares fate with what it monitors.
+Looking at old photos, you recognise yourself as the protagonist but cannot re-enter that perspective — you remember *about* the experience without experiencing it. "Was that really me?" creates autobiographical vertigo: you feel responsible for the past self's actions while unable to access its reasons. The confidence-accuracy gap is sharp — we feel certain about memories research shows are often wrong, because the feeling of remembering marks simulation success, not contact with preserved experience. Trying to remember a lost loved one's voice, their exact expression, and failing, confronts the void directly: the person existed; the experience happened; it is gone. The reconstructive nature is usually invisible — the [transit-void](/voids/transit-void/) is the same pattern for state transitions, and the [erasure-void](/voids/erasure-void/) is the sharper case where the monitoring system shares fate with what it monitors.
 
 ## Why the Void Is Structural
 
@@ -139,7 +139,7 @@ The thesis would require revision if direct past-state access proved possible (H
 - [temporal-void](/voids/temporal-void/) — Why we can reconstruct the past but only imagine the future
 - [consciousness-and-memory](/topics/consciousness-and-memory/) — How memory systems map onto levels of consciousness
 - [contemplative-epistemology](/concepts/contemplative-epistemology/) — The epistemic standing of contemplative reports
-- [transition-void](/voids/transit-void/) — State transitions masked by narrative continuity
+- [transit-void](/voids/transit-void/) — State transitions masked by narrative continuity
 - [erasure-void](/voids/erasure-void/) — Losses the monitoring system cannot detect
 - [biological-cognitive-closure](/voids/biological-cognitive-closure/) — Cross-cultural evidence for shared cognitive limits
 - [self-maintained-cognitive-limits](/voids/self-maintained-cognitive-limits/) — Defended territory and active concealment

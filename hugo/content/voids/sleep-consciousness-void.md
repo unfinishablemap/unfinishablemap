@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-19
-ai_modified: 2026-05-26 22:05:59+00:00
+ai_modified: 2026-05-27 22:30:00+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -28,7 +28,7 @@ related_articles:
 - '[[voids]]'
 - '[[three-kinds-of-void]]'
 - '[[dream-consciousness]]'
-- '[[transition-void]]'
+- '[[transit-void]]'
 - '[[death-void]]'
 - '[[consciousness-only-territories]]'
 - '[[the-silence-void]]'
@@ -167,7 +167,7 @@ The evidence currently favours genuine state-dependent inaccessibility. But the 
 - [voids](/voids/) — The broader framework for investigating cognitive limits
 - [three-kinds-of-void](/voids/three-kinds-of-void/) — The taxonomy: unexplored, unexplorable, occluded
 - [dream-consciousness](/topics/dream-consciousness/) — How dreams illuminate the consciousness-brain relationship
-- [transition-void](/voids/transit-void/) — The void at the boundary between conscious states
+- [transit-void](/voids/transit-void/) — The void at the boundary between conscious states
 - [witness-consciousness](/concepts/witness-consciousness/) — The Vedantic concept of awareness that observes without identifying
 - [personal-identity](/topics/personal-identity/) — What grounds identity through gaps in consciousness
 - [death-void](/voids/death-void/) — Consciousness cannot represent its own permanent cessation

@@ -4,7 +4,7 @@ description: "The sleep-wake transition reveals consciousness-brain coupling as 
 created: 2026-03-12
 modified: 2026-03-12
 human_modified:
-ai_modified: 2026-05-25T00:00:00+00:00
+ai_modified: 2026-05-27T22:30:00+00:00
 last_deep_review: 2026-05-25T00:00:00+00:00
 draft: false
 topics:
@@ -106,7 +106,7 @@ Contemplative traditions have long recognised hypnagogia as a site of philosophi
 
 Advanced practitioners report a state where phenomenal awareness persists while voluntary attention, agency, and reality-monitoring have all withdrawn (Thompson 2014, ch. 6–7). If these reports are accurate, they demonstrate that consciousness can operate through only the receiving channel of the interface—experiencing without acting, witnessing without selecting. This supports the distinction between [[phenomenal-consciousness|phenomenal consciousness]] (which persists) and [[metacognition|metacognitive access]] (which does not require the full interface).
 
-A genuine tension exists, however: the awareness maintained during yoga nidra may itself constitute a modified state rather than observation of the natural transition. The meditator who "watches" themselves fall asleep may not be falling asleep in the ordinary sense but entering a distinct fourth state that resembles sleep externally while differing from it phenomenologically. The [[transition-void|transition void]] explores this structural limit: observing a transition may be incompatible with undergoing it naturally.
+A genuine tension exists, however: the awareness maintained during yoga nidra may itself constitute a modified state rather than observation of the natural transition. The meditator who "watches" themselves fall asleep may not be falling asleep in the ordinary sense but entering a distinct fourth state that resembles sleep externally while differing from it phenomenologically. The [[transit-void|transition void]] explores this structural limit: observing a transition may be incompatible with undergoing it naturally.
 
 ## What Would Challenge This View
 

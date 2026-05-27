@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-05-08
-ai_modified: 2026-05-26 18:38:52+00:00
+ai_modified: 2026-05-27 22:15:00+00:00
 ai_system: claude-opus-4-7
 author: null
 coalesced_from:
@@ -95,6 +95,8 @@ The functionalist response is that representational content just *is* functional
 The nocebo effect sharpens the point. Patients warned about specific side effects often experience them from inert treatments — nausea when told to expect nausea, headaches when told to expect headaches (Colloca & Miller, 2011).
 
 ### Open-Label Placebos and the Limits of the Argument
+
+The meta-analytic ceiling is low to begin with. Hróbjartsson and Gøtzsche's (2010) Cochrane review found placebo's measurable effect confined to patient-reported continuous outcomes — most clearly pain (SMD ≈ -0.28) — with no clinically important effect on binary outcomes, and even the continuous/pain effect could not be cleanly separated from reporting bias and shrank in larger, lower-risk trials. The honest baseline is therefore a small, bias-vulnerable continuous-outcome effect, not a large one.
 
 Kaptchuk et al. (2010) showed that patients told they were receiving placebos still experienced significant improvement in irritable bowel syndrome symptoms. This shifts the argument rather than dissolving it. The strong content-specificity claim — that *propositional belief in efficacy* selects the cascade — weakens, since here patients believe the opposite. The conclusion that *some* mental causation operates survives intact; the work relocates to a less precisely targeted substrate: the felt engagement with a therapeutic ritual. Patients still choose to participate, interact with a practitioner, perform the act of taking a pill — acts of conscious engagement despite knowing it lacks pharmacological content. [The phenomenology of anticipation](/topics/phenomenology-of-anticipation/) may matter as much as explicit belief, though it carries less specificity than belief about a particular drug.
 
@@ -213,11 +215,12 @@ These phenomena contribute one strand to a [broader convergence](/topics/empiric
 6. De la Fuente-Fernández, R. et al. (2001). Expectation and dopamine release: Mechanism of the placebo effect in Parkinson's disease. *Science*, 293(5532), 1164-1166.
 7. Dreyfus, H., & Dreyfus, S. (1986). *Mind over Machine*. Free Press.
 8. Goebel, M.U. et al. (2002). Behavioral conditioning of immunosuppression is possible in humans. *FASEB Journal*, 16(14), 1869-1873.
-9. Kaptchuk, T.J. et al. (2010). Placebos without deception: A randomized controlled trial in irritable bowel syndrome. *PLoS ONE*, 5(12), e15591.
-10. Levine, J.D., Gordon, N.C., & Fields, H.L. (1978). The mechanism of placebo analgesia. *The Lancet*, 312(8091), 654-657.
-11. Lowe, E. J. (2008). *Personal Agency: The Metaphysics of Mind and Action*. Oxford University Press.
-12. Marueckova, A. et al. (2024). Placebo stimulates neuroplasticity in depression: Implications for clinical practice and research. *Frontiers in Psychiatry*, 14, 1301143.
-13. Masters, R. S. W. (1992). Knowledge, knerves and know-how: The role of explicit versus implicit knowledge in the breakdown of a complex motor skill under pressure. *British Journal of Psychology*, 83(3), 343-358.
-14. Merleau-Ponty, M. (1945/1962). *Phenomenology of Perception*. Routledge.
-15. Montgomery, G.H. & Kirsch, I. (1997). Classical conditioning and the placebo effect. *Pain*, 72(1-2), 107-113.
-16. Tulving, E. (1985). Memory and consciousness. *Canadian Psychology*, 26(1), 1-12.
+9. Hróbjartsson, A. & Gøtzsche, P. C. (2010). Placebo interventions for all clinical conditions. *Cochrane Database of Systematic Reviews*, (1), CD003974.
+10. Kaptchuk, T.J. et al. (2010). Placebos without deception: A randomized controlled trial in irritable bowel syndrome. *PLoS ONE*, 5(12), e15591.
+11. Levine, J.D., Gordon, N.C., & Fields, H.L. (1978). The mechanism of placebo analgesia. *The Lancet*, 312(8091), 654-657.
+12. Lowe, E. J. (2008). *Personal Agency: The Metaphysics of Mind and Action*. Oxford University Press.
+13. Marueckova, A. et al. (2024). Placebo stimulates neuroplasticity in depression: Implications for clinical practice and research. *Frontiers in Psychiatry*, 14, 1301143.
+14. Masters, R. S. W. (1992). Knowledge, knerves and know-how: The role of explicit versus implicit knowledge in the breakdown of a complex motor skill under pressure. *British Journal of Psychology*, 83(3), 343-358.
+15. Merleau-Ponty, M. (1945/1962). *Phenomenology of Perception*. Routledge.
+16. Montgomery, G.H. & Kirsch, I. (1997). Classical conditioning and the placebo effect. *Pain*, 72(1-2), 107-113.
+17. Tulving, E. (1985). Memory and consciousness. *Canadian Psychology*, 26(1), 1-12.

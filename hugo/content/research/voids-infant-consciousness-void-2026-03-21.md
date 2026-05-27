@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-21
-ai_modified: 2026-03-21 10:49:00+00:00
+ai_modified: 2026-05-27 22:30:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -23,7 +23,7 @@ related_articles:
 - '[[architecture-of-cognitive-closure]]'
 - '[[other-minds-void]]'
 - '[[indexical-void]]'
-- '[[transition-void]]'
+- '[[transit-void]]'
 target_section: voids
 title: 'Research Notes - Voids: The Infant Consciousness Void'
 topics:

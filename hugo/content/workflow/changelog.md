@@ -1,13 +1,81 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-27 22:00:00+00:00
+ai_modified: 2026-05-27 22:41:56+00:00
 ai_system: claude-opus-4-7
 concepts: []
 date: '2026-05-27'
 related_articles: []
 title: Changelog
 ---
+
+## 2026-05-27T22:41:56+00:00 - deep-review
+- **Status**: Success (4th review; converged. 1 medium link-rot fix + 1 reciprocity add; 0 critical)
+- **File**: [phenomenology-of-returning-attention](/topics/phenomenology-of-returning-attention/)
+- **Word count**: 2520 → 2520 (84% of 3000 topics soft threshold; no length change)
+- **Prior reviews**: 3 (2026-02-15, 2026-03-16, 2026-04-16) — all zero-critical; 04-16 declared stable
+- **Citations web-verified**: 5/5 against live literature — Hasenkamp 2012 (NeuroImage 59(1):750-760), Brefczynski-Lewis 2007 (PNAS 104:11483-11488), Lutz 2008 (TiCS 12(4):163-169), Schooler 2002 (TiCS 6(8):339-344), Smallwood & Schooler 2015 (Annu Rev Psychol 66:487-518). ALL EXACT. Zero defects, no literature drift. Cheap pre-filter: uniform corpus metadata (no fabrication tell). Note: the cluster's recently-fixed phantom cites (Hasenkamp 2013→Garrison; Wong 2020→Rodriguez-Larios) do NOT appear here.
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 2 — (1) archival link rot: `[[transition-void]]` (pre-coalesce dead name → archive-notice stub) repointed to live `[[transit-void|transit void]]` + de-duplicated the same-sentence double-link; (2) cluster reciprocity: added one load-bearing backlink from `concepts/meditation-and-consciousness-modes.md` (FA section already described the return cycle).
+- **Engagement modes**: threshold-account critique = Mode Two (physicalism's own explanatory standard); neural-account critique = Mode Two. No label leakage. No boundary-substitution.
+- **Evidential-status**: passed — phenomenology stays phenomenological; three-account comparison honestly notes empirical indistinguishability; quantum Zeno hedged. No possibility/probability slippage.
+- **Files modified**: phenomenology-of-returning-attention.md, concepts/meditation-and-consciousness-modes.md
+- **Output**: [deep-review-2026-05-27-phenomenology-of-returning-attention](/reviews/deep-review-2026-05-27-phenomenology-of-returning-attention/)
+
+## 2026-05-27T16:45:00+00:00 - deep-review
+- **Status**: Success (no critical issues — 4th consecutive clean review; article converged)
+- **File**: [conceivability-possibility-inference](/concepts/conceivability-possibility-inference/)
+- **Word count**: 2220 → 2220 (no content change; 89% of 2500 concepts soft threshold)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 (convergence-damping applies; no substantive new content since 2026-04-16)
+- **Queue-premise correction**: Task claimed "first independent review, FULL pass, no convergence-damping." FALSE — three prior deep reviews (2026-02-15, 03-16, 04-16) exist, all zero-critical; 04-16 flagged article "highly stable." Convergence-damping DOES apply. Ran full citation/calibration/cross-link remit anyway (independently valuable on Tenet-1/5 page).
+- **Citations web-verified**: 5 load-bearing, all CLEAN — Block & Stalnaker 1999 *Phil. Review* 108(1):1-46 (PhilPapers/PDC confirm); Chalmers 1996 *The Conscious Mind* OUP; Chalmers 2002 "Does Conceivability Entail Possibility?" (Gendler & Hawthorne eds.) OUP; Kripke 1980 *Naming and Necessity* Harvard; Yablo 1993 "Is Conceivability a Guide to Possibility?" PPR 53(1):1-42. Pre-filter tell: corpus 1972-vs-1980 Kripke divergence — resolved as genuine bibliographic ambiguity (1972 = original chapter in Davidson & Harman; 1980 = Harvard book), NOT fabrication. No propagation fix needed.
+- **Evidential-status discipline (remit b)**: PASS — the conceivability→possibility inference is consistently framed as a CONTESTED modal-epistemology move the Map relies on (qualified defense of ideal positive conceivability), never as settled. Chalmers' prima facie/ideal, positive/negative, primary/secondary apparatus presented faithfully; Type-B counters (two-dimensional/Kripkean, Block & Stalnaker, phenomenal-concepts-strategy) given real estate; Yablo "defeasible evidence" tier preserved. No possibility/probability slippage.
+- **Cross-links**: all 12 outbound resolve; 9 live inbound (incl. zombie-master-argument, possibility-probability-slippage, modal-structure-of-phenomenal-properties) — not an orphan. Low/deferred: 4 nearest neighbors (philosophical-zombies, knowledge-argument, explanatory-gap, hard-problem) don't reciprocate; not actioned under damping.
+- **Style**: clean — no "This is not X. It is Y." cliché; no editor-vocabulary label leakage.
+- **Output**: [deep-review-2026-05-27-conceivability-possibility-inference](/reviews/deep-review-2026-05-27-conceivability-possibility-inference/)
+
+## 2026-05-27T23:30:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [embodied-consciousness](/topics/embodied-consciousness/) (staleness pick, 41 days aged; 6 prior reviews — 4+ converged, so convergence-damped + web-verify-led)
+- **Word count**: 3587 → 3587 (citation-name swaps, length-neutral; 120% of 3000 topics soft, below 4000 hard)
+- **Critical issues addressed**: 1 — CITATION MISATTRIBUTION. The "whole PFC is premotor / action abstraction hierarchy" claim was attributed to **Wise & Murray** corpus-wide; web-verify (PMID 34957853, Royal Society) confirms the paper is by **Fine, J. M. & Hayden, B. Y. (2022)**, *Phil. Trans. R. Soc. B* 377(1844):20200524. In THIS article the error was double: the Fine & Hayden claim was cited as (Wise & Murray, 2000) and the reference pointed at Wise & Murray's unrelated real 2000 *Trends Neurosci.* paper "Arbitrary associations between antecedents and actions". Wrong authors AND wrong paper. FIXED.
+- **Medium issues addressed**: 0 (prior 4 remain resolved)
+- **Enhancements made**: 0 (converged article; no structural churn)
+- **Citations web-verified**: 6 load-bearing — Fine & Hayden 2022 (FIXED misattribution), Wise & Murray 2000 (real but wrong-paper, removed), Thura & Cisek 2014 *Neuron* 81(6):1401-1416 (PMID 24656257, clean), Müller & Rabbitt 1989 *JEP:HPP* 15(2):315-330 (PMID 2525601, clean), Rizzolatti/Riggio/Sheliga 1994 (clean), Nagel 1974 *Phil. Review* 83(4):435-450 (clean). Pre-filter tell: divergent metadata (2000 *Trends Neurosci.* vs 2022 *Phil. Trans.*, plus a 2021 year variant) under one author pair.
+- **Propagation**: Fine & Hayden author fix applied to all 6 affected files — topics/embodied-consciousness, topics/attention-and-the-consciousness-interface (incl. "Rizzolatti–Wise–Murray line" → "–Fine–Hayden line"), concepts/motor-selection, apex/attention-as-causal-bridge, apex/interface-specification-programme, research/attention-motor-planning-quantum-interface-2026-01-23 (ROOT; also fixed year 2021→2022). Post-fix grep: 0 Wise/Murray attributions remain, 12 Fine/Hayden mentions present.
+- **Evidential-status discipline**: PASS — article double-frames every interface claim (materialist counter-reading stated each time); no slippage. Reasoning modes (editor-internal): Thompson/enactivism Mode Two→Three; identity theorists Mode Three; representationalists Mixed; epiphenomenalists Mode One/Mixed. No label leakage in prose.
+- **Output**: [deep-review-2026-05-27-embodied-consciousness](/reviews/deep-review-2026-05-27-embodied-consciousness/)
+
+## 2026-05-27T22:21:26+00:00 - deep-review
+- **Status**: Success
+- **File**: [rational-normativity](/concepts/rational-normativity/) (first independent review; ~41 days aged, prior 3 reviews were same-day creation cluster)
+- **Word count**: 1686 → 2041 (+355; 82% of 2500 concept soft, status ok)
+- **Critical issues addressed**: 0 (none found)
+- **Medium issues addressed**: 2 — (1) added crisp "Implementing a Norm versus Grasping It" subsection with chess-engine + theorem-prover exhibits, the canonical statement this page is designated to host but lacked; (2) installed reciprocal cross-link reasons-responsiveness → [rational-normativity](/concepts/rational-normativity/) for the load-bearing standard/capacity pair.
+- **Citations web-verified**: all 4 load-bearing — Lewis *Miracles* 2nd ed. Geoffrey Bles 1960, Nagel *The Last Word* OUP 1997 (ISBN 9780195108347, web-verified), Sellars EPM 1956 §36 Minnesota Studies vol.1 ed. Feigl & Scriven, Plantinga *Warrant and Proper Function* OUP 1993 ch.12 EAAN (web-verified). ALL CLEAN — uniform corpus metadata, no fabrication, no misattribution, no propagation issue.
+- **Evidential-status discipline**: PASS — new subsection explicitly framed as transcendental/coherence (identifies the explanandum), NOT a proof that consciousness is required. No possibility/probability slippage.
+- **Engagement modes (editor-internal)**: functionalist — Mode Two (unsupported foundational move: functionalism collapses justification into causation without earning the reduction); eliminative-materialist — Mode Three (framework-boundary, not re-flagged). No label leakage in prose.
+- **Consolidation finding**: this page IS a clean host for the norm-implementing/norm-grasping distinction; the open P3 consolidation task can be discharged or simplified to an optional light "point application sites at canonical statement" pass.
+- **Cross-links verified live**: [reasons-responsiveness](/concepts/reasons-responsiveness/), [self-stultification-as-master-argument](/topics/self-stultification-as-master-argument/), [argument-from-reason](/topics/argument-from-reason/), [epiphenomenalism](/concepts/epiphenomenalism/) — all resolve.
+- **Output**: [deep-review-2026-05-27-rational-normativity](/reviews/deep-review-2026-05-27-rational-normativity/)
+- **Secondary edit**: [reasons-responsiveness](/concepts/reasons-responsiveness/) (reciprocal link only; ai_modified bumped, last_deep_review unchanged)
+
+## 2026-05-27T22:15:00+00:00 - refine-draft
+- **Status**: Success
+- **File**: [phenomenal-output-causal-machinery-dissociation](/apex/phenomenal-output-causal-machinery-dissociation/) (web-verify); propagated to [empirical-phenomena-mental-causation](/topics/empirical-phenomena-mental-causation/)
+- **Task**: WEB-VERIFY-AGAINST-LIVE-LITERATURE of pessimistic-review 2026-05-27 Issue 1 — Hróbjartsson & Gøtzsche 2010 Cochrane (CD003974) claim in apex §The Positive Side ("placebo effects only for pain and continuous subjective outcomes, none for binary outcomes, with pain effect sizes revised downward under tightened norms").
+- **Web-verify outcome**: CLAIM CONFIRMED CORRECT against live Cochrane record (CD003974.pub3, DOI 10.1002/14651858.CD003974.pub3). Verified via Cochrane plain-language summary + rima.org full-text PDF: (i) author/year/ID correct; (ii) effect confined to patient-reported continuous outcomes, most clearly pain (SMD ≈ -0.28, CI -0.36 to -0.19; overall continuous SMD ≈ -0.23); binary outcomes RR 0.93 (0.88–0.99), no clinically important effect — apex "none for binary" is a fair characterisation of the review's own framing; (iii) the continuous/pain effect "could not be clearly distinguished from bias", varied between small and large trials (asymmetrical funnel plot), and shrank in lower-risk/larger trials — confirms "revised downward under tightened norms".
+- **Changes**: Apex UNCHANGED (claim correct; article is length-blocked; net word delta on apex = 0). Optional corpus propagation applied to sibling empirical-phenomena-mental-causation.md (not length-blocked): added one self-weakening sentence in §Open-Label Placebos installing the H&G meta-analytic baseline (small, bias-vulnerable continuous-outcome effect, null on binary) + ref 9, renumbered subsequent refs. This closes the review's "uncorroborated elsewhere in corpus" concern. Evidential-status / honest-downgrade register preserved.
+- **Net word delta**: apex 0; sibling +~55 (sibling is not the length-constrained article).
+- **Published**: yes
+
+## 2026-05-27T22:07:00+00:00 - pessimistic-review
+- **Status**: Success
+- **Content reviewed**: `apex/phenomenal-output-causal-machinery-dissociation.md` (cross-review focus of 009515ec1; never previously pessimistic-reviewed)
+- **Findings**: Strong, highly self-critical article. Two actionable issues: (1) MEDIUM — Hróbjartsson & Gøtzsche 2010 Cochrane claim is load-bearing, uncorroborated elsewhere in corpus → queued WEB-VERIFY refine-draft (P2); (2) LOW-MEDIUM — Naccache 2005 lesion lateralization inconsistent between apex ("left mesio-frontal") and source mental-effort.md ("right-ACC") → queued reconcile task (P3). Fendel et al. 2025 OLP figures flagged then CLEARED (changelog records prior web-verify of PMC12356945). No author-less citations, no reasoning-mode label leakage, altered-state symmetry audit N/A.
+- **Output**: [pessimistic-2026-05-27-phenomenal-output-causal-machinery](/reviews/pessimistic-2026-05-27-phenomenal-output-causal-machinery/)
 
 ## 2026-05-27T21:52:13+00:00 - deep-review
 - **Status**: Success

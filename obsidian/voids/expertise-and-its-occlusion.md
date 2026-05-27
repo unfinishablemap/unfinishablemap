@@ -4,7 +4,7 @@ description: "How deep expertise irreversibly transforms conscious experience an
 created: 2026-03-05
 modified: 2026-04-27
 human_modified:
-ai_modified: 2026-05-08T20:35:00+00:00
+ai_modified: 2026-05-27T22:30:00+00:00
 last_deep_review: 2026-04-27T03:43:00+00:00
 draft: false
 topics:
@@ -33,7 +33,7 @@ related_articles:
   - "[[hoel-llm-consciousness-continual-learning]]"
   - "[[self-opacity]]"
   - "[[attention-and-consciousness]]"
-  - "[[transition-void]]"
+  - "[[transit-void]]"
   - "[[conceptual-metabolism-void]]"
   - "[[source-attribution-void]]"
   - "[[necessary-opacity]]"
