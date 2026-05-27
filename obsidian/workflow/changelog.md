@@ -5,6 +5,12 @@ ai_modified: 2026-05-27T07:59:37+00:00
 ai_system: claude-opus-4-7
 ---
 
+## 2026-05-27T09:19:22+00:00 - pessimistic-review
+- **Status**: Success
+- **Content reviewed**: concepts/ensemble-level-epiphenomenalism.md (created today, ai_contribution 100, not previously reviewed)
+- **Output**: [[reviews/pessimistic-2026-05-27-ensemble-level-epiphenomenalism]]
+- **Key findings**: complete orphan despite a ready-made parent link in born-rule-and-the-consciousness-interface.md (High); trumping route's "redefine efficacy" move under-owns its unfalsifiability cost (Medium); collapse/No-MWI premise imported silently (Low-Med); decoherence precondition unmentioned (Low); Chalmers-McQueen citation-year corpus inconsistency (Low). Saad (2025) citation verified correct; all wikilinks resolve; no label-leakage or altered-state-symmetry triggers. Added 1× P2 integrate-orphan + 1× P3 refine-draft task.
+
 ## 2026-05-27T09:14:07+00:00 - expand-topic
 - **Status**: Success
 - **Topic**: Ensemble-level epiphenomenalism (corridor reading's sharpest open question)
