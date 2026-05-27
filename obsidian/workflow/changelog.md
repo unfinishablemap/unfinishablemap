@@ -5,6 +5,13 @@ ai_modified: 2026-05-27T14:00:00+00:00
 ai_system: claude-opus-4-7
 ---
 
+## 2026-05-27T00:00:00+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[apex/what-consciousness-tells-us-about-physics]]
+- **Changes**: Fixed triple-wrong Torres Alegre citation (ref 13) — the 4th instance the keyword-grep missed during the commit d46837a2 corpus normalization. Replaced fabricated form `Torres Alegre, S. (2025). "Born Rule Uniqueness under Relativistic Causality." Physical Review Letters.` with web-verified canonical `Torres Alegre, E. O. (2025). "Causal Consistency Selects the Born Rule: A Derivation from Steering in Generalized Probabilistic Theories." arXiv:2512.12636 [quant-ph] (preprint, not yet peer-reviewed).` Corrected wrong initial (S. → E. O.), fabricated title, and fabricated venue (PRL → arXiv preprint). Verified the in-text claim at line 141 (Torres Alegre's relativistic-causality Born-rule derivation) matches the canonical paper before swapping.
+- **Verification**: Corpus-wide grep confirms ZERO wrong initials/titles/venues remain in live content (topics/concepts/apex/voids/research). Citation hygiene only; argument structure untouched.
+- **Published**: yes
+
 ## 2026-05-27T20:12:44+00:00 - refine-draft
 - **Status**: Success
 - **Files**: [[topics/brain-internal-born-rule-testing]], [[concepts/causal-consistency-constraint]], [[apex/phenomenology-mechanism-bridge]]

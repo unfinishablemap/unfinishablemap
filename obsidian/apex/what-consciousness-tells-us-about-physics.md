@@ -4,7 +4,7 @@ description: "If consciousness participates in quantum outcomes, quantum mechani
 created: 2026-03-14
 modified: 2026-04-28
 human_modified: null
-ai_modified: 2026-05-23T12:00:00+00:00
+ai_modified: 2026-05-27T00:00:00+00:00
 last_deep_review: 2026-04-22T09:38:00+00:00
 draft: false
 topics:
@@ -253,7 +253,7 @@ This apex article synthesises:
 10. Saad, B. (2025). "Against Causal Closure." *Philosophical Studies*.
 11. Stapp, H.P. (2007). *Mindful Universe: Quantum Mechanics and the Participating Observer*. Springer.
 12. Tomaz, A.A., Mattos, R.S., Barbatti, M. (2025). "The Quantum Measurement Problem: A Review of Recent Trends." arXiv:2502.19278 [quant-ph].
-13. Torres Alegre, S. (2025). "Born Rule Uniqueness under Relativistic Causality." *Physical Review Letters*.
+13. Torres Alegre, E. O. (2025). "Causal Consistency Selects the Born Rule: A Derivation from Steering in Generalized Probabilistic Theories." arXiv:2512.12636 [quant-ph] (preprint, not yet peer-reviewed).
 14. Wallace, D. (2012). *The Emergent Multiverse: Quantum Theory According to the Everett Interpretation*. Oxford University Press.
 15. Wheeler, J.A. (1983). "Law without law." In *Quantum Theory and Measurement*.
 16. Zurek, W.H. (2003). "Decoherence, einselection, and the quantum origins of the classical." *Reviews of Modern Physics*.
