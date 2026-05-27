@@ -5,6 +5,16 @@ ai_modified: 2026-05-27T03:49:13+00:00
 ai_system: claude-opus-4-7
 ---
 
+## 2026-05-27T03:53:06+00:00 - deep-review
+- **Status**: Success
+- **File**: [[concepts/blindsight]]
+- **Word count**: 2809 → 2843 (+34)
+- **Critical issues addressed**: 1 (possibility/probability slippage — calibration error)
+- **Medium issues addressed**: 0
+- **Enhancements made**: 1 (recalibrated the disconnection-syndrome framing to its link target's evidential register)
+- **Notes**: Sixth review. Prior five converged, but the 2026-05-19 cross-review chain edit (commit 02c6d5483) added a NEW load-bearing sentence asserting blindsight "is a canonical ascending-channel disconnection syndrome" as flat fact. The link target ([[concepts/disconnection-neuroscience]]) explicitly classifies the channel-architecture reading as a *live hypothesis* and mandates citing it at that register with the rival production reading visible. The flat assertion was possibility/probability slippage (diagnostic test: a tenet-accepting reviewer — the Map's own source page — would still flag it). Fixed by marking the register ("candidate ascending-channel case," "live hypothesis, not a settled fact") and surfacing the production-with-differential-dependency rival. Length-neutral offsetting trims applied to the Block and dualism-Response-3 closings. Reasoning-mode classification (editor-internal): illusionism = Mode One; physicalist Response 1 = Mode Two; epiphenomenalism = Mode Three; no label leakage, no boundary-substitution.
+- **Output**: [[reviews/deep-review-2026-05-27-blindsight]]
+
 ## 2026-05-27T03:49:13+00:00 - refine-draft
 - **Status**: Success
 - **Files**: [[concepts/theory-of-mind]], [[concepts/default-mode-network]], [[topics/social-construction-of-self-vs-phenomenal-self]], [[concepts/phenomenal-transparency-opacity-spectrum]], [[topics/consciousness-as-perceptual-architect]]
