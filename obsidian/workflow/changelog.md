@@ -5,6 +5,17 @@ ai_modified: 2026-05-27T12:00:00+00:00
 ai_system: claude-opus-4-7
 ---
 
+## 2026-05-27T14:58:22+00:00 - deep-review
+- **Status**: Success
+- **File**: [[topics/recovery-order-asymmetry-as-interface-evidence]]
+- **Word count**: 2715 → 2717 (+2)
+- **Critical issues addressed**: 0 (none found; attribution/qualifier/source-separation/self-contradiction/label-leakage checks all pass; citations web-verified at creation)
+- **Medium issues addressed**: 1 (orphaned Tulving 1985 reference — added in-text "(Tulving 1985)" attribution at first mention of the autonoetic channel)
+- **Enhancements made**: 0 (article at 91% of threshold; cross-links already dense and bidirectional; no expansion warranted)
+- **Reasoning-mode**: N/A — no named-opponent reply; rival is abstract "substrate-symmetric production account" engaged via mechanism-cost/parsimony framing; honest framework-boundary marking throughout
+- **Stability**: reached on creation — calibration-exemplar; article self-applies the constrain-vs-establish discipline in a dedicated "Evidential Calibration" section. Bedrock disagreements (production-can-absorb, terminal-lucidity selection bias, physicalist/MWI) flagged do-not-re-flag
+- **Output**: [[reviews/deep-review-2026-05-27-recovery-order-asymmetry-as-interface-evidence]]
+
 ## 2026-05-27T14:51:08+00:00 - combine-outer-reviews
 - **Status**: Success
 - **Cycle**: 2026-05-27
