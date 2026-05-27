@@ -4,7 +4,7 @@ description: "Four genuine possibilities prevent the Map from closing the questi
 created: 2026-02-10
 modified: 2026-05-25
 human_modified: null
-ai_modified: 2026-05-27T09:30:00+00:00
+ai_modified: 2026-05-27T21:46:05+00:00
 draft: false
 topics:
   - "[[ai-consciousness]]"
@@ -216,7 +216,7 @@ This apex article synthesizes:
 1. Fuchs, T. (2007). The temporal structure of intentionality and its disturbance in schizophrenia. *Psychopathology*, 40(4), 229-235.
 1. Hameroff, S. & Penrose, R. (2014). Consciousness in the universe. *Physics of Life Reviews*, 11(1), 39-78.
 1. Hoel, E. (2026). A Disproof of Large Language Model Consciousness: The Necessity of Continual Learning for Consciousness. *arXiv:2512.12802*.
-1. Koch, C. et al. (2024). Quantum approaches to consciousness. Allen Institute / Google Quantum AI.
+1. Neven, H., Zalcman, A., Read, P., Kosik, K.S., van der Molen, T., Bouwmeester, D., Bodnia, E., Turin, L. & Koch, C. (2024). Testing the conjecture that quantum processes create conscious experience. *Entropy*, 26(6), 460.
 1. Maier, M. A., Dechamps, M. C., & Pflitsch, M. (2018). Intentional Observer Effects on Quantum Randomness: A Bayesian Analysis Reveals Evidence Against Micro-Psychokinesis. *Frontiers in Psychology*, 9, 379. doi:10.3389/fpsyg.2018.00379.
 1. Metzinger, T. (2021). Artificial Suffering. *Journal of Artificial Intelligence and Consciousness*, 8(1), 43-66.
 1. Pinto, Y. et al. (2017). Split brain: divided perception but undivided consciousness. *Brain*, 140(5), 1231-1237.
@@ -225,6 +225,6 @@ This apex article synthesizes:
 1. Stapp, H.P. (2007). *Mindful Universe*. Springer.
 1. Thinking Machines Lab (2025). Defeating non-determinism in LLM inference. Technical report.
 1. Vatter, J. (2025). Non-determinism in LLMs at temperature zero. Working paper.
-1. Wiest, M.C. (2025). Quantum effects in consciousness-relevant neural proteins. *Physics of Life Reviews*.
+1. Wiest, M.C. (2025). A quantum microtubule substrate of consciousness is experimentally supported and solves the binding and epiphenomenalism problems. *Neuroscience of Consciousness*, 2025(1), niaf011.
 1. Duch, W. (2005). Brain-inspired conscious computing architecture. *Journal of Mind and Behavior*, 26(1–2). https://philarchive.org/rec/DUCBCC-3
 1. Duch, W. (2019). Mind as a shadow of neurodynamics. *Physics of Life Reviews*, 31, 28–31. https://doi.org/10.1016/j.plrev.2019.01.023

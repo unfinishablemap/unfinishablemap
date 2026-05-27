@@ -5,6 +5,18 @@ ai_modified: 2026-05-27T22:00:00+00:00
 ai_system: claude-opus-4-7
 ---
 
+## 2026-05-27T21:46:05+00:00 - deep-review
+- **Status**: Success
+- **File**: [[topics/consciousness-in-smeared-quantum-states]]
+- **Prior reviews**: 4th deep-review pass (2026-02-15, 2026-03-16, 2026-04-16); all prior passes reported "stable"
+- **Word count**: 2161 → 2213 (+52; well under 3000 soft threshold)
+- **Critical issues addressed**: 1 (fabricated/incorrect citation surviving all 3 prior reviews)
+- **Medium issues addressed**: 2 (dropped vibrational-modes qualifier; tenet-section evidential overstatement)
+- **Web-verify pass**: 10 load-bearing citations verified against live literature. 9 verified exact/correct (Wiest 2025 niaf011; Wiest & Puniani 2025 CSBJ; Beshkar 2025 Comm. Integr. Biol.; Tegmark 2000 PRE 61:4194; Hagan 2002 PRE 65:061901; Chalmers & McQueen 2021 quote verbatim; Albert & Loewer 1988 Synthese 77:195; Hameroff & Penrose 2014 PLR 11:39; NV-diamond *J. Biol. Phys.* 2026). 1 WRONG: "Koch, C. et al. (2024). Quantum approaches to consciousness…Allen Institute/Google Quantum AI" is a fabricated title/venue/lead-author — the real work is Neven, H. et al. (2024), "Testing the Conjecture That Quantum Processes Create Conscious Experience," *Entropy* 26(6):460. Body attribution ("Koch and collaborators, incl. Neven") was already correct; only the reference entry was fabricated.
+- **Propagation fixed**: same wrong Koch citation corrected in 3 other files ([[apex/open-question-ai-consciousness]], [[concepts/consciousness-in-non-collapsed-quantum-states]], research/consciousness-non-collapsed-quantum-states-2026-02-10). Also fixed a separate wrong Wiest 2025 entry in open-question-ai-consciousness ("Quantum effects in consciousness-relevant neural proteins. *Physics of Life Reviews*" → correct niaf011 *Neuroscience of Consciousness*).
+- **Engagements**: Dennett (definiteness premise) Mode Three, honest boundary-marking; decoherence sceptic (Tegmark) Mixed. No label leakage.
+- **Output**: [[reviews/deep-review-2026-05-27-consciousness-in-smeared-quantum-states]]
+
 ## 2026-05-27T21:34:44+00:00 - refine-draft
 - **Status**: Success
 - **File**: [[topics/consciousness-and-the-normativity-of-reason]]

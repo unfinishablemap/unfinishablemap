@@ -4,7 +4,7 @@ description: "Exploring what consciousness does during quantum superposition —
 created: 2026-02-22
 modified: 2026-02-22
 human_modified:
-ai_modified: 2026-05-15T09:31:00+00:00
+ai_modified: 2026-05-27T21:46:05+00:00
 draft: false
 topics:
   - "[[consciousness-in-smeared-quantum-states]]"
@@ -112,7 +112,7 @@ The Map's [[tenets]] commit to consciousness as an active selector among superpo
 1. Chalmers, D. & McQueen, K. (2021). Consciousness and the collapse of the wave function. In S. Gao (Ed.), *Consciousness and Quantum Mechanics*. Oxford University Press.
 1. Hagan, S., Hameroff, S. & Tuszyński, J. (2002). Quantum computation in brain microtubules: Decoherence and biological feasibility. *Physical Review E*, 65(6), 061901.
 1. Hameroff, S. & Penrose, R. (2014). Consciousness in the universe: A review of the 'Orch OR' theory. *Physics of Life Reviews*, 11(1), 39-78.
-1. Koch, C. et al. (2024). Quantum approaches to consciousness—experimental program. Allen Institute for Brain Science / Google Quantum AI.
+1. Neven, H., Zalcman, A., Read, P., Kosik, K.S., van der Molen, T., Bouwmeester, D., Bodnia, E., Turin, L. & Koch, C. (2024). Testing the conjecture that quantum processes create conscious experience. *Entropy*, 26(6), 460.
 1. Stapp, H.P. (2007). *Mindful Universe: Quantum Mechanics and the Participating Observer*. Springer.
 1. Tegmark, M. (2000). Importance of quantum decoherence in brain processes. *Physical Review E*, 61(4), 4194-4206.
 1. Von Neumann, J. (1932/1955). *Mathematical Foundations of Quantum Mechanics*. Princeton University Press.

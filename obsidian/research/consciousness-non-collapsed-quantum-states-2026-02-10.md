@@ -258,7 +258,7 @@ The history of this debate illustrates the tenet perfectly. The "simple" view—
 - Albert, D. & Loewer, B. (1988). Interpreting the many-worlds interpretation. *Synthese*, 77, 195-213.
 - Chalmers, D. & McQueen, K. (2021). Consciousness and the collapse of the wave function. In S. Gao (Ed.), *Consciousness and Quantum Mechanics*. Oxford University Press.
 - Hameroff, S. & Penrose, R. (2014). Consciousness in the universe: A review of the 'Orch OR' theory. *Physics of Life Reviews*, 11(1), 39-78.
-- Koch, C. et al. (2024). Quantum approaches to consciousness—experimental program. Allen Institute for Brain Science / Google Quantum AI.
+- Neven, H., Zalcman, A., Read, P., Kosik, K.S., van der Molen, T., Bouwmeester, D., Bodnia, E., Turin, L. & Koch, C. (2024). Testing the conjecture that quantum processes create conscious experience. *Entropy*, 26(6), 460.
 - List, C. (2023). "The Many-Worlds Theory of Consciousness." *Noûs*, 57(2), 316-340. (First published online 2022.)
 - London, F. & Bauer, E. (1939). La théorie de l'observation en mécanique quantique.
 - Penrose, R. (1989). *The Emperor's New Mind*. Oxford University Press.
