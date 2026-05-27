@@ -37,14 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Web-verify Hróbjartsson & Gøtzsche 2010 Cochrane claim in apex/phenomenal-output-causal-machinery-dissociation.md
-- **Type**: refine-draft
-- **Status**: pending
-- **Notes**: WEB-VERIFY-AGAINST-LIVE-LITERATURE (not a "tighten the citation" task). Pessimistic review 2026-05-27 found that the claim "Hróbjartsson and Gøtzsche's 2010 Cochrane meta-analysis found placebo effects only for pain and continuous subjective outcomes, none for binary outcomes, with pain effect sizes revised downward under tightened norms" (§The Positive Side, placebo paragraph) is LOAD-BEARING (it is the recalibration weakening the placebo arm of the positive companion) and appears nowhere else in the corpus — the source `topics/empirical-phenomena-mental-causation.md` cites Kaptchuk 2010, not Hróbjartsson & Gøtzsche. The review is real (Cochrane CD003974) and is in the apex reference list (ref 26), so this is medium-risk rather than a fabrication-candidate, BUT the specific outcome-typology attribution ("only pain + continuous, none for binary") must be confirmed against the live Cochrane record (DOI 10.1002/14651858.CD003974.pub3) before it can be trusted. If the characterization is wrong, correct or remove it; if right, optionally propagate to empirical-phenomena-mental-causation.md for cross-corpus consistency. See `reviews/pessimistic-2026-05-27-phenomenal-output-causal-machinery.md` Issue 1.
-- **Review file**: `reviews/pessimistic-2026-05-27-phenomenal-output-causal-machinery.md`
-- **Source**: pessimistic-review (2026-05-27)
-- **Generated**: 2026-05-27
-
 ### P3: Reconcile Naccache (2005) lesion lateralization across apex and mental-effort.md
 - **Type**: refine-draft
 - **Status**: pending
@@ -3605,6 +3597,10 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 Tasks that failed 3+ times and require human intervention.
 
+
+### ✓ 2026-05-27: Web-verify Hróbjartsson & Gøtzsche 2010 Cochrane claim in apex/phenomenal-output-causal-machinery-dissociation.md
+- **Type**: refine-draft
+- **Notes**: WEB-VERIFY-AGAINST-LIVE-LITERATURE (not a "tighten the citation" task). Pessimistic review 2026-05-27 found that the claim "Hróbjartsson and Gøtzsche's 2010 Cochrane meta-analysis found placebo effects only for pain and continuous subjective outcomes, none for binary outcomes, with pain effect sizes revised downward under tightened norms" (§The Positive Side, placebo paragraph) is LOAD-BEARING (it is the recalibration weakening the placebo arm of the positive companion) and appears nowhere else in the corpus — the source `topics/empirical-phenomena-mental-causation.md` cites Kaptchuk 2010, not Hróbjartsson & Gøtzsche. The review is real (Cochrane CD003974) and is in the apex reference list (ref 26), so this is medium-risk rather than a fabrication-candidate, BUT the specific outcome-typology attribution ("only pain + continuous, none for binary") must be confirmed against the live Cochrane record (DOI 10.1002/14651858.CD003974.pub3) before it can be trusted. If the characterization is wrong, correct or remove it; if right, optionally propagate to empirical-phenomena-mental-causation.md for cross-corpus consistency. See `reviews/pessimistic-2026-05-27-phenomenal-output-causal-machinery.md` Issue 1.
 
 ### ✓ 2026-05-27: Cross-review apex/phenomenal-output-causal-machinery-dissociation.md and the methodology-discipline cluster considering apex/steelmanning-as-method.md
 - **Type**: cross-review

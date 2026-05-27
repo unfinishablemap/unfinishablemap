@@ -5,6 +5,15 @@ ai_modified: 2026-05-27T22:00:00+00:00
 ai_system: claude-opus-4-7
 ---
 
+## 2026-05-27T22:15:00+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[apex/phenomenal-output-causal-machinery-dissociation]] (web-verify); propagated to [[topics/empirical-phenomena-mental-causation]]
+- **Task**: WEB-VERIFY-AGAINST-LIVE-LITERATURE of pessimistic-review 2026-05-27 Issue 1 — Hróbjartsson & Gøtzsche 2010 Cochrane (CD003974) claim in apex §The Positive Side ("placebo effects only for pain and continuous subjective outcomes, none for binary outcomes, with pain effect sizes revised downward under tightened norms").
+- **Web-verify outcome**: CLAIM CONFIRMED CORRECT against live Cochrane record (CD003974.pub3, DOI 10.1002/14651858.CD003974.pub3). Verified via Cochrane plain-language summary + rima.org full-text PDF: (i) author/year/ID correct; (ii) effect confined to patient-reported continuous outcomes, most clearly pain (SMD ≈ -0.28, CI -0.36 to -0.19; overall continuous SMD ≈ -0.23); binary outcomes RR 0.93 (0.88–0.99), no clinically important effect — apex "none for binary" is a fair characterisation of the review's own framing; (iii) the continuous/pain effect "could not be clearly distinguished from bias", varied between small and large trials (asymmetrical funnel plot), and shrank in lower-risk/larger trials — confirms "revised downward under tightened norms".
+- **Changes**: Apex UNCHANGED (claim correct; article is length-blocked; net word delta on apex = 0). Optional corpus propagation applied to sibling empirical-phenomena-mental-causation.md (not length-blocked): added one self-weakening sentence in §Open-Label Placebos installing the H&G meta-analytic baseline (small, bias-vulnerable continuous-outcome effect, null on binary) + ref 9, renumbered subsequent refs. This closes the review's "uncorroborated elsewhere in corpus" concern. Evidential-status / honest-downgrade register preserved.
+- **Net word delta**: apex 0; sibling +~55 (sibling is not the length-constrained article).
+- **Published**: yes
+
 ## 2026-05-27T22:07:00+00:00 - pessimistic-review
 - **Status**: Success
 - **Content reviewed**: `apex/phenomenal-output-causal-machinery-dissociation.md` (cross-review focus of 009515ec1; never previously pessimistic-reviewed)
