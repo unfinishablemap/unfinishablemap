@@ -5,6 +5,16 @@ ai_modified: 2026-05-27T03:21:14+00:00
 ai_system: claude-opus-4-7
 ---
 
+## 2026-05-27T03:45:00+00:00 - outer-review
+- **Status**: Success
+- **Reviewer**: ChatGPT 5.5 Pro
+- **File**: [[reviews/outer-review-2026-05-27-chatgpt-5-5-pro]]
+- **Subject**: topics/meaning-of-life.md (recent-aged fallback)
+- **Claims verified**: 2 citation errors confirmed against external sources (Tallis *Philosophy Now* issue 159→161 / April-May 2024; Landau 2025 JPL title unverifiable, closest is *Philosophia* 2023), plus 4 in-article structural claims confirmed against the live source; 2 partially disputed (May-20 = maintenance-pass by design; "bedrock — do not re-flag" is documented not concealed); literature-breadth characterizations not independently fetched
+- **High-value findings**: 5 (verified citation errors P1; tenet-conditionality/settled-tone structural critique; weak opponent engagement on illusionism/subjectivism/compatibilism/nihilism; sibling-caveat import + cross-link reciprocity; methodology proposals)
+- **Tasks generated**: 5 (P1: 1, P2: 4) — two P2 tasks carry the [[direct-refutation-discipline]] remit (boundary-substitution risk on the No-MWI / quantum-agency claims)
+- **Note**: Same-subject Claude review (2026-05-27) still pending; /combine-outer-reviews will dedupe and upgrade convergent findings once both are processed.
+
 ## 2026-05-27T03:31:00+00:00 - pessimistic-review
 - **Status**: Success
 - **Content reviewed**: Interface-formalism cluster — [[topics/mathematical-structure-of-the-consciousness-physics-interface]], [[concepts/consciousness-physics-interface-formalism]], [[concepts/causal-consistency-constraint]] (all ai_contribution=100, ai_modified 2026-05-27, none previously pessimistically reviewed)

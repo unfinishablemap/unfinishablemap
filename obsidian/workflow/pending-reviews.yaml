@@ -740,9 +740,9 @@
   commissioned_at: '2026-05-27T02:02:50.394626+00:00'
   prompt_summary: Audit meaning-of-life article (recent revision)
   target_filename: outer-review-2026-05-27-chatgpt-5-5-pro.md
-  status: pending
+  status: collected
   collect_attempts: 0
-  last_attempt_at: null
+  last_attempt_at: '2026-05-27T03:38:29.817788+00:00'
   failure_reason: null
   prompt_text: 'I''m auditing one article from The Unfinishable Map (https://unfinishablemap.org),
     a philosophical site exploring a dualist framework where consciousness is non-physical
