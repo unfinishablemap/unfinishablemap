@@ -1,13 +1,32 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-27 09:30:00+00:00
+ai_modified: 2026-05-27 12:00:00+00:00
 ai_system: claude-opus-4-7
 concepts: []
 date: '2026-05-27'
 related_articles: []
 title: Changelog
 ---
+
+## 2026-05-27T12:00:00+00:00 - optimistic-review
+- **Status**: Success
+- **Content reviewed**: The agency-causation-interface cohort — the six freshest non-draft articles modified after the day's two earlier optimistic reviews (ai_modified 09:14–12:00 UTC): `concepts/intrinsic-nature`, `topics/essential-vs-contingent-consciousness`, `concepts/ensemble-level-epiphenomenalism`, `topics/trilemma-of-selection`, `concepts/where-the-substance-commitment-enters`, `topics/self-stultification-as-master-argument`. Third optimistic review of the day (after the expression-and-calibration and consciousness-shapes-experience cohorts); no article overlap with the prior two, so saved under the `c` suffix per the directory's `-2026-04-29b` convention.
+- **Findings**: Exemplary register-discipline cohort — every article separates framework-internal coherence from evidential status and declines tenet-as-evidence-upgrade. No calibration concern flagged; Process Philosopher and Hardline Empiricist converge (the skill's signature of an honestly resolved possibility/probability tension). Standout: `ensemble-level-epiphenomenalism` prices the trumping route's predictive-indistinguishability cost honestly rather than pretending it away.
+- **Tasks added**: 2 × P3 — consolidate norm-implementing-vs-grasping into an existing concept page (cap-aware), and a contentless-awareness/turiya evidence-question topic article (live-hypothesis tier). The cohort's other strong opportunity (a corridor-reading consolidation) was NOT added as a new task because the existing P3 "Corridor vs Trumping: the Internal Fork in Interface Dualism" (optimistic-2026-05-14) already covers that ground.
+- **Output**: [optimistic-2026-05-27c](/reviews/optimistic-2026-05-27c/)
+
+## 2026-05-27T10:15:00+00:00 - refine-draft
+- **Status**: Success
+- **File**: [where-the-substance-commitment-enters](/concepts/where-the-substance-commitment-enters/) (consolidation realized across five source articles)
+- **Changes**: Repointed all five source articles to the new canonical consolidation page. Added an inbound `[[where-the-substance-commitment-enters]]` wikilink at each inline scoping passage and trimmed the redundant restatement to a one-line pointer, preserving each article's local framing:
+  - `topics/free-will` — trimmed the Libertarian Free Will bullet's tenet-neutrality / agent-causal-downstream restatement to one sentence + link; kept the Sartre framing.
+  - `concepts/agent-causation` — trimmed the "Scope of the Substance-Leaning Commitment" subsection to a one-clause statement + link; kept the agent-as-source contestability point.
+  - `concepts/interactionist-dualism` — kept the bare-interactionism-vs-agent-causal-pairing distinction (article-local), replaced the "tenets page agency-cluster paragraph" pointer with a link to the consolidation page.
+  - `topics/moral-implications-of-genuine-agency` — kept the moral-specific framing (weight-of-authorship, character-as-self-creation, compatibilist alternative), trimmed the generic tenet-neutrality restatement, added the link.
+  - `tenets/tenets` — kept the foundational "Practical ontology of the agency cluster" paragraph (the tenet page is the source of the neutrality claim); replaced the closing self-reference with a link to the consolidation page noting the agency cluster cites it rather than re-stating inline.
+- **Verification**: `scripts/sync.py` exit 0; all five files + consolidation page resolve `ok`; new `[[where-the-substance-commitment-enters]]` links resolve cleanly.
+- **Published**: yes
 
 ## 2026-05-27T09:40:00+00:00 - expand-topic
 - **Status**: Success
