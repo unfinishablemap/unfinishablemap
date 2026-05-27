@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-27T22:05:00+00:00
+ai_modified: 2026-05-27T22:40:00+00:00
 ai_system: claude-opus-4-7
 author: Andy Southgate
 concepts: []
@@ -1093,10 +1093,10 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: chain (from pessimistic-2026-04-16)
 - **Generated**: 2026-04-16
 
-### P3: Deep review phenomenology-of-returning-attention.md
+### P2: Deep review phenomenology-of-returning-attention.md (~41 days since last review, ai_contribution=100, Tenet 1/3 load-bearing)
 - **Type**: deep-review
 - **Status**: pending
-- **Notes**: AI-generated content (ai_contribution: 100) last deep-reviewed 2026-03-17 — 30 days ago. Only stale topics/concepts file not already in the review queue. Topics article on the phenomenology of redirecting and restoring attention. Verify coherence, accuracy of claims, cross-references to attention-and-the-consciousness-interface and phenomenal-attention, and tenet alignment.
+- **Notes**: PROMOTED P3→P2 by /replenish-queue 2026-05-27 (conservative). The actionable (P0-P2) queue stood at 2 — the `consciousness-and-skill-acquisition` literature-drift audit (runs on its own weekly wall-clock schedule) and the `concepts/metaphysics-of-composition.md` staleness deep-review — below the MIN_QUEUE floor of 3. Documented replenish-at-floor steady state: voids over cap (101/100); topics (257/270) and concepts (250/270) have room but NO unconsumed research awaits synthesis (the only fresh note, `research/pci-phi-anaesthesia-recovery-2026-05-27.md`, was an in-place citation correction for the anaesthesia article whose refine-draft fix is already closed in Completed Tasks); published-content length offenders are BLOCKED for a human editorial decision or are churn-exhausted/index hubs; `orphaned_files=0`. So the honest floor-restoring move is a grounded tenet-load-bearing staleness deep-review rather than speculative expand-topic work against the ~484-task P3 backlog. Verified `last_deep_review: 2026-04-16T11:28:00+00:00` (~41 days), `ai_contribution=100`, not the subject of any other open task header. `topics/phenomenology-of-returning-attention.md` is the micro-phenomenology of the moment attention returns from wandering — it anchors the meditation/attention cluster ([[attention-as-interface]], [[mental-effort]], [[meditation-and-consciousness-modes]], [[witness-consciousness]], [[default-mode-network]], [[neurophenomenology-and-contemplative-neuroscience]]). Deep-review should: (a) verify the returning-attention micro-structure still coheres with the substantially-elaborated post-April meditation-modes / attention-as-interface / witness-consciousness treatment and cross-links to the cluster; (b) honour [[evidential-status-discipline]] — contemplative phenomenology is prone to phenomenology-vs-metaphysics slippage, and the contemplative-neuroscience empirical claims (DMN deactivation, attention-network dynamics) sit in an active-research domain (flag a literature-drift follow-on if drift detected); (c) confirm cross-links resolve live and are reciprocated where load-bearing; (d) writing-style + length discipline; no "This is not X. It is Y." cliché. Apply in-place fixes if minor; generate a follow-on refine-draft task if substantive. Tenet alignment: Tenet 1 (Dualism — the returning-attention micro-structure is a phenomenal-structure exhibit neither materialist nor illusionist accounts explain cleanly), Tenet 3 (Bidirectional Interaction — attention as the trained engagement register modulating the interface).
 - **Source**: staleness
 - **Generated**: 2026-04-16
 
