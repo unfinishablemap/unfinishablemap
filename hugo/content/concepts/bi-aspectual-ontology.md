@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-15
-ai_modified: 2026-04-15 21:41:00+00:00
+ai_modified: 2026-05-27 03:21:14+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -23,7 +23,7 @@ description: Reality has two irreducible aspects — structure (physics) and act
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-04-15 21:41:00+00:00
+last_deep_review: 2026-05-27 03:21:14+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -95,7 +95,7 @@ The Map parts company at the crucial juncture. If consciousness simply *is* the 
 
 The Map holds instead that consciousness is ontologically distinct from physical structure and interacts with it at quantum indeterminacies. Physics is structurally complete but *ontologically incomplete* — it describes all structure but not all of reality. Consciousness is the missing ontology, not the missing intrinsic nature of the ontology physics already describes.
 
-As Pautz (2017) and Cutter (2020) have argued, Russellian monism faces instability: it requires the same brute linking principles as dualism (connecting quiddities to consciousness) while claiming the parsimony advantage of monism. If the explanatory costs are the same, the monist label buys less than it appears to. The programme has further fragmented into incompatible variants — panpsychist, cosmopsychist, physicalist, dual-aspect — that share only the structuralist premise while disagreeing on everything it was meant to settle (see [russellian-monism-versus-bi-aspectual-dualism](/topics/russellian-monism-versus-bi-aspectual-dualism/) for the full comparison).
+As Pautz (2017) and Cutter (2019) have argued, Russellian monism faces instability: it requires the same brute linking principles as dualism (connecting quiddities to consciousness) while claiming the parsimony advantage of monism. If the explanatory costs are the same, the monist label buys less than it appears to. The programme has further fragmented into incompatible variants — panpsychist, cosmopsychist, physicalist, dual-aspect — that share only the structuralist premise while disagreeing on everything it was meant to settle (see [russellian-monism-versus-bi-aspectual-dualism](/topics/russellian-monism-versus-bi-aspectual-dualism/) for the full comparison).
 
 ## Distinguished from Substance Dualism
 
@@ -165,8 +165,8 @@ Bi-aspectual ontology is the Map's foundational metaphysical picture, connecting
 3. Chalmers, D.J. (1996). *The Conscious Mind: In Search of a Fundamental Theory*. Oxford University Press.
 4. Atmanspacher, H. & Rickles, D. (2022). *Dual-Aspect Monism and the Deep Structure of Meaning*. Routledge.
 5. Velmans, M. (2009). Reflexive Monism. *Journal of Consciousness Studies*, 16(2-3), 209-236.
-6. Pautz, A. (2017). The Significance Problem. In T. Alter & Y. Nagasawa (Eds.), *Russellian Monism*. Oxford University Press.
-7. Cutter, B. (2020). The Instability of Russellian Monism. *Philosophical Perspectives*, 34, 28-53.
+6. Pautz, A. (2017). How is constitutive Russellian monism (or panpsychism) better than dualism? In T. Alter & Y. Nagasawa (Eds.), *Russellian Monism*. Oxford University Press.
+7. Cutter, B. (2019). Against the Middle Ground: Why Russellian Monism Is Unstable. *Analytic Philosophy*, 60(2), 109-130.
 8. Le Bihan, B. (2019). Aspects in Dual-Aspect Monism and Panpsychism: A Rejoinder to Benovsky. *Philosophical Investigations*, 42(2).
 9. Gleason, A.M. (1957). Measures on the Closed Subspaces of a Hilbert Space. *Journal of Mathematics and Mechanics*, 6(6), 885-893.
 10. Zheng, J. & Meister, M. (2025). The Unbearable Slowness of Being: Why do we live at 10 bits/s? *Neuron*, 113(2), 192-204.

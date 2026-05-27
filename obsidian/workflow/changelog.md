@@ -1,11 +1,22 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-27T03:44:06+00:00
+ai_modified: 2026-05-27T03:49:13+00:00
 ai_system: claude-opus-4-7
 ---
 
-## 2026-05-27T03:44:06+00:00 - refine-draft
+## 2026-05-27T03:49:13+00:00 - refine-draft
+- **Status**: Success
+- **Files**: [[concepts/theory-of-mind]], [[concepts/default-mode-network]], [[topics/social-construction-of-self-vs-phenomenal-self]], [[concepts/phenomenal-transparency-opacity-spectrum]], [[topics/consciousness-as-perceptual-architect]]
+- **Task**: Multi-pair reciprocal cross-link install for the self-model/perceptual-construction cohort ([[reviews/optimistic-2026-05-26g]]). Surgical: reciprocal `related_articles`/`concepts` frontmatter + Further Reading entries + pointer sentences only where existing prose already invoked the target. No bodies rewritten; no evidential tiers upgraded (honoured [[evidential-status-discipline]]).
+- **Changes**:
+  - **(a) theory-of-mind ↔ default-mode-network** (both directions; highest-value near-omission): ToM §"Neural Correlates" already named the DMN overlap — linked it and noted the shared self-other/metarepresentation substrate; added DMN to concepts + Further Reading. Reciprocal: DMN §"The Default State" already listed "theory of mind" as a function — linked it (mPFC/TPJ substrate note); added ToM to concepts + Further Reading.
+  - **(b) social-construction ↔ phenomenal-transparency-opacity-spectrum** (both directions): social-construction's Metzinger transparent-self-model passage now links the spectrum and points to the depersonalisation opacity case; reinforced the persistence-through-dissolution paragraph with the same case. Reciprocal: spectrum's depersonalisation/mine-ness passage now ties the self-model-opacity case to the social-construction debate as persistence evidence.
+  - **(c) consciousness-as-perceptual-architect ↔ phenomenal-transparency-opacity-spectrum** (both directions): perceptual-architect's painter's-squint constancy-breaking now framed as a controlled transparency→opacity shift linking the spectrum. Reciprocal: added an "Attentional restructuring" opacity-route paragraph to the spectrum (everyday voluntary counterpart to the contemplative route), linking perceptual-architect.
+  - **(d) consciousness-as-perceptual-architect → default-mode-network** (one direction per brief): perceptual-ratchet section now ties meditator DMN structural plasticity to the ratchet as the same attention-gated downward-causation-across-developmental-timescales claim from the self-narrative side.
+- **Verification**: all six link targets exist by slug; pair (d) intentionally one-directional (arrow, not pair) so no reciprocal added in DMN.
+- **Published**: yes
+
 - **Status**: Success
 - **Files**: [[topics/mathematical-structure-of-the-consciousness-physics-interface]], [[concepts/consciousness-physics-interface-formalism]], [[concepts/causal-consistency-constraint]]
 - **Task**: Multi-file citation reconciliation (Issues 1, 2, 4 of [[reviews/pessimistic-2026-05-27-interface-formalism-cluster]]). Citation hygiene only; no argument structure touched.

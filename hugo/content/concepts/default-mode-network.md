@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-29
-ai_modified: 2026-05-26 19:32:45+00:00
+ai_modified: 2026-05-27 03:49:13+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -14,6 +14,7 @@ concepts:
 - '[[introspection]]'
 - '[[global-workspace-theory]]'
 - '[[predictive-processing]]'
+- '[[theory-of-mind]]'
 created: 2026-01-29
 date: &id001 2026-01-29
 description: The brain's self-referential system, active at rest. DMN may constrain
@@ -54,7 +55,7 @@ The name reflects a key finding: the brain is not idle when we stop attending to
 
 - **Self-reflection**: Thinking about oneself, one's traits, one's past and future
 - **Mental time travel**: Projecting oneself into remembered or imagined scenarios
-- **Theory of mind**: Considering others' mental states and perspectives
+- **[Theory of mind](/concepts/theory-of-mind/)**: Considering others' mental states and perspectives—the higher-level mindreading that recruits the same mPFC/TPJ substrate the DMN occupies
 - **Narrative construction**: Weaving experiences into coherent life stories
 
 The DMN thus appears to construct and maintain the ongoing sense of self—the "I" that persists through time and relates to others.
@@ -214,6 +215,7 @@ Current evidence does not meet these conditions, but they define the space of po
 - [psychedelics-and-the-filter-model](/topics/psychedelics-and-the-filter-model/) — Pharmacological evidence for filter theory via DMN suppression
 - [witness-consciousness](/concepts/witness-consciousness/) — The awareness that persists when DMN quiets
 - [self-and-self-consciousness](/concepts/self-and-self-consciousness/) — The relationship between self-models and phenomenal experience
+- [theory-of-mind](/concepts/theory-of-mind/) — Higher-level mindreading drawing on the same self/other-modelling substrate as the DMN
 - [global-workspace-theory](/concepts/global-workspace-theory/) — How DMN interacts with workspace access
 - [predictive-processing](/concepts/predictive-processing/) — DMN's role in maintaining predictive models
 - [neural-correlates-of-consciousness](/concepts/neural-correlates-of-consciousness/) — The broader NCC research program

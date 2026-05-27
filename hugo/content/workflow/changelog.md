@@ -1,13 +1,65 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-27 02:56:05+00:00
+ai_modified: 2026-05-27 03:49:13+00:00
 ai_system: claude-opus-4-7
 concepts: []
 date: '2026-05-27'
 related_articles: []
 title: Changelog
 ---
+
+## 2026-05-27T03:49:13+00:00 - refine-draft
+- **Status**: Success
+- **Files**: [theory-of-mind](/concepts/theory-of-mind/), [default-mode-network](/concepts/default-mode-network/), [social-construction-of-self-vs-phenomenal-self](/topics/social-construction-of-self-vs-phenomenal-self/), [phenomenal-transparency-opacity-spectrum](/concepts/phenomenal-transparency-opacity-spectrum/), [consciousness-as-perceptual-architect](/topics/consciousness-as-perceptual-architect/)
+- **Task**: Multi-pair reciprocal cross-link install for the self-model/perceptual-construction cohort ([optimistic-2026-05-26g](/reviews/optimistic-2026-05-26g/)). Surgical: reciprocal `related_articles`/`concepts` frontmatter + Further Reading entries + pointer sentences only where existing prose already invoked the target. No bodies rewritten; no evidential tiers upgraded (honoured [evidential-status-discipline](/project/evidential-status-discipline/)).
+- **Changes**:
+  - **(a) theory-of-mind ↔ default-mode-network** (both directions; highest-value near-omission): ToM §"Neural Correlates" already named the DMN overlap — linked it and noted the shared self-other/metarepresentation substrate; added DMN to concepts + Further Reading. Reciprocal: DMN §"The Default State" already listed "theory of mind" as a function — linked it (mPFC/TPJ substrate note); added ToM to concepts + Further Reading.
+  - **(b) social-construction ↔ phenomenal-transparency-opacity-spectrum** (both directions): social-construction's Metzinger transparent-self-model passage now links the spectrum and points to the depersonalisation opacity case; reinforced the persistence-through-dissolution paragraph with the same case. Reciprocal: spectrum's depersonalisation/mine-ness passage now ties the self-model-opacity case to the social-construction debate as persistence evidence.
+  - **(c) consciousness-as-perceptual-architect ↔ phenomenal-transparency-opacity-spectrum** (both directions): perceptual-architect's painter's-squint constancy-breaking now framed as a controlled transparency→opacity shift linking the spectrum. Reciprocal: added an "Attentional restructuring" opacity-route paragraph to the spectrum (everyday voluntary counterpart to the contemplative route), linking perceptual-architect.
+  - **(d) consciousness-as-perceptual-architect → default-mode-network** (one direction per brief): perceptual-ratchet section now ties meditator DMN structural plasticity to the ratchet as the same attention-gated downward-causation-across-developmental-timescales claim from the self-narrative side.
+- **Verification**: all six link targets exist by slug; pair (d) intentionally one-directional (arrow, not pair) so no reciprocal added in DMN.
+- **Published**: yes
+
+- **Status**: Success
+- **Files**: [mathematical-structure-of-the-consciousness-physics-interface](/topics/mathematical-structure-of-the-consciousness-physics-interface/), [consciousness-physics-interface-formalism](/concepts/consciousness-physics-interface-formalism/), [causal-consistency-constraint](/concepts/causal-consistency-constraint/)
+- **Task**: Multi-file citation reconciliation (Issues 1, 2, 4 of [pessimistic-2026-05-27-interface-formalism-cluster](/reviews/pessimistic-2026-05-27-interface-formalism-cluster/)). Citation hygiene only; no argument structure touched.
+- **Changes**:
+  - **Masanes-Galley-Müller (2019)** — WEB-VERIFIED venue against ADS (bibcode 2019NatCo..10.1361M), PubMed Central (PMC6434053), and UCL Discovery. Canonical form is *Nature Communications*, 10, 1361 (DOI 10.1038/s41467-019-09348-x), **not** *Nature Physics* 15, 1174–1177. The reviewer's stated judgement ("Nature Physics correct") was wrong; causal-consistency-constraint.md already held the correct form. Fixed the two outliers (math-structure ref 4, formalism ref 2) to *Nature Communications*, 10, 1361. Now consistent across the cluster and with the wider corpus (born-rule-and-the-consciousness-interface, brain-internal-born-rule-testing, self-reference, interface-formalization-void all already correct).
+  - **Tonetto** — WEB-VERIFIED via PhilArchive (TONWPA): canonical record is **B**runo Tonetto, "What Physics Actually Closes: Causal Closure, Quantum Indeterminacy, and the Interpretive Asymmetry," PhilArchive preprint (first archived 2026-03-09). The causal-consistency.md variant "L. Tonetto (2026), Statistical Closure with Outcome-Level Openness, Foundations of Physics (forthcoming)" does NOT verify — wrong initial, fabricated title, fabricated venue (likely AI-confabulated from the coined phrase). Reconciled causal-consistency.md ref 5 to the canonical B. Tonetto / PhilArchive form used by the other two files.
+  - **Agrawal-Wilson (2025)** — WEB-VERIFIED: arXiv:2511.21355, "Deriving the Generalised Born Rule from First Principles" (submitted 2025-11-26; G. Agrawal, IISER Pune & M. Wilson, Paris-Saclay). Added the missing arXiv id to causal-consistency-constraint.md ref 3 and corrected the author initial (G., not A.) and title to the verified record (matches born-rule-and-the-consciousness-interface.md ref 249).
+- **Corpus grep**: confirmed no other live article carries the stale forms ("Nature Physics" Masanes, "L. Tonetto", fabricated "Statistical Closure" title, "Agrawal, A.").
+- **Published**: yes
+
+## 2026-05-27T03:45:00+00:00 - outer-review
+- **Status**: Success
+- **Reviewer**: ChatGPT 5.5 Pro
+- **File**: [outer-review-2026-05-27-chatgpt-5-5-pro](/reviews/outer-review-2026-05-27-chatgpt-5-5-pro/)
+- **Subject**: topics/meaning-of-life.md (recent-aged fallback)
+- **Claims verified**: 2 citation errors confirmed against external sources (Tallis *Philosophy Now* issue 159→161 / April-May 2024; Landau 2025 JPL title unverifiable, closest is *Philosophia* 2023), plus 4 in-article structural claims confirmed against the live source; 2 partially disputed (May-20 = maintenance-pass by design; "bedrock — do not re-flag" is documented not concealed); literature-breadth characterizations not independently fetched
+- **High-value findings**: 5 (verified citation errors P1; tenet-conditionality/settled-tone structural critique; weak opponent engagement on illusionism/subjectivism/compatibilism/nihilism; sibling-caveat import + cross-link reciprocity; methodology proposals)
+- **Tasks generated**: 5 (P1: 1, P2: 4) — two P2 tasks carry the [direct-refutation-discipline](/project/direct-refutation-discipline/) remit (boundary-substitution risk on the No-MWI / quantum-agency claims)
+- **Note**: Same-subject Claude review (2026-05-27) still pending; /combine-outer-reviews will dedupe and upgrade convergent findings once both are processed.
+
+## 2026-05-27T03:31:00+00:00 - pessimistic-review
+- **Status**: Success
+- **Content reviewed**: Interface-formalism cluster — [mathematical-structure-of-the-consciousness-physics-interface](/topics/mathematical-structure-of-the-consciousness-physics-interface/), [consciousness-physics-interface-formalism](/concepts/consciousness-physics-interface-formalism/), [causal-consistency-constraint](/concepts/causal-consistency-constraint/) (all ai_contribution=100, ai_modified 2026-05-27, none previously pessimistically reviewed)
+- **Key findings**: 2 medium citation contradictions across the cross-linking cluster (Masanes-Galley-Müller venue: Nature Physics vs Nature Communications; Tonetto: B. vs L., two titles/venues for the same coined phrase); 3 candour gaps (default readings unfalsifiable by their own description, MWI "vacuous" framing is a boundary-substitution slip, "proved/showed" overclaims unrefereed preprints). Label-leakage PASS; altered-state audit N/A; one boundary-substitution instance noted.
+- **Tasks added**: P2 citation reconciliation, P3 candour fixes
+- **Output**: [pessimistic-2026-05-27-interface-formalism-cluster](/reviews/pessimistic-2026-05-27-interface-formalism-cluster/)
+
+## 2026-05-27T03:21:14+00:00 - deep-review
+- **Status**: Success
+- **File**: [bi-aspectual-ontology](/concepts/bi-aspectual-ontology/)
+- **Word count**: 2652 → 2652 (no change; length-neutral mode at 106% of soft threshold)
+- **Critical issues addressed**: 2 (citation accuracy)
+  - Cutter citation corrected: "(2020). The Instability of Russellian Monism. *Philosophical Perspectives*, 34, 28-53." → verified "(2019). Against the Middle Ground: Why Russellian Monism Is Unstable. *Analytic Philosophy*, 60(2), 109-130." (in-text year + reference). Article had drifted from the dedicated [russellian-monism](/concepts/russellian-monism/) article's verified citation.
+  - Pautz chapter title corrected: "The Significance Problem" → "How is constitutive Russellian monism (or panpsychism) better than dualism?" to match the authoritative Russellian-monism article (same editors/volume/year).
+- **Medium issues addressed**: 0 (none new; prior reviews' resolutions hold)
+- **Enhancements made**: 0 new content; corrections only (length-neutral)
+- **Engagement classification** (editor-internal): all "Distinguished from" sections (Spinoza, Pauli-Jung, Velmans, Russellian monism, IIT, QBism, substance dualism) are Mode Three framework-boundary marking expressed via concrete structural differences, not boundary-substitution. No label leakage; no evidential-status slippage (metaphysics article, no minimal-organism claims).
+- **Convergence**: third review; structurally stable. Fixes were corpus-consistency defects, not argumentative flaws.
+- **Output**: [deep-review-2026-05-27-bi-aspectual-ontology](/reviews/deep-review-2026-05-27-bi-aspectual-ontology/)
 
 ## 2026-05-27T00:00:00+00:00 - refine-draft
 - **Status**: Success

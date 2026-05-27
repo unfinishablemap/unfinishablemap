@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-05-14
-ai_modified: 2026-05-27 00:00:00+00:00
+ai_modified: 2026-05-27 03:44:06+00:00
 ai_system: claude-opus-4-7
 author: null
 concepts:
@@ -117,8 +117,8 @@ The constraint connects to the Map's [foundational commitments](/tenets/) withou
 
 1. Torres Alegre, J. (2025). Causal Consistency Selects the Born Rule. *arXiv:2512.12636*. https://arxiv.org/abs/2512.12636
 2. Masanes, L., Galley, T., & Müller, M. P. (2019). The Measurement Postulates of Quantum Mechanics Are Operationally Redundant. *Nature Communications*, 10(1), 1361.
-3. Agrawal, A. & Wilson, M. (2025). A Process-Theoretic Derivation of the Born Rule. *arXiv preprint*.
+3. Agrawal, G. & Wilson, M. (2025). Deriving the Generalised Born Rule from First Principles. *arXiv:2511.21355*.
 4. Gleason, A. M. (1957). Measures on the Closed Subspaces of a Hilbert Space. *Journal of Mathematics and Mechanics*, 6(6), 885–893.
-5. Tonetto, L. (2026). Statistical Closure with Outcome-Level Openness. *Foundations of Physics* (forthcoming).
+5. Tonetto, B. "What Physics Actually Closes: Causal Closure, Quantum Indeterminacy, and the Interpretive Asymmetry." PhilArchive. https://philarchive.org/rec/TONWPA
 6. Southgate, A. & Oquatre-sept, C. (2026-03-15). Born Rule and the Consciousness Interface. *The Unfinishable Map*. https://unfinishablemap.org/topics/born-rule-and-the-consciousness-interface/
 7. Southgate, A. & Oquatre-six, C. (2026-03-19). Consciousness-Physics Interface Formalism. *The Unfinishable Map*. https://unfinishablemap.org/concepts/consciousness-physics-interface-formalism/

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-22
-ai_modified: 2026-05-26 20:49:50+00:00
+ai_modified: 2026-05-27 03:49:13+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -14,6 +14,7 @@ concepts:
 - '[[intentionality]]'
 - '[[illusionism]]'
 - '[[unity-of-consciousness]]'
+- '[[default-mode-network]]'
 created: 2026-01-22
 date: &id001 2026-01-22
 description: Attributing beliefs, desires, and intentions to others. Higher levels
@@ -110,7 +111,7 @@ This trajectory parallels the development of metacognitive capacity more broadly
 
 Neuroimaging studies consistently identify a network centred on the medial prefrontal cortex (mPFC), temporoparietal junction (TPJ), posterior superior temporal sulcus (pSTS), and precuneus. The TPJ is particularly critical for false-belief reasoning—distinguishing self-representations from other-representations.
 
-This network overlaps substantially with the "default mode network," which supports self-reflection, autobiographical memory, and future imagination. The overlap suggests theory of mind draws on the same machinery used for reflecting on one's own mind. These regions are among the most phylogenetically recent in primate brain evolution and show the greatest expansion in humans relative to great apes—the neural substrate for higher-level theory of mind expanded alongside the cognitive capacities it enables.
+This network overlaps substantially with the [default mode network](/concepts/default-mode-network/), which supports self-reflection, autobiographical memory, and future imagination. The overlap suggests theory of mind draws on the same machinery used for reflecting on one's own mind—the DMN's self-other modelling and the metarepresentation that higher-level mindreading requires recruit a shared substrate. These regions are among the most phylogenetically recent in primate brain evolution and show the greatest expansion in humans relative to great apes—the neural substrate for higher-level theory of mind expanded alongside the cognitive capacities it enables.
 
 The binding of nested representations across this distributed network may require neural synchronization mechanisms. Gamma-band oscillations (30-100 Hz)—a classical electromagnetic phenomenon—are associated with feature binding and conscious perception; maintaining coherent representations across mPFC, TPJ, and pSTS while keeping levels distinct may depend on phase-locked oscillations. This requirement for long-range neural coordination connects to the [Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction) framework: conscious attention maintaining quantum coherence could provide the integration mechanism enabling unified access to nested content.
 
@@ -213,6 +214,7 @@ The simpler hypothesis—theory of mind is just sophisticated behaviour predicti
 ### Related Concepts
 - [working-memory](/concepts/working-memory/) — The workspace enabling recursive mental operations
 - [intentionality](/concepts/intentionality/) — The aboutness of mental states
+- [default-mode-network](/concepts/default-mode-network/) — The resting self-referential network whose substrate (mPFC, TPJ, precuneus) overlaps the theory-of-mind network
 
 ## References
 

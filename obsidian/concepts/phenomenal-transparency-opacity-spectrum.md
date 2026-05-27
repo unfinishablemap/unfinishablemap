@@ -4,7 +4,7 @@ description: "Experience normally conceals itself as representation (transparenc
 created: 2026-02-09
 modified: 2026-04-13
 human_modified:
-ai_modified: 2026-05-26T00:00:00+00:00
+ai_modified: 2026-05-27T03:49:13+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -31,6 +31,8 @@ related_articles:
   - "[[higher-order-theories]]"
   - "[[the-observer-witness-in-meditation]]"
   - "[[mine-ness]]"
+  - "[[social-construction-of-self-vs-phenomenal-self]]"
+  - "[[consciousness-as-perceptual-architect]]"
 ai_contribution: 100
 author:
 ai_system: claude-opus-4-6
@@ -82,9 +84,11 @@ Opacity arises through several distinct mechanisms, each revealing different asp
 
 **Degraded signal.** Remove your glasses and the world blurs. The blur has its own phenomenal character — softness, haziness — that belongs to the representational medium, not to any external object. The less faithfully experience tracks the external world, the more visible the interface becomes. The [[perceptual-failure-and-the-interface|blur paradox]] develops this: blur is transparency shattering, with the representational medium becoming the most salient feature of experience. This is among the most systematic routes to opacity: reduced signal quality forces the representational machinery into view.
 
-**Processing disruption.** Depersonalisation disorder involves opacity of the self-model. Patients experience themselves as unreal, as watching their actions from outside. They maintain insight — they know they are themselves — while experiencing profound alienation. The self-model that normally presents transparently — as *being* oneself — becomes visible as a model. The result is typically distressing, not enlightening, which suggests that transparency serves a functional role and that opacity is not inherently epistemically valuable. The [[necessary-opacity]] article explores why the self-model's invisibility may be necessary for coherent experience. The for-me character of experience — [[mine-ness]] — is normally so transparent that subjects do not notice it at all; depersonalisation makes it opaque without obliterating it, one of the spectrum's cleanest cases of a feature noticed only by its near-absence.
+**Processing disruption.** Depersonalisation disorder involves opacity of the self-model. Patients experience themselves as unreal, as watching their actions from outside. They maintain insight — they know they are themselves — while experiencing profound alienation. The self-model that normally presents transparently — as *being* oneself — becomes visible as a model. The result is typically distressing, not enlightening, which suggests that transparency serves a functional role and that opacity is not inherently epistemically valuable. The [[necessary-opacity]] article explores why the self-model's invisibility may be necessary for coherent experience. The for-me character of experience — [[mine-ness]] — is normally so transparent that subjects do not notice it at all; depersonalisation makes it opaque without obliterating it, one of the spectrum's cleanest cases of a feature noticed only by its near-absence. This case bears directly on the [[social-construction-of-self-vs-phenomenal-self|social-construction debate]]: the self-model turns opaque while the phenomenal subject to whom the alienation appears persists, evidence that the phenomenal self does not dissolve when the constructed self-image does.
 
 **Chemical intervention.** Psychedelic states weaken transparency across multiple representational layers simultaneously. The normally stable sense of being a continuous self can thin or dissolve entirely; perceptual boundaries between self and world may blur; the constructed character of ordinary experience may become strikingly apparent. These experiences are transient, and the insights they produce rarely survive the return to transparent functioning.
+
+**Attentional restructuring.** Painters learn to "break" perceptual constancy by attending to proximal qualities — squinting at a white wall under candlelight until it yields its actual orange cast. As [[consciousness-as-perceptual-architect|consciousness as perceptual architect]] develops, this is a controlled, voluntary slide toward opacity: the normally transparent stable percept becomes visible as a construction without pathology, pharmacology, or signal loss. It is the everyday counterpart to the contemplative route below.
 
 **Contemplative training.** Advanced [[contemplative-practice-as-philosophical-evidence|meditation practitioners]] report cultivating opacity deliberately. By sustaining attention on the process of perception rather than its content, they describe experiencing perception as constructed rather than given. Metzinger distinguishes this from casual introspection: ordinary attention cannot penetrate transparency, but disciplined phenomenological practice may partially reduce it. Lutz and Thompson (2003) support this with their neurophenomenological programme, which treats trained contemplative reports as legitimate data about experiential structure. The contemplative route is notable because it produces controlled, repeatable opacity rather than the involuntary kind found in pathology or pharmacology.
 
@@ -135,8 +139,10 @@ For the [[simulation|simulation hypothesis]], phenomenal transparency makes the 
 - [[meta-problem-of-consciousness]] — Why we think consciousness is hard to explain, and transparency's role in generating that intuition
 - [[curated-mind]] — How the brain's pervasive curation depends on phenomenal transparency
 - [[perceptual-failure-and-the-interface]] — How perceptual degradation reveals the interface that transparency hides
+- [[consciousness-as-perceptual-architect]] — Constancy-breaking (the painter's squint) as a controlled, voluntary transparency-to-opacity shift
 - [[consciousness-epistemology-extended-cognition]] — Why opacity has no functional analogue in extended systems: notebooks have neither transparent nor opaque phenomenal status
 - [[mine-ness]] — A normally-maximally-transparent feature that pathology and contemplative practice can render opaque
+- [[social-construction-of-self-vs-phenomenal-self]] — Why depersonalisation's self-model opacity is evidence the phenomenal self persists when the socially-constructed self dissolves
 
 ## References
 

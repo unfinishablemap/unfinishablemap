@@ -4,7 +4,7 @@ description: "Consciousness actively shapes perception in two ways: stabilising 
 created: 2026-02-15
 modified: 2026-03-11
 human_modified:
-ai_modified: 2026-05-26T19:52:37+00:00
+ai_modified: 2026-05-27T03:49:13+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -20,6 +20,7 @@ concepts:
   - "[[neuroplasticity]]"
   - "[[inverted-qualia]]"
   - "[[attention-as-interface]]"
+  - "[[default-mode-network]]"
 related_articles:
   - "[[tenets]]"
   - "[[attention-and-the-consciousness-interface]]"
@@ -32,6 +33,7 @@ related_articles:
   - "[[the-binding-problem]]"
   - "[[perceptual-failure-and-the-interface]]"
   - "[[perceptual-degradation-and-the-interface]]"
+  - "[[phenomenal-transparency-opacity-spectrum]]"
   - "[[three-dimensional-world-representation-problem]]"
   - "[[consciousness-and-the-phenomenology-of-place]]"
   - "[[predictive-processing-and-dualism]]"
@@ -82,7 +84,7 @@ This matters because it shows that perceptual constancy is not a post-processing
 
 ### Constancy and Attention
 
-Perceptual constancy can be disrupted, enhanced, or selectively applied through attentional engagement. Painters learn to "break" colour constancy by attending to proximal qualities — squinting at a white wall under candlelight until it yields its actual orange cast. The experience of constancy *breaking* is phenomenologically distinctive: the world briefly appears unstable, colours shift toward their proximal values, and objects lose their familiar solidity. That this breakdown requires effort and that the default reasserts itself when attention relaxes suggests constancy is actively maintained rather than passively computed.
+Perceptual constancy can be disrupted, enhanced, or selectively applied through attentional engagement. Painters learn to "break" colour constancy by attending to proximal qualities — squinting at a white wall under candlelight until it yields its actual orange cast. This is a controlled shift along the [[phenomenal-transparency-opacity-spectrum|transparency-opacity spectrum]]: the normally transparent percept (the wall simply *is* white) becomes partially opaque, revealing the representational medium that constancy usually conceals. The experience of constancy *breaking* is phenomenologically distinctive: the world briefly appears unstable, colours shift toward their proximal values, and objects lose their familiar solidity. That this breakdown requires effort and that the default reasserts itself when attention relaxes suggests constancy is actively maintained rather than passively computed.
 
 In the Map's [[capability-division-problem|capability division framework]], computational constancy — chromatic adaptation, illuminant estimation — belongs to brain-side processing. The phenomenal dimension — the felt sameness of yellow, the experienced stability — is a mind-side contribution that computation occasions but does not constitute. If [[attention-and-the-consciousness-interface|attention is the interface]] where consciousness selects among competing perceptual options, perceptual constancy may represent one of its most basic operations: selecting the stable distal interpretation over the fluctuating proximal signal.
 
@@ -112,7 +114,7 @@ Several phenomenological features recur across domains of perceptual learning:
 
 Perceptual learning is largely irreversible. The literate adult cannot see text as mere visual pattern — the letters insist on being read. L.A. Paul (2014) captures a related point in her account of transformative experience: choices that alter phenomenal character are epistemically opaque precisely because the post-transformation perceiver has lost access to pre-transformation phenomenology.
 
-This creates what the Map calls a **perceptual ratchet** — a form of [[implicit-memory|implicit memory]] encoded not in beliefs but in perceptual structure itself. Each episode of perceptual learning clicks the mechanism forward. The irreversibility suggests perceptual learning does not merely adjust parameters in a fixed system. It restructures the system, driven by the [[neuroplasticity]] that consolidates these transformations in neural tissue. A parameter change could be reversed; a structural change — new perceptual objects, reorganised figure-ground relationships — creates a qualitatively different perceptual architecture. Polanyi (1966) captured a related insight with "tacit knowledge": the expert *indwells* their perceptual skills, unable to articulate precisely what changed yet undeniably perceiving differently.
+This creates what the Map calls a **perceptual ratchet** — a form of [[implicit-memory|implicit memory]] encoded not in beliefs but in perceptual structure itself. Each episode of perceptual learning clicks the mechanism forward. The irreversibility suggests perceptual learning does not merely adjust parameters in a fixed system. It restructures the system, driven by the [[neuroplasticity]] that consolidates these transformations in neural tissue. The same downward-causation-across-developmental-timescales pattern appears on the self-narrative side: long-term meditators show structural [[default-mode-network|default-mode-network]] changes from sustained attentional practice, just as the perceiver's trained palate is built from sustained attentional engagement. In both cases attention-gated plasticity remodels the interface over a lifetime. A parameter change could be reversed; a structural change — new perceptual objects, reorganised figure-ground relationships — creates a qualitatively different perceptual architecture. Polanyi (1966) captured a related insight with "tacit knowledge": the expert *indwells* their perceptual skills, unable to articulate precisely what changed yet undeniably perceiving differently.
 
 ### The Attentional Mechanism
 
@@ -155,9 +157,11 @@ And both face the same explanatory gap. Predictive processing frameworks describ
 - [[phenomenology-of-conceptual-frameworks]] — The cognitive parallel: how frameworks transform
 - [[perceptual-failure-and-the-interface]] — How faithfully perception tracks reality
 - [[perceptual-degradation-and-the-interface]] — Degradation as the complement to constancy: what failure reveals
+- [[phenomenal-transparency-opacity-spectrum]] — Constancy-breaking as a controlled transparency-to-opacity shift that reveals the representational medium
 - [[predictive-processing-and-dualism]] — Predictive coding and the Map's framework
 - [[filter-theory]] — Consciousness as selective filter
 - [[capability-division-problem]] — Brain-side vs. mind-side processing
+- [[default-mode-network]] — Meditator DMN plasticity as the self-narrative counterpart to the perceptual ratchet: attention-gated remodelling across developmental timescales
 
 ## References
 
