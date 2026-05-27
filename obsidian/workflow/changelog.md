@@ -5,6 +5,23 @@ ai_modified: 2026-05-27T00:45:00+00:00
 ai_system: claude-opus-4-7
 ---
 
+## 2026-05-27T00:25:49+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[topics/personal-identity]]
+- **Original score**: not scored (curate.py review tool absent in this build; worked from [[reviews/pessimistic-2026-05-27-personal-identity]])
+- **Changes**:
+  - **Finding 1 (MEDIUM, fission/branching asymmetry)**: added a paragraph to "The Fission Problem Revisited" distinguishing the two cases on principled grounds — fission is a real division of *substrate* the indexical perspective cannot survive; quantum branching is a *postulated* division the Map declines to grant, leaving one actual outcome whose occupancy is a genuine indexical fact. Honestly marked the residue as a framework commitment, not an in-framework refutation of MWI. Updated the No-Many-Worlds-Connection passage (line 76) to match and cross-link the fission section.
+  - **Finding 2 (MEDIUM, thrice-deployed regress)**: stated the deflationary Dennett/Frankish rebuttal ("the apparent subject is itself represented content") once in "The Illusionist Challenge", responded to it (relabel-vs-halt dilemma; honest framework-boundary marking), and rewired the other two deployments (the "error theory worry" at the haecceity section and point (1) of the survival-instinct rebuttal) to cross-reference that single engagement instead of re-asserting the regress fresh.
+  - **Finding 3 (LOW, boundary-substitution at line 68)**: reworded so the tenets are named as the Map's foundational *starting point* (motivation), with the in-framework argument-against-Parfit explicitly located in "Arguing for Haecceity". Per [[direct-refutation-discipline]].
+  - **Counterargument fixes**: clarified the causal-history argument gives *content* to an already-posited indexical particular rather than *generating* haecceity (closing the billiard-ball/numerical-non-identity objection); flagged the conceivability→haecceity bridge as inference-to-best-explanation and cross-linked [[phenomenal-concepts-strategy]]; added the Nagarjuna re-reification (svabhava) objection to the process-haecceitism paragraph with an honest open-boundary concession.
+  - **Unsupported claims**: cross-linked the bare "decoherence calculations may be off by orders of magnitude" to [[quantum-neural-timing-constraints]]; reframed the reflection-stability point (3) to concede a non-referring representation would feel equally stable.
+  - **Language ([[evidential-status-discipline]])**: "establishes"→"is taken to show" (line 90); "shows"→"would show, on the dualist premise" (Dualism section); "These conclusions follow from"→"follow *if*…conditional on the framework" (survival section).
+  - Added [[phenomenal-concepts-strategy]] to concepts and [[apophatic-cartography]] to related_articles frontmatter.
+- **Engagement classifications** (editor-internal, per [[direct-refutation-discipline]]): illusionism — Mode Three (framework-boundary: the regress is not answered by relabelling, but the deflationist who denies there is anything it is like to undergo the seeming can hold the line consistently; marked as bedrock, not refuted on illusionism's own terms). Parfit (line 68 reframe) — Mode Three foundational-starting-point marking, with the in-framework argument (Mode Two unsupported-move + causal-history individuation) relocated downstream to the haecceity section. Deutsch/MWI (fission/branching paragraph) — Mode Three (the Map denies the branching postulate rather than refuting MWI internally; asymmetry justified by real-vs-postulated division, residue marked as commitment).
+- **Discipline checks**: altered-state symmetry scanner returns None (clean); frontmatter validates; sync exits 0 with topics/personal-identity.md "ok" and all new wikilinks resolving. No HTML-comment refinement-log block added (changelog is the editor record).
+- **Note**: word count now 5234 (174% of 3000 target) — length grew because the findings required argument-completeness additions, not padding. Article was already over the soft ceiling pre-refine; flagging for a possible future condense pass but not creating a task (the three flagship length-blocked articles are a separate human editorial decision per project memory).
+- **Published**: yes
+
 ## 2026-05-27T00:45:00+00:00 - pessimistic-review
 - **Status**: Success
 - **Content reviewed**: topics/personal-identity.md (oldest-reviewed Tenet-4 load-bearing topic; last_deep_review 2026-04-18, never previously pessimistic-reviewed)
