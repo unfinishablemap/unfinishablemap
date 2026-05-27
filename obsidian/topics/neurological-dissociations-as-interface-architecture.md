@@ -4,7 +4,7 @@ description: "Blindsight, anosognosia, alien hand syndrome, and other dissociati
 created: 2026-03-10
 modified: 2026-03-10
 human_modified:
-ai_modified: 2026-05-27T12:00:00+00:00
+ai_modified: 2026-05-27T13:30:00+00:00
 last_deep_review: 2026-04-17T15:13:00+00:00
 draft: false
 topics:
@@ -46,7 +46,7 @@ embedded_videos:
 
 The Unfinishable Map discusses neurological dissociations individually—[[blindsight]] here, [[pain-asymbolia]] there, [[split-brain-consciousness|split-brain]] elsewhere—but the pattern they form collectively has not been drawn out. Each dissociation disconnects a specific component of the mind-brain interface. Taken together, they map the interface's functional anatomy: ascending channels that deliver sensory content to consciousness, descending channels through which consciousness acts on the body, a self-model channel that reports the system's own state, and bilateral connections that maintain unity across hemispheres. The dissociation pattern is more informative than any single case because it reveals which components are separable—and therefore which are architecturally distinct.
 
-This matters for the Map's framework. If consciousness were identical to neural processing, neurological damage should degrade consciousness uniformly—more damage, less mind. Instead, dissociations produce selective disconnections: processing continues but consciousness loses access to it, or consciousness issues commands the body does not execute. The selectivity argues for an interface with distinct, separable channels rather than an identity between mind and brain.
+This matters for the Map's framework. If consciousness were identical to neural processing, neurological damage should degrade consciousness uniformly—more damage, less mind. Instead, dissociations produce selective disconnections: processing continues but consciousness loses access to it, or consciousness issues commands the body does not execute. The selectivity arguably points to an interface with distinct, separable channels rather than an identity between mind and brain—though, as the closing sections note, the dissociations may be read in more than one way.
 
 <details class="yt-embed" data-video-id="cSU9xQDKiW4">
 <summary>Video introduction</summary>
@@ -83,9 +83,9 @@ What this maps: a perceptual ascending channel that requires V1 and its cortical
 
 [[pain-asymbolia|Pain asymbolia]] patients detect nociceptive stimuli and localise them accurately—"that's a sharp prick on my left hand"—but lack the felt awfulness that makes pain matter. They do not withdraw, guard, or show distress. The sensory-discriminative dimension survives; the affective-motivational dimension is abolished.
 
-What this maps: an affective ascending channel, anatomically distinct from the sensory one. The sensory channel (somatosensory cortex, posterior insula) delivers *what* and *where*. The affective channel (anterior insula, anterior cingulate, limbic connections) delivers *how much it matters*. The clean separation—not a graded reduction but a complete absence of the affective dimension—argues that valence is a discrete interface component, not an intrinsic property of nociceptive signals.
+What this maps: an affective ascending channel, anatomically distinct from the sensory one. The sensory channel (somatosensory cortex, posterior insula) delivers *what* and *where*. The affective channel (anterior insula, anterior cingulate, limbic connections) delivers *how much it matters*. The clean separation—not a graded reduction but a complete absence of the affective dimension—suggests that valence may be a discrete interface component rather than an intrinsic property of nociceptive signals.
 
-The philosophical weight is substantial. If pain's awfulness were just more processing in the same nociceptive stream, you could not abolish it while leaving the processing intact. The fact that you can suggests the awfulness is something consciousness adds—or receives through a separate channel—not something reducible to the sensory signal.
+The philosophical weight is substantial. If pain's awfulness were just more processing in the same nociceptive stream, you could not abolish it while leaving the processing intact. The fact that you can suggests the awfulness might be something consciousness adds—or receives through a separate channel—rather than something reducible to the sensory signal.
 
 ### Self-Model Ascending — Anosognosia
 
@@ -93,7 +93,7 @@ Anosognosia patients with right-hemisphere damage remain genuinely unaware of th
 
 What this maps: a self-model ascending channel that delivers the system's own status to awareness. When this channel is damaged, consciousness receives a coherent but false report about the body's capabilities. The patient's conscious experience is internally consistent—they genuinely believe they can move—because the interface is delivering fabricated data about body state.
 
-Anosognosia sharpens the interface picture in a way that blindsight alone cannot. Blindsight shows that sensory data can reach action systems without reaching consciousness. Anosognosia shows that consciousness can receive *actively misleading* information—a [[curated-mind|curated feed]] that misrepresents reality. The brain is not a passive conduit; it constructs what it delivers. When the construction mechanism breaks, consciousness gets a coherent fiction rather than degraded truth.
+Anosognosia sharpens the interface picture in a way that blindsight alone cannot. In blindsight, sensory data reaches action systems without reaching consciousness. In anosognosia, consciousness appears to receive *actively misleading* information—a [[curated-mind|curated feed]] that misrepresents reality. The brain is not a passive conduit; it constructs what it delivers. When the construction mechanism breaks, consciousness gets a coherent fiction rather than degraded truth.
 
 ## Descending Channels: What Consciousness Delivers to the Brain
 
@@ -123,7 +123,7 @@ Hemineglect, typically following right parietal damage, causes patients to ignor
 
 What this maps: an attentional gating mechanism that determines which available content enters consciousness. Unlike blindsight, where the relevant sensory pathway is destroyed, neglect patients have intact visual systems. The information reaches the brain but is not selected for conscious access. [[attention-as-interface|Attention]] serves as a gate—a selection filter between processed content and conscious experience. When the gate jams shut for half of space, that half effectively disappears from the conscious world.
 
-Hemineglect and blindsight are complementary. Blindsight: intact processing, destroyed delivery pathway, no conscious access. Hemineglect: intact processing, intact pathways, broken selection mechanism, no conscious access. Both produce absence of awareness, but by disrupting different interface components. This double dissociation within the ascending direction confirms that delivery and selection are architecturally distinct.
+Hemineglect and blindsight are complementary. Blindsight: intact processing, destroyed delivery pathway, no conscious access. Hemineglect: intact processing, intact pathways, broken selection mechanism, no conscious access. Both produce absence of awareness, but by disrupting different interface components. This double dissociation within the ascending direction suggests that delivery and selection are architecturally distinct.
 
 ## The Composite Picture
 
@@ -175,11 +175,11 @@ A pharmacological route reaches the same architecture. General anesthesia does n
 
 If consciousness were identical to neural processing, damage should degrade both together. Instead, dissociations produce asymmetric breaks: processing continues without consciousness (blindsight), consciousness receives false reports while processing fails (anosognosia), motor execution proceeds without conscious intent (alien hand). These selective disconnections make sense if consciousness and processing are connected through a multi-channel interface. They are harder to explain if consciousness simply *is* the processing.
 
-The target here is specifically identity theory, not physicalism in general. Sophisticated functionalism—Block's access-versus-phenomenal distinction, multi-realisability accounts, integrationist readings—treats consciousness as realised in coupled subsystems and predicts exactly the modular dissociation pattern the clinical evidence shows. This pattern refutes naive identity, not functionalism. The live dialectical question becomes what is decomposing: separable subsystems whose coupling together *constitutes* consciousness (the functionalist reading), or separable channels connecting an already-unified consciousness to brain mechanisms of content generation, selection, and action (the interface reading). Both readings predict the same dissociation phenomenology. Adjudicating between them requires evidence the dissociations alone cannot supply—bearing on the unity across which the channels connect, not just the channels themselves.
+The target here is specifically identity theory, not physicalism in general. Sophisticated functionalism—Block's access-versus-phenomenal distinction, multi-realisability accounts, integrationist readings—treats consciousness as realised in coupled subsystems and predicts exactly the modular dissociation pattern the clinical evidence shows. This pattern tells against naive identity, not functionalism. The live dialectical question becomes what is decomposing: separable subsystems whose coupling together *constitutes* consciousness (the functionalist reading), or separable channels connecting an already-unified consciousness to brain mechanisms of content generation, selection, and action (the interface reading). Both readings predict the same dissociation phenomenology. Adjudicating between them requires evidence the dissociations alone cannot supply—bearing on the unity across which the channels connect, not just the channels themselves.
 
 ### For Interface Architecture
 
-The dissociation pattern supports [[interface-friction|interface friction]] as a structural feature rather than a metaphor. Friction predicts that the interface should have identifiable components that can fail independently—and the clinical evidence confirms this. The specific channels that [[interface-friction#Friction as Diagnostic|friction reveals through resistance]] are the same channels that dissociations reveal through failure.
+The dissociation pattern supports [[interface-friction|interface friction]] as a structural feature rather than a metaphor. Friction predicts that the interface should have identifiable components that can fail independently—and the clinical evidence appears to bear this out. The specific channels that [[interface-friction#Friction as Diagnostic|friction reveals through resistance]] are the same channels that dissociations reveal through failure.
 
 ### Against Epiphenomenalism
 

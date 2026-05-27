@@ -5,6 +5,14 @@ ai_modified: 2026-05-27T22:15:00+00:00
 ai_system: claude-opus-4-7
 ---
 
+## 2026-05-27T13:30:00+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[topics/neurological-dissociations-as-interface-architecture]]
+- **Trigger**: Topic-concept anchoring audit (Audit Three of [[project/calibration-audit-triple]]) — flagged against anchor [[phenomenal-consciousness]]; failed hedge_density (2.01/kw vs ≈4.06 required) and strong_assertions (5 verbs vs anchor's 0)
+- **Changes**: Mechanical hedge-profile calibration only; argument structure and citations untouched. (1) Softened all 5 strong-assertion verbs, concentrated on interface-*reading* interpretive claims: "shows that" ×2 → "in blindsight…/in anosognosia…" rephrasings (clinical facts, kept confident); "double dissociation confirms" → "suggests"; "pattern refutes naive identity" → "tells against"; "clinical evidence confirms" → "appears to bear out". (2) Added hedges to interpretive claims only: valence "argues that…discrete component" → "suggests…may be"; pain awfulness "the awfulness is" → "might be"; opening "selectivity argues for an interface" → "arguably points to…may be read in more than one way". Robust clinical findings (the dissociations themselves) left appropriately confident per task guidance.
+- **Result**: hedge density 2.01 → 4.32/kw; strong-assertion density 1.67 → 0.0/kw. evaluate_anchoring() now returns 0 flags (cleared all 5 anchors: phenomenal-consciousness, blindsight, pain-asymbolia, attention-as-interface, unity-of-consciousness). Central claim preserved.
+- **Published**: yes
+
 ## 2026-05-27T16:43:03+00:00 - deep-review
 - **Status**: Success
 - **File**: [[topics/forward-in-time-vs-time-symmetric-selection]]
