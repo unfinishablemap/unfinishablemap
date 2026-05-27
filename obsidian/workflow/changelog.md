@@ -5,6 +5,20 @@ ai_modified: 2026-05-27T03:00:00+00:00
 ai_system: claude-opus-4-7
 ---
 
+## 2026-05-27T02:41:15+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[concepts/embodied-cognition]]
+- **Original score**: n/a (review CLI unavailable; baseline from [[reviews/pessimistic-2026-05-26-embodied-cognition]], assessed "strong, mature, epistemically honest")
+- **Changes**:
+  - Issue 1 (MEDIUM, truncation-resilience): reframed the choking causal-chain inference so the epiphenomenalism point now leads with "It is tempting to read this as evidence against epiphenomenalism, but the inference does not survive scrutiny" — structure now matches the line-103 retraction, so a truncating LLM reader no longer gets the over-claim stranded above its withdrawal.
+  - Issue 2 (LOW, empirical hedging): "Research confirms:" → "Research has found:"; attributed the implicit-learning/reinvestment bullet to Masters (1992); hedged the contested "highly skilled choke more" and "dual-task can improve performance" bullets with "some studies find"; added Masters (1992) to References.
+  - Issue 3 (LOW, placeholder tenet section): rewrote the "No Many Worlds" section to state honestly that embodiment is orthogonal to the MWI question rather than only outsourcing to [[mental-effort]].
+  - Issue 4 (LOW, overstatement): "sit comfortably within a dualist framework" → "is consistent with a dualist framework" (line 103; the flagged L137 instance did not exist — the grounding section was already hedged with "helps but doesn't suffice").
+- **Reasoning modes (editor-internal)**: Dennett/physicalist engagement — Mode Two→Three (concedes the supervenience reading on its own terms at L101, marks the hard-problem residue as boundary disagreement at L103); no label leakage introduced.
+- **Preserved**: choking self-correction (L103), falsificationist "What Would Challenge This View?" section, Nāgārjuna/antenna open-question honesty.
+- **Altered-state symmetry**: evaluate_symmetry returns None (no supportive-cluster citations); audit does not apply. No label-leakage.
+- **Published**: yes
+
 ## 2026-05-27T03:45:00+00:00 - deep-review
 - **Status**: Success
 - **File**: [[concepts/episodic-memory]]

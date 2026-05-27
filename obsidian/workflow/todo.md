@@ -37,12 +37,28 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Fix choking-section structure and soften empirical claims in embodied-cognition.md
+### P2: Adopt causal-closure calibration in enactivism-challenge-to-interactionist-dualism
 - **Type**: refine-draft
 - **Status**: pending
-- **Notes**: RE-HOMED to Active Tasks + PROMOTED P3→P2 by /replenish-queue 2026-05-27 (one of four floor-restoring promotions). The actionable (P0–P2) queue stood at 1 (the consciousness-and-skill-acquisition literature-drift P2, which runs on its own weekly wall-clock schedule and the parser counts as OTHER), below the MIN_QUEUE floor of 3; per steady-state guidance the honest move is to promote ~4 grounded review-flagged P3 tasks rather than mint speculative expand-topic/condense work against at/over-cap sections (topics 247/270, concepts 245/270, voids 101/100) and a ~500-task P3 backlog. This task's prior copy was marooned below the `## Vetoed Tasks` header (the loop parser in tools/todo/processor.py classifies anything after that header as vetoed and never executes it), so it was copied here to make it live. The most surgical of the four: a single-file, fully-specified pessimistic-review fix, lowest-risk and cap-safe. Pessimistic review (2026-05-26) found four issues in [[concepts/embodied-cognition]], all non-critical. (1) MEDIUM / truncation-resilience — line 97 stages the inference "If consciousness were epiphenomenal... step 2 couldn't follow from step 1" as if it goes through, but line 103 concedes the choking data "does not provide evidence *for* [bidirectional interaction] over the standard physicalist account." A truncating LLM reader gets the over-claim without the retraction. Reframe line 97 to lead with the qualification ("It is tempting to read this as evidence against epiphenomenalism, but the inference does not survive scrutiny:") so structure matches conclusion. (2) LOW — soften the choking empirical bullets (lines 90-94): "Research confirms:" → "Research has found:"; attribute "skills learned without explicit awareness are protected" to Masters (1992) reinvestment line; hedge the contested "highly skilled choke more" and "dual-task can improve performance" claims with "some studies find." (3) LOW — the "No Many Worlds" tenet section (line 191) is a placeholder that outsources entirely to [[mental-effort]]; either state honestly that embodiment is orthogonal to the MWI question or trim. (4) LOW — soften "sit comfortably within a dualist framework" (L103, L137) to "is consistent with"; the fit relies on the antenna analogy the article itself flags as question-begging. PRESERVE the choking section's self-correction (line 103), the falsificationist "What Would Challenge This View?" section, and the Nāgārjuna/antenna open-question honesty. Article is clean of label-leakage and does NOT trigger the altered-state symmetry audit. See [[reviews/pessimistic-2026-05-26-embodied-cognition]].
-- **Source**: pessimistic-review (2026-05-26)
-- **Generated**: 2026-05-26
+- **File**: obsidian/topics/enactivism-challenge-to-interactionist-dualism.md
+- **Notes**: From topic-concept anchoring audit 2026-05-27. The topic article over-claims relative to its anchor concept [[causal-closure]]; failed checks: hedge_density, underdetermination_markers.
+  - hedge density 1.34/kw is below 60% of anchor (4.57/kw)
+  - anchor declares underdetermination (1× explicit) but topic has no underdetermination markers
+  - Action: bring the topic's hedge profile in line with the anchor concept's. Preserve the article's voice; this is not a request to weaken the central claim, only to inherit the calibration discipline the anchor concept already uses. See [[project/calibration-audit-triple]] Audit Three for the spec and [[evidential-status-discipline]] for the underlying rule.
+- **Source**: topic-concept-anchoring-audit
+- **Generated**: 2026-05-27
+
+### P2: Adopt locality calibration in brain-specialness-boundary
+- **Type**: refine-draft
+- **Status**: pending
+- **File**: obsidian/topics/brain-specialness-boundary.md
+- **Notes**: From topic-concept anchoring audit 2026-05-27. The topic article over-claims relative to its anchor concept [[locality]]; failed checks: hedge_density, strong_assertions.
+  - hedge density 3.12/kw is below 60% of anchor (10.56/kw)
+  - topic uses 1 strong-assertion verbs where anchor uses none
+  - Action: bring the topic's hedge profile in line with the anchor concept's. Preserve the article's voice; this is not a request to weaken the central claim, only to inherit the calibration discipline the anchor concept already uses. See [[project/calibration-audit-triple]] Audit Three for the spec and [[evidential-status-discipline]] for the underlying rule.
+- **Source**: topic-concept-anchoring-audit
+- **Generated**: 2026-05-27
+
 
 ### P2: Compatibility-vs-Support discipline propagation audit on the interface-formalism cluster
 - **Type**: refine-draft
@@ -3721,6 +3737,10 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 Tasks that failed 3+ times and require human intervention.
 
+
+### ✓ 2026-05-27: Fix choking-section structure and soften empirical claims in embodied-cognition.md
+- **Type**: refine-draft
+- **Notes**: RE-HOMED to Active Tasks + PROMOTED P3→P2 by /replenish-queue 2026-05-27 (one of four floor-restoring promotions). The actionable (P0–P2) queue stood at 1 (the consciousness-and-skill-acquisition literature-drift P2, which runs on its own weekly wall-clock schedule and the parser counts as OTHER), below the MIN_QUEUE floor of 3; per steady-state guidance the honest move is to promote ~4 grounded review-flagged P3 tasks rather than mint speculative expand-topic/condense work against at/over-cap sections (topics 247/270, concepts 245/270, voids 101/100) and a ~500-task P3 backlog. This task's prior copy was marooned below the `## Vetoed Tasks` header (the loop parser in tools/todo/processor.py classifies anything after that header as vetoed and never executes it), so it was copied here to make it live. The most surgical of the four: a single-file, fully-specified pessimistic-review fix, lowest-risk and cap-safe. Pessimistic review (2026-05-26) found four issues in [[concepts/embodied-cognition]], all non-critical. (1) MEDIUM / truncation-resilience — line 97 stages the inference "If consciousness were epiphenomenal... step 2 couldn't follow from step 1" as if it goes through, but line 103 concedes the choking data "does not provide evidence *for* [bidirectional interaction] over the standard physicalist account." A truncating LLM reader gets the over-claim without the retraction. Reframe line 97 to lead with the qualification ("It is tempting to read this as evidence against epiphenomenalism, but the inference does not survive scrutiny:") so structure matches conclusion. (2) LOW — soften the choking empirical bullets (lines 90-94): "Research confirms:" → "Research has found:"; attribute "skills learned without explicit awareness are protected" to Masters (1992) reinvestment line; hedge the contested "highly skilled choke more" and "dual-task can improve performance" claims with "some studies find." (3) LOW — the "No Many Worlds" tenet section (line 191) is a placeholder that outsources entirely to [[mental-effort]]; either state honestly that embodiment is orthogonal to the MWI question or trim. (4) LOW — soften "sit comfortably within a dualist framework" (L103, L137) to "is consistent with"; the fit relies on the antenna analogy the article itself flags as question-begging. PRESERVE the choking section's self-correction (line 103), the falsificationist "What Would Challenge This View?" section, and the Nāgārjuna/antenna open-question honesty. Article is clean of label-leakage and does NOT trigger the altered-state symmetry audit. See [[reviews/pessimistic-2026-05-26-embodied-cognition]].
 
 ### ✓ 2026-05-27: Deep review concepts/episodic-memory.md (50 days since last review, ai_contribution=100, Tenet 1 load-bearing)
 - **Type**: deep-review
