@@ -5,6 +5,17 @@ ai_modified: 2026-05-27T17:20:00+00:00
 ai_system: claude-opus-4-7
 ---
 
+## 2026-05-27T19:30:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [[concepts/self-and-self-consciousness]]
+- **Word count**: 3369 → 3369 (no body change; length-neutral, metadata-only edit)
+- **Critical issues addressed**: 0 (none found — fourth review; new 2026-05-23 content on mine-ness/agency + Duch verified source-faithful and calibration-correct)
+- **Medium issues addressed**: 1 (metadata-indexing gap: added `essential-vs-contingent-consciousness` to `related_articles`; inline-only since the 2026-05-23 addition)
+- **Enhancements made**: 0 (length-neutral; 135% of soft threshold, no body expansion)
+- **Named-opponent engagements**: Duch (self-reflection thesis / articon) — Mixed: Mode Two (self-reflective access presupposes the for-me-ness it should produce) + Mode One (dynamical access yields reflective self-consciousness only, leaving pre-reflective givenness untouched — Husserl/Zahavi point applies substrate-generally) + Mode Two (substrate-independence claim has not earned the architectural-constraint specification). No boundary-substitution; bedrock residue honestly deferred to the Duch dossier. Label-leakage scan clean.
+- **Length note**: 3369/2500 soft (135%), under 3500 hard — condense-pass concern, not deep-review; new content is recent deliberate cluster work, not trimmed.
+- **Output**: [[reviews/deep-review-2026-05-27-self-and-self-consciousness]]
+
 ## 2026-05-27T18:00:00+00:00 - deep-review
 - **Status**: Success
 - **File**: [[concepts/inverted-qualia]]

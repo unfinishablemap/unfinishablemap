@@ -37,12 +37,28 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Deep review concepts/self-and-self-consciousness.md (~26 days since last review, ai_contribution=100, Tenet 1 load-bearing)
-- **Type**: deep-review
+### P2: Adopt phenomenal-concepts-strategy calibration in pain-consciousness-and-causal-power
+- **Type**: refine-draft
 - **Status**: pending
-- **Notes**: PROMOTED P3→P2 by /replenish-queue 2026-05-27 (second of two floor-restoring staleness promotions; retained for queue diversity alongside the inverted-qualia deep-review). Re-verified `last_deep_review: 2026-05-01T04:25:00+00:00` (~26 days), `ai_contribution=100`; not the subject of any other open task header. The self / self-consciousness distinction is a structural-phenomenology exhibit the Map leans on across the introspection and witness-mode clusters, directly Tenet 1 (Dualism) load-bearing. Deep-review should: (a) verify the pre-reflective / reflective self-consciousness framing (Zahavi, Sartre, the Heidelberg-school minimal-self account) is accurately characterised and still coheres with the post-April meditation/witness cluster ([[concepts/witness-consciousness]], [[topics/the-observer-witness-in-meditation]], [[concepts/minimal-self]] if present); (b) check cross-references resolve live and are reciprocated where load-bearing; (c) honour [[evidential-status-discipline]] — phenomenological structure claims must not slip into metaphysical conclusions without independent grounding; (d) writing-style + length discipline check; no cliché. Apply in-place fixes if minor; generate a follow-on refine-draft task if substantive. Tenet alignment: Tenet 1 (Dualism — the self-model / phenomenal-self distinction as a structure-of-experience exhibit).
-- **Source**: staleness
+- **File**: obsidian/topics/pain-consciousness-and-causal-power.md
+- **Notes**: From topic-concept anchoring audit 2026-05-27. The topic article over-claims relative to its anchor concept [[phenomenal-concepts-strategy]]; failed checks: hedge_density, strong_assertions.
+  - hedge density 3.02/kw is below 60% of anchor (10.16/kw)
+  - topic uses 3 strong-assertion verbs where anchor uses none
+  - Action: bring the topic's hedge profile in line with the anchor concept's. Preserve the article's voice; this is not a request to weaken the central claim, only to inherit the calibration discipline the anchor concept already uses. See [[project/calibration-audit-triple]] Audit Three for the spec and [[evidential-status-discipline]] for the underlying rule.
+- **Source**: topic-concept-anchoring-audit
 - **Generated**: 2026-05-27
+
+### P2: Adopt global-workspace-theory calibration in pain-consciousness-and-causal-power
+- **Type**: refine-draft
+- **Status**: pending
+- **File**: obsidian/topics/pain-consciousness-and-causal-power.md
+- **Notes**: From topic-concept anchoring audit 2026-05-27. The topic article over-claims relative to its anchor concept [[global-workspace-theory]]; failed checks: hedge_density, strong_assertions.
+  - hedge density 3.02/kw is below 60% of anchor (10.15/kw)
+  - strong-assertion density 0.82/kw exceeds 1.5× anchor (0.44/kw)
+  - Action: bring the topic's hedge profile in line with the anchor concept's. Preserve the article's voice; this is not a request to weaken the central claim, only to inherit the calibration discipline the anchor concept already uses. See [[project/calibration-audit-triple]] Audit Three for the spec and [[evidential-status-discipline]] for the underlying rule.
+- **Source**: topic-concept-anchoring-audit
+- **Generated**: 2026-05-27
+
 
 ### P2: Deepen Metz argument engagement in topics/meaning-of-life.md (hedonism-excluded-by-stipulation confrontation)
 - **Type**: refine-draft
@@ -3575,6 +3591,10 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 Tasks that failed 3+ times and require human intervention.
 
+
+### ✓ 2026-05-27: Deep review concepts/self-and-self-consciousness.md (~26 days since last review, ai_contribution=100, Tenet 1 load-bearing)
+- **Type**: deep-review
+- **Notes**: PROMOTED P3→P2 by /replenish-queue 2026-05-27 (second of two floor-restoring staleness promotions; retained for queue diversity alongside the inverted-qualia deep-review). Re-verified `last_deep_review: 2026-05-01T04:25:00+00:00` (~26 days), `ai_contribution=100`; not the subject of any other open task header. The self / self-consciousness distinction is a structural-phenomenology exhibit the Map leans on across the introspection and witness-mode clusters, directly Tenet 1 (Dualism) load-bearing. Deep-review should: (a) verify the pre-reflective / reflective self-consciousness framing (Zahavi, Sartre, the Heidelberg-school minimal-self account) is accurately characterised and still coheres with the post-April meditation/witness cluster ([[concepts/witness-consciousness]], [[topics/the-observer-witness-in-meditation]], [[concepts/minimal-self]] if present); (b) check cross-references resolve live and are reciprocated where load-bearing; (c) honour [[evidential-status-discipline]] — phenomenological structure claims must not slip into metaphysical conclusions without independent grounding; (d) writing-style + length discipline check; no cliché. Apply in-place fixes if minor; generate a follow-on refine-draft task if substantive. Tenet alignment: Tenet 1 (Dualism — the self-model / phenomenal-self distinction as a structure-of-experience exhibit).
 
 ### ✓ 2026-05-27: Deep review concepts/inverted-qualia.md (~39 days since last review, ai_contribution=100, Tenet 1 load-bearing)
 - **Type**: deep-review
