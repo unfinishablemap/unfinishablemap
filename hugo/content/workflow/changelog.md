@@ -9,6 +9,19 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-05-27T20:15:00+00:00 - refine-draft
+- **Status**: Success
+- **File**: [meaning-of-life](/topics/meaning-of-life/)
+- **Original score**: not re-scored (targeted named-position-fidelity fix from outer review 2026-05-27 Claude Opus 4.7, Axis 3)
+- **Changes**: Fixed three misfiled named positions in the `### Nihilism` taxonomy box and relocated accurate, steelmanned characterizations into `### Against Cosmic Insignificance`:
+  - **Benatar**: removed the *Better Never to Have Been* (2006) anti-natalism line that was wrongly filed as his meaning view. Gave him his own paragraph as the cosmic pessimist of *The Human Predicament* (2017): grants terrestrial meaning, denies cosmic meaning, holds the two asymmetric. Engaged the actual cosmic-meaning-asymmetry argument; framed the split as affective/framework-boundary, not taxonomic.
+  - **Landau**: moved out of the nihilist section — he is a *defender* of meaning (*Finding Meaning in an Imperfect World*, 2017): cosmic-insignificance implications overstated, scale alone does not fix significance. Map joins him.
+  - **Nagel**: corrected the thin/off characterization — "The Absurd" (1971) explicitly rejects the cosmic-smallness reading (immortality/vastness would not remove absurdity) and locates the absurd in a structural feature of reflective consciousness; noted as closer to the Map than to nihilism.
+- **Citations**: web-verified all three before installing. Updated References: Benatar 2006 → *The Human Predicament* (2017, OUP); Landau 2023 *Philosophia* article → *Finding Meaning in an Imperfect World* (2017, OUP), since the body now cites the book rather than the article.
+- **Engagement modes** (changelog-only, not in body): Benatar — Mode Three (framework-boundary: whether cosmic backing is *required* is bedrock disagreement, honestly marked, not refuted on his terms). Nagel/Landau — not opponents but near-allies; characterized at full strength and credited.
+- **Length discipline**: near-net-zero against the 4000 hard cap. Prose body (excl. References) 4080 → 3999 words; the ~290-word accurate-characterization addition was offset by tightening redundant prose across the choice-mattering cluster, the tenet recaps (which triple-covered the same hedges), the illusionism responses, and the Responding-to-Nihilism subsections. No argument removed; over-claiming/opponent-engagement passes left intact.
+- **Published**: yes
+
 ## 2026-05-27T15:53:04+00:00 - refine-draft
 - **Status**: Success
 - **File**: project methodology pages (4) — [direct-refutation-discipline](/project/direct-refutation-discipline/), [calibration-audit-triple](/project/calibration-audit-triple/), [coherence-inflation-countermeasures](/project/coherence-inflation-countermeasures/), [testability-ledger](/project/testability-ledger/)
