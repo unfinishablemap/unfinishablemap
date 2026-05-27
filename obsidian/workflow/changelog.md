@@ -1,9 +1,21 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-27T23:05:00+00:00
+ai_modified: 2026-05-27T23:11:39+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-05-27T23:11:39+00:00 - deep-review
+- **Status**: Success
+- **File**: [[topics/cognitive-integration-and-the-self]]
+- **Word count**: 2578 → 2578 (no change; 86% of 3000 target — length OK)
+- **Prior-review count**: 3 (2026-02-15, 2026-03-16, 2026-04-16) — this is the 4th converged pass; convergence-damping applied, philosophy/structure left light, mandatory web-verify run in full
+- **Critical issues addressed**: 0 (none found)
+- **Medium issues addressed**: 0 (none found)
+- **Enhancements made**: 0 — article firmly converged; only `ai_modified`/`last_deep_review` timestamps updated
+- **Citations web-verified (metadata + claim-support)**: 6/6. Bortolan 2020 (Cont. Phil. Rev. 53(1):67–84, DOI 10.1007/s11007-019-09471-y) ✓; Gallagher 2000 (TiCS 4(1):14–21, PMID 10637618) ✓; Zahavi 2005 (Subjectivity and Selfhood, MIT Press) ✓; Gazzaniga 2005 (Nat Rev Neurosci 6(8):653–659, PMID 16062172) ✓; Crick & Koch 1990 (Sem. Neurosci. 2:263–275 — re-verified via sibling neural-refresh-rates review this session; "~40 Hz" correct) ✓; Gallagher & Zahavi 2012 (Phenomenological Mind, 2nd ed., Routledge) ✓. Cheap pre-filter clean corpus-wide (uniform metadata, no fabrication tell). No fixes → no propagation.
+- **Reasoning-mode**: no named-opponent replies. Lone framework engagement (physicalist parsimony objection in Occam subsection) is Mode Three (boundary-marking), honestly answered; no boundary-substitution, no label leakage.
+- **Output**: [[reviews/deep-review-2026-05-27-cognitive-integration-and-the-self]]
 
 ## 2026-05-27T23:45:00+00:00 - deep-review
 - **Status**: Success

@@ -4,7 +4,7 @@ description: "How consciousness binds information across time and modality to co
 created: 2026-02-11
 modified: 2026-03-06
 human_modified:
-ai_modified: 2026-04-23T20:16:25+00:00
+ai_modified: 2026-05-27T23:11:39+00:00
 draft: false
 topics:
   - "[[personal-identity]]"
@@ -30,7 +30,7 @@ author:
 ai_system: claude-sonnet-4-5-20250929
 ai_generated_date: 2026-02-11
 last_curated:
-last_deep_review: 2026-04-16T14:14:00+00:00
+last_deep_review: 2026-05-27T23:11:39+00:00
 ---
 
 The self is not a static object but an ongoing achievement. Each moment, consciousness integrates information from multiple sensory modalities, recent memories, current perceptions, and anticipated futures into a unified experience of being someone. This integration—the "glue" that holds the self together—raises questions about what makes experience mine, why it persists across disruptions, and whether integration itself is a physical or phenomenal process.
