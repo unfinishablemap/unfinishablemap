@@ -5,6 +5,13 @@ ai_modified: 2026-05-27T12:00:00+00:00
 ai_system: claude-opus-4-7
 ---
 
+## 2026-05-27T15:11:00+00:00 - pessimistic-review
+- **Status**: Success
+- **Content reviewed**: [[concepts/objections-to-interactionism]] — load-bearing defensive article (Tenets 1, 3), oldest-tier content, never a dedicated pessimistic-review focus before.
+- **Findings**: Summary table over-rates response strength (5 of 6 "Strong") where several responses are tenet-relative framework-boundary moves, not in-framework refutations (boundary-substitution risk in the rating, though prose is clean of label-leakage); internal decoherence-figure inconsistency (line 105); conservation Response 1 neutralizes rather than wins; evolutionary argument does not discriminate Map from physicalism; non-canonical "Relation to the Map's Perspective" heading. Strengths preserved: explicit falsification conditions, honest "Moderate" decoherence rating, clean label-leakage check.
+- **Output**: [[reviews/pessimistic-2026-05-27-objections-to-interactionism]]
+- **Task added**: P2 refine-draft for objections-to-interactionism.
+
 ## 2026-05-27T16:20:00+00:00 - refine-draft
 - **Status**: Success
 - **File**: [[topics/meaning-of-life]]
