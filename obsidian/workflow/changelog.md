@@ -5,6 +5,13 @@ ai_modified: 2026-05-27T12:00:00+00:00
 ai_system: claude-opus-4-7
 ---
 
+## 2026-05-27T12:32:56+00:00 - expand-topic
+- **Status**: Success
+- **Topic**: The Q3–Q4 Sliding Boundary and the Transparency Problem
+- **Output**: [[topics/q3-q4-sliding-boundary-and-transparency-problem]]
+- **Word count**: 2844 (95% of 3000 topics target — ok)
+- **Based on research**: No (source: reviews/optimistic-2026-05-19d.md §"Medium Priority"; web-verified Kastrup/Whitehead/Leibniz/Berkeley/Yogācāra attributions)
+
 ## 2026-05-27T14:30:00+00:00 - deep-review
 - **Status**: Success
 - **File**: [[topics/essential-vs-contingent-consciousness]]

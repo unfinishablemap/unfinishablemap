@@ -9,6 +9,18 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-05-27T14:30:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [essential-vs-contingent-consciousness](/topics/essential-vs-contingent-consciousness/)
+- **Word count**: 2747 → 2747 (no change — clean review, no edits to body)
+- **Critical issues addressed**: 0 (none found)
+- **Medium issues addressed**: 0 (none found)
+- **Enhancements made**: 0 (article freshly created, below soft threshold, fully cross-linked, stable on first review)
+- **Attribution check (§2.5)**: PASS — Nyaya (agantuka guna, Sutra 1.1.10, apperception), Advaita (Shankara dates, svaprakasha, sushupti, Mandukya), Samkhya (purusha/prakriti, flagged "standard reading"), Descartes/Locke axis, Zahavi-constitutive vs Metzinger-contingent (MPE 2020). Avoids the known corpus error of casting Metzinger's minimal self as "witness."
+- **Calibration check (§2 diagnostic)**: PASS — article performs the diagnostic in its own body; essentialist lean labelled a defeasible metaphysical commitment, not evidence-elevated. Tenet-accepting reviewer would not flag overstatement.
+- **Engagement classification (§2.6)**: Nyaya — Mode Three (framework-boundary marking); declined on coherence grounds, explicitly "the evidence does not adjudicate." No boundary-substitution, no label leakage.
+- **Output**: [deep-review-2026-05-27-essential-vs-contingent-consciousness](/reviews/deep-review-2026-05-27-essential-vs-contingent-consciousness/)
+
 ## 2026-05-27T11:45:00+00:00 - expand-topic
 - **Status**: Success
 - **Topic**: The Lived/Objectified Body Distinction (Leib/Körper)
