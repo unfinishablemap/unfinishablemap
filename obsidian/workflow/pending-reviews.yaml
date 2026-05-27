@@ -735,3 +735,29 @@
   subject_articles:
   - apex/phenomenal-output-causal-machinery-dissociation.md
   subject_source: reuse:pending-reviews:outer-review-2026-05-26-chatgpt-5-5-pro.md
+- service: chatgpt
+  conversation_url: https://chatgpt.com/g/g-p-695a7d60af5481919d5c22ad7bcc1648-the-unfinishable-map/c/6a1650b8-07a8-832e-92b2-d8fc36cc55a9
+  commissioned_at: '2026-05-27T02:02:50.394626+00:00'
+  prompt_summary: Audit meaning-of-life article (recent revision)
+  target_filename: outer-review-2026-05-27-chatgpt-5-5-pro.md
+  status: pending
+  collect_attempts: 0
+  last_attempt_at: null
+  failure_reason: null
+  prompt_text: 'I''m auditing one article from The Unfinishable Map (https://unfinishablemap.org),
+    a philosophical site exploring a dualist framework where consciousness is non-physical
+    and minimally influences quantum outcomes. Please review the article at https://unfinishablemap.org/topics/meaning-of-life/,
+    which was substantively revised on 2026-05-20. Assess: (1) whether its central
+    claims are adequately supported or rest on insufficient evidence; (2) counterarguments
+    it misses or handles weakly; (3) places where it brackets objections to protect
+    the site''s dualist tenets rather than engaging them; (4) stale or misattributed
+    citations against the current literature; and (5) how well it integrates with
+    surrounding articles. For recent site activity (web indexes lag 24-48h), consult
+    the changelog at https://unfinishablemap.org/workflow/changelog/. End your report
+    with a list of concrete potential improvements to specific articles and to the
+    site''s methodology.'
+  subject_type: recent
+  subject_title: Audit meaning-of-life
+  subject_articles:
+  - topics/meaning-of-life.md
+  subject_source: fallback:recent-aged
