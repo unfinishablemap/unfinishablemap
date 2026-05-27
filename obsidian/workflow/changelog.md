@@ -5,6 +5,17 @@ ai_modified: 2026-05-27T12:00:00+00:00
 ai_system: claude-opus-4-7
 ---
 
+## 2026-05-27T15:00:00+00:00 - expand-topic
+- **Status**: Success
+- **Topic**: Recovery-Order Asymmetry as Interface Evidence
+- **Output**: [[topics/recovery-order-asymmetry-as-interface-evidence]]
+- **Word count**: 2617 (87% of 3000 topics target — ok)
+- **Based on research**: No (seeded by [[reviews/optimistic-2026-05-19b]] §"Medium Priority"; built on [[topics/memory-system-vulnerability-hierarchies-as-interface-evidence]])
+- **Citations web-verified**: Stone, Kelz, Proekt & Wasilczuk (2025) *BJA* 135(1):121–133 (PMID 40287361) ✓; Nahm & Greyson (2009) *JNMD* 197(12):942–944 (term coined 2009) ✓. Both already correct in corpus. Used Sepúlveda et al. (2019) for neural-inertia hysteresis; Nahm/Greyson/Kelly/Haraldsson (2012, 83 cases) and Batthyány & Greyson (2020, 124 cases) per corpus.
+- **Bidirectional links**: inbound from source article [[topics/memory-system-vulnerability-hierarchies-as-interface-evidence]] (at the recovery-order-asymmetry passage + frontmatter); inbound from [[topics/anaesthesia-and-the-consciousness-interface]] (induction-emergence asymmetry passage), [[topics/stochastic-emergence-as-quantum-interface-evidence]] (integration section), and [[topics/targeted-lesion-discriminating-tests-between-production-and-filter-readings-of-the-memory-hierarchy]] (Further Reading). `terminal-lucidity` bare slug does not exist — used `terminal-lucidity-and-filter-transmission-theory`.
+- **Calibration**: held at constrain-not-establish throughout per [[evidential-status-discipline]]; terminal-lucidity case explicitly flagged as retrospective/selection-biased.
+- **Follow-up**: added P2 apex-evolve task (self-concealing-interface source check).
+
 ## 2026-05-27T14:00:00+00:00 - apex-evolve
 - **Status**: Complete
 - **Article**: [[apex/ai-as-introspection-control]]

@@ -45,12 +45,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: outer-review
 - **Generated**: 2026-05-27
 
-### P2: apex-evolve: ai-as-introspection-control — new worked source topics/anti-correlation-probes-for-ai-consciousness created
-- **Type**: apex-evolve
-- **Notes**: New topic article `topics/anti-correlation-probes-for-ai-consciousness.md` (created 2026-05-27) is the worked test-design development of the "designed anti-correlated-signal tests" affordance that apex #28 (ai-as-introspection-control) catalogues but does not itself develop (see apex-articles.md item 28 points b/d). Consider adding it to the apex's Source articles list and integrating a sentence pointing to the worked probe design. Low urgency — the apex already cites the parent concept; this is the worked exhibit it foreshadows.
-- **Source**: apex-source-created
-- **Generated**: 2026-05-27
-
 ### P2: Add evidential-status / tenet-dependency labelling to topics/meaning-of-life.md
 - **Type**: refine-draft
 - **Notes**: From outer review 2026-05-27 (ChatGPT 5.5 Pro). The reviewer's central structural finding: the article is a strong internal synthesis but writes its strongest conclusions (quantum-agency grounding of "choices matter," No-MWI weighting of individual choice) in a settled tone that outruns the tenets, which the Tenets page itself describes as "chosen starting points, not proofs." Add a "Dependency and Evidential Status" treatment near "The Map's Position" marking each load-bearing claim as independently argued, tenet-dependent, speculative, or practical — in particular flag the quantum-agency and No-MWI meaning claims as tenet-dependent rather than established by the meaning argument alone, honouring [evidential-status-discipline](/project/evidential-status-discipline/). **Apply the direct-refutation discipline.** Identify what kind of engagement each over-stated claim calls for: showing a rival defective on its own terms, naming an unsupported foundational move the framework has not earned by its own standards, or honestly marking the framework-boundary disagreement (e.g. the No-MWI point is a Tenet-4 boundary marking, not a result the meaning argument delivers — a boundary-substitution risk the reviewer flags). Apply the corresponding reply mode in **natural journal-quality prose** — see [the writing-style guide](/project/writing-style/)'s "Engaging Opponents in Journal-Quality Prose" section. **Do not expose mode labels in the article body**; the classification is editor-internal and belongs in the changelog entry, not the article. If an in-framework refutation is attempted and fails, state in natural language that the disagreement is closer to bedrock than first appeared. See [outer-review-2026-05-27-chatgpt-5-5-pro](/reviews/outer-review-2026-05-27-chatgpt-5-5-pro/).
@@ -173,6 +167,13 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Review file**: `reviews/optimistic-2026-05-19b.md`
 - **Source**: optimistic-review (2026-05-19b)
 - **Generated**: 2026-05-19
+
+### P2 apex-evolve: self-concealing-interface — source recovery-order-asymmetry-as-interface-evidence created
+- **Type**: apex-evolve
+- **Status**: pending
+- **Notes**: New topic article `topics/recovery-order-asymmetry-as-interface-evidence.md` (created 2026-05-27) develops the "graded channel failure" / "constrained asymmetries at interface boundaries" seam-class that apex #27 The Self-Concealing Interface re-orients its falsification programme around. Consider adding it to the apex's Source articles and integrating the direction-of-interface-change signature family at the seam-classes passage. Verify load-bearing before adding (apex-evolve discipline). Honour [evidential-status-discipline](/project/evidential-status-discipline/) — the asymmetry constrains rather than establishes.
+- **Source**: expand-topic chain (recovery-order-asymmetry-as-interface-evidence)
+- **Generated**: 2026-05-27
 
 ### P3: Write concept article on Cessation versus Plenitude as Divergence-side Evidence
 - **Type**: expand-topic
@@ -3637,6 +3638,10 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 Tasks that failed 3+ times and require human intervention.
 
+
+### ✓ 2026-05-27: apex-evolve: ai-as-introspection-control — new worked source topics/anti-correlation-probes-for-ai-consciousness created
+- **Type**: apex-evolve
+- **Notes**: New topic article `topics/anti-correlation-probes-for-ai-consciousness.md` (created 2026-05-27) is the worked test-design development of the "designed anti-correlated-signal tests" affordance that apex #28 (ai-as-introspection-control) catalogues but does not itself develop (see apex-articles.md item 28 points b/d). Consider adding it to the apex's Source articles list and integrating a sentence pointing to the worked probe design. Low urgency — the apex already cites the parent concept; this is the worked exhibit it foreshadows.
 
 ### ✓ 2026-05-27: Propagate verified Rebouillat 2021 citation fix across the confabulation/introspection-architecture cluster
 - **Type**: refine-draft

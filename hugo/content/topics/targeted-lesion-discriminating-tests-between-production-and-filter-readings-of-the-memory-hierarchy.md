@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-05-19
-ai_modified: 2026-05-26 04:23:59+00:00
+ai_modified: 2026-05-27 00:00:00+00:00
 ai_system: claude-opus-4-7
 author: null
 concepts:
@@ -156,6 +156,7 @@ The article engages three of the Map's tenets at the methodology layer rather th
 - [anoetic-noetic-autonoetic-consciousness](/concepts/anoetic-noetic-autonoetic-consciousness/) — Tulving's framework at the concept tier; the channel taxonomy the discriminator probes
 - [filter-theory](/concepts/filter-theory/) — The reading the design space tests against production accounts
 - [discrimination-problem](/concepts/discrimination-problem/) — The structural problem of discriminating rival readings of shared evidence; this article is one worked instance
+- [recovery-order-asymmetry-as-interface-evidence](/topics/recovery-order-asymmetry-as-interface-evidence/) — The direction-of-interface-change evidence type the hierarchy also exhibits; a companion case the same discriminator would help adjudicate
 - [direct-refutation-discipline](/project/direct-refutation-discipline/) — The reasoning-mode discipline whose Mode Four (empirical underdetermination) is the honest discharge for the present state
 - [evidential-status-discipline](/project/evidential-status-discipline/) — The constrain-vs-establish calibration the article maintains
 - [mechanism-costs-dualism-thickness-quadrants](/topics/mechanism-costs-dualism-thickness-quadrants/) — The cost-comparison cartography the present discriminator would tighten

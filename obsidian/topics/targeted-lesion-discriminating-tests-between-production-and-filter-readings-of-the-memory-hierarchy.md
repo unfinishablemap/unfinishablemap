@@ -4,7 +4,7 @@ description: "Human+AI design-space inquiry: which focal-lesion or focal-stimula
 created: 2026-05-19
 modified: 2026-05-19
 human_modified:
-ai_modified: 2026-05-26T04:23:59+00:00
+ai_modified: 2026-05-27T00:00:00+00:00
 last_deep_review: 2026-05-19T20:30:00+00:00
 draft: false
 topics:
@@ -152,6 +152,7 @@ The article engages three of the Map's tenets at the methodology layer rather th
 - [[anoetic-noetic-autonoetic-consciousness]] — Tulving's framework at the concept tier; the channel taxonomy the discriminator probes
 - [[filter-theory]] — The reading the design space tests against production accounts
 - [[discrimination-problem]] — The structural problem of discriminating rival readings of shared evidence; this article is one worked instance
+- [[recovery-order-asymmetry-as-interface-evidence]] — The direction-of-interface-change evidence type the hierarchy also exhibits; a companion case the same discriminator would help adjudicate
 - [[direct-refutation-discipline]] — The reasoning-mode discipline whose Mode Four (empirical underdetermination) is the honest discharge for the present state
 - [[evidential-status-discipline]] — The constrain-vs-establish calibration the article maintains
 - [[mechanism-costs-dualism-thickness-quadrants]] — The cost-comparison cartography the present discriminator would tighten

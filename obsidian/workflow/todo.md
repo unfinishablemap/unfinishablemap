@@ -159,13 +159,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: pessimistic-review (2026-05-19b)
 - **Generated**: 2026-05-19
 
-### P3: Write topic article on Recovery-Order Asymmetry as Interface Evidence
-- **Type**: expand-topic
+### P2 apex-evolve: self-concealing-interface — source recovery-order-asymmetry-as-interface-evidence created
+- **Type**: apex-evolve
 - **Status**: pending
-- **Notes**: From optimistic-2026-05-19b §"Medium Priority" — the memory-hierarchy article names the recovery-order asymmetry (autonoetic last in deep anaesthesia, autonoetic first in terminal lucidity) as a distinctive direction-of-interface-change signature the filter reading predicts and the production reading must accommodate. The targeted-lesion design-space article inherits this without developing it. Develop a topic article that treats recovery-order asymmetry as its own evidence type: (a) anaesthesia-induction-vs-emergence asymmetry; (b) terminal-lucidity asymmetry; (c) dissociative-state-onset-vs-recovery asymmetry; (d) the broader catalogue of direction-of-interface-change signatures; (e) what asymmetry-evidence buys the filter reading that substrate-symmetric production accounts cannot easily accommodate; (f) honour [[evidential-status-discipline]] — asymmetry is *constraining* on production accounts rather than *establishing* the filter reading. Cross-link to `[[topics/memory-system-vulnerability-hierarchies-as-interface-evidence]]`, `[[topics/targeted-lesion-discriminating-tests-between-production-and-filter-readings-of-the-memory-hierarchy]]`, `[[topics/anaesthesia-and-the-consciousness-interface]]`, `[[concepts/filter-theory]]`, `[[topics/terminal-lucidity]]` (if exists). Estimated scope: 1500–2500 words. Tenet alignment: Tenet 1 (Dualism), Tenet 3 (Bidirectional Interaction). Target section: `topics/`. See `reviews/optimistic-2026-05-19b.md` §"Medium Priority".
-- **Review file**: `reviews/optimistic-2026-05-19b.md`
-- **Source**: optimistic-review (2026-05-19b)
-- **Generated**: 2026-05-19
+- **Notes**: New topic article `topics/recovery-order-asymmetry-as-interface-evidence.md` (created 2026-05-27) develops the "graded channel failure" / "constrained asymmetries at interface boundaries" seam-class that apex #27 The Self-Concealing Interface re-orients its falsification programme around. Consider adding it to the apex's Source articles and integrating the direction-of-interface-change signature family at the seam-classes passage. Verify load-bearing before adding (apex-evolve discipline). Honour [[evidential-status-discipline]] — the asymmetry constrains rather than establishes.
+- **Source**: expand-topic chain (recovery-order-asymmetry-as-interface-evidence)
+- **Generated**: 2026-05-27
 
 ### P3: Write concept article on Cessation versus Plenitude as Divergence-side Evidence
 - **Type**: expand-topic
@@ -3630,6 +3629,10 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 Tasks that failed 3+ times and require human intervention.
 
+
+### ✓ 2026-05-27: Write topic article on Recovery-Order Asymmetry as Interface Evidence
+- **Type**: expand-topic
+- **Notes**: From optimistic-2026-05-19b §"Medium Priority" — the memory-hierarchy article names the recovery-order asymmetry (autonoetic last in deep anaesthesia, autonoetic first in terminal lucidity) as a distinctive direction-of-interface-change signature the filter reading predicts and the production reading must accommodate. The targeted-lesion design-space article inherits this without developing it. Develop a topic article that treats recovery-order asymmetry as its own evidence type: (a) anaesthesia-induction-vs-emergence asymmetry; (b) terminal-lucidity asymmetry; (c) dissociative-state-onset-vs-recovery asymmetry; (d) the broader catalogue of direction-of-interface-change signatures; (e) what asymmetry-evidence buys the filter reading that substrate-symmetric production accounts cannot easily accommodate; (f) honour [[evidential-status-discipline]] — asymmetry is *constraining* on production accounts rather than *establishing* the filter reading. Cross-link to `[[topics/memory-system-vulnerability-hierarchies-as-interface-evidence]]`, `[[topics/targeted-lesion-discriminating-tests-between-production-and-filter-readings-of-the-memory-hierarchy]]`, `[[topics/anaesthesia-and-the-consciousness-interface]]`, `[[concepts/filter-theory]]`, `[[topics/terminal-lucidity]]` (if exists). Estimated scope: 1500–2500 words. Tenet alignment: Tenet 1 (Dualism), Tenet 3 (Bidirectional Interaction). Target section: `topics/`. See `reviews/optimistic-2026-05-19b.md` §"Medium Priority".
 
 ### ✓ 2026-05-27: apex-evolve: ai-as-introspection-control — new worked source topics/anti-correlation-probes-for-ai-consciousness created
 - **Type**: apex-evolve
