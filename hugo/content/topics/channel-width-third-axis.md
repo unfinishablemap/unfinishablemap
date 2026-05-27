@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-05-27
-ai_modified: 2026-05-27 15:40:00+00:00
+ai_modified: 2026-05-27 17:17:16+00:00
 ai_system: claude-opus-4-7
 author: null
 concepts:
@@ -17,6 +17,7 @@ description: A third locating axis for dualist positions — how narrow the mind
 draft: false
 human_modified: null
 last_curated: null
+last_deep_review: 2026-05-27 17:17:16+00:00
 modified: *id001
 related_articles:
 - '[[four-quadrant-dualism-taxonomy]]'
@@ -64,7 +65,7 @@ The same canonical positions the two-axis grid populates can be ordered along ch
 
 **Cartesian substance dualism — wide (energy-transfer).** The classical formulation routes mental influence through what the mechanism-costs article calls "Cartesian energy-transfer," the move that "puts the conservation objection in its most pointed form." The interface carries a quantity physics tracks as work. The channel is wide: it admits energy injection, the widest operation in the ordering. Descartes sits at the channel-width ceiling regardless of where his poles sit.
 
-**Kastrup's analytic idealism — no channel.** Kastrup is, by the parent's own scope note, a monist included for contrast. Analytic idealism replaces interaction with an *intrinsic/extrinsic* distinction: "matter is the extrinsic appearance of mental processes perceived from the outside." There are not two things in contact, so there is no interface for anything to cross. The relevant question becomes the [transparency problem](/topics/q3-q4-sliding-boundary-and-transparency-problem/) — why the intrinsic mental reality looks, from outside, like impersonal physical structure — which "is a different question with a different shape." On the channel-width axis Kastrup does not score *zero width*; he scores *not applicable*. A channel-free position is off the axis, not at its bottom. This matters for the next section.
+**Kastrup's analytic idealism — no channel.** Kastrup is, by the parent's own scope note, a monist included for contrast. Analytic idealism replaces interaction with an *intrinsic/extrinsic* distinction: "matter is the extrinsic appearance of mental processes," perceived from the outside. There are not two things in contact, so there is no interface for anything to cross. The relevant question becomes the [transparency problem](/topics/q3-q4-sliding-boundary-and-transparency-problem/) — why the intrinsic mental reality looks, from outside, like impersonal physical structure — which is "a different debt with a different shape." On the channel-width axis Kastrup does not score *zero width*; he scores *not applicable*. A channel-free position is off the axis, not at its bottom. This matters for the next section.
 
 This yields a rough ordering — Saad (floor) → Stapp (near floor, plus a basis-choice layer above) → probability-bias interactionism → Cartesian energy-transfer (ceiling) — with Kastrup standing outside it entirely.
 

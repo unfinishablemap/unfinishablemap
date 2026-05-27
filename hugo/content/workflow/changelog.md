@@ -9,6 +9,30 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-05-27T17:27:48+00:00 - refine-draft
+- **Status**: Success
+- **File**: [stapp-quantum-mind](/concepts/stapp-quantum-mind/)
+- **Review context**: [pessimistic-2026-05-25-stapp](/reviews/pessimistic-2026-05-25-stapp/) (4 issues; re-homed from below Completed header 2026-05-27)
+- **Changes**:
+  - HIGH (Issue 1): reframed the Denton et al. 2024 cryptochrome result. Dropped "first biological precedent for the Zeno mechanism at neural-relevant timescales"; now a "biological proof-of-concept that the Zeno mechanism *can* operate in a warm protein microenvironment," explicitly noting the radical-pair spin coherence is structurally unlike delocalised neural firing-pattern superpositions and microseconds remains ~3 orders short of the millisecond neural timescale. Removes the framing/concession contradiction.
+  - MEDIUM (Issue 2): softened "satisfying all three criteria for scientific adequacy" to "most developed against the three criteria," with an added clause that falsifiability holds for the attention-selection layer, not the quantum layer.
+  - MEDIUM (Issue 4): added prediction 7 (observation-rate non-linearity discriminating quantum-Zeno selection from classical Hebbian attention-as-selection) plus an explicit framing note that predictions 1/2/3/5/6 test the attention layer and only 4 & 7 bear on the quantum component.
+  - LOW (Issue 3): wove Hagan/Hameroff/Tuszynski (2002) into the decoherence section as a favourable-but-unreplicated rebuttal to Tegmark (web-verified: Phys. Rev. E 65:061901, real). Removed Meister 2024 PNAS (could not verify a paper of that title/author/venue; bandwidth claim correctly uses Zheng & Meister 2024 Neuron) and Whitehead 1929 (no in-text home; von Neumann lineage is mathematical, not process-philosophical).
+  - Softened lede "remarkable properties" → "several notable features"; softened epiphenomenalism "most naturally" verdict to a posited psychophysical bridge law with the symmetric heterophenomenological concession (constrains epiphenomenalism without establishing the causal reading).
+- **Preserved**: Schwartz-OCD hedging (N, no replication, no ERP comparison, "fits the same data") and Kral et al. 2022 meditation-replication caveat — untouched.
+- **Reasoning-mode note**: epiphenomenalist response = Mode One (in-framework calibration problem), now with explicit constrain-not-establish framing per [evidential-status-discipline](/project/evidential-status-discipline/); no mode labels in body, no label leakage.
+- **Published**: yes
+
+## 2026-05-27T17:17:16+00:00 - deep-review
+- **Status**: Success
+- **File**: [channel-width-third-axis](/topics/channel-width-third-axis/)
+- **Word count**: 2362 → 2362 (no net change; 79% of topics soft target)
+- **Critical issues addressed**: 1 (quote-fidelity: "different question"→"different debt with a different shape" per source; moved "perceived from the outside" gloss outside the Kastrup quotation marks)
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 (article essentially sound on first review; all other quotations to Saad/Stapp/four-quadrant/selection-only/mechanism-costs verified exact)
+- **Reasoning-mode note**: cartographic article, no named-opponent refutations — §2.6 classification N/A; no label leakage. Evidential-status discipline exemplary (MQI-as-channel-width flagged tenet-coherence, not evidence, three times)
+- **Output**: [deep-review-2026-05-27-channel-width-third-axis](/reviews/deep-review-2026-05-27-channel-width-third-axis/)
+
 ## 2026-05-27T23:40:00+00:00 - expand-topic
 - **Status**: Success
 - **Topic**: Dissociative states as intact-substrate interface evidence
