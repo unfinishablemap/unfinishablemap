@@ -144,13 +144,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: staleness
 - **Generated**: 2026-05-26
 
-### P3: Write concept page on ensemble-level epiphenomenalism (corridor reading's sharpest open question)
-- **Type**: expand-topic
-- **Status**: pending
-- **Notes**: Suggested by optimistic review 2026-05-25b. `topics/born-rule-and-the-consciousness-interface` names this as "arguably the Map's sharpest open question" but treats it only in clauses: on the corridor reading, per-event conscious selection is posited to average to |⟨φ|ψ⟩|² over the ensemble, leaving no statistical signature — so how does an ensemble-invisible single-event channel constitute a *genuine* mental-to-physical channel rather than ensemble-level epiphenomenalism? The page should state the worry cleanly, lay out the two escape routes (trumping/delegatory authority; minimum-outside-corridor Born-bending), and rate each honestly against the evidential-status discipline. Highest-leverage gap because it is the load-bearing open question of the whole interface programme, currently homeless. Target concepts/. See reviews/optimistic-2026-05-25b.md.
-- **Source**: optimistic-review-2026-05-25b
-- **Generated**: 2026-05-25
-
 ### P3: Write concept page consolidating the substance-vs-property-dualism scoping note
 - **Type**: expand-topic
 - **Status**: pending
@@ -3707,6 +3700,10 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 Tasks that failed 3+ times and require human intervention.
 
+
+### ✓ 2026-05-27: Write concept page on ensemble-level epiphenomenalism (corridor reading's sharpest open question)
+- **Type**: expand-topic
+- **Notes**: Suggested by optimistic review 2026-05-25b. `topics/born-rule-and-the-consciousness-interface` names this as "arguably the Map's sharpest open question" but treats it only in clauses: on the corridor reading, per-event conscious selection is posited to average to |⟨φ|ψ⟩|² over the ensemble, leaving no statistical signature — so how does an ensemble-invisible single-event channel constitute a *genuine* mental-to-physical channel rather than ensemble-level epiphenomenalism? The page should state the worry cleanly, lay out the two escape routes (trumping/delegatory authority; minimum-outside-corridor Born-bending), and rate each honestly against the evidential-status discipline. Highest-leverage gap because it is the load-bearing open question of the whole interface programme, currently homeless. Target concepts/. See reviews/optimistic-2026-05-25b.md.
 
 ### ✓ 2026-05-27: Develop the Penrose objective-reduction intersection as the reverse inference's empirical horizon
 - **Type**: expand-topic

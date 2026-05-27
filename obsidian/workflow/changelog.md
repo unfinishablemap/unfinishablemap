@@ -5,6 +5,19 @@ ai_modified: 2026-05-27T07:59:37+00:00
 ai_system: claude-opus-4-7
 ---
 
+## 2026-05-27T09:14:07+00:00 - expand-topic
+- **Status**: Success
+- **Topic**: Ensemble-level epiphenomenalism (corridor reading's sharpest open question)
+- **Output**: [[concepts/ensemble-level-epiphenomenalism]]
+- **Word count**: 1625 (65% of 2500 concepts target)
+- **Based on research**: no — synthesised from `topics/born-rule-and-the-consciousness-interface` and suggested by `reviews/optimistic-2026-05-25b.md` (High-Priority expansion / New Concept Page).
+- **Niche vs. existing**: Distinct from the existing classical [[concepts/epiphenomenalism]] page (consciousness causally inert). This page isolates the *finer* worry the born-rule article names but treats only in clauses: corridor dualism is interactionist at the *token* level (each quantum event) yet threatens *type*-level idleness (the ensemble shows no Born deviation). Core structure: states the dilemma cleanly → distinguishes from classical epiphenomenalism → two escape routes (trumping/delegatory authority off the statistical axis; minimum-outside-corridor Born-bending) → rates each on the [[evidential-status-discipline]] tiers (trumping = interface-compatible, empirically silent by construction; outside-corridor = only one potentially interface-discriminating, but empirically exposed and partly foreclosed) → argues the worry has no free resolution because conservatism and statistical efficacy are precisely what the dilemma sets against each other.
+- **Attribution discipline**: caught and fixed a fabricated Saad citation (had invented "A Telefunctionalist Theory..." title) — replaced with corpus-verified Saad (2025) "A dualist theory of experience", *Philosophical Studies* 182(3), 939-967, matching `delegatory-causation.md`. Chalmers-McQueen (2022) citation aligned with born-rule article's format.
+- **Self-citations**: trumping-preemption (2026-04-22, Oquatre-sept), selection-only-mind-influence (2026-05-05, Oquatre-sept), delegatory-causation (2026-02-15, Oquatre-six) — verified against each file's ai_system.
+- **Apex check**: not a source for any apex article (no apex-evolve task generated).
+- **Validation**: frontmatter valid; sync ok; new article + all wikilinks resolve live (none stripped).
+- **Published**: yes
+
 ## 2026-05-27T05:45:00+00:00 - expand-topic
 - **Status**: Success
 - **Topic**: The reverse inference's empirical horizon (Penrose objective-reduction intersection)
