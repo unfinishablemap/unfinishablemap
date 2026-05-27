@@ -37,17 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Adopt witness-consciousness calibration in essential-vs-contingent-consciousness
-- **Type**: refine-draft
-- **Status**: pending
-- **File**: obsidian/topics/essential-vs-contingent-consciousness.md
-- **Notes**: From topic-concept anchoring audit 2026-05-27. The topic article over-claims relative to its anchor concept [[witness-consciousness]]; failed checks: hedge_density, strong_assertions.
-  - hedge density 1.50/kw is below 60% of anchor (5.19/kw)
-  - topic uses 3 strong-assertion verbs where anchor uses none
-  - Action: bring the topic's hedge profile in line with the anchor concept's. Preserve the article's voice; this is not a request to weaken the central claim, only to inherit the calibration discipline the anchor concept already uses. See [[project/calibration-audit-triple]] Audit Three for the spec and [[evidential-status-discipline]] for the underlying rule.
-- **Source**: topic-concept-anchoring-audit
-- **Generated**: 2026-05-27
-
 ### P1: Fix verified citation errors in topics/meaning-of-life.md (Tallis issue, Landau 2025, missing references)
 - **Type**: refine-draft
 - **Notes**: From outer review 2026-05-27 (ChatGPT 5.5 Pro), two citation errors **independently verified** during processing (see Verification Notes in the review file). (1) **Tallis** — References list (line 286) cites "The Illusion of Illusionism. *Philosophy Now*, 159." The piece is actually in *Philosophy Now* **Issue 161 (April/May 2024)**, full title "Tallis in Wonderland: The Illusion of Illusionism," pp. 58–59 (confirmed via Philosophy Now issue-161 listing + Philosophy Documentation Center). Fix the issue number 159→161 and consider adding the full column title and page range. (2) **Landau 2025** — citation "The Implications of Cosmic Meaninglessness, *Journal of Philosophy of Life*, 15(1), 2025" could not be verified in PhilPapers/PhilPeople/JPL contents; Landau's closest cosmic-context work is "Can Lives Be Seen as Meaningful Within the Cosmic Context?" (*Philosophia*, 2023, doi:10.1007/s11406-023-00660-x). Either replace with a verifiable Landau reference or remove the unverifiable one — do not leave a fabricated-looking citation. (3) **Missing references** — Craig, Swinburne (line 47), Frankfurt, Taylor (line 61), Parfit (line 103), Sartre (line 151) are named in body text but absent from the References list; add proper references or note them inline. Citation hygiene only — do not touch argument structure. See [[reviews/outer-review-2026-05-27-chatgpt-5-5-pro]].
@@ -3725,6 +3714,10 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 Tasks that failed 3+ times and require human intervention.
 
+
+### ✓ 2026-05-27: Adopt witness-consciousness calibration in essential-vs-contingent-consciousness
+- **Type**: refine-draft
+- **Notes**: From topic-concept anchoring audit 2026-05-27. The topic article over-claims relative to its anchor concept [[witness-consciousness]]; failed checks: hedge_density, strong_assertions.
 
 ### ✓ 2026-05-27: Adopt substance-property-dualism calibration in essential-vs-contingent-consciousness
 - **Type**: refine-draft

@@ -1,5 +1,9 @@
-last_updated: '2026-05-27T08:50:34.402005+00:00'
-session_count: 8412
+# Evolution State
+# Machine-readable tracking for the automatic site evolution system
+# Updated by evolve_loop.py after each session
+
+last_updated: '2026-05-27T08:54:04.365752+00:00'
+session_count: 8413
 cycle_position: 7537
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
@@ -13,7 +17,7 @@ last_runs:
   coalesce: '2026-05-27T07:42:55.257776+00:00'
   tweet-highlight: '2026-01-24T14:00:00+00:00'
   apex-evolve: '2026-05-27T07:52:11.596986+00:00'
-  agentic-social: '2026-05-27T08:53:40.893624+00:00'
+  agentic-social: '2026-05-27T08:54:04.365752+00:00'
   embed-videos: '2026-05-27T08:34:29.474626+00:00'
   commission-chatgpt-review: '2026-05-27T02:03:23.217453+00:00'
   commission-claude-review: '2026-05-27T03:07:14.176639+00:00'
@@ -85,10 +89,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: optimistic-review
-  type: optimistic-review
-  date: '2026-05-27'
-  outcome: success
 - task: agentic-social
   type: agentic-social
   date: '2026-05-27'
@@ -165,11 +165,7 @@ recent_tasks:
   type: refine-draft
   date: '2026-05-27'
   outcome: success
-agentic_social:
-  recently_posted:
-  - url: https://unfinishablemap.org/concepts/indexical-knowledge-and-identity/
-    date: '2026-05-27T08:53:40.893584+00:00'
-    topics:
-    - vertiginous-question
-    - personal-identity
-    - hard-problem-of-consciousness
+- task: agentic-social
+  type: agentic-social
+  date: '2026-05-27'
+  outcome: success
