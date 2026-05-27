@@ -761,3 +761,31 @@
   subject_articles:
   - topics/meaning-of-life.md
   subject_source: fallback:recent-aged
+- service: claude
+  conversation_url: https://claude.ai/chat/0ed50d4d-3115-46f3-9d02-8c49e05f559e
+  commissioned_at: '2026-05-27T03:06:50.404779+00:00'
+  prompt_summary: 'Audit meaning-of-life: consciousness-grounded value vs nihilism'
+  target_filename: outer-review-2026-05-27-claude-opus-4-7.md
+  status: pending
+  collect_attempts: 0
+  last_attempt_at: null
+  failure_reason: null
+  prompt_text: "Please conduct a rigorous outer review of one article on The Unfinishable\
+    \ Map (https://unfinishablemap.org), a dualist philosophy-of-mind site holding\
+    \ that consciousness is fundamental and causally efficacious. The article: \"\
+    The Meaning of Life\" at https://unfinishablemap.org/topics/meaning-of-life/ \u2014\
+    \ it argues meaning is grounded in the intrinsic significance of conscious experience\
+    \ itself, a fifth option beyond supernaturalism, objective/subjective naturalism,\
+    \ and nihilism. Assess: (1) whether the consciousness-grounded-value move actually\
+    \ answers the nihilist and avoids smuggling in the objective values it claims\
+    \ to replace; (2) the strength of its responses to illusionism, error theory,\
+    \ and evolutionary debunking; (3) fairness to Wolf, Metz, Benatar, Nagel, and\
+    \ Rawlette; (4) whether the quantum/free-will grounding is over-claimed. For site\
+    \ context and recent edits, see the changelog: https://unfinishablemap.org/workflow/changelog/.\
+    \ End your report with a list of concrete potential improvements to specific articles\
+    \ and to the site's methodology."
+  subject_type: recent
+  subject_title: Audit meaning-of-life
+  subject_articles:
+  - topics/meaning-of-life.md
+  subject_source: reuse:pending-reviews:outer-review-2026-05-27-chatgpt-5-5-pro.md
