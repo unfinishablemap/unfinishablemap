@@ -7,6 +7,17 @@ ai_system: claude-opus-4-7
 
 ## 2026-05-27T00:00:00+00:00 - deep-review
 - **Status**: Success
+- **File**: [[concepts/quantum-interpretations]]
+- **Word count**: 2500 → 2500 (no change; 100% of 2500 concepts soft threshold — length-neutral mode)
+- **Critical issues addressed**: 0 (none found; possibility/probability slippage check PASS — site-compatibility ratings are interpretation-tenet fit, not empirical evidential status; Born-rule and decoherence claims honestly hedged)
+- **Medium issues addressed**: 0 (all apex/topic wikilinks verified to resolve)
+- **Enhancements made**: 0 (at soft length threshold; no expansion justified an offsetting cut)
+- **Reasoning-mode**: engagement with Frankish = Mode One→Three (credits quasi-phenomenal distinction, then marks conditional disagreement); Wallace/SLU = Mode Three ("not a defeater of MWI... relocated, not answered"); Rovelli/RQM = Mode Three (accurate quote); Tegmark/decoherence = Mode One (uses 2002 in-field correction + scope limit). No boundary-substitution; label-leakage scan clean.
+- **Stability**: 9th review; at convergence since 5th (2026-03-06). Only frontmatter timestamps updated. Non-oscillating.
+- **Output**: [[reviews/deep-review-2026-05-27-quantum-interpretations]]
+
+## 2026-05-27T00:00:00+00:00 - deep-review
+- **Status**: Success
 - **File**: [[topics/brain-specialness-boundary]]
 - **Word count**: 1800 → 1924 (+124; 64% of 3000 topics soft threshold — ok)
 - **Critical issues addressed**: 0 (none found; possibility/probability slippage check PASS — article takes principled agnosticism, no tenet-as-evidence-upgrade)
