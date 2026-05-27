@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-15
-ai_modified: 2026-05-25 17:17:18+00:00
+ai_modified: 2026-05-27 10:15:00+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -64,7 +64,7 @@ The Unfinishable Map's [Bidirectional Interaction](/tenets/#bidirectional-intera
 
 ### Scope of the Substance-Leaning Commitment
 
-This article deploys a substance-leaning reading of dualism, and the scope of that commitment deserves marking. The [Dualism tenet](/tenets/#dualism) is neutral between [substance and property dualism](/concepts/substance-property-dualism/)—it requires only that consciousness is irreducible to physical processes. The substance-leaning reading enters at the agent-causal level, not the tenet level: agent causation needs a persisting subject that exercises causal powers in its own right, which a property-only reading struggles to ground. The commitment is downstream of the further claim that agents are irreducible causal sources, made here and across the agency cluster ([free-will](/topics/free-will/), [interactionist-dualism](/concepts/interactionist-dualism/)). Articles outside the cluster—the [binding problem](/topics/the-binding-problem/), the [qualia arguments](/concepts/knowledge-argument/)—neither require nor exclude it; irreducibility alone does the work there. Readers who accept the Dualism tenet but reject substance-bearing agents would find the *agent-as-source* claim contestable, and that contestation belongs at the agent-causal layer, not the tenet.
+This article deploys a substance-leaning reading of dualism, and the scope of that commitment is set out canonically in [where-the-substance-commitment-enters](/concepts/where-the-substance-commitment-enters/): the [Dualism tenet](/tenets/#dualism) is neutral between [substance and property dualism](/concepts/substance-property-dualism/), and the substance-leaning enters at the agent-causal level, not the tenet level—agent causation needs a persisting subject that exercises causal powers in its own right, which a property-only reading struggles to ground. The commitment is load-bearing here and across the agency cluster ([free-will](/topics/free-will/), the agent-causal portions of [interactionist-dualism](/concepts/interactionist-dualism/)); articles that run on irreducibility alone neither require nor exclude it. Readers who accept the Dualism tenet but reject substance-bearing agents would find the *agent-as-source* claim contestable at the agent-causal layer, not the tenet.
 
 ## Agent vs. Event Causation
 

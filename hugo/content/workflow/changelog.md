@@ -9,6 +9,13 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-05-27T09:40:00+00:00 - expand-topic
+- **Status**: Success
+- **Topic**: Where the Substance Commitment Enters (consolidating the substance-vs-property-dualism scoping note)
+- **Output**: [where-the-substance-commitment-enters](/concepts/where-the-substance-commitment-enters/)
+- **Word count**: 1216
+- **Based on research**: No (consolidates the inline scoping note duplicated across topics/free-will, concepts/agent-causation, concepts/interactionist-dualism, topics/moral-implications-of-genuine-agency, and the tenets agency-cluster paragraph). Suggested by optimistic-review-2026-05-25b. Concept page gives those articles a single link target to replace the re-stated note (drift risk).
+
 ## 2026-05-27T06:10:00+00:00 - deep-review
 - **Status**: Success
 - **File**: [the-reverse-inference-empirical-horizon](/topics/the-reverse-inference-empirical-horizon/)

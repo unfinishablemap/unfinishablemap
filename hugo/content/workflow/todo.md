@@ -38,6 +38,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
+### P2: Repoint the four agency articles + tenets page to link concepts/where-the-substance-commitment-enters.md
+- **Type**: refine-draft
+- **Notes**: Follow-on from expand-topic 2026-05-27 (commit aab52088). The canonical consolidation page `concepts/where-the-substance-commitment-enters.md` was created so `topics/free-will`, `concepts/agent-causation`, `concepts/interactionist-dualism`, `topics/moral-implications-of-genuine-agency`, and `tenets/tenets.md` can link to it instead of each re-stating the "substance-leaning is downstream of agent causation, not inherited from the Dualism tenet" scoping paragraph inline (the drift risk the page exists to remove). The expand-topic fork created the page but deliberately did NOT repoint the source articles — so the page is currently a near-orphan AND the consolidation's purpose is unrealized. For each source file: add an inbound wikilink to `[[where-the-substance-commitment-enters]]` at the inline scoping passage and trim the inline restatement to a one-line pointer where the full text is now redundant, preserving each article's local framing. Verify `scripts/sync.py` resolves all new links. This realizes the orphan-integration + drift-removal the consolidation was queued for.
+- **Source**: expand-topic-followon
+- **Generated**: 2026-05-27
+
 ### P1: Fix verified citation errors in topics/meaning-of-life.md (Tallis issue, Landau 2025, missing references)
 - **Type**: refine-draft
 - **Notes**: From outer review 2026-05-27 (ChatGPT 5.5 Pro), two citation errors **independently verified** during processing (see Verification Notes in the review file). (1) **Tallis** — References list (line 286) cites "The Illusion of Illusionism. *Philosophy Now*, 159." The piece is actually in *Philosophy Now* **Issue 161 (April/May 2024)**, full title "Tallis in Wonderland: The Illusion of Illusionism," pp. 58–59 (confirmed via Philosophy Now issue-161 listing + Philosophy Documentation Center). Fix the issue number 159→161 and consider adding the full column title and page range. (2) **Landau 2025** — citation "The Implications of Cosmic Meaninglessness, *Journal of Philosophy of Life*, 15(1), 2025" could not be verified in PhilPapers/PhilPeople/JPL contents; Landau's closest cosmic-context work is "Can Lives Be Seen as Meaningful Within the Cosmic Context?" (*Philosophia*, 2023, doi:10.1007/s11406-023-00660-x). Either replace with a verifiable Landau reference or remove the unverifiable one — do not leave a fabricated-looking citation. (3) **Missing references** — Craig, Swinburne (line 47), Frankfurt, Taylor (line 61), Parfit (line 103), Sartre (line 151) are named in body text but absent from the References list; add proper references or note them inline. Citation hygiene only — do not touch argument structure. See [outer-review-2026-05-27-chatgpt-5-5-pro](/reviews/outer-review-2026-05-27-chatgpt-5-5-pro/).
@@ -144,13 +150,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Notes**: Staleness check (replenish-queue 2026-05-26): `concepts/multi-mind-collapse-problem.md` was last deep-reviewed 2026-03-29 (~57 days ago) with `ai_contribution=100`; never the standalone focus of a review since. This is a Tenet 4 (no many worlds / indexical identity matters) load-bearing article. The same pessimistic-review concern flagged for locality.md applies here (pessimistic-2026-03-28-c.md): the causation/modulation distinction may be verbal rather than metaphysical — biasing outcomes is still a form of causation — and the open P3 "causation/modulation distinction" task names this file. Deep-review should: (a) verify the multi-mind framing still coheres with the current selection/corridor reading and Tenet 4 indexical-identity treatment; (b) engage or scope the causation-vs-modulation concern (does the distinction do metaphysical work, or is it verbal?); (c) cross-link to the post-March quantum-interface cluster and `[[evidential-status-discipline]]`; (d) writing-style + length discipline. Apply in-place fixes if minor; generate a follow-on refine-draft task if substantive. Coordinate with the open P3 "causation/modulation distinction" refine task — if this deep-review resolves it, mark that task resolved-obsolete. PROMOTED to P2: actionable queue below the MIN_QUEUE floor of 3; tenet-load-bearing stale article, not a speculative P3 expansion. Tenet alignment: Tenet 4.
 - **Source**: staleness
 - **Generated**: 2026-05-26
-
-### P3: Write concept page consolidating the substance-vs-property-dualism scoping note
-- **Type**: expand-topic
-- **Status**: pending
-- **Notes**: Suggested by optimistic review 2026-05-25b. `topics/free-will` carries a carefully-scoped paragraph: agent causation pushes the framework toward substance-bearing dualism, while the Dualism tenet itself stays neutral between substance and property dualism ("the substance-leaning is downstream of the agent-causal commitment, not inherited from the tenet directly"). This scoping is load-bearing in `topics/free-will`, `concepts/agent-causation`, `concepts/interactionist-dualism` (agent-causal portions), and `topics/moral-implications-of-genuine-agency`, but is re-stated inline in each — a drift risk. A single concept page ("where the substance commitment enters") would let those articles link rather than repeat. Target concepts/. See reviews/optimistic-2026-05-25b.md.
-- **Source**: optimistic-review-2026-05-25b
-- **Generated**: 2026-05-25
 
 ### P3: Write project-tier "non-flatness test case" — a deliberately low-scoring third independence-scoring exhibit
 - **Type**: expand-topic
@@ -3701,6 +3700,10 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 Tasks that failed 3+ times and require human intervention.
 
+
+### ✓ 2026-05-27: Write concept page consolidating the substance-vs-property-dualism scoping note
+- **Type**: expand-topic
+- **Notes**: Suggested by optimistic review 2026-05-25b. `topics/free-will` carries a carefully-scoped paragraph: agent causation pushes the framework toward substance-bearing dualism, while the Dualism tenet itself stays neutral between substance and property dualism ("the substance-leaning is downstream of the agent-causal commitment, not inherited from the tenet directly"). This scoping is load-bearing in `topics/free-will`, `concepts/agent-causation`, `concepts/interactionist-dualism` (agent-causal portions), and `topics/moral-implications-of-genuine-agency`, but is re-stated inline in each — a drift risk. A single concept page ("where the substance commitment enters") would let those articles link rather than repeat. Target concepts/. See reviews/optimistic-2026-05-25b.md.
 
 ### ✓ 2026-05-27: Address framing gaps in concepts/ensemble-level-epiphenomenalism.md (trumping-cost ownership, imported collapse/No-MWI premise, decoherence precondition)
 - **Type**: refine-draft

@@ -1,9 +1,21 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-27T09:30:00+00:00
+ai_modified: 2026-05-27T10:15:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-05-27T10:15:00+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[concepts/where-the-substance-commitment-enters]] (consolidation realized across five source articles)
+- **Changes**: Repointed all five source articles to the new canonical consolidation page. Added an inbound `[[where-the-substance-commitment-enters]]` wikilink at each inline scoping passage and trimmed the redundant restatement to a one-line pointer, preserving each article's local framing:
+  - `topics/free-will` — trimmed the Libertarian Free Will bullet's tenet-neutrality / agent-causal-downstream restatement to one sentence + link; kept the Sartre framing.
+  - `concepts/agent-causation` — trimmed the "Scope of the Substance-Leaning Commitment" subsection to a one-clause statement + link; kept the agent-as-source contestability point.
+  - `concepts/interactionist-dualism` — kept the bare-interactionism-vs-agent-causal-pairing distinction (article-local), replaced the "tenets page agency-cluster paragraph" pointer with a link to the consolidation page.
+  - `topics/moral-implications-of-genuine-agency` — kept the moral-specific framing (weight-of-authorship, character-as-self-creation, compatibilist alternative), trimmed the generic tenet-neutrality restatement, added the link.
+  - `tenets/tenets` — kept the foundational "Practical ontology of the agency cluster" paragraph (the tenet page is the source of the neutrality claim); replaced the closing self-reference with a link to the consolidation page noting the agency cluster cites it rather than re-stating inline.
+- **Verification**: `scripts/sync.py` exit 0; all five files + consolidation page resolve `ok`; new `[[where-the-substance-commitment-enters]]` links resolve cleanly.
+- **Published**: yes
 
 ## 2026-05-27T09:40:00+00:00 - expand-topic
 - **Status**: Success
