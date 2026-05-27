@@ -4,7 +4,7 @@ description: "Attributing beliefs, desires, and intentions to others. Higher lev
 created: 2026-01-22
 modified: 2026-01-22
 human_modified: null
-ai_modified: 2026-05-27T03:49:13+00:00
+ai_modified: 2026-05-27T19:43:27+00:00
 draft: false
 topics:
   - "[[animal-consciousness]]"
@@ -213,6 +213,7 @@ The simpler hypothesis—theory of mind is just sophisticated behaviour predicti
 - [[working-memory]] — The workspace enabling recursive mental operations
 - [[intentionality]] — The aboutness of mental states
 - [[default-mode-network]] — The resting self-referential network whose substrate (mPFC, TPJ, precuneus) overlaps the theory-of-mind network
+- [[self-construction-constructor]] — Apex synthesis where the metarepresentational threshold marks the point at which the constructor stops being a passive presupposition and becomes a causal participant the construction cannot replicate
 
 ## References
 

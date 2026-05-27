@@ -4,7 +4,7 @@ description: "The brain's self-referential system, active at rest. DMN may const
 created: 2026-01-29
 modified: 2026-01-29
 human_modified: null
-ai_modified: 2026-05-27T03:49:13+00:00
+ai_modified: 2026-05-27T19:43:27+00:00
 last_deep_review: 2026-05-26T19:32:45+00:00
 draft: false
 topics:
@@ -222,6 +222,7 @@ Current evidence does not meet these conditions, but they define the space of po
 - [[consciousness-under-extreme-metabolic-constraint]] — DMN suppression as evidence that metabolic reduction intensifies rather than dims experience
 - [[neurophenomenology-and-contemplative-neuroscience]] — The DMN-modulation research programme integrating first-person reports with network measurement
 - [[incubation-effect-and-unconscious-processing]] — DMN-dominant associative processing during creative incubation
+- [[self-construction-constructor]] — Apex synthesis treating the DMN's narrative self as one of four registers of construction: on either the production or the filter reading, the narrative is content built upon a minimal self it cannot itself produce
 
 ## References
 

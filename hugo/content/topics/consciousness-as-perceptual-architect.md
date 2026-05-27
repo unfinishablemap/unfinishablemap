@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-11
-ai_modified: 2026-05-27 03:49:13+00:00
+ai_modified: 2026-05-27 19:43:27+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -165,6 +165,7 @@ And both face the same explanatory gap. Predictive processing frameworks describ
 - [filter-theory](/concepts/filter-theory/) — Consciousness as selective filter
 - [capability-division-problem](/voids/capability-division-problem/) — Brain-side vs. mind-side processing
 - [default-mode-network](/concepts/default-mode-network/) — Meditator DMN plasticity as the self-narrative counterpart to the perceptual ratchet: attention-gated remodelling across developmental timescales
+- [self-construction-constructor](/apex/self-construction-constructor/) — Apex synthesis placing perceptual construction alongside the social, narrative, and representational registers: the percept is built, but the building presupposes a subject for whom there is something it is like to perceive
 
 ## References
 

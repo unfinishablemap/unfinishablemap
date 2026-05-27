@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-12
-ai_modified: 2026-05-27 07:53:55+00:00
+ai_modified: 2026-05-27 19:43:27+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -134,6 +134,7 @@ This analysis connects to the Map's foundational commitments at multiple points.
 - [methodology-of-consciousness-research](/topics/methodology-of-consciousness-research/) — Why constructionism's third-person methodology misses the phenomenal self
 - [consciousness-and-intersubjectivity](/topics/consciousness-and-intersubjectivity/) — Why consciousness is ontologically individual but phenomenologically enriched through encounter with other minds
 - [consciousness-and-collective-phenomena](/topics/consciousness-and-collective-phenomena/) — Why collective intentionality and institutional reality require phenomenal consciousness
+- [self-construction-constructor](/apex/self-construction-constructor/) — Apex synthesis where this article's one-way dependence argument becomes the social instance of a single structural asymmetry recurring across perception, the narrative self, and the world-model: construction is real, the constructor is presupposed
 
 ## References
 

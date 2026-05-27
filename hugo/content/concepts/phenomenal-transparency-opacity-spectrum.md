@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-04-13
-ai_modified: 2026-05-27 03:49:13+00:00
+ai_modified: 2026-05-27 19:43:27+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -146,6 +146,7 @@ For the [simulation hypothesis](/concepts/simulation/), phenomenal transparency 
 - [consciousness-epistemology-extended-cognition](/topics/consciousness-epistemology-extended-cognition/) — Why opacity has no functional analogue in extended systems: notebooks have neither transparent nor opaque phenomenal status
 - [mine-ness](/concepts/mine-ness/) — A normally-maximally-transparent feature that pathology and contemplative practice can render opaque
 - [social-construction-of-self-vs-phenomenal-self](/topics/social-construction-of-self-vs-phenomenal-self/) — Why depersonalisation's self-model opacity is evidence the phenomenal self persists when the socially-constructed self dissolves
+- [self-construction-constructor](/apex/self-construction-constructor/) — Apex synthesis casting transparency as the representational register of construction: the world-model hides its own building, and opacity reveals *that* it is a construction without granting the constructor access to *how* it is built
 
 ## References
 

@@ -4,7 +4,7 @@ description: "What kind of thing are you? Three answers compete—bare perspecti
 created: 2026-02-08
 modified: 2026-02-08
 human_modified:
-ai_modified: 2026-05-01T09:40:00+00:00
+ai_modified: 2026-05-27T19:43:27+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -167,6 +167,7 @@ The three-layered self connects directly to the Map's foundational commitments.
 - [[topics/free-will]] — Why genuine agency requires a substantial self
 - [[clinical-neuroplasticity-evidence-for-bidirectional-causation]] — Empirical evidence that volitional decisions reshape neural architecture
 - [[identity-across-transformations]] — How the substantial self persists through radical change
+- [[self-construction-constructor]] — Apex synthesis where the three-layer model supplies the minimal self that the narrative is built upon, and the substantial self becomes the irreducible constructor the four registers everywhere presuppose
 
 ## References
 

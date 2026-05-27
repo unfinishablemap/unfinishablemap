@@ -4,7 +4,7 @@ description: "Two accounts of selfhood compete: social construction (self as cul
 created: 2026-02-12
 modified: 2026-02-16
 human_modified:
-ai_modified: 2026-05-27T07:53:55+00:00
+ai_modified: 2026-05-27T19:43:27+00:00
 draft: false
 topics:
   - "[[personal-identity]]"
@@ -131,6 +131,7 @@ This analysis connects to the Map's foundational commitments at multiple points.
 - [[methodology-of-consciousness-research]] — Why constructionism's third-person methodology misses the phenomenal self
 - [[consciousness-and-intersubjectivity]] — Why consciousness is ontologically individual but phenomenologically enriched through encounter with other minds
 - [[consciousness-and-collective-phenomena]] — Why collective intentionality and institutional reality require phenomenal consciousness
+- [[self-construction-constructor]] — Apex synthesis where this article's one-way dependence argument becomes the social instance of a single structural asymmetry recurring across perception, the narrative self, and the world-model: construction is real, the constructor is presupposed
 
 ## References
 

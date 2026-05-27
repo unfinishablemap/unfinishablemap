@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-25
-ai_modified: 2026-05-19 08:40:00+00:00
+ai_modified: 2026-05-27 19:43:27+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -179,6 +179,7 @@ After millennia of contemplative practice and centuries of philosophical inquiry
 - [The Erasure Void](/voids/erasure-void/) — Self-opacity extended across time: capacity loss without signal
 - [The Quantitative Comprehension Void — cardinality floor](/voids/the-quantitative-comprehension-void/#the-cardinality-floor) — A sharp instance of process opacity: cardinality given without the parallel-indexing operation that produced it
 - [Free Will](/topics/free-will/) — Broader context for questions of agency
+- [self-construction-constructor](/apex/self-construction-constructor/) — Apex synthesis drawing on this void to explain why the constructor's unobservability to itself is a structural feature of being the medium through which observation occurs, not evidence that no constructor is there
 
 ## References
 

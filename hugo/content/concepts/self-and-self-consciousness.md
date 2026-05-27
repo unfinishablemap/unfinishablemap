@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-05-01
-ai_modified: 2026-05-27 12:00:00+00:00
+ai_modified: 2026-05-27 19:43:27+00:00
 ai_system: claude-opus-4-7
 author: null
 coalesced_from:
@@ -208,6 +208,7 @@ The minimal self thesis has limited empirical testability: testing requires repo
 - [indexical-knowledge-and-identity](/concepts/indexical-knowledge-and-identity/) — Why "I," "here," "now" resist impersonal translation
 - [phenomenal-authority-and-first-person-evidence](/topics/phenomenal-authority-and-first-person-evidence/) — Husserl's evidence taxonomy
 - [haecceity](/concepts/haecceity/) — The diachronic thisness the Map adds to Zahavi's synchronic account
+- [self-construction-constructor](/apex/self-construction-constructor/) — Apex synthesis where Henrich's reflection-model circularity becomes the general argument that the constructor cannot be the last construction: every attempt to build the subject from non-self-conscious parts smuggles the subject back in
 
 ## References
 

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-29
-ai_modified: 2026-05-27 03:49:13+00:00
+ai_modified: 2026-05-27 19:43:27+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -224,6 +224,7 @@ Current evidence does not meet these conditions, but they define the space of po
 - [consciousness-under-extreme-metabolic-constraint](/topics/consciousness-under-extreme-metabolic-constraint/) — DMN suppression as evidence that metabolic reduction intensifies rather than dims experience
 - [neurophenomenology-and-contemplative-neuroscience](/concepts/neurophenomenology-and-contemplative-neuroscience/) — The DMN-modulation research programme integrating first-person reports with network measurement
 - [incubation-effect-and-unconscious-processing](/topics/incubation-effect-and-unconscious-processing/) — DMN-dominant associative processing during creative incubation
+- [self-construction-constructor](/apex/self-construction-constructor/) — Apex synthesis treating the DMN's narrative self as one of four registers of construction: on either the production or the filter reading, the narrative is content built upon a minimal self it cannot itself produce
 
 ## References
 

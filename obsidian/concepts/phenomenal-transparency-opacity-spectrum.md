@@ -4,7 +4,7 @@ description: "Experience normally conceals itself as representation (transparenc
 created: 2026-02-09
 modified: 2026-04-13
 human_modified:
-ai_modified: 2026-05-27T03:49:13+00:00
+ai_modified: 2026-05-27T19:43:27+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -143,6 +143,7 @@ For the [[simulation|simulation hypothesis]], phenomenal transparency makes the 
 - [[consciousness-epistemology-extended-cognition]] — Why opacity has no functional analogue in extended systems: notebooks have neither transparent nor opaque phenomenal status
 - [[mine-ness]] — A normally-maximally-transparent feature that pathology and contemplative practice can render opaque
 - [[social-construction-of-self-vs-phenomenal-self]] — Why depersonalisation's self-model opacity is evidence the phenomenal self persists when the socially-constructed self dissolves
+- [[self-construction-constructor]] — Apex synthesis casting transparency as the representational register of construction: the world-model hides its own building, and opacity reveals *that* it is a construction without granting the constructor access to *how* it is built
 
 ## References
 

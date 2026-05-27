@@ -4,7 +4,7 @@ description: "Consciousness cannot fully know itself—six thinkers from diverge
 created: 2026-01-14
 modified: 2026-04-30
 human_modified: null
-ai_modified: 2026-05-19T08:40:00+00:00
+ai_modified: 2026-05-27T19:43:27+00:00
 draft: false
 topics:
   - "[[philosophy-of-mind]]"
@@ -176,6 +176,7 @@ After millennia of contemplative practice and centuries of philosophical inquiry
 - [[erasure-void|The Erasure Void]] — Self-opacity extended across time: capacity loss without signal
 - [[the-quantitative-comprehension-void#the-cardinality-floor|The Quantitative Comprehension Void — cardinality floor]] — A sharp instance of process opacity: cardinality given without the parallel-indexing operation that produced it
 - [[topics/free-will|Free Will]] — Broader context for questions of agency
+- [[self-construction-constructor]] — Apex synthesis drawing on this void to explain why the constructor's unobservability to itself is a structural feature of being the medium through which observation occurs, not evidence that no constructor is there
 
 ## References
 

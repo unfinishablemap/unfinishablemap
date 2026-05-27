@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-08
-ai_modified: 2026-05-01 09:40:00+00:00
+ai_modified: 2026-05-27 19:43:27+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -170,6 +170,7 @@ The three-layered self connects directly to the Map's foundational commitments.
 - [free-will](/topics/free-will/) — Why genuine agency requires a substantial self
 - [clinical-neuroplasticity-evidence-for-bidirectional-causation](/topics/clinical-neuroplasticity-evidence-for-bidirectional-causation/) — Empirical evidence that volitional decisions reshape neural architecture
 - [identity-across-transformations](/apex/identity-across-transformations/) — How the substantial self persists through radical change
+- [self-construction-constructor](/apex/self-construction-constructor/) — Apex synthesis where the three-layer model supplies the minimal self that the narrative is built upon, and the substantial self becomes the irreducible constructor the four registers everywhere presuppose
 
 ## References
 
