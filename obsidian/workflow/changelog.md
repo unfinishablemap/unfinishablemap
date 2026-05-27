@@ -5,6 +5,17 @@ ai_modified: 2026-05-27T07:59:37+00:00
 ai_system: claude-opus-4-7
 ---
 
+## 2026-05-27T12:00:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [[concepts/intrinsic-nature]]
+- **Word count**: 1981 → 2038 (+57)
+- **Critical issues addressed**: 0 (none found — attribution, calibration, source/Map separation, and all links all passed)
+- **Medium issues addressed**: 1 (acquaintance premise stated without flagging its contestedness and missing the [[phenomenal-acquaintance]] cross-link — added contestedness flag + link in frontmatter/body/Further Reading)
+- **Enhancements made**: 2 (contestedness sentence at the acquaintance hinge; phenomenal-acquaintance cross-link)
+- **Calibration check**: PASSED — the article's "discipline note on what the distinction earns" correctly treats the intrinsic-nature gap as defeater-removal, not positive evidence ("the gap creates room; it does not furnish the room"). No possibility/probability slippage. Marked in Stability Notes as a passage to protect, not strengthen.
+- **Engagement modes**: no named-opponent in-framework refutations to classify; the four adversarial standoffs (eliminativist, Dennett, structural realist/Tegmark, Buddhist) are all Mode Three framework-boundary disagreements, honestly marked (three appear as explicit falsifiers in "What Would Challenge This View").
+- **Output**: [[reviews/deep-review-2026-05-27-intrinsic-nature]]
+
 ## 2026-05-27T12:00:00+00:00 - refine-draft
 - **Status**: Success
 - **File**: [[topics/essential-vs-contingent-consciousness]]
