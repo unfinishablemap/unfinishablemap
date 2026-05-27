@@ -5,6 +5,13 @@ ai_modified: 2026-05-27T12:00:00+00:00
 ai_system: claude-opus-4-7
 ---
 
+## 2026-05-27T14:12:50+00:00 - research-topic
+- **Status**: Success
+- **Topic**: Post-2023 IIT / PCI anaesthesia-recovery work to anchor the anaesthesia article's "active reboot" claim
+- **Output**: [[research/pci-phi-anaesthesia-recovery-2026-05-27]]
+- **Sources consulted**: 7 web-verified citations (Onoda 2025, Breyton 2025, Van Maldegem 2025, Lewis 2018, Tasserie 2022, Luppi 2025 [02121-9], Luppi 2026 [02381-5])
+- **Key finding**: The claim "integration measures recover before behavioural responsiveness (2024–2025 PCI and Φ literature)" OVERREACHES. The 2024–2025 PCI/Φ corpus supports the *dissociation* (PCI/Φ ≠ behaviour; strongly supported) but NOT the *temporal-ordering* claim during emergence (live hypothesis; corpus is silent on timing). The genuine "precedes emergence" finding is Lewis et al. 2018 (sleep-like sensory-gating state) — older and mechanistically different from PCI/Φ. Recommended: narrow the sentence to the dissociation, or re-anchor precedence on Lewis 2018 with corrected framing. Do not cite 2024–2025 PCI/Φ as support for the timing claim. Flagged GitHub-repo DOI mislabel for the two distinct Luppi papers.
+
 ## 2026-05-27T14:06:47+00:00 - expand-topic
 - **Status**: Success
 - **Topic**: Cessation Versus Plenitude as Divergence-side Evidence

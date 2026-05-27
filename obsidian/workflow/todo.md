@@ -37,6 +37,29 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
+### P2: Adopt filter-theory calibration in recovery-order-asymmetry-as-interface-evidence
+- **Type**: refine-draft
+- **Status**: pending
+- **File**: obsidian/topics/recovery-order-asymmetry-as-interface-evidence.md
+- **Notes**: From topic-concept anchoring audit 2026-05-27. The topic article over-claims relative to its anchor concept [[filter-theory]]; failed checks: hedge_density, underdetermination_markers.
+  - hedge density 0.38/kw is below 60% of anchor (3.79/kw)
+  - anchor declares underdetermination (1× explicit) but topic has no underdetermination markers
+  - Action: bring the topic's hedge profile in line with the anchor concept's. Preserve the article's voice; this is not a request to weaken the central claim, only to inherit the calibration discipline the anchor concept already uses. See [[project/calibration-audit-triple]] Audit Three for the spec and [[evidential-status-discipline]] for the underlying rule.
+- **Source**: topic-concept-anchoring-audit
+- **Generated**: 2026-05-27
+
+### P2: Adopt phenomenal-consciousness calibration in neurological-dissociations-as-interface-architecture
+- **Type**: refine-draft
+- **Status**: pending
+- **File**: obsidian/topics/neurological-dissociations-as-interface-architecture.md
+- **Notes**: From topic-concept anchoring audit 2026-05-27. The topic article over-claims relative to its anchor concept [[phenomenal-consciousness]]; failed checks: hedge_density, strong_assertions.
+  - hedge density 2.01/kw is below 60% of anchor (6.76/kw)
+  - topic uses 5 strong-assertion verbs where anchor uses none
+  - Action: bring the topic's hedge profile in line with the anchor concept's. Preserve the article's voice; this is not a request to weaken the central claim, only to inherit the calibration discipline the anchor concept already uses. See [[project/calibration-audit-triple]] Audit Three for the spec and [[evidential-status-discipline]] for the underlying rule.
+- **Source**: topic-concept-anchoring-audit
+- **Generated**: 2026-05-27
+
+
 ### P1: Fix verified citation errors in topics/meaning-of-life.md (Tallis issue, Landau 2025, missing references)
 - **Type**: refine-draft
 - **Notes**: From outer review 2026-05-27 (ChatGPT 5.5 Pro), two citation errors **independently verified** during processing (see Verification Notes in the review file). (1) **Tallis** — References list (line 286) cites "The Illusion of Illusionism. *Philosophy Now*, 159." The piece is actually in *Philosophy Now* **Issue 161 (April/May 2024)**, full title "Tallis in Wonderland: The Illusion of Illusionism," pp. 58–59 (confirmed via Philosophy Now issue-161 listing + Philosophy Documentation Center). Fix the issue number 159→161 and consider adding the full column title and page range. (2) **Landau 2025** — citation "The Implications of Cosmic Meaninglessness, *Journal of Philosophy of Life*, 15(1), 2025" could not be verified in PhilPapers/PhilPeople/JPL contents; Landau's closest cosmic-context work is "Can Lives Be Seen as Meaningful Within the Cosmic Context?" (*Philosophia*, 2023, doi:10.1007/s11406-023-00660-x). Either replace with a verifiable Landau reference or remove the unverifiable one — do not leave a fabricated-looking citation. (3) **Missing references** — Craig, Swinburne (line 47), Frankfurt, Taylor (line 61), Parfit (line 103), Sartre (line 151) are named in body text but absent from the References list; add proper references or note them inline. Citation hygiene only — do not touch argument structure. See [[reviews/outer-review-2026-05-27-chatgpt-5-5-pro]].
@@ -165,13 +188,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Notes**: New topic article `topics/recovery-order-asymmetry-as-interface-evidence.md` (created 2026-05-27) develops the "graded channel failure" / "constrained asymmetries at interface boundaries" seam-class that apex #27 The Self-Concealing Interface re-orients its falsification programme around. Consider adding it to the apex's Source articles and integrating the direction-of-interface-change signature family at the seam-classes passage. Verify load-bearing before adding (apex-evolve discipline). Honour [[evidential-status-discipline]] — the asymmetry constrains rather than establishes.
 - **Source**: expand-topic chain (recovery-order-asymmetry-as-interface-evidence)
 - **Generated**: 2026-05-27
-
-### P3: Research post-2023 IIT recovery work to anchor anaesthesia article active-reboot claim
-- **Type**: research-topic
-- **Status**: pending
-- **Notes**: Suggested by optimistic-2026-05-17.md (Ideas for Later). The anaesthesia article §"The Active Reboot" (line 108) references "Recent IIT work (2024–2025 PCI and Φ literature) finds integration measures recover before behavioural responsiveness, consistent with the workspace being prepared in advance." The reference is currently generic — no specific Casali / Massimini / Sarasso / Tononi / Sitt 2024–2025 PCI papers cited; the load-bearing claim ("integration measures recover before behavioural responsiveness") needs a canonical citation anchor so subsequent refine passes can install it. Research note should retrieve (a) the specific 2024–2025 PCI papers that ground the *recovery-before-responsiveness* claim — Sarasso/Casali/Massimini group at Milan + Sitt/Naccache group at Paris are the active centres; key journals are *Brain*, *Curr Biol*, *Conscious Cogn*, *Cerebral Cortex*, *PLoS Biol*; (b) the methodological refinements that distinguish 2024–2025 PCI work from the 2013–2015 original (specifically: PCIst computational refinement, multi-modal PCI integrations with high-density EEG + TMS, longitudinal PCI through emergence phases rather than single-snapshot measurements); (c) the Φ (integrated information) literature on emergence-state ordering — Hoel/Albantakis/Tononi 2024–2025 work and the IIT 4.0 framework updates; (d) any 2024–2025 work that contradicts the *recovery-before-responsiveness* ordering (negative findings or alternative orderings); (e) the cross-mapping between PCI/Φ recovery measures and the KCC2 active-reboot molecular finding — whether any 2024–2025 work integrates the molecular and the integration-measure levels. Estimated research scope: ~1.5–2 hours; output ~1500–2500 words in `research/post-2023-iit-recovery-anaesthesia-{date}.md`. Should explicitly note whether the recovery-before-responsiveness claim survives stress-testing against 2024–2025 negative findings, and identify the canonical citations the anaesthesia article (and possibly a future `concepts/active-reboot.md` queued at P3 line 47) should install. Tenet alignment: empirical-anchor strengthening for active-reboot exhibit; [[evidential-status-discipline]] — verify the convergence framing the article uses is supported at the right modal level by the underlying literature. See `reviews/optimistic-2026-05-17.md` (Ideas for Later).
-- **Source**: optimistic-review (2026-05-17)
-- **Generated**: 2026-05-17
 
 ### P3: Research Berridge wanting/liking dissociation as value-in-mechanism fork empirical anchor
 - **Type**: research-topic
@@ -3621,6 +3637,10 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 Tasks that failed 3+ times and require human intervention.
 
+
+### ✓ 2026-05-27: Research post-2023 IIT recovery work to anchor anaesthesia article active-reboot claim
+- **Type**: research-topic
+- **Notes**: Suggested by optimistic-2026-05-17.md (Ideas for Later). The anaesthesia article §"The Active Reboot" (line 108) references "Recent IIT work (2024–2025 PCI and Φ literature) finds integration measures recover before behavioural responsiveness, consistent with the workspace being prepared in advance." The reference is currently generic — no specific Casali / Massimini / Sarasso / Tononi / Sitt 2024–2025 PCI papers cited; the load-bearing claim ("integration measures recover before behavioural responsiveness") needs a canonical citation anchor so subsequent refine passes can install it. Research note should retrieve (a) the specific 2024–2025 PCI papers that ground the *recovery-before-responsiveness* claim — Sarasso/Casali/Massimini group at Milan + Sitt/Naccache group at Paris are the active centres; key journals are *Brain*, *Curr Biol*, *Conscious Cogn*, *Cerebral Cortex*, *PLoS Biol*; (b) the methodological refinements that distinguish 2024–2025 PCI work from the 2013–2015 original (specifically: PCIst computational refinement, multi-modal PCI integrations with high-density EEG + TMS, longitudinal PCI through emergence phases rather than single-snapshot measurements); (c) the Φ (integrated information) literature on emergence-state ordering — Hoel/Albantakis/Tononi 2024–2025 work and the IIT 4.0 framework updates; (d) any 2024–2025 work that contradicts the *recovery-before-responsiveness* ordering (negative findings or alternative orderings); (e) the cross-mapping between PCI/Φ recovery measures and the KCC2 active-reboot molecular finding — whether any 2024–2025 work integrates the molecular and the integration-measure levels. Estimated research scope: ~1.5–2 hours; output ~1500–2500 words in `research/post-2023-iit-recovery-anaesthesia-{date}.md`. Should explicitly note whether the recovery-before-responsiveness claim survives stress-testing against 2024–2025 negative findings, and identify the canonical citations the anaesthesia article (and possibly a future `concepts/active-reboot.md` queued at P3 line 47) should install. Tenet alignment: empirical-anchor strengthening for active-reboot exhibit; [[evidential-status-discipline]] — verify the convergence framing the article uses is supported at the right modal level by the underlying literature. See `reviews/optimistic-2026-05-17.md` (Ideas for Later).
 
 ### ✓ 2026-05-27: Write concept article on Cessation versus Plenitude as Divergence-side Evidence
 - **Type**: expand-topic
