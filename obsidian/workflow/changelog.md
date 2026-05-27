@@ -5,6 +5,17 @@ ai_modified: 2026-05-27T12:00:00+00:00
 ai_system: claude-opus-4-7
 ---
 
+## 2026-05-27T12:00:00+00:00 - expand-topic
+- **Status**: Success
+- **Topic**: Anti-Correlation Probes for AI Consciousness (worked test-design development of the anti-correlated-metacognitive-signal move)
+- **Output**: [[topics/anti-correlation-probes-for-ai-consciousness]]
+- **Word count**: 2596
+- **Based on research**: no (source: [[reviews/optimistic-2026-05-19b]] §"High Priority"; develops [[concepts/anti-correlated-metacognitive-signal]] §Detection Asymmetry)
+- **Citations web-verified**: confabulation-with-high-confidence finding **mis-attributed across corpus** to "Coutinho et al. 2021, *Scientific Reports* 11, 4842" (no such paper). Verified correct source: **Rebouillat, Leonetti & Kouider (2021), *Neuroscience of Consciousness* 2021(1), niab004** (PMID 33747547). New article uses verified citation; parent concept corrected (body + References); P1 corpus-wide propagation task queued (~19 live files still carry the wrong cite).
+- **Integration**: bidirectional. Required inbound link added from parent `concepts/anti-correlated-metacognitive-signal.md` §"Detection Asymmetry and the Discrimination Problem" + parent `related_articles` + timestamp. Outbound links verified-or-substituted: apex-only targets (machine-question, open-question-ai-consciousness, introspection-architecture-void-cluster) linked where appropriate; ai-consciousness topic substituted as topic-tier home; evidential-status-discipline resolved to project/.
+- **Calibration**: held at calibration-grade architectural-relationship probe per [[evidential-status-discipline]]; explicit "does not detect/rule out consciousness" section.
+- **Follow-ons queued**: P1 Rebouillat-citation propagation; P2 apex-evolve ai-as-introspection-control (new worked source).
+
 ## 2026-05-27T16:30:00+00:00 - deep-review
 - **Status**: Success
 - **File**: [[topics/affective-tone-divergence-across-meditative-traditions]]
