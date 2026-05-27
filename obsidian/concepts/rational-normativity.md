@@ -4,8 +4,8 @@ description: "Rational normativity is the prescriptive dimension of reasoning �
 created: 2026-04-15
 modified: 2026-04-15
 human_modified:
-ai_modified: 2026-04-15T20:42:00+00:00
-last_deep_review: 2026-04-15T20:42:00+00:00
+ai_modified: 2026-05-27T22:21:26+00:00
+last_deep_review: 2026-05-27T22:21:26+00:00
 draft: false
 topics:
   - "[[consciousness-and-the-normativity-of-reason]]"
@@ -45,6 +45,14 @@ Rational normativity refers specifically to the norms governing belief formation
 
 These features collectively constitute what Wilfrid Sellars captured with his distinction between the "logical space of reasons" and the realm of natural law. To characterise a mental state as knowledge is not to give an empirical description but to locate it within a network of justificatory relations — relations that are normative rather than causal.
 
+## Implementing a Norm versus Grasping It
+
+The most important distinction for assessing whether physical systems can host rational normativity is between *implementing* a norm and *grasping* it. A system implements a norm when its behaviour reliably conforms to the norm; it grasps the norm when it recognises the norm *as* a norm — understands why the standard binds, and is guided by that understanding rather than merely caused to conform.
+
+A chess engine implements the rules of legal movement flawlessly: it never makes an illegal move, and it evaluates positions by criteria that track genuine strategic reasons. Yet it does not recognise any move as one it *ought* to play. Its conformity to the rules is wired in from outside; the engine produces outputs that a reason-grasping player would also produce, but it does so through processes that could be rewired to optimise for the worst move without anything in the system noticing a violation. A theorem prover follows syntactic transformation rules that, viewed externally, correspond to valid inference — but it does not recognise the rules as valid, understand why a conclusion follows, or revise its patterns in response to grasping a new logical principle. Both systems implement norms; neither grasps them.
+
+The distinction identifies what a physicalist account of reasoning must supply. Grasping a norm is not reducible to reliably conforming to it, because conformity is compatible with complete absence of normative awareness — the engine and the prover demonstrate this. The physicalist who claims to *grasp* the relation between evidence and theory therefore owes an account of how a system built entirely from norm-implementing parts comes to grasp anything. This is a transcendental point about the conditions of genuine reasoning, not an empirical finding: it does not by itself prove that consciousness supplies the grasping, only that grasping is a real explanandum that mere implementation leaves untouched. The Map holds that consciousness is what closes this gap — but the distinction's work is to show the gap exists, framing the question that [[reasons-responsiveness]] and the [[self-stultification-as-master-argument|self-stultification argument]] then press.
+
 ## Distinction from Other Normativities
 
 Rational normativity is one species of a broader genus. Other normative domains include:
@@ -75,7 +83,7 @@ Three influential strategies for reducing rational normativity to physical proce
 
 **Reliabilism** replaces the normative question — "what *should* I believe?" — with a descriptive one — "what process reliably produces true beliefs?" But reliability is itself a normative notion. Which processes count as the same type? Reliable relative to which environments? What counts as truth? Answering these questions requires normative judgement. Reliabilism presupposes rational normativity rather than explaining it.
 
-**[[functionalism|Functionalism]]** proposes that the right causal-functional organisation constitutes rule-following. The functionalist claims that justificatory relations *just are* certain complex causal patterns viewed at the right level of abstraction. But this move collapses the distinction it needs to preserve: if "A justifies B" reduces to "A causes B through the right functional pathway," the normative force disappears. A system that happens to behave as if it follows logical rules may be doing nothing more than running along causal tracks. The prescriptive dimension — the fact that the conclusion *ought* to follow — is not captured by any functional architecture, however sophisticated. The Map's treatment of [[consciousness-and-the-authority-of-formal-systems|formal systems and logical authority]] develops this point: formal systems can implement rules but cannot generate the phenomenal experience of rational compulsion that constitutes genuine normativity.
+**[[functionalism|Functionalism]]** proposes that the right causal-functional organisation constitutes rule-following. The functionalist claims that justificatory relations *just are* certain complex causal patterns viewed at the right level of abstraction. But this move collapses the distinction it needs to preserve: if "A justifies B" reduces to "A causes B through the right functional pathway," the normative force disappears. A system that happens to behave as if it follows logical rules may be doing nothing more than running along causal tracks. The prescriptive dimension — the fact that the conclusion *ought* to follow — is not captured by any functional architecture, however sophisticated. A functional system implements the inference norm without grasping it (see above). The Map's treatment of [[consciousness-and-the-authority-of-formal-systems|formal systems and logical authority]] develops this point: formal systems can implement rules but cannot generate the phenomenal experience of rational compulsion that constitutes genuine normativity.
 
 **Evolutionary teleology** appeals to natural selection: our cognitive faculties were shaped to track truth because accurate beliefs aid survival. But as Plantinga's evolutionary argument against naturalism observes, natural selection rewards adaptive behaviour, not true belief. An organism with systematically false beliefs that generate survival-enhancing behaviour would be equally fit. Evolution explains why we *tend to behave* as if we reason well; it does not explain why we *ought* to follow the evidence. Nagel presses the same point in *The Last Word*: our capacity for logical and mathematical reasoning outstrips anything natural selection could have targeted, suggesting that reason resists naturalistic reduction.
 

@@ -4,7 +4,7 @@ description: "Reasons-responsiveness is the capacity to track normative relation
 created: 2026-02-01
 modified: 2026-02-01
 human_modified: null
-ai_modified: 2026-05-25T12:42:11+00:00
+ai_modified: 2026-05-27T22:21:26+00:00
 last_deep_review: 2026-05-25T12:42:11+00:00
 draft: false
 topics:
@@ -41,7 +41,7 @@ Wilfrid Sellars distinguished the "space of reasons" from the "space of causes."
 
 Reasons-responsiveness means operating in the space of reasons—being sensitive to what *follows from* what, to what *counts as* good evidence, to what conclusions are *warranted*. A thermostat is causally responsive to temperature but not reasons-responsive to it. A reasoner tracking why global warming follows from greenhouse gas emissions operates in a different space from the causal chain of neurons producing that tracking.
 
-This distinction is conceptually irreducible: we cannot describe reasoning without normative vocabulary. The [[consciousness-and-the-normativity-of-reason|normativity of reason]] develops three features of this irreducibility — prescriptive force, universality, and content-sensitivity — that resist any physical redescription. The [[argument-from-reason|argument from reason]] presses further: if normative relationships are conceptually irreducible to causal ones, they may be ontologically irreducible as well. Physical causation operates through efficient causes that have nothing to do with whether outputs are *justified*—neurons fire because of electrochemical gradients, not because firing would be reasonable.
+This distinction is conceptually irreducible: we cannot describe reasoning without normative vocabulary. [[rational-normativity|Rational normativity]] develops three features of this irreducibility — prescriptive force, universality, and content-sensitivity — that resist any physical redescription, and distinguishes merely *implementing* a norm from *grasping* it; where normativity specifies the standard, reasons-responsiveness names the capacity that meets it. The [[argument-from-reason|argument from reason]] presses further: if normative relationships are conceptually irreducible to causal ones, they may be ontologically irreducible as well. Physical causation operates through efficient causes that have nothing to do with whether outputs are *justified*—neurons fire because of electrochemical gradients, not because firing would be reasonable.
 
 ## Reasons-Responsiveness and Free Will
 

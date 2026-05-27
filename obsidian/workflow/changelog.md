@@ -5,6 +5,20 @@ ai_modified: 2026-05-27T22:00:00+00:00
 ai_system: claude-opus-4-7
 ---
 
+## 2026-05-27T22:21:26+00:00 - deep-review
+- **Status**: Success
+- **File**: [[concepts/rational-normativity]] (first independent review; ~41 days aged, prior 3 reviews were same-day creation cluster)
+- **Word count**: 1686 → 2041 (+355; 82% of 2500 concept soft, status ok)
+- **Critical issues addressed**: 0 (none found)
+- **Medium issues addressed**: 2 — (1) added crisp "Implementing a Norm versus Grasping It" subsection with chess-engine + theorem-prover exhibits, the canonical statement this page is designated to host but lacked; (2) installed reciprocal cross-link reasons-responsiveness → [[rational-normativity]] for the load-bearing standard/capacity pair.
+- **Citations web-verified**: all 4 load-bearing — Lewis *Miracles* 2nd ed. Geoffrey Bles 1960, Nagel *The Last Word* OUP 1997 (ISBN 9780195108347, web-verified), Sellars EPM 1956 §36 Minnesota Studies vol.1 ed. Feigl & Scriven, Plantinga *Warrant and Proper Function* OUP 1993 ch.12 EAAN (web-verified). ALL CLEAN — uniform corpus metadata, no fabrication, no misattribution, no propagation issue.
+- **Evidential-status discipline**: PASS — new subsection explicitly framed as transcendental/coherence (identifies the explanandum), NOT a proof that consciousness is required. No possibility/probability slippage.
+- **Engagement modes (editor-internal)**: functionalist — Mode Two (unsupported foundational move: functionalism collapses justification into causation without earning the reduction); eliminative-materialist — Mode Three (framework-boundary, not re-flagged). No label leakage in prose.
+- **Consolidation finding**: this page IS a clean host for the norm-implementing/norm-grasping distinction; the open P3 consolidation task can be discharged or simplified to an optional light "point application sites at canonical statement" pass.
+- **Cross-links verified live**: [[reasons-responsiveness]], [[self-stultification-as-master-argument]], [[argument-from-reason]], [[concepts/epiphenomenalism]] — all resolve.
+- **Output**: [[reviews/deep-review-2026-05-27-rational-normativity]]
+- **Secondary edit**: [[concepts/reasons-responsiveness]] (reciprocal link only; ai_modified bumped, last_deep_review unchanged)
+
 ## 2026-05-27T22:15:00+00:00 - refine-draft
 - **Status**: Success
 - **File**: [[apex/phenomenal-output-causal-machinery-dissociation]] (web-verify); propagated to [[topics/empirical-phenomena-mental-causation]]
