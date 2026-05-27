@@ -5,6 +5,14 @@ ai_modified: 2026-05-27T07:59:37+00:00
 ai_system: claude-opus-4-7
 ---
 
+## 2026-05-27T12:00:00+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[topics/essential-vs-contingent-consciousness]]
+- **Original score**: n/a (calibration-only pass from topic-concept anchoring audit 2026-05-27)
+- **Changes**: Calibration discipline (Audit Three), not weakening. Brought the topic's hedge profile into line with anchor concept [[substance-property-dualism]]. (1) Removed all 3 strong-assertion verbs: "none of them establishes the thesis" → "none of them … looks able to settle the thesis"; "the pull *constrains* rather than *establishes*" → "seems to *constrain* rather than to fix the verdict"; "shows that dualism alone does not fix that nature" → "suggests that dualism alone does not fix". (2) Added honest hedges on the inferential moves in "The Map's Reading" and "Relation to Site Perspective" (coheres → appears to cohere; underdetermined → may be underdetermined; etc.) plus two underdetermination markers ("not framework-neutral", "the evidence does not adjudicate"). Preserved the article's central lean toward essential consciousness as a provisional metaphysical commitment — the conclusion is unchanged. Engagement with Nyaya/contingentist: Mode Three (framework-boundary, declined on coherence not evidential grounds) — already honestly framed in the source; the refine reinforced the boundary-marking without claiming in-framework refutation.
+- **Audit result**: hedge_density 1.50/kw → 6.55/kw (target ≥5.94); strong-assertion verbs 3 → 0; underdetermination markers 1 → 5. evaluate_anchoring now returns no flags against any anchor concept.
+- **Published**: yes
+
 ## 2026-05-27T09:30:00+00:00 - expand-topic
 - **Status**: Success
 - **Topic**: Intrinsic nature (the structural/intrinsic distinction as a concept-level building block)

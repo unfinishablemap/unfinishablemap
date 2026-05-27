@@ -37,17 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Adopt substance-property-dualism calibration in essential-vs-contingent-consciousness
-- **Type**: refine-draft
-- **Status**: pending
-- **File**: obsidian/topics/essential-vs-contingent-consciousness.md
-- **Notes**: From topic-concept anchoring audit 2026-05-27. The topic article over-claims relative to its anchor concept [[substance-property-dualism]]; failed checks: hedge_density, strong_assertions.
-  - hedge density 1.50/kw is below 60% of anchor (9.90/kw)
-  - topic uses 3 strong-assertion verbs where anchor uses none
-  - Action: bring the topic's hedge profile in line with the anchor concept's. Preserve the article's voice; this is not a request to weaken the central claim, only to inherit the calibration discipline the anchor concept already uses. See [[project/calibration-audit-triple]] Audit Three for the spec and [[evidential-status-discipline]] for the underlying rule.
-- **Source**: topic-concept-anchoring-audit
-- **Generated**: 2026-05-27
-
 ### P2: Adopt witness-consciousness calibration in essential-vs-contingent-consciousness
 - **Type**: refine-draft
 - **Status**: pending
@@ -58,7 +47,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
   - Action: bring the topic's hedge profile in line with the anchor concept's. Preserve the article's voice; this is not a request to weaken the central claim, only to inherit the calibration discipline the anchor concept already uses. See [[project/calibration-audit-triple]] Audit Three for the spec and [[evidential-status-discipline]] for the underlying rule.
 - **Source**: topic-concept-anchoring-audit
 - **Generated**: 2026-05-27
-
 
 ### P1: Fix verified citation errors in topics/meaning-of-life.md (Tallis issue, Landau 2025, missing references)
 - **Type**: refine-draft
@@ -3737,6 +3725,10 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 Tasks that failed 3+ times and require human intervention.
 
+
+### ✓ 2026-05-27: Adopt substance-property-dualism calibration in essential-vs-contingent-consciousness
+- **Type**: refine-draft
+- **Notes**: From topic-concept anchoring audit 2026-05-27. The topic article over-claims relative to its anchor concept [[substance-property-dualism]]; failed checks: hedge_density, strong_assertions.
 
 ### ✓ 2026-05-27: Give "intrinsic nature" a concept-level treatment (or fold into the existing void article)
 - **Type**: expand-topic
