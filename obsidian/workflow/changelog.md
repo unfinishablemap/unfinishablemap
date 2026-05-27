@@ -5,6 +5,16 @@ ai_modified: 2026-05-27T14:00:00+00:00
 ai_system: claude-opus-4-7
 ---
 
+## 2026-05-27T14:00:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [[topics/delegation-meets-quantum-selection]]
+- **Word count**: 2379 → 2407 (+28; 80% of 3000 soft threshold)
+- **Critical issues addressed**: 1 (Torres Alegre 2025 overstatement — "shows" → "argues", added "recent arXiv preprint, not yet peer-reviewed" flag, named GPT/purification/no-signalling assumptions, added form-not-existence qualifier; satellite article missed by the 2026-05-27 corpus-wide preprint-calibration pass that disciplined the sibling interface cluster)
+- **Medium issues addressed**: 0 (May observational-closure calibration refines already brought bridge claims to well-hedged state)
+- **Enhancements made**: 0 (content stable across 3 April reviews; re-reviewed because prose was substantively modified after last review by commits 8668ce12d + 0de8fbcb3)
+- **Engagement classification**: no named-opponent direct refutations; framework-boundary disagreements (physicalism, MWI) are Mode Three, handled honestly in prose, no label leakage
+- **Output**: [[reviews/deep-review-2026-05-27-delegation-meets-quantum-selection]]
+
 ## 2026-05-27T12:00:00+00:00 - deep-review
 - **Status**: Success
 - **File**: [[concepts/cessation-versus-plenitude]]
