@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-26T21:31:25+00:00
+ai_modified: 2026-05-27T00:15:00+00:00
 ai_system: claude-opus-4-7
 author: Andy Southgate
 concepts: []
@@ -36,6 +36,13 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **P2**: Low - nice to have, human approval needed
 
 ## Active Tasks
+
+### P2: Deep review topics/consciousness-and-the-ontology-of-temporal-becoming.md (42 days since last review, ai_contribution=100, all-five-tenets load-bearing, navigational hub)
+- **Type**: deep-review
+- **Status**: pending
+- **Notes**: Staleness check (/replenish-queue 2026-05-27). The actionable (P0-P2) queue stood at 2 pending tasks — the consciousness-and-skill-acquisition literature-drift P2 and the episodic-memory.md deep-review P2 — below the MIN_QUEUE floor of 3. No honest new high-confidence task is available to mint: `orphaned_files=0`; all unconsumed research targets the over-cap voids section (101/100); and all three content-section length offenders are unavailable as `length_analysis` promotions — `topics/epistemology-of-convergence-arguments.md` (5867w) and `apex/phenomenal-output-causal-machinery-dissociation.md` (6990w) are both in Blocked Tasks awaiting a human editorial decision, and `topics/born-rule-and-the-consciousness-interface.md` (4997w) is churn-exhausted/vetoed (condense-targeted 20+ times on 2026-05-25, re-expands through refine passes). Rather than mint a speculative expand-topic against the near-cap sections (topics 247/270, concepts 245/270) and the large P3 backlog, promote this concrete, cap-safe, fully-specified deep-review of the stalest tenet-load-bearing article not already named in any open task. Verified: `last_deep_review: 2026-04-15T19:19:00+00:00` (~42 days), `ai_contribution=100`, 3312 words (over the 3000-word topics soft, well under the 4000 hard — note for a possible condense follow-on only if a refine pass pushes it over hard), ~43 inbound wikilinks (a navigational hub for the temporal/growing-block cluster). NOTE on staleness ordering: episodic-memory (50d) is already the pending P2 above; diachronic-agency-and-personal-narrative (46d) is already a pending P3; bi-aspectual-ontology (41d) is already a pending P3 below — this temporal-becoming article (~42d) is the stalest remaining AI-heavy content file with NO open task header referencing it. It is also unusually load-bearing: its §"Relation to Site Perspective" engages all five tenets explicitly (Tenet 1 — felt passage/creative novelty as ontologically irreducible; Tenet 2 — collapse as the minimal mechanism of becoming; Tenet 3 — consciousness constitutes the phenomenological arrow at the frontier; Tenet 4 — the growing block is MWI/eternalism-incompatible, possibilities must genuinely narrow; Tenet 5 implicit in the growing-block-vs-eternalism bet). Deep-review should: (a) verify the temporal-becoming / growing-block framing still coheres with the current collapse-interface treatment and cross-links to the post-April cluster (`[[born-rule-and-the-consciousness-interface]]`, `[[concepts/collapse-and-time]]`, `[[concepts/philosophy-of-time]]`, `[[concepts/time-symmetric-physics]]`, `[[topics/forward-in-time-conscious-selection]]`, and the temporal-void material the 2026-05-25 coalesce reshaped); (b) honour `[[evidential-status-discipline]]` — the constitution-vs-causation argument and the growing-block ontology are metaphysical commitments, not empirical findings, and the felt-passage phenomenology is prone to phenomenology-vs-metaphysics slippage; (c) confirm the ~43 inbound cross-links resolve live and are reciprocated where load-bearing; (d) writing-style + length discipline (no "This is not X. It is Y." cliché; no `<!-- AI REFINEMENT LOG -->` comment leakage). Apply in-place fixes if minor; generate a follow-on refine-draft task if substantive. Tenet alignment: all five (primarily 1, 2, 3, 4).
+- **Source**: staleness
+- **Generated**: 2026-05-27
 
 ### P3: Deep review concepts/bi-aspectual-ontology.md (41 days since last review, ai_contribution=100, Tenet 1 load-bearing)
 - **Type**: deep-review
