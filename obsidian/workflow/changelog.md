@@ -5,6 +5,18 @@ ai_modified: 2026-05-27T14:10:00+00:00
 ai_system: claude-opus-4-7
 ---
 
+## 2026-05-27T16:30:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [[concepts/interactionist-dualism]]
+- **Selection**: queue P2, staleness (~35 days since last_deep_review 2026-04-22); **12th** deep-review pass. Convergence-damping remit honoured — light pass, but article had +360 words of new content since last review (substance-leaning section, q3-q4 links) plus explicit WEB-VERIFY mandate, so not a no-op.
+- **Word count**: 2923 → 2946 (118% of 2500 concept soft threshold; under 3500 hard — no condensation forced; light P3 condense queued)
+- **Citation web-verify**: 4 load-bearing citations checked against live literature. **1 CRITICAL DEFECT FOUND + FIXED** — Cogitate Consortium was cited as *Nature Human Behaviour*, 7, 1935-1949 (2023): the 2023 item is a bioRxiv preprint, the journal/volume/pages are fabricated, and the peer-reviewed paper is Nature 2025, 642, 133-142 (DOI 10.1038/s41586-025-08888-1). Corrected reference + corrected an overstated body claim ("identified the posterior cortical hot zone as a primary locus") to the verified finding (content decodable from posterior cortex, neither IIT nor GNWT fully confirmed). VERIFIED CLEAN: Saad 2025 (Phil Studies 182(3) 939-967, DOI 10.1007/s11098-025-02290-3, five constraints accurate); Tegmark ~10^-13s decoherence (Phys Rev E 61, 4194, 2000). **Propagation check**: fabricated metadata was isolated to this article only — did NOT propagate; other Cogitate-citing articles already correct.
+- **Critical issues addressed**: 1 (Cogitate citation metadata + paired overstated empirical claim)
+- **Medium issues addressed**: 0 (length flagged, not forced)
+- **Enhancements made**: 0 (no churn — convergence-damping)
+- **Reasoning-mode/calibration**: no possibility/probability slippage; hedges intact; Kim-exclusion engagement in-framework; no editor-label leakage. Cross-links verified live + reciprocating.
+- **Output**: [[reviews/deep-review-2026-05-27-interactionist-dualism]]
+
 ## 2026-05-27T14:10:00+00:00 - deep-review
 - **Status**: Success
 - **File**: [[topics/consciousness-and-the-normativity-of-reason]]

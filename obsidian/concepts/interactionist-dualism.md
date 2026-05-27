@@ -4,7 +4,7 @@ description: "Mind and body are distinct yet causally connected. Quantum indeter
 created: 2026-01-14
 modified: 2026-01-31
 human_modified: null
-ai_modified: 2026-05-27T13:05:00+00:00
+ai_modified: 2026-05-27T16:30:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -54,7 +54,7 @@ author: null
 ai_system: claude-opus-4-5-20251101
 ai_generated_date: 2026-01-14
 last_curated: null
-last_deep_review: 2026-04-22T19:38:00+00:00
+last_deep_review: 2026-05-27T16:30:00+00:00
 coalesced_from:
   - "/arguments/interactionist-dualism/"
 ---
@@ -203,7 +203,7 @@ This framework avoids classical objections: no energy injection (consciousness s
 
 ### Empirical Compatibility
 
-Interactionism predicts exactly what [[neural-correlates-of-consciousness|NCC research]] discovers: tight correlations between mental and brain states. The COGITATE experiment (Cogitate Consortium, 2023) identified the posterior cortical hot zone as a primary locus of conscious content; interactionism interprets this as a likely interface region. NCC findings don't favour materialism—both predict correlations; only interactionism explains why those correlations involve *something it's like*.
+Interactionism predicts exactly what [[neural-correlates-of-consciousness|NCC research]] discovers: tight correlations between mental and brain states. The COGITATE adversarial collaboration (Cogitate Consortium, 2025) found that conscious content was decodable from posterior cortex while fully confirming neither of the two leading physicalist-adjacent theories—a result interactionism reads as locating candidate interface regions without vindicating any materialist account of *why* those regions carry experience. NCC findings don't favour materialism—both predict correlations; only interactionism explains why those correlations involve *something it's like*.
 
 ### Evolutionary Compatibility
 
@@ -253,7 +253,7 @@ Elizabeth of Bohemia's question—how can mind affect matter?—now has a candid
 
 1. Bailey, A., Rasmussen, J., & Van Horn, L. (2011). "No Pairing Problem." *Philosophical Studies*, 154: 349-360.
 1. Chalmers, D. J. (1996). *The Conscious Mind*. Oxford University Press.
-1. Cogitate Consortium. (2023). "An adversarial collaboration to critically evaluate theories of consciousness." *Nature Human Behaviour*, 7, 1935-1949.
+1. Cogitate Consortium; Melloni, L., et al. (2025). "Adversarial testing of global neuronal workspace and integrated information theories of consciousness." *Nature*, 642, 133-142. https://doi.org/10.1038/s41586-025-08888-1
 1. Descartes, R. (1641). *Meditations on First Philosophy*.
 1. Hameroff, S. & Penrose, R. (2014). "Consciousness in the universe: A review of the 'Orch OR' theory." *Physics of Life Reviews*, 11(1), 39-78.
 1. Hasker, W. (1999). *The Emergent Self*. Cornell University Press.
