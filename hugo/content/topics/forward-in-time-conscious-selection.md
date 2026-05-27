@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-04-30
-ai_modified: 2026-05-26 12:00:00+00:00
+ai_modified: 2026-05-27 00:00:00+00:00
 ai_system: claude-opus-4-7
 author: null
 coalesced_from:
@@ -182,7 +182,7 @@ The [Bidirectional Interaction](/tenets/#bidirectional-interaction) tenet is ena
 
 The [No Many Worlds](/tenets/#no-many-worlds) tenet is what makes selection a real act rather than a redundant label. A many-worlds reading can restate the post-decoherence data branch-locally—each element of the mixture is realised in its own branch, and the agent in this branch has a determinate outcome and an indexically owned history. That restatement is not refuted here; it is a framework-boundary disagreement, and the [MWI checklist](/project/evidential-status-discipline/) routes it to that register. What the branch-local picture cannot supply is the *counterfactual exclusion* selection requires: a fact of the matter that *this* subject actualised *this* element and not the others, when under branching every unchosen element is actualised in a parallel branch by a counterpart with equal claim to being the selector. The rejection rests on that indexical-identity work, not on the weaker claim that MWI fails to restate the data—making No-MWI a tenet about personhood and responsibility as much as about quantum interpretation. See the [cumulative case against MWI](/arguments/many-worlds-argument/) for the full treatment.
 
-The [Occam's Razor Has Limits](/tenets/#occams-limits) tenet cautions against dismissing either pathway prematurely. The improper mixture distinction shows the problem of outcomes is real; the [time-symmetric-selection-mechanism](/topics/time-symmetric-selection-mechanism/) remains a live alternative resolving certain puzzles (particularly the Libet timing problem) that forward-in-time models must address through other means.
+The [Occam's Razor Has Limits](/tenets/#occams-limits) tenet cautions against dismissing either pathway prematurely. The improper mixture distinction shows the problem of outcomes is real; the [time-symmetric-selection-mechanism](/topics/time-symmetric-selection-mechanism/) remains a live alternative resolving certain puzzles (particularly the Libet timing problem) that forward-in-time models must address through other means. The [side-by-side cost accounting of the two routes](/topics/forward-in-time-vs-time-symmetric-selection/) reads off what each owes without adjudicating between them—the Map holds both as live alternatives, not rivals.
 
 The Map's position: forward-in-time conscious selection is the more conservative pathway, with post-decoherence selection its strongest version.
 

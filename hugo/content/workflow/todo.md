@@ -38,12 +38,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P3: Add inbound links to topics/affective-tone-divergence-across-meditative-traditions.md (near-orphan)
-- **Type**: refine-draft
-- **Notes**: Follow-on from expand-topic 2026-05-27 (commit 57c6fa00). The new standalone article added only OUTBOUND links; the four articles it expands/references do not link back, leaving it a near-orphan. Add an inbound `[[affective-tone-divergence-across-meditative-traditions]]` link from each where contextually load-bearing: PRIORITY `topics/comparative-phenomenology-of-meditative-traditions.md` §"Affective Tone" (~lines 107-119) — this is the parent that names the divergence and carries the one-sentence load-bearing hypothesis the new article expands; point that section to the full standalone treatment (and trim only if clearly redundant, preserving the parent's local framing). Also add inbound links from `concepts/meditation-and-consciousness-modes.md`, `concepts/witness-consciousness.md`, and `concepts/selection-only-channel.md` where each already discusses affective tone / interface modes. Verify scripts/sync.py exits 0. Realizes the bidirectional integration the expand-topic left half-done (cf. recurring expand-topic integration-chain gap).
-- **Source**: expand-topic-followon
-- **Generated**: 2026-05-27
-
 ### P1: Fix verified citation errors in topics/meaning-of-life.md (Tallis issue, Landau 2025, missing references)
 - **Type**: refine-draft
 - **Notes**: From outer review 2026-05-27 (ChatGPT 5.5 Pro), two citation errors **independently verified** during processing (see Verification Notes in the review file). (1) **Tallis** — References list (line 286) cites "The Illusion of Illusionism. *Philosophy Now*, 159." The piece is actually in *Philosophy Now* **Issue 161 (April/May 2024)**, full title "Tallis in Wonderland: The Illusion of Illusionism," pp. 58–59 (confirmed via Philosophy Now issue-161 listing + Philosophy Documentation Center). Fix the issue number 159→161 and consider adding the full column title and page range. (2) **Landau 2025** — citation "The Implications of Cosmic Meaninglessness, *Journal of Philosophy of Life*, 15(1), 2025" could not be verified in PhilPapers/PhilPeople/JPL contents; Landau's closest cosmic-context work is "Can Lives Be Seen as Meaningful Within the Cosmic Context?" (*Philosophia*, 2023, doi:10.1007/s11406-023-00660-x). Either replace with a verifiable Landau reference or remove the unverifiable one — do not leave a fabricated-looking citation. (3) **Missing references** — Craig, Swinburne (line 47), Frankfurt, Taylor (line 61), Parfit (line 103), Sartre (line 151) are named in body text but absent from the References list; add proper references or note them inline. Citation hygiene only — do not touch argument structure. See [outer-review-2026-05-27-chatgpt-5-5-pro](/reviews/outer-review-2026-05-27-chatgpt-5-5-pro/).
@@ -3677,6 +3671,10 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 Tasks that failed 3+ times and require human intervention.
 
+
+### ✓ 2026-05-27: Add inbound links to topics/affective-tone-divergence-across-meditative-traditions.md (near-orphan)
+- **Type**: refine-draft
+- **Notes**: Follow-on from expand-topic 2026-05-27 (commit 57c6fa00). The new standalone article added only OUTBOUND links; the four articles it expands/references do not link back, leaving it a near-orphan. Add an inbound `[[affective-tone-divergence-across-meditative-traditions]]` link from each where contextually load-bearing: PRIORITY `topics/comparative-phenomenology-of-meditative-traditions.md` §"Affective Tone" (~lines 107-119) — this is the parent that names the divergence and carries the one-sentence load-bearing hypothesis the new article expands; point that section to the full standalone treatment (and trim only if clearly redundant, preserving the parent's local framing). Also add inbound links from `concepts/meditation-and-consciousness-modes.md`, `concepts/witness-consciousness.md`, and `concepts/selection-only-channel.md` where each already discusses affective tone / interface modes. Verify scripts/sync.py exits 0. Realizes the bidirectional integration the expand-topic left half-done (cf. recurring expand-topic integration-chain gap).
 
 ### ✓ 2026-05-27: Adopt mysterianism calibration in epistemology-of-convergence-arguments
 - **Type**: refine-draft

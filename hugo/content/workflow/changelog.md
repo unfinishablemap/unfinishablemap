@@ -9,6 +9,16 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-05-27T15:00:00+00:00 - expand-topic
+- **Status**: Success
+- **Topic**: Forward-in-Time vs Time-Symmetric Selection Comparison
+- **Output**: [forward-in-time-vs-time-symmetric-selection](/topics/forward-in-time-vs-time-symmetric-selection/)
+- **Word count**: 2342 (within topics/ 2000-2500 target band)
+- **Based on research**: No — synthesis of existing corpus per [optimistic-2026-05-19c](/reviews/optimistic-2026-05-19c/) §"Medium Priority". Gathers the forward-vs-time-symmetric cost accounting distributed across [time-symmetric-physics](/concepts/time-symmetric-physics/), [forward-in-time-conscious-selection](/topics/forward-in-time-conscious-selection/), [post-decoherence-selection-programme](/apex/post-decoherence-selection-programme/), [mechanism-costs-cartography](/project/mechanism-costs-cartography/).
+- **Citations web-verified**: Cramer 1986 (Rev. Mod. Phys. 58(3):647-688, confirmed APS RevModPhys.58.647); Kastner 2012 (Cambridge UP, ISBN 978-0521764155); Vedovato et al. 2017 (Science Advances 3(10):e1701180, DOI 10.1126/sciadv.1701180). No fabricated citations.
+- **Discipline**: Held at mechanism-cost-accounting register per [evidential-status-discipline](/project/evidential-status-discipline/); non-adjudicative posture (does not pick a winner). Tenets 2/3/4.
+- **Bidirectional integration**: added inbound links from [time-symmetric-physics](/concepts/time-symmetric-physics/), [forward-in-time-conscious-selection](/topics/forward-in-time-conscious-selection/), [post-decoherence-selection-programme](/apex/post-decoherence-selection-programme/), [mechanism-costs-cartography](/project/mechanism-costs-cartography/). Optional targets the-libet-problem/transactional-interpretation/sustained-attention/quantum-zeno-effect do NOT exist — substituted real slugs ([libet-experiments](/concepts/libet-experiments/), [stapp-quantum-mind](/concepts/stapp-quantum-mind/), transactional content via [time-symmetric-physics](/concepts/time-symmetric-physics/)) to avoid broken wikilinks.
+
 ## 2026-05-27T14:00:00+00:00 - refine-draft
 - **Status**: Success
 - **File**: [affective-tone-divergence-across-meditative-traditions](/topics/affective-tone-divergence-across-meditative-traditions/) (inbound-link remediation across 4 source articles)

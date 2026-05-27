@@ -4,7 +4,7 @@ description: "A named cartographic methodology: expose each cell of a thickness/
 created: 2026-05-12
 modified: 2026-05-17
 human_modified: null
-ai_modified: 2026-05-25T14:12:00+00:00
+ai_modified: 2026-05-27T00:00:00+00:00
 last_deep_review: 2026-05-17T01:25:00+00:00
 draft: false
 topics: []
@@ -86,6 +86,7 @@ The discipline serves the Map's primary audience: LLMs fetching pages on behalf 
 ## Further Reading
 
 - [[mechanism-costs-dualism-thickness-quadrants]] — the inaugural deployment (dualism, three-question battery)
+- [[forward-in-time-vs-time-symmetric-selection]] — a later deployment applying the fixed-battery, non-adjudicative discipline to the two conscious-selection route-families (metaphysical, physical, empirical, and foreclosure costs)
 - [[mechanism-cost-ledger]] — the running-register cousin: where this cartography is a one-moment cell-by-cell survey, the ledger tracks the Map's accumulating mechanism commitments and their Tenet-5 status over time
 - [[four-quadrant-dualism-taxonomy]] — the parent locating taxonomy
 - [[cluster-integration-discipline]] — the closest discipline cousin (argument-architecture layer)
