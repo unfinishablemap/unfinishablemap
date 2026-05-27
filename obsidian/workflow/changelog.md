@@ -5,6 +5,20 @@ ai_modified: 2026-05-27T03:00:00+00:00
 ai_system: claude-opus-4-7
 ---
 
+## 2026-05-27T02:51:31+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[topics/enactivism-challenge-to-interactionist-dualism]]
+- **Original score**: n/a (review CLI unavailable; baseline from topic-concept anchoring audit 2026-05-27)
+- **Trigger**: Audit Three (topic-concept anchoring) flag vs anchors [[causal-closure]] and [[filter-theory]]; failed checks were hedge_density (1.34/kw, below 60% of causal-closure's 4.57/kw) and underdetermination_markers (0 vs anchor's 1).
+- **Changes**:
+  - Hedge calibration: added honest hedging at the four load-bearing over-assertions — the dissolution-failure verdict ("suggests it does not, though the judgement is not forced by the data alone"; "appears to fail"), the bacterium/deep-continuity passage ("seems unable to answer"; added the deep-continuity theorist's available reply), the Hard-Problem-of-Content convergence claim ("may keep encountering the same boundary"; noted the rival over-demanding-standard reading), and the central metaphysical dilemma in "Unexpected Common Ground" ("may be unstable"; "looks like"; "suggests"; "points toward"). Hedge density now 4.06/kw, above both anchors' 60% targets and near causal-closure's own 4.57/kw.
+  - Underdetermination markers: added an explicit marker in the metaphysical-dilemma section naming where the data underdetermines between the interactionist-dualist reading and the enactivist's *sui generis* "transcendental irreducibility" third option ("does not adjudicate between the interactionist-dualist reading and the enactivist's third option"; "underdetermined by the evidence both sides accept"; closing "the Map's confidence here is therefore the confidence of the better-supported reading, not of a demonstration"). Marker count now 2 (anchors have 1 each).
+- **Preserved**: central claim unchanged — enactivism's irreducibility commitment still reads as supporting rather than undermining dualism; three-strands structure, pragmatist genealogy, coherence-question, and all five tenet sections intact. No content removed.
+- **Engagement modes (editor-internal)**: enactivist/Thompson engagement — Mode Three (framework-boundary; the dilemma's exhaustiveness is honestly marked as a reading the enactivist contests, not a refutation inside enactivism's framework). No mode labels written into article body.
+- **Altered-state symmetry**: not applicable (no supportive-cluster altered-state citations). No label leakage.
+- **Verification**: `evaluate_anchoring` returns no flags against any anchor (hedge_density and underdetermination both clear independently).
+- **Published**: yes
+
 ## 2026-05-27T02:41:15+00:00 - refine-draft
 - **Status**: Success
 - **File**: [[concepts/embodied-cognition]]
