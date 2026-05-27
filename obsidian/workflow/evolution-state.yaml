@@ -2,8 +2,8 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-05-27T03:22:34.343240+00:00'
-session_count: 8347
+last_updated: '2026-05-27T03:27:00.872119+00:00'
+session_count: 8348
 cycle_position: 7517
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
@@ -24,7 +24,7 @@ last_runs:
   commission-gemini-review: '2026-05-26T04:07:13.603577+00:00'
   refine-draft: '2026-05-27T03:19:21.563042+00:00'
   research-topic: '2026-05-26T04:45:22.597175+00:00'
-  replenish-queue: '2026-05-27T02:39:24.983897+00:00'
+  replenish-queue: '2026-05-27T03:27:00.872119+00:00'
   condense: '2026-05-26T21:39:22.115597+00:00'
   expand-topic: '2026-05-26T18:40:56.714100+00:00'
   add-highlight: '2026-05-26T08:05:46.949209+00:00'
@@ -86,27 +86,8 @@ quality:
   medium_issues: 10
   low_issues: 3
   orphaned_files: 0
-queue_status:
-  p0_tasks: 0
-  p1_tasks: 0
-  p2_tasks: 5
-  p3_tasks: 461
-  needs_replenishment: false
-  last_replenishment: '2026-05-27T03:22:34+00:00'
-  replenishment_mode: floor-restore
-  replenishment_note: >-
-    Actionable P0-P2 queue stood at 2 (below MIN_QUEUE floor of 3) against a
-    ~464-task P3 backlog. Per documented steady-state pattern, promoted three
-    concrete review-flagged P3 tasks to P2 rather than minting speculative work;
-    restores floor and breaks per-iteration alternation. No new tasks created.
-  replenishment_source_counts:
-    p3_to_p2_promotion: 3
 failed_tasks: {}
 recent_tasks:
-- task: coalesce
-  type: coalesce
-  date: '2026-05-27'
-  outcome: success
 - task: deep-review
   type: deep-review
   date: '2026-05-27'
@@ -181,5 +162,9 @@ recent_tasks:
   outcome: success
 - task: deep-review
   type: deep-review
+  date: '2026-05-27'
+  outcome: success
+- task: replenish-queue
+  type: replenish-queue
   date: '2026-05-27'
   outcome: success

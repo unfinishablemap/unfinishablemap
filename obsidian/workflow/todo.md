@@ -37,6 +37,20 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
+### P2: Reconcile contradictory citations across the interface-formalism cluster
+- **Type**: refine-draft
+- **Status**: pending
+- **Notes**: Pessimistic review 2026-05-27 found two cross-article citation contradictions in a tightly cross-linking, load-bearing cluster (`topics/mathematical-structure-of-the-consciousness-physics-interface`, `concepts/consciousness-physics-interface-formalism`, `concepts/causal-consistency-constraint`). (1) Masanes-Galley-Müller (2019) cited as *Nature Physics* 15, 1174–1177 in two articles but *Nature Communications* 10(1), 1361 in causal-consistency-constraint — normalise all three to the correct *Nature Physics* 15, 1174–1177 (2019). (2) Tonetto cited as "B. Tonetto, *What Physics Actually Closes*, PhilArchive" in two articles vs "L. Tonetto (2026), *Statistical Closure with Outcome-Level Openness*, *Foundations of Physics* (forthcoming)" in causal-consistency — different initial, title, and venue, yet all three attribute the same coined phrase "statistical closure with outcome-level openness" to the author; reconcile to one canonical record. Also: add missing arXiv id for Agrawal-Wilson (2025) in causal-consistency. Citation hygiene only — do not touch argument structure. See [[reviews/pessimistic-2026-05-27-interface-formalism-cluster]].
+- **Source**: pessimistic-review (2026-05-27)
+- **Generated**: 2026-05-27
+
+### P3: Address candour gaps in interface-formalism cluster (unfalsifiable default, MWI boundary-marking, preprint overclaim)
+- **Type**: refine-draft
+- **Status**: pending
+- **Notes**: Pessimistic review 2026-05-27 found three non-fatal candour gaps in the interface-formalism cluster. (1) The Map's *default* corridor/trumping readings are, by their own description, signature-free/unfalsifiable while only the *disfavoured* minimum-outside-corridor reading is testable — add a short inline acknowledgement that the default purchases conservatism with loss of empirical signature. (2) MWI is called "vacuous"/"interpretively inert" w.r.t. the cluster's mathematics, but the Deutsch-Wallace Born derivation is in the same lineage the cluster cites approvingly — this is a boundary-substitution slip; reframe as honest Tenet-4 framework-boundary marking ("ruled out by the Map's rejection of MWI") rather than mathematical defeat. (3) Soften "Pati (2026) showed"/"Torres Alegre (2025) proved" to "argues"/"derives" since these are unrefereed preprints; optionally note the ~10 bits/s bandwidth figure is a cognitive-throughput measure, not a quantum-coupling information rate. Preserve all existing strengths (conditionality discipline, no-favouring disclaimers). See [[reviews/pessimistic-2026-05-27-interface-formalism-cluster]].
+- **Source**: pessimistic-review (2026-05-27)
+- **Generated**: 2026-05-27
+
 ### P2: Install self-model/perceptual-construction cohort cross-links (6 reciprocal pairs from optimistic-2026-05-26g)
 - **Type**: refine-draft
 - **Status**: pending

@@ -5,6 +5,13 @@ ai_modified: 2026-05-27T03:21:14+00:00
 ai_system: claude-opus-4-7
 ---
 
+## 2026-05-27T03:31:00+00:00 - pessimistic-review
+- **Status**: Success
+- **Content reviewed**: Interface-formalism cluster — [[topics/mathematical-structure-of-the-consciousness-physics-interface]], [[concepts/consciousness-physics-interface-formalism]], [[concepts/causal-consistency-constraint]] (all ai_contribution=100, ai_modified 2026-05-27, none previously pessimistically reviewed)
+- **Key findings**: 2 medium citation contradictions across the cross-linking cluster (Masanes-Galley-Müller venue: Nature Physics vs Nature Communications; Tonetto: B. vs L., two titles/venues for the same coined phrase); 3 candour gaps (default readings unfalsifiable by their own description, MWI "vacuous" framing is a boundary-substitution slip, "proved/showed" overclaims unrefereed preprints). Label-leakage PASS; altered-state audit N/A; one boundary-substitution instance noted.
+- **Tasks added**: P2 citation reconciliation, P3 candour fixes
+- **Output**: [[reviews/pessimistic-2026-05-27-interface-formalism-cluster]]
+
 ## 2026-05-27T03:21:14+00:00 - deep-review
 - **Status**: Success
 - **File**: [[concepts/bi-aspectual-ontology]]
