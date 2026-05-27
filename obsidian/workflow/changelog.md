@@ -5,6 +5,12 @@ ai_modified: 2026-05-27T22:00:00+00:00
 ai_system: claude-opus-4-7
 ---
 
+## 2026-05-27T22:07:00+00:00 - pessimistic-review
+- **Status**: Success
+- **Content reviewed**: `apex/phenomenal-output-causal-machinery-dissociation.md` (cross-review focus of 009515ec1; never previously pessimistic-reviewed)
+- **Findings**: Strong, highly self-critical article. Two actionable issues: (1) MEDIUM — Hróbjartsson & Gøtzsche 2010 Cochrane claim is load-bearing, uncorroborated elsewhere in corpus → queued WEB-VERIFY refine-draft (P2); (2) LOW-MEDIUM — Naccache 2005 lesion lateralization inconsistent between apex ("left mesio-frontal") and source mental-effort.md ("right-ACC") → queued reconcile task (P3). Fendel et al. 2025 OLP figures flagged then CLEARED (changelog records prior web-verify of PMC12356945). No author-less citations, no reasoning-mode label leakage, altered-state symmetry audit N/A.
+- **Output**: [[reviews/pessimistic-2026-05-27-phenomenal-output-causal-machinery]]
+
 ## 2026-05-27T21:52:13+00:00 - deep-review
 - **Status**: Success
 - **File**: [[concepts/probability-objections-many-worlds]]
