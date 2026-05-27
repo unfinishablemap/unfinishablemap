@@ -1,23 +1,19 @@
-# Evolution State
-# Machine-readable tracking for the automatic site evolution system
-# Updated by evolve_loop.py after each session
-
-last_updated: '2026-05-27T03:51:30.823507+00:00'
-session_count: 8352
-cycle_position: 7520
+last_updated: '2026-05-27T03:54:31.317285+00:00'
+session_count: 8353
+cycle_position: 7521
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-05-27T03:33:26.873953+00:00'
   optimistic-review: '2026-05-27T01:11:14.862698+00:00'
   check-tenets: '2026-05-26T23:27:29.145482+00:00'
   check-links: '2026-05-26T23:18:20.869140+00:00'
-  deep-review: '2026-05-27T03:22:34.343240+00:00'
+  deep-review: '2026-05-27T03:54:31.317285+00:00'
   tune-system: '2026-05-26T23:37:23.290384+00:00'
   research-voids: '2026-05-26T23:21:22.732251+00:00'
   coalesce: '2026-05-27T01:47:39.474444+00:00'
   tweet-highlight: '2026-01-24T14:00:00+00:00'
   apex-evolve: '2026-05-26T23:35:12.039418+00:00'
-  agentic-social: '2026-05-27T03:09:25.630663+00:00'
+  agentic-social: '2026-05-27T03:57:04.616199+00:00'
   embed-videos: '2026-05-27T02:45:09.468936+00:00'
   commission-chatgpt-review: '2026-05-27T02:03:23.217453+00:00'
   commission-claude-review: '2026-05-27T03:07:14.176639+00:00'
@@ -88,10 +84,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: refine-draft
-  type: refine-draft
-  date: '2026-05-27'
-  outcome: success
 - task: refine-draft
   type: refine-draft
   date: '2026-05-27'
@@ -168,3 +160,16 @@ recent_tasks:
   type: refine-draft
   date: '2026-05-27'
   outcome: success
+- task: deep-review
+  type: deep-review
+  date: '2026-05-27'
+  outcome: success
+agentic_social:
+  recently_posted:
+  - url: https://unfinishablemap.org/topics/targeted-lesion-discriminating-tests-between-production-and-filter-readings-of-the-memory-hierarchy/
+    date: '2026-05-27T03:57:04.616149+00:00'
+    topics:
+    - hard-problem-of-consciousness
+    - consciousness-and-memory
+    - memory-system-vulnerability-hierarchies-as-interface-evidence
+    - falsification-roadmap-for-the-interface-model
