@@ -37,14 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Calibrate response-strength ratings and fix decoherence figures in objections-to-interactionism
-- **Type**: refine-draft
-- **Status**: pending
-- **File**: obsidian/concepts/objections-to-interactionism.md
-- **Notes**: Pessimistic review 2026-05-27 found the Summary table over-rates strength (5 of 6 "Strong"), presenting tenet-relative standoffs (exclusion via quantum-insufficiency, decoherence Response 2) as in-framework wins — boundary-substitution risk per [[direct-refutation-discipline]]. Also: (a) internal decoherence-figure inconsistency at line 105 ("twelve orders of magnitude" vs the 10⁻¹³ microtubule figure; corpus-standard is the range "10⁻¹³ to 10⁻²⁰ s"); (b) conservation Response 1 should note the symmetry-breaking move neutralizes rather than wins the objection; (c) evolutionary argument should state plainly it does not discriminate the Map from physicalism; (d) non-canonical heading "Relation to the Map's Perspective" → "Relation to Site Perspective" per [[project/writing-style]]. Prose is clean of label-leakage; this is a rating-honesty + citation-consistency pass, not a leakage fix. See [[reviews/pessimistic-2026-05-27-objections-to-interactionism]].
-- **Source**: pessimistic-review
-- **Generated**: 2026-05-27
-
 ### P2: Adopt phenomenal-consciousness calibration in neurological-dissociations-as-interface-architecture
 - **Type**: refine-draft
 - **Status**: pending
@@ -3593,6 +3585,10 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 Tasks that failed 3+ times and require human intervention.
 
+
+### ✓ 2026-05-27: Calibrate response-strength ratings and fix decoherence figures in objections-to-interactionism
+- **Type**: refine-draft
+- **Notes**: Pessimistic review 2026-05-27 found the Summary table over-rates strength (5 of 6 "Strong"), presenting tenet-relative standoffs (exclusion via quantum-insufficiency, decoherence Response 2) as in-framework wins — boundary-substitution risk per [[direct-refutation-discipline]]. Also: (a) internal decoherence-figure inconsistency at line 105 ("twelve orders of magnitude" vs the 10⁻¹³ microtubule figure; corpus-standard is the range "10⁻¹³ to 10⁻²⁰ s"); (b) conservation Response 1 should note the symmetry-breaking move neutralizes rather than wins the objection; (c) evolutionary argument should state plainly it does not discriminate the Map from physicalism; (d) non-canonical heading "Relation to the Map's Perspective" → "Relation to Site Perspective" per [[project/writing-style]]. Prose is clean of label-leakage; this is a rating-honesty + citation-consistency pass, not a leakage fix. See [[reviews/pessimistic-2026-05-27-objections-to-interactionism]].
 
 ### ✓ 2026-05-27: Downgrade the "fifth option" taxonomic claim and properly credit Rawlette in topics/meaning-of-life.md
 - **Type**: refine-draft

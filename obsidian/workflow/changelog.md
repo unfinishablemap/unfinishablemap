@@ -1,9 +1,24 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-27T21:30:00+00:00
+ai_modified: 2026-05-27T22:15:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-05-27T22:15:00+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[concepts/objections-to-interactionism]]
+- **Original score**: not re-scored (no curate.py review tool in this repo; targeted rating-honesty + citation-consistency pass per [[reviews/pessimistic-2026-05-27-objections-to-interactionism]]. Prose already clean of editor-vocabulary leakage — verified by grep — so this is NOT a label-leakage fix.)
+- **Changes**:
+  - **Summary-table over-rating recalibrated (Issue 1).** Added a lead-in paragraph distinguishing *in-framework* from *framework-boundary* responses. Re-rated the rows so tenet-relative standoffs are no longer presented as decisive neutral-ground wins: decoherence Response 2 and the exclusion quantum-insufficiency route lean on No-Many-Worlds / Minimal-Quantum-Interaction and are now marked "decisive given the Map's tenets, a standoff at the framework boundary otherwise"; conservation re-rated "neutralizes; does not affirmatively win (symmetric standoff)"; parsimony noted as turning on Tenet 5; pairing kept "Strong (in-framework)"; evolutionary row re-stated as clearing epiphenomenalism but neutral between Map and physicalism. Made consistent with the article's own honest Moderate self-rating of decoherence.
+  - **Decoherence figure reconciled (Issue 2).** Replaced "twelve orders of magnitude" + single "about 10⁻¹³ s" (internally inconsistent: that pairing implies a ten-order microtubule gap, and collapsed Tegmark's range to its most-favorable endpoint) with the corpus-standard range "10⁻¹³ to 10⁻²⁰ seconds" and "at least ten orders of magnitude." Verified the range against sibling articles before settling: [[topics/quantum-neural-timing-constraints]] (lines 50, 52) and [[topics/the-psychophysical-control-law]] (line 97) both quote "10⁻¹³ to 10⁻²⁰ seconds"; [[concepts/decoherence]] uses ~10⁻¹³ as Tegmark's headline figure.
+  - **Conservation Response 1 symmetry acknowledged (Issue 3).** Changed "the objection begs the question" to "cannot be presupposed" and added a paragraph: the Pitts/Cucu symmetry-breaking move *neutralizes* the objection (the objector cannot assume conservation holds in the brain) but does not affirmatively establish dualism (asserting local symmetry-breaking equally assumes the contested point); a symmetric standoff, burden returns to independent reason for thinking symmetry is broken in neural tissue.
+  - **Evolutionary argument concession foregrounded (Issue 4).** Removed the buried "interactionism (or physicalism) is true" slide; added an explicit paragraph in "Why This Supports Interactionism" stating plainly that the argument clears epiphenomenalism/parallelism but does NOT discriminate the Map from standard physicalism (a physicalist who identifies mental with physical causation satisfies it completely). The Map's edge over physicalism rests on the hard problem / explanatory gap, argued elsewhere.
+  - **Heading canonicalized (Issue 5).** "Relation to the Map's Perspective" → "Relation to Site Perspective" per [[project/writing-style]].
+  - **Secondary (from review's unsupported-claims table).** Decoherence Response 1: photosynthesis coherence now explicitly bridged-and-bounded (fs–ps, purpose-built antenna, far from neural ms) rather than juxtaposed as continuous; Kerskens & Pérez reframed as "suggestive context, not a load-bearing response." Valence-fitness "precision" softened to "reliability" with the physicalist's read acknowledged inline. Decoherence Response 2 / MWI: now states the response holds only on a single-outcome reading and marks the disagreement with Many-Worlds as a tenet commitment, not a neutral-ground refutation (addresses the Deutsch critique).
+  - **Engagements (editor-internal, Mode classification per [[direct-refutation-discipline]]):** decoherence-vs-Many-Worlds: Mode Three — disagreement is at the framework boundary, now noted honestly rather than dressed as refutation. conservation-vs-Papineau/Carroll: Mode One downgraded to standoff — the in-framework neutralization holds but does not affirmatively win, now stated. evolution-vs-physicalist: Mode Three — boundary acknowledged (argument does not discriminate Map from physicalism). No mode labels written into the body; "in-framework"/"framework-boundary" used in prose as natural dialectical descriptors only.
+  - Description frontmatter updated to match the honest rating framing.
+- **Published**: yes
 
 ## 2026-05-27T21:30:00+00:00 - refine-draft
 - **Status**: Success

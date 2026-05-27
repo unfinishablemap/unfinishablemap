@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-18
-ai_modified: 2026-05-15 03:31:00+00:00
+ai_modified: 2026-05-27 00:00:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -20,8 +20,8 @@ concepts:
 - '[[delegatory-causation]]'
 created: 2026-01-18
 date: &id001 2026-01-18
-description: 'Six major challenges to dualism: pairing, conservation, parsimony, decoherence,
-  evolution, exclusion. Five have principled responses; one supports dualism.'
+description: Six challenges to dualism—pairing, conservation, parsimony, decoherence,
+  evolution, exclusion—with responses honestly rated as in-framework or framework-boundary.
 draft: false
 human_modified: null
 last_curated: null
@@ -38,7 +38,7 @@ topics:
 - '[[topics/free-will]]'
 ---
 
-[Interactionist dualism](/concepts/interactionist-dualism/) faces six major philosophical objections: the [pairing problem](/concepts/pairing-problem/), conservation laws, parsimony, the decoherence objection, the evolutionary argument, and Kim's exclusion argument. This page treats each objection and the responses available to the interactionist—particularly within the [quantum framework](/concepts/quantum-consciousness/) The Unfinishable Map adopts. The key finding: five objections have principled responses, and the sixth (evolution) actually *supports* interactionism against its main rival, [epiphenomenalism](/concepts/epiphenomenalism/).
+[Interactionist dualism](/concepts/interactionist-dualism/) faces six major philosophical objections: the [pairing problem](/concepts/pairing-problem/), conservation laws, parsimony, the decoherence objection, the evolutionary argument, and Kim's exclusion argument. This page treats each objection and the responses available to the interactionist—particularly within the [quantum framework](/concepts/quantum-consciousness/) The Unfinishable Map adopts. The key finding: five objections have principled responses—some decisive on neutral ground (conservation, pairing), others decisive only given the Map's tenets and an honest standoff at the framework boundary otherwise (decoherence, exclusion)—and the sixth (evolution) actually targets [epiphenomenalism](/concepts/epiphenomenalism/) rather than the interactionist, though it does not by itself favour the Map over physicalism. The Summary table marks which responses are which.
 
 ## The Pairing Problem
 
@@ -70,7 +70,9 @@ For comprehensive treatment, see [conservation-laws-and-mental-causation](/conce
 
 ### Response 1: Conservation Is Local and Conditional
 
-Pitts and Cucu demonstrate that conservation laws are *local* and *conditional*. Noether's theorem shows conservation arises from symmetries: when time-translation symmetry holds, energy is conserved. If an external influence breaks the symmetry, conservation fails at that location. As they argue: expecting conservation in the brain simply assumes the falsehood of dualism—the objection begs the question.
+Pitts and Cucu demonstrate that conservation laws are *local* and *conditional*. Noether's theorem shows conservation arises from symmetries: when time-translation symmetry holds, energy is conserved. If an external influence breaks the symmetry, conservation fails at that location. As they argue, expecting conservation in the brain simply assumes the falsehood of dualism—the objection cannot be presupposed.
+
+The symmetry cuts both ways, and it is worth being honest about its reach. This move neutralizes the conservation objection rather than affirmatively establishing dualism: it shows the objector cannot *assume* conservation holds in neural tissue, but asserting that time-translation symmetry *is* locally broken there would equally assume what is contested. The result is a symmetric standoff—the objection loses its question-begging premise, and the burden returns to whether there is independent reason to think symmetry is broken in the brain.
 
 ### Response 2: Selection Not Injection
 
@@ -104,15 +106,15 @@ The Map's [fifth tenet](/tenets/#occams-limits). Parsimony is a methodological h
 
 ### The Objection
 
-The [decoherence objection](/concepts/decoherence/) targets quantum-based interactionism specifically. Warm biological systems destroy quantum coherence almost instantly: molecular systems at body temperature decohere in femtoseconds (10⁻¹⁵ seconds), while neural processes operate on milliseconds (10⁻³ seconds)—a gap of twelve orders of magnitude. Tegmark (2000) calculated that quantum coherence in brain microtubules would decay in about 10⁻¹³ seconds.
+The [decoherence objection](/concepts/decoherence/) targets quantum-based interactionism specifically. Warm biological systems destroy quantum coherence almost instantly. Tegmark (2000) modelled both neural ion superpositions and microtubule excitations, calculating decoherence times of 10⁻¹³ to 10⁻²⁰ seconds—against neural processes operating on milliseconds (10⁻³ seconds). Even at the most favorable endpoint of Tegmark's range, that leaves a gap of at least ten orders of magnitude between coherence and the timescale on which cognition unfolds.
 
 ### Response 1: Quantum Biology Evidence
 
-Recent experiments complicate the "warm means no quantum" picture. Quantum coherence in photosynthetic light-harvesting complexes persists far longer than Tegmark-style calculations predicted. Kalra et al. (2025) found microtubule-stabilizing drugs delay anesthesia onset in mice, suggesting microtubule dynamics matter for consciousness. Kerskens and Pérez (2022) detected possible entanglement signatures in human brain MRI correlating with working memory, though the result remains contested and awaits replication. These don't prove quantum consciousness but demonstrate that quantum effects in biological systems are more robust than assumed.
+Recent experiments complicate the "warm means no quantum" picture, though their bearing on neural timescales must be stated carefully. Quantum coherence in photosynthetic light-harvesting complexes survives longer than naive thermal estimates predicted—but it persists on femtosecond-to-picosecond scales in a purpose-built antenna complex, far from the milliseconds neural processing requires, so it loosens the general assumption that "warm and wet" forbids coherence without itself bridging to the brain. Kalra et al. (2025) found microtubule-stabilizing drugs delay anesthesia onset in mice, suggesting microtubule dynamics matter for consciousness. Kerskens and Pérez (2022) detected possible entanglement signatures in human brain MRI correlating with working memory; this result remains contested and unreplicated, so it functions as suggestive context rather than as a load-bearing response. None of this proves quantum consciousness; collectively it shows only that quantum effects in biological systems are somewhat more robust than the strongest version of the objection assumed.
 
 ### Response 2: The Measurement Question
 
-Critically, decoherence does not solve the [measurement problem](/concepts/measurement-problem/). Decoherence explains why interference effects wash out, but not why we see *definite* outcomes. After decoherence, quantum mechanics still describes the total system as a vast entangled superposition. If definite outcomes require something beyond decoherence, the question of what selects outcomes remains open. The Map's [No Many Worlds](/tenets/#no-many-worlds) tenet holds that genuine selection occurs. Whatever does the selecting might be consciousness.
+Critically, decoherence does not solve the [measurement problem](/concepts/measurement-problem/). Decoherence explains why interference effects wash out, but not why we see *definite* outcomes. After decoherence, quantum mechanics still describes the total system as a vast entangled superposition. If definite outcomes require something beyond decoherence, the question of what selects outcomes remains open—and consciousness becomes one candidate selector. This response holds only on a single-outcome reading of measurement: the Map's [No Many Worlds](/tenets/#no-many-worlds) tenet posits that genuine selection occurs. A Many-Worlds defender denies there is any selection to explain—all outcomes are actual, and "what selects the outcome" is a malformed question. The disagreement here runs to the framework boundary; the Map marks it as a tenet commitment rather than claiming to have refuted Many-Worlds on neutral ground.
 
 ### Response 3: Non-Computational Selection
 
@@ -122,15 +124,17 @@ Even if decoherence eliminates quantum *computing* in the brain, it may not elim
 
 ### The Objection
 
-Often presented as objecting to dualism, this argument actually targets [epiphenomenalism](/concepts/epiphenomenalism/) and *supports* interactionism. Pleasures correlate with survival-beneficial stimuli; pains with harmful stimuli. Natural selection can only favor traits with causal effects on behavior. Therefore, consciousness has causal effects (contra epiphenomenalism), and interactionism (or physicalism) is true.
+Often presented as objecting to dualism, this argument actually targets [epiphenomenalism](/concepts/epiphenomenalism/). Pleasures correlate with survival-beneficial stimuli; pains with harmful stimuli. Natural selection can only favor traits with causal effects on behavior. Therefore, consciousness has causal effects (contra epiphenomenalism), and any view on which consciousness is causally efficacious is satisfied—interactionism *or* standard physicalism.
 
 ### Why This Supports Interactionism
 
-Interactionism holds that consciousness causes physical effects—exactly what the evolutionary argument requires. The argument targets only views that deny mental causation (epiphenomenalism, parallelism). The Map can use this *offensively*: if consciousness causes nothing, evolution can't explain the precise tracking of phenomenal states with fitness-relevant behaviors.
+Interactionism holds that consciousness causes physical effects—exactly what the evolutionary argument requires. The argument targets only views that deny mental causation (epiphenomenalism, parallelism). The Map can use this *offensively* against epiphenomenalism: if consciousness causes nothing, evolution can't explain the tracking of phenomenal states with fitness-relevant behaviors.
+
+The limit of this move should be stated plainly. The argument clears epiphenomenalism and parallelism from the field, but it does *not* discriminate the Map from standard physicalism. A physicalist who identifies mental causation with physical causation satisfies the argument completely—selection favours efficacious consciousness, and on physicalism that consciousness is efficacious *because* it is physical. So this is a point against one rival, not a point for the Map over its principal rival. The Map's edge over physicalism rests on the [hard problem](/topics/hard-problem-of-consciousness/) and the [explanatory-gap](/concepts/explanatory-gap/), argued elsewhere—not on this argument.
 
 ### The Epiphenomenalist Response
 
-Epiphenomenalists respond that consciousness might be a "spandrel"—a by-product of selected neural processes. But this explains why consciousness *exists*, not why the pain/pleasure correlations are so precise. A causally inert by-product might exist without being finely tuned. The precision of valence-fitness correlation suggests causal involvement.
+Epiphenomenalists respond that consciousness might be a "spandrel"—a by-product of selected neural processes. But this explains why consciousness *exists*, not why valence tracks fitness as reliably as it does. A causally inert by-product might exist without its felt quality being tuned to the survival-value of what it accompanies. The reliability of the valence-fitness alignment is at least suggestive of causal involvement, though a physicalist will grant the alignment while reading it as evidence for physical mental causation rather than for dualism.
 
 ## The Exclusion Argument
 
@@ -170,16 +174,18 @@ These are empirical and interpretive questions, not settled by philosophical arg
 
 ## Summary
 
+The strength ratings below distinguish two kinds of response. An *in-framework* response defeats the objection on ground the objector can accept—Pitts/Cucu on conservation, and the evolutionary argument against epiphenomenalism, both work this way. A *framework-boundary* response is decisive only given the Map's tenets and is an honest standoff otherwise: the decoherence and exclusion responses lean on No-Many-Worlds and Minimal-Quantum-Interaction to deny premises a Many-Worlds defender or a physicalist will not grant. Marking the difference is the point of the rightmost column.
+
 | Objection | Target | Site's Response | Strength |
 |-----------|--------|-----------------|----------|
-| Pairing problem | Substance dualism | Minds are spatially located (in brains); [brain-interface-boundary](/concepts/brain-interface-boundary/) provides natural pairing; [haecceity](/concepts/haecceity/) offers alternative grounding | Strong |
-| Conservation laws | Interactionism | Conservation is local/conditional (Pitts/Cucu); selection not injection at quantum indeterminacies; see [conservation-laws-and-mental-causation](/concepts/conservation-laws-and-mental-causation/) | Strong |
-| Parsimony | Dualism | Consciousness is evidence; materialism doesn't explain it; simplicity isn't truth | Strong |
-| Decoherence | Quantum interactionism | Quantum biology evidence, decoherence doesn't solve measurement problem | Moderate |
-| Evolutionary argument | Epiphenomenalism | *Supports* interactionism—consciousness must cause to be selected | N/A (supports site) |
-| Exclusion argument | Mental causation | Physics is insufficient at quantum indeterminacies — the [dissolution argument](/topics/overdetermination-dissolution-under-selection-only-interactionism/) denies the framing of two competing sufficient causes; [delegatory preemption](/topics/delegatory-dualism/) gives a complementary response | Strong |
+| Pairing problem | Substance dualism | Minds are spatially located (in brains); [brain-interface-boundary](/concepts/brain-interface-boundary/) provides natural pairing; [haecceity](/concepts/haecceity/) offers alternative grounding | Strong (in-framework) |
+| Conservation laws | Interactionism | Conservation is local/conditional (Pitts/Cucu); selection not injection at quantum indeterminacies; see [conservation-laws-and-mental-causation](/concepts/conservation-laws-and-mental-causation/) | Neutralizes the objection; does not affirmatively win (symmetric standoff) |
+| Parsimony | Dualism | Consciousness is evidence; materialism doesn't explain it; simplicity isn't truth | Strong (turns on Tenet 5, that simplicity is not truth) |
+| Decoherence | Quantum interactionism | Quantum biology context; decoherence doesn't solve the measurement problem (this step assumes single-outcome collapse, i.e. No-Many-Worlds) | Moderate; framework-boundary—decisive given the Map's tenets, a standoff against a Many-Worlds defender |
+| Evolutionary argument | Epiphenomenalism | *Supports* interactionism against epiphenomenalism—but does not discriminate the Map from standard physicalism | N/A (clears epiphenomenalism; neutral between Map and physicalism) |
+| Exclusion argument | Mental causation | Physics is insufficient at quantum indeterminacies — the [dissolution argument](/topics/overdetermination-dissolution-under-selection-only-interactionism/) denies the framing of two competing sufficient causes; [delegatory preemption](/topics/delegatory-dualism/) gives a complementary (quantum-independent) response | Strong *given the Map's tenets*; the quantum-insufficiency route is a framework-boundary move (assumes single-outcome collapse), while delegatory preemption is closer to in-framework |
 
-## Relation to the Map's Perspective
+## Relation to Site Perspective
 
 The objections to interactionism motivate rather than undermine the Map's framework.
 
