@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-19
-ai_modified: 2026-05-25 18:45:00+00:00
+ai_modified: 2026-05-27 00:00:00+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -40,6 +40,10 @@ related_articles:
 - '[[project/evidential-status-discipline]]'
 - '[[topics/animal-consciousness]]'
 - '[[apex/taxonomy-of-voids]]'
+- '[[neurological-dissociations-as-interface-architecture]]'
+- '[[anaesthesia-and-the-consciousness-interface]]'
+- '[[clinical-dissociation-as-systematic-evidence]]'
+- '[[phenomenal-authority-and-first-person-evidence]]'
 title: The Epistemology of Convergence Arguments
 topics:
 - '[[the-convergence-argument-for-dualism]]'
@@ -93,6 +97,16 @@ Robustness also applies across time. The hard problem has diachronic robustness:
 ### Specificity of Agreement
 
 Convergence on vague conclusions carries little weight — all traditions agree the world is puzzling, which tells us nothing. Convergence on specific conclusions carries far more, because the space of possible specific conclusions is large. The consciousness convergence is specific relative to that space: diverse traditions do not merely register consciousness as a curiosity but independently identify a particular structural problem — that accounts of the physical world, however complete, leave something unexplained about subjective experience. Avicenna's Flying Man, suspended in a void with no sensory input, cannot doubt the existence of his consciousness while doubting everything physical — a structural parallel to Descartes specific enough to resist attribution to coincidence. The gap between "humans tend to think in dualistic terms" and "independent traditions identify the same structural feature as resisting reduction" is where the evidential work must be done.
+
+### Compound Signatures: Convergence Without a Shared Mechanism
+
+The independence condition has a limiting case worth naming, because it is the form in which convergence does its most defensible evidential work. A *compound signature* is convergence among routes that share no mechanism — so the agreement cannot be the read-out of one upstream cause sampled several times. Where ordinary convergence must survive the [common-cause-null](/project/common-cause-null/) audit by arguing that the agreed pattern is more specific than a shared architecture would predict, a compound signature pre-empts the audit at the structural level: there is no candidate common cause to screen off, because the routes are mechanistically disjoint. This is the difference between three witnesses who all read the same instrument and three witnesses with no instrument in common. Bovens and Hartmann's reliability model rewards exactly this: agreement confirms most strongly when the conditional-independence assumption holds outright rather than approximately, and mechanistic disjointness is what makes it hold outright.
+
+The clearest worked exhibit in the catalogue is not cross-cultural at all but clinical. Three perturbation routes — focal **lesion**, selective **pharmacology**, and psychogenic **dissociation** — converge on the same multi-channel taxonomy of the consciousness-brain interface (ascending content channels, a self-model channel, descending motor channels, bilateral unity, attentional gating). [neurological-dissociations-as-interface-architecture](/topics/neurological-dissociations-as-interface-architecture/) reaches the taxonomy through what destruction reveals; [anaesthesia-and-the-consciousness-interface](/topics/anaesthesia-and-the-consciousness-interface/) reaches it through what reversible chemical interruption reveals (the xenon-ketamine contrast, the four-component pharmacological dissection, the KCC2 active-reboot pathway); [clinical-dissociation-as-systematic-evidence](/topics/clinical-dissociation-as-systematic-evidence/) reaches it through functional decoupling with no structural damage at all. Lesions, receptor pharmacology, and psychogenic decoupling have no shared mechanism, so their agreement on one channel taxonomy is a compound signature rather than one architecture read three times. This is the convergence form the cross-cultural case can only approximate: human traditions always share *some* upstream cognition, which is why the bootstrapping problem never fully releases them, whereas the three clinical routes are disjoint by construction.
+
+The exhibit also shows where a compound signature's evidential reach stops, which is the discipline's load-bearing qualification. Convergence establishes the *architecture* — that consciousness connects to brain mechanisms through separable channels — robustly. It does not establish the architecture's dualist *significance*. The dissociation pattern refutes naive identity theory (if consciousness simply *were* the processing, damage would degrade both together), but sophisticated functionalism — Block's access/phenomenal distinction, multi-realisability, integrationist readings — predicts the same modular decomposition by treating the channels as coupled subsystems whose joint operation *constitutes* consciousness. The compound signature is therefore *compatibility*-grade, not *vindication*-grade, for the interface reading: it is fully compatible with the Map's reading and not adjudicated in its favour over the functionalist rival, because both readings predict the identical dissociation phenomenology. Per [the compatibility-vs-support discipline](/project/evidential-status-discipline/#compatibility-vs-support-at-the-rival-model-interface), citing the compound signature as *support* for the dualist reading rather than as compatibility would require a discriminator the functionalist does not also predict — and the dissociations alone do not supply one. The honest summary is a two-tier discount: the architecture conclusion is earned by the convergence; the significance conclusion runs on the framework's separate arguments and inherits none of the convergence's weight.
+
+The same two-tier structure governs how a compound signature may be cited anywhere. The strong, transferable claim is *architectural*: the routes agree on a structure, and their mechanistic disjointness makes the agreement hard to explain away as artefact. The claim that must be argued separately is *significance*: which metaphysics the structure favours. A catalogue that lets the architectural strength bleed into the significance claim — counting "compatible with the dualist reading" as "confirms the dualist reading" — commits the compatibility-as-vindication error the [evidential-status discipline](/project/evidential-status-discipline/) exists to catch. The four-tier convergence of phenomenal-evidence routes worked out in [phenomenal-authority-and-first-person-evidence](/topics/phenomenal-authority-and-first-person-evidence/) applies the same discount in the first-person domain: convergent first-person reports establish a robust *explanandum* without thereby vindicating any one reading of what produces it.
 
 ## When Convergence Fails
 
@@ -187,6 +201,10 @@ The Map treats convergence as genuine evidence while acknowledging its limits. C
 - [concession-convergence-philosophy-of-mathematics](/topics/concession-convergence-philosophy-of-mathematics/) — Convergence applied to philosophy of mathematics: four independent concessions
 - [Convergent Phenomenological Evidence](/concepts/phenomenological-evidence/#convergence) — When first-person reports converge across independent traditions
 - [the-reverse-inference](/topics/the-reverse-inference/) — The Map's other methodological meta-move; chains downstream of this one, spending the irreducibility datum convergence secures and sharing its experience-as-datum vulnerability
+- [neurological-dissociations-as-interface-architecture](/topics/neurological-dissociations-as-interface-architecture/) — The lesion route of the three-route compound signature; names the compound signature explicitly
+- [anaesthesia-and-the-consciousness-interface](/topics/anaesthesia-and-the-consciousness-interface/) — The pharmacological route of the same compound signature
+- [clinical-dissociation-as-systematic-evidence](/topics/clinical-dissociation-as-systematic-evidence/) — The psychogenic-dissociation route of the same compound signature
+- [phenomenal-authority-and-first-person-evidence](/topics/phenomenal-authority-and-first-person-evidence/) — A non-disruption worked exhibit: four-tier convergence of first-person evidence under the same architecture-vs-significance discount
 
 ## References
 

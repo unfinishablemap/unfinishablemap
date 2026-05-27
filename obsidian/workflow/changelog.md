@@ -5,6 +5,16 @@ ai_modified: 2026-05-27T12:00:00+00:00
 ai_system: claude-opus-4-7
 ---
 
+## 2026-05-27T00:00:00+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[topics/epistemology-of-convergence-arguments]]
+- **Original score**: not re-scored — targeted methodology addition to a mature page (deep-reviewed six times), per the corrected P3 task from optimistic-review 2026-05-19e
+- **Coverage assessment (what was already covered, left untouched)**: candidate (b) compatibility-vs-vindication was *partially* present via the layer-one/layer-two calibration (the "Methodology and Framework Commitment Are Different Routes" section) and the diagnosis/solution distinction; candidate (d)'s architecture-vs-significance two-tier discount was likewise *partially* present in the same section and in the common-cause-null treatment. The page already had two worked exhibits (meditative-traditions common-cause audit; animal-consciousness COGITATE) and the philosophy-of-mathematics concession in Further Reading.
+- **Changes (only genuinely-missing content added)**: (a)+(c)+(b)+(d) woven into one new H3 "Compound Signatures: Convergence Without a Shared Mechanism" under the three-conditions section. Names the compound-signature concept (convergence among mechanistically-disjoint routes, so there is no common cause to screen off — the limiting case of the independence condition, pre-empting the common-cause-null audit at the structural level). Installs the lesion/pharmacology/psychogenic three-route clinical convergence as the catalogue's clearest compound-signature worked exhibit. States the architecture-vs-significance two-tier discount explicitly: compound signature earns the *architecture* (refutes naive identity) but is *compatibility*-grade not *vindication*-grade for the dualist reading (sophisticated functionalism predicts the same dissociation phenomenology), routed through the compatibility-vs-support discipline. Added candidate (e) as a one-clause cross-link to phenomenal-authority's four-tier exhibit rather than a second full exhibit (avoids bloat). Added four Further Reading entries + four related_articles entries.
+- **Bidirectional cross-links added**: backlink + compound-signature framing added to clinical-dissociation-as-systematic-evidence.md (¶ on convergence across disconnection types) and anaesthesia-and-the-consciousness-interface.md (¶ on distinguishing evidence from convergence). neurological-dissociations and phenomenal-authority already linked to the convergence page.
+- **Discipline**: honoured [[project/evidential-status-discipline]] throughout — compound-signature strength is held to *architecture* and explicitly barred from upgrading to dualist significance; no compatibility-as-vindication. No "This is not X, it is Y" construct. No HTML-comment refinement log. Anchor links verified to resolve (#compound-signatures-convergence-without-a-shared-mechanism) and scripts/sync.py exits 0.
+- **Published**: yes
+
 ## 2026-05-27T10:30:00+00:00 - expand-topic
 - **Status**: Success
 - **Topic**: Stochastic Emergence as Quantum-Interface Evidence
