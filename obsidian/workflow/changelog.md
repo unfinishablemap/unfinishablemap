@@ -5,6 +5,14 @@ ai_modified: 2026-05-27T12:00:00+00:00
 ai_system: claude-opus-4-7
 ---
 
+## 2026-05-27T13:30:00+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[topics/epistemology-of-convergence-arguments]]
+- **Audit**: Topic-concept anchoring (Audit Three), 2026-05-27. Over-claimed vs anchor [[mysterianism]] (and also flagged against [[explanatory-gap]] and [[intuitive-dualism]]); failed hedge_density (2.87/kw vs ≥6.20/kw target against mysterianism) and strong_assertions (1.06/kw, 7 verbs).
+- **Changes**: Raised hedge density 2.87/kw → 6.29/kw and brought strong-assertion verbs 7 → 0. Hedges concentrated on interpretive/inferential claims about what convergence licenses: the new "Compound Signatures" H3 (the section flagged in the task as a likely source of over-confident phrasing — its claims about what a compound signature pre-empts, underwrites, and discounts now carry seems/may/appears/arguably qualifiers), the Laudan diagnosis/solution load-bearing claim, the specificity criterion, the McGinn closure comparison, and the convergent-diagnosis-with-divergent-treatment inference. Strong-assertion verbs softened to qualified forms preserving meaning: "confirms" → "appears to raise confidence"/"seems to confirm"; "establishes" → "seems to show"/"seems earned"; "refutes naive identity theory" → "tells strongly against naive identity theory"; "proves too much" → "seems to prove too much". Central claims (diagnosis/solution distinction, two-tier discount, compatibility-not-vindication) left intact — only the inferential register softened. No citations or argument structure touched. Honours [[evidential-status-discipline]].
+- **Audit result**: `evaluate_anchoring()` returns 0 flags post-edit; hedge 6.29/kw (≥ anchor's 6.20/kw target), strong-assertion density 0.00/kw. `scripts/sync.py` exit 0.
+- **Published**: yes
+
 ## 2026-05-27T11:41:28+00:00 - refine-draft
 - **Status**: Success
 - **File**: [[topics/conversion-disorder-as-consciousness-side-fault]]
