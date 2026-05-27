@@ -37,6 +37,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
+### P3: Add inbound links to topics/affective-tone-divergence-across-meditative-traditions.md (near-orphan)
+- **Type**: refine-draft
+- **Notes**: Follow-on from expand-topic 2026-05-27 (commit 57c6fa00). The new standalone article added only OUTBOUND links; the four articles it expands/references do not link back, leaving it a near-orphan. Add an inbound `[[affective-tone-divergence-across-meditative-traditions]]` link from each where contextually load-bearing: PRIORITY `topics/comparative-phenomenology-of-meditative-traditions.md` §"Affective Tone" (~lines 107-119) — this is the parent that names the divergence and carries the one-sentence load-bearing hypothesis the new article expands; point that section to the full standalone treatment (and trim only if clearly redundant, preserving the parent's local framing). Also add inbound links from `concepts/meditation-and-consciousness-modes.md`, `concepts/witness-consciousness.md`, and `concepts/selection-only-channel.md` where each already discusses affective tone / interface modes. Verify scripts/sync.py exits 0. Realizes the bidirectional integration the expand-topic left half-done (cf. recurring expand-topic integration-chain gap).
+- **Source**: expand-topic-followon
+- **Generated**: 2026-05-27
+
 ### P2: Adopt phenomenal-consciousness calibration in conversion-disorder-as-consciousness-side-fault
 - **Type**: refine-draft
 - **Status**: pending
