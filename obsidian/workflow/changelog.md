@@ -1,9 +1,24 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-27T02:06:13+00:00
+ai_modified: 2026-05-27T03:00:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-05-27T03:00:00+00:00 - refine-draft
+- **Status**: Success
+- **Task**: Reconcile Christian List "The Many-Worlds Theory of Consciousness" citation across the corpus (corpus-split propagation cleanup)
+- **Authoritative form applied** (web-verified prior, DOI 10.1111/nous.12408): List, C. (2023). "The Many-Worlds Theory of Consciousness." *Noûs* 57(2), 316-340. (First published online 2022.)
+- **Files reconciled** (6, all `research/` working notes that feed expand-topic):
+  - [[research/indexical-identity-haecceity-thisness-2026-01-23]] — was `(2025)`, no vol/pp → fixed
+  - [[research/consciousness-non-collapsed-quantum-states-2026-02-10]] — heading `(2022)` → `(2023)`; References entry was `(2022) 57(4), 789-812` → fixed
+  - [[research/voids-tenet-generated-voids-2026-01-25]] — link label `(List, 2022)` → `2023`; References entry `(2022)` no vol/pp → fixed
+  - [[research/voids-perspectival-void-2026-02-20]] — Citations entry was `57, no. 4` no pp → `57, no. 2: 316-340`
+  - [[research/voids-modal-void-2026-02-16]] — References entry was `57(2), 329-356` → `316-340`
+  - [[research/voids-indexical-void-2026-02-24]] — References entry was `(2023)` no vol/pp → fixed
+- **Deliberately preserved**: the separate List paper "A Quadrilemma for Theories of Consciousness" (*The Philosophical Quarterly* 75(3) 2024) — distinct work, untouched in `voids-indexical-void` and `topics/vertiginous-question`. Also preserved the LSE eprint URL filename (`Nous_2022_List_...`) and the chronological-timeline `2022` entry in `consciousness-non-collapsed-quantum-states` (legitimate online-first year; not a citation form).
+- **Tenet alignment**: citation accuracy / [[evidential-status-discipline]]
+- **Published**: yes
 
 ## 2026-05-27T02:06:13+00:00 - deep-review
 - **Status**: Success

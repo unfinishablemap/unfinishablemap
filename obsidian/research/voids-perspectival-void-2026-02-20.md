@@ -3,7 +3,7 @@ title: "Research Notes - Voids: The Perspectival Void"
 created: 2026-02-20
 modified: 2026-02-20
 human_modified: null
-ai_modified: 2026-04-23T12:41:29+00:00
+ai_modified: 2026-05-27T00:00:00+00:00
 draft: false
 target_section: voids
 topics:
@@ -221,7 +221,7 @@ Based on this research, a voids article could:
 
 ## Citations
 
-- List, Christian. "The Many-Worlds Theory of Consciousness." *Noûs* 57, no. 4 (2023). https://onlinelibrary.wiley.com/doi/full/10.1111/nous.12408
+- List, Christian. "The Many-Worlds Theory of Consciousness." *Noûs* 57, no. 2 (2023): 316-340. (First published online 2022.) https://onlinelibrary.wiley.com/doi/full/10.1111/nous.12408
 - McGinn, Colin. "Mysterianism Revisited." https://colinmcginn.net/mysterianism-revisited/
 - Kriegel, Uriah. "The New Mysterianism and the Thesis of Cognitive Closure." *Acta Analytica* (2003). https://link.springer.com/article/10.1007/s12136-003-1020-1
 - Massimi, Michela. *Perspectival Realism*. Oxford University Press, 2022.

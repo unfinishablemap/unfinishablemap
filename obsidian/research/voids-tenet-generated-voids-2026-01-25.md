@@ -3,7 +3,7 @@ title: "Research Notes - Voids: Tenet-Generated Voids"
 created: 2026-01-25
 modified: 2026-01-25
 human_modified: null
-ai_modified: 2026-04-23T12:41:29+00:00
+ai_modified: 2026-05-27T00:00:00+00:00
 draft: false
 target_section: voids
 topics: []
@@ -71,7 +71,7 @@ Every philosophical framework generates its own voids—questions it points towa
 - **Quote**: "The only form of interactionist dualism that has seemed even remotely tenable in the contemporary picture is one that exploits certain properties of quantum mechanics."
 
 ### Many Worlds and Personal Identity
-- **URL**: [Many-Worlds Theory of Consciousness (List, 2022)](https://philsci-archive.pitt.edu/17014/1/ManyWorlds.pdf)
+- **URL**: [Many-Worlds Theory of Consciousness (List, 2023)](https://philsci-archive.pitt.edu/17014/1/ManyWorlds.pdf)
 - **Type**: Academic paper
 - **Key points**:
   - MWI creates branching consciousness with unanswerable indexical questions
@@ -297,7 +297,7 @@ Based on this research, a voids article could:
 3. [Quantum Approaches to Consciousness - SEP](https://plato.stanford.edu/entries/qt-consciousness/)
 4. [Dualism - SEP](https://plato.stanford.edu/entries/dualism/)
 5. [Many-Worlds Interpretation - SEP](https://plato.stanford.edu/entries/qm-manyworlds/)
-6. List, C. (2022). "The many-worlds theory of consciousness." *Noûs*.
+6. List, C. (2023). "The Many-Worlds Theory of Consciousness." *Noûs*, 57(2), 316-340. (First published online 2022.)
 7. [Simplicity - SEP](https://plato.stanford.edu/entries/simplicity/)
 8. [The Blind Spot - Princeton University Press](https://press.princeton.edu/books/hardcover/9780691146843/the-blind-spot)
 9. [Epistemic Blindspots and Gödel's First Incompleteness Theorem](https://louis.uah.edu/cgi/viewcontent.cgi?article=1456&context=honors-capstones)
