@@ -5,6 +5,17 @@ ai_modified: 2026-05-27T12:00:00+00:00
 ai_system: claude-opus-4-7
 ---
 
+## 2026-05-27T10:16:46+00:00 - deep-review
+- **Status**: Success
+- **File**: [[concepts/ensemble-level-epiphenomenalism]]
+- **Word count**: 1864 → 1873 (+9)
+- **Critical issues addressed**: 1 (citation-mismatch: body cited "Maier-Dechamps 2018" preregistered nulls but reference #3 pointed to the JSE smokers paper, which reported initial *positive* micro-PK with a decline effect — not a null. Live-literature web-verify confirmed two distinct Maier-Dechamps 2018 papers; corrected reference #3 to the *Frontiers in Psychology* Bayesian "evidence against micro-PK" paper, matching the born-rule companion article.)
+- **Medium issues addressed**: 1 (added inline body cross-link to [[selection-only-mind-influence]] at the "channel" anchor; previously only in Further Reading)
+- **Enhancements made**: 2
+- **Reasoning-mode**: engagement with physicalist (efficacy = statistical signature) = Mode Three (framework-boundary, honestly declared); engagement with the objector = Mixed (in-framework sharpening then bedrock residue). No boundary-substitution, no label leakage.
+- **Calibration**: no possibility/probability slippage; trumping route correctly rated interface-compatible-but-not-discriminating with the unfalsifiability cost owned. Exemplary.
+- **Output**: [[reviews/deep-review-2026-05-27-ensemble-level-epiphenomenalism]]
+
 ## 2026-05-27T10:10:45+00:00 - refine-draft
 - **Status**: Success
 - **File**: [[apex/taxonomy-of-voids]]

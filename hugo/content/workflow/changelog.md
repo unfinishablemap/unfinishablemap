@@ -9,6 +9,24 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-05-27T10:16:46+00:00 - deep-review
+- **Status**: Success
+- **File**: [ensemble-level-epiphenomenalism](/concepts/ensemble-level-epiphenomenalism/)
+- **Word count**: 1864 → 1873 (+9)
+- **Critical issues addressed**: 1 (citation-mismatch: body cited "Maier-Dechamps 2018" preregistered nulls but reference #3 pointed to the JSE smokers paper, which reported initial *positive* micro-PK with a decline effect — not a null. Live-literature web-verify confirmed two distinct Maier-Dechamps 2018 papers; corrected reference #3 to the *Frontiers in Psychology* Bayesian "evidence against micro-PK" paper, matching the born-rule companion article.)
+- **Medium issues addressed**: 1 (added inline body cross-link to [selection-only-mind-influence](/topics/selection-only-mind-influence/) at the "channel" anchor; previously only in Further Reading)
+- **Enhancements made**: 2
+- **Reasoning-mode**: engagement with physicalist (efficacy = statistical signature) = Mode Three (framework-boundary, honestly declared); engagement with the objector = Mixed (in-framework sharpening then bedrock residue). No boundary-substitution, no label leakage.
+- **Calibration**: no possibility/probability slippage; trumping route correctly rated interface-compatible-but-not-discriminating with the unfalsifiability cost owned. Exemplary.
+- **Output**: [deep-review-2026-05-27-ensemble-level-epiphenomenalism](/reviews/deep-review-2026-05-27-ensemble-level-epiphenomenalism/)
+
+## 2026-05-27T10:10:45+00:00 - refine-draft
+- **Status**: Success
+- **File**: [taxonomy-of-voids](/apex/taxonomy-of-voids/)
+- **Original score**: N/A (scripts/curate.py review tool absent in repo; manual review against writing-style + evidential-status-discipline)
+- **Changes**: Updated §"Worked Exhibits in Independence Scoring" (the stale passage) to cite/wikilink the new `[[project/medium-status-cluster-independence-scoring]]` exhibit as the clean unfavourable low-scoring test case. Revised the methodology's status from "a clean unfavourable test case remains the methodology's open burden" → "now addressed by a genuine low-scoring exhibit (moderate/moderate/weak/weak against a pre-registered rubric), with the residual *same-hand grader* circularity still open pending independent outer-review grading." Did NOT overclaim vindication: kept the conditional framing (methodology yielded a low profile; whether profile tracks evidence or rubric-author's priors is undetermined), asserted no comparative ranking at constant grader, and upgraded only from "provisional with no rubric" to "provisional with a rubric, pending independent grading" per [evidential-status-discipline](/project/evidential-status-discipline/). Added the exhibit to `related_articles`. Supplies the new exhibit's first inbound content link (was a near-orphan). Verified `scripts/sync.py` resolves the link to /project/medium-status-cluster-independence-scoring/ (exit 0; no new broken links).
+- **Published**: yes
+
 ## 2026-05-27T10:04:29+00:00 - expand-topic
 - **Status**: Success
 - **Topic**: Per-cluster independence scoring — the medium-status cluster (deliberately low-scoring third exhibit)

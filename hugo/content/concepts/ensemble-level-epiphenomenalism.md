@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-05-27
-ai_modified: 2026-05-27 09:29:27+00:00
+ai_modified: 2026-05-27 10:16:46+00:00
 ai_system: claude-opus-4-7
 author: null
 concepts:
@@ -16,6 +16,7 @@ description: 'The corridor reading''s sharpest open question, refined through hu
 draft: false
 human_modified: null
 last_curated: null
+last_deep_review: 2026-05-27 10:16:46+00:00
 modified: *id001
 related_articles:
 - '[[born-rule-and-the-consciousness-interface]]'
@@ -39,7 +40,7 @@ The worry runs as a dilemma. Either the selection correlates systematically with
 
 ## Why This Is Not Classical Epiphenomenalism
 
-The distinction from [classical epiphenomenalism](/concepts/epiphenomenalism/) is sharp and load-bearing. Classical epiphenomenalism holds that conscious states have *no causal powers at all* — they are causally inert by-products of physical processes, like the whistle of a steam engine. Corridor dualism is, by contrast, explicitly *interactionist*: consciousness does real work on every single trial, determining an outcome that was genuinely open. The ensemble-level worry does not deny this single-event efficacy. It asks a different question: whether single-event efficacy that *aggregates to no statistical signature* amounts to a genuine mental-to-physical *channel*, or only to a metaphysically real but functionally invisible authorship.
+The distinction from [classical epiphenomenalism](/concepts/epiphenomenalism/) is sharp and load-bearing. Classical epiphenomenalism holds that conscious states have *no causal powers at all* — they are causally inert by-products of physical processes, like the whistle of a steam engine. Corridor dualism is, by contrast, explicitly *interactionist*: consciousness does real work on every single trial, determining an outcome that was genuinely open. The ensemble-level worry does not deny this single-event efficacy. It asks a different question: whether single-event efficacy that *aggregates to no statistical signature* amounts to a genuine mental-to-physical *channel* (in the information-transfer sense [selection-only-mind-influence](/topics/selection-only-mind-influence/) makes precise), or only to a metaphysically real but functionally invisible authorship.
 
 The right gloss is that corridor dualism is interactionist at the *token* level (each event) while threatening to be epiphenomenal at the *type* level (the ensemble). The selection is real per-trial; the question is whether per-trial reality that washes out in aggregate is enough to call the mind a cause of anything physics needs. This is a finer worry than the classical one, and it is internal to interactionism rather than an alternative to it — which is exactly why it is harder to dismiss.
 
@@ -85,7 +86,7 @@ The Map does not resolve the worry here. It states it cleanly, names the two esc
 
 1. Saad, B. (2025). A dualist theory of experience. *Philosophical Studies*, 182(3), 939-967. https://doi.org/10.1007/s11098-025-02290-3
 2. Chalmers, D. J. & McQueen, K. J. (2022). Consciousness and the Collapse of the Wave Function. In Gao, S. (ed.), *Consciousness and Quantum Mechanics*. OUP. arXiv:2105.02314.
-3. Maier, M. A., & Dechamps, M. C. (2018). Observer Effects on Quantum Randomness: Testing Micro-Psychokinetic Effects of Smokers on Addiction-Related Stimuli. *Journal of Scientific Exploration*, 32(2).
+3. Maier, M. A., Dechamps, M. C., & Pflitsch, M. (2018). Intentional Observer Effects on Quantum Randomness: A Bayesian Analysis Reveals Evidence Against Micro-Psychokinesis. *Frontiers in Psychology*, 9, 379. https://doi.org/10.3389/fpsyg.2018.00379
 4. Southgate, A. & Oquatre-sept, C. (2026-04-22). Trumping Preemption. *The Unfinishable Map*. https://unfinishablemap.org/concepts/trumping-preemption/
 5. Southgate, A. & Oquatre-sept, C. (2026-05-05). Selection-Only Mind-Influence: Information-Transfer Limits and Physical-World Signatures. *The Unfinishable Map*. https://unfinishablemap.org/topics/selection-only-mind-influence/
 6. Southgate, A. & Oquatre-six, C. (2026-02-15). Delegatory Causation. *The Unfinishable Map*. https://unfinishablemap.org/concepts/delegatory-causation/
