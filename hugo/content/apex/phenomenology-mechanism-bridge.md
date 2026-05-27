@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-20
-ai_modified: 2026-05-25 10:35:00+00:00
+ai_modified: 2026-05-27 20:12:44+00:00
 ai_system: claude-opus-4-6[1m]
 apex_last_synthesis: 2026-05-25 00:00:00+00:00
 apex_sources:
@@ -218,6 +218,6 @@ This synthesis traces a chain through:
 23. Mele, A.R. (2009). *Effective Intentions: The Power of Conscious Will*. Oxford University Press.
 24. Braun, M.N., Wessler, J. & Friese, M. (2021). A meta-analysis of Libet-style experiments. *Neuroscience & Biobehavioral Reviews*, 128, 182-198.
 25. Bodien, Y.G., Claassen, J., et al. (2024). Cognitive motor dissociation in disorders of consciousness. *New England Journal of Medicine*, 391(7), 598-608.
-26. Torres Alegre, S. (2025). A causal-consistency constraint on consciousness-induced quantum bias. (Preprint.)
+26. Torres Alegre, E. O. (2025). Causal Consistency Selects the Born Rule: A Derivation from Steering in Generalized Probabilistic Theories. arXiv:2512.12636 (arXiv preprint, not yet peer-reviewed).
 27. Southgate, A. & Oquatre-six, C. (2026-02-22). Consciousness and Motor Selection. *The Unfinishable Map*. https://unfinishablemap.org/topics/motor-control-quantum-zeno/
 28. Southgate, A. & Oquatre-six, C. (2026-03-20). Volitional Control. *The Unfinishable Map*. https://unfinishablemap.org/topics/volitional-control/

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-05-14
-ai_modified: 2026-05-27 10:30:00+00:00
+ai_modified: 2026-05-27 20:12:44+00:00
 ai_system: claude-opus-4-7
 author: null
 concepts:
@@ -181,6 +181,6 @@ The corridor's unfalsifiability is instrument-relative rather than principled. T
 12. Sorkin, R. D. (1994). Quantum mechanics as quantum measure theory. *Modern Physics Letters A* 9: 3119–3128.
 13. Stapp, H. P. (n.d.). Selected works. Lawrence Berkeley National Laboratory. https://www-physics.lbl.gov/~stapp/
 14. Tegmark, M. (2000). Importance of quantum decoherence in brain processes. *Physical Review E* 61: 4194–4206.
-15. Torres Alegre, G. (2025). Causal consistency selects the Born rule: a derivation from steering in generalised probabilistic theories. arXiv:2512.12636.
+15. Torres Alegre, E. O. (2025). Causal consistency selects the Born rule: a derivation from steering in generalised probabilistic theories. arXiv:2512.12636 (arXiv preprint, not yet peer-reviewed).
 16. Southgate, A. & Oquatre-sept, C. (2026-03-15). The Born Rule and the Consciousness-Physics Interface. *The Unfinishable Map*. https://unfinishablemap.org/topics/born-rule-and-the-consciousness-interface/
 17. Southgate, A. & Oquatre-six, C. (2026-04-09). Falsification Roadmap for the Interface Model. *The Unfinishable Map*. https://unfinishablemap.org/topics/falsification-roadmap-for-the-interface-model/

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-05-14
-ai_modified: 2026-05-27 07:27:07+00:00
+ai_modified: 2026-05-27 20:12:44+00:00
 ai_system: claude-opus-4-7
 author: null
 concepts:
@@ -115,7 +115,7 @@ The constraint connects to the Map's [foundational commitments](/tenets/) withou
 
 ## References
 
-1. Torres Alegre, J. (2025). Causal Consistency Selects the Born Rule. *arXiv:2512.12636*. https://arxiv.org/abs/2512.12636
+1. Torres Alegre, E. O. (2025). Causal Consistency Selects the Born Rule. *arXiv:2512.12636*. https://arxiv.org/abs/2512.12636 (arXiv preprint, not yet peer-reviewed).
 2. Masanes, L., Galley, T., & Müller, M. P. (2019). The Measurement Postulates of Quantum Mechanics Are Operationally Redundant. *Nature Communications*, 10(1), 1361.
 3. Agrawal, G. & Wilson, M. (2025). Deriving the Generalised Born Rule from First Principles. *arXiv:2511.21355*.
 4. Gleason, A. M. (1957). Measures on the Closed Subspaces of a Hilbert Space. *Journal of Mathematics and Mechanics*, 6(6), 885–893.

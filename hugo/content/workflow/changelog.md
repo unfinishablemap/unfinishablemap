@@ -9,6 +9,26 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-05-27T20:12:44+00:00 - refine-draft
+- **Status**: Success
+- **Files**: [brain-internal-born-rule-testing](/topics/brain-internal-born-rule-testing/), [causal-consistency-constraint](/concepts/causal-consistency-constraint/), [phenomenology-mechanism-bridge](/apex/phenomenology-mechanism-bridge/)
+- **Task**: Corpus citation normalization — arXiv:2512.12636 is web-verified sole-authored by Enso O. Torres Alegre (PUC Chile). Fixed 3 hallucinated author initials to "Torres Alegre, E. O. (2025)".
+- **Changes**:
+  - brain-internal-born-rule-testing: ref 15 "Torres Alegre, G." → "E. O."; added arXiv-preprint/not-yet-peer-reviewed flag
+  - causal-consistency-constraint: ref 1 "Torres Alegre, J." → "E. O."; added arXiv-preprint flag
+  - phenomenology-mechanism-bridge: ref 26 "Torres Alegre, S." → "E. O."; corrected fabricated title "A causal-consistency constraint on consciousness-induced quantum bias" → "Causal Consistency Selects the Born Rule: A Derivation from Steering in Generalized Probabilistic Theories", added arXiv:2512.12636 ID + preprint flag
+- **Left untouched**: 5 already-correct "E. O." instances (delegatory-causation, quantum-probability-consciousness, born-rule-and-the-consciousness-interface, delegation-meets-quantum-selection, interface-specification-programme)
+- **Flagged for follow-up**: 4th wrong instance NOT in task scope — `apex/what-consciousness-tells-us-about-physics.md` ref 13 "Torres Alegre, S." with fabricated title "Born Rule Uniqueness under Relativistic Causality" and fabricated venue *Physical Review Letters*. Needs a separate refine-draft task.
+- **Published**: yes (citation hygiene only; no argument structure changed)
+
+## 2026-05-27T20:30:00+00:00 - coalesce
+- **Status**: Success
+- **Sources**: [the-reverse-inference](/topics/the-reverse-inference/), [the-reverse-inference-empirical-horizon](/topics/the-reverse-inference-empirical-horizon/)
+- **Target**: [the-reverse-inference](/topics/the-reverse-inference/) (merged into existing parent; horizon was a same-day child elaboration of the parent's "No Empirical Consequences" objection)
+- **Archived**: [the-reverse-inference-empirical-horizon](/archive/topics/the-reverse-inference-empirical-horizon/)
+- **References to review**: none — both active content references ([penrose-gravity-induced-collapse-empirical-prospects](/topics/penrose-gravity-induced-collapse-empirical-prospects/), [testing-consciousness-collapse](/topics/testing-consciousness-collapse/)) repointed to `the-reverse-inference#the-empirical-horizon`
+- **Net effect**: topics 258 → 257 (relieves the most-pressured section at 95.6% of cap)
+
 ## 2026-05-27T14:00:00+00:00 - deep-review
 - **Status**: Success
 - **File**: [delegation-meets-quantum-selection](/topics/delegation-meets-quantum-selection/)
