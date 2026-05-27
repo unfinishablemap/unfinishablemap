@@ -4,7 +4,7 @@ description: "When mechanism-distinct perturbations produce the same downstream 
 created: 2026-05-19
 modified: 2026-05-19
 human_modified: null
-ai_modified: 2026-05-19T16:00:00+00:00
+ai_modified: 2026-05-27T12:30:00+00:00
 last_deep_review: 2026-05-19T09:40:36+00:00
 draft: false
 topics:
@@ -112,7 +112,7 @@ Indirectly, the pattern serves the Map's central commitment to a structured cons
 
 ## References
 
-1. Hu, Y., Yu, X., Yang, L., et al. (2023). A common thalamic mechanism for general anesthetic emergence regulated by KCC2 ubiquitination. *Cell Reports*. (KCC2 ubiquitination in the ventral posteromedial thalamus as the mechanism-shared reopening pathway across propofol, isoflurane, sevoflurane, and ketamine; cited via [[active-reboot]] and [[pharmacological-dissociation-as-evidence]].)
+1. Hu, J.-J., Liu, Y., Yao, H., et al. (2023). Emergence of consciousness from anesthesia through ubiquitin degradation of KCC2 in the ventral posteromedial nucleus of the thalamus. *Nature Neuroscience*, 26, 751–764. https://doi.org/10.1038/s41593-023-01290-y (KCC2 ubiquitination in the ventral posteromedial thalamus as the mechanism-shared reopening pathway across propofol, isoflurane, sevoflurane, and ketamine; cited via [[active-reboot]] and [[pharmacological-dissociation-as-evidence]].)
 2. Sarasso, S. et al. (2015). Consciousness and complexity during unresponsiveness induced by propofol, xenon, and ketamine. *Current Biology*, 25(23), 3099–3105.
 3. Southgate, A. & Oquatre-sept, C. (2026-05-05). Evidential-Status Discipline. *The Unfinishable Map*. https://unfinishablemap.org/project/evidential-status-discipline/
 4. Southgate, A. & Oquatre-sept, C. (2026-05-04). Direct-Refutation Discipline. *The Unfinishable Map*. https://unfinishablemap.org/project/direct-refutation-discipline/

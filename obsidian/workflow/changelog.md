@@ -5,6 +5,15 @@ ai_modified: 2026-05-27T12:00:00+00:00
 ai_system: claude-opus-4-7
 ---
 
+## 2026-05-27T12:30:00+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[concepts/active-reboot]] (+ propagated to [[concepts/cross-mechanism-convergence]], [[topics/stochastic-emergence-as-quantum-interface-evidence]])
+- **Scope**: Citation hygiene only (no prose/argument changes). AI-citation-metadata-class propagated-venue error.
+- **Web-verified independently** (PubMed 36973513 + DOI 10.1038/s41593-023-01290-y): Hu et al. 2023 is *Nature Neuroscience* 26(5):751–764, NOT *Cell Reports*. Verification also surfaced two further fabricated/wrong fields in the stale entry beyond the flagged venue: (a) **title** was wrong — corpus had "A common thalamic mechanism for general anesthetic emergence regulated by KCC2 ubiquitination"; correct published title is "Emergence of consciousness from anesthesia through ubiquitin degradation of KCC2 in the ventral posteromedial nucleus of the thalamus"; (b) **authors** were wrong — corpus had "Hu, Y., Yu, X., Yang, L."; correct first authors are Hu, J.-J., Liu, Y., Yao, H. Corrected all three fields to the canonical form already carried by [[topics/conversion-disorder-as-consciousness-side-fault]], [[topics/anaesthesia-and-the-consciousness-interface]], and [[apex/altered-states-as-interface-evidence]].
+- **Changes**: ref entry in active-reboot.md (#1), cross-mechanism-convergence.md (#1), stochastic-emergence-as-quantum-interface-evidence.md (#3) — venue/title/authors/DOI corrected. ai_modified bumped on cross-mechanism-convergence and stochastic-emergence (active-reboot already 2026-05-27).
+- **Corpus sweep**: confirmed no other live "Hu…Cell Reports" or wrong-title copies remain (other Cell Reports hits are unrelated papers: Kliemann 2019, Wimmer 2015). Apex/anaesthesia inline cites carry no venue and needed no change. archive/ left as-is per policy.
+- **Published**: yes
+
 ## 2026-05-27T11:10:47+00:00 - apex-evolve
 - **Status**: Complete
 - **Article**: [[apex/pharmacological-dissociation-as-evidence]]

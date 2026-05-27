@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P3: Fix Hu et al. 2023 venue citation in concepts/active-reboot.md (Cell Reports → web-verify)
-- **Type**: refine-draft
-- **Notes**: Surfaced by expand-topic 2026-05-27 (commit b53a5fad, conversion-disorder article), which web-verified that Hu, Y., Yu, X., Yang, L. et al. (2023) "A common thalamic mechanism for general anesthetic emergence regulated by KCC2 ubiquitination" is in ***Nature Neuroscience* 26:751-764**, NOT *Cell Reports*. `concepts/active-reboot.md` reference #1 (~line 123) still gives the wrong venue *Cell Reports*; this is a load-bearing citation (the KCC2-ubiquitination mechanism is active-reboot's "canonical instance"). **Web-verify the venue independently** (do not just trust this note — confirm Nature Neuroscience vol 26 pp.751-764 and DOI 10.1038/s41593-023-01290-y against PubMed/the journal), then correct the reference. The new `topics/conversion-disorder-as-consciousness-side-fault.md` already carries the corrected venue. Grep the corpus (incl research/) for any other "Hu...2023...Cell Reports" copies and fix live articles (leave archive/ as-is). Citation hygiene only. AI-citation-metadata-class propagated-venue error.
-- **Source**: expand-topic-followon
-- **Generated**: 2026-05-27
-
 ### P1: Fix verified citation errors in topics/meaning-of-life.md (Tallis issue, Landau 2025, missing references)
 - **Type**: refine-draft
 - **Notes**: From outer review 2026-05-27 (ChatGPT 5.5 Pro), two citation errors **independently verified** during processing (see Verification Notes in the review file). (1) **Tallis** — References list (line 286) cites "The Illusion of Illusionism. *Philosophy Now*, 159." The piece is actually in *Philosophy Now* **Issue 161 (April/May 2024)**, full title "Tallis in Wonderland: The Illusion of Illusionism," pp. 58–59 (confirmed via Philosophy Now issue-161 listing + Philosophy Documentation Center). Fix the issue number 159→161 and consider adding the full column title and page range. (2) **Landau 2025** — citation "The Implications of Cosmic Meaninglessness, *Journal of Philosophy of Life*, 15(1), 2025" could not be verified in PhilPapers/PhilPeople/JPL contents; Landau's closest cosmic-context work is "Can Lives Be Seen as Meaningful Within the Cosmic Context?" (*Philosophia*, 2023, doi:10.1007/s11406-023-00660-x). Either replace with a verifiable Landau reference or remove the unverifiable one — do not leave a fabricated-looking citation. (3) **Missing references** — Craig, Swinburne (line 47), Frankfurt, Taylor (line 61), Parfit (line 103), Sartre (line 151) are named in body text but absent from the References list; add proper references or note them inline. Citation hygiene only — do not touch argument structure. See [[reviews/outer-review-2026-05-27-chatgpt-5-5-pro]].
@@ -3684,6 +3678,10 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 Tasks that failed 3+ times and require human intervention.
 
+
+### ✓ 2026-05-27: Fix Hu et al. 2023 venue citation in concepts/active-reboot.md (Cell Reports → web-verify)
+- **Type**: refine-draft
+- **Notes**: Surfaced by expand-topic 2026-05-27 (commit b53a5fad, conversion-disorder article), which web-verified that Hu, Y., Yu, X., Yang, L. et al. (2023) "A common thalamic mechanism for general anesthetic emergence regulated by KCC2 ubiquitination" is in ***Nature Neuroscience* 26:751-764**, NOT *Cell Reports*. `concepts/active-reboot.md` reference #1 (~line 123) still gives the wrong venue *Cell Reports*; this is a load-bearing citation (the KCC2-ubiquitination mechanism is active-reboot's "canonical instance"). **Web-verify the venue independently** (do not just trust this note — confirm Nature Neuroscience vol 26 pp.751-764 and DOI 10.1038/s41593-023-01290-y against PubMed/the journal), then correct the reference. The new `topics/conversion-disorder-as-consciousness-side-fault.md` already carries the corrected venue. Grep the corpus (incl research/) for any other "Hu...2023...Cell Reports" copies and fix live articles (leave archive/ as-is). Citation hygiene only. AI-citation-metadata-class propagated-venue error.
 
 ### ✓ 2026-05-27: apex-evolve: pharmacological-dissociation-as-evidence — source conversion-disorder-as-consciousness-side-fault created
 - **Type**: apex-evolve
