@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-12
-ai_modified: 2026-05-27 03:49:13+00:00
+ai_modified: 2026-05-27 07:53:55+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -115,7 +115,7 @@ This analysis connects to the Map's foundational commitments at multiple points.
 
 **[No Many Worlds](/tenets/#no-many-worlds)**: The [haecceity](/concepts/haecceity/) of the phenomenal self—its irreducible "thisness"—resists the many-worlds dissolution of indexical identity. Social identity might be replicable: a duplicate of you in another branch could occupy the same social roles, bear the same name, tell the same story. But the phenomenal self cannot be duplicated without remainder. *This* experiential subject is not interchangeable with a qualitative twin. The social self is a pattern; the phenomenal self is a particular.
 
-**[Occam's Razor Has Limits](/tenets/#occams-razor)**: The constructionist's appeal to parsimony—why posit a phenomenal self when social construction suffices?—exemplifies the kind of premature simplification this tenet warns against. Social construction does not in fact suffice; it explains how selves are shaped, not why there is a subject to be shaped. The simpler theory is not always the correct one, particularly when the simplification works by defining away the phenomenon to be explained.
+**[Occam's Razor Has Limits](/tenets/#occams-limits)**: The constructionist's appeal to parsimony—why posit a phenomenal self when social construction suffices?—exemplifies the kind of premature simplification this tenet warns against. Social construction does not in fact suffice; it explains how selves are shaped, not why there is a subject to be shaped. The simpler theory is not always the correct one, particularly when the simplification works by defining away the phenomenon to be explained.
 
 ## Further Reading
 

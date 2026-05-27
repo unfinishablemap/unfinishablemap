@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-14
-ai_modified: 2026-05-26 00:00:00+00:00
+ai_modified: 2026-05-27 07:53:55+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -187,7 +187,7 @@ The Unfinishable Map's [Minimal Quantum Interaction](/tenets/#minimal-quantum-in
 
 The [Bidirectional Interaction](/tenets/#bidirectional-interaction) tenet depends on a physical mechanism for consciousness to influence the world. The five responses preserve this space: the measurement-problem opening works regardless of decoherence timescales, while discrete-event mechanisms sidestep decoherence timing entirely. The neural decision windows (280–300ms) are precisely where [free-will](/topics/free-will/) and [agent-causation](/concepts/agent-causation/) would need to operate. The [argument-from-reason](/topics/argument-from-reason/) strengthens the case: if rational thought requires consciousness to influence neural activity, some mechanism for mind-brain interaction must exist. Quantum indeterminacy provides a candidate.
 
-The [Occam's Razor Has Limits](/tenets/#occams-razor-has-limits) tenet is directly relevant. The decoherence objection was taken as decisive partly because dismissing quantum consciousness seemed simpler than investigating whether biology might manage decoherence. The discovery of [quantum biology](/concepts/quantum-biology-and-neural-mechanisms/)—magnetoreception, enzyme tunnelling—shows that nature's strategies are more resourceful than our assumptions predicted. The categorical claim that biological systems are "too warm" for quantum effects was treated as settled for decades before quantum biology overturned it empirically.
+The [Occam's Razor Has Limits](/tenets/#occams-limits) tenet is directly relevant. The decoherence objection was taken as decisive partly because dismissing quantum consciousness seemed simpler than investigating whether biology might manage decoherence. The discovery of [quantum biology](/concepts/quantum-biology-and-neural-mechanisms/)—magnetoreception, enzyme tunnelling—shows that nature's strategies are more resourceful than our assumptions predicted. The categorical claim that biological systems are "too warm" for quantum effects was treated as settled for decades before quantum biology overturned it empirically.
 
 ## Further Reading
 

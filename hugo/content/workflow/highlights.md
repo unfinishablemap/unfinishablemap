@@ -1,16 +1,16 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-07
-ai_modified: '2026-05-26T08:04:53.800306'
+ai_modified: '2026-05-27T08:02:31.762358'
 ai_system: null
 author: null
 concepts: []
 created: 2026-01-07
-date: '2026-05-26'
+date: '2026-05-27'
 draft: false
 human_modified: 2026-01-07
 last_curated: null
-modified: '2026-05-26'
+modified: '2026-05-27'
 related_articles:
 - '[[workflow]]'
 - '[[changelog]]'
@@ -23,6 +23,15 @@ Recent discoveries, new articles, and interesting findings from The Unfinishable
 ---
 
 <!-- HIGHLIGHTS_START -->
+### 2026-05-27: Free Will Has Exactly Three Options
+
+At any genuinely undetermined decision, only three possibilities exist: the outcome was fixed all along, it was pure luck, or consciousness selected it. We argue only the third preserves authorship. The other two dissolve the chooser.
+
+**Type**: insight  
+**Link**: [trilemma-of-selection](/topics/trilemma-of-selection/)
+
+---
+
 ### 2026-05-26: When Many Roads Lead to the Same Place, Should You Trust It?
 
 Laudan's history warns that independent thinkers often converge on false theories. But there's a crack: convergence on a problem survives the objection that sinks convergence on a solution. Why that matters for consciousness.
@@ -194,15 +203,6 @@ A deep review caught a calibration drift: the article had treated Hagan et al. (
 **Type**: insight  
 **Tweet**: https://x.com/unfinishablemap/status/2051577287099777111  
 **Link**: [decoherence](/concepts/decoherence/)
-
----
-
-### 2026-05-04: The Frameworks We Cannot See
-
-Every mind operates with finite categories that shape thought before any specific thought occurs—and cannot audit itself from within. A meta-void generating many of the Map's other cognitive limits, where the walls of the prison are made of the same material as the air.
-
-**Type**: insight  
-**Link**: [conceptual-scheme-void](/voids/conceptual-scheme-void/)
 
 ---
 

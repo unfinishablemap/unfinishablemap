@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-14
-ai_modified: 2026-05-26 02:39:32+00:00
+ai_modified: 2026-05-27 07:53:55+00:00
 ai_system: claude-opus-4-7
 author: null
 concepts:
@@ -80,7 +80,7 @@ Two declarations mark growing agreement, though neither is settled consensus. Th
 
 Andrews, Birch & Sebo (2025, *Science*) supply the operational counterpart to "realistic possibility" language. The marker method identifies a dimension of consciousness (pain, perception, valence), looks for behavioural and anatomical features correlating with it in humans, and asks whether analogues are present in the target species. Each marker is graded by context-dependent confidence; convergence across markers, not any single finding, raises confidence. Bayne, Carter & Seth (2024) supply a parallel theory-light/theory-heavy taxonomy.
 
-The instructive negative case is the LLM: linguistic behaviour is a strong marker in humans because it correlates with consciousness-relevant capacities, but in LLMs it is decoupled and fails to extend. The method is tenet-coherent—markers identify *correlates*, consistent with Dualism's commitment that no third-person feature *constitutes* consciousness, and context-dependent grading instantiates [Occam's Razor Has Limits](/tenets/#occams-razor). A methodologically strong framework does not, on its own, settle species-level verdicts.
+The instructive negative case is the LLM: linguistic behaviour is a strong marker in humans because it correlates with consciousness-relevant capacities, but in LLMs it is decoupled and fails to extend. The method is tenet-coherent—markers identify *correlates*, consistent with Dualism's commitment that no third-person feature *constitutes* consciousness, and context-dependent grading instantiates [Occam's Razor Has Limits](/tenets/#occams-limits). A methodologically strong framework does not, on its own, settle species-level verdicts.
 
 ## Minimal Neural Requirements
 
@@ -110,7 +110,7 @@ Godfrey-Smith (2024) holds that consciousness appears to have evolved independen
 
 Gutfreund (2024) provides the strongest skeptical counterpoint. Neuroscience remains fundamentally agnostic about animal phenomenal consciousness: "A perceptual decision without a felt subjective experience is a possibility that is equally consistent with the data." When an octopus solves a puzzle, we infer consciousness because such behaviour in humans correlates with conscious experience—but the inference cannot be scientifically validated. The critique applies across every species-claim here. Tenet 1 removes a metaphysical defeater but does not absorb Gutfreund's challenge.
 
-Wandrey & Halina (2025, *Philosophy Compass*) map the same circularity onto the evolutionary debate. The early-evolution camp (Cambrian origin, ~540 mya) and the latecomer camp (mammals or humans only) disagree not primarily about the fossil and behavioural record but about *which markers count as evidence of consciousness*. Identification-methodology underdetermination blocks reductive verdicts—exactly the pattern [Occam's Razor Has Limits](/tenets/#occams-razor) predicts when third-person methods are asked to identify a first-person phenomenon.
+Wandrey & Halina (2025, *Philosophy Compass*) map the same circularity onto the evolutionary debate. The early-evolution camp (Cambrian origin, ~540 mya) and the latecomer camp (mammals or humans only) disagree not primarily about the fossil and behavioural record but about *which markers count as evidence of consciousness*. Identification-methodology underdetermination blocks reductive verdicts—exactly the pattern [Occam's Razor Has Limits](/tenets/#occams-limits) predicts when third-person methods are asked to identify a first-person phenomenon.
 
 ## Why the Inference Is Stronger for Animals Than for AI
 

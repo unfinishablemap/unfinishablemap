@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-05-11
-ai_modified: 2026-05-11 18:47:00+00:00
+ai_modified: 2026-05-27 07:53:55+00:00
 ai_system: claude-opus-4-7
 author: null
 concepts:
@@ -143,7 +143,7 @@ Type-token causation operationalises two tenets without overcommitting on either
 
 **[Bidirectional Interaction](/tenets/#bidirectional-interaction)**: Bidirectional causation is real at the token grain. Consciousness influences which particular outcomes occur, and the resulting outcomes shape the brain states that subsequent experiences arise from. The bidirectionality is not paradoxical because the two directions operate at compatible grains: physical states fix type-level constraints; conscious selection fixes token outcomes within those constraints.
 
-The combination is what makes the Map's framework *minimal in the technical sense Tenet 2 specifies* without being deflationary: mental causation is metaphysically real (against [epiphenomenalism](/concepts/epiphenomenalism/)); physics is structurally complete (against magic); and the apparent conflict between these dissolves once the type-token distinction is in hand. The minimality claim is technical, not a parsimony argument — Tenet 5 ([Occam's Razor Has Limits](/tenets/#occams-razor-limits)) is the Map's own brake on leaning on parsimony at this level.
+The combination is what makes the Map's framework *minimal in the technical sense Tenet 2 specifies* without being deflationary: mental causation is metaphysically real (against [epiphenomenalism](/concepts/epiphenomenalism/)); physics is structurally complete (against magic); and the apparent conflict between these dissolves once the type-token distinction is in hand. The minimality claim is technical, not a parsimony argument — Tenet 5 ([Occam's Razor Has Limits](/tenets/#occams-limits)) is the Map's own brake on leaning on parsimony at this level.
 
 ## Further Reading
 

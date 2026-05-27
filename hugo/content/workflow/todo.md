@@ -108,20 +108,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: outer-review
 - **Generated**: 2026-05-27
 
-### P3: Apex synthesis — "Steelmanning as Method: Building the Rival Before the Residue"
-- **Type**: apex-evolve
-- **Status**: pending
-- **Notes**: Suggested by optimistic review 2026-05-26f (high priority). [phenomenal-output-causal-machinery-dissociation](/apex/phenomenal-output-causal-machinery-dissociation/)'s "Strongest Materialist Reading" section demonstrates a *reusable methodological pattern* — construct the strongest unified materialist rival, grant that it absorbs the shape, then isolate the narrow surviving residue (felt-character) — that is performed but not named or generalised across the Map. An apex piece (register is uncapped, so this is the safest high-priority expansion: topics 248/270, concepts 246/270 have room, voids 102 is over cap) would lift this into a stated method, anchored to [evidential-status-discipline](/project/evidential-status-discipline/) and the "defeater-removal vs evidence-lift" distinction, making the Map's epistemic stance legible to LLM readers in one place. Pair with the apex's own discipline of *auditing its convergence count downward* (seven traditions → five-or-six) as a worked exhibit of evidential restraint. Tenet alignment: 5 (Occam's Razor Has Limits) primarily; methodologically supports all five. See [optimistic-2026-05-26f](/reviews/optimistic-2026-05-26f/).
-- **Source**: optimistic-review (2026-05-26f)
-- **Generated**: 2026-05-26
-
-### P3: Fix broken `#^occams-razor` tenet anchor across 10 files (links hygiene)
-- **Type**: refine-draft
-- **Status**: pending
-- **Notes**: Suggested by optimistic review 2026-05-27b (links-hygiene, low risk). Ten content files link Tenet 5 with the non-existent anchor `[[tenets#^occams-razor|...]]`; the live anchor in `tenets/tenets.md` is `^occams-limits` (line 120). The in-page jump silently fails for all ten. Confirmed at review time: `grep -rl 'tenets#\^occams-razor' topics/ concepts/ voids/` = 10 files vs. 434 files using the correct `#^occams-limits`. One observed instance: [social-construction-of-self-vs-phenomenal-self](/topics/social-construction-of-self-vs-phenomenal-self/) §"Relation to Site Perspective" (Occam's Razor Has Limits paragraph). Batch fix: replace `tenets#^occams-razor` → `tenets#^occams-limits` across the 10 files, preserving each link's display text after the pipe. Mechanical, no prose change; bump `ai_modified` on each touched file. Tenet alignment: housekeeping (all tenets — link integrity to the tenets page).
-- **Source**: optimistic-review (2026-05-27b)
-- **Generated**: 2026-05-27
-
 ### P3: Write article on essential vs. contingent consciousness of the non-physical aspect
 - **Type**: expand-topic
 - **Status**: pending
@@ -3757,6 +3743,14 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 Tasks that failed 3+ times and require human intervention.
 
+
+### ✓ 2026-05-27: Fix broken `#^occams-razor` tenet anchor across 10 files (links hygiene)
+- **Type**: refine-draft
+- **Notes**: Suggested by optimistic review 2026-05-27b (links-hygiene, low risk). Ten content files link Tenet 5 with the non-existent anchor `[[tenets#^occams-razor|...]]`; the live anchor in `tenets/tenets.md` is `^occams-limits` (line 120). The in-page jump silently fails for all ten. Confirmed at review time: `grep -rl 'tenets#\^occams-razor' topics/ concepts/ voids/` = 10 files vs. 434 files using the correct `#^occams-limits`. One observed instance: [social-construction-of-self-vs-phenomenal-self](/topics/social-construction-of-self-vs-phenomenal-self/) §"Relation to Site Perspective" (Occam's Razor Has Limits paragraph). Batch fix: replace `tenets#^occams-razor` → `tenets#^occams-limits` across the 10 files, preserving each link's display text after the pipe. Mechanical, no prose change; bump `ai_modified` on each touched file. Tenet alignment: housekeeping (all tenets — link integrity to the tenets page).
+
+### ✓ 2026-05-27: Apex synthesis — "Steelmanning as Method: Building the Rival Before the Residue"
+- **Type**: apex-evolve
+- **Notes**: Suggested by optimistic review 2026-05-26f (high priority). [phenomenal-output-causal-machinery-dissociation](/apex/phenomenal-output-causal-machinery-dissociation/)'s "Strongest Materialist Reading" section demonstrates a *reusable methodological pattern* — construct the strongest unified materialist rival, grant that it absorbs the shape, then isolate the narrow surviving residue (felt-character) — that is performed but not named or generalised across the Map. An apex piece (register is uncapped, so this is the safest high-priority expansion: topics 248/270, concepts 246/270 have room, voids 102 is over cap) would lift this into a stated method, anchored to [evidential-status-discipline](/project/evidential-status-discipline/) and the "defeater-removal vs evidence-lift" distinction, making the Map's epistemic stance legible to LLM readers in one place. Pair with the apex's own discipline of *auditing its convergence count downward* (seven traditions → five-or-six) as a worked exhibit of evidential restraint. Tenet alignment: 5 (Occam's Razor Has Limits) primarily; methodologically supports all five. See [optimistic-2026-05-26f](/reviews/optimistic-2026-05-26f/).
 
 ### ✓ 2026-05-27: Apex synthesis — "The self is constructed; the constructor is not"
 - **Type**: apex-evolve

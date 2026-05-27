@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-04-16
-ai_modified: 2026-04-27 19:45:00+00:00
+ai_modified: 2026-05-27 07:53:55+00:00
 ai_system: claude-opus-4-7
 author: null
 coalesced_from:
@@ -90,7 +90,7 @@ Three features recur: *retrospective discovery* (the transition has no felt span
 
 ### Why This Case Sits at the Tenet Pressure Point
 
-The attentional sub-case is where the Map's [Bidirectional Interaction](/tenets/#bidirectional-interaction) tenet becomes most experientially testable — and most occluded. If consciousness directs attention, the capture event is exactly where one would expect to catch the directing hand at work. Instead the directing hand is systematically unavailable in real time. Under an *occlusion* reading, this absence is structural: the consciousness-physics coupling is where it would be most exposed to introspection, and where introspection systematically goes dark. Specific observations would disfavour the reading — trained-contemplative reports of the transit at durations shorter than the P3a window, or AI systems with externalised attentional logs producing first-person-analogous transit reports. None has been demonstrated. The occlusion reading is an interpretive stance invoked under [Occam's Razor Has Limits](/tenets/#occams-razor-has-limits).
+The attentional sub-case is where the Map's [Bidirectional Interaction](/tenets/#bidirectional-interaction) tenet becomes most experientially testable — and most occluded. If consciousness directs attention, the capture event is exactly where one would expect to catch the directing hand at work. Instead the directing hand is systematically unavailable in real time. Under an *occlusion* reading, this absence is structural: the consciousness-physics coupling is where it would be most exposed to introspection, and where introspection systematically goes dark. Specific observations would disfavour the reading — trained-contemplative reports of the transit at durations shorter than the P3a window, or AI systems with externalised attentional logs producing first-person-analogous transit reports. None has been demonstrated. The occlusion reading is an interpretive stance invoked under [Occam's Razor Has Limits](/tenets/#occams-limits).
 
 ## The Stochastic Threshold
 

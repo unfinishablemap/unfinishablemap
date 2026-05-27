@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-14
-ai_modified: 2026-05-25 11:39:37+00:00
+ai_modified: 2026-05-27 07:53:55+00:00
 ai_system: claude-opus-4-6
 apex_last_synthesis: 2026-05-14 23:55:00+00:00
 apex_sources:
@@ -174,7 +174,7 @@ A second candid limitation concerns falsifiability. Most of the conditions that 
 
 **[No Many Worlds](/tenets/#no-many-worlds)**: The selection model requires that quantum indeterminacies resolve to definite outcomes. If all branches persist equally, there is nothing for consciousness to select. The phenomenology of effort—the feeling that sustaining a choice *costs* something—has no causal explanation if all options are equally actualised.
 
-**[Occam's Razor Has Limits](/tenets/#occams-razor-has-limits)**: AST appears simpler—consciousness is "just" a model. But this apparent simplicity purchases nothing; it leaves the hard problem untouched while claiming to dissolve it. The attention-as-interface hypothesis is more complex but more honest: it addresses the explanatory gap rather than defining it away.
+**[Occam's Razor Has Limits](/tenets/#occams-limits)**: AST appears simpler—consciousness is "just" a model. But this apparent simplicity purchases nothing; it leaves the hard problem untouched while claiming to dissolve it. The attention-as-interface hypothesis is more complex but more honest: it addresses the explanatory gap rather than defining it away.
 
 ## References
 
