@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-05-27
-ai_modified: 2026-05-27 12:32:56+00:00
+ai_modified: 2026-05-27 13:05:00+00:00
 ai_system: claude-opus-4-7
 author: null
 concepts:
@@ -16,6 +16,7 @@ description: Why max-mind dualism slides toward idealism, and what would hold it
 draft: false
 human_modified: null
 last_curated: null
+last_deep_review: 2026-05-27 13:05:00+00:00
 modified: *id001
 related_articles:
 - '[[mechanism-costs-dualism-thickness-quadrants]]'
@@ -37,7 +38,7 @@ Call it the **Q3 sliding-boundary problem**: when the mental side of a dualism i
 
 The mechanism of the slide is an explanatory squeeze. A dualist owes an account of *why there are two ontological kinds* rather than one. The usual justification for keeping a physical pole is that it does work the mental pole cannot — it grounds the regularities science describes, the public measurable world, the resistance of matter to thought. But as the mental side is enriched to explain perception, lawful structure, and the felt world from the inside, the physical side's residual job shrinks. At the limit, "physical" names nothing but *how the mental looks from outside*. Once that happens, parsimony pressure becomes nearly irresistible: a pole that does no independent explanatory work and is definable wholly in terms of the other pole is a candidate for elimination. The position has become monist whether or not its holder announces the move.
 
-The slide leaves a characteristic residue. Where the interactionist dualist owes an *interface* account (how do the two kinds touch?), the position that has slid to idealism instead owes a **transparency problem**: why does the intrinsic mental reality appear, from the outside, *exactly* as impersonal lawful physical structure? Bernardo Kastrup's formulation — that "matter is the extrinsic appearance of mental processes" — is the canonical contemporary statement (see [analytic-idealism-and-mind-centric-metaphysics](/topics/analytic-idealism-and-mind-centric-metaphysics/) for the Map's framing). The transparency problem is not lighter than the interface problem; it is a different debt with a different shape. Trading the first for the second is precisely what the slide accomplishes.
+The slide leaves a characteristic residue. Where the interactionist dualist owes an *interface* account (how do the two kinds touch?), the position that has slid to [idealism](/concepts/idealism/) instead owes a **transparency problem**: why does the intrinsic mental reality appear, from the outside, *exactly* as impersonal lawful physical structure? Bernardo Kastrup's formulation — that "matter is the extrinsic appearance of mental processes" — is the canonical contemporary statement (see [analytic-idealism-and-mind-centric-metaphysics](/topics/analytic-idealism-and-mind-centric-metaphysics/) for the Map's framing). The transparency problem is not lighter than the interface problem; it is a different debt with a different shape. Trading the first for the second is precisely what the slide accomplishes.
 
 ## The Historical Record
 

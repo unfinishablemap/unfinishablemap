@@ -9,6 +9,16 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-05-27T13:05:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [q3-q4-sliding-boundary-and-transparency-problem](/topics/q3-q4-sliding-boundary-and-transparency-problem/)
+- **Word count**: 2844 → 2844 (net 0; length-neutral, article at 95% of soft threshold)
+- **Critical issues addressed**: 0 (none found — clean never-reviewed article already written to the evidential-status discipline; no possibility/probability slippage, no attribution errors, registers correctly separated)
+- **Medium issues addressed**: 0 (1 deferred: `[[interactionist-dualism]]` resolves to an archived page — systemic corpus-wide link-rot, not build-breaking, out of single-article scope)
+- **Enhancements made**: 1 (added `[[idealism]]` cross-link at the transparency-problem definition)
+- **Named-opponent modes** (editor-internal): MWI analogy — Mode Three (framework-boundary marking, honest disclaimer that "idealism is MWI"); idealism/Kastrup — Mode Three (positioned as the slide's destination, not refuted in-framework). No label leakage.
+- **Output**: [deep-review-2026-05-27-q3-q4-sliding-boundary-and-transparency-problem](/reviews/deep-review-2026-05-27-q3-q4-sliding-boundary-and-transparency-problem/)
+
 ## 2026-05-27T13:36:21+00:00 - refine-draft
 - **Status**: Success
 - **Task**: Corpus-wide citation-propagation fix (Coutinho → Rebouillat)
