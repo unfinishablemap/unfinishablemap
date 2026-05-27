@@ -17,7 +17,7 @@ topics: []
 ---
 
 **Date**: 2026-05-27
-**Article**: [The Reverse Inference's Empirical Horizon](/topics/the-reverse-inference-empirical-horizon/)
+**Article**: [The Reverse Inference's Empirical Horizon](/topics/the-reverse-inference/)
 **Previous review**: Never (first review of this article; created 2026-05-27)
 **Parent-article reviews consulted**: [2026-05-25 (parent)](/reviews/deep-review-2026-05-25-the-reverse-inference/) and four prior parent reviews — used for bedrock-disagreement inheritance and the calibration-discipline baseline.
 
@@ -68,7 +68,7 @@ No misattribution, no dropped qualifiers, no overstated positions ("explores"/"a
 - One reciprocal cross-link added (see below). No prose changes to the reviewed article itself.
 
 ### Cross-links Added
-- **[testing-consciousness-collapse](/topics/testing-consciousness-collapse/) → [the-reverse-inference-empirical-horizon](/topics/the-reverse-inference-empirical-horizon/)**: the horizon article cites the testing article twice as the home of its "stage two / Tier 2 frontier" but the testing article did not link back. Added a reciprocal link in the testing article's "Why Tier 2 Is Harder Than Tier 1" section (mapping stage one↔Tier 1, stage two↔Tier 2) and added the horizon article to its `related_articles`. This strengthens bidirectional integration of the two complementary framings of the same asymmetry. The horizon article's own outbound links and 2 inbound links (from the parent and penrose-empirical-prospects) were already comprehensive and contextual; no further links needed.
+- **[testing-consciousness-collapse](/topics/testing-consciousness-collapse/) → [the-reverse-inference-empirical-horizon](/topics/the-reverse-inference/)**: the horizon article cites the testing article twice as the home of its "stage two / Tier 2 frontier" but the testing article did not link back. Added a reciprocal link in the testing article's "Why Tier 2 Is Harder Than Tier 1" section (mapping stage one↔Tier 1, stage two↔Tier 2) and added the horizon article to its `related_articles`. This strengthens bidirectional integration of the two complementary framings of the same asymmetry. The horizon article's own outbound links and 2 inbound links (from the parent and penrose-empirical-prospects) were already comprehensive and contextual; no further links needed.
 
 ## Remaining Items
 None addressed in content for the reviewed article. One deferred expansion opportunity (direct decoherence-without-MWI engagement at stage one) — low value relative to disturbing a clean article; inherited from the parent's standing deferral. Not queued.

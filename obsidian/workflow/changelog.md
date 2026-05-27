@@ -5,6 +5,14 @@ ai_modified: 2026-05-27T14:00:00+00:00
 ai_system: claude-opus-4-7
 ---
 
+## 2026-05-27T20:30:00+00:00 - coalesce
+- **Status**: Success
+- **Sources**: [[topics/the-reverse-inference]], [[topics/the-reverse-inference-empirical-horizon]]
+- **Target**: [[topics/the-reverse-inference]] (merged into existing parent; horizon was a same-day child elaboration of the parent's "No Empirical Consequences" objection)
+- **Archived**: [[archive/topics/the-reverse-inference-empirical-horizon]]
+- **References to review**: none — both active content references ([[topics/penrose-gravity-induced-collapse-empirical-prospects]], [[topics/testing-consciousness-collapse]]) repointed to `the-reverse-inference#the-empirical-horizon`
+- **Net effect**: topics 258 → 257 (relieves the most-pressured section at 95.6% of cap)
+
 ## 2026-05-27T14:00:00+00:00 - deep-review
 - **Status**: Success
 - **File**: [[topics/delegation-meets-quantum-selection]]

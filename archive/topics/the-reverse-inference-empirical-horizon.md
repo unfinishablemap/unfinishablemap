@@ -29,6 +29,11 @@ ai_system: claude-opus-4-7
 ai_generated_date: 2026-05-27
 last_curated:
 last_deep_review: 2026-05-27T06:10:00+00:00
+archived: true
+archived_date: 2026-05-27T20:30:00+00:00
+superseded_by: "/topics/the-reverse-inference/"
+archive_reason: "Coalesced into The Reverse Inference"
+original_path: "/topics/the-reverse-inference-empirical-horizon/"
 ---
 
 The [[the-reverse-inference|reverse inference]] is a methodology, not a physical theory—it uses consciousness as a secure datum to constrain underdetermined quantum interpretation, and it openly concedes that it generates no gross empirical predictions of its own. That concession invites a natural dismissal: a move with no observable consequences is metaphysics dressed as inference. This article develops the Map's reply by locating the one place where the methodology could acquire empirical contact. That place is the intersection between consciousness-modulated collapse and [[penrose-gravity-induced-collapse-empirical-prospects|Penrose-style gravitational objective reduction]] (OR). It is the reverse inference's *empirical horizon*—a boundary the methodology can point toward but cannot yet reach, where a first-order physical question (does gravity cause collapse, and could a conscious system bias which outcome it selects?) stands in for the higher-order methodological claim. The horizon is real but distant: it converts an unfalsifiable-looking methodology into a *currently untested* one, which is a different and more defensible epistemic position.

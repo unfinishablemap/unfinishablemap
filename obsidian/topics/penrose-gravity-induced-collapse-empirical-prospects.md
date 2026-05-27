@@ -116,7 +116,7 @@ The partial falsification of the parameter-free DP model is instructive. It show
 - [[qm-interpretations-beyond-many-worlds]]
 - [[what-consciousness-tells-us-about-physics]]
 - [[decoherence-and-macroscopic-superposition]]
-- [[the-reverse-inference-empirical-horizon]] — Why this gravitational-OR intersection is the reverse inference's one point of empirical contact
+- [[the-reverse-inference#the-empirical-horizon|The Reverse Inference: The Empirical Horizon]] — Why this gravitational-OR intersection is the reverse inference's one point of empirical contact
 
 ## References
 

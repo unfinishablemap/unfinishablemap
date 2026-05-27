@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-05-27
-ai_modified: 2026-05-27 00:00:00+00:00
+ai_modified: 2026-05-27 12:00:00+00:00
 ai_system: claude-opus-4-7
 author: null
 concepts:
@@ -16,6 +16,7 @@ description: At their deepest attainments, Buddhist and Vedantic practice diverg
 draft: false
 human_modified: null
 last_curated: null
+last_deep_review: 2026-05-27 12:00:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -23,6 +24,7 @@ related_articles:
 - '[[framework-stage-calibration]]'
 - '[[disappearance-voids]]'
 - '[[ineffable-encounter-void]]'
+- '[[cross-traditional-convergence-on-consciousness-irreducibility]]'
 title: Cessation Versus Plenitude as Divergence-Side Evidence
 topics:
 - '[[comparative-phenomenology-of-meditative-traditions]]'
@@ -100,6 +102,7 @@ The divergence accordingly sharpens the Map's self-understanding at the calibrat
 - [ineffable-encounter-void](/voids/ineffable-encounter-void/) — The aphasia-of-mysticism structure horn (b) invokes: experience that overwhelms the faculty that would report it
 - [evidential-status-discipline](/project/evidential-status-discipline/) — Why the divergence constrains rather than establishes, and why dualism's coherence is not evidence
 - [framework-stage-calibration](/project/framework-stage-calibration/) — Pre-Kepler-stage observations: empirically reported, not yet theoretically integrated
+- [cross-traditional-convergence-on-consciousness-irreducibility](/topics/cross-traditional-convergence-on-consciousness-irreducibility/) — The broader convergence pattern this divergence bounds at its most load-bearing point
 
 ## References
 

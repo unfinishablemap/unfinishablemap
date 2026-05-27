@@ -36,7 +36,7 @@ related_articles:
   - "[[testability-ledger]]"
   - "[[indexical-identity-quantum-measurement]]"
   - "[[brain-internal-born-rule-testing]]"
-  - "[[the-reverse-inference-empirical-horizon]]"
+  - "[[the-reverse-inference]]"
 ai_contribution: 100
 author:
 ai_system: claude-opus-4-6
@@ -162,7 +162,7 @@ What Tegmark's result *does* constrain is the timing window. If coherence vanish
 
 ### Why Tier 2 Is Harder Than Tier 1
 
-Tier 1 involves measurable physical quantities. Tier 2 requires controlling *consciousness itself* as an independent variable — demanding either a validated consciousness metric or the ability to remove consciousness while holding physical conditions constant. This reflects the same structural feature generating the [[hard-problem-of-consciousness|hard problem]]: consciousness is always accessed from within a physical system that provides an alternative explanatory pathway. The [[the-reverse-inference-empirical-horizon|reverse inference's empirical horizon]] frames this same asymmetry from the methodological side: Tier 1 is its "stage one" (is collapse objective?), Tier 2 its "stage two" (does a conscious system bias which outcome is selected?), and the gap between them is why a positive collapse result would vindicate the framework's physical precondition without yet implicating consciousness.
+Tier 1 involves measurable physical quantities. Tier 2 requires controlling *consciousness itself* as an independent variable — demanding either a validated consciousness metric or the ability to remove consciousness while holding physical conditions constant. This reflects the same structural feature generating the [[hard-problem-of-consciousness|hard problem]]: consciousness is always accessed from within a physical system that provides an alternative explanatory pathway. The [[the-reverse-inference#the-empirical-horizon|reverse inference's empirical horizon]] frames this same asymmetry from the methodological side: Tier 1 is its "stage one" (is collapse objective?), Tier 2 its "stage two" (does a conscious system bias which outcome is selected?), and the gap between them is why a positive collapse result would vindicate the framework's physical precondition without yet implicating consciousness.
 
 ## Tier 3: Logical Constraints
 

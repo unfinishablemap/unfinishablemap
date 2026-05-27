@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-04-13
-ai_modified: 2026-05-26 00:00:00+00:00
+ai_modified: 2026-05-27 00:00:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -21,7 +21,7 @@ description: Causal delegation provides the logical structure of mental causatio
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-04-16 11:59:00+00:00
+last_deep_review: 2026-05-27 00:00:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -61,7 +61,7 @@ This identification has several consequences.
 
 **The counterfactual becomes physical.** Saad's default profile, which might seem purely philosophical, acquires empirical grounding. The Born rule is the most precisely confirmed regularity in physics. The "default" against which delegation operates is not a philosopher's thought experiment but a measurable probability distribution.
 
-**Observational closure follows naturally on this reading.** Saad's [observational-closure](/concepts/observational-closure/) — the claim that delegation produces no empirically detectable anomalies — follows from the Map's position that consciousness selects *within* Born-rule probabilities rather than deviating from them. Torres Alegre (2025) shows that the Born rule is the unique probability assignment compatible with relativistic causality under the assumptions of that derivation; any deviation would enable superluminal signalling within the framework Torres Alegre considers. Conscious selection that respects Born statistics is therefore observationally closed in the sense Saad defines. The philosophical constraint Saad imposes by design appears to coincide with a constraint physics imposes within its own assumption-set — though the convergence is itself an interpretive claim and could be read either as substantive confirmation or as the expected consequence of both frameworks having been calibrated against the same empirical record. The [consciousness-physics-interface-formalism](/concepts/consciousness-physics-interface-formalism/) formalises this apparent convergence: Born-rule preservation is offered as the first of five constraints on any consciousness-physics coupling, and delegation appears to satisfy it structurally.
+**Observational closure follows naturally on this reading.** Saad's [observational-closure](/concepts/observational-closure/) — the claim that delegation produces no empirically detectable anomalies — follows from the Map's position that consciousness selects *within* Born-rule probabilities rather than deviating from them. Torres Alegre (2025) — a recent arXiv preprint, not yet peer-reviewed — argues that the Born rule is the unique probability assignment compatible with relativistic causality *given* the structural assumptions of that derivation (generalised-probabilistic-theory structure, purification, exact no-signalling); the result fixes the rule's *form* rather than establishing its existence, and any nonlinear deviation would, on this reading, enable superluminal signalling via quantum steering. Conscious selection that respects Born statistics is therefore observationally closed in the sense Saad defines. The philosophical constraint Saad imposes by design appears to coincide with a constraint physics imposes within its own assumption-set — though the convergence is itself an interpretive claim and could be read either as substantive confirmation or as the expected consequence of both frameworks having been calibrated against the same empirical record. The [consciousness-physics-interface-formalism](/concepts/consciousness-physics-interface-formalism/) formalises this apparent convergence: Born-rule preservation is offered as the first of five constraints on any consciousness-physics coupling, and delegation appears to satisfy it structurally.
 
 **Profile matching gains precision on the quantum reading.** The Subset Law* states that an experience is instantiated when its causal profile is a subset of the physical state's default causal profile. On the quantum reading, this would mean: the pattern of effects consciousness produces must be a possible outcome of the Born-rule distribution. Consciousness, on this reading, cannot cause effects the quantum state has zero probability of producing. Selection chooses among live options; it does not create options physics forbids. The precision gained here is conditional on the identification proposed above surviving scrutiny; rival framings of the Subset Law* that ground "possible outcome" in classical-statistical capacity rather than Born-rule probability remain available and are not adjudicated by the present discussion.
 

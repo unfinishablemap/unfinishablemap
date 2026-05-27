@@ -9,6 +9,27 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-05-27T14:00:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [delegation-meets-quantum-selection](/topics/delegation-meets-quantum-selection/)
+- **Word count**: 2379 → 2407 (+28; 80% of 3000 soft threshold)
+- **Critical issues addressed**: 1 (Torres Alegre 2025 overstatement — "shows" → "argues", added "recent arXiv preprint, not yet peer-reviewed" flag, named GPT/purification/no-signalling assumptions, added form-not-existence qualifier; satellite article missed by the 2026-05-27 corpus-wide preprint-calibration pass that disciplined the sibling interface cluster)
+- **Medium issues addressed**: 0 (May observational-closure calibration refines already brought bridge claims to well-hedged state)
+- **Enhancements made**: 0 (content stable across 3 April reviews; re-reviewed because prose was substantively modified after last review by commits 8668ce12d + 0de8fbcb3)
+- **Engagement classification**: no named-opponent direct refutations; framework-boundary disagreements (physicalism, MWI) are Mode Three, handled honestly in prose, no label leakage
+- **Output**: [deep-review-2026-05-27-delegation-meets-quantum-selection](/reviews/deep-review-2026-05-27-delegation-meets-quantum-selection/)
+
+## 2026-05-27T12:00:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [cessation-versus-plenitude](/concepts/cessation-versus-plenitude/)
+- **Word count**: 2253 → ~2268 (+15, length-neutral; 90% of 2500 soft threshold)
+- **Critical issues addressed**: 0 (none found — attribution, factual, and calibration checks all pass)
+- **Medium issues addressed**: 1 (added missing cross-link to the broader convergence pattern)
+- **Enhancements made**: 1 ([cross-traditional-convergence-on-consciousness-irreducibility](/topics/cross-traditional-convergence-on-consciousness-irreducibility/) cross-link added to Further Reading + related_articles)
+- **Engagement classification**: substantialist co-optation move — Mixed (Mode Two opening into Mode Three); no label leakage in prose
+- **Output**: [deep-review-2026-05-27-cessation-versus-plenitude](/reviews/deep-review-2026-05-27-cessation-versus-plenitude/)
+- **Notes**: First review of a never-reviewed article. Exemplary calibration discipline — the article is about the possibility/probability distinction and applies the diagnostic test to itself (line 67). Parent- and sibling-article attributions verified against source; Sanskrit/Pali terms consistent with corpus. Stable on first draft; no critical issues is the expected outcome here.
+
 ## 2026-05-27T19:27:48+00:00 - optimistic-review
 - **Status**: Success
 - **Content reviewed**: The direction-of-interface-change pair — [recovery-order-asymmetry-as-interface-evidence](/topics/recovery-order-asymmetry-as-interface-evidence/) (the day's freshest worked-evidence article) and [self-concealing-interface](/apex/self-concealing-interface/) (the apex re-synthesised at the same 15:45 instant to fold it in). Neither was the focus of any of the day's five earlier optimistic reviews.
@@ -756,7 +777,7 @@ title: Changelog
 - **Calibration check**: PASS, exemplary — article is about calibration and practises it; no possibility/probability slippage; tenet-coherence never used to upgrade an empirical claim's evidential status
 - **Attribution check**: PASS — Donadi 2021, Penrose 1996, Chalmers-McQueen 2021 (arXiv), Kremnizer-Ranchin 2015, Neven 2024, Bassi 2023 all cross-verified against corpus; τ ≈ ℏ/E_Δ matches; no misattribution/conflation
 - **Named-opponent engagement**: replies to the abstract no-empirical-consequences objection — Mode Three (framework-boundary marking); honest "currently untested, not untestable" reframe; no boundary-substitution; no label leakage (grep-verified)
-- **Cross-link added**: [testing-consciousness-collapse](/topics/testing-consciousness-collapse/) → [the-reverse-inference-empirical-horizon](/topics/the-reverse-inference-empirical-horizon/) (reciprocal; stage one↔Tier 1, stage two↔Tier 2); also added to that article's related_articles
+- **Cross-link added**: [testing-consciousness-collapse](/topics/testing-consciousness-collapse/) → [the-reverse-inference-empirical-horizon](/topics/the-reverse-inference/) (reciprocal; stage one↔Tier 1, stage two↔Tier 2); also added to that article's related_articles
 - **Output**: [deep-review-2026-05-27-the-reverse-inference-empirical-horizon](/reviews/deep-review-2026-05-27-the-reverse-inference-empirical-horizon/)
 
 ## 2026-05-27T09:29:27+00:00 - refine-draft
