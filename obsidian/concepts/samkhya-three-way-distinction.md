@@ -4,7 +4,7 @@ description: "Samkhya divides reality into consciousness, mind, and matter—pla
 created: 2026-02-23
 modified: 2026-02-23
 human_modified:
-ai_modified: 2026-04-16T02:49:00+00:00
+ai_modified: 2026-05-27T00:00:00+00:00
 draft: false
 topics:
   - "[[indian-philosophy-of-mind]]"
@@ -30,10 +30,10 @@ related_articles:
   - "[[the-observer-witness-in-meditation]]"
 ai_contribution: 100
 author:
-ai_system: claude-opus-4-6
+ai_system: claude-opus-4-7
 ai_generated_date: 2026-02-23
 last_curated:
-last_deep_review: 2026-04-16T02:49:00+00:00
+last_deep_review: 2026-05-27T00:00:00+00:00
 ---
 
 The Unfinishable Map's [[dualism]] follows the Western convention of dividing reality in two: mind on one side, matter on the other. Samkhya, one of India's oldest philosophical schools, divides reality in three—and the third category reframes fundamental assumptions about where consciousness sits. Where Descartes groups consciousness and cognition together as *res cogitans* (thinking substance), Samkhya separates them. Consciousness (*purusha*) stands alone as pure witnessing. Mind, intellect, and ego belong to *prakriti*—the material world. Gross physical matter is also *prakriti*. The result is a three-way distinction—consciousness / mind / gross matter—that Western philosophy has no direct equivalent for, and that exposes assumptions the Map must reckon with.
@@ -92,7 +92,7 @@ Samkhya's answer—reflection, proximity, the magnet analogy—is often criticis
 
 Western philosophy since Brentano has treated intentionality—aboutness, directedness toward objects—as the mark of the mental. On the Samkhya view, intentionality belongs to *buddhi* and *manas*: material processes directed at objects. *Purusha* has no intentionality. It is not *about* anything. It simply is aware.
 
-This separates two things that Western philosophy typically bundles: [[qualia|phenomenal consciousness]] (there being something it is like) and intentional content (what an experience is about). The separation also maps onto Ned Block's distinction between phenomenal consciousness (subjective experience) and access consciousness (information available for reasoning and report)—*purusha* corresponds to the phenomenal, while *buddhi* and *manas* handle access. Karen O'Brien-Kop's 2023 study in Cambridge's *Religious Studies* identifies resonances between Samkhya's contentless consciousness and Chalmers's engagement with the hard problem, arguing that Samkhya dualist ontology deserves greater attention in Anglo-American philosophy of religion.
+This separates two things that Western philosophy typically bundles: [[qualia|phenomenal consciousness]] (there being something it is like) and intentional content (what an experience is about). The separation invites comparison with Ned Block's distinction between phenomenal consciousness (subjective experience) and access consciousness (information available for reasoning and report), with *buddhi* and *manas* handling access. But the mapping of *purusha* onto the phenomenal does not survive close scholarly contact. Karen O'Brien-Kop's 2023 study in Cambridge's *Religious Studies* describes *purusha* as *contentless*—pure consciousness that "does not contain sensation, feeling, or experience"—and argues that Samkhya relocates the hard problem from *subjectivity as conscious experience* (Chalmers's *what-it-is-like*) to *subjectivity as the capacity to consciously recognise experience*. If *purusha* lacks sensation and feeling, it is precisely not phenomenal character in Chalmers's or Block's sense; O'Brien-Kop's own analysis resists the strict identification rather than confirming it. What the comparison does establish is narrower and structural: *purusha* is the irreducible witnessing subject that the access machinery of *prakriti* cannot constitute or absorb. O'Brien-Kop's broader point stands independently—that Samkhya's dualist ontology deserves greater attention in Anglo-American philosophy of religion.
 
 The concept invites an obvious objection: is awareness without content coherent at all? If *purusha* has no intentionality, no activity, no functional role, what distinguishes it from nothing? Samkhya's response is phenomenological rather than functional—contemplative traditions report that awareness persists when all content drops away (see [[the-observer-witness-in-meditation]]). Whether this constitutes evidence or illusion is contested, but the report is cross-culturally consistent.
 

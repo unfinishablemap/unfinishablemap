@@ -5,6 +5,19 @@ ai_modified: 2026-05-27T23:05:00+00:00
 ai_system: claude-opus-4-7
 ---
 
+## 2026-05-27T23:45:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [[concepts/samkhya-three-way-distinction]]
+- **Word count**: 1829 → ~1880 (+~51; net of one-sentence-for-paragraph swap on the O'Brien-Kop passage)
+- **Prior-review count**: 3 (2026-02-24, 2026-03-08, 2026-04-16) — this is the 4th; converged article, philosophy kept light per remit
+- **Critical issues addressed**: 1 — O'Brien-Kop (2023) in-text gloss calibration error. Article asserted "*purusha* corresponds to the phenomenal" (Block mapping) and recruited O'Brien-Kop as supporting a purusha↔Chalmers-phenomenal-consciousness parallel. WEB-VERIFIED against the paper (Cambridge Core / KCL repository): O'Brien-Kop states pure consciousness "does not contain sensation, feeling, or experience" and *relocates* the hard problem rather than confirming the parallel. Passes the diagnostic test (a tenet-accepting reviewer would still flag the overstatement) → calibration error, not bedrock disagreement. This same fix had already landed in sibling `topics/epistemology-of-convergence-arguments.md` (2026-05-25, from outer-review 2026-05-23) but had NOT propagated here. Rewrote to a structural-only parallel; preserved O'Brien-Kop's independent point.
+- **Medium issues addressed**: 0
+- **Enhancements made**: 1 (the calibration rewrite strengthens credibility)
+- **Citations web-verified**: 6 (O'Brien-Kop 2023 — metadata clean, gloss fixed; Samkhya Karika c.350 CE / Ishvarakrishna — clean; Block 1995 — clean; Larson & Bhattacharya 1987 — clean, corpus has a divergent 2014 reprint-year in cross-cultural-convergence-on-mental-causation.md but original 1987 is correct here; Vacaspati Mishra c.980 CE — clean; verse-19 purusha doctrine — textually verified)
+- **Cross-tradition calibration**: HONEST — article does not over-assimilate Samkhya to Tenet 3; explicitly states passive purusha "conflicts directly with" Bidirectional Interaction and "the Map parts ways with Samkhya here." Samkhya credited only with strengthening Tenet 1 (irreducibility). No resonance→endorsement slippage.
+- **Engagement modes (editor-internal)**: O'Brien-Kop — citation-calibration fix (no Mode N applies; Mode Three register installed). Samkhya inactive-witness vs Tenet 3 — Mode Three (framework-boundary marking), correct as-is. No label leakage.
+- **Output**: [[reviews/deep-review-2026-05-27-samkhya-three-way-distinction]]
+
 ## 2026-05-27T23:30:00+00:00 - refine-draft
 - **Status**: Success
 - **File**: [[topics/source-attribution-divergence]]
