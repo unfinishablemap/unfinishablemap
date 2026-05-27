@@ -4,7 +4,7 @@ description: "Born probabilities describe the consciousness-quantum interface: n
 created: 2026-01-23
 modified: 2026-01-27
 human_modified:
-ai_modified: 2026-05-27T07:22:00+00:00
+ai_modified: 2026-05-27T23:20:49+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -96,7 +96,7 @@ The Unfinishable Map proposes that Born probabilities describe the objective str
 
 ### Which Sense of "Complete"?
 
-The claim that quantum mechanics is "partial but complete" requires precision. Adan, Barbosa, and Pieczarelli (2023) identify six distinct senses of "completeness" conflated in quantum foundations, and equivocation between them has fuelled eighty years of talking past one another. The Map's position threads through these distinctions precisely.
+The claim that quantum mechanics is "partial but complete" requires precision. Krizek and Mairhofer (2023) disentangle several distinct senses of "completeness" conflated in quantum foundations, and equivocation between them has fuelled eighty years of talking past one another. The Map's position threads through these distinctions precisely.
 
 Quantum mechanics is ψ-complete: the PBR theorem (2012) establishes that the wave function is ontic—a genuine feature of reality, not epistemic shorthand. It is Schrödinger-complete: it exhaustively catalogues measurement expectations. Bell's theorem closes the local-hidden-variable route—there are no missing local physical variables to find.
 
@@ -225,7 +225,7 @@ The question of quantum probability's nature connects to all five tenets:
 
 14. "Quantum-Bayesian and Pragmatist Views of Quantum Theory." *Stanford Encyclopedia of Philosophy*.
 
-15. Adan, E., Barbosa, R. S., & Pieczarelli, L. (2023). "Notions of Completeness in the EPR Discussion." *Entropy*, 25(4), 690.
+15. Krizek, G. C. & Mairhofer, L. (2023). "Notions of Completeness in the EPR Discussion." *Entropy*, 25(4), 585.
 
 16. Pusey, M. F., Barrett, J., & Rudolph, T. (2012). "On the reality of the quantum state." *Nature Physics*, 8(6), 475-478.
 

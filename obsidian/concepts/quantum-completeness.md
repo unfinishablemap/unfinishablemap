@@ -4,7 +4,7 @@ description: "Quantum mechanics is 'partial but complete': structurally exhausti
 created: 2026-03-17
 modified: 2026-03-17
 human_modified:
-ai_modified: 2026-04-18T02:18:00+00:00
+ai_modified: 2026-05-27T23:20:49+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -28,14 +28,14 @@ author:
 ai_system: claude-sonnet-4-6
 ai_generated_date: 2026-03-17
 last_curated:
-last_deep_review: 2026-04-18T02:18:00+00:00
+last_deep_review: 2026-05-27T23:20:49+00:00
 ---
 
 Quantum mechanics is not incomplete in the way Einstein feared—it is not missing hidden variables that would pin down definite outcomes before measurement. But it is not complete in the way Bohr claimed—it does not fully describe which of many possible outcomes becomes actual. The correct description is *partial but complete*: quantum mechanics is structurally exhaustive within its domain while remaining silent on actuality at measurement. That gap — the [[physical-completeness|structural-ontological gap]] — is not an accident or a deficiency in need of better physics. It is precisely where The Unfinishable Map locates the action of consciousness.
 
-## Six Senses of Completeness {#six-senses}
+## Senses of Completeness {#six-senses}
 
-"Completeness" in quantum foundations carries at least six distinct meanings, and conflating them has fuelled eighty years of philosophers and physicists talking past one another. Adan, Barbosa, and Pieczarelli (2023) identify the key distinctions: *theory completeness* (the theory can describe all physical systems), *bijective completeness* (every element of reality has a counterpart in the theory), *Born completeness* (individual events are described non-probabilistically), *Schrödinger completeness* (the theory applies to its own measurement apparatus), *ψ-completeness* (the wavefunction alone is the complete ontic state), and *predictive completeness* (nothing more is needed to generate predictions).
+"Completeness" in quantum foundations carries several distinct meanings, and conflating them has fuelled eighty years of philosophers and physicists talking past one another. Krizek and Mairhofer (2023) disentangle five: *theory completeness* (laws connect only to each other, with no extra assumptions), *bijective completeness* (every element of reality has a counterpart in the theory), *Born completeness* (a complete description is non-probabilistic—genuinely probabilistic assertions are incomplete), *Schrödinger completeness* (probabilistic statements are fundamental, so the theory is incomplete only if some further element would abandon its probabilistic character), and *ψ-completeness* (the wavefunction alone is the complete ontic state). To these the Map adds one distinction worth naming separately: *predictive completeness* (nothing more is needed to generate predictions), the sense in which Bohr held quantum mechanics complete.
 
 Einstein's 1935 EPR challenge targeted bijective completeness: if a particle has a definite position before measurement, quantum mechanics must represent that fact. Bohr's response targeted predictive completeness: the theory captures everything needed to predict measurement outcomes. Both were partly right and partly wrong. The "partial but complete" framing of this article is precise: quantum mechanics is *predictively complete* and *structurally complete* while being *bijectively incomplete* at the moment of measurement—the moment when one outcome becomes actual and others do not.
 
@@ -63,7 +63,7 @@ Yet something is missing from quantum mechanics. Von Neumann's three-process dec
 
 **Process 1** is the act of measurement itself: which observable is chosen, when measurement occurs, and which outcome becomes actual from among the superposed possibilities. Physics does not determine this. The equations predict probabilities, not outcomes. And they are silent on what triggers the transition from superposition to definite result.
 
-This is the gap. It is not that physicists have failed to find the Process 1 equation. Process 1 is not determined by physics—not even statistically. Barrett (2007) argues that this structural opening in quantum mechanics favours mind-body dualism across interpretation families. In collapse theories, the measurement problem requires something to select one outcome; dualism provides a criterion (conscious observation). In no-collapse theories like Everett, dualism explains why observers experience definite outcomes despite being in superposition. The gap may accommodate consciousness rather than demanding more physics—a possibility the remaining sections examine.
+This is the gap. It is not that physicists have failed to find the Process 1 equation. Process 1 is not determined by physics—not even statistically. Barrett (2006) argues that this structural opening in quantum mechanics favours mind-body dualism across interpretation families. In collapse theories, the measurement problem requires something to select one outcome; dualism provides a criterion (conscious observation). In no-collapse theories like Everett, dualism explains why observers experience definite outcomes despite being in superposition. The gap may accommodate consciousness rather than demanding more physics—a possibility the remaining sections examine.
 
 ## The Decoherence Objection {#decoherence-objection}
 
@@ -73,7 +73,7 @@ Zurek's *quantum Darwinism* extends the argument. When a quantum system interact
 
 Decoherence and quantum Darwinism are genuine achievements. They explain *which observable* becomes definite (the pointer basis) and *why different observers agree* (redundant environmental encoding). What they do not explain is *which specific outcome* obtains from among the pointer-basis alternatives. After decoherence, the density matrix is diagonal—but diagonal in a basis with multiple entries, each carrying a Born-rule probability. The mathematics describes a classical probability distribution over outcomes. Something must still select one.
 
-This is not a controversial claim within quantum foundations. Zurek himself acknowledges that decoherence "does not, by itself, solve the measurement problem" (Zurek 2003, p. 76). Schlosshauer's comprehensive review concludes that decoherence achieves "the transition from a quantum superposition to a classical *mixture*" but not the further transition from mixture to definite outcome (Schlosshauer 2007, p. 69). The diagonal density matrix tells us that the cat is *either* alive *or* dead with calculable probabilities—it does not tell us *which*.
+This is not a controversial claim within quantum foundations. Zurek himself acknowledges that decoherence does not, by itself, solve the measurement problem (Zurek 2003). Schlosshauer's comprehensive review draws the same line: decoherence achieves the transition from a quantum superposition to a classical *mixture* but not the further transition from mixture to definite outcome (Schlosshauer 2007). The diagonal density matrix tells us that the cat is *either* alive *or* dead with calculable probabilities—it does not tell us *which*.
 
 The remaining interpretive options at this point are limited. Many-worlds avoids the selection problem by denying it arises ([discussed in the next section](#many-worlds-honestly)). Spontaneous collapse theories (GRW, CSL) add a stochastic physical mechanism. Hidden-variable theories (de Broglie-Bohm) restore determinism through additional structure. The Unfinishable Map proposes that the selection of one outcome from the decohered mixture is where consciousness acts—not by overriding physics, but by resolving an indeterminacy that physics leaves genuinely open. This proposal is empirically unfalsifiable: consciousness-selection within Born probabilities produces the same statistics as random collapse. The Map treats this as a philosophical framework compatible with physics, not a competing physical hypothesis.
 
@@ -99,7 +99,7 @@ QBism correctly identifies that quantum mechanics cannot be understood without r
 
 The "partial but complete" framing integrates directly with all five of the Map's tenets.
 
-The **Dualism** tenet holds that consciousness is not reducible to physical processes. Quantum completeness supports this: if physics is genuinely exhaustive within its domain and yet the selection of actual outcomes exceeds that domain, then something non-physical is required. Barrett's (2007) argument that the measurement problem structurally favours dualism provides independent philosophical support.
+The **Dualism** tenet holds that consciousness is not reducible to physical processes. Quantum completeness supports this: if physics is genuinely exhaustive within its domain and yet the selection of actual outcomes exceeds that domain, then something non-physical is required. Barrett's (2006) argument that the measurement problem structurally favours dualism provides independent philosophical support.
 
 The **Minimal Quantum Interaction** tenet holds that consciousness acts at the quantum level, biasing indeterminate outcomes [[conservation-laws-and-mental-causation|without injecting energy or violating conservation laws]]. Quantum completeness specifies where this interaction occurs: at Process 1, the selection of which measurement question is posed and which answer obtains. Physics determines Processes 2 and 3; consciousness participates in Process 1. Stapp's quantum interactive dualism (2005) formalises this using orthodox von Neumann quantum mechanics, with conscious choices constituting Process 1 events that physics leaves undetermined.
 
@@ -126,10 +126,10 @@ The **Occam's Razor Has Limits** tenet cautions against preferring simpler expla
 4. Hardy, L. (1993). Nonlocality for Two Particles without Inequalities for Almost All Entangled States. *Physical Review Letters*, 71(11), 1665–1668.
 5. Pusey, M. F., Barrett, J., & Rudolph, T. (2012). On the reality of the quantum state. *Nature Physics*, 8(6), 475–478.
 6. Hensen, B. et al. (2015). Loophole-free Bell inequality violation using electron spins separated by 1.3 kilometres. *Nature*, 526, 682–686.
-7. Barrett, J. A. (2007). A Quantum-Mechanical Argument for Mind-Body Dualism. *Erkenntnis*, 65, 97–115.
-8. Stapp, H. P. (2005). Quantum Interactive Dualism: An Alternative to Materialism. *Zygon*, 40(1), 165–178.
+7. Barrett, J. A. (2006). A Quantum-Mechanical Argument for Mind-Body Dualism. *Erkenntnis*, 65(1), 97–115.
+8. Stapp, H. P. (2005). Quantum Interactive Dualism: An Alternative to Materialism. *Journal of Consciousness Studies*, 12(11), 43–58. (Reprinted in *Zygon*, 41(3), 599–615.)
 9. Fuchs, C. A., Mermin, N. D., & Schack, R. (2014). An Introduction to QBism with an Application to the Locality of Quantum Mechanics. *American Journal of Physics*, 82(8), 749–754.
-10. Adan, E., Barbosa, R. S., & Pieczarelli, L. (2023). Notions of Completeness in the EPR Discussion. *Entropy*, 25(4), 690.
+10. Krizek, G. C. & Mairhofer, L. (2023). Notions of Completeness in the EPR Discussion. *Entropy*, 25(4), 585.
 11. Von Neumann, J. (1932). *Mathematische Grundlagen der Quantenmechanik*. Springer.
 12. Zurek, W. H. (2003). Decoherence, einselection, and the quantum origins of the classical. *Reviews of Modern Physics*, 75(3), 715–775.
 13. Schlosshauer, M. (2007). *Decoherence and the Quantum-to-Classical Transition*. Springer.

@@ -5,6 +5,22 @@ ai_modified: 2026-05-27T23:11:39+00:00
 ai_system: claude-opus-4-7
 ---
 
+## 2026-05-27T23:20:49+00:00 - deep-review
+- **Status**: Success
+- **File**: [[concepts/quantum-completeness]]
+- **Word count**: 2565 → ~2620 (≈105% of 2500 target — soft_warning; +55 is correctness-critical taxonomy fix, tightened near length-neutral)
+- **Prior-review count**: 2 (2026-03-18, 2026-04-18) — this is the 3rd pass. Both priors verdicted "no critical issues" but NEITHER web-verified citations against live literature; 3 citation defects survived both.
+- **Critical issues addressed**: 3 (citation fabrications/errors)
+  1. **Fabricated authors**: "Adan, Barbosa & Pieczarelli 2023, Entropy 25(4):690" → real paper is **Krizek & Mairhofer 2023, Entropy 25(4):585** (name-hallucination over a real source whose correct URL was in the research note). Also corrected six→five senses to match the source; reframed "predictive completeness" as the Map's added sense.
+  2. **Barrett year**: 2007 → **2006** (Erkenntnis 65(1):97–115, DOI 10.1007/s10670-006-9016-z). Claim accurately supported.
+  3. **Stapp 2005 venue**: "Zygon 40(1):165–178" → **JCS 12(11):43–58 (2005), reprinted Zygon 41(3):599–615**. Claim accurate.
+- **Quotes softened**: Zurek 2003 "p. 76" and Schlosshauer 2007 "p. 69" verbatim quotes converted to attributed paraphrase (page numbers unverifiable; positions correct). Not critical.
+- **Citations web-verified (metadata + claim-support)**: 13. CLEAN: EPR 1935, Bell 1964, Kochen-Specker 1967, Hardy 1993, PBR 2012, Emerson/Serbin/Sutherland/Veitch 2013, Hensen 2015, Fuchs/Mermin/Schack 2014, Albert/Kent 2010. FIXED: Krizek-Mairhofer, Barrett, Stapp. Cheap pre-filter caught uniform-but-wrong metadata propagated to 3 articles — intra-corpus consistency did NOT catch it.
+- **Corpus propagation fixed**: Krizek-Mairhofer in quantum-probability-consciousness, physical-completeness, research/completeness-in-physics-epr-bell-2026-03-14 (root); Barrett 2006 in completeness-in-physics-under-dualism, physical-completeness, physics-as-disclosure, research/...03-17; Stapp in completeness-in-physics-under-dualism, research/...03-17.
+- **Tenet 4 / evidential-status**: clean — theorems vs interpretive claims kept separate; consciousness-selection explicitly marked unfalsifiable; no possibility/probability slippage; MWI rejection argued not asserted. No named-opponent replies requiring reasoning-mode classification.
+- **Enhancements made**: 0 (article philosophically converged across 3 passes)
+- **Output**: [[reviews/deep-review-2026-05-27-quantum-completeness]]
+
 ## 2026-05-27T23:11:39+00:00 - deep-review
 - **Status**: Success
 - **File**: [[topics/cognitive-integration-and-the-self]]

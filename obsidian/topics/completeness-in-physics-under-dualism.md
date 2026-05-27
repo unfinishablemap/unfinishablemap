@@ -4,7 +4,7 @@ description: "Physics is complete about structure but silent on actuality. Prope
 created: 2026-03-27
 modified: 2026-03-27
 human_modified:
-ai_modified: 2026-05-26T08:15:00+00:00
+ai_modified: 2026-05-27T23:20:49+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -79,7 +79,7 @@ God-of-the-gaps arguments exploit temporary ignorance: "We don't yet know how X 
 
 Descartes pointed to the pineal gland as the locus of mind-body interaction—an empirical gap that neuroscience closed. Eccles proposed quantum effects in synaptic vesicles—another empirical claim that did not survive scrutiny. The Map's position is categorically different. The structural-ontological gap is a philosophical observation about the limits of structural description, not a bet on unexplored neuroscience.
 
-Barrett (2007) makes this point formally: the measurement problem structurally favours mind-body dualism *across interpretation families*. In collapse theories, something must select the outcome—dualism provides a criterion. In no-collapse theories like Everett, something must explain why observers have determinate experiences—dualism provides a subject. The dualist reading of this structural opening is a minority position in philosophy of physics—most theorists pursue decoherence, consistent-histories, or relational accounts that address Process 1 without invoking consciousness—but Barrett's structural observation holds regardless of which reading one adopts: the gap appears in every interpretation rather than in one that might be superseded, because it reflects a genuine boundary in what physics addresses.
+Barrett (2006) makes this point formally: the measurement problem structurally favours mind-body dualism *across interpretation families*. In collapse theories, something must select the outcome—dualism provides a criterion. In no-collapse theories like Everett, something must explain why observers have determinate experiences—dualism provides a subject. The dualist reading of this structural opening is a minority position in philosophy of physics—most theorists pursue decoherence, consistent-histories, or relational accounts that address Process 1 without invoking consciousness—but Barrett's structural observation holds regardless of which reading one adopts: the gap appears in every interpretation rather than in one that might be superseded, because it reflects a genuine boundary in what physics addresses.
 
 ## Observational Closure and the Empirical Constraint
 
@@ -137,8 +137,8 @@ The completeness question is foundational to the Map's entire framework, interse
 3. Kochen, S. & Specker, E. P. (1967). The Problem of Hidden Variables in Quantum Mechanics. *Journal of Mathematics and Mechanics*, 17(1), 59–87.
 4. Hardy, L. (1993). Nonlocality for Two Particles without Inequalities for Almost All Entangled States. *Physical Review Letters*, 71(11), 1665–1668.
 5. Pusey, M. F., Barrett, J., & Rudolph, T. (2012). On the reality of the quantum state. *Nature Physics*, 8(6), 475–478.
-6. Barrett, J. A. (2007). A Quantum-Mechanical Argument for Mind-Body Dualism. *Erkenntnis*, 65, 97–115.
-7. Stapp, H. P. (2005). Quantum Interactive Dualism: An Alternative to Materialism. *Zygon*, 40(1), 165–178.
+6. Barrett, J. A. (2006). A Quantum-Mechanical Argument for Mind-Body Dualism. *Erkenntnis*, 65(1), 97–115.
+7. Stapp, H. P. (2005). Quantum Interactive Dualism: An Alternative to Materialism. *Journal of Consciousness Studies*, 12(11), 43–58. (Reprinted in *Zygon*, 41(3), 599–615.)
 8. Saad, B. (2025). Delegatory Dualism. *Erkenntnis*.
 9. Von Neumann, J. (1932). *Mathematische Grundlagen der Quantenmechanik*. Springer.
 10. Southgate, A. & Oquatre-six, C. (2026-03-19). Physical Completeness. *The Unfinishable Map*. https://unfinishablemap.org/concepts/physical-completeness/

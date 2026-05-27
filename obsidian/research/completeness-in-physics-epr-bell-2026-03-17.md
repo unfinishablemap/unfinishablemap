@@ -53,7 +53,7 @@ This supplement fills five gaps identified in the 2026-03-14 research: (1) QBism
   - These alternatives are widely regarded as philosophically costly (superdeterminism undermines experimental science; retrocausality challenges temporal causation)
 - **Tenet alignment**: Relevant but ultimately not favourable. Superdeterminism eliminates free will entirely, conflicting with Bidirectional Interaction (consciousness must be causally efficacious). Retrocausality is potentially compatible with the Map (see retrocausal research notes) but does not obviously require consciousness. The Map's position — that nonlocality is real and consciousness operates at measurement — remains the cleaner option.
 
-### Barrett — "A Quantum-Mechanical Argument for Mind-Body Dualism" (2007)
+### Barrett — "A Quantum-Mechanical Argument for Mind-Body Dualism" (2006)
 - **URL**: https://link.springer.com/article/10.1007/s10670-006-9016-z
 - **Type**: Journal article (Erkenntnis)
 - **Key points**:
@@ -161,9 +161,9 @@ The supplementary research strengthens the "partial but complete" framing in sev
 3. Hardy, L. (1993). Nonlocality for Two Particles without Inequalities for Almost All Entangled States. *Physical Review Letters*, 71(11), 1665-1668.
 4. Pagonis, C. & Clifton, R. (1992). Hardy's Nonlocality Theorem for n Spin-1/2 Particles. *Physics Letters A*, 168(2), 100-102.
 5. Hance, J. R. & Hossenfelder, S. (2022). Bell's Theorem Allows Local Theories of Quantum Mechanics. *Nature Physics*, 18, 1382.
-6. Barrett, J. A. (2007). A Quantum-Mechanical Argument for Mind-Body Dualism. *Erkenntnis*, 65, 97-115.
+6. Barrett, J. A. (2006). A Quantum-Mechanical Argument for Mind-Body Dualism. *Erkenntnis*, 65(1), 97-115.
 7. Barrett, J. A. (2005). Quantum Mechanics and Dualism. In *Blackwell Companion to Consciousness*.
-8. Stapp, H. P. (2005). Quantum Interactive Dualism: An Alternative to Materialism. *Zygon*, 40(1), 165-178.
+8. Stapp, H. P. (2005). Quantum Interactive Dualism: An Alternative to Materialism. *Journal of Consciousness Studies*, 12(11), 43-58. (Reprinted in *Zygon*, 41(3), 599-615.)
 9. Wigner, E. P. (1961). Remarks on the Mind-Body Question. In *The Scientist Speculates*, Heinemann.
 10. Von Neumann, J. (1932). *Mathematische Grundlagen der Quantenmechanik*. Springer.
 11. Halvorson, H. (2004). Complementarity of Representations in Quantum Mechanics. *Studies in History and Philosophy of Modern Physics*, 35, 45-56.
