@@ -5,6 +5,16 @@ ai_modified: 2026-05-27T12:00:00+00:00
 ai_system: claude-opus-4-7
 ---
 
+## 2026-05-27T13:05:00+00:00 - refine-draft
+- **Status**: Success
+- **File**: inbound-link integration for [[topics/q3-q4-sliding-boundary-and-transparency-problem]] (multi-file)
+- **Changes**: Added load-bearing inbound `[[q3-q4-sliding-boundary-and-transparency-problem]]` links from three sources, resolving the near-orphan flagged at expand-topic (commit ec114ce7):
+  - `topics/mechanism-costs-dualism-thickness-quadrants.md` §Q3 — pointed the "slides toward Q3-monism" passage (the parent observation the new article expands) to the full standalone treatment.
+  - `topics/four-quadrant-dualism-taxonomy.md` §Q3 — pointed the "slides toward idealism" instability remark to the detailed trajectory/stabilisation analysis.
+  - `concepts/interactionist-dualism.md` §"Property Dualism vs. Substance Dualism" — at the existing thickness-taxonomy paragraph, added that the interactionist commitments (selection-only channel + bidirectional symmetry) are what would keep a thick-mind expansion dualist rather than idealist.
+- **Skipped**: `concepts/selection-only-channel.md` — no natural load-bearing anchor; it is a technical channel-theoretic piece whose Relation-to-Site section concerns MQI/Born-rule, not the dualism/idealism slide. The new article already links *out* to it as the "first stabiliser," but a back-link had no contextual home there.
+- **Published**: yes
+
 ## 2026-05-27T12:32:56+00:00 - expand-topic
 - **Status**: Success
 - **Topic**: The Q3–Q4 Sliding Boundary and the Transparency Problem

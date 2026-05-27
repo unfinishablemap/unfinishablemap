@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-04-21
-ai_modified: 2026-05-25 17:57:47+00:00
+ai_modified: 2026-05-27 13:05:00+00:00
 ai_system: claude-opus-4-7
 author: null
 concepts:
@@ -109,7 +109,7 @@ Q2 functions as the dialectical default for non-reductive positions in contempor
 - **Myers–James subliminal-mind views combined with lean physics**: the waking supraliminal ego is a narrow selection from a much richer mental individuality; physics remains thin. This combination is rarely articulated as a dualist position explicitly but is implicit in the Myers programme.
 - **Some Jungian collective-unconscious frameworks**: a rich psychic reservoir paired with a lean physical world.
 
-Dualism in Q3 appears unstable: once the mental does all the ontological work, the physical may become explanatorily redundant, and the position seems to slide toward idealism. The quadrant is well-populated in the history of philosophy but lightly populated as a *dualism* specifically.
+Dualism in Q3 appears unstable: once the mental does all the ontological work, the physical may become explanatorily redundant, and the position seems to slide toward idealism. The quadrant is well-populated in the history of philosophy but lightly populated as a *dualism* specifically. [The Q3–Q4 sliding boundary and the transparency problem](/topics/q3-q4-sliding-boundary-and-transparency-problem/) traces this instability in detail — why the slide happens, who in the historical record slid where, and what would hold a thick-mind position stably at Q3-as-dualism.
 
 ### Quadrant 4: max-mind / max-physical {#q4}
 

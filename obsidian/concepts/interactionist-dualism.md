@@ -4,7 +4,7 @@ description: "Mind and body are distinct yet causally connected. Quantum indeter
 created: 2026-01-14
 modified: 2026-01-31
 human_modified: null
-ai_modified: 2026-05-27T10:15:00+00:00
+ai_modified: 2026-05-27T13:05:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -173,7 +173,7 @@ Interactionism is compatible with different dualist ontologies (see [[substance-
 
 **Property dualism**: Mental properties are distinct from physical properties but don't require separate substances. Property dualism risks sliding toward [[concepts/epiphenomenalism]] if mental properties seem causally redundant.
 
-A second axis cross-cuts this distinction: how much ontological weight each side carries. The [[four-quadrant-dualism-taxonomy|thickness taxonomy]] places the Map near min-mind/min-physical—thin on both axes—while the Occam's-Razor-Has-Limits tenet keeps thicker quadrants live rather than ruled out by parsimony alone.
+A second axis cross-cuts this distinction: how much ontological weight each side carries. The [[four-quadrant-dualism-taxonomy|thickness taxonomy]] places the Map near min-mind/min-physical—thin on both axes—while the Occam's-Razor-Has-Limits tenet keeps thicker quadrants live rather than ruled out by parsimony alone. If thicker-mind evidence ever pushed the Map toward a max-mind/thin-physical position, the interactionist commitments above are what would keep that expansion *dualist* rather than letting it slide into idealism: [[q3-q4-sliding-boundary-and-transparency-problem|the Q3–Q4 sliding boundary article]] argues that a selection-only channel (physics still supplies the menu of permitted outcomes) plus genuine bidirectional symmetry are the conditions that prevent the thin physical pole from collapsing into a mere appearance of mind.
 
 The Map's [[bi-aspectual-ontology|bi-aspectual ontology]] sits within this space: reality has two irreducible aspects—structure (what physics describes) and actuality (what consciousness provides)—that interact at quantum indeterminacies. What matters is irreducibility (Dualism tenet) and causal efficacy (Bidirectional Interaction tenet).
 

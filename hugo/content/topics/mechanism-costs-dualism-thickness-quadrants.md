@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-05-11
-ai_modified: 2026-05-19 16:28:35+00:00
+ai_modified: 2026-05-27 13:05:00+00:00
 ai_system: claude-opus-4-7
 author: null
 concepts:
@@ -103,7 +103,7 @@ Q3 inhabitants — Berkeley's idealism, Kastrup's analytic idealism, Myers–Jam
 
 **Conservation engagement.** Conservation laws become *descriptions of mental regularities*. Energy is conserved because the underlying mental dynamics happens to display a regularity that, when viewed extrinsically, looks like energy conservation. Why this regularity rather than another is a Q3-specific debt — a question Q1 and Q4 do not face in the same form. Q3 substitutes a metaphysical question (why does the mental ground produce this appearance?) for the dualist's physical-engagement question (how does the mental affect the physical?).
 
-A genuine Q3 dualism — mind thick, physics thin, but both ontologically real — appears rare in the literature precisely because, once the mind does this much work, the physical side tends to lose explanatory weight and the position seems to slide toward Q3-monism. Where the position holds as dualism, the mechanism cost may be asymmetric: minimal interface debt, substantial appearance debt.
+A genuine Q3 dualism — mind thick, physics thin, but both ontologically real — appears rare in the literature precisely because, once the mind does this much work, the physical side tends to lose explanatory weight and the position seems to slide toward Q3-monism. [The Q3–Q4 sliding boundary and the transparency problem](/topics/q3-q4-sliding-boundary-and-transparency-problem/) gives this observation its standalone treatment: the historical record of who slid where, the structural forces driving the slide, and the conditions (a selection-only channel doing real physical work, plus bidirectional symmetry) that would hold a thick-mind position stably at Q3-as-dualism rather than letting it shed the physical pole. Where the position holds as dualism, the mechanism cost may be asymmetric: minimal interface debt, substantial appearance debt.
 
 ## Q4: Max-Mind / Max-Physical — The Full Bill {#q4}
 
