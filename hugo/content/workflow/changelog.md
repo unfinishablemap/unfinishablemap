@@ -9,6 +9,14 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-05-27T11:35:00+00:00 - check-tenets
+- **Status**: Success
+- **Files checked**: 611 (258 topics, 251 concepts, 102 voids)
+- **Errors**: 0
+- **Warnings**: 0
+- **Notes**: 1 (broken `#^occam` tenet anchor in 10 files — link integrity, not a tenet conflict)
+- **Output**: [tenet-check-2026-05-27](/reviews/tenet-check-2026-05-27/)
+
 ## 2026-05-27T22:00:00+00:00 - deep-review
 - **Status**: Success
 - **File**: [quantum-measurement-and-consciousness](/topics/quantum-measurement-and-consciousness/)

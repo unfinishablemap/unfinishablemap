@@ -5,6 +5,14 @@ ai_modified: 2026-05-27T22:00:00+00:00
 ai_system: claude-opus-4-7
 ---
 
+## 2026-05-27T11:35:00+00:00 - check-tenets
+- **Status**: Success
+- **Files checked**: 611 (258 topics, 251 concepts, 102 voids)
+- **Errors**: 0
+- **Warnings**: 0
+- **Notes**: 1 (broken `#^occam` tenet anchor in 10 files — link integrity, not a tenet conflict)
+- **Output**: [[reviews/tenet-check-2026-05-27]]
+
 ## 2026-05-27T22:00:00+00:00 - deep-review
 - **Status**: Success
 - **File**: [[topics/quantum-measurement-and-consciousness]]
