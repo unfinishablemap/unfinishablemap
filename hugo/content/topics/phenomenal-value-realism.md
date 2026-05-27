@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-09
-ai_modified: 2026-05-19 11:04:33+00:00
+ai_modified: 2026-05-27 22:10:00+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -131,6 +131,8 @@ Rawlette defends a hedonistic version: pleasure and pain exhaust intrinsic value
 | Connection | Felt quality of authentic relating | Relational value |
 
 Each row identifies a phenomenal feature—something that shows up in the character of experience—and claims it contributes to intrinsic value. This is not an objective list theory (where items are valuable independent of experience); all value resides in how things are experienced.
+
+A dependency note forestalls an apparent circularity. [meaning-of-life](/topics/meaning-of-life/) grounds life's meaning partly in phenomenal value, while the table here lists "Meaning: felt significance" as one value dimension—so the two articles can look mutually dependent. They are not: the eudaimonic *felt significance* in this row is the primitive phenomenal datum—the immediate quality of an engagement feeling significant—whereas the meaning *of a life* is a higher-order structure built from that primitive together with agency, understanding, connection, and narrative integration over time. Felt significance is one input; meaning-as-lived is the integration. The dependence runs one way—from the phenomenal primitive to the life-level structure—so the appearance of circularity dissolves.
 
 ### Why Extend Beyond Hedonism?
 

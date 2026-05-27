@@ -38,17 +38,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Adopt phenomenal-consciousness calibration in neurological-dissociations-as-interface-architecture
-- **Type**: refine-draft
-- **Status**: pending
-- **File**: obsidian/topics/neurological-dissociations-as-interface-architecture.md
-- **Notes**: From topic-concept anchoring audit 2026-05-27. The topic article over-claims relative to its anchor concept [phenomenal-consciousness](/concepts/phenomenal-consciousness/); failed checks: hedge_density, strong_assertions.
-  - hedge density 2.01/kw is below 60% of anchor (6.76/kw)
-  - topic uses 5 strong-assertion verbs where anchor uses none
-  - Action: bring the topic's hedge profile in line with the anchor concept's. Preserve the article's voice; this is not a request to weaken the central claim, only to inherit the calibration discipline the anchor concept already uses. See [calibration-audit-triple](/project/calibration-audit-triple/) Audit Three for the spec and [evidential-status-discipline](/project/evidential-status-discipline/) for the underlying rule.
-- **Source**: topic-concept-anchoring-audit
-- **Generated**: 2026-05-27
-
 ### P2: Import sibling-article caveats and fix cross-link reciprocity for the meaning cluster
 - **Type**: refine-draft
 - **Notes**: From outer review 2026-05-27 (ChatGPT 5.5 Pro), section 5 (integration). The meaning article presents its synthesis in a more settled tone than the pages it depends on. Three concrete, surgical fixes (honour [evidential-status-discipline](/project/evidential-status-discipline/), no body rewrites): (1) **AI-alignment paragraph** (lines 113–117) — import the caveats already present in [purpose-and-alignment](/topics/purpose-and-alignment/) (Goodhart, proxy failure, wireheading, the lack of a mature science of flourishing) so the "preference-learning AI can't grasp mattering" claim is appropriately hedged. (2) **Phenomenal-value circularity** — meaning-of-life grounds meaning in [phenomenal-value-realism](/topics/phenomenal-value-realism/), while that article lists "Meaning: felt significance" as one of its value dimensions; add a one-sentence dependency note in one or both pages clarifying whether meaning is a primitive phenomenal value, a composite, or a higher-order structure (not incoherent, but currently circular-looking). (3) **Buddhist reciprocity** — add/strengthen the reciprocal link from [buddhist-perspectives-on-meaning](/topics/buddhist-perspectives-on-meaning/) back to meaning-of-life carrying the *stronger* objection (clinging to grounded meaning may itself be the problem), so the no-self/equanimity challenge to the grounding *project* is engaged rather than deflected by "Buddhism presupposes suffering matters." Also consider reframing the Contemplative Evidence section (lines 161–173) as phenomenological rather than metaphysical evidence. See [outer-review-2026-05-27-chatgpt-5-5-pro](/reviews/outer-review-2026-05-27-chatgpt-5-5-pro/).
@@ -3586,6 +3575,10 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 Tasks that failed 3+ times and require human intervention.
 
+
+### ✓ 2026-05-27: Adopt phenomenal-consciousness calibration in neurological-dissociations-as-interface-architecture
+- **Type**: refine-draft
+- **Notes**: From topic-concept anchoring audit 2026-05-27. The topic article over-claims relative to its anchor concept [phenomenal-consciousness](/concepts/phenomenal-consciousness/); failed checks: hedge_density, strong_assertions.
 
 ### ✓ 2026-05-27: Calibrate response-strength ratings and fix decoherence figures in objections-to-interactionism
 - **Type**: refine-draft

@@ -4,7 +4,7 @@ description: "What makes life meaningful? The Map suggests meaning is grounded i
 created: 2026-01-08
 modified: 2026-01-21
 human_modified: null
-ai_modified: 2026-05-27T21:30:00+00:00
+ai_modified: 2026-05-27T22:10:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -103,11 +103,11 @@ The position bundles claims of different strengths, and honesty requires separat
 
 ## Eastern Perspectives
 
-[[eastern-philosophy-consciousness|Eastern traditions]], particularly [[buddhist-perspectives-on-meaning|Buddhism]], suggest meaning is neither cosmic fact nor arbitrary choice but something revealed through transformation of consciousness. Buddhism traces suffering to craving—including the craving for permanent significance—and via *anattā* (no-self) relocates meaning from eternal substance to the quality of present experience. It might ask whether grounding meaning in consciousness is itself clinging; the Map replies that Buddhism presupposes experience is significant—why pursue liberation unless suffering matters? Both resist meaning-nihilism, differing on whether significance requires assertion or recognition. See [[buddhist-perspectives-on-meaning]].
+[[eastern-philosophy-consciousness|Eastern traditions]], particularly [[buddhist-perspectives-on-meaning|Buddhism]], suggest meaning is neither cosmic fact nor arbitrary choice but something revealed through transformation of consciousness. Buddhism traces suffering to craving—including the craving for permanent significance—and via *anattā* (no-self) relocates meaning from eternal substance to the quality of present experience. Its sharper objection, engaged in [[buddhist-perspectives-on-meaning]], is that the grounding *project* itself may be the clinging *sankhara-dukkha* names; the Map distinguishes recognising felt value from anxiously securing it. Both resist meaning-nihilism, differing on whether significance requires assertion or recognition.
 
 ## The AI Alignment Connection
 
-Meaning acquires urgency through [[purpose-and-alignment|AI alignment research]]: ensuring AI serves human interests presupposes we know what those interests are, yet standard approaches learn from preferences—thin proxies for what would fulfil us on reflection. If consciousness is fundamental, what matters about a life may turn on features of experience no behavioural analysis can capture, so AI should support human inquiry into meaning rather than presume to settle it.
+Meaning acquires urgency through [[purpose-and-alignment|AI alignment research]]: ensuring AI serves human interests presupposes we know what those interests are, yet standard approaches learn from preferences—thin proxies for what would fulfil us on reflection. If consciousness is fundamental, what matters about a life may turn on features of experience no behavioural analysis can capture. This does not show preference-learning must fail; the experiential alternative carries its own hazards—Goodharting, wireheading, no mature science of flourishing, developed in [[purpose-and-alignment]]—so AI should support human inquiry into meaning rather than presume to settle it.
 
 ## Responding to Nihilism
 
@@ -162,11 +162,11 @@ Even granting illusionism, a practical asymmetry remains. If consciousness is re
 
 ## Contemplative Evidence
 
-Contemplative traditions have investigated experience from the inside, offering at most suggestive support: reports use tradition-specific vocabularies, so claimed "convergence" is motivation, not proof. Two strands recur. Practitioners report [[witness-consciousness]]—pure awareness observing mental content without identifying with it—as significant because awareness itself is experienced as valuable. And practice reveals graded distinctions (scattered attention, focused presence, deep absorption) that *feel* different, deeper states described as more meaningful; Bergson's *durée*, lived [[temporal-consciousness]] versus clock time, names the same qualitative fullness. If these reports track anything, meaning correlates with the *quality* of conscious engagement, not merely its presence (the [[phenomenology-of-intellectual-life|phenomenology of meaning-making]] develops the modes). None of this settles the metaphysics, but the data raise the bar a deflationary account must clear.
+Contemplative traditions investigate experience from the inside, offering *phenomenological* data rather than metaphysical proof: reports use tradition-specific vocabularies, so claimed "convergence" is motivation, not demonstration. Two strands recur. Practitioners report [[witness-consciousness]]—pure awareness observing mental content without identifying—as significant because awareness itself is experienced as valuable. And practice reveals graded distinctions (scattered attention, focused presence, deep absorption) that *feel* different, deeper states described as more meaningful; Bergson's *durée*, lived [[temporal-consciousness]] versus clock time, names the same fullness. If these reports track anything, meaning correlates with the *quality* of engagement, not merely its presence (the [[phenomenology-of-intellectual-life|phenomenology of meaning-making]] develops the modes). None of this settles the metaphysics; it reports how meaning shows up, raising the bar a deflationary account must clear.
 
 ## Process Philosophy Perspective
 
-Whitehead's process philosophy offers one congenial model—not an argument the Map relies on. Reality consists of "actual occasions": momentary events of experience with an intrinsic "subjective aim," so value is constitutive of what experience *is* rather than added from outside. If reality is fundamentally experiential—which both views assume rather than prove—meaning needs no external grounding, and fleeting moments bear significance through transience, each occasion a [[haecceity|unique achievement of value]]. This is illustrative resonance, not independent support.
+Whitehead's process philosophy offers a congenial model, not an argument the Map relies on. Reality consists of "actual occasions": momentary experiential events with an intrinsic "subjective aim," so value is constitutive of what experience *is*—each fleeting occasion a [[haecceity|unique achievement of value]]. Both views assume rather than prove this, so the resonance is illustrative, not independent support.
 
 ## What Would Challenge This View?
 
@@ -188,7 +188,7 @@ Each tenet's contribution was developed above; this recapitulates how they fit, 
 
 ## What Makes a Life Meaningful?
 
-On this view, meaningful life involves **conscious engagement** (being genuinely present, not on autopilot), **authentic choice** (using freedom to shape outcomes that matter), **connection with what matters** (relationship, understanding, and creative achievement engage consciousness more fully than passive consumption), and **recognition of others' consciousness** (other beings are equally significant). This is a framework within which diverse meaningful lives can be built, not a prescription for one lifestyle; see [[living-with-the-map|Living with the Map]] for practical guidance.
+On this view, meaningful life involves **conscious engagement** (being genuinely present, not on autopilot), **authentic choice** (using freedom to shape outcomes that matter), **connection with what matters** (relationship, understanding, and creative achievement engage consciousness more fully than passive consumption), and **recognition of others' consciousness** as equally significant. This is a framework within which diverse meaningful lives can be built, not a prescription for one lifestyle; see [[living-with-the-map|Living with the Map]] for practical guidance.
 
 Meaning so understood requires neither God nor mere preference: it is grounded in something objective—the fundamental reality of consciousness—without appealing to mysterious abstract values. Every conscious moment is intrinsically significant, every genuine choice shapes reality in unrepeatable ways, and the only actual perspectives are conscious ones—from those, things matter.
 
