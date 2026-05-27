@@ -85,7 +85,7 @@ Husserl distinguished the *Leib* (the body as lived from within) from the *Körp
 
 This distinction appears to resist materialist assimilation, though materialists may construe the resistance as a limit on current vocabulary rather than on what neuroscience can in principle describe. Neuroscience can describe the *Körper* exhaustively—every neural pathway, every muscular contraction, every hormonal cascade. But the *Leib* seems available only from the first person. No third-person description currently captures what it is like to reach for a glass of water: the felt anticipation in the arm, the proprioceptive sense of extension, the seamless coordination that operates below deliberation.
 
-The Map interprets this asymmetry as evidence for irreducibility, while recognising that the materialist counter-reading—that the distinction is epistemic rather than metaphysical—is coherent with the same data. The Map's case is that the *Leib*/*Körper* asymmetry appears structural rather than merely epistemic: the lived body seems constitutively first-personal, so a complete physical description of the body might remain a description of the *Körper*. On this reading, the *Leib* is what consciousness contributes to embodiment. Neither framing is forced by the phenomenology alone; the choice between them rides on the broader irreducibility arguments the anchor concept [[mind-brain-separation|catalogues]].
+The Map interprets this asymmetry as evidence for irreducibility, while recognising that the materialist counter-reading—that the distinction is epistemic rather than metaphysical—is coherent with the same data. The Map's case is that the *Leib*/*Körper* asymmetry appears structural rather than merely epistemic: the lived body seems constitutively first-personal, so a complete physical description of the body might remain a description of the *Körper*. On this reading, the *Leib* is what consciousness contributes to embodiment. Neither framing is forced by the phenomenology alone; the choice between them rides on the broader irreducibility arguments the anchor concept [[mind-brain-separation|catalogues]]. The canonical concept-tier statement of the distinction—its source texts, the clinical cases that pull the two registers apart, and the discipline of not overclaiming the dualist reading—lives at [[lived-objectified-body-distinction]].
 
 ### Pre-Reflective Bodily Self-Awareness
 
@@ -201,6 +201,7 @@ The interface reading would face serious difficulty if:
 - [[attention-as-interface]] — Attention as the control surface for consciousness
 - [[brain-interface-boundary]] — Why brains specifically serve as interfaces
 - [[somatic-interface]] — The body's internal sensing channels as structured interface substrate
+- [[lived-objectified-body-distinction]] — The canonical statement of the Leib/Körper distinction this article applies
 - [[dual-domain-capabilities-in-proprioception-and-spatial-imagination]] — Empirical evidence for dual-domain architecture in proprioception and spatial imagination
 - [[empirical-phenomena-mental-causation|choking phenomenon]] — The bidirectional evidence from choking in detail
 - [[consciousness-and-skill-acquisition|phenomenology of flow states]] — Flow as frictionless interface operation

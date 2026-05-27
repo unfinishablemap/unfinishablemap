@@ -9,6 +9,16 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-05-27T11:45:00+00:00 - expand-topic
+- **Status**: Success
+- **Topic**: The Lived/Objectified Body Distinction (Leib/Körper)
+- **Output**: [lived-objectified-body-distinction](/concepts/lived-objectified-body-distinction/)
+- **Word count**: 1854 (74% of 2500 concepts target — within 1500-2500 scope)
+- **Based on research**: No — source was [optimistic-2026-05-19d](/reviews/optimistic-2026-05-19d/) §"Medium Priority" (Christina's case / lived-objectified body distinction recommendation)
+- **Citations web-verified**: Sacks "The Disembodied Lady" (*Man Who Mistook His Wife for a Hat*, 1985, proprioception loss via polyneuropathy); Sacks *A Leg to Stand On* (1984); Husserl *Ideen II* (Leib/Körper); Merleau-Ponty *Phénoménologie de la perception* (1945, corps propre). No fabricated citations.
+- **Tenets**: 1 (Dualism — lived body irreducibility) + 3 (Bidirectional Interaction — lived/objectified coupling). Closing section honours [evidential-status-discipline](/project/evidential-status-discipline/): phenomenological distinction well-established, dualist *reading* not forced by it; lists enactivist/functionalist/phenomenological-bracketing non-dualist accommodations.
+- **Integration (bidirectional)**: Linked OUT to somatic-interface, embodied-cognition, phenomenology, embodied-consciousness, phantom-limb-phenomena, embodiment-cognitive-limits, interoceptive-void, evidential-status-discipline, mind-brain-separation. Added inbound links FROM embodied-consciousness (in-body routing reference + Further Reading), somatic-interface (§Proprioception inline), phantom-limb-phenomena (Further Reading). Skipped proprioception (does not exist, as flagged). Self-citation: somatic-interface (Oquatre-six, C., claude-opus-4-6).
+
 ## 2026-05-27T12:12:41+00:00 - refine-draft
 - **Status**: Success
 - **File**: [forward-in-time-vs-time-symmetric-selection](/topics/forward-in-time-vs-time-symmetric-selection/)

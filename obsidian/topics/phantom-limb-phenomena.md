@@ -123,6 +123,7 @@ None would be definitive on its own; each would shift the evidential balance.
 - [[pain-asymbolia]] — The complementary dissociation between nociception and felt suffering
 - [[pain-consciousness-and-causal-power]] — The Map's broader treatment of pain
 - [[embodied-consciousness]] — The interface reading of embodiment
+- [[lived-objectified-body-distinction]] — Phantom limbs as the lived body (Leib) outlasting the objectified body (Körper)
 - [[clinical-neuroplasticity-evidence-for-bidirectional-causation]] — Other clinical evidence for top-down causation
 - [[dual-domain-capabilities-in-proprioception-and-spatial-imagination]] — Proprioception and imagined limbs
 - [[neurological-dissociations-as-interface-architecture]] — Lesion evidence for the brain-as-interface picture
