@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Deep review concepts/inverted-qualia.md (~39 days since last review, ai_contribution=100, Tenet 1 load-bearing)
-- **Type**: deep-review
-- **Status**: pending
-- **Notes**: PROMOTED P3→P2 by /replenish-queue 2026-05-27. The actionable (P0–P2) queue stood at 3 (the meaning-of-life Metz refine-draft, the consciousness-and-skill-acquisition literature-drift P2 which runs on its own weekly wall-clock schedule, and the self-concealing-interface apex-evolve), exactly at the MIN_QUEUE floor of 3 with two of those being narrow/scheduled work — so a floor-restoring top-up is warranted. Per the documented steady state (all three content sections at/near cap — topics 258/270, concepts 250/270, voids 101/100 over-cap; research well-consumed; orphaned_files=0; the two critical-length offenders BLOCKED pending human editorial decision; the remaining content length offenders either churn-prone/vetoed, index pages, or in active multi-task work), the honest move is to promote grounded tenet-load-bearing staleness deep-reviews rather than mint speculative expand-topic work against the already-large (~459-task) P3 backlog. Re-verified `last_deep_review: 2026-04-18T21:38:00+00:00` (~39 days), `ai_contribution=100`; not the subject of any other open task header. Inverted qualia is a classic anti-physicalist thought-experiment exhibit, directly Tenet 1 (Dualism) load-bearing. Deep-review should: (a) verify the philosophical positions (Shoemaker on the coherence of spectrum inversion, Block, the behavioural-indistinguishability argument) are accurately characterised; (b) check cross-references to [[concepts/qualia]], [[topics/knowledge-argument]], [[concepts/phenomenal-character]] resolve live and are reciprocated where load-bearing; (c) honour [[evidential-status-discipline]] — the thought-experiment establishes conceptual possibility, not empirical fact, and the article must keep that register; (d) writing-style + length discipline check; no cliché. Apply in-place fixes if minor; generate a follow-on refine-draft task if substantive. Tenet alignment: Tenet 1 (Dualism — qualia inversion as an explanatory-gap / anti-functionalism exhibit).
-- **Source**: staleness
-- **Generated**: 2026-05-27
-
 ### P2: Deep review concepts/self-and-self-consciousness.md (~26 days since last review, ai_contribution=100, Tenet 1 load-bearing)
 - **Type**: deep-review
 - **Status**: pending
@@ -3582,6 +3575,10 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 Tasks that failed 3+ times and require human intervention.
 
+
+### ✓ 2026-05-27: Deep review concepts/inverted-qualia.md (~39 days since last review, ai_contribution=100, Tenet 1 load-bearing)
+- **Type**: deep-review
+- **Notes**: PROMOTED P3→P2 by /replenish-queue 2026-05-27. The actionable (P0–P2) queue stood at 3 (the meaning-of-life Metz refine-draft, the consciousness-and-skill-acquisition literature-drift P2 which runs on its own weekly wall-clock schedule, and the self-concealing-interface apex-evolve), exactly at the MIN_QUEUE floor of 3 with two of those being narrow/scheduled work — so a floor-restoring top-up is warranted. Per the documented steady state (all three content sections at/near cap — topics 258/270, concepts 250/270, voids 101/100 over-cap; research well-consumed; orphaned_files=0; the two critical-length offenders BLOCKED pending human editorial decision; the remaining content length offenders either churn-prone/vetoed, index pages, or in active multi-task work), the honest move is to promote grounded tenet-load-bearing staleness deep-reviews rather than mint speculative expand-topic work against the already-large (~459-task) P3 backlog. Re-verified `last_deep_review: 2026-04-18T21:38:00+00:00` (~39 days), `ai_contribution=100`; not the subject of any other open task header. Inverted qualia is a classic anti-physicalist thought-experiment exhibit, directly Tenet 1 (Dualism) load-bearing. Deep-review should: (a) verify the philosophical positions (Shoemaker on the coherence of spectrum inversion, Block, the behavioural-indistinguishability argument) are accurately characterised; (b) check cross-references to [[concepts/qualia]], [[topics/knowledge-argument]], [[concepts/phenomenal-character]] resolve live and are reciprocated where load-bearing; (c) honour [[evidential-status-discipline]] — the thought-experiment establishes conceptual possibility, not empirical fact, and the article must keep that register; (d) writing-style + length discipline check; no cliché. Apply in-place fixes if minor; generate a follow-on refine-draft task if substantive. Tenet alignment: Tenet 1 (Dualism — qualia inversion as an explanatory-gap / anti-functionalism exhibit).
 
 ### ✓ 2026-05-27: Condense topics/personal-identity.md (5234 words, 174% of target, ~1234 over the 4000-word hard threshold)
 - **Type**: condense

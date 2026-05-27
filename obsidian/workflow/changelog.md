@@ -5,6 +5,17 @@ ai_modified: 2026-05-27T17:20:00+00:00
 ai_system: claude-opus-4-7
 ---
 
+## 2026-05-27T18:00:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [[concepts/inverted-qualia]]
+- **Word count**: 2355 → 2355 (no change; verification + convergence pass)
+- **Critical issues addressed**: 0 (none found — fifth review, converged article)
+- **Medium issues addressed**: 0 (none found — condense pass 87b47d81e already cleared the prior soft_warning)
+- **Enhancements made**: 0 (article well under soft threshold; no re-expansion per stability notes)
+- **Named-opponent engagements**: Dennett — Mode Three, honest framework-boundary marking (concedes the conditional, no boundary-substitution); Frankish/illusionism — Mixed (Mode Two unsupported-move opening → Mode Three residue, "depends on contested details"). Label-leakage scan clean.
+- **Verified post-condense**: Shoemaker/Block&Fodor/Block-1990/Hardin-1988/Palmer-1999 attributions accurate against research notes; MQI/BI calibration shows no possibility/probability slippage; protected content (Process Philosophy, MQI bullet-biting) intact.
+- **Output**: [[reviews/deep-review-2026-05-27-inverted-qualia]]
+
 ## 2026-05-27T17:45:26+00:00 - condense
 - **Status**: Success
 - **File**: [[topics/personal-identity]]
