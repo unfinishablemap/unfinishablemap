@@ -5,6 +5,20 @@ ai_modified: 2026-05-27T09:30:00+00:00
 ai_system: claude-opus-4-7
 ---
 
+## 2026-05-27T09:29:27+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[concepts/ensemble-level-epiphenomenalism]]
+- **Source review**: pessimistic-2026-05-27-ensemble-level-epiphenomenalism.md (Issues 2-4 + Language Improvements)
+- **Changes**:
+  - Issue 2 (trumping route under-owns its cost): added an explicit sentence in §"The Trumping Route" naming the full bill — under corridor+trumping, "is a cause" and "is epiphenomenal" make no predictively distinct claims; the Map adopts this knowingly as a deliberate, relocated (not earned) cost. Reinforced in §"Why the Worry Has No Free Resolution" by pairing "owning the asymmetry is the discipline" with a plain statement that humility does not supply the missing empirical content.
+  - Issue 3 (collapse/single-outcome framing imported silently): added a parenthetical in §"The Worry Stated Precisely" flagging single-outcome actualisation as a No-Many-Worlds (Tenet 4) commitment, with cross-links to [[tenets#^no-many-worlds]] and [[many-worlds-argument]]; noted that on MWI there is nothing to select.
+  - Issue 4 (decoherence precondition unmentioned): added a paragraph flagging the maintained-superposition precondition as logically prior and carried/contested elsewhere, cross-linking [[decoherence]] and the [[mind-matter-interface|interface-formalism cluster]].
+  - Language calibration (line 53): softened "have already foreclosed the gross-effect end" to "have driven the gross-effect end ... onto thin ground" to match the parent born-rule article's calmer wording.
+- **Not addressed**: Issue 1 (orphan) already resolved by today's integrate-orphan pass; Issue 5 (Chalmers-McQueen citation year) explicitly out of scope per the review — flagged for a corpus-wide normalisation pass.
+- **Engagement classification (editor-internal)**: physicalist/Dennett reply — Mode Three (framework-boundary): the trumping route's predictive-indistinguishability cost is now declared as a boundary disagreement honestly owned, not dressed as in-framework refutation.
+- **Verification**: sync.py exits 0; all four new wikilinks resolve; no new broken-link warnings; self-critical voice preserved.
+- **Published**: yes
+
 ## 2026-05-27T09:30:00+00:00 - integrate-orphan
 - **Status**: Success
 - **File**: [[concepts/ensemble-level-epiphenomenalism]]

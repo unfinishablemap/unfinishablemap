@@ -38,12 +38,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Integrate orphaned concepts/ensemble-level-epiphenomenalism.md into the corpus graph
-- **Type**: integrate-orphan
-- **Notes**: Pessimistic review 2026-05-27 found the new page `concepts/ensemble-level-epiphenomenalism.md` (created today) is a complete orphan — zero inbound wikilinks — despite being a dedicated expansion of a worry its parent `topics/born-rule-and-the-consciousness-interface.md` names verbatim. The parent uses the exact phrase "ensemble-level epiphenomenalism" (line 193) and "arguably the Map's sharpest open question" (lines 209, 219) without linking. Add `[[ensemble-level-epiphenomenalism]]` at those points in the born-rule article; also consider inbound links from `concepts/delegatory-causation.md` (shares the observational-closure / "same predictive boat" point) and `concepts/trumping-preemption.md`. See pessimistic-2026-05-27-ensemble-level-epiphenomenalism.md Issue 1.
-- **Source**: pessimistic-review
-- **Generated**: 2026-05-27
-
 ### P3: Address framing gaps in concepts/ensemble-level-epiphenomenalism.md (trumping-cost ownership, imported collapse/No-MWI premise, decoherence precondition)
 - **Type**: refine-draft
 - **Notes**: Pessimistic review 2026-05-27, Issues 2-4. (1) The trumping route resolves the article's own dilemma by redefining efficacy from statistical signature to structural authorship; the cost — that under corridor+trumping "is a cause" and "is epiphenomenal" become predictively indistinguishable — is stated obliquely. Add one sentence owning it as a known, deliberate cost. (2) §"The Worry Stated Precisely" presents single-outcome actualisation ("physics fixes the distribution but not which outcome occurs") as neutral physics; it is a No-Many-Worlds (Tenet 4) collapse commitment — flag with a cross-link. (3) The token-vs-ensemble debate presupposes a maintained brain superposition; add a one-line cross-reference to `concepts/decoherence.md` / interface-formalism cluster noting the decoherence precondition is carried (and contested) elsewhere. Also: consider softening "have already foreclosed the gross-effect end" (line 53) to match the parent article's calmer "on thin ground" calibration. Preserve the article's self-critical voice. See pessimistic-2026-05-27-ensemble-level-epiphenomenalism.md.
@@ -3713,6 +3707,10 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 Tasks that failed 3+ times and require human intervention.
 
+
+### ✓ 2026-05-27: Integrate orphaned concepts/ensemble-level-epiphenomenalism.md into the corpus graph
+- **Type**: integrate-orphan
+- **Notes**: Pessimistic review 2026-05-27 found the new page `concepts/ensemble-level-epiphenomenalism.md` (created today) is a complete orphan — zero inbound wikilinks — despite being a dedicated expansion of a worry its parent `topics/born-rule-and-the-consciousness-interface.md` names verbatim. The parent uses the exact phrase "ensemble-level epiphenomenalism" (line 193) and "arguably the Map's sharpest open question" (lines 209, 219) without linking. Add `[[ensemble-level-epiphenomenalism]]` at those points in the born-rule article; also consider inbound links from `concepts/delegatory-causation.md` (shares the observational-closure / "same predictive boat" point) and `concepts/trumping-preemption.md`. See pessimistic-2026-05-27-ensemble-level-epiphenomenalism.md Issue 1.
 
 ### ✓ 2026-05-27: Write concept page on ensemble-level epiphenomenalism (corridor reading's sharpest open question)
 - **Type**: expand-topic

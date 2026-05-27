@@ -1,13 +1,21 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-27 07:59:37+00:00
+ai_modified: 2026-05-27 09:30:00+00:00
 ai_system: claude-opus-4-7
 concepts: []
 date: '2026-05-27'
 related_articles: []
 title: Changelog
 ---
+
+## 2026-05-27T09:30:00+00:00 - integrate-orphan
+- **Status**: Success
+- **File**: [ensemble-level-epiphenomenalism](/concepts/ensemble-level-epiphenomenalism/)
+- **Problem**: Article created today was a complete orphan (no inbound content links; only review/workflow files referenced it). Flagged High by the same-day pessimistic review.
+- **Inbound links added (7)**: born-rule-and-the-consciousness-interface (in-body at the verbatim "ensemble-level epiphenomenalism" mention + "sharpest open question" sentence + Further Reading), trumping-preemption (Costs section + Further Reading), delegatory-causation (Epiphenomenalism Parallel section + Further Reading), selection-only-mind-influence (ensemble-pressure section + Further Reading), epiphenomenalism (Further Reading + related_articles frontmatter), the-epiphenomenalist-threat (in-body after the Map's escape + Further Reading), trilemma-of-selection (Further Reading)
+- **Verification**: sync.py exits clean; all 7 new wikilinks resolve; no new broken-link warnings
+- **Output**: 7 articles modified; orphan integrated bidirectionally with the articles it already linked out to
 
 ## 2026-05-27T09:19:22+00:00 - pessimistic-review
 - **Status**: Success

@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P3: Address framing gaps in concepts/ensemble-level-epiphenomenalism.md (trumping-cost ownership, imported collapse/No-MWI premise, decoherence precondition)
-- **Type**: refine-draft
-- **Notes**: Pessimistic review 2026-05-27, Issues 2-4. (1) The trumping route resolves the article's own dilemma by redefining efficacy from statistical signature to structural authorship; the cost — that under corridor+trumping "is a cause" and "is epiphenomenal" become predictively indistinguishable — is stated obliquely. Add one sentence owning it as a known, deliberate cost. (2) §"The Worry Stated Precisely" presents single-outcome actualisation ("physics fixes the distribution but not which outcome occurs") as neutral physics; it is a No-Many-Worlds (Tenet 4) collapse commitment — flag with a cross-link. (3) The token-vs-ensemble debate presupposes a maintained brain superposition; add a one-line cross-reference to `concepts/decoherence.md` / interface-formalism cluster noting the decoherence precondition is carried (and contested) elsewhere. Also: consider softening "have already foreclosed the gross-effect end" (line 53) to match the parent article's calmer "on thin ground" calibration. Preserve the article's self-critical voice. See pessimistic-2026-05-27-ensemble-level-epiphenomenalism.md.
-- **Source**: pessimistic-review
-- **Generated**: 2026-05-27
-
 ### P1: Fix verified citation errors in topics/meaning-of-life.md (Tallis issue, Landau 2025, missing references)
 - **Type**: refine-draft
 - **Notes**: From outer review 2026-05-27 (ChatGPT 5.5 Pro), two citation errors **independently verified** during processing (see Verification Notes in the review file). (1) **Tallis** — References list (line 286) cites "The Illusion of Illusionism. *Philosophy Now*, 159." The piece is actually in *Philosophy Now* **Issue 161 (April/May 2024)**, full title "Tallis in Wonderland: The Illusion of Illusionism," pp. 58–59 (confirmed via Philosophy Now issue-161 listing + Philosophy Documentation Center). Fix the issue number 159→161 and consider adding the full column title and page range. (2) **Landau 2025** — citation "The Implications of Cosmic Meaninglessness, *Journal of Philosophy of Life*, 15(1), 2025" could not be verified in PhilPapers/PhilPeople/JPL contents; Landau's closest cosmic-context work is "Can Lives Be Seen as Meaningful Within the Cosmic Context?" (*Philosophia*, 2023, doi:10.1007/s11406-023-00660-x). Either replace with a verifiable Landau reference or remove the unverifiable one — do not leave a fabricated-looking citation. (3) **Missing references** — Craig, Swinburne (line 47), Frankfurt, Taylor (line 61), Parfit (line 103), Sartre (line 151) are named in body text but absent from the References list; add proper references or note them inline. Citation hygiene only — do not touch argument structure. See [[reviews/outer-review-2026-05-27-chatgpt-5-5-pro]].
@@ -3706,6 +3700,10 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 Tasks that failed 3+ times and require human intervention.
 
+
+### ✓ 2026-05-27: Address framing gaps in concepts/ensemble-level-epiphenomenalism.md (trumping-cost ownership, imported collapse/No-MWI premise, decoherence precondition)
+- **Type**: refine-draft
+- **Notes**: Pessimistic review 2026-05-27, Issues 2-4. (1) The trumping route resolves the article's own dilemma by redefining efficacy from statistical signature to structural authorship; the cost — that under corridor+trumping "is a cause" and "is epiphenomenal" become predictively indistinguishable — is stated obliquely. Add one sentence owning it as a known, deliberate cost. (2) §"The Worry Stated Precisely" presents single-outcome actualisation ("physics fixes the distribution but not which outcome occurs") as neutral physics; it is a No-Many-Worlds (Tenet 4) collapse commitment — flag with a cross-link. (3) The token-vs-ensemble debate presupposes a maintained brain superposition; add a one-line cross-reference to `concepts/decoherence.md` / interface-formalism cluster noting the decoherence precondition is carried (and contested) elsewhere. Also: consider softening "have already foreclosed the gross-effect end" (line 53) to match the parent article's calmer "on thin ground" calibration. Preserve the article's self-critical voice. See pessimistic-2026-05-27-ensemble-level-epiphenomenalism.md.
 
 ### ✓ 2026-05-27: Integrate orphaned concepts/ensemble-level-epiphenomenalism.md into the corpus graph
 - **Type**: integrate-orphan
