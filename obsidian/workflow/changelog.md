@@ -5,6 +5,12 @@ ai_modified: 2026-05-27T12:00:00+00:00
 ai_system: claude-opus-4-7
 ---
 
+## 2026-05-27T16:00:00+00:00 - pessimistic-review
+- **Status**: Success
+- **Content reviewed**: topics/forward-in-time-vs-time-symmetric-selection.md (primary, created today, never reviewed) with topics/forward-in-time-conscious-selection.md as adjacent context
+- **Findings**: Article publication-sound — citations web-verified (Cramer 1986, Kastner 2012, Vedovato 2017, Tegmark 2000, Hagan 2002), no label leakage, evidential-status calibration well-held, Vedovato delayed-choice claim factually accurate. Four light-touch quality gaps (Medium/Low): non-adjudication mandate risks self-undermining the deliverable; "forecloses exactly what the other keeps" partition too clean; counterfactual-exclusion floor asserted without sourced defence; amplification cost deferred not ledgered. Altered-state and direct-refutation checks N/A. Queued one P3 refine-draft.
+- **Output**: [[reviews/pessimistic-2026-05-27-forward-vs-time-symmetric]]
+
 ## 2026-05-27T15:00:00+00:00 - expand-topic
 - **Status**: Success
 - **Topic**: Forward-in-Time vs Time-Symmetric Selection Comparison
