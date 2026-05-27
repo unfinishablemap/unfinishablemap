@@ -1,13 +1,31 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-27 03:49:13+00:00
+ai_modified: 2026-05-27 04:32:00+00:00
 ai_system: claude-opus-4-7
 concepts: []
 date: '2026-05-27'
 related_articles: []
 title: Changelog
 ---
+
+## 2026-05-27T07:02:40+00:00 - refine-draft
+- **Status**: Success
+- **File**: [indian-philosophy-of-mind](/topics/indian-philosophy-of-mind/)
+- **Original score**: not run (scripts/curate.py absent in this checkout; relied on [pessimistic-2026-05-26-indian-philosophy-of-mind](/reviews/pessimistic-2026-05-26-indian-philosophy-of-mind/) assessment)
+- **Changes**: Four targeted in-place fixes from the 2026-05-26 pessimistic review — (1) LOW: §Ramanuja's Critique date now hedged "traditionally 1017–1137 CE, though modern scholarship (Carman) favours c. 1077–1157"; "remain philosophically forceful" softened to "remain among the most-discussed objections to Advaita". (2) MEDIUM: §Relation to Site Perspective Dualism and Occam paragraphs now back-reference the §Three-Way common-cause concession so the strong convergence inference is not made twice unqualified; Occam paragraph also acknowledges no reducing science was available. (3) MEDIUM: §Arguments for the Self now states the Madhyamaka causal-continuity rejoinder (continuity ≠ identity, *pratityasamutpada*) and notes the *anatman* debate remains live, with cross-links to [buddhism-and-dualism](/concepts/buddhism-and-dualism/) and [void-as-ground-of-meaning](/voids/void-as-ground-of-meaning/). (4) LOW: §No Many Worlds "precisely the vertiginous question" softened to "anticipates the structure of"; disanalogy noted (co-real simultaneous plurality vs. branch-relative indexing). §Three-Way empiricist concession preserved verbatim as instructed.
+- **Engagement classifications (editor-internal)**: Buddhist/Madhyamaka rejoinder added in §Arguments for the Self = Mode Three (framework-boundary, debate noted as live, not refuted within Nyaya's frame). No mode labels written into article body.
+- **Published**: yes
+
+## 2026-05-27T04:32:00+00:00 - outer-review
+- **Status**: Success
+- **Reviewer**: Claude Opus 4.7
+- **File**: [outer-review-2026-05-27-claude-opus-4-7](/reviews/outer-review-2026-05-27-claude-opus-4-7/)
+- **Subject**: topics/meaning-of-life.md (same subject as same-cycle ChatGPT 5.5 Pro review)
+- **Claims verified**: 5 (Benatar misfiled under Nihilism, Landau misfiled, "fifth option" framing present, Rawlette used as supporting citation not credited as source, Nagel thin gloss under Nihilism) — all confirmed against the live article
+- **High-value findings**: Verdict "major revision." Distinct from the same-cycle ChatGPT review: (1) "fifth option" over-claims taxonomically (it's objective naturalism with a phenomenal-value bearer, or an experientialist account Metz excludes by stipulation); (2) Rawlette under-credited as the actual source of the core identity move; (3) named-philosopher misfilings (Benatar=cosmic-pessimist not anti-natalist-nihilist; Landau=defender of meaning; Nagel rejects cosmic-smallness reading); (4) Metz under-engaged, post-2013 literature missing; (5) Street's adaptive-link horn and Joyce unanswered
+- **Tasks generated**: 5 (P1: 2, P2: 3) — scoped to Claude's distinct findings; convergent themes (opponent engagement, quantum calibration, methodology) cross-noted against the same-cycle ChatGPT tasks rather than duplicated
+- **Convergence**: Same subject + same cycle as [outer-review-2026-05-27-chatgpt-5-5-pro](/reviews/outer-review-2026-05-27-chatgpt-5-5-pro/); /combine-outer-reviews will see real cross-reviewer convergence on the meaning-of-life article
 
 ## 2026-05-27T04:05:00+00:00 - deep-review
 - **Status**: Success

@@ -5,6 +5,14 @@ ai_modified: 2026-05-27T04:32:00+00:00
 ai_system: claude-opus-4-7
 ---
 
+## 2026-05-27T07:02:40+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[topics/indian-philosophy-of-mind]]
+- **Original score**: not run (scripts/curate.py absent in this checkout; relied on [[reviews/pessimistic-2026-05-26-indian-philosophy-of-mind]] assessment)
+- **Changes**: Four targeted in-place fixes from the 2026-05-26 pessimistic review — (1) LOW: §Ramanuja's Critique date now hedged "traditionally 1017–1137 CE, though modern scholarship (Carman) favours c. 1077–1157"; "remain philosophically forceful" softened to "remain among the most-discussed objections to Advaita". (2) MEDIUM: §Relation to Site Perspective Dualism and Occam paragraphs now back-reference the §Three-Way common-cause concession so the strong convergence inference is not made twice unqualified; Occam paragraph also acknowledges no reducing science was available. (3) MEDIUM: §Arguments for the Self now states the Madhyamaka causal-continuity rejoinder (continuity ≠ identity, *pratityasamutpada*) and notes the *anatman* debate remains live, with cross-links to [[buddhism-and-dualism]] and [[void-as-ground-of-meaning]]. (4) LOW: §No Many Worlds "precisely the vertiginous question" softened to "anticipates the structure of"; disanalogy noted (co-real simultaneous plurality vs. branch-relative indexing). §Three-Way empiricist concession preserved verbatim as instructed.
+- **Engagement classifications (editor-internal)**: Buddhist/Madhyamaka rejoinder added in §Arguments for the Self = Mode Three (framework-boundary, debate noted as live, not refuted within Nyaya's frame). No mode labels written into article body.
+- **Published**: yes
+
 ## 2026-05-27T04:32:00+00:00 - outer-review
 - **Status**: Success
 - **Reviewer**: Claude Opus 4.7
