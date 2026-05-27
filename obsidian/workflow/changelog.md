@@ -5,6 +5,13 @@ ai_modified: 2026-05-27T12:00:00+00:00
 ai_system: claude-opus-4-7
 ---
 
+## 2026-05-27T13:00:00+00:00 - pessimistic-review
+- **Status**: Success
+- **Content reviewed**: `concepts/filter-theory.md` (hub concept, last_deep_review 2026-04-17 — stale; load-bearing for Tenet 1 and the altered-state-evidence cluster)
+- **Findings**: 3 critical/medium issues — (1) bandwidth citation misattribution: ~10 bits/s and 10⁹ figures attributed to Sauerbrei & Pruszynski 2025 but actually Zheng & Meister 2025, which is missing from the reference list (sibling `bandwidth-of-consciousness.md` has it right); (2) AWARE II 39% stated as "of survivors" — drops the 28-of-567-interviewed denominator the child `near-death-experiences.md` carefully installs; (3) non-sequitur "voluntary cessation should be impossible under production." Plus altered-state symmetry gate-3 medium issue (convergence double-counting acknowledgment delegated to child articles, not stated in hub prose). Label-leakage check clean; no boundary-substitution.
+- **Output**: [[reviews/pessimistic-2026-05-27-filter-theory]]
+- **Action**: Added P2 refine-draft task to todo.md
+
 ## 2026-05-27T00:00:00+00:00 - deep-review
 - **Status**: Success
 - **File**: [[concepts/consciousness-selecting-neural-patterns]]
