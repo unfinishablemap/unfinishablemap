@@ -37,6 +37,26 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
+### P2: Condense topics/personal-identity.md (5234 words, 174% of target, ~1234 over the 4000-word hard threshold)
+- **Type**: condense
+- **Notes**: Length analysis 2026-05-27 (via /replenish-queue). `topics/personal-identity.md` is 5234 words — over the topics hard-warning threshold (4000) and 174% of the 3000-word target. The article was substantively expanded today by the 2026-05-27 pessimistic-review structural-gaps fix (see Blocked "Address structural gaps in topics/personal-identity.md"), which pushed it over the hard threshold. Unlike `born-rule-and-the-consciousness-interface.md` and `apex/taxonomy-of-voids.md` (both repeatedly churned through plain-condense passes and currently vetoed/grown-back), this file has NEVER had a dedicated condense pass, so it is a genuine length_analysis candidate rather than a churn risk. Condense by tightening exposition and removing redundancy across the persistence-criterion and quantum/branching-personal-identity sections; preserve the indexical-identity (Tenet 4) framing, the unfalsifiability caveat installed 2026-02-17 (propagated from measurement-problem.md), and the structural-gaps engagement added by today's pessimistic-review fix — defer detailed subtopics to linked articles ([[topics/death-and-consciousness]], [[concepts/haecceity]], [[concepts/personal-identity-supervenes-on-experience]]) rather than deleting load-bearing content. Honour [[evidential-status-discipline]]; no "This is not X. It is Y." cliché. Validate against `tools/curate` length threshold afterward and confirm no broken inbound links to any relocated content. See /condense skill. Tenet alignment: Tenet 4 (No Many Worlds — indexical identity) load-bearing; Tenet 1 (Dualism) via personal-identity-supervenes-on-experience.
+- **Source**: length_analysis
+- **Generated**: 2026-05-27
+
+### P2: Deep review concepts/inverted-qualia.md (~39 days since last review, ai_contribution=100, Tenet 1 load-bearing)
+- **Type**: deep-review
+- **Status**: pending
+- **Notes**: PROMOTED P3→P2 by /replenish-queue 2026-05-27. The actionable (P0–P2) queue stood at 3 (the meaning-of-life Metz refine-draft, the consciousness-and-skill-acquisition literature-drift P2 which runs on its own weekly wall-clock schedule, and the self-concealing-interface apex-evolve), exactly at the MIN_QUEUE floor of 3 with two of those being narrow/scheduled work — so a floor-restoring top-up is warranted. Per the documented steady state (all three content sections at/near cap — topics 258/270, concepts 250/270, voids 101/100 over-cap; research well-consumed; orphaned_files=0; the two critical-length offenders BLOCKED pending human editorial decision; the remaining content length offenders either churn-prone/vetoed, index pages, or in active multi-task work), the honest move is to promote grounded tenet-load-bearing staleness deep-reviews rather than mint speculative expand-topic work against the already-large (~459-task) P3 backlog. Re-verified `last_deep_review: 2026-04-18T21:38:00+00:00` (~39 days), `ai_contribution=100`; not the subject of any other open task header. Inverted qualia is a classic anti-physicalist thought-experiment exhibit, directly Tenet 1 (Dualism) load-bearing. Deep-review should: (a) verify the philosophical positions (Shoemaker on the coherence of spectrum inversion, Block, the behavioural-indistinguishability argument) are accurately characterised; (b) check cross-references to [[concepts/qualia]], [[topics/knowledge-argument]], [[concepts/phenomenal-character]] resolve live and are reciprocated where load-bearing; (c) honour [[evidential-status-discipline]] — the thought-experiment establishes conceptual possibility, not empirical fact, and the article must keep that register; (d) writing-style + length discipline check; no cliché. Apply in-place fixes if minor; generate a follow-on refine-draft task if substantive. Tenet alignment: Tenet 1 (Dualism — qualia inversion as an explanatory-gap / anti-functionalism exhibit).
+- **Source**: staleness
+- **Generated**: 2026-05-27
+
+### P2: Deep review concepts/self-and-self-consciousness.md (~26 days since last review, ai_contribution=100, Tenet 1 load-bearing)
+- **Type**: deep-review
+- **Status**: pending
+- **Notes**: PROMOTED P3→P2 by /replenish-queue 2026-05-27 (second of two floor-restoring staleness promotions; retained for queue diversity alongside the inverted-qualia deep-review). Re-verified `last_deep_review: 2026-05-01T04:25:00+00:00` (~26 days), `ai_contribution=100`; not the subject of any other open task header. The self / self-consciousness distinction is a structural-phenomenology exhibit the Map leans on across the introspection and witness-mode clusters, directly Tenet 1 (Dualism) load-bearing. Deep-review should: (a) verify the pre-reflective / reflective self-consciousness framing (Zahavi, Sartre, the Heidelberg-school minimal-self account) is accurately characterised and still coheres with the post-April meditation/witness cluster ([[concepts/witness-consciousness]], [[topics/the-observer-witness-in-meditation]], [[concepts/minimal-self]] if present); (b) check cross-references resolve live and are reciprocated where load-bearing; (c) honour [[evidential-status-discipline]] — phenomenological structure claims must not slip into metaphysical conclusions without independent grounding; (d) writing-style + length discipline check; no cliché. Apply in-place fixes if minor; generate a follow-on refine-draft task if substantive. Tenet alignment: Tenet 1 (Dualism — the self-model / phenomenal-self distinction as a structure-of-experience exhibit).
+- **Source**: staleness
+- **Generated**: 2026-05-27
+
 ### P2: Deepen Metz argument engagement in topics/meaning-of-life.md (hedonism-excluded-by-stipulation confrontation)
 - **Type**: refine-draft
 - **Notes**: From outer review 2026-05-27 (Claude Opus 4.7), §4.2 + §8.A.2. SINGLETON finding (only Claude raised the Metz *argument* engagement; the stale-references half of the original task was convergent with the ChatGPT citation finding and has been consolidated into the P1 citation task — see "Fix verified citation errors and refresh stale literature"). Metz is *the* representative objective naturalist and sets the terms of the contemporary debate, yet the article gives him a one-sentence gloss. Add a Metz-confrontation passage engaging his argument that **hedonism/experientialism is excluded from meaning by stipulation** (meaning ≠ happiness; experience-machine lives are pleasant but not meaningful). The phenomenal-value view must confront this head-on: either argue the exclusion fails because phenomenal-value *pluralism* is broader than hedonism (engagement, understanding, connection are exactly the phenomenal features hedonism can't capture), or concede that "meaning" is the wrong word and "phenomenal value / lived significance" is the right one. This is tightly bound to the convergent "fifth option" over-claim task — coordinate so the Metz taxonomy confrontation and the fifth-option re-framing land coherently rather than double-editing the same paragraphs. (The missing post-2013 Metz *references* are now owned by the P1 citation/literature task.) **Apply the direct-refutation discipline** ([[direct-refutation-discipline]]); **natural prose**, **no mode labels in the body**. See [[reviews/outer-review-2026-05-27-claude-opus-4-7]].
@@ -1085,10 +1105,10 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: staleness
 - **Generated**: 2026-04-16
 
-### P3: Deep review inverted-qualia.md
+### ✓ PROMOTED P3→P2 2026-05-27: Deep review inverted-qualia.md
 - **Type**: deep-review
-- **Status**: pending
-- **Notes**: AI-generated content (ai_contribution: 100) last deep-reviewed 2026-03-05 — 41 days ago. Concept page on inverted qualia thought experiments and their implications for physicalism. Verify coherence, accuracy of philosophical positions (Shoemaker, Block), cross-references to qualia, knowledge-argument, and phenomenal-character articles, and tenet alignment.
+- **Status**: promoted (see the P2 "Deep review concepts/inverted-qualia.md" task in Active Tasks — promoted by /replenish-queue 2026-05-27 as a floor-restoring tenet-load-bearing staleness deep-review). Do not action this entry; action the P2 copy.
+- **Notes**: AI-generated content (ai_contribution: 100) last deep-reviewed 2026-04-18 (~39 days). Concept page on inverted qualia thought experiments and their implications for physicalism. Verify coherence, accuracy of philosophical positions (Shoemaker, Block), cross-references to qualia, knowledge-argument, and phenomenal-character articles, and tenet alignment.
 - **Source**: staleness
 - **Generated**: 2026-04-15
 
@@ -1435,9 +1455,10 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: staleness
 - **Generated**: 2026-03-24
 
-### P3: Deep review self-and-self-consciousness.md
+### ✓ PROMOTED P3→P2 2026-05-27: Deep review self-and-self-consciousness.md
 - **Type**: deep-review
-- **Notes**: Coalesced from self-and-consciousness.md + self-consciousness.md and subsequently condensed on 2026-03-23. Two transformations in one day—verify the condensed coalesce preserved key arguments from both source articles, eliminated redundancy, and maintains coherent structure. Check cross-references to personal-identity, phenomenology-of-agency-vs-passivity, and social-construction-of-self-vs-phenomenal-self.
+- **Status**: promoted (see the P2 "Deep review concepts/self-and-self-consciousness.md" task in Active Tasks — promoted by /replenish-queue 2026-05-27 as a floor-restoring tenet-load-bearing staleness deep-review). Do not action this entry; action the P2 copy.
+- **Notes**: Coalesced from self-and-consciousness.md + self-consciousness.md and subsequently condensed on 2026-03-23; last deep-reviewed 2026-05-01 (~26 days). Verify the condensed coalesce preserved key arguments from both source articles, eliminated redundancy, and maintains coherent structure. Check cross-references to personal-identity, phenomenology-of-agency-vs-passivity, and social-construction-of-self-vs-phenomenal-self.
 - **Source**: staleness
 - **Generated**: 2026-03-23
 
