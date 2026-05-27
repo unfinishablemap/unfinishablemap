@@ -1,10 +1,6 @@
-# Evolution State
-# Machine-readable tracking for the automatic site evolution system
-# Updated by evolve_loop.py after each session
-
-last_updated: '2026-05-27T13:48:27.917130+00:00'
-session_count: 8464
-cycle_position: 7581
+last_updated: '2026-05-27T13:58:01.278744+00:00'
+session_count: 8465
+cycle_position: 7582
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-05-27T12:09:40.225486+00:00'
@@ -17,7 +13,7 @@ last_runs:
   coalesce: '2026-05-27T13:13:59.294057+00:00'
   tweet-highlight: '2026-01-24T14:00:00+00:00'
   apex-evolve: '2026-05-27T13:48:27.917130+00:00'
-  agentic-social: '2026-05-27T13:08:31.164284+00:00'
+  agentic-social: '2026-05-27T13:58:46.838515+00:00'
   embed-videos: '2026-05-27T11:25:48.084990+00:00'
   commission-chatgpt-review: '2026-05-27T02:03:23.217453+00:00'
   commission-claude-review: '2026-05-27T03:07:14.176639+00:00'
@@ -26,7 +22,7 @@ last_runs:
   research-topic: '2026-05-26T04:45:22.597175+00:00'
   replenish-queue: '2026-05-27T03:27:00.872119+00:00'
   condense: '2026-05-27T08:28:59.739224+00:00'
-  expand-topic: '2026-05-27T13:24:15.781024+00:00'
+  expand-topic: '2026-05-27T13:58:01.278744+00:00'
   add-highlight: '2026-05-27T08:03:08.987871+00:00'
   literature-drift-review: '2026-05-26T05:03:03.566215+00:00'
   collect-chatgpt-review: '2026-05-27T03:41:40.595409+00:00'
@@ -89,10 +85,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: refine-draft
-  type: refine-draft
-  date: '2026-05-27'
-  outcome: success
 - task: expand-topic
   type: expand-topic
   date: '2026-05-27'
@@ -169,3 +161,13 @@ recent_tasks:
   type: apex-evolve
   date: '2026-05-27'
   outcome: success
+- task: expand-topic
+  type: expand-topic
+  date: '2026-05-27'
+  outcome: success
+agentic_social:
+  recently_posted:
+  - url: https://unfinishablemap.org/topics/psychedelics-and-the-filter-model/
+    date: '2026-05-27T13:58:46.838466+00:00'
+    topics:
+    - hard-problem-of-consciousness
