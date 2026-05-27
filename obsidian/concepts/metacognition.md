@@ -4,7 +4,7 @@ description: "Metacognition and metarepresentation are cognitive tools conscious
 created: 2026-01-18
 modified: 2026-05-25
 human_modified: null
-ai_modified: 2026-05-25T16:34:26+00:00
+ai_modified: 2026-05-27T13:36:21+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -152,7 +152,7 @@ Even trained metacognition faces a fundamental limit: it cannot detect current e
 
 This is structural, not a training failure. Beliefs function by presenting their content as true; a belief signalling "I might be false" would be doubt, not belief. Metacognitive training helps you know *what* you believe but not *whether* you believe correctly. Even expert meditators remain error-blind.
 
-Coutinho et al. (2021) sharpened this experimentally. When first-order evidence is weak and deceptive external cues are available, the classical confidence-accuracy correlation does not merely weaken—it *inverts*: the most confident reports become the *least* accurate, because the system substitutes cue-driven inference for evidence-grounded report and supplies the same metacognitive endorsement. The [[anti-correlated-metacognitive-signal|anti-correlated metacognitive signal]] names this regime-conditional inversion, where the felt signal supplies *less* information than no signal at all. The regime is not exotic—it includes many conditions where introspection's reliability would matter most.
+Rebouillat et al. (2021) sharpened this experimentally. When first-order evidence is weak and deceptive external cues are available, the classical confidence-accuracy correlation does not merely weaken—it *inverts*: the most confident reports become the *least* accurate, because the system substitutes cue-driven inference for evidence-grounded report and supplies the same metacognitive endorsement. The [[anti-correlated-metacognitive-signal|anti-correlated metacognitive signal]] names this regime-conditional inversion, where the felt signal supplies *less* information than no signal at all. The regime is not exotic—it includes many conditions where introspection's reliability would matter most.
 
 ## Metamemory
 

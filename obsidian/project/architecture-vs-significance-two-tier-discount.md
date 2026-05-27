@@ -4,7 +4,7 @@ description: "A human-AI methodology page naming the two-tier discount: an archi
 created: 2026-05-25
 modified: 2026-05-25
 human_modified:
-ai_modified: 2026-05-25T13:30:00+00:00
+ai_modified: 2026-05-27T13:36:21+00:00
 last_deep_review: 2026-05-25T13:30:00+00:00
 draft: false
 topics: []
@@ -57,7 +57,7 @@ The structure recurs across the catalogue. Four exhibits, drawn from three diffe
 
 ### The Anti-Correlated Metacognitive Signal
 
-The clearest worked case, and the one whose [[concepts/anti-correlated-metacognitive-signal#limits|§"Architecture-vs-significance distinction"]] first named the split for this page. The **architecture-tier** finding is that a metacognitive confidence signal can *invert* — become anti-correlated with accuracy — in identifiable deceptive-cue regimes (the Coutinho 2021 paradigm; extended by Dijkstra and Fleming 2024 to perceptual reality-monitoring). That a monitoring signal can fire and endorse while its endorsement runs opposite to accuracy survives translation across every framework on the list: a functionalist, an illusionist, and a dualist all grant that the confidence-accuracy inversion is real. Smaller discount.
+The clearest worked case, and the one whose [[concepts/anti-correlated-metacognitive-signal#limits|§"Architecture-vs-significance distinction"]] first named the split for this page. The **architecture-tier** finding is that a metacognitive confidence signal can *invert* — become anti-correlated with accuracy — in identifiable deceptive-cue regimes (the Rebouillat 2021 paradigm; extended by Dijkstra and Fleming 2024 to perceptual reality-monitoring). That a monitoring signal can fire and endorse while its endorsement runs opposite to accuracy survives translation across every framework on the list: a functionalist, an illusionist, and a dualist all grant that the confidence-accuracy inversion is real. Smaller discount.
 
 The **significance-tier** claim is the Map's reading: that the inversion indicates *a bounded conscious witness with limited access to its own substrate, sitting behind a reconstructive introspective architecture*. This is framework-shaped — it presupposes the Map's witness-behind-the-architecture picture, which a functionalist replaces with a claim about the relationship between first-order processing and second-order monitoring systems carrying no witness at all. Larger discount. The concept's use as a *structural* contribution to the introspection-architecture cluster operates at the architecture tier; its use in support of the cluster's *metaphysical* reading operates at the significance tier, and the two must be cited at their own discounts.
 
@@ -137,7 +137,7 @@ Its most direct connection is to **[[tenets#^occams-limits|Tenet 5 — Occam's R
 
 ## References
 
-1. Coutinho, M. V. C., et al. (2021). Metacognitive sensitivity under deceptive-cue regimes. (As catalogued in *anti-correlated-metacognitive-signal*.)
+1. Rebouillat, B., Leonetti, J. M., & Kouider, S. (2021). People confabulate with high confidence when their decisions are supported by weak internal variables. *Neuroscience of Consciousness*, 2021(1), niab004. (As catalogued in *anti-correlated-metacognitive-signal*.)
 1. Dijkstra, N. & Fleming, S. M. (2024). Subjective signal strength distinguishes reality from imagination. *Nature Communications*.
 1. Billon, A. (2016). Making sense of the Cotard syndrome: insights from the study of depersonalisation. *Mind & Language*, 31(3).
 1. Gallagher, S. (2000). Philosophical conceptions of the self: implications for cognitive science. *Trends in Cognitive Sciences*, 4(1).

@@ -4,7 +4,7 @@ description: "Human+AI iterative exploration of the choice-blindness paradigm as
 created: 2026-05-22
 modified: 2026-05-22
 human_modified:
-ai_modified: 2026-05-22T22:30:00+00:00
+ai_modified: 2026-05-27T13:36:21+00:00
 draft: false
 topics:
   - "[[philosophy-of-mind]]"
@@ -80,7 +80,7 @@ The introspection-architecture sub-cluster comprises four voids—[[confabulatio
 
 The sub-cluster's apex synthesis at [[phenomenal-output-causal-machinery-dissociation|phenomenal-output / causal-machinery dissociation]] argues that the catalogue's introspection-architecture findings collectively constrain the relationship between what consciousness reports about itself and what the system actually does. The cluster-level move reaches *strongly supported* tier only conditional on the [[project/common-cause-null|common-cause null]] surviving the discrimination tests the apex catalogues; absent that survival, it sits at *live hypothesis*. The same conditionality applies to the present sub-type's contribution.
 
-Three discipline articles are load-bearing within the cluster. [[anti-correlated-metacognitive-signal|The anti-correlated metacognitive signal concept]] catalogues findings (including Coutinho et al. 2021) where confidence inverts with accuracy in ways standard metacognition models did not predict. The Coutinho-style finding bears directly on choice-blindness: subjects with the most confident introspective verdicts are not necessarily the most accurate detectors of choice manipulations. [[microphenomenological-interview-method|The microphenomenological interview method article]] treats verbal-channel introspection with the discipline the result requires: justification production is not authorship verification. [[heterophenomenology]] supplies the third-person measurement discipline that the pupillometric channel and detection-rate measurement exemplify—heterophenomenologically tractable in ways direct introspective reports of authorship-tracking are not.
+Three discipline articles are load-bearing within the cluster. [[anti-correlated-metacognitive-signal|The anti-correlated metacognitive signal concept]] catalogues findings (including Rebouillat et al. 2021) where confidence inverts with accuracy in ways standard metacognition models did not predict. The Rebouillat-style finding bears directly on choice-blindness: subjects with the most confident introspective verdicts are not necessarily the most accurate detectors of choice manipulations. [[microphenomenological-interview-method|The microphenomenological interview method article]] treats verbal-channel introspection with the discipline the result requires: justification production is not authorship verification. [[heterophenomenology]] supplies the third-person measurement discipline that the pupillometric channel and detection-rate measurement exemplify—heterophenomenologically tractable in ways direct introspective reports of authorship-tracking are not.
 
 ## Detection-Rate Variability as the Sub-Cluster's Cleanest Single Exhibit
 
@@ -122,7 +122,7 @@ Honest scope demands explicit statement of what the case does not deliver. Three
 - [[introspection-architecture-independence-scoring]] — The cluster's methodological discipline page; catalogues authorship-of-action divergence as a despite-commitments anchor
 - [[pupillometry-behavioural-channel]] — The channel-level corroboration via pupillometric signature
 - [[microphenomenological-interview-method]] — The method article that distinguishes justification production from authorship verification
-- [[anti-correlated-metacognitive-signal]] — The Coutinho-style finding whose confidence-inversion bears on naive readings of justification richness
+- [[anti-correlated-metacognitive-signal]] — The Rebouillat-style finding whose confidence-inversion bears on naive readings of justification richness
 - [[libet-experiments]] — The sibling timing-layer dataset the post-2008 Schurger reanalysis treats with parallel scope discipline
 - [[evidential-status-discipline]] — The calibration norm applied throughout: detection-rate variability at *strongly supported*; interface-failure interpretation at *live hypothesis*
 - [[project/common-cause-null]] — The cluster-level conditional discharge the present case inherits

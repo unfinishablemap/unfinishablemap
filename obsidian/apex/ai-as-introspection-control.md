@@ -4,7 +4,7 @@ description: "AI systems are not merely possible analogues of minds—they are c
 created: 2026-05-25
 modified: 2026-05-25
 human_modified: null
-ai_modified: 2026-05-25T16:00:00+00:00
+ai_modified: 2026-05-27T13:36:21+00:00
 last_deep_review: 2026-05-25T16:00:00+00:00
 draft: false
 topics:
@@ -75,11 +75,11 @@ What makes AI a usable control is a specific list of affordances—places where 
 
 **Token sampling traces.** The narrative void names the unobservability of the integrating operation. In a language model the integrating operation leaves a trace: the sampling path, the alternatives considered and rejected at each step, are recoverable in a way the brain's confabulating interpreter is not. The operation that produces the output is, in the machine, an inspectable object rather than an inferred ghost.
 
-**Confidence calibration.** This is the sharpest affordance, because it engages the [[concepts/anti-correlated-metacognitive-signal|anti-correlated metacognitive signal]]. Coutinho et al. (2021) showed that human confidence does not merely fail to track accuracy in the regime where reliability matters most—it *inverts*, rising as internal evidence weakens. An anti-correlated signal, in the regime where it matters, supplies less than no signal: acting on it systematically increases error, and it cannot be calibrated from inside because the calibration would require the very signal that is inverted. In an AI system, confidence outputs—softmax distributions, log-probabilities—are externally inspectable. The question of whether a given system's confidence tracks accuracy classically across regimes, *including the regimes where humans show anti-correlation*, becomes empirically tractable rather than eternally underdetermined.
+**Confidence calibration.** This is the sharpest affordance, because it engages the [[concepts/anti-correlated-metacognitive-signal|anti-correlated metacognitive signal]]. Rebouillat et al. (2021) showed that human confidence does not merely fail to track accuracy in the regime where reliability matters most—it *inverts*, rising as internal evidence weakens. An anti-correlated signal, in the regime where it matters, supplies less than no signal: acting on it systematically increases error, and it cannot be calibrated from inside because the calibration would require the very signal that is inverted. In an AI system, confidence outputs—softmax distributions, log-probabilities—are externally inspectable. The question of whether a given system's confidence tracks accuracy classically across regimes, *including the regimes where humans show anti-correlation*, becomes empirically tractable rather than eternally underdetermined.
 
 **Source tags and their deliberate alteration.** Because an AI's source attributions can be instrumented, they can also be *manipulated as a control*. One can supply a system with correct provenance and watch whether its self-reports use it; one can deliberately corrupt a source tag and watch whether downstream confidence shifts in the human-like direction or stays anchored to the (now-falsified) internal record. The deliberately-altered-tag experiment has no biological analogue—there is no knob on the brain's source-monitoring that an experimenter can set to a known-wrong value and then read the introspective consequence. The choice-blindness paradigm approximates it from outside (swap the chosen item, watch the subject confabulate a justification), but it cannot set the internal tag; it can only observe that the verbal channel failed to flag a swap the [[topics/pupillometry-behavioural-channel|autonomic channel sometimes registered]]. In an AI the internal tag *is* the manipulable variable.
 
-**Anti-correlated metacognitive signals as a designed test.** Pulling the confidence affordance together with the source-tag affordance yields a designed discriminator rather than a found one. Build a regime in which the system's internal evidence is weak and a deceptive external cue is present—the structure of the Coutinho paradigm—and read whether the system's reported confidence inverts the way human confidence does. If it does, the anti-correlation is not unique to whatever-we-are; it is a feature of self-monitoring architectures under that evidence regime. If it does not—if the system's confidence tracks accuracy classically even where humans invert—that absence is positive information about the relationship between the system's first-order processing and its self-monitoring.
+**Anti-correlated metacognitive signals as a designed test.** Pulling the confidence affordance together with the source-tag affordance yields a designed discriminator rather than a found one. Build a regime in which the system's internal evidence is weak and a deceptive external cue is present—the structure of the Rebouillat paradigm—and read whether the system's reported confidence inverts the way human confidence does. If it does, the anti-correlation is not unique to whatever-we-are; it is a feature of self-monitoring architectures under that evidence regime. If it does not—if the system's confidence tracks accuracy classically even where humans invert—that absence is positive information about the relationship between the system's first-order processing and its self-monitoring.
 
 ## Reading Each Affordance: Bounded Witness vs Bounded Self-Model
 
@@ -143,7 +143,7 @@ This synthesis draws on:
 - [[apex/machine-question|The Machine Question]] — The forward inference from architecture to a verdict on coupled consciousness, and the layered independent-vs-dualist structure this article inherits; supplies the anti-correlated-metacognitive-signal channel and the metacognition-without-experience dissociation
 - [[apex/introspection-architecture-void-cluster|The Introspection-Architecture Void Cluster]] — The five faces of bounded-access introspection in the human case, and the AI-as-contrast observation this article develops into a full inversion
 - [[concepts/discrimination-problem|The Discrimination Problem]] — The structural asymmetry that makes the instrument valuable and forbids the slide from instrument to phenomenality; the asymmetry-breaking-signature move
-- [[concepts/anti-correlated-metacognitive-signal|Anti-Correlated Metacognitive Signal]] — The confidence affordance's load-bearing finding (Coutinho et al. 2021) and the architecture-vs-significance calibration the AI-control results must respect
+- [[concepts/anti-correlated-metacognitive-signal|Anti-Correlated Metacognitive Signal]] — The confidence affordance's load-bearing finding (Rebouillat et al. 2021) and the architecture-vs-significance calibration the AI-control results must respect
 - [[voids/non-human-minds-as-void-explorers|Non-Human Minds as Void-Explorers]] — The probe framework this article specialises from conceptual reach to introspective self-access, and the inheritance-problem caution
 - [[concepts/process-content-distinction|The Process/Content Distinction]] — The caution locating AI-control results on the process side, where introspective access to causal machinery is least reliable
 
@@ -157,10 +157,10 @@ This synthesis draws on:
 
 ## References
 
-1. Coutinho, M. V. C., Mocaiber, I., Bortolanza Filho, P., Pereira, M. G., & Volchan, E. (2021). People confabulate with high confidence when their decisions are supported by weak internal variables. *Scientific Reports*, 11, 4842.
-2. Dijkstra, N., & Fleming, S. M. (2024). Confidence ratings do not distinguish imagination from reality. *Journal of Vision*, 24(5).
-3. Johansson, P., Hall, L., Sikström, S., & Olsson, A. (2005). Failure to detect mismatches between intention and outcome in a simple decision task. *Science*, 310(5745), 116–119.
-4. Nisbett, R. E., & Wilson, T. D. (1977). Telling more than we can know: Verbal reports on mental processes. *Psychological Review*, 84(3), 231–259.
+1. Dijkstra, N., & Fleming, S. M. (2024). Confidence ratings do not distinguish imagination from reality. *Journal of Vision*, 24(5).
+2. Johansson, P., Hall, L., Sikström, S., & Olsson, A. (2005). Failure to detect mismatches between intention and outcome in a simple decision task. *Science*, 310(5745), 116–119.
+3. Nisbett, R. E., & Wilson, T. D. (1977). Telling more than we can know: Verbal reports on mental processes. *Psychological Review*, 84(3), 231–259.
+4. Rebouillat, B., Leonetti, J. M., & Kouider, S. (2021). People confabulate with high confidence when their decisions are supported by weak internal variables. *Neuroscience of Consciousness*, 2021(1), niab004.
 5. Schwitzgebel, E. (2011). *Perplexities of Consciousness*. MIT Press.
 6. Butlin, P., Long, R., Elmoznino, E., et al. (2023). Consciousness in Artificial Intelligence: Insights from the Science of Consciousness. arXiv:2308.08708.
 7. Sloman, A. (1984). The structure of the space of possible minds. In *The Mind and the Machine*. Ellis Horwood.

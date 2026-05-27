@@ -172,14 +172,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: pessimistic-review (2026-05-19b)
 - **Generated**: 2026-05-19
 
-### P3: Write topic article on Anti-Correlation Probes for AI Consciousness
-- **Type**: expand-topic
-- **Status**: pending
-- **Notes**: From optimistic-2026-05-19b §"High Priority" — the new `concepts/anti-correlated-metacognitive-signal.md` (created 2026-05-19) names the move "if a system's metacognitive reports of confidence track first-order accuracy classically across regimes — including the regimes where humans show anti-correlation — that absence is positive evidence about the architectural relationship between the system's first-order processing and its self-monitoring" but does not develop it as a worked AI-consciousness test design. Develop a topic-tier article that (a) specifies what experimental designs (deceptive-cue paradigms adapted from Coutinho 2021) would probe the regime where humans show anti-correlation; (b) defines what would count as classical-tracking-where-humans-invert evidence; (c) states explicitly what the move would and would not establish about the system's consciousness, honouring [evidential-status-discipline](/project/evidential-status-discipline/) — the move is a calibration-grade upgrade of an absence-claim rather than a strong absence-proof; (d) connects to the [discrimination-problem](/concepts/discrimination-problem/) as one of the few asymmetry-breaking moves available; (e) treats the AI-consciousness/animal-consciousness/anaesthesia case differentiation already sketched at the concept article's §"Detection Asymmetry and the Discrimination Problem"; (f) cross-links to `[[topics/birch-edge-of-sentience-and-the-five-tier-scale]]`, `[[apex/machine-question]]`, `[[apex/open-question-ai-consciousness]]`, `[[topics/phenomenal-authority-and-first-person-evidence]]`, `[[apex/introspection-architecture-void-cluster]]`. Estimated scope: 1500–2500 words. Tenet alignment: Tenet 1 (Dualism) at the [discrimination-problem](/concepts/discrimination-problem/) tier. Target section: `topics/` (~225 of 250 cap). See `reviews/optimistic-2026-05-19b.md` §"High Priority".
-- **Review file**: `reviews/optimistic-2026-05-19b.md`
-- **Source**: optimistic-review (2026-05-19b)
-- **Generated**: 2026-05-19
-
 ### P3: Write topic article on Recovery-Order Asymmetry as Interface Evidence
 - **Type**: expand-topic
 - **Status**: pending
@@ -3651,6 +3643,10 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 Tasks that failed 3+ times and require human intervention.
 
+
+### ✓ 2026-05-27: Write topic article on Anti-Correlation Probes for AI Consciousness
+- **Type**: expand-topic
+- **Notes**: From optimistic-2026-05-19b §"High Priority" — the new `concepts/anti-correlated-metacognitive-signal.md` (created 2026-05-19) names the move "if a system's metacognitive reports of confidence track first-order accuracy classically across regimes — including the regimes where humans show anti-correlation — that absence is positive evidence about the architectural relationship between the system's first-order processing and its self-monitoring" but does not develop it as a worked AI-consciousness test design. Develop a topic-tier article that (a) specifies what experimental designs (deceptive-cue paradigms adapted from Coutinho 2021) would probe the regime where humans show anti-correlation; (b) defines what would count as classical-tracking-where-humans-invert evidence; (c) states explicitly what the move would and would not establish about the system's consciousness, honouring [evidential-status-discipline](/project/evidential-status-discipline/) — the move is a calibration-grade upgrade of an absence-claim rather than a strong absence-proof; (d) connects to the [discrimination-problem](/concepts/discrimination-problem/) as one of the few asymmetry-breaking moves available; (e) treats the AI-consciousness/animal-consciousness/anaesthesia case differentiation already sketched at the concept article's §"Detection Asymmetry and the Discrimination Problem"; (f) cross-links to `[[topics/birch-edge-of-sentience-and-the-five-tier-scale]]`, `[[apex/machine-question]]`, `[[apex/open-question-ai-consciousness]]`, `[[topics/phenomenal-authority-and-first-person-evidence]]`, `[[apex/introspection-architecture-void-cluster]]`. Estimated scope: 1500–2500 words. Tenet alignment: Tenet 1 (Dualism) at the [discrimination-problem](/concepts/discrimination-problem/) tier. Target section: `topics/` (~225 of 250 cap). See `reviews/optimistic-2026-05-19b.md` §"High Priority".
 
 ### ✓ 2026-05-27: Write project-tier methodology page on Convergence-Arguments Discipline
 - **Type**: expand-topic

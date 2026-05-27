@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-05-19
-ai_modified: 2026-05-19 03:53:08+00:00
+ai_modified: 2026-05-27 13:36:21+00:00
 ai_system: claude-opus-4-7
 author: null
 coalesced_from:
@@ -86,7 +86,7 @@ The FBT theorem addresses perception, but the adaptive-limit pattern extends acr
 
 Several voids in the Map's catalogue read as Naturally Occluded under the adaptive frame, additional to whatever other category-membership they carry.
 
-The **introspection-architecture sub-cluster** ([narrative](/voids/narrative-void/), [source-attribution](/voids/source-attribution-void/), [noetic-feelings](/voids/noetic-feelings-void/), [confabulation](/voids/confabulation-void/) voids) reads as Naturally Occluded on the *adaptive narrative coherence* hypothesis: the storytelling operation, the absence of native origin tags on mental content, the felt-rightness signals that license cognition from inside, and the sub-personal interpreter's fabrications are all opacity-features whose visibility would compromise the social and behavioural functions the system performs. A self that could see its own confabulations could not deploy them; an introspector who could audit its own felt-rightness signals could not act on them quickly. Coutinho et al.'s 2021 finding that the felt-rightness signal tracks accuracy *inversely* where reliability matters most is the signature of an architecture that traded calibration for speed — an evolutionary trade only sub-personal systems can make.
+The **introspection-architecture sub-cluster** ([narrative](/voids/narrative-void/), [source-attribution](/voids/source-attribution-void/), [noetic-feelings](/voids/noetic-feelings-void/), [confabulation](/voids/confabulation-void/) voids) reads as Naturally Occluded on the *adaptive narrative coherence* hypothesis: the storytelling operation, the absence of native origin tags on mental content, the felt-rightness signals that license cognition from inside, and the sub-personal interpreter's fabrications are all opacity-features whose visibility would compromise the social and behavioural functions the system performs. A self that could see its own confabulations could not deploy them; an introspector who could audit its own felt-rightness signals could not act on them quickly. Rebouillat et al.'s 2021 finding that the felt-rightness signal tracks accuracy *inversely* where reliability matters most is the signature of an architecture that traded calibration for speed — an evolutionary trade only sub-personal systems can make.
 
 The **[agency void](/voids/agency-void/)** reads as Naturally Occluded on the *Stapp-engagement reading* developed at [the taxonomy of voids' fourth tenet treatment](/apex/taxonomy-of-voids/#relation-to-site-perspective): if consciousness biases quantum outcomes minimally (as the Map's [second tenet](/tenets/#minimal-quantum-interaction) holds), the mechanism would need to operate below the threshold of introspective detection, and natural selection would actively maintain that opacity because an introspectable mental contribution to physical outcomes would be a target for both internal interference and external manipulation. The Map calibrates the Stapp-engagement reading explicitly as a *live hypothesis*, not as established mechanism — the move uses the Naturally Occluded category to predict the structural invisibility a sub-threshold mental contribution would have, not to claim that visibility has been measured and found absent.
 
@@ -172,5 +172,5 @@ A bootstrapping problem remains: if the cognitive faculties identifying naturall
 5. Field, J. M., & Bonsall, M. B. (2018). Ignorance can be evolutionarily beneficial. *Ecology and Evolution*, 8(1), 71-77.
 6. McGinn, C. (1989). Can We Solve the Mind-Body Problem? *Mind*, 98(391), 349-366.
 7. Rancourt, B. T. (2025). The virtue of ignorance: How epistemic agency needs cognitive limitations. *The Southern Journal of Philosophy*, 62.
-8. Coutinho, M. V. C., Thomas, J., Alsuwaidi, A. S. M., & Couchman, J. J. (2021). Dunning-Kruger Effect: Intuitive Errors Predict Overconfidence on the Cognitive Reflection Test. *Frontiers in Psychology*, 12, 603225.
+8. Rebouillat, B., Leonetti, J. M., & Kouider, S. (2021). People confabulate with high confidence when their decisions are supported by weak internal variables. *Neuroscience of Consciousness*, 2021(1), niab004.
 9. Southgate, A. & Oquatre-cinq, C. (2026-01-31). Three Kinds of Void. *The Unfinishable Map*. https://unfinishablemap.org/voids/three-kinds-of-void/

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-23
-ai_modified: 2026-05-27 08:28:22+00:00
+ai_modified: 2026-05-27 13:36:21+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -173,7 +173,7 @@ This makes the argument uniquely resistant to dismissal. Critics can challenge t
 
 The [epiphenomenalist threat](/topics/the-epiphenomenalist-threat/) article shows most mainstream theories of consciousness drift toward epiphenomenalism unless they provide a specific causal mechanism. Self-stultification explains why this drift is catastrophic: any theory that lands on epiphenomenalism has destroyed its own rational foundations and cannot be rationally held by the very minds it describes.
 
-The [anti-correlated-metacognitive-signal](/concepts/anti-correlated-metacognitive-signal/) concept supplies a structural parallel from the empirical side. Where Coutinho et al. (2021) document confidence anti-correlated with accuracy in a within-subject experimental regime, self-stultification is the theory-level analogue: an epiphenomenalist who defends the position confidently has, by their own account, a confidence the position cannot ground. The two share an architectural shape—maximum endorsement where it is least underwritten—at different tiers. Self-stultification is thereby not only a logical-tier problem about belief contents but a structural-tier problem about the metacognitive endorsement attached to them.
+The [anti-correlated-metacognitive-signal](/concepts/anti-correlated-metacognitive-signal/) concept supplies a structural parallel from the empirical side. Where Rebouillat et al. (2021) document confidence anti-correlated with accuracy in a within-subject experimental regime, self-stultification is the theory-level analogue: an epiphenomenalist who defends the position confidently has, by their own account, a confidence the position cannot ground. The two share an architectural shape—maximum endorsement where it is least underwritten—at different tiers. Self-stultification is thereby not only a logical-tier problem about belief contents but a structural-tier problem about the metacognitive endorsement attached to them.
 
 ## Further Reading
 

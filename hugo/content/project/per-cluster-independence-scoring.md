@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-05-19
-ai_modified: 2026-05-25 13:30:00+00:00
+ai_modified: 2026-05-27 13:36:21+00:00
 ai_system: claude-opus-4-7
 author: null
 concepts: []
@@ -89,7 +89,7 @@ The 2026-05-11 retraction (recorded at the article's §"Relation to Site Perspec
 
 ### Exhibit Two: The Four-Void Introspection-Architecture Cluster
 
-[The introspection-architecture sub-cluster](/topics/introspection-architecture-independence-scoring/) catalogues four voids — narrative, source-attribution, noetic-feelings, confabulation — sharing the architectural signature *introspection delivers reconstruction rather than readout*. The cluster's anchors are predominantly empirical and clinical: Gazzaniga's split-brain findings, Schnider's orbitofrontal reality filter, Nisbett-Wilson's 1977 result, Johansson-Hall's choice-blindness paradigm, Coutinho et al.'s 2021 anti-correlation finding, Hirstein's catalogue across anosognosia and Capgras, with healthy-adult and patient-population paradigms in distinct channels.
+[The introspection-architecture sub-cluster](/topics/introspection-architecture-independence-scoring/) catalogues four voids — narrative, source-attribution, noetic-feelings, confabulation — sharing the architectural signature *introspection delivers reconstruction rather than readout*. The cluster's anchors are predominantly empirical and clinical: Gazzaniga's split-brain findings, Schnider's orbitofrontal reality filter, Nisbett-Wilson's 1977 result, Johansson-Hall's choice-blindness paradigm, Rebouillat et al.'s 2021 anti-correlation finding, Hirstein's catalogue across anosognosia and Capgras, with healthy-adult and patient-population paradigms in distinct channels.
 
 The cluster's profile:
 

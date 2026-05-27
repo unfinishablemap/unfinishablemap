@@ -4,7 +4,7 @@ description: "A worked exhibit applying the voids-circularity discount to the fo
 created: 2026-05-15
 modified: 2026-05-25
 human_modified:
-ai_modified: 2026-05-25T21:05:15+00:00
+ai_modified: 2026-05-27T13:36:21+00:00
 last_deep_review: 2026-05-17T14:30:00+00:00
 draft: false
 topics:
@@ -84,7 +84,7 @@ The voids-circularity discount operates on (4) most directly: framework-independ
 
 **Johansson & Hall 2005.** Choice blindness: when a selected card was covertly substituted, most subjects accepted and justified the substitute. Narrowed by 2020–2021 replication distinguishing concurrent from retrospective measures, strengthened by pupillometry showing autonomic recognition of the swap absent verbal flagging ([[topics/pupillometry-behavioural-channel|behavioural channel]]).
 
-**Coutinho et al. 2021.** Regime-conditional conditions under which felt-rightness *anti*-correlates with accuracy, confidence rising as performance degrades — not a universal inversion.
+**Rebouillat et al. 2021.** Regime-conditional conditions under which felt-rightness *anti*-correlates with accuracy, confidence rising as performance degrades — not a universal inversion.
 
 **Hirstein 2005** treats confabulation as the output of an editing-and-selection system whose failure modes span anosognosia, Capgras, anomia, and split-brain — convergent with Schnider at mechanism level, broader at population.
 
@@ -96,7 +96,7 @@ Sorting anchors by *kind* of evidence isolates how far each channel can bear aga
 
 **Patient-population channel.** Gazzaniga split-brain, Schnider orbitofrontal, Hirstein anosognosia/Capgras. The hope is that these populations' introspective architecture *differs* from neurotypical, so convergence cannot run only through shared machinery — but the discharge works only if the divergence is in the introspective architecture itself rather than in some upstream *input* to a shared one. A common-cause theorist answers that the same confabulatory narration machine runs in patients and neurotypicals: a callosotomy removes an interhemispheric pathway, an orbitofrontal lesion damages a reality-filter — the lesions change the machine's *inputs*, not its *kind*. The lesion literature does not settle this, so the channel supplies the catalogue's most architecturally distinct human evidence without cleanly discharging the strongest null.
 
-**Healthy-adult experimental channel.** Nisbett-Wilson, Johansson-Hall, Coutinho, Wheatley-Haidt, Wegner, Pronin — within-neurotypical paradigms on shared architecture. Cannot discharge an objection locating the shared upstream *in* that architecture, but adds diversity.
+**Healthy-adult experimental channel.** Nisbett-Wilson, Johansson-Hall, Rebouillat, Wheatley-Haidt, Wegner, Pronin — within-neurotypical paradigms on shared architecture. Cannot discharge an objection locating the shared upstream *in* that architecture, but adds diversity.
 
 **Cross-tradition channel.** Buddhist *kleshas* plus Advaita, Sufi, and Stoic sources at calibration-grade weight; the [full audit below](#the-cross-tradition-channel) finds historical isolation only partly satisfied once Neoplatonist mediation is honoured.
 
@@ -107,7 +107,7 @@ Sorting anchors by *kind* of evidence isolates how far each channel can bear aga
 The [[common-cause-null|common-cause-null discipline]] classifies each anchor by whether the generating framework *predicted* the signature (because-prediction) or *did not predict* it and reported it anyway (despite-commitments); load-bearing force concentrates in the latter. Classification operates on the *observation at the time it was made*, not on whatever framework the author later built to explain it — else every mature framework would retroactively collapse its motivating findings into because-prediction.
 
 
-**Despite-commitments anchors.** Nisbett-Wilson 1977 (cognitivism did not predict it; anomalous for a decade); Johansson-Hall 2005 (unpredicted by rationality-and-choice models); Coutinho 2021 (confidence-inversion contradicting monotonic accuracy-tracking); Schnider and Hirstein (patient-population dissociation no model predicted). Gazzaniga's split-brain *observations* (1978) are despite-commitments against the pre-1978 cognitivist default — even though his *interpreter framework* (1985+) was built later to account for them.
+**Despite-commitments anchors.** Nisbett-Wilson 1977 (cognitivism did not predict it; anomalous for a decade); Johansson-Hall 2005 (unpredicted by rationality-and-choice models); Rebouillat 2021 (confidence-inversion contradicting monotonic accuracy-tracking); Schnider and Hirstein (patient-population dissociation no model predicted). Gazzaniga's split-brain *observations* (1978) are despite-commitments against the pre-1978 cognitivist default — even though his *interpreter framework* (1985+) was built later to account for them.
 
 **Because-prediction anchors.** Haidt's moral-dumbfounding and Wheatley's hypnotic-suggestion work sit within the social-intuitionist programme whose central claim *is* that moral judgement precedes justification; Gazzaniga's interpreter framework, once articulated, generated confirmed predictions. Not common-cause failures, but not despite-commitments either.
 
@@ -217,27 +217,27 @@ Translations across substrates and tradition vocabularies are *interpretive* thr
 7. Carruthers, P. (2011). *The Opacity of Mind*. OUP.
 8. Carruthers, P. (2021). Model-free metacognition. *Cognition*.
 9. Clayton, N. S. & Dickinson, A. (1998). Episodic-like memory in scrub jays. *Nature* 395: 272–274.
-10. Coutinho, M. V. C., Couchman, J. J., Redford, J. S., & Beran, M. J. (2021). Studies of paradoxical metacognition: How introspective evidence diverges from accuracy. *Consciousness and Cognition* 89: 103080.
-11. Crystal, J. D. (2014). Validation of a rodent model of source memory. *Biology Letters* 10: 20140064.
-12. Frede, M. (1983). Stoics and skeptics on clear and distinct impressions. In Burnyeat (ed.), *The Skeptical Tradition*, 65–93.
-13. Gazzaniga, M. S. (1985). *The Social Brain: Discovering the Networks of the Mind*. Basic Books.
-14. Gazzaniga, M. S. & LeDoux, J. E. (1978). *The Integrated Mind*. Plenum Press.
-15. Al-Ghazālī (12th c.). *Iḥyāʾ ʿulūm al-dīn*, Bks. 22–23, 29.
-16. Haidt, J. (2001). The emotional dog and its rational tail. *Psychological Review* 108(4): 814–834.
-17. Hampton, R. R. (2001). Rhesus monkeys know when they remember. *PNAS* 98(9): 5359–5362.
-18. Hampton, R. R. (2019). Dissociation of memory signals for metamemory. *Animal Cognition* 22: 331–341.
-19. Hirstein, W. (2005). *Brain Fiction: Self-Deception and the Riddle of Confabulation*. MIT Press.
-20. Johansson, P., Hall, L., Sikström, S., & Olsson, A. (2005). Failure to detect mismatches between intention and outcome in a simple decision task. *Science* 310(5745): 116–119.
-21. Johnson, M. K., Hashtroudi, S., & Lindsay, D. S. (1993). Source monitoring. *Psychological Bulletin* 114(1): 3–28.
-22. Kepecs, A. et al. (2008). Neural correlates of decision confidence. *Nature* 455: 227–231.
-23. Kepecs, A. et al. (2014). OFC is required for optimal waiting based on decision confidence. *Neuron* 84: 190–201.
-24. Kepecs, A. et al. (2020). Behavior- and modality-general representation of confidence in OFC. *Cell* 182(1): 112–126.
-25. Kohda, M. et al. (2019/2023/2025). Mark-test and self-face recognition in cleaner wrasse. *PLOS Biology*; *PNAS*; *Sci Reports*.
-26. Le Pelley, M. E. (2012). Metacognitive monkeys or associative animals? *J Exp Psych: Anim Behav Proc*.
-27. Lindsey, J. et al. (Anthropic, 2025). Emergent introspective awareness in LLMs. anthropic.com/research/introspection
-28. Lindsey, J. et al. (Anthropic, 2026). Introspection adapters. alignment.anthropic.com/2026/introspection-adapters/
-29. Al-Muḥāsibī (9th c.). *Kitāb al-Riʿāya*.
-30. Nisbett, R. E. & Wilson, T. D. (1977). Telling more than we can know: Verbal reports on mental processes. *Psychological Review* 84(3): 231–259.
+10. Crystal, J. D. (2014). Validation of a rodent model of source memory. *Biology Letters* 10: 20140064.
+11. Frede, M. (1983). Stoics and skeptics on clear and distinct impressions. In Burnyeat (ed.), *The Skeptical Tradition*, 65–93.
+12. Gazzaniga, M. S. (1985). *The Social Brain: Discovering the Networks of the Mind*. Basic Books.
+13. Gazzaniga, M. S. & LeDoux, J. E. (1978). *The Integrated Mind*. Plenum Press.
+14. Al-Ghazālī (12th c.). *Iḥyāʾ ʿulūm al-dīn*, Bks. 22–23, 29.
+15. Haidt, J. (2001). The emotional dog and its rational tail. *Psychological Review* 108(4): 814–834.
+16. Hampton, R. R. (2001). Rhesus monkeys know when they remember. *PNAS* 98(9): 5359–5362.
+17. Hampton, R. R. (2019). Dissociation of memory signals for metamemory. *Animal Cognition* 22: 331–341.
+18. Hirstein, W. (2005). *Brain Fiction: Self-Deception and the Riddle of Confabulation*. MIT Press.
+19. Johansson, P., Hall, L., Sikström, S., & Olsson, A. (2005). Failure to detect mismatches between intention and outcome in a simple decision task. *Science* 310(5745): 116–119.
+20. Johnson, M. K., Hashtroudi, S., & Lindsay, D. S. (1993). Source monitoring. *Psychological Bulletin* 114(1): 3–28.
+21. Kepecs, A. et al. (2008). Neural correlates of decision confidence. *Nature* 455: 227–231.
+22. Kepecs, A. et al. (2014). OFC is required for optimal waiting based on decision confidence. *Neuron* 84: 190–201.
+23. Kepecs, A. et al. (2020). Behavior- and modality-general representation of confidence in OFC. *Cell* 182(1): 112–126.
+24. Kohda, M. et al. (2019/2023/2025). Mark-test and self-face recognition in cleaner wrasse. *PLOS Biology*; *PNAS*; *Sci Reports*.
+25. Le Pelley, M. E. (2012). Metacognitive monkeys or associative animals? *J Exp Psych: Anim Behav Proc*.
+26. Lindsey, J. et al. (Anthropic, 2025). Emergent introspective awareness in LLMs. anthropic.com/research/introspection
+27. Lindsey, J. et al. (Anthropic, 2026). Introspection adapters. alignment.anthropic.com/2026/introspection-adapters/
+28. Al-Muḥāsibī (9th c.). *Kitāb al-Riʿāya*.
+29. Nisbett, R. E. & Wilson, T. D. (1977). Telling more than we can know: Verbal reports on mental processes. *Psychological Review* 84(3): 231–259.
+30. Rebouillat, B., Leonetti, J. M., & Kouider, S. (2021). People confabulate with high confidence when their decisions are supported by weak internal variables. *Neuroscience of Consciousness* 2021(1), niab004.
 31. Robertson, D. (2019). *The Philosophy of Cognitive-Behavioural Therapy* (2nd ed.). Routledge.
 32. Schnider, A. (2008). *The Confabulating Mind: How the Brain Creates Reality*. Oxford University Press.
 33. Seneca (1st c. CE). *De Ira*.

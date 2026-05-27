@@ -4,7 +4,7 @@ description: "Human+AI exploration of how pupil-dilation measurements expose the
 created: 2026-05-16
 modified: 2026-05-16
 human_modified:
-ai_modified: 2026-05-16T09:23:00+00:00
+ai_modified: 2026-05-27T13:36:21+00:00
 last_deep_review: 2026-05-16T09:23:00+00:00
 draft: false
 topics:
@@ -98,7 +98,7 @@ The channel-level dissociation is consistent with both physicalist and dualist a
 
 **Bidirectional Interaction** receives a methodological supplement from the pupillometry literature. If consciousness does any of the small-quantum-amplification work the Map's [[tenets#^bidirectional-interaction|Bidirectional Interaction tenet]] envisages, the [[voids/confabulation-void|confabulation void]] guarantees that the verbal channel will retroactively label every action as caused by reasons-the-introspector-now-supplies. The pupillary channel, being involuntary and timed against external events, provides a partial external verification that the verbal-channel report and the bodily-channel signature can be separately registered. The Map does not claim the pupillary signature *is* the consciousness-side influence; the claim is more modest. It is that a method that registers bodily evidence independently of verbal report is methodologically *required* for any future programme that hopes to constrain the consciousness-interface question empirically — and that pupillometry, alongside EEG and fMRI, is among the developed instruments such a programme would deploy.
 
-**Evidential-status discipline.** The pupillometry findings are *contested but real*: a robust pattern at the structural level, with effect sizes that have been revised and individual studies that have not all replicated. The Map registers the finding as a calibration anchor for the introspection-architecture sub-cluster rather than as a settled empirical result. The [[voids/confabulation-void#detection-the-felt-signal-operates-inversely|detection face of the confabulation void]] cites the Coutinho et al. 2021 anti-correlation finding alongside the choice-blindness pupillometry results as the convergent empirical anchor for the structural claim.
+**Evidential-status discipline.** The pupillometry findings are *contested but real*: a robust pattern at the structural level, with effect sizes that have been revised and individual studies that have not all replicated. The Map registers the finding as a calibration anchor for the introspection-architecture sub-cluster rather than as a settled empirical result. The [[voids/confabulation-void#detection-the-felt-signal-operates-inversely|detection face of the confabulation void]] cites the Rebouillat et al. 2021 anti-correlation finding alongside the choice-blindness pupillometry results as the convergent empirical anchor for the structural claim.
 
 A final reflexive note. The article's case rests on the verbal-channel/bodily-channel dissociation being *demonstrable from a third-person register*. The introspector reading this article cannot, from the inside, verify the dissociation in their own case — the pupillary channel is not first-person-accessible. The case is therefore one where structural third-person evidence is doing methodological work that no first-person discipline can replicate. This is part of why the Map treats pupillometry as one of the load-bearing empirical anchors for the [[voids/confabulation-void|confabulation void]]'s detection face, while remaining cautious about what the finding *settles*.
 
@@ -116,7 +116,7 @@ A final reflexive note. The article's case rests on the verbal-channel/bodily-ch
 ## References
 
 1. Beatty, J. (1982). Task-evoked pupillary responses, processing load, and the structure of processing resources. *Psychological Bulletin* 91(2), 276–292.
-2. Coutinho, M. V. C., Mocaiber, I., Bortolanza Filho, P., Pereira, M. G., & Volchan, E. (2021). People confabulate with high confidence when their decisions are supported by weak internal variables. *Scientific Reports* 11, 4842.
+2. Rebouillat, B., Leonetti, J. M., & Kouider, S. (2021). People confabulate with high confidence when their decisions are supported by weak internal variables. *Neuroscience of Consciousness* 2021(1), niab004.
 3. Johansson, P., Hall, L., Sikström, S., & Olsson, A. (2005). Failure to detect mismatches between intention and outcome in a simple decision task. *Science* 310, 116–119.
 4. Joshi, S., Li, Y., Kalwani, R. M., & Gold, J. I. (2016). Relationships between pupil diameter and neuronal activity in the locus coeruleus, colliculi, and cingulate cortex. *Neuron* 89(1), 221–234.
 5. Mathôt, S. (2018). Pupillometry: Psychology, physiology, and function. *Journal of Cognition* 1(1), 16.

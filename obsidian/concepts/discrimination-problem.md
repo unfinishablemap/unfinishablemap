@@ -4,7 +4,7 @@ description: "How can introspection distinguish genuine phenomenal consciousness
 created: 2026-05-18
 modified: 2026-05-19
 human_modified: null
-ai_modified: 2026-05-19T12:58:30+00:00
+ai_modified: 2026-05-27T13:36:21+00:00
 last_deep_review: 2026-05-19T21:00:00+00:00
 draft: false
 topics:
@@ -108,7 +108,7 @@ A complementary kind of boundary case operates *within* a single subject's pheno
 
 ## Asymmetry-Breaking Signatures {#asymmetry-breakers}
 
-The discrimination problem's structural asymmetry—the difficulty of moving any absence-claim above *live hypothesis* by negative evidence alone—admits a small number of architectural moves that do not solve the problem but supply *structurally motivated calibration* for absence-claims. The [[anti-correlated-metacognitive-signal|anti-correlated metacognitive signal]] is one of them: if a system's confidence reports track first-order accuracy classically across every regime—including regimes where human metacognition shows anti-correlation under weak internal evidence (Coutinho et al. 2021)—that absence is positive evidence about the architectural relationship between first-order processing and self-monitoring. The move is calibration-grade rather than proof-of-absence: the absence of an anti-correlated signature is compatible with multiple architectures, some functionally similar to human introspection and some not. But it is one of the few channels through which the absence side of the discrimination question can receive disciplined upgrade-pressure rather than being treated as eternally underdetermined.
+The discrimination problem's structural asymmetry—the difficulty of moving any absence-claim above *live hypothesis* by negative evidence alone—admits a small number of architectural moves that do not solve the problem but supply *structurally motivated calibration* for absence-claims. The [[anti-correlated-metacognitive-signal|anti-correlated metacognitive signal]] is one of them: if a system's confidence reports track first-order accuracy classically across every regime—including regimes where human metacognition shows anti-correlation under weak internal evidence (Rebouillat et al. 2021)—that absence is positive evidence about the architectural relationship between first-order processing and self-monitoring. The move is calibration-grade rather than proof-of-absence: the absence of an anti-correlated signature is compatible with multiple architectures, some functionally similar to human introspection and some not. But it is one of the few channels through which the absence side of the discrimination question can receive disciplined upgrade-pressure rather than being treated as eternally underdetermined.
 
 ## Relation to Site Perspective {#tenets}
 

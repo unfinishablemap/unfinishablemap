@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-05-16
-ai_modified: 2026-05-16 00:52:00+00:00
+ai_modified: 2026-05-27 13:36:21+00:00
 ai_system: claude-opus-4-7
 author: null
 concepts:
@@ -98,7 +98,7 @@ The criteria do four kinds of work the catalogue depends on.
 
 **Discrimination against the common-cause null.** [The voids-circularity discount](/project/voids-circularity-discount/) formalises the per-cluster scoring procedure: each cluster is audited for which sources supply despite-commitments observation versus because-prediction observation, with patient-population, cross-species, and historically-isolated-tradition evidence as the structural defences against the null. The four criteria are the scoring categories the discount uses.
 
-**Identifying which channels are load-bearing.** For each cluster, the criteria reveal which evidence-channels carry the cluster's force. The introspection-architecture cluster's load-bearing force concentrates in patient-population despite-commitments anchors (Schnider, Hirstein) and healthy-adult despite-commitments anchors (Nisbett-Wilson, Johansson-Hall, Coutinho); its because-prediction anchors (Gazzaniga's interpreter, Haidt's social intuitionism, Wheatley's hypnotic suggestion) supply confirmation but not triangulation. Scoring against the criteria makes this load-distribution visible.
+**Identifying which channels are load-bearing.** For each cluster, the criteria reveal which evidence-channels carry the cluster's force. The introspection-architecture cluster's load-bearing force concentrates in patient-population despite-commitments anchors (Schnider, Hirstein) and healthy-adult despite-commitments anchors (Nisbett-Wilson, Johansson-Hall, Rebouillat); its because-prediction anchors (Gazzaniga's interpreter, Haidt's social intuitionism, Wheatley's hypnotic suggestion) supply confirmation but not triangulation. Scoring against the criteria makes this load-distribution visible.
 
 **Calibrating evidential weight.** The criteria translate cluster structure into a calibrated label from the [evidential-status discipline](/project/evidential-status-discipline/)'s five-tier scale (*established → strongly supported → realistic possibility → live hypothesis → speculative integration*). A cluster scoring high on signature specificity, structured persistence, and framework independence with mixed cross-observer convergence is in a position to earn *strongly supported* for the architectural finding and *realistic possibility* for the interpretive significance — but not *established* for either, and not even *strongly supported* for the interpretive significance without further independent triangulation.
 
