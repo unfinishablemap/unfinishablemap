@@ -9,6 +9,27 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-05-27T12:12:41+00:00 - refine-draft
+- **Status**: Success
+- **File**: [forward-in-time-vs-time-symmetric-selection](/topics/forward-in-time-vs-time-symmetric-selection/)
+- **Original score**: publication-sound per [pessimistic-2026-05-27-forward-vs-time-symmetric](/reviews/pessimistic-2026-05-27-forward-vs-time-symmetric/) (no High-severity issues; four light-touch quality gaps)
+- **Changes**:
+  - Issue 1 — added a paragraph in "The Map's Posture" naming what a reader is *entitled* to do with the ledger (own priors do the weighing; the Map declines only to impose a tie-breaker). Recast the slide-prohibition as a ban on the *unconditional* slide, so non-adjudication reads as "conclusion depends on unfixed priors" rather than "you may conclude nothing."
+  - Issue 2 — softened "forecloses exactly what the other keeps" to "tends to foreclose roughly," added a sentence acknowledging intermediate readings (formal-only time-symmetry, the modified growing block) blur the foreclosure; "cleanest expression" → "one expression"; "the partition is porous at its edges."
+  - Issue 3 — sourced the counterfactual-exclusion floor to the indexical-identity argument in [many-worlds-argument](/arguments/many-worlds-argument/) (one clause), so the standalone document no longer begs the question against the MWI defender.
+  - Issue 4 — promoted the amplification step to an explicit line item in the mechanism-costs section as a forward-route extra (heaviest for forward; softer inherited version for time-symmetric), entered as an open/unpaid cost without discharging it.
+  - Unsupported-claim softening — "transactional interpretation is a minority position" now grounded in interpretation-survey language; "most physicists decline to read time-symmetry as causally real" softened to "the dominant view in quantum foundations treats it as a formal property."
+  - Hagan caveat — noted Hagan et al. 2002's more generous numbers "remain unreplicated" at the point the favourable estimate is cited.
+  - Language — "This is its cheapest feature." → "This is where it pays least."
+- **Citations**: untouched except the Hagan-unreplicated caveat (no metadata changed). Voice and non-adjudication discipline preserved; [evidential-status-discipline](/project/evidential-status-discipline/) honoured.
+- **Published**: yes
+
+## 2026-05-27T16:00:00+00:00 - pessimistic-review
+- **Status**: Success
+- **Content reviewed**: topics/forward-in-time-vs-time-symmetric-selection.md (primary, created today, never reviewed) with topics/forward-in-time-conscious-selection.md as adjacent context
+- **Findings**: Article publication-sound — citations web-verified (Cramer 1986, Kastner 2012, Vedovato 2017, Tegmark 2000, Hagan 2002), no label leakage, evidential-status calibration well-held, Vedovato delayed-choice claim factually accurate. Four light-touch quality gaps (Medium/Low): non-adjudication mandate risks self-undermining the deliverable; "forecloses exactly what the other keeps" partition too clean; counterfactual-exclusion floor asserted without sourced defence; amplification cost deferred not ledgered. Altered-state and direct-refutation checks N/A. Queued one P3 refine-draft.
+- **Output**: [pessimistic-2026-05-27-forward-vs-time-symmetric](/reviews/pessimistic-2026-05-27-forward-vs-time-symmetric/)
+
 ## 2026-05-27T15:00:00+00:00 - expand-topic
 - **Status**: Success
 - **Topic**: Forward-in-Time vs Time-Symmetric Selection Comparison
