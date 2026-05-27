@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-05-27
-ai_modified: 2026-05-27 12:12:41+00:00
+ai_modified: 2026-05-27 16:43:03+00:00
 ai_system: claude-opus-4-7
 author: null
 concepts:
@@ -22,6 +22,7 @@ description: A side-by-side cost accounting of the Map's two route-families for 
 draft: false
 human_modified: null
 last_curated: null
+last_deep_review: 2026-05-27 16:43:03+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -72,7 +73,7 @@ The asymmetry here is sharp and worth naming explicitly, in the manner the cost-
 
 This section is where the evidential-status discipline does its hardest work: neither route is empirically established, and the "handles" below are *what each route would make detectable in principle*, not evidence either route is correct.
 
-**Forward-in-time** predicts, in principle, *detectable selection at decoherence boundaries*. Because it locates the conscious act at a specific stage of the physical process—the conversion of a decohered mixture into an outcome—it makes concrete contact with the question of whether selection respects Born-rule statistics, operates within the pointer-state menu, and is confined to brain-generated candidate sets. The [selection-only reading](/topics/selection-only-mind-influence/) sharpens this into information-theoretic signatures (a per-event log₂(N) bit ceiling, a Born-rule-preserving rate). These are far from testable today, but they are the *kind* of handle a forward, in-process mechanism makes available: it lives close enough to the physics to leave a statistical fingerprint.
+**Forward-in-time** predicts, in principle, *detectable selection at decoherence boundaries*. Because it locates the conscious act at a specific stage of the physical process—the conversion of a decohered mixture into an outcome—it makes concrete contact with the question of whether selection respects Born-rule statistics, operates within the pointer-state menu, and is confined to brain-generated candidate sets. The Born-rule constraint here is not an ad hoc add-on: the [causal-consistency-constraint](/concepts/causal-consistency-constraint/) gives independent structural reason why any corridor-compliant coupling—physical or non-physical—must preserve Born statistics, so a forward selection that did *not* respect them would be the surprising claim, not the disciplined one. The [selection-only reading](/topics/selection-only-mind-influence/) sharpens this into information-theoretic signatures (a per-event log₂(N) bit ceiling, a Born-rule-preserving rate). These are far from testable today, but they are the *kind* of handle a forward, in-process mechanism makes available: it lives close enough to the physics to leave a statistical fingerprint.
 
 **Time-symmetric** predicts *delayed-choice and Wheeler-type patterns*. The state-of-the-art handle is the extension of Wheeler's delayed-choice experiment to satellite distances by Vedovato et al. (2017), where measurement choices made after a photon's propagation determine its earlier wave-or-particle behaviour over thousands of kilometres. The Map's calibration on this is strict and must be preserved: these results are *interpretable without retrocausality, but they are also precisely what retrocausal interpretations predict*. They do not confirm the time-symmetric route; they are consistent with it. The handle the route makes available is the broad class of post-selection and delayed-choice phenomena—real, replicated physics whose retrocausal reading remains an interpretive choice rather than a forced conclusion.
 

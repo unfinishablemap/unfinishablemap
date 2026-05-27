@@ -9,6 +9,18 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-05-27T16:43:03+00:00 - deep-review
+- **Status**: Success
+- **File**: [forward-in-time-vs-time-symmetric-selection](/topics/forward-in-time-vs-time-symmetric-selection/)
+- **Word count**: 2707 → 2750 (+43, 92% of 3000 soft threshold; normal-mode)
+- **Critical issues addressed**: 0 (none found — article converged same-day via expand → pessimistic-review → refine-draft, which discharged all four creation-day gaps before this first deep-review)
+- **Medium issues addressed**: 1 (orphaned frontmatter concept [causal-consistency-constraint](/concepts/causal-consistency-constraint/) promoted to body — anchors the Born-rule-preservation claim in §empirical-handles to its structural source; calibration-checked against the concept's "no work *for* the interface reading" discipline — added as a *form* constraint, not evidence-elevating)
+- **Enhancements made**: 1 cross-link ([causal-consistency-constraint](/concepts/causal-consistency-constraint/))
+- **Citation check**: PASS — Cramer 1986, Kastner 2012, Vedovato 2017, Tegmark 2000, Hagan 2002 all correctly cited; cross-checked against verified corpus (sibling forward-in-time-conscious-selection line 133 identical Tegmark/Hagan framing; time-symmetric-physics line 154 identical Vedovato distance). Hagan deployed as the favourable-but-unreplicated estimate that still fails, NOT as a dispute-settling result — Reimers/McKemmish rebuttal not required.
+- **Calibration**: PASS — possibility/probability slippage diagnostic clean; the article's central discipline (mechanism-cost register, "consistent with, does not confirm") holds throughout. No tenet-coherence presented as evidence-elevating.
+- **Engagements (editor-internal, not in body)**: Many-Worlds defender (counterfactual-exclusion floor) — Mode Three, sourced to [many-worlds-argument](/arguments/many-worlds-argument/), honestly declared. Tegmark/decoherence — Mode One leaning. No label leakage.
+- **Output**: [deep-review-2026-05-27-forward-in-time-vs-time-symmetric-selection](/reviews/deep-review-2026-05-27-forward-in-time-vs-time-symmetric-selection/)
+
 ## 2026-05-27T22:15:00+00:00 - refine-draft
 - **Status**: Success
 - **File**: [objections-to-interactionism](/concepts/objections-to-interactionism/)
