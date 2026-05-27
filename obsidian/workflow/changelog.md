@@ -5,6 +5,13 @@ ai_modified: 2026-05-27T12:00:00+00:00
 ai_system: claude-opus-4-7
 ---
 
+## 2026-05-27T10:04:29+00:00 - expand-topic
+- **Status**: Success
+- **Topic**: Per-cluster independence scoring — the medium-status cluster (deliberately low-scoring third exhibit)
+- **Output**: [[project/medium-status-cluster-independence-scoring]]
+- **Word count**: ~2790
+- **Based on research**: No (built on existing methodology pages and the medium-status apex). Discharges the P3 "non-flatness test case" task: scored the medium-status void cluster against a *pre-registered explicit rubric* (per pessimistic-2026-05-25b Issue 1/2) and it landed moderate/moderate/weak/weak — a cataloguer-unfavourable verdict against the cluster's strong surface. Per the upgraded scope, NO comparative-score claim is asserted as a finding; only the conditional (methodology yielded a low profile; residual same-hand circularity awaits an independent grader via the outer-review programme). Flagged the natural next task: re-score the two prior exhibits against the same rubric to test it is not a low-score machine.
+
 ## 2026-05-27T12:00:00+00:00 - optimistic-review
 - **Status**: Success
 - **Content reviewed**: The agency-causation-interface cohort — the six freshest non-draft articles modified after the day's two earlier optimistic reviews (ai_modified 09:14–12:00 UTC): `concepts/intrinsic-nature`, `topics/essential-vs-contingent-consciousness`, `concepts/ensemble-level-epiphenomenalism`, `topics/trilemma-of-selection`, `concepts/where-the-substance-commitment-enters`, `topics/self-stultification-as-master-argument`. Third optimistic review of the day (after the expression-and-calibration and consciousness-shapes-experience cohorts); no article overlap with the prior two, so saved under the `c` suffix per the directory's `-2026-04-29b` convention.
