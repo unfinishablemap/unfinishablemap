@@ -766,9 +766,9 @@
   commissioned_at: '2026-05-27T03:06:50.404779+00:00'
   prompt_summary: 'Audit meaning-of-life: consciousness-grounded value vs nihilism'
   target_filename: outer-review-2026-05-27-claude-opus-4-7.md
-  status: pending
+  status: collected
   collect_attempts: 3
-  last_attempt_at: '2026-05-27T04:22:54.931169+00:00'
+  last_attempt_at: '2026-05-27T04:27:30.687652+00:00'
   failure_reason: null
   prompt_text: "Please conduct a rigorous outer review of one article on The Unfinishable\
     \ Map (https://unfinishablemap.org), a dualist philosophy-of-mind site holding\

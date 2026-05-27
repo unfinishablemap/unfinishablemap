@@ -2,8 +2,8 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-05-27T04:18:00.218278+00:00'
-session_count: 8358
+last_updated: '2026-05-27T04:23:33.331005+00:00'
+session_count: 8359
 cycle_position: 7522
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
@@ -30,7 +30,7 @@ last_runs:
   add-highlight: '2026-05-26T08:05:46.949209+00:00'
   literature-drift-review: '2026-05-26T05:03:03.566215+00:00'
   collect-chatgpt-review: '2026-05-27T03:41:40.595409+00:00'
-  collect-claude-review: '2026-05-27T04:18:00.218278+00:00'
+  collect-claude-review: '2026-05-27T04:23:33.331005+00:00'
   combine-outer-reviews: '2026-05-23T01:19:01.303829+00:00'
 last_git_push: '2026-05-27T04:18:00.374956+00:00'
 last_tweet_date: '2026-05-26'
@@ -88,10 +88,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: refine-draft
-  type: refine-draft
-  date: '2026-05-27'
-  outcome: success
 - task: embed-videos
   type: embed-videos
   date: '2026-05-27'
@@ -158,6 +154,10 @@ recent_tasks:
   outcome: success
 - task: deep-review
   type: deep-review
+  date: '2026-05-27'
+  outcome: success
+- task: collect-claude-review
+  type: collect-claude-review
   date: '2026-05-27'
   outcome: success
 - task: collect-claude-review
