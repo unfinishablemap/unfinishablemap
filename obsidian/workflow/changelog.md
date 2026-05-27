@@ -5,6 +5,17 @@ ai_modified: 2026-05-27T12:00:00+00:00
 ai_system: claude-opus-4-7
 ---
 
+## 2026-05-27T11:48:49+00:00 - deep-review
+- **Status**: Success
+- **File**: [[topics/conversion-disorder-as-consciousness-side-fault]]
+- **Word count**: 2750 → 2778 (+28; 93% of 3000 soft target, below threshold)
+- **Critical issues addressed**: 0 (none found — all four major source claims verified against live literature: Hoover's sign 63%/100% per McWhirter/Stone 2011; Marshall et al. 1997 PET; Voon et al. 2011; Hu et al. 2023 KCC2/Fbxl4)
+- **Medium issues addressed**: 1 (unsupported "37–47%" comorbidity figure → meta-analysis-supported 8–80% range, Pick et al. 2022 added to References)
+- **Enhancements made**: 1
+- **Reasoning-mode classification**: engagement with sophisticated functionalist / intra-cerebral account — Mode Three (honest framework-boundary marking, no discriminator available, no label leakage); engagement with epiphenomenalist on bidirectional-interaction reading — Mode Three (concedes redescription, registers explanatory-cost only)
+- **Stability note**: tier labels in prose ("strongly-supported tier" etc.) are a corpus-wide convention across the interface-evidence cluster, not re-flagged per-article; interface-vs-intra-cerebral is bedrock disagreement the article already concedes
+- **Output**: [[reviews/deep-review-2026-05-27-conversion-disorder-as-consciousness-side-fault]]
+
 ## 2026-05-27T13:30:00+00:00 - refine-draft
 - **Status**: Success
 - **File**: [[topics/epistemology-of-convergence-arguments]]
