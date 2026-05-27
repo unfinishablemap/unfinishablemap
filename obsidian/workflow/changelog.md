@@ -1,9 +1,23 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-27T03:00:00+00:00
+ai_modified: 2026-05-27T02:56:05+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-05-27T02:56:05+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[topics/brain-specialness-boundary]]
+- **Original score**: n/a (review CLI not run; baseline from topic-concept anchoring audit 2026-05-27)
+- **Trigger**: Audit Three (topic-concept anchoring) flag vs anchor [[locality]] (and secondarily [[attention-as-interface]]); failed checks were hedge_density (3.12/kw, below 60% of locality's 10.56/kw → target ~6.33/kw) and strong_assertions (1 strong-assertion verb where anchor uses none). Distinct from this morning's deep-review pass (commit 0a113d5c) on calibration/citations.
+- **Changes**:
+  - Strong-assertion neutralisation: "demonstrates engagement rather than evasion" → "looks like engagement rather than evasion" (the lone strong-assertion verb; anchor uses none). Strong-assertion count now 0.
+  - Hedge calibration at the load-bearing over-assertions, inheriting [[locality]]'s conditional-framing discipline without weakening the central claim: the lead's "It follows from the nature of the proposed mechanism" → "appears to follow… The argument is conditional on that mechanism being roughly right"; "Four constraints converge… It follows from the structure of the proposed mechanism" → "Four considerations seem to converge… appears to follow… None is decisive on its own"; Interface Locality ("the mechanism that may work… appears to have no analogue"); Control Loop Integration ("appear to have no such representation… there may be nothing for consciousness to select among"); Attention Scope ("plausibly defines the scope of influence… could then only bias… would mean"); Why This Matters ("perhaps, close to what embodied consciousness might be expected to look like—though that expectation is itself shaped by the framework, not an independent check on it"). Hedge density now 7.86/kw (count 16), above the 6.33/kw target and within range of the anchor's calibration profile.
+- **Preserved**: central claim unchanged — the brain-locality boundary still reads as a consequence of mechanism rather than ad hoc restriction; four-constraint structure, parapsychology section, embarrassment-objection responses, and all five tenet sections intact. No content removed; net +111 words from hedging clauses.
+- **Engagement modes (editor-internal)**: parapsychology/PEAR engagement unchanged by this pass — remains principled-agnosticism (Mode Three boundary-marking, already in place: "coherence claim, not an evidential upgrade"). No mode labels in article body.
+- **Altered-state symmetry**: not applicable (no supportive-cluster altered-state citations). No label leakage.
+- **Verification**: `evaluate_anchoring` returns no flags against any anchor (hedge_density 7.86/kw clears, strong_assertions 0 clears).
+- **Published**: yes
 
 ## 2026-05-27T02:51:31+00:00 - refine-draft
 - **Status**: Success
