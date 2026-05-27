@@ -5,6 +5,18 @@ ai_modified: 2026-05-27T02:56:05+00:00
 ai_system: claude-opus-4-7
 ---
 
+## 2026-05-27T00:00:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [[topics/phenomenology-of-resistance-across-domains]]
+- **Word count**: 3015 → 3016 (net flat; length-neutral mode, article at 101% of soft threshold)
+- **Critical issues addressed**: 0 (none found; article converged across two prior same-day reviews + one refine pass)
+- **Medium issues addressed**: 0
+- **Enhancements made**: citation hygiene only — added Graziano 2019 reference to support his named appearance in the Deflationary Challenge; removed orphan Haggard 2008 (cited nowhere) to keep the reference list net-flat; retained Falque 2025 as load-bearing Biran further-reading
+- **Engagement modes (editor-internal)**: engagement with illusionists (Wegner/Frankish/Dennett/Graziano) = Mixed — Mode One (self-undermining charge declined on the illusionist's own veridicality/reasoning distinction), Mode Two (presses the unsupported "agency self-model" label to supply a cross-domain explanation), Mode Three (residue honestly marked: "an explanatory advantage — not a decisive one"). No boundary-substitution; no label leakage in prose.
+- **Calibration**: no possibility/probability slippage — stronger/weaker claim distinction explicit, quantum-interface extension flagged speculative; a tenet-accepting reviewer would not flag any claim as overstated.
+- **Deferred (low priority, third time)**: Gendler "and others" softening; Dilthey/Makkreel-Rodi citation muddle. Schopenhauer expansion blocked by length-neutral discipline.
+- **Output**: [[reviews/deep-review-2026-05-27-phenomenology-of-resistance-across-domains]]
+
 ## 2026-05-27T02:56:05+00:00 - refine-draft
 - **Status**: Success
 - **File**: [[topics/brain-specialness-boundary]]
