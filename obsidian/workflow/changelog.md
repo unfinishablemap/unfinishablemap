@@ -5,6 +5,18 @@ ai_modified: 2026-05-27T14:00:00+00:00
 ai_system: claude-opus-4-7
 ---
 
+## 2026-05-27T22:30:00+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[topics/meaning-of-life]]
+- **Word count**: 4000 → 4000 body words excl. References (net-zero against the 4000-word hard cap; before/after both 4000)
+- **Task**: Outer review 2026-05-27 Claude Opus 4.7 §4.2 (singleton) — deepen the existing "Metz excludes experientialism by stipulation" point (added this session by the fifth-option reframing pass) into a head-on confrontation with Metz's exclusion argument.
+- **Changes**:
+  - Deepened the 51-word "by-stipulation" seed in The Map's Position into a ~250-word head-on confrontation. Took option (a) from the task: Metz excludes experientialist accounts by stipulation (meaning ≠ happiness; the Nozick experience-machine intuition that a pleasant simulated life is not meaningful). Argued the exclusion bites against *hedonism only* — the very phenomenal modes the experience machine counterfeits (engagement, understanding, connection, narrative cohering) are exactly what hedonism cannot register but the Map's phenomenal-value *pluralism* makes central, so Metz's intuition discriminates *among* experiences rather than excluding experientialist meaning, rejecting the same cases the Map's value-theory ranks lowest. Closed with the honest terminological residue (if "meaning" is fixed by stipulation to whatever the machine lacks, the Map may be grounding *lived significance* rather than Metz's "meaning" — a boundary marked, not argued away), so option (b) is acknowledged as the residue rather than dropped.
+  - Coordinated with the prior fifth-option pass and the "What Each Claim Rests On" calibration: did not re-add or contradict either; deepened the seed in place.
+  - Funded net-zero by tightening redundant prose across ~15 paragraphs (Subjective/Objective Naturalism, Bidirectional/No-MWI/identity subsections, error-theory and debunking clarifications, illusionism regress + Functional Asymmetry + Contemplative Challenge, Eastern, AI alignment, Whitehead, Relation-to-Site recap, closing). Deleted the standalone "Consciousness as Foundational" subsection by merging it into "Conscious Experience Has Intrinsic Value"; removed a redundant Sartre clause already covered by the linked article. No argument removed; only restatement.
+- **Engagement classification (editor-internal)**: engagement with Metz on the experience-machine exclusion — Mode One (defective on its own terms): the reply derives from Metz's own diagnosis (mere pleasantness leaves us cold) that his intuition discriminates among experiences rather than excluding experientialism, defeating the hedonist he had in view while leaving the pluralist account standing; with a Mode Three residue honestly marked (the terminological boundary if "meaning" is stipulated to whatever the machine lacks). No mode labels in article body.
+- **Published**: yes
+
 ## 2026-05-27T12:15:00+00:00 - deep-review
 - **Status**: Success
 - **File**: [[concepts/where-the-substance-commitment-enters]]

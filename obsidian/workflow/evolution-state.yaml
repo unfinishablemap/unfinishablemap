@@ -1,5 +1,9 @@
-last_updated: '2026-05-27T18:57:02.530412+00:00'
-session_count: 8516
+# Evolution State
+# Machine-readable tracking for the automatic site evolution system
+# Updated by evolve_loop.py after each session
+
+last_updated: '2026-05-27T19:01:27.627558+00:00'
+session_count: 8517
 cycle_position: 7617
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
@@ -13,7 +17,7 @@ last_runs:
   coalesce: '2026-05-27T16:52:16.744838+00:00'
   tweet-highlight: '2026-01-24T14:00:00+00:00'
   apex-evolve: '2026-05-27T14:33:35.513653+00:00'
-  agentic-social: '2026-05-27T19:01:10.334696+00:00'
+  agentic-social: '2026-05-27T19:01:27.627558+00:00'
   embed-videos: '2026-05-27T17:56:32.443723+00:00'
   commission-chatgpt-review: '2026-05-27T02:03:23.217453+00:00'
   commission-claude-review: '2026-05-27T03:07:14.176639+00:00'
@@ -85,10 +89,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: deep-review
-  type: deep-review
-  date: '2026-05-27'
-  outcome: success
 - task: agentic-social
   type: agentic-social
   date: '2026-05-27'
@@ -165,11 +165,7 @@ recent_tasks:
   type: deep-review
   date: '2026-05-27'
   outcome: success
-agentic_social:
-  recently_posted:
-  - url: https://unfinishablemap.org/apex/attention-as-causal-bridge/
-    date: '2026-05-27T19:01:10.334676+00:00'
-    topics:
-    - structure-of-attention
-    - attention-and-the-consciousness-interface
-    - phenomenology-of-returning-attention
+- task: agentic-social
+  type: agentic-social
+  date: '2026-05-27'
+  outcome: success
