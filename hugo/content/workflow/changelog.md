@@ -9,6 +9,33 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-05-27T06:10:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [the-reverse-inference-empirical-horizon](/topics/the-reverse-inference-empirical-horizon/)
+- **Word count**: 2163 → 2163 (no change; sub-threshold, length-neutral)
+- **Critical issues addressed**: 0 (none found — first review of a freshly authored spinoff; inherits a converged parent's discipline)
+- **Medium issues addressed**: 0 (1 deferred: direct decoherence-without-MWI engagement at stage one — inherited deferral from parent)
+- **Enhancements made**: 1 (reciprocal cross-link)
+- **Calibration check**: PASS, exemplary — article is about calibration and practises it; no possibility/probability slippage; tenet-coherence never used to upgrade an empirical claim's evidential status
+- **Attribution check**: PASS — Donadi 2021, Penrose 1996, Chalmers-McQueen 2021 (arXiv), Kremnizer-Ranchin 2015, Neven 2024, Bassi 2023 all cross-verified against corpus; τ ≈ ℏ/E_Δ matches; no misattribution/conflation
+- **Named-opponent engagement**: replies to the abstract no-empirical-consequences objection — Mode Three (framework-boundary marking); honest "currently untested, not untestable" reframe; no boundary-substitution; no label leakage (grep-verified)
+- **Cross-link added**: [testing-consciousness-collapse](/topics/testing-consciousness-collapse/) → [the-reverse-inference-empirical-horizon](/topics/the-reverse-inference-empirical-horizon/) (reciprocal; stage one↔Tier 1, stage two↔Tier 2); also added to that article's related_articles
+- **Output**: [deep-review-2026-05-27-the-reverse-inference-empirical-horizon](/reviews/deep-review-2026-05-27-the-reverse-inference-empirical-horizon/)
+
+## 2026-05-27T09:29:27+00:00 - refine-draft
+- **Status**: Success
+- **File**: [ensemble-level-epiphenomenalism](/concepts/ensemble-level-epiphenomenalism/)
+- **Source review**: pessimistic-2026-05-27-ensemble-level-epiphenomenalism.md (Issues 2-4 + Language Improvements)
+- **Changes**:
+  - Issue 2 (trumping route under-owns its cost): added an explicit sentence in §"The Trumping Route" naming the full bill — under corridor+trumping, "is a cause" and "is epiphenomenal" make no predictively distinct claims; the Map adopts this knowingly as a deliberate, relocated (not earned) cost. Reinforced in §"Why the Worry Has No Free Resolution" by pairing "owning the asymmetry is the discipline" with a plain statement that humility does not supply the missing empirical content.
+  - Issue 3 (collapse/single-outcome framing imported silently): added a parenthetical in §"The Worry Stated Precisely" flagging single-outcome actualisation as a No-Many-Worlds (Tenet 4) commitment, with cross-links to [tenets](/tenets/#no-many-worlds) and [many-worlds-argument](/arguments/many-worlds-argument/); noted that on MWI there is nothing to select.
+  - Issue 4 (decoherence precondition unmentioned): added a paragraph flagging the maintained-superposition precondition as logically prior and carried/contested elsewhere, cross-linking [decoherence](/concepts/decoherence/) and the [interface-formalism cluster](/concepts/mind-matter-interface/).
+  - Language calibration (line 53): softened "have already foreclosed the gross-effect end" to "have driven the gross-effect end ... onto thin ground" to match the parent born-rule article's calmer wording.
+- **Not addressed**: Issue 1 (orphan) already resolved by today's integrate-orphan pass; Issue 5 (Chalmers-McQueen citation year) explicitly out of scope per the review — flagged for a corpus-wide normalisation pass.
+- **Engagement classification (editor-internal)**: physicalist/Dennett reply — Mode Three (framework-boundary): the trumping route's predictive-indistinguishability cost is now declared as a boundary disagreement honestly owned, not dressed as in-framework refutation.
+- **Verification**: sync.py exits 0; all four new wikilinks resolve; no new broken-link warnings; self-critical voice preserved.
+- **Published**: yes
+
 ## 2026-05-27T09:30:00+00:00 - integrate-orphan
 - **Status**: Success
 - **File**: [ensemble-level-epiphenomenalism](/concepts/ensemble-level-epiphenomenalism/)

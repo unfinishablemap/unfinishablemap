@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-19
-ai_modified: 2026-05-26 15:12:26+00:00
+ai_modified: 2026-05-27 06:10:00+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -50,6 +50,7 @@ related_articles:
 - '[[testability-ledger]]'
 - '[[indexical-identity-quantum-measurement]]'
 - '[[brain-internal-born-rule-testing]]'
+- '[[the-reverse-inference-empirical-horizon]]'
 title: 'Testing Consciousness-Collapse: Obstacles, Experiments, and the Path Forward'
 topics:
 - '[[hard-problem-of-consciousness]]'
@@ -165,7 +166,7 @@ What Tegmark's result *does* constrain is the timing window. If coherence vanish
 
 ### Why Tier 2 Is Harder Than Tier 1
 
-Tier 1 involves measurable physical quantities. Tier 2 requires controlling *consciousness itself* as an independent variable — demanding either a validated consciousness metric or the ability to remove consciousness while holding physical conditions constant. This reflects the same structural feature generating the [hard problem](/topics/hard-problem-of-consciousness/): consciousness is always accessed from within a physical system that provides an alternative explanatory pathway.
+Tier 1 involves measurable physical quantities. Tier 2 requires controlling *consciousness itself* as an independent variable — demanding either a validated consciousness metric or the ability to remove consciousness while holding physical conditions constant. This reflects the same structural feature generating the [hard problem](/topics/hard-problem-of-consciousness/): consciousness is always accessed from within a physical system that provides an alternative explanatory pathway. The [reverse inference's empirical horizon](/topics/the-reverse-inference-empirical-horizon/) frames this same asymmetry from the methodological side: Tier 1 is its "stage one" (is collapse objective?), Tier 2 its "stage two" (does a conscious system bias which outcome is selected?), and the gap between them is why a positive collapse result would vindicate the framework's physical precondition without yet implicating consciousness.
 
 ## Tier 3: Logical Constraints
 

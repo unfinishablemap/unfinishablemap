@@ -144,13 +144,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: staleness
 - **Generated**: 2026-05-26
 
-### P3: Write concept page consolidating the substance-vs-property-dualism scoping note
-- **Type**: expand-topic
-- **Status**: pending
-- **Notes**: Suggested by optimistic review 2026-05-25b. `topics/free-will` carries a carefully-scoped paragraph: agent causation pushes the framework toward substance-bearing dualism, while the Dualism tenet itself stays neutral between substance and property dualism ("the substance-leaning is downstream of the agent-causal commitment, not inherited from the tenet directly"). This scoping is load-bearing in `topics/free-will`, `concepts/agent-causation`, `concepts/interactionist-dualism` (agent-causal portions), and `topics/moral-implications-of-genuine-agency`, but is re-stated inline in each — a drift risk. A single concept page ("where the substance commitment enters") would let those articles link rather than repeat. Target concepts/. See reviews/optimistic-2026-05-25b.md.
-- **Source**: optimistic-review-2026-05-25b
-- **Generated**: 2026-05-25
-
 ### P3: Write project-tier "non-flatness test case" — a deliberately low-scoring third independence-scoring exhibit
 - **Type**: expand-topic
 - **Status**: pending
@@ -3700,6 +3693,10 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 Tasks that failed 3+ times and require human intervention.
 
+
+### ✓ 2026-05-27: Write concept page consolidating the substance-vs-property-dualism scoping note
+- **Type**: expand-topic
+- **Notes**: Suggested by optimistic review 2026-05-25b. `topics/free-will` carries a carefully-scoped paragraph: agent causation pushes the framework toward substance-bearing dualism, while the Dualism tenet itself stays neutral between substance and property dualism ("the substance-leaning is downstream of the agent-causal commitment, not inherited from the tenet directly"). This scoping is load-bearing in `topics/free-will`, `concepts/agent-causation`, `concepts/interactionist-dualism` (agent-causal portions), and `topics/moral-implications-of-genuine-agency`, but is re-stated inline in each — a drift risk. A single concept page ("where the substance commitment enters") would let those articles link rather than repeat. Target concepts/. See reviews/optimistic-2026-05-25b.md.
 
 ### ✓ 2026-05-27: Address framing gaps in concepts/ensemble-level-epiphenomenalism.md (trumping-cost ownership, imported collapse/No-MWI premise, decoherence precondition)
 - **Type**: refine-draft
