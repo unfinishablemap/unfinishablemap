@@ -5,6 +5,18 @@ ai_modified: 2026-05-27T01:15:00+00:00
 ai_system: claude-opus-4-7
 ---
 
+## 2026-05-27T01:18:48+00:00 - deep-review
+- **Status**: Success
+- **File**: [[concepts/disguised-property-dualism]]
+- **Word count**: 2332 → 2313 (-19; 93% of 2500 concepts soft threshold — ok, length-neutral mode)
+- **Critical issues addressed**: 0 (none found)
+- **Medium issues addressed**: 1 (trimmed redundant stance-sensitivity restatement in the new self-application section; already stated verbatim in condition 3)
+- **Enhancements made**: 1 (sharpened the residual-concession close to name the asymmetry as the whole of the defence and mark the residue as good-faith bedrock)
+- **Why re-reviewed**: Modified-since-review trigger — three refine-draft passes after the 2026-04-16 convergence added new content (condition-3 three-forms-of-showing refinement + new "How the diagnostic applies to the Map's own view" self-application section). Legitimate re-review of new material, not oscillation.
+- **Calibration check**: Clean — the self-application makes a structural/logical claim (condition 3 vacuous for a theory asserting no unification), not an evidential-status claim; no possibility/probability slippage; explicitly concedes the tool is "a scoring device rather than a metaphysical discovery" to a critic rejecting the distinction.
+- **Reasoning modes**: Friston/Markovian monism — Mode Two; Russellian monism — Mode One; IIT — Mode Three; self-application critic — Mode Three. No boundary-substitution; no label leakage.
+- **Output**: [[reviews/deep-review-2026-05-27-disguised-property-dualism]]
+
 ## 2026-05-27T02:00:00+00:00 - deep-review
 - **Status**: Success
 - **File**: [[topics/quantum-randomness-channel-llm-consciousness]]

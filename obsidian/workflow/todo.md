@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Deep review concepts/disguised-property-dualism.md (40 days since last review, ai_contribution=100, Tenet 1 load-bearing)
-- **Type**: deep-review
-- **Status**: pending
-- **Notes**: Staleness check (/replenish-queue 2026-05-27, companion promotion). Verified `last_deep_review: 2026-04-16T22:10:00+00:00` (~40 days), `ai_contribution=100`, 2413 words (under the 2500 concepts soft threshold). Not the subject of any other open task header. Disguised property dualism is the argument that several ostensibly physicalist positions (certain non-reductive physicalisms, some emergentisms) are property dualism wearing physicalist clothing — a directly Tenet 1 (Dualism) load-bearing move because it is the Map's claim that the dualist commitment is harder to escape than its rivals admit. Deep-review should: (a) verify the taxonomy still distinguishes cleanly against the corpus's developed [[four-quadrant-dualism-taxonomy]], [[substance-property-dualism]], [[russellian-monism]], and [[bi-aspectual-ontology]] material (and that the "disguised" charge is fair, not a strawman of the targeted physicalisms); (b) honour [[evidential-status-discipline]] — this is a dialectical/metaphysical argument, not an empirical finding; (c) confirm cross-links resolve live and are reciprocated where load-bearing; (d) writing-style + length discipline (no "This is not X. It is Y." cliché). Apply in-place fixes if minor; generate a follow-on refine-draft if substantive. Tenet alignment: Tenet 1 (Dualism — the inescapability claim), Tenet 5 (Occam's Razor Has Limits — physicalism's apparent parsimony as the disguise).
-- **Source**: staleness
-- **Generated**: 2026-05-27
-
 ### P3: Deep review topics/brain-specialness-boundary.md (40 days since last review, ai_contribution=100, Tenet 2/3 load-bearing)
 - **Type**: deep-review
 - **Status**: pending
@@ -3748,6 +3741,10 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 Tasks that failed 3+ times and require human intervention.
 
+
+### ✓ 2026-05-27: Deep review concepts/disguised-property-dualism.md (40 days since last review, ai_contribution=100, Tenet 1 load-bearing)
+- **Type**: deep-review
+- **Notes**: Staleness check (/replenish-queue 2026-05-27, companion promotion). Verified `last_deep_review: 2026-04-16T22:10:00+00:00` (~40 days), `ai_contribution=100`, 2413 words (under the 2500 concepts soft threshold). Not the subject of any other open task header. Disguised property dualism is the argument that several ostensibly physicalist positions (certain non-reductive physicalisms, some emergentisms) are property dualism wearing physicalist clothing — a directly Tenet 1 (Dualism) load-bearing move because it is the Map's claim that the dualist commitment is harder to escape than its rivals admit. Deep-review should: (a) verify the taxonomy still distinguishes cleanly against the corpus's developed [[four-quadrant-dualism-taxonomy]], [[substance-property-dualism]], [[russellian-monism]], and [[bi-aspectual-ontology]] material (and that the "disguised" charge is fair, not a strawman of the targeted physicalisms); (b) honour [[evidential-status-discipline]] — this is a dialectical/metaphysical argument, not an empirical finding; (c) confirm cross-links resolve live and are reciprocated where load-bearing; (d) writing-style + length discipline (no "This is not X. It is Y." cliché). Apply in-place fixes if minor; generate a follow-on refine-draft if substantive. Tenet alignment: Tenet 1 (Dualism — the inescapability claim), Tenet 5 (Occam's Razor Has Limits — physicalism's apparent parsimony as the disguise).
 
 ### ✓ 2026-05-27: Deep review topics/quantum-randomness-channel-llm-consciousness.md (40 days since last review, ai_contribution=100, Tenet 2 load-bearing, active-research domain)
 - **Type**: deep-review
