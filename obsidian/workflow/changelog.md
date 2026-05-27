@@ -5,6 +5,14 @@ ai_modified: 2026-05-27T12:00:00+00:00
 ai_system: claude-opus-4-7
 ---
 
+## 2026-05-27T14:32:20+00:00 - apex-evolve
+- **Status**: Complete
+- **Article**: [[apex/post-decoherence-selection-programme]]
+- **Changed sources**: 1 ([[concepts/contextual-selection-in-quantum-foundations]], deep-reviewed 2026-05-19)
+- **Word count**: 3156 → 3596
+- **Integrated**: Spekkens (2005) preparation/transformation contextuality; the formal-vs-practical "live mechanism or algebraic bookkeeping" seam after decoherence; Peres-Mermin square; determinism-randomness dilemma narrowing the free-will claim to a necessary condition, not agency. Refreshed `apex_last_synthesis` (last real synthesis was 2026-03-29).
+- **Review**: [[reviews/apex-evolve-2026-05-27-post-decoherence-selection-programme]]
+
 ## 2026-05-27T14:12:50+00:00 - research-topic
 - **Status**: Success
 - **Topic**: Post-2023 IIT / PCI anaesthesia-recovery work to anchor the anaesthesia article's "active reboot" claim
