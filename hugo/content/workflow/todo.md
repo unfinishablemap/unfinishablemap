@@ -38,12 +38,28 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Deep review topics/quantum-measurement-and-consciousness.md (34 days since last review, ai_contribution=100, Tenet 2 load-bearing)
-- **Type**: deep-review
+### P2: Adopt explanatory-gap calibration in consciousness-and-the-normativity-of-reason
+- **Type**: refine-draft
 - **Status**: pending
-- **Notes**: Staleness check (/replenish-queue 2026-05-27, conservative; floor-restoring). Verified `last_deep_review: 2026-04-23T18:31:00+00:00` (~34 days), `ai_contribution=100`, 3168 words (within topics soft/hard thresholds 3000/4000 — just over soft, well under hard; condense follow-on only if a refine pass pushes it over hard). No open deep-review header targets this file; not vetoed; not same-day-touched. This is the Map's core topic-tier treatment of the measurement problem as the site of consciousness-physics interaction — directly Tenet 2 (Minimal Quantum Interaction) load-bearing. Note the open P3 "corridor/min-outside-corridor/trumping three-way taxonomy" concept-page task references this article (line ~132) as one of seven articles re-deriving the taxonomy inline; the deep-review should not pre-empt that task but may note whether this article could later defer to the canonical treatment once it exists. Deep-review should: (a) check the QM-foundations empirical/interpretive claims against current 2020s literature (flag a literature-drift follow-on if drift detected — measurement-problem and decoherence work is an active-research domain); (b) verify the minimal-interaction framing stays consistent with [selection-only-mind-influence](/topics/selection-only-mind-influence/) and the channel-class taxonomy and the post-March corridor/selection cluster; (c) honour [evidential-status-discipline](/project/evidential-status-discipline/) (measurement-problem claims are prone to interpretation-vs-physics slippage); (d) confirm cross-links resolve live and are reciprocated where load-bearing; (e) writing-style + length discipline. Apply in-place fixes if minor; generate a follow-on refine-draft task if substantive. Tenet alignment: Tenet 2 (Minimal Quantum Interaction), Tenet 1 (Dualism), Tenet 3 (Bidirectional Interaction).
-- **Source**: staleness
+- **File**: obsidian/topics/consciousness-and-the-normativity-of-reason.md
+- **Notes**: From topic-concept anchoring audit 2026-05-27. The topic article over-claims relative to its anchor concept [explanatory-gap](/concepts/explanatory-gap/); failed checks: hedge_density, strong_assertions.
+  - hedge density 1.43/kw is below 60% of anchor (9.87/kw)
+  - strong-assertion density 0.96/kw exceeds 1.5× anchor (0.58/kw)
+  - Action: bring the topic's hedge profile in line with the anchor concept's. Preserve the article's voice; this is not a request to weaken the central claim, only to inherit the calibration discipline the anchor concept already uses. See [calibration-audit-triple](/project/calibration-audit-triple/) Audit Three for the spec and [evidential-status-discipline](/project/evidential-status-discipline/) for the underlying rule.
+- **Source**: topic-concept-anchoring-audit
 - **Generated**: 2026-05-27
+
+### P2: Adopt intentionality calibration in consciousness-and-the-normativity-of-reason
+- **Type**: refine-draft
+- **Status**: pending
+- **File**: obsidian/topics/consciousness-and-the-normativity-of-reason.md
+- **Notes**: From topic-concept anchoring audit 2026-05-27. The topic article over-claims relative to its anchor concept [intentionality](/concepts/intentionality/); failed checks: hedge_density, strong_assertions.
+  - hedge density 1.43/kw is below 60% of anchor (4.60/kw)
+  - strong-assertion density 0.96/kw exceeds 1.5× anchor (0.58/kw)
+  - Action: bring the topic's hedge profile in line with the anchor concept's. Preserve the article's voice; this is not a request to weaken the central claim, only to inherit the calibration discipline the anchor concept already uses. See [calibration-audit-triple](/project/calibration-audit-triple/) Audit Three for the spec and [evidential-status-discipline](/project/evidential-status-discipline/) for the underlying rule.
+- **Source**: topic-concept-anchoring-audit
+- **Generated**: 2026-05-27
+
 
 ### P2: Deep review concepts/probability-objections-many-worlds.md (36 days since last review, ai_contribution=100, Tenet 4 load-bearing)
 - **Type**: deep-review
@@ -3597,6 +3613,10 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 Tasks that failed 3+ times and require human intervention.
 
+
+### ✓ 2026-05-27: Deep review topics/quantum-measurement-and-consciousness.md (34 days since last review, ai_contribution=100, Tenet 2 load-bearing)
+- **Type**: deep-review
+- **Notes**: Staleness check (/replenish-queue 2026-05-27, conservative; floor-restoring). Verified `last_deep_review: 2026-04-23T18:31:00+00:00` (~34 days), `ai_contribution=100`, 3168 words (within topics soft/hard thresholds 3000/4000 — just over soft, well under hard; condense follow-on only if a refine pass pushes it over hard). No open deep-review header targets this file; not vetoed; not same-day-touched. This is the Map's core topic-tier treatment of the measurement problem as the site of consciousness-physics interaction — directly Tenet 2 (Minimal Quantum Interaction) load-bearing. Note the open P3 "corridor/min-outside-corridor/trumping three-way taxonomy" concept-page task references this article (line ~132) as one of seven articles re-deriving the taxonomy inline; the deep-review should not pre-empt that task but may note whether this article could later defer to the canonical treatment once it exists. Deep-review should: (a) check the QM-foundations empirical/interpretive claims against current 2020s literature (flag a literature-drift follow-on if drift detected — measurement-problem and decoherence work is an active-research domain); (b) verify the minimal-interaction framing stays consistent with [selection-only-mind-influence](/topics/selection-only-mind-influence/) and the channel-class taxonomy and the post-March corridor/selection cluster; (c) honour [evidential-status-discipline](/project/evidential-status-discipline/) (measurement-problem claims are prone to interpretation-vs-physics slippage); (d) confirm cross-links resolve live and are reciprocated where load-bearing; (e) writing-style + length discipline. Apply in-place fixes if minor; generate a follow-on refine-draft task if substantive. Tenet alignment: Tenet 2 (Minimal Quantum Interaction), Tenet 1 (Dualism), Tenet 3 (Bidirectional Interaction).
 
 ### ✓ 2026-05-27: Deep review concepts/conservation-laws-and-mental-causation.md (34 days since last review, ai_contribution=100, Tenet 3/5 load-bearing)
 - **Type**: deep-review
