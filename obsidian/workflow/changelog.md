@@ -1,9 +1,18 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-27T17:20:00+00:00
+ai_modified: 2026-05-27T18:03:19+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-05-27T18:03:19+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[topics/pain-consciousness-and-causal-power]]
+- **Task**: Topic-concept anchoring audit 2026-05-27 (Audit Three). Article over-claimed relative to anchor [[phenomenal-concepts-strategy]]; failed checks: hedge_density, strong_assertions.
+- **Changes**: Calibrated the hedge profile without weakening the central claim. (1) Softened 3 strong-assertion verbs — all three instances of "demonstrates" → "suggests"/"appears" (asymbolia-as-distinct-contributor, placebo complementary point, suffering-without-sensory-input); strong-assertion count 3 → 0. (2) Concentrated added hedges on interpretive claims where pain's phenomenal character is read as carrying causal power / bearing on the interface — representationalism reading, the experienced "therefore" of withdrawal (added epiphenomenalist reply), quality-action mapping (added physicalist reply), quantum-interaction modes, evolutionary supervenience selection, valence-as-property-of-consciousness, compound-property reading. (3) Added underdetermination markers to the contemplative-practice passage ("compatible with both interpretations", "do not adjudicate", "coherent with rather than evidenced by"); underdetermination count 0 → 2. Empirical findings (asymbolia clinical pattern, A-delta/C-fibre mapping, placebo opioid release) left appropriately confident.
+- **Calibration result**: hedge density 3.03/kw → 6.41/kw (above the ≈6.10/kw target set by the anchor); strong-assertion verbs 3 → 0; underdetermination markers 0 → 2. `evaluate_anchoring()` 8 flags → 0 flags. `scripts/sync.py` exit 0.
+- **Citations / argument structure**: untouched.
+- **Published**: yes
 
 ## 2026-05-27T19:30:00+00:00 - deep-review
 - **Status**: Success

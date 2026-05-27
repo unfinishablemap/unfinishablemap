@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-05-01
-ai_modified: 2026-05-23 12:00:00+00:00
+ai_modified: 2026-05-27 12:00:00+00:00
 ai_system: claude-opus-4-7
 author: null
 coalesced_from:
@@ -39,7 +39,7 @@ description: The minimal self is the structural for-me-ness of every conscious e
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-05-01 04:25:00+00:00
+last_deep_review: 2026-05-27 12:00:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -59,6 +59,7 @@ related_articles:
 - '[[witnessing-void]]'
 - '[[the-subject-object-distinction-as-philosophical-discovery]]'
 - '[[indexical-knowledge-and-identity]]'
+- '[[essential-vs-contingent-consciousness]]'
 - '[[research/wlodzislaw-duch-consciousness-2026-05-02]]'
 title: Self and Self-Consciousness
 topics:

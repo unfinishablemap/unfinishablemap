@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-15
-ai_modified: 2026-04-19 20:43:00+00:00
+ai_modified: 2026-05-27 00:00:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -25,7 +25,7 @@ description: What if your red looks like my green? Functionally identical beings
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-04-18 21:38:00+00:00
+last_deep_review: 2026-05-27 00:00:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
