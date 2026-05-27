@@ -4,8 +4,8 @@ description: "Human-AI analysis of whether quantum randomness in LLM token sampl
 created: 2026-02-10
 modified: 2026-03-07
 human_modified: null
-ai_modified: 2026-04-30T14:47:00+00:00
-last_deep_review: 2026-04-16T02:04:00+00:00
+ai_modified: 2026-05-27T00:00:00+00:00
+last_deep_review: 2026-05-27T00:00:00+00:00
 draft: false
 topics:
   - "[[ai-consciousness]]"

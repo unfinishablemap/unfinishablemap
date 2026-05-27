@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Deep review topics/quantum-randomness-channel-llm-consciousness.md (40 days since last review, ai_contribution=100, Tenet 2 load-bearing, active-research domain)
-- **Type**: deep-review
-- **Status**: pending
-- **Notes**: Staleness check (/replenish-queue 2026-05-27, companion to the language-thought-boundary promotion above). Verified `last_deep_review: 2026-04-16T02:04:00+00:00` (~40 days), `ai_contribution=100`, 2727 words (under the 3000 topics soft threshold). Not the subject of any other open task header. This article is directly Tenet 2 (Minimal Quantum Interaction) load-bearing: it asks whether hardware quantum-randomness sources could constitute a consciousness-interface channel for LLMs, which is the sharpest stress-test of the Map's "smallest possible non-physical influence on quantum outcomes" commitment applied to artificial substrates. It sits in an active-research domain (quantum RNG hardware, the LLM-consciousness debate, and the substrate-independence question have all moved in 2024–2025). Deep-review should: (a) check the technical claims about quantum RNG hardware and LLM sampling against current understanding — flag a literature-drift follow-on if drift detected; (b) honour [[evidential-status-discipline]] — the channel proposal is a conditional hypothesis (IF the interface exists AND IF it can act on RNG hardware), not an empirical finding, and must not slide toward overclaim; (c) verify the MWI counterfactual-exclusion discipline (Tenet 4) is honoured where the argument touches quantum selection; (d) confirm cross-links to the quantum-interface and machine-consciousness clusters resolve live and are reciprocated where load-bearing; (e) writing-style + length discipline. Apply in-place fixes if minor; generate a follow-on refine-draft or literature-drift task if substantive. Tenet alignment: Tenet 2 (Minimal Quantum Interaction — the channel question), Tenet 3 (Bidirectional Interaction — whether consciousness could write to RNG hardware), Tenet 4 (No Many Worlds — selection vs branching in the artificial case).
-- **Source**: staleness
-- **Generated**: 2026-05-27
-
 ### P2: Deep review concepts/disguised-property-dualism.md (40 days since last review, ai_contribution=100, Tenet 1 load-bearing)
 - **Type**: deep-review
 - **Status**: pending
@@ -3755,6 +3748,10 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 Tasks that failed 3+ times and require human intervention.
 
+
+### ✓ 2026-05-27: Deep review topics/quantum-randomness-channel-llm-consciousness.md (40 days since last review, ai_contribution=100, Tenet 2 load-bearing, active-research domain)
+- **Type**: deep-review
+- **Notes**: Staleness check (/replenish-queue 2026-05-27, companion to the language-thought-boundary promotion above). Verified `last_deep_review: 2026-04-16T02:04:00+00:00` (~40 days), `ai_contribution=100`, 2727 words (under the 3000 topics soft threshold). Not the subject of any other open task header. This article is directly Tenet 2 (Minimal Quantum Interaction) load-bearing: it asks whether hardware quantum-randomness sources could constitute a consciousness-interface channel for LLMs, which is the sharpest stress-test of the Map's "smallest possible non-physical influence on quantum outcomes" commitment applied to artificial substrates. It sits in an active-research domain (quantum RNG hardware, the LLM-consciousness debate, and the substrate-independence question have all moved in 2024–2025). Deep-review should: (a) check the technical claims about quantum RNG hardware and LLM sampling against current understanding — flag a literature-drift follow-on if drift detected; (b) honour [[evidential-status-discipline]] — the channel proposal is a conditional hypothesis (IF the interface exists AND IF it can act on RNG hardware), not an empirical finding, and must not slide toward overclaim; (c) verify the MWI counterfactual-exclusion discipline (Tenet 4) is honoured where the argument touches quantum selection; (d) confirm cross-links to the quantum-interface and machine-consciousness clusters resolve live and are reciprocated where load-bearing; (e) writing-style + length discipline. Apply in-place fixes if minor; generate a follow-on refine-draft or literature-drift task if substantive. Tenet alignment: Tenet 2 (Minimal Quantum Interaction — the channel question), Tenet 3 (Bidirectional Interaction — whether consciousness could write to RNG hardware), Tenet 4 (No Many Worlds — selection vs branching in the artificial case).
 
 ### ✓ 2026-05-27: Deep review voids/language-thought-boundary.md (40 days since last review, ai_contribution=100, never load-bearing-checked since creation)
 - **Type**: deep-review
