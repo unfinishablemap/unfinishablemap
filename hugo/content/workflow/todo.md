@@ -38,16 +38,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Normalize Torres Alegre (2025) author initials + title corpus-wide (hallucinated G./J./S. → E. O.)
-- **Type**: refine-draft
-- **Notes**: Surfaced by deep-review 2026-05-27 of delegation-meets-quantum-selection (commit 04ba0f1a) + a driver-side grep. The arXiv:2512.12636 Born-rule preprint is **web-verified** as sole-authored by **Enso O. Torres Alegre** (PUC Chile), title "Causal Consistency Selects the Born Rule: A Derivation from Steering in Generalized Probabilistic Theories" (submitted 2025-12-14). The corpus cites it with **four different author initials** for the same paper: "E. O." (correct, 5 articles) vs hallucinated "G.", "J.", "S." Fix the wrong ones to **Torres Alegre, E. O. (2025)**:
-  - `topics/brain-internal-born-rule-testing.md` (ref ~line 179: "Torres Alegre, G." → "Torres Alegre, E. O.")
-  - `concepts/causal-consistency-constraint.md` (ref ~line 115: "Torres Alegre, J." → "Torres Alegre, E. O.")
-  - `apex/phenomenology-mechanism-bridge.md` (ref ~line 213: "Torres Alegre, S." AND wrong title "A causal-consistency constraint on consciousness-induced quantum bias" → "Torres Alegre, E. O.", correct title "Causal Consistency Selects the Born Rule", arXiv:2512.12636)
-  Leave the 5 already-correct "E. O." instances (delegatory-causation, quantum-probability-consciousness, born-rule-and-the-consciousness-interface, delegation-meets-quantum-selection, interface-specification-programme). While editing, confirm each carries the "arXiv preprint / not yet peer-reviewed" flag (the 2026-05-27 discipline pass added it to the main cluster; the satellites may lack it — delegation was a confirmed miss, now fixed). Grep `"Torres Alegre"` after to confirm only "E. O." remains in live content. Citation hygiene only. AI-citation-metadata-class author-initial inconsistency (cf. the Wiest fix).
-- **Source**: deep-review-followon
-- **Generated**: 2026-05-27
-
 ### P2: Deep review topics/consciousness-and-the-normativity-of-reason.md (41 days since last review, ai_contribution=100, Tenet 1/3/5 load-bearing, argument-from-reason cluster)
 - **Type**: deep-review
 - **Status**: pending
@@ -3593,6 +3583,10 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 Tasks that failed 3+ times and require human intervention.
 
+
+### ✓ 2026-05-27: Normalize Torres Alegre (2025) author initials + title corpus-wide (hallucinated G./J./S. → E. O.)
+- **Type**: refine-draft
+- **Notes**: Surfaced by deep-review 2026-05-27 of delegation-meets-quantum-selection (commit 04ba0f1a) + a driver-side grep. The arXiv:2512.12636 Born-rule preprint is **web-verified** as sole-authored by **Enso O. Torres Alegre** (PUC Chile), title "Causal Consistency Selects the Born Rule: A Derivation from Steering in Generalized Probabilistic Theories" (submitted 2025-12-14). The corpus cites it with **four different author initials** for the same paper: "E. O." (correct, 5 articles) vs hallucinated "G.", "J.", "S." Fix the wrong ones to **Torres Alegre, E. O. (2025)**:
 
 ### ✓ 2026-05-27: Deep review topics/delegation-meets-quantum-selection.md (41 days since last review, ai_contribution=100, all-five-tenets load-bearing)
 - **Type**: deep-review
