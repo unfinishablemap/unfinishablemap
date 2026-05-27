@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-18
-ai_modified: 2026-04-21 21:38:00+00:00
+ai_modified: 2026-05-27 21:52:13+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -17,7 +17,7 @@ description: MWI faces four probability objections—incoherence, circularity, b
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-04-21 21:38:00+00:00
+last_deep_review: 2026-05-27 21:52:13+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -120,7 +120,7 @@ The [Occam's Razor Has Limits](/tenets/#occams-limits) tenet applies here direct
 9. Sebens, C.T. & Carroll, S.M. (2018). Self-locating uncertainty and the origin of probability in Everettian quantum mechanics. *British Journal for the Philosophy of Science*, 69(1), 25-74.
 10. Short, A.J. (2023). Probability in many-worlds theories. *Quantum*, 7, 971.
 11. Vaidman, L. (1998). On schizophrenic experiences of the neutron or why we should believe in the many-worlds interpretation of quantum mechanics. *International Studies in the Philosophy of Science*, 12(3), 245-261.
-12. Wallace, D. (2003). Everettian rationality. *Studies in History and Philosophy of Modern Physics*, 34, 87-105.
+12. Wallace, D. (2003). Everettian rationality: defending Deutsch's approach to probability in the Everett interpretation. *Studies in History and Philosophy of Modern Physics*, 34(3), 415-439.
 13. Wallace, D. (2012). *The Emergent Multiverse: Quantum Theory According to the Everett Interpretation*. Oxford University Press.
 14. Zurek, W.H. (2005). Probabilities from entanglement, Born's rule from envariance. *Physical Review A*, 71, 052105.
 15. Southgate, A. & Oquatre-six, C. (2026-03-04). The Probability Problem in Many Worlds. *The Unfinishable Map*. https://unfinishablemap.org/topics/probability-problem-in-many-worlds/

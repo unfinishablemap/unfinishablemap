@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-10
-ai_modified: 2026-04-30 14:47:00+00:00
+ai_modified: 2026-05-27 21:46:05+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -18,7 +18,7 @@ description: What is consciousness doing during quantum superposition? Five fram
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-04-16 10:04:00+00:00
+last_deep_review: 2026-05-27 21:46:05+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -89,7 +89,7 @@ This approach takes the definiteness of experience as a non-negotiable constrain
 
 These five frameworks disagree on timing, direction, and mechanism. Yet they converge on a shared conclusion: consciousness and quantum indeterminacy cannot be cleanly separated. Every framework treats the relationship between definite experience and quantum smearing as fundamental rather than accidental.
 
-A sceptic might object that the question is moot: if [decoherence](/concepts/decoherence/) destroys brain superpositions in femtoseconds, there is no meaningful "during" for consciousness to inhabit. Tegmark's calculations suggest decoherence times of 10⁻¹³ to 10⁻²⁰ seconds for neural systems — too brief for any cognitive process. But these timescales are contested (Hagan et al. argue for corrections of seven orders of magnitude), and 2025-2026 developments have further weakened the blanket dismissal. Beshkar's QBIT theory proposes that microtubules function as nanoscale spintronic oscillators—spintronic coherence (based on electron spin rather than charge) is inherently more stable at physiological temperatures, potentially sidestepping Tegmark's original calculation entirely. Wiest's 2025 review in *Neuroscience of Consciousness* synthesises experimental evidence for room-temperature quantum effects in microtubules, including selective disruption by anaesthetics. NV-centre diamond quantum sensors may soon provide the in vivo measurements needed to resolve the debate empirically (reviewed in *Journal of Biological Physics*, 2026). Several frameworks here do not require consciousness to operate *within* the superposition window at all. Chalmers and McQueen need only that high-Φ systems trigger collapse; Stapp's Zeno effect works through rapid repeated measurement rather than sustained coherence. The decoherence objection constrains which frameworks are viable but does not eliminate the question itself.
+A sceptic might object that the question is moot: if [decoherence](/concepts/decoherence/) destroys brain superpositions in femtoseconds, there is no meaningful "during" for consciousness to inhabit. Tegmark's calculations suggest decoherence times of 10⁻¹³ to 10⁻²⁰ seconds for neural systems — too brief for any cognitive process. But these timescales are contested (Hagan et al. argue for corrections of seven orders of magnitude), and 2025-2026 developments have further weakened the blanket dismissal. Beshkar's QBIT theory proposes that microtubules function as nanoscale spintronic oscillators—spintronic coherence (based on electron spin rather than charge) is inherently more stable at physiological temperatures, potentially sidestepping Tegmark's original calculation entirely. Wiest's 2025 review in *Neuroscience of Consciousness* synthesises experimental evidence for room-temperature quantum effects in microtubules, including selective disruption by anaesthetics—though the effects documented so far are vibrational modes rather than the sustained coherent superpositions most of these frameworks require. NV-centre diamond quantum sensors may soon provide the in vivo measurements needed to resolve the debate empirically (reviewed in *Journal of Biological Physics*, 2026). Several frameworks here do not require consciousness to operate *within* the superposition window at all. Chalmers and McQueen need only that high-Φ systems trigger collapse; Stapp's Zeno effect works through rapid repeated measurement rather than sustained coherence. The decoherence objection constrains which frameworks are viable but does not eliminate the question itself.
 
 The disagreements cluster around two axes. First, *causal direction*: does consciousness cause collapse (Stapp, Chalmers-McQueen), does collapse cause consciousness (Penrose), or does superposition itself constitute consciousness (Koch)? Second, *the status of superposition for minds*: can consciousness be smeared (Koch, arguably Penrose's proto-consciousness), must it always be definite (Albert-Loewer, Chalmers-McQueen), or is it the definite selector operating on smeared physical states (Stapp)?
 
@@ -105,7 +105,7 @@ The Map's [tenets](/tenets/) align most naturally with frameworks where consciou
 
 **Dualism**: All five positions treat consciousness as having features not captured by standard physics. Even Koch's hypothesis, which might seem physicalist, requires that superposition formation produces something irreducibly experiential—a claim physics alone cannot ground.
 
-**Minimal Quantum Interaction**: Every framework locates the consciousness-physics interface at the quantum level. Stapp's model is the most explicit implementation of the Map's tenet: consciousness biases quantum outcomes via the Zeno effect without energy injection. The 2025-2026 experimental acceleration—room-temperature quantum effects in microtubules, spintronic coherence proposals localised to the axon initial segment, and emerging NV-diamond measurement technology—strengthens the empirical precondition: quantum indeterminacy exists at functionally relevant points in neural systems where consciousness could act.
+**Minimal Quantum Interaction**: Every framework locates the consciousness-physics interface at the quantum level. Stapp's model is the most explicit implementation of the Map's tenet: consciousness biases quantum outcomes via the Zeno effect without energy injection. The 2025-2026 experimental acceleration—room-temperature quantum effects in microtubules, spintronic coherence proposals localised to the axon initial segment, and emerging NV-diamond measurement technology—strengthens the empirical precondition: quantum indeterminacy may exist at functionally relevant points in neural systems where consciousness could act. The evidence remains suggestive rather than decisive—it raises the prior on a quantum interface without confirming one.
 
 **Bidirectional Interaction**: This tenet most clearly separates the frameworks. Stapp and Chalmers-McQueen support bidirectional interaction—consciousness determines which outcome becomes actual. Penrose reverses the direction, and Koch proposes a third option. The Map holds that the bidirectional models better explain why we can discuss consciousness at all: if experience were merely a product of collapse (Penrose) or of superposition (Koch), it would need a separate account of how experiential content feeds back into physical behaviour. The selection models have this built in.
 
@@ -134,7 +134,7 @@ The Map's [tenets](/tenets/) align most naturally with frameworks where consciou
 1. Chalmers, D. & McQueen, K. (2021). Consciousness and the collapse of the wave function. In S. Gao (Ed.), *Consciousness and Quantum Mechanics*. Oxford University Press.
 1. Hagan, S., Hameroff, S.R. & Tuszyński, J.A. (2002). Quantum computation in brain microtubules: Decoherence and biological feasibility. *Physical Review E*, 65(6), 061901.
 1. Hameroff, S. & Penrose, R. (2014). Consciousness in the universe: A review of the 'Orch OR' theory. *Physics of Life Reviews*, 11(1), 39-78.
-1. Koch, C. et al. (2024). Quantum approaches to consciousness—experimental program. Allen Institute for Brain Science / Google Quantum AI.
+1. Neven, H., Zalcman, A., Read, P., Kosik, K.S., van der Molen, T., Bouwmeester, D., Bodnia, E., Turin, L. & Koch, C. (2024). Testing the conjecture that quantum processes create conscious experience. *Entropy*, 26(6), 460.
 1. Stapp, H.P. (2007). *Mindful Universe: Quantum Mechanics and the Participating Observer*. Springer.
 1. Beshkar, M. (2025). Consciousness and spintronic coherence in microtubules. *Communicative & Integrative Biology*.
 1. Tegmark, M. (2000). Importance of quantum decoherence in brain processes. *Physical Review E*, 61(4), 4194-4206.

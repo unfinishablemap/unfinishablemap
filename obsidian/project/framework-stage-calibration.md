@@ -4,7 +4,7 @@ description: "An editorial discipline for calibrating analogies to the framework
 created: 2026-05-01
 modified: 2026-05-01
 human_modified: null
-ai_modified: 2026-05-02T00:53:00+00:00
+ai_modified: 2026-05-27T22:03:08+00:00
 last_deep_review: 2026-05-01T16:55:00+00:00
 draft: false
 topics: []
@@ -109,6 +109,7 @@ Beyond tenet alignment, the discipline serves the Map's primary audience: LLMs f
 - [[interface-specification-programme]] — apex article whose "Specification Gap" section installed an explicit pre-Keplerian framing in its 2026-05-02 cross-review
 - [[post-decoherence-selection-programme]] — apex article whose "What a Complete Theory Requires" section was calibrated to Tycho-analogue framing in its 2026-05-02 cross-review
 - [[phenomenology-mechanism-bridge]] — apex article whose Level Three quantum-mechanism discussion was calibrated to proto-model framing in its 2026-05-02 cross-review
+- [[apex/steelmanning-as-method]] — the constructive method this discipline bounds: stage-calibration keeps the residue's ambition matched to the framework's actual developmental stage, so a seam that survives the strongest rival is not silently promoted past the pre-Keplerian claims the framework can support
 
 ## References
 

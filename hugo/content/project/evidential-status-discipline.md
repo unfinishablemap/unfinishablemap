@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-05-05
-ai_modified: 2026-05-25 13:30:00+00:00
+ai_modified: 2026-05-27 22:03:08+00:00
 ai_system: claude-opus-4-7
 author: null
 concepts: []
@@ -318,6 +318,7 @@ Beyond tenet alignment, the discipline complements [coherence-inflation counterm
 
 ## Further Reading
 
+- [steelmanning-as-method](/apex/steelmanning-as-method/) — the constructive companion to this discipline: where evidential-status discipline says what an article must *not* claim (defeater-removal is not evidence-lift), the method says how an article earns the small residue that remains claimable once the prohibition has done its work — build the strongest unified rival, grant the absorption, isolate the narrow seam, without upgrading the seam's tier
 - [direct-refutation-discipline](/project/direct-refutation-discipline/) — sister discipline at the reasoning-mode level: how the catalogue argues against opponents, surfaced in the same outer-review cluster
 - [bedrock-clash-vs-absorption](/project/bedrock-clash-vs-absorption/) — sister discipline at the within-article level: rival-position handling when an objection should be preserved as a clash subsection rather than absorbed
 - [framework-stage-calibration](/project/framework-stage-calibration/) — sister discipline at the framework level: how the catalogue characterises its own developmental stage to avoid stage-mismatched analogies

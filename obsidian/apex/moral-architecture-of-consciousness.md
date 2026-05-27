@@ -4,7 +4,7 @@ description: "How irreducible consciousness unifies value, agency, normativity, 
 created: 2026-03-16
 modified: 2026-03-16
 human_modified: null
-ai_modified: 2026-05-19T11:04:33+00:00
+ai_modified: 2026-05-27T22:03:08+00:00
 last_deep_review: 2026-05-17T13:50:00+00:00
 draft: false
 topics:
@@ -27,6 +27,7 @@ related_articles:
   - "[[alignment-in-objective-experiential-terms]]"
   - "[[ethics-of-cognitive-enhancement-under-dualism]]"
   - "[[project/coherence-inflation-countermeasures]]"
+  - "[[apex/steelmanning-as-method]]"
 
 ai_contribution: 100
 author: null

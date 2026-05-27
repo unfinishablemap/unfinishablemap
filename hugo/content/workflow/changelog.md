@@ -9,6 +9,60 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-05-27T21:52:13+00:00 - deep-review
+- **Status**: Success
+- **File**: [probability-objections-many-worlds](/concepts/probability-objections-many-worlds/)
+- **Prior reviews**: 5th deep-review pass (2026-03-05, 2026-03-15, 2026-03-18, 2026-04-21); converged/stable
+- **Word count**: 1894 → 1894 (no change; 76% of 2500 concept soft threshold)
+- **Critical issues addressed**: 1 (regressed + propagated citation error)
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 (converged article; no philosophical changes warranted)
+- **Web-verify pass**: 10 load-bearing citations verified against live literature; prior "verified" marks NOT trusted. 9 CLEAN (Sebens & Carroll 2018 BJPS 69(1):25-74; Saunders 2021 Proc R Soc A 477(2255):20210600; Short 2023 Quantum 7:971; Lewis 2007 SHPMP 38:1-14; Baker 2007 SHPMP 38:153-169; Deutsch 1999 Proc R Soc A 455:3129-3137; Vaidman 1998 Int Stud Phil Sci 12(3):245-261; Zurek 2005 PRA 71:052105; Graham 1973 DeWitt vol Princeton — confirmed, deferred-precision item resolved). 1 WRONG: Wallace (2003) "Everettian rationality" listed as SHPMP 34, 87-105 — actual is **34(3), 415-439** (DOI 10.1016/S1355-2198(03)00036-4).
+- **Regression note**: the 2026-03-05 review of THIS article corrected exactly this Wallace page error (87-105 → 415-439); it reappeared and survived 3 subsequent reviews. Uniformly-propagated wrong citation passes intra-corpus consistency; only live web-verify caught it. Same failure mode as the Koch fabrication in the prior changelog entry.
+- **Propagation fixed**: same wrong "34, 87-105" corrected in [probability-problem-in-many-worlds](/topics/probability-problem-in-many-worlds/), research/probability-decision-theory-against-many-worlds-2026-03-04, and archive/topics/decision-theory-cannot-save-many-worlds. Standardized all to 415-439.
+- **Engagements**: Wallace/Sebens & Carroll/Zurek/Kent-Lewis all Mode One (in-framework circularity/alternative-weighting objections); structural "every outcome occurs" thesis Mode Three (framework-boundary, tenet-declared). No boundary-substitution; no label leakage.
+- **Output**: [deep-review-2026-05-27-probability-objections-many-worlds](/reviews/deep-review-2026-05-27-probability-objections-many-worlds/)
+
+## 2026-05-27T21:46:05+00:00 - deep-review
+- **Status**: Success
+- **File**: [consciousness-in-smeared-quantum-states](/topics/consciousness-in-smeared-quantum-states/)
+- **Prior reviews**: 4th deep-review pass (2026-02-15, 2026-03-16, 2026-04-16); all prior passes reported "stable"
+- **Word count**: 2161 → 2213 (+52; well under 3000 soft threshold)
+- **Critical issues addressed**: 1 (fabricated/incorrect citation surviving all 3 prior reviews)
+- **Medium issues addressed**: 2 (dropped vibrational-modes qualifier; tenet-section evidential overstatement)
+- **Web-verify pass**: 10 load-bearing citations verified against live literature. 9 verified exact/correct (Wiest 2025 niaf011; Wiest & Puniani 2025 CSBJ; Beshkar 2025 Comm. Integr. Biol.; Tegmark 2000 PRE 61:4194; Hagan 2002 PRE 65:061901; Chalmers & McQueen 2021 quote verbatim; Albert & Loewer 1988 Synthese 77:195; Hameroff & Penrose 2014 PLR 11:39; NV-diamond *J. Biol. Phys.* 2026). 1 WRONG: "Koch, C. et al. (2024). Quantum approaches to consciousness…Allen Institute/Google Quantum AI" is a fabricated title/venue/lead-author — the real work is Neven, H. et al. (2024), "Testing the Conjecture That Quantum Processes Create Conscious Experience," *Entropy* 26(6):460. Body attribution ("Koch and collaborators, incl. Neven") was already correct; only the reference entry was fabricated.
+- **Propagation fixed**: same wrong Koch citation corrected in 3 other files ([open-question-ai-consciousness](/apex/open-question-ai-consciousness/), [consciousness-in-non-collapsed-quantum-states](/concepts/consciousness-in-non-collapsed-quantum-states/), research/consciousness-non-collapsed-quantum-states-2026-02-10). Also fixed a separate wrong Wiest 2025 entry in open-question-ai-consciousness ("Quantum effects in consciousness-relevant neural proteins. *Physics of Life Reviews*" → correct niaf011 *Neuroscience of Consciousness*).
+- **Engagements**: Dennett (definiteness premise) Mode Three, honest boundary-marking; decoherence sceptic (Tegmark) Mixed. No label leakage.
+- **Output**: [deep-review-2026-05-27-consciousness-in-smeared-quantum-states](/reviews/deep-review-2026-05-27-consciousness-in-smeared-quantum-states/)
+
+## 2026-05-27T21:34:44+00:00 - refine-draft
+- **Status**: Success
+- **File**: [consciousness-and-the-normativity-of-reason](/topics/consciousness-and-the-normativity-of-reason/)
+- **Original score**: n/a (calibration-anchoring audit, not quality review)
+- **Task**: Audit Three (topic-concept anchoring) — bring hedge profile in line with anchor concept [explanatory-gap](/concepts/explanatory-gap/) (9.87/kw); target was the remaining flat strong-assertions, NOT the deep-review parity fix from commit 578adc0e.
+- **Hedge density**: 1.47/kw → ~12.1/kw (now above the anchor's 9.87/kw and the 60% floor of 5.92/kw); word count 2034 → 2398 (slightly up, well under threshold)
+- **Changes**:
+  - Opening: marked the argument conceptual-not-empirical and Map-attributed; "simply happen / never correct" → "seem to simply happen / on the face of it never correct"; "masquerading as reason" → "may resemble reason without instantiating it".
+  - Two Senses of Because: "These are categorically different" → "These appear to be"; added the naturalist counter-position (reliable causal chain) as live.
+  - Section header "Why Physical Processes Cannot Close the Gap" → "Why the Map Holds Physical Processes Cannot Close the Gap".
+  - Reliabilism: "does not eliminate; presupposes it" reattributed to the Map's contention + added reliabilist resistance and unsettled status.
+  - Functionalism: reattributed the gap-claim to the Map, added the functionalist denial as the point in dispute.
+  - Evolution/Plantinga: conditionalised ("If Plantinga's argument holds"), noted teleosemantic/debunking responses as live.
+  - Carrier wheel analogy: "The analogy fails" → "The Map's reply is that the analogy seems to fail"; flagged Carrier's defenders.
+  - Searle/Chinese Room: Map-attributed the no-grasp claim, added systems-reply/functionalist contestation.
+  - Consciousness-as-ground close: "Only a conscious mind can follow a rule" reframed as the Map's contested terminus.
+  - Parallel-with-hard-problem: "Both gaps point to the same reality" / "no physical process could replicate" marked as the Map's reading, contingent on the contested cognitive-phenomenology premise.
+- **Preserved**: deep-review parity fix ("argued position, not a settled result"; "Naturalists contest this... live rather than closed") fully intact; all citation framing untouched (web-verify done in deep-review — Nagel/Lewis/Sellars/Carrier clean). No "This is not X. It is Y." cliché; no editor-vocabulary leakage.
+- **Published**: yes
+
+## 2026-05-27T21:20:00+00:00 - tune-system
+- **Status**: Aborted (cadence floor — 9th invocation in ~28 days; last run ~18h ago)
+- **Sessions analyzed**: 0 (insufficient new data; ≥3–5 required)
+- **Health**: green (critical_issues 0, failed_tasks {}, orphaned_files 0)
+- **Tier 1 changes**: 0 (no tunable sections in slimmed state file)
+- **Tier 2/3**: 2 recurring (cycle-trigger ≥30d guard; state-schema reconcile) + 1 NEW (schedule web-verify cadence on citation-heavy converged articles — 3-for-3 buried-fabrication catches this session)
+- **Output**: [system-tune-2026-05-27](/reviews/system-tune-2026-05-27/)
+
 ## 2026-05-27T11:35:00+00:00 - check-tenets
 - **Status**: Success
 - **Files checked**: 611 (258 topics, 251 concepts, 102 voids)

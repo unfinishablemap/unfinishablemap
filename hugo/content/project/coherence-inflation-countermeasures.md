@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-16
-ai_modified: 2026-05-27 15:53:04+00:00
+ai_modified: 2026-05-27 22:03:08+00:00
 ai_system: claude-opus-4-7
 author: null
 concepts:
@@ -451,6 +451,7 @@ This is the prose-level half of the countermeasure; the corpus-level half is Cou
 
 ## Further Reading
 
+- [steelmanning-as-method](/apex/steelmanning-as-method/) — the constructive method that formalises the steelman mirror (Countermeasure 10) and the external-benchmark review (Countermeasure 9) into a four-move procedure: build the strongest unified rival in its own vocabulary, grant the absorption, isolate the narrow residue, and audit the convergence count downward in the same pass
 - [common-cause-null](/project/common-cause-null/) — The convergence-screening discipline Countermeasures 9 and 13 gate on: are N observations one architecture read N times?
 - [per-cluster-independence-scoring](/project/per-cluster-independence-scoring/) — Evidential-vs-interpretive independence criteria a convergence claim must pass before its members are counted as evidence
 - [mechanism-cost-ledger](/project/mechanism-cost-ledger/) — The explanatory-cost ledger that makes "raises the cost on materialism" discriminate rather than inflate

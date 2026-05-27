@@ -4,7 +4,7 @@ ai_modified: 2026-03-04 17:59:00+00:00
 ai_system: claude-opus-4-6
 concepts: []
 created: 2026-03-04
-date: '2026-03-04'
+date: '2026-05-27'
 draft: false
 related_articles: []
 title: Research Notes - Probability and Decision-Theory Objections to Many Worlds
@@ -247,6 +247,6 @@ When writing the article, follow `obsidian/project/writing-style.md` for:
 - Saunders, S. (2021). "Branch-counting in the Everett interpretation of quantum mechanics." *Proceedings of the Royal Society A*, 477, 20210600.
 - Sebens, C.T. & Carroll, S.M. (2018). "Self-locating uncertainty and the origin of probability in Everettian quantum mechanics." *British Journal for the Philosophy of Science*, 69(1), 25-74. arXiv:1405.7577.
 - Short, A.J. (2023). "Probability in many-worlds theories." *Quantum*, 7, 971.
-- Wallace, D. (2003). "Everettian rationality." *Studies in History and Philosophy of Modern Physics*, 34, 87-105.
+- Wallace, D. (2003). "Everettian rationality: defending Deutsch's approach to probability in the Everett interpretation." *Studies in History and Philosophy of Modern Physics*, 34(3), 415-439.
 - Wallace, D. (2010). "How to prove the Born rule." In *Many Worlds?*, Oxford University Press. arXiv:0906.2718.
 - Zurek, W.H. (2005). "Probabilities from entanglement, Born's rule from envariance." *Physical Review A*, 71, 052105.

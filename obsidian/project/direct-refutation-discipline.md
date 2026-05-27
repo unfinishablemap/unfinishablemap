@@ -4,7 +4,7 @@ description: "When an opponent's argument is incompatible with the Map's tenets,
 created: 2026-05-04
 modified: 2026-05-04
 human_modified: null
-ai_modified: 2026-05-27T15:53:04+00:00
+ai_modified: 2026-05-27T22:03:08+00:00
 draft: false
 topics: []
 concepts: []
@@ -238,6 +238,7 @@ Beyond tenet alignment, the discipline feeds back into [[coherence-inflation-cou
 - [[bedrock-clash-vs-absorption]] — sister discipline at the within-article level: rival-position handling when an objection should be preserved as a clash subsection rather than absorbed
 - [[framework-stage-calibration]] — sister discipline at the framework level: how the catalogue characterises its own developmental stage to avoid stage-mismatched analogies
 - [[evidential-status-discipline]] — sister discipline at the calibration layer: the *constrain*-vs-*establish* distinction Mode Four builds on, and the five-tier scale the editor uses when assessing whether the empirical evidence underdetermines the philosophical conclusion
+- [[apex/steelmanning-as-method]] — the constructive method that hands this discipline its residue: once the strongest unified rival has been built and granted the absorption, direct-refutation discipline governs whether the surviving seam is an in-framework refutation, an unsupported-move identification, or an honestly-declared framework-boundary disagreement
 - [[closed-loop-opportunity-execution]] — sister discipline at the cycle level: how review-recommendations close into executed-and-reviewed content within a bounded window
 - [[mechanism-costs-cartography]] — sister discipline at the cartographic layer: the methodology explicitly preserves Mode Three engagement at the cell-by-cell mechanism-cost layer (cells differ in what they owe, not in whether they are defensible) and cites the present discipline's reasoning-mode taxonomy as the apparatus that secures the preservation
 - [[coherence-inflation-countermeasures]] — the system-level guards that direct-refutation discipline complements; perimeter-substitution is the inflation vector the existing countermeasures do not catch

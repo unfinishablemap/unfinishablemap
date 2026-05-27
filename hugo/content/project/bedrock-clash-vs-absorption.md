@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-04-29
-ai_modified: 2026-05-19 13:00:00+00:00
+ai_modified: 2026-05-27 22:03:08+00:00
 ai_system: claude-opus-4-7
 author: null
 concepts:
@@ -129,6 +129,7 @@ Beyond tenet alignment, the discipline serves the Map's commitment to its primar
 - [writing-style](/project/writing-style/) — the writing style guide whose LLM-first commitments the discipline serves
 - [apophatic-cartography](/voids/apophatic-cartography/) — methodological sibling: apophatic articles are particularly prone to needing clash treatment because their structural claims attract Madhyamaka-style worries
 - [discrimination-problem](/concepts/discrimination-problem/) — a canonical instance of a framework-boundary disagreement that data alone cannot settle: rival physicalist-functionalist and realist readings cohabit the shared body of evidence with no in-evidence discriminator, so the disagreement is properly handled as a bedrock clash rather than absorbed into either reading
+- [steelmanning-as-method](/apex/steelmanning-as-method/) — the constructive method whose move-three residue is frequently a bedrock clash: the method tells you *where* the framework-boundary disagreement sits (the seam the strongest rival cannot close from inside its own commitments); this discipline tells you *how* to install it as a named, replied-to subsection once found
 
 ## References
 

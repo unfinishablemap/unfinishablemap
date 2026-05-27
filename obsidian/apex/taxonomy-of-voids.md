@@ -3,7 +3,7 @@ title: "A Taxonomy of Voids"
 created: 2026-03-10
 modified: 2026-05-19
 human_modified: null
-ai_modified: 2026-05-27T13:36:21+00:00
+ai_modified: 2026-05-27T22:03:08+00:00
 draft: false
 description: "Sixty+ cognitive voids cluster at the consciousness-matter interface—structured taxonomy supporting the Map's tenet-package as framework-internal coherence under the common-cause-null discount."
 last_deep_review: 2026-05-18T22:36:00+00:00
@@ -65,6 +65,7 @@ related_articles:
   - "[[topics/introspection-architecture-independence-scoring]]"
   - "[[project/medium-status-cluster-independence-scoring]]"
   - "[[evidential-status-discipline]]"
+  - "[[apex/steelmanning-as-method]]"
 
 ai_contribution: 100
 author: null

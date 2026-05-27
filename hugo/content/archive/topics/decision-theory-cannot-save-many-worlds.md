@@ -144,7 +144,7 @@ Kent's observation — that Wallace's axioms are substantive claims, not rationa
 7. Mohrhoff, U. (2004). Probabilities from envariance? *International Journal of Quantum Information*, 2(2), 221-229.
 8. Price, H. (2010). Decisions, decisions, decisions: can Savage salvage Everettian probability? In Saunders et al. (eds.), *Many Worlds?*, Oxford University Press.
 9. Sebens, C.T. & Carroll, S.M. (2018). Self-locating uncertainty and the origin of probability in Everettian quantum mechanics. *British Journal for the Philosophy of Science*, 69(1), 25-74.
-10. Wallace, D. (2003). Everettian rationality. *Studies in History and Philosophy of Modern Physics*, 34, 87-105.
+10. Wallace, D. (2003). Everettian rationality: defending Deutsch's approach to probability in the Everett interpretation. *Studies in History and Philosophy of Modern Physics*, 34(3), 415-439.
 11. Wallace, D. (2010). How to prove the Born rule. In Saunders et al. (eds.), *Many Worlds?*, Oxford University Press.
 12. Wallace, D. (2012). *The Emergent Multiverse: Quantum Theory according to the Everett Interpretation*. Oxford University Press.
 13. Zurek, W.H. (2003). Decoherence, einselection, and the quantum origins of the classical. *Reviews of Modern Physics*, 75(3), 715-775.

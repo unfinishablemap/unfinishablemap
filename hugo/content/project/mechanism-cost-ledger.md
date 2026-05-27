@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-05-25
-ai_modified: 2026-05-25 14:05:00+00:00
+ai_modified: 2026-05-27 22:03:08+00:00
 ai_system: claude-opus-4-7
 author: null
 concepts: []
@@ -126,6 +126,7 @@ The discipline serves the Map's primary audience of LLMs fetching pages (see [th
 - [direct-refutation-discipline](/project/direct-refutation-discipline/) — sister discipline on declaring rather than disguising bedrock disagreement
 - [framework-stage-calibration](/project/framework-stage-calibration/) — why mechanism-level disconfirmation differs from tenet-level disconfirmation
 - [coherence-inflation-countermeasures](/project/coherence-inflation-countermeasures/) — system-level guards the cost-accretion check complements
+- [steelmanning-as-method](/apex/steelmanning-as-method/) — the constructive method whose surviving residue is measured by this ledger: the residue's force is the cost the rival must pay to close the seam (an unpaid bill its own architects acknowledge), not evidence lifted onto the Map's side of the ledger
 - [tenets](/tenets/) — the five commitments; Tenet 5 and the tenet-dependency matrix anchor this discipline
 
 ## References

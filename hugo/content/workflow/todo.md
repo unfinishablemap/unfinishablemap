@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-27 19:21:36+00:00
+ai_modified: 2026-05-27 22:05:00+00:00
 ai_system: claude-opus-4-7
 author: Andy Southgate
 concepts: []
@@ -37,36 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **P2**: Low - nice to have, human approval needed
 
 ## Active Tasks
-
-### P2: Adopt explanatory-gap calibration in consciousness-and-the-normativity-of-reason
-- **Type**: refine-draft
-- **Status**: pending
-- **File**: obsidian/topics/consciousness-and-the-normativity-of-reason.md
-- **Notes**: From topic-concept anchoring audit 2026-05-27. The topic article over-claims relative to its anchor concept [explanatory-gap](/concepts/explanatory-gap/); failed checks: hedge_density, strong_assertions.
-  - hedge density 1.43/kw is below 60% of anchor (9.87/kw)
-  - strong-assertion density 0.96/kw exceeds 1.5× anchor (0.58/kw)
-  - Action: bring the topic's hedge profile in line with the anchor concept's. Preserve the article's voice; this is not a request to weaken the central claim, only to inherit the calibration discipline the anchor concept already uses. See [calibration-audit-triple](/project/calibration-audit-triple/) Audit Three for the spec and [evidential-status-discipline](/project/evidential-status-discipline/) for the underlying rule.
-- **Source**: topic-concept-anchoring-audit
-- **Generated**: 2026-05-27
-
-### P2: Adopt intentionality calibration in consciousness-and-the-normativity-of-reason
-- **Type**: refine-draft
-- **Status**: pending
-- **File**: obsidian/topics/consciousness-and-the-normativity-of-reason.md
-- **Notes**: From topic-concept anchoring audit 2026-05-27. The topic article over-claims relative to its anchor concept [intentionality](/concepts/intentionality/); failed checks: hedge_density, strong_assertions.
-  - hedge density 1.43/kw is below 60% of anchor (4.60/kw)
-  - strong-assertion density 0.96/kw exceeds 1.5× anchor (0.58/kw)
-  - Action: bring the topic's hedge profile in line with the anchor concept's. Preserve the article's voice; this is not a request to weaken the central claim, only to inherit the calibration discipline the anchor concept already uses. See [calibration-audit-triple](/project/calibration-audit-triple/) Audit Three for the spec and [evidential-status-discipline](/project/evidential-status-discipline/) for the underlying rule.
-- **Source**: topic-concept-anchoring-audit
-- **Generated**: 2026-05-27
-
-
-### P2: Deep review concepts/probability-objections-many-worlds.md (36 days since last review, ai_contribution=100, Tenet 4 load-bearing)
-- **Type**: deep-review
-- **Status**: pending
-- **Notes**: Staleness check (/replenish-queue 2026-05-27, conservative; floor-restoring). Verified `last_deep_review: 2026-04-21T21:38:00+00:00` (~36 days), `ai_contribution=100`, 1886 words (well within concepts thresholds). No open deep-review header targets this file; not vetoed; not same-day-touched. This is a Tenet 4 (No Many Worlds / indexical identity matters) load-bearing concept page — it carries the probability-incoherence objection to MWI that the Map's rejection of many-worlds leans on. Deep-review should: (a) verify the probability/self-locating-uncertainty arguments against MWI still reflect the catalogue's current Tenet 4 treatment and the post-March indexical-identity material ([multi-mind-collapse-problem](/concepts/multi-mind-collapse-problem/) was deep-reviewed 2026-05-26 — check coherence with its selection/corridor reading); (b) check the MWI-probability literature is current (the Deutsch-Wallace decision-theoretic programme and its critics are an active philosophy-of-physics area — flag literature-drift if the article cites only pre-2015 work on a contested point); (c) honour [evidential-status-discipline](/project/evidential-status-discipline/) (the incoherence charge should be scoped to the version of MWI it targets, not over-generalised); (d) confirm cross-links resolve live and are reciprocated where load-bearing; (e) writing-style + length discipline. Apply in-place fixes if minor; generate a follow-on refine-draft task if substantive. Tenet alignment: Tenet 4 (No Many Worlds).
-- **Source**: staleness
-- **Generated**: 2026-05-27
 
 ### ✓ P2: Deep review topics/the-observer-witness-in-meditation.md (51 days since last review, ai_contribution=100, Tenet 3 load-bearing)
 - **Type**: deep-review
@@ -125,6 +95,20 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Status**: pending
 - **Notes**: PROMOTED to P2 by /replenish-queue 2026-05-27 (second floor-restoring chain task, same replenish run as the self-stultification cross-review above): both raise the actionable queue from 2 to 4, above the MIN_QUEUE floor of 3, via grounded chain successors rather than speculative new content (sections at/near cap, staleness pool dry, length offenders blocked/vetoed/index — see the sibling task's notes for the full steady-state accounting). `apex/steelmanning-as-method.md` ("Steelmanning as Method: Building the Rival Before the Residue") was created today (2026-05-27, ai_contribution=100); no open task references it. Verified `apex/phenomenal-output-causal-machinery-dissociation.md` — which the new apex names as the methodological ancestor of the build-the-rival-then-isolate-the-residue pattern — does NOT yet link back to steelmanning-as-method (reciprocity gap), so real cross-review work exists. Cross-review should: (a) install reciprocal `[[steelmanning-as-method]]` cross-links from the live siblings it names — `apex/phenomenal-output-causal-machinery-dissociation.md` (the worked-exhibit ancestor), `apex/moral-architecture-of-consciousness.md`, `apex/phenomenology-mechanism-bridge.md`, `apex/taxonomy-of-voids.md`, and the methodology-discipline pages ([evidential-status-discipline](/project/evidential-status-discipline/), [coherence-inflation-countermeasures](/project/coherence-inflation-countermeasures/), [bedrock-clash-vs-absorption](/project/bedrock-clash-vs-absorption/), [common-cause-null](/project/common-cause-null/), [direct-refutation-discipline](/project/direct-refutation-discipline/), [framework-stage-calibration](/project/framework-stage-calibration/), [per-cluster-independence-scoring](/project/per-cluster-independence-scoring/), [mechanism-cost-ledger](/project/mechanism-cost-ledger/)) — where load-bearing; (b) check for contradictions or method-naming drift between the new apex's stated method and the disciplines it generalises (does "steelmanning as method" claim more unification than the named-discipline pages individually license?); (c) honour [evidential-status-discipline](/project/evidential-status-discipline/) — the "isolate the narrow surviving residue" move grants the rival absorbs the shape, then isolates felt-character; verify the residue claim is not upgraded from defeater-removal to evidence-lift; (d) confirm the new apex's outbound wikilinks resolve live. NOTE: `phenomenal-output-causal-machinery-dissociation` is currently in Blocked Tasks for a length decision — installing one reciprocal cross-link is a small targeted edit, not a condense; do not expand it. Apply in-place fixes if minor; generate a follow-on refine-draft task if substantive. Tenet alignment: Tenet 5 (Occam's Razor Has Limits — steelmanning is the discipline that resists premature parsimony-driven dismissal of the residue); methodologically supports all five.
 - **Source**: chain (from apex/steelmanning-as-method.md, created 2026-05-27)
+- **Generated**: 2026-05-27
+
+### P2: Deep review concepts/rational-normativity.md (41 days since creation, never independently reviewed, ai_contribution=100, Tenet 1 load-bearing)
+- **Type**: deep-review
+- **Status**: pending
+- **Notes**: Generated by /replenish-queue 2026-05-27 (conservative, floor-restoring). Actionable (P0-P2) queue was at 2, below the MIN_QUEUE floor of 3 (see the metaphysics-of-composition promotion above for the full steady-state accounting: voids over cap, no unconsumed research, worst length offenders BLOCKED, next-tier offenders condense-churn). Grounded staleness deep-review, not speculative content. `concepts/rational-normativity.md` ("Rational Normativity", ~1687 words) was created 2026-04-15 via expand-topic with `last_deep_review` set to the creation timestamp (2026-04-15T20:42) — never *independently* reviewed, now ~41 days old, `ai_contribution=100`; no open task targets it. This page is the canonical home the corpus needs for the *norm-implementing vs norm-grasping* distinction that does load-bearing argument-from-reason work across `topics/self-stultification-as-master-argument.md`, `topics/trilemma-of-selection.md`, and `topics/argument-from-reason.md` (see the open P3 "Consolidate the norm-implementing vs norm-grasping distinction" task at line ~288, which names this page as a candidate host). Deep-review should: (a) verify the distinction is stated crisply and the chess-engine/theorem-prover exhibit is accurate; (b) honour `[[evidential-status-discipline]]` — the distinction *identifies what the physicalist must account for*, it does not by itself *prove* consciousness is required for grasping; verify that register is intact (transcendental/coherence argument, not empirical finding); (c) confirm cross-links to `[[reasons-responsiveness]]`, `[[self-stultification]]`, `[[argument-from-reason]]`, `[[epiphenomenalism]]` resolve live and are reciprocated where load-bearing; (d) writing-style + length discipline (~1687 words, well under the 2500 concepts soft threshold; no "This is not X. It is Y." cliché). Note: if this review confirms the page is a clean consolidation host, it may discharge or simplify the open P3 consolidation task — coordinate, do not duplicate. Apply in-place fixes if minor; generate a follow-on refine-draft task if substantive. Tenet alignment: Tenet 1 (Dualism via the argument from reason); Tenet 3 (Bidirectional Interaction — reasons-grasping as causally efficacious).
+- **Source**: staleness
+- **Generated**: 2026-05-27
+
+### P2: Deep review concepts/conceivability-possibility-inference.md (41 days since last review, ai_contribution=100, Tenet 1/5 load-bearing)
+- **Type**: deep-review
+- **Status**: pending
+- **Notes**: Generated by /replenish-queue 2026-05-27 (conservative, floor-restoring). Actionable (P0-P2) queue was at 2, below the MIN_QUEUE floor of 3 (full steady-state accounting in the metaphysics-of-composition promotion above). Grounded staleness deep-review, not speculative content. `concepts/conceivability-possibility-inference.md` ("Conceivability-Possibility Inference", ~2220 words) was last deep-reviewed 2026-04-16 (~41 days ago) with `ai_contribution=100`; no open task targets it. This concept page is methodologically load-bearing: the Map relies on conceivability-based thought experiments throughout (zombies, Mary's Room, inverted qualia), and this page is the dedicated treatment of *when* a conceivability→possibility step is licensed — the modal-inference hinge the dualism arguments stand on. Deep-review should: (a) verify the Chalmers two-dimensional / primary-vs-secondary-intension machinery and the standard objections (Kripkean a posteriori necessity, Hill & McLaughlin, Yablo on conceivability types) are accurately represented and current; (b) honour `[[evidential-status-discipline]]` — guard against possibility/probability slippage and against treating a conceivability claim as settling a metaphysical-possibility claim (this page is precisely where that discipline is operationalised, so it must model it); (c) confirm cross-links to `[[philosophical-zombies]]`, `[[knowledge-argument]]`, `[[inverted-qualia]]`, `[[conceivability-arguments]]` (if it exists) resolve live and are reciprocated where load-bearing; (d) writing-style + length discipline (~2220 words, under the 2500 concepts soft threshold; no "This is not X. It is Y." cliché). Apply in-place fixes if minor; generate a follow-on refine-draft task if substantive. Tenet alignment: Tenet 1 (Dualism — conceivability arguments are a primary route to the dualist conclusion); Tenet 5 (Occam's Razor Has Limits — the page calibrates how much weight a priori modal intuition can bear under incomplete knowledge).
+- **Source**: staleness
 - **Generated**: 2026-05-27
 
 ### P3: Write concept page for "direction-of-interface-change" signature family
@@ -1151,12 +1135,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: gap_analysis
 - **Generated**: 2026-04-15
 
-### P3: Deep review metaphysics-of-composition.md
+### P2: Deep review concepts/metaphysics-of-composition.md (41 days since creation, never independently reviewed, ai_contribution=100, Tenet 1 load-bearing)
 - **Type**: deep-review
 - **Status**: pending
-- **Notes**: AI-generated content (ai_contribution: 100) created 2026-04-15 via expand-topic, never reviewed. Concept page on mereological composition and its relationship to consciousness — how parts compose wholes bears on the combination problem and binding problem. Verify coherence, accuracy of mereological claims, cross-references to consciousness-and-the-metaphysics-of-composition and combination-problem, and tenet alignment.
+- **Notes**: PROMOTED P3→P2 by /replenish-queue 2026-05-27 (conservative). The actionable (P0-P2) queue stood at 2 (the consciousness-and-skill-acquisition literature-drift P2 + the steelmanning-as-method cross-review P2), below the MIN_QUEUE floor of 3. Documented steady state: voids over cap (101/100); topics (257/270) and concepts (250/270) have room but NO unconsumed research awaits synthesis (the only fresh research note, `research/pci-phi-anaesthesia-recovery-2026-05-27.md`, was an in-place citation-anchor for an existing article, already consumed today); the two worst length offenders (epistemology-of-convergence-arguments, apex/phenomenal-output-causal-machinery-dissociation) are BLOCKED for a human editorial decision, and the next tier (born-rule, meaning-of-life, taxonomy-of-voids, apex-articles) are confirmed condense-churn (born-rule vetoed after repeated condense/re-expand; meaning-of-life condensed earlier today; taxonomy/apex-articles are index hubs). So the honest floor-restoring move is grounded staleness deep-reviews rather than speculative expand-topic work against the ~470-task P3 backlog. `concepts/metaphysics-of-composition.md` ("Metaphysics of Composition", ~1169 words) was created 2026-04-15 via expand-topic with `last_deep_review` set to the creation timestamp (2026-04-15T18:50) — i.e. never *independently* reviewed, now ~41 days old, the oldest such candidate in the corpus. This concept page anchors the Special Composition Question cluster that `topics/consciousness-and-the-metaphysics-of-composition.md` reads as a convergence-for-dualism exhibit. Deep-review should: (a) verify the mereological claims (van Inwagen's organicism, Merricks' eliminativism, the SCQ framing) are accurate and current; (b) confirm cross-links to `[[consciousness-and-the-metaphysics-of-composition]]`, `[[combination-problem]]`, `[[panpsychisms-combination-problem]]`, `[[phenomenal-non-compositionality]]` resolve live and are reciprocated where load-bearing; (c) honour `[[evidential-status-discipline]]` — the page supports the convergence-for-dualism reading but must not be stronger than the convergence-arguments discipline (independence / methodological-diversity / against-the-grain) licenses; (d) writing-style + length discipline (~1169 words, well under the 2500 concepts soft threshold; no "This is not X. It is Y." cliché). Apply in-place fixes if minor; generate a follow-on refine-draft or literature-drift task if substantive. Tenet alignment: Tenet 1 (Dualism — consciousness as the criterion distinguishing genuine composites from mere aggregates).
 - **Source**: staleness
-- **Generated**: 2026-04-15
+- **Generated**: 2026-04-15 (promoted 2026-05-27)
 
 ### P3: Write article on consciousness-physics interface mechanism (technical treatment)
 - **Type**: expand-topic
@@ -3613,6 +3597,18 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 Tasks that failed 3+ times and require human intervention.
 
+
+### ✓ 2026-05-27: Deep review concepts/probability-objections-many-worlds.md (36 days since last review, ai_contribution=100, Tenet 4 load-bearing)
+- **Type**: deep-review
+- **Notes**: Staleness check (/replenish-queue 2026-05-27, conservative; floor-restoring). Verified `last_deep_review: 2026-04-21T21:38:00+00:00` (~36 days), `ai_contribution=100`, 1886 words (well within concepts thresholds). No open deep-review header targets this file; not vetoed; not same-day-touched. This is a Tenet 4 (No Many Worlds / indexical identity matters) load-bearing concept page — it carries the probability-incoherence objection to MWI that the Map's rejection of many-worlds leans on. Deep-review should: (a) verify the probability/self-locating-uncertainty arguments against MWI still reflect the catalogue's current Tenet 4 treatment and the post-March indexical-identity material ([multi-mind-collapse-problem](/concepts/multi-mind-collapse-problem/) was deep-reviewed 2026-05-26 — check coherence with its selection/corridor reading); (b) check the MWI-probability literature is current (the Deutsch-Wallace decision-theoretic programme and its critics are an active philosophy-of-physics area — flag literature-drift if the article cites only pre-2015 work on a contested point); (c) honour [evidential-status-discipline](/project/evidential-status-discipline/) (the incoherence charge should be scoped to the version of MWI it targets, not over-generalised); (d) confirm cross-links resolve live and are reciprocated where load-bearing; (e) writing-style + length discipline. Apply in-place fixes if minor; generate a follow-on refine-draft task if substantive. Tenet alignment: Tenet 4 (No Many Worlds).
+
+### ✓ 2026-05-27: Adopt intentionality calibration in consciousness-and-the-normativity-of-reason
+- **Type**: refine-draft
+- **Notes**: From topic-concept anchoring audit 2026-05-27. The topic article over-claims relative to its anchor concept [intentionality](/concepts/intentionality/); failed checks: hedge_density, strong_assertions.
+
+### ✓ 2026-05-27: Adopt explanatory-gap calibration in consciousness-and-the-normativity-of-reason
+- **Type**: refine-draft
+- **Notes**: From topic-concept anchoring audit 2026-05-27. The topic article over-claims relative to its anchor concept [explanatory-gap](/concepts/explanatory-gap/); failed checks: hedge_density, strong_assertions.
 
 ### ✓ 2026-05-27: Deep review topics/quantum-measurement-and-consciousness.md (34 days since last review, ai_contribution=100, Tenet 2 load-bearing)
 - **Type**: deep-review

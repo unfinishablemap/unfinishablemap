@@ -4,7 +4,7 @@ description: "The methodology for scoring each voids cluster against the four ap
 created: 2026-05-19
 modified: 2026-05-19
 human_modified:
-ai_modified: 2026-05-27T13:36:21+00:00
+ai_modified: 2026-05-27T22:03:08+00:00
 last_deep_review: 2026-05-19T23:30:00+00:00
 draft: false
 topics: []
@@ -164,6 +164,7 @@ The methodology is silent on [[tenets#^minimal-quantum-interaction|Tenet 2 — M
 - [[direct-refutation-discipline]], [[framework-stage-calibration]], [[coherence-inflation-countermeasures]], [[bedrock-clash-vs-absorption]] — sister disciplines at adjacent registers
 - [[architecture-vs-significance-two-tier-discount]] — the canonical statement of what this methodology's asymmetric profile mark (*strong-on-architecture-lower-on-significance*) means: the architecture tier inherits the smaller framework-dependence discount, the significance tier the larger
 - [[apex/taxonomy-of-voids]] — the apex naming per-cluster independence scoring as the open programme
+- [[apex/steelmanning-as-method]] — the constructive method whose move-four downward audit applies this scoring to an article's own convergence count: distinguishing genuinely independent witnesses from a rival miscatalogued as a friendly witness or a parallel proposer double-counted as evidence
 - [[the-surplus-void]] — first worked exhibit (retraction case)
 - [[topics/introspection-architecture-independence-scoring]] — second worked exhibit (partial-retention case)
 - [[topics/introspection-architecture-independence-scoring#the-cross-species-channel]] — the cross-species and cross-tradition channel audits running the methodology face-by-face on the introspection-architecture cluster

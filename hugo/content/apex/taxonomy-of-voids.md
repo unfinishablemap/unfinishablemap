@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-10
-ai_modified: 2026-05-27 13:36:21+00:00
+ai_modified: 2026-05-27 22:03:08+00:00
 ai_system: claude-opus-4-6
 apex_last_synthesis: 2026-04-30 03:11:00+00:00
 apex_sources:
@@ -90,6 +90,7 @@ related_articles:
 - '[[topics/introspection-architecture-independence-scoring]]'
 - '[[project/medium-status-cluster-independence-scoring]]'
 - '[[evidential-status-discipline]]'
+- '[[apex/steelmanning-as-method]]'
 title: A Taxonomy of Voids
 topics:
 - '[[hard-problem-of-consciousness]]'

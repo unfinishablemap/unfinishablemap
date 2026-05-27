@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-05-09
-ai_modified: 2026-05-26 21:37:28+00:00
+ai_modified: 2026-05-27 22:03:08+00:00
 ai_system: claude-opus-4-7
 apex_last_synthesis: 2026-05-09 17:38:00+00:00
 apex_sources:
@@ -67,6 +67,7 @@ related_articles:
 - '[[medium-status-voids-in-cognition]]'
 - '[[apex/introspection-architecture-void-cluster]]'
 - '[[anoetic-noetic-autonoetic-consciousness]]'
+- '[[apex/steelmanning-as-method]]'
 title: Phenomenal Output and Causal Machinery
 topics:
 - '[[hard-problem-of-consciousness]]'

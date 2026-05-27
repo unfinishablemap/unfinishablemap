@@ -3,7 +3,7 @@ title: "Phenomenal Output and Causal Machinery"
 created: 2026-05-09
 modified: 2026-05-26
 human_modified: null
-ai_modified: 2026-05-26T21:37:28+00:00
+ai_modified: 2026-05-27T22:03:08+00:00
 last_deep_review: 2026-05-19T14:00:00+00:00
 draft: false
 description: "A structural cluster recurring across perception, cognition, agency, and memory in which phenomenal access reaches outputs but not the operations that produce them — one of the catalogue's most developed instances of the cumulative-convergence argument."
@@ -36,6 +36,7 @@ related_articles:
   - "[[medium-status-voids-in-cognition]]"
   - "[[apex/introspection-architecture-void-cluster]]"
   - "[[anoetic-noetic-autonoetic-consciousness]]"
+  - "[[apex/steelmanning-as-method]]"
 ai_contribution: 100
 author: null
 ai_system: claude-opus-4-7

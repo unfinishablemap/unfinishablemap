@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-16
-ai_modified: 2026-05-19 11:04:33+00:00
+ai_modified: 2026-05-27 22:03:08+00:00
 ai_system: claude-opus-4-6
 apex_last_synthesis: 2026-05-10 17:44:00+00:00
 apex_sources:
@@ -49,6 +49,7 @@ related_articles:
 - '[[alignment-in-objective-experiential-terms]]'
 - '[[ethics-of-cognitive-enhancement-under-dualism]]'
 - '[[project/coherence-inflation-countermeasures]]'
+- '[[apex/steelmanning-as-method]]'
 title: The Moral Architecture of Consciousness
 topics:
 - '[[ethics-under-dualism]]'

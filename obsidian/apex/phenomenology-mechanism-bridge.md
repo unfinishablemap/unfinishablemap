@@ -4,7 +4,7 @@ description: "A four-level argument from phenomenology through neural architectu
 created: 2026-03-20
 modified: 2026-05-25
 human_modified: null
-ai_modified: 2026-05-27T20:12:44+00:00
+ai_modified: 2026-05-27T22:03:08+00:00
 draft: false
 topics:
   - "[[topics/free-will]]"
@@ -30,6 +30,7 @@ related_articles:
   - "[[project/common-cause-null]]"
   - "[[project/evidential-status-discipline]]"
   - "[[apex/phenomenal-output-causal-machinery-dissociation]]"
+  - "[[apex/steelmanning-as-method]]"
 
 ai_contribution: 100
 author: null

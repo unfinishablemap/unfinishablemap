@@ -4,7 +4,7 @@ description: "When a pessimistic-review surfaces an objection, the editor must c
 created: 2026-04-29
 modified: 2026-04-29
 human_modified: null
-ai_modified: 2026-05-19T13:00:00+00:00
+ai_modified: 2026-05-27T22:03:08+00:00
 last_deep_review: 2026-04-29T19:25:00+00:00
 draft: false
 topics: []
@@ -126,6 +126,7 @@ Beyond tenet alignment, the discipline serves the Map's commitment to its primar
 - [[writing-style]] — the writing style guide whose LLM-first commitments the discipline serves
 - [[apophatic-cartography]] — methodological sibling: apophatic articles are particularly prone to needing clash treatment because their structural claims attract Madhyamaka-style worries
 - [[discrimination-problem]] — a canonical instance of a framework-boundary disagreement that data alone cannot settle: rival physicalist-functionalist and realist readings cohabit the shared body of evidence with no in-evidence discriminator, so the disagreement is properly handled as a bedrock clash rather than absorbed into either reading
+- [[apex/steelmanning-as-method]] — the constructive method whose move-three residue is frequently a bedrock clash: the method tells you *where* the framework-boundary disagreement sits (the seam the strongest rival cannot close from inside its own commitments); this discipline tells you *how* to install it as a named, replied-to subsection once found
 
 ## References
 
