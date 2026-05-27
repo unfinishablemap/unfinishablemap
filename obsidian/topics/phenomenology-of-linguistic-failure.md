@@ -4,7 +4,7 @@ description: "What it feels like when words fail—the distinct experiential sig
 created: 2026-04-13
 modified: 2026-04-13
 human_modified:
-ai_modified: 2026-04-25T01:29:00+00:00
+ai_modified: 2026-05-27T00:39:24+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -17,7 +17,7 @@ related_articles:
   - "[[language-thought-boundary]]"
   - "[[language-and-consciousness]]"
   - "[[consciousness-and-language-interface]]"
-  - "[[thoughts-that-slip-away]]"
+  - "[[thought-stream-void]]"
   - "[[edge-states-and-void-probes]]"
   - "[[phenomenology-of-cognitive-limit-types]]"
   - "[[tenets]]"
@@ -26,7 +26,7 @@ author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-04-13
 last_curated:
-last_deep_review: 2026-04-15T07:56:00+00:00
+last_deep_review: 2026-05-27T00:39:24+00:00
 ---
 
 Language fails constantly. Not in the dramatic sense of aphasia or stroke, but in the ordinary friction of trying to say what you mean. You reach for a word and find only approximations. You articulate an insight and watch it flatten into something lesser. You sit with a felt meaning so vivid it seems impossible to miss, yet every sentence you produce slides past it. These failures are not blank absences. They have texture, structure, and distinct experiential signatures—and those signatures are philosophically revealing.
@@ -114,7 +114,7 @@ The phenomenology of linguistic failure connects to The Unfinishable Map's [[ten
 - [[language-thought-boundary]] — Where thought exceeds language: the structural analysis
 - [[language-and-consciousness]] — How philosophy of language reveals the irreducibility of consciousness
 - [[consciousness-and-language-interface]] — The bidirectional relationship between language and experience
-- [[thoughts-that-slip-away]] — Related phenomena of cognitive slippage
+- [[thought-stream-void]] — Related phenomena of cognitive slippage, where thoughts vanish as you reach for them
 - [[edge-states-and-void-probes]] — The general phenomenology of approaching cognitive limits
 - [[cognitive-phenomenology]] — Whether understanding has its own phenomenal character
 - [[phenomenology-of-cognitive-limit-types]] — How different cognitive limits produce distinct experiential signatures
