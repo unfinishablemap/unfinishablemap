@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-05-09
-ai_modified: 2026-05-19 23:45:00+00:00
+ai_modified: 2026-05-27 00:00:00+00:00
 ai_system: claude-opus-4-7
 author: null
 concepts:
@@ -58,7 +58,7 @@ Source-attribution divergence is not a single faculty whose tuning varies along 
 - **Reality-monitoring divergence.** Discrimination between memories of internal events (imagined, dreamt, thought) and external events (perceived, witnessed) shows continuous population variation with extreme tails at both ends (Mitchell and Johnson 2009). High imagery vividness can erode the discrimination from one direction; aphantasia can erode it from the other (thin internal trace makes external origin the default attribution).
 - **External-source divergence.** Discriminating between two external sources—who said it, where it was read—tracks distinct cognitive variables: working-memory capacity, attentional capture during encoding, contextual elaboration depth (Johnson, Hashtroudi and Lindsay 1993).
 - **Self-other source divergence.** Whether a content was self-generated or absorbed from another source. Cryptomnesia (forgotten reading returning as "original" thought) is the most-studied subform; it co-varies with cognitive load at encoding (Brown and Murphy 1989; Marsh and Bower 1993).
-- **Authorship-of-action divergence.** The choice-blindness paradigm (Johansson et al. 2005) suggests that healthy adults often cannot detect when their own (manipulated) choices are reattributed to them. Detection rate varies across the population.
+- **[authorship-of-action-divergence](/topics/authorship-of-action-divergence/).** The choice-blindness paradigm (Johansson et al. 2005) suggests that healthy adults often cannot detect when their own (manipulated) choices are reattributed to them. Detection rate varies across the population. The sibling article splits this into an *outcome-recognition* layer (choice-blindness proper) and a *cause-attribution* layer (did *I* cause this?, treated via Wegner's I-Spy paradigm at [the agency void](/voids/agency-void/)); the two diverge in characteristic ways.
 - **Voice-hearing with intact reality-testing.** A non-clinical population, prevalence around 5–10% depending on definition, hears voices identified as not-perceived but whose self-other source attribution is uncertain. An architectural extreme of an otherwise continuous spectrum, not a separate kind.
 
 The forms cluster only partially. Strong performance on one is weak prediction of strong performance on others. The cluster is genuinely a family rather than a single faculty.
@@ -135,6 +135,7 @@ The Map also speculates—at the level of explicit speculation, not tenet-level 
 - [aphantasia](/topics/aphantasia/) — Companion case at the imagery extreme: missing phenomenal content under matched task performance
 - [synaesthesia](/topics/synaesthesia/) — Companion case at the cross-modal extreme: extra phenomenal content under matched representational input
 - [memory-anomalies](/topics/memory-anomalies/) — Cryptomnesia, déjà vu, and jamais vu as concrete-phenomenon exhibits of source-monitoring failure
+- [authorship-of-action-divergence](/topics/authorship-of-action-divergence/) — The fourth sub-type developed in full: the outcome-recognition layer of authorship-tracking via the choice-blindness paradigm, with the cause-attribution layer split off to [agency-void](/voids/agency-void/)
 - [phenomenal-variation-within-a-species](/apex/phenomenal-variation-within-a-species/) — The apex synthesis: source-attribution divergence as one of four within-species divergence classes whose joint package presses functional identity
 - [noetic-feelings-void](/voids/noetic-feelings-void/) — The fluency-as-origination heuristic at the structural level
 - [recognition-void](/voids/recognition-void/) — Failure of recognition as a parallel non-detection structure

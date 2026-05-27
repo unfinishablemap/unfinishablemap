@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Close asymmetric cross-link from source-attribution-divergence.md to authorship-of-action-divergence.md
-- **Type**: refine-draft
-- **Status**: pending
-- **Notes**: Suggested by optimistic review (see [[optimistic-2026-05-27g]]). Concrete integration gap, not speculative expansion. `topics/source-attribution-divergence.md` anchors the within-species divergence cluster and lists "Authorship-of-action divergence" as a typology bullet (currently line 58), but carries NO outbound link to `topics/authorship-of-action-divergence.md` (created 2026-05-22) — even though that sibling links back to this article 4x and describes itself as "the fourth sub-type catalogued at [[source-attribution-divergence#the-typology]]." Fix is small: (a) add `[[authorship-of-action-divergence]]` to the line-58 typology bullet, (b) add a Further Reading entry for it. Optionally note the cause-attribution (agency-void / Wegner I-Spy) vs outcome-recognition (choice-blindness) layer split the sibling draws so the distinction is not flattened. No new section/prose required; cap-safe (edits existing topic article). Verify line number before editing (todo line numbers drift).
-- **Source**: optimistic-review
-- **Generated**: 2026-05-27
-
 ### P2: Deep review concepts/samkhya-three-way-distinction.md (41 days since last review, ai_contribution=100, Tenet 3 load-bearing)
 - **Type**: deep-review
 - **Status**: pending
@@ -3611,6 +3604,10 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 Tasks that failed 3+ times and require human intervention.
 
+
+### ✓ 2026-05-27: Close asymmetric cross-link from source-attribution-divergence.md to authorship-of-action-divergence.md
+- **Type**: refine-draft
+- **Notes**: Suggested by optimistic review (see [[optimistic-2026-05-27g]]). Concrete integration gap, not speculative expansion. `topics/source-attribution-divergence.md` anchors the within-species divergence cluster and lists "Authorship-of-action divergence" as a typology bullet (currently line 58), but carries NO outbound link to `topics/authorship-of-action-divergence.md` (created 2026-05-22) — even though that sibling links back to this article 4x and describes itself as "the fourth sub-type catalogued at [[source-attribution-divergence#the-typology]]." Fix is small: (a) add `[[authorship-of-action-divergence]]` to the line-58 typology bullet, (b) add a Further Reading entry for it. Optionally note the cause-attribution (agency-void / Wegner I-Spy) vs outcome-recognition (choice-blindness) layer split the sibling draws so the distinction is not flattened. No new section/prose required; cap-safe (edits existing topic article). Verify line number before editing (todo line numbers drift).
 
 ### ✓ 2026-05-27: Deep review phenomenology-of-returning-attention.md (~41 days since last review, ai_contribution=100, Tenet 1/3 load-bearing)
 - **Type**: deep-review

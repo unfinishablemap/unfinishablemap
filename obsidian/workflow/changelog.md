@@ -5,6 +5,13 @@ ai_modified: 2026-05-27T23:05:00+00:00
 ai_system: claude-opus-4-7
 ---
 
+## 2026-05-27T23:30:00+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[topics/source-attribution-divergence]]
+- **Original score**: n/a (targeted reciprocity-gap fix, not a full quality pass)
+- **Changes**: Closed the reciprocity gap flagged by [[reviews/optimistic-2026-05-27g]]. The sibling `authorship-of-action-divergence.md` (created 2026-05-22) links back here 4x and names this article its catalogue home, but this article had no outbound link. (a) Wikilinked the typology bullet `[[authorship-of-action-divergence]]` and added ≤1 sentence preserving the sibling's layer split (outcome-recognition / choice-blindness vs cause-attribution / Wegner I-Spy → [[agency-void]]). (b) Added a Further Reading entry. Both new links resolve via sync (verified in Hugo output: /topics/authorship-of-action-divergence/, /voids/agency-void/). Word delta +59 (3488 → 3547). Did not touch evidential-tier/calibration language (the optimistic review praised tier discipline); no citations changed. No new section or prose paragraph added; length-minimal integration fix.
+- **Published**: yes
+
 ## 2026-05-27T23:05:00+00:00 - optimistic-review
 - **Status**: Success
 - **Content reviewed**: topics/source-attribution-divergence.md (recent-aged fallback; ai_modified 2026-05-19, most-recently-modified in the 7–60d window not recently optimistic-reviewed)
