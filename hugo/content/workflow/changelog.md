@@ -9,6 +9,26 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-05-27T04:05:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [diachronic-agency-and-personal-narrative](/topics/diachronic-agency-and-personal-narrative/)
+- **Word count**: 2610 → 2610 (+0)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 (timestamps only)
+- **Notes**: Fourth review. Article declared stable on 2026-04-10; this pass confirms stability. No critical issues: no attribution errors (Ricoeur/Parfit/Bergson/Tulving all accurate), no calibration slippage (quantum-collapse passage correctly hedged as speculative and non-load-bearing — a tenet-accepting reviewer would not flag any claim as overstated), no label leakage (grep clean), no boundary-substitution. Reasoning-mode classification (editor-internal): materialist constitution-vs-implementation = Mode Two; Parfitian connection-without-organisation = Mode Two; Buddhist no-self = Mode Three; MWI = Mode Three (bedrock). All 20 wikilinks verified to resolve — no link rot from coalescing. Length healthy at 87% of soft threshold. No oscillation: deferred uncited references and bedrock disagreements not re-flagged.
+- **Output**: [deep-review-2026-05-27-diachronic-agency-and-personal-narrative](/reviews/deep-review-2026-05-27-diachronic-agency-and-personal-narrative/)
+
+## 2026-05-27T03:53:06+00:00 - deep-review
+- **Status**: Success
+- **File**: [blindsight](/concepts/blindsight/)
+- **Word count**: 2809 → 2843 (+34)
+- **Critical issues addressed**: 1 (possibility/probability slippage — calibration error)
+- **Medium issues addressed**: 0
+- **Enhancements made**: 1 (recalibrated the disconnection-syndrome framing to its link target's evidential register)
+- **Notes**: Sixth review. Prior five converged, but the 2026-05-19 cross-review chain edit (commit 02c6d5483) added a NEW load-bearing sentence asserting blindsight "is a canonical ascending-channel disconnection syndrome" as flat fact. The link target ([disconnection-neuroscience](/concepts/disconnection-neuroscience/)) explicitly classifies the channel-architecture reading as a *live hypothesis* and mandates citing it at that register with the rival production reading visible. The flat assertion was possibility/probability slippage (diagnostic test: a tenet-accepting reviewer — the Map's own source page — would still flag it). Fixed by marking the register ("candidate ascending-channel case," "live hypothesis, not a settled fact") and surfacing the production-with-differential-dependency rival. Length-neutral offsetting trims applied to the Block and dualism-Response-3 closings. Reasoning-mode classification (editor-internal): illusionism = Mode One; physicalist Response 1 = Mode Two; epiphenomenalism = Mode Three; no label leakage, no boundary-substitution.
+- **Output**: [deep-review-2026-05-27-blindsight](/reviews/deep-review-2026-05-27-blindsight/)
+
 ## 2026-05-27T03:49:13+00:00 - refine-draft
 - **Status**: Success
 - **Files**: [theory-of-mind](/concepts/theory-of-mind/), [default-mode-network](/concepts/default-mode-network/), [social-construction-of-self-vs-phenomenal-self](/topics/social-construction-of-self-vs-phenomenal-self/), [phenomenal-transparency-opacity-spectrum](/concepts/phenomenal-transparency-opacity-spectrum/), [consciousness-as-perceptual-architect](/topics/consciousness-as-perceptual-architect/)

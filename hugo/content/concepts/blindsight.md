@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-23
-ai_modified: 2026-05-19 12:30:00+00:00
+ai_modified: 2026-05-27 03:53:06+00:00
 ai_system: claude-sonnet-4-5-20250929
 author: null
 concepts:
@@ -28,7 +28,7 @@ embedded_videos:
   url: https://www.youtube-nocookie.com/embed/iK6spQgUXBQ
 human_modified: null
 last_curated: null
-last_deep_review: 2026-04-16 03:48:00+00:00
+last_deep_review: 2026-05-27 03:53:06+00:00
 modified: *id001
 related_articles:
 - '[[baseline-cognition]]'
@@ -54,7 +54,7 @@ The discovery matters because it reveals what unconscious perception can and can
 
 ## The Discovery and Core Findings
 
-Lawrence Weiskrantz and colleagues first documented the phenomenon in patient D.B. in the 1970s. Following surgical removal of a vascular malformation in his right occipital lobe—which destroyed the corresponding primary visual cortex—D.B. reported complete blindness in his left visual field. On the Map's reading, blindsight is a canonical ascending-channel [disconnection syndrome](/concepts/disconnection-neuroscience/): V1 destruction severs the visual interface channel that delivers phenomenal content to consciousness while leaving subcortical processing pathways intact. Yet when stimuli appeared in the blind region and experimenters asked him to guess, he correctly identified location (reaching accurately), motion direction, and orientation at rates far exceeding chance.
+Lawrence Weiskrantz and colleagues first documented the phenomenon in patient D.B. in the 1970s. Following surgical removal of a vascular malformation in his right occipital lobe—which destroyed the corresponding primary visual cortex—D.B. reported complete blindness in his left visual field. The Map reads blindsight as a candidate ascending-channel case for the [disconnection-syndrome](/concepts/disconnection-neuroscience/) framework: on the channel-architecture interpretation, V1 destruction severs the visual interface channel that would deliver phenomenal content to consciousness while leaving subcortical processing pathways intact. That reading is a live hypothesis, not a settled fact—a production account on which V1 differentially generates the missing phenomenal stage fits the same data, and the dissociation alone does not adjudicate between them. Yet when stimuli appeared in the blind region and experimenters asked him to guess, he correctly identified location (reaching accurately), motion direction, and orientation at rates far exceeding chance.
 
 Key characteristics of blindsight:
 
@@ -129,13 +129,13 @@ Blindsight is central to Ned Block's influential distinction between [access-con
 
 On Block's analysis, blindsight patients retain information "poised for global control"—it influences forced-choice responses and guides reaching—but lacks the "something it is like" quality of normal vision.
 
-The interpretation depends on which dissociation is present:
+What the case shows depends on which dissociation is present:
 
 - **Access without phenomenology** supports Block's claim that the two are distinct properties
 - **Degraded phenomenology with metacognitive failure** makes the dissociation less clean—both degrade together
 - **Neither access nor phenomenology** (residual V1 explains performance) weakens the dissociation claim entirely
 
-Block's framework clarifies what's at stake: whether blindsight demonstrates information processing in the complete absence of phenomenal character, or merely that processing and phenomenology degrade together when V1 is damaged.
+The stakes are whether blindsight demonstrates processing in the complete absence of phenomenal character, or merely that processing and phenomenology degrade together when V1 is damaged.
 
 ## Implications for Dualism
 
@@ -159,7 +159,7 @@ Problem: Cases exist with complete V1 removal. Alternative pathways (superior co
 
 Perhaps visual consciousness requires V1 → higher cortex pathways specifically, not because V1 performs unique computations but because consciousness is a property of specific neural architectures. Blindsight shows processing without V1; it doesn't show processing without consciousness in general.
 
-This concedes property dualism: if functionally similar computations produce consciousness via one pathway but not another, consciousness is not reducible to the computational function. Both pathways guide behavior and influence action; the phenomenal character differs. That's precisely the dualist claim.
+This concedes property dualism: if functionally similar computations produce consciousness via one pathway but not another, consciousness is not reducible to the computational function. Both pathways guide behavior; the phenomenal character differs—precisely the dualist claim.
 
 ## The Illusionist Challenge
 
