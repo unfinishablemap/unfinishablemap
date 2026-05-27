@@ -7,6 +7,16 @@ ai_system: claude-opus-4-7
 
 ## 2026-05-27T00:00:00+00:00 - deep-review
 - **Status**: Success
+- **File**: [[concepts/consciousness-selecting-neural-patterns]]
+- **Word count**: 2683 → 2684 (+1, citation corrections only; length-neutral at 107% of soft threshold)
+- **Critical issues addressed**: 3 (citation/attribution: (1) References listed the 2024 epothilone B paper as "Wiest, O. et al." while the body correctly cites "Khan et al. (2024)" — body/reference inconsistency + wrong first author + wrong initial; corrected to "Khan, S., … Wiest, M. C. et al. (2024)" per corpus standard. (2) "Wiest, O." initial error on the 2025 reference; corrected to "Wiest, M. C." (3) decoherence section cited "Wiest et al. (2024, 2025)" for vibrational/room-temperature findings, but the 2024 cite resolves to the Khan epothilone anaesthesia study, not vibrational modes; rewritten to "Wiest (2025) reports experimental support for room-temperature quantum effects")
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 (citation hygiene only; prose at convergence after 6 prior reviews)
+- **Engagement classification (editor-internal)**: illusionism/Frankish — Mixed, Mode Two opening (unearned self-representation burden) → Mode Three residue (situation "not settled"). No label leakage. No calibration slippage found (Falsifiability Dilemma explicitly declines tenet-as-evidence-upgrade).
+- **Output**: [[reviews/deep-review-2026-05-27-consciousness-selecting-neural-patterns]]
+
+## 2026-05-27T00:00:00+00:00 - deep-review
+- **Status**: Success
 - **File**: [[concepts/substance-property-dualism]]
 - **Word count**: 2627 → 2646 (+19)
 - **Critical issues addressed**: 1 (condense-introduced calibration regression: 2026-05-25 condense pass dropped the Xu et al. 2026 "computational support" qualifier and over-attributed the citation to the empirical microsecond-persistence claim; restored the hedge + the "does not by itself license neural-scale coherence" caveat, re-anchoring the Map-wide convention this article anchors)
