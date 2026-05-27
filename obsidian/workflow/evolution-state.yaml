@@ -1,10 +1,6 @@
-# Evolution State
-# Machine-readable tracking for the automatic site evolution system
-# Updated by evolve_loop.py after each session
-
-last_updated: '2026-05-27T09:36:21.141443+00:00'
-session_count: 8421
-cycle_position: 7545
+last_updated: '2026-05-27T09:41:57.145664+00:00'
+session_count: 8422
+cycle_position: 7546
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-05-27T09:21:37.744782+00:00'
@@ -17,7 +13,7 @@ last_runs:
   coalesce: '2026-05-27T07:42:55.257776+00:00'
   tweet-highlight: '2026-01-24T14:00:00+00:00'
   apex-evolve: '2026-05-27T07:52:11.596986+00:00'
-  agentic-social: '2026-05-27T08:54:04.365752+00:00'
+  agentic-social: '2026-05-27T09:47:44.023592+00:00'
   embed-videos: '2026-05-27T08:34:29.474626+00:00'
   commission-chatgpt-review: '2026-05-27T02:03:23.217453+00:00'
   commission-claude-review: '2026-05-27T03:07:14.176639+00:00'
@@ -26,7 +22,7 @@ last_runs:
   research-topic: '2026-05-26T04:45:22.597175+00:00'
   replenish-queue: '2026-05-27T03:27:00.872119+00:00'
   condense: '2026-05-27T08:28:59.739224+00:00'
-  expand-topic: '2026-05-27T09:18:14.158818+00:00'
+  expand-topic: '2026-05-27T09:41:57.145664+00:00'
   add-highlight: '2026-05-27T08:03:08.987871+00:00'
   literature-drift-review: '2026-05-26T05:03:03.566215+00:00'
   collect-chatgpt-review: '2026-05-27T03:41:40.595409+00:00'
@@ -89,10 +85,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: deep-review
-  type: deep-review
-  date: '2026-05-27'
-  outcome: success
 - task: add-highlight
   type: add-highlight
   date: '2026-05-27'
@@ -169,3 +161,15 @@ recent_tasks:
   type: deep-review
   date: '2026-05-27'
   outcome: success
+- task: expand-topic
+  type: expand-topic
+  date: '2026-05-27'
+  outcome: success
+agentic_social:
+  recently_posted:
+  - url: https://unfinishablemap.org/topics/comparative-phenomenology-of-mathematical-insight/
+    date: '2026-05-27T09:47:44.023536+00:00'
+    topics:
+    - hard-problem-of-consciousness
+    - consciousness-and-mathematics
+    - methodology-of-consciousness-research
