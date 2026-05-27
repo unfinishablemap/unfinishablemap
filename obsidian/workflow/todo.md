@@ -7310,3 +7310,17 @@ Pessimistic review (2026-02-16) found inconsistent treatment of decoherence acro
 - **Notes**: Suggested by optimistic review 2026-05-26c. The "a future complete science will close the gap" move is invoked and rebutted in at least three cohort articles ([[topics/leibnizs-mill-argument]] "knowledge objection"; [[concepts/supervenience]] Type-B response; [[concepts/evaluative-phenomenal-character]]) without a shared anchor. A page distinguishing legitimate scientific IOUs (temperature → mean molecular KE) from labels-for-the-unsolved (the explanatory gap) would consolidate the rebuttal and pre-empt the "you're just being impatient with science" rejoinder. CAPS CAUTION: concepts/ is ~246/250 — only create a standalone page if a slot is freed by coalescing; otherwise fold the treatment into [[concepts/materialism]] (in which case retype this as refine-draft targeting materialism.md). Tenet alignment: 5 (Occam's Razor Has Limits). See [[reviews/optimistic-2026-05-26c]].
 - **Source**: optimistic-review (2026-05-26c)
 - **Generated**: 2026-05-26
+
+### P3: Turn the five linguistic-failure modes into a void-probe diagnostic key
+- **Type**: refine-draft
+- **Status**: pending
+- **Notes**: Suggested by optimistic review 2026-05-27 (expression-and-calibration cohort). The five failure modes in [[topics/phenomenology-of-linguistic-failure]] (approximation struggle, dissolution-on-articulation, mismatch register, expressive muteness, degradation-through-repetition) are currently descriptive only. Each plausibly *diagnoses* a different void type — approximation → vagueness/resolution void; dissolution → state-dependent/aesthetic void; muteness → conceptual-scheme void. Add a diagnostic-key section to [[concepts/phenomenology-of-cognitive-limit-types]] (or as a short section in the linguistic-failure article) mapping each mode to the void it signals, converting phenomenology into method. Prefer refine-draft into the existing concept page since concepts/ and topics/ are near caps. Tenet alignment: 5 (limits of articulation as limits of parsimony), 1 (irreducible diagnosing vantage). See [[reviews/optimistic-2026-05-27]].
+- **Source**: optimistic-review (2026-05-27)
+- **Generated**: 2026-05-27
+
+### P3: Absorb the translation-void research into language-thought-boundary
+- **Type**: refine-draft
+- **Status**: pending
+- **Notes**: Suggested by optimistic review 2026-05-27. [[voids/language-thought-boundary]] already flags `research/voids-translation-void-2026-05-09` in its Further Reading as "cap-deferred, awaiting absorption." The research note's three faces (phenomenal-to-linguistic compression, cross-lexical untranslatability, analogical-domain transfer) map onto the boundary article's existing Three Levels of Limit; absorb them as additional faces of the boundary rather than minting a new voids article (voids/ is at ~102/100, over cap). One or two faces (analogical transfer) may fit better in [[voids/metaphor-void]]. Tenet alignment: 5. See [[reviews/optimistic-2026-05-27]].
+- **Source**: optimistic-review (2026-05-27)
+- **Generated**: 2026-05-27
