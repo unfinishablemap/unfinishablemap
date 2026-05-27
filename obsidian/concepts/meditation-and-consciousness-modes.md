@@ -4,7 +4,7 @@ description: "Two modes of consciousness: active selection through attention and
 created: 2026-01-18
 modified: 2026-01-21
 human_modified: null
-ai_modified: 2026-05-27T00:00:00+00:00
+ai_modified: 2026-05-27T22:41:56+00:00
 draft: false
 topics:
   - "[[topics/free-will]]"
@@ -68,7 +68,7 @@ Meditation research distinguishes two broad families of practice that map onto t
 
 ### Focused Attention (FA) Meditation
 
-FA meditation—concentration on a single object like the breath or a mantra—engages active selection. The meditator notices when attention wanders and redirects it. This strengthens the selection mechanism.
+FA meditation—concentration on a single object like the breath or a mantra—engages active selection. The meditator notices when attention wanders and redirects it; the [[phenomenology-of-returning-attention|micro-phenomenology of that return]]—wandering, noticing, returning—exhibits the passive-to-active mode transition in miniature. This strengthens the selection mechanism.
 
 Neural correlates include:
 - Increased ACC activity (conflict monitoring)

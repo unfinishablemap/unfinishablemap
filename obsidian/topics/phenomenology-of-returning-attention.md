@@ -4,7 +4,7 @@ description: "The moment attention returns from wandering reveals a micro-struct
 created: 2026-02-10
 modified: 2026-02-10
 human_modified:
-ai_modified: 2026-05-13T17:22:00+00:00
+ai_modified: 2026-05-27T22:41:56+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -32,7 +32,7 @@ author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-02-10
 last_curated:
-last_deep_review: 2026-04-16T11:28:00+00:00
+last_deep_review: 2026-05-27T22:41:56+00:00
 ---
 
 The moment you notice your mind has wandered and bring attention back to the breath, the book, the conversation — this is among the most revealing micro-events in conscious life. Meditators perform it thousands of times. Most people do it daily without reflection. Yet the phenomenology of returning attention contains a structure that resists easy materialist explanation: a gap where no one was watching, a spontaneous noticing that seems to come from nowhere, and a deliberate re-engagement that feels like genuine agency. The Unfinishable Map's framework — in which consciousness selects among physical possibilities through [[attention-as-interface|attention]] — predicts exactly this structure and illuminates why it feels the way it does.
@@ -43,7 +43,7 @@ Careful introspective observation, particularly as trained in focused-attention 
 
 ### Phase One: Wandering
 
-Attention drifts from its intended object. In meditation, you set out to watch the breath, and at some point you are instead rehearsing a conversation or planning dinner. The crucial feature of this phase is *absence of awareness of the drift itself*. You do not experience the transition from focused to wandering — it simply happens without being noticed, a case of [[attention-and-the-consciousness-interface|attention-consciousness dissociation]] in miniature and a micro-instance of the [[transition-void]]: the cognitive stance required to observe the departure is the focused attention whose loss constitutes the departure. The [[transit-void]] examines this unwitnessed capture in detail, showing how ERP timing (MMN, P3a, P3b) and probe-caught paradigms give third-person grain to a first-person dark event.
+Attention drifts from its intended object. In meditation, you set out to watch the breath, and at some point you are instead rehearsing a conversation or planning dinner. The crucial feature of this phase is *absence of awareness of the drift itself*. You do not experience the transition from focused to wandering — it simply happens without being noticed, a case of [[attention-and-the-consciousness-interface|attention-consciousness dissociation]] in miniature and a micro-instance of the [[transit-void|transit void]]: the cognitive stance required to observe the departure is the focused attention whose loss constitutes the departure. That article examines this unwitnessed capture in detail, showing how ERP timing (MMN, P3a, P3b) and probe-caught paradigms give third-person grain to a first-person dark event.
 
 This is phenomenologically significant. During wandering, there is still experience — you are thinking, imagining, worrying — but [[witness-consciousness|meta-awareness]] is absent. (The broader relationship between [[metacognition]], metarepresentation, and consciousness clarifies why this dissociation is possible: meta-awareness is a capacity consciousness enables, not consciousness itself.) You are absorbed in the content without monitoring whether the content is what you intended to attend to — a micro-instance of the [[disappearance-voids|absorption void]], where the immersive character of experience blocks the very stance needed to observe it. The [[default-mode-network]] is active, generating self-referential narratives, but the oversight function has disengaged. Schooler (2002) calls this the dissociation between experience and *meta-consciousness*: you are conscious, but not conscious *of* being conscious in the relevant monitoring sense.
 
