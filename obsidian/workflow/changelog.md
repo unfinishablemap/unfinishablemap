@@ -1,9 +1,19 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-27T07:53:55+00:00
+ai_modified: 2026-05-27T07:59:37+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-05-27T07:59:37+00:00 - deep-review
+- **Status**: Success
+- **File**: [[concepts/self-stultification]]
+- **Word count**: 3108 → 3110 (+2)
+- **Critical issues addressed**: 0 (none found)
+- **Medium issues addressed**: 1 (Pollock 1986 defeater-taxonomy now anchored in-text; was refs-only)
+- **Enhancements made**: 1
+- **Notes**: Article re-entered review because the 2026-04-16 coalesce merged `epistemic-self-defeat.md` into it (+~1140 words) after the 04-05 convergence; the unified body had not had a dedicated deep review. Now at 124% of concepts soft target → length-neutral mode honoured (net +2 words). No condensation mandated — length reflects legitimate coalesced scope. Reasoning-mode (editor-internal): eliminativist/externalist/reliabilist → Mode Two; functionalist → Mode Two + Mode Three residue; bullet-biter → Mode Three. No label leakage, no boundary-substitution, no possibility/probability slippage. Re-converged.
+- **Output**: [[reviews/deep-review-2026-05-27-self-stultification]]
 
 ## 2026-05-27T07:53:55+00:00 - refine-draft (links-hygiene)
 - **Status**: Success

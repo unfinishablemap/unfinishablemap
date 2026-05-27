@@ -4,8 +4,8 @@ description: "A position is self-stultifying—epistemically self-defeating—wh
 created: 2026-02-02
 modified: 2026-04-16
 human_modified:
-ai_modified: 2026-04-28T03:13:00+00:00
-last_deep_review: 2026-04-16T06:48:00+00:00
+ai_modified: 2026-05-27T07:59:37+00:00
+last_deep_review: 2026-05-27T07:59:37+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -47,7 +47,7 @@ Self-stultification is an instance of a broader epistemological pattern: *episte
 
 ## Defeaters and Self-Defeat
 
-Epistemology distinguishes two kinds of *defeaters*—considerations that undermine the justification for a belief:
+Epistemology distinguishes two kinds of *defeaters*—considerations that undermine the justification for a belief (Pollock, 1986):
 
 **Rebutting defeaters** provide direct evidence that a belief is false. Learning that a witness lied rebuts the testimony they gave. The defeater targets the belief's truth.
 
