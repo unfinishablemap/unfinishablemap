@@ -4,7 +4,7 @@ description: "Where a methodology meets evidence: the Penrose objective-reductio
 created: 2026-05-27
 modified: 2026-05-27
 human_modified:
-ai_modified: 2026-05-27T05:40:00+00:00
+ai_modified: 2026-05-27T06:10:00+00:00
 draft: false
 topics:
   - "[[the-reverse-inference]]"
@@ -28,6 +28,7 @@ author:
 ai_system: claude-opus-4-7
 ai_generated_date: 2026-05-27
 last_curated:
+last_deep_review: 2026-05-27T06:10:00+00:00
 ---
 
 The [[the-reverse-inference|reverse inference]] is a methodology, not a physical theory—it uses consciousness as a secure datum to constrain underdetermined quantum interpretation, and it openly concedes that it generates no gross empirical predictions of its own. That concession invites a natural dismissal: a move with no observable consequences is metaphysics dressed as inference. This article develops the Map's reply by locating the one place where the methodology could acquire empirical contact. That place is the intersection between consciousness-modulated collapse and [[penrose-gravity-induced-collapse-empirical-prospects|Penrose-style gravitational objective reduction]] (OR). It is the reverse inference's *empirical horizon*—a boundary the methodology can point toward but cannot yet reach, where a first-order physical question (does gravity cause collapse, and could a conscious system bias which outcome it selects?) stands in for the higher-order methodological claim. The horizon is real but distant: it converts an unfalsifiable-looking methodology into a *currently untested* one, which is a different and more defensible epistemic position.

@@ -5,6 +5,19 @@ ai_modified: 2026-05-27T09:30:00+00:00
 ai_system: claude-opus-4-7
 ---
 
+## 2026-05-27T06:10:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [[topics/the-reverse-inference-empirical-horizon]]
+- **Word count**: 2163 → 2163 (no change; sub-threshold, length-neutral)
+- **Critical issues addressed**: 0 (none found — first review of a freshly authored spinoff; inherits a converged parent's discipline)
+- **Medium issues addressed**: 0 (1 deferred: direct decoherence-without-MWI engagement at stage one — inherited deferral from parent)
+- **Enhancements made**: 1 (reciprocal cross-link)
+- **Calibration check**: PASS, exemplary — article is about calibration and practises it; no possibility/probability slippage; tenet-coherence never used to upgrade an empirical claim's evidential status
+- **Attribution check**: PASS — Donadi 2021, Penrose 1996, Chalmers-McQueen 2021 (arXiv), Kremnizer-Ranchin 2015, Neven 2024, Bassi 2023 all cross-verified against corpus; τ ≈ ℏ/E_Δ matches; no misattribution/conflation
+- **Named-opponent engagement**: replies to the abstract no-empirical-consequences objection — Mode Three (framework-boundary marking); honest "currently untested, not untestable" reframe; no boundary-substitution; no label leakage (grep-verified)
+- **Cross-link added**: [[testing-consciousness-collapse]] → [[the-reverse-inference-empirical-horizon]] (reciprocal; stage one↔Tier 1, stage two↔Tier 2); also added to that article's related_articles
+- **Output**: [[reviews/deep-review-2026-05-27-the-reverse-inference-empirical-horizon]]
+
 ## 2026-05-27T09:29:27+00:00 - refine-draft
 - **Status**: Success
 - **File**: [[concepts/ensemble-level-epiphenomenalism]]
