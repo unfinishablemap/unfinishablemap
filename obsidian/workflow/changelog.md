@@ -1,9 +1,19 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-27T18:03:19+00:00
+ai_modified: 2026-05-27T12:00:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-05-27T12:00:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [[topics/dissociative-states-as-intact-substrate-interface-evidence]]
+- **Word count**: 2763 → 2835 (+72)
+- **Critical issues addressed**: 0 (none found — all 5 external citations web-verified to exact volume/issue/pages; all 17 internal wikilinks resolve; no label leakage; no possibility/probability slippage; calibration tiering exemplary)
+- **Medium issues addressed**: 1 (made the production-vs-filter comparison fairer to the opponent — granted the filter reading also owes a connectivity-realisation account, re-located the genuine asymmetry as narrower)
+- **Low issues addressed**: 1 (subject–verb agreement fix in depersonalisation section)
+- **Engagement classification (editor-internal)**: sophisticated production reading — Mode Three (framework-boundary marking) with a Mode-Two flavour; handled honestly, no refutation overclaim, no upgrade needed.
+- **Output**: [[reviews/deep-review-2026-05-27-dissociative-states-as-intact-substrate-interface-evidence]]
 
 ## 2026-05-27T18:03:19+00:00 - refine-draft
 - **Status**: Success

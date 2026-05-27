@@ -38,28 +38,19 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Adopt phenomenal-concepts-strategy calibration in pain-consciousness-and-causal-power
-- **Type**: refine-draft
+### P3: Deep review concepts/substance-property-dualism.md (41 days since last review, ai_contribution=100, Tenet 1 load-bearing)
+- **Type**: deep-review
 - **Status**: pending
-- **File**: obsidian/topics/pain-consciousness-and-causal-power.md
-- **Notes**: From topic-concept anchoring audit 2026-05-27. The topic article over-claims relative to its anchor concept [phenomenal-concepts-strategy](/concepts/phenomenal-concepts-strategy/); failed checks: hedge_density, strong_assertions.
-  - hedge density 3.02/kw is below 60% of anchor (10.16/kw)
-  - topic uses 3 strong-assertion verbs where anchor uses none
-  - Action: bring the topic's hedge profile in line with the anchor concept's. Preserve the article's voice; this is not a request to weaken the central claim, only to inherit the calibration discipline the anchor concept already uses. See [calibration-audit-triple](/project/calibration-audit-triple/) Audit Three for the spec and [evidential-status-discipline](/project/evidential-status-discipline/) for the underlying rule.
-- **Source**: topic-concept-anchoring-audit
+- **Notes**: Staleness check (/replenish-queue 2026-05-27). `concepts/substance-property-dualism.md` (~2717 words) was last deep-reviewed 2026-04-15 (~41 days ago) with `ai_contribution=100`; not currently the subject of any other pending task header. This concept page is directly **Tenet 1 (Dualism)** load-bearing — it draws the substance-vs-property-dualism distinction that the Map's whole ontological position depends on (the Map's min-dualism taxonomy and the "where the substance commitment enters" cluster route through it). Deep-review should: (a) verify the substance/property distinction still coheres with the post-April min-max dualism taxonomy and the recently-created `[[where-the-substance-commitment-enters]]` concept page (created 2026-05-27 — confirm reciprocal cross-links resolve live and are installed where load-bearing); (b) honour `[[evidential-status-discipline]]` (the substance-commitment claim is a metaphysical-stance claim, not an empirical one — guard against over-stating its support); (c) check citations against current literature; (d) writing-style + length discipline (2717 words is over the 2500-word concepts soft threshold, well under the 3500 hard — note for a possible condense follow-on only if a refine pass pushes it over hard; no "This is not X. It is Y." cliché). Apply in-place fixes if minor; generate a follow-on refine-draft task if substantive. Tenet alignment: Tenet 1 (Dualism).
+- **Source**: staleness
 - **Generated**: 2026-05-27
 
-### P2: Adopt global-workspace-theory calibration in pain-consciousness-and-causal-power
-- **Type**: refine-draft
+### P3: Deep review topics/consciousness-selecting-neural-patterns.md (41 days since last review, ai_contribution=100, Tenet 3 load-bearing)
+- **Type**: deep-review
 - **Status**: pending
-- **File**: obsidian/topics/pain-consciousness-and-causal-power.md
-- **Notes**: From topic-concept anchoring audit 2026-05-27. The topic article over-claims relative to its anchor concept [global-workspace-theory](/concepts/global-workspace-theory/); failed checks: hedge_density, strong_assertions.
-  - hedge density 3.02/kw is below 60% of anchor (10.15/kw)
-  - strong-assertion density 0.82/kw exceeds 1.5× anchor (0.44/kw)
-  - Action: bring the topic's hedge profile in line with the anchor concept's. Preserve the article's voice; this is not a request to weaken the central claim, only to inherit the calibration discipline the anchor concept already uses. See [calibration-audit-triple](/project/calibration-audit-triple/) Audit Three for the spec and [evidential-status-discipline](/project/evidential-status-discipline/) for the underlying rule.
-- **Source**: topic-concept-anchoring-audit
+- **Notes**: Staleness check (/replenish-queue 2026-05-27). `topics/consciousness-selecting-neural-patterns.md` (~2798 words) was last deep-reviewed 2026-04-16 (~41 days ago) with `ai_contribution=100`; not currently the subject of any other pending task header. This topic is directly **Tenet 3 (Bidirectional Interaction)** and **Tenet 2 (Minimal Quantum Interaction)** load-bearing — the consciousness-selects-neural-patterns proposal is one of the Map's concrete interface mechanisms (the selection-only reading), so argument soundness and citation currency matter. Deep-review should: (a) verify the selection framing stays consistent with `[[selection-only-mind-influence]]`, `[[selection-only-channel]]`, the corridor/selection reading in `topics/born-rule-and-the-consciousness-interface.md`, and the post-April quantum-interface cluster; (b) confirm the minimal-interaction framing is preserved (selection, not generation, of candidate patterns); (c) honour `[[evidential-status-discipline]]` — the selection mechanism is a speculative-integration-tier proposal, not an established result; (d) verify cross-links resolve live and are reciprocated where load-bearing; (e) writing-style + length discipline (2798 words, under the 3000-word topics soft threshold). Apply in-place fixes if minor; generate a follow-on refine-draft task if substantive. Tenet alignment: Tenets 2 and 3.
+- **Source**: staleness
 - **Generated**: 2026-05-27
-
 
 ### P2: Deepen Metz argument engagement in topics/meaning-of-life.md (hedonism-excluded-by-stipulation confrontation)
 - **Type**: refine-draft
@@ -3592,6 +3583,14 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 Tasks that failed 3+ times and require human intervention.
 
+
+### ✓ 2026-05-27: Adopt global-workspace-theory calibration in pain-consciousness-and-causal-power
+- **Type**: refine-draft
+- **Notes**: From topic-concept anchoring audit 2026-05-27. The topic article over-claims relative to its anchor concept [global-workspace-theory](/concepts/global-workspace-theory/); failed checks: hedge_density, strong_assertions.
+
+### ✓ 2026-05-27: Adopt phenomenal-concepts-strategy calibration in pain-consciousness-and-causal-power
+- **Type**: refine-draft
+- **Notes**: From topic-concept anchoring audit 2026-05-27. The topic article over-claims relative to its anchor concept [phenomenal-concepts-strategy](/concepts/phenomenal-concepts-strategy/); failed checks: hedge_density, strong_assertions.
 
 ### ✓ 2026-05-27: Deep review concepts/self-and-self-consciousness.md (~26 days since last review, ai_contribution=100, Tenet 1 load-bearing)
 - **Type**: deep-review
