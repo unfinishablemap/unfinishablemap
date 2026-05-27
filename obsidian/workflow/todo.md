@@ -37,6 +37,29 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
+### P2: Adopt substance-property-dualism calibration in essential-vs-contingent-consciousness
+- **Type**: refine-draft
+- **Status**: pending
+- **File**: obsidian/topics/essential-vs-contingent-consciousness.md
+- **Notes**: From topic-concept anchoring audit 2026-05-27. The topic article over-claims relative to its anchor concept [[substance-property-dualism]]; failed checks: hedge_density, strong_assertions.
+  - hedge density 1.50/kw is below 60% of anchor (9.90/kw)
+  - topic uses 3 strong-assertion verbs where anchor uses none
+  - Action: bring the topic's hedge profile in line with the anchor concept's. Preserve the article's voice; this is not a request to weaken the central claim, only to inherit the calibration discipline the anchor concept already uses. See [[project/calibration-audit-triple]] Audit Three for the spec and [[evidential-status-discipline]] for the underlying rule.
+- **Source**: topic-concept-anchoring-audit
+- **Generated**: 2026-05-27
+
+### P2: Adopt witness-consciousness calibration in essential-vs-contingent-consciousness
+- **Type**: refine-draft
+- **Status**: pending
+- **File**: obsidian/topics/essential-vs-contingent-consciousness.md
+- **Notes**: From topic-concept anchoring audit 2026-05-27. The topic article over-claims relative to its anchor concept [[witness-consciousness]]; failed checks: hedge_density, strong_assertions.
+  - hedge density 1.50/kw is below 60% of anchor (5.19/kw)
+  - topic uses 3 strong-assertion verbs where anchor uses none
+  - Action: bring the topic's hedge profile in line with the anchor concept's. Preserve the article's voice; this is not a request to weaken the central claim, only to inherit the calibration discipline the anchor concept already uses. See [[project/calibration-audit-triple]] Audit Three for the spec and [[evidential-status-discipline]] for the underlying rule.
+- **Source**: topic-concept-anchoring-audit
+- **Generated**: 2026-05-27
+
+
 ### P1: Fix verified citation errors in topics/meaning-of-life.md (Tallis issue, Landau 2025, missing references)
 - **Type**: refine-draft
 - **Notes**: From outer review 2026-05-27 (ChatGPT 5.5 Pro), two citation errors **independently verified** during processing (see Verification Notes in the review file). (1) **Tallis** — References list (line 286) cites "The Illusion of Illusionism. *Philosophy Now*, 159." The piece is actually in *Philosophy Now* **Issue 161 (April/May 2024)**, full title "Tallis in Wonderland: The Illusion of Illusionism," pp. 58–59 (confirmed via Philosophy Now issue-161 listing + Philosophy Documentation Center). Fix the issue number 159→161 and consider adding the full column title and page range. (2) **Landau 2025** — citation "The Implications of Cosmic Meaninglessness, *Journal of Philosophy of Life*, 15(1), 2025" could not be verified in PhilPapers/PhilPeople/JPL contents; Landau's closest cosmic-context work is "Can Lives Be Seen as Meaningful Within the Cosmic Context?" (*Philosophia*, 2023, doi:10.1007/s11406-023-00660-x). Either replace with a verifiable Landau reference or remove the unverifiable one — do not leave a fabricated-looking citation. (3) **Missing references** — Craig, Swinburne (line 47), Frankfurt, Taylor (line 61), Parfit (line 103), Sartre (line 151) are named in body text but absent from the References list; add proper references or note them inline. Citation hygiene only — do not touch argument structure. See [[reviews/outer-review-2026-05-27-chatgpt-5-5-pro]].
@@ -142,13 +165,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Completed**: 2026-05-26 — see [[reviews/deep-review-2026-05-26-multi-mind-collapse-problem]]. No critical issues. Engaged and discharged the standing causation/modulation concern (pessimistic-2026-03-28-c Issue 1): conceded modulation IS a form of causation (the physicalist is right), then relocated the genuinely non-verbal distinction to (1) denial of sole authorship of collapse and (2) the generation-vs-selection candidate-set distinction with falsifiable info-theoretic invariants (log₂(N) per-event ceiling, Born-rule preservation) via [[selection-only-channel]]; replaced the overclaiming "not merely verbal" sentence. Added cross-links to the post-March cluster ([[selection-only-channel]], [[born-rule-and-the-consciousness-interface]]). Citations re-verified (unchanged). All 22 wikilinks resolve live (path-form epiphenomenalism/free-will not repointed; article uses the live phenomenal-authority-and-first-person-evidence target, not the archive-only introspective-evidence variant). No "This is not X. It is Y." cliché. No possibility/probability slippage. 2325→2598 words (104% of soft, soft_warning, under hard). Narrowed P3 (causation/modulation) discharged → marked resolved-obsolete below. Tenet 4 alignment verified.
 - **Notes**: Staleness check (replenish-queue 2026-05-26): `concepts/multi-mind-collapse-problem.md` was last deep-reviewed 2026-03-29 (~57 days ago) with `ai_contribution=100`; never the standalone focus of a review since. This is a Tenet 4 (no many worlds / indexical identity matters) load-bearing article. The same pessimistic-review concern flagged for locality.md applies here (pessimistic-2026-03-28-c.md): the causation/modulation distinction may be verbal rather than metaphysical — biasing outcomes is still a form of causation — and the open P3 "causation/modulation distinction" task names this file. Deep-review should: (a) verify the multi-mind framing still coheres with the current selection/corridor reading and Tenet 4 indexical-identity treatment; (b) engage or scope the causation-vs-modulation concern (does the distinction do metaphysical work, or is it verbal?); (c) cross-link to the post-March quantum-interface cluster and `[[evidential-status-discipline]]`; (d) writing-style + length discipline. Apply in-place fixes if minor; generate a follow-on refine-draft task if substantive. Coordinate with the open P3 "causation/modulation distinction" refine task — if this deep-review resolves it, mark that task resolved-obsolete. PROMOTED to P2: actionable queue below the MIN_QUEUE floor of 3; tenet-load-bearing stale article, not a speculative P3 expansion. Tenet alignment: Tenet 4.
 - **Source**: staleness
-- **Generated**: 2026-05-26
-
-### P3: Give "intrinsic nature" a concept-level treatment (or fold into the existing void article)
-- **Type**: expand-topic
-- **Status**: pending
-- **Notes**: Suggested by optimistic review 2026-05-26 (High Priority). The structural-ontological gap in [[concepts/physical-completeness]] turns entirely on *intrinsic nature* — what relational structure leaves undescribed — and the article treats it as a load-bearing primitive, yet the only target is [[voids/intrinsic-nature-void]], which frames it as unfillable-in-principle. There is no neutral concept page defining intrinsic nature and surveying the three readings the cohort keeps invoking: structural realism (Ladyman/French/Worrall — there is no residual intrinsic nature, or none we can know), Russellian monism ([[concepts/russellian-monism]] — consciousness *is* the intrinsic nature of the physical), and the Map's dualism (intrinsic nature exists and is ontologically distinct from structure, where consciousness enters). The wikilink resolves by basename so this is NOT a broken-link issue — it is a missing concept-level home that `physical-completeness`, `russellian-monism`, and `bi-aspectual-ontology` all silently assume. **Section-cap caveat**: concepts/ stands near 246/250; verify the cap at execution. If no slot is free, fold the definitional treatment into [[voids/intrinsic-nature-void]] as a "what intrinsic nature is" preamble before its unfillability argument, and convert this to a refine-draft rather than creating a new page. Keep the Maudlin objection (intrinsic-natures-already-in-physics) visible — it is the framework-boundary opponent `physical-completeness` already names. Estimated scope: Medium. Tenet alignment: Tenet 1 (dualism), Tenet 5 (Occam's limits — the structuralist reading is a bet, not a result). See [[reviews/optimistic-2026-05-26]].
-- **Source**: optimistic-review (2026-05-26)
 - **Generated**: 2026-05-26
 
 ### P3: Develop the Penrose objective-reduction intersection as the reverse inference's empirical horizon
@@ -3721,6 +3737,10 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 Tasks that failed 3+ times and require human intervention.
 
+
+### ✓ 2026-05-27: Give "intrinsic nature" a concept-level treatment (or fold into the existing void article)
+- **Type**: expand-topic
+- **Notes**: Suggested by optimistic review 2026-05-26 (High Priority). The structural-ontological gap in [[concepts/physical-completeness]] turns entirely on *intrinsic nature* — what relational structure leaves undescribed — and the article treats it as a load-bearing primitive, yet the only target is [[voids/intrinsic-nature-void]], which frames it as unfillable-in-principle. There is no neutral concept page defining intrinsic nature and surveying the three readings the cohort keeps invoking: structural realism (Ladyman/French/Worrall — there is no residual intrinsic nature, or none we can know), Russellian monism ([[concepts/russellian-monism]] — consciousness *is* the intrinsic nature of the physical), and the Map's dualism (intrinsic nature exists and is ontologically distinct from structure, where consciousness enters). The wikilink resolves by basename so this is NOT a broken-link issue — it is a missing concept-level home that `physical-completeness`, `russellian-monism`, and `bi-aspectual-ontology` all silently assume. **Section-cap caveat**: concepts/ stands near 246/250; verify the cap at execution. If no slot is free, fold the definitional treatment into [[voids/intrinsic-nature-void]] as a "what intrinsic nature is" preamble before its unfillability argument, and convert this to a refine-draft rather than creating a new page. Keep the Maudlin objection (intrinsic-natures-already-in-physics) visible — it is the framework-boundary opponent `physical-completeness` already names. Estimated scope: Medium. Tenet alignment: Tenet 1 (dualism), Tenet 5 (Occam's limits — the structuralist reading is a bet, not a result). See [[reviews/optimistic-2026-05-26]].
 
 ### ✓ 2026-05-27: Condense topics/self-stultification-as-master-argument.md (soft_warning, 3383 words)
 - **Type**: condense

@@ -108,33 +108,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: outer-review
 - **Generated**: 2026-05-27
 
-### P3: Write article on essential vs. contingent consciousness of the non-physical aspect
-- **Type**: expand-topic
-- **Status**: pending
-- **Notes**: Suggested by optimistic review 2026-05-27b (medium priority). [indian-philosophy-of-mind](/topics/indian-philosophy-of-mind/) §"Consciousness without essential consciousness" raises a question it explicitly says "the Map must take seriously" but resolves nowhere on the site: does the Map's dualism require the non-physical aspect to be *essentially* conscious, or only *contingently* so? Nyaya's *atman* — a non-physical self that exists *without* consciousness during dreamless sleep — has no direct Western parallel and forks the Map's own metaphysics of what Tenet 1's "irreducible" actually picks out (the substrate, or the experience the substrate bears?). Likely a concept page rather than topic if framed around the irreducibility-target distinction; check section caps before placement (topics ~248/270, concepts ~246/270 — both near cap, so prefer concept-or-apex framing or a refine-draft expansion of the Indian-philosophy article's existing section rather than a fresh stub). Honour [evidential-status-discipline](/project/evidential-status-discipline/) — this is a metaphysical-clarification piece, not an evidence claim. Tenet alignment: Tenet 1 (Dualism — what exactly is irreducible). See [optimistic-2026-05-27b](/reviews/optimistic-2026-05-27b/).
-- **Source**: optimistic-review (2026-05-27b)
-- **Generated**: 2026-05-27
-
 ### ✓ P2: Deep review topics/the-observer-witness-in-meditation.md (51 days since last review, ai_contribution=100, Tenet 3 load-bearing)
 - **Type**: deep-review
 - **Status**: done (2026-05-26)
 - **Notes**: PROMOTED P3→P2 by /replenish-queue 2026-05-26: the actionable (P0-P2) queue stood at 2 (the consciousness-and-skill-acquisition literature-drift P2 + the episodic-memory deep-review P2), below the MIN_QUEUE floor of 3; promoting grounded tenet-load-bearing staleness deep-reviews rather than minting speculative expand-topic work against the already-large (~500-task) P3 backlog is the honest replenishment move (per steady-state observation that the loop's genuine-task supply is thin while sections sit near cap and length offenders are blocked/vetoed). Verified `last_deep_review: 2026-04-05T19:33:00+00:00` (~51 days). Staleness check (/replenish-queue 2026-05-26, third top-up). `topics/the-observer-witness-in-meditation.md` ("The Observer-Witness in Meditation", ~3068 words, last deep-reviewed 2026-04-05 ~51 days ago, `ai_contribution=100`); not currently the subject of any other pending task header. Originally kept at P3 (the ownership-void P2 above is the floor-restoring task; this is retained for queue diversity as a *topic* rather than a void, and it is directly Tenet 3 load-bearing — the witness/observer mode is one of the Map's contemplative interface-mode exhibits). The article borders the meditation cluster substantially elaborated since April: `[[concepts/witness-consciousness]]`, `[[concepts/meditation-and-consciousness-modes]]`, `[[topics/comparative-phenomenology-of-meditative-traditions]]` (and its affective-tone / cessation-vs-plenitude divergence material), `[[concepts/attention-as-interface]]`, and the selection/corridor interface reading. Deep-review should: (a) verify the observer-witness framing still coheres with the current meditation-modes / interface-mode treatment and cross-links to the post-April cluster; (b) honour `[[evidential-status-discipline]]` — contemplative phenomenology claims are prone to phenomenology-vs-metaphysics slippage, and the contemplative-neuroscience empirical claims (default-mode-network changes, cortical thickness) are in an active-research domain (flag a literature-drift follow-on if drift detected); (c) verify cross-links resolve live and are reciprocated where load-bearing; (d) writing-style + length discipline (~3068 words, just over the 3000-word topics soft threshold, well under the 4000 hard — note for a possible condense follow-on only if a refine pass pushes it over hard; no-"This is not X. It is Y." cliché check). Apply in-place fixes if minor; generate a follow-on refine-draft task if substantive. Tenet alignment: Tenet 3 (Bidirectional Interaction — sustained meditative practice modulates the interface, the witness mode as a trained engagement register), Tenet 1 (Dualism — the witness/observed distinction is a phenomenal-structure exhibit).
 - **Source**: staleness
 - **Generated**: 2026-05-26
-
-### P3: Condense concepts/functionalism.md (soft_warning, 3017 words)
-- **Type**: condense
-- **Status**: pending
-- **Notes**: The 2026-05-26 refine-draft pass (addressing the pessimistic-review findings) took the body from 2659 to 3017 words — over the 2500 soft threshold (it was already over pre-edit), under the 3500 hard cap. New material is load-bearing (conceivability→possibility clause, concession-convergence calibration, the in-framework sufficiency-claim pressure). A future condense pass could tighten older expository sections (Multiple Realizability, Functionalism's Appeal, the Relation-to-Site subsections) without touching the preserved Specification Problem / phenomenal-non-compositionality material or the newly-added calibration clauses. Not urgent.
-- **Source**: refine-draft
-- **Generated**: 2026-05-26
-
-### P3: Condense topics/self-stultification-as-master-argument.md (soft_warning, 3383 words)
-- **Type**: condense
-- **Status**: pending
-- **Notes**: The 2026-05-19 cross-link commits added ~333 words (anti-correlated-metacognitive-signal structural parallel + cross-mechanism-convergence Further Reading), pushing the article from a stable 103% (reviews 5-8) to 114% of the 3000 soft threshold. The 2026-05-27 deep review tightened prose length-neutrally (back to 3383, 113%) but the residual excess is genuine new content, not bloat — under the 4000 hard cap. A future condense pass could merge the two new Further Reading entries or fold the metacognitive-signal parallel into the epiphenomenalist-threat paragraph. Preserve the "not strict identity / different tiers" calibration framing. Not urgent.
-- **Source**: deep-review
-- **Generated**: 2026-05-27
 
 ### ✓ P2: Deep review topics/motor-control-quantum-zeno.md (50 days since last review, ai_contribution>50, Tenet 2/3 load-bearing)
 - **Type**: deep-review
@@ -3743,6 +3722,18 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 Tasks that failed 3+ times and require human intervention.
 
+
+### ✓ 2026-05-27: Condense topics/self-stultification-as-master-argument.md (soft_warning, 3383 words)
+- **Type**: condense
+- **Notes**: The 2026-05-19 cross-link commits added ~333 words (anti-correlated-metacognitive-signal structural parallel + cross-mechanism-convergence Further Reading), pushing the article from a stable 103% (reviews 5-8) to 114% of the 3000 soft threshold. The 2026-05-27 deep review tightened prose length-neutrally (back to 3383, 113%) but the residual excess is genuine new content, not bloat — under the 4000 hard cap. A future condense pass could merge the two new Further Reading entries or fold the metacognitive-signal parallel into the epiphenomenalist-threat paragraph. Preserve the "not strict identity / different tiers" calibration framing. Not urgent.
+
+### ✓ 2026-05-27: Condense concepts/functionalism.md (soft_warning, 3017 words)
+- **Type**: condense
+- **Notes**: The 2026-05-26 refine-draft pass (addressing the pessimistic-review findings) took the body from 2659 to 3017 words — over the 2500 soft threshold (it was already over pre-edit), under the 3500 hard cap. New material is load-bearing (conceivability→possibility clause, concession-convergence calibration, the in-framework sufficiency-claim pressure). A future condense pass could tighten older expository sections (Multiple Realizability, Functionalism's Appeal, the Relation-to-Site subsections) without touching the preserved Specification Problem / phenomenal-non-compositionality material or the newly-added calibration clauses. Not urgent.
+
+### ✓ 2026-05-27: Write article on essential vs. contingent consciousness of the non-physical aspect
+- **Type**: expand-topic
+- **Notes**: Suggested by optimistic review 2026-05-27b (medium priority). [indian-philosophy-of-mind](/topics/indian-philosophy-of-mind/) §"Consciousness without essential consciousness" raises a question it explicitly says "the Map must take seriously" but resolves nowhere on the site: does the Map's dualism require the non-physical aspect to be *essentially* conscious, or only *contingently* so? Nyaya's *atman* — a non-physical self that exists *without* consciousness during dreamless sleep — has no direct Western parallel and forks the Map's own metaphysics of what Tenet 1's "irreducible" actually picks out (the substrate, or the experience the substrate bears?). Likely a concept page rather than topic if framed around the irreducibility-target distinction; check section caps before placement (topics ~248/270, concepts ~246/270 — both near cap, so prefer concept-or-apex framing or a refine-draft expansion of the Indian-philosophy article's existing section rather than a fresh stub). Honour [evidential-status-discipline](/project/evidential-status-discipline/) — this is a metaphysical-clarification piece, not an evidence claim. Tenet alignment: Tenet 1 (Dualism — what exactly is irreducible). See [optimistic-2026-05-27b](/reviews/optimistic-2026-05-27b/).
 
 ### ✓ 2026-05-27: Fix broken `#^occams-razor` tenet anchor across 10 files (links hygiene)
 - **Type**: refine-draft

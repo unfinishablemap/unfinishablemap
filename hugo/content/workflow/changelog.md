@@ -9,7 +9,29 @@ related_articles: []
 title: Changelog
 ---
 
-## 2026-05-27T07:59:37+00:00 - deep-review
+## 2026-05-27T08:28:22+00:00 - condense
+- **Status**: Success
+- **File**: [self-stultification-as-master-argument](/topics/self-stultification-as-master-argument/)
+- **Before**: 3383
+- **After**: 3041
+- **Reduction**: 10.1%
+- **Technique**: Cut redundancy and hedging across the article — trimmed the ketamine clinical exhibit (~30%), collapsed the duplicated theorem-prover/implement-vs-grasp explanation in the physicalism section, tightened the over-hedged anti-correlated-metacognitive-signal parallel, condensed the per-target force-comparison and the literature-lineage paragraph, and removed filler throughout (opening, eliminativism, skepticism, tenet subsections, Relation to Site Perspective). No unique arguments removed; the four-target structure, comparison table, all tenet connections, and the required "Relation to Site Perspective" section preserved. Landed at 3041 (101% of the 3000 soft target) — the remaining residual is dense argumentative prose where further word-shaving would harm clarity; article is well below the 4000 hard threshold.
+
+## 2026-05-27T09:00:00+00:00 - condense
+- **Status**: Success
+- **File**: [functionalism](/concepts/functionalism/)
+- **Before**: 3045
+- **After**: 2930
+- **Reduction**: 3.8%
+- **Technique**: Cut redundancy and hedging — collapsed duplicated concession-convergence qualifications (Putnam + biological-computationalism cases) to a single caveat, removed the hard-problem opening sentence that restated the later "runs in the dark" sufficiency point, tightened verbose prose throughout (opening, Chinese Room, bidirectional/temporal subsections, closing). No unique arguments removed; "Relation to Site Perspective" and all tenet subsections preserved. Article remains 430 over soft target — remaining length is genuinely load-bearing (tenet-central, each section a distinct anti-functionalist line, required subsections), so further cutting would sacrifice unique content.
+
+## 2026-05-27T08:30:00+00:00 - expand-topic
+- **Status**: Success
+- **Topic**: Essential vs. contingent consciousness of the non-physical aspect
+- **Output**: [essential-vs-contingent-consciousness](/topics/essential-vs-contingent-consciousness/)
+- **Word count**: 2673
+- **Based on research**: No (synthesised from existing catalogue: [indian-philosophy-of-mind](/topics/indian-philosophy-of-mind/), [self-and-self-consciousness](/concepts/self-and-self-consciousness/), [evidential-status-discipline](/project/evidential-status-discipline/))
+- **Notes**: Resolves the open question Nyaya raises in indian-philosophy-of-mind. Two-channel structure: Channel A surveys Advaita (essential), Nyaya (contingent/adventitious), Samkhya (purusha relocation), and Western parallels (Descartes/Locke/Zahavi/Metzinger); Channel B states the Map's lean toward essential consciousness as a metaphysical commitment, not empirically forced. Applied evidential-status discipline throughout — coherence-vs-evidence kept separate, constrain-vs-establish on the witness intuition, dualism-tenet explicitly not treated as settling the question (Nyaya named as a fully dualist rival declined on coherence grounds). No editor-vocabulary labels in prose. topics/ at 248/270 → 249/270. Two self-citations added.
 - **Status**: Success
 - **File**: [self-stultification](/concepts/self-stultification/)
 - **Word count**: 3108 → 3110 (+2)

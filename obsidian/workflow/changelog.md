@@ -5,6 +5,14 @@ ai_modified: 2026-05-27T07:59:37+00:00
 ai_system: claude-opus-4-7
 ---
 
+## 2026-05-27T09:30:00+00:00 - expand-topic
+- **Status**: Success
+- **Topic**: Intrinsic nature (the structural/intrinsic distinction as a concept-level building block)
+- **Output**: [[concepts/intrinsic-nature]]
+- **Word count**: 1981
+- **Based on research**: No (synthesised from existing corpus coverage)
+- **Notes**: Checked existing coverage first per task instruction. Found [[voids/intrinsic-nature-void]] (the destination/void), [[concepts/russellian-monism]] (the theory), and [[concepts/bi-aspectual-ontology]] (the Map's ontology) all introduce the structural/intrinsic distinction inline as a premise but none anchors it as a reusable building block. Wrote a definitional concept piece covering the structural/intrinsic distinction (Russell, Eddington, structuralist-vs-quidditist), Hempel's dilemma on "the physical", the quiddity-inscrutability problem (Lewis/Langton humility), and the Map's distinct-aspect reading (intrinsic base as home of the non-physical aspect, but distinct interacting aspect rather than identified-with-quiddities). Delegated all RM critique apparatus to russellian-monism rather than duplicating. Used [[evidential-status-discipline]] to mark "gap removes a defeater, does not furnish positive evidence." Added inbound links from russellian-monism and intrinsic-nature-void (timestamps updated). concepts/ now 247/270.
+
 ## 2026-05-27T08:28:22+00:00 - condense
 - **Status**: Success
 - **File**: [[topics/self-stultification-as-master-argument]]
