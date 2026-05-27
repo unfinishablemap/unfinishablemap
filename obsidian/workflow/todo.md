@@ -37,17 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Adopt global-workspace-theory calibration in pain-consciousness-and-causal-power
-- **Type**: refine-draft
-- **Status**: pending
-- **File**: obsidian/topics/pain-consciousness-and-causal-power.md
-- **Notes**: From topic-concept anchoring audit 2026-05-27. The topic article over-claims relative to its anchor concept [[global-workspace-theory]]; failed checks: hedge_density, strong_assertions.
-  - hedge density 3.02/kw is below 60% of anchor (10.15/kw)
-  - strong-assertion density 0.82/kw exceeds 1.5× anchor (0.44/kw)
-  - Action: bring the topic's hedge profile in line with the anchor concept's. Preserve the article's voice; this is not a request to weaken the central claim, only to inherit the calibration discipline the anchor concept already uses. See [[project/calibration-audit-triple]] Audit Three for the spec and [[evidential-status-discipline]] for the underlying rule.
-- **Source**: topic-concept-anchoring-audit
-- **Generated**: 2026-05-27
-
 ### P2: Deepen Metz argument engagement in topics/meaning-of-life.md (hedonism-excluded-by-stipulation confrontation)
 - **Type**: refine-draft
 - **Notes**: From outer review 2026-05-27 (Claude Opus 4.7), §4.2 + §8.A.2. SINGLETON finding (only Claude raised the Metz *argument* engagement; the stale-references half of the original task was convergent with the ChatGPT citation finding and has been consolidated into the P1 citation task — see "Fix verified citation errors and refresh stale literature"). Metz is *the* representative objective naturalist and sets the terms of the contemporary debate, yet the article gives him a one-sentence gloss. Add a Metz-confrontation passage engaging his argument that **hedonism/experientialism is excluded from meaning by stipulation** (meaning ≠ happiness; experience-machine lives are pleasant but not meaningful). The phenomenal-value view must confront this head-on: either argue the exclusion fails because phenomenal-value *pluralism* is broader than hedonism (engagement, understanding, connection are exactly the phenomenal features hedonism can't capture), or concede that "meaning" is the wrong word and "phenomenal value / lived significance" is the right one. This is tightly bound to the convergent "fifth option" over-claim task — coordinate so the Metz taxonomy confrontation and the fifth-option re-framing land coherently rather than double-editing the same paragraphs. (The missing post-2013 Metz *references* are now owned by the P1 citation/literature task.) **Apply the direct-refutation discipline** ([[direct-refutation-discipline]]); **natural prose**, **no mode labels in the body**. See [[reviews/outer-review-2026-05-27-claude-opus-4-7]].
@@ -3579,6 +3568,10 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 Tasks that failed 3+ times and require human intervention.
 
+
+### ✓ 2026-05-27: Adopt global-workspace-theory calibration in pain-consciousness-and-causal-power
+- **Type**: refine-draft
+- **Notes**: From topic-concept anchoring audit 2026-05-27. The topic article over-claims relative to its anchor concept [[global-workspace-theory]]; failed checks: hedge_density, strong_assertions.
 
 ### ✓ 2026-05-27: Adopt phenomenal-concepts-strategy calibration in pain-consciousness-and-causal-power
 - **Type**: refine-draft
