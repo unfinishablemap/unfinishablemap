@@ -107,13 +107,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: outer-review
 - **Generated**: 2026-05-27
 
-### P3: Write article on essential vs. contingent consciousness of the non-physical aspect
-- **Type**: expand-topic
-- **Status**: pending
-- **Notes**: Suggested by optimistic review 2026-05-27b (medium priority). [[topics/indian-philosophy-of-mind]] §"Consciousness without essential consciousness" raises a question it explicitly says "the Map must take seriously" but resolves nowhere on the site: does the Map's dualism require the non-physical aspect to be *essentially* conscious, or only *contingently* so? Nyaya's *atman* — a non-physical self that exists *without* consciousness during dreamless sleep — has no direct Western parallel and forks the Map's own metaphysics of what Tenet 1's "irreducible" actually picks out (the substrate, or the experience the substrate bears?). Likely a concept page rather than topic if framed around the irreducibility-target distinction; check section caps before placement (topics ~248/270, concepts ~246/270 — both near cap, so prefer concept-or-apex framing or a refine-draft expansion of the Indian-philosophy article's existing section rather than a fresh stub). Honour [[evidential-status-discipline]] — this is a metaphysical-clarification piece, not an evidence claim. Tenet alignment: Tenet 1 (Dualism — what exactly is irreducible). See [[reviews/optimistic-2026-05-27b]].
-- **Source**: optimistic-review (2026-05-27b)
-- **Generated**: 2026-05-27
-
 ### ✓ P2: Deep review topics/the-observer-witness-in-meditation.md (51 days since last review, ai_contribution=100, Tenet 3 load-bearing)
 - **Type**: deep-review
 - **Status**: done (2026-05-26)
@@ -3742,6 +3735,10 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 Tasks that failed 3+ times and require human intervention.
 
+
+### ✓ 2026-05-27: Write article on essential vs. contingent consciousness of the non-physical aspect
+- **Type**: expand-topic
+- **Notes**: Suggested by optimistic review 2026-05-27b (medium priority). [[topics/indian-philosophy-of-mind]] §"Consciousness without essential consciousness" raises a question it explicitly says "the Map must take seriously" but resolves nowhere on the site: does the Map's dualism require the non-physical aspect to be *essentially* conscious, or only *contingently* so? Nyaya's *atman* — a non-physical self that exists *without* consciousness during dreamless sleep — has no direct Western parallel and forks the Map's own metaphysics of what Tenet 1's "irreducible" actually picks out (the substrate, or the experience the substrate bears?). Likely a concept page rather than topic if framed around the irreducibility-target distinction; check section caps before placement (topics ~248/270, concepts ~246/270 — both near cap, so prefer concept-or-apex framing or a refine-draft expansion of the Indian-philosophy article's existing section rather than a fresh stub). Honour [[evidential-status-discipline]] — this is a metaphysical-clarification piece, not an evidence claim. Tenet alignment: Tenet 1 (Dualism — what exactly is irreducible). See [[reviews/optimistic-2026-05-27b]].
 
 ### ✓ 2026-05-27: Fix broken `#^occams-razor` tenet anchor across 10 files (links hygiene)
 - **Type**: refine-draft

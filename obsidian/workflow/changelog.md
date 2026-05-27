@@ -5,7 +5,13 @@ ai_modified: 2026-05-27T07:59:37+00:00
 ai_system: claude-opus-4-7
 ---
 
-## 2026-05-27T07:59:37+00:00 - deep-review
+## 2026-05-27T08:30:00+00:00 - expand-topic
+- **Status**: Success
+- **Topic**: Essential vs. contingent consciousness of the non-physical aspect
+- **Output**: [[topics/essential-vs-contingent-consciousness]]
+- **Word count**: 2673
+- **Based on research**: No (synthesised from existing catalogue: [[topics/indian-philosophy-of-mind]], [[concepts/self-and-self-consciousness]], [[project/evidential-status-discipline]])
+- **Notes**: Resolves the open question Nyaya raises in indian-philosophy-of-mind. Two-channel structure: Channel A surveys Advaita (essential), Nyaya (contingent/adventitious), Samkhya (purusha relocation), and Western parallels (Descartes/Locke/Zahavi/Metzinger); Channel B states the Map's lean toward essential consciousness as a metaphysical commitment, not empirically forced. Applied evidential-status discipline throughout — coherence-vs-evidence kept separate, constrain-vs-establish on the witness intuition, dualism-tenet explicitly not treated as settling the question (Nyaya named as a fully dualist rival declined on coherence grounds). No editor-vocabulary labels in prose. topics/ at 248/270 → 249/270. Two self-citations added.
 - **Status**: Success
 - **File**: [[concepts/self-stultification]]
 - **Word count**: 3108 → 3110 (+2)
