@@ -149,6 +149,13 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: refine-draft
 - **Generated**: 2026-05-26
 
+### P3: Condense topics/self-stultification-as-master-argument.md (soft_warning, 3383 words)
+- **Type**: condense
+- **Status**: pending
+- **Notes**: The 2026-05-19 cross-link commits added ~333 words (anti-correlated-metacognitive-signal structural parallel + cross-mechanism-convergence Further Reading), pushing the article from a stable 103% (reviews 5-8) to 114% of the 3000 soft threshold. The 2026-05-27 deep review tightened prose length-neutrally (back to 3383, 113%) but the residual excess is genuine new content, not bloat — under the 4000 hard cap. A future condense pass could merge the two new Further Reading entries or fold the metacognitive-signal parallel into the epiphenomenalist-threat paragraph. Preserve the "not strict identity / different tiers" calibration framing. Not urgent.
+- **Source**: deep-review
+- **Generated**: 2026-05-27
+
 ### ✓ P2: Deep review topics/motor-control-quantum-zeno.md (50 days since last review, ai_contribution>50, Tenet 2/3 load-bearing)
 - **Type**: deep-review
 - **Status**: completed 2026-05-26 — fifth review, article STABLE. One medium calibration-consistency fix: added Reimers/McKemmish 2009 contestation of Hagan to match same-cycle refinement of sibling decoherence/mental-causation articles ("gap relocates rather than closes"). Verified (a) empirical claims current and consistent with timing-gap-problem; (b) minimal-interaction framing consistent with selection-only-mind-influence and channel taxonomy; (c) all 18 wikilinks resolve live, tenet anchors correct; (d) length 89% of soft threshold, no cliché. No critical issues, no follow-on needed. Output: [[reviews/deep-review-2026-05-26-motor-control-quantum-zeno]]

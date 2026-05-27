@@ -1,9 +1,21 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-27T07:27:07+00:00
+ai_modified: 2026-05-27T07:32:13+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-05-27T07:32:13+00:00 - deep-review
+- **Status**: Success
+- **File**: [[topics/self-stultification-as-master-argument]]
+- **Word count**: 3429 → 3383 (-46; length-neutral prose tightening, no content removed)
+- **Critical issues addressed**: 0 (none found — 9th review, article converged on substance)
+- **Medium issues addressed**: 2 (length regression to soft_warning 114%→113%, handled length-neutral; removed a near-instance of the discouraged "not X but Y" cliché in "Why the Pattern Repeats")
+- **Enhancements made**: prose tightening across 4 sections (metacognitive-signal paragraph, physicalism norm-tracking restatement, ketamine exhibit, pattern-repeats closing)
+- **Attribution check**: new content since review 8 verified — Coutinho et al. (2021) and Sarasso et al. (2015) both checked against source articles, qualifiers preserved. No slippage: the anti-correlated-metacognitive-signal paragraph correctly frames the analogy as cross-tier structural parallel ("not strict identity / different tiers"), not an evidence upgrade.
+- **Engagement classification (editor-internal, not in article)**: functionalist (norm-implementation, lines 91-95): Mode Two→One sequence; Frankish (functional-seeming): Mode One; Churchland mature eliminativism: Mode One. No editor-vocabulary leakage in prose (grep clean).
+- **Follow-up**: P3 condense task added (article at 113% of soft threshold from genuine new cross-link content; under hard cap, not urgent).
+- **Output**: [[reviews/deep-review-2026-05-27-self-stultification-as-master-argument]]
 
 ## 2026-05-27T07:27:07+00:00 - refine-draft (interface-formalism cluster candour gaps)
 - **Status**: Success

@@ -108,13 +108,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: outer-review
 - **Generated**: 2026-05-27
 
-### P3: Address candour gaps in interface-formalism cluster (unfalsifiable default, MWI boundary-marking, preprint overclaim)
-- **Type**: refine-draft
-- **Status**: pending
-- **Notes**: Pessimistic review 2026-05-27 found three non-fatal candour gaps in the interface-formalism cluster. (1) The Map's *default* corridor/trumping readings are, by their own description, signature-free/unfalsifiable while only the *disfavoured* minimum-outside-corridor reading is testable — add a short inline acknowledgement that the default purchases conservatism with loss of empirical signature. (2) MWI is called "vacuous"/"interpretively inert" w.r.t. the cluster's mathematics, but the Deutsch-Wallace Born derivation is in the same lineage the cluster cites approvingly — this is a boundary-substitution slip; reframe as honest Tenet-4 framework-boundary marking ("ruled out by the Map's rejection of MWI") rather than mathematical defeat. (3) Soften "Pati (2026) showed"/"Torres Alegre (2025) proved" to "argues"/"derives" since these are unrefereed preprints; optionally note the ~10 bits/s bandwidth figure is a cognitive-throughput measure, not a quantum-coupling information rate. Preserve all existing strengths (conditionality discipline, no-favouring disclaimers). See [pessimistic-2026-05-27-interface-formalism-cluster](/reviews/pessimistic-2026-05-27-interface-formalism-cluster/).
-- **Source**: pessimistic-review (2026-05-27)
-- **Generated**: 2026-05-27
-
 ### P3: Apex synthesis — "The self is constructed; the constructor is not"
 - **Type**: apex-evolve
 - **Status**: pending
@@ -156,6 +149,13 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Notes**: The 2026-05-26 refine-draft pass (addressing the pessimistic-review findings) took the body from 2659 to 3017 words — over the 2500 soft threshold (it was already over pre-edit), under the 3500 hard cap. New material is load-bearing (conceivability→possibility clause, concession-convergence calibration, the in-framework sufficiency-claim pressure). A future condense pass could tighten older expository sections (Multiple Realizability, Functionalism's Appeal, the Relation-to-Site subsections) without touching the preserved Specification Problem / phenomenal-non-compositionality material or the newly-added calibration clauses. Not urgent.
 - **Source**: refine-draft
 - **Generated**: 2026-05-26
+
+### P3: Condense topics/self-stultification-as-master-argument.md (soft_warning, 3383 words)
+- **Type**: condense
+- **Status**: pending
+- **Notes**: The 2026-05-19 cross-link commits added ~333 words (anti-correlated-metacognitive-signal structural parallel + cross-mechanism-convergence Further Reading), pushing the article from a stable 103% (reviews 5-8) to 114% of the 3000 soft threshold. The 2026-05-27 deep review tightened prose length-neutrally (back to 3383, 113%) but the residual excess is genuine new content, not bloat — under the 4000 hard cap. A future condense pass could merge the two new Further Reading entries or fold the metacognitive-signal parallel into the epiphenomenalist-threat paragraph. Preserve the "not strict identity / different tiers" calibration framing. Not urgent.
+- **Source**: deep-review
+- **Generated**: 2026-05-27
 
 ### ✓ P2: Deep review topics/motor-control-quantum-zeno.md (50 days since last review, ai_contribution>50, Tenet 2/3 load-bearing)
 - **Type**: deep-review
@@ -3764,6 +3764,10 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 Tasks that failed 3+ times and require human intervention.
 
+
+### ✓ 2026-05-27: Address candour gaps in interface-formalism cluster (unfalsifiable default, MWI boundary-marking, preprint overclaim)
+- **Type**: refine-draft
+- **Notes**: Pessimistic review 2026-05-27 found three non-fatal candour gaps in the interface-formalism cluster. (1) The Map's *default* corridor/trumping readings are, by their own description, signature-free/unfalsifiable while only the *disfavoured* minimum-outside-corridor reading is testable — add a short inline acknowledgement that the default purchases conservatism with loss of empirical signature. (2) MWI is called "vacuous"/"interpretively inert" w.r.t. the cluster's mathematics, but the Deutsch-Wallace Born derivation is in the same lineage the cluster cites approvingly — this is a boundary-substitution slip; reframe as honest Tenet-4 framework-boundary marking ("ruled out by the Map's rejection of MWI") rather than mathematical defeat. (3) Soften "Pati (2026) showed"/"Torres Alegre (2025) proved" to "argues"/"derives" since these are unrefereed preprints; optionally note the ~10 bits/s bandwidth figure is a cognitive-throughput measure, not a quantum-coupling information rate. Preserve all existing strengths (conditionality discipline, no-favouring disclaimers). See [pessimistic-2026-05-27-interface-formalism-cluster](/reviews/pessimistic-2026-05-27-interface-formalism-cluster/).
 
 ### ✓ 2026-05-27: Cross-article audit of Tegmark/Hagan decoherence citations
 - **Type**: cross-review
