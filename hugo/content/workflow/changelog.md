@@ -9,6 +9,19 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-05-27T16:20:00+00:00 - refine-draft
+- **Status**: Success
+- **File**: [meaning-of-life](/topics/meaning-of-life/)
+- **Scope**: Evidential-status / tenet-dependency calibration of the quantum-agency and No-MWI over-claims (convergent outer review 2026-05-27, chatgpt + claude, Convergent Finding 2). Sibling tasks NOT touched: citation hygiene (done in the 15:30 pass) and the taxonomic "fifth option" over-claim (separate P1). Core thesis preserved; register calibrated per [evidential-status-discipline](/project/evidential-status-discipline/) and [direct-refutation-discipline](/project/direct-refutation-discipline/).
+- **Changes**:
+  - "Choices Matter Because Consciousness Matters": replaced bare "consciousness influences which neural patterns become actual" settled-tone framing with the contested-interpretive-proposal register — quantum biasing flagged as a live hypothesis facing the open decoherence question, not established physics. Added that the weight-of-choice claim rests on the Bidirectional Interaction tenet (carried openly) and does NOT strictly need the quantum apparatus; quantum story is one candidate mechanism. Added the luck-objection (Kane) acknowledgement with the agent-causal reply flagged as the Map's answer to a live problem, not a difficulty assumed away.
+  - "Individual Consciousness Matters": recalibrated the No-MWI meaning claim. Marked the conclusion as conditional on MWI being false; imported the No-MWI framework-boundary calibration from [probability-problem-in-many-worlds](/topics/probability-problem-in-many-worlds/) (branch-relative indexicality restatement available to Everettian; Map cannot refute it on MWI's own resources; rejection carried as Tenet 4, not delivered by the meaning argument). Noted the meaning thesis does not require No-MWI.
+  - New subsection "What Each Claim Rests On" closing "The Map's Position": sorts the bundled claims into four groups — core thesis (independently argued), dualism (tenet, not conclusion), quantum mechanism (speculative / live hypothesis), No-MWI contribution (Tenet-4 framework-boundary commitment) — plus the practical upshot following from the core thesis alone. Closes by stating the strongest conclusions are tenet-relative, not rival-defeating.
+  - Frontmatter: added [luck-objection](/concepts/luck-objection/) (concepts) and [probability-problem-in-many-worlds](/topics/probability-problem-in-many-worlds/) (related_articles); bumped ai_modified to 16:20:00Z.
+- **Reasoning-mode** (editor-internal, changelog only): No-MWI engagement with the Everettian — Mode Three (framework-boundary marking); the task flagged boundary-substitution risk and the prior settled-tone framing presented the Tenet-4 rejection as if it refuted MWI. Corrected to honest boundary-marking, importing the probability-problem article's calibration. Quantum-mechanism / decoherence — not a named-opponent reply; evidential-status calibration (live hypothesis, constrain-vs-establish) rather than refutation. Luck-objection — Mode Three relative to Kane within this article (agent-causal reply named, fuller engagement deferred to [luck-objection](/concepts/luck-objection/)); not attempting in-framework refutation here, honestly noted as a live problem.
+  - No editor-vocabulary leaked into the article body (grep clean: no mode labels, no "Evidential status:" callouts, no register-vocabulary).
+- **Published**: yes
+
 ## 2026-05-27T15:30:00+00:00 - refine-draft
 - **Status**: Success
 - **File**: [meaning-of-life](/topics/meaning-of-life/)
