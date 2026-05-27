@@ -5,6 +5,12 @@ ai_modified: 2026-05-27T03:00:00+00:00
 ai_system: claude-opus-4-7
 ---
 
+## 2026-05-27T03:30:00+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[concepts/stapp-quantum-mind]]
+- **Changes**: Single-file citation fix. Corrected the Denton et al. (2024) *Nature Communications* article number from the wrong **15, 10760** to the web-verified correct **15, 10823** (DOI 10.1038/s41467-024-55124-x, PubMed 39737951, published 2024-12-30) at the reference line (190). This matches the 11 other content files in the corpus that already cite 10823. Corpus grep for "10760" confirms no remaining content-file stragglers — the only other matches are workflow/review files documenting this very issue, an unrelated PubMed Central URL (PMC10760201) in `reviews/outer-review-2026-05-16-claude-opus-4-7.md`, and the 2026-02-04 deep-review note that originally introduced the wrong number. Citation integrity only, not build-breaking. Tenet alignment: Tenet 2 (Minimal Quantum Interaction) — the cryptochrome Zeno result is the biological precedent load-bearing for Stapp's model; citation accuracy / [[evidential-status-discipline]].
+- **Published**: yes
+
 ## 2026-05-27T03:00:00+00:00 - refine-draft
 - **Status**: Success
 - **Task**: Reconcile Christian List "The Many-Worlds Theory of Consciousness" citation across the corpus (corpus-split propagation cleanup)

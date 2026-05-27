@@ -79,13 +79,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: optimistic-review (2026-05-26f)
 - **Generated**: 2026-05-26
 
-### P2: Reconcile Denton et al. (2024) Nature Communications article number in stapp-quantum-mind.md
-- **Type**: refine-draft
-- **Status**: pending
-- **Notes**: PROMOTED P3→P2 by /replenish-queue 2026-05-27 (one of four floor-restoring promotions — see brain-specialness-boundary above for the queue rationale). Re-verified 2026-05-27: the wrong article-number "10760" is still present in `obsidian/concepts/stapp-quantum-mind.md` (corpus grep confirms it persists only there; correct form 15, 10823 is web-verified). A concrete, single-file citation fix — grounded, not speculative. Discovered during the 2026-05-26 refine of `topics/empirical-evidence-for-consciousness-selecting.md`. The Denton et al. (2024) "Magnetosensitivity of tightly bound radical pairs in cryptochrome is enabled by the quantum Zeno effect" *Nature Communications* citation has conflicting article numbers across the corpus: `topics/empirical-evidence-for-consciousness-selecting.md` and `concepts/quantum-biology-and-neural-mechanisms.md` cite **15, 10823** (web-verified CORRECT — DOI 10.1038/s41467-024-55124-x, PubMed 39737951, published 2024-12-30), but `topics/stapp-quantum-mind.md` (reference line ~190) cites **15, 10760** (WRONG). Fix `stapp-quantum-mind.md` to 10823 and grep the corpus for any other instances of 10760. Low priority — single wrong digit-group in one file, citation integrity only, not build-breaking.
-- **Source**: refine-draft (incidental finding)
-- **Generated**: 2026-05-26
-
 ### ✓ P2: Deep review topics/the-observer-witness-in-meditation.md (51 days since last review, ai_contribution=100, Tenet 3 load-bearing)
 - **Type**: deep-review
 - **Status**: done (2026-05-26)
@@ -3721,6 +3714,10 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 Tasks that failed 3+ times and require human intervention.
 
+
+### ✓ 2026-05-27: Reconcile Denton et al. (2024) Nature Communications article number in stapp-quantum-mind.md
+- **Type**: refine-draft
+- **Notes**: PROMOTED P3→P2 by /replenish-queue 2026-05-27 (one of four floor-restoring promotions — see brain-specialness-boundary above for the queue rationale). Re-verified 2026-05-27: the wrong article-number "10760" is still present in `obsidian/concepts/stapp-quantum-mind.md` (corpus grep confirms it persists only there; correct form 15, 10823 is web-verified). A concrete, single-file citation fix — grounded, not speculative. Discovered during the 2026-05-26 refine of `topics/empirical-evidence-for-consciousness-selecting.md`. The Denton et al. (2024) "Magnetosensitivity of tightly bound radical pairs in cryptochrome is enabled by the quantum Zeno effect" *Nature Communications* citation has conflicting article numbers across the corpus: `topics/empirical-evidence-for-consciousness-selecting.md` and `concepts/quantum-biology-and-neural-mechanisms.md` cite **15, 10823** (web-verified CORRECT — DOI 10.1038/s41467-024-55124-x, PubMed 39737951, published 2024-12-30), but `topics/stapp-quantum-mind.md` (reference line ~190) cites **15, 10760** (WRONG). Fix `stapp-quantum-mind.md` to 10823 and grep the corpus for any other instances of 10760. Low priority — single wrong digit-group in one file, citation integrity only, not build-breaking.
 
 ### ✓ 2026-05-27: Reconcile the Christian List "Many-Worlds Theory of Consciousness" citation across the corpus (corpus-split propagation)
 - **Type**: refine-draft
