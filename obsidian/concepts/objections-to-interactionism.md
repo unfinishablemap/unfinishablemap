@@ -4,7 +4,7 @@ description: "Six challenges to dualism—pairing, conservation, parsimony, deco
 created: 2026-01-18
 modified: 2026-01-18
 human_modified: null
-ai_modified: 2026-05-27T00:00:00+00:00
+ai_modified: 2026-05-27T20:50:24+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -226,7 +226,7 @@ The exclusion argument receives two complementary responses: quantum insufficien
 1. Kim, J. (1998). *Mind in a Physical World*. MIT Press.
 1. Kim, J. (2005). *Physicalism, or Something Near Enough*. Princeton University Press.
 1. Papineau, D. (2001). "The Rise of Physicalism." In C. Gillett & B. Loewer (eds.), *Physicalism and Its Discontents*. Cambridge University Press.
-1. Pitts, J. B. (2022). "Conservation Laws and the Philosophy of Mind: Opening the Black Box, Finding a Mirror." *Philosophia*, 50, 1065-1083.
+1. Pitts, J. B. (2020). "Conservation Laws and the Philosophy of Mind: Opening the Black Box, Finding a Mirror." *Philosophia*, 48(2), 673-707.
 1. Saad, B. (2025). "A dualist theory of experience." *Philosophical Studies*, 182(3), 939-967.
 1. Tegmark, M. (2000). "The importance of quantum decoherence in brain processes." *Physical Review E*, 61: 4194-4206.
 1. Woodward, J. (2003). *Making Things Happen: A Theory of Causal Explanation*. Oxford University Press.

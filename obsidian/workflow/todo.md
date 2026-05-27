@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Deep review concepts/conservation-laws-and-mental-causation.md (34 days since last review, ai_contribution=100, Tenet 3/5 load-bearing)
-- **Type**: deep-review
-- **Status**: pending
-- **Notes**: Staleness check (/replenish-queue 2026-05-27, conservative; floor-restoring — see sibling interactionist-dualism task for the full steady-state accounting). Verified `last_deep_review: 2026-04-23T01:38:00+00:00` (~34 days), `ai_contribution=100`, 2907 words (within concepts soft/hard thresholds 2500/3500). No open deep-review header targets this file; not vetoed (the conservation-laws mentions in the Vetoed/Blocked sections are cross-link references inside *other* tasks' notes — the actual vetoed Kim-exclusion deep-review targets `mental-causation.md`, a different file); not same-day-touched. This is the Map's load-bearing treatment of the conservation-law objection to interactionism and the Kim exclusion problem — directly defends Tenet 3's defensibility. Deep-review should: (a) verify the article still reflects the catalogue's current exclusion-problem framing given the post-March concept shifts ([[type-token-causation]], [[integration-as-activity]], [[interface-threshold]], [[selection-only-channel]], [[trumping-preemption]]) and the [[the-interface-problem]] coalesce; (b) confirm cross-links to [[mental-causation]], [[agent-causation]], [[trumping-preemption]], [[parsimony-case-for-interactionist-dualism]], [[causal-closure-debate-historical-survey]] resolve live and point at the right post-coalesce/post-archive canonical pages; (c) honour [[evidential-status-discipline]] and [[framework-stage-calibration]] (the conservation-law-compatibility argument is susceptible to possibility/probability slippage); (d) writing-style + length discipline. Apply in-place fixes if minor; generate a follow-on refine-draft task if substantive. Tenet alignment: Tenet 3 (Bidirectional Interaction), Tenet 5 (Occam's Razor Has Limits).
-- **Source**: staleness
-- **Generated**: 2026-05-27
-
 ### P2: Deep review topics/quantum-measurement-and-consciousness.md (34 days since last review, ai_contribution=100, Tenet 2 load-bearing)
 - **Type**: deep-review
 - **Status**: pending
@@ -3603,6 +3596,10 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 Tasks that failed 3+ times and require human intervention.
 
+
+### ✓ 2026-05-27: Deep review concepts/conservation-laws-and-mental-causation.md (34 days since last review, ai_contribution=100, Tenet 3/5 load-bearing)
+- **Type**: deep-review
+- **Notes**: Staleness check (/replenish-queue 2026-05-27, conservative; floor-restoring — see sibling interactionist-dualism task for the full steady-state accounting). Verified `last_deep_review: 2026-04-23T01:38:00+00:00` (~34 days), `ai_contribution=100`, 2907 words (within concepts soft/hard thresholds 2500/3500). No open deep-review header targets this file; not vetoed (the conservation-laws mentions in the Vetoed/Blocked sections are cross-link references inside *other* tasks' notes — the actual vetoed Kim-exclusion deep-review targets `mental-causation.md`, a different file); not same-day-touched. This is the Map's load-bearing treatment of the conservation-law objection to interactionism and the Kim exclusion problem — directly defends Tenet 3's defensibility. Deep-review should: (a) verify the article still reflects the catalogue's current exclusion-problem framing given the post-March concept shifts ([[type-token-causation]], [[integration-as-activity]], [[interface-threshold]], [[selection-only-channel]], [[trumping-preemption]]) and the [[the-interface-problem]] coalesce; (b) confirm cross-links to [[mental-causation]], [[agent-causation]], [[trumping-preemption]], [[parsimony-case-for-interactionist-dualism]], [[causal-closure-debate-historical-survey]] resolve live and point at the right post-coalesce/post-archive canonical pages; (c) honour [[evidential-status-discipline]] and [[framework-stage-calibration]] (the conservation-law-compatibility argument is susceptible to possibility/probability slippage); (d) writing-style + length discipline. Apply in-place fixes if minor; generate a follow-on refine-draft task if substantive. Tenet alignment: Tenet 3 (Bidirectional Interaction), Tenet 5 (Occam's Razor Has Limits).
 
 ### ✓ 2026-05-27: Deep review concepts/interactionist-dualism.md (35 days since last review, ai_contribution=100, Tenet 1/3 load-bearing)
 - **Type**: deep-review

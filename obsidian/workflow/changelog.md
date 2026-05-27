@@ -5,6 +5,21 @@ ai_modified: 2026-05-27T14:10:00+00:00
 ai_system: claude-opus-4-7
 ---
 
+## 2026-05-27T20:50:24+00:00 - deep-review
+- **Status**: Success
+- **File**: [[concepts/conservation-laws-and-mental-causation]]
+- **Selection**: queue P2, staleness (~34 days since last_deep_review 2026-04-23); **11th+** deep-review pass (6 under current slug + earlier pre-coalesce slugs). Deeply converged (5+ consecutive clean philosophical reviews). Convergence-damped per remit — philosophical/structural pass kept light; **mandatory full web-verify of physics/empirical citations** was the priority and where the value landed.
+- **Word count**: ~2915 (117% of 2500 concept soft threshold; under 3500 hard — no condensation forced). Citation-only edits, net ~neutral.
+- **Citation web-verify**: 10 load-bearing citations checked against live literature (PubMed/PMC/Springer/arXiv/PNAS/APS). **3 CRITICAL CITATION DEFECTS FOUND + FIXED**: (1) **Pitts (2022) *Philosophia* 50, 1065-1083** is FABRICATED — correct is *Philosophia* **48(2), 673-707, 2020** (the "2022" is only a Springer formatting-correction notice). Two *different* fabricated page ranges for this same paper existed in the corpus (1065-1083 and 2599-2629) — a fabrication tell. (2) **Georgiev "(2018)" *Biomedical Reviews*** — wrong year, dropped co-author, missing vol/pages, truncated title; correct is **Georgiev & Glazebrook (2014), *Biomedical Reviews* 25, 15-24** (distinct from the correctly-cited-elsewhere Georgiev & Glazebrook 2018 *Prog Biophys Mol Biol* 135:16-29). (3) **Collins "Unpublished manuscript, New Dualism Archive"** — actually published, ***Am. Phil. Quarterly* 45(1), 31-42, 2008**. VERIFIED CLEAN: Cucu & Pitts 2019 (arXiv:1909.13643 + Mind & Matter 17(1):95-121); Beck & Eccles 1992 (PNAS 89(23):11357-61); Tegmark 2000 (Phys Rev E 61:4194-4206); Hagan et al. 2002 (Phys Rev E 65:061901); Carroll 2011 (Sci Am blog). Stapp 2007 LBNL — year ambiguous, left as-is (real preprint).
+- **Propagation fixed** (live files, grep incl research/): objections-to-interactionism, history-of-the-interaction-problem, mechanism-costs-dualism-thickness-quadrants (had the 2599-2629 variant), research/conservation-laws-mind-brain-causation-2026-01-23. Also caught a *paired* defect in causal-closure-debate-historical-survey: its Pitts *Erkenntnis* (2022) entry had wrong pages 1861-1892 → **corrected to 1931-1973** (Erkenntnis 87(4), 2022, verified PubMed). Archive/ copies and review/ records left frozen by convention.
+- **Critical issues addressed**: 3 (Pitts, Georgiev, Collins citations) + 1 propagated (Erkenntnis pages) across 6 live files
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 (convergence-damped; no content churn warranted)
+- **Calibration (remit c)**: No evidential overreach. Rebuttal stays at "objection not decisive / not a physics-based barrier," preserves selection-without-injection / no-net-energy framing (Tenet 2). No possibility/probability slippage.
+- **Cross-links (remit d)**: all 12 checked wikilinks + 4 tenet anchors resolve live.
+- **Engagement modes**: Carroll engagement = Mode Two (Standard-Model-completeness helps itself to causal closure without earning it, argued from physics' own commitments); no boundary-substitution, no label leakage.
+- **Output**: [[reviews/deep-review-2026-05-27-conservation-laws-and-mental-causation]]
+
 ## 2026-05-27T16:30:00+00:00 - deep-review
 - **Status**: Success
 - **File**: [[concepts/interactionist-dualism]]

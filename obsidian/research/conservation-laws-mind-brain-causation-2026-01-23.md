@@ -309,9 +309,9 @@ When writing the article, follow `obsidian/project/writing-style.md` for:
 - Beck, F., & Eccles, J. C. (1992). "Quantum aspects of brain activity and the role of consciousness." *Proceedings of the National Academy of Sciences*, 89(23), 11357-11361.
 - Carroll, S. (2011). "Physics and the Immortality of the Soul." *Scientific American* (blog). https://www.preposterousuniverse.com/blog/2011/05/23/physics-and-the-immortality-of-the-soul/
 - Carroll, S. (2016). "Consciousness and Downward Causation." https://www.preposterousuniverse.com/blog/2016/09/08/consciousness-and-downward-causation/
-- Collins, R. "Modern Physics and the Energy Conservation Objection to Mind-Body Dualism." https://www.newdualism.org/papers/R.Collins/EC-PEC.htm
+- Collins, R. (2008). "Modern Physics and the Energy-Conservation Objection to Mind-Body Dualism." *American Philosophical Quarterly*, 45(1), 31-42. https://www.newdualism.org/papers/R.Collins/EC-PEC.htm
 - Cucu, A. C., & Pitts, J. B. (2019). "How Dualists Should (Not) Respond to the Objection from Energy Conservation." *arXiv:1909.13643*.
-- Georgiev, D. D. (2018). "Quantum interactive dualism: From Beck and Eccles tunneling model to molecular biology of SNARE zipping." *Biomedical Reviews*.
-- Pitts, J. B. (2022). "Conservation Laws and the Philosophy of Mind: Opening the Black Box, Finding a Mirror." *Philosophia*, 50, 1065-1083. https://pmc.ncbi.nlm.nih.gov/articles/PMC9038821/
+- Georgiev, D. D., & Glazebrook, J. F. (2014). "Quantum interactive dualism: From Beck and Eccles tunneling model of exocytosis to molecular biology of SNARE zipping." *Biomedical Reviews*, 25, 15-24.
+- Pitts, J. B. (2020). "Conservation Laws and the Philosophy of Mind: Opening the Black Box, Finding a Mirror." *Philosophia*, 48(2), 673-707. https://pmc.ncbi.nlm.nih.gov/articles/PMC9038821/
 - Stapp, H. P. (2007). "Quantum Interactive Dualism: An Alternative to Materialism." https://www-physics.lbl.gov/~stapp/QID.pdf
 - Stanford Encyclopedia of Philosophy. "Quantum Approaches to Consciousness." https://plato.stanford.edu/entries/qt-consciousness/

@@ -4,7 +4,7 @@ description: "From Princess Elisabeth's 1643 challenge through occasionalism, ex
 created: 2026-02-02
 modified: 2026-03-20
 human_modified:
-ai_modified: 2026-05-26T00:00:00+00:00
+ai_modified: 2026-05-27T20:50:24+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -183,6 +183,6 @@ A candid acknowledgment: one might object that "consciousness resolves quantum i
 1. Stapp, H. P. (2007). *Mindful Universe: Quantum Mechanics and the Participating Observer*. Springer.
 1. Hameroff, S. & Penrose, R. (2014). "Consciousness in the universe: A review of the 'Orch OR' theory." *Physics of Life Reviews* 11(1): 39–78.
 1. Cucu, A. C. & Pitts, J. B. (2019). "How Dualists Should (Not) Respond to the Objection from Energy Conservation." *arXiv:1909.13643*.
-1. Pitts, J. B. (2022). "Conservation Laws and the Philosophy of Mind." *Philosophia* 50: 1065–1083.
+1. Pitts, J. B. (2020). "Conservation Laws and the Philosophy of Mind: Opening the Black Box, Finding a Mirror." *Philosophia* 48(2): 673–707.
 1. Ebbersmeyer, S. & Hutton, S. (eds.) (2021). *Elisabeth of Bohemia (1618–1680): A Philosopher in her Historical Context*. Springer.
 1. Broad, C. D. (1925). *The Mind and Its Place in Nature*. Kegan Paul.

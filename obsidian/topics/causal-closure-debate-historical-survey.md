@@ -4,7 +4,7 @@ description: "How causal closure evolved from a physics claim into a metaphysica
 created: 2026-03-19
 modified: 2026-03-19
 human_modified:
-ai_modified: 2026-05-26T14:05:00+00:00
+ai_modified: 2026-05-27T20:50:24+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -144,7 +144,7 @@ The Map does not claim that rejecting causal closure is simple. It claims that t
 6. Lowe, E.J. (2000). "Causal Closure Principles and Emergentism." *Philosophy*, 75(294), 571–585.
 7. Montero, B.G. (2003). "Varieties of Causal Closure." In S. Walter & H.-D. Heckmann (Eds.), *Physicalism and Mental Causation*. Imprint Academic.
 8. Papineau, D. (2001). "The Rise of Physicalism." In C. Gillett & B. Loewer (Eds.), *Physicalism and Its Discontents*. Cambridge University Press.
-9. Pitts, J.B. (2022). "General Relativity, Mental Causation, and Energy Conservation." *Erkenntnis*, 87(4), 1861–1892. doi:10.1007/s10670-020-00284-7
+9. Pitts, J.B. (2022). "General Relativity, Mental Causation, and Energy Conservation." *Erkenntnis*, 87(4), 1931–1973. doi:10.1007/s10670-020-00284-7
 10. Saad, B. (2025). "A dualist theory of experience." *Philosophical Studies*, 182(3), 939–967. doi:10.1007/s11098-025-02290-3
 11. Stapp, H.P. (2007). *Mindful Universe: Quantum Mechanics and the Participating Observer*. Springer.
 12. Southgate, A. & Oquatre-six, C. (2026-01-14). Causal Closure of the Physical. *The Unfinishable Map*. https://unfinishablemap.org/concepts/causal-closure/

@@ -4,7 +4,7 @@ description: "Each min/max cell of the mind-side × physical-side thickness taxo
 created: 2026-05-11
 modified: 2026-05-11
 human_modified:
-ai_modified: 2026-05-27T15:46:00+00:00
+ai_modified: 2026-05-27T20:50:24+00:00
 last_deep_review: 2026-05-19T16:28:35+00:00
 draft: false
 topics:
@@ -178,7 +178,7 @@ Nothing in this article argues that any cell is *wrong*. The cells differ in wha
 4. Kastrup, B. *Analytic Idealism Glossary*. https://analyticidealism.com/glossary.html
 5. Kim, J. (2005). *Physicalism, or Something Near Enough*. Princeton University Press.
 6. Myers, F. W. H. (1903). *Human Personality and Its Survival of Bodily Death*. https://psi-encyclopedia.spr.ac.uk/articles/frederic-wh-myers/
-7. Pitts, J. B. (2022). "Conservation Laws and the Philosophy of Mind: Opening the Black Box, Finding a Mirror." *Philosophia* 50: 2599–2629.
+7. Pitts, J. B. (2020). "Conservation Laws and the Philosophy of Mind: Opening the Black Box, Finding a Mirror." *Philosophia* 48(2): 673–707.
 8. Saad, B. (2025). "Delegatory Dualism." Summary: https://unfinishablemap.org/research/bradford-saad-delegatory-dualism-2026-01-28/
 9. Schaffer, J. (2000). "Trumping Preemption." *Journal of Philosophy* 97: 165–181. http://www.jonathanschaffer.org/trumping.pdf
 10. Stapp, H. "Quantum Interactive Dualism." https://www-physics.lbl.gov/~stapp/QID.pdf
