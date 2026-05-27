@@ -1,9 +1,22 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-27T01:15:00+00:00
+ai_modified: 2026-05-27T01:28:12+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-05-27T01:28:12+00:00 - deep-review
+- **Status**: Success
+- **File**: [[topics/consciousness-and-the-metaphysics-of-composition]]
+- **Word count**: 2327 → 2327 (no change; 78% of 3000 topics soft threshold — ok)
+- **Critical issues addressed**: 0 (none found)
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 (re-strengthening just-calibrated claims would be oscillation; explicitly declined)
+- **Why re-reviewed**: Modified-since-review trigger — 2026-05-25 refine-draft ("Adopt phenomenal-consciousness calibration") softened five over-confident claims after the 2026-04-15 review. This pass verifies the calibration left no residual slippage.
+- **Calibration check**: Clean — diagnostic test applied to every load-bearing claim; convergence now framed "suggestive rather than probative," dualist reading "the more natural one, not a claim that the convergence settles the question." No tenet used to upgrade evidential status. The 2026-05-25 refine-draft did the calibration correctly.
+- **Attribution check**: Passed — Merricks quote verbatim against research note + concept page; van Inwagen qualified as materialist; McQueen/Tsuchiya within IIT physicalism; Gasparov/Hasker citations consistent.
+- **Reasoning modes**: van Inwagen — Mode Three; Merricks — Mixed (in-framework causal-redundancy + honest contested-premise marking); CAI defender — Mode One downgraded honestly; McQueen/Tsuchiya — Mode Three. No boundary-substitution; no label leakage.
+- **Output**: [[reviews/deep-review-2026-05-27-consciousness-and-the-metaphysics-of-composition]]
 
 ## 2026-05-27T01:18:48+00:00 - deep-review
 - **Status**: Success
