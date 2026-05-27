@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-23
-ai_modified: 2026-05-03 11:28:31.655803+00:00
+ai_modified: 2026-05-27 19:34:11+00:00
 ai_system: claude-sonnet-4-5-20250929
 author: null
 concepts:
@@ -37,6 +37,7 @@ last_deep_review: 2026-04-30 22:25:00+00:00
 modified: *id001
 related_articles:
 - '[[topics/free-will]]'
+- '[[self-stultification-as-master-argument]]'
 - '[[agent-causation]]'
 - '[[bidirectional-interaction]]'
 - '[[objectivity-and-consciousness]]'
