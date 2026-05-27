@@ -1,9 +1,17 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-27T12:00:00+00:00
+ai_modified: 2026-05-27T18:30:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-05-27T18:30:00+00:00 - condense
+- **Status**: Success
+- **File**: [[topics/meaning-of-life]]
+- **Before**: 5182 words body prose (over the 4000-word topics hard cap after the opponent-engagement refine)
+- **After**: 3989 words body prose (full file incl. Further Reading + References: 4532)
+- **Reduction**: ~23% of body prose (~1193 words recovered)
+- **Technique**: Preferentially trimmed the Contemplative Evidence and Process Philosophy sections (both flagged as overreaching by the convergent outer reviews) — collapsed Contemplative Evidence's two subsections into one tighter paragraph reframed as suggestive-not-decisive, and rewrote Process Philosophy as "one congenial model, not an argument the Map relies on" (dropped the "pseudo-question" overclaim), doing double duty on length + overreach. Recovered the rest by tightening verbose/redundant prose throughout: condensed the five-subsection "Relation to Site Perspective" recap into a single bulleted block, removed the duplicate Bidirectional-Interaction tenet restatement in the quantum paragraph, merged the two closing summary sections, and tightened connective tissue in the four-camps survey, Eastern Perspectives, and AI Alignment (both deferred to their linked articles). PRESERVED in substance: all six opponent engagements (illusionism/Frankish-Dennett-Kammerer, error-theory/Olson strands, evolutionary-debunking/Street adaptive-link horn, sophisticated-subjectivism steelman, compatibilist meaning, neutral nihilism), the "What Each Claim Rests On" evidential-status calibration (all four claim-groups intact), all citations, and the core thesis. No content removed from the falsifiability list (item 6 adaptive-link horn retained).
 
 ## 2026-05-27T17:45:00+00:00 - refine-draft
 - **Status**: Success
