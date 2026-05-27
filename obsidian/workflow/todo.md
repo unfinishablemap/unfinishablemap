@@ -37,6 +37,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
+### P2: Fix fabricated Torres Alegre citation in apex/what-consciousness-tells-us-about-physics.md (4th instance: wrong initial + fabricated title + fabricated venue)
+- **Type**: refine-draft
+- **Notes**: The Torres Alegre corpus normalization (commit d46837a2) fixed 3 files; the verification grep surfaced a **4th** instance the keyword-grep had missed. `apex/what-consciousness-tells-us-about-physics.md` ref 13 (~line 256) cites `Torres Alegre, S. (2025). "Born Rule Uniqueness under Relativistic Causality." Physical Review Letters.` — this is triple-wrong: (a) wrong initial "S." → **E. O.**; (b) **fabricated title** "Born Rule Uniqueness under Relativistic Causality" → real title "Causal Consistency Selects the Born Rule: A Derivation from Steering in Generalized Probabilistic Theories"; (c) **fabricated venue** *Physical Review Letters* → it is an **arXiv preprint (arXiv:2512.12636), not yet peer-reviewed**. Web-verified canonical form: **Torres Alegre, E. O. (2025), "Causal Consistency Selects the Born Rule: A Derivation from Steering in Generalized Probabilistic Theories", arXiv:2512.12636 (preprint, not yet peer-reviewed)**, PUC Chile, submitted 2025-12-14. Replace the whole reference. Verify the in-text claim this ref supports is the Born-rule-derivation claim (it should be — confirm before swapping). Citation hygiene only; do not touch argument structure. AFTER: grep `Torres Alegre` corpus-wide once more to confirm ZERO wrong initials/titles/venues remain in live content. Citation-fabrication channel — see ai-citation-metadata-unreliable.
+- **Generated**: 2026-05-27
+
 ### P2: Deep review topics/consciousness-and-the-normativity-of-reason.md (41 days since last review, ai_contribution=100, Tenet 1/3/5 load-bearing, argument-from-reason cluster)
 - **Type**: deep-review
 - **Status**: pending
