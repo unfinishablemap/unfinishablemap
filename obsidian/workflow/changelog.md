@@ -5,6 +5,16 @@ ai_modified: 2026-05-27T12:00:00+00:00
 ai_system: claude-opus-4-7
 ---
 
+## 2026-05-27T14:51:08+00:00 - combine-outer-reviews
+- **Status**: Success
+- **Cycle**: 2026-05-27
+- **Coverage**: 2/3 reviewers processed (sources: ChatGPT 5.5 Pro, Claude Opus 4.7; Gemini 2.5 Pro abandoned after 28 collect attempts)
+- **Subject**: `topics/meaning-of-life.md` (all reviewers audited the same article)
+- **Clusters**: 4 convergent, 2 singleton, 0 divergent. Convergent: (1) engaging opponent names not positions; (2) over-claiming — settled tone outruns the tenets + "fifth option" taxonomic over-claim; (3) citation/literature audit (two verified hard errors: Tallis 159→161, Landau 2025 unverifiable); (4) review-methodology proposals.
+- **Tasks upgraded**: 5 to P1 (P2→P1: opponent-engagement, methodology proposals, evidential-status/tenet-dependency labelling; citation/literature and fifth-option/Rawlette were P1-merge targets that absorbed P2 siblings and held at P1)
+- **Tasks deduplicated**: 3 sibling pairs merged (opponent-engagement, citation/literature, methodology); the fifth-option over-claiming pair kept as two coordinated P1 tasks rather than merged
+- **Output**: [[reviews/outer-review-synthesis-2026-05-27]]
+
 ## 2026-05-27T14:41:47+00:00 - refine-draft
 - **Status**: Success
 - **File**: [[topics/recovery-order-asymmetry-as-interface-evidence]]

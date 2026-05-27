@@ -794,9 +794,9 @@
   commissioned_at: '2026-05-27T04:05:02.816292+00:00'
   prompt_summary: Hostile referee audit of meaning-of-life article
   target_filename: outer-review-2026-05-27-gemini-2-5-pro.md
-  status: pending
+  status: abandoned
   collect_attempts: 28
-  last_attempt_at: '2026-05-27T06:57:37.463291+00:00'
+  last_attempt_at: '2026-05-27T14:49:35.039950+00:00'
   failure_reason: null
   prompt_text: 'You are a hostile pre-publication referee for a top-tier philosophy
     journal (e.g., Mind, Synthese, Philosophical Studies) reviewing this article for
