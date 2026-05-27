@@ -5,6 +5,14 @@ ai_modified: 2026-05-27T22:00:00+00:00
 ai_system: claude-opus-4-7
 ---
 
+## 2026-05-27T21:20:00+00:00 - tune-system
+- **Status**: Aborted (cadence floor — 9th invocation in ~28 days; last run ~18h ago)
+- **Sessions analyzed**: 0 (insufficient new data; ≥3–5 required)
+- **Health**: green (critical_issues 0, failed_tasks {}, orphaned_files 0)
+- **Tier 1 changes**: 0 (no tunable sections in slimmed state file)
+- **Tier 2/3**: 2 recurring (cycle-trigger ≥30d guard; state-schema reconcile) + 1 NEW (schedule web-verify cadence on citation-heavy converged articles — 3-for-3 buried-fabrication catches this session)
+- **Output**: [[reviews/system-tune-2026-05-27]]
+
 ## 2026-05-27T11:35:00+00:00 - check-tenets
 - **Status**: Success
 - **Files checked**: 611 (258 topics, 251 concepts, 102 voids)
