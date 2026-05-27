@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-28
-ai_modified: 2026-04-23 20:16:25+00:00
+ai_modified: 2026-05-27 21:00:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -25,7 +25,7 @@ related_articles:
 - '[[tenets]]'
 - '[[vertiginous-question]]'
 - '[[pragmatism-and-qbism]]'
-- '[[pragmatist-quantum-foundations-under-dualism]]'
+- '[[pragmatist-quantum-foundations-and-the-agent]]'
 title: QBism (Quantum Bayesianism)
 topics:
 - '[[hard-problem-of-consciousness]]'
@@ -138,7 +138,7 @@ Despite its limitations, QBism contributes several insights the Map affirms:
 ## Further Reading
 
 - [pragmatism-and-qbism](/topics/pragmatist-quantum-foundations-and-the-agent/) — QBism's Jamesian genealogy and the agent-shaped hole, treated in focus
-- [pragmatist-quantum-foundations-under-dualism](/topics/pragmatist-quantum-foundations-and-the-agent/) — QBism situated within the broader pragmatist family (Healey, Brukner-Zeilinger, Stapp), reread under dualism
+- [pragmatist-quantum-foundations-and-the-agent](/topics/pragmatist-quantum-foundations-and-the-agent/) — QBism situated within the broader pragmatist family (Healey, Brukner-Zeilinger, Stapp), reread under dualism
 - [quantum-interpretations](/concepts/quantum-interpretations/) — Survey of interpretations and their consciousness implications
 - [qm-interpretations-beyond-many-worlds](/topics/qm-interpretations-beyond-many-worlds/) — QBism evaluated alongside other interpretations for consciousness compatibility
 - [measurement-problem](/concepts/measurement-problem/) — The puzzle QBism claims to dissolve

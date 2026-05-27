@@ -36,7 +36,7 @@ related_articles:
 - '[[quantum-measurement-and-subjective-probability]]'
 - '[[indexical-identity-quantum-measurement]]'
 - '[[what-consciousness-tells-us-about-physics]]'
-- '[[pragmatist-quantum-foundations-under-dualism]]'
+- '[[pragmatist-quantum-foundations-and-the-agent]]'
 title: Quantum Interpretations Beyond Many-Worlds
 topics:
 - '[[hard-problem-of-consciousness]]'
@@ -55,7 +55,7 @@ The original Copenhagen interpretation treats the wave function as a calculation
 
 This ambiguity is both Copenhagen's weakness and its philosophical opening. By leaving the [measurement problem](/concepts/measurement-problem/) unsolved, Copenhagen creates logical space for consciousness-based accounts. Von Neumann's chain analysis showed that the quantum-classical boundary can be pushed arbitrarily far toward the observer, and Wigner later suggested consciousness itself might be the collapse trigger—see [von-neumann-wigner-interpretation](/concepts/von-neumann-wigner-interpretation/) for the foundational account. The Map argues that [the measurement problem and the hard problem share identical logical structure](/topics/quantum-measurement-and-consciousness/)—both involve a complete third-person description that fails to determine a first-person fact—and Copenhagen's unresolved measurement concept is precisely where this structural parallel becomes visible.
 
-Copenhagen's instrumentalism, however, conflicts with the Map's realist commitments. Treating quantum states as mere bookkeeping devices sidesteps the question the Map cares most about: what is actually happening when a measurement occurs, and what role does the observer's experience play in determining outcomes? Stapp's Copenhagen pragmatism recovers a realist reading compatible with the Map—see [pragmatist-quantum-foundations-under-dualism](/topics/pragmatist-quantum-foundations-and-the-agent/) for how Stapp's quantum Zeno mechanism extends Copenhagen while preserving conscious causal role.
+Copenhagen's instrumentalism, however, conflicts with the Map's realist commitments. Treating quantum states as mere bookkeeping devices sidesteps the question the Map cares most about: what is actually happening when a measurement occurs, and what role does the observer's experience play in determining outcomes? Stapp's Copenhagen pragmatism recovers a realist reading compatible with the Map—see [pragmatist-quantum-foundations-and-the-agent](/topics/pragmatist-quantum-foundations-and-the-agent/) for how Stapp's quantum Zeno mechanism extends Copenhagen while preserving conscious causal role.
 
 ## Bohmian Mechanics: Determinism Without Collapse
 
@@ -152,7 +152,7 @@ No interpretation is proven. The Map does not claim to know which is correct. Wh
 - [The Many-Worlds Interpretation](/concepts/many-worlds/) — Why the Map rejects MWI
 - [probability-problem-in-many-worlds](/topics/probability-problem-in-many-worlds/) — Why MWI cannot recover the Born rule
 - [QBism (Quantum Bayesianism)](/concepts/qbism/)
-- [pragmatist-quantum-foundations-under-dualism](/topics/pragmatist-quantum-foundations-and-the-agent/) — How QBism, Healey, Brukner-Zeilinger, and Stapp look once dualism is accepted
+- [pragmatist-quantum-foundations-and-the-agent](/topics/pragmatist-quantum-foundations-and-the-agent/) — How QBism, Healey, Brukner-Zeilinger, and Stapp look once dualism is accepted
 - [The Philosophical Stakes of Spontaneous Collapse](/topics/philosophical-stakes-of-spontaneous-collapse/)
 - [The Measurement Problem as Philosophical Problem](/topics/quantum-measurement-and-consciousness/)
 - [quantum-measurement-and-subjective-probability](/topics/quantum-measurement-and-subjective-probability/) — Why subjective probability interpretations fail phenomenologically

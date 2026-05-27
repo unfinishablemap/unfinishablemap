@@ -33,7 +33,7 @@ related_articles:
 - '[[mind-brain-separation]]'
 - '[[mathematical-structure-of-the-consciousness-physics-interface]]'
 - '[[amplification-mechanisms-consciousness-physics]]'
-- '[[pragmatist-quantum-foundations-under-dualism]]'
+- '[[pragmatist-quantum-foundations-and-the-agent]]'
 title: 'The Mind-Matter Interface: Unifying Filter Theory and Quantum Selection'
 topics:
 - '[[hard-problem-of-consciousness]]'
@@ -206,7 +206,7 @@ This unified model is the Map's most complete answer to how consciousness relate
 - [many-worlds](/concepts/many-worlds/) — Why the Map rejects MWI
 - [mathematical-structure-of-the-consciousness-physics-interface](/topics/mathematical-structure-of-the-consciousness-physics-interface/) — The mathematical corridor constraining consciousness-physics interaction
 - [psychophysical-laws](/concepts/psychophysical-laws/) — What selection laws must specify and candidate formulations
-- [pragmatist-quantum-foundations-under-dualism](/topics/pragmatist-quantum-foundations-and-the-agent/) — Why QBism, Healey, Brukner-Zeilinger, and Stapp converge on agent-centrality at measurement
+- [pragmatist-quantum-foundations-and-the-agent](/topics/pragmatist-quantum-foundations-and-the-agent/) — Why QBism, Healey, Brukner-Zeilinger, and Stapp converge on agent-centrality at measurement
 
 ## References
 
