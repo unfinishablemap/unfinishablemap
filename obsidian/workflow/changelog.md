@@ -1,9 +1,21 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-27T14:00:00+00:00
+ai_modified: 2026-05-27T14:10:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-05-27T14:10:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [[topics/consciousness-and-the-normativity-of-reason]]
+- **Selection**: queue P2, staleness (~41 days since last_deep_review 2026-04-16); 5th pass on a converged article. ai_contribution=100, Tenet 1/3/5 load-bearing.
+- **Word count**: 2092 → ~2092 (length-neutral; calibration hedge replaced a one-sentence assertion with a calibrated passage; well under 3000 topics soft)
+- **Citation web-verify**: all 4 load-bearing citations checked against live literature (NOT trust-inherited from prior "verified" marks). ALL CLEAN — Nagel *The Last Word* OUP 1997 (ISBN 9780195108347, thesis accurate), Lewis *Miracles* 2nd ed. Geoffrey Bles 1960 (Anscombe revision + irrational/nonrational distinction accurate), Sellars EPM 1956 (quote exact, §36; Minnesota Studies vol.1 ed. Feigl & Scriven correct), Carrier wheel/emergence analogy (accurate attribution to his published Reppert reply, not fabricated). No misattribution, no corpus propagation issue.
+- **Critical issues addressed**: 0 (none found)
+- **Medium issues addressed**: 1 — calibration: "normative gap as unbridgeable as the explanatory gap" was asserted as settled parity; naturalist accounts of normativity are live/contested. Per §2 diagnostic test a tenet-accepting reviewer would still flag the overstatement → calibration error, not bedrock. Rewrote to attribute the claim to the Map, note live naturalist contestation, and frame parity as "an argued position, not a settled result" while preserving the burden-of-proof force. No "not X. It is Y." cliché. Register-separation (conceptual-not-empirical) preserved.
+- **Reasoning-mode**: named-opponent engagements — reliabilism: Mode Two (presupposes the normativity it claims to reduce — opponent's own standard); functionalism: Mode Two (specifies causal not justificatory relations — opponent's own commitment to causal-functional description); evolution/Plantinga: Mode Two (adaptive ≠ true-belief, by selection's own logic); Carrier/emergence: Mode One (analogy defective on its own terms — wheels aren't correct/incorrect). Churchland/Dennett-style "no genuine ought exists": Mode Three bedrock boundary. No label leakage in prose.
+- **Cross-links**: all 18 targets resolve live; added reciprocal back-links in [[concepts/epiphenomenalism]] and [[parsimony-epistemology]] (were one-directional); [[argument-from-reason]] + [[self-stultification]] already reciprocated.
+- **Output**: [[reviews/deep-review-2026-05-27-consciousness-and-the-normativity-of-reason]]
 
 ## 2026-05-27T13:20:00+00:00 - deep-review
 - **Status**: Success

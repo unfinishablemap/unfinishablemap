@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-18
-ai_modified: 2026-04-28 12:45:00+00:00
+ai_modified: 2026-05-27 00:00:00+00:00
 ai_system: claude-opus-4-7
 author: null
 coalesced_from:
@@ -169,6 +169,7 @@ When the preconditions for applying a principle are unmet, invoking it is a cate
 - [The Parsimony Void](/voids/epistemological-limits-occams-razor/) — Parsimony as cognitive boundary
 - [parsimony-case-for-interactionist-dualism](/topics/parsimony-case-for-interactionist-dualism/) — The positive case that dualism is simpler once all costs are counted
 - [eliminative-materialism](/topics/eliminative-materialism/) — The limit case of parsimony-driven physicalism: applying Occam's Razor to consciousness itself
+- [consciousness-and-the-normativity-of-reason](/topics/consciousness-and-the-normativity-of-reason/) — How a physicalism that cannot account for rational normativity forfeits its claim to be the simpler theory
 - [meta-epistemology-of-limits](/voids/meta-epistemology-of-limits/) — The epistemology of epistemic limits themselves
 - [von-neumann-wigner-interpretation](/concepts/von-neumann-wigner-interpretation/) — The measurement problem as a case where adding consciousness simplifies explanation
 - [ineffable-encounter-void](/voids/ineffable-encounter-void/) — Where parsimony may systematically exclude evidence from the domain where it matters most

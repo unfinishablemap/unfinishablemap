@@ -4,7 +4,7 @@ description: "Reasoning is normative — it involves rules about what one ought 
 created: 2026-04-07
 modified: 2026-04-07
 human_modified:
-ai_modified: 2026-04-16T15:44:00+00:00
+ai_modified: 2026-05-27T00:00:00+00:00
 draft: false
 topics:
   - "[[argument-from-reason]]"
@@ -35,7 +35,7 @@ author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-04-07
 last_curated:
-last_deep_review: 2026-04-16T15:44:00+00:00
+last_deep_review: 2026-05-27T00:00:00+00:00
 ---
 
 Reasoning is normative. When you infer a conclusion from premises, you are not merely undergoing a causal process — you are following rules that prescribe what you *ought* to believe. The conclusion of a valid argument with true premises is not just what you *will* believe but what you *should* believe. Physical processes, by contrast, simply happen. Neurons fire or do not fire; they are never correct or incorrect. The Unfinishable Map argues that this gap between the causal order and the normative order — between what *is* and what *ought to be believed* — requires conscious minds. Without phenomenal awareness, there is nothing it is like to grasp a logical relation, and without grasping, there is no following of rules, only causal regularity masquerading as reason.
@@ -104,7 +104,7 @@ This parallel is not coincidental. If [[cognitive-phenomenology-and-the-irreduci
 
 The normativity of reason connects directly to the Map's [[tenets]].
 
-**Dualism.** If rational normativity requires consciousness, and consciousness is irreducible to physical processes, then the normative dimension of reasoning provides an independent argument for dualism — distinct from but reinforcing the arguments from qualia and the [[argument-from-reason|self-defeat of physicalism]]. Physical description captures what happens; it cannot capture what *ought* to happen. The normative gap is as unbridgeable as the explanatory gap.
+**Dualism.** If rational normativity requires consciousness, and consciousness is irreducible to physical processes, then the normative dimension of reasoning provides an independent argument for dualism — distinct from but reinforcing the arguments from qualia and the [[argument-from-reason|self-defeat of physicalism]]. Physical description captures what happens; the Map holds it cannot capture what *ought* to happen. Naturalists contest this — reliabilist, teleosemantic, and pragmatist accounts each aim to ground normativity in non-normative facts, and the debate is live rather than closed. The Map's claim is that the normative gap proves as resistant to physical closure as the explanatory gap: the same move that fails to reduce phenomenal character — explaining the structure while leaving out the *what-it-is-like* — fails to reduce normative force, leaving out the *what-one-ought*. That parity is an argued position, not a settled result, but the burden it places on the naturalist is, the Map contends, the same burden in both cases.
 
 **Bidirectional interaction.** If consciousness is required for genuine reasoning, and reasoning causally influences our behaviour — we act on our conclusions, speak our beliefs, revise our plans — then consciousness has causal efficacy. The [[self-stultification|self-stultification argument]] makes this vivid: if consciousness were [[concepts/epiphenomenalism|epiphenomenal]], our reports about reasoning would be causally disconnected from our actual rational processes, making them accidentally correct at best.
 

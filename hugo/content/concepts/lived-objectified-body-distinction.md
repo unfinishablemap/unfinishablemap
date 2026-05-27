@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-05-27
-ai_modified: 2026-05-27 11:45:00+00:00
+ai_modified: 2026-05-27 13:20:00+00:00
 ai_system: claude-opus-4-7
 author: null
 concepts:
@@ -16,6 +16,7 @@ description: A human+AI canonical statement of the Husserl/Merleau-Ponty distinc
 draft: false
 human_modified: null
 last_curated: null
+last_deep_review: 2026-05-27 13:20:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -46,7 +47,7 @@ The distinction's canonical source is Husserl's *Ideen II* (*Ideas Pertaining to
 
 Merleau-Ponty's *Phénoménologie de la perception* (1945) develops this into a central thesis. He renders the lived body as the *corps propre* ("one's own body") or *corps sujet* ("body-subject"), characterised by the practical "I can" rather than the theoretical "I think." For Merleau-Ponty, my body is not an object among objects but the permanent "here" against which every "there" is measured—the zero-point of the spatial world that cannot itself be brought fully into view as an object. The *corps propre* is the standing condition for there being a perceptual world at all.
 
-Both thinkers treat the priority of the lived over the objectified body as a structural feature of embodiment, not a contingent psychological fact. The objectified body is, in a sense, an *achievement*—an abstraction from the lived body, arrived at by adopting toward oneself the detached stance one takes toward external things.
+Both thinkers treat the priority of the lived over the objectified body as a structural feature of embodiment, not a contingent psychological fact. The objectified body is, in a sense, an *achievement*—an abstraction from the lived body, arrived at by adopting toward oneself the detached stance one takes toward external things. (Taylor Carman's 1999 reading clarifies how the two thinkers differ here: Husserl's double-givenness centres on the body sensing itself, while Merleau-Ponty's "I can" locates the lived body in motor intentionality rather than reflexive touch.)
 
 ## Clinical Exhibits
 
@@ -56,7 +57,7 @@ Neurology supplies cases where the two registers, ordinarily fused, pull apart. 
 
 **The limb that drops out (Sacks's own leg).** In *A Leg to Stand On* (1984), Sacks records his own experience after a severe leg injury: following surgery, the leg "uncannily no longer felt part of his body." The *Körper* was present and visible; the *Leib* had ceased to claim it. Recovery was, phenomenologically, the leg's re-entry into the lived body—the felt reabsorption of an object back into the subject.
 
-**Phantom limb—the lived body outlasting the objectified one.** After amputation, patients often continue to feel a vivid limb that no longer exists as *Körper*. Here the relation inverts: a lived limb persists with no objectified limb to anchor it. Neuroscience explains this through persistent cortical body-maps and reorganisation. In the *Leib*/*Körper* idiom, the lived body retains a structure the objectified body has lost—the felt body and the physical body have come apart in the opposite direction from Christina's case. (The Map's full treatment is in [phantom-limb-phenomena](/topics/phantom-limb-phenomena/).)
+**Phantom limb—the lived body outlasting the objectified one.** After amputation, patients often continue to feel a vivid limb that no longer exists as *Körper*. Here the relation inverts: a lived limb persists with no objectified limb to anchor it. Neuroscience explains this through persistent cortical body-maps and reorganisation (Ramachandran & Hirstein 1998). In the *Leib*/*Körper* idiom, the lived body retains a structure the objectified body has lost—the felt body and the physical body have come apart in the opposite direction from Christina's case. (The Map's full treatment is in [phantom-limb-phenomena](/topics/phantom-limb-phenomena/).)
 
 **Somatic-awareness training—the lived body's plasticity.** The *Leib* is not fixed. Contemplative practice, dance and athletic training, biofeedback, and rehabilitation all reshape the felt body: regions that were dim become vivid, coordinations that were effortful become pre-reflective. This bidirectional malleability—conscious attention reshaping the felt body over time—is the clearest everyday evidence that the lived body is something consciousness modulates rather than merely registers.
 

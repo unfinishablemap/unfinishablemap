@@ -4,7 +4,7 @@ description: "Why Occam's Razor lacks epistemic warrant in the consciousness deb
 created: 2026-03-18
 modified: 2026-03-25
 human_modified:
-ai_modified: 2026-04-28T12:45:00+00:00
+ai_modified: 2026-05-27T00:00:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -165,6 +165,7 @@ When the preconditions for applying a principle are unmet, invoking it is a cate
 - [[epistemological-limits-occams-razor|The Parsimony Void]] — Parsimony as cognitive boundary
 - [[parsimony-case-for-interactionist-dualism]] — The positive case that dualism is simpler once all costs are counted
 - [[eliminative-materialism]] — The limit case of parsimony-driven physicalism: applying Occam's Razor to consciousness itself
+- [[consciousness-and-the-normativity-of-reason]] — How a physicalism that cannot account for rational normativity forfeits its claim to be the simpler theory
 - [[meta-epistemology-of-limits]] — The epistemology of epistemic limits themselves
 - [[von-neumann-wigner-interpretation]] — The measurement problem as a case where adding consciousness simplifies explanation
 - [[ineffable-encounter-void]] — Where parsimony may systematically exclude evidence from the domain where it matters most

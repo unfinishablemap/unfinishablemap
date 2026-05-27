@@ -1,13 +1,44 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-27 14:00:00+00:00
+ai_modified: 2026-05-27 14:10:00+00:00
 ai_system: claude-opus-4-7
 concepts: []
 date: '2026-05-27'
 related_articles: []
 title: Changelog
 ---
+
+## 2026-05-27T14:10:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [consciousness-and-the-normativity-of-reason](/topics/consciousness-and-the-normativity-of-reason/)
+- **Selection**: queue P2, staleness (~41 days since last_deep_review 2026-04-16); 5th pass on a converged article. ai_contribution=100, Tenet 1/3/5 load-bearing.
+- **Word count**: 2092 → ~2092 (length-neutral; calibration hedge replaced a one-sentence assertion with a calibrated passage; well under 3000 topics soft)
+- **Citation web-verify**: all 4 load-bearing citations checked against live literature (NOT trust-inherited from prior "verified" marks). ALL CLEAN — Nagel *The Last Word* OUP 1997 (ISBN 9780195108347, thesis accurate), Lewis *Miracles* 2nd ed. Geoffrey Bles 1960 (Anscombe revision + irrational/nonrational distinction accurate), Sellars EPM 1956 (quote exact, §36; Minnesota Studies vol.1 ed. Feigl & Scriven correct), Carrier wheel/emergence analogy (accurate attribution to his published Reppert reply, not fabricated). No misattribution, no corpus propagation issue.
+- **Critical issues addressed**: 0 (none found)
+- **Medium issues addressed**: 1 — calibration: "normative gap as unbridgeable as the explanatory gap" was asserted as settled parity; naturalist accounts of normativity are live/contested. Per §2 diagnostic test a tenet-accepting reviewer would still flag the overstatement → calibration error, not bedrock. Rewrote to attribute the claim to the Map, note live naturalist contestation, and frame parity as "an argued position, not a settled result" while preserving the burden-of-proof force. No "not X. It is Y." cliché. Register-separation (conceptual-not-empirical) preserved.
+- **Reasoning-mode**: named-opponent engagements — reliabilism: Mode Two (presupposes the normativity it claims to reduce — opponent's own standard); functionalism: Mode Two (specifies causal not justificatory relations — opponent's own commitment to causal-functional description); evolution/Plantinga: Mode Two (adaptive ≠ true-belief, by selection's own logic); Carrier/emergence: Mode One (analogy defective on its own terms — wheels aren't correct/incorrect). Churchland/Dennett-style "no genuine ought exists": Mode Three bedrock boundary. No label leakage in prose.
+- **Cross-links**: all 18 targets resolve live; added reciprocal back-links in [epiphenomenalism](/concepts/epiphenomenalism/) and [parsimony-epistemology](/concepts/parsimony-epistemology/) (were one-directional); [argument-from-reason](/topics/argument-from-reason/) + [self-stultification](/concepts/self-stultification/) already reciprocated.
+- **Output**: [deep-review-2026-05-27-consciousness-and-the-normativity-of-reason](/reviews/deep-review-2026-05-27-consciousness-and-the-normativity-of-reason/)
+
+## 2026-05-27T13:20:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [lived-objectified-body-distinction](/concepts/lived-objectified-body-distinction/)
+- **Selection**: top staleness candidate (score 100, never reviewed, created 2026-05-27). No convergence concern — first review.
+- **Word count**: 1854 → 1898 (+44)
+- **Citation web-verify**: all 6 source/body citations checked against live literature (not intra-corpus marks). ALL CLEAN — Carman 1999 *Philosophical Topics* 27(2):205–226 (PDC), Ramachandran & Hirstein 1998 *Brain* 121(9):1603–1630 (OUP/PubMed PMID 9762952), Merleau-Ponty/Landes Routledge 2012, Husserl *Ideen II* Kluwer 1989, Sacks *A Leg to Stand On* Duckworth 1984, Sacks *The Disembodied Lady* 1985. No fabrication/misattribution. Propagation grep: R&H 1998 metadata consistent corpus-wide (incl research/), nothing to fix.
+- **Critical issues addressed**: 0 (none found — calibration check clean: dualist reading explicitly marked "not established by the phenomenology alone," no possibility/probability slippage)
+- **Medium issues addressed**: 1 (anchored 2 bibliography-only refs — Carman 1999, Ramachandran & Hirstein 1998 — in-text)
+- **Enhancements made**: 2 in-text citation anchors
+- **Reasoning-mode**: no named-opponent refutations; frameworks (enactivism, functionalism) named only to concede accommodation — honest Mode Three boundary-marking in natural prose, no label leakage
+- **Output**: [deep-review-2026-05-27-lived-objectified-body-distinction](/reviews/deep-review-2026-05-27-lived-objectified-body-distinction/)
+
+## 2026-05-27T00:00:00+00:00 - refine-draft
+- **Status**: Success
+- **File**: [what-consciousness-tells-us-about-physics](/apex/what-consciousness-tells-us-about-physics/)
+- **Changes**: Fixed triple-wrong Torres Alegre citation (ref 13) — the 4th instance the keyword-grep missed during the commit d46837a2 corpus normalization. Replaced fabricated form `Torres Alegre, S. (2025). "Born Rule Uniqueness under Relativistic Causality." Physical Review Letters.` with web-verified canonical `Torres Alegre, E. O. (2025). "Causal Consistency Selects the Born Rule: A Derivation from Steering in Generalized Probabilistic Theories." arXiv:2512.12636 [quant-ph] (preprint, not yet peer-reviewed).` Corrected wrong initial (S. → E. O.), fabricated title, and fabricated venue (PRL → arXiv preprint). Verified the in-text claim at line 141 (Torres Alegre's relativistic-causality Born-rule derivation) matches the canonical paper before swapping.
+- **Verification**: Corpus-wide grep confirms ZERO wrong initials/titles/venues remain in live content (topics/concepts/apex/voids/research). Citation hygiene only; argument structure untouched.
+- **Published**: yes
 
 ## 2026-05-27T20:12:44+00:00 - refine-draft
 - **Status**: Success

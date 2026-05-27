@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-04-07
-ai_modified: 2026-04-16 15:44:00+00:00
+ai_modified: 2026-05-27 00:00:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -22,7 +22,7 @@ description: Reasoning is normative — it involves rules about what one ought t
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-04-16 15:44:00+00:00
+last_deep_review: 2026-05-27 00:00:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -106,7 +106,7 @@ This parallel is not coincidental. If [cognitive phenomenology](/topics/cognitiv
 
 The normativity of reason connects directly to the Map's [tenets](/tenets/).
 
-**Dualism.** If rational normativity requires consciousness, and consciousness is irreducible to physical processes, then the normative dimension of reasoning provides an independent argument for dualism — distinct from but reinforcing the arguments from qualia and the [self-defeat of physicalism](/topics/argument-from-reason/). Physical description captures what happens; it cannot capture what *ought* to happen. The normative gap is as unbridgeable as the explanatory gap.
+**Dualism.** If rational normativity requires consciousness, and consciousness is irreducible to physical processes, then the normative dimension of reasoning provides an independent argument for dualism — distinct from but reinforcing the arguments from qualia and the [self-defeat of physicalism](/topics/argument-from-reason/). Physical description captures what happens; the Map holds it cannot capture what *ought* to happen. Naturalists contest this — reliabilist, teleosemantic, and pragmatist accounts each aim to ground normativity in non-normative facts, and the debate is live rather than closed. The Map's claim is that the normative gap proves as resistant to physical closure as the explanatory gap: the same move that fails to reduce phenomenal character — explaining the structure while leaving out the *what-it-is-like* — fails to reduce normative force, leaving out the *what-one-ought*. That parity is an argued position, not a settled result, but the burden it places on the naturalist is, the Map contends, the same burden in both cases.
 
 **Bidirectional interaction.** If consciousness is required for genuine reasoning, and reasoning causally influences our behaviour — we act on our conclusions, speak our beliefs, revise our plans — then consciousness has causal efficacy. The [self-stultification argument](/concepts/self-stultification/) makes this vivid: if consciousness were [epiphenomenal](/concepts/epiphenomenalism/), our reports about reasoning would be causally disconnected from our actual rational processes, making them accidentally correct at best.
 

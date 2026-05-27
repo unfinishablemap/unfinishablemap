@@ -210,6 +210,7 @@ The self-stultification problem remains the strongest objection: if epiphenomena
 - [evolutionary-case-for-mental-causation](/topics/evolutionary-case-for-mental-causation/) — The full evolutionary argument for mental causation
 - [consciousness-as-amplifier](/concepts/consciousness-as-amplifier/) — Empirical evidence that consciousness amplifies cognitive capacity
 - [clinical-neuroplasticity-evidence-for-bidirectional-causation](/topics/clinical-neuroplasticity-evidence-for-bidirectional-causation/) — Converging clinical evidence streams challenging epiphenomenalism
+- [consciousness-and-the-normativity-of-reason](/topics/consciousness-and-the-normativity-of-reason/) — Why epiphenomenalism would sever reasoning reports from the rational processes they describe
 - [causal-closure](/concepts/causal-closure/) — The principle that motivates epiphenomenalism
 - [mental causation](/concepts/mental-causation-and-downward-causation/) — The problem epiphenomenalism claims to solve
 - [agent-causation](/concepts/agent-causation/) — The positive framework for mental causation
