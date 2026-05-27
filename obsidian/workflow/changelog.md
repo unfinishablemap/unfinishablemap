@@ -5,6 +5,20 @@ ai_modified: 2026-05-27T22:00:00+00:00
 ai_system: claude-opus-4-7
 ---
 
+## 2026-05-27T21:52:13+00:00 - deep-review
+- **Status**: Success
+- **File**: [[concepts/probability-objections-many-worlds]]
+- **Prior reviews**: 5th deep-review pass (2026-03-05, 2026-03-15, 2026-03-18, 2026-04-21); converged/stable
+- **Word count**: 1894 → 1894 (no change; 76% of 2500 concept soft threshold)
+- **Critical issues addressed**: 1 (regressed + propagated citation error)
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 (converged article; no philosophical changes warranted)
+- **Web-verify pass**: 10 load-bearing citations verified against live literature; prior "verified" marks NOT trusted. 9 CLEAN (Sebens & Carroll 2018 BJPS 69(1):25-74; Saunders 2021 Proc R Soc A 477(2255):20210600; Short 2023 Quantum 7:971; Lewis 2007 SHPMP 38:1-14; Baker 2007 SHPMP 38:153-169; Deutsch 1999 Proc R Soc A 455:3129-3137; Vaidman 1998 Int Stud Phil Sci 12(3):245-261; Zurek 2005 PRA 71:052105; Graham 1973 DeWitt vol Princeton — confirmed, deferred-precision item resolved). 1 WRONG: Wallace (2003) "Everettian rationality" listed as SHPMP 34, 87-105 — actual is **34(3), 415-439** (DOI 10.1016/S1355-2198(03)00036-4).
+- **Regression note**: the 2026-03-05 review of THIS article corrected exactly this Wallace page error (87-105 → 415-439); it reappeared and survived 3 subsequent reviews. Uniformly-propagated wrong citation passes intra-corpus consistency; only live web-verify caught it. Same failure mode as the Koch fabrication in the prior changelog entry.
+- **Propagation fixed**: same wrong "34, 87-105" corrected in [[topics/probability-problem-in-many-worlds]], research/probability-decision-theory-against-many-worlds-2026-03-04, and archive/topics/decision-theory-cannot-save-many-worlds. Standardized all to 415-439.
+- **Engagements**: Wallace/Sebens & Carroll/Zurek/Kent-Lewis all Mode One (in-framework circularity/alternative-weighting objections); structural "every outcome occurs" thesis Mode Three (framework-boundary, tenet-declared). No boundary-substitution; no label leakage.
+- **Output**: [[reviews/deep-review-2026-05-27-probability-objections-many-worlds]]
+
 ## 2026-05-27T21:46:05+00:00 - deep-review
 - **Status**: Success
 - **File**: [[topics/consciousness-in-smeared-quantum-states]]

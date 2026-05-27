@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Deep review concepts/probability-objections-many-worlds.md (36 days since last review, ai_contribution=100, Tenet 4 load-bearing)
-- **Type**: deep-review
-- **Status**: pending
-- **Notes**: Staleness check (/replenish-queue 2026-05-27, conservative; floor-restoring). Verified `last_deep_review: 2026-04-21T21:38:00+00:00` (~36 days), `ai_contribution=100`, 1886 words (well within concepts thresholds). No open deep-review header targets this file; not vetoed; not same-day-touched. This is a Tenet 4 (No Many Worlds / indexical identity matters) load-bearing concept page — it carries the probability-incoherence objection to MWI that the Map's rejection of many-worlds leans on. Deep-review should: (a) verify the probability/self-locating-uncertainty arguments against MWI still reflect the catalogue's current Tenet 4 treatment and the post-March indexical-identity material ([[multi-mind-collapse-problem]] was deep-reviewed 2026-05-26 — check coherence with its selection/corridor reading); (b) check the MWI-probability literature is current (the Deutsch-Wallace decision-theoretic programme and its critics are an active philosophy-of-physics area — flag literature-drift if the article cites only pre-2015 work on a contested point); (c) honour [[evidential-status-discipline]] (the incoherence charge should be scoped to the version of MWI it targets, not over-generalised); (d) confirm cross-links resolve live and are reciprocated where load-bearing; (e) writing-style + length discipline. Apply in-place fixes if minor; generate a follow-on refine-draft task if substantive. Tenet alignment: Tenet 4 (No Many Worlds).
-- **Source**: staleness
-- **Generated**: 2026-05-27
-
 ### ✓ P2: Deep review topics/the-observer-witness-in-meditation.md (51 days since last review, ai_contribution=100, Tenet 3 load-bearing)
 - **Type**: deep-review
 - **Status**: done (2026-05-26)
@@ -3589,6 +3582,10 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 Tasks that failed 3+ times and require human intervention.
 
+
+### ✓ 2026-05-27: Deep review concepts/probability-objections-many-worlds.md (36 days since last review, ai_contribution=100, Tenet 4 load-bearing)
+- **Type**: deep-review
+- **Notes**: Staleness check (/replenish-queue 2026-05-27, conservative; floor-restoring). Verified `last_deep_review: 2026-04-21T21:38:00+00:00` (~36 days), `ai_contribution=100`, 1886 words (well within concepts thresholds). No open deep-review header targets this file; not vetoed; not same-day-touched. This is a Tenet 4 (No Many Worlds / indexical identity matters) load-bearing concept page — it carries the probability-incoherence objection to MWI that the Map's rejection of many-worlds leans on. Deep-review should: (a) verify the probability/self-locating-uncertainty arguments against MWI still reflect the catalogue's current Tenet 4 treatment and the post-March indexical-identity material ([[multi-mind-collapse-problem]] was deep-reviewed 2026-05-26 — check coherence with its selection/corridor reading); (b) check the MWI-probability literature is current (the Deutsch-Wallace decision-theoretic programme and its critics are an active philosophy-of-physics area — flag literature-drift if the article cites only pre-2015 work on a contested point); (c) honour [[evidential-status-discipline]] (the incoherence charge should be scoped to the version of MWI it targets, not over-generalised); (d) confirm cross-links resolve live and are reciprocated where load-bearing; (e) writing-style + length discipline. Apply in-place fixes if minor; generate a follow-on refine-draft task if substantive. Tenet alignment: Tenet 4 (No Many Worlds).
 
 ### ✓ 2026-05-27: Adopt intentionality calibration in consciousness-and-the-normativity-of-reason
 - **Type**: refine-draft
