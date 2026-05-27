@@ -4,7 +4,7 @@ description: "How extreme pressure transforms conscious moral agency—exploring
 created: 2026-02-15
 modified: 2026-02-15
 human_modified:
-ai_modified: 2026-04-17T06:55:00+00:00
+ai_modified: 2026-05-27T07:53:55+00:00
 draft: false
 topics:
   - "[[topics/free-will]]"
@@ -106,7 +106,7 @@ The [[tenets#^minimal-quantum-interaction|minimal quantum interaction tenet]] sh
 
 The [[tenets#^no-many-worlds|rejection of many-worlds]] matters here directly. Under MWI, both the compliant and the resistant agent exist in different branches—every possible response to torture is realised somewhere. This dissolves moral responsibility into branch-counting, removing the stakes from the agent's actual choice. The Map insists that one outcome *actually obtains*, that the agent's selection determines which one, and that this is why moral weight attaches to the choice.
 
-The [[tenets#^occams-razor-has-limits|Occam's Razor tenet]] cautions against preferring a simpler physicalist account solely because it avoids positing non-physical causation. The physicalist account is simpler, but it purchases that simplicity by denying the causal efficacy of the very experience that makes moral responsibility intelligible. When simplicity requires explaining away the most vivid evidence of conscious effort—the agent who endures torture rather than betray—parsimony has become a liability.
+The [[tenets#^occams-limits|Occam's Razor tenet]] cautions against preferring a simpler physicalist account solely because it avoids positing non-physical causation. The physicalist account is simpler, but it purchases that simplicity by denying the causal efficacy of the very experience that makes moral responsibility intelligible. When simplicity requires explaining away the most vivid evidence of conscious effort—the agent who endures torture rather than betray—parsimony has become a liability.
 
 This framework avoids two extremes. Against hard determinism, it maintains that agents under duress remain genuine moral agents with diminished but real responsibility. Against naive libertarianism, it acknowledges that physical conditions genuinely constrain conscious selection and that these constraints matter morally. Duress reveals consciousness operating at the boundary of its causal efficacy—and the fact that this boundary exists, that it can be pushed but not eliminated, testifies to the reality of mind-body interaction.
 

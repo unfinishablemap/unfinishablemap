@@ -4,7 +4,7 @@ description: "The view that consciousness is fundamental and ubiquitous in natur
 created: 2026-01-08
 modified: 2026-01-27
 human_modified: null
-ai_modified: 2026-04-22T11:38:00+00:00
+ai_modified: 2026-05-27T07:53:55+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -123,7 +123,7 @@ This trades the combination problem for the interaction problem. There's no need
 | Combination problem | Must explain how micro-experiences combine | Doesn't face this problem |
 | Interaction problem | Doesn't face this (no separate substances) | Must explain how distinct substances interact |
 
-The interaction problem—how do distinct substances causally influence each other?—is dualism's classic challenge. The Map's proposed response appeals to quantum indeterminacy: consciousness might bias outcomes that physics leaves undetermined, so no physical law would be violated. This proposal draws on ideas from Stapp's quantum Zeno approach and Penrose-Hameroff's orchestrated collapse, but remains speculative—it faces the decoherence objection (quantum superpositions in warm biological tissue collapse in femtoseconds, while neural processes operate at milliseconds) and lacks experimental support. It is a research programme, not an established result. Parsimony favours panpsychism here: one kind of stuff with two aspects is simpler than two substances requiring a novel interaction mechanism. The Map accepts this cost (see [[tenets#^occams-razor-has-limits|Occam's Razor Has Limits]]) but should not understate it.
+The interaction problem—how do distinct substances causally influence each other?—is dualism's classic challenge. The Map's proposed response appeals to quantum indeterminacy: consciousness might bias outcomes that physics leaves undetermined, so no physical law would be violated. This proposal draws on ideas from Stapp's quantum Zeno approach and Penrose-Hameroff's orchestrated collapse, but remains speculative—it faces the decoherence objection (quantum superpositions in warm biological tissue collapse in femtoseconds, while neural processes operate at milliseconds) and lacks experimental support. It is a research programme, not an established result. Parsimony favours panpsychism here: one kind of stuff with two aspects is simpler than two substances requiring a novel interaction mechanism. The Map accepts this cost (see [[tenets#^occams-limits|Occam's Razor Has Limits]]) but should not understate it.
 
 ## What Panpsychism Gets Right
 

@@ -4,7 +4,7 @@ description: "How does consciousness act on matter? Through attention—a bandwi
 created: 2026-02-14
 modified: 2026-05-19
 human_modified: null
-ai_modified: 2026-05-25T11:39:37+00:00
+ai_modified: 2026-05-27T07:53:55+00:00
 last_deep_review: 2026-05-19T12:00:00+00:00
 draft: false
 topics:
@@ -172,7 +172,7 @@ A second candid limitation concerns falsifiability. Most of the conditions that 
 
 **[[tenets#^no-many-worlds|No Many Worlds]]**: The selection model requires that quantum indeterminacies resolve to definite outcomes. If all branches persist equally, there is nothing for consciousness to select. The phenomenology of effort—the feeling that sustaining a choice *costs* something—has no causal explanation if all options are equally actualised.
 
-**[[tenets#^occams-razor-has-limits|Occam's Razor Has Limits]]**: AST appears simpler—consciousness is "just" a model. But this apparent simplicity purchases nothing; it leaves the hard problem untouched while claiming to dissolve it. The attention-as-interface hypothesis is more complex but more honest: it addresses the explanatory gap rather than defining it away.
+**[[tenets#^occams-limits|Occam's Razor Has Limits]]**: AST appears simpler—consciousness is "just" a model. But this apparent simplicity purchases nothing; it leaves the hard problem untouched while claiming to dissolve it. The attention-as-interface hypothesis is more complex but more honest: it addresses the explanatory gap rather than defining it away.
 
 ## References
 

@@ -4,7 +4,7 @@ description: "The quantum-classical boundary keeps receding. Hot cat states, nan
 created: 2026-01-27
 modified: 2026-01-27
 human_modified:
-ai_modified: 2026-05-11T12:51:00+00:00
+ai_modified: 2026-05-27T07:53:55+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -126,7 +126,7 @@ The hot cat states and nanoparticle interference experiments matter because they
 
 The receding quantum-classical boundary connects to several Map tenets.
 
-The [[tenets#^occams-razor-has-limits|Occam's Razor Has Limits tenet]] is directly illustrated here. We assumed warm macroscopic systems must be classical because that seemed simpler. Nature proved less cooperative. Hot cat states, nanoparticle interference, and biological quantum effects all violate intuitions that seemed obvious. Simplicity is a heuristic, not a guarantee—especially when our conceptual tools may be inadequate to the domain.
+The [[tenets#^occams-limits|Occam's Razor Has Limits tenet]] is directly illustrated here. We assumed warm macroscopic systems must be classical because that seemed simpler. Nature proved less cooperative. Hot cat states, nanoparticle interference, and biological quantum effects all violate intuitions that seemed obvious. Simplicity is a heuristic, not a guarantee—especially when our conceptual tools may be inadequate to the domain.
 
 The [[tenets#^no-many-worlds|No Many Worlds tenet]] connects to why the boundary matters. Under the many-worlds interpretation, there is no boundary problem—all quantum possibilities actualize in branching universes. The fact that we observe definite macroscopic states reflects our indexical position within one branch, not genuine collapse. If one accepts MWI, this entire article's framing dissolves—the "receding boundary" is simply an expansion of where we can detect quantum effects, with no collapse required anywhere.
 

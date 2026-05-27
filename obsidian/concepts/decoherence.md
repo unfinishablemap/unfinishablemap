@@ -4,7 +4,7 @@ description: "The decoherence objection bundles three independent claims. Five r
 created: 2026-01-14
 modified: 2026-05-19
 human_modified: null
-ai_modified: 2026-05-26T00:00:00+00:00
+ai_modified: 2026-05-27T07:53:55+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -184,7 +184,7 @@ The Unfinishable Map's [[tenets#^minimal-quantum-interaction|Minimal Quantum Int
 
 The [[tenets#^bidirectional-interaction|Bidirectional Interaction]] tenet depends on a physical mechanism for consciousness to influence the world. The five responses preserve this space: the measurement-problem opening works regardless of decoherence timescales, while discrete-event mechanisms sidestep decoherence timing entirely. The neural decision windows (280–300ms) are precisely where [[topics/free-will]] and [[agent-causation]] would need to operate. The [[argument-from-reason]] strengthens the case: if rational thought requires consciousness to influence neural activity, some mechanism for mind-brain interaction must exist. Quantum indeterminacy provides a candidate.
 
-The [[tenets#^occams-razor-has-limits|Occam's Razor Has Limits]] tenet is directly relevant. The decoherence objection was taken as decisive partly because dismissing quantum consciousness seemed simpler than investigating whether biology might manage decoherence. The discovery of [[quantum-biology-and-neural-mechanisms|quantum biology]]—magnetoreception, enzyme tunnelling—shows that nature's strategies are more resourceful than our assumptions predicted. The categorical claim that biological systems are "too warm" for quantum effects was treated as settled for decades before quantum biology overturned it empirically.
+The [[tenets#^occams-limits|Occam's Razor Has Limits]] tenet is directly relevant. The decoherence objection was taken as decisive partly because dismissing quantum consciousness seemed simpler than investigating whether biology might manage decoherence. The discovery of [[quantum-biology-and-neural-mechanisms|quantum biology]]—magnetoreception, enzyme tunnelling—shows that nature's strategies are more resourceful than our assumptions predicted. The categorical claim that biological systems are "too warm" for quantum effects was treated as settled for decades before quantum biology overturned it empirically.
 
 ## Further Reading
 

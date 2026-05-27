@@ -4,7 +4,7 @@ description: "Consciousness is fundamental; matter is derivative or appearance. 
 created: 2026-01-08
 modified: 2026-02-15
 human_modified: null
-ai_modified: 2026-04-23T12:20:00+00:00
+ai_modified: 2026-05-27T07:53:55+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -68,7 +68,7 @@ Analytic idealism claims superior parsimony over both [[concepts/materialism]] a
 
 Idealism claims to avoid both problems. Consciousness doesn't emerge because it's the starting point. There's no interaction problem because there's only one kind of stuff—consciousness appearing to itself in different guises.
 
-The Map accepts the hard problem's force and avoids it via dualism—consciousness doesn't emerge from matter because it's a distinct category. The Map proposes to address the interaction problem through quantum indeterminacy: consciousness might bias outcomes physics leaves undetermined. This proposal is speculative—it faces the decoherence objection (quantum superpositions in biological tissue collapse almost instantly) and lacks experimental confirmation. Parsimony is sacrificed, but as the [[tenets#^occams-razor-has-limits|Occam's Razor Has Limits]] tenet argues, the Map considers this cost worth paying to preserve causal interaction and the independent reality of physics.
+The Map accepts the hard problem's force and avoids it via dualism—consciousness doesn't emerge from matter because it's a distinct category. The Map proposes to address the interaction problem through quantum indeterminacy: consciousness might bias outcomes physics leaves undetermined. This proposal is speculative—it faces the decoherence objection (quantum superpositions in biological tissue collapse almost instantly) and lacks experimental confirmation. Parsimony is sacrificed, but as the [[tenets#^occams-limits|Occam's Razor Has Limits]] tenet argues, the Map considers this cost worth paying to preserve causal interaction and the independent reality of physics.
 
 ## The Dissociation Model
 

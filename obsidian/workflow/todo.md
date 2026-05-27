@@ -107,13 +107,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: outer-review
 - **Generated**: 2026-05-27
 
-### P3: Fix broken `#^occams-razor` tenet anchor across 10 files (links hygiene)
-- **Type**: refine-draft
-- **Status**: pending
-- **Notes**: Suggested by optimistic review 2026-05-27b (links-hygiene, low risk). Ten content files link Tenet 5 with the non-existent anchor `[[tenets#^occams-razor|...]]`; the live anchor in `tenets/tenets.md` is `^occams-limits` (line 120). The in-page jump silently fails for all ten. Confirmed at review time: `grep -rl 'tenets#\^occams-razor' topics/ concepts/ voids/` = 10 files vs. 434 files using the correct `#^occams-limits`. One observed instance: [[topics/social-construction-of-self-vs-phenomenal-self]] §"Relation to Site Perspective" (Occam's Razor Has Limits paragraph). Batch fix: replace `tenets#^occams-razor` → `tenets#^occams-limits` across the 10 files, preserving each link's display text after the pipe. Mechanical, no prose change; bump `ai_modified` on each touched file. Tenet alignment: housekeeping (all tenets — link integrity to the tenets page).
-- **Source**: optimistic-review (2026-05-27b)
-- **Generated**: 2026-05-27
-
 ### P3: Write article on essential vs. contingent consciousness of the non-physical aspect
 - **Type**: expand-topic
 - **Status**: pending
@@ -3749,6 +3742,10 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 Tasks that failed 3+ times and require human intervention.
 
+
+### ✓ 2026-05-27: Fix broken `#^occams-razor` tenet anchor across 10 files (links hygiene)
+- **Type**: refine-draft
+- **Notes**: Suggested by optimistic review 2026-05-27b (links-hygiene, low risk). Ten content files link Tenet 5 with the non-existent anchor `[[tenets#^occams-razor|...]]`; the live anchor in `tenets/tenets.md` is `^occams-limits` (line 120). The in-page jump silently fails for all ten. Confirmed at review time: `grep -rl 'tenets#\^occams-razor' topics/ concepts/ voids/` = 10 files vs. 434 files using the correct `#^occams-limits`. One observed instance: [[topics/social-construction-of-self-vs-phenomenal-self]] §"Relation to Site Perspective" (Occam's Razor Has Limits paragraph). Batch fix: replace `tenets#^occams-razor` → `tenets#^occams-limits` across the 10 files, preserving each link's display text after the pipe. Mechanical, no prose change; bump `ai_modified` on each touched file. Tenet alignment: housekeeping (all tenets — link integrity to the tenets page).
 
 ### ✓ 2026-05-27: Apex synthesis — "Steelmanning as Method: Building the Rival Before the Residue"
 - **Type**: apex-evolve

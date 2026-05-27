@@ -1,9 +1,18 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-27T07:47:13+00:00
+ai_modified: 2026-05-27T07:53:55+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-05-27T07:53:55+00:00 - refine-draft (links-hygiene)
+- **Status**: Success
+- **Task**: Mechanical batch link-fix from [[reviews/optimistic-2026-05-27b]]
+- **Issue**: Tenet 5 links used non-existent anchors (`tenets#^occams-razor`, plus the variant misspellings `^occams-razor-has-limits`, `^occams-razor-limits`); the live anchor in `tenets/tenets.md:120` is `^occams-limits`, so the in-page jump silently failed.
+- **Files fixed (11)**: topics/consciousness-and-moral-agency-under-duress, topics/decoherence-and-macroscopic-superposition, topics/animal-consciousness (2 links), topics/social-construction-of-self-vs-phenomenal-self, concepts/type-token-causation, concepts/panpsychism, concepts/decoherence, concepts/idealism, voids/transit-void, voids/capability-division-problem. Plus apex/attention-as-causal-bridge (1 link) — identical defect found in apex/ during corpus-wide verification, fixed for consistency though outside the review's stated topics/concepts/voids scope.
+- **Changes**: replaced every broken Tenet-5 anchor variant with `tenets#^occams-limits`, preserving each link's display text after the pipe. No prose changes. Bumped `ai_modified` on all 11.
+- **Verification**: final grep returns 0 instances of `tenets#^occams-razor` across all of `obsidian/` content (excluding the review files that merely describe the defect). Confirmed valid sibling anchors (`^dualism`, `^bidirectional-interaction`, `^minimal-quantum-interaction`) in the voids files were untouched.
+- **Published**: yes
 
 ## 2026-05-27T07:47:13+00:00 - apex-evolve (create)
 - **Status**: Complete
