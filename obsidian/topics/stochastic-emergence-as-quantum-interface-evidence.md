@@ -4,7 +4,8 @@ description: "A 2025 study found genetically identical mice show anaesthetic-eme
 created: 2026-05-27
 modified: 2026-05-27
 human_modified:
-ai_modified: 2026-05-27T10:30:00+00:00
+ai_modified: 2026-05-27T10:54:42+00:00
+last_deep_review: 2026-05-27T10:54:42+00:00
 draft: false
 topics:
   - "[[anaesthesia-and-the-consciousness-interface]]"
@@ -91,7 +92,7 @@ The candidates that could discriminate the readings are thus either confounded b
 
 Stone et al. is one item in a small set of considerations the Map collects on outcome-level openness at the interface. The set must be assembled without committing the cluster-coherence error the [[evidential-status-discipline|evidential-status discipline]] names: assembling N coherent considerations raises framework-internal weight, not the empirical tier, when the same considerations cohere with rival readings.
 
-**The Born rule's outcome-level openness.** The [[interface-formalization-void|interface-formalization void]] and the [[born-rule-and-the-consciousness-interface|Born-rule article]] develop the point that quantum mechanics fixes the probability distribution over outcomes but not which outcome actualises. Masanes, Galley, and Müller (2019) argued the measurement postulates — including the Born rule — are operationally redundant given the other quantum postulates and finite-dimensionality, suggesting the rule's *form* is uniquely fixed; the claim has been contested (a 2023 response argues the postulates are not in fact redundant), so it stands as a strong but disputed uniqueness result. Pati (2026, arXiv:2601.13012) argues the Hilbert-space inner product itself is fixed by no-signalling, a further preprint-stage strengthening. Together these characterise where the formalism stops — at the actualisation event — without supplying evidence that consciousness fills the gap. They establish the *space* the interface reading occupies, not its occupancy.
+**The Born rule's outcome-level openness.** The [[interface-formalization-void|interface-formalization void]] and the [[born-rule-and-the-consciousness-interface|Born-rule article]] develop the point that quantum mechanics fixes the probability distribution over outcomes but not which outcome actualises. Masanes, Galley, and Müller (2019) argued the measurement postulates — including the Born rule — are operationally redundant given the other quantum postulates and finite-dimensionality, suggesting the rule's *form* is uniquely fixed; the claim has been contested (a 2023 response, arXiv:2307.06191, argues the postulates are not in fact redundant), so it stands as a strong but disputed uniqueness result. Pati (2026, arXiv:2601.13012) argues the Hilbert-space inner product itself is fixed by no-signalling, a further preprint-stage strengthening. Together these characterise where the formalism stops — at the actualisation event — without supplying evidence that consciousness fills the gap. They establish the *space* the interface reading occupies, not its occupancy.
 
 **The Tegmark-Hameroff decoherence debate.** Whether quantum-sensitive substrates survive long enough in warm wet neural tissue to matter is contested. Tegmark (2000, *Physical Review E* 61:4194–4206) calculated decoherence timescales of roughly 10⁻¹³ to 10⁻²⁰ seconds for neural superpositions — far too short to be functionally relevant — concluding the brain's cognitive degrees of freedom are effectively classical. Hagan, Hameroff, and Tuszyński (2002) disputed his parameter choices and obtained microtubule-interior estimates around 10⁻⁵ to 10⁻⁴ seconds, but this counter-calculation remains unreplicated and contested (see [[quantum-biology-and-neural-consciousness]]). If Tegmark is right that the relevant substrates decohere too fast, the interface-indeterministic reading loses its physical substrate and the classical reading is left as the only tenable one. The dispute is unresolved, and the Map does not get to treat its open status as support.
 
@@ -134,11 +135,12 @@ The Map's working position is that emergence-time stochasticity is a genuine and
 4. Friedman, E. B., Sun, Y., Moore, J. T., et al. (2010). A conserved behavioral state barrier impedes transitions between anesthetic-induced unconsciousness and wakefulness. *PLOS ONE*, 5(7), e11903.
 5. Sepúlveda, P. O., Carrasco, E., Tapia, L. F., et al. (2019). Neural inertia and differences between loss of and recovery from consciousness during total intravenous anaesthesia: a narrative review. *Anaesthesia*, 74(6), 801–807.
 6. Masanes, L., Galley, T. D., & Müller, M. P. (2019). The measurement postulates of quantum mechanics are operationally redundant. *Nature Communications*, 10, 1361. https://doi.org/10.1038/s41467-019-09348-x
-7. Pati, A. K. (2026). No-signalling fixes the Hilbert-space inner product. arXiv:2601.13012.
-8. Tegmark, M. (2000). Importance of quantum decoherence in brain processes. *Physical Review E*, 61(4), 4194–4206. https://doi.org/10.1103/PhysRevE.61.4194
-9. Hagan, S., Hameroff, S., & Tuszyński, J. (2002). Quantum computation in brain microtubules: decoherence and biological feasibility. *Physical Review E*, 65(6), 061901.
-10. Khan, S., et al. (2024). Microtubule-stabilizer epothilone B delays anesthetic-induced unconsciousness in rats. *eNeuro*, 11(8).
-11. Vedovato, F., et al. (2017). Extending Wheeler's delayed-choice experiment to space. *Science Advances*, 3(10), e1701180. https://doi.org/10.1126/sciadv.1701180
-12. Tonetto, B. What physics actually closes: causal closure, quantum indeterminacy, and the interpretive asymmetry. *PhilArchive*. https://philarchive.org/rec/TONWPA
-13. Southgate, A. & Oquatre-sept, C. (2026-05-18). Active Reboot. *The Unfinishable Map*. https://unfinishablemap.org/concepts/active-reboot/
-14. Southgate, A. & Oquatre-six, C. (2026-02-23). Anaesthesia and the Consciousness Interface. *The Unfinishable Map*. https://unfinishablemap.org/topics/anaesthesia-and-the-consciousness-interface/
+7. (2023 response contesting the operational redundancy of the measurement postulates). arXiv:2307.06191.
+8. Pati, A. K. (2026). No-signalling fixes the Hilbert-space inner product. arXiv:2601.13012.
+9. Tegmark, M. (2000). Importance of quantum decoherence in brain processes. *Physical Review E*, 61(4), 4194–4206. https://doi.org/10.1103/PhysRevE.61.4194
+10. Hagan, S., Hameroff, S., & Tuszyński, J. (2002). Quantum computation in brain microtubules: decoherence and biological feasibility. *Physical Review E*, 65(6), 061901.
+11. Khan, S., et al. (2024). Microtubule-stabilizer epothilone B delays anesthetic-induced unconsciousness in rats. *eNeuro*, 11(8).
+12. Vedovato, F., et al. (2017). Extending Wheeler's delayed-choice experiment to space. *Science Advances*, 3(10), e1701180. https://doi.org/10.1126/sciadv.1701180
+13. Tonetto, B. What physics actually closes: causal closure, quantum indeterminacy, and the interpretive asymmetry. *PhilArchive*. https://philarchive.org/rec/TONWPA
+14. Southgate, A. & Oquatre-sept, C. (2026-05-18). Active Reboot. *The Unfinishable Map*. https://unfinishablemap.org/concepts/active-reboot/
+15. Southgate, A. & Oquatre-six, C. (2026-02-23). Anaesthesia and the Consciousness Interface. *The Unfinishable Map*. https://unfinishablemap.org/topics/anaesthesia-and-the-consciousness-interface/
