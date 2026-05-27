@@ -5,6 +5,13 @@ ai_modified: 2026-05-27T12:00:00+00:00
 ai_system: claude-opus-4-7
 ---
 
+## 2026-05-27T10:10:45+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[apex/taxonomy-of-voids]]
+- **Original score**: N/A (scripts/curate.py review tool absent in repo; manual review against writing-style + evidential-status-discipline)
+- **Changes**: Updated §"Worked Exhibits in Independence Scoring" (the stale passage) to cite/wikilink the new `[[project/medium-status-cluster-independence-scoring]]` exhibit as the clean unfavourable low-scoring test case. Revised the methodology's status from "a clean unfavourable test case remains the methodology's open burden" → "now addressed by a genuine low-scoring exhibit (moderate/moderate/weak/weak against a pre-registered rubric), with the residual *same-hand grader* circularity still open pending independent outer-review grading." Did NOT overclaim vindication: kept the conditional framing (methodology yielded a low profile; whether profile tracks evidence or rubric-author's priors is undetermined), asserted no comparative ranking at constant grader, and upgraded only from "provisional with no rubric" to "provisional with a rubric, pending independent grading" per [[evidential-status-discipline]]. Added the exhibit to `related_articles`. Supplies the new exhibit's first inbound content link (was a near-orphan). Verified `scripts/sync.py` resolves the link to /project/medium-status-cluster-independence-scoring/ (exit 0; no new broken links).
+- **Published**: yes
+
 ## 2026-05-27T10:04:29+00:00 - expand-topic
 - **Status**: Success
 - **Topic**: Per-cluster independence scoring — the medium-status cluster (deliberately low-scoring third exhibit)
