@@ -5,6 +5,16 @@ ai_modified: 2026-05-27T17:20:00+00:00
 ai_system: claude-opus-4-7
 ---
 
+## 2026-05-27T23:40:00+00:00 - expand-topic
+- **Status**: Success
+- **Topic**: Dissociative states as intact-substrate interface evidence
+- **Output**: [[topics/dissociative-states-as-intact-substrate-interface-evidence]]
+- **Word count**: ~2760
+- **Based on research**: no — sourced from [[reviews/optimistic-2026-05-19]] (Medium Priority expansion opportunity)
+- **Citations web-verified**: Reinders et al. 2003 (NeuroImage 20(4):2119–2125); Sierra & Berrios 2000 (Psychiatry Research) + Sierra, Baker, Medford & David 2005 (Psychological Medicine, Anomalous Subjective Recall factor); Staniloiu & Markowitsch 2014 (Lancet Psychiatry); Lynn et al. 2014 (Psychological Bulletin 140:896–910) + Lynn et al. 2022 (Annu Rev Clin Psychol)
+- **Integration**: inbound link added FROM parent [[topics/memory-system-vulnerability-hierarchies-as-interface-evidence]] at the dissociative-states-row passage; reciprocal links added in clinical-dissociation-as-systematic-evidence (DPDR window + Further Reading), conversion-disorder-as-consciousness-side-fault, recovery-order-asymmetry-as-interface-evidence
+- **Calibration**: intact-substrate dissociation findings held as robust; interface/filter reading held as live hypothesis; DID carries explicit Lynn et al. sociocognitive caveat (not presented as settled)
+
 ## 2026-05-27T17:20:00+00:00 - replenish-queue
 - **Status**: Success
 - **Mode**: conservative (tidy-sweep)

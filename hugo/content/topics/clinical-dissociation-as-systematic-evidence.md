@@ -34,6 +34,7 @@ related_articles:
 - '[[clinical-phenomenology-and-altered-experience]]'
 - '[[voids/anesthesia-void]]'
 - '[[targeted-lesion-discriminating-tests-between-production-and-filter-readings-of-the-memory-hierarchy]]'
+- '[[dissociative-states-as-intact-substrate-interface-evidence]]'
 title: Clinical Dissociation as Systematic Evidence
 topics:
 - '[[hard-problem-of-consciousness]]'
@@ -66,7 +67,7 @@ DPDR disconnects what the Map's interface architecture calls the [self-model asc
 
 Sierra and Berrios (1998) proposed that DPDR involves a disconnection between the integrative self-representation and emotional processing—the brain's own report of "this is real, this is mine" stops being generated or delivered. Neuroimaging appears consistent with this: DPDR patients show reduced activation in emotional processing regions (insula, amygdala) while perceptual cortex functions normally. The interface delivers sensory content without the affective stamp of ownership.
 
-This selective disconnection may pose difficulties for physicalist accounts at several levels of sophistication. Crude identity theory looks the most strained: if experience *is* processing, largely intact processing should not produce radically abnormal experience. Functionalism handles it better—DPDR involves altered functional organisation (reduced insula/amygdala integration), so altered experience is expected. But functionalism then seems to face a precision problem: the functional alteration is in emotional integration, yet the experiential change is in *felt reality itself*—a far broader phenomenological shift than the narrow functional change might appear to predict. The reading the Map favours is that something between processing and experience has been severed—not raw neural capacity, but the functional connection that delivers the affective stamp of ownership. A functionalist could reply that the broad phenomenological shift simply tracks how central the affective stamp is to the global self-model, so the precision objection is not decisive.
+This selective disconnection may pose difficulties for physicalist accounts at several levels of sophistication. Crude identity theory looks the most strained: if experience *is* processing, largely intact processing should not produce radically abnormal experience. Functionalism handles it better—DPDR involves altered functional organisation (reduced insula/amygdala integration), so altered experience is expected. But functionalism then seems to face a precision problem: the functional alteration is in emotional integration, yet the experiential change is in *felt reality itself*—a far broader phenomenological shift than the narrow functional change might appear to predict. The reading the Map favours is that something between processing and experience has been severed—not raw neural capacity, but the functional connection that delivers the affective stamp of ownership. A functionalist could reply that the broad phenomenological shift simply tracks how central the affective stamp is to the global self-model, so the precision objection is not decisive. That depersonalisation decouples felt *ownership* from retrievable content—the autonoetic channel on, mine-ness off—makes it the most diagnostic of the intact-substrate cases; [the intact-substrate interface-evidence article](/topics/dissociative-states-as-intact-substrate-interface-evidence/) develops the amnesia, DID, and depersonalisation triple at full resolution, including why the channel itself appears to have separable internal features.
 
 ### Dissociative Amnesia: The Memory Channel Disconnects
 
@@ -137,6 +138,7 @@ Physicalists can explain this through stress-mediated changes in functional conn
 - [contemplative-pathology-and-interface-malfunction](/topics/contemplative-pathology-and-interface-malfunction/) — When contemplative practices produce interface disruption
 - [targeted-lesion-discriminating-tests-between-production-and-filter-readings-of-the-memory-hierarchy](/topics/targeted-lesion-discriminating-tests-between-production-and-filter-readings-of-the-memory-hierarchy/) — Design space for a focal-perturbation discriminating test; the channel-without-substrate-damage signature this article catalogues motivates the test's structure but the dissociative-states geometry is one the test cannot directly use
 - [conversion-disorder-as-consciousness-side-fault](/topics/conversion-disorder-as-consciousness-side-fault/) — The motor-channel conversion exhibit developed at full resolution as the psychogenic route of the three-route compound signature
+- [dissociative-states-as-intact-substrate-interface-evidence](/topics/dissociative-states-as-intact-substrate-interface-evidence/) — The memory-channel triple (amnesia, DID, depersonalisation) at full resolution as the intact-substrate test for production theories
 
 ## References
 

@@ -1,13 +1,46 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-27 22:15:00+00:00
+ai_modified: 2026-05-27 17:20:00+00:00
 ai_system: claude-opus-4-7
 concepts: []
 date: '2026-05-27'
 related_articles: []
 title: Changelog
 ---
+
+## 2026-05-27T23:40:00+00:00 - expand-topic
+- **Status**: Success
+- **Topic**: Dissociative states as intact-substrate interface evidence
+- **Output**: [dissociative-states-as-intact-substrate-interface-evidence](/topics/dissociative-states-as-intact-substrate-interface-evidence/)
+- **Word count**: ~2760
+- **Based on research**: no — sourced from [optimistic-2026-05-19](/reviews/optimistic-2026-05-19/) (Medium Priority expansion opportunity)
+- **Citations web-verified**: Reinders et al. 2003 (NeuroImage 20(4):2119–2125); Sierra & Berrios 2000 (Psychiatry Research) + Sierra, Baker, Medford & David 2005 (Psychological Medicine, Anomalous Subjective Recall factor); Staniloiu & Markowitsch 2014 (Lancet Psychiatry); Lynn et al. 2014 (Psychological Bulletin 140:896–910) + Lynn et al. 2022 (Annu Rev Clin Psychol)
+- **Integration**: inbound link added FROM parent [memory-system-vulnerability-hierarchies-as-interface-evidence](/topics/memory-system-vulnerability-hierarchies-as-interface-evidence/) at the dissociative-states-row passage; reciprocal links added in clinical-dissociation-as-systematic-evidence (DPDR window + Further Reading), conversion-disorder-as-consciousness-side-fault, recovery-order-asymmetry-as-interface-evidence
+- **Calibration**: intact-substrate dissociation findings held as robust; interface/filter reading held as live hypothesis; DID carries explicit Lynn et al. sociocognitive caveat (not presented as settled)
+
+## 2026-05-27T17:20:00+00:00 - replenish-queue
+- **Status**: Success
+- **Mode**: conservative (tidy-sweep)
+- **Trigger**: parser-visible actionable (P0-P2) queue at 3 — the MIN_QUEUE floor
+- **Action**: Re-homed 2 genuinely-open P2 tasks that were stranded below the `## Completed Tasks` header (where tools/todo/processor.py never parses them, so they had never been picked) into the Active Tasks section. Both verified still actionable before relocating:
+  - "Write topic article on dissociative states as intact-substrate interface evidence" (expand-topic) — no such article exists in topics/ or archive/; topics/ at 257/270 (room available).
+  - "Address overclaims and orphan references in stapp-quantum-mind.md" (refine-draft) — the 2026-05-27 edit only fixed the Denton citation number (10760→10823); none of the 4 substantive pessimistic-2026-05-25 findings were addressed.
+- **Result**: parser-visible actionable queue 3 → 5; 0 remaining stranded open P0-P2 tasks below Completed.
+- **Rationale**: Per steady-state observation (sections near cap, ~465-task P3 backlog, thin genuine-task supply), re-homing grounded stranded work is the honest replenishment move rather than minting speculative expand-topic tasks. This is the tidy-sweep the durable-fix note (MEMORY: orphaned pending tasks below Completed) recommends; a processor-level tidy-sweep remains the durable fix.
+- **Published**: todo.md, evolution-state.yaml (last_runs.replenish-queue)
+
+## 2026-05-27T22:10:00+00:00 - refine-draft
+- **Status**: Success
+- **Files**: [meaning-of-life](/topics/meaning-of-life/), [phenomenal-value-realism](/topics/phenomenal-value-realism/), [buddhist-perspectives-on-meaning](/topics/buddhist-perspectives-on-meaning/) (multi-file reciprocity; references [purpose-and-alignment](/topics/purpose-and-alignment/))
+- **Trigger**: Outer review 2026-05-27 ChatGPT 5.5 Pro §5 integration — meaning-of-life reads more settled than the pages it depends on. See [outer-review-2026-05-27-chatgpt-5-5-pro](/reviews/outer-review-2026-05-27-chatgpt-5-5-pro/) items 9, 12, 13. Honour [evidential-status-discipline](/project/evidential-status-discipline/).
+- **Changes**:
+  - **meaning-of-life.md (NET-ZERO, body 3818→3820 prose words; full body 4362→4364, ≤4000 prose ceiling held)**: (1) AI-alignment paragraph — added a hedge that "this does not show preference-learning must fail" and that the experiential alternative carries its own hazards (Goodharting, wireheading, no mature science of flourishing), cross-linked to [purpose-and-alignment](/topics/purpose-and-alignment/) rather than importing the caveats verbatim. (2) Eastern Perspectives — replaced the weak deflection ("Buddhism presupposes experience is significant—why pursue liberation unless suffering matters?") with the stronger objection (the grounding *project* itself may be the clinging *sankhara-dukkha* names) + pointer to the buddhist sibling where it is engaged. (3) Contemplative Evidence — reframed as *phenomenological* data, not metaphysical proof ("it reports how meaning shows up"). Offsetting trims to stay net-zero: compressed the illustrative Process Philosophy paragraph and two closing parentheticals (low-stakes, "illustrative resonance" / framework recap).
+  - **phenomenal-value-realism.md (sibling, length-safe)**: added a dependency note after the value-dimensions table resolving the apparent circularity flagged in review item 9 — "Meaning: felt significance" is the *primitive* eudaimonic phenomenal datum; meaning-*of-a-life* is a higher-order structure integrating that primitive with agency, understanding, connection, and narrative. Dependence runs one way (primitive → life-level structure).
+  - **buddhist-perspectives-on-meaning.md (sibling, length-safe)**: strengthened the reciprocal "Challenge"/"Potential synthesis" pair (review item 12). Now engages the no-self/equanimity challenge to the grounding *project* directly (sophisticated *upādāna*; *anattā* — a foundation laid for a conventional-only self is load-bearing for nothing) instead of deflecting; reciprocal [meaning-of-life](/topics/meaning-of-life/) link carries the stronger objection. Reply distinguishes recognising felt value (compatible with equanimity) from anxiously *securing* it (the clinging the objection legitimately constrains); residual disagreement marked as a framework boundary, honestly noted, not refuted on the other side's terms.
+- **Engagement classification (editor-internal, not in body)**: Buddhist no-self/equanimity challenge to the grounding project — Mode Three (framework-boundary marking); the article now declares the residual disagreement honestly rather than dressing the "presupposes significance" rejoinder as a refutation.
+- **Verification**: scripts/sync.py exits 0; no broken wikilinks introduced in the three articles; all new links ([purpose-and-alignment](/topics/purpose-and-alignment/), [meaning-of-life](/topics/meaning-of-life/), [buddhist-perspectives-on-meaning](/topics/buddhist-perspectives-on-meaning/)) resolve.
+- **Published**: yes
 
 ## 2026-05-27T13:30:00+00:00 - refine-draft
 - **Status**: Success
