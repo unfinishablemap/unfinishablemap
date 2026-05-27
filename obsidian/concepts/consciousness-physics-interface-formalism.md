@@ -4,7 +4,7 @@ description: "The formal mathematical components and constraints any theory of c
 created: 2026-03-19
 modified: 2026-05-18
 human_modified:
-ai_modified: 2026-05-27T00:00:00+00:00
+ai_modified: 2026-05-27T03:44:06+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -120,7 +120,7 @@ The interface formalism concept connects directly to the Map's foundational comm
 
 1. Kleiner, J. (2020). "Mathematical Models of Consciousness." *Entropy*, 22(6), 609.
 
-2. Masanes, L., Galley, T.D. & Müller, M.P. (2019). "The measurement postulates of quantum mechanics are operationally redundant." *Nature Physics*, 15, 1174–1177.
+2. Masanes, L., Galley, T.D. & Müller, M.P. (2019). "The measurement postulates of quantum mechanics are operationally redundant." *Nature Communications*, 10, 1361.
 
 3. Pati, A.K. (2026). "No-Signalling Fixes the Hilbert-Space Inner Product." arXiv:2601.13012.
 

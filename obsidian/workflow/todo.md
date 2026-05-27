@@ -72,13 +72,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: outer-review
 - **Generated**: 2026-05-27
 
-### P2: Reconcile contradictory citations across the interface-formalism cluster
-- **Type**: refine-draft
-- **Status**: pending
-- **Notes**: Pessimistic review 2026-05-27 found two cross-article citation contradictions in a tightly cross-linking, load-bearing cluster (`topics/mathematical-structure-of-the-consciousness-physics-interface`, `concepts/consciousness-physics-interface-formalism`, `concepts/causal-consistency-constraint`). (1) Masanes-Galley-Müller (2019) cited as *Nature Physics* 15, 1174–1177 in two articles but *Nature Communications* 10(1), 1361 in causal-consistency-constraint — normalise all three to the correct *Nature Physics* 15, 1174–1177 (2019). (2) Tonetto cited as "B. Tonetto, *What Physics Actually Closes*, PhilArchive" in two articles vs "L. Tonetto (2026), *Statistical Closure with Outcome-Level Openness*, *Foundations of Physics* (forthcoming)" in causal-consistency — different initial, title, and venue, yet all three attribute the same coined phrase "statistical closure with outcome-level openness" to the author; reconcile to one canonical record. Also: add missing arXiv id for Agrawal-Wilson (2025) in causal-consistency. Citation hygiene only — do not touch argument structure. See [[reviews/pessimistic-2026-05-27-interface-formalism-cluster]].
-- **Source**: pessimistic-review (2026-05-27)
-- **Generated**: 2026-05-27
-
 ### P3: Address candour gaps in interface-formalism cluster (unfalsifiable default, MWI boundary-marking, preprint overclaim)
 - **Type**: refine-draft
 - **Status**: pending
@@ -3749,6 +3742,10 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 Tasks that failed 3+ times and require human intervention.
 
+
+### ✓ 2026-05-27: Reconcile contradictory citations across the interface-formalism cluster
+- **Type**: refine-draft
+- **Notes**: Pessimistic review 2026-05-27 found two cross-article citation contradictions in a tightly cross-linking, load-bearing cluster (`topics/mathematical-structure-of-the-consciousness-physics-interface`, `concepts/consciousness-physics-interface-formalism`, `concepts/causal-consistency-constraint`). (1) Masanes-Galley-Müller (2019) cited as *Nature Physics* 15, 1174–1177 in two articles but *Nature Communications* 10(1), 1361 in causal-consistency-constraint — normalise all three to the correct *Nature Physics* 15, 1174–1177 (2019). (2) Tonetto cited as "B. Tonetto, *What Physics Actually Closes*, PhilArchive" in two articles vs "L. Tonetto (2026), *Statistical Closure with Outcome-Level Openness*, *Foundations of Physics* (forthcoming)" in causal-consistency — different initial, title, and venue, yet all three attribute the same coined phrase "statistical closure with outcome-level openness" to the author; reconcile to one canonical record. Also: add missing arXiv id for Agrawal-Wilson (2025) in causal-consistency. Citation hygiene only — do not touch argument structure. See [[reviews/pessimistic-2026-05-27-interface-formalism-cluster]].
 
 ### ✓ 2026-05-27: Deep review concepts/bi-aspectual-ontology.md (42 days since last review, ai_contribution=100, Tenet 1 load-bearing)
 - **Type**: deep-review

@@ -1,9 +1,20 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-27T03:21:14+00:00
+ai_modified: 2026-05-27T03:44:06+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-05-27T03:44:06+00:00 - refine-draft
+- **Status**: Success
+- **Files**: [[topics/mathematical-structure-of-the-consciousness-physics-interface]], [[concepts/consciousness-physics-interface-formalism]], [[concepts/causal-consistency-constraint]]
+- **Task**: Multi-file citation reconciliation (Issues 1, 2, 4 of [[reviews/pessimistic-2026-05-27-interface-formalism-cluster]]). Citation hygiene only; no argument structure touched.
+- **Changes**:
+  - **Masanes-Galley-Müller (2019)** — WEB-VERIFIED venue against ADS (bibcode 2019NatCo..10.1361M), PubMed Central (PMC6434053), and UCL Discovery. Canonical form is *Nature Communications*, 10, 1361 (DOI 10.1038/s41467-019-09348-x), **not** *Nature Physics* 15, 1174–1177. The reviewer's stated judgement ("Nature Physics correct") was wrong; causal-consistency-constraint.md already held the correct form. Fixed the two outliers (math-structure ref 4, formalism ref 2) to *Nature Communications*, 10, 1361. Now consistent across the cluster and with the wider corpus (born-rule-and-the-consciousness-interface, brain-internal-born-rule-testing, self-reference, interface-formalization-void all already correct).
+  - **Tonetto** — WEB-VERIFIED via PhilArchive (TONWPA): canonical record is **B**runo Tonetto, "What Physics Actually Closes: Causal Closure, Quantum Indeterminacy, and the Interpretive Asymmetry," PhilArchive preprint (first archived 2026-03-09). The causal-consistency.md variant "L. Tonetto (2026), Statistical Closure with Outcome-Level Openness, Foundations of Physics (forthcoming)" does NOT verify — wrong initial, fabricated title, fabricated venue (likely AI-confabulated from the coined phrase). Reconciled causal-consistency.md ref 5 to the canonical B. Tonetto / PhilArchive form used by the other two files.
+  - **Agrawal-Wilson (2025)** — WEB-VERIFIED: arXiv:2511.21355, "Deriving the Generalised Born Rule from First Principles" (submitted 2025-11-26; G. Agrawal, IISER Pune & M. Wilson, Paris-Saclay). Added the missing arXiv id to causal-consistency-constraint.md ref 3 and corrected the author initial (G., not A.) and title to the verified record (matches born-rule-and-the-consciousness-interface.md ref 249).
+- **Corpus grep**: confirmed no other live article carries the stale forms ("Nature Physics" Masanes, "L. Tonetto", fabricated "Statistical Closure" title, "Agrawal, A.").
+- **Published**: yes
 
 ## 2026-05-27T03:45:00+00:00 - outer-review
 - **Status**: Success
