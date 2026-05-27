@@ -43,17 +43,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: expand-topic-followon
 - **Generated**: 2026-05-27
 
-### P2: Adopt phenomenal-consciousness calibration in conversion-disorder-as-consciousness-side-fault
-- **Type**: refine-draft
-- **Status**: pending
-- **File**: obsidian/topics/conversion-disorder-as-consciousness-side-fault.md
-- **Notes**: From topic-concept anchoring audit 2026-05-27. The topic article over-claims relative to its anchor concept [[phenomenal-consciousness]]; failed checks: hedge_density, strong_assertions.
-  - hedge density 0.73/kw is below 60% of anchor (6.76/kw)
-  - topic uses 2 strong-assertion verbs where anchor uses none
-  - Action: bring the topic's hedge profile in line with the anchor concept's. Preserve the article's voice; this is not a request to weaken the central claim, only to inherit the calibration discipline the anchor concept already uses. See [[project/calibration-audit-triple]] Audit Three for the spec and [[evidential-status-discipline]] for the underlying rule.
-- **Source**: topic-concept-anchoring-audit
-- **Generated**: 2026-05-27
-
 ### P2: Adopt mysterianism calibration in epistemology-of-convergence-arguments
 - **Type**: refine-draft
 - **Status**: pending
@@ -64,7 +53,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
   - Action: bring the topic's hedge profile in line with the anchor concept's. Preserve the article's voice; this is not a request to weaken the central claim, only to inherit the calibration discipline the anchor concept already uses. See [[project/calibration-audit-triple]] Audit Three for the spec and [[evidential-status-discipline]] for the underlying rule.
 - **Source**: topic-concept-anchoring-audit
 - **Generated**: 2026-05-27
-
 
 ### P1: Fix verified citation errors in topics/meaning-of-life.md (Tallis issue, Landau 2025, missing references)
 - **Type**: refine-draft
@@ -3699,6 +3687,10 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 Tasks that failed 3+ times and require human intervention.
 
+
+### ✓ 2026-05-27: Adopt phenomenal-consciousness calibration in conversion-disorder-as-consciousness-side-fault
+- **Type**: refine-draft
+- **Notes**: From topic-concept anchoring audit 2026-05-27. The topic article over-claims relative to its anchor concept [[phenomenal-consciousness]]; failed checks: hedge_density, strong_assertions.
 
 ### ✓ 2026-05-27: Write topic article on Affective Tone Divergence Across Meditative Traditions
 - **Type**: expand-topic

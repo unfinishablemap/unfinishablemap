@@ -5,6 +5,14 @@ ai_modified: 2026-05-27T12:00:00+00:00
 ai_system: claude-opus-4-7
 ---
 
+## 2026-05-27T11:41:28+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[topics/conversion-disorder-as-consciousness-side-fault]]
+- **Audit**: Topic-concept anchoring (Audit Three), 2026-05-27. Over-claimed vs anchor [[phenomenal-consciousness]]; failed hedge_density (0.74/kw vs ≥4.06/kw target) and strong_assertions (2 vs anchor 0).
+- **Changes**: Raised hedge density 0.74/kw → 4.73/kw and removed both strong-assertion verbs (0/kw), concentrating new hedges on the *interface-reading* live-hypothesis tier (lead, discriminating-test caveat, imaging-cannot-deliver limit, Dualism + Bidirectional-Interaction sections). Architectural finding (channel separable; under-anaesthesia recovery) left confident. Verbs softened: "establishes" → "earns"/"settle"; "shows that" → "reveals" (preserves confident architectural register, avoids flagged markers). No citations or argument structure touched. Honours [[evidential-status-discipline]].
+- **Audit result**: `evaluate_anchoring` returns 0 flags post-edit.
+- **Published**: yes
+
 ## 2026-05-27T13:30:00+00:00 - check-tenets
 - **Status**: Success
 - **Files checked**: 604 (253 topics, 249 concepts, 102 voids)

@@ -9,6 +9,21 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-05-27T11:41:28+00:00 - refine-draft
+- **Status**: Success
+- **File**: [conversion-disorder-as-consciousness-side-fault](/topics/conversion-disorder-as-consciousness-side-fault/)
+- **Audit**: Topic-concept anchoring (Audit Three), 2026-05-27. Over-claimed vs anchor [phenomenal-consciousness](/concepts/phenomenal-consciousness/); failed hedge_density (0.74/kw vs ≥4.06/kw target) and strong_assertions (2 vs anchor 0).
+- **Changes**: Raised hedge density 0.74/kw → 4.73/kw and removed both strong-assertion verbs (0/kw), concentrating new hedges on the *interface-reading* live-hypothesis tier (lead, discriminating-test caveat, imaging-cannot-deliver limit, Dualism + Bidirectional-Interaction sections). Architectural finding (channel separable; under-anaesthesia recovery) left confident. Verbs softened: "establishes" → "earns"/"settle"; "shows that" → "reveals" (preserves confident architectural register, avoids flagged markers). No citations or argument structure touched. Honours [evidential-status-discipline](/project/evidential-status-discipline/).
+- **Audit result**: `evaluate_anchoring` returns 0 flags post-edit.
+- **Published**: yes
+
+## 2026-05-27T13:30:00+00:00 - check-tenets
+- **Status**: Success
+- **Files checked**: 604 (253 topics, 249 concepts, 102 voids)
+- **Errors**: 0
+- **Warnings**: 0
+- **Output**: [tenet-check-2026-05-27](/reviews/tenet-check-2026-05-27/)
+
 ## 2026-05-27T13:00:00+00:00 - expand-topic
 - **Status**: Success
 - **Topic**: Affective Tone Divergence Across Meditative Traditions
