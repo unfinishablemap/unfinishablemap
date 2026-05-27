@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-20
-ai_modified: 2026-05-25 19:11:15+00:00
+ai_modified: 2026-05-27 10:30:00+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -32,6 +32,7 @@ related_articles:
 - '[[quantum-biology-neural-experimental-2026-03-20]]'
 - '[[comparing-quantum-consciousness-mechanisms]]'
 - '[[anaesthesia-and-the-consciousness-interface]]'
+- '[[stochastic-emergence-as-quantum-interface-evidence]]'
 - '[[causal-closure]]'
 - '[[terminal-lucidity-and-filter-transmission-theory]]'
 - '[[research/wlodzislaw-duch-consciousness-2026-05-02]]'
@@ -203,6 +204,7 @@ Two structural responses follow. *First*, the Map and Duch *converge* against Pe
 - [neural-implementation-specifics](/topics/neural-implementation-specifics/) — Evaluating neural mechanism evidence and crucial experiments
 - [comparing-quantum-consciousness-mechanisms](/topics/comparing-quantum-consciousness-mechanisms/) — Evaluating competing quantum consciousness theories
 - [anaesthesia-and-the-consciousness-interface](/topics/anaesthesia-and-the-consciousness-interface/) — Anaesthesia as a window into consciousness mechanisms
+- [stochastic-emergence-as-quantum-interface-evidence](/topics/stochastic-emergence-as-quantum-interface-evidence/) — Emergence-timing variability and whether a quantum-sensitive substrate (the decoherence debate here) could source it
 - [quantum-holism-and-phenomenal-unity](/topics/quantum-holism-and-phenomenal-unity/) — Quantum entanglement and the binding problem
 - [quantum-neural-timing-constraints](/topics/quantum-neural-timing-constraints/) — The timing hierarchy from femtosecond decoherence to neural decisions
 - [decoherence](/concepts/decoherence/) — The decoherence objection and why it does not solve the measurement problem

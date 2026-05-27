@@ -4,7 +4,7 @@ description: "The corridor reading of Tenet 2 predicts no Born-statistical signa
 created: 2026-05-14
 modified: 2026-05-15
 human_modified:
-ai_modified: 2026-05-27T09:30:00+00:00
+ai_modified: 2026-05-27T10:30:00+00:00
 draft: false
 topics:
   - "[[born-rule-and-the-consciousness-interface]]"
@@ -36,6 +36,7 @@ related_articles:
   - "[[quantum-measurement-and-consciousness]]"
   - "[[consciousness-and-causal-powers]]"
   - "[[quantum-biology-and-neural-consciousness]]"
+  - "[[stochastic-emergence-as-quantum-interface-evidence]]"
 ai_contribution: 100
 author:
 ai_system: claude-opus-4-7
@@ -157,6 +158,7 @@ The corridor's unfalsifiability is instrument-relative rather than principled. T
 - [[evidential-status-discipline]]
 - [[trumping-preemption]]
 - [[delegatory-causation]]
+- [[stochastic-emergence-as-quantum-interface-evidence]] — A behavioural-timing finding that, by the same logic, cannot reach the brain-internal regime this article specifies
 
 ## References
 

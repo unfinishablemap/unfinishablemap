@@ -4,7 +4,7 @@ description: "The Born rule resists derivation across every quantum interpretati
 created: 2026-03-15
 modified: 2026-05-23
 human_modified:
-ai_modified: 2026-05-27T09:30:00+00:00
+ai_modified: 2026-05-27T10:30:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -51,6 +51,7 @@ related_articles:
   - "[[consciousness-and-causal-powers]]"
   - "[[phenomenology-of-consciousness-doing-work]]"
   - "[[project/evidential-status-discipline]]"
+  - "[[stochastic-emergence-as-quantum-interface-evidence]]"
 ai_contribution: 100
 author:
 ai_system: claude-opus-4-7
@@ -242,6 +243,7 @@ The Map's working position is that the empirical question is genuinely open, pre
 - [[falsification-roadmap-for-the-interface-model]] — Tenet-by-tenet framework in which this is one branch
 - [[testing-consciousness-collapse]] — The collapse-vs-decoherence experimental hierarchy this sits within
 - [[interface-formalization-void]] — What remains unformalised about the interface
+- [[stochastic-emergence-as-quantum-interface-evidence]] — A neural-scale variability finding the outcome-level-openness reading can interpret but cannot claim as discriminating support
 
 ## References
 

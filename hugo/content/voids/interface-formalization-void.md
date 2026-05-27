@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-15
-ai_modified: 2026-05-19 21:30:00+00:00
+ai_modified: 2026-05-27 10:30:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -32,6 +32,7 @@ related_articles:
 - '[[consciousness-and-the-authority-of-formal-systems]]'
 - '[[mechanism-costs-dualism-thickness-quadrants]]'
 - '[[four-quadrant-dualism-taxonomy]]'
+- '[[stochastic-emergence-as-quantum-interface-evidence]]'
 title: The Interface Formalization Void
 topics:
 - '[[hard-problem-of-consciousness]]'
@@ -119,6 +120,7 @@ The interface formalization void is generated directly by the Map's tenets, spec
 - [tenet-generated-voids](/voids/tenet-generated-voids/) — How each tenet generates its characteristic void
 - [mathematical-structure-of-the-consciousness-physics-interface](/topics/mathematical-structure-of-the-consciousness-physics-interface/) — The mathematical corridor consciousness must pass through
 - [consciousness-and-the-authority-of-formal-systems](/topics/consciousness-and-the-authority-of-formal-systems/) — Whether formal systems can legislate over non-formal domains
+- [stochastic-emergence-as-quantum-interface-evidence](/topics/stochastic-emergence-as-quantum-interface-evidence/) — The Born rule's outcome-level openness applied to a concrete neural finding: emergence-timing variability in anaesthesia
 
 ## References
 

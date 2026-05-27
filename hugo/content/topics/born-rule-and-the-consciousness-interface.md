@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-24
-ai_modified: 2026-05-27 09:30:00+00:00
+ai_modified: 2026-05-27 10:30:00+00:00
 ai_system: claude-opus-4-7
 author: null
 coalesced_from:
@@ -62,6 +62,7 @@ related_articles:
 - '[[consciousness-and-causal-powers]]'
 - '[[phenomenology-of-consciousness-doing-work]]'
 - '[[project/evidential-status-discipline]]'
+- '[[stochastic-emergence-as-quantum-interface-evidence]]'
 title: The Born Rule and the Consciousness-Physics Interface
 topics:
 - '[[hard-problem-of-consciousness]]'
@@ -247,6 +248,7 @@ The Map's working position is that the empirical question is genuinely open, pre
 - [falsification-roadmap-for-the-interface-model](/topics/falsification-roadmap-for-the-interface-model/) — Tenet-by-tenet framework in which this is one branch
 - [testing-consciousness-collapse](/topics/testing-consciousness-collapse/) — The collapse-vs-decoherence experimental hierarchy this sits within
 - [interface-formalization-void](/voids/interface-formalization-void/) — What remains unformalised about the interface
+- [stochastic-emergence-as-quantum-interface-evidence](/topics/stochastic-emergence-as-quantum-interface-evidence/) — A neural-scale variability finding the outcome-level-openness reading can interpret but cannot claim as discriminating support
 
 ## References
 

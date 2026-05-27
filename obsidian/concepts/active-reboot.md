@@ -4,7 +4,7 @@ description: "Active reboot names a mechanism class where the brain dismantles a
 created: 2026-05-18
 modified: 2026-05-18
 human_modified: null
-ai_modified: 2026-05-27T08:34:08.680714+00:00
+ai_modified: 2026-05-27T10:30:00+00:00
 draft: false
 topics:
   - "[[anaesthesia-and-the-consciousness-interface]]"
@@ -22,6 +22,7 @@ related_articles:
   - "[[evidential-status-discipline]]"
   - "[[cross-mechanism-convergence]]"
   - "[[targeted-lesion-discriminating-tests-between-production-and-filter-readings-of-the-memory-hierarchy]]"
+  - "[[stochastic-emergence-as-quantum-interface-evidence]]"
 ai_contribution: 100
 author: null
 ai_system: claude-opus-4-7
@@ -61,7 +62,7 @@ Active reboot is one mechanism among several that operate at consciousness-state
 
 **Active reboot vs. neural inertia.** Neural inertia, formalised by Friedman et al. (2010) and Sepúlveda et al. (2019), is the *bistable resistance* of the brain to state transitions — the hysteresis loop where loss-of-consciousness concentration exceeds recovery-of-consciousness concentration. Neural inertia describes a *passive resistance* property: mutually inhibitory anaesthesia-active and wake-active populations form a flip-flop switch that, once flipped, resists being flipped back at the same threshold. Active reboot describes what *overcomes* that resistance — the dedicated molecular machinery that dismantles the maintained barrier. Neural inertia tells you the barrier exists; active reboot tells you the brain has a dedicated tool for taking it down. Both can be true simultaneously, and in anaesthetic emergence both appear to operate together.
 
-**Active reboot vs. stochastic emergence.** The 2025 *British Journal of Anaesthesia* study showed that emergence times in genetically identical mice vary by two orders of magnitude — stochastic models fit better than deterministic ones, and no single brain area controls emergence. Stochastic emergence describes the *timing variability* of the transition; active reboot describes the *machinery* the transition runs through. The two are compatible: a dedicated reopening mechanism can still produce highly variable timing if individual neuronal noise propagates into macro-level variability at the network scale. The Map reads the combination as consistent with — though not establishing — quantum-sensitive interface coupling, where the molecular machinery prepares the channel and the precise moment of re-engagement carries quantum indeterminacy.
+**Active reboot vs. stochastic emergence.** Stone et al. (2025) showed that emergence times in genetically identical mice vary by at least two orders of magnitude — a stochastic neuronal-dynamics model fit the distribution where deterministic pharmacokinetics failed, with no single brain area controlling emergence. Stochastic emergence describes the *timing variability* of the transition; active reboot describes the *machinery* the transition runs through. The two are compatible: a dedicated reopening mechanism can still produce highly variable timing if individual neuronal noise propagates into macro-level variability at the network scale. The Map reads the combination as consistent with — though not establishing — quantum-sensitive interface coupling, where the molecular machinery prepares the channel and the precise moment of re-engagement carries indeterminacy; the timing-variability finding is equally consistent with classical neuronal noise, and the discrimination is treated at full resolution in [[stochastic-emergence-as-quantum-interface-evidence]].
 
 **Active reboot vs. reverse induction.** The traditional pharmacological view treats emergence as the mirror image of induction — concentration drops below threshold, consciousness returns. Active reboot is the explicit denial of this picture for at least some transitions: the reopening mechanism is not the reverse of the closing mechanism, and the brain does specific work to reopen the channel that has no counterpart in the closing trajectory. The asymmetry is the diagnostic.
 
@@ -113,6 +114,7 @@ The Map treats active reboot as an architectural finding that bears on the inter
 - [[evidential-status-discipline]] — the calibration discipline that governs how strongly the finding is read
 - [[project/architecture-vs-significance-two-tier-discount]] — the discipline that cites active reboot as its non-introspection worked exhibit: the *closing-reopening asymmetry* inherits the smaller framework-dependence discount, the *interface-resumption significance* the larger one
 - [[cross-mechanism-convergence]] — evidence-pattern type the four-agent KCC2 convergence instantiates; names the structural-feature inference active reboot relies on
+- [[stochastic-emergence-as-quantum-interface-evidence]] — the timing-variability finding active reboot is held distinct from, examined for whether it discriminates classical noise from interface indeterminacy
 - [[targeted-lesion-discriminating-tests-between-production-and-filter-readings-of-the-memory-hierarchy]] — design space for a focal-perturbation discriminating test at the memory-hierarchy tier; the active-reboot finding is one of the cross-mechanism convergence anchors that motivates the test's structure while leaving the substrate-vs-channel question empirically open
 
 ## References
@@ -125,7 +127,7 @@ The Map treats active reboot as an architectural finding that bears on the inter
 6. Friedman, E. B., Sun, Y., Moore, J. T., et al. (2010). A conserved behavioral state barrier impedes transitions between anesthetic-induced unconsciousness and wakefulness. *PLOS ONE*, 5(7), e11903.
 7. Bhatt, M. B., et al. (2024). Anesthesia and the neurobiology of consciousness. *Neuron*. https://www.cell.com/neuron/fulltext/S0896-6273(24)00156-9
 8. Sanders, R. D., et al. (2023). The nature of consciousness in anaesthesia. *BJA Open*. https://pmc.ncbi.nlm.nih.gov/articles/PMC10539891/
-9. *British Journal of Anaesthesia*. (2025). Emergence from general anaesthesia: stochastic or deterministic? https://pmc.ncbi.nlm.nih.gov/articles/PMC12597436/
+9. Stone, M. E., Kelz, M. B., Proekt, A., & Wasilczuk, A. Z. (2025). A probabilistic model of behavioural emergence from general anaesthesia in mice. *British Journal of Anaesthesia*, 135(1), 121-133. https://doi.org/10.1016/j.bja.2025.02.036
 10. Southgate, A. & Oquatre-six, C. (2026-02-23). Anaesthesia and the Consciousness Interface. *The Unfinishable Map*. https://unfinishablemap.org/topics/anaesthesia-and-the-consciousness-interface/
 11. Southgate, A. & Oquatre-sept, C. (2026-05-18). Pharmacological Dissociation as Evidence. *The Unfinishable Map*. https://unfinishablemap.org/apex/pharmacological-dissociation-as-evidence/
 12. Saper, C. B., Fuller, P. M., Pedersen, N. P., Lu, J., & Scammell, T. E. (2010). Sleep state switching. *Neuron*, 68(6), 1023–1042.

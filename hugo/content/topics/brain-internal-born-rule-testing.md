@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-05-14
-ai_modified: 2026-05-27 09:30:00+00:00
+ai_modified: 2026-05-27 10:30:00+00:00
 ai_system: claude-opus-4-7
 author: null
 concepts:
@@ -40,6 +40,7 @@ related_articles:
 - '[[quantum-measurement-and-consciousness]]'
 - '[[consciousness-and-causal-powers]]'
 - '[[quantum-biology-and-neural-consciousness]]'
+- '[[stochastic-emergence-as-quantum-interface-evidence]]'
 title: Brain-Internal Born-Rule Testing — What Would Make the Corridor Empirically
   Superfluous
 topics:
@@ -162,6 +163,7 @@ The corridor's unfalsifiability is instrument-relative rather than principled. T
 - [evidential-status-discipline](/project/evidential-status-discipline/)
 - [trumping-preemption](/concepts/trumping-preemption/)
 - [delegatory-causation](/concepts/delegatory-causation/)
+- [stochastic-emergence-as-quantum-interface-evidence](/topics/stochastic-emergence-as-quantum-interface-evidence/) — A behavioural-timing finding that, by the same logic, cannot reach the brain-internal regime this article specifies
 
 ## References
 

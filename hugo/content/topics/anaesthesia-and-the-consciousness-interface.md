@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-23
-ai_modified: 2026-05-19 20:45:00+00:00
+ai_modified: 2026-05-27 10:30:00+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -45,6 +45,7 @@ related_articles:
 - '[[consciousness-and-causal-powers]]'
 - '[[anesthesia-void]]'
 - '[[targeted-lesion-discriminating-tests-between-production-and-filter-readings-of-the-memory-hierarchy]]'
+- '[[stochastic-emergence-as-quantum-interface-evidence]]'
 title: Anaesthesia and the Consciousness Interface
 topics:
 - '[[hard-problem-of-consciousness]]'
@@ -115,9 +116,9 @@ Recovery converges with the four-component interface model. Disconnected conscio
 
 ### Stochastic Emergence
 
-A 2025 *British Journal of Anaesthesia* study found genetically identical mice under identical conditions showed emergence times varying by two orders of magnitude. Deterministic pharmacokinetic models failed; stochastic neural dynamics models fit significantly better. No single brain area controlled emergence — recovery depended on network-level dynamics where individual neuronal noise propagated into macro-level variability. Consciousness does not switch on at a single site but reconstitutes through distributed network effects.
+Stone et al. (2025) found genetically identical mice under identical conditions showed emergence times varying by at least two orders of magnitude, with no consistent inter-individual differences — within-animal variability matched between-animal variability. Deterministic pharmacokinetic models failed; a stochastic neuronal-dynamics model fit the distribution. No single brain area controlled emergence — recovery depended on network-level dynamics where individual neuronal noise propagated into macro-level variability. Consciousness reconstitutes through distributed network effects rather than switching on at a single site.
 
-If consciousness were produced by an identical neural substrate, why should the product appear at wildly different times? The stochastic character resonates with the [minimal quantum interaction](/tenets/#minimal-quantum-interaction) tenet: if consciousness interfaces through quantum-sensitive molecular systems, restoration timing would inherit quantum indeterminacy. Classical stochastic models can also explain the variability, but the data are more naturally accommodated by frameworks including genuine indeterminacy at the interface.
+A stochastic model fitting the data establishes that emergence timing is not deterministically fixed by macroscopic pharmacokinetics; it is silent on whether the underlying randomness is classical thermal noise or genuine indeterminacy at the interface. Both readings predict the observed variability, and the study contains no measurement that separates them. The quantum-interface reading — that if consciousness interfaces through quantum-sensitive molecular systems, re-engagement timing could inherit genuine indeterminacy — is a live hypothesis the data do not decide, treated at full resolution in [stochastic-emergence-as-quantum-interface-evidence](/topics/stochastic-emergence-as-quantum-interface-evidence/).
 
 ### The Bootstrapping Problem
 
@@ -141,7 +142,7 @@ Anaesthetic pharmacology connects to each of the Map's [tenets](/tenets/) in con
 
 **[Dualism](/tenets/#dualism)**: Evidence comes from two directions. First, consciousness *persists or intensifies* during severe neural disruption — terminal lucidity, cardiac arrest gamma surges, vivid ketamine experiences despite complete behavioural unresponsiveness; a system losing generative capacity should not produce more consciousness. Second, the hysteresis of neural inertia: identical neural activity levels correspond to different consciousness states depending on transition direction, suggesting consciousness has its own persistence conditions.
 
-**[Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction)**: Several anaesthetic targets involve conformational changes at scales where thermal noise and quantum uncertainty overlap. Craddock et al. (2015) propose anaesthetics dampen quantum oscillations in tryptophan residues within microtubule quantum channels, impairing π-resonance energy transfer. Hameroff et al. (2025) extend this with delayed luminescence experiments showing anaesthetics measurably alter quantum properties of microtubules — contested but suggestive. If anaesthetics work partly by disrupting quantum processes that classical receptor pharmacology does not fully explain, the selectivity of anaesthetics for consciousness gains additional explanation. The stochasticity of emergence timing in genetically identical organisms adds further support.
+**[Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction)**: Several anaesthetic targets involve conformational changes at scales where thermal noise and quantum uncertainty overlap. Craddock et al. (2015) propose anaesthetics dampen quantum oscillations in tryptophan residues within microtubule quantum channels, impairing π-resonance energy transfer. Hameroff et al. (2025) extend this with delayed luminescence experiments showing anaesthetics measurably alter quantum properties of microtubules — contested but suggestive. If anaesthetics work partly by disrupting quantum processes that classical receptor pharmacology does not fully explain, the selectivity of anaesthetics for consciousness gains additional explanation. The stochasticity of emergence timing in genetically identical organisms is consistent with this picture, though it is equally consistent with classical neuronal noise and does not by itself support the quantum reading — see [stochastic-emergence-as-quantum-interface-evidence](/topics/stochastic-emergence-as-quantum-interface-evidence/).
 
 **[Bidirectional Interaction](/tenets/#bidirectional-interaction)**: The active reboot — Hu et al.'s KCC2 disinhibition pathway as the most concrete molecular instance — suggests causal traffic in both directions. The neural infrastructure dismantles the inhibition that anaesthesia installed before behavioural responsiveness returns: the interface reading takes this as the brain preparing a channel for consciousness to re-enter. Under ketamine, consciousness actively generates elaborate internal experience despite environmental severance, reorganising around whichever channels remain open.
 
@@ -163,6 +164,7 @@ Anaesthetic pharmacology connects to each of the Map's [tenets](/tenets/) in con
 - [anesthesia-void](/voids/anesthesia-void/) — The first-person epistemic structure of the anaesthetic interval
 - [targeted-lesion-discriminating-tests-between-production-and-filter-readings-of-the-memory-hierarchy](/topics/targeted-lesion-discriminating-tests-between-production-and-filter-readings-of-the-memory-hierarchy/) — The pharmacological cross-state evidence anaesthesia supplies sits inside the cross-mechanism convergence that motivates the memory-hierarchy discriminating-test design space; the test specifies what a focal perturbation would have to deliver to separate production from filter readings on the architecture anaesthesia's three-states picture instantiates
 - [quantum-biology-and-neural-consciousness](/topics/quantum-biology-and-neural-consciousness/) — Quantum biology, neural evidence, and the consciousness debate
+- [stochastic-emergence-as-quantum-interface-evidence](/topics/stochastic-emergence-as-quantum-interface-evidence/) — The two-orders-of-magnitude emergence-variability finding at full resolution: classical-stochastic vs quantum-indeterministic readings
 - [pain-consciousness-and-causal-power](/topics/pain-consciousness-and-causal-power/) — Pain's resistance to reduction and the test case of pain asymbolia
 
 ## References
@@ -189,4 +191,4 @@ Anaesthetic pharmacology connects to each of the Map's [tenets](/tenets/) in con
 1. Hu, J. J., Liu, Y., Yao, H., et al. (2023). Emergence of consciousness from anesthesia through ubiquitin degradation of KCC2 in the ventral posteromedial nucleus of the thalamus. *Nature Neuroscience*, 26(5), 751-764.
 1. Craddock, T. J. A., et al. (2015). Anesthetics act in quantum channels in brain microtubules to prevent consciousness. *Current Topics in Medicinal Chemistry*, 15(6), 523-533.
 1. Hameroff, S., et al. (2025). A quantum microtubule substrate of consciousness is experimentally supported and solves the binding and epiphenomenalism problems. *Neuroscience of Consciousness*, 2025(1), niaf011.
-1. (2025). Emergence from general anaesthesia: stochastic or deterministic? *British Journal of Anaesthesia*.
+1. Stone, M. E., Kelz, M. B., Proekt, A., & Wasilczuk, A. Z. (2025). A probabilistic model of behavioural emergence from general anaesthesia in mice. *British Journal of Anaesthesia*, 135(1), 121-133. https://doi.org/10.1016/j.bja.2025.02.036

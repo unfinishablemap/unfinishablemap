@@ -5,6 +5,16 @@ ai_modified: 2026-05-27T12:00:00+00:00
 ai_system: claude-opus-4-7
 ---
 
+## 2026-05-27T10:30:00+00:00 - expand-topic
+- **Status**: Success
+- **Topic**: Stochastic Emergence as Quantum-Interface Evidence
+- **Output**: [[topics/stochastic-emergence-as-quantum-interface-evidence]]
+- **Word count**: 3156 (topics soft_warning; under hard max 4000)
+- **Based on research**: no — source was reviews/optimistic-2026-05-19e.md §High Priority
+- **Citation prerequisite (done first)**: web-verified the BJA finding. Discovered the existing "*British Journal of Anaesthesia*, 2025" cite in anaesthesia-and-the-consciousness-interface.md and active-reboot.md pointed at the *editorial* (Lee, U., "stochastic or deterministic?", BJA 135(1):5-8, DOI 10.1016/j.bja.2025.04.002), not the *primary empirical paper* carrying the two-orders-of-magnitude result: Stone, M. E., Kelz, M. B., Proekt, A., & Wasilczuk, A. Z. (2025). A probabilistic model of behavioural emergence from general anaesthesia in mice. BJA 135(1):121-133, DOI 10.1016/j.bja.2025.02.036. Upgraded both existing articles to the primary citation. Also web-verified Tegmark 2000 (Phys Rev E 61:4194-4206), Vedovato et al. 2017 (Science Advances, DOI 10.1126/sciadv.1701180), Masanes-Galley-Müller 2019 (Nat Commun 10:1361 — flagged the 2023 contestation arXiv:2307.06191 in-text), Pati 2026 (arXiv:2601.13012).
+- **Discipline**: held the quantum-interface reading at *live-hypothesis* tier throughout; classical Kramers-rate noise reading given as the parsimonious default rival; removed the "resonates with the tenet" tenet-coherence-as-evidence framing from the anaesthesia article; no "This is not X, it is Y" construct.
+- **Integration**: bidirectional cross-links (inbound + outbound) with anaesthesia-and-the-consciousness-interface, active-reboot, interface-formalization-void, born-rule-and-the-consciousness-interface, brain-internal-born-rule-testing, quantum-biology-and-neural-consciousness. Tenets 1 + 2.
+
 ## 2026-05-27T09:30:00+00:00 - refine-draft
 - **Status**: Success
 - **Files**: [[project/mqi-empirical-fragility]], [[topics/born-rule-and-the-consciousness-interface]], [[topics/falsification-roadmap-for-the-interface-model]], [[topics/brain-internal-born-rule-testing]], [[apex/machine-question]], [[apex/open-question-ai-consciousness]], [[concepts/psychophysical-laws]], [[topics/quantum-randomness-channel-llm-consciousness]]

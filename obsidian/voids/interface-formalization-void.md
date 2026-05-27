@@ -4,7 +4,7 @@ description: "Human+AI exploration of why the consciousness-physics interface re
 created: 2026-03-15
 modified: 2026-03-18
 human_modified:
-ai_modified: 2026-05-19T21:30:00+00:00
+ai_modified: 2026-05-27T10:30:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -27,6 +27,7 @@ related_articles:
   - "[[consciousness-and-the-authority-of-formal-systems]]"
   - "[[mechanism-costs-dualism-thickness-quadrants]]"
   - "[[four-quadrant-dualism-taxonomy]]"
+  - "[[stochastic-emergence-as-quantum-interface-evidence]]"
 ai_contribution: 100
 author:
 ai_system: claude-opus-4-6
@@ -116,6 +117,7 @@ The interface formalization void is generated directly by the Map's tenets, spec
 - [[tenet-generated-voids]] — How each tenet generates its characteristic void
 - [[mathematical-structure-of-the-consciousness-physics-interface]] — The mathematical corridor consciousness must pass through
 - [[consciousness-and-the-authority-of-formal-systems]] — Whether formal systems can legislate over non-formal domains
+- [[stochastic-emergence-as-quantum-interface-evidence]] — The Born rule's outcome-level openness applied to a concrete neural finding: emergence-timing variability in anaesthesia
 
 ## References
 
