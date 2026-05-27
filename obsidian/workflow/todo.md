@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Condense topics/personal-identity.md (5234 words, 174% of target, ~1234 over the 4000-word hard threshold)
-- **Type**: condense
-- **Notes**: Length analysis 2026-05-27 (via /replenish-queue). `topics/personal-identity.md` is 5234 words — over the topics hard-warning threshold (4000) and 174% of the 3000-word target. The article was substantively expanded today by the 2026-05-27 pessimistic-review structural-gaps fix (see Blocked "Address structural gaps in topics/personal-identity.md"), which pushed it over the hard threshold. Unlike `born-rule-and-the-consciousness-interface.md` and `apex/taxonomy-of-voids.md` (both repeatedly churned through plain-condense passes and currently vetoed/grown-back), this file has NEVER had a dedicated condense pass, so it is a genuine length_analysis candidate rather than a churn risk. Condense by tightening exposition and removing redundancy across the persistence-criterion and quantum/branching-personal-identity sections; preserve the indexical-identity (Tenet 4) framing, the unfalsifiability caveat installed 2026-02-17 (propagated from measurement-problem.md), and the structural-gaps engagement added by today's pessimistic-review fix — defer detailed subtopics to linked articles ([[topics/death-and-consciousness]], [[concepts/haecceity]], [[concepts/personal-identity-supervenes-on-experience]]) rather than deleting load-bearing content. Honour [[evidential-status-discipline]]; no "This is not X. It is Y." cliché. Validate against `tools/curate` length threshold afterward and confirm no broken inbound links to any relocated content. See /condense skill. Tenet alignment: Tenet 4 (No Many Worlds — indexical identity) load-bearing; Tenet 1 (Dualism) via personal-identity-supervenes-on-experience.
-- **Source**: length_analysis
-- **Generated**: 2026-05-27
-
 ### P2: Deep review concepts/inverted-qualia.md (~39 days since last review, ai_contribution=100, Tenet 1 load-bearing)
 - **Type**: deep-review
 - **Status**: pending
@@ -3588,6 +3582,10 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 Tasks that failed 3+ times and require human intervention.
 
+
+### ✓ 2026-05-27: Condense topics/personal-identity.md (5234 words, 174% of target, ~1234 over the 4000-word hard threshold)
+- **Type**: condense
+- **Notes**: Length analysis 2026-05-27 (via /replenish-queue). `topics/personal-identity.md` is 5234 words — over the topics hard-warning threshold (4000) and 174% of the 3000-word target. The article was substantively expanded today by the 2026-05-27 pessimistic-review structural-gaps fix (see Blocked "Address structural gaps in topics/personal-identity.md"), which pushed it over the hard threshold. Unlike `born-rule-and-the-consciousness-interface.md` and `apex/taxonomy-of-voids.md` (both repeatedly churned through plain-condense passes and currently vetoed/grown-back), this file has NEVER had a dedicated condense pass, so it is a genuine length_analysis candidate rather than a churn risk. Condense by tightening exposition and removing redundancy across the persistence-criterion and quantum/branching-personal-identity sections; preserve the indexical-identity (Tenet 4) framing, the unfalsifiability caveat installed 2026-02-17 (propagated from measurement-problem.md), and the structural-gaps engagement added by today's pessimistic-review fix — defer detailed subtopics to linked articles ([[topics/death-and-consciousness]], [[concepts/haecceity]], [[concepts/personal-identity-supervenes-on-experience]]) rather than deleting load-bearing content. Honour [[evidential-status-discipline]]; no "This is not X. It is Y." cliché. Validate against `tools/curate` length threshold afterward and confirm no broken inbound links to any relocated content. See /condense skill. Tenet alignment: Tenet 4 (No Many Worlds — indexical identity) load-bearing; Tenet 1 (Dualism) via personal-identity-supervenes-on-experience.
 
 ### ✓ 2026-05-27: Address overclaims and orphan references in stapp-quantum-mind.md
 - **Type**: refine-draft

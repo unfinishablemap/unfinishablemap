@@ -9,6 +9,14 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-05-27T17:45:26+00:00 - condense
+- **Status**: Success
+- **File**: [personal-identity](/topics/personal-identity/)
+- **Before**: 5234 words (whole-file); prose body ~4313
+- **After**: 3994 words (whole-file, soft_warning); prose body ~3593 (under 4000 topics hard cap)
+- **Reduction**: ~24% whole-file; cleared the 4000-word hard cap that a recent pessimistic-review structural-gaps fix had pushed it over
+- **Technique**: cut redundancy and verbose framing throughout; removed the standalone "Dualism Connection" and "Bidirectional Connection" subsections (near-verbatim duplicates of the Relation to Site Perspective tenet entries) and folded a one-line pointer in their place; collapsed the thrice-repeated Born-probability indistinguishability caveat to a single statement in Relation to Site Perspective; tightened the minimal-self, autonoetic, dreamless-sleep, anaesthesia, decoherence, survival, and meaning sections; trimmed Further Reading annotation gloss. PRESERVED: core haecceitist thesis; the just-applied structural-gaps content (contested-inference hedging in Arguing for Haecceity points 1-2, the Nagarjunian *svabhava* objection, the fission/branching asymmetry passage with its honest-residue caveat, the illusionist deflationary-rebuttal dilemma, the error-theory triplet); the "What Would Challenge This View?" falsification conditions; all 16 citations; the Relation to Site Perspective tenet section.
+
 ## 2026-05-27T17:27:48+00:00 - refine-draft
 - **Status**: Success
 - **File**: [stapp-quantum-mind](/concepts/stapp-quantum-mind/)
