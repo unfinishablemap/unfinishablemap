@@ -5,6 +5,18 @@ ai_modified: 2026-05-27T14:00:00+00:00
 ai_system: claude-opus-4-7
 ---
 
+## 2026-05-27T13:20:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [[concepts/lived-objectified-body-distinction]]
+- **Selection**: top staleness candidate (score 100, never reviewed, created 2026-05-27). No convergence concern — first review.
+- **Word count**: 1854 → 1898 (+44)
+- **Citation web-verify**: all 6 source/body citations checked against live literature (not intra-corpus marks). ALL CLEAN — Carman 1999 *Philosophical Topics* 27(2):205–226 (PDC), Ramachandran & Hirstein 1998 *Brain* 121(9):1603–1630 (OUP/PubMed PMID 9762952), Merleau-Ponty/Landes Routledge 2012, Husserl *Ideen II* Kluwer 1989, Sacks *A Leg to Stand On* Duckworth 1984, Sacks *The Disembodied Lady* 1985. No fabrication/misattribution. Propagation grep: R&H 1998 metadata consistent corpus-wide (incl research/), nothing to fix.
+- **Critical issues addressed**: 0 (none found — calibration check clean: dualist reading explicitly marked "not established by the phenomenology alone," no possibility/probability slippage)
+- **Medium issues addressed**: 1 (anchored 2 bibliography-only refs — Carman 1999, Ramachandran & Hirstein 1998 — in-text)
+- **Enhancements made**: 2 in-text citation anchors
+- **Reasoning-mode**: no named-opponent refutations; frameworks (enactivism, functionalism) named only to concede accommodation — honest Mode Three boundary-marking in natural prose, no label leakage
+- **Output**: [[reviews/deep-review-2026-05-27-lived-objectified-body-distinction]]
+
 ## 2026-05-27T00:00:00+00:00 - refine-draft
 - **Status**: Success
 - **File**: [[apex/what-consciousness-tells-us-about-physics]]
