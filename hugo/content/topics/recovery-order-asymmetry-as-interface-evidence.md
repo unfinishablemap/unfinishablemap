@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-05-27
-ai_modified: 2026-05-27 14:41:47+00:00
+ai_modified: 2026-05-27 14:58:22+00:00
 ai_system: claude-opus-4-7
 author: null
 concepts:
@@ -19,6 +19,7 @@ description: A human+AI inquiry into why the order in which consciousness degrad
 draft: false
 human_modified: null
 last_curated: null
+last_deep_review: 2026-05-27 14:58:22+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -39,7 +40,7 @@ topics:
 - '[[consciousness-and-memory]]'
 ---
 
-When consciousness is disrupted, the channels of memory and awareness do not fail together — they fail in a fixed order, with the [autonoetic / episodic](/concepts/anoetic-noetic-autonoetic-consciousness/) channel most vulnerable and the procedural / anoetic channel most preserved. The [memory-system vulnerability hierarchy](/topics/memory-system-vulnerability-hierarchies-as-interface-evidence/) develops that ordering as interface evidence. This article develops a feature of the hierarchy that the ordering alone does not capture: the order in which a system degrades is often *not* the mirror image of the order in which it recovers. Autonoetic consciousness is the last channel to return when a deeply anaesthetised brain emerges, yet it is among the first and most prominent channels to return in terminal lucidity — and the difference is not random. The Unfinishable Map reads this *direction-dependence* — recovery-order asymmetry — as a distinct evidence type: it is the *direction* of interface change, not only the substrate state, that the signature tracks.
+When consciousness is disrupted, the channels of memory and awareness do not fail together — they fail in a fixed order, with the [autonoetic / episodic](/concepts/anoetic-noetic-autonoetic-consciousness/) channel (Tulving 1985) most vulnerable and the procedural / anoetic channel most preserved. The [memory-system vulnerability hierarchy](/topics/memory-system-vulnerability-hierarchies-as-interface-evidence/) develops that ordering as interface evidence. This article develops a feature of the hierarchy that the ordering alone does not capture: the order in which a system degrades is often *not* the mirror image of the order in which it recovers. Autonoetic consciousness is the last channel to return when a deeply anaesthetised brain emerges, yet it is among the first and most prominent channels to return in terminal lucidity — and the difference is not random. The Unfinishable Map reads this *direction-dependence* — recovery-order asymmetry — as a distinct evidence type: it is the *direction* of interface change, not only the substrate state, that the signature tracks.
 
 The central claim is calibrated narrowly, in keeping with [the evidential-status discipline](/project/evidential-status-discipline/). Recovery-order asymmetry *constrains* production accounts; it does not *establish* the filter reading. A substrate-symmetric production account — one on which the same neural substrate both generates and recovers each channel — predicts, in its simplest form, that recovery should retrace degradation: the last channel to fail should be the first to return, because both orderings are read off the same substrate-vulnerability profile. Asymmetry violates that simplest expectation. Production accounts can recover the asymmetry, but only by adding auxiliary assumptions (direction-specific mechanisms, hysteresis terms, dying-process-specific neuromodulation). The article's claim is that asymmetry raises the cost and specificity demanded of production accounts, not that it rules them out. The filter reading appears to derive a direction-sensitive signature from its core architecture, where production accounts must add one — though the asymmetry data are underdetermined by the evidence on this point, since a production account willing to pay the per-case cost can accommodate every signature the cluster contains.
 

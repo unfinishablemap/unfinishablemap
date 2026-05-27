@@ -5,6 +5,20 @@ ai_modified: 2026-05-27T12:00:00+00:00
 ai_system: claude-opus-4-7
 ---
 
+## 2026-05-27T15:30:00+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[topics/meaning-of-life]]
+- **Scope**: Citation hygiene + reference refresh only (convergent outer review 2026-05-27, chatgpt + claude). Argument structure untouched per task note (Metz engagement-deepening is a separate task).
+- **Changes**:
+  - Fixed Tallis: was "*Philosophy Now*, 159" → corrected to full column title "Tallis in Wonderland: The Illusion of Illusionism," *Philosophy Now* 161 (April/May 2024), pp. 58–59 (web-verified via philosophynow.org + PDC).
+  - Replaced fabricated-looking "Landau, I. (2025). The Implications of Cosmic Meaninglessness. *Journal of Philosophy of Life*, 15(1)" (could not be verified) with the verifiable Landau, I. (2023), "Can Lives Be Seen as Meaningful Within the Cosmic Context?", *Philosophia* 51, 2085–2102, doi:10.1007/s11406-023-00660-x. Body paraphrase already accurate to the 2023 argument; no body edit needed.
+  - Added 6 missing in-body references (all web-verified): Craig (*Reasonable Faith* ch. 2, Crossway), Swinburne (*Is There a God?*, OUP 1996), Frankfurt (*The Importance of What We Care About*, Cambridge UP 1988), Taylor (*Good and Evil*, Macmillan 1970), Parfit (*Reasons and Persons*, OUP 1984), Sartre (*Being and Nothingness*, Barnes trans., 1956).
+  - Added 3 post-2013 Metz works (all web-verified): *God, Soul and the Meaning of Life* (Cambridge UP 2019); "The Concept of Life's Meaning" in Landau (ed.), *The Oxford Handbook of Meaning in Life* (OUP 2022, pp. 27–42); SEP "The Meaning of Life" (Spring 2021 substantive revision).
+  - Re-alphabetized References list.
+- **Verified**: Tallis (161/58–59), Landau 2023 (Philosophia 51/2085–2102/DOI), Craig (Reasonable Faith ch.2), Swinburne (Is There a God? OUP 1996), Frankfurt (1988 Cambridge), Taylor (Good and Evil Macmillan 1970), Parfit (Reasons and Persons OUP 1984), Sartre (Being and Nothingness Barnes 1956), Metz 2019/2022/SEP-2021.
+- **Could not verify**: Landau 2025 "Implications of Cosmic Meaninglessness" JPL 15(1) — no record found; removed.
+- **Published**: yes
+
 ## 2026-05-27T14:58:22+00:00 - deep-review
 - **Status**: Success
 - **File**: [[topics/recovery-order-asymmetry-as-interface-evidence]]

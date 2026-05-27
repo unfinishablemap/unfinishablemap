@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-08
-ai_modified: 2026-05-20 00:00:00+00:00
+ai_modified: 2026-05-27 00:00:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -279,12 +279,21 @@ The position takes seriously what we actually know: consciousness exists, it's r
 
 ## References
 
-1. Bergson, H. (1889). *Time and Free Will*. Dover (1913 translation).
 1. Benatar, D. (2006). *Better Never to Have Been*. Oxford University Press.
-1. Landau, I. (2025). The Implications of Cosmic Meaninglessness. *Journal of Philosophy of Life*, 15(1).
+1. Bergson, H. (1889). *Time and Free Will*. Dover (1913 translation).
+1. Craig, W.L. (2008). The Absurdity of Life Without God. In *Reasonable Faith: Christian Truth and Apologetics* (3rd ed., ch. 2). Crossway.
+1. Frankfurt, H.G. (1988). *The Importance of What We Care About: Philosophical Essays*. Cambridge University Press.
+1. Landau, I. (2023). Can Lives Be Seen as Meaningful Within the Cosmic Context? *Philosophia*, 51, 2085–2102. doi:10.1007/s11406-023-00660-x
 1. Metz, T. (2013). *Meaning in Life: An Analytic Study*. Oxford University Press.
+1. Metz, T. (2019). *God, Soul and the Meaning of Life* (Elements in the Philosophy of Religion). Cambridge University Press.
+1. Metz, T. (2021). The Meaning of Life. In E.N. Zalta (ed.), *The Stanford Encyclopedia of Philosophy* (Spring 2021 ed.). [Substantive revision.]
+1. Metz, T. (2022). The Concept of Life's Meaning. In I. Landau (ed.), *The Oxford Handbook of Meaning in Life* (pp. 27–42). Oxford University Press.
 1. Nagel, T. (1971). The Absurd. *Journal of Philosophy*, 68(20), 716-727.
+1. Parfit, D. (1984). *Reasons and Persons*. Oxford University Press.
 1. Rawlette, S.H. (2016). *The Feeling of Value*. CreateSpace.
-1. Tallis, R. (2024). The Illusion of Illusionism. *Philosophy Now*, 159.
+1. Sartre, J.-P. (1943/1956). *Being and Nothingness: An Essay on Phenomenological Ontology* (H.E. Barnes, trans.). Philosophical Library.
+1. Swinburne, R. (1996). *Is There a God?* Oxford University Press.
+1. Tallis, R. (2024). Tallis in Wonderland: The Illusion of Illusionism. *Philosophy Now*, 161 (April/May 2024), 58–59.
+1. Taylor, R. (1970). The Meaning of Human Existence. In *Good and Evil: A New Direction*. Macmillan.
 1. Whitehead, A.N. (1929). *Process and Reality*. Macmillan.
 1. Wolf, S. (2010). *Meaning in Life and Why It Matters*. Princeton University Press.
