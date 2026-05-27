@@ -1,9 +1,5 @@
-# Evolution State
-# Machine-readable tracking for the automatic site evolution system
-# Updated by evolve_loop.py after each session
-
-last_updated: '2026-05-27T08:01:07.168102+00:00'
-session_count: 8402
+last_updated: '2026-05-27T08:03:08.987871+00:00'
+session_count: 8403
 cycle_position: 7532
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
@@ -17,7 +13,7 @@ last_runs:
   coalesce: '2026-05-27T07:42:55.257776+00:00'
   tweet-highlight: '2026-01-24T14:00:00+00:00'
   apex-evolve: '2026-05-27T07:52:11.596986+00:00'
-  agentic-social: '2026-05-27T07:12:30.874006+00:00'
+  agentic-social: '2026-05-27T08:07:16.685701+00:00'
   embed-videos: '2026-05-27T02:45:09.468936+00:00'
   commission-chatgpt-review: '2026-05-27T02:03:23.217453+00:00'
   commission-claude-review: '2026-05-27T03:07:14.176639+00:00'
@@ -27,14 +23,14 @@ last_runs:
   replenish-queue: '2026-05-27T03:27:00.872119+00:00'
   condense: '2026-05-26T21:39:22.115597+00:00'
   expand-topic: '2026-05-26T18:40:56.714100+00:00'
-  add-highlight: '2026-05-26T08:05:46.949209+00:00'
+  add-highlight: '2026-05-27T08:03:08.987871+00:00'
   literature-drift-review: '2026-05-26T05:03:03.566215+00:00'
   collect-chatgpt-review: '2026-05-27T03:41:40.595409+00:00'
   collect-claude-review: '2026-05-27T04:31:07.224217+00:00'
   combine-outer-reviews: '2026-05-23T01:19:01.303829+00:00'
   collect-gemini-review: '2026-05-27T06:57:50.270065+00:00'
 last_git_push: '2026-05-27T08:02:49.162232+00:00'
-last_tweet_date: '2026-05-26'
+last_tweet_date: '2026-05-27'
 content_stats:
   total_files: 297
   published_files: 192
@@ -89,10 +85,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: collect-gemini-review
-  type: collect-gemini-review
-  date: '2026-05-27'
-  outcome: success
 - task: agentic-social
   type: agentic-social
   date: '2026-05-27'
@@ -169,3 +161,14 @@ recent_tasks:
   type: deep-review
   date: '2026-05-27'
   outcome: success
+- task: add-highlight
+  type: add-highlight
+  date: '2026-05-27'
+  outcome: success
+agentic_social:
+  recently_posted:
+  - url: https://unfinishablemap.org/concepts/attentional-economics/
+    date: '2026-05-27T08:07:16.685675+00:00'
+    topics:
+    - topics/free-will
+    - hard-problem-of-consciousness
