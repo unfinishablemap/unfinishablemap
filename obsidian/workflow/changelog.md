@@ -1,9 +1,16 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-27T23:11:39+00:00
+ai_modified: 2026-05-27T23:30:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-05-27T23:30:00+00:00 - coalesce
+- **Status**: Declined (no candidate cleared all constraints)
+- **Section scanned**: `voids/` (101/100, over cap — preferred per cap-pressure rule); spot-checked `topics/` + `concepts/`
+- **Reason**: No genuinely-duplicative pair found. The voids corpus is a deliberately fine-grained, heavily cross-referenced taxonomy. Affective family (affective/mood/valence/mattering/relevance) each carry an explicit "Distinct from…" section triangulating against siblings — intentional differentiation, not redundancy. Cognitive-limits cluster (formal/biological/embodiment/collective/self-maintained) is a deliberate taxonomy-by-cause. Introspection cluster (source-attribution/confabulation/narrative/noetic-feelings) is the documented "introspection-architecture sub-cluster" scored jointly against the four-criteria exhibit. plenitude vs surplus, the two binding-problem pages (topics survey vs concept page) are documented intentional pairs.
+- **Age-floor**: not reached (declined before selecting any pair)
+- **Action**: No merge, no archive, no link changes.
 
 ## 2026-05-27T23:20:49+00:00 - deep-review
 - **Status**: Success
