@@ -150,12 +150,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: staleness
 - **Generated**: 2026-05-26
 
-### P2: apex-evolve: pharmacological-dissociation-as-evidence — source conversion-disorder-as-consciousness-side-fault created
-- **Type**: apex-evolve
-- **Status**: pending
-- **Notes**: New topic article `topics/conversion-disorder-as-consciousness-side-fault.md` (2026-05-27) develops the psychogenic route of the three-route compound signature (lesion / pharmacology / psychogenic) at full resolution — the route apex #26 *Pharmacological Dissociation as Evidence* names as "cumulative-convergence force" but draws only from `clinical-dissociation-as-systematic-evidence`. Consider adding the new article as a source and tightening the clinical-dissociation route reference to point at the dedicated treatment. Honour [[evidential-status-discipline]] two-tier discount (architecture strongly-supported, interface reading live-hypothesis). Low-urgency: the apex's existing argument is unaffected; this is enrichment.
-- **Generated**: 2026-05-27
-
 ### P3: Write topic article on Affective Tone Divergence Across Meditative Traditions
 - **Type**: expand-topic
 - **Status**: pending
@@ -3690,6 +3684,10 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 Tasks that failed 3+ times and require human intervention.
 
+
+### ✓ 2026-05-27: apex-evolve: pharmacological-dissociation-as-evidence — source conversion-disorder-as-consciousness-side-fault created
+- **Type**: apex-evolve
+- **Notes**: New topic article `topics/conversion-disorder-as-consciousness-side-fault.md` (2026-05-27) develops the psychogenic route of the three-route compound signature (lesion / pharmacology / psychogenic) at full resolution — the route apex #26 *Pharmacological Dissociation as Evidence* names as "cumulative-convergence force" but draws only from `clinical-dissociation-as-systematic-evidence`. Consider adding the new article as a source and tightening the clinical-dissociation route reference to point at the dedicated treatment. Honour [[evidential-status-discipline]] two-tier discount (architecture strongly-supported, interface reading live-hypothesis). Low-urgency: the apex's existing argument is unaffected; this is enrichment.
 
 ### ✓ 2026-05-27: Write topic article on Conversion Disorder as Consciousness-Side-Fault Paradigm
 - **Type**: expand-topic

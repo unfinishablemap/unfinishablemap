@@ -29,6 +29,7 @@ related_articles:
 - '[[active-reboot]]'
 - '[[falsification-roadmap-for-the-interface-model]]'
 - '[[epistemology-of-convergence-arguments]]'
+- '[[pharmacological-dissociation-as-evidence]]'
 - '[[targeted-lesion-discriminating-tests-between-production-and-filter-readings-of-the-memory-hierarchy]]'
 title: Conversion Disorder as the Consciousness-Side-Fault Paradigm
 topics:
@@ -111,6 +112,7 @@ The Map reads conversion disorder as bearing on two tenets, with the evidential 
 - [clinical-dissociation-as-systematic-evidence](/topics/clinical-dissociation-as-systematic-evidence/) — The broader psychogenic-dissociation exhibit; conversion disorder is its motor-channel subsection developed here at full resolution
 - [neurological-dissociations-as-interface-architecture](/topics/neurological-dissociations-as-interface-architecture/) — The lesion route: alien hand syndrome and the structural disconnection of the same motor channel
 - [anaesthesia-and-the-consciousness-interface](/topics/anaesthesia-and-the-consciousness-interface/) — The pharmacological route: reversible chemical interruption of the interface
+- [pharmacological-dissociation-as-evidence](/apex/pharmacological-dissociation-as-evidence/) — The synthesis that develops the pharmacological route at the methodology grain; situates conversion disorder as the psychogenic sibling in the three-route compound signature
 - [active-reboot](/concepts/active-reboot/) — The dedicated reopening machinery the pharmacological route reveals
 - [epistemology-of-convergence-arguments](/topics/epistemology-of-convergence-arguments/) — Why the three-route compound signature earns the architecture but not the significance
 - [falsification-roadmap-for-the-interface-model](/topics/falsification-roadmap-for-the-interface-model/) — Where the under-anaesthesia discriminator sits among the Map's falsification handles

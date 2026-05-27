@@ -5,6 +5,15 @@ ai_modified: 2026-05-27T12:00:00+00:00
 ai_system: claude-opus-4-7
 ---
 
+## 2026-05-27T11:10:47+00:00 - apex-evolve
+- **Status**: Complete
+- **Article**: [[apex/pharmacological-dissociation-as-evidence]]
+- **Changed sources**: 2 (new [[topics/conversion-disorder-as-consciousness-side-fault]] psychogenic route; [[topics/epistemology-of-convergence-arguments]] new compound-signatures section)
+- **Word count**: ~2950 → ~3170 (within 2500–4000 target)
+- **Integration**: situated the apex's pharmacological route inside the three-route compound signature (structural/pharmacological/psychogenic); bidirectional cross-links to conversion-disorder (psychogenic sibling, NOT a pharmacological instance) and epistemology-of-convergence-arguments (compound-signature formalisation).
+- **Calibration**: two-tier discount enforced — convergence earns the architecture (channels separable); interface reading stays live-hypothesis. No overclaim that three routes vindicate the interface reading.
+- **Review**: [[reviews/apex-evolve-2026-05-27-pharmacological-dissociation-as-evidence]]
+
 ## 2026-05-27T12:00:00+00:00 - expand-topic
 - **Status**: Success
 - **Topic**: Conversion Disorder as the Consciousness-Side-Fault Paradigm
