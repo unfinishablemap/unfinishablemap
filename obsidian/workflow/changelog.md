@@ -1,9 +1,22 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-27T15:53:04+00:00
+ai_modified: 2026-05-27T21:30:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-05-27T21:30:00+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[topics/meaning-of-life]]
+- **Original score**: not re-scored (targeted taxonomic-over-claiming + prior-art-credit fix from outer review 2026-05-27 Claude Opus 4.7, Axis 1 + §4.5; convergent with ChatGPT's over-claiming theme. This is the TAXONOMIC half; the quantum/dependency-box half was landed in the prior 20:15 pass and was not re-edited.)
+- **Changes**:
+  - **"Fifth option" over-claim removed.** Replaced the section-opening claim "The Map suggests a fifth option: meaning grounded in consciousness itself" with the defensible framing: the view is *not* a fifth taxonomic category — read as objective grounding it is a phenomenal-value *implementation* of objective naturalism, distinguished from Wolf's fitting-fulfilment and Metz's fundamentality theory at the value-*bearer* level (value is the qualitative character of conscious experience, not mind-independent attractiveness-facts). The genuine distinctiveness is dualism's ontology, not a taxonomic slot. Added the one honest sense in which it sits outside Metz's map: Metz's taxonomy *excludes* experientialist accounts by stipulation (the experience-machine intuition) rather than refuting them; the Map's is the experientialist account that exclusion leaves standing, on a contested intuition.
+  - **Rawlette credited as source.** Opened "The Map's Position" by stating plainly that the position is Rawlette's metaethics (*The Feeling of Value*, 2016 — phenomenal pleasantness *constitutes* goodness via analytic descriptivism) extended to meaning. Stated the distinguishing move: Rawlette is a hedonistic monist, the Map extends to phenomenal-value *pluralism* grounded in interactionist dualism not physicalism — she need not endorse either move. Noted honestly that her identity claim is lightly engaged in mainstream metaethics (taken up in the hedonistic-utilitarian literature, not reviewed in the major journals), so a live/contested position the Map builds on, not settled territory. Mirrors the credit pattern in [[topics/phenomenal-value-realism]]. Rawlette previously appeared as one supporting citation in "Conscious Experience Has Intrinsic Value"; that sentence's residual identity-premise point was folded into a one-line carried-premise acknowledgment (the nihilist denies the identity, so it is carried openly, not established against the nihilist's own commitments).
+- **Citation**: web-verified Rawlette / *The Feeling of Value* (2016, CreateSpace, foreword by Nagel) — analytic descriptivism, "when we feel pleasure, we feel intrinsic goodness itself", hedonistic monist. Matches sources; no metadata change needed (already in References).
+- **Engagement mode** (changelog-only, not in body): nihilist on the identity premise — Mode Three (framework-boundary: the identity phenomenal-character=intrinsic-value is the premise the nihilist denies; the Map carries it openly as a premise rather than claiming to refute the nihilist on the nihilist's own commitments). Per [[direct-refutation-discipline]] / [[evidential-status-discipline]]; no mode labels in body, natural prose throughout.
+- **Length discipline**: net-NEGATIVE against the binding 4000 prose-body cap (excl. References). Body 3999 → 3998 words; the ~290-word taxonomy/Rawlette addition was fully funded by tightening redundant prose across the Map's-Position region (choice-mattering cluster, the "What Each Claim Rests On" box which triple-covered the same hedges, the tenet recap in Relation to Site Perspective) plus condensing tangential/self-flagged-illustrative sections (Process Philosophy, Contemplative Evidence, Eastern Perspectives) and the illusionism/error-theory/debunking responses. No argument or calibration discipline removed.
+- **Sync**: scripts/sync.py exit 0.
+- **Published**: yes
 
 ## 2026-05-27T16:14:00+00:00 - optimistic-review
 - **Status**: Success

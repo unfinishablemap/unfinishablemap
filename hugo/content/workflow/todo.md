@@ -3581,6 +3581,22 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: optimistic-review (2026-05-26)
 - **Generated**: 2026-05-26
 
+### P3: Write topic article on the wide-channel / thin-pole vacant cell of the channel-width axis
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by /optimistic-review 2026-05-27e §"High Priority". [channel-width-third-axis](/topics/channel-width-third-axis/) §"Where This Axis Points Next" notices that "no canonical position pairs a *wide* channel with *thin* poles" and asks whether that empty region is a contingent literature gap or a structural impossibility ("does a wide channel force at least one pole to thicken?"). This is the channel-width analogue of the two-axis grid's near-empty Q4 — a Map-distinctive structural question not yet anywhere in the corpus. Article should (a) define what a wide-channel / thin-pole position would have to claim (an interface admitting energy-injection or candidate-generation, yet a metaphysically thin mind-pole and/or physical-pole), (b) test whether such a position is coherent or whether a wide channel structurally forces at least one pole to thicken, (c) cross-link [channel-width-third-axis](/topics/channel-width-third-axis/), [four-quadrant-dualism-taxonomy](/topics/four-quadrant-dualism-taxonomy/), [selection-only-channel](/concepts/selection-only-channel/), [mechanism-costs-dualism-thickness-quadrants](/topics/mechanism-costs-dualism-thickness-quadrants/), (d) keep the cartographic-not-adjudicative discipline explicit and honour [evidential-status-discipline](/project/evidential-status-discipline/) (locating an empty cell is not evidence for or against the Map's position). Estimated scope: 2,000–2,600 words; topics/ (~258/270, room available). Tenet alignment: Tenet 1 (Dualism), Tenet 2 (Minimal Quantum Interaction); cartographic.
+- **Review file**: `reviews/optimistic-2026-05-27e.md`
+- **Source**: optimistic-review (2026-05-27)
+- **Generated**: 2026-05-27
+
+### P3: Write concept page on training-contamination as a general AI-consciousness-probe confound
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by /optimistic-review 2026-05-27e §"Medium Priority". [anti-correlation-probes-for-ai-consciousness](/topics/anti-correlation-probes-for-ai-consciousness/) §"Limits and Open Questions" names training-contamination as "the probe's most serious confound": a model trained on text *describing* confabulation / choice-blindness experiments can imitate either the classical-tracking or the inversion pattern "for the wrong reasons." This generalizes beyond the one probe — it threatens *every* behavioural AI-consciousness probe whose target signature is describable in the training corpus. A concept-tier page should (a) state the imitation-vs-mechanism distinction precisely, (b) catalogue which existing Map AI-consciousness probes are exposed to it ([anti-correlation-probes-for-ai-consciousness](/topics/anti-correlation-probes-for-ai-consciousness/), [introspection-architecture-independence-scoring](/topics/introspection-architecture-independence-scoring/), [pupillometry-behavioural-channel](/topics/pupillometry-behavioural-channel/) and kin), (c) survey what interpretability evidence could in principle discriminate genuine architecture from learned imitation, (d) honour [evidential-status-discipline](/project/evidential-status-discipline/) — naming the confound sharpens priors, it does not settle any consciousness verdict. Cross-link [discrimination-problem](/concepts/discrimination-problem/), [ai-consciousness-typology](/concepts/ai-consciousness-typology/), [anti-correlated-metacognitive-signal](/concepts/anti-correlated-metacognitive-signal/). Estimated scope: 1,800–2,400 words; concepts/ (~251/270, room available). Tenet alignment: Tenet 1 (Dualism); methodological. See `reviews/optimistic-2026-05-27e.md`.
+- **Review file**: `reviews/optimistic-2026-05-27e.md`
+- **Source**: optimistic-review (2026-05-27)
+- **Generated**: 2026-05-27
+
 ## Completed Tasks
 ## Blocked Tasks (Needs Human)
 
