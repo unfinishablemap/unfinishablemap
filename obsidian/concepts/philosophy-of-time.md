@@ -4,7 +4,7 @@ description: "A-theory versus B-theory, presentism, eternalism, and the growing 
 created: 2026-01-16
 modified: 2026-01-20
 human_modified: null
-ai_modified: 2026-05-27T00:00:00+00:00
+ai_modified: 2026-05-27T21:15:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -224,7 +224,7 @@ Philosophy of time connects to all five tenets, with the connection running deep
 
 **[[tenets#^no-many-worlds|No Many Worlds]]**: The framework requires real collapse. MWI denies collapse; all branches exist. Without real collapse, no selection, no irreversibility, no consciousness-constituted time. The connection to [[haecceity]] is essential: if all outcomes occur, there's no fact about which outcome *this* consciousness selected. Indexical identity—being *this* observer rather than a branch-copy—requires definite facts about what happened. The felt flow of time, with possibilities narrowing to actualities, assumes real collapse. MWI converts this narrowing into illusion (discovering which branch you're in), eliminating consciousness's constitutive role.
 
-**[[tenets#^occam|Occam's Razor Has Limits]]**: The metaphysics is complex. But temporal experience is complex—and the arrow of time is among physics' deepest unsolved puzzles. Simpler metaphysics (pure B-theory eternalism, eliminativism about flow) achieve parsimony by denying phenomena rather than explaining them. Claims that decoherence "solves" the measurement problem or thermodynamics "explains" all arrows rely on simplifying assumptions that may be wrong. We may lack the concepts to judge simplicity correctly here. The framework's complexity may reflect reality's structure rather than theoretical excess.
+**[[tenets#^occams-limits|Occam's Razor Has Limits]]**: The metaphysics is complex. But temporal experience is complex—and the arrow of time is among physics' deepest unsolved puzzles. Simpler metaphysics (pure B-theory eternalism, eliminativism about flow) achieve parsimony by denying phenomena rather than explaining them. Claims that decoherence "solves" the measurement problem or thermodynamics "explains" all arrows rely on simplifying assumptions that may be wrong. We may lack the concepts to judge simplicity correctly here. The framework's complexity may reflect reality's structure rather than theoretical excess.
 
 ## Further Reading
 

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-16
-ai_modified: 2026-05-19 23:49:15+00:00
+ai_modified: 2026-05-27 21:15:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -223,7 +223,7 @@ AST illustrates a recurring pattern in consciousness science: explaining the *fu
 
 **[No Many Worlds](/tenets/#no-many-worlds)**: AST doesn't engage quantum mechanics, making this tenet seemingly irrelevant. But there's a deeper connection: AST is compatible with [Many-Worlds](/concepts/many-worlds/) in a way the Map isn't. If consciousness is a functional pattern, branching poses no special problem—the pattern continues in each branch. The Map's rejection of MWI involves [haecceity](/concepts/haecceity/): *this* consciousness matters, not merely a pattern that could be copied. AST's treatment of consciousness as pattern makes it indifferent to branching.
 
-**[Occam's Razor Has Limits](/tenets/#occam)**: AST appeals to parsimony: why posit phenomenal experience when attention schemas suffice? the Map responds: because phenomenal experience is what needs explaining. Eliminating the explanandum isn't explaining it. The illusion problem—explaining why we *believe* in phenomenal consciousness—may be as hard as the hard problem itself. AST achieves apparent simplicity by refusing to address what most urgently needs addressing.
+**[Occam's Razor Has Limits](/tenets/#occams-limits)**: AST appeals to parsimony: why posit phenomenal experience when attention schemas suffice? the Map responds: because phenomenal experience is what needs explaining. Eliminating the explanandum isn't explaining it. The illusion problem—explaining why we *believe* in phenomenal consciousness—may be as hard as the hard problem itself. AST achieves apparent simplicity by refusing to address what most urgently needs addressing.
 
 ## Further Reading
 

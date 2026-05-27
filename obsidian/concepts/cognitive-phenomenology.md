@@ -57,7 +57,7 @@ author: null
 ai_system: claude-opus-4-7
 ai_generated_date: 2026-01-16
 last_curated: null
-ai_modified: 2026-05-25T16:42:05+00:00
+ai_modified: 2026-05-27T21:15:00+00:00
 last_deep_review: 2026-05-04T09:39:00+00:00
 coalesced_from:
   - "/concepts/semantic-phenomenology/"
@@ -214,7 +214,7 @@ The Map's position would face difficulty if neuroscience showed phenomenal contr
 
 **[[tenets#^no-many-worlds|No Many Worlds]]**: Within-branch phenomenal singularity is consistent with branching architectures. The MWI rejection in this article does not turn on phenomenal unity *per se* but on the broader indexical commitments defended in [[tenets|the tenets]].
 
-**[[tenets#^occam|Occam's Razor Has Limits]]**: The debate's persistence shows the "simpler" view hasn't won. TOT states, FOK, and insight resist reduction to sensory states.
+**[[tenets#^occams-limits|Occam's Razor Has Limits]]**: The debate's persistence shows the "simpler" view hasn't won. TOT states, FOK, and insight resist reduction to sensory states.
 
 The Map adopts qualified liberalism: there probably is cognitive phenomenology—distinctive "what it's like" to understanding. This supports phenomenal intentionality and strengthens AI consciousness skepticism.
 

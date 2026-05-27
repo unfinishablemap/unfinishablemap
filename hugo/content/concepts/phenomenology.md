@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-14
-ai_modified: 2026-05-13 22:22:00+00:00
+ai_modified: 2026-05-27 21:15:00+00:00
 ai_system: claude-opus-4-7
 author: null
 concepts:
@@ -150,7 +150,7 @@ Phenomenology supports all five of the Map's foundational commitments:
 
 **[Dualism](/tenets/#dualism)**: Phenomenology provides systematic reasons to think consciousness has irreducible first-person features. Brentano's thesis—that intentionality is "the mark of the mental"—has resisted full naturalization despite sustained attempts (Millikan's teleosemantics, Dretske's information-theoretic semantics, Fodor's asymmetric dependence theory). The temporal structure of experience differs from physical time. The qualitative character of perception is disclosed only to the subject. These features resist capture in physical terms.
 
-**[Occam's Razor Has Limits](/tenets/#occam)**: Materialist accounts achieve "simplicity" by bracketing the very data—first-person experience—that need explaining. Husserl's method reveals consciousness's complexity invisible to third-person science.
+**[Occam's Razor Has Limits](/tenets/#occams-limits)**: Materialist accounts achieve "simplicity" by bracketing the very data—first-person experience—that need explaining. Husserl's method reveals consciousness's complexity invisible to third-person science.
 
 **[Bidirectional Interaction](/tenets/#bidirectional-interaction)**: Phenomenology reveals consciousness as active, not passive. Husserl's analyses show consciousness constituting meaningful objects through synthetic activity. Merleau-Ponty's motor intentionality shows consciousness shaping action. The phenomenology of [voluntary attention](/concepts/attention-as-interface/) provides first-person evidence for the causal efficacy of mind.
 

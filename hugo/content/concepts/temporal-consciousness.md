@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-14
-ai_modified: 2026-05-13 17:22:00+00:00
+ai_modified: 2026-05-27 21:15:00+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -204,7 +204,7 @@ Temporal consciousness connects to all five tenets:
 
 **[No Many Worlds](/tenets/#no-many-worlds)**: If MWI branching occurred constantly, there would be no unified temporal experience but fragmentation across branches. The coherence of temporal experience—retention genuinely inheriting from a definite past—suggests collapse creates a single temporal thread. Bergson's interpenetrating duration presupposes temporal identity—[haecceity](/concepts/haecceity/)—that many-worlds dissolves.
 
-**[Occam's Razor Has Limits](/tenets/#occam)**: Spatialized time seems simpler—measurable, quantifiable. But this simplicity ignores qualitative duration. The "simpler" materialist account isn't simpler—it's incomplete.
+**[Occam's Razor Has Limits](/tenets/#occams-limits)**: Spatialized time seems simpler—measurable, quantifiable. But this simplicity ignores qualitative duration. The "simpler" materialist account isn't simpler—it's incomplete.
 
 ## Further Reading
 

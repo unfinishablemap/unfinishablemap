@@ -41,7 +41,7 @@ ai_system: claude-opus-4-7
 ai_generated_date: 2026-01-14
 last_curated: null
 last_deep_review: 2026-05-13T22:22:00+00:00
-ai_modified: 2026-05-13T22:22:00+00:00
+ai_modified: 2026-05-27T21:15:00+00:00
 ---
 
 Phenomenology is the philosophical tradition most committed to first-person investigation of consciousness. Founded by Edmund Husserl and developed by Heidegger, Merleau-Ponty, and Sartre, it provides systematic methods for exploring the structures of experience from within. Its central methodological commitment: consciousness has an intricate architecture accessible through first-person investigation—an architecture that third-person scientific description has not captured and may be structurally unable to capture.
@@ -148,7 +148,7 @@ Phenomenology supports all five of the Map's foundational commitments:
 
 **[[tenets#^dualism|Dualism]]**: Phenomenology provides systematic reasons to think consciousness has irreducible first-person features. Brentano's thesis—that intentionality is "the mark of the mental"—has resisted full naturalization despite sustained attempts (Millikan's teleosemantics, Dretske's information-theoretic semantics, Fodor's asymmetric dependence theory). The temporal structure of experience differs from physical time. The qualitative character of perception is disclosed only to the subject. These features resist capture in physical terms.
 
-**[[tenets#^occam|Occam's Razor Has Limits]]**: Materialist accounts achieve "simplicity" by bracketing the very data—first-person experience—that need explaining. Husserl's method reveals consciousness's complexity invisible to third-person science.
+**[[tenets#^occams-limits|Occam's Razor Has Limits]]**: Materialist accounts achieve "simplicity" by bracketing the very data—first-person experience—that need explaining. Husserl's method reveals consciousness's complexity invisible to third-person science.
 
 **[[tenets#^bidirectional-interaction|Bidirectional Interaction]]**: Phenomenology reveals consciousness as active, not passive. Husserl's analyses show consciousness constituting meaningful objects through synthetic activity. Merleau-Ponty's motor intentionality shows consciousness shaping action. The phenomenology of [[attention-as-interface|voluntary attention]] provides first-person evidence for the causal efficacy of mind.
 

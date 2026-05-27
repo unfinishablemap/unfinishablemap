@@ -4,7 +4,7 @@ description: "Factual knowledge has its own phenomenology: tip-of-the-tongue fru
 created: 2026-01-17
 modified: 2026-01-20
 human_modified: null
-ai_modified: 2026-05-19T12:01:19+00:00
+ai_modified: 2026-05-27T21:15:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -179,7 +179,7 @@ Semantic memory and noetic consciousness support all five foundational commitmen
 
 **[[tenets#^no-many-worlds|No Many Worlds]]**: Semantic knowledge presupposes a single fact-base. When you know that Paris is the capital of France, you know it as a fact about *the* world, not about *a* branch. Many-worlds would make each fact indexed to a branch-history, fragmenting the unity of semantic knowledge. The noetic sense of certainty—knowing without re-experiencing—assumes that facts are facts, not branch-relative. This connects to [[haecceity]]—semantic knowledge is *this* person's knowledge of *those* facts, requiring the indexical grounding that many-worlds eliminates.
 
-**[[tenets#^occam|Occam's Razor Has Limits]]**: The simpler view—semantic memory is just data storage, noetic consciousness is an illusion—hasn't won. The phenomenology of TOT, FOK, and understanding persists under scrutiny. Complex mental phenomena may require complex explanations, even when simpler computational accounts are available. The remember/know distinction demonstrates that identical information can be accessed with or without experiential character, suggesting phenomenology isn't reducible to information content.
+**[[tenets#^occams-limits|Occam's Razor Has Limits]]**: The simpler view—semantic memory is just data storage, noetic consciousness is an illusion—hasn't won. The phenomenology of TOT, FOK, and understanding persists under scrutiny. Complex mental phenomena may require complex explanations, even when simpler computational accounts are available. The remember/know distinction demonstrates that identical information can be accessed with or without experiential character, suggesting phenomenology isn't reducible to information content.
 
 **Cognitive Phenomenology Connection**: This page complements [[cognitive-phenomenology]]. Semantic memory provides the empirical territory; cognitive phenomenology provides the philosophical framework. If liberalism about cognitive phenomenology is correct—if understanding itself has proprietary phenomenal character—then semantic memory is phenomenally rich despite lacking the vivid re-experiencing of episodic memory.
 

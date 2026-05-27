@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-14
-ai_modified: 2026-05-27 00:00:00+00:00
+ai_modified: 2026-05-27 21:15:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -94,7 +94,7 @@ Both share the central insight that [materialism](/concepts/materialism/) fails 
 
 **On the [pairing-problem](/concepts/pairing-problem/)**: Kim asks in virtue of what *this* mind is paired with *this* body. For physical causation, spatial relations answer—ball A strikes ball B because they are adjacent. But if minds lack spatial location, nothing grounds the pairing: why does M1's intention move B1's hand rather than B2's? Property dualism sidesteps this—mental properties are properties *of* brains, paired by definition. Substance dualists respond by (1) locating minds spatially in the brain where they interact (Hasker, Zimmerman), (2) invoking haecceities to ground pairing without spatial relations (Bailey, Rasmussen, Van Horn), or (3) denying causation requires spatial relations at all. The Map's quantum framework supports the first: consciousness is located where it interfaces with neural quantum processes.
 
-**On the combination problem**: property dualism (especially Russellian monism) faces pressure toward [panpsychism](/concepts/panpsychism/)—if phenomenal properties are fundamental, they might be everywhere. But panpsychism then faces the combination problem: how do micro-experiences combine into unified consciousness? Substance dualism avoids this by positing unified mental substances from the start. (On parsimony, the [Occam's Razor Has Limits](/tenets/#occam) tenet warns against treating property dualism's apparent economy as decisive.)
+**On the combination problem**: property dualism (especially Russellian monism) faces pressure toward [panpsychism](/concepts/panpsychism/)—if phenomenal properties are fundamental, they might be everywhere. But panpsychism then faces the combination problem: how do micro-experiences combine into unified consciousness? Substance dualism avoids this by positing unified mental substances from the start. (On parsimony, the [Occam's Razor Has Limits](/tenets/#occams-limits) tenet warns against treating property dualism's apparent economy as decisive.)
 
 ## The Illusionist Challenge
 

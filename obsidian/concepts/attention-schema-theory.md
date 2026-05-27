@@ -4,7 +4,7 @@ description: "Graziano's theory proposes consciousness is the brain's model of i
 created: 2026-01-16
 modified: 2026-01-20
 human_modified: null
-ai_modified: 2026-05-19T23:49:15+00:00
+ai_modified: 2026-05-27T21:15:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -221,7 +221,7 @@ AST illustrates a recurring pattern in consciousness science: explaining the *fu
 
 **[[tenets#^no-many-worlds|No Many Worlds]]**: AST doesn't engage quantum mechanics, making this tenet seemingly irrelevant. But there's a deeper connection: AST is compatible with [[concepts/many-worlds|Many-Worlds]] in a way the Map isn't. If consciousness is a functional pattern, branching poses no special problem—the pattern continues in each branch. The Map's rejection of MWI involves [[haecceity]]: *this* consciousness matters, not merely a pattern that could be copied. AST's treatment of consciousness as pattern makes it indifferent to branching.
 
-**[[tenets#^occam|Occam's Razor Has Limits]]**: AST appeals to parsimony: why posit phenomenal experience when attention schemas suffice? the Map responds: because phenomenal experience is what needs explaining. Eliminating the explanandum isn't explaining it. The illusion problem—explaining why we *believe* in phenomenal consciousness—may be as hard as the hard problem itself. AST achieves apparent simplicity by refusing to address what most urgently needs addressing.
+**[[tenets#^occams-limits|Occam's Razor Has Limits]]**: AST appeals to parsimony: why posit phenomenal experience when attention schemas suffice? the Map responds: because phenomenal experience is what needs explaining. Eliminating the explanandum isn't explaining it. The illusion problem—explaining why we *believe* in phenomenal consciousness—may be as hard as the hard problem itself. AST achieves apparent simplicity by refusing to address what most urgently needs addressing.
 
 ## Further Reading
 

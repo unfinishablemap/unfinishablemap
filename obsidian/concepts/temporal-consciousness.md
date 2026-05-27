@@ -4,7 +4,7 @@ description: "Consciousness flows through time in the specious present—Bergson
 created: 2026-01-14
 modified: 2026-03-15
 human_modified: null
-ai_modified: 2026-05-13T17:22:00+00:00
+ai_modified: 2026-05-27T21:15:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -200,7 +200,7 @@ Temporal consciousness connects to all five tenets:
 
 **[[tenets#^no-many-worlds|No Many Worlds]]**: If MWI branching occurred constantly, there would be no unified temporal experience but fragmentation across branches. The coherence of temporal experience—retention genuinely inheriting from a definite past—suggests collapse creates a single temporal thread. Bergson's interpenetrating duration presupposes temporal identity—[[haecceity]]—that many-worlds dissolves.
 
-**[[tenets#^occam|Occam's Razor Has Limits]]**: Spatialized time seems simpler—measurable, quantifiable. But this simplicity ignores qualitative duration. The "simpler" materialist account isn't simpler—it's incomplete.
+**[[tenets#^occams-limits|Occam's Razor Has Limits]]**: Spatialized time seems simpler—measurable, quantifiable. But this simplicity ignores qualitative duration. The "simpler" materialist account isn't simpler—it's incomplete.
 
 ## Further Reading
 

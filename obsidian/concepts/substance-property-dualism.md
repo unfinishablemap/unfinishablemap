@@ -4,7 +4,7 @@ description: "Two forms of dualism: separate mental substances versus irreducibl
 created: 2026-01-14
 modified: 2026-01-16
 human_modified: null
-ai_modified: 2026-05-27T00:00:00+00:00
+ai_modified: 2026-05-27T21:15:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -91,7 +91,7 @@ Both share the central insight that [[concepts/materialism]] fails to account fo
 
 **On the [[pairing-problem]]**: Kim asks in virtue of what *this* mind is paired with *this* body. For physical causation, spatial relations answer—ball A strikes ball B because they are adjacent. But if minds lack spatial location, nothing grounds the pairing: why does M1's intention move B1's hand rather than B2's? Property dualism sidesteps this—mental properties are properties *of* brains, paired by definition. Substance dualists respond by (1) locating minds spatially in the brain where they interact (Hasker, Zimmerman), (2) invoking haecceities to ground pairing without spatial relations (Bailey, Rasmussen, Van Horn), or (3) denying causation requires spatial relations at all. The Map's quantum framework supports the first: consciousness is located where it interfaces with neural quantum processes.
 
-**On the combination problem**: property dualism (especially Russellian monism) faces pressure toward [[panpsychism]]—if phenomenal properties are fundamental, they might be everywhere. But panpsychism then faces the combination problem: how do micro-experiences combine into unified consciousness? Substance dualism avoids this by positing unified mental substances from the start. (On parsimony, the [[tenets#^occam|Occam's Razor Has Limits]] tenet warns against treating property dualism's apparent economy as decisive.)
+**On the combination problem**: property dualism (especially Russellian monism) faces pressure toward [[panpsychism]]—if phenomenal properties are fundamental, they might be everywhere. But panpsychism then faces the combination problem: how do micro-experiences combine into unified consciousness? Substance dualism avoids this by positing unified mental substances from the start. (On parsimony, the [[tenets#^occams-limits|Occam's Razor Has Limits]] tenet warns against treating property dualism's apparent economy as decisive.)
 
 ## The Illusionist Challenge
 

@@ -4,7 +4,7 @@ description: "The aboutness of mental states: why thoughts are directed at objec
 created: 2026-01-14
 modified: 2026-03-01
 human_modified: null
-ai_modified: 2026-05-01T00:56:00+00:00
+ai_modified: 2026-05-27T21:15:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -80,7 +80,7 @@ Since Brentano, many philosophers have tried to naturalize intentionality—to e
 
 The [[symbol-grounding-problem|symbol grounding problem]] sharpens this challenge for computational systems: symbols cannot acquire meaning intrinsic to the system without some foothold in genuine understanding.
 
-No naturalistic theory has achieved consensus after over a century of attempts. Hutto and Myin's [[hard-problem-of-content|Hard Problem of Content]] gives the failure its sharpest formulation: covariational and teleosemantic resources deliver causal and statistical facts but never the normative dimension semantic content requires. Their conclusion is deflationary—basic minds are contentless, content a sociocultural achievement. PIT draws the converse conclusion the Map endorses: content is real, its grounding non-physical. The [[the-naturalisation-failure-for-content|naturalisation failure for content]] topic article develops this diagnosis as a stand-alone argument running parallel to the phenomenal hard problem. The [[meaning-void|meaning void]] explores why the mechanism of reference may lie below the threshold of formal modelling, supporting the Map's [[tenets#^occam|Occam's Razor Has Limits]] tenet.
+No naturalistic theory has achieved consensus after over a century of attempts. Hutto and Myin's [[hard-problem-of-content|Hard Problem of Content]] gives the failure its sharpest formulation: covariational and teleosemantic resources deliver causal and statistical facts but never the normative dimension semantic content requires. Their conclusion is deflationary—basic minds are contentless, content a sociocultural achievement. PIT draws the converse conclusion the Map endorses: content is real, its grounding non-physical. The [[the-naturalisation-failure-for-content|naturalisation failure for content]] topic article develops this diagnosis as a stand-alone argument running parallel to the phenomenal hard problem. The [[meaning-void|meaning void]] explores why the mechanism of reference may lie below the threshold of formal modelling, supporting the Map's [[tenets#^occams-limits|Occam's Razor Has Limits]] tenet.
 
 ## Phenomenal Intentionality Theory
 
@@ -234,7 +234,7 @@ Intentionality connects to all five foundational tenets:
 
 **[[tenets#^no-many-worlds|No Many Worlds]]**: Intentionality presupposes a unified subject who intends. Many-worlds fractures this unity: if a thought about Paris splits into branch-copies with diverging contents after each quantum event, there is no single intentional relation—just a proliferating tree of partial copies, none of which is determinately *me* thinking *this*.
 
-**[[tenets#^occam|Occam's Razor Has Limits]]**: The repeated failure to naturalize intentionality exemplifies this tenet. PIT may be more complex, requiring irreducible phenomenal facts, but it actually explains content determinacy where naturalistic alternatives fail.
+**[[tenets#^occams-limits|Occam's Razor Has Limits]]**: The repeated failure to naturalize intentionality exemplifies this tenet. PIT may be more complex, requiring irreducible phenomenal facts, but it actually explains content determinacy where naturalistic alternatives fail.
 
 ## Further Reading
 

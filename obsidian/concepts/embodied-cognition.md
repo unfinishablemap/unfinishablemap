@@ -4,7 +4,7 @@ description: "Cognition depends on the body and extends into the environment. Th
 created: 2026-01-14
 modified: 2026-01-14
 human_modified: null
-ai_modified: 2026-05-27T02:41:15+00:00
+ai_modified: 2026-05-27T21:15:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -184,7 +184,7 @@ Embodied cognition's relationship to the Map's tenets requires careful analysis:
 
 **[[tenets#^bidirectional-interaction|Bidirectional Interaction]]**: Enactivism's emphasis on autonomous agency is compatible with bidirectional interaction. Consciousness acts through the body; the body constrains consciousness. The "enacted" world arises through ongoing mutual influence. The choking evidence is consistent with this picture—conscious attention appears to genuinely affect motor performance—though the standard neuroscience interpretation frames this as neural resource competition rather than non-physical causation.
 
-**[[tenets#^occam|Occam's Razor Has Limits]]**: Embodied cognitivists in the enactive tradition insist that consciousness cannot be understood through third-person description alone. Bracketing first-person data doesn't achieve simplicity—it ignores the most fundamental evidence.
+**[[tenets#^occams-limits|Occam's Razor Has Limits]]**: Embodied cognitivists in the enactive tradition insist that consciousness cannot be understood through third-person description alone. Bracketing first-person data doesn't achieve simplicity—it ignores the most fundamental evidence.
 
 **[[tenets#^minimal-quantum|Minimal Quantum Interaction]]**: The Dreyfus progression reveals *where* consciousness interfaces with motor systems—the transition between absorbed and reflective modes. Whatever mechanism mediates this interface (the [[attention-as-interface|attention-as-interface]] model proposes one possibility), embodied cognition maps the functional architecture of the interaction point.
 
