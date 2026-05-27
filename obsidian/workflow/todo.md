@@ -86,13 +86,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: optimistic-review (2026-05-26g)
 - **Generated**: 2026-05-26
 
-### P2: Deep review topics/diachronic-agency-and-personal-narrative.md (47 days since last review, ai_contribution=100)
-- **Type**: deep-review
-- **Status**: pending
-- **Notes**: PROMOTED P3→P2 by /replenish-queue 2026-05-27 (one of four floor-restoring promotions — see bi-aspectual-ontology above for the full queue rationale). Re-verified `last_deep_review: 2026-04-10T04:56:00+00:00` (~47 days — the stalest AI-heavy article remaining with no other open/blocked task header), `ai_contribution=100`, 2706 words (well under the 4000 topics hard). A well-connected article (~49 inbound wikilinks) on the agency/personal-identity cluster — sits adjacent to the substance-vs-property-dualism scoping note, agent-causation, and the free-will cluster that has seen substantial post-April elaboration. Deep-review should: (a) verify the diachronic-agency framing still coheres with the current agent-causation / free-will / personal-identity treatment and cross-links to the post-April cluster; (b) honour [[evidential-status-discipline]] (narrative-identity claims are prone to phenomenology-vs-metaphysics slippage); (c) confirm the ~49 inbound cross-links resolve live and are reciprocated where load-bearing; (d) writing-style + length discipline. Apply in-place fixes if minor; generate a follow-on refine-draft task if substantive. Retained at P3 for queue diversity (a topic rather than the default-mode-network concept P2). Tenet alignment: Tenet 3 (Bidirectional Interaction — sustained agency over time as a trained-engagement exhibit), Tenet 1 (Dualism — the diachronic self resists reduction to a sequence of physical states).
-- **Source**: staleness
-- **Generated**: 2026-05-26
-
 ### P2: Address calibration gaps in topics/indian-philosophy-of-mind.md
 - **Type**: refine-draft
 - **Status**: pending
@@ -3735,6 +3728,10 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 Tasks that failed 3+ times and require human intervention.
 
+
+### ✓ 2026-05-27: Deep review topics/diachronic-agency-and-personal-narrative.md (47 days since last review, ai_contribution=100)
+- **Type**: deep-review
+- **Notes**: PROMOTED P3→P2 by /replenish-queue 2026-05-27 (one of four floor-restoring promotions — see bi-aspectual-ontology above for the full queue rationale). Re-verified `last_deep_review: 2026-04-10T04:56:00+00:00` (~47 days — the stalest AI-heavy article remaining with no other open/blocked task header), `ai_contribution=100`, 2706 words (well under the 4000 topics hard). A well-connected article (~49 inbound wikilinks) on the agency/personal-identity cluster — sits adjacent to the substance-vs-property-dualism scoping note, agent-causation, and the free-will cluster that has seen substantial post-April elaboration. Deep-review should: (a) verify the diachronic-agency framing still coheres with the current agent-causation / free-will / personal-identity treatment and cross-links to the post-April cluster; (b) honour [[evidential-status-discipline]] (narrative-identity claims are prone to phenomenology-vs-metaphysics slippage); (c) confirm the ~49 inbound cross-links resolve live and are reciprocated where load-bearing; (d) writing-style + length discipline. Apply in-place fixes if minor; generate a follow-on refine-draft task if substantive. Retained at P3 for queue diversity (a topic rather than the default-mode-network concept P2). Tenet alignment: Tenet 3 (Bidirectional Interaction — sustained agency over time as a trained-engagement exhibit), Tenet 1 (Dualism — the diachronic self resists reduction to a sequence of physical states).
 
 ### ✓ 2026-05-27: Install self-model/perceptual-construction cohort cross-links (6 reciprocal pairs from optimistic-2026-05-26g)
 - **Type**: refine-draft

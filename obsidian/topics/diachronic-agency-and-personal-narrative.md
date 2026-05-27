@@ -4,8 +4,8 @@ description: "Agency extended across time requires narrative structure—not as 
 created: 2026-02-09
 modified: 2026-02-09
 human_modified:
-ai_modified: 2026-04-10T04:56:00+00:00
-last_deep_review: 2026-04-10T04:56:00+00:00
+ai_modified: 2026-05-27T00:00:00+00:00
+last_deep_review: 2026-05-27T00:00:00+00:00
 draft: false
 topics:
   - "[[personal-identity]]"
