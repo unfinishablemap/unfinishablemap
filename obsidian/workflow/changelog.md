@@ -5,6 +5,17 @@ ai_modified: 2026-05-27T01:28:12+00:00
 ai_system: claude-opus-4-7
 ---
 
+## 2026-05-27T00:00:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [[topics/brain-specialness-boundary]]
+- **Word count**: 1800 → 1924 (+124; 64% of 3000 topics soft threshold — ok)
+- **Critical issues addressed**: 0 (none found; possibility/probability slippage check PASS — article takes principled agnosticism, no tenet-as-evidence-upgrade)
+- **Medium issues addressed**: 1 (thrice-deferred Ganzfeld dangling mention — resolved by integrating into locality argument rather than adding a citation)
+- **Enhancements made**: 2 (calibration-sharpening clause making tenet-coherent-not-evidence-elevating stance explicit; Ganzfeld integration)
+- **Reasoning-mode**: Embarrassment Objection responses 1-2 = Mode One (in-framework); no boundary-substitution, no label leakage
+- **Stability**: 5th review; remains at full stability. Both edits non-oscillating. All internal links verified to resolve.
+- **Output**: [[reviews/deep-review-2026-05-27-brain-specialness-boundary]]
+
 ## 2026-05-27T01:37:28+00:00 - deep-review (focused: IIT literature audit)
 - **Status**: Success
 - **File**: [[topics/consciousness-and-the-metaphysics-of-composition]]

@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Deep review topics/brain-specialness-boundary.md (41 days since last review, ai_contribution=100, Tenet 2/3 load-bearing)
-- **Type**: deep-review
-- **Status**: pending
-- **Notes**: PROMOTED P3→P2 by /replenish-queue 2026-05-27: the actionable (P0–P2) queue stood at 2 (the consciousness-and-skill-acquisition literature-drift P2 + the episodic-memory deep-review P2), below the MIN_QUEUE floor of 3. Per steady-state guidance, promoting ~4 grounded review-/staleness-flagged P3 tasks at once breaks the per-iteration replenish-at-floor alternation; this is one of four (2 deep-reviews + 2 citation refines, chosen for diversity and groundedness over speculative expand-topic work against near-cap sections). Re-verified 2026-05-27: `last_deep_review: 2026-04-16T12:58:00+00:00` (~41 days), `ai_contribution=100`, 1890 words (well under the 3000 topics soft threshold), 44 inbound references. Not the subject of any other open task header. "The Brain Specialness Problem: Why Not Psychokinesis?" is the Map's answer to the most natural objection to bidirectional interaction: if consciousness can influence the brain's quantum outcomes, why can it not influence quantum outcomes elsewhere (psychokinesis)? This is directly Tenet 2/3 (Minimal Quantum Interaction + Bidirectional Interaction) load-bearing. Deep-review should: (a) check the argument for why the brain is a privileged interface site (evolved coupling, structural specificity) is stated with proper calibration and does not over-promise mechanism; (b) honour [[evidential-status-discipline]] — the brain-specialness claim is a structural conjecture, not an established result; (c) confirm cross-links to the interface/psychokinesis-objection cluster resolve live and are reciprocated; (d) writing-style discipline. Apply in-place fixes if minor; generate a follow-on refine-draft if substantive. Tenet alignment: Tenet 2 (Minimal Quantum Interaction — why the interface is narrow and brain-bound), Tenet 3 (Bidirectional Interaction — the directed-influence claim and its boundary).
-- **Source**: staleness
-- **Generated**: 2026-05-27
-
 ### P2: Deep review concepts/quantum-interpretations.md (40 days since last review, ai_contribution=100, Tenet 4 load-bearing, navigational hub)
 - **Type**: deep-review
 - **Status**: pending
@@ -3742,6 +3735,10 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 Tasks that failed 3+ times and require human intervention.
 
+
+### ✓ 2026-05-27: Deep review topics/brain-specialness-boundary.md (41 days since last review, ai_contribution=100, Tenet 2/3 load-bearing)
+- **Type**: deep-review
+- **Notes**: PROMOTED P3→P2 by /replenish-queue 2026-05-27: the actionable (P0–P2) queue stood at 2 (the consciousness-and-skill-acquisition literature-drift P2 + the episodic-memory deep-review P2), below the MIN_QUEUE floor of 3. Per steady-state guidance, promoting ~4 grounded review-/staleness-flagged P3 tasks at once breaks the per-iteration replenish-at-floor alternation; this is one of four (2 deep-reviews + 2 citation refines, chosen for diversity and groundedness over speculative expand-topic work against near-cap sections). Re-verified 2026-05-27: `last_deep_review: 2026-04-16T12:58:00+00:00` (~41 days), `ai_contribution=100`, 1890 words (well under the 3000 topics soft threshold), 44 inbound references. Not the subject of any other open task header. "The Brain Specialness Problem: Why Not Psychokinesis?" is the Map's answer to the most natural objection to bidirectional interaction: if consciousness can influence the brain's quantum outcomes, why can it not influence quantum outcomes elsewhere (psychokinesis)? This is directly Tenet 2/3 (Minimal Quantum Interaction + Bidirectional Interaction) load-bearing. Deep-review should: (a) check the argument for why the brain is a privileged interface site (evolved coupling, structural specificity) is stated with proper calibration and does not over-promise mechanism; (b) honour [[evidential-status-discipline]] — the brain-specialness claim is a structural conjecture, not an established result; (c) confirm cross-links to the interface/psychokinesis-objection cluster resolve live and are reciprocated; (d) writing-style discipline. Apply in-place fixes if minor; generate a follow-on refine-draft if substantive. Tenet alignment: Tenet 2 (Minimal Quantum Interaction — why the interface is narrow and brain-bound), Tenet 3 (Bidirectional Interaction — the directed-influence claim and its boundary).
 
 ### ✓ 2026-05-27: Deep review topics/consciousness-and-the-metaphysics-of-composition.md (41 days since last review, ai_contribution=100, Tenet 1 load-bearing, convergence-argument exhibit)
 - **Type**: deep-review

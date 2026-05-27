@@ -4,7 +4,7 @@ description: "If consciousness biases quantum outcomes in the brain, why can't i
 created: 2026-02-05
 modified: 2026-02-05
 human_modified:
-ai_modified: 2026-04-16T12:58:00+00:00
+ai_modified: 2026-05-27T00:00:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -30,7 +30,7 @@ author:
 ai_system: claude-opus-4-5-20251101
 ai_generated_date: 2026-02-05
 last_curated:
-last_deep_review: 2026-04-16T12:58:00+00:00
+last_deep_review: 2026-05-27T00:00:00+00:00
 ---
 
 If consciousness can bias quantum outcomes in the brain—as The Unfinishable Map's [[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]] and [[tenets#^bidirectional-interaction|Bidirectional Interaction]] tenets hold—an obvious objection arises: why can't consciousness move objects at a distance? Why can't minds bias external random number generators, influence other people's thoughts, or bend spoons? If mind affects matter in the brain, what stops it from affecting matter everywhere?
@@ -43,7 +43,7 @@ The Map's framework proposes that [[consciousness-selecting-neural-patterns|cons
 
 But if consciousness can bias quantum outcomes at all, critics ask, why only in brains? Quantum indeterminacy exists everywhere. Random number generators, radioactive decay, photon polarisation—all involve genuine quantum indeterminacy. Why can't consciousness bias these too?
 
-Parapsychology research has claimed to detect such effects. The PEAR laboratory at Princeton studied micro-psychokinesis for 28 years (1979-2007), reporting small but statistically significant deviations in random number generators correlated with operator intention. The Global Consciousness Project monitors RNGs worldwide, claiming correlations with major world events. Ganzfeld experiments test telepathy through sensory deprivation protocols.
+Parapsychology research has claimed to detect such effects. The PEAR laboratory at Princeton studied micro-psychokinesis for 28 years (1979-2007), reporting small but statistically significant deviations in random number generators correlated with operator intention. The Global Consciousness Project monitors RNGs worldwide, claiming correlations with major world events. Ganzfeld experiments test telepathy through sensory deprivation protocols—a mind-to-mind claim distinct from the mind-to-matter psychokinesis at issue here, but one the brain-locality argument below rules out for the same reason: another person's brain is no more integrated into your conscious control loop than a random number generator is.
 
 If the Map's mechanism permits any external influence, these claims become unexpectedly plausible. If it doesn't, the Map must explain why—without appearing to draw an arbitrary line to preserve respectability.
 
@@ -97,6 +97,8 @@ The Map takes a position of principled agnosticism. It doesn't claim to disprove
 1. The proposed mechanism doesn't predict external effects
 2. Decades of research haven't demonstrated reliable external effects
 3. The absence of robust effects is what the mechanism would lead us to expect
+
+This is a coherence claim, not an evidential upgrade. The mechanism's brain-locality makes the null result *unsurprising*; it does not turn the null result into positive confirmation of the mechanism. The framework would remain compatible with the parapsychological record even if its specific Zeno-based account were wrong, because brain-local selection is a generic feature of any embodied interactionism. The locality prediction earns no extra credibility from the tenets themselves—only the freedom from having to explain away robust external effects that were never reliably found.
 
 If external PK were eventually demonstrated reliably, the Map would need to explain it—perhaps through mechanism extension, perhaps through novel physics. But the current evidence aligns with the framework's prediction of brain-local selection only.
 
