@@ -79,7 +79,7 @@ Yet lucid dreaming does not close the void. Lucid dreams are still not full waki
 
 Where does consciousness go during dreamless sleep? Every night, we lose awareness for hours, then return as if nothing happened. The gap cannot be observed directly because observation requires the very consciousness whose absence is in question.
 
-**The inference problem.** We infer absence of consciousness from absence of memory. But memory requires memory-encoding mechanisms to be active. We remember nothing from deep sleep—but this could mean nothing happened or that something happened but was not recorded.
+**The inference problem.** We infer absence of consciousness from absence of memory. But memory requires memory-encoding mechanisms to be active. We remember nothing from deep sleep—but this could mean nothing happened or that something happened but was not recorded. This is [[essential-vs-contingent-consciousness|the essential-vs-contingent question]] in its sharpest form: the essentialist reads the blank as awareness that left no episodic trace, the contingentist as a genuine gap during which only a non-conscious bearer persisted. Because both predict the identical waking report, no first-person datum adjudicates—the very point this void marks.
 
 **The transition problem.** We cannot catch the moment of losing consciousness. Approaching sleep, awareness becomes diffuse and fragmenting, but we never experience the transition itself. If we did, we would still be conscious. Research on [[hypnagogic-phenomenology-and-interface-modulation|hypnagogic phenomenology]] reveals that this transition is not a single event but a graded process—each component of consciousness disengaging on its own timeline.
 

@@ -159,14 +159,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: pessimistic-review (2026-05-19b)
 - **Generated**: 2026-05-19
 
-### P3: Add forward cross-link from indian-philosophy-of-mind to essential-vs-contingent-consciousness (orphan fix)
-- **Type**: integrate-orphan
-- **Status**: pending
-- **Notes**: Suggested by optimistic-2026-05-27d (Cross-linking). `topics/essential-vs-contingent-consciousness.md` (created 2026-05-27) names `topics/indian-philosophy-of-mind.md` as the parent survey that "raises this open question without resolving it," but the parent does not yet link forward — the new article currently has 0 inbound links (fresh orphan). Add a forward link from `indian-philosophy-of-mind` (in body where the essential/contingent open question is raised, and in related_articles) completing the survey→deep-dive chain. While editing, also add the three other reciprocal links flagged in the review: `concepts/self-and-self-consciousness.md` → essential-vs-contingent (the Zahavi/Metzinger choice as "the Western form of this dispute"); `voids/sleep-consciousness-void.md` → essential-vs-contingent ("the sleep-consciousness void in its sharpest form"); `concepts/witness-consciousness.md` → essential-vs-contingent (the *sakshi* witness is load-bearing for the Advaita essentialist reading). Short scope (link additions plus brief integrative sentences where natural). See `reviews/optimistic-2026-05-27d.md` Cross-Linking Suggestions table.
-- **Review file**: `reviews/optimistic-2026-05-27d.md`
-- **Source**: optimistic-review (2026-05-27d)
-- **Generated**: 2026-05-27
-
 ### P3: Write project-tier methodology page on Convergence-Arguments Discipline
 - **Type**: expand-topic
 - **Status**: pending
@@ -3654,6 +3646,10 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 Tasks that failed 3+ times and require human intervention.
 
+
+### ✓ 2026-05-27: Add forward cross-link from indian-philosophy-of-mind to essential-vs-contingent-consciousness (orphan fix)
+- **Type**: integrate-orphan
+- **Notes**: Suggested by optimistic-2026-05-27d (Cross-linking). `topics/essential-vs-contingent-consciousness.md` (created 2026-05-27) names `topics/indian-philosophy-of-mind.md` as the parent survey that "raises this open question without resolving it," but the parent does not yet link forward — the new article currently has 0 inbound links (fresh orphan). Add a forward link from `indian-philosophy-of-mind` (in body where the essential/contingent open question is raised, and in related_articles) completing the survey→deep-dive chain. While editing, also add the three other reciprocal links flagged in the review: `concepts/self-and-self-consciousness.md` → essential-vs-contingent (the Zahavi/Metzinger choice as "the Western form of this dispute"); `voids/sleep-consciousness-void.md` → essential-vs-contingent ("the sleep-consciousness void in its sharpest form"); `concepts/witness-consciousness.md` → essential-vs-contingent (the *sakshi* witness is load-bearing for the Advaita essentialist reading). Short scope (link additions plus brief integrative sentences where natural). See `reviews/optimistic-2026-05-27d.md` Cross-Linking Suggestions table.
 
 ### ✓ 2026-05-27: Write topic article on the Channel-Width Third Axis of the Dualism-Thickness Taxonomy
 - **Type**: expand-topic

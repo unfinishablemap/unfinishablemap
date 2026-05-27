@@ -34,6 +34,7 @@ related_articles:
 - '[[mental-causation-and-downward-causation]]'
 - '[[cross-traditional-convergence-on-consciousness-irreducibility]]'
 - '[[void-as-ground-of-meaning]]'
+- '[[essential-vs-contingent-consciousness]]'
 title: Indian Philosophy of Mind
 topics:
 - '[[hard-problem-of-consciousness]]'
@@ -137,7 +138,7 @@ Three distinctive contributions are largely absent from Western philosophy of mi
 
 **Mind on the matter side.** Samkhya's placement of mind, intellect, and ego within *prakriti* may anticipate functionalist intuitions—cognitive processing is material—while maintaining consciousness as ontologically distinct. The resemblance is suggestive rather than exact: functionalism is a thesis about what makes a state mental, whereas Samkhya's *gunas* framework is a cosmological account of how unconscious matter structures itself, so the convergence holds at the level of placing cognition on the matter side and not much further. Western philosophy has largely been forced to choose: either mind goes with consciousness (dualism) or with matter (physicalism). Samkhya's three-way distinction (consciousness / mind / gross matter) remains underexplored.
 
-**Consciousness without essential consciousness.** Nyaya's view that the self exists without consciousness during dreamless sleep has no direct Western parallel. It separates the self from consciousness more radically than any Western dualism—and raises a question the Map must take seriously: does the Map's dualism require that the non-physical aspect of reality be *essentially* conscious, or only *contingently* so?
+**Consciousness without essential consciousness.** Nyaya's view that the self exists without consciousness during dreamless sleep has no direct Western parallel. It separates the self from consciousness more radically than any Western dualism—and raises a question the Map must take seriously: does the Map's dualism require that the non-physical aspect of reality be *essentially* conscious, or only *contingently* so? [Essential vs. contingent consciousness](/topics/essential-vs-contingent-consciousness/) takes up this open question directly, drawing out the rival readings of dreamless sleep in Advaita, Nyaya, and Samkhya and stating the Map's lean toward essentialism honestly as a metaphysical commitment the evidence underdetermines rather than forces.
 
 **Metaphysics as soteriology.** In all three traditions, the philosophy of mind is inseparable from liberation. Samkhya's *viveka-jnana*, Nyaya's correct knowledge through *pramanas*, Advaita's realisation of *atman-Brahman* identity—each treats metaphysical error about consciousness as the root cause of suffering. Western philosophy of mind since Descartes has treated the mind-body problem as a theoretical puzzle disconnected from human flourishing. Indian traditions treat getting consciousness right as the most practically urgent task there is.
 
@@ -177,6 +178,7 @@ The Map's engagement with Indian philosophy of mind connects to each tenet.
 - [dualist-perception](/topics/dualist-perception/) — Dualist theories of perception, with parallels to Nyaya
 - [objections-to-interactionism](/concepts/objections-to-interactionism/) — Standard challenges that Samkhya's framework sidesteps
 - [void-as-ground-of-meaning](/voids/void-as-ground-of-meaning/) — How the *anātman* tension and the bearer-of-meaning question interact with the Map's constitutive thesis (limits as preconditions for meaning)
+- [essential-vs-contingent-consciousness](/topics/essential-vs-contingent-consciousness/) — The deep dive on whether the non-physical aspect is essentially or only contingently conscious, the open question this survey raises through Nyaya
 
 ## References
 
