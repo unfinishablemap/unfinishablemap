@@ -1,9 +1,23 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-27T12:00:00+00:00
+ai_modified: 2026-05-27T14:00:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-05-27T14:00:00+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[concepts/filter-theory]]
+- **Original score**: well-hedged hub; 4 fixable defects per [[reviews/pessimistic-2026-05-27-filter-theory]]
+- **Changes**:
+  - Fix 1 (bandwidth citation): re-attributed the ~10 bits/s and ~10⁹ figures to Zheng & Meister 2025; kept Sauerbrei & Pruszynski 2025 only for the "bottleneck is at conscious access, not the substrate" point; added Zheng & Meister 2025 (*Neuron*, 113(2), 192-204) to the reference list, mirroring `bandwidth-of-consciousness.md`. CITATION-YEAR CHECK: web-verified — paper first appeared online in *Neuron* Dec 17 2024 (arXiv 2408.10234; Cell URL S0896-6273(24)00808-0) and in the bound issue 113(2) Jan 2025. The corpus is internally year-drifted (a stapp fix used "2024, Neuron"; bandwidth-of-consciousness.md and this task use "2025"). Used the dominant corpus form **2025** with full venue to match the well-cited sibling rather than perpetuate divergence; the online-first date is 2024. Flagging the drift for a possible corpus-wide normalization.
+  - Fix 2 (AWARE II stat): restated 39% with the denominator (28 of 567 interviewed; self-selected; cannot be generalized to all survivors), inheriting the framing from child `near-death-experiences.md`. Decoupled "more real than real" from the Van Lommel 2001 cite — it is a general experiencer report (child article line 110), not a Van Lommel quotation. Softened "ready answer" → "offers an interpretation."
+  - Fix 3 (non-sequitur): downgraded "voluntary cessation should be impossible" to "harder to motivate on production accounts than on filter accounts — though not impossible," with the self-modifying-system / falling-asleep counterexample noted explicitly.
+  - Fix 4 (altered-state symmetry gate-3): added ~150 words at "What Filter Theory Does and Doesn't Claim" stating the seven supportive subsections are one dialectical pattern not seven independent confirmations, that they tell against naive (not sophisticated) production, and that the same accommodation move is available to production theorists — inheriting `altered-states-of-consciousness.md` line 74 and `anaesthesia-and-the-consciousness-interface.md`. Scanner `evaluate_symmetry()` now returns None (gate-3 clears).
+  - Minor: "interprets this straightforwardly" → "interprets this as follows."
+- Engagement classification (editor-internal): production-theorist engagement in the new symmetry paragraph — Mode Three (framework-boundary marking): honestly states production and filter accommodate the same altered-state set by parallel moves rather than claiming in-framework refutation. Illusionist section left intact (already Mode Two, well-handled per review).
+- Preserved: metaphysical-vs-empirical and "partly post hoc" concessions, illusionist section, Bergson/engram honesty. Voice unchanged; no structural changes.
+- **Published**: yes
 
 ## 2026-05-27T13:00:00+00:00 - pessimistic-review
 - **Status**: Success

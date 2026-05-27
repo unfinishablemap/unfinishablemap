@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-16
-ai_modified: 2026-05-23 13:15:00+00:00
+ai_modified: 2026-05-27 00:00:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 coalesced_from:
@@ -32,7 +32,7 @@ description: Consciousness selects which quantum possibilities become actual neu
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-04-16 10:29:00+00:00
+last_deep_review: 2026-05-27 00:00:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -97,7 +97,7 @@ The most serious empirical challenge comes from [decoherence](/concepts/decohere
 
 ### Four Responses
 
-**First, Tegmark's parameters are disputed.** Corrected calculations for living tissue (Hagan et al. 2002) extend coherence estimates by seven orders of magnitude. Wiest et al. (2024, 2025) found quantum vibrational modes in microtubules at biological temperatures, though these are vibrational modes, not the sustained coherent superpositions selection requires—paralleling premature excitement around quantum coherence in photosynthesis (Engel et al. 2007), later shown to be vibrational (Cao et al. 2020). Recent evidence complicates Tegmark's assumptions, though the core challenge remains.
+**First, Tegmark's parameters are disputed.** Corrected calculations for living tissue (Hagan et al. 2002) extend coherence estimates by seven orders of magnitude. Wiest (2025) reports experimental support for room-temperature quantum effects in microtubules, though these are vibrational modes, not the sustained coherent superpositions selection requires—paralleling premature excitement around quantum coherence in photosynthesis (Engel et al. 2007), later shown to be vibrational (Cao et al. 2020). Recent evidence complicates Tegmark's assumptions, though the core challenge remains.
 
 **Second, decoherence doesn't solve the measurement problem.** Even granting rapid decoherence, it selects preferred bases without explaining *definite* outcomes. The post-decoherence density matrix is an *improper* mixture (d'Espagnat 1976)—derived by tracing out the environment—not a *proper* mixture representing classical ignorance. It does not justify saying "the system is in one state, we just don't know which." Five selection mechanism families have been proposed to fill this gap, but only consciousness-mediated selection is consistent with the Map's [five tenets](/tenets/) (see [the post-decoherence gap](/topics/comparing-quantum-consciousness-mechanisms/#the-post-decoherence-gap)). Consciousness at collapse survives decoherence because decoherence leaves this gap open.
 
@@ -203,6 +203,6 @@ The Map should not claim selection within Born probabilities constitutes a testa
 1. Tallis, R. (2024). The Illusion of Illusionism. *Philosophy Now*.
 1. Schurger, A., Sitt, J.D., & Dehaene, S. (2012). An accumulator model for spontaneous neural activity prior to self-initiated movement. *PNAS*, 109(42), E2904-E2913.
 1. Tegmark, M. (2000). Importance of quantum decoherence in brain processes. *Physical Review E*, 61, 4194-4206.
-1. Wiest, O. et al. (2024). Microtubule-stabilizer epothilone B delays anesthetic-induced unconsciousness in rats. *eNeuro*, 11(8).
-1. Wiest, O. et al. (2025). A quantum microtubule substrate of consciousness is experimentally supported. *Neuroscience of Consciousness*, 2025(1), niaf011.
+1. Khan, S., ... Wiest, M. C. et al. (2024). Microtubule-stabilizer epothilone B delays anesthetic-induced unconsciousness in rats. *eNeuro*, 11(8), ENEURO.0291-24.2024.
+1. Wiest, M. C. (2025). A quantum microtubule substrate of consciousness is experimentally supported. *Neuroscience of Consciousness*, 2025(1), niaf011.
 1. Keppler, J. (2025). Macroscopic quantum effects in the brain. *Frontiers in Human Neuroscience*.

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-15
-ai_modified: 2026-05-19 20:45:00+00:00
+ai_modified: 2026-05-27 00:00:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -80,7 +80,7 @@ Neuroimaging studies of psychedelic states show *decreased* activity in the [def
 
 A physicalist would object: different neural processing simply produces different experience. What makes the filter interpretation attractive is coherence with the [hard problem](/topics/hard-problem-of-consciousness/)—even perfect neural mapping leaves unexplained *why* there is something it is like to undergo these processes.
 
-Filter theory interprets this straightforwardly: the DMN normally constrains consciousness to a narrow band of self-referential processing. Psychedelics disrupt this constraint while increasing global integration—the brain isn't producing *less* consciousness but filtering *less*. This aligns with recent REBUS models (Relaxed Beliefs Under Psychedelics): what's being relaxed is the constraining function that restricts experience to a biologically useful subset. [The dedicated psychedelics article](/topics/psychedelics-and-the-filter-model/) develops this evidence and its limits in detail, including Letheby's predictive-self-binding rival and the structural symmetry with anaesthesia: the altered-state evidence is consistent with the filter reading but does not by itself discriminate against rivals. The [edge-states-and-void-probes](/voids/edge-states-and-void-probes/) article examines whether filter-loosening provides genuine access to territories closed to ordinary consciousness.
+Filter theory interprets this as follows: the DMN normally constrains consciousness to a narrow band of self-referential processing. Psychedelics disrupt this constraint while increasing global integration—the brain isn't producing *less* consciousness but filtering *less*. This aligns with recent REBUS models (Relaxed Beliefs Under Psychedelics): what's being relaxed is the constraining function that restricts experience to a biologically useful subset. [The dedicated psychedelics article](/topics/psychedelics-and-the-filter-model/) develops this evidence and its limits in detail, including Letheby's predictive-self-binding rival and the structural symmetry with anaesthesia: the altered-state evidence is consistent with the filter reading but does not by itself discriminate against rivals. The [edge-states-and-void-probes](/voids/edge-states-and-void-probes/) article examines whether filter-loosening provides genuine access to territories closed to ordinary consciousness.
 
 ### The Anesthetic Divergence
 
@@ -96,11 +96,11 @@ The [hypnagogic transition](/topics/hypnagogic-phenomenology-and-interface-modul
 
 ### Meditative Cessation
 
-Advanced meditation produces cessation events—voluntary states with full loss of phenomenal content—that differ fundamentally from anaesthetic unconsciousness. Anaesthesia disrupts the filter from outside; cessation may represent consciousness *releasing* its grip on the filter from inside. If consciousness merely emerged from brain activity, voluntary cessation should be impossible—one cannot voluntarily eliminate the activity producing oneself.
+Advanced meditation produces cessation events—voluntary states with full loss of phenomenal content—that differ fundamentally from anaesthetic unconsciousness. Anaesthesia disrupts the filter from outside; cessation may represent consciousness *releasing* its grip on the filter from inside. Voluntary, content-free, recoverable cessation is harder to motivate on production accounts than on filter accounts—though not impossible for them, since a self-modifying system can down-regulate the very activity that sustains a given state (voluntarily falling asleep is the everyday example, where the volition and the quiescence are sequential brain states).
 
 ### Near-Death Experiences
 
-[Near-death experiences](/concepts/near-death-experiences/) present a similar pattern. Parnia's AWARE II study (2023) found that 39% of cardiac arrest survivors reported conscious awareness during arrest, with experiences characterized as "more real than real" (Van Lommel et al. 2001). Materialists must explain why dysfunction would produce experiences described as clearer than normal waking life; filter theory has a ready answer: compromised interface, less constraint.
+[Near-death experiences](/concepts/near-death-experiences/) present a similar pattern. Parnia's AWARE II study (2023) found that among the small subset who completed interviews (28 of 567 cardiac arrest patients), 39% reported some form of conscious awareness during arrest—a self-selected sample that cannot be generalized to all survivors. Experiencers across the literature describe these states as "more real than real" and clearer than ordinary waking life. Materialists must explain why dysfunction would produce experiences described as clearer than normal waking life; filter theory offers an interpretation: compromised interface, less constraint.
 
 ### Terminal Lucidity
 
@@ -149,7 +149,7 @@ Yes, but so is "production." Saying the brain "produces" consciousness is equall
 
 ### "How could we ever distinguish filter from production?"
 
-Filter theory organizes expectations differently: disrupting the filter *could* sometimes enhance experience (psychedelics, some NDEs), whereas production models would not naturally expect this. However, without independent criteria for which disruptions should enhance versus degrade, this remains a pattern-level asymmetry rather than a precise testable prediction. A stronger discriminator emerges from [bandwidth constraints](/topics/bandwidth-of-consciousness/): conscious throughput measures at ~10 bits per second while the brain processes at 10⁹, and the bottleneck appears specifically at conscious access rather than at motor output or sensory processing (Sauerbrei & Pruszynski 2025). Filter theory predicts this pattern: the filter constrains consciousness specifically, not neural processing in general. Additionally, consciousness could in principle interface through different physical substrates. These aren't decisive tests, but they show filter theory generates different research questions than production models.
+Filter theory organizes expectations differently: disrupting the filter *could* sometimes enhance experience (psychedelics, some NDEs), whereas production models would not naturally expect this. However, without independent criteria for which disruptions should enhance versus degrade, this remains a pattern-level asymmetry rather than a precise testable prediction. A stronger discriminator emerges from [bandwidth constraints](/topics/bandwidth-of-consciousness/): conscious throughput measures at ~10 bits per second while aggregate neural processing runs at ~10⁹ bits per second (Zheng & Meister 2025). The bottleneck appears specifically at conscious access rather than at motor output or sensory processing—Sauerbrei and Pruszynski (2025) accept the ~10 bits/s ceiling for conscious cognition but show that unconscious motor control vastly exceeds it, locating the constraint at access rather than in the computational substrate. Filter theory predicts this pattern: the filter constrains consciousness specifically, not neural processing in general. Additionally, consciousness could in principle interface through different physical substrates. These aren't decisive tests, but they show filter theory generates different research questions than production models.
 
 ## The Illusionist Challenge
 
@@ -182,6 +182,8 @@ Buddhism offers a structurally parallel framework: the five *skandhas* describe 
 **Claims:** Brain-consciousness correlation doesn't prove production. The brain's role may be transmissive rather than generative. This interpretation is empirically equivalent to production models but better accommodates anomalous findings (NDEs, psychedelics, covert consciousness).
 
 **Doesn't claim:** That consciousness survives death (compatible but not required). That the brain is unimportant (the interface is crucial). That brain science is wrong (findings stand; interpretation differs).
+
+A note on how the evidence above should be weighed. The seven supportive subsections—psychedelics, anaesthetic divergence, hypnagogia, cessation, NDEs, terminal lucidity, covert consciousness—should not be counted as seven independent confirmations of filter theory. Each makes the *same* dialectical move: disrupting brain activity changes or enhances experience in a way naive production does not predict. Read honestly, the cluster carries the evidential weight of one pattern, not seven, and it tells against *naive* unified-switch production rather than against sophisticated functionalism. Crucially, the same accommodation move is available to production theorists on every case: different receptor systems and disrupted circuits straightforwardly predict different—even coherent—phenomenal outcomes, so the divergence is redistributed processing rather than a loosened filter (see [altered-states-of-consciousness](/concepts/altered-states-of-consciousness/) and [anaesthesia-and-the-consciousness-interface](/topics/anaesthesia-and-the-consciousness-interface/) for the structurally identical production-side accommodation). The supportive cluster therefore cannot be cited as multiple independent wins; the honest dialectical situation is that filter theory and a sophisticated production framing accommodate the same altered-state set by parallel moves, and the case for filter theory rests on convergence with the [hard problem](/topics/hard-problem-of-consciousness/) rather than on tallying the cluster.
 
 ## Further Reading
 
@@ -221,3 +223,4 @@ Buddhism offers a structurally parallel framework: the five *skandhas* describe 
 1. Sanders, R. D., et al. (2023). The nature of consciousness in anaesthesia. *BJA Open*, 8.
 1. Sauerbrei, B.A. & Pruszynski, J.A. (2025). The brain works at more than 10 bits per second. *Nature Neuroscience*.
 1. Van Lommel, P., et al. (2001). "Near-death experience in survivors of cardiac arrest." *The Lancet*, 358(9298), 2039-2045.
+1. Zheng, J. & Meister, M. (2025). The unbearable slowness of being: Why do we live at 10 bits/s? *Neuron*, 113(2), 192-204.

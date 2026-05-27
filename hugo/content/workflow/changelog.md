@@ -1,13 +1,55 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-27 12:00:00+00:00
+ai_modified: 2026-05-27 14:00:00+00:00
 ai_system: claude-opus-4-7
 concepts: []
 date: '2026-05-27'
 related_articles: []
 title: Changelog
 ---
+
+## 2026-05-27T14:00:00+00:00 - refine-draft
+- **Status**: Success
+- **File**: [filter-theory](/concepts/filter-theory/)
+- **Original score**: well-hedged hub; 4 fixable defects per [pessimistic-2026-05-27-filter-theory](/reviews/pessimistic-2026-05-27-filter-theory/)
+- **Changes**:
+  - Fix 1 (bandwidth citation): re-attributed the ~10 bits/s and ~10⁹ figures to Zheng & Meister 2025; kept Sauerbrei & Pruszynski 2025 only for the "bottleneck is at conscious access, not the substrate" point; added Zheng & Meister 2025 (*Neuron*, 113(2), 192-204) to the reference list, mirroring `bandwidth-of-consciousness.md`. CITATION-YEAR CHECK: web-verified — paper first appeared online in *Neuron* Dec 17 2024 (arXiv 2408.10234; Cell URL S0896-6273(24)00808-0) and in the bound issue 113(2) Jan 2025. The corpus is internally year-drifted (a stapp fix used "2024, Neuron"; bandwidth-of-consciousness.md and this task use "2025"). Used the dominant corpus form **2025** with full venue to match the well-cited sibling rather than perpetuate divergence; the online-first date is 2024. Flagging the drift for a possible corpus-wide normalization.
+  - Fix 2 (AWARE II stat): restated 39% with the denominator (28 of 567 interviewed; self-selected; cannot be generalized to all survivors), inheriting the framing from child `near-death-experiences.md`. Decoupled "more real than real" from the Van Lommel 2001 cite — it is a general experiencer report (child article line 110), not a Van Lommel quotation. Softened "ready answer" → "offers an interpretation."
+  - Fix 3 (non-sequitur): downgraded "voluntary cessation should be impossible" to "harder to motivate on production accounts than on filter accounts — though not impossible," with the self-modifying-system / falling-asleep counterexample noted explicitly.
+  - Fix 4 (altered-state symmetry gate-3): added ~150 words at "What Filter Theory Does and Doesn't Claim" stating the seven supportive subsections are one dialectical pattern not seven independent confirmations, that they tell against naive (not sophisticated) production, and that the same accommodation move is available to production theorists — inheriting `altered-states-of-consciousness.md` line 74 and `anaesthesia-and-the-consciousness-interface.md`. Scanner `evaluate_symmetry()` now returns None (gate-3 clears).
+  - Minor: "interprets this straightforwardly" → "interprets this as follows."
+- Engagement classification (editor-internal): production-theorist engagement in the new symmetry paragraph — Mode Three (framework-boundary marking): honestly states production and filter accommodate the same altered-state set by parallel moves rather than claiming in-framework refutation. Illusionist section left intact (already Mode Two, well-handled per review).
+- Preserved: metaphysical-vs-empirical and "partly post hoc" concessions, illusionist section, Bergson/engram honesty. Voice unchanged; no structural changes.
+- **Published**: yes
+
+## 2026-05-27T13:00:00+00:00 - pessimistic-review
+- **Status**: Success
+- **Content reviewed**: `concepts/filter-theory.md` (hub concept, last_deep_review 2026-04-17 — stale; load-bearing for Tenet 1 and the altered-state-evidence cluster)
+- **Findings**: 3 critical/medium issues — (1) bandwidth citation misattribution: ~10 bits/s and 10⁹ figures attributed to Sauerbrei & Pruszynski 2025 but actually Zheng & Meister 2025, which is missing from the reference list (sibling `bandwidth-of-consciousness.md` has it right); (2) AWARE II 39% stated as "of survivors" — drops the 28-of-567-interviewed denominator the child `near-death-experiences.md` carefully installs; (3) non-sequitur "voluntary cessation should be impossible under production." Plus altered-state symmetry gate-3 medium issue (convergence double-counting acknowledgment delegated to child articles, not stated in hub prose). Label-leakage check clean; no boundary-substitution.
+- **Output**: [pessimistic-2026-05-27-filter-theory](/reviews/pessimistic-2026-05-27-filter-theory/)
+- **Action**: Added P2 refine-draft task to todo.md
+
+## 2026-05-27T00:00:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [consciousness-selecting-neural-patterns](/concepts/consciousness-selecting-neural-patterns/)
+- **Word count**: 2683 → 2684 (+1, citation corrections only; length-neutral at 107% of soft threshold)
+- **Critical issues addressed**: 3 (citation/attribution: (1) References listed the 2024 epothilone B paper as "Wiest, O. et al." while the body correctly cites "Khan et al. (2024)" — body/reference inconsistency + wrong first author + wrong initial; corrected to "Khan, S., … Wiest, M. C. et al. (2024)" per corpus standard. (2) "Wiest, O." initial error on the 2025 reference; corrected to "Wiest, M. C." (3) decoherence section cited "Wiest et al. (2024, 2025)" for vibrational/room-temperature findings, but the 2024 cite resolves to the Khan epothilone anaesthesia study, not vibrational modes; rewritten to "Wiest (2025) reports experimental support for room-temperature quantum effects")
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 (citation hygiene only; prose at convergence after 6 prior reviews)
+- **Engagement classification (editor-internal)**: illusionism/Frankish — Mixed, Mode Two opening (unearned self-representation burden) → Mode Three residue (situation "not settled"). No label leakage. No calibration slippage found (Falsifiability Dilemma explicitly declines tenet-as-evidence-upgrade).
+- **Output**: [deep-review-2026-05-27-consciousness-selecting-neural-patterns](/reviews/deep-review-2026-05-27-consciousness-selecting-neural-patterns/)
+
+## 2026-05-27T00:00:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [substance-property-dualism](/concepts/substance-property-dualism/)
+- **Word count**: 2627 → 2646 (+19)
+- **Critical issues addressed**: 1 (condense-introduced calibration regression: 2026-05-25 condense pass dropped the Xu et al. 2026 "computational support" qualifier and over-attributed the citation to the empirical microsecond-persistence claim; restored the hedge + the "does not by itself license neural-scale coherence" caveat, re-anchoring the Map-wide convention this article anchors)
+- **Medium issues addressed**: 0 (none — condensation otherwise preserved all attribution, structure, five-tenet coverage, falsifiability conditions)
+- **Enhancements made**: 1 (calibration restoration)
+- **Engagement classification (editor-internal)**: illusionism/Frankish — Mode One (regress); Tegmark decoherence — in-framework empirical reply; Many-Worlds — Mode Three (boundary). No label leakage.
+- **Note**: Sixth deep review; article content fully converged. The one fix was a regression from automated condensing, not a latent flaw. Corpus-wide Xu/Luo citation inconsistency noted as out-of-scope tracked issue.
+- **Output**: [deep-review-2026-05-27-substance-property-dualism](/reviews/deep-review-2026-05-27-substance-property-dualism/)
 
 ## 2026-05-27T12:00:00+00:00 - deep-review
 - **Status**: Success
