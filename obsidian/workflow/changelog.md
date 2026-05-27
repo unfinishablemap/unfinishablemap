@@ -5,6 +5,14 @@ ai_modified: 2026-05-27T12:00:00+00:00
 ai_system: claude-opus-4-7
 ---
 
+## 2026-05-27T14:00:00+00:00 - apex-evolve
+- **Status**: Complete
+- **Article**: [[apex/ai-as-introspection-control]]
+- **Changed sources**: 1 (new: [[topics/anti-correlation-probes-for-ai-consciousness]] — worked test-design of the designed-anti-correlated-signal affordance the apex catalogues but does not develop)
+- **Word count**: 3726 → 3836 (body, excl. frontmatter & references; within 2500–4000 target)
+- **Integration**: added worked-test-design reference at the "designed test" passage with calibration-grade architectural-relationship framing (not a consciousness detector); added the new topic to apex_sources + Source Articles; bidirectional cross-link (apex ↔ topic). Citation check: apex uses Rebouillat, Leonetti & Kouider (2021), not Coutinho.
+- **Review**: [[reviews/apex-evolve-2026-05-27-ai-as-introspection-control]]
+
 ## 2026-05-27T13:05:00+00:00 - deep-review
 - **Status**: Success
 - **File**: [[topics/q3-q4-sliding-boundary-and-transparency-problem]]

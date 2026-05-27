@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-05-27
-ai_modified: 2026-05-27 12:00:00+00:00
+ai_modified: 2026-05-27 14:00:00+00:00
 ai_system: claude-opus-4-7
 author: null
 concepts:
@@ -28,6 +28,7 @@ related_articles:
 - '[[concepts/ai-consciousness-typology]]'
 - '[[voids/confabulation-void]]'
 - '[[apex/introspection-architecture-void-cluster]]'
+- '[[apex/ai-as-introspection-control]]'
 title: Anti-Correlation Probes for AI Consciousness
 topics:
 - '[[hard-problem-of-consciousness]]'
@@ -129,6 +130,7 @@ Three limits bound the probe's reach beyond the case-differentiation already dra
 - [ai-consciousness-typology](/concepts/ai-consciousness-typology/) — the typology the probe's architectural results inform without settling
 - [confabulation-void](/voids/confabulation-void/) — the void for which anti-correlation is the detection face
 - [introspection-architecture-void-cluster](/apex/introspection-architecture-void-cluster/) — the apex cluster where the underlying concept is load-bearing
+- [ai-as-introspection-control](/apex/ai-as-introspection-control/) — the synthesis that catalogues this probe as one of several control affordances; this article is the worked test-design treatment of its designed-anti-correlated-signal affordance
 - [evidential-status-discipline](/project/evidential-status-discipline/) — the calibration discipline the probe's results must honour
 - [process-content-distinction](/concepts/process-content-distinction/) — locates the probe on the process side, where introspective access is least reliable
 
