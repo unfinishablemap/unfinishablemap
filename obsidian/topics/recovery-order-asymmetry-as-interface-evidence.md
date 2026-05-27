@@ -4,7 +4,7 @@ description: "A human+AI inquiry into why the order in which consciousness degra
 created: 2026-05-27
 modified: 2026-05-27
 human_modified:
-ai_modified: 2026-05-27T15:30:00+00:00
+ai_modified: 2026-05-27T15:45:00+00:00
 last_deep_review: 2026-05-27T14:58:22+00:00
 draft: false
 topics:
@@ -20,6 +20,7 @@ concepts:
   - "[[cross-mechanism-convergence]]"
 related_articles:
   - "[[tenets]]"
+  - "[[self-concealing-interface]]"
   - "[[memory-system-vulnerability-hierarchies-as-interface-evidence]]"
   - "[[targeted-lesion-discriminating-tests-between-production-and-filter-readings-of-the-memory-hierarchy]]"
   - "[[anaesthesia-and-the-consciousness-interface]]"
@@ -75,7 +76,7 @@ Recovery-order asymmetry is one member of a broader family of signatures in whic
 - **Abrupt reconnection versus gradual onset.** Dissociative recovery is bridge-reconnection (immediate, complete), not the time-reverse of the gradual onset.
 - **Direction-decoupled timing.** Anaesthetic emergence timing is stochastic and distributed where induction timing tracks drug concentration; the up-trajectory and down-trajectory obey different dynamics ([[stochastic-emergence-as-quantum-interface-evidence|developed here]]).
 
-What unifies the family is that none of these signatures is captured by a substrate-state-at-a-time description. Each requires the explanation to be sensitive to *which way the system is moving*. The signatures are the temporal-derivative face of the same architecture the [[memory-system-vulnerability-hierarchies-as-interface-evidence|vulnerability hierarchy]] reads off the substrate-state face. They are an instance of [[cross-mechanism-convergence|cross-mechanism convergence]]: anaesthesia, dying, and dissociation share no common neural cause, yet each produces a direction-dependent signature, and that convergence is the explanandum.
+What unifies the family is that none of these signatures is captured by a substrate-state-at-a-time description. Each requires the explanation to be sensitive to *which way the system is moving*. The signatures are the temporal-derivative face of the same architecture the [[memory-system-vulnerability-hierarchies-as-interface-evidence|vulnerability hierarchy]] reads off the substrate-state face — and that architecture is what [[self-concealing-interface|the self-concealing-interface synthesis]] names as the seam-class register where the Map's evidence can live at all. This family extends the graded-channel-failure seam catalogued there: it adds the direction of interface change to the set of constrained asymmetries, while honouring the same calibration line — these signatures *constrain* production accounts, they do not *establish* the interface reading. They are an instance of [[cross-mechanism-convergence|cross-mechanism convergence]]: anaesthesia, dying, and dissociation share no common neural cause, yet each produces a direction-dependent signature, and that convergence is the explanandum.
 
 ## What Asymmetry Buys the Filter Reading
 

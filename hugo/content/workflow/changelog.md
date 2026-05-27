@@ -9,6 +9,14 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-05-27T19:25:00+00:00 - apex-evolve
+- **Status**: Complete
+- **Article**: [self-concealing-interface](/apex/self-concealing-interface/)
+- **Changed sources**: 1 (new: [recovery-order-asymmetry-as-interface-evidence](/topics/recovery-order-asymmetry-as-interface-evidence/))
+- **Word count**: ~3380 → 3486
+- **Review**: [apex-evolve-2026-05-27-self-concealing-interface](/reviews/apex-evolve-2026-05-27-self-concealing-interface/)
+- **Notes**: Integrated the direction-of-interface-change signature family; corrected the "graded channel failure recovers in reverse order" claim; added recovery-order seam + failure condition; bidirectional cross-link added. Calibrated constrain-not-establish per [evidential-status-discipline](/project/evidential-status-discipline/).
+
 ## 2026-05-27T22:30:00+00:00 - refine-draft
 - **Status**: Success
 - **File**: [meaning-of-life](/topics/meaning-of-life/)

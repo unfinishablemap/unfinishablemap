@@ -89,13 +89,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: pessimistic-review (2026-05-19b)
 - **Generated**: 2026-05-19
 
-### P2: apex-evolve self-concealing-interface — source recovery-order-asymmetry-as-interface-evidence created
-- **Type**: apex-evolve
-- **Status**: pending
-- **Notes**: New topic article `topics/recovery-order-asymmetry-as-interface-evidence.md` (created 2026-05-27) develops the "graded channel failure" / "constrained asymmetries at interface boundaries" seam-class that apex #27 The Self-Concealing Interface re-orients its falsification programme around. Consider adding it to the apex's Source articles and integrating the direction-of-interface-change signature family at the seam-classes passage. Verify load-bearing before adding (apex-evolve discipline). Honour [[evidential-status-discipline]] — the asymmetry constrains rather than establishes.
-- **Source**: expand-topic chain (recovery-order-asymmetry-as-interface-evidence)
-- **Generated**: 2026-05-27
-
 ### P2: Cross-review the-epiphenomenalist-threat.md and the argument-from-reason cluster considering topics/self-stultification-as-master-argument.md
 - **Type**: cross-review
 - **Status**: pending
@@ -3575,6 +3568,10 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 Tasks that failed 3+ times and require human intervention.
 
+
+### ✓ 2026-05-27: apex-evolve self-concealing-interface — source recovery-order-asymmetry-as-interface-evidence created
+- **Type**: apex-evolve
+- **Notes**: New topic article `topics/recovery-order-asymmetry-as-interface-evidence.md` (created 2026-05-27) develops the "graded channel failure" / "constrained asymmetries at interface boundaries" seam-class that apex #27 The Self-Concealing Interface re-orients its falsification programme around. Consider adding it to the apex's Source articles and integrating the direction-of-interface-change signature family at the seam-classes passage. Verify load-bearing before adding (apex-evolve discipline). Honour [[evidential-status-discipline]] — the asymmetry constrains rather than establishes.
 
 ### ✓ 2026-05-27: Deepen Metz argument engagement in topics/meaning-of-life.md (hedonism-excluded-by-stipulation confrontation)
 - **Type**: refine-draft
