@@ -1,9 +1,21 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-27T04:32:00+00:00
+ai_modified: 2026-05-27T07:27:07+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-05-27T07:27:07+00:00 - refine-draft (interface-formalism cluster candour gaps)
+- **Status**: Success
+- **Task**: Citation/candour calibration on the interface-formalism cluster, from [[reviews/pessimistic-2026-05-27-interface-formalism-cluster]] (Issues 3, 4, and Counterargument 2). Three fixes; no arguments rewritten.
+- **Files edited (4)**: [[topics/mathematical-structure-of-the-consciousness-physics-interface]], [[concepts/consciousness-physics-interface-formalism]], [[concepts/causal-consistency-constraint]], [[concepts/post-decoherence-selection]] (sibling carrying the Torres Alegre "showed" claim).
+- **Fix 1 (signature-free default candour)**: math-structure — added a paragraph after the corridor-default declaration stating plainly that the corridor/trumping readings the Map prefers are signature-free while only the disfavoured minimum-outside reading is testable, so the Map's empirical content lives in the option it does not endorse; the default purchases conservatism with loss of empirical signature, and the Map accepts that trade rather than endorse a Born-violating reading just to be falsifiable. causal-consistency — parallel acknowledgement appended to the corridor-readings paragraph.
+- **Fix 2 (MWI boundary-substitution → honest Tenet-4 marking)**: reframed "interpretively inert" (math-structure) and "the formalism becomes vacuous" (formalism) MWI lines. Now: the selection reading "has no role to play *given the Map's rejection of MWI*", explicitly a framework-boundary disagreement, not a mathematical defeat — noting the Born-rule reconstructions the cluster cites share a lineage with the Everettian decision-theoretic Born derivation (Deutsch, Wallace), so MWI is a rival claimant to the theorems, not an interpretation they render vacuous. Map sets MWI aside on Tenet 4 and says so. channel-class-taxonomy.md's "under MWI the realisation step is vacuous" left untouched — it already attributes the loss to Tenet 4 being presupposed and describes the selection-dependent realisation layer, which is honest boundary-marking, not substitution.
+- **Fix 3 (preprint hedging + bandwidth category note)**: softened "Pati (2026) showed/strengthened" → "argues/sharpens" with inline "recent arXiv preprint, not yet peer-reviewed" flag (math-structure, formalism); "Torres Alegre (2025) proved/shows/showed" → "argues/derives" with preprint flag (causal-consistency heading "What Torres Alegre Argues" + opening + formalism + post-decoherence-selection). Published peer-reviewed sources (Masanes-Galley-Müller 2019, Sorkin 1994) left with "proved/demonstrated". Added a note in formalism that the ~10 bits/s figure is a cognitive-throughput measure, not a directly measured quantum-coupling rate, so using it to bound C is a plausibility argument by analogy, not a derived constraint of the five constraints' standing.
+- **Out of scope (left for the citation-reconciliation task)**: review Issues 1 & 2 (Masanes-Galley-Müller Nature Physics-vs-Nature Communications venue conflict; Tonetto B.-vs-L. initial/title/venue conflict) are citation-metadata reconciliation, not candour calibration — not touched per task scope.
+- **Engagement with Deutsch (MWI defender)**: framework-boundary marking; the reply now declares the Tenet-4 disagreement honestly rather than dressing tenet-incompatibility as a mathematical refutation of Everett. No mode labels in article bodies.
+- **Preserved**: conditionality discipline, "favours no reading over consciousness-free rivals" disclaimers, the form/existence and derivational/empirical qualifications. No editor-vocabulary leakage (grep clean).
+- **Published**: yes (draft: false unchanged)
 
 ## 2026-05-27T07:22:00+00:00 - refine-draft (cross-article citation audit)
 - **Status**: Success

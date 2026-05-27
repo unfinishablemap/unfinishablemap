@@ -107,13 +107,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: outer-review
 - **Generated**: 2026-05-27
 
-### P3: Address candour gaps in interface-formalism cluster (unfalsifiable default, MWI boundary-marking, preprint overclaim)
-- **Type**: refine-draft
-- **Status**: pending
-- **Notes**: Pessimistic review 2026-05-27 found three non-fatal candour gaps in the interface-formalism cluster. (1) The Map's *default* corridor/trumping readings are, by their own description, signature-free/unfalsifiable while only the *disfavoured* minimum-outside-corridor reading is testable — add a short inline acknowledgement that the default purchases conservatism with loss of empirical signature. (2) MWI is called "vacuous"/"interpretively inert" w.r.t. the cluster's mathematics, but the Deutsch-Wallace Born derivation is in the same lineage the cluster cites approvingly — this is a boundary-substitution slip; reframe as honest Tenet-4 framework-boundary marking ("ruled out by the Map's rejection of MWI") rather than mathematical defeat. (3) Soften "Pati (2026) showed"/"Torres Alegre (2025) proved" to "argues"/"derives" since these are unrefereed preprints; optionally note the ~10 bits/s bandwidth figure is a cognitive-throughput measure, not a quantum-coupling information rate. Preserve all existing strengths (conditionality discipline, no-favouring disclaimers). See [[reviews/pessimistic-2026-05-27-interface-formalism-cluster]].
-- **Source**: pessimistic-review (2026-05-27)
-- **Generated**: 2026-05-27
-
 ### P3: Apex synthesis — "The self is constructed; the constructor is not"
 - **Type**: apex-evolve
 - **Status**: pending
@@ -3763,6 +3756,10 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 Tasks that failed 3+ times and require human intervention.
 
+
+### ✓ 2026-05-27: Address candour gaps in interface-formalism cluster (unfalsifiable default, MWI boundary-marking, preprint overclaim)
+- **Type**: refine-draft
+- **Notes**: Pessimistic review 2026-05-27 found three non-fatal candour gaps in the interface-formalism cluster. (1) The Map's *default* corridor/trumping readings are, by their own description, signature-free/unfalsifiable while only the *disfavoured* minimum-outside-corridor reading is testable — add a short inline acknowledgement that the default purchases conservatism with loss of empirical signature. (2) MWI is called "vacuous"/"interpretively inert" w.r.t. the cluster's mathematics, but the Deutsch-Wallace Born derivation is in the same lineage the cluster cites approvingly — this is a boundary-substitution slip; reframe as honest Tenet-4 framework-boundary marking ("ruled out by the Map's rejection of MWI") rather than mathematical defeat. (3) Soften "Pati (2026) showed"/"Torres Alegre (2025) proved" to "argues"/"derives" since these are unrefereed preprints; optionally note the ~10 bits/s bandwidth figure is a cognitive-throughput measure, not a quantum-coupling information rate. Preserve all existing strengths (conditionality discipline, no-favouring disclaimers). See [[reviews/pessimistic-2026-05-27-interface-formalism-cluster]].
 
 ### ✓ 2026-05-27: Cross-article audit of Tegmark/Hagan decoherence citations
 - **Type**: cross-review
