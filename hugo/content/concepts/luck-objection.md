@@ -176,4 +176,4 @@ The luck objection directly challenges the Map's [Bidirectional Interaction](/te
 1. Tallis, R. (2024). "The Illusion of Illusionism." *Philosophy Now*.
 1. Tegmark, M. (2000). Importance of quantum decoherence in brain processes. *Physical Review E*, 61(4), 4194-4206.
 1. Van Inwagen, P. (2000). "Free Will Remains a Mystery." *Philosophical Perspectives*, 14, 1-19.
-1. Wiest, O. et al. (2024). Microtubule-stabilizer epothilone B delays anesthetic-induced unconsciousness in rats. *eNeuro*, 11(8).
+1. Khan, S., ... Wiest, M. C. et al. (2024). Microtubule-stabilizer epothilone B delays anesthetic-induced unconsciousness in rats. *eNeuro*, 11(8), ENEURO.0291-24.2024.

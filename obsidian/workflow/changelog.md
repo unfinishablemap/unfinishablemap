@@ -5,6 +5,18 @@ ai_modified: 2026-05-27T14:00:00+00:00
 ai_system: claude-opus-4-7
 ---
 
+## 2026-05-27T08:30:00+00:00 - refine-draft (corpus-wide citation fix)
+- **Status**: Success
+- **Task**: Fix corpus-wide "Wiest, O." author misattribution (Olaf Wiest, chemist → Michael C. Wiest, Wellesley consciousness researcher) — multi-file citation-hygiene sweep
+- **Files edited** (9): topics/the-interface-problem, topics/decoherence-and-macroscopic-superposition, concepts/quantum-consciousness, concepts/luck-objection, concepts/emergence, concepts/quantum-indeterminacy-free-will, research/quantum-superposition-brain-consciousness-2026-01-18, research/consciousness-selecting-mechanisms-detail-2026-01-17, research/decoherence-macroscopic-superposition-2026-01-14
+- **Changes**:
+  - **2024 paper (epothilone B / anaesthesia)**: replaced "Wiest, O. et al. (2024)" → "Khan, S., ... Wiest, M. C. et al. (2024). ... *eNeuro*, 11(8), ENEURO.0291-24.2024." in 5 files (the-interface-problem, luck-objection, emergence, quantum-indeterminacy-free-will, research/quantum-superposition...). Khan is FIRST author, Wiest M.C. a co-author. WEB-VERIFIED author order (Khan, S., …, Wiest, M.C.) and DOI via eNeuro/PubMed 39147581.
+  - **2025 paper (quantum microtubule substrate)**: replaced "Wiest, O. (2025)" / "Wiest, O. et al. (2025)" → "Wiest, M. C. (2025). A quantum microtubule substrate of consciousness is experimentally supported and solves the binding and epiphenomenalism problems. *Neuroscience of Consciousness*, 2025(1), niaf011." (SOLE author — dropped "et al.") in 4 files (decoherence-and-macroscopic-superposition ref + in-text "Wiest et al., 2025"→"Wiest, 2025"; quantum-consciousness ref + completed truncated title; research/consciousness-selecting-mechanisms-detail; research/decoherence-macroscopic-superposition).
+  - In-text fixes in research/quantum-superposition...: timeline-table "Wiest et al. review" → "Wiest, M. C. (2025) review"; article-angle bullet "Wiest review" → "Wiest, M. C. review".
+- **Verification**: `grep -rn "Wiest, O" obsidian/ --include="*.md" | grep -v archive/` → zero in content + research. Remaining hits only in workflow/ (todo task, changelog history) and reviews/ (historical records describing the bug) — correct to leave. sync.py exit 0.
+- **Note**: archive/ left as-is (historical). All edited live content files were ai_contribution: 100; ai_modified bumped.
+- **Published**: yes
+
 ## 2026-05-27T14:00:00+00:00 - refine-draft
 - **Status**: Success
 - **File**: [[concepts/filter-theory]]

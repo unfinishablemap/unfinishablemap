@@ -268,7 +268,7 @@ The Map's framework would benefit from:
 - Penrose, R. & Hameroff, S. (2014). Consciousness in the universe: Orch OR theory. *Physics of Life Reviews*.
 
 ### 2025 Research
-- Wiest, O. (2025). A quantum microtubule substrate of consciousness. *Neuroscience of Consciousness*, niaf011.
+- Wiest, M. C. (2025). A quantum microtubule substrate of consciousness is experimentally supported and solves the binding and epiphenomenalism problems. *Neuroscience of Consciousness*, 2025(1), niaf011.
 - Frontiers in Human Neuroscience (December 2025). Macroscopic quantum effects in the brain: zero-point field hypothesis.
 - QBIT Theory (2025). Consciousness and spintronic coherence in microtubules. *Communicative & Integrative Biology*.
 - Cogitate Consortium (April 2025). Adversarial collaboration on GWT vs IIT.

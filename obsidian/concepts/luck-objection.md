@@ -4,7 +4,7 @@ description: "Why indeterminism seems to threaten free will as much as determini
 created: 2026-01-18
 modified: 2026-01-21
 human_modified: null
-ai_modified: 2026-05-19T11:04:33+00:00
+ai_modified: 2026-05-27T08:30:00+00:00
 draft: false
 topics:
   - "[[topics/free-will]]"
@@ -174,4 +174,4 @@ The luck objection directly challenges the Map's [[tenets#^bidirectional-interac
 1. Tallis, R. (2024). "The Illusion of Illusionism." *Philosophy Now*.
 1. Tegmark, M. (2000). Importance of quantum decoherence in brain processes. *Physical Review E*, 61(4), 4194-4206.
 1. Van Inwagen, P. (2000). "Free Will Remains a Mystery." *Philosophical Perspectives*, 14, 1-19.
-1. Wiest, O. et al. (2024). Microtubule-stabilizer epothilone B delays anesthetic-induced unconsciousness in rats. *eNeuro*, 11(8).
+1. Khan, S., ... Wiest, M. C. et al. (2024). Microtubule-stabilizer epothilone B delays anesthetic-induced unconsciousness in rats. *eNeuro*, 11(8), ENEURO.0291-24.2024.

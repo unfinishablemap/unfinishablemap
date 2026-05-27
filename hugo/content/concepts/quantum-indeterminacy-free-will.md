@@ -233,6 +233,6 @@ The convergence of Kane's event-causal libertarianism (now incorporating agent-c
 1. Stapp, H. (2001). *Mind, Matter and Quantum Mechanics*. Springer.
 1. Tegmark, M. (2000). Importance of quantum decoherence in brain processes. *Physical Review E*, 61(4), 4194-4206.
 1. Van Inwagen, P. (1983). *An Essay on Free Will*. Oxford University Press.
-1. Wiest, O. et al. (2024). Microtubule-stabilizer epothilone B delays anesthetic-induced unconsciousness in rats. *eNeuro*, 11(8).
+1. Khan, S., ... Wiest, M. C. et al. (2024). Microtubule-stabilizer epothilone B delays anesthetic-induced unconsciousness in rats. *eNeuro*, 11(8), ENEURO.0291-24.2024.
 1. "Incompatibilist (Nondeterministic) Theories of Free Will." *Stanford Encyclopedia of Philosophy*.
 1. "Quantum Approaches to Consciousness." *Stanford Encyclopedia of Philosophy*.

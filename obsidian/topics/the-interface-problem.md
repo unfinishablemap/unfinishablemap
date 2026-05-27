@@ -4,7 +4,7 @@ description: "Where does consciousness meet the brain, and how does conscious st
 created: 2026-02-09
 modified: 2026-05-18
 human_modified: null
-ai_modified: 2026-05-19T11:04:33+00:00
+ai_modified: 2026-05-27T08:30:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -199,5 +199,5 @@ The interface problem is the Map's most significant open challenge. Partial answ
 13. Stapp, H.P. (2007). *Mindful Universe: Quantum Mechanics and the Participating Observer*. Springer.
 14. Tegmark, M. (2000). Importance of quantum decoherence in brain processes. *Physical Review E*, 61(4), 4194-4206.
 15. Westbrook, A., et al. (2023). Dopamine regulates decision thresholds in human reinforcement learning in males. *Nature Communications*, 14, 5340.
-16. Wiest, O. et al. (2024). Microtubule-stabilizer epothilone B delays anesthetic-induced unconsciousness in rats. *eNeuro*, 11(8).
+16. Khan, S., ... Wiest, M. C. et al. (2024). Microtubule-stabilizer epothilone B delays anesthetic-induced unconsciousness in rats. *eNeuro*, 11(8), ENEURO.0291-24.2024.
 17. Zheng, J. & Meister, M. (2024). The Unbearable Slowness of Being: Why do we live at 10 bits/s? *Neuron*, 112(24).

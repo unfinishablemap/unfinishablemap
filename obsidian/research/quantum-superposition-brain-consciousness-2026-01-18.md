@@ -194,7 +194,7 @@ This research examines whether and how quantum superposition could persist in ne
 | 2020 | Saxena et al. verify microtubule quantum coherence | Experimental confirmation at room temperature |
 | 2024 | Tryptophan superradiance confirmed | Quantum collective behavior in biological molecules |
 | 2024 | Epothilone B delays anesthetic unconsciousness | Direct evidence linking microtubules to consciousness |
-| 2025 | Wiest et al. review in Neuroscience of Consciousness | Comprehensive synthesis supporting quantum substrate |
+| 2025 | Wiest, M. C. (2025) review in Neuroscience of Consciousness | Comprehensive synthesis supporting quantum substrate |
 
 ## Potential Article Angles
 
@@ -206,7 +206,7 @@ Based on this research, an article could:
 
 3. **"The Anesthesia-Consciousness Connection"** - Focus on how anesthetics affect quantum processes in microtubules, the epothilone B study, and what this reveals about consciousness mechanisms. Directly supports Bidirectional Interaction.
 
-4. **Cross-review opportunity**: The existing quantum-consciousness.md and decoherence.md pages could be updated with the 2024-2025 experimental findings (superradiance, epothilone B, Wiest review).
+4. **Cross-review opportunity**: The existing quantum-consciousness.md and decoherence.md pages could be updated with the 2024-2025 experimental findings (superradiance, epothilone B, Wiest, M. C. review).
 
 When writing articles, follow `obsidian/project/writing-style.md` for:
 - Named-anchor summary technique for forward references
@@ -252,4 +252,4 @@ Directly relevant. The assumption that warm biology must be classical turned out
 - Stanford Encyclopedia of Philosophy. (2024). Quantum Approaches to Consciousness. https://plato.stanford.edu/entries/qt-consciousness/
 - Stapp, H.P. (2001). Quantum theory and the role of mind in nature. *Foundations of Physics*, 31(10), 1465-1499.
 - Tegmark, M. (2000). Importance of quantum decoherence in brain processes. *Physical Review E*, 61(4), 4194-4206.
-- Wiest, O. et al. (2024). Microtubule-stabilizer epothilone B delays anesthetic-induced unconsciousness in rats. *eNeuro*, 11(8).
+- Khan, S., ... Wiest, M. C. et al. (2024). Microtubule-stabilizer epothilone B delays anesthetic-induced unconsciousness in rats. *eNeuro*, 11(8), ENEURO.0291-24.2024.

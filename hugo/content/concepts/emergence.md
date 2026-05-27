@@ -209,4 +209,4 @@ This vocabulary serves comparison rather than canonical self-description: the Ma
 1. Kim, J. (1998). *Mind in a Physical World*. MIT Press.
 1. O'Connor, T. & Wong, H.Y. (2005). The Metaphysics of Emergence. *Noûs*, 39: 658-678.
 1. Seager, W. (2016). *Theories of Consciousness*. Routledge.
-1. Wiest, O. et al. (2024). Microtubule-stabilizer epothilone B delays anesthetic-induced unconsciousness in rats. *eNeuro*, 11(8).
+1. Khan, S., ... Wiest, M. C. et al. (2024). Microtubule-stabilizer epothilone B delays anesthetic-induced unconsciousness in rats. *eNeuro*, 11(8), ENEURO.0291-24.2024.

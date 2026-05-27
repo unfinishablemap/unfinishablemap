@@ -97,7 +97,7 @@ This is evolution harnessing quantum mechanics for biological function in a warm
 
 ### Microtubule Quantum Effects
 
-Evidence for quantum effects in neural microtubules remains contested. Direct measurements of tryptophan superradiance (Babcock et al., 2024), anaesthetic effects on microtubule quantum oscillations (Wiest et al., 2025), and MRI signatures potentially indicating macroscopic entanglement (Kerskens & Pérez, 2022) suggest quantum effects may be present in neural tissue. Reimers et al. (2009) and McKemmish et al. (2009) challenge the parameter assumptions in Hagan et al.'s (2002) corrections to Tegmark, finding that the dielectric properties required either lack empirical support or specify regimes microtubules do not occupy in living tissue.
+Evidence for quantum effects in neural microtubules remains contested. Direct measurements of tryptophan superradiance (Babcock et al., 2024), anaesthetic effects on microtubule quantum oscillations (Wiest, 2025), and MRI signatures potentially indicating macroscopic entanglement (Kerskens & Pérez, 2022) suggest quantum effects may be present in neural tissue. Reimers et al. (2009) and McKemmish et al. (2009) challenge the parameter assumptions in Hagan et al.'s (2002) corrections to Tegmark, finding that the dielectric properties required either lack empirical support or specify regimes microtubules do not occupy in living tissue.
 
 The [decoherence](/concepts/decoherence/) article examines this multi-sided dispute—Tegmark, Hagan, Reimers, and McKemmish—in detail. The empirical question is live rather than settled, and the Map's microtubule-scale interest is tenet-driven rather than empirically forced. The categorical claim that biology *cannot* harness quantum effects is refuted by magnetoreception; whether the brain does so remains open.
 
@@ -170,7 +170,7 @@ The [Minimal Quantum Interaction tenet](/tenets/#minimal-quantum-interaction) ga
 1. Reimers, J.R., McKemmish, L.K., McKenzie, R.H., Mark, A.E., & Hush, N.S. (2009). Weak, strong, and coherent regimes of Fröhlich condensation and their applications to terahertz medicine and quantum consciousness. *PNAS*, 106(11), 4219-4224.
 1. Schrödinger, E. (1935). Die gegenwärtige Situation in der Quantenmechanik. *Naturwissenschaften*, 23, 807-812.
 1. Stanford Encyclopedia of Philosophy. The Role of Decoherence in Quantum Mechanics.
-1. Wiest, O. et al. (2025). A quantum microtubule substrate of consciousness is experimentally supported and solves the binding and epiphenomenalism problems. *Neuroscience of Consciousness*, 2025(1), niaf011.
+1. Wiest, M. C. (2025). A quantum microtubule substrate of consciousness is experimentally supported and solves the binding and epiphenomenalism problems. *Neuroscience of Consciousness*, 2025(1), niaf011.
 1. Yang, I. et al. (2025). Hot Schrödinger cat states. *Science Advances*, 11, eadr4492.
 1. Nanoparticle matter-wave interference. (2025). arXiv:2507.21211.
 1. Schwartz, J. M., Stapp, H. P., & Beauregard, M. (2005). Quantum physics in neuroscience and psychology: A neurophysical model of mind-brain interaction. *Philosophical Transactions of the Royal Society B*, 360(1458), 1309-1327.

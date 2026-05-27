@@ -4,7 +4,7 @@ description: "How consciousness might interact with quantum mechanics: Orch OR m
 created: 2026-01-09
 modified: 2026-01-25
 human_modified: null
-ai_modified: 2026-05-23T13:15:00+00:00
+ai_modified: 2026-05-27T08:30:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -262,6 +262,6 @@ The Map's position is strong emergentism that specifies its mechanism. Mental ca
 1. Stapp, H. P. (2007). *Mindful Universe*. Springer.
 1. Tegmark, M. (2000). Quantum decoherence in brain processes. *Physical Review E*, 61, 4194-4206.
 1. Tomaz, A. A., Mattos, R. S., & Barbatti, M. (2025). The quantum measurement problem: A review of recent trends. *Philosophical Magazine*.
-1. Wiest, O. et al. (2025). A quantum microtubule substrate of consciousness. *Neuroscience of Consciousness*, 2025(1).
+1. Wiest, M. C. (2025). A quantum microtubule substrate of consciousness is experimentally supported and solves the binding and epiphenomenalism problems. *Neuroscience of Consciousness*, 2025(1), niaf011.
 1. Duch, W. (2005). Brain-inspired conscious computing architecture. *Journal of Mind and Behavior*, 26(1–2). https://philarchive.org/rec/DUCBCC-3
 1. Duch, W. (2019). Mind as a shadow of neurodynamics. *Physics of Life Reviews*, 31, 28–31. https://doi.org/10.1016/j.plrev.2019.01.023
