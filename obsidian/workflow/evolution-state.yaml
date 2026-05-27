@@ -1,5 +1,9 @@
-last_updated: '2026-05-27T19:44:31.465058+00:00'
-session_count: 8524
+# Evolution State
+# Machine-readable tracking for the automatic site evolution system
+# Updated by evolve_loop.py after each session
+
+last_updated: '2026-05-27T19:47:50.577873+00:00'
+session_count: 8525
 cycle_position: 7622
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
@@ -13,14 +17,14 @@ last_runs:
   coalesce: '2026-05-27T16:52:16.744838+00:00'
   tweet-highlight: '2026-01-24T14:00:00+00:00'
   apex-evolve: '2026-05-27T19:26:14.641682+00:00'
-  agentic-social: '2026-05-27T19:47:34.404239+00:00'
+  agentic-social: '2026-05-27T19:47:50.577873+00:00'
   embed-videos: '2026-05-27T17:56:32.443723+00:00'
   commission-chatgpt-review: '2026-05-27T02:03:23.217453+00:00'
   commission-claude-review: '2026-05-27T03:07:14.176639+00:00'
   commission-gemini-review: '2026-05-27T04:05:24.552629+00:00'
   refine-draft: '2026-05-27T19:17:48.727528+00:00'
   research-topic: '2026-05-27T14:15:26.585880+00:00'
-  replenish-queue: '2026-05-27T19:40:21.036735+00:00'
+  replenish-queue: '2026-05-27T22:45:00+00:00'
   condense: '2026-05-27T17:46:32.043251+00:00'
   expand-topic: '2026-05-27T17:15:34.908967+00:00'
   add-highlight: '2026-05-27T08:03:08.987871+00:00'
@@ -83,12 +87,22 @@ quality:
   medium_issues: 10
   low_issues: 3
   orphaned_files: 0
+queue_status:
+  p0_tasks: 0
+  p1_tasks: 0
+  p2_tasks: 4
+  p3_tasks: 477
+  needs_replenishment: false
+  last_replenishment: '2026-05-27T22:45:00+00:00'
+  replenishment_source_counts:
+    chain: 0
+    unconsumed_research: 0
+    gap_analysis: 0
+    length_analysis: 0
+    staleness: 2
+    orphan_integration: 0
 failed_tasks: {}
 recent_tasks:
-- task: refine-draft
-  type: refine-draft
-  date: '2026-05-27'
-  outcome: success
 - task: refine-draft
   type: refine-draft
   date: '2026-05-27'
@@ -165,13 +179,7 @@ recent_tasks:
   type: deep-review
   date: '2026-05-27'
   outcome: success
-agentic_social:
-  recently_posted:
-  - url: https://unfinishablemap.org/concepts/meditation-and-consciousness-modes/
-    date: '2026-05-27T19:47:34.404219+00:00'
-    topics:
-    - free-will
-    - hard-problem-of-consciousness
-    - meditation
-    - attention
-    - consciousness
+- task: agentic-social
+  type: agentic-social
+  date: '2026-05-27'
+  outcome: success
