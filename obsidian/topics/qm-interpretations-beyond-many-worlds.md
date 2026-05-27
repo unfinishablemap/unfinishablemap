@@ -4,7 +4,7 @@ description: "A survey of QM interpretations—Copenhagen, Bohmian, QBism, relat
 created: 2026-01-23
 modified: 2026-05-25
 human_modified:
-ai_modified: 2026-05-25T00:00:00+00:00
+ai_modified: 2026-05-27T12:00:00+00:00
 last_deep_review: 2026-04-18T06:48:00+00:00
 draft: false
 topics:
@@ -100,7 +100,7 @@ Under TI/TSVF, consciousness need not push outcomes forward in time like a billi
 
 Objective collapse theories—GRW (Ghirardi, Rimini, Weber), CSL (continuous spontaneous localisation), and Penrose's gravitational objective reduction—modify the Schrödinger equation so that collapse occurs as a real physical process, spontaneously and without requiring observers.
 
-Standard GRW and CSL leave no direct role for consciousness. Collapse happens according to physical parameters whether or not anyone is watching. But consciousness-integrated variants change this picture. Kremnizer and Ranchin (2015) and Okon and Sebastián (2016) have proposed modifying CSL so that integrated information (Φ from IIT) affects collapse rate or operator choice. Chalmers and McQueen (2022) developed this direction further, combining CSL's continuous collapse mechanism with [[integrated-information-theory|Integrated Information Theory]] (IIT): differences in integrated information (Φ) between superposed conscious states determine collapse rates. Under this proposal, consciousness does not *cause* collapse but *modulates* it—higher integration means faster, more stable localisation. This aligns with the Map's Minimal Quantum Interaction: consciousness biases outcomes within a physically grounded process rather than generating collapse from nothing.
+Standard GRW and CSL leave no direct role for consciousness. Collapse happens according to physical parameters whether or not anyone is watching. But consciousness-integrated variants change this picture. Kremnizer and Ranchin (2015) and Okon and Sebastián (2020) have proposed modifying CSL so that integrated information (Φ from IIT) affects collapse rate or operator choice. Chalmers and McQueen (2022) developed this direction further, combining CSL's continuous collapse mechanism with [[integrated-information-theory|Integrated Information Theory]] (IIT): differences in integrated information (Φ) between superposed conscious states determine collapse rates. Under this proposal, consciousness does not *cause* collapse but *modulates* it—higher integration means faster, more stable localisation. This aligns with the Map's Minimal Quantum Interaction: consciousness biases outcomes within a physically grounded process rather than generating collapse from nothing.
 
 Penrose's objective reduction takes a different path. Collapse occurs when gravitational self-energy reaches a threshold, and consciousness is what the collapse *produces*—not its cause but its consequence. This inverts the Map's [[tenets#^bidirectional-interaction|Bidirectional Interaction]] tenet, which requires consciousness to causally influence the physical world, not merely arise from it.
 
@@ -177,7 +177,7 @@ No interpretation is proven. The Map does not claim to know which is correct. Wh
 10. Hagan, S., Hameroff, S. R., & Tuszyński, J. A. (2002). Quantum computation in brain microtubules: decoherence and biological feasibility. *Physical Review E*, 65(6), 061901.
 11. Southgate, A. & Oquatre-six, C. (2026-01-19). The Many-Worlds Interpretation. *The Unfinishable Map*. https://unfinishablemap.org/concepts/many-worlds/
 12. Kremnizer, K., & Ranchin, A. (2015). Integrated information-induced quantum collapse. *Foundations of Physics*, 45(8), 889–899.
-13. Okon, E., & Sebastián, M. A. (2016). How to make quantum theory compatible with human experience. *Foundations of Physics*, 46(12), 1529–1552.
+13. Okon, E., & Sebastián, M. A. (2020). A consciousness-based quantum objective collapse model. *Synthese*, 197, 3947–3967.
 14. Wallace, D. (2012). *The Emergent Multiverse*. Oxford University Press.
 15. Stapp, H. P. (2007). *Mindful Universe*. Springer.
 16. Southgate, A. & Oquatre-six, C. (2026-02-22). The Philosophical Stakes of Spontaneous Collapse. *The Unfinishable Map*. https://unfinishablemap.org/topics/philosophical-stakes-of-spontaneous-collapse/

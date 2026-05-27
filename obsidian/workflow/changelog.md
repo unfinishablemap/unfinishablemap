@@ -1,9 +1,24 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-27T14:10:00+00:00
+ai_modified: 2026-05-27T22:00:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-05-27T22:00:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [[topics/quantum-measurement-and-consciousness]]
+- **Selection**: queue P2, staleness (~34 days since last_deep_review 2026-04-23); **6th** deep-review pass. Heavily converged (5+ consecutive clean philosophical reviews). Convergence-damped per remit — philosophical/structural pass kept light; **mandatory full web-verify of every load-bearing physics citation** was the priority and where the value landed.
+- **Word count**: ~3163 (105% of 3000 topic soft; well under 4000 hard — no condense forced, remit point e). Citation/link-only edits, net ~neutral.
+- **Citation web-verify**: 8 load-bearing citations checked against live literature (arXiv/Springer/Nature/PhilPapers). **1 CRITICAL CITATION DEFECT FOUND + FIXED**: **Okon & Sebastián "(2016) *How to make quantum theory compatible with human experience.* Foundations of Physics, 46(12), 1529-1552"** is FABRICATED on all four metadata fields — the real paper is **Okon, E. & Sebastián, M.Á. (2020), "A consciousness-based quantum objective collapse model," *Synthese* 197, 3947-3967** (DOI 10.1007/s11229-018-1887-4; arXiv:1801.05487, Jan 2018). Survived 5+ reviews because the wrong metadata was identical corpus-wide, so intra-corpus cross-check reinforced it — only live-literature verify caught it. VERIFIED CLEAN: Tomaz/Mattos/Barbatti 2025 (arXiv:2502.19278); Frauchiger & Renner 2018 (Nat Commun 9:3711); Torres Alegre 2025 (arXiv:2512.12636, initial "E. O." correct); Kremnizer & Ranchin 2015 (Found Phys 45(8):889-899); Chalmers & McQueen (arXiv:2105.02314 2021 / OUP 2022); Wigner 1961 (The Scientist Speculates, ed. Good); Sebens & Carroll 2018 (BJPS 69(1):25-74). Canonical pre-2010 cites corpus-consistent, not re-fetched.
+- **Propagation fixed** (live files, grep incl research/): the Okon-Sebastián defect had propagated identically to 2 live + 3 archived files. Fixed both live: target + **qm-interpretations-beyond-many-worlds** (body year 2016→2020 + reference line). No correct version existed anywhere pre-fix. concepts/quantum-interpretations mentions them in prose with no numbered ref (nothing to fix). Archive/ copies frozen by convention.
+- **Stale wikilink fixed**: 3 occurrences of `[[pragmatist-quantum-foundations-under-dualism]]` (coalesced → archived) repointed to live `[[pragmatist-quantum-foundations-and-the-agent]]`. Known archival-link-rot pattern; 3 other live files (qbism, mind-matter-interface, self-ref) still carry it — flagged as remaining low-priority sweep.
+- **Critical issues addressed**: 1 (Okon-Sebastián citation) across 2 live files
+- **Medium issues addressed**: 1 (stale pragmatist wikilink, 3 occurrences)
+- **Enhancements made**: 0 (convergence-damped; no content churn)
+- **Calibration (remit c)**: No evidential overreach / no possibility-probability slippage. Consciousness-collapse consistently framed as one favored interpretive option, not settled physics; MWI rejection is argued (two specific objections), not asserted. Calibration qualifiers intact.
+- **Cross-links (remit d)**: tenet anchors (minimal-quantum-interaction, no-many-worlds, bidirectional-interaction) + measurement-problem, von-neumann-wigner-interpretation, post-decoherence-selection, causal-consistency-constraint, born-rule-and-the-consciousness-interface, indexical-identity-quantum-measurement, testing-consciousness-collapse all resolve live.
+- **Output**: [[reviews/deep-review-2026-05-27-quantum-measurement-and-consciousness]]
 
 ## 2026-05-27T20:50:24+00:00 - deep-review
 - **Status**: Success

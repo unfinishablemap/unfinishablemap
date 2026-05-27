@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-17
-ai_modified: 2026-05-15 07:31:00+00:00
+ai_modified: 2026-05-27 12:00:00+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -32,7 +32,7 @@ description: 'The measurement problem and the hard problem share an identical lo
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-04-23 18:31:00+00:00
+last_deep_review: 2026-05-27 12:00:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -40,7 +40,7 @@ related_articles:
 - '[[collapse-and-time]]'
 - '[[quantum-measurement-and-subjective-probability]]'
 - '[[qm-interpretations-beyond-many-worlds]]'
-- '[[pragmatist-quantum-foundations-under-dualism]]'
+- '[[pragmatist-quantum-foundations-and-the-agent]]'
 - '[[born-rule-and-the-consciousness-interface]]'
 - '[[brain-internal-born-rule-testing]]'
 - '[[consciousness-measurement-problem-2026-01-16]]'
@@ -131,7 +131,7 @@ The Map [rejects Many-Worlds](/tenets/#no-many-worlds) while acknowledging that 
 
 ### Accept the Gap: Objective Collapse
 
-[Objective collapse theories](/concepts/spontaneous-collapse-theories/) (GRW, CSL, Penrose) treat collapse as a real physical process governed by modified dynamics. Standard versions give consciousness no role. But consciousness-integrated variants have been proposed: Kremnizer and Ranchin (2015) propose collapse triggered by integrated information, while Okon and Sebastián (2016) modify CSL so that conscious states affect collapse parameters. This modulation framework aligns with the Map's [Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction): consciousness nudges existing physical processes rather than overriding them.
+[Objective collapse theories](/concepts/spontaneous-collapse-theories/) (GRW, CSL, Penrose) treat collapse as a real physical process governed by modified dynamics. Standard versions give consciousness no role. But consciousness-integrated variants have been proposed: Kremnizer and Ranchin (2015) propose collapse triggered by integrated information, while Okon and Sebastián (2020) modify CSL so that conscious states affect collapse parameters. This modulation framework aligns with the Map's [Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction): consciousness nudges existing physical processes rather than overriding them.
 
 ### Exploit the Gap: Consciousness Selection
 
@@ -206,7 +206,7 @@ This topic is central to the Map's framework, connecting all five tenets:
 - [testing-consciousness-collapse](/topics/testing-consciousness-collapse/) — Three-tier prediction hierarchy, experimental obstacles, and the convergence strategy
 - [prebiotic-collapse](/concepts/prebiotic-collapse/) — How definite outcomes obtained before conscious observers existed
 - [qm-interpretations-beyond-many-worlds](/topics/qm-interpretations-beyond-many-worlds/) — Interpretation comparison
-- [pragmatist-quantum-foundations-under-dualism](/topics/pragmatist-quantum-foundations-and-the-agent/) — How QBism, Healey, Brukner-Zeilinger, and Stapp look once dualism is assumed
+- [pragmatist-quantum-foundations-and-the-agent](/topics/pragmatist-quantum-foundations-and-the-agent/) — How QBism, Healey, Brukner-Zeilinger, and Stapp look once dualism is assumed
 - [born-rule-and-the-consciousness-interface](/topics/born-rule-and-the-consciousness-interface/) — Empirical status of corridor vs. Born-bending dualism at the brain interface
 - [brain-internal-born-rule-testing](/topics/brain-internal-born-rule-testing/) — What experimental programme would foreclose the strict corridor reading of Tenet 2
 - [cognitive-science-of-dualism](/topics/cognitive-science-of-dualism/) — How cognitive science reinforces the first-person/third-person distinction
@@ -221,7 +221,7 @@ This topic is central to the Map's framework, connecting all five tenets:
 1. Frauchiger, D. & Renner, R. (2018). "Quantum theory cannot consistently describe the use of itself." *Nature Communications*, 9(1), 3711.
 1. Ghirardi, G.C., Rimini, A., Weber, T. (1986). "Unified dynamics for microscopic and macroscopic systems." *Physical Review D*.
 1. Kremnizer, K., & Ranchin, A. (2015). Integrated information-induced quantum collapse. *Foundations of Physics*, 45(8), 889-899.
-1. Okon, E., & Sebastián, M.A. (2016). How to make quantum theory compatible with human experience. *Foundations of Physics*, 46(12), 1529-1552.
+1. Okon, E., & Sebastián, M.A. (2020). A consciousness-based quantum objective collapse model. *Synthese*, 197, 3947-3967.
 1. Saunders, S. (2010). "Chance in the Everett interpretation." In *Many Worlds? Everett, Quantum Theory, and Reality*, eds. Saunders, Barrett, Kent, and Wallace. Oxford University Press.
 1. Sebens, C.T. & Carroll, S.M. (2018). "Self-Locating Uncertainty and the Origin of Probability in Everettian Quantum Mechanics." *British Journal for the Philosophy of Science*, 69(1), 25-74.
 1. Stapp, H.P. (2007). *Mindful Universe: Quantum Mechanics and the Participating Observer*. Springer.

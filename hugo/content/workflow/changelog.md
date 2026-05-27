@@ -1,13 +1,55 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-27 14:10:00+00:00
+ai_modified: 2026-05-27 22:00:00+00:00
 ai_system: claude-opus-4-7
 concepts: []
 date: '2026-05-27'
 related_articles: []
 title: Changelog
 ---
+
+## 2026-05-27T22:00:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [quantum-measurement-and-consciousness](/topics/quantum-measurement-and-consciousness/)
+- **Selection**: queue P2, staleness (~34 days since last_deep_review 2026-04-23); **6th** deep-review pass. Heavily converged (5+ consecutive clean philosophical reviews). Convergence-damped per remit — philosophical/structural pass kept light; **mandatory full web-verify of every load-bearing physics citation** was the priority and where the value landed.
+- **Word count**: ~3163 (105% of 3000 topic soft; well under 4000 hard — no condense forced, remit point e). Citation/link-only edits, net ~neutral.
+- **Citation web-verify**: 8 load-bearing citations checked against live literature (arXiv/Springer/Nature/PhilPapers). **1 CRITICAL CITATION DEFECT FOUND + FIXED**: **Okon & Sebastián "(2016) *How to make quantum theory compatible with human experience.* Foundations of Physics, 46(12), 1529-1552"** is FABRICATED on all four metadata fields — the real paper is **Okon, E. & Sebastián, M.Á. (2020), "A consciousness-based quantum objective collapse model," *Synthese* 197, 3947-3967** (DOI 10.1007/s11229-018-1887-4; arXiv:1801.05487, Jan 2018). Survived 5+ reviews because the wrong metadata was identical corpus-wide, so intra-corpus cross-check reinforced it — only live-literature verify caught it. VERIFIED CLEAN: Tomaz/Mattos/Barbatti 2025 (arXiv:2502.19278); Frauchiger & Renner 2018 (Nat Commun 9:3711); Torres Alegre 2025 (arXiv:2512.12636, initial "E. O." correct); Kremnizer & Ranchin 2015 (Found Phys 45(8):889-899); Chalmers & McQueen (arXiv:2105.02314 2021 / OUP 2022); Wigner 1961 (The Scientist Speculates, ed. Good); Sebens & Carroll 2018 (BJPS 69(1):25-74). Canonical pre-2010 cites corpus-consistent, not re-fetched.
+- **Propagation fixed** (live files, grep incl research/): the Okon-Sebastián defect had propagated identically to 2 live + 3 archived files. Fixed both live: target + **qm-interpretations-beyond-many-worlds** (body year 2016→2020 + reference line). No correct version existed anywhere pre-fix. concepts/quantum-interpretations mentions them in prose with no numbered ref (nothing to fix). Archive/ copies frozen by convention.
+- **Stale wikilink fixed**: 3 occurrences of `[[pragmatist-quantum-foundations-under-dualism]]` (coalesced → archived) repointed to live `[[pragmatist-quantum-foundations-and-the-agent]]`. Known archival-link-rot pattern; 3 other live files (qbism, mind-matter-interface, self-ref) still carry it — flagged as remaining low-priority sweep.
+- **Critical issues addressed**: 1 (Okon-Sebastián citation) across 2 live files
+- **Medium issues addressed**: 1 (stale pragmatist wikilink, 3 occurrences)
+- **Enhancements made**: 0 (convergence-damped; no content churn)
+- **Calibration (remit c)**: No evidential overreach / no possibility-probability slippage. Consciousness-collapse consistently framed as one favored interpretive option, not settled physics; MWI rejection is argued (two specific objections), not asserted. Calibration qualifiers intact.
+- **Cross-links (remit d)**: tenet anchors (minimal-quantum-interaction, no-many-worlds, bidirectional-interaction) + measurement-problem, von-neumann-wigner-interpretation, post-decoherence-selection, causal-consistency-constraint, born-rule-and-the-consciousness-interface, indexical-identity-quantum-measurement, testing-consciousness-collapse all resolve live.
+- **Output**: [deep-review-2026-05-27-quantum-measurement-and-consciousness](/reviews/deep-review-2026-05-27-quantum-measurement-and-consciousness/)
+
+## 2026-05-27T20:50:24+00:00 - deep-review
+- **Status**: Success
+- **File**: [conservation-laws-and-mental-causation](/concepts/conservation-laws-and-mental-causation/)
+- **Selection**: queue P2, staleness (~34 days since last_deep_review 2026-04-23); **11th+** deep-review pass (6 under current slug + earlier pre-coalesce slugs). Deeply converged (5+ consecutive clean philosophical reviews). Convergence-damped per remit — philosophical/structural pass kept light; **mandatory full web-verify of physics/empirical citations** was the priority and where the value landed.
+- **Word count**: ~2915 (117% of 2500 concept soft threshold; under 3500 hard — no condensation forced). Citation-only edits, net ~neutral.
+- **Citation web-verify**: 10 load-bearing citations checked against live literature (PubMed/PMC/Springer/arXiv/PNAS/APS). **3 CRITICAL CITATION DEFECTS FOUND + FIXED**: (1) **Pitts (2022) *Philosophia* 50, 1065-1083** is FABRICATED — correct is *Philosophia* **48(2), 673-707, 2020** (the "2022" is only a Springer formatting-correction notice). Two *different* fabricated page ranges for this same paper existed in the corpus (1065-1083 and 2599-2629) — a fabrication tell. (2) **Georgiev "(2018)" *Biomedical Reviews*** — wrong year, dropped co-author, missing vol/pages, truncated title; correct is **Georgiev & Glazebrook (2014), *Biomedical Reviews* 25, 15-24** (distinct from the correctly-cited-elsewhere Georgiev & Glazebrook 2018 *Prog Biophys Mol Biol* 135:16-29). (3) **Collins "Unpublished manuscript, New Dualism Archive"** — actually published, ***Am. Phil. Quarterly* 45(1), 31-42, 2008**. VERIFIED CLEAN: Cucu & Pitts 2019 (arXiv:1909.13643 + Mind & Matter 17(1):95-121); Beck & Eccles 1992 (PNAS 89(23):11357-61); Tegmark 2000 (Phys Rev E 61:4194-4206); Hagan et al. 2002 (Phys Rev E 65:061901); Carroll 2011 (Sci Am blog). Stapp 2007 LBNL — year ambiguous, left as-is (real preprint).
+- **Propagation fixed** (live files, grep incl research/): objections-to-interactionism, history-of-the-interaction-problem, mechanism-costs-dualism-thickness-quadrants (had the 2599-2629 variant), research/conservation-laws-mind-brain-causation-2026-01-23. Also caught a *paired* defect in causal-closure-debate-historical-survey: its Pitts *Erkenntnis* (2022) entry had wrong pages 1861-1892 → **corrected to 1931-1973** (Erkenntnis 87(4), 2022, verified PubMed). Archive/ copies and review/ records left frozen by convention.
+- **Critical issues addressed**: 3 (Pitts, Georgiev, Collins citations) + 1 propagated (Erkenntnis pages) across 6 live files
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 (convergence-damped; no content churn warranted)
+- **Calibration (remit c)**: No evidential overreach. Rebuttal stays at "objection not decisive / not a physics-based barrier," preserves selection-without-injection / no-net-energy framing (Tenet 2). No possibility/probability slippage.
+- **Cross-links (remit d)**: all 12 checked wikilinks + 4 tenet anchors resolve live.
+- **Engagement modes**: Carroll engagement = Mode Two (Standard-Model-completeness helps itself to causal closure without earning it, argued from physics' own commitments); no boundary-substitution, no label leakage.
+- **Output**: [deep-review-2026-05-27-conservation-laws-and-mental-causation](/reviews/deep-review-2026-05-27-conservation-laws-and-mental-causation/)
+
+## 2026-05-27T16:30:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [interactionist-dualism](/concepts/interactionist-dualism/)
+- **Selection**: queue P2, staleness (~35 days since last_deep_review 2026-04-22); **12th** deep-review pass. Convergence-damping remit honoured — light pass, but article had +360 words of new content since last review (substance-leaning section, q3-q4 links) plus explicit WEB-VERIFY mandate, so not a no-op.
+- **Word count**: 2923 → 2946 (118% of 2500 concept soft threshold; under 3500 hard — no condensation forced; light P3 condense queued)
+- **Citation web-verify**: 4 load-bearing citations checked against live literature. **1 CRITICAL DEFECT FOUND + FIXED** — Cogitate Consortium was cited as *Nature Human Behaviour*, 7, 1935-1949 (2023): the 2023 item is a bioRxiv preprint, the journal/volume/pages are fabricated, and the peer-reviewed paper is Nature 2025, 642, 133-142 (DOI 10.1038/s41586-025-08888-1). Corrected reference + corrected an overstated body claim ("identified the posterior cortical hot zone as a primary locus") to the verified finding (content decodable from posterior cortex, neither IIT nor GNWT fully confirmed). VERIFIED CLEAN: Saad 2025 (Phil Studies 182(3) 939-967, DOI 10.1007/s11098-025-02290-3, five constraints accurate); Tegmark ~10^-13s decoherence (Phys Rev E 61, 4194, 2000). **Propagation check**: fabricated metadata was isolated to this article only — did NOT propagate; other Cogitate-citing articles already correct.
+- **Critical issues addressed**: 1 (Cogitate citation metadata + paired overstated empirical claim)
+- **Medium issues addressed**: 0 (length flagged, not forced)
+- **Enhancements made**: 0 (no churn — convergence-damping)
+- **Reasoning-mode/calibration**: no possibility/probability slippage; hedges intact; Kim-exclusion engagement in-framework; no editor-label leakage. Cross-links verified live + reciprocating.
+- **Output**: [deep-review-2026-05-27-interactionist-dualism](/reviews/deep-review-2026-05-27-interactionist-dualism/)
 
 ## 2026-05-27T14:10:00+00:00 - deep-review
 - **Status**: Success
