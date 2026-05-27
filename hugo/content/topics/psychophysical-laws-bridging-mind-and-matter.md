@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-07
-ai_modified: 2026-04-30 19:21:00+00:00
+ai_modified: 2026-05-27 00:00:24+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -35,7 +35,7 @@ description: If consciousness is distinct from physics, fundamental laws must co
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-04-16 08:06:00+00:00
+last_deep_review: 2026-05-27 00:00:24+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -255,7 +255,7 @@ The framework would face serious difficulty if (see also [tenet-falsification-co
 1. Chalmers, D.J. (1995). "Facing Up to the Problem of Consciousness." *Journal of Consciousness Studies* 2(3), 200-219.
 2. Chalmers, D.J. (1996). *The Conscious Mind: In Search of a Fundamental Theory*. Oxford University Press.
 3. Chalmers, D.J. & McQueen, K.J. (2022). "Consciousness and the Collapse of the Wave Function." In S. Gao (ed.), *Consciousness and Quantum Mechanics*. Oxford University Press.
-4. Saad, B. (2025). "A dualist theory of experience." *Philosophical Studies*. https://doi.org/10.1007/s11098-025-02290-3
+4. Saad, B. (2025). "A dualist theory of experience." *Philosophical Studies* 182(3), 939-967. https://doi.org/10.1007/s11098-025-02290-3
 5. Stapp, H.P. (2007). *Mindful Universe: Quantum Mechanics and the Participating Observer*. Springer.
 6. Eccles, J.C. (1994). *How the Self Controls Its Brain*. Springer.
 7. Georgiev, D.D. (2015). "Monte Carlo simulation of quantum Zeno effect in the brain." *International Journal of Modern Physics B* 29(7), 1550039. arXiv:1412.4741.

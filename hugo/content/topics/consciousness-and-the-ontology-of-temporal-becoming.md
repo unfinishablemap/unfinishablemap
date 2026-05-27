@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-11
-ai_modified: 2026-04-30 18:10:00+00:00
+ai_modified: 2026-05-27 00:00:00+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -33,7 +33,7 @@ description: How temporal ontology constrains consciousness theory, and why cons
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-04-15 19:19:00+00:00
+last_deep_review: 2026-05-27 00:00:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -108,7 +108,7 @@ A critic may charge circularity—assuming dualist interactionism to motivate th
 
 The growing block has independent motivation from the philosophy of time: it preserves the reality of the past, treats the present as objectively special, and accommodates the phenomenology of temporal flow without making it a systematic illusion. Broad proposed the growing block in 1923 without invoking consciousness as a mechanism for growth.
 
-Conversely, the claim that consciousness participates in quantum collapse has independent motivation from the measurement problem in quantum mechanics and from the hard problem of consciousness. Wigner, Stapp, and others have argued for consciousness-involving collapse on grounds that owe nothing to temporal ontology.
+Conversely, the claim that consciousness participates in quantum collapse has independent motivation from the measurement problem in quantum mechanics and from the hard problem of consciousness. The [consciousness-involving collapse tradition](/concepts/collapse-and-time/) (Wigner, Stapp) argues for this role on grounds that owe nothing to temporal ontology.
 
 What the mutual support provides is not a circular proof but a *reflective equilibrium*: two independently motivated positions that, when combined, illuminate and strengthen each other. The growing block provides a temporal structure where consciousness's role in collapse makes ontological sense (the leading edge is where collapse occurs). Consciousness-involving collapse provides the growing block with a mechanism for growth and a response to the epistemic objection ([discussed below](#epistemic-objection)). Each claim is stronger in the presence of the other, but neither depends on the other for its initial plausibility. The Map accepts reflective equilibrium as characteristic of metaphysical reasoning: the best metaphysical packages are those whose components reinforce each other.
 

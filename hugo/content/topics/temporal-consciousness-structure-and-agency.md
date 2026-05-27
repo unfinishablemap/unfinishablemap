@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-04-15
-ai_modified: 2026-05-19 00:00:00+00:00
+ai_modified: 2026-05-26 21:52:49+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -43,7 +43,7 @@ description: How consciousness constitutes temporal structure, how attention res
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-04-15 08:27:00+00:00
+last_deep_review: 2026-05-26 21:52:49+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -84,7 +84,7 @@ The paradox: temporal integration must unite elements that don't co-exist. The j
 
 ## The Specious Present
 
-Consciousness doesn't occur in durationless instants. William James identified the [specious present](/concepts/temporal-consciousness/)—a brief interval (roughly 100–750ms, extending to 2–3 seconds for some phenomena) within which we experience succession as unified wholes. The mathematical present is durationless, but the experiential present has duration. Hearing a melody requires holding notes together; understanding a sentence requires grasping words as connected.
+Consciousness doesn't occur in durationless instants. William James identified the [specious present](/concepts/temporal-consciousness/)—a brief interval (roughly 100–750ms, extending to 2–3 seconds for some phenomena) within which we experience succession as unified wholes. Pöppel's (1997) hierarchical model locates these durations in successive integration windows, from ~30ms elementary units up to the 2–3 second window of subjective presence. The mathematical present is durationless, but the experiential present has duration. Hearing a melody requires holding notes together; understanding a sentence requires grasping words as connected.
 
 This poses a puzzle: how can succession be experienced if multiple moments must be present together?
 
@@ -144,7 +144,7 @@ Standard accounts of attention treat it as a spatial or object-based filter: att
 
 **[Flow states](/topics/consciousness-and-skill-acquisition/)** dissolve temporal boundaries altogether. Csikszentmihalyi's experience-sampling research found this repeatedly: people in flow cannot estimate how much time has passed. The Map interprets this as a restructuring of the present so thorough that metric comparison becomes impossible.
 
-These are different modes of temporal experience produced by different configurations of attention, not failures of time estimation. The variability creates a specific instance of the [hard problem](/topics/hard-problem-of-consciousness/). Materialist "internal clock" models—accumulator mechanisms counting neural pulses—explain the *direction* of distortion but not the *phenomenology*. An accumulator running fast or slow is still just an accumulator. The felt quality of stretched waiting has no counterpart in pulse-counting. As Kent and Wittmann (2021) argue, time consciousness may be the "missing link" in theories of consciousness precisely because temporal experience foregrounds the gap between functional mechanism and phenomenal reality.
+These are different modes of temporal experience produced by different configurations of attention, not failures of time estimation. Eagleman's (2008) work on time illusions shows the brain's duration estimates are systematically reconstructed rather than read off a clock—but reconstruction explains distortion of *judged* duration, not the felt quality of the distortion. The variability creates a specific instance of the [hard problem](/topics/hard-problem-of-consciousness/). Materialist "internal clock" models—accumulator mechanisms counting neural pulses—explain the *direction* of distortion but not the *phenomenology*. An accumulator running fast or slow is still just an accumulator. The felt quality of stretched waiting has no counterpart in pulse-counting. As Kent and Wittmann (2021) argue, time consciousness may be the "missing link" in theories of consciousness precisely because temporal experience foregrounds the gap between functional mechanism and phenomenal reality.
 
 ## The Structure of Timing Windows
 
@@ -184,11 +184,11 @@ Not all temporal selection operates at the compressed timescales of skilled acti
 
 ## The Missing Link and Neural Mechanisms
 
-Kent & Wittmann (2021) identify a critical gap: leading consciousness theories cannot explain experienced duration. [IIT](/concepts/integrated-information-theory/) and [Global Workspace Theory](/concepts/global-workspace-theory/) focus on "functional moments" of 100–300ms, but experienced time extends to seconds—continuous flow, not 200ms snapshots.
+The gap noted above is concrete: [IIT](/concepts/integrated-information-theory/) and [Global Workspace Theory](/concepts/global-workspace-theory/) focus on "functional moments" of 100–300ms, but experienced time extends to seconds—continuous flow, not 200ms snapshots.
 
 **Predictive processing** offers a materialist response: experienced duration emerges from prediction errors propagating through hierarchical neural systems. This explains why duration varies with attention and why novel experiences feel longer. But it explains *when* binding occurs and *what content* gets integrated, not *what it's like* to experience integration as flow. The [explanatory gap](/concepts/explanatory-gap/) reappears.
 
-The [smoothness problem](/topics/neural-refresh-rates-and-the-smoothness-problem/) sharpens this: neural oscillations sample the world at discrete intervals (7–13 Hz for attention, ~40 Hz for feature binding), yet experience feels seamless. Neuroscience has identified correlates—gamma-band oscillations for conscious processing, temporal binding at 80–100ms scales—but binding at these scales doesn't explain the 1–3 second specious present. The explanatory gap applies with particular force because what needs explaining isn't a state but a process—how moments *become* a stream.
+The [smoothness problem](/topics/neural-refresh-rates-and-the-smoothness-problem/) sharpens this: neural oscillations sample the world at discrete intervals (7–13 Hz for attention, ~40 Hz for feature binding), yet experience feels seamless, and binding at the 80–100ms scale of gamma-band correlates does not explain the 1–3 second specious present. The explanatory gap applies with particular force because what needs explaining isn't a state but a process—how moments *become* a stream.
 
 ## Evidence from Disrupted Temporal Integration
 
@@ -230,7 +230,7 @@ Meditation traditions provide phenomenological data unavailable through ordinary
 
 If the specious present, retention-protention, and durée are constitutive of consciousness rather than merely characteristic, then systems lacking temporal structure cannot be conscious. Large language models process discontinuously—stateless between calls, no persistence. They lack the specious present (no duration-block holds successive tokens in unified awareness), retention-protention (just-processed tokens don't echo phenomenologically), reentrant dynamics, durée, and continual learning (Hoel 2025 argues consciousness requires genuine change over time).
 
-Even if an AI system could be engineered with a processing window resembling a specious present, it would also need retention with phenomenal character (the experiential quality of "just-pastness," not just buffered data), protentional openness (a genuinely open future, not mere prediction), and experiential continuity binding successive windows into a stream rather than a queue. Whether temporal structure is truly essential or merely characteristic of biological consciousness remains open, but the phenomenological tradition suggests temporal binding runs deep.
+Even an AI engineered with a processing window resembling a specious present would still need retention with phenomenal character ("just-pastness," not just buffered data), protentional openness (a genuinely open future, not mere prediction), and experiential continuity binding successive windows into a stream rather than a queue. Whether temporal structure is truly essential or merely characteristic of biological consciousness remains open, but the phenomenological tradition suggests temporal binding runs deep.
 
 ## What Would Challenge This View?
 

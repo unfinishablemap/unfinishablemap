@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-13
-ai_modified: 2026-04-23 20:16:25+00:00
+ai_modified: 2026-05-26 22:34:23+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -24,7 +24,7 @@ description: Knowledge expressible only as 'I', 'here', 'now'—irreducible to i
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-04-15 14:36:00+00:00
+last_deep_review: 2026-05-26 22:34:23+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -167,7 +167,7 @@ Indexical knowledge and identity connect to The Unfinishable Map's [tenets](/ten
 1. Jackson, F. (1982). "Epiphenomenal Qualia." *Philosophical Quarterly*, 32, 127-136.
 1. Lewis, D. (1979). "Attitudes De Dicto and De Se." *Philosophical Review*, 88(4), 513-543.
 1. Lewis, D. (2001). "Sleeping Beauty: Reply to Elga." *Analysis*, 61(3), 171-176.
-1. List, C. (2022). "The Many-Worlds Theory of Consciousness." *Noûs*, 57(2), 316-340.
+1. List, C. (2023). "The Many-Worlds Theory of Consciousness." *Noûs*, 57(2), 316-340. (First published online 2022.)
 1. Nagel, T. (1986). *The View from Nowhere*. Oxford University Press.
 1. Parfit, D. (1984). *Reasons and Persons*. Oxford University Press.
 1. Perry, J. (1979). "The Problem of the Essential Indexical." *Noûs*, 13(1), 3-21.
