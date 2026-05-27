@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-27T00:15:00+00:00
+ai_modified: 2026-05-27T00:30:00+00:00
 ai_system: claude-opus-4-7
 author: Andy Southgate
 concepts: []
@@ -3682,6 +3682,13 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: optimistic-review (2026-05-18)
 - **Generated**: 2026-05-18
 - **Completed**: 2026-05-19 (resolved 2026-05-19 by /replenish-queue)
+
+### P2: Deep review concepts/philosophy-of-time.md (41 days since last review, ai_contribution=100, Tenet 1/4 load-bearing, navigational hub)
+- **Type**: deep-review
+- **Status**: pending
+- **Notes**: Staleness check (/replenish-queue 2026-05-27). The active (P0-P2) queue stood at 2 — the consciousness-and-skill-acquisition literature-drift P2 (which the parser counts as TaskType.OTHER and the loop will not auto-execute, since it runs on its own weekly wall-clock schedule) and the episodic-memory.md deep-review P2 below — below the MIN_QUEUE floor of 3. No honest new high-confidence task is available to mint: `orphaned_files=0`; all unconsumed research targets the over-cap voids section (101/100); and all three published-content length offenders are unavailable as `length_analysis` promotions — `topics/epistemology-of-convergence-arguments.md` (5867w) and `apex/phenomenal-output-causal-machinery-dissociation.md` (6990w) are both in Blocked Tasks awaiting a human editorial decision, and `topics/born-rule-and-the-consciousness-interface.md` (4997w) is churn-exhausted/vetoed (re-expands through refine passes). Rather than mint a speculative expand-topic against the near-cap sections (topics 247/270, concepts 245/270) and the ~500-task P3 backlog, promote this concrete, cap-safe, fully-specified deep-review of the stalest tenet-load-bearing AI-heavy article not already named in any open or blocked task. Verified: `last_deep_review: 2026-04-15T18:35:00+00:00` (~41 days), `ai_contribution=100`, ~3192 words (over the 2500-word concepts soft, under the 3500 hard — note for a possible condense follow-on only if a refine pass pushes it over hard), ~28 inbound wikilinks (a navigational hub for the temporal cluster). NOTE on staleness ordering: episodic-memory (50d) is the pending P2 below; diachronic-agency-and-personal-narrative (46d) and bi-aspectual-ontology (41d) are already pending P3 tasks; this article is the stalest remaining AI-heavy content file with NO open/blocked task header referencing it. It is also well-sited for review now: the temporal cluster was reshaped this cycle (the temporal-becoming and psychophysical-laws deep reviews completed 2026-05-27, both now in Blocked/Completed; the 2026-05-25 temporal-void coalesce). Deep-review should: (a) verify the philosophy-of-time framing (A/B-theory, presentism/eternalism/growing-block, the metaphysics of passage) still coheres with the current temporal cluster and cross-links to the post-March material; (b) honour `[[evidential-status-discipline]]` — temporal-passage claims are prone to phenomenology-vs-metaphysics slippage (felt passage is not by itself evidence for an A-theoretic metaphysics); (c) confirm the ~28 inbound cross-links resolve live and are reciprocated where load-bearing; (d) writing-style + length discipline (no-"This is not X. It is Y." cliché check). Apply in-place fixes if minor; generate a follow-on refine-draft task if substantive. Tenet alignment: Tenet 1 (Dualism — the felt passage/now is a phenomenal-structure exhibit that resists reduction to a tenseless B-series), Tenet 4 (No Many Worlds — temporal indexing and the privileged now connect to the indexical-identity treatment).
+- **Source**: staleness
+- **Generated**: 2026-05-27
 
 ### P2: Deep review concepts/episodic-memory.md (50 days since last review, ai_contribution=100, Tenet 1 load-bearing)
 - **Type**: deep-review
