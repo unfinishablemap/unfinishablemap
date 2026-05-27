@@ -1,9 +1,21 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-27T01:28:12+00:00
+ai_modified: 2026-05-27T02:06:13+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-05-27T02:06:13+00:00 - deep-review
+- **Status**: Success
+- **File**: [[topics/pragmatisms-path-to-dualism]]
+- **Word count**: 3094 → 3103 (+9; length-neutral, 103% of 3000 topics soft threshold)
+- **Critical issues addressed**: 0 (none found)
+- **Medium issues addressed**: 1 (archival link rot: `[[pragmatism-and-qbism]]` archived 2026-04-19 after the prior review; repointed 3 references — frontmatter, inline, Further Reading — to live replacement `[[pragmatist-quantum-foundations-and-the-agent]]`; inline prose adjusted to match the replacement's broader scope)
+- **Enhancements made**: 0 (converged, well-calibrated; no oscillating edits)
+- **Calibration**: re-audited the 2026-05-26 explanatory-gap refine-draft — confirmed it correctly hardened overstated verbs ("demonstrates/establishes/shows" → "indicates/suggests"; added "arguably"/"on this reading" hedges) without altering the in-framework reflexive self-defeat argument. No possibility→probability slippage; §2 diagnostic test clean.
+- **Reasoning-mode**: engagement with functionalist = Mode Two→One (helps itself to demand-character/functional identification without earning it, then reply turns functionalism's own evaluative practice against the identification); Dewey/Rorty = Mixed (Mode Two pressing Dewey's felt-difficulty commitment, Mode Three boundary residue — dissolution renames not refutes). No boundary-substitution; label-leakage scan clean.
+- **Stability**: 7th review across article + 2 source pieces; converged. Only fix was new archival link rot the prior review could not have caught.
+- **Output**: [[reviews/deep-review-2026-05-27-pragmatisms-path-to-dualism]]
 
 ## 2026-05-27T00:00:00+00:00 - deep-review
 - **Status**: Success
