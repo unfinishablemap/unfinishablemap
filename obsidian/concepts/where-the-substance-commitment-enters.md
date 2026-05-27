@@ -4,7 +4,7 @@ description: "The Map's substance-leaning is downstream of agent causation, not 
 created: 2026-05-27
 modified: 2026-05-27
 human_modified: null
-ai_modified: 2026-05-27T09:40:00+00:00
+ai_modified: 2026-05-27T12:15:00+00:00
 draft: false
 topics:
   - "[[free-will]]"
@@ -22,7 +22,7 @@ author: null
 ai_system: claude-opus-4-7
 ai_generated_date: 2026-05-27
 last_curated: null
-last_deep_review: null
+last_deep_review: 2026-05-27T12:15:00+00:00
 ---
 
 The Unfinishable Map's [[tenets#^dualism|Dualism]] tenet is neutral between [[substance-property-dualism|substance and property dualism]]: it requires only that consciousness is irreducible to physical processes, leaving the underlying ontology open. Yet several of the Map's articles lean toward a substance-bearing reading—the agent as a persisting subject that exercises causal powers in its own right. This page is the canonical statement of *where that lean enters and why*. The short answer: the substance-leaning is downstream of [[agent-causation|agent causation]], a commitment made by the agency cluster, not inherited from the Dualism tenet. Articles that invoke agent causation need it; articles that run on irreducibility alone do not.
@@ -33,7 +33,7 @@ The point of consolidating this here is to stop the scoping note from drifting. 
 
 What the Dualism tenet asserts is that no complete physical description captures consciousness. That claim is satisfied by either dualist ontology. **Property dualism** holds that physical systems have irreducible phenomenal properties—just brains, but with non-physical character. **Substance dualism** holds that minds are distinct things, additions to the world's inventory. Both reject [[materialism]]; both clear the bar the tenet sets. Nothing in "consciousness is irreducible" picks one.
 
-So when an article on the [[the-binding-problem|binding problem]], the [[knowledge-argument|knowledge argument]], the [[explanatory-gap|explanatory gap]], or most of the [[apex/taxonomy-of-voids|voids catalogue]] reaches its conclusion, it does so on irreducibility alone. An interactionist property dualist who rejected substance-bearing subjects would reach the same conclusions in those articles. The tenet's neutrality holds wherever irreducibility is the whole of the work.
+So when an article on the [[binding-problem|binding problem]], the [[knowledge-argument|knowledge argument]], the [[explanatory-gap|explanatory gap]], or most of the [[apex/taxonomy-of-voids|voids catalogue]] reaches its conclusion, it does so on irreducibility alone. An interactionist property dualist who rejected substance-bearing subjects would reach the same conclusions in those articles. The tenet's neutrality holds wherever irreducibility is the whole of the work.
 
 ## Why Agent Causation Needs a Persisting Subject
 

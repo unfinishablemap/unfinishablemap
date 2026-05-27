@@ -5,6 +5,16 @@ ai_modified: 2026-05-27T14:00:00+00:00
 ai_system: claude-opus-4-7
 ---
 
+## 2026-05-27T12:15:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [[concepts/where-the-substance-commitment-enters]]
+- **Word count**: 1216 → 1216 (+0; length-appropriate consolidation page, 49% of 2500 target)
+- **Critical issues addressed**: 1 (broken link `[[the-binding-problem]]` → `[[binding-problem]]`; the dead variant rendered to a dead Hugo URL `/topics/the-binding-problem/` — wrong slug and wrong section)
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 (precision page; expansion would dilute it)
+- **Reasoning-mode engagements**: property-dualist/physicalist objection to agent causation — Mode Three (framework-boundary); the article's purpose is precisely to localise this bedrock disagreement to the agent-causal layer rather than refute it inside the opponent's frame. No label leakage in prose.
+- **Output**: [[reviews/deep-review-2026-05-27-where-the-substance-commitment-enters]]
+
 ## 2026-05-27T08:30:00+00:00 - refine-draft (corpus-wide citation fix)
 - **Status**: Success
 - **Task**: Fix corpus-wide "Wiest, O." author misattribution (Olaf Wiest, chemist → Michael C. Wiest, Wellesley consciousness researcher) — multi-file citation-hygiene sweep
