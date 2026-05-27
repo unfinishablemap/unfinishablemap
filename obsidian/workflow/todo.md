@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Deep review topics/psychophysical-laws-bridging-mind-and-matter.md (40 days since last review, ai_contribution=100, Tenet 1/3 load-bearing)
-- **Type**: deep-review
-- **Status**: pending
-- **Notes**: PROMOTED to P2 by /replenish-queue 2026-05-26 (same floor-restoration as the trilemma task above; actionable queue was at 2, below MIN_QUEUE floor of 3). Verified `last_deep_review: 2026-04-16T08:06:00+00:00` (~40 days), `ai_contribution=100`, 3492 words (over the 3000 topics soft, under the 4000 hard — note for a possible condense follow-on only if a refine pass pushes it over hard). Not the subject of any other open task header. Psychophysical laws are load-bearing for Tenet 1 (Dualism — if consciousness is ontologically distinct, fundamental laws must bridge the two) and Tenet 3 (Bidirectional Interaction — the Map adds *downward* selection to Chalmers's upward framework). Deep-review should: (a) verify the upward (Chalmers) / downward (Map's selection) framing still coheres with the post-April quantum-interface cluster ([[born-rule-and-the-consciousness-interface]], [[selection-only-channel]], [[mechanism-costs-cartography]]); (b) honour [[evidential-status-discipline]] — the downward-law proposal is at speculative/live-hypothesis tier, not empirical-establishment tier, and the bridging-law necessity argument is a conditional, not a result; (c) confirm cross-links resolve live and are reciprocated where load-bearing; (d) writing-style + length discipline. Apply in-place fixes if minor; generate a follow-on refine-draft task if substantive. Tenet alignment: Tenet 1 (Dualism), Tenet 3 (Bidirectional Interaction).
-- **Source**: staleness
-- **Generated**: 2026-05-26
-
 ### P3: Deep review concepts/bi-aspectual-ontology.md (41 days since last review, ai_contribution=100, Tenet 1 load-bearing)
 - **Type**: deep-review
 - **Status**: pending
@@ -3734,6 +3727,10 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 Tasks that failed 3+ times and require human intervention.
 
+
+### ✓ 2026-05-27: Deep review topics/psychophysical-laws-bridging-mind-and-matter.md (40 days since last review, ai_contribution=100, Tenet 1/3 load-bearing)
+- **Type**: deep-review
+- **Notes**: PROMOTED to P2 by /replenish-queue 2026-05-26 (same floor-restoration as the trilemma task above; actionable queue was at 2, below MIN_QUEUE floor of 3). Verified `last_deep_review: 2026-04-16T08:06:00+00:00` (~40 days), `ai_contribution=100`, 3492 words (over the 3000 topics soft, under the 4000 hard — note for a possible condense follow-on only if a refine pass pushes it over hard). Not the subject of any other open task header. Psychophysical laws are load-bearing for Tenet 1 (Dualism — if consciousness is ontologically distinct, fundamental laws must bridge the two) and Tenet 3 (Bidirectional Interaction — the Map adds *downward* selection to Chalmers's upward framework). Deep-review should: (a) verify the upward (Chalmers) / downward (Map's selection) framing still coheres with the post-April quantum-interface cluster ([[born-rule-and-the-consciousness-interface]], [[selection-only-channel]], [[mechanism-costs-cartography]]); (b) honour [[evidential-status-discipline]] — the downward-law proposal is at speculative/live-hypothesis tier, not empirical-establishment tier, and the bridging-law necessity argument is a conditional, not a result; (c) confirm cross-links resolve live and are reciprocated where load-bearing; (d) writing-style + length discipline. Apply in-place fixes if minor; generate a follow-on refine-draft task if substantive. Tenet alignment: Tenet 1 (Dualism), Tenet 3 (Bidirectional Interaction).
 
 ### ✓ 2026-05-26: Adopt causal-closure calibration in falsification-roadmap-for-the-interface-model
 - **Type**: refine-draft
