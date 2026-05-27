@@ -4,7 +4,7 @@ description: "Episodic memory is constructive re-experiencing, not data retrieva
 created: 2026-01-17
 modified: 2026-03-28
 human_modified: null
-ai_modified: 2026-04-06T22:25:00+00:00
+ai_modified: 2026-05-27T02:30:37+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -51,7 +51,7 @@ author: null
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-01-17
 last_curated: null
-last_deep_review: 2026-04-06T22:25:00+00:00
+last_deep_review: 2026-05-27T02:30:37+00:00
 coalesced_from:
   - "/concepts/autonoetic-consciousness/"
   - "/concepts/constructive-memory/"
@@ -68,23 +68,23 @@ Endel Tulving (1927–2023) introduced the episodic/semantic distinction in 1972
 
 ### Mental Time Travel
 
-Autonoetic consciousness enables the projection of oneself to specific times and places. Schacter and Addis (2007) proposed that episodic memory and [[prospective-memory|episodic future thinking]] share a common constructive system, with the same core neural network activating for both remembering and imagining.
+Autonoetic consciousness enables the projection of oneself to specific times and places. Schacter and Addis (2007) proposed that episodic memory and [[prospective-memory|episodic future thinking]] share a common constructive system—the same core neural network activating for both remembering and imagining.
 
 The bidirectionality is not symmetric. When you remember, you *re-experience*—the pastness quale marks genuine causal contact with what happened, since the remembered event shaped your brain. When you imagine the future, you *construct* without analogous phenomenal grounding. This [[temporal-void|asymmetry]] is conceptually necessary: future events haven't caused anything yet.
 
 ### Clinical Evidence
 
-Patient KC demonstrated that autonoetic consciousness is a distinct capacity. After brain damage, KC retained semantic memory but lost both episodic memory and the ability to imagine his personal future—when asked what he would be doing tomorrow, he described his mind as "blank." This double deficit confirms that episodic memory and future simulation share a common foundation: autonoetic consciousness.
+Patient KC illustrated that autonoetic consciousness is a distinct capacity. After brain damage, KC largely lost both episodic memory and the ability to imagine his personal future—when asked what he would be doing tomorrow, he described his mind as "blank"—while semantic memory was comparatively spared. The dissociation is graded rather than total: Rosenbaum et al. (2005) document residual semantic-autobiographical structure, so KC is better read as showing the phenomenological distinctness of episodic re-experiencing than a clean systems split. Even so, the joint deficit in remembering and future simulation points to a shared foundation in autonoetic consciousness.
 
 ## Memory as Construction
 
 Remembering is an act of building, not retrieving. Your brain reassembles a scene from distributed fragments—spatial context, emotional tone, semantic content, sensory detail—guided by present concerns. The hippocampus stores sparse traces; retrieval works through pattern completion supplemented by schema-driven inference. Each retrieval makes the memory labile through reconsolidation, incorporating current states and intervening experiences—the act of remembering literally changes the memory.
 
-If every memory is freshly constructed, each act of remembering generates new phenomenal experience rather than accessing stored experience. The [[inaccessible-past]] is an unavoidable consequence of how memory works. Loftus's research on false memories confirms the point: confident, vivid memories can be entirely constructed, the predictable output of a system designed for flexibility rather than veridical recording.
+If every memory is freshly constructed, each act of remembering generates new phenomenal experience rather than accessing stored experience—making the [[inaccessible-past]] an unavoidable consequence of how memory works. Loftus's research on false memories confirms the point: confident, vivid memories can be entirely constructed, the predictable output of a system built for flexibility rather than veridical recording.
 
 ## Consciousness and Consolidation
 
-During [[sleep-and-consciousness|sleep]], memories transfer from hippocampus to neocortex outside conscious awareness. [[binding-problem|Binding]] operations occur during consolidation without generating experiential unity—revealing a distinction between *computational binding* (neural integration) and *phenomenal binding* (unified experience). If consciousness were identical to neural computation, this dissociation would be mysterious: consolidation proceeds without consciousness during NREM sleep, suggesting the two operate under different conditions rather than differing merely in complexity.
+During [[sleep-and-consciousness|sleep]], memories transfer from hippocampus to neocortex outside conscious awareness. [[binding-problem|Binding]] operations occur during consolidation without generating experiential unity—revealing a distinction between *computational binding* (neural integration) and *phenomenal binding* (unified experience). If consciousness were identical to neural computation, this dissociation would be mysterious: NREM consolidation proceeds without consciousness, suggesting the two operate under different conditions rather than differing merely in complexity.
 
 ## The Phenomenology of Remembering
 
@@ -140,7 +140,7 @@ Autonoetic consciousness requires [[working-memory|working memory]] as its opera
 
 The connection between memory and [[personal-identity|personal identity]] has been debated since Locke. Constructive memory need not undermine memory-based identity: identity requires continuity of memory *processes*, not veridical content, and may lie in the [[self-and-self-consciousness|minimal self]] that structures all autonoetic experience.
 
-Patient KC, without mental time travel, was confined to the present moment—suggesting the extended self isn't merely useful but constitutive of personhood. The sense of being the same person rests on the immediate phenomenal quality of autonoetic consciousness—the felt recognition that "I" experienced the remembered event. This supports the Map's rejection of [[parfit-reductionism|Parfit's reductionism]]: autonoetic consciousness involves irreducible *qualitative character*, not just patterns of psychological continuity.
+Without mental time travel, KC was largely confined to the present moment—suggesting the extended self isn't merely useful but constitutive of personhood. The sense of being the same person rests on the immediate phenomenal quality of autonoetic consciousness—the felt recognition that "I" experienced the remembered event. This supports the Map's rejection of [[parfit-reductionism|Parfit's reductionism]]: autonoetic consciousness involves irreducible *qualitative character*, not just patterns of psychological continuity.
 
 ## The Illusionist Challenge
 
@@ -192,6 +192,7 @@ Episodic memory supports all five foundational commitments.
 1. Tulving, E. (1985). Memory and consciousness. *Canadian Psychology*, 26(1), 1-12.
 1. Wheeler, M.A., Stuss, D.T., & Tulving, E. (1997). Toward a theory of episodic memory: the frontal lobes and autonoetic consciousness. *Psychological Bulletin*, 121(3), 331-354.
 1. Schacter, D.L. & Addis, D.R. (2007). The cognitive neuroscience of constructive memory: remembering the past and imagining the future. *Philosophical Transactions of the Royal Society B*, 362(1481), 773-786.
+1. Rosenbaum, R.S. et al. (2005). The case of K.C.: contributions of a memory-impaired person to memory theory. *Neuropsychologia*, 43(7), 989-1021.
 1. Bartlett, F.C. (1932). *Remembering: A Study in Experimental and Social Psychology*. Cambridge University Press.
 1. Loftus, E.F. (2005). Planting misinformation in the human mind: A 30-year investigation of the malleability of memory. *Learning & Memory*, 12(4), 361-366.
 1. Nader, K., Schafe, G.E., & Le Doux, J.E. (2000). Fear memories require protein synthesis in the amygdala for reconsolidation after retrieval. *Nature*, 406(6797), 722-726.

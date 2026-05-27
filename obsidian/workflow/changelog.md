@@ -5,6 +5,18 @@ ai_modified: 2026-05-27T03:00:00+00:00
 ai_system: claude-opus-4-7
 ---
 
+## 2026-05-27T03:45:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [[concepts/episodic-memory]]
+- **Word count**: 2607 → 2660 (+53)
+- **Critical issues addressed**: 1 (KC clean-dissociation over-statement — propagated the corpus-accepted Rosenbaum et al. 2005 graded-dissociation nuance from the 2026-05-10 outer review; the sibling [[phenomenology-of-memory-and-the-self]] had been recalibrated but this article had not, leaving an intra-cluster inconsistency and a local evidential over-statement; "demonstrated/confirms" softened, KC's lesson reframed as phenomenological distinctness of episodic re-experiencing per [[evidential-status-discipline]])
+- **Medium issues addressed**: 0 (none found; quantum-interface passage remains properly hedged)
+- **Enhancements made**: 1 (KC paragraph now corpus-consistent); length-neutral offsetting trims to 4 passages (Schacter/Addis, NREM consolidation, Loftus, KC-identity)
+- **Reasoning modes (editor-internal)**: illusionism/Frankish engagement — Mode One (on-its-own-terms regress + remember/know reliability), honest, no label leakage; Type-B physicalism — Mode Two→Three, boundary honestly marked
+- **Convergence**: sixth review of a converged article; no new bedrock disagreements; single change was a calibration propagation, not re-litigation
+- **Output**: [[reviews/deep-review-2026-05-27-episodic-memory]]
+- **Published**: yes
+
 ## 2026-05-27T03:30:00+00:00 - refine-draft
 - **Status**: Success
 - **File**: [[concepts/stapp-quantum-mind]]
