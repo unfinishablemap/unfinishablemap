@@ -37,17 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Adopt explanatory-gap calibration in consciousness-and-the-normativity-of-reason
-- **Type**: refine-draft
-- **Status**: pending
-- **File**: obsidian/topics/consciousness-and-the-normativity-of-reason.md
-- **Notes**: From topic-concept anchoring audit 2026-05-27. The topic article over-claims relative to its anchor concept [[explanatory-gap]]; failed checks: hedge_density, strong_assertions.
-  - hedge density 1.43/kw is below 60% of anchor (9.87/kw)
-  - strong-assertion density 0.96/kw exceeds 1.5× anchor (0.58/kw)
-  - Action: bring the topic's hedge profile in line with the anchor concept's. Preserve the article's voice; this is not a request to weaken the central claim, only to inherit the calibration discipline the anchor concept already uses. See [[project/calibration-audit-triple]] Audit Three for the spec and [[evidential-status-discipline]] for the underlying rule.
-- **Source**: topic-concept-anchoring-audit
-- **Generated**: 2026-05-27
-
 ### P2: Adopt intentionality calibration in consciousness-and-the-normativity-of-reason
 - **Type**: refine-draft
 - **Status**: pending
@@ -58,7 +47,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
   - Action: bring the topic's hedge profile in line with the anchor concept's. Preserve the article's voice; this is not a request to weaken the central claim, only to inherit the calibration discipline the anchor concept already uses. See [[project/calibration-audit-triple]] Audit Three for the spec and [[evidential-status-discipline]] for the underlying rule.
 - **Source**: topic-concept-anchoring-audit
 - **Generated**: 2026-05-27
-
 
 ### P2: Deep review concepts/probability-objections-many-worlds.md (36 days since last review, ai_contribution=100, Tenet 4 load-bearing)
 - **Type**: deep-review
@@ -3612,6 +3600,10 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 Tasks that failed 3+ times and require human intervention.
 
+
+### ✓ 2026-05-27: Adopt explanatory-gap calibration in consciousness-and-the-normativity-of-reason
+- **Type**: refine-draft
+- **Notes**: From topic-concept anchoring audit 2026-05-27. The topic article over-claims relative to its anchor concept [[explanatory-gap]]; failed checks: hedge_density, strong_assertions.
 
 ### ✓ 2026-05-27: Deep review topics/quantum-measurement-and-consciousness.md (34 days since last review, ai_contribution=100, Tenet 2 load-bearing)
 - **Type**: deep-review

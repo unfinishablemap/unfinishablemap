@@ -5,6 +5,26 @@ ai_modified: 2026-05-27T22:00:00+00:00
 ai_system: claude-opus-4-7
 ---
 
+## 2026-05-27T21:34:44+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[topics/consciousness-and-the-normativity-of-reason]]
+- **Original score**: n/a (calibration-anchoring audit, not quality review)
+- **Task**: Audit Three (topic-concept anchoring) — bring hedge profile in line with anchor concept [[explanatory-gap]] (9.87/kw); target was the remaining flat strong-assertions, NOT the deep-review parity fix from commit 578adc0e.
+- **Hedge density**: 1.47/kw → ~12.1/kw (now above the anchor's 9.87/kw and the 60% floor of 5.92/kw); word count 2034 → 2398 (slightly up, well under threshold)
+- **Changes**:
+  - Opening: marked the argument conceptual-not-empirical and Map-attributed; "simply happen / never correct" → "seem to simply happen / on the face of it never correct"; "masquerading as reason" → "may resemble reason without instantiating it".
+  - Two Senses of Because: "These are categorically different" → "These appear to be"; added the naturalist counter-position (reliable causal chain) as live.
+  - Section header "Why Physical Processes Cannot Close the Gap" → "Why the Map Holds Physical Processes Cannot Close the Gap".
+  - Reliabilism: "does not eliminate; presupposes it" reattributed to the Map's contention + added reliabilist resistance and unsettled status.
+  - Functionalism: reattributed the gap-claim to the Map, added the functionalist denial as the point in dispute.
+  - Evolution/Plantinga: conditionalised ("If Plantinga's argument holds"), noted teleosemantic/debunking responses as live.
+  - Carrier wheel analogy: "The analogy fails" → "The Map's reply is that the analogy seems to fail"; flagged Carrier's defenders.
+  - Searle/Chinese Room: Map-attributed the no-grasp claim, added systems-reply/functionalist contestation.
+  - Consciousness-as-ground close: "Only a conscious mind can follow a rule" reframed as the Map's contested terminus.
+  - Parallel-with-hard-problem: "Both gaps point to the same reality" / "no physical process could replicate" marked as the Map's reading, contingent on the contested cognitive-phenomenology premise.
+- **Preserved**: deep-review parity fix ("argued position, not a settled result"; "Naturalists contest this... live rather than closed") fully intact; all citation framing untouched (web-verify done in deep-review — Nagel/Lewis/Sellars/Carrier clean). No "This is not X. It is Y." cliché; no editor-vocabulary leakage.
+- **Published**: yes
+
 ## 2026-05-27T21:20:00+00:00 - tune-system
 - **Status**: Aborted (cadence floor — 9th invocation in ~28 days; last run ~18h ago)
 - **Sessions analyzed**: 0 (insufficient new data; ≥3–5 required)
