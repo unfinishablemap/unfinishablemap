@@ -4,9 +4,9 @@ description: "How conscious experience possesses layered richness beyond surface
 created: 2026-02-13
 modified: 2026-04-17
 human_modified:
-ai_modified: 2026-04-17T05:25:00+00:00
+ai_modified: 2026-05-28T00:00:00+00:00
 draft: false
-last_deep_review: 2026-04-17T05:25:00+00:00
+last_deep_review: 2026-05-28T00:00:00+00:00
 topics:
   - "[[phenomenology-of-intellectual-life]]"
   - "[[emotion-and-dualism]]"
