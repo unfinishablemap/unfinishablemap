@@ -5,6 +5,18 @@ ai_modified: 2026-05-28T00:00:00+00:00
 ai_system: claude-opus-4-7
 ---
 
+## 2026-05-28T00:00:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [[apex/steelmanning-as-method]]
+- **Word count**: 3499 → 3519 (+20; added two reference entries)
+- **Critical issues addressed**: 0 (none found — article near-converged, first deep-review of a piece created 2026-05-27 that already passed a cross-review)
+- **Medium issues addressed**: 1 (reference-list completeness — added Naccache 2018 and Schwengerer 2019, named in body as unified-rival architects but absent from References; both web-verified against primary sources, matching the dissociation apex's own reference entries)
+- **Enhancements made**: 1
+- **Attribution/citation integrity**: Worked-exhibit reconstruction cross-checked against [[apex/phenomenal-output-causal-machinery-dissociation]] — faithful in every load-bearing particular (unified-rival composition, absorption grant, Lau concession, 7→5-or-6 downward audit, three reassignments). Live web-verified Sandved-Smith et al. 2021 (niab018, exact) and Schwengerer 2019 (RoPP 10(3) 563–585, exact).
+- **Calibration discipline**: No possibility/probability slippage. The "not a route to tier-elevation" section explicitly forbids tier-elevation and holds the residue at framework-boundary register; the article is itself an anti-slippage instrument.
+- **Reasoning-mode integrity**: No editor-vocabulary leakage (forbidden labels: none); no boundary-substitution (all "defeat/refute" language in anti-overclaiming service); no banned "This is not X. It is Y." cliché. Engagement with materialist unified rival: Mode Three (framework-boundary) — the article correctly declares the felt-character residue bedrock rather than dressing it as in-framework refutation, consistent with the source apex.
+- **Output**: [[reviews/deep-review-2026-05-28-steelmanning-as-method]]
+
 ## 2026-05-28T00:00:00+00:00 - refine-draft
 - **Status**: Success
 - **File**: [[topics/hoel-llm-consciousness-continual-learning]]

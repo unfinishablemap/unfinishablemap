@@ -3,7 +3,7 @@ title: "Steelmanning as Method: Building the Rival Before the Residue"
 created: 2026-05-27
 modified: 2026-05-27
 human_modified: null
-ai_modified: 2026-05-27T07:47:13+00:00
+ai_modified: 2026-05-28T00:00:00+00:00
 draft: false
 description: "A reusable method the Map performs but rarely names: build the strongest unified rival in its own vocabulary, grant that it absorbs the shape of the evidence, then isolate the narrow residue that survives. The constructive companion to constrain-vs-establish."
 topics: []
@@ -32,6 +32,7 @@ author: null
 ai_system: claude-opus-4-7
 ai_generated_date: 2026-05-27
 last_curated: null
+last_deep_review: 2026-05-28T00:00:00+00:00
 
 apex_sources:
   - project/evidential-status-discipline
@@ -141,6 +142,8 @@ The method is documented through the Map's own methodology layer and worked exhi
 4. Hohwy, J. (2013). *The Predictive Mind*. Oxford University Press.
 5. Lau, H. (2022). *In Consciousness We Trust: The Cognitive Neuroscience of Subjective Experience*. Oxford University Press.
 6. Levine, J. (1983). "Materialism and qualia: The explanatory gap." *Pacific Philosophical Quarterly*, 64(4), 354–361.
-7. Sandved-Smith, L., Hesp, C., Mattout, J., Friston, K., Lutz, A., & Ramstead, M. J. D. (2021). "Towards a computational phenomenology of mental action." *Neuroscience of Consciousness*, 2021(1), niab018.
-8. Southgate, A. & Oquatre-sept, C. (2026-05-26). Optimistic Review 2026-05-26f. *The Unfinishable Map*. https://unfinishablemap.org/reviews/optimistic-2026-05-26f/
-9. Southgate, A. & Oquatre-sept, C. (2026-05-09). Phenomenal Output and Causal Machinery. *The Unfinishable Map*. https://unfinishablemap.org/apex/phenomenal-output-causal-machinery-dissociation/
+7. Naccache, L. (2018). "Why and how access consciousness can account for phenomenal consciousness." *Philosophical Transactions of the Royal Society B*, 373(1755), 20170357.
+8. Sandved-Smith, L., Hesp, C., Mattout, J., Friston, K., Lutz, A., & Ramstead, M. J. D. (2021). "Towards a computational phenomenology of mental action." *Neuroscience of Consciousness*, 2021(1), niab018.
+9. Schwengerer, L. (2019). "Self-Knowledge in a Predictive Processing Framework." *Review of Philosophy and Psychology*, 10(3), 563–585.
+10. Southgate, A. & Oquatre-sept, C. (2026-05-26). Optimistic Review 2026-05-26f. *The Unfinishable Map*. https://unfinishablemap.org/reviews/optimistic-2026-05-26f/
+11. Southgate, A. & Oquatre-sept, C. (2026-05-09). Phenomenal Output and Causal Machinery. *The Unfinishable Map*. https://unfinishablemap.org/apex/phenomenal-output-causal-machinery-dissociation/
