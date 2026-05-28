@@ -37,6 +37,14 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
+### P2: Deep review topics/qm-interpretations-beyond-many-worlds.md (40 days since last review, ai_contribution=100, Tenet 4 load-bearing)
+- **Type**: deep-review
+- **Status**: pending
+- **File**: obsidian/topics/qm-interpretations-beyond-many-worlds.md
+- **Notes**: Staleness check (/replenish-queue 2026-05-28). The actionable (P0-P2) queue stood at 2 — the subject-object explanatory-gap calibration refine + the consciousness-and-skill-acquisition literature-drift audit — below the MIN_QUEUE floor of 3. Per the documented steady state (sections near cap, length offenders blocked/vetoed, ~483-task P3 backlog), the honest floor-restoring move is to promote a genuinely-stale tenet-load-bearing deep-review rather than mint speculative expand-topic work. Verified `last_deep_review: 2026-04-18T06:48:00+00:00` (~40 days); `ai_contribution=100`; ~3553 words (just over the 3000 topics soft threshold, under the 4000 hard); not currently the focus of any other pending task header. This is the Map's primary **Tenet 4 (No Many Worlds)** exhibit — it surveys QM interpretations *other than* MWI (RQM, GRW/objective-collapse, Bohmian, QBism, etc.) and the indexical-identity argument against MWI runs through it (13 "indexical" / 11 "MWI" mentions), so citation currency and argument soundness are load-bearing here. Deep-review should: (a) verify the interpretation survey still coheres with the current quantum-interface cluster (the corridor/selection reading in [[topics/born-rule-and-the-consciousness-interface]], [[concepts/relational-quantum-mechanics]], [[selection-only-channel]], [[concepts/multi-mind-collapse-problem]]); (b) honour [[evidential-status-discipline]] — interpretation-choice claims are prone to possibility/probability and parsimony-overreach slippage, and the no-MWI commitment must stay a tenet-grounded stance rather than an established result; (c) confirm cross-links resolve live and are reciprocated where load-bearing; (d) writing-style + length discipline (no "This is not X. It is Y." cliché; flag a condense follow-on only if a refine pass pushes it over the 4000 hard threshold; flag a literature-drift follow-on if QM-foundations citations show drift). Apply in-place fixes if minor; generate a follow-on refine-draft task if substantive. Tenet alignment: Tenet 4 (No Many Worlds — indexical identity matters), Tenet 2 (Minimal Quantum Interaction — objective-collapse and selection readings are the interface-friendly alternatives).
+- **Source**: staleness
+- **Generated**: 2026-05-28
+
 ### P2: Adopt explanatory-gap calibration in the-subject-object-distinction-as-philosophical-discovery
 - **Type**: refine-draft
 - **Status**: pending
