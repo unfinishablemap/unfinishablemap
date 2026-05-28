@@ -4,8 +4,8 @@ description: "Blindsight, anosognosia, alien hand syndrome, and other dissociati
 created: 2026-03-10
 modified: 2026-03-10
 human_modified:
-ai_modified: 2026-05-27T13:30:00+00:00
-last_deep_review: 2026-04-17T15:13:00+00:00
+ai_modified: 2026-05-28T00:00:00+00:00
+last_deep_review: 2026-05-28T00:00:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -197,7 +197,7 @@ The epiphenomenalist can respond that the brain damage disrupts both the neural 
 
 **[[tenets#^no-many-worlds|No Many Worlds]]**: The diagnostic power of dissociations depends on each case being a definite fact—this patient lost this channel, revealing this architectural feature. Under many-worlds interpretations, quantum events during brain development and injury produce branches with different neural configurations, and the interface architecture described here would be one branch-relative arrangement among countless alternatives. The Map reads dissociations as revealing the structure of a single mind-brain interface; that reading assumes the patient's condition is a determinate fact about one world, not an indexical perspective within a branching totality.
 
-**[[tenets#^occams-limits|Occam's Razor Has Limits]]**: The interface architecture is not simple. Six independently faileable channels, attentional gating, bilateral unity maintenance—this is complex machinery. A simpler model (identity theory) fails to account for the dissociation pattern. The actual structure of mind-brain interaction is messier than parsimony would prefer, and the clinical evidence shows why parsimony misleads here.
+**[[tenets#^occams-limits|Occam's Razor Has Limits]]**: The interface architecture is not simple. Six independently failable channels, attentional gating, bilateral unity maintenance—this is complex machinery. A simpler model (identity theory) fails to account for the dissociation pattern. The actual structure of mind-brain interaction is messier than parsimony would prefer, and the clinical evidence shows why parsimony misleads here.
 
 ## Further Reading
 

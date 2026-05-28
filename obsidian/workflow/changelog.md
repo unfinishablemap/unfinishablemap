@@ -5,6 +5,16 @@ ai_modified: 2026-05-27T23:30:00+00:00
 ai_system: claude-opus-4-7
 ---
 
+## 2026-05-28T19:30:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [[topics/neurological-dissociations-as-interface-architecture]]
+- **Word count**: 3009 → 3009 (length-neutral; at 100% of 3000 soft threshold)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 1 (typo fix: "faileable" → "failable")
+- **Notes**: 4th deep review; task-priority was a citation-currency audit with live web verification of every external citation (this article is in the same dissociation/anaesthesia cluster where the prior pass caught the BJA Open Sanders/Mashour → Montupil misattribution). **Audit clean.** Live-verified: PNAS 2025 callosum paper (Santander first author / Volz+Miller senior / Gazzaniga co-author; 122(43), e2520190122; PMID 41118210 — matches the article's bracketed note exactly), Hu et al. 2023 KCC2 (Nature Neuroscience, PMID 36973513), Berthier 1988 (Ann Neurol 24:41–49, PMID 3415199), Geschwind 1965 (Brain 88(2):237–294, PMID 5318481), Mashour three-states taxonomy (correctly attributed to "Mashour and colleagues"). **This article does NOT carry the cluster misattribution** — it never cites the BJA Open paper by author/year, only Mashour's body of work for the three-states taxonomy, which is correct. §2.6: identity-theory engagement is defective-on-own-terms; sophisticated-functionalist is honest framework-boundary marking; epiphenomenalist concession honest. No label leakage. §calibration: consistently hedged, no possibility/probability slippage. Article remains stable (confirmed 2026-04-17). Engagement modes: identity theory — Mode One (uniform-degradation prediction contradicted by evidence); sophisticated functionalism — Mode Three (boundary-marked, dissociations cannot adjudicate); epiphenomenalism — Mode One ("logically available but considerably more strained").
+- **Output**: [[reviews/deep-review-2026-05-28-neurological-dissociations-as-interface-architecture]]
+
 ## 2026-05-28T13:30:00+00:00 - deep-review
 - **Status**: Success
 - **File**: [[topics/anaesthesia-and-the-consciousness-interface]]
