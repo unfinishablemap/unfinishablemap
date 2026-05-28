@@ -5,6 +5,18 @@ ai_modified: 2026-05-28T00:00:00+00:00
 ai_system: claude-opus-4-7
 ---
 
+## 2026-05-28T20:58:39+00:00 - deep-review
+- **Status**: Success
+- **File**: [[topics/emotion-and-dualism]]
+- **Word count**: 2899 → 2899 (no change; length-neutral, 97% of soft threshold)
+- **Critical issues addressed**: 1 (citation misattribution: "Sun, X., et al. (2024)" → **Lee, S. A., et al. (2024)**, *PNAS* 121(26)→**121(25), e2310433121** — wrong first author conflated onto a real paper; survived 2 prior deep reviews + cross-corpus review because the DOI was correct)
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 (content converged; citation-metadata corrections only)
+- **Citation-currency pass**: 4 external refs live-verified. Cleeremans & Tallon-Baudry (2022) niac007 CORRECT + "mental currency" phrase confirmed verbatim (resolves 2026-04-17 deferred Cabanac-vs-CTB concern). Carruthers (2018) 97(3):658-680 CORRECT. LeDoux & Brown (2017) 114(10):E2016-E2025 CORRECT. Sun→Lee misattribution (above) FIXED. Detection-tell (iii): wrong first author.
+- **Propagation fixed**: Sun→Lee in research root (emotional-consciousness-valence-2026-01-19) + 2 archive copies. Also corrected legacy Cutter&Tye→Cleeremans misattribution still living in 4 archived/sibling copies (consciousness-and-pain, value-blind-vs-value-sensitive-selection, archive emotional-consciousness ×2) + research root that the 2026-03-17 fix had not reached.
+- **Engagement modes (editor-internal)**: functionalism-via-asymbolia = Mode Two→Mixed (honest); epiphenomenalism/Damasio = Mode One. No label leakage, no possibility/probability slippage.
+- **Output**: [[reviews/deep-review-2026-05-28-emotion-and-dualism]]
+
 ## 2026-05-28T23:30:00+00:00 - deep-review
 - **Status**: Success
 - **File**: [[concepts/phenomenal-depth]]

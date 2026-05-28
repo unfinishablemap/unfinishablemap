@@ -3,7 +3,7 @@ title: "Research Notes - Emotional Consciousness and Valence"
 created: 2026-01-19
 modified: 2026-01-19
 human_modified: null
-ai_modified: 2026-05-14T20:42:00+00:00
+ai_modified: 2026-05-28T20:58:39+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -293,7 +293,7 @@ Before synthesis articles, further research would strengthen the analysis:
 - Barrett, L. F., & Russell, J. A. (1999). Core affect, prototypical emotional episodes, and other things called emotion: Dissecting the elephant. *Journal of Personality and Social Psychology*, 76(5), 805-819.
 - Carruthers, P. (2018). Valence and value. *Philosophy and Phenomenological Research*, 97(3), 658-680. https://faculty.philosophy.umd.edu/pcarruthers/Valence%20and%20Value.pdf
 - Colombetti, G. (2005). Appraising valence. *Journal of Consciousness Studies*, 12(8-10), 103-126.
-- Cutter, B. & Tye, M. (2022). Consciousness matters: Phenomenal experience has functional value. *Neuroscience of Consciousness*, 2022(1), niac007. https://pmc.ncbi.nlm.nih.gov/articles/PMC9036654/
+- Cleeremans, A., & Tallon-Baudry, C. (2022). Consciousness matters: Phenomenal experience has functional value. *Neuroscience of Consciousness*, 2022(1), niac007. https://pmc.ncbi.nlm.nih.gov/articles/PMC9036654/
 - Davis, J. I., et al. (2019). Affective valence in the brain: Modules or modes? *Cortex*, 114, 18-26. https://pmc.ncbi.nlm.nih.gov/articles/PMC6426670/
 - LeDoux, J. E., & Brown, R. (2017). A higher-order theory of emotional consciousness. *Proceedings of the National Academy of Sciences*, 114(10), E2016-E2025. https://www.pnas.org/doi/10.1073/pnas.1619316114
 - Montemayor, C., & Haladjian, H. H. (2015). *Consciousness, Attention, and Conscious Attention*. MIT Press.
@@ -302,5 +302,5 @@ Before synthesis articles, further research would strengthen the analysis:
 - Panksepp, J. (2005). Affective consciousness: Core emotional feelings in animals and humans. *Consciousness and Cognition*, 14(1), 30-80.
 - Scarantino, A., & de Sousa, R. (2021). Emotion. *Stanford Encyclopedia of Philosophy*. https://plato.stanford.edu/entries/emotion/
 - Smithies, D. (2021). Hedonic consciousness and moral status. PhilArchive. https://philarchive.org/archive/SMIACA-16
-- Sun, X., et al. (2024). Brain representations of affective valence and intensity in sustained pleasure and pain. *PNAS*, 121(26). https://www.pnas.org/doi/10.1073/pnas.2310433121
+- Lee, S. A., et al. (2024). Brain representations of affective valence and intensity in sustained pleasure and pain. *PNAS*, 121(25), e2310433121. https://www.pnas.org/doi/10.1073/pnas.2310433121
 - Tye, M., & Prinz, J. (2022). Sentience, Vulcans, and zombies: The value of phenomenal consciousness. *AI & Society*. https://pmc.ncbi.nlm.nih.gov/articles/PMC11614978/

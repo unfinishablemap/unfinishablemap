@@ -166,5 +166,5 @@ The Map should eventually take a position on this fork. The graduated middle pat
 1. Eccles, J.C. (1994). *How the Self Controls Its Brain*. Springer.
 1. Rawlette, S.H. (2016). *The Feeling of Value: Moral Realism Grounded in Phenomenal Consciousness*. CreateSpace.
 1. Carruthers, P. (2018). Valence and value. *Philosophy and Phenomenological Research*, 97(3), 658-680.
-1. Cutter, B. & Tye, M. (2022). Consciousness matters: Phenomenal experience has functional value. *Neuroscience of Consciousness*, 2022(1).
+1. Cleeremans, A., & Tallon-Baudry, C. (2022). Consciousness matters: Phenomenal experience has functional value. *Neuroscience of Consciousness*, 2022(1), niac007.
 1. Nagel, T. (2012). *Mind and Cosmos*. Oxford University Press.

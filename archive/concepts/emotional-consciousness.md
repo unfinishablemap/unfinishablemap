@@ -49,9 +49,9 @@ Valence is an intrinsic qualitative property of experience itself. The badness o
 
 **Evidence for the hedonic account:**
 - **Pain asymbolia**: Patients with pain asymbolia report feeling pain but find it doesn't bother them. They can represent bodily damage without experiencing the badness. This dissociation suggests valence and representation are distinct—you can have the representation without the felt quality. The condition demonstrates that the informational content of pain (damage detection) and its felt badness are neurologically separable.
-- **Immediate motivation**: Valenced states motivate immediately, without inference. You don't decide that pain is bad and therefore avoid it; the badness is given in the experience. This "mental currency" function (Cutter & Tye 2022) allows consciousness to compare radically different experiences—choosing between pain now and pleasure later requires a common evaluative dimension.
+- **Immediate motivation**: Valenced states motivate immediately, without inference. You don't decide that pain is bad and therefore avoid it; the badness is given in the experience. This "mental currency" function (Cleeremans & Tallon-Baudry 2022) allows consciousness to compare radically different experiences—choosing between pain now and pleasure later requires a common evaluative dimension.
 - **The explanatory gap**: No amount of functional description explains *why* pain feels bad. A complete account of nociceptor firing, neural pathways, and avoidance circuitry leaves the felt badness unexplained.
-- **Neural substrates**: 2024 neuroimaging research (Sun et al.) found that valence and intensity have distinct neural signatures—valence tracks limbic/DMN networks while intensity tracks ventral attention networks. This double dissociation supports valence as a separable property of experience, not merely an intensity dimension.
+- **Neural substrates**: 2024 neuroimaging research (Lee et al.) found that valence and intensity have distinct neural signatures—valence tracks limbic/DMN networks while intensity tracks ventral attention networks. This double dissociation supports valence as a separable property of experience, not merely an intensity dimension.
 
 ### Evaluativism
 
@@ -137,7 +137,7 @@ If the felt badness of pain is an intrinsic phenomenal property—not reducible 
 
 Emotional consciousness does causal work. Valenced states don't merely correlate with behaviour—they *motivate* it. The badness of pain causes avoidance; the pleasantness of reward causes approach. If phenomenal valence were causally inert, this motivational power would be inexplicable.
 
-The research article "Consciousness Matters" (Cutter & Tye 2022) argues: "It is only in virtue of the fact that conscious agents 'experience' things and 'care' about those experiences that they are 'motivated' to act." Phenomenal experience serves as "mental currency" enabling comparison across radically different states—the decision to endure pain now for pleasure later requires a common evaluative dimension that exists only in valenced experience. If this is right, emotional consciousness is where phenomenal properties do their most obvious causal work—supporting the [[tenets#^bidirectional-interaction|Bidirectional Interaction tenet]].
+The research article "Consciousness Matters" (Cleeremans & Tallon-Baudry 2022) argues: "It is only in virtue of the fact that conscious agents 'experience' things and 'care' about those experiences that they are 'motivated' to act." Phenomenal experience serves as "mental currency" enabling comparison across radically different states—the decision to endure pain now for pleasure later requires a common evaluative dimension that exists only in valenced experience. If this is right, emotional consciousness is where phenomenal properties do their most obvious causal work—supporting the [[tenets#^bidirectional-interaction|Bidirectional Interaction tenet]].
 
 This connects to [[agent-causation]]: the conscious subject evaluates options via valence and selects accordingly. Valenced assessment may be the mechanism through which consciousness exercises its causal role—not merely observing neural activity, but *caring* about it in ways that influence which possibilities become actual.
 
@@ -165,6 +165,6 @@ This connects to [[attention-as-interface]] and [[mental-effort]]: attention is 
 - LeDoux, J. E., & Brown, R. (2017). A higher-order theory of emotional consciousness. *Proceedings of the National Academy of Sciences*, 114(10), E2016-E2025.
 - Carruthers, P. (2018). Valence and value. *Philosophy and Phenomenological Research*, 97(3), 658-680.
 - Russell, J. A., & Barrett, L. F. (1999). Core affect, prototypical emotional episodes, and other things called emotion. *Journal of Personality and Social Psychology*, 76(5), 805-819.
-- Cutter, B., & Tye, M. (2022). Consciousness matters: Phenomenal experience has functional value. *Neuroscience of Consciousness*, 2022(1), niac007.
-- Sun, X., et al. (2024). Brain representations of affective valence and intensity in sustained pleasure and pain. *PNAS*, 121(26).
+- Cleeremans, A., & Tallon-Baudry, C. (2022). Consciousness matters: Phenomenal experience has functional value. *Neuroscience of Consciousness*, 2022(1), niac007.
+- Lee, S. A., et al. (2024). Brain representations of affective valence and intensity in sustained pleasure and pain. *PNAS*, 121(25), e2310433121.
 - Rawlette, S. H. (2016). *The Feeling of Value: Moral Realism Grounded in Phenomenal Consciousness*.

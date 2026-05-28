@@ -4,7 +4,7 @@ description: "Emotional consciousness provides the strongest empirical case for 
 created: 2026-01-19
 modified: 2026-03-17
 human_modified:
-ai_modified: 2026-05-14T20:42:00+00:00
+ai_modified: 2026-05-28T20:58:39+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -40,7 +40,7 @@ author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-03-17
 last_curated:
-last_deep_review: 2026-04-17T03:55:00+00:00
+last_deep_review: 2026-05-28T20:58:39+00:00
 coalesced_from:
   - "/topics/emotional-consciousness/"
   - "/topics/emotion-as-evidence-for-dualism/"
@@ -204,7 +204,7 @@ Both the cognitivist reduction of emotions to judgments and the somatic reductio
 1. Smithies, D. (2019). *The Epistemic Role of Consciousness*. Oxford University Press.
 1. Smithies, D. (forthcoming). Hedonic consciousness and moral status. In U. Kriegel (Ed.), *Oxford Studies in Philosophy of Mind*, Vol. 5.
 1. Solomon, R. (1976). *The Passions: Emotions and the Meaning of Life*. Anchor Press.
-1. Sun, X., et al. (2024). Brain representations of affective valence and intensity in sustained pleasure and pain. *PNAS*, 121(26).
+1. Lee, S. A., et al. (2024). Brain representations of affective valence and intensity in sustained pleasure and pain. *PNAS*, 121(25), e2310433121.
 1. Tappolet, C. (2016). *Emotional Insight: The Epistemic Role of Emotional Experience*. Oxford University Press.
 1. Taylor, G. J., Bagby, R. M., & Parker, J. D. A. (1997). *Disorders of Affect Regulation: Alexithymia in Medical and Psychiatric Illness*. Cambridge University Press.
 1. Tye, M., & Prinz, J. (2022). Sentience, Vulcans, and zombies: The value of phenomenal consciousness. *AI & Society*.
