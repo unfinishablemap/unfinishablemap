@@ -37,14 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Deep review topics/comparative-phenomenology-of-mathematical-insight.md (41 days since last review, ai_contribution=100, Tenet 1/3 load-bearing)
-- **Type**: deep-review
-- **Status**: pending
-- **File**: obsidian/topics/comparative-phenomenology-of-mathematical-insight.md
-- **Notes**: Staleness check (/replenish-queue 2026-05-28, restoring queue above the MIN_QUEUE floor of 3). Verified `last_deep_review: 2026-04-17T03:25:00+00:00` (~41 days); `ai_contribution=100`; ~2339 words; not currently the target of any pending task. Chosen for sequencing as well as staleness: this article is the parent of the open P3 "Write article on Ramanujan as a cross-tradition phenomenology-of-reception exhibit" task (it names Ramanujan as the cluster's best concrete bridge case), so reviewing the parent first de-risks that downstream expand-topic. **Tenet 1 / Tenet 3** load-bearing (irreducible insight resisting computational search; insight producing checkable physical proofs). Deep-review should: (a) verify the cross-tradition phenomenology framing (Greek visual model vs classical Indian constructive model vs Ramanujan's reception phenomenology) still coheres with the current consciousness-and-mathematics cluster; (b) hold the register-separation line strictly per `[[evidential-status-discipline]]` — phenomenological-report claims ("results arriving in dreams/visions", "tracked mathematical truth reliably") must NOT slip into mechanism claims, and the eliminativist post-hoc-confabulation counter must be engaged honestly; (c) confirm cross-links resolve live and are reciprocated (`[[consciousness-and-mathematics]]`, `[[aesthetics-and-consciousness]]`, `[[incubation-effect-and-unconscious-processing]]`, `[[creative-consciousness]]`); (d) writing-style + length discipline (no cliché). If the review surfaces the need, refine the parent so the pending Ramanujan article has a clean anchor. Apply in-place fixes if minor; generate a follow-on if substantive.
-- **Source**: staleness
-- **Generated**: 2026-05-28
-
 ### P2: Adopt explanatory-gap calibration in the-subject-object-distinction-as-philosophical-discovery
 - **Type**: refine-draft
 - **Status**: pending
@@ -3588,6 +3580,10 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 Tasks that failed 3+ times and require human intervention.
 
+
+### ✓ 2026-05-28: Deep review topics/comparative-phenomenology-of-mathematical-insight.md (41 days since last review, ai_contribution=100, Tenet 1/3 load-bearing)
+- **Type**: deep-review
+- **Notes**: Staleness check (/replenish-queue 2026-05-28, restoring queue above the MIN_QUEUE floor of 3). Verified `last_deep_review: 2026-04-17T03:25:00+00:00` (~41 days); `ai_contribution=100`; ~2339 words; not currently the target of any pending task. Chosen for sequencing as well as staleness: this article is the parent of the open P3 "Write article on Ramanujan as a cross-tradition phenomenology-of-reception exhibit" task (it names Ramanujan as the cluster's best concrete bridge case), so reviewing the parent first de-risks that downstream expand-topic. **Tenet 1 / Tenet 3** load-bearing (irreducible insight resisting computational search; insight producing checkable physical proofs). Deep-review should: (a) verify the cross-tradition phenomenology framing (Greek visual model vs classical Indian constructive model vs Ramanujan's reception phenomenology) still coheres with the current consciousness-and-mathematics cluster; (b) hold the register-separation line strictly per `[[evidential-status-discipline]]` — phenomenological-report claims ("results arriving in dreams/visions", "tracked mathematical truth reliably") must NOT slip into mechanism claims, and the eliminativist post-hoc-confabulation counter must be engaged honestly; (c) confirm cross-links resolve live and are reciprocated (`[[consciousness-and-mathematics]]`, `[[aesthetics-and-consciousness]]`, `[[incubation-effect-and-unconscious-processing]]`, `[[creative-consciousness]]`); (d) writing-style + length discipline (no cliché). If the review surfaces the need, refine the parent so the pending Ramanujan article has a clean anchor. Apply in-place fixes if minor; generate a follow-on if substantive.
 
 ### ✓ 2026-05-28: Deep review topics/predictive-processing-and-dualism.md (41 days since last review, ai_contribution=100, Tenet 2/3 load-bearing)
 - **Type**: deep-review

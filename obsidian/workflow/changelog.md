@@ -5,6 +5,17 @@ ai_modified: 2026-05-28T00:00:00+00:00
 ai_system: claude-opus-4-7
 ---
 
+## 2026-05-28T21:30:00+00:00 - deep-review
+- **Status**: Success (citation-currency caught archival-link-rot defect on a converged article)
+- **File**: [[topics/comparative-phenomenology-of-mathematical-insight]]
+- **Word count**: ~2339 → ~2339 (no net content change; well under 3000 soft threshold)
+- **Critical issues addressed**: 1 — stale self-citation (ref #8) pointed at `/concepts/consciousness-and-the-philosophy-of-mathematics/`, archived 2026-05-25 and superseded by `/topics/consciousness-and-mathematics/`. Repointed to the live successor. Four prior convergence reviews missed it because the target was live when they ran; it went dead 3 days before this review (archival-link-rot, not content regression).
+- **Medium issues addressed**: 1 — added [[incubation-effect-and-unconscious-processing]] cross-link at the incubation-insight bullet.
+- **Citation-currency pass**: live web-verified Brouwer 1949 (Proc. 10th Intl Congress Philosophy, North-Holland, pp.1235-1249 ✓), Poincaré "Mathematical Creation"/Science and Method 1908 (✓, minor French-date+English-publisher mix, left as-is), Ramanujan dreams/visions (✓), Madhava/Kerala infinite series pre-Newton/Leibniz (✓). Propagation check: dead URL appears elsewhere in live content only as a deliberate alias redirect (correct), no further defect.
+- **Register-separation check**: PASS — report vs mechanism held; eliminativist confabulation counter engaged honestly not strawmanned; no possibility/probability slippage (three-option structure intact, no tenet-load evidential upgrade).
+- **Enhancements made**: 2 (citation repoint, cross-link)
+- **Output**: [[reviews/deep-review-2026-05-28-comparative-phenomenology-of-mathematical-insight]]
+
 ## 2026-05-28T20:30:00+00:00 - deep-review
 - **Status**: Success (citation-currency pass; metadata-only near-no-op)
 - **File**: [[topics/consciousness-and-the-authority-of-formal-systems]]
