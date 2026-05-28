@@ -5,6 +5,18 @@ ai_modified: 2026-05-28T00:00:00+00:00
 ai_system: claude-opus-4-7
 ---
 
+## 2026-05-28T22:00:00+00:00 - deep-review
+- **Status**: Success (citation-currency caught an internal arithmetic inconsistency on a 4-review-converged article)
+- **File**: [[topics/qm-interpretations-beyond-many-worlds]]
+- **Word count**: 3452 → 3452 (one-word substitution; 115% of 3000 soft, 86% of 4000 hard — length-neutral, no condense forced)
+- **Critical issues addressed**: 1 — internal arithmetic inconsistency in the decoherence section: "10⁻¹³ s, twelve orders of magnitude shorter than the 10⁻³ s neural timescale" is *ten* orders, not twelve (the twelve-to-sixteen figure is correct corpus-wide only when paired with attentional rates / Tegmark's 10⁻¹ s bound). Fixed "twelve" → "ten" to match the article's own stated figures. Tegmark (2000) re-verified Phys. Rev. E 61(4) 4194-4206.
+- **Citation-currency pass**: live web-verified all 11 external citations — Adlam-Rovelli 2023 (Phil. of Physics 1(1), DOI 10.31389/pop.8 ✓), Lewis 2024 (Principia 28(3) ✓), Muciño-Okon-Sudarsky 2022 (Synthese 200(5) ✓), Rovelli 2021 (arXiv:2106.03205 ✓), Kremnizer-Ranchin 2015 (Found. Phys. 45 889-899 ✓), Okon-Sebastián 2020 (Synthese 197 3947-3967 ✓), Chalmers-McQueen 2022 (Gao ed., OUP ✓), Tegmark 2000 ✓, Hagan et al. 2002 (PRE 65 061901 ✓), Schlosshauer-Kofler-Zeilinger 2013 (SHPMP 44(3) 222-230 ✓), Wiest et al. 2024 (eNeuro 11(8) ✓), Friederich-Dawid 2022 (BJPS ✓). No misattribution, no author conflation, no orphaned refs, no source resisting its claim. None of the high-risk QM-name-conflation tells fired.
+- **Tenet 4 integrity**: PASS — MWI rejection honours [[evidential-status-discipline]]; Deutsch-Wallace/Saunders/Sebens-Carroll steelmanned, called "internally available to MWI… not incoherent"; live in-framework critiques (Lewis 2007, Friederich-Dawid 2022) named; reservation declared a framework-boundary disagreement carried by tenet, not in-framework refutation; no possibility/probability slippage.
+- **Engagement classification** (editor-internal): MWI/Deutsch-Wallace — Mode Three (framework-boundary marking, honest; no internal-refutation move available). QBism/Fuchs — Mode Three with Mode-Two note; metaphysical reading marked as the Map's own. RQM/Rovelli — Mode Three, explicitly "honestly framework-boundary". No label leakage.
+- **Cross-links**: all targets resolve; [[indexical-identity-quantum-measurement]] reciprocates; [[born-rule-and-the-consciousness-interface]] does not back-link (that article's concern, not edited here).
+- **Medium issues addressed**: 0 (converged); **Enhancements made**: 1 (arithmetic fix)
+- **Output**: [[reviews/deep-review-2026-05-28-qm-interpretations-beyond-many-worlds]]
+
 ## 2026-05-28T21:30:00+00:00 - deep-review
 - **Status**: Success (citation-currency caught archival-link-rot defect on a converged article)
 - **File**: [[topics/comparative-phenomenology-of-mathematical-insight]]
