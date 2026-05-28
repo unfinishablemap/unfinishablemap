@@ -3,7 +3,7 @@ title: "Research Notes - Voids: The Anesthesia Void"
 created: 2026-04-17
 modified: 2026-04-17
 human_modified: null
-ai_modified: 2026-04-17T09:25:00+00:00
+ai_modified: 2026-05-28T18:41:12+00:00
 draft: false
 target_section: voids
 topics:
@@ -50,7 +50,7 @@ General anesthesia produces a phenomenological discontinuity that existing voids
 
 ## Key Sources
 
-### Mashour et al., "The nature of consciousness in anaesthesia" (BJA Open, 2023)
+### Montupil et al., "The nature of consciousness in anaesthesia" (BJA Open, 2023)
 - **URL**: https://pmc.ncbi.nlm.nih.gov/articles/PMC10539891/
 - **Type**: Peer-reviewed review article
 - **Key points**:
@@ -188,7 +188,7 @@ Angle 1 is the cleanest standalone article. Angle 2 is more argumentative and co
 
 ## Citations
 
-1. Mashour GA. "The nature of consciousness in anaesthesia." BJA Open, 2023. https://pmc.ncbi.nlm.nih.gov/articles/PMC10539891/
+1. Montupil J, Cardone P, Staquet C, et al. "The nature of consciousness in anaesthesia." BJA Open, 8, 100224, 2023. https://pmc.ncbi.nlm.nih.gov/articles/PMC10539891/
 2. Mashour GA (ed). *Consciousness, Awareness, and Anesthesia*. Cambridge University Press. https://www.cambridge.org/core/books/consciousness-awareness-and-anesthesia/
 3. Scheinin A, Kantonen O, Alkire M, et al. "Foundations of Human Consciousness: Imaging the Twilight Zone." Journal of Neuroscience, 2021. https://www.jneurosci.org/content/41/8/1769
 4. "The Entwined Mysteries of Anesthesia and Consciousness." Anesthesiology, 2006. https://pubs.asahq.org/anesthesiology/article/105/2/400/6651/The-Entwined-Mysteries-of-Anesthesia-and
