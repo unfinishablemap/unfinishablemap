@@ -4,7 +4,7 @@ description: "The brain transmits and constrains consciousness rather than produ
 created: 2026-01-15
 modified: 2026-01-15
 human_modified: null
-ai_modified: 2026-05-28T14:05:00+00:00
+ai_modified: 2026-05-28T23:50:08+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -22,6 +22,7 @@ concepts:
   - "[[neural-correlates-of-consciousness]]"
   - "[[interactionist-dualism]]"
   - "[[attention-as-interface]]"
+  - "[[interface-friction]]"
   - "[[mind-brain-separation]]"
   - "[[consciousness-disruption-and-the-mind-brain-interface]]"
   - "[[near-death-experiences]]"
@@ -51,7 +52,7 @@ The filter theory of consciousness proposes that the brain does not *produce* co
 
 ## The Core Claim
 
-Materialism interprets brain-consciousness correlation as production: neural activity *generates* conscious experience. Filter theory interprets the same correlation as transmission: neural activity *shapes* and *constrains* consciousness that exists independently of the brain.
+Materialism interprets brain-consciousness correlation as production: neural activity *generates* conscious experience. Filter theory interprets the same correlation as transmission: neural activity *shapes* and *constrains* consciousness that exists independently of the brain. Where the brain constrains rather than produces, the constraining has a cost consciousness pays in operating through it — what the Map calls [[interface-friction|interface friction]], the resistance the filter imposes from the inside.
 
 Both interpretations explain basic neuroscience findings:
 - Brain damage produces specific deficits → damaged filter components distort or block transmission ([[disconnection-neuroscience|disconnection syndromes]] are the signature failure mode of a transmitter — channel severed, broadcast intact, receiver simply does not get this part of it; on the channel-architecture reading the Map develops on top of the Geschwind framework)

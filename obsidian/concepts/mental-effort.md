@@ -4,7 +4,7 @@ description: "Why controlling attention feels like work—and what this widely-s
 created: 2026-01-14
 modified: 2026-05-09
 human_modified: null
-ai_modified: 2026-05-28T22:55:09+00:00
+ai_modified: 2026-05-28T23:50:08+00:00
 draft: false
 topics:
   - "[[topics/free-will]]"
@@ -16,6 +16,7 @@ concepts:
   - "[[interactionist-dualism]]"
   - "[[concepts/epiphenomenalism]]"
   - "[[attention-as-interface]]"
+  - "[[interface-friction]]"
   - "[[temporal-consciousness]]"
   - "[[meditation-and-consciousness-modes]]"
   - "[[implicit-memory]]"
@@ -60,7 +61,7 @@ This phenomenology is widely shared — the modal case, with rare clinical excep
 
 The [[attention-as-interface|attention as interface hypothesis]] frames attention as the *interface layer* between consciousness and neural systems — not identical to consciousness, but the causal bridge through which consciousness operates on matter. Attention and consciousness are dissociable: you can attend without being conscious (blindsight) and be conscious without focused attention (peripheral awareness). Effort is the cost of engagement through this interface.
 
-Consciousness cannot influence neural patterns directly — it must work through attention mechanisms. The interface is bandwidth-limited: Shannon-calibrated measurements converge on ~10 bits/s for *conscious* throughput, while unconscious processing runs orders of magnitude faster (Zheng & Meister, 2025; Sauerbrei & Pruszynski, 2025; see [[topics/bandwidth-of-consciousness|the bandwidth of consciousness]]). The narrowing sits where consciousness participates, not in the neural hardware around it — which is what effort tracks from the inside.
+Consciousness cannot influence neural patterns directly — it must work through attention mechanisms. The interface is bandwidth-limited: Shannon-calibrated measurements converge on ~10 bits/s for *conscious* throughput, while unconscious processing runs orders of magnitude faster (Zheng & Meister, 2025; Sauerbrei & Pruszynski, 2025; see [[topics/bandwidth-of-consciousness|the bandwidth of consciousness]]). The narrowing sits where consciousness participates, not in the neural hardware around it — which is what effort tracks from the inside. The felt cost this section catalogues is one source of [[interface-friction|interface friction]]: on the Map's reading, the resistance consciousness meets operating through the brain, of which attentional cost is the dimension introspection registers most directly.
 
 ### Willed vs Instructed Attention
 

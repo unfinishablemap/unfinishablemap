@@ -5,6 +5,18 @@ ai_modified: 2026-05-29T00:05:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-05-28T23:50:08+00:00 - refine-draft (integrate-orphan, multi-file)
+- **Status**: Success
+- **Files**: [[concepts/mental-effort]], [[concepts/attentional-economics]], [[concepts/filter-theory]]
+- **Task**: install reciprocal [[concepts/interface-friction]] backlinks. Deep-review of interface-friction.md (2026-05-28) found it forward-links these three (body + frontmatter) with no link back. Dispatcher had mis-mapped this integrate-orphan task to a null-target deep-review; executed the well-specified spec instead.
+- **Changes**:
+  - mental-effort.md — added load-bearing backlink in the "Attention as Interface" section, identifying the felt effort the section catalogues as the attentional-cost dimension of interface friction; added to `concepts`.
+  - attentional-economics.md — added the strongest backlink (per task) in "Why Attention Specifically?" / Bandwidth limits: interface-friction supplies the *why* behind the attention-scarcity the whole framework prices; added to `concepts`.
+  - filter-theory.md — minimal surgical 1-sentence addition to the Core Claim (filter-theory was deep-reviewed clean earlier today; converged 146-inbound hub). Names friction as the cost of the constraint filter theory posits, reciprocating interface-friction's own "Friction and the Filter Model" framing; added to `concepts`. Converged content untouched.
+- **Constraints honoured**: each backlink reads naturally and does real referential work (not "see also"); length-neutral; no possibility/probability slippage; no "not X but Y" cliché; voices preserved.
+- **Note**: did NOT edit interface-friction.md (already forward-links all three).
+- **Published**: yes
+
 ## 2026-05-29T00:05:00+00:00 - optimistic-review
 - **Status**: Success
 - **Content reviewed**: perception/vision cluster — [[topics/dualist-perception]] and [[concepts/capability-division-in-vision]] (both deep-reviewed earlier today; focused on strengths + expansion surface, not defect re-audit)

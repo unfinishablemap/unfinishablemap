@@ -4,7 +4,7 @@ description: "Agency is fundamentally the allocation of attention over time. Fre
 created: 2026-01-31
 modified: 2026-01-31
 human_modified:
-ai_modified: 2026-05-19T21:30:00+00:00
+ai_modified: 2026-05-28T23:50:08+00:00
 draft: false
 topics:
   - "[[topics/free-will]]"
@@ -12,6 +12,7 @@ topics:
 concepts:
   - "[[attention-as-interface]]"
   - "[[mental-effort]]"
+  - "[[interface-friction]]"
   - "[[agent-causation]]"
   - "[[concepts/consciousness-selecting-neural-patterns]]"
   - "[[meditation-and-consciousness-modes]]"
@@ -62,7 +63,7 @@ The [[attention-as-interface]] article develops why attention—rather than emot
 
 Consider the constraints:
 
-**Bandwidth limits**: Conscious processing operates at ~10 bits/second while unconscious processing handles millions. This extreme asymmetry means consciousness can only influence coarse-grained patterns, not fine-grained neural events.
+**Bandwidth limits**: Conscious processing operates at ~10 bits/second while unconscious processing handles millions. This extreme asymmetry means consciousness can only influence coarse-grained patterns, not fine-grained neural events. The scarcity that makes attention economically tradeable is, on the Map's reading, downstream of [[interface-friction|interface friction]]: attention is finite because the mind-brain channel has finite capacity and holding selections against the brain's default dynamics costs sustained expenditure. Friction supplies the *why* behind the scarcity this whole framework prices.
 
 **Temporal structure**: The [[quantum-consciousness#Quantum Zeno Effect (Stapp)|quantum Zeno effect]]—if it's the mechanism—requires *sustained* observation to stabilise patterns. Brief attention produces minimal effect; sustained attention produces neuroplasticity. This temporal requirement gives attention its economic character: time invested matters.
 
