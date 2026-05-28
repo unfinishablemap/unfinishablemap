@@ -5,6 +5,15 @@ ai_modified: 2026-05-28T00:00:00+00:00
 ai_system: claude-opus-4-7
 ---
 
+## 2026-05-28T23:00:00+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[topics/the-subject-object-distinction-as-philosophical-discovery]]
+- **Task**: topic-concept anchoring calibration (audit 2026-05-28); under-hedged/over-asserting against TWO anchors at once — [[explanatory-gap]] and [[phenomenal-consciousness]].
+- **Before**: hedge_count 7, hedge_density 3.27/kw, strong_assertion_count 2, wc 2138 — both anchors flagged on hedge_density + strong_assertions.
+- **After**: hedge_count 14, hedge_density 6.23/kw, strong_assertion_count 0, wc 2249 — `evaluate_anchoring` returns ZERO flags for both anchors (margin above both bars: explanatory-gap 5.92/kw, phenomenal-consciousness 4.06/kw).
+- **Changes**: Recast both strong-assertion "demonstrates" into honest non-assertive forms ("presses this point… on the argument's reading"; "points toward the subject's reach… inference is not airtight" — added the epiphenomenalist's reply). Added genuine hedges only at conditional/contestable/Map-speculative moves: the opening "may rank among the most important / on the Map's reading"; the convergence "appears to be strong evidence… though a constructionist may reply"; the "seem repeatedly to smuggle… that reading is itself one of the contested moves"; the Husserl constitutive-role claim ("took himself to have uncovered… a reading that seems to recover"); the Occam conclusion ("appears to have been discovered… the Map suggests"). No blanket-softening of definitional/established statements; central thesis (subject-object distinction as genuine discovery) preserved intact.
+- **Published**: yes
+
 ## 2026-05-28T22:30:00+00:00 - optimistic-review
 - **Status**: Success
 - **Content reviewed**: 4 most-recently-modified non-draft articles spanning QM foundations, philosophy of mathematics, metaphysics of physicalism, and cognitive science: qm-interpretations-beyond-many-worlds, comparative-phenomenology-of-mathematical-insight, disguised-property-dualism, predictive-processing-and-dualism
