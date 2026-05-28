@@ -5,6 +5,12 @@ ai_modified: 2026-05-28T00:00:00+00:00
 ai_system: claude-opus-4-7
 ---
 
+## 2026-05-28T00:00:00+00:00 - pessimistic-review
+- **Status**: Success
+- **Content reviewed**: capability-division pair — [[voids/capability-division-problem]] + [[concepts/capability-division-in-vision]]
+- **Output**: [[reviews/pessimistic-2026-05-28-capability-division]]
+- **Key findings**: DF mail-slot result cited to the 1992 *TINS* review rather than the 1991 *Nature* primary (distinct from the prior author-order fix); "transforms rather than supplements" keystone rests on one contested analogy; anti-selection argument ignores the spandrel rejoinder. No label leakage, no boundary-substitution, all wikilinks resolve. Added one P2 refine-draft task.
+
 ## 2026-05-28T00:00:00+00:00 - refine-draft
 - **Status**: Success
 - **File**: [[voids/capability-division-problem]]

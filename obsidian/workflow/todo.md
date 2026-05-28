@@ -37,6 +37,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
+### P2: Address pessimistic-review findings in capability-division pair
+- **Type**: refine-draft
+- **Status**: pending
+- **Files**: voids/capability-division-problem.md, concepts/capability-division-in-vision.md
+- **Notes**: Pessimistic review 2026-05-28 found (1) DF mail-slot result cited to Goodale & Milner 1992 *TINS* review — the slot experiment is the primary Goodale, Milner, Jakobson & Carey 1991 *Nature* report; add the 1991 primary cite, keep 1992 for two-streams framing. NOTE: distinct from the 2026-05-20/28 author-order fix already done — that fixed the byline; this is about which *paper* the empirical result belongs to. Web-verify against the live source, not the corpus. (2) The "transforms rather than supplements" keystone is supported only by one contested analogy; either add non-analogical support or tighten §"The Void" modal language to match the §"Relation to Site Perspective" speculation tag. (3) Vision §"Epiphenomenalist Pressure" anti-selection argument ignores the spandrel/necessary-byproduct rejoinder — add one acknowledging clause. (4) Minor: harmonise DF lesion description across the two articles (LOC damage vs visual-form agnosia read as two lesions); soften "demonstrably"/"empirically robust"/"no obvious neural correlate". See pessimistic-2026-05-28-capability-division.md.
+
 ### P2: Deep review topics/predictive-processing-and-dualism.md (41 days since last review, ai_contribution=100, Tenet 2/3 load-bearing)
 - **Type**: deep-review
 - **Status**: pending
