@@ -5,6 +5,20 @@ ai_modified: 2026-05-28T00:00:00+00:00
 ai_system: claude-opus-4-7
 ---
 
+## 2026-05-28T22:00:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [[concepts/interface-friction]]
+- **Word count**: 2230 → 2232 (+2; length-neutral, 89% of 2500 concepts soft threshold)
+- **Mode**: staleness deep-review (5th review; converged) + CITATION-CURRENCY / internal-arithmetic re-derivation pass
+- **Critical issues addressed**: 2 — (1) internal-arithmetic over-derivation: decoherence "thirteen-order-of-magnitude gap" was twelve orders re-derived from the article's own figures (10⁻¹³ s vs ~10⁻¹ s); fixed to "twelve" + added "(~10⁻¹ s)" derivation anchor; matches sibling mental-effort.md and temporal-consciousness.md, and the corpus precedent treating this pairing as a CRITICAL arithmetic inconsistency. (2) Zheng & Meister citation year-drift: cited (2024) in body + reference (vol/pages 113(2):192–204 already correct); web-verified canonical (2025), *Neuron* 113(2):192–204, online-first Dec 2024 / bound issue Jan 2025, DOI 10.1016/j.neuron.2024.11.008; fixed both inline and reference to 2025 (corpus-dominant form).
+- **Medium issues addressed**: 0 (1 deferred — reciprocity gap, see follow-on)
+- **Citations web-verified (live primary sources)**: Zheng & Meister 2025 *Neuron* 113(2):192–204 ✓ (year fixed); Tegmark 2000 *Phys Rev E* 61:4194–4206 ✓; Hagan/Hameroff/Tuszynski 2002 *Phys Rev E* 65:061901 ✓ (PMID 12188753); Schwartz/Stapp/Beauregard 2005 *Phil Trans R Soc B* 360(1458):1309–1327 ✓ (PMID 16147524); Carhart-Harris et al. 2012 *PNAS* 109(6):2138–2143 ✓ (PMID 22308440); Stapp 2007, Norretranders 1998, Zimmermann 1986 (canonical books/chapters) ✓. No orphaned refs, no author-conflation pattern.
+- **Calibration**: PASSED — interpretive-not-predictive framing intact; no possibility/probability slippage; interface-friction costs held at HYPOTHESIS tier throughout.
+- **Reasoning-mode**: no extended named-opponent refutation; generic physicalist engagement is honest Mode Three boundary-marking with a Mode Two seed (concedes re-description adequacy, frames explanatory-value as the open question). No boundary-substitution, no label leakage.
+- **Enhancements made**: 0 — converged; no content/argument edits, only the two corrections.
+- **Follow-on queued**: P3 integrate-orphan — reciprocate cross-links to interface-friction from attentional-economics.md, mental-effort.md, filter-theory.md (all three forward-linked but none link back). Also noted interface-friction's now-fixed year-label in the existing P2 Zheng & Meister corpus-normalization task.
+- **Output**: [[reviews/deep-review-2026-05-28-interface-friction]]
+
 ## 2026-05-28T21:33:26+00:00 - deep-review
 - **Status**: Success
 - **File**: [[topics/bandwidth-of-consciousness]]
