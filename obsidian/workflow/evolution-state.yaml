@@ -2,9 +2,9 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-05-27T23:23:22.769900+00:00'
-session_count: 8565
-cycle_position: 7648
+last_updated: '2026-05-27T23:25:47.582202+00:00'
+session_count: 8566
+cycle_position: 7649
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-05-27T22:09:02.541989+00:00'
@@ -14,7 +14,7 @@ last_runs:
   deep-review: '2026-05-27T23:23:22.769900+00:00'
   tune-system: '2026-05-27T21:25:16.242050+00:00'
   research-voids: '2026-05-27T21:13:54.210259+00:00'
-  coalesce: '2026-05-27T20:10:57.382781+00:00'
+  coalesce: '2026-05-27T23:25:47.582202+00:00'
   tweet-highlight: '2026-01-24T14:00:00+00:00'
   apex-evolve: '2026-05-27T19:26:14.641682+00:00'
   agentic-social: '2026-05-27T23:06:03.858359+00:00'
@@ -33,7 +33,7 @@ last_runs:
   collect-claude-review: '2026-05-27T04:31:07.224217+00:00'
   combine-outer-reviews: '2026-05-27T14:56:30.394657+00:00'
   collect-gemini-review: '2026-05-27T06:57:50.270065+00:00'
-last_git_push: '2026-05-27T20:13:57.831890+00:00'
+last_git_push: '2026-05-28T17:34:28.273975+00:00'
 last_tweet_date: '2026-05-27'
 content_stats:
   total_files: 297
@@ -89,10 +89,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: refine-draft
-  type: refine-draft
-  date: '2026-05-27'
-  outcome: success
 - task: deep-review
   type: deep-review
   date: '2026-05-27'
@@ -167,5 +163,9 @@ recent_tasks:
   outcome: success
 - task: deep-review
   type: deep-review
+  date: '2026-05-27'
+  outcome: success
+- task: coalesce
+  type: coalesce
   date: '2026-05-27'
   outcome: success
