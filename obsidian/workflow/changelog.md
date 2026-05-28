@@ -5,6 +5,19 @@ ai_modified: 2026-05-28T22:55:09+00:00
 ai_system: claude-opus-4-7
 ---
 
+## 2026-05-28T23:17:18+00:00 - deep-review
+- **Status**: Success (converged, near-no-op)
+- **File**: [[topics/phenomenology-of-conceptual-frameworks]]
+- **Word count**: 3164 → 3164 (no change; length-neutral, 105% soft threshold)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 (timestamp-only update; 3rd consecutive no-critical-issue review)
+- **Citation-currency pass**: all 11 external citations web-verified against primary sources — ALL CLEAN. Davidson (1974) 47:5-20, McGinn (1989) 98(391):349-366, Chi (1992) Giere/Minnesota, Ratcliffe (2008) OUP, Nersessian (2008) MIT, Carey (2009) OUP, Thagard (1992) Princeton, plus canonical Kuhn/Heidegger/James/Polanyi. No metadata defects, no source-conclusion misuse (Carey/Chi/Nersessian/Thagard cited against their reductive home-read but framed as the Map's argument, not their conclusion — no source/Map conflation).
+- **Calibration (Tenet 5/1)**: no possibility/probability slippage. Framework-relativity held at epistemic-salience tier, NOT inflated to anti-realism; Davidson treatment correctly bounds lossy-not-radical incommensurability; quantum move flagged speculative.
+- **Reasoning-mode**: functionalist engagement (line 140) Mode Two→Three, natural prose, no label leakage; materialist treatment (line 154) descriptive/symmetric, not a refutation claim — honest.
+- **Deferred**: 2 cosmetic sibling items (courage back-link missing; intellectual-life lists this article 3x) — for those articles' own refine passes.
+- **Output**: [[reviews/deep-review-2026-05-28-phenomenology-of-conceptual-frameworks]]
+
 ## 2026-05-28T23:12:29+00:00 - refine-draft
 - **Status**: Success
 - **File**: [[topics/evolution-under-dualism]]
