@@ -18,12 +18,13 @@ The skill is a no-op if a `pending` Claude review already exists in `obsidian/wo
 
 ## Chrome lifecycle
 
-When invoked by `evolve_loop.py`, Chrome is **already running** under the dedicated profile at `~/unfin/chrome-profiles/unfinishable` — the dispatcher launches it in a `chrome_session()` context manager and stops it after this skill returns. The skill must:
+`/unfin-cycle` runs `uv run python -m tools.chrome_session start` before invoking this skill, so Chrome is up on the dedicated profile at `~/unfin/chrome-profiles/unfinishable` by the time you're called. The skill must:
 
 - Use `tabs_context_mcp` / `tabs_create_mcp` to work with the running Chrome.
-- NOT launch or stop Chrome itself.
+- NOT launch Chrome itself.
+- NOT stop Chrome on exit — `/unfin-cycle` runs `python -m tools.chrome_session stop` after this skill returns.
 
-For manual invocation, the user's Chrome with the Claude Code extension must already be running.
+For manual invocation, either run `python -m tools.chrome_session start` first (and `stop` after), or use any Chrome with the Claude Code extension already running.
 
 ## Pre-flight checks (do these first; bail early if any fail)
 

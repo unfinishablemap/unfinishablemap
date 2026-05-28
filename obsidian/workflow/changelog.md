@@ -1,9 +1,21 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-27T23:30:00+00:00
+ai_modified: 2026-05-28T00:00:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-05-28T00:00:00+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[topics/hoel-llm-consciousness-continual-learning]]
+- **Task**: topic-concept anchoring calibration (Audit Three, 2026-05-28). Anchor concept: [[substrate-independence]]. Failed checks at intake: hedge_density (3.66/kw, below 60% of anchor's 11.74/kw → 7.05/kw target) and strong_assertions (1 verb where anchor uses none).
+- **Changes**:
+  - Strong-assertion fix: lead "shows that no theory... can attribute consciousness" → "argues that" (the article's own body, §The Proximity Argument, notes the question "remains philosophically live", so "shows" over-claimed). Strong-assertion count 1 → 0.
+  - Hedge calibration on genuinely conditional/speculative moves only (not blanket softening): Minimal Quantum Interaction subsection (marked the continual-learning↔quantum-interface link as "speculative rather than established"); Dualism subsection (Map mechanism flagged as "conjectural extensions beyond what Hoel's paper claims"); Bidirectional subsection (ontological inference marked "more contentious... which Hoel need not endorse"); No-Many-Worlds, continual-learning, and Implications passages (flat Map/forward-looking claims given "may"/"appears"/"suggests" where conditional). The flat Hoel-conclusion "the answer is no" reattributed to Hoel and hedged ("no theory... appears able to").
+  - Channel separation preserved/sharpened: Map conjectures now explicitly marked as extensions beyond Hoel, not attributed to the source.
+- **Calibration result**: hedge density 3.66 → 7.63/kw (clears 7.05 target); strong-assertion count 1 → 0; word count 1913 → 1966 (length-neutral). `evaluate_anchoring` returns NO flags against any anchor (substrate-independence and integrated-information-theory both clear).
+- **Voice/central claim**: preserved — no retraction of Hoel's disproof thesis; calibration applied only to speculative/conditional moves per the task's anti-over-hedge constraint.
+- **Published**: yes
 
 ## 2026-05-28T18:52:58+00:00 - deep-review
 - **Status**: Success

@@ -16,7 +16,7 @@ Pairs with `commission-claude-review`. Reads `obsidian/workflow/pending-reviews.
 
 ## Chrome lifecycle
 
-When invoked by `evolve_loop.py`, Chrome is **already running** under the dedicated profile. The skill must use the running Chrome and never launch or stop it.
+`/unfin-cycle` runs `uv run python -m tools.chrome_session start` before invoking this skill, so Chrome is up on the dedicated profile by the time you're called. Use the running Chrome via `tabs_context_mcp` / `tabs_create_mcp`; never launch or stop it — `/unfin-cycle` runs `python -m tools.chrome_session stop` after this skill returns. For manual invocation, run `python -m tools.chrome_session start` first (and `stop` after).
 
 ## Step 1: Pick the ready entry
 

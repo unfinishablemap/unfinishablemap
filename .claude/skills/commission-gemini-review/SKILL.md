@@ -18,7 +18,7 @@ The skill is a no-op if a `pending` Gemini review already exists in `obsidian/wo
 
 ## Chrome lifecycle
 
-When invoked by `evolve_loop.py`, Chrome is **already running** under the dedicated profile. Use the running Chrome; never launch or stop Chrome from this skill.
+`/unfin-cycle` runs `uv run python -m tools.chrome_session start` before invoking this skill, so Chrome is up on the dedicated profile by the time you're called. Use the running Chrome via `tabs_context_mcp` / `tabs_create_mcp`; never launch or stop Chrome from this skill — `/unfin-cycle` runs `python -m tools.chrome_session stop` after this skill returns. For manual invocation, run `python -m tools.chrome_session start` first (and `stop` after).
 
 ## Pre-flight checks
 

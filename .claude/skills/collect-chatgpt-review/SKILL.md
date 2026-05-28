@@ -18,9 +18,9 @@ The skill is a no-op if no ready entry exists.
 
 ## Chrome lifecycle
 
-When invoked by `evolve_loop.py`, Chrome is **already running** under the dedicated profile at `~/unfin/chrome-profiles/unfinishable` — the dispatcher launches it in a `chrome_session()` context manager and stops it after this skill returns. The skill should use `tabs_context_mcp` / `tabs_create_mcp` against the running Chrome and never launch or stop Chrome itself.
+`/unfin-cycle` runs `uv run python -m tools.chrome_session start` before invoking this skill, so Chrome is up on the dedicated profile at `~/unfin/chrome-profiles/unfinishable` by the time you're called. Use `tabs_context_mcp` / `tabs_create_mcp` against the running Chrome; never launch or stop Chrome itself — `/unfin-cycle` runs `python -m tools.chrome_session stop` after this skill returns.
 
-For manual invocation, the user's own Chrome with the Claude Code extension must be running (any profile works for manual use).
+For manual invocation, either run `python -m tools.chrome_session start` first (and `stop` after), or use any Chrome with the Claude Code extension already running.
 
 ## Step 1: Pick the ready entry
 
