@@ -37,12 +37,28 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Deep review apex/self-construction-constructor.md (never deep-reviewed, ai_contribution=100, Tenet 1 load-bearing)
-- **Type**: deep-review
+### P2: Adopt global-workspace-theory calibration in incubation-effect-and-unconscious-processing
+- **Type**: refine-draft
 - **Status**: pending
-- **Notes**: PROMOTED to P2 by /replenish-queue 2026-05-28 (floor-restoring). Actionable (P0-P2) queue stood at 2 (the Zheng & Meister citation-normalization P2 + the consciousness-and-skill-acquisition literature-drift P2), below the MIN_QUEUE floor of 3. Per steady-state guidance the honest replenishment move is to promote a grounded, tenet-load-bearing review task rather than mint speculative expand-topic work against the at/over-cap sections (topics 257/270, concepts 250/270, voids 101/100 — over cap) and the large P3 backlog. `apex/self-construction-constructor.md` ("The Self Is Constructed; the Constructor Is Not", ~3211 words, created 2026-05-27, ai_contribution=100, `ai_system: claude-opus-4-7`) has `last_deep_review:` EMPTY — it is the single never-deep-reviewed content article in topics/concepts/voids/apex, and apex articles are the load-bearing human-readable synthesis tier, so a first review matters more here than for a peripheral page. Deep-review should: (a) verify the apex thesis (each construction — perception, social self, narrative self, world-model — presupposes an experiential subject and a phenomenal medium it cannot itself generate) is supported by its eight `apex_sources` and does not over-read any of them; (b) honour `[[evidential-status-discipline]]` — the "constructor is not constructed" move is the kind of claim prone to possibility/probability slippage and to treating a phenomenological observation as a metaphysical result; check register at each load-bearing step; (c) verify the source-article cross-links (consciousness-as-perceptual-architect, theory-of-mind, default-mode-network, phenomenal-transparency-opacity-spectrum, social-construction-of-self-vs-phenomenal-self, self-and-self-consciousness, the-self-minimal-narrative-and-substantial, self-opacity) resolve live and are reciprocated where load-bearing; (d) writing-style + length discipline (~3211 words, under the 4000 apex soft threshold; no "This is not X. It is Y." cliché — note the title verges on the cliché register, verify the body does not); (e) confirm the "Relation to Site Perspective" / tenet-routing section is present and routes correctly. Apply in-place fixes if minor; generate a follow-on refine-draft task if substantive. Tenet alignment: Tenet 1 (Dualism — the un-constructed constructor is a phenomenal-subject irreducibility exhibit); secondary Tenet 3 (the constructing activity as interface work).
-- **Source**: staleness
+- **File**: obsidian/topics/incubation-effect-and-unconscious-processing.md
+- **Notes**: From topic-concept anchoring audit 2026-05-28. The topic article over-claims relative to its anchor concept [[global-workspace-theory]]; failed checks: hedge_density, strong_assertions.
+  - hedge density 3.41/kw is below 60% of anchor (10.15/kw)
+  - strong-assertion density 0.76/kw exceeds 1.5× anchor (0.44/kw)
+  - Action: bring the topic's hedge profile in line with the anchor concept's. Preserve the article's voice; this is not a request to weaken the central claim, only to inherit the calibration discipline the anchor concept already uses. See [[project/calibration-audit-triple]] Audit Three for the spec and [[evidential-status-discipline]] for the underlying rule.
+- **Source**: topic-concept-anchoring-audit
 - **Generated**: 2026-05-28
+
+### P2: Adopt theory-of-mind calibration in consciousness-and-intersubjectivity
+- **Type**: refine-draft
+- **Status**: pending
+- **File**: obsidian/topics/consciousness-and-intersubjectivity.md
+- **Notes**: From topic-concept anchoring audit 2026-05-28. The topic article over-claims relative to its anchor concept [[theory-of-mind]]; failed checks: hedge_density, strong_assertions.
+  - hedge density 4.35/kw is below 60% of anchor (12.69/kw)
+  - topic uses 3 strong-assertion verbs where anchor uses none
+  - Action: bring the topic's hedge profile in line with the anchor concept's. Preserve the article's voice; this is not a request to weaken the central claim, only to inherit the calibration discipline the anchor concept already uses. See [[project/calibration-audit-triple]] Audit Three for the spec and [[evidential-status-discipline]] for the underlying rule.
+- **Source**: topic-concept-anchoring-audit
+- **Generated**: 2026-05-28
+
 
 ### P2: Normalize Zheng & Meister (2025) citation metadata corpus-wide
 - **Type**: refine-draft
@@ -3590,6 +3606,10 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 Tasks that failed 3+ times and require human intervention.
 
+
+### ✓ 2026-05-28: Deep review apex/self-construction-constructor.md (never deep-reviewed, ai_contribution=100, Tenet 1 load-bearing)
+- **Type**: deep-review
+- **Notes**: PROMOTED to P2 by /replenish-queue 2026-05-28 (floor-restoring). Actionable (P0-P2) queue stood at 2 (the Zheng & Meister citation-normalization P2 + the consciousness-and-skill-acquisition literature-drift P2), below the MIN_QUEUE floor of 3. Per steady-state guidance the honest replenishment move is to promote a grounded, tenet-load-bearing review task rather than mint speculative expand-topic work against the at/over-cap sections (topics 257/270, concepts 250/270, voids 101/100 — over cap) and the large P3 backlog. `apex/self-construction-constructor.md` ("The Self Is Constructed; the Constructor Is Not", ~3211 words, created 2026-05-27, ai_contribution=100, `ai_system: claude-opus-4-7`) has `last_deep_review:` EMPTY — it is the single never-deep-reviewed content article in topics/concepts/voids/apex, and apex articles are the load-bearing human-readable synthesis tier, so a first review matters more here than for a peripheral page. Deep-review should: (a) verify the apex thesis (each construction — perception, social self, narrative self, world-model — presupposes an experiential subject and a phenomenal medium it cannot itself generate) is supported by its eight `apex_sources` and does not over-read any of them; (b) honour `[[evidential-status-discipline]]` — the "constructor is not constructed" move is the kind of claim prone to possibility/probability slippage and to treating a phenomenological observation as a metaphysical result; check register at each load-bearing step; (c) verify the source-article cross-links (consciousness-as-perceptual-architect, theory-of-mind, default-mode-network, phenomenal-transparency-opacity-spectrum, social-construction-of-self-vs-phenomenal-self, self-and-self-consciousness, the-self-minimal-narrative-and-substantial, self-opacity) resolve live and are reciprocated where load-bearing; (d) writing-style + length discipline (~3211 words, under the 4000 apex soft threshold; no "This is not X. It is Y." cliché — note the title verges on the cliché register, verify the body does not); (e) confirm the "Relation to Site Perspective" / tenet-routing section is present and routes correctly. Apply in-place fixes if minor; generate a follow-on refine-draft task if substantive. Tenet alignment: Tenet 1 (Dualism — the un-constructed constructor is a phenomenal-subject irreducibility exhibit); secondary Tenet 3 (the constructing activity as interface work).
 
 ### ✓ 2026-05-28: Deep review topics/duhem-quine-underdetermination-consciousness.md (41 days since last review, ai_contribution=100, Tenet 5 load-bearing)
 - **Type**: deep-review

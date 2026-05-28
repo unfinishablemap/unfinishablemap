@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-21
-ai_modified: 2026-05-27 07:22:00+00:00
+ai_modified: 2026-05-28 21:46:49+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -138,7 +138,7 @@ Most fundamentally, decoherence does not solve the measurement problem. As Schlo
 
 ### The Epothilone Study (2024)
 
-Wiest et al. treated rats with epothilone B, a microtubule-stabilizing drug, before administering isoflurane anesthesia. Treated rats took 69 seconds longer to lose consciousness compared to controls (Cohen's d = 1.9). Published in *eNeuro*, September 2024.
+Khan et al. (2024) treated rats with epothilone B, a microtubule-stabilizing drug, before administering isoflurane anesthesia. Treated rats took 69 seconds longer to lose consciousness compared to controls (Cohen's d = 1.9). Published in *eNeuro*, September 2024.
 
 The logic is precise: if anesthetics cause unconsciousness by disrupting quantum states in microtubules, stabilizing microtubules should delay unconsciousness. This is exactly what was observed. Wiest (2025) argued in *Neuroscience of Consciousness* that no classical mechanism explains why microtubule stabilization would affect anesthetic potency, making this a strong discriminating test between quantum and classical accounts.
 
@@ -232,6 +232,6 @@ The Map holds that current evidence favours the quantum position while acknowled
 1. Tegmark, M. (2000). Importance of quantum decoherence in brain processes. *Physical Review E*, 61, 4194-4206.
 1. Tononi, G. (2008). Consciousness as integrated information. *Biological Bulletin*, 215, 216-242.
 1. Warren, W. (2023). Comment on "Experimental indications of non-classical brain functions". *Journal of Physics Communications*, 7, 038001.
-1. Wiest, M. C. et al. (2024). Microtubule-stabilizer epothilone B delays anesthetic-induced unconsciousness in rats. *eNeuro*, 11(8), ENEURO.0291-24.2024.
+1. Khan, S., ... Wiest, M. C. et al. (2024). Microtubule-stabilizer epothilone B delays anesthetic-induced unconsciousness in rats. *eNeuro*, 11(8), ENEURO.0291-24.2024.
 1. Wiest, M. C. (2025). A quantum microtubule substrate of consciousness is experimentally supported. *Neuroscience of Consciousness*, niaf011.
 1. Xu, X. et al. (2025). Ab initio spin dynamics in radical pairs predict avian magnetoreception. *Journal of the American Chemical Society*.

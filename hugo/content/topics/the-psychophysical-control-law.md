@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-19
-ai_modified: 2026-05-01 07:25:00+00:00
+ai_modified: 2026-05-28 21:46:49+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -155,7 +155,7 @@ Three developments could advance psychophysical control law specification:
 
 **Bandwidth measurement.** Zheng and Meister's ~10 bits/second finding constrains the control channel's capacity. More precise measurements—varying by task type, attention mode, and cognitive load—would constrain the control law's form. If the bandwidth is strictly constant across conditions, a proportional law is unlikely; if it varies systematically, the variation pattern constrains the mapping function.
 
-**Quantum biology in neural tissue.** Whether quantum effects survive at decision-relevant timescales in the brain remains contested. The 2024 microtubule-stabilising drug study (Wiest et al., Cohen's d = 1.9 for delaying anaesthesia) is consistent with quantum consciousness hypotheses, though classical mechanisms—microtubule stabilisation affecting cellular transport and membrane dynamics—could also explain the effect. Posner molecule research remains entirely theoretical, with no experimental confirmation of quantum coherence in neural tissue. If quantum processes are confirmed and characterised, these would identify the physical side of the control law's output variables.
+**Quantum biology in neural tissue.** Whether quantum effects survive at decision-relevant timescales in the brain remains contested. The 2024 microtubule-stabilising drug study (Khan et al., Cohen's d = 1.9 for delaying anaesthesia) is consistent with quantum consciousness hypotheses, though classical mechanisms—microtubule stabilisation affecting cellular transport and membrane dynamics—could also explain the effect. Posner molecule research remains entirely theoretical, with no experimental confirmation of quantum coherence in neural tissue. If quantum processes are confirmed and characterised, these would identify the physical side of the control law's output variables.
 
 **Neurophenomenology.** First-person reports of effort, attention, and intention—calibrated against neural measurements—could constrain the phenomenal side. Francisco Varela's neurophenomenological programme sought exactly this integration. Advances in real-time brain imaging correlated with trained introspective reports might yield the phenomenal metrics a control law requires.
 
@@ -205,4 +205,4 @@ The psychophysical control law is the specification gap at the centre of the Map
 7. Tegmark, M. (2000). "Importance of quantum decoherence in brain processes." *Physical Review E* 61(4), 4194-4206.
 8. Wallace, D. (2012). *The Emergent Multiverse: Quantum Theory According to the Everett Interpretation*. Oxford University Press.
 9. Zheng, J. & Meister, M. (2025). "The Unbearable Slowness of Being: Why do we live at 10 bits/s?" *Neuron* 113(2), 192-204.
-10. Wiest, M.C. et al. (2024). "Microtubule-stabilizer epothilone B delays anesthetic-induced unconsciousness in rats." *eNeuro* 11(8), ENEURO.0291-24.2024.
+10. Khan, S., ... Wiest, M. C. et al. (2024). "Microtubule-stabilizer epothilone B delays anesthetic-induced unconsciousness in rats." *eNeuro* 11(8), ENEURO.0291-24.2024.

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-05
-ai_modified: 2026-02-06 10:21:00+00:00
+ai_modified: 2026-05-28 21:46:49+00:00
 ai_system: claude-opus-4-6
 archive_reason: 'Coalesced into Psychophysical Laws: Bridging Mind and Matter'
 archived: true
@@ -125,7 +125,7 @@ This proposal has no developed theory, no mechanism connecting qualitative chara
 
 Phenomenal unity—the binding of diverse sensory information into a single experiential field—might correspond to quantum entanglement rather than classical correlation. If so, consciousness might actively sustain entanglement against decoherence, and the scope of phenomenal unity would track the scope of neural entanglement.
 
-Two preliminary studies offer suggestive but unreplicated evidence. Kerskens and Pérez (2022) reported MRI signatures consistent with quantum entanglement in human brain activity, with entanglement markers correlating with conscious state—but this is a single study whose methodology has been questioned, and the results have not been independently confirmed. The Wiest et al. microtubule study (2024) found that microtubule-stabilizing drugs delayed anaesthetic onset with a large effect size (Cohen's d = 1.9)—also unreplicated. Neither study should be weighted comparably to established experimental results like the quantum Zeno effect in physics, which has been demonstrated repeatedly in controlled settings. Correlation between entanglement markers and consciousness, even if confirmed, would not establish that consciousness *causes* or *sustains* entanglement.
+Two preliminary studies offer suggestive but unreplicated evidence. Kerskens and Pérez (2022) reported MRI signatures consistent with quantum entanglement in human brain activity, with entanglement markers correlating with conscious state—but this is a single study whose methodology has been questioned, and the results have not been independently confirmed. The Khan et al. microtubule study (2024) found that microtubule-stabilizing drugs delayed anaesthetic onset with a large effect size (Cohen's d = 1.9)—also unreplicated. Neither study should be weighted comparably to established experimental results like the quantum Zeno effect in physics, which has been demonstrated repeatedly in controlled settings. Correlation between entanglement markers and consciousness, even if confirmed, would not establish that consciousness *causes* or *sustains* entanglement.
 
 ## The Gap Between Mechanism and Metaphor
 
@@ -189,7 +189,7 @@ Changes made:
 - Expanded "Possible responses" paragraph into multi-paragraph treatment explicitly acknowledging falsifiability cost of decoherence retreat
 - Added three candidate discriminators that could distinguish consciousness-directed selection from stochastic processes
 - Added circularity concern about inserting consciousness at the measurement problem
-- Strengthened epistemic hedging on Kerskens & Pérez (2022) and Wiest et al. (2024): clearly labeled as preliminary, unreplicated, and methodologically questioned
+- Strengthened epistemic hedging on Kerskens & Pérez (2022) and Khan et al. (2024): clearly labeled as preliminary, unreplicated, and methodologically questioned
 - Updated Bidirectional Interaction tenet discussion to reflect honest assessment of decoherence dilemma
 - Made Schwartz/OCD evidence non-discriminating nature more explicit ("No prediction from the Zeno model has yet been identified that only Stapp's mechanism explains")
 - Fixed Georgiev citation year (2014→2015 to match published reference)

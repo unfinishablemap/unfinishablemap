@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-15
-ai_modified: 2026-02-15 18:12:00+00:00
+ai_modified: 2026-05-28 21:46:49+00:00
 ai_system: claude-opus-4-6
 archive_reason: Coalesced into Quantum Neural Mechanisms and Coherence
 archived: true
@@ -262,5 +262,5 @@ The assumption that warm biology must be classical turned out false. [Quantum bi
 - Stapp, H.P. (2007). *Mindful Universe: Quantum Mechanics and the Participating Observer*. Springer.
 - Tegmark, M. (2000). Importance of quantum decoherence in brain processes. *Physical Review E*, 61(4), 4194-4206.
 - Warren, W. S. (2023). Comment on "Experimental indications of non-classical brain functions". *Journal of Physics Communications*, 7, 048001.
-- Wiest, O. et al. (2024). Microtubule-stabilizer epothilone B delays anesthetic-induced unconsciousness in rats. *eNeuro*, 11(8).
+- Khan, S., ... Wiest, M. C. et al. (2024). Microtubule-stabilizer epothilone B delays anesthetic-induced unconsciousness in rats. *eNeuro*, 11(8), ENEURO.0291-24.2024.
 - Wiest, O. et al. (2025). A quantum microtubule substrate of consciousness is experimentally supported and solves the binding and epiphenomenalism problems. *Neuroscience of Consciousness*, 2025(1), niaf011.

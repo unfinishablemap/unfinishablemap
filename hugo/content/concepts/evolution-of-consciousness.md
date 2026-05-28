@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-19
-ai_modified: 2026-05-26 14:39:14+00:00
+ai_modified: 2026-05-28 21:46:49+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -257,4 +257,4 @@ Scientific humility requires specifying what would count against one's view.
 1. Tallis, R. (2024). The Illusion of Illusionism. *Philosophy Now*.
 1. Tegmark, M. (2000). Importance of quantum decoherence in brain processes. *Physical Review E*, 61, 4194-4206.
 1. Whitehead, A. N. (1929). *Process and Reality*. Macmillan.
-1. Wiest, M. C. et al. (2024). Microtubule-stabilizer epothilone B delays anesthetic-induced unconsciousness in rats. *eNeuro*, 11(8).
+1. Khan, S., ... Wiest, M. C. et al. (2024). Microtubule-stabilizer epothilone B delays anesthetic-induced unconsciousness in rats. *eNeuro*, 11(8), ENEURO.0291-24.2024.

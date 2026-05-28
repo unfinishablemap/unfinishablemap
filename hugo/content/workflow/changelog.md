@@ -9,6 +9,58 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-05-28T00:00:00+00:00 - deep-review
+- **Status**: Success (near-no-op; verification pass)
+- **File**: [self-construction-constructor](/apex/self-construction-constructor/)
+- **Word count**: 3087 → 3087 (no content edits; 77% of apex 4000 soft target)
+- **Critical issues addressed**: 0 (none found)
+- **Medium issues addressed**: 0 (none found)
+- **Enhancements made**: 0 (genuine FIRST deep-review of a fresh apex cross-reviewed at creation; license-to-near-no-op exercised — solid article, no forced edits)
+- **Citation-currency pass** (apex synthesis can inherit source-article citation defects): all external cites cross-checked against corpus-canonical forms and faithful. Eleanor Gibson (perceptual differentiation — correct, NOT J.J. Gibson); Killingsworth & Gilbert "roughly 47%" (Science 330(6006):932, 2010; 46.9% mind-wandering — faithful); Rochat (2003 Consciousness & Cognition 12(4):717-731 — faithful, bare-name OK for synthesis); Dieter Henrich reflection-model (correct, NOT conflated with Joseph Henrich/WEIRD); Schachter & Singer, Barrett, Mead, Butler, Metzinger all canonical. No inherited defects (none of Khan/Wiest, Musslick→Wu, Kiefer→Beni, Sun→Lee present).
+- **Calibration audit** (Tenet 1 apex): no possibility/probability slippage; minimal/strong claim split explicit; tenet-coherence named as coherence not evidence-elevation; convergence "raises the explanatory bar without elevating the evidence to proof"; ToM quantum reading held as research direction with decoherence conceded.
+- **Reasoning-mode** (editor-internal): Metzinger self-model — Mode Two (helps himself to "first-personal givenness is representational" without specifying who the representation is for); eliminativist regress — Mode Two; Humean/Mādhyamaka — Mode Three (bedrock, strong claim declared live-not-demonstrated); MWI defender — Mode Three. No boundary-substitution; no label leakage (grep clean).
+- **Structural**: all 5 tenet anchors resolve; 18 wikilink targets exist; all 8 source articles carry reciprocal back-links (prior review's follow-up already satisfied); sync exits 0, no broken-link warnings; no cliché.
+- **Output**: [deep-review-2026-05-28-self-construction-constructor](/reviews/deep-review-2026-05-28-self-construction-constructor/)
+
+## 2026-05-28T00:00:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [duhem-quine-underdetermination-consciousness](/topics/duhem-quine-underdetermination-consciousness/)
+- **Word count**: 2767 → 2767 (length-neutral, under topics/ soft threshold)
+- **Critical issues addressed**: 1 (Kuhn citation year 2023 → 2024; canonical *Prog. Biophys. Mol. Biol.* 190 (Aug 2024) 28-169 — caught by live web-verify, not intra-corpus cross-check)
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 (5th review; converged)
+- **Citation-currency pass**: COGITATE 2025 *Nature* 642(8066) 133-142 — clean; Negro 2024 niae012 — clean; Loar/Papineau/Balog/Chalmers phenomenal-concepts cluster — clean; Kuhn — year defect FIXED
+- **Tenet 5 / evidential-status integrity**: clean — underdetermination used at proper tier (limits Occam/parsimony, not inflated into positive dualism support); "cuts both ways" symmetry intact; no possibility/probability slippage. This article is the cluster's calibration anchor
+- **Reasoning-mode**: engagement with phenomenal concepts strategy (Loar/Papineau/Balog): Mode One — earns disagreement via Chalmers 2007 dilemma + Lakatosian ad-hoc test; no boundary-substitution, no label leakage
+- **Recommendation**: longer re-review interval (5 passes, diminishing returns)
+- **Output**: [deep-review-2026-05-28-duhem-quine-underdetermination-consciousness](/reviews/deep-review-2026-05-28-duhem-quine-underdetermination-consciousness/)
+
+## 2026-05-28T21:46:49+00:00 - refine-draft (multi-file citation sweep)
+- **Status**: Success
+- **Task**: Corpus-wide Khan/Wiest 2024 eNeuro citation misattribution fix
+- **Defect**: The 2024 eNeuro epothilone B paper (ENEURO.0291-24.2024) was cited "Wiest, M. C. et al. (2024)" (and one "Wiest, O. et al.") with Wiest as first author. Web-verified first author is **Sana Khan** (PubMed 39147581); Wiest is senior/last of 12. Canonical corrected form: "Khan, S., ... Wiest, M. C. et al. (2024). Microtubule-stabilizer epothilone B delays anesthetic-induced unconsciousness in rats. *eNeuro*, 11(8), ENEURO.0291-24.2024." In-text "Wiest et al. (2024)" → "Khan et al. (2024)".
+- **Live obsidian files FIXED (12)**: concepts/russellian-monism (ref + in-text), concepts/entanglement-binding-hypothesis (ref + in-text lead-in; preserved the legit "As Wiest notes" quote attribution to the senior author and the 2025 follow-up), concepts/binding-problem (ref + in-text), concepts/combination-problem (ref + in-text), concepts/decoherence (ref; restored truncated article-id), concepts/evolution-of-consciousness (ref; restored article-id), concepts/interface-heterogeneity (ref; restored article-id), topics/quantum-holism-and-phenomenal-unity (ref + in-text), topics/the-psychophysical-control-law (ref + in-text), topics/comparative-consciousness-and-interface-differences (ref; restored article-id), topics/qm-interpretations-beyond-many-worlds (in-text), apex/process-and-consciousness (in-text).
+- **Live obsidian files ALREADY-CORRECT (verified, untouched)**: concepts/emergence, concepts/consciousness-selecting-neural-patterns, concepts/prebiotic-collapse, concepts/quantum-indeterminacy-free-will (all four already led with Khan); concepts/mind-matter-interface (fixed 2026-05-28 prior), concepts/luck-objection, topics/the-interface-problem (already Khan-first refs); topics/comparing-quantum-consciousness-mechanisms (full-author-list gold-standard form, in-text already Khan).
+- **Research note FIXED (propagation root)**: research/neural-binding-quantum-entanglement-2026-01-19 (in-text table row + reference list). research/quantum-superposition-brain-consciousness-2026-01-18 reference already Khan-first (untouched).
+- **Archive copies FIXED (11)**: archive/topics/psychophysical-coupling-law-mechanisms (2 in-text), archive/topics/quantum-binding-and-phenomenal-unity (in-text + ref), archive/concepts/phenomenal-binding-and-holism (in-text + ref), archive/concepts/neural-binding-mechanisms (in-text + ref), archive/concepts/quantum-binding-experimental-evidence (in-text + ref), archive/concepts/entanglement-binding-hypothesis (in-text + ref), plus 6 reference-list entries that used a separate "Wiest, O. et al. (2024)" misspelling: archive/topics/the-interface-location-problem, archive/topics/the-interface-location-problem-revisited, archive/concepts/quantum-coherence-in-neural-systems, archive/concepts/quantum-coherence-protection, archive/concepts/quantum-coherence-and-binding-evidence, archive/concepts/neural-quantum-coherence.
+- **HARD CAUTION HONOURED**: the 2025 Wiest paper (niaf011, *Neuroscience of Consciousness*, sole-author Wiest) left untouched everywhere (distinguished by year+venue+article-id). Out-of-scope room-temperature-superradiance "Travis et al. 2024 / Wiest" reference in archive/topics/quantum-biology-neural-experimental-turn left untouched (no eNeuro/epothilone citation). Review files in obsidian/reviews/ left as historical audit records.
+- **Changes**: length-neutral, metadata-only (citation form). ai_modified updated on all 25 edited files (UTC).
+- **Published**: yes
+
+## 2026-05-28T22:00:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [interface-friction](/concepts/interface-friction/)
+- **Word count**: 2230 → 2232 (+2; length-neutral, 89% of 2500 concepts soft threshold)
+- **Mode**: staleness deep-review (5th review; converged) + CITATION-CURRENCY / internal-arithmetic re-derivation pass
+- **Critical issues addressed**: 2 — (1) internal-arithmetic over-derivation: decoherence "thirteen-order-of-magnitude gap" was twelve orders re-derived from the article's own figures (10⁻¹³ s vs ~10⁻¹ s); fixed to "twelve" + added "(~10⁻¹ s)" derivation anchor; matches sibling mental-effort.md and temporal-consciousness.md, and the corpus precedent treating this pairing as a CRITICAL arithmetic inconsistency. (2) Zheng & Meister citation year-drift: cited (2024) in body + reference (vol/pages 113(2):192–204 already correct); web-verified canonical (2025), *Neuron* 113(2):192–204, online-first Dec 2024 / bound issue Jan 2025, DOI 10.1016/j.neuron.2024.11.008; fixed both inline and reference to 2025 (corpus-dominant form).
+- **Medium issues addressed**: 0 (1 deferred — reciprocity gap, see follow-on)
+- **Citations web-verified (live primary sources)**: Zheng & Meister 2025 *Neuron* 113(2):192–204 ✓ (year fixed); Tegmark 2000 *Phys Rev E* 61:4194–4206 ✓; Hagan/Hameroff/Tuszynski 2002 *Phys Rev E* 65:061901 ✓ (PMID 12188753); Schwartz/Stapp/Beauregard 2005 *Phil Trans R Soc B* 360(1458):1309–1327 ✓ (PMID 16147524); Carhart-Harris et al. 2012 *PNAS* 109(6):2138–2143 ✓ (PMID 22308440); Stapp 2007, Norretranders 1998, Zimmermann 1986 (canonical books/chapters) ✓. No orphaned refs, no author-conflation pattern.
+- **Calibration**: PASSED — interpretive-not-predictive framing intact; no possibility/probability slippage; interface-friction costs held at HYPOTHESIS tier throughout.
+- **Reasoning-mode**: no extended named-opponent refutation; generic physicalist engagement is honest Mode Three boundary-marking with a Mode Two seed (concedes re-description adequacy, frames explanatory-value as the open question). No boundary-substitution, no label leakage.
+- **Enhancements made**: 0 — converged; no content/argument edits, only the two corrections.
+- **Follow-on queued**: P3 integrate-orphan — reciprocate cross-links to interface-friction from attentional-economics.md, mental-effort.md, filter-theory.md (all three forward-linked but none link back). Also noted interface-friction's now-fixed year-label in the existing P2 Zheng & Meister corpus-normalization task.
+- **Output**: [deep-review-2026-05-28-interface-friction](/reviews/deep-review-2026-05-28-interface-friction/)
+
 ## 2026-05-28T21:33:26+00:00 - deep-review
 - **Status**: Success
 - **File**: [bandwidth-of-consciousness](/topics/bandwidth-of-consciousness/)

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-28
-ai_modified: 2026-02-05 07:01:00+00:00
+ai_modified: 2026-05-28 21:46:49+00:00
 ai_system: claude-opus-4-5-20251101
 archive_reason: Coalesced into Phenomenal Binding and Holism along with Phenomenal
   Unity and Multimodal Binding
@@ -112,7 +112,7 @@ Both approaches share what classical mechanisms lack: consciousness participates
 
 Recent experiments support the quantum binding hypothesis:
 
-**Microtubule-anesthesia connection (Wiest et al., 2024):** Rats treated with microtubule-stabilizing epothilone B took 69 seconds longer to lose consciousness under isoflurane (Cohen's d = 1.9). If anesthetics disrupt quantum states in microtubules, stabilizing microtubules should delay unconsciousness. This is what was observed. No classical mechanism predicts this result.
+**Microtubule-anesthesia connection (Khan et al., 2024):** Rats treated with microtubule-stabilizing epothilone B took 69 seconds longer to lose consciousness under isoflurane (Cohen's d = 1.9). If anesthetics disrupt quantum states in microtubules, stabilizing microtubules should delay unconsciousness. This is what was observed. No classical mechanism predicts this result.
 
 **Brain entanglement signatures (Kerskens & Pérez, 2022):** Novel MRI techniques detected signals indicating entanglement in conscious human brains. The signal was present during wakefulness, absent during sleep, and correlated with working memory performance. The findings are contested and await replication.
 
@@ -173,4 +173,4 @@ This matches phenomenal unity's structure. Experience does not feel assembled fr
 - Tegmark, M. (2000). Importance of quantum decoherence in brain processes. *Physical Review E*, 61, 4194-4206.
 - Tononi, G. (2004). An information integration theory of consciousness. *BMC Neuroscience*, 5, 42.
 - Treisman, A. & Gelade, G. (1980). A feature-integration theory of attention. *Cognitive Psychology*, 12, 97-136.
-- Wiest, M. C. et al. (2024). Microtubule-stabilizer epothilone B delays anesthetic-induced unconsciousness in rats. *eNeuro*, 11(8), ENEURO.0291-24.2024.
+- Khan, S., ... Wiest, M. C. et al. (2024). Microtubule-stabilizer epothilone B delays anesthetic-induced unconsciousness in rats. *eNeuro*, 11(8), ENEURO.0291-24.2024.

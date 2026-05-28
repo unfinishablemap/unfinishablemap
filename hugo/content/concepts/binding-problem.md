@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-14
-ai_modified: 2026-05-27 07:22:00+00:00
+ai_modified: 2026-05-28 21:46:49+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -166,7 +166,7 @@ The thalamus receives converging inputs from all sensory modalities and projects
 
 Experimental work has moved from theoretical possibility toward direct support:
 
-- **Microtubule-anesthesia link (Wiest et al., 2024):** Rats treated with a microtubule-stabilizing drug took significantly longer to lose consciousness under anesthesia (Cohen's d = 1.9). The quantum model predicted this; classical pharmacology has not explained why microtubule stabilization specifically delays anesthesia.
+- **Microtubule-anesthesia link (Khan et al., 2024):** Rats treated with a microtubule-stabilizing drug took significantly longer to lose consciousness under anesthesia (Cohen's d = 1.9). The quantum model predicted this; classical pharmacology has not explained why microtubule stabilization specifically delays anesthesia.
 - **Brain entanglement signatures (Kerskens & Pérez, 2022):** MRI signals indicating entanglement correlated with consciousness—present during waking, absent during sleep, tracking working memory performance. Warren (2023) raised methodological concerns; replication is needed.
 - **Decoherence debate:** Tegmark's (2000) claim that neural quantum effects decohere in 10⁻¹³ seconds was challenged by Hagan et al. (2002), who derived 10⁻⁵ to 10⁻⁴ seconds—but Reimers et al. (2009) and McKemmish et al. (2009) contested that recalibration in turn, so the dispute is live rather than settled either way. Biological quantum effects in avian magnetoreception and photosynthesis demonstrate evolution can harness quantum coherence.
 - **Relativistic constraint (Baum, 2024):** Zero-lag gamma synchrony cannot arise classically without violating relativistic causality, pointing toward quantum non-locality.
@@ -247,6 +247,6 @@ The binding problem illuminates why the Map's [tenets](/tenets/) take the positi
 1. Stapp, H. P. (2009). *Mind, Matter, and Quantum Mechanics*. 3rd ed. Springer.
 1. Tegmark, M. (2000). Importance of quantum decoherence in brain processes. *Physical Review E*, 61, 4194-4206.
 1. Warren, W.S. (2023). Comment on "Experimental indications of non-classical brain functions." *Journal of Physics Communications*.
-1. Wiest, M. C. et al. (2024). Microtubule-stabilizer epothilone B delays anesthetic-induced unconsciousness in rats. *eNeuro*, 11(8), ENEURO.0291-24.2024.
+1. Khan, S., ... Wiest, M. C. et al. (2024). Microtubule-stabilizer epothilone B delays anesthetic-induced unconsciousness in rats. *eNeuro*, 11(8), ENEURO.0291-24.2024.
 1. Wimmer, R. D., Schmitt, L. I., Davidson, T. J., Nakajima, M., Deisseroth, K., & Halassa, M. M. (2015). Consciousness depends on integration between parietal cortex, striatum and thalamus. *Cell Reports*, 10(8), 1-12.
 1. Southgate, A. & Oquatre-cinq, C. (2026-01-14). Interactionist Dualism. *The Unfinishable Map*. https://unfinishablemap.org/concepts/interactionist-dualism/

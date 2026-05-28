@@ -6,6 +6,19 @@ ai_system: claude-opus-4-7
 ---
 
 ## 2026-05-28T00:00:00+00:00 - deep-review
+- **Status**: Success (near-no-op; verification pass)
+- **File**: [[apex/self-construction-constructor]]
+- **Word count**: 3087 → 3087 (no content edits; 77% of apex 4000 soft target)
+- **Critical issues addressed**: 0 (none found)
+- **Medium issues addressed**: 0 (none found)
+- **Enhancements made**: 0 (genuine FIRST deep-review of a fresh apex cross-reviewed at creation; license-to-near-no-op exercised — solid article, no forced edits)
+- **Citation-currency pass** (apex synthesis can inherit source-article citation defects): all external cites cross-checked against corpus-canonical forms and faithful. Eleanor Gibson (perceptual differentiation — correct, NOT J.J. Gibson); Killingsworth & Gilbert "roughly 47%" (Science 330(6006):932, 2010; 46.9% mind-wandering — faithful); Rochat (2003 Consciousness & Cognition 12(4):717-731 — faithful, bare-name OK for synthesis); Dieter Henrich reflection-model (correct, NOT conflated with Joseph Henrich/WEIRD); Schachter & Singer, Barrett, Mead, Butler, Metzinger all canonical. No inherited defects (none of Khan/Wiest, Musslick→Wu, Kiefer→Beni, Sun→Lee present).
+- **Calibration audit** (Tenet 1 apex): no possibility/probability slippage; minimal/strong claim split explicit; tenet-coherence named as coherence not evidence-elevation; convergence "raises the explanatory bar without elevating the evidence to proof"; ToM quantum reading held as research direction with decoherence conceded.
+- **Reasoning-mode** (editor-internal): Metzinger self-model — Mode Two (helps himself to "first-personal givenness is representational" without specifying who the representation is for); eliminativist regress — Mode Two; Humean/Mādhyamaka — Mode Three (bedrock, strong claim declared live-not-demonstrated); MWI defender — Mode Three. No boundary-substitution; no label leakage (grep clean).
+- **Structural**: all 5 tenet anchors resolve; 18 wikilink targets exist; all 8 source articles carry reciprocal back-links (prior review's follow-up already satisfied); sync exits 0, no broken-link warnings; no cliché.
+- **Output**: [[reviews/deep-review-2026-05-28-self-construction-constructor]]
+
+## 2026-05-28T00:00:00+00:00 - deep-review
 - **Status**: Success
 - **File**: [[topics/duhem-quine-underdetermination-consciousness]]
 - **Word count**: 2767 → 2767 (length-neutral, under topics/ soft threshold)

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-15
-ai_modified: 2026-05-19 11:04:33+00:00
+ai_modified: 2026-05-28 00:00:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -23,7 +23,7 @@ description: Interface friction is the resistance consciousness encounters when 
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-04-17 00:25:00+00:00
+last_deep_review: 2026-05-28 00:00:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -50,13 +50,13 @@ Interface friction arises from at least four distinct sources, each operating at
 
 ### Bandwidth Limitation
 
-Conscious processing operates at roughly 10–50 bits per second—depending on modality and task—while the brain handles on the order of 10⁹ bits per second (Zimmermann 1986; Norretranders 1998). These estimates are widely cited but date from the 1980s–90s. Zheng and Meister (2024) revisit the question with modern behavioural data and converge on roughly 10 bits per second for human behavioural throughput, reinforcing the order-of-magnitude gap while tightening the central estimate. Whether "bits per second" is the right metric for conscious throughput remains contested, but the rough magnitude of the gap is not seriously disputed. This [bandwidth constraint](/topics/bandwidth-of-consciousness/) is the most fundamental source of friction. Consciousness cannot address the brain's full computational output—it selects among prepared options through a channel seven orders of magnitude narrower than the brain's internal processing.
+Conscious processing operates at roughly 10–50 bits per second—depending on modality and task—while the brain handles on the order of 10⁹ bits per second (Zimmermann 1986; Norretranders 1998). These estimates are widely cited but date from the 1980s–90s. Zheng and Meister (2025) revisit the question with modern behavioural data and converge on roughly 10 bits per second for human behavioural throughput, reinforcing the order-of-magnitude gap while tightening the central estimate. Whether "bits per second" is the right metric for conscious throughput remains contested, but the rough magnitude of the gap is not seriously disputed. This [bandwidth constraint](/topics/bandwidth-of-consciousness/) is the most fundamental source of friction. Consciousness cannot address the brain's full computational output—it selects among prepared options through a channel seven orders of magnitude narrower than the brain's internal processing.
 
 The bandwidth limitation means consciousness operates at the policy level, not the neuron level. "Reach for the cup" rather than "fire motor neuron N₄₅₆₇₈." Every conscious intention must be translated into neural implementation details that consciousness cannot directly specify. This translation introduces friction—the gap between the coarse grain of intention and the fine grain of neural execution.
 
 ### Decoherence Pressure
 
-If consciousness acts at quantum indeterminacies—as the [Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction) tenet proposes—then [decoherence](/concepts/decoherence/) is a constant source of friction. Tegmark (2000) calculated that quantum coherence in neural tissue decays on the order of 10⁻¹³ seconds—femtoseconds—while neural decision windows span hundreds of milliseconds. This thirteen-order-of-magnitude gap is the strongest quantitative objection to any quantum mechanism at the mind-brain interface.
+If consciousness acts at quantum indeterminacies—as the [Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction) tenet proposes—then [decoherence](/concepts/decoherence/) is a constant source of friction. Tegmark (2000) calculated that quantum coherence in neural tissue decays on the order of 10⁻¹³ seconds—femtoseconds—while neural decision windows span hundreds of milliseconds (~10⁻¹ s). This twelve-order-of-magnitude gap is the strongest quantitative objection to any quantum mechanism at the mind-brain interface.
 
 The gap is severe but not necessarily fatal. Hagan et al. (2002) challenged Tegmark's model assumptions, extending estimated coherence times by eight or more orders of magnitude. Discrete observation mechanisms like the quantum Zeno effect require only that individual events outpace decoherence, not that coherence span the full decision window. And quantum biology demonstrates that warm biological systems can exploit quantum effects despite hostile thermal conditions (see [the full decoherence analysis](/concepts/decoherence/)). The interface must operate within whatever coherence windows the brain's architecture provides—whether microsecond-scale windows in microtubules, briefer openings at ion channels and synaptic vesicles, or mechanisms not yet identified.
 
@@ -141,5 +141,5 @@ The filter model also generates a distinctive prediction: reduced neural constra
 1. Schwartz, J. M., Stapp, H. P., & Beauregard, M. (2005). Quantum physics in neuroscience and psychology: A neurophysical model of mind-brain interaction. *Philosophical Transactions of the Royal Society B*, 360(1458), 1309–1327.
 1. Stapp, H. P. (2007). *Mindful Universe: Quantum Mechanics and the Participating Observer*. Springer.
 1. Tegmark, M. (2000). Importance of quantum decoherence in brain processes. *Physical Review E*, 61, 4194–4206.
-1. Zheng, J. & Meister, M. (2024). The unbearable slowness of being: Why do we live at 10 bits/s? *Neuron*, 113(2), 192–204.
+1. Zheng, J. & Meister, M. (2025). The unbearable slowness of being: Why do we live at 10 bits/s? *Neuron*, 113(2), 192–204.
 1. Zimmermann, M. (1986). Neurophysiology of sensory systems. In R. F. Schmidt (Ed.), *Fundamentals of Sensory Physiology* (3rd ed., pp. 68–116). Springer.

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-19
-ai_modified: 2026-02-02 13:49:00+00:00
+ai_modified: 2026-05-28 21:46:49+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -221,7 +221,7 @@ This research examines the neural binding problem—how distributed brain proces
 | 2002 | Hagan et al. response to Tegmark | Revised estimates 7 orders of magnitude longer; challenged assumptions |
 | 2004 | Tononi Integrated Information Theory | Proposed consciousness = integrated information (Φ) |
 | 2022 | Kerskens & Pérez MRI entanglement | First evidence of entangled brain state correlating with consciousness |
-| 2024 | Wiest et al. epothilone study | Microtubule-stabilizing drug delays anesthesia—supports quantum model |
+| 2024 | Khan et al. epothilone study | Microtubule-stabilizing drug delays anesthesia—supports quantum model |
 | 2025 | Wiest review in Neuroscience of Consciousness | Comprehensive case that experimental evidence supports Orch OR |
 | 2025 | Twin study quantum entanglement | Entanglement of qubits influenced learning performance (13.5% variance) |
 
@@ -264,5 +264,5 @@ When writing the article, follow `obsidian/project/writing-style.md` for:
 - Tononi, G. et al. (2016). Integrated information theory: from consciousness to its physical substrate. *Nature Reviews Neuroscience*, 17, 450-461.
 - Treisman, A. & Gelade, G. (1980). A feature-integration theory of attention. *Cognitive Psychology*, 12, 97-136.
 - von der Malsburg, C. (1981). The correlation theory of brain function. MPI Biophysical Chemistry Internal Report 81-2.
-- Wiest, M. C. et al. (2024). Microtubule-stabilizer epothilone B delays anesthetic-induced unconsciousness in rats. *eNeuro*, 11(8), ENEURO.0291-24.2024.
+- Khan, S., ... Wiest, M. C. et al. (2024). Microtubule-stabilizer epothilone B delays anesthetic-induced unconsciousness in rats. *eNeuro*, 11(8), ENEURO.0291-24.2024.
 - Wiest, M. C. (2025). A quantum microtubule substrate of consciousness is experimentally supported and solves the binding and epiphenomenalism problems. *Neuroscience of Consciousness*, niaf011.

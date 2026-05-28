@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-04
-ai_modified: 2026-04-17 18:57:00+00:00
+ai_modified: 2026-05-28 00:00:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -18,7 +18,7 @@ description: No experiment can isolate a consciousness theory for testing. Human
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-04-17 18:57:00+00:00
+last_deep_review: 2026-05-28 00:00:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -78,7 +78,7 @@ This has a direct consequence for the debate between physicalism and dualism. Ph
 
 Kyle Stanford's "unconceived alternatives" argument adds a further dimension. Historically, scientists have repeatedly failed to conceive of all theoretically distinct possibilities consistent with available evidence. Newtonian mechanics seemed uniquely supported by data until relativity and quantum mechanics revealed alternatives no one had imagined. Stanford argues this pattern suggests present theories are likely underdetermined by future alternatives we have not yet conceived.
 
-Applied to consciousness science—where Robert Lawrence Kuhn's landscape survey (2023) catalogued several hundred distinct theories—the problem is acute. The sheer proliferation of frameworks suggests the field has not converged, and if Stanford is right, theories not yet formulated may fit the evidence equally well. The current menu of options, extensive as it is, may be incomplete.
+Applied to consciousness science—where Robert Lawrence Kuhn's landscape survey (2024) catalogued several hundred distinct theories—the problem is acute. The sheer proliferation of frameworks suggests the field has not converged, and if Stanford is right, theories not yet formulated may fit the evidence equally well. The current menu of options, extensive as it is, may be incomplete.
 
 ## Kuhn's Values and Theory Choice
 
@@ -137,7 +137,7 @@ The Map's honest assessment: underdetermination cuts both ways. It undermines ph
 4. Lakatos, I. (1970). Falsification and the Methodology of Scientific Research Programmes. In *Criticism and the Growth of Knowledge*. Cambridge University Press.
 5. Chalmers, D. J. (2013). How Can We Construct a Science of Consciousness? *Annals of the New York Academy of Sciences*, 1303(1), 25-35.
 6. Stanford, P. K. (2006). *Exceeding Our Grasp: Science, History, and the Problem of Unconceived Alternatives*. Oxford University Press.
-7. Kuhn, R. L. (2023). A Landscape of Consciousness: Toward a Taxonomy of Explanations and Implications. *Progress in Biophysics and Molecular Biology*.
+7. Kuhn, R. L. (2024). A Landscape of Consciousness: Toward a Taxonomy of Explanations and Implications. *Progress in Biophysics and Molecular Biology*, 190, 28-169.
 8. Negro, N. (2024). (Dis)confirming Theories of Consciousness and Their Predictions: Towards a Lakatosian Consciousness Science. *Neuroscience of Consciousness*, 2024(1), niae012.
 9. COGITATE Consortium (2025). Adversarial Testing of Global Neuronal Workspace and Integrated Information Theories of Consciousness. *Nature*, 642(8066), 133-142.
 10. Loar, B. (1990/1997). Phenomenal States. In N. Block, O. Flanagan, & G. Güzeldere (Eds.), *The Nature of Consciousness*. MIT Press.
