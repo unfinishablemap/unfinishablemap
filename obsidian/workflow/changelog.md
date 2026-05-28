@@ -5,6 +5,19 @@ ai_modified: 2026-05-28T00:00:00+00:00
 ai_system: claude-opus-4-7
 ---
 
+## 2026-05-28T00:00:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [[topics/duhem-quine-underdetermination-consciousness]]
+- **Word count**: 2767 → 2767 (length-neutral, under topics/ soft threshold)
+- **Critical issues addressed**: 1 (Kuhn citation year 2023 → 2024; canonical *Prog. Biophys. Mol. Biol.* 190 (Aug 2024) 28-169 — caught by live web-verify, not intra-corpus cross-check)
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 (5th review; converged)
+- **Citation-currency pass**: COGITATE 2025 *Nature* 642(8066) 133-142 — clean; Negro 2024 niae012 — clean; Loar/Papineau/Balog/Chalmers phenomenal-concepts cluster — clean; Kuhn — year defect FIXED
+- **Tenet 5 / evidential-status integrity**: clean — underdetermination used at proper tier (limits Occam/parsimony, not inflated into positive dualism support); "cuts both ways" symmetry intact; no possibility/probability slippage. This article is the cluster's calibration anchor
+- **Reasoning-mode**: engagement with phenomenal concepts strategy (Loar/Papineau/Balog): Mode One — earns disagreement via Chalmers 2007 dilemma + Lakatosian ad-hoc test; no boundary-substitution, no label leakage
+- **Recommendation**: longer re-review interval (5 passes, diminishing returns)
+- **Output**: [[reviews/deep-review-2026-05-28-duhem-quine-underdetermination-consciousness]]
+
 ## 2026-05-28T21:46:49+00:00 - refine-draft (multi-file citation sweep)
 - **Status**: Success
 - **Task**: Corpus-wide Khan/Wiest 2024 eNeuro citation misattribution fix

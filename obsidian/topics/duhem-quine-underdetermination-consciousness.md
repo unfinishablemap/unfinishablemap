@@ -4,7 +4,7 @@ description: "No experiment can isolate a consciousness theory for testing. Huma
 created: 2026-03-04
 modified: 2026-03-04
 human_modified:
-ai_modified: 2026-04-17T18:57:00+00:00
+ai_modified: 2026-05-28T00:00:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -32,7 +32,7 @@ author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-03-04
 last_curated:
-last_deep_review: 2026-04-17T18:57:00+00:00
+last_deep_review: 2026-05-28T00:00:00+00:00
 ---
 
 The Duhem-Quine thesis holds that no scientific hypothesis is tested in isolation—every empirical test presupposes auxiliary assumptions, and when a prediction fails, logic alone cannot determine which assumption to revise. In consciousness science, this problem reaches an extreme form. Rival theories such as [[integrated-information-theory|Integrated Information Theory]] (IIT), [[global-workspace-theory|Global Workspace Theory]] (GWT), higher-order theories, and dualist frameworks all confront the same neural data yet draw incompatible conclusions. The 2025 COGITATE adversarial collaboration tested IIT against GWT under pre-registered conditions and found that neither theory was decisively supported—the same results admitted interpretation under both frameworks. The Unfinishable Map argues that while COGITATE illustrates the current state of the field, the underdetermination runs deeper than any single experiment's failure to discriminate. The philosophical arguments developed in the sections that follow—the layered theory-ladenness of consciousness data and the explanatory gap as an irresolvable auxiliary disagreement—suggest structural features of the consciousness problem that better experiments alone are unlikely to dissolve.
@@ -75,7 +75,7 @@ This has a direct consequence for the debate between physicalism and dualism. Ph
 
 Kyle Stanford's "unconceived alternatives" argument adds a further dimension. Historically, scientists have repeatedly failed to conceive of all theoretically distinct possibilities consistent with available evidence. Newtonian mechanics seemed uniquely supported by data until relativity and quantum mechanics revealed alternatives no one had imagined. Stanford argues this pattern suggests present theories are likely underdetermined by future alternatives we have not yet conceived.
 
-Applied to consciousness science—where Robert Lawrence Kuhn's landscape survey (2023) catalogued several hundred distinct theories—the problem is acute. The sheer proliferation of frameworks suggests the field has not converged, and if Stanford is right, theories not yet formulated may fit the evidence equally well. The current menu of options, extensive as it is, may be incomplete.
+Applied to consciousness science—where Robert Lawrence Kuhn's landscape survey (2024) catalogued several hundred distinct theories—the problem is acute. The sheer proliferation of frameworks suggests the field has not converged, and if Stanford is right, theories not yet formulated may fit the evidence equally well. The current menu of options, extensive as it is, may be incomplete.
 
 ## Kuhn's Values and Theory Choice
 
@@ -134,7 +134,7 @@ The Map's honest assessment: underdetermination cuts both ways. It undermines ph
 4. Lakatos, I. (1970). Falsification and the Methodology of Scientific Research Programmes. In *Criticism and the Growth of Knowledge*. Cambridge University Press.
 5. Chalmers, D. J. (2013). How Can We Construct a Science of Consciousness? *Annals of the New York Academy of Sciences*, 1303(1), 25-35.
 6. Stanford, P. K. (2006). *Exceeding Our Grasp: Science, History, and the Problem of Unconceived Alternatives*. Oxford University Press.
-7. Kuhn, R. L. (2023). A Landscape of Consciousness: Toward a Taxonomy of Explanations and Implications. *Progress in Biophysics and Molecular Biology*.
+7. Kuhn, R. L. (2024). A Landscape of Consciousness: Toward a Taxonomy of Explanations and Implications. *Progress in Biophysics and Molecular Biology*, 190, 28-169.
 8. Negro, N. (2024). (Dis)confirming Theories of Consciousness and Their Predictions: Towards a Lakatosian Consciousness Science. *Neuroscience of Consciousness*, 2024(1), niae012.
 9. COGITATE Consortium (2025). Adversarial Testing of Global Neuronal Workspace and Integrated Information Theories of Consciousness. *Nature*, 642(8066), 133-142.
 10. Loar, B. (1990/1997). Phenomenal States. In N. Block, O. Flanagan, & G. Güzeldere (Eds.), *The Nature of Consciousness*. MIT Press.
