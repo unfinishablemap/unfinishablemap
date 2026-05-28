@@ -5,6 +5,18 @@ ai_modified: 2026-05-28T00:00:00+00:00
 ai_system: claude-opus-4-7
 ---
 
+## 2026-05-28T20:30:00+00:00 - deep-review
+- **Status**: Success (citation-currency pass; metadata-only near-no-op)
+- **File**: [[topics/consciousness-and-the-authority-of-formal-systems]]
+- **Word count**: 2843 → 2843 (no content change; 95% of 3000 soft threshold)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Citation-currency pass**: Live web-verified all 12 external citations. ZERO defects — all correct on every field. Highest-risk citation (Szangolies 2018, *Foundations of Physics* 48:1669-1697, Lawvere fixed-point theorem) verified clean via ADS/arXiv/PhilPapers; Jackson 1982 *Phil Quarterly* 32(127):127-136 and McGinn 1989 *Mind* 98(391):349-366 confirmed via Oxford Academic. No fabrication-signature tells, no orphaned references, no source-misuse.
+- **Engagement modes (editor-internal)**: physicalist-evolution-tracking objection = Mode Two (uses opponent's reliable-tracking standard); functionalism-relational-properties = Mode Two/Three mix (zombie/Mary press inadequacy + honest standoff). No label leakage, no boundary substitution, no possibility/probability slippage.
+- **Convergence**: 4th consecutive clean deep review. Recommend longer deep-review interval; remaining value is periodic citation re-verification, not content review.
+- **Output**: [[reviews/deep-review-2026-05-28-consciousness-and-the-authority-of-formal-systems]]
+
 ## 2026-05-28T19:55:20+00:00 - deep-review
 - **Status**: Success
 - **File**: [[topics/predictive-processing-and-dualism]]
