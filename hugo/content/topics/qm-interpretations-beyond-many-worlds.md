@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-23
-ai_modified: 2026-05-27 12:00:00+00:00
+ai_modified: 2026-05-28 00:00:00+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -27,7 +27,7 @@ description: A survey of QM interpretations—Copenhagen, Bohmian, QBism, relati
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-04-18 06:48:00+00:00
+last_deep_review: 2026-05-28 00:00:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -111,7 +111,7 @@ The Map's position is compatible with either "consciousness causes collapse" or 
 
 ## The Decoherence Challenge
 
-Any interpretation that assigns consciousness a role in quantum mechanics must address [decoherence](/concepts/decoherence/). Tegmark (2000) calculated that quantum coherence times in neural tissue are on the order of 10⁻¹³ seconds—twelve orders of magnitude shorter than the 10⁻³ second timescale of neural processes. If superpositions decohere almost instantly, there is nothing left for consciousness to act on.
+Any interpretation that assigns consciousness a role in quantum mechanics must address [decoherence](/concepts/decoherence/). Tegmark (2000) calculated that quantum coherence times in neural tissue are on the order of 10⁻¹³ seconds—ten orders of magnitude shorter than the 10⁻³ second timescale of neural processes. If superpositions decohere almost instantly, there is nothing left for consciousness to act on.
 
 This challenge cuts across interpretations. It applies to von Neumann-Wigner consciousness-causes-collapse, to Stapp's quantum Zeno approach, and to consciousness-modulated CSL. The Map does not dismiss it. However, Hagan et al. (2002) argued that Tegmark's model oversimplified the relevant neural structures, and the 2024 epothilone B study by Wiest et al. showed that microtubule-stabilising drugs delay anaesthetic-induced unconsciousness—indirect evidence that quantum effects at biological sites may be more robust than Tegmark's estimate assumed. The decoherence objection remains serious but not decisive.
 

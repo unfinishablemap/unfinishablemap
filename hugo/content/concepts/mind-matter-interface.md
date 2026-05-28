@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-16
-ai_modified: 2026-05-27 07:22:00+00:00
+ai_modified: 2026-05-28 00:00:00+00:00
 ai_system: claude-opus-4-7
 author: null
 concepts:
@@ -26,7 +26,7 @@ description: A two-layer architecture unifying filter theory and quantum selecti
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-04-18 03:48:00+00:00
+last_deep_review: 2026-05-28 00:00:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -143,7 +143,7 @@ A critical objection to Layer 2: [decoherence](/concepts/decoherence/) destroys 
 
 **Disputed timescales**: Tegmark's (2000) calculations used assumptions Hagan et al. (2002) argued were inappropriate for Orch OR, recalculating coherence times seven orders of magnitude longer. Reimers et al. (2009) and McKemmish et al. (2009) in turn contested that recalibration, so the dispute is live rather than settled either way; even the favourable 10⁻⁷-second estimate would suffice only for faster microtubule dynamics. The Map's microtubule-scale interest is tenet-driven (Minimal Quantum Interaction), not empirically forced.
 
-**Biological quantum effects**: Quantum coherence demonstrably survives in warm biological systems—avian magnetoreception relies on it. The 2024 epothilone B study found microtubule-stabilising drugs significantly delayed loss of consciousness under anaesthesia, confirming Orch OR predictions.
+**Biological quantum effects**: Quantum coherence demonstrably survives in warm biological systems—avian magnetoreception relies on it. The 2024 epothilone B study (Khan et al.) found microtubule-stabilising drugs significantly delayed loss of consciousness under anaesthesia—consistent with Orch OR predictions, though the result is also explicable through non-quantum microtubule function.
 
 **Decoherence doesn't solve collapse**: Decoherence selects preferred bases without explaining why we see *definite* outcomes. As the [measurement-problem](/concepts/measurement-problem/) article details, something must still determine which possibility becomes actual. The role for consciousness at collapse remains open.
 
@@ -222,4 +222,4 @@ This unified model is the Map's most complete answer to how consciousness relate
 1. Frankish, K. (2016). Illusionism as a Theory of Consciousness. *Journal of Consciousness Studies*, 23(11-12), 11-39.
 1. Tallis, R. (2024). The Illusion of Illusionism. *Philosophy Now*.
 1. Schwartz, J.M., et al. (1996). Systematic changes in cerebral glucose metabolic rate after successful behavior modification treatment of OCD. *Archives of General Psychiatry*, 53(2), 109-113.
-1. Wiest, M.C. et al. (2024). Microtubule-stabilizer epothilone B delays anesthetic-induced unconsciousness in rats. *eNeuro*, 11(8), ENEURO.0291-24.2024.
+1. Khan, S., ... Wiest, M. C. et al. (2024). Microtubule-stabilizer epothilone B delays anesthetic-induced unconsciousness in rats. *eNeuro*, 11(8), ENEURO.0291-24.2024.

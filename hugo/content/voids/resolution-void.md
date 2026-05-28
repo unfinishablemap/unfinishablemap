@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-28
-ai_modified: 2026-05-18 00:00:00+00:00
+ai_modified: 2026-05-28 21:33:26+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -50,7 +50,7 @@ The information-theoretic dimension of the resolution void is starkly quantifiab
 
 Consciousness discards 99.9999% of available information. The selection process — which fraction survives the bottleneck — remains largely opaque to consciousness itself; the [relevance void](/voids/relevance-void/) names that opacity at its source, the live narrowing from everything-possible to *these things, now*. We do not experience ourselves filtering; we experience the filtered result as the whole of reality. The [neural bandwidth constraints](/topics/bandwidth-of-consciousness/) characterising this bottleneck suggest that consciousness does not process individual sensory data points at all. It operates at a policy level — selecting among high-level action patterns through [attentional mechanisms](/concepts/attention-as-interface/) while the brain handles fine-grained execution autonomously. The resolution void is not a failure of attention but an architectural feature of the interface between mind and brain.
 
-Cognitive control capacity is even lower than the ten-bit figure suggests. Musslick et al. (2016) measured deliberate selection among options at approximately three to four bits per second — the rate of conscious control rather than automated skill execution. Humans appear to think one thought at a time, sequentially, while the parallel sensory apparatus floods the brain with data that consciousness will never access. The three-to-four-bit figure converges with the [cardinality floor](/voids/the-quantitative-comprehension-void/#the-cardinality-floor) at roughly four items in cardinal perception — the same magnitude reappearing where conscious operation hits a structural wall, suggesting the four-item cap is one face of a wider architectural feature rather than a quirk of number perception.
+Cognitive control capacity is even lower than the ten-bit figure suggests. Wu et al. (2016) measured deliberate selection among options at approximately three to four bits per second — the rate of conscious control rather than automated skill execution. Humans appear to think one thought at a time, sequentially, while the parallel sensory apparatus floods the brain with data that consciousness will never access. The three-to-four-bit figure converges with the [cardinality floor](/voids/the-quantitative-comprehension-void/#the-cardinality-floor) at roughly four items in cardinal perception — the same magnitude reappearing where conscious operation hits a structural wall, suggesting the four-item cap is one face of a wider architectural feature rather than a quirk of number perception.
 
 ## Temporal Frames
 
@@ -107,8 +107,8 @@ The resolution void connects to the Map's [tenets](/tenets/) across multiple dim
 
 1. Sellars, W. (1965). The Identity Approach to the Mind-Body Problem. *Review of Metaphysics* 18(3): 430–451.
 2. Lee, A. Y. (2023). Consciousness and Continuity. *PhilArchive*. University of Toronto.
-3. Zheng, J. & Meister, M. (2024). The unbearable slowness of being: Why do we live at 10 bits/s? *Neuron* 113(2): 192–204.
-4. Musslick, S., Dey, B., Özcimder, K., Patwary, M., Willke, T. L., & Cohen, J. D. (2016). Controlled vs. automatic processing: A graph-theoretic approach to the analysis of serial vs. parallel processing in neural network architectures. *Proceedings of the 38th Annual Conference of the Cognitive Science Society*.
+3. Zheng, J. & Meister, M. (2025). The unbearable slowness of being: Why do we live at 10 bits/s? *Neuron* 113(2): 192–204.
+4. Wu, T., Dufford, A. J., Mackie, M.-A., Egan, L. J., & Fan, J. (2016). The capacity of cognitive control estimated from a perceptual decision making task. *Scientific Reports*, 6, 34025.
 5. VanRullen, R. & Koch, C. (2016). Time Slices: What Is the Duration of a Percept? *PLOS Biology* 14(4): e1002433.
 6. Von Rospatt, A. (1995). *The Buddhist Doctrine of Momentariness*. Stuttgart: Franz Steiner Verlag.
 7. Weber, E. H. (1834). *De pulsu, resorptione, auditu et tactu: Annotationes anatomicae et physiologicae*. Leipzig: Koehler.

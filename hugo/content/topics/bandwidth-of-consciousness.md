@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-09
-ai_modified: 2026-05-26 00:55:00+00:00
+ai_modified: 2026-05-28 21:33:26+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -39,7 +39,7 @@ description: The 100-million-fold gap between neural processing and conscious ou
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-04-19 09:38:00+00:00
+last_deep_review: 2026-05-28 21:33:26+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -159,7 +159,7 @@ Unconscious systems handle execution at full neural bandwidth; consciousness han
 
 ## The Bandwidth Shapes the Interface
 
-At 10 bits per second, consciousness selects *patterns*—action policies, attentional targets, cognitive strategies—not individual neural firing events. Musslick et al. (2016) estimated cognitive control capacity at ~3–4 bits per second, and the ~280–300ms timing window for [motor commitment](/concepts/motor-selection/) aligns with conscious selection at ~3 Hz. This matches the [Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction) tenet: consciousness *cannot* interact at finer grain because the channel is too narrow. The same capacity language puts a concrete handle on [the interface specification problem](/topics/the-interface-problem/)—the otherwise under-constrained question of how conscious states map lawfully to physical selections. The [inverted-qualia](/concepts/inverted-qualia/) argument meets the MQI discipline on the qualitative side: if phenomenal character is causally efficacious, qualitative differences must eventually reach behaviour through exactly this narrow channel, which is why the Map treats strict behavioural identity paired with qualia-difference as a limit case that is physically unrealised even where it remains conceivable.
+At 10 bits per second, consciousness selects *patterns*—action policies, attentional targets, cognitive strategies—not individual neural firing events. Wu et al. (2016) estimated cognitive control capacity at ~3–4 bits per second, and the ~280–300ms timing window for [motor commitment](/concepts/motor-selection/) aligns with conscious selection at ~3 Hz. This matches the [Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction) tenet: consciousness *cannot* interact at finer grain because the channel is too narrow. The same capacity language puts a concrete handle on [the interface specification problem](/topics/the-interface-problem/)—the otherwise under-constrained question of how conscious states map lawfully to physical selections. The [inverted-qualia](/concepts/inverted-qualia/) argument meets the MQI discipline on the qualitative side: if phenomenal character is causally efficacious, qualitative differences must eventually reach behaviour through exactly this narrow channel, which is why the Map treats strict behavioural identity paired with qualia-difference as a limit case that is physically unrealised even where it remains conceivable.
 
 The bandwidth constraint applies per unit time, but effects accumulate—the basis of [attentional economics](/concepts/attentional-economics/). Schwartz's OCD research illustrates this: patients showed measurable caudate nucleus changes through accumulated conscious effort over weeks, though the original study was small (18 participants) and has not been independently replicated.
 
@@ -258,11 +258,11 @@ The argument linking bandwidth constraints to the interface model would face ser
 1. Libet, B., Gleason, C.A., Wright, E.W., & Pearl, D.K. (1983). Time of conscious intention to act in relation to onset of cerebral activity. *Brain*, 106(3), 623–642.
 1. Mandik, P. (2010). Control consciousness. *Topics in Cognitive Science*, 2(4), 643–657.
 1. Miller, G.A. (1956). The magical number seven, plus or minus two. *Psychological Review*, 63(2), 81–97.
-1. Musslick, S., Shenhav, A., Botvinick, M.M., & Cohen, J.D. (2016). The capacity of cognitive control estimated from a perceptual decision making task. *PLoS ONE*, 11(3).
+1. Wu, T., Dufford, A.J., Mackie, M.-A., Egan, L.J., & Fan, J. (2016). The capacity of cognitive control estimated from a perceptual decision making task. *Scientific Reports*, 6, 34025.
 1. Nørretranders, T. (1998). *The User Illusion: Cutting Consciousness Down to Size*. Viking Press.
 1. Pierce, J.R. & Karlin, J.E. (1957). Reading rates and the information rate of a human channel. *Bell System Technical Journal*, 36(2), 497–516.
 1. Shannon, C.E. (1948). A mathematical theory of communication. *Bell System Technical Journal*, 27, 379–423 and 623–656.
-1. Sauerbrei, B.A. & Pruszynski, J.A. (2025). The brain works at more than 10 bits per second. *Nature Neuroscience*.
+1. Sauerbrei, B.A. & Pruszynski, J.A. (2025). The brain works at more than 10 bits per second. *Nature Neuroscience*, 28, 1365–1366.
 1. Schultze-Kraft, M. et al. (2016). The point of no return in vetoing self-initiated movements. *Proceedings of the National Academy of Sciences*, 113(4), 1080–1085.
 1. Schwartz, J.M. et al. (1996). Systematic changes in cerebral glucose metabolic rate after successful behavior modification treatment of obsessive-compulsive disorder. *Archives of General Psychiatry*, 53(2), 109–113.
 1. Zheng, J. & Meister, M. (2025). The unbearable slowness of being: Why do we live at 10 bits/s? *Neuron*, 113(2), 192–204.

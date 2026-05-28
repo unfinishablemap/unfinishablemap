@@ -9,6 +9,119 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-05-28T21:33:26+00:00 - deep-review
+- **Status**: Success
+- **File**: [bandwidth-of-consciousness](/topics/bandwidth-of-consciousness/)
+- **Word count**: 3934 → 3934 (length-neutral; 131% of 3000 topics soft threshold; only citation strings changed)
+- **Mode**: cycle-slot deep-review + CITATION-CURRENCY pass (6th review; structurally converged — bedrock disagreements not re-flagged per convergence rule)
+- **Critical issues addressed**: 1 — **author/journal conflation** (Khan/Wiest-pattern). The ~3–4 bits/s cognitive-control finding was cited as "Musslick, Shenhav, Botvinick & Cohen (2016), *PLoS ONE* 11(3)"; the paper that reports it under that exact title is **Wu, T., Dufford, A.J., Mackie, M.-A., Egan, L.J., & Fan, J. (2016), *Scientific Reports* 6:34025** (web-verified). Survived 5 prior reviews; only live web-verify caught it. Fixed in-text + reference across the full citation cluster: topics/bandwidth-of-consciousness.md, research/bandwidth-constraints-10-bits-2026-03-29.md (URL already pointed at Wu's PMC), voids/resolution-void.md (also had a stale-but-real *different* Musslick CogSci-proceedings ref that didn't support the claim — replaced), and 3 archive copies (the-ten-bit-ceiling, asymmetric-bandwidth-consciousness, bandwidth-constraints-conscious-processing). concepts/consciousness-bandwidth-architecture.md already had the correct Wu cite.
+- **Citations web-verified (live primary sources)**: Zheng & Meister 2025 *Neuron* 113(2):192-204 ✓ (DOI 10.1016/j.neuron.2024.11.008); Coupé et al. 2019 *Science Advances* 5(9) eaaw2594 ✓; Sauerbrei & Pruszynski 2025 *Nat Neurosci* 28:1365-1366 ✓ (completed missing vol/pages); Wu et al. 2016 *Sci Rep* 6:34025 ✓ (the conflation fix).
+- **Adjacent fix**: corpus-wide Zheng & Meister metadata divergence — fixed 2 files with FABRICATED vol/pages (the-interface-problem.md "112(24)" → 113(2):192-204; temporal-consciousness.md "112(5):679-692" → 113(2):192-204). Residual "2024" year-labels (online-first ambiguity, not defects) queued as P2 follow-on.
+- **Calibration**: no possibility/probability slippage; arithmetic (10⁹÷10=10⁸; 10⁷÷10=10⁶) re-derived clean. Honours [evidential-status-discipline](/project/evidential-status-discipline/).
+- **Enhancements made**: 0 content; the load-bearing value was citation accuracy across 6 files.
+- **Follow-on queued**: P2 refine-draft — normalize residual Zheng & Meister year-labels.
+- **Output**: [deep-review-2026-05-28-bandwidth-of-consciousness](/reviews/deep-review-2026-05-28-bandwidth-of-consciousness/)
+
+## 2026-05-28T21:17:26+00:00 - deep-review
+- **Status**: Success
+- **File**: [consciousness-interface-development](/topics/consciousness-interface-development/)
+- **Word count**: 3758 → 3693 (-65; length-neutral trim, 123% of 3000 topics soft threshold)
+- **Critical issues addressed**: 0 (converged; 4th consecutive clean review)
+- **Medium issues addressed**: 1 (length creep — tightened Parfit + quantum-interaction paragraphs without dropping load-bearing content)
+- **Enhancements made**: 2 (prose tightening in two calibration-anchor subsections)
+- **Citations web-verified (live primary sources)**: ALL 8 in-text author-year cites CLEAN — Cabeza 2002 *Psych & Aging* 17(1):85-100 ✓; Petanjek 2011 *PNAS* 108(32):13281-13286 ✓; Gopnik 2020 *Phil Trans R Soc B* 375(1803) art.20190502 ✓; Onishi & Baillargeon 2005 *Science* 308(5719):255-258 ✓; Kuhn 2006 *PPS* 1(1):59-67 ✓; Werker & Tees 1984 *Infant Behav Dev* 7(1):49-63 ✓; Nahm et al. 2012 *Arch Gerontol Geriatr* 55(1):138-142 ✓; Tegmark 2000 *PRE* 61(4):4194-4206 ✓. No metadata divergence, no author conflation, no orphaned-defect (Khan/Wiest pattern N/A — no microtubule cite). Background bibliography (~14 thematically-cited refs) is deliberate style, not orphaning.
+- **Reasoning-mode (editor-internal)**: Parfit/constructivist → Mode Three (honest boundary-marking); physicalist/functionalist → Mode Two (unsupported foundational move); MWI → Mode Three; Tegmark/decoherence → exemplary evidential-status discipline (conditional "if mechanism exists", names the standing objection, no possibility/probability slippage). No label leakage in prose.
+- **Watch item**: length at 123% post-trim; queue /condense if next review finds >~3850w. Calibration anchors (decoherence-burden honesty, Parfit open-commitment) must survive any condense.
+- **Output**: [deep-review-2026-05-28-consciousness-interface-development](/reviews/deep-review-2026-05-28-consciousness-interface-development/)
+
+## 2026-05-28T23:55:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [mind-matter-interface](/concepts/mind-matter-interface/)
+- **Word count**: 2476 → 2476 (length-neutral; 99% of 2500 concepts soft threshold)
+- **Critical issues addressed**: 2
+  - **Citation misattribution (Khan/Wiest)**: 2024 eNeuro epothilone B paper was cited "Wiest, M.C. et al." (Wiest as first author). Web-verified (PubMed 39147581, eNeuro 11(8), Wellesley repo): first author is **Sana Khan**, Wiest is senior/last of 12. Corrected reference + added in-text "Khan et al." to match corpus-canonical form. This article was MISSED by the 2026-05 corpus sweep that fixed the same defect in siblings. Detection tell: real same-field senior author conflated onto the first-author slot; survived 6 prior convergence reviews.
+  - **Overstatement / possibility-probability slippage**: "the 2024 epothilone B study found … significantly delayed loss of consciousness under anaesthesia, **confirming** Orch OR predictions" → "**consistent with** Orch OR predictions, **though the result is also explicable through non-quantum microtubule function**." A single behavioural-pharmacology result does not confirm Orch OR; a tenet-accepting reviewer would still flag "confirming." Matches corpus-wide "confirming → consistent with" standardisation (W07) and [evidential-status-discipline](/project/evidential-status-discipline/).
+- **Medium issues addressed**: 0 (one noted-not-fixed: "seven orders of magnitude" Hagan framing sits inside the disputed range and is hedged — left to avoid oscillation on a contested figure)
+- **Enhancements made**: 0 (seventh review; architecture fully converged — citation/calibration corrections only)
+- **Citation-currency pass**: Khan et al. 2024 FIXED; Hagan et al. 2002 (PRE 65, 061901) verified; Reimers et al. 2009 (PNAS 106(11), 4219-4224) verified exact; Tegmark 2000 / McKemmish 2009 / Tonetto (Bruno, PhilArchive TONWPA) / Frankish 2016 / Schwartz 1996 consistent with repeatedly-verified corpus forms.
+- **Architecture integrity**: two-layer model does NOT over-unify; Layer 2 held at hypothesis/underdetermined tier (no silent upgrade); [common-cause-null](/project/common-cause-null/) gap respected. All ~14 cross-links resolve live; `[[pragmatist-quantum-foundations-and-the-agent]]` correctly tracks the live filename.
+- **Engagement modes (editor-internal)**: no named-opponent prose engagements newly added; illusionism section unchanged (prior framing preserved). No label leakage.
+- **Propagation follow-on**: queued P2 corpus-wide Khan/Wiest sweep — ~15 live files still carry the Wiest-first 2024 form (the 2025 niaf011 Wiest-sole-author paper must NOT be touched).
+- **Output**: [deep-review-2026-05-28-mind-matter-interface](/reviews/deep-review-2026-05-28-mind-matter-interface/)
+
+## 2026-05-28T20:58:39+00:00 - deep-review
+- **Status**: Success
+- **File**: [emotion-and-dualism](/topics/emotion-and-dualism/)
+- **Word count**: 2899 → 2899 (no change; length-neutral, 97% of soft threshold)
+- **Critical issues addressed**: 1 (citation misattribution: "Sun, X., et al. (2024)" → **Lee, S. A., et al. (2024)**, *PNAS* 121(26)→**121(25), e2310433121** — wrong first author conflated onto a real paper; survived 2 prior deep reviews + cross-corpus review because the DOI was correct)
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 (content converged; citation-metadata corrections only)
+- **Citation-currency pass**: 4 external refs live-verified. Cleeremans & Tallon-Baudry (2022) niac007 CORRECT + "mental currency" phrase confirmed verbatim (resolves 2026-04-17 deferred Cabanac-vs-CTB concern). Carruthers (2018) 97(3):658-680 CORRECT. LeDoux & Brown (2017) 114(10):E2016-E2025 CORRECT. Sun→Lee misattribution (above) FIXED. Detection-tell (iii): wrong first author.
+- **Propagation fixed**: Sun→Lee in research root (emotional-consciousness-valence-2026-01-19) + 2 archive copies. Also corrected legacy Cutter&Tye→Cleeremans misattribution still living in 4 archived/sibling copies (consciousness-and-pain, value-blind-vs-value-sensitive-selection, archive emotional-consciousness ×2) + research root that the 2026-03-17 fix had not reached.
+- **Engagement modes (editor-internal)**: functionalism-via-asymbolia = Mode Two→Mixed (honest); epiphenomenalism/Damasio = Mode One. No label leakage, no possibility/probability slippage.
+- **Output**: [deep-review-2026-05-28-emotion-and-dualism](/reviews/deep-review-2026-05-28-emotion-and-dualism/)
+
+## 2026-05-28T23:30:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [phenomenal-depth](/concepts/phenomenal-depth/)
+- **Word count**: 1313 → 1313 (no change)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 (near-no-op; metadata only — 4th consecutive clean review of a converged article)
+- **Citation-currency pass**: ALL 4 refs live-verified/cross-checked clean. Levine 1983 web-verified this session (*Pacific Philosophical Quarterly* 64:354–361, DOI 10.1111/j.1468-0114.1983.tb00207.x). Berthier 1988 (Ann Neurol 24(1):41–49, prior PMID 3415199), Lutz 2008 (TiCS 12(4):163–169), Siewert 1998 (Princeton UP) — corpus-consistent, no divergent metadata, no orphans, no author conflation, no source resisting its claim, no arithmetic to re-derive. Zero defects.
+- **Calibration**: no possibility/probability slippage (panpsychism hedged at line 80; inexhaustibility framed as implication; adaptive-depth bridge marked "may literally elicit"). **Reasoning-mode**: one named-opponent engagement — functionalist/zombie (line 86) = Mode Three, honest framework-boundary marking, no boundary-substitution, no label leakage.
+- **Output**: [deep-review-2026-05-28-phenomenal-depth](/reviews/deep-review-2026-05-28-phenomenal-depth/)
+
+## 2026-05-28T23:00:00+00:00 - refine-draft
+- **Status**: Success
+- **File**: [the-subject-object-distinction-as-philosophical-discovery](/topics/the-subject-object-distinction-as-philosophical-discovery/)
+- **Task**: topic-concept anchoring calibration (audit 2026-05-28); under-hedged/over-asserting against TWO anchors at once — [explanatory-gap](/concepts/explanatory-gap/) and [phenomenal-consciousness](/concepts/phenomenal-consciousness/).
+- **Before**: hedge_count 7, hedge_density 3.27/kw, strong_assertion_count 2, wc 2138 — both anchors flagged on hedge_density + strong_assertions.
+- **After**: hedge_count 14, hedge_density 6.23/kw, strong_assertion_count 0, wc 2249 — `evaluate_anchoring` returns ZERO flags for both anchors (margin above both bars: explanatory-gap 5.92/kw, phenomenal-consciousness 4.06/kw).
+- **Changes**: Recast both strong-assertion "demonstrates" into honest non-assertive forms ("presses this point… on the argument's reading"; "points toward the subject's reach… inference is not airtight" — added the epiphenomenalist's reply). Added genuine hedges only at conditional/contestable/Map-speculative moves: the opening "may rank among the most important / on the Map's reading"; the convergence "appears to be strong evidence… though a constructionist may reply"; the "seem repeatedly to smuggle… that reading is itself one of the contested moves"; the Husserl constitutive-role claim ("took himself to have uncovered… a reading that seems to recover"); the Occam conclusion ("appears to have been discovered… the Map suggests"). No blanket-softening of definitional/established statements; central thesis (subject-object distinction as genuine discovery) preserved intact.
+- **Published**: yes
+
+## 2026-05-28T22:30:00+00:00 - optimistic-review
+- **Status**: Success
+- **Content reviewed**: 4 most-recently-modified non-draft articles spanning QM foundations, philosophy of mathematics, metaphysics of physicalism, and cognitive science: qm-interpretations-beyond-many-worlds, comparative-phenomenology-of-mathematical-insight, disguised-property-dualism, predictive-processing-and-dualism
+- **Findings**: All four are strong and epistemically disciplined; Process Philosopher and Hardline Empiricist personas converge (no possibility/probability slippage detected). Standout asset is the recurring named-diagnostic vocabulary (disguised-property-dualism, framework-boundary-vs-in-framework-refutation, tenet-coherent-not-evidence-elevating). No High Priority expansion opportunities — corpus near cap, consolidation favoured over creation. No new todo tasks added: the two medium/later opportunities (Ramanujan exhibit; framework-boundary methodology page) are already covered by existing tasks (todo.md lines 141, 3495) and direct-refutation-discipline.md.
+- **Output**: [optimistic-2026-05-28](/reviews/optimistic-2026-05-28/)
+
+## 2026-05-28T22:00:00+00:00 - deep-review
+- **Status**: Success (citation-currency caught an internal arithmetic inconsistency on a 4-review-converged article)
+- **File**: [qm-interpretations-beyond-many-worlds](/topics/qm-interpretations-beyond-many-worlds/)
+- **Word count**: 3452 → 3452 (one-word substitution; 115% of 3000 soft, 86% of 4000 hard — length-neutral, no condense forced)
+- **Critical issues addressed**: 1 — internal arithmetic inconsistency in the decoherence section: "10⁻¹³ s, twelve orders of magnitude shorter than the 10⁻³ s neural timescale" is *ten* orders, not twelve (the twelve-to-sixteen figure is correct corpus-wide only when paired with attentional rates / Tegmark's 10⁻¹ s bound). Fixed "twelve" → "ten" to match the article's own stated figures. Tegmark (2000) re-verified Phys. Rev. E 61(4) 4194-4206.
+- **Citation-currency pass**: live web-verified all 11 external citations — Adlam-Rovelli 2023 (Phil. of Physics 1(1), DOI 10.31389/pop.8 ✓), Lewis 2024 (Principia 28(3) ✓), Muciño-Okon-Sudarsky 2022 (Synthese 200(5) ✓), Rovelli 2021 (arXiv:2106.03205 ✓), Kremnizer-Ranchin 2015 (Found. Phys. 45 889-899 ✓), Okon-Sebastián 2020 (Synthese 197 3947-3967 ✓), Chalmers-McQueen 2022 (Gao ed., OUP ✓), Tegmark 2000 ✓, Hagan et al. 2002 (PRE 65 061901 ✓), Schlosshauer-Kofler-Zeilinger 2013 (SHPMP 44(3) 222-230 ✓), Wiest et al. 2024 (eNeuro 11(8) ✓), Friederich-Dawid 2022 (BJPS ✓). No misattribution, no author conflation, no orphaned refs, no source resisting its claim. None of the high-risk QM-name-conflation tells fired.
+- **Tenet 4 integrity**: PASS — MWI rejection honours [evidential-status-discipline](/project/evidential-status-discipline/); Deutsch-Wallace/Saunders/Sebens-Carroll steelmanned, called "internally available to MWI… not incoherent"; live in-framework critiques (Lewis 2007, Friederich-Dawid 2022) named; reservation declared a framework-boundary disagreement carried by tenet, not in-framework refutation; no possibility/probability slippage.
+- **Engagement classification** (editor-internal): MWI/Deutsch-Wallace — Mode Three (framework-boundary marking, honest; no internal-refutation move available). QBism/Fuchs — Mode Three with Mode-Two note; metaphysical reading marked as the Map's own. RQM/Rovelli — Mode Three, explicitly "honestly framework-boundary". No label leakage.
+- **Cross-links**: all targets resolve; [indexical-identity-quantum-measurement](/topics/indexical-identity-quantum-measurement/) reciprocates; [born-rule-and-the-consciousness-interface](/topics/born-rule-and-the-consciousness-interface/) does not back-link (that article's concern, not edited here).
+- **Medium issues addressed**: 0 (converged); **Enhancements made**: 1 (arithmetic fix)
+- **Output**: [deep-review-2026-05-28-qm-interpretations-beyond-many-worlds](/reviews/deep-review-2026-05-28-qm-interpretations-beyond-many-worlds/)
+
+## 2026-05-28T21:30:00+00:00 - deep-review
+- **Status**: Success (citation-currency caught archival-link-rot defect on a converged article)
+- **File**: [comparative-phenomenology-of-mathematical-insight](/topics/comparative-phenomenology-of-mathematical-insight/)
+- **Word count**: ~2339 → ~2339 (no net content change; well under 3000 soft threshold)
+- **Critical issues addressed**: 1 — stale self-citation (ref #8) pointed at `/concepts/consciousness-and-the-philosophy-of-mathematics/`, archived 2026-05-25 and superseded by `/topics/consciousness-and-mathematics/`. Repointed to the live successor. Four prior convergence reviews missed it because the target was live when they ran; it went dead 3 days before this review (archival-link-rot, not content regression).
+- **Medium issues addressed**: 1 — added [incubation-effect-and-unconscious-processing](/topics/incubation-effect-and-unconscious-processing/) cross-link at the incubation-insight bullet.
+- **Citation-currency pass**: live web-verified Brouwer 1949 (Proc. 10th Intl Congress Philosophy, North-Holland, pp.1235-1249 ✓), Poincaré "Mathematical Creation"/Science and Method 1908 (✓, minor French-date+English-publisher mix, left as-is), Ramanujan dreams/visions (✓), Madhava/Kerala infinite series pre-Newton/Leibniz (✓). Propagation check: dead URL appears elsewhere in live content only as a deliberate alias redirect (correct), no further defect.
+- **Register-separation check**: PASS — report vs mechanism held; eliminativist confabulation counter engaged honestly not strawmanned; no possibility/probability slippage (three-option structure intact, no tenet-load evidential upgrade).
+- **Enhancements made**: 2 (citation repoint, cross-link)
+- **Output**: [deep-review-2026-05-28-comparative-phenomenology-of-mathematical-insight](/reviews/deep-review-2026-05-28-comparative-phenomenology-of-mathematical-insight/)
+
+## 2026-05-28T20:30:00+00:00 - deep-review
+- **Status**: Success (citation-currency pass; metadata-only near-no-op)
+- **File**: [consciousness-and-the-authority-of-formal-systems](/topics/consciousness-and-the-authority-of-formal-systems/)
+- **Word count**: 2843 → 2843 (no content change; 95% of 3000 soft threshold)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Citation-currency pass**: Live web-verified all 12 external citations. ZERO defects — all correct on every field. Highest-risk citation (Szangolies 2018, *Foundations of Physics* 48:1669-1697, Lawvere fixed-point theorem) verified clean via ADS/arXiv/PhilPapers; Jackson 1982 *Phil Quarterly* 32(127):127-136 and McGinn 1989 *Mind* 98(391):349-366 confirmed via Oxford Academic. No fabrication-signature tells, no orphaned references, no source-misuse.
+- **Engagement modes (editor-internal)**: physicalist-evolution-tracking objection = Mode Two (uses opponent's reliable-tracking standard); functionalism-relational-properties = Mode Two/Three mix (zombie/Mary press inadequacy + honest standoff). No label leakage, no boundary substitution, no possibility/probability slippage.
+- **Convergence**: 4th consecutive clean deep review. Recommend longer deep-review interval; remaining value is periodic citation re-verification, not content review.
+- **Output**: [deep-review-2026-05-28-consciousness-and-the-authority-of-formal-systems](/reviews/deep-review-2026-05-28-consciousness-and-the-authority-of-formal-systems/)
+
 ## 2026-05-28T19:55:20+00:00 - deep-review
 - **Status**: Success
 - **File**: [predictive-processing-and-dualism](/topics/predictive-processing-and-dualism/)

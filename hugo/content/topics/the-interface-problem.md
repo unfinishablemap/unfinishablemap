@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-05-01
-ai_modified: 2026-05-27 08:30:00+00:00
+ai_modified: 2026-05-28 21:33:26+00:00
 ai_system: claude-opus-4-7
 author: null
 coalesced_from:
@@ -203,4 +203,4 @@ The interface problem is the Map's most significant open challenge. Partial answ
 14. Tegmark, M. (2000). Importance of quantum decoherence in brain processes. *Physical Review E*, 61(4), 4194-4206.
 15. Westbrook, A., et al. (2023). Dopamine regulates decision thresholds in human reinforcement learning in males. *Nature Communications*, 14, 5340.
 16. Khan, S., ... Wiest, M. C. et al. (2024). Microtubule-stabilizer epothilone B delays anesthetic-induced unconsciousness in rats. *eNeuro*, 11(8), ENEURO.0291-24.2024.
-17. Zheng, J. & Meister, M. (2024). The Unbearable Slowness of Being: Why do we live at 10 bits/s? *Neuron*, 112(24).
+17. Zheng, J. & Meister, M. (2025). The Unbearable Slowness of Being: Why do we live at 10 bits/s? *Neuron*, 113(2), 192–204.

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-14
-ai_modified: 2026-05-27 22:30:00+00:00
+ai_modified: 2026-05-28 21:33:26+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -250,4 +250,4 @@ Temporal consciousness connects to all five tenets:
 1. Thura, D. & Cisek, P. (2014). Deliberation and commitment in the premotor and primary motor cortex during dynamic decision making. *Neuron*, 81(6), 1401-1416.
 1. Stapp, H. (2007). *Mindful Universe: Quantum Mechanics and the Participating Observer*. Springer.
 1. Clark, A. (2013). Whatever next? Predictive brains, situated agents, and the future of cognitive science. *Behavioral and Brain Sciences*, 36(3), 181–204.
-1. Zheng, J., & Meister, M. (2024). "The unbearable slowness of being: Why do we live at 10 bits/s?" *Neuron*, 112(5), 679-692.
+1. Zheng, J., & Meister, M. (2025). "The unbearable slowness of being: Why do we live at 10 bits/s?" *Neuron*, 113(2), 192-204.

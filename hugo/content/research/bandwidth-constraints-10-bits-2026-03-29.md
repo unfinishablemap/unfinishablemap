@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-29
-ai_modified: 2026-03-29 02:51:00+00:00
+ai_modified: 2026-05-28 21:33:26+00:00
 ai_system: claude-opus-4-6
 author: Andy Southgate
 concepts:
@@ -224,7 +224,7 @@ The ~10 bits/s figure measures the throughput of the conscious bottleneck itself
 | 1957 | Pierce & Karlin, reading rates as information channel | Applied information theory to reading performance |
 | 1986 | Zimmermann, sensory system throughput estimates | Quantified sensory input: vision ~10⁷ bits/s, establishing the input side of the bandwidth disparity |
 | 1998 | Nørretranders, "The User Illusion" | Popularised the ~16 bits/s conscious bandwidth figure and the 10⁶-fold disparity with sensory input |
-| 2016 | Musslick et al., cognitive control capacity | Estimated cognitive control at ~3-4 bits/s — even lower than perceptual decision-making |
+| 2016 | Wu et al., cognitive control capacity | Estimated cognitive control at ~3-4 bits/s — even lower than perceptual decision-making |
 | 2019 | Coupé et al., universal speech information rate | Showed all human languages converge on ~39 bits/s transmission rate — a cognitive constraint on language |
 | 2024 | Zheng & Meister, "The Unbearable Slowness of Being" | Landmark synthesis: ~10 bits/s universal across all conscious tasks; 10⁸-fold sifting ratio; inner/outer brain framework |
 | 2025 | Sauerbrei & Pruszynski, "The Brain Works at More Than 10 Bits Per Second" | Major critique accepting cognitive ceiling but arguing unconscious motor control exceeds it |
@@ -259,7 +259,7 @@ When writing the article, follow `obsidian/project/writing-style.md` for:
 - Hick, W.E. (1952). On the rate of gain of information. *Quarterly Journal of Experimental Psychology*, 4(1), 11-26. https://www.tandfonline.com/doi/abs/10.1080/17470215208416600
 - Hyman, R. (1953). Stimulus information as a determinant of reaction time. *Journal of Experimental Psychology*, 45(3), 188-196.
 - Miller, G.A. (1956). The magical number seven, plus or minus two. *Psychological Review*, 63(2), 81-97.
-- Musslick, S., Shenhav, A., Botvinick, M.M., & Cohen, J.D. (2016). The capacity of cognitive control estimated from a perceptual decision making task. *PLoS ONE*, 11(3). https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5034293/
+- Wu, T., Dufford, A.J., Mackie, M.-A., Egan, L.J., & Fan, J. (2016). The capacity of cognitive control estimated from a perceptual decision making task. *Scientific Reports*, 6, 34025. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5034293/
 - Nørretranders, T. (1998). *The User Illusion: Cutting Consciousness Down to Size*. Viking Press.
 - Pierce, J.R. & Karlin, J.E. (1957). Reading rates and the information rate of a human channel. *Bell System Technical Journal*, 36(2), 497-516.
 - Sauerbrei, B.A. & Pruszynski, J.A. (2025). The brain works at more than 10 bits per second. *Nature Neuroscience*. https://www.nature.com/articles/s41593-025-01997-0
