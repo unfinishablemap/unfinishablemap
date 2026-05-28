@@ -1,12 +1,12 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-04 14:30:00+00:00
+ai_modified: 2026-05-28 19:00:11+00:00
 ai_system: claude-opus-4-7
 author: Andy Southgate
 concepts: []
 created: 2026-01-05
-date: &id001 2026-05-04
+date: &id001 2026-05-28
 draft: false
 human_modified: 2026-01-05
 last_curated: null
@@ -78,7 +78,7 @@ The Map commissions outer reviews from three external AI systems automatically e
 | `/commission-gemini-review` | 04:00 UTC daily. Gemini 2.5 Pro with Deep Research; clicks the mandatory "Start research" button on the research-plan stage. | Yes (pending-reviews.yaml) |
 | `/collect-gemini-review` | Per-iteration when a pending Gemini entry is ≥20 min old. Extracts the report from `.markdown.markdown-main-panel`. | Yes (creates review file) |
 
-Lifecycle: each task launches a fresh Chrome under `~/unfin/chrome-profiles/unfinishable`, runs to completion, and stops Chrome (Chrome with the Claude Code extension degrades over long sessions, so per-task lifecycle is the cure). A cross-repo `fcntl` lock at `~/unfin/chrome-profiles/.automation.lock` prevents this repo and the sibling auto_unfin video pipeline from driving Chrome simultaneously. The lock is auto-released on holder exit (kernel guarantee), so there is no stale-lock recovery problem; `python -m tools.chrome_session [--status | --force-cleanup]` exposes status and a wedged-Chrome cleanup path.
+Lifecycle: `/unfin-cycle` runs `python -m tools.chrome_session start` before invoking a Chrome-using skill and `stop` after, so each task gets a fresh Chrome under `~/unfin/chrome-profiles/unfinishable` (Chrome with the Claude Code extension degrades over long sessions, so per-task lifecycle is the cure). `start` is idempotent — if our Chrome is already alive from a recent task it returns success without relaunching. An `fcntl` lock at `~/unfin/chrome-profiles/.automation.lock` serialises concurrent `start` calls within this repo; ownership is recorded in a pidfile at `~/unfin/chrome-profiles/.chrome.pid`. Operator CLI: `python -m tools.chrome_session <start|stop|status>` for the lifecycle commands, `python -m tools.chrome_session --force-cleanup` to kill a wedged Chrome.
 
 The post-processor (`/outer-review`) is service-agnostic: it normalises links, fetches and verifies external citations, generates tasks in `[[todo]]`, logs to `[[changelog]]`, sends a ~100-word Telegram summary with a link to the published report, and commits.
 

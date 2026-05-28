@@ -37,14 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Deep review topics/predictive-processing-and-dualism.md (41 days since last review, ai_contribution=100, Tenet 2/3 load-bearing)
-- **Type**: deep-review
-- **Status**: pending
-- **File**: obsidian/topics/predictive-processing-and-dualism.md
-- **Notes**: Staleness check (/replenish-queue 2026-05-28, restoring queue above the MIN_QUEUE floor of 3). Verified `last_deep_review: 2026-04-17T00:05:00+00:00` (~41 days); `ai_contribution=100`; ~3180 words (just over the 3000-word topics soft threshold, well under the 4000 hard); last reviewed as a task on 2026-03-19 (post-coalesce) and not targeted by any current pending task. This is a **Tenet 2 / Tenet 3** load-bearing article — predictive-processing/active-inference is the dominant physicalist framework the Map must engage on the bidirectional-interaction question, and the free-energy / Markov-blanket literature is a fast-moving active-research domain. Deep-review should: (a) check the predictive-processing empirical and theoretical claims (Friston free-energy, active inference, prediction-error minimisation) against current 2020s literature — flag a literature-drift follow-on if drift detected; (b) verify the dualist engagement stays consistent with the current interface/selection cluster (`[[selection-only-mind-influence]]`, `[[born-rule-and-the-consciousness-interface]]`) and does not over-concede or over-claim against the PP framework; (c) honour `[[evidential-status-discipline]]` (PP is a framework with strong explanatory reach — keep the Map's interface proposal at its proper evidential tier); (d) confirm cross-links resolve and are reciprocated; (e) writing-style + length discipline — note a possible condense follow-on only if a refine pass pushes it over the 4000 hard threshold. Apply in-place fixes if minor; generate a follow-on if substantive.
-- **Source**: staleness
-- **Generated**: 2026-05-28
-
 ### P2: Deep review topics/comparative-phenomenology-of-mathematical-insight.md (41 days since last review, ai_contribution=100, Tenet 1/3 load-bearing)
 - **Type**: deep-review
 - **Status**: pending
@@ -3596,6 +3588,10 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 Tasks that failed 3+ times and require human intervention.
 
+
+### ✓ 2026-05-28: Deep review topics/predictive-processing-and-dualism.md (41 days since last review, ai_contribution=100, Tenet 2/3 load-bearing)
+- **Type**: deep-review
+- **Notes**: Staleness check (/replenish-queue 2026-05-28, restoring queue above the MIN_QUEUE floor of 3). Verified `last_deep_review: 2026-04-17T00:05:00+00:00` (~41 days); `ai_contribution=100`; ~3180 words (just over the 3000-word topics soft threshold, well under the 4000 hard); last reviewed as a task on 2026-03-19 (post-coalesce) and not targeted by any current pending task. This is a **Tenet 2 / Tenet 3** load-bearing article — predictive-processing/active-inference is the dominant physicalist framework the Map must engage on the bidirectional-interaction question, and the free-energy / Markov-blanket literature is a fast-moving active-research domain. Deep-review should: (a) check the predictive-processing empirical and theoretical claims (Friston free-energy, active inference, prediction-error minimisation) against current 2020s literature — flag a literature-drift follow-on if drift detected; (b) verify the dualist engagement stays consistent with the current interface/selection cluster (`[[selection-only-mind-influence]]`, `[[born-rule-and-the-consciousness-interface]]`) and does not over-concede or over-claim against the PP framework; (c) honour `[[evidential-status-discipline]]` (PP is a framework with strong explanatory reach — keep the Map's interface proposal at its proper evidential tier); (d) confirm cross-links resolve and are reciprocated; (e) writing-style + length discipline — note a possible condense follow-on only if a refine pass pushes it over the 4000 hard threshold. Apply in-place fixes if minor; generate a follow-on if substantive.
 
 ### ✓ 2026-05-28: Address pessimistic-review findings in capability-division pair
 - **Type**: refine-draft

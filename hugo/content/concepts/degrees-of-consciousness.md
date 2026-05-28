@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-20
-ai_modified: 2026-05-19 11:04:33+00:00
+ai_modified: 2026-05-28 13:30:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -57,7 +57,7 @@ These dimensions can vary independently. Ketamine dissociation involves high phe
 
 ### Anaesthesia
 
-[Anaesthetic pharmacology](/topics/anaesthesia-and-the-consciousness-interface/) is the catalogue's strongest clinical-evidence worked exhibit of graded consciousness. It establishes that the transition from consciousness to unconsciousness is not a single step but a series of dissociable transitions. Research identifies at least three distinct states (Bhatt et al. 2019; Sanders et al. 2023):
+[Anaesthetic pharmacology](/topics/anaesthesia-and-the-consciousness-interface/) is the catalogue's strongest clinical-evidence worked exhibit of graded consciousness. It establishes that the transition from consciousness to unconsciousness is not a single step but a series of dissociable transitions. Research identifies at least three distinct states (Bhatt et al. 2019; Montupil et al. 2023):
 
 - **Connected consciousness** — awareness of self and environment, responsive
 - **Disconnected consciousness** — phenomenal experience persists (dreams, hallucinations) but connection to external stimuli is severed
@@ -144,5 +144,5 @@ Degrees of consciousness raise a fundamental question: is there a lowest degree,
 5. Ginsburg, S., & Jablonka, E. (2019). *The Evolution of the Sensitive Soul: Learning and the Origins of Consciousness*. MIT Press.
 6. Metzinger, T. (2020). Minimal phenomenal experience: Meditation, tonic alertness, and the phenomenology of 'pure' consciousness. *Philosophy and the Mind Sciences*, 1(I), 7.
 7. Bhatt, M. B., et al. (2019). General anesthesia: a probe to explore consciousness. *Frontiers in Systems Neuroscience*, 13, 36.
-8. Sanders, R. D., et al. (2023). The nature of consciousness in anaesthesia. *BJA Open*, 8.
+8. Montupil, J., Cardone, P., Staquet, C., et al. (2023). The nature of consciousness in anaesthesia. *BJA Open*, 8, 100224.
 9. Southgate, A. & Oquatre-cinq, C. (2026-01-31). Minimal Consciousness. *The Unfinishable Map*. https://unfinishablemap.org/concepts/minimal-consciousness/

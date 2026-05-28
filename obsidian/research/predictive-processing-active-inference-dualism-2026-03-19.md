@@ -94,7 +94,7 @@ Active inference — the action-oriented extension of predictive processing unde
   - Sentient behavior depends on brains' implicit use of internal models to predict, infer, and direct action
 - **Tenet alignment**: The acknowledged interpretive flexibility is crucial for the Map. If the mathematics supports both representationalist and enactivist readings, it can also support a dualist reading that treats the computational framework as describing the physical side of a two-sided reality
 
-### Connecting the Free Energy Principle with Quantum Cognition (Pothos et al., 2022)
+### Connecting the Free Energy Principle with Quantum Cognition (Gunji, Shinohara & Basios, 2022)
 - **URL**: https://www.frontiersin.org/journals/neurorobotics/articles/10.3389/fnbot.2022.910161/full
 - **Type**: Paper (Frontiers in Neurorobotics)
 - **Key points**:
@@ -104,7 +104,7 @@ Active inference — the action-oriented extension of predictive processing unde
   - Mathematical bridge between variational free energy and quantum probability
 - **Tenet alignment**: Aligns with Tenet 2 (Minimal Quantum Interaction) — if the free energy principle itself connects to quantum cognition, then the Map's proposal that consciousness operates at quantum indeterminacies gains formal mathematical support. The quantum-Bayesian bridge could be exactly where consciousness enters
 
-### Critical analysis of Markovian monism (Kiefer, 2021)
+### Critical analysis of Markovian monism (Beni, 2021)
 - **URL**: https://link.springer.com/article/10.1007/s11229-021-03075-x
 - **Type**: Paper (Synthese)
 - **Key points**:
@@ -143,9 +143,9 @@ Active inference — the action-oriented extension of predictive processing unde
 ## Key Debates
 
 ### Is Active Inference Metaphysically Neutral?
-- **Sides**: Friston et al. (no — it entails Markovian monism) vs. critics like Kiefer (yes — mathematics underdetermines metaphysics)
+- **Sides**: Friston et al. (no — it entails Markovian monism) vs. critics like Beni (yes — mathematics underdetermines metaphysics)
 - **Core disagreement**: Whether the free energy principle's mathematical formalism forces a particular ontological conclusion
-- **Current state**: Ongoing. Kiefer's critique that "we cannot read off metaphysical theses about the nature of target systems from our theories" has not been convincingly rebutted. This is significant for the Map: if the mathematics is neutral, dualist appropriation is philosophically legitimate.
+- **Current state**: Ongoing. Beni's critique that "we cannot read off metaphysical theses about the nature of target systems from our theories" has not been convincingly rebutted. This is significant for the Map: if the mathematics is neutral, dualist appropriation is philosophically legitimate.
 
 ### Does PP Explain or Merely Describe Consciousness?
 - **Sides**: Seth/Hohwy (PP is a foundation for consciousness science, with potential to dissolve the hard problem) vs. skeptics (PP describes neural correlates without touching subjective experience)
@@ -153,7 +153,7 @@ Active inference — the action-oriented extension of predictive processing unde
 - **Current state**: Seth and Hohwy have been candid that PP is not itself a theory of consciousness. Their strategy of identifying neural correlates rather than solving the hard problem directly is exactly the gap the Map exploits.
 
 ### Free Energy Principle and Quantum Cognition
-- **Sides**: Pothos et al. (mathematical connections exist) vs. mainstream neuroscience (quantum effects irrelevant to cognition)
+- **Sides**: Gunji et al. (mathematical connections exist) vs. mainstream neuroscience (quantum effects irrelevant to cognition)
 - **Core disagreement**: Whether quantum probability is relevant to brain-level Bayesian inference
 - **Current state**: Early stage. The mathematical bridge between variational free energy and quantum probability is formal but its physical significance is disputed. For the Map, even a formal connection supports the possibility that consciousness operates at the quantum-Bayesian interface.
 
@@ -176,9 +176,9 @@ Active inference — the action-oriented extension of predictive processing unde
 | 2017 | Friston, active inference formalized | Active inference distinguished from passive predictive coding |
 | 2020 | Friston et al., "From Cartesian Duality to Markovian Monism" | Explicit metaphysical position on consciousness from FEP |
 | 2021 | Seth, *Being You* | Popular science treatment, "controlled hallucination" thesis |
-| 2021 | Kiefer, "A critical analysis of Markovian monism" | Major philosophical challenge to Friston's metaphysics |
+| 2021 | Beni, "A critical analysis of Markovian monism" | Major philosophical challenge to Friston's metaphysics |
 | 2021 | Wiese & Friston, active inference as consciousness framework | Formal proposal, acknowledging interpretive flexibility |
-| 2022 | Pothos et al., free energy and quantum cognition | Mathematical bridge between FEP and quantum probability |
+| 2022 | Gunji, Shinohara & Basios, free energy and quantum cognition | Mathematical bridge between FEP and quantum probability |
 | 2025 | Seth & Hohwy, PP as basis for neural correlates of consciousness | Mature statement of PP's role in consciousness science |
 | 2025 | "A beautiful loop: active inference theory of consciousness" | Recent synthesis attempt |
 
@@ -188,9 +188,9 @@ Based on this research, an article could:
 
 1. **Active inference as the physics of interactionism** — Argue that active inference provides exactly the physical architecture interactionist dualism needs: hierarchical hypothesis generation (the selection space), precision weighting (the interface mechanism), and active world-shaping (bidirectional causation). This would extend the existing "PP and the Map's Framework" article with specific focus on the *active* component — organisms changing the world, not just modelling it — and its alignment with Tenet 3 (Bidirectional Interaction). This is the strongest angle because it takes the opponent's best framework and shows it fits the Map's ontology.
 
-2. **The Markovian monism critique** — A focused examination of why Friston's leap from mathematical formalism to metaphysical monism is unjustified, drawing on Kiefer's critique and the Map's own epistemological commitments (Tenet 5: Occam's Razor Has Limits). The "dual information geometry" looks suspiciously like property dualism rebranded. This would be a concept-level article engaging directly with the strongest physicalist appropriation of active inference.
+2. **The Markovian monism critique** — A focused examination of why Friston's leap from mathematical formalism to metaphysical monism is unjustified, drawing on Beni's critique and the Map's own epistemological commitments (Tenet 5: Occam's Razor Has Limits). The "dual information geometry" looks suspiciously like property dualism rebranded. This would be a concept-level article engaging directly with the strongest physicalist appropriation of active inference.
 
-3. **Quantum-Bayesian interface** — The Pothos et al. work connecting free energy minimization to quantum cognition opens a speculative but significant angle: if Bayesian inference in the brain connects formally to quantum probability, and consciousness operates at quantum indeterminacies (Tenet 2), then active inference might be describing the physical side of a quantum-conscious interface. This is more speculative but connects multiple existing Map themes.
+3. **Quantum-Bayesian interface** — The Gunji, Shinohara & Basios work connecting free energy minimization to quantum cognition opens a speculative but significant angle: if Bayesian inference in the brain connects formally to quantum probability, and consciousness operates at quantum indeterminacies (Tenet 2), then active inference might be describing the physical side of a quantum-conscious interface. This is more speculative but connects multiple existing Map themes.
 
 When writing any of these articles, follow `obsidian/project/writing-style.md` for:
 - Named-anchor summary technique for forward references
@@ -201,8 +201,8 @@ When writing any of these articles, follow `obsidian/project/writing-style.md` f
 ## Gaps in Research
 
 - **No dualist philosopher has explicitly adopted active inference.** The appropriation is the Map's own move — there is no established literature on "dualist active inference" to cite. This is both a gap and an opportunity.
-- **The quantum-Bayesian bridge is early-stage.** Pothos et al. (2022) is a formal/mathematical connection; empirical evidence for quantum effects in brain-level Bayesian inference is lacking.
-- **Friston's response to Kiefer is unclear.** The critical analysis of Markovian monism has not been decisively answered, but Friston's subsequent work may implicitly address the objections.
+- **The quantum-Bayesian bridge is early-stage.** Gunji, Shinohara & Basios (2022) is a formal/mathematical connection; empirical evidence for quantum effects in brain-level Bayesian inference is lacking.
+- **Friston's response to Beni is unclear.** The critical analysis of Markovian monism has not been decisively answered, but Friston's subsequent work may implicitly address the objections.
 - **Limited coverage of how active inference handles pathological states** (psychosis, dissociation) under a dualist interpretation — these edge cases could test the framework.
 - **No research found on whether active inference's "self-evidencing" concept is compatible with the Map's rejection of Many Worlds** (Tenet 4). Self-evidencing implies the system models its own persistence, which could connect to indexical identity concerns.
 
@@ -214,8 +214,8 @@ When writing any of these articles, follow `obsidian/project/writing-style.md` f
 - Friston, K. (2009). Predictive coding under the free-energy principle. *Philosophical Transactions of the Royal Society B*, 364(1521), 1211-1221. https://pmc.ncbi.nlm.nih.gov/articles/PMC2666703/
 - Friston, K., Wiese, W., & Hobson, J.A. (2020). Sentience and the Origins of Consciousness: From Cartesian Duality to Markovian Monism. *Entropy*, 22(5), 516. https://www.mdpi.com/1099-4300/22/5/516
 - Hohwy, J. (2013). *The Predictive Mind*. Oxford University Press. https://global.oup.com/academic/product/the-predictive-mind-9780199686735
-- Kiefer, A. (2021). A critical analysis of Markovian monism. *Synthese*, 199, 6329-6353. https://link.springer.com/article/10.1007/s11229-021-03075-x
-- Pothos, E.M. et al. (2022). Connecting the free energy principle with quantum cognition. *Frontiers in Neurorobotics*, 16, 910161. https://www.frontiersin.org/journals/neurorobotics/articles/10.3389/fnbot.2022.910161/full
+- Beni, M. D. (2021). A critical analysis of Markovian monism. *Synthese*, 199, 6407-6427. https://link.springer.com/article/10.1007/s11229-021-03075-x
+- Gunji, Y.-P., Shinohara, S. & Basios, V. (2022). Connecting the free energy principle with quantum cognition. *Frontiers in Neurorobotics*, 16, 910161. https://www.frontiersin.org/journals/neurorobotics/articles/10.3389/fnbot.2022.910161/full
 - Ramstead, M.J.D., Kirchhoff, M.D., & Friston, K.J. (2020). A tale of two densities: active inference is enactive inference. *Adaptive Behavior*, 28(4), 225-239. https://journals.sagepub.com/doi/10.1177/1059712319862774
 - Seth, A. (2021). *Being You: A New Science of Consciousness*. Dutton.
 - Seth, A. & Hohwy, J. (2020). Predictive processing as a systematic basis for identifying the neural correlates of consciousness. *Philosophy and the Mind Sciences*, 2. https://philosophymindscience.org/index.php/phimisci/article/view/8947

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-04-16
-ai_modified: 2026-05-27 01:18:48+00:00
+ai_modified: 2026-05-28 19:55:20+00:00
 ai_system: claude-opus-4-7
 author: null
 concepts:
@@ -57,7 +57,7 @@ When all three hold, the theory is doing the philosophical work of property dual
 
 ### Friston's Markovian Monism
 
-Friston, Wiese, and Hobson (2020) argue that systems with Markov blankets possess a "dual information geometry": an *extrinsic* geometry (beliefs about the world) and an *intrinsic* geometry (information about the system's own future states). Friston proposes that the extrinsic geometry potentially accounts for "mental" properties or qualia, while insisting both geometries are "mutually reductive" — hence monism. The treatment in [predictive-processing-and-dualism](/topics/predictive-processing-and-dualism/) flags the move: acknowledging two irreducible *descriptions* while insisting on one *ontology* "looks less like a completed reduction and more like a promissory note." The diagnostic conditions are met. The two geometries do the work; the "mutual reducibility" is asserted rather than shown. Kiefer (2021) reinforces the diagnosis from another angle: "we cannot read off metaphysical theses about the nature of target systems from our theories." The mathematics constrains processing but not the metaphysics of the processor.
+Friston, Wiese, and Hobson (2020) argue that systems with Markov blankets possess a "dual information geometry": an *extrinsic* geometry (beliefs about the world) and an *intrinsic* geometry (information about the system's own future states). Friston proposes that the extrinsic geometry potentially accounts for "mental" properties or qualia, while insisting both geometries are "mutually reductive" — hence monism. The treatment in [predictive-processing-and-dualism](/topics/predictive-processing-and-dualism/) flags the move: acknowledging two irreducible *descriptions* while insisting on one *ontology* "looks less like a completed reduction and more like a promissory note." The diagnostic conditions are met. The two geometries do the work; the "mutual reducibility" is asserted rather than shown. Beni (2021) reinforces the diagnosis from another angle: "we cannot read off metaphysical theses about the nature of target systems from our theories." The mathematics constrains processing but not the metaphysics of the processor.
 
 ### Russellian Monism
 
@@ -121,7 +121,7 @@ The diagnostic is most useful when applied generously rather than punitively. Ma
 
 1. Cutter, B. (2019). Against the middle ground: Why Russellian monism is unstable. *Analytic Philosophy*, 60(2), 109-129.
 1. Friston, K., Wiese, W., & Hobson, J.A. (2020). Markovian monism. *Entropy*, 22(5), 516.
-1. Kiefer, A. (2021). A critical analysis of Markovian monism. *Synthese*, 199, 6329-6353.
+1. Beni, M. D. (2021). A critical analysis of Markovian monism. *Synthese*, 199, 6407-6427.
 1. Pautz, A. (2017). Russellian monism: A neglected problem. In Brüntrup & Jaskolla (Eds.), *Panpsychism: Contemporary Perspectives*. Oxford University Press.
 1. Pautz, A. (2019). A dilemma for Russellian monists about consciousness. *Philosophical Studies*.
 1. Tononi, G., & Koch, C. (2015). Consciousness: Here, there and everywhere? *Philosophical Transactions of the Royal Society B*, 370(1668).

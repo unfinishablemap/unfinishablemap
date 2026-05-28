@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-23
-ai_modified: 2026-05-27 13:30:00+00:00
+ai_modified: 2026-05-28 13:30:00+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -27,7 +27,7 @@ description: Anaesthetic pharmacology maps the consciousness-brain interface wit
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-04-17 13:56:00+00:00
+last_deep_review: 2026-05-28 13:30:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -88,7 +88,7 @@ Nearly all anaesthetics disrupt explicit memory formation at sub-anaesthetic dos
 
 ## Graded Consciousness and Filter Theory Predictions
 
-Production and transmission theories make identical predictions in normal cases; they diverge where consciousness *persists or intensifies* despite severe neural disruption. One of the article's strongest exhibits sits at this divergence: mainstream anaesthesiology has itself moved toward a *disconnection-not-extinction* framing — the framing filter theory predicts. Sanders et al. (2023) state the clinical point explicitly: anaesthesia does not require full loss of consciousness; disconnection from the environment is sufficient. Most clinical-evidence articles for filter framing have to argue against mainstream consensus; this one has the mainstream consensus moving toward the framing it would otherwise have to defend. The convergence is *suggestive* rather than *vindicating* — mainstream anaesthesiology arrived at disconnection-as-sufficient through its own empirical work (residual awareness during anaesthesia, the isolated forearm technique, Bhatt et al.'s component decomposition), and the same data are compatible with sophisticated production-model reinterpretation. What the convergence shows is that a framing filter theory was committed to ahead of the evidence has, over the last decade of clinical work, become the framing the field uses to describe what it sees.
+Production and transmission theories make identical predictions in normal cases; they diverge where consciousness *persists or intensifies* despite severe neural disruption. One of the article's strongest exhibits sits at this divergence: mainstream anaesthesiology has itself moved toward a *disconnection-not-extinction* framing — the framing filter theory predicts. Montupil et al. (2023) state the clinical point explicitly: anaesthesia does not require full loss of consciousness; disconnection from the environment is sufficient. Most clinical-evidence articles for filter framing have to argue against mainstream consensus; this one has the mainstream consensus moving toward the framing it would otherwise have to defend. The convergence is *suggestive* rather than *vindicating* — mainstream anaesthesiology arrived at disconnection-as-sufficient through its own empirical work (residual awareness during anaesthesia, the isolated forearm technique, Bhatt et al.'s component decomposition), and the same data are compatible with sophisticated production-model reinterpretation. What the convergence shows is that a framing filter theory was committed to ahead of the evidence has, over the last decade of clinical work, become the framing the field uses to describe what it sees.
 
 Bhatt et al. (2019) decompose conscious experience under anaesthesia into three separable components: wakefulness, internal awareness, and environmental connectedness. Different agents selectively impair different components, producing agent-specific profiles rather than uniform suppression. Connected consciousness (detectable via the isolated forearm technique) occurs in 0.1–0.2% of general anaesthetics, rising to 1% with neuromuscular blockade. Disconnected consciousness involves vivid dreaming while environmental access is severed; in some protocols nearly all unresponsive participants recalled dreaming on emergence.
 
@@ -98,7 +98,7 @@ The strongest discriminating evidence comes from the boundary between anaesthesi
 
 ## Recovery: What Emergence Reveals
 
-Recovery is not induction in reverse. The brain requires lower drug concentrations to stay unconscious than to become unconscious; executive function returns before simpler capacities; genetically identical organisms show emergence times varying by two orders of magnitude. The induction-emergence asymmetry is empirically robust across human, primate, and rodent studies — it is the framing's interpretation as evidence about the interface, not the asymmetry itself, that remains a live hypothesis. Sanders et al. (2023) make the asymmetry explicit: "switching on" consciousness uses different neural circuitry from "switching off." Mashour (2024) argues emergence may therefore be more informative than induction, revealing interface components coming online sequentially — what Bhatt et al. (2024) call the "core elements" re-engaging one by one. The induction-emergence asymmetry is one member of a broader family of [direction-of-interface-change signatures](/topics/recovery-order-asymmetry-as-interface-evidence/) the Map reads as constraining substrate-symmetric production accounts.
+Recovery is not induction in reverse. The brain requires lower drug concentrations to stay unconscious than to become unconscious; executive function returns before simpler capacities; genetically identical organisms show emergence times varying by two orders of magnitude. The induction-emergence asymmetry is empirically robust across human, primate, and rodent studies — it is the framing's interpretation as evidence about the interface, not the asymmetry itself, that remains a live hypothesis. Mashour (2024) makes the asymmetry explicit — emergence is an active process running on different neural circuitry from induction, not its mirror image — and argues emergence may therefore be more informative than induction, revealing interface components coming online sequentially — what Bhatt et al. (2024) call the "core elements" re-engaging one by one. The induction-emergence asymmetry is one member of a broader family of [direction-of-interface-change signatures](/topics/recovery-order-asymmetry-as-interface-evidence/) the Map reads as constraining substrate-symmetric production accounts.
 
 ### Neural Inertia
 
@@ -177,7 +177,7 @@ Anaesthetic pharmacology connects to each of the Map's [tenets](/tenets/) in con
 1. Hameroff, S. (2006). The entwined mysteries of anesthesia and consciousness. *Anesthesiology*, 105(2), 400-412.
 1. Liem, E. B., et al. (2004). Anesthetic requirement is increased in redheads. *Anesthesiology*, 101(2), 279-283.
 1. Meyer, H. (1899). Zur Theorie der Alkoholnarkose. *Archiv für experimentelle Pathologie und Pharmakologie*, 42(2-4), 109-118.
-1. Sanders, R. D., et al. (2023). The nature of consciousness in anaesthesia. *BJA Open*, 8.
+1. Montupil, J., Cardone, P., Staquet, C., et al. (2023). The nature of consciousness in anaesthesia. *BJA Open*, 8, 100224. https://doi.org/10.1016/j.bjao.2023.100224
 1. Sarasso, S., et al. (2015). Consciousness and complexity during unresponsiveness induced by propofol, xenon, and ketamine. *Current Biology*, 25(23), 3099-3105.
 1. Bhatt, M. B., et al. (2019). General anesthesia: a probe to explore consciousness. *Frontiers in Systems Neuroscience*, 13, 36.
 1. Moncrieff, J. (2023). An evidence-based critical review of the mind-brain identity theory. *Frontiers in Psychology*, 14, 1254857.

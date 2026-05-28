@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-04-09
-ai_modified: 2026-05-27 22:30:00+00:00
+ai_modified: 2026-05-28 13:30:00+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -111,7 +111,7 @@ Consciousness does not fail all at once. Under fatigue, capacities are shed in a
 
 Sleep deprivation research reveals a consistent order of cognitive loss: tonic alertness and sustained attention degrade first, then working memory, then executive functions — planning, inhibition, flexible thinking — as the prefrontal cortex proves especially sensitive to sleep loss. Creative and divergent thinking degrades significantly. Yet convergent, rule-based reasoning persists (Killgore, 2010).
 
-The [anesthesia void](/voids/anesthesia-void/) reveals a parallel decomposition. Low doses produce analgesia and amnesia; deeper agents lose environmental awareness before self-awareness, and self-awareness before internal thought. The literature distinguishes three states under nominally stable anesthesia — unconsciousness, disconnected consciousness (content without environmental coupling), and connected consciousness (intraoperative awareness) — refining the simple switch picture into dissociable couplings (Sanders et al., 2023). Convergence between metabolic depletion and pharmacological suppression suggests the dissociability is structural.
+The [anesthesia void](/voids/anesthesia-void/) reveals a parallel decomposition. Low doses produce analgesia and amnesia; deeper agents lose environmental awareness before self-awareness, and self-awareness before internal thought. The literature distinguishes three states under nominally stable anesthesia — unconsciousness, disconnected consciousness (content without environmental coupling), and connected consciousness (intraoperative awareness) — refining the simple switch picture into dissociable couplings (Montupil et al., 2023). Convergence between metabolic depletion and pharmacological suppression suggests the dissociability is structural.
 
 ### The Self-Undermining Observer
 
@@ -195,7 +195,7 @@ Within the [voids framework](/voids/three-kinds-of-void/), these disappearance v
 11. Suzuki, S. (1970). *Zen Mind, Beginner's Mind*. Weatherhill.
 12. Heidegger, M. (1927). *Being and Time*, trans. John Macquarrie and Edward Robinson (1962). Harper & Row.
 13. Killgore, W.D.S. (2010). "Effects of Sleep Deprivation on Cognition." *Progress in Brain Research*, 185, 105-129.
-14. Sanders, R.D. et al. (2023). "The Nature of Consciousness in Anaesthesia." *BJA Open*, 8, 100103.
+14. Montupil, J., Cardone, P., Staquet, C., et al. (2023). "The Nature of Consciousness in Anaesthesia." *BJA Open*, 8, 100224.
 15. Levinas, E. (1947/1978). *Existence and Existents*. Trans. A. Lingis. Kluwer Academic.
 16. Han, B.-C. (2015). *The Burnout Society*. Trans. E. Butler. Stanford University Press.
 17. Singer, T. & Klimecki, O. (2014). "Empathy and Compassion." *Current Biology*, 24(18), R875-R878.

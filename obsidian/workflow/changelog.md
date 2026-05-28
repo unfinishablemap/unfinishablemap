@@ -5,6 +5,19 @@ ai_modified: 2026-05-28T00:00:00+00:00
 ai_system: claude-opus-4-7
 ---
 
+## 2026-05-28T19:55:20+00:00 - deep-review
+- **Status**: Success
+- **File**: [[topics/predictive-processing-and-dualism]]
+- **Word count**: 3202 → ~3300 (+~100, length-neutral; soft-warning band, well under 4000 hard)
+- **Critical issues addressed**: 2 citation misattributions, caught by live web-verify (survived 3 prior convergence reviews)
+  - "Kiefer (2021)" → **Beni, M. D. (2021)** for "A critical analysis of Markovian monism" (*Synthese* 199, 6407-6427). The metaphysical-neutrality quote and argument are Beni's, not Kiefer's. (Alex Kiefer's real 2021 *Synthese* paper is a different work on representation.) Page range also corrected (6329-6353 → 6407-6427). Verified Springer/PMC.
+  - "Pothos et al. (2022)" → **Gunji, Y.-P., Shinohara, S. & Basios, V. (2022)** for "Connecting the free energy principle with quantum cognition" (*Frontiers in Neurorobotics* 16, 910161). Title/journal/volume/article-no correct, author wrong. Also corrected the mechanism paraphrase (entanglement-joint-probability → Boolean-vs-orthomodular-lattice) to match the source. Verified Frontiers/PMC.
+  - Both defects propagated from research note into live concept article [[concepts/disguised-property-dualism]] (deep-reviewed 2026-05-27, missed it); grepped corpus and fixed all instances in topic article, concept article, and research note `predictive-processing-active-inference-dualism-2026-03-19`.
+- **Medium issues addressed**: 1 — added two on-topic cross-links flagged in task notes ([[selection-only-mind-influence]], [[born-rule-and-the-consciousness-interface]]); Born-rule wording preserves evidential calibration (no possibility/probability slippage).
+- **Convergence**: philosophically converged (4th review); all bedrock disagreements held, no re-flagging. No literature-drift follow-on needed — claims current, only author metadata was wrong.
+- **Engagement classification (editor-internal)**: no named-opponent reply changed; existing engagements with the eliminative materialist / Dennett-functionalist / MWI defender remain Mode Three (framework-boundary) and were not modified.
+- **Output**: [[reviews/deep-review-2026-05-28-predictive-processing-and-dualism]]
+
 ## 2026-05-28T20:15:00+00:00 - refine-draft
 - **Status**: Success
 - **File**: [[concepts/capability-division-in-vision]] + [[voids/capability-division-problem]] (multi-file pair)

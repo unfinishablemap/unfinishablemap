@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-08
-ai_modified: 2026-05-27 17:45:26+00:00
+ai_modified: 2026-05-28 13:30:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -129,7 +129,7 @@ The Map draws on two traditions it is careful not to conflate. The Vedantic anal
 
 ### The Anaesthesia Gap
 
-General anaesthesia sharpens the challenge. Unlike dreamless sleep, it typically leaves no phenomenological residue—induction and emergence abut directly. If the interval is a genuine phenomenal cessation, the post-operative subject faces the resurrection question: what connects *this* pre-operative consciousness to *this* post-operative one? The argument cannot proceed without distinguishing states the first-person gap fails to discriminate. Mashour (2023) identifies at least three conditions under stable anaesthesia: **unconsciousness** (no experience), **disconnected consciousness** (content without environmental coupling, as in dreaming), and **connected consciousness** (awareness during nominal anaesthesia). The gap reported as "no time at all" may be any of these or a mixture, indistinguishable from inside—which matters methodologically, since memory-failure and interface-disruption readings posit different things about the interval and the case for indexical persistence cannot be made without specifying which is in play. The [anaesthesia void article](/voids/anesthesia-void/) develops this taxonomy and argues the decomposition favours interface-disruption over phenomenal cessation.
+General anaesthesia sharpens the challenge. Unlike dreamless sleep, it typically leaves no phenomenological residue—induction and emergence abut directly. If the interval is a genuine phenomenal cessation, the post-operative subject faces the resurrection question: what connects *this* pre-operative consciousness to *this* post-operative one? The argument cannot proceed without distinguishing states the first-person gap fails to discriminate. Montupil et al. (2023) identify at least three conditions under stable anaesthesia: **unconsciousness** (no experience), **disconnected consciousness** (content without environmental coupling, as in dreaming), and **connected consciousness** (awareness during nominal anaesthesia). The gap reported as "no time at all" may be any of these or a mixture, indistinguishable from inside—which matters methodologically, since memory-failure and interface-disruption readings posit different things about the interval and the case for indexical persistence cannot be made without specifying which is in play. The [anaesthesia void article](/voids/anesthesia-void/) develops this taxonomy and argues the decomposition favours interface-disruption over phenomenal cessation.
 
 ## The Illusionist Challenge
 

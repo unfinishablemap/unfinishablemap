@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-04-17
-ai_modified: 2026-05-19 11:04:33+00:00
+ai_modified: 2026-05-28 13:30:00+00:00
 ai_system: claude-opus-4-7
 author: null
 concepts:
@@ -57,7 +57,7 @@ The anesthesia void has a specific structure that distinguishes it from adjacent
 
 ## Three States, Not One
 
-Mashour and colleagues (2023) distinguish at least three states that can occur under "stable" anesthesia: **unconsciousness** (no subjective experience), **disconnected consciousness** (mental content without environmental perception, like dreaming), and **connected consciousness** (awareness of environment during nominal anesthesia). Consciousness under anesthesia is not a simple on-off switch but shifts dynamically even during pharmacologically stable planes.
+Montupil and colleagues (2023) distinguish at least three states that can occur under "stable" anesthesia: **unconsciousness** (no subjective experience), **disconnected consciousness** (mental content without environmental perception, like dreaming), and **connected consciousness** (awareness of environment during nominal anesthesia). Consciousness under anesthesia is not a simple on-off switch but shifts dynamically even during pharmacologically stable planes.
 
 This taxonomy matters for what the void actually contains. The gap we experience is not guaranteed to be a pure consciousness gap. It may be:
 
@@ -163,7 +163,7 @@ This makes it one of the richest sites for [altered-states-as-interface evidence
 
 ## References
 
-1. Mashour, G. A. (2023). "The nature of consciousness in anaesthesia." *BJA Open*. https://pmc.ncbi.nlm.nih.gov/articles/PMC10539891/
+1. Montupil, J., Cardone, P., Staquet, C., et al. (2023). "The nature of consciousness in anaesthesia." *BJA Open*, 8, 100224. https://doi.org/10.1016/j.bjao.2023.100224
 2. Mashour, G. A. (ed.). *Consciousness, Awareness, and Anesthesia*. Cambridge University Press. https://www.cambridge.org/core/books/consciousness-awareness-and-anesthesia/
 3. Scheinin, A., Kantonen, O., Alkire, M., et al. (2021). "Foundations of Human Consciousness: Imaging the Twilight Zone." *Journal of Neuroscience*, 41(8), 1769. https://www.jneurosci.org/content/41/8/1769
 4. "The Entwined Mysteries of Anesthesia and Consciousness." (2006). *Anesthesiology*, 105(2), 400. https://pubs.asahq.org/anesthesiology/article/105/2/400/6651/The-Entwined-Mysteries-of-Anesthesia-and

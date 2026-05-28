@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-15
-ai_modified: 2026-05-27 07:53:55+00:00
+ai_modified: 2026-05-28 19:21:50+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -21,7 +21,7 @@ description: How extreme pressure transforms conscious moral agency—exploring 
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-04-17 06:55:00+00:00
+last_deep_review: 2026-05-28 19:21:50+00:00
 modified: *id001
 related_articles:
 - '[[consciousness-and-causal-powers]]'
@@ -76,7 +76,7 @@ This has direct implications for [moral-responsibility](/concepts/moral-responsi
 
 One revealing feature of duress is what it teaches about consciousness's *veto* capacity. Even under extreme pressure, some agents refuse to comply. Individuals endure torture rather than betray comrades. Parents sacrifice themselves rather than abandon children. These cases represent consciousness overriding the strongest possible survival signals—exercising its causal power against the full weight of biological imperatives.
 
-From the Map's perspective, these acts of resistance are among the strongest evidence for [bidirectional-interaction](/concepts/bidirectional-interaction/). If consciousness were [epiphenomenal](/concepts/epiphenomenalism/), the decision to resist torture would be determined entirely by prior physical states—neural architecture, hormone levels, learned patterns. The subjective experience of choosing to resist would be causally inert. The variation in responses to similar duress conditions is striking: individuals with comparable training, personality profiles, and neural architecture sometimes respond differently under pressure. Resilience research has identified contributing factors—trait conscientiousness, prefrontal-amygdala connectivity, prior conditioning—but these predictors leave substantial residual variance (Morgan et al., 2004). The Map reads this residual as evidence that [consciousness is performing genuine selection](/concepts/consciousness-selecting-neural-patterns/) among the options that physical conditions leave open.
+From the Map's perspective, these acts of resistance are among the strongest evidence for [bidirectional-interaction](/concepts/bidirectional-interaction/). If consciousness were [epiphenomenal](/concepts/epiphenomenalism/), the decision to resist torture would be determined entirely by prior physical states—neural architecture, hormone levels, learned patterns. The subjective experience of choosing to resist would be causally inert. The variation in responses to similar duress conditions is striking: individuals with comparable training, personality profiles, and neural architecture sometimes respond differently under pressure. Resilience research has identified contributing factors—trait conscientiousness, prefrontal-amygdala connectivity, prior conditioning—but these predictors leave substantial residual variance (Morgan et al., 2006). The Map reads this residual as evidence that [consciousness is performing genuine selection](/concepts/consciousness-selecting-neural-patterns/) among the options that physical conditions leave open.
 
 The veto under duress also illuminates [volitional opacity](/voids/self-opacity/). Accounts from prisoners of war and survivors of extreme coercion suggest a recurring pattern: agents describe knowing they chose to resist but being unable to explain the mechanism connecting their commitment to their endurance (Stockdale, 1984). The connection remains introspectively opaque. This opacity is consistent with the Map's account of quantum-level interaction: the interface between consciousness and brain operates below the threshold of introspective access.
 
@@ -135,5 +135,5 @@ This framework avoids two extremes. Against hard determinism, it maintains that 
 
 1. Aristotle. *Nicomachean Ethics*, Book III, Chapters 1–5. (Compulsion and voluntariness in action.)
 1. Frankfurt, H. (1969). "Alternate Possibilities and Moral Responsibility." *Journal of Philosophy*, 66(23), 829–839.
-1. Morgan, C. A. et al. (2004). "Stress-induced deficits in working memory and visuo-constructive abilities in Special Operations soldiers." *Biological Psychiatry*, 56(12), 880–889.
+1. Morgan, C. A. et al. (2006). "Stress-induced deficits in working memory and visuo-constructive abilities in Special Operations soldiers." *Biological Psychiatry*, 60(7), 722–729.
 1. Stockdale, J. B. (1984). "The World of Epictetus." In *A Vietnam Experience: Ten Years of Reflection*. Hoover Institution Press.

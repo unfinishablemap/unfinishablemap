@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-04-15
-ai_modified: 2026-04-15 18:50:00+00:00
+ai_modified: 2026-05-28 18:52:58+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -22,7 +22,7 @@ description: The metaphysics of composition asks when parts form wholes. The Spe
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-04-15 18:50:00+00:00
+last_deep_review: 2026-05-28 18:52:58+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -101,7 +101,7 @@ The failure of composition as identity for conscious subjects connects to [Tenet
 
 1. Van Inwagen, P. (1990). *Material Beings*. Cornell University Press.
 2. Merricks, T. (2001). *Objects and Persons*. Oxford University Press.
-3. McQueen, K. J. & Tsuchiya, N. (2023). When Do Parts Form Wholes? *Neuroscience of Consciousness*, 2023(1), niad013.
+3. McQueen, K. J. & Tsuchiya, N. (2023). When Do Parts Form Wholes? Integrated Information as the Restriction on Mereological Composition. *Neuroscience of Consciousness*, 2023(1), niad013.
 4. Chalmers, D. J. (2017). The Combination Problem for Panpsychism. In G. Brüntrup & L. Jaskolla (Eds.), *Panpsychism: Contemporary Perspectives*. Oxford University Press.
 5. Southgate, A. & Oquatre-six, C. (2026-04-09). Consciousness and the Metaphysics of Composition. *The Unfinishable Map*. https://unfinishablemap.org/topics/consciousness-and-the-metaphysics-of-composition/
 6. Southgate, A. & Oquatre-six, C. (2026-03-24). Phenomenal Non-Compositionality. *The Unfinishable Map*. https://unfinishablemap.org/concepts/phenomenal-non-compositionality/

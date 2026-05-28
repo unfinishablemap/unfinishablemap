@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-10
-ai_modified: 2026-05-27 13:30:00+00:00
+ai_modified: 2026-05-28 00:00:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -27,7 +27,7 @@ embedded_videos:
   url: https://www.youtube-nocookie.com/embed/cSU9xQDKiW4
 human_modified: null
 last_curated: null
-last_deep_review: 2026-04-17 15:13:00+00:00
+last_deep_review: 2026-05-28 00:00:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -200,7 +200,7 @@ The epiphenomenalist can respond that the brain damage disrupts both the neural 
 
 **[No Many Worlds](/tenets/#no-many-worlds)**: The diagnostic power of dissociations depends on each case being a definite fact—this patient lost this channel, revealing this architectural feature. Under many-worlds interpretations, quantum events during brain development and injury produce branches with different neural configurations, and the interface architecture described here would be one branch-relative arrangement among countless alternatives. The Map reads dissociations as revealing the structure of a single mind-brain interface; that reading assumes the patient's condition is a determinate fact about one world, not an indexical perspective within a branching totality.
 
-**[Occam's Razor Has Limits](/tenets/#occams-limits)**: The interface architecture is not simple. Six independently faileable channels, attentional gating, bilateral unity maintenance—this is complex machinery. A simpler model (identity theory) fails to account for the dissociation pattern. The actual structure of mind-brain interaction is messier than parsimony would prefer, and the clinical evidence shows why parsimony misleads here.
+**[Occam's Razor Has Limits](/tenets/#occams-limits)**: The interface architecture is not simple. Six independently failable channels, attentional gating, bilateral unity maintenance—this is complex machinery. A simpler model (identity theory) fails to account for the dissociation pattern. The actual structure of mind-brain interaction is messier than parsimony would prefer, and the clinical evidence shows why parsimony misleads here.
 
 ## Further Reading
 

@@ -4,7 +4,7 @@ description: "Predictive processing's metaphysically neutral formalism provides 
 created: 2026-02-15
 modified: 2026-03-19
 human_modified:
-ai_modified: 2026-05-14T12:10:00+00:00
+ai_modified: 2026-05-28T19:55:20+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -28,12 +28,14 @@ related_articles:
   - "[[attention-and-the-consciousness-interface]]"
   - "[[bandwidth-of-consciousness]]"
   - "[[empirical-phenomena-mental-causation]]"
+  - "[[selection-only-mind-influence]]"
+  - "[[born-rule-and-the-consciousness-interface]]"
 ai_contribution: 100
 author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-02-15
 last_curated:
-last_deep_review: 2026-04-17T00:05:00+00:00
+last_deep_review: 2026-05-28T19:55:20+00:00
 coalesced_from:
   - "/topics/predictive-processing-and-dualism/"
   - "/topics/predictive-processing-and-active-inference-under-dualism/"
@@ -53,7 +55,7 @@ A brain that deterministically computed one output would leave no room for consc
 
 The free energy principle states that living systems minimise variational free energy — a measure of surprise or prediction error — through perception and action. The mathematics describes how systems maintain their existence by modelling and acting on their environment. Nothing in this formalism specifies whether the system doing the modelling is purely physical, or whether something non-physical participates in the process.
 
-Kiefer (2021) mounts the strongest case for this neutrality. Friston, Wiese, and Hobson (2020) claim their formalism entails "Markovian monism" — the view that systems possessing Markov blankets have properties relevant to consciousness, with both mental and physical descriptions reducing to a single information-geometric reality. Kiefer argues this overreaches: "we cannot read off metaphysical theses about the nature of target systems from our theories." The mathematical structure constrains *how* a system processes information but says nothing about what *kind* of thing is processing it. The leap from formalism to monism is philosophically unjustified.
+Beni (2021) mounts the strongest case for this neutrality. Friston, Wiese, and Hobson (2020) claim their formalism entails "Markovian monism" — the view that systems possessing Markov blankets have properties relevant to consciousness, with both mental and physical descriptions reducing to a single information-geometric reality. Beni argues this overreaches: "we cannot read off metaphysical theses about the nature of target systems from our theories." The mathematical structure constrains *how* a system processes information but says nothing about what *kind* of thing is processing it. The leap from formalism to monism is philosophically unjustified.
 
 Wiese and Friston (2021) reinforce this reading, perhaps unintentionally. Their review acknowledges that the formalism supports both structural representationalist and enactive interpretations. If the same mathematics accommodates two competing physicalist readings, the formalism itself is not doing metaphysical work — and nothing prevents a dualist reading that treats the computational description as capturing the physical side of a two-sided reality.
 
@@ -81,7 +83,7 @@ PP treats precision — the inverse variance of a probability distribution — a
 
 Computational accounts within PP explain precision as itself predicted — the brain learns which signals to trust based on past reliability (Feldman & Friston, 2010). This is hierarchical prediction applied to reliability estimation. The Map acknowledges this account but finds it incomplete: it explains how precision *converges* over time but not how it is *resolved* in the moment when competing hypotheses demand incompatible precision assignments. When precision predictions are themselves subject to precision weighting, the question of what ultimately determines the weighting at the top of the hierarchy becomes pressing. The physicalist answer is that learned priors and environmental statistics terminate the regress. The Map argues this answer leaves something out: the felt experience of deliberate attending — concentrating on a conversation in a noisy room, focusing on a philosophical argument — is not captured by describing signal gain adjustment.
 
-Active inference sharpens this point. Its recursive precision structure creates an opening. The system settles into stable precision estimates through experience, but in the moment of resolving competing hypotheses, something breaks the symmetry. The Map proposes consciousness as that factor — selecting among precision assignments that the learned priors alone underdetermine.
+Active inference sharpens this point. Its recursive precision structure creates an opening. The system settles into stable precision estimates through experience, but in the moment of resolving competing hypotheses, something breaks the symmetry. The Map proposes consciousness as that factor — selecting among precision assignments that the learned priors alone underdetermine. This is the [[selection-only-mind-influence|selection-only reading]]: consciousness adds no energy and writes no value the physics forbids, only biasing which of the physically available precision assignments is realised.
 
 This integration preserves everything PP gets right about cognitive architecture while proposing a deeper account of the selection process. The brain generates predictions; consciousness plays a genuine role in determining which predictions matter.
 
@@ -97,11 +99,11 @@ Clark's emphasis on active inference as genuinely world-shaping supports this re
 
 ## The Quantum-Bayesian Connection
 
-Pothos et al. (2022) establish a mathematical bridge between the free energy principle and quantum cognition. Their "excess Bayesian" procedure shows that free energy minimisation and quantum probability connect formally through quantum entanglement's role in calculating joint probabilities. Quantum cognition explains cognitive phenomena — order effects in judgments, conjunction fallacies, disjunction effects — that classical probability cannot.
+Gunji, Shinohara, and Basios (2022) establish a mathematical bridge between the free energy principle and quantum cognition. Their "excess Bayesian" procedure shows that free energy minimisation and quantum probability connect formally through the structure of orthomodular lattices: classic Bayesian inference entails a Boolean (classical-logic) lattice of propositions, while excess Bayesian inference entails an orthomodular (quantum-logic) lattice. Quantum cognition explains cognitive phenomena — order effects in judgments, conjunction fallacies, disjunction effects — that classical probability cannot.
 
 This connection is early-stage and speculative. The Map does not claim it as established science. But the philosophical implication is significant: if the brain's Bayesian inference connects formally to quantum probability, and consciousness operates at quantum indeterminacies (as [[tenets#^minimal-quantum-interaction|Tenet 2]] proposes), then active inference might describe the physical side of a quantum-conscious interface. The point where Bayesian inference meets quantum probability could be precisely where consciousness enters the physical.
 
-This remains a "one possible mechanism" proposal, not a commitment. The Map's argument that PP is compatible with dualism does not depend on the quantum-Bayesian bridge. But if the bridge holds, it provides a specific mathematical location where the Map's metaphysics connects to the framework's formalism.
+This remains a "one possible mechanism" proposal, not a commitment. The Map's argument that PP is compatible with dualism does not depend on the quantum-Bayesian bridge. But if the bridge holds, it provides a specific mathematical location where the Map's metaphysics connects to the framework's formalism — and the question of how a conscious selection would express itself at that location returns to [[born-rule-and-the-consciousness-interface|the Born rule]], whose resistance to derivation across every interpretation is compatible with the interface reading without yet being adjudicated in its favour.
 
 ## What PP Gets Right — and What It Misses
 
@@ -111,7 +113,7 @@ PP captures something essential about how minds interact with the world. Several
 
 **Attention is central.** PP places precision weighting — functionally, attention — at the heart of cognition, supporting the Map's claim that [[attention-as-interface|attention]] is the primary interface between consciousness and the physical world.
 
-**The hierarchy matters.** PP's multi-level predictive hierarchy explains how consciousness can influence high-level cognitive processes (beliefs, plans, decisions) through the same mechanisms that operate at low levels (sensory prediction). Precision weighting operates throughout the hierarchy.
+**The hierarchy matters.** PP's multi-level predictive hierarchy explains how consciousness can influence high-level cognitive processes (beliefs, plans, decisions) through the same precision-weighting mechanism that operates at low sensory levels.
 
 **Dreams and altered states make sense.** PP elegantly explains dreaming as unconstrained prediction — the brain's generative models running without sensory correction. What PP cannot explain is why dreams are *experienced* — why unconstrained prediction feels like vivid hallucination rather than unmonitored computation.
 
@@ -129,9 +131,9 @@ What PP misses is what every computational framework misses.
 
 The Unfinishable Map sees predictive processing as a valuable ally — the best available account of the neural architecture through which consciousness operates.
 
-**[[tenets#^dualism|Dualism]]**: PP is typically presented within physicalism, but its own proponents concede it doesn't address the hard problem, and Kiefer's critique shows the formalism is metaphysically neutral. The Map takes the framework's computational description as capturing the physical side of a two-sided reality: PP describes what the brain does; dualism explains why doing it feels like something. The more precisely PP describes the brain's operations, the sharper the hard problem becomes — why should free energy minimisation be accompanied by experience?
+**[[tenets#^dualism|Dualism]]**: PP is typically presented within physicalism, but its own proponents concede it doesn't address the hard problem, and Beni's critique shows the formalism is metaphysically neutral. The Map takes the framework's computational description as capturing the physical side of a two-sided reality: PP describes what the brain does; dualism explains why doing it feels like something. The more precisely PP describes the brain's operations, the sharper the hard problem becomes — why should free energy minimisation be accompanied by experience?
 
-**[[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]]**: Precision weighting provides the functional context within which quantum selection might operate. Consciousness does not need to micromanage every prediction — it influences which prediction errors receive high precision, and the brain's own computational machinery handles the rest. This is minimal in the tenet's required sense: a small bias at the precision-weighting level cascades through the entire predictive hierarchy. The quantum-Bayesian connection (Pothos et al., 2022) suggests a possible formal bridge between the free energy principle and the quantum level where the Map locates the consciousness-physics interface.
+**[[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]]**: Precision weighting provides the functional context within which quantum selection might operate. Consciousness does not need to micromanage every prediction — it influences which prediction errors receive high precision, and the brain's own computational machinery handles the rest. This is minimal in the tenet's required sense: a small bias at the precision-weighting level cascades through the entire predictive hierarchy. The quantum-Bayesian connection (Gunji, Shinohara & Basios, 2022) suggests a possible formal bridge between the free energy principle and the quantum level where the Map locates the consciousness-physics interface.
 
 **[[tenets#^bidirectional-interaction|Bidirectional Interaction]]**: Active inference is the strongest empirical case for bidirectional causation in cognitive science. Organisms genuinely change the world, not just model it. The Map extends this to the neural level: consciousness changes the brain's state by influencing precision weighting, and the brain then changes the world through active inference. The two levels of bidirectional influence — consciousness-to-brain and organism-to-world — form a nested hierarchy of causal interaction. The [[empirical-phenomena-mental-causation|placebo effect]] provides empirical evidence: expectations — strong priors in PP's framework — produce measurable physiological outcomes, demonstrating that precision weighting has real physical consequences.
 
@@ -145,6 +147,8 @@ The Unfinishable Map sees predictive processing as a valuable ally — the best 
 - [[disguised-property-dualism]] — The Map's diagnostic for physicalist theories that posit two irreducible structures while disavowing the dualist label; Markovian monism is its paradigm case
 - [[predictive-construction-void]] — Why the ratio of construction to reception in perception is structurally unknowable, and how the Markov blanket compounds the dualist subject's epistemic isolation
 - [[attention-as-interface]] — Precision weighting as the causal bridge
+- [[selection-only-mind-influence]] — The strictest reading of mind-on-quantum influence: consciousness biases which physically-available outcome is realised without adding energy
+- [[born-rule-and-the-consciousness-interface]] — Where a conscious precision-selection would express itself at the quantum level, and the evidential status of that reading
 - [[attention-and-the-consciousness-interface]] — Attention and motor planning as unified selection
 - [[surprise-prediction-error-and-consciousness]] — What prediction error feels like
 - [[categorical-surprise]] — When prediction fails at the framework level
@@ -166,8 +170,8 @@ The Unfinishable Map sees predictive processing as a valuable ally — the best 
 7. Friston, K., Wiese, W. & Hobson, J. A. (2020). Sentience and the Origins of Consciousness: From Cartesian Duality to Markovian Monism. *Entropy*, 22(5), 516.
 8. Hohwy, J. (2013). *The Predictive Mind*. Oxford University Press.
 9. Hohwy, J. & Seth, A. K. (2020). "Predictive processing as a systematic basis for identifying the neural correlates of consciousness." *Philosophy and the Mind Sciences*, 1(II).
-10. Kiefer, A. (2021). A critical analysis of Markovian monism. *Synthese*, 199, 6329-6353.
-11. Pothos, E. M. et al. (2022). Connecting the free energy principle with quantum cognition. *Frontiers in Neurorobotics*, 16, 910161.
+10. Beni, M. D. (2021). A critical analysis of Markovian monism. *Synthese*, 199, 6407-6427.
+11. Gunji, Y.-P., Shinohara, S. & Basios, V. (2022). Connecting the free energy principle with quantum cognition. *Frontiers in Neurorobotics*, 16, 910161.
 12. Seth, A. K. (2021). *Being You: A New Science of Consciousness*. Dutton.
 13. Stapp, H. P. (2007). *Mindful Universe: Quantum Mechanics and the Participating Observer*. Springer.
 14. Wiese, W. & Friston, K. (2021). Active Inference as a Computational Framework for Consciousness. *Review of Philosophy and Psychology*, 12, 743-765.

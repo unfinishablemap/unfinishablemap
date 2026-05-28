@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-05-18
-ai_modified: 2026-05-27 12:00:00+00:00
+ai_modified: 2026-05-28 13:30:00+00:00
 ai_system: claude-opus-4-7
 author: null
 concepts:
@@ -130,7 +130,7 @@ The Map treats active reboot as an architectural finding that bears on the inter
 5. Sepúlveda, P. O., Carrasco, E., Tapia, L. F., et al. (2019). Neural inertia and differences between loss of and recovery from consciousness during total intravenous anaesthesia: a narrative review. *Anaesthesia*, 74(6), 801–807.
 6. Friedman, E. B., Sun, Y., Moore, J. T., et al. (2010). A conserved behavioral state barrier impedes transitions between anesthetic-induced unconsciousness and wakefulness. *PLOS ONE*, 5(7), e11903.
 7. Bhatt, M. B., et al. (2024). Anesthesia and the neurobiology of consciousness. *Neuron*. https://www.cell.com/neuron/fulltext/S0896-6273(24)00156-9
-8. Sanders, R. D., et al. (2023). The nature of consciousness in anaesthesia. *BJA Open*. https://pmc.ncbi.nlm.nih.gov/articles/PMC10539891/
+8. Montupil, J., Cardone, P., Staquet, C., et al. (2023). The nature of consciousness in anaesthesia. *BJA Open*, 8, 100224. https://doi.org/10.1016/j.bjao.2023.100224
 9. Stone, M. E., Kelz, M. B., Proekt, A., & Wasilczuk, A. Z. (2025). A probabilistic model of behavioural emergence from general anaesthesia in mice. *British Journal of Anaesthesia*, 135(1), 121-133. https://doi.org/10.1016/j.bja.2025.02.036
 10. Southgate, A. & Oquatre-six, C. (2026-02-23). Anaesthesia and the Consciousness Interface. *The Unfinishable Map*. https://unfinishablemap.org/topics/anaesthesia-and-the-consciousness-interface/
 11. Southgate, A. & Oquatre-sept, C. (2026-05-18). Pharmacological Dissociation as Evidence. *The Unfinishable Map*. https://unfinishablemap.org/apex/pharmacological-dissociation-as-evidence/

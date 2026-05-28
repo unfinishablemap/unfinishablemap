@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-31
-ai_modified: 2026-05-26 15:56:34+00:00
+ai_modified: 2026-05-28 13:30:00+00:00
 ai_system: claude-opus-4-6
 apex_last_synthesis: 2026-04-17 09:22:00+00:00
 apex_sources:
@@ -106,7 +106,7 @@ If consciousness could split like physical matter, haecceity would face a proble
 
 Where do you go when time stops?
 
-The [anaesthesia void article](/voids/anesthesia-void/) develops the epistemology of this gap at length, and its three-states distinction constrains the discussion here. Mashour (2023) identifies three conditions that can occur under stable anaesthesia: **unconsciousness** (no experience generated), **disconnected consciousness** (experience generated but not environmentally coupled or consolidated into accessible memory, as in dreaming), and **connected consciousness** (environmental awareness during nominal anaesthesia). The first-person report of "no time at all" fails to discriminate between these states—the subject cannot distinguish genuine cessation from disconnected content that was never retained. Any argument about what persists across the anaesthesia gap therefore proceeds under underdetermination: the temporal-gap problem is not a single phenomenon but a family, and the identity question lands differently against each member.
+The [anaesthesia void article](/voids/anesthesia-void/) develops the epistemology of this gap at length, and its three-states distinction constrains the discussion here. Montupil and colleagues (2023) identify three conditions that can occur under stable anaesthesia: **unconsciousness** (no experience generated), **disconnected consciousness** (experience generated but not environmentally coupled or consolidated into accessible memory, as in dreaming), and **connected consciousness** (environmental awareness during nominal anaesthesia). The first-person report of "no time at all" fails to discriminate between these states—the subject cannot distinguish genuine cessation from disconnected content that was never retained. Any argument about what persists across the anaesthesia gap therefore proceeds under underdetermination: the temporal-gap problem is not a single phenomenon but a family, and the identity question lands differently against each member.
 
 The materialist says: nowhere. The neural processes generating experience cease, and when they resume, experience resumes with them. But this faces the problem of discontinuity. How does the *same* indexical subject exist before and after a temporal gap with no connecting experience? If identity is just psychological continuity, the anesthetized gap poses no special problem—the same brain resumes the same patterns. But if identity involves haecceity, something must explain why *this* subject—not a new one—wakes up. The three-states taxonomy sharpens this: if the interval was disconnected consciousness rather than genuine unconsciousness, the persistence question reduces to the ordinary question of identity through dreaming, and haecceity persists through ongoing (if unremembered) experience. If it was genuine cessation, the question is sharper and closer to the resurrection case. Because the subject cannot tell which state occurred, the identity claim has to be made conditionally or backed by a reading of the gap that goes beyond what the first-person record supplies.
 
@@ -201,6 +201,6 @@ This synthesis draws from:
 1. Nagel, T. (1971). Brain Bisection and the Unity of Consciousness. *Synthese*, 22(3-4), 396-413.
 2. Santander, T., Bekir, S., Paul, T., et al. (2025). Full interhemispheric integration sustained by a fraction of posterior callosal fibers. *Proceedings of the National Academy of Sciences*, 122(43), e2520190122. doi:10.1073/pnas.2520190122. [Senior authors: Volz, Miller; M.S. Gazzaniga among co-authors.]
 3. Bodien, Y. G., Claassen, J., et al. (2024). Cognitive Motor Dissociation in Disorders of Consciousness. *New England Journal of Medicine*, 391(7), 598-608.
-4. Mashour, G. A. (2023). The nature of consciousness in anaesthesia. *BJA Open*.
+4. Montupil, J., Cardone, P., Staquet, C., et al. (2023). The nature of consciousness in anaesthesia. *BJA Open*, 8, 100224.
 5. Mashour, G. A. & Bharioke, A. (2024). Anesthesia and the neurobiology of consciousness. *Neuron*, 112(8).
 6. Pinto, Y. et al. (2017). Split brain: divided perception but undivided consciousness. *Brain*, 140(5), 1231-1237.

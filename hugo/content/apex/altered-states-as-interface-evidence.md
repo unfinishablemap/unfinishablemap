@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-16
-ai_modified: 2026-05-19 20:45:00+00:00
+ai_modified: 2026-05-28 13:30:00+00:00
 ai_system: claude-opus-4-7
 apex_last_synthesis: 2026-05-12 02:21:00+00:00
 apex_sources:
@@ -119,7 +119,7 @@ Meditative cessation events sharpen the point further. Unlike anaesthesia (exter
 
 [Anaesthetic pharmacology](/topics/anaesthesia-and-the-consciousness-interface/) provides the most precise molecular map of the interface. Different agents target different receptor systems and produce different phenomenological outcomes despite identical behavioural unresponsiveness. Under propofol (GABA-A), patients typically report nothing on emergence—no retrievable phenomenal content. Ketamine (NMDA) preserves vivid consciousness while severing it from behavioural output. Volatile agents fragment temporal coherence. Midazolam eliminates memory encoding while leaving consciousness and responsiveness largely intact. The **xenon-ketamine contrast** is the cleanest pharmacological dissociation argument in the catalogue: both are NMDA antagonists, yet xenon extinguishes phenomenal experience while ketamine preserves it (Sarasso et al. 2015)—xenon's broader action on two-pore potassium channels suppresses the phenomenal interface while ketamine's selective NMDA blockade severs access channels while sparing it. Same primary receptor, opposite phenomenological outcomes: interface components are pharmacologically separable even within a single receptor system.
 
-Mashour and colleagues (2023) sharpen the framework by distinguishing three states that can occur under nominally "stable" anaesthesia: unconsciousness (no experience generated), disconnected consciousness (content without environmental coupling or accessible memory), and connected consciousness (intraoperative awareness—clinically documented and, in paralysed patients, sometimes including pain). What first-person report registers as "the gap" is a compound signature whose interior is heterogeneous and partly hidden from the subject. The [anaesthesia void](/voids/anesthesia-void/) develops the epistemology: the first-person side cannot enter the interval, while third-person probes partially characterise it from outside.
+Montupil and colleagues (2023) sharpen the framework by distinguishing three states that can occur under nominally "stable" anaesthesia: unconsciousness (no experience generated), disconnected consciousness (content without environmental coupling or accessible memory), and connected consciousness (intraoperative awareness—clinically documented and, in paralysed patients, sometimes including pain). What first-person report registers as "the gap" is a compound signature whose interior is heterogeneous and partly hidden from the subject. The [anaesthesia void](/voids/anesthesia-void/) develops the epistemology: the first-person side cannot enter the interval, while third-person probes partially characterise it from outside.
 
 These dissociations reveal at least four separable interface components: phenomenal presence, behavioural access, temporal binding, and memory encoding. Each can be pharmacologically isolated. The Meyer-Overton correlation—once taken as evidence for a single anaesthetic mechanism—has been replaced by the recognition that anaesthetics act through specific molecular targets, consistent with a structured interface rather than a generic consciousness-production system. The ketamine case also carries epistemological weight: patients who later report vivid experiences demonstrate that consciousness maintained its causal connection to memory encoding even while severed from behavioural output—a point the Map's [self-stultification argument](/topics/self-stultification-as-master-argument/) develops. If consciousness were epiphenomenal during the ketamine state, the reliability of these later reports would be self-defeating, presupposing the very causal efficacy that epiphenomenalism denies.
 
@@ -222,7 +222,7 @@ This synthesis draws on:
 7. Kral, T. R. A., et al. (2022). Absence of structural brain changes from mindfulness-based stress reduction: Two combined randomized controlled trials. *Science Advances*, 8(21), eabk3316.
 8. Lacaux, C., Andrillon, T., Bastoul, C., et al. (2021). Sleep onset is a creative sweet spot. *Science Advances*, 7(50), eabj5866.
 9. Mashour, G. A., et al. (2021). Recovery of consciousness and cognition after general anesthesia in humans. *eLife*, 10, e59525.
-10. Mashour, G. A. (2023). The nature of consciousness in anaesthesia. *BJA Open*, 8, 100215.
+10. Montupil, J., Cardone, P., Staquet, C., et al. (2023). The nature of consciousness in anaesthesia. *BJA Open*, 8, 100224.
 11. Mavromatis, A. (1987). *Hypnagogia: The Unique State of Consciousness Between Wakefulness and Sleep*. Routledge.
 12. Sarasso, S., et al. (2015). Consciousness and complexity during unresponsiveness induced by propofol, xenon, and ketamine. *Current Biology*, 25(23), 3099-3105.
 13. Sepúlveda, P. O., et al. (2019). Neural inertia and differences between loss of and recovery from consciousness during total intravenous anaesthesia: a narrative review. *Anaesthesia*, 74(6), 801-807.
