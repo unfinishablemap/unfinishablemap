@@ -61,7 +61,7 @@ The "capability division problem" is not an established term in the literature b
 - **Tenet alignment**: Neutral — if blindsight retains some consciousness, the capability division becomes more complex but the basic framework still applies
 - **Quote**: N/A (available as PDF)
 
-### Two-Streams Hypothesis (Milner & Goodale, 1992)
+### Two-Streams Hypothesis (Goodale & Milner, 1992)
 - **URL**: https://en.wikipedia.org/wiki/Two-streams_hypothesis
 - **Type**: Encyclopedia/Review
 - **Key points**:
@@ -183,7 +183,7 @@ The "capability division problem" is not an established term in the literature b
 - **Current state**: Converging evidence suggests consciousness correlates with recurrent processing in visual areas plus frontal involvement, but the exact stage and mechanism remain debated. Recent work points to lateral occipital complex as key for conscious visual processing.
 
 ### The Two-Streams Division and Consciousness
-- **Sides**: Milner & Goodale (dorsal for action, ventral for perception) vs. integrationists (streams interact substantially)
+- **Sides**: Goodale & Milner (dorsal for action, ventral for perception) vs. integrationists (streams interact substantially)
 - **Core disagreement**: Whether the dorsal stream truly operates without consciousness or merely with reduced consciousness
 - **Current state**: The original strong dissociation has been moderated — streams interact more than originally thought. But the basic pattern holds: action guidance (dorsal) is less dependent on conscious awareness than object recognition (ventral).
 
@@ -197,7 +197,7 @@ The "capability division problem" is not an established term in the literature b
 | 1974 | Weiskrantz coins "blindsight" | Demonstrates visual processing without conscious awareness |
 | 1977 | Popper & Eccles, *The Self and Its Brain* | Major modern defence of interactionist dualism |
 | 1983 | Libet's timing experiments | Shows ~500ms delay before sensory awareness; raises questions about when consciousness enters |
-| 1992 | Milner & Goodale, two-streams hypothesis | Separates conscious (ventral) from largely unconscious (dorsal) visual processing |
+| 1992 | Goodale & Milner, two-streams hypothesis | Separates conscious (ventral) from largely unconscious (dorsal) visual processing |
 | 1992 | Beck & Eccles, quantum synaptic model | Proposes quantum mechanism for mind-brain interaction at synapses |
 | 1995 | Chalmers, "Facing Up to the Problem of Consciousness" | Formulates hard problem; vision as paradigmatic example |
 | 1996 | Stapp, quantum Zeno model | Proposes consciousness holds neural states via repeated quantum observation |
@@ -232,9 +232,9 @@ When writing the article, follow `obsidian/project/writing-style.md` for:
 - Beck, F. & Eccles, J. C. (1992). "Quantum aspects of brain activity and the role of consciousness." *Proceedings of the National Academy of Sciences*, 89(23), 11357-11361.
 - Chalmers, D. J. (1995). "Facing Up to the Problem of Consciousness." *Journal of Consciousness Studies*, 2(3), 200-219.
 - Chalmers, D. J. (1996). *The Conscious Mind*. Oxford University Press.
-- Fahrenfort, J. J. et al. (2023). "The functions of consciousness in visual processing." *Neuroscience of Consciousness*, 2023(1), niac018. https://academic.oup.com/nc/article/2023/1/niac018/6969138
+- Ludwig, D. (2023). "The functions of consciousness in visual processing." *Neuroscience of Consciousness*, 2023(1), niac018. https://academic.oup.com/nc/article/2023/1/niac018/6969138
 - Libet, B. (1983). "Time of conscious intention to act in relation to onset of cerebral activity." *Brain*, 106(3), 623-642.
-- Milner, A. D. & Goodale, M. A. (1992). "Separate visual pathways for perception and action." *Trends in Neurosciences*, 15(1), 20-25.
+- Goodale, M. A. & Milner, A. D. (1992). "Separate visual pathways for perception and action." *Trends in Neurosciences*, 15(1), 20-25.
 - Overgaard, M. et al. (2022). "The nature of blindsight: implications for current theories of consciousness." *Neuroscience of Consciousness*, 2022(1), niab043. https://pmc.ncbi.nlm.nih.gov/articles/PMC8884361/
 - Phillips, I. (2021). "Blindsight Is Qualitatively Degraded Conscious Vision." *Psychological Review*, 128(3), 558-584.
 - Popper, K. R. & Eccles, J. C. (1977). *The Self and Its Brain: An Argument for Interactionism*. Springer.
