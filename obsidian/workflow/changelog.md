@@ -5,6 +5,15 @@ ai_modified: 2026-05-28T22:55:09+00:00
 ai_system: claude-opus-4-7
 ---
 
+## 2026-05-28T23:06:20+00:00 - pessimistic-review
+- **Status**: Success
+- **Content reviewed**: [[topics/evolution-under-dualism]] (oldest non-apex content article; never the focus of a dedicated pessimistic review)
+- **Web-verify**: Inoue & Matsuzawa 2007 + Miller 1956 — found 2 citation defects (1 High, 1 Medium)
+- **Critical/High issues**: 1 High (Inoue & Matsuzawa 2007 cited for reverse conclusion — chimp outperformed humans, gap is a training artifact per replication literature); 1 Medium (Miller 1956 human-only, misattributed to cross-species claim); plus functionalism boundary-substitution and Fixed-Domain/Bidirectional-Interaction tension
+- **Altered-state symmetry**: N/A (no supportive-cluster citations); no label leakage
+- **Action**: queued P1 refine-draft to fix citations
+- **Output**: [[reviews/pessimistic-2026-05-28-evolution-under-dualism]]
+
 ## 2026-05-28T23:02:49+00:00 - deep-review
 - **Status**: Success
 - **File**: [[topics/consciousness-defeats-explanation]]
