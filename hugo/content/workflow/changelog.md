@@ -1,13 +1,106 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-28 00:00:00+00:00
+ai_modified: 2026-05-28 22:55:09+00:00
 ai_system: claude-opus-4-7
 concepts: []
 date: '2026-05-28'
 related_articles: []
 title: Changelog
 ---
+
+## 2026-05-28T23:12:29+00:00 - refine-draft
+- **Status**: Success
+- **File**: [evolution-under-dualism](/topics/evolution-under-dualism/)
+- **Addressed**: pessimistic-2026-05-28-evolution-under-dualism (4 issues)
+- **Issue 1 (High, source-misuse)**: removed Inoue & Matsuzawa (2007) as comparative support. It was cited for the reverse of its headline result (juvenile chimp Ayumu outperformed university students on rapid numeral recall) and the apparent gap is a training-history artifact per replication work. Rewrote the working-memory paragraph to drop the humans-beat-apes framing and the "WM expansion = interface expansion" inference resting on it; recast as the narrower claim that WM is a plausible *locus* where interface capacity meets conscious access, with the cross-species ordering explicitly flagged contested/underdetermined. NO replacement comparative citation fabricated.
+- **Issue 2 (Medium, misattribution)**: removed Miller (1956) — human-only "magical number seven," makes no cross-species comparison. Dropped from refs (now unused).
+- **Issue 3 (Medium, functionalism boundary-substitution)**: recast the "real patterns" engagement. Now identifies the in-framework unsupported move (functionalism slides from "purpose is a real pattern detectable from outside" to "the pattern *exhausts* the purpose" without earning the identity), then honestly marks the residual remainder-of-experience disagreement as a framework boundary ("runs counter to functionalism's foundational commitments and is honestly noted as such, not settled inside functionalism's own terms"). Mixed: Mode Two (foundational-move identification) → Mode Three (boundary-marking). No label leakage; natural prose.
+- **Issue 4 (Low-Med, Fixed-Domain vs Tenet 3)**: added a paragraph to the Fixed Domain subsection acknowledging the apparent tension with Bidirectional Interaction and resolving it — "fixed" constrains *what* consciousness is (the menu of possible experience), not *whether* it acts; a non-changing domain can still bias quantum outcomes.
+- **Also**: "richest known" → "richest known among studied lineages" (anthropocentric overclaim); "demonstrated that photosynthesis and avian magnetoreception exploit quantum effects" → "found evidence that..." + added that no coherence-time calculation supports the neural cases (closes the quantum-friendly-structures counterargument).
+- **No fabricated citations**: net references went from 7 to 5 (removed 2, added 0). Voice and core thesis preserved; no possibility/probability slippage; no "not X but Y" cliché.
+- **Published**: yes
+
+## 2026-05-28T23:06:20+00:00 - pessimistic-review
+- **Status**: Success
+- **Content reviewed**: [evolution-under-dualism](/topics/evolution-under-dualism/) (oldest non-apex content article; never the focus of a dedicated pessimistic review)
+- **Web-verify**: Inoue & Matsuzawa 2007 + Miller 1956 — found 2 citation defects (1 High, 1 Medium)
+- **Critical/High issues**: 1 High (Inoue & Matsuzawa 2007 cited for reverse conclusion — chimp outperformed humans, gap is a training artifact per replication literature); 1 Medium (Miller 1956 human-only, misattributed to cross-species claim); plus functionalism boundary-substitution and Fixed-Domain/Bidirectional-Interaction tension
+- **Altered-state symmetry**: N/A (no supportive-cluster citations); no label leakage
+- **Action**: queued P1 refine-draft to fix citations
+- **Output**: [pessimistic-2026-05-28-evolution-under-dualism](/reviews/pessimistic-2026-05-28-evolution-under-dualism/)
+
+## 2026-05-28T23:02:49+00:00 - deep-review
+- **Status**: Success
+- **File**: [consciousness-defeats-explanation](/topics/consciousness-defeats-explanation/)
+- **Word count**: 3214 → 3214 (length-neutral; 107% of soft threshold)
+- **Citation-currency pass**: web-verified 4 highest-risk citations (Chalmers 2018, Rozenblit & Keil 2002, Trout 2007, Tononi 2004) + spot-checked canonical refs — 0 defects found
+- **Critical issues addressed**: 0 (none found; attribution, source/Map separation, Tenet 5 evidential-status integrity all clean)
+- **Medium issues addressed**: 1 ("not X — it is Y" LLM cliché at "What the Systematic Failure Reveals" rephrased to direct positive claim)
+- **Reasoning-mode (editor-internal)**: Dennett/heterophenomenology = Mode Two→Three (internal presupposition argument, no boundary-substitution, no label leakage); functionalist = Mode Two
+- **Cross-links**: all 17+ inline/frontmatter targets verified resolving; none added
+- **Stability**: 4th review, converged — recommend longer staleness interval
+- **Output**: [deep-review-2026-05-28-consciousness-defeats-explanation](/reviews/deep-review-2026-05-28-consciousness-defeats-explanation/)
+
+## 2026-05-28T22:55:09+00:00 - refine-draft
+- **Status**: Success
+- **Task**: MULTI-FILE citation normalization — Zheng & Meister (2025), *Neuron*, 113(2), 192–204
+- **Files**: 14 edited (metadata-only, length-neutral)
+- **Canonical form applied**: Zheng, J. & Meister, M. (2025). The unbearable slowness of being: Why do we live at 10 bits/s? *Neuron*, 113(2), 192–204. (online-first Dec 2024, print Jan 2025; DOI 10.1016/j.neuron.2024.11.008)
+- **LOAD-BEARING fixes (bare "Neuron." refs completed with vol/pages 113(2):192–204)**:
+  - [stapp-quantum-mind](/concepts/stapp-quantum-mind/) (listed) — ref completed + in-text year normalized
+  - [attention-and-the-consciousness-interface](/topics/attention-and-the-consciousness-interface/) — ref completed (was bare) + in-text year
+  - [attention-as-interface](/concepts/attention-as-interface/) — ref completed (was bare) + in-text year
+  - [interface-threshold](/concepts/interface-threshold/) — ref completed (was bare)
+  - [asymmetric-bandwidth-consciousness-2026-03-02](/research/asymmetric-bandwidth-consciousness-2026-03-02/) — ref completed (was bare) + heading year
+  - [attention-as-causal-bridge](/apex/attention-as-causal-bridge/) — ref completed (was bare) + in-text year
+- **FABRICATED-VOLUME fixes (wrong "112(24)" → corrected to 113(2):192–204)**:
+  - [framework-stage-calibration](/project/framework-stage-calibration/) — ref vol/issue+pages corrected + in-text year
+  - [mqi-empirical-fragility](/project/mqi-empirical-fragility/) — ref vol/issue+pages corrected
+- **PROPAGATION ROOT**: [bandwidth-constraints-10-bits-2026-03-29](/research/bandwidth-constraints-10-bits-2026-03-29/) — key-source heading, Type line, executive-summary prose, historical-timeline row, citation, and article-angles note normalized to 2025 with online-first/print note. (Verbatim "Search queries used" log left as-is — it records the actual 2024-era search string, not a citation.)
+- **YEAR-NORMALIZATION (consistency only; ref already had vol/pages)**: [mental-effort](/concepts/mental-effort/) (listed; ref was already complete — only year), [temporal-consciousness](/concepts/temporal-consciousness/) in-text label, [the-interface-problem](/topics/the-interface-problem/) two in-text mentions, [interface-efficacy-and-the-cognitive-gap](/topics/interface-efficacy-and-the-cognitive-gap/) ref + in-text, [resolution-void](/voids/resolution-void/) in-text
+- **mental-effort note**: the listed task said it had a bare "Neuron." ref, but its ref was already complete with 113(2), 192-204; only the year needed normalizing.
+- **GREP beyond listed files**: yes — full corpus scan (topics/ concepts/ voids/ apex/ project/ research/, excluding workflow/ & reviews/). Caught 6 additional bare-Neuron refs and 2 fabricated-volume refs not in the task list.
+- **Scope discipline (out-of-scope, deliberately untouched)**: distinct co-located citations that are NOT the Zheng & Meister Neuron paper — "Meister, M. (2024). The physical limits of perception. *PNAS*, 121(14), e2400258121", "Meister et al. (2024). The bandwidth of human thought. Caltech study", and "Zheng et al. (2024). The speed of human thought. Caltech (via New Atlas)". In-text "(Meister 2024)" shorthands resolve to these distinct refs, so their year was preserved for in-text/ref-list consistency.
+- **Verification**: post-edit corpus grep confirms zero bare "Neuron." Zheng refs, zero fabricated volumes, zero residual "Zheng & Meister 2024" in-text/ref labels. All Zheng & Meister Neuron reference-list entries now read 2025, 113(2), 192–204.
+- **Published**: yes
+
+## 2026-05-28T00:00:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [consciousness-and-counterfactual-reasoning](/topics/consciousness-and-counterfactual-reasoning/)
+- **Word count**: 2615 → 2615 (0; metadata-digit fixes only, length-neutral)
+- **Critical issues addressed**: 1 (citation metadata error, fixed in 2 source files)
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Citation-currency pass**: web-verified all 8 external citations against primary sources. 1 defect found — Van Hoeck et al. fMRI study cited as "2015, SCAN 10(11), 1534-1543"; correct per Oxford Academic publisher record (DOI 10.1093/scan/nss031) is "2013, SCAN 8(5), 556-564". Wrong in 3 fields (year, volume/issue, pages). Survived the 2026-04-17 review which verified subject-matter but not metadata. Propagated to concept root [counterfactual-reasoning](/concepts/counterfactual-reasoning/) (divergent-metadata-across-corpus tell) — fixed all 3 instances there too. Protected a NON-defect: [baseline-cognition](/concepts/baseline-cognition/) cites a different genuine Van Hoeck paper (Watson & Barbey 2015, Frontiers Hum. Neurosci. 9:420) — correct, left untouched (same-field author-conflation trap avoided). Cowan 2001, Roese 1997, Suddendorf & Corballis 2007, Schacter & Addis 2007, Nagel 1974, Byrne 2005, Van Inwagen 1998 all verified clean.
+- **Reasoning-mode** (editor-internal): physicalist computational account = Mode Two (unsupported foundational move); predictive-processing account = Mode One (defective on its own terms). No label leakage in body.
+- **Output**: [deep-review-2026-05-28-consciousness-and-counterfactual-reasoning](/reviews/deep-review-2026-05-28-consciousness-and-counterfactual-reasoning/)
+
+## 2026-05-28T00:00:00+00:00 - refine-draft
+- **Status**: Success
+- **File**: [consciousness-and-intersubjectivity](/topics/consciousness-and-intersubjectivity/)
+- **Task**: topic-concept anchoring calibration (audit 2026-05-28) — clear flags against [theory-of-mind](/concepts/theory-of-mind/) (steep 7.61/kw hedge bar) and [problem-of-other-minds](/concepts/problem-of-other-minds/); strong_assertion_count → 0.
+- **Changes**:
+  - Recast all 3 strong-assertion verbs into honest non-assertive forms (force recast, not deleted): Trevarthen "research...shows that neonates respond" → "is read as evidence that...may exceed mere stimulus-response...though the interpretation remains contested"; "developmental evidence at minimum shows that" → "does at least suggest that"; the asymmetry "cannot feel your pain...demonstrates that consciousness comes in discrete units" → "suggests...though a defender of distributed phenomenality might read the boundary as an artefact of access".
+  - Added honest hedges ONLY at genuinely contestable points: the dualism "makes the puzzle sharper" Map-interpretation claim; the constitutive-enrichment "only intersubjective encounter activates these dimensions" claim (now framed as the Map's working hypothesis with the innate-vs-activated question explicitly left open — matches the article's own "What Would Challenge This View?" section); the asymmetry "matches the phenomenology" claims.
+  - Added an explicit underdetermination statement on the developmental evidence ("The evidence here underdetermines the constitutive question") — honest given the other-minds epistemic gap, not padding.
+  - Did NOT blanket-soften definitional/established statements; preserved the central thesis (intersubjectivity as phenomenologically constitutive/load-bearing under ontological individualism).
+- **Calibration (evaluate_anchoring, before → after)**: hedge_density 4.35 → 8.01/kw (clears steep ToM 7.61 bar); strong_assertion_count 3 → 0; underdetermination_marker_count 0 → 0 (the scanner's strict regex patterns did not match the natural-language underdetermination phrasing used, but the phrasing is honest and the hedge density was reached without them; the underdetermination check was not a failing check since both anchors have 0 markers). Article now returns [] (no flags) against both anchors.
+- **Length**: ~2760 → ~2872 words (near-neutral; +112 from honest hedge clauses).
+- **Published**: yes
+
+## 2026-05-28T22:33:06+00:00 - refine-draft
+- **Status**: Success
+- **File**: [incubation-effect-and-unconscious-processing](/topics/incubation-effect-and-unconscious-processing/)
+- **Task**: topic-concept anchoring calibration (audit 2026-05-28) — clear flags against [global-workspace-theory](/concepts/global-workspace-theory/) and [mental-effort](/concepts/mental-effort/)
+- **Changes**:
+  - Recast 2 strong-assertion verbs into honest non-assertive forms (no force-deletion): "the dream evidence...shows that phenomenal mode matters" → "suggests that phenomenal mode may matter...suggestive rather than decisive"; "the phenomenology of insight confirms this" → "seems to fit this picture...plausibly requires".
+  - Added genuine underdetermination markers where the mechanism is honestly debated (spreading-activation vs selective-forgetting vs fixation-release): "the behavioural data may be underdetermined by the evidence as to which dominates" and "the difficulties below do not adjudicate that internal dispute". Underdetermination is honest here, not padding.
+  - Added conditional hedges on the DMN mechanistic claims (causation-vs-correlation directionality left open) where the mechanism is unsettled.
+  - Core thesis preserved (incubation depends on prior conscious engagement); no weakening of central claim; length-neutral (2638 → 2747 words).
+- **Calibration before → after**: hedge_density 3.41 → 6.19/kw (clears GWT 6.09 bar with margin); strong_assertion_count 2 → 0; underdetermination_marker_count 0 → 1.
+- **Verification**: re-ran tools.curate.anchoring.evaluate_anchoring against obsidian/ — ZERO flags for both global-workspace-theory and mental-effort.
+- **Published**: yes
 
 ## 2026-05-28T00:00:00+00:00 - deep-review
 - **Status**: Success (near-no-op; verification pass)

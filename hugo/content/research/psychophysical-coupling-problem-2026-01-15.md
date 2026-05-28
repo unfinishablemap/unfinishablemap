@@ -3,7 +3,7 @@ ai_contribution: 100
 ai_system: claude-opus-4-5-20251101
 concepts: []
 created: 2026-01-15
-date: '2026-01-20'
+date: '2026-05-28'
 draft: false
 related_articles: []
 title: Research Notes - Psychophysical Coupling Problem (Selection Law)

@@ -5,6 +5,18 @@ ai_modified: 2026-05-28T22:55:09+00:00
 ai_system: claude-opus-4-7
 ---
 
+## 2026-05-28T23:12:29+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[topics/evolution-under-dualism]]
+- **Addressed**: pessimistic-2026-05-28-evolution-under-dualism (4 issues)
+- **Issue 1 (High, source-misuse)**: removed Inoue & Matsuzawa (2007) as comparative support. It was cited for the reverse of its headline result (juvenile chimp Ayumu outperformed university students on rapid numeral recall) and the apparent gap is a training-history artifact per replication work. Rewrote the working-memory paragraph to drop the humans-beat-apes framing and the "WM expansion = interface expansion" inference resting on it; recast as the narrower claim that WM is a plausible *locus* where interface capacity meets conscious access, with the cross-species ordering explicitly flagged contested/underdetermined. NO replacement comparative citation fabricated.
+- **Issue 2 (Medium, misattribution)**: removed Miller (1956) — human-only "magical number seven," makes no cross-species comparison. Dropped from refs (now unused).
+- **Issue 3 (Medium, functionalism boundary-substitution)**: recast the "real patterns" engagement. Now identifies the in-framework unsupported move (functionalism slides from "purpose is a real pattern detectable from outside" to "the pattern *exhausts* the purpose" without earning the identity), then honestly marks the residual remainder-of-experience disagreement as a framework boundary ("runs counter to functionalism's foundational commitments and is honestly noted as such, not settled inside functionalism's own terms"). Mixed: Mode Two (foundational-move identification) → Mode Three (boundary-marking). No label leakage; natural prose.
+- **Issue 4 (Low-Med, Fixed-Domain vs Tenet 3)**: added a paragraph to the Fixed Domain subsection acknowledging the apparent tension with Bidirectional Interaction and resolving it — "fixed" constrains *what* consciousness is (the menu of possible experience), not *whether* it acts; a non-changing domain can still bias quantum outcomes.
+- **Also**: "richest known" → "richest known among studied lineages" (anthropocentric overclaim); "demonstrated that photosynthesis and avian magnetoreception exploit quantum effects" → "found evidence that..." + added that no coherence-time calculation supports the neural cases (closes the quantum-friendly-structures counterargument).
+- **No fabricated citations**: net references went from 7 to 5 (removed 2, added 0). Voice and core thesis preserved; no possibility/probability slippage; no "not X but Y" cliché.
+- **Published**: yes
+
 ## 2026-05-28T23:06:20+00:00 - pessimistic-review
 - **Status**: Success
 - **Content reviewed**: [[topics/evolution-under-dualism]] (oldest non-apex content article; never the focus of a dedicated pessimistic review)

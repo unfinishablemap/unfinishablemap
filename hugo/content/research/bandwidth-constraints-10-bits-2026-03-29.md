@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-29
-ai_modified: 2026-05-28 21:33:26+00:00
+ai_modified: 2026-05-28 22:55:09+00:00
 ai_system: claude-opus-4-6
 author: Andy Southgate
 concepts:
@@ -29,7 +29,7 @@ topics:
 
 ## Executive Summary
 
-The claim that conscious processing operates at approximately 10 bits per second rests on nearly a century of converging empirical measurements across radically different tasks — from Hick's 1952 choice reaction experiments (~5 bits/s) through memory sports (~18 bits/s at peak) to professional e-sports (~10 bits/s). Zheng and Meister's 2024 Neuron paper synthesised these measurements into a unified claim: human behavioural throughput is bounded at ~10 bits/s regardless of domain. The figure is grounded in Shannon information theory applied to observable behaviour, not introspection. A 2025 Nature Neuroscience critique (Sauerbrei & Pruszynski) accepts the cognitive ceiling but argues it excludes unconscious motor control, which substantially exceeds 10 bits/s. This distinction — conscious throughput versus total neural throughput — is precisely what makes the figure relevant to dualist frameworks: the bottleneck exists at the conscious interface, not in the neural hardware.
+The claim that conscious processing operates at approximately 10 bits per second rests on nearly a century of converging empirical measurements across radically different tasks — from Hick's 1952 choice reaction experiments (~5 bits/s) through memory sports (~18 bits/s at peak) to professional e-sports (~10 bits/s). Zheng and Meister's 2025 Neuron paper synthesised these measurements into a unified claim: human behavioural throughput is bounded at ~10 bits/s regardless of domain. The figure is grounded in Shannon information theory applied to observable behaviour, not introspection. A 2025 Nature Neuroscience critique (Sauerbrei & Pruszynski) accepts the cognitive ceiling but argues it excludes unconscious motor control, which substantially exceeds 10 bits/s. This distinction — conscious throughput versus total neural throughput — is precisely what makes the figure relevant to dualist frameworks: the bottleneck exists at the conscious interface, not in the neural hardware.
 
 ## Key Sources
 
@@ -97,9 +97,9 @@ The claim that conscious processing operates at approximately 10 bits per second
 - **Tenet alignment**: Partially supports the bandwidth constraint thesis but at a higher rate (~39 bits/s) than the ~10 bits/s figure. The discrepancy may reflect that speech involves both conscious content selection (~10 bits/s) and well-practised motor execution that leverages unconscious processing — consistent with Sauerbrei & Pruszynski's critique
 - **Note for article**: The 39 bits/s figure measures the *information content of the speech signal*, not the speaker's conscious decision-making rate. A fluent speaker doesn't consciously select each phoneme; much of speech production is automated. The ~10 bits/s figure measures the rate at which novel decisions enter the stream.
 
-### Zheng & Meister (2024) — "The Unbearable Slowness of Being"
+### Zheng & Meister (2025) — "The Unbearable Slowness of Being"
 - **URL**: https://www.cell.com/neuron/fulltext/S0896-6273(24)00808-0
-- **Type**: Perspective article (Neuron, Volume 113, Issue 2, pp. 192-204)
+- **Type**: Perspective article (*Neuron*, 113(2), 192–204; online-first Dec 2024, print Jan 2025; DOI 10.1016/j.neuron.2024.11.008)
 - **Key points**:
   - Not a new experiment but a synthesis of existing measurements across domains
   - Applied Shannon information theory consistently to diverse behavioural tasks
@@ -226,14 +226,14 @@ The ~10 bits/s figure measures the throughput of the conscious bottleneck itself
 | 1998 | Nørretranders, "The User Illusion" | Popularised the ~16 bits/s conscious bandwidth figure and the 10⁶-fold disparity with sensory input |
 | 2016 | Wu et al., cognitive control capacity | Estimated cognitive control at ~3-4 bits/s — even lower than perceptual decision-making |
 | 2019 | Coupé et al., universal speech information rate | Showed all human languages converge on ~39 bits/s transmission rate — a cognitive constraint on language |
-| 2024 | Zheng & Meister, "The Unbearable Slowness of Being" | Landmark synthesis: ~10 bits/s universal across all conscious tasks; 10⁸-fold sifting ratio; inner/outer brain framework |
+| 2025 | Zheng & Meister, "The Unbearable Slowness of Being" | Landmark synthesis: ~10 bits/s universal across all conscious tasks; 10⁸-fold sifting ratio; inner/outer brain framework (online-first Dec 2024, *Neuron* print Jan 2025) |
 | 2025 | Sauerbrei & Pruszynski, "The Brain Works at More Than 10 Bits Per Second" | Major critique accepting cognitive ceiling but arguing unconscious motor control exceeds it |
 
 ## Potential Article Angles
 
 Based on this research and the existing asymmetric bandwidth notes, an article could:
 
-1. **"Grounding the 10 Bits/Second Ceiling"** — A technically grounded piece that walks through the empirical evidence from Hick (1952) to Zheng & Meister (2024), showing how the ~10 bits/s figure was established, how it's measured, and why the Sauerbrei & Pruszynski critique actually strengthens the case for a conscious interface bottleneck. Front-load the information-theoretic methodology so readers (and LLMs) understand what "bits per second" means in this context. Connect to Dualism (the ceiling is unexplained by neural hardware alone) and Minimal Quantum Interaction (the narrow interface prediction).
+1. **"Grounding the 10 Bits/Second Ceiling"** — A technically grounded piece that walks through the empirical evidence from Hick (1952) to Zheng & Meister (2025), showing how the ~10 bits/s figure was established, how it's measured, and why the Sauerbrei & Pruszynski critique actually strengthens the case for a conscious interface bottleneck. Front-load the information-theoretic methodology so readers (and LLMs) understand what "bits per second" means in this context. Connect to Dualism (the ceiling is unexplained by neural hardware alone) and Minimal Quantum Interaction (the narrow interface prediction).
 
 2. **"The Largest Unexplained Number in Brain Science"** — Use Zheng & Meister's phrase as a hook. Why is the number ~10 and not ~100 or ~1? Walk through the candidate explanations (evolutionary legacy, oscillation frequencies, metabolic cost) and argue that interactionist dualism offers a natural framework: the number reflects the bandwidth of the mind-matter interface, not a limitation of neural computation. The Sauerbrei & Pruszynski critique is the key supporting evidence — the neural hardware is not the bottleneck.
 
@@ -263,5 +263,5 @@ When writing the article, follow `obsidian/project/writing-style.md` for:
 - Nørretranders, T. (1998). *The User Illusion: Cutting Consciousness Down to Size*. Viking Press.
 - Pierce, J.R. & Karlin, J.E. (1957). Reading rates and the information rate of a human channel. *Bell System Technical Journal*, 36(2), 497-516.
 - Sauerbrei, B.A. & Pruszynski, J.A. (2025). The brain works at more than 10 bits per second. *Nature Neuroscience*. https://www.nature.com/articles/s41593-025-01997-0
-- Zheng, J. & Meister, M. (2024). The unbearable slowness of being: Why do we live at 10 bits/s? *Neuron*, 113(2), 192-204. https://www.cell.com/neuron/fulltext/S0896-6273(24)00808-0
+- Zheng, J. & Meister, M. (2025). The unbearable slowness of being: Why do we live at 10 bits/s? *Neuron*, 113(2), 192–204. https://www.cell.com/neuron/fulltext/S0896-6273(24)00808-0
 - Zimmermann, M. (1986). Neurophysiology of sensory systems. In R.F. Schmidt (Ed.), *Fundamentals of Sensory Physiology*. Springer.

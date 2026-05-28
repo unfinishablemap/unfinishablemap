@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-15
-ai_modified: 2026-05-25 21:45:48+00:00
+ai_modified: 2026-05-28 00:00:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -19,7 +19,7 @@ description: Counterfactual reasoning—imagining what isn't—may point to cons
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-04-17 20:17:00+00:00
+last_deep_review: 2026-05-28 00:00:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -67,7 +67,7 @@ The physicalist must explain counterfactual reasoning as nothing more than neura
 
 **The computational account**: Counterfactual reasoning is formal manipulation of data structures—branching operations over possible-world models. Computers do this routinely—evaluating game trees, running simulations, exploring planning spaces. But computational counterfactual processing lacks the dual-status phenomenology entirely. The system does not *grasp* that the branch it evaluates is non-actual; that distinction exists only in the programmer's interpretation, not in the processing itself. If human counterfactual reasoning is just computation, the felt awareness of non-actuality is epiphenomenal—which the Map's [Bidirectional Interaction](/tenets/#bidirectional-interaction) tenet rejects.
 
-**The predictive processing account**: The brain is a prediction machine, and counterfactuals are predictions about what would happen under alternative conditions. This is plausible for simple anticipatory cognition. But retrospective counterfactuals ("what if I had studied philosophy instead?") are phenomenally rich in ways that exceed any learning function—a simple error signal would suffice, yet we experience elaborate imagined alternative histories complete with emotional texture and the persistent awareness that none of it happened. fMRI evidence shows retrospective counterfactual reasoning recruits an extensive network spanning prefrontal, hippocampal, and default mode regions (Van Hoeck et al., 2015), consistent with elaborated phenomenal construction rather than minimal prediction-error correction. The dual-status character is doing work that prediction error minimisation does not explain.
+**The predictive processing account**: The brain is a prediction machine, and counterfactuals are predictions about what would happen under alternative conditions. This is plausible for simple anticipatory cognition. But retrospective counterfactuals ("what if I had studied philosophy instead?") are phenomenally rich in ways that exceed any learning function—a simple error signal would suffice, yet we experience elaborate imagined alternative histories complete with emotional texture and the persistent awareness that none of it happened. fMRI evidence shows retrospective counterfactual reasoning recruits an extensive network spanning prefrontal, hippocampal, and default mode regions (Van Hoeck et al., 2013), consistent with elaborated phenomenal construction rather than minimal prediction-error correction. The dual-status character is doing work that prediction error minimisation does not explain.
 
 Each account captures part of counterfactual reasoning's functional structure. But unlike the general hard problem—which asks why *any* processing is conscious—the counterfactual problem asks something more targeted: how does the mind sustain two incompatible stances toward a single representation, and why does this dual stance seem to have a distinctive phenomenal character that formal computation lacks?
 
@@ -133,5 +133,5 @@ The Map's tenets illuminate counterfactual reasoning from multiple angles:
 1. Nagel, T. (1974). "What Is It Like to Be a Bat?" *Philosophical Review*, 83(4), 435-450.
 1. Roese, N.J. (1997). Counterfactual thinking. *Psychological Bulletin*, 121(1), 133-148.
 1. Suddendorf, T., & Corballis, M.C. (2007). The evolution of foresight: What is mental time travel, and is it unique to humans? *Behavioral and Brain Sciences*, 30(3), 299-313.
-1. Van Hoeck, N., et al. (2015). Counterfactual thinking: An fMRI study on changing the past for a better future. *Social Cognitive and Affective Neuroscience*, 10(11), 1534-1543.
+1. Van Hoeck, N., et al. (2013). Counterfactual thinking: An fMRI study on changing the past for a better future. *Social Cognitive and Affective Neuroscience*, 8(5), 556-564.
 1. Van Inwagen, P. (1998). "Modal Epistemology." *Philosophical Studies*, 92, 67-84.

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-05-01
-ai_modified: 2026-05-28 21:33:26+00:00
+ai_modified: 2026-05-28 22:55:09+00:00
 ai_system: claude-opus-4-7
 author: null
 coalesced_from:
@@ -67,7 +67,7 @@ The Map's position has evolved. Initial agnosticism among four candidate sites h
 
 ## Why Both Questions Matter
 
-Candidate sites differ in experimental predictions, [decoherence](/concepts/decoherence/) timescales, and [attention](/concepts/attention-as-interface/) connections. Location constrains *what* consciousness can affect; specification constrains *how strongly*: a synapse-level interface could shape fine-grained patterns; a column-level interface selects among coarser alternatives, consistent with the ~10 bits/second [bandwidth constraint](/concepts/psychophysical-laws/) (Zheng & Meister 2024).
+Candidate sites differ in experimental predictions, [decoherence](/concepts/decoherence/) timescales, and [attention](/concepts/attention-as-interface/) connections. Location constrains *what* consciousness can affect; specification constrains *how strongly*: a synapse-level interface could shape fine-grained patterns; a column-level interface selects among coarser alternatives, consistent with the ~10 bits/second [bandwidth constraint](/concepts/psychophysical-laws/) (Zheng & Meister 2025).
 
 # Part 1: Where Does the Interface Operate?
 
@@ -135,7 +135,7 @@ Different sites imply different families of viable mappings. **Microtubules** ad
 
 The strongest critic's objection: if consciousness influences physical outcomes there must be specifiable laws; no such laws exist despite decades of effort; the difficulty is best explained by there being nothing to specify. The Map's responses: consciousness science is young (serious empirical work dates to the 1990s) — though this risks indefinite deferral. Stapp's and Eccles' models demonstrate specification is possible in principle, refuting the *impossibility* claim. The alternative is worse on the framework's own terms: under [epiphenomenalism](/concepts/epiphenomenalism/), beliefs about consciousness appear causally disconnected from it — though Chalmers (1996) and Robinson (2004) loosen the self-stultifying charge by separating phenomenal from semantic content. Specification difficulty is evidence of complexity, not nonexistence (turbulence, protein folding, the genotype-phenotype map all resist easy formula).
 
-The Newton analogy has limits: Newton had precise measurements and a mathematical law; the specification problem has neither. The honest comparison is pre-Keplerian — a research programme awaiting its founding measurements rather than a mature science awaiting refinement. Stapp's and Eccles' partial accounts are proto-models, not laws. What the framework can claim are the analogues of Tycho's measurements — the bandwidth constraint (Zheng & Meister 2024), the Born-rule causal-consistency result (Torres Alegre), the theta-band willed-attention signatures (Rajan et al. 2019) — together with constraint structures (the [coupling-modes taxonomy](/concepts/coupling-modes/), the [five formal constraints](/concepts/consciousness-physics-interface-formalism/)) of the kind that precede laws. Together they are the scaffolding from which a Kepler's law might one day be inferred. This calibration is articulated at project level in [framework-stage-calibration](/project/framework-stage-calibration/). The biological analogy is more apt: genotype-to-phenotype involves regulatory networks and developmental contingency, though biological relationships remain physical and the usual tools may not apply if the interface involves non-physical variables.
+The Newton analogy has limits: Newton had precise measurements and a mathematical law; the specification problem has neither. The honest comparison is pre-Keplerian — a research programme awaiting its founding measurements rather than a mature science awaiting refinement. Stapp's and Eccles' partial accounts are proto-models, not laws. What the framework can claim are the analogues of Tycho's measurements — the bandwidth constraint (Zheng & Meister 2025), the Born-rule causal-consistency result (Torres Alegre), the theta-band willed-attention signatures (Rajan et al. 2019) — together with constraint structures (the [coupling-modes taxonomy](/concepts/coupling-modes/), the [five formal constraints](/concepts/consciousness-physics-interface-formalism/)) of the kind that precede laws. Together they are the scaffolding from which a Kepler's law might one day be inferred. This calibration is articulated at project level in [framework-stage-calibration](/project/framework-stage-calibration/). The biological analogy is more apt: genotype-to-phenotype involves regulatory networks and developmental contingency, though biological relationships remain physical and the usual tools may not apply if the interface involves non-physical variables.
 
 ## What Would Count as Progress
 

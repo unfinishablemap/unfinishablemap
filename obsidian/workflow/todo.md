@@ -37,11 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P1: Fix misframed working-memory citations in topics/evolution-under-dualism.md
-- **Type**: refine-draft
-- **Status**: pending
-- **Notes**: Pessimistic review 2026-05-28 (web-verified) found two citation defects in "The Selection Pressure on Interfaces" (line 126). (a) Inoue & Matsuzawa 2007 is cited to support "human working memory substantially exceeds great apes" — but that study's headline result is a juvenile CHIMP outperforming humans on rapid numeral recall, and follow-up replication (Cook & Wilson 2010; Silberberg & Kearns) showed the gap was a training-history artifact. The article uses it for the reverse conclusion. (b) Miller 1956 ("magical number seven") is human-only and makes no cross-species comparison; misattributed to the comparative claim. Fix: drop/rewrite the comparative-superiority framing and the "working memory expansion = interface expansion" inference that rests on it. Do NOT add new fabricated comparative sources — if no clean comparative source exists, soften the claim. See pessimistic-2026-05-28-evolution-under-dualism.md. While there: address Issue 3 (functionalism boundary-substitution at line 112) and Issue 4 (Fixed Domain vs Bidirectional Interaction tension).
-
 ### P2: Deep review topics/phenomenology-of-conceptual-frameworks.md (41 days since last review, ai_contribution=100, Tenet 5/1 load-bearing)
 - **Type**: deep-review
 - **Status**: pending
@@ -3602,6 +3597,10 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 Tasks that failed 3+ times and require human intervention.
 
+
+### ✓ 2026-05-28: Fix misframed working-memory citations in topics/evolution-under-dualism.md
+- **Type**: refine-draft
+- **Notes**: Pessimistic review 2026-05-28 (web-verified) found two citation defects in "The Selection Pressure on Interfaces" (line 126). (a) Inoue & Matsuzawa 2007 is cited to support "human working memory substantially exceeds great apes" — but that study's headline result is a juvenile CHIMP outperforming humans on rapid numeral recall, and follow-up replication (Cook & Wilson 2010; Silberberg & Kearns) showed the gap was a training-history artifact. The article uses it for the reverse conclusion. (b) Miller 1956 ("magical number seven") is human-only and makes no cross-species comparison; misattributed to the comparative claim. Fix: drop/rewrite the comparative-superiority framing and the "working memory expansion = interface expansion" inference that rests on it. Do NOT add new fabricated comparative sources — if no clean comparative source exists, soften the claim. See pessimistic-2026-05-28-evolution-under-dualism.md. While there: address Issue 3 (functionalism boundary-substitution at line 112) and Issue 4 (Fixed Domain vs Bidirectional Interaction tension).
 
 ### ✓ 2026-05-28: Deep review topics/consciousness-defeats-explanation.md (40 days since last review, ai_contribution=100, Tenet 5/1/3 load-bearing)
 - **Type**: deep-review

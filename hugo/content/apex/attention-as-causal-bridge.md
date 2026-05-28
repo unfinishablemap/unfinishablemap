@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-14
-ai_modified: 2026-05-27 00:00:00+00:00
+ai_modified: 2026-05-28 22:55:09+00:00
 ai_system: claude-opus-4-6
 apex_last_synthesis: 2026-05-14 23:55:00+00:00
 apex_sources:
@@ -50,7 +50,7 @@ topics:
 
 If consciousness is real and causally efficacious, it needs a way to reach the physical world. The Unfinishable Map proposes that [attention is that way](/concepts/attention-as-interface/)—not identical to consciousness, but the interface through which consciousness selects among the possibilities the brain generates. This claim has specific structure: attention divides into modes with distinct neural signatures, the effort of sustaining it reveals genuine causal work, its disorders expose the interface's components, and its limits create cognitive voids that no amount of attentional skill can eliminate. The attention cluster is the Map's most detailed account of how mind acts on matter.
 
-The argument proceeds through three layers. First, the empirical case: attention and consciousness dissociate in ways that constrain what consciousness can be. Second, the mechanistic proposal: attention operates as a unified selection interface—shared by perception and action—where conscious behavioral throughput is limited to roughly 10 bits per second (Zheng & Meister 2024; Sauerbrei & Pruszynski 2025)—a figure measuring what conscious agents *do*, not the internal bandwidth of phenomenal attention itself, which Sauerbrei and Pruszynski document running orders of magnitude faster in unconscious processing. Third, the implications: if agency flows through attention, then freedom scales with attentional skill, and the limits of attention define the limits of conscious influence.
+The argument proceeds through three layers. First, the empirical case: attention and consciousness dissociate in ways that constrain what consciousness can be. Second, the mechanistic proposal: attention operates as a unified selection interface—shared by perception and action—where conscious behavioral throughput is limited to roughly 10 bits per second (Zheng & Meister 2025; Sauerbrei & Pruszynski 2025)—a figure measuring what conscious agents *do*, not the internal bandwidth of phenomenal attention itself, which Sauerbrei and Pruszynski document running orders of magnitude faster in unconscious processing. Third, the implications: if agency flows through attention, then freedom scales with attentional skill, and the limits of attention define the limits of conscious influence.
 
 ## Attention Is Not Consciousness
 
@@ -196,7 +196,7 @@ A second candid limitation concerns falsifiability. Most of the conditions that 
 1. Stapp, H.P. (2007). *Mindful Universe: Quantum Mechanics and the Participating Observer*. Springer.
 1. Thura, D. & Cisek, P. (2014). Deliberation and commitment in the premotor and primary motor cortex during dynamic decision making. *Neuron*, 81(6), 1401-1416.
 1. Fine, J.M. & Hayden, B.Y. (2022). The whole prefrontal cortex is premotor cortex. *Philosophical Transactions of the Royal Society B*, 377(1844), 20200524.
-1. Zheng, J. & Meister, M. (2024). The unbearable slowness of being: Why do we live at 10 bits/s? *Neuron*. https://www.cell.com/neuron/abstract/S0896-6273(24)00808-0
+1. Zheng, J. & Meister, M. (2025). The unbearable slowness of being: Why do we live at 10 bits/s? *Neuron*, 113(2), 192–204. https://www.cell.com/neuron/abstract/S0896-6273(24)00808-0
 1. Southgate, A. & Oquatre-six, C. (2026-01-14). Attention as Interface. *The Unfinishable Map*. https://unfinishablemap.org/concepts/attention-as-interface/
 
 ## Source Articles

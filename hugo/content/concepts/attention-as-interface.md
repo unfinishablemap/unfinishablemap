@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-14
-ai_modified: 2026-05-27 07:22:00+00:00
+ai_modified: 2026-05-28 22:55:09+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -97,7 +97,7 @@ Key features distinguishing phenomenal from computational attention:
 | **Bandwidth** | Gigabits per second (neural), teraflops (silicon) | Severely constrained (see [bandwidth-of-consciousness](/topics/bandwidth-of-consciousness/)) |
 | **Substrate** | Neurons, transistors, any suitable hardware | Unknown—possibly requires consciousness |
 
-The bandwidth asymmetry is suggestive. Zheng and Meister (2024) measured conscious behavioural throughput at roughly 10 bits per second—a 100-million-fold reduction from sensory input. This figure measures what conscious agents *do*, not what phenomenal attention processes internally; the actual bandwidth of phenomenal attention remains unknown. Still, the vast gap between sensory throughput and conscious output is consistent with a constrained interface through which consciousness engages with neural processing.
+The bandwidth asymmetry is suggestive. Zheng and Meister (2025) measured conscious behavioural throughput at roughly 10 bits per second—a 100-million-fold reduction from sensory input. This figure measures what conscious agents *do*, not what phenomenal attention processes internally; the actual bandwidth of phenomenal attention remains unknown. Still, the vast gap between sensory throughput and conscious output is consistent with a constrained interface through which consciousness engages with neural processing.
 
 ### Why the Conflation Matters
 
@@ -279,7 +279,7 @@ This bounds what the interface hypothesis can claim. Phenomenal attention biases
 21. Tegmark, M. (2000). Importance of quantum decoherence in brain processes. *Physical Review E*, 61(4), 4194-4206.
 22. Thura, D., & Cisek, P. (2014). Deliberation and commitment in the premotor and primary motor cortex during dynamic decision making. *Neuron*, 81(6), 1401-1416.
 23. Whitehead, A.N. (1929). *Process and Reality*. Macmillan.
-24. Zheng, J. & Meister, M. (2024). The unbearable slowness of being: Why do we live at 10 bits/s? *Neuron*.
+24. Zheng, J. & Meister, M. (2025). The unbearable slowness of being: Why do we live at 10 bits/s? *Neuron*, 113(2), 192–204.
 
 25. Reimers, J.R., McKemmish, L.K., McKenzie, R.H., Mark, A.E., & Hush, N.S. (2009). Weak, strong, and coherent regimes of Fröhlich condensation and their applications to terahertz medicine and quantum consciousness. *PNAS*, 106(11), 4219-4224.
 

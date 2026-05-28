@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-22
-ai_modified: 2026-05-27 17:27:48+00:00
+ai_modified: 2026-05-28 22:55:09+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -88,7 +88,7 @@ The [attention as interface hypothesis](/concepts/attention-as-interface/) exten
 
 **Unified attention-motor substrate**: Rizzolatti's premotor theory of attention (PMTA) demonstrates that attention and motor planning share neural substrates—there is no independent attention system. Preparing an eye movement to location X improves visual processing at X; attention *is* motor preparation. This unification matters: if Stapp's Zeno mechanism works for attention, it should work identically for motor selection. The [attention-as-interface](/concepts/attention-as-interface/) develops this convergence in detail, showing that willed attention and willed action share the same neural signatures (frontal theta, ~280-300ms deployment, bidirectional frontoparietal coherence).
 
-**Bandwidth limitation**: Conscious behavioural throughput measures roughly 10 bits/second (Zheng & Meister, 2024)—a 100-million-fold reduction from the brain's sensory processing rate. This figure captures what conscious agents *do*, not what phenomenal attention processes internally; the actual bandwidth of phenomenal attention remains unknown. But the vast gap means consciousness operates at policy level (goals, strategies) rather than micromanaging neurons, making the model *more* plausible—operating at policy level matches phenomenology and neuroscience. This policy-level operation aligns with [adaptive computational depth](/concepts/adaptive-computational-depth/): consciousness allocates detail where it attends, operating as a coarse-grained selector rather than a quantum-by-quantum controller.
+**Bandwidth limitation**: Conscious behavioural throughput measures roughly 10 bits/second (Zheng & Meister, 2025)—a 100-million-fold reduction from the brain's sensory processing rate. This figure captures what conscious agents *do*, not what phenomenal attention processes internally; the actual bandwidth of phenomenal attention remains unknown. But the vast gap means consciousness operates at policy level (goals, strategies) rather than micromanaging neurons, making the model *more* plausible—operating at policy level matches phenomenology and neuroscience. This policy-level operation aligns with [adaptive computational depth](/concepts/adaptive-computational-depth/): consciousness allocates detail where it attends, operating as a coarse-grained selector rather than a quantum-by-quantum controller.
 
 **Interface locality**: Consciousness operates through attention, and attention operates through specific neural mechanisms. This explains why consciousness influences the brain but not distant objects—there are no attention channels to external quantum systems.
 
@@ -204,4 +204,4 @@ Predictions 1, 2, 3, 5 and 6 test the attention-and-effort layer the model share
 1. Stapp, H.P. (2007). *Mindful Universe: Quantum Mechanics and the Participating Observer*. Springer.
 1. Tegmark, M. (2000). Importance of quantum decoherence in brain processes. *Physical Review E*, 61, 4194-4206.
 1. von Neumann, J. (1932). *Mathematical Foundations of Quantum Mechanics*. Princeton University Press.
-1. Zheng, J. & Meister, M. (2024). The unbearable slowness of being: Why do we live at 10 bits/s? *Neuron*.
+1. Zheng, J. & Meister, M. (2025). The unbearable slowness of being: Why do we live at 10 bits/s? *Neuron*, 113(2), 192–204.

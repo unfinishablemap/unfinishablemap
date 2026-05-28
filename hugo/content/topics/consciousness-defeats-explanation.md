@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-26
-ai_modified: 2026-04-18 14:09:00+00:00
+ai_modified: 2026-05-28 23:02:49+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -27,7 +27,7 @@ description: Six major models of explanation all fail for consciousness—not as
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-04-18 12:47:00+00:00
+last_deep_review: 2026-05-28 23:02:49+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -137,7 +137,7 @@ The structural skeleton of explanation is reproducible; the experiential flesh i
 
 ## What the Systematic Failure Reveals
 
-The pattern matters more than any individual breakdown. Every model of explanation fails. Every theoretical virtue malfunctions. Every precondition for convergence is absent. This is not one or two tools needing sharpening — it is the entire methodological apparatus collapsing.
+The pattern matters more than any individual breakdown. Every model of explanation fails. Every theoretical virtue malfunctions. Every precondition for convergence is absent. The breakdown is not localised to one or two tools needing sharpening; the entire methodological apparatus collapses at once.
 
 Three interpretations present themselves. The first: consciousness is harder than other problems, and the tools will eventually engage. The second: consciousness is a different *kind* of problem — one that tools calibrated for physical theories cannot adjudicate. The third, associated with [mysterian](/concepts/mysterianism/) philosophers, is that human cognitive architecture lacks the conceptual resources to solve the mind-body problem. The [closure-types distinction](/voids/closure-types-void/) sharpens the third reading: the failure could reflect *representational* closure (our concept-forming procedures cannot frame a true theory) or *psychological* closure (the concepts are reachable but cannot be assembled). From within, the two are indistinguishable — and the pattern of failure documented above is compatible with either.
 

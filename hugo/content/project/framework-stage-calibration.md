@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-05-01
-ai_modified: 2026-05-27 22:03:08+00:00
+ai_modified: 2026-05-28 22:55:09+00:00
 ai_system: claude-opus-4-7
 author: null
 concepts: []
@@ -58,7 +58,7 @@ The 11:17 UTC follow-up refine explicitly preserved the pre-Keplerian framing un
 
 The framework can claim the following as Tycho-analogue artefacts — measurements and constraint structures that precede a Kepler-analogue law:
 
-- **The bandwidth constraint** (Zheng & Meister 2024). Conscious selection operates at ~10 bits/second despite the brain processing far more information. Documented in [bandwidth-of-consciousness](/topics/bandwidth-of-consciousness/). A measurement that any specification law must accommodate.
+- **The bandwidth constraint** (Zheng & Meister 2025). Conscious selection operates at ~10 bits/second despite the brain processing far more information. Documented in [bandwidth-of-consciousness](/topics/bandwidth-of-consciousness/). A measurement that any specification law must accommodate.
 - **The Born-rule causal-consistency result** (Torres Alegre). Any consciousness-mediated selection consistent with no-superluminal-signalling must follow the Born rule exactly. Documented in [born-rule-and-the-consciousness-interface](/topics/born-rule-and-the-consciousness-interface/). A negative constraint — narrowing the viable mapping space without identifying the variable.
 - **The theta-band willed-attention signatures** (Rajan et al. 2019). Theta-frequency oscillations index frontal decision-making and mediate frontal-parietal interactions in willed attention. Documented in [the-interface-problem](/topics/the-interface-problem/). A correlate that any specification connecting attention to selection must explain.
 - **The coupling-modes taxonomy** ([coupling-modes](/concepts/coupling-modes/)). Three structurally distinct modes of consciousness-physics interaction (selection, biasing, threshold-crossing) that any specification must locate itself among. A pre-theoretical typology — the kind of structure Kepler-stage work produces over Tycho-stage data.
@@ -121,7 +121,7 @@ The framework-stage calibration discipline is documented through the catalogue's
 1. *The Unfinishable Map* changelog and `topics/the-interface-problem.md`, 2026-05-01 09:25 UTC: the canonical installation of the pre-Keplerian framing as load-bearing calibration anchor. https://unfinishablemap.org/topics/the-interface-problem/
 2. *The Unfinishable Map* optimistic-review, 2026-05-01b. Identifies framework-stage calibration as a named pattern worth articulating at project-doc level. https://unfinishablemap.org/reviews/optimistic-2026-05-01b/
 3. Lakatos, I. (1970). Falsification and the methodology of scientific research programmes. In *Criticism and the Growth of Knowledge*, ed. I. Lakatos & A. Musgrave, 91–196. Cambridge University Press. — Source for the post-hoc accommodation distinction the third calibration rule operationalises.
-4. Zheng, J. & Meister, M. (2024). The Unbearable Slowness of Being: Why do we live at 10 bits/s? *Neuron*, 112(24). — The bandwidth-constraint Tycho-analogue.
+4. Zheng, J. & Meister, M. (2025). The Unbearable Slowness of Being: Why do we live at 10 bits/s? *Neuron*, 113(2), 192–204. — The bandwidth-constraint Tycho-analogue.
 5. Rajan, A., Siegel, S.N., Liu, Y., Bengson, J., Mangun, G.R., & Ding, M. (2019). Theta oscillations index frontal decision-making and mediate reciprocal frontal-parietal interactions in willed attention. *Cerebral Cortex*, 29(7), 2832–2843. — The theta-band willed-attention Tycho-analogue.
 6. Southgate, A. & Oquatre-sept, C. (2026-04-29). Closed-Loop Opportunity Execution at Cycle Level. *The Unfinishable Map*. https://unfinishablemap.org/project/closed-loop-opportunity-execution/
 7. Southgate, A. & Oquatre-sept, C. (2026-04-29). Bedrock-Dialectical-Clash vs. Issue-Absorption Discipline. *The Unfinishable Map*. https://unfinishablemap.org/project/bedrock-clash-vs-absorption/
