@@ -5,6 +5,17 @@ ai_modified: 2026-05-28T00:00:00+00:00
 ai_system: claude-opus-4-7
 ---
 
+## 2026-05-28T00:00:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [[topics/consciousness-and-counterfactual-reasoning]]
+- **Word count**: 2615 → 2615 (0; metadata-digit fixes only, length-neutral)
+- **Critical issues addressed**: 1 (citation metadata error, fixed in 2 source files)
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Citation-currency pass**: web-verified all 8 external citations against primary sources. 1 defect found — Van Hoeck et al. fMRI study cited as "2015, SCAN 10(11), 1534-1543"; correct per Oxford Academic publisher record (DOI 10.1093/scan/nss031) is "2013, SCAN 8(5), 556-564". Wrong in 3 fields (year, volume/issue, pages). Survived the 2026-04-17 review which verified subject-matter but not metadata. Propagated to concept root [[concepts/counterfactual-reasoning]] (divergent-metadata-across-corpus tell) — fixed all 3 instances there too. Protected a NON-defect: [[concepts/baseline-cognition]] cites a different genuine Van Hoeck paper (Watson & Barbey 2015, Frontiers Hum. Neurosci. 9:420) — correct, left untouched (same-field author-conflation trap avoided). Cowan 2001, Roese 1997, Suddendorf & Corballis 2007, Schacter & Addis 2007, Nagel 1974, Byrne 2005, Van Inwagen 1998 all verified clean.
+- **Reasoning-mode** (editor-internal): physicalist computational account = Mode Two (unsupported foundational move); predictive-processing account = Mode One (defective on its own terms). No label leakage in body.
+- **Output**: [[reviews/deep-review-2026-05-28-consciousness-and-counterfactual-reasoning]]
+
 ## 2026-05-28T00:00:00+00:00 - refine-draft
 - **Status**: Success
 - **File**: [[topics/consciousness-and-intersubjectivity]]

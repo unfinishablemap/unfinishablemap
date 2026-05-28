@@ -4,7 +4,7 @@ description: "Counterfactual reasoning imagines what could have been or might be
 created: 2026-01-28
 modified: 2026-01-28
 human_modified: null
-ai_modified: 2026-05-01T03:56:00+00:00
+ai_modified: 2026-05-28T00:00:00+00:00
 last_deep_review: 2026-05-01T03:56:00+00:00
 draft: false
 topics:
@@ -59,7 +59,7 @@ Several lines of evidence suggest counterfactual reasoning is strongly associate
 
 Counterfactual reasoning requires explicitly representing something as *not* being the case while simultaneously reasoning about what *would* be the case if it were. This dual representation—actual situation versus counterfactual scenario—appears to require the kind of integrated workspace that [[global-workspace-theory|Global Workspace Theory]] associates with consciousness.
 
-Research by Van Hoeck et al. (2015) identifies counterfactual thinking as involving coordination of multiple information processing systems: affective processing, mental simulation, and cognitive control. The "activation" component is "whether we allow counterfactual thought to seep into conscious thought." This suggests counterfactual reasoning is explicitly conscious rather than merely accessible to consciousness.
+Research by Van Hoeck et al. (2013) identifies counterfactual thinking as involving coordination of multiple information processing systems: affective processing, mental simulation, and cognitive control. The "activation" component is "whether we allow counterfactual thought to seep into conscious thought." This suggests counterfactual reasoning is explicitly conscious rather than merely accessible to consciousness.
 
 ### Working Memory Demands
 
@@ -113,7 +113,7 @@ This connects to [[cumulative-culture|cumulative culture]]. Counterfactual reaso
 
 ## Neural Correlates
 
-Neuroscience research (Van Hoeck et al. 2015) identifies counterfactual thinking as engaging:
+Neuroscience research (Van Hoeck et al. 2013) identifies counterfactual thinking as engaging:
 
 - **Prefrontal cortex**: Executive control, maintaining counterfactual premises
 - **Anterior cingulate cortex**: Conflict monitoring between actual and counterfactual
@@ -189,4 +189,4 @@ Counterfactual reasoning connects to multiple [[tenets]]:
 1. Roese, N.J. (1997). Counterfactual thinking. *Psychological Bulletin*, 121(1), 133-148.
 1. Schacter, D.L., & Addis, D.R. (2007). The cognitive neuroscience of constructive memory: Remembering the past and imagining the future. *Philosophical Transactions of the Royal Society B*, 362(1481), 773-786.
 1. Suddendorf, T., & Corballis, M.C. (2007). The evolution of foresight: What is mental time travel, and is it unique to humans? *Behavioral and Brain Sciences*, 30(3), 299-313.
-1. Van Hoeck, N., Ma, N., Ampe, L., Baetens, K., Vandekerckhove, M., & Van Overwalle, F. (2015). Counterfactual thinking: An fMRI study on changing the past for a better future. *Social Cognitive and Affective Neuroscience*, 10(11), 1534-1543.
+1. Van Hoeck, N., Ma, N., Ampe, L., Baetens, K., Vandekerckhove, M., & Van Overwalle, F. (2013). Counterfactual thinking: An fMRI study on changing the past for a better future. *Social Cognitive and Affective Neuroscience*, 8(5), 556-564.
