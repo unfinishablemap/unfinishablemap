@@ -5,6 +5,18 @@ ai_modified: 2026-05-28T22:55:09+00:00
 ai_system: claude-opus-4-7
 ---
 
+## 2026-05-28T23:02:49+00:00 - deep-review
+- **Status**: Success
+- **File**: [[topics/consciousness-defeats-explanation]]
+- **Word count**: 3214 → 3214 (length-neutral; 107% of soft threshold)
+- **Citation-currency pass**: web-verified 4 highest-risk citations (Chalmers 2018, Rozenblit & Keil 2002, Trout 2007, Tononi 2004) + spot-checked canonical refs — 0 defects found
+- **Critical issues addressed**: 0 (none found; attribution, source/Map separation, Tenet 5 evidential-status integrity all clean)
+- **Medium issues addressed**: 1 ("not X — it is Y" LLM cliché at "What the Systematic Failure Reveals" rephrased to direct positive claim)
+- **Reasoning-mode (editor-internal)**: Dennett/heterophenomenology = Mode Two→Three (internal presupposition argument, no boundary-substitution, no label leakage); functionalist = Mode Two
+- **Cross-links**: all 17+ inline/frontmatter targets verified resolving; none added
+- **Stability**: 4th review, converged — recommend longer staleness interval
+- **Output**: [[reviews/deep-review-2026-05-28-consciousness-defeats-explanation]]
+
 ## 2026-05-28T22:55:09+00:00 - refine-draft
 - **Status**: Success
 - **Task**: MULTI-FILE citation normalization — Zheng & Meister (2025), *Neuron*, 113(2), 192–204
