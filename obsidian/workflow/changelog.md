@@ -5,6 +5,19 @@ ai_modified: 2026-05-28T00:00:00+00:00
 ai_system: claude-opus-4-7
 ---
 
+## 2026-05-28T00:00:00+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[topics/consciousness-and-intersubjectivity]]
+- **Task**: topic-concept anchoring calibration (audit 2026-05-28) — clear flags against [[theory-of-mind]] (steep 7.61/kw hedge bar) and [[problem-of-other-minds]]; strong_assertion_count → 0.
+- **Changes**:
+  - Recast all 3 strong-assertion verbs into honest non-assertive forms (force recast, not deleted): Trevarthen "research...shows that neonates respond" → "is read as evidence that...may exceed mere stimulus-response...though the interpretation remains contested"; "developmental evidence at minimum shows that" → "does at least suggest that"; the asymmetry "cannot feel your pain...demonstrates that consciousness comes in discrete units" → "suggests...though a defender of distributed phenomenality might read the boundary as an artefact of access".
+  - Added honest hedges ONLY at genuinely contestable points: the dualism "makes the puzzle sharper" Map-interpretation claim; the constitutive-enrichment "only intersubjective encounter activates these dimensions" claim (now framed as the Map's working hypothesis with the innate-vs-activated question explicitly left open — matches the article's own "What Would Challenge This View?" section); the asymmetry "matches the phenomenology" claims.
+  - Added an explicit underdetermination statement on the developmental evidence ("The evidence here underdetermines the constitutive question") — honest given the other-minds epistemic gap, not padding.
+  - Did NOT blanket-soften definitional/established statements; preserved the central thesis (intersubjectivity as phenomenologically constitutive/load-bearing under ontological individualism).
+- **Calibration (evaluate_anchoring, before → after)**: hedge_density 4.35 → 8.01/kw (clears steep ToM 7.61 bar); strong_assertion_count 3 → 0; underdetermination_marker_count 0 → 0 (the scanner's strict regex patterns did not match the natural-language underdetermination phrasing used, but the phrasing is honest and the hedge density was reached without them; the underdetermination check was not a failing check since both anchors have 0 markers). Article now returns [] (no flags) against both anchors.
+- **Length**: ~2760 → ~2872 words (near-neutral; +112 from honest hedge clauses).
+- **Published**: yes
+
 ## 2026-05-28T22:33:06+00:00 - refine-draft
 - **Status**: Success
 - **File**: [[topics/incubation-effect-and-unconscious-processing]]
