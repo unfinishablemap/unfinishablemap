@@ -117,7 +117,7 @@ def _slug_to_display_name(slug: str) -> str:
 
     Examples:
         gpt-5-5-pro       → ChatGPT 5.5 Pro
-        claude-opus-4-7   → Claude Opus 4.7
+        claude-opus-4-8   → Claude Opus 4.8
         gemini-2-5-pro    → Gemini 2.5 Pro
     """
     if slug.startswith("gpt-"):
@@ -130,7 +130,7 @@ def _slug_to_display_name(slug: str) -> str:
         return f"ChatGPT {rest.replace('-', '.')}"
 
     if slug.startswith("claude-"):
-        # claude-opus-4-7 → Opus 4.7
+        # claude-opus-4-8 → Opus 4.8
         rest = slug[len("claude-"):]
         # Variant name first (opus / sonnet / haiku), then version
         for variant in ("opus", "sonnet", "haiku"):
@@ -222,7 +222,7 @@ def main() -> int:
                           "converted to markdown (skips html_to_markdown)")
     ap.add_argument("--conversation-url", required=True)
     ap.add_argument("--model-slug", required=True,
-                    help="e.g., gpt-5-5-pro, claude-opus-4-7, gemini-2-5-pro")
+                    help="e.g., gpt-5-5-pro, claude-opus-4-8, gemini-2-5-pro")
     ap.add_argument("--commissioned-date", required=True,
                     help="ISO date the prompt was commissioned, e.g., 2026-05-04")
     ap.add_argument("--extraction-method", default="js-dom",

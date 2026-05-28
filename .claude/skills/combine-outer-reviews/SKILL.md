@@ -51,7 +51,7 @@ Glob `obsidian/reviews/outer-review-{date}-*.md`, exclude any file starting with
 
 For every processed review file, capture:
 
-- Service identity (from `ai_system` frontmatter — e.g., `chatgpt-5-5-pro`, `claude-opus-4-7`, `gemini-2-5-pro`).
+- Service identity (from `ai_system` frontmatter — e.g., `chatgpt-5-5-pro`, `claude-opus-4-8`, `gemini-2-5-pro`).
 - Display name (from the `**Reviewer**:` line in the body).
 - The Reply section (the external system's actual analysis).
 - The Verification Notes section, if present (records which reviewer claims `/outer-review` confirmed, disputed, or could not check).
@@ -117,7 +117,7 @@ related_articles:
   - "[[project]]"
 ai_contribution: 100
 author: "Andy Southgate"
-ai_system: claude-opus-4-7
+ai_system: claude-opus-4-8
 ai_generated_date: {date}
 last_curated: null
 synthesizes:

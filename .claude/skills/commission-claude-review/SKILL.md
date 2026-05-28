@@ -1,13 +1,13 @@
 ---
 name: commission-claude-review
-description: Open Claude in Chrome, enable Research mode (Web Search is on by default), submit an outer-review prompt to the Unfinishable Map project (Opus 4.7 Adaptive), navigate the optional clarifying-questions stage with "go", record the pending entry, and exit. Pairs with collect-claude-review which retrieves the response after ~60 minutes.
+description: Open Claude in Chrome, enable Research mode (Web Search is on by default), submit an outer-review prompt to the Unfinishable Map project (Opus 4.8 Adaptive), navigate the optional clarifying-questions stage with "go", record the pending entry, and exit. Pairs with collect-claude-review which retrieves the response after ~60 minutes.
 context: fork
 agent: general-purpose
 ---
 
 # Commission Claude Review
 
-Drives Chrome via the `mcp__claude-in-chrome__*` tools to commission an outer review from Claude (Opus 4.7 with Adaptive thinking, Research, and Web Search) in The Unfinishable Map's project workspace. Returns immediately after research is underway — collection happens later in `collect-claude-review`.
+Drives Chrome via the `mcp__claude-in-chrome__*` tools to commission an outer review from Claude (Opus 4.8 with Adaptive thinking, Research, and Web Search) in The Unfinishable Map's project workspace. Returns immediately after research is underway — collection happens later in `collect-claude-review`.
 
 ## When to Use
 
@@ -98,7 +98,7 @@ Inside the menu:
 
 Verify after clicking: the menu closes and a new button with `aria-label="Research mode"` (or similar) appears in the composer area. If the verification fails, **bail before submitting** — take a screenshot and dump the menu DOM to `tmp/commission-claude-failure-<timestamp>.txt`.
 
-Verify model selector still reads "Opus 4.7 Adaptive". If it shows a different model, bail — the project's default may have changed and we should not commission against the wrong model.
+Verify model selector still reads "Opus 4.8 Adaptive". If it shows a different model, bail — the project's default may have changed and we should not commission against the wrong model.
 
 ## Step 4: Type the prompt and submit
 
@@ -166,7 +166,7 @@ Compute the target filename:
 ```python
 import datetime as dt
 date = dt.datetime.now(dt.timezone.utc).date().isoformat()
-target = f"outer-review-{date}-claude-opus-4-7.md"
+target = f"outer-review-{date}-claude-opus-4-8.md"
 ```
 
 Then:
@@ -205,7 +205,7 @@ When this commission runs as the *second or third* service of the day, the selec
 ## Step 9: Log and exit
 
 ```
-Commissioned outer review: claude-opus-4-7 on "<short_summary>" — <conversation_url>
+Commissioned outer review: claude-opus-4-8 on "<short_summary>" — <conversation_url>
 ```
 
 Total runtime budget: 5 minutes.

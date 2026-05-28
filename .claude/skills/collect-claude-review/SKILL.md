@@ -267,7 +267,7 @@ uv run python scripts/collect_review.py \
   --prompt "<user prompt from window.__collect_review_user>" \
   --response-md-file tmp/collect-claude-body-<date>.md \
   --conversation-url "<conversation URL>" \
-  --model-slug claude-opus-4-7 \
+  --model-slug claude-opus-4-8 \
   --commissioned-date <ISO date> \
   --extraction-method js-dom \
   --subject-type "<entry.subject_type>" \
@@ -278,7 +278,7 @@ uv run python scripts/collect_review.py \
 
 The four `--subject-*` flags are optional; pass them only when the pending entry has populated subject metadata. The script renders them into the file's frontmatter so the synthesis pass and recent-aged-fallback dedupe can find which articles a review covered.
 
-Note: Claude doesn't expose a model identifier per message in the DOM. The `model_slug=claude-opus-4-7` is hardcoded based on the project's default. If the project default changes, update `tools/reviews/services.py` and this SKILL.md together.
+Note: Claude doesn't expose a model identifier per message in the DOM. The `model_slug=claude-opus-4-8` is hardcoded based on the project's default. If the project default changes, update `tools/reviews/services.py` and this SKILL.md together.
 
 ## Step 8: Mark collected and invoke /outer-review
 
@@ -296,7 +296,7 @@ claude --dangerously-skip-permissions -p "Run the outer-review skill with: obsid
 ## Step 9: Log and exit
 
 ```
-Collected outer review: <target_filename> from <conversation_url> (model: claude-opus-4-7)
+Collected outer review: <target_filename> from <conversation_url> (model: claude-opus-4-8)
 ```
 
 Total runtime budget: 10 minutes.
