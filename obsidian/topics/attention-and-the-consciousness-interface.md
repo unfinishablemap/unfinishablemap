@@ -4,7 +4,7 @@ description: "A comprehensive treatment of attention as consciousness's interfac
 created: 2026-02-01
 modified: 2026-05-19
 human_modified:
-ai_modified: 2026-05-27T00:00:00+00:00
+ai_modified: 2026-05-28T22:55:09+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -148,7 +148,7 @@ Libet's 1983 experiments appeared to show the brain "decides" before consciousne
 
 The Map doesn't commit to a specific mechanism. Candidates include ion channels (Stapp's quantum Zeno mechanism), microtubules (Penrose-Hameroff Orch OR), and the posterior-frontal junction where COGITATE's conscious content correlates meet attention control networks. Tegmark (2000) calculated decoherence times of 10⁻¹³ to 10⁻²⁰ seconds for neural (microtubule-scale) superpositions in warm, wet brain tissue—twelve to twenty orders of magnitude shorter than the ~280–300ms attention timescale, and at the longest end still faster by a factor of ~10¹⁰ than the millisecond-scale of the fastest neural firing events. Any interface mechanism that requires brain-wide quantum coherence on cognitively-relevant timescales is excluded by these numbers. The remaining possibility is that the relevant quantum effects operate at far shorter timescales than the cognitive event itself: Stapp's reply locates the quantum effect at ion-channel transitions, so the required coherence time is the transition's own duration and bias integrates statistically across many short-lived transitions. This requires that the brain contain quantum-ordered ion-channel subsystems shielded enough to outrun their local decoherence rate, and that the integrated bias remain non-zero across the relevant population — neither of which has been demonstrated. Orch OR remains contested on independent grounds (Reimers et al. 2009; McKemmish et al. 2009). Tegmark's calculation remains the deepest unanswered objection for any mechanism requiring macroscopic neural coherence, and honest engagement with the interface hypothesis requires conceding that the mechanism's empirical viability presently rides on the short-coherence integrationist response rather than on any positive evidence that the brain hosts the required quantum-ordered subsystems.
 
-Zheng & Meister (2024) estimate behavioural cognitive throughput at roughly 10 bits per second—a figure derived from task performance (typing, reading, deliberate decision-making), not from a neural-processing ceiling, and not directly comparable to the ~10⁹ bits/sec rate at which sensory transduction delivers raw information to the receptor array. What the figure measures is the throughput of the channel through which deliberate selection passes, not the bandwidth of the brain as a whole. So narrowed, the figure motivates [[consciousness-bandwidth-architecture|the interface-friction model]]: the cognitive-selection channel has the bandwidth of roughly 3-4 selections per second among small alternative sets—the competition-selection architecture. The asymmetry between sensory transduction and deliberate selection is real but reflects the difference between transduction and cognitive throughput rather than a direct measurement of consciousness's coupling to neural dynamics.
+Zheng & Meister (2025) estimate behavioural cognitive throughput at roughly 10 bits per second—a figure derived from task performance (typing, reading, deliberate decision-making), not from a neural-processing ceiling, and not directly comparable to the ~10⁹ bits/sec rate at which sensory transduction delivers raw information to the receptor array. What the figure measures is the throughput of the channel through which deliberate selection passes, not the bandwidth of the brain as a whole. So narrowed, the figure motivates [[consciousness-bandwidth-architecture|the interface-friction model]]: the cognitive-selection channel has the bandwidth of roughly 3-4 selections per second among small alternative sets—the competition-selection architecture. The asymmetry between sensory transduction and deliberate selection is real but reflects the difference between transduction and cognitive throughput rather than a direct measurement of consciousness's coupling to neural dynamics.
 
 ## Predictions and Falsification
 
@@ -243,4 +243,4 @@ The convergence argument identifies *where* consciousness might influence brain 
 
 27. Fine, J.M., & Hayden, B.Y. (2022). The whole prefrontal cortex is premotor cortex. *Philosophical Transactions of the Royal Society B*, 377(1844), 20200524.
 
-28. Zheng, J. & Meister, M. (2024). The unbearable slowness of being: Why do we live at 10 bits/s? *Neuron*.
+28. Zheng, J. & Meister, M. (2025). The unbearable slowness of being: Why do we live at 10 bits/s? *Neuron*, 113(2), 192–204.

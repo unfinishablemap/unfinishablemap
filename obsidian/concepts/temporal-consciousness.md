@@ -4,7 +4,7 @@ description: "Consciousness flows through time in the specious present—Bergson
 created: 2026-01-14
 modified: 2026-03-15
 human_modified: null
-ai_modified: 2026-05-28T21:33:26+00:00
+ai_modified: 2026-05-28T22:55:09+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -120,7 +120,7 @@ This divergence reflects differences in retention depth (how much of the immedia
 
 Temporal thickness does significant work in the Map's treatment of [[authentic-vs-inauthentic-choice|authentic versus inauthentic choice]]. Authentic decisions unfold in durée—the choice emerging from your whole history as creative expression. Inauthentic choice lacks temporal thickness: reactive compression where temporal horizons collapse to near-zero. Randomness at a temporally thin moment is mere noise; indeterminacy at a temporally thick moment, where consciousness selects from possibilities saturated with personal history, is agency.
 
-[[phenomenology-of-recursive-self-awareness|Recursive thought]] feels temporally thick because each layer of reflection adds temporal depth. [[witness-consciousness|Witness consciousness]] demonstrates that temporal thickness can become an object for awareness, while cessation states (*nirodha samapatti*) suggest it is constitutive of conscious experience — though [[non-temporal-consciousness]] develops the alternative reading on which such states reveal a non-temporal ground beneath temporal experience rather than confirming temporal constitution all the way down. The ~10 bits/second bandwidth limit on conscious processing (Zheng & Meister, 2024) may set the maximum temporal thickness available at any moment.
+[[phenomenology-of-recursive-self-awareness|Recursive thought]] feels temporally thick because each layer of reflection adds temporal depth. [[witness-consciousness|Witness consciousness]] demonstrates that temporal thickness can become an object for awareness, while cessation states (*nirodha samapatti*) suggest it is constitutive of conscious experience — though [[non-temporal-consciousness]] develops the alternative reading on which such states reveal a non-temporal ground beneath temporal experience rather than confirming temporal constitution all the way down. The ~10 bits/second bandwidth limit on conscious processing (Zheng & Meister, 2025) may set the maximum temporal thickness available at any moment.
 
 ## Protention and Anticipatory Structure
 

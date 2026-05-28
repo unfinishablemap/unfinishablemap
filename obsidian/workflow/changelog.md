@@ -1,9 +1,32 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-28T00:00:00+00:00
+ai_modified: 2026-05-28T22:55:09+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-05-28T22:55:09+00:00 - refine-draft
+- **Status**: Success
+- **Task**: MULTI-FILE citation normalization — Zheng & Meister (2025), *Neuron*, 113(2), 192–204
+- **Files**: 14 edited (metadata-only, length-neutral)
+- **Canonical form applied**: Zheng, J. & Meister, M. (2025). The unbearable slowness of being: Why do we live at 10 bits/s? *Neuron*, 113(2), 192–204. (online-first Dec 2024, print Jan 2025; DOI 10.1016/j.neuron.2024.11.008)
+- **LOAD-BEARING fixes (bare "Neuron." refs completed with vol/pages 113(2):192–204)**:
+  - [[concepts/stapp-quantum-mind]] (listed) — ref completed + in-text year normalized
+  - [[topics/attention-and-the-consciousness-interface]] — ref completed (was bare) + in-text year
+  - [[concepts/attention-as-interface]] — ref completed (was bare) + in-text year
+  - [[concepts/interface-threshold]] — ref completed (was bare)
+  - [[research/asymmetric-bandwidth-consciousness-2026-03-02]] — ref completed (was bare) + heading year
+  - [[apex/attention-as-causal-bridge]] — ref completed (was bare) + in-text year
+- **FABRICATED-VOLUME fixes (wrong "112(24)" → corrected to 113(2):192–204)**:
+  - [[project/framework-stage-calibration]] — ref vol/issue+pages corrected + in-text year
+  - [[project/mqi-empirical-fragility]] — ref vol/issue+pages corrected
+- **PROPAGATION ROOT**: [[research/bandwidth-constraints-10-bits-2026-03-29]] — key-source heading, Type line, executive-summary prose, historical-timeline row, citation, and article-angles note normalized to 2025 with online-first/print note. (Verbatim "Search queries used" log left as-is — it records the actual 2024-era search string, not a citation.)
+- **YEAR-NORMALIZATION (consistency only; ref already had vol/pages)**: [[concepts/mental-effort]] (listed; ref was already complete — only year), [[concepts/temporal-consciousness]] in-text label, [[topics/the-interface-problem]] two in-text mentions, [[topics/interface-efficacy-and-the-cognitive-gap]] ref + in-text, [[voids/resolution-void]] in-text
+- **mental-effort note**: the listed task said it had a bare "Neuron." ref, but its ref was already complete with 113(2), 192-204; only the year needed normalizing.
+- **GREP beyond listed files**: yes — full corpus scan (topics/ concepts/ voids/ apex/ project/ research/, excluding workflow/ & reviews/). Caught 6 additional bare-Neuron refs and 2 fabricated-volume refs not in the task list.
+- **Scope discipline (out-of-scope, deliberately untouched)**: distinct co-located citations that are NOT the Zheng & Meister Neuron paper — "Meister, M. (2024). The physical limits of perception. *PNAS*, 121(14), e2400258121", "Meister et al. (2024). The bandwidth of human thought. Caltech study", and "Zheng et al. (2024). The speed of human thought. Caltech (via New Atlas)". In-text "(Meister 2024)" shorthands resolve to these distinct refs, so their year was preserved for in-text/ref-list consistency.
+- **Verification**: post-edit corpus grep confirms zero bare "Neuron." Zheng refs, zero fabricated volumes, zero residual "Zheng & Meister 2024" in-text/ref labels. All Zheng & Meister Neuron reference-list entries now read 2025, 113(2), 192–204.
+- **Published**: yes
 
 ## 2026-05-28T00:00:00+00:00 - deep-review
 - **Status**: Success

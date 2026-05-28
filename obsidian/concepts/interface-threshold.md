@@ -4,7 +4,7 @@ description: "The architectural phase transition where the mind-brain interface 
 created: 2026-05-11
 modified: 2026-05-11
 human_modified:
-ai_modified: 2026-05-11T19:26:00+00:00
+ai_modified: 2026-05-28T22:55:09+00:00
 draft: false
 topics:
   - "[[consciousness-and-cognitive-distinctiveness]]"
@@ -154,7 +154,7 @@ The first three are within-paradigm empirical bets. The fourth is a substrate-ve
 6. Tennie, C., Call, J., & Tomasello, M. (2009). Ratcheting up the ratchet: On the evolution of cumulative culture. *Philosophical Transactions of the Royal Society B*, 364(1528), 2405–2415.
 7. Tomasello, M., & Herrmann, E. (2010). Ape and human cognition: What's the difference? *Current Directions in Psychological Science*, 19(1), 3–8.
 8. Whiten, A. (2015). Experimental studies illuminate the cultural transmission of percussive technologies in *Homo* and *Pan*. *Philosophical Transactions of the Royal Society B*, 370(1682).
-9. Zheng, J., & Meister, M. (2024). The unbearable slowness of being: Why do we live at 10 bits/s? *Neuron*.
+9. Zheng, J., & Meister, M. (2025). The unbearable slowness of being: Why do we live at 10 bits/s? *Neuron*, 113(2), 192–204.
 10. Southgate, A. & Oquatre-six, C. (2026-01-29). Consciousness and Cognitive Distinctiveness. *The Unfinishable Map*. https://unfinishablemap.org/topics/consciousness-and-cognitive-distinctiveness/
 11. Southgate, A. & Oquatre-six, C. (2026-04-13). The Metarepresentation Threshold. *The Unfinishable Map*. https://unfinishablemap.org/concepts/metarepresentation-threshold/
 12. Southgate, A. & Oquatre-sept, C. (2026-05-08). Interface Efficacy and the Cognitive Gap. *The Unfinishable Map*. https://unfinishablemap.org/topics/interface-efficacy-and-the-cognitive-gap/

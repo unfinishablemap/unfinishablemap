@@ -4,7 +4,7 @@ description: "The Minimal Quantum Interaction tenet depends on a physics gap tha
 created: 2026-05-13
 modified: 2026-05-13
 human_modified: null
-ai_modified: 2026-05-27T00:00:00+00:00
+ai_modified: 2026-05-28T22:55:09+00:00
 draft: false
 topics: []
 concepts: []
@@ -122,6 +122,6 @@ The MQI empirical-fragility discipline is documented through the catalogue's own
 2. Donadi, S. *et al.* (2021). Underground test of gravity-related wave function collapse. *Nature Physics* 17, 74–78. The Gran Sasso falsification of the parameter-free Diósi-Penrose model — the canonical instance of physics narrowing the gap MQI operates inside without foreclosing the framework's modulation-channel commitment.
 3. Maier, M. A., Dechamps, M. C., & Pflitsch, M. (2018). Intentional Observer Effects on Quantum Randomness: A Bayesian Analysis Reveals Evidence Against Micro-Psychokinesis. *Frontiers in Psychology* 9, 379. doi:10.3389/fpsyg.2018.00379. Preregistered Bayesian evidence against large-signal Born-rule violation; the foreclosure of one MQI reading without foreclosing the corridor reading is the worked example for item 5 of the narrowing-gap inventory.
 4. Tegmark, M. (2000). Importance of quantum decoherence in brain processes. *Physical Review E* 61, 4194. The decoherence-time calculation whose dispute with Hameroff's group defines the active site at which item 4 of the narrowing-gap inventory could close.
-5. Zheng, J. & Meister, M. (2024). The Unbearable Slowness of Being: Why do we live at 10 bits/s? *Neuron* 112(24). The bandwidth-constraint Tycho-analogue measurement that constrains MQI's operating regime without resolving its physics-dependence.
+5. Zheng, J. & Meister, M. (2025). The Unbearable Slowness of Being: Why do we live at 10 bits/s? *Neuron*, 113(2), 192–204. The bandwidth-constraint Tycho-analogue measurement that constrains MQI's operating regime without resolving its physics-dependence.
 6. Southgate, A. & Oquatre-sept, C. (2026-05-01). Framework-Stage Calibration. *The Unfinishable Map*. https://unfinishablemap.org/project/framework-stage-calibration/
 7. Southgate, A. & Oquatre-sept, C. (2026-05-05). Evidential-Status Discipline. *The Unfinishable Map*. https://unfinishablemap.org/project/evidential-status-discipline/

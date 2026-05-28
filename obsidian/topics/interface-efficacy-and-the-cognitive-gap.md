@@ -4,7 +4,7 @@ description: "An interactionist-dualist reading of the human-other-animal cognit
 created: 2026-05-05
 modified: 2026-05-08
 human_modified: null
-ai_modified: 2026-05-15T07:31:00+00:00
+ai_modified: 2026-05-28T22:55:09+00:00
 last_deep_review: 2026-05-08T08:16:00+00:00
 draft: false
 topics:
@@ -55,7 +55,7 @@ The Map's [[interactionist-dualism|interactionist-dualist]] tradition holds that
 
 What none of the canonical interactionist authors developed is an explicitly *scalar* account of how the interface might vary across species or across evolutionary time. Eccles' *Evolution of the Brain: Creation of the Self* treats special anatomical adaptations of mammalian cortex as giving *rise* to consciousness — closer to a threshold model than a scaling model. The interface-efficacy hypothesis extends the tradition by treating the interface as a continuously varying biological feature, with efficacy axes selectable by ordinary evolutionary processes once a coupling exists. Four candidate axes:
 
-- **Selection bandwidth** — the number of distinct neural-pattern candidates the interface can hold in superposition and select among per unit time. The strict information-theoretic ceiling on a single selection event, derived in [[selection-only-mind-influence]], is log₂(N) bits per event over the brain-prepared candidate set; bandwidth in this sense is the rate at which N grows and selections occur. The [[bandwidth-of-consciousness|10-bits-per-second result]] (Zheng & Meister 2024) constrains conscious access against the brain's far higher gross processing capacity.
+- **Selection bandwidth** — the number of distinct neural-pattern candidates the interface can hold in superposition and select among per unit time. The strict information-theoretic ceiling on a single selection event, derived in [[selection-only-mind-influence]], is log₂(N) bits per event over the brain-prepared candidate set; bandwidth in this sense is the rate at which N grows and selections occur. The [[bandwidth-of-consciousness|10-bits-per-second result]] (Zheng & Meister 2025) constrains conscious access against the brain's far higher gross processing capacity.
 - **Fidelity** — the proportion of mind-side intent that survives the coupling without being lost to decoherence or interface-side noise. Higher fidelity produces neural-pattern actualisation closer to what was selected.
 - **Granularity** — the size of the probability adjustment per event. Finer-grained selection supports cumulative effects across many events, building extended cognitive structures (sustained planning, multi-step reasoning, recursive social tracking) out of small per-step nudges that integrate over time.
 - **Candidate-type coupling** — the range of neural-pattern *kinds* the interface couples to. A narrower interface might couple primarily to motor-output patterns; a broader interface to motor, planning, abstract-relational, and meta-representational patterns. This extends [[interface-heterogeneity|interface heterogeneity]] to within-species variation along an efficacy gradient.
@@ -165,7 +165,7 @@ The contribution is a re-framing of comparative-cognition data, not a new empiri
 17. Stapp, H. P. (2007). *Mindful Universe: Quantum Mechanics and the Participating Observer*. Springer.
 18. Suddendorf, T., & Corballis, M. C. (2007). The evolution of foresight: What is mental time travel, and is it unique to humans? *Behavioral and Brain Sciences*, 30(3), 299–351.
 19. Tomasello, M., & Moll, H. (2010). The gap is social: Human shared intentionality and culture. In P. M. Kappeler & J. B. Silk (Eds.), *Mind the gap: Tracing the origins of human universals* (pp. 331–349). Springer.
-20. Zheng, J., & Meister, M. (2024). The unbearable slowness of being: Why do we live at 10 bits/s? *Neuron*, 113(2), 192–204.
+20. Zheng, J., & Meister, M. (2025). The unbearable slowness of being: Why do we live at 10 bits/s? *Neuron*, 113(2), 192–204.
 21. Southgate, A. & Oquatre-six, C. (2026-02-01). Comparative Consciousness and Interface Differences. *The Unfinishable Map*. https://unfinishablemap.org/topics/comparative-consciousness-and-interface-differences/
 22. Southgate, A. & Oquatre-six, C. (2026-03-17). Interface Heterogeneity. *The Unfinishable Map*. https://unfinishablemap.org/concepts/interface-heterogeneity/
 23. Southgate, A. & Oquatre-sept, C. (2026-05-01). Framework-Stage Calibration. *The Unfinishable Map*. https://unfinishablemap.org/project/framework-stage-calibration/

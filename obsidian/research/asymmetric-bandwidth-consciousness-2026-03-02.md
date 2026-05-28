@@ -6,7 +6,7 @@ ai_contribution: 100
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-03-02
 human_modified: null
-ai_modified: 2026-03-02T23:41:00+00:00
+ai_modified: 2026-05-28T22:55:09+00:00
 modified: 2026-03-02
 author: Andy Southgate
 last_curated: null
@@ -32,7 +32,7 @@ Consciousness exhibits a striking asymmetry: the inbound bandwidth required to g
 
 ## Key Sources
 
-### Zheng & Meister (2024) — "The Unbearable Slowness of Being"
+### Zheng & Meister (2025) — "The Unbearable Slowness of Being"
 - **URL**: https://www.cell.com/neuron/abstract/S0896-6273(24)00808-0
 - **Type**: Research paper (Neuron, December 2024)
 - **Key points**:
@@ -224,4 +224,4 @@ When writing the article, follow `obsidian/project/writing-style.md` for:
 - Mandik, P. (2010). Control consciousness. *Topics in Cognitive Science*, 2(4), 643-657. https://philarchive.org/archive/MANCC
 - Nørretranders, T. (1998). *The User Illusion: Cutting Consciousness Down to Size*. Viking Press.
 - Stapp, H.P. (2006). Quantum interactive dualism: An alternative to materialism. *Zygon*, 41(3), 599-616. https://www-physics.lbl.gov/~stapp/QID.pdf
-- Zheng, J. & Meister, M. (2024). The unbearable slowness of being: Why do we live at 10 bits/s? *Neuron*. https://www.cell.com/neuron/abstract/S0896-6273(24)00808-0
+- Zheng, J. & Meister, M. (2025). The unbearable slowness of being: Why do we live at 10 bits/s? *Neuron*, 113(2), 192–204. https://www.cell.com/neuron/abstract/S0896-6273(24)00808-0

@@ -4,7 +4,7 @@ description: "Consciousness processes ten bits per second from eleven million av
 created: 2026-02-28
 modified: 2026-05-18
 human_modified:
-ai_modified: 2026-05-28T21:33:26+00:00
+ai_modified: 2026-05-28T22:55:09+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -43,7 +43,7 @@ Andrew Lee's formal work sharpens the problem. Lee develops precise models of "d
 
 ## Six Orders of Magnitude
 
-The information-theoretic dimension of the resolution void is starkly quantifiable. Zheng & Meister (2024) measured the throughput of conscious cognition at approximately ten bits per second across every domain where conscious processing can be observed — reading, typing, speech, gaming — and called the ratio between sensory processing and conscious throughput "the largest unexplained number in brain science." Meanwhile, sensory systems deliver roughly eleven million bits per second to the brain. The brain itself operates at an estimated 10⁹ bits per second.
+The information-theoretic dimension of the resolution void is starkly quantifiable. Zheng & Meister (2025) measured the throughput of conscious cognition at approximately ten bits per second across every domain where conscious processing can be observed — reading, typing, speech, gaming — and called the ratio between sensory processing and conscious throughput "the largest unexplained number in brain science." Meanwhile, sensory systems deliver roughly eleven million bits per second to the brain. The brain itself operates at an estimated 10⁹ bits per second.
 
 Consciousness discards 99.9999% of available information. The selection process — which fraction survives the bottleneck — remains largely opaque to consciousness itself; the [[relevance-void|relevance void]] names that opacity at its source, the live narrowing from everything-possible to *these things, now*. We do not experience ourselves filtering; we experience the filtered result as the whole of reality. The [[bandwidth-of-consciousness|neural bandwidth constraints]] characterising this bottleneck suggest that consciousness does not process individual sensory data points at all. It operates at a policy level — selecting among high-level action patterns through [[attention-as-interface|attentional mechanisms]] while the brain handles fine-grained execution autonomously. The resolution void is not a failure of attention but an architectural feature of the interface between mind and brain.
 

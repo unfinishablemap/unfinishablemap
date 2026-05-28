@@ -4,7 +4,7 @@ description: "Why controlling attention feels like work—and what this widely-s
 created: 2026-01-14
 modified: 2026-05-09
 human_modified: null
-ai_modified: 2026-05-26T17:59:25+00:00
+ai_modified: 2026-05-28T22:55:09+00:00
 draft: false
 topics:
   - "[[topics/free-will]]"
@@ -60,7 +60,7 @@ This phenomenology is widely shared — the modal case, with rare clinical excep
 
 The [[attention-as-interface|attention as interface hypothesis]] frames attention as the *interface layer* between consciousness and neural systems — not identical to consciousness, but the causal bridge through which consciousness operates on matter. Attention and consciousness are dissociable: you can attend without being conscious (blindsight) and be conscious without focused attention (peripheral awareness). Effort is the cost of engagement through this interface.
 
-Consciousness cannot influence neural patterns directly — it must work through attention mechanisms. The interface is bandwidth-limited: Shannon-calibrated measurements converge on ~10 bits/s for *conscious* throughput, while unconscious processing runs orders of magnitude faster (Zheng & Meister, 2024; Sauerbrei & Pruszynski, 2025; see [[topics/bandwidth-of-consciousness|the bandwidth of consciousness]]). The narrowing sits where consciousness participates, not in the neural hardware around it — which is what effort tracks from the inside.
+Consciousness cannot influence neural patterns directly — it must work through attention mechanisms. The interface is bandwidth-limited: Shannon-calibrated measurements converge on ~10 bits/s for *conscious* throughput, while unconscious processing runs orders of magnitude faster (Zheng & Meister, 2025; Sauerbrei & Pruszynski, 2025; see [[topics/bandwidth-of-consciousness|the bandwidth of consciousness]]). The narrowing sits where consciousness participates, not in the neural hardware around it — which is what effort tracks from the inside.
 
 ### Willed vs Instructed Attention
 
@@ -186,4 +186,4 @@ If controlling attention genuinely costs something, something must be doing the 
 1. Sauerbrei, B.A. & Pruszynski, J.A. (2025). The brain works at more than 10 bits per second. *Nature Neuroscience*.
 1. Tegmark, M. (2000). Importance of quantum decoherence in brain processes. *Physical Review E*, 61(4), 4194-4206.
 1. Westbrook, A., et al. (2020). Dopamine promotes cognitive effort by biasing the benefits versus costs of cognitive work. *Science*, 367(6484), 1362-1366.
-1. Zheng, J. & Meister, M. (2024). The unbearable slowness of being: Why do we live at 10 bits/s? *Neuron*, 113(2), 192-204.
+1. Zheng, J. & Meister, M. (2025). The unbearable slowness of being: Why do we live at 10 bits/s? *Neuron*, 113(2), 192–204.
