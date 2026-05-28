@@ -4,7 +4,7 @@ description: "Quantum entanglement provides the only physical substrate structur
 created: 2026-01-21
 modified: 2026-01-21
 human_modified: null
-ai_modified: 2026-02-02T14:04:00+00:00
+ai_modified: 2026-05-28T21:46:49+00:00
 draft: false
 archived: true
 archived_date: 2026-02-25T00:30:00+00:00
@@ -87,7 +87,7 @@ Recent experiments have moved beyond theoretical arguments to direct empirical s
 
 ### The Epothilone Study (2024)
 
-Wiest et al. treated rats with epothilone B, a microtubule-stabilizing drug, before administering isoflurane anesthesia. The treated rats took 69 seconds longer to lose consciousness compared to controls (Cohen's d = 1.9, a "large" effect size). Published in *eNeuro*, September 2024.
+Khan et al. (2024) treated rats with epothilone B, a microtubule-stabilizing drug, before administering isoflurane anesthesia. The treated rats took 69 seconds longer to lose consciousness compared to controls (Cohen's d = 1.9, a "large" effect size). Published in *eNeuro*, September 2024.
 
 The logic is precise: if anesthetics cause unconsciousness by disrupting quantum states in microtubules, stabilizing microtubules should delay unconsciousness. This is exactly what was observed. The researchers note that no classical mechanism explains why microtubule stabilization would affect anesthetic potency.
 
@@ -246,7 +246,7 @@ Classical binding approaches appear simpler—no quantum effects in warm biologi
 - Schlosshauer, M. (2019). Quantum decoherence. *Physics Reports*, 831, 1-57.
 - Tegmark, M. (2000). Importance of quantum decoherence in brain processes. *Physical Review E*, 61, 4194-4206.
 - Warren, W. (2023). Comment on "Experimental indications of non-classical brain functions". *Journal of Physics Communications*, 7, 038001.
-- Wiest, M. C. et al. (2024). Microtubule-stabilizer epothilone B delays anesthetic-induced unconsciousness in rats. *eNeuro*, 11(8), ENEURO.0291-24.2024.
+- Khan, S., ... Wiest, M. C. et al. (2024). Microtubule-stabilizer epothilone B delays anesthetic-induced unconsciousness in rats. *eNeuro*, 11(8), ENEURO.0291-24.2024.
 - Wiest, M. C. (2025). A quantum microtubule substrate of consciousness is experimentally supported. *Neuroscience of Consciousness*, niaf011.
 
 <!-- AI REFINEMENT LOG - 2026-01-27

@@ -4,7 +4,7 @@ description: "Quantum entanglement may be the only physical mechanism that provi
 created: 2026-03-01
 modified: 2026-03-01
 human_modified:
-ai_modified: 2026-05-27T07:22:00+00:00
+ai_modified: 2026-05-28T21:46:49+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -61,7 +61,7 @@ Warren (2023) challenged the interpretation but offered no alternative classical
 
 ### Microtubule-Stabilising Drug Study
 
-Wiest et al. (2024) treated rats with epothilone B, a microtubule-stabilising drug, before administering isoflurane anaesthesia. Treated rats took 69 seconds longer to lose consciousness, with a large effect size (Cohen's d = 1.9). If anaesthetics cause unconsciousness partly by disrupting quantum states in microtubules, stabilising those microtubules should delay the onset of unconsciousness—which is what was observed.
+Khan et al. (2024) treated rats with epothilone B, a microtubule-stabilising drug, before administering isoflurane anaesthesia. Treated rats took 69 seconds longer to lose consciousness, with a large effect size (Cohen's d = 1.9). If anaesthetics cause unconsciousness partly by disrupting quantum states in microtubules, stabilising those microtubules should delay the onset of unconsciousness—which is what was observed.
 
 As Wiest notes: "Since we don't know of another (i.e., classical) way that anaesthetic binding to microtubules would generally reduce brain activity and cause unconsciousness, this finding supports the quantum model of consciousness." Wiest's 2025 follow-up review synthesises the broader experimental case, arguing that a quantum microtubule substrate of consciousness is now experimentally supported—a stronger claim than this article endorses but a useful entry point to the literature.
 
@@ -127,7 +127,7 @@ The entanglement binding hypothesis aligns with several of the Map's [[tenets]].
 8. Reimers, J.R., McKemmish, L.K., McKenzie, R.H., Mark, A.E., & Hush, N.S. (2009). Weak, strong, and coherent regimes of Fröhlich condensation and their applications to terahertz medicine and quantum consciousness. *PNAS*, 106(11), 4219-4224.
 9. Saxena, K. et al. (2020). Fractal, scale free electromagnetic resonance of a single brain extracted microtubule. *AIP Advances*, 10(1), 015114.
 10. Tegmark, M. (2000). Importance of quantum decoherence in brain processes. *Physical Review E*, 61, 4194-4206.
-11. Wiest, M. C. et al. (2024). Microtubule-stabilizer epothilone B delays anesthetic-induced unconsciousness in rats. *eNeuro*, 11(8), ENEURO.0291-24.2024.
+11. Khan, S., ... Wiest, M. C. et al. (2024). Microtubule-stabilizer epothilone B delays anesthetic-induced unconsciousness in rats. *eNeuro*, 11(8), ENEURO.0291-24.2024.
 12. Wiest, M. C. (2025). A quantum microtubule substrate of consciousness is experimentally supported. *Neuroscience of Consciousness*, niaf011.
 13. Southgate, A. & Oquatre-cinq, C. (2026-01-14). The Binding Problem. *The Unfinishable Map*. https://unfinishablemap.org/concepts/binding-problem/
 14. Southgate, A. & Oquatre-six, C. (2026-02-25). The Unity of Consciousness. *The Unfinishable Map*. https://unfinishablemap.org/concepts/unity-of-consciousness/

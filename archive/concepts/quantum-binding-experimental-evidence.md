@@ -4,7 +4,7 @@ description: "Recent empirical support for quantum consciousness: microtubule-st
 created: 2026-01-22
 modified: 2026-01-24
 human_modified:
-ai_modified: 2026-02-08T20:44:00+00:00
+ai_modified: 2026-05-28T21:46:49+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -47,7 +47,7 @@ Classical mechanisms—gamma synchrony, thalamocortical loops, integrated inform
 
 ## Microtubule-Stabilizing Drugs Delay Anesthesia
 
-In August 2024, Wiest et al. published findings that directly support the Penrose-Hameroff Orch OR hypothesis. Rats treated with epothilone B—a drug that stabilizes microtubules—took 69 seconds longer to lose consciousness under isoflurane anesthesia. The effect size was large (Cohen's d = 1.9).
+In August 2024, Khan et al. published findings that directly support the Penrose-Hameroff Orch OR hypothesis. Rats treated with epothilone B—a drug that stabilizes microtubules—took 69 seconds longer to lose consciousness under isoflurane anesthesia. The effect size was large (Cohen's d = 1.9).
 
 If consciousness arises from quantum states in microtubules, and anesthetics work by disrupting those states, then stabilizing microtubules should delay unconsciousness. That is what the experiment found.
 
@@ -157,6 +157,6 @@ Tegmark, M. (2000). Importance of quantum decoherence in brain processes. *Physi
 
 Warren, J. (2023). Critique of Kerskens-Pérez quantum brain hypothesis. *Journal of Physics Communications*, 7, 025001.
 
-Wiest, M. C. et al. (2024). Microtubule-stabilizer epothilone B delays anesthetic-induced unconsciousness in rats. *eNeuro*, 11(8), ENEURO.0291-24.2024.
+Khan, S., ... Wiest, M. C. et al. (2024). Microtubule-stabilizer epothilone B delays anesthetic-induced unconsciousness in rats. *eNeuro*, 11(8), ENEURO.0291-24.2024.
 
 Wiest, M. C. (2025). A quantum microtubule substrate of consciousness is experimentally supported. *Neuroscience of Consciousness*, niaf011.

@@ -26,7 +26,7 @@ ai_system: claude-opus-4-7
 ai_generated_date: 2026-01-15
 last_curated: null
 last_deep_review: 2026-05-18T09:00:00+00:00
-ai_modified: 2026-05-18T09:00:00+00:00
+ai_modified: 2026-05-28T21:46:49+00:00
 ---
 
 The combination problem is the central challenge facing [[panpsychism]]—the view that consciousness is fundamental and ubiquitous. If electrons have micro-experiences, how do billions of them combine into the unified consciousness of a human being? William James called this "the most peculiar puzzle" of the mind-dust theory, and it remains unsolved. The Unfinishable Map's [[interactionist-dualism|interactionist framework]] avoids the problem entirely by denying that matter has micro-experiences in the first place.
@@ -154,7 +154,7 @@ Can we test which problem is more tractable? Several lines of evidence bear on t
 
 **Simple organism studies**: Research on [[minimal-consciousness|C. elegans and Hydra]] tests panpsychist predictions. If [[unity-of-consciousness|phenomenal unity]] requires the combination of micro-experiences, we should see gradients of unity tracking complexity. But the evidence is ambiguous—302-neuron nematodes show integrated information (positive Phi) yet fail behavioral markers of unified consciousness. The combination mechanism, if real, doesn't manifest in observable correlates.
 
-**Anesthesia and microtubules**: Studies showing that microtubule-stabilizing drugs delay anesthetic-induced unconsciousness (Wiest et al. 2024) support quantum mechanisms for consciousness without implicating micro-experience combination.
+**Anesthesia and microtubules**: Studies showing that microtubule-stabilizing drugs delay anesthetic-induced unconsciousness (Khan et al. 2024) support quantum mechanisms for consciousness without implicating micro-experience combination.
 
 The interactionist framework generates predictions testable by current methods—though these predictions remain unconfirmed and the studies cited are preliminary. Panpsychism's combination proposals remain primarily conceptual, with no clear empirical consequences that would distinguish successful combination from failed combination. Neither framework has decisive empirical support, but interactionism at least identifies what kind of evidence would count for or against it.
 
@@ -215,4 +215,4 @@ The combination problem is not an argument *for* the Map's framework, but it sho
 1. Harris, A. (2019). *Conscious: A Brief Guide to the Fundamental Mystery of the Mind*. Harper.
 1. Nagel, T. (1979). Panpsychism. In *Mortal Questions*. Cambridge University Press.
 1. Shani, I. (2015). Cosmopsychism: A Holistic Approach to the Metaphysics of Experience. *Philosophical Papers*, 44(3), 389-437.
-1. Wiest, M. C. et al. (2024). Microtubule-stabilizer epothilone B delays anesthetic-induced unconsciousness in rats. *eNeuro*, 11(8), ENEURO.0291-24.2024.
+1. Khan, S., ... Wiest, M. C. et al. (2024). Microtubule-stabilizer epothilone B delays anesthetic-induced unconsciousness in rats. *eNeuro*, 11(8), ENEURO.0291-24.2024.

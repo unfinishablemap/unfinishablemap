@@ -4,7 +4,7 @@ description: "Since the Map's original survey of candidate interface sites, conv
 created: 2026-02-20
 modified: 2026-02-20
 human_modified:
-ai_modified: 2026-02-20T03:21:00+00:00
+ai_modified: 2026-05-28T21:46:49+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -156,4 +156,4 @@ The [[tenets#^occams-limits|Occam's Razor Has Limits]] tenet applies to the hier
 - Schwartz, J.M., Stapp, H.P., & Beauregard, M. (2005). Quantum physics in neuroscience and psychology. *Philosophical Transactions of the Royal Society B*, 360(1458), 1309-1327.
 - Tegmark, M. (2000). Importance of quantum decoherence in brain processes. *Physical Review E*, 61(4), 4194-4206.
 - Westbrook, A., et al. (2023). Dopamine regulates decision thresholds in human reinforcement learning in males. *Nature Communications*, 14, 5340.
-- Wiest, O. et al. (2024). Microtubule-stabilizer epothilone B delays anesthetic-induced unconsciousness in rats. *eNeuro*, 11(8).
+- Khan, S., ... Wiest, M. C. et al. (2024). Microtubule-stabilizer epothilone B delays anesthetic-induced unconsciousness in rats. *eNeuro*, 11(8), ENEURO.0291-24.2024.

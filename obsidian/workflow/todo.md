@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Corpus-wide citation-hygiene sweep — Khan/Wiest-first misattribution on the 2024 epothilone eNeuro paper
-- **Type**: refine-draft
-- **Status**: pending
-- **Notes**: The 2024 eNeuro epothilone B paper (ENEURO.0291-24.2024) is cited as "Wiest, M. C. et al. (2024)" with Wiest as FIRST author in ~15 live files, but the web-verified first author is **Sana Khan** (Wiest is the senior/last of 12 authors; PubMed 39147581, Wellesley repository). The corpus-canonical corrected form is "Khan, S., ... Wiest, M. C. et al. (2024). Microtubule-stabilizer epothilone B delays anesthetic-induced unconsciousness in rats. *eNeuro*, 11(8), ENEURO.0291-24.2024." A 2026-05 sweep claimed to fix 5 files but missed many. Files still carrying the Wiest-first form (verify each before editing — some have BOTH a correct in-text "Khan et al." AND a stale reference-list entry): concepts/decoherence.md, concepts/russellian-monism.md, concepts/emergence.md, concepts/combination-problem.md, concepts/entanglement-binding-hypothesis.md, concepts/evolution-of-consciousness.md, concepts/binding-problem.md, concepts/quantum-indeterminacy-free-will.md, concepts/prebiotic-collapse.md, concepts/interface-heterogeneity.md, concepts/consciousness-selecting-neural-patterns.md, topics/quantum-holism-and-phenomenal-unity.md, topics/the-psychophysical-control-law.md, topics/comparative-consciousness-and-interface-differences.md. CAUTION: the 2025 Wiest paper (niaf011, *Neuroscience of Consciousness*) is correctly SOLE-author Wiest — do NOT alter those. mind-matter-interface.md itself was fixed 2026-05-28. Also re-verify in-text "Wiest et al. (2024)" attributions → "Khan et al. (2024)".
-- **Source**: deep-review (mind-matter-interface 2026-05-28)
-- **Generated**: 2026-05-28
-
 ### P2: Normalize Zheng & Meister (2025) citation metadata corpus-wide
 - **Type**: refine-draft
 - **Status**: pending
@@ -3590,6 +3583,10 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 Tasks that failed 3+ times and require human intervention.
 
+
+### ✓ 2026-05-28: Corpus-wide citation-hygiene sweep — Khan/Wiest-first misattribution on the 2024 epothilone eNeuro paper
+- **Type**: refine-draft
+- **Notes**: The 2024 eNeuro epothilone B paper (ENEURO.0291-24.2024) is cited as "Wiest, M. C. et al. (2024)" with Wiest as FIRST author in ~15 live files, but the web-verified first author is **Sana Khan** (Wiest is the senior/last of 12 authors; PubMed 39147581, Wellesley repository). The corpus-canonical corrected form is "Khan, S., ... Wiest, M. C. et al. (2024). Microtubule-stabilizer epothilone B delays anesthetic-induced unconsciousness in rats. *eNeuro*, 11(8), ENEURO.0291-24.2024." A 2026-05 sweep claimed to fix 5 files but missed many. Files still carrying the Wiest-first form (verify each before editing — some have BOTH a correct in-text "Khan et al." AND a stale reference-list entry): concepts/decoherence.md, concepts/russellian-monism.md, concepts/emergence.md, concepts/combination-problem.md, concepts/entanglement-binding-hypothesis.md, concepts/evolution-of-consciousness.md, concepts/binding-problem.md, concepts/quantum-indeterminacy-free-will.md, concepts/prebiotic-collapse.md, concepts/interface-heterogeneity.md, concepts/consciousness-selecting-neural-patterns.md, topics/quantum-holism-and-phenomenal-unity.md, topics/the-psychophysical-control-law.md, topics/comparative-consciousness-and-interface-differences.md. CAUTION: the 2025 Wiest paper (niaf011, *Neuroscience of Consciousness*) is correctly SOLE-author Wiest — do NOT alter those. mind-matter-interface.md itself was fixed 2026-05-28. Also re-verify in-text "Wiest et al. (2024)" attributions → "Khan et al. (2024)".
 
 ### ✓ 2026-05-28: Deep review concepts/interface-friction.md (41 days since last review, ai_contribution=100, Tenet 1/2/3 load-bearing)
 - **Type**: deep-review
