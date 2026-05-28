@@ -68,7 +68,7 @@ At approximately 3-4 selections per second — the rate implied by ~10 bits/seco
 
 The [[working-memory|maintenance/manipulation distinction]] in working memory maps onto this temporal grain. Maintenance can occur unconsciously and continuously. Manipulation — the conscious rearrangement of working memory contents — proceeds at the serial rate the bandwidth permits. DeWall, Baumeister, and Masicampo (2008) found that cognitive load on conscious processes specifically impairs logical reasoning while leaving unconscious processing intact, confirming that the temporal grain belongs to consciousness specifically.
 
-Musslick et al. (2016) estimated cognitive control capacity at ~3-4 bits per second — measuring deliberate control rather than automated execution. This rate aligns with the ~280-300ms timing window for motor commitment and willed attention deployment. Conscious processing does not merely happen to be slow; it operates at a characteristic temporal resolution that shapes everything from decision timing to the phenomenology of agency.
+Wu et al. (2016) estimated cognitive control capacity at ~3-4 bits per second — measuring deliberate control rather than automated execution. This rate aligns with the ~280-300ms timing window for motor commitment and willed attention deployment. Conscious processing does not merely happen to be slow; it operates at a characteristic temporal resolution that shapes everything from decision timing to the phenomenology of agency.
 
 The specious present — the experienced duration of "now" — may reflect this temporal grain. If consciousness samples at ~3-4 Hz, each sample integrating information across roughly 300 milliseconds, the specious present is the phenomenal manifestation of the channel's temporal resolution. The brain processes at microsecond timescales; consciousness experiences at a timescale set by its bandwidth.
 
@@ -121,7 +121,7 @@ The [[filter-theory|filter model]] accommodates this naturally. If consciousness
 1. DeWall, C.N., Baumeister, R.F., & Masicampo, E.J. (2008). Evidence that logical reasoning depends on conscious processing. *Consciousness and Cognition*, 17(3), 628-645.
 1. Mandik, P. (2010). Control consciousness. *Topics in Cognitive Science*, 2(4), 643-657.
 1. Miller, G.A. (1956). The magical number seven, plus or minus two: Some limits on our capacity for processing information. *Psychological Review*, 63(2), 81-97.
-1. Musslick, S., Shenhav, A., Botvinick, M.M., & Cohen, J.D. (2016). The capacity of cognitive control estimated from a perceptual decision making task. *PLoS ONE*, 11(3).
+1. Wu, T., Dufford, A.J., Mackie, M.-A., Egan, L.J., & Fan, J. (2016). The capacity of cognitive control estimated from a perceptual decision making task. *Scientific Reports*, 6, 34025.
 1. Nørretranders, T. (1998). *The User Illusion: Cutting Consciousness Down to Size*. Viking Press.
 1. Pashler, H. (1994). Dual-task interference in simple tasks: Data and theory. *Psychological Bulletin*, 116(2), 220-244.
 1. Sauerbrei, B.A. & Pruszynski, J.A. (2025). The brain works at more than 10 bits per second. *Nature Neuroscience*.

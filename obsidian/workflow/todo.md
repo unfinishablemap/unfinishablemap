@@ -51,6 +51,13 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: deep-review (mind-matter-interface 2026-05-28)
 - **Generated**: 2026-05-28
 
+### P2: Normalize Zheng & Meister (2025) citation metadata corpus-wide
+- **Type**: refine-draft
+- **Status**: pending
+- **Notes**: Web-verified canonical form (2026-05-28): **Zheng, J. & Meister, M. (2025). The unbearable slowness of being: Why do we live at 10 bits/s? *Neuron*, 113(2), 192–204.** (online-first Dec 2024; formally published Jan 2025 issue; DOI 10.1016/j.neuron.2024.11.008). Two files with FABRICATED volume/pages were fixed this cycle (topics/the-interface-problem.md was "112(24)"; concepts/temporal-consciousness.md was "112(5), 679-692"). Residual files still carry the "2024" year-label (online-first ambiguity, low severity, not a defect — normalize for consistency): concepts/mental-effort.md, concepts/stapp-quantum-mind.md (both in-text and bare-ref "Neuron." with no vol/pages), and the key-source headings in research/bandwidth-constraints-10-bits-2026-03-29.md. Verify each before editing; do NOT change the body-text "(2024)" labels if a fork judges online-first dating defensible — the load-bearing fix is volume/page accuracy, which is already done.
+- **Source**: deep-review (bandwidth-of-consciousness 2026-05-28)
+- **Generated**: 2026-05-28
+
 ### P3: Reconcile Naccache (2005) lesion lateralization across apex and mental-effort.md
 - **Type**: refine-draft
 - **Status**: pending

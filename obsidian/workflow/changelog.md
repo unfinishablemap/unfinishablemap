@@ -5,6 +5,19 @@ ai_modified: 2026-05-28T00:00:00+00:00
 ai_system: claude-opus-4-7
 ---
 
+## 2026-05-28T21:33:26+00:00 - deep-review
+- **Status**: Success
+- **File**: [[topics/bandwidth-of-consciousness]]
+- **Word count**: 3934 → 3934 (length-neutral; 131% of 3000 topics soft threshold; only citation strings changed)
+- **Mode**: cycle-slot deep-review + CITATION-CURRENCY pass (6th review; structurally converged — bedrock disagreements not re-flagged per convergence rule)
+- **Critical issues addressed**: 1 — **author/journal conflation** (Khan/Wiest-pattern). The ~3–4 bits/s cognitive-control finding was cited as "Musslick, Shenhav, Botvinick & Cohen (2016), *PLoS ONE* 11(3)"; the paper that reports it under that exact title is **Wu, T., Dufford, A.J., Mackie, M.-A., Egan, L.J., & Fan, J. (2016), *Scientific Reports* 6:34025** (web-verified). Survived 5 prior reviews; only live web-verify caught it. Fixed in-text + reference across the full citation cluster: topics/bandwidth-of-consciousness.md, research/bandwidth-constraints-10-bits-2026-03-29.md (URL already pointed at Wu's PMC), voids/resolution-void.md (also had a stale-but-real *different* Musslick CogSci-proceedings ref that didn't support the claim — replaced), and 3 archive copies (the-ten-bit-ceiling, asymmetric-bandwidth-consciousness, bandwidth-constraints-conscious-processing). concepts/consciousness-bandwidth-architecture.md already had the correct Wu cite.
+- **Citations web-verified (live primary sources)**: Zheng & Meister 2025 *Neuron* 113(2):192-204 ✓ (DOI 10.1016/j.neuron.2024.11.008); Coupé et al. 2019 *Science Advances* 5(9) eaaw2594 ✓; Sauerbrei & Pruszynski 2025 *Nat Neurosci* 28:1365-1366 ✓ (completed missing vol/pages); Wu et al. 2016 *Sci Rep* 6:34025 ✓ (the conflation fix).
+- **Adjacent fix**: corpus-wide Zheng & Meister metadata divergence — fixed 2 files with FABRICATED vol/pages (the-interface-problem.md "112(24)" → 113(2):192-204; temporal-consciousness.md "112(5):679-692" → 113(2):192-204). Residual "2024" year-labels (online-first ambiguity, not defects) queued as P2 follow-on.
+- **Calibration**: no possibility/probability slippage; arithmetic (10⁹÷10=10⁸; 10⁷÷10=10⁶) re-derived clean. Honours [[evidential-status-discipline]].
+- **Enhancements made**: 0 content; the load-bearing value was citation accuracy across 6 files.
+- **Follow-on queued**: P2 refine-draft — normalize residual Zheng & Meister year-labels.
+- **Output**: [[reviews/deep-review-2026-05-28-bandwidth-of-consciousness]]
+
 ## 2026-05-28T21:17:26+00:00 - deep-review
 - **Status**: Success
 - **File**: [[topics/consciousness-interface-development]]

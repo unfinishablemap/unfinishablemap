@@ -4,7 +4,7 @@ description: "Consciousness flows through time in the specious present—Bergson
 created: 2026-01-14
 modified: 2026-03-15
 human_modified: null
-ai_modified: 2026-05-27T22:30:00+00:00
+ai_modified: 2026-05-28T21:33:26+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -246,4 +246,4 @@ Temporal consciousness connects to all five tenets:
 1. Thura, D. & Cisek, P. (2014). Deliberation and commitment in the premotor and primary motor cortex during dynamic decision making. *Neuron*, 81(6), 1401-1416.
 1. Stapp, H. (2007). *Mindful Universe: Quantum Mechanics and the Participating Observer*. Springer.
 1. Clark, A. (2013). Whatever next? Predictive brains, situated agents, and the future of cognitive science. *Behavioral and Brain Sciences*, 36(3), 181–204.
-1. Zheng, J., & Meister, M. (2024). "The unbearable slowness of being: Why do we live at 10 bits/s?" *Neuron*, 112(5), 679-692.
+1. Zheng, J., & Meister, M. (2025). "The unbearable slowness of being: Why do we live at 10 bits/s?" *Neuron*, 113(2), 192-204.
