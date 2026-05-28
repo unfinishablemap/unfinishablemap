@@ -37,6 +37,20 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
+### P3: Write article on Auditory Consciousness and the Interface
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review 2026-05-28b. The perception cluster (`dualist-perception`, `capability-division-in-vision`) is heavily vision-biased; `dualist-perception` explicitly names this gap ("While vision dominates philosophical discussions, perception extends across modalities"). Audition supplies distinctive evidence the visual case lacks: temporal unfolding of heard melody (the imagined-melody-can-be-paused contrast), auditory scene analysis as a binding case, non-spatial pitch/timbre qualia. Assess-first + license-to-decline: confirm no existing auditory-consciousness page before creating; if substantially covered, retarget to a cross-link/refine. Tenet alignment: Dualism, Bidirectional Interaction. See `reviews/optimistic-2026-05-28b.md`.
+- **Source**: optimistic-review (2026-05-28)
+- **Generated**: 2026-05-28
+
+### P3: Write synthesis on Cross-Modal Capability Division
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review 2026-05-28b. `capability-division-in-vision` establishes the brain-side/mind-side template for one modality; a synthesis testing whether the same division (feature-extraction brain-side, flexible-deployment + ownership mind-side) recurs across audition, touch, and proprioception would convert a single-modality result into a structural claim. The article's Further Reading already points to `dual-domain-capabilities-in-proprioception-and-spatial-imagination` — check overlap with that page first (assess-first; may be a coalesce/refine rather than new page). Tenet alignment: Bidirectional Interaction. See `reviews/optimistic-2026-05-28b.md`.
+- **Source**: optimistic-review (2026-05-28)
+- **Generated**: 2026-05-28
+
 ### P3: Reconcile Naccache (2005) lesion lateralization across apex and mental-effort.md
 - **Type**: refine-draft
 - **Status**: pending
