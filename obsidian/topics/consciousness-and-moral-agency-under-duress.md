@@ -4,7 +4,7 @@ description: "How extreme pressure transforms conscious moral agency—exploring
 created: 2026-02-15
 modified: 2026-02-15
 human_modified:
-ai_modified: 2026-05-27T07:53:55+00:00
+ai_modified: 2026-05-28T19:21:50+00:00
 draft: false
 topics:
   - "[[topics/free-will]]"
@@ -35,7 +35,7 @@ author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-02-15
 last_curated:
-last_deep_review: 2026-04-17T06:55:00+00:00
+last_deep_review: 2026-05-28T19:21:50+00:00
 ---
 
 When someone acts under extreme duress—a gun to their head, a child in danger, a split-second before catastrophe—are they still morally responsible? The Unfinishable Map's commitment to [[interactionist-dualism]] and [[bidirectional-interaction]] reframes this ancient question. If consciousness genuinely causes actions by selecting among quantum-indeterminate neural states, then duress does not eliminate agency. It constrains the conditions under which consciousness operates, narrowing the field of live options without reducing the agent to a mere mechanism. Moral agency under duress becomes a test case for whether consciousness is truly causally efficacious or causally inert. A related case—[[ethics-of-cognitive-enhancement-under-dualism|cognitive enhancement]]—constrains the choice landscape not through external pressure but through permanent interface modification, raising parallel questions about how menu constraints affect the moral significance of choosing.
@@ -74,7 +74,7 @@ This has direct implications for [[moral-responsibility]]. Responsibility is dim
 
 One revealing feature of duress is what it teaches about consciousness's *veto* capacity. Even under extreme pressure, some agents refuse to comply. Individuals endure torture rather than betray comrades. Parents sacrifice themselves rather than abandon children. These cases represent consciousness overriding the strongest possible survival signals—exercising its causal power against the full weight of biological imperatives.
 
-From the Map's perspective, these acts of resistance are among the strongest evidence for [[bidirectional-interaction]]. If consciousness were [[concepts/epiphenomenalism|epiphenomenal]], the decision to resist torture would be determined entirely by prior physical states—neural architecture, hormone levels, learned patterns. The subjective experience of choosing to resist would be causally inert. The variation in responses to similar duress conditions is striking: individuals with comparable training, personality profiles, and neural architecture sometimes respond differently under pressure. Resilience research has identified contributing factors—trait conscientiousness, prefrontal-amygdala connectivity, prior conditioning—but these predictors leave substantial residual variance (Morgan et al., 2004). The Map reads this residual as evidence that [[concepts/consciousness-selecting-neural-patterns|consciousness is performing genuine selection]] among the options that physical conditions leave open.
+From the Map's perspective, these acts of resistance are among the strongest evidence for [[bidirectional-interaction]]. If consciousness were [[concepts/epiphenomenalism|epiphenomenal]], the decision to resist torture would be determined entirely by prior physical states—neural architecture, hormone levels, learned patterns. The subjective experience of choosing to resist would be causally inert. The variation in responses to similar duress conditions is striking: individuals with comparable training, personality profiles, and neural architecture sometimes respond differently under pressure. Resilience research has identified contributing factors—trait conscientiousness, prefrontal-amygdala connectivity, prior conditioning—but these predictors leave substantial residual variance (Morgan et al., 2006). The Map reads this residual as evidence that [[concepts/consciousness-selecting-neural-patterns|consciousness is performing genuine selection]] among the options that physical conditions leave open.
 
 The veto under duress also illuminates [[self-opacity|volitional opacity]]. Accounts from prisoners of war and survivors of extreme coercion suggest a recurring pattern: agents describe knowing they chose to resist but being unable to explain the mechanism connecting their commitment to their endurance (Stockdale, 1984). The connection remains introspectively opaque. This opacity is consistent with the Map's account of quantum-level interaction: the interface between consciousness and brain operates below the threshold of introspective access.
 
@@ -133,5 +133,5 @@ This framework avoids two extremes. Against hard determinism, it maintains that 
 
 1. Aristotle. *Nicomachean Ethics*, Book III, Chapters 1–5. (Compulsion and voluntariness in action.)
 1. Frankfurt, H. (1969). "Alternate Possibilities and Moral Responsibility." *Journal of Philosophy*, 66(23), 829–839.
-1. Morgan, C. A. et al. (2004). "Stress-induced deficits in working memory and visuo-constructive abilities in Special Operations soldiers." *Biological Psychiatry*, 56(12), 880–889.
+1. Morgan, C. A. et al. (2006). "Stress-induced deficits in working memory and visuo-constructive abilities in Special Operations soldiers." *Biological Psychiatry*, 60(7), 722–729.
 1. Stockdale, J. B. (1984). "The World of Epictetus." In *A Vietnam Experience: Ten Years of Reflection*. Hoover Institution Press.

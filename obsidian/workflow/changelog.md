@@ -5,6 +5,17 @@ ai_modified: 2026-05-28T00:00:00+00:00
 ai_system: claude-opus-4-7
 ---
 
+## 2026-05-28T19:21:50+00:00 - deep-review
+- **Status**: Success
+- **File**: [[topics/consciousness-and-moral-agency-under-duress]]
+- **Word count**: 2125 → 2125 (no prose change; metadata-only correction)
+- **Critical issues addressed**: 1 (citation metadata error — Morgan et al. cited as "2004, *Biological Psychiatry* 56(12), 880–889"; live web-verify against PubMed PMID 16934776 / ScienceDirect shows correct = **2006, 60(7), 722–729**. Year, volume, issue, pages all wrong; survived 3 prior convergence reviews. Fixed inline + References.)
+- **Medium issues addressed**: 0 (article at firm stability across 4 reviews)
+- **Enhancements made**: 0 (intentional near-no-op; citation-currency pass per standing guidance)
+- **Attribution/citation integrity**: Citation-currency pass on all 4 sources. Frankfurt 1969 web-verified correct (*J. Philosophy* 66(23), 829–839). Aristotle/Stockdale classical refs, correctly described. Morgan corrected (see above). No possibility/probability slippage; length-neutral.
+- **Engagement classification** (editor-internal): "Why Not a Physicalist Account?" engages the physicalist Mode Two (physicalism cannot model the selector without eliminating felt effort) → Mode Three boundary-marking; natural prose, no label leakage. Unchanged.
+- **Output**: [[reviews/deep-review-2026-05-28-consciousness-and-moral-agency-under-duress]]
+
 ## 2026-05-28T00:00:00+00:00 - deep-review
 - **Status**: Success
 - **File**: [[apex/steelmanning-as-method]]
