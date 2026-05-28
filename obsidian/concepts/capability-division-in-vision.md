@@ -4,7 +4,7 @@ description: "Vision divides between brain-side computation and mind-side phenom
 created: 2026-03-17
 modified: 2026-03-17
 human_modified:
-ai_modified: 2026-05-28T20:15:00+00:00
+ai_modified: 2026-05-28T23:22:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -45,7 +45,7 @@ Extensive visual processing proceeds without phenomenal awareness. The evidence 
 
 **Affective evaluation.** Subliminal faces activate amygdala responses. Emotional valence is tagged to stimuli before they reach awareness. The brain makes fast, coarse evaluations — threat or non-threat, approach or avoid — without phenomenal input.
 
-**Blindsight discrimination.** Patients with V1 damage discriminate orientation, motion direction, colour, and emotional expression in their blind field at rates significantly above chance (Weiskrantz, 1986). The brain extracts and routes visual information through subcortical and extrastriate pathways sufficient for forced-choice performance. This is the [[baseline-cognition|baseline cognition]] pattern applied to vision: capable but bounded.
+**Blindsight discrimination.** Patients with V1 damage discriminate orientation, motion direction, and colour in their blind field at rates significantly above chance (Weiskrantz, 1986); the dissociation extends even to facial emotional expressions (de Gelder, Vroomen, Pourtois & Weiskrantz, 1999). The brain extracts and routes visual information through subcortical and extrastriate pathways sufficient for forced-choice performance. This is the [[baseline-cognition|baseline cognition]] pattern applied to vision: capable but bounded.
 
 ## Where Consciousness Enters
 
@@ -112,6 +112,7 @@ One speculative possibility: the mind-side contribution in vision may not be an 
 2. Ludwig, D. (2023). "The functions of consciousness in visual processing." *Neuroscience of Consciousness*, 2023(1), niac018.
 3. Fahrenfort, J. J., Van Leeuwen, J., Olivers, C. N. L. & Hogendoorn, H. (2017). "Perceptual integration without conscious access." *Proceedings of the National Academy of Sciences*, 114(14), 3744-3749.
 4. Goodale, M. A., Milner, A. D., Jakobson, L. S. & Carey, D. P. (1991). "A neurological dissociation between perceiving objects and grasping them." *Nature*, 349, 154-156.
+10. de Gelder, B., Vroomen, J., Pourtois, G. & Weiskrantz, L. (1999). "Non-conscious recognition of affect in the absence of striate cortex." *NeuroReport*, 10(18), 3759-3763.
 5. Goodale, M. A. & Milner, A. D. (1992). "Separate visual pathways for perception and action." *Trends in Neurosciences*, 15(1), 20-25.
 6. Phillips, I. (2021). "Blindsight Is Qualitatively Degraded Conscious Vision." *Psychological Review*, 128(3), 558-584.
 7. Weiskrantz, L. (1986). *Blindsight: A Case Study and Implications*. Oxford University Press.

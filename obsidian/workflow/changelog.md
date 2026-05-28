@@ -1,9 +1,22 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-28T22:55:09+00:00
-ai_system: claude-opus-4-7
+ai_modified: 2026-05-28T23:22:00+00:00
+ai_system: claude-opus-4-8
 ---
+
+## 2026-05-28T23:22:00+00:00 - deep-review
+- **Status**: Success (1 critical citation defect fixed + corpus propagation)
+- **File**: [[topics/dualist-perception]]
+- **Word count**: 3388 → 3388 (length-neutral; +30w citation correction offset by paragraph tightening; 113% soft threshold, below 4000 hard)
+- **Critical issues addressed**: 1 (source-conclusion citation defect)
+- **Medium issues addressed**: 0
+- **Enhancements made**: 1 (citation accuracy: split basic vs affective blindsight)
+- **Citation defect (source-conclusion)**: "reading emotional expressions" was attributed to Weiskrantz (1986), which covers only basic discrimination (light/motion/shape/colour). Affective blindsight was first shown by de Gelder, Vroomen, Pourtois & Weiskrantz (1999), *NeuroReport* 10(18):3759-3763 (metadata web-verified). Split the claim; added de Gelder et al. to References. Same defect propagated to and fixed in [[concepts/capability-division-in-vision]] (was "(Weiskrantz, 1986)" for an emotional-expression list). concepts/blindsight.md already had the correct de Gelder attribution.
+- **Citation-currency pass (metadata)**: Sperling 1960 (74(11):1-29), Block 2007 (BBS 30(5-6):481-499), Clark 2013 (BBS 36(3):181-204), Marcel 1983 (Cog Psych 15(2):197-237) all web-verified CLEAN. Canonical philosophy cites unchanged across 3 reviews.
+- **Reasoning-mode (editor-internal)**: physicalist engagement in Dissociations = Mode Two (unsupported foundational move, handled honestly); explanatory-gap physicalist = Mode Three (boundary-marking). No boundary-substitution, no label leakage.
+- **Convergence**: 3rd review; firmly converged. Quantum-interaction hedging intact; no calibration slippage.
+- **Output**: [[reviews/deep-review-2026-05-28-dualist-perception]]
 
 ## 2026-05-28T23:17:18+00:00 - deep-review
 - **Status**: Success (converged, near-no-op)
