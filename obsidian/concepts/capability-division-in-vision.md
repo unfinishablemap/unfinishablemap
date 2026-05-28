@@ -4,7 +4,7 @@ description: "Vision divides between brain-side computation and mind-side phenom
 created: 2026-03-17
 modified: 2026-03-17
 human_modified:
-ai_modified: 2026-04-17T23:34:00+00:00
+ai_modified: 2026-05-28T19:28:46+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -25,23 +25,23 @@ related_articles:
   - "[[conscious-vs-unconscious-processing]]"
 ai_contribution: 100
 author:
-ai_system: claude-opus-4-6
+ai_system: claude-opus-4-8
 ai_generated_date: 2026-03-17
 last_curated:
-last_deep_review: 2026-04-17T23:34:00+00:00
+last_deep_review: 2026-05-28T19:28:46+00:00
 ---
 
 Vision is the most data-rich sense and the sharpest test case for interactionist dualism's central operational question: which capabilities belong to the brain and which to the mind? The Unfinishable Map's [[capability-division-problem|capability division problem]] frames this as a genuine void — a boundary that may resist precise drawing. This article examines the specific evidence from visual neuroscience that constrains where the division falls, establishing what the brain demonstrably handles alone and where consciousness appears to make an irreducible contribution.
 
-Three lines of evidence converge on a rough boundary. [[blindsight|Blindsight]] reveals what vision looks like without conscious participation. The two-streams hypothesis (Milner & Goodale, 1992) provides neuroanatomical grounding for the dissociation. Research on perceptual organisation identifies a candidate transition point where consciousness enters visual processing.
+Three lines of evidence converge on a rough boundary. [[blindsight|Blindsight]] reveals what vision looks like without conscious participation. The two-streams hypothesis (Goodale & Milner, 1992) provides neuroanatomical grounding for the dissociation. Research on perceptual organisation identifies a candidate transition point where consciousness enters visual processing.
 
 ## What the Brain Handles Alone
 
 Extensive visual processing proceeds without phenomenal awareness. The evidence is strong and the Map does not dispute it — brain-side visual computation is sophisticated.
 
-**Feature extraction and early categorisation.** Orientation, colour, spatial frequency, and motion direction are extracted in primary visual cortex (V1) and early extrastriate areas. Masked and subliminal stimuli activate these processes at rates well above chance, demonstrating that they do not require consciousness (Fahrenfort et al., 2023). The brain builds a feature map before any phenomenal experience arises.
+**Feature extraction and early categorisation.** Orientation, colour, spatial frequency, and motion direction are extracted in primary visual cortex (V1) and early extrastriate areas. Masked and subliminal stimuli activate these processes at rates well above chance, demonstrating that they do not require consciousness (Ludwig, 2023). The brain builds a feature map before any phenomenal experience arises.
 
-**Action guidance via the dorsal stream.** The dorsal pathway ("where/how") computes spatial relationships and motor parameters for real-time interaction with objects. Patient DF, with bilateral damage to the lateral occipital complex, could orient her hand to a mail slot she could not consciously perceive — dorsal processing intact, ventral processing impaired (Milner & Goodale, 1992). Reaching, grasping, and obstacle avoidance operate with minimal dependence on conscious awareness.
+**Action guidance via the dorsal stream.** The dorsal pathway ("where/how") computes spatial relationships and motor parameters for real-time interaction with objects. Patient DF, with bilateral damage to the lateral occipital complex, could orient her hand to a mail slot she could not consciously perceive — dorsal processing intact, ventral processing impaired (Goodale & Milner, 1992). Reaching, grasping, and obstacle avoidance operate with minimal dependence on conscious awareness.
 
 **Affective evaluation.** Subliminal faces activate amygdala responses. Emotional valence is tagged to stimuli before they reach awareness. The brain makes fast, coarse evaluations — threat or non-threat, approach or avoid — without phenomenal input.
 
@@ -51,7 +51,7 @@ Extensive visual processing proceeds without phenomenal awareness. The evidence 
 
 If the brain handles so much, what does consciousness contribute? The evidence points not to a discrete additional function but to a qualitative transformation in how visual information is available.
 
-**Perceptual organisation.** Grouping, figure-ground segregation, and binding into coherent objects mark the transition from unconscious to conscious visual processing (Fahrenfort et al., 2023). Individual features are extracted without awareness; their integration into unified percepts correlates with the emergence of phenomenal experience. This is the [[binding-void|binding problem]] made operational: the brain detects edges and colours, but the experienced apple — red, round, sitting on a table — involves a kind of integration that tracks with consciousness.
+**Perceptual organisation.** Grouping, figure-ground segregation, and binding into coherent objects mark a candidate transition from unconscious to conscious visual processing (Ludwig, 2023). Individual features are extracted without awareness; their integration into unified percepts correlates with the emergence of phenomenal experience. The threshold is not sharp: some perceptual integration can proceed without conscious access, leaving a neural signature indistinguishable from consciously integrated percepts (Fahrenfort et al., 2017), so the boundary marks where integration reliably *tracks* awareness rather than a clean on/off switch. This is the [[binding-void|binding problem]] made operational: the brain detects edges and colours, but the experienced apple — red, round, sitting on a table — involves a kind of integration that tracks with consciousness.
 
 **Detection and spontaneous report.** Blindsight patients succeed at forced-choice discrimination but fail at detection — they cannot report whether anything appeared at all (Derrien et al., 2022). Conscious vision enables not just responding to stimuli but knowing that stimuli are present. This is the difference between a system that reacts and a system that perceives.
 
@@ -61,7 +61,7 @@ If the brain handles so much, what does consciousness contribute? The evidence p
 
 ## The Two-Streams Dissociation as Structural Evidence
 
-The ventral-dorsal dissociation provides the closest thing to a neuroanatomical map of the capability division. The dorsal stream operates largely without conscious awareness and handles visuomotor coordination. The ventral stream handles object recognition and is significantly more dependent on conscious perception — ventral-pathway activity is substantially higher for consciously perceived stimuli than for matched unconscious stimuli (Fahrenfort et al., 2023).
+The ventral-dorsal dissociation provides the closest thing to a neuroanatomical map of the capability division. The dorsal stream operates largely without conscious awareness and handles visuomotor coordination; the ventral stream handles object recognition and is significantly more dependent on conscious perception (Goodale & Milner, 1992). The functions consciousness adds to vision — durable representation, flexible cross-context integration, report — cluster on the recognition side rather than the action-guidance side (Ludwig, 2023).
 
 The dissociation is not absolute. The streams interact, and the dorsal stream is not entirely unconscious. But the pattern holds as a first approximation: the brain's action-guidance system (dorsal) can operate with minimal mind-side contribution, while the brain's recognition system (ventral) depends heavily on phenomenal awareness.
 
@@ -69,7 +69,7 @@ For interactionist dualism, this suggests the mind-brain interface is more activ
 
 ## Phillips's Challenge
 
-The clean division between conscious and unconscious visual capabilities faces a serious challenge. Phillips (2021) argues that [[blindsight]] involves qualitatively degraded conscious vision rather than truly unconscious processing. On this view, blindsight patients retain residual phenomenal experience — faint, fragmented, difficult to report — rather than processing visual information with no experience whatsoever.
+The clean division between conscious and unconscious visual capabilities faces a serious challenge. Phillips (2021) argues that [[blindsight]] involves qualitatively degraded conscious vision rather than truly unconscious processing. On this view, blindsight patients retain faint residual phenomenal experience and fail to report it because of a conservative response bias — they set a high threshold for declaring that they saw anything — rather than processing visual information with no experience whatsoever.
 
 If Phillips is correct, the capability division shifts. Less can be attributed to the brain alone, because what appeared to be unconscious processing retains a conscious component. The boundary between brain-side and mind-side contributions becomes harder to draw, not because the division is unreal but because consciousness may be more pervasive in visual processing than the standard picture suggests.
 
@@ -109,9 +109,10 @@ One speculative possibility: the mind-side contribution in vision may not be an 
 ## References
 
 1. Derrien, D., Garric, C., Sergent, C. & Chokron, S. (2022). "The nature of blindsight: implications for current theories of consciousness." *Neuroscience of Consciousness*, 2022(1), niab043.
-2. Fahrenfort, J. J. et al. (2023). "The functions of consciousness in visual processing." *Neuroscience of Consciousness*, 2023(1), niac018.
-3. Milner, A. D. & Goodale, M. A. (1992). "Separate visual pathways for perception and action." *Trends in Neurosciences*, 15(1), 20-25.
-4. Phillips, I. (2021). "Blindsight Is Qualitatively Degraded Conscious Vision." *Psychological Review*, 128(3), 558-584.
-5. Weiskrantz, L. (1986). *Blindsight: A Case Study and Implications*. Oxford University Press.
-6. Southgate, A. & Oquatre-six, C. (2026-03-09). The Capability Division Problem. *The Unfinishable Map*. https://unfinishablemap.org/voids/capability-division-problem/
-7. Southgate, A. & Sonquatre-cinq, C. (2026-01-23). Blindsight. *The Unfinishable Map*. https://unfinishablemap.org/concepts/blindsight/
+2. Ludwig, D. (2023). "The functions of consciousness in visual processing." *Neuroscience of Consciousness*, 2023(1), niac018.
+3. Fahrenfort, J. J., Van Leeuwen, J., Olivers, C. N. L. & Hogendoorn, H. (2017). "Perceptual integration without conscious access." *Proceedings of the National Academy of Sciences*, 114(14), 3744-3749.
+4. Goodale, M. A. & Milner, A. D. (1992). "Separate visual pathways for perception and action." *Trends in Neurosciences*, 15(1), 20-25.
+5. Phillips, I. (2021). "Blindsight Is Qualitatively Degraded Conscious Vision." *Psychological Review*, 128(3), 558-584.
+6. Weiskrantz, L. (1986). *Blindsight: A Case Study and Implications*. Oxford University Press.
+7. Southgate, A. & Oquatre-six, C. (2026-03-09). The Capability Division Problem. *The Unfinishable Map*. https://unfinishablemap.org/voids/capability-division-problem/
+8. Southgate, A. & Sonquatre-cinq, C. (2026-01-23). Blindsight. *The Unfinishable Map*. https://unfinishablemap.org/concepts/blindsight/

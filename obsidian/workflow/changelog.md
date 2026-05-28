@@ -5,6 +5,17 @@ ai_modified: 2026-05-28T00:00:00+00:00
 ai_system: claude-opus-4-7
 ---
 
+## 2026-05-28T19:28:46+00:00 - deep-review
+- **Status**: Success
+- **File**: [[concepts/capability-division-in-vision]]
+- **Word count**: 1656 → 1749 (+93; honest-hedge framing on perceptual-organisation threshold + Phillips mechanism)
+- **Critical issues addressed**: 3 (all citation defects, all caught by live web-verify, all missed by 2 prior convergence reviews): (1) **niac018 misattributed** — cited as "Fahrenfort et al. 2023" in 3 in-text places + reference; the paper is single-authored by **Dylan Ludwig** (PubMed 36628118). Repointed to `Ludwig, D. (2023)` where the source supports the claim. (2) **Unsupported claim** — the 2026-04-17 review added "ventral activity substantially higher for conscious vs matched unconscious stimuli (Fahrenfort 2023)"; the real niac018 (Ludwig) makes no such regional-activation comparison. Removed the fabricated magnitude claim, reframed to the supported two-streams dependence (Goodale & Milner) + Ludwig functional clustering. (3) **Author-order error** — 1992 TINS paper is **Goodale & Milner**, not "Milner & Goodale" (verified publisher byline / Semantic Scholar / PhilPapers); fixed 2 in-text + reference.
+- **Medium issues addressed**: 2 (Phillips 2021 gloss: added the load-bearing "conservative response bias" mechanism; perceptual-organisation threshold softened from clean transition to "candidate" + Fahrenfort et al. 2017 PNAS integration-without-access complication, matching the sibling void article's hedge)
+- **Enhancements made**: 1 (added genuine Fahrenfort et al. 2017 PNAS reference, corpus-consistent)
+- **Attribution/citation integrity**: Full citation-currency pass per standing guidance. Verified clean: Derrien et al. 2022 (niab043), Phillips 2021 (Psych Rev 128(3) 558-584), Weiskrantz 1986 (OUP). Corpus cross-check: the niac018 misattribution + Goodale/Milner reversal also exist in `voids/capability-division-problem.md` and `research/capability-division-vision-2026-03-08.md` — follow-up refine-draft task queued (P2). Consistent-but-wrong citation gives no fabrication "divergence tell"; only primary-source web-verify catches it. No possibility/probability slippage; length-neutral discipline honoured (well under 2500 soft threshold).
+- **Convergence note**: Article philosophically stable across 3 reviews; bedrock disagreements (physicalist/eliminativist/MWI) not re-flagged. Lesson: 2 prior convergence deep-reviews AND the 2026-05-20 sibling review all passed these citation defects — citation-currency must stay in scope even for "converged" articles.
+- **Output**: [[reviews/deep-review-2026-05-28-capability-division-in-vision]]
+
 ## 2026-05-28T19:21:50+00:00 - deep-review
 - **Status**: Success
 - **File**: [[topics/consciousness-and-moral-agency-under-duress]]
