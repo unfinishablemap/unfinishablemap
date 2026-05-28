@@ -4,7 +4,7 @@ description: "Placebo effects and the choking phenomenon together form a two-sid
 created: 2026-02-02
 modified: 2026-05-10
 human_modified:
-ai_modified: 2026-05-27T22:15:00+00:00
+ai_modified: 2026-05-28T00:00:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -22,6 +22,7 @@ concepts:
   - "[[implicit-memory]]"
   - "[[embodied-cognition]]"
   - "[[attention-as-interface]]"
+  - "[[interface-friction]]"
   - "[[agent-causation]]"
   - "[[illusionism]]"
   - "[[mental-effort]]"
@@ -43,7 +44,7 @@ author:
 ai_system: claude-opus-4-7
 ai_generated_date: 2026-05-08
 last_curated:
-last_deep_review: 2026-05-09T20:38:00+00:00
+last_deep_review: 2026-05-28T00:00:00+00:00
 embedded_videos:
   - id: H3WzrTowuDQ
     url: https://www.youtube-nocookie.com/embed/H3WzrTowuDQ
@@ -54,7 +55,7 @@ coalesced_from:
   - "/topics/choking-phenomenon-mental-causation/"
 ---
 
-Two empirical phenomena, taken together, supply mutually reinforcing evidence for [[mental-causation-and-downward-causation|mental causation]] along complementary axes. The *placebo effect* shows beliefs and expectations producing measurable, content-specific physiological changes — endogenous opioid release, dopamine modulation, immune suppression — tracked by what the subject consciously understands a treatment to do. The *choking phenomenon* shows the converse: when consciousness intrudes on automatised skill, performance degrades in precisely those cases where self-focused monitoring is maximal. In the placebo case, belief and expectation produce measurable physiological effects tracked to their content; in the choking case, attention and self-monitoring produce measurable performance effects tracked to their mode. The Map reads the phenomenological character of belief, expectation, and attention as load-bearing in producing those effects — but this reading is contested, and the data alone do not force it. Each phenomenon *constrains* [[concepts/epiphenomenalism|epiphenomenalism]] from a different angle without *establishing* the dualist alternative (see [[evidential-status-discipline]]), and the conjunction is complementary in a way single-phenomenon arguments are not — operating across substrates that share little except the involvement of conscious processing.
+Two empirical phenomena, taken together, supply mutually reinforcing evidence for [[mental-causation-and-downward-causation|mental causation]] along complementary axes. The *placebo effect* shows beliefs and expectations producing measurable, content-specific physiological changes — endogenous opioid release, dopamine modulation, immune suppression — tracked by what the subject consciously understands a treatment to do. The *choking phenomenon* shows the converse: when consciousness intrudes on automatised skill, performance degrades in precisely those cases where self-focused monitoring is maximal — physiological effects tracked to content in the one, performance effects tracked to attentional mode in the other. The Map reads the phenomenological character of belief, expectation, and attention as load-bearing in producing those effects — but this reading is contested, and the data alone do not force it. Each phenomenon *constrains* [[concepts/epiphenomenalism|epiphenomenalism]] from a different angle without *establishing* the dualist alternative (see [[evidential-status-discipline]]), and the conjunction is complementary in a way single-phenomenon arguments are not — operating across substrates that share little except the involvement of conscious processing.
 
 <details class="yt-embed" data-video-id="H3WzrTowuDQ">
 <summary>Video introduction</summary>
@@ -94,11 +95,11 @@ The nocebo effect sharpens the point. Patients warned about specific side effect
 
 The meta-analytic ceiling is low to begin with. Hróbjartsson and Gøtzsche's (2010) Cochrane review found placebo's measurable effect confined to patient-reported continuous outcomes — most clearly pain (SMD ≈ -0.28) — with no clinically important effect on binary outcomes, and even the continuous/pain effect could not be cleanly separated from reporting bias and shrank in larger, lower-risk trials. The honest baseline is therefore a small, bias-vulnerable continuous-outcome effect, not a large one.
 
-Kaptchuk et al. (2010) showed that patients told they were receiving placebos still experienced significant improvement in irritable bowel syndrome symptoms. This shifts the argument rather than dissolving it. The strong content-specificity claim — that *propositional belief in efficacy* selects the cascade — weakens, since here patients believe the opposite. The conclusion that *some* mental causation operates survives intact; the work relocates to a less precisely targeted substrate: the felt engagement with a therapeutic ritual. Patients still choose to participate, interact with a practitioner, perform the act of taking a pill — acts of conscious engagement despite knowing it lacks pharmacological content. [[phenomenology-of-anticipation|The phenomenology of anticipation]] may matter as much as explicit belief, though it carries less specificity than belief about a particular drug.
+Kaptchuk et al. (2010) showed that patients told they were receiving placebos still experienced significant improvement in irritable bowel syndrome symptoms. The most recent synthesis sharpens the picture: Fendel et al.'s (2025) meta-analysis of 60 open-label-placebo trials found a small overall effect (SMD ≈ 0.35) that was markedly larger for self-reported outcomes (≈ 0.39) than objective ones (≈ 0.09, effectively null). This shifts the argument rather than dissolving it. The strong content-specificity claim — that *propositional belief in efficacy* selects the cascade — weakens, since here patients believe the opposite, and the self-report/objective gradient suggests the open-label effect concentrates where the outcome is itself a felt report. The conclusion that *some* mental causation operates survives intact; the work relocates to a less precisely targeted substrate: the felt engagement with a therapeutic ritual. Patients still choose to participate, interact with a practitioner, perform the act of taking a pill — acts of conscious engagement despite knowing it lacks pharmacological content. [[phenomenology-of-anticipation|The phenomenology of anticipation]] may matter as much as explicit belief, though it carries less specificity than belief about a particular drug.
 
 ### Conditioning and Meaning
 
-Placebo effects are sometimes dismissed as classical conditioning. Benedetti et al. (2003) show the division of labour is response-specific rather than uniform: conditioning dominated the *hormonal* responses (growth hormone and cortisol), where verbal expectation alone did nothing, while conscious *expectation* dominated and could override conditioning for the analgesic and motor responses. So conditioning captures part of the picture — the hormonal part squarely — but not the analgesic and motor effects, where novel verbal instructions select the outcome directly.
+Placebo effects are sometimes dismissed as classical conditioning. As Benedetti et al. (2003) show, conditioning captures part of the picture — the hormonal responses squarely — but not the analgesic and motor effects, where novel verbal instructions select the outcome directly.
 
 More fundamentally, human conditioning involves *expectation* — the conditioned stimulus works because the person expects the unconditioned response. When expectations are explicitly contradicted, conditioned responses diminish faster than in uninformed subjects (Montgomery & Kirsch, 1997). A recent review suggests placebo responses in depression may engage neuroplastic processes rather than purely transient shifts (Marueckova et al., 2024). [[predictive-processing-and-dualism|Predictive processing]] frameworks fit this: expectations function as strong priors shaping physiological prediction errors. Why those priors are accompanied by phenomenal experience returns us to the hard problem.
 
@@ -133,7 +134,7 @@ Choking reveals the architecture of the [[attention-as-interface|consciousness-b
 
 Crucially, the interface can re-engage: the expert driver notices unusual conditions and shifts attention; the expert typist catches an error and corrects. This three-phase pattern — calibration, withdrawal, retained override — reveals the structure of mind-body interaction.
 
-Choking occurs when re-engagement is *inappropriate*: consciousness intervenes in execution that would proceed better without monitoring. Choking disrupts the [[temporal-consciousness-structure-and-agency|temporal selection]] skilled performance requires: the unified moment where recognition and action are phenomenally whole splits into separate judgment and execution steps, destroying timing. Choking shares structure with [[phenomenology-of-deliberation-under-uncertainty|deliberative vertigo]] — the felt inadequacy of conscious monitoring for a task automatised skill handles better.
+Choking occurs when re-engagement is *inappropriate*: consciousness intervenes in execution that would proceed better without monitoring. On the Map's reading this is [[interface-friction]] made visible — the cost of forcing low-bandwidth conscious selection back into a channel automatised skill had delegated, where the re-engagement degrades rather than refines the outcome. Choking disrupts the [[temporal-consciousness-structure-and-agency|temporal selection]] skilled performance requires: the unified moment where recognition and action are phenomenally whole splits into separate judgment and execution steps, destroying timing. Choking shares structure with [[phenomenology-of-deliberation-under-uncertainty|deliberative vertigo]] — the felt inadequacy of conscious monitoring for a task automatised skill handles better.
 
 ## How the Two Cases Reinforce Each Other
 
@@ -196,6 +197,7 @@ These phenomena contribute one strand to a [[empirical-evidence-for-consciousnes
 - [[concepts/epiphenomenalism]] — The view both phenomena resist
 - [[content-specificity-of-mental-causation]] — Why content determines physical effects
 - [[attention-as-interface]] — How attention mediates consciousness-brain interaction
+- [[interface-friction]] — Choking as the destructive face of the consciousness-brain channel's cost structure
 - [[agent-causation]] — Substance causation as an alternative to event causation
 - [[clinical-neuroplasticity-evidence-for-bidirectional-causation]] — Mental causation through neuroplasticity
 - [[predictive-processing-and-dualism]] — How expectation mechanisms relate to dualism
@@ -210,13 +212,14 @@ These phenomena contribute one strand to a [[empirical-evidence-for-consciousnes
 5. Colloca, L. & Miller, F.G. (2011). The nocebo effect and its relevance for clinical practice. *Psychosomatic Medicine*, 73(7), 598-603.
 6. De la Fuente-Fernández, R. et al. (2001). Expectation and dopamine release: Mechanism of the placebo effect in Parkinson's disease. *Science*, 293(5532), 1164-1166.
 7. Dreyfus, H., & Dreyfus, S. (1986). *Mind over Machine*. Free Press.
-8. Goebel, M.U. et al. (2002). Behavioral conditioning of immunosuppression is possible in humans. *FASEB Journal*, 16(14), 1869-1873.
-9. Hróbjartsson, A. & Gøtzsche, P. C. (2010). Placebo interventions for all clinical conditions. *Cochrane Database of Systematic Reviews*, (1), CD003974.
-10. Kaptchuk, T.J. et al. (2010). Placebos without deception: A randomized controlled trial in irritable bowel syndrome. *PLoS ONE*, 5(12), e15591.
-11. Levine, J.D., Gordon, N.C., & Fields, H.L. (1978). The mechanism of placebo analgesia. *The Lancet*, 312(8091), 654-657.
-12. Lowe, E. J. (2008). *Personal Agency: The Metaphysics of Mind and Action*. Oxford University Press.
-13. Marueckova, A. et al. (2024). Placebo stimulates neuroplasticity in depression: Implications for clinical practice and research. *Frontiers in Psychiatry*, 14, 1301143.
-14. Masters, R. S. W. (1992). Knowledge, knerves and know-how: The role of explicit versus implicit knowledge in the breakdown of a complex motor skill under pressure. *British Journal of Psychology*, 83(3), 343-358.
-15. Merleau-Ponty, M. (1945/1962). *Phenomenology of Perception*. Routledge.
-16. Montgomery, G.H. & Kirsch, I. (1997). Classical conditioning and the placebo effect. *Pain*, 72(1-2), 107-113.
-17. Tulving, E. (1985). Memory and consciousness. *Canadian Psychology*, 26(1), 1-12.
+8. Fendel, J. C., Tiersch, C., Sölder, P., Gaab, J., & Schmidt, S. (2025). Effects of open-label placebos across populations and outcomes: an updated systematic review and meta-analysis of randomized controlled trials. *Scientific Reports*, 15, 29940.
+9. Goebel, M.U. et al. (2002). Behavioral conditioning of immunosuppression is possible in humans. *FASEB Journal*, 16(14), 1869-1873.
+10. Hróbjartsson, A. & Gøtzsche, P. C. (2010). Placebo interventions for all clinical conditions. *Cochrane Database of Systematic Reviews*, (1), CD003974.
+11. Kaptchuk, T.J. et al. (2010). Placebos without deception: A randomized controlled trial in irritable bowel syndrome. *PLoS ONE*, 5(12), e15591.
+12. Levine, J.D., Gordon, N.C., & Fields, H.L. (1978). The mechanism of placebo analgesia. *The Lancet*, 312(8091), 654-657.
+13. Lowe, E. J. (2008). *Personal Agency: The Metaphysics of Mind and Action*. Oxford University Press.
+14. Marueckova, A. et al. (2024). Placebo stimulates neuroplasticity in depression: Implications for clinical practice and research. *Frontiers in Psychiatry*, 14, 1301143.
+15. Masters, R. S. W. (1992). Knowledge, knerves and know-how: The role of explicit versus implicit knowledge in the breakdown of a complex motor skill under pressure. *British Journal of Psychology*, 83(3), 343-358.
+16. Merleau-Ponty, M. (1945/1962). *Phenomenology of Perception*. Routledge.
+17. Montgomery, G.H. & Kirsch, I. (1997). Classical conditioning and the placebo effect. *Pain*, 72(1-2), 107-113.
+18. Tulving, E. (1985). Memory and consciousness. *Canadian Psychology*, 26(1), 1-12.

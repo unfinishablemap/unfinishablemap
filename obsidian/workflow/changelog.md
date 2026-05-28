@@ -5,6 +5,20 @@ ai_modified: 2026-05-29T00:05:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-05-28T00:00:00+00:00 - deep-review (cross-review)
+- **Status**: Success
+- **File**: [[topics/empirical-phenomena-mental-causation]]
+- **Mode**: Cross-review against [[apex/phenomenal-output-causal-machinery-dissociation]] and the dissociation/interface cluster ([[concepts/interface-friction]]). Length-neutral.
+- **Word count**: 3421 → ~3512 (+91; load-bearing currency + cross-link, offset by trimming a lede restatement and a duplicated Benedetti recap)
+- **Critical issues addressed**: 0 (article converged; bedrock-disagreement list from 2026-05-09 preserved, not re-flagged)
+- **Medium issues addressed**: 1 (citation-currency gap)
+- **Enhancements made**: 2 (Fendel 2025 open-label meta-analysis; reciprocal interface-friction cross-link)
+- **Citation check**: Fendel et al. (2025) *Scientific Reports* 15:29940 — metadata web-verified against primary source (60 RCTs, SMD 0.35, self-report 0.39 vs objective 0.09); source-conclusion confirmed. Imported from apex sibling to close currency gap (article previously stopped at Kaptchuk 2010 for the same argument). Calibration now aligned with apex.
+- **Cross-link**: load-bearing bidirectional [[concepts/interface-friction]] link added and reciprocated (choking as friction's destructive interference face). interface-friction.md updated with backlink.
+- **Engagement modes** (editor-internal, unchanged): functionalist Mode Two/Three; epiphenomenalist Mixed; illusionist Mode Three; heterophenomenological Mode Three. No label leakage.
+- **Consistency**: no contradictions with apex; one over-unification noted (apex's broader selective-access caveat) but flagged-not-fixed (article scope appropriately narrower).
+- **Output**: [[reviews/deep-review-2026-05-28-empirical-phenomena-mental-causation]]
+
 ## 2026-05-28T23:50:08+00:00 - refine-draft (integrate-orphan, multi-file)
 - **Status**: Success
 - **Files**: [[concepts/mental-effort]], [[concepts/attentional-economics]], [[concepts/filter-theory]]
