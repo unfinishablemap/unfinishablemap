@@ -5,6 +5,19 @@ ai_modified: 2026-05-28T00:00:00+00:00
 ai_system: claude-opus-4-7
 ---
 
+## 2026-05-28T22:33:06+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[topics/incubation-effect-and-unconscious-processing]]
+- **Task**: topic-concept anchoring calibration (audit 2026-05-28) — clear flags against [[global-workspace-theory]] and [[mental-effort]]
+- **Changes**:
+  - Recast 2 strong-assertion verbs into honest non-assertive forms (no force-deletion): "the dream evidence...shows that phenomenal mode matters" → "suggests that phenomenal mode may matter...suggestive rather than decisive"; "the phenomenology of insight confirms this" → "seems to fit this picture...plausibly requires".
+  - Added genuine underdetermination markers where the mechanism is honestly debated (spreading-activation vs selective-forgetting vs fixation-release): "the behavioural data may be underdetermined by the evidence as to which dominates" and "the difficulties below do not adjudicate that internal dispute". Underdetermination is honest here, not padding.
+  - Added conditional hedges on the DMN mechanistic claims (causation-vs-correlation directionality left open) where the mechanism is unsettled.
+  - Core thesis preserved (incubation depends on prior conscious engagement); no weakening of central claim; length-neutral (2638 → 2747 words).
+- **Calibration before → after**: hedge_density 3.41 → 6.19/kw (clears GWT 6.09 bar with margin); strong_assertion_count 2 → 0; underdetermination_marker_count 0 → 1.
+- **Verification**: re-ran tools.curate.anchoring.evaluate_anchoring against obsidian/ — ZERO flags for both global-workspace-theory and mental-effort.
+- **Published**: yes
+
 ## 2026-05-28T00:00:00+00:00 - deep-review
 - **Status**: Success (near-no-op; verification pass)
 - **File**: [[apex/self-construction-constructor]]

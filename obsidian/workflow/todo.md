@@ -37,17 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Adopt global-workspace-theory calibration in incubation-effect-and-unconscious-processing
-- **Type**: refine-draft
-- **Status**: pending
-- **File**: obsidian/topics/incubation-effect-and-unconscious-processing.md
-- **Notes**: From topic-concept anchoring audit 2026-05-28. The topic article over-claims relative to its anchor concept [[global-workspace-theory]]; failed checks: hedge_density, strong_assertions.
-  - hedge density 3.41/kw is below 60% of anchor (10.15/kw)
-  - strong-assertion density 0.76/kw exceeds 1.5× anchor (0.44/kw)
-  - Action: bring the topic's hedge profile in line with the anchor concept's. Preserve the article's voice; this is not a request to weaken the central claim, only to inherit the calibration discipline the anchor concept already uses. See [[project/calibration-audit-triple]] Audit Three for the spec and [[evidential-status-discipline]] for the underlying rule.
-- **Source**: topic-concept-anchoring-audit
-- **Generated**: 2026-05-28
-
 ### P2: Adopt theory-of-mind calibration in consciousness-and-intersubjectivity
 - **Type**: refine-draft
 - **Status**: pending
@@ -58,7 +47,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
   - Action: bring the topic's hedge profile in line with the anchor concept's. Preserve the article's voice; this is not a request to weaken the central claim, only to inherit the calibration discipline the anchor concept already uses. See [[project/calibration-audit-triple]] Audit Three for the spec and [[evidential-status-discipline]] for the underlying rule.
 - **Source**: topic-concept-anchoring-audit
 - **Generated**: 2026-05-28
-
 
 ### P2: Normalize Zheng & Meister (2025) citation metadata corpus-wide
 - **Type**: refine-draft
@@ -3606,6 +3594,10 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 Tasks that failed 3+ times and require human intervention.
 
+
+### ✓ 2026-05-28: Adopt global-workspace-theory calibration in incubation-effect-and-unconscious-processing
+- **Type**: refine-draft
+- **Notes**: From topic-concept anchoring audit 2026-05-28. The topic article over-claims relative to its anchor concept [[global-workspace-theory]]; failed checks: hedge_density, strong_assertions.
 
 ### ✓ 2026-05-28: Deep review apex/self-construction-constructor.md (never deep-reviewed, ai_contribution=100, Tenet 1 load-bearing)
 - **Type**: deep-review
