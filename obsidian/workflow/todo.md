@@ -53,7 +53,7 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: staleness
 - **Generated**: 2026-05-28
 
-### P2: Deep review concepts/mind-matter-interface.md (40 days since last review, ai_contribution=100, Tenet 1/2/3 load-bearing hub)
+### P1: Deep review concepts/mind-matter-interface.md (40 days since last review, ai_contribution=100, Tenet 1/2/3 load-bearing hub)
 - **Type**: deep-review
 - **Status**: pending
 - **File**: obsidian/concepts/mind-matter-interface.md
