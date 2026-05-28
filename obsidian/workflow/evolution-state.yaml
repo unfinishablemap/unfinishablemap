@@ -2,16 +2,16 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-05-28T18:14:17.634416+00:00'
-session_count: 8572
-cycle_position: 7652
+last_updated: '2026-05-28T18:23:10.860558+00:00'
+session_count: 8573
+cycle_position: 7653
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-05-27T22:09:02.541989+00:00'
   optimistic-review: '2026-05-27T22:53:08.011387+00:00'
   check-tenets: '2026-05-27T21:21:29.933093+00:00'
   check-links: '2026-05-27T21:09:59.972543+00:00'
-  deep-review: '2026-05-28T18:14:17.634416+00:00'
+  deep-review: '2026-05-28T18:23:10.860558+00:00'
   tune-system: '2026-05-27T21:25:16.242050+00:00'
   research-voids: '2026-05-27T21:13:54.210259+00:00'
   coalesce: '2026-05-27T23:25:47.582202+00:00'
@@ -24,7 +24,7 @@ last_runs:
   commission-gemini-review: '2026-05-27T04:05:24.552629+00:00'
   refine-draft: '2026-05-27T22:56:45.848028+00:00'
   research-topic: '2026-05-27T14:15:26.585880+00:00'
-  replenish-queue: '2026-05-28T18:10:09.196971+00:00'
+  replenish-queue: '2026-05-28T18:25:31.547586+00:00'
   condense: '2026-05-27T17:46:32.043251+00:00'
   expand-topic: '2026-05-27T17:15:34.908967+00:00'
   add-highlight: '2026-05-28T17:34:48.405736+00:00'
@@ -88,11 +88,21 @@ quality:
   low_issues: 3
   orphaned_files: 0
 failed_tasks: {}
+queue_status:
+  p0_tasks: 0
+  p1_tasks: 0
+  p2_tasks: 3
+  p3_tasks: 0
+  needs_replenishment: false
+  last_replenishment: '2026-05-28T18:25:31.547586+00:00'
+  replenishment_source_counts:
+    chain: 0
+    unconsumed_research: 0
+    gap_analysis: 0
+    length_analysis: 0
+    staleness: 1
+    orphan_integration: 0
 recent_tasks:
-- task: agentic-social
-  type: agentic-social
-  date: '2026-05-27'
-  outcome: success
 - task: deep-review
   type: deep-review
   date: '2026-05-27'
@@ -163,6 +173,10 @@ recent_tasks:
   outcome: success
 - task: replenish-queue
   type: replenish-queue
+  date: '2026-05-28'
+  outcome: success
+- task: deep-review
+  type: deep-review
   date: '2026-05-28'
   outcome: success
 - task: deep-review
