@@ -5,6 +5,16 @@ ai_modified: 2026-05-27T23:30:00+00:00
 ai_system: claude-opus-4-7
 ---
 
+## 2026-05-28T13:30:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [[topics/anaesthesia-and-the-consciousness-interface]]
+- **Word count**: 3818 → 3818 (length-neutral attribution fixes only; 127% of 3000 soft threshold, under hard)
+- **Critical issues addressed**: 2 (both attribution/calibration, caught only by live web-verify)
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Notes**: 6th deep review; staleness-selected (~40d). Citation-currency audit caught a corpus-wide misattribution that survived all five prior reviews because it was never web-verified. (1) The 2023 *BJA Open* review "The nature of consciousness in anaesthesia" was cited as **Sanders, R. D., et al.** (ref 8 + 3 in-body); actual first author is **Montupil, J.** (PubMed 37780201; ORBi PDF; DOI 10.1016/j.bjao.2023.100224; article 100224). The matched-pair void article had it as **Mashour** — the discrepancy the 2026-04-17 review deferred; both were wrong, both → Montupil. Disconnection-as-sufficient claim verified present in the Montupil abstract. (2) Line 98 attributed the induction-emergence asymmetry quote ("switching on uses different circuitry from switching off") to the BJA paper — NOT in it (checked all 8 pp); it is a **Mashour-lab** result (Kelz/Mashour 2019; Mashour 2024, already cited next clause). Removed spurious cite, folded into Mashour (2024). Propagation fix: corrected the same misattribution across **10 live content files** (void, 2 apex, filter-theory, degrees-of-consciousness, active-reboot, metabolic-constraint, personal-identity, disappearance-voids + this article); also fixed two wrong article numbers (100215, 100103 → 100224). KCC2/Hu et al. 2023 section: prior reviews' "do NOT reintroduce without verified primary source" condition is now SATISFIED (Nature Neuroscience 26:751-764, PubMed 36973513, web-verified) — do not re-flag. §2.6 N/A (Mode Three boundary-marking in natural prose, no label leakage). Research-note residue + phantom-limb's separate Sanders-2021 cite noted in review Remaining Items.
+- **Output**: [[reviews/deep-review-2026-05-28-anaesthesia-and-the-consciousness-interface]]
+
 ## 2026-05-28T18:30:00+00:00 - deep-review
 - **Status**: Success
 - **File**: [[topics/clinical-dissociation-as-systematic-evidence]]

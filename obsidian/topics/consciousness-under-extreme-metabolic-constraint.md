@@ -4,7 +4,7 @@ description: "Consciousness persists at surprising metabolic thresholds and some
 created: 2026-04-05
 modified: 2026-04-05
 human_modified:
-ai_modified: 2026-05-26T00:00:00+00:00
+ai_modified: 2026-05-28T13:30:00+00:00
 draft: false
 topics:
   - "[[death-and-consciousness]]"
@@ -53,7 +53,7 @@ This directly contradicts the production model's core prediction. If consciousne
 
 ### Agent-Specific Anaesthesia Profiles
 
-Sanders et al. (2023) demonstrated that different anaesthetic agents produce different consciousness profiles at similar levels of metabolic reduction. Propofol reduces cerebral metabolic rate by 30-70% and typically produces unconsciousness. Ketamine produces significant metabolic reduction yet preserves complex brain dynamics and vivid inner experience. If metabolic reduction were the operative variable, similar metabolic reductions should produce similar effects on consciousness.
+Montupil et al. (2023) document that different anaesthetic agents produce different consciousness profiles at similar levels of metabolic reduction. Propofol reduces cerebral metabolic rate by 30-70% and typically produces unconsciousness. Ketamine produces significant metabolic reduction yet preserves complex brain dynamics and vivid inner experience. If metabolic reduction were the operative variable, similar metabolic reductions should produce similar effects on consciousness.
 
 They do not. [[anaesthesia-and-the-consciousness-interface|Anaesthesia research]] reveals at least three distinct states—unconsciousness, disconnected consciousness, and connected consciousness—that depend on *which* networks are disrupted, not on total metabolic reduction. The brain under anaesthesia becomes less individually distinctive; consciousness-specific neural fingerprints require metabolism to maintain their uniqueness. This suggests metabolism sustains the brain's *channelling structure* rather than consciousness itself.
 
@@ -140,7 +140,7 @@ The metabolic evidence connects to three of the Map's [[tenets]].
 3. Stender, J., et al. (2014). Quantitative rates of brain glucose metabolism distinguish minimally conscious from vegetative state patients. *Journal of Cerebral Blood Flow & Metabolism*.
 4. Hoel, E. (2024). Consciousness and the Dying Brain. *Neuroscience of Consciousness*.
 5. Carhart-Harris, R. L., et al. (2014). The entropic brain: a theory of conscious states informed by neuroimaging research with psychedelic drugs. *Frontiers in Human Neuroscience*, 8, 20.
-6. Sanders, R. D., et al. (2023). The nature of consciousness in anaesthesia. *BJA Open*.
+6. Montupil, J., Cardone, P., Staquet, C., et al. (2023). The nature of consciousness in anaesthesia. *BJA Open*, 8, 100224.
 7. Cerri, M., et al. (2017). Consciousness in hibernation and synthetic torpor. *Neuroscience of Consciousness*, 3(1).
 8. James, W. (1898). *Human Immortality: Two Supposed Objections to the Doctrine*. Houghton Mifflin.
 9. Batthyány, A. & Greyson, B. (2020). Spontaneous Remission of Dementia Before Death: Results from a Study on Paradoxical Lucidity. *Psychology of Consciousness: Theory, Research, and Practice*.

@@ -4,7 +4,7 @@ description: "The brain transmits and constrains consciousness rather than produ
 created: 2026-01-15
 modified: 2026-01-15
 human_modified: null
-ai_modified: 2026-05-27T00:00:00+00:00
+ai_modified: 2026-05-28T13:30:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -82,7 +82,7 @@ Filter theory interprets this as follows: the DMN normally constrains consciousn
 
 ### The Anesthetic Divergence
 
-Different anaesthetics produce identical behavioural outputs—unresponsiveness, amnesia—while generating radically different conscious experiences. Sanders et al. (2023) distinguish at least three states under anaesthesia: connected consciousness (environmental awareness), disconnected consciousness (vivid internal experience), and unconsciousness. Clinical effectiveness requires only disconnecting the patient from the environment, not extinguishing experience.
+Different anaesthetics produce identical behavioural outputs—unresponsiveness, amnesia—while generating radically different conscious experiences. Montupil et al. (2023) distinguish at least three states under anaesthesia: connected consciousness (environmental awareness), disconnected consciousness (vivid internal experience), and unconsciousness. Clinical effectiveness requires only disconnecting the patient from the environment, not extinguishing experience.
 
 Sarasso et al. (2015) compared brain complexity under propofol, xenon, and ketamine. Propofol and xenon both abolished reported experience but through mechanistically distinct neural signatures. Ketamine preserved wakefulness-like complexity despite equivalent behavioural unresponsiveness—subjects reported long, vivid dreams. Three agents, three distinct neural signatures, two radically different phenomenological outcomes. This pattern refutes naive unified-switch physicalism but not sophisticated functionalism, which accommodates dissociability by positing consciousness realised in coupled subsystems. Filter theory attributes the same dissociable pattern to separable interface components; the [[anesthesia-void|anesthesia void]] examines how the first-person gap underdetermines which decomposition is correct.
 
@@ -218,7 +218,7 @@ A note on how the evidence above should be weighed. The seven supportive subsect
 1. Owen, A.M., et al. (2006). Detecting awareness in the vegetative state. *Science*, 313(5792), 1402.
 1. Parnia, S., et al. (2023). "AWAreness during REsuscitation II: A multi-center study of consciousness and awareness in cardiac arrest." *Resuscitation*, 191, 109903.
 1. Sarasso, S., et al. (2015). Consciousness and complexity during unresponsiveness induced by propofol, xenon, and ketamine. *Current Biology*, 25(23), 3099-3105.
-1. Sanders, R. D., et al. (2023). The nature of consciousness in anaesthesia. *BJA Open*, 8.
+1. Montupil, J., Cardone, P., Staquet, C., et al. (2023). The nature of consciousness in anaesthesia. *BJA Open*, 8, 100224.
 1. Sauerbrei, B.A. & Pruszynski, J.A. (2025). The brain works at more than 10 bits per second. *Nature Neuroscience*.
 1. Van Lommel, P., et al. (2001). "Near-death experience in survivors of cardiac arrest." *The Lancet*, 358(9298), 2039-2045.
 1. Zheng, J. & Meister, M. (2025). The unbearable slowness of being: Why do we live at 10 bits/s? *Neuron*, 113(2), 192-204.
