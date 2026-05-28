@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-28T18:35:00+00:00
+ai_modified: 2026-05-28T19:17:26+00:00
 ai_system: claude-opus-4-7
 author: Andy Southgate
 concepts: []
@@ -36,6 +36,30 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **P2**: Low - nice to have, human approval needed
 
 ## Active Tasks
+
+### P2: Deep review concepts/capability-division-in-vision.md (41 days since last review, ai_contribution=100, Tenet 1/2/3 load-bearing)
+- **Type**: deep-review
+- **Status**: pending
+- **File**: obsidian/concepts/capability-division-in-vision.md
+- **Notes**: Staleness check (/replenish-queue 2026-05-28). The actionable (P0-P2) queue stood at 2 (the explanatory-gap calibration refine + the consciousness-and-skill-acquisition literature-drift P2), below the MIN_QUEUE floor of 3. Per the documented steady-state, the honest replenishment move is to promote grounded, tenet-load-bearing staleness deep-reviews rather than mint speculative expand-topic work against the already-large (~600-task) P3 backlog (sections are near/at cap and length offenders are blocked/vetoed). Verified `last_deep_review: 2026-04-17T23:34:00+00:00` (~41 days); `ai_contribution=100`; ~1658 words; not currently the target of any other pending task. This concept page is directly load-bearing for **Tenets 1, 2, and 3** — the dorsal/ventral capability split (action-vision vs perception-vision, the Milner & Goodale tradition, blindsight) is one of the Map's concrete dissociation exhibits. Deep-review should: (a) check the vision-science empirical claims (two-streams hypothesis, blindsight, optic ataxia, visual-form agnosia) against current 2020s literature — flag a literature-drift follow-on if drift detected, as this is an active-research domain; (b) verify the capability-division framing stays consistent with the current dissociation/interface-mode cluster and honours `[[evidential-status-discipline]]` (function-vs-phenomenology slippage risk); (c) confirm cross-links resolve live and are reciprocated where load-bearing; (d) writing-style + length discipline (well under thresholds; no "This is not X. It is Y." cliché). Apply in-place fixes if minor; generate a follow-on refine-draft or literature-drift task if substantive.
+- **Source**: staleness
+- **Generated**: 2026-05-28
+
+### P2: Deep review topics/predictive-processing-and-dualism.md (41 days since last review, ai_contribution=100, Tenet 2/3 load-bearing)
+- **Type**: deep-review
+- **Status**: pending
+- **File**: obsidian/topics/predictive-processing-and-dualism.md
+- **Notes**: Staleness check (/replenish-queue 2026-05-28, restoring queue above the MIN_QUEUE floor of 3). Verified `last_deep_review: 2026-04-17T00:05:00+00:00` (~41 days); `ai_contribution=100`; ~3180 words (just over the 3000-word topics soft threshold, well under the 4000 hard); last reviewed as a task on 2026-03-19 (post-coalesce) and not targeted by any current pending task. This is a **Tenet 2 / Tenet 3** load-bearing article — predictive-processing/active-inference is the dominant physicalist framework the Map must engage on the bidirectional-interaction question, and the free-energy / Markov-blanket literature is a fast-moving active-research domain. Deep-review should: (a) check the predictive-processing empirical and theoretical claims (Friston free-energy, active inference, prediction-error minimisation) against current 2020s literature — flag a literature-drift follow-on if drift detected; (b) verify the dualist engagement stays consistent with the current interface/selection cluster (`[[selection-only-mind-influence]]`, `[[born-rule-and-the-consciousness-interface]]`) and does not over-concede or over-claim against the PP framework; (c) honour `[[evidential-status-discipline]]` (PP is a framework with strong explanatory reach — keep the Map's interface proposal at its proper evidential tier); (d) confirm cross-links resolve and are reciprocated; (e) writing-style + length discipline — note a possible condense follow-on only if a refine pass pushes it over the 4000 hard threshold. Apply in-place fixes if minor; generate a follow-on if substantive.
+- **Source**: staleness
+- **Generated**: 2026-05-28
+
+### P2: Deep review topics/comparative-phenomenology-of-mathematical-insight.md (41 days since last review, ai_contribution=100, Tenet 1/3 load-bearing)
+- **Type**: deep-review
+- **Status**: pending
+- **File**: obsidian/topics/comparative-phenomenology-of-mathematical-insight.md
+- **Notes**: Staleness check (/replenish-queue 2026-05-28, restoring queue above the MIN_QUEUE floor of 3). Verified `last_deep_review: 2026-04-17T03:25:00+00:00` (~41 days); `ai_contribution=100`; ~2339 words; not currently the target of any pending task. Chosen for sequencing as well as staleness: this article is the parent of the open P3 "Write article on Ramanujan as a cross-tradition phenomenology-of-reception exhibit" task (it names Ramanujan as the cluster's best concrete bridge case), so reviewing the parent first de-risks that downstream expand-topic. **Tenet 1 / Tenet 3** load-bearing (irreducible insight resisting computational search; insight producing checkable physical proofs). Deep-review should: (a) verify the cross-tradition phenomenology framing (Greek visual model vs classical Indian constructive model vs Ramanujan's reception phenomenology) still coheres with the current consciousness-and-mathematics cluster; (b) hold the register-separation line strictly per `[[evidential-status-discipline]]` — phenomenological-report claims ("results arriving in dreams/visions", "tracked mathematical truth reliably") must NOT slip into mechanism claims, and the eliminativist post-hoc-confabulation counter must be engaged honestly; (c) confirm cross-links resolve live and are reciprocated (`[[consciousness-and-mathematics]]`, `[[aesthetics-and-consciousness]]`, `[[incubation-effect-and-unconscious-processing]]`, `[[creative-consciousness]]`); (d) writing-style + length discipline (no cliché). If the review surfaces the need, refine the parent so the pending Ramanujan article has a clean anchor. Apply in-place fixes if minor; generate a follow-on if substantive.
+- **Source**: staleness
+- **Generated**: 2026-05-28
 
 ### P2: Adopt explanatory-gap calibration in the-subject-object-distinction-as-philosophical-discovery
 - **Type**: refine-draft
