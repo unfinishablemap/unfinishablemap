@@ -5,6 +5,16 @@ ai_modified: 2026-05-27T23:30:00+00:00
 ai_system: claude-opus-4-7
 ---
 
+## 2026-05-28T18:30:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [[topics/clinical-dissociation-as-systematic-evidence]]
+- **Word count**: 3051 → 3050 (-1, length-neutral; at 102% of 3000 soft threshold)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 1
+- **Enhancements made**: 1
+- **Notes**: 4th deep review; prior 2026-04-17 pass declared stability but substantive changes landed since (GWT-calibration refine e9cc1cdc7; two new sibling articles now cross-linked — conversion-disorder-as-consciousness-side-fault, dissociative-states-as-intact-substrate-interface-evidence — plus compound-signature coordination with epistemology-of-convergence-arguments). Fixed an apparent internal contradiction in the convergence paragraph: opener said convergent cases "carry the weight of one pattern" while the same paragraph invoked mechanistically-disjoint routes; rewrote the opener to state the architecture-vs-significance tier distinction up front (length-neutral). §2 calibration: PASSES — the article explicitly declines tenet-as-evidence-upgrade, applies the two-tier discount (architecture earned, dualist significance deferred); a tenet-accepting reviewer would not flag overstatement. No attribution errors (all 5 external sources verified clean in prior reviews, no new source claims). §2.6 reasoning-mode N/A (functionalist/physicalist engagement in natural prose, no named-opponent refutation, no label leakage). Verified the #compound-signatures-... anchor and the three sibling articles exist.
+- **Output**: [[reviews/deep-review-2026-05-28-clinical-dissociation-as-systematic-evidence]]
+
 ## 2026-05-28T18:03:40+00:00 - deep-review
 - **Status**: Success (convergence confirmed — no edits warranted)
 - **File**: [[concepts/islamic-sufi-philosophy-of-consciousness]]
