@@ -41,6 +41,7 @@ log = logging.getLogger(__name__)
 
 PROFILE_DIR = Path("~/unfin/chrome-profiles/unfinishable").expanduser()
 LOCK_FILE = Path("~/unfin/chrome-profiles/.automation.lock").expanduser()
+PIDFILE = Path("~/unfin/chrome-profiles/.chrome.pid").expanduser()
 
 # Substring match for pgrep -f. Leading "--" is dropped because pgrep parses
 # arguments starting with "--" as flags; the dashes still appear in Chrome's
@@ -304,25 +305,157 @@ def chrome_session(
 
 
 # -----------------------------------------------------------------------------
-# Diagnostics / recovery CLI
+# Detached start/stop + diagnostics CLI
 #
-# The fcntl lock used by _AutomationLock is auto-released by the kernel when
-# the holding process exits — including on crash, SIGKILL, or unhandled
-# exception. There is no such thing as a "stale" fcntl lock at the OS level:
-# if a process is gone, its locks are gone.
+# `/unfin-cycle` (the in-Claude orchestrator that replaced scripts/evolve_loop.py)
+# cannot wrap a Skill-tool invocation in the `chrome_session()` Python context
+# manager — the Skill call is a runtime tool call, not a subprocess. So the
+# orchestrator calls `python -m tools.chrome_session start` via Bash before
+# invoking a Chrome-using skill, then `python -m tools.chrome_session stop`
+# after. `start` launches Chrome detached and records its PID in a pidfile;
+# `stop` reads the pidfile and kills it. `start` is idempotent: if our Chrome
+# is already running, it returns success without relaunching, so back-to-back
+# Chrome tasks within the automation window reuse a live Chrome.
 #
-# What CAN go wrong:
-# 1. A Chrome process under our profile was orphaned (parent crashed mid-run).
-#    The next chrome_session() handles this — ChromeManager.ensure_running()
-#    detects leftover Chrome on our profile and kills it before launching fresh.
-# 2. A Chrome process is wedged but its parent is alive and healthy. Operator
-#    intervention needed; --force-cleanup below kills the wedged Chrome.
-# 3. A long-running automation legitimately holds the lock. --status shows
-#    who, so the operator can decide whether to wait or interrupt that process
-#    (and thereby release the lock automatically).
+# The fcntl lock at LOCK_FILE is still used briefly during `start` to serialise
+# concurrent starts. It is NOT held for the duration of Chrome's life — once
+# the pidfile is written, the lock is released. The pidfile + cmdline check
+# is the durable "is Chrome ours and alive?" signal.
 #
-# Run via `python -m tools.chrome_session [--status | --force-cleanup]`.
+# Run via `python -m tools.chrome_session <start|stop|status>`
+# (legacy flags `--status` and `--force-cleanup` still work for compatibility).
 # -----------------------------------------------------------------------------
+
+
+def _read_pidfile() -> Optional[int]:
+    """Return the PID recorded in the pidfile, or None if absent/malformed."""
+    if not PIDFILE.exists():
+        return None
+    try:
+        text = PIDFILE.read_text().strip()
+    except OSError:
+        return None
+    return int(text) if text.isdigit() else None
+
+
+def _write_pidfile(pid: int) -> None:
+    PIDFILE.parent.mkdir(parents=True, exist_ok=True)
+    PIDFILE.write_text(str(pid))
+
+
+def _remove_pidfile() -> None:
+    try:
+        PIDFILE.unlink()
+    except FileNotFoundError:
+        pass
+
+
+def _pid_is_our_chrome(pid: int) -> bool:
+    """Return True if pid is alive AND its cmdline contains our profile path."""
+    if pid <= 0:
+        return False
+    try:
+        os.kill(pid, 0)
+    except (ProcessLookupError, PermissionError):
+        return False
+    return _PROFILE_MATCH in _process_argv(pid)
+
+
+def start_detached() -> tuple[str, int]:
+    """Launch Chrome detached and record its PID in the pidfile. Idempotent.
+
+    Returns ``(message, exit_code)``. Exit code 0 means Chrome is running
+    under our profile (either just launched or already was). Exit code 2
+    means we couldn't start it (profile not seeded, lock held by another
+    process, Chrome binary missing, launch timed out).
+    """
+    if not is_profile_seeded():
+        return (
+            f"Chrome profile at {PROFILE_DIR} is not seeded — "
+            "install the Claude Code extension interactively first.",
+            2,
+        )
+
+    lock = _AutomationLock()
+    try:
+        lock.acquire()
+    except ChromeUnavailableError as e:
+        return (f"CHROME_UNAVAILABLE: {e}", 2)
+
+    try:
+        existing_pid = _read_pidfile()
+        if existing_pid is not None and _pid_is_our_chrome(existing_pid):
+            return (f"Chrome already running on our profile (pid {existing_pid})", 0)
+
+        if existing_pid is not None:
+            _remove_pidfile()
+
+        leftover = _our_chrome_pids()
+        if leftover:
+            log.info(f"Killing leftover Chrome on our profile before relaunch: {leftover}")
+            _kill_pids(leftover)
+
+        PROFILE_DIR.mkdir(parents=True, exist_ok=True)
+        chrome_bin = shutil.which("google-chrome") or "google-chrome"
+        try:
+            process = subprocess.Popen(
+                [
+                    chrome_bin,
+                    f"--user-data-dir={PROFILE_DIR}",
+                    "--no-first-run",
+                    "--no-default-browser-check",
+                    "--restore-last-session",
+                ],
+                stdin=subprocess.DEVNULL,
+                stdout=subprocess.DEVNULL,
+                stderr=subprocess.DEVNULL,
+                start_new_session=True,
+            )
+        except FileNotFoundError:
+            return (f"CHROME_UNAVAILABLE: {chrome_bin} not found on PATH", 2)
+
+        deadline = time.time() + _LAUNCH_TIMEOUT_S
+        while time.time() < deadline:
+            if _our_chrome_pids():
+                break
+            if process.poll() is not None:
+                return (
+                    f"CHROME_UNAVAILABLE: chrome exited during startup (rc {process.returncode})",
+                    2,
+                )
+            time.sleep(0.5)
+        else:
+            return ("CHROME_UNAVAILABLE: chrome did not appear in process list within 30s", 2)
+
+        _write_pidfile(process.pid)
+        return (f"Chrome launched detached (pid {process.pid})", 0)
+    finally:
+        lock.release()
+
+
+def stop_detached() -> tuple[str, int]:
+    """Kill Chrome under our profile and clear the pidfile. Idempotent.
+
+    Always returns exit code 0 — `stop` is best-effort cleanup that must
+    not block the next iteration of the orchestrator.
+    """
+    pids_to_kill = set(_our_chrome_pids())
+    recorded = _read_pidfile()
+    if recorded is not None:
+        pids_to_kill.add(recorded)
+
+    if not pids_to_kill:
+        _remove_pidfile()
+        return ("No Chrome processes on our profile; nothing to stop.", 0)
+
+    pids_list = sorted(pids_to_kill)
+    _kill_pids(pids_list)
+    _remove_pidfile()
+
+    remaining = _our_chrome_pids()
+    if remaining:
+        return (f"Killed {pids_list}; some pids remain: {remaining}", 0)
+    return (f"Killed {pids_list}; Chrome stopped.", 0)
 
 
 def _lslocks_pids(lock_path: Path) -> list[int]:
@@ -365,7 +498,7 @@ def _process_argv(pid: int) -> str:
 
 
 def _status_report() -> str:
-    """Human-readable snapshot of Chrome+lock state under our profile."""
+    """Human-readable snapshot of Chrome+lock+pidfile state under our profile."""
     lines: list[str] = []
     lines.append(f"Profile dir:   {PROFILE_DIR}")
     lines.append(f"Profile seeded: {is_profile_seeded()}")
@@ -380,6 +513,13 @@ def _status_report() -> str:
                 lines.append(f"  pid {pid}: {_process_argv(pid)[:160]}")
     else:
         lines.append("Lock holders:  none (lock file does not exist)")
+    recorded = _read_pidfile()
+    if recorded is None:
+        lines.append(f"Pidfile:       {PIDFILE} (absent)")
+    elif _pid_is_our_chrome(recorded):
+        lines.append(f"Pidfile:       {PIDFILE} → pid {recorded} (alive, our chrome)")
+    else:
+        lines.append(f"Pidfile:       {PIDFILE} → pid {recorded} (STALE — pid not our chrome)")
     chromes = _our_chrome_pids()
     if chromes:
         lines.append(f"Chrome procs on our profile: {chromes}")
@@ -406,11 +546,30 @@ def _force_cleanup() -> str:
     return f"Killed {chromes}; no Chrome processes remain on our profile."
 
 
-def _cli_main() -> int:
+def _cli_main(argv: list[str]) -> int:
     import argparse
 
+    # Subcommands (start/stop/status) take precedence over legacy flags.
+    if argv and argv[0] in ("start", "stop", "status"):
+        cmd = argv[0]
+        if cmd == "start":
+            msg, code = start_detached()
+            print(msg)
+            return code
+        if cmd == "stop":
+            msg, code = stop_detached()
+            print(msg)
+            return code
+        # status
+        print(_status_report())
+        return 0
+
     ap = argparse.ArgumentParser(
-        description="Inspect or recover Chrome session state for the unfinishable profile."
+        description=(
+            "Manage Chrome session state for the unfinishable profile. "
+            "Use subcommands `start`, `stop`, or `status` for /unfin-cycle integration; "
+            "legacy flags below are for operator diagnostics."
+        )
     )
     ap.add_argument(
         "--status",
@@ -422,10 +581,11 @@ def _cli_main() -> int:
         action="store_true",
         help="Kill any Chrome under our profile. The fcntl lock auto-releases.",
     )
-    args = ap.parse_args()
+    args = ap.parse_args(argv)
 
     if args.force_cleanup:
         print(_force_cleanup())
+        _remove_pidfile()
         print()
     print(_status_report())
     return 0
@@ -433,4 +593,4 @@ def _cli_main() -> int:
 
 if __name__ == "__main__":
     import sys
-    sys.exit(_cli_main())
+    sys.exit(_cli_main(sys.argv[1:]))
