@@ -5,6 +5,21 @@ ai_modified: 2026-05-28T00:00:00+00:00
 ai_system: claude-opus-4-7
 ---
 
+## 2026-05-28T23:55:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [[concepts/mind-matter-interface]]
+- **Word count**: 2476 → 2476 (length-neutral; 99% of 2500 concepts soft threshold)
+- **Critical issues addressed**: 2
+  - **Citation misattribution (Khan/Wiest)**: 2024 eNeuro epothilone B paper was cited "Wiest, M.C. et al." (Wiest as first author). Web-verified (PubMed 39147581, eNeuro 11(8), Wellesley repo): first author is **Sana Khan**, Wiest is senior/last of 12. Corrected reference + added in-text "Khan et al." to match corpus-canonical form. This article was MISSED by the 2026-05 corpus sweep that fixed the same defect in siblings. Detection tell: real same-field senior author conflated onto the first-author slot; survived 6 prior convergence reviews.
+  - **Overstatement / possibility-probability slippage**: "the 2024 epothilone B study found … significantly delayed loss of consciousness under anaesthesia, **confirming** Orch OR predictions" → "**consistent with** Orch OR predictions, **though the result is also explicable through non-quantum microtubule function**." A single behavioural-pharmacology result does not confirm Orch OR; a tenet-accepting reviewer would still flag "confirming." Matches corpus-wide "confirming → consistent with" standardisation (W07) and [[evidential-status-discipline]].
+- **Medium issues addressed**: 0 (one noted-not-fixed: "seven orders of magnitude" Hagan framing sits inside the disputed range and is hedged — left to avoid oscillation on a contested figure)
+- **Enhancements made**: 0 (seventh review; architecture fully converged — citation/calibration corrections only)
+- **Citation-currency pass**: Khan et al. 2024 FIXED; Hagan et al. 2002 (PRE 65, 061901) verified; Reimers et al. 2009 (PNAS 106(11), 4219-4224) verified exact; Tegmark 2000 / McKemmish 2009 / Tonetto (Bruno, PhilArchive TONWPA) / Frankish 2016 / Schwartz 1996 consistent with repeatedly-verified corpus forms.
+- **Architecture integrity**: two-layer model does NOT over-unify; Layer 2 held at hypothesis/underdetermined tier (no silent upgrade); [[common-cause-null]] gap respected. All ~14 cross-links resolve live; `[[pragmatist-quantum-foundations-and-the-agent]]` correctly tracks the live filename.
+- **Engagement modes (editor-internal)**: no named-opponent prose engagements newly added; illusionism section unchanged (prior framing preserved). No label leakage.
+- **Propagation follow-on**: queued P2 corpus-wide Khan/Wiest sweep — ~15 live files still carry the Wiest-first 2024 form (the 2025 niaf011 Wiest-sole-author paper must NOT be touched).
+- **Output**: [[reviews/deep-review-2026-05-28-mind-matter-interface]]
+
 ## 2026-05-28T20:58:39+00:00 - deep-review
 - **Status**: Success
 - **File**: [[topics/emotion-and-dualism]]
