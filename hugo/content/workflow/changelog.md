@@ -1,13 +1,68 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-27 23:05:00+00:00
+ai_modified: 2026-05-27 23:30:00+00:00
 ai_system: claude-opus-4-7
 concepts: []
 date: '2026-05-27'
 related_articles: []
 title: Changelog
 ---
+
+## 2026-05-27T23:30:00+00:00 - coalesce
+- **Status**: Declined (no candidate cleared all constraints)
+- **Section scanned**: `voids/` (101/100, over cap — preferred per cap-pressure rule); spot-checked `topics/` + `concepts/`
+- **Reason**: No genuinely-duplicative pair found. The voids corpus is a deliberately fine-grained, heavily cross-referenced taxonomy. Affective family (affective/mood/valence/mattering/relevance) each carry an explicit "Distinct from…" section triangulating against siblings — intentional differentiation, not redundancy. Cognitive-limits cluster (formal/biological/embodiment/collective/self-maintained) is a deliberate taxonomy-by-cause. Introspection cluster (source-attribution/confabulation/narrative/noetic-feelings) is the documented "introspection-architecture sub-cluster" scored jointly against the four-criteria exhibit. plenitude vs surplus, the two binding-problem pages (topics survey vs concept page) are documented intentional pairs.
+- **Age-floor**: not reached (declined before selecting any pair)
+- **Action**: No merge, no archive, no link changes.
+
+## 2026-05-27T23:20:49+00:00 - deep-review
+- **Status**: Success
+- **File**: [quantum-completeness](/concepts/quantum-completeness/)
+- **Word count**: 2565 → ~2620 (≈105% of 2500 target — soft_warning; +55 is correctness-critical taxonomy fix, tightened near length-neutral)
+- **Prior-review count**: 2 (2026-03-18, 2026-04-18) — this is the 3rd pass. Both priors verdicted "no critical issues" but NEITHER web-verified citations against live literature; 3 citation defects survived both.
+- **Critical issues addressed**: 3 (citation fabrications/errors)
+  1. **Fabricated authors**: "Adan, Barbosa & Pieczarelli 2023, Entropy 25(4):690" → real paper is **Krizek & Mairhofer 2023, Entropy 25(4):585** (name-hallucination over a real source whose correct URL was in the research note). Also corrected six→five senses to match the source; reframed "predictive completeness" as the Map's added sense.
+  2. **Barrett year**: 2007 → **2006** (Erkenntnis 65(1):97–115, DOI 10.1007/s10670-006-9016-z). Claim accurately supported.
+  3. **Stapp 2005 venue**: "Zygon 40(1):165–178" → **JCS 12(11):43–58 (2005), reprinted Zygon 41(3):599–615**. Claim accurate.
+- **Quotes softened**: Zurek 2003 "p. 76" and Schlosshauer 2007 "p. 69" verbatim quotes converted to attributed paraphrase (page numbers unverifiable; positions correct). Not critical.
+- **Citations web-verified (metadata + claim-support)**: 13. CLEAN: EPR 1935, Bell 1964, Kochen-Specker 1967, Hardy 1993, PBR 2012, Emerson/Serbin/Sutherland/Veitch 2013, Hensen 2015, Fuchs/Mermin/Schack 2014, Albert/Kent 2010. FIXED: Krizek-Mairhofer, Barrett, Stapp. Cheap pre-filter caught uniform-but-wrong metadata propagated to 3 articles — intra-corpus consistency did NOT catch it.
+- **Corpus propagation fixed**: Krizek-Mairhofer in quantum-probability-consciousness, physical-completeness, research/completeness-in-physics-epr-bell-2026-03-14 (root); Barrett 2006 in completeness-in-physics-under-dualism, physical-completeness, physics-as-disclosure, research/...03-17; Stapp in completeness-in-physics-under-dualism, research/...03-17.
+- **Tenet 4 / evidential-status**: clean — theorems vs interpretive claims kept separate; consciousness-selection explicitly marked unfalsifiable; no possibility/probability slippage; MWI rejection argued not asserted. No named-opponent replies requiring reasoning-mode classification.
+- **Enhancements made**: 0 (article philosophically converged across 3 passes)
+- **Output**: [deep-review-2026-05-27-quantum-completeness](/reviews/deep-review-2026-05-27-quantum-completeness/)
+
+## 2026-05-27T23:11:39+00:00 - deep-review
+- **Status**: Success
+- **File**: [cognitive-integration-and-the-self](/topics/cognitive-integration-and-the-self/)
+- **Word count**: 2578 → 2578 (no change; 86% of 3000 target — length OK)
+- **Prior-review count**: 3 (2026-02-15, 2026-03-16, 2026-04-16) — this is the 4th converged pass; convergence-damping applied, philosophy/structure left light, mandatory web-verify run in full
+- **Critical issues addressed**: 0 (none found)
+- **Medium issues addressed**: 0 (none found)
+- **Enhancements made**: 0 — article firmly converged; only `ai_modified`/`last_deep_review` timestamps updated
+- **Citations web-verified (metadata + claim-support)**: 6/6. Bortolan 2020 (Cont. Phil. Rev. 53(1):67–84, DOI 10.1007/s11007-019-09471-y) ✓; Gallagher 2000 (TiCS 4(1):14–21, PMID 10637618) ✓; Zahavi 2005 (Subjectivity and Selfhood, MIT Press) ✓; Gazzaniga 2005 (Nat Rev Neurosci 6(8):653–659, PMID 16062172) ✓; Crick & Koch 1990 (Sem. Neurosci. 2:263–275 — re-verified via sibling neural-refresh-rates review this session; "~40 Hz" correct) ✓; Gallagher & Zahavi 2012 (Phenomenological Mind, 2nd ed., Routledge) ✓. Cheap pre-filter clean corpus-wide (uniform metadata, no fabrication tell). No fixes → no propagation.
+- **Reasoning-mode**: no named-opponent replies. Lone framework engagement (physicalist parsimony objection in Occam subsection) is Mode Three (boundary-marking), honestly answered; no boundary-substitution, no label leakage.
+- **Output**: [deep-review-2026-05-27-cognitive-integration-and-the-self](/reviews/deep-review-2026-05-27-cognitive-integration-and-the-self/)
+
+## 2026-05-27T23:45:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [samkhya-three-way-distinction](/concepts/samkhya-three-way-distinction/)
+- **Word count**: 1829 → ~1880 (+~51; net of one-sentence-for-paragraph swap on the O'Brien-Kop passage)
+- **Prior-review count**: 3 (2026-02-24, 2026-03-08, 2026-04-16) — this is the 4th; converged article, philosophy kept light per remit
+- **Critical issues addressed**: 1 — O'Brien-Kop (2023) in-text gloss calibration error. Article asserted "*purusha* corresponds to the phenomenal" (Block mapping) and recruited O'Brien-Kop as supporting a purusha↔Chalmers-phenomenal-consciousness parallel. WEB-VERIFIED against the paper (Cambridge Core / KCL repository): O'Brien-Kop states pure consciousness "does not contain sensation, feeling, or experience" and *relocates* the hard problem rather than confirming the parallel. Passes the diagnostic test (a tenet-accepting reviewer would still flag the overstatement) → calibration error, not bedrock disagreement. This same fix had already landed in sibling `topics/epistemology-of-convergence-arguments.md` (2026-05-25, from outer-review 2026-05-23) but had NOT propagated here. Rewrote to a structural-only parallel; preserved O'Brien-Kop's independent point.
+- **Medium issues addressed**: 0
+- **Enhancements made**: 1 (the calibration rewrite strengthens credibility)
+- **Citations web-verified**: 6 (O'Brien-Kop 2023 — metadata clean, gloss fixed; Samkhya Karika c.350 CE / Ishvarakrishna — clean; Block 1995 — clean; Larson & Bhattacharya 1987 — clean, corpus has a divergent 2014 reprint-year in cross-cultural-convergence-on-mental-causation.md but original 1987 is correct here; Vacaspati Mishra c.980 CE — clean; verse-19 purusha doctrine — textually verified)
+- **Cross-tradition calibration**: HONEST — article does not over-assimilate Samkhya to Tenet 3; explicitly states passive purusha "conflicts directly with" Bidirectional Interaction and "the Map parts ways with Samkhya here." Samkhya credited only with strengthening Tenet 1 (irreducibility). No resonance→endorsement slippage.
+- **Engagement modes (editor-internal)**: O'Brien-Kop — citation-calibration fix (no Mode N applies; Mode Three register installed). Samkhya inactive-witness vs Tenet 3 — Mode Three (framework-boundary marking), correct as-is. No label leakage.
+- **Output**: [deep-review-2026-05-27-samkhya-three-way-distinction](/reviews/deep-review-2026-05-27-samkhya-three-way-distinction/)
+
+## 2026-05-27T23:30:00+00:00 - refine-draft
+- **Status**: Success
+- **File**: [source-attribution-divergence](/topics/source-attribution-divergence/)
+- **Original score**: n/a (targeted reciprocity-gap fix, not a full quality pass)
+- **Changes**: Closed the reciprocity gap flagged by [optimistic-2026-05-27g](/reviews/optimistic-2026-05-27g/). The sibling `authorship-of-action-divergence.md` (created 2026-05-22) links back here 4x and names this article its catalogue home, but this article had no outbound link. (a) Wikilinked the typology bullet `[[authorship-of-action-divergence]]` and added ≤1 sentence preserving the sibling's layer split (outcome-recognition / choice-blindness vs cause-attribution / Wegner I-Spy → [agency-void](/voids/agency-void/)). (b) Added a Further Reading entry. Both new links resolve via sync (verified in Hugo output: /topics/authorship-of-action-divergence/, /voids/agency-void/). Word delta +59 (3488 → 3547). Did not touch evidential-tier/calibration language (the optimistic review praised tier discipline); no citations changed. No new section or prose paragraph added; length-minimal integration fix.
+- **Published**: yes
 
 ## 2026-05-27T23:05:00+00:00 - optimistic-review
 - **Status**: Success

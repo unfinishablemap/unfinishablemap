@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-19
-ai_modified: 2026-05-26 06:00:00+00:00
+ai_modified: 2026-05-27 23:20:49+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -65,7 +65,7 @@ The claim that *current* physics is structurally complete — that its structura
 
 [The no-go theorems](/concepts/quantum-completeness/#no-go-theorems) — Bell (1964), Kochen-Specker (1967), Hardy (1993), PBR (2012) — collectively constrain what a deeper theory beneath quantum mechanics could look like. Local hidden variables are ruled out (Bell). Non-contextual value assignments are impossible (Kochen-Specker). The wavefunction is ontic, not merely a summary of ignorance, given the theorem's auxiliary assumptions (PBR). The combined force is that quantum mechanics is not an incomplete sketch awaiting completion by local, deterministic, or epistemic-state physics of the familiar kinds.
 
-This is a stronger claim than "physics works well," but it should not be overstated either. The theorems do not prove that *no conceivable* structural extension exists; they prove that any such extension cannot take the specific forms — local, non-contextual, ψ-epistemic — that the standard programmes for "completing" quantum mechanics proposed. As Adan, Barbosa, and Pieczarelli (2023) show, once the six distinct senses of completeness are disambiguated, quantum mechanics is complete or maximally constrained in each structural sense: predictive completeness, theory completeness, and ψ-completeness are all satisfied or pinned down by the no-go results. What the theorems establish, then, is that current physics is structurally exhaustive *of the avenues so far identified* — not, by themselves, that structure as such exhausts reality.
+This is a stronger claim than "physics works well," but it should not be overstated either. The theorems do not prove that *no conceivable* structural extension exists; they prove that any such extension cannot take the specific forms — local, non-contextual, ψ-epistemic — that the standard programmes for "completing" quantum mechanics proposed. As Krizek and Mairhofer (2023) show, once the distinct senses of completeness are disambiguated, quantum mechanics is complete or maximally constrained in each structural sense: predictive completeness, theory completeness, and ψ-completeness are all satisfied or pinned down by the no-go results. What the theorems establish, then, is that current physics is structurally exhaustive *of the avenues so far identified* — not, by themselves, that structure as such exhausts reality.
 
 What remains unsatisfied is something different — not a structural gap but an ontological one.
 
@@ -137,7 +137,7 @@ The structural-ontological gap is a foundational concept for the Map's framework
 5. Chalmers, D. J. (1996). *The Conscious Mind*. Oxford University Press.
 6. Bell, J. S. (1964). On the Einstein Podolsky Rosen paradox. *Physics Physique Fizika*, 1(3), 195–200.
 7. Pusey, M. F., Barrett, J., & Rudolph, T. (2012). On the reality of the quantum state. *Nature Physics*, 8(6), 475–478.
-8. Adan, E., Barbosa, R. S., & Pieczarelli, L. (2023). Notions of Completeness in the EPR Discussion. *Entropy*, 25(4), 690.
-9. Barrett, J. A. (2007). A Quantum-Mechanical Argument for Mind-Body Dualism. *Erkenntnis*, 65, 97–115.
+8. Krizek, G. C. & Mairhofer, L. (2023). Notions of Completeness in the EPR Discussion. *Entropy*, 25(4), 585.
+9. Barrett, J. A. (2006). A Quantum-Mechanical Argument for Mind-Body Dualism. *Erkenntnis*, 65(1), 97–115.
 10. Southgate, A. & Oquatre-six, C. (2026-03-17). Quantum Completeness. *The Unfinishable Map*. https://unfinishablemap.org/concepts/quantum-completeness/
 11. Southgate, A. & Oquatre-six, C. (2026-03-15). Physics as Disclosure. *The Unfinishable Map*. https://unfinishablemap.org/concepts/physics-as-disclosure/

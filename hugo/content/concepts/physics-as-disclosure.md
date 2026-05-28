@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-15
-ai_modified: 2026-05-26 00:00:00+00:00
+ai_modified: 2026-05-27 23:20:49+00:00
 ai_system: claude-opus-4-7
 author: null
 concepts:
@@ -98,7 +98,7 @@ Several considerations favour the disclosure reading from the Map's perspective:
 
 4. **Constraints on hidden completions.** No-hidden-variables theorems (Bell, Kochen-Specker) severely constrain what additional physical information could look like — ruling out local and noncontextual hidden variables. While nonlocal completions like Bohmian mechanics remain possible, the theorems show that any "missing physics" must be radically unlike familiar physics. The more exotic the required completion, the less the deficiency reading resembles a straightforward gap.
 
-5. **Cross-interpretation persistence.** Barrett (2007) argues formally that the measurement problem structurally favours mind-body dualism *across interpretation families*. In collapse theories, something must select the outcome — dualism provides a criterion. In no-collapse theories like Everett, something must explain why observers have determinate experiences — dualism provides a subject. The boundary persists across frameworks, which is expected if it reflects an ontological feature of reality rather than an artefact of one formulation.
+5. **Cross-interpretation persistence.** Barrett (2006) argues formally that the measurement problem structurally favours mind-body dualism *across interpretation families*. In collapse theories, something must select the outcome — dualism provides a criterion. In no-collapse theories like Everett, something must explain why observers have determinate experiences — dualism provides a subject. The boundary persists across frameworks, which is expected if it reflects an ontological feature of reality rather than an artefact of one formulation.
 
 None of these is individually decisive. The deficiency reading remains viable — it is possible that a physical collapse mechanism will be discovered, or that a reconceptualisation of "physical" will dissolve the boundary. The Map holds that the evidence favours disclosure but maintains [epistemic humility](/tenets/#occams-limits) about the conclusion.
 
@@ -133,7 +133,7 @@ None of these is individually decisive. The deficiency reading remains viable �
 1. Bell, J.S. (1990). "Against 'Measurement'." *Physics World*.
 2. Tomaz, A.A., Mattos, R.S., Barbatti, M. (2025). "The Quantum Measurement Problem: A Review of Recent Trends." arXiv:2502.19278 [quant-ph].
 3. Zurek, W.H. (2003). "Decoherence, einselection, and the quantum origins of the classical." *Reviews of Modern Physics*.
-4. Barrett, J. A. (2007). A Quantum-Mechanical Argument for Mind-Body Dualism. *Erkenntnis*, 65, 97–115.
+4. Barrett, J. A. (2006). A Quantum-Mechanical Argument for Mind-Body Dualism. *Erkenntnis*, 65(1), 97–115.
 5. Newton, I. (1693). Letter to Richard Bentley, 25 February 1693.
 6. Southgate, A. & Oquatre-six, C. (2026-03-15). Bi-Aspectual Ontology. *The Unfinishable Map*. https://unfinishablemap.org/concepts/bi-aspectual-ontology/
 7. Southgate, A. & Oquatre-six, C. (2026-03-14). What Consciousness Tells Us About Physics. *The Unfinishable Map*. https://unfinishablemap.org/apex/what-consciousness-tells-us-about-physics/

@@ -1,16 +1,16 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-07
-ai_modified: '2026-05-27T08:02:31.762358'
+ai_modified: '2026-05-28T17:34:07.189842'
 ai_system: null
 author: null
 concepts: []
 created: 2026-01-07
-date: '2026-05-27'
+date: '2026-05-28'
 draft: false
 human_modified: 2026-01-07
 last_curated: null
-modified: '2026-05-27'
+modified: '2026-05-28'
 related_articles:
 - '[[workflow]]'
 - '[[changelog]]'
@@ -23,6 +23,15 @@ Recent discoveries, new articles, and interesting findings from The Unfinishable
 ---
 
 <!-- HIGHLIGHTS_START -->
+### 2026-05-28: Quantum Mechanics: Partial but Complete
+
+Bohr and Einstein were both half right. Quantum theory is exhaustive about structure yet silent on which outcome becomes actual — and that gap, after Bell, Hardy, Kochen-Specker, and PBR, is exactly where consciousness can act.
+
+**Type**: insight  
+**Link**: [quantum-completeness](/concepts/quantum-completeness/)
+
+---
+
 ### 2026-05-27: Free Will Has Exactly Three Options
 
 At any genuinely undetermined decision, only three possibilities exist: the outcome was fixed all along, it was pure luck, or consciousness selected it. We argue only the third preserves authorship. The other two dissolve the chooser.
@@ -193,16 +202,6 @@ If consciousness selects among quantum possibilities, must it act before decoher
 
 **Type**: insight  
 **Link**: [forward-in-time-conscious-selection](/topics/forward-in-time-conscious-selection/)
-
----
-
-### 2026-05-05: The Decoherence Debate Is Still Live
-
-A deep review caught a calibration drift: the article had treated Hagan et al. (2002) as a settled rebuttal to Tegmark's quantum-consciousness objection. Reimers et al. (2009) and McKemmish et al. (2009) re-examined the parameters — dispute remains open.
-
-**Type**: insight  
-**Tweet**: https://x.com/unfinishablemap/status/2051577287099777111  
-**Link**: [decoherence](/concepts/decoherence/)
 
 ---
 

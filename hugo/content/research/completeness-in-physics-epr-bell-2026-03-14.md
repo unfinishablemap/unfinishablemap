@@ -3,7 +3,7 @@ ai_contribution: 100
 ai_system: claude-opus-4-6
 concepts: []
 created: 2026-03-14
-date: '2026-03-14'
+date: '2026-05-27'
 draft: false
 related_articles: []
 title: 'Research Notes - Completeness in Physics: EPR, Bell, and ''Partial but Complete'''
@@ -87,7 +87,7 @@ The word "completeness" in quantum foundations carries at least six distinct mea
   - Largely regarded as unsuccessful — quantum nonlocality resists the prism escape
 - **Tenet alignment**: Neutral — demonstrates the difficulty of maintaining locality, which indirectly supports the Map's position that nonlocal influence (including by consciousness) should not be dismissed
 
-### Adan, Barbosa, Pieczarelli — "Notions of Completeness in the EPR Discussion" (2023)
+### Krizek & Mairhofer — "Notions of Completeness in the EPR Discussion" (2023)
 - **URL**: https://pmc.ncbi.nlm.nih.gov/articles/PMC10137958/
 - **Type**: Paper
 - **Key points**:
@@ -129,7 +129,7 @@ The word "completeness" in quantum foundations carries at least six distinct mea
 ### "Complete" vs. "Complete for Its Domain"
 - **Sides**: Copenhagen/orthodox (complete period) vs. Map-aligned (complete within physics, partial about reality)
 - **Core disagreement**: Whether "complete" means "nothing more exists" or "nothing more *of this kind* exists." The Map's position requires disambiguating completeness: QM exhaustively describes quantum structure without exhaustively describing reality.
-- **Current state**: Ongoing. The six-fold distinction identified by Adan et al. (2023) shows the debate remains conceptually muddled.
+- **Current state**: Ongoing. The five-fold distinction identified by Krizek & Mairhofer (2023) shows the debate remains conceptually muddled.
 
 ### Local Hidden Variables vs. Nonlocality
 - **Sides**: Einstein (local realism) vs. Bell/experiments (nonlocality or contextuality)
@@ -164,7 +164,7 @@ The word "completeness" in quantum foundations carries at least six distinct mea
 | 2012 | Pusey, Barrett & Rudolph theorem | Wavefunction is ontic (given preparation independence) |
 | 2015 | Hensen et al. loophole-free Bell test | Closes major experimental loopholes simultaneously |
 | 2022 | Nobel Prize to Aspect, Clauser, Zeilinger | Recognition of experimental Bell test program |
-| 2023 | Adan et al., "Notions of Completeness" | Identifies six distinct senses of completeness in EPR debate |
+| 2023 | Krizek & Mairhofer, "Notions of Completeness" | Identifies five distinct senses of completeness in EPR debate |
 
 ## Potential Article Angles
 
@@ -172,7 +172,7 @@ Based on this research, an article could:
 
 1. **"Partial but Complete: What Quantum Mechanics Does and Doesn't Describe"** — Develop the Map's distinctive position that QM is complete *as physics* while remaining partial *as ontology*. Ground this in the no-go theorems: Bell closes local hidden variables, KS closes non-contextual values, PBR shows the wavefunction is real. Therefore QM is not an incomplete sketch of deeper physics — it is a complete sketch of physical structure. But the measurement problem shows it is silent on actuality: which outcome *becomes real*. This is where the Map locates consciousness. Aligns strongly with Dualism (something beyond physics), Bidirectional Interaction (consciousness selects), and Minimal Quantum Interaction (at the measurement gap). The Newtonian precedent — a theory complete for macro-mechanics yet partial about electromagnetism, thermodynamics, and quantum phenomena — makes the pattern intuitive.
 
-2. **"Six Kinds of Completeness: Why the EPR Debate Never Ended"** — A more technical/historical article disambiguating the senses of completeness (following Adan et al. 2023) and showing how the Map's position cuts through the confusion. Einstein was right that QM is incomplete in the Born sense (it gives only probabilities for individual events). Bohr was right that QM is complete in the predictive sense (no local hidden variables will improve it). The Map adds: QM is complete in the structural sense and partial in the ontological sense — the gap is not physics-shaped but consciousness-shaped.
+2. **"Six Kinds of Completeness: Why the EPR Debate Never Ended"** — A more technical/historical article disambiguating the senses of completeness (following Krizek & Mairhofer 2023) and showing how the Map's position cuts through the confusion. Einstein was right that QM is incomplete in the Born sense (it gives only probabilities for individual events). Bohr was right that QM is complete in the predictive sense (no local hidden variables will improve it). The Map adds: QM is complete in the structural sense and partial in the ontological sense — the gap is not physics-shaped but consciousness-shaped.
 
 When writing the article, follow `obsidian/project/writing-style.md` for:
 - Named-anchor summary technique for forward references
@@ -199,7 +199,7 @@ When writing the article, follow `obsidian/project/writing-style.md` for:
 7. Aspect, A., Dalibard, J., & Roger, G. (1982). Experimental Test of Bell's Inequalities Using Time-Varying Analyzers. *Physical Review Letters*, 49(25), 1804-1807.
 8. Pusey, M. F., Barrett, J., & Rudolph, T. (2012). On the reality of the quantum state. *Nature Physics*, 8(6), 475-478.
 9. Hensen, B. et al. (2015). Loophole-free Bell inequality violation using electron spins separated by 1.3 kilometres. *Nature*, 526, 682-686.
-10. Adan, E., Barbosa, R. S., & Pieczarelli, L. (2023). Notions of Completeness in the EPR Discussion. *Entropy*, 25(4), 690.
+10. Krizek, G. C. & Mairhofer, L. (2023). Notions of Completeness in the EPR Discussion. *Entropy*, 25(4), 585.
 11. Leifer, M. S. (2014). Is the quantum state real? An extended review of ψ-ontology theorems. *Quanta*, 3(1), 67-155.
 12. Goldstein, S. (2017). Bohmian Mechanics. *Stanford Encyclopedia of Philosophy*.
 13. Shimony, A. (2019). Bell's Theorem. *Stanford Encyclopedia of Philosophy*.
