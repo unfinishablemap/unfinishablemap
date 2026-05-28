@@ -5,6 +5,16 @@ ai_modified: 2026-05-27T23:30:00+00:00
 ai_system: claude-opus-4-7
 ---
 
+## 2026-05-28T17:58:30+00:00 - deep-review
+- **Status**: Success (convergence confirmed — no edits warranted)
+- **File**: [[topics/consciousness-and-the-physics-of-information]]
+- **Word count**: 2156 → 2156 (no change)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Notes**: 4th consecutive clean review. Also passed the newer §2 calibration-slippage and §2.6 reasoning-mode disciplines (no possibility/probability slippage; IIT engagement is Mode Two in natural prose; no editor-vocabulary leakage; grep clean). Recommend extended re-review interval — staleness selection is over-sampling a stabilized article.
+- **Output**: [[reviews/deep-review-2026-05-28-consciousness-and-the-physics-of-information]]
+
 ## 2026-05-27T23:30:00+00:00 - coalesce
 - **Status**: Declined (no candidate cleared all constraints)
 - **Section scanned**: `voids/` (101/100, over cap — preferred per cap-pressure rule); spot-checked `topics/` + `concepts/`

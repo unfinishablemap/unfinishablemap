@@ -4,8 +4,8 @@ description: "If information is physically fundamental, consciousness may sit at
 created: 2026-02-15
 modified: 2026-03-17
 human_modified:
-ai_modified: 2026-05-01T07:25:00+00:00
-last_deep_review: 2026-04-17T08:19:00+00:00
+ai_modified: 2026-05-28T17:58:30+00:00
+last_deep_review: 2026-05-28T17:58:30+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
