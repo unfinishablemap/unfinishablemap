@@ -4,7 +4,7 @@ description: "Exploring how consciousness transforms the problem of induction fr
 created: 2026-02-15
 modified: 2026-02-17
 human_modified:
-ai_modified: 2026-04-17T01:01:00+00:00
+ai_modified: 2026-05-28T23:31:29+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -30,7 +30,7 @@ author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-02-15
 last_curated:
-last_deep_review: 2026-04-17T01:01:00+00:00
+last_deep_review: 2026-05-28T23:31:29+00:00
 ---
 
 The Unfinishable Map argues that consciousness does not merely encounter the problem of induction—it *constitutes* the arena in which induction becomes intelligible at all. The problem of induction, famously articulated by Hume, asks why past regularities should justify expectations about the future. But this question presupposes something remarkable: a subject who grasps the difference between "has been" and "will be," who experiences expectation, and who can reflect on whether that expectation is warranted. Without consciousness, there is no problem of induction—only sequences of events with no one to wonder whether they will continue.
@@ -45,7 +45,7 @@ Note that the Map's argument here operates within the justificationist tradition
 
 ## Why Consciousness Cannot Be Sidelined
 
-The problem of induction is not a problem about sequences of events. It is a problem about *justified belief*—and belief is a conscious state.
+The problem of induction concerns *justified belief*, not bare sequences of events—and belief is a conscious state.
 
 Consider what inductive reasoning actually involves. A reasoner must hold in mind a pattern of past instances, project that pattern forward, assess the strength of the projection, and form a credulous or sceptical attitude toward the conclusion. Each step involves [[cognitive-phenomenology|cognitive phenomenology]]—the felt quality of thinking itself. The sense that "this pattern is strong" or "this inference feels shaky" is not an add-on to the reasoning but part of what makes it reasoning rather than mere information processing.
 
@@ -63,7 +63,7 @@ Similarly, [[phenomenology-of-intellectual-life|belief revision]] has a phenomen
 
 The problem of induction takes on special significance when applied to consciousness itself. Physical science relies on induction: we observe regularities between neural states and reported experiences, then generalise. But the [[explanatory-gap]]—central to the [[hard-problem-of-consciousness]]—means that no amount of physical regularity explains *why* a given brain state is accompanied by a specific experience rather than a different one or none at all.
 
-This represents a fundamental limit on what induction can achieve in the domain of consciousness, rather than a gap awaiting a better theory. Induction works by identifying patterns and projecting them. But the relationship between physical processes and phenomenal experience is not a pattern of the usual kind. It is a brute correlation without an intelligible mechanism connecting its terms. The [[knowledge-argument]] drives this home: Mary knows all the physical facts about colour vision yet cannot inductively derive what red looks like. Physicalists respond that Mary gains only a new *ability* (to recognise red) rather than new propositional knowledge, or that she acquires a new *phenomenal concept* for information she already possessed. But neither response addresses the inductive point: no accumulation of physical facts, however exhaustive, generates the phenomenal prediction. The gap lies in what induction over physical facts can deliver, not in Mary's conceptual repertoire.
+This represents a fundamental limit on what induction can achieve in the domain of consciousness, rather than a gap awaiting a better theory. Induction works by identifying patterns and projecting them. But the relationship between physical processes and phenomenal experience is a brute correlation without an intelligible mechanism connecting its terms—not a pattern of the usual kind. The [[knowledge-argument]] drives this home: Mary knows all the physical facts about colour vision yet cannot inductively derive what red looks like. Physicalists respond that Mary gains only a new *ability* (to recognise red) rather than new propositional knowledge, or that she acquires a new *phenomenal concept* for information she already possessed. But neither response addresses the inductive point: no accumulation of physical facts, however exhaustive, generates the phenomenal prediction. The gap lies in what induction over physical facts can deliver, not in Mary's conceptual repertoire.
 
 The Map's dualist framework makes this failure explicable rather than mysterious. If consciousness is genuinely irreducible to physical processes, then the failure of physical-to-phenomenal induction is not a temporary gap awaiting a future theory. It reflects a real boundary between ontological categories. Induction works within categories—physical patterns predict physical outcomes, phenomenal patterns predict phenomenal expectations—but cannot bridge the fundamental divide.
 
