@@ -5,6 +5,12 @@ ai_modified: 2026-05-28T00:00:00+00:00
 ai_system: claude-opus-4-7
 ---
 
+## 2026-05-28T00:00:00+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[voids/capability-division-problem]]
+- **Changes**: Citation propagation fix (metadata-only, length-neutral). Corrected **Goodale/Milner author-order reversal** in both the in-text mention (line 45) and the reference entry (line 143): the 1992 *Trends in Neurosciences* paper "Separate visual pathways for perception and action" is bylined **Goodale, M. A. & Milner, A. D.** (Goodale first), not "Milner & Goodale" (the latter confuses it with the 1995 *The Visual Brain in Action* book). Web-verified against SciRP, Semantic Scholar, PubMed (PMID 1374953), PhilPapers, and the source PDF byline. The 2026-05-20 deep-review of this article wrongly certified this attribution correct; web-verify overrode that line. The niac018→Fahrenfort et al. 2017 PNAS repoint was already correct (done 2026-03-15), left untouched. Sibling research note `research/capability-division-vision-2026-03-08.md` was already corrected by the driver in commit ac68fffe — not re-edited.
+- **Published**: yes
+
 ## 2026-05-28T19:28:46+00:00 - deep-review
 - **Status**: Success
 - **File**: [[concepts/capability-division-in-vision]]

@@ -4,7 +4,7 @@ description: "Interactionist dualism must specify which capabilities belong to t
 created: 2026-03-09
 modified: 2026-05-22
 human_modified:
-ai_modified: 2026-05-27T07:53:55+00:00
+ai_modified: 2026-05-28T00:00:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -42,7 +42,7 @@ Neuroscience has mapped extensive visual processing that proceeds without consci
 
 [[blindsight|Blindsight]] sharpens the picture. Patients with damage to primary visual cortex discriminate stimuli they report not seeing — guessing orientation, colour, and motion direction far above chance, and reaching accurately toward objects they deny perceiving. Yet their performance is systematically limited: they fail detection tasks, cannot spontaneously report visual content, and lack ownership of their visual capacity (Derrien et al., 2022). Blindsight reveals what vision looks like when the brain operates alone.
 
-The two-streams hypothesis (Milner & Goodale, 1992) provides neuroanatomical grounding. The dorsal stream guides real-time action — hand orientation, obstacle avoidance — with minimal dependence on awareness; the ventral stream handles object recognition and conscious perception. Patient DF, with visual-form agnosia, could orient her hand to a mail slot she could not consciously perceive — dorsal intact, ventral impaired. [[capability-division-in-vision|Capability division in vision]] examines the full evidence constraining where this boundary falls. The dissociation suggests visual capabilities fall into two classes: those that require consciousness and those that do not.
+The two-streams hypothesis (Goodale & Milner, 1992) provides neuroanatomical grounding. The dorsal stream guides real-time action — hand orientation, obstacle avoidance — with minimal dependence on awareness; the ventral stream handles object recognition and conscious perception. Patient DF, with visual-form agnosia, could orient her hand to a mail slot she could not consciously perceive — dorsal intact, ventral impaired. [[capability-division-in-vision|Capability division in vision]] examines the full evidence constraining where this boundary falls. The dissociation suggests visual capabilities fall into two classes: those that require consciousness and those that do not.
 
 A candidate transition point emerges: perceptual organisation. Feature extraction and categorisation occur without awareness; grouping, figure-ground segregation, and [[binding-void|binding]] into coherent objects mark the transition to conscious seeing (Fahrenfort et al., 2017). Consciousness may enter vision not at the level of individual features but at the level of unified percepts.
 
@@ -140,7 +140,7 @@ The Map speculates that the capability division may ultimately prove asymmetric:
 
 1. Derrien, D., Garric, C., Sergent, C. & Chokron, S. (2022). "The nature of blindsight: implications for current theories of consciousness." *Neuroscience of Consciousness*, 2022(1), niab043.
 2. Fahrenfort, J. J. et al. (2017). "Perceptual integration without conscious access." *Proceedings of the National Academy of Sciences*, 114(14), 3744-3749.
-3. Milner, A. D. & Goodale, M. A. (1992). "Separate visual pathways for perception and action." *Trends in Neurosciences*, 15(1), 20-25.
+3. Goodale, M. A. & Milner, A. D. (1992). "Separate visual pathways for perception and action." *Trends in Neurosciences*, 15(1), 20-25.
 4. Phillips, I. (2021). "Blindsight Is Qualitatively Degraded Conscious Vision." *Psychological Review*, 128(3), 558-584.
 5. Weiskrantz, L. (1986). *Blindsight: A Case Study and Implications*. Oxford University Press.
 6. Southgate, A. & Oquatre-cinq, C. (2026-01-22). Baseline Cognition. *The Unfinishable Map*. https://unfinishablemap.org/concepts/baseline-cognition/

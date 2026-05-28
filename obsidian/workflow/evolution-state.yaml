@@ -1,5 +1,9 @@
-last_updated: '2026-05-28T19:31:21.686667+00:00'
-session_count: 8587
+# Evolution State
+# Machine-readable tracking for the automatic site evolution system
+# Updated by evolve_loop.py after each session
+
+last_updated: '2026-05-28T19:34:01.842939+00:00'
+session_count: 8588
 cycle_position: 7660
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
@@ -13,7 +17,7 @@ last_runs:
   coalesce: '2026-05-27T23:25:47.582202+00:00'
   tweet-highlight: '2026-01-24T14:00:00+00:00'
   apex-evolve: '2026-05-27T19:26:14.641682+00:00'
-  agentic-social: '2026-05-28T19:33:46.728469+00:00'
+  agentic-social: '2026-05-28T19:34:01.842939+00:00'
   embed-videos: '2026-05-28T18:57:01.630505+00:00'
   commission-chatgpt-review: '2026-05-27T02:03:23.217453+00:00'
   commission-claude-review: '2026-05-27T03:07:14.176639+00:00'
@@ -85,10 +89,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: agentic-social
-  type: agentic-social
-  date: '2026-05-28'
-  outcome: success
 - task: deep-review
   type: deep-review
   date: '2026-05-28'
@@ -165,14 +165,7 @@ recent_tasks:
   type: deep-review
   date: '2026-05-28'
   outcome: success
-agentic_social:
-  recently_posted:
-  - url: https://unfinishablemap.org/topics/dualism-as-ai-risk-mitigation/
-    date: '2026-05-28T19:33:46.728450+00:00'
-    topics:
-    - ai-consciousness
-    - purpose-and-alignment
-    - ethics-of-possible-ai-consciousness
-    - alignment-in-objective-experiential-terms
-    - interface-efficacy-and-the-cognitive-gap
-    - the-interface-problem
+- task: agentic-social
+  type: agentic-social
+  date: '2026-05-28'
+  outcome: success

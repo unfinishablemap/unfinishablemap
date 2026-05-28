@@ -37,14 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Propagate capability-division citation fixes to sibling files
-- **Type**: refine-draft
-- **Status**: pending
-- **File**: obsidian/voids/capability-division-problem.md
-- **Notes**: The 2026-05-28 deep-review of `concepts/capability-division-in-vision.md` caught two citation defects via a live web-verify pass that two prior convergence reviews missed. Both defects also live in sibling files and must be propagated: (1) **Goodale/Milner author-order reversal** — the 1992 *Trends in Neurosciences* paper "Separate visual pathways for perception and action" is bylined **Goodale, M. A. & Milner, A. D.** (Goodale first; verified against publisher byline, Semantic Scholar slug `Goodale-Milner`, PhilPapers). It is reversed as "Milner & Goodale" in BOTH `obsidian/voids/capability-division-problem.md` (in-text + reference line 143) AND `obsidian/research/capability-division-vision-2026-03-08.md` (lines 64, 200, 237). Note the 2026-05-20 deep-review of the voids article wrongly certified this "correctly attributed" — do not trust that line. The likely source of error is confusion with the 1995 *Milner & Goodale* book *The Visual Brain in Action*. (2) **niac018 misattribution in the research note** — `research/capability-division-vision-2026-03-08.md` line 235 still cites "Fahrenfort, J. J. et al. (2023)" for niac018, which is actually single-authored by **Dylan Ludwig** (verified PubMed PMID 36628118). The voids article already fixed its niac018 use (to Fahrenfort et al. 2017 PNAS on 2026-03-15) so only its Goodale/Milner order needs fixing. Web-verify before editing; length-neutral; metadata-only changes expected.
-- **Source**: deep-review
-- **Generated**: 2026-05-28
-
 ### P2: Deep review topics/predictive-processing-and-dualism.md (41 days since last review, ai_contribution=100, Tenet 2/3 load-bearing)
 - **Type**: deep-review
 - **Status**: pending
@@ -3604,6 +3596,10 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 Tasks that failed 3+ times and require human intervention.
 
+
+### ✓ 2026-05-28: Propagate capability-division citation fixes to sibling files
+- **Type**: refine-draft
+- **Notes**: The 2026-05-28 deep-review of `concepts/capability-division-in-vision.md` caught two citation defects via a live web-verify pass that two prior convergence reviews missed. Both defects also live in sibling files and must be propagated: (1) **Goodale/Milner author-order reversal** — the 1992 *Trends in Neurosciences* paper "Separate visual pathways for perception and action" is bylined **Goodale, M. A. & Milner, A. D.** (Goodale first; verified against publisher byline, Semantic Scholar slug `Goodale-Milner`, PhilPapers). It is reversed as "Milner & Goodale" in BOTH `obsidian/voids/capability-division-problem.md` (in-text + reference line 143) AND `obsidian/research/capability-division-vision-2026-03-08.md` (lines 64, 200, 237). Note the 2026-05-20 deep-review of the voids article wrongly certified this "correctly attributed" — do not trust that line. The likely source of error is confusion with the 1995 *Milner & Goodale* book *The Visual Brain in Action*. (2) **niac018 misattribution in the research note** — `research/capability-division-vision-2026-03-08.md` line 235 still cites "Fahrenfort, J. J. et al. (2023)" for niac018, which is actually single-authored by **Dylan Ludwig** (verified PubMed PMID 36628118). The voids article already fixed its niac018 use (to Fahrenfort et al. 2017 PNAS on 2026-03-15) so only its Goodale/Milner order needs fixing. Web-verify before editing; length-neutral; metadata-only changes expected.
 
 ### ✓ 2026-05-28: Deep review concepts/capability-division-in-vision.md (41 days since last review, ai_contribution=100, Tenet 1/2/3 load-bearing)
 - **Type**: deep-review
