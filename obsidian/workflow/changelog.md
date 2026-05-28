@@ -5,6 +5,15 @@ ai_modified: 2026-05-27T23:30:00+00:00
 ai_system: claude-opus-4-7
 ---
 
+## 2026-05-28T14:05:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [[concepts/filter-theory]]
+- **Word count**: 3460 → 3460 (length-neutral; 138% of 2500 soft, 40w under 3500 hard)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Notes**: 10th review; task-priority was verifying the corpus-wide BJA Open citation fix landed here. **Verified correct**: body + reference both now read "Montupil, J., Cardone, P., Staquet, C., et al. (2023). The nature of consciousness in anaesthesia. *BJA Open*, 8, 100224" (PubMed 37780201, DOI 10.1016/j.bjao.2023.100224); claim (three states: connected/disconnected/unconscious) coherent in context. The 2026-04-17-flagged inconsistency (this article "Sanders" vs anesthesia-void "Mashour") is **resolved** — filter-theory.md and [[anaesthesia-and-the-consciousness-interface]] now consistent on Montupil. (Research note voids-anesthesia-void still says Mashour; private note, out of scope.) **Live citation-currency check**: web-verified Zheng & Meister 2025 (Neuron 113(2):192-204) and Sauerbrei & Pruszynski 2025 (Nat Neurosci, PMID 40514587) — both current, claims accurate, no drift. §calibration: PASSED, exemplary — line 184's "seven subsections = one pattern, not seven" note is a model evidence-weight passage; no possibility/probability slippage anywhere; *C. elegans* claim hedged with "may," no tenet-driven upgrade. §2.6 Frankish/illusionism engagement: Mixed (Mode Two in-framework parsimony argument + honest Mode Three boundary-marking, declines decisive refutation); no label leakage. Article at VERY HIGH stability; verification + currency review, no content edits. **Output**: [[reviews/deep-review-2026-05-28-filter-theory]]
+
 ## 2026-05-28T19:30:00+00:00 - deep-review
 - **Status**: Success
 - **File**: [[topics/neurological-dissociations-as-interface-architecture]]
