@@ -5,6 +5,19 @@ ai_modified: 2026-05-28T00:00:00+00:00
 ai_system: claude-opus-4-7
 ---
 
+## 2026-05-28T20:15:00+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[concepts/capability-division-in-vision]] + [[voids/capability-division-problem]] (multi-file pair)
+- **Addresses**: [[reviews/pessimistic-2026-05-28-capability-division]]
+- **Changes**:
+  - Finding 1 (CITATION): Web-verified the DF slot/posting primary report — Goodale, Milner, Jakobson & Carey (1991), *Nature* 349:154-156 (PMID 1986306, DOI 10.1038/349154a0). Added it to the empirical DF sentence in BOTH files; kept the 1992 *TINS* cite for the two-streams framing claim. Renumbered reference lists in both.
+  - Finding 2 (KEYSTONE, voids): Tightened §"Beyond Vision", §"Worked Exhibit" close, and §"The Void" so the "transforms rather than supplements" holism claim reads as a Map hypothesis the cross-domain pattern motivates (not a finding it establishes), matching the existing "speculates" tag in §"Relation to Site Perspective". Did not retract the central claim.
+  - Finding 3 (ANTI-EPIPHENOMENALISM, vision): Added a clause to §"The Epiphenomenalist Pressure" acknowledging the spandrel/necessary-byproduct rejoinder and noting the Map's reply does not rest on the selection argument alone (treats it as corroborating, not load-bearing). This also retired the uncited "metabolic cost is non-trivial" claim.
+  - Finding 4 (MINOR): Harmonised the DF lesion description across both files to "visual-form agnosia followed ventral-stream damage" (was LOC-damage vs visual-form-agnosia, read as two lesions). Softened "demonstrably handles independently/alone" (both files), "no obvious neural correlate" → "no agreed neural correlate" + Map-attribution, "empirically robust" → "empirically supported" (vision).
+  - Replaced one "not X but Y" LLM-cliché construct in §"The Void" per writing-style guide.
+- **Verification**: 1991 Nature citation web-verified against nature.com / PubMed primary source (not corpus). No engagement-mode label leakage introduced. Evidential-status discipline honoured (hypothesis register, no possibility/probability slippage, no over-hedge-into-mush).
+- **Published**: yes
+
 ## 2026-05-28T00:00:00+00:00 - pessimistic-review
 - **Status**: Success
 - **Content reviewed**: capability-division pair — [[voids/capability-division-problem]] + [[concepts/capability-division-in-vision]]
