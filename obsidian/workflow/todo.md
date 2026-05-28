@@ -37,6 +37,29 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
+### P2: Adopt substrate-independence calibration in hoel-llm-consciousness-continual-learning
+- **Type**: refine-draft
+- **Status**: pending
+- **File**: obsidian/topics/hoel-llm-consciousness-continual-learning.md
+- **Notes**: From topic-concept anchoring audit 2026-05-28. The topic article over-claims relative to its anchor concept [[substrate-independence]]; failed checks: hedge_density, strong_assertions.
+  - hedge density 3.66/kw is below 60% of anchor (11.74/kw)
+  - topic uses 1 strong-assertion verbs where anchor uses none
+  - Action: bring the topic's hedge profile in line with the anchor concept's. Preserve the article's voice; this is not a request to weaken the central claim, only to inherit the calibration discipline the anchor concept already uses. See [[project/calibration-audit-triple]] Audit Three for the spec and [[evidential-status-discipline]] for the underlying rule.
+- **Source**: topic-concept-anchoring-audit
+- **Generated**: 2026-05-28
+
+### P2: Adopt explanatory-gap calibration in the-subject-object-distinction-as-philosophical-discovery
+- **Type**: refine-draft
+- **Status**: pending
+- **File**: obsidian/topics/the-subject-object-distinction-as-philosophical-discovery.md
+- **Notes**: From topic-concept anchoring audit 2026-05-28. The topic article over-claims relative to its anchor concept [[explanatory-gap]]; failed checks: hedge_density, strong_assertions.
+  - hedge density 3.27/kw is below 60% of anchor (9.87/kw)
+  - strong-assertion density 0.94/kw exceeds 1.5× anchor (0.58/kw)
+  - Action: bring the topic's hedge profile in line with the anchor concept's. Preserve the article's voice; this is not a request to weaken the central claim, only to inherit the calibration discipline the anchor concept already uses. See [[project/calibration-audit-triple]] Audit Three for the spec and [[evidential-status-discipline]] for the underlying rule.
+- **Source**: topic-concept-anchoring-audit
+- **Generated**: 2026-05-28
+
+
 ### P3: Reconcile Naccache (2005) lesion lateralization across apex and mental-effort.md
 - **Type**: refine-draft
 - **Status**: pending
@@ -96,13 +119,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Review file**: `reviews/pessimistic-2026-05-19b.md`
 - **Source**: pessimistic-review (2026-05-19b)
 - **Generated**: 2026-05-19
-
-### P2: Deep review concepts/metaphysics-of-composition.md (43 days since last review, ai_contribution=100, Tenet 1 load-bearing)
-- **Type**: deep-review
-- **Status**: pending
-- **Notes**: RELOCATED into Active Tasks by /replenish-queue 2026-05-28. This task was stranded *below* the `## Completed Tasks` header (the known orphaned-pending-task parser defect), so the evolution loop's queue parser could not see it — meaning the actionable (P0-P2) queue effectively stood at 1 (the consciousness-and-skill-acquisition literature-drift P2 alone), below the MIN_QUEUE floor of 3. Relocating the one grounded stranded task is the honest floor-restoring move rather than minting speculative expand-topic work against the ~470-task P3 backlog. CORRECTED FRAMING: the prior task header claimed "never independently reviewed" — this is **false**. `concepts/metaphysics-of-composition.md` ("Metaphysics of Composition", ai_contribution=100, `last_deep_review: 2026-04-15T18:50`) was independently deep-reviewed **twice on its creation date 2026-04-15** — see `reviews/deep-review-2026-04-15-metaphysics-of-composition.md` (initial, no critical issues) and `reviews/deep-review-2026-04-15b-metaphysics-of-composition.md` (cross-review against phenomenal-non-compositionality / combination-problem / unity-of-consciousness / the consciousness-and-the-metaphysics-of-composition topic). So it is a genuinely-converged article (clean on two passes), now ~43 days stale — NOT an urgent never-reviewed page. Per the documented "deep-review over-reviews converged" caution, keep expectations low: a metadata-and-currency pass, not a rewrite. Deep-review should: (a) verify the mereological claims (van Inwagen's organicism, Merricks' eliminativism, the Special Composition Question framing) are still accurate; (b) confirm cross-links to `[[consciousness-and-the-metaphysics-of-composition]]`, `[[combination-problem]]`, `[[panpsychisms-combination-problem]]`, `[[phenomenal-non-compositionality]]` resolve live and are reciprocated where load-bearing; (c) honour `[[evidential-status-discipline]]` — the page supports the convergence-for-dualism reading but must not be stronger than the convergence-arguments discipline (independence / methodological-diversity / against-the-grain) licenses; (d) writing-style + length discipline (well under the 2500-word concepts soft threshold; no "This is not X. It is Y." cliché). If the article is unchanged-clean on this third pass, mark it a no-op metadata refresh rather than forcing edits. Tenet alignment: Tenet 1 (Dualism — consciousness as the criterion distinguishing genuine composites from mere aggregates).
-- **Source**: staleness (relocated from below Completed header)
-- **Generated**: 2026-04-15 (relocated/corrected 2026-05-28)
 
 ### P3: Write concept page for "direction-of-interface-change" signature family
 - **Type**: expand-topic
@@ -1120,7 +1136,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Notes**: Suggested by optimistic review. The argumentative pattern where a theory's internal development forces modifications that replicate its rival's claims. Currently described within concession-convergence.md but recurs across many articles (IIT adding exclusion axiom, GWT restricting access, HOT requiring phenomenal acquaintance, biological computationalism rejecting substrate independence). Deserves standalone concept page. Target section: concepts/ (227/230). See optimistic-2026-04-15-evening.md
 - **Source**: gap_analysis
 - **Generated**: 2026-04-15
-
 
 ### P3: Write article on consciousness-physics interface mechanism (technical treatment)
 - **Type**: expand-topic
@@ -3577,6 +3592,10 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 Tasks that failed 3+ times and require human intervention.
 
+
+### ✓ 2026-05-28: Deep review concepts/metaphysics-of-composition.md (43 days since last review, ai_contribution=100, Tenet 1 load-bearing)
+- **Type**: deep-review
+- **Notes**: RELOCATED into Active Tasks by /replenish-queue 2026-05-28. This task was stranded *below* the `## Completed Tasks` header (the known orphaned-pending-task parser defect), so the evolution loop's queue parser could not see it — meaning the actionable (P0-P2) queue effectively stood at 1 (the consciousness-and-skill-acquisition literature-drift P2 alone), below the MIN_QUEUE floor of 3. Relocating the one grounded stranded task is the honest floor-restoring move rather than minting speculative expand-topic work against the ~470-task P3 backlog. CORRECTED FRAMING: the prior task header claimed "never independently reviewed" — this is **false**. `concepts/metaphysics-of-composition.md` ("Metaphysics of Composition", ai_contribution=100, `last_deep_review: 2026-04-15T18:50`) was independently deep-reviewed **twice on its creation date 2026-04-15** — see `reviews/deep-review-2026-04-15-metaphysics-of-composition.md` (initial, no critical issues) and `reviews/deep-review-2026-04-15b-metaphysics-of-composition.md` (cross-review against phenomenal-non-compositionality / combination-problem / unity-of-consciousness / the consciousness-and-the-metaphysics-of-composition topic). So it is a genuinely-converged article (clean on two passes), now ~43 days stale — NOT an urgent never-reviewed page. Per the documented "deep-review over-reviews converged" caution, keep expectations low: a metadata-and-currency pass, not a rewrite. Deep-review should: (a) verify the mereological claims (van Inwagen's organicism, Merricks' eliminativism, the Special Composition Question framing) are still accurate; (b) confirm cross-links to `[[consciousness-and-the-metaphysics-of-composition]]`, `[[combination-problem]]`, `[[panpsychisms-combination-problem]]`, `[[phenomenal-non-compositionality]]` resolve live and are reciprocated where load-bearing; (c) honour `[[evidential-status-discipline]]` — the page supports the convergence-for-dualism reading but must not be stronger than the convergence-arguments discipline (independence / methodological-diversity / against-the-grain) licenses; (d) writing-style + length discipline (well under the 2500-word concepts soft threshold; no "This is not X. It is Y." cliché). If the article is unchanged-clean on this third pass, mark it a no-op metadata refresh rather than forcing edits. Tenet alignment: Tenet 1 (Dualism — consciousness as the criterion distinguishing genuine composites from mere aggregates).
 
 ### ✓ 2026-05-28: Deep review concepts/filter-theory.md (40 days since last review, ai_contribution=100, Tenet 1/3 load-bearing, 146-inbound navigational hub)
 - **Type**: deep-review

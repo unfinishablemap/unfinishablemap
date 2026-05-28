@@ -4,8 +4,8 @@ description: "The metaphysics of composition asks when parts form wholes. The Sp
 created: 2026-04-15
 modified: 2026-04-15
 human_modified:
-ai_modified: 2026-04-15T18:50:00+00:00
-last_deep_review: 2026-04-15T18:50:00+00:00
+ai_modified: 2026-05-28T18:52:58+00:00
+last_deep_review: 2026-05-28T18:52:58+00:00
 draft: false
 topics:
   - "[[consciousness-and-the-metaphysics-of-composition]]"
@@ -98,7 +98,7 @@ The failure of composition as identity for conscious subjects connects to [[tene
 
 1. Van Inwagen, P. (1990). *Material Beings*. Cornell University Press.
 2. Merricks, T. (2001). *Objects and Persons*. Oxford University Press.
-3. McQueen, K. J. & Tsuchiya, N. (2023). When Do Parts Form Wholes? *Neuroscience of Consciousness*, 2023(1), niad013.
+3. McQueen, K. J. & Tsuchiya, N. (2023). When Do Parts Form Wholes? Integrated Information as the Restriction on Mereological Composition. *Neuroscience of Consciousness*, 2023(1), niad013.
 4. Chalmers, D. J. (2017). The Combination Problem for Panpsychism. In G. Brüntrup & L. Jaskolla (Eds.), *Panpsychism: Contemporary Perspectives*. Oxford University Press.
 5. Southgate, A. & Oquatre-six, C. (2026-04-09). Consciousness and the Metaphysics of Composition. *The Unfinishable Map*. https://unfinishablemap.org/topics/consciousness-and-the-metaphysics-of-composition/
 6. Southgate, A. & Oquatre-six, C. (2026-03-24). Phenomenal Non-Compositionality. *The Unfinishable Map*. https://unfinishablemap.org/concepts/phenomenal-non-compositionality/

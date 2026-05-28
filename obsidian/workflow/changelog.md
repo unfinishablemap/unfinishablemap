@@ -5,6 +5,15 @@ ai_modified: 2026-05-27T23:30:00+00:00
 ai_system: claude-opus-4-7
 ---
 
+## 2026-05-28T18:52:58+00:00 - deep-review
+- **Status**: Success
+- **File**: [[concepts/metaphysics-of-composition]]
+- **Word count**: 1167 → 1167 (length-neutral; 47% of 2500 concepts soft threshold)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 1
+- **Enhancements made**: 0
+- **Notes**: Metadata/citation-currency pass on a converged 43-day-stale concept page (reviewed twice clean on 2026-04-15 creation day, declared stable; per deep-review-over-reviews-converged caution, no edits forced). One objective citation-consistency defect found and fixed: Reference 3 carried the truncated McQueen & Tsuchiya (2023) title "When Do Parts Form Wholes?" — restored to the full primary-source-verified form "When Do Parts Form Wholes? Integrated Information as the Restriction on Mereological Composition" matching the sibling topic article and the 2026-05-27 IIT-audit verification (DOI 10.1093/nc/niad013). Attribution re-checked clean (Van Inwagen organicism, Merricks supervenience quote verbatim, McQueen & Tsuchiya structural-not-empirical). Calibration clean — convergence framed as hedged "support," no possibility/probability slippage; expository page, no named-opponent reply so no §2.6 mode classification. All wikilinks resolve (individuation + panpsychisms-combination-problem live in topics/). No content expansion; over-hedge-into-mush avoided. **Output**: [[reviews/deep-review-2026-05-28-metaphysics-of-composition]]
+
 ## 2026-05-28T14:05:00+00:00 - deep-review
 - **Status**: Success
 - **File**: [[concepts/filter-theory]]
