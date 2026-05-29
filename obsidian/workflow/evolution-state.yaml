@@ -2,16 +2,16 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-05-29T00:48:05.958520+00:00'
-session_count: 8650
-cycle_position: 7701
+last_updated: '2026-05-29T00:52:18.270174+00:00'
+session_count: 8651
+cycle_position: 7702
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-05-28T23:08:51.512390+00:00'
   optimistic-review: '2026-05-28T23:46:36.222477+00:00'
   check-tenets: '2026-05-27T21:21:29.933093+00:00'
   check-links: '2026-05-28T22:18:18.920824+00:00'
-  deep-review: '2026-05-29T00:48:05.958520+00:00'
+  deep-review: '2026-05-29T00:52:18.270174+00:00'
   tune-system: '2026-05-27T21:25:16.242050+00:00'
   research-voids: '2026-05-28T22:22:11.701641+00:00'
   coalesce: '2026-05-29T00:14:56.842595+00:00'
@@ -89,10 +89,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: refine-draft
-  type: refine-draft
-  date: '2026-05-28'
-  outcome: success
 - task: deep-review
   type: deep-review
   date: '2026-05-28'
@@ -169,3 +165,32 @@ recent_tasks:
   type: deep-review
   date: '2026-05-29'
   outcome: success
+- task: deep-review
+  type: deep-review
+  date: '2026-05-29'
+  outcome: success
+queue_status:
+  p0_tasks: 0
+  p1_tasks: 0
+  p2_tasks: 4
+  p3_tasks: 470
+  needs_replenishment: false
+  last_replenishment: '2026-05-29T01:00:00+00:00'
+  replenishment_mode: conservative
+  replenishment_note: >-
+    Actionable P0-P2 queue was at 2 (below MIN_QUEUE floor of 3). Restored to 4
+    by promoting two grounded P3 tasks to P2 rather than minting speculative
+    new-content work: (1) Naccache 2005 lesion-lateralization reconciliation
+    (review-flagged cross-file inconsistency, re-verified live this cycle); (2)
+    deep-review of phenomenology-of-cognitive-limit-types.md (most-stale
+    tenet-load-bearing topic at 41 days; zero content files past 45 days).
+    Sections near/at cap (topics 257/270, concepts 250/270, voids 101/100) so
+    new expand-topic work is discouraged; P3 backlog ~470. No new tasks minted.
+  replenishment_source_counts:
+    promotion: 2
+    chain: 0
+    unconsumed_research: 0
+    gap_analysis: 0
+    length_analysis: 0
+    staleness: 0
+    orphan_integration: 0
