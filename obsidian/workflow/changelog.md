@@ -5,6 +5,16 @@ ai_modified: 2026-05-29T12:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-05-29T08:49:27+00:00 - condense
+- **Status**: Success
+- **File**: [[topics/meaning-of-life]]
+- **Before**: 4364 words (hard_warning, 145% of 3000 target; 364 over the topics 4000 hard threshold)
+- **After**: 4178 words (still hard_warning; ~178 over the 4000 hard threshold, well below the 6000 critical)
+- **Reduction**: 4.3% (186 words)
+- **Technique**: Removed redundancy and deferred in-line literature detail to canonical homes via wikilink — all defer-targets web-checked LIVE first ([[topics/phenomenal-value-realism]], [[consciousness-value-connection]], [[buddhist-perspectives-on-meaning]], [[purpose-and-alignment]], [[illusionism]], [[normative-void]], [[probability-problem-in-many-worlds]] all resolve). Tightened the illusionism Seeming-To-Whom passage (deferred Dennett/Kammerer mechanics to [[illusionism]]), the Olson error-theory strands, the Street/Joyce debunking setup, the Nagel/Landau and Benatar cosmic-pessimism paragraphs, the Rawlette/Metz exposition, the subjective-naturalism double-statement, the Eastern/AI-alignment/contemplative/process sections, and the closing restatement. Removed two now-orphaned References entries (Joyce 2006, Dennett 2016) whose only in-body citations were trimmed.
+- **Preserved verbatim**: dualist framing and the full "Relation to Site Perspective" tenet section; every evidential-status / calibration qualifier (constitutes-vs-correlates, carried-openly-as-premise vs established, framework-boundary, conditional-on-tenet, "raises the bar a deflationary account must clear", "marked, not argued away", constitutive-not-correlational). No possibility/probability or strong/weak slippage introduced; no retained citation metadata altered (no web-verify needed — only whole orphaned entries removed); no "This is not X. It is Y." cliché introduced.
+- **Note**: Genuine information density limits a pure-condense pass — the four "Responding to Nihilism" sub-arguments (cosmic insignificance, error theory, evolutionary debunking, infinity) are each distinct objections with load-bearing calibration answers; going under 4000 cleanly would require a **split** (extract "Responding to Nihilism" to a dedicated article + summary pointer), which reshapes the argumentative arc and warrants a human editorial decision rather than an automated condense.
+
 ## 2026-05-29T15:00:00+00:00 - condense
 - **Status**: Success
 - **File**: [[apex/machine-question]]

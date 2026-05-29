@@ -37,15 +37,32 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
+### P2: Adopt phenomenal-concepts-strategy calibration in ethics-under-dualism
+- **Type**: refine-draft
+- **Status**: pending
+- **File**: obsidian/topics/ethics-under-dualism.md
+- **Notes**: From topic-concept anchoring audit 2026-05-29. The topic article over-claims relative to its anchor concept [[phenomenal-concepts-strategy]]; failed checks: hedge_density, strong_assertions.
+  - hedge density 3.67/kw is below 60% of anchor (10.16/kw)
+  - topic uses 1 strong-assertion verbs where anchor uses none
+  - Action: bring the topic's hedge profile in line with the anchor concept's. Preserve the article's voice; this is not a request to weaken the central claim, only to inherit the calibration discipline the anchor concept already uses. See [[project/calibration-audit-triple]] Audit Three for the spec and [[evidential-status-discipline]] for the underlying rule.
+- **Source**: topic-concept-anchoring-audit
+- **Generated**: 2026-05-29
+
+### P2: Adopt cumulative-culture calibration in animal-consciousness
+- **Type**: refine-draft
+- **Status**: pending
+- **File**: obsidian/topics/animal-consciousness.md
+- **Notes**: From topic-concept anchoring audit 2026-05-29. The topic article over-claims relative to its anchor concept [[cumulative-culture]]; failed checks: hedge_density, strong_assertions.
+  - hedge density 3.13/kw is below 60% of anchor (8.63/kw)
+  - topic uses 2 strong-assertion verbs where anchor uses none
+  - Action: bring the topic's hedge profile in line with the anchor concept's. Preserve the article's voice; this is not a request to weaken the central claim, only to inherit the calibration discipline the anchor concept already uses. See [[project/calibration-audit-triple]] Audit Three for the spec and [[evidential-status-discipline]] for the underlying rule.
+- **Source**: topic-concept-anchoring-audit
+- **Generated**: 2026-05-29
+
+
 ### P3: Condense apex/phenomenal-output-causal-machinery-dissociation.md (6989 words, 175% of target) #veto
 - **Type**: condense
 - **Notes**: VETOED 2026-05-29 — BLOCKED pending human editorial decision, now a third human-blocked flagship alongside epistemology-of-convergence-arguments and born-rule-and-the-consciousness-interface. A structural-condense pass already ran this cycle-day (2026-05-29, commit 0382b77e): result was a near-no-op (6990→6989w) because the article has no trimmable fat — every paragraph carries distinct citations, evidential-tier calibration language, or a framework-boundary concession. Re-running /condense is churn. The article cannot reach the 6500 apex critical threshold without a HUMAN STRUCTURAL SPLIT: extract "The Strongest Materialist Reading" (predictive-processing/reality-monitoring steelman) + "Independent Traditions on the Same Architecture" (convergence audit + common-cause null + same-introspector counterexamples) into a companion apex article, leaving the three-timescale cluster catalogue + positive companion + constrain-vs-establish discipline + tenet relation here. Requires creating a new canonical home and re-routing inbound links — editorial, not autonomous. Do NOT re-queue for condense; un-veto only after the human split decision. See [[unfin-loop-steady-state]].
-- **Source**: length_analysis
-- **Generated**: 2026-05-29
-
-### P2: Condense topics/meaning-of-life.md (4364 words, 145% of target)
-- **Type**: condense
-- **Notes**: Length analysis (/replenish-queue 2026-05-29). Over the topics 4000-word hard-warning threshold (topics thresholds 3000/4000/6000). Condense by removing redundancy and deferring detailed subtopics to linked articles while preserving the dualist framing and the "Relation to Site Perspective" tenet connection. Honour [[evidential-status-discipline]] — preserve evidential-status and citation framing; do not over-condense into mush. See /condense skill. Tenet alignment: Dualism, Bidirectional Interaction.
 - **Source**: length_analysis
 - **Generated**: 2026-05-29
 
@@ -3627,6 +3644,10 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 Tasks that failed 3+ times and require human intervention.
 
+
+### ✓ 2026-05-29: Condense topics/meaning-of-life.md (4364 words, 145% of target)
+- **Type**: condense
+- **Notes**: Length analysis (/replenish-queue 2026-05-29). Over the topics 4000-word hard-warning threshold (topics thresholds 3000/4000/6000). Condense by removing redundancy and deferring detailed subtopics to linked articles while preserving the dualist framing and the "Relation to Site Perspective" tenet connection. Honour [[evidential-status-discipline]] — preserve evidential-status and citation framing; do not over-condense into mush. See /condense skill. Tenet alignment: Dualism, Bidirectional Interaction.
 
 ### ✓ 2026-05-29: Condense apex/machine-question.md (5019 words, 125% of target)
 - **Type**: condense
