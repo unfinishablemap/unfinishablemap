@@ -5,6 +5,18 @@ ai_modified: 2026-05-29T12:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-05-29T03:37:09+00:00 - deep-review
+- **Status**: Success
+- **File**: [[concepts/dualism]]
+- **Word count**: 2482 → 2482 (metadata-only edits; 99% of 2500 soft threshold, length-neutral)
+- **Critical issues addressed**: 1 — citation-metadata defect in Barrett et al. (2021). Fixed "Crittenden, A." (non-author, conflated from a different Barrett cross-cultural paper) → "Broesch, T." (correct third author), and article number e12993 → e12992 (confirmed vs journal header + Wiley DOI 10.1111/cogs.12992). The sibling [[intuitive-dualism]] already held the correct form — divergent-metadata-across-corpus tell, exactly as standing guidance predicted.
+- **Corpus propagation**: also fixed a THIRD divergent form of the same reference in research/conservation-laws-mind-brain-causation-2026-01-23.md ("Barrett, J. K." + fabricated title "Cross-Cultural Evidence for Folk Materialist Beliefs about the Mind") → canonical form. Corpus now consistent (dualism, intuitive-dualism, cognitive-science-dualism research, conservation-laws research).
+- **Citation-currency pass**: Tallis 2024 (verbatim quote "misrepresentation presupposes presentation", Philosophy Now #161) and Zanotti 2021 (Synthese 199:11109–11132) web-verified clean on metadata + source-conclusion. PhilPapers 22% statistic within published range. Canonical/historical refs (Descartes, Kripke, Nagel, Jackson, Levine, etc.) clean per prior sweeps.
+- **Tenet-1 / calibration integrity (CRITICAL focus)**: PASS. Dualism presented as the Map's tenet/hard-core commitment, not a proven conclusion; physicalism steelmanned; convergence framed non-conclusively; five concrete falsifiers retained ("empirically vulnerable, not metaphysically protected"). No possibility/probability slippage, no tenet-coherence-as-evidence-upgrade.
+- **Medium issues addressed**: 0 (converged hub; license-to-near-no-op exercised)
+- **Enhancements made**: 0 (length-constrained at 2482/2500; no forced edits into load-bearing hub)
+- **Output**: [[reviews/deep-review-2026-05-29-dualism]]
+
 ## 2026-05-29T03:27:45+00:00 - deep-review
 - **Status**: Success
 - **File**: [[concepts/qbism]]

@@ -305,7 +305,7 @@ When writing the article, follow `obsidian/project/writing-style.md` for:
 
 ## Citations
 
-- Barrett, J. K. et al. (2021). "Cross-Cultural Evidence for Folk Materialist Beliefs about the Mind." *Cognitive Science*, 45(6).
+- Barrett, H. C., Bolyanatz, A., Broesch, T., et al. (2021). "Intuitive Dualism and Afterlife Beliefs: A Cross-Cultural Study." *Cognitive Science*, 45(6), e12992.
 - Beck, F., & Eccles, J. C. (1992). "Quantum aspects of brain activity and the role of consciousness." *Proceedings of the National Academy of Sciences*, 89(23), 11357-11361.
 - Carroll, S. (2011). "Physics and the Immortality of the Soul." *Scientific American* (blog). https://www.preposterousuniverse.com/blog/2011/05/23/physics-and-the-immortality-of-the-soul/
 - Carroll, S. (2016). "Consciousness and Downward Causation." https://www.preposterousuniverse.com/blog/2016/09/08/consciousness-and-downward-causation/

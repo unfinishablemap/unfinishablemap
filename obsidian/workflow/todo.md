@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Deep review concepts/dualism.md (37 days since last review, ai_contribution=100, Tenet 1 load-bearing)
-- **Type**: deep-review
-- **Status**: pending
-- **Notes**: PROMOTED to P2 by /replenish-queue 2026-05-29 alongside the qbism deep-review above, to restore the actionable queue to the MIN_QUEUE floor of 3 (queue was at 2). Grounded tenet-load-bearing staleness deep-review, not speculative new-content work against the large P3 backlog. `concepts/dualism.md` ("Dualism", ~2638 words incl frontmatter, just over the 2500 concepts soft threshold but well under the 3500 hard) is among the stalest AI-heavy concept pages: `last_deep_review: 2026-04-22` (~37 days); `ai_contribution=100`; not currently the standalone focus of any pending task. This is the **Tenet 1 (Dualism)** keystone concept page — the navigational hub for the Map's core metaphysical commitment, so its definition, taxonomy (substance vs property vs the Map's interactionist/delegatory variant), and cross-links being current and coherent with the post-April dualism cluster matters disproportionately. Deep-review should: (a) verify the dualism taxonomy still coheres with the elaborated cluster (delegatory-dualism, interactionist-dualism, the thickness-grid/dualism-cartography material, the corridor/trumping fork) and cross-links to it; (b) honour [[evidential-status-discipline]] — keep the interaction-problem and causal-closure engagements at their proper register; (c) confirm cross-links resolve live (watch for [[interactionist-dualism]] / coalesced-archive duplicate ambiguity — link the live concept page, not an archive variant) and are reciprocated where load-bearing; (d) writing-style + length discipline (~2638 words, just over soft — note for a possible condense follow-on only if a refine pass pushes it toward hard; no "This is not X. It is Y." cliché). Apply in-place fixes if minor; generate a follow-on refine-draft task if substantive. Tenet alignment: Tenet 1 (Dualism — the foundational concept), with secondary routing through Tenet 3 (Bidirectional Interaction) via the interactionist variant.
-- **Source**: staleness
-- **Generated**: 2026-05-29
-
 ### P3: Add reciprocal cross-link from phenomenology-of-intellectual-life to phenomenology-of-intellectual-courage
 - **Type**: integrate-orphan
 - **Status**: pending
@@ -3562,6 +3555,10 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 Tasks that failed 3+ times and require human intervention.
 
+
+### ✓ 2026-05-29: Deep review concepts/dualism.md (37 days since last review, ai_contribution=100, Tenet 1 load-bearing)
+- **Type**: deep-review
+- **Notes**: PROMOTED to P2 by /replenish-queue 2026-05-29 alongside the qbism deep-review above, to restore the actionable queue to the MIN_QUEUE floor of 3 (queue was at 2). Grounded tenet-load-bearing staleness deep-review, not speculative new-content work against the large P3 backlog. `concepts/dualism.md` ("Dualism", ~2638 words incl frontmatter, just over the 2500 concepts soft threshold but well under the 3500 hard) is among the stalest AI-heavy concept pages: `last_deep_review: 2026-04-22` (~37 days); `ai_contribution=100`; not currently the standalone focus of any pending task. This is the **Tenet 1 (Dualism)** keystone concept page — the navigational hub for the Map's core metaphysical commitment, so its definition, taxonomy (substance vs property vs the Map's interactionist/delegatory variant), and cross-links being current and coherent with the post-April dualism cluster matters disproportionately. Deep-review should: (a) verify the dualism taxonomy still coheres with the elaborated cluster (delegatory-dualism, interactionist-dualism, the thickness-grid/dualism-cartography material, the corridor/trumping fork) and cross-links to it; (b) honour [[evidential-status-discipline]] — keep the interaction-problem and causal-closure engagements at their proper register; (c) confirm cross-links resolve live (watch for [[interactionist-dualism]] / coalesced-archive duplicate ambiguity — link the live concept page, not an archive variant) and are reciprocated where load-bearing; (d) writing-style + length discipline (~2638 words, just over soft — note for a possible condense follow-on only if a refine pass pushes it toward hard; no "This is not X. It is Y." cliché). Apply in-place fixes if minor; generate a follow-on refine-draft task if substantive. Tenet alignment: Tenet 1 (Dualism — the foundational concept), with secondary routing through Tenet 3 (Bidirectional Interaction) via the interactionist variant.
 
 ### ✓ 2026-05-29: Deep review concepts/qbism.md (41 days since last review, ai_contribution=100, Tenet 2 load-bearing)
 - **Type**: deep-review
