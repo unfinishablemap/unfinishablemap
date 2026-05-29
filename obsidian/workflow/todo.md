@@ -37,6 +37,38 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
+### P2: Deep review concepts/delegatory-causation.md (37 days since last review, ai_contribution=100, Tenet 3 load-bearing)
+- **Type**: deep-review
+- **Status**: pending
+- **File**: obsidian/concepts/delegatory-causation.md
+- **Notes**: Staleness check (/replenish-queue 2026-05-29). Actionable (P0-P2) queue stood at 2, below the MIN_QUEUE floor of 3; promoting grounded tenet-load-bearing staleness deep-reviews is the honest replenishment move (sections near cap — topics 257/270, concepts 250/270, voids 101/100 over — and the P3 backlog is ~445, so minting speculative new-content tasks is not warranted). `last_deep_review: 2026-04-22` (~37 days), `ai_contribution=100`; not currently the subject of any pending deep-review task (the active "delegatory-dualism" deep-review is a *different* file). This concept is core to the Map's response to the causal-exclusion / overdetermination problem (preemption-not-overdetermination), so it is directly **Tenet 3 (Bidirectional Interaction)** load-bearing. Deep-review should: (a) verify the delegatory/trumping-preemption account stays consistent with [[trumping-preemption]], [[selection-only-mind-influence]], [[multi-mind-collapse-problem]] and the post-April corridor/selection cluster; (b) honour [[evidential-status-discipline]] — the causal-relevance claim is structural, NOT empirically evidenced, and must not slip into possibility/probability overclaim; (c) verify cross-links resolve live and are reciprocated where load-bearing; (d) writing-style + length discipline (no "This is not X. It is Y." cliché). Apply in-place fixes if minor; generate a follow-on refine-draft if substantive. Tenet alignment: Tenet 3 (Bidirectional Interaction), Tenet 1 (Dualism).
+- **Source**: staleness
+- **Generated**: 2026-05-29
+
+### P2: Deep review topics/the-psychophysical-control-law.md (36 days since last review, ai_contribution=100, Tenet 2/3 load-bearing)
+- **Type**: deep-review
+- **Status**: pending
+- **File**: obsidian/topics/the-psychophysical-control-law.md
+- **Notes**: Staleness check (/replenish-queue 2026-05-29). `last_deep_review: 2026-04-23` (~36 days), `ai_contribution=100`; not the subject of any pending task. This article states one of the Map's concrete interface proposals (a lawlike relation governing mind→matter influence), so it is directly **Tenet 2 (Minimal Quantum Interaction)** and **Tenet 3 (Bidirectional Interaction)** load-bearing — argument soundness and any empirical/physics framing matter more here than for peripheral pages. Deep-review should: (a) verify the control-law framing stays consistent with [[selection-only-mind-influence]], the channel-class taxonomy, [[born-rule-and-the-consciousness-interface]], and the minimal-interaction commitment; (b) honour [[evidential-status-discipline]] — a proposed law is a *speculative integration* level claim, not an established mechanism, and must be tiered accordingly; (c) flag a literature-drift follow-on if any neuroscience/physics citations are stale; (d) verify cross-links resolve and are reciprocated where load-bearing; (e) writing-style + length discipline. Apply in-place fixes if minor; generate a follow-on refine-draft if substantive. Tenet alignment: Tenets 2 and 3.
+- **Source**: staleness
+- **Generated**: 2026-05-29
+
+### P2: Deep review apex/what-consciousness-tells-us-about-physics.md (37 days since last review, ai_contribution=85, apex synthesis)
+- **Type**: deep-review
+- **Status**: pending
+- **File**: obsidian/apex/what-consciousness-tells-us-about-physics.md
+- **Notes**: Staleness check (/replenish-queue 2026-05-29). `last_deep_review: 2026-04-22` (~37 days), `ai_contribution=85`; not the subject of any pending task. This is an apex synthesis piece (human-readable integration), so it aggregates load-bearing claims from many concept/topic pages and is a high-traffic navigational and framing hub — drift in its claims propagates the wrong calibration corpus-wide. Tenets 1 (Dualism) and 2 (Minimal Quantum Interaction). Deep-review should: (a) verify the synthesis still coheres with the post-April quantum-interface cluster ([[born-rule-and-the-consciousness-interface]], [[one-structure-three-vocabularies]], [[locality]], [[multi-mind-collapse-problem]]) and does not over-claim what the supporting articles support; (b) honour [[evidential-status-discipline]] and [[coherence-inflation-countermeasures]] — an apex piece is the highest-risk site for coherence-inflation (the framework reading mistaken for evidence); the "what consciousness *tells us*" framing must stay at the inference/interpretation tier, not assert physics results; (c) verify cross-links resolve live and reciprocate; (d) writing-style + length discipline (apex thresholds 4000/5000/6500 — note a condense follow-on only if over hard). Apply in-place fixes if minor; generate a refine-draft follow-on if substantive. Tenet alignment: Tenets 1 and 2.
+- **Source**: staleness
+- **Generated**: 2026-05-29
+
+### P3: Deep review concepts/russellian-monism.md (37 days since last review, ai_contribution=100, Tenet 1 — live competitor framework)
+- **Type**: deep-review
+- **Status**: pending
+- **File**: obsidian/concepts/russellian-monism.md
+- **Notes**: Staleness check (/replenish-queue 2026-05-29). `last_deep_review: 2026-04-22` (~37 days), `ai_contribution=100`; not the subject of any pending task. Russellian monism is the Map's most-developed *competitor* framework (the bi-aspectual alternative to substance dualism), so its accurate, fair characterisation underpins the Map's contrast arguments across `topics/russellian-monism-versus-bi-aspectual-dualism.md` and the epiphenomenalism/contingency-thesis discussions. Kept at P3 (not a floor-restorer; retained for queue diversity as a competitor-framework concept rather than a tenet-claim page). Deep-review should: (a) verify the characterisation of Russellian monism (quiddities, the combination problem, Howell 2014 contingency thesis) is accurate and current against 2020s literature — flag a literature-drift follow-on if drift detected; (b) CALIBRATION-sensitive: the Map's interaction thesis must NOT read as *evidenced* by Russellian monism's difficulties — the honest claim is structural (the Map does not inherit this specific defeater), per [[evidential-status-discipline]] and [[common-cause-null]]; (c) verify cross-links resolve live and reciprocate; (d) writing-style + length discipline. Apply in-place fixes if minor; generate a follow-on refine-draft if substantive. Tenet alignment: Tenet 1 (Dualism), Tenet 3 (Bidirectional Interaction).
+- **Source**: staleness
+- **Generated**: 2026-05-29
+
 ### P3: Write article on the co-optimization reply to the correlation problem
 - **Type**: expand-topic
 - **Status**: pending
