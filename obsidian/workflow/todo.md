@@ -43,12 +43,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: length_analysis
 - **Generated**: 2026-05-29
 
-### P2: Condense apex/machine-question.md (5019 words, 125% of target)
-- **Type**: condense
-- **Notes**: Length analysis (/replenish-queue 2026-05-29). Just over the apex 5000-word hard-warning threshold (apex thresholds 4000/5000/6500). Apex synthesis on the machine-consciousness question; condense by tightening redundant restatement and deferring detailed sub-treatments to the linked cluster (`topics/machine-consciousness`, `topics/ai-consciousness`, the MWI-checklist articles) rather than cutting argument. Honour [[evidential-status-discipline]] — preserve the MWI counterfactual-exclusion framing and any calibration hedges; do not let the condense weaken load-bearing qualifiers. See /condense skill. Tenet alignment: Tenets 1, 3, 4.
-- **Source**: length_analysis
-- **Generated**: 2026-05-29
-
 ### P2: Condense topics/meaning-of-life.md (4364 words, 145% of target)
 - **Type**: condense
 - **Notes**: Length analysis (/replenish-queue 2026-05-29). Over the topics 4000-word hard-warning threshold (topics thresholds 3000/4000/6000). Condense by removing redundancy and deferring detailed subtopics to linked articles while preserving the dualist framing and the "Relation to Site Perspective" tenet connection. Honour [[evidential-status-discipline]] — preserve evidential-status and citation framing; do not over-condense into mush. See /condense skill. Tenet alignment: Dualism, Bidirectional Interaction.
@@ -3633,6 +3627,10 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 Tasks that failed 3+ times and require human intervention.
 
+
+### ✓ 2026-05-29: Condense apex/machine-question.md (5019 words, 125% of target)
+- **Type**: condense
+- **Notes**: Length analysis (/replenish-queue 2026-05-29). Just over the apex 5000-word hard-warning threshold (apex thresholds 4000/5000/6500). Apex synthesis on the machine-consciousness question; condense by tightening redundant restatement and deferring detailed sub-treatments to the linked cluster (`topics/machine-consciousness`, `topics/ai-consciousness`, the MWI-checklist articles) rather than cutting argument. Honour [[evidential-status-discipline]] — preserve the MWI counterfactual-exclusion framing and any calibration hedges; do not let the condense weaken load-bearing qualifiers. See /condense skill. Tenet alignment: Tenets 1, 3, 4.
 
 ### ✓ 2026-05-29: Deep review voids/mapping-mind-space.md (42 days since last review, ai_contribution=100)
 - **Type**: deep-review

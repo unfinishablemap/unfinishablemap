@@ -5,6 +5,15 @@ ai_modified: 2026-05-29T12:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-05-29T15:00:00+00:00 - condense
+- **Status**: Success
+- **File**: [[apex/machine-question]]
+- **Before**: 5019 words (hard_warning, 125% of 4000 target; over the apex 5000 hard threshold)
+- **After**: 4969 words (soft_warning; back under the 5000 hard threshold)
+- **Reduction**: 1.0% (50 words)
+- **Technique**: Tightened redundant restatement; deferred detailed Duch-articon sub-treatments (anti-quantum critique, identity-theoretic reply) to their canonical homes via consolidated wikilinks to the [[research/wlodzislaw-duch-consciousness-2026-05-02|research dossier]], [[the-strong-emergence-of-consciousness]], and [[open-question-ai-consciousness]] (all defer-targets web-checked LIVE before relying on them). Compressed the rival-reading section's prose and the indicator-convergence paragraph without cutting any argument.
+- **Preserved verbatim**: MWI/quantum counterfactual-exclusion framing ("no superposition... nothing for consciousness to collapse"); all evidential-tier qualifiers (constrain-vs-establish, compatibility-vs-support, necessary-but-not-sufficient interface conditions, metaphysical-vs-epistemic readings, "discriminators rather than settled refutations", common-cause-null caution); the full "Relation to Site Perspective" tenet section; all opponent-engagement / framework-boundary concessions. No possibility/probability or strong/weak slippage introduced; no citation metadata touched; no "This is not X. It is Y." cliché introduced.
+
 ## 2026-05-29T14:00:00+00:00 - deep-review
 - **Status**: Success
 - **File**: [[voids/mapping-mind-space]]
