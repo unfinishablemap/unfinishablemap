@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-23
-ai_modified: 2026-05-19 11:04:33+00:00
+ai_modified: 2026-05-29 00:00:00+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -46,7 +46,7 @@ description: 'Dreams provide the most accessible everyday evidence for the filte
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-04-23 17:50:00+00:00
+last_deep_review: 2026-05-29 00:00:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -126,13 +126,13 @@ Lucid dreamers report varying degrees of dream control—flying, transforming ob
 
 ## Problem-Solving: Dreams That Outperform Waking
 
-Dreams may solve problems that resist waking cognition. The Konkoly et al. 2026 study offers early causal evidence: when researchers played puzzle-associated soundtracks during REM sleep for 20 participants with lucid dreaming experience, dreamers who incorporated those puzzles into their dreams solved them at more than double the rate of non-incorporated puzzles (42% versus 17%). Dreamers generated novel approaches to brain-teasers they had failed while awake.
+Dreams may solve problems that resist waking cognition. The Konkoly et al. 2026 study offers early causal evidence: when researchers played puzzle-associated soundtracks during REM sleep for 20 participants with lucid dreaming experience, dreamers who incorporated those puzzles into their dreams solved them at more than double the rate of non-incorporated puzzles (39% versus 16%). Dreamers generated novel approaches to brain-teasers they had failed while awake.
 
-**Important caveats.** This is a small study (N=20) using participants selected for lucid dreaming experience—not a representative sample. The 42% versus 17% difference, while striking, lacks published confidence intervals and could reflect high variance at this sample size. The study has not yet been independently replicated.
+**Important caveats.** This is a small study (N=20, 9 of 23 incorporated puzzles solved) using participants selected for lucid dreaming experience—not a representative sample. The difference, while striking, lacks published confidence intervals and could reflect high variance at this sample size, and has not yet been independently replicated.
 
 ### Convergent Evidence
 
-The Konkoly study builds on convergent findings: MIT's Dormio device (Haar Horowitz et al. 2023) showed targeted dream incubation increased creative performance by 43%; Lacaux et al. (2021) found 15 seconds in N1 sleep tripled mathematical insight rates (83% versus 30%); Cai et al. (2009) demonstrated REM specifically enhanced creative problem-solving by priming associative networks.
+The Konkoly study builds on convergent findings: MIT's Dormio device (Haar Horowitz et al. 2023) showed targeted dream incubation at sleep onset significantly increased subsequent creative performance across three tasks relative to control conditions; Lacaux et al. (2021) found 15 seconds in N1 sleep tripled mathematical insight rates (83% versus 30%); Cai et al. (2009) demonstrated REM specifically enhanced creative problem-solving by priming associative networks.
 
 ### Why Dreams Might Solve What Waking Cannot
 
@@ -150,7 +150,7 @@ The problem-solving evidence reveals a graded relationship between phenomenal mo
 |------|---------------------|-------------------|
 | NREM dreamless sleep | Minimal or absent | Consolidation but no creative benefit (Cai et al. 2009) |
 | Non-lucid REM | Vivid, associative | Creative enhancement via associative priming |
-| Content-incorporating dreams | Problem appears in experience | More than double solving rate (42% vs 17%, Konkoly 2026) |
+| Content-incorporating dreams | Problem appears in experience | More than double solving rate (39% vs 16%, Konkoly 2026) |
 | Hypnagogic N1 | Loosely directed, maximally creative | Tripled mathematical insight (Lacaux et al. 2021) |
 | Lucid REM | Metacognitive, partially controlled | Deliberate information processing, two-way communication |
 
@@ -170,7 +170,7 @@ The [zombie](/concepts/philosophical-zombies/) dreamer sharpens the point: a zom
 
 A committed epiphenomenalist could argue that dream problem-solving is entirely neural—the dream is merely the phenomenal shadow of processing that contributes nothing. The phenomenal mode tracking pattern creates three difficulties, though none is individually decisive.
 
-**The specificity problem.** If dreams are epiphenomenal, dream *content* should be irrelevant to outcomes. Konkoly found puzzle-incorporation into dream content predicted solving success (42% versus 17%). The epiphenomenalist can respond that the neural processes generating dream content and solving problems are the *same* processes. But this requires explaining why neural computation that produces dream imagery about a puzzle is more than twice as effective as computation that does not, while insisting the representations contribute nothing.
+**The specificity problem.** If dreams are epiphenomenal, dream *content* should be irrelevant to outcomes. Konkoly found puzzle-incorporation into dream content predicted solving success (39% versus 16%). The epiphenomenalist can respond that the neural processes generating dream content and solving problems are the *same* processes. But this requires explaining why neural computation that produces dream imagery about a puzzle is more than twice as effective as computation that does not, while insisting the representations contribute nothing.
 
 **The mode problem.** Both REM and NREM involve substantial brain activity, including hippocampal-cortical replay. If unconscious consolidation sufficed for creative problem-solving, NREM should match REM. Instead, the sleep stage defined by vivid experience specifically enhances creative outcomes (Cai et al. 2009). The epiphenomenalist must explain why architecture that produces vivid experience also produces creative benefits, while insisting the experience contributes nothing.
 
@@ -241,7 +241,6 @@ The Map's interpretation of dream consciousness would face difficulty if:
 1. Demirel, Ç. et al. (2025). Electrophysiological Correlates of Lucid Dreaming: Sensor and Source Level Signatures. *Journal of Neuroscience*, 45(20).
 1. Haar Horowitz, A., Esfahany, K., Gálvez, T., Maes, P., & Stickgold, R. (2023). Targeted dream incubation at sleep onset increases post-sleep creative performance. *Scientific Reports*, 13, 7319.
 1. Hobson, J.A. (2009). REM sleep and dreaming: towards a theory of protoconsciousness. *Nature Reviews Neuroscience*, 10(11), 803-813.
-1. Hohwy, J., & Metzinger, T. (2025). Predictive processing and dream consciousness. *Consciousness and Cognition*, 99, 103305.
 1. Konkoly, K. R., Appel, K., Chabani, E., et al. (2021). Real-time dialogue between experimenters and dreamers during REM sleep. *Current Biology*, 31(7), 1417-1427.
 1. Konkoly, K. R., et al. (2026). Creative problem-solving after experimentally provoking dreams of unsolved puzzles during REM sleep. *Neuroscience of Consciousness*, 2026(1), niaf067.
 1. Malcolm, N. (1956). Dreaming and skepticism. *Philosophical Review*, 65(1), 14–37.
@@ -249,4 +248,3 @@ The Map's interpretation of dream consciousness would face difficulty if:
 1. Sebastián, M. A. (2014). Dreams: An empirical way to settle the discussion between cognitive and non-cognitive theories of consciousness. *Synthese*, 191(2), 263–285.
 1. Lacaux, C., Andrillon, T., Bastoul, C., et al. (2021). Sleep onset is a creative sweet spot. *Science Advances*, 7(50), eabj5866.
 1. Voss, U., Holzmann, R., Hobson, A., et al. (2014). Induction of self awareness in dreams through frontal low current stimulation of gamma activity. *Nature Neuroscience*, 17(6), 810–812.
-1. Budson, A.E. & Paller, K.A. (2025). Memory, Sleep, Dreams, and Consciousness. *Nature and Science of Sleep*, 17, 1957-1972.

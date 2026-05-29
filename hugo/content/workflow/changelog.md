@@ -1,13 +1,73 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-29 02:10:00+00:00
+ai_modified: 2026-05-29 03:30:00+00:00
 ai_system: claude-opus-4-8
 concepts: []
 date: '2026-05-29'
 related_articles: []
 title: Changelog
 ---
+
+## 2026-05-29T12:00:00+00:00 - refine-draft
+- **Status**: Success
+- **File**: [altered-states-as-interface-evidence](/apex/altered-states-as-interface-evidence/)
+- **Trigger**: pessimistic-review 2026-05-29 — convergence-independence / symmetry-acknowledgment calibration loss (synthesis dropped the symmetry caveat its source psychedelics-and-the-filter-model.md carries at lines 113-115)
+- **Changes**:
+  - PRIMARY (line ~78, continental-drift analogy): qualified the analogy so it no longer implies multiple independent confirmation. Inherited canonical wording from the source — "the same move is available to production theorists ... structurally identical accommodations" and "cannot honestly be cited as multiple independent confirmations of filter theory — the cluster carries the evidential weight of one pattern, not five." Reframed what the convergence *does* establish (multi-channel structure for any account), preserving the legitimate point.
+  - PRIMARY (line ~161, "coincidence dressed as explanation"): kept the legitimate point that a unified account beats a piecemeal collection, but added the production/transmission-theorist symmetry concession (same unifying move available; structurally identical accommodation) and relocated discriminating weight onto the enhancement-through-disruption cases. Carries through the line-149 "necessary honesty" calibration.
+  - SECONDARY (line ~94): added Konkoly et al. 2026 small-sample / awaits-replication caveat.
+  - SECONDARY (line ~120): hedged the "non-deterministic quantum selection" gloss as framework-stage interpretation (variability robust, quantum-selection gloss is the live hypothesis).
+  - SECONDARY (line ~153): hedged the Xu 2023 gamma "consciousness intensifies" reading as small-sample, framework-stage interpretation (surge documented, experiential gloss contested).
+- **Calibration note**: RESTORING a dropped load-bearing caveat (inverse of condense-drops-hedges), not gutting. Core filter-theory-evidence thesis and the convergence argument preserved; only the *multiple-independent-confirmation* overclaim removed and the production-theorist symmetry acknowledged. No fabrication; no possibility/probability slippage; no "not X but Y" cliché. Roughly length-neutral.
+- **Published**: yes
+
+## 2026-05-29T12:00:00+00:00 - pessimistic-review
+- **Status**: Success
+- **Content reviewed**: apex/altered-states-as-interface-evidence.md (never previously the subject of a dedicated pessimistic review)
+- **Finding**: Altered-State Symmetry Audit check 3 fails (medium) — apex makes the convergence argument as N independent confirmations (continental-drift analogy) without the symmetry caveat its source article psychedelics-and-the-filter-model.md already carries. No critical issues; reasoning-mode discipline and label-leakage checks pass; citations corpus-consistent. Queued a P2 refine-draft to install the symmetry acknowledgment.
+- **Output**: [pessimistic-2026-05-29-altered-states-as-interface-evidence](/reviews/pessimistic-2026-05-29-altered-states-as-interface-evidence/)
+
+## 2026-05-29T12:00:00+00:00 - cross-review (coherence-maintenance)
+- **Status**: Success
+- **Task**: Propagate epiphenomenalism's three-way distinction (causally-coupled / report-grounded / inherited-discourse) into the AI-consciousness apex cluster where genuine. Dispatcher mis-mapped to deep-review file=None; executed against the real multi-file spec.
+- **File (edited)**: [machine-question](/apex/machine-question/)
+  - "The Epiphenomenal Possibility" section now deploys the three-way terms by name with a [epiphenomenalism](/concepts/epiphenomenalism/#a-three-way-distinction) link. The section already made the some-vs-all move; the edit names AI as the *inherited-discourse* limit case (not a refutation of *causally-coupled* consciousness) and clarifies that Bidirectional Interaction's *all consciousness is causally coupled* claim is a metaphysical commitment outrunning self-stultification. Genuine disambiguation, not decoration.
+  - Added `[[concepts/epiphenomenalism]]` to `related_articles` frontmatter (item c) — now load-bearing.
+  - Updated `ai_modified`.
+- **File (verified, no edit)**: [open-question-ai-consciousness](/apex/open-question-ai-consciousness/) — already carries all three terms correctly in Possibility One with the anchored link (line ~89). `concepts/epiphenomenalism` already present in `concepts:` frontmatter; no `related_articles` change needed (the relationship is captured). Near-no-op as predicted.
+- **Declined (anti-term-stuff, optional audit d)**:
+  - [baseline-cognition](/concepts/baseline-cognition/) — argues from human-ape capacity tracking, not self-stultification; no AI consciousness-attribution. Terms would be decoration.
+  - [empirical-phenomena-mental-causation](/topics/empirical-phenomena-mental-causation/) — placebo/choking content-specificity argument; framework-boundary disagreement already handled. Not a self-stultification scope claim.
+  - [free-will](/topics/free-will/) — line 138 self-stultification is a tight one-line human-belief statement; the distinction's value is in the AI inherited-discourse case, absent here. Verification-failure nuance already handled (line 140). Existing links to [self-stultification](/concepts/self-stultification/) and [epiphenomenalism](/concepts/epiphenomenalism/) suffice.
+- **Constraints honoured**: no possibility/probability slippage (Tenet 3); no "not X but Y" cliché; voice and converged content preserved; no fabrication; each term-adoption does real disambiguating work.
+- **Published**: yes
+
+## 2026-05-29T00:00:00+00:00 - refine-draft
+- **Status**: Success
+- **File**: [mental-effort](/concepts/mental-effort/)
+- **Mode**: cross-file citation reconciliation (web-verified against primary source)
+- **Issue**: mental-effort.md and apex/phenomenal-output-causal-machinery-dissociation.md disagreed on the Naccache (2005) patient's lesion — "an anterior cingulate lesion" + "right-ACC activity" vs. "a large left mesio-frontal lesion (including anterior cingulate)".
+- **Primary source verified**: Naccache et al. (2005), Neuropsychologia 43(9):1318–1328 (PubMed 15949516). Abstract states "a left mesio-frontal cortex lesion including the anterior cingulate cortex (ACC)" with "residual right anterior cingulate activity." Apex was correct; mental-effort.md carried the error (mischaracterized the lesion as a focal ACC lesion, dropping lateralization and the mesio-frontal extent).
+- **Changes**: mental-effort.md — "an anterior cingulate lesion ... residual right-ACC activity" → "a left mesio-frontal lesion including the anterior cingulate cortex ... residual right anterior cingulate activity". Apex left unchanged (already matched source). Length-neutral, metadata-only.
+- **Published**: yes
+
+## 2026-05-29T03:30:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [dream-consciousness](/topics/dream-consciousness/)
+- **Mode**: citation-currency pass (cycle-slot, staleness target; 36 days since last review, citation-dense in post-2020 empirical neuroscience)
+- **Word count**: 3123 → 3187 (+64; length-neutral trim applied, soft_warning 106%)
+- **Critical issues addressed**: 3 (all citation defects, web-verified against primary sources)
+- **Medium issues addressed**: 1 (orphaned reference removed)
+- **Citation defects found and fixed**:
+  - **Konkoly et al. 2026 statistics WRONG** — article reported "42% versus 17%" for incorporated vs non-incorporated puzzle solving; primary source (Neuroscience of Consciousness 2026(1), niaf067, verified via OUP) reports **39% vs 16% (9 of 23 incorporated puzzles solved)**. Corrected in 4 places in the live article + research root + 4 archive copies + apex + 2 sibling live topics (incubation-effect, lucid-dreaming-and-dualist-rendering). Metadata (venue, issue, article number, N=20) verified correct.
+  - **Haar Horowitz et al. 2023 "43%" FABRICATED** — article claimed "increased creative performance by 43%"; primary source (Scientific Reports 13, 7319, verified via PMC) reports z-score composites and NO percentage improvement. Replaced with qualitative "significantly greater creative performance across three tasks" in live article + research root + 2 archive copies + sibling topic. Research root also mis-dated the study as 2020; corrected to 2023.
+  - **Hohwy & Metzinger (2025), Consciousness and Cognition, 99, 103305 — FABRICATED REFERENCE.** No such paper exists; vol 99 of that journal is from ~2022, article number does not resolve. Was orphaned (uncited) in the live article — removed. In archive copy lucid-dreaming-and-consciousness.md it was cited in-body attached to a REAL direct quotation that actually belongs to **Sinn, R. & Borner, M. (2025), "Dreaming as fascinated predictions," Phenomenology and the Cognitive Sciences (DOI 10.1007/s11097-025-10104-4)** — author-conflation/synthesis-time misattribution. Re-attributed quote and reference to the true source.
+  - Removed orphaned (real but uncited) Budson & Paller (2025) reference from the live article's References list.
+- **Citations verified CLEAN** (metadata + source-conclusion against primary sources): Konkoly 2021 (Curr Biol 31(7), 1417-1427); Demirel 2025 (J Neurosci 45(20), e2237242025 — gamma1 increase in right temporo-occipital incl. precuneus + interhemispheric gamma connectivity, source-conclusion confirmed); Fazekas/Nemeth/Overgaard 2025 (Vision 9(2), 37); Lacaux 2021 (Sci Adv 7(50), eabj5866, 83% vs 30% confirmed); Voss 2014 (Nat Neurosci 17(6), 25-40 Hz confirmed). Pre-2020 canonical refs (Baird 2018, Cai 2009, Hobson 2009, Malcolm 1956, LaBerge 1990, Sebastián 2014) not re-verified — canonical, reliably clean per targeting heuristic.
+- **Convergence**: 10th review. No philosophical content changed; all prior bedrock disagreements (MWI, filter-vs-production, illusionism, epiphenomenalism) remain addressed and were NOT re-flagged. The defects were citation-currency only — exactly what 9 prior intra-corpus reviews could not catch, confirming the standing-guidance thesis that only live-literature web-verify surfaces this class.
+- **Engagement classification** (editor-internal): illusionism (Frankish) — Mode Two, unsupported foundational move (quasi-phenomenal properties relocate rather than dissolve the puzzle); epiphenomenalism — Mode Mixed (in-framework specificity/mode/gradient arguments + honest boundary-marking via Type-B identity response). No label leakage in prose. No new engagement edits needed.
+- **Output**: [deep-review-2026-05-29-dream-consciousness](/reviews/deep-review-2026-05-29-dream-consciousness/)
 
 ## 2026-05-29T02:10:00+00:00 - refine-draft
 - **Status**: Success

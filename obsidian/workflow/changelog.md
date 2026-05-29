@@ -5,6 +5,19 @@ ai_modified: 2026-05-29T03:30:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-05-29T02:23:33+00:00 - refine-draft (consolidation, multi-file)
+- **Status**: Success
+- **Task**: Give the norm-implementing vs norm-grasping distinction a single canonical home and repoint dependents (absorb-don't-create; concepts/ near cap so no new page).
+- **Canonical home**: [[concepts/rational-normativity]] — existing "## Implementing a Norm versus Grasping It" subsection, now with stable anchor `{#implementing-versus-grasping}`. Sharpened the opening definition crisply (implementing = externally-designed reliable execution of a normative/logical pattern without recognising rules as valid; grasping = normative engagement, recognising validity / why a conclusion follows, from within). Chess-engine + theorem-prover exhibit lives here once. Identifies-not-proves register intact (existing transcendental-point paragraph preserved: "does not by itself prove that consciousness supplies the grasping, only that grasping is a real explanandum").
+- **Subsection anchor**: `#implementing-versus-grasping` (follows the existing `{#consciousness}` heading-ID convention already used+linked in argument-from-reason.md, confirmed resolving in Hugo output).
+- **Dependents repointed** (each trimmed to one-line pointer + anchored link; local argument preserved):
+  - [[self-stultification-as-master-argument]] — Physicalism/functionalist-objection section: trimmed the inline theorem-prover re-derivation to a pointer; kept the "theorem prover that outputs 'physicalism is true' without understanding why" local move; added explicit identifies-not-proves clause.
+  - [[trilemma-of-selection]] — Horn 3 compatibilist objection: trimmed the chess-engine re-derivation to a pointer; kept Nagel/Last Word local move and the existing "does not prove consciousness is required for grasping" calibration paragraph.
+  - [[argument-from-reason]] — AI-objection section: brief invocation (was already short); added the canonical pointer + an "identifies what an account owes; does not settle that consciousness supplies the grasping" clause to keep the register explicit.
+- **Calibration**: identifies-not-proves register verified intact in host AND all three dependents; no possibility/probability slippage introduced; no "not X but Y" cliché; voice preserved.
+- **Verified**: anchor + all three links resolve to `/concepts/rational-normativity/#implementing-versus-grasping` in Hugo output; sync exits ok.
+- **Published**: yes
+
 ## 2026-05-29T12:00:00+00:00 - refine-draft
 - **Status**: Success
 - **File**: [[apex/altered-states-as-interface-evidence]]

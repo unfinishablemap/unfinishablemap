@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-14
-ai_modified: 2026-05-28 23:50:08+00:00
+ai_modified: 2026-05-29 00:00:00+00:00
 ai_system: claude-opus-4-7
 author: null
 concepts:
@@ -79,7 +79,7 @@ Three converging lines of empirical research complicate the simple "felt effort 
 
 ### Calibration
 
-Naccache and colleagues (2005) report a patient with an anterior cingulate lesion who performed Stroop conflict trials with normal executive control and residual right-ACC activity, yet reported no conscious feeling of mental effort and showed none of the skin-conductance coupling controls exhibited as effort rose with conflict. Felt effort and the executive operation it putatively reports on are dissociable: one can be subtracted without subtracting the other.
+Naccache and colleagues (2005) report a patient with a left mesio-frontal lesion including the anterior cingulate cortex who performed Stroop conflict trials with normal executive control and residual right anterior cingulate activity, yet reported no conscious feeling of mental effort and showed none of the skin-conductance coupling controls exhibited as effort rose with conflict. Felt effort and the executive operation it putatively reports on are dissociable: one can be subtracted without subtracting the other.
 
 ### Depletion
 

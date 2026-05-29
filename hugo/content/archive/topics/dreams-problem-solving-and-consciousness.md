@@ -40,9 +40,9 @@ topics:
 - '[[topics/free-will]]'
 ---
 
-Dreams may solve problems that resist waking cognition. The Konkoly et al. 2026 study offers early causal evidence: when researchers played puzzle-associated soundtracks during REM sleep for 20 participants with lucid dreaming experience, dreamers who incorporated those puzzles into their dreams solved them at more than double the rate of non-incorporated puzzles (42% versus 17%). Dreamers generated novel approaches to brain-teasers they had failed while awake. This is a small, initial study that awaits replication, but it converges with a growing body of experimental work on dream incubation and creativity. For The Unfinishable Map, the question is whether consciousness during sleep is doing real cognitive work or merely decorating unconscious processes with irrelevant phenomenology. If dreaming consciousness contributes to problem-solving—producing solutions unavailable to the waking mind—this bears directly on whether consciousness is causally efficacious.
+Dreams may solve problems that resist waking cognition. The Konkoly et al. 2026 study offers early causal evidence: when researchers played puzzle-associated soundtracks during REM sleep for 20 participants with lucid dreaming experience, dreamers who incorporated those puzzles into their dreams solved them at more than double the rate of non-incorporated puzzles (39% versus 16%). Dreamers generated novel approaches to brain-teasers they had failed while awake. This is a small, initial study that awaits replication, but it converges with a growing body of experimental work on dream incubation and creativity. For The Unfinishable Map, the question is whether consciousness during sleep is doing real cognitive work or merely decorating unconscious processes with irrelevant phenomenology. If dreaming consciousness contributes to problem-solving—producing solutions unavailable to the waking mind—this bears directly on whether consciousness is causally efficacious.
 
-The broader picture supports this direction. Targeted dream incubation at sleep onset increases creativity by 43% (Haar Horowitz et al. 2023), while separate work shows that spending just 15 seconds in the lightest sleep stage triples the chance of mathematical insight (Lacaux et al. 2021). Two-way communication with lucid dreamers demonstrates real-time conscious processing during REM (Konkoly et al. 2021). These converging lines of evidence suggest that dream consciousness is functionally active, supporting the [Bidirectional Interaction](/tenets/#bidirectional-interaction) tenet: consciousness causally contributes to cognitive outcomes.
+The broader picture supports this direction. Targeted dream incubation at sleep onset significantly increases post-sleep creative performance (Haar Horowitz et al. 2023), while separate work shows that spending just 15 seconds in the lightest sleep stage triples the chance of mathematical insight (Lacaux et al. 2021). Two-way communication with lucid dreamers demonstrates real-time conscious processing during REM (Konkoly et al. 2021). These converging lines of evidence suggest that dream consciousness is functionally active, supporting the [Bidirectional Interaction](/tenets/#bidirectional-interaction) tenet: consciousness causally contributes to cognitive outcomes.
 
 ## The Konkoly 2026 Study
 
@@ -51,11 +51,11 @@ Konkoly et al. (2026) tested whether dreams could be experimentally directed tow
 Twenty participants with lucid dreaming experience attempted brain-teaser puzzles, each paired with a unique soundtrack. During subsequent REM sleep, soundtracks for half the unsolved puzzles were replayed—a technique called targeted memory reactivation (TMR). The results:
 
 - 75% of participants had dreams incorporating puzzle fragments or related ideas
-- Puzzles incorporated into dreams were solved 42% of the time versus 17% for non-incorporated puzzles
+- Puzzles incorporated into dreams were solved 39% of the time versus 16% for non-incorporated puzzles (9 of 23 incorporated puzzles solved)
 - 12 of 20 participants showed increased solving ability for reactivated puzzles (from 20% to 40%)
 - Some participants signalled awareness during dreams using pre-arranged sniff patterns
 
-**Important caveats.** This is a small study (N=20) using participants selected for lucid dreaming experience—not a representative sample. The 42% versus 17% difference, while striking, lacks published confidence intervals and could reflect high variance at this sample size. The study has not yet been independently replicated. These results should be treated as a promising initial finding, not an established effect.
+**Important caveats.** This is a small study (N=20) using participants selected for lucid dreaming experience—not a representative sample. The 39% versus 16% difference, while striking, lacks published confidence intervals and could reflect high variance at this sample size. The study has not yet been independently replicated. These results should be treated as a promising initial finding, not an established effect.
 
 A notable detail: cues influenced non-lucid dreams significantly. Lucidity was not required for the problem-solving effect. The sleeping brain received external cues, wove them into dream narratives, and produced solutions—all without the dreamer achieving metacognitive awareness that they were dreaming.
 
@@ -63,7 +63,7 @@ If the effect holds up under replication, it would distinguish dream problem-sol
 
 ## Dream Incubation: A Convergent Picture
 
-The Konkoly study builds on a growing experimental tradition. MIT's Dormio device (Haar Horowitz et al. 2020) targets the hypnagogic state—the transition into sleep—playing personalised audio prompts during N1 sleep to guide dream content. A follow-up study (Haar Horowitz et al. 2023) measured the effect: participants who napped with targeted dream incubation performed 43% more creatively than those who napped without it.
+The Konkoly study builds on a growing experimental tradition. MIT's Dormio device targets the hypnagogic state—the transition into sleep—playing personalised audio prompts during N1 sleep to guide dream content. The published study (Haar Horowitz et al. 2023) measured the effect: participants who napped with targeted dream incubation performed significantly more creatively across three post-sleep tasks than those who napped without it (the study reports z-score composites rather than a percentage improvement).
 
 Independently, Lacaux et al. (2021) found that spending as little as 15 seconds in N1 sleep tripled the chance of discovering a hidden mathematical rule (83% versus 30% for subjects who stayed awake). The effect vanished if subjects reached deeper N2 sleep. Together, these findings suggest that the lightest sleep stage—where cognitive control is loosened but not abolished—is a distinctive creative window.
 

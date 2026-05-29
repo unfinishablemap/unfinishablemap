@@ -4,7 +4,7 @@ description: "Self-stultification defeats not just epiphenomenalism but every po
 created: 2026-02-23
 modified: 2026-03-05
 human_modified:
-ai_modified: 2026-05-27T13:36:21+00:00
+ai_modified: 2026-05-29T02:23:33+00:00
 last_deep_review: 2026-05-27T07:32:13+00:00
 draft: false
 topics:
@@ -90,7 +90,7 @@ This differs from the epiphenomenalism case. The epiphenomenalist grants conscio
 
 The functionalist has a ready response: physical systems *can* track normative relationships. A theorem prover implements logical rules; a calculator reliably produces correct sums; a CPU executes valid inferences. If these physical systems instantiate norms, why not brains? The self-stultification argument must answer this challenge rather than simply assert that physics cannot track norms.
 
-The answer turns on the distinction between *implementing* a norm and *grasping* it. A theorem prover follows syntactic rules that, from an external perspective, correspond to logical validity—but it does not recognise the rules *as* valid, understand *why* the conclusion follows, or revise its inference patterns in response to a new logical principle. Its reliability is designed in from outside, not understood from within. The physicalist who argues for physicalism claims to *grasp* the justificatory relationship between evidence and theory. If this grasping reduces to syntactic processing, then their confidence that they hold the position for good reasons is illusory—they are, at best, a theorem prover that happens to output "physicalism is true" without understanding why.
+The answer turns on the distinction between [[rational-normativity#implementing-versus-grasping|implementing a norm and grasping it]]: a theorem prover reliably executes syntactic rules designed in from outside without recognising them *as* valid, whereas grasping a norm is normative engagement from within. The physicalist who argues for physicalism claims to *grasp* the justificatory relationship between evidence and theory. If this grasping reduces to syntactic processing, then their confidence that they hold the position for good reasons is illusory—they are, at best, a theorem prover that happens to output "physicalism is true" without understanding why. The distinction identifies what the physicalist must account for; it does not by itself prove consciousness supplies the grasping.
 
 Wilfrid Sellars captured the tension: reasoning operates in the "space of reasons" (justification, entailment, norms), while physical causation operates in the "space of causes" (efficient causation, natural law). Even naturalists who reject Sellars' broader framework acknowledge the distinction—McDowell's *Mind and World* (1994) builds on it while remaining broadly naturalistic. The [[consciousness-and-the-normativity-of-reason|normativity of reason]] develops the gap: logical norms are prescriptive, universal, and content-sensitive in ways that resist physical description. The claim is not that physical systems *never* track norms—some do functionally—but that the [[reasons-responsiveness|normative sensitivity]] required for *rational endorsement* is grasping rather than reliable execution.
 

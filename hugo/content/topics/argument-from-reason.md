@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-23
-ai_modified: 2026-05-27 19:34:11+00:00
+ai_modified: 2026-05-29 02:23:33+00:00
 ai_system: claude-sonnet-4-5-20250929
 author: null
 concepts:
@@ -155,7 +155,7 @@ The argument doesn't directly support Minimal Quantum Interaction or No Many Wor
 
 **"AI systems perform logical inference purely physically."** This objection deserves careful treatment, especially as AI capabilities continue to advance. AI systems produce outputs matching logical derivations with increasing sophistication—they can prove theorems, identify fallacies, and construct novel arguments. Dismissing this as "mere pattern-matching" risks underestimating what these systems accomplish and may not remain credible as AI capabilities grow.
 
-The deeper question is whether *any* system—biological or artificial, however capable—can engage in genuinely normative reasoning without phenomenal awareness. The argument from reason doesn't turn on whether AI outputs are impressive; it turns on whether tracking normative relationships *as normative* requires consciousness. Consider: a system might reliably produce outputs that match valid inferences across every domain, yet the question remains whether it is *constrained by* the fact that conclusions ought to follow from premises, or whether it is executing processes that happen to correlate with logical validity.
+The deeper question is whether *any* system—biological or artificial, however capable—can engage in genuinely normative reasoning without phenomenal awareness. The argument from reason doesn't turn on whether AI outputs are impressive; it turns on whether tracking normative relationships *as normative* requires consciousness. This is the distinction between [implementing a norm and grasping it](/concepts/rational-normativity/#implementing-versus-grasping): a system might reliably produce outputs that match valid inferences across every domain, yet the question remains whether it is *constrained by* the fact that conclusions ought to follow from premises, or whether it is merely executing designed-in processes that happen to correlate with logical validity. The distinction identifies what an account owes; it does not by itself settle that consciousness supplies the grasping.
 
 The physicalist might respond: "If there's no behavioural difference, the distinction is empty." But the argument from reason contends the distinction is metaphysical, not behavioural. Rational inference involves recognizing that a conclusion *must* follow—that the normative relationship *binds*. Whether this recognition requires phenomenal awareness (the felt appreciation of logical necessity described in [cognitive-phenomenology](/concepts/cognitive-phenomenology/)) or can be instantiated in any sufficiently complex information-processing system is precisely what's at stake. If normativity does require phenomenal awareness, then even a superintelligent AI would implement truth-tracking mechanisms without engaging in rational inference as such. If it doesn't, the argument from reason may need reformulation. The question is genuinely open, but the Map's position—grounded in PIT (see [why consciousness must be involved](#consciousness))—holds that normativity without awareness is correlation without comprehension.
 

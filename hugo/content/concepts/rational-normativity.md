@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-04-15
-ai_modified: 2026-05-27 22:21:26+00:00
+ai_modified: 2026-05-29 02:23:33+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -48,9 +48,9 @@ Rational normativity refers specifically to the norms governing belief formation
 
 These features collectively constitute what Wilfrid Sellars captured with his distinction between the "logical space of reasons" and the realm of natural law. To characterise a mental state as knowledge is not to give an empirical description but to locate it within a network of justificatory relations — relations that are normative rather than causal.
 
-## Implementing a Norm versus Grasping It
+## Implementing a Norm versus Grasping It {#implementing-versus-grasping}
 
-The most important distinction for assessing whether physical systems can host rational normativity is between *implementing* a norm and *grasping* it. A system implements a norm when its behaviour reliably conforms to the norm; it grasps the norm when it recognises the norm *as* a norm — understands why the standard binds, and is guided by that understanding rather than merely caused to conform.
+The most important distinction for assessing whether physical systems can host rational normativity is between *implementing* a norm and *grasping* it. A system **implements** a norm when its behaviour reliably executes a normative or logical pattern that was designed in from outside, without recognising the rules as valid. A system **grasps** a norm when it engages the norm normatively — recognises *why* the standard binds or *why* a conclusion follows, and is guided by that recognition from within rather than merely caused to conform.
 
 A chess engine implements the rules of legal movement flawlessly: it never makes an illegal move, and it evaluates positions by criteria that track genuine strategic reasons. Yet it does not recognise any move as one it *ought* to play. Its conformity to the rules is wired in from outside; the engine produces outputs that a reason-grasping player would also produce, but it does so through processes that could be rewired to optimise for the worst move without anything in the system noticing a violation. A theorem prover follows syntactic transformation rules that, viewed externally, correspond to valid inference — but it does not recognise the rules as valid, understand why a conclusion follows, or revise its patterns in response to grasping a new logical principle. Both systems implement norms; neither grasps them.
 

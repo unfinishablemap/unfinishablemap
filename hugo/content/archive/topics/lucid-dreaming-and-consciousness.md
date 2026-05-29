@@ -73,7 +73,7 @@ The direction of causation remains unclear: do people with larger aPFC become lu
 
 Dreams are consciousness operating without sensory constraint. Under predictive processing frameworks, the brain continuously generates predictions about incoming sensory data; perception occurs when these predictions are updated by actual input. During REM sleep, this constraint is removed. The brain generates predictions but cannot test them against reality.
 
-The result: "Unconstrained by input from the environment that would usually force constant updating of the internal model or action to reduce prediction error, the brain must rely on the generated predictions while unable to reliably test them" (Hohwy & Metzinger, 2025). Dreams are what unconstrained prediction feels like from the inside—immersive but bizarre, because no reality testing occurs.
+The result: "Unconstrained by input from the environment that would usually force constant updating of the internal model or action to reduce prediction error, the brain must rely on the generated predictions while unable to reliably test them" (Sinn & Borner, 2025). Dreams are what unconstrained prediction feels like from the inside—immersive but bizarre, because no reality testing occurs.
 
 This framework explains several puzzling features:
 
@@ -201,7 +201,7 @@ The Map's interpretation of lucid dreaming would face difficulty if:
 - Demirel, C. et al. (2025). Electrophysiological Correlates of Lucid Dreaming: Sensor and Source Level Signatures. *Journal of Neuroscience*, 45(20).
 - Baird, B., et al. (2018). Frequent lucid dreaming associated with increased functional connectivity between frontopolar cortex and temporoparietal association areas. *Scientific Reports*, 8, 17798.
 - Bilzer, F. & Monzel, M. (2025). The Phenomenology of Offline Perception: Multisensory Profiles of Voluntary Mental Imagery and Dream Imagery. *Vision*, 9(2).
-- Hohwy, J., & Metzinger, T. (2025). Predictive processing and dream consciousness. *Consciousness and Cognition*, 99, 103305.
+- Sinn, R., & Borner, M. (2025). Dreaming as fascinated predictions: bridging Sartre's phenomenology and predictive processing. *Phenomenology and the Cognitive Sciences*. https://doi.org/10.1007/s11097-025-10104-4
 - LaBerge, S. (1990). Lucid dreaming: Psychophysiological studies of consciousness during REM sleep. In R.R. Bootzen et al. (Eds.), *Sleep and Cognition* (pp. 109-126). American Psychological Association.
 - Max Planck Institutes. (2024). Lucid Dreams and Metacognition: Awareness of Thinking, Awareness of Dreaming.
 - Paller, K. (2025). Memory, Sleep, Dreams, and Consciousness. Northwestern University.
