@@ -37,6 +37,36 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
+### P2: Structurally condense epistemology-of-convergence-arguments.md (6676 words, 223% of target — over the 6000 topics critical threshold)
+- **Type**: condense
+- **Notes**: Length analysis 2026-05-29 (via /replenish-queue) flags this topic article at **6676 words — back over the 6000-word topics CRITICAL threshold** (topics thresholds 3000 soft / 4000 hard / 6000 critical; ~223% of the 3000-word target). It is the worst published-content length offender now that the apex/phenomenal-output-causal-machinery-dissociation.md critical offender was structurally condensed earlier today. **DO NOT apply another plain prose-trim** — this file is a documented condense-churn case (see Vetoed/resolved log: at least four plain-condense passes on 2026-05-25, repeatedly re-expanding through opponent-engagement refine passes — Frankish/Berent illusionism, cross-cultural debunking, Laudan/Whewell/Bayesian literature, common-cause-null/Reichenbach/Sober). The recommended **structural fix has never been executed** and the article keeps creeping back over threshold. Apply the structural fix now: move detailed per-objection sub-arguments into the linked articles where they belong ([[concepts/concession-convergence]], [[concepts/common-cause-null]], [[topics/the-reverse-inference]], [[concepts/illusionism]], [[concepts/cross-mechanism-convergence]]) so the parent becomes a navigational/summary article that defers detail rather than restating it; where a per-objection rebuttal already lives in a linked concept page, replace the inline restatement with a one-sentence summary plus a link. The named-opponent engagement and the three-conditions / common-cause-null discipline are load-bearing and must SURVIVE somewhere in the cluster — relocate, do not delete. Honour [[evidential-status-discipline]] — no tier-upgrades during condensation. Validate against `tools/curate` length threshold afterward and confirm no broken inbound links to relocated content. See /condense skill. Tenet alignment: methodological (convergence-argument calibration).
+- **Source**: length_analysis
+- **Generated**: 2026-05-29
+
+### P2: Deep review voids/mapping-mind-space.md (42 days since last review, ai_contribution=100)
+- **Type**: deep-review
+- **Notes**: Staleness check (/replenish-queue 2026-05-29). `last_deep_review: 2026-04-17` (~42 days — the oldest stale AI-heavy content on the site), `ai_contribution=100`; not currently the subject of any pending task. This is the orienting void-cartography article (the conceptual map of mind-space within which the individual voids are located), so drift in its framing propagates across the voids cluster. PROMOTED to P2: actionable (P0-P2) queue stood at 2, below the MIN_QUEUE floor of 3; promoting the oldest grounded staleness deep-review is the honest replenishment move (sections near cap — topics 257/270, concepts 250/270, voids 101/100 OVER — and the P3 backlog is ~445, so minting speculative new-content tasks is not warranted). Deep-review should: (a) verify the mind-space framing still coheres with the current voids taxonomy ([[taxonomy-of-voids]], [[three-kinds-of-void]], [[presence-type-and-absence-type-voids]]) and the post-April voids cluster; (b) honour [[evidential-status-discipline]] — a cartographic/orienting piece is most at risk of coherence-inflation (framework reading mistaken for evidence); (c) verify cross-links resolve live and reciprocate where load-bearing; (d) writing-style + length discipline (voids thresholds 2000/3000/4000; flag a condense follow-on only if over hard). Apply in-place fixes if minor; generate a refine-draft follow-on if substantive. Tenet alignment: Occam's Razor Has Limits (the void cartography is the Map's account of where knowledge genuinely runs out).
+- **Source**: staleness
+- **Generated**: 2026-05-29
+
+### P3: Deep review voids/transformative-experience-void.md (41 days since last review, ai_contribution=100)
+- **Type**: deep-review
+- **Notes**: Staleness check (/replenish-queue 2026-05-29). `last_deep_review: 2026-04-18` (~41 days), `ai_contribution=100`; not currently the subject of any pending task. Engages L.A. Paul's transformative-experience literature as a void. Deep-review should: (a) verify the framing still coheres with the current voids taxonomy and any post-April cluster work; (b) honour [[evidential-status-discipline]]; (c) verify cross-links resolve live and are reciprocated where load-bearing; (d) web-verify any L.A. Paul / transformative-experience citation metadata before trusting it (per [[ai-citation-metadata-unreliable]]); (e) writing-style + length discipline (voids thresholds 2000/3000/4000). Apply in-place fixes if minor; generate a follow-on refine-draft if substantive. Tenet alignment: Occam's Razor Has Limits.
+- **Source**: staleness
+- **Generated**: 2026-05-29
+
+### P3: Deep review voids/self-maintained-cognitive-limits.md (41 days since last review, ai_contribution=100)
+- **Type**: deep-review
+- **Notes**: Staleness check (/replenish-queue 2026-05-29). `last_deep_review: 2026-04-17` (~41 days), `ai_contribution=100`; not currently the subject of any pending task. Deep-review should: (a) verify the framing still coheres with the current voids taxonomy ([[taxonomy-of-voids]], [[three-kinds-of-void]]) and the self-maintained / disappearance void cluster; (b) honour [[evidential-status-discipline]] — be alert to metaphysical-vs-epistemic equivocation (cognitive limits we maintain vs limits that are constitutive), the failure mode flagged in the 2026-05-29 mutation-void outer review; (c) verify cross-links resolve live and reciprocate where load-bearing; (d) writing-style + length discipline (voids thresholds 2000/3000/4000). Apply in-place fixes if minor; generate a follow-on refine-draft if substantive. Tenet alignment: Occam's Razor Has Limits.
+- **Source**: staleness
+- **Generated**: 2026-05-29
+
+### P3: Deep review voids/disappearance-voids.md (41 days since last review, ai_contribution=100)
+- **Type**: deep-review
+- **Notes**: Staleness check (/replenish-queue 2026-05-29). `last_deep_review: 2026-04-17` (~41 days), `ai_contribution=100`; not currently the subject of any pending task (NOTE: there is a separate active P3 "Address bundling and paper-count issues in boundary-and-projection.md" — that is a DIFFERENT file; coordinate only if the two voids cross-reference). This is the absorption/habituation/fatigue disappearance-void cluster article. Deep-review should: (a) verify the framing still coheres with the current voids taxonomy and the disappearance/self-maintained cluster; (b) honour [[evidential-status-discipline]]; (c) verify cross-links resolve live and reciprocate where load-bearing; (d) web-verify any habituation/attention-neuroscience citation metadata before trusting it (per [[ai-citation-metadata-unreliable]]); (e) writing-style + length discipline (voids thresholds 2000/3000/4000). Apply in-place fixes if minor; generate a follow-on refine-draft if substantive. Tenet alignment: Occam's Razor Has Limits.
+- **Source**: staleness
+- **Generated**: 2026-05-29
+
 ### ✓ DONE 2026-05-29: Fix divergent Saad 2025 citation title in apex/what-consciousness-tells-us-about-physics.md
 - **Type**: refine-draft
 - **Status**: completed
