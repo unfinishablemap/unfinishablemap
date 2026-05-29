@@ -5,6 +5,15 @@ ai_modified: 2026-05-29T03:30:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-05-29T00:00:00+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[concepts/mental-effort]]
+- **Mode**: cross-file citation reconciliation (web-verified against primary source)
+- **Issue**: mental-effort.md and apex/phenomenal-output-causal-machinery-dissociation.md disagreed on the Naccache (2005) patient's lesion — "an anterior cingulate lesion" + "right-ACC activity" vs. "a large left mesio-frontal lesion (including anterior cingulate)".
+- **Primary source verified**: Naccache et al. (2005), Neuropsychologia 43(9):1318–1328 (PubMed 15949516). Abstract states "a left mesio-frontal cortex lesion including the anterior cingulate cortex (ACC)" with "residual right anterior cingulate activity." Apex was correct; mental-effort.md carried the error (mischaracterized the lesion as a focal ACC lesion, dropping lateralization and the mesio-frontal extent).
+- **Changes**: mental-effort.md — "an anterior cingulate lesion ... residual right-ACC activity" → "a left mesio-frontal lesion including the anterior cingulate cortex ... residual right anterior cingulate activity". Apex left unchanged (already matched source). Length-neutral, metadata-only.
+- **Published**: yes
+
 ## 2026-05-29T03:30:00+00:00 - deep-review
 - **Status**: Success
 - **File**: [[topics/dream-consciousness]]

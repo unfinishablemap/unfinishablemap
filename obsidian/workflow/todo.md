@@ -51,14 +51,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: optimistic-review (2026-05-28)
 - **Generated**: 2026-05-28
 
-### P2: Reconcile Naccache (2005) lesion lateralization across apex and mental-effort.md
-- **Type**: refine-draft
-- **Status**: pending
-- **Notes**: PROMOTED P3→P2 by /replenish-queue 2026-05-29 (floor-restoring; actionable P0–P2 queue stood at 2, below the MIN_QUEUE floor of 3). Most grounded candidate in the backlog: a concrete review-flagged internal inconsistency between two named files, re-verified live this cycle (apex line 99 = "large left mesio-frontal lesion (including anterior cingulate)"; `concepts/mental-effort.md` line 80 = "an anterior cingulate lesion ... and residual right-ACC activity" — the two pages disagree on lesion nature and lateralization; `mental-effort.md` was edited 2026-05-28 but this wording was not reconciled). Web-verifiable, bounded scope, cap-safe (in-place fix to existing files). Exactly the grounded review-flagged maintenance work steady-state guidance says to promote over speculative new-content minting against capped sections (topics 257/270, concepts 250/270, voids 101/100). Original notes preserved below. Pessimistic review 2026-05-27 found an internal inconsistency: `apex/phenomenal-output-causal-machinery-dissociation.md` (§Real Time) describes the Naccache 2005 patient as "a large left mesio-frontal lesion (including anterior cingulate)", while the source `concepts/mental-effort.md` describes "an anterior cingulate lesion ... and residual right-ACC activity". The two corpus pages disagree on lateralization. Naccache et al. 2005 (*Neuropsychologia* 43(9):1318–1328) describe a left mesial frontal lesion, so the apex is likely correct and `mental-effort.md` likely carries the error — but verify against the primary source and fix whichever page is wrong so the corpus is consistent. Argument-neutral (the apex already hedges this as a single un-replicated case), hence P3. See `reviews/pessimistic-2026-05-27-phenomenal-output-causal-machinery.md` Issue 2.
-- **Review file**: `reviews/pessimistic-2026-05-27-phenomenal-output-causal-machinery.md`
-- **Source**: pessimistic-review (2026-05-27)
-- **Generated**: 2026-05-27
-
 ### ✓ P2: Deep review topics/the-observer-witness-in-meditation.md (51 days since last review, ai_contribution=100, Tenet 3 load-bearing)
 - **Type**: deep-review
 - **Status**: done (2026-05-26)
@@ -3562,6 +3554,10 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 Tasks that failed 3+ times and require human intervention.
 
+
+### ✓ 2026-05-29: Reconcile Naccache (2005) lesion lateralization across apex and mental-effort.md
+- **Type**: refine-draft
+- **Notes**: PROMOTED P3→P2 by /replenish-queue 2026-05-29 (floor-restoring; actionable P0–P2 queue stood at 2, below the MIN_QUEUE floor of 3). Most grounded candidate in the backlog: a concrete review-flagged internal inconsistency between two named files, re-verified live this cycle (apex line 99 = "large left mesio-frontal lesion (including anterior cingulate)"; `concepts/mental-effort.md` line 80 = "an anterior cingulate lesion ... and residual right-ACC activity" — the two pages disagree on lesion nature and lateralization; `mental-effort.md` was edited 2026-05-28 but this wording was not reconciled). Web-verifiable, bounded scope, cap-safe (in-place fix to existing files). Exactly the grounded review-flagged maintenance work steady-state guidance says to promote over speculative new-content minting against capped sections (topics 257/270, concepts 250/270, voids 101/100). Original notes preserved below. Pessimistic review 2026-05-27 found an internal inconsistency: `apex/phenomenal-output-causal-machinery-dissociation.md` (§Real Time) describes the Naccache 2005 patient as "a large left mesio-frontal lesion (including anterior cingulate)", while the source `concepts/mental-effort.md` describes "an anterior cingulate lesion ... and residual right-ACC activity". The two corpus pages disagree on lateralization. Naccache et al. 2005 (*Neuropsychologia* 43(9):1318–1328) describe a left mesial frontal lesion, so the apex is likely correct and `mental-effort.md` likely carries the error — but verify against the primary source and fix whichever page is wrong so the corpus is consistent. Argument-neutral (the apex already hedges this as a single un-replicated case), hence P3. See `reviews/pessimistic-2026-05-27-phenomenal-output-causal-machinery.md` Issue 2.
 
 ### ✓ 2026-05-29: Adopt counterfactual-reasoning calibration in free-will
 - **Type**: refine-draft
