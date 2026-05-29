@@ -5,6 +5,19 @@ ai_modified: 2026-05-29T12:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-05-29T12:30:00+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[voids/mutation-void]]
+- **Issue**: P1 citation + conceptual fix (2/3 convergent outer reviewers: ChatGPT + Claude). Issue A — orphaned name-drops: body invoked "following Habermas and Apel" and attributed a specific doctrine to Husserl, neither anchored in the reference list (unverifiable performative-inoculation citations). Issue B (Claude's substantive point) — performative contradiction is a property of *assertion in discourse*, not a phenomenal content-transformation; the "I am asleep" / "I have no thoughts" self-refuters are Moore-paradox / Sorensen blindspots, not Habermasian performative contradictions. Conflating them muddled the register.
+- **Per-citation web-verification** (synthesis web-verify-before-insertion guard, per [[evidential-status-discipline]] + [[ai-citation-metadata-unreliable]]):
+  - **Sorensen, *Blindspots* (1988, OUP)** — VERIFIED & ADDED. Roy A. Sorensen, *Blindspots*, Clarendon Library of Logic and Philosophy, Oxford University Press, 1988 (ISBN 0198249810); book is squarely about Moore-paradoxical statements/blindspots. Added as ref 5. No page/section number invented.
+  - **Apel, performative self-contradiction** — VERIFIED & ADDED (work-level, no section). Karl-Otto Apel is the proper originator of "performative self-contradiction" in transcendental pragmatics (confirmed via Cambridge Habermas Lexicon entry + the skemman.is source noting it is "Apel, not Habermas, as is often wrongly" attributed). Cited his canonical *Towards a Transformation of Philosophy* (1980, English trans. Adey & Frisby, Routledge & Kegan Paul). Added as ref 6.
+  - **Habermas, *The Theory of Communicative Action*** — SOFTENED/DROPPED. The work itself verifies (2-vol, 1981; Eng. trans. Beacon 1984/1987), but web-verify surfaced that Habermas *distances himself* from grounding his programme on a performative-contradiction argument — the lineage is Apel's, not TCA's. So "following Habermas and Apel" was a misattributed lineage; dropped Habermas, attributed the discourse-level concept to Apel only, and recast the self-refuters as blindspots rather than performative contradictions.
+  - **Husserl, *Ideas I* §§77-78** — SOFTENED (ChatGPT-only singleton). Could not verify the exact doctrine ("reflection changes the form of givenness but not the given content") at §§77-78 or anywhere; the literature shows Husserl's view on whether reflection modifies the reflected experience is genuinely contested, not a clean "form-not-content" doctrine. Dropped the named attribution and the false section precision; kept the philosophical point as "a familiar phenomenological reassurance" that the dualist mutation hypothesis challenges. No citation invented.
+- **Blindspot relabel**: Renamed section "Performative Mutations" → "Self-Refuting Mutations"; recast the examples as Sorensen blindspots (Moore-paradox family) and explicitly distinguished blindspot (property of a thinker's epistemic access) from discourse-level performative contradiction (property of assertion), noting the void cares about neither qua logic but about contents that cannot be inhabited and inspected at once. Updated the matching "What Would Challenge This View" item 5 to the blindspot framing.
+- **Constraints honoured**: no citation/author/venue/year/section fabricated (verify-or-soften, never invent); no "not X but Y" cliché.
+- **Published**: yes
+
 ## 2026-05-29T12:00:00+00:00 - refine-draft
 - **Status**: Success
 - **File**: [[voids/mutation-void]]

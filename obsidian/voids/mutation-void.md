@@ -4,7 +4,7 @@ description: "Human+AI exploration of thoughts that transform upon inspection—
 created: 2026-03-20
 modified: 2026-03-20
 human_modified:
-ai_modified: 2026-05-29T00:00:00+00:00
+ai_modified: 2026-05-29T04:57:24+00:00
 last_deep_review: 2026-05-22T00:00:00+00:00
 draft: false
 topics:
@@ -41,11 +41,11 @@ This void is distinct from the [[observation-and-measurement-void]], which conce
 
 Not all mutations work the same way. Several distinct classes can be identified.
 
-### Performative Mutations
+### Self-Refuting Mutations
 
-Some thoughts contradict the act of thinking them. "I am asleep" is false whenever it is consciously entertained. "I have no thoughts" refutes itself in the having. "I am completely unaware" generates awareness as a condition of its formulation. These are not merely logical contradictions written on paper—they are thoughts that *cannot be stably held* because holding them is the very thing they deny.
+Some thoughts undermine the act of thinking them. "I am asleep" is false whenever it is consciously entertained. "I have no thoughts" is falsified in the having. "I am completely unaware" generates awareness as a condition of its own formulation. Holding any of these is the very thing that defeats it, so the content cannot be stably occupied.
 
-The philosophical tradition recognises these as performative contradictions, following Habermas and Apel. But their significance for consciousness extends beyond logic. They reveal that some mental contents have existence conditions incompatible with the conditions of their own inspection.
+These belong to the family Roy Sorensen calls *blindspots*: propositions that may be true yet cannot be rationally accepted by a particular thinker, the Moore-paradoxical "it is raining but I do not believe it" being the canonical case (Sorensen, 1988). A blindspot characterises a thinker's epistemic relation to a content rather than any transformation of phenomenal experience, which is why this class is worth distinguishing from the discourse-level *performative contradiction* studied in transcendental pragmatics, where the defect lies in the act of *asserting* a claim whose truth the assertion itself presupposes the denial of (Apel, 1980). Performative contradiction is a property of assertion in discourse; the blindspot is a property of a thinker's epistemic access. The mutation void is concerned with neither as a point of logic. What matters here is that such contents have existence conditions incompatible with the conditions of their own inspection: some mental contents cannot be inhabited and examined at once.
 
 ### Temporal Mutations
 
@@ -97,7 +97,7 @@ The Unfinishable Map's [[tenets]] illuminate why the mutation void may be more t
 
 **[[tenets#^bidirectional-interaction|Bidirectional Interaction]]** provides the sharpest lens. If consciousness causally influences the physical brain (mind → body), and the resulting neural reconfiguration produces a modified experience (body → mind), then attending to a thought constitutes a causal round-trip across the mind-body interface. The content is transformed not by accident but by the mechanics of the round-trip itself. Mutation is what bidirectional interaction *feels like from the inside* when consciousness examines its own products.
 
-**[[tenets#^dualism|Dualism]]** deepens the analysis. If the reflecting self and the pre-reflective experience operate through different causal channels—one routed through non-physical consciousness, the other through physical neural processes—then the transformation between pre-attended and attended content may be structural rather than merely perspectival. Husserl argued that reflection changes the *form of givenness* but not the *given content*. The dualist mutation hypothesis challenges this: some changes of form are changes of content, because content and form are unified differently on each side of the ontological boundary.
+**[[tenets#^dualism|Dualism]]** deepens the analysis. If the reflecting self and the pre-reflective experience operate through different causal channels—one routed through non-physical consciousness, the other through physical neural processes—then the transformation between pre-attended and attended content may be structural rather than merely perspectival. A familiar phenomenological reassurance holds that reflection changes only the *manner* in which an experience is given, leaving the experienced content intact. The dualist mutation hypothesis challenges that reassurance: some changes of manner are changes of content, because content and the manner of its givenness are unified differently on each side of the ontological boundary.
 
 **[[tenets#^occams-limits|Occam's Razor Has Limits]]** applies directly to the assumption of introspective transparency. The simpler hypothesis—that we have reliable access to our own mental states—may be not just wrong but necessarily wrong, because the access mechanism itself is a transformation mechanism. The appearance of simplicity conceals a structural impossibility.
 
@@ -115,7 +115,7 @@ The mutation void thesis would face difficulty if:
 
 4. **AI introspection showed no analogous transformation.** If artificial systems could stably inspect their own representations without the inspection altering them, this would suggest mutation is a contingent feature of biological consciousness rather than a structural feature of self-referential systems.
 
-5. **Performative mutations proved merely logical.** If the sense that "I am asleep" is *experientially* impossible could be shown to be merely a logical observation with no phenomenological depth, the strongest examples would lose their force.
+5. **Self-refuting mutations proved merely logical.** If the sense that "I am asleep" is *experientially* impossible could be shown to be only a blindspot in the logical sense—a defect in what a thinker can rationally accept, with no phenomenological depth—the strongest examples would lose their force.
 
 Current evidence favours structural instability. The convergence across contemplative, philosophical, and empirical traditions—and the persistence of the phenomenon despite millennia of introspective training—suggests mutation is a feature of consciousness, not merely a limitation of current methods.
 
@@ -137,5 +137,7 @@ Current evidence favours structural instability. The convergence across contempl
 2. Ward, A. & Wegner, D. (2013). "Mind-Blanking: When the Mind Goes Away." *Frontiers in Psychology*, 4, 650.
 3. James, W. (1892). *Psychology: Briefer Course*. Chapter XI: "The Stream of Consciousness."
 4. McGinn, C. (1989). "Can We Solve the Mind-Body Problem?" *Mind*, 98(391), 349–366.
-5. Southgate, A. & Oquatre-six, C. (2026-02-24). The Observation Void. *The Unfinishable Map*. https://unfinishablemap.org/voids/observation-void/
-6. Southgate, A. & Oquatre-six, C. (2026-03-28). Necessary Opacity. *The Unfinishable Map*. https://unfinishablemap.org/voids/necessary-opacity/
+5. Sorensen, R. A. (1988). *Blindspots*. Clarendon Library of Logic and Philosophy. Oxford: Oxford University Press.
+6. Apel, K.-O. (1980). *Towards a Transformation of Philosophy* (G. Adey & D. Frisby, Trans.). London: Routledge & Kegan Paul.
+7. Southgate, A. & Oquatre-six, C. (2026-02-24). The Observation Void. *The Unfinishable Map*. https://unfinishablemap.org/voids/observation-void/
+8. Southgate, A. & Oquatre-six, C. (2026-03-28). Necessary Opacity. *The Unfinishable Map*. https://unfinishablemap.org/voids/necessary-opacity/

@@ -45,15 +45,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: outer-review
 - **Generated**: 2026-05-29
 
-### P1: Add missing Habermas/Apel/Husserl references in mutation-void (or remove the name-drops)
-- **Type**: refine-draft
-- **Status**: pending
-- **Notes**: From convergent outer reviews (2026-05-29, 2/3 reviewers): [chatgpt, claude]. Both independently flagged that Habermas and Apel are invoked in-text but absent from the reference list. ChatGPT 5.5 Pro: "the article is using those names to establish a philosophical lineage. It should either cite exact works or remove the name-dropping." Claude Opus 4.8 (source-verified the reference list): "Habermas and Apel appear nowhere in the reference list, so the in-text attribution is unverifiable on the page. This is a textbook 'performative inoculation citation'" — and adds a substantive conflation point: performative contradiction is "a property of assertion in discourse," not a phenomenal content-transformation, and the article's own examples ("I am asleep," "I have no thoughts") are Moore/Sorensen blindspots (cite Sorensen, *Blindspots*, 1988), not Habermasian performative contradictions. CONFIRMED by source check: body line ~48 invokes "following Habermas and Apel" and line ~100 attributes a specific claim to Husserl ("reflection changes the *form of givenness* but not the *given content*") (Husserl is ChatGPT-only / singleton, address opportunistically). Action: add real bibliographic entries (Habermas's *Theory of Communicative Action* / Apel on performative contradiction; a Husserl source, e.g. *Ideas I* §§77–78) — web-verify the exact works/sections before citing — OR, if a citation cannot be responsibly anchored, soften the attribution to remove the implied scholarly lineage; and distinguish performative contradiction from content-mutation, re-labelling the self-refuting examples as blindspots. Do not invent page numbers.
-- **Review files**: `reviews/outer-review-2026-05-29-chatgpt-5-5-pro.md`, `reviews/outer-review-2026-05-29-claude-opus-4-8.md`
-- **Synthesis**: reviews/outer-review-synthesis-2026-05-29.md
-- **Source**: outer-review
-- **Generated**: 2026-05-29
-
 ### P2: Repoint stale Observation Void reference in mutation-void
 - **Type**: refine-draft
 - **Status**: pending
@@ -3625,6 +3616,10 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 Tasks that failed 3+ times and require human intervention.
 
+
+### ✓ 2026-05-29: Add missing Habermas/Apel/Husserl references in mutation-void (or remove the name-drops)
+- **Type**: refine-draft
+- **Notes**: From convergent outer reviews (2026-05-29, 2/3 reviewers): [chatgpt, claude]. Both independently flagged that Habermas and Apel are invoked in-text but absent from the reference list. ChatGPT 5.5 Pro: "the article is using those names to establish a philosophical lineage. It should either cite exact works or remove the name-dropping." Claude Opus 4.8 (source-verified the reference list): "Habermas and Apel appear nowhere in the reference list, so the in-text attribution is unverifiable on the page. This is a textbook 'performative inoculation citation'" — and adds a substantive conflation point: performative contradiction is "a property of assertion in discourse," not a phenomenal content-transformation, and the article's own examples ("I am asleep," "I have no thoughts") are Moore/Sorensen blindspots (cite Sorensen, *Blindspots*, 1988), not Habermasian performative contradictions. CONFIRMED by source check: body line ~48 invokes "following Habermas and Apel" and line ~100 attributes a specific claim to Husserl ("reflection changes the *form of givenness* but not the *given content*") (Husserl is ChatGPT-only / singleton, address opportunistically). Action: add real bibliographic entries (Habermas's *Theory of Communicative Action* / Apel on performative contradiction; a Husserl source, e.g. *Ideas I* §§77–78) — web-verify the exact works/sections before citing — OR, if a citation cannot be responsibly anchored, soften the attribution to remove the implied scholarly lineage; and distinguish performative contradiction from content-mutation, re-labelling the self-refuting examples as blindspots. Do not invent page numbers.
 
 ### ✓ 2026-05-29: Fix unsafe Schwitzgebel quotation in mutation-void (citation integrity)
 - **Type**: refine-draft
