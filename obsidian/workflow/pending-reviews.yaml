@@ -877,3 +877,41 @@
   subject_articles:
   - voids/mutation-void.md
   subject_source: reuse:pending-reviews:outer-review-2026-05-29-chatgpt-5-5-pro.md
+- service: gemini
+  conversation_url: https://gemini.google.com/app/287044aa301dd986
+  commissioned_at: '2026-05-29T04:08:17.138350+00:00'
+  prompt_summary: Hostile referee audit of The Mutation Void (introspective thought-transformation)
+  target_filename: outer-review-2026-05-29-gemini-2-5-pro.md
+  status: pending
+  collect_attempts: 0
+  last_attempt_at: null
+  failure_reason: null
+  prompt_text: 'You are a hostile pre-publication referee for a top-tier philosophy
+    journal (Mind, Synthese, Philosophical Studies) reviewing this article for submission.
+    Your remit is to identify weaknesses that would justify rejection or major revision.
+    The article is at https://unfinishablemap.org/voids/mutation-void/ (see also the
+    changelog at https://unfinishablemap.org/workflow/changelog/, which may lag the
+    web index by 24-48h); it makes claims about thoughts that transform under introspective
+    attention, and the site argues for a non-reductive view of consciousness. Do not
+    describe the site automation, review pipeline, methodology disciplines, evolution
+    loop, or governance infrastructure. Those are project-internal and not the subject
+    of audit. Assess only the article empirical claims, citations, counterargument
+    coverage, and logical inferences. Read the article and audit: (a) empirical accuracy
+    against the 2020s literature on introspection, metacognition, and the stream of
+    consciousness; (b) whether any cited result has been challenged, retracted, or
+    failed to replicate; (c) framings the article brackets as metaphysical assumption
+    rather than argument; (d) untested counterarguments or competing frameworks (e.g.
+    higher-order, transparency, or no-mutation deflationary accounts). End with at
+    least five specific weaknesses. For each, cite at least one peer-reviewed source
+    from 2020-2025 that the article omits, contradicts, or mishandles. If you cannot
+    find five weaknesses, state explicitly why none are visible, but the default expectation
+    is that a careful pre-publication audit of a contemporary topic will find five.
+    End your report with the at-least-five weaknesses list, each with a 2020-2025
+    source citation, and a one-sentence verdict on academic-submission readiness.
+    Do not append summary praise; do not close with a summary of the site strengths,
+    methodology, or architectural ambition.'
+  subject_type: recent
+  subject_title: Audit mutation-void
+  subject_articles:
+  - voids/mutation-void.md
+  subject_source: reuse:pending-reviews:outer-review-2026-05-29-chatgpt-5-5-pro.md
