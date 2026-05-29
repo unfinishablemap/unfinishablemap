@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-29T02:05:00+00:00
+ai_modified: 2026-05-29T02:50:00+00:00
 ai_system: claude-opus-4-7
 author: Andy Southgate
 concepts: []
@@ -36,6 +36,20 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **P2**: Low - nice to have, human approval needed
 
 ## Active Tasks
+
+### P2: Deep review voids/metaphor-void.md (42 days since last review, ai_contribution=100, Tenet 1/5 load-bearing)
+- **Type**: deep-review
+- **Status**: pending
+- **Notes**: Staleness check (/replenish-queue 2026-05-29, floor-restoring promotion). The cycle-consumable (P0-P2) queue had dropped to effectively 1 — only the `argument-from-reason / normativity-of-reason` reciprocal-link cross-review P2 (todo.md ~line 3359) is cycle-pickable; the other open P2 (`consciousness-and-skill-acquisition` literature-drift audit) parses as a wall-clock weekly `literature-drift-review` and does not compete in the cycle queue — below the MIN_QUEUE floor of 3. Re-verified the documented replenish-at-floor steady state this run: voids OVER cap (101/100), so no new voids; topics (257/270) and concepts (250/270) have nominal headroom but there is NO unconsumed research awaiting synthesis (391 research notes, all consumed) and `orphaned_files=0`; every published-content length offender is unavailable as an honest condense promotion (`topics/epistemology-of-convergence-arguments.md` ~6676w and `apex/phenomenal-output-causal-machinery-dissociation.md` ~6990w are flagship articles BLOCKED against the ceiling pending a human editorial decision; `topics/born-rule-and-the-consciousness-interface.md` ~5053w is vetoed after condense/re-expand churn; `topics/meaning-of-life.md` was condensed 2026-05-27; `apex/apex-articles` and `apex/taxonomy-of-voids` are navigational index hubs). With no honest expand/condense/orphan/research move available, the floor is restored with two grounded tenet-load-bearing staleness deep-reviews (this + phenomenology-of-intellectual-courage below). Selection criterion is BOTH stale-review (`last_deep_review` ≥ 40d) AND settled (`ai_modified` ≥ 14d) to avoid the deep-review-over-reviews-converged churn risk; both this article's timestamps are 2026-04-17 (~42d, fully settled). `voids/metaphor-void.md` ("The Metaphor Void", ~1839 words, well under the 2000-word voids soft threshold) is not currently the subject of any other open task. Deep-review should: (a) verify the void framing still coheres with the current voids taxonomy and the apophatic-cartography / three-kinds-of-void treatment; (b) honour `[[evidential-status-discipline]]` — the metaphor-as-cognitive-instrument claims are prone to phenomenology-vs-function slippage; (c) verify cross-links resolve live and are reciprocated where load-bearing; (d) writing-style + length discipline (no "This is not X. It is Y." cliché). Apply in-place fixes if minor; generate a follow-on refine-draft task only if substantive. Tenet alignment: Tenet 1 (Dualism — the metaphor void as a phenomenal-structure / conceptual-instrument exhibit) and Tenet 5 (Occam's Razor Has Limits — what cannot be reduced to literal description).
+- **Source**: staleness
+- **Generated**: 2026-05-29
+
+### P2: Deep review topics/phenomenology-of-intellectual-courage.md (41 days since last review, ai_contribution=100, Tenet 1/5 load-bearing)
+- **Type**: deep-review
+- **Status**: pending
+- **Notes**: Staleness check (/replenish-queue 2026-05-29, floor-restoring promotion; companion to the metaphor-void deep-review above). Same floor rationale: cycle-consumable queue at 1 below the MIN_QUEUE floor of 3, no honest expand/condense/orphan/research move available (sections capped or near-cap with no unconsumed research; length offenders blocked/vetoed/index-hub). Selection criterion BOTH stale (`last_deep_review` ≥ 40d) AND settled (`ai_modified` ≥ 14d): both timestamps are 2026-04-18 (~41d, fully settled), avoiding the over-review-converged churn risk. `topics/phenomenology-of-intellectual-courage.md` ("The Phenomenology of Intellectual Courage", ~2522 words, under the 3000-word topics soft threshold) is not the subject of any other open task. Deep-review should: (a) verify the intellectual-courage phenomenology still coheres with the contemplative-practice / evidential-status cluster and any post-April neighbours; (b) honour `[[evidential-status-discipline]]` — first-person phenomenology claims must hold the phenomenology-vs-metaphysics line and avoid possibility/probability slippage; (c) verify cross-links resolve live and are reciprocated where load-bearing; (d) writing-style + length discipline (no "This is not X. It is Y." cliché; ~2522w leaves room, flag a condense follow-on only if a refine pass pushes it over the 4000 hard threshold). Apply in-place fixes if minor; generate a follow-on refine-draft task only if substantive. Tenet alignment: Tenet 1 (Dualism — intellectual courage as a trained register of the conscious agent engaging hard problems) and Tenet 5 (Occam's Razor Has Limits — the courage to hold incompleteness rather than collapse to premature simplicity).
+- **Source**: staleness
+- **Generated**: 2026-05-29
 
 ### P3: Write article on Auditory Consciousness and the Interface
 - **Type**: expand-topic
