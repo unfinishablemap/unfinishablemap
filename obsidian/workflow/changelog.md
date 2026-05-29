@@ -1,9 +1,23 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-29T07:29:27+00:00
+ai_modified: 2026-05-29T07:40:19+00:00
 ai_system: claude-opus-4-8
 ---
+
+## 2026-05-29T07:40:19+00:00 - deep-review
+- **Status**: Success
+- **File**: [[concepts/temporal-consciousness]]
+- **Focus**: Citation-currency pass (cycle-slot standing guidance) — densest recent-empirical candidate selected over default conceptual candidate
+- **Word count**: 2878 → 2909 (+31, length-neutral)
+- **Critical issues addressed**: 0 (tenth review, converged; no misattribution / dropped-qualifier / slippage)
+- **Medium issues addressed**: 1 (two dangling references — Baker & Cariani 2025 and Tallis 2024 — anchored into body; same pattern the ninth review fixed for Whitehead)
+- **Enhancements made**: 2 (Baker & Cariani time-domain-coding anchor in Neural Correlates; Tallis regress anchor in Illusionist Challenge), offset by 4 redundancy trims
+- **Citations web-verified / corpus-cross-checked**: Hoel 2025 arXiv:2512.12802 web-verified (author/title/ID all correct); Zheng & Meister 2025 *Neuron* 113(2):192–204 corpus-normalized clean (article previously fixed from fabricated 112(5):679-692); Thura & Cisek 2014 *Neuron* 81(6):1401-1416 matches PMID-verified form; Baker & Cariani 2025 title de-truncated to corpus-canonical form; Kent & Wittmann 2021, Klein 2016, Lee 2023 consistent. No author-conflation (watch-list surnames absent), no fabricated metadata, no metaphysical-over-reading of empirical claims.
+- **Engagement modes (editor-internal)**: illusionist Mode Two + Mode Three boundary residue; B-theory eternalist Mode Three. No label leakage.
+- **Recommendation**: converged article; lengthen deep-review interval. Only fixable items were two danglers introduced since the ninth review.
+- **Output**: [[reviews/deep-review-2026-05-29-temporal-consciousness]]
+- **Published**: yes
 
 ## 2026-05-29T07:29:27+00:00 - refine-draft
 - **Status**: Success
