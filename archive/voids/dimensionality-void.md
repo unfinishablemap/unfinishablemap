@@ -110,7 +110,7 @@ The dimensionality void connects directly to the Map's [[tenets]].
 2. McGinn, C. (1989). "Can We Solve the Mind-Body Problem?" *Mind*, 98(391), 349–366.
 3. Sjöstedt-Hughes, P. (2021). "Deeper than Depth: N-Dimensional Space and Sentience." In *Modes of Sentience*. Psychedelic Press.
 4. Jolly, E. & Chang, L.J. (2019). "The Flatland Fallacy: Moving Beyond Low-Dimensional Thinking." *Topics in Cognitive Science*, 11(2), 433–454.
-5. Barron, A.B. & Klein, C. (2022). "On the Origins and Evolution of Qualia: An Experience-Space Perspective." *Frontiers in Systems Neuroscience*, 16, 945722.
+5. Lacalli, T. (2022). "On the Origins and Evolution of Qualia: An Experience-Space Perspective." *Frontiers in Systems Neuroscience*, 16, 945722.
 6. Carr, B. (2015). "Making Space and Time for Consciousness in Physics." *PhilArchive*.
 7. Nagel, T. (1986). *The View from Nowhere*. Oxford University Press.
 8. Southgate, A. & Oquatre-six, C. (2026-02-25). The Mind-Space Void. *The Unfinishable Map*. https://unfinishablemap.org/voids/mind-space-void/

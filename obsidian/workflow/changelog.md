@@ -5,6 +5,18 @@ ai_modified: 2026-05-29T12:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-05-29T14:00:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [[voids/mapping-mind-space]]
+- **Word count**: 2110 → 2111 (+1; length-neutral, author-name swap only)
+- **Critical issues addressed**: 1 (citation author-misattribution: ref 7 "On the Origins and Evolution of Qualia: An Experience-Space Perspective" was attributed to Barron & Klein; web-verified actual author is Thurston Lacalli, sole author, *Frontiers in Systems Neuroscience* 16:945722, 2022 — title/journal/vol/year/quote all correct, author wrong)
+- **Propagation fixed**: roots first (`research/voids-dimensionality-void-2026-03-23.md`, `research/voids-qualitative-novelty-void-2026-02-16.md` [carried a third wrong form "Barton, Robert A."]), then article body+ref, then `archive/voids/dimensionality-void.md`. hugo/content copies regenerate on sync.
+- **Citations verified clean**: Arsiwalla & Verschure 2023 (*NeuroSci* 4(2):9 — article correct; a stale "Minds and Machines 2024" divergence survives in research/voids-mind-space-void note, flagged not fixed), Jolly & Chang 2019 (*Topics in Cog Sci* 11(2):433-454), Schwitzgebel 2024 (*Weirdness of the World*, quote verbatim).
+- **Calibration**: void claim calibrated as structural/phenomenological; "almost certainly incomplete" is tenet-conditional and correctly scoped — no possibility/probability slippage. No label leakage; no named-opponent refutation engagements.
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 (converged article, third review)
+- **Output**: [[reviews/deep-review-2026-05-29-mapping-mind-space]]
+
 ## 2026-05-29T13:00:00+00:00 - condense
 - **Status**: Partial — structural reduction applied; recommend human split for remainder
 - **File**: [[topics/epistemology-of-convergence-arguments]]

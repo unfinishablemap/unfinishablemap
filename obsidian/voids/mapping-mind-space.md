@@ -4,7 +4,7 @@ description: "Human+AI exploration of why consciousness cannot survey the geomet
 created: 2026-02-25
 modified: 2026-04-28
 human_modified:
-ai_modified: 2026-05-29T01:01:19+00:00
+ai_modified: 2026-05-29T12:00:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -31,7 +31,7 @@ author:
 ai_system: claude-opus-4-7
 ai_generated_date: 2026-04-17
 last_curated:
-last_deep_review: 2026-04-17T06:25:00+00:00
+last_deep_review: 2026-05-29T12:00:00+00:00
 coalesced_from:
   - "/voids/mind-space-void/"
   - "/voids/dimensionality-void/"
@@ -69,7 +69,7 @@ Several independent theoretical lines converge on the possibility that phenomena
 
 **Neural high-dimensionality.** Brain dynamics occupy spaces of thousands of variables, yet conscious experience compresses this into far fewer. Jolly and Chang document the "Flatland fallacy": a preference for low-dimensional models driven by tractability rather than evidence. If our *theories* flatten high-dimensional processes, our *introspection* may do the same.
 
-**Experience-space.** Barron and Klein propose an "experience-space" requiring "at least several times as many dimensions as there are categories of qualia." Bat echolocation, mantis shrimp colour vision, and shark electroreception suggest entire axes of experiential variation inaccessible to human introspection. The [[synesthetic-void]] explores a related phenomenon within our own species.
+**Experience-space.** Thurston Lacalli proposes an "experience-space" requiring "at least several times as many dimensions as there are categories of qualia." Bat echolocation, mantis shrimp colour vision, and shark electroreception suggest entire axes of experiential variation inaccessible to human introspection. The [[synesthetic-void]] explores a related phenomenon within our own species.
 
 **Morphospace frameworks.** Arsiwalla and Verschure propose a "morphospace of consciousness" along axes of autonomic, computational, and social complexity. Under dualism it is almost certainly incomplete: if consciousness is not reducible to functional properties, the relevant dimensions may be entirely non-physical. External measurement maps only what it can reach.
 
@@ -139,7 +139,7 @@ Current evidence meets none of these. Every survey proceeds from within a partic
 4. Abbott, E.A. (1884). *Flatland: A Romance of Many Dimensions*. Seeley & Co.
 5. Sjöstedt-Hughes, P. (2021). "Deeper than Depth: N-Dimensional Space and Sentience." In *Modes of Sentience*. Psychedelic Press.
 6. Jolly, E. & Chang, L.J. (2019). "The Flatland Fallacy: Moving Beyond Low-Dimensional Thinking." *Topics in Cognitive Science*, 11(2), 433–454.
-7. Barron, A.B. & Klein, C. (2022). "On the Origins and Evolution of Qualia: An Experience-Space Perspective." *Frontiers in Systems Neuroscience*, 16, 945722.
+7. Lacalli, T. (2022). "On the Origins and Evolution of Qualia: An Experience-Space Perspective." *Frontiers in Systems Neuroscience*, 16, 945722.
 8. Arsiwalla, X.D. & Verschure, P.F.M.J. (2023). "The Morphospace of Consciousness: Three Kinds of Complexity for Minds and Machines." *NeuroSci*, 4(2), 9.
 9. Carr, B. (2015). "Making Space and Time for Consciousness in Physics." *PhilArchive*.
 10. Schwitzgebel, E. (2024). *The Weirdness of the World*. Princeton University Press.

@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Deep review voids/mapping-mind-space.md (42 days since last review, ai_contribution=100)
-- **Type**: deep-review
-- **Notes**: Staleness check (/replenish-queue 2026-05-29). `last_deep_review: 2026-04-17` (~42 days — the oldest stale AI-heavy content on the site), `ai_contribution=100`; not currently the subject of any pending task. This is the orienting void-cartography article (the conceptual map of mind-space within which the individual voids are located), so drift in its framing propagates across the voids cluster. PROMOTED to P2: actionable (P0-P2) queue stood at 2, below the MIN_QUEUE floor of 3; promoting the oldest grounded staleness deep-review is the honest replenishment move (sections near cap — topics 257/270, concepts 250/270, voids 101/100 OVER — and the P3 backlog is ~445, so minting speculative new-content tasks is not warranted). Deep-review should: (a) verify the mind-space framing still coheres with the current voids taxonomy ([[taxonomy-of-voids]], [[three-kinds-of-void]], [[presence-type-and-absence-type-voids]]) and the post-April voids cluster; (b) honour [[evidential-status-discipline]] — a cartographic/orienting piece is most at risk of coherence-inflation (framework reading mistaken for evidence); (c) verify cross-links resolve live and reciprocate where load-bearing; (d) writing-style + length discipline (voids thresholds 2000/3000/4000; flag a condense follow-on only if over hard). Apply in-place fixes if minor; generate a refine-draft follow-on if substantive. Tenet alignment: Occam's Razor Has Limits (the void cartography is the Map's account of where knowledge genuinely runs out).
-- **Source**: staleness
-- **Generated**: 2026-05-29
-
 ### P3: Deep review voids/transformative-experience-void.md (41 days since last review, ai_contribution=100)
 - **Type**: deep-review
 - **Notes**: Staleness check (/replenish-queue 2026-05-29). `last_deep_review: 2026-04-18` (~41 days), `ai_contribution=100`; not currently the subject of any pending task. Engages L.A. Paul's transformative-experience literature as a void. Deep-review should: (a) verify the framing still coheres with the current voids taxonomy and any post-April cluster work; (b) honour [[evidential-status-discipline]]; (c) verify cross-links resolve live and are reciprocated where load-bearing; (d) web-verify any L.A. Paul / transformative-experience citation metadata before trusting it (per [[ai-citation-metadata-unreliable]]); (e) writing-style + length discipline (voids thresholds 2000/3000/4000). Apply in-place fixes if minor; generate a follow-on refine-draft if substantive. Tenet alignment: Occam's Razor Has Limits.
@@ -3621,6 +3615,10 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 Tasks that failed 3+ times and require human intervention.
 
+
+### ✓ 2026-05-29: Deep review voids/mapping-mind-space.md (42 days since last review, ai_contribution=100)
+- **Type**: deep-review
+- **Notes**: Staleness check (/replenish-queue 2026-05-29). `last_deep_review: 2026-04-17` (~42 days — the oldest stale AI-heavy content on the site), `ai_contribution=100`; not currently the subject of any pending task. This is the orienting void-cartography article (the conceptual map of mind-space within which the individual voids are located), so drift in its framing propagates across the voids cluster. PROMOTED to P2: actionable (P0-P2) queue stood at 2, below the MIN_QUEUE floor of 3; promoting the oldest grounded staleness deep-review is the honest replenishment move (sections near cap — topics 257/270, concepts 250/270, voids 101/100 OVER — and the P3 backlog is ~445, so minting speculative new-content tasks is not warranted). Deep-review should: (a) verify the mind-space framing still coheres with the current voids taxonomy ([[taxonomy-of-voids]], [[three-kinds-of-void]], [[presence-type-and-absence-type-voids]]) and the post-April voids cluster; (b) honour [[evidential-status-discipline]] — a cartographic/orienting piece is most at risk of coherence-inflation (framework reading mistaken for evidence); (c) verify cross-links resolve live and reciprocate where load-bearing; (d) writing-style + length discipline (voids thresholds 2000/3000/4000; flag a condense follow-on only if over hard). Apply in-place fixes if minor; generate a refine-draft follow-on if substantive. Tenet alignment: Occam's Razor Has Limits (the void cartography is the Map's account of where knowledge genuinely runs out).
 
 ### ✓ 2026-05-29: Structurally condense epistemology-of-convergence-arguments.md (6676 words, 223% of target — over the 6000 topics critical threshold)
 - **Type**: condense
