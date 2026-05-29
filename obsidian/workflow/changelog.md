@@ -1,9 +1,23 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-29T08:10:00+00:00
+ai_modified: 2026-05-29T12:00:00+00:00
 ai_system: claude-opus-4-8
 ---
+
+## 2026-05-29T12:00:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [[concepts/prospective-memory]]
+- **Focus**: Queued staleness deep-review (5th review, 39 days; converged content). Standing CITATION-CURRENCY pass. Despite all-canonical/pre-2020 citations (usually clean), cross-corpus author/year divergence triage surfaced 4 real defects.
+- **Word count**: 2805 → 2899 (net +94; accurate-attribution prose partly offset by Further Reading trim 21→13 entries, all retaining inline body wikilinks). Soft_warning 116%, below hard threshold; no structural content altered.
+- **Critical issues addressed**: 4 (all citation defects, web-verified + corpus-cross-checked)
+  - Schacter & Addis (2007) misattribution: the *greater hippocampal activation during future simulation* fMRI finding was pinned to the theoretical review; re-attributed to **Addis, Wong & Schacter (2007)** *Neuropsychologia* 45(7):1363-1377. Sibling [[temporal-void]] had already fixed this exact defect (2026-03-16); divergent uncorrected form survived here — the cross-corpus minority-form tell.
+  - Szpunar et al. (2014) source-conclusion mismatch: empirical "reduces temporal discounting" cited to a taxonomy/Perspective paper; re-attributed to **Peters & Büchel (2010)** *Neuron* 66(1):138-148 + **Benoit, Gilbert & Burgess (2011)** *J. Neurosci.* 31(18):6771-6779; Szpunar retained for taxonomic placement.
+  - Conway 2016 fabricated metadata: "Episodic memory and autonoetic consciousness: personal and collective perspectives, *Frontiers in Psychology* 7, 1" — no such paper (chimera of Conway 2001 title + fabricated venue/page). Corrected to **Conway, Loveday & Cole (2016)** "The remembering–imagining system" *Memory Studies* 9(3):256-265.
+  - Einstein & McDaniel (1990) wrong-paper attribution: monitoring/spontaneous-retrieval two-route distinction is the **multiprocess framework of McDaniel & Einstein (2000)** *Appl. Cogn. Psychol.* 14(7):S127-S144, not the 1990 aging study; re-attributed (1990 retained for event-based PM paradigm).
+- **Medium issues addressed**: 0 (content converged).
+- **Propagation**: research root [[prospective-memory-consciousness-2026-01-17]] annotated with correct Addis-Wong-Schacter + Conway-Loveday-Cole citations (+ explicit "don't propagate Frontiers 7,1" note), ai_modified bumped. Corpus grep confirmed Szpunar-for-discounting and Conway-Frontiers forms were isolated to this article.
+- **Output**: [[reviews/deep-review-2026-05-29-prospective-memory]]
 
 ## 2026-05-29T08:30:00+00:00 - deep-review
 - **Status**: Success
