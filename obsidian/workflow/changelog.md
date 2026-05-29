@@ -1,9 +1,22 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-29T05:58:12+00:00
+ai_modified: 2026-05-29T06:02:38+00:00
 ai_system: claude-opus-4-8
 ---
+
+## 2026-05-29T06:02:38+00:00 - deep-review
+- **Status**: Success
+- **File**: [[topics/birch-edge-of-sentience-and-the-five-tier-scale]]
+- **Pass type**: Citation-currency (cycle-slot standing guidance). Target selected for high post-2020 niche-citation density; article already at substantive convergence (2026-05-06).
+- **Word count**: 3748 → 3748 (length-neutral; like-for-like citation correction only)
+- **Critical issues addressed**: 1 — **author misattribution**. The 2025 *Animal Welfare* refinement paper was cited as "Singh, A., Pinto, A., et al. (2025)"; WEB-VERIFIED against the primary source (PMC12058431): actual authors are **Fischer, B., Gottlieb, J., Schnell, A. K., & Barrett, M.** (*Animal Welfare*, 34, e28). "Singh" and "Pinto" do not appear in the byline. Title/journal/year/three-refinements all correct — byline fabricated. Fixed in-text + References in the article AND at the originating root (`research/birch-edge-of-sentience-precautionary-framework-2026-05-05.md`, 5 occurrences). Historical changelog/completed-task archive copies left intact (append-only record).
+- **Medium issues addressed**: 0
+- **Citations web-verified**: 3 — Fischer et al. 2025 (byline FIXED; PMC primary source); Birch 2022 *Noûs* 56(1):133-153 (clean; DOI 10.1111/nous.12351); Schwitzgebel & Sinnott-Armstrong 2025 review essay (clean — co-authorship, Birch/Sebo/Keane subjects, and all three load-bearing claims accurate). Canonical refs (Birch 2024 OUP, 2012 Cambridge, 2024 NY Declaration, SEP, Mindscape 292, Birch et al. 2021 DEFRA) near-no-op clean per guidance.
+- **Source-conclusion**: Fischer et al. claim supported by source (defends framework + proposes the three named refinements). No source-misuse, scope error, or reverse-of-finding.
+- **Calibration**: diagnostic test re-applied to all tier placements (LLM-outside-scheme, *C. elegans*, Hydra/slime molds, insects/decapods); all preserved verbatim. No possibility/probability slippage. Engagement modes unchanged (Schwitzgebel-SA + O'Brien remain Mode Three); no label leakage.
+- **Detection tell**: grep of "Singh/Pinto" vs "Fischer" across corpus confirmed the wrong byline was the article+research-note minority form; root-fixed both. Defect matched the predicted post-2020 niche-specialist cluster.
+- **Output**: [[reviews/deep-review-2026-05-29-birch-edge-of-sentience-and-the-five-tier-scale]]
 
 ## 2026-05-29T05:58:12+00:00 - refine-draft
 - **Status**: Success
