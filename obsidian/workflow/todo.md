@@ -37,12 +37,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Deep review concepts/delegatory-causation.md (37 days since last review, ai_contribution=100, Tenet 3 load-bearing)
-- **Type**: deep-review
+### P3: Fix divergent Saad 2025 citation title in apex/what-consciousness-tells-us-about-physics.md
+- **Type**: refine-draft
 - **Status**: pending
-- **File**: obsidian/concepts/delegatory-causation.md
-- **Notes**: Staleness check (/replenish-queue 2026-05-29). Actionable (P0-P2) queue stood at 2, below the MIN_QUEUE floor of 3; promoting grounded tenet-load-bearing staleness deep-reviews is the honest replenishment move (sections near cap — topics 257/270, concepts 250/270, voids 101/100 over — and the P3 backlog is ~445, so minting speculative new-content tasks is not warranted). `last_deep_review: 2026-04-22` (~37 days), `ai_contribution=100`; not currently the subject of any pending deep-review task (the active "delegatory-dualism" deep-review is a *different* file). This concept is core to the Map's response to the causal-exclusion / overdetermination problem (preemption-not-overdetermination), so it is directly **Tenet 3 (Bidirectional Interaction)** load-bearing. Deep-review should: (a) verify the delegatory/trumping-preemption account stays consistent with [[trumping-preemption]], [[selection-only-mind-influence]], [[multi-mind-collapse-problem]] and the post-April corridor/selection cluster; (b) honour [[evidential-status-discipline]] — the causal-relevance claim is structural, NOT empirically evidenced, and must not slip into possibility/probability overclaim; (c) verify cross-links resolve live and are reciprocated where load-bearing; (d) writing-style + length discipline (no "This is not X. It is Y." cliché). Apply in-place fixes if minor; generate a follow-on refine-draft if substantive. Tenet alignment: Tenet 3 (Bidirectional Interaction), Tenet 1 (Dualism).
-- **Source**: staleness
+- **File**: obsidian/apex/what-consciousness-tells-us-about-physics.md
+- **Notes**: Found during the 2026-05-29 delegatory-causation citation-currency pass. Line ~253 cites Saad 2025 as `"Against Causal Closure." *Philosophical Studies*` — this is the MINORITY/divergent form corpus-wide and is suspect per the attractor-name triage. The corpus-canonical and web-verified title is **"A dualist theory of experience," *Philosophical Studies* 182(3), 939-967, DOI 10.1007/s11098-025-02290-3** (verified clean 2026-05-29 against Springer/PhilPapers). Before changing: web-verify whether Saad has a SEPARATE 2025 paper actually titled "Against Causal Closure" (he may — check his Brown/Oxford publications page) — if so, confirm the in-text claim it supports matches that paper rather than the dualist-theory paper; if not, normalise the title to the canonical form. No fabricated replacement. Cheap, single-instance fix.
+- **Source**: deep-review
 - **Generated**: 2026-05-29
 
 ### P2: Deep review topics/the-psychophysical-control-law.md (36 days since last review, ai_contribution=100, Tenet 2/3 load-bearing)
@@ -3613,6 +3613,10 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 Tasks that failed 3+ times and require human intervention.
 
+
+### ✓ 2026-05-29: Deep review concepts/delegatory-causation.md (37 days since last review, ai_contribution=100, Tenet 3 load-bearing)
+- **Type**: deep-review
+- **Notes**: Staleness check (/replenish-queue 2026-05-29). Actionable (P0-P2) queue stood at 2, below the MIN_QUEUE floor of 3; promoting grounded tenet-load-bearing staleness deep-reviews is the honest replenishment move (sections near cap — topics 257/270, concepts 250/270, voids 101/100 over — and the P3 backlog is ~445, so minting speculative new-content tasks is not warranted). `last_deep_review: 2026-04-22` (~37 days), `ai_contribution=100`; not currently the subject of any pending deep-review task (the active "delegatory-dualism" deep-review is a *different* file). This concept is core to the Map's response to the causal-exclusion / overdetermination problem (preemption-not-overdetermination), so it is directly **Tenet 3 (Bidirectional Interaction)** load-bearing. Deep-review should: (a) verify the delegatory/trumping-preemption account stays consistent with [[trumping-preemption]], [[selection-only-mind-influence]], [[multi-mind-collapse-problem]] and the post-April corridor/selection cluster; (b) honour [[evidential-status-discipline]] — the causal-relevance claim is structural, NOT empirically evidenced, and must not slip into possibility/probability overclaim; (c) verify cross-links resolve live and are reciprocated where load-bearing; (d) writing-style + length discipline (no "This is not X. It is Y." cliché). Apply in-place fixes if minor; generate a follow-on refine-draft if substantive. Tenet alignment: Tenet 3 (Bidirectional Interaction), Tenet 1 (Dualism).
 
 ### ✓ 2026-05-29: Fix the PCI/Φ temporal-precedence citation in concepts/active-reboot.md (cites 2024–2025 papers that don't support the ordering claim)
 - **Type**: refine-draft

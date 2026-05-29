@@ -1,9 +1,22 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-29T07:40:19+00:00
+ai_modified: 2026-05-29T07:44:13+00:00
 ai_system: claude-opus-4-8
 ---
+
+## 2026-05-29T07:44:13+00:00 - deep-review
+- **Status**: Success
+- **File**: [[concepts/delegatory-causation]]
+- **Focus**: Queued staleness deep-review (37 days, Tenet 3 load-bearing) — CITATION-CURRENCY + CALIBRATION standing pass
+- **Word count**: ~3464 → 3394 (−70, length-neutral)
+- **Critical issues addressed**: 0 (3rd review, converged; no misattribution / dropped-qualifier / possibility-probability slippage)
+- **Medium issues addressed**: 1 (orphan Torres Alegre 2025 reference — listed in References but never cited in-body — anchored to its supporting Born-rule claim with corpus-standard preprint flag; same flag added to archived default-causal-profile.md)
+- **Calibration**: Clean. Article consistently calibrates delegation as structural possibility, not evidenced mechanism; no tenet-coherence used to upgrade evidential status. One over-strong physics assertion softened ("Born rule imposes by necessity" → "argued to be required ... (Torres Alegre 2025)") — anti-mush recast of one contested claim, not blanket hedging.
+- **Citation web-verify**: Saad 2025 metadata + source-conclusion verified clean (Phil. Studies 182(3) 939-967, DOI 02290-3, correct DOI not an attractor form). Schaffer 2000 / Lewis 1973+2000 / Kim 2005 canonical, corpus-consistent. Out-of-scope finding: apex/what-consciousness-tells-us-about-physics.md:253 cites Saad 2025 with divergent wrong title "Against Causal Closure" — flagged for follow-up.
+- **Engagement modes** (editor-internal): epiphenomenalism — Mode One (defective on own terms, self-undermining argument); strict empiricist — Mode Three (framework-boundary marking); no label leakage.
+- **Enhancements made**: 1 (orphan-ref anchor)
+- **Output**: [[reviews/deep-review-2026-05-29-delegatory-causation]]
 
 ## 2026-05-29T07:40:19+00:00 - deep-review
 - **Status**: Success
