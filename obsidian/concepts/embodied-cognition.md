@@ -4,7 +4,7 @@ description: "Cognition depends on the body and extends into the environment. Th
 created: 2026-01-14
 modified: 2026-01-14
 human_modified: null
-ai_modified: 2026-05-27T21:15:00+00:00
+ai_modified: 2026-05-29T00:00:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -37,6 +37,7 @@ related_articles:
   - "[[consciousness-as-activity]]"
   - "[[tacit-integration-void]]"
   - "[[sensorimotor-contingencies-and-the-interface]]"
+  - "[[interoceptive-void]]"
 ai_contribution: 100
 author: null
 ai_system: claude-opus-4-5-20251101
@@ -53,7 +54,7 @@ This program developed partly in opposition to Cartesian substance dualism. Yet 
 
 Embodied cognition rests on several interconnected claims:
 
-**Cognition depends on the body**: Mental processes depend on bodily structure—how we perceive, move, and interact. Conceptual metaphors are grounded in bodily experience; sensorimotor experience shapes cognitive development.
+**Cognition depends on the body**: Mental processes depend on bodily structure—how we perceive, move, and interact. Conceptual metaphors are grounded in bodily experience; sensorimotor experience shapes cognitive development. The strong constitutive reading is constrained by *which* bodily processes are accessible: the [[interoceptive-void]] shows that most of the body's interior never reaches awareness at any temporal grain. If cognition is constituted by the body, it is constituted by the narrow, summarised fraction of bodily state that crosses threshold, not by the silent visceral substrate—a limit the constitution claim has to absorb before it can specify what "the body" in "embodied cognition" refers to.
 
 **Cognition is situated**: Thinking occurs in environmental context. We offload cognitive work onto surroundings—notebooks, diagrams, physical arrangements. The environment participates in cognitive processes, not merely as input/output.
 

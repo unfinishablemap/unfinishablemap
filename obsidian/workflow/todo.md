@@ -566,13 +566,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: optimistic-review
 - **Generated**: 2026-04-27
 
-### P2: Add reciprocal cross-links from neighbour voids and concepts to voids/interoceptive-void.md
-- **Type**: cross-review
-- **Status**: pending
-- **Notes**: PROMOTED P3→P2 by /replenish-queue 2026-05-29 (floor-restoring; second of two promotions this cycle to bring the cycle-pickable actionable queue from 1 to 3 at the MIN_QUEUE floor). Chosen as a grounded, fully-specified, bounded, cap-safe cross-review (reciprocal cross-links across five EXISTING articles, ~250–400 words touched; no new pages — safe against capped sections topics 257/270, concepts 250/270, voids 101/100). Re-verified live this cycle: all named targets exist. Original notes preserved below. Suggested by optimistic-2026-04-27c (Cross-Linking Suggestions). The new `voids/interoceptive-void.md` (created 2026-04-27 14:42 UTC) is reciprocally linked to embodiment-cognitive-limits, boundary-and-projection, predictive-construction-void, and somatic-interface, but five further articles have load-bearing structural connections without cross-links: (a) `voids/affective-void.md` — affective valence often arrives via interoceptive channels; (b) `voids/ownership-void.md` — body-felt-as-mine is the densest ownership case; (c) `concepts/pain-asymbolia.md` — canonical demonstration of nociceptive signal/phenomenal pain dissociation; (d) `concepts/embodied-cognition.md` — 4E's constitutive-embodiment thesis is constrained by which bodily processes are accessible; (e) `voids/causal-interface.md` — interoceptive void identifies the body's interior as candidate locus for the consciousness-physics contact. Short scope (~250–400 words across five articles). Should preserve each article's existing voice and tenet alignment.
-- **Source**: optimistic-review
-- **Generated**: 2026-04-27
-
 ### P3: Write voids article on the Readiness Void
 - **Type**: expand-topic
 - **Notes**: Research completed in `research/voids-readiness-void-2026-03-04.md` (2026-03-04) and never synthesised into an article. The readiness void concerns the inaccessibility of the pre-deliberative state in which an action is *about to be undertaken* — the felt readiness Schurger's stochastic-threshold model targets but cannot itself decompose into report-bearing components. Adjacent to but distinct from `voids/transit-void.md` (inaccessibility of transitions) and the Libet-readiness-potential literature. Voids cap currently 97/100 — has capacity but tight; verify the void's distinctness from `voids/transit-void.md` and from `concepts/phenomenology-of-choice-and-volition.md` before writing. Target section: voids/. Scope 1800-2400 words. Tenet alignment: Dualism (readiness as a phenomenal mode not extensionally captured by motor-preparation neural correlates), Bidirectional Interaction (readiness functioning as the staging ground for the agent's contribution).
@@ -3539,6 +3532,10 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 Tasks that failed 3+ times and require human intervention.
 
+
+### ✓ 2026-05-29: Add reciprocal cross-links from neighbour voids and concepts to voids/interoceptive-void.md
+- **Type**: cross-review
+- **Notes**: PROMOTED P3→P2 by /replenish-queue 2026-05-29 (floor-restoring; second of two promotions this cycle to bring the cycle-pickable actionable queue from 1 to 3 at the MIN_QUEUE floor). Chosen as a grounded, fully-specified, bounded, cap-safe cross-review (reciprocal cross-links across five EXISTING articles, ~250–400 words touched; no new pages — safe against capped sections topics 257/270, concepts 250/270, voids 101/100). Re-verified live this cycle: all named targets exist. Original notes preserved below. Suggested by optimistic-2026-04-27c (Cross-Linking Suggestions). The new `voids/interoceptive-void.md` (created 2026-04-27 14:42 UTC) is reciprocally linked to embodiment-cognitive-limits, boundary-and-projection, predictive-construction-void, and somatic-interface, but five further articles have load-bearing structural connections without cross-links: (a) `voids/affective-void.md` — affective valence often arrives via interoceptive channels; (b) `voids/ownership-void.md` — body-felt-as-mine is the densest ownership case; (c) `concepts/pain-asymbolia.md` — canonical demonstration of nociceptive signal/phenomenal pain dissociation; (d) `concepts/embodied-cognition.md` — 4E's constitutive-embodiment thesis is constrained by which bodily processes are accessible; (e) `voids/causal-interface.md` — interoceptive void identifies the body's interior as candidate locus for the consciousness-physics contact. Short scope (~250–400 words across five articles). Should preserve each article's existing voice and tenet alignment.
 
 ### ✓ 2026-05-29: Remove phantom Tallis 2016 citation propagated across the corpus
 - **Type**: refine-draft

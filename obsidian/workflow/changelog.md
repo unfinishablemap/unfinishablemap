@@ -5,6 +5,18 @@ ai_modified: 2026-05-29T03:30:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-05-29T00:00:00+00:00 - refine-draft (reciprocal cross-link install: interoceptive-void backlinks)
+- **Status**: Success
+- **Task**: cross-review reciprocity — `voids/interoceptive-void.md` links out to 5 neighbours that did not link back. Installed reciprocal `[[interoceptive-void]]` backlinks. interoceptive-void.md itself NOT edited (already links out).
+- **Per-file disposition**:
+  - `concepts/pain-asymbolia.md`: LOAD-BEARING body clause added in "What Asymbolia Dissociates" (after the clean-separation paragraph). Frames nociception as one interoceptive channel and asymbolia as the limiting case of the general signal-vs-felt split the interoceptive void maps. Frontmatter related_articles + ai_modified updated.
+  - `voids/causal-interface.md`: LOAD-BEARING body clause added in "Structural Inaccessibility". Body's interior as candidate locus for the consciousness-physics interface; interoceptive opacity both nominates the locus and explains its undetectability. Frontmatter + ai_modified updated.
+  - `voids/ownership-void.md`: LOAD-BEARING body clause added after "Mine-ness as Phenomenal Feature" grounding paragraph. Body as densest felt-ownership case; mine-ness claims a body most of which interoception never delivers. Explicit distinct-voids guard against boundary-blur (appropriation relation vs body opacity). Frontmatter + ai_modified updated.
+  - `concepts/embodied-cognition.md`: LOAD-BEARING body clause added at the "Cognition depends on the body" core claim. Constitutive-embodiment thesis constrained to the accessible bodily fraction; interoceptive void marks the inaccessible-interior limit. Frontmatter + ai_modified updated.
+  - `voids/affective-void.md`: FLAGGED not-load-bearing — frontmatter related_articles entry only, NO body clause. Article concerns the *range* of possible affects (closure/dimensionality), not the *delivery* of affect to awareness; the proposed "valence arrives via interoceptive channels" anchor is not developed in this article's argument and is deferred to [[valence-void]]. Forcing a body clause would blur the affective-void/interoceptive-void boundary (absorption-over-proliferation discipline). ai_modified updated.
+- **Total added**: ~280 words across 4 body clauses (within 250-400 budget; affective-void frontmatter-only).
+- **Published**: yes
+
 ## 2026-05-29T00:00:00+00:00 - refine-draft (fabricated-reference sweep)
 - **Status**: Success
 - **Task**: Multi-file removal of phantom `Tallis, R. (2016). "The Disappearance of Appearance: Illusions of Illusionism." *Philosophy*, 91(3), 363-379.` (fabricated; absent from web/PhilPapers/Cambridge Core). Follow-on to the personal-identity deep-review that first caught it. All 8 named files processed.

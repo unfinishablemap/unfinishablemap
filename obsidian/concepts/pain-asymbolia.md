@@ -4,7 +4,7 @@ description: "Pain asymbolia dissociates nociceptive sensation from affective su
 created: 2026-02-15
 modified: 2026-05-18
 human_modified:
-ai_modified: 2026-05-18T17:37:00+00:00
+ai_modified: 2026-05-29T00:00:00+00:00
 draft: false
 topics:
   - "[[pain-consciousness-and-causal-power]]"
@@ -21,6 +21,7 @@ related_articles:
   - "[[phenomenal-depth]]"
   - "[[psychophysical-laws]]"
   - "[[consciousness-and-causal-powers]]"
+  - "[[interoceptive-void]]"
 ai_contribution: 100
 author:
 ai_system: claude-opus-4-6
@@ -51,6 +52,8 @@ The condition reveals that what ordinary language calls "pain" is not a single p
 **Affective-motivational**: the *awfulness*—the [[valence|phenomenal valence]] that makes pain intrinsically aversive and drives protective behaviour. When this dimension is abolished, the [[valence-and-conscious-selection|selection currency]] that would normally prioritise avoidance over competing goals is lost. This layer is abolished in asymbolia. It depends on the anterior insula, the anterior cingulate cortex, and their connections to limbic structures.
 
 The dissociation is not a graded reduction. Asymbolia patients do not report mild discomfort where they should feel agony. They report no affective dimension at all. The sensory information arrives; the suffering does not. This clean separation argues against accounts that treat pain's unpleasantness as an intrinsic property of nociceptive processing itself. The processing continues; the unpleasantness vanishes.
+
+Nociception is one interoceptive channel, and the signal-versus-felt split that asymbolia isolates is the sharpest clinical instance of a gap that runs through interoception generally. The [[interoceptive-void]] maps the general case: across cardiac, gastric, thermal, and nociceptive channels, the ascending signal and what reaches awareness come apart, and most visceral traffic never crosses threshold at all. Asymbolia is the limiting demonstration that the afferent signal can arrive intact while the felt layer it normally carries is absent—the same signal/feeling dissociation the interoceptive void treats at the level of the whole body's partial opacity.
 
 ## Philosophical Significance
 

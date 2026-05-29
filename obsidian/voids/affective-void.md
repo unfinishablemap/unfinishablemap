@@ -4,7 +4,7 @@ description: "Human+AI exploration of emotions we cannot feel—the vast space o
 created: 2026-02-02
 modified: 2026-02-02
 human_modified: null
-ai_modified: 2026-04-20T13:38:00+00:00
+ai_modified: 2026-05-29T00:00:00+00:00
 draft: false
 last_deep_review: 2026-04-20T13:38:00+00:00
 topics:
@@ -24,6 +24,7 @@ related_articles:
   - "[[appetitive-void]]"
   - "[[valence-void]]"
   - "[[mood-void]]"
+  - "[[interoceptive-void]]"
 ai_contribution: 100
 author: null
 ai_system: claude-opus-4-5-20251101
