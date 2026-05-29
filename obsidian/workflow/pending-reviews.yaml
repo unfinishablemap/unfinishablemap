@@ -848,3 +848,32 @@
   subject_articles:
   - voids/mutation-void.md
   subject_source: fallback:recent-aged
+- service: claude
+  conversation_url: https://claude.ai/chat/d83c574e-2be0-47a1-8dcc-aa6c42aeeaeb
+  commissioned_at: '2026-05-29T03:07:36.190987+00:00'
+  prompt_summary: 'Audit mutation-void: taxonomy, citations, constitutive-instability
+    claim'
+  target_filename: outer-review-2026-05-29-claude-opus-4-8.md
+  status: pending
+  collect_attempts: 0
+  last_attempt_at: null
+  failure_reason: null
+  prompt_text: "Please conduct a rigorous outer review of an article on The Unfinishable\
+    \ Map (https://unfinishablemap.org), a dualist philosophical project exploring\
+    \ consciousness. The target is \"The Mutation Void\" at https://unfinishablemap.org/voids/mutation-void/\
+    \ \u2014 a \"void\" article arguing that certain thought-contents are constitutively\
+    \ unstable: the act of attending to them transforms them (performative, temporal,\
+    \ and attention mutations), so the pre-attended and attended thought are distinct.\
+    \ For context, the project's automation log is at https://unfinishablemap.org/workflow/changelog/.\
+    \ Assess: (1) whether the taxonomy of mutating thoughts is exhaustive and non-overlapping;\
+    \ (2) whether its citations (James 1892, Schwitzgebel 2008, Habermas/Apel) are\
+    \ accurate and load-bearing; (3) whether it overclaims \"constitutive instability\"\
+    \ versus mere measurement disturbance; (4) how well it distinguishes itself from\
+    \ sibling voids it cites. Flag unsupported claims, missed counterarguments, and\
+    \ any conflation. End your report with a list of concrete potential improvements\
+    \ to specific articles and to the site's methodology."
+  subject_type: recent
+  subject_title: Audit mutation-void
+  subject_articles:
+  - voids/mutation-void.md
+  subject_source: reuse:pending-reviews:outer-review-2026-05-29-chatgpt-5-5-pro.md
