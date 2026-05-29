@@ -3,7 +3,7 @@ title: Research Notes - Dreams, Problem-Solving, and Lucid Dreaming
 created: 2026-02-06
 modified: 2026-02-06
 human_modified: null
-ai_modified: 2026-03-05T21:11:00+00:00
+ai_modified: 2026-05-29T00:00:00+00:00
 draft: false
 topics: []
 concepts: []
@@ -35,7 +35,7 @@ Dreams occupy a unique position in the philosophy of consciousness: they are con
 ### Konkoly et al. (2026) — Dream incubation and problem-solving
 - **URL**: https://academic.oup.com/nc/article/2026/1/niaf067/8456489
 - 20 participants; soundtracks for unsolved puzzles played during REM (targeted memory reactivation)
-- 75% had dreams incorporating puzzle fragments; puzzles in dreams solved 42% vs. 17% for non-incorporated
+- puzzles incorporated into dreams solved 39% vs. 16% for non-incorporated (9 of 23 incorporated puzzles solved)
 - Cues influenced non-lucid dreams—lucidity not required for the effect
 - **Tenet relevance**: Supports Bidirectional Interaction—dream consciousness actively solves problems, not merely replaying memories
 
@@ -48,7 +48,7 @@ Dreams occupy a unique position in the philosophy of consciousness: they are con
 ### Haar Horowitz et al. (2020) — Dormio targeted dream incubation device
 - **URL**: https://pmc.ncbi.nlm.nih.gov/articles/PMC7590944/
 - Wearable device plays prompts during N1 sleep to guide dream content
-- Increased creativity by 43%; 15 seconds in N1 tripled creative insight chances
+- Significantly increased post-sleep creative performance across three tasks vs. control (no percentage reported; z-score composite); the "15 seconds in N1 tripled insight" figure is from Lacaux et al. 2021, not this study
 - Demonstrates graded transitions in consciousness, not binary on/off
 
 ### Voss et al. (2014) — Gamma stimulation induces lucid dreaming
@@ -113,7 +113,7 @@ Dreams occupy a unique position in the philosophy of consciousness: they are con
 |------|-------|--------------|
 | 2009 | Hobson, protoconsciousness hypothesis | REM dreaming as foundation for waking consciousness |
 | 2014 | Voss et al. (Nature Neuroscience) | Causal induction of lucid dreaming via gamma stimulation |
-| 2020 | Haar Horowitz et al., Dormio device | Targeted dream incubation; 43% creativity boost |
+| 2023 | Haar Horowitz et al. (Scientific Reports), Dormio device | Targeted dream incubation significantly boosts post-sleep creativity |
 | 2021 | Konkoly et al. (Current Biology) | Two-way communication with lucid dreamers across four labs |
 | 2025 | Demirel et al. (EEG/fMRI) | Neural triad of lucid consciousness; stable third phase |
 | 2026 | Konkoly et al. (Neuroscience of Consciousness) | Dream incubation doubles puzzle-solving rate |

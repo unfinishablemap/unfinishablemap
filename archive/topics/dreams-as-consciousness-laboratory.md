@@ -71,11 +71,11 @@ Konkoly et al. (2021) extended signal verification into genuine dialogue. Across
 
 ### Targeted Memory Reactivation
 
-The Konkoly et al. (2026) study introduced a method for experimentally influencing dream content. When puzzle-associated soundtracks were played during REM sleep, dreamers who incorporated those puzzles into their dreams solved them at more than double the rate of non-incorporated puzzles (42% versus 17%). Though the sample was small (N=20), pre-selected for lucid dreaming ability, and awaits replication, the study provides preliminary causal evidence that dream incorporation improves problem-solving—not through memory consolidation alone, but through active cognitive processing within the dream.
+The Konkoly et al. (2026) study introduced a method for experimentally influencing dream content. When puzzle-associated soundtracks were played during REM sleep, dreamers who incorporated those puzzles into their dreams solved them at more than double the rate of non-incorporated puzzles (39% versus 16%). Though the sample was small (N=20), pre-selected for lucid dreaming ability, and awaits replication, the study provides preliminary causal evidence that dream incorporation improves problem-solving—not through memory consolidation alone, but through active cognitive processing within the dream.
 
 ### Sleep-Onset Incubation
 
-MIT's Dormio device (Haar Horowitz et al., 2020) targets the hypnagogic transition into N1 sleep, delivering audio prompts during the narrow window where consciousness is loosening but not yet fully asleep. Participants who received targeted incubation showed 43% greater creativity on subsequent tasks. Lacaux et al. (2021) found that spending as little as fifteen seconds in N1 sleep tripled the probability of mathematical insight. These findings isolate the contribution of the transitional state itself—not rest, not time, but the specific cognitive mode of loosened consciousness.
+MIT's Dormio device (Haar Horowitz et al., 2023) targets the hypnagogic transition into N1 sleep, delivering audio prompts during the narrow window where consciousness is loosening but not yet fully asleep. Participants who received targeted incubation showed significantly greater creative performance across three post-sleep tasks than control groups. Lacaux et al. (2021) found that spending as little as fifteen seconds in N1 sleep tripled the probability of mathematical insight. These findings isolate the contribution of the transitional state itself—not rest, not time, but the specific cognitive mode of loosened consciousness.
 
 ### Gamma-Band Lucidity Induction
 

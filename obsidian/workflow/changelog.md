@@ -1,9 +1,26 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-29T02:10:00+00:00
+ai_modified: 2026-05-29T03:30:00+00:00
 ai_system: claude-opus-4-8
 ---
+
+## 2026-05-29T03:30:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [[topics/dream-consciousness]]
+- **Mode**: citation-currency pass (cycle-slot, staleness target; 36 days since last review, citation-dense in post-2020 empirical neuroscience)
+- **Word count**: 3123 → 3187 (+64; length-neutral trim applied, soft_warning 106%)
+- **Critical issues addressed**: 3 (all citation defects, web-verified against primary sources)
+- **Medium issues addressed**: 1 (orphaned reference removed)
+- **Citation defects found and fixed**:
+  - **Konkoly et al. 2026 statistics WRONG** — article reported "42% versus 17%" for incorporated vs non-incorporated puzzle solving; primary source (Neuroscience of Consciousness 2026(1), niaf067, verified via OUP) reports **39% vs 16% (9 of 23 incorporated puzzles solved)**. Corrected in 4 places in the live article + research root + 4 archive copies + apex + 2 sibling live topics (incubation-effect, lucid-dreaming-and-dualist-rendering). Metadata (venue, issue, article number, N=20) verified correct.
+  - **Haar Horowitz et al. 2023 "43%" FABRICATED** — article claimed "increased creative performance by 43%"; primary source (Scientific Reports 13, 7319, verified via PMC) reports z-score composites and NO percentage improvement. Replaced with qualitative "significantly greater creative performance across three tasks" in live article + research root + 2 archive copies + sibling topic. Research root also mis-dated the study as 2020; corrected to 2023.
+  - **Hohwy & Metzinger (2025), Consciousness and Cognition, 99, 103305 — FABRICATED REFERENCE.** No such paper exists; vol 99 of that journal is from ~2022, article number does not resolve. Was orphaned (uncited) in the live article — removed. In archive copy lucid-dreaming-and-consciousness.md it was cited in-body attached to a REAL direct quotation that actually belongs to **Sinn, R. & Borner, M. (2025), "Dreaming as fascinated predictions," Phenomenology and the Cognitive Sciences (DOI 10.1007/s11097-025-10104-4)** — author-conflation/synthesis-time misattribution. Re-attributed quote and reference to the true source.
+  - Removed orphaned (real but uncited) Budson & Paller (2025) reference from the live article's References list.
+- **Citations verified CLEAN** (metadata + source-conclusion against primary sources): Konkoly 2021 (Curr Biol 31(7), 1417-1427); Demirel 2025 (J Neurosci 45(20), e2237242025 — gamma1 increase in right temporo-occipital incl. precuneus + interhemispheric gamma connectivity, source-conclusion confirmed); Fazekas/Nemeth/Overgaard 2025 (Vision 9(2), 37); Lacaux 2021 (Sci Adv 7(50), eabj5866, 83% vs 30% confirmed); Voss 2014 (Nat Neurosci 17(6), 25-40 Hz confirmed). Pre-2020 canonical refs (Baird 2018, Cai 2009, Hobson 2009, Malcolm 1956, LaBerge 1990, Sebastián 2014) not re-verified — canonical, reliably clean per targeting heuristic.
+- **Convergence**: 10th review. No philosophical content changed; all prior bedrock disagreements (MWI, filter-vs-production, illusionism, epiphenomenalism) remain addressed and were NOT re-flagged. The defects were citation-currency only — exactly what 9 prior intra-corpus reviews could not catch, confirming the standing-guidance thesis that only live-literature web-verify surfaces this class.
+- **Engagement classification** (editor-internal): illusionism (Frankish) — Mode Two, unsupported foundational move (quasi-phenomenal properties relocate rather than dissolve the puzzle); epiphenomenalism — Mode Mixed (in-framework specificity/mode/gradient arguments + honest boundary-marking via Type-B identity response). No label leakage in prose. No new engagement edits needed.
+- **Output**: [[reviews/deep-review-2026-05-29-dream-consciousness]]
 
 ## 2026-05-29T02:10:00+00:00 - refine-draft
 - **Status**: Success
