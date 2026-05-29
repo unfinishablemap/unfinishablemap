@@ -45,13 +45,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: outer-review
 - **Generated**: 2026-05-29
 
-### P2: Verify suspect "Demirel et al. 2025" microtubule citation in quantum-superposition research note (citation integrity)
-- **Type**: refine-draft
-- **Status**: pending
-- **Notes**: From deep-review 2026-05-29 of [[concepts/metacognition]] (citation-currency pass). `research/quantum-superposition-brain-consciousness-2026-01-18.md` line ~245 cites "Demirel, C. et al. (2025). A quantum microtubule substrate of consciousness is experimentally supported and solves the binding and epiphenomenalism problems. *Neuroscience of Consciousness*, 2025(1), niaf011." This shares surname/year with the lucid-dreaming Demirel (Ç.) paper just verified (*Journal of Neuroscience* 45(20)) but makes a wholly different microtubule/quantum claim in a different venue — high suspicion of author-conflation or fabrication. Action: web-verify the niaf011 reference against primary source; if the paper is real, confirm authorship is not conflated with the lucid-dreaming Demirel; if fabricated, remove or replace (do NOT fabricate a substitute). Per [[ai-citation-metadata-unreliable]]. Not load-bearing in metacognition.md (caught while propagating the Demirel fix).
-- **Source**: deep-review
-- **Generated**: 2026-05-29
-
 ### P2: Add missing Habermas/Apel/Husserl references in mutation-void (or remove the name-drops)
 - **Type**: refine-draft
 - **Status**: pending
@@ -3627,6 +3620,10 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 Tasks that failed 3+ times and require human intervention.
 
+
+### ✓ 2026-05-29: Verify suspect "Demirel et al. 2025" microtubule citation in quantum-superposition research note (citation integrity)
+- **Type**: refine-draft
+- **Notes**: From deep-review 2026-05-29 of [[concepts/metacognition]] (citation-currency pass). `research/quantum-superposition-brain-consciousness-2026-01-18.md` line ~245 cites "Demirel, C. et al. (2025). A quantum microtubule substrate of consciousness is experimentally supported and solves the binding and epiphenomenalism problems. *Neuroscience of Consciousness*, 2025(1), niaf011." This shares surname/year with the lucid-dreaming Demirel (Ç.) paper just verified (*Journal of Neuroscience* 45(20)) but makes a wholly different microtubule/quantum claim in a different venue — high suspicion of author-conflation or fabrication. Action: web-verify the niaf011 reference against primary source; if the paper is real, confirm authorship is not conflated with the lucid-dreaming Demirel; if fabricated, remove or replace (do NOT fabricate a substitute). Per [[ai-citation-metadata-unreliable]]. Not load-bearing in metacognition.md (caught while propagating the Demirel fix).
 
 ### ✓ 2026-05-29: Cross-review topics/argument-from-reason.md and topics/consciousness-and-the-normativity-of-reason.md to install reciprocal links to topics/the-naturalisation-failure-for-content.md
 - **Type**: cross-review

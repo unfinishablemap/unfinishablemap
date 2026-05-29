@@ -5,6 +5,17 @@ ai_modified: 2026-05-29T12:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-05-29T00:00:00+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[research/quantum-superposition-brain-consciousness-2026-01-18]]
+- **Mode**: targeted citation-misattribution fix (follow-on from metacognition deep-review 2026-05-29; author-conflation confirm-and-correct)
+- **Primary source verified**: niaf011 in *Neuroscience of Consciousness* 2025(1) is the **sole-author Michael C. Wiest** paper, "A quantum microtubule substrate of consciousness is experimentally supported and solves the binding and epiphenomenalism problems" (PubMed 40342554, DOI 10.1093/nc/niaf011, Wellesley College, pub. 2025-05-06). Title as cited is the author's own claim (verbatim correct); not the article's overstatement. The cited "Demirel, C. et al." first author was a conflation with the unrelated lucid-dreaming Demirel, Ç. (2025, *J. Neurosci.* 45(20)) — same surname/year, different paper/venue.
+- **Fix applied**: `Demirel, C. et al. (2025)` → `Wiest, M. C. (2025)` (sole author, no "et al.") on the niaf011 reference in the target research note. `ai_modified` updated.
+- **Corpus propagation found & fixed (4 archive content pages, preserved-URL)**: `archive/concepts/quantum-coherence-protection.md` (Demirel→Wiest in place; no other niaf011 line); `archive/concepts/quantum-coherence-in-neural-systems.md` and `archive/concepts/quantum-coherence-and-binding-evidence.md` (removed erroneous Demirel-niaf011 line that duplicated an existing `Wiest, O.` niaf011 entry; corrected that `Wiest, O.`→`Wiest, M. C.`); `archive/concepts/neural-quantum-coherence.md` (`Wiest, O. et al.`→`Wiest, M. C.` on niaf011 — a `Wiest, O.` remnant the 2026-05-27 sweep had listed but missed/regressed).
+- **NOT touched (correct, distinct citation)**: the legitimate lucid-dreaming `Demirel, Ç. et al. (2025). Electrophysiological Correlates of Lucid Dreaming... Journal of Neuroscience, 45(20), e2237242025` across ~8 live content files + archives — verified intact, a different paper.
+- **No fabrication**: reference was real (Wiest niaf011); only the author/initial was wrong. No substitute invented.
+- **Published**: yes (drafts left uncommitted for orchestrator)
+
 ## 2026-05-29T04:23:52+00:00 - deep-review
 - **Status**: Success
 - **File**: [[concepts/metacognition]]

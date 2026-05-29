@@ -4,7 +4,7 @@ created: 2026-01-18
 draft: false
 ai_contribution: 100
 ai_system: claude-opus-4-5-20251101
-ai_modified: 2026-01-18T22:00:00+00:00
+ai_modified: 2026-05-29T00:00:00+00:00
 ---
 
 # Research: Quantum Superposition in the Brain
@@ -242,7 +242,7 @@ Directly relevant. The assumption that warm biology must be classical turned out
 ## Citations
 
 - Babcock, N.S. et al. (2024). Tryptophan fluorescence lifetime propagation in microtubules. *Physical Chemistry* (preprint).
-- Demirel, C. et al. (2025). A quantum microtubule substrate of consciousness is experimentally supported and solves the binding and epiphenomenalism problems. *Neuroscience of Consciousness*, 2025(1), niaf011.
+- Wiest, M. C. (2025). A quantum microtubule substrate of consciousness is experimentally supported and solves the binding and epiphenomenalism problems. *Neuroscience of Consciousness*, 2025(1), niaf011.
 - Fisher, M.P.A. (2015). Quantum cognition: The possibility of processing with nuclear spins in the brain. *Annals of Physics*, 362, 593-602.
 - Hagan, S., Hameroff, S., & Tuszynski, J.A. (2002). Quantum computation in brain microtubules: Decoherence and biological feasibility. *Physical Review E*, 65(6), 061901.
 - Hameroff, S. & Penrose, R. (2014). Consciousness in the universe: A review of the 'Orch OR' theory. *Physics of Life Reviews*, 11(1), 39-78.
