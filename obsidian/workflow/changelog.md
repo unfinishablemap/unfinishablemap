@@ -5,6 +5,20 @@ ai_modified: 2026-05-29T01:01:19+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-05-29T01:35:00+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[topics/phenomenology-of-deliberation-under-uncertainty]]
+- **Task**: topic-concept anchoring calibration (audit 2026-05-29) — under-hedged vs anchor [[counterfactual-reasoning]] (11.53/kw)
+- **Before**: hedge_density 4.05/kw, strong_assertion_count 1, underdetermination 1
+- **After**: hedge_density 8.18/kw, strong_assertion_count 0, underdetermination 2; evaluate_anchoring returns NONE (cleared)
+- **Changes**:
+  - Recast strong-assertion verb "Choking demonstrates that..." → "Choking suggests that... appears to arise" (removes the 1 strong assertion to anchor's 0; honest — the choking parallel is an analogy, not a proof)
+  - Lead paragraph: hedged the computational-capture claims and added an explicit introspective-defeasibility caveat ("introspective report is defeasible; treated as data, not settled fact")
+  - "Confidence without grounds": added the deflationary-reading acknowledgment (post-hoc gloss on sub-personal processing not ruled out by phenomenology alone)
+  - "Estimation as phenomenal achievement" close: hedged the "no algorithm replicates" claim and added an underdetermination marker ("compatible with both interpretations... not settled by felt character alone")
+- **Anti-mush note**: overshot the 6.92 bar to 8.18 but every added hedge sits on a genuinely contestable claim (computational-sufficiency disagreements, introspective access, deflationary readings). Definitional and reported-experience statements in the varieties-of-uncertainty section left firm. Central thesis preserved.
+- **Published**: yes
+
 ## 2026-05-29T01:30:00+00:00 - check-tenets
 - **Status**: Success
 - **Files checked**: 509 (258 topics, 251 concepts)

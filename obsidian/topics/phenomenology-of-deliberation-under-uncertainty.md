@@ -4,7 +4,7 @@ description: "What it feels like to decide when outcomes are unknowable—the ve
 created: 2026-02-09
 modified: 2026-04-24
 human_modified:
-ai_modified: 2026-05-26T18:46:03+00:00
+ai_modified: 2026-05-29T00:00:00+00:00
 draft: false
 topics:
   - "[[topics/free-will]]"
@@ -38,7 +38,7 @@ last_curated:
 last_deep_review: 2026-05-26T18:46:03+00:00
 ---
 
-Deciding under uncertainty feels different from deciding with full information. The Unfinishable Map proposes that this difference is not merely cognitive but phenomenal—that deliberation under genuine uncertainty has a distinctive experiential texture involving vertigo, estimation, and a particular form of commitment that reveals something important about consciousness. When you choose without knowing how things will turn out, the felt character of the choice changes in ways that computational models of decision-making cannot capture. The openness is not just epistemic but experiential: it colours attention, shapes effort, and demands a kind of courage that determined or fully-informed decision-making never requires.
+Deciding under uncertainty feels different from deciding with full information. The Unfinishable Map proposes that this difference is not merely cognitive but phenomenal—that deliberation under genuine uncertainty has a distinctive experiential texture involving vertigo, estimation, and a particular form of commitment that reveals something important about consciousness. When you choose without knowing how things will turn out, the felt character of the choice seems to change in ways that computational models of decision-making may not capture. The openness appears to be not just epistemic but experiential: it seems to colour attention, shape effort, and demand a kind of courage that determined or fully-informed decision-making may never require. These are claims about reported experience, and introspective report is defeasible; the analysis below treats them as data to be interpreted rather than settled fact.
 
 ## The Felt Landscape of Not Knowing
 
@@ -66,7 +66,7 @@ This vertigo has several components:
 
 Deliberative vertigo is not a dysfunction. The Map proposes it is consciousness registering something real: the genuine openness of the situation. A system that merely computed expected utilities would not experience vertigo because vertigo arises from the recognition that computation is inadequate. The felt groundlessness tracks an actual absence of sufficient ground.
 
-The same structure appears in [[empirical-phenomena-mental-causation|choking under pressure]]: expert performers experience a version of deliberative vertigo directed at execution rather than decision. Under performance anxiety, consciousness registers a mismatch between what explicit monitoring can provide and what the task demands, producing inappropriate self-focused intervention that degrades automatised skill. Choking demonstrates that deliberative vertigo is not confined to choice — it arises wherever consciousness confronts the limits of its own explicit resources.
+The same structure appears in [[empirical-phenomena-mental-causation|choking under pressure]]: expert performers experience a version of deliberative vertigo directed at execution rather than decision. Under performance anxiety, consciousness registers a mismatch between what explicit monitoring can provide and what the task demands, producing inappropriate self-focused intervention that degrades automatised skill. Choking suggests that deliberative vertigo may not be confined to choice — it appears to arise wherever consciousness confronts the limits of its own explicit resources.
 
 ## Estimation as Phenomenal Achievement
 
@@ -78,11 +78,11 @@ This reaching-beyond involves:
 
 **Pattern recognition without pattern.** The mind searches for analogies, partial matches, structural similarities to past experience. But under genuine uncertainty, the analogies are imperfect and the mind knows they are imperfect. The phenomenology is of *approximate* recognition—"this is somewhat like that, but..."
 
-**Confidence without grounds.** Sometimes estimation produces a feeling of confidence that outruns the evidence. Experienced practitioners report this frequently: a gut sense that something is the right call, accompanied by an inability to articulate why. This is not mere bias (though it can be). It is consciousness integrating information in ways that exceed explicit reasoning—what the [[phenomenology-of-intellectual-life|phenomenology of epistemic cognition]] describes as the felt weight of considerations that resist propositional articulation.
+**Confidence without grounds.** Sometimes estimation produces a feeling of confidence that outruns the evidence. Experienced practitioners report this frequently: a gut sense that something is the right call, accompanied by an inability to articulate why. This need not be mere bias (though it may be). It may be consciousness integrating information in ways that exceed explicit reasoning—what the [[phenomenology-of-intellectual-life|phenomenology of epistemic cognition]] describes as the felt weight of considerations that resist propositional articulation. The deflationary reading—that the feeling is a post-hoc gloss on sub-personal processing—is not ruled out by the phenomenology alone.
 
 **The effort of holding open.** Estimation requires maintaining multiple possibilities in mind simultaneously without collapsing prematurely to one. This is [[mental-effort|cognitively effortful]] in a specific way: the mind wants to resolve, to settle on an answer. Resisting premature resolution—staying with uncertainty long enough to estimate well—requires sustained [[attention-as-interface|attentional effort]] that feels like deliberate work.
 
-Estimation under uncertainty thus involves consciousness doing something that no purely algorithmic process replicates: generating a judgment from insufficient data through integrative awareness that draws on experience, felt coherence, and imaginative projection. This is phenomenal achievement—something consciousness accomplishes, not something that happens to it.
+Estimation under uncertainty may thus involve consciousness doing something that purely algorithmic process arguably does not replicate: generating a judgment from insufficient data through integrative awareness that draws on experience, felt coherence, and imaginative projection. On the Map's reading this is phenomenal achievement—something consciousness accomplishes, not something that happens to it. A defender of computational sufficiency could contest the "no algorithm replicates this" claim; the phenomenological description is compatible with both interpretations, and the disagreement is not settled by the felt character alone.
 
 ## The Moment of Commitment
 
