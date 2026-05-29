@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-28
-ai_modified: 2026-05-27 21:00:00+00:00
+ai_modified: 2026-05-29 03:27:45+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -19,12 +19,11 @@ description: QBism interprets quantum states as subjective beliefs, not objectiv
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-04-18 04:18:00+00:00
+last_deep_review: 2026-05-29 03:27:45+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
 - '[[vertiginous-question]]'
-- '[[pragmatism-and-qbism]]'
 - '[[pragmatist-quantum-foundations-and-the-agent]]'
 title: QBism (Quantum Bayesianism)
 topics:
@@ -33,7 +32,7 @@ topics:
 
 QBism (Quantum Bayesianism) is an interpretation of quantum mechanics that treats quantum states as representing an agent's subjective beliefs rather than objective features of reality. Developed primarily by Christopher Fuchs, Carlton Caves, and Rüdiger Schack, QBism dissolves the [measurement-problem](/concepts/measurement-problem/) by denying there was ever an objective wave function to collapse. "Collapse" is simply belief-updating—the agent learns something and revises their expectations.
 
-Fuchs explicitly positioned QBism as furthering Wheeler's [participatory universe](/topics/wheelers-participatory-universe-and-it-from-bit/) program and its ["it from bit"](/topics/wheelers-participatory-universe-and-it-from-bit/) thesis, coining the term "participatory realism" in 2017 to mark the connection. He has also been explicit that QBism's philosophical roots lie in classical American [pragmatism](/concepts/pragmatism/), with William James as "veritable mascot" of the programme. QBism is one member of a broader [pragmatist family in quantum foundations](/topics/pragmatist-quantum-foundations-and-the-agent/) (alongside Healey, Brukner-Zeilinger, and Stapp); the [Jamesian genealogy](/topics/pragmatist-quantum-foundations-and-the-agent/) is treated in dedicated detail elsewhere.
+Fuchs explicitly positioned QBism as furthering Wheeler's [participatory universe](/topics/wheelers-participatory-universe-and-it-from-bit/) program and its ["it from bit"](/topics/wheelers-participatory-universe-and-it-from-bit/) thesis, coining the term "participatory realism" in 2017 to mark the connection. He has also been explicit that QBism's philosophical roots lie in classical American [pragmatism](/concepts/pragmatism/), with William James as "veritable mascot" of the programme. QBism is one member of a broader [pragmatist family in quantum foundations](/topics/pragmatist-quantum-foundations-and-the-agent/) (alongside Healey, Brukner-Zeilinger, and Stapp), where its Jamesian genealogy and the agent-shaped hole it leaves are treated in dedicated detail.
 
 For The Unfinishable Map, QBism presents a paradox: it makes agents epistemically central to quantum mechanics yet provides no account of what agents *are*. QBism presupposes that agents have determinate experiences to form beliefs about, treating the source of such experience as given rather than explained. The Map holds that this is precisely what requires explanation.
 
@@ -63,7 +62,7 @@ QBism's deepest tension concerns its central concept: the agent.
 
 **The experience presupposition.** For an agent to update beliefs upon measurement, they must have determinate experiences—they must *find* something, not merely exist in correlation with outcomes. QBism takes for granted exactly what the [hard-problem-of-consciousness](/topics/hard-problem-of-consciousness/) asks us to explain: why there is something it is like to be an agent at all.
 
-**Consciousness is assumed, not explained.** QBism's agents aren't rocks or thermostats; they're subjects with experiences. The interpretation works only because such subjects exist. But QBism offers no resources for understanding *why* they exist or how experience arises. The difficulty is not merely theoretical: [2025 covert consciousness findings](/topics/experimental-consciousness-science-2025-2026/) show that up to 25% of patients diagnosed as vegetative harbour awareness without behavioural expression—demonstrating that agent status cannot be determined by functional or behavioural criteria, exactly the gap QBism's primitive-agent stance leaves open.
+**Consciousness is assumed, not explained.** QBism's agents aren't rocks or thermostats; they're subjects with experiences. The interpretation works only because such subjects exist. But QBism offers no resources for understanding *why* they exist or how experience arises. The difficulty is not merely theoretical: [2025 covert consciousness findings](/topics/experimental-consciousness-science-2025-2026/) show that around 25% of behaviourally non-responsive patients with disorders of consciousness harbour awareness without behavioural expression—demonstrating that agent status cannot be determined by functional or behavioural criteria, exactly the gap QBism's primitive-agent stance leaves open.
 
 ## QBism Versus Other Interpretations
 
@@ -137,8 +136,7 @@ Despite its limitations, QBism contributes several insights the Map affirms:
 
 ## Further Reading
 
-- [pragmatism-and-qbism](/topics/pragmatist-quantum-foundations-and-the-agent/) — QBism's Jamesian genealogy and the agent-shaped hole, treated in focus
-- [pragmatist-quantum-foundations-and-the-agent](/topics/pragmatist-quantum-foundations-and-the-agent/) — QBism situated within the broader pragmatist family (Healey, Brukner-Zeilinger, Stapp), reread under dualism
+- [pragmatist-quantum-foundations-and-the-agent](/topics/pragmatist-quantum-foundations-and-the-agent/) — QBism's Jamesian genealogy and the agent-shaped hole, situated within the broader pragmatist family (Healey, Brukner-Zeilinger, Stapp) and reread under dualism
 - [quantum-interpretations](/concepts/quantum-interpretations/) — Survey of interpretations and their consciousness implications
 - [qm-interpretations-beyond-many-worlds](/topics/qm-interpretations-beyond-many-worlds/) — QBism evaluated alongside other interpretations for consciousness compatibility
 - [measurement-problem](/concepts/measurement-problem/) — The puzzle QBism claims to dissolve

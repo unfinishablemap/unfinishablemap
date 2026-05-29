@@ -5,6 +5,18 @@ ai_modified: 2026-05-29T12:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-05-29T03:27:45+00:00 - deep-review
+- **Status**: Success
+- **File**: [[concepts/qbism]]
+- **Word count**: 2181 → ~2175 (link consolidation; 87% of soft threshold, length-neutral)
+- **Citation-currency pass (primary obligation)**: all 5 load-bearing external citations web-verified clean on both metadata + source-conclusion axes (Fuchs-Mermin-Schack 2014 AJP 82(8):749-754; Fuchs 2017 Mind & Matter 15(2):245-300; Fuchs 2017 "On Participatory Realism" in Durham & Rickles eds., pp.113-134 Springer; Caves-Fuchs-Schack 2002 PRA 65:022305; DeBrota-Fuchs-Schack 2020 Found. Phys. 50:1859-1874). Prior fork's canonical-profile prediction confirmed. No corpus propagation needed.
+- **Critical issues addressed**: 1 — archival link rot. The 2026-04-18 review added 3 `[[pragmatism-and-qbism]]` links; that article was coalesced into [[pragmatist-quantum-foundations-and-the-agent]] one day later (2026-04-19), leaving the links pointing at the archive-notice page. Repointed all 3 (frontmatter, inline, Further Reading) to the live replacement; removed resulting frontmatter duplicate; merged redundant Further Reading entry. Reciprocity verified (target backlinks qbism 3x).
+- **Medium issues addressed**: 0 (article at convergence; license-to-near-no-op exercised)
+- **Enhancements made**: 0 (length-neutral, no forced edits)
+- **Engagement modes** (editor-internal): QBism/Fuchs agent presupposition = Mode Two (unsupported foundational move, uses QBism's own structural commitment); MWI indexical objection = Mode Three (framework-boundary, honestly marked). No label leakage.
+- **Tenet 2/5 integrity**: QBism steelmanned; no possibility/probability slippage; parsimony contrast held as structural not evidential-tier.
+- **Output**: [[reviews/deep-review-2026-05-29-qbism]]
+
 ## 2026-05-29T12:00:00+00:00 - deep-review
 - **Status**: Success
 - **File**: [[topics/experimental-consciousness-science-2025-2026]]

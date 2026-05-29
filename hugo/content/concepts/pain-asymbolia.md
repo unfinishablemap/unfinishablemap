@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-15
-ai_modified: 2026-05-18 17:37:00+00:00
+ai_modified: 2026-05-29 00:00:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -27,6 +27,7 @@ related_articles:
 - '[[phenomenal-depth]]'
 - '[[psychophysical-laws]]'
 - '[[consciousness-and-causal-powers]]'
+- '[[interoceptive-void]]'
 title: Pain Asymbolia
 topics:
 - '[[pain-consciousness-and-causal-power]]'
@@ -54,6 +55,8 @@ The condition reveals that what ordinary language calls "pain" is not a single p
 **Affective-motivational**: the *awfulness*—the [phenomenal valence](/concepts/valence/) that makes pain intrinsically aversive and drives protective behaviour. When this dimension is abolished, the [selection currency](/topics/valence-and-conscious-selection/) that would normally prioritise avoidance over competing goals is lost. This layer is abolished in asymbolia. It depends on the anterior insula, the anterior cingulate cortex, and their connections to limbic structures.
 
 The dissociation is not a graded reduction. Asymbolia patients do not report mild discomfort where they should feel agony. They report no affective dimension at all. The sensory information arrives; the suffering does not. This clean separation argues against accounts that treat pain's unpleasantness as an intrinsic property of nociceptive processing itself. The processing continues; the unpleasantness vanishes.
+
+Nociception is one interoceptive channel, and the signal-versus-felt split that asymbolia isolates is the sharpest clinical instance of a gap that runs through interoception generally. The [interoceptive-void](/voids/interoceptive-void/) maps the general case: across cardiac, gastric, thermal, and nociceptive channels, the ascending signal and what reaches awareness come apart, and most visceral traffic never crosses threshold at all. Asymbolia is the limiting demonstration that the afferent signal can arrive intact while the felt layer it normally carries is absent—the same signal/feeling dissociation the interoceptive void treats at the level of the whole body's partial opacity.
 
 ## Philosophical Significance
 

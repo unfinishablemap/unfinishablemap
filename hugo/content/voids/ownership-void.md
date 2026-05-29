@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-24
-ai_modified: 2026-05-26 12:00:26+00:00
+ai_modified: 2026-05-29 00:00:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -34,6 +34,7 @@ related_articles:
 - '[[comparative-phenomenology-of-meditative-traditions]]'
 - '[[transit-void]]'
 - '[[vertiginous-question]]'
+- '[[interoceptive-void]]'
 title: The Ownership Void
 topics:
 - '[[philosophy-of-mind]]'
@@ -53,6 +54,8 @@ Dan Zahavi argues that for-me-ness is not added to experience by reflection but 
 Heidegger's *Jemeinigkeit* makes a stronger ontological claim. Mine-ness is not a contingent psychological feature but an existential structure of Dasein: being is always "mine to be." Even inauthenticity—losing oneself in the crowd—is a *mode* of mine-ness, not its absence. On this reading, ownership is prior to any subject-object distinction, prior to any analysis that might decompose it.
 
 If these accounts are correct, the ownership void is a structural limit rather than a gap in our knowledge waiting to be filled. You cannot get behind ownership to explain it because ownership is presupposed by every explanation.
+
+The body is the densest case of felt ownership: it is *mine* in a way no external object is, and bodily disownership (the depersonalised "behind glass" body, somatoparaphrenic limb-disavowal) is among the most vivid disruptions of mine-ness. Yet the [interoceptive-void](/voids/interoceptive-void/) shows that the body so owned is mostly silent—most visceral state never reaches awareness, and what does arrives summarised. Felt ownership therefore extends over a substrate the subject has almost no access to: mine-ness claims the whole body while interoception delivers only a fraction of it. The two voids are distinct (one concerns the appropriation relation, the other the body's opacity to awareness), but the densest instance of the first runs over the territory the second maps.
 
 ## When Ownership Vanishes
 

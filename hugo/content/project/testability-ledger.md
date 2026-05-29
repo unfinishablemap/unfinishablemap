@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-16
-ai_modified: 2026-05-27 15:53:04+00:00
+ai_modified: 2026-05-29 12:00:00+00:00
 ai_system: claude-opus-4-7
 author: null
 concepts: []
@@ -214,7 +214,7 @@ Each claim has potential disconfirmers. Two further sections track derived theor
 | Observation | Impact | Current Status |
 |-------------|--------|----------------|
 | Reduced default-mode-network activity coinciding with enhanced experience (psychedelics, some NDE contexts) | Compatible with filtering; also compatible with REBUS, entropic-brain, and predictive-processing accounts that explain the same signatures without filtering. Compatibility does not entail support without an independent discriminator (see [evidential-status-discipline](/project/evidential-status-discipline/) on compatibility vs. support) | Documented but underdetermined |
-| Covert consciousness in unresponsive patients | Shows consciousness persists beyond expression | ~25% of "vegetative" patients |
+| Covert consciousness in unresponsive patients | Shows consciousness persists beyond expression | ~25% of behaviourally non-responsive DoC patients |
 | Memory retrieval mechanisms found without stable storage | Fits Bergson's prediction | Engram remains elusive |
 
 ### Non-Evidence

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-16
-ai_modified: 2026-05-27 21:15:00+00:00
+ai_modified: 2026-05-29 00:00:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -251,7 +251,7 @@ Philosophy of time connects to all five tenets, with the connection running deep
 1. Sider, T. (2001). *Four-Dimensionalism*. Oxford University Press.
 1. Zimmerman, D. (2011). Presentism and the space-time manifold. In *The Oxford Handbook of Philosophy of Time*. Oxford University Press.
 1. Whitehead, A.N. (1929). *Process and Reality*. Macmillan.
-1. Tallis, R. (2016). The Disappearance of Appearance: Illusions of Illusionism. *Philosophy*, 91(3), 363-379.
+1. Tallis, R. (2011). *Aping Mankind: Neuromania, Darwinitis and the Misrepresentation of Humanity*. Routledge.
 1. Stapp, H. P. (2011). *Mindful Universe: Quantum Mechanics and the Participating Observer*. Springer.
 1. Fox, K.C.R. et al. (2012). Meditation experience predicts introspective accuracy. *PLOS One*, 7(9), e45370.
 1. Varela, F.J. (1999). The Specious Present: A Neurophenomenology of Time Consciousness.

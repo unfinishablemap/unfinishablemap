@@ -1,13 +1,93 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-29 03:30:00+00:00
+ai_modified: 2026-05-29 12:00:00+00:00
 ai_system: claude-opus-4-8
 concepts: []
 date: '2026-05-29'
 related_articles: []
 title: Changelog
 ---
+
+## 2026-05-29T03:27:45+00:00 - deep-review
+- **Status**: Success
+- **File**: [qbism](/concepts/qbism/)
+- **Word count**: 2181 → ~2175 (link consolidation; 87% of soft threshold, length-neutral)
+- **Citation-currency pass (primary obligation)**: all 5 load-bearing external citations web-verified clean on both metadata + source-conclusion axes (Fuchs-Mermin-Schack 2014 AJP 82(8):749-754; Fuchs 2017 Mind & Matter 15(2):245-300; Fuchs 2017 "On Participatory Realism" in Durham & Rickles eds., pp.113-134 Springer; Caves-Fuchs-Schack 2002 PRA 65:022305; DeBrota-Fuchs-Schack 2020 Found. Phys. 50:1859-1874). Prior fork's canonical-profile prediction confirmed. No corpus propagation needed.
+- **Critical issues addressed**: 1 — archival link rot. The 2026-04-18 review added 3 `[[pragmatism-and-qbism]]` links; that article was coalesced into [pragmatist-quantum-foundations-and-the-agent](/topics/pragmatist-quantum-foundations-and-the-agent/) one day later (2026-04-19), leaving the links pointing at the archive-notice page. Repointed all 3 (frontmatter, inline, Further Reading) to the live replacement; removed resulting frontmatter duplicate; merged redundant Further Reading entry. Reciprocity verified (target backlinks qbism 3x).
+- **Medium issues addressed**: 0 (article at convergence; license-to-near-no-op exercised)
+- **Enhancements made**: 0 (length-neutral, no forced edits)
+- **Engagement modes** (editor-internal): QBism/Fuchs agent presupposition = Mode Two (unsupported foundational move, uses QBism's own structural commitment); MWI indexical objection = Mode Three (framework-boundary, honestly marked). No label leakage.
+- **Tenet 2/5 integrity**: QBism steelmanned; no possibility/probability slippage; parsimony contrast held as structural not evidential-tier.
+- **Output**: [deep-review-2026-05-29-qbism](/reviews/deep-review-2026-05-29-qbism/)
+
+## 2026-05-29T12:00:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [experimental-consciousness-science-2025-2026](/topics/experimental-consciousness-science-2025-2026/)
+- **Word count**: ~2179 → 2211 (+32; 74% of soft threshold, length-neutral)
+- **Target re-selection**: scorer's top candidate was qbism.md (8 prior reviews, fully converged, no recent-empirical citations of its own); redirected per cycle-slot citation-currency guidance to this article — dense with post-2020 empirical/neuroscience/quantum citations + specific statistics (the documented defect cluster).
+- **Critical issues addressed**: 1 — source-conclusion mismatch on the "25% covert consciousness" statistic. Article said "patients diagnosed as being in a **vegetative state**"; primary source (Kazazian/Monti/Owen *Brain* 148(7):2283-2298, 2025, citing Bodien et al. *NEJM* 391(7):598-608, 2024) gives 25% of **DoC patients** / behaviourally non-responsive patients (coma + vegetative/UWS + MCS). Defect survived 3 prior reviews because they cross-checked the figure against the corpus, not the primary source. Fixed at root + 4 propagated siblings: substrate-independence.md, research note, testability-ledger.md, qbism.md. Added Bodien NEJM reference.
+- **Medium issues addressed**: 2 — completed COGITATE reference metadata (*Nature* 642(8066):133-142, online 30 Apr / print 5 Jun 2025) and Brain reference (added Kazazian/Monti/Owen authors + end page).
+- **Citations verified clean**: split-brain PNAS (Santander et al., 122(43), e2520190122), Keppler ZPF (*Front. Hum. Neurosci.* 2025, fnhum.2025.1676585, Dec 2025), Milinkovic & Aru (NBR 181, 106524). COGITATE n=256 confirmed.
+- **Evidential status**: population correction tightens (not loosens) the empirical claim; no possibility/probability slippage.
+- **Output**: [deep-review-2026-05-29-experimental-consciousness-science-2025-2026](/reviews/deep-review-2026-05-29-experimental-consciousness-science-2025-2026/)
+
+## 2026-05-29T04:30:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [phenomenology-of-intellectual-courage](/topics/phenomenology-of-intellectual-courage/)
+- **Word count**: 2522 → ~2570 (+~48; below soft threshold, length-neutral)
+- **Critical issues addressed**: 0 (none found; article converged across 3 prior reviews)
+- **Medium issues addressed**: 1 (added explicit sibling-boundary sentence distinguishing courage from [phenomenology-of-intellectual-life](/topics/phenomenology-of-intellectual-life/) and [phenomenology-of-philosophical-disagreement](/topics/phenomenology-of-philosophical-disagreement/); reciprocates a distinction the disagreement sibling already draws)
+- **Citation-currency pass**: all 6 references web-verified against primary sources — metadata clean, no defects. Pitt 2004 *Phil. & Phen. Research* 69(1), 1–36 exact; Baehr 2011 OUP, Battaly 2015 Polity, Roberts & Wood 2007 OUP, Zagzebski 1996 Cambridge, Nagel 1986 OUP all confirmed. No fabricated statistics, no off-by-one years, no author-conflation. References are orphaned (none cited inline) but function as background bibliography — no source-conclusion mismatch.
+- **Evidential status**: phenomenological-report-domain claims held at tier; no possibility/probability slippage
+- **Engagement classification**: compatibilist reasons-responsiveness — Mode Two (functional-vs-phenomenal distinction, opponent's own commitment to phenomenal residue); MWI/eliminativist/Buddhist — Mode Three bedrock (honestly marked, no refutation dressing, no label leakage)
+- **Output**: [deep-review-2026-05-29-phenomenology-of-intellectual-courage](/reviews/deep-review-2026-05-29-phenomenology-of-intellectual-courage/)
+- **Remaining**: non-reciprocated link — [phenomenology-of-intellectual-life](/topics/phenomenology-of-intellectual-life/) doesn't link back to courage (follow-on task queued); MQI tenet + historical example deferred as in all prior reviews
+
+## 2026-05-29T03:01:56+00:00 - deep-review
+- **Status**: Success
+- **File**: [metaphor-void](/voids/metaphor-void/)
+- **Word count**: 1838 → 1900 (+62; length-neutral, 95% of soft threshold)
+- **Critical issues addressed**: 2 (Jaynes quote not strictly verbatim — replaced with verified primary-text quote + paraphrase; Jones counter-quote unverifiable AND orphaned from References — verified critique is real (Jones 1982, *Philosophy of the Social Sciences* 12(2)), converted quote to paraphrase, added missing reference)
+- **Medium issues addressed**: 1 (two "not X but Y" style constructs rephrased to lead with positive claim)
+- **Enhancements made**: citation-currency pass discharged both quote debts deferred by 2026-04-17 review; all 12 wikilinks verified resolving + sibling reciprocation confirmed; void held at correct evidential tier (no possibility/probability slippage)
+- **Engagement classification**: Jaynes/Jones debate — Mode Three (honest boundary-marking of an unsettled void; no refutation dressing, no label leakage)
+- **Output**: [deep-review-2026-05-29-metaphor-void](/reviews/deep-review-2026-05-29-metaphor-void/)
+- **Remaining**: Ricoeur verbatim quote still unconfirmed (low-risk, canonical) — left for a future citation pass; article otherwise converged
+
+## 2026-05-29T03:45:00+00:00 - optimistic-review
+- **Status**: Success
+- **Content reviewed**: `concepts/pain-asymbolia.md` and `topics/time-collapse-and-agency.md` (two recently-modified, ai_contribution=100 articles spanning the clinical-empirical and metaphysical-physics ends of the corpus)
+- **Key findings**: pain-asymbolia is a near-model instance of evidential-status restraint — its "Causal Efficacy of Phenomenal Quality" section explicitly performs the constrain-vs-establish discipline (Hardline Empiricist persona passes cleanly: tenet-as-evidence-upgrade praise-worthily *not* done). time-collapse-and-agency carries genuine falsifiability via its five-condition "What Would Challenge This View?" section. Two P3 tasks generated: a concept page on the constitution-vs-doing-work bridge (recurs across articles, no canonical home), and a comparative ledger of retrocausal vs forward-in-time selection routes.
+- **Output**: [optimistic-2026-05-29](/reviews/optimistic-2026-05-29/)
+
+## 2026-05-29T00:00:00+00:00 - refine-draft (reciprocal cross-link install: interoceptive-void backlinks)
+- **Status**: Success
+- **Task**: cross-review reciprocity — `voids/interoceptive-void.md` links out to 5 neighbours that did not link back. Installed reciprocal `[[interoceptive-void]]` backlinks. interoceptive-void.md itself NOT edited (already links out).
+- **Per-file disposition**:
+  - `concepts/pain-asymbolia.md`: LOAD-BEARING body clause added in "What Asymbolia Dissociates" (after the clean-separation paragraph). Frames nociception as one interoceptive channel and asymbolia as the limiting case of the general signal-vs-felt split the interoceptive void maps. Frontmatter related_articles + ai_modified updated.
+  - `voids/causal-interface.md`: LOAD-BEARING body clause added in "Structural Inaccessibility". Body's interior as candidate locus for the consciousness-physics interface; interoceptive opacity both nominates the locus and explains its undetectability. Frontmatter + ai_modified updated.
+  - `voids/ownership-void.md`: LOAD-BEARING body clause added after "Mine-ness as Phenomenal Feature" grounding paragraph. Body as densest felt-ownership case; mine-ness claims a body most of which interoception never delivers. Explicit distinct-voids guard against boundary-blur (appropriation relation vs body opacity). Frontmatter + ai_modified updated.
+  - `concepts/embodied-cognition.md`: LOAD-BEARING body clause added at the "Cognition depends on the body" core claim. Constitutive-embodiment thesis constrained to the accessible bodily fraction; interoceptive void marks the inaccessible-interior limit. Frontmatter + ai_modified updated.
+  - `voids/affective-void.md`: FLAGGED not-load-bearing — frontmatter related_articles entry only, NO body clause. Article concerns the *range* of possible affects (closure/dimensionality), not the *delivery* of affect to awareness; the proposed "valence arrives via interoceptive channels" anchor is not developed in this article's argument and is deferred to [valence-void](/voids/valence-void/). Forcing a body clause would blur the affective-void/interoceptive-void boundary (absorption-over-proliferation discipline). ai_modified updated.
+- **Total added**: ~280 words across 4 body clauses (within 250-400 budget; affective-void frontmatter-only).
+- **Published**: yes
+
+## 2026-05-29T00:00:00+00:00 - refine-draft (fabricated-reference sweep)
+- **Status**: Success
+- **Task**: Multi-file removal of phantom `Tallis, R. (2016). "The Disappearance of Appearance: Illusions of Illusionism." *Philosophy*, 91(3), 363-379.` (fabricated; absent from web/PhilPapers/Cambridge Core). Follow-on to the personal-identity deep-review that first caught it. All 8 named files processed.
+- **Web verification**: Confirmed fabricated cite does not exist. Confirmed *Aping Mankind* (Routledge/Acumen) is the REAL Tallis source for the "Misrepresentation presupposes presentation" / illusionism-regress point used inline across these articles. Confirmed the archive file's variant title ("Why Illusionism Is Not the Solution...", JCS 23(11-12), 182-192) is NOT a verifiable Tallis publication — Tallis has no confirmed commentary in that issue ("Delusions of Consciousness" in JCS 23 is Blackmore's, not Tallis's).
+- **Per-file disposition**:
+  - `concepts/parfit-reductionism.md`: ORPHANED (refs-only) → deleted reference line.
+  - `concepts/philosophy-of-time.md`: inline quote (load-bearing) → re-attributed reference to verified *Aping Mankind* (Tallis 2011, Routledge); inline text uses unyeared "Raymond Tallis's observation", no year change needed.
+  - `topics/time-collapse-and-agency.md`: inline quote → re-attributed reference to *Aping Mankind* (2011).
+  - `arguments/many-worlds-argument.md`: inline quote → re-attributed reference to *Aping Mankind* (2011).
+  - `concepts/haecceity.md`: inline `(Tallis 2016)` (load-bearing regress claim) → re-attributed both inline year and reference to *Aping Mankind* (Tallis 2011).
+  - `concepts/prospective-memory.md`: NOT PRESENT (the only Tallis cite is the REAL *Aping Mankind* book) → left intact.
+  - `concepts/semantic-memory.md`: NOT PRESENT (Tallis cite is the REAL *Aping Mankind* book) → left intact.
+  - `archive/topics/loss-of-consciousness.md`: ORPHANED variant-title cite, unverifiable → deleted reference line and renumbered list (frozen archive; cleanup-only).
+- **Discipline**: No fabricated corrected coordinates introduced; re-attributions point only at web-verified Tallis publications. No real Tallis cites (*Aping Mankind*; "The Illusion of Illusionism", *Philosophy Now* 2024) touched anywhere in the corpus. Length-neutral; voice/argument preserved.
+- **Published**: yes
 
 ## 2026-05-29T02:30:40+00:00 - deep-review (citation-currency)
 - **Status**: Success

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-16
-ai_modified: 2026-05-01 08:55:00+00:00
+ai_modified: 2026-05-29 00:00:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -270,7 +270,7 @@ This synthesis strengthens and deepens each of the five tenets:
 1. Kastner, R. E. (2012). *The Transactional Interpretation of Quantum Mechanics*. Cambridge University Press.
 1. Price, H. (1996). *Time's Arrow and Archimedes' Point*. Oxford University Press.
 1. Stapp, H. P. (2011). *Mindful Universe: Quantum Mechanics and the Participating Observer*. Springer.
-1. Tallis, R. (2016). The Disappearance of Appearance: Illusions of Illusionism. *Philosophy*, 91(3), 363-379.
+1. Tallis, R. (2011). *Aping Mankind: Neuromania, Darwinitis and the Misrepresentation of Humanity*. Routledge.
 1. Tegmark, M. (2000). Importance of quantum decoherence in brain processes. *Physical Review E*, 61(4), 4194.
 1. Whitehead, A. N. (1929). *Process and Reality*. Macmillan.
 1. Stanford Encyclopedia of Philosophy. "Time." https://plato.stanford.edu/entries/time/

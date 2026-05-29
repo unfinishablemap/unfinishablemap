@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-17
-ai_modified: 2026-05-26 19:28:44+00:00
+ai_modified: 2026-05-29 00:00:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -161,6 +161,5 @@ Parfit's reductionism offers a deflationary view of personal identity: there's n
 1. Swinburne, R. (1984). "Personal Identity: The Dualist Theory." In *Personal Identity*, eds. Shoemaker & Swinburne.
 1. Chisholm, R. (1976). *Person and Object*. Open Court.
 1. Johnston, M. (2010). *Surviving Death*. Princeton University Press.
-1. Tallis, R. (2016). "The Disappearance of Appearance: Illusions of Illusionism." *Philosophy*, 91(3), 363-379.
 1. Frankish, K. (2016). "Illusionism as a Theory of Consciousness." *Journal of Consciousness Studies*, 23(11-12), 11-39.
 1. Wallace, D. (2012). *The Emergent Multiverse: Quantum Theory according to the Everett Interpretation*. Oxford University Press.

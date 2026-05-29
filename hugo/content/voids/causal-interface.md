@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-31
-ai_modified: 2026-05-26 09:10:00+00:00
+ai_modified: 2026-05-29 00:00:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -32,6 +32,7 @@ related_articles:
 - '[[what-voids-reveal]]'
 - '[[intrinsic-nature-void]]'
 - '[[what-consciousness-tells-us-about-physics]]'
+- '[[interoceptive-void]]'
 title: The Causal Interface Void
 topics:
 - '[[hard-problem-of-consciousness]]'
@@ -109,6 +110,8 @@ What explains this systematic invisibility?
 If consciousness interfaces with physics at the quantum level—as the [Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction) tenet proposes—then the interaction would occur at scales where observation is inherently limited. The mechanism would be minimal precisely to avoid violating conservation laws and to remain below experimental detection thresholds.
 
 This is not conspiracy but parsimony. A minimal interaction is a small interaction. A small interaction leaves small traces. The opacity is a consequence of the minimality.
+
+If the interface has a bodily locus rather than a purely cortical one, the [interoceptive-void](/voids/interoceptive-void/) marks the most plausible region to look. The body's interior is the substrate consciousness is in closest contact with, yet most of it never reaches awareness—and that same structural opacity, which keeps visceral state below the threshold of experience, would also conceal any consciousness-physics contact occurring there. The interoceptive void thus identifies a candidate locus for the interface while explaining why the locus, if it exists there, would remain undetectable from inside.
 
 ### The Self-Reference Problem
 

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-26
-ai_modified: 2026-05-26 15:56:34+00:00
+ai_modified: 2026-05-29 12:00:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -102,7 +102,7 @@ topics:
 - **URL**: https://academic.oup.com/brain/article/148/7/2283/8042105
 - **Type**: Review paper (peer-reviewed)
 - **Key points**:
-  - Up to 25% of vegetative state patients may have covert consciousness
+  - Around 25% of behaviourally non-responsive patients with disorders of consciousness (coma, vegetative/UWS, minimally conscious) may have covert consciousness — figure from Bodien et al. 2024 NEJM cognitive motor dissociation study, synthesised in this Brain review
   - New multimodal tool integrates EEG, MRI, PET, and other modalities
   - Functional near-infrared spectroscopy (fNIRS) emerging for ICU awareness detection
   - Clinical implementation of neuroimaging for consciousness assessment advancing
