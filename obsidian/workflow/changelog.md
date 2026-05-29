@@ -5,6 +5,18 @@ ai_modified: 2026-05-29T01:01:19+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-05-29T00:00:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [[topics/phenomenology-of-cognitive-limit-types]]
+- **Word count**: 2245 → 2250 (+5)
+- **Critical issues addressed**: 1 — **misattribution** of the "phobic" epistemic-vertigo quote (attributed to Helen De Cruz; actually Duncan Pritchard, "Cavell and Philosophical Vertigo," JHAP 9(9), 2021). Survived four prior reviews because intra-corpus cross-check propagated it; caught only by live-literature web-verify. Root research note (`voids-topology-of-cognitive-failure-2026-01-29`) was correct — the quote-source conflation happened at synthesis. Fixed in-text + reference 2; no propagation (confined to this article).
+- **Medium issues addressed**: 1 — repointed stale `[[imagination-and-creativity-void]]` (archived, coalesced into Creative-Aesthetic Void 2026-04-23) → `[[creative-aesthetic-void]]` in frontmatter + body. Archival-link-rot pattern; content-quality, not build-breaking.
+- **Low issues addressed**: 1 — completed Pronin & Hazel (2023) reference metadata (32(5), 402-409, web-verified).
+- **Citation-currency pass**: recency heuristic held — defect was in a recent/niche cite; canonical cites (Wittgenstein, Margolis, McGinn, Hoffman, Trivers) clean.
+- **Engagement classification**: n/a — article does not reply to named opponents; no Mode One/Two/Three engagements, no label-leakage risk.
+- **Enhancements made**: 0 substantive (length-neutral; prose converged across 4 reviews).
+- **Output**: [[reviews/deep-review-2026-05-29-phenomenology-of-cognitive-limit-types]]
+
 ## 2026-05-29T01:01:19+00:00 - cross-review (reciprocity audit)
 - **Status**: Success
 - **Subject**: [[voids/aspect-perception-void]] sibling reciprocity audit (multi-file; 17 forward-linked siblings, 3 already cross-reviewed: tacit-integration-void, recognition-void, conceptual-scheme-void)

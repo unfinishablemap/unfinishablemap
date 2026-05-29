@@ -4,8 +4,8 @@ description: "Human+AI systematic mapping of how different cognitive limits feel
 created: 2026-03-17
 modified: 2026-03-17
 human_modified:
-ai_modified: 2026-04-18T08:25:00+00:00
-last_deep_review: 2026-04-18T08:25:00+00:00
+ai_modified: 2026-05-29T00:00:00+00:00
+last_deep_review: 2026-05-29T00:00:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -24,7 +24,7 @@ related_articles:
   - "[[self-opacity]]"
   - "[[compound-failure-signatures]]"
   - "[[phenomenology-of-linguistic-failure]]"
-  - "[[imagination-and-creativity-void]]"
+  - "[[creative-aesthetic-void]]"
 ai_contribution: 100
 author:
 ai_system: claude-opus-4-6
@@ -38,7 +38,7 @@ Different cognitive limits feel different from the inside. Hitting a logical par
 
 The [[biological-cognitive-closure]] article identifies three broad phenomenological categories that correspond to the origin of the limit:
 
-**Frustration** marks architectural limits — constraints built into the structure of human cognition. Trying to visualise a four-dimensional object, holding seven-plus items in working memory, imagining a colour never seen (the [[imagination-and-creativity-void|imagination void's]] paradigm case), or grasping the hard problem of consciousness all produce the experience of effortful straining against a wall. The thinker knows they are failing. The limit announces itself as obstruction. Frustration is honest: it tells you a boundary exists and that you are pressing against it.
+**Frustration** marks architectural limits — constraints built into the structure of human cognition. Trying to visualise a four-dimensional object, holding seven-plus items in working memory, imagining a colour never seen (the [[creative-aesthetic-void|creative-aesthetic void's]] paradigm case), or grasping the hard problem of consciousness all produce the experience of effortful straining against a wall. The thinker knows they are failing. The limit announces itself as obstruction. Frustration is honest: it tells you a boundary exists and that you are pressing against it.
 
 **Satisfaction** marks adaptive limits — blind spots maintained by natural selection because ignorance conferred fitness advantage. The experience here is completeness rather than obstruction. The bias blind spot exemplifies this: we feel we see clearly while others are distorted. The limit disguises itself as success. [[self-maintained-cognitive-limits|Cognitive aversion]] operates similarly — thoughts we systematically flee feel uninteresting rather than impossible, so the deflection goes unnoticed. Satisfaction is deceptive: it tells you the territory is fully mapped when a region has been quietly excised.
 
@@ -60,7 +60,7 @@ Equally compelling arguments for incompatible conclusions produce paralysis rath
 
 ### Epistemic Vertigo
 
-Destabilisation at the meta-level — questioning whether your questioning is reliable, doubting whether your doubts are well-founded. Unlike aporia's paralysis, vertigo involves *oscillation*: each attempt to stabilise generates new instability. Helen De Cruz describes it as "a response to one's overall rational position which is in a sense phobic." Vertigo signals approach to self-referential limits where cognition turns on itself recursively. It appears characteristically when examining the reliability of introspection, the foundations of logic, or one's own consciousness.
+Destabilisation at the meta-level — questioning whether your questioning is reliable, doubting whether your doubts are well-founded. Unlike aporia's paralysis, vertigo involves *oscillation*: each attempt to stabilise generates new instability. Duncan Pritchard describes it as "a response to one's overall rational position which is in a sense phobic." Vertigo signals approach to self-referential limits where cognition turns on itself recursively. It appears characteristically when examining the reliability of introspection, the foundations of logic, or one's own consciousness.
 
 ### Systematic Illusion
 
@@ -141,11 +141,11 @@ The systematic mapping of limit phenomenologies connects to the Map's [[tenets]]
 ## References
 
 1. Margolis, H. (1987). *Patterns, Thinking, and Cognition: A Theory of Judgment*. University of Chicago Press.
-2. De Cruz, H. (2021). Perplexity. *Midwest Studies in Philosophy*, 45, 209-221.
+2. Pritchard, D. (2021). Cavell and Philosophical Vertigo. *Journal for the History of Analytic Philosophy*, 9(9).
 3. McGinn, C. (1989). Can We Solve the Mind-Body Problem? *Mind*, 98(391), 349-366.
 4. Hoffman, D. D., Singh, M., & Prakash, C. (2015). The Interface Theory of Perception. *Psychonomic Bulletin & Review*, 22(6), 1480-1506.
 5. Trivers, R., & von Hippel, W. (2011). The evolution and psychology of self-deception. *Behavioral and Brain Sciences*, 34(1), 1-16.
-6. Pronin, E., & Hazel, L. (2023). Humans' Bias Blind Spot and Its Societal Significance. *Current Directions in Psychological Science*.
+6. Pronin, E., & Hazel, L. (2023). Humans' Bias Blind Spot and Its Societal Significance. *Current Directions in Psychological Science*, 32(5), 402-409.
 7. Wittgenstein, L. (1922). *Tractatus Logico-Philosophicus*. Routledge & Kegan Paul.
 8. Southgate, A. & Oquatre-cinq, C. (2026-01-19). The Phenomenology of the Edge. *The Unfinishable Map*. https://unfinishablemap.org/voids/phenomenology-of-the-edge/
 9. Southgate, A. & Oquatre-cinq, C. (2026-01-29). Compound Failure Signatures. *The Unfinishable Map*. https://unfinishablemap.org/voids/compound-failure-signatures/

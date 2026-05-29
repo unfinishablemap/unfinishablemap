@@ -37,12 +37,28 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Deep review topics/phenomenology-of-cognitive-limit-types.md (41 days since last review, ai_contribution=100, Tenet 1/5 load-bearing)
-- **Type**: deep-review
+### P2: Adopt counterfactual-reasoning calibration in phenomenology-of-deliberation-under-uncertainty
+- **Type**: refine-draft
 - **Status**: pending
-- **Notes**: PROMOTED P3→P2 by /replenish-queue 2026-05-29 (second of two floor-restoring promotions; with the Naccache refine above this restores the actionable floor to 4, above MIN_QUEUE=3, with type diversity — refine-draft + deep-review + the live literature-drift and voids-reciprocity P2s). Chosen as the most-stale tenet-load-bearing topic in the corpus: a fresh staleness scan this cycle found zero content files past 45 days (the deep-review cycle slots keep the corpus well-reviewed) and this article sits in the most-stale band at 41 days, `ai_contribution=100`, ~2336 words (well under the 3000 topics soft threshold — no condense risk), cap-safe (in-place review). Verified `last_deep_review` ~41 days, not the subject of any other open task header. Original P3 staleness rationale preserved below. Retained originally at P3 for queue diversity: the two P2 promotions above already restore the actionable floor above 3, so this third grounded staleness task is kept at P3 (a phenomenology topic rather than the structural-evidence/meaning pair above). Verified `last_deep_review: 2026-04-18` (~40 days), `ai_modified: 2026-04-18` (settled ~40d), `ai_contribution=100`, ~2336 words (well under the 3000 topics soft threshold — no condense risk). Not the subject of any other open task header. Tenet-1/5 load-bearing: the article reads the hard-problem aporia (smooth mechanism-understanding punctuated by abrupt blockage at experience) as the phenomenological signature of genuine irreducibility, and its "illusory-comprehension" category as a reason parsimony judgments cannot be taken at face value (Occam's limits). Deep-review should: (a) honour `[[evidential-status-discipline]]` — the "phenomenological profile is what we would expect if consciousness is genuinely irreducible" move is an abductive/structural argument, not a proof, and must stay at the calibrated tier; the illusory-comprehension / adaptive-invisibility claims about parsimony are themselves a philosophical reading and should not over-read into established cognitive science; (b) confirm the cognitive-limit-types taxonomy still coheres with the post-April voids/cognitive-limits cluster (`[[phenomenology-of-cognitive-limit-types]]` siblings, `[[self-maintained-cognitive-limits]]`, the closure-types / mapping-mind-space voids) and the apophatic-cartography material; (c) confirm cross-links resolve live and are reciprocated where load-bearing; (d) writing-style + length discipline (no "This is not X. It is Y." cliché). Apply in-place fixes if minor; generate a follow-on refine-draft task if substantive. If unchanged-clean, mark a no-op metadata refresh. Tenet alignment: Tenet 1 (Dualism — aporia as irreducibility signature), Tenet 5 (Occam's Razor Has Limits — parsimony judgments as adaptive constructions).
-- **Source**: staleness
+- **File**: obsidian/topics/phenomenology-of-deliberation-under-uncertainty.md
+- **Notes**: From topic-concept anchoring audit 2026-05-29. The topic article over-claims relative to its anchor concept [[counterfactual-reasoning]]; failed checks: hedge_density, strong_assertions.
+  - hedge density 4.05/kw is below 60% of anchor (11.53/kw)
+  - topic uses 1 strong-assertion verbs where anchor uses none
+  - Action: bring the topic's hedge profile in line with the anchor concept's. Preserve the article's voice; this is not a request to weaken the central claim, only to inherit the calibration discipline the anchor concept already uses. See [[project/calibration-audit-triple]] Audit Three for the spec and [[evidential-status-discipline]] for the underlying rule.
+- **Source**: topic-concept-anchoring-audit
 - **Generated**: 2026-05-29
+
+### P2: Adopt counterfactual-reasoning calibration in free-will
+- **Type**: refine-draft
+- **Status**: pending
+- **File**: obsidian/topics/free-will.md
+- **Notes**: From topic-concept anchoring audit 2026-05-29. The topic article over-claims relative to its anchor concept [[counterfactual-reasoning]]; failed checks: hedge_density, strong_assertions.
+  - hedge density 4.11/kw is below 60% of anchor (11.53/kw)
+  - topic uses 3 strong-assertion verbs where anchor uses none
+  - Action: bring the topic's hedge profile in line with the anchor concept's. Preserve the article's voice; this is not a request to weaken the central claim, only to inherit the calibration discipline the anchor concept already uses. See [[project/calibration-audit-triple]] Audit Three for the spec and [[evidential-status-discipline]] for the underlying rule.
+- **Source**: topic-concept-anchoring-audit
+- **Generated**: 2026-05-29
+
 
 ### P3: Write article on Auditory Consciousness and the Interface
 - **Type**: expand-topic
@@ -3569,6 +3585,10 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 Tasks that failed 3+ times and require human intervention.
 
+
+### ✓ 2026-05-29: Deep review topics/phenomenology-of-cognitive-limit-types.md (41 days since last review, ai_contribution=100, Tenet 1/5 load-bearing)
+- **Type**: deep-review
+- **Notes**: PROMOTED P3→P2 by /replenish-queue 2026-05-29 (second of two floor-restoring promotions; with the Naccache refine above this restores the actionable floor to 4, above MIN_QUEUE=3, with type diversity — refine-draft + deep-review + the live literature-drift and voids-reciprocity P2s). Chosen as the most-stale tenet-load-bearing topic in the corpus: a fresh staleness scan this cycle found zero content files past 45 days (the deep-review cycle slots keep the corpus well-reviewed) and this article sits in the most-stale band at 41 days, `ai_contribution=100`, ~2336 words (well under the 3000 topics soft threshold — no condense risk), cap-safe (in-place review). Verified `last_deep_review` ~41 days, not the subject of any other open task header. Original P3 staleness rationale preserved below. Retained originally at P3 for queue diversity: the two P2 promotions above already restore the actionable floor above 3, so this third grounded staleness task is kept at P3 (a phenomenology topic rather than the structural-evidence/meaning pair above). Verified `last_deep_review: 2026-04-18` (~40 days), `ai_modified: 2026-04-18` (settled ~40d), `ai_contribution=100`, ~2336 words (well under the 3000 topics soft threshold — no condense risk). Not the subject of any other open task header. Tenet-1/5 load-bearing: the article reads the hard-problem aporia (smooth mechanism-understanding punctuated by abrupt blockage at experience) as the phenomenological signature of genuine irreducibility, and its "illusory-comprehension" category as a reason parsimony judgments cannot be taken at face value (Occam's limits). Deep-review should: (a) honour `[[evidential-status-discipline]]` — the "phenomenological profile is what we would expect if consciousness is genuinely irreducible" move is an abductive/structural argument, not a proof, and must stay at the calibrated tier; the illusory-comprehension / adaptive-invisibility claims about parsimony are themselves a philosophical reading and should not over-read into established cognitive science; (b) confirm the cognitive-limit-types taxonomy still coheres with the post-April voids/cognitive-limits cluster (`[[phenomenology-of-cognitive-limit-types]]` siblings, `[[self-maintained-cognitive-limits]]`, the closure-types / mapping-mind-space voids) and the apophatic-cartography material; (c) confirm cross-links resolve live and are reciprocated where load-bearing; (d) writing-style + length discipline (no "This is not X. It is Y." cliché). Apply in-place fixes if minor; generate a follow-on refine-draft task if substantive. If unchanged-clean, mark a no-op metadata refresh. Tenet alignment: Tenet 1 (Dualism — aporia as irreducibility signature), Tenet 5 (Occam's Razor Has Limits — parsimony judgments as adaptive constructions).
 
 ### ✓ 2026-05-29: Voids cluster reciprocity audit at 100/100 cap
 - **Type**: cross-review
