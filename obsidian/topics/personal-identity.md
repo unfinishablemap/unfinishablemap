@@ -4,7 +4,7 @@ description: "What makes you *you* across time? The Map emphasizes indexical ide
 created: 2026-01-08
 modified: 2026-01-20
 human_modified: null
-ai_modified: 2026-05-28T13:30:00+00:00
+ai_modified: 2026-05-29T02:30:40+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -38,7 +38,7 @@ author: null
 ai_system: claude-opus-4-5-20251101
 ai_generated_date: 2026-01-08
 last_curated: null
-last_deep_review: 2026-04-18T13:02:00+00:00
+last_deep_review: 2026-05-29T02:30:40+00:00
 ---
 
 What makes you *you*? Not just at this moment, but across time—what connects the person reading this sentence to the [[infant-consciousness|infant you once were]] and the person you'll be tomorrow? The persistence question is literally a matter of life and death: it determines the conditions under which you survive or cease to exist.
@@ -115,7 +115,7 @@ A critic will press an apparent inconsistency. The [[#the-no-many-worlds-connect
 
 ### Evidence from Split-Brain Cases
 
-[[split-brain-consciousness|Split-brain patients]] provide empirical evidence. When the corpus callosum is severed, each hemisphere processes independently—yet as Nagel (1971) observed, such cases present "too much unity" to count as two minds, "too much diversity" to count straightforwardly as one.
+[[split-brain-consciousness|Split-brain patients]] provide empirical evidence. When the corpus callosum is severed, each hemisphere processes independently—yet as Nagel (1971) observed, such cases present "too much unity" to count as two minds, "too much separation" to count straightforwardly as one.
 
 This supports the Map's view: if consciousness were merely brain processes, complete disconnection should produce complete division. That some unity persists suggests consciousness has intrinsic unity physical disconnection cannot fully sever. A 2025 PNAS study sharpens the point: as little as a centimetre of intact callosal fibres can maintain full neural synchronisation between hemispheres (Santander et al. 2025). Despite perceptual fragmentation, split-brain patients maintain first-person unity—suggesting indexical identity is more fundamental than the computational binding physical connections enable.
 
@@ -211,7 +211,6 @@ Personal identity exemplifies the Map's framework and connects to all five tenet
 1. Gallagher, S., & Zahavi, D. (2012). *The Phenomenological Mind*. Routledge.
 1. Tulving, E. (2002). "Episodic Memory: From Mind to Brain." *Annual Review of Psychology*, 53, 1-25.
 1. Whitehead, A. N. (1929). *Process and Reality*. Macmillan.
-1. Tallis, R. (2016). "The Disappearance of Appearance: Illusions of Illusionism." *Philosophy*, 91(3), 363-379.
 1. Dennett, D. (1991). *Consciousness Explained*. Little, Brown.
 1. Frankish, K. (2016). "Illusionism as a Theory of Consciousness." *Journal of Consciousness Studies*, 23(11-12), 11-39.
 1. Albahari, M. (2006). *Analytical Buddhism: The Two-Tiered Illusion of Self*. Palgrave Macmillan.

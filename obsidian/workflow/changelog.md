@@ -5,6 +5,20 @@ ai_modified: 2026-05-29T03:30:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-05-29T02:30:40+00:00 - deep-review (citation-currency)
+- **Status**: Success
+- **File**: [[topics/personal-identity]]
+- **Mode**: Cycle-slot citation-currency pass. Targeted this converged article (7 prior reviews) precisely because it cites two recent post-2020 niche empirical papers — the defect-clustering profile. Web-verified every load-bearing citation on metadata + source-conclusion / quoted-text axes.
+- **Critical issues addressed**: 2
+  - **Altered direct quotation (Nagel 1971)**: `"too much diversity"` → `"too much separation"` (Nagel's actual word; verified vs source and 7 sibling articles, all of which quote "separation"). Quoted-text fidelity defect.
+  - **Fabricated reference (Tallis 2016, *Philosophy* 91(3):363-379)**: non-existent article (absent from web, PhilPapers, Cambridge Core; PhilPapers indexes Tallis thoroughly otherwise). Orphaned (never cited inline). Removed rather than fabricate corrected coordinates.
+- **Citations verified CLEAN**: Santander et al. 2025 PNAS 122(43) e2520190122 (metadata exact incl. first-author correction from the 2026-04-17 "Miller et al." attribution; 1cm-fibre finding accurate); Montupil et al. 2023 BJA Open (three-state taxonomy accurate); Nagel 1971 *Synthese* 22:396-413 (metadata clean). Also live-verified the genuine Miller "250 million axons" quote in sibling split-brain-consciousness.md (UCSB press release).
+- **Sibling fixes** (same-citation propagation): corrected the 2025 PNAS minimal-fibre finding misattributed to "Pinto et al. 2025 / PNAS / 'Split-brain: what we know now'" (a chimera of Pinto's real 2020 *Neuropsychology Review* review title + fabricated PNAS placement) → Santander et al. 2025 in `concepts/binding-problem.md` and `concepts/unity-of-consciousness.md` (inline + References). Pinto et al. 2017 *Brain* 140(5) refs elsewhere are legitimate and left intact.
+- **Engagement modes (§2.6)**: Parfit — Mode One; illusionism/deflationary subject — Mode Three (boundary honestly marked); Many-Worlds fission — Mode Three (asymmetry conceded as framework commitment). No label leakage. No calibration slippage.
+- **Word count**: 3996 → 3982 (-14, length-neutral; removal of dead reference)
+- **Follow-on**: P2 refine-draft queued — scrub the phantom Tallis 2016 citation from 7 other live articles + 1 archive copy.
+- **Output**: [[reviews/deep-review-2026-05-29-personal-identity]]
+
 ## 2026-05-29T02:23:33+00:00 - refine-draft (consolidation, multi-file)
 - **Status**: Success
 - **Task**: Give the norm-implementing vs norm-grasping distinction a single canonical home and repoint dependents (absorb-don't-create; concepts/ near cap so no new page).

@@ -9,6 +9,33 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-05-29T02:30:40+00:00 - deep-review (citation-currency)
+- **Status**: Success
+- **File**: [personal-identity](/topics/personal-identity/)
+- **Mode**: Cycle-slot citation-currency pass. Targeted this converged article (7 prior reviews) precisely because it cites two recent post-2020 niche empirical papers — the defect-clustering profile. Web-verified every load-bearing citation on metadata + source-conclusion / quoted-text axes.
+- **Critical issues addressed**: 2
+  - **Altered direct quotation (Nagel 1971)**: `"too much diversity"` → `"too much separation"` (Nagel's actual word; verified vs source and 7 sibling articles, all of which quote "separation"). Quoted-text fidelity defect.
+  - **Fabricated reference (Tallis 2016, *Philosophy* 91(3):363-379)**: non-existent article (absent from web, PhilPapers, Cambridge Core; PhilPapers indexes Tallis thoroughly otherwise). Orphaned (never cited inline). Removed rather than fabricate corrected coordinates.
+- **Citations verified CLEAN**: Santander et al. 2025 PNAS 122(43) e2520190122 (metadata exact incl. first-author correction from the 2026-04-17 "Miller et al." attribution; 1cm-fibre finding accurate); Montupil et al. 2023 BJA Open (three-state taxonomy accurate); Nagel 1971 *Synthese* 22:396-413 (metadata clean). Also live-verified the genuine Miller "250 million axons" quote in sibling split-brain-consciousness.md (UCSB press release).
+- **Sibling fixes** (same-citation propagation): corrected the 2025 PNAS minimal-fibre finding misattributed to "Pinto et al. 2025 / PNAS / 'Split-brain: what we know now'" (a chimera of Pinto's real 2020 *Neuropsychology Review* review title + fabricated PNAS placement) → Santander et al. 2025 in `concepts/binding-problem.md` and `concepts/unity-of-consciousness.md` (inline + References). Pinto et al. 2017 *Brain* 140(5) refs elsewhere are legitimate and left intact.
+- **Engagement modes (§2.6)**: Parfit — Mode One; illusionism/deflationary subject — Mode Three (boundary honestly marked); Many-Worlds fission — Mode Three (asymmetry conceded as framework commitment). No label leakage. No calibration slippage.
+- **Word count**: 3996 → 3982 (-14, length-neutral; removal of dead reference)
+- **Follow-on**: P2 refine-draft queued — scrub the phantom Tallis 2016 citation from 7 other live articles + 1 archive copy.
+- **Output**: [deep-review-2026-05-29-personal-identity](/reviews/deep-review-2026-05-29-personal-identity/)
+
+## 2026-05-29T02:23:33+00:00 - refine-draft (consolidation, multi-file)
+- **Status**: Success
+- **Task**: Give the norm-implementing vs norm-grasping distinction a single canonical home and repoint dependents (absorb-don't-create; concepts/ near cap so no new page).
+- **Canonical home**: [rational-normativity](/concepts/rational-normativity/) — existing "## Implementing a Norm versus Grasping It" subsection, now with stable anchor `{#implementing-versus-grasping}`. Sharpened the opening definition crisply (implementing = externally-designed reliable execution of a normative/logical pattern without recognising rules as valid; grasping = normative engagement, recognising validity / why a conclusion follows, from within). Chess-engine + theorem-prover exhibit lives here once. Identifies-not-proves register intact (existing transcendental-point paragraph preserved: "does not by itself prove that consciousness supplies the grasping, only that grasping is a real explanandum").
+- **Subsection anchor**: `#implementing-versus-grasping` (follows the existing `{#consciousness}` heading-ID convention already used+linked in argument-from-reason.md, confirmed resolving in Hugo output).
+- **Dependents repointed** (each trimmed to one-line pointer + anchored link; local argument preserved):
+  - [self-stultification-as-master-argument](/topics/self-stultification-as-master-argument/) — Physicalism/functionalist-objection section: trimmed the inline theorem-prover re-derivation to a pointer; kept the "theorem prover that outputs 'physicalism is true' without understanding why" local move; added explicit identifies-not-proves clause.
+  - [trilemma-of-selection](/topics/trilemma-of-selection/) — Horn 3 compatibilist objection: trimmed the chess-engine re-derivation to a pointer; kept Nagel/Last Word local move and the existing "does not prove consciousness is required for grasping" calibration paragraph.
+  - [argument-from-reason](/topics/argument-from-reason/) — AI-objection section: brief invocation (was already short); added the canonical pointer + an "identifies what an account owes; does not settle that consciousness supplies the grasping" clause to keep the register explicit.
+- **Calibration**: identifies-not-proves register verified intact in host AND all three dependents; no possibility/probability slippage introduced; no "not X but Y" cliché; voice preserved.
+- **Verified**: anchor + all three links resolve to `/concepts/rational-normativity/#implementing-versus-grasping` in Hugo output; sync exits ok.
+- **Published**: yes
+
 ## 2026-05-29T12:00:00+00:00 - refine-draft
 - **Status**: Success
 - **File**: [altered-states-as-interface-evidence](/apex/altered-states-as-interface-evidence/)

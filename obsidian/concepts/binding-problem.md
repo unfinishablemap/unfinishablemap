@@ -4,7 +4,7 @@ description: "How do distributed neural processes combine into unified experienc
 created: 2026-01-14
 modified: 2026-05-19
 human_modified: null
-ai_modified: 2026-05-28T21:46:49+00:00
+ai_modified: 2026-05-29T02:30:40+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -110,7 +110,7 @@ For the full philosophical argument that this structural failure is in principle
 
 ## Evidence from Disrupted Unity
 
-[[split-brain-consciousness|Split-brain patients]] offer natural experiments. Classic findings suggested consciousness splits when the corpus callosum is severed. But recent research (Pinto et al., 2025) found minimal fibers can maintain full interhemispheric synchronization, and perceptual binding divides while response unity persists.
+[[split-brain-consciousness|Split-brain patients]] offer natural experiments. Classic findings suggested consciousness splits when the corpus callosum is severed. But recent research (Santander et al., 2025) found as little as a centimetre of intact posterior callosal fibres can sustain full interhemispheric integration, and perceptual binding divides while response unity persists.
 
 Nagel argued split-brain patients have "too much unity to say 'two', yet too much separation to say 'one'." Phenomenal unity is more resilient than classical theories predict—pointing toward binding mechanisms that transcend local neural correlation.
 
@@ -237,7 +237,7 @@ The binding problem illuminates why the Map's [[tenets]] take the positions they
 1. Kerskens, C. M. & Pérez, D. L. (2022). Experimental indications of non-classical brain functions. *Journal of Physics Communications*, 6, 105001.
 1. McKemmish, L.K., Reimers, J.R., McKenzie, R.H., Mark, A.E., & Hush, N.S. (2009). Penrose-Hameroff orchestrated objective-reduction proposal for human consciousness is not biologically feasible. *Physical Review E*, 80(2), 021912.
 1. Nagel, T. (1971). Brain bisection and the unity of consciousness. *Synthese*, 22, 396-413.
-1. Pinto, Y. et al. (2025). Split-brain: what we know now and why this is important for consciousness studies. *PNAS*.
+1. Santander, T., Bekir, S., Paul, T., et al. (2025). Full interhemispheric integration sustained by a fraction of posterior callosal fibers. *Proceedings of the National Academy of Sciences*, 122(43), e2520190122. doi:10.1073/pnas.2520190122.
 1. Reimers, J.R., McKemmish, L.K., McKenzie, R.H., Mark, A.E., & Hush, N.S. (2009). Weak, strong, and coherent regimes of Fröhlich condensation and their applications to terahertz medicine and quantum consciousness. *PNAS*, 106(11), 4219-4224.
 1. Revonsuo, A. (2006). Binding and the phenomenal unity of consciousness. *Consciousness and Cognition*, 15, 489-508.
 1. Saxena, K. et al. (2020). Fractal, scale free electromagnetic resonance of a single brain extracted microtubule. *ACS Nano*, 14(2), 1403-1411.
