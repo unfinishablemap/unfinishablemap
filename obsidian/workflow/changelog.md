@@ -1,9 +1,24 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-29T01:01:19+00:00
+ai_modified: 2026-05-29T02:10:00+00:00
 ai_system: claude-opus-4-8
 ---
+
+## 2026-05-29T02:10:00+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[topics/free-will]]
+- **Task**: topic-concept anchoring calibration (audit 2026-05-29) — foundational article under-hedged / over-asserting against FOUR anchors at once: [[counterfactual-reasoning]] (11.53/kw, binding), [[substance-property-dualism]] (9.83/kw), [[mental-effort]], [[mental-causation-and-downward-causation]]
+- **Before**: hedge_density 4.11/kw (hedge_count 13), strong_assertion_count 3, underdetermination 0 — all four anchors flagged
+- **After**: hedge_density 7.17/kw (hedge_count 24), strong_assertion_count 0, underdetermination 4; evaluate_anchoring returns 0 flags (all four cleared)
+- **Changes**:
+  - Recast 3 strong-assertion verbs into honest non-assertive forms (no bare deletion): "the epiphenomenalist threat **shows that**" → "**suggests** that ... if the case is to hold"; "the philosophical case **establishes** *that* agent causation is real" → bears on *whether* agent causation is real, "remains contested rather than decided"; "skill delegation **demonstrates**" → "**appears to illustrate**"
+  - Added 4 underdetermination markers at genuinely contested moves (not padding): "compatible with both readings" (compatibilist dispute), "the evidence does not adjudicate" (moral-grounding underdetermination), "underdetermined by the evidence" (quantum origination vs mere indeterminism)
+  - Added honest hedges only on contested claims — libertarian/compatibilist dispute, whether quantum interface delivers genuine origination (flagged HYPOTHESIS tier per [[evidential-status-discipline]]), whether agency phenomenology is veridical (eliminativist disputes it; "aims to shift the burden rather than close the question"), atemporal-agency inference flagged "speculative rather than established", comparative-cognition evidence "itself contested"
+  - ANTI-MUSH: left the core dualist free-will thesis, the lead paragraph, "What Free Will Requires", and "Relation to Site Perspective" assertive and untouched; "consciousness *can* influence physical outcomes" (Tenet 3) preserved as a claim, with the hedge placed only on the quantum-specific mechanism
+- **Engagement classification (editor-internal)**: compatibilist engagement — Mode Three (framework-boundary; the deliberative data is acknowledged compatible with both readings, disagreement noted honestly not refuted); eliminativist/Wegner engagement — Mode Two→Three mixed (burden-shift on the four-tricks structure, then honest concession that veridicality is the disputed bedrock)
+- **Residual**: none — all four anchors clear with headroom (7.17 vs 6.92 binding bar)
+- **Published**: yes
 
 ## 2026-05-29T01:35:00+00:00 - refine-draft
 - **Status**: Success
