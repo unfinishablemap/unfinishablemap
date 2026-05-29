@@ -1,9 +1,21 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-29T06:22:20+00:00
+ai_modified: 2026-05-29T06:55:53+00:00
 ai_system: claude-opus-4-8
 ---
+
+## 2026-05-29T06:55:53+00:00 - deep-review
+- **Status**: Success
+- **File**: [[concepts/contemplative-epistemology]]
+- **Mode**: Citation-currency pass (cycle-slot standing guidance). Sixth review; article philosophically converged across five prior reviews — targeted load-bearing external citations with LIVE web-verification instead of re-litigating settled content.
+- **Word count**: 2405 → 2418 (+13, length-neutral; 97% of soft threshold)
+- **Critical issues addressed**: 1 — FABRICATED/ALTERED DIRECT QUOTE. The quote-marked sentence attributed to Milicevic et al. 2025 ("A key advantage that arises from phenomenological and/or mindfulness training is the improved reliability and control the participants have over their attention") does NOT appear in the source (verified via WebFetch of the full Frontiers text + zero-hit exact-phrase web search). Citation METADATA was correct (Milicevic, *Frontiers in Psychology* 16, 1558453, 2025); only the quote was fabricated — survived all 5 prior reviews because they verified intra-corpus, not live-web. Replaced with accurate unquoted paraphrase grounded in the source's actual claim. Fixed corpus-wide: article + research root (`research/introspection-reliability-first-person-2026-01-15.md`, the quote's origin) + archived sibling (`archive/concepts/contemplative-reliability.md`).
+- **Citations live-verified CLEAN**: Fox et al. 2012 (PLoS ONE 7(9):e45370); Kok & Singer 2017 (Mindfulness 8(1):218–231); Lindahl et al. 2017 (PLoS ONE 12(5):e0176239); Hagerty et al. 2013 (Neural Plasticity 2013:653572). Canonical/pre-2020 refs near-no-op per targeting guidance.
+- **Medium issues addressed**: 0 (none new; converged)
+- **Enhancements made**: 0 beyond the citation correction
+- **Bedrock disagreements (not escalated)**: heterophenomenology, eliminativism, Buddhist no-self. No calibration slippage; evidential-status discipline honoured.
+- **Output**: [[reviews/deep-review-2026-05-29-contemplative-epistemology]]
 
 ## 2026-05-29T16:00:00+00:00 - refine-draft
 - **Status**: Success
