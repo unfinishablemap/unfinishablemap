@@ -1,9 +1,23 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-29T05:37:08+00:00
+ai_modified: 2026-05-29T05:58:12+00:00
 ai_system: claude-opus-4-8
 ---
+
+## 2026-05-29T05:58:12+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[voids/mutation-void]]
+- **Task**: P1 literature-currency + calibration fix (2/3 convergent: ChatGPT + Gemini). Over-reliance on Ward & Wegner (2013) for mind-blanking; three calibration over-reaches.
+- **(a) Mind-blanking reframe**: Ward & Wegner (2013) downgraded from "supporting authority" to "an early empirical anchor in a field that has since moved on." Added TWO web-verified 2020s currency citations showing the construct redefined toward a measurable low-vigilance physiological state: **Mortaheb et al. (2022)** PNAS 119(41):e2200511119 (recurrent globally-positive-connectivity profile) and **Boulakis et al. (2023)** J. Neurosci. 43(40):6807–6815 (whole-brain deactivations precede spontaneous mind-blanking). Added the contemporary distinction between genuine content-free episodes and mere *feelings* of inattention via **Mathews, Bin Faiz & Brosowsky (2024)** Open Mind 8:666–687.
+- **CITATION GUARD CATCH**: Gemini suggested "Brosowsky et al. 2021" for the feelings-of-inattention distinction. Web-verification showed the actual paper is **Mathews, Bin Faiz & Brosowsky (2024)** — wrong year and wrong lead author. Cited under the corrected attribution. (Consistent with the 5th-P1 pattern: every prior mutation-void P1 caught a reviewer-supplied misattribution.) Andrillon 2021 and the other Gemini suggestions were not needed once Mortaheb 2022 + Boulakis 2023 covered the construct-shift; omitted rather than inserted unverified.
+- **(b) Dream section**: rewritten to distinguish dream *experience* / *memory trace* / *waking report* / *narrative reconstruction*; now presents dream reporting as a CONTESTED epistemic problem (no independent access to the lived dream, so the gap cannot be cleanly assigned to transformation vs memory loss/confabulation), flagged as the class where the void's evidence is weakest. Table row and falsifier coordinated.
+- **(c) Meditation section**: now treats contemplative training as a PARTIAL COUNTEREXAMPLE (trained meditators may stabilise attended content rather than mutate it), not one-way confirmation. The void's claim survives only for contents resisting even trained stabilisation. Coordinated with the existing "meditation training eliminated transformation" falsifier and the table row.
+- **(d) Overbroad claim narrowed**: "most philosophy assumes attention merely selects from a stable field" → "on some influential views attention merely selects... the selection model running through much attention-as-spotlight theorising" (softened to "on some views" per the no-clean-cite guidance).
+- **Length**: REFRAME-dominant per constraint. Net additions (2 verified cites + reframes) pushed the article to ~3308 words; compressed redundancy from today's two earlier additions (Report-Is-Not-Reality counterargument section + reframe prose) and across tenets/McGinn/phenomenology sections back to **2999 words** (1 under the 3000 voids hard cap; status soft_warning, same as pre-edit). No filter-model content; altered_state_symmetry scanner returns None (n/a).
+- **Constraints honoured**: no fabricated citations or page numbers; no possibility/probability slippage; no "not X but Y" cliché introduced; references reordered to numeric sequence. ai_modified updated.
+- **Original score**: n/a (no review CLI present; acted on convergent outer-review findings).
+- **Published**: yes
 
 ## 2026-05-29T05:37:08+00:00 - refine-draft
 - **Status**: Success
