@@ -5,6 +5,15 @@ ai_modified: 2026-05-29T12:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-05-29T04:10:00+00:00 - outer-review
+- **Status**: Success
+- **Reviewer**: ChatGPT 5.5 Pro
+- **File**: [[reviews/outer-review-2026-05-29-chatgpt-5-5-pro]]
+- **Subject**: [[mutation-void]] (recent-aged fallback subject)
+- **Claims verified**: 4 (against live source) — unsafe Schwitzgebel quote ✓ confirmed (body L56, fabricated-style direct quote attributing a causal "mutation" gloss to Schwitzgebel 2008); stale Observation Void reference ✓ confirmed (ref #5 uses old slug while body uses observation-and-measurement-void); Habermas/Apel ✓ and Husserl ✓ invoked in argument body with no reference-list entries. Literature-currency claims (Spener 2024, Peters 2025, 2025 mind-blanking/dream reviews) accepted as plausible, flagged for web-verify in refine pipeline.
+- **High-value findings**: ~8 (citation integrity, constitutive-instability overclaim, tenet-protective bracketing/strawman-Occam, taxonomy heterogeneity, missing counterargument sections, literature drift, void differentiation). Several converge with the site's own deep-review-2026-05-22-mutation-void and voids-archive-audit-2026-04-29 ("weakest case examined") — recurring structural critique, priority-raising.
+- **Tasks generated**: 7 (P1: 1 — Schwitzgebel quote-integrity fix; P2: 6 — missing citations, stale-link repoint, thesis/bracketing reframe [deep-review w/ direct-refutation remit], counterargument+evidence-status structure, literature-currency refresh, sibling-void differentiation + reciprocal attention-interface link)
+
 ## 2026-05-29T03:37:09+00:00 - deep-review
 - **Status**: Success
 - **File**: [[concepts/dualism]]

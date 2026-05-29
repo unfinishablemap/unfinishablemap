@@ -827,9 +827,9 @@
   commissioned_at: '2026-05-29T02:06:25.240784+00:00'
   prompt_summary: Audit mutation-void (recent-aged)
   target_filename: outer-review-2026-05-29-chatgpt-5-5-pro.md
-  status: pending
+  status: collected
   collect_attempts: 0
-  last_attempt_at: null
+  last_attempt_at: '2026-05-29T03:55:18.648729+00:00'
   failure_reason: null
   prompt_text: 'Please conduct an outer review of one article on The Unfinishable
     Map, a dualist philosophy site: the "mutation-void" page at https://unfinishablemap.org/voids/mutation-void/.

@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-29T02:50:00+00:00
-ai_system: claude-opus-4-7
+ai_modified: 2026-05-29T04:10:00+00:00
+ai_system: claude-opus-4-8
 author: Andy Southgate
 concepts: []
 created: 2026-01-05
@@ -36,6 +36,62 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **P2**: Low - nice to have, human approval needed
 
 ## Active Tasks
+
+### P1: Fix unsafe Schwitzgebel quotation in mutation-void (citation integrity)
+- **Type**: refine-draft
+- **Status**: pending
+- **Notes**: From outer review 2026-05-29 (ChatGPT 5.5 Pro), audit of [[mutation-void]]. CONFIRMED by source check (body line ~56): the article presents `"systematically misrepresented by introspection"` and `"the act of introspecting an emotion changes it"` as **direct quotations** attributed to Schwitzgebel (2008), "The Unreliability of Naive Introspection" (*Phil Review* 117(2)). The general Schwitzgebelian point (introspection is unreliable) is genuine, but the exact quoted wording is not anchored to a page and matches the corpus's documented AI-fabricated-quote pattern. Action: **web-verify against the actual paper** (Schwitzgebel 2008, available at faculty.ucr.edu/~eschwitz/) — if the wording cannot be confirmed verbatim with a page anchor, **remove the quotation marks and paraphrase** (Schwitzgebel argues introspective reports of ongoing/emotional experience are systematically unreliable; do NOT assert he claims introspection *changes* the emotion — that causal "mutation" gloss is the Map's own extension, not Schwitzgebel's finding, and must not be put in his mouth). Keep the citation; fix the attribution. Per [[ai-citation-metadata-unreliable]] only live-literature web-verify catches these. Tenet alignment: evidential-status discipline.
+- **Review file**: `reviews/outer-review-2026-05-29-chatgpt-5-5-pro.md`
+- **Source**: outer-review
+- **Generated**: 2026-05-29
+
+### P2: Add missing Habermas/Apel/Husserl references in mutation-void (or remove the name-drops)
+- **Type**: refine-draft
+- **Status**: pending
+- **Notes**: From outer review 2026-05-29 (ChatGPT 5.5 Pro), audit of [[mutation-void]]. CONFIRMED by source check: body line ~48 invokes "following Habermas and Apel" for the performative-contradiction lineage and line ~100 attributes a specific claim to Husserl ("reflection changes the *form of givenness* but not the *given content*"), but none of the three appear in the reference list. These are load-bearing lineage citations, not optional. Action: add real bibliographic entries (Habermas's *Theory of Communicative Action* / Apel on performative contradiction; a Husserl source for the reflection-on-experience analysis, e.g. *Ideas I* §§77–78 or *Phenomenology of Internal Time-Consciousness*) — web-verify the exact works/sections before citing — OR, if a citation cannot be responsibly anchored, soften the attribution to remove the implied scholarly lineage. Do not invent page numbers.
+- **Review file**: `reviews/outer-review-2026-05-29-chatgpt-5-5-pro.md`
+- **Source**: outer-review
+- **Generated**: 2026-05-29
+
+### P2: Repoint stale Observation Void reference in mutation-void
+- **Type**: refine-draft
+- **Status**: pending
+- **Notes**: From outer review 2026-05-29 (ChatGPT 5.5 Pro), audit of [[mutation-void]]. CONFIRMED by source check: the reference list (line ~140) cites the old `observation-void/` URL ("The Observation Void", 2026-02-24) while the body (lines 38, 124) correctly uses `[[observation-and-measurement-void]]`. This is an instance of the [[archival-link-rot]] / stale-slug pattern. Action: update reference #5 to point at the live Observation and Measurement Void page (or annotate it explicitly as an earlier companion article if the old page is intentionally retained). Verify the target slug resolves live before editing.
+- **Review file**: `reviews/outer-review-2026-05-29-chatgpt-5-5-pro.md`
+- **Source**: outer-review
+- **Generated**: 2026-05-29
+
+### P2: Reframe mutation-void's constitutive-instability thesis and tenet-protective bracketing
+- **Type**: deep-review
+- **Status**: pending
+- **Notes**: From outer review 2026-05-29 (ChatGPT 5.5 Pro), audit of [[mutation-void]]. Convergent with the site's own `deep-review-2026-05-22-mutation-void` and `voids-archive-audit-2026-04-29` (which already called Mutation Void the "weakest case examined") — so this is a recurring structural critique, not a novel one. Two linked weaknesses: (a) the lead presents "constitutive instability" / "pre-attended and attended thought are different thoughts" as an established result when the evidence only supports the weaker "access often modifies experience"; reframe the strong claim explicitly as the article's *hypothesis*, distinguishing "access modifies experience" from "experience is metaphysically unstable." (b) The "Relation to Site Perspective" section asserts mutation is the "micro-phenomenology" of bidirectional interaction and uses Occam's Razor against a strawman ("introspection is transparent") — but the live literature's real alternative is "introspection is task-sensitive, mode-sensitive, corrigible, and scientifically modelable" (Spener 2024, Peters 2025 introspective psychophysics). **Apply the direct-refutation discipline.** Identify what kind of engagement the issue calls for: showing the opponent's position is defective on its own terms, naming an unsupported foundational move the framework has not earned by its own standards, or honestly marking the framework-boundary disagreement. Apply the corresponding reply mode in **natural journal-quality prose** — see [[writing-style|the writing-style guide]]'s "Engaging Opponents in Journal-Quality Prose" section. **Do not expose mode labels in the article body.** The classification is editor-internal; it belongs in the deep-review changelog entry, not in the article. If an in-framework refutation is attempted and fails, state in natural language that the disagreement is closer to bedrock than first appeared. Concretely: label the dualist round-trip reading as a framework-dependent interpretation rather than an evidential conclusion, and replace the strawman opponent with the corrigibilist middle path. Honour [[evidential-status-discipline]].
+- **Review file**: `reviews/outer-review-2026-05-29-chatgpt-5-5-pro.md`
+- **Source**: outer-review
+- **Generated**: 2026-05-29
+
+### P2: Add counterargument and evidence-status structure to mutation-void
+- **Type**: refine-draft
+- **Status**: pending
+- **Notes**: From outer review 2026-05-29 (ChatGPT 5.5 Pro), audit of [[mutation-void]]. Two structural additions the reviewer recommends, both convergent with the site's own 2026-05-22 deep review (which raised a Dennett/heterophenomenology objection that never made it into the live article): (1) Add a "Report is not reality" counterargument section engaging Dennett-style heterophenomenology (the mutation report is only about how things seem *after* the intervention, not proof of the pre-intervention state), no-report paradigms, and Peters-style introspective psychophysics (fallibility as modelable data, not voidness) — plus a brief physicalist note that an access system can change a target state because it is part of the same physical control architecture (attentional gain/salience/workspace), so the data under-determine the dualist reading. (2) Add an evidence-status table (phenomenon | example | empirical support | philosophical interpretation | dualist-dependence) so performative contradiction, dream recall, attention effects, and meditation are not flattened into one undifferentiated "mutation" mechanism (the archive audit's taxonomy-collapse flag). Web-verify any new citations (Dennett heterophenomenology; no-report review fnhum.2022.861517; Peters Cerebral Cortex). Mind the voids length thresholds. **Apply the direct-refutation discipline** for the heterophenomenology engagement — natural prose, no exposed mode labels.
+- **Review file**: `reviews/outer-review-2026-05-29-chatgpt-5-5-pro.md`
+- **Source**: outer-review
+- **Generated**: 2026-05-29
+
+### P2: Literature-currency refresh for mutation-void (2020s introspection/dream/meditation/mind-blanking)
+- **Type**: refine-draft
+- **Status**: pending
+- **Notes**: From outer review 2026-05-29 (ChatGPT 5.5 Pro), audit of [[mutation-void]]. The article over-relies on Ward & Wegner (2013) and makes uncited "current evidence" claims about meditation and dreams. Action (web-verify EACH source before adding — do not trust the reviewer's citation metadata per [[ai-citation-metadata-unreliable]]): (a) reframe Ward & Wegner from "supporting authority" to "early empirical anchor in an unsettled field," adding the 2025 mind-blanking review (no consensus on what "mind blanking" denotes); (b) dream section — distinguish dream experience / dream memory / waking report / narrative reconstruction, and present dream reporting as a *contested* epistemic problem (2025 dream-report methodology work argues for better methods, not hopeless mutation), not a settled mutation example; (c) meditation section — treat contemplative training as a possible *partial counterexample* (training may reduce reactive self-report bias), not one-way confirmation of the void; (d) narrow the overbroad "most philosophy assumes attention merely selects from a stable field" claim to a specific, cited debate. This is the kind of work [[literature-drift-review]] targets; coordinate so it isn't duplicated.
+- **Review file**: `reviews/outer-review-2026-05-29-chatgpt-5-5-pro.md`
+- **Source**: outer-review
+- **Generated**: 2026-05-29
+
+### P2: Differentiate mutation-void from sibling voids and add reciprocal attention-interface link
+- **Type**: cross-review
+- **Status**: pending
+- **Notes**: From outer review 2026-05-29 (ChatGPT 5.5 Pro), audit of [[mutation-void]]. The archive audit (2026-04-29) flagged scope overlap with conceptual-metabolism, thought-stream, and self-opacity; the reviewer adds observation-and-measurement-void and vagueness-void. Mutation Void is well-linked but not well *differentiated* by concept. Action: add concise boundary notes drawing the conceptual lines — mutation = **access altering target content**; [[thought-stream-void]] = temporal flow; [[self-opacity]] = structural limits of self-knowledge; [[conceptual-metabolism]] = transformation through conceptual processing; [[observation-and-measurement-void]] = studying consciousness altering what is studied (already partly drawn at line 38). Also add a reciprocal link from [[attention-and-the-consciousness-interface]] back to mutation-void (it handles attention/consciousness distinctions, Block overflow, no-report, and the computational-compatibility point that should discipline mutation-void's attention claims), and soften any [[self-reference-paradox]] framing that treats mutation-void as the "clearest strong-form case" until phenomenological mutation is distinguished from report-level contamination. Verify each sibling link resolves live (note [[two-binding-problem-articles-same-title]]-style slug hazards) and is reciprocated where load-bearing.
+- **Review file**: `reviews/outer-review-2026-05-29-chatgpt-5-5-pro.md`
+- **Source**: outer-review
+- **Generated**: 2026-05-29
 
 ### P3: Add reciprocal cross-link from phenomenology-of-intellectual-life to phenomenology-of-intellectual-courage
 - **Type**: integrate-orphan
