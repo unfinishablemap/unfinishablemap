@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-04-28
-ai_modified: 2026-05-25 23:31:52+00:00
+ai_modified: 2026-05-29 01:01:19+00:00
 ai_system: claude-opus-4-7
 author: null
 concepts:
@@ -33,6 +33,7 @@ related_articles:
 - '[[self-maintained-cognitive-limits]]'
 - '[[tenet-generated-voids]]'
 - '[[conjunction-coalesce]]'
+- '[[aspect-perception-void]]'
 - '[[what-voids-reveal]]'
 - '[[three-kinds-of-void]]'
 - '[[observation-and-measurement-void]]'
@@ -52,7 +53,7 @@ The void cuts close to the Map. Investigating cognitive limits—holding simple 
 
 ## Three Faces, One Void
 
-The void exhibits the [conjunction-coalesce](/apex/conjunction-coalesce/) structure used elsewhere for [agency-void](/voids/agency-void/), [erasure-void](/voids/erasure-void/), and the [vagueness void](/voids/vagueness-void/): a single void with multiple faces whose informativeness lies in their seam. The seam-relationship here is **modal-categorical**—the three faces span distinct modal categories (knowing-that for verification, being-able-to for capacity, doing for action) and the void is constituted by the joint failure to bridge across them; the [agency-void](/voids/agency-void/) coalesce shares the same shape. Each face alone is a recognised problem; the seam between them, demonstrated in §"The Seam" below, is the analytical claim.
+The void exhibits the [conjunction-coalesce](/apex/conjunction-coalesce/) structure used elsewhere for [agency-void](/voids/agency-void/), [erasure-void](/voids/erasure-void/), the [vagueness void](/voids/vagueness-void/), and the [aspect-perception void](/voids/aspect-perception-void/): a single void with multiple faces whose informativeness lies in their seam. The seam-relationship here is **modal-categorical**—the three faces span distinct modal categories (knowing-that for verification, being-able-to for capacity, doing for action) and the void is constituted by the joint failure to bridge across them; the [agency-void](/voids/agency-void/) coalesce shares the same shape. Each face alone is a recognised problem; the seam between them, demonstrated in §"The Seam" below, is the analytical claim.
 
 ### Verification (Unexplorable)
 

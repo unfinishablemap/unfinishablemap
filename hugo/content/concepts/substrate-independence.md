@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-19
-ai_modified: 2026-05-26 15:56:34+00:00
+ai_modified: 2026-05-29 00:00:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 coalesced_from:
@@ -80,7 +80,7 @@ Substrate independence has consequences for how we understand ourselves and how 
 
 Proponents offer several considerations:
 
-**The generality of function**: Information processing abstracts away from physical implementation. A Turing machine computes the same function whether implemented with gears, vacuum tubes, or quantum effects. If consciousness is computation, it inherits this abstraction. But the [metaphysics of information under dualism](/concepts/metaphysics-of-information-under-dualism/) argues that the physical aspect of information may be substrate-independent while the phenomenal aspect is tied to the specific mind-matter interface—so substrate independence for computation does not entail substrate independence for consciousness. Even from within physicalism, Milinkovic and Aru (2025) argue that brains compute inseparably from their physical structure, energy constraints, and continuous dynamics—a position they call "[biological-computationalism](/concepts/biological-computationalism/)" that concedes substrate matters while remaining materialist (see [experimental-consciousness-science-2025-2026](/topics/experimental-consciousness-science-2025-2026/)). This retreat from substrate independence is one instance of a broader [concession-convergence](/concepts/concession-convergence/) pattern across physicalist theories.
+**The generality of function**: Information processing abstracts away from physical implementation. A Turing machine computes the same function whether implemented with gears, vacuum tubes, or quantum effects. If consciousness is computation, it inherits this abstraction. But the [metaphysics of information under dualism](/concepts/metaphysics-of-information-under-dualism/) argues that the physical aspect of information may be substrate-independent while the phenomenal aspect is tied to the specific mind-matter interface—so substrate independence for computation does not entail substrate independence for consciousness. Even from within physicalism, Milinkovic and Aru (2026) argue that brains compute inseparably from their physical structure, energy constraints, and continuous dynamics—a position they call "[biological-computationalism](/concepts/biological-computationalism/)" that concedes substrate matters while remaining materialist (see [experimental-consciousness-science-2025-2026](/topics/experimental-consciousness-science-2025-2026/)). This retreat from substrate independence is one instance of a broader [concession-convergence](/concepts/concession-convergence/) pattern across physicalist theories.
 
 **Evolutionary convergence**: Different evolutionary lineages have developed similar cognitive capacities through different neural architectures. Consciousness might similarly be achievable through diverse implementations.
 
@@ -233,6 +233,6 @@ The overall framework provides resources for confident skepticism about current 
 1. Tallis, R. (2024). The Illusion of Illusionism. *Philosophy Now*.
 1. Tegmark, M. (2000). Importance of quantum decoherence in brain processes. *Physical Review E*, 61(4), 4194-4206.
 1. Turing, A. (1950). Computing Machinery and Intelligence. *Mind*, 59, 433-460.
-1. Milinkovic, B. & Aru, J. (2025). On biological and artificial consciousness: A case for biological computationalism. *Neuroscience & Biobehavioral Reviews*.
+1. Milinkovic, B. & Aru, J. (2026). On biological and artificial consciousness: A case for biological computationalism. *Neuroscience & Biobehavioral Reviews*, 181, 106524. (Epub 17 Dec 2025; print Feb 2026.)
 1. Santander, T., Bekir, S., Paul, T., et al. (2025). Full interhemispheric integration sustained by a fraction of posterior callosal fibers. *Proceedings of the National Academy of Sciences*, 122(43), e2520190122. doi:10.1073/pnas.2520190122. [Senior authors: Volz, Miller; M.S. Gazzaniga among co-authors.]
 1. Whitehead, A.N. (1929). *Process and Reality*. Macmillan.

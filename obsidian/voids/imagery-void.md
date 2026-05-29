@@ -4,7 +4,7 @@ description: "Human+AI exploration of why no conscious mind can verify the fidel
 created: 2026-04-28
 modified: 2026-04-28
 human_modified:
-ai_modified: 2026-05-09T15:38:00+00:00
+ai_modified: 2026-05-29T01:01:19+00:00
 last_deep_review: 2026-04-28T21:00:00+00:00
 draft: false
 topics:
@@ -30,6 +30,7 @@ related_articles:
   - "[[ai-consciousness-typology]]"
   - "[[vagueness-void]]"
   - "[[conjunction-coalesce]]"
+  - "[[aspect-perception-void]]"
   - "[[voids-between-minds]]"
   - "[[phenomenal-variation-within-a-species]]"
   - "[[source-attribution-divergence]]"
@@ -46,7 +47,7 @@ The void is not exotic. It sits beneath every act of remembering a face, rehears
 
 ## The Three Faces
 
-The void has three distinguishable but interlocking faces, each with its own evidential profile. This three-faced architecture is the [[conjunction-coalesce]] template the [[suspension-void]] and the [[vagueness-void|vagueness void]] also instantiate: a single void whose faces are individually recognised problems and whose conjunction is the analytical claim. The apex's sub-typology classifies this void's seam-relationship as **evidential-triangulation**—the three faces are distinct epistemic vantages on a single phenomenon, and the conjunction is forced because each face supplies an angle the others cannot; the [[voids-between-minds]] coalesce shares the same shape.
+The void has three distinguishable but interlocking faces, each with its own evidential profile. This three-faced architecture is the [[conjunction-coalesce]] template the [[suspension-void]], the [[vagueness-void|vagueness void]], and the [[aspect-perception-void|aspect-perception void]] also instantiate: a single void whose faces are individually recognised problems and whose conjunction is the analytical claim. The apex's sub-typology classifies this void's seam-relationship as **evidential-triangulation**—the three faces are distinct epistemic vantages on a single phenomenon, and the conjunction is forced because each face supplies an angle the others cannot; the [[voids-between-minds]] coalesce shares the same shape.
 
 ### The Fidelity Face
 

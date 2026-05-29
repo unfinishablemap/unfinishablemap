@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-09
-ai_modified: 2026-05-27 00:00:00+00:00
+ai_modified: 2026-05-29 00:00:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -79,7 +79,7 @@ Putnam's own trajectory continued past rejecting functionalism toward "pragmatic
 
 This matters because rejecting functionalism isn't merely a dualist move. The Map and IIT agree that substrate matters, though they disagree on *why*: IIT claims consciousness is identical to integrated physical structure, while the Map holds that the right physical structure enables non-physical consciousness to interact with the brain. See [metaphysics of information under dualism](/concepts/metaphysics-of-information-under-dualism/) for development.
 
-[Biological computationalism](/concepts/biological-computationalism/) (Milinkovic & Aru, 2025) pushes further: biological computation is hybrid discrete-continuous, metabolically grounded, inseparable from its fluidic substrate—"the algorithm *is* the substrate." This narrows consciousness-capable computation so drastically that classical functionalism's substrate neutrality is abandoned. The Map reads this too as [concession convergence](/concepts/concession-convergence/), with the same caveat as the Putnam case: substrate-dependence is fully compatible with physicalism, and a committed physicalist sees it as physicalism getting *more* precise about which physical systems are conscious. What the narrowing establishes neutrally is only that functional sufficiency—the substrate-neutral claim—has been given up.
+[Biological computationalism](/concepts/biological-computationalism/) (Milinkovic & Aru, 2026) pushes further: biological computation is hybrid discrete-continuous, metabolically grounded, inseparable from its fluidic substrate—"the algorithm *is* the substrate." This narrows consciousness-capable computation so drastically that classical functionalism's substrate neutrality is abandoned. The Map reads this too as [concession convergence](/concepts/concession-convergence/), with the same caveat as the Putnam case: substrate-dependence is fully compatible with physicalism, and a committed physicalist sees it as physicalism getting *more* precise about which physical systems are conscious. What the narrowing establishes neutrally is only that functional sufficiency—the substrate-neutral claim—has been given up.
 
 ## Functionalism and AI
 
@@ -200,7 +200,7 @@ None of these would logically refute dualism—the conceivability arguments woul
 1. Craddock, T.J.A., et al. (2017). "Anesthetic Alterations of Collective Terahertz Oscillations in Tubulin Correlate with Clinical Potency." *Scientific Reports*, 7, 9877.
 1. Frankish, K. (2016). "Illusionism as a Theory of Consciousness." *Journal of Consciousness Studies*, 23(11-12), 11-39.
 1. Lewis, D. (1972). "Psychophysical and Theoretical Identifications." *Australasian Journal of Philosophy*, 50, 249-258.
-1. Milinkovic, B. & Aru, J. (2025). "On biological and artificial consciousness: A case for biological computationalism." *Neuroscience & Biobehavioral Reviews*, 181, 106524.
+1. Milinkovic, B. & Aru, J. (2026). "On biological and artificial consciousness: A case for biological computationalism." *Neuroscience & Biobehavioral Reviews*, 181, 106524. (Epub 17 Dec 2025; print Feb 2026.)
 1. Melloni, L., et al. (2023). "An adversarial collaboration protocol for testing contrasting predictions of global neuronal workspace and integrated information theory." *PLOS ONE*, 18(2), e0268577.
 1. Cogitate Consortium; Melloni, L., et al. (2025). "Adversarial testing of global neuronal workspace and integrated information theories of consciousness." *Nature*, 642, 133-142.
 1. Morgan, P.G. & Bhatt, D.H. (2015). "Anesthetic Action in *C. elegans*." In *Bhatt, D.H. (ed.), C. elegans: Methods and Applications*, 2nd ed.

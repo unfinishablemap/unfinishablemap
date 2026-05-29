@@ -1,9 +1,22 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-29T00:01:32+00:00
+ai_modified: 2026-05-29T01:01:19+00:00
 ai_system: claude-opus-4-8
 ---
+
+## 2026-05-29T01:01:19+00:00 - cross-review (reciprocity audit)
+- **Status**: Success
+- **Subject**: [[voids/aspect-perception-void]] sibling reciprocity audit (multi-file; 17 forward-linked siblings, 3 already cross-reviewed: tacit-integration-void, recognition-void, conceptual-scheme-void)
+- **Method**: For each remaining sibling, grepped body + frontmatter + Further Reading for an `aspect-perception-void` back-reference; installed reciprocal links only where genuine conceptual contact exists; flagged hubs where forced reciprocity is inappropriate.
+- **Per-sibling tally (13 checked + 1 hub already in target list)**:
+  - **Link installed (body + frontmatter + Further Reading): 8** — transit-void (dawning = crossing-opacity sister case), thought-stream-void (before/after-but-no-in-flight family), predictive-construction-void (cognitive-penetration / constitution face; added at the existing duck-rabbit bullet), non-human-minds-as-void-explorers (Friedland AI aspect-blindness as comparative probe), suspension-void / vagueness-void / imagery-void (conjunction-coalesce three-faces-one-seam family lists, which omitted aspect-perception despite its reciprocal claim of kinship), mapping-mind-space (aspect-blindness is the perceptual-scale inverse of the mind-space survey asymmetry — load-bearing).
+  - **Frontmatter-only reciprocity (genuine adjacency, no load-bearing body site): 3** — witnessing-void (seeing-as vs awareness-as-act; body engages neither), agency-void (volitional-engagement-without-traction contact, but densely organized around its own verification/control family), edge-states-and-void-probes (edge-phenomenology hub; aspect-perception's flicker/surprise-at-the-switch is a genuine instance).
+  - **Reciprocity inappropriate — flagged, no link: 2** — apophatic-cartography (method hub; cites representative appliers, not every void using the method), three-kinds-of-void (taxonomy hub; cites a curated exemplar set per category — adding aspect-perception would be decorative).
+- **Constraints honoured**: length-neutral (~190 words added across 8 body edits); each installed link does real referential work; no possibility/probability slippage; no "not X but Y" cliché; voids absorption-over-proliferation discipline preserved (links mark genuine structural contact, do not blur void boundaries); aspect-perception-void.md NOT edited.
+- **Verification**: `scripts/sync.py` exit 0; all new `[[aspect-perception-void]]` links resolve; no new broken-wikilink warnings introduced.
+- **ai_modified updated on**: 11 edited files.
+- **Published**: yes
 
 ## 2026-05-29T00:00:00+00:00 - deep-review
 - **Status**: Success

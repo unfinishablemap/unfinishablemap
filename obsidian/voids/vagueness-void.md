@@ -4,7 +4,7 @@ description: "Human+AI exploration of why almost every concept consciousness use
 created: 2026-04-30
 modified: 2026-05-26
 human_modified:
-ai_modified: 2026-05-26T00:15:04+00:00
+ai_modified: 2026-05-29T01:01:19+00:00
 last_deep_review: 2026-05-12T03:16:00+00:00
 draft: false
 topics:
@@ -19,6 +19,7 @@ related_articles:
   - "[[conjunction-coalesce]]"
   - "[[suspension-void]]"
   - "[[imagery-void]]"
+  - "[[aspect-perception-void]]"
   - "[[apophatic-cartography]]"
   - "[[conceptual-scheme-void]]"
   - "[[conceptual-impossibility]]"
@@ -45,7 +46,7 @@ The scope is "almost every," not every, and the exception is load-bearing. Forma
 
 ## Three Faces, One Void
 
-The void exhibits the [[conjunction-coalesce]] structure used elsewhere for [[suspension-void]], [[agency-void]], and [[imagery-void]]: a single void with multiple faces whose informativeness lies in their seam. The apex's sub-typology classifies this void's seam-relationship as **reflexive**—the seam is constituted by self-application, with the metalanguage in which any face is stated itself subject to the indeterminacy the faces describe. Vagueness-void is currently the typology's only exemplar of the reflexive type; the [[suspension-void]]'s verification face exhibits reflexivity at one face only rather than across the whole seam. Each face alone is a recognised problem in the literature; the seam between them, demonstrated in §"The Seam" below, is the analytical claim.
+The void exhibits the [[conjunction-coalesce]] structure used elsewhere for [[suspension-void]], [[agency-void]], [[imagery-void]], and the [[aspect-perception-void|aspect-perception void]]: a single void with multiple faces whose informativeness lies in their seam. The apex's sub-typology classifies this void's seam-relationship as **reflexive**—the seam is constituted by self-application, with the metalanguage in which any face is stated itself subject to the indeterminacy the faces describe. Vagueness-void is currently the typology's only exemplar of the reflexive type; the [[suspension-void]]'s verification face exhibits reflexivity at one face only rather than across the whole seam. Each face alone is a recognised problem in the literature; the seam between them, demonstrated in §"The Seam" below, is the analytical claim.
 
 What makes the three faces one void rather than three adjacent problems is that the higher-order face is not a separate vagueness sitting above the other two but the *same* vagueness applied reflexively. The third-personal Sorites face concerns *C*-judgements about the world; the first-personal introspective face concerns *C*-judgements consciousness makes about its own states; the higher-order face concerns the predicate "borderline" used to describe either. These are not three vocabularies but one vocabulary deployed at three targets, and the metalanguage in which "borderline" is fixed is drawn from the very repertoire whose object-level applications are vague. So the third face does not add indeterminacy from outside; it shows that the resources a mind would use to bound the first two faces—to say which precisifications are "admissible," which traces are "borderline," which orders are "fixed"—are themselves first-order-vague terms. The unification is structural rather than coincidental: removing the higher-order face would leave the other two dissolvable by a sufficiently sharp metalanguage, and the higher-order face is precisely the demonstration that no such metalanguage is available from inside.
 

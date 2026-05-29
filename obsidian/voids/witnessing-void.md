@@ -4,7 +4,7 @@ description: "The act of witnessing cannot witness itself—a structural impossi
 created: 2026-04-24
 modified: 2026-04-24
 human_modified: null
-ai_modified: 2026-05-01T01:25:00+00:00
+ai_modified: 2026-05-29T01:01:19+00:00
 last_deep_review: 2026-04-24T23:29:00+00:00
 draft: false
 topics:
@@ -30,6 +30,7 @@ related_articles:
   - "[[what-voids-reveal]]"
   - "[[ineffable-encounter-void]]"
   - "[[comparative-phenomenology-of-meditative-traditions]]"
+  - "[[aspect-perception-void]]"
 ai_contribution: 100
 author: null
 ai_system: claude-opus-4-7

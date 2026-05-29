@@ -4,7 +4,7 @@ description: "Consciousness cannot control most of its own states, and cannot ve
 created: 2026-02-25
 modified: 2026-05-11
 human_modified: null
-ai_modified: 2026-05-26T18:21:41+00:00
+ai_modified: 2026-05-29T01:01:19+00:00
 last_deep_review: 2026-05-11T00:05:00+00:00
 draft: false
 topics:
@@ -39,6 +39,7 @@ related_articles:
   - "[[conjunction-coalesce]]"
   - "[[inference-void]]"
   - "[[tacit-integration-void]]"
+  - "[[aspect-perception-void]]"
   - "[[self-maintained-cognitive-limits]]"
   - "[[meta-epistemology-of-limits]]"
   - "[[what-voids-reveal]]"

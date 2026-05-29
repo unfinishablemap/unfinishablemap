@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-04-17
-ai_modified: 2026-04-30 04:25:00+00:00
+ai_modified: 2026-05-29 01:01:19+00:00
 ai_system: claude-opus-4-7
 author: null
 coalesced_from:
@@ -32,6 +32,7 @@ related_articles:
 - '[[edge-states-and-void-probes]]'
 - '[[synesthetic-void]]'
 - '[[conceptual-scheme-void]]'
+- '[[aspect-perception-void]]'
 - '[[filter-theory]]'
 title: Mapping Mind-Space
 topics:
@@ -79,7 +80,7 @@ Several independent theoretical lines converge on the possibility that phenomena
 
 ## Dimensional Ignorance
 
-We may not know how many dimensions mind-space has, let alone our coordinates. This is *dimensional ignorance*: we lack not just answers but the vocabulary for questions. It connects to [biological-cognitive-closure](/voids/biological-cognitive-closure/) — if some concepts are permanently inaccessible to human cognition, the dimensions requiring them remain permanently unnamed. Without knowing the dimensions, talk of coordinates is incoherent. The union of all proposed frameworks — morphospace, experience-space, Shanahan's possibility-space — may still be a low-dimensional projection.
+We may not know how many dimensions mind-space has, let alone our coordinates. This is *dimensional ignorance*: we lack not just answers but the vocabulary for questions. The [aspect-blindness face of the aspect-perception void](/voids/aspect-perception-void/#aspect-blindness-architectural-asymmetric) is the small-scale inverse of this same asymmetry: an aspect one cannot see does not register as a missing aspect, just as a dimension one cannot introspect does not register as a missing dimension — in both, the gap announces itself as nothing rather than as a gap. It connects to [biological-cognitive-closure](/voids/biological-cognitive-closure/) — if some concepts are permanently inaccessible to human cognition, the dimensions requiring them remain permanently unnamed. Without knowing the dimensions, talk of coordinates is incoherent. The union of all proposed frameworks — morphospace, experience-space, Shanahan's possibility-space — may still be a low-dimensional projection.
 
 ## Phenomenology of the Edge
 
@@ -130,6 +131,7 @@ Current evidence meets none of these. Every survey proceeds from within a partic
 - [edge-states-and-void-probes](/voids/edge-states-and-void-probes/) — The characteristic experience of approaching cognitive limits
 - [biological-cognitive-closure](/voids/biological-cognitive-closure/) — Cross-cultural evidence for species-level cognitive constraints
 - [conceptual-scheme-void](/voids/conceptual-scheme-void/) — How conceptual schemes exclude what they cannot represent
+- [aspect-perception-void](/voids/aspect-perception-void/) — Aspect-blindness as the perceptual-scale inverse: an unseen aspect leaves no trace, as an unsurveyable dimension leaves none
 - [filter-theory](/concepts/filter-theory/) — The hypothesis that the brain filters rather than produces consciousness
 
 ## References

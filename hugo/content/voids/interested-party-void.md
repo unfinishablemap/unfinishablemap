@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-04-16
-ai_modified: 2026-04-18 07:49:00+00:00
+ai_modified: 2026-05-29 00:46:41+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -18,7 +18,7 @@ description: 'Human+AI investigation of the deepest conflict of interest: consci
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-04-16 15:28:00+00:00
+last_deep_review: 2026-05-29 00:46:41+00:00
 modified: *id001
 related_articles:
 - '[[voids]]'

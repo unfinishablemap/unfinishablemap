@@ -4,7 +4,7 @@ description: "Consciousness cannot witness its own crossings—neither the onset
 created: 2026-03-05
 modified: 2026-04-27
 human_modified: null
-ai_modified: 2026-05-27T07:53:55+00:00
+ai_modified: 2026-05-29T01:01:19+00:00
 last_deep_review: 2026-04-23T19:12:00+00:00
 draft: false
 topics:
@@ -38,6 +38,7 @@ related_articles:
   - "[[attention-and-consciousness]]"
   - "[[recognition-void]]"
   - "[[thought-stream-void]]"
+  - "[[aspect-perception-void]]"
   - "[[acquaintance-void]]"
   - "[[necessary-opacity]]"
   - "[[self-opacity]]"
@@ -139,11 +140,12 @@ The transit void connects directly to the Map's [[tenets]].
 
 **[[tenets#^occams-limits|Occam's Razor Has Limits]]** applies directly. The simplest model — continuous, reliable self-monitoring — is wrong. The standard materialist reading of Libet was the simpler story; Schurger reveals the simplicity was illusory.
 
-The transit void sits within a family of related voids. The [[agency-void#the-verification-circularity|verification face of the agency void]] concerns whether consciousness can confirm its own causal powers; the transit void concerns whether it can witness those powers being exercised. The [[spontaneous-thought-void]] addresses unbidden generation; the transit void addresses the moment any mental act begins. The [[observation-and-measurement-void]] explains why every method of study transforms what it studies. Together these voids define a consistent topology: consciousness operates through an interface it cannot observe while operating through it.
+The transit void sits within a family of related voids. The [[agency-void#the-verification-circularity|verification face of the agency void]] concerns whether consciousness can confirm its own causal powers; the transit void concerns whether it can witness those powers being exercised. The [[spontaneous-thought-void]] addresses unbidden generation; the transit void addresses the moment any mental act begins. The [[aspect-perception-void]] applies the same crossing-opacity to seeing-as: the moment the rabbit dawns where the duck was is a transition the viewer has endpoints for but cannot witness mid-shift, the perceptual-conceptual instance of the structure the transit void names for state-change and act-onset generally. The [[observation-and-measurement-void]] explains why every method of study transforms what it studies. Together these voids define a consistent topology: consciousness operates through an interface it cannot observe while operating through it.
 
 ## Further Reading
 
 - [[observation-and-measurement-void]] — Why every method of studying consciousness transforms what it studies
+- [[aspect-perception-void]] — Sister case: the dawning of an aspect is a crossing witnessable only at its endpoints
 - [[phenomenology-of-returning-attention]] — Micro-structure of attention shifts, where departure is never witnessed
 - [[agency-void]] — Whether consciousness can confirm its own causal powers
 - [[necessary-opacity]] — The broader principle that consciousness must hide aspects of itself from itself

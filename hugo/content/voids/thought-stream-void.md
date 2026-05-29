@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-04-17
-ai_modified: 2026-04-28 22:23:00+00:00
+ai_modified: 2026-05-29 01:01:19+00:00
 ai_system: claude-opus-4-7
 author: null
 coalesced_from:
@@ -42,6 +42,7 @@ related_articles:
 - '[[attention-and-consciousness]]'
 - '[[transit-void]]'
 - '[[recognition-void]]'
+- '[[aspect-perception-void]]'
 - '[[inaccessible-past]]'
 - '[[sleep-consciousness-void]]'
 title: The Thought Stream Void
@@ -66,7 +67,7 @@ These are traditionally treated as separate questions about generation or forget
 
 Christoff et al. (2016) proposed that spontaneous thought—mind-wandering, dreaming, creative ideation—is unified by low constraint levels. When both deliberate (top-down cognitive control) and automatic (affective salience, habit) constraints are weak, thought drifts. Mind-wandering is what thought does when nothing holds it in place.
 
-The neural correlate is the [default mode network](/concepts/default-mode-network/)—active during rest, associated with self-referential processing and future simulation (Buckner et al., 2008). DMN activity is not random; it shows structured patterns biased toward typical life events, personal concerns, and near-future planning. Something organises the stream, but the organising principle is invisible to the person whose stream it is. Irving (2016) sharpens this: mind-wandering is *unguided* attention—not monitored or regulated as it unfolds. Where wandering runs without concurrent awareness—Smallwood and Schooler's "zoning out" distinct from "tuning out"—thought-stream opacity braids with the [opacity of attentional transit](/voids/transit-void/). The two belong to a family—with the [recognition-void](/voids/recognition-void/) and the [verification face of the agency void](/voids/agency-void/#the-verification-circularity)—in which consciousness has before-and-after access but no in-flight access to its own transitions.
+The neural correlate is the [default mode network](/concepts/default-mode-network/)—active during rest, associated with self-referential processing and future simulation (Buckner et al., 2008). DMN activity is not random; it shows structured patterns biased toward typical life events, personal concerns, and near-future planning. Something organises the stream, but the organising principle is invisible to the person whose stream it is. Irving (2016) sharpens this: mind-wandering is *unguided* attention—not monitored or regulated as it unfolds. Where wandering runs without concurrent awareness—Smallwood and Schooler's "zoning out" distinct from "tuning out"—thought-stream opacity braids with the [opacity of attentional transit](/voids/transit-void/). The two belong to a family—with the [recognition-void](/voids/recognition-void/), the [dawning of an aspect](/voids/aspect-perception-void/), and the [verification face of the agency void](/voids/agency-void/#the-verification-circularity)—in which consciousness has before-and-after access but no in-flight access to its own transitions.
 
 ## Mechanisms of Slippage
 

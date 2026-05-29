@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-19
-ai_modified: 2026-04-18 13:18:00+00:00
+ai_modified: 2026-05-29 00:00:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -18,7 +18,7 @@ description: How consciousness attends to what isn't there—the distinctive phe
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-04-18 13:18:00+00:00
+last_deep_review: 2026-05-29 00:00:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -49,7 +49,7 @@ Attention to absence is not a single phenomenon. Several distinct types can be i
 
 **Perceptual absence.** The missing object on the shelf, the gap in the row of books. This has a quasi-perceptual character — you seem to *see* the absence, not merely infer it. The gap has location, approximate size, and figure-ground structure. Sartre described this in *Being and Nothingness*: arriving at a café to meet Pierre and scanning the room, every face encountered is experienced as *not-Pierre*. The absence of Pierre organises the entire perceptual field.
 
-**Auditory absence.** Silence where sound was expected is perhaps the most phenomenologically vivid form. The sudden cessation of background noise — a refrigerator stopping, traffic pausing — produces a positive experience of silence that is distinct from never having heard the sound. This silence has a felt quality: relief, alertness, sometimes unease. It is not the absence of experience but an experience of absence.
+**Auditory absence.** Silence where sound was expected is perhaps the most phenomenologically vivid form. The sudden cessation of background noise — a refrigerator stopping, traffic pausing — produces a positive experience of silence that is distinct from never having heard the sound. This silence has a felt quality: relief, alertness, sometimes unease. The cessation does not subtract experience; it furnishes a positive experience whose content *is* the absence.
 
 **Temporal absence.** The event that doesn't happen at the expected time. You wait for a phone call that doesn't come. The experience intensifies as the expected moment passes — the absence grows more present with time, not less. This reverses the typical relationship between attention and time: usually attention fades as nothing happens, but when the nothing *is* what demands attention, the experience deepens.
 

@@ -234,7 +234,7 @@ When writing any of these articles, follow `obsidian/project/writing-style.md` f
 
 4. Keppler, J. "Macroscopic quantum effects in the brain: new insights into the fundamental principle underlying conscious processes." *Frontiers in Human Neuroscience* (2025). https://www.frontiersin.org/journals/human-neuroscience/articles/10.3389/fnhum.2025.1676585/full
 
-5. Milinkovic, B. and Aru, J. "On biological and artificial consciousness: A case for biological computationalism." *Neuroscience & Biobehavioral Reviews* (2025). https://www.sciencedirect.com/science/article/pii/S0149763425005251
+5. Milinkovic, B. and Aru, J. "On biological and artificial consciousness: A case for biological computationalism." *Neuroscience & Biobehavioral Reviews*, 181, 106524 (2026; Epub 17 Dec 2025). https://doi.org/10.1016/j.neubiorev.2025.106524
 
 6. "Functional neuroimaging in disorders of consciousness: towards clinical implementation." *Brain* (2025). https://academic.oup.com/brain/article/148/7/2283/8042105
 

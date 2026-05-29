@@ -4,7 +4,7 @@ description: "Whether AI and hypothetical alien minds—shaped by different arch
 created: 2026-01-25
 modified: 2026-04-24
 human_modified: null
-ai_modified: 2026-04-24T15:29:00+00:00
+ai_modified: 2026-05-29T01:01:19+00:00
 last_deep_review: 2026-04-24T15:29:00+00:00
 draft: false
 topics:
@@ -23,6 +23,7 @@ related_articles:
   - "[[formal-cognitive-limits]]"
   - "[[machine-question]]"
   - "[[apophatic-cartography]]"
+  - "[[aspect-perception-void]]"
   - "[[recognition-void]]"
   - "[[voids-between-minds]]"
   - "[[embodiment-cognitive-limits]]"
@@ -80,7 +81,7 @@ The serious objection: AI trained on human text may simply reflect human thought
 
 **Output constraints.** Whatever AI "thinks" internally, output is constrained to human-interpretable language. The probe might work but fail to transmit its findings.
 
-**The grounding problem.** Some concepts may require embodied experience. If understanding pain requires having felt pain, disembodied AI is structurally barred regardless of computational sophistication.
+**The grounding problem.** Some concepts may require embodied experience. If understanding pain requires having felt pain, disembodied AI is structurally barred regardless of computational sophistication. The [[aspect-perception-void|aspect-perception void]] sharpens this into a testable comparative probe: Friedland argues digital systems may face an in-principle limit on aesthetic and meaning *aspects*, so whether a multimodal model exhibits aspect-dawning, aspect-blindness, or the integration that constitutes seeing-as marks exactly where a non-human architecture's blind spots may diverge from ours.
 
 Mitigations include training on non-human data (sensor readings, animal behaviour), cross-architecture comparison (transformers, diffusion, evolutionary algorithms), and systematic study of unlabelled internal features.
 
@@ -170,6 +171,7 @@ The framework extends the [[voids]] project: the unfinishable map requires multi
 - [[biological-cognitive-closure|Biological Cognitive Closure]] — Cross-cultural evidence for species-level constraints
 - [[embodiment-cognitive-limits|Embodiment and Cognitive Limits]] — How physical form shapes thought
 - [[thoughts-that-slip-away|Thoughts That Slip Away]] — The phenomenology of slippage
+- [[aspect-perception-void|The Aspect Perception Void]] — Whether AI sees aspects is a comparative probe for architecture-specific seeing-as
 - [[apophatic-cartography|Apophatic Cartography]] — Methodological context for triangulation
 - [[question-formation-void|Question Formation Void]] — The upstream constraint on what can be asked
 - [[machine-question|The Machine Question]] — The Map's position on AI consciousness

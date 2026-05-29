@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-04-24
-ai_modified: 2026-05-01 01:25:00+00:00
+ai_modified: 2026-05-29 01:01:19+00:00
 ai_system: claude-opus-4-7
 author: null
 concepts:
@@ -33,6 +33,7 @@ related_articles:
 - '[[what-voids-reveal]]'
 - '[[ineffable-encounter-void]]'
 - '[[comparative-phenomenology-of-meditative-traditions]]'
+- '[[aspect-perception-void]]'
 title: The Witnessing Void
 topics:
 - '[[hard-problem-of-consciousness]]'

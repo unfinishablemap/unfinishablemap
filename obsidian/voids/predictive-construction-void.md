@@ -4,7 +4,7 @@ description: "Human+AI exploration of why consciousness cannot determine the bou
 created: 2026-04-16
 modified: 2026-04-27
 human_modified:
-ai_modified: 2026-04-29T07:04:00+00:00
+ai_modified: 2026-05-29T01:01:19+00:00
 last_deep_review: 2026-04-29T07:04:00+00:00
 draft: false
 topics:
@@ -24,6 +24,7 @@ related_articles:
   - "[[simulation-detection-void]]"
   - "[[self-opacity]]"
   - "[[conceptual-scheme-void]]"
+  - "[[aspect-perception-void]]"
   - "[[predictive-processing-and-dualism]]"
   - "[[dualist-perception]]"
   - "[[mood-void]]"
@@ -64,7 +65,7 @@ The void becomes briefly visible when prediction fails:
 
 - **Optical illusions** reveal the brain's predictions overriding sensory data (Müller-Lyer lines, the hollow-face illusion)
 - **Genuine surprise** exposes prediction error as prediction error, momentarily revealing the gap between model and world
-- **Ambiguous figures** (Necker cube, duck-rabbit) demonstrate that identical sensory data can support incompatible perceptual constructions
+- **Ambiguous figures** (Necker cube, duck-rabbit) demonstrate that identical sensory data can support incompatible perceptual constructions—the [[aspect-perception-void|aspect-perception void]] develops this case in its own right, where the cognitive penetration that selects one aspect over the other is constitutive of the percept yet hidden from the perceiver
 - **Altered states** destabilise predictive models, revealing the constructive nature of what ordinarily passes for "direct" perception
 - **Expertise transitions** show prior knowledge reshaping what is seen—a radiologist and a layperson receive the same retinal input but perceive different things
 
@@ -129,6 +130,7 @@ This is a falsifiability risk, not only a feature. Treating first-person opacity
 - [[simulation-detection-void]] — The related void of detecting simulated substrates
 - [[predictive-processing-and-dualism]] — Predictive processing reinterpreted for dualist frameworks
 - [[dualist-perception]] — How dualism reshapes the philosophy of perception
+- [[aspect-perception-void]] — Cognitive penetration of perception in the seeing-as case, where construction selects an aspect invisibly
 - [[self-opacity]] — The inability to observe one's own cognitive mechanisms
 - [[mood-void]] — Same self-erasing architecture in the affective register
 - [[mutation-void]] — Inspection-induced transformation; auditing perturbs what is audited

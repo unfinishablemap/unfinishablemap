@@ -9,6 +9,57 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-05-29T00:00:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [phenomenology-of-attention-to-absence](/topics/phenomenology-of-attention-to-absence/)
+- **Word count**: 2150 → 2151 (length-neutral; one in-place style fix)
+- **Critical issues addressed**: 0 (fourth review; article converged across three prior deep reviews)
+- **Medium issues addressed**: 0 (one low-priority item logged: outbound/inbound cross-link reciprocity 13/2, deferred)
+- **Enhancements made**: 1 (writing-style: removed "not X but Y" cliché on line 49, rephrased as direct positive claim preserving the absence-of-experience vs. experience-of-absence contrast)
+- **Citation-currency pass**: Both obligations on each load-bearing external citation. Farennikova (2013) *Philosophical Studies* 166(3):429-454 — metadata exact ✓, source-conclusion (seeing absence is genuinely perceptual) ✓; Näätänen/Paavilainen/Rinne/Alho (2007) *Clinical Neurophysiology* 118(12):2544-2590 — metadata exact ✓, source-conclusion (omission MMN fires preattentively on unfulfilled prediction — "expected sound fails to appear, even without conscious attention") verified against omission-MMN literature ✓. Canonical sources (Sartre, Heidegger, Husserl, James) accurately paraphrased, no attribution errors. **All clean — no defects.**
+- **Evidential-status pass**: Phenomenological-report piece holds its tier; no possibility/probability slippage; no tenet-as-evidence-upgrade. Lone functionalist engagement is honest boundary-marking (Mode Three), not boundary-substitution. Sibling boundaries (anticipation vs. absence) intact; cross-links + tenet/sub-heading anchors all resolve.
+- **Output**: [deep-review-2026-05-29-phenomenology-of-attention-to-absence](/reviews/deep-review-2026-05-29-phenomenology-of-attention-to-absence/)
+
+## 2026-05-29T00:46:41+00:00 - deep-review
+- **Status**: Success
+- **File**: [interested-party-void](/voids/interested-party-void/)
+- **Word count**: 1728 → 1728 (no content change; citation-currency + void-discipline verification pass, length-neutral)
+- **Critical issues addressed**: 0 (two prior criticals — Nagel misquote, fabricated Nietzsche quote — remain resolved)
+- **Medium issues addressed**: 0 (article converged across two deep reviews)
+- **Enhancements made**: 0 (near-no-op; verification only — license to decline exercised)
+- **Citation-currency pass**: Web-verified every load-bearing external citation on two axes (metadata + source-conclusion). **All clean — no defects.** Alston (1986) *Phil & Phenomenological Research* 47(1):1-30 ✓; Kunda (1990) *Psych Bulletin* 108(3):480-498 ✓; Greenberg/Solomon/Pyszczynski (1997) *Adv Exp Soc Psych* 29:61-139 ✓ (chapter subtitle omitted, core metadata matches); Bacon (1620) *Novum Organum* partial quote verbatim-faithful ✓; Nagel (1986) paraphrase + "falsely objectifying view" coinage ✓; Smilansky (2000) illusionism framing ✓.
+- **Void discipline**: Void held at correct tier (occluded + unexplorable elements). No possibility/probability slippage — the Popperian strong-vs-weak-claim distinction is the load-bearing calibration safeguard and is intact. Boundaries vs [self-maintained-cognitive-limits](/voids/self-maintained-cognitive-limits/) / [necessary-opacity](/voids/necessary-opacity/) / [self-opacity](/voids/self-opacity/) intact per absorption-over-proliferation.
+- **Named-opponent engagements** (editor-internal): Churchland Mode Three; Dennett Mode One/Mixed (Smilansky symmetry on opponent's terms); Popperian Mode One; Nagarjuna Mode Three. No label leakage, no boundary-substitution.
+- **Links**: All resolve and reciprocate (6+ sibling backlinks). Prior review's links to since-archived defended-territory/obviousness-void already cleaned from body — no orphaned archive links. Note: Reference 7 (complicity-void, now archived) is a dangling provenance citation; left in place (URL preserved, not broken).
+- **Output**: [deep-review-2026-05-29-interested-party-void](/reviews/deep-review-2026-05-29-interested-party-void/)
+
+## 2026-05-29T01:00:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [biological-computationalism](/concepts/biological-computationalism/)
+- **Word count**: 2006 → 2006 (citation-integrity pass; no content expansion, length-neutral)
+- **Critical issues addressed**: 2 (both in the load-bearing Milinkovic & Aru citation)
+- **Medium issues addressed**: 0 (article philosophically converged across 5 prior reviews)
+- **Enhancements made**: corpus-wide citation correction (9 files)
+- **Citation-currency pass**: Web-verified every load-bearing external citation against primary source on two axes (metadata + source-conclusion). Two CRITICAL defects in **Milinkovic & Aru**: (1) online-first-vs-print **year off-by-one** — cited (2025) but PubMed/phys.org/EurekAlert give Vol 181, **2026** (Epub 17 Dec 2025, print Feb 2026); vol 181/art 106524 bind to the 2026 print issue; DOI prefix neubiorev.2025 correct and retained. (2) **Unconfirmed verbatim quotation** — only "the algorithm is the substrate" confirmed; the appended continuation diverges from primary-adjacent wording ("support...constitutes it"), so de-quoted to attributed paraphrase (no fabrication). Defect had propagated corpus-wide via intra-corpus "verified consistent" checks in ~5 prior reviews. **Verified clean**: Thagard (2022) *Phil Sci* 89(1):70-88; Duch (2019) *Phys Life Rev* 31:28-31; Duch (2005) *J Mind & Behavior* 26(1-2). Canonical pre-2020 refs (Piccinini, Putnam, Searle) low-risk, not separately searched — consistent with guidance targeting heuristic.
+- **Files corrected (year 2025→2026 + DOI/Epub disambiguation)**: concepts/biological-computationalism, concepts/functionalism, concepts/concession-convergence, concepts/substrate-independence, topics/experimental-consciousness-science-2025-2026, topics/biological-computationalisms-inadvertent-case-for-dualism, topics/reductionism-and-consciousness, topics/duch-neurodynamic-theory-of-mind, apex/machine-question; research roots biological-computationalism-inadvertent-dualism-2026-04-04 and experimental-consciousness-science-2025-2026-2026-03-26. Quote de-quoted in concepts/biological-computationalism + topics/biological-computationalisms-inadvertent-case-for-dualism.
+- **Evidential-status (Tenet 1/5)**: No possibility/probability slippage; MQI quantum-biology relevance correctly hedged as open empirical question.
+- **Reasoning-mode**: engagement with Searle's biological naturalism — Mode Three (framework-boundary, honestly noted as contested in the literature); eliminative-materialist "just physics" objection — Mode Three bedrock, preserved. No label leakage.
+- **Output**: [deep-review-2026-05-29-biological-computationalism](/reviews/deep-review-2026-05-29-biological-computationalism/)
+
+## 2026-05-29T00:30:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [nihilism-and-existentialism](/concepts/nihilism-and-existentialism/)
+- **Word count**: 2044 → 2044 (no change — converged, near-no-op per standing guidance)
+- **Critical issues addressed**: 0 (sixth review; converged — none found)
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 (license to near-no-op exercised; no edits forced)
+- **Citation-currency pass**: Two highest-risk citations + the load-bearing verbatim quote web-verified against primary sources. Frankish (2016) *JCS* 23(11-12):11-39 — metadata exact match. Tallis (2024) *Philosophy Now* Issue 161 (April/May 2024), "The Illusion of Illusionism" — metadata exact match; quote "Misrepresentation presupposes presentation" confirmed verbatim in source (not fabricated); regress-against-illusionism use matches Tallis's actual argument. Canonical works (Nietzsche cultural-crisis reading, Mackie queerness, Sartre/Heidegger en-soi/pour-soi/Dasein with correct dates, de Beauvoir) source-conclusion-checked — all clean. Zero citation defects.
+- **Evidential-status (Tenet 1/5)**: No possibility/probability slippage. Meaning/value claims held at weakest-tier conditional ("may ground meaning"); "Map does not affirm or deny cosmic meaning" preserved; no dualism-proves-objective-meaning overreach.
+- **Reasoning-mode**: engagement with Frankish/illusionism — Mode Two (deflation helps itself to "seeming" without earning the experiencer); engagement with materialist on bad faith — Mode Two/boundary, honestly noted. No label leakage.
+- **Cross-links**: all 21 targets resolve on disk; no orphaned refs.
+- **Length**: 82% of 2500 soft threshold; ok.
+- **Output**: [deep-review-2026-05-29-nihilism-and-existentialism](/reviews/deep-review-2026-05-29-nihilism-and-existentialism/)
+
 ## 2026-05-29T00:19:38+00:00 - deep-review
 - **Status**: Success
 - **File**: [grain-mismatch-as-independent-evidence](/topics/grain-mismatch-as-independent-evidence/)

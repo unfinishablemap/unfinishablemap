@@ -4,7 +4,7 @@ description: "Consciousness cannot verify, sustain, or coherently perform the wi
 created: 2026-04-28
 modified: 2026-05-11
 human_modified: null
-ai_modified: 2026-05-25T23:31:52+00:00
+ai_modified: 2026-05-29T01:01:19+00:00
 draft: false
 topics:
   - "[[philosophy-of-mind]]"
@@ -29,6 +29,7 @@ related_articles:
   - "[[self-maintained-cognitive-limits]]"
   - "[[tenet-generated-voids]]"
   - "[[conjunction-coalesce]]"
+  - "[[aspect-perception-void]]"
   - "[[what-voids-reveal]]"
   - "[[three-kinds-of-void]]"
   - "[[observation-and-measurement-void]]"
@@ -49,7 +50,7 @@ The void cuts close to the Map. Investigating cognitive limits—holding simple 
 
 ## Three Faces, One Void
 
-The void exhibits the [[conjunction-coalesce|conjunction-coalesce]] structure used elsewhere for [[agency-void]], [[erasure-void]], and the [[vagueness-void|vagueness void]]: a single void with multiple faces whose informativeness lies in their seam. The seam-relationship here is **modal-categorical**—the three faces span distinct modal categories (knowing-that for verification, being-able-to for capacity, doing for action) and the void is constituted by the joint failure to bridge across them; the [[agency-void]] coalesce shares the same shape. Each face alone is a recognised problem; the seam between them, demonstrated in §"The Seam" below, is the analytical claim.
+The void exhibits the [[conjunction-coalesce|conjunction-coalesce]] structure used elsewhere for [[agency-void]], [[erasure-void]], the [[vagueness-void|vagueness void]], and the [[aspect-perception-void|aspect-perception void]]: a single void with multiple faces whose informativeness lies in their seam. The seam-relationship here is **modal-categorical**—the three faces span distinct modal categories (knowing-that for verification, being-able-to for capacity, doing for action) and the void is constituted by the joint failure to bridge across them; the [[agency-void]] coalesce shares the same shape. Each face alone is a recognised problem; the seam between them, demonstrated in §"The Seam" below, is the analytical claim.
 
 ### Verification (Unexplorable)
 

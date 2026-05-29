@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-04-27
-ai_modified: 2026-05-26 18:21:41+00:00
+ai_modified: 2026-05-29 01:01:19+00:00
 ai_system: claude-opus-4-7
 author: null
 coalesced_from:
@@ -44,6 +44,7 @@ related_articles:
 - '[[conjunction-coalesce]]'
 - '[[inference-void]]'
 - '[[tacit-integration-void]]'
+- '[[aspect-perception-void]]'
 - '[[self-maintained-cognitive-limits]]'
 - '[[meta-epistemology-of-limits]]'
 - '[[what-voids-reveal]]'

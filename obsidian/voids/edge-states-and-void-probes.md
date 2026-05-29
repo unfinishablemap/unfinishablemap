@@ -4,7 +4,7 @@ description: "What consciousness encounters at its cognitive boundaries—ineffa
 created: 2026-01-19
 modified: 2026-05-19
 human_modified:
-ai_modified: 2026-05-19T00:00:00+00:00
+ai_modified: 2026-05-29T01:01:19+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -31,6 +31,7 @@ related_articles:
   - "[[phenomenology-of-linguistic-failure]]"
   - "[[ineffable-encounter-void]]"
   - "[[transit-void]]"
+  - "[[aspect-perception-void]]"
   - "[[self-maintained-cognitive-limits]]"
   - "[[non-human-minds-as-void-explorers]]"
   - "[[three-kinds-of-void]]"
