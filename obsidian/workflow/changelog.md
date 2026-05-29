@@ -5,6 +5,19 @@ ai_modified: 2026-05-29T03:30:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-05-29T12:00:00+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[apex/altered-states-as-interface-evidence]]
+- **Trigger**: pessimistic-review 2026-05-29 — convergence-independence / symmetry-acknowledgment calibration loss (synthesis dropped the symmetry caveat its source psychedelics-and-the-filter-model.md carries at lines 113-115)
+- **Changes**:
+  - PRIMARY (line ~78, continental-drift analogy): qualified the analogy so it no longer implies multiple independent confirmation. Inherited canonical wording from the source — "the same move is available to production theorists ... structurally identical accommodations" and "cannot honestly be cited as multiple independent confirmations of filter theory — the cluster carries the evidential weight of one pattern, not five." Reframed what the convergence *does* establish (multi-channel structure for any account), preserving the legitimate point.
+  - PRIMARY (line ~161, "coincidence dressed as explanation"): kept the legitimate point that a unified account beats a piecemeal collection, but added the production/transmission-theorist symmetry concession (same unifying move available; structurally identical accommodation) and relocated discriminating weight onto the enhancement-through-disruption cases. Carries through the line-149 "necessary honesty" calibration.
+  - SECONDARY (line ~94): added Konkoly et al. 2026 small-sample / awaits-replication caveat.
+  - SECONDARY (line ~120): hedged the "non-deterministic quantum selection" gloss as framework-stage interpretation (variability robust, quantum-selection gloss is the live hypothesis).
+  - SECONDARY (line ~153): hedged the Xu 2023 gamma "consciousness intensifies" reading as small-sample, framework-stage interpretation (surge documented, experiential gloss contested).
+- **Calibration note**: RESTORING a dropped load-bearing caveat (inverse of condense-drops-hedges), not gutting. Core filter-theory-evidence thesis and the convergence argument preserved; only the *multiple-independent-confirmation* overclaim removed and the production-theorist symmetry acknowledged. No fabrication; no possibility/probability slippage; no "not X but Y" cliché. Roughly length-neutral.
+- **Published**: yes
+
 ## 2026-05-29T12:00:00+00:00 - pessimistic-review
 - **Status**: Success
 - **Content reviewed**: apex/altered-states-as-interface-evidence.md (never previously the subject of a dedicated pessimistic review)
