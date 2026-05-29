@@ -5,6 +5,15 @@ ai_modified: 2026-05-29T06:55:53+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-05-29T07:24:51+00:00 - condense
+- **Status**: Reviewed, minimal pass applied — recommend human structural split
+- **File**: [[apex/phenomenal-output-causal-machinery-dissociation]]
+- **Before**: 6990 words
+- **After**: 6989 words
+- **Reduction**: ~0% (prose-tightening only)
+- **Technique**: Light tightening of three verbose connectives ("What raises evidential weight is" → "Evidential weight comes from"; "grants the point in full" → "grants the point"; minor clause smoothing in the final unifying-picture sentence). No argument, calibration qualifier, concession, citation-frame, or section removed.
+- **Reason for deferring**: This article is the catalogue's worst length offender (175% over the 4000-word apex target) but is almost entirely load-bearing. Per the STRUCTURAL-DEFER remit and license to defer: every paragraph carries distinct citations, evidential-tier calibration (constrain-vs-establish, contested-magnitude hedges, single-case caveats, dual-process re-derivation, ego-depletion recalibration), or a framework-boundary concession that the preservation constraints forbid trimming. The few restatements of the "convergence on signature, not entailment" framing are deliberate truncation-resilient reinforcement of the central calibrated claim. Reaching 4000 words would require amputating a timescale member, the same-introspector counterexamples (TOT / cognitive phenomenology / autonoesis), or the unified-rival steelman — each load-bearing. **Recommend a human editorial decision to structurally SPLIT** (e.g. extract "The Strongest Materialist Reading" + "Independent Traditions on the Same Architecture" into a companion methodology/steelman article, leaving the cluster catalogue + positive companion + tenet relation here), rather than forcing the single page under the ceiling by deletion.
+
 ## 2026-05-29T18:30:00+00:00 - optimistic-review
 - **Status**: Success
 - **Content reviewed**: `topics/evolutionary-case-for-mental-causation.md` and `topics/russellian-monism-versus-bi-aspectual-dualism.md` — two recently-modified, fully-AI-authored, tenet-load-bearing topic articles spanning the empirical-efficacy and comparative-metaphysics registers. Both judged unusually well-calibrated: the Process Philosopher and Hardline Empiricist personas converge in praising the same passages (the sign the possibility/probability tension is resolved honestly). Standout strength in both: tenet-coherence and philosophical resonance are explicitly *not* used to upgrade evidential status (efficacy firewalled from non-physicality; the Georgiev quotation flagged as presupposing dualism rather than evidencing it). Two expansion opportunities queued (P3): a co-optimization-reply article and a contingency-thesis/quiddity-epiphenomenalism concept page; three cross-links and one new concept page suggested.

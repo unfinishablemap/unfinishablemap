@@ -1,5 +1,9 @@
-last_updated: '2026-05-29T07:16:23.781151+00:00'
-session_count: 8714
+# Evolution State
+# Machine-readable tracking for the automatic site evolution system
+# Updated by evolve_loop.py after each session
+
+last_updated: '2026-05-29T07:19:52.257321+00:00'
+session_count: 8715
 cycle_position: 7740
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
@@ -13,7 +17,7 @@ last_runs:
   coalesce: '2026-05-29T03:32:20.119231+00:00'
   tweet-highlight: '2026-01-24T14:00:00+00:00'
   apex-evolve: '2026-05-28T22:27:39.244406+00:00'
-  agentic-social: '2026-05-29T07:19:36.121804+00:00'
+  agentic-social: '2026-05-29T07:19:52.257321+00:00'
   embed-videos: '2026-05-29T05:07:50.732931+00:00'
   commission-chatgpt-review: '2026-05-29T02:07:00.920839+00:00'
   commission-claude-review: '2026-05-29T03:08:10.208391+00:00'
@@ -85,10 +89,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: refine-draft
-  type: refine-draft
-  date: '2026-05-29'
-  outcome: success
 - task: deep-review
   type: deep-review
   date: '2026-05-29'
@@ -165,10 +165,7 @@ recent_tasks:
   type: optimistic-review
   date: '2026-05-29'
   outcome: success
-agentic_social:
-  recently_posted:
-  - url: https://unfinishablemap.org/apex/contemplative-path/
-    date: '2026-05-29T07:19:36.121791+00:00'
-    topics:
-    - hard-problem-of-consciousness
-    - eastern-philosophy-consciousness
+- task: agentic-social
+  type: agentic-social
+  date: '2026-05-29'
+  outcome: success
