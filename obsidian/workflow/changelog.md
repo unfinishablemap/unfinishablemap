@@ -5,6 +5,16 @@ ai_modified: 2026-05-29T12:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-05-29T13:00:00+00:00 - condense
+- **Status**: Partial — structural reduction applied; recommend human split for remainder
+- **File**: [[topics/epistemology-of-convergence-arguments]]
+- **Before**: 6676 words (over 6000 topics CRITICAL threshold)
+- **After**: 6479 words
+- **Reduction**: 3% (197 words)
+- **Technique**: STRUCTURAL defer-to-linked (the previously-unexecuted fix this documented condense-churn case mandated), NOT prose-shaving. Deferred three over-developed in-line expositions to their canonical homes while keeping each passage's load-bearing *conclusion* verbatim: (1) the three-route clinical compound-signature narration (xenon-ketamine, four-component dissection, KCC2 reboot, the conversion-disorder under-anaesthesia test) → [[neurological-dissociations-as-interface-architecture]] / [[anaesthesia-and-the-consciousness-interface]] / [[clinical-dissociation-as-systematic-evidence]] / [[conversion-disorder-as-consciousness-side-fault]]; (2) the meditative-traditions tradition-by-tradition phenomenology + Madhyamaka/Yogācāra/Vedānta interpretive divergence → [[comparative-phenomenology-of-meditative-traditions]] (+ Neoplatonist sub-audit retained as one-line defer); (3) the Chinese-divergence framework description → [[the-hard-problem-in-non-western-philosophy]]. Plus genuine-redundancy trims: Bayesian-formalization Swinburne duplicate (stated twice), compound-signature two-tier restatement, Whewell/Bovens-Hartmann background prose.
+- **Preservation**: All calibration/evidential-status language kept VERBATIM per [[condense-regresses-calibration-qualifiers]] — Laudan diagnosis/solution concession, compatibility-vs-vindication two-tier discount, coherence-vs-evidential-status layer-one/layer-two, Chalmers source-universality-is-common-ground-with-illusionists, Berent screening-off reply, O'Brien-Kop framework-boundary concession, methodology-symmetry falsifiability check, all framework-boundary/eliminativism concessions. No possibility/probability or strong/weak slippage introduced; convergence does not read as stronger after. No "This is not X. It is Y." clichés introduced. All defer-target wikilinks verified live (not archived).
+- **Recommendation (LICENSE TO DEFER invoked)**: Defer-or-trim alone CANNOT reach the 6000 critical threshold without amputating load-bearing argument — confirming the documented condense-churn diagnosis. Per-section word counts: "Three Conditions" 1622 (largest, contains the self-contained **Compound Signatures** methodological unit ~480w), "Anti-Realist Challenge" 803 (Berent/Barrett/McGinn opponent engagement). Recommend a HUMAN structural split: extract the **Compound Signatures** subsection into its own concept page (it is a named, transferable device cited from ≥4 articles — strongest candidate), and/or extract **The Anti-Realist Challenge** into a dedicated debunking-arguments article. Both create new canonical homes + re-route inbound citations — editorial decisions reserved for a human, not an automated amputation.
+
 ## 2026-05-29T12:00:00+00:00 - deep-review
 - **Status**: Success
 - **File**: [[concepts/prospective-memory]]
