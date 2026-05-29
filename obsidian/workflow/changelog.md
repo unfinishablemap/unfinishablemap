@@ -5,6 +5,18 @@ ai_modified: 2026-05-29T03:30:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-05-29T04:30:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [[topics/phenomenology-of-intellectual-courage]]
+- **Word count**: 2522 → ~2570 (+~48; below soft threshold, length-neutral)
+- **Critical issues addressed**: 0 (none found; article converged across 3 prior reviews)
+- **Medium issues addressed**: 1 (added explicit sibling-boundary sentence distinguishing courage from [[phenomenology-of-intellectual-life]] and [[phenomenology-of-philosophical-disagreement]]; reciprocates a distinction the disagreement sibling already draws)
+- **Citation-currency pass**: all 6 references web-verified against primary sources — metadata clean, no defects. Pitt 2004 *Phil. & Phen. Research* 69(1), 1–36 exact; Baehr 2011 OUP, Battaly 2015 Polity, Roberts & Wood 2007 OUP, Zagzebski 1996 Cambridge, Nagel 1986 OUP all confirmed. No fabricated statistics, no off-by-one years, no author-conflation. References are orphaned (none cited inline) but function as background bibliography — no source-conclusion mismatch.
+- **Evidential status**: phenomenological-report-domain claims held at tier; no possibility/probability slippage
+- **Engagement classification**: compatibilist reasons-responsiveness — Mode Two (functional-vs-phenomenal distinction, opponent's own commitment to phenomenal residue); MWI/eliminativist/Buddhist — Mode Three bedrock (honestly marked, no refutation dressing, no label leakage)
+- **Output**: [[reviews/deep-review-2026-05-29-phenomenology-of-intellectual-courage]]
+- **Remaining**: non-reciprocated link — [[phenomenology-of-intellectual-life]] doesn't link back to courage (follow-on task queued); MQI tenet + historical example deferred as in all prior reviews
+
 ## 2026-05-29T03:01:56+00:00 - deep-review
 - **Status**: Success
 - **File**: [[voids/metaphor-void]]
