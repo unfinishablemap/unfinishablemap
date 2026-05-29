@@ -1,9 +1,19 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-29T06:02:38+00:00
+ai_modified: 2026-05-29T06:22:20+00:00
 ai_system: claude-opus-4-8
 ---
+
+## 2026-05-29T06:22:20+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[topics/completeness-in-physics-under-dualism]]
+- **Task**: Topic-concept anchoring calibration (audit 2026-05-29). Under-hedged/over-asserting vs three anchors — [[observational-closure]] (steepest hedge bar 3.54/kw), [[causal-closure]], [[mental-causation-and-downward-causation]].
+- **Before**: word_count 2371, hedge_density 2.11/kw, strong_assertion_count 1, underdetermination_markers 0 — all three anchors flagged (hedge_density + underdetermination, plus strong_assertions on mental-causation).
+- **After**: word_count 2500, hedge_density 3.60/kw, strong_assertion_count 0, underdetermination_markers 4. **evaluate_anchoring re-run against obsidian/: ZERO flags** for all three anchors.
+- **Changes**: (1) Recast the one strong-assertion verb — "Torres Alegre (2025) shows that" → "argues that … appears to be the unique" (honest non-assertive form). (2) Added underdetermination markers at genuinely open junctures only: whether strong causal closure holds ("empirically equivalent", "not adjudicated by the data alone" after the exclusion argument); whether an interface is observationally detectable ("empirically equivalent", "does not adjudicate", "observationally underdetermined" in the observational-closure section). (3) Raised hedge density at contested/conditional claims — Born-rule form-fixed-but-underivable passage ("appears to", "arguably", "may be compatible"), Barrett no-collapse reading ("arguably provides a subject, though … remains open"). 
+- **Anti-mush discipline**: hedges/underdetermination added ONLY at contested junctures; the Map's core thesis (dualism requires a principled gap in physical completeness) and definitional statements (the three kinds of completeness, the no-go theorem results) left unsoftened. Per [[evidential-status-discipline]]: kept the incompleteness thesis at the tenet-driven-commitment tier, no possibility/probability slippage, no "not X but Y" cliché.
+- **Published**: yes
 
 ## 2026-05-29T15:00:00+00:00 - refine-draft (cross-review)
 - **Status**: Success
