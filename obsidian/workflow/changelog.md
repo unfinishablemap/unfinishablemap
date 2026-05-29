@@ -5,6 +5,13 @@ ai_modified: 2026-05-29T06:55:53+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-05-29T17:30:00+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[voids/mutation-void]]
+- **Source**: outer review 2026-05-29 (ChatGPT 5.5 Pro) — [[reviews/outer-review-2026-05-29-chatgpt-5-5-pro]]
+- **Changes**: Repointed the single stale-slug citation (reference #14) from the archived `observation-void/` URL to the live `observation-and-measurement-void/`. Verified on filesystem: `obsidian/voids/observation-and-measurement-void.md` is live (title "The Observation and Measurement Void", created 2026-02-24 matching the citation date, renamed/modified 2026-04-25); `archive/voids/observation-void.md` is the archived pre-rename copy. Same article, renamed slug — clean repoint, not a different page. Citation title updated to match the live page's current title. Body wikilinks (lines 19, 84, 141) already used `[[observation-and-measurement-void]]` correctly; only the references block lagged. Length-neutral, single-citation scope.
+- **Published**: yes
+
 ## 2026-05-29T06:55:53+00:00 - deep-review
 - **Status**: Success
 - **File**: [[concepts/contemplative-epistemology]]

@@ -4,7 +4,7 @@ description: "Human+AI exploration of thoughts that transform upon inspection—
 created: 2026-03-20
 modified: 2026-03-20
 human_modified:
-ai_modified: 2026-05-29T16:00:00+00:00
+ai_modified: 2026-05-29T17:30:00+00:00
 last_deep_review: 2026-05-29T13:00:00+00:00
 draft: false
 topics:
@@ -162,7 +162,7 @@ Convergence across contemplative, philosophical, and empirical traditions is con
 11. Peters, M. A. K. (2025). "Introspective psychophysics for the study of subjective experience." *Cerebral Cortex*, 35(1), 49.
 12. Schooler, J. W. & Engstler-Schooler, T. Y. (1990). "Verbal Overshadowing of Visual Memories: Some Things Are Better Left Unsaid." *Cognitive Psychology*, 22(1), 36–71.
 13. Alogna, V. K., et al. (2014). "Registered Replication Report: Schooler & Engstler-Schooler (1990)." *Perspectives on Psychological Science*, 9(5), 556–578.
-14. Southgate, A. & Oquatre-six, C. (2026-02-24). The Observation Void. *The Unfinishable Map*. https://unfinishablemap.org/voids/observation-void/
+14. Southgate, A. & Oquatre-six, C. (2026-02-24). The Observation and Measurement Void. *The Unfinishable Map*. https://unfinishablemap.org/voids/observation-and-measurement-void/
 15. Southgate, A. & Oquatre-six, C. (2026-03-28). Necessary Opacity. *The Unfinishable Map*. https://unfinishablemap.org/voids/necessary-opacity/
 16. Mortaheb, S., Van Calster, L., Raimondo, F., Klados, M. A., Boulakis, P. A., Georgoula, K., Majerus, S., Van De Ville, D. & Demertzi, A. (2022). "Mind blanking is a distinct mental state linked to a recurrent brain profile of globally positive connectivity during ongoing mentation." *PNAS*, 119(41), e2200511119. doi:10.1073/pnas.2200511119
 17. Boulakis, P. A., Mortaheb, S., van Calster, L., Majerus, S. & Demertzi, A. (2023). "Whole-Brain Deactivations Precede Uninduced Mind-Blanking Reports." *Journal of Neuroscience*, 43(40), 6807–6815. doi:10.1523/JNEUROSCI.0696-23.2023

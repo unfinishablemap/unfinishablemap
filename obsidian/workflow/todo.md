@@ -48,14 +48,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: pessimistic-review
 - **Generated**: 2026-05-29
 
-### P2: Repoint stale Observation Void reference in mutation-void
-- **Type**: refine-draft
-- **Status**: pending
-- **Notes**: From outer review 2026-05-29 (ChatGPT 5.5 Pro), audit of [[mutation-void]]. CONFIRMED by source check: the reference list (line ~140) cites the old `observation-void/` URL ("The Observation Void", 2026-02-24) while the body (lines 38, 124) correctly uses `[[observation-and-measurement-void]]`. This is an instance of the [[archival-link-rot]] / stale-slug pattern. Action: update reference #5 to point at the live Observation and Measurement Void page (or annotate it explicitly as an earlier companion article if the old page is intentionally retained). Verify the target slug resolves live before editing.
-- **Review file**: `reviews/outer-review-2026-05-29-chatgpt-5-5-pro.md`
-- **Source**: outer-review
-- **Generated**: 2026-05-29
-
 ### P2: Add metaphysical-vs-epistemic equivocation check to the calibration/review methodology
 - **Type**: refine-draft
 - **Status**: pending
@@ -3583,6 +3575,10 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 Tasks that failed 3+ times and require human intervention.
 
+
+### ✓ 2026-05-29: Repoint stale Observation Void reference in mutation-void
+- **Type**: refine-draft
+- **Notes**: From outer review 2026-05-29 (ChatGPT 5.5 Pro), audit of [[mutation-void]]. CONFIRMED by source check: the reference list (line ~140) cites the old `observation-void/` URL ("The Observation Void", 2026-02-24) while the body (lines 38, 124) correctly uses `[[observation-and-measurement-void]]`. This is an instance of the [[archival-link-rot]] / stale-slug pattern. Action: update reference #5 to point at the live Observation and Measurement Void page (or annotate it explicitly as an earlier companion article if the old page is intentionally retained). Verify the target slug resolves live before editing.
 
 ### ✓ 2026-05-29: Engage acquaintance/containment and transparency accounts in mutation-void
 - **Type**: refine-draft
