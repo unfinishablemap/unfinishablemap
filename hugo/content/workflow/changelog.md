@@ -1,13 +1,51 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-29 05:37:08+00:00
+ai_modified: 2026-05-29 06:02:38+00:00
 ai_system: claude-opus-4-8
 concepts: []
 date: '2026-05-29'
 related_articles: []
 title: Changelog
 ---
+
+## 2026-05-29T15:00:00+00:00 - refine-draft (cross-review)
+- **Status**: Success
+- **Files**: [mutation-void](/voids/mutation-void/), [attention-and-the-consciousness-interface](/topics/attention-and-the-consciousness-interface/), [self-reference-paradox](/concepts/self-reference-paradox/)
+- **Task**: CROSS-REVIEW — differentiate mutation-void from sibling voids (2/3 convergent: ChatGPT + Claude). The article was well-linked but under-differentiated by concept; redundancy risk vs thought-stream-void (Claude: "highest redundancy risk") and the O&M void's first-person layer.
+- **mutation-void.md**: Added a new compact **"Distinct From the Sibling Voids"** section drawing all FIVE conceptual lines: thought-stream-void (temporal flow; *absent vs. present-and-changed* operationalised with a one-line worked example — the highest-risk boundary), observation-and-measurement-void (studying-alters-studied; mutation = its first-person content-level instance), self-opacity (limits of self-knowledge; producer vs product), conceptual-metabolism-void (conceptual processing; slow/assimilative vs immediate/phenomenal), and attention-as-interface (selection *reshapes* not just *selects*). **Length constraint met**: article was at 2999/3000 (voids hard cap, count_words metric). Added ~300 words of differentiation and trimmed compensating redundancy throughout (folded the old duplicated O&M boundary at the opening into a cross-ref to the new section; dropped a tangential Apel/transcendental-pragmatics digression the text itself called irrelevant — removed the now-orphaned reference and renumbered; tightened the objections, tenets, taxonomy-strain, and cognitive-closure passages without dropping any calibration/evidential-status hedge). **Final: 2994/3000.**
+- **attention-and-the-consciousness-interface.md**: Added a load-bearing reciprocal [mutation-void](/voids/mutation-void/) backlink in the attention-consciousness-dissociation paragraph (alongside the existing transit-void link): where transit-void concerns the absent moment-of-capture, mutation-void concerns attention reshaping the content it selects — the ontological strengthening of the selection picture. Article near its cap (3941→3991/4000); kept the addition tight.
+- **self-reference-paradox.md**: SOFTENED the "clearest strong-form case" framing flagged by the task. Line treating mutation-void's constitutive transformation as settled ("is the clearest strong-form case, because the transformation is constitutive") → reframed as the void's organising *hypothesis* held at the hypothesis tier, turning on distinguishing genuine phenomenological mutation from report-level contamination. Same softening applied to the Strong-form definition (Brentano) and the Further Reading line. Consistent with today's constitutive-instability reframe.
+- **Engagement classifications**: attention-as-interface boundary (mutation-void) — Mode Three (framework-boundary marking: the selection/reshape disagreement is noted, not refuted within the interface model). No named-opponent refutations altered.
+- **Slug hazards checked**: all sibling wikilinks verified live before use — `thought-stream-void`, `observation-and-measurement-void`, `self-opacity`, `transit-void` resolve in voids/; `conceptual-metabolism` is actually `conceptual-metabolism-void` (used the correct slug); `attention-and-the-consciousness-interface` in topics/. Path-qualified forms (`voids/…`, `topics/…`) match existing convention. Sync exits 0; none of the three edited files appear in the broken-wikilink list.
+- **Published**: yes
+
+## 2026-05-29T06:02:38+00:00 - deep-review
+- **Status**: Success
+- **File**: [birch-edge-of-sentience-and-the-five-tier-scale](/topics/birch-edge-of-sentience-and-the-five-tier-scale/)
+- **Pass type**: Citation-currency (cycle-slot standing guidance). Target selected for high post-2020 niche-citation density; article already at substantive convergence (2026-05-06).
+- **Word count**: 3748 → 3748 (length-neutral; like-for-like citation correction only)
+- **Critical issues addressed**: 1 — **author misattribution**. The 2025 *Animal Welfare* refinement paper was cited as "Singh, A., Pinto, A., et al. (2025)"; WEB-VERIFIED against the primary source (PMC12058431): actual authors are **Fischer, B., Gottlieb, J., Schnell, A. K., & Barrett, M.** (*Animal Welfare*, 34, e28). "Singh" and "Pinto" do not appear in the byline. Title/journal/year/three-refinements all correct — byline fabricated. Fixed in-text + References in the article AND at the originating root (`research/birch-edge-of-sentience-precautionary-framework-2026-05-05.md`, 5 occurrences). Historical changelog/completed-task archive copies left intact (append-only record).
+- **Medium issues addressed**: 0
+- **Citations web-verified**: 3 — Fischer et al. 2025 (byline FIXED; PMC primary source); Birch 2022 *Noûs* 56(1):133-153 (clean; DOI 10.1111/nous.12351); Schwitzgebel & Sinnott-Armstrong 2025 review essay (clean — co-authorship, Birch/Sebo/Keane subjects, and all three load-bearing claims accurate). Canonical refs (Birch 2024 OUP, 2012 Cambridge, 2024 NY Declaration, SEP, Mindscape 292, Birch et al. 2021 DEFRA) near-no-op clean per guidance.
+- **Source-conclusion**: Fischer et al. claim supported by source (defends framework + proposes the three named refinements). No source-misuse, scope error, or reverse-of-finding.
+- **Calibration**: diagnostic test re-applied to all tier placements (LLM-outside-scheme, *C. elegans*, Hydra/slime molds, insects/decapods); all preserved verbatim. No possibility/probability slippage. Engagement modes unchanged (Schwitzgebel-SA + O'Brien remain Mode Three); no label leakage.
+- **Detection tell**: grep of "Singh/Pinto" vs "Fischer" across corpus confirmed the wrong byline was the article+research-note minority form; root-fixed both. Defect matched the predicted post-2020 niche-specialist cluster.
+- **Output**: [deep-review-2026-05-29-birch-edge-of-sentience-and-the-five-tier-scale](/reviews/deep-review-2026-05-29-birch-edge-of-sentience-and-the-five-tier-scale/)
+
+## 2026-05-29T05:58:12+00:00 - refine-draft
+- **Status**: Success
+- **File**: [mutation-void](/voids/mutation-void/)
+- **Task**: P1 literature-currency + calibration fix (2/3 convergent: ChatGPT + Gemini). Over-reliance on Ward & Wegner (2013) for mind-blanking; three calibration over-reaches.
+- **(a) Mind-blanking reframe**: Ward & Wegner (2013) downgraded from "supporting authority" to "an early empirical anchor in a field that has since moved on." Added TWO web-verified 2020s currency citations showing the construct redefined toward a measurable low-vigilance physiological state: **Mortaheb et al. (2022)** PNAS 119(41):e2200511119 (recurrent globally-positive-connectivity profile) and **Boulakis et al. (2023)** J. Neurosci. 43(40):6807–6815 (whole-brain deactivations precede spontaneous mind-blanking). Added the contemporary distinction between genuine content-free episodes and mere *feelings* of inattention via **Mathews, Bin Faiz & Brosowsky (2024)** Open Mind 8:666–687.
+- **CITATION GUARD CATCH**: Gemini suggested "Brosowsky et al. 2021" for the feelings-of-inattention distinction. Web-verification showed the actual paper is **Mathews, Bin Faiz & Brosowsky (2024)** — wrong year and wrong lead author. Cited under the corrected attribution. (Consistent with the 5th-P1 pattern: every prior mutation-void P1 caught a reviewer-supplied misattribution.) Andrillon 2021 and the other Gemini suggestions were not needed once Mortaheb 2022 + Boulakis 2023 covered the construct-shift; omitted rather than inserted unverified.
+- **(b) Dream section**: rewritten to distinguish dream *experience* / *memory trace* / *waking report* / *narrative reconstruction*; now presents dream reporting as a CONTESTED epistemic problem (no independent access to the lived dream, so the gap cannot be cleanly assigned to transformation vs memory loss/confabulation), flagged as the class where the void's evidence is weakest. Table row and falsifier coordinated.
+- **(c) Meditation section**: now treats contemplative training as a PARTIAL COUNTEREXAMPLE (trained meditators may stabilise attended content rather than mutate it), not one-way confirmation. The void's claim survives only for contents resisting even trained stabilisation. Coordinated with the existing "meditation training eliminated transformation" falsifier and the table row.
+- **(d) Overbroad claim narrowed**: "most philosophy assumes attention merely selects from a stable field" → "on some influential views attention merely selects... the selection model running through much attention-as-spotlight theorising" (softened to "on some views" per the no-clean-cite guidance).
+- **Length**: REFRAME-dominant per constraint. Net additions (2 verified cites + reframes) pushed the article to ~3308 words; compressed redundancy from today's two earlier additions (Report-Is-Not-Reality counterargument section + reframe prose) and across tenets/McGinn/phenomenology sections back to **2999 words** (1 under the 3000 voids hard cap; status soft_warning, same as pre-edit). No filter-model content; altered_state_symmetry scanner returns None (n/a).
+- **Constraints honoured**: no fabricated citations or page numbers; no possibility/probability slippage; no "not X but Y" cliché introduced; references reordered to numeric sequence. ai_modified updated.
+- **Original score**: n/a (no review CLI present; acted on convergent outer-review findings).
+- **Published**: yes
 
 ## 2026-05-29T05:37:08+00:00 - refine-draft
 - **Status**: Success

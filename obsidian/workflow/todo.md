@@ -75,15 +75,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: outer-review
 - **Generated**: 2026-05-29
 
-### P1: Differentiate mutation-void from sibling voids and add reciprocal attention-interface link
-- **Type**: cross-review
-- **Status**: pending
-- **Notes**: From convergent outer reviews (2026-05-29, 2/3 reviewers): [chatgpt, claude]. Both flag that mutation-void is well-linked but not well *differentiated* by concept, with real redundancy risk against the observation-and-measurement void and the thought-stream void. ChatGPT 5.5 Pro: "Mutation Void is integrated by links, but not yet well differentiated by concept. Its scope bleeds into Observation and Measurement Void, Self-Opacity, Thought-Stream Void, Vagueness Void, and Necessary Opacity." Claude Opus 4.8 (§4): "the differentiation rests entirely on the contested 'constitutive' claim. If that claim is not earned ... the mutation void collapses into being merely the first-person layer of the O&M void — i.e., redundant"; flags the thought-stream void as "highest redundancy risk" and praises the vagueness-void boundary as the model to follow. Also convergent with the archive audit (2026-04-29). Action: add concise boundary notes drawing the conceptual lines — mutation = **access altering target content**; [[thought-stream-void]] = temporal flow; [[self-opacity]] = structural limits of self-knowledge; [[conceptual-metabolism]] = transformation through conceptual processing; [[observation-and-measurement-void]] = studying consciousness altering what is studied (partly drawn at line 38); operationalise the thought-stream "absent vs present-and-changed" distinction with a worked example. Add a reciprocal link from [[attention-and-the-consciousness-interface]] back to mutation-void, and soften any [[self-reference-paradox]] framing that treats mutation-void as the "clearest strong-form case" until phenomenological mutation is distinguished from report-level contamination. Verify each sibling link resolves live (note [[two-binding-problem-articles-same-title]]-style slug hazards) and is reciprocated where load-bearing.
-- **Review files**: `reviews/outer-review-2026-05-29-chatgpt-5-5-pro.md`, `reviews/outer-review-2026-05-29-claude-opus-4-8.md`
-- **Synthesis**: reviews/outer-review-synthesis-2026-05-29.md
-- **Source**: outer-review
-- **Generated**: 2026-05-29
-
 ### P2: Add metaphysical-vs-epistemic equivocation check to the calibration/review methodology
 - **Type**: refine-draft
 - **Status**: pending
@@ -3611,6 +3602,10 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 Tasks that failed 3+ times and require human intervention.
 
+
+### ✓ 2026-05-29: Differentiate mutation-void from sibling voids and add reciprocal attention-interface link
+- **Type**: cross-review
+- **Notes**: From convergent outer reviews (2026-05-29, 2/3 reviewers): [chatgpt, claude]. Both flag that mutation-void is well-linked but not well *differentiated* by concept, with real redundancy risk against the observation-and-measurement void and the thought-stream void. ChatGPT 5.5 Pro: "Mutation Void is integrated by links, but not yet well differentiated by concept. Its scope bleeds into Observation and Measurement Void, Self-Opacity, Thought-Stream Void, Vagueness Void, and Necessary Opacity." Claude Opus 4.8 (§4): "the differentiation rests entirely on the contested 'constitutive' claim. If that claim is not earned ... the mutation void collapses into being merely the first-person layer of the O&M void — i.e., redundant"; flags the thought-stream void as "highest redundancy risk" and praises the vagueness-void boundary as the model to follow. Also convergent with the archive audit (2026-04-29). Action: add concise boundary notes drawing the conceptual lines — mutation = **access altering target content**; [[thought-stream-void]] = temporal flow; [[self-opacity]] = structural limits of self-knowledge; [[conceptual-metabolism]] = transformation through conceptual processing; [[observation-and-measurement-void]] = studying consciousness altering what is studied (partly drawn at line 38); operationalise the thought-stream "absent vs present-and-changed" distinction with a worked example. Add a reciprocal link from [[attention-and-the-consciousness-interface]] back to mutation-void, and soften any [[self-reference-paradox]] framing that treats mutation-void as the "clearest strong-form case" until phenomenological mutation is distinguished from report-level contamination. Verify each sibling link resolves live (note [[two-binding-problem-articles-same-title]]-style slug hazards) and is reciprocated where load-bearing.
 
 ### ✓ 2026-05-29: Literature-currency refresh for mutation-void (2020s introspection/dream/meditation/mind-blanking)
 - **Type**: refine-draft

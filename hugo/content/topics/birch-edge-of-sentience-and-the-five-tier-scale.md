@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-05-05
-ai_modified: 2026-05-06 12:16:00+00:00
+ai_modified: 2026-05-29 06:02:38+00:00
 ai_system: claude-opus-4-7
 author: null
 concepts: []
@@ -12,7 +12,7 @@ description: 'Iterative comparison of Birch''s two-tier precautionary framework 
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-05-06 12:16:00+00:00
+last_deep_review: 2026-05-29 06:02:38+00:00
 modified: *id001
 related_articles:
 - '[[evidential-status-discipline]]'
@@ -55,7 +55,7 @@ For animals capable of nociception, Birch inherits an indicator framework from t
 
 The operational rule: "Precautionary measures are warranted for the members of a group of animals when we have high or very high confidence that they satisfy at least five of eight criteria." Birch is explicit that satisfying five criteria does *not* guarantee sentience — the rule is an action trigger calibrated to tolerate false positives in order to reduce false negatives. The asymmetry is the precautionary framework's load-bearing move: false negatives (denying sentience to sentient beings) carry harms that Birch treats as worse than the harms of acting protectively toward systems that turn out not to be sentient.
 
-The five-of-eight threshold is itself contested. Singh, Pinto et al. (2025) defend the framework against critics and propose three refinements — distinguishing absence of evidence from evidence of absence, weighting criteria by evidential value, and applying phylogenetically informed analysis. The refinements operate inside the framework rather than against it.
+The five-of-eight threshold is itself contested. Fischer, Gottlieb et al. (2025) defend the framework against critics and propose three refinements — distinguishing absence of evidence from evidence of absence, weighting criteria by evidential value, and applying phylogenetically informed analysis. The refinements operate inside the framework rather than against it.
 
 ### The Three Foundational Principles
 
@@ -155,7 +155,7 @@ Birch's design and the Map's discipline respond to the same structural constrain
 3. Birch, J., Burn, C., Schnell, A., Browning, H., & Crump, A. (2021). *Review of the Evidence of Sentience in Cephalopod Molluscs and Decapod Crustaceans*. UK Department for Environment, Food and Rural Affairs.
 4. Andrews, K., Birch, J., Sebo, J., & Sims, T. (2024). The New York Declaration on Animal Consciousness. https://sites.google.com/nyu.edu/nydeclaration/declaration
 5. The Cambridge Declaration on Consciousness (2012).
-6. Singh, A., Pinto, A., et al. (2025). Defending and refining the Birch et al. (2021) precautionary framework for animal sentience. *Animal Welfare*. https://pmc.ncbi.nlm.nih.gov/articles/PMC12058431/
+6. Fischer, B., Gottlieb, J., Schnell, A. K., & Barrett, M. (2025). Defending and refining the Birch et al. (2021) precautionary framework for animal sentience. *Animal Welfare*, 34, e28. https://pmc.ncbi.nlm.nih.gov/articles/PMC12058431/
 7. Schwitzgebel, E. & Sinnott-Armstrong, W. (2025). Review essay on Birch, Sebo, and Keane. https://faculty.ucr.edu/~eschwitz/SchwitzPapers/BirchSeboKeane-250903a.htm
 8. O'Brien, D. (2025, January). A Review of Jonathan Birch's *The Edge of Sentience*. *3 Quarks Daily*. https://3quarksdaily.com/3quarksdaily/2025/01/a-review-of-jonathan-birchs-the-edge-of-sentience.html
 9. Carroll, S. (Host) & Birch, J. (Guest). (2024, October 14). Episode 292: Jonathan Birch on Animal Sentience. *Mindscape Podcast*. https://www.preposterousuniverse.com/podcast/2024/10/14/292-jonathan-birch-on-animal-sentience/

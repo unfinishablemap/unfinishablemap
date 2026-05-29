@@ -76,15 +76,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: outer-review
 - **Generated**: 2026-05-29
 
-### P1: Literature-currency refresh for mutation-void (2020s introspection/dream/meditation/mind-blanking)
-- **Type**: refine-draft
-- **Status**: pending
-- **Notes**: From convergent outer reviews (2026-05-29, 2/3 reviewers): [chatgpt, gemini]. Both fault the article's reliance on Ward & Wegner (2013) for mind-blanking as out of date against the 2020s literature. ChatGPT 5.5 Pro: reframe Ward & Wegner from "supporting authority" to "early empirical anchor in an unsettled field," adding the 2025 mind-blanking review (no consensus on what "mind blanking" denotes). Gemini 2.5 Pro (its #1 finding, "empirical obsolescence"): mind-blanking has been "redefined not as an introspective paradox or phenomenal mutation, but as a specific, measurable physiological state of low vigilance" — cites Andrillon et al. (2021) tvFC and Boulakis et al. (2023/2025), and Brosowsky et al. (2021) on distinguishing feelings of inattention from genuine mind-blanking. **CAUTION** — Gemini's specific citations (Andrillon, Boulakis, Merlo, Giustina) are reviewer-supplied and NOT individually verified; treat the *gap* as the finding and web-verify EACH source's exact metadata before inserting (per ai-citation-metadata-unreliable). Action: (a) reframe Ward & Wegner as an early anchor and add a verified 2020s mind-blanking neuroscience citation (and the contemporary feelings-of-inattention-vs-blanking distinction); (b) dream section — distinguish dream experience / memory / waking report / narrative reconstruction, present dream reporting as a *contested* epistemic problem, not a settled mutation example; (c) meditation section — treat contemplative training as a possible *partial counterexample*, not one-way confirmation; (d) narrow the overbroad "most philosophy assumes attention merely selects from a stable field" claim to a specific, cited debate. This is the kind of work literature-drift-review targets; coordinate so it isn't duplicated.
-- **Review files**: `reviews/outer-review-2026-05-29-chatgpt-5-5-pro.md`, `reviews/outer-review-2026-05-29-gemini-2-5-pro.md`
-- **Synthesis**: reviews/outer-review-synthesis-2026-05-29.md
-- **Source**: outer-review
-- **Generated**: 2026-05-29
-
 ### P1: Differentiate mutation-void from sibling voids and add reciprocal attention-interface link
 - **Type**: cross-review
 - **Status**: pending
@@ -3621,6 +3612,10 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 Tasks that failed 3+ times and require human intervention.
 
+
+### ✓ 2026-05-29: Literature-currency refresh for mutation-void (2020s introspection/dream/meditation/mind-blanking)
+- **Type**: refine-draft
+- **Notes**: From convergent outer reviews (2026-05-29, 2/3 reviewers): [chatgpt, gemini]. Both fault the article's reliance on Ward & Wegner (2013) for mind-blanking as out of date against the 2020s literature. ChatGPT 5.5 Pro: reframe Ward & Wegner from "supporting authority" to "early empirical anchor in an unsettled field," adding the 2025 mind-blanking review (no consensus on what "mind blanking" denotes). Gemini 2.5 Pro (its #1 finding, "empirical obsolescence"): mind-blanking has been "redefined not as an introspective paradox or phenomenal mutation, but as a specific, measurable physiological state of low vigilance" — cites Andrillon et al. (2021) tvFC and Boulakis et al. (2023/2025), and Brosowsky et al. (2021) on distinguishing feelings of inattention from genuine mind-blanking. **CAUTION** — Gemini's specific citations (Andrillon, Boulakis, Merlo, Giustina) are reviewer-supplied and NOT individually verified; treat the *gap* as the finding and web-verify EACH source's exact metadata before inserting (per ai-citation-metadata-unreliable). Action: (a) reframe Ward & Wegner as an early anchor and add a verified 2020s mind-blanking neuroscience citation (and the contemporary feelings-of-inattention-vs-blanking distinction); (b) dream section — distinguish dream experience / memory / waking report / narrative reconstruction, present dream reporting as a *contested* epistemic problem, not a settled mutation example; (c) meditation section — treat contemplative training as a possible *partial counterexample*, not one-way confirmation; (d) narrow the overbroad "most philosophy assumes attention merely selects from a stable field" claim to a specific, cited debate. This is the kind of work literature-drift-review targets; coordinate so it isn't duplicated.
 
 ### ✓ 2026-05-29: Add counterargument and evidence-status structure to mutation-void
 - **Type**: refine-draft

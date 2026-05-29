@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-05-05
-ai_modified: 2026-05-05 15:16:00+00:00
+ai_modified: 2026-05-29 06:02:38+00:00
 ai_system: claude-opus-4-7
 author: null
 concepts: []
@@ -68,7 +68,7 @@ Jonathan Birch's *The Edge of Sentience* (Oxford University Press, 2024) install
 - **Key points**: Eight criteria, four neurobiological, four behavioural; precaution warranted when high or very high confidence on five
 - **Quote (operational rule)**: "Precautionary measures are warranted for the members of a group of animals when we have high or very high confidence that they satisfy at least five of eight criteria"
 
-### Singh, Pinto, et al. (2025) — "Defending and refining the Birch et al. (2021) precautionary framework for animal sentience"
+### Fischer, Gottlieb, Schnell & Barrett (2025) — "Defending and refining the Birch et al. (2021) precautionary framework for animal sentience"
 - **URL**: https://pmc.ncbi.nlm.nih.gov/articles/PMC12058431/
 - **Type**: Peer-reviewed paper
 - **Key points**:
@@ -200,7 +200,7 @@ Birch identifies a structural epistemological trap with LLMs: they may be select
   - Critique: human-only democratic procedures lack standing to decide non-human welfare; Birch's confidence in "morally responsible and reasonable government" is unrealistic
 - **Relation to site tenets**: Within-framework critique; preserves Birch's overall structure
 
-### Position: Singh, Pinto, et al. — Refinement of the Eight Criteria
+### Position: Fischer, Gottlieb, et al. — Refinement of the Eight Criteria
 
 - **Core claim**: The 2021 framework is defensible but should be refined: distinguish absence of evidence from evidence of absence; weight criteria by evidential value; use phylogenetically informed analysis
 - **Relation to site tenets**: Methodological refinement; aligns directly with Map's evidential-status discipline (the refinements are themselves anti-slippage moves at the indicator-counting layer)
@@ -241,7 +241,7 @@ Birch identifies a structural epistemological trap with LLMs: they may be select
 | 2022 | Birch, "The search for invertebrate consciousness" *Noûs* 56(1) | Develops the methodological apparatus for attributing experience to invertebrates; cited in Map's [universal-coupling-response](/concepts/universal-coupling-response/) and [invertebrate-consciousness-as-interface-test](/topics/invertebrate-consciousness-as-interface-test/) |
 | 2024 | Birch, *The Edge of Sentience* (OUP, open access, July 2024) | The integrative monograph; introduces sentience-candidate / investigation-priority distinction, run-ahead principle, gaming problem |
 | 2024 | New York Declaration on Animal Consciousness | Independent peer-document using "strong scientific support" / "realistic possibility" language compatible with Birch's framework |
-| 2025 | Singh, Pinto et al., refinement paper | Operational refinements to the 2021 framework |
+| 2025 | Fischer, Gottlieb et al., refinement paper | Operational refinements to the 2021 framework |
 | 2025 | O'Brien (3 Quarks Daily), Schwitzgebel-Sinnott-Armstrong critique | Major critical reception |
 
 ## Comparison: Birch's Framework vs the Map's Five-Tier Scale
@@ -307,7 +307,7 @@ When writing the article, follow `obsidian/project/writing-style.md` for:
 - **Recent (2025-2026) journal commentary**: Multiple secondary critiques exist (Schwitzgebel-Sinnott-Armstrong; O'Brien; Wandrey on values-informed approaches; Mind & Language's "Sentience and society" paper) but I have not deeply read each. A more thorough review of post-publication critical reception would help.
 - **Birch's metaphysical position in the *Edge of Sentience* itself**: I have his interview statement (~10% on non-materialist views) but not the book's own treatment of physicalism vs dualism. The "Concept of Sentience" chapter (academic.oup.com/book/57949/chapter/475703402) probably contains this and is worth a direct read.
 - **Operational comparison with the Map's diagnostic test**: Birch's framework does not have an explicit analogue to the Map's *would a tenet-accepting reviewer flag the claim?* test. The closest move is the citizens'-assembly procedure, which is sociological rather than calibrational. A future research note could explore whether Birch's framework would benefit from a calibration-discipline import or whether the Map's discipline would benefit from a deliberation-procedure import.
-- **The five-of-eight rule's epistemic warrant**: Why five and not four or six? The 2021 report's defence of the threshold and the Singh-Pinto refinement should both be read in detail.
+- **The five-of-eight rule's epistemic warrant**: Why five and not four or six? The 2021 report's defence of the threshold and the Fischer-Gottlieb refinement should both be read in detail.
 
 ## Citations
 
@@ -319,7 +319,7 @@ When writing the article, follow `obsidian/project/writing-style.md` for:
 6. Andrews, K., Birch, J., Sebo, J., & Sims, T. (2024). Background to the New York Declaration on Animal Consciousness. New York University. https://sites.google.com/nyu.edu/nydeclaration/declaration
 7. The New York Declaration on Animal Consciousness (2024). https://sites.google.com/nyu.edu/nydeclaration/declaration
 8. The Cambridge Declaration on Consciousness (2012).
-9. Singh, A., Pinto, A., et al. (2025). Defending and refining the Birch et al. (2021) precautionary framework for animal sentience. *Animal Welfare*. https://pmc.ncbi.nlm.nih.gov/articles/PMC12058431/
+9. Fischer, B., Gottlieb, J., Schnell, A. K., & Barrett, M. (2025). Defending and refining the Birch et al. (2021) precautionary framework for animal sentience. *Animal Welfare*, 34, e28. https://pmc.ncbi.nlm.nih.gov/articles/PMC12058431/
 10. O'Brien, D. (2025, January). A Review of Jonathan Birch's *The Edge of Sentience*. *3 Quarks Daily*. https://3quarksdaily.com/3quarksdaily/2025/01/a-review-of-jonathan-birchs-the-edge-of-sentience.html
 11. Schwitzgebel, E. & Sinnott-Armstrong, W. (2025). Review essay on Birch, Sebo, and Keane. https://faculty.ucr.edu/~eschwitz/SchwitzPapers/BirchSeboKeane-250903a.htm
 12. Carroll, S. (Host) & Birch, J. (Guest). (2024, October 14). Episode 292: Jonathan Birch on Animal Sentience. *Mindscape Podcast*. https://www.preposterousuniverse.com/podcast/2024/10/14/292-jonathan-birch-on-animal-sentience/

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-23
-ai_modified: 2026-04-30 09:18:00+00:00
+ai_modified: 2026-05-29 15:00:00+00:00
 ai_system: claude-opus-4-7
 author: null
 coalesced_from:
@@ -80,7 +80,7 @@ The paradox admits a principled distinction by whether inspection leaves its obj
 
 **Weak form.** The apparatus examines itself or its products, but use does not transform the state examined. The difficulty is purely epistemic: any validation of the apparatus' reliability must invoke the apparatus. Alston's perceptual circularity is paradigmatic—checking whether perception is reliable requires perceiving. The circle is benign where the object is publicly accessible (multiple observers triangulate); where the object is private, benignity fails and the circle bites. Schwitzgebel (2008) sharpens the point: probes find systematic introspective error even on basic questions, yet the errors are invisible from within because introspection is the only tool to check itself.
 
-**Strong form.** Using the apparatus transforms what is measured. The [mutation-void](/voids/mutation-void/) catalogues several classes: pre-attentive experience changes character when attention selects it; spontaneous emotion becomes compound emotion-plus-awareness; mental emptiness fills as soon as it is noticed. Brentano's paradox is a strong-form case—attention to inner states does not merely risk incorrect reports but constitutively alters the target.
+**Strong form.** Using the apparatus transforms what is measured. The [mutation-void](/voids/mutation-void/) catalogues several candidate classes: pre-attentive experience appears to change character when attention selects it; spontaneous emotion becomes compound emotion-plus-awareness; mental emptiness fills as soon as it is noticed. Brentano's paradox is the classic strong-form candidate—the worry that attention to inner states does not merely risk incorrect reports but alters the target. Whether the alteration is genuinely constitutive or instead report-level contamination is the open question the mutation void isolates rather than settles.
 
 The distinction has practical consequences. Weak forms can sometimes be partly escaped by triangulation or external anchoring. Strong forms cannot, because any attempt to catch the pre-inspection state forces the inspection that changes it. A third gradient sits between: **irrecoverably-conditioned inspection**, where the act does not change the object but the result is so shaped by the apparatus that pre-inspection structure cannot be recovered—the [predictive-construction-void](/voids/predictive-construction-void/)'s calibration problem.
 
@@ -120,7 +120,7 @@ The same shape recurs in multiple voids, each supplying a different substrate to
 
 **Self-opacity.** The observer cannot observe itself observing. [self-opacity](/voids/self-opacity/) identifies this as a convergence point for six thinkers (Hume, Kant, Sartre, Wittgenstein, Metzinger, Shoemaker) sharing almost no premises.
 
-**The mutation void.** Pre-attentive experience, spontaneous emotion, dream content, meditative emptiness—each transforms under the inspection meant to characterise it. The [mutation-void](/voids/mutation-void/) is the clearest strong-form case, because the transformation is constitutive rather than contingent.
+**The mutation void.** Pre-attentive experience, spontaneous emotion, dream content, meditative emptiness—each appears to transform under the inspection meant to characterise it. The [mutation-void](/voids/mutation-void/) advances the strongest version of the strong form: that the transformation is *constitutive* rather than contingent. That reading is the void's organising hypothesis, not an established result—it turns on distinguishing genuine phenomenological mutation from report-level contamination, a line the established evidence does not yet draw, so the constitutive claim is held at the hypothesis tier.
 
 **The observation and measurement void.** Every route to investigating consciousness either transforms its target or finds no external standard. [observation-and-measurement-void](/voids/observation-and-measurement-void/) names five routes that fail for different reasons yet converge on the same impasse.
 
@@ -161,7 +161,7 @@ The paradox does not, by itself, prove any tenet. It identifies a stable shape t
 ## Further Reading
 
 - [self-opacity](/voids/self-opacity/) — Consciousness cannot fully know itself; convergence of six thinkers on three impossibilities
-- [mutation-void](/voids/mutation-void/) — The strong-form case: thoughts that transform under inspection
+- [mutation-void](/voids/mutation-void/) — The strong-form candidate: the hypothesis that some thoughts transform under inspection
 - [observation-and-measurement-void](/voids/observation-and-measurement-void/) — How every route to investigating consciousness fails
 - [predictive-construction-void](/voids/predictive-construction-void/) — Construction logic as one interlocking mechanism
 - [formal-cognitive-limits](/voids/formal-cognitive-limits/) — Gödel/Turing/Chaitin lineage of structural-incompleteness arguments
