@@ -1,9 +1,22 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-29T07:44:13+00:00
+ai_modified: 2026-05-29T08:10:00+00:00
 ai_system: claude-opus-4-8
 ---
+
+## 2026-05-29T08:10:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [[topics/the-psychophysical-control-law]]
+- **Focus**: Queued staleness deep-review (36 days, Tenet 2/3 load-bearing — Minimal Quantum Interaction + Bidirectional Interaction). Directed CITATION-CURRENCY + CALIBRATION standing pass. 4th review.
+- **Word count**: 2875 → 2875 (no content change; length-neutral, 96% of soft threshold)
+- **Critical issues addressed**: 0 (converged; no misattribution / dropped-qualifier / possibility-probability slippage)
+- **Medium issues addressed**: 0
+- **Citation web-verify**: All load-bearing recent/niche refs LIVE-VERIFIED clean against primary sources. Zheng & Meister 2025 (Neuron 113(2) 192-204, DOI neuron.2024.11.008 ✓). Tegmark 2000 (Phys. Rev. E 61 4194-4206 ✓; DECOHERENCE ARITHMETIC TRAP checked — 10⁻¹³–10⁻²⁰ s matches source). Khan…Wiest et al. 2024 (eNeuro 11(8) ENEURO.0291-24.2024 ✓; senior author M. C. Wiest matches corpus-canonical form, attractor-name watch satisfied; Cohen's d=1.9 + 69 s LORR confirmed; effect is mechanism-neutral and article does not QM-overclaim it). Schwartz 1996 stable. No defects, no fabricated replacements, no sibling/research/archive edits needed.
+- **Calibration**: Clean. Article frames the control law as structural/speculative ("programmatic", "schematic", "empirically bounded conjecture") throughout; every empirical passage concedes classical-mechanism compatibility; "consistent with MQI tenet" is a coherence claim, never an evidential upgrade. No tenet-coherence used to elevate evidential status. Anti-mush: no hedges added, no verbs recast — none warranted. Positive exemplar of compatibility-≠-support discipline.
+- **Engagement modes** (editor-internal): Many-Worlds defender (Wallace 2012) — Mode Three (framework-boundary marking; engages the decision-theoretic response, concedes rational agency, locates disagreement at the No-MWI + indexical-identity tenet boundary without in-framework refutation). Label-leakage scan CLEAN.
+- **Enhancements made**: 0 (timestamps only — genuine near-no-op on a converged article)
+- **Output**: [[reviews/deep-review-2026-05-29-the-psychophysical-control-law]]
 
 ## 2026-05-29T07:44:13+00:00 - deep-review
 - **Status**: Success

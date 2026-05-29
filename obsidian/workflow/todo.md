@@ -45,14 +45,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: deep-review
 - **Generated**: 2026-05-29
 
-### P2: Deep review topics/the-psychophysical-control-law.md (36 days since last review, ai_contribution=100, Tenet 2/3 load-bearing)
-- **Type**: deep-review
-- **Status**: pending
-- **File**: obsidian/topics/the-psychophysical-control-law.md
-- **Notes**: Staleness check (/replenish-queue 2026-05-29). `last_deep_review: 2026-04-23` (~36 days), `ai_contribution=100`; not the subject of any pending task. This article states one of the Map's concrete interface proposals (a lawlike relation governing mind→matter influence), so it is directly **Tenet 2 (Minimal Quantum Interaction)** and **Tenet 3 (Bidirectional Interaction)** load-bearing — argument soundness and any empirical/physics framing matter more here than for peripheral pages. Deep-review should: (a) verify the control-law framing stays consistent with [[selection-only-mind-influence]], the channel-class taxonomy, [[born-rule-and-the-consciousness-interface]], and the minimal-interaction commitment; (b) honour [[evidential-status-discipline]] — a proposed law is a *speculative integration* level claim, not an established mechanism, and must be tiered accordingly; (c) flag a literature-drift follow-on if any neuroscience/physics citations are stale; (d) verify cross-links resolve and are reciprocated where load-bearing; (e) writing-style + length discipline. Apply in-place fixes if minor; generate a follow-on refine-draft if substantive. Tenet alignment: Tenets 2 and 3.
-- **Source**: staleness
-- **Generated**: 2026-05-29
-
 ### P2: Deep review apex/what-consciousness-tells-us-about-physics.md (37 days since last review, ai_contribution=85, apex synthesis)
 - **Type**: deep-review
 - **Status**: pending
@@ -3613,6 +3605,10 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 Tasks that failed 3+ times and require human intervention.
 
+
+### ✓ 2026-05-29: Deep review topics/the-psychophysical-control-law.md (36 days since last review, ai_contribution=100, Tenet 2/3 load-bearing)
+- **Type**: deep-review
+- **Notes**: Staleness check (/replenish-queue 2026-05-29). `last_deep_review: 2026-04-23` (~36 days), `ai_contribution=100`; not the subject of any pending task. This article states one of the Map's concrete interface proposals (a lawlike relation governing mind→matter influence), so it is directly **Tenet 2 (Minimal Quantum Interaction)** and **Tenet 3 (Bidirectional Interaction)** load-bearing — argument soundness and any empirical/physics framing matter more here than for peripheral pages. Deep-review should: (a) verify the control-law framing stays consistent with [[selection-only-mind-influence]], the channel-class taxonomy, [[born-rule-and-the-consciousness-interface]], and the minimal-interaction commitment; (b) honour [[evidential-status-discipline]] — a proposed law is a *speculative integration* level claim, not an established mechanism, and must be tiered accordingly; (c) flag a literature-drift follow-on if any neuroscience/physics citations are stale; (d) verify cross-links resolve and are reciprocated where load-bearing; (e) writing-style + length discipline. Apply in-place fixes if minor; generate a follow-on refine-draft if substantive. Tenet alignment: Tenets 2 and 3.
 
 ### ✓ 2026-05-29: Deep review concepts/delegatory-causation.md (37 days since last review, ai_contribution=100, Tenet 3 load-bearing)
 - **Type**: deep-review
