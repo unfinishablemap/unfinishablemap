@@ -4,7 +4,7 @@ description: "Physicalist theories of consciousness independently concede the du
 created: 2026-04-05
 modified: 2026-04-05
 human_modified:
-ai_modified: 2026-05-26T05:14:54+00:00
+ai_modified: 2026-05-29T00:00:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -71,7 +71,7 @@ The structure is consistent across cases. A physicalist theory begins with a bro
 
 ### Biological Computationalism
 
-[[biological-computationalism|Biological computationalism]] (Milinkovic & Aru 2025) holds that brains compute in a substrate-dependent, metabolically grounded manner fundamentally different from digital computation. Each distinguishing claim—substrate dependence, metabolic grounding, scale inseparability—maps onto a classical argument for dualism. The central thesis that "the algorithm is the substrate" dissolves the algorithm-substrate distinction: if knowing the algorithm does not tell you what is being computed in any consciousness-relevant sense, then computation as traditionally understood is not what produces consciousness.
+[[biological-computationalism|Biological computationalism]] (Milinkovic & Aru 2026) holds that brains compute in a substrate-dependent, metabolically grounded manner fundamentally different from digital computation. Each distinguishing claim—substrate dependence, metabolic grounding, scale inseparability—maps onto a classical argument for dualism. The central thesis that "the algorithm is the substrate" dissolves the algorithm-substrate distinction: if knowing the algorithm does not tell you what is being computed in any consciousness-relevant sense, then computation as traditionally understood is not what produces consciousness.
 
 **The concession**: Biological computationalism effectively endorses the absent qualia intuition for digital systems while trying to block it for biological ones. The gap between "any computation" and "only this specific physical process" is precisely the gap dualists have identified.
 
@@ -186,7 +186,7 @@ The Map speculates that concession convergence will continue. Future physicalist
 7. Feigl, H. (1958/1967). *The "Mental" and the "Physical": The Essay and a Postscript*. University of Minnesota Press.
 8. Frankish, K. (2016). Illusionism as a theory of consciousness. *Journal of Consciousness Studies*, 23(11–12), 11–39.
 9. Kim, J. (2005). *Physicalism, or Something Near Enough*. Princeton University Press.
-10. Milinkovic, B. & Aru, J. (2025). On biological and artificial consciousness: A case for biological computationalism. *Neuroscience & Biobehavioral Reviews*, 181, 106524.
+10. Milinkovic, B. & Aru, J. (2026). On biological and artificial consciousness: A case for biological computationalism. *Neuroscience & Biobehavioral Reviews*, 181, 106524. (Epub 17 Dec 2025; print Feb 2026.)
 11. Lycan, W.G. (1996). *Consciousness and Experience*. MIT Press.
 12. Place, U.T. (1956). Is consciousness a brain process? *British Journal of Psychology*, 47(1), 44–50.
 13. Rosenthal, D.M. (2005). *Consciousness and Mind*. Oxford University Press.

@@ -4,7 +4,7 @@ description: "Major consciousness experiments of 2025-2026—COGITATE adversaria
 created: 2026-03-26
 modified: 2026-03-26
 human_modified:
-ai_modified: 2026-05-26T15:56:34+00:00
+ai_modified: 2026-05-29T00:00:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -126,7 +126,7 @@ The Map interprets these findings not as proof of dualism—no single experiment
 2. Exploring ultraweak photon emissions as optical markers of brain activity. (2025). *iScience*. https://www.cell.com/iscience/fulltext/S2589-0042(25)00279-2
 3. Santander, T., Bekir, S., Paul, T., et al. (2025). Full interhemispheric integration sustained by a fraction of posterior callosal fibers. *Proceedings of the National Academy of Sciences*, 122(43), e2520190122. doi:10.1073/pnas.2520190122. [Senior authors: Volz, Miller; M.S. Gazzaniga among co-authors.]
 4. Keppler, J. (2025). Macroscopic quantum effects in the brain: new insights into the fundamental principle underlying conscious processes. *Frontiers in Human Neuroscience*. https://www.frontiersin.org/journals/human-neuroscience/articles/10.3389/fnhum.2025.1676585/full
-5. Milinkovic, B. & Aru, J. (2025). On biological and artificial consciousness: A case for biological computationalism. *Neuroscience & Biobehavioral Reviews*. https://www.sciencedirect.com/science/article/pii/S0149763425005251
+5. Milinkovic, B. & Aru, J. (2026). On biological and artificial consciousness: A case for biological computationalism. *Neuroscience & Biobehavioral Reviews*, 181, 106524. (Epub 17 Dec 2025; print Feb 2026.) https://doi.org/10.1016/j.neubiorev.2025.106524
 6. Functional neuroimaging in disorders of consciousness: towards clinical implementation. (2025). *Brain*, 148(7), 2283. https://academic.oup.com/brain/article/148/7/2283/8042105
 7. Consciousness science: where are we, where are we going, and what if we get there? (2025). *Frontiers in Science*. https://www.frontiersin.org/journals/science/articles/10.3389/fsci.2025.1546279/full
 8. What fMRI studies say about the nature of the psychedelic effect: a scoping review. (2025). *Frontiers in Neuroscience*. https://www.frontiersin.org/journals/neuroscience/articles/10.3389/fnins.2025.1606798/full

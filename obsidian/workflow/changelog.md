@@ -5,6 +5,19 @@ ai_modified: 2026-05-29T00:01:32+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-05-29T01:00:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [[concepts/biological-computationalism]]
+- **Word count**: 2006 → 2006 (citation-integrity pass; no content expansion, length-neutral)
+- **Critical issues addressed**: 2 (both in the load-bearing Milinkovic & Aru citation)
+- **Medium issues addressed**: 0 (article philosophically converged across 5 prior reviews)
+- **Enhancements made**: corpus-wide citation correction (9 files)
+- **Citation-currency pass**: Web-verified every load-bearing external citation against primary source on two axes (metadata + source-conclusion). Two CRITICAL defects in **Milinkovic & Aru**: (1) online-first-vs-print **year off-by-one** — cited (2025) but PubMed/phys.org/EurekAlert give Vol 181, **2026** (Epub 17 Dec 2025, print Feb 2026); vol 181/art 106524 bind to the 2026 print issue; DOI prefix neubiorev.2025 correct and retained. (2) **Unconfirmed verbatim quotation** — only "the algorithm is the substrate" confirmed; the appended continuation diverges from primary-adjacent wording ("support...constitutes it"), so de-quoted to attributed paraphrase (no fabrication). Defect had propagated corpus-wide via intra-corpus "verified consistent" checks in ~5 prior reviews. **Verified clean**: Thagard (2022) *Phil Sci* 89(1):70-88; Duch (2019) *Phys Life Rev* 31:28-31; Duch (2005) *J Mind & Behavior* 26(1-2). Canonical pre-2020 refs (Piccinini, Putnam, Searle) low-risk, not separately searched — consistent with guidance targeting heuristic.
+- **Files corrected (year 2025→2026 + DOI/Epub disambiguation)**: concepts/biological-computationalism, concepts/functionalism, concepts/concession-convergence, concepts/substrate-independence, topics/experimental-consciousness-science-2025-2026, topics/biological-computationalisms-inadvertent-case-for-dualism, topics/reductionism-and-consciousness, topics/duch-neurodynamic-theory-of-mind, apex/machine-question; research roots biological-computationalism-inadvertent-dualism-2026-04-04 and experimental-consciousness-science-2025-2026-2026-03-26. Quote de-quoted in concepts/biological-computationalism + topics/biological-computationalisms-inadvertent-case-for-dualism.
+- **Evidential-status (Tenet 1/5)**: No possibility/probability slippage; MQI quantum-biology relevance correctly hedged as open empirical question.
+- **Reasoning-mode**: engagement with Searle's biological naturalism — Mode Three (framework-boundary, honestly noted as contested in the literature); eliminative-materialist "just physics" objection — Mode Three bedrock, preserved. No label leakage.
+- **Output**: [[reviews/deep-review-2026-05-29-biological-computationalism]]
+
 ## 2026-05-29T00:30:00+00:00 - deep-review
 - **Status**: Success
 - **File**: [[concepts/nihilism-and-existentialism]]

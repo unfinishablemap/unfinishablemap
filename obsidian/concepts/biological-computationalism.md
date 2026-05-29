@@ -4,7 +4,7 @@ description: "Biological computationalism holds that brains compute in a substra
 created: 2026-04-15
 modified: 2026-04-15
 human_modified:
-ai_modified: 2026-05-23T12:00:00+00:00
+ai_modified: 2026-05-29T00:00:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -36,10 +36,10 @@ author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-04-15
 last_curated:
-last_deep_review: 2026-04-18T05:48:00+00:00
+last_deep_review: 2026-05-29T00:00:00+00:00
 ---
 
-Biological computationalism is the thesis that brains perform computation, but that biological computation differs fundamentally from digital computation in ways that matter for consciousness. Proposed by Milinkovic and Aru (2025), the framework positions itself as a third path between classical [[concepts/functionalism|computational functionalism]]—which treats any system implementing the right algorithm as potentially conscious—and Searle's biological naturalism, which denies that brains compute in any theoretically useful sense. The central claim: "In biological computation, the algorithm is the substrate—the physical organization does not just enable the computation, it is what the computation consists of" (Milinkovic & Aru 2025).
+Biological computationalism is the thesis that brains perform computation, but that biological computation differs fundamentally from digital computation in ways that matter for consciousness. Proposed by Milinkovic and Aru (2026), the framework positions itself as a third path between classical [[concepts/functionalism|computational functionalism]]—which treats any system implementing the right algorithm as potentially conscious—and Searle's biological naturalism, which denies that brains compute in any theoretically useful sense. The central claim is that in biological computation "the algorithm is the substrate": the physical organization does not merely enable the computation but constitutes it, so the algorithm cannot be abstracted away from the fluidic medium that realizes it (Milinkovic & Aru 2026).
 
 ## Core Commitments
 
@@ -124,7 +124,7 @@ For the full argument that biological computationalism inadvertently builds the 
 
 ## References
 
-1. Milinkovic, B. & Aru, J. (2025). On biological and artificial consciousness: A case for biological computationalism. *Neuroscience & Biobehavioral Reviews*, 181, 106524.
+1. Milinkovic, B. & Aru, J. (2026). On biological and artificial consciousness: A case for biological computationalism. *Neuroscience & Biobehavioral Reviews*, 181, 106524. (Epub 17 Dec 2025; print Feb 2026.) https://doi.org/10.1016/j.neubiorev.2025.106524
 2. Piccinini, G. (2015). *Physical Computation: A Mechanistic Account*. Oxford University Press.
 3. Putnam, H. (1967). Psychological Predicates. In W.H. Capitan & D.D. Merrill (eds.), *Art, Mind, and Religion*. Pittsburgh University Press.
 4. Searle, J.R. (1980). Minds, Brains, and Programs. *Behavioral and Brain Sciences*, 3(3), 417–457.

@@ -169,7 +169,7 @@ Based on this research, an article could:
 
 ## Citations
 
-- Milinkovic, B. & Aru, J. (2025). "On biological and artificial consciousness: A case for biological computationalism." *Neuroscience & Biobehavioral Reviews*, 181, 106524. https://www.sciencedirect.com/science/article/pii/S0149763425005251
+- Milinkovic, B. & Aru, J. (2026). "On biological and artificial consciousness: A case for biological computationalism." *Neuroscience & Biobehavioral Reviews*, 181, 106524. (Epub 17 Dec 2025; print Feb 2026.) https://doi.org/10.1016/j.neubiorev.2025.106524
 - Piccinini, G. (2015). *Physical Computation: A Mechanistic Account*. Oxford University Press. https://philpapers.org/rec/PICPCA
 - Piccinini, G. & Anderson, N.G. (2024). *The Physical Signature of Computation*. Oxford University Press.
 - Piccinini, G. (2009). "Computationalism in the Philosophy of Mind." *Philosophy Compass*, 4(3), 515–532. https://philpapers.org/rec/PICCIT

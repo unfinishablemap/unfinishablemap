@@ -4,7 +4,7 @@ description: "Reductionism succeeds across science—temperature, life, heredity
 created: 2026-02-22
 modified: 2026-02-22
 human_modified:
-ai_modified: 2026-05-19T20:20:24+00:00
+ai_modified: 2026-05-29T00:00:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -72,7 +72,7 @@ But phenomenal consciousness resists functionalisation. The functional role of p
 
 This is the intuition behind the [[philosophical-zombies|zombie argument]]: a being physically and functionally identical to a human but lacking experience is conceivable. If conceivable, phenomenal properties are not entailed by functional properties. If not entailed, they are not reducible. The most serious objection—[[conceivability-possibility-inference|Type-B physicalism]]—grants conceivability but denies the inference to possibility, arguing that consciousness might be identical to physical processes by *a posteriori* necessity (as water is necessarily H₂O despite the identity being discoverable only empirically). But the water analogy is disanalogous: we can explain *why* water is H₂O once we have molecular theory. No comparable explanation connects neural states to phenomenal qualities. The identity would be brute—posited rather than derived—which is precisely the problem reductionism was supposed to solve.
 
-Kim himself conceded this point. The architect of functional reduction admitted that [[qualia]] "may not be functionally reducible," settling for something he called "near enough" to physicalism (Kim 2005). When the framework's own designer acknowledges it fails for consciousness, the failure is not a research gap but a structural limitation. [[biological-computationalism|Biological computationalism]] (Milinkovic & Aru 2025) reaches a similar conclusion from the computational side: even if brains compute, the computation is inseparable from biological substrate, meaning functional reduction strips away precisely the properties that matter for consciousness.
+Kim himself conceded this point. The architect of functional reduction admitted that [[qualia]] "may not be functionally reducible," settling for something he called "near enough" to physicalism (Kim 2005). When the framework's own designer acknowledges it fails for consciousness, the failure is not a research gap but a structural limitation. [[biological-computationalism|Biological computationalism]] (Milinkovic & Aru 2026) reaches a similar conclusion from the computational side: even if brains compute, the computation is inseparable from biological substrate, meaning functional reduction strips away precisely the properties that matter for consciousness.
 
 ### The Transparency Test
 

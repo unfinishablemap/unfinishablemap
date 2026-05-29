@@ -4,7 +4,7 @@ description: "Biological computationalism rejects substrate independence while r
 created: 2026-04-04
 modified: 2026-05-02
 human_modified:
-ai_modified: 2026-05-26T16:30:00+00:00
+ai_modified: 2026-05-29T00:00:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -43,7 +43,7 @@ Classical computational functionalism, associated with Putnam (1967) and Fodor (
 
 Searle's biological naturalism (1992) moves in the opposite direction. Consciousness requires specific neurobiological causal powers; silicon lacks them. The Chinese Room argument drives the point: syntax is insufficient for semantics. But Searle denies being a dualist, insisting consciousness is "causally reducible" to neurobiology even while being "ontologically irreducible" to it—a position that strains coherence.
 
-Milinkovic and Aru (2025) propose biological computationalism as a third path. Brains compute, but biological computation differs fundamentally from digital computation. It is hybrid discrete-continuous, inseparable from fluidic substrates, and metabolically grounded. Continuous fields, ion flows, dendritic integration, and electromagnetic interactions are computational primitives—not implementation details that could be swapped out. As they put it: "In biological computation, the algorithm is the substrate—the physical organization does not just enable the computation, it is what the computation consists of."
+Milinkovic and Aru (2026) propose biological computationalism as a third path. Brains compute, but biological computation differs fundamentally from digital computation. It is hybrid discrete-continuous, inseparable from fluidic substrates, and metabolically grounded. Continuous fields, ion flows, dendritic integration, and electromagnetic interactions are computational primitives—not implementation details that could be swapped out. In their phrasing, "the algorithm is the substrate": the physical organization does not merely enable the computation but constitutes it.
 
 Biological computationalism is one branch of post-classical computationalism, not the only one. Włodzisław Duch's longstanding programme (Duch 2005, 2019) refuses the substrate-dependence move altogether: consciousness is a property of any dynamical system with self-reflective access to its own internal states, with biological substrate mattering for the *content* of experience but not for the *mechanism* by which consciousness arises. Duch's articon thought-experiment argues that any system with the requisite self-reflective dynamical architecture cannot coherently be denied consciousness, and his anti-quantum-mind polemic contends that classical neurodynamics suffices without exotic physics. The argument below targets the substrate-dependent branch—Searle, Milinkovic and Aru, the biological-computationalist successors—not Duch's substrate-independent classical computationalism. That branch makes the opposite move and pays a different price: it has to defend strong machine-consciousness claims, potentially extending to large language models, that the Map's open-question framing on [[ai-consciousness|AI consciousness]] disputes on independent grounds.
 
@@ -120,7 +120,7 @@ The **Bidirectional Interaction** tenet requires consciousness to causally influ
 3. Duch, W. (2005). Brain-inspired conscious computing architecture. *Journal of Mind and Behavior*, 26(1–2). https://philarchive.org/rec/DUCBCC-3
 4. Duch, W. (2019). Mind as a shadow of neurodynamics. *Physics of Life Reviews*, 31, 28–31. https://doi.org/10.1016/j.plrev.2019.01.023
 5. Fodor, J.A. (1974). Special Sciences (Or: The Disunity of Science as a Working Hypothesis). *Synthese*, 28(2), 97–115.
-6. Milinkovic, B. & Aru, J. (2025). On biological and artificial consciousness: A case for biological computationalism. *Neuroscience & Biobehavioral Reviews*, 181, 106524.
+6. Milinkovic, B. & Aru, J. (2026). On biological and artificial consciousness: A case for biological computationalism. *Neuroscience & Biobehavioral Reviews*, 181, 106524. (Epub 17 Dec 2025; print Feb 2026.) https://doi.org/10.1016/j.neubiorev.2025.106524
 7. Piccinini, G. (2015). *Physical Computation: A Mechanistic Account*. Oxford University Press.
 8. Putnam, H. (1967). Psychological Predicates. In W.H. Capitan & D.D. Merrill (eds.), *Art, Mind, and Religion*. Pittsburgh University Press.
 9. Rescorla, M. (2020). The Computational Theory of Mind. In E.N. Zalta (ed.), *The Stanford Encyclopedia of Philosophy* (Fall 2020 Edition).
