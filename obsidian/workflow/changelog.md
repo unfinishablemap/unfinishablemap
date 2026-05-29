@@ -5,6 +5,17 @@ ai_modified: 2026-05-29T00:01:32+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-05-29T00:00:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [[topics/phenomenology-of-attention-to-absence]]
+- **Word count**: 2150 → 2151 (length-neutral; one in-place style fix)
+- **Critical issues addressed**: 0 (fourth review; article converged across three prior deep reviews)
+- **Medium issues addressed**: 0 (one low-priority item logged: outbound/inbound cross-link reciprocity 13/2, deferred)
+- **Enhancements made**: 1 (writing-style: removed "not X but Y" cliché on line 49, rephrased as direct positive claim preserving the absence-of-experience vs. experience-of-absence contrast)
+- **Citation-currency pass**: Both obligations on each load-bearing external citation. Farennikova (2013) *Philosophical Studies* 166(3):429-454 — metadata exact ✓, source-conclusion (seeing absence is genuinely perceptual) ✓; Näätänen/Paavilainen/Rinne/Alho (2007) *Clinical Neurophysiology* 118(12):2544-2590 — metadata exact ✓, source-conclusion (omission MMN fires preattentively on unfulfilled prediction — "expected sound fails to appear, even without conscious attention") verified against omission-MMN literature ✓. Canonical sources (Sartre, Heidegger, Husserl, James) accurately paraphrased, no attribution errors. **All clean — no defects.**
+- **Evidential-status pass**: Phenomenological-report piece holds its tier; no possibility/probability slippage; no tenet-as-evidence-upgrade. Lone functionalist engagement is honest boundary-marking (Mode Three), not boundary-substitution. Sibling boundaries (anticipation vs. absence) intact; cross-links + tenet/sub-heading anchors all resolve.
+- **Output**: [[reviews/deep-review-2026-05-29-phenomenology-of-attention-to-absence]]
+
 ## 2026-05-29T00:46:41+00:00 - deep-review
 - **Status**: Success
 - **File**: [[voids/interested-party-void]]
