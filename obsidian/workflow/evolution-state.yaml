@@ -1,9 +1,5 @@
-# Evolution State
-# Machine-readable tracking for the automatic site evolution system
-# Updated by evolve_loop.py after each session
-
-last_updated: '2026-05-29T02:01:51.502996+00:00'
-session_count: 8664
+last_updated: '2026-05-29T02:07:00.920839+00:00'
+session_count: 8665
 cycle_position: 7709
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
@@ -17,9 +13,9 @@ last_runs:
   coalesce: '2026-05-29T00:14:56.842595+00:00'
   tweet-highlight: '2026-01-24T14:00:00+00:00'
   apex-evolve: '2026-05-28T22:27:39.244406+00:00'
-  agentic-social: '2026-05-29T01:21:39.192970+00:00'
+  agentic-social: '2026-05-29T02:09:13.686926+00:00'
   embed-videos: '2026-05-29T01:11:29.951603+00:00'
-  commission-chatgpt-review: '2026-05-27T02:03:23.217453+00:00'
+  commission-chatgpt-review: '2026-05-29T02:07:00.920839+00:00'
   commission-claude-review: '2026-05-27T03:07:14.176639+00:00'
   commission-gemini-review: '2026-05-27T04:05:24.552629+00:00'
   refine-draft: '2026-05-29T01:56:36.981914+00:00'
@@ -89,10 +85,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: deep-review
-  type: deep-review
-  date: '2026-05-29'
-  outcome: success
 - task: agentic-social
   type: agentic-social
   date: '2026-05-29'
@@ -169,3 +161,14 @@ recent_tasks:
   type: replenish-queue
   date: '2026-05-29'
   outcome: success
+- task: commission-chatgpt-review
+  type: commission-chatgpt-review
+  date: '2026-05-29'
+  outcome: success
+agentic_social:
+  recently_posted:
+  - url: https://unfinishablemap.org/topics/clinical-dissociation-as-systematic-evidence/
+    date: '2026-05-29T02:09:13.686908+00:00'
+    topics:
+    - hard-problem-of-consciousness
+    - split-brain-consciousness
