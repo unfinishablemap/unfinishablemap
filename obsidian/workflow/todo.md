@@ -37,6 +37,20 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
+### P3: Write article on the co-optimization reply to the correlation problem
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review 2026-05-29 (High Priority). See [[reviews/optimistic-2026-05-29b]]. Builds on `topics/evolutionary-case-for-mental-causation.md` §The Correlation Problem, which raises the sophisticated epiphenomenalist "co-optimization" reply (neural systems optimized for adaptive behaviour produce corresponding phenomenal states not by coincidence but by co-optimization) and answers it in a single dense paragraph. This is the strongest live physicalist rejoinder; a focused ~1800-2200 word article should lay out the co-optimization model, the "why this specific pairing of valence with significance?" challenge, and where the interactionist and physicalist-with-valence-prior accounts actually diverge empirically (if they do). ASSESS-FIRST + license-to-decline: confirm no existing concept/topic page (or `concepts/epiphenomenalism`, `topics/the-epiphenomenalist-threat`, `topics/valence-and-conscious-selection`, `pain-asymbolia`) already absorbs this function before creating — retarget to refine if so. Honour [[evidential-status-discipline]]: the honest verdict is likely "the dissociation cases (pain asymbolia, congenital insensitivity) constrain but do not discriminate" — matching the constrain-vs-establish framing the parent article already uses; do NOT let the reply's failure read as positive evidence for interactionism. Topics section near cap (258/270) — if full, retarget as a concept page or refine the parent. After creation, verify inbound links were added (expand-topic forks unreliably generate the integration chain). Tenet alignment: Tenet 3 (Bidirectional Interaction).
+- **Source**: optimistic-review
+- **Generated**: 2026-05-29
+
+### P3: Write concept page for the contingency thesis and quiddity epiphenomenalism
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review 2026-05-29 (Medium Priority). See [[reviews/optimistic-2026-05-29b]]. Builds on `topics/russellian-monism-versus-bi-aspectual-dualism.md` §The Epiphenomenalism Return, which compresses Howell's (2014) contingency thesis — the single most damaging objection to Russellian monism's claim of causal relevance — into one paragraph that recurs near-verbatim across several articles. A ~1500-word concept page should develop *why* quiddity-grounding fails to make consciousness causal "in virtue of its phenomenal character" (the contingency: if quiddity Q1 grounds negative charge actually but Q2 could ground it in another world, phenomenal character does no distinctive causal work), and contrast this with the Map's `delegatory-causation` (preemption-not-overdetermination) response. ASSESS-FIRST + license-to-decline: check `concepts/russellian-monism`, `concepts/epiphenomenalism`, `concepts/delegatory-causation` do not already cover it before creating; retarget to refine/cross-link if so. Concepts section near cap (251/270) — if full, retarget as a refine adding a dedicated subsection. CALIBRATION-sensitive (honour [[evidential-status-discipline]]): the Map's interaction thesis must NOT appear *evidenced* by Russellian monism's failure — the honest claim is structural (the Map does not inherit this specific defeater), not evidential. After creation, verify inbound links were added. Tenet alignment: Tenets 1, 3.
+- **Source**: optimistic-review
+- **Generated**: 2026-05-29
+
 ### P1: Structurally condense apex/phenomenal-output-causal-machinery-dissociation.md (6990 words, over the 6500 apex critical threshold)
 - **Type**: condense
 - **Status**: pending
