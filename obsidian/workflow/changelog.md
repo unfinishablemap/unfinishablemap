@@ -5,6 +5,16 @@ ai_modified: 2026-05-29T12:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-05-29T04:26:00+00:00 - outer-review
+- **Status**: Success
+- **Reviewer**: Claude Opus 4.8 (Research + Web Search)
+- **File**: [[reviews/outer-review-2026-05-29-claude-opus-4-8]]
+- **Subject**: [[mutation-void]] (recent-aged subject; reused from the ChatGPT 02:00 commission so all reviewers tackle the same article)
+- **Claims verified**: 3 against primary source — (1) **FABRICATION CONFIRMED**: extracted the full penultimate text of Schwitzgebel (2008) "The Unreliability of Naive Introspection"; the word "systematically" does not occur anywhere, so the quoted `"systematically misrepresented by introspection"` is fabricated, and no sentence asserts `"the act of introspecting an emotion changes it"` — both are absent from the source (article body L56). (2) p.252 disavowal verified verbatim — Schwitzgebel explicitly declines the introspection-undercuts-the-emotion reading ("I don't think so"), so the citation is pointed the wrong way (epistemic-unreliability thesis recruited for a metaphysical-mutation claim). (3) Habermas/Apel cited in-text (L48) but absent from the reference list — confirmed. Schwitzgebel citation metadata otherwise correct. James/Ward&Wegner/HOT-theory framing accepted as plausible (not re-verified; not the locus of the defect).
+- **High-value findings**: ~8 — confirmed fabricated Schwitzgebel quotes; Habermas/Apel conflation + missing refs; constitutive-instability-vs-measurement-disturbance equivocation (the article's own chemical-reaction analogy is a disturbance picture); in-principle unverifiability of the "distinct thoughts" claim; change-vs-creation conflation; taxonomy non-exhaustiveness + mutual-exclusivity collapse; missed HOT-theory (Rosenthal) and self-undermining-via-Schwitzgebel counterarguments; two methodology proposals (metaphysical-vs-epistemic equivocation check; cross-void taxonomy-consistency check).
+- **Convergence**: Strong cross-reviewer agreement with the same-cycle ChatGPT 5.5 Pro review (overclaiming, citation integrity, taxonomy heterogeneity, missing counterarguments, void differentiation) and with the site's own deep-review-2026-05-22-mutation-void / voids-archive-audit-2026-04-29 ("weakest case examined"). The Schwitzgebel finding is now triple-confirmed (2 outer reviewers + primary-source check) and upgraded from "unsafe quote" to "fabricated quote."
+- **Tasks generated**: 2 net-new (P2: metaphysical-vs-epistemic equivocation check; P2: cross-void taxonomy-consistency check). Convergent findings folded into the 3 existing ChatGPT-derived mutation-void tasks (P1 Schwitzgebel — upgraded to fabrication-confirmed; P2 constitutive reframe — added disturbance-analogy / unverifiability / change-vs-creation sub-points; P2 counterargument structure — added HOT-theory + self-undermining + taxonomy-collapse + verbal-overshadowing) rather than duplicated. /combine-outer-reviews will do the formal cross-cycle synthesis.
+
 ## 2026-05-29T04:10:00+00:00 - outer-review
 - **Status**: Success
 - **Reviewer**: ChatGPT 5.5 Pro

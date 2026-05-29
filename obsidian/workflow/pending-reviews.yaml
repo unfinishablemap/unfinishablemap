@@ -854,9 +854,9 @@
   prompt_summary: 'Audit mutation-void: taxonomy, citations, constitutive-instability
     claim'
   target_filename: outer-review-2026-05-29-claude-opus-4-8.md
-  status: pending
+  status: collected
   collect_attempts: 0
-  last_attempt_at: null
+  last_attempt_at: '2026-05-29T04:11:07.030952+00:00'
   failure_reason: null
   prompt_text: "Please conduct a rigorous outer review of an article on The Unfinishable\
     \ Map (https://unfinishablemap.org), a dualist philosophical project exploring\
