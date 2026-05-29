@@ -37,20 +37,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P3: Fix divergent Saad 2025 citation title in apex/what-consciousness-tells-us-about-physics.md
+### ✓ DONE 2026-05-29: Fix divergent Saad 2025 citation title in apex/what-consciousness-tells-us-about-physics.md
 - **Type**: refine-draft
-- **Status**: pending
+- **Status**: completed
 - **File**: obsidian/apex/what-consciousness-tells-us-about-physics.md
-- **Notes**: Found during the 2026-05-29 delegatory-causation citation-currency pass. Line ~253 cites Saad 2025 as `"Against Causal Closure." *Philosophical Studies*` — this is the MINORITY/divergent form corpus-wide and is suspect per the attractor-name triage. The corpus-canonical and web-verified title is **"A dualist theory of experience," *Philosophical Studies* 182(3), 939-967, DOI 10.1007/s11098-025-02290-3** (verified clean 2026-05-29 against Springer/PhilPapers). Before changing: web-verify whether Saad has a SEPARATE 2025 paper actually titled "Against Causal Closure" (he may — check his Brown/Oxford publications page) — if so, confirm the in-text claim it supports matches that paper rather than the dualist-theory paper; if not, normalise the title to the canonical form. No fabricated replacement. Cheap, single-instance fix.
+- **Notes**: RESOLVED in the 2026-05-29 deep-review of this article. Web-verified: Saad has NO paper titled "Against Causal Closure" (his only near-title, "Grounding Causal Closure or Something Near Enough," Acta Analytica 2025, argues the opposite). Normalised to the canonical **"A dualist theory of experience," *Philosophical Studies* 182(3), 939-967, DOI 10.1007/s11098-025-02290-3**. The same review also caught and fixed two further citation defects in this article (Buhler 2020 wrong title+venue; Denton 2024 wrong title+authors). See [[reviews/deep-review-2026-05-29-what-consciousness-tells-us-about-physics]].
 - **Source**: deep-review
-- **Generated**: 2026-05-29
-
-### P2: Deep review apex/what-consciousness-tells-us-about-physics.md (37 days since last review, ai_contribution=85, apex synthesis)
-- **Type**: deep-review
-- **Status**: pending
-- **File**: obsidian/apex/what-consciousness-tells-us-about-physics.md
-- **Notes**: Staleness check (/replenish-queue 2026-05-29). `last_deep_review: 2026-04-22` (~37 days), `ai_contribution=85`; not the subject of any pending task. This is an apex synthesis piece (human-readable integration), so it aggregates load-bearing claims from many concept/topic pages and is a high-traffic navigational and framing hub — drift in its claims propagates the wrong calibration corpus-wide. Tenets 1 (Dualism) and 2 (Minimal Quantum Interaction). Deep-review should: (a) verify the synthesis still coheres with the post-April quantum-interface cluster ([[born-rule-and-the-consciousness-interface]], [[one-structure-three-vocabularies]], [[locality]], [[multi-mind-collapse-problem]]) and does not over-claim what the supporting articles support; (b) honour [[evidential-status-discipline]] and [[coherence-inflation-countermeasures]] — an apex piece is the highest-risk site for coherence-inflation (the framework reading mistaken for evidence); the "what consciousness *tells us*" framing must stay at the inference/interpretation tier, not assert physics results; (c) verify cross-links resolve live and reciprocate; (d) writing-style + length discipline (apex thresholds 4000/5000/6500 — note a condense follow-on only if over hard). Apply in-place fixes if minor; generate a refine-draft follow-on if substantive. Tenet alignment: Tenets 1 and 2.
-- **Source**: staleness
 - **Generated**: 2026-05-29
 
 ### P3: Deep review concepts/russellian-monism.md (37 days since last review, ai_contribution=100, Tenet 1 — live competitor framework)
@@ -3605,6 +3597,10 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 Tasks that failed 3+ times and require human intervention.
 
+
+### ✓ 2026-05-29: Deep review apex/what-consciousness-tells-us-about-physics.md (37 days since last review, ai_contribution=85, apex synthesis)
+- **Type**: deep-review
+- **Notes**: Staleness check (/replenish-queue 2026-05-29). `last_deep_review: 2026-04-22` (~37 days), `ai_contribution=85`; not the subject of any pending task. This is an apex synthesis piece (human-readable integration), so it aggregates load-bearing claims from many concept/topic pages and is a high-traffic navigational and framing hub — drift in its claims propagates the wrong calibration corpus-wide. Tenets 1 (Dualism) and 2 (Minimal Quantum Interaction). Deep-review should: (a) verify the synthesis still coheres with the post-April quantum-interface cluster ([[born-rule-and-the-consciousness-interface]], [[one-structure-three-vocabularies]], [[locality]], [[multi-mind-collapse-problem]]) and does not over-claim what the supporting articles support; (b) honour [[evidential-status-discipline]] and [[coherence-inflation-countermeasures]] — an apex piece is the highest-risk site for coherence-inflation (the framework reading mistaken for evidence); the "what consciousness *tells us*" framing must stay at the inference/interpretation tier, not assert physics results; (c) verify cross-links resolve live and reciprocate; (d) writing-style + length discipline (apex thresholds 4000/5000/6500 — note a condense follow-on only if over hard). Apply in-place fixes if minor; generate a refine-draft follow-on if substantive. Tenet alignment: Tenets 1 and 2.
 
 ### ✓ 2026-05-29: Deep review topics/the-psychophysical-control-law.md (36 days since last review, ai_contribution=100, Tenet 2/3 load-bearing)
 - **Type**: deep-review

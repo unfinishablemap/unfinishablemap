@@ -5,6 +5,20 @@ ai_modified: 2026-05-29T08:10:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-05-29T08:30:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [[apex/what-consciousness-tells-us-about-physics]]
+- **Focus**: Queued staleness deep-review (37 days, APEX synthesis — high coherence-inflation propagation risk). Standing CITATION-CURRENCY + CALIBRATION pass.
+- **Word count**: ~4396 → 4385 (net length-neutral; calibration additions offset by trimming a redundant Gödel-paragraph restatement). Article at 110% of apex soft threshold — flagged as future condense candidate, not addressed (out of scope).
+- **Critical issues addressed**: 3 (all citation-metadata defects, web-verified + corpus-cross-checked)
+  - Saad 2025 ref: fabricated/divergent title "Against Causal Closure" → canonical "A dualist theory of experience" (Phil Studies 182(3) 939-967, DOI 02290-3). The flagged priority issue; Saad has no such paper (web-verified). Resolves the P3 todo task.
+  - Buhler 2020 ref: wrong title+venue "Why the Causal Closure...Begs the Question / Synthese" → canonical "No Good Arguments for Causal Closure" (Metaphysica 21(1), DOI mp-2019-0026).
+  - Denton 2024 ref: wrong title + wrong authors/initials → canonical Denton/Smith/Xu/Pugsley/Toghill/Kattnig, "Magnetosensitivity of tightly bound radical pairs...", Nat. Commun. 15:10823, DOI s41467-024-55124-x.
+- **Medium issues addressed**: 1 (Denton in-text source-conclusion overstatement: "neural-relevant timescales" recast to microsecond/structurally-disanalogous calibration; aligns framing with the article's own "does not vindicate Stapp's neural mechanism" concession).
+- **Verified clean (no change)**: Torres Alegre 2025 (arXiv:2512.12636, exact title + source-conclusion + preprint label), Nature survey 2025 (643(8074)), Cubitt et al. 2015, all pre-2020 canonical refs.
+- **Engagement modes**: Duch rival-programme = Mode Three (framework-boundary, honestly declared at directionality/substantive-quantum axes; no boundary-substitution, no label leakage).
+- **Output**: [[reviews/deep-review-2026-05-29-what-consciousness-tells-us-about-physics]]
+
 ## 2026-05-29T08:10:00+00:00 - deep-review
 - **Status**: Success
 - **File**: [[topics/the-psychophysical-control-law]]
