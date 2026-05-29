@@ -5,6 +5,14 @@ ai_modified: 2026-05-29T01:01:19+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-05-29T01:30:00+00:00 - check-tenets
+- **Status**: Success
+- **Files checked**: 509 (258 topics, 251 concepts)
+- **Errors**: 0
+- **Warnings**: 0
+- **Notes**: 1 (optional internal-consistency tidy — `concepts/quantum-indeterminacy-free-will.md` still leads MWI rejection with the Tenet-5-demoted ontological-extravagance argument instead of the indexical objection)
+- **Output**: [[reviews/tenet-check-2026-05-29]]
+
 ## 2026-05-29T00:00:00+00:00 - deep-review
 - **Status**: Success
 - **File**: [[topics/phenomenology-of-cognitive-limit-types]]
