@@ -5,6 +5,17 @@ ai_modified: 2026-05-29T03:30:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-05-29T03:01:56+00:00 - deep-review
+- **Status**: Success
+- **File**: [[voids/metaphor-void]]
+- **Word count**: 1838 → 1900 (+62; length-neutral, 95% of soft threshold)
+- **Critical issues addressed**: 2 (Jaynes quote not strictly verbatim — replaced with verified primary-text quote + paraphrase; Jones counter-quote unverifiable AND orphaned from References — verified critique is real (Jones 1982, *Philosophy of the Social Sciences* 12(2)), converted quote to paraphrase, added missing reference)
+- **Medium issues addressed**: 1 (two "not X but Y" style constructs rephrased to lead with positive claim)
+- **Enhancements made**: citation-currency pass discharged both quote debts deferred by 2026-04-17 review; all 12 wikilinks verified resolving + sibling reciprocation confirmed; void held at correct evidential tier (no possibility/probability slippage)
+- **Engagement classification**: Jaynes/Jones debate — Mode Three (honest boundary-marking of an unsettled void; no refutation dressing, no label leakage)
+- **Output**: [[reviews/deep-review-2026-05-29-metaphor-void]]
+- **Remaining**: Ricoeur verbatim quote still unconfirmed (low-risk, canonical) — left for a future citation pass; article otherwise converged
+
 ## 2026-05-29T03:45:00+00:00 - optimistic-review
 - **Status**: Success
 - **Content reviewed**: `concepts/pain-asymbolia.md` and `topics/time-collapse-and-agency.md` (two recently-modified, ai_contribution=100 articles spanning the clinical-empirical and metaphysical-physics ends of the corpus)
