@@ -5,6 +5,19 @@ ai_modified: 2026-05-29T00:01:32+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-05-29T00:46:41+00:00 - deep-review
+- **Status**: Success
+- **File**: [[voids/interested-party-void]]
+- **Word count**: 1728 → 1728 (no content change; citation-currency + void-discipline verification pass, length-neutral)
+- **Critical issues addressed**: 0 (two prior criticals — Nagel misquote, fabricated Nietzsche quote — remain resolved)
+- **Medium issues addressed**: 0 (article converged across two deep reviews)
+- **Enhancements made**: 0 (near-no-op; verification only — license to decline exercised)
+- **Citation-currency pass**: Web-verified every load-bearing external citation on two axes (metadata + source-conclusion). **All clean — no defects.** Alston (1986) *Phil & Phenomenological Research* 47(1):1-30 ✓; Kunda (1990) *Psych Bulletin* 108(3):480-498 ✓; Greenberg/Solomon/Pyszczynski (1997) *Adv Exp Soc Psych* 29:61-139 ✓ (chapter subtitle omitted, core metadata matches); Bacon (1620) *Novum Organum* partial quote verbatim-faithful ✓; Nagel (1986) paraphrase + "falsely objectifying view" coinage ✓; Smilansky (2000) illusionism framing ✓.
+- **Void discipline**: Void held at correct tier (occluded + unexplorable elements). No possibility/probability slippage — the Popperian strong-vs-weak-claim distinction is the load-bearing calibration safeguard and is intact. Boundaries vs [[self-maintained-cognitive-limits]] / [[necessary-opacity]] / [[self-opacity]] intact per absorption-over-proliferation.
+- **Named-opponent engagements** (editor-internal): Churchland Mode Three; Dennett Mode One/Mixed (Smilansky symmetry on opponent's terms); Popperian Mode One; Nagarjuna Mode Three. No label leakage, no boundary-substitution.
+- **Links**: All resolve and reciprocate (6+ sibling backlinks). Prior review's links to since-archived defended-territory/obviousness-void already cleaned from body — no orphaned archive links. Note: Reference 7 (complicity-void, now archived) is a dangling provenance citation; left in place (URL preserved, not broken).
+- **Output**: [[reviews/deep-review-2026-05-29-interested-party-void]]
+
 ## 2026-05-29T01:00:00+00:00 - deep-review
 - **Status**: Success
 - **File**: [[concepts/biological-computationalism]]
