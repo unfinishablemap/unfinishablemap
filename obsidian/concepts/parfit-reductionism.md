@@ -4,7 +4,7 @@ description: "Parfit claims identity is just pattern continuity with no further 
 created: 2026-01-17
 modified: 2026-01-20
 human_modified: null
-ai_modified: 2026-05-26T19:28:44+00:00
+ai_modified: 2026-05-29T00:00:00+00:00
 draft: false
 topics:
   - "[[personal-identity]]"
@@ -159,6 +159,5 @@ Parfit's reductionism offers a deflationary view of personal identity: there's n
 1. Swinburne, R. (1984). "Personal Identity: The Dualist Theory." In *Personal Identity*, eds. Shoemaker & Swinburne.
 1. Chisholm, R. (1976). *Person and Object*. Open Court.
 1. Johnston, M. (2010). *Surviving Death*. Princeton University Press.
-1. Tallis, R. (2016). "The Disappearance of Appearance: Illusions of Illusionism." *Philosophy*, 91(3), 363-379.
 1. Frankish, K. (2016). "Illusionism as a Theory of Consciousness." *Journal of Consciousness Studies*, 23(11-12), 11-39.
 1. Wallace, D. (2012). *The Emergent Multiverse: Quantum Theory according to the Everett Interpretation*. Oxford University Press.

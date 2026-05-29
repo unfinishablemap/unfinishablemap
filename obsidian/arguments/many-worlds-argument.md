@@ -3,7 +3,7 @@ title: "Against Many-Worlds"
 created: 2026-01-15
 modified: 2026-01-22
 human_modified: null
-ai_modified: 2026-05-10T19:10:00+00:00
+ai_modified: 2026-05-29T00:00:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -241,7 +241,7 @@ The Map requires that quantum measurement is real—that definite outcomes genui
 - Saunders, S. (2010). "Chance in the Everett Interpretation." In S. Saunders et al. (eds.), *Many Worlds?* Oxford University Press.
 - Saunders, S., Barrett, J., Kent, A., and Wallace, D. (eds.). (2010). *Many Worlds?* Oxford University Press.
 - Sebens, C. T. and Carroll, S. M. (2018). "Self-Locating Uncertainty and the Origin of Probability in Everettian Quantum Mechanics." *British Journal for the Philosophy of Science*, 69(1), 25-74.
-- Tallis, R. (2016). "The Disappearance of Appearance: Illusions of Illusionism." *Philosophy*, 91(3), 363-379.
+- Tallis, R. (2011). *Aping Mankind: Neuromania, Darwinitis and the Misrepresentation of Humanity*. Routledge.
 - Tappenden, P. (2008). "Saunders and Wallace on Everett and Lewis." *British Journal for the Philosophy of Science*, 59(3), 307-314.
 - Tappenden, P. (2017). "Objective Probability and the Mind-Body Relation." *Studies in History and Philosophy of Modern Physics*, 57, 8-16.
 - Vaidman, L. (1998). "On Schizophrenic Experiences of the Neutron, or Why We Should Believe in the Many-Worlds Interpretation of Quantum Theory." *International Studies in the Philosophy of Science*, 12(3), 245-261.

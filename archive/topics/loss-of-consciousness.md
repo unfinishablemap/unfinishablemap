@@ -4,7 +4,7 @@ description: "Anesthesia and coma don't prove brains produce consciousness. Filt
 created: 2026-01-15
 modified: 2026-01-18
 human_modified: null
-ai_modified: 2026-03-30T04:56:00+00:00
+ai_modified: 2026-05-29T00:00:00+00:00
 draft: false
 archived: true
 archived_date: 2026-03-30T12:30:00+00:00
@@ -225,6 +225,5 @@ The Map's [[tenets]] converge on loss of consciousness as a domain where the dua
 5. Huxley, A. (1954). *The Doors of Perception*.
 6. Bodart, O., et al. (2021). Recovery of consciousness and cognition after general anesthesia in humans. *eLife*.
 7. Frankish, K. (2016). Illusionism as a Theory of Consciousness. *Journal of Consciousness Studies*, 23(11-12), 11-39.
-8. Tallis, R. (2016). Why Illusionism Is Not the Solution to the Hard Problem of Consciousness. *Journal of Consciousness Studies*, 23(11-12), 182-192.
-9. Thompson, E. (2014). *Waking, Dreaming, Being: Self and Consciousness in Neuroscience, Meditation, and Philosophy*. Columbia University Press.
-10. Tulving, E. (1985). Memory and consciousness. *Canadian Psychology*, 26(1), 1-12.
+8. Thompson, E. (2014). *Waking, Dreaming, Being: Self and Consciousness in Neuroscience, Meditation, and Philosophy*. Columbia University Press.
+9. Tulving, E. (1985). Memory and consciousness. *Canadian Psychology*, 26(1), 1-12.

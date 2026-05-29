@@ -5,6 +5,22 @@ ai_modified: 2026-05-29T03:30:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-05-29T00:00:00+00:00 - refine-draft (fabricated-reference sweep)
+- **Status**: Success
+- **Task**: Multi-file removal of phantom `Tallis, R. (2016). "The Disappearance of Appearance: Illusions of Illusionism." *Philosophy*, 91(3), 363-379.` (fabricated; absent from web/PhilPapers/Cambridge Core). Follow-on to the personal-identity deep-review that first caught it. All 8 named files processed.
+- **Web verification**: Confirmed fabricated cite does not exist. Confirmed *Aping Mankind* (Routledge/Acumen) is the REAL Tallis source for the "Misrepresentation presupposes presentation" / illusionism-regress point used inline across these articles. Confirmed the archive file's variant title ("Why Illusionism Is Not the Solution...", JCS 23(11-12), 182-192) is NOT a verifiable Tallis publication — Tallis has no confirmed commentary in that issue ("Delusions of Consciousness" in JCS 23 is Blackmore's, not Tallis's).
+- **Per-file disposition**:
+  - `concepts/parfit-reductionism.md`: ORPHANED (refs-only) → deleted reference line.
+  - `concepts/philosophy-of-time.md`: inline quote (load-bearing) → re-attributed reference to verified *Aping Mankind* (Tallis 2011, Routledge); inline text uses unyeared "Raymond Tallis's observation", no year change needed.
+  - `topics/time-collapse-and-agency.md`: inline quote → re-attributed reference to *Aping Mankind* (2011).
+  - `arguments/many-worlds-argument.md`: inline quote → re-attributed reference to *Aping Mankind* (2011).
+  - `concepts/haecceity.md`: inline `(Tallis 2016)` (load-bearing regress claim) → re-attributed both inline year and reference to *Aping Mankind* (Tallis 2011).
+  - `concepts/prospective-memory.md`: NOT PRESENT (the only Tallis cite is the REAL *Aping Mankind* book) → left intact.
+  - `concepts/semantic-memory.md`: NOT PRESENT (Tallis cite is the REAL *Aping Mankind* book) → left intact.
+  - `archive/topics/loss-of-consciousness.md`: ORPHANED variant-title cite, unverifiable → deleted reference line and renumbered list (frozen archive; cleanup-only).
+- **Discipline**: No fabricated corrected coordinates introduced; re-attributions point only at web-verified Tallis publications. No real Tallis cites (*Aping Mankind*; "The Illusion of Illusionism", *Philosophy Now* 2024) touched anywhere in the corpus. Length-neutral; voice/argument preserved.
+- **Published**: yes
+
 ## 2026-05-29T02:30:40+00:00 - deep-review (citation-currency)
 - **Status**: Success
 - **File**: [[topics/personal-identity]]

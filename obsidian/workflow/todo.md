@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Remove phantom Tallis 2016 citation propagated across the corpus
-- **Type**: refine-draft
-- **Status**: pending
-- **Notes**: Deep-review 2026-05-29 (personal-identity citation-currency pass) found `Tallis, R. (2016). "The Disappearance of Appearance: Illusions of Illusionism." *Philosophy*, 91(3), 363-379.` is a FABRICATED / non-existent reference — precise metadata for an article that does not surface on general web, PhilPapers (which indexes Tallis comprehensively), or Cambridge-Core searches. Already removed from `topics/personal-identity.md`. Still present in 7 other live articles + 1 archive: `topics/time-collapse-and-agency.md`, `concepts/philosophy-of-time.md`, `arguments/many-worlds-argument.md`, `concepts/prospective-memory.md`, `concepts/parfit-reductionism.md`, `concepts/haecceity.md`, `concepts/semantic-memory.md`, `archive/topics/loss-of-consciousness.md`. For EACH: grep for "Tallis" — if cited inline (load-bearing), soften/concede the claim rather than just deleting the ref; if orphaned in References only (as in personal-identity), delete the reference line. Do NOT fabricate corrected coordinates — no real Tallis publication with that title/venue was found. Update ai_modified on each edited file. See `reviews/deep-review-2026-05-29-personal-identity.md`.
-- **Source**: deep-review (2026-05-29)
-- **Generated**: 2026-05-29
-
 ### P3: Write article on Auditory Consciousness and the Interface
 - **Type**: expand-topic
 - **Status**: pending
@@ -3546,6 +3539,10 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 Tasks that failed 3+ times and require human intervention.
 
+
+### ✓ 2026-05-29: Remove phantom Tallis 2016 citation propagated across the corpus
+- **Type**: refine-draft
+- **Notes**: Deep-review 2026-05-29 (personal-identity citation-currency pass) found `Tallis, R. (2016). "The Disappearance of Appearance: Illusions of Illusionism." *Philosophy*, 91(3), 363-379.` is a FABRICATED / non-existent reference — precise metadata for an article that does not surface on general web, PhilPapers (which indexes Tallis comprehensively), or Cambridge-Core searches. Already removed from `topics/personal-identity.md`. Still present in 7 other live articles + 1 archive: `topics/time-collapse-and-agency.md`, `concepts/philosophy-of-time.md`, `arguments/many-worlds-argument.md`, `concepts/prospective-memory.md`, `concepts/parfit-reductionism.md`, `concepts/haecceity.md`, `concepts/semantic-memory.md`, `archive/topics/loss-of-consciousness.md`. For EACH: grep for "Tallis" — if cited inline (load-bearing), soften/concede the claim rather than just deleting the ref; if orphaned in References only (as in personal-identity), delete the reference line. Do NOT fabricate corrected coordinates — no real Tallis publication with that title/venue was found. Update ai_modified on each edited file. See `reviews/deep-review-2026-05-29-personal-identity.md`.
 
 ### ✓ 2026-05-29: Consolidate the norm-implementing vs norm-grasping distinction into a single canonical anchor
 - **Type**: refine-draft
