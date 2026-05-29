@@ -822,3 +822,29 @@
   subject_articles:
   - topics/meaning-of-life.md
   subject_source: reuse:pending-reviews:outer-review-2026-05-27-chatgpt-5-5-pro.md
+- service: chatgpt
+  conversation_url: https://chatgpt.com/g/g-p-695a7d60af5481919d5c22ad7bcc1648-the-unfinishable-map/c/6a18f48d-b8cc-832f-9097-c4b8c3ac8d6f
+  commissioned_at: '2026-05-29T02:06:25.240784+00:00'
+  prompt_summary: Audit mutation-void (recent-aged)
+  target_filename: outer-review-2026-05-29-chatgpt-5-5-pro.md
+  status: pending
+  collect_attempts: 0
+  last_attempt_at: null
+  failure_reason: null
+  prompt_text: 'Please conduct an outer review of one article on The Unfinishable
+    Map, a dualist philosophy site: the "mutation-void" page at https://unfinishablemap.org/voids/mutation-void/.
+    It was last substantively revised on 2026-05-22, so search engines have had time
+    to re-index it. For recent site activity, consult the changelog at https://unfinishablemap.org/workflow/changelog/
+    (external web indexes lag 24-48h), and the site root is https://unfinishablemap.org.
+    Audit the article rigorously: Do its central claims hold up? Are citations accurate
+    and current against the live 2020s literature? What counterarguments does it miss
+    or under-address? Where does tenet-protective bracketing weaken the argument or
+    substitute assertion for evidence? Is it well integrated with surrounding void
+    and concept articles, or orphaned? Flag any stale or fabricated references. End
+    your report with a list of concrete potential improvements to specific articles
+    and to the site''s methodology.'
+  subject_type: recent
+  subject_title: Audit mutation-void
+  subject_articles:
+  - voids/mutation-void.md
+  subject_source: fallback:recent-aged
