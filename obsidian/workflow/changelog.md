@@ -5,6 +5,21 @@ ai_modified: 2026-05-29T03:30:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-05-29T12:00:00+00:00 - cross-review (coherence-maintenance)
+- **Status**: Success
+- **Task**: Propagate epiphenomenalism's three-way distinction (causally-coupled / report-grounded / inherited-discourse) into the AI-consciousness apex cluster where genuine. Dispatcher mis-mapped to deep-review file=None; executed against the real multi-file spec.
+- **File (edited)**: [[apex/machine-question]]
+  - "The Epiphenomenal Possibility" section now deploys the three-way terms by name with a [[concepts/epiphenomenalism#A Three-Way Distinction]] link. The section already made the some-vs-all move; the edit names AI as the *inherited-discourse* limit case (not a refutation of *causally-coupled* consciousness) and clarifies that Bidirectional Interaction's *all consciousness is causally coupled* claim is a metaphysical commitment outrunning self-stultification. Genuine disambiguation, not decoration.
+  - Added `[[concepts/epiphenomenalism]]` to `related_articles` frontmatter (item c) — now load-bearing.
+  - Updated `ai_modified`.
+- **File (verified, no edit)**: [[apex/open-question-ai-consciousness]] — already carries all three terms correctly in Possibility One with the anchored link (line ~89). `concepts/epiphenomenalism` already present in `concepts:` frontmatter; no `related_articles` change needed (the relationship is captured). Near-no-op as predicted.
+- **Declined (anti-term-stuff, optional audit d)**:
+  - [[concepts/baseline-cognition]] — argues from human-ape capacity tracking, not self-stultification; no AI consciousness-attribution. Terms would be decoration.
+  - [[topics/empirical-phenomena-mental-causation]] — placebo/choking content-specificity argument; framework-boundary disagreement already handled. Not a self-stultification scope claim.
+  - [[topics/free-will]] — line 138 self-stultification is a tight one-line human-belief statement; the distinction's value is in the AI inherited-discourse case, absent here. Verification-failure nuance already handled (line 140). Existing links to [[self-stultification]] and [[concepts/epiphenomenalism]] suffice.
+- **Constraints honoured**: no possibility/probability slippage (Tenet 3); no "not X but Y" cliché; voice and converged content preserved; no fabrication; each term-adoption does real disambiguating work.
+- **Published**: yes
+
 ## 2026-05-29T00:00:00+00:00 - refine-draft
 - **Status**: Success
 - **File**: [[concepts/mental-effort]]
