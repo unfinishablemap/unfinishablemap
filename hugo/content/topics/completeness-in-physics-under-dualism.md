@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-27
-ai_modified: 2026-05-27 23:20:49+00:00
+ai_modified: 2026-05-29 06:22:20+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -48,7 +48,7 @@ The argument from completeness against dualism has a long pedigree. In its conte
 
 The argument's force depends entirely on premise 1: [causal closure](/concepts/causal-closure/). If physics is complete in the sense that every physical event is fully determined by prior physical events, then non-physical causes have nowhere to act. Consciousness either reduces to physics (rejecting premise 3) or becomes epiphenomenal—causally inert and along for the ride.
 
-This argument has dominated philosophy of mind since the 1990s. It relies on a specific understanding of "completeness": that physics tells the whole causal story. But does it?
+This argument has dominated philosophy of mind since the 1990s. It relies on a specific understanding of "completeness": that physics tells the whole causal story. But does it? Whether causal closure holds in the strong sense premise 1 requires is not a settled physical result; it is an empirical conjecture, and the available evidence is compatible with both readings—a causally closed physics and a physics with a principled gap at quantum indeterminacies. The two are empirically equivalent at the level of observable statistics, so the question of which obtains is not adjudicated by the data alone.
 
 ## Three Kinds of Completeness
 
@@ -72,7 +72,7 @@ But "structurally finished" is not "ontologically finished." Stapp's (2005) refi
 
 This is what "partial but complete" means. Physics is complete within its domain—structure and statistics—while being partial about what lies at the domain's boundary: the emergence of definite actuality from quantum possibility. The gap is not a deficiency in current physics. It is a boundary inherent in what physical description does. Additional physics would add more structure. It would not bridge the gap between structure and actuality, because actuality-selection is not the kind of thing structure describes.
 
-Independent evidence for this boundary comes from the [Born rule's peculiar status](/topics/born-rule-and-the-consciousness-interface/). Torres Alegre (2025) shows that, *given* the structure of a generalised probabilistic theory satisfying purification, steering, and exact no-signalling, the Born rule is the unique probability assignment consistent with relativistic causality—the result fixes the rule's *form*, not its existence, and assumes probabilistic structure rather than deriving it. Yet every attempt to derive the rule from non-probabilistic premises smuggles in observer-dependent assumptions. The Born rule is thus simultaneously form-fixed and underivable from below: a pattern compatible with—though not uniquely demonstrating—the reading that it encodes a genuine interface between structure and something beyond structure, rather than a fundamental physical law awaiting deeper explanation.
+Independent evidence for this boundary comes from the [Born rule's peculiar status](/topics/born-rule-and-the-consciousness-interface/). Torres Alegre (2025) argues that, *given* the structure of a generalised probabilistic theory satisfying purification, steering, and exact no-signalling, the Born rule appears to be the unique probability assignment consistent with relativistic causality—the result fixes the rule's *form*, not its existence, and assumes probabilistic structure rather than deriving it. Yet every attempt to derive the rule from non-probabilistic premises appears to smuggle in observer-dependent assumptions. The Born rule is thus arguably form-fixed and underivable from below: a pattern that may be compatible with—though it does not uniquely demonstrate—the reading that it encodes a genuine interface between structure and something beyond structure, rather than a fundamental physical law awaiting deeper explanation.
 
 ## Why the Gap Is Not God-of-the-Gaps
 
@@ -82,7 +82,7 @@ God-of-the-gaps arguments exploit temporary ignorance: "We don't yet know how X 
 
 Descartes pointed to the pineal gland as the locus of mind-body interaction—an empirical gap that neuroscience closed. Eccles proposed quantum effects in synaptic vesicles—another empirical claim that did not survive scrutiny. The Map's position is categorically different. The structural-ontological gap is a philosophical observation about the limits of structural description, not a bet on unexplored neuroscience.
 
-Barrett (2006) makes this point formally: the measurement problem structurally favours mind-body dualism *across interpretation families*. In collapse theories, something must select the outcome—dualism provides a criterion. In no-collapse theories like Everett, something must explain why observers have determinate experiences—dualism provides a subject. The dualist reading of this structural opening is a minority position in philosophy of physics—most theorists pursue decoherence, consistent-histories, or relational accounts that address Process 1 without invoking consciousness—but Barrett's structural observation holds regardless of which reading one adopts: the gap appears in every interpretation rather than in one that might be superseded, because it reflects a genuine boundary in what physics addresses.
+Barrett (2006) makes this point formally: the measurement problem structurally favours mind-body dualism *across interpretation families*. In collapse theories, something must select the outcome—dualism provides a criterion. In no-collapse theories like Everett, something must explain why observers have determinate experiences—dualism arguably provides a subject, though whether it is the only candidate that could play this role remains open. The dualist reading of this structural opening is a minority position in philosophy of physics—most theorists pursue decoherence, consistent-histories, or relational accounts that address Process 1 without invoking consciousness—but Barrett's structural observation holds regardless of which reading one adopts: the gap appears in every interpretation rather than in one that might be superseded, because it reflects a genuine boundary in what physics addresses.
 
 ## Observational Closure and the Empirical Constraint
 
@@ -90,7 +90,7 @@ If physics is structurally complete but ontologically incomplete, how does duali
 
 Observational closure, as Saad (2025) articulates it, holds that no *observable* violations of physical causal patterns exist. Physics appears causally complete in every domain accessible to experiment. This is what the evidence actually supports. Universal closure—the metaphysical thesis that no exceptions exist anywhere—goes beyond the evidence.
 
-Consciousness acting at quantum indeterminacies respects observational closure. When consciousness selects which outcome becomes actual, it operates *within* Born-rule probabilities. The resulting statistics are indistinguishable from random collapse. No experiment can detect the difference between "this outcome was selected by consciousness" and "this outcome occurred randomly within the probability distribution." The interaction is empirically invisible—not because it does not occur, but because it operates at exactly the point where physics assigns probabilities rather than determinate outcomes.
+Consciousness acting at quantum indeterminacies respects observational closure. When consciousness selects which outcome becomes actual, it operates *within* Born-rule probabilities. The resulting statistics are indistinguishable from random collapse. No experiment can detect the difference between "this outcome was selected by consciousness" and "this outcome occurred randomly within the probability distribution." The two descriptions are empirically equivalent: the data does not adjudicate between consciousness-driven selection and brute randomness, so whether an interface is operating at the quantum boundary remains, by the structure of the situation, observationally underdetermined. The interaction would be empirically invisible—not because it does not occur, but because it operates at exactly the point where physics assigns probabilities rather than determinate outcomes.
 
 This statistical invisibility follows from where the gap actually lies rather than marking any defect in the hypothesis. [Conservation laws](/concepts/conservation-laws-and-mental-causation/) remain satisfied because consciousness selects among outcomes rather than injecting energy. Statistical distributions remain intact because selection operates within, not against, the Born rule.
 

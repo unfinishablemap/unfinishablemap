@@ -48,14 +48,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: pessimistic-review
 - **Generated**: 2026-05-29
 
-### P2: Add metaphysical-vs-epistemic equivocation check to the calibration/review methodology
-- **Type**: refine-draft
-- **Status**: pending
-- **Notes**: From outer review 2026-05-29 (Claude Opus 4.8), audit of [[mutation-void]]. Net-new methodology proposal (not in the ChatGPT sibling). The reviewer argues the hedge-density "anchoring calibration" metric is the wrong tool for the mutation-void failure: mechanically tuning hedge counts to clear a numeric bar does nothing about a *strong-vs-weak claim equivocation* (here, sliding between "attention perturbs an otherwise-specifiable content" = measurement disturbance, and "thought-contents are constitutively unstable" = metaphysical indeterminacy — using evidence for the former to assert the latter). Action: assess whether the review/calibration pipeline (the anchoring audit in `tools/curate/anchoring.py` and/or the deep-review checklist and `project/` calibration docs — locate the right home first; assess-first, license-to-decline if already covered) should add an explicit check for *equivocation between metaphysical and epistemic readings of the same claim*. This is distinct from hedge density: a claim can be heavily hedged and still equivocate. Document the check as a methodology note even if no code change is made this pass. Honour [[evidential-status-discipline]]. Tenet alignment: methodological (calibration discipline).
-- **Review file**: `reviews/outer-review-2026-05-29-claude-opus-4-8.md`
-- **Source**: outer-review
-- **Generated**: 2026-05-29
-
 ### P2: Add a cross-void taxonomy-consistency check to the voids methodology
 - **Type**: refine-draft
 - **Status**: pending
@@ -3575,6 +3567,10 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 Tasks that failed 3+ times and require human intervention.
 
+
+### ✓ 2026-05-29: Add metaphysical-vs-epistemic equivocation check to the calibration/review methodology
+- **Type**: refine-draft
+- **Notes**: From outer review 2026-05-29 (Claude Opus 4.8), audit of [[mutation-void]]. Net-new methodology proposal (not in the ChatGPT sibling). The reviewer argues the hedge-density "anchoring calibration" metric is the wrong tool for the mutation-void failure: mechanically tuning hedge counts to clear a numeric bar does nothing about a *strong-vs-weak claim equivocation* (here, sliding between "attention perturbs an otherwise-specifiable content" = measurement disturbance, and "thought-contents are constitutively unstable" = metaphysical indeterminacy — using evidence for the former to assert the latter). Action: assess whether the review/calibration pipeline (the anchoring audit in `tools/curate/anchoring.py` and/or the deep-review checklist and `project/` calibration docs — locate the right home first; assess-first, license-to-decline if already covered) should add an explicit check for *equivocation between metaphysical and epistemic readings of the same claim*. This is distinct from hedge density: a claim can be heavily hedged and still equivocate. Document the check as a methodology note even if no code change is made this pass. Honour [[evidential-status-discipline]]. Tenet alignment: methodological (calibration discipline).
 
 ### ✓ 2026-05-29: Repoint stale Observation Void reference in mutation-void
 - **Type**: refine-draft

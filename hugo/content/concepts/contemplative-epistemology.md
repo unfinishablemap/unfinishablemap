@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-10
-ai_modified: 2026-04-25 20:29:00+00:00
+ai_modified: 2026-05-29 06:55:53+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -24,7 +24,7 @@ description: Systematic contemplative practice as a legitimate knowledge source 
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-04-19 04:38:00+00:00
+last_deep_review: 2026-05-29 06:55:53+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -62,7 +62,7 @@ Contemplative epistemology accepts these critiques but limits their scope. They 
 
 Fox et al. (2012) tested meditators with 1 to 15,000 hours of practice for introspective accuracy—their ability to match subjective reports of tactile sensitivity to objective psychophysical measures. Expert meditators significantly outperformed novices on a logarithmic learning curve, the same pattern observed in perceptual skill acquisition. This result is promising but indirect: introspective accuracy on a sensory-discriminative task is not identical to reporting on the structure of phenomenal consciousness. The inferential gap must be acknowledged.
 
-The case for extension rests on convergent evidence. Baird et al. (2014) found meditation training enhanced metacognitive accuracy in memory tasks. Kok and Singer (2017) documented distinct phenomenological fingerprints across meditation types, showing practitioners discriminate their own mental states with increasing precision. A 2025 study confirmed the broader framing: "A key advantage that arises from phenomenological and/or mindfulness training is the improved reliability and control the participants have over their attention" (Milicevic et al. 2025). The pattern is consistent: training in sustained attention improves the accuracy of first-person reports, with improvement tracking practice hours.
+The case for extension rests on convergent evidence. Baird et al. (2014) found meditation training enhanced metacognitive accuracy in memory tasks. Kok and Singer (2017) documented distinct phenomenological fingerprints across meditation types, showing practitioners discriminate their own mental states with increasing precision. A 2025 study integrating first-, second-, and third-person methods argues that contemplatives trained in sustained attention, mindfulness, and introspection are an ideal population for phenomenological research precisely because such training yields more refined and reliable first-person reports of mental phenomena (Milicevic et al. 2025). The pattern is consistent: training in sustained attention improves the accuracy of first-person reports, with improvement tracking practice hours.
 
 The implication—stated carefully—is that contemplative reliability is a trainable skill, not a fixed trait. The evidence is strongest for attention-adjacent discriminations (detecting mind-wandering, tracking body sensations, reporting affective valence). Extension to deeper phenomenal structures rests on the convergence arguments below, not on direct psychophysical measurement.
 

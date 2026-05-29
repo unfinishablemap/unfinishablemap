@@ -5,6 +5,16 @@ ai_modified: 2026-05-29T06:55:53+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-05-29T07:05:18+00:00 - refine-draft
+- **Status**: Success (methodology task — documentation only, no article edit)
+- **File**: [[project/evidential-status-discipline]]
+- **Source**: outer review 2026-05-29 (Claude Opus 4.8) — [[reviews/outer-review-2026-05-29-claude-opus-4-8]], methodology recommendation (B): "the hedge-density anchoring calibration metric is the wrong tool for this failure; add a check for equivocation between metaphysical and epistemic readings of the same claim."
+- **Assess-first verdict**: Genuine gap. The closest existing rules (`Phenomenological Datum ≠ Irreducible Metaphysical Datum`, `Constrain vs. Establish`, `Tenet vs. Evidence register`, `Compatibility vs. Support`, `Coherence vs. Evidential Status`) all guard a *vertical* axis — converting a lower tier of evidential support into a higher tier for a *fixed* claim. The mutation-void failure is *horizontal*: one claim equivocates between two distinct readings of the same words (epistemic/observer-effect vs metaphysical/constitutive-instability), recruiting evidence for the weaker reading to assert the stronger. Not previously named; not detectable by hedge-density (a claim can be heavily hedged and still equivocate).
+- **Changes**: (1) Added a fourth cross-cutting rule to `evidential-status-discipline.md`, "Epistemic Reading ≠ Metaphysical Reading of the Same Claim" — states the operational check, the mutation-void diagnostic case, the orthogonality to the anchoring audit, the split-or-downgrade fix, and the distinction from the vertical phenomenological-datum rule; updated the "Three → Four Cross-Cutting Rules" framing sentence. (2) Added a brief upstream check to `pessimistic-review/SKILL.md` Standard Analysis so the failure mode is caught at review time. (3) Added `voids/mutation-void` and the 2026-05-29 Claude review to the discipline's related_articles; bumped modified/ai_modified.
+- **Code change**: Declined this pass per license-to-decline. Equivocation is a semantic property of a claim's two readings; the hedge-density scanner (`tools/curate/anchoring.py`) is structurally unequipped (counts hedge tokens, not interpretive senses). Flagged a tune-system candidate (lexical pre-filter pairing epistemic-access vocabulary with metaphysical-constitution vocabulary in one passage) inside the methodology note; not built speculatively.
+- **Framing**: Honoured [[evidential-status-discipline]] — the check itself is stated in calibrated terms (split readings, supply bridging argument, or route metaphysical claim to its honest register; does not demand abandoning the metaphysical reading).
+- **Published**: yes (methodology docs are not draft-gated)
+
 ## 2026-05-29T17:30:00+00:00 - refine-draft
 - **Status**: Success
 - **File**: [[voids/mutation-void]]

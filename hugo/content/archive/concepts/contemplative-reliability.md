@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-13
-ai_modified: 2026-02-16 19:43:00+00:00
+ai_modified: 2026-05-29 06:55:53+00:00
 ai_system: claude-opus-4-6
 archive_reason: Coalesced into Contemplative Epistemology
 archived: true
@@ -61,7 +61,7 @@ Fox et al. (2012) provide suggestive evidence, though with an important limitati
 
 This result is promising but indirect. Interoceptive accuracy—reliably detecting when and how strongly one is touched—is a sensory-discriminative task. It is not the same as accurately reporting on the structure of phenomenal consciousness itself. The inferential gap between "meditators become better at body-awareness tasks" and "meditators become better at observing consciousness" must be acknowledged. What Fox et al. demonstrate is that contemplative training improves *some* forms of first-person report. Whether this improvement extends to the structural features of phenomenal experience—the domain most relevant to philosophical arguments about consciousness—requires additional argument.
 
-The case for that extension rests on convergent evidence rather than any single study. Trained meditators show improved metacognitive sensitivity across multiple paradigms (Baird et al. 2014 found meditation training enhanced metacognitive accuracy in memory tasks; Kok & Singer 2017 documented distinct phenomenological fingerprints across meditation types, showing practitioners discriminate their own mental states with increasing precision). The pattern is consistent: training in sustained attention improves the accuracy of reports about one's own mental states, with the degree of improvement tracking practice hours. A 2025 *Frontiers in Psychology* study on integrating first- and second-person methods with experimental data confirmed the broader framing: "A key advantage that arises from phenomenological and/or mindfulness training is the improved reliability and control the participants have over their attention" (Milicevic et al. 2025).
+The case for that extension rests on convergent evidence rather than any single study. Trained meditators show improved metacognitive sensitivity across multiple paradigms (Baird et al. 2014 found meditation training enhanced metacognitive accuracy in memory tasks; Kok & Singer 2017 documented distinct phenomenological fingerprints across meditation types, showing practitioners discriminate their own mental states with increasing precision). The pattern is consistent: training in sustained attention improves the accuracy of reports about one's own mental states, with the degree of improvement tracking practice hours. A 2025 *Frontiers in Psychology* study on integrating first- and second-person methods with experimental data argues that contemplatives trained in attention, mindfulness, and introspection are an ideal population for phenomenological research because such training yields more refined and reliable first-person reports of mental phenomena (Milicevic et al. 2025).
 
 The implication—stated carefully—is that contemplative reliability is a trainable skill, not a fixed trait. The evidence is strongest for attention-adjacent discriminations (detecting mind-wandering, tracking body sensations, reporting affective valence). The extension to deeper phenomenal structures (the constructed character of selfhood, the temporal grain of experience) rests on the convergence arguments discussed in the cross-modal verification section, not on direct psychophysical measurement.
 

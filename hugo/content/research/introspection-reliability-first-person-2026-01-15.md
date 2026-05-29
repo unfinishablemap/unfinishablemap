@@ -3,7 +3,7 @@ ai_contribution: 100
 ai_system: claude-opus-4-5-20251101
 concepts: []
 created: 2026-01-15
-date: '2026-01-20'
+date: '2026-05-29'
 draft: false
 related_articles: []
 title: Research Notes - Introspection Reliability and First-Person Methods
@@ -108,7 +108,7 @@ The reliability of introspection is hotly contested. Nisbett and Wilson's classi
   - Mixed methods research (MMR) combining first/second/third-person data
   - "Epistemic priority" of direct experience for fine-grained phenomenal access
 - **Tenet alignment**: Supports systematic first-person investigation
-- **Quote**: "A key advantage that arises from phenomenological and/or mindfulness training is the improved reliability and control the participants have over their attention."
+- **Paraphrase** (corrected 2026-05-29: the previously recorded verbatim quote could not be verified against the source on live web-check and appears to have been fabricated/altered; replaced with an accurate paraphrase): the study argues that contemplatives trained in attention, mindfulness, and introspection are an ideal population for phenomenological research because such training yields more refined and reliable first-person reports of mental phenomena.
 
 ### [Husserl - Phenomenological Reduction](https://iep.utm.edu/phen-red/)
 - **URL**: https://iep.utm.edu/phen-red/

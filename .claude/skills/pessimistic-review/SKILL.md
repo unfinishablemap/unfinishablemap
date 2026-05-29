@@ -88,6 +88,10 @@ Also check for:
 - Does it conflict with other site content?
 - Does it conflict with The Unfinishable Map's tenets?
 
+**Epistemic/Metaphysical Equivocation** (see [[evidential-status-discipline]], *Epistemic Reading ≠ Metaphysical Reading of the Same Claim*)
+- Does a load-bearing claim admit both an *epistemic* reading (a limit on what we can access, measure, or report about a determinate state of affairs) and a *metaphysical* reading (a claim about how the world or the mind is constituted)?
+- If so, which reading does the evidence support, and which does the article's conclusion require? Evidence for the epistemic reading recruited to assert the metaphysical one is *interpretive equivocation* — *critical issue* — flag for a `refine-draft` pass that splits the readings and supplies the bridging argument or downgrades the claim. The 2026-05-29 outer review of [[voids/mutation-void]] is the diagnostic case: "attention disturbs an otherwise-specifiable content" (epistemic) was used to assert "thought-contents are constitutively unstable" (metaphysical). This check is *orthogonal to hedge density* — a claim can be heavily hedged and still equivocate, so the anchoring audit will not catch it.
+
 **Language Issues**
 - Is language overly strong without justification? ("clearly," "obviously," "must be")
 - Are there weasel words hiding weak arguments?

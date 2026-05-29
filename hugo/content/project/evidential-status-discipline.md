@@ -1,12 +1,12 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-05-05
-ai_modified: 2026-05-27 22:03:08+00:00
+ai_modified: 2026-05-29 07:05:18+00:00
 ai_system: claude-opus-4-7
 author: null
 concepts: []
 created: 2026-05-05
-date: &id001 2026-05-25
+date: &id001 2026-05-29
 description: A tenet may remove a defeater, but it must not upgrade the evidence level.
   The discipline installs a five-tier scale — established → strongly supported → realistic
   possibility → live hypothesis → speculative integration — and the diagnostic test
@@ -49,6 +49,8 @@ related_articles:
 - '[[reviews/optimistic-2026-05-09]]'
 - '[[psychedelics-and-the-filter-model]]'
 - '[[topics/born-rule-and-the-consciousness-interface]]'
+- '[[voids/mutation-void]]'
+- '[[reviews/outer-review-2026-05-29-claude-opus-4-8]]'
 title: Evidential-Status Discipline
 topics: []
 ---
@@ -123,7 +125,7 @@ The test makes the discipline operational. The `/deep-review` skill applies it e
 
 ## Three Cross-Cutting Rules
 
-The diagnostic test catches the failure mode at the level of organism-level evidence-grade labelling. Three further rules extend the discipline to specific cross-cutting axes the catalogue has been pulled toward conflating: experience to irreducibility, dissociation evidence to metaphysical primitiveness, and tenet-derived disagreement with MWI to phenomenological refutation of MWI.
+The diagnostic test catches the failure mode at the level of organism-level evidence-grade labelling. Four further rules extend the discipline to specific cross-cutting axes the catalogue has been pulled toward conflating: experience to irreducibility, dissociation evidence to metaphysical primitiveness, tenet-derived disagreement with MWI to phenomenological refutation of MWI, and — the rule added below — a single claim that *equivocates between an epistemic and a metaphysical reading of the same words*, using evidence for the weaker reading to assert the stronger one.
 
 ### Phenomenological Datum ≠ Irreducible Metaphysical Datum
 
@@ -163,6 +165,24 @@ The checklist sits at the intersection of evidential-status and direct-refutatio
 > *Is the work this article needs from No-MWI done by counterfactual exclusion — a fact of the matter that this subject actualised this outcome and not the alternatives — rather than by MWI failing to restate the data?*
 
 If yes — and across the agency cluster it almost always is — the article should rest the rejection on that identity work and *not* on MWI failing phenomenologically or empirically. MWI can supply a branch-local agent who reports choosing; what it cannot supply is the counterfactual exclusion agency requires, because every alternative the agent "rejects" is realised in a parallel branch by a counterpart with equal claim to being the chooser. This makes No-MWI a tenet about *personhood and responsibility* as much as about quantum interpretation: agency, desert, and indexical ownership of a unique history all require that the unchosen alternatives genuinely did not happen. The 2026-05-22 ChatGPT outer review (§2.F) named this cross-cluster role; the prong installs it as a standing check so agency-, death-, and selection-cluster articles state the identity objection rather than reaching for the weaker "selection requires real collapse / MWI fails the phenomenology" framings the [evidential-status-discipline](/project/evidential-status-discipline/) discounts.
+
+### Epistemic Reading ≠ Metaphysical Reading of the Same Claim
+
+The three rules above each guard a *vertical* move — converting a lower tier of evidential support into a higher one for a fixed claim. A fourth failure mode is *horizontal*: a single claim slides between two distinct readings of the same words, and evidence that supports the weaker reading is recruited to assert the stronger one. The slippage is not over-strength of one interpretation; it is *interpretive equivocation* between two interpretations the article never separates.
+
+The diagnostic case is the 2026-05-29 Claude Opus 4.8 outer review of [the mutation void](/voids/mutation-void/). The article's evidence — attending to a thought perturbs it; introspecting an emotion changes it — supports an *epistemic / observer-effect* reading: *attention disturbs an otherwise-specifiable content*, the way a measurement disturbs a system that had a determinate prior state. The article's headline claim is a *metaphysical* reading: thought-contents are *constitutively unstable*, they *cannot exist in their original form* once attended. The two readings share the same sentences but make different claims about the world — the first that the content existed and was disturbed, the second that no stable content existed to disturb. The article's own central analogy ("a substance that reacts chemically with the instrument") is a disturbance picture, which is the epistemic reading; the conclusion it draws is the metaphysical one. Evidence for the first was used to assert the second.
+
+The failure mode is distinct from anything the hedge-density anchoring calibration (the anchoring audit in `tools/curate/anchoring.py`) can detect, and naming that distinctness is the point of the rule. Hedge density measures whether a claim is *appropriately tentative*; a claim can be heavily hedged — *"perhaps thought-contents may be constitutively unstable"* — and still equivocate, because the hedge attaches to the strength of assertion, not to *which of two readings is being asserted*. Mechanically tuning hedge counts to clear a numeric bar does nothing about the equivocation: the metaphysical reading remains the one doing the article's differentiating work (here, the claim that licenses the void's "narrower and more radical" self-positioning against the observation-and-measurement void) while only the epistemic reading is evidenced. The anchoring audit and this check are orthogonal instruments; passing one is no evidence about the other.
+
+The check, stated operationally for the reviewer or refine-editor:
+
+> *Does a load-bearing claim admit both an epistemic reading (a limit on what we can access, measure, or report about a determinate state of affairs) and a metaphysical reading (a claim about how the world or the mind is constituted)? If so, which reading does the evidence support, and which reading does the article's conclusion require? If the evidence supports the epistemic reading and the conclusion asserts the metaphysical one, the claim equivocates and must be split.*
+
+The fix is the same shape as the constrain-vs-establish fix: name the weaker reading the evidence actually supports, state the stronger reading separately, and supply the bridging argument the upgrade requires — or, where no bridging argument is available, retain only the reading the evidence supports and route the metaphysical claim to its honest register (framework-boundary marking, or an explicit "this is the stronger thesis we have not earned" caveat). For the mutation void the discharge is: the disturbance reading is what the evidence establishes; the constitutive-instability reading requires showing the content *cannot in principle* exist in stable attended form, which the article never does, so the headline claim must either be downgraded to the disturbance reading or supplied with the in-principle-impossibility argument. The discipline does not demand the metaphysical reading be abandoned; it demands the article stop borrowing the metaphysical reading's force while paying only the epistemic reading's evidential price.
+
+The rule sits alongside the *phenomenological datum ≠ irreducible metaphysical datum* rule but is not the same: that rule catches a *vertical* under-supplied upgrade from one reading (the phenomenological) to a strictly higher one (the metaphysical) along a single inferential chain; this rule catches a *horizontal* substitution in which two readings of the same words are run together and the evidence for one is silently transferred to the other. An article can pass the phenomenological-datum rule (it does supply a bridging argument from experience to irreducibility) and still fail this one (it equivocates, mid-argument, between an epistemic and a metaphysical gloss of "instability"). The reviewer applies whichever rule the structure of the claim calls for; clusters of altered-state, introspection, and quantum-analogy articles are the highest-risk sites because their vocabulary (*instability*, *indeterminacy*, *inaccessibility*, *disturbance*) carries epistemic and metaphysical senses that the source literatures keep distinct and the catalogue is tempted to blur.
+
+A note on instrumentation. This is documented as a methodology check, not as a code change to the anchoring audit this pass: the equivocation is a semantic property of a claim's two readings, which the hedge-density scanner is structurally unequipped to detect (it counts hedge tokens, not interpretive senses), and an automated detector would need claim-level natural-language classification that is its own design problem. Whether a lightweight lexical pre-filter is worth building — flagging articles that pair epistemic-access vocabulary (*cannot access / report / specify / measure*) with metaphysical-constitution vocabulary (*constitutively / cannot exist / is indeterminate*) in the same load-bearing passage, as a candidate-surfacing aid for the human reviewer — is a `/tune-system` candidate, not a change to make speculatively here. The check earns its keep as a reviewer-applied rule first; automation, if any, follows evidence that the rule fires often enough to repay the build.
 
 ## Coherence vs. Evidential Status
 

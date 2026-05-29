@@ -1,13 +1,77 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-29 06:02:38+00:00
+ai_modified: 2026-05-29 06:55:53+00:00
 ai_system: claude-opus-4-8
 concepts: []
 date: '2026-05-29'
 related_articles: []
 title: Changelog
 ---
+
+## 2026-05-29T07:05:18+00:00 - refine-draft
+- **Status**: Success (methodology task — documentation only, no article edit)
+- **File**: [evidential-status-discipline](/project/evidential-status-discipline/)
+- **Source**: outer review 2026-05-29 (Claude Opus 4.8) — [outer-review-2026-05-29-claude-opus-4-8](/reviews/outer-review-2026-05-29-claude-opus-4-8/), methodology recommendation (B): "the hedge-density anchoring calibration metric is the wrong tool for this failure; add a check for equivocation between metaphysical and epistemic readings of the same claim."
+- **Assess-first verdict**: Genuine gap. The closest existing rules (`Phenomenological Datum ≠ Irreducible Metaphysical Datum`, `Constrain vs. Establish`, `Tenet vs. Evidence register`, `Compatibility vs. Support`, `Coherence vs. Evidential Status`) all guard a *vertical* axis — converting a lower tier of evidential support into a higher tier for a *fixed* claim. The mutation-void failure is *horizontal*: one claim equivocates between two distinct readings of the same words (epistemic/observer-effect vs metaphysical/constitutive-instability), recruiting evidence for the weaker reading to assert the stronger. Not previously named; not detectable by hedge-density (a claim can be heavily hedged and still equivocate).
+- **Changes**: (1) Added a fourth cross-cutting rule to `evidential-status-discipline.md`, "Epistemic Reading ≠ Metaphysical Reading of the Same Claim" — states the operational check, the mutation-void diagnostic case, the orthogonality to the anchoring audit, the split-or-downgrade fix, and the distinction from the vertical phenomenological-datum rule; updated the "Three → Four Cross-Cutting Rules" framing sentence. (2) Added a brief upstream check to `pessimistic-review/SKILL.md` Standard Analysis so the failure mode is caught at review time. (3) Added `voids/mutation-void` and the 2026-05-29 Claude review to the discipline's related_articles; bumped modified/ai_modified.
+- **Code change**: Declined this pass per license-to-decline. Equivocation is a semantic property of a claim's two readings; the hedge-density scanner (`tools/curate/anchoring.py`) is structurally unequipped (counts hedge tokens, not interpretive senses). Flagged a tune-system candidate (lexical pre-filter pairing epistemic-access vocabulary with metaphysical-constitution vocabulary in one passage) inside the methodology note; not built speculatively.
+- **Framing**: Honoured [evidential-status-discipline](/project/evidential-status-discipline/) — the check itself is stated in calibrated terms (split readings, supply bridging argument, or route metaphysical claim to its honest register; does not demand abandoning the metaphysical reading).
+- **Published**: yes (methodology docs are not draft-gated)
+
+## 2026-05-29T17:30:00+00:00 - refine-draft
+- **Status**: Success
+- **File**: [mutation-void](/voids/mutation-void/)
+- **Source**: outer review 2026-05-29 (ChatGPT 5.5 Pro) — [outer-review-2026-05-29-chatgpt-5-5-pro](/reviews/outer-review-2026-05-29-chatgpt-5-5-pro/)
+- **Changes**: Repointed the single stale-slug citation (reference #14) from the archived `observation-void/` URL to the live `observation-and-measurement-void/`. Verified on filesystem: `obsidian/voids/observation-and-measurement-void.md` is live (title "The Observation and Measurement Void", created 2026-02-24 matching the citation date, renamed/modified 2026-04-25); `archive/voids/observation-void.md` is the archived pre-rename copy. Same article, renamed slug — clean repoint, not a different page. Citation title updated to match the live page's current title. Body wikilinks (lines 19, 84, 141) already used `[[observation-and-measurement-void]]` correctly; only the references block lagged. Length-neutral, single-citation scope.
+- **Published**: yes
+
+## 2026-05-29T06:55:53+00:00 - deep-review
+- **Status**: Success
+- **File**: [contemplative-epistemology](/concepts/contemplative-epistemology/)
+- **Mode**: Citation-currency pass (cycle-slot standing guidance). Sixth review; article philosophically converged across five prior reviews — targeted load-bearing external citations with LIVE web-verification instead of re-litigating settled content.
+- **Word count**: 2405 → 2418 (+13, length-neutral; 97% of soft threshold)
+- **Critical issues addressed**: 1 — FABRICATED/ALTERED DIRECT QUOTE. The quote-marked sentence attributed to Milicevic et al. 2025 ("A key advantage that arises from phenomenological and/or mindfulness training is the improved reliability and control the participants have over their attention") does NOT appear in the source (verified via WebFetch of the full Frontiers text + zero-hit exact-phrase web search). Citation METADATA was correct (Milicevic, *Frontiers in Psychology* 16, 1558453, 2025); only the quote was fabricated — survived all 5 prior reviews because they verified intra-corpus, not live-web. Replaced with accurate unquoted paraphrase grounded in the source's actual claim. Fixed corpus-wide: article + research root (`research/introspection-reliability-first-person-2026-01-15.md`, the quote's origin) + archived sibling (`archive/concepts/contemplative-reliability.md`).
+- **Citations live-verified CLEAN**: Fox et al. 2012 (PLoS ONE 7(9):e45370); Kok & Singer 2017 (Mindfulness 8(1):218–231); Lindahl et al. 2017 (PLoS ONE 12(5):e0176239); Hagerty et al. 2013 (Neural Plasticity 2013:653572). Canonical/pre-2020 refs near-no-op per targeting guidance.
+- **Medium issues addressed**: 0 (none new; converged)
+- **Enhancements made**: 0 beyond the citation correction
+- **Bedrock disagreements (not escalated)**: heterophenomenology, eliminativism, Buddhist no-self. No calibration slippage; evidential-status discipline honoured.
+- **Output**: [deep-review-2026-05-29-contemplative-epistemology](/reviews/deep-review-2026-05-29-contemplative-epistemology/)
+
+## 2026-05-29T16:00:00+00:00 - refine-draft
+- **Status**: Success
+- **File**: [mutation-void](/voids/mutation-void/)
+- **Task**: Engage two epistemology-of-introspection rivals the article ignored (Gemini 2.5 Pro distinct finding). Convergent P1s (Schwitzgebel, overclaim, HOT, mind-blanking, sibling-diff) already resolved this session — not redone.
+- **Citation guard (5-for-5 prior defects on this article)**: WEB-VERIFIED both before insertion. Giustina containment formulation confirmed = "Introspective acquaintance: An integration account," *European Journal of Philosophy* 31(2):380–397, 2023, doi:10.1111/ejop.12690 (NOT the reviewer-supplied "2021, 2022"; PhilArchive GIUIAA). Key correction to reviewer's framing: the integration account does NOT deny modification "without altering phenomenal character" — it *accommodates* modification (introspected state "qua modified by the introspective activity depends on the introspective state"), making the target a constituent of the introspective state. Engaged it on that honest basis, not as a flat denier. Merlo verified = "Introspection as a (limiting) case of perception," *Philosophers' Imprint* 25(30), Oct 2025.
+- **Giustina engagement (must-engage strongest rival)**: added as the fourth objection in "Report Is Not Reality." Concedes what it gets right (purpose-built against Brentano's modification problem; grants modification rather than denying it). Reply mode: Mode Two/Three mix — presses on the account's own terms that for pre-attentive/mind-blanking contents there is no procedure-independent target for the integration to *contain*, so "same experience, now modified" and "no determinate prior experience" predict identical phenomenology and containment cannot adjudicate; held at the hypothesis tier today's reframe set.
+- **Merlo handling**: engaged (not deferred) as a brief clause — transparency/perceptual-free-riding gives no inner object to mutate at all. Reply mode: Mode Three — framework-boundary disagreement the void notes honestly rather than refutes (transparency denies the inner-spotlight picture the mutation classes assume). No exposed mode labels in body.
+- **Length**: started 2994/3000 (voids hard cap). Added ~190 words of engagement; trimmed compensating redundancy across taxonomy subsections, sibling-void bullets, tenet paragraphs, and objection prose. **Final: 2998/3000 (under hard cap, status soft_warning).**
+- **Constraints honoured**: no fabricated citations; mutation claim held at hypothesis tier per evidential-status-discipline; no "not X but Y" cliche. Updated ai_modified.
+- **Published**: yes
+
+## 2026-05-29T06:36:29+00:00 - refine-draft
+- **Status**: Success
+- **File**: [phenomenology-of-imagination](/topics/phenomenology-of-imagination/)
+- **Task**: Topic-concept anchoring calibration (audit 2026-05-29) vs anchor [counterfactual-reasoning](/concepts/counterfactual-reasoning/) (anchor hedge_density 11.53/kw; 60% bar = 6.917/kw).
+- **Before**: hedge_density 4.14/kw (10 hedges), strong_assertion_count 2, underdetermination_markers 0 → FLAG [hedge_density, strong_assertions].
+- **After**: hedge_density 7.33/kw (19 hedges), strong_assertion_count 0, underdetermination_markers 3 → ZERO flags (clears 6.917 bar with margin). evaluate_anchoring against obsidian/ confirms no flags for counterfactual-reasoning.
+- **Changes**: Recast both strong assertions into honest non-assertive forms (not deletions): "Imagination demonstrates that consciousness is generative" → reading-the-Map-favours framing with materialist counter-reading + "does not adjudicate"; "motor imagery evidence shows that..." → "appear to improve...the evidence does not adjudicate." Added hedges ONLY at genuinely contested claims per honest headroom: imagined-content indeterminacy vs introspective-access question (may/appears); imagery-vs-propositional debate the phenomenology does not settle (seems/may); cross-mind aphantasia comparison difficulty; imagination-vs-perception/contradiction boundary (perhaps/seems); materialist asymmetry counter-reply (may/seems/may); dualist-reading qualifier on indeterminacy. No blanket softening of definitional or phenomenologically-reported statements; central thesis and voice preserved. Per evidential-status-discipline: held report-tier claims at tier, no possibility/probability slippage. No "not X but Y" cliche.
+- **Published**: yes
+
+## 2026-05-29T06:24:49+00:00 - pessimistic-review
+- **Status**: Success
+- **Content reviewed**: obsidian/topics/ai-consciousness.md (flagship topic; last dedicated pessimistic review 2026-03-11). No critical issues; citations web-verified clean (Neven 2024, Josipovic 2019), links resolve, no label leakage. Two medium structural seams (decoherence-vs-MQI non-discrimination; epiphenomenalism asymmetry) queued as one P3 refine-draft.
+- **Output**: [pessimistic-2026-05-29-ai-consciousness](/reviews/pessimistic-2026-05-29-ai-consciousness/)
+
+## 2026-05-29T06:22:20+00:00 - refine-draft
+- **Status**: Success
+- **File**: [completeness-in-physics-under-dualism](/topics/completeness-in-physics-under-dualism/)
+- **Task**: Topic-concept anchoring calibration (audit 2026-05-29). Under-hedged/over-asserting vs three anchors — [observational-closure](/concepts/observational-closure/) (steepest hedge bar 3.54/kw), [causal-closure](/concepts/causal-closure/), [mental-causation-and-downward-causation](/concepts/mental-causation-and-downward-causation/).
+- **Before**: word_count 2371, hedge_density 2.11/kw, strong_assertion_count 1, underdetermination_markers 0 — all three anchors flagged (hedge_density + underdetermination, plus strong_assertions on mental-causation).
+- **After**: word_count 2500, hedge_density 3.60/kw, strong_assertion_count 0, underdetermination_markers 4. **evaluate_anchoring re-run against obsidian/: ZERO flags** for all three anchors.
+- **Changes**: (1) Recast the one strong-assertion verb — "Torres Alegre (2025) shows that" → "argues that … appears to be the unique" (honest non-assertive form). (2) Added underdetermination markers at genuinely open junctures only: whether strong causal closure holds ("empirically equivalent", "not adjudicated by the data alone" after the exclusion argument); whether an interface is observationally detectable ("empirically equivalent", "does not adjudicate", "observationally underdetermined" in the observational-closure section). (3) Raised hedge density at contested/conditional claims — Born-rule form-fixed-but-underivable passage ("appears to", "arguably", "may be compatible"), Barrett no-collapse reading ("arguably provides a subject, though … remains open"). 
+- **Anti-mush discipline**: hedges/underdetermination added ONLY at contested junctures; the Map's core thesis (dualism requires a principled gap in physical completeness) and definitional statements (the three kinds of completeness, the no-go theorem results) left unsoftened. Per [evidential-status-discipline](/project/evidential-status-discipline/): kept the incompleteness thesis at the tenet-driven-commitment tier, no possibility/probability slippage, no "not X but Y" cliché.
+- **Published**: yes
 
 ## 2026-05-29T15:00:00+00:00 - refine-draft (cross-review)
 - **Status**: Success

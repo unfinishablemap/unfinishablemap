@@ -38,51 +38,15 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Adopt observational-closure calibration in completeness-in-physics-under-dualism
+### P3: Tighten two structural seams in ai-consciousness
 - **Type**: refine-draft
 - **Status**: pending
-- **File**: obsidian/topics/completeness-in-physics-under-dualism.md
-- **Notes**: From topic-concept anchoring audit 2026-05-29. The topic article over-claims relative to its anchor concept [observational-closure](/concepts/observational-closure/); failed checks: hedge_density, underdetermination_markers.
-  - hedge density 2.11/kw is below 60% of anchor (5.89/kw)
-  - anchor declares underdetermination (1× explicit) but topic has no underdetermination markers
-  - Action: bring the topic's hedge profile in line with the anchor concept's. Preserve the article's voice; this is not a request to weaken the central claim, only to inherit the calibration discipline the anchor concept already uses. See [calibration-audit-triple](/project/calibration-audit-triple/) Audit Three for the spec and [evidential-status-discipline](/project/evidential-status-discipline/) for the underlying rule.
-- **Source**: topic-concept-anchoring-audit
-- **Generated**: 2026-05-29
-
-### P2: Adopt counterfactual-reasoning calibration in phenomenology-of-imagination
-- **Type**: refine-draft
-- **Status**: pending
-- **File**: obsidian/topics/phenomenology-of-imagination.md
-- **Notes**: From topic-concept anchoring audit 2026-05-29. The topic article over-claims relative to its anchor concept [counterfactual-reasoning](/concepts/counterfactual-reasoning/); failed checks: hedge_density, strong_assertions.
-  - hedge density 4.14/kw is below 60% of anchor (11.53/kw)
-  - topic uses 2 strong-assertion verbs where anchor uses none
-  - Action: bring the topic's hedge profile in line with the anchor concept's. Preserve the article's voice; this is not a request to weaken the central claim, only to inherit the calibration discipline the anchor concept already uses. See [calibration-audit-triple](/project/calibration-audit-triple/) Audit Three for the spec and [evidential-status-discipline](/project/evidential-status-discipline/) for the underlying rule.
-- **Source**: topic-concept-anchoring-audit
-- **Generated**: 2026-05-29
-
-### P2: Engage acquaintance/containment and transparency accounts in mutation-void
-- **Type**: refine-draft
-- **Status**: pending
-- **Notes**: From outer review 2026-05-29 (Gemini 2.5 Pro), audit of [mutation-void](/voids/mutation-void/). Gemini's distinct contribution beyond the convergent 2026-05-29 ChatGPT/Claude findings (Schwitzgebel fabrication, constitutive-instability overclaim, HOT, 2020s mind-blanking neuroscience — all already queued above): the article engages **no** contemporary epistemology-of-introspection framework built specifically to defuse its core "attention alters the target" move. Two named, source-verified omissions to engage: (1) **Giustina's acquaintance / "integration" account** (the reviewer's "containment" label) — verified via PhilArchive/Wiley (EJP 2023; PhilArchive GIUIAA) that the integration account is constructed *expressly* to meet Brentano's *phenomenal modification problem* (drawing introspective attention may modify the introspected phenomenology — the mutation void's exact mechanism), arguing the introspective state can contain the target experience as a constituent without altering its phenomenal character. The article should engage this as the strongest in-area rival, not ignore it. (2) **Merlo's transparency / "perceptual free-riding"** — citation verified: Giovanni Merlo, "Introspection as a (limiting) case of perception," *Philosophers' Imprint* 25 (2025). On a transparency model there is no inner object to mutate, which directly contests the article's implicit inner-sense/spotlight picture in "Attention Mutations." **Apply the direct-refutation discipline.** Identify what kind of engagement each calls for — showing the rival defective on its own terms, naming an unsupported foundational move, or honestly marking a framework-boundary disagreement — and apply the corresponding reply mode in **natural journal-quality prose** (see [the writing-style guide](/project/writing-style/)'s "Engaging Opponents in Journal-Quality Prose"). **Do not expose mode labels in the article body.** Web-verify the exact Giustina work/year before citing (per ai-citation-metadata-unreliable; reviewer gives "2021, 2022" but the integration-account venue is EJP 2023 — confirm which paper carries the containment formulation). Mind the voids length thresholds; defer detail to linked pages where possible. Honour [evidential-status-discipline](/project/evidential-status-discipline/). NOTE: Gemini also flags an illusionism/Frankish-bracketing point and a James diachronic-vs-synchronic point — both judged lower value in the review's Verification Notes (the bracketing is the Map's declared tenet remit, not a hidden flaw; the James finding misreads the article's structure) and are NOT separately queued.
-- **Review file**: `reviews/outer-review-2026-05-29-gemini-2-5-pro.md`
-- **Source**: outer-review
-- **Generated**: 2026-05-29
-
-### P2: Repoint stale Observation Void reference in mutation-void
-- **Type**: refine-draft
-- **Status**: pending
-- **Notes**: From outer review 2026-05-29 (ChatGPT 5.5 Pro), audit of [mutation-void](/voids/mutation-void/). CONFIRMED by source check: the reference list (line ~140) cites the old `observation-void/` URL ("The Observation Void", 2026-02-24) while the body (lines 38, 124) correctly uses `[[observation-and-measurement-void]]`. This is an instance of the archival-link-rot / stale-slug pattern. Action: update reference #5 to point at the live Observation and Measurement Void page (or annotate it explicitly as an earlier companion article if the old page is intentionally retained). Verify the target slug resolves live before editing.
-- **Review file**: `reviews/outer-review-2026-05-29-chatgpt-5-5-pro.md`
-- **Source**: outer-review
-- **Generated**: 2026-05-29
-
-### P1: Differentiate mutation-void from sibling voids and add reciprocal attention-interface link
-- **Type**: cross-review
-- **Status**: pending
-- **Notes**: From convergent outer reviews (2026-05-29, 2/3 reviewers): [chatgpt, claude]. Both flag that mutation-void is well-linked but not well *differentiated* by concept, with real redundancy risk against the observation-and-measurement void and the thought-stream void. ChatGPT 5.5 Pro: "Mutation Void is integrated by links, but not yet well differentiated by concept. Its scope bleeds into Observation and Measurement Void, Self-Opacity, Thought-Stream Void, Vagueness Void, and Necessary Opacity." Claude Opus 4.8 (§4): "the differentiation rests entirely on the contested 'constitutive' claim. If that claim is not earned ... the mutation void collapses into being merely the first-person layer of the O&M void — i.e., redundant"; flags the thought-stream void as "highest redundancy risk" and praises the vagueness-void boundary as the model to follow. Also convergent with the archive audit (2026-04-29). Action: add concise boundary notes drawing the conceptual lines — mutation = **access altering target content**; [thought-stream-void](/voids/thought-stream-void/) = temporal flow; [self-opacity](/voids/self-opacity/) = structural limits of self-knowledge; conceptual-metabolism = transformation through conceptual processing; [observation-and-measurement-void](/voids/observation-and-measurement-void/) = studying consciousness altering what is studied (partly drawn at line 38); operationalise the thought-stream "absent vs present-and-changed" distinction with a worked example. Add a reciprocal link from [attention-and-the-consciousness-interface](/topics/attention-and-the-consciousness-interface/) back to mutation-void, and soften any [self-reference-paradox](/concepts/self-reference-paradox/) framing that treats mutation-void as the "clearest strong-form case" until phenomenological mutation is distinguished from report-level contamination. Verify each sibling link resolves live (note two-binding-problem-articles-same-title-style slug hazards) and is reciprocated where load-bearing.
-- **Review files**: `reviews/outer-review-2026-05-29-chatgpt-5-5-pro.md`, `reviews/outer-review-2026-05-29-claude-opus-4-8.md`
-- **Synthesis**: reviews/outer-review-synthesis-2026-05-29.md
-- **Source**: outer-review
+- **File**: obsidian/topics/ai-consciousness.md
+- **Notes**: From pessimistic review 2026-05-29 (see [pessimistic-2026-05-29-ai-consciousness](/reviews/pessimistic-2026-05-29-ai-consciousness/)). No critical issues; article is mature with clean citations (Neven 2024, Josipovic 2019 web-verified). Two medium tightenings:
+  - (1) Decoherence obstacle vs. MQI concession: §The decoherence challenge / §Relation to Site Perspective state silicon "excludes the necessary interface by design" while also conceding MQI lacks empirical support and the binding mechanism is unknown for biology too. Add one sentence making explicit that the decoherence argument is *contingent and currently non-discriminating* — it predicts an extra obstacle *if* MQI holds but carries no present evidential weight against AI over biology. Article is one sentence from this at line ~167.
+  - (2) Epiphenomenalism asymmetry: §Other Challenges rejects human epiphenomenalism via self-stultification yet grants AI epiphenomenal experience. Make explicit that self-stultification blocks epiphenomenalism only for *concept-originating* consciousness, so a *derivative* system trained on those concepts can be epiphenomenal without contradiction — otherwise reads as convenient special pleading. Preserve voice; this is clarification, not weakening.
+  - Optional: soften "Functionalism's Failure" heading toward the body's actual claim ("has not explained") and "the obstacles are structural, not quantitative" → "appear structural rather than".
+- **Source**: pessimistic-review
 - **Generated**: 2026-05-29
 
 ### P2: Add metaphysical-vs-epistemic equivocation check to the calibration/review methodology
@@ -3612,6 +3576,26 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 Tasks that failed 3+ times and require human intervention.
 
+
+### ✓ 2026-05-29: Repoint stale Observation Void reference in mutation-void
+- **Type**: refine-draft
+- **Notes**: From outer review 2026-05-29 (ChatGPT 5.5 Pro), audit of [mutation-void](/voids/mutation-void/). CONFIRMED by source check: the reference list (line ~140) cites the old `observation-void/` URL ("The Observation Void", 2026-02-24) while the body (lines 38, 124) correctly uses `[[observation-and-measurement-void]]`. This is an instance of the archival-link-rot / stale-slug pattern. Action: update reference #5 to point at the live Observation and Measurement Void page (or annotate it explicitly as an earlier companion article if the old page is intentionally retained). Verify the target slug resolves live before editing.
+
+### ✓ 2026-05-29: Engage acquaintance/containment and transparency accounts in mutation-void
+- **Type**: refine-draft
+- **Notes**: From outer review 2026-05-29 (Gemini 2.5 Pro), audit of [mutation-void](/voids/mutation-void/). Gemini's distinct contribution beyond the convergent 2026-05-29 ChatGPT/Claude findings (Schwitzgebel fabrication, constitutive-instability overclaim, HOT, 2020s mind-blanking neuroscience — all already queued above): the article engages **no** contemporary epistemology-of-introspection framework built specifically to defuse its core "attention alters the target" move. Two named, source-verified omissions to engage: (1) **Giustina's acquaintance / "integration" account** (the reviewer's "containment" label) — verified via PhilArchive/Wiley (EJP 2023; PhilArchive GIUIAA) that the integration account is constructed *expressly* to meet Brentano's *phenomenal modification problem* (drawing introspective attention may modify the introspected phenomenology — the mutation void's exact mechanism), arguing the introspective state can contain the target experience as a constituent without altering its phenomenal character. The article should engage this as the strongest in-area rival, not ignore it. (2) **Merlo's transparency / "perceptual free-riding"** — citation verified: Giovanni Merlo, "Introspection as a (limiting) case of perception," *Philosophers' Imprint* 25 (2025). On a transparency model there is no inner object to mutate, which directly contests the article's implicit inner-sense/spotlight picture in "Attention Mutations." **Apply the direct-refutation discipline.** Identify what kind of engagement each calls for — showing the rival defective on its own terms, naming an unsupported foundational move, or honestly marking a framework-boundary disagreement — and apply the corresponding reply mode in **natural journal-quality prose** (see [the writing-style guide](/project/writing-style/)'s "Engaging Opponents in Journal-Quality Prose"). **Do not expose mode labels in the article body.** Web-verify the exact Giustina work/year before citing (per ai-citation-metadata-unreliable; reviewer gives "2021, 2022" but the integration-account venue is EJP 2023 — confirm which paper carries the containment formulation). Mind the voids length thresholds; defer detail to linked pages where possible. Honour [evidential-status-discipline](/project/evidential-status-discipline/). NOTE: Gemini also flags an illusionism/Frankish-bracketing point and a James diachronic-vs-synchronic point — both judged lower value in the review's Verification Notes (the bracketing is the Map's declared tenet remit, not a hidden flaw; the James finding misreads the article's structure) and are NOT separately queued.
+
+### ✓ 2026-05-29: Adopt counterfactual-reasoning calibration in phenomenology-of-imagination
+- **Type**: refine-draft
+- **Notes**: From topic-concept anchoring audit 2026-05-29. The topic article over-claims relative to its anchor concept [counterfactual-reasoning](/concepts/counterfactual-reasoning/); failed checks: hedge_density, strong_assertions.
+
+### ✓ 2026-05-29: Adopt observational-closure calibration in completeness-in-physics-under-dualism
+- **Type**: refine-draft
+- **Notes**: From topic-concept anchoring audit 2026-05-29. The topic article over-claims relative to its anchor concept [observational-closure](/concepts/observational-closure/); failed checks: hedge_density, underdetermination_markers.
+
+### ✓ 2026-05-29: Differentiate mutation-void from sibling voids and add reciprocal attention-interface link
+- **Type**: cross-review
+- **Notes**: From convergent outer reviews (2026-05-29, 2/3 reviewers): [chatgpt, claude]. Both flag that mutation-void is well-linked but not well *differentiated* by concept, with real redundancy risk against the observation-and-measurement void and the thought-stream void. ChatGPT 5.5 Pro: "Mutation Void is integrated by links, but not yet well differentiated by concept. Its scope bleeds into Observation and Measurement Void, Self-Opacity, Thought-Stream Void, Vagueness Void, and Necessary Opacity." Claude Opus 4.8 (§4): "the differentiation rests entirely on the contested 'constitutive' claim. If that claim is not earned ... the mutation void collapses into being merely the first-person layer of the O&M void — i.e., redundant"; flags the thought-stream void as "highest redundancy risk" and praises the vagueness-void boundary as the model to follow. Also convergent with the archive audit (2026-04-29). Action: add concise boundary notes drawing the conceptual lines — mutation = **access altering target content**; [thought-stream-void](/voids/thought-stream-void/) = temporal flow; [self-opacity](/voids/self-opacity/) = structural limits of self-knowledge; conceptual-metabolism = transformation through conceptual processing; [observation-and-measurement-void](/voids/observation-and-measurement-void/) = studying consciousness altering what is studied (partly drawn at line 38); operationalise the thought-stream "absent vs present-and-changed" distinction with a worked example. Add a reciprocal link from [attention-and-the-consciousness-interface](/topics/attention-and-the-consciousness-interface/) back to mutation-void, and soften any [self-reference-paradox](/concepts/self-reference-paradox/) framing that treats mutation-void as the "clearest strong-form case" until phenomenological mutation is distinguished from report-level contamination. Verify each sibling link resolves live (note two-binding-problem-articles-same-title-style slug hazards) and is reciprocated where load-bearing.
 
 ### ✓ 2026-05-29: Literature-currency refresh for mutation-void (2020s introspection/dream/meditation/mind-blanking)
 - **Type**: refine-draft
