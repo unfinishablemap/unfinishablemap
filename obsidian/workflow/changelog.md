@@ -5,6 +5,17 @@ ai_modified: 2026-05-29T06:22:20+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-05-29T16:00:00+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[voids/mutation-void]]
+- **Task**: Engage two epistemology-of-introspection rivals the article ignored (Gemini 2.5 Pro distinct finding). Convergent P1s (Schwitzgebel, overclaim, HOT, mind-blanking, sibling-diff) already resolved this session — not redone.
+- **Citation guard (5-for-5 prior defects on this article)**: WEB-VERIFIED both before insertion. Giustina containment formulation confirmed = "Introspective acquaintance: An integration account," *European Journal of Philosophy* 31(2):380–397, 2023, doi:10.1111/ejop.12690 (NOT the reviewer-supplied "2021, 2022"; PhilArchive GIUIAA). Key correction to reviewer's framing: the integration account does NOT deny modification "without altering phenomenal character" — it *accommodates* modification (introspected state "qua modified by the introspective activity depends on the introspective state"), making the target a constituent of the introspective state. Engaged it on that honest basis, not as a flat denier. Merlo verified = "Introspection as a (limiting) case of perception," *Philosophers' Imprint* 25(30), Oct 2025.
+- **Giustina engagement (must-engage strongest rival)**: added as the fourth objection in "Report Is Not Reality." Concedes what it gets right (purpose-built against Brentano's modification problem; grants modification rather than denying it). Reply mode: Mode Two/Three mix — presses on the account's own terms that for pre-attentive/mind-blanking contents there is no procedure-independent target for the integration to *contain*, so "same experience, now modified" and "no determinate prior experience" predict identical phenomenology and containment cannot adjudicate; held at the hypothesis tier today's reframe set.
+- **Merlo handling**: engaged (not deferred) as a brief clause — transparency/perceptual-free-riding gives no inner object to mutate at all. Reply mode: Mode Three — framework-boundary disagreement the void notes honestly rather than refutes (transparency denies the inner-spotlight picture the mutation classes assume). No exposed mode labels in body.
+- **Length**: started 2994/3000 (voids hard cap). Added ~190 words of engagement; trimmed compensating redundancy across taxonomy subsections, sibling-void bullets, tenet paragraphs, and objection prose. **Final: 2998/3000 (under hard cap, status soft_warning).**
+- **Constraints honoured**: no fabricated citations; mutation claim held at hypothesis tier per evidential-status-discipline; no "not X but Y" cliche. Updated ai_modified.
+- **Published**: yes
+
 ## 2026-05-29T06:36:29+00:00 - refine-draft
 - **Status**: Success
 - **File**: [[topics/phenomenology-of-imagination]]
