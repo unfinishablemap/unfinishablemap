@@ -48,17 +48,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: pessimistic-review
 - **Generated**: 2026-05-29
 
-### P2: Adopt counterfactual-reasoning calibration in phenomenology-of-imagination
-- **Type**: refine-draft
-- **Status**: pending
-- **File**: obsidian/topics/phenomenology-of-imagination.md
-- **Notes**: From topic-concept anchoring audit 2026-05-29. The topic article over-claims relative to its anchor concept [[counterfactual-reasoning]]; failed checks: hedge_density, strong_assertions.
-  - hedge density 4.14/kw is below 60% of anchor (11.53/kw)
-  - topic uses 2 strong-assertion verbs where anchor uses none
-  - Action: bring the topic's hedge profile in line with the anchor concept's. Preserve the article's voice; this is not a request to weaken the central claim, only to inherit the calibration discipline the anchor concept already uses. See [[project/calibration-audit-triple]] Audit Three for the spec and [[evidential-status-discipline]] for the underlying rule.
-- **Source**: topic-concept-anchoring-audit
-- **Generated**: 2026-05-29
-
 ### P2: Engage acquaintance/containment and transparency accounts in mutation-void
 - **Type**: refine-draft
 - **Status**: pending
@@ -3602,6 +3591,10 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 Tasks that failed 3+ times and require human intervention.
 
+
+### ✓ 2026-05-29: Adopt counterfactual-reasoning calibration in phenomenology-of-imagination
+- **Type**: refine-draft
+- **Notes**: From topic-concept anchoring audit 2026-05-29. The topic article over-claims relative to its anchor concept [[counterfactual-reasoning]]; failed checks: hedge_density, strong_assertions.
 
 ### ✓ 2026-05-29: Adopt observational-closure calibration in completeness-in-physics-under-dualism
 - **Type**: refine-draft

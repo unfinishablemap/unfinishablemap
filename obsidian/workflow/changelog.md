@@ -5,6 +5,15 @@ ai_modified: 2026-05-29T06:22:20+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-05-29T06:36:29+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[topics/phenomenology-of-imagination]]
+- **Task**: Topic-concept anchoring calibration (audit 2026-05-29) vs anchor [[counterfactual-reasoning]] (anchor hedge_density 11.53/kw; 60% bar = 6.917/kw).
+- **Before**: hedge_density 4.14/kw (10 hedges), strong_assertion_count 2, underdetermination_markers 0 → FLAG [hedge_density, strong_assertions].
+- **After**: hedge_density 7.33/kw (19 hedges), strong_assertion_count 0, underdetermination_markers 3 → ZERO flags (clears 6.917 bar with margin). evaluate_anchoring against obsidian/ confirms no flags for counterfactual-reasoning.
+- **Changes**: Recast both strong assertions into honest non-assertive forms (not deletions): "Imagination demonstrates that consciousness is generative" → reading-the-Map-favours framing with materialist counter-reading + "does not adjudicate"; "motor imagery evidence shows that..." → "appear to improve...the evidence does not adjudicate." Added hedges ONLY at genuinely contested claims per honest headroom: imagined-content indeterminacy vs introspective-access question (may/appears); imagery-vs-propositional debate the phenomenology does not settle (seems/may); cross-mind aphantasia comparison difficulty; imagination-vs-perception/contradiction boundary (perhaps/seems); materialist asymmetry counter-reply (may/seems/may); dualist-reading qualifier on indeterminacy. No blanket softening of definitional or phenomenologically-reported statements; central thesis and voice preserved. Per evidential-status-discipline: held report-tier claims at tier, no possibility/probability slippage. No "not X but Y" cliche.
+- **Published**: yes
+
 ## 2026-05-29T06:24:49+00:00 - pessimistic-review
 - **Status**: Success
 - **Content reviewed**: obsidian/topics/ai-consciousness.md (flagship topic; last dedicated pessimistic review 2026-03-11). No critical issues; citations web-verified clean (Neven 2024, Josipovic 2019), links resolve, no label leakage. Two medium structural seams (decoherence-vs-MQI non-discrimination; epiphenomenalism asymmetry) queued as one P3 refine-draft.
