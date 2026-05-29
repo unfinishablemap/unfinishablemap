@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-04-07
-ai_modified: 2026-05-27 21:34:44+00:00
+ai_modified: 2026-05-29 03:55:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -33,6 +33,7 @@ related_articles:
 - '[[pragmatisms-path-to-dualism]]'
 - '[[evaluative-qualia-phenomenal-normativity-across-traditions]]'
 - '[[parsimony-epistemology]]'
+- '[[the-naturalisation-failure-for-content]]'
 title: Consciousness and the Normativity of Reason
 topics:
 - '[[argument-from-reason]]'
@@ -90,7 +91,7 @@ The Map's reply is that the analogy seems to fail at precisely the critical poin
 
 If physical processes cannot constitute logical normativity, what can? The Map argues that [conscious awareness](/concepts/cognitive-phenomenology/) is the missing ingredient — specifically, the phenomenal character of intellectual experience.
 
-When you grasp that a conclusion follows from premises, there is something it is like to understand the logical connection. This is not merely sensory accompaniment — not the feeling of concentration or the imagery of written symbols. It is the experience of *seeing* that the conclusion follows, of understanding *why* the evidence supports the belief. This [phenomenology of intellectual life](/topics/phenomenology-of-intellectual-life/) is a genuine phenomenal state with its own distinctive character.
+When you grasp that a conclusion follows from premises, there is something it is like to understand the logical connection. That phenomenal character is the experience of *seeing* that the conclusion follows, of understanding *why* the evidence supports the belief — going beyond any merely sensory accompaniment such as the feeling of concentration or the imagery of written symbols. This [phenomenology of intellectual life](/topics/phenomenology-of-intellectual-life/) is a genuine phenomenal state with its own distinctive character.
 
 A computer can manipulate symbols according to syntactic rules and verify that a conclusion follows from premises by checking formal derivation steps. The Map argues that it does not thereby *grasp* the logical relation — that there is, on this view, nothing it is like for the computer to understand why the conclusion follows. This draws on the distinction between syntax and semantics that John Searle pressed with his Chinese Room argument, applied here to logical inference rather than linguistic meaning. The Chinese Room is itself disputed — systems-reply and functionalist critics deny that understanding outruns the right organisation — so this step inherits a live controversy rather than a settled result.
 
@@ -106,7 +107,7 @@ The Map takes this parallel to be more than coincidence. If [cognitive phenomeno
 
 The normativity of reason connects directly to the Map's [tenets](/tenets/).
 
-**Dualism.** If rational normativity requires consciousness, and consciousness is irreducible to physical processes, then the normative dimension of reasoning provides an independent argument for dualism — distinct from but reinforcing the arguments from qualia and the [self-defeat of physicalism](/topics/argument-from-reason/). Physical description captures what happens; the Map holds it cannot capture what *ought* to happen. Naturalists contest this — reliabilist, teleosemantic, and pragmatist accounts each aim to ground normativity in non-normative facts, and the debate is live rather than closed. The Map's claim is that the normative gap proves as resistant to physical closure as the explanatory gap: the same move that fails to reduce phenomenal character — explaining the structure while leaving out the *what-it-is-like* — fails to reduce normative force, leaving out the *what-one-ought*. That parity is an argued position, not a settled result, but the burden it places on the naturalist is, the Map contends, the same burden in both cases.
+**Dualism.** If rational normativity requires consciousness, and consciousness is irreducible to physical processes, then the normative dimension of reasoning provides an independent argument for dualism — distinct from but reinforcing the arguments from qualia and the [self-defeat of physicalism](/topics/argument-from-reason/). The same diagnostic structure recurs for mental content: [the naturalisation failure for content](/topics/the-naturalisation-failure-for-content/) is the sister case, where the *aboutness* of representation falls through the descriptive net of covariation and function just as the *ought* of inference does here. Reason-normativity and content-intensionality are two normatively loaded features of mind meeting one purely descriptive vocabulary, and failing at the same joint. Physical description captures what happens; the Map holds it cannot capture what *ought* to happen. Naturalists contest this — reliabilist, teleosemantic, and pragmatist accounts each aim to ground normativity in non-normative facts, and the debate is live rather than closed. The Map's claim is that the normative gap proves as resistant to physical closure as the explanatory gap: the same move that fails to reduce phenomenal character — explaining the structure while leaving out the *what-it-is-like* — fails to reduce normative force, leaving out the *what-one-ought*. That parity is an argued position, not a settled result, but the burden it places on the naturalist is, the Map contends, the same burden in both cases.
 
 **Bidirectional interaction.** If consciousness is required for genuine reasoning, and reasoning causally influences our behaviour — we act on our conclusions, speak our beliefs, revise our plans — then consciousness has causal efficacy. The [self-stultification argument](/concepts/self-stultification/) makes this vivid: if consciousness were [epiphenomenal](/concepts/epiphenomenalism/), our reports about reasoning would be causally disconnected from our actual rational processes, making them accidentally correct at best.
 

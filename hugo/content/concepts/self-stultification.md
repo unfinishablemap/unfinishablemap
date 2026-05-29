@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-02
-ai_modified: 2026-05-27 07:59:37+00:00
+ai_modified: 2026-05-29 03:55:00+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -39,6 +39,7 @@ related_articles:
 - '[[phenomenal-authority-and-first-person-evidence]]'
 - '[[consciousness-and-the-normativity-of-reason]]'
 - '[[carrolls-regress]]'
+- '[[the-naturalisation-failure-for-content]]'
 title: The Self-Stultification Argument
 topics:
 - '[[hard-problem-of-consciousness]]'
@@ -136,7 +137,7 @@ If all thoughts are determined by prior physical causes that have nothing to do 
 
 ### Physicalism and Normativity
 
-The argument from reason argues that physicalism is self-stultifying because rational inference requires tracking *normative* relationships (what follows from what, what counts as evidence), but physical causation operates via *efficient* causes that don't instantiate normativity. The [normativity of reason](/topics/consciousness-and-the-normativity-of-reason/) develops this point in detail, showing that logical norms have prescriptive force, universality, and content-sensitivity that no physical process can constitute. If physicalism is true, your belief in physicalism wasn't rationally inferred—it was merely caused by neurons that weren't tracking logical relationships as such. [Cognitive phenomenology](/concepts/cognitive-phenomenology/) sharpens this point: grasping *why* a conclusion follows from premises—not merely registering that it does—requires irreducible phenomenal awareness that must itself be causally connected to what one goes on to believe.
+The argument from reason argues that physicalism is self-stultifying because rational inference requires tracking *normative* relationships (what follows from what, what counts as evidence), but physical causation operates via *efficient* causes that don't instantiate normativity. The [normativity of reason](/topics/consciousness-and-the-normativity-of-reason/) develops this point in detail, showing that logical norms have prescriptive force, universality, and content-sensitivity that no physical process can constitute. If physicalism is true, your belief in physicalism wasn't rationally inferred—it was merely caused by neurons that weren't tracking logical relationships as such. [Cognitive phenomenology](/concepts/cognitive-phenomenology/) sharpens this point: grasping *why* a conclusion follows from premises—not merely registering that it does—requires irreducible phenomenal awareness that must itself be causally connected to what one goes on to believe. The same joint shows up one step earlier, in the *content* the belief carries: [the naturalisation failure for content](/topics/the-naturalisation-failure-for-content/) argues that the aboutness of any belief—including the belief in physicalism—resists naturalisation by the same descriptive resources, so the self-defeat threatens not only the inference but the determinate content over which it ranges.
 
 ## Responses and Their Limits
 

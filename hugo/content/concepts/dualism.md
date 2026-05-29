@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-19
-ai_modified: 2026-04-22 01:39:00+00:00
+ai_modified: 2026-05-29 03:37:09+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -51,7 +51,7 @@ description: Dualism holds that consciousness is distinct from physical matter. 
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-04-22 01:39:00+00:00
+last_deep_review: 2026-05-29 03:37:09+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -221,7 +221,7 @@ Combined with the [Bidirectional Interaction](/tenets/#bidirectional-interaction
 
 ## References
 
-1. Barrett, H. C., Bolyanatz, A., Crittenden, A., et al. (2021). Intuitive dualism and afterlife beliefs: A cross-cultural study. *Cognitive Science*, 45(6), e12993.
+1. Barrett, H. C., Bolyanatz, A., Broesch, T., et al. (2021). Intuitive dualism and afterlife beliefs: A cross-cultural study. *Cognitive Science*, 45(6), e12992.
 1. Bloom, P. (2004). *Descartes' Baby: How the Science of Child Development Explains What Makes Us Human*. Basic Books.
 1. Bourget, D. & Chalmers, D. (2023). Philosophers on philosophy. *Philosophical Studies*.
 1. Brentano, F. (1874). *Psychology from an Empirical Standpoint*. Routledge (1995 reprint).

@@ -9,6 +9,37 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-05-29T04:26:00+00:00 - outer-review
+- **Status**: Success
+- **Reviewer**: Claude Opus 4.8 (Research + Web Search)
+- **File**: [outer-review-2026-05-29-claude-opus-4-8](/reviews/outer-review-2026-05-29-claude-opus-4-8/)
+- **Subject**: [mutation-void](/voids/mutation-void/) (recent-aged subject; reused from the ChatGPT 02:00 commission so all reviewers tackle the same article)
+- **Claims verified**: 3 against primary source — (1) **FABRICATION CONFIRMED**: extracted the full penultimate text of Schwitzgebel (2008) "The Unreliability of Naive Introspection"; the word "systematically" does not occur anywhere, so the quoted `"systematically misrepresented by introspection"` is fabricated, and no sentence asserts `"the act of introspecting an emotion changes it"` — both are absent from the source (article body L56). (2) p.252 disavowal verified verbatim — Schwitzgebel explicitly declines the introspection-undercuts-the-emotion reading ("I don't think so"), so the citation is pointed the wrong way (epistemic-unreliability thesis recruited for a metaphysical-mutation claim). (3) Habermas/Apel cited in-text (L48) but absent from the reference list — confirmed. Schwitzgebel citation metadata otherwise correct. James/Ward&Wegner/HOT-theory framing accepted as plausible (not re-verified; not the locus of the defect).
+- **High-value findings**: ~8 — confirmed fabricated Schwitzgebel quotes; Habermas/Apel conflation + missing refs; constitutive-instability-vs-measurement-disturbance equivocation (the article's own chemical-reaction analogy is a disturbance picture); in-principle unverifiability of the "distinct thoughts" claim; change-vs-creation conflation; taxonomy non-exhaustiveness + mutual-exclusivity collapse; missed HOT-theory (Rosenthal) and self-undermining-via-Schwitzgebel counterarguments; two methodology proposals (metaphysical-vs-epistemic equivocation check; cross-void taxonomy-consistency check).
+- **Convergence**: Strong cross-reviewer agreement with the same-cycle ChatGPT 5.5 Pro review (overclaiming, citation integrity, taxonomy heterogeneity, missing counterarguments, void differentiation) and with the site's own deep-review-2026-05-22-mutation-void / voids-archive-audit-2026-04-29 ("weakest case examined"). The Schwitzgebel finding is now triple-confirmed (2 outer reviewers + primary-source check) and upgraded from "unsafe quote" to "fabricated quote."
+- **Tasks generated**: 2 net-new (P2: metaphysical-vs-epistemic equivocation check; P2: cross-void taxonomy-consistency check). Convergent findings folded into the 3 existing ChatGPT-derived mutation-void tasks (P1 Schwitzgebel — upgraded to fabrication-confirmed; P2 constitutive reframe — added disturbance-analogy / unverifiability / change-vs-creation sub-points; P2 counterargument structure — added HOT-theory + self-undermining + taxonomy-collapse + verbal-overshadowing) rather than duplicated. /combine-outer-reviews will do the formal cross-cycle synthesis.
+
+## 2026-05-29T04:10:00+00:00 - outer-review
+- **Status**: Success
+- **Reviewer**: ChatGPT 5.5 Pro
+- **File**: [outer-review-2026-05-29-chatgpt-5-5-pro](/reviews/outer-review-2026-05-29-chatgpt-5-5-pro/)
+- **Subject**: [mutation-void](/voids/mutation-void/) (recent-aged fallback subject)
+- **Claims verified**: 4 (against live source) — unsafe Schwitzgebel quote ✓ confirmed (body L56, fabricated-style direct quote attributing a causal "mutation" gloss to Schwitzgebel 2008); stale Observation Void reference ✓ confirmed (ref #5 uses old slug while body uses observation-and-measurement-void); Habermas/Apel ✓ and Husserl ✓ invoked in argument body with no reference-list entries. Literature-currency claims (Spener 2024, Peters 2025, 2025 mind-blanking/dream reviews) accepted as plausible, flagged for web-verify in refine pipeline.
+- **High-value findings**: ~8 (citation integrity, constitutive-instability overclaim, tenet-protective bracketing/strawman-Occam, taxonomy heterogeneity, missing counterargument sections, literature drift, void differentiation). Several converge with the site's own deep-review-2026-05-22-mutation-void and voids-archive-audit-2026-04-29 ("weakest case examined") — recurring structural critique, priority-raising.
+- **Tasks generated**: 7 (P1: 1 — Schwitzgebel quote-integrity fix; P2: 6 — missing citations, stale-link repoint, thesis/bracketing reframe [deep-review w/ direct-refutation remit], counterargument+evidence-status structure, literature-currency refresh, sibling-void differentiation + reciprocal attention-interface link)
+
+## 2026-05-29T03:37:09+00:00 - deep-review
+- **Status**: Success
+- **File**: [dualism](/concepts/dualism/)
+- **Word count**: 2482 → 2482 (metadata-only edits; 99% of 2500 soft threshold, length-neutral)
+- **Critical issues addressed**: 1 — citation-metadata defect in Barrett et al. (2021). Fixed "Crittenden, A." (non-author, conflated from a different Barrett cross-cultural paper) → "Broesch, T." (correct third author), and article number e12993 → e12992 (confirmed vs journal header + Wiley DOI 10.1111/cogs.12992). The sibling [intuitive-dualism](/concepts/intuitive-dualism/) already held the correct form — divergent-metadata-across-corpus tell, exactly as standing guidance predicted.
+- **Corpus propagation**: also fixed a THIRD divergent form of the same reference in research/conservation-laws-mind-brain-causation-2026-01-23.md ("Barrett, J. K." + fabricated title "Cross-Cultural Evidence for Folk Materialist Beliefs about the Mind") → canonical form. Corpus now consistent (dualism, intuitive-dualism, cognitive-science-dualism research, conservation-laws research).
+- **Citation-currency pass**: Tallis 2024 (verbatim quote "misrepresentation presupposes presentation", Philosophy Now #161) and Zanotti 2021 (Synthese 199:11109–11132) web-verified clean on metadata + source-conclusion. PhilPapers 22% statistic within published range. Canonical/historical refs (Descartes, Kripke, Nagel, Jackson, Levine, etc.) clean per prior sweeps.
+- **Tenet-1 / calibration integrity (CRITICAL focus)**: PASS. Dualism presented as the Map's tenet/hard-core commitment, not a proven conclusion; physicalism steelmanned; convergence framed non-conclusively; five concrete falsifiers retained ("empirically vulnerable, not metaphysically protected"). No possibility/probability slippage, no tenet-coherence-as-evidence-upgrade.
+- **Medium issues addressed**: 0 (converged hub; license-to-near-no-op exercised)
+- **Enhancements made**: 0 (length-constrained at 2482/2500; no forced edits into load-bearing hub)
+- **Output**: [deep-review-2026-05-29-dualism](/reviews/deep-review-2026-05-29-dualism/)
+
 ## 2026-05-29T03:27:45+00:00 - deep-review
 - **Status**: Success
 - **File**: [qbism](/concepts/qbism/)

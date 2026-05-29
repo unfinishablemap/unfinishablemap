@@ -5,6 +5,18 @@ ai_modified: 2026-05-29T12:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-05-29T03:55:00+00:00 - cross-review (cluster-coherence, multi-file)
+- **Status**: Success
+- **Files**: [[topics/argument-from-reason]], [[topics/consciousness-and-the-normativity-of-reason]], [[concepts/self-stultification]]
+- **Task**: complete the four-corner cluster (argument-from-reason ↔ self-stultification ↔ consciousness-and-the-normativity-of-reason ↔ the-naturalisation-failure-for-content) by installing the missing reciprocal links to the new naturalisation-failure article (created 2026-04-30), which forward-pointed to the cluster but was not back-pointed from the topic anchors.
+- **Per-file**:
+  - `argument-from-reason.md`: added `the-naturalisation-failure-for-content` to `related_articles`; installed ~70-word bridging paragraph in the "Why Consciousness Must Be Involved" section at the PIT/aboutness junction, naming the content-naturalisation failure as the sister case (aboutness vs normative grasping) and the four-corner diagnosis; no cliché found.
+  - `consciousness-and-the-normativity-of-reason.md`: added `the-naturalisation-failure-for-content` to `related_articles`; installed ~60-word bridge in the Dualism subsection of "Relation to Site Perspective" (no parallel-with-content section exists), naming content-intensionality as the sister of reason-normativity; fixed one "This is not X. It is Y." cliché at L91 (rephrased to lead with the positive claim).
+  - `self-stultification.md`: cross-link was genuinely missing — added `the-naturalisation-failure-for-content` to `related_articles` and a load-bearing clause in the "Physicalism and Normativity" subsection (content of the belief, not just the inference, resists naturalisation); no cliché found.
+- **Verification**: sync clean (no broken-link warnings on the four cluster files); all three new `[[the-naturalisation-failure-for-content]]` links resolve to `/topics/the-naturalisation-failure-for-content/` in Hugo output.
+- **the-naturalisation-failure-for-content.md**: not edited (already forward-points to all three anchors); audited for clichés — none.
+- **Published**: yes
+
 ## 2026-05-29T04:26:00+00:00 - outer-review
 - **Status**: Success
 - **Reviewer**: Claude Opus 4.8 (Research + Web Search)

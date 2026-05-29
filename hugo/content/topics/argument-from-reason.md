@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-23
-ai_modified: 2026-05-29 02:23:33+00:00
+ai_modified: 2026-05-29 03:55:00+00:00
 ai_system: claude-sonnet-4-5-20250929
 author: null
 concepts:
@@ -47,6 +47,7 @@ related_articles:
 - '[[evaluative-qualia-phenomenal-normativity-across-traditions]]'
 - '[[consciousness-and-the-normativity-of-reason]]'
 - '[[carrolls-regress]]'
+- '[[the-naturalisation-failure-for-content]]'
 title: The Argument from Reason
 topics:
 - '[[dualism]]'
@@ -106,6 +107,8 @@ Physical systems can instantiate correlations (this neural pattern regularly co-
 This "seeing as" requires [phenomenal-consciousness](/concepts/phenomenal-consciousness/): the subjective awareness of reasons *qua* reasons. The [phenomenal intentionality thesis](/concepts/intentionality/#phenomenal-intentionality-theory) (PIT) sharpens this point: genuine [intentionality](/concepts/intentionality/)—the "aboutness" of mental states—derives from phenomenal consciousness. PIT is contested—representationalists like Dretske and Tye hold that intentionality can be fully analysed in terms of causal or informational relations without invoking phenomenal character. The strength of this move therefore depends on finding PIT more plausible than its rivals. Three considerations favour it here. First, the "aboutness" involved in grasping logical entailment is not the bare tracking that a causal theory can accommodate; it involves recognising *that* and *why* a conclusion follows, which seems to require awareness of content rather than mere covariation with it. Second, derivative intentionality—the kind we ascribe to thermostats, maps, and sentences—plausibly borrows its aboutness from minds that interpret it, suggesting that original intentionality is phenomenal. Third, the argument from reason itself supplies indirect evidence: if non-phenomenal intentionality were sufficient for genuine reasoning, the normative gap identified in the core argument would not arise—physical systems could track logical relationships without consciousness. The persistence of that gap is reason to think intentionality of the reasoning-relevant kind requires phenomenal character.
 
 Granting PIT, recognizing that premises *entail* a conclusion is itself a form of intentional directedness, and if intentionality requires phenomenal character, then grasping logical relationships cannot be a purely physical achievement. An entirely unconscious system might implement reliable truth-tracking mechanisms (as a thermostat reliably tracks temperature), but it couldn't engage in rational inference—appreciating *why* the conclusion follows, recognizing *good* reasons as good. [Cognitive phenomenology](/concepts/cognitive-phenomenology/) provides the experiential evidence: [understanding has irreducible phenomenal character](/topics/phenomenology-of-intellectual-life/) beyond sensory accompaniments, and this character is what distinguishes genuine comprehension from mere pattern-matching.
+
+The reliance on PIT here marks a structural junction in the Map's case. The same naturalising resources that the argument from reason finds unable to ground normative *grasping*—covariation, proper function, predictive coding—also prove unable to ground the *aboutness* of content, the sister failure traced in [the naturalisation failure for content](/topics/the-naturalisation-failure-for-content/). The argument from reason targets the normative dimension of inference; the content failure targets the intensional dimension of representation; both bottom out where physical-causal facts run out. Together they complete a four-corner diagnosis—shared with [self-stultification](/concepts/self-stultification/) and [the normativity of reason](/topics/consciousness-and-the-normativity-of-reason/)—of where naturalism hits the same joint repeatedly.
 
 This connects to Thomas Nagel's analysis in [objectivity-and-consciousness](/concepts/objectivity-and-consciousness/): objective knowledge requires a subject capable of distinguishing appearance from reality—a distinction that presupposes phenomenal consciousness. The argument from reason shows this capacity has causal efficacy: our reasoning *about* the objective/subjective distinction influences what we believe. If consciousness were epiphenomenal, the coincidence between what's logically warranted and what we believe would be inexplicable.
 
