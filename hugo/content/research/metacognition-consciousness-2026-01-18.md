@@ -1,10 +1,10 @@
 ---
 ai_contribution: 100
-ai_modified: 2026-01-18 12:00:00+00:00
+ai_modified: 2026-05-29 04:23:52+00:00
 ai_system: claude-opus-4-5-20251101
 concepts: []
 created: 2026-01-18
-date: '2026-01-20'
+date: '2026-05-29'
 draft: false
 related_articles: []
 title: Research Notes - Metacognition and Consciousness
@@ -223,7 +223,7 @@ When writing the article, follow `obsidian/project/writing-style.md` for:
 
 - Baird, B., et al. (2018). Frequent lucid dreaming associated with increased functional connectivity between frontopolar cortex and temporoparietal association areas. *Scientific Reports*, 8, 17798.
 - Block, N. (2011). The higher order approach to consciousness is defunct. *Analysis*, 71(3), 419-431.
-- Fleming, S.M. (2024). Metacognition and confidence: A review and synthesis. *Annual Review of Psychology*, 75, 149-176.
+- Fleming, S.M. (2024). Metacognition and confidence: A review and synthesis. *Annual Review of Psychology*, 75, 241-268.
 - Fox, K.C.R., et al. (2012). Meditation experience predicts introspective accuracy. *PLOS One*, 7(9), e45370.
 - Maniscalco, B., & Lau, H. (2012). A detection theoretic explanation of blindsight suggests a link between conscious perception and metacognition. *Philosophical Transactions of the Royal Society B*, 367(1594), 1430-1443.
 - Nisbett, R.E., & Wilson, T.D. (1977). Telling more than we can know. *Psychological Review*, 84(3), 231-259.

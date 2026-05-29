@@ -4,7 +4,7 @@ description: "Our primary access to consciousness is contested. But critiques ta
 created: 2026-01-15
 modified: 2026-01-15
 human_modified: null
-ai_modified: 2026-05-19T18:00:00+00:00
+ai_modified: 2026-05-29T04:23:52+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -207,7 +207,7 @@ If we restricted inquiry to third-person methods, we would study behavior and br
 
 1. Brentano, F. (1874). *Psychology from an Empirical Standpoint*. Routledge.
 1. Dennett, D. (1991). *Consciousness Explained*. Little, Brown and Company.
-1. Fleming, S.M. (2024). Metacognition and confidence: A review and synthesis. *Annual Review of Psychology*, 75, 149-176.
+1. Fleming, S.M. (2024). Metacognition and confidence: A review and synthesis. *Annual Review of Psychology*, 75, 241-268.
 1. Fox, K.C.R., et al. (2012). Meditation experience predicts introspective accuracy. *PLOS One*, 7(9), e45370.
 1. Frankish, K. (2016). Illusionism as a theory of consciousness. *Journal of Consciousness Studies*, 23(11-12), 11-39.
 1. Johansson, P., et al. (2005). Failure to detect mismatches between intention and outcome. *Science*, 310(5745), 116-119.

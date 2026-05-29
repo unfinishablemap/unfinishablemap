@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-09
-ai_modified: 2026-04-28 04:12:00+00:00
+ai_modified: 2026-05-29 04:23:52+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -219,7 +219,7 @@ Eastern philosophy illuminates all five of the Map's [tenets](/tenets/), while r
 ## References
 
 1. Adams, R. M. (1979). "Primitive Thisness and Primitive Identity." *Journal of Philosophy*, 76(1), 5-26.
-1. Demirel, H. et al. (2025). Lucid dreaming as a distinct consciousness state. *Nature Human Behaviour*.
+1. Demirel, Ç. et al. (2025). Electrophysiological Correlates of Lucid Dreaming: Sensor and Source Level Signatures. *Journal of Neuroscience*, 45(20), e2237242025.
 1. Fox, K.C.R., et al. (2012). Meditation experience predicts introspective accuracy. *PLOS One*, 7(9), e45370.
 1. Frankish, K. (2016). Illusionism as a Theory of Consciousness. *Journal of Consciousness Studies*, 23(11-12), 11-39.
 1. Garfield, J. (1995). *The Fundamental Wisdom of the Middle Way: Nāgārjuna's Mūlamadhyamakakārikā*. Oxford University Press.

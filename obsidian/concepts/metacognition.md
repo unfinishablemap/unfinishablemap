@@ -4,7 +4,7 @@ description: "Metacognition and metarepresentation are cognitive tools conscious
 created: 2026-01-18
 modified: 2026-05-25
 human_modified: null
-ai_modified: 2026-05-27T13:36:21+00:00
+ai_modified: 2026-05-29T04:23:52+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -48,7 +48,7 @@ author: null
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-02-17
 last_curated: null
-last_deep_review: 2026-04-23T14:00:00+00:00
+last_deep_review: 2026-05-29T04:23:52+00:00
 coalesced_from:
   - "/concepts/metacognition/"
   - "/concepts/metarepresentation/"
@@ -222,9 +222,9 @@ The Map's framework accommodates both: consciousness provides phenomenal content
 1. Baird, B., et al. (2018). Frequent lucid dreaming and frontopolar cortex connectivity. *Scientific Reports*, 8, 17798.
 1. Carruthers, P. (2011). *The Opacity of Mind: An Integrative Theory of Self-Knowledge*. Oxford University Press.
 1. Cowan, N. (2001). The magical number 4 in short-term memory: A reconsideration of mental storage capacity. *Behavioral and Brain Sciences*, 24(1), 87-114.
-1. Demirel, S., et al. (2025). Lucid dreaming as a distinct consciousness state. *Nature Human Behaviour*, 9(1), 45-58.
+1. Demirel, Ç., et al. (2025). Electrophysiological Correlates of Lucid Dreaming: Sensor and Source Level Signatures. *Journal of Neuroscience*, 45(20), e2237242025. https://doi.org/10.1523/JNEUROSCI.2237-24.2025
 1. Dunlosky, J., & Metcalfe, J. (2009). *Metacognition*. Sage Publications.
-1. Fleming, S.M. (2024). Metacognition and confidence: A review and synthesis. *Annual Review of Psychology*, 75, 149-176.
+1. Fleming, S.M. (2024). Metacognition and confidence: A review and synthesis. *Annual Review of Psychology*, 75, 241-268.
 1. Fox, K.C.R., et al. (2012). Meditation experience predicts introspective accuracy. *PLOS One*, 7(9), e45370.
 1. Kapetaniou, G.E., Moisa, M., Ruff, C.C., Tobler, P.N., & Soutschek, A. (2025). Frontopolar cortex interacts with dorsolateral prefrontal cortex to causally guide metacognition. *Human Brain Mapping*, 46(2), e70146.
 1. Koriat, A. (2000). The feeling of knowing: Some metatheoretical implications. *Consciousness and Cognition*, 9(2), 149-171.

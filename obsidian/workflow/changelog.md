@@ -5,6 +5,20 @@ ai_modified: 2026-05-29T12:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-05-29T04:23:52+00:00 - deep-review
+- **Status**: Success
+- **File**: [[concepts/metacognition]]
+- **Mode**: citation-currency pass (post-2020 empirical citations are the defect-density surface)
+- **Word count**: 3311 → 3311 (±0; metadata-only, length-neutral)
+- **Critical issues addressed**: 2
+  - **Fabricated citation metadata (Demirel 2025)**: ref claimed *Nature Human Behaviour*, 9(1), 45-58, title "Lucid dreaming as a distinct consciousness state", author "S." — ALL fabricated. Web-verified primary source: Demirel, Ç. et al. (2025), "Electrophysiological Correlates of Lucid Dreaming: Sensor and Source Level Signatures", *Journal of Neuroscience*, 45(20), e2237242025, DOI 10.1523/JNEUROSCI.2237-24.2025. Body claim sound; metadata fixed.
+  - **Wrong page range (Fleming 2024)**: 149-176 → 241-268 (*Annual Review of Psychology*, vol 75; rest verified correct).
+- **Citations verified clean**: Kapetaniou et al. 2025 (*Human Brain Mapping* 46(2) e70146 — author list/title/venue/claim all correct); Rebouillat et al. 2021 (confidence-accuracy inversion claim matches source).
+- **Sibling/propagation fixes**: Demirel NHB→JNeurosci in `topics/eastern-philosophy-consciousness.md` (also had wrong "H." initial); Fleming page range in `concepts/introspection.md`, `research/metacognition-consciousness-2026-01-18.md`, `archive/concepts/metarepresentation.md`. (Majority of corpus already carried the correct JNeurosci Demirel form — the NHB copies were the minority/suspect form.)
+- **Flagged (out-of-scope, follow-on queued)**: `research/quantum-superposition-brain-consciousness-2026-01-18.md` cites a *different* "Demirel et al. 2025" microtubule paper (*Neuroscience of Consciousness* niaf011) — same surname/year, different claim/venue; high misattribution suspicion, needs primary-source verify.
+- **Output**: [[reviews/deep-review-2026-05-29-metacognition]]
+- **Published**: yes (drafts left uncommitted for orchestrator)
+
 ## 2026-05-29T03:55:00+00:00 - cross-review (cluster-coherence, multi-file)
 - **Status**: Success
 - **Files**: [[topics/argument-from-reason]], [[topics/consciousness-and-the-normativity-of-reason]], [[concepts/self-stultification]]

@@ -9,6 +9,32 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-05-29T04:23:52+00:00 - deep-review
+- **Status**: Success
+- **File**: [metacognition](/concepts/metacognition/)
+- **Mode**: citation-currency pass (post-2020 empirical citations are the defect-density surface)
+- **Word count**: 3311 → 3311 (±0; metadata-only, length-neutral)
+- **Critical issues addressed**: 2
+  - **Fabricated citation metadata (Demirel 2025)**: ref claimed *Nature Human Behaviour*, 9(1), 45-58, title "Lucid dreaming as a distinct consciousness state", author "S." — ALL fabricated. Web-verified primary source: Demirel, Ç. et al. (2025), "Electrophysiological Correlates of Lucid Dreaming: Sensor and Source Level Signatures", *Journal of Neuroscience*, 45(20), e2237242025, DOI 10.1523/JNEUROSCI.2237-24.2025. Body claim sound; metadata fixed.
+  - **Wrong page range (Fleming 2024)**: 149-176 → 241-268 (*Annual Review of Psychology*, vol 75; rest verified correct).
+- **Citations verified clean**: Kapetaniou et al. 2025 (*Human Brain Mapping* 46(2) e70146 — author list/title/venue/claim all correct); Rebouillat et al. 2021 (confidence-accuracy inversion claim matches source).
+- **Sibling/propagation fixes**: Demirel NHB→JNeurosci in `topics/eastern-philosophy-consciousness.md` (also had wrong "H." initial); Fleming page range in `concepts/introspection.md`, `research/metacognition-consciousness-2026-01-18.md`, `archive/concepts/metarepresentation.md`. (Majority of corpus already carried the correct JNeurosci Demirel form — the NHB copies were the minority/suspect form.)
+- **Flagged (out-of-scope, follow-on queued)**: `research/quantum-superposition-brain-consciousness-2026-01-18.md` cites a *different* "Demirel et al. 2025" microtubule paper (*Neuroscience of Consciousness* niaf011) — same surname/year, different claim/venue; high misattribution suspicion, needs primary-source verify.
+- **Output**: [deep-review-2026-05-29-metacognition](/reviews/deep-review-2026-05-29-metacognition/)
+- **Published**: yes (drafts left uncommitted for orchestrator)
+
+## 2026-05-29T03:55:00+00:00 - cross-review (cluster-coherence, multi-file)
+- **Status**: Success
+- **Files**: [argument-from-reason](/topics/argument-from-reason/), [consciousness-and-the-normativity-of-reason](/topics/consciousness-and-the-normativity-of-reason/), [self-stultification](/concepts/self-stultification/)
+- **Task**: complete the four-corner cluster (argument-from-reason ↔ self-stultification ↔ consciousness-and-the-normativity-of-reason ↔ the-naturalisation-failure-for-content) by installing the missing reciprocal links to the new naturalisation-failure article (created 2026-04-30), which forward-pointed to the cluster but was not back-pointed from the topic anchors.
+- **Per-file**:
+  - `argument-from-reason.md`: added `the-naturalisation-failure-for-content` to `related_articles`; installed ~70-word bridging paragraph in the "Why Consciousness Must Be Involved" section at the PIT/aboutness junction, naming the content-naturalisation failure as the sister case (aboutness vs normative grasping) and the four-corner diagnosis; no cliché found.
+  - `consciousness-and-the-normativity-of-reason.md`: added `the-naturalisation-failure-for-content` to `related_articles`; installed ~60-word bridge in the Dualism subsection of "Relation to Site Perspective" (no parallel-with-content section exists), naming content-intensionality as the sister of reason-normativity; fixed one "This is not X. It is Y." cliché at L91 (rephrased to lead with the positive claim).
+  - `self-stultification.md`: cross-link was genuinely missing — added `the-naturalisation-failure-for-content` to `related_articles` and a load-bearing clause in the "Physicalism and Normativity" subsection (content of the belief, not just the inference, resists naturalisation); no cliché found.
+- **Verification**: sync clean (no broken-link warnings on the four cluster files); all three new `[[the-naturalisation-failure-for-content]]` links resolve to `/topics/the-naturalisation-failure-for-content/` in Hugo output.
+- **the-naturalisation-failure-for-content.md**: not edited (already forward-points to all three anchors); audited for clichés — none.
+- **Published**: yes
+
 ## 2026-05-29T04:26:00+00:00 - outer-review
 - **Status**: Success
 - **Reviewer**: Claude Opus 4.8 (Research + Web Search)

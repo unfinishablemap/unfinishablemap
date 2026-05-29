@@ -196,7 +196,7 @@ The [Occam's Razor Has Limits](/tenets/#occams-limits) tenet cautions against pr
 - Carruthers, P. (2011). *The Opacity of Mind: An Integrative Theory of Self-Knowledge*. Oxford University Press.
 - Cowan, N. (2001). The magical number 4 in short-term memory: A reconsideration of mental storage capacity. *Behavioral and Brain Sciences*, 24(1), 87-114.
 - Dunlosky, J., & Metcalfe, J. (2009). *Metacognition*. Sage Publications.
-- Fleming, S.M. (2024). Metacognition and confidence: A review and synthesis. *Annual Review of Psychology*, 75, 149-176.
+- Fleming, S.M. (2024). Metacognition and confidence: A review and synthesis. *Annual Review of Psychology*, 75, 241-268.
 - Koriat, A. (2000). The feeling of knowing: Some metatheoretical implications. *Consciousness and Cognition*, 9(2), 149-171.
 - Perner, J. (1991). *Understanding the Representational Mind*. MIT Press.
 - Read, D.W. (2008). Working memory: A cognitive limit to non-human primate recursive thinking prior to hominid evolution. *Evolutionary Psychology*, 6(4), 676-714.
