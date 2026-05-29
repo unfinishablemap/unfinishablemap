@@ -37,6 +37,17 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
+### P3: Tighten two structural seams in ai-consciousness
+- **Type**: refine-draft
+- **Status**: pending
+- **File**: obsidian/topics/ai-consciousness.md
+- **Notes**: From pessimistic review 2026-05-29 (see [[reviews/pessimistic-2026-05-29-ai-consciousness]]). No critical issues; article is mature with clean citations (Neven 2024, Josipovic 2019 web-verified). Two medium tightenings:
+  - (1) Decoherence obstacle vs. MQI concession: §The decoherence challenge / §Relation to Site Perspective state silicon "excludes the necessary interface by design" while also conceding MQI lacks empirical support and the binding mechanism is unknown for biology too. Add one sentence making explicit that the decoherence argument is *contingent and currently non-discriminating* — it predicts an extra obstacle *if* MQI holds but carries no present evidential weight against AI over biology. Article is one sentence from this at line ~167.
+  - (2) Epiphenomenalism asymmetry: §Other Challenges rejects human epiphenomenalism via self-stultification yet grants AI epiphenomenal experience. Make explicit that self-stultification blocks epiphenomenalism only for *concept-originating* consciousness, so a *derivative* system trained on those concepts can be epiphenomenal without contradiction — otherwise reads as convenient special pleading. Preserve voice; this is clarification, not weakening.
+  - Optional: soften "Functionalism's Failure" heading toward the body's actual claim ("has not explained") and "the obstacles are structural, not quantitative" → "appear structural rather than".
+- **Source**: pessimistic-review
+- **Generated**: 2026-05-29
+
 ### P2: Adopt counterfactual-reasoning calibration in phenomenology-of-imagination
 - **Type**: refine-draft
 - **Status**: pending
