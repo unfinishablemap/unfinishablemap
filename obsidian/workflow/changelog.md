@@ -5,6 +5,22 @@ ai_modified: 2026-05-29T12:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-05-29T13:00:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [[voids/mutation-void]]
+- **Task**: Targeted P1 calibration reframe (3/3-convergent outer-review finding: ChatGPT + Claude + Gemini), convergent with internal deep-review-2026-05-22 and voids-archive-audit-2026-04-29.
+- **Defect**: epistemic→ontological overreach — article slid from the weak observer-effect claim (access often modifies experience) to a strong metaphysical claim ("constitutive instability") presented as established. By the [[evidential-status-discipline]] diagnostic test this is a CRITICAL calibration error (tenet-coherence doing the load-bearing work), not bedrock disagreement.
+- **Critical issues addressed**: 6 — (1) reframed "constitutive instability" as the article's HYPOTHESIS, separating it from the well-supported weak claim; (2) replaced the introspective-transparency STRAWMAN with honest engagement of the corrigibilist middle path; (3) fixed the disturbance-vs-constitutive analogy (named the chemical-reaction analogy as disturbance, marked constitution as the further unestablished claim); (4) owned the dualist round-trip as the Map's framework-dependent INTERPRETATION, not evidential conclusion (added physicalist redescription); (5) resolved change-vs-creation ambiguity (chose one-bearer "transforms" consistently; flagged the two-thoughts gloss as unverifiable); (6) recalibrated both overstated closings.
+- **Engagement classifications** (editor-internal): corrigibilist programme (Spener; Overgaard & Sandberg) — Mode Two (programme helps itself to a determinate calibration target the isolated cases contest, named by the programme's own commitment to calibratability) opening into Mode Four residue (whether such a target survives access is empirically open; stable pre-attentive access is the named discriminator). McGinn (mysterianism) — Mode Three, unchanged. No Mode-Three boundary substitution; no label leakage (grep-verified clean).
+- **Citations web-verified before insertion** (per [[evidential-status-discipline]] + [[ai-citation-metadata-unreliable]]):
+  - **Spener, M. (2024). *Introspection: First-Person Access in Science and Agency*. OUP** — VERIFIED (ISBN 9780198867449) & ADDED (ref 7).
+  - **Overgaard, M. & Sandberg, K. (2021). "The Perceptual Awareness Scale—recent controversies and debates." *Neuroscience of Consciousness*, 2021(1), niab044** — VERIFIED (Oxford Academic; PubMed 34925909) & ADDED (ref 8). NOTE: reviewer glossed it as "procedural complexity/corrigibility"; cited only for the verified content (awareness-scale method-sensitivity), not the looser gloss.
+  - **Peters (2025)** — NOT VERIFIED, NOT cited. Nearest hit (Steyvers & Peters 2025, metacognition in humans/LLMs) is a different topic/authorship. The corrigibilist point is carried by the two verified citations and unattributed framing; no author/year/venue/page fabricated.
+- **Word count**: ~2048 → ~2700 (voids soft 2000 / hard 3000). soft_warning; net growth is calibration-essential (strawman → real opponent); trimmed redundancy to stay below hard threshold. Length-neutral-ish per task.
+- **Constraints honoured**: void preserved AS HYPOTHESIS (not gutted); no "not X but Y" cliché; no mode labels in body; ai_modified updated.
+- **Output**: [[reviews/deep-review-2026-05-29-mutation-void]]
+- **Committed**: no (orchestrator commits)
+
 ## 2026-05-29T12:30:00+00:00 - refine-draft
 - **Status**: Success
 - **File**: [[voids/mutation-void]]

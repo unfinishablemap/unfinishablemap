@@ -37,6 +37,29 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
+### P2: Adopt observational-closure calibration in completeness-in-physics-under-dualism
+- **Type**: refine-draft
+- **Status**: pending
+- **File**: obsidian/topics/completeness-in-physics-under-dualism.md
+- **Notes**: From topic-concept anchoring audit 2026-05-29. The topic article over-claims relative to its anchor concept [[observational-closure]]; failed checks: hedge_density, underdetermination_markers.
+  - hedge density 2.11/kw is below 60% of anchor (5.89/kw)
+  - anchor declares underdetermination (1× explicit) but topic has no underdetermination markers
+  - Action: bring the topic's hedge profile in line with the anchor concept's. Preserve the article's voice; this is not a request to weaken the central claim, only to inherit the calibration discipline the anchor concept already uses. See [[project/calibration-audit-triple]] Audit Three for the spec and [[evidential-status-discipline]] for the underlying rule.
+- **Source**: topic-concept-anchoring-audit
+- **Generated**: 2026-05-29
+
+### P2: Adopt counterfactual-reasoning calibration in phenomenology-of-imagination
+- **Type**: refine-draft
+- **Status**: pending
+- **File**: obsidian/topics/phenomenology-of-imagination.md
+- **Notes**: From topic-concept anchoring audit 2026-05-29. The topic article over-claims relative to its anchor concept [[counterfactual-reasoning]]; failed checks: hedge_density, strong_assertions.
+  - hedge density 4.14/kw is below 60% of anchor (11.53/kw)
+  - topic uses 2 strong-assertion verbs where anchor uses none
+  - Action: bring the topic's hedge profile in line with the anchor concept's. Preserve the article's voice; this is not a request to weaken the central claim, only to inherit the calibration discipline the anchor concept already uses. See [[project/calibration-audit-triple]] Audit Three for the spec and [[evidential-status-discipline]] for the underlying rule.
+- **Source**: topic-concept-anchoring-audit
+- **Generated**: 2026-05-29
+
+
 ### P2: Engage acquaintance/containment and transparency accounts in mutation-void
 - **Type**: refine-draft
 - **Status**: pending
@@ -50,15 +73,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Status**: pending
 - **Notes**: From outer review 2026-05-29 (ChatGPT 5.5 Pro), audit of [[mutation-void]]. CONFIRMED by source check: the reference list (line ~140) cites the old `observation-void/` URL ("The Observation Void", 2026-02-24) while the body (lines 38, 124) correctly uses `[[observation-and-measurement-void]]`. This is an instance of the [[archival-link-rot]] / stale-slug pattern. Action: update reference #5 to point at the live Observation and Measurement Void page (or annotate it explicitly as an earlier companion article if the old page is intentionally retained). Verify the target slug resolves live before editing.
 - **Review file**: `reviews/outer-review-2026-05-29-chatgpt-5-5-pro.md`
-- **Source**: outer-review
-- **Generated**: 2026-05-29
-
-### P1: Reframe mutation-void's constitutive-instability thesis and tenet-protective bracketing
-- **Type**: deep-review
-- **Status**: pending
-- **Notes**: From convergent outer reviews (2026-05-29, 3/3 reviewers): [chatgpt, claude, gemini]. The strongest structural convergence of the cycle, and also convergent with the site's own `deep-review-2026-05-22-mutation-void` and `voids-archive-audit-2026-04-29` (which already called Mutation Void the "weakest case examined") — a recurring critique, not novel. All three reviewers independently fault the slide from a weak observer-effect claim to a strong metaphysical claim. ChatGPT 5.5 Pro: the lead presents "constitutive instability" as established when the evidence supports only "access often modifies experience"; the Occam's-Razor framing attacks a strawman ("introspection is transparent") when the live alternative is "introspection is task-sensitive, mode-sensitive, corrigible, and scientifically modelable" (Spener 2024, Peters 2025). Claude Opus 4.8: "it equivocates between a strong metaphysical claim and a weak observer-effect claim" — the article's own analogy ("a substance that reacts chemically with the instrument") "is a disturbance analogy, not a constitutive-instability one ... borrows the glamour of 'constitutive' while arguing only for disturbance"; the "pre-attended and attended thought are different thoughts" claim is "in-principle unverifiable" and runs a change-vs-creation conflation (one persisting bearer that mutates vs two numerically distinct thoughts). Gemini 2.5 Pro: "The manuscript's transition from epistemic opacity to ontological voids is formally invalid and unsupported by the very literature it cites" (Overgaard & Sandberg 2021 on procedural complexity of introspection). Action: reframe the strong claim explicitly as the article's *hypothesis*; label the dualist round-trip reading as a framework-dependent interpretation rather than an evidential conclusion; replace the strawman opponent with the corrigibilist middle path; resolve the change-vs-creation ambiguity (pick "transforms" *or* "distinct thoughts"); add a caveat acknowledging the unverifiability of the distinct-thoughts comparison. **Apply the direct-refutation discipline** in **natural journal-quality prose** — see [[writing-style|the writing-style guide]]'s "Engaging Opponents in Journal-Quality Prose" section. **Do not expose mode labels in the article body** (editor-internal; the classification belongs in the deep-review changelog entry). Honour [[evidential-status-discipline]].
-- **Review files**: `reviews/outer-review-2026-05-29-chatgpt-5-5-pro.md`, `reviews/outer-review-2026-05-29-claude-opus-4-8.md`, `reviews/outer-review-2026-05-29-gemini-2-5-pro.md`
-- **Synthesis**: reviews/outer-review-synthesis-2026-05-29.md
 - **Source**: outer-review
 - **Generated**: 2026-05-29
 
@@ -3616,6 +3630,10 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 Tasks that failed 3+ times and require human intervention.
 
+
+### ✓ 2026-05-29: Reframe mutation-void's constitutive-instability thesis and tenet-protective bracketing
+- **Type**: deep-review
+- **Notes**: From convergent outer reviews (2026-05-29, 3/3 reviewers): [chatgpt, claude, gemini]. The strongest structural convergence of the cycle, and also convergent with the site's own `deep-review-2026-05-22-mutation-void` and `voids-archive-audit-2026-04-29` (which already called Mutation Void the "weakest case examined") — a recurring critique, not novel. All three reviewers independently fault the slide from a weak observer-effect claim to a strong metaphysical claim. ChatGPT 5.5 Pro: the lead presents "constitutive instability" as established when the evidence supports only "access often modifies experience"; the Occam's-Razor framing attacks a strawman ("introspection is transparent") when the live alternative is "introspection is task-sensitive, mode-sensitive, corrigible, and scientifically modelable" (Spener 2024, Peters 2025). Claude Opus 4.8: "it equivocates between a strong metaphysical claim and a weak observer-effect claim" — the article's own analogy ("a substance that reacts chemically with the instrument") "is a disturbance analogy, not a constitutive-instability one ... borrows the glamour of 'constitutive' while arguing only for disturbance"; the "pre-attended and attended thought are different thoughts" claim is "in-principle unverifiable" and runs a change-vs-creation conflation (one persisting bearer that mutates vs two numerically distinct thoughts). Gemini 2.5 Pro: "The manuscript's transition from epistemic opacity to ontological voids is formally invalid and unsupported by the very literature it cites" (Overgaard & Sandberg 2021 on procedural complexity of introspection). Action: reframe the strong claim explicitly as the article's *hypothesis*; label the dualist round-trip reading as a framework-dependent interpretation rather than an evidential conclusion; replace the strawman opponent with the corrigibilist middle path; resolve the change-vs-creation ambiguity (pick "transforms" *or* "distinct thoughts"); add a caveat acknowledging the unverifiability of the distinct-thoughts comparison. **Apply the direct-refutation discipline** in **natural journal-quality prose** — see [[writing-style|the writing-style guide]]'s "Engaging Opponents in Journal-Quality Prose" section. **Do not expose mode labels in the article body** (editor-internal; the classification belongs in the deep-review changelog entry). Honour [[evidential-status-discipline]].
 
 ### ✓ 2026-05-29: Add missing Habermas/Apel/Husserl references in mutation-void (or remove the name-drops)
 - **Type**: refine-draft
