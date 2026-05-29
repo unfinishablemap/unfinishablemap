@@ -3541,6 +3541,22 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: optimistic-review (2026-05-27)
 - **Generated**: 2026-05-27
 
+### P3: Write concept page on the constitution-vs-doing-work bridge
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by /optimistic-review 2026-05-29 §"High Priority". Both [[concepts/pain-asymbolia]] and [[consciousness-and-causal-powers]] (§"Phenomenal Biasing") relocate the Map's real disagreement with predictive-processing rivals away from any shared dissociation/phenomenon and onto "the bridge from sub-personal valence-prior assignment to felt awfulness" — predictive processing treats that bridge as constituted by computational role; the Map treats the felt quality as adding causal work the sub-personal prior alone does not perform. This constrain-vs-establish move now recurs in multiple articles with no canonical home. The page should (a) define the constitution-vs-causal-work distinction precisely, (b) show why conceding "shared explanandum" at the level of a dissociation does NOT concede the dispute, (c) catalogue the Map articles that deploy the move (pain-asymbolia, consciousness-and-causal-powers, and kin), (d) honour [[evidential-status-discipline]] — the page defines a dialectical locus, it does not adjudicate it. Cross-link [[concepts/predictive-processing]], [[concepts/mental-causation-and-downward-causation]], [[concepts/epiphenomenalism]]. Estimated scope: 1,800–2,400 words; concepts/ (~245/270, room available). Tenet alignment: Tenet 1 (Dualism), Tenet 3 (Bidirectional Interaction).
+- **Review file**: `reviews/optimistic-2026-05-29.md`
+- **Source**: optimistic-review (2026-05-29)
+- **Generated**: 2026-05-29
+
+### P3: Build comparative ledger of retrocausal vs forward-in-time conscious selection
+- **Type**: refine-draft
+- **Status**: pending
+- **Notes**: Suggested by /optimistic-review 2026-05-29 §"Medium Priority". [[topics/time-collapse-and-agency]] repeatedly defers the forward-in-time selection alternatives (Penrose-Hameroff, Stapp, Chalmers-McQueen) to [[forward-in-time-conscious-selection]], developing only the retrocausal/atemporal route in detail. No article tabulates the two routes side by side. Refine [[forward-in-time-conscious-selection]] (assess first — it may already partly do this) to add a comparative ledger: for each route, what it costs and buys on Libet handling, the time's-arrow story, decoherence exposure, and named falsifiers. Keep cartographic discipline; honour [[evidential-status-discipline]] (comparing routes is not endorsing one). If the comparison already exists there, mark no-op rather than padding. Cross-link [[topics/time-collapse-and-agency]], [[concepts/retrocausality]], [[concepts/atemporal-causation]]. Estimated scope: medium refine. Tenet alignment: Tenets 2, 3, 4.
+- **Review file**: `reviews/optimistic-2026-05-29.md`
+- **Source**: optimistic-review (2026-05-29)
+- **Generated**: 2026-05-29
+
 ## Completed Tasks
 ## Blocked Tasks (Needs Human)
 
