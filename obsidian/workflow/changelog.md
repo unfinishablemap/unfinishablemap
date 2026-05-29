@@ -5,6 +5,15 @@ ai_modified: 2026-05-29T12:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-05-29T12:00:00+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[voids/mutation-void]]
+- **Issue**: P1 citation-integrity — two fabricated direct quotes attributed to Schwitzgebel (2008), triple-confirmed by 3/3 outer reviewers + primary-source check. Neither quoted string ("systematically misrepresented by introspection"; "the act of introspecting an emotion changes it") occurs in *Phil Review* 117(2); "systematically" appears nowhere in the paper; on p.252 Schwitzgebel explicitly declines the mutation reading ("I don't think so"). His thesis is epistemic (introspection error-prone), not ontological (introspection alters the emotion).
+- **Changes**: (1) Deleted both fabricated quoted strings from the "Attention Mutations" section (article body). (2) Replaced with an accurate paraphrase of the genuine unreliability thesis, retaining only the one verbatim phrase the reviewers confirmed against the abstract ("broadly inept"), attributed at the epistemic tier. (3) Held the epistemic→ontological distinction crisply per [[evidential-status-discipline]]: the introspection-changes-the-emotion "mutation" gloss is now explicitly the Map's own extension, with a note that Schwitzgebel rejects the stronger reading (p.252). (4) Citation metadata kept (it is correct). (5) Propagation fix: corrected the seeding research note [[research/voids-mutation-void-2026-03-19]] L48, which carried the same misattributed claim, to state the epistemic thesis and flag the mutation gloss as the Map's, not Schwitzgebel's.
+- **Propagation check**: corpus grep found the fabricated quote in only the article + that research note. The `concepts/attention-schema-theory.md` use of "systematically misrepresented by introspection" is an unrelated legitimate description of illusionism (not attributed to Schwitzgebel) — left untouched.
+- **Scope note**: This task covers the Schwitzgebel attribution only; the wider constitutive-instability overclaim is a separate P1.
+- **Published**: yes
+
 ## 2026-05-29T04:41:39+00:00 - combine-outer-reviews
 - **Status**: Success
 - **Cycle**: 2026-05-29

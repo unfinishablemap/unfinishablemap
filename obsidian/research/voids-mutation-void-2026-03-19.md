@@ -45,7 +45,7 @@ Certain thoughts cannot be held stably because the act of thinking them transfor
 - **Type**: Paper (The Philosophical Review, 2008)
 - **Key points**:
   - Introspection is unreliable not just in unusual circumstances but in normal, favorable ones
-  - Concurrent emotional phenomenology is systematically misrepresented by introspection — the act of introspecting an emotion changes it
+  - Introspective reports of ongoing emotional phenomenology are prone to gross and systematic error (an *epistemic* unreliability thesis, NOT a claim that introspection *changes* the emotion — Schwitzgebel explicitly rejects that mutation reading on p.252: "I don't think so"). The introspection-alters-the-emotion gloss is the Map's own ontological extension, not Schwitzgebel's.
   - Self-attribution of current states may be "reactive" (like a spontaneous utterance) or "self-fulfilling" rather than genuinely introspective
   - Phenomenal facts have "no tendency" to elicit accurate introspective beliefs about them
 - **Tenet alignment**: Supports Occam's Razor Has Limits — the assumption that we have privileged access to our own mental states is simpler but may be false

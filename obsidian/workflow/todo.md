@@ -45,15 +45,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: outer-review
 - **Generated**: 2026-05-29
 
-### P1: Fix unsafe Schwitzgebel quotation in mutation-void (citation integrity)
-- **Type**: refine-draft
-- **Status**: pending
-- **Notes**: From convergent outer reviews (2026-05-29, 3/3 reviewers): [chatgpt, claude, gemini]. **FABRICATION-CONFIRMED by primary-source check (not merely "unsafe").** All three reviewers flagged the Schwitzgebel quotation; the convergence is strong cross-reviewer signal. ChatGPT 5.5 Pro: "the exact quoted wording ... should be verified against a page number or converted to paraphrase ... this is the article's most serious possible fabricated-reference issue." Claude Opus 4.8 (carries primary-source verification): "neither quoted phrase appears in the paper — the word 'systematically' does not occur anywhere in it ... Schwitzgebel explicitly disavows the mutation reading" (p.252: "relies illegitimately on introspection's undercutting the emotion introspected. I don't think so"). Gemini 2.5 Pro: "a gross and perhaps deliberate misinterpretation of Schwitzgebel's actual philosophical conclusions, conflating epistemology with ontology." Both quoted strings (article body line ~56, attributed to Schwitzgebel 2008, *Phil Review* 117(2)) are not in the source. His thesis is *epistemic* (introspection is error-prone), not *metaphysical* (introspection alters the emotion). Action: **delete the two quoted strings** and replace with an accurate paraphrase of the unreliability thesis (e.g. introspective reports of ongoing/emotional experience are prone to gross error); do NOT put the causal "mutation" gloss in Schwitzgebel's mouth — that is the Map's own extension. Keep the citation metadata (it is correct); fix the attribution. Per [[ai-citation-metadata-unreliable]] this is the documented fabricated-quote pattern caught only by live primary-source verification. Tenet alignment: evidential-status discipline.
-- **Review files**: `reviews/outer-review-2026-05-29-chatgpt-5-5-pro.md`, `reviews/outer-review-2026-05-29-claude-opus-4-8.md`, `reviews/outer-review-2026-05-29-gemini-2-5-pro.md`
-- **Synthesis**: reviews/outer-review-synthesis-2026-05-29.md
-- **Source**: outer-review
-- **Generated**: 2026-05-29
-
 ### P1: Add missing Habermas/Apel/Husserl references in mutation-void (or remove the name-drops)
 - **Type**: refine-draft
 - **Status**: pending
@@ -3634,6 +3625,10 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 Tasks that failed 3+ times and require human intervention.
 
+
+### ✓ 2026-05-29: Fix unsafe Schwitzgebel quotation in mutation-void (citation integrity)
+- **Type**: refine-draft
+- **Notes**: From convergent outer reviews (2026-05-29, 3/3 reviewers): [chatgpt, claude, gemini]. **FABRICATION-CONFIRMED by primary-source check (not merely "unsafe").** All three reviewers flagged the Schwitzgebel quotation; the convergence is strong cross-reviewer signal. ChatGPT 5.5 Pro: "the exact quoted wording ... should be verified against a page number or converted to paraphrase ... this is the article's most serious possible fabricated-reference issue." Claude Opus 4.8 (carries primary-source verification): "neither quoted phrase appears in the paper — the word 'systematically' does not occur anywhere in it ... Schwitzgebel explicitly disavows the mutation reading" (p.252: "relies illegitimately on introspection's undercutting the emotion introspected. I don't think so"). Gemini 2.5 Pro: "a gross and perhaps deliberate misinterpretation of Schwitzgebel's actual philosophical conclusions, conflating epistemology with ontology." Both quoted strings (article body line ~56, attributed to Schwitzgebel 2008, *Phil Review* 117(2)) are not in the source. His thesis is *epistemic* (introspection is error-prone), not *metaphysical* (introspection alters the emotion). Action: **delete the two quoted strings** and replace with an accurate paraphrase of the unreliability thesis (e.g. introspective reports of ongoing/emotional experience are prone to gross error); do NOT put the causal "mutation" gloss in Schwitzgebel's mouth — that is the Map's own extension. Keep the citation metadata (it is correct); fix the attribution. Per [[ai-citation-metadata-unreliable]] this is the documented fabricated-quote pattern caught only by live primary-source verification. Tenet alignment: evidential-status discipline.
 
 ### ✓ 2026-05-29: Verify suspect "Demirel et al. 2025" microtubule citation in quantum-superposition research note (citation integrity)
 - **Type**: refine-draft

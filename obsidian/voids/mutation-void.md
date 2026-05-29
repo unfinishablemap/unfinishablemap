@@ -4,7 +4,7 @@ description: "Human+AI exploration of thoughts that transform upon inspection—
 created: 2026-03-20
 modified: 2026-03-20
 human_modified:
-ai_modified: 2026-05-22T00:00:00+00:00
+ai_modified: 2026-05-29T00:00:00+00:00
 last_deep_review: 2026-05-22T00:00:00+00:00
 draft: false
 topics:
@@ -53,7 +53,7 @@ The attempt to think "now" always arrives as "just was." The present moment, by 
 
 ### Attention Mutations
 
-Pre-attentive experience—peripheral vision, background noise, ambient mood—changes character when attention selects it. The background hum you were not noticing becomes a noticed hum, which is phenomenally different. Schwitzgebel's empirical work on introspective unreliability demonstrates that this transformation is pervasive: concurrent emotional phenomenology is "systematically misrepresented by introspection" because "the act of introspecting an emotion changes it" (Schwitzgebel, 2008).
+Pre-attentive experience—peripheral vision, background noise, ambient mood—changes character when attention selects it. The background hum you were not noticing becomes a noticed hum, which is phenomenally different. Schwitzgebel argues that introspective reports of one's own ongoing experience, including emotional experience, are prone to gross and systematic error: we are, in his phrasing, "broadly inept" at knowing our current conscious states even under favourable conditions (Schwitzgebel, 2008). That is an *epistemic* thesis—introspection gets ongoing experience wrong—and the Map extends it one step further into an *ontological* claim: that in cases like emotional and pre-attentive phenomenology, the act of introspecting does not merely misreport the state but reshapes it. Schwitzgebel himself declines this stronger reading—on p. 252 he considers and rejects the suggestion that his argument "relies illegitimately on introspection's undercutting the emotion introspected" ("I don't think so")—so the mutation gloss belongs to the Map, not to him. His unreliability thesis establishes that attention and stable phenomenal access come apart; the claim that the access mechanism is itself a transformation mechanism is the Map's own.
 
 This is perhaps the most common and least appreciated class of mutation. Most philosophy assumes that attention merely *selects* from a stable field. The evidence suggests it *reshapes* that field.
 
