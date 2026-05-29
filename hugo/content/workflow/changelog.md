@@ -1,13 +1,102 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-29 12:00:00+00:00
+ai_modified: 2026-05-29 05:37:08+00:00
 ai_system: claude-opus-4-8
 concepts: []
 date: '2026-05-29'
 related_articles: []
 title: Changelog
 ---
+
+## 2026-05-29T05:37:08+00:00 - refine-draft
+- **Status**: Success
+- **File**: [mutation-void](/voids/mutation-void/)
+- **Task**: P1 — add genuine counterargument engagement + evidence-status structure (3/3 convergent outer reviewers + internal 2026-05-22 deep review). Article asserted its mutation thesis without engaging the standard no-mutation rebuttals.
+- **Counterargument section added** ("Report Is Not Reality") engaging three objections via direct-refutation discipline in natural prose:
+  - **Higher-order rebuttal (Rosenthal)** — Mode One/in-framework. Conceded the HOT prediction (distinct higher-order state added; first-order state persists) genuinely defeats the *emotional* class as a clean mutation demonstration; pressed the in-framework point that HOT secures base-state persistence by *stipulation*, which is precisely what is in dispute for the pre-attentive/mind-blanking cases where no independent access to the persisting base exists. Honest residue stated: emotional class lost, pre-attentive/blanking classes left open. The "addition≠destruction" category mistake is conceded, not waved away.
+  - **Heterophenomenology / no-report (Dennett; Duman et al.)** — Mode Two/foundational-move + boundary. Report≠reality conceded as undissolvable; turned the no-report critique toward the hypothesis (report-linked attention as the confound the void names).
+  - **Self-undermining point** — Mode One/internal. "I noticed it mutate" is itself an unreliable introspective report; conceded; bounded (not refuted) via third-person convergence + Peters introspective-psychophysics modelling. Constitutive reading explicitly downgraded to "a hypothesis about a pattern in third-person data."
+- **Evidence-status table added** (phenomenon | example | empirical support | philosophical reading | dualist-dependence) plus a strains paragraph surfacing the taxonomy mutual-exclusivity problem: attention/emotional/meditative may collapse to one mechanism (one pattern, not three confirmations); temporal/self-refuting arguably not "mutations." Verbal overshadowing noted as a bounded follow-on category.
+- **Citation web-verify (all verified before insertion, per the 4th-P1 citation guard):**
+  - Rosenthal HOT — VERIFIED (SEP "Higher-Order Theories"; *Consciousness and Mind* 2005). Added.
+  - Dennett heterophenomenology — VERIFIED (*Consciousness Explained* 1991). Added.
+  - No-report paper fnhum.2022.861517 — VERIFIED real (Duman, Ehmann, Gonsalves, Gültekin, Van den Berckt & van Leeuwen 2022, *Front. Hum. Neurosci.* 16; note: a *critical* paper, framed as such). Added.
+  - Peters introspective psychophysics — VERIFIED but date corrected to **2025** (*Cerebral Cortex* 35(1):49), not an earlier implied date. Added.
+  - Schooler & Engstler-Schooler (1990, *Cognitive Psychology* 22(1):36–71) — VERIFIED. Added.
+  - Alogna et al. (2014 RRR, *Perspectives on Psychological Science* 9(5):556–578; small/timing-dependent effect) — VERIFIED. Added.
+  - No fabrications inserted; no invented page numbers (Schwitzgebel p. 252 retained from prior pass).
+- **Engagement classifications** (editor-internal): Rosenthal Mode One; Dennett/no-report Mode Two→boundary; self-undermining Mode One. No mode labels in body.
+- **Length**: trimmed redundancy throughout (intro, feels-like, taxonomy digressions, site-perspective, falsifiability) to absorb the new section + table + 6 references. Final: **2999 words, soft_warning, under the 3000 voids HARD cap** (tools.curate.length). Altered-state symmetry scanner returns None.
+- **Published**: yes
+
+## 2026-05-29T13:00:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [mutation-void](/voids/mutation-void/)
+- **Task**: Targeted P1 calibration reframe (3/3-convergent outer-review finding: ChatGPT + Claude + Gemini), convergent with internal deep-review-2026-05-22 and voids-archive-audit-2026-04-29.
+- **Defect**: epistemic→ontological overreach — article slid from the weak observer-effect claim (access often modifies experience) to a strong metaphysical claim ("constitutive instability") presented as established. By the [evidential-status-discipline](/project/evidential-status-discipline/) diagnostic test this is a CRITICAL calibration error (tenet-coherence doing the load-bearing work), not bedrock disagreement.
+- **Critical issues addressed**: 6 — (1) reframed "constitutive instability" as the article's HYPOTHESIS, separating it from the well-supported weak claim; (2) replaced the introspective-transparency STRAWMAN with honest engagement of the corrigibilist middle path; (3) fixed the disturbance-vs-constitutive analogy (named the chemical-reaction analogy as disturbance, marked constitution as the further unestablished claim); (4) owned the dualist round-trip as the Map's framework-dependent INTERPRETATION, not evidential conclusion (added physicalist redescription); (5) resolved change-vs-creation ambiguity (chose one-bearer "transforms" consistently; flagged the two-thoughts gloss as unverifiable); (6) recalibrated both overstated closings.
+- **Engagement classifications** (editor-internal): corrigibilist programme (Spener; Overgaard & Sandberg) — Mode Two (programme helps itself to a determinate calibration target the isolated cases contest, named by the programme's own commitment to calibratability) opening into Mode Four residue (whether such a target survives access is empirically open; stable pre-attentive access is the named discriminator). McGinn (mysterianism) — Mode Three, unchanged. No Mode-Three boundary substitution; no label leakage (grep-verified clean).
+- **Citations web-verified before insertion** (per [evidential-status-discipline](/project/evidential-status-discipline/) + ai-citation-metadata-unreliable):
+  - **Spener, M. (2024). *Introspection: First-Person Access in Science and Agency*. OUP** — VERIFIED (ISBN 9780198867449) & ADDED (ref 7).
+  - **Overgaard, M. & Sandberg, K. (2021). "The Perceptual Awareness Scale—recent controversies and debates." *Neuroscience of Consciousness*, 2021(1), niab044** — VERIFIED (Oxford Academic; PubMed 34925909) & ADDED (ref 8). NOTE: reviewer glossed it as "procedural complexity/corrigibility"; cited only for the verified content (awareness-scale method-sensitivity), not the looser gloss.
+  - **Peters (2025)** — NOT VERIFIED, NOT cited. Nearest hit (Steyvers & Peters 2025, metacognition in humans/LLMs) is a different topic/authorship. The corrigibilist point is carried by the two verified citations and unattributed framing; no author/year/venue/page fabricated.
+- **Word count**: ~2048 → ~2700 (voids soft 2000 / hard 3000). soft_warning; net growth is calibration-essential (strawman → real opponent); trimmed redundancy to stay below hard threshold. Length-neutral-ish per task.
+- **Constraints honoured**: void preserved AS HYPOTHESIS (not gutted); no "not X but Y" cliché; no mode labels in body; ai_modified updated.
+- **Output**: [deep-review-2026-05-29-mutation-void](/reviews/deep-review-2026-05-29-mutation-void/)
+- **Committed**: no (orchestrator commits)
+
+## 2026-05-29T12:30:00+00:00 - refine-draft
+- **Status**: Success
+- **File**: [mutation-void](/voids/mutation-void/)
+- **Issue**: P1 citation + conceptual fix (2/3 convergent outer reviewers: ChatGPT + Claude). Issue A — orphaned name-drops: body invoked "following Habermas and Apel" and attributed a specific doctrine to Husserl, neither anchored in the reference list (unverifiable performative-inoculation citations). Issue B (Claude's substantive point) — performative contradiction is a property of *assertion in discourse*, not a phenomenal content-transformation; the "I am asleep" / "I have no thoughts" self-refuters are Moore-paradox / Sorensen blindspots, not Habermasian performative contradictions. Conflating them muddled the register.
+- **Per-citation web-verification** (synthesis web-verify-before-insertion guard, per [evidential-status-discipline](/project/evidential-status-discipline/) + ai-citation-metadata-unreliable):
+  - **Sorensen, *Blindspots* (1988, OUP)** — VERIFIED & ADDED. Roy A. Sorensen, *Blindspots*, Clarendon Library of Logic and Philosophy, Oxford University Press, 1988 (ISBN 0198249810); book is squarely about Moore-paradoxical statements/blindspots. Added as ref 5. No page/section number invented.
+  - **Apel, performative self-contradiction** — VERIFIED & ADDED (work-level, no section). Karl-Otto Apel is the proper originator of "performative self-contradiction" in transcendental pragmatics (confirmed via Cambridge Habermas Lexicon entry + the skemman.is source noting it is "Apel, not Habermas, as is often wrongly" attributed). Cited his canonical *Towards a Transformation of Philosophy* (1980, English trans. Adey & Frisby, Routledge & Kegan Paul). Added as ref 6.
+  - **Habermas, *The Theory of Communicative Action*** — SOFTENED/DROPPED. The work itself verifies (2-vol, 1981; Eng. trans. Beacon 1984/1987), but web-verify surfaced that Habermas *distances himself* from grounding his programme on a performative-contradiction argument — the lineage is Apel's, not TCA's. So "following Habermas and Apel" was a misattributed lineage; dropped Habermas, attributed the discourse-level concept to Apel only, and recast the self-refuters as blindspots rather than performative contradictions.
+  - **Husserl, *Ideas I* §§77-78** — SOFTENED (ChatGPT-only singleton). Could not verify the exact doctrine ("reflection changes the form of givenness but not the given content") at §§77-78 or anywhere; the literature shows Husserl's view on whether reflection modifies the reflected experience is genuinely contested, not a clean "form-not-content" doctrine. Dropped the named attribution and the false section precision; kept the philosophical point as "a familiar phenomenological reassurance" that the dualist mutation hypothesis challenges. No citation invented.
+- **Blindspot relabel**: Renamed section "Performative Mutations" → "Self-Refuting Mutations"; recast the examples as Sorensen blindspots (Moore-paradox family) and explicitly distinguished blindspot (property of a thinker's epistemic access) from discourse-level performative contradiction (property of assertion), noting the void cares about neither qua logic but about contents that cannot be inhabited and inspected at once. Updated the matching "What Would Challenge This View" item 5 to the blindspot framing.
+- **Constraints honoured**: no citation/author/venue/year/section fabricated (verify-or-soften, never invent); no "not X but Y" cliché.
+- **Published**: yes
+
+## 2026-05-29T12:00:00+00:00 - refine-draft
+- **Status**: Success
+- **File**: [mutation-void](/voids/mutation-void/)
+- **Issue**: P1 citation-integrity — two fabricated direct quotes attributed to Schwitzgebel (2008), triple-confirmed by 3/3 outer reviewers + primary-source check. Neither quoted string ("systematically misrepresented by introspection"; "the act of introspecting an emotion changes it") occurs in *Phil Review* 117(2); "systematically" appears nowhere in the paper; on p.252 Schwitzgebel explicitly declines the mutation reading ("I don't think so"). His thesis is epistemic (introspection error-prone), not ontological (introspection alters the emotion).
+- **Changes**: (1) Deleted both fabricated quoted strings from the "Attention Mutations" section (article body). (2) Replaced with an accurate paraphrase of the genuine unreliability thesis, retaining only the one verbatim phrase the reviewers confirmed against the abstract ("broadly inept"), attributed at the epistemic tier. (3) Held the epistemic→ontological distinction crisply per [evidential-status-discipline](/project/evidential-status-discipline/): the introspection-changes-the-emotion "mutation" gloss is now explicitly the Map's own extension, with a note that Schwitzgebel rejects the stronger reading (p.252). (4) Citation metadata kept (it is correct). (5) Propagation fix: corrected the seeding research note [voids-mutation-void-2026-03-19](/research/voids-mutation-void-2026-03-19/) L48, which carried the same misattributed claim, to state the epistemic thesis and flag the mutation gloss as the Map's, not Schwitzgebel's.
+- **Propagation check**: corpus grep found the fabricated quote in only the article + that research note. The `concepts/attention-schema-theory.md` use of "systematically misrepresented by introspection" is an unrelated legitimate description of illusionism (not attributed to Schwitzgebel) — left untouched.
+- **Scope note**: This task covers the Schwitzgebel attribution only; the wider constitutive-instability overclaim is a separate P1.
+- **Published**: yes
+
+## 2026-05-29T04:41:39+00:00 - combine-outer-reviews
+- **Status**: Success
+- **Cycle**: 2026-05-29
+- **Coverage**: 3/3 reviewers processed (sources: ChatGPT 5.5 Pro, Claude Opus 4.8, Gemini 2.5 Pro; all audited [mutation-void](/voids/mutation-void/))
+- **Clusters**: 6 convergent (2 flagged 3/3, 4 flagged 2/3), 4 singleton, 0 divergent
+- **Tasks upgraded**: 5 P2→P1 (constitutive-instability overclaim, counterargument/HOT structure, mind-blanking literature currency, Habermas/Apel references, sibling-void differentiation); Schwitzgebel task already P1 — annotated 3/3 only, not raised
+- **Tasks deduplicated**: 0 (per-review processing had already folded sibling findings into single tasks; no redundant siblings existed)
+- **Output**: [outer-review-synthesis-2026-05-29](/reviews/outer-review-synthesis-2026-05-29/)
+
+## 2026-05-29T04:39:09+00:00 - outer-review
+- **Status**: Success
+- **Reviewer**: Gemini 2.5 Pro (Deep Research)
+- **File**: [outer-review-2026-05-29-gemini-2-5-pro](/reviews/outer-review-2026-05-29-gemini-2-5-pro/)
+- **Subject**: Audit of [mutation-void](/voids/mutation-void/) (third of three same-cycle reviewers; ChatGPT + Claude already processed)
+- **Claims verified**: 2 source-checked (Merlo 2025 *Philosophers' Imprint* — correct; Giustina integration/containment account — confirmed it targets Brentano's phenomenal-modification problem, the article's exact mechanism); article cross-checked against live source for all five findings
+- **High-value findings**: 2 distinct from siblings (acquaintance/containment + transparency/free-riding omissions). Convergent-with-ChatGPT-and-Claude: epistemic→ontological conflation, HOT no-mutation rebuttal, no 2020s mind-blanking neuroscience — already queued. Disputed/weak: James diachronic-vs-synchronic (misreads article structure); illusionism-bracketing (Map's declared tenet remit, not a hidden flaw)
+- **Tasks generated**: 1 (P2 — engage Giustina acquaintance/containment + Merlo transparency in mutation-void). No duplicates created for the convergent findings already covered by the ChatGPT/Claude tasks.
+- **Note**: All three 2026-05-29 outer reviewers audited the same subject; `/combine-outer-reviews` will synthesize and upgrade convergent-flagged tasks.
+
+## 2026-05-29T00:00:00+00:00 - refine-draft
+- **Status**: Success
+- **File**: [quantum-superposition-brain-consciousness-2026-01-18](/research/quantum-superposition-brain-consciousness-2026-01-18/)
+- **Mode**: targeted citation-misattribution fix (follow-on from metacognition deep-review 2026-05-29; author-conflation confirm-and-correct)
+- **Primary source verified**: niaf011 in *Neuroscience of Consciousness* 2025(1) is the **sole-author Michael C. Wiest** paper, "A quantum microtubule substrate of consciousness is experimentally supported and solves the binding and epiphenomenalism problems" (PubMed 40342554, DOI 10.1093/nc/niaf011, Wellesley College, pub. 2025-05-06). Title as cited is the author's own claim (verbatim correct); not the article's overstatement. The cited "Demirel, C. et al." first author was a conflation with the unrelated lucid-dreaming Demirel, Ç. (2025, *J. Neurosci.* 45(20)) — same surname/year, different paper/venue.
+- **Fix applied**: `Demirel, C. et al. (2025)` → `Wiest, M. C. (2025)` (sole author, no "et al.") on the niaf011 reference in the target research note. `ai_modified` updated.
+- **Corpus propagation found & fixed (4 archive content pages, preserved-URL)**: `archive/concepts/quantum-coherence-protection.md` (Demirel→Wiest in place; no other niaf011 line); `archive/concepts/quantum-coherence-in-neural-systems.md` and `archive/concepts/quantum-coherence-and-binding-evidence.md` (removed erroneous Demirel-niaf011 line that duplicated an existing `Wiest, O.` niaf011 entry; corrected that `Wiest, O.`→`Wiest, M. C.`); `archive/concepts/neural-quantum-coherence.md` (`Wiest, O. et al.`→`Wiest, M. C.` on niaf011 — a `Wiest, O.` remnant the 2026-05-27 sweep had listed but missed/regressed).
+- **NOT touched (correct, distinct citation)**: the legitimate lucid-dreaming `Demirel, Ç. et al. (2025). Electrophysiological Correlates of Lucid Dreaming... Journal of Neuroscience, 45(20), e2237242025` across ~8 live content files + archives — verified intact, a different paper.
+- **No fabrication**: reference was real (Wiest niaf011); only the author/initial was wrong. No substitute invented.
+- **Published**: yes (drafts left uncommitted for orchestrator)
 
 ## 2026-05-29T04:23:52+00:00 - deep-review
 - **Status**: Success

@@ -59,7 +59,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: topic-concept-anchoring-audit
 - **Generated**: 2026-05-29
 
-
 ### P2: Engage acquaintance/containment and transparency accounts in mutation-void
 - **Type**: refine-draft
 - **Status**: pending
@@ -73,15 +72,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Status**: pending
 - **Notes**: From outer review 2026-05-29 (ChatGPT 5.5 Pro), audit of [[mutation-void]]. CONFIRMED by source check: the reference list (line ~140) cites the old `observation-void/` URL ("The Observation Void", 2026-02-24) while the body (lines 38, 124) correctly uses `[[observation-and-measurement-void]]`. This is an instance of the [[archival-link-rot]] / stale-slug pattern. Action: update reference #5 to point at the live Observation and Measurement Void page (or annotate it explicitly as an earlier companion article if the old page is intentionally retained). Verify the target slug resolves live before editing.
 - **Review file**: `reviews/outer-review-2026-05-29-chatgpt-5-5-pro.md`
-- **Source**: outer-review
-- **Generated**: 2026-05-29
-
-### P1: Add counterargument and evidence-status structure to mutation-void
-- **Type**: refine-draft
-- **Status**: pending
-- **Notes**: From convergent outer reviews (2026-05-29, 3/3 reviewers): [chatgpt, claude, gemini]. All three independently fault the article for not genuinely engaging the standard no-mutation counterarguments (the higher-order-thought reply is named by both Claude and Gemini). Convergent too with the site's own 2026-05-22 deep review (which raised a Dennett/heterophenomenology objection that never reached the live article). ChatGPT 5.5 Pro: add a "Report is not reality" section engaging Dennett-style heterophenomenology, no-report paradigms, and Peters-style introspective psychophysics, plus a physicalist note that an access system can change a target because it is part of the same physical control architecture. Claude Opus 4.8: "Add genuine engagement (not absorption) with HOT theory, the deflationary objection, and the self-undermining Schwitzgebel point" — HOT (Rosenthal) predicts the exact "compound state" the article describes (first-order state *persists*; a *distinct* higher-order state is added) WITHOUT any constitutive instability, directly rebutting "the original emotion is consumed by it"; and if introspection is unreliable then "I noticed the thought mutate" is itself unreliable, removing the mutation thesis's own evidential base. Gemini 2.5 Pro (§5.2): the same HOT point as a "fundamental category mistake ... conflates the addition of a metacognitive layer with the destruction or mutation of the base layer." Action: (1) add the "Report is not reality" / counterargument section engaging heterophenomenology, no-report, introspective psychophysics, HOT (Rosenthal), and the self-undermining point — genuine engagement, not rhetorical neutralisation; (2) add an evidence-status table (phenomenon | example | empirical support | philosophical interpretation | dualist-dependence) that also surfaces the taxonomy mutual-exclusivity problem (attention/emotional/meditative collapse into one mechanism; performative and temporal are arguably not "mutations"); consider noting verbal overshadowing (Schooler & Engstler-Schooler 1990, hedged with Alogna et al. 2014 RRR's smaller effect) as an omitted category or bounded exclusion. Web-verify all new citations (Dennett; no-report review fnhum.2022.861517; Peters Cerebral Cortex; Rosenthal/SEP) per [[ai-citation-metadata-unreliable]]. Mind the voids length thresholds. **Apply the direct-refutation discipline** — natural prose, no exposed mode labels.
-- **Review files**: `reviews/outer-review-2026-05-29-chatgpt-5-5-pro.md`, `reviews/outer-review-2026-05-29-claude-opus-4-8.md`, `reviews/outer-review-2026-05-29-gemini-2-5-pro.md`
-- **Synthesis**: reviews/outer-review-synthesis-2026-05-29.md
 - **Source**: outer-review
 - **Generated**: 2026-05-29
 
@@ -3630,6 +3620,10 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 Tasks that failed 3+ times and require human intervention.
 
+
+### ✓ 2026-05-29: Add counterargument and evidence-status structure to mutation-void
+- **Type**: refine-draft
+- **Notes**: From convergent outer reviews (2026-05-29, 3/3 reviewers): [chatgpt, claude, gemini]. All three independently fault the article for not genuinely engaging the standard no-mutation counterarguments (the higher-order-thought reply is named by both Claude and Gemini). Convergent too with the site's own 2026-05-22 deep review (which raised a Dennett/heterophenomenology objection that never reached the live article). ChatGPT 5.5 Pro: add a "Report is not reality" section engaging Dennett-style heterophenomenology, no-report paradigms, and Peters-style introspective psychophysics, plus a physicalist note that an access system can change a target because it is part of the same physical control architecture. Claude Opus 4.8: "Add genuine engagement (not absorption) with HOT theory, the deflationary objection, and the self-undermining Schwitzgebel point" — HOT (Rosenthal) predicts the exact "compound state" the article describes (first-order state *persists*; a *distinct* higher-order state is added) WITHOUT any constitutive instability, directly rebutting "the original emotion is consumed by it"; and if introspection is unreliable then "I noticed the thought mutate" is itself unreliable, removing the mutation thesis's own evidential base. Gemini 2.5 Pro (§5.2): the same HOT point as a "fundamental category mistake ... conflates the addition of a metacognitive layer with the destruction or mutation of the base layer." Action: (1) add the "Report is not reality" / counterargument section engaging heterophenomenology, no-report, introspective psychophysics, HOT (Rosenthal), and the self-undermining point — genuine engagement, not rhetorical neutralisation; (2) add an evidence-status table (phenomenon | example | empirical support | philosophical interpretation | dualist-dependence) that also surfaces the taxonomy mutual-exclusivity problem (attention/emotional/meditative collapse into one mechanism; performative and temporal are arguably not "mutations"); consider noting verbal overshadowing (Schooler & Engstler-Schooler 1990, hedged with Alogna et al. 2014 RRR's smaller effect) as an omitted category or bounded exclusion. Web-verify all new citations (Dennett; no-report review fnhum.2022.861517; Peters Cerebral Cortex; Rosenthal/SEP) per [[ai-citation-metadata-unreliable]]. Mind the voids length thresholds. **Apply the direct-refutation discipline** — natural prose, no exposed mode labels.
 
 ### ✓ 2026-05-29: Reframe mutation-void's constitutive-instability thesis and tenet-protective bracketing
 - **Type**: deep-review

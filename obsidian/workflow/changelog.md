@@ -1,9 +1,30 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-29T12:00:00+00:00
+ai_modified: 2026-05-29T05:37:08+00:00
 ai_system: claude-opus-4-8
 ---
+
+## 2026-05-29T05:37:08+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[voids/mutation-void]]
+- **Task**: P1 — add genuine counterargument engagement + evidence-status structure (3/3 convergent outer reviewers + internal 2026-05-22 deep review). Article asserted its mutation thesis without engaging the standard no-mutation rebuttals.
+- **Counterargument section added** ("Report Is Not Reality") engaging three objections via direct-refutation discipline in natural prose:
+  - **Higher-order rebuttal (Rosenthal)** — Mode One/in-framework. Conceded the HOT prediction (distinct higher-order state added; first-order state persists) genuinely defeats the *emotional* class as a clean mutation demonstration; pressed the in-framework point that HOT secures base-state persistence by *stipulation*, which is precisely what is in dispute for the pre-attentive/mind-blanking cases where no independent access to the persisting base exists. Honest residue stated: emotional class lost, pre-attentive/blanking classes left open. The "addition≠destruction" category mistake is conceded, not waved away.
+  - **Heterophenomenology / no-report (Dennett; Duman et al.)** — Mode Two/foundational-move + boundary. Report≠reality conceded as undissolvable; turned the no-report critique toward the hypothesis (report-linked attention as the confound the void names).
+  - **Self-undermining point** — Mode One/internal. "I noticed it mutate" is itself an unreliable introspective report; conceded; bounded (not refuted) via third-person convergence + Peters introspective-psychophysics modelling. Constitutive reading explicitly downgraded to "a hypothesis about a pattern in third-person data."
+- **Evidence-status table added** (phenomenon | example | empirical support | philosophical reading | dualist-dependence) plus a strains paragraph surfacing the taxonomy mutual-exclusivity problem: attention/emotional/meditative may collapse to one mechanism (one pattern, not three confirmations); temporal/self-refuting arguably not "mutations." Verbal overshadowing noted as a bounded follow-on category.
+- **Citation web-verify (all verified before insertion, per the 4th-P1 citation guard):**
+  - Rosenthal HOT — VERIFIED (SEP "Higher-Order Theories"; *Consciousness and Mind* 2005). Added.
+  - Dennett heterophenomenology — VERIFIED (*Consciousness Explained* 1991). Added.
+  - No-report paper fnhum.2022.861517 — VERIFIED real (Duman, Ehmann, Gonsalves, Gültekin, Van den Berckt & van Leeuwen 2022, *Front. Hum. Neurosci.* 16; note: a *critical* paper, framed as such). Added.
+  - Peters introspective psychophysics — VERIFIED but date corrected to **2025** (*Cerebral Cortex* 35(1):49), not an earlier implied date. Added.
+  - Schooler & Engstler-Schooler (1990, *Cognitive Psychology* 22(1):36–71) — VERIFIED. Added.
+  - Alogna et al. (2014 RRR, *Perspectives on Psychological Science* 9(5):556–578; small/timing-dependent effect) — VERIFIED. Added.
+  - No fabrications inserted; no invented page numbers (Schwitzgebel p. 252 retained from prior pass).
+- **Engagement classifications** (editor-internal): Rosenthal Mode One; Dennett/no-report Mode Two→boundary; self-undermining Mode One. No mode labels in body.
+- **Length**: trimmed redundancy throughout (intro, feels-like, taxonomy digressions, site-perspective, falsifiability) to absorb the new section + table + 6 references. Final: **2999 words, soft_warning, under the 3000 voids HARD cap** (tools.curate.length). Altered-state symmetry scanner returns None.
+- **Published**: yes
 
 ## 2026-05-29T13:00:00+00:00 - deep-review
 - **Status**: Success
