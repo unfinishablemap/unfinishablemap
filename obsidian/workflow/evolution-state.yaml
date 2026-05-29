@@ -2,16 +2,16 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-05-29T03:08:10.208391+00:00'
-session_count: 8677
-cycle_position: 7717
+last_updated: '2026-05-29T03:12:55.944521+00:00'
+session_count: 8678
+cycle_position: 7718
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-05-29T02:16:15.631831+00:00'
   optimistic-review: '2026-05-29T02:52:31.249693+00:00'
   check-tenets: '2026-05-29T01:17:57.104489+00:00'
   check-links: '2026-05-28T22:18:18.920824+00:00'
-  deep-review: '2026-05-29T03:03:13.842114+00:00'
+  deep-review: '2026-05-29T03:12:55.944521+00:00'
   tune-system: '2026-05-27T21:25:16.242050+00:00'
   research-voids: '2026-05-28T22:22:11.701641+00:00'
   coalesce: '2026-05-29T00:14:56.842595+00:00'
@@ -87,12 +87,17 @@ quality:
   medium_issues: 10
   low_issues: 3
   orphaned_files: 0
+queue_status:
+  p0_tasks: 0
+  p1_tasks: 0
+  p2_tasks: 4
+  p3_tasks: 442
+  needs_replenishment: false
+  last_replenishment: '2026-05-29T03:12:55+00:00'
+  replenishment_source_counts:
+    staleness: 2
 failed_tasks: {}
 recent_tasks:
-- task: refine-draft
-  type: refine-draft
-  date: '2026-05-29'
-  outcome: success
 - task: refine-draft
   type: refine-draft
   date: '2026-05-29'
@@ -167,5 +172,9 @@ recent_tasks:
   outcome: success
 - task: commission-claude-review
   type: commission-claude-review
+  date: '2026-05-29'
+  outcome: success
+- task: deep-review
+  type: deep-review
   date: '2026-05-29'
   outcome: success
