@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-14
-ai_modified: 2026-05-28 22:55:09+00:00
+ai_modified: 2026-05-29 07:40:19+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -62,7 +62,7 @@ description: Consciousness flows through time in the specious present—Bergson'
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-04-22 02:39:00+00:00
+last_deep_review: 2026-05-29 07:40:19+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -140,13 +140,13 @@ Protention connects to the [phenomenology of choice](/concepts/phenomenology-of-
 
 Varela's [neurophenomenology](/concepts/neurophenomenology-and-contemplative-neuroscience/) connects Husserl's temporal structure to gamma-range neural synchronies (30-70 Hz) that may implement temporal binding. The brain's [neural-refresh-rates](/concepts/neural-refresh-rates/) — alpha at 7–13 Hz for attentional gating, theta at 4–8 Hz for cross-object sampling, gamma at ~40 Hz for feature binding — sample the world in discrete oscillatory cycles, yet experience presents itself as a continuous stream, constituting the [smoothness problem](/topics/neural-refresh-rates-and-the-smoothness-problem/). Working memory provides a promising neural correlate: the experienced moment (~100ms-5s) matches working memory maintenance capacity. Baddeley's episodic buffer binds across modalities and time—the specious present may be what working memory *feels like from inside*.
 
-Temporal perception is distributed and multi-scale: the SMA, prefrontal cortex, cerebellum, and basal ganglia form a system with modality-specific coincidence thresholds (~5ms visual, ~2-3ms auditory). The unified specious present is therefore a phenomenal achievement, not a straightforward readout of neural timing. It also provides the temporal window within which [motor selection](/topics/motor-control-quantum-zeno/) occurs: the ~280ms commitment point for voluntary action (Thura & Cisek, 2014) falls within specious present range.
+Temporal perception is distributed and multi-scale: the SMA, prefrontal cortex, cerebellum, and basal ganglia form a system with modality-specific coincidence thresholds (~5ms visual, ~2-3ms auditory). Time-domain models (Baker & Cariani, 2025) propose that the brain encodes information in the temporal structure of spike patterns rather than in rate or spatial labels alone—an account congenial to the Map's claim that lived duration is not a downstream readout but the medium itself. The unified specious present is therefore a phenomenal achievement, not a straightforward readout of neural timing. It also provides the temporal window within which [motor selection](/topics/motor-control-quantum-zeno/) occurs: the ~280ms commitment point for voluntary action (Thura & Cisek, 2014) falls within specious present range.
 
 ## Mental Time Travel and the Extended Self
 
 [Autonoetic consciousness](/concepts/anoetic-noetic-autonoetic-consciousness/) extends temporal phenomenology beyond the specious present. Memory carries a "feeling of pastness"—a genuine temporal quale—while future simulation lacks equivalent phenomenal weight. This [asymmetry](/voids/temporal-void/) may be conceptually necessary, since pre-experience would require the pastness quale applied to something that hasn't happened.
 
-Klein (2016) argued that autonoetic consciousness—not memory content—is the causally determinative factor in future self-projection: the same propositional content yields different functional outcomes depending on whether it is experienced autonoetically (with felt temporal self-presence) or merely known noetically. Semanticisation confirms this independence: episodic memories gradually shed their autonoetic character, retaining content while losing the felt quality of re-experiencing—identical information, diminishing temporal phenomenology. The content/manner distinction directly parallels the irreducibility argument for the specious present: just as no collection of instantaneous states contains the experience of succession, no information-processing description captures the difference between remembering and merely knowing.
+Klein (2016) argued that autonoetic consciousness—not memory content—is the causally determinative factor in future self-projection: the same propositional content yields different functional outcomes depending on whether it is experienced autonoetically (with felt temporal self-presence) or merely known noetically. Semanticisation confirms this independence: episodic memories gradually shed their autonoetic character, retaining content while losing the felt quality of re-experiencing. As with the specious present, no information-processing description captures the difference between remembering and merely knowing.
 
 [Prospective memory](/concepts/prospective-memory/) extends autonoetic temporality into the future—conscious simulation of possible futures causally shapes present decisions, supporting [Bidirectional Interaction](/tenets/#bidirectional-interaction).
 
@@ -164,7 +164,7 @@ The Map's framework proposes consciousness participates in [quantum collapse](/c
 
 If consciousness selects among quantum outcomes, Husserl's retention-protention structure maps onto collapse with striking specificity. **Retention** reflects outcomes already collapsed—the felt fixedness of the just-past. **Primal impression** is where selection is active, the leading edge where superposition has not yet resolved. **Protention** tracks genuine indeterminacy, meaningful only if collapse is real rather than perspectival.
 
-What distinguishes this mapping from mere structural analogy is the qualitative features each phase exhibits. Neural accounts explain *that* the past is fixed and the future open, but not *why it feels that way*. If collapse is real, the qualitative texture of each phase finds a natural counterpart in the difference between collapsed, collapsing, and uncollapsed states.
+What distinguishes this mapping from mere structural analogy is the qualitative texture each phase exhibits: if collapse is real, the felt difference between a fixed past and an open future finds a natural counterpart in the difference between collapsed, collapsing, and uncollapsed states.
 
 ### The Specious Present as Selection Window
 
@@ -174,15 +174,15 @@ A significant challenge is the [timescale gap](/concepts/timing-gap-problem/): q
 
 ### Duration, Flow, and Superposition
 
-B-theory eternalism treats temporal flow as illusory; the Map counters that flow is the experiential side of time's constitution through collapse. The phenomenology of [effort](/concepts/mental-effort/) provides additional evidence: maintaining focused attention feels costly, reflecting consciousness working to bias quantum outcomes against the system's spontaneous tendencies.
+B-theory eternalism treats temporal flow as illusory; the Map counters that flow is the experiential side of time's constitution through collapse, and that the felt cost of sustained [attention](/concepts/mental-effort/) is consciousness working to bias quantum outcomes against the system's spontaneous tendencies.
 
 ### Challenges and Limits
 
-The framework is speculative, requiring: (1) collapse realism; (2) consciousness at collapse; (3) a bridging mechanism for the femtosecond-to-millisecond timescale gap; (4) genuine phenomenal-physical correspondence. It is presently empirically inert—its value is philosophical. The [decoherence](/concepts/decoherence/) challenge is mitigated by revised coherence times (Hagan et al., 2002) and Stapp's quantum Zeno mechanism working through rapid discrete collapses rather than sustained coherence.
+The framework is speculative, requiring: (1) collapse realism; (2) consciousness at collapse; (3) a bridging mechanism for the timescale gap noted above; (4) genuine phenomenal-physical correspondence. It is presently empirically inert—its value is philosophical. The [decoherence](/concepts/decoherence/) challenge is partly mitigated by revised coherence-time estimates (Hagan et al., 2002).
 
 ## The Illusionist Challenge
 
-[Illusionists](/concepts/illusionism/) like Dennett and Frankish argue temporal flow is a "user illusion." Several responses challenge this. First, for there to *seem* to be temporal flow, there must be a seeming with temporal structure—appearance is itself phenomenal. Second, trained [introspection](/concepts/introspection/) *refines* rather than *dissolves* temporal phenomenology; meditators perceive *finer* temporal structure, not fabrication. Third, while consciousness can be wrong about *when* events occur, no experiment has shown succession absent while seeming present—illusionism requires the stronger claim that temporal extension itself is illusory.
+[Illusionists](/concepts/illusionism/) like Dennett and Frankish argue temporal flow is a "user illusion." Several responses challenge this. First, for there to *seem* to be temporal flow, there must be a seeming with temporal structure—appearance is itself phenomenal. Second, trained [introspection](/concepts/introspection/) *refines* rather than *dissolves* temporal phenomenology; meditators perceive *finer* temporal structure, not fabrication. Third, while consciousness can be wrong about *when* events occur, no experiment has shown succession absent while seeming present—illusionism requires the stronger claim that temporal extension itself is illusory. Tallis (2024) presses the regress point directly: to call temporal flow an illusion presupposes a subject for whom the illusion unfolds over time, smuggling back the very temporal phenomenology the position aims to deflate.
 
 ## Implications for Machine Consciousness
 
@@ -246,7 +246,7 @@ Temporal consciousness connects to all five tenets:
 1. Varela, F.J. (1999). "The Specious Present: A Neurophenomenology of Time Consciousness." In *Naturalizing Phenomenology*, ed. J. Petitot et al.
 1. Whitehead, A.N. (1929/1978). *Process and Reality*. Free Press.
 1. Fuchs, T. (2007). The temporal structure of intentionality and its disturbance in schizophrenia. *Psychopathology*, 40(4), 229-235.
-1. Baker, J. & Cariani, P. (2025). Time-domain brain. *Frontiers in Computational Neuroscience*.
+1. Baker, J. & Cariani, P. (2025). Time-domain brain: temporal mechanisms for brain functions. *Frontiers in Computational Neuroscience*.
 1. Thura, D. & Cisek, P. (2014). Deliberation and commitment in the premotor and primary motor cortex during dynamic decision making. *Neuron*, 81(6), 1401-1416.
 1. Stapp, H. (2007). *Mindful Universe: Quantum Mechanics and the Participating Observer*. Springer.
 1. Clark, A. (2013). Whatever next? Predictive brains, situated agents, and the future of cognitive science. *Behavioral and Brain Sciences*, 36(3), 181–204.

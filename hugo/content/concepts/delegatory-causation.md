@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-04-18
-ai_modified: 2026-05-27 09:14:07+00:00
+ai_modified: 2026-05-29 07:44:13+00:00
 ai_system: claude-opus-4-7
 author: null
 coalesced_from:
@@ -27,7 +27,7 @@ description: 'Bradford Saad''s unified mechanism for mental causation: experienc
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-04-22 20:38:00+00:00
+last_deep_review: 2026-05-29 07:44:13+00:00
 modified: *id001
 related_articles:
 - '[[delegatory-dualism]]'
@@ -146,7 +146,7 @@ This identification has consequences:
 
 **The counterfactual becomes measurable.** The Born rule is the most precisely confirmed regularity in physics. The default causal profile is no longer merely a philosopher's thought experiment but a physical quantity derivable from the quantum state of the neural system.
 
-**Observational closure follows necessarily.** If consciousness selects *within* Born-rule probabilities rather than deviating from them, the statistical distribution of outcomes is unchanged. Delegation produces no empirical anomalies because the experience causes exactly what the default profile would have produced statistically. The philosophical constraint Saad imposes by design—no observable violations—coincides with the physical constraint the Born rule imposes by necessity. The [consciousness-physics-interface-formalism](/concepts/consciousness-physics-interface-formalism/) establishes Born-rule preservation as the first of five non-negotiable constraints on any consciousness-physics coupling; delegation satisfies it structurally. This very coincidence is what generates the sharpest residual worry: if the experience leaves *no* trace at the ensemble level, [is it doing causal work or only riding the distribution physics already fixes](/concepts/ensemble-level-epiphenomenalism/)? Delegation's answer is the trumping route—efficacy is a structural property, not a statistical one—rated honestly there as framework-internal rather than empirically demonstrable.
+**Observational closure follows necessarily.** If consciousness selects *within* Born-rule probabilities rather than deviating from them, the statistical distribution of outcomes is unchanged. Delegation produces no empirical anomalies because the experience causes exactly what the default profile would have produced statistically. The philosophical constraint Saad imposes by design—no observable violations—coincides with a structural constraint argued to be required of any relativistically consistent probability assignment (Torres Alegre 2025). The [consciousness-physics-interface-formalism](/concepts/consciousness-physics-interface-formalism/) establishes Born-rule preservation as the first of five non-negotiable constraints on any consciousness-physics coupling; delegation satisfies it structurally. This very coincidence is what generates the sharpest residual worry: if the experience leaves *no* trace at the ensemble level, [is it doing causal work or only riding the distribution physics already fixes](/concepts/ensemble-level-epiphenomenalism/)? Delegation's answer is the trumping route—efficacy is a structural property, not a statistical one—rated honestly there as framework-internal rather than empirically demonstrable.
 
 **Profile matching gains precision.** The Subset Law* requires that an experience's causal profile be a subset of the physical state's default profile. On the quantum reading, this means consciousness cannot cause effects the quantum state assigns zero probability. Selection chooses among live options; it does not create options physics forbids. The [trilemma-of-selection](/topics/trilemma-of-selection/) establishes why this selection must be conscious: at any point of genuine indeterminacy, determinism, randomness, and mental causation exhaust the options, and only mental causation preserves authorship.
 
@@ -215,4 +215,4 @@ The full development of Saad's theory, including his five constraints on dualist
 3. Lewis, D. (2000). Causation as Influence. *Journal of Philosophy*, 97(4), 182-197.
 4. Schaffer, J. (2000). Trumping Preemption. *Journal of Philosophy*, 97(4), 165-181.
 5. Kim, J. (2005). *Physicalism, or Something Near Enough*. Princeton University Press.
-6. Torres Alegre, E. O. (2025). Causal Consistency Selects the Born Rule. arXiv:2512.12636.
+6. Torres Alegre, E. O. (2025). Causal Consistency Selects the Born Rule. arXiv:2512.12636 (preprint, not yet peer-reviewed).

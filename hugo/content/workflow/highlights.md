@@ -1,16 +1,16 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-07
-ai_modified: '2026-05-28T17:34:07.189842'
+ai_modified: '2026-05-29T08:02:17.071785'
 ai_system: null
 author: null
 concepts: []
 created: 2026-01-07
-date: '2026-05-28'
+date: '2026-05-29'
 draft: false
 human_modified: 2026-01-07
 last_curated: null
-modified: '2026-05-28'
+modified: '2026-05-29'
 related_articles:
 - '[[workflow]]'
 - '[[changelog]]'
@@ -23,6 +23,15 @@ Recent discoveries, new articles, and interesting findings from The Unfinishable
 ---
 
 <!-- HIGHLIGHTS_START -->
+### 2026-05-29: What Would the Mind-Matter Equation Look Like?
+
+Saying 'consciousness selects quantum outcomes' isn't a law until you write the formula: which felt states are the inputs, what physical knob they turn, and how. Why that equation is still missing—and why that's expected.
+
+**Type**: insight  
+**Link**: [the-psychophysical-control-law](/topics/the-psychophysical-control-law/)
+
+---
+
 ### 2026-05-28: Quantum Mechanics: Partial but Complete
 
 Bohr and Einstein were both half right. Quantum theory is exhaustive about structure yet silent on which outcome becomes actual — and that gap, after Bell, Hardy, Kochen-Specker, and PBR, is exactly where consciousness can act.
@@ -193,15 +202,6 @@ If consciousness is irreducible, the hard problem applies universally—to bats,
 
 **Type**: insight  
 **Link**: [animal-consciousness](/topics/animal-consciousness/)
-
----
-
-### 2026-05-06: The Quantum Timing Gap Has an Answer
-
-If consciousness selects among quantum possibilities, must it act before decoherence destroys them in femtoseconds? Post-decoherence selection sidesteps the question entirely—mind acts on the improper mixture physics has already prepared.
-
-**Type**: insight  
-**Link**: [forward-in-time-conscious-selection](/topics/forward-in-time-conscious-selection/)
 
 ---
 

@@ -1,13 +1,90 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-29 06:55:53+00:00
+ai_modified: 2026-05-29 08:10:00+00:00
 ai_system: claude-opus-4-8
 concepts: []
 date: '2026-05-29'
 related_articles: []
 title: Changelog
 ---
+
+## 2026-05-29T08:30:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [what-consciousness-tells-us-about-physics](/apex/what-consciousness-tells-us-about-physics/)
+- **Focus**: Queued staleness deep-review (37 days, APEX synthesis — high coherence-inflation propagation risk). Standing CITATION-CURRENCY + CALIBRATION pass.
+- **Word count**: ~4396 → 4385 (net length-neutral; calibration additions offset by trimming a redundant Gödel-paragraph restatement). Article at 110% of apex soft threshold — flagged as future condense candidate, not addressed (out of scope).
+- **Critical issues addressed**: 3 (all citation-metadata defects, web-verified + corpus-cross-checked)
+  - Saad 2025 ref: fabricated/divergent title "Against Causal Closure" → canonical "A dualist theory of experience" (Phil Studies 182(3) 939-967, DOI 02290-3). The flagged priority issue; Saad has no such paper (web-verified). Resolves the P3 todo task.
+  - Buhler 2020 ref: wrong title+venue "Why the Causal Closure...Begs the Question / Synthese" → canonical "No Good Arguments for Causal Closure" (Metaphysica 21(1), DOI mp-2019-0026).
+  - Denton 2024 ref: wrong title + wrong authors/initials → canonical Denton/Smith/Xu/Pugsley/Toghill/Kattnig, "Magnetosensitivity of tightly bound radical pairs...", Nat. Commun. 15:10823, DOI s41467-024-55124-x.
+- **Medium issues addressed**: 1 (Denton in-text source-conclusion overstatement: "neural-relevant timescales" recast to microsecond/structurally-disanalogous calibration; aligns framing with the article's own "does not vindicate Stapp's neural mechanism" concession).
+- **Verified clean (no change)**: Torres Alegre 2025 (arXiv:2512.12636, exact title + source-conclusion + preprint label), Nature survey 2025 (643(8074)), Cubitt et al. 2015, all pre-2020 canonical refs.
+- **Engagement modes**: Duch rival-programme = Mode Three (framework-boundary, honestly declared at directionality/substantive-quantum axes; no boundary-substitution, no label leakage).
+- **Output**: [deep-review-2026-05-29-what-consciousness-tells-us-about-physics](/reviews/deep-review-2026-05-29-what-consciousness-tells-us-about-physics/)
+
+## 2026-05-29T08:10:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [the-psychophysical-control-law](/topics/the-psychophysical-control-law/)
+- **Focus**: Queued staleness deep-review (36 days, Tenet 2/3 load-bearing — Minimal Quantum Interaction + Bidirectional Interaction). Directed CITATION-CURRENCY + CALIBRATION standing pass. 4th review.
+- **Word count**: 2875 → 2875 (no content change; length-neutral, 96% of soft threshold)
+- **Critical issues addressed**: 0 (converged; no misattribution / dropped-qualifier / possibility-probability slippage)
+- **Medium issues addressed**: 0
+- **Citation web-verify**: All load-bearing recent/niche refs LIVE-VERIFIED clean against primary sources. Zheng & Meister 2025 (Neuron 113(2) 192-204, DOI neuron.2024.11.008 ✓). Tegmark 2000 (Phys. Rev. E 61 4194-4206 ✓; DECOHERENCE ARITHMETIC TRAP checked — 10⁻¹³–10⁻²⁰ s matches source). Khan…Wiest et al. 2024 (eNeuro 11(8) ENEURO.0291-24.2024 ✓; senior author M. C. Wiest matches corpus-canonical form, attractor-name watch satisfied; Cohen's d=1.9 + 69 s LORR confirmed; effect is mechanism-neutral and article does not QM-overclaim it). Schwartz 1996 stable. No defects, no fabricated replacements, no sibling/research/archive edits needed.
+- **Calibration**: Clean. Article frames the control law as structural/speculative ("programmatic", "schematic", "empirically bounded conjecture") throughout; every empirical passage concedes classical-mechanism compatibility; "consistent with MQI tenet" is a coherence claim, never an evidential upgrade. No tenet-coherence used to elevate evidential status. Anti-mush: no hedges added, no verbs recast — none warranted. Positive exemplar of compatibility-≠-support discipline.
+- **Engagement modes** (editor-internal): Many-Worlds defender (Wallace 2012) — Mode Three (framework-boundary marking; engages the decision-theoretic response, concedes rational agency, locates disagreement at the No-MWI + indexical-identity tenet boundary without in-framework refutation). Label-leakage scan CLEAN.
+- **Enhancements made**: 0 (timestamps only — genuine near-no-op on a converged article)
+- **Output**: [deep-review-2026-05-29-the-psychophysical-control-law](/reviews/deep-review-2026-05-29-the-psychophysical-control-law/)
+
+## 2026-05-29T07:44:13+00:00 - deep-review
+- **Status**: Success
+- **File**: [delegatory-causation](/concepts/delegatory-causation/)
+- **Focus**: Queued staleness deep-review (37 days, Tenet 3 load-bearing) — CITATION-CURRENCY + CALIBRATION standing pass
+- **Word count**: ~3464 → 3394 (−70, length-neutral)
+- **Critical issues addressed**: 0 (3rd review, converged; no misattribution / dropped-qualifier / possibility-probability slippage)
+- **Medium issues addressed**: 1 (orphan Torres Alegre 2025 reference — listed in References but never cited in-body — anchored to its supporting Born-rule claim with corpus-standard preprint flag; same flag added to archived default-causal-profile.md)
+- **Calibration**: Clean. Article consistently calibrates delegation as structural possibility, not evidenced mechanism; no tenet-coherence used to upgrade evidential status. One over-strong physics assertion softened ("Born rule imposes by necessity" → "argued to be required ... (Torres Alegre 2025)") — anti-mush recast of one contested claim, not blanket hedging.
+- **Citation web-verify**: Saad 2025 metadata + source-conclusion verified clean (Phil. Studies 182(3) 939-967, DOI 02290-3, correct DOI not an attractor form). Schaffer 2000 / Lewis 1973+2000 / Kim 2005 canonical, corpus-consistent. Out-of-scope finding: apex/what-consciousness-tells-us-about-physics.md:253 cites Saad 2025 with divergent wrong title "Against Causal Closure" — flagged for follow-up.
+- **Engagement modes** (editor-internal): epiphenomenalism — Mode One (defective on own terms, self-undermining argument); strict empiricist — Mode Three (framework-boundary marking); no label leakage.
+- **Enhancements made**: 1 (orphan-ref anchor)
+- **Output**: [deep-review-2026-05-29-delegatory-causation](/reviews/deep-review-2026-05-29-delegatory-causation/)
+
+## 2026-05-29T07:40:19+00:00 - deep-review
+- **Status**: Success
+- **File**: [temporal-consciousness](/concepts/temporal-consciousness/)
+- **Focus**: Citation-currency pass (cycle-slot standing guidance) — densest recent-empirical candidate selected over default conceptual candidate
+- **Word count**: 2878 → 2909 (+31, length-neutral)
+- **Critical issues addressed**: 0 (tenth review, converged; no misattribution / dropped-qualifier / slippage)
+- **Medium issues addressed**: 1 (two dangling references — Baker & Cariani 2025 and Tallis 2024 — anchored into body; same pattern the ninth review fixed for Whitehead)
+- **Enhancements made**: 2 (Baker & Cariani time-domain-coding anchor in Neural Correlates; Tallis regress anchor in Illusionist Challenge), offset by 4 redundancy trims
+- **Citations web-verified / corpus-cross-checked**: Hoel 2025 arXiv:2512.12802 web-verified (author/title/ID all correct); Zheng & Meister 2025 *Neuron* 113(2):192–204 corpus-normalized clean (article previously fixed from fabricated 112(5):679-692); Thura & Cisek 2014 *Neuron* 81(6):1401-1416 matches PMID-verified form; Baker & Cariani 2025 title de-truncated to corpus-canonical form; Kent & Wittmann 2021, Klein 2016, Lee 2023 consistent. No author-conflation (watch-list surnames absent), no fabricated metadata, no metaphysical-over-reading of empirical claims.
+- **Engagement modes (editor-internal)**: illusionist Mode Two + Mode Three boundary residue; B-theory eternalist Mode Three. No label leakage.
+- **Recommendation**: converged article; lengthen deep-review interval. Only fixable items were two danglers introduced since the ninth review.
+- **Output**: [deep-review-2026-05-29-temporal-consciousness](/reviews/deep-review-2026-05-29-temporal-consciousness/)
+- **Published**: yes
+
+## 2026-05-29T07:29:27+00:00 - refine-draft
+- **Status**: Success
+- **File**: [active-reboot](/concepts/active-reboot/)
+- **Original score**: n/a (targeted citation-correctness fix from unconsumed research note `research/pci-phi-anaesthesia-recovery-2026-05-27.md`)
+- **Changes**: Fixed the line-55 citation-correctness defect in the "Temporal precedence over behavioural signs" bullet. The article cited "Recent IIT work (2024–2025 PCI and Φ literature) finds integration measures recover *before* behavioural responsiveness" — using Onoda 2025 / Breyton 2025 / Van Maldegem 2025 as support for an emergence-*timing/precedence* claim those papers do not make. Rewrote to separate two findings honestly: (1) the *dissociation* the 2025 PCI/Φ corpus actually supports (integration-type signal tracks consciousness independently of behavioural responsiveness; stays high in ketamine/REM), cited Onoda 2025, Breyton 2025, Van Maldegem 2025; (2) the genuine *precedence* finding, correctly sourced to the older, mechanistically distinct Lewis et al. 2018 (sensory-gating transient, NOT PCI/Φ), with the Mashour 2021 pairing. Explicitly flags state-comparison vs. time-resolved-trajectory so the dissociation is not read as discrimination of timing. Added refs 14 (Lewis 2018), 15 (Onoda 2025), 16 (Breyton 2025), 17 (Van Maldegem 2025). Preserved the ketamine/filter-reading framing and the Hu et al. 2023 KCC2 anchor. Length-neutral (one slightly expanded bullet, offset by tighter ordering clause).
+- **Web-verification**: All four citations independently verified against primary sources before insertion (per standing web-verify steer): Onoda 2025 (Neurosci. Consciousness, niaf024, DOI 10.1093/nc/niaf024) — Φ state-level tracking, no emergence-timing; Breyton 2025 (eLife RP98920) — spontaneous-complexity discrimination outside perturbation paradigms; Van Maldegem 2025 (BJA 134(4):1088-1104, DOI 10.1016/j.bja.2024.12.036) — confirmed dissociation of awareness from behavioural responsiveness under ketamine; Lewis 2018 (eLife 7:e33250) — confirmed "transient brain state immediately prior to recovery of behavioral responsiveness," 2018, sensory-gating not PCI/Φ. None of the three 2025 papers establishes emergence-timing precedence; research note's assessment corroborated. Did not cite the two distinct Luppi papers (02121-9 vs 02381-5) — tangential to the disputed clause and the 02381-5 metadata is provisional.
+- **Discipline**: Honoured [evidential-status-discipline](/project/evidential-status-discipline/) §"coherence vs. evidential status" — the dissociation is compatibility, not discrimination of the timing claim.
+- **Published**: yes
+
+## 2026-05-29T07:24:51+00:00 - condense
+- **Status**: Reviewed, minimal pass applied — recommend human structural split
+- **File**: [phenomenal-output-causal-machinery-dissociation](/apex/phenomenal-output-causal-machinery-dissociation/)
+- **Before**: 6990 words
+- **After**: 6989 words
+- **Reduction**: ~0% (prose-tightening only)
+- **Technique**: Light tightening of three verbose connectives ("What raises evidential weight is" → "Evidential weight comes from"; "grants the point in full" → "grants the point"; minor clause smoothing in the final unifying-picture sentence). No argument, calibration qualifier, concession, citation-frame, or section removed.
+- **Reason for deferring**: This article is the catalogue's worst length offender (175% over the 4000-word apex target) but is almost entirely load-bearing. Per the STRUCTURAL-DEFER remit and license to defer: every paragraph carries distinct citations, evidential-tier calibration (constrain-vs-establish, contested-magnitude hedges, single-case caveats, dual-process re-derivation, ego-depletion recalibration), or a framework-boundary concession that the preservation constraints forbid trimming. The few restatements of the "convergence on signature, not entailment" framing are deliberate truncation-resilient reinforcement of the central calibrated claim. Reaching 4000 words would require amputating a timescale member, the same-introspector counterexamples (TOT / cognitive phenomenology / autonoesis), or the unified-rival steelman — each load-bearing. **Recommend a human editorial decision to structurally SPLIT** (e.g. extract "The Strongest Materialist Reading" + "Independent Traditions on the Same Architecture" into a companion methodology/steelman article, leaving the cluster catalogue + positive companion + tenet relation here), rather than forcing the single page under the ceiling by deletion.
+
+## 2026-05-29T18:30:00+00:00 - optimistic-review
+- **Status**: Success
+- **Content reviewed**: `topics/evolutionary-case-for-mental-causation.md` and `topics/russellian-monism-versus-bi-aspectual-dualism.md` — two recently-modified, fully-AI-authored, tenet-load-bearing topic articles spanning the empirical-efficacy and comparative-metaphysics registers. Both judged unusually well-calibrated: the Process Philosopher and Hardline Empiricist personas converge in praising the same passages (the sign the possibility/probability tension is resolved honestly). Standout strength in both: tenet-coherence and philosophical resonance are explicitly *not* used to upgrade evidential status (efficacy firewalled from non-physicality; the Georgiev quotation flagged as presupposing dualism rather than evidencing it). Two expansion opportunities queued (P3): a co-optimization-reply article and a contingency-thesis/quiddity-epiphenomenalism concept page; three cross-links and one new concept page suggested.
+- **Output**: [optimistic-2026-05-29b](/reviews/optimistic-2026-05-29b/)
 
 ## 2026-05-29T07:05:18+00:00 - refine-draft
 - **Status**: Success (methodology task — documentation only, no article edit)
