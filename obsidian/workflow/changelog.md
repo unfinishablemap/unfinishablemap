@@ -1,9 +1,20 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-29T03:30:00+00:00
+ai_modified: 2026-05-29T12:00:00+00:00
 ai_system: claude-opus-4-8
 ---
+
+## 2026-05-29T12:00:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [[topics/experimental-consciousness-science-2025-2026]]
+- **Word count**: ~2179 → 2211 (+32; 74% of soft threshold, length-neutral)
+- **Target re-selection**: scorer's top candidate was qbism.md (8 prior reviews, fully converged, no recent-empirical citations of its own); redirected per cycle-slot citation-currency guidance to this article — dense with post-2020 empirical/neuroscience/quantum citations + specific statistics (the documented defect cluster).
+- **Critical issues addressed**: 1 — source-conclusion mismatch on the "25% covert consciousness" statistic. Article said "patients diagnosed as being in a **vegetative state**"; primary source (Kazazian/Monti/Owen *Brain* 148(7):2283-2298, 2025, citing Bodien et al. *NEJM* 391(7):598-608, 2024) gives 25% of **DoC patients** / behaviourally non-responsive patients (coma + vegetative/UWS + MCS). Defect survived 3 prior reviews because they cross-checked the figure against the corpus, not the primary source. Fixed at root + 4 propagated siblings: substrate-independence.md, research note, testability-ledger.md, qbism.md. Added Bodien NEJM reference.
+- **Medium issues addressed**: 2 — completed COGITATE reference metadata (*Nature* 642(8066):133-142, online 30 Apr / print 5 Jun 2025) and Brain reference (added Kazazian/Monti/Owen authors + end page).
+- **Citations verified clean**: split-brain PNAS (Santander et al., 122(43), e2520190122), Keppler ZPF (*Front. Hum. Neurosci.* 2025, fnhum.2025.1676585, Dec 2025), Milinkovic & Aru (NBR 181, 106524). COGITATE n=256 confirmed.
+- **Evidential status**: population correction tightens (not loosens) the empirical claim; no possibility/probability slippage.
+- **Output**: [[reviews/deep-review-2026-05-29-experimental-consciousness-science-2025-2026]]
 
 ## 2026-05-29T04:30:00+00:00 - deep-review
 - **Status**: Success

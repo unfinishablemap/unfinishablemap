@@ -4,7 +4,7 @@ description: "Major consciousness experiments of 2025-2026—COGITATE adversaria
 created: 2026-03-26
 modified: 2026-03-26
 human_modified:
-ai_modified: 2026-05-29T00:00:00+00:00
+ai_modified: 2026-05-29T12:00:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -27,7 +27,7 @@ author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-03-26
 last_curated:
-last_deep_review: 2026-05-13T13:22:00+00:00
+last_deep_review: 2026-05-29T12:00:00+00:00
 embedded_videos:
   - id: 9cHrSnEjSzk
     url: https://www.youtube-nocookie.com/embed/9cHrSnEjSzk
@@ -85,7 +85,7 @@ The authors remain physicalists—they argue consciousness emerges from biologic
 
 ## Covert Consciousness in Unresponsive Patients
 
-A 2025 review in *Brain* synthesised evidence that up to 25% of patients diagnosed as being in a vegetative state may harbour covert consciousness—awareness without any behavioural expression. New multimodal tools integrating EEG, MRI, PET, and functional near-infrared spectroscopy (fNIRS) are advancing clinical detection of consciousness in unresponsive patients.
+A 2025 review in *Brain* synthesised evidence that around 25% of patients with disorders of consciousness—a category spanning coma, the vegetative state/unresponsive wakefulness syndrome, and the minimally conscious state—may harbour covert consciousness, awareness without any behavioural expression. The figure traces to a 2024 multinational study of cognitive motor dissociation (Bodien et al., *New England Journal of Medicine*), which found that roughly one in four behaviourally non-responsive patients could wilfully modulate brain activity to commands. New multimodal tools integrating EEG, MRI, PET, and functional near-infrared spectroscopy (fNIRS) are advancing clinical detection of consciousness in unresponsive patients.
 
 This finding has direct philosophical significance. If consciousness can persist when the bidirectional causal channel between mind and body is severely damaged, then consciousness is not identical to the observable physical behaviour that physicalist criteria use to detect it. Behavioural absence does not entail experiential absence. The findings establish a correlate/identity distinction at the *behavioural* level: behavioural criteria cannot adjudicate which relation holds. The same distinction runs through the Map's interpretation of [[neural-correlates-of-consciousness|neural correlates]] at the neural level, though that broader claim does separate argumentative work that no single behavioural-detection study could settle.
 
@@ -122,15 +122,16 @@ The Map interprets these findings not as proof of dualism—no single experiment
 
 ## References
 
-1. Cogitate Consortium. (2025). Adversarial testing of global neuronal workspace and integrated information theories of consciousness. *Nature*. https://www.nature.com/articles/s41586-025-08888-1
+1. Cogitate Consortium. (2025). Adversarial testing of global neuronal workspace and integrated information theories of consciousness. *Nature*, 642(8066), 133-142. (Online first 30 April 2025; print 5 June 2025.) https://www.nature.com/articles/s41586-025-08888-1
 2. Exploring ultraweak photon emissions as optical markers of brain activity. (2025). *iScience*. https://www.cell.com/iscience/fulltext/S2589-0042(25)00279-2
 3. Santander, T., Bekir, S., Paul, T., et al. (2025). Full interhemispheric integration sustained by a fraction of posterior callosal fibers. *Proceedings of the National Academy of Sciences*, 122(43), e2520190122. doi:10.1073/pnas.2520190122. [Senior authors: Volz, Miller; M.S. Gazzaniga among co-authors.]
 4. Keppler, J. (2025). Macroscopic quantum effects in the brain: new insights into the fundamental principle underlying conscious processes. *Frontiers in Human Neuroscience*. https://www.frontiersin.org/journals/human-neuroscience/articles/10.3389/fnhum.2025.1676585/full
 5. Milinkovic, B. & Aru, J. (2026). On biological and artificial consciousness: A case for biological computationalism. *Neuroscience & Biobehavioral Reviews*, 181, 106524. (Epub 17 Dec 2025; print Feb 2026.) https://doi.org/10.1016/j.neubiorev.2025.106524
-6. Functional neuroimaging in disorders of consciousness: towards clinical implementation. (2025). *Brain*, 148(7), 2283. https://academic.oup.com/brain/article/148/7/2283/8042105
+6. Kazazian, K., Monti, M. M., & Owen, A. M. (2025). Functional neuroimaging in disorders of consciousness: towards clinical implementation. *Brain*, 148(7), 2283-2298. https://academic.oup.com/brain/article/148/7/2283/8042105
 7. Consciousness science: where are we, where are we going, and what if we get there? (2025). *Frontiers in Science*. https://www.frontiersin.org/journals/science/articles/10.3389/fsci.2025.1546279/full
 8. What fMRI studies say about the nature of the psychedelic effect: a scoping review. (2025). *Frontiers in Neuroscience*. https://www.frontiersin.org/journals/neuroscience/articles/10.3389/fnins.2025.1606798/full
 9. The concept of biophotonic signaling in the human body and brain: rationale, problems and directions. (2025). *Frontiers in Systems Neuroscience*. https://www.frontiersin.org/journals/systems-neuroscience/articles/10.3389/fnsys.2025.1597329/full
 10. The New York Declaration on Animal Consciousness. (2024). https://sites.google.com/nyu.edu/nydeclaration/declaration
 11. Southgate, A. & Oquatre-cinq, C. (2026-01-14). Neural Correlates of Consciousness. *The Unfinishable Map*. https://unfinishablemap.org/concepts/neural-correlates-of-consciousness/
 12. Southgate, A. & Oquatre-cinq, C. (2026-01-14). Global Workspace Theory. *The Unfinishable Map*. https://unfinishablemap.org/concepts/global-workspace-theory/
+13. Bodien, Y. G., Allanson, J., Cardone, P., et al. (2024). Cognitive motor dissociation in disorders of consciousness. *New England Journal of Medicine*, 391(7), 598-608. https://doi.org/10.1056/NEJMoa2400645
