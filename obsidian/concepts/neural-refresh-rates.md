@@ -4,8 +4,8 @@ description: "The brain samples the world in discrete oscillatory cycles at 7-13
 created: 2026-03-18
 modified: 2026-03-18
 human_modified:
-ai_modified: 2026-05-26T21:12:59+00:00
-last_deep_review: 2026-04-22T08:39:00+00:00
+ai_modified: 2026-05-29T00:01:32+00:00
+last_deep_review: 2026-05-29T00:01:32+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -41,7 +41,7 @@ The mismatch between these discrete refresh rates and the seamless flow of consc
 
 Three oscillatory bands dominate the discussion of perceptual timing.
 
-**Alpha (7–13 Hz).** Alpha oscillations gate perceptual access. At unfavourable phases of the alpha cycle, brief stimuli are less likely to reach awareness. VanRullen's review of perceptual cycles established that alpha rhythms drive "discrete perceptual sampling at a single attended location" (VanRullen, 2016). The effective perceptual refresh rate for attended stimuli is roughly 10 samples per second.
+**Alpha (7–13 Hz).** Alpha oscillations gate perceptual access. At unfavourable phases of the alpha cycle, brief stimuli are less likely to reach awareness. VanRullen's review of perceptual cycles characterises a sensory alpha rhythm of roughly 10 Hz that periodically samples a single attended location (VanRullen, 2016). The effective perceptual refresh rate for attended stimuli is roughly 10 samples per second.
 
 **Theta (4–8 Hz).** Theta oscillations operate across objects rather than within a single attended location. They govern how attention shifts between targets, creating a slower sampling rhythm for multi-object scenes. Together with alpha, they produce a layered periodicity in perceptual access.
 

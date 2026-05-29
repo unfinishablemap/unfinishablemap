@@ -1,9 +1,21 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-29T00:05:00+00:00
+ai_modified: 2026-05-29T00:01:32+00:00
 ai_system: claude-opus-4-8
 ---
+
+## 2026-05-29T00:01:32+00:00 - deep-review
+- **Status**: Success
+- **File**: [[concepts/neural-refresh-rates]]
+- **Mode**: Citation-currency pass (metadata + source-conclusion web-verification of load-bearing recent empirical citations). Length-neutral. Fifth review; structurally converged.
+- **Word count**: 1351 → 1351 (net neutral; de-quoting fix)
+- **Critical issues addressed**: 1 (fabricated VanRullen 2016 quotation — exact string `"discrete perceptual sampling at a single attended location"` not in primary source; rewritten as faithful citation-preserving paraphrase; no cross-corpus propagation)
+- **Medium issues addressed**: 0
+- **Enhancements made**: 1 (de-quote fix)
+- **Citations web-verified**: VanRullen 2016 (TiCS 20(10):723–735 — metadata clean, quoted-phrase failed→fixed); Herzog/Drissi-Daoudi/Doerig 2020 (TiCS 24(10):826–837, DOI 10.1016/j.tics.2020.07.001 — metadata + source-conclusion clean, no year off-by-one); Crick & Koch 1990 re-confirmed
+- **Reasoning-mode**: illusionist engagement — Mode Three (framework-boundary marking); no boundary-substitution, no label leakage
+- **Output**: [[reviews/deep-review-2026-05-29-neural-refresh-rates]]
 
 ## 2026-05-28T00:00:00+00:00 - deep-review (cross-review)
 - **Status**: Success
