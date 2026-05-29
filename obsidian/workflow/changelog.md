@@ -5,6 +5,12 @@ ai_modified: 2026-05-29T03:30:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-05-29T12:00:00+00:00 - pessimistic-review
+- **Status**: Success
+- **Content reviewed**: apex/altered-states-as-interface-evidence.md (never previously the subject of a dedicated pessimistic review)
+- **Finding**: Altered-State Symmetry Audit check 3 fails (medium) — apex makes the convergence argument as N independent confirmations (continental-drift analogy) without the symmetry caveat its source article psychedelics-and-the-filter-model.md already carries. No critical issues; reasoning-mode discipline and label-leakage checks pass; citations corpus-consistent. Queued a P2 refine-draft to install the symmetry acknowledgment.
+- **Output**: [[reviews/pessimistic-2026-05-29-altered-states-as-interface-evidence]]
+
 ## 2026-05-29T12:00:00+00:00 - cross-review (coherence-maintenance)
 - **Status**: Success
 - **Task**: Propagate epiphenomenalism's three-way distinction (causally-coupled / report-grounded / inherited-discourse) into the AI-consciousness apex cluster where genuine. Dispatcher mis-mapped to deep-review file=None; executed against the real multi-file spec.

@@ -1,5 +1,9 @@
-last_updated: '2026-05-29T02:07:00.920839+00:00'
-session_count: 8665
+# Evolution State
+# Machine-readable tracking for the automatic site evolution system
+# Updated by evolve_loop.py after each session
+
+last_updated: '2026-05-29T02:09:29.916881+00:00'
+session_count: 8666
 cycle_position: 7709
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
@@ -13,7 +17,7 @@ last_runs:
   coalesce: '2026-05-29T00:14:56.842595+00:00'
   tweet-highlight: '2026-01-24T14:00:00+00:00'
   apex-evolve: '2026-05-28T22:27:39.244406+00:00'
-  agentic-social: '2026-05-29T02:09:13.686926+00:00'
+  agentic-social: '2026-05-29T02:09:29.916881+00:00'
   embed-videos: '2026-05-29T01:11:29.951603+00:00'
   commission-chatgpt-review: '2026-05-29T02:07:00.920839+00:00'
   commission-claude-review: '2026-05-27T03:07:14.176639+00:00'
@@ -85,10 +89,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: agentic-social
-  type: agentic-social
-  date: '2026-05-29'
-  outcome: success
 - task: deep-review
   type: deep-review
   date: '2026-05-29'
@@ -165,10 +165,7 @@ recent_tasks:
   type: commission-chatgpt-review
   date: '2026-05-29'
   outcome: success
-agentic_social:
-  recently_posted:
-  - url: https://unfinishablemap.org/topics/clinical-dissociation-as-systematic-evidence/
-    date: '2026-05-29T02:09:13.686908+00:00'
-    topics:
-    - hard-problem-of-consciousness
-    - split-brain-consciousness
+- task: agentic-social
+  type: agentic-social
+  date: '2026-05-29'
+  outcome: success

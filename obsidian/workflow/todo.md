@@ -37,6 +37,13 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
+### P2: Install altered-state-symmetry acknowledgment in apex/altered-states-as-interface-evidence.md
+- **Type**: refine-draft
+- **Status**: pending
+- **Notes**: Pessimistic review 2026-05-29 found the apex makes the convergence-across-altered-states argument without the symmetry caveat its own source article carries — convergence double-counting (Audit Two failure, medium severity). Supportive-cluster gate passes (psychedelics, NDE, cessation, OOBE, mystical); disruptive cluster IS cited (anaesthesia, NREM) so this is NOT a disruptive-cluster-installation fix — it is the symmetry-acknowledgment installation (check 3). The article treats five-plus perturbations as compounding INDEPENDENT confirmations (continental-drift analogy at line 78; "not convergent; coincidence dressed as explanation" at line 161), but each window contributes the SAME evidential move and the same accommodation is available to production theorists. FIX: inherit the canonical wording from `topics/psychedelics-and-the-filter-model.md` lines 113–115 ("the same move is available to production theorists ... structurally identical accommodations"; "the convergence-of-altered-states pattern cannot honestly be cited as multiple independent confirmations of filter theory — the cluster carries the evidential weight of one pattern, not five"). Target the line-78 continental-drift analogy and the line-161 "coincidence dressed as explanation" claim. Preserve the existing "necessary honesty" (line 149) calibration and carry it through to the convergence claim. Secondary (low): add Konkoly small-sample caveat at line 94; hedge "non-deterministic quantum selection" (line 120) and the Xu 2023 gamma "consciousness intensifies" (line 153) as framework-stage interpretation. See [[reviews/pessimistic-2026-05-29-altered-states-as-interface-evidence]].
+- **Source**: pessimistic-review (2026-05-29)
+- **Generated**: 2026-05-29
+
 ### P3: Write article on Auditory Consciousness and the Interface
 - **Type**: expand-topic
 - **Status**: pending
