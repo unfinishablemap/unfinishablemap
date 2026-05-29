@@ -1,13 +1,75 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-29 00:01:32+00:00
+ai_modified: 2026-05-29 02:10:00+00:00
 ai_system: claude-opus-4-8
 concepts: []
 date: '2026-05-29'
 related_articles: []
 title: Changelog
 ---
+
+## 2026-05-29T02:10:00+00:00 - refine-draft
+- **Status**: Success
+- **File**: [free-will](/topics/free-will/)
+- **Task**: topic-concept anchoring calibration (audit 2026-05-29) — foundational article under-hedged / over-asserting against FOUR anchors at once: [counterfactual-reasoning](/concepts/counterfactual-reasoning/) (11.53/kw, binding), [substance-property-dualism](/concepts/substance-property-dualism/) (9.83/kw), [mental-effort](/concepts/mental-effort/), [mental-causation-and-downward-causation](/concepts/mental-causation-and-downward-causation/)
+- **Before**: hedge_density 4.11/kw (hedge_count 13), strong_assertion_count 3, underdetermination 0 — all four anchors flagged
+- **After**: hedge_density 7.17/kw (hedge_count 24), strong_assertion_count 0, underdetermination 4; evaluate_anchoring returns 0 flags (all four cleared)
+- **Changes**:
+  - Recast 3 strong-assertion verbs into honest non-assertive forms (no bare deletion): "the epiphenomenalist threat **shows that**" → "**suggests** that ... if the case is to hold"; "the philosophical case **establishes** *that* agent causation is real" → bears on *whether* agent causation is real, "remains contested rather than decided"; "skill delegation **demonstrates**" → "**appears to illustrate**"
+  - Added 4 underdetermination markers at genuinely contested moves (not padding): "compatible with both readings" (compatibilist dispute), "the evidence does not adjudicate" (moral-grounding underdetermination), "underdetermined by the evidence" (quantum origination vs mere indeterminism)
+  - Added honest hedges only on contested claims — libertarian/compatibilist dispute, whether quantum interface delivers genuine origination (flagged HYPOTHESIS tier per [evidential-status-discipline](/project/evidential-status-discipline/)), whether agency phenomenology is veridical (eliminativist disputes it; "aims to shift the burden rather than close the question"), atemporal-agency inference flagged "speculative rather than established", comparative-cognition evidence "itself contested"
+  - ANTI-MUSH: left the core dualist free-will thesis, the lead paragraph, "What Free Will Requires", and "Relation to Site Perspective" assertive and untouched; "consciousness *can* influence physical outcomes" (Tenet 3) preserved as a claim, with the hedge placed only on the quantum-specific mechanism
+- **Engagement classification (editor-internal)**: compatibilist engagement — Mode Three (framework-boundary; the deliberative data is acknowledged compatible with both readings, disagreement noted honestly not refuted); eliminativist/Wegner engagement — Mode Two→Three mixed (burden-shift on the four-tricks structure, then honest concession that veridicality is the disputed bedrock)
+- **Residual**: none — all four anchors clear with headroom (7.17 vs 6.92 binding bar)
+- **Published**: yes
+
+## 2026-05-29T01:35:00+00:00 - refine-draft
+- **Status**: Success
+- **File**: [phenomenology-of-deliberation-under-uncertainty](/topics/phenomenology-of-deliberation-under-uncertainty/)
+- **Task**: topic-concept anchoring calibration (audit 2026-05-29) — under-hedged vs anchor [counterfactual-reasoning](/concepts/counterfactual-reasoning/) (11.53/kw)
+- **Before**: hedge_density 4.05/kw, strong_assertion_count 1, underdetermination 1
+- **After**: hedge_density 8.18/kw, strong_assertion_count 0, underdetermination 2; evaluate_anchoring returns NONE (cleared)
+- **Changes**:
+  - Recast strong-assertion verb "Choking demonstrates that..." → "Choking suggests that... appears to arise" (removes the 1 strong assertion to anchor's 0; honest — the choking parallel is an analogy, not a proof)
+  - Lead paragraph: hedged the computational-capture claims and added an explicit introspective-defeasibility caveat ("introspective report is defeasible; treated as data, not settled fact")
+  - "Confidence without grounds": added the deflationary-reading acknowledgment (post-hoc gloss on sub-personal processing not ruled out by phenomenology alone)
+  - "Estimation as phenomenal achievement" close: hedged the "no algorithm replicates" claim and added an underdetermination marker ("compatible with both interpretations... not settled by felt character alone")
+- **Anti-mush note**: overshot the 6.92 bar to 8.18 but every added hedge sits on a genuinely contestable claim (computational-sufficiency disagreements, introspective access, deflationary readings). Definitional and reported-experience statements in the varieties-of-uncertainty section left firm. Central thesis preserved.
+- **Published**: yes
+
+## 2026-05-29T01:30:00+00:00 - check-tenets
+- **Status**: Success
+- **Files checked**: 509 (258 topics, 251 concepts)
+- **Errors**: 0
+- **Warnings**: 0
+- **Notes**: 1 (optional internal-consistency tidy — `concepts/quantum-indeterminacy-free-will.md` still leads MWI rejection with the Tenet-5-demoted ontological-extravagance argument instead of the indexical objection)
+- **Output**: [tenet-check-2026-05-29](/reviews/tenet-check-2026-05-29/)
+
+## 2026-05-29T00:00:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [phenomenology-of-cognitive-limit-types](/topics/phenomenology-of-cognitive-limit-types/)
+- **Word count**: 2245 → 2250 (+5)
+- **Critical issues addressed**: 1 — **misattribution** of the "phobic" epistemic-vertigo quote (attributed to Helen De Cruz; actually Duncan Pritchard, "Cavell and Philosophical Vertigo," JHAP 9(9), 2021). Survived four prior reviews because intra-corpus cross-check propagated it; caught only by live-literature web-verify. Root research note (`voids-topology-of-cognitive-failure-2026-01-29`) was correct — the quote-source conflation happened at synthesis. Fixed in-text + reference 2; no propagation (confined to this article).
+- **Medium issues addressed**: 1 — repointed stale `[[imagination-and-creativity-void]]` (archived, coalesced into Creative-Aesthetic Void 2026-04-23) → `[[creative-aesthetic-void]]` in frontmatter + body. Archival-link-rot pattern; content-quality, not build-breaking.
+- **Low issues addressed**: 1 — completed Pronin & Hazel (2023) reference metadata (32(5), 402-409, web-verified).
+- **Citation-currency pass**: recency heuristic held — defect was in a recent/niche cite; canonical cites (Wittgenstein, Margolis, McGinn, Hoffman, Trivers) clean.
+- **Engagement classification**: n/a — article does not reply to named opponents; no Mode One/Two/Three engagements, no label-leakage risk.
+- **Enhancements made**: 0 substantive (length-neutral; prose converged across 4 reviews).
+- **Output**: [deep-review-2026-05-29-phenomenology-of-cognitive-limit-types](/reviews/deep-review-2026-05-29-phenomenology-of-cognitive-limit-types/)
+
+## 2026-05-29T01:01:19+00:00 - cross-review (reciprocity audit)
+- **Status**: Success
+- **Subject**: [aspect-perception-void](/voids/aspect-perception-void/) sibling reciprocity audit (multi-file; 17 forward-linked siblings, 3 already cross-reviewed: tacit-integration-void, recognition-void, conceptual-scheme-void)
+- **Method**: For each remaining sibling, grepped body + frontmatter + Further Reading for an `aspect-perception-void` back-reference; installed reciprocal links only where genuine conceptual contact exists; flagged hubs where forced reciprocity is inappropriate.
+- **Per-sibling tally (13 checked + 1 hub already in target list)**:
+  - **Link installed (body + frontmatter + Further Reading): 8** — transit-void (dawning = crossing-opacity sister case), thought-stream-void (before/after-but-no-in-flight family), predictive-construction-void (cognitive-penetration / constitution face; added at the existing duck-rabbit bullet), non-human-minds-as-void-explorers (Friedland AI aspect-blindness as comparative probe), suspension-void / vagueness-void / imagery-void (conjunction-coalesce three-faces-one-seam family lists, which omitted aspect-perception despite its reciprocal claim of kinship), mapping-mind-space (aspect-blindness is the perceptual-scale inverse of the mind-space survey asymmetry — load-bearing).
+  - **Frontmatter-only reciprocity (genuine adjacency, no load-bearing body site): 3** — witnessing-void (seeing-as vs awareness-as-act; body engages neither), agency-void (volitional-engagement-without-traction contact, but densely organized around its own verification/control family), edge-states-and-void-probes (edge-phenomenology hub; aspect-perception's flicker/surprise-at-the-switch is a genuine instance).
+  - **Reciprocity inappropriate — flagged, no link: 2** — apophatic-cartography (method hub; cites representative appliers, not every void using the method), three-kinds-of-void (taxonomy hub; cites a curated exemplar set per category — adding aspect-perception would be decorative).
+- **Constraints honoured**: length-neutral (~190 words added across 8 body edits); each installed link does real referential work; no possibility/probability slippage; no "not X but Y" cliché; voids absorption-over-proliferation discipline preserved (links mark genuine structural contact, do not blur void boundaries); aspect-perception-void.md NOT edited.
+- **Verification**: `scripts/sync.py` exit 0; all new `[[aspect-perception-void]]` links resolve; no new broken-wikilink warnings introduced.
+- **ai_modified updated on**: 11 edited files.
+- **Published**: yes
 
 ## 2026-05-29T00:00:00+00:00 - deep-review
 - **Status**: Success
