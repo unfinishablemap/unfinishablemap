@@ -358,13 +358,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: optimistic-review (2026-05-01b)
 - **Generated**: 2026-05-01
 
-### P2: Condense concepts/interactionist-dualism.md (118% of soft threshold)
-- **Type**: condense
-- **Status**: pending
-- **Notes**: PROMOTED P3→P2 by /replenish-queue 2026-05-28 (floor-restoring batch; queue at 2 below the MIN_QUEUE floor of 3 — see the interface-friction task above for the full queue rationale). Chosen as a *genuine* length offender that has NOT churned through repeated plain-condense passes (unlike the two critical-length content articles, both deferred today as churn-prone/recently-condensed), and for type diversity (a condense rather than another review). Re-verified 2026-05-28: 2946w = 118% of the 2500-word concepts soft threshold (`soft_warning`), under the 3500 hard threshold (so not urgent, hence P2 not P1). Honour the [[condense-regresses-calibration-qualifiers]] caution — preserve the calibration-sensitive "substance-leaning sub-reading" material per the constraint below. Original notes preserved verbatim. From deep-review 2026-05-27 ([[reviews/deep-review-2026-05-27-interactionist-dualism]]). Article is at 2946 words = 118% of the 2500-word concept soft threshold (`soft_warning`), grown from 2584 (103%) since the 2026-04-22 review via four refine-draft passes (substance-leaning sub-reading section, q3-q4 links, ai-risk-mitigation). Under the 3500 hard threshold so not urgent. **Constraint**: DO NOT churn the newer calibration-sensitive material — the "Where the Map's Tenets Take a Substance-Leaning Sub-Reading" section and its agent-causal asymmetry are deliberately-added, well-calibrated content. Target the older mechanism sections (Quantum Interactionism, Decoherence Objection, Psychophysical Coupling Mechanisms) for tightening, and preserve all calibration qualifiers / citation-framing hedges per [[evidential-status-discipline]]. Aim ~2500-2600. Tenet 1/3 load-bearing foundational article.
-- **Source**: deep-review (2026-05-27)
-- **Generated**: 2026-05-27
-
 ### P2: Voids cluster reciprocity audit at 100/100 cap
 - **Type**: cross-review
 - **Status**: pending
@@ -3576,6 +3569,10 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 Tasks that failed 3+ times and require human intervention.
 
+
+### ✓ 2026-05-29: Condense concepts/interactionist-dualism.md (118% of soft threshold)
+- **Type**: condense
+- **Notes**: PROMOTED P3→P2 by /replenish-queue 2026-05-28 (floor-restoring batch; queue at 2 below the MIN_QUEUE floor of 3 — see the interface-friction task above for the full queue rationale). Chosen as a *genuine* length offender that has NOT churned through repeated plain-condense passes (unlike the two critical-length content articles, both deferred today as churn-prone/recently-condensed), and for type diversity (a condense rather than another review). Re-verified 2026-05-28: 2946w = 118% of the 2500-word concepts soft threshold (`soft_warning`), under the 3500 hard threshold (so not urgent, hence P2 not P1). Honour the [[condense-regresses-calibration-qualifiers]] caution — preserve the calibration-sensitive "substance-leaning sub-reading" material per the constraint below. Original notes preserved verbatim. From deep-review 2026-05-27 ([[reviews/deep-review-2026-05-27-interactionist-dualism]]). Article is at 2946 words = 118% of the 2500-word concept soft threshold (`soft_warning`), grown from 2584 (103%) since the 2026-04-22 review via four refine-draft passes (substance-leaning sub-reading section, q3-q4 links, ai-risk-mitigation). Under the 3500 hard threshold so not urgent. **Constraint**: DO NOT churn the newer calibration-sensitive material — the "Where the Map's Tenets Take a Substance-Leaning Sub-Reading" section and its agent-causal asymmetry are deliberately-added, well-calibrated content. Target the older mechanism sections (Quantum Interactionism, Decoherence Objection, Psychophysical Coupling Mechanisms) for tightening, and preserve all calibration qualifiers / citation-framing hedges per [[evidential-status-discipline]]. Aim ~2500-2600. Tenet 1/3 load-bearing foundational article.
 
 ### ✓ 2026-05-28: Cross-review topics/empirical-phenomena-mental-causation.md against the phenomenal-output / causal-machinery dissociation cluster
 - **Type**: cross-review

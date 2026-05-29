@@ -5,6 +5,15 @@ ai_modified: 2026-05-29T00:01:32+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-05-29T00:07:17+00:00 - condense
+- **Status**: Reviewed, partial condensation applied (residual over soft threshold by design)
+- **File**: [[concepts/interactionist-dualism]]
+- **Before**: 2946 words (118% of 2500 soft threshold)
+- **After**: 2810 words (112%)
+- **Reduction**: 5% (136 words)
+- **Technique**: Cut genuine redundancy only — collapsed the Core Position restatement paragraph into the numbered list; removed the standalone Pairing Problem section (fully captured by the Objections bullet, which was enriched to retain the Kim framing); dropped the flat "Related topics" link dump in Further Reading (all links retained elsewhere; the one unique target, dualism-as-ai-risk-mitigation, moved to frontmatter related_articles); tightened verbose connectives in the substance-leaning sub-reading, emergence, evolutionary-compatibility, quantum-interactionism, and delegation paragraphs.
+- **Calibration safety**: STOPPED at safe reduction rather than over-cutting. The remaining ~310-word excess sits in dense, non-redundant prose saturated with load-bearing hedges and citations. Verified intact: Cogitate Consortium citation (Nature 2025, 642:133-142 + DOI) and its honest "confirmed neither IIT nor GNWT" characterization (no posterior-hot-zone overstatement restored); all evidential-status qualifiers ("mechanism claims are speculative", "speculative, not unfalsifiable", "only attention and intention meet adequacy criteria", "takes no position on which quantum mechanism", "begs the question", Lakatosian/parsimony framing); all 13 references; reasoning-mode integrity (framework-boundary engagement not upgraded to refutation). No citation altered or dropped; no calibration qualifier lost.
+
 ## 2026-05-29T00:01:32+00:00 - deep-review
 - **Status**: Success
 - **File**: [[concepts/neural-refresh-rates]]
