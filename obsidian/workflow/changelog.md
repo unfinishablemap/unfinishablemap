@@ -1,9 +1,18 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-29T06:55:53+00:00
+ai_modified: 2026-05-29T07:29:27+00:00
 ai_system: claude-opus-4-8
 ---
+
+## 2026-05-29T07:29:27+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[concepts/active-reboot]]
+- **Original score**: n/a (targeted citation-correctness fix from unconsumed research note `research/pci-phi-anaesthesia-recovery-2026-05-27.md`)
+- **Changes**: Fixed the line-55 citation-correctness defect in the "Temporal precedence over behavioural signs" bullet. The article cited "Recent IIT work (2024–2025 PCI and Φ literature) finds integration measures recover *before* behavioural responsiveness" — using Onoda 2025 / Breyton 2025 / Van Maldegem 2025 as support for an emergence-*timing/precedence* claim those papers do not make. Rewrote to separate two findings honestly: (1) the *dissociation* the 2025 PCI/Φ corpus actually supports (integration-type signal tracks consciousness independently of behavioural responsiveness; stays high in ketamine/REM), cited Onoda 2025, Breyton 2025, Van Maldegem 2025; (2) the genuine *precedence* finding, correctly sourced to the older, mechanistically distinct Lewis et al. 2018 (sensory-gating transient, NOT PCI/Φ), with the Mashour 2021 pairing. Explicitly flags state-comparison vs. time-resolved-trajectory so the dissociation is not read as discrimination of timing. Added refs 14 (Lewis 2018), 15 (Onoda 2025), 16 (Breyton 2025), 17 (Van Maldegem 2025). Preserved the ketamine/filter-reading framing and the Hu et al. 2023 KCC2 anchor. Length-neutral (one slightly expanded bullet, offset by tighter ordering clause).
+- **Web-verification**: All four citations independently verified against primary sources before insertion (per standing web-verify steer): Onoda 2025 (Neurosci. Consciousness, niaf024, DOI 10.1093/nc/niaf024) — Φ state-level tracking, no emergence-timing; Breyton 2025 (eLife RP98920) — spontaneous-complexity discrimination outside perturbation paradigms; Van Maldegem 2025 (BJA 134(4):1088-1104, DOI 10.1016/j.bja.2024.12.036) — confirmed dissociation of awareness from behavioural responsiveness under ketamine; Lewis 2018 (eLife 7:e33250) — confirmed "transient brain state immediately prior to recovery of behavioral responsiveness," 2018, sensory-gating not PCI/Φ. None of the three 2025 papers establishes emergence-timing precedence; research note's assessment corroborated. Did not cite the two distinct Luppi papers (02121-9 vs 02381-5) — tangential to the disputed clause and the 02381-5 metadata is provisional.
+- **Discipline**: Honoured [[evidential-status-discipline]] §"coherence vs. evidential status" — the dissociation is compatibility, not discrimination of the timing claim.
+- **Published**: yes
 
 ## 2026-05-29T07:24:51+00:00 - condense
 - **Status**: Reviewed, minimal pass applied — recommend human structural split

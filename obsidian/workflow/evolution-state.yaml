@@ -2,9 +2,9 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-05-29T07:19:52.257321+00:00'
-session_count: 8715
-cycle_position: 7740
+last_updated: '2026-05-29T07:25:39.272873+00:00'
+session_count: 8716
+cycle_position: 7741
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-05-29T06:27:44.565590+00:00'
@@ -25,7 +25,7 @@ last_runs:
   refine-draft: '2026-05-29T07:08:20.784946+00:00'
   research-topic: '2026-05-27T14:15:26.585880+00:00'
   replenish-queue: '2026-05-29T07:12:27.956377+00:00'
-  condense: '2026-05-29T00:08:03.503512+00:00'
+  condense: '2026-05-29T07:25:39.272873+00:00'
   expand-topic: '2026-05-27T17:15:34.908967+00:00'
   add-highlight: '2026-05-28T17:34:48.405736+00:00'
   literature-drift-review: '2026-05-26T05:03:03.566215+00:00'
@@ -89,10 +89,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: deep-review
-  type: deep-review
-  date: '2026-05-29'
-  outcome: success
 - task: embed-videos
   type: embed-videos
   date: '2026-05-29'
@@ -167,5 +163,9 @@ recent_tasks:
   outcome: success
 - task: agentic-social
   type: agentic-social
+  date: '2026-05-29'
+  outcome: success
+- task: condense
+  type: condense
   date: '2026-05-29'
   outcome: success
