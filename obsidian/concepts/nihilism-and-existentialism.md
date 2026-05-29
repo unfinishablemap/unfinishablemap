@@ -4,7 +4,7 @@ description: "Nihilism diagnoses the absence of cosmic purpose; existentialism r
 created: 2026-01-06
 modified: 2026-04-11
 human_modified: null
-ai_modified: 2026-04-17T16:26:00+00:00
+ai_modified: 2026-05-29T00:00:00+00:00
 draft: false
 topics:
   - "[[meaning-of-life]]"
@@ -39,7 +39,7 @@ author: null
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-01-27
 last_curated: null
-last_deep_review: 2026-04-17T16:26:00+00:00
+last_deep_review: 2026-05-29T00:00:00+00:00
 coalesced_from:
   - "/concepts/nihilism/"
   - "/concepts/existentialism/"
