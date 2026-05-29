@@ -4,7 +4,7 @@ description: "Three independent grain mismatches—spatial, temporal, informatio
 created: 2026-04-07
 modified: 2026-04-07
 human_modified:
-ai_modified: 2026-04-19T01:38:00+00:00
+ai_modified: 2026-05-29T00:19:38+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -25,10 +25,10 @@ related_articles:
   - "[[the-binding-problem]]"
 ai_contribution: 100
 author:
-ai_system: claude-opus-4-7
+ai_system: claude-opus-4-8
 ai_generated_date: 2026-04-07
 last_curated:
-last_deep_review: 2026-04-19T01:38:00+00:00
+last_deep_review: 2026-05-29T00:19:38+00:00
 ---
 
 The [[grain-mismatch|grain mismatch]] is usually presented as a single philosophical argument: Sellars showed that phenomenal homogeneity and neural discreteness are structurally incompatible, therefore identity physicalism fails for these property pairs. The Unfinishable Map proposes something stronger. The grain mismatch is not one argument but three independent lines of structural evidence — spatial, temporal, and informational — each arising from different empirical domains, relying on different measurements, and generating different testable predictions. Their convergence constitutes an evidence programme rather than a conceivability exercise. If any single mismatch were resolved, the other two would remain. If all three were independently dissolved, dualism would lose one of its most direct structural supports.
@@ -51,7 +51,7 @@ Andrew Lee's introspective opacity finding applies with equal force here: we can
 
 ### Informational Grain
 
-The brain processes roughly 10⁹ bits per second. Conscious declarative throughput — the rate at which reportable decisions resolve — runs at approximately 10 bits per second, a compression ratio of 100 million to one. This is not a rough estimate but a Shannon-calibrated measurement that has held across roughly seven decades of work and radically different tasks, from 1952 choice-reaction experiments through typing, gaming, and speedcubing (Zheng & Meister 2025; see [[bandwidth-of-consciousness|the bandwidth of consciousness]] for the measurement history). The mismatch is informational: the grain of conscious content is eight orders of magnitude coarser than the grain of neural computation.
+The sensory periphery delivers information to the brain at roughly 10⁹ bits per second. Conscious declarative throughput — the rate at which reportable decisions resolve — runs at approximately 10 bits per second, a compression ratio of 100 million to one. This is not a rough estimate but a Shannon-calibrated measurement that has held across roughly seven decades of work and radically different tasks, from 1952 choice-reaction experiments through typing, gaming, and speedcubing (Zheng & Meister 2025; see [[bandwidth-of-consciousness|the bandwidth of consciousness]] for the measurement history). The mismatch is informational: the grain of conscious content is eight orders of magnitude coarser than the grain of neural computation.
 
 This third mismatch is independent of the first two. Even if phenomenal space were somehow discrete (dissolving the spatial mismatch) and phenomenal time were somehow periodic (dissolving the temporal mismatch), the informational compression ratio would remain. Consciousness would still operate at a radically different informational grain from its neural substrate.
 
@@ -63,7 +63,9 @@ Any single grain mismatch might be explained away. The spatial mismatch might re
 
 What resists easy dissolution is the convergence. Three independent domains — space, time, information — each exhibit a structural incompatibility between phenomenal properties and neural properties. Each mismatch was discovered through different empirical methods (neuroanatomy, oscillation measurement, information-theoretic analysis). Each requires a different physicalist response. And each would need to be resolved *independently* for the overall evidence programme to fail.
 
-This convergence pattern is characteristic of genuine phenomena rather than conceptual artefacts. When multiple independent measurements point to the same structural feature, the probability of all being systematically misleading is multiplicatively low. The grain mismatch programme resembles the convergence of evidence for continental drift — geological, palaeontological, and geomagnetic data were individually contestable but jointly decisive. The Map does not claim the grain evidence is yet at that level of decisiveness, but it does claim the structural parallel is instructive.
+This convergence pattern is characteristic of genuine phenomena rather than conceptual artefacts. When multiple genuinely independent measurements point to the same structural feature, the probability of all being systematically misleading is multiplicatively low. The grain mismatch programme resembles the convergence of evidence for continental drift — geological, palaeontological, and geomagnetic data were individually contestable but jointly decisive. The Map does not claim the grain evidence is yet at that level of decisiveness, but it does claim the structural parallel is instructive.
+
+The multiplicative inference depends on the mismatches being genuinely independent rather than three facets of a single underlying fact — and this is where the programme must be careful. A physicalist could object that homogeneity, smoothness, and informational coarseness are not three separate observations but three descriptions of one feature: the felt unity of consciousness. If so, the three mismatches share a common cause, and their agreement no longer multiplies the way independent measurements do. The programme's reply is that the *explananda* are distinct even if the *explanandum* of consciousness is one. Spatial homogeneity is measured by neuroanatomy, temporal smoothness by oscillation studies, informational coarseness by Shannon-calibrated behaviour; each could in principle be dissolved while the others stood, and a physicalist mechanism that resolved one (say, a continuous electromagnetic correlate for spatial homogeneity) would leave the informational compression ratio untouched. Independence at the level of *what could falsify each claim* is what the multiplicative reasoning requires, and that independence survives even if all three trace to the unity of experience. The honest residue is that the programme cannot yet quantify how much the common phenomenal source discounts the convergence — only that the mismatches are not redundant.
 
 ## Testable Predictions
 

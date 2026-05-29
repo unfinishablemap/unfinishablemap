@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-19
-ai_modified: 2026-05-19 17:47:35+00:00
+ai_modified: 2026-05-28 23:22:00+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -29,7 +29,7 @@ description: Perception is where consciousness meets the world. Dissociations, p
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-04-18 07:04:00+00:00
+last_deep_review: 2026-05-28 23:22:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -72,7 +72,7 @@ The [blur paradox](/topics/perceptual-failure-and-the-interface/) sharpens this 
 
 The most revealing evidence comes from cases where perceptual processing occurs without perceptual consciousness.
 
-**Blindsight** is the landmark case. Patients with damage to primary visual cortex (V1) can discriminate visual stimuli — locating lights, detecting motion, even reading emotional expressions — while sincerely reporting no visual experience (Weiskrantz, 1986). The physical processing is intact. Information travels through subcortical pathways and reaches decision systems. Behaviour is guided. But there is nothing it is like to see.
+**Blindsight** is the landmark case. Patients with damage to primary visual cortex (V1) can discriminate visual stimuli — locating lights, detecting motion, distinguishing simple shapes and orientations — while sincerely reporting no visual experience (Weiskrantz, 1986). Later work extended the dissociation to higher-level content: patient GY could discriminate facial emotional expressions presented to his blind field above chance, a phenomenon termed *affective blindsight* (de Gelder, Vroomen, Pourtois, & Weiskrantz, 1999). The physical processing is intact: information travels through subcortical pathways, reaches decision systems, and guides behaviour. But there is nothing it is like to see.
 
 **Inattentional blindness** reveals a different dissociation. In Simons and Chabris's 1999 experiment, observers counting basketball passes fail to notice a person in a gorilla suit walking through the scene. The retinal image is processed but does not become [phenomenally conscious](/concepts/phenomenal-consciousness/).
 
@@ -196,6 +196,7 @@ The Map's [tenets](/tenets/) find their sharpest expression in perception.
 1. Block, N. (2007). "Consciousness, Accessibility, and the Mesh between Psychology and Neuroscience." *Behavioral and Brain Sciences*, 30(5-6), 481-499.
 1. Chalmers, D. (1996). *The Conscious Mind*. Oxford University Press.
 1. Clark, A. (2013). "Whatever Next? Predictive Brains, Situated Agents, and the Future of Cognitive Science." *Behavioral and Brain Sciences*, 36(3), 181-204.
+1. de Gelder, B., Vroomen, J., Pourtois, G., & Weiskrantz, L. (1999). "Non-conscious Recognition of Affect in the Absence of Striate Cortex." *NeuroReport*, 10(18), 3759-3763.
 1. Husserl, E. (1913/1982). *Ideas Pertaining to a Pure Phenomenology and to a Phenomenological Philosophy*. Trans. F. Kersten. Martinus Nijhoff.
 1. Jackson, F. (1982). "Epiphenomenal Qualia." *Philosophical Quarterly*, 32(127), 127-136.
 1. Marcel, A. J. (1983). "Conscious and Unconscious Perception: Experiments on Visual Masking and Word Recognition." *Cognitive Psychology*, 15(2), 197-237.

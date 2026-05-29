@@ -5,6 +5,18 @@ ai_modified: 2026-05-29T00:01:32+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-05-29T00:19:38+00:00 - deep-review
+- **Status**: Success
+- **File**: [[topics/grain-mismatch-as-independent-evidence]]
+- **Word count**: 1883 → 2087 (+204)
+- **Critical issues addressed**: 0 (fourth review; converged — none found)
+- **Medium issues addressed**: 2 — (1) **common-cause/convergence-independence** (the central calibration risk per standing guidance): the titular independence claim did not confront the strongest in-framework objection — that spatial homogeneity, temporal smoothness, and informational coarseness may be three facets of one fact (felt unity of consciousness), sharing a common cause that defeats multiplicative reasoning. Added a paragraph distinguishing distinct *explananda* (separately measurable/falsifiable) from the single *explanandum* of consciousness, with an honest unquantified residue. No evidential-tier inflation. (2) **`10⁹` framing precision**: "The brain processes roughly 10⁹ bits per second" → "The sensory periphery delivers information to the brain at roughly 10⁹ bits per second" (10⁹ is peripheral delivery, not total neural processing; matches the 05-26 sibling concept-page fix). Compression arithmetic (10⁸ = "100 million" = "eight orders") internally consistent, unaffected.
+- **Citation-currency pass**: Zheng & Meister (2025) *Neuron* 113(2):192–204 confirmed corpus-normalized (no stale 2024/wrong-volume form); VanRullen 2016, Sellars 1965/1971, Lee 2023, Bechtel & Mundale 1999, Sauerbrei & Pruszynski 2025 metadata + source-conclusion verified. Sauerbrei vol/pages (28:1365–1366) omitted in article — minor, left as-is.
+- **Reasoning-mode**: new common-cause engagement is Mode One (objection defective on its own terms — conflates falsification conditions with shared explanandum) + honest Mode Three residue. No label leakage.
+- **Cross-links**: all resolve; 4 inbound reciprocating links. the-ten-bit-ceiling link (added 04-19) correctly gone after article rework; target archived; no dangling reference.
+- **Length**: 70% of 3000 soft threshold; standard mode.
+- **Output**: [[reviews/deep-review-2026-05-29-grain-mismatch-as-independent-evidence]]
+
 ## 2026-05-29T00:07:17+00:00 - condense
 - **Status**: Reviewed, partial condensation applied (residual over soft threshold by design)
 - **File**: [[concepts/interactionist-dualism]]

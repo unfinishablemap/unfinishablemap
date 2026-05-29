@@ -1,12 +1,13 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-31
-ai_modified: 2026-05-19 21:30:00+00:00
+ai_modified: 2026-05-28 23:50:08+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
 - '[[attention-as-interface]]'
 - '[[mental-effort]]'
+- '[[interface-friction]]'
 - '[[agent-causation]]'
 - '[[concepts/consciousness-selecting-neural-patterns]]'
 - '[[meditation-and-consciousness-modes]]'
@@ -64,7 +65,7 @@ The [attention-as-interface](/concepts/attention-as-interface/) article develops
 
 Consider the constraints:
 
-**Bandwidth limits**: Conscious processing operates at ~10 bits/second while unconscious processing handles millions. This extreme asymmetry means consciousness can only influence coarse-grained patterns, not fine-grained neural events.
+**Bandwidth limits**: Conscious processing operates at ~10 bits/second while unconscious processing handles millions. This extreme asymmetry means consciousness can only influence coarse-grained patterns, not fine-grained neural events. The scarcity that makes attention economically tradeable is, on the Map's reading, downstream of [interface friction](/concepts/interface-friction/): attention is finite because the mind-brain channel has finite capacity and holding selections against the brain's default dynamics costs sustained expenditure. Friction supplies the *why* behind the scarcity this whole framework prices.
 
 **Temporal structure**: The [quantum Zeno effect](/concepts/quantum-consciousness/#quantum-zeno-effect-stapp)—if it's the mechanism—requires *sustained* observation to stabilise patterns. Brief attention produces minimal effect; sustained attention produces neuroplasticity. This temporal requirement gives attention its economic character: time invested matters.
 

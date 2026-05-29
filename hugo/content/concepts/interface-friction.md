@@ -31,6 +31,7 @@ related_articles:
 - '[[causal-interface]]'
 - '[[embodied-consciousness]]'
 - '[[phenomenology-of-agency-vs-passivity]]'
+- '[[empirical-phenomena-mental-causation]]'
 title: Interface Friction
 topics:
 - '[[hard-problem-of-consciousness]]'
@@ -75,6 +76,8 @@ Sustaining conscious influence requires [effort](/concepts/mental-effort/). The 
 A tension exists between the bandwidth limitation (tens of bits per second) and the observation rate the quantum Zeno effect would require (potentially far faster than conscious deliberation). One resolution: the observations that sustain Zeno stabilisation need not be individually conscious. Consciousness may set the *target* pattern at low bandwidth while a sub-personal coupling mechanism sustains the high-frequency observations. The felt effort of concentration would then reflect the cost of maintaining this target specification against competing demands, not the cost of each individual quantum observation.
 
 [Attentional economics](/concepts/attentional-economics/) treats this cost seriously. Attention is a scarce resource because the interface channel is narrow and maintaining selection against the brain's default dynamics is effortful. Interface friction explains *why* attention is scarce: the mind-brain channel has finite capacity and maintaining influence through it requires sustained expenditure.
+
+Friction also has a destructive face the friction-as-cost framing alone does not capture. The choking phenomenon — where conscious self-monitoring degrades automatised skill ([placebo and choking](/topics/empirical-phenomena-mental-causation/)) — shows the interface re-engaging where re-engagement is inappropriate: forcing low-bandwidth conscious selection back into a channel the brain had learned to run without it. The cost there is not merely effortful expenditure but active interference, an empirical signature of the same finite, imperfectly coupled channel.
 
 ## Friction as Interpretive Framework
 

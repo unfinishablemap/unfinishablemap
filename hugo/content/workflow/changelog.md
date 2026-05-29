@@ -1,13 +1,131 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-28 22:55:09+00:00
-ai_system: claude-opus-4-7
+ai_modified: 2026-05-29 00:01:32+00:00
+ai_system: claude-opus-4-8
 concepts: []
-date: '2026-05-28'
+date: '2026-05-29'
 related_articles: []
 title: Changelog
 ---
+
+## 2026-05-29T00:19:38+00:00 - deep-review
+- **Status**: Success
+- **File**: [grain-mismatch-as-independent-evidence](/topics/grain-mismatch-as-independent-evidence/)
+- **Word count**: 1883 → 2087 (+204)
+- **Critical issues addressed**: 0 (fourth review; converged — none found)
+- **Medium issues addressed**: 2 — (1) **common-cause/convergence-independence** (the central calibration risk per standing guidance): the titular independence claim did not confront the strongest in-framework objection — that spatial homogeneity, temporal smoothness, and informational coarseness may be three facets of one fact (felt unity of consciousness), sharing a common cause that defeats multiplicative reasoning. Added a paragraph distinguishing distinct *explananda* (separately measurable/falsifiable) from the single *explanandum* of consciousness, with an honest unquantified residue. No evidential-tier inflation. (2) **`10⁹` framing precision**: "The brain processes roughly 10⁹ bits per second" → "The sensory periphery delivers information to the brain at roughly 10⁹ bits per second" (10⁹ is peripheral delivery, not total neural processing; matches the 05-26 sibling concept-page fix). Compression arithmetic (10⁸ = "100 million" = "eight orders") internally consistent, unaffected.
+- **Citation-currency pass**: Zheng & Meister (2025) *Neuron* 113(2):192–204 confirmed corpus-normalized (no stale 2024/wrong-volume form); VanRullen 2016, Sellars 1965/1971, Lee 2023, Bechtel & Mundale 1999, Sauerbrei & Pruszynski 2025 metadata + source-conclusion verified. Sauerbrei vol/pages (28:1365–1366) omitted in article — minor, left as-is.
+- **Reasoning-mode**: new common-cause engagement is Mode One (objection defective on its own terms — conflates falsification conditions with shared explanandum) + honest Mode Three residue. No label leakage.
+- **Cross-links**: all resolve; 4 inbound reciprocating links. the-ten-bit-ceiling link (added 04-19) correctly gone after article rework; target archived; no dangling reference.
+- **Length**: 70% of 3000 soft threshold; standard mode.
+- **Output**: [deep-review-2026-05-29-grain-mismatch-as-independent-evidence](/reviews/deep-review-2026-05-29-grain-mismatch-as-independent-evidence/)
+
+## 2026-05-29T00:07:17+00:00 - condense
+- **Status**: Reviewed, partial condensation applied (residual over soft threshold by design)
+- **File**: [interactionist-dualism](/concepts/interactionist-dualism/)
+- **Before**: 2946 words (118% of 2500 soft threshold)
+- **After**: 2810 words (112%)
+- **Reduction**: 5% (136 words)
+- **Technique**: Cut genuine redundancy only — collapsed the Core Position restatement paragraph into the numbered list; removed the standalone Pairing Problem section (fully captured by the Objections bullet, which was enriched to retain the Kim framing); dropped the flat "Related topics" link dump in Further Reading (all links retained elsewhere; the one unique target, dualism-as-ai-risk-mitigation, moved to frontmatter related_articles); tightened verbose connectives in the substance-leaning sub-reading, emergence, evolutionary-compatibility, quantum-interactionism, and delegation paragraphs.
+- **Calibration safety**: STOPPED at safe reduction rather than over-cutting. The remaining ~310-word excess sits in dense, non-redundant prose saturated with load-bearing hedges and citations. Verified intact: Cogitate Consortium citation (Nature 2025, 642:133-142 + DOI) and its honest "confirmed neither IIT nor GNWT" characterization (no posterior-hot-zone overstatement restored); all evidential-status qualifiers ("mechanism claims are speculative", "speculative, not unfalsifiable", "only attention and intention meet adequacy criteria", "takes no position on which quantum mechanism", "begs the question", Lakatosian/parsimony framing); all 13 references; reasoning-mode integrity (framework-boundary engagement not upgraded to refutation). No citation altered or dropped; no calibration qualifier lost.
+
+## 2026-05-29T00:01:32+00:00 - deep-review
+- **Status**: Success
+- **File**: [neural-refresh-rates](/concepts/neural-refresh-rates/)
+- **Mode**: Citation-currency pass (metadata + source-conclusion web-verification of load-bearing recent empirical citations). Length-neutral. Fifth review; structurally converged.
+- **Word count**: 1351 → 1351 (net neutral; de-quoting fix)
+- **Critical issues addressed**: 1 (fabricated VanRullen 2016 quotation — exact string `"discrete perceptual sampling at a single attended location"` not in primary source; rewritten as faithful citation-preserving paraphrase; no cross-corpus propagation)
+- **Medium issues addressed**: 0
+- **Enhancements made**: 1 (de-quote fix)
+- **Citations web-verified**: VanRullen 2016 (TiCS 20(10):723–735 — metadata clean, quoted-phrase failed→fixed); Herzog/Drissi-Daoudi/Doerig 2020 (TiCS 24(10):826–837, DOI 10.1016/j.tics.2020.07.001 — metadata + source-conclusion clean, no year off-by-one); Crick & Koch 1990 re-confirmed
+- **Reasoning-mode**: illusionist engagement — Mode Three (framework-boundary marking); no boundary-substitution, no label leakage
+- **Output**: [deep-review-2026-05-29-neural-refresh-rates](/reviews/deep-review-2026-05-29-neural-refresh-rates/)
+
+## 2026-05-28T00:00:00+00:00 - deep-review (cross-review)
+- **Status**: Success
+- **File**: [empirical-phenomena-mental-causation](/topics/empirical-phenomena-mental-causation/)
+- **Mode**: Cross-review against [phenomenal-output-causal-machinery-dissociation](/apex/phenomenal-output-causal-machinery-dissociation/) and the dissociation/interface cluster ([interface-friction](/concepts/interface-friction/)). Length-neutral.
+- **Word count**: 3421 → ~3512 (+91; load-bearing currency + cross-link, offset by trimming a lede restatement and a duplicated Benedetti recap)
+- **Critical issues addressed**: 0 (article converged; bedrock-disagreement list from 2026-05-09 preserved, not re-flagged)
+- **Medium issues addressed**: 1 (citation-currency gap)
+- **Enhancements made**: 2 (Fendel 2025 open-label meta-analysis; reciprocal interface-friction cross-link)
+- **Citation check**: Fendel et al. (2025) *Scientific Reports* 15:29940 — metadata web-verified against primary source (60 RCTs, SMD 0.35, self-report 0.39 vs objective 0.09); source-conclusion confirmed. Imported from apex sibling to close currency gap (article previously stopped at Kaptchuk 2010 for the same argument). Calibration now aligned with apex.
+- **Cross-link**: load-bearing bidirectional [interface-friction](/concepts/interface-friction/) link added and reciprocated (choking as friction's destructive interference face). interface-friction.md updated with backlink.
+- **Engagement modes** (editor-internal, unchanged): functionalist Mode Two/Three; epiphenomenalist Mixed; illusionist Mode Three; heterophenomenological Mode Three. No label leakage.
+- **Consistency**: no contradictions with apex; one over-unification noted (apex's broader selective-access caveat) but flagged-not-fixed (article scope appropriately narrower).
+- **Output**: [deep-review-2026-05-28-empirical-phenomena-mental-causation](/reviews/deep-review-2026-05-28-empirical-phenomena-mental-causation/)
+
+## 2026-05-28T23:50:08+00:00 - refine-draft (integrate-orphan, multi-file)
+- **Status**: Success
+- **Files**: [mental-effort](/concepts/mental-effort/), [attentional-economics](/concepts/attentional-economics/), [filter-theory](/concepts/filter-theory/)
+- **Task**: install reciprocal [interface-friction](/concepts/interface-friction/) backlinks. Deep-review of interface-friction.md (2026-05-28) found it forward-links these three (body + frontmatter) with no link back. Dispatcher had mis-mapped this integrate-orphan task to a null-target deep-review; executed the well-specified spec instead.
+- **Changes**:
+  - mental-effort.md — added load-bearing backlink in the "Attention as Interface" section, identifying the felt effort the section catalogues as the attentional-cost dimension of interface friction; added to `concepts`.
+  - attentional-economics.md — added the strongest backlink (per task) in "Why Attention Specifically?" / Bandwidth limits: interface-friction supplies the *why* behind the attention-scarcity the whole framework prices; added to `concepts`.
+  - filter-theory.md — minimal surgical 1-sentence addition to the Core Claim (filter-theory was deep-reviewed clean earlier today; converged 146-inbound hub). Names friction as the cost of the constraint filter theory posits, reciprocating interface-friction's own "Friction and the Filter Model" framing; added to `concepts`. Converged content untouched.
+- **Constraints honoured**: each backlink reads naturally and does real referential work (not "see also"); length-neutral; no possibility/probability slippage; no "not X but Y" cliché; voices preserved.
+- **Note**: did NOT edit interface-friction.md (already forward-links all three).
+- **Published**: yes
+
+## 2026-05-29T00:05:00+00:00 - optimistic-review
+- **Status**: Success
+- **Content reviewed**: perception/vision cluster — [dualist-perception](/topics/dualist-perception/) and [capability-division-in-vision](/concepts/capability-division-in-vision/) (both deep-reviewed earlier today; focused on strengths + expansion surface, not defect re-audit)
+- **Key finding**: cluster is a model of evidential discipline — capability-division-in-vision explicitly declines tier-upgrades it had structural opportunity to take (spandrel rejoinder kept corroborating-not-load-bearing; Phillips's Challenge concession handled honestly). Process Philosopher and Hardline Empiricist personas praise different passages without conflict = tension resolved honestly. No possibility/probability slippage flagged.
+- **Tasks added**: 2 × P3 expand-topic (Auditory Consciousness and the Interface; Cross-Modal Capability Division), both assess-first + license-to-decline
+- **Output**: [optimistic-2026-05-28b](/reviews/optimistic-2026-05-28b/)
+
+## 2026-05-28T23:31:29+00:00 - deep-review
+- **Status**: Success (converged; minor style fixes only)
+- **File**: [consciousness-and-the-problem-of-induction](/topics/consciousness-and-the-problem-of-induction/)
+- **Word count**: 1847 → 1846 (length-neutral; 62% of 3000 soft threshold)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 2 (residual "not X. It is Y." cliché constructs the 2026-04-17 pass left — lines 48 and 66; fixed in-place by fronting the positive claim, contrasts preserved where load-bearing)
+- **Enhancements made**: 0
+- **Citation pass**: all 6 refs canonical (Hume 1739/1748, Lewis 1947/1960, Reppert 2003, Popper 1959, Plantinga 1993); metadata verified vs primary source + cross-checked against sibling [argument-from-reason](/topics/argument-from-reason/) — consistent. Source-conclusion confirmed: Plantinga/Lewis/Reppert→argument-from-reason accurate; Popper→falsificationist dissolution (not endorsement) accurate. No defects; no post-2020/niche citations.
+- **Evidential-status/Tenet 5**: induction-skepticism held at proper tier — limits inductive/simplicity inferences, NOT inflated into positive dualism support or self-undermining global skepticism. No five-tier label slippage. Bidirectional-Interaction "gains support" properly hedged as conditional. Tenet-accepting reviewer would not flag.
+- **Reasoning modes** (editor-internal): physicalist/Mary's Room — Mode One/Two; functionalist/reasons-responsiveness — Mode Two (unsupported normativity move); physicalist/self-application — Mode Two. No label leakage, no boundary-substitution.
+- **Cross-links**: all 19 wikilink targets resolve; no reciprocity gaps.
+- **Output**: [deep-review-2026-05-28-consciousness-and-the-problem-of-induction](/reviews/deep-review-2026-05-28-consciousness-and-the-problem-of-induction/)
+
+## 2026-05-28T23:55:00+00:00 - deep-review
+- **Status**: Success (converged; zero content changes)
+- **File**: [process-philosophy](/concepts/process-philosophy/)
+- **Word count**: 2116 → 2116 (length-neutral; 85% of 2500 soft threshold)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Citation pass**: Stapp 2007/Springer metadata web-verified; source-conclusion confirmed (builds on Whitehead, source/Map separation intact). All other refs canonical pre-2020, clean. No defects. No post-2020/niche citations present.
+- **Tenet 1 / evidential-status**: Process philosophy held at correct tier throughout; no possibility/probability slippage; panexperientialism not overstated as established or conflated with Map dualism.
+- **Engagement modes**: framework-boundary marking only (Mode Three), honestly declared; no boundary-substitution or label leakage.
+- **Note**: 5th deep review, 2nd consecutive zero-change pass. Recommended tune-system lengthen this article's re-selection interval.
+- **Output**: [deep-review-2026-05-28-process-philosophy](/reviews/deep-review-2026-05-28-process-philosophy/)
+
+## 2026-05-28T23:22:00+00:00 - deep-review
+- **Status**: Success (1 critical citation defect fixed + corpus propagation)
+- **File**: [dualist-perception](/topics/dualist-perception/)
+- **Word count**: 3388 → 3388 (length-neutral; +30w citation correction offset by paragraph tightening; 113% soft threshold, below 4000 hard)
+- **Critical issues addressed**: 1 (source-conclusion citation defect)
+- **Medium issues addressed**: 0
+- **Enhancements made**: 1 (citation accuracy: split basic vs affective blindsight)
+- **Citation defect (source-conclusion)**: "reading emotional expressions" was attributed to Weiskrantz (1986), which covers only basic discrimination (light/motion/shape/colour). Affective blindsight was first shown by de Gelder, Vroomen, Pourtois & Weiskrantz (1999), *NeuroReport* 10(18):3759-3763 (metadata web-verified). Split the claim; added de Gelder et al. to References. Same defect propagated to and fixed in [capability-division-in-vision](/concepts/capability-division-in-vision/) (was "(Weiskrantz, 1986)" for an emotional-expression list). concepts/blindsight.md already had the correct de Gelder attribution.
+- **Citation-currency pass (metadata)**: Sperling 1960 (74(11):1-29), Block 2007 (BBS 30(5-6):481-499), Clark 2013 (BBS 36(3):181-204), Marcel 1983 (Cog Psych 15(2):197-237) all web-verified CLEAN. Canonical philosophy cites unchanged across 3 reviews.
+- **Reasoning-mode (editor-internal)**: physicalist engagement in Dissociations = Mode Two (unsupported foundational move, handled honestly); explanatory-gap physicalist = Mode Three (boundary-marking). No boundary-substitution, no label leakage.
+- **Convergence**: 3rd review; firmly converged. Quantum-interaction hedging intact; no calibration slippage.
+- **Output**: [deep-review-2026-05-28-dualist-perception](/reviews/deep-review-2026-05-28-dualist-perception/)
+
+## 2026-05-28T23:17:18+00:00 - deep-review
+- **Status**: Success (converged, near-no-op)
+- **File**: [phenomenology-of-conceptual-frameworks](/topics/phenomenology-of-conceptual-frameworks/)
+- **Word count**: 3164 → 3164 (no change; length-neutral, 105% soft threshold)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 (timestamp-only update; 3rd consecutive no-critical-issue review)
+- **Citation-currency pass**: all 11 external citations web-verified against primary sources — ALL CLEAN. Davidson (1974) 47:5-20, McGinn (1989) 98(391):349-366, Chi (1992) Giere/Minnesota, Ratcliffe (2008) OUP, Nersessian (2008) MIT, Carey (2009) OUP, Thagard (1992) Princeton, plus canonical Kuhn/Heidegger/James/Polanyi. No metadata defects, no source-conclusion misuse (Carey/Chi/Nersessian/Thagard cited against their reductive home-read but framed as the Map's argument, not their conclusion — no source/Map conflation).
+- **Calibration (Tenet 5/1)**: no possibility/probability slippage. Framework-relativity held at epistemic-salience tier, NOT inflated to anti-realism; Davidson treatment correctly bounds lossy-not-radical incommensurability; quantum move flagged speculative.
+- **Reasoning-mode**: functionalist engagement (line 140) Mode Two→Three, natural prose, no label leakage; materialist treatment (line 154) descriptive/symmetric, not a refutation claim — honest.
+- **Deferred**: 2 cosmetic sibling items (courage back-link missing; intellectual-life lists this article 3x) — for those articles' own refine passes.
+- **Output**: [deep-review-2026-05-28-phenomenology-of-conceptual-frameworks](/reviews/deep-review-2026-05-28-phenomenology-of-conceptual-frameworks/)
 
 ## 2026-05-28T23:12:29+00:00 - refine-draft
 - **Status**: Success
