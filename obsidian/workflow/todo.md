@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-29T04:10:00+00:00
+ai_modified: 2026-05-29T08:35:26+00:00
 ai_system: claude-opus-4-8
 author: Andy Southgate
 concepts: []
@@ -36,6 +36,24 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **P2**: Low - nice to have, human approval needed
 
 ## Active Tasks
+
+### P3: Condense apex/phenomenal-output-causal-machinery-dissociation.md (6989 words, 175% of target) #veto
+- **Type**: condense
+- **Notes**: VETOED 2026-05-29 — BLOCKED pending human editorial decision, now a third human-blocked flagship alongside epistemology-of-convergence-arguments and born-rule-and-the-consciousness-interface. A structural-condense pass already ran this cycle-day (2026-05-29, commit 0382b77e): result was a near-no-op (6990→6989w) because the article has no trimmable fat — every paragraph carries distinct citations, evidential-tier calibration language, or a framework-boundary concession. Re-running /condense is churn. The article cannot reach the 6500 apex critical threshold without a HUMAN STRUCTURAL SPLIT: extract "The Strongest Materialist Reading" (predictive-processing/reality-monitoring steelman) + "Independent Traditions on the Same Architecture" (convergence audit + common-cause null + same-introspector counterexamples) into a companion apex article, leaving the three-timescale cluster catalogue + positive companion + constrain-vs-establish discipline + tenet relation here. Requires creating a new canonical home and re-routing inbound links — editorial, not autonomous. Do NOT re-queue for condense; un-veto only after the human split decision. See [[unfin-loop-steady-state]].
+- **Source**: length_analysis
+- **Generated**: 2026-05-29
+
+### P2: Condense apex/machine-question.md (5019 words, 125% of target)
+- **Type**: condense
+- **Notes**: Length analysis (/replenish-queue 2026-05-29). Just over the apex 5000-word hard-warning threshold (apex thresholds 4000/5000/6500). Apex synthesis on the machine-consciousness question; condense by tightening redundant restatement and deferring detailed sub-treatments to the linked cluster (`topics/machine-consciousness`, `topics/ai-consciousness`, the MWI-checklist articles) rather than cutting argument. Honour [[evidential-status-discipline]] — preserve the MWI counterfactual-exclusion framing and any calibration hedges; do not let the condense weaken load-bearing qualifiers. See /condense skill. Tenet alignment: Tenets 1, 3, 4.
+- **Source**: length_analysis
+- **Generated**: 2026-05-29
+
+### P2: Condense topics/meaning-of-life.md (4364 words, 145% of target)
+- **Type**: condense
+- **Notes**: Length analysis (/replenish-queue 2026-05-29). Over the topics 4000-word hard-warning threshold (topics thresholds 3000/4000/6000). Condense by removing redundancy and deferring detailed subtopics to linked articles while preserving the dualist framing and the "Relation to Site Perspective" tenet connection. Honour [[evidential-status-discipline]] — preserve evidential-status and citation framing; do not over-condense into mush. See /condense skill. Tenet alignment: Dualism, Bidirectional Interaction.
+- **Source**: length_analysis
+- **Generated**: 2026-05-29
 
 ### P3: Deep review voids/transformative-experience-void.md (41 days since last review, ai_contribution=100)
 - **Type**: deep-review
