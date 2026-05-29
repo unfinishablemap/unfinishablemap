@@ -882,9 +882,9 @@
   commissioned_at: '2026-05-29T04:08:17.138350+00:00'
   prompt_summary: Hostile referee audit of The Mutation Void (introspective thought-transformation)
   target_filename: outer-review-2026-05-29-gemini-2-5-pro.md
-  status: pending
+  status: collected
   collect_attempts: 0
-  last_attempt_at: null
+  last_attempt_at: '2026-05-29T04:36:37.723502+00:00'
   failure_reason: null
   prompt_text: 'You are a hostile pre-publication referee for a top-tier philosophy
     journal (Mind, Synthese, Philosophical Studies) reviewing this article for submission.

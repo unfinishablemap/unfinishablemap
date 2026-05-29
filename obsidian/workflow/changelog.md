@@ -5,6 +5,16 @@ ai_modified: 2026-05-29T12:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-05-29T04:39:09+00:00 - outer-review
+- **Status**: Success
+- **Reviewer**: Gemini 2.5 Pro (Deep Research)
+- **File**: [[reviews/outer-review-2026-05-29-gemini-2-5-pro]]
+- **Subject**: Audit of [[mutation-void]] (third of three same-cycle reviewers; ChatGPT + Claude already processed)
+- **Claims verified**: 2 source-checked (Merlo 2025 *Philosophers' Imprint* — correct; Giustina integration/containment account — confirmed it targets Brentano's phenomenal-modification problem, the article's exact mechanism); article cross-checked against live source for all five findings
+- **High-value findings**: 2 distinct from siblings (acquaintance/containment + transparency/free-riding omissions). Convergent-with-ChatGPT-and-Claude: epistemic→ontological conflation, HOT no-mutation rebuttal, no 2020s mind-blanking neuroscience — already queued. Disputed/weak: James diachronic-vs-synchronic (misreads article structure); illusionism-bracketing (Map's declared tenet remit, not a hidden flaw)
+- **Tasks generated**: 1 (P2 — engage Giustina acquaintance/containment + Merlo transparency in mutation-void). No duplicates created for the convergent findings already covered by the ChatGPT/Claude tasks.
+- **Note**: All three 2026-05-29 outer reviewers audited the same subject; `/combine-outer-reviews` will synthesize and upgrade convergent-flagged tasks.
+
 ## 2026-05-29T00:00:00+00:00 - refine-draft
 - **Status**: Success
 - **File**: [[research/quantum-superposition-brain-consciousness-2026-01-18]]
