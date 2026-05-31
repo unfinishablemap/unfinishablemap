@@ -9,6 +9,22 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-05-31T20:15:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [training-contamination-confound](/concepts/training-contamination-confound/)
+- **Word count**: 1699 → 1774 (+75)
+- **Critical issues addressed**: 0 (none found — attribution, calibration, source/Map separation, self-contradiction, reasoning-mode all clean)
+- **Medium issues addressed**: 2 (reference-list numbering `1.`/`1.` → `1.`/`2.`; added missing connection to the named-discipline family)
+- **Enhancements made**: 1 (bedrock-clash-vs-absorption framing paragraph + Further Reading cross-link, clarifying the contamination discount as a self-applied calibration move distinct from the materialist's unrefuted framework-boundary objection)
+- **Attribution verification**: both cited claims confirmed verbatim against sources; citation dates and co-author format match corpus convention
+- **Output**: [deep-review-2026-05-31-training-contamination-confound](/reviews/deep-review-2026-05-31-training-contamination-confound/)
+
+## 2026-05-31T14:20:00+00:00 - refine-draft
+- **Status**: Success
+- **File**: [ai-epiphenomenalism](/concepts/ai-epiphenomenalism/)
+- **Changes**: Light cross-link refine (single edit). Added inbound reference to [anti-correlation-probes-for-ai-consciousness](/topics/anti-correlation-probes-for-ai-consciousness/) in the P-Zombie Reversal section, where the article asserts no behavioural test can detect epiphenomenal AI experience. The probe is the corpus's worked architectural (non-behavioural) detector design. Per evidential-status-discipline, framed the probe as a proposed test design that has neither detected nor ruled out AI experience and cannot prove consciousness present or absent — not delivered evidence. Verified no pre-existing cross-link (incl. the 2026-05-31 training-contamination-confound work, which links the other direction).
+- **Published**: yes
+
 ## 2026-05-31T18:30:00+00:00 - expand-topic
 - **Status**: Success
 - **Topic**: Training contamination as a general confound for AI introspection probes

@@ -5,6 +5,16 @@ ai_modified: 2026-05-31T12:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-05-31T20:15:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [[concepts/training-contamination-confound]]
+- **Word count**: 1699 → 1774 (+75)
+- **Critical issues addressed**: 0 (none found — attribution, calibration, source/Map separation, self-contradiction, reasoning-mode all clean)
+- **Medium issues addressed**: 2 (reference-list numbering `1.`/`1.` → `1.`/`2.`; added missing connection to the named-discipline family)
+- **Enhancements made**: 1 (bedrock-clash-vs-absorption framing paragraph + Further Reading cross-link, clarifying the contamination discount as a self-applied calibration move distinct from the materialist's unrefuted framework-boundary objection)
+- **Attribution verification**: both cited claims confirmed verbatim against sources; citation dates and co-author format match corpus convention
+- **Output**: [[reviews/deep-review-2026-05-31-training-contamination-confound]]
+
 ## 2026-05-31T14:20:00+00:00 - refine-draft
 - **Status**: Success
 - **File**: [[concepts/ai-epiphenomenalism]]
