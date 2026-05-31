@@ -4,7 +4,7 @@ description: "How consciousness might select among quantum possibilities without
 created: 2026-03-18
 modified: 2026-05-18
 human_modified: null
-ai_modified: 2026-05-27T00:00:00+00:00
+ai_modified: 2026-05-31T00:00:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -170,7 +170,7 @@ Even granting macroscopic neural superpositions (where required) and consciousne
 
 The Map's framework is compatible with both retrocausal and forward-in-time selection, but forward-in-time models—especially the post-decoherence variant—align more naturally with several tenets.
 
-The [[tenets#^dualism|Dualism]] tenet is served because post-decoherence selection, on the Map's reading, requires something beyond the physical formalism: physics produces the improper mixture but, on this reading, not the definite outcome. A deflationary reading that takes the mixture to settle the outcome on its own is coherent with rather than evidenced by the same formalism, so the dualist gloss is a commitment the Map adds, not one the physics compels.
+The [[tenets#^dualism|Dualism]] tenet is served because post-decoherence selection, on the Map's reading, requires something beyond the physical formalism: physics produces the improper mixture but, on this reading, not the definite outcome. A deflationary reading that takes the mixture to settle the outcome on its own is coherent with rather than evidenced by the same formalism, so the dualist gloss is a commitment the Map adds, not one the physics compels (the [[possibility-probability-slippage|possibility/probability slippage]] discipline names this coherent-with-versus-evidenced-by boundary).
 
 The [[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]] tenet finds its strongest expression in the post-decoherence variant. Pre-decoherence models require consciousness to maintain coherence against environmental pressure; post-decoherence selection asks consciousness only to choose among the pointer-basis alternatives [[quantum-darwinism-and-consciousness|quantum Darwinism]] has already prepared, within Born statistics. The strict [[selection-only-mind-influence|selection-only reading]] supplies information-theoretic signatures: a per-event ceiling of log₂(N) bits, a Born-rule-preserving rate that vanishes at the ensemble scale, and content-confinement to the brain-generated candidate set.
 

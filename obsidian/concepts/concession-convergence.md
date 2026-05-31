@@ -4,7 +4,7 @@ description: "Physicalist theories of consciousness independently concede the du
 created: 2026-04-05
 modified: 2026-04-05
 human_modified:
-ai_modified: 2026-05-29T00:00:00+00:00
+ai_modified: 2026-05-31T00:00:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -174,6 +174,7 @@ The Map speculates that concession convergence will continue. Future physicalist
 - [[topics/introspection-architecture-independence-scoring]] — Second worked exhibit (partial-retention case with architecture-vs-significance asymmetric scoring)
 - [[evidential-status-discipline]] — Five-tier scale the audit's tier assignments draw on
 - [[type-specificity]] — The methodological discipline each narrowing move implicitly respects
+- [[one-structure-three-vocabularies]] — A neighbouring convergence-discipline exhibit at the convergent-redescription rung
 
 ## References
 

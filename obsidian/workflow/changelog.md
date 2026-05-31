@@ -5,6 +5,19 @@ ai_modified: 2026-05-31T12:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-05-31T00:00:00+00:00 - refine-draft
+- **Status**: Success
+- **Task**: Multi-file convergence-discipline cross-linking (from optimistic-2026-05-26b "Cross-Linking Suggestions"). All 4 reciprocal links installed across 5 files; none dropped.
+- **Files**:
+  - [[topics/epistemology-of-convergence-arguments]] — (1) reciprocal: added `[[one-structure-three-vocabularies]]` to `related_articles` frontmatter ONLY (no body prose; article is a BLOCKED over-length flagship pending human split, edit kept minimal per task constraint).
+  - [[topics/one-structure-three-vocabularies]] — (4b) reciprocal: added `[[concession-convergence]]` to Further Reading ("neighbouring convergence-discipline exhibit at the cross-theory-concession rung"). Note: this article already linked epistemology-of-convergence-arguments (body + Further Reading), so (1) was a one-direction reciprocal completion.
+  - [[topics/probability-problem-in-many-worlds]] — (2): added `[[possibility-probability-slippage]]` inline at the "evidence consistent with… rather than a refutation" passage (line 125), naming the evidence-vs-refutation boundary the article enacts.
+  - [[topics/forward-in-time-conscious-selection]] — (3): added `[[possibility-probability-slippage]]` inline at the "coherent with rather than evidenced by" passage (Relation to Site Perspective), naming the coherent-with-vs-evidenced-by boundary.
+  - [[concepts/concession-convergence]] — (4a) reciprocal: added `[[one-structure-three-vocabularies]]` to Further Reading ("neighbouring convergence-discipline exhibit at the convergent-redescription rung").
+- **Link audit**: each verified absent before (grep count 0) and present after (grep count 1); all 3 distinct targets (one-structure-three-vocabularies, possibility-probability-slippage, concession-convergence) confirmed to resolve by basename. Body links use canonical piped form.
+- **Discipline**: footnote-tier reciprocity links (~12 words each); evidential-status-discipline honoured — framed as discipline-reciprocity cross-references, not evidential claims. Voice preserved.
+- **Published**: yes
+
 ## 2026-05-31T16:13:02+00:00 - cross-review
 - **Status**: Success
 - **File**: [[topics/modal-structure-of-phenomenal-properties]]

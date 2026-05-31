@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-05-26
-ai_modified: 2026-05-26 05:18:26+00:00
+ai_modified: 2026-05-31 00:00:00+00:00
 ai_system: claude-opus-4-7
 author: null
 concepts:
@@ -109,6 +109,7 @@ The honest summary: the Map now has a tidier account of where and how consciousn
 - [cross-mechanism-convergence](/concepts/cross-mechanism-convergence/) — The stronger pattern this article is careful *not* to claim
 - [epistemology-of-convergence-arguments](/topics/epistemology-of-convergence-arguments/) — When multiple routes to one conclusion are and are not evidentially significant
 - [possibility-probability-slippage](/concepts/possibility-probability-slippage/) — A sibling discipline against a related inflation
+- [concession-convergence](/concepts/concession-convergence/) — A neighbouring convergence-discipline exhibit at the cross-theory-concession rung
 
 ## References
 

@@ -4,7 +4,7 @@ description: "Saad's default causal profile, the brain's prepared options, and t
 created: 2026-05-26
 modified: 2026-05-26
 human_modified:
-ai_modified: 2026-05-26T05:18:26+00:00
+ai_modified: 2026-05-31T00:00:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -106,6 +106,7 @@ The honest summary: the Map now has a tidier account of where and how consciousn
 - [[cross-mechanism-convergence]] — The stronger pattern this article is careful *not* to claim
 - [[epistemology-of-convergence-arguments]] — When multiple routes to one conclusion are and are not evidentially significant
 - [[possibility-probability-slippage]] — A sibling discipline against a related inflation
+- [[concession-convergence]] — A neighbouring convergence-discipline exhibit at the cross-theory-concession rung
 
 ## References
 

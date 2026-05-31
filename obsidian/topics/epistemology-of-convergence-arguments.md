@@ -4,7 +4,7 @@ description: "What makes convergence evidentially significant? Cross-traditional
 created: 2026-02-19
 modified: 2026-02-21
 human_modified:
-ai_modified: 2026-05-29T00:00:00+00:00
+ai_modified: 2026-05-31T00:00:00+00:00
 draft: false
 topics:
   - "[[the-convergence-argument-for-dualism]]"
@@ -28,6 +28,7 @@ related_articles:
   - "[[cross-cultural-phenomenology-of-agency]]"
   - "[[biological-cognitive-closure]]"
   - "[[cross-cultural-convergence-on-mental-causation]]"
+  - "[[one-structure-three-vocabularies]]"
   - "[[cross-traditional-convergence-on-consciousness-irreducibility]]"
   - "[[methodology-of-consciousness-research]]"
   - "[[phenomenological-evidence]]"

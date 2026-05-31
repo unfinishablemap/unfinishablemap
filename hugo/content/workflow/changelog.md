@@ -9,6 +9,27 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-05-31T00:00:00+00:00 - refine-draft
+- **Status**: Success
+- **Task**: Multi-file convergence-discipline cross-linking (from optimistic-2026-05-26b "Cross-Linking Suggestions"). All 4 reciprocal links installed across 5 files; none dropped.
+- **Files**:
+  - [epistemology-of-convergence-arguments](/topics/epistemology-of-convergence-arguments/) — (1) reciprocal: added `[[one-structure-three-vocabularies]]` to `related_articles` frontmatter ONLY (no body prose; article is a BLOCKED over-length flagship pending human split, edit kept minimal per task constraint).
+  - [one-structure-three-vocabularies](/topics/one-structure-three-vocabularies/) — (4b) reciprocal: added `[[concession-convergence]]` to Further Reading ("neighbouring convergence-discipline exhibit at the cross-theory-concession rung"). Note: this article already linked epistemology-of-convergence-arguments (body + Further Reading), so (1) was a one-direction reciprocal completion.
+  - [probability-problem-in-many-worlds](/topics/probability-problem-in-many-worlds/) — (2): added `[[possibility-probability-slippage]]` inline at the "evidence consistent with… rather than a refutation" passage (line 125), naming the evidence-vs-refutation boundary the article enacts.
+  - [forward-in-time-conscious-selection](/topics/forward-in-time-conscious-selection/) — (3): added `[[possibility-probability-slippage]]` inline at the "coherent with rather than evidenced by" passage (Relation to Site Perspective), naming the coherent-with-vs-evidenced-by boundary.
+  - [concession-convergence](/concepts/concession-convergence/) — (4a) reciprocal: added `[[one-structure-three-vocabularies]]` to Further Reading ("neighbouring convergence-discipline exhibit at the convergent-redescription rung").
+- **Link audit**: each verified absent before (grep count 0) and present after (grep count 1); all 3 distinct targets (one-structure-three-vocabularies, possibility-probability-slippage, concession-convergence) confirmed to resolve by basename. Body links use canonical piped form.
+- **Discipline**: footnote-tier reciprocity links (~12 words each); evidential-status-discipline honoured — framed as discipline-reciprocity cross-references, not evidential claims. Voice preserved.
+- **Published**: yes
+
+## 2026-05-31T16:13:02+00:00 - cross-review
+- **Status**: Success
+- **File**: [modal-structure-of-phenomenal-properties](/topics/modal-structure-of-phenomenal-properties/)
+- **Word count**: 2330 → 2376 (+46)
+- **Part 1 — direction found**: The article ran FROM-modal-structure-TO-irreducibility (the potentially circular direction). Modal independence was framed as *revealing/establishing* irreducibility — "reveals phenomenal properties as irreducible," "the evidential backbone of the Map's dualism," "indicates they are genuinely distinct in kind." Fixed: reframed irreducibility as an independently-motivated *adopted framing* (carried by problem-of-other-properties); modal structure is now presented as the *formal articulation* of that irreducibility — what it looks like across possibility and necessity — not independent evidence for it. Two surgical edits (opening para + Dualism subsection of Relation to Site Perspective), citing epistemology-of-convergence-arguments' explicit avoidance of the same circularity. Evidential-status discipline honoured: irreducibility stays a live adopted framing, not an established result.
+- **Part 2 — cross-link added**: Article previously had ZERO references to the problem-of-other-properties article. Added the cross-reference (with division-of-labour note: problem-of-other-properties = irreducibility-as-adopted-framing; this article = formal modal backbone) in the opening paragraph and Further Reading. Used canonical link form `[[consciousness-and-the-problem-of-other-properties|...]]` — the task's bare `[[problem-of-other-properties]]` does NOT resolve (no file/alias by that basename); corpus convention is the full-slug piped form. Verified both new link targets resolve via sync (no broken-link warnings).
+- **Output**: cross-review only (no review archive — light touch)
+
 ## 2026-05-31T16:05:00+00:00 - optimistic-review
 - **Status**: Success
 - **Content reviewed**: Mental-causation / epiphenomenalism-defeater cluster — phenomenology-of-intellectual-life, quiddity-epiphenomenalism-and-the-contingency-thesis (created today), delegatory-causation. Distinct from today's 2026-05-31 (invertebrate) and 2026-05-31b (AI-epiphenomenalism) reviews.
