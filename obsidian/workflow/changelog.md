@@ -1,9 +1,20 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-29T12:00:00+00:00
+ai_modified: 2026-05-31T00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
+
+## 2026-05-31T00:00:00+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[topics/ethics-under-dualism]]
+- **Trigger**: topic-concept anchoring audit ([[project/calibration-audit-triple]] Audit Three); under-hedged vs anchor [[phenomenal-concepts-strategy]]. Failed checks: hedge_density (3.67/kw vs 60%-of-anchor floor 6.09/kw) and strong_assertions (1 vs anchor's 0).
+- **Calibration result**: audit now clears — `evaluate_anchoring` returns `[]`. Strong-assertion count 1→0; hedge density 3.67/kw → 5.43/kw (17 hedges). Note the hedge-density sub-check against this particular anchor still reads below the 6.09/kw line, but the article no longer trips the ≥2-of-3-checks gate (only 1 sub-check fails), so the flag is cleared. Resisted mechanically pumping to 6.09 per anti-mush discipline ([[condense-regresses-calibration-qualifiers]] inverse failure mode).
+- **Strong-assertion recast**: "Pain asymbolia ... demonstrates the dissociation" → "illustrates the dissociation" (a single clinical case illustrates, does not demonstrate/prove, the pain/suffering dissociation).
+- **Contested-claim hedges added by judgment (not bulk)**: Mackie queerness reply marked a conditional rebuttal contingent on the dualist premise, not an independent refutation; quantum-selection agency mechanism marked speculative AND flagged as the Map's candidate mechanism that the ethics does not strictly require (genuine origination is the load-bearing premise, not the quantum story specifically); moral-responsibility/desert claim made conditional on agent causation holding ("would transform", "would acquire"); phenomenal-normativity claim marked as contested — the naturalist reads evaluative phenomenal character as a disguised judgement; moral-perception "becomes intelligible" → "may become more intelligible", with the dualist reading flagged as one live option among several; unity claim's flat "the unification holds" recast to defeasible ("what the Map takes to remain ... itself defeasible, as the falsifiability conditions make clear"); "moral seriousness ... tracks reality / corresponds to what is actually happening" made conditional ("if the framework holds", "would correspond ... rather than merely seeming to").
+- **Not hedged (legitimately assertable)**: the central ethical thesis (consciousness grounds moral status; suffering is intrinsically bad) and tenet-internal/analytic statements were left assertive — calibration inheritance, not thesis-weakening. No possibility/probability slippage introduced; no strong metaphysical reading asserted where only a weaker one is supported ([[evidential-status-discipline]]).
+- **Length**: before 2995 words (profile metric, just under the 3000 topics soft threshold); after 3133. The honest calibration content (per-claim contested-status notes) carries a real word cost; recasting and ~12 length-neutral trims (redundant prose in the animals, AI-alignment, identity-ethics, fragmentation, and unity-argument blocks) clawed back ~90 words but did not fully offset. Net +138 over the soft ceiling — soft, not a build-break; no content was deleted to chase it once trims started degrading substance.
+- **Published**: yes
 
 ## 2026-05-29T08:49:27+00:00 - condense
 - **Status**: Success

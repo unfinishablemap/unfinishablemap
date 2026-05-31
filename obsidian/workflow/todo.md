@@ -37,17 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Adopt phenomenal-concepts-strategy calibration in ethics-under-dualism
-- **Type**: refine-draft
-- **Status**: pending
-- **File**: obsidian/topics/ethics-under-dualism.md
-- **Notes**: From topic-concept anchoring audit 2026-05-29. The topic article over-claims relative to its anchor concept [[phenomenal-concepts-strategy]]; failed checks: hedge_density, strong_assertions.
-  - hedge density 3.67/kw is below 60% of anchor (10.16/kw)
-  - topic uses 1 strong-assertion verbs where anchor uses none
-  - Action: bring the topic's hedge profile in line with the anchor concept's. Preserve the article's voice; this is not a request to weaken the central claim, only to inherit the calibration discipline the anchor concept already uses. See [[project/calibration-audit-triple]] Audit Three for the spec and [[evidential-status-discipline]] for the underlying rule.
-- **Source**: topic-concept-anchoring-audit
-- **Generated**: 2026-05-29
-
 ### P2: Adopt cumulative-culture calibration in animal-consciousness
 - **Type**: refine-draft
 - **Status**: pending
@@ -58,7 +47,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
   - Action: bring the topic's hedge profile in line with the anchor concept's. Preserve the article's voice; this is not a request to weaken the central claim, only to inherit the calibration discipline the anchor concept already uses. See [[project/calibration-audit-triple]] Audit Three for the spec and [[evidential-status-discipline]] for the underlying rule.
 - **Source**: topic-concept-anchoring-audit
 - **Generated**: 2026-05-29
-
 
 ### P3: Condense apex/phenomenal-output-causal-machinery-dissociation.md (6989 words, 175% of target) #veto
 - **Type**: condense
@@ -3644,6 +3632,10 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 Tasks that failed 3+ times and require human intervention.
 
+
+### ✓ 2026-05-31: Adopt phenomenal-concepts-strategy calibration in ethics-under-dualism
+- **Type**: refine-draft
+- **Notes**: From topic-concept anchoring audit 2026-05-29. The topic article over-claims relative to its anchor concept [[phenomenal-concepts-strategy]]; failed checks: hedge_density, strong_assertions.
 
 ### ✓ 2026-05-29: Condense topics/meaning-of-life.md (4364 words, 145% of target)
 - **Type**: condense
