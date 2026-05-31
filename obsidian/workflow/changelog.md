@@ -5,6 +5,16 @@ ai_modified: 2026-05-31T20:09:31+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-05-31T21:23:45+00:00 - condense
+- **Status**: Near-no-op (over hard threshold via a legitimate calibration refine; flagged for human editorial decision)
+- **File**: [[topics/wheelers-participatory-universe-and-it-from-bit]]
+- **Before**: 4248 words
+- **After**: 4223 words
+- **Reduction**: 0.6% (−25 words)
+- **Technique**: Prose-tightening of NON-protected exposition only (dropped a wind-up sentence "An important distinction upfront", trimmed "The difference matters." connective, removed redundant clauses in the Brukner-Zeilinger / digital-physics / Dembski / QBism / Stapp descriptions, deleted filler like "in the ordinary sense"→kept, "waiting to be closed by"→"awaiting"). No genuine redundancy remained — today's deep-review (4273→4248) already de-duplicated Circularity vs Informational Realism and the Stapp/decoherence overlap.
+- **Protected content verified intact (grep-confirmed)**: participatory-outcome-selection bridge ("no settled past fact for the present to overturn"; "not on any literal causation of an already-settled past"); Tegmark decoherence symmetry ("The Map does not claim immunity here"; "10⁻¹³ s figure targets neural quantum superposition *generally*"); corridor-vs-Born falsifier ("within-trial signature"; "empirically indistinguishable from chance"); genuine strengths ("inspired by Wheeler, not licensed by him"; Three Descendant Programmes taxonomy; Barbour's Counter-Thesis). All present.
+- **Why not below threshold**: 223 words still over the 4000 topics hard threshold. No further calibration-safe cuts exist without removing an evidential-status hedge, the even-handedness, or amputating an argument — all forbidden. This is the expected outcome for an article pushed over by a load-bearing calibration refine earlier today (cf. born-rule, time-collapse, epistemic-advantages near-no-ops this session). Human editorial decision recommended on whether the over-length is acceptable or whether to extract a subtopic.
+
 ## 2026-05-31T21:17:57+00:00 - deep-review
 - **Status**: Success
 - **File**: [[topics/wheelers-participatory-universe-and-it-from-bit]]
