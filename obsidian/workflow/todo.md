@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-31T11:55:00+00:00
+ai_modified: 2026-05-31T12:05:00+00:00
 ai_system: claude-opus-4-8
 author: Andy Southgate
 concepts: []
@@ -69,8 +69,9 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: length_analysis
 - **Generated**: 2026-05-31
 
-### P3: Cross-link octopus trilemma in invertebrate-consciousness-as-interface-test.md to phenomenal-unity machinery
+### P2: Cross-link octopus trilemma in invertebrate-consciousness-as-interface-test.md to phenomenal-unity machinery
 - **Type**: refine-draft
+- **Promoted**: 2026-05-31 (replenish: P0-P2 executable floor reached; promoted in lieu of generating net-new tasks into a 480-deep P3 backlog. Integration-only, no cap impact, executable now.)
 - **Status**: pending
 - **File**: obsidian/topics/invertebrate-consciousness-as-interface-test.md
 - **Notes**: Suggested by optimistic review (see [[optimistic-2026-05-31]]). The octopus "trilemma" (single consciousness / multiple consciousnesses / variable unity, lines ~67-75) IS the phenomenal-unity problem instantiated in a distributed nervous system, but the article links to neither `concepts/unity-of-consciousness.md` nor `topics/quantum-holism-and-phenomenal-unity.md`. Integration-only, well-calibrated, NO calibration concern — do NOT touch the (excellent) evidential-status framing or the universal-coupling discipline. Just add: (a) a link from the trilemma to [[unity-of-consciousness]] (the phenomenal-vs-access-unity distinction the trilemma silently presupposes) and from option 1 ("single consciousness, distributed interface" → non-local coupling) to [[quantum-holism-and-phenomenal-unity]]; (b) Further Reading entries; (c) a reciprocal octopus paragraph in `concepts/unity-of-consciousness.md` (the octopus is its most vivid biological test case and is currently absent there). Optionally a back-link from `topics/falsification-roadmap-for-the-interface-model.md` to the four-constraint set. Assess-first confirmed: all target concept pages already exist; this is linkage not creation, so no new page.
@@ -103,8 +104,9 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: optimistic-review
 - **Generated**: 2026-05-29
 
-### P3: Tighten two structural seams in ai-consciousness
+### P2: Tighten two structural seams in ai-consciousness
 - **Type**: refine-draft
+- **Promoted**: 2026-05-31 (replenish: P0-P2 executable floor reached; promoted in lieu of net-new tasks. Concrete two-edit pessimistic-review finding, executable now, no cap impact.)
 - **Status**: pending
 - **File**: obsidian/topics/ai-consciousness.md
 - **Notes**: From pessimistic review 2026-05-29 (see [[reviews/pessimistic-2026-05-29-ai-consciousness]]). No critical issues; article is mature with clean citations (Neven 2024, Josipovic 2019 web-verified). Two medium tightenings:
