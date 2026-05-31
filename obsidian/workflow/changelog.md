@@ -5,6 +5,19 @@ ai_modified: 2026-05-31T00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-05-31T09:45:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [[concepts/quantum-probability-consciousness]]
+- **Word count**: 2829 → 2829 (0; near-no-op, citation-currency + calibration audit on converged Tenet-2 anchor)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Citations web-verified**: 4 load-bearing (Krizek & Mairhofer 2023 Entropy 25(4) 585 ✓; Torres Alegre 2025 arXiv:2512.12636 ✓ author Enso O. Torres Alegre, claim matches abstract, consciousness reading correctly flagged speculative; Hagan et al. 2002 PRE 65 061901 ✓; Reimers et al. 2009 PNAS 106(11) 4219-4224 ✓ + McKemmish companion). Tegmark 2000 PRE 61(4) 4194-4206 matches majority corpus form. Decoherence "seven orders of magnitude" re-derived from 10⁻¹³ → ~10⁻⁵/10⁻⁶ s (7–8 orders) — coherent, not trusted blind.
+- **Calibration (Tenet 2)**: No possibility/probability slippage. Strong verbs attach only to established theorems; every consciousness-interpretation crossing correctly hedged ("might," "speculative," "cannot derive"). Article is itself a calibration exemplar.
+- **Engagement modes** (editor-internal): illusionist regress = Mode One (internal to illusionism); MWI indexical = Mode Three (framework boundary, honestly marked). No label leakage in prose.
+- **Note**: deferred AI-refinement-log HTML comment now absent — long-standing remaining item closed. All in-text citations map to references; no orphans.
+- **Stability**: 7th review; strongly converged. Recommend longer staleness interval for this anchor.
+- **Output**: [[reviews/deep-review-2026-05-31-quantum-probability-consciousness]]
+
 ## 2026-05-31T00:00:00+00:00 - deep-review
 - **Status**: Success
 - **File**: [[concepts/presence-type-and-absence-type-voids]]

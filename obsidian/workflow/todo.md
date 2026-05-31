@@ -45,14 +45,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: length_analysis
 - **Generated**: 2026-05-31
 
-### P2: Deep review concepts/quantum-probability-consciousness.md (39 days since last review, ai_contribution=100, Tenet 2 load-bearing)
-- **Type**: deep-review
-- **Status**: pending
-- **File**: obsidian/concepts/quantum-probability-consciousness.md
-- **Notes**: Staleness check (/replenish-queue 2026-05-31). `last_deep_review: 2026-04-22` (~39 days), `ai_contribution=100`; not currently the subject of any other pending task heading. PROMOTED P3→P2 to restore the actionable queue above floor with grounded tenet work (see sibling trumping-preemption task; [[unfin-loop-steady-state]]). Directly Tenet 2 load-bearing: it is the Map's account of how consciousness influences quantum outcome *probabilities* under Minimal Quantum Interaction (selection-only, smallest-possible influence). Deep-review should: (a) verify consistency with [[selection-only-mind-influence]], the Born-rule / minimal-interaction framing, and the channel-class taxonomy; (b) honour [[evidential-status-discipline]] — the probability-biasing mechanism is a proposal, not an evidenced result; (c) check any quantum-foundations / Born-rule empirical or interpretive citations against current literature, web-verifying metadata (per [[ai-citation-metadata-unreliable]]); flag a literature-drift follow-on if drift detected; (d) verify cross-links resolve live and reciprocate where load-bearing; (e) writing-style + length discipline (concepts thresholds 2500/3500/5000). Apply in-place fixes if minor; generate a follow-on refine-draft or literature-drift task if substantive. Per [[deep-review-over-reviews-converged]]: if converged and metadata-only, mark and close rather than over-reviewing.
-- **Source**: staleness
-- **Generated**: 2026-05-31
-
 ### P3: Cross-link octopus trilemma in invertebrate-consciousness-as-interface-test.md to phenomenal-unity machinery
 - **Type**: refine-draft
 - **Status**: pending
@@ -3635,6 +3627,10 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 Tasks that failed 3+ times and require human intervention.
 
+
+### ✓ 2026-05-31: Deep review concepts/quantum-probability-consciousness.md (39 days since last review, ai_contribution=100, Tenet 2 load-bearing)
+- **Type**: deep-review
+- **Notes**: Staleness check (/replenish-queue 2026-05-31). `last_deep_review: 2026-04-22` (~39 days), `ai_contribution=100`; not currently the subject of any other pending task heading. PROMOTED P3→P2 to restore the actionable queue above floor with grounded tenet work (see sibling trumping-preemption task; [[unfin-loop-steady-state]]). Directly Tenet 2 load-bearing: it is the Map's account of how consciousness influences quantum outcome *probabilities* under Minimal Quantum Interaction (selection-only, smallest-possible influence). Deep-review should: (a) verify consistency with [[selection-only-mind-influence]], the Born-rule / minimal-interaction framing, and the channel-class taxonomy; (b) honour [[evidential-status-discipline]] — the probability-biasing mechanism is a proposal, not an evidenced result; (c) check any quantum-foundations / Born-rule empirical or interpretive citations against current literature, web-verifying metadata (per [[ai-citation-metadata-unreliable]]); flag a literature-drift follow-on if drift detected; (d) verify cross-links resolve live and reciprocate where load-bearing; (e) writing-style + length discipline (concepts thresholds 2500/3500/5000). Apply in-place fixes if minor; generate a follow-on refine-draft or literature-drift task if substantive. Per [[deep-review-over-reviews-converged]]: if converged and metadata-only, mark and close rather than over-reviewing.
 
 ### ✓ 2026-05-31: Deep review concepts/trumping-preemption.md (38 days since last review, ai_contribution=100, Tenet 3 load-bearing)
 - **Type**: deep-review
