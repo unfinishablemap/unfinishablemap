@@ -5,6 +5,18 @@ ai_modified: 2026-05-31T20:09:31+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-05-31T20:30:00+00:00 - deep-review
+- **Status**: Success (converged — fourth review; no content changes, frontmatter-only)
+- **File**: [[topics/reductionism-and-consciousness]]
+- **Word count**: 2099 → 2099 (no content change)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Post-convergence changes audited** (both correct, made elsewhere): (1) type-specificity cross-link added 2026-05-19 to Vitalism paragraph — verified faithful paraphrase of [[type-specificity]] ("three grains/exhibits — metaphysical, phenomenal, functional"; vitalism = metaphysical grain); (2) Milinkovic & Aru year 2025→2026 (2026-05-29) — a citation FIX, not regression (NBR Vol 181 art 106524, print Feb 2026, Epub 17 Dec 2025; matches changelog citation-currency pass).
+- **Reasoning-mode classification**: Type-B physicalist → Mode Two (a posteriori identity unearned by opponent's own transparency standard); Kim/functional reduction → Mode One (uses Kim's own concession); vitalism objection → Mode Two (materialist presupposes reductionism). No boundary-substitution, no label leakage.
+- **Calibration audit**: no possibility/probability slippage — categorical claims framed as Map's conceptual argument; C. elegans example used correctly (transparency-test failure, not a consciousness attribution).
+- **Output**: [[reviews/deep-review-2026-05-31-reductionism-and-consciousness]]
+
 ## 2026-05-31T20:09:31+00:00 - deep-review
 - **Status**: Success (converged — fifth review; one archival-link-rot fix)
 - **File**: [[topics/consciousness-and-probability-interpretation]]
