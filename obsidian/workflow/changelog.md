@@ -5,6 +5,13 @@ ai_modified: 2026-05-31T12:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-05-31T15:27:00+00:00 - pessimistic-review
+- **Status**: Success
+- **Content reviewed**: [[topics/epistemic-advantages-of-dualism]] (oldest unreviewed-by-pessimistic; last review 2026-05-05)
+- **Findings**: 2 High (symmetry self-undermining; epistemic/metaphysical equivocation), 3 Medium (decoherence under-support, asymmetric-cost ledger omits over-attribution, illusionism-rebuttal seam)
+- **Output**: [[reviews/pessimistic-2026-05-31-epistemic-advantages-of-dualism]]
+- **Task added**: P2 refine-draft
+
 ## 2026-05-31T13:00:00+00:00 - deep-review
 - **Status**: Success
 - **File**: [[voids/emotional-epistemology-void]]
