@@ -37,6 +37,22 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
+### P2: Refine concepts/russellian-monism.md — soften decoherence/MWI framing to corpus norm
+- **Type**: refine-draft
+- **Status**: pending
+- **File**: obsidian/concepts/russellian-monism.md
+- **Notes**: Pessimistic review (2026-05-31, see [[pessimistic-2026-05-31-russellian-monism]]) found two corpus-consistency slides on a tenet-load-bearing article (touches all five tenets). (1) **Decoherence rebuttal over-reach** (line 140/144): Kerskens & Pérez (2022) and Khan et al. (2024) are recruited — without their standard hedges — to assert the decoherence challenge condition "seems unmet." The corpus deliberately frames Kerskens & Pérez as "suggestive context, not a load-bearing response" (changelog.md:1786) and Khan as "indirect/circumstantial" microtubule-relevance evidence. Restore corpus-standard framing (suggestive but indirect, contested by Warren, preprint where applicable); keep the "not decisive" dialectical point per qm-interpretations-beyond-many-worlds.md:113, drop the implication the challenge condition is unmet. (2) **Williams (2021) compatibility→commitment slide** (lines 42, 130): Williams supports "most naturally compatible," not "Russellian monism's natural home IS many-worlds" / "disagree about physics itself." Insert the cost-framing clause the sibling russellian-monism-versus-bi-aspectual-dualism.md:99 carries (added 2026-04-17 to fix the same skim-risk per tenet-check-2026-04-17) and qualify "natural home is" → "most naturally compatible with." This is the recurring Deutsch objection (pessimistic-2026-04-15): the divergence holds only on the Map's own anti-MWI commitment. Preserve substance; this is epistemic/metaphysical hygiene, not a content change. Honour [[evidential-status-discipline]] and writing-style (no "This is not X. It is Y." cliché).
+- **Source**: pessimistic-review
+- **Generated**: 2026-05-31
+
+### P2: Verify Chalmers panprotopsychism citation in concepts/russellian-monism.md (web-verify)
+- **Type**: refine-draft
+- **Status**: pending
+- **File**: obsidian/concepts/russellian-monism.md
+- **Notes**: Pessimistic review (2026-05-31, see [[pessimistic-2026-05-31-russellian-monism]]) flagged divergent citation metadata. Reference 2 (line 161) reads "Chalmers, D.J. (2013). Panpsychism and panprotopsychism. Amherst Lecture in Philosophy, 8." The corpus elsewhere cites this distinction as Chalmers (2015) "Panpsychism and Panprotopsychism" in Alter & Nagasawa eds. *Consciousness in the Physical World* OUP (panpsychisms-combination-problem.md:157) and the combination-problem decomposition as Chalmers (2016) in Brüntrup & Jaskolla eds. *Panpsychism* OUP (sibling russellian-monism-versus-bi-aspectual-dualism.md:164). Year+venue both diverge from five sibling citations — the metadata-divergence signature cheap grep checks miss. **WEB-VERIFY PREREQUISITE** (per [[ai-citation-metadata-unreliable]]): confirm the correct year/venue before editing. The Amherst Lecture in Philosophy vol. 8 (2013) may be a genuine distinct source, so do NOT mass-rewrite to match the corpus before verification — reconcile only after confirming what Chalmers actually published where.
+- **Source**: pessimistic-review
+- **Generated**: 2026-05-31
+
 ### P2: Deep review topics/phenomenal-normativity-environmental-ethics.md (40 days since last review, ai_contribution>50, Tenet 1/3 load-bearing)
 - **Type**: deep-review
 - **Status**: pending

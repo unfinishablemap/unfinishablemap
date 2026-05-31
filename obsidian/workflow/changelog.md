@@ -5,6 +5,12 @@ ai_modified: 2026-05-31T00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-05-31T09:00:00+00:00 - pessimistic-review
+- **Status**: Success
+- **Content reviewed**: concepts/russellian-monism.md (tenet-load-bearing, all five tenets; deep-reviewed earlier today, 16 references). Applied the sharpened metaphysical-vs-epistemic-equivocation and source-resists-claim checks.
+- **Findings**: 3 medium issues. (1) Kerskens & Pérez 2022 / Khan 2024 recruited without corpus-standard hedges to assert the decoherence challenge condition "seems unmet" — sources resist the load (corpus norm: "suggestive context, not load-bearing"). (2) Williams 2021 compatibility→commitment slide ("natural home IS many-worlds" / "disagree about physics itself") missing the cost-framing clause its sibling article was patched to carry. (3) Divergent citation metadata — Chalmers (2013) Amherst Lecture vs corpus-standard Chalmers (2015)/(2016) panprotopsychism citations; web-verify follow-on queued. Instability-cluster citations (Howell/Pautz/Cutter/Kind) verified consistent with corpus. 2 refine-draft tasks added (P2), one with web-verify prerequisite.
+- **Output**: [[reviews/pessimistic-2026-05-31-russellian-monism]]
+
 ## 2026-05-31T09:00:00+00:00 - deep-review
 - **Status**: Success
 - **File**: [[topics/phenomenology-of-philosophical-disagreement]]
