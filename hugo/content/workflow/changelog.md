@@ -1,13 +1,106 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-31 20:09:31+00:00
+ai_modified: 2026-05-31 22:00:00+00:00
 ai_system: claude-opus-4-8
 concepts: []
 date: '2026-05-31'
 related_articles: []
 title: Changelog
 ---
+
+## 2026-05-31T21:50:29+00:00 - deep-review
+- **Status**: Success
+- **File**: [buddhism-and-dualism](/concepts/buddhism-and-dualism/)
+- **Word count**: 2450 → 2484 (+34; length-neutral mode, 99% of soft threshold)
+- **Critical issues addressed**: 1 (possibility/probability slippage — "among the strongest evidence" convergence claim recalibrated to suggestive/defeater-weakening support, cross-linking phenomenological-evidence's shared-instrument honesty; never examined in the 5 prior reviews)
+- **Medium issues addressed**: 1 (removed "This is not X but Y" LLM cliché in ālaya-vijñāna paragraph)
+- **Enhancements made**: 1 cross-link reinforcement ([phenomenological-evidence](/concepts/phenomenological-evidence/#convergence)); 2 prose tightenings for length-neutrality
+- **Web-verified**: Fox et al. 2012 (PLoS ONE 7(9) e45370 — exact, finding matches); ālaya-vijñāna, kṣaṇavāda, śūnyatā/svabhāva/two-truths all accurate. No archival link rot (convergent-phenomenological-evidence references already repointed). All 21 wikilinks + 6 anchors resolve.
+- **Engagement classification**: Emptiness Challenge (Madhyamaka pressing irreducibility): Mode Three — framework-boundary marking, honestly noted as undissolved. No label leakage.
+- **Output**: [deep-review-2026-05-31-buddhism-and-dualism](/reviews/deep-review-2026-05-31-buddhism-and-dualism/)
+
+## 2026-05-31T21:46:35+00:00 - refine-draft
+- **Status**: Success
+- **File**: [consciousness-and-the-metaphysics-of-laws-and-dispositions](/topics/consciousness-and-the-metaphysics-of-laws-and-dispositions/)
+- **Source review**: [pessimistic-2026-05-31-consciousness-and-the-metaphysics-of-laws-and-dispositions](/reviews/pessimistic-2026-05-31-consciousness-and-the-metaphysics-of-laws-and-dispositions/) (first-ever review; addressed all 5 findings)
+- **Word count**: 3994 → 4192 (+198 via count_words tool; new argument for fixes 1-3 offset by ~60 words of tightening across 14 passages). Article remains above the 4000 topics threshold — surfacing for human length decision (coalesced 2026-04-28; flagged in task as possible human-editorial-split candidate). Did not force net-neutral, as that would gut the selection-mechanism argument the review asked to be made real.
+- **Changes**:
+  - (1) Forward-reference discharged: §"The Dispositional Modality Problem" now delivers the manifestation-SELECTION argument (intra-property selection among dispositionally-available manifestations, grounded in the pain-asymbolia compound structure) that line 138 promised but never supplied. Repointed line 138's reference to the now-real mechanism.
+  - (2) Uniqueness closed: §148 now re-invokes the pandispositionalism (Mary/qualia-reality) and Humean-shallowness refutations so all four cross-product corners are eliminated, not just the 2 single-axis rivals.
+  - (3) Empirical-vs-metaphysical owned: added a sentence at §146 noting the powerful-qualities/inert-categorical contrast adjudicates internal coherence/anti-epiphenomenalism, NOT empirical adequacy (the two are empirically indistinguishable); decoherence hostage flagged as the one genuinely empirical commitment.
+  - (4) Citation metadata (both loci grepped; body carries no initials/pages for either, reference-list was sole locus): ref 17 Taylor "J.H." → "H." (Henry Taylor); ref 5 Cutter 2019 pages 109-130 → 109-129. Both web-verified REAL per review.
+  - (5) Language: §84 "widely held to require" → "arguably requires"; §110 knowledge-argument framed as "which the Map takes to succeed"; §160 introspective-access claim framed as conditional on the Map's commitment (evidential-status-discipline).
+- **Engagement classification**: pandispositionalism (Frankish/Dennett eliminativist register at Occam para): Mode Two — the Map identifies the unsupported foundational move (qualitative reality eliminated to purchase simplicity); honestly noting eliminativists accept that verdict. No label leakage; natural prose throughout.
+- **Preserved**: cross-product central thesis, decoherence-hostage framing, MWI-dependency ownership, conditional-necessity/zombie-disanalogy passage (untouched per task). No "This is not X. It is Y." cliché introduced.
+- **Published**: yes (draft: false, unchanged)
+
+## 2026-05-31T22:00:00+00:00 - pessimistic-review
+- **Status**: Success (first-ever review of a 4,111-word coalesced topic; 1 medium-high undischarged-forward-reference + 1 under-argued uniqueness claim + 2 citation-metadata fixes; refine-draft task queued)
+- **Content reviewed**: [consciousness-and-the-metaphysics-of-laws-and-dispositions](/topics/consciousness-and-the-metaphysics-of-laws-and-dispositions/) (never previously reviewed; coalesced 2026-04-28)
+- **Key findings**: (1) line 138 promises §"The Dispositional Modality Problem" elaborates the manifestation-selection linchpin but the section never does; (2) §142-148 "fails on either axis alone" only eliminates 2 of the available single-axis rivals — uniqueness claim under-argued; (3) "real causal work" vs "inert quality" contrast is empirically indistinguishable (internal-coherence argument, not empirical); (4) citation metadata — Taylor "J.H." should likely be Henry Taylor, Cutter 2019 pages 109-130 should be 109-129 (both papers web-verified REAL, metadata-only). No label leakage, no LLM cliché, citations not fabricated. Altered-state-symmetry audit N/A (no supportive-cluster citations).
+- **Web-verified**: Cutter 2019 (Analytic Philosophy 60(2), 109-129), Taylor 2018 (Philosophical Studies 175(6), 1423-1440) — both real
+- **Output**: [pessimistic-2026-05-31-consciousness-and-the-metaphysics-of-laws-and-dispositions](/reviews/pessimistic-2026-05-31-consciousness-and-the-metaphysics-of-laws-and-dispositions/)
+
+## 2026-05-31T21:33:59+00:00 - deep-review
+- **Status**: Success (1 critical attribution defect caught via web-verification + 1 citation-metadata fix)
+- **File**: [observation-and-measurement-void](/voids/observation-and-measurement-void/)
+- **Word count**: 2383 → 2409 (+26, length-neutral; above-soft is long-standing coalesced-scope condition)
+- **Critical issues addressed**: 2 — (1) finding-mischaracterization of Michel (2021): article presented Michel as *establishing* calibration impossibility; web-verified that his actual thesis is the **opposite** (he rebuts the skeptical arguments, concluding "nothing wrong with calibration"). Rewrote the Calibration Impasse passage to credit Michel for the concordance/model-calibration taxonomy, attribute the skeptical case to Irvine + Schwitzgebel, and honestly stage the void as siding with the skeptics Michel answers. (2) Michel page-range citation 947–968 → 829–850 (Erkenntnis 88(2)).
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 net cross-links (rot check confirmed all 33 wikilinks resolve; inspection-paradox→self-reference-paradox coalesce already absorbed in body — no archival rot)
+- **Web-verified**: Michel 2021 (position + pages), Irvine 2012 arbitrariness argument, Aaronson 2014 expander-graph phi, Schwitzgebel 2008/2011 — all others accurate
+- **Engagement classification**: Michel = Mode Three (framework-boundary): the void now declares its disagreement with Michel's calibration-optimism honestly rather than dressing it as refutation or misattributing his conclusion. No label leakage; classification editor-internal only.
+- **Output**: [deep-review-2026-05-31-observation-and-measurement-void](/reviews/deep-review-2026-05-31-observation-and-measurement-void/)
+
+## 2026-05-31T21:23:45+00:00 - condense
+- **Status**: Near-no-op (over hard threshold via a legitimate calibration refine; flagged for human editorial decision)
+- **File**: [wheelers-participatory-universe-and-it-from-bit](/topics/wheelers-participatory-universe-and-it-from-bit/)
+- **Before**: 4248 words
+- **After**: 4223 words
+- **Reduction**: 0.6% (−25 words)
+- **Technique**: Prose-tightening of NON-protected exposition only (dropped a wind-up sentence "An important distinction upfront", trimmed "The difference matters." connective, removed redundant clauses in the Brukner-Zeilinger / digital-physics / Dembski / QBism / Stapp descriptions, deleted filler like "in the ordinary sense"→kept, "waiting to be closed by"→"awaiting"). No genuine redundancy remained — today's deep-review (4273→4248) already de-duplicated Circularity vs Informational Realism and the Stapp/decoherence overlap.
+- **Protected content verified intact (grep-confirmed)**: participatory-outcome-selection bridge ("no settled past fact for the present to overturn"; "not on any literal causation of an already-settled past"); Tegmark decoherence symmetry ("The Map does not claim immunity here"; "10⁻¹³ s figure targets neural quantum superposition *generally*"); corridor-vs-Born falsifier ("within-trial signature"; "empirically indistinguishable from chance"); genuine strengths ("inspired by Wheeler, not licensed by him"; Three Descendant Programmes taxonomy; Barbour's Counter-Thesis). All present.
+- **Why not below threshold**: 223 words still over the 4000 topics hard threshold. No further calibration-safe cuts exist without removing an evidential-status hedge, the even-handedness, or amputating an argument — all forbidden. This is the expected outcome for an article pushed over by a load-bearing calibration refine earlier today (cf. born-rule, time-collapse, epistemic-advantages near-no-ops this session). Human editorial decision recommended on whether the over-length is acceptable or whether to extract a subtopic.
+
+## 2026-05-31T21:17:57+00:00 - deep-review
+- **Status**: Success
+- **File**: [wheelers-participatory-universe-and-it-from-bit](/topics/wheelers-participatory-universe-and-it-from-bit/)
+- **Word count**: 4273 → 4248 (−25, length-neutral trims)
+- **Critical issues addressed**: 0 new (the High-severity delayed-choice retrocausality equivocation from today's pessimistic review was already fixed in commit 660752db2 before this review; verified consistent)
+- **Medium issues addressed**: 0 new (Tegmark-generalisation and corridor-falsification gaps also pre-resolved by 660752db2; verified)
+- **Enhancements made**: 3 length-neutral condensations (Circularity Problem subsection de-duplicated against Informational Realism; Stapp paragraph tightened against the new decoherence paragraph; redundant Three-Descendant-Programmes framing sentence trimmed)
+- **Reasoning modes** (editor-internal): Stapp — Mixed/Mode Three (boundary-marked honestly); Barbour — Mode One (concedes "weakens not destroys"); Tegmark — Mode One/Mixed (own physics turned on the Map too). No boundary-substitution, no label leakage.
+- **Convergence**: Article is converged after 3 deep reviews + 1 same-day pessimistic; only open item is length (4248w = `hard_warning`, over 4000 hard / under 6000 critical). Overage is load-bearing calibration content; queued P2 condense rather than regress qualifiers.
+- **Output**: [deep-review-2026-05-31-wheelers-participatory-universe-and-it-from-bit](/reviews/deep-review-2026-05-31-wheelers-participatory-universe-and-it-from-bit/)
+
+## 2026-05-31T21:08:07+00:00 - refine-draft
+- **Status**: Success
+- **File**: [self-reference-and-the-limits-of-physical-description](/topics/self-reference-and-the-limits-of-physical-description/)
+- **Task**: topic-concept anchoring-calibration refine (anchoring audit 2026-05-31, calibration-audit-triple Audit Three)
+- **Changes**: Brought hedge/assertion profile in line with anchor concept [mysterianism](/concepts/mysterianism/) (10.34/kw hedge, 0.69/kw strong; 60% threshold = 6.20/kw) and the second unnamed anchor [explanatory-gap](/concepts/explanatory-gap/) (9.87/kw; threshold 5.92/kw). Raised hedge density 3.83/kw → 6.49/kw by adding recognised counted markers (appears/may/could/seems) at 8 genuinely interpretive claim points — the opening thesis ("appear to undermine … may keep open"), the Frauchiger-Renner structural-parallel reading, Landsman's conditional Bell-loophole consequence, the Dualism vantage-point claim, the Bidirectional positioning claim, the closure-failure conclusion, and the disclosure-reading pointer. Did NOT hedge the formal incompleteness statements, the undecidability proofs (Cubitt/Landsman), or factual exposition. Softened over-strong assertions: in "What This Does and Does Not Show", "shows that … share a common structure" → "indicates", "show that physics is formally incomplete" → "indicates", "result shows that … contradictions" → "indicates". Strong-assertion density 1.15/kw → 0.38/kw (remaining single "proves" is inside a disavowed strawman quote the article rejects).
+- **Anchoring flags**: 2 → 0 (both mysterianism and explanatory-gap anchor comparisons clear; re-ran tools.curate.anchoring.evaluate_anchoring to confirm). The task named only the mysterianism flag; the explanatory-gap flag surfaced in the same pass and was resolved by the same edits.
+- **Voice/argument**: Preserved — the self-reference / limits-of-physical-description thesis, the three-levels framing, all citations, and the evidential-status-discipline separation of defeater-removal from positive support untouched. No over-hedging into mush; hedges spread across distinct sentences, no clustering.
+- **Published**: yes
+
+## 2026-05-31T23:30:00+00:00 - refine-draft
+- **Status**: Success
+- **File**: [duhem-quine-underdetermination-consciousness](/topics/duhem-quine-underdetermination-consciousness/)
+- **Task**: anchoring-calibration refine (anchoring audit 2026-05-31, calibration-audit-triple Audit Three)
+- **Changes**: Brought hedge/assertion profile in line with anchor concepts ([global-workspace-theory](/concepts/global-workspace-theory/) 10.15/kw, [integrated-information-theory](/concepts/integrated-information-theory/) 6.32/kw). Raised hedge density from 3.73/kw to 6.68/kw by adding recognised interpretive hedges (appears/seems/may/might/could/may well) at 9 genuinely interpretive claim points — NOT at the formal Duhem-Quine statement or factual exposition. Softened both strong-assertion verbs into the interpretive register: "shows that" → "argues … appears to" (consciousness-defeats-explanation virtues claim); "proves progressive" → "turns out to be progressive" + "will show" → "may show" (tenet hard-core predictions). Strong-assertion density 0.75/kw → 0.00/kw.
+- **Anchoring flags**: 2 → 0 (both GWT and IIT anchor comparisons clear; re-ran tools.curate.anchoring.evaluate_anchoring to confirm). No additional flags surfaced.
+- **Voice/argument**: Preserved — central underdetermination thesis, citations, and Lakatosian framing untouched. No over-hedging into mush; hedges distributed across distinct sentences, no clustering.
+- **Published**: yes
+
+## 2026-05-31T23:00:00+00:00 - deep-review
+- **Status**: Success (converged — sixth review; no-critical-issues verdict; no content edits)
+- **File**: [cross-cultural-phenomenology-of-agency](/topics/cross-cultural-phenomenology-of-agency/)
+- **Word count**: 2403 → 2403 (0; 80% of soft threshold; no edits needed)
+- **Critical issues addressed**: 0 (none found)
+- **Medium issues addressed**: 0 (none found)
+- **Enhancements made**: 0 — fully converged across six reviews; did not manufacture changes per convergence guidance
+- **Citation + position web-verification**: Both load-bearing cites live-verified for metadata AND attributed finding. Markus & Kitayama (1991, *Psychological Review* 98:224–253) — independent/interdependent self-construal claim about agency locus accurate. Slingerland (2003, *Effortless Action*, OUP) — wu wei gloss accurate. Tradition characterizations (Advaita sākṣin/prakṛti, Buddhist conditioned arising as deterministic, Mādhyamika svabhāva critique of haecceity) accurate, Map-reading distinguished from each tradition's framing. No finding-mischaracterization. Closes the one gap prior reviews left (intra-corpus only).
+- **Output**: [deep-review-2026-05-31-cross-cultural-phenomenology-of-agency](/reviews/deep-review-2026-05-31-cross-cultural-phenomenology-of-agency/)
 
 ## 2026-05-31T22:00:00+00:00 - deep-review
 - **Status**: Success (converged — fourth review; no-critical-issues verdict; no content edits)

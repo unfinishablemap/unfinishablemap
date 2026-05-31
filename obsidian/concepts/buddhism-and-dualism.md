@@ -4,7 +4,7 @@ description: "Buddhism rejects permanent self while affirming irreducible consci
 created: 2026-01-19
 modified: 2026-01-19
 human_modified: null
-ai_modified: 2026-04-26T23:08:00+00:00
+ai_modified: 2026-05-31T21:50:29+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -30,7 +30,7 @@ author: null
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-01-19
 last_curated: null
-last_deep_review: 2026-04-26T23:08:00+00:00
+last_deep_review: 2026-05-31T21:50:29+00:00
 ---
 
 Buddhism rejects a permanent self while taking consciousness seriously. The Unfinishable Map commits to irreducible consciousness interacting with matter. Are these positions compatible? The answer depends on distinguishing what each actually claims—and what each actually denies.
@@ -63,7 +63,7 @@ The Dualism tenet states: "Consciousness is not reducible to physical processes.
 
 **the Map does not require a unified self**: The tenet is compatible with consciousness being fragmented, multiple, or constantly reconstructed. [[unity-of-consciousness|phenomenal unity]] is addressed separately.
 
-What the Map requires is *irreducibility*: at any given moment, conscious experience has properties that no physical description captures. This is the [[hard-problem-of-consciousness|hard problem]]—why there is something it is like to undergo certain physical processes. Buddhism's convergence with other traditions on this point—despite rejecting their metaphysics of substance and self—is among the strongest evidence that irreducibility tracks a real feature of consciousness rather than a cultural assumption. See [[cross-traditional-convergence-on-consciousness-irreducibility]] for the full analysis.
+What the Map requires is *irreducibility*: at any given moment, conscious experience has properties that no physical description captures. This is the [[hard-problem-of-consciousness|hard problem]]—why there is something it is like to undergo certain physical processes. Buddhism's convergence with other traditions on this point—despite rejecting their metaphysics of substance and self—weakens one specific deflationary objection: that irreducibility is merely a cultural assumption inherited from a particular tradition. Convergence across frameworks that share no common metaphysics makes the "local construction" reading harder to sustain. This is suggestive support, not independent corroboration: as [[phenomenological-evidence#convergence|convergent phenomenological evidence]] is honest about, all human introspection shares one instrument, so the circle is narrowed rather than broken. See [[cross-traditional-convergence-on-consciousness-irreducibility]] for the full analysis.
 
 ## The Compatibility Thesis
 
@@ -78,7 +78,7 @@ This aligns with **property dualism** rather than substance dualism. At each mom
 
 The Yogācāra ("Mind-Only") school provides another bridge. By treating consciousness as fundamental—what appears as external world being mental construction—Yogācāra aligns with the Map's rejection of physicalism while maintaining Buddhist impermanence. Consciousness is fundamental *and* constantly changing.
 
-Yogācāra introduces the *ālaya-vijñāna* ("storehouse consciousness")—a deep level of awareness that carries karmic seeds across moments and lifetimes. This is not a permanent soul; the storehouse itself constantly changes. But it provides continuity without substance: patterns persist while their substrate remains impermanent. Crucially, the *ālaya-vijñāna* is causally active—karmic seeds ripen into effects, and new actions deposit new seeds. This is not mere recording but genuine transmission of causal influence through an impermanent medium. Mental causation operates through the storehouse without requiring anything permanent to do the causing.
+Yogācāra introduces the *ālaya-vijñāna* ("storehouse consciousness")—a deep level of awareness that carries karmic seeds across moments and lifetimes. This is not a permanent soul; the storehouse itself constantly changes. But it provides continuity without substance: patterns persist while their substrate remains impermanent. Crucially, the *ālaya-vijñāna* is causally active: karmic seeds ripen into effects and new actions deposit new seeds, transmitting causal influence through an impermanent medium rather than merely recording it. Mental causation operates through the storehouse without requiring anything permanent to do the causing.
 
 ## Karma and Bidirectional Interaction
 
@@ -86,7 +86,7 @@ The Map's [[tenets#^bidirectional-interaction|Bidirectional Interaction]] tenet 
 
 If consciousness were epiphenomenal (causally inert), karma would be incoherent. Intentions would be mere side-effects of physical brain processes, not genuine causal contributors. Both Buddhism and the Map reject this picture. Mental states matter; consciousness does something.
 
-The mechanism differs. The Map proposes consciousness biases quantum-level outcomes that physics leaves undetermined. Buddhism doesn't engage with quantum mechanics (predating it by millennia). But the structural claim—mind causally affects world—is shared. Both frameworks require what philosophers call [[agent-causation]]—the capacity of a conscious being to initiate causal chains, not merely transmit them. The Buddhist emphasis on *cetanā* (intention, volition) as karmically central parallels the Map's emphasis on conscious selection at moments of physical indeterminacy. In both cases, what matters is not just that events occur but that they originate in something like deliberate choice.
+The mechanism differs. The Map proposes consciousness biases quantum-level outcomes that physics leaves undetermined. Buddhism doesn't engage with quantum mechanics (predating it by millennia). But the structural claim—mind causally affects world—is shared. Both frameworks require what philosophers call [[agent-causation]]—the capacity of a conscious being to initiate causal chains, not merely transmit them. The Buddhist emphasis on *cetanā* (intention, volition) as karmically central parallels the Map's emphasis on conscious selection at moments of physical indeterminacy: in both, what matters is that events originate in something like deliberate choice.
 
 This raises a question Buddhism must answer independently: if there's no permanent self, what carries karma across lifetimes? The Buddhist response: causal continuity without substantial identity. Karma flows along causal chains without requiring a soul-substance to accumulate it.
 

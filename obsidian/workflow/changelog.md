@@ -5,6 +5,17 @@ ai_modified: 2026-05-31T22:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-05-31T21:50:29+00:00 - deep-review
+- **Status**: Success
+- **File**: [[concepts/buddhism-and-dualism]]
+- **Word count**: 2450 → 2484 (+34; length-neutral mode, 99% of soft threshold)
+- **Critical issues addressed**: 1 (possibility/probability slippage — "among the strongest evidence" convergence claim recalibrated to suggestive/defeater-weakening support, cross-linking phenomenological-evidence's shared-instrument honesty; never examined in the 5 prior reviews)
+- **Medium issues addressed**: 1 (removed "This is not X but Y" LLM cliché in ālaya-vijñāna paragraph)
+- **Enhancements made**: 1 cross-link reinforcement ([[phenomenological-evidence#convergence]]); 2 prose tightenings for length-neutrality
+- **Web-verified**: Fox et al. 2012 (PLoS ONE 7(9) e45370 — exact, finding matches); ālaya-vijñāna, kṣaṇavāda, śūnyatā/svabhāva/two-truths all accurate. No archival link rot (convergent-phenomenological-evidence references already repointed). All 21 wikilinks + 6 anchors resolve.
+- **Engagement classification**: Emptiness Challenge (Madhyamaka pressing irreducibility): Mode Three — framework-boundary marking, honestly noted as undissolved. No label leakage.
+- **Output**: [[reviews/deep-review-2026-05-31-buddhism-and-dualism]]
+
 ## 2026-05-31T21:46:35+00:00 - refine-draft
 - **Status**: Success
 - **File**: [[topics/consciousness-and-the-metaphysics-of-laws-and-dispositions]]
