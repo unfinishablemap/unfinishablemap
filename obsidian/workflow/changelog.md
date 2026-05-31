@@ -5,6 +5,15 @@ ai_modified: 2026-05-31T00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-05-31T11:30:00+00:00 - tune-system
+- **Status**: Success
+- **Sessions analyzed**: ~cycle 311→324 (babysat /loop run 2026-05-29 → 2026-05-31)
+- **Findings**: 0 failures (clean run), 0 critical issues, corpus at convergence; queue in healthy replenish-at-floor steady state
+- **Tier 1 changes**: 0 applied (no adjustable cadence/weight knobs — deterministic cycle scheduling; no setting met evidence+cooldown criteria)
+- **Tier 2 recommendations**: 1 (medium-issue counter audit)
+- **Tier 3 (human/code/editorial)**: 8 logged — scheduled citation web-verify cadence (highest-confidence; ~42 defects caught this run, triple-external-confirmed); repoint-inbound-refs-at-coalesce-time (highest-leverage; archival-link-rot stranded ~35 links for 6wk); replenish/queue code fixes (exclude #veto'd from length_analysis, wire scoring.py for LIFO fix, dedup replenish/cycle-slot staleness collision); convergence-damping on staleness selection; stale `scripts/curate.py` ref in refine-draft SKILL.md; 3 length-blocked flagships needing editorial splits; capacity items (voids 101/100, apex over-cap); time-varying-quantity calibration discipline
+- **Output**: [[reviews/system-tune-2026-05-31]]
+
 ## 2026-05-31T11:27:10+00:00 - apex-evolve
 - **Status**: Complete (maintenance-only — apex_sources slug repair, no prose change)
 - **Mode**: check + source-graph repair
