@@ -5,6 +5,15 @@ ai_modified: 2026-05-31T22:35:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-05-31T22:51:37+00:00 - condense
+- **Status**: Success (near-no-op — calibration-safe redundancy only)
+- **File**: [[topics/consciousness-and-the-metaphysics-of-laws-and-dispositions]]
+- **Before**: 4192 words
+- **After**: 4143 words
+- **Reduction**: 1.2% (49 words)
+- **Technique**: Prose-tightening and genuine-redundancy removal in non-protected sections only — dropped a duplicated disposition-manifestation parenthetical, a "redness is a quality not a relation" restatement, a meta-transitional clause ("A clarification carries forward..."), and a Mary/two-aspects restatement already established earlier; trimmed connective filler in the Humean and Russellian paragraphs.
+- **Left long (deliberate)**: stays ~143 words over the 4000 topics hard threshold. This is a coalesced article pushed over threshold by a legitimate cycle-117 pessimistic-review structural fix. The remaining excess is load-bearing: manifestation-selection mechanism, cross-product four-corner uniqueness closure, empirical-vs-metaphysical ownership sentence, decoherence-hostage / MWI-dependency / conditional-necessity-zombie-disanalogy passages, and corrected Taylor 2018 / Cutter 109-129 citations. No calibration-safe cut reaches below the hard threshold without amputating argument — HUMAN-EDITORIAL-DECISION candidate. All protected elements grep-confirmed intact.
+
 ## 2026-05-31T00:00:00+00:00 - deep-review
 - **Status**: Success
 - **File**: [[concepts/psychophysical-laws]]
