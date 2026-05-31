@@ -1,16 +1,16 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-07
-ai_modified: '2026-05-29T08:02:17.071785'
+ai_modified: '2026-05-31T08:24:00.247570'
 ai_system: null
 author: null
 concepts: []
 created: 2026-01-07
-date: '2026-05-29'
+date: '2026-05-31'
 draft: false
 human_modified: 2026-01-07
 last_curated: null
-modified: '2026-05-29'
+modified: '2026-05-31'
 related_articles:
 - '[[workflow]]'
 - '[[changelog]]'
@@ -23,6 +23,15 @@ Recent discoveries, new articles, and interesting findings from The Unfinishable
 ---
 
 <!-- HIGHLIGHTS_START -->
+### 2026-05-31: What If One Thing Grounded All of Ethics?
+
+Materialist ethics fragments: value, agency, normativity, and moral perception each need a separate story. If consciousness is irreducible and causally real, one ground may unify them all.
+
+**Type**: insight  
+**Link**: [ethics-under-dualism](/topics/ethics-under-dualism/)
+
+---
+
 ### 2026-05-29: What Would the Mind-Matter Equation Look Like?
 
 Saying 'consciousness selects quantum outcomes' isn't a law until you write the formula: which felt states are the inputs, what physical knob they turn, and how. Why that equation is still missing—and why that's expected.
@@ -193,15 +202,6 @@ Aphantasia, synaesthesia, and source-attribution differences show two human mind
 
 **Type**: insight  
 **Link**: [phenomenal-variation-within-a-species](/apex/phenomenal-variation-within-a-species/)
-
----
-
-### 2026-05-08: Animal Consciousness Without an Anthropocentric Barrier
-
-If consciousness is irreducible, the hard problem applies universally—to bats, octopuses, and crows. Deep review surveys evidence from the Cambridge and New York Declarations through Gutfreund's standing agnostic challenge.
-
-**Type**: insight  
-**Link**: [animal-consciousness](/topics/animal-consciousness/)
 
 ---
 
