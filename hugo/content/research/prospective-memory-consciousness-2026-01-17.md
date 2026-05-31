@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-17
-ai_modified: 2026-01-17 16:30:00+00:00
+ai_modified: 2026-05-29 12:00:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -42,7 +42,7 @@ PM divides into:
 
 **Constructive Episodic Simulation Hypothesis**: EFT and episodic memory share a common mechanism—flexible retrieval and recombination of past experience elements into novel representations. Both engage the same core brain network (default mode regions including hippocampus, medial prefrontal, posterior cingulate).
 
-Key difference: The hippocampus shows *greater* activation during future simulation than past remembering, reflecting additional constructive demands.
+Key difference: The hippocampus shows *greater* activation during future simulation than past remembering, reflecting additional constructive demands (fMRI evidence from Addis, Wong & Schacter, 2007, *Neuropsychologia* 45(7):1363-1377—distinct from the Schacter & Addis 2007 *Phil. Trans. R. Soc. B* theoretical review).
 
 ### Phenomenology of Prospective Memory
 
@@ -99,7 +99,7 @@ Prospective memory connects to free will through:
 
 **Future simulation and decision-making**: EFT reduces temporal discounting and impulsive behavior. People make more far-sighted choices when they vividly imagine future consequences. Consciousness of the future causally influences present decisions.
 
-**The extended present**: Conway et al. (2016) propose "an extended form of consciousness that consists of memories of the recent past and images and expectations of the near future." This extends the specious present to include prospective content.
+**The extended present**: Conway, Loveday & Cole (2016, *Memory Studies* 9(3):256-265, "The remembering–imagining system") propose "an extended form of consciousness that consists of memories of the recent past and images and expectations of the near future." This extends the specious present to include prospective content. (NB: cite this paper, not the non-existent "Frontiers in Psychology 7, 1" form that earlier propagated into the article.)
 
 ### Phenomenological Differences: Remembering vs Imagining
 

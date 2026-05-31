@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-16
-ai_modified: 2026-02-16 00:55:00+00:00
+ai_modified: 2026-05-29 12:00:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -244,6 +244,6 @@ Based on this research, a voids article could:
 - Chalmers, David. *The Conscious Mind: In Search of a Fundamental Theory* (1996).
 - Clark, Austen. *A Theory of Sentience* (2000).
 - Stanley, Richard. "What Is a Mathematical Structure of Conscious Experience?" arXiv:2301.11812 (2023).
-- Barton, Robert A. "On the Origins and Evolution of Qualia: An Experience-Space Perspective." *Frontiers in Systems Neuroscience* 16 (2022): 945722.
+- Lacalli, Thurston. "On the Origins and Evolution of Qualia: An Experience-Space Perspective." *Frontiers in Systems Neuroscience* 16 (2022): 945722.
 - Marshall, N. Justin, and Thomas W. Cronin. "Filtering and Polychromatic Vision in Mantis Shrimps." *Philosophical Transactions of the Royal Society B* 369, no. 1636 (2014): 20130032.
 - Jordan, Gabriele, and John D. Mollon. "Tetrachromacy: The Mysterious Case of Extra-ordinary Color Vision." *Current Opinion in Behavioral Sciences* 30 (2019): 130–134.

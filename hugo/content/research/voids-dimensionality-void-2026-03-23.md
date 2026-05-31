@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-23
-ai_modified: 2026-03-23 01:44:00+00:00
+ai_modified: 2026-05-29 12:00:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -71,7 +71,7 @@ Human consciousness may operate within a phenomenal space of limited dimensional
 - **Tenet alignment**: Direct support for Occam's Razor Has Limits — our preference for simple models may be a cognitive artefact, not an epistemic virtue
 - **Quote**: "Like the Flatlanders in Edwin Abbott's famous short story, we may be led to believe that the parsimony offered by our low-dimensional theories reflects the reality of a much higher-dimensional problem"
 
-### Barron & Klein — "On the Origins and Evolution of Qualia: An Experience-Space Perspective"
+### Lacalli — "On the Origins and Evolution of Qualia: An Experience-Space Perspective"
 - **URL**: https://pmc.ncbi.nlm.nih.gov/articles/PMC9399462/
 - **Type**: Academic paper (Frontiers in Systems Neuroscience, 2022)
 - **Key points**:
@@ -200,7 +200,7 @@ Based on this research, a voids article could:
 ## Citations
 
 - Abbott, Edwin A. *Flatland: A Romance of Many Dimensions*. 1884.
-- Barron, Andrew B., and Colin Klein. "On the origins and evolution of qualia: An experience-space perspective." *Frontiers in Systems Neuroscience* 16 (2022): 945722.
+- Lacalli, Thurston. "On the origins and evolution of qualia: An experience-space perspective." *Frontiers in Systems Neuroscience* 16 (2022): 945722.
 - Carr, Bernard. "Making Space and Time for Consciousness in Physics." PhilArchive, philpapers.org/archive/CARMSA-10.pdf.
 - Jolly, Eshin, and Luke J. Chang. "The Flatland Fallacy: Moving Beyond Low-Dimensional Thinking." *Topics in Cognitive Science* 11.2 (2019): 433-454.
 - McGinn, Colin. "Can We Solve the Mind-Body Problem?" *Mind* 98.391 (1989): 349-366.

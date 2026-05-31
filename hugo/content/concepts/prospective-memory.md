@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-17
-ai_modified: 2026-04-19 15:41:00+00:00
+ai_modified: 2026-05-29 12:00:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -29,7 +29,7 @@ description: 'Remembering to act in the future: how intentions persist and episo
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-04-19 15:41:00+00:00
+last_deep_review: 2026-05-29 12:00:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -63,7 +63,7 @@ The most consciousness-intensive form of future-oriented cognition is **episodic
 
 ### The Constructive Simulation Hypothesis
 
-Schacter and Addis (2007) proposed that EFT and episodic memory share a common mechanism: flexible retrieval and recombination of past experience elements. Both engage the same brain network (hippocampus, medial prefrontal cortex, posterior cingulate), though the hippocampus shows *greater* activation during future simulation, reflecting additional constructive demands.
+Schacter and Addis (2007) proposed that EFT and episodic memory share a common mechanism: flexible retrieval and recombination of past experience elements. Both engage the same brain network (hippocampus, medial prefrontal cortex, posterior cingulate); the companion fMRI study (Addis, Wong & Schacter, 2007) found that the hippocampus shows *greater* activation during the construction of future events than during recall of past ones, reflecting additional constructive demands.
 
 Mental time travel is genuinely bidirectional—a unified capacity for temporal self-projection rather than separate remembering and imagining faculties.
 
@@ -77,7 +77,7 @@ Mental time travel is genuinely bidirectional—a unified capacity for temporal 
 
 A striking feature of everyday PM is the **spontaneous "pop"** of intentions into awareness. You're walking home thinking about something else, and suddenly "buy milk" appears—triggered by some cue processed below awareness.
 
-Einstein and McDaniel (1990) identified two retrieval routes: resource-intensive conscious **monitoring** versus automatic **spontaneous retrieval**. The pop phenomenon highlights that consciousness bookends the process (forming the intention, receiving the retrieval) while something unconscious bridges the gap.
+Building on the event-based PM paradigm Einstein and McDaniel (1990) introduced, their multiprocess framework (McDaniel & Einstein, 2000) identifies two retrieval routes: resource-intensive conscious **monitoring** versus automatic **spontaneous retrieval**. The pop phenomenon highlights that consciousness bookends the process (forming the intention, receiving the retrieval) while something unconscious bridges the gap.
 
 ### Futuricity: A Contested Posit
 
@@ -117,7 +117,7 @@ This matters for [agent causation](/concepts/agent-causation/) and [diachronic a
 
 ### Future Simulation Influences Decisions
 
-EFT influences behaviour: vividly imagining future consequences reduces temporal discounting, decreases impulsive decision-making, and improves goal-directed behaviour (Szpunar, Spreng, & Schacter, 2014).
+EFT influences behaviour: vividly imagining future consequences reduces temporal (delay) discounting and biases monetary decisions toward higher long-term pay-offs (Peters & Büchel, 2010; Benoit, Gilbert & Burgess, 2011). Szpunar, Spreng & Schacter (2014) place temporal discounting among the forms of prospection their taxonomy organises, but the behavioural demonstration is the earlier neuroimaging work.
 
 These results do not by themselves show that *phenomenology* causes the behavioural change. The evidence is consistent with two pictures: (a) conscious vividness causes richer neural simulation which causes behavioural change (phenomenology load-bearing); (b) richer neural simulation causes both the vividness reports *and* the behavioural change, with phenomenology riding along as correlate (epiphenomenalist-compatible). Vividness ratings track both phenomenal and neural magnitude; the behavioural literature cannot separate them.
 
@@ -127,7 +127,7 @@ The Map's framework commits to (a) on independent grounds—the [Bidirectional I
 
 EFT requires [working memory](/concepts/working-memory/) for holding, manipulating, and binding elements into coherent simulated scenarios. The [maintenance/manipulation asymmetry](/concepts/working-memory/#the-maintenancemanipulation-distinction) applies: storing an intention may be automatic, but actively simulating a future scenario requires conscious engagement. This explains why PM failures often involve retrieval rather than storage.
 
-The [specious present](/concepts/temporal-consciousness/) may constrain future simulation's temporal scope, with the "extended present" (Conway et al. 2016) reflecting what working memory can sustain with phenomenal vividness.
+The [specious present](/concepts/temporal-consciousness/) may constrain future simulation's temporal scope, with the "extended present" of Conway's remembering–imagining system (Conway, Loveday & Cole, 2016) reflecting what working memory can sustain with phenomenal vividness.
 
 ## The Illusionist Challenge
 
@@ -186,19 +186,11 @@ Prospective memory and future-oriented consciousness support all five foundation
 - [episodic-memory](/concepts/episodic-memory/) — Pastward mental time travel and the pastness quale
 - [working-memory](/concepts/working-memory/) — The cognitive workspace for future simulation
 - [temporal-consciousness](/concepts/temporal-consciousness/) — The specious present and temporal structure
-- [free-will](/topics/free-will/) — How consciousness shapes action
 - [agent-causation](/concepts/agent-causation/) — The metaphysics of intention formation
-- [motor-selection](/concepts/motor-selection/) — Willed movement and the attention-selection interface
 - [mental-effort](/concepts/mental-effort/) — The quantum Zeno mechanism for sustained attention
 - [attention-as-interface](/concepts/attention-as-interface/) — How attention mediates consciousness-brain interaction
 - [illusionism](/concepts/illusionism/) — The radical challenge to phenomenal consciousness
-- [introspection](/concepts/introspection/) — First-person access to prospective phenomenology
-- [witness-consciousness](/concepts/witness-consciousness/) — Observing future simulations without identification
-- [haecceity](/concepts/haecceity/) — The thisness that grounds indexical future reference
-- [decoherence](/concepts/decoherence/) — Quantum coherence challenges and responses
 - [mental-imagery](/concepts/mental-imagery/) — Voluntary quasi-perceptual experience underlying future simulation
-- [counterfactual-reasoning](/concepts/counterfactual-reasoning/) — Imagining alternatives, sharing phenomenology with future simulation
-- [intentionality](/concepts/intentionality/) — The directedness of mental states toward objects and goals
 - [phenomenology-of-anticipation](/topics/phenomenology-of-anticipation/) — Protention and the forward-directed structure of experience
 - [diachronic-agency-and-personal-narrative](/topics/diachronic-agency-and-personal-narrative/) — Sustaining agency and identity across time
 - [prospective-memory-consciousness-2026-01-17](/research/prospective-memory-consciousness-2026-01-17/) — Research notes on this topic
@@ -206,11 +198,15 @@ Prospective memory and future-oriented consciousness support all five foundation
 ## References
 
 1. Einstein, G.O. & McDaniel, M.A. (1990). Normal aging and prospective memory. *Journal of Experimental Psychology: Learning, Memory, and Cognition*, 16(4), 717-726.
+1. McDaniel, M.A. & Einstein, G.O. (2000). Strategic and automatic processes in prospective memory retrieval: A multiprocess framework. *Applied Cognitive Psychology*, 14(7), S127-S144.
 1. Schacter, D.L. & Addis, D.R. (2007). The cognitive neuroscience of constructive memory: remembering the past and imagining the future. *Philosophical Transactions of the Royal Society B*, 362(1481), 773-786.
-1. Conway, M.A. et al. (2016). Episodic memory and autonoetic consciousness: personal and collective perspectives. *Frontiers in Psychology*, 7, 1.
+1. Addis, D.R., Wong, A.T., & Schacter, D.L. (2007). Remembering the past and imagining the future: Common and distinct neural substrates during event construction and elaboration. *Neuropsychologia*, 45(7), 1363-1377.
+1. Conway, M.A., Loveday, C., & Cole, S.N. (2016). The remembering–imagining system. *Memory Studies*, 9(3), 256-265.
 1. Suddendorf, T. & Corballis, M.C. (2007). The evolution of foresight: What is mental time travel, and is it unique to humans? *Behavioral and Brain Sciences*, 30(3), 299-313.
 1. Tulving, E. (2005). Episodic memory and autonoesis: Uniquely human? In H.S. Terrace & J. Metcalfe (Eds.), *The Missing Link in Cognition* (pp. 3-56). Oxford University Press.
 1. Szpunar, K.K., Spreng, R.N., & Schacter, D.L. (2014). A taxonomy of prospection: Introducing an organizational framework for future-oriented cognition. *PNAS*, 111(52), 18414-18421.
+1. Peters, J. & Büchel, C. (2010). Episodic future thinking reduces reward delay discounting through an enhancement of prefrontal-mediotemporal interactions. *Neuron*, 66(1), 138-148.
+1. Benoit, R.G., Gilbert, S.J., & Burgess, P.W. (2011). A neural mechanism mediating the impact of episodic prospection on farsighted decisions. *Journal of Neuroscience*, 31(18), 6771-6779.
 1. Frankish, K. (2016). Illusionism as a theory of consciousness. *Journal of Consciousness Studies*, 23(11-12), 11-39.
 1. Tallis, R. (2016). *Aping Mankind: Neuromania, Darwinitis and the Misrepresentation of Humanity*. Routledge.
 1. Whitehead, A.N. (1929). *Process and Reality*. Macmillan.

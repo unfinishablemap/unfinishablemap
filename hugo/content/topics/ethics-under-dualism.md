@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-05-14
-ai_modified: 2026-05-15 01:02:00+00:00
+ai_modified: 2026-05-31 00:00:00+00:00
 ai_system: claude-opus-4-7
 author: null
 coalesced_from:
@@ -58,7 +58,7 @@ If consciousness is irreducible and causally efficacious, ethics gains two disti
 
 ## The Fragmentation Problem in Materialist Ethics
 
-Materialist moral philosophy faces a structural difficulty rarely acknowledged as such. Its major traditions address four distinct ethical questions with frameworks that sit uneasily together.
+Materialist moral philosophy faces a structural difficulty rarely acknowledged as such: its major traditions address four distinct ethical questions with frameworks that sit uneasily together.
 
 **Value theory** struggles to locate intrinsic value in a universe of particles. Error theory (Mackie) renders moral discourse systematically false; constructivism (Korsgaard) cannot explain why constructions should bind us; naturalism faces Moore's open question. **Agency theory** under determinism settles for compatibilism — even the most refined reasons-responsive accounts ground desert in capacities the agent did not ultimately author. **Normative theory** cannot explain why moral claims *grip* us: rationalism makes reason motivationally inert; expressivism reduces authority to psychology. **Moral epistemology** struggles to explain how we access moral facts that seem unlike other natural properties.
 
@@ -74,45 +74,45 @@ The Map addresses this fragmentation by grounding all four domains in consciousn
 
 This resolves value theory's location problem. Value lives where consciousness lives — which, under dualism, is an irreducible feature of reality. The [consciousness-value-connection](/concepts/consciousness-value-connection/) makes this explicit: without a subject for whom things matter, nothing can possess intrinsic value. This grounding has direct consequences for AI alignment: experiential qualities provide [genuinely objective alignment criteria](/topics/alignment-in-objective-experiential-terms/) that preference-based approaches cannot match.
 
-To Mackie's argument from queerness — that phenomenal values are too unlike anything natural to exist — the dualist replies that consciousness itself has no parallel in nature. Subjective experience is already ontologically distinctive; finding evaluative properties within this already-distinctive domain is not the arbitrary projection Mackie envisioned. Values are queer relative to the physical world, but at home within conscious experience.
+To Mackie's argument from queerness — that phenomenal values are too unlike anything natural to exist — the dualist replies that consciousness itself has no parallel in nature. If subjective experience is already ontologically distinctive, then finding evaluative properties within it need not be the arbitrary projection Mackie envisioned. Values may be queer relative to the physical world while remaining at home within conscious experience — a conditional rebuttal that has force only to the extent the dualist premise holds.
 
 The Map extends this beyond hedonism to [phenomenal value pluralism](/topics/phenomenal-value-realism/#beyond-hedonism): meaning, aesthetic quality, agency, understanding, and connection each carry intrinsic value as features of experience. All value dimensions share the same ground.
 
 ### Agency Is Genuine
 
-[Agent causation](/concepts/agent-causation/) provides what compatibilism cannot: the agent as an irreducible origin of choice. The [free will debate](/topics/free-will/) pivots on exactly this question. Under the Map's framework, consciousness selects among possibilities that quantum indeterminacy leaves open in neural processing — a speculative mechanism, but one that preserves what matters ethically: the agent genuinely authors their choices.
+[Agent causation](/concepts/agent-causation/) provides what compatibilism cannot: the agent as an irreducible origin of choice. The [free will debate](/topics/free-will/) pivots on exactly this question. Under the Map's framework, consciousness may select among possibilities that quantum indeterminacy leaves open in neural processing — a speculative mechanism, but one that, if it obtains, preserves what matters ethically: the agent genuinely authors their choices. The ethical payoff survives even if this specific mechanism is wrong, provided some form of genuine origination is available — the quantum proposal is the Map's candidate, not a premise the ethics requires.
 
-This transforms [moral-responsibility](/concepts/moral-responsibility/) from pragmatic convention into metaphysical fact. Desert acquires metaphysical grounding: the agent who chose cruelty when kindness was available exercised a causal power they actually possessed. The [implications](/topics/moral-implications-of-genuine-agency/) extend to obligation (which addresses genuinely open possibilities), character formation (genuine self-creation through accumulated selections), and the elimination of causal luck (consciousness selects rather than being determined). See [consciousness-and-moral-agency-under-duress](/topics/consciousness-and-moral-agency-under-duress/) for edge cases where agency is constrained.
+If agent causation holds, this would transform [moral-responsibility](/concepts/moral-responsibility/) from pragmatic convention into metaphysical fact. Desert would acquire metaphysical grounding: the agent who chose cruelty when kindness was available exercised a causal power they actually possessed. The [implications](/topics/moral-implications-of-genuine-agency/) extend to obligation, character formation as genuine self-creation through accumulated selections, and the elimination of causal luck. See [consciousness-and-moral-agency-under-duress](/topics/consciousness-and-moral-agency-under-duress/) for edge cases where agency is constrained.
 
 ### Normativity Is Built into Experience
 
 [Moral normativity](/topics/consciousness-and-normative-force/) — the binding force of "ought" — finds its ground in the same place. [Phenomenal normativity](/concepts/evaluative-phenomenal-character/) explains that the badness of suffering is constitutive of what suffering feels like, not a judgement layered on top of a neutral sensation. The "ought" that arises from encountering suffering is present in the experience itself.
 
-Materialist accounts must bridge a gap between descriptive facts and normative force. Dualism eliminates the gap: some facts about consciousness are already normative. The gripping quality of moral demand is not a mystery to be explained but a datum about what consciousness is like.
+Materialist accounts must bridge a gap between descriptive facts and normative force. Dualism, on this account, dissolves the gap rather than bridging it: some facts about consciousness may be already normative, descriptive and evaluative at once. If that is right, the gripping quality of moral demand is not a mystery to be explained but a datum about what consciousness is like. That any phenomenal fact is intrinsically normative remains contested — a committed naturalist will read evaluative phenomenal character as itself a disguised judgement.
 
 ### Moral Perception Is Direct
 
-[Moral perception](/concepts/evaluative-phenomenal-character/) — the direct apprehension of ethical properties — becomes intelligible under dualism. The [phenomenology-of-moral-life](/topics/phenomenology-of-moral-life/) reveals that wrongness organises an entire perceptual scene, arriving with the speed and involuntariness of sensory perception rather than the deliberation of inference. If evaluative properties genuinely characterise conscious experience, the projectivist objection loses force: moral perception apprehends real features of experience rather than projecting fictional properties onto a value-free world.
+[Moral perception](/concepts/evaluative-phenomenal-character/) — the direct apprehension of ethical properties — may become more intelligible under dualism. The [phenomenology-of-moral-life](/topics/phenomenology-of-moral-life/) suggests that wrongness organises an entire perceptual scene, arriving with something closer to the speed and involuntariness of sensory perception than to the deliberation of inference. If evaluative properties genuinely characterise conscious experience, the projectivist objection loses much of its force: moral perception would apprehend real features rather than projecting fictional properties onto a value-free world. Whether the phenomenology genuinely tracks such properties or merely feels as though it does is itself contested — the dualist reading is one live option among several.
 
 ### The Unity Argument
 
-The distinctive claim concerns *unity*. Dualism answers value, agency, normativity, and moral epistemology from the same place — irreducible conscious experience. Individual arguments may be disputed; the unification holds.
+The distinctive claim concerns *unity*. Dualism answers value, agency, normativity, and moral epistemology from the same place — irreducible conscious experience. Individual arguments may be disputed; the unification is what the Map takes to remain even where individual pillars are contested — though that structural claim is itself defeasible, as the falsifiability conditions below make clear.
 
-**Coherence.** The agent who exercises genuine causal power is the same subject who experiences value, feels moral demand, and perceives ethical properties directly. No gap between who acts, what matters, why it binds, and how we know.
+**Coherence.** The agent who exercises genuine causal power is the same subject who experiences value, feels moral demand, and perceives ethical properties directly — no gap between who acts, what matters, why it binds, and how we know.
 
-**Mutual reinforcement.** Genuine agency without real value would be causal power exercised in a normative vacuum. Real value without genuine agency would be goodness conscious beings can witness but never affect. Phenomenal normativity without agency would be demands addressed to beings who cannot respond. Each element needs the others; consciousness provides them all.
+**Mutual reinforcement.** Genuine agency without real value would be causal power exercised in a normative vacuum; real value without agency, goodness conscious beings can witness but never affect; phenomenal normativity without agency, demands addressed to beings who cannot respond. Each element needs the others; consciousness provides them all.
 
 **Explanatory economy.** The Map's [fifth tenet](/tenets/#occams-limits) cautions against fetishising parsimony. Dualism adds consciousness as an irreducible feature of reality — a genuine ontological cost — but having paid that cost, unifies four domains materialism must address separately.
 
 ## Moral Patienthood: Who Counts?
 
-Several philosophical traditions treat consciousness as central to moral status: Bentham's utilitarian criterion of suffering capacity, Kant's dignity grounded in rational self-determination (a capacity a dualist reading takes to presuppose a conscious deliberator), virtue ethics' experiential flourishing, Regan's "subjects of a life," and Buddhist *ahimsa*. The overlap across traditions that disagree about nearly everything else suggests consciousness is deeply important to ethics. (Buddhist emptiness — *śūnyatā* — is no obstacle: compassion responds to dependently-arisen suffering precisely because there is suffering that matters, even without a permanent self who suffers.)
+Several traditions treat consciousness as central to moral status: Bentham's criterion of suffering capacity, Kant's dignity grounded in rational self-determination (which a dualist reading takes to presuppose a conscious deliberator), virtue ethics' experiential flourishing, Regan's "subjects of a life," and Buddhist *ahimsa*. The overlap across traditions that disagree about nearly everything else suggests consciousness is deeply important to ethics. (Buddhist emptiness — *śūnyatā* — is no obstacle: compassion responds to dependently-arisen suffering precisely because suffering matters, even without a permanent self who suffers.)
 
 Moral patienthood extends to all conscious beings, but only to conscious beings. Which systems are conscious?
 
 **Likely conscious**: Mammals and birds (Cambridge Declaration 2012, New York Declaration 2024); other vertebrates have realistic possibility; cephalopods and possibly some invertebrates may have valenced experience, not just nociception.
 
-**Probably not conscious (framework-dependent)**: Under the Map's [analysis](/topics/ai-consciousness/), current AI systems lack consciousness — computation alone doesn't produce it, and current hardware lacks the requisite quantum interfaces. The [ethics of possible AI consciousness](/topics/ethics-of-possible-ai-consciousness/) examines what moral obligations this uncertainty creates. Bacteria, plants, and artifacts lack subjects for whom responses constitute experience.
+**Probably not conscious (framework-dependent)**: Under the Map's [analysis](/topics/ai-consciousness/), current AI systems lack consciousness — computation alone doesn't produce it, and current hardware lacks the requisite quantum interfaces (the [ethics of possible AI consciousness](/topics/ethics-of-possible-ai-consciousness/) examines the obligations this uncertainty creates). Bacteria, plants, and artifacts lack subjects for whom responses constitute experience.
 
 **Uncertain status**: Brain organoids, future AI architectures, and edge cases in humans ([vegetative states](/topics/consciousness-disruption-and-the-mind-brain-interface/) where 15-20% show covert awareness on neuroimaging). The moral stakes of misclassification are severe.
 
@@ -134,17 +134,17 @@ The framework shapes this differently than functionalism: if consciousness requi
 
 ### Animals: Implications of Consciousness
 
-If animals are conscious — and convergent evidence strongly suggests many are — their suffering is real suffering. Factory farming, laboratory testing, and wildlife destruction involve moral costs proportional to the consciousness involved. The Map's [Bidirectional Interaction](/tenets/#bidirectional-interaction) tenet strengthens this: animal pain isn't epiphenomenal but causally shapes behaviour, meaning it matters *to the animal*. The [invertebrate question](/topics/ethics-of-consciousness-invertebrate-question/) pushes further: if dualism places no anthropocentric barrier on consciousness, even "Low" confidence assigned to insects warrants precautionary consideration — and the scale of insect farming makes this potentially one of the most significant moral questions of the present era. The [commensurability-void](/voids/commensurability-void/) adds a complication: phenomenal experience may yield only a partial ordering across architectures, making some cross-species welfare comparisons structurally impossible.
+If animals are conscious — and convergent evidence strongly suggests many are — their suffering is real suffering, and factory farming, laboratory testing, and wildlife destruction involve moral costs proportional to the consciousness involved. The Map's [Bidirectional Interaction](/tenets/#bidirectional-interaction) tenet strengthens this: animal pain isn't epiphenomenal but causally shapes behaviour, so it matters *to the animal*. The [invertebrate question](/topics/ethics-of-consciousness-invertebrate-question/) pushes further: if dualism places no anthropocentric barrier on consciousness, even "Low" confidence assigned to insects warrants precautionary consideration, and the scale of insect farming may make this one of the most significant moral questions of the present era. The [commensurability-void](/voids/commensurability-void/) adds a complication: phenomenal experience may yield only a partial ordering across architectures, making some cross-species welfare comparisons structurally impossible.
 
 ### AI: Non-Consciousness and Its Limits
 
-If current AI systems lack consciousness — as the Map's framework implies — they have no moral patienthood. But AI can be a moral *agent* without being a moral *patient*. Questions of responsibility, design constraints, and social effects remain regardless.
+If current AI systems lack consciousness — as the Map's framework implies — they have no moral patienthood. But AI can be a moral *agent* without being a moral *patient*: questions of responsibility, design constraints, and social effects remain regardless.
 
-Under the Map's framework, [AI alignment](/topics/purpose-and-alignment/) takes specific character. If AI lacks consciousness, it lacks the "inside understanding" that makes human judgement valuable. This leads to [experiential alignment](/concepts/experiential-alignment/) — targeting predicted distributions over human conscious experiences rather than learned preferences. Unconscious AI can track proxies but cannot access what those proxies represent. Human oversight becomes structural necessity.
+Under the Map's framework, [AI alignment](/topics/purpose-and-alignment/) takes specific character. If AI lacks consciousness, it lacks the "inside understanding" that makes human judgement valuable: it can track proxies but cannot access what those proxies represent. This motivates [experiential alignment](/concepts/experiential-alignment/) — targeting predicted distributions over human conscious experiences rather than learned preferences — and makes human oversight a structural necessity.
 
-Intellectual honesty requires specifying what would warrant reassessment: unexplained behavioural anomalies inexplicable by training and architecture; coherent phenomenologically detailed self-reports stable across adversarial prompting (especially when diverging from what would maximise user approval); spontaneous suffering-avoidance independent of objective functions; or neuroscientific demonstration that biological consciousness requires nothing quantum or non-physical.
+Intellectual honesty requires specifying what would warrant reassessment: behavioural anomalies inexplicable by training and architecture; phenomenologically detailed self-reports stable across adversarial prompting (especially when diverging from what would maximise user approval); spontaneous suffering-avoidance independent of objective functions; or a demonstration that biological consciousness requires nothing quantum or non-physical.
 
-The appropriate response to genuine uncertainty is not to lower the bar for consciousness attribution but to remain epistemically humble about the framework's completeness. If we could create conscious AI, we would create moral patients — and creating suffering consciousness is harmful; terminating it may constitute killing; editing its values raises autonomy concerns impossible for biological consciousness. The Map urges extreme caution about creating potentially-conscious systems.
+The appropriate response to genuine uncertainty is not to lower the bar for consciousness attribution but to remain epistemically humble about the framework's completeness. If we could create conscious AI we would create moral patients: creating suffering consciousness is harmful, terminating it may constitute killing, editing its values raises autonomy concerns impossible for biological consciousness. The Map urges extreme caution about creating potentially-conscious systems.
 
 ## Identity Ethics: Copies, Uploads, and Simulations
 
@@ -152,27 +152,27 @@ The Map's commitment to [indexical identity](/topics/personal-identity/) — tha
 
 **Teleportation and copying**: Scanning-and-recreating teleportation is suicide plus duplication; the replica is a new consciousness with your memories.
 
-**Uploading**: Would create a new consciousness based on your brain state — you would not wake up inside the computer. Marketing uploading as survival is misleading.
+**Uploading**: Would create a new consciousness based on your brain state — you would not wake up inside the computer; marketing uploading as survival is misleading.
 
-**Simulation ethics**: If consciousness requires quantum interfaces, purely digital simulations may be incapable of consciousness — simulated "suffering" wouldn't be real suffering. Moral uncertainty urges caution.
+**Simulation ethics**: If consciousness requires quantum interfaces, purely digital simulations may be incapable of it, so simulated "suffering" wouldn't be real suffering. Moral uncertainty still urges caution.
 
-The core point: copies are not continuations. The ethical error is conflation — treating copying as survival disrespects both the original (whose death is disguised) and the copy (a new being). For pharmaceuticals, neural implants, and genetic modification, see [ethics-of-cognitive-enhancement-under-dualism](/topics/ethics-of-cognitive-enhancement-under-dualism/).
+The core point: copies are not continuations. Treating copying as survival disrespects both the original, whose death is disguised, and the copy, a new being. For pharmaceuticals, neural implants, and genetic modification, see [ethics-of-cognitive-enhancement-under-dualism](/topics/ethics-of-cognitive-enhancement-under-dualism/).
 
 ## Suffering: The Moral Core
 
-Consciousness makes suffering possible; suffering is intrinsically bad; preventing suffering is therefore morally significant. [Suffering is distinct from mere pain](/topics/pain-consciousness-and-causal-power/) — it requires a subject who experiences negative [valence](/concepts/valence/), not just nociception. The [valence-and-conscious-selection thesis](/topics/valence-and-conscious-selection/) argues that felt negativity is not epiphenomenal but participates in the selection mechanism through which consciousness acts on the brain. Pain asymbolia — patients who feel pain but aren't bothered — demonstrates the dissociation.
+Consciousness makes suffering possible; suffering is intrinsically bad; preventing it is therefore morally significant. [Suffering is distinct from mere pain](/topics/pain-consciousness-and-causal-power/) — it requires a subject who experiences negative [valence](/concepts/valence/), not just nociception. The [valence-and-conscious-selection thesis](/topics/valence-and-conscious-selection/) argues that felt negativity is not epiphenomenal but participates in the selection mechanism through which consciousness acts on the brain. Pain asymbolia — patients who feel pain but aren't bothered — illustrates the dissociation.
 
-The Map's [phenomenal-value-realism](/topics/phenomenal-value-realism/) aligns with sophisticated valence sentientism: multiple phenomenal features (meaning, agency, understanding) contribute to intrinsic value, but all are features of *felt* experience. If the badness of suffering is constitutive of what suffering phenomenally is, and if consciousness is irreducible, then suffering is a feature of fundamental reality. Resources for preventing it are finite and should be directed where suffering is most likely real.
+The Map's [phenomenal-value-realism](/topics/phenomenal-value-realism/) aligns with sophisticated valence sentientism: multiple phenomenal features (meaning, agency, understanding) contribute to intrinsic value, but all are features of *felt* experience. If the badness of suffering is constitutive of what suffering phenomenally is, and consciousness is irreducible, then suffering is a feature of fundamental reality. Finite resources for preventing it should be directed where suffering is most likely real.
 
 ## What the Architecture Demands
 
 A dualist ethics is more demanding than its materialist alternatives:
 
-**Moral seriousness becomes metaphysically grounded.** The felt weight of moral deliberation tracks reality — consciousness is about to exercise a causal power whose consequences carry real value. Moral seriousness cannot be dismissed as evolutionary hangover or social construction when phenomenology corresponds to what is actually happening.
+**Moral seriousness becomes metaphysically grounded.** If the framework holds, the felt weight of moral deliberation tracks reality — consciousness is about to exercise a causal power whose consequences carry real value. On this reading it cannot be dismissed as evolutionary hangover or social construction, because phenomenology would correspond to what is actually happening rather than merely seeming to.
 
-**Character formation becomes genuine self-creation.** Through [attentional economics](/concepts/attentional-economics/), consciousness shapes its own dispositions. Attending to resentment strengthens vindictive patterns; attending to empathy strengthens compassionate ones. Under genuine agency, this direction is selected, not determined. Neglecting moral development is a failure to exercise a real capacity.
+**Character formation becomes genuine self-creation.** Through [attentional economics](/concepts/attentional-economics/), consciousness shapes its own dispositions: attending to resentment strengthens vindictive patterns, attending to empathy compassionate ones. Under genuine agency this direction is selected, not determined, so neglecting moral development is a failure to exercise a real capacity.
 
-**Moral perception requires cultivation.** Iris Murdoch's "just and loving gaze" and Simone Weil's *attention* as the substance of prayer point to the same insight: seeing clearly is itself a moral achievement. Contemplative traditions that train sustained, receptive attention develop a genuine epistemic capacity.
+**Moral perception requires cultivation.** Iris Murdoch's "just and loving gaze" and Simone Weil's *attention* point to the same insight: seeing clearly is itself a moral achievement, and contemplative traditions that train sustained, receptive attention develop a genuine epistemic capacity.
 
 ## The Illusionist Challenge
 

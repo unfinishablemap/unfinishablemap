@@ -1,13 +1,79 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-29 08:10:00+00:00
+ai_modified: 2026-05-31 00:00:00+00:00
 ai_system: claude-opus-4-8
 concepts: []
-date: '2026-05-29'
+date: '2026-05-31'
 related_articles: []
 title: Changelog
 ---
+
+## 2026-05-31T00:00:00+00:00 - refine-draft
+- **Status**: Success
+- **File**: [ethics-under-dualism](/topics/ethics-under-dualism/)
+- **Trigger**: topic-concept anchoring audit ([calibration-audit-triple](/project/calibration-audit-triple/) Audit Three); under-hedged vs anchor [phenomenal-concepts-strategy](/concepts/phenomenal-concepts-strategy/). Failed checks: hedge_density (3.67/kw vs 60%-of-anchor floor 6.09/kw) and strong_assertions (1 vs anchor's 0).
+- **Calibration result**: audit now clears — `evaluate_anchoring` returns `[]`. Strong-assertion count 1→0; hedge density 3.67/kw → 5.43/kw (17 hedges). Note the hedge-density sub-check against this particular anchor still reads below the 6.09/kw line, but the article no longer trips the ≥2-of-3-checks gate (only 1 sub-check fails), so the flag is cleared. Resisted mechanically pumping to 6.09 per anti-mush discipline (condense-regresses-calibration-qualifiers inverse failure mode).
+- **Strong-assertion recast**: "Pain asymbolia ... demonstrates the dissociation" → "illustrates the dissociation" (a single clinical case illustrates, does not demonstrate/prove, the pain/suffering dissociation).
+- **Contested-claim hedges added by judgment (not bulk)**: Mackie queerness reply marked a conditional rebuttal contingent on the dualist premise, not an independent refutation; quantum-selection agency mechanism marked speculative AND flagged as the Map's candidate mechanism that the ethics does not strictly require (genuine origination is the load-bearing premise, not the quantum story specifically); moral-responsibility/desert claim made conditional on agent causation holding ("would transform", "would acquire"); phenomenal-normativity claim marked as contested — the naturalist reads evaluative phenomenal character as a disguised judgement; moral-perception "becomes intelligible" → "may become more intelligible", with the dualist reading flagged as one live option among several; unity claim's flat "the unification holds" recast to defeasible ("what the Map takes to remain ... itself defeasible, as the falsifiability conditions make clear"); "moral seriousness ... tracks reality / corresponds to what is actually happening" made conditional ("if the framework holds", "would correspond ... rather than merely seeming to").
+- **Not hedged (legitimately assertable)**: the central ethical thesis (consciousness grounds moral status; suffering is intrinsically bad) and tenet-internal/analytic statements were left assertive — calibration inheritance, not thesis-weakening. No possibility/probability slippage introduced; no strong metaphysical reading asserted where only a weaker one is supported ([evidential-status-discipline](/project/evidential-status-discipline/)).
+- **Length**: before 2995 words (profile metric, just under the 3000 topics soft threshold); after 3133. The honest calibration content (per-claim contested-status notes) carries a real word cost; recasting and ~12 length-neutral trims (redundant prose in the animals, AI-alignment, identity-ethics, fragmentation, and unity-argument blocks) clawed back ~90 words but did not fully offset. Net +138 over the soft ceiling — soft, not a build-break; no content was deleted to chase it once trims started degrading substance.
+- **Published**: yes
+
+## 2026-05-29T08:49:27+00:00 - condense
+- **Status**: Success
+- **File**: [meaning-of-life](/topics/meaning-of-life/)
+- **Before**: 4364 words (hard_warning, 145% of 3000 target; 364 over the topics 4000 hard threshold)
+- **After**: 4178 words (still hard_warning; ~178 over the 4000 hard threshold, well below the 6000 critical)
+- **Reduction**: 4.3% (186 words)
+- **Technique**: Removed redundancy and deferred in-line literature detail to canonical homes via wikilink — all defer-targets web-checked LIVE first ([phenomenal-value-realism](/topics/phenomenal-value-realism/), [consciousness-value-connection](/concepts/consciousness-value-connection/), [buddhist-perspectives-on-meaning](/topics/buddhist-perspectives-on-meaning/), [purpose-and-alignment](/topics/purpose-and-alignment/), [illusionism](/concepts/illusionism/), [normative-void](/voids/normative-void/), [probability-problem-in-many-worlds](/topics/probability-problem-in-many-worlds/) all resolve). Tightened the illusionism Seeming-To-Whom passage (deferred Dennett/Kammerer mechanics to [illusionism](/concepts/illusionism/)), the Olson error-theory strands, the Street/Joyce debunking setup, the Nagel/Landau and Benatar cosmic-pessimism paragraphs, the Rawlette/Metz exposition, the subjective-naturalism double-statement, the Eastern/AI-alignment/contemplative/process sections, and the closing restatement. Removed two now-orphaned References entries (Joyce 2006, Dennett 2016) whose only in-body citations were trimmed.
+- **Preserved verbatim**: dualist framing and the full "Relation to Site Perspective" tenet section; every evidential-status / calibration qualifier (constitutes-vs-correlates, carried-openly-as-premise vs established, framework-boundary, conditional-on-tenet, "raises the bar a deflationary account must clear", "marked, not argued away", constitutive-not-correlational). No possibility/probability or strong/weak slippage introduced; no retained citation metadata altered (no web-verify needed — only whole orphaned entries removed); no "This is not X. It is Y." cliché introduced.
+- **Note**: Genuine information density limits a pure-condense pass — the four "Responding to Nihilism" sub-arguments (cosmic insignificance, error theory, evolutionary debunking, infinity) are each distinct objections with load-bearing calibration answers; going under 4000 cleanly would require a **split** (extract "Responding to Nihilism" to a dedicated article + summary pointer), which reshapes the argumentative arc and warrants a human editorial decision rather than an automated condense.
+
+## 2026-05-29T15:00:00+00:00 - condense
+- **Status**: Success
+- **File**: [machine-question](/apex/machine-question/)
+- **Before**: 5019 words (hard_warning, 125% of 4000 target; over the apex 5000 hard threshold)
+- **After**: 4969 words (soft_warning; back under the 5000 hard threshold)
+- **Reduction**: 1.0% (50 words)
+- **Technique**: Tightened redundant restatement; deferred detailed Duch-articon sub-treatments (anti-quantum critique, identity-theoretic reply) to their canonical homes via consolidated wikilinks to the [research dossier](/research/wlodzislaw-duch-consciousness-2026-05-02/), [the-strong-emergence-of-consciousness](/topics/the-strong-emergence-of-consciousness/), and [open-question-ai-consciousness](/apex/open-question-ai-consciousness/) (all defer-targets web-checked LIVE before relying on them). Compressed the rival-reading section's prose and the indicator-convergence paragraph without cutting any argument.
+- **Preserved verbatim**: MWI/quantum counterfactual-exclusion framing ("no superposition... nothing for consciousness to collapse"); all evidential-tier qualifiers (constrain-vs-establish, compatibility-vs-support, necessary-but-not-sufficient interface conditions, metaphysical-vs-epistemic readings, "discriminators rather than settled refutations", common-cause-null caution); the full "Relation to Site Perspective" tenet section; all opponent-engagement / framework-boundary concessions. No possibility/probability or strong/weak slippage introduced; no citation metadata touched; no "This is not X. It is Y." cliché introduced.
+
+## 2026-05-29T14:00:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [mapping-mind-space](/voids/mapping-mind-space/)
+- **Word count**: 2110 → 2111 (+1; length-neutral, author-name swap only)
+- **Critical issues addressed**: 1 (citation author-misattribution: ref 7 "On the Origins and Evolution of Qualia: An Experience-Space Perspective" was attributed to Barron & Klein; web-verified actual author is Thurston Lacalli, sole author, *Frontiers in Systems Neuroscience* 16:945722, 2022 — title/journal/vol/year/quote all correct, author wrong)
+- **Propagation fixed**: roots first (`research/voids-dimensionality-void-2026-03-23.md`, `research/voids-qualitative-novelty-void-2026-02-16.md` [carried a third wrong form "Barton, Robert A."]), then article body+ref, then `archive/voids/dimensionality-void.md`. hugo/content copies regenerate on sync.
+- **Citations verified clean**: Arsiwalla & Verschure 2023 (*NeuroSci* 4(2):9 — article correct; a stale "Minds and Machines 2024" divergence survives in research/voids-mind-space-void note, flagged not fixed), Jolly & Chang 2019 (*Topics in Cog Sci* 11(2):433-454), Schwitzgebel 2024 (*Weirdness of the World*, quote verbatim).
+- **Calibration**: void claim calibrated as structural/phenomenological; "almost certainly incomplete" is tenet-conditional and correctly scoped — no possibility/probability slippage. No label leakage; no named-opponent refutation engagements.
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 (converged article, third review)
+- **Output**: [deep-review-2026-05-29-mapping-mind-space](/reviews/deep-review-2026-05-29-mapping-mind-space/)
+
+## 2026-05-29T13:00:00+00:00 - condense
+- **Status**: Partial — structural reduction applied; recommend human split for remainder
+- **File**: [epistemology-of-convergence-arguments](/topics/epistemology-of-convergence-arguments/)
+- **Before**: 6676 words (over 6000 topics CRITICAL threshold)
+- **After**: 6479 words
+- **Reduction**: 3% (197 words)
+- **Technique**: STRUCTURAL defer-to-linked (the previously-unexecuted fix this documented condense-churn case mandated), NOT prose-shaving. Deferred three over-developed in-line expositions to their canonical homes while keeping each passage's load-bearing *conclusion* verbatim: (1) the three-route clinical compound-signature narration (xenon-ketamine, four-component dissection, KCC2 reboot, the conversion-disorder under-anaesthesia test) → [neurological-dissociations-as-interface-architecture](/topics/neurological-dissociations-as-interface-architecture/) / [anaesthesia-and-the-consciousness-interface](/topics/anaesthesia-and-the-consciousness-interface/) / [clinical-dissociation-as-systematic-evidence](/topics/clinical-dissociation-as-systematic-evidence/) / [conversion-disorder-as-consciousness-side-fault](/topics/conversion-disorder-as-consciousness-side-fault/); (2) the meditative-traditions tradition-by-tradition phenomenology + Madhyamaka/Yogācāra/Vedānta interpretive divergence → [comparative-phenomenology-of-meditative-traditions](/topics/comparative-phenomenology-of-meditative-traditions/) (+ Neoplatonist sub-audit retained as one-line defer); (3) the Chinese-divergence framework description → [the-hard-problem-in-non-western-philosophy](/topics/the-hard-problem-in-non-western-philosophy/). Plus genuine-redundancy trims: Bayesian-formalization Swinburne duplicate (stated twice), compound-signature two-tier restatement, Whewell/Bovens-Hartmann background prose.
+- **Preservation**: All calibration/evidential-status language kept VERBATIM per condense-regresses-calibration-qualifiers — Laudan diagnosis/solution concession, compatibility-vs-vindication two-tier discount, coherence-vs-evidential-status layer-one/layer-two, Chalmers source-universality-is-common-ground-with-illusionists, Berent screening-off reply, O'Brien-Kop framework-boundary concession, methodology-symmetry falsifiability check, all framework-boundary/eliminativism concessions. No possibility/probability or strong/weak slippage introduced; convergence does not read as stronger after. No "This is not X. It is Y." clichés introduced. All defer-target wikilinks verified live (not archived).
+- **Recommendation (LICENSE TO DEFER invoked)**: Defer-or-trim alone CANNOT reach the 6000 critical threshold without amputating load-bearing argument — confirming the documented condense-churn diagnosis. Per-section word counts: "Three Conditions" 1622 (largest, contains the self-contained **Compound Signatures** methodological unit ~480w), "Anti-Realist Challenge" 803 (Berent/Barrett/McGinn opponent engagement). Recommend a HUMAN structural split: extract the **Compound Signatures** subsection into its own concept page (it is a named, transferable device cited from ≥4 articles — strongest candidate), and/or extract **The Anti-Realist Challenge** into a dedicated debunking-arguments article. Both create new canonical homes + re-route inbound citations — editorial decisions reserved for a human, not an automated amputation.
+
+## 2026-05-29T12:00:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [prospective-memory](/concepts/prospective-memory/)
+- **Focus**: Queued staleness deep-review (5th review, 39 days; converged content). Standing CITATION-CURRENCY pass. Despite all-canonical/pre-2020 citations (usually clean), cross-corpus author/year divergence triage surfaced 4 real defects.
+- **Word count**: 2805 → 2899 (net +94; accurate-attribution prose partly offset by Further Reading trim 21→13 entries, all retaining inline body wikilinks). Soft_warning 116%, below hard threshold; no structural content altered.
+- **Critical issues addressed**: 4 (all citation defects, web-verified + corpus-cross-checked)
+  - Schacter & Addis (2007) misattribution: the *greater hippocampal activation during future simulation* fMRI finding was pinned to the theoretical review; re-attributed to **Addis, Wong & Schacter (2007)** *Neuropsychologia* 45(7):1363-1377. Sibling [temporal-void](/voids/temporal-void/) had already fixed this exact defect (2026-03-16); divergent uncorrected form survived here — the cross-corpus minority-form tell.
+  - Szpunar et al. (2014) source-conclusion mismatch: empirical "reduces temporal discounting" cited to a taxonomy/Perspective paper; re-attributed to **Peters & Büchel (2010)** *Neuron* 66(1):138-148 + **Benoit, Gilbert & Burgess (2011)** *J. Neurosci.* 31(18):6771-6779; Szpunar retained for taxonomic placement.
+  - Conway 2016 fabricated metadata: "Episodic memory and autonoetic consciousness: personal and collective perspectives, *Frontiers in Psychology* 7, 1" — no such paper (chimera of Conway 2001 title + fabricated venue/page). Corrected to **Conway, Loveday & Cole (2016)** "The remembering–imagining system" *Memory Studies* 9(3):256-265.
+  - Einstein & McDaniel (1990) wrong-paper attribution: monitoring/spontaneous-retrieval two-route distinction is the **multiprocess framework of McDaniel & Einstein (2000)** *Appl. Cogn. Psychol.* 14(7):S127-S144, not the 1990 aging study; re-attributed (1990 retained for event-based PM paradigm).
+- **Medium issues addressed**: 0 (content converged).
+- **Propagation**: research root [prospective-memory-consciousness-2026-01-17](/research/prospective-memory-consciousness-2026-01-17/) annotated with correct Addis-Wong-Schacter + Conway-Loveday-Cole citations (+ explicit "don't propagate Frontiers 7,1" note), ai_modified bumped. Corpus grep confirmed Szpunar-for-discounting and Conway-Frontiers forms were isolated to this article.
+- **Output**: [deep-review-2026-05-29-prospective-memory](/reviews/deep-review-2026-05-29-prospective-memory/)
 
 ## 2026-05-29T08:30:00+00:00 - deep-review
 - **Status**: Success
