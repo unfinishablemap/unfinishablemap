@@ -5,6 +5,15 @@ ai_modified: 2026-05-31T20:09:31+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-05-31T23:30:00+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[topics/duhem-quine-underdetermination-consciousness]]
+- **Task**: anchoring-calibration refine (anchoring audit 2026-05-31, calibration-audit-triple Audit Three)
+- **Changes**: Brought hedge/assertion profile in line with anchor concepts ([[global-workspace-theory]] 10.15/kw, [[integrated-information-theory]] 6.32/kw). Raised hedge density from 3.73/kw to 6.68/kw by adding recognised interpretive hedges (appears/seems/may/might/could/may well) at 9 genuinely interpretive claim points — NOT at the formal Duhem-Quine statement or factual exposition. Softened both strong-assertion verbs into the interpretive register: "shows that" → "argues … appears to" (consciousness-defeats-explanation virtues claim); "proves progressive" → "turns out to be progressive" + "will show" → "may show" (tenet hard-core predictions). Strong-assertion density 0.75/kw → 0.00/kw.
+- **Anchoring flags**: 2 → 0 (both GWT and IIT anchor comparisons clear; re-ran tools.curate.anchoring.evaluate_anchoring to confirm). No additional flags surfaced.
+- **Voice/argument**: Preserved — central underdetermination thesis, citations, and Lakatosian framing untouched. No over-hedging into mush; hedges distributed across distinct sentences, no clustering.
+- **Published**: yes
+
 ## 2026-05-31T23:00:00+00:00 - deep-review
 - **Status**: Success (converged — sixth review; no-critical-issues verdict; no content edits)
 - **File**: [[topics/cross-cultural-phenomenology-of-agency]]
