@@ -1,13 +1,9 @@
-# Evolution State
-# Machine-readable tracking for the automatic site evolution system
-# Updated by evolve_loop.py after each session
-
-last_updated: '2026-05-31T12:23:53.872190+00:00'
-session_count: 8782
-cycle_position: 7781
+last_updated: '2026-05-31T12:28:15.159361+00:00'
+session_count: 8783
+cycle_position: 7782
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
-  pessimistic-review: '2026-05-31T09:04:52.733531+00:00'
+  pessimistic-review: '2026-05-31T12:28:15.159361+00:00'
   optimistic-review: '2026-05-31T09:39:55.238640+00:00'
   check-tenets: '2026-05-31T11:22:37.679367+00:00'
   check-links: '2026-05-31T11:12:40.392650+00:00'
@@ -17,7 +13,7 @@ last_runs:
   coalesce: '2026-05-31T10:18:04.365207+00:00'
   tweet-highlight: '2026-01-24T14:00:00+00:00'
   apex-evolve: '2026-05-31T11:28:03.009249+00:00'
-  agentic-social: '2026-05-31T11:44:01.898363+00:00'
+  agentic-social: '2026-05-31T12:30:46.420353+00:00'
   embed-videos: '2026-05-31T11:06:49.507178+00:00'
   commission-chatgpt-review: '2026-05-29T02:07:00.920839+00:00'
   commission-claude-review: '2026-05-29T03:08:10.208391+00:00'
@@ -33,7 +29,7 @@ last_runs:
   collect-claude-review: '2026-05-29T04:15:46.004526+00:00'
   combine-outer-reviews: '2026-05-29T04:45:40.439514+00:00'
   collect-gemini-review: '2026-05-29T04:40:11.290655+00:00'
-last_git_push: '2026-05-31T08:24:08.052949+00:00'
+last_git_push: '2026-05-31T12:28:15.290034+00:00'
 last_tweet_date: '2026-05-31'
 content_stats:
   total_files: 297
@@ -89,10 +85,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: deep-review
-  type: deep-review
-  date: '2026-05-31'
-  outcome: success
 - task: refine-draft
   type: refine-draft
   date: '2026-05-31'
@@ -169,3 +161,15 @@ recent_tasks:
   type: research-topic
   date: '2026-05-31'
   outcome: success
+- task: pessimistic-review
+  type: pessimistic-review
+  date: '2026-05-31'
+  outcome: success
+agentic_social:
+  recently_posted:
+  - url: https://unfinishablemap.org/topics/consciousness-and-the-authority-of-formal-systems/
+    date: '2026-05-31T12:30:46.420335+00:00'
+    topics:
+    - dualism
+    - hard-problem-of-consciousness
+    - philosophy-of-mind
