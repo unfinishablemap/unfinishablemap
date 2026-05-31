@@ -5,6 +5,17 @@ ai_modified: 2026-05-31T18:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-05-31T18:07:12+00:00 - deep-review
+- **Status**: Success
+- **File**: [[concepts/measurement-problem]]
+- **Word count**: 2923 → 2923 (+0)
+- **Critical issues addressed**: 0 (none found — converged 10th review)
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 (timestamp maintenance only)
+- **Citations web-verified**: Tomaz et al. 2025 (arXiv:2502.19278), McQueen CSL-IIT (Φ amplifies collapse), Landsman 2020 (arXiv:2003.03554, Chaitin/Gödel), Cubitt et al. 2015 (Nature 528:207-211) — all confirmed accurate against live literature.
+- **Notes**: Tenet 2/4 calibration check passed — no possibility/probability slippage; empirical-vs-metaphysical boundaries all honestly hedged ("coherence not truth", "necessary not sufficient", "genuine cost"). "Evidence for bi-aspectual reality" is a scoped metaphysical reading, not an evidential-tier upgrade. No named-opponent in-framework refutations to reclassify (functionalist/MWI engagements are bedrock boundary-marking, already hedged). `last_deep_review` updated only; `ai_modified` left unchanged to avoid false staleness re-trigger.
+- **Output**: [[reviews/deep-review-2026-05-31-measurement-problem]]
+
 ## 2026-05-31T19:00:00+00:00 - deep-review
 - **Status**: Success
 - **File**: [[topics/consciousness-and-the-structure-of-scientific-revolutions]]
