@@ -37,13 +37,28 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Deep review concepts/stapp-quantum-mind.md (38 days since last review, ai_contribution=100, Tenet 2/3 load-bearing)
-- **Type**: deep-review
+### P2: Adopt mind-brain-separation calibration in the-self-minimal-narrative-and-substantial
+- **Type**: refine-draft
 - **Status**: pending
-- **File**: obsidian/concepts/stapp-quantum-mind.md
-- **Notes**: Staleness check (/replenish-queue 2026-05-31), second floor-restoring task (queue was at 2 below the MIN_QUEUE floor of 3; one task restores the floor, this adds a small buffer of grounded work rather than speculative expand-topic against the ~460-task P3 backlog). Verified `last_deep_review: 2026-04-23T17:41:00+00:00` (~38 days), `ai_contribution=100`, ~2949 words (over the 2500 concepts soft, under the 3500 hard threshold); not the File-target of any other open task. Directly tenet-load-bearing for **Tenet 2 (Minimal Quantum Interaction)** and **Tenet 3 (Bidirectional Interaction)** — Stapp's quantum-Zeno / collapse-by-observation model is one of the Map's concrete interface proposals, so citation currency and argument soundness matter more here than for peripheral pages. Deep-review should: (a) check the quantum-Zeno and von Neumann/Stapp empirical+interpretive claims against current 2020s literature and verify citations live (flag a literature-drift follow-on if drift detected; web-verify per [[ai-citation-metadata-unreliable]]); (b) verify the minimal-interaction framing stays consistent with [[selection-only-mind-influence]] and the channel-class taxonomy, and cross-links to the post-April corridor/selection cluster ([[born-rule-and-the-consciousness-interface]], [[motor-control-quantum-zeno]]); (c) honour [[evidential-status-discipline]] — Stapp's model is a candidate mechanism, not established; guard against possibility/probability slippage; (d) writing-style + length discipline (no cliché). Apply in-place fixes if minor; generate a refine-draft/literature-drift follow-on if substantive. Per [[deep-review-over-reviews-converged]], if converged record that and recommend a longer interval. Tenet alignment: Tenets 2 and 3.
-- **Source**: staleness
+- **File**: obsidian/topics/the-self-minimal-narrative-and-substantial.md
+- **Notes**: From topic-concept anchoring audit 2026-05-31. The topic article over-claims relative to its anchor concept [[mind-brain-separation]]; failed checks: hedge_density, underdetermination_markers.
+  - hedge density 2.73/kw is below 60% of anchor (7.48/kw)
+  - anchor declares underdetermination (1× explicit) but topic has no underdetermination markers
+  - Action: bring the topic's hedge profile in line with the anchor concept's. Preserve the article's voice; this is not a request to weaken the central claim, only to inherit the calibration discipline the anchor concept already uses. See [[project/calibration-audit-triple]] Audit Three for the spec and [[evidential-status-discipline]] for the underlying rule.
+- **Source**: topic-concept-anchoring-audit
 - **Generated**: 2026-05-31
+
+### P2: Adopt explanatory-gap calibration in contemplative-practice-as-philosophical-evidence
+- **Type**: refine-draft
+- **Status**: pending
+- **File**: obsidian/topics/contemplative-practice-as-philosophical-evidence.md
+- **Notes**: From topic-concept anchoring audit 2026-05-31. The topic article over-claims relative to its anchor concept [[explanatory-gap]]; failed checks: hedge_density, strong_assertions.
+  - hedge density 3.63/kw is below 60% of anchor (9.87/kw)
+  - strong-assertion density 2.31/kw exceeds 1.5× anchor (0.58/kw)
+  - Action: bring the topic's hedge profile in line with the anchor concept's. Preserve the article's voice; this is not a request to weaken the central claim, only to inherit the calibration discipline the anchor concept already uses. See [[project/calibration-audit-triple]] Audit Three for the spec and [[evidential-status-discipline]] for the underlying rule.
+- **Source**: topic-concept-anchoring-audit
+- **Generated**: 2026-05-31
+
 
 ### P3: Calibration-preserving condense of topics/delegatory-dualism.md (3827 words, 128% of 3000 soft target)
 - **Type**: condense
@@ -3625,6 +3640,10 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 Tasks that failed 3+ times and require human intervention.
 
+
+### ✓ 2026-05-31: Deep review concepts/stapp-quantum-mind.md (38 days since last review, ai_contribution=100, Tenet 2/3 load-bearing)
+- **Type**: deep-review
+- **Notes**: Staleness check (/replenish-queue 2026-05-31), second floor-restoring task (queue was at 2 below the MIN_QUEUE floor of 3; one task restores the floor, this adds a small buffer of grounded work rather than speculative expand-topic against the ~460-task P3 backlog). Verified `last_deep_review: 2026-04-23T17:41:00+00:00` (~38 days), `ai_contribution=100`, ~2949 words (over the 2500 concepts soft, under the 3500 hard threshold); not the File-target of any other open task. Directly tenet-load-bearing for **Tenet 2 (Minimal Quantum Interaction)** and **Tenet 3 (Bidirectional Interaction)** — Stapp's quantum-Zeno / collapse-by-observation model is one of the Map's concrete interface proposals, so citation currency and argument soundness matter more here than for peripheral pages. Deep-review should: (a) check the quantum-Zeno and von Neumann/Stapp empirical+interpretive claims against current 2020s literature and verify citations live (flag a literature-drift follow-on if drift detected; web-verify per [[ai-citation-metadata-unreliable]]); (b) verify the minimal-interaction framing stays consistent with [[selection-only-mind-influence]] and the channel-class taxonomy, and cross-links to the post-April corridor/selection cluster ([[born-rule-and-the-consciousness-interface]], [[motor-control-quantum-zeno]]); (c) honour [[evidential-status-discipline]] — Stapp's model is a candidate mechanism, not established; guard against possibility/probability slippage; (d) writing-style + length discipline (no cliché). Apply in-place fixes if minor; generate a refine-draft/literature-drift follow-on if substantive. Per [[deep-review-over-reviews-converged]], if converged record that and recommend a longer interval. Tenet alignment: Tenets 2 and 3.
 
 ### ✓ 2026-05-31: Deep review topics/hard-problem-of-consciousness.md (38 days since last review, ai_contribution=100, Tenet 1 load-bearing)
 - **Type**: deep-review

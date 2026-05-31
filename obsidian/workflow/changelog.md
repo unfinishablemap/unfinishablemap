@@ -5,6 +5,19 @@ ai_modified: 2026-05-31T00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-05-31T12:30:00+00:00 - deep-review
+- **Status**: Success (near-converged — citation-hygiene + calibration close-out)
+- **File**: [[concepts/stapp-quantum-mind]]
+- **Word count**: 2847 → 2881 (+34; length-neutral mode, 115% of 2500 soft, well below 3500 hard)
+- **Critical issues addressed**: 0 (all prior-pessimistic critical/high items already absorbed by the 2026-05-28 edit)
+- **Medium issues addressed**: 2 (orphaned-reference hygiene; bandwidth "more plausible" calibration over-reach)
+- **Enhancements made**: 1 (Garrison 2013 empirical anchor, double-duty for open-monitoring claim + previously-unsupported Illusionist assertion)
+- **Fabrication scrutiny (special mandate)**: the historical fabricated "Meister 2024 PNAS" orphan is GONE from article, research notes, and corpus-wide (grep CLEAN). Correct replacement Zheng & Meister 2025 *Neuron* 113(2):192–204 present and web-verified exact.
+- **Citation pass (all web-verified EXACT)**: Denton et al. 2024 *Nat. Commun.* 15:10823 (DOI 10.1038/s41467-024-55124-x, full author vector); Schwartz/Stapp/Beauregard 2005 *Phil. Trans. R. Soc. B* 360(1458):1309–1327; Zheng & Meister 2025 *Neuron* 113(2):192–204; Garrison et al. 2013 *Front. Hum. Neurosci.* 7:440; Rajan et al. 2019 *Cereb. Cortex* 29(7):2832–2843. Orphan sweep: Garrison + Rajan anchored in-body this pass; Hagan 2002 already re-anchored; Meister/Whitehead orphans already removed. No fabrications, no replacements. No research/ change needed (no reference-list mutation).
+- **Calibration (Tenet 2/3)**: von Neumann-chain/quantum-Zeno consistently marked Stapp's proposal, not settled physics; compatibility-not-commitment language throughout Relation-to-Site-Perspective; corridor-vs-minimum-outside-corridor Born-rule fork held live. No possibility/probability slippage; recast the one over-strong "more plausible" verb. Diagnostic test passed.
+- **Reasoning modes (editor-internal)**: epiphenomenalist Mode One (calibration argument on opponent's own premise, heterophenomenological symmetry conceded); illusionist Mode Two (seeming-regress); MWI Mode Three (boundary, declared open). No boundary-substitution, no label leakage (grep PASS).
+- **Output**: [[reviews/deep-review-2026-05-31-stapp-quantum-mind]]
+
 ## 2026-05-31T10:58:26+00:00 - deep-review
 - **Status**: Success (near-no-op — convergence confirmed)
 - **File**: [[topics/hard-problem-of-consciousness]]

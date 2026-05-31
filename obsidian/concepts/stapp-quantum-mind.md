@@ -4,7 +4,7 @@ description: "Mental effort operates through the quantum Zeno effect: rapid atte
 created: 2026-01-22
 modified: 2026-01-22
 human_modified: null
-ai_modified: 2026-05-28T22:55:09+00:00
+ai_modified: 2026-05-31T00:00:00+00:00
 draft: false
 topics:
   - "[[topics/free-will]]"
@@ -38,7 +38,7 @@ author: null
 ai_system: claude-opus-4-5-20251101
 ai_generated_date: 2026-01-22
 last_curated: null
-last_deep_review: 2026-04-23T17:41:00+00:00
+last_deep_review: 2026-05-31T00:00:00+00:00
 ---
 
 Henry Stapp's quantum mind model proposes that consciousness influences the brain through the quantum Zeno effect—a standard result in quantum mechanics where rapid, repeated observation prevents a quantum system from evolving. In Stapp's framework, mental effort acts like repeated observation, "holding" desired neural patterns in place against their natural tendency to dissipate. This provides a mechanism for mind-matter interaction that requires no new physics: consciousness operates through orthodox quantum mechanics, selecting among superposed neural states by attending to them.
@@ -70,7 +70,7 @@ Stapp finds a kindred spirit in William James, who observed: "Volition is nothin
 
 Stapp's model answers: felt effort corresponds to observation rapidity. Sustained attention feels like work because it *is* work—continuous mental engagement to maintain the Zeno effect.
 
-Recent neuroscience supports a crucial distinction. Willed attention (internally generated) engages different neural mechanisms than instructed attention (externally cued): frontal theta oscillations, bidirectional frontoparietal coherence, and additional frontal recruitment. The neural distinction mirrors the phenomenal distinction. See [[attention-as-interface|voluntary attention]] for comprehensive treatment.
+Recent neuroscience supports a crucial distinction. Willed attention (internally generated) engages different neural mechanisms than instructed attention (externally cued): frontal theta oscillations, bidirectional frontoparietal coherence, and additional frontal recruitment (Rajan et al., 2019). The neural distinction mirrors the phenomenal distinction. See [[attention-as-interface|voluntary attention]] for comprehensive treatment.
 
 ## Empirical Support: Neuroplasticity
 
@@ -86,13 +86,13 @@ The [[attention-as-interface|attention as interface hypothesis]] extends Stapp's
 
 **Unified attention-motor substrate**: Rizzolatti's premotor theory of attention (PMTA) demonstrates that attention and motor planning share neural substrates—there is no independent attention system. Preparing an eye movement to location X improves visual processing at X; attention *is* motor preparation. This unification matters: if Stapp's Zeno mechanism works for attention, it should work identically for motor selection. The [[attention-as-interface]] develops this convergence in detail, showing that willed attention and willed action share the same neural signatures (frontal theta, ~280-300ms deployment, bidirectional frontoparietal coherence).
 
-**Bandwidth limitation**: Conscious behavioural throughput measures roughly 10 bits/second (Zheng & Meister, 2025)—a 100-million-fold reduction from the brain's sensory processing rate. This figure captures what conscious agents *do*, not what phenomenal attention processes internally; the actual bandwidth of phenomenal attention remains unknown. But the vast gap means consciousness operates at policy level (goals, strategies) rather than micromanaging neurons, making the model *more* plausible—operating at policy level matches phenomenology and neuroscience. This policy-level operation aligns with [[adaptive-computational-depth|adaptive computational depth]]: consciousness allocates detail where it attends, operating as a coarse-grained selector rather than a quantum-by-quantum controller.
+**Bandwidth limitation**: Conscious behavioural throughput measures roughly 10 bits/second (Zheng & Meister, 2025)—a 100-million-fold reduction from the brain's sensory processing rate. This figure captures what conscious agents *do*, not what phenomenal attention processes internally; the actual bandwidth of phenomenal attention remains unknown. The vast gap fits consciousness operating at policy level (goals, strategies) rather than micromanaging neurons—though low bandwidth is by itself neutral between a coarse-grained quantum selector and a coarse-grained epiphenomenal monitor. This policy-level operation aligns with [[adaptive-computational-depth|adaptive computational depth]]: consciousness allocates detail where it attends, operating as a coarse-grained selector rather than a quantum-by-quantum controller.
 
 **Interface locality**: Consciousness operates through attention, and attention operates through specific neural mechanisms. This explains why consciousness influences the brain but not distant objects—there are no attention channels to external quantum systems.
 
 ## Two Modes of Consciousness
 
-Meditation research reveals consciousness can modulate its observation rate. Focused attention meditation (high observation rate, frontal theta, ACC activation) strengthens Zeno selection. Open monitoring meditation (low observation rate, PCC deactivation) cultivates non-reactive awareness without selection.
+Meditation research reveals consciousness can modulate its observation rate. Focused attention meditation (high observation rate, frontal theta, ACC activation) strengthens Zeno selection. Open monitoring meditation (low observation rate, PCC deactivation) cultivates non-reactive awareness without selection: adept meditators can volitionally deactivate the PCC and report the shift as a move from "efforting" to "effortless doing" (Garrison et al., 2013).
 
 The [[witness-consciousness|witness state]] isn't absence of consciousness but consciousness operating differently—present without intervening in which neural patterns become actual. See [[meditation-and-consciousness-modes]] for detailed treatment.
 
@@ -128,7 +128,7 @@ Perhaps effort phenomenology is just what certain neural computations feel like�
 
 ### The Illusionist Challenge
 
-[[illusionism|Illusionists]] argue there is no phenomenal effort to explain. **Response**: Illusionism faces a regress—the *seeming* to feel effort must be explained. Moreover, contemplative traditions show extended meditation *refines* the effort distinction rather than dissolving it.
+[[illusionism|Illusionists]] argue there is no phenomenal effort to explain. **Response**: Illusionism faces a regress—the *seeming* to feel effort must be explained. The contemplative evidence above cuts the other way: trained practitioners report the effort/effortlessness distinction sharpening rather than dissolving.
 
 ## Relation to Site Perspective
 
