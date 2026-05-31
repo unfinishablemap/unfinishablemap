@@ -5,6 +5,15 @@ ai_modified: 2026-05-31T20:09:31+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-05-31T21:08:07+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[topics/self-reference-and-the-limits-of-physical-description]]
+- **Task**: topic-concept anchoring-calibration refine (anchoring audit 2026-05-31, calibration-audit-triple Audit Three)
+- **Changes**: Brought hedge/assertion profile in line with anchor concept [[mysterianism]] (10.34/kw hedge, 0.69/kw strong; 60% threshold = 6.20/kw) and the second unnamed anchor [[explanatory-gap]] (9.87/kw; threshold 5.92/kw). Raised hedge density 3.83/kw → 6.49/kw by adding recognised counted markers (appears/may/could/seems) at 8 genuinely interpretive claim points — the opening thesis ("appear to undermine … may keep open"), the Frauchiger-Renner structural-parallel reading, Landsman's conditional Bell-loophole consequence, the Dualism vantage-point claim, the Bidirectional positioning claim, the closure-failure conclusion, and the disclosure-reading pointer. Did NOT hedge the formal incompleteness statements, the undecidability proofs (Cubitt/Landsman), or factual exposition. Softened over-strong assertions: in "What This Does and Does Not Show", "shows that … share a common structure" → "indicates", "show that physics is formally incomplete" → "indicates", "result shows that … contradictions" → "indicates". Strong-assertion density 1.15/kw → 0.38/kw (remaining single "proves" is inside a disavowed strawman quote the article rejects).
+- **Anchoring flags**: 2 → 0 (both mysterianism and explanatory-gap anchor comparisons clear; re-ran tools.curate.anchoring.evaluate_anchoring to confirm). The task named only the mysterianism flag; the explanatory-gap flag surfaced in the same pass and was resolved by the same edits.
+- **Voice/argument**: Preserved — the self-reference / limits-of-physical-description thesis, the three-levels framing, all citations, and the evidential-status-discipline separation of defeater-removal from positive support untouched. No over-hedging into mush; hedges spread across distinct sentences, no clustering.
+- **Published**: yes
+
 ## 2026-05-31T23:30:00+00:00 - refine-draft
 - **Status**: Success
 - **File**: [[topics/duhem-quine-underdetermination-consciousness]]
