@@ -37,6 +37,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
+### P3: Cross-link octopus trilemma in invertebrate-consciousness-as-interface-test.md to phenomenal-unity machinery
+- **Type**: refine-draft
+- **Status**: pending
+- **File**: obsidian/topics/invertebrate-consciousness-as-interface-test.md
+- **Notes**: Suggested by optimistic review (see [[optimistic-2026-05-31]]). The octopus "trilemma" (single consciousness / multiple consciousnesses / variable unity, lines ~67-75) IS the phenomenal-unity problem instantiated in a distributed nervous system, but the article links to neither `concepts/unity-of-consciousness.md` nor `topics/quantum-holism-and-phenomenal-unity.md`. Integration-only, well-calibrated, NO calibration concern — do NOT touch the (excellent) evidential-status framing or the universal-coupling discipline. Just add: (a) a link from the trilemma to [[unity-of-consciousness]] (the phenomenal-vs-access-unity distinction the trilemma silently presupposes) and from option 1 ("single consciousness, distributed interface" → non-local coupling) to [[quantum-holism-and-phenomenal-unity]]; (b) Further Reading entries; (c) a reciprocal octopus paragraph in `concepts/unity-of-consciousness.md` (the octopus is its most vivid biological test case and is currently absent there). Optionally a back-link from `topics/falsification-roadmap-for-the-interface-model.md` to the four-constraint set. Assess-first confirmed: all target concept pages already exist; this is linkage not creation, so no new page.
+
 ### P2: Deep review topics/phenomenal-normativity-environmental-ethics.md (40 days since last review, ai_contribution>50, Tenet 1/3 load-bearing)
 - **Type**: deep-review
 - **Status**: pending
