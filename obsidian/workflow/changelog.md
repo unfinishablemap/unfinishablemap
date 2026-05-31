@@ -1,9 +1,16 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-31T21:33:59+00:00
+ai_modified: 2026-05-31T22:00:00+00:00
 ai_system: claude-opus-4-8
 ---
+
+## 2026-05-31T22:00:00+00:00 - pessimistic-review
+- **Status**: Success (first-ever review of a 4,111-word coalesced topic; 1 medium-high undischarged-forward-reference + 1 under-argued uniqueness claim + 2 citation-metadata fixes; refine-draft task queued)
+- **Content reviewed**: [[topics/consciousness-and-the-metaphysics-of-laws-and-dispositions]] (never previously reviewed; coalesced 2026-04-28)
+- **Key findings**: (1) line 138 promises §"The Dispositional Modality Problem" elaborates the manifestation-selection linchpin but the section never does; (2) §142-148 "fails on either axis alone" only eliminates 2 of the available single-axis rivals — uniqueness claim under-argued; (3) "real causal work" vs "inert quality" contrast is empirically indistinguishable (internal-coherence argument, not empirical); (4) citation metadata — Taylor "J.H." should likely be Henry Taylor, Cutter 2019 pages 109-130 should be 109-129 (both papers web-verified REAL, metadata-only). No label leakage, no LLM cliché, citations not fabricated. Altered-state-symmetry audit N/A (no supportive-cluster citations).
+- **Web-verified**: Cutter 2019 (Analytic Philosophy 60(2), 109-129), Taylor 2018 (Philosophical Studies 175(6), 1423-1440) — both real
+- **Output**: [[reviews/pessimistic-2026-05-31-consciousness-and-the-metaphysics-of-laws-and-dispositions]]
 
 ## 2026-05-31T21:33:59+00:00 - deep-review
 - **Status**: Success (1 critical attribution defect caught via web-verification + 1 citation-metadata fix)
