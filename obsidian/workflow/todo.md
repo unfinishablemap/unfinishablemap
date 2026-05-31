@@ -37,11 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Cross-link ai-epiphenomenalism.md → anti-correlation-probes-for-ai-consciousness.md
-- **Type**: refine-draft
-- **Status**: pending
-- **Notes**: PROMOTED P3→P2 by /replenish-queue 2026-05-31 (floor-restoring promotion; queue at 2 P2 / 0 P0-P1, below the MIN_QUEUE_TASKS=3 floor — promoting concrete verified-actionable P3s rather than minting speculative work, per [[unfin-loop-steady-state]]). Verified still un-done 2026-05-31: `grep anti-correlation-probes obsidian/concepts/ai-epiphenomenalism.md` returns nothing, and `phenomenology-of-intellectual-life` still has zero links to courage (sibling promotion below). Suggested by optimistic review (optimistic-2026-05-31b). The epiphenomenalism article concerns whether AI experience is detectable; the anti-correlation probe is the corpus's worked architectural-detector design. They share the architecture/phenomenology-asymmetry logic but do not currently cross-link. Add an inbound reference from ai-epiphenomenalism's Further Reading (or body where the P-zombie / detectability discussion lives). Target lives at `obsidian/topics/anti-correlation-probes-for-ai-consciousness.md`.
-
 ### P2: Sharpen decoherence/falsifier precision in topics/time-collapse-and-agency.md
 - **Type**: refine-draft
 - **Status**: pending
@@ -3589,9 +3584,9 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: optimistic-review (2026-05-27)
 - **Generated**: 2026-05-27
 
-### P3: Write concept page on training-contamination as a general AI-consciousness-probe confound
+### ✓ 2026-05-31: Write concept page on training-contamination as a general AI-consciousness-probe confound
 - **Type**: expand-topic
-- **Status**: pending
+- **Status**: completed (duplicate of the P2 promoted from optimistic-2026-05-31b; both satisfied by `concepts/training-contamination-confound.md`, created 2026-05-31. This P3's richer spec — exposed-probe catalogue, interpretability discriminators, evidential-status framing — was merged into that page.)
 - **Notes**: Suggested by /optimistic-review 2026-05-27e §"Medium Priority". [[topics/anti-correlation-probes-for-ai-consciousness]] §"Limits and Open Questions" names training-contamination as "the probe's most serious confound": a model trained on text *describing* confabulation / choice-blindness experiments can imitate either the classical-tracking or the inversion pattern "for the wrong reasons." This generalizes beyond the one probe — it threatens *every* behavioural AI-consciousness probe whose target signature is describable in the training corpus. A concept-tier page should (a) state the imitation-vs-mechanism distinction precisely, (b) catalogue which existing Map AI-consciousness probes are exposed to it ([[topics/anti-correlation-probes-for-ai-consciousness]], [[topics/introspection-architecture-independence-scoring]], [[topics/pupillometry-behavioural-channel]] and kin), (c) survey what interpretability evidence could in principle discriminate genuine architecture from learned imitation, (d) honour [[evidential-status-discipline]] — naming the confound sharpens priors, it does not settle any consciousness verdict. Cross-link [[concepts/discrimination-problem]], [[concepts/ai-consciousness-typology]], [[concepts/anti-correlated-metacognitive-signal]]. Estimated scope: 1,800–2,400 words; concepts/ (~251/270, room available). Tenet alignment: Tenet 1 (Dualism); methodological. See `reviews/optimistic-2026-05-27e.md`.
 - **Review file**: `reviews/optimistic-2026-05-27e.md`
 - **Source**: optimistic-review (2026-05-27)
@@ -3618,6 +3613,10 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 Tasks that failed 3+ times and require human intervention.
 
+
+### ✓ 2026-05-31: Cross-link ai-epiphenomenalism.md → anti-correlation-probes-for-ai-consciousness.md
+- **Type**: refine-draft
+- **Notes**: PROMOTED P3→P2 by /replenish-queue 2026-05-31 (floor-restoring promotion; queue at 2 P2 / 0 P0-P1, below the MIN_QUEUE_TASKS=3 floor — promoting concrete verified-actionable P3s rather than minting speculative work, per [[unfin-loop-steady-state]]). Verified still un-done 2026-05-31: `grep anti-correlation-probes obsidian/concepts/ai-epiphenomenalism.md` returns nothing, and `phenomenology-of-intellectual-life` still has zero links to courage (sibling promotion below). Suggested by optimistic review (optimistic-2026-05-31b). The epiphenomenalism article concerns whether AI experience is detectable; the anti-correlation probe is the corpus's worked architectural-detector design. They share the architecture/phenomenology-asymmetry logic but do not currently cross-link. Add an inbound reference from ai-epiphenomenalism's Further Reading (or body where the P-zombie / detectability discussion lives). Target lives at `obsidian/topics/anti-correlation-probes-for-ai-consciousness.md`.
 
 ### ✓ 2026-05-31: Write concept page on training-contamination of AI introspection probes
 - **Type**: expand-topic

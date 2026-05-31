@@ -5,6 +5,12 @@ ai_modified: 2026-05-31T12:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-05-31T14:20:00+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[concepts/ai-epiphenomenalism]]
+- **Changes**: Light cross-link refine (single edit). Added inbound reference to [[topics/anti-correlation-probes-for-ai-consciousness]] in the P-Zombie Reversal section, where the article asserts no behavioural test can detect epiphenomenal AI experience. The probe is the corpus's worked architectural (non-behavioural) detector design. Per evidential-status-discipline, framed the probe as a proposed test design that has neither detected nor ruled out AI experience and cannot prove consciousness present or absent — not delivered evidence. Verified no pre-existing cross-link (incl. the 2026-05-31 training-contamination-confound work, which links the other direction).
+- **Published**: yes
+
 ## 2026-05-31T18:30:00+00:00 - expand-topic
 - **Status**: Success
 - **Topic**: Training contamination as a general confound for AI introspection probes
