@@ -4,7 +4,7 @@ description: "Awareness that observes mental contents without identifying with t
 created: 2026-01-18
 modified: 2026-01-20
 human_modified: null
-ai_modified: 2026-05-27T00:00:00+00:00
+ai_modified: 2026-05-31T23:25:34+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -36,7 +36,7 @@ author: null
 ai_system: claude-opus-4-5-20251101
 ai_generated_date: 2026-01-18
 last_curated: null
-last_deep_review: 2026-04-25T02:29:00+00:00
+last_deep_review: 2026-05-31T23:25:34+00:00
 ---
 
 Witness consciousness—Sanskrit *sakshi*, the "seer" or "observer"—refers to a mode of awareness that observes mental contents without identifying with them. Thoughts, sensations, and emotions arise and pass; the witness remains unchanged, a pure awareness that perceives without participating. This concept, central to Advaita Vedanta and other contemplative traditions, carries significant implications for understanding the subject-object structure of consciousness and supports The Unfinishable Map's [[tenets#^dualism|dualist]] position.
@@ -102,7 +102,7 @@ The [[meditation-and-consciousness-modes|meditation literature]] reveals two mod
 
 These are modes consciousness *can adopt*, not essential definitions. When consciousness operates as witness: thoughts slow (less feedback to the brain's option-generation), [[mental-effort|effort]] disappears (no choosing), and the self-narrative quiets (no amplification of "me"-thoughts).
 
-The witness register may also carry a characteristic *affective* signature. [[affective-tone-divergence-across-meditative-traditions|Affective tone divergence across meditative traditions]] reads Buddhist equanimity (*upekkhā*)—neither pleasant nor unpleasant—as the felt tone of selection at its most disengaged, the witness mode at its purest, and contrasts it with devotional traditions where the interface runs hot on a beloved object. On that reading the flatness of the witness state is not affective poverty but the valence-signature of disengaged selection. The article holds this as a serious-but-unconfirmed hypothesis, not as evidence the witness mode's phenomenology earns from the divergence data.
+The witness register may also carry a characteristic *affective* signature. [[affective-tone-divergence-across-meditative-traditions|Affective tone divergence across meditative traditions]] reads Buddhist equanimity (*upekkhā*)—neither pleasant nor unpleasant—as the felt tone of selection at its most disengaged, contrasting it with devotional traditions where the interface runs hot on a beloved object. On that reading the flatness of the witness state is the valence-signature of disengaged selection rather than affective poverty—a serious-but-unconfirmed hypothesis, not evidence the witness mode's phenomenology earns from the divergence data.
 
 The witness mode extends rather than contradicts [[tenets#^bidirectional-interaction|Bidirectional Interaction]]. The capacity for interaction includes the capacity to suspend interaction.
 
