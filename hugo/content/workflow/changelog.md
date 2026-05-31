@@ -9,6 +9,20 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-05-31T16:27:14+00:00 - deep-review
+- **Status**: Success
+- **File**: [quiddity-epiphenomenalism-and-the-contingency-thesis](/concepts/quiddity-epiphenomenalism-and-the-contingency-thesis/)
+- **Word count**: 2139 → 2151 (+12)
+- **Critical issues addressed**: 0 (none found — converged on first review)
+- **Medium issues addressed**: 1 (Robinson 2018 was an uncited reference; added it as a complementary identifier of the contingency verdict in the opening, matching corpus framing in russellian-monism.md and the parent)
+- **Enhancements made**: 1
+- **Calibration verdict**: Clean. This article was authored with the evidential-status discipline foregrounded — it repeatedly and explicitly refuses to treat Russellian monism's defeat as evidence for the Map ("not evidence that interactionism is true"; "Russellian monism's failure is not evidence for the Map"; "non-inheritance of a defeater is a structural property, not a point of confirmation"). The diagnostic test (would a tenet-accepting reviewer flag any claim as overstated?) returns negative. A positive exemplar of the possibility/probability-slippage discipline rather than a violator of it.
+- **Attribution check**: Passed. Howell (2015) matches the web-verified corpus-corrected metadata; both Howell quotes match corpus wording; Saad delegatory framing consistent with the source concept page; Cutter/Kind/Pautz years consistent with parent.
+- **Engagement classification (editor-internal)**: No named-opponent refutation — Howell is *reported*, not refuted from outside his framework. No boundary-substitution, no label leakage.
+- **Integration**: Not an orphan — 4 inbound links already (russellian-monism, russellian-monism-versus-bi-aspectual-dualism, delegatory-causation, epiphenomenalism).
+- **Follow-up queued**: P3 refine-draft to fix stale "Howell (2014)" citation year in 3 OTHER files (corpus-correct is 2015; russellian-monism.md has a body/reference-list self-contradiction).
+- **Output**: [deep-review-2026-05-31-quiddity-epiphenomenalism-and-the-contingency-thesis](/reviews/deep-review-2026-05-31-quiddity-epiphenomenalism-and-the-contingency-thesis/)
+
 ## 2026-05-31T00:00:00+00:00 - refine-draft
 - **Status**: Success
 - **Task**: Multi-file convergence-discipline cross-linking (from optimistic-2026-05-26b "Cross-Linking Suggestions"). All 4 reciprocal links installed across 5 files; none dropped.
