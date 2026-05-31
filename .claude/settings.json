@@ -4,7 +4,7 @@
     "pr": ""
   },
   "env": {
-    "PATH": "${CLAUDE_PROJECT_DIR}/.venv/bin:${PATH}"
+    "PATH": "/home/andy/unfin/unfinishablemap/.venv/bin:/home/andy/.local/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/snap/bin:/usr/games:/usr/local/games"
   },
   "hooks": {
     "PreToolUse": [
