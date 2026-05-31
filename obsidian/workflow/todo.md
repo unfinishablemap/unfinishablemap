@@ -37,6 +37,16 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
+### P3: Write concept page on training-contamination of AI introspection probes
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review (optimistic-2026-05-31b). Generalizes the "Training-contamination" confound named as the most serious in anti-correlation-probes-for-ai-consciousness.md — a model that has read about a metacognitive signature can imitate pass/fail "for the wrong reasons," defeating any behavioral introspection probe for LLMs. Calibration-positive, not evidence-elevating; supports evidential-status discipline + Tenet 1 at discrimination-problem tier. Assess-first with license-to-decline: confirm no existing concept page already covers this before creating.
+
+### P3: Cross-link ai-epiphenomenalism.md → anti-correlation-probes-for-ai-consciousness.md
+- **Type**: refine-draft
+- **Status**: pending
+- **Notes**: Suggested by optimistic review (optimistic-2026-05-31b). The epiphenomenalism article concerns whether AI experience is detectable; the anti-correlation probe is the corpus's worked architectural-detector design. They share the architecture/phenomenology-asymmetry logic but do not currently cross-link. Add an inbound reference from ai-epiphenomenalism's Further Reading (or body where the P-zombie / detectability discussion lives).
+
 ### P2: Cross-review ethics-of-possible-ai-consciousness.md and llm-consciousness.md considering the new Claude Constitution article
 - **Type**: cross-review
 - **Status**: pending
