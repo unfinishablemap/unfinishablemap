@@ -107,7 +107,7 @@ Invertebrate consciousness has become a major focus of both empirical research a
 - **URL**: https://sites.google.com/nyu.edu/nydeclaration/declaration
 - **Type**: Scientific declaration
 - **Key points**:
-  - Launched April 2024 with ~40 signatories, grown to >80 scientists and philosophers (incl. Chalmers, Koch, Godfrey-Smith, Chittka, Seth) — note: the "500+" figure that earlier circulated is a documented ~6x inflation (no source supports it; verified against the NYU declaration site / Brooks Institute / Kimmela), do not reintroduce it
+  - Launched April 2024 with ~40 signatories, grown to 599 scientists and philosophers as of the live 2026 count (incl. Chalmers, Koch, Godfrey-Smith, Chittka, Seth) — verified against the NYU declaration site, which states "Signature count: 599". NOTE (reconciled 2026-05-31): the earlier ">80" figure and "500+ is a ~6x inflation" guardrail were themselves against stale mid-2024 snapshots; the count has genuinely grown, so "over 500" is now accurate. Cite the live site for the current figure; do not fabricate a precise count the site does not support.
   - "Strong scientific support" for consciousness in mammals and birds
   - "Realistic possibility" in all vertebrates and many invertebrates (cephalopods, decapod crustaceans, insects)
   - Precautionary principle: certainty about consciousness should not be required for welfare consideration
@@ -223,7 +223,7 @@ Invertebrate consciousness has become a major focus of both empirical research a
 | 2022 | Chittka, *The Mind of a Bee* | Comprehensive case for bee cognition and consciousness; ~1 million neurons |
 | 2022 | Drosophila trace conditioning (Nature) | Demonstrated attention-dependent memory in fruit flies |
 | 2022 | IIT collapse under anaesthesia in Drosophila (PLoS Comp Bio) | Integrated information correlates with consciousness in flies |
-| 2024 | New York Declaration on Animal Consciousness | ~40 launch signatories, grown to >80 (NOT "500+", a documented ~6x inflation); "realistic possibility" of consciousness in invertebrates |
+| 2024 | New York Declaration on Animal Consciousness | ~40 launch signatories, grown to 599 (live 2026 count); "realistic possibility" of consciousness in invertebrates |
 | 2025 | Royal Society special issue on insect consciousness | Comprehensive review of the field's current state |
 
 ## Potential Article Angles

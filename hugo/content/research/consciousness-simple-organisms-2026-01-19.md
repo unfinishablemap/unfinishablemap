@@ -99,7 +99,8 @@ Research into consciousness in simple organisms reveals a rapidly evolving field
 - **URL**: https://www.animal-ethics.org/the-new-york-declaration-on-animal-consciousness-stresses-the-ethical-implications/
 - **Type**: Scientific declaration
 - **Key points**:
-  - 500+ scientists signed (including Chalmers, Koch, Godfrey-Smith, Chittka, Anil Seth)
+  - Hundreds of scientists signed — 599 as of the live 2026 count, up from ~40 at the April 2024 launch (including Chalmers, Koch, Godfrey-Smith, Chittka, Anil Seth)
+  - NYD signatory count: ~40 at April 2024 launch / 599 current (live 2026, verified against the NYU declaration site). The count has genuinely grown — "over 500" is now accurate; earlier "~6x inflation" / ">80" corrections were against stale mid-2024 snapshots. Do not reintroduce a fabricated precise count; cite the live site for the current figure.
   - "Strong scientific support" for consciousness in mammals and birds
   - "Realistic possibility" for all vertebrates and many invertebrates
   - Key principle: certainty shouldn't be required for welfare consideration
@@ -242,7 +243,7 @@ Research into consciousness in simple organisms reveals a rapidly evolving field
 | 2019 | Ginsburg & Jablonka *Evolution of the Sensitive Soul* | UAL framework for consciousness transition |
 | 2022 | Birch "The search for invertebrate consciousness" | Theory-light methodology proposed |
 | 2023 | Becerra et al. "The Conscious Nematode" | C. elegans examined for minimal consciousness |
-| 2024 | New York Declaration on Animal Consciousness | 500+ scientists; invertebrates included |
+| 2024 | New York Declaration on Animal Consciousness | Hundreds of scientists (599 as of live 2026 count; ~40 at launch); invertebrates included |
 | 2024 | Godfrey-Smith Neural Dynamics of Subjectivity | Architecture-independent consciousness criteria |
 | 2025 | Chittka et al. insect consciousness review | Comprehensive case for insect sentience |
 

@@ -5,7 +5,23 @@ ai_modified: 2026-05-31T00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
-## 2026-05-31T00:00:00+00:00 - deep-review
+## 2026-05-31T09:29:10+00:00 - refine-draft (corpus-wide NYD citation reconciliation)
+- **Status**: Success
+- **Files**: 9 live-content files (3 research roots + 1 literature note + 1 previously-"fixed" research note + 4 published articles + 1 project doc)
+- **Premise revision (key finding)**: Web-verified the live NYU declaration site (https://sites.google.com/nyu.edu/nydeclaration/declaration), which states **"Signature count: 599"**. The task's premise — that "over 500" is a ~6x inflation to be removed — is now SUPERSEDED: the declaration has genuinely grown from ~40 at the April 2024 launch to **599** today. So "over 500" is currently *accurate*, not inflated; the earlier "~6x inflation" / ">80" corrections were against stale mid-2024 snapshots (~287 by mid-June 2024). The correct reconciliation was therefore to anchor every instance to the verified live figure (599, ~40 at launch), NOT to remove "over 500".
+- **Verified figure used**: "hundreds of scientists and philosophers (599 as of the live 2026 signatory count, up from roughly 40 at the April 2024 launch)" for prose; compact "Hundreds of scientists (599 as of live 2026 count; ~40 at launch)" for timeline-table cells. Did not fabricate a precise count beyond what the live site states.
+- **Changes**:
+  - Research roots reconciled + inline guardrail added: `research/animal-consciousness-2026-01-14.md` (3 instances), `research/consciousness-simple-organisms-2026-01-19.md` (2 instances), `research/animal-consciousness-2024-2025-literature-2026-05-19.md` (1 table instance + blockquote guardrail)
+  - `research/invertebrate-consciousness-interface-test-case-2026-04-06.md`: reconciled UPWARD — its prior ">80" / "~6x inflation" guardrail was itself stale vs. the live 599; updated both instances and the guardrail note (per task's "reconcile if your web-verify lands on a different current number")
+  - Published articles: `topics/consciousness-in-simple-organisms.md`, `topics/invertebrate-consciousness-as-interface-test.md` (in task list); plus `topics/animal-consciousness.md` (was stale at "more than 80"), `apex/minds-without-words.md` (bare "hundreds"), `topics/ethics-of-consciousness-invertebrate-question.md` (bare "hundreds") — reconciled for corpus-wide consistency though not in the explicit list
+  - Project doc: `project/evidential-status-discipline.md` reference 2
+- **Tier language preserved**: "strong scientific support" (mammals/birds) vs "realistic possibility" (vertebrates/many invertebrates) intact in all passages; length-neutral; honours [[evidential-status-discipline]].
+- **Guardrails**: inline correction-record line added to each research root so future expand-topic runs inherit "~40 launch / 599 current; the count has genuinely grown" rather than re-propagating any shorthand.
+- **Verification**: grep of `obsidian/` (excl reviews/changelog/todo/archive) shows zero residual NYD *signatory* inflation/understatement forms in live content (remaining "over 500" hits are guardrail text or "over 500 million years" evolutionary-divergence phrasing; reviews/ retain old wording as immutable record).
+- **Not touched (immutable record)**: reviews/, changelog history, todo/, workflow/archive/.
+- **Published**: yes
+
+
 - **Status**: Success
 - **File**: [[topics/phenomenal-normativity-environmental-ethics]]
 - **Word count**: 2443 → 2443 (no change; 81% of 3000 topics soft threshold)

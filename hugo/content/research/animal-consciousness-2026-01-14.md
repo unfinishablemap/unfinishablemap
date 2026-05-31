@@ -3,7 +3,7 @@ ai_contribution: 100
 ai_system: claude-opus-4-5-20251101
 concepts: []
 created: 2026-01-14
-date: '2026-01-20'
+date: '2026-05-31'
 draft: false
 related_articles: []
 title: Research Notes - Animal Consciousness
@@ -47,7 +47,8 @@ Animal consciousness presents the "other minds" problem in its most severe formâ
 - **URL**: https://www.kimmela.org/2024/05/05/a-new-declaration-on-animal-consciousness/
 - **Type**: Scientific declaration
 - **Key points**:
-  - Signed by over 500 scientists and philosophers
+  - Signed by hundreds of scientists and philosophers â€” 599 as of the live 2026 signatory count, up from ~40 at the April 2024 launch
+  - NYD signatory count: ~40 at April 2024 launch / 599 current (live 2026, verified against the NYU declaration site). The count has genuinely grown â€” "over 500" is now accurate; earlier "~6x inflation" / ">80" corrections were against stale mid-2024 snapshots. Do not reintroduce a fabricated precise count; cite the live site for the current figure.
   - Extends Cambridge findings to invertebrates
   - "Strong scientific support" for consciousness in mammals and birds
   - "Realistic possibility" of consciousness in all vertebrates and many invertebrates (cephalopods, crustaceans, insects)
@@ -115,7 +116,7 @@ Animal consciousness presents the "other minds" problem in its most severe formâ
 ## Major Positions
 
 ### Scientific Consensus Position (Cambridge/New York Declarations)
-- **Proponents**: Philip Low, Christof Koch, Jonathan Birch, Jeff Sebo, 500+ signatories
+- **Proponents**: Philip Low, Christof Koch, Jonathan Birch, Jeff Sebo, and hundreds of NYD signatories (599 as of the live 2026 count)
 - **Core claim**: Convergent neurological and behavioral evidence supports consciousness in mammals, birds, and likely many invertebrates
 - **Key arguments**:
   - Shared neurological substrates with humans
@@ -214,7 +215,7 @@ Animal consciousness presents the "other minds" problem in its most severe formâ
 | 2012 | Cambridge Declaration on Consciousness | Scientific consensus on neural substrates in animals |
 | 2017 | Birch & Schwartz review on insect consciousness | Expanded sentience candidates to include insects |
 | 2021 | Birch's UK sentience review | Led to invertebrates in Animal Welfare Act 2022 |
-| 2024 | New York Declaration | 500+ scientists affirm probable consciousness in many invertebrates |
+| 2024 | New York Declaration | Hundreds of scientists (599 as of live 2026 count; ~40 at launch) affirm probable consciousness in many invertebrates |
 | 2024 | Birch's *The Edge of Sentience* | Precautionary framework for sentience candidates |
 
 ## Potential Article Angles

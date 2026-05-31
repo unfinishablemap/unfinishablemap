@@ -37,21 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Reconcile NYD "500+ signatories" inflation corpus-wide (web-verify current count)
-- **Type**: refine-draft
-- **Status**: pending
-- **Notes**: The New York Declaration on Animal Consciousness (2024) signatory count is a documented ~6x factual INFLATION — "500+/over 500 scientists" — that prior reviews corrected ONLY in specific articles (animal-consciousness, minds-without-words, ethics-of-consciousness-invertebrate) but which PERSISTS uncorrected across the corpus because the research ROOTS were never fixed (classic [[ai-citation-metadata-unreliable]] propagation-regression: fix didn't reach the seeding notes, so it re-propagates). Verified figure: launched April 2024 with ~40 signatories, grown to "more than 80" (sources: NYU declaration site sites.google.com/nyu.edu/nydeclaration, Brooks Institute, Kimmela). NOTE the corpus's own corrected figures DIVERGE (">80" vs a mid-2024 "~287" snapshot in minds-without-words) — so **WEB-VERIFY the CURRENT count from the live NYU site before reconciling**; do not blindly propagate ">80". Remaining stale live instances to fix (research/ ROOTS FIRST per the regression rule, then articles, then project doc; reviews/ + changelog/ + todo/ are immutable record — DO NOT touch):
-  - `research/animal-consciousness-2026-01-14.md` (lines ~47, ~115, ~214 — 3 instances)
-  - `research/consciousness-simple-organisms-2026-01-19.md` (lines ~100, ~243)
-  - `research/animal-consciousness-2024-2025-literature-2026-05-19.md` (line ~209)
-  - `topics/consciousness-in-simple-organisms.md` (line ~55 — LIVE published article)
-  - `topics/invertebrate-consciousness-as-interface-test.md` (line ~45 — LIVE published article)
-  - `project/evidential-status-discipline.md` (line ~375 — the calibration doc itself)
-  - Already fixed 2026-05-31 (reconcile to the SAME verified figure for consistency): `research/invertebrate-consciousness-interface-test-case-2026-04-06.md` (lines 110, 226, with inline guardrails).
-  Add an inline guardrail line to each research root ("NYD ~40 launch / >N current; the '500+' figure is a documented inflation — do not reintroduce") so future expands inherit the correction. Preserve each passage's tier-language and surrounding prose; length-neutral. Honour [[evidential-status-discipline]] (this is a load-bearing 'growing agreement' claim — the inflated count overstates the evidence).
-- **Source**: deep-review-followon
-- **Generated**: 2026-05-31
-
 ### P2: Reconcile Chalmers "Combination Problem for Panpsychism" year 2016→2017 corpus-wide
 - **Type**: refine-draft
 - **Status**: pending
@@ -3643,6 +3628,10 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 Tasks that failed 3+ times and require human intervention.
 
+
+### ✓ 2026-05-31: Reconcile NYD "500+ signatories" inflation corpus-wide (web-verify current count)
+- **Type**: refine-draft
+- **Notes**: The New York Declaration on Animal Consciousness (2024) signatory count is a documented ~6x factual INFLATION — "500+/over 500 scientists" — that prior reviews corrected ONLY in specific articles (animal-consciousness, minds-without-words, ethics-of-consciousness-invertebrate) but which PERSISTS uncorrected across the corpus because the research ROOTS were never fixed (classic [[ai-citation-metadata-unreliable]] propagation-regression: fix didn't reach the seeding notes, so it re-propagates). Verified figure: launched April 2024 with ~40 signatories, grown to "more than 80" (sources: NYU declaration site sites.google.com/nyu.edu/nydeclaration, Brooks Institute, Kimmela). NOTE the corpus's own corrected figures DIVERGE (">80" vs a mid-2024 "~287" snapshot in minds-without-words) — so **WEB-VERIFY the CURRENT count from the live NYU site before reconciling**; do not blindly propagate ">80". Remaining stale live instances to fix (research/ ROOTS FIRST per the regression rule, then articles, then project doc; reviews/ + changelog/ + todo/ are immutable record — DO NOT touch):
 
 ### ✓ 2026-05-31: Verify Chalmers panprotopsychism citation in concepts/russellian-monism.md (web-verify)
 - **Type**: refine-draft

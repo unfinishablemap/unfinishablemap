@@ -3,7 +3,7 @@ ai_contribution: 100
 ai_system: claude-opus-4-7
 concepts: []
 created: 2026-05-19
-date: '2026-05-19'
+date: '2026-05-31'
 draft: false
 related_articles: []
 title: Research Notes - Animal Consciousness 2024-2025 Literature Drift
@@ -209,7 +209,7 @@ The article is in *moderate drift*: cited literature's median year is approximat
 
 | Year | Event/Publication | Significance |
 |------|-------------------|--------------|
-| 2024 | NY Declaration on Animal Consciousness | 500+ scientists affirm probable consciousness in many invertebrates |
+| 2024 | NY Declaration on Animal Consciousness | Hundreds of scientists (599 as of live 2026 count; ~40 at launch) affirm probable consciousness in many invertebrates |
 | 2024 | Birch *The Edge of Sentience* (book) | Three-tier precautionary framework extended to AI, fetuses, organoids |
 | 2024 | Gutfreund "Still Agnostic" *Frontiers in Psychology* | Principled agnostic counter to NY Declaration's "realistic possibility" |
 | 2024 | Godfrey-Smith *Inferring Consciousness in Phylogenetically Distant Organisms* | Neural-dynamics-of-subjectivity (NDS) framework |
@@ -223,6 +223,8 @@ The article is in *moderate drift*: cited literature's median year is approximat
 | 2025 | "Defending and Refining Birch et al. (2021) Precautionary Framework" PMC12058431 | Companion methodological refinement |
 | 2025 | Honeybee Sentience and EU Animal Welfare PMC12298661 | Species-specific honeybee evidence consolidation |
 | 2025 (Sep) | Jeremy Coller Centre for Animal Sentience opens at LSE | First dedicated research centre globally |
+
+> NYD signatory count: ~40 at April 2024 launch / 599 current (live 2026, verified against the NYU declaration site). The count has genuinely grown — "over 500" is now accurate; earlier "~6x inflation" / ">80" corrections were against stale mid-2024 snapshots. Do not reintroduce a fabricated precise count; cite the live site for the current figure.
 
 ## Potential Article Angles (For Refine-Draft)
 

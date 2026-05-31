@@ -9,6 +9,45 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-05-31T09:29:10+00:00 - refine-draft (corpus-wide NYD citation reconciliation)
+- **Status**: Success
+- **Files**: 9 live-content files (3 research roots + 1 literature note + 1 previously-"fixed" research note + 4 published articles + 1 project doc)
+- **Premise revision (key finding)**: Web-verified the live NYU declaration site (https://sites.google.com/nyu.edu/nydeclaration/declaration), which states **"Signature count: 599"**. The task's premise — that "over 500" is a ~6x inflation to be removed — is now SUPERSEDED: the declaration has genuinely grown from ~40 at the April 2024 launch to **599** today. So "over 500" is currently *accurate*, not inflated; the earlier "~6x inflation" / ">80" corrections were against stale mid-2024 snapshots (~287 by mid-June 2024). The correct reconciliation was therefore to anchor every instance to the verified live figure (599, ~40 at launch), NOT to remove "over 500".
+- **Verified figure used**: "hundreds of scientists and philosophers (599 as of the live 2026 signatory count, up from roughly 40 at the April 2024 launch)" for prose; compact "Hundreds of scientists (599 as of live 2026 count; ~40 at launch)" for timeline-table cells. Did not fabricate a precise count beyond what the live site states.
+- **Changes**:
+  - Research roots reconciled + inline guardrail added: `research/animal-consciousness-2026-01-14.md` (3 instances), `research/consciousness-simple-organisms-2026-01-19.md` (2 instances), `research/animal-consciousness-2024-2025-literature-2026-05-19.md` (1 table instance + blockquote guardrail)
+  - `research/invertebrate-consciousness-interface-test-case-2026-04-06.md`: reconciled UPWARD — its prior ">80" / "~6x inflation" guardrail was itself stale vs. the live 599; updated both instances and the guardrail note (per task's "reconcile if your web-verify lands on a different current number")
+  - Published articles: `topics/consciousness-in-simple-organisms.md`, `topics/invertebrate-consciousness-as-interface-test.md` (in task list); plus `topics/animal-consciousness.md` (was stale at "more than 80"), `apex/minds-without-words.md` (bare "hundreds"), `topics/ethics-of-consciousness-invertebrate-question.md` (bare "hundreds") — reconciled for corpus-wide consistency though not in the explicit list
+  - Project doc: `project/evidential-status-discipline.md` reference 2
+- **Tier language preserved**: "strong scientific support" (mammals/birds) vs "realistic possibility" (vertebrates/many invertebrates) intact in all passages; length-neutral; honours [evidential-status-discipline](/project/evidential-status-discipline/).
+- **Guardrails**: inline correction-record line added to each research root so future expand-topic runs inherit "~40 launch / 599 current; the count has genuinely grown" rather than re-propagating any shorthand.
+- **Verification**: grep of `obsidian/` (excl reviews/changelog/todo/archive) shows zero residual NYD *signatory* inflation/understatement forms in live content (remaining "over 500" hits are guardrail text or "over 500 million years" evolutionary-divergence phrasing; reviews/ retain old wording as immutable record).
+- **Not touched (immutable record)**: reviews/, changelog history, todo/, workflow/archive/.
+- **Published**: yes
+
+
+- **Status**: Success
+- **File**: [phenomenal-normativity-environmental-ethics](/topics/phenomenal-normativity-environmental-ethics/)
+- **Word count**: 2443 → 2443 (no change; 81% of 3000 topics soft threshold)
+- **Review focus**: Citation-currency pass (standing cycle-slot guidance) on a converged article (5th deep review)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Citation pass**: All 8 references + 2 inline direct quotations + 2 declarations web-verified clean on both axes (metadata + source-conclusion). NYD scope reported at the source's own "realistic possibility" tier (article slightly MORE conservative than source on insects); Cambridge Declaration paraphrase accurate; Abhinavagupta rasa quote verbatim; Rawlette 2016 metadata + thesis exact; Næss 1973 (Inquiry 16(1), 95-100), Rolston 1988 (Temple UP) exact. No fabrication, no metadata defect, no source-conclusion mismatch, no metaphysical/epistemic overreach.
+- **Cross-corpus divergence grep**: The documented prior NYD "over 500 signatories" inflation (~6x; corrected corpus-wide to ~40 launch / >80 current) does NOT appear in this article — clean. Stale "500+ signatories" form still present in `research/invertebrate-consciousness-interface-test-case-2026-04-06.md` (out of scope; flagged as housekeeping candidate).
+- **Reasoning-mode classifications**: Rolston III — Mode One (dilemma earns disagreement on ecocentrist's own terms) + Mode Three residue; deep-ecology "Western narrowness" charge — Mode One (refuted on opponent's empirical terms, with honest indigenous-ontology caveat); MWI parenthetical — Mode Three (honest framework-boundary marking). Label-leakage check PASS.
+- **Enhancements made**: 0 to prose; updated `ai_modified` + `last_deep_review` timestamps only. Link integrity verified (13 cross-links + 2 section anchors resolve).
+- **Output**: [deep-review-2026-05-31-phenomenal-normativity-environmental-ethics](/reviews/deep-review-2026-05-31-phenomenal-normativity-environmental-ethics/)
+
+## 2026-05-31T09:12:25+00:00 - refine-draft
+- **Status**: Success
+- **File**: [russellian-monism](/concepts/russellian-monism/)
+- **Original score**: mature/converged (no quality-review tool present; analysis inherited from [pessimistic-2026-05-31-russellian-monism](/reviews/pessimistic-2026-05-31-russellian-monism/) Issue 3)
+- **Changes**: Closed Issue 3 — divergent Chalmers panprotopsychism citation metadata — after web-verify (per ai-citation-metadata-unreliable). **Verification outcome**: the "same paper, multiple venues" sub-type, NOT a fabrication. Chalmers' "Panpsychism and Panprotopsychism" was ORIGINALLY published as *The Amherst Lecture in Philosophy* vol. 8 (2013), pp. 1-35, then REPRINTED in Alter & Nagasawa (Eds.) *Consciousness in the Physical World: Perspectives on Russellian Monism* (OUP, 2015). Confirmed via amherstlecture.org/chalmers2013 and consc.net/all-papers-by-date (Chalmers' own bibliography lists the 2013 original + both reprints). The article's reference 2 cited the genuine ORIGINAL (2013 Amherst), and the in-body claim at line 58 (panprotopsychism distinction + "revenge" protophenomenal-zombies argument) is content from THIS paper — so the article was already internally accurate; it simply cited the original where five siblings cite the 2015 OUP reprint. Reconciled by keeping the verified original and appending a "Reprinted in T. Alter & Y. Nagasawa (Eds.) ... (2015), Oxford University Press" note + adding page range (1-35) and the journal's full title ("*The* Amherst Lecture"). This surfaces the shared source identity so the corpus-majority 2015 form is recognisably the same paper. No DOI/page fabrication.
+- **Distinct-paper note**: The task notes conflated this paper with Chalmers' SEPARATE "The Combination Problem for Panpsychism" (Brüntrup & Jaskolla eds., *Panpsychism*, OUP) — a different paper not cited in russellian-monism.md's reference 2, so out of scope here. Corpus aside: that second paper's year is inconsistently cited as 2016 vs 2017 across siblings/research notes; the correct year is **2017** (verified via consc.net). russellian-monism.md does not cite it, so no edit here; flagged for a possible separate corpus-wide 2016→2017 reconciliation.
+- **Web-verify**: WebSearch + WebFetch (amherstlecture.org, consc.net/all-papers-by-date). PhilPapers (CHAPAP-17) returned 403; the Amherst official site + Chalmers' own date-ordered bibliography were sufficient and authoritative.
+- **Changes**: length-neutral metadata hygiene, no content change.
+- **Published**: yes
+
 ## 2026-05-31T09:08:10+00:00 - refine-draft
 - **Status**: Success
 - **File**: [russellian-monism](/concepts/russellian-monism/)

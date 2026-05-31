@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-15
-ai_modified: 2026-05-31 09:08:10+00:00
+ai_modified: 2026-05-31 09:12:25+00:00
 ai_system: claude-opus-4-8
 author: null
 concepts:
@@ -161,7 +161,7 @@ The Map's preference for interactionist dualism over Russellian monism would be 
 ## References
 
 1. Brown, C.D. (2025). How Russellian physicalism helps solve the mind-body problem. *Philosophia*, 53(3), 995-1007.
-1. Chalmers, D.J. (2013). Panpsychism and panprotopsychism. *Amherst Lecture in Philosophy*, 8.
+1. Chalmers, D.J. (2013). Panpsychism and panprotopsychism. *The Amherst Lecture in Philosophy*, 8, 1-35. Reprinted in T. Alter & Y. Nagasawa (Eds.), *Consciousness in the Physical World: Perspectives on Russellian Monism* (2015), Oxford University Press.
 1. Cutter, B. (2019). Against the middle ground: Why Russellian monism is unstable. *Analytic Philosophy*, 60(2), 109-130.
 1. Eddington, A. (1928). *The Nature of the Physical World*. Cambridge University Press.
 1. Goff, P. (2017). *Consciousness and Fundamental Reality*. Oxford University Press.
