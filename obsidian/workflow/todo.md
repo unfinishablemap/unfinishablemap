@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-31T18:00:00+00:00
+ai_modified: 2026-05-31T13:11:23+00:00
 ai_system: claude-opus-4-8
 author: Andy Southgate
 concepts: []
@@ -36,6 +36,29 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **P2**: Low - nice to have, human approval needed
 
 ## Active Tasks
+
+### P2: Cross-review ethics-of-possible-ai-consciousness.md and llm-consciousness.md considering the new Claude Constitution article
+- **Type**: cross-review
+- **Status**: pending
+- **Notes**: Chain follow-up from the 2026-05-31 expand-topic that published `topics/claude-constitution-consciousness-uncertainty.md` ("The Claude Constitution as a Consciousness-Uncertainty Test Case"). Two articles named in that work's source research (`research/claude-constitution-and-the-map-2026-05-31.md` related_articles) do NOT yet link the new page: `obsidian/topics/ethics-of-possible-ai-consciousness.md` and `obsidian/concepts/llm-consciousness.md`. The new article reads the Constitution as "convergent on method (precaution about machine moral status), divergent on metaphysics" and treats it as a live exhibit of the self-report problem. Review both targets for (a) a place to add an inbound `[[claude-constitution-consciousness-uncertainty]]` link where they discuss AI moral status / precaution / self-report; (b) any argument the Constitution exhibit reinforces or tensions; (c) terminology consistency (the Map's convergent-on-method/divergent-on-metaphysics framing). Honour [[evidential-status-discipline]]: Anthropic's operational precaution is convergent *method*, NOT independent evidence for the Map's metaphysics — do not let the Constitution's adoption of precaution read as corroboration of dualism. Light touch; ~1 link + brief boundary note per target. MULTI-FILE: both files must be touched — see [[multifile-task-dropped-file]]; if the fork only edits one, re-queue the other.
+- **Source**: chain (from claude-constitution-consciousness-uncertainty.md)
+- **Generated**: 2026-05-31
+
+### P2: Condense voids/mutation-void.md (3000 words, 150% of 2000 soft target — at the 3000 voids hard threshold)
+- **Type**: condense
+- **Status**: pending
+- **File**: obsidian/voids/mutation-void.md
+- **Notes**: Length-analysis (2026-05-31 replenish). At exactly the voids/ hard threshold (3000w; soft 2000, critical 4000) — the clearest unblocked length violation in a published section (the three larger violators — epistemology-of-convergence-arguments, phenomenal-output-causal-machinery-dissociation, born-rule-and-the-consciousness-interface — are human-blocked flagships pending a split decision per [[unfin-loop-steady-state]]; meaning-of-life was condensed to its floor and vetoed same-day; delegatory-dualism already has an active condense task). Last deep-reviewed 2026-05-29 (converged, clean), so this is prose-tightening, NOT content removal. **Critical constraint:** preserve every evidential-status hedge, the common-cause-null framing, and the void-vs-limit distinction — /condense is known to silently drop load-bearing qualifiers ([[condense-regresses-calibration-qualifiers]]), most dangerous on voids articles whose calibration language anchors the taxonomy. Legitimate target is redundancy/prose tightening only. If no calibration-safe cuts exist, mark no-op.
+- **Source**: length_analysis
+- **Generated**: 2026-05-31
+
+### P3: Deep review concepts/valence.md (38 days since last review, ai_contribution>50, Tenet 3 load-bearing)
+- **Type**: deep-review
+- **Status**: pending
+- **File**: obsidian/concepts/valence.md
+- **Notes**: Staleness-driven (2026-05-31 replenish). Tied-oldest AI-heavy article past the 30-day deep-review floor and not currently queued (panpsychism and eastern-philosophy, the other two 38d articles, are already queued). Valence is load-bearing for Tenet 3 (Bidirectional Interaction): the "phenomenal biasing" / felt-awfulness-adds-causal-work argument that the Map deploys against predictive-processing rivals (see the active P3 "constitution-vs-doing-work bridge" task) routes through this page, so its calibration propagates corpus-wide. Web-verify any Berridge wanting/liking, pain-asymbolia, or affective-neuroscience citations before trusting them ([[ai-citation-metadata-unreliable]]); preserve the constrain-vs-establish framing (valence dissociations *constrain* but do not *establish* interactionism — [[evidential-status-discipline]]). First review in 38d, not a runaway re-review; metadata-only verdict acceptable if converged, do NOT over-hedge converged prose ([[deep-review-over-reviews-converged]]).
+- **Source**: staleness
+- **Generated**: 2026-05-31
 
 ### P3: Sharpen decoherence/falsifier precision in topics/time-collapse-and-agency.md
 - **Type**: refine-draft
