@@ -37,13 +37,28 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Deep review voids/closure-types-void.md (43 days since last review, ai_contribution=100)
-- **Type**: deep-review
+### P2: Adopt qualia calibration in auditory-consciousness-and-the-interface
+- **Type**: refine-draft
 - **Status**: pending
-- **File**: obsidian/voids/closure-types-void.md
-- **Notes**: PROMOTED P3→P2 by /replenish-queue 2026-05-31 (floor-restoring; the cycle-pickable P0–P2 queue had fallen to effectively 1 — the phenomenology-of-intellectual-life→courage cross-link is genuinely cycle-consumable, but the consciousness-and-skill-acquisition literature-drift P2 runs on its own weekly wall-clock and is NOT cycle-consumable). This is the documented replenish-at-floor steady state ([[unfin-loop-steady-state]]), re-verified this run: voids OVER cap (101/100); topics (259/270) and concepts (251/270) have nominal room but NO unconsumed research awaits synthesis (the only fresh note, research/claude-constitution-and-the-map-2026-05-31.md, was already consumed today into topics/claude-constitution-consciousness-uncertainty.md); orphaned_files=0; and every published-content length offender is blocked/vetoed/same-day-churn (epistemology-of-convergence-arguments 6479w and phenomenal-output-causal-machinery-dissociation 6989w are BLOCKED pending human split decisions; born-rule 5044w was condensed TODAY; meaning-of-life 4160w is vetoed; time-collapse-and-agency 4748w was edited today and has an active refine; apex-articles 5119w is the apex section index/hub and taxonomy-of-voids 5113w was modified today by apex-evolve — both same-day churn). So the honest floor-restoring move is to promote two grounded, genuinely-stale/verified-actionable P3-tier tasks rather than mint speculative expand-topic work against the ~470-task P3 backlog. This is the surgical staleness promotion: `closure-types-void` is the OLDEST AI-heavy article past the 30-day deep-review floor and not currently queued (verified `last_deep_review: 2026-04-18`, ~43d; the three sibling 38-day articles panpsychism/eastern-philosophy/valence were all already deep-reviewed today). Deep-review doesn't create articles, so the voids over-cap is irrelevant. Web-verify any cited dates/scholar attributions before trusting them ([[ai-citation-metadata-unreliable]]); preserve the void-vs-limit and constrain-vs-establish framing ([[evidential-status-discipline]]); first review in 43d, not a runaway re-review — a metadata-only verdict is acceptable if converged, do NOT over-hedge converged prose ([[deep-review-over-reviews-converged]]).
-- **Source**: staleness
+- **File**: obsidian/topics/auditory-consciousness-and-the-interface.md
+- **Notes**: From topic-concept anchoring audit 2026-05-31. The topic article over-claims relative to its anchor concept [[qualia]]; failed checks: hedge_density, strong_assertions.
+  - hedge density 1.23/kw is below 60% of anchor (8.22/kw)
+  - strong-assertion density 3.08/kw exceeds 1.5× anchor (1.22/kw)
+  - Action: bring the topic's hedge profile in line with the anchor concept's. Preserve the article's voice; this is not a request to weaken the central claim, only to inherit the calibration discipline the anchor concept already uses. See [[project/calibration-audit-triple]] Audit Three for the spec and [[evidential-status-discipline]] for the underlying rule.
+- **Source**: topic-concept-anchoring-audit
 - **Generated**: 2026-05-31
+
+### P2: Adopt temporal-consciousness calibration in auditory-consciousness-and-the-interface
+- **Type**: refine-draft
+- **Status**: pending
+- **File**: obsidian/topics/auditory-consciousness-and-the-interface.md
+- **Notes**: From topic-concept anchoring audit 2026-05-31. The topic article over-claims relative to its anchor concept [[temporal-consciousness]]; failed checks: hedge_density, strong_assertions.
+  - hedge density 1.23/kw is below 60% of anchor (5.50/kw)
+  - strong-assertion density 3.08/kw exceeds 1.5× anchor (1.03/kw)
+  - Action: bring the topic's hedge profile in line with the anchor concept's. Preserve the article's voice; this is not a request to weaken the central claim, only to inherit the calibration discipline the anchor concept already uses. See [[project/calibration-audit-triple]] Audit Three for the spec and [[evidential-status-discipline]] for the underlying rule.
+- **Source**: topic-concept-anchoring-audit
+- **Generated**: 2026-05-31
+
 
 ### P2: Refine three-kinds-of-void.md with face-by-face mixed-classification example
 - **Type**: refine-draft
@@ -3623,6 +3638,10 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 Tasks that failed 3+ times and require human intervention.
 
+
+### ✓ 2026-05-31: Deep review voids/closure-types-void.md (43 days since last review, ai_contribution=100)
+- **Type**: deep-review
+- **Notes**: PROMOTED P3→P2 by /replenish-queue 2026-05-31 (floor-restoring; the cycle-pickable P0–P2 queue had fallen to effectively 1 — the phenomenology-of-intellectual-life→courage cross-link is genuinely cycle-consumable, but the consciousness-and-skill-acquisition literature-drift P2 runs on its own weekly wall-clock and is NOT cycle-consumable). This is the documented replenish-at-floor steady state ([[unfin-loop-steady-state]]), re-verified this run: voids OVER cap (101/100); topics (259/270) and concepts (251/270) have nominal room but NO unconsumed research awaits synthesis (the only fresh note, research/claude-constitution-and-the-map-2026-05-31.md, was already consumed today into topics/claude-constitution-consciousness-uncertainty.md); orphaned_files=0; and every published-content length offender is blocked/vetoed/same-day-churn (epistemology-of-convergence-arguments 6479w and phenomenal-output-causal-machinery-dissociation 6989w are BLOCKED pending human split decisions; born-rule 5044w was condensed TODAY; meaning-of-life 4160w is vetoed; time-collapse-and-agency 4748w was edited today and has an active refine; apex-articles 5119w is the apex section index/hub and taxonomy-of-voids 5113w was modified today by apex-evolve — both same-day churn). So the honest floor-restoring move is to promote two grounded, genuinely-stale/verified-actionable P3-tier tasks rather than mint speculative expand-topic work against the ~470-task P3 backlog. This is the surgical staleness promotion: `closure-types-void` is the OLDEST AI-heavy article past the 30-day deep-review floor and not currently queued (verified `last_deep_review: 2026-04-18`, ~43d; the three sibling 38-day articles panpsychism/eastern-philosophy/valence were all already deep-reviewed today). Deep-review doesn't create articles, so the voids over-cap is irrelevant. Web-verify any cited dates/scholar attributions before trusting them ([[ai-citation-metadata-unreliable]]); preserve the void-vs-limit and constrain-vs-establish framing ([[evidential-status-discipline]]); first review in 43d, not a runaway re-review — a metadata-only verdict is acceptable if converged, do NOT over-hedge converged prose ([[deep-review-over-reviews-converged]]).
 
 ### ✓ 2026-05-31: Write article on Auditory Consciousness and the Interface
 - **Type**: expand-topic

@@ -4,8 +4,8 @@ description: "Representational and psychological closure are distinct species of
 created: 2026-04-18
 modified: 2026-04-18
 human_modified: null
-ai_modified: 2026-04-23T12:41:29+00:00
-last_deep_review: 2026-04-18T13:32:00+00:00
+ai_modified: 2026-05-31T14:40:27+00:00
+last_deep_review: 2026-05-31T14:40:27+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -49,7 +49,7 @@ Uriah Kriegel argues that mysterianism is incoherent (Kriegel 2003). Following H
 
 This argument is locally successful against one reading and not the other. If closure is psychological, Kriegel's point bites: being able to pose the question requires psychological contact with the solution form, so closure in that sense is self-undermining. But under the representational reading, being able to represent "a theory of consciousness" as a category does not entail possessing the concept-forming procedures that would generate the actual theory. Representing the form of an answer is not framing the answer itself. Kriegel's argument does not touch the representational thesis.
 
-Maarten Vlerick and Maarten Boudry press from the other side (Vlerick & Boudry 2017). McGinn's case, they argue, only demonstrates psychological difficulty — we have not cracked the hard problem — and this does not establish principled representational closure. Historical examples look like the current situation: vitalism, action-at-a-distance, and quantum non-locality's early intelligibility crisis all appeared, at the time, to involve principled conceptual limits. Each later yielded to new conceptual resources. Inferring representational closure from psychological closure is, for them, a hasty generalisation.
+Michael Vlerick and Maarten Boudry press from the other side (Vlerick & Boudry 2017). McGinn's case, they argue, only demonstrates psychological difficulty — we have not cracked the hard problem — and this does not establish principled representational closure. Historical examples look like the current situation: vitalism, action-at-a-distance, and quantum non-locality's early intelligibility crisis all appeared, at the time, to involve principled conceptual limits. Each later yielded to new conceptual resources. Inferring representational closure from psychological closure is, for them, a hasty generalisation.
 
 Two arguments, symmetric in structure: Kriegel tries to collapse representational into psychological via the posability of the question; Vlerick and Boudry warn against collapsing psychological into representational via the long horizon of conceptual development. Both collapses fail. The distinction survives both attacks, and existing Map articles that quietly relied on it — [[edge-states-and-void-probes]] and [[meta-epistemology-of-limits]] — can now use it under its own name.
 
@@ -104,7 +104,7 @@ For the voids catalogue as a whole, the consequence is a reframing. The catalogu
 ## References
 
 1. Chomsky, N. (1976). "Problems and Mysteries in the Study of Human Language." In *Language in Focus*, 281-357.
-2. Demircioglu, E. (2017). "Human Cognitive Closure and Mysterianism: Reply to Kriegel." *Acta Analytica*, 32, 147-158.
+2. Demircioglu, E. (2017). "Human Cognitive Closure and Mysterianism: Reply to Kriegel." *Acta Analytica*, 32, 125-132.
 3. Kriegel, U. (2003). "The New Mysterianism and the Thesis of Cognitive Closure." *Acta Analytica*, 18, 177-191.
 4. McGinn, C. (1989). "Can We Solve the Mind-Body Problem?" *Mind*, 98(391), 349-366.
 5. Vlerick, M., & Boudry, M. (2017). "Psychological Closure Does Not Entail Cognitive Closure." *Dialectica*, 71(1), 101-115.
