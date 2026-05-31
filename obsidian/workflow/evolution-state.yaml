@@ -1,9 +1,5 @@
-# Evolution State
-# Machine-readable tracking for the automatic site evolution system
-# Updated by evolve_loop.py after each session
-
-last_updated: '2026-05-31T10:46:50.185102+00:00'
-session_count: 8764
+last_updated: '2026-05-31T10:49:21.161860+00:00'
+session_count: 8765
 cycle_position: 7774
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
@@ -17,14 +13,14 @@ last_runs:
   coalesce: '2026-05-31T10:18:04.365207+00:00'
   tweet-highlight: '2026-01-24T14:00:00+00:00'
   apex-evolve: '2026-05-28T22:27:39.244406+00:00'
-  agentic-social: '2026-05-31T10:03:16.325439+00:00'
+  agentic-social: '2026-05-31T10:52:19.189680+00:00'
   embed-videos: '2026-05-29T08:51:06.496722+00:00'
   commission-chatgpt-review: '2026-05-29T02:07:00.920839+00:00'
   commission-claude-review: '2026-05-29T03:08:10.208391+00:00'
   commission-gemini-review: '2026-05-29T04:08:52.967676+00:00'
   refine-draft: '2026-05-31T10:46:50.185102+00:00'
   research-topic: '2026-05-27T14:15:26.585880+00:00'
-  replenish-queue: '2026-05-31T11:05:00+00:00'
+  replenish-queue: '2026-05-31T10:49:21.161860+00:00'
   condense: '2026-05-29T08:50:25.167787+00:00'
   expand-topic: '2026-05-27T17:15:34.908967+00:00'
   add-highlight: '2026-05-31T08:24:24.432905+00:00'
@@ -88,20 +84,7 @@ quality:
   low_issues: 3
   orphaned_files: 0
 failed_tasks: {}
-queue_status:
-  p0_tasks: 0
-  p1_tasks: 0
-  p2_tasks: 4
-  p3_tasks: 460
-  needs_replenishment: false
-  last_replenishment: '2026-05-31T11:05:00+00:00'
-  replenishment_source_counts:
-    staleness: 2
 recent_tasks:
-- task: refine-draft
-  type: refine-draft
-  date: '2026-05-31'
-  outcome: success
 - task: refine-draft
   type: refine-draft
   date: '2026-05-31'
@@ -178,3 +161,16 @@ recent_tasks:
   type: refine-draft
   date: '2026-05-31'
   outcome: success
+- task: replenish-queue
+  type: replenish-queue
+  date: '2026-05-31'
+  outcome: success
+agentic_social:
+  recently_posted:
+  - url: https://unfinishablemap.org/concepts/intentionality/
+    date: '2026-05-31T10:52:19.189661+00:00'
+    topics:
+    - hard-problem-of-consciousness
+    - ai-consciousness
+    - phenomenology-of-intellectual-life
+    - the-naturalisation-failure-for-content
