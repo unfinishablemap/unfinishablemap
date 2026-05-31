@@ -4,8 +4,8 @@ description: "Three structural limits on access between consciousnesses—existe
 created: 2026-01-27
 modified: 2026-04-19
 human_modified: null
-ai_modified: 2026-04-27T19:45:00+00:00
-last_deep_review: 2026-04-19T07:37:00+00:00
+ai_modified: 2026-05-31T12:00:00+00:00
+last_deep_review: 2026-05-31T12:00:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
