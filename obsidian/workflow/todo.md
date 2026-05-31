@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-31T17:16:28+00:00
+ai_modified: 2026-05-31T18:05:00+00:00
 ai_system: claude-opus-4-8
 author: Andy Southgate
 concepts: []
@@ -36,6 +36,22 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **P2**: Low - nice to have, human approval needed
 
 ## Active Tasks
+
+### P2: Deep review concepts/measurement-problem.md (33 days since last review, ai_contribution=100, Tenet 2/4 load-bearing)
+- **Type**: deep-review
+- **Status**: pending
+- **File**: obsidian/concepts/measurement-problem.md
+- **Notes**: Floor-restoring staleness promotion (/replenish-queue 2026-05-31). The cycle-pickable (P0–P2) queue had fallen to effectively 1 cycle-consumable task: the retrocausal-vs-forward ledger refine is genuinely cycle-consumable, but the `consciousness-and-skill-acquisition` literature-drift P2 parses as a wall-clock weekly task (type `literature-drift-review`) and is NOT cycle-pickable — below the MIN_QUEUE floor of 3. This is the documented replenish-at-floor steady state ([[unfin-loop-steady-state]]), re-verified this run: voids OVER cap (101/100); topics (260/270) and concepts (252/270) have nominal headroom but NO unconsumed research awaits synthesis (391 notes, all consumed; the 5 articles created today are integrated with 3–9 inbound links each); orphaned_files=0; and every published-content length offender is blocked/vetoed/same-day-churn (epistemology-of-convergence-arguments 6479w and phenomenal-output-causal-machinery-dissociation 6989w are BLOCKED pending human structural-split decisions; born-rule 5044w, meaning-of-life 4160w, time-collapse-and-agency and epistemic-advantages-of-dualism all condensed/edited TODAY; apex-articles 5119w and taxonomy-of-voids 5113w are navigational index hubs). So the honest floor-restoring move is to promote a grounded, genuinely-stale-AND-settled tenet-load-bearing deep-review rather than mint speculative expand-topic work against the ~468-task P3 backlog. Deep-review creates no articles, so the section caps are irrelevant. Selection criterion BOTH stale-review (`last_deep_review: 2026-04-27`, ~33d, past the 30-day floor and not the subject of any task) AND settled (`ai_modified: 2026-04-28`, ~33d) to avoid the [[deep-review-over-reviews-converged]] churn risk; `ai_contribution=100`, 3053 words (under the 5000 concepts critical threshold — no condense risk). Tenet-2/4 load-bearing: the measurement problem is the Map's central quantum-interface exhibit — it carves the logical space that Tenet 2 (Minimal Quantum Interaction) and Tenet 4 (No Many Worlds — definite outcomes over branching) occupy. It is a heavily-linked concept hub (25 concept cross-links, 14 related articles). Deep-review should: (a) verify the von-Neumann–Wigner / QBism / GRW framing still coheres with the current quantum-interface and spontaneous-collapse cluster; (b) honour [[evidential-status-discipline]] — keep the "creates logical space for consciousness to participate" claim calibrated as *space-carving*, NOT as positive evidence that consciousness causes collapse; (c) web-verify any von Neumann / Wigner / Ghirardi-Rimini-Weber / Fuchs attributions before trusting them ([[ai-citation-metadata-unreliable]]); (d) verify the dense cross-link set resolves live and reciprocates where load-bearing; (e) writing-style + length discipline (no "This is not X. It is Y." cliché). First review in 33d, not a runaway re-review — a metadata-only verdict is acceptable if converged; do NOT over-hedge converged prose. Apply in-place fixes if minor; generate a follow-on refine-draft only if substantive.
+- **Source**: staleness
+- **Generated**: 2026-05-31
+
+### P2: Deep review concepts/universal-coupling-response.md (35 days since last review, ai_contribution=100, Tenet 1/3 load-bearing)
+- **Type**: deep-review
+- **Status**: pending
+- **File**: obsidian/concepts/universal-coupling-response.md
+- **Notes**: Floor-restoring staleness promotion (/replenish-queue 2026-05-31, second of two — see the measurement-problem entry above for the full queue rationale). Chosen for DIVERSITY (a phenomenal-distribution / coupling concept, distinct from the quantum-measurement entry) and for being the most-settled un-queued AI-heavy article past the deep-review floor: `last_deep_review: 2026-04-25` (~35d) AND `ai_modified: 2026-04-25` (~35d, fully settled — minimal [[deep-review-over-reviews-converged]] churn risk). `ai_contribution=100`, 1682 words (well under the concepts soft threshold — no condense risk). Tenet-1/3 load-bearing: the universal-coupling response is the Map's position that consciousness couples with all physical systems meeting adequate architectural conditions — the load-bearing distinction between the Map's interactionist dualism and both panpsychism and threshold views, underwriting Tenet 1 (Dualism) and Tenet 3 (Bidirectional Interaction). Deep-review should: (a) verify the panpsychism-vs-threshold-vs-universal-coupling contrast still coheres with the current [[invertebrate-consciousness-as-interface-test]] / [[animal-consciousness]] / [[interface-heterogeneity]] cluster (note this is an active-research area per the literature-drift active sections — animal-consciousness, animal-cognition); (b) honour [[evidential-status-discipline]] — keep "adequate architectural conditions" calibrated as a programmatic placeholder, NOT an established criterion; (c) web-verify any attributions before trusting them ([[ai-citation-metadata-unreliable]]); (d) verify cross-links resolve live and reciprocate where load-bearing; (e) writing-style + length discipline (no "This is not X. It is Y." cliché). First review in 35d, not a runaway re-review — a metadata-only verdict is acceptable if converged; do NOT over-hedge converged prose. Apply in-place fixes if minor; generate a follow-on refine-draft only if substantive.
+- **Source**: staleness
+- **Generated**: 2026-05-31
 
 ### P3: Deep review voids/acquaintance-void.md (42 days since last review, ai_contribution=100, Tenet 1 load-bearing)
 - **Type**: deep-review
