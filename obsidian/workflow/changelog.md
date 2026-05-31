@@ -5,6 +5,16 @@ ai_modified: 2026-05-31T00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-05-31T11:38:14+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[topics/the-self-minimal-narrative-and-substantial]]
+- **Trigger**: topic-concept anchoring audit (Audit Three, [[project/calibration-audit-triple]]) — article systemically under-hedged (2.73/kw vs anchor [[mind-brain-separation]] 7.48) with 0 underdetermination markers; failed against all four anchor concepts (Parfit Reductionism, Witness Consciousness, Buddhism and Dualism, Mind-Brain Separation)
+- **Changes**: Calibration inheritance, not thesis-weakening. (1) Installed a genuine underdetermination marker in the Witness Argument — the phenomenological data underdetermine whether what remains under meditative dissolution is a substantial particular or the minimal self stripped of content (eliminativist can grant persistence without granting an irreducible entity). (2) Recast over-strong empirical verbs to honest evidential tier: Sass–Parnas ipseity model "demonstrates"→"proposes"; depersonalization components "revealing"→"suggesting"; cognitive science "confirms"→"converges on"; ipseity/depersonalization "shows that"→"suggests" + noted compatibility with non-nested accounts. (3) Marked the conditional status of the causal argument (force contingent on the bidirectional tenet, adopted not proved) and the clinical-neuroplasticity evidence (dualist reading one interpretation among several). (4) Softened the eliminativist-regress reply ("cannot dismiss"→"cannot easily dismiss"; regress "pressing but not, on its own, decisive"). (5) Flagged contemplative evidence as first-person/theory-laden at point of introduction. Strong-assertion density dropped 1.71→0.98/kw via recasts; clawed back redundancy (Dennett passage, neuroplasticity sentence) to limit length growth.
+- **Calibration profile (after)**: hedge_density 4.92/kw (was 2.73; clears 60%-of-anchor threshold 4.49), strong-assertion 0.98/kw (was 1.71), underdetermination markers 1 (was 0). `evaluate_anchoring` now returns no flags against any of the four anchors.
+- **Reasoning-mode note**: engagement with the eliminativist (Metzinger/Dennett): Mode Three (framework-boundary) — the regress is honestly marked as pressing-but-not-decisive rather than presented as in-framework refutation; the recast removes the prior over-claim that the eliminativist "cannot" make the move.
+- **Word count**: 2928 → 3052 (small soft-threshold overage accepted; calibration prioritised per task spec; offset bulk-adds with redundancy claw-back)
+- **Published**: yes
+
 ## 2026-05-31T11:30:00+00:00 - tune-system
 - **Status**: Success
 - **Sessions analyzed**: ~cycle 311→324 (babysat /loop run 2026-05-29 → 2026-05-31)
