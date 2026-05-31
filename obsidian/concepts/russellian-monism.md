@@ -4,7 +4,7 @@ description: "Russellian monism claims quiddities ground consciousness, but face
 created: 2026-01-15
 modified: 2026-01-20
 human_modified: null
-ai_modified: 2026-05-28T21:46:49+00:00
+ai_modified: 2026-05-31T08:49:44+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -31,10 +31,10 @@ related_articles:
   - "[[four-quadrant-dualism-taxonomy]]"
 ai_contribution: 100
 author: null
-ai_system: claude-opus-4-7
+ai_system: claude-opus-4-8
 ai_generated_date: 2026-01-15
 last_curated: null
-last_deep_review: 2026-04-22T12:38:00+00:00
+last_deep_review: 2026-05-31T08:49:44+00:00
 ---
 
 Russellian monism holds that physics describes only the relational structure of matter—what things do to each other—leaving their [[intrinsic-nature|intrinsic nature]] unexplained. These intrinsic properties, called *quiddities*, allegedly account for consciousness. The view attempts a middle path: avoiding [[concepts/materialism|physicalism's]] hard problem (by denying that structure alone determines experience) while avoiding [[interactionist-dualism|dualism's]] interaction problem (by integrating consciousness into physical causation). Yet the combination problem—how micro-level quiddities constitute unified conscious experience—remains unsolved. And the middle path itself is increasingly contested: Pautz (2017) and Cutter (2019) argue it is illusory, Kind (2015) argues it collapses into physicalism or dualism, and the programme has fragmented into incompatible variants—panpsychist, panprotopsychist, cosmopsychist (Goff 2017), physicalist (Brown 2025), and dual-aspect (Hashemi 2024)—that share only the structuralist premise.
@@ -69,7 +69,7 @@ Russellian monism is often presented as a unified research programme, but it has
 
 This fragmentation has accelerated. Brown (2025) defends a *physicalist* version where categorical properties that ground dispositions are genuinely physical, not protomental—"Russellian physicalism." Hashemi (2024) argues that Russellian panpsychism is best understood as *dual-aspect monism*, with mental and physical as "two authentic facets of a singular entity." And Goff's cosmopsychism has evolved into a "value-responding universe" thesis that bears little resemblance to Strawson's original panpsychism. These variants are not refinements of a single theory; they are incompatible proposals that share only the structuralist premise (physics describes structure, not intrinsic nature).
 
-The proliferation matters epistemically. A framework compatible with physicalism, dualism, panpsychism, cosmopsychism, and many-worlds interpretation makes no distinctive predictions. The Map's bi-aspectual interactionism is more constrained: it commits to ontological dualism, causal interaction at quantum indeterminacies, and rejection of many-worlds. Greater constraint means greater falsifiability.
+The proliferation matters epistemically. A framework compatible with physicalism, dualism, panpsychism, cosmopsychism, and many-worlds interpretation makes no distinctive predictions. The Map's bi-aspectual interactionism is more constrained: it commits to ontological dualism, causal interaction at quantum indeterminacies, and rejection of many-worlds. By taking definite positions where Russellian monism stays neutral, it exposes itself to disconfirmation that an interpretation-neutral framework avoids. This is a methodological contrast, not evidence that the Map is true—a more falsifiable theory is more testable, not thereby more likely.
 
 The [[four-quadrant-dualism-taxonomy|thickness-axis taxonomy]] sharpens the split on a second dimension: deflationary readings inhabit the min-mind/min-physical quadrant, while Russellian panpsychism with full scientific realism inhabits max-mind/max-physical. Variants disagree not only about which quiddities obtain but about how much ontological weight each side of the mind–matter relation should carry.
 
@@ -79,7 +79,7 @@ Russellian monism claims to avoid dualism's costs—particularly the interaction
 
 ### The Parity Problem
 
-Adam Pautz (2017, 2019) argues that Russellian monism requires the same "swarm of extra-logical principles" as dualism—brute laws specifying which quiddity configurations yield which experiences. The only difference is modal status: Russellian monists hold these linking principles are necessary; dualists hold they are contingent. Since we have no evidence bearing on modal status, there is no simplicity-based reason to prefer one framework over the other. On both views, experiences are distinct from neural-functional states and correlated with some brain states and not others. Pautz concludes that Russellian monism offers no genuine advantage over dualism.
+Adam Pautz (2017, 2019) argues that Russellian monism requires the same "swarm of extra-logical principles" as dualism—brute laws specifying which quiddity configurations yield which experiences. The only difference is modal status: Russellian monists hold these linking principles are necessary; dualists hold they are contingent. With no evidence bearing on modal status, there is no simplicity-based reason to prefer one framework—on both views, experiences are distinct from neural-functional states and correlated with some brain states but not others. Pautz concludes that Russellian monism offers no genuine advantage over dualism.
 
 ### The Instability Argument
 
@@ -93,7 +93,7 @@ Russellian monism was motivated partly by avoiding [[concepts/epiphenomenalism|e
 
 If Russellian monism inherits dualism's costs under a different name, the Map's explicit [[interactionist-dualism]] is preferable:
 
-**Clearer ontology**: The Map's [[bi-aspectual-ontology|bi-aspectual ontology]] distinguishes structure (what physics describes) from actuality (what consciousness provides)—two irreducible aspects that interact at quantum indeterminacies. Though Hashemi (2024) reframes Russellian panpsychism as dual-aspect monism, the Map's bi-aspectual *dualism* differs categorically: the Map insists these aspects are irreducible and causally interact—consciousness *does things* to physics. Hashemi's dual-aspect monism treats them as facets of one substance, providing no mechanism for causal influence. The [[consciousness-and-the-metaphysics-of-laws-and-dispositions|metaphysics of laws and dispositions]] further clarifies: "powerful qualities" (simultaneously qualitative and dispositional) could ground consciousness without requiring micro-level quiddities that must combine.
+**Clearer ontology**: The Map's [[bi-aspectual-ontology|bi-aspectual ontology]] distinguishes structure (what physics describes) from actuality (what consciousness provides)—two irreducible aspects that interact at quantum indeterminacies. Though Hashemi (2024) reframes Russellian panpsychism as dual-aspect monism, the Map's bi-aspectual *dualism* differs categorically: its aspects are irreducible and causally interact—consciousness *does things* to physics. Hashemi's dual-aspect monism treats them as facets of one substance, providing no mechanism for causal influence. The [[consciousness-and-the-metaphysics-of-laws-and-dispositions|metaphysics of laws and dispositions]] adds that "powerful qualities" (simultaneously qualitative and dispositional) could ground consciousness without requiring micro-level quiddities that must combine.
 
 **Avoids combination**: By positing unified mental subjects rather than combinations of micro-subjects, [[substance-property-dualism|substance dualism]] sidesteps the combination problem entirely. There's no question of how many experiences become one—the unified subject is fundamental.
 
@@ -105,7 +105,7 @@ If Russellian monism inherits dualism's costs under a different name, the Map's 
 
 ## The Mysterian Angle
 
-[[mysterianism|Mysterianism]] suggests the [[combination-problem|combination problem]] might reflect human cognitive limitations rather than an intrinsic defect in Russellian monism—we can conceive of quiddities and of unified consciousness, but not how the first becomes the second. Both Russellian monism and the Map's interactionism face "bridging" problems, but the Map's quantum mechanism provides a *locus* for interaction (quantum indeterminacies) that is potentially empirically tractable. Russellian monism's grounding laws remain schematic, offering no obvious experimental handle. See [[mysterianism]] for the broader cognitive closure debate.
+[[mysterianism|Mysterianism]] suggests the [[combination-problem|combination problem]] might reflect human cognitive limitations rather than an intrinsic defect in Russellian monism—we can conceive of quiddities and of unified consciousness, but not how the first becomes the second. Both Russellian monism and the Map's interactionism face "bridging" problems, but the Map's quantum mechanism provides a *locus* for interaction (quantum indeterminacies) that is potentially empirically tractable, whereas Russellian monism's grounding laws remain schematic. See [[mysterianism]] for the broader cognitive closure debate.
 
 ## What Russellian Monism Gets Right
 

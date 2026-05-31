@@ -5,6 +5,18 @@ ai_modified: 2026-05-31T00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-05-31T08:49:44+00:00 - deep-review
+- **Status**: Success
+- **File**: [[concepts/russellian-monism]]
+- **Mode**: Queued staleness citation-currency + calibration pass (7th review; firmly converged competitor article). Near-no-op as licensed.
+- **Word count**: 2484 → 2513 (+29; one calibration clarification offset by three length-neutral trims)
+- **Critical issues addressed**: 0 (none found)
+- **Medium issues addressed**: 1 (falsifiability claim hardened against possibility/probability slippage — "more falsifiable, not thereby more likely")
+- **Enhancements made**: 1 substantive + 3 trims
+- **Citations**: Brown 2025 (Philosophia 53(3):995-1007), Hashemi 2024 (Erkenntnis), Khan/Wiest 2024 (eNeuro 11(8)) web-verified exact incl. source-conclusion. Cross-corpus grep clean; C.D. Brown vs R. Brown disambiguation correct (not a defect). No fabrications.
+- **Calibration**: PASS — charitable RM characterization preserved; no competitor's-failure-is-evidence fallacy; epistemic/metaphysical readings correct; boundary concessions intact.
+- **Output**: [[reviews/deep-review-2026-05-31-russellian-monism]]
+
 ## 2026-05-31T09:10:00+00:00 - deep-review
 - **Status**: Success
 - **File**: [[concepts/phenomenal-acquaintance]]
