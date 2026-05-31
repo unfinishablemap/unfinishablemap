@@ -4,7 +4,7 @@ description: "Fundamental principles connecting conscious experience to physical
 created: 2026-01-16
 modified: 2026-03-27
 human_modified: null
-ai_modified: 2026-05-27T09:30:00+00:00
+ai_modified: 2026-05-31T00:00:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -52,7 +52,7 @@ author: null
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-01-16
 last_curated: null
-last_deep_review: 2026-04-23T18:19:00+00:00
+last_deep_review: 2026-05-31T00:00:00+00:00
 coalesced_from:
   - "/concepts/psychophysical-laws/"
   - "/concepts/psychophysical-coupling/"

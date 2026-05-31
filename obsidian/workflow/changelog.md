@@ -5,6 +5,16 @@ ai_modified: 2026-05-31T22:35:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-05-31T00:00:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [[concepts/psychophysical-laws]]
+- **Word count**: 3363 → 3363 (no content change; 135% of 2500 concepts soft threshold — length-neutral mode)
+- **Critical issues addressed**: 0 — converged (5th+ deep review of this file; content stable since 2026-04-23 trumping/delegatory integration). No attribution errors, dropped qualifiers, source/Map conflation, possibility/probability slippage, internal contradiction, or broken links.
+- **Verification this pass**: all load-bearing attributions re-checked (Chalmers 1995/2022, Stapp, Beck & Eccles, Georgiev 2015, Tegmark, Schwartz, Schaffer "t-shirt problem", Maier-Dechamps 2018, Zheng & Meister 2025); "t-shirt problem" confirmed as Schaffer's term against research note; Maier-Dechamps third author (Pflitsch) confirmed consistent. 33 wikilink targets + 5 tenet anchors + corridor anchor all resolve.
+- **Calibration**: PASS — candidate law families carry explicit "Main objection" entries; valence/qualia/unity down-calibrated to Low/Very-low with "no quantum mechanism"; corridor dualism framed as "default working hypothesis," not evidentially elevated.
+- **Reasoning modes (editor-internal)**: functionalist Mode Three (boundary-marking via haecceity "may matter"); Georgiev not-boundary-substitution (objection conceded as falsification condition); Chalmers Mode Three (epiphenomenalism divergence marked, not refuted); Frankish/illusionist Mode Two (Tallis regress turns illusionism's own commitment against it). No label leakage.
+- **Output**: [[reviews/deep-review-2026-05-31-psychophysical-laws]]
+
 ## 2026-05-31T22:35:00+00:00 - deep-review
 - **Status**: Success
 - **File**: [[concepts/apophatic-approaches]]
