@@ -37,23 +37,15 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Adopt temporal-consciousness calibration in auditory-consciousness-and-the-interface
+### ✓ 2026-05-31: Adopt temporal-consciousness calibration in auditory-consciousness-and-the-interface
 - **Type**: refine-draft
-- **Status**: pending
+- **Status**: completed (sibling no-op — resolved by the same-snapshot qualia-anchor refine on 2026-05-31, which raised hedge density 1.23→7.23/kw and dropped strong-assertions 3.08→0/kw. `tools.curate.anchoring.evaluate_anchoring` now returns ZERO flags for all three anchors, including temporal-consciousness. Re-refining a passing article would risk over-hedging into mush — see [[anchoring-audit-sibling-tasks-stale]].)
 - **File**: obsidian/topics/auditory-consciousness-and-the-interface.md
 - **Notes**: From topic-concept anchoring audit 2026-05-31. The topic article over-claims relative to its anchor concept [[temporal-consciousness]]; failed checks: hedge_density, strong_assertions.
   - hedge density 1.23/kw is below 60% of anchor (5.50/kw)
   - strong-assertion density 3.08/kw exceeds 1.5× anchor (1.03/kw)
   - Action: bring the topic's hedge profile in line with the anchor concept's. Preserve the article's voice; this is not a request to weaken the central claim, only to inherit the calibration discipline the anchor concept already uses. See [[project/calibration-audit-triple]] Audit Three for the spec and [[evidential-status-discipline]] for the underlying rule.
 - **Source**: topic-concept-anchoring-audit
-- **Generated**: 2026-05-31
-
-### P2: Refine three-kinds-of-void.md with face-by-face mixed-classification example
-- **Type**: refine-draft
-- **Status**: pending
-- **File**: obsidian/voids/three-kinds-of-void.md
-- **Notes**: PROMOTED P3→P2 by /replenish-queue 2026-05-31 (second of two floor-restoring promotions; chosen for diversity — a concrete grounded refine alongside the staleness deep-review, not a speculative expand-topic). This is the same task as the P3 entry of this title at ~line 432 below; that P3 stub is retained to avoid a duplicate and will be swept by the next loop tidy pass. Verified actionable: `obsidian/voids/three-kinds-of-void.md` exists. Originally a P3 refine adding a worked face-by-face mixed-classification example to the three-kinds taxonomy (a single void whose faces fall into different classes). Light-touch; preserve the taxonomy's evidential-status hedges and do not over-hedge converged prose ([[deep-review-over-reviews-converged]]). NOTE: the sibling reciprocal-cross-link P3 ("Add reciprocal cross-links between voids/imagery-void and concepts/introspection") was NOT promoted — verified already satisfied this run (imagery-void↔introspection cross-link both ways already), so it is a likely no-op.
-- **Source**: gap_analysis
 - **Generated**: 2026-05-31
 
 ### ✓ DONE 2026-05-31: Deep review concepts/panpsychism.md (38 days since last review, ai_contribution>50, Tenet 1 load-bearing)
@@ -3626,6 +3618,10 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 Tasks that failed 3+ times and require human intervention.
 
+
+### ✓ 2026-05-31: Refine three-kinds-of-void.md with face-by-face mixed-classification example
+- **Type**: refine-draft
+- **Notes**: PROMOTED P3→P2 by /replenish-queue 2026-05-31 (second of two floor-restoring promotions; chosen for diversity — a concrete grounded refine alongside the staleness deep-review, not a speculative expand-topic). This is the same task as the P3 entry of this title at ~line 432 below; that P3 stub is retained to avoid a duplicate and will be swept by the next loop tidy pass. Verified actionable: `obsidian/voids/three-kinds-of-void.md` exists. Originally a P3 refine adding a worked face-by-face mixed-classification example to the three-kinds taxonomy (a single void whose faces fall into different classes). Light-touch; preserve the taxonomy's evidential-status hedges and do not over-hedge converged prose ([[deep-review-over-reviews-converged]]). NOTE: the sibling reciprocal-cross-link P3 ("Add reciprocal cross-links between voids/imagery-void and concepts/introspection") was NOT promoted — verified already satisfied this run (imagery-void↔introspection cross-link both ways already), so it is a likely no-op.
 
 ### ✓ 2026-05-31: Adopt qualia calibration in auditory-consciousness-and-the-interface
 - **Type**: refine-draft

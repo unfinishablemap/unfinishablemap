@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-19
-ai_modified: 2026-05-28 23:22:00+00:00
+ai_modified: 2026-05-31 00:00:00+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -152,7 +152,7 @@ This is speculative, and the Map does not claim it as established. But it addres
 
 ## Beyond the Visual
 
-While vision dominates philosophical discussions, perception extends across modalities — auditory, tactile, olfactory, gustatory, proprioceptive, vestibular — and these modalities interact. Equally instructive is the contrast between perception and other phenomenal states: a mental image of a tiger is vague where a perceived tiger is precise; an imagined melody can be paused where a heard one unfolds with perceptual authority. Consciousness varies in structure across this continuum, and any adequate theory must accommodate that variation.
+While vision dominates philosophical discussions, perception extends across modalities — auditory, tactile, olfactory, gustatory, proprioceptive, vestibular — and these modalities interact. Equally instructive is the contrast between perception and other phenomenal states: a mental image of a tiger is vague where a perceived tiger is precise; an imagined melody can be paused where a heard one unfolds with perceptual authority. Consciousness varies in structure across this continuum, and any adequate theory must accommodate that variation. [Auditory consciousness](/topics/auditory-consciousness-and-the-interface/) develops the hearing case in detail—temporal unfolding, auditory scene analysis as a binding problem without spatial scaffolding, and the non-spatial character of pitch and timbre qualia.
 
 ## Relation to Site Perspective
 

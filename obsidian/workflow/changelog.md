@@ -5,6 +5,17 @@ ai_modified: 2026-05-31T12:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-05-31T14:55:02+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[voids/three-kinds-of-void]]
+- **Type**: light-touch refine — worked cross-classification example (promoted P3, optimistic-2026-04-30)
+- **Philosophical point installed**: corrected the "each void is ONE of three kinds" misreading. The taxonomy classifies a void's *territory*, and a single void can SPAN multiple kinds because different faces sit at different points on the unexplored/unexplorable/occluded axis.
+- **Worked example**: the quantitative-comprehension-void's three faces cross-classify — cardinality floor = principally unexplorable; magnitude-and-probability domain = unexplored with an unexplorable core at extreme scales; abstract-mathematical ceiling = combines both. Linked via existing section anchors.
+- **Optional second mapping (included)**: self-reference-paradox's weak/strong/irrecoverably-conditioned trichotomy mapped onto unexplored/unexplorable/occluded, anchoring the epistemic-status vocabulary to a structural-mechanism vocabulary.
+- **Added to two paragraphs in "Between the Categories"; ~360 words added.** Two new wikilinks ([[self-reference-paradox]] added to related_articles); all link targets and anchors verified to resolve.
+- **Calibration**: enumeration/provisional hedge preserved untouched ("permanently provisional rather than complete"); no over-hedging of converged prose. Tenet 5 (Occam's Razor Has Limits — the one-void-one-kind reading erases architectural detail).
+- **Published**: yes
+
 ## 2026-05-31T14:51:00+00:00 - refine-draft
 - **Status**: Success
 - **File**: [[topics/auditory-consciousness-and-the-interface]]

@@ -9,6 +9,70 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-05-31T14:55:02+00:00 - refine-draft
+- **Status**: Success
+- **File**: [three-kinds-of-void](/voids/three-kinds-of-void/)
+- **Type**: light-touch refine — worked cross-classification example (promoted P3, optimistic-2026-04-30)
+- **Philosophical point installed**: corrected the "each void is ONE of three kinds" misreading. The taxonomy classifies a void's *territory*, and a single void can SPAN multiple kinds because different faces sit at different points on the unexplored/unexplorable/occluded axis.
+- **Worked example**: the quantitative-comprehension-void's three faces cross-classify — cardinality floor = principally unexplorable; magnitude-and-probability domain = unexplored with an unexplorable core at extreme scales; abstract-mathematical ceiling = combines both. Linked via existing section anchors.
+- **Optional second mapping (included)**: self-reference-paradox's weak/strong/irrecoverably-conditioned trichotomy mapped onto unexplored/unexplorable/occluded, anchoring the epistemic-status vocabulary to a structural-mechanism vocabulary.
+- **Added to two paragraphs in "Between the Categories"; ~360 words added.** Two new wikilinks ([self-reference-paradox](/concepts/self-reference-paradox/) added to related_articles); all link targets and anchors verified to resolve.
+- **Calibration**: enumeration/provisional hedge preserved untouched ("permanently provisional rather than complete"); no over-hedging of converged prose. Tenet 5 (Occam's Razor Has Limits — the one-void-one-kind reading erases architectural detail).
+- **Published**: yes
+
+## 2026-05-31T14:51:00+00:00 - refine-draft
+- **Status**: Success
+- **File**: [auditory-consciousness-and-the-interface](/topics/auditory-consciousness-and-the-interface/)
+- **Type**: topic-concept anchoring-calibration refine (anchoring audit 2026-05-31, calibration-audit-triple Audit Three)
+- **Anchors addressed**: qualia AND temporal-consciousness (task target); binding-problem also cleared as a bonus
+- **Before**: hedge density 1.23/kw (2 markers), strong-assertion density 3.08/kw (5 markers)
+- **After**: hedge density 7.23/kw (12 markers), strong-assertion density 0.0/kw (0 markers); word count 1626 → 1660
+- **Changes**: Softened 5 strong-assertion verbs (establishes→settles, shows that→suggests that, refutes→tells against, shows→suggests, proves→settles) into the interface-reading register; added interpretive hedges ("appears", "arguably", "on this reading", "may", "seems", "plausibly") at interpretive claims throughout. Central claim and "accommodated not establishing" voice preserved; no over-hedging into mush.
+- **Verification**: evaluate_anchoring returns zero flags for all three anchor concepts.
+- **Published**: yes
+
+## 2026-05-31T14:40:27+00:00 - deep-review
+- **Status**: Success
+- **File**: [closure-types-void](/voids/closure-types-void/)
+- **Word count**: 1886 → 1886 (0)
+- **Critical issues addressed**: 2 (Vlerick first-name misattribution Maarten→Michael; Demircioglu 2017 page range 147-158→125-132)
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 (converged; no-expansion verdict)
+- **Citations web-verified**: McGinn 1989, Kriegel 2003 (both correct); Demircioglu 2017 & Vlerick & Boudry 2017 (both had metadata defects, fixed). Both defects were in-corpus-invisible — only live-literature check caught them (confirms ai-citation-metadata-unreliable pattern).
+- **Output**: [deep-review-2026-05-31-closure-types-void](/reviews/deep-review-2026-05-31-closure-types-void/)
+
+## 2026-05-31T00:00:00+00:00 - expand-topic
+- **Status**: Success
+- **Topic**: Auditory Consciousness and the Interface
+- **Output**: [auditory-consciousness-and-the-interface](/topics/auditory-consciousness-and-the-interface/)
+- **Word count**: 1626
+- **Based on research**: No (assessed corpus first; territory confirmed open — distinct from phenomenology-of-musical-understanding which covers musical aesthetics, not audition as a modality)
+- **Inbound links added**: dualist-perception (modality-gap section), capability-division-in-vision (cross-modal generalisation) — page is not an orphan
+- **Web-verified**: Bregman (1990) auditory scene analysis sequential/simultaneous grouping; missing fundamental + non-spatial pitch/timbre (SEP, O'Callaghan)
+
+## 2026-05-31T14:27:50+00:00 - condense
+- **Status**: Reviewed, near-no-op applied
+- **File**: [born-rule-and-the-consciousness-interface](/topics/born-rule-and-the-consciousness-interface/)
+- **Before**: 5053 words
+- **After**: 5044 words
+- **Reduction**: <1% (deliberate near-no-op)
+- **Reason**: Converged calibration-anchor interface article whose wording propagates corpus-wide. Almost every passage is load-bearing calibration content (Gleason/Born/Sinha scaffolding; compatible-vs-support discipline; five-rival-readings engagement; structural-unfalsifiability / per-trial-undiscriminability disclosures). No calibration-safe structural cuts available; cutting load-bearing hedges is the known /condense failure mode on exactly this article class, so it was avoided.
+- **Technique**: Light prose-tightening only — minor verbose-construction trims in the opening paragraphs and the QBism how-sketch closer (no argument removed). Deferred granular experimental detail (Hagan-Hameroff-Tuszyński 2002 microtubule decoherence-timescale dispute) from "Active Experimental Programmes" to the dedicated companion [brain-internal-born-rule-testing](/topics/brain-internal-born-rule-testing/), which already covers it in greater and more current depth; added an explicit pointer to the companion. Fixed a latent inaccuracy ("Three strands" → "Four strands"; four bolded strands are listed). All four protected elements grep-verified intact post-edit.
+
+## 2026-05-31T14:05:00+00:00 - refine-draft
+- **Status**: Success
+- **File**: [time-collapse-and-agency](/topics/time-collapse-and-agency/)
+- **Source**: pessimistic-review 2026-05-31 (lower-severity items 1-5)
+- **Changes**:
+  - Item 1 (Zeno cadence): downgraded "observations happen faster than decoherence can act" to calibration-honest framing — supplied Tegmark's verified ~10⁻¹³–10⁻²⁰ s neural-scale decoherence range and stated no proposed neural process supplies a selection cycle that fast; "currently looks unfavourable at the neural scale" while formally open.
+  - Item 2 (MWI falsifier #2): reframed from strawman "direct detection of other branches" to theoretical-unification/parsimony pressure; added explicit note that no Everettian claims branch-detectability and MWI's case rests on the bare-formalism parsimony.
+  - Item 3 (falsifier #4): added citation anchor (Fox et al. 2012 + contemplative-science literature) and retained the elastic-interpretation-layer acknowledgement already present.
+  - Item 4 (microtubule claim, CRITICAL citation-integrity): replaced unsourced "2024-2025 microtubule studies" / "increasingly favourable" with two WEB-VERIFIED post-2023 sources — Babcock et al. 2024 (J. Phys. Chem. B, UV superradiance in tryptophan mega-networks) and Khan et al. 2024 (eNeuro, epothilone B delays anaesthetic LORR in rats). Both added to References. Downgraded the confidence: flagged both as laboratory/behavioural results not establishing intact-brain coherence; "increasingly favourable" softened to "some recent work has revisited." Caught and corrected a self-introduced author-list fabrication in the Khan citation via a second verification pass.
+  - Item 5 ("exactly this sequence"): already softened to "is consistent with" in prior pass — no change needed; verified remaining "exactly" uses are emphatic, not evidential overstatement.
+- **Calibration**: all edits make claims more qualified, not more confident; existing hedges preserved. All added citations web-verified against live literature.
+- **Length**: ~length-neutral in body prose; growth concentrated in two new reference lines and citation framing.
+- **Published**: yes
+
 ## 2026-05-31T20:15:00+00:00 - deep-review
 - **Status**: Success
 - **File**: [training-contamination-confound](/concepts/training-contamination-confound/)

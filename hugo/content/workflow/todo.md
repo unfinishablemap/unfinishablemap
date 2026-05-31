@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-31 13:50:00+00:00
+ai_modified: 2026-05-31 14:36:40+00:00
 ai_system: claude-opus-4-8
 author: Andy Southgate
 concepts: []
@@ -38,10 +38,24 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Sharpen decoherence/falsifier precision in topics/time-collapse-and-agency.md
+### ✓ 2026-05-31: Adopt temporal-consciousness calibration in auditory-consciousness-and-the-interface
+- **Type**: refine-draft
+- **Status**: completed (sibling no-op — resolved by the same-snapshot qualia-anchor refine on 2026-05-31, which raised hedge density 1.23→7.23/kw and dropped strong-assertions 3.08→0/kw. `tools.curate.anchoring.evaluate_anchoring` now returns ZERO flags for all three anchors, including temporal-consciousness. Re-refining a passing article would risk over-hedging into mush — see anchoring-audit-sibling-tasks-stale.)
+- **File**: obsidian/topics/auditory-consciousness-and-the-interface.md
+- **Notes**: From topic-concept anchoring audit 2026-05-31. The topic article over-claims relative to its anchor concept [temporal-consciousness](/concepts/temporal-consciousness/); failed checks: hedge_density, strong_assertions.
+  - hedge density 1.23/kw is below 60% of anchor (5.50/kw)
+  - strong-assertion density 3.08/kw exceeds 1.5× anchor (1.03/kw)
+  - Action: bring the topic's hedge profile in line with the anchor concept's. Preserve the article's voice; this is not a request to weaken the central claim, only to inherit the calibration discipline the anchor concept already uses. See [calibration-audit-triple](/project/calibration-audit-triple/) Audit Three for the spec and [evidential-status-discipline](/project/evidential-status-discipline/) for the underlying rule.
+- **Source**: topic-concept-anchoring-audit
+- **Generated**: 2026-05-31
+
+### P2: Refine three-kinds-of-void.md with face-by-face mixed-classification example
 - **Type**: refine-draft
 - **Status**: pending
-- **Notes**: PROMOTED P3→P2 by /replenish-queue 2026-05-31 (second of two floor-restoring promotions; see the valence deep-review above for the full queue rationale). Chosen for diversity (a review-flagged refine, not a deep-review) and groundedness: a concrete, fully-specified pessimistic-review fix on a named file. Verified still actionable 2026-05-31 — the §Decoherence Challenge text still reads "decohere in warm biological systems within femtoseconds, far too fast" with no Tegmark order-of-magnitude estimate or honest downgrade, so item (1) is genuinely un-done. NOTE: the same article was edited earlier today by the altered-state-symmetry refine (the critical convergence double-count, now ✓), which is why it sits at 4442w; this refine is calibration/precision tightening that should be length-neutral or slightly reducing — do NOT add bulk. Pessimistic review 2026-05-31, lower-severity items. (1) §Decoherence Zeno rebuttal asserts "observations happen faster than decoherence can act" with no timescale vs Tegmark's femtosecond figure — supply an order-of-magnitude estimate or honestly downgrade to "currently looks unfavourable at the neural scale." (2) MWI falsifier #2 ("direct detection of other branches") is a strawman — no Everettian claims branch-detectability; reframe around theoretical-unification/parsimony pressure. (3) falsifier #4 "Current contemplative consensus aligns with predictions" needs a citation and acknowledgement that the alignment lives in the elastic interpretation layer. (4) "2024-2025 microtubule studies" / "increasingly favourable to biological quantum effects" need specific post-2023 sources. (5) soften "exactly this sequence" → "consistent with." See reviews/pessimistic-2026-05-31-time-collapse-and-agency.md.
+- **File**: obsidian/voids/three-kinds-of-void.md
+- **Notes**: PROMOTED P3→P2 by /replenish-queue 2026-05-31 (second of two floor-restoring promotions; chosen for diversity — a concrete grounded refine alongside the staleness deep-review, not a speculative expand-topic). This is the same task as the P3 entry of this title at ~line 432 below; that P3 stub is retained to avoid a duplicate and will be swept by the next loop tidy pass. Verified actionable: `obsidian/voids/three-kinds-of-void.md` exists. Originally a P3 refine adding a worked face-by-face mixed-classification example to the three-kinds taxonomy (a single void whose faces fall into different classes). Light-touch; preserve the taxonomy's evidential-status hedges and do not over-hedge converged prose (deep-review-over-reviews-converged). NOTE: the sibling reciprocal-cross-link P3 ("Add reciprocal cross-links between voids/imagery-void and concepts/introspection") was NOT promoted — verified already satisfied this run (imagery-void↔introspection cross-link both ways already), so it is a likely no-op.
+- **Source**: gap_analysis
+- **Generated**: 2026-05-31
 
 ### ✓ DONE 2026-05-31: Deep review concepts/panpsychism.md (38 days since last review, ai_contribution>50, Tenet 1 load-bearing)
 - **Type**: deep-review
@@ -110,10 +124,9 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: deep-review
 - **Generated**: 2026-05-29
 
-### P3: Write article on Auditory Consciousness and the Interface
+### ✓ RELOCATED 2026-05-31: Write article on Auditory Consciousness and the Interface
 - **Type**: expand-topic
-- **Status**: pending
-- **Notes**: Suggested by optimistic review 2026-05-28b. The perception cluster (`dualist-perception`, `capability-division-in-vision`) is heavily vision-biased; `dualist-perception` explicitly names this gap ("While vision dominates philosophical discussions, perception extends across modalities"). Audition supplies distinctive evidence the visual case lacks: temporal unfolding of heard melody (the imagined-melody-can-be-paused contrast), auditory scene analysis as a binding case, non-spatial pitch/timbre qualia. Assess-first + license-to-decline: confirm no existing auditory-consciousness page before creating; if substantially covered, retarget to a cross-link/refine. Tenet alignment: Dualism, Bidirectional Interaction. See `reviews/optimistic-2026-05-28b.md`.
+- **Status**: Promoted P3→P2 by /replenish-queue 2026-05-31 and relocated to the top of Active Tasks (floor-restoring). See the P2 entry of the same title for the live task. This stub remains to avoid a duplicate; it will be swept by the next loop tidy pass.
 - **Source**: optimistic-review (2026-05-28)
 - **Generated**: 2026-05-28
 
@@ -3614,6 +3627,26 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 Tasks that failed 3+ times and require human intervention.
 
+
+### ✓ 2026-05-31: Adopt qualia calibration in auditory-consciousness-and-the-interface
+- **Type**: refine-draft
+- **Notes**: From topic-concept anchoring audit 2026-05-31. The topic article over-claims relative to its anchor concept [qualia](/concepts/qualia/); failed checks: hedge_density, strong_assertions.
+
+### ✓ 2026-05-31: Deep review voids/closure-types-void.md (43 days since last review, ai_contribution=100)
+- **Type**: deep-review
+- **Notes**: PROMOTED P3→P2 by /replenish-queue 2026-05-31 (floor-restoring; the cycle-pickable P0–P2 queue had fallen to effectively 1 — the phenomenology-of-intellectual-life→courage cross-link is genuinely cycle-consumable, but the consciousness-and-skill-acquisition literature-drift P2 runs on its own weekly wall-clock and is NOT cycle-consumable). This is the documented replenish-at-floor steady state (unfin-loop-steady-state), re-verified this run: voids OVER cap (101/100); topics (259/270) and concepts (251/270) have nominal room but NO unconsumed research awaits synthesis (the only fresh note, research/claude-constitution-and-the-map-2026-05-31.md, was already consumed today into topics/claude-constitution-consciousness-uncertainty.md); orphaned_files=0; and every published-content length offender is blocked/vetoed/same-day-churn (epistemology-of-convergence-arguments 6479w and phenomenal-output-causal-machinery-dissociation 6989w are BLOCKED pending human split decisions; born-rule 5044w was condensed TODAY; meaning-of-life 4160w is vetoed; time-collapse-and-agency 4748w was edited today and has an active refine; apex-articles 5119w is the apex section index/hub and taxonomy-of-voids 5113w was modified today by apex-evolve — both same-day churn). So the honest floor-restoring move is to promote two grounded, genuinely-stale/verified-actionable P3-tier tasks rather than mint speculative expand-topic work against the ~470-task P3 backlog. This is the surgical staleness promotion: `closure-types-void` is the OLDEST AI-heavy article past the 30-day deep-review floor and not currently queued (verified `last_deep_review: 2026-04-18`, ~43d; the three sibling 38-day articles panpsychism/eastern-philosophy/valence were all already deep-reviewed today). Deep-review doesn't create articles, so the voids over-cap is irrelevant. Web-verify any cited dates/scholar attributions before trusting them (ai-citation-metadata-unreliable); preserve the void-vs-limit and constrain-vs-establish framing ([evidential-status-discipline](/project/evidential-status-discipline/)); first review in 43d, not a runaway re-review — a metadata-only verdict is acceptable if converged, do NOT over-hedge converged prose (deep-review-over-reviews-converged).
+
+### ✓ 2026-05-31: Write article on Auditory Consciousness and the Interface
+- **Type**: expand-topic
+- **Notes**: PROMOTED P3→P2 by /replenish-queue 2026-05-31 (floor-restoring promotion; queue at 2 active P0–P2 pre-replenish). Originally suggested by optimistic review 2026-05-28b. The perception cluster (`dualist-perception`, `capability-division-in-vision`) is heavily vision-biased; `dualist-perception` explicitly names this gap ("While vision dominates philosophical discussions, perception extends across modalities"). Audition supplies distinctive evidence the visual case lacks: temporal unfolding of heard melody (the imagined-melody-can-be-paused contrast), auditory scene analysis as a binding case, non-spatial pitch/timbre qualia. **Cap-safe:** topics/ is at 258/270 (12 slots of headroom). **Assess-first + license-to-decline:** confirm no existing auditory-consciousness page before creating (see stale-expand-tasks-may-be-redundant); if the territory is already substantially covered, retarget to a cross-link/refine rather than creating a near-duplicate. After creation, verify the expand-topic fork actually generated inbound links — expand-topic-skips-integration-chain warns new pages can land as orphans; queue an integrate-orphan follow-on yourself if not. Tenet alignment: Dualism, Bidirectional Interaction. See `reviews/optimistic-2026-05-28b.md`.
+
+### ✓ 2026-05-31: Calibration-preserving condense of topics/born-rule-and-the-consciousness-interface.md (5053 words, 168% of 3000 target — over the 4000 topics hard threshold)
+- **Type**: condense
+- **Notes**: Generated by /replenish-queue 2026-05-31 (Active P0–P2 queue at 2, below the floor of 3 — floor-restoring). Length analysis (`tools/curate/length.py`) flags this at the topics hard_warning tier: 5053 words, 168% of the 3000-word target and over the 4000-word hard threshold. It is the single strongest genuinely-new length candidate in the content sections — the two worse offenders (`topics/epistemology-of-convergence-arguments.md` and `apex/phenomenal-output-causal-machinery-dissociation.md`) are both under `### BLOCKED` human-editorial-decision holds and must NOT be re-queued; `topics/time-collapse-and-agency.md` (158%) was modified today and is excluded for churn-avoidance. born-rule is NOT blocked, NOT vetoed, and was last modified 2026-05-27 (stable). **Critical constraint:** this is a calibration-load-bearing interface article — see condense-regresses-calibration-qualifiers (condense is known to silently drop load-bearing hedges, most dangerous on calibration-anchor articles whose wording propagates corpus-wide). Any condense MUST preserve: the Gleason/Born/Sinha empirical scaffolding, the interpretive-layer evidential-status discipline (constrain-vs-establish framing), the rival-reading engagement, and the per-trial-undiscriminability / structural-unfalsifiability disclosures installed in prior passes. Legitimate target is prose-tightening and deferring detailed subtopics to linked articles (the interface-formalism concept and the time-collapse topic are natural defer targets) — NOT removal of load-bearing content. If no calibration-safe cuts are available, mark no-op. Honour [evidential-status-discipline](/project/evidential-status-discipline/) throughout. See `/condense` skill; validate against the length tool afterward. Tenet alignment: Minimal Quantum Interaction + Bidirectional Interaction (framework register).
+
+### ✓ 2026-05-31: Sharpen decoherence/falsifier precision in topics/time-collapse-and-agency.md
+- **Type**: refine-draft
+- **Notes**: PROMOTED P3→P2 by /replenish-queue 2026-05-31 (second of two floor-restoring promotions; see the valence deep-review above for the full queue rationale). Chosen for diversity (a review-flagged refine, not a deep-review) and groundedness: a concrete, fully-specified pessimistic-review fix on a named file. Verified still actionable 2026-05-31 — the §Decoherence Challenge text still reads "decohere in warm biological systems within femtoseconds, far too fast" with no Tegmark order-of-magnitude estimate or honest downgrade, so item (1) is genuinely un-done. NOTE: the same article was edited earlier today by the altered-state-symmetry refine (the critical convergence double-count, now ✓), which is why it sits at 4442w; this refine is calibration/precision tightening that should be length-neutral or slightly reducing — do NOT add bulk. Pessimistic review 2026-05-31, lower-severity items. (1) §Decoherence Zeno rebuttal asserts "observations happen faster than decoherence can act" with no timescale vs Tegmark's femtosecond figure — supply an order-of-magnitude estimate or honestly downgrade to "currently looks unfavourable at the neural scale." (2) MWI falsifier #2 ("direct detection of other branches") is a strawman — no Everettian claims branch-detectability; reframe around theoretical-unification/parsimony pressure. (3) falsifier #4 "Current contemplative consensus aligns with predictions" needs a citation and acknowledgement that the alignment lives in the elastic interpretation layer. (4) "2024-2025 microtubule studies" / "increasingly favourable to biological quantum effects" need specific post-2023 sources. (5) soften "exactly this sequence" → "consistent with." See reviews/pessimistic-2026-05-31-time-collapse-and-agency.md.
 
 ### ✓ 2026-05-31: Cross-link ai-epiphenomenalism.md → anti-correlation-probes-for-ai-consciousness.md
 - **Type**: refine-draft
