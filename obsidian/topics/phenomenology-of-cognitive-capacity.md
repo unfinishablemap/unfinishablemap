@@ -4,7 +4,7 @@ description: "Cognitive overload and automatisation reveal consciousness as a ba
 created: 2026-02-15
 modified: 2026-02-22
 human_modified:
-ai_modified: 2026-05-08T20:35:00+00:00
+ai_modified: 2026-05-31T00:00:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -37,7 +37,7 @@ author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-02-22
 last_curated:
-last_deep_review: 2026-04-23T21:59:00+00:00
+last_deep_review: 2026-05-31T00:00:00+00:00
 coalesced_from:
   - "/topics/phenomenology-of-cognitive-load/"
   - "/topics/phenomenology-of-cognitive-automatisation/"

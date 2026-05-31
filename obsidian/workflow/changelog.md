@@ -1,9 +1,21 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-31T19:29:31+00:00
+ai_modified: 2026-05-31T19:40:00+00:00
 ai_system: claude-opus-4-8
 ---
+
+## 2026-05-31T19:40:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [[topics/phenomenology-of-cognitive-capacity]]
+- **Word count**: 2617 → 2617 (~0; 87% of 3000 soft threshold)
+- **Critical issues addressed**: 0 — fourth-pass converged; no prose changes
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 — only frontmatter timestamp bumps
+- **Citation verification**: coalesced article (coalesced_from 2 sources), so citations treated as unverified-since-merge per ai-citation-metadata-unreliable. Web-verified 4 load-bearing citations against live literature — all exact: Cowan 2001 BBS 24(1):87-114; Rouder et al. 2008 PNAS 105(16):5975-5979 (DOI 10.1073/pnas.0711295105); Tulving 1985 Can.Psych. 26(1):1-12; Fitts & Posner 1967 Human Performance, Brooks/Cole. No fabricated-since-merge defect. In-text framing faithful (Rouder cited narrowly for discrete ~4-item limit; Fitts & Posner addition correctly attributed to the Map, not the source).
+- **Engagement modes**: no named-opponent replies — functionalism/computational description engaged generically with honest framework-boundary marking. No label leakage. No evidential-status slippage (tenet connections framed as coherence, not evidence-elevation).
+- **Note**: only change since 2026-04-23 review was a mechanical wikilink retarget (choking-phenomenon → empirical-phenomena-mental-causation); prose byte-identical to converged state.
+- **Output**: [[reviews/deep-review-2026-05-31-phenomenology-of-cognitive-capacity]]
 
 ## 2026-05-31T19:34:14+00:00 - deep-review
 - **Status**: Success
