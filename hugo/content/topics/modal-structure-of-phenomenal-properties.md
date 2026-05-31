@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-10
-ai_modified: 2026-05-26 22:53:26+00:00
+ai_modified: 2026-05-31 16:13:02+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -36,7 +36,7 @@ topics:
 - '[[hard-problem-of-consciousness]]'
 ---
 
-Phenomenal properties — the redness of red, the painfulness of pain — behave unlike any other properties when examined through the lens of possibility and necessity. Physical identities like "water = H₂O" are necessary if true: there is no possible world where water exists but isn't H₂O. Yet phenomenal properties resist this pattern. We can coherently conceive of physical duplicates lacking experience entirely, of functionally identical beings with inverted [qualia](/concepts/qualia/), and of complete physical knowledge that leaves phenomenal facts unknown. The Unfinishable Map holds that this distinctive modal profile is not a symptom of ignorance but a genuine feature of reality — one that reveals phenomenal properties as irreducible to the physical.
+Phenomenal properties — the redness of red, the painfulness of pain — behave unlike any other properties when examined through the lens of possibility and necessity. Physical identities like "water = H₂O" are necessary if true: there is no possible world where water exists but isn't H₂O. Yet phenomenal properties resist this pattern. We can coherently conceive of physical duplicates lacking experience entirely, of functionally identical beings with inverted [qualia](/concepts/qualia/), and of complete physical knowledge that leaves phenomenal facts unknown. The Unfinishable Map adopts the irreducibility of phenomenal properties as a framing rather than treating it as an established result (see [the problem of other properties](/topics/consciousness-and-the-problem-of-other-properties/), which carries that adopted-framing commitment; this article supplies the formal modal backbone). On that framing, the distinctive modal profile catalogued here is not a symptom of ignorance but the formal articulation of an irreducibility taken as given — the shape irreducibility takes in the space of possibility and necessity, not independent evidence that establishes it.
 
 This article examines what the modal structure of phenomenal properties tells us about consciousness. Where individual modal arguments (the [zombie argument](/concepts/philosophical-zombies/), [inverted-qualia](/concepts/inverted-qualia/), [Mary's Room](/concepts/knowledge-argument/), Kripke's modal argument) each exploit a specific modal intuition, the broader pattern they form is itself philosophically significant. Phenomenal properties display a systematic modal independence from physical and functional properties — and this convergence demands explanation.
 
@@ -109,7 +109,7 @@ This matters modally because it introduces indexical modal facts. The question "
 
 The modal structure of phenomenal properties provides some of the strongest support for the Map's [foundational commitments](/tenets/).
 
-**[Dualism](/tenets/#dualism)**: The systematic modal independence of phenomenal from physical properties is the evidential backbone of the Map's dualism. That phenomenal properties can be detached, varied, and withheld from their physical correlates — not through ignorance but through understanding — indicates they are genuinely distinct in kind. The convergence of four independent modal arguments, each targeting a different dimension of the phenomenal-physical relationship, makes the case cumulative rather than resting on any single intuition.
+**[Dualism](/tenets/#dualism)**: The systematic modal independence of phenomenal from physical properties is the formal backbone of the Map's dualism. Once irreducibility is taken as the Map's framing (argued for elsewhere, not by appeal to the modal structure that articulates it — a circularity the [epistemology of convergence arguments](/topics/epistemology-of-convergence-arguments/) is explicit about avoiding), this independence is what irreducibility *looks like* across possibility and necessity: phenomenal properties detached, varied, and withheld from their physical correlates not through ignorance but through understanding. The convergence of four modal arguments, each targeting a different dimension of the phenomenal-physical relationship, makes that articulation cumulative rather than resting on any single intuition.
 
 **[Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction)**: Modal structure establishes that something beyond physics enters the story of consciousness. The question of *where* that entry occurs is a further matter — but the modal arguments narrow the search. If phenomenal properties are modally independent of physical/functional structure, then the interface between them must occur at a point where physical determination runs out. Quantum indeterminacies are the natural candidate: they are where physics itself leaves outcomes open.
 
@@ -135,6 +135,7 @@ The modal structure of phenomenal properties provides some of the strongest supp
 - [explanatory-gap](/concepts/explanatory-gap/) — The chasm between physical description and experience
 - [aesthetics-and-consciousness](/topics/aesthetics-and-consciousness/) — Aesthetic properties as a domain where modal independence is especially vivid
 - [meta-problem-of-consciousness](/concepts/meta-problem-of-consciousness/) — Why we report that consciousness is puzzling
+- [consciousness-and-the-problem-of-other-properties](/topics/consciousness-and-the-problem-of-other-properties/) — Where irreducibility is carried as an adopted framing; this article supplies its formal modal backbone
 
 ## References
 

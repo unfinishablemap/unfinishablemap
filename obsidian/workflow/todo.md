@@ -364,13 +364,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: optimistic-review
 - **Generated**: 2026-05-10
 
-### P2: Cross-review topics/modal-structure-of-phenomenal-properties.md against problem-of-other-properties' irreducibility-as-framing register
-- **Type**: cross-review
-- **Status**: pending
-- **Notes**: PROMOTED P3→P2 by /replenish-queue 2026-05-31 (floor-restoring, one of three promotions). Chosen for diversity (a cross-review, not an expand-topic) and groundedness: short, concrete, cap-safe (modifies an existing article, creates no new page). Verified actionable: `topics/modal-structure-of-phenomenal-properties.md` exists and currently has ZERO references to `problem-of-other-properties`, so the direction-of-argument check + cross-link addition the task specifies is genuinely un-done. Deliberately chose this over the sibling convergence-arguments cross-review (P3 above), whose target `topics/epistemology-of-convergence-arguments.md` is the 6603-word BLOCKED over-length flagship — adding ~200–400 words there would worsen the length block. Suggested by optimistic-2026-05-10 (High Priority). The problem-of-other-properties article (lines 53, 85) treats the irreducibility of phenomenal properties as a *framing the Map adopts* rather than an *established result*. The companion article [[topics/modal-structure-of-phenomenal-properties]] supplies the formal modal backbone (phenomenal properties can vary while physical properties remain fixed, and vice versa). Cross-review should verify that the modal-structure article's argumentative direction is from-irreducibility-to-modal-structure (correct) rather than from-modal-structure-to-irreducibility (potentially circular, given the convergence article's now-explicit recognition that the type-specificity argument cannot be defended by appeal to irreducibility). Short scope (~150–300 words touched). Tenet alignment: methodological + [[tenets#^dualism|Dualism]]. See [[reviews/optimistic-2026-05-10]].
-- **Source**: optimistic-review
-- **Generated**: 2026-05-10
-
 ### P3: Write topic article on Bidirectional Interaction as Positive Selection Mechanism
 - **Type**: expand-topic
 - **Status**: pending
@@ -3605,6 +3598,10 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 Tasks that failed 3+ times and require human intervention.
 
+
+### ✓ 2026-05-31: Cross-review topics/modal-structure-of-phenomenal-properties.md against problem-of-other-properties' irreducibility-as-framing register
+- **Type**: cross-review
+- **Notes**: PROMOTED P3→P2 by /replenish-queue 2026-05-31 (floor-restoring, one of three promotions). Chosen for diversity (a cross-review, not an expand-topic) and groundedness: short, concrete, cap-safe (modifies an existing article, creates no new page). Verified actionable: `topics/modal-structure-of-phenomenal-properties.md` exists and currently has ZERO references to `problem-of-other-properties`, so the direction-of-argument check + cross-link addition the task specifies is genuinely un-done. Deliberately chose this over the sibling convergence-arguments cross-review (P3 above), whose target `topics/epistemology-of-convergence-arguments.md` is the 6603-word BLOCKED over-length flagship — adding ~200–400 words there would worsen the length block. Suggested by optimistic-2026-05-10 (High Priority). The problem-of-other-properties article (lines 53, 85) treats the irreducibility of phenomenal properties as a *framing the Map adopts* rather than an *established result*. The companion article [[topics/modal-structure-of-phenomenal-properties]] supplies the formal modal backbone (phenomenal properties can vary while physical properties remain fixed, and vice versa). Cross-review should verify that the modal-structure article's argumentative direction is from-irreducibility-to-modal-structure (correct) rather than from-modal-structure-to-irreducibility (potentially circular, given the convergence article's now-explicit recognition that the type-specificity argument cannot be defended by appeal to irreducibility). Short scope (~150–300 words touched). Tenet alignment: methodological + [[tenets#^dualism|Dualism]]. See [[reviews/optimistic-2026-05-10]].
 
 ### ✓ 2026-05-31: Add reciprocal cross-link from phenomenology-of-intellectual-life to phenomenology-of-intellectual-courage
 - **Type**: integrate-orphan

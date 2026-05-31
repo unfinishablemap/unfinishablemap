@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-04-03
-ai_modified: 2026-05-25 16:42:05+00:00
+ai_modified: 2026-05-31 15:58:13+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -122,7 +122,7 @@ Not all inference is phenomenally rich. Blind inference delivers the conclusion 
 
 Arguments and evidence carry experiential weight. A compelling argument exerts felt gravitational pull toward its conclusion; counterarguments produce opposing force. Different kinds of evidence feel qualitatively different: empirical evidence carries groundedness; logical demonstration feels necessary; testimonial evidence involves trust phenomenology; introspective evidence has immediacy coupled with interpretive uncertainty. Consciousness distinguishes not just how much evidence there is but what kind.
 
-Some arguments feel *compelling* — you find yourself convinced not by decision but by recognition, the conclusion appearing as what the evidence requires. Contrast *forced* reasoning: conclusions pushed by authority or desire produce dissonance, resistance, the sense of something imposed rather than grasped. The phenomenological difference concerns *how* you arrived: through grasping reasons or through bypassing them.
+Some arguments feel *compelling* — you find yourself convinced not by decision but by recognition, the conclusion appearing as what the evidence requires. Contrast *forced* reasoning: conclusions pushed by authority or desire produce dissonance, resistance, the sense of something imposed rather than grasped. The phenomenological difference concerns *how* you arrived: through grasping reasons or through bypassing them. The [phenomenology of intellectual courage](/topics/phenomenology-of-intellectual-courage/) takes up the social-epistemic specialisation of this texture — what it is like to *hold* a position the evidence requires against consensus or social pressure, rather than the felt pull of the evidence itself.
 
 ## Belief Revision
 

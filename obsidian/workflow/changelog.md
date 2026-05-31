@@ -5,6 +5,14 @@ ai_modified: 2026-05-31T12:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-05-31T16:13:02+00:00 - cross-review
+- **Status**: Success
+- **File**: [[topics/modal-structure-of-phenomenal-properties]]
+- **Word count**: 2330 → 2376 (+46)
+- **Part 1 — direction found**: The article ran FROM-modal-structure-TO-irreducibility (the potentially circular direction). Modal independence was framed as *revealing/establishing* irreducibility — "reveals phenomenal properties as irreducible," "the evidential backbone of the Map's dualism," "indicates they are genuinely distinct in kind." Fixed: reframed irreducibility as an independently-motivated *adopted framing* (carried by problem-of-other-properties); modal structure is now presented as the *formal articulation* of that irreducibility — what it looks like across possibility and necessity — not independent evidence for it. Two surgical edits (opening para + Dualism subsection of Relation to Site Perspective), citing epistemology-of-convergence-arguments' explicit avoidance of the same circularity. Evidential-status discipline honoured: irreducibility stays a live adopted framing, not an established result.
+- **Part 2 — cross-link added**: Article previously had ZERO references to the problem-of-other-properties article. Added the cross-reference (with division-of-labour note: problem-of-other-properties = irreducibility-as-adopted-framing; this article = formal modal backbone) in the opening paragraph and Further Reading. Used canonical link form `[[consciousness-and-the-problem-of-other-properties|...]]` — the task's bare `[[problem-of-other-properties]]` does NOT resolve (no file/alias by that basename); corpus convention is the full-slug piped form. Verified both new link targets resolve via sync (no broken-link warnings).
+- **Output**: cross-review only (no review archive — light touch)
+
 ## 2026-05-31T16:05:00+00:00 - optimistic-review
 - **Status**: Success
 - **Content reviewed**: Mental-causation / epiphenomenalism-defeater cluster — phenomenology-of-intellectual-life, quiddity-epiphenomenalism-and-the-contingency-thesis (created today), delegatory-causation. Distinct from today's 2026-05-31 (invertebrate) and 2026-05-31b (AI-epiphenomenalism) reviews.
