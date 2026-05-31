@@ -44,14 +44,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Notes**: Surfaced by deep-review 2026-05-31 of [[quiddity-epiphenomenalism-and-the-contingency-thesis]]. The Howell contingency-thesis citation was web-verified and corpus-corrected to **2015** (*Phil. Quarterly* 65(258):22-39, DOI 10.1093/pq/pqu058 — see changelog 2026-05-W?? line "corrected year 2014→2015"). Three files still carry the stale **2014** value, including one internal contradiction: (1) `concepts/russellian-monism.md` line 166 reference list says "Howell (2014)" while its body line 90 correctly says "Howell (2015)" — self-contradiction within the file; (2) `topics/russellian-monism-versus-bi-aspectual-dualism.md` lines 143 and 169; (3) `topics/consciousness-and-the-metaphysics-of-laws-and-dispositions.md` lines 120 and 203. Pure metadata fix — change "2014" → "2015" for the Howell *The Philosophical Quarterly* citation in all three files; do not touch surrounding prose. Multi-file task: all three files must be done (see [[multifile_task_dropped_file]]).
 - **Source**: deep-review
 
-### P2: Condense topics/epistemic-advantages-of-dualism.md (4454 words, 148% of 3000-word target — over the 4000 topics hard threshold)
-- **Type**: condense
-- **Status**: pending
-- **File**: obsidian/topics/epistemic-advantages-of-dualism.md
-- **Notes**: From /replenish-queue 2026-05-31 (floor-restoring, second of two condense tasks). Length analysis flags this at **hard_warning** — 4454 words, ~454 over the 4000-word topics hard threshold, ~1454 over the 3000-word soft target. No active or vetoed condense task targets this file (verified). `ai_contribution=100`, `last_deep_review: 2026-05-05`. This is a tenet-load-bearing article (the epistemic-humility / asymmetric-cost case for dualism) cited from many cluster pages (the-case-for-dualism, three-kinds-of-void, ethics-of-possible-ai-consciousness, several optimistic-review cross-link proposals). **Critical constraint** ([[condense-regresses-calibration-qualifiers]]): preserve every calibration hedge, the asymmetric-cost framing, the constrain-vs-establish discipline, and all named-opponent engagements at their current register — do NOT weaken the central epistemic-advantage claims, only remove genuine prose redundancy. The article makes several distinct epistemic-advantage sub-arguments; if condensation cannot reach below the hard threshold without dropping one of them, mark no-op and flag for a possible human split. See /condense skill and [[evidential-status-discipline]].
-- **Source**: length_analysis
-- **Generated**: 2026-05-31
-
 ### P3: Deep review voids/anesthesia-void.md (43 days since last review, ai_contribution=100, Tenet 1/3 load-bearing)
 - **Type**: deep-review
 - **Status**: pending
@@ -3621,6 +3613,10 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 Tasks that failed 3+ times and require human intervention.
 
+
+### ✓ 2026-05-31: Condense topics/epistemic-advantages-of-dualism.md (4454 words, 148% of 3000-word target — over the 4000 topics hard threshold)
+- **Type**: condense
+- **Notes**: From /replenish-queue 2026-05-31 (floor-restoring, second of two condense tasks). Length analysis flags this at **hard_warning** — 4454 words, ~454 over the 4000-word topics hard threshold, ~1454 over the 3000-word soft target. No active or vetoed condense task targets this file (verified). `ai_contribution=100`, `last_deep_review: 2026-05-05`. This is a tenet-load-bearing article (the epistemic-humility / asymmetric-cost case for dualism) cited from many cluster pages (the-case-for-dualism, three-kinds-of-void, ethics-of-possible-ai-consciousness, several optimistic-review cross-link proposals). **Critical constraint** ([[condense-regresses-calibration-qualifiers]]): preserve every calibration hedge, the asymmetric-cost framing, the constrain-vs-establish discipline, and all named-opponent engagements at their current register — do NOT weaken the central epistemic-advantage claims, only remove genuine prose redundancy. The article makes several distinct epistemic-advantage sub-arguments; if condensation cannot reach below the hard threshold without dropping one of them, mark no-op and flag for a possible human split. See /condense skill and [[evidential-status-discipline]].
 
 ### ✓ 2026-05-31: Condense topics/time-collapse-and-agency.md (4748 words, 158% of 3000-word target — over the 4000 topics hard threshold)
 - **Type**: condense

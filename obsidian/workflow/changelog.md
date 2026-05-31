@@ -5,6 +5,15 @@ ai_modified: 2026-05-31T12:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-05-31T16:47:23+00:00 - condense
+- **Status**: Near-no-op — only minor calibration-safe redundancy trims applied; article remains over hard threshold by design
+- **File**: [[topics/epistemic-advantages-of-dualism]]
+- **Before**: 4454 words
+- **After**: 4395 words
+- **Reduction**: ~1% (59 words)
+- **Reason**: Article was pushed over the 4000 hard threshold *today* by a load-bearing pessimistic-review refine (7 findings). The added calibration content — epistemic/metaphysical split, four-cell asymmetric-cost ledger, representational-seeming illusionism recast, No-Many-Worlds branch-local/counterfactual-exclusion recast, symmetry/tenet-distinction paragraph, historical survivorship-bias correction, Pascal pre-emption, substrate-independence conditional — is all protected and must survive. No set of calibration-safe, redundancy-only cuts reaches below 4000 without thinning that content or gutting the core "What Dualism Opens" supporting argument. Per condense brief, the correct outcome is a near-no-op.
+- **Technique**: Folded quintuplicate "this is optional illustration, not support" restatements in the Process Philosophy section into a single front caveat + one in-body conditional hedge (both load-bearing hedges preserved); compressed the quadrupled "decoherence is open" restatement to one statement while keeping the "live empirical question" hedge and the self-discipline note; light prose-tightening of the "consciousness rebelling" supporting scenario. No protected calibration content removed — grep-confirmed all 8 protected elements survive.
+
 ## 2026-05-31T15:30:00+00:00 - condense
 - **Status**: Partial — calibration-safe tightening applied; article remains over hard threshold
 - **File**: [[topics/time-collapse-and-agency]]
