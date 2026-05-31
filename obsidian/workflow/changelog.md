@@ -5,6 +5,13 @@ ai_modified: 2026-05-31T18:16:44+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-05-31T18:25:06+00:00 - pessimistic-review
+- **Status**: Success
+- **Content reviewed**: topics/wheelers-participatory-universe-and-it-from-bit.md (oldest topic by ai_modified with no prior pessimistic review)
+- **Critical issues**: 1 high (delayed-choice retrocausality equivocation: line 153 asserts "present choices influence past quantum behaviour" while line 57 denies the retrocausal reading); 2 medium (Tegmark decoherence generalises to Map's own local-modulation thesis; falsification section omits the corridor reading's signature-free problem)
+- **Tasks added**: 1 P2 refine-draft
+- **Output**: [[reviews/pessimistic-2026-05-31-wheelers-participatory-universe]]
+
 ## 2026-05-31T18:16:44+00:00 - deep-review
 - **Status**: Success
 - **File**: [[concepts/universal-coupling-response]]
