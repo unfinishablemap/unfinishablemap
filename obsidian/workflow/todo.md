@@ -44,14 +44,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Notes**: Surfaced by deep-review 2026-05-31 of [[quiddity-epiphenomenalism-and-the-contingency-thesis]]. The Howell contingency-thesis citation was web-verified and corpus-corrected to **2015** (*Phil. Quarterly* 65(258):22-39, DOI 10.1093/pq/pqu058 — see changelog 2026-05-W?? line "corrected year 2014→2015"). Three files still carry the stale **2014** value, including one internal contradiction: (1) `concepts/russellian-monism.md` line 166 reference list says "Howell (2014)" while its body line 90 correctly says "Howell (2015)" — self-contradiction within the file; (2) `topics/russellian-monism-versus-bi-aspectual-dualism.md` lines 143 and 169; (3) `topics/consciousness-and-the-metaphysics-of-laws-and-dispositions.md` lines 120 and 203. Pure metadata fix — change "2014" → "2015" for the Howell *The Philosophical Quarterly* citation in all three files; do not touch surrounding prose. Multi-file task: all three files must be done (see [[multifile_task_dropped_file]]).
 - **Source**: deep-review
 
-### P2: Condense topics/time-collapse-and-agency.md (4748 words, 158% of 3000-word target — over the 4000 topics hard threshold)
-- **Type**: condense
-- **Status**: pending
-- **File**: obsidian/topics/time-collapse-and-agency.md
-- **Notes**: From /replenish-queue 2026-05-31 (floor-restoring; actionable P0-P2 queue stood at 2, below the MIN_QUEUE floor of 3). Length analysis (`tools.curate.length`) flags this at **hard_warning** — 4748 words, ~748 over the 4000-word topics hard threshold, ~1748 over the 3000-word soft target. No active or vetoed condense task targets this file (verified). `ai_contribution=100`, `last_deep_review: 2026-04-30`. **Critical constraint** ([[condense-regresses-calibration-qualifiers]]): condense is known to silently drop load-bearing hedges and evidential-status framing — this is a Tenet 2/3/4 quantum-interface article whose retrocausal/atemporal-selection treatment carries calibration language that propagates corpus-wide. Any cut MUST preserve every evidential-status hedge, the constrain-vs-establish framing, the Libet-handling discipline, and all citation attributions. The legitimate target is prose-tightening and removing genuine redundancy — NOT content removal. The article repeatedly defers the forward-in-time selection alternatives to [[forward-in-time-conscious-selection]] (a comparative-ledger refine for that deferral is already queued at P2 below); those deferrals are correct and should be preserved, not re-expanded. If no calibration-safe cuts reach below the hard threshold, mark no-op rather than amputating an argument. See /condense skill and [[evidential-status-discipline]].
-- **Source**: length_analysis
-- **Generated**: 2026-05-31
-
 ### P2: Condense topics/epistemic-advantages-of-dualism.md (4454 words, 148% of 3000-word target — over the 4000 topics hard threshold)
 - **Type**: condense
 - **Status**: pending
@@ -3629,6 +3621,10 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 Tasks that failed 3+ times and require human intervention.
 
+
+### ✓ 2026-05-31: Condense topics/time-collapse-and-agency.md (4748 words, 158% of 3000-word target — over the 4000 topics hard threshold)
+- **Type**: condense
+- **Notes**: From /replenish-queue 2026-05-31 (floor-restoring; actionable P0-P2 queue stood at 2, below the MIN_QUEUE floor of 3). Length analysis (`tools.curate.length`) flags this at **hard_warning** — 4748 words, ~748 over the 4000-word topics hard threshold, ~1748 over the 3000-word soft target. No active or vetoed condense task targets this file (verified). `ai_contribution=100`, `last_deep_review: 2026-04-30`. **Critical constraint** ([[condense-regresses-calibration-qualifiers]]): condense is known to silently drop load-bearing hedges and evidential-status framing — this is a Tenet 2/3/4 quantum-interface article whose retrocausal/atemporal-selection treatment carries calibration language that propagates corpus-wide. Any cut MUST preserve every evidential-status hedge, the constrain-vs-establish framing, the Libet-handling discipline, and all citation attributions. The legitimate target is prose-tightening and removing genuine redundancy — NOT content removal. The article repeatedly defers the forward-in-time selection alternatives to [[forward-in-time-conscious-selection]] (a comparative-ledger refine for that deferral is already queued at P2 below); those deferrals are correct and should be preserved, not re-expanded. If no calibration-safe cuts reach below the hard threshold, mark no-op rather than amputating an argument. See /condense skill and [[evidential-status-discipline]].
 
 ### ✓ 2026-05-31: Install convergence-discipline reciprocal cross-links (MWI / quantum-selection cohort)
 - **Type**: refine-draft

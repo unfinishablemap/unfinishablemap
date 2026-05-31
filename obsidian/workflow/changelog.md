@@ -5,6 +5,15 @@ ai_modified: 2026-05-31T12:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-05-31T15:30:00+00:00 - condense
+- **Status**: Partial — calibration-safe tightening applied; article remains over hard threshold
+- **File**: [[topics/time-collapse-and-agency]]
+- **Before**: 4748 words
+- **After**: 4607 words
+- **Reduction**: 3% (141 words)
+- **Technique**: Cut only LLM-known background and genuine redundancy — compressed the presentism/eternalism/growing-block definitions to a one-line summary + link to [[philosophy-of-time]] (Map-specific "against each" analysis kept intact); compressed the extensionalist/retentionalist definitions (the Map's modified-extensionalism position kept verbatim); removed a doubled "un-collapse" restatement and a doubled atemporality analogy; merged two Whitehead sub-points; de-duplicated the Babcock/Khan caveat in falsifier (5) by back-referencing falsifier (1) (both citations still named in full under (1) and in References).
+- **No-op on the protected core**: This is a Tenet 2/3/4 quantum-interface article refined twice earlier today, and that load-bearing content is what put it over threshold. Verified surviving verbatim/in-force: the altered-state symmetry paragraph ("one pattern, not several independent confirmations" + disruptive-cluster + altered-states/anaesthesia cross-links); the epistemic-vs-metaphysical split of the constitutive-priority move ("theoretical addition, not a phenomenological entailment"; "preferred on abductive grounds"); Tegmark's 10⁻¹³–10⁻²⁰ s range and the "currently looks unfavourable at the neural scale" downgrade; the web-verified Babcock 2024 and Khan 2024 microtubule citations; the reframed MWI falsifier ("parsimony of the bare formalism"); the constitute-vs-register hedge; all forward-in-time-conscious-selection deferrals. Reaching the 4000 hard threshold would require cutting a further ~607 words, for which NO calibration-safe pool remains — every standing section is either protected calibration language, a distinct non-redundant argument (three illusionist responses, five falsifiers, five tenet connections), or structurally required (Relation to Site Perspective). Per the condense-regresses-calibration-qualifiers discipline, the article is correctly left long rather than amputated to hit a word count (cf. the born-rule and mutation-void condenses this session).
+
 ## 2026-05-31T16:27:14+00:00 - deep-review
 - **Status**: Success
 - **File**: [[concepts/quiddity-epiphenomenalism-and-the-contingency-thesis]]
