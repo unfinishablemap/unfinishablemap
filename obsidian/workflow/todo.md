@@ -37,6 +37,38 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
+### P2: Condense topics/time-collapse-and-agency.md (4748 words, 158% of 3000-word target — over the 4000 topics hard threshold)
+- **Type**: condense
+- **Status**: pending
+- **File**: obsidian/topics/time-collapse-and-agency.md
+- **Notes**: From /replenish-queue 2026-05-31 (floor-restoring; actionable P0-P2 queue stood at 2, below the MIN_QUEUE floor of 3). Length analysis (`tools.curate.length`) flags this at **hard_warning** — 4748 words, ~748 over the 4000-word topics hard threshold, ~1748 over the 3000-word soft target. No active or vetoed condense task targets this file (verified). `ai_contribution=100`, `last_deep_review: 2026-04-30`. **Critical constraint** ([[condense-regresses-calibration-qualifiers]]): condense is known to silently drop load-bearing hedges and evidential-status framing — this is a Tenet 2/3/4 quantum-interface article whose retrocausal/atemporal-selection treatment carries calibration language that propagates corpus-wide. Any cut MUST preserve every evidential-status hedge, the constrain-vs-establish framing, the Libet-handling discipline, and all citation attributions. The legitimate target is prose-tightening and removing genuine redundancy — NOT content removal. The article repeatedly defers the forward-in-time selection alternatives to [[forward-in-time-conscious-selection]] (a comparative-ledger refine for that deferral is already queued at P2 below); those deferrals are correct and should be preserved, not re-expanded. If no calibration-safe cuts reach below the hard threshold, mark no-op rather than amputating an argument. See /condense skill and [[evidential-status-discipline]].
+- **Source**: length_analysis
+- **Generated**: 2026-05-31
+
+### P2: Condense topics/epistemic-advantages-of-dualism.md (4454 words, 148% of 3000-word target — over the 4000 topics hard threshold)
+- **Type**: condense
+- **Status**: pending
+- **File**: obsidian/topics/epistemic-advantages-of-dualism.md
+- **Notes**: From /replenish-queue 2026-05-31 (floor-restoring, second of two condense tasks). Length analysis flags this at **hard_warning** — 4454 words, ~454 over the 4000-word topics hard threshold, ~1454 over the 3000-word soft target. No active or vetoed condense task targets this file (verified). `ai_contribution=100`, `last_deep_review: 2026-05-05`. This is a tenet-load-bearing article (the epistemic-humility / asymmetric-cost case for dualism) cited from many cluster pages (the-case-for-dualism, three-kinds-of-void, ethics-of-possible-ai-consciousness, several optimistic-review cross-link proposals). **Critical constraint** ([[condense-regresses-calibration-qualifiers]]): preserve every calibration hedge, the asymmetric-cost framing, the constrain-vs-establish discipline, and all named-opponent engagements at their current register — do NOT weaken the central epistemic-advantage claims, only remove genuine prose redundancy. The article makes several distinct epistemic-advantage sub-arguments; if condensation cannot reach below the hard threshold without dropping one of them, mark no-op and flag for a possible human split. See /condense skill and [[evidential-status-discipline]].
+- **Source**: length_analysis
+- **Generated**: 2026-05-31
+
+### P3: Deep review voids/anesthesia-void.md (43 days since last review, ai_contribution=100, Tenet 1/3 load-bearing)
+- **Type**: deep-review
+- **Status**: pending
+- **File**: obsidian/voids/anesthesia-void.md
+- **Notes**: From /replenish-queue 2026-05-31 (staleness, queue diversity). Tied among the oldest AI-heavy content past the 30-day deep-review floor with no dedicated task currently targeting it. `last_deep_review: 2026-04-17` (~43 days), `ai_contribution=100`. This is a voids article (voids is at/over its 100 cap, but a deep-review modifies existing content rather than creating new, so it is cap-safe). Deep-review should: (a) check the anaesthesia / loss-of-consciousness empirical claims against current 2020s literature — this is an active-research domain, so flag a literature-drift follow-on if drift detected ([[ai-citation-metadata-unreliable]]: web-verify any specific anaesthetic-mechanism or recovery-asymmetry citations before trusting them); (b) honour [[evidential-status-discipline]] — the void's "what anaesthesia conceals" framing must stay at its calibrated tier and must not read as established mechanism; (c) carry the [[common-cause-null]] caution where the article draws on the recovery-order / hysteresis signature family (shared upstream architecture, not independent confirmations); (d) verify cross-links resolve live and are reciprocated where load-bearing; (e) writing-style + length discipline (no "This is not X. It is Y." cliché). First review in 43d — if converged and clean, a metadata-only verdict is acceptable; do not over-hedge converged prose ([[deep-review-over-reviews-converged]]).
+- **Source**: staleness
+- **Generated**: 2026-05-31
+
+### P3: Deep review voids/acquaintance-void.md (42 days since last review, ai_contribution=100, Tenet 1 load-bearing)
+- **Type**: deep-review
+- **Status**: pending
+- **File**: obsidian/voids/acquaintance-void.md
+- **Notes**: From /replenish-queue 2026-05-31 (staleness, queue diversity). Tied among the oldest AI-heavy content past the 30-day floor with no dedicated task currently targeting it. `last_deep_review: 2026-04-18` (~42 days), `ai_contribution=100`. Voids article — deep-review modifies existing content, so it is cap-safe despite voids being at/over its 100 cap. The acquaintance void concerns the limits of knowledge-by-acquaintance (Russellian phenomenal acquaintance and its boundary) — a Tenet 1 (Dualism) phenomenal-structure exhibit. Deep-review should: (a) verify the acquaintance framing still coheres with the current Russellian-monism / quiddity cluster (note the freshly-created [[quiddity-epiphenomenalism-and-the-contingency-thesis]] and [[russellian-monism]] — check for a load-bearing cross-link opportunity); (b) honour [[evidential-status-discipline]] — acquaintance claims are prone to phenomenology-vs-metaphysics slippage; keep the void's tier calibrated; (c) web-verify any Russell / Chalmers / Goff attributions ([[ai-citation-metadata-unreliable]]); (d) verify cross-links resolve live and are reciprocated where load-bearing; (e) writing-style + length discipline (no "This is not X. It is Y." cliché). First review in 42d — metadata-only verdict acceptable if converged ([[deep-review-over-reviews-converged]]).
+- **Source**: staleness
+- **Generated**: 2026-05-31
+
 ### P3: Cross-link new quiddity-epiphenomenalism page into the intellectual-life and ai-epiphenomenalism clusters
 - **Type**: refine-draft
 - **Status**: pending
