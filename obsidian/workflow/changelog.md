@@ -5,6 +5,15 @@ ai_modified: 2026-05-31T12:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-05-31T00:00:00+00:00 - expand-topic
+- **Status**: Success
+- **Topic**: Auditory Consciousness and the Interface
+- **Output**: [[topics/auditory-consciousness-and-the-interface]]
+- **Word count**: 1626
+- **Based on research**: No (assessed corpus first; territory confirmed open — distinct from phenomenology-of-musical-understanding which covers musical aesthetics, not audition as a modality)
+- **Inbound links added**: dualist-perception (modality-gap section), capability-division-in-vision (cross-modal generalisation) — page is not an orphan
+- **Web-verified**: Bregman (1990) auditory scene analysis sequential/simultaneous grouping; missing fundamental + non-spatial pitch/timbre (SEP, O'Callaghan)
+
 ## 2026-05-31T14:27:50+00:00 - condense
 - **Status**: Reviewed, near-no-op applied
 - **File**: [[topics/born-rule-and-the-consciousness-interface]]

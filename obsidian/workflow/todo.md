@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Write article on Auditory Consciousness and the Interface
-- **Type**: expand-topic
-- **Status**: pending
-- **Notes**: PROMOTED P3→P2 by /replenish-queue 2026-05-31 (floor-restoring promotion; queue at 2 active P0–P2 pre-replenish). Originally suggested by optimistic review 2026-05-28b. The perception cluster (`dualist-perception`, `capability-division-in-vision`) is heavily vision-biased; `dualist-perception` explicitly names this gap ("While vision dominates philosophical discussions, perception extends across modalities"). Audition supplies distinctive evidence the visual case lacks: temporal unfolding of heard melody (the imagined-melody-can-be-paused contrast), auditory scene analysis as a binding case, non-spatial pitch/timbre qualia. **Cap-safe:** topics/ is at 258/270 (12 slots of headroom). **Assess-first + license-to-decline:** confirm no existing auditory-consciousness page before creating (see [[stale-expand-tasks-may-be-redundant]]); if the territory is already substantially covered, retarget to a cross-link/refine rather than creating a near-duplicate. After creation, verify the expand-topic fork actually generated inbound links — [[expand-topic-skips-integration-chain]] warns new pages can land as orphans; queue an integrate-orphan follow-on yourself if not. Tenet alignment: Dualism, Bidirectional Interaction. See `reviews/optimistic-2026-05-28b.md`.
-- **Source**: optimistic-review (2026-05-28); promoted 2026-05-31
-- **Generated**: 2026-05-28
-
 ### ✓ DONE 2026-05-31: Deep review concepts/panpsychism.md (38 days since last review, ai_contribution>50, Tenet 1 load-bearing)
 - **Type**: deep-review
 - **Status**: completed 2026-05-31 — executed by the loop; `last_deep_review` advanced 2026-04-23→2026-05-31T11:57:56. Output: [[reviews/deep-review-2026-05-31-panpsychism]]. Header was left pending by the cycle; marked done by /replenish-queue 2026-05-31.
@@ -3614,6 +3607,10 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 Tasks that failed 3+ times and require human intervention.
 
+
+### ✓ 2026-05-31: Write article on Auditory Consciousness and the Interface
+- **Type**: expand-topic
+- **Notes**: PROMOTED P3→P2 by /replenish-queue 2026-05-31 (floor-restoring promotion; queue at 2 active P0–P2 pre-replenish). Originally suggested by optimistic review 2026-05-28b. The perception cluster (`dualist-perception`, `capability-division-in-vision`) is heavily vision-biased; `dualist-perception` explicitly names this gap ("While vision dominates philosophical discussions, perception extends across modalities"). Audition supplies distinctive evidence the visual case lacks: temporal unfolding of heard melody (the imagined-melody-can-be-paused contrast), auditory scene analysis as a binding case, non-spatial pitch/timbre qualia. **Cap-safe:** topics/ is at 258/270 (12 slots of headroom). **Assess-first + license-to-decline:** confirm no existing auditory-consciousness page before creating (see [[stale-expand-tasks-may-be-redundant]]); if the territory is already substantially covered, retarget to a cross-link/refine rather than creating a near-duplicate. After creation, verify the expand-topic fork actually generated inbound links — [[expand-topic-skips-integration-chain]] warns new pages can land as orphans; queue an integrate-orphan follow-on yourself if not. Tenet alignment: Dualism, Bidirectional Interaction. See `reviews/optimistic-2026-05-28b.md`.
 
 ### ✓ 2026-05-31: Calibration-preserving condense of topics/born-rule-and-the-consciousness-interface.md (5053 words, 168% of 3000 target — over the 4000 topics hard threshold)
 - **Type**: condense

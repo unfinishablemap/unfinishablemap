@@ -4,7 +4,7 @@ description: "Perception is where consciousness meets the world. Dissociations, 
 created: 2026-02-16
 modified: 2026-05-19
 human_modified:
-ai_modified: 2026-05-28T23:22:00+00:00
+ai_modified: 2026-05-31T00:00:00+00:00
 last_deep_review: 2026-05-28T23:22:00+00:00
 draft: false
 topics:
@@ -149,7 +149,7 @@ This is speculative, and the Map does not claim it as established. But it addres
 
 ## Beyond the Visual
 
-While vision dominates philosophical discussions, perception extends across modalities — auditory, tactile, olfactory, gustatory, proprioceptive, vestibular — and these modalities interact. Equally instructive is the contrast between perception and other phenomenal states: a mental image of a tiger is vague where a perceived tiger is precise; an imagined melody can be paused where a heard one unfolds with perceptual authority. Consciousness varies in structure across this continuum, and any adequate theory must accommodate that variation.
+While vision dominates philosophical discussions, perception extends across modalities — auditory, tactile, olfactory, gustatory, proprioceptive, vestibular — and these modalities interact. Equally instructive is the contrast between perception and other phenomenal states: a mental image of a tiger is vague where a perceived tiger is precise; an imagined melody can be paused where a heard one unfolds with perceptual authority. Consciousness varies in structure across this continuum, and any adequate theory must accommodate that variation. [[auditory-consciousness-and-the-interface|Auditory consciousness]] develops the hearing case in detail—temporal unfolding, auditory scene analysis as a binding problem without spatial scaffolding, and the non-spatial character of pitch and timbre qualia.
 
 ## Relation to Site Perspective
 

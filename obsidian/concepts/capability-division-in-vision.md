@@ -4,7 +4,7 @@ description: "Vision divides between brain-side computation and mind-side phenom
 created: 2026-03-17
 modified: 2026-03-17
 human_modified:
-ai_modified: 2026-05-28T23:22:00+00:00
+ai_modified: 2026-05-31T00:00:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -90,6 +90,8 @@ The Map's tenets constrain how the capability division in vision should be under
 The Map interprets the convergent evidence — blindsight limitations, the two-streams dissociation, the perceptual organisation threshold — as sketching the interface's operational profile in the visual domain. Brain-side processing builds a computational representation: features extracted, spatial relations mapped, motor parameters computed. Mind-side contribution transforms this representation into phenomenal experience — visual information that is unified, owned, and flexibly available for reasoning.
 
 One speculative possibility: the mind-side contribution in vision may not be an additional processing step but a different mode of existence for information that the brain has already computed. The same visual information that exists as neural activation patterns in the ventral stream exists as phenomenal experience at the interface. This dual existence — computational and phenomenal — may be what interactionist dualism ultimately describes.
+
+The same division generalises beyond vision. [[auditory-consciousness-and-the-interface|Auditory consciousness]] applies the brain-side/mind-side split to hearing: frequency analysis, onset detection, and harmonic grouping deliver organised candidate streams (the brain-side capabilities of auditory scene analysis), while the experienced unity of hearing one sound is the mind-side contribution. Because auditory grouping cannot rely on spatial co-location, the auditory case shows the division is not an artefact of vision's spatial scaffolding.
 
 ## Further Reading
 
