@@ -5,6 +5,16 @@ ai_modified: 2026-05-31T22:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-05-31T21:59:17+00:00 - deep-review
+- **Status**: Success
+- **File**: [[concepts/control-theoretic-will]]
+- **Word count**: 2383 → 2383 (unchanged; length-neutral, 95% of soft threshold)
+- **Critical issues addressed**: 1 — fabricated citation metadata for the load-bearing ~10 bits/s source. Article cited "Meister, M. (2024). The physical limits of perception. PNAS, 121(14), e2400258121" (wrong author/title/journal/DOI, web-confirmed fabricated); corrected to corpus-canonical, live-verified "Zheng & Meister (2025), Neuron 113(2):192–204". The finding was correct; only metadata was wrong. Survived 4 prior reviews because they cross-checked the corpus, not live literature — this was the last surviving instance of the "Meister 2024 PNAS" fabrication that todo.md flagged as eradicated.
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 (otherwise fully converged at 5th review; no oscillation)
+- **Citation web-verify**: Cisek 2007 (Phil Trans R Soc B 362(1485):1585–1599 ✓), Libet 1985 (BBS 8(4):529–539; -550ms RP / -200ms W figures match ✓), Brass & Haggard 2007 (J Neurosci 27(34):9141–9145; "whether"-model finding matches ✓), Stapp/Schwartz&Begley/Wiener stable. No finding-mischaracterization; quantum-Zeno properly qualified speculative; evidential status kept as Map framing not established.
+- **Output**: [[reviews/deep-review-2026-05-31-control-theoretic-will]]
+
 ## 2026-05-31T22:30:00+00:00 - deep-review
 - **Status**: Success
 - **File**: [[concepts/idealism]]
