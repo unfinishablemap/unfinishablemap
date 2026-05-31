@@ -5,6 +5,17 @@ ai_modified: 2026-05-31T00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-05-31T11:57:56+00:00 - deep-review
+- **Status**: Success
+- **File**: [[concepts/panpsychism]]
+- **Mode**: Citation-currency pass (10th review; article long-stabilized)
+- **Word count**: 3215 → 3256 (+41; length-neutral, ~1.3%, within the long-justified 125-131% band)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 1 — NY Declaration scope overstatement. Web-verified the 2024 primary source: it affirms "at least a realistic possibility" in *many* invertebrates (cephalopod mollusks, decapod crustaceans, insects), NOT all invertebrates, and does NOT cover the minimal organisms (nematodes/Hydra/slime molds) the surrounding passage discusses. Old phrasing implied the Declaration backed realistic-possibility consciousness in those minimal organisms — a source-conclusion + possibility/probability calibration error. Rewrote to name the actual groups, flag the non-extension to minimal organisms, and note it speaks to a higher rung than electron micro-experience.
+- **Citation metadata verified (no defects)**: Strawson 2006 (JCS 13(10-11), 3-31), Chalmers 2015 (OUP reprint, corpus-majority form — not conflated with the separate 2013 Amherst original or 2017 Combination-Problem paper), Whitehead 1929, Goff 2019 (Pantheon), C. elegans 302 neurons. Cross-corpus divergence grep clean. No archival link-rot in sampled load-bearing wikilinks.
+- **Reasoning-mode note**: no named-opponent engagements modified; bedrock disagreements (Dennett/Frankish deflationism, decoherence objection, parsimony cost) left as honest Mode-Three boundary-marking per prior reviews.
+- **Output**: [[reviews/deep-review-2026-05-31-panpsychism]]
+
 ## 2026-05-31T11:49:43+00:00 - refine-draft
 - **Status**: Success
 - **File**: [[topics/contemplative-practice-as-philosophical-evidence]]
