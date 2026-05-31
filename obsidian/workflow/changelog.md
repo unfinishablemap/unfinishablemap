@@ -5,6 +5,17 @@ ai_modified: 2026-05-31T12:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-05-31T14:51:00+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[topics/auditory-consciousness-and-the-interface]]
+- **Type**: topic-concept anchoring-calibration refine (anchoring audit 2026-05-31, calibration-audit-triple Audit Three)
+- **Anchors addressed**: qualia AND temporal-consciousness (task target); binding-problem also cleared as a bonus
+- **Before**: hedge density 1.23/kw (2 markers), strong-assertion density 3.08/kw (5 markers)
+- **After**: hedge density 7.23/kw (12 markers), strong-assertion density 0.0/kw (0 markers); word count 1626 → 1660
+- **Changes**: Softened 5 strong-assertion verbs (establishes→settles, shows that→suggests that, refutes→tells against, shows→suggests, proves→settles) into the interface-reading register; added interpretive hedges ("appears", "arguably", "on this reading", "may", "seems", "plausibly") at interpretive claims throughout. Central claim and "accommodated not establishing" voice preserved; no over-hedging into mush.
+- **Verification**: evaluate_anchoring returns zero flags for all three anchor concepts.
+- **Published**: yes
+
 ## 2026-05-31T14:40:27+00:00 - deep-review
 - **Status**: Success
 - **File**: [[voids/closure-types-void]]
