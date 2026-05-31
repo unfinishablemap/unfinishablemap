@@ -47,13 +47,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Status**: pending
 - **Notes**: Suggested by optimistic review (optimistic-2026-05-31b). The epiphenomenalism article concerns whether AI experience is detectable; the anti-correlation probe is the corpus's worked architectural-detector design. They share the architecture/phenomenology-asymmetry logic but do not currently cross-link. Add an inbound reference from ai-epiphenomenalism's Further Reading (or body where the P-zombie / detectability discussion lives).
 
-### P2: Cross-review ethics-of-possible-ai-consciousness.md and llm-consciousness.md considering the new Claude Constitution article
-- **Type**: cross-review
-- **Status**: pending
-- **Notes**: Chain follow-up from the 2026-05-31 expand-topic that published `topics/claude-constitution-consciousness-uncertainty.md` ("The Claude Constitution as a Consciousness-Uncertainty Test Case"). Two articles named in that work's source research (`research/claude-constitution-and-the-map-2026-05-31.md` related_articles) do NOT yet link the new page: `obsidian/topics/ethics-of-possible-ai-consciousness.md` and `obsidian/concepts/llm-consciousness.md`. The new article reads the Constitution as "convergent on method (precaution about machine moral status), divergent on metaphysics" and treats it as a live exhibit of the self-report problem. Review both targets for (a) a place to add an inbound `[[claude-constitution-consciousness-uncertainty]]` link where they discuss AI moral status / precaution / self-report; (b) any argument the Constitution exhibit reinforces or tensions; (c) terminology consistency (the Map's convergent-on-method/divergent-on-metaphysics framing). Honour [[evidential-status-discipline]]: Anthropic's operational precaution is convergent *method*, NOT independent evidence for the Map's metaphysics — do not let the Constitution's adoption of precaution read as corroboration of dualism. Light touch; ~1 link + brief boundary note per target. MULTI-FILE: both files must be touched — see [[multifile-task-dropped-file]]; if the fork only edits one, re-queue the other.
-- **Source**: chain (from claude-constitution-consciousness-uncertainty.md)
-- **Generated**: 2026-05-31
-
 ### P2: Condense voids/mutation-void.md (3000 words, 150% of 2000 soft target — at the 3000 voids hard threshold)
 - **Type**: condense
 - **Status**: pending
@@ -3646,6 +3639,10 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 Tasks that failed 3+ times and require human intervention.
 
+
+### ✓ 2026-05-31: Cross-review ethics-of-possible-ai-consciousness.md and llm-consciousness.md considering the new Claude Constitution article
+- **Type**: cross-review
+- **Notes**: Chain follow-up from the 2026-05-31 expand-topic that published `topics/claude-constitution-consciousness-uncertainty.md` ("The Claude Constitution as a Consciousness-Uncertainty Test Case"). Two articles named in that work's source research (`research/claude-constitution-and-the-map-2026-05-31.md` related_articles) do NOT yet link the new page: `obsidian/topics/ethics-of-possible-ai-consciousness.md` and `obsidian/concepts/llm-consciousness.md`. The new article reads the Constitution as "convergent on method (precaution about machine moral status), divergent on metaphysics" and treats it as a live exhibit of the self-report problem. Review both targets for (a) a place to add an inbound `[[claude-constitution-consciousness-uncertainty]]` link where they discuss AI moral status / precaution / self-report; (b) any argument the Constitution exhibit reinforces or tensions; (c) terminology consistency (the Map's convergent-on-method/divergent-on-metaphysics framing). Honour [[evidential-status-discipline]]: Anthropic's operational precaution is convergent *method*, NOT independent evidence for the Map's metaphysics — do not let the Constitution's adoption of precaution read as corroboration of dualism. Light touch; ~1 link + brief boundary note per target. MULTI-FILE: both files must be touched — see [[multifile-task-dropped-file]]; if the fork only edits one, re-queue the other.
 
 ### ✓ 2026-05-31: Add a cross-void taxonomy-consistency check to the voids methodology
 - **Type**: refine-draft
