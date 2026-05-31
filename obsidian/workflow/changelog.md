@@ -5,6 +5,16 @@ ai_modified: 2026-05-31T00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-05-31T09:12:25+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[concepts/russellian-monism]]
+- **Original score**: mature/converged (no quality-review tool present; analysis inherited from [[reviews/pessimistic-2026-05-31-russellian-monism]] Issue 3)
+- **Changes**: Closed Issue 3 — divergent Chalmers panprotopsychism citation metadata — after web-verify (per [[ai-citation-metadata-unreliable]]). **Verification outcome**: the "same paper, multiple venues" sub-type, NOT a fabrication. Chalmers' "Panpsychism and Panprotopsychism" was ORIGINALLY published as *The Amherst Lecture in Philosophy* vol. 8 (2013), pp. 1-35, then REPRINTED in Alter & Nagasawa (Eds.) *Consciousness in the Physical World: Perspectives on Russellian Monism* (OUP, 2015). Confirmed via amherstlecture.org/chalmers2013 and consc.net/all-papers-by-date (Chalmers' own bibliography lists the 2013 original + both reprints). The article's reference 2 cited the genuine ORIGINAL (2013 Amherst), and the in-body claim at line 58 (panprotopsychism distinction + "revenge" protophenomenal-zombies argument) is content from THIS paper — so the article was already internally accurate; it simply cited the original where five siblings cite the 2015 OUP reprint. Reconciled by keeping the verified original and appending a "Reprinted in T. Alter & Y. Nagasawa (Eds.) ... (2015), Oxford University Press" note + adding page range (1-35) and the journal's full title ("*The* Amherst Lecture"). This surfaces the shared source identity so the corpus-majority 2015 form is recognisably the same paper. No DOI/page fabrication.
+- **Distinct-paper note**: The task notes conflated this paper with Chalmers' SEPARATE "The Combination Problem for Panpsychism" (Brüntrup & Jaskolla eds., *Panpsychism*, OUP) — a different paper not cited in russellian-monism.md's reference 2, so out of scope here. Corpus aside: that second paper's year is inconsistently cited as 2016 vs 2017 across siblings/research notes; the correct year is **2017** (verified via consc.net). russellian-monism.md does not cite it, so no edit here; flagged for a possible separate corpus-wide 2016→2017 reconciliation.
+- **Web-verify**: WebSearch + WebFetch (amherstlecture.org, consc.net/all-papers-by-date). PhilPapers (CHAPAP-17) returned 403; the Amherst official site + Chalmers' own date-ordered bibliography were sufficient and authoritative.
+- **Changes**: length-neutral metadata hygiene, no content change.
+- **Published**: yes
+
 ## 2026-05-31T09:08:10+00:00 - refine-draft
 - **Status**: Success
 - **File**: [[concepts/russellian-monism]]

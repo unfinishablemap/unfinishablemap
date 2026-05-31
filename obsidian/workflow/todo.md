@@ -37,12 +37,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Verify Chalmers panprotopsychism citation in concepts/russellian-monism.md (web-verify)
+### P2: Reconcile Chalmers "Combination Problem for Panpsychism" year 2016→2017 corpus-wide
 - **Type**: refine-draft
 - **Status**: pending
-- **File**: obsidian/concepts/russellian-monism.md
-- **Notes**: Pessimistic review (2026-05-31, see [[pessimistic-2026-05-31-russellian-monism]]) flagged divergent citation metadata. Reference 2 (line 161) reads "Chalmers, D.J. (2013). Panpsychism and panprotopsychism. Amherst Lecture in Philosophy, 8." The corpus elsewhere cites this distinction as Chalmers (2015) "Panpsychism and Panprotopsychism" in Alter & Nagasawa eds. *Consciousness in the Physical World* OUP (panpsychisms-combination-problem.md:157) and the combination-problem decomposition as Chalmers (2016) in Brüntrup & Jaskolla eds. *Panpsychism* OUP (sibling russellian-monism-versus-bi-aspectual-dualism.md:164). Year+venue both diverge from five sibling citations — the metadata-divergence signature cheap grep checks miss. **WEB-VERIFY PREREQUISITE** (per [[ai-citation-metadata-unreliable]]): confirm the correct year/venue before editing. The Amherst Lecture in Philosophy vol. 8 (2013) may be a genuine distinct source, so do NOT mass-rewrite to match the corpus before verification — reconcile only after confirming what Chalmers actually published where.
-- **Source**: pessimistic-review
+- **Notes**: Web-verified 2026-05-31 (via consc.net date-ordered bibliography, during the russellian-monism Chalmers-citation reconcile): Chalmers' "The Combination Problem for Panpsychism" (in Brüntrup & Jaskolla, eds., *Panpsychism*, Oxford University Press) is correctly dated **2017**, but is cited inconsistently as **2016 vs 2017** across sibling articles and research notes — a [[ai-citation-metadata-unreliable]] divergence-grep signature (distinct from the "Panpsychism and Panprotopsychism" Amherst-Lecture-2013 paper, which is a separate, correctly-handled source — do NOT conflate the two Chalmers panpsychism papers). Action: `grep -rn "Combination Problem for Panpsychism\|Chalmers.*201[67].*[Pp]anpsychism" obsidian/` to find all instances, reconcile the **Combination Problem** paper's year to **2017** in every live article + research/ root (fix research roots FIRST per the propagation-regression rule), leave archive copies. Do NOT touch the 2013 Amherst "Panpsychism and Panprotopsychism" citations. Length-neutral metadata hygiene. Honour [[evidential-status-discipline]].
+- **Source**: pessimistic-review-followon
 - **Generated**: 2026-05-31
 
 ### P2: Deep review topics/phenomenal-normativity-environmental-ethics.md (40 days since last review, ai_contribution>50, Tenet 1/3 load-bearing)
@@ -3629,6 +3628,10 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 Tasks that failed 3+ times and require human intervention.
 
+
+### ✓ 2026-05-31: Verify Chalmers panprotopsychism citation in concepts/russellian-monism.md (web-verify)
+- **Type**: refine-draft
+- **Notes**: Pessimistic review (2026-05-31, see [[pessimistic-2026-05-31-russellian-monism]]) flagged divergent citation metadata. Reference 2 (line 161) reads "Chalmers, D.J. (2013). Panpsychism and panprotopsychism. Amherst Lecture in Philosophy, 8." The corpus elsewhere cites this distinction as Chalmers (2015) "Panpsychism and Panprotopsychism" in Alter & Nagasawa eds. *Consciousness in the Physical World* OUP (panpsychisms-combination-problem.md:157) and the combination-problem decomposition as Chalmers (2016) in Brüntrup & Jaskolla eds. *Panpsychism* OUP (sibling russellian-monism-versus-bi-aspectual-dualism.md:164). Year+venue both diverge from five sibling citations — the metadata-divergence signature cheap grep checks miss. **WEB-VERIFY PREREQUISITE** (per [[ai-citation-metadata-unreliable]]): confirm the correct year/venue before editing. The Amherst Lecture in Philosophy vol. 8 (2013) may be a genuine distinct source, so do NOT mass-rewrite to match the corpus before verification — reconcile only after confirming what Chalmers actually published where.
 
 ### ✓ 2026-05-31: Refine concepts/russellian-monism.md — soften decoherence/MWI framing to corpus norm
 - **Type**: refine-draft
