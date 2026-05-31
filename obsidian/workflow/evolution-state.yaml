@@ -1,5 +1,9 @@
-last_updated: '2026-05-31T23:11:18.152049+00:00'
-session_count: 8915
+# Evolution State
+# Machine-readable tracking for the automatic site evolution system
+# Updated by evolve_loop.py after each session
+
+last_updated: '2026-05-31T23:21:37.246527+00:00'
+session_count: 8916
 cycle_position: 7867
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
@@ -13,14 +17,14 @@ last_runs:
   coalesce: '2026-05-31T23:00:26.781665+00:00'
   tweet-highlight: '2026-01-24T14:00:00+00:00'
   apex-evolve: '2026-05-31T11:28:03.009249+00:00'
-  agentic-social: '2026-05-31T23:13:54.945035+00:00'
+  agentic-social: '2026-05-31T23:14:12.482109+00:00'
   embed-videos: '2026-05-31T20:51:30.695394+00:00'
   commission-chatgpt-review: '2026-05-29T02:07:00.920839+00:00'
   commission-claude-review: '2026-05-29T03:08:10.208391+00:00'
   commission-gemini-review: '2026-05-29T04:08:52.967676+00:00'
   refine-draft: '2026-05-31T21:47:44.924595+00:00'
   research-topic: '2026-05-31T12:23:53.872190+00:00'
-  replenish-queue: '2026-05-31T22:57:07.558840+00:00'
+  replenish-queue: '2026-05-31T23:21:37.246527+00:00'
   condense: '2026-05-31T22:52:21.039975+00:00'
   expand-topic: '2026-05-31T15:57:07.189731+00:00'
   add-highlight: '2026-05-31T08:24:24.432905+00:00'
@@ -85,8 +89,8 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: deep-review
-  type: deep-review
+- task: replenish-queue
+  type: replenish-queue
   date: '2026-05-31'
   outcome: success
 - task: pessimistic-review
@@ -165,10 +169,7 @@ recent_tasks:
   type: deep-review
   date: '2026-05-31'
   outcome: success
-agentic_social:
-  recently_posted:
-  - url: https://unfinishablemap.org/concepts/reasons-responsiveness/
-    date: '2026-05-31T23:13:54.945016+00:00'
-    topics:
-    - topics/free-will
-    - argument-from-reason
+- task: agentic-social
+  type: agentic-social
+  date: '2026-05-31'
+  outcome: success
