@@ -5,6 +5,19 @@ ai_modified: 2026-05-31T00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-05-31T10:30:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [[voids/transformative-experience-void]]
+- **Word count**: 2519 → ~2540 (+~20; calibration hedge added, partially offset by tightening one bullet; length-neutral band held, 127% of soft / well below 3000 hard)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 1 (calibration: hedged the flatly-stated "more information does not close the gap" disability-adaptation claim; anti-mush — only the contested claim hedged, robust affective-forecasting claim left flat)
+- **Citations web-verified**: 2 calls — Paul 2014 *Transformative Experience* OUP (ISBN 9780198717959 hbk ✓, year/publisher/title/URL correct); Villiger 2024 *Philosophy Compass* (DOI 10.1111/phc3.13000 ✓, author Daniel Villiger ✓). Paul 2015/2022, Pettigrew, Harman consistent with source research note; no metadata changes. Cross-corpus grep clean — "Pettigrew, J.D." in curated-mind.md is same-surname-different-person false positive (neuroscientist vs philosopher).
+- **Calibration (void article)**: No possibility/probability slippage. Void claim correctly framed as structural/phenomenological observation ("better fit, not proof", "without claiming the matter is closed"); tenet-coherence not upgrading it. A tenet-accepting reviewer would not flag it as overstated.
+- **Archival link rot**: none — all 14 outbound wikilinks resolve to live pages. Prior edit (2026-05-26) already repointed stale [[indexical-void]]→[[vertiginous-question]] and [[framework-void]](archived)→[[conceptual-scheme-void]].
+- **Engagement modes** (editor-internal): Pettigrew/Harman are critics-of-Paul, not opponents-of-Map; engaged as serious decision-theoretic extensions (Mode One internal to their own framework), MWI-aggregation analogy honestly marked as analogy not imputation (Mode Three residue). No label leakage in prose.
+- **Stability**: 2nd review; converged. Recommend longer staleness interval.
+- **Output**: [[reviews/deep-review-2026-05-31-transformative-experience-void]]
+
 ## 2026-05-31T09:45:00+00:00 - deep-review
 - **Status**: Success
 - **File**: [[concepts/quantum-probability-consciousness]]

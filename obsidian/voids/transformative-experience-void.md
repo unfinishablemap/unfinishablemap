@@ -4,8 +4,8 @@ description: "Human+AI exploration of the cognitive void opened by choices whose
 created: 2026-04-17
 modified: 2026-04-18
 human_modified:
-ai_modified: 2026-05-26T01:11:03+00:00
-last_deep_review: 2026-04-18T03:19:00+00:00
+ai_modified: 2026-05-31T00:00:00+00:00
+last_deep_review: 2026-05-31T00:00:00+00:00
 draft: false
 topics: []
 concepts:
@@ -61,7 +61,7 @@ Both critiques accept the underlying decision-theoretic framework and try to ext
 Several independent strands converge to support the claim that transformative inaccessibility is structural rather than merely epistemic-contingent:
 
 1. **Testimony inadequacy.** A recurring qualitative theme in first-person accounts of parenthood, combat, religious conversion, and major medical intervention is that the experience was "not what I expected" and "impossible to have conveyed to me beforehand," even when informants were articulate and motivated. This observation is offered illustratively rather than as a claim about specific empirical studies; it states the phenomenon the structural reading must explain, not independent confirmation of it.
-2. **Disability-adaptation literature.** Non-disabled subjects systematically underpredict the welfare of people with acquired disabilities; acquired-disability subjects systematically rate their welfare higher than non-disabled predictors estimate. More information does not close the gap.
+2. **Disability-adaptation literature.** Non-disabled subjects systematically underpredict the welfare of people with acquired disabilities; acquired-disability subjects rate their welfare higher than non-disabled predictors estimate. The persistence of this gap under richer information is the relevant signal — it points toward a structural limit on cross-state prediction rather than a deficit of data, though the strength of that inference remains contested.
 3. **Affective forecasting research** (Gilbert, Wilson, and colleagues). Humans reliably mispredict the intensity and duration of future emotional states. Transformative experiences are the extreme tail of this general prediction failure.
 4. **The Jackson / Mary structure.** *If* phenomenal knowledge is irreducible to propositional knowledge — the conclusion of Jackson's [[knowledge-argument|knowledge argument]], which remains contested rather than settled (physicalists offer ability-hypothesis, acquaintance, and phenomenal-concept replies) — then that irreducibility generalises to any first-time encounter with a novel phenomenal kind. The transformative case does not depend on the knowledge argument being sound; it observes that the *same structure* recurs in ordinary choices, which is independent evidence for the gap whatever one concludes about Mary.
 
@@ -81,7 +81,7 @@ The void does not mean transformative decisions cannot be made; humans make them
 
 **Preview states** (babysitting before parenthood, short trips before emigration, meditative retreats before conversion) help with some features but systematically fail to deliver the transformative core: the preview is deliberately *not* the experience.
 
-**Apophatic decision procedures** track the shape of the failure itself. The agent maps which features of the choice are accessible (structural, propositional, testimonial) and which are not (phenomenal, identity-altering), and deliberates only over the accessible axes while explicitly acknowledging the inaccessible ones.
+**Apophatic decision procedures** track the shape of the failure itself: the agent maps which features of the choice are accessible (structural, propositional, testimonial) and which are not (phenomenal, identity-altering), deliberating only over the accessible axes while acknowledging the rest.
 
 **Revelatory framing** (Paul's positive proposal) substitutes a tractable question ("do I wish to discover this?") for an intractable one ("will I prefer the outcome?"). The substitution is honest rather than evasive.
 

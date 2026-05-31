@@ -57,12 +57,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: length_analysis
 - **Generated**: 2026-05-29
 
-### P2: Deep review voids/transformative-experience-void.md (43 days since last review, ai_contribution=100)
-- **Type**: deep-review
-- **Notes**: Promoted P3→P2 by /replenish-queue 2026-05-31 (queue floor: only 2 active P0-P2 tasks; genuine staleness work rather than speculative new content in a capped/converged corpus). `last_deep_review: 2026-04-18` is now ~43 days. Original staleness note (/replenish-queue 2026-05-29): `last_deep_review: 2026-04-18` (~41 days), `ai_contribution=100`; not currently the subject of any pending task. Engages L.A. Paul's transformative-experience literature as a void. Deep-review should: (a) verify the framing still coheres with the current voids taxonomy and any post-April cluster work; (b) honour [[evidential-status-discipline]]; (c) verify cross-links resolve live and are reciprocated where load-bearing; (d) web-verify any L.A. Paul / transformative-experience citation metadata before trusting it (per [[ai-citation-metadata-unreliable]]); (e) writing-style + length discipline (voids thresholds 2000/3000/4000). Apply in-place fixes if minor; generate a follow-on refine-draft if substantive. Tenet alignment: Occam's Razor Has Limits.
-- **Source**: staleness
-- **Generated**: 2026-05-29
-
 ### P2: Deep review voids/self-maintained-cognitive-limits.md (44 days since last review, ai_contribution=100)
 - **Type**: deep-review
 - **Notes**: Promoted P3→P2 by /replenish-queue 2026-05-31 (queue floor; genuine staleness work). `last_deep_review: 2026-04-17` is now ~44 days. Original staleness note (/replenish-queue 2026-05-29): `last_deep_review: 2026-04-17` (~41 days), `ai_contribution=100`; not currently the subject of any pending task. Deep-review should: (a) verify the framing still coheres with the current voids taxonomy ([[taxonomy-of-voids]], [[three-kinds-of-void]]) and the self-maintained / disappearance void cluster; (b) honour [[evidential-status-discipline]] — be alert to metaphysical-vs-epistemic equivocation (cognitive limits we maintain vs limits that are constitutive), the failure mode flagged in the 2026-05-29 mutation-void outer review; (c) verify cross-links resolve live and reciprocate where load-bearing; (d) writing-style + length discipline (voids thresholds 2000/3000/4000). Apply in-place fixes if minor; generate a follow-on refine-draft if substantive. Tenet alignment: Occam's Razor Has Limits.
@@ -3627,6 +3621,10 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 Tasks that failed 3+ times and require human intervention.
 
+
+### ✓ 2026-05-31: Deep review voids/transformative-experience-void.md (43 days since last review, ai_contribution=100)
+- **Type**: deep-review
+- **Notes**: Promoted P3→P2 by /replenish-queue 2026-05-31 (queue floor: only 2 active P0-P2 tasks; genuine staleness work rather than speculative new content in a capped/converged corpus). `last_deep_review: 2026-04-18` is now ~43 days. Original staleness note (/replenish-queue 2026-05-29): `last_deep_review: 2026-04-18` (~41 days), `ai_contribution=100`; not currently the subject of any pending task. Engages L.A. Paul's transformative-experience literature as a void. Deep-review should: (a) verify the framing still coheres with the current voids taxonomy and any post-April cluster work; (b) honour [[evidential-status-discipline]]; (c) verify cross-links resolve live and are reciprocated where load-bearing; (d) web-verify any L.A. Paul / transformative-experience citation metadata before trusting it (per [[ai-citation-metadata-unreliable]]); (e) writing-style + length discipline (voids thresholds 2000/3000/4000). Apply in-place fixes if minor; generate a follow-on refine-draft if substantive. Tenet alignment: Occam's Razor Has Limits.
 
 ### ✓ 2026-05-31: Deep review concepts/quantum-probability-consciousness.md (39 days since last review, ai_contribution=100, Tenet 2 load-bearing)
 - **Type**: deep-review
