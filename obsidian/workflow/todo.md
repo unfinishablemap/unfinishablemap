@@ -37,17 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Adopt metacognition calibration in anti-correlation-probes-for-ai-consciousness
-- **Type**: refine-draft
-- **Status**: pending
-- **File**: obsidian/topics/anti-correlation-probes-for-ai-consciousness.md
-- **Notes**: From topic-concept anchoring audit 2026-05-31. The topic article over-claims relative to its anchor concept [[metacognition]]; failed checks: hedge_density, strong_assertions.
-  - hedge density 2.96/kw is below 60% of anchor (8.15/kw)
-  - strong-assertion density 0.74/kw exceeds 1.5× anchor (0.30/kw)
-  - Action: bring the topic's hedge profile in line with the anchor concept's. Preserve the article's voice; this is not a request to weaken the central claim, only to inherit the calibration discipline the anchor concept already uses. See [[project/calibration-audit-triple]] Audit Three for the spec and [[evidential-status-discipline]] for the underlying rule.
-- **Source**: topic-concept-anchoring-audit
-- **Generated**: 2026-05-31
-
 ### P3: Deep review voids/acquaintance-void.md (42 days since last review, ai_contribution=100, Tenet 1 load-bearing)
 - **Type**: deep-review
 - **Status**: pending
@@ -3601,6 +3590,10 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 Tasks that failed 3+ times and require human intervention.
 
+
+### ✓ 2026-05-31: Adopt metacognition calibration in anti-correlation-probes-for-ai-consciousness
+- **Type**: refine-draft
+- **Notes**: From topic-concept anchoring audit 2026-05-31. The topic article over-claims relative to its anchor concept [[metacognition]]; failed checks: hedge_density, strong_assertions.
 
 ### ✓ 2026-05-31: Adopt mental-causation-and-downward-causation calibration in co-optimization-reply-to-the-correlation-problem
 - **Type**: refine-draft

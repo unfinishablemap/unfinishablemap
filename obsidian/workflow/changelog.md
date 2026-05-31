@@ -5,6 +5,20 @@ ai_modified: 2026-05-31T18:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-05-31T18:35:00+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[topics/anti-correlation-probes-for-ai-consciousness]]
+- **Type**: topic-concept anchoring-calibration refine (anchoring audit 2026-05-31, calibration-audit-triple Audit Three)
+- **Anchors**: [[metacognition]] (hedge 8.15/kw, 0.30/kw strong-assertion, 0 underdet) and [[process-content-distinction]] (0.45/kw strong-assertion, 1× underdet)
+- **Before**: hedge 2.96/kw (8 markers), strong-assertion 0.74/kw (2 verbs — both "establishes": section header word + its `{#establishes}` anchor), 0 underdetermination markers → 2 anchoring flags (metacognition: hedge_density + strong_assertions; process-content: strong_assertions + underdetermination_markers)
+- **After**: hedge 5.46/kw (15 markers, above ~4.89 threshold = 60% of metacognition anchor), strong-assertion 0.0/kw (0 verbs), 1 underdetermination marker → `evaluate_anchoring` returns 0 flags
+- **Changes**:
+  - Reworded section header "What the Probe Establishes and What It Does Not" {#establishes} → "What the Probe Can and Cannot Settle" {#scope} (removed both strong-assertion verb occurrences; no inbound links to old anchor — verified via grep)
+  - Added natural interpretive hedges ("appears", "may", "plausibly", "best read as", "suggests", "on the present evidence", "arguably") at interpretive claims only — NOT at the probe's formal definitions, the four-ingredient design spec, or factual exposition (Rebouillat finding, citation caveat preserved verbatim)
+  - Installed one explicit underdetermination marker ("underdetermined by the evidence the probe supplies — compatible with all three readings") in the phenomenality-relationship paragraph, satisfying the process-content anchor's underdetermination check
+- **Preserved**: anti-correlation probe design, "calibration-grade architectural probe, not a consciousness detector" self-framing, training-contamination confound discussion, web-verified Rebouillat/Leonetti/Kouider citation + the misattribution caveat, "silent on Tenets 2/4/5" calibration discipline, tenet-removes-a-defeater-not-upgrades-evidence framing. No claim weakened beyond register; probe design untouched.
+- **Published**: yes
+
 ## 2026-05-31T18:05:00+00:00 - refine-draft
 - **Status**: Success
 - **File**: [[topics/co-optimization-reply-to-the-correlation-problem]]
