@@ -5,6 +5,14 @@ ai_modified: 2026-05-31T00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-05-31T11:27:10+00:00 - apex-evolve
+- **Status**: Complete (maintenance-only — apex_sources slug repair, no prose change)
+- **Mode**: check + source-graph repair
+- **Articles touched**: [[apex/taxonomy-of-voids]], [[apex/phenomenology-of-consciousness-doing-work]]
+- **Fixed**: 6 dangling/stale `apex_sources` slugs (archival-link-rot). taxonomy-of-voids: `evolved-cognitive-limits`→`biological-cognitive-closure`, `phenomenology-of-the-edge`→`edge-states-and-void-probes`, removed `convergence-as-evidence` and `cartography-problem` as post-coalesce duplicates of already-listed `what-voids-reveal`/`apophatic-cartography`. phenomenology-of-consciousness-doing-work: `phenomenology-of-choice`→`phenomenology-of-choice-and-volition`, `introspective-opacity`→`self-opacity`
+- **Word count**: unchanged (frontmatter-only; `apex_last_synthesis` deliberately not advanced)
+- **Result**: apex source-graph now resolves cleanly across all 30 articles (0 dangling)
+
 ## 2026-05-31T13:00:00+00:00 - check-tenets
 - **Status**: Success
 - **Files checked**: 509 (258 topics, 251 concepts)

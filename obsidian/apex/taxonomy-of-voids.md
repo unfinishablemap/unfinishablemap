@@ -3,7 +3,7 @@ title: "A Taxonomy of Voids"
 created: 2026-03-10
 modified: 2026-05-19
 human_modified: null
-ai_modified: 2026-05-27T22:03:08+00:00
+ai_modified: 2026-05-31T11:27:10+00:00
 draft: false
 description: "Sixty+ cognitive voids cluster at the consciousness-matter interface—structured taxonomy supporting the Map's tenet-package as framework-internal coherence under the common-cause-null discount."
 last_deep_review: 2026-05-18T22:36:00+00:00
@@ -77,13 +77,11 @@ apex_sources:
   - voids/voids
   - voids/three-kinds-of-void
   - voids/apophatic-cartography
-  - voids/evolved-cognitive-limits
+  - voids/biological-cognitive-closure
   - voids/what-voids-reveal
   - voids/compound-failure-signatures
-  - voids/phenomenology-of-the-edge
-  - voids/convergence-as-evidence
+  - voids/edge-states-and-void-probes
   - voids/tenet-generated-voids
-  - voids/cartography-problem
   - voids/meta-epistemology-of-limits
 apex_last_synthesis: 2026-04-30T03:11:00+00:00
 apex_thesis: "The 60+ cognitive voids catalogued by the Map form a structured taxonomy that reveals the architecture of consciousness itself, converging on the interface where consciousness meets the physical world—a convergence that offers cumulative abductive support for the Map's tenet-package (not bare dualism), with the selection-effect worry acknowledged explicitly and the common-cause null setting the calibration ceiling: the convergence is largely framework-internal coherence with only partial framework-independent evidence."

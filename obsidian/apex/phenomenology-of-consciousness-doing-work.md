@@ -4,7 +4,7 @@ description: "What does it feel like when consciousness acts on matter? Effort, 
 created: 2026-02-23
 modified: 2026-05-19
 human_modified:
-ai_modified: 2026-05-19T06:40:00+00:00
+ai_modified: 2026-05-31T11:27:10+00:00
 last_deep_review: 2026-05-18T15:30:00+00:00
 draft: false
 topics:
@@ -43,8 +43,8 @@ apex_sources:
   - concepts/mental-imagery
   - topics/cross-cultural-phenomenology-of-agency
   - concepts/mental-effort
-  - concepts/phenomenology-of-choice
-  - voids/introspective-opacity
+  - concepts/phenomenology-of-choice-and-volition
+  - voids/self-opacity
   - concepts/attention-as-interface
 apex_last_synthesis: 2026-05-19T06:40:00+00:00
 apex_thesis: "The felt texture of consciousness in action — effort, selection, holding, and opacity — constitutes a coherent phenomenological profile that cross-cultural evidence confirms and materialist accounts cannot adequately explain."
