@@ -37,15 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Deep review voids/phenomenal-quality-void.md (37 days since last review, ai_contribution=100, Tenet 1 load-bearing, never reviewed after coalesce)
-- **Type**: deep-review
-- **Status**: pending
-- **File**: obsidian/voids/phenomenal-quality-void.md
-- **Relocated**: 2026-05-31 — moved to top of Active Tasks to break recurring LIFO starvation ([[queue-lifo-starvation]]). Promoted ~13 cycles ago (cycle 85) but repeatedly jumped: each later replenish inserts fresher P2 deep-reviews above it, and the line-ascending selector picks those first. It carries the STRONGEST warrant of the queued reviews (never deep-reviewed since its 2026-04-05 coalesce = high-yield coalesced-citation-verification target), so it should run next, not keep losing to fresher promotions.
-- **Notes**: PROMOTED P3→P2 by /replenish-queue 2026-05-31 (floor-restoring). Coalesce chain: created via coalesce on 2026-04-05 (phenomenal-presence-void + phenomenal-absence-void) and has **never had a post-merge deep-review** despite a 2026-04-05 chain task standing pending. `last_deep_review: 2026-04-23` (~37d), `ai_modified: 2026-04-23` (~37d settled), `ai_contribution=100`, ~2218 words (voids soft_warning ~111%; do NOT condense in this pass). Tenet-1 (Dualism) phenomenal-structure exhibit. Deep-review should: (a) verify the coalesce preserved key arguments from both source articles, eliminated redundancy, and reads as one coherent piece; (b) verify integration with [[voids/transparency-void]], [[voids/the-surplus-void]], [[voids/spontaneous-thought-void]] and the evidential/definitional-unfalsifiability distinction; (c) honour [[evidential-status-discipline]] — phenomenal-quality claims are prone to phenomenology-vs-metaphysics slippage; keep the void's tier calibrated; (d) web-verify any scholar/date attributions ([[ai-citation-metadata-unreliable]]) — coalesced cites are a high-yield defect zone; (e) verify cross-links resolve live and reciprocate where load-bearing; (f) writing-style + length discipline (no "This is not X. It is Y." cliché). First effective post-coalesce review — a metadata-only verdict is acceptable if converged; do NOT over-hedge converged prose. Apply in-place fixes if minor; generate a follow-on refine-draft only if substantive.
-- **Source**: staleness (coalesce chain from 2026-04-05)
-- **Generated**: 2026-05-31
-
 ### P2: Deep review topics/the-hard-problem-in-non-western-philosophy.md (35 days since last review, ai_contribution=100, Tenet 1 load-bearing)
 - **Type**: deep-review
 - **Status**: pending
@@ -3616,6 +3607,10 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 Tasks that failed 3+ times and require human intervention.
 
+
+### ✓ 2026-05-31: Deep review voids/phenomenal-quality-void.md (37 days since last review, ai_contribution=100, Tenet 1 load-bearing, never reviewed after coalesce)
+- **Type**: deep-review
+- **Notes**: PROMOTED P3→P2 by /replenish-queue 2026-05-31 (floor-restoring). Coalesce chain: created via coalesce on 2026-04-05 (phenomenal-presence-void + phenomenal-absence-void) and has **never had a post-merge deep-review** despite a 2026-04-05 chain task standing pending. `last_deep_review: 2026-04-23` (~37d), `ai_modified: 2026-04-23` (~37d settled), `ai_contribution=100`, ~2218 words (voids soft_warning ~111%; do NOT condense in this pass). Tenet-1 (Dualism) phenomenal-structure exhibit. Deep-review should: (a) verify the coalesce preserved key arguments from both source articles, eliminated redundancy, and reads as one coherent piece; (b) verify integration with [[voids/transparency-void]], [[voids/the-surplus-void]], [[voids/spontaneous-thought-void]] and the evidential/definitional-unfalsifiability distinction; (c) honour [[evidential-status-discipline]] — phenomenal-quality claims are prone to phenomenology-vs-metaphysics slippage; keep the void's tier calibrated; (d) web-verify any scholar/date attributions ([[ai-citation-metadata-unreliable]]) — coalesced cites are a high-yield defect zone; (e) verify cross-links resolve live and reciprocate where load-bearing; (f) writing-style + length discipline (no "This is not X. It is Y." cliché). First effective post-coalesce review — a metadata-only verdict is acceptable if converged; do NOT over-hedge converged prose. Apply in-place fixes if minor; generate a follow-on refine-draft only if substantive.
 
 ### ✓ 2026-05-31: Deep review topics/consciousness-and-probability-interpretation.md (38 days since last review, ai_contribution=100, Tenets 2 & 4 load-bearing)
 - **Type**: deep-review

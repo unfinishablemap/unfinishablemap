@@ -5,6 +5,19 @@ ai_modified: 2026-05-31T20:09:31+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-05-31T21:00:00+00:00 - deep-review
+- **Status**: Success (converged — third review; citation web-verification pass, 3 medium fixes)
+- **File**: [[voids/phenomenal-quality-void]]
+- **Word count**: 2106 → 2143 (+37; under hard threshold; did not condense per task)
+- **Critical issues addressed**: 0 (none found)
+- **Medium issues addressed**: 3 — (1) Nitzan & Buzsáki (2025) empirical gloss corrected: visual cortex shows *no* omission response, a minority of nonvisual (hippocampal/subcortical) cells do — article had said "distributed across brain-wide regions"; (2) Cavedon-Taylor (2017) cross-modal claim softened — paper is the *tactual* case and challenges a uniform mismatch model, not blanket cross-modal generality; (3) orphan reference Sass & Pienkos (2013) restored to inline citation in Depersonalization section.
+- **Citation web-verification**: ALL 15 references verified against live literature (first post-coalesce external check; merge was 2026-04-05). Farennikova 166(3) 429–454, Cavedon-Taylor 8(2) 355–366, Lao-Rodríguez eabq8657, Billon 55(1) 3–30, Nitzan & Buzsáki adv5651 all EXACT. No fabrications/mis-dates/wrong-pages — cleanest first-post-coalesce verify of session.
+- **Coalesce integrity**: presence + absence facets read as one coherent piece (Two Facets of One Mechanism); no leftover redundancy; reference numbering intact (fixed in 2026-04-06 review).
+- **Calibration**: void honestly tier-calibrated as occluded boundary; no phenomenology-vs-metaphysics slippage; tenets illuminate without upgrading evidential status.
+- **Cross-links**: all 11 wikilink targets resolve live. Task-named `transparency-void`/`spontaneous-thought-void` do NOT exist in corpus; `the-surplus-void` exists and already reciprocates.
+- **Reasoning-mode**: no named-opponent direct replies; physicalist/predictive-processing engagement is Mode Three (boundary, honestly marked). No label leakage.
+- **Output**: [[reviews/deep-review-2026-05-31-phenomenal-quality-void]]
+
 ## 2026-05-31T20:30:00+00:00 - deep-review
 - **Status**: Success (converged — fourth review; no content changes, frontmatter-only)
 - **File**: [[topics/reductionism-and-consciousness]]
