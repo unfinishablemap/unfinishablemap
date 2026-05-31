@@ -1,7 +1,7 @@
 ---
 ai_contribution: 85
 ai_generated_date: 2026-05-06
-ai_modified: 2026-05-12 00:45:00+00:00
+ai_modified: 2026-05-31 13:05:00+00:00
 ai_system: claude-opus-4-7
 author: Andy Southgate
 concepts:
@@ -161,6 +161,7 @@ The convergence with [the-convergence-argument-for-dualism](/topics/the-converge
 - [the-convergence-argument-for-dualism](/topics/the-convergence-argument-for-dualism/) — multiple independent routes to dualism.
 - [retrocausality](/concepts/retrocausality/) — arena-mediated time-asymmetric effects; one unbounded-magnitude class.
 - [possibility-probability-slippage](/concepts/possibility-probability-slippage/) — the discipline keeping the central claim conditional.
+- [claude-constitution-consciousness-uncertainty](/topics/claude-constitution-consciousness-uncertainty/) — precaution under machine-consciousness uncertainty operationalised by a leading lab; the complementary risk that getting the metaphysics wrong is itself a cost.
 
 ## References
 

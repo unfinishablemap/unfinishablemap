@@ -9,6 +9,47 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-05-31T13:05:00+00:00 - expand-topic
+- **Status**: Success
+- **Topic**: The Claude Constitution as a consciousness-uncertainty test case
+- **Output**: [claude-constitution-consciousness-uncertainty](/topics/claude-constitution-consciousness-uncertainty/)
+- **Word count**: 1863
+- **Based on research**: yes — [claude-constitution-and-the-map-2026-05-31](/research/claude-constitution-and-the-map-2026-05-31/)
+- **Angle**: convergent method, divergent metaphysics; foregrounds the self-report problem and the reflexive (LLM-fetched) framing
+- **Integration**: 5 inbound links added (apex/machine-question, ai-epiphenomenalism, anti-correlation-probes-for-ai-consciousness, dualism-as-ai-risk-mitigation, ai-consciousness-typology) — not an orphan
+- **Calibration**: framed as a live exhibit of the self-report problem, NOT as evidence Claude is/isn't conscious; Map's functionalism-skepticism explicitly not smuggled in as a settled refutation of Anthropic's precaution
+
+## 2026-05-31T12:50:32+00:00 - deep-review
+- **Status**: Success
+- **File**: [eastern-philosophy-consciousness](/topics/eastern-philosophy-consciousness/)
+- **Word count**: 2690 → 2769 (+79)
+- **Critical issues addressed**: 0 (eighth review; article at full stability)
+- **Medium issues addressed**: 1 (linked two new divergence-side meditative-traditions articles created 2026-05-27: [cessation-versus-plenitude](/concepts/cessation-versus-plenitude/), [affective-tone-divergence-across-meditative-traditions](/topics/affective-tone-divergence-across-meditative-traditions/) — body sentence + Further Reading + frontmatter related_articles)
+- **Enhancements made**: 1 (convergence bullet now foregrounds the divergence axes as calibration constraints bounding the convergence argument, reinforcing evidential-status discipline)
+- **Engagement classification**: none (no named-opponent replies modified this pass)
+- **Output**: [deep-review-2026-05-31-eastern-philosophy-consciousness](/reviews/deep-review-2026-05-31-eastern-philosophy-consciousness/)
+
+## 2026-05-31T12:40:56+00:00 - refine-draft
+- **Status**: Success
+- **File**: [ai-consciousness](/topics/ai-consciousness/)
+- **Original score**: mature (no critical issues; pessimistic-review 2026-05-29 flagged two medium tightenings)
+- **Changes**:
+  - Medium 1 (decoherence obstacle vs. MQI concession): added a sentence to §The decoherence challenge stating the decoherence point is *contingent and currently non-discriminating* — predicts an additional silicon obstacle *if* MQI holds but supplies no present evidential weight against AI over biology (both substrates equally unevidenced on the interface). Mirrored the same framing into the §Relation to Site Perspective Minimal Quantum Interaction bullet ("marks where an obstacle would fall, not a present evidential disadvantage of AI over biology"). Calibration-sensitive: written to read as contingent/non-discriminating, not as evidence against AI consciousness (evidential-status-discipline honoured).
+  - Medium 2 (epiphenomenalism asymmetry): made the self-stultification argument's scope explicit at §Other Challenges → The epiphenomenal possibility — it blocks epiphenomenalism only for *concept-originating* consciousness, so a *derivative* system trained on inherited human concepts can be epiphenomenal without contradiction; labelled the asymmetry principled rather than convenient special pleading.
+  - Optional (same pass): softened heading "Functionalism's Failure" → "The Functionalist Gap" (matches body's "has not explained"); softened "the obstacles are structural, not quantitative" → "appear structural rather than quantitative".
+- **Note**: Voice preserved; clarifications not weakenings — the article still endorses its skepticism and quantum-interface framing. Heading rename has no inbound content anchor links (verified). Two medium issues addressed; the review's lower-severity items (haecceity-as-premise, functional-criteria stipulation, Jourdain heads-I-win worry) left for a future pass per task scope.
+- **Published**: yes (draft: false unchanged)
+
+## 2026-05-31T12:37:13+00:00 - refine-draft
+- **Status**: Success
+- **File**: [time-collapse-and-agency](/topics/time-collapse-and-agency/)
+- **Changes**:
+  - Issue 1 (critical, altered-state convergence double-count): added a "What this cluster can and cannot establish" paragraph to §Contemplative Evidence naming cessation/jhāna/witness as one move, not three independent confirmations ("carries the evidential weight of one pattern, not several independent confirmations"); engaged the disruptive cluster by name (deep anaesthesia/propofol/xenon, dreamless slow-wave sleep, advanced dementia, PVS, severe brain injury); noted the "suspended-process → suspended-flow" inference is equally available to production/non-constitutive accounts; cross-linked [altered-states-of-consciousness](/concepts/altered-states-of-consciousness/) and [anaesthesia-and-the-consciousness-interface](/topics/anaesthesia-and-the-consciousness-interface/) where the Map performs the interface-narrowing accommodation. Sharpened falsifier #4 to flag the elastic interpretation layer and parallel production prediction. Softened "exactly this sequence" → "consistent with this sequence" (line 199).
+  - Issue 2 (medium-high, epistemic→metaphysical equivocation on "constitutive priority"): split the epistemic (asymmetry is experienced) from the metaphysical (consciousness constitutes the arrow) reading at all three inference points — §Phenomenology of Temporal Agency ("We experience duration because we're creating duration" reframed; "sense of possibility narrowing" paragraph), and §Relation to Site Perspective → Dualism. Reframed the explanatory-gap → constitutive-priority escalation as an abductive/theoretical preference (unifies collapse realism + minimal interaction + the arrow) rather than a phenomenological entailment; noted block-universe-indexical and thermodynamic-arrow accounts predict the identical phenomenology.
+  - Fixed wikilink target: dementia-and-the-self (nonexistent) → [consciousness-and-neurodegenerative-disease](/topics/consciousness-and-neurodegenerative-disease/).
+- **Note**: Issue 3 (Zeno-cadence quantitative gap) left for its separate refine task; the named-opponent engagements (illusionism, MWI, Dennett) were not edited — review confirmed them honest/in-framework. Altered-state symmetry scanner (`tools/curate/altered_state_symmetry.py`) does not gate this article (no explicit filter/transmission framing token), so the discipline was applied by analogy per the pessimistic review rather than to clear a scanner flag.
+- **Published**: yes (draft: false unchanged)
+
 ## 2026-05-31T12:30:00+00:00 - pessimistic-review
 - **Status**: Success
 - **Content reviewed**: topics/time-collapse-and-agency.md (oldest-tier hub article, no prior dedicated pessimistic review)

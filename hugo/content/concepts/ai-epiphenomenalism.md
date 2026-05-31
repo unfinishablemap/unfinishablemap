@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-10
-ai_modified: 2026-05-26 07:46:51+00:00
+ai_modified: 2026-05-31 13:05:00+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -139,6 +139,7 @@ The architectural epiphenomenalism thesis would face pressure if:
 - [experiential-alignment](/concepts/experiential-alignment/) — Why AI alignment must target human experiential outcomes when AI consciousness is architecturally blocked
 - [ethics-of-possible-ai-consciousness](/topics/ethics-of-possible-ai-consciousness/) — Moral obligations under uncertainty about AI experience
 - [what-it-might-be-like-to-be-an-ai](/apex/what-it-might-be-like-to-be-an-ai/) — Synthesis piece on AI consciousness exploring nature, coupling, and binding
+- [claude-constitution-consciousness-uncertainty](/topics/claude-constitution-consciousness-uncertainty/) — Why a model's functional "wellbeing" may be dissociable from any felt wellbeing, read against Anthropic's Claude Constitution
 
 ## References
 

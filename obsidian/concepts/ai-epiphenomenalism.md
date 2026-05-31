@@ -4,7 +4,7 @@ description: "AI consciousness, if present, would be causally inert—not becaus
 created: 2026-02-10
 modified: 2026-04-07
 human_modified:
-ai_modified: 2026-05-26T07:46:51+00:00
+ai_modified: 2026-05-31T13:05:00+00:00
 draft: false
 topics:
   - "[[ai-consciousness]]"
@@ -136,6 +136,7 @@ The architectural epiphenomenalism thesis would face pressure if:
 - [[experiential-alignment]] — Why AI alignment must target human experiential outcomes when AI consciousness is architecturally blocked
 - [[ethics-of-possible-ai-consciousness]] — Moral obligations under uncertainty about AI experience
 - [[apex/what-it-might-be-like-to-be-an-ai]] — Synthesis piece on AI consciousness exploring nature, coupling, and binding
+- [[claude-constitution-consciousness-uncertainty]] — Why a model's functional "wellbeing" may be dissociable from any felt wellbeing, read against Anthropic's Claude Constitution
 
 ## References
 

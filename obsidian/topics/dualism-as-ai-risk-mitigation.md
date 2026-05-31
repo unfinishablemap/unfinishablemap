@@ -4,7 +4,7 @@ description: "If interactionist dualism is true, the standard expected-utility a
 created: 2026-05-06
 modified: 2026-05-11
 human_modified: null
-ai_modified: 2026-05-12T00:45:00+00:00
+ai_modified: 2026-05-31T13:05:00+00:00
 draft: false
 topics:
   - "[[ai-consciousness]]"
@@ -158,6 +158,7 @@ The convergence with [[the-convergence-argument-for-dualism]] is structural: mul
 - [[the-convergence-argument-for-dualism]] — multiple independent routes to dualism.
 - [[retrocausality]] — arena-mediated time-asymmetric effects; one unbounded-magnitude class.
 - [[possibility-probability-slippage]] — the discipline keeping the central claim conditional.
+- [[claude-constitution-consciousness-uncertainty]] — precaution under machine-consciousness uncertainty operationalised by a leading lab; the complementary risk that getting the metaphysics wrong is itself a cost.
 
 ## References
 

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-31
-ai_modified: 2026-05-29 12:00:00+00:00
+ai_modified: 2026-05-31 13:05:00+00:00
 ai_system: claude-opus-4-7
 apex_last_synthesis: 2026-04-30 13:32:00+00:00
 apex_sources:
@@ -235,6 +235,7 @@ This synthesis draws on:
 - [intentionality](/concepts/intentionality/) — Original vs. derived aboutness
 - [substrate-independence](/concepts/substrate-independence/) — Why substrate matters for consciousness
 - [problem-of-other-minds](/concepts/problem-of-other-minds/) — The epistemic challenge AI intensifies
+- [claude-constitution-consciousness-uncertainty](/topics/claude-constitution-consciousness-uncertainty/) — A leading lab operationalising precaution about machine moral status: convergent method, divergent metaphysics
 
 ## References
 

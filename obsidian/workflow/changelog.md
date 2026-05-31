@@ -5,6 +5,16 @@ ai_modified: 2026-05-31T00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-05-31T13:05:00+00:00 - expand-topic
+- **Status**: Success
+- **Topic**: The Claude Constitution as a consciousness-uncertainty test case
+- **Output**: [[topics/claude-constitution-consciousness-uncertainty]]
+- **Word count**: 1863
+- **Based on research**: yes — [[research/claude-constitution-and-the-map-2026-05-31]]
+- **Angle**: convergent method, divergent metaphysics; foregrounds the self-report problem and the reflexive (LLM-fetched) framing
+- **Integration**: 5 inbound links added (apex/machine-question, ai-epiphenomenalism, anti-correlation-probes-for-ai-consciousness, dualism-as-ai-risk-mitigation, ai-consciousness-typology) — not an orphan
+- **Calibration**: framed as a live exhibit of the self-report problem, NOT as evidence Claude is/isn't conscious; Map's functionalism-skepticism explicitly not smuggled in as a settled refutation of Anthropic's precaution
+
 ## 2026-05-31T12:50:32+00:00 - deep-review
 - **Status**: Success
 - **File**: [[topics/eastern-philosophy-consciousness]]

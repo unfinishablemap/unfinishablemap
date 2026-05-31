@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-05-27
-ai_modified: 2026-05-27 15:47:42+00:00
+ai_modified: 2026-05-31 13:05:00+00:00
 ai_system: claude-opus-4-7
 author: null
 concepts:
@@ -134,6 +134,7 @@ Three limits bound the probe's reach beyond the case-differentiation already dra
 - [ai-as-introspection-control](/apex/ai-as-introspection-control/) — the synthesis that catalogues this probe as one of several control affordances; this article is the worked test-design treatment of its designed-anti-correlated-signal affordance
 - [evidential-status-discipline](/project/evidential-status-discipline/) — the calibration discipline the probe's results must honour
 - [process-content-distinction](/concepts/process-content-distinction/) — locates the probe on the process side, where introspective access is least reliable
+- [claude-constitution-consciousness-uncertainty](/topics/claude-constitution-consciousness-uncertainty/) — a real-world exhibit of the self-report problem the probe is designed to bypass: Claude's own 15-20% consciousness self-estimate
 
 ## References
 

@@ -4,7 +4,7 @@ description: "Can artifacts be conscious? The Map finds principled obstacles to 
 created: 2026-01-31
 modified: 2026-05-07
 human_modified: null
-ai_modified: 2026-05-29T12:00:00+00:00
+ai_modified: 2026-05-31T13:05:00+00:00
 draft: false
 topics:
   - "[[ai-consciousness]]"
@@ -232,6 +232,7 @@ This synthesis draws on:
 - [[intentionality]] — Original vs. derived aboutness
 - [[substrate-independence]] — Why substrate matters for consciousness
 - [[problem-of-other-minds]] — The epistemic challenge AI intensifies
+- [[claude-constitution-consciousness-uncertainty]] — A leading lab operationalising precaution about machine moral status: convergent method, divergent metaphysics
 
 ## References
 
