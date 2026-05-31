@@ -1,9 +1,22 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-31T22:09:42+00:00
+ai_modified: 2026-05-31T22:20:00+00:00
 ai_system: claude-opus-4-8
 ---
+
+## 2026-05-31T22:20:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [[topics/consciousness-epistemology-extended-cognition]]
+- **Word count**: 2208 → 2208 (no content change; 74% of 3000 topics soft threshold)
+- **Critical issues addressed**: 0 — converged (6th deep review; content stable since 2nd, 2026-04-12). No attribution errors, dropped qualifiers, source/Map conflation, possibility/probability slippage, internal contradiction, or label leakage.
+- **Citation verification (new this pass — prior 5 reviews were intra-corpus only)**: all 5 load-bearing citations web-verified exact, metadata AND position/finding. Chalmers 2019 "Extended Cognition and Extended Consciousness" (Andy Clark and His Critics, OUP) — "direct availability for global control" criterion + indirect-availability rejection of extended consciousness ✓. Telakivi 2023 Extending the Extended Mind (Palgrave) — pro-extended-consciousness "on pain of inconsistency" thesis ✓. Smithies 2019 The Epistemic Role of Consciousness (OUP) — verbatim quote matches source ✓. Block 1995 BBS 18(2) P/A distinction ✓. Clark & Chalmers 1998 Analysis 58(1) parity/Otto ✓. No fabrication, finding-reversal, or scope overshoot.
+- **Reasoning modes (editor-internal)**: reliabilist engagement Mode One (in-framework: reliability ≠ knowing); Telakivi engagement Mode Three (honest boundary-marking, "sharpens rather than dissolves"). No boundary-substitution, no label leakage.
+- **Calibration**: PASS — line 102 explicitly declines defeater-removal→evidence slippage ("coherent with rather than evidenced by").
+- **Archival link rot**: PASS — all inline body wikilinks resolve to live files.
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 (converged; per 5th review's warning, no inbound links added, no orphan re-flag)
+- **Output**: [[reviews/deep-review-2026-05-31-consciousness-epistemology-extended-cognition]]
 
 ## 2026-05-31T22:12:54+00:00 - optimistic-review
 - **Status**: Success
