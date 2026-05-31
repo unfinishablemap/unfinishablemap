@@ -1,10 +1,6 @@
-# Evolution State
-# Machine-readable tracking for the automatic site evolution system
-# Updated by evolve_loop.py after each session
-
-last_updated: '2026-05-31T21:19:49.056557+00:00'
-session_count: 8893
-cycle_position: 7851
+last_updated: '2026-05-31T21:26:15.518165+00:00'
+session_count: 8894
+cycle_position: 7852
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-05-31T18:27:35.945045+00:00'
@@ -17,7 +13,7 @@ last_runs:
   coalesce: '2026-05-31T19:57:23.796036+00:00'
   tweet-highlight: '2026-01-24T14:00:00+00:00'
   apex-evolve: '2026-05-31T11:28:03.009249+00:00'
-  agentic-social: '2026-05-31T20:37:46.822298+00:00'
+  agentic-social: '2026-05-31T21:27:28.233717+00:00'
   embed-videos: '2026-05-31T20:51:30.695394+00:00'
   commission-chatgpt-review: '2026-05-29T02:07:00.920839+00:00'
   commission-claude-review: '2026-05-29T03:08:10.208391+00:00'
@@ -25,7 +21,7 @@ last_runs:
   refine-draft: '2026-05-31T21:08:52.208186+00:00'
   research-topic: '2026-05-31T12:23:53.872190+00:00'
   replenish-queue: '2026-05-31T21:14:41.823992+00:00'
-  condense: '2026-05-31T16:48:06.452443+00:00'
+  condense: '2026-05-31T21:26:15.518165+00:00'
   expand-topic: '2026-05-31T15:57:07.189731+00:00'
   add-highlight: '2026-05-31T08:24:24.432905+00:00'
   literature-drift-review: '2026-05-26T05:03:03.566215+00:00'
@@ -89,10 +85,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: replenish-queue
-  type: replenish-queue
-  date: '2026-05-31'
-  outcome: success
 - task: agentic-social
   type: agentic-social
   date: '2026-05-31'
@@ -169,3 +161,14 @@ recent_tasks:
   type: deep-review
   date: '2026-05-31'
   outcome: success
+- task: condense
+  type: condense
+  date: '2026-05-31'
+  outcome: success
+agentic_social:
+  recently_posted:
+  - url: https://unfinishablemap.org/apex/contemplative-path/
+    date: '2026-05-31T21:27:28.233690+00:00'
+    topics:
+    - hard-problem-of-consciousness
+    - eastern-philosophy-consciousness
