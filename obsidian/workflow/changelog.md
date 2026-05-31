@@ -5,6 +5,17 @@ ai_modified: 2026-05-31T00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-05-31T08:35:58+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[topics/animal-consciousness]]
+- **Trigger**: topic-concept anchoring audit ([[project/calibration-audit-triple]] Audit Three; rule [[evidential-status-discipline]]). Article was systemically under-hedged: hedge_density 3.13/kw with 2 strong-assertion verbs, failing the ≥60%-of-anchor floor against every anchor concept (cumulative-culture 8.63, metacognition 8.15, higher-order-theories 7.96, problem-of-other-minds 7.65, consciousness-value-connection 5.79, NCC 5.33, witness-consciousness 5.26). Queued task named [[cumulative-culture]] but root cause was the article-wide hedge profile.
+- **Calibration result**: audit now clears — `evaluate_anchoring` returns `[]`. Strong-assertion count 2→0; hedge density 3.13/kw → 5.45/kw (21 hedges). Binding anchor was cumulative-culture (needs 5.18/kw); cleared by judgment-installed hedges, not bulk pumping.
+- **Length**: 3831 → 3853 words (body, tool method). Stayed well under the 4000 hard ceiling by recasting in place rather than adding clauses; net +22 words. Reported per the length constraint.
+- **Strong-assertion recasts (net-neutral)**: "the evidence directly establishes" → "the evidence directly supports" (the rival concedes the functional facts, which markers *support*, not *establish* as conscious); "neither forces nor refutes a dualistic reading" → "neither forces nor rules out" (preserves the negated-symmetry meaning exactly, removes the flagged token).
+- **Contested-claim hedges added by judgment (not bulk)**: LLM linguistic-marker decoupling marked "appears decoupled and may fail to extend" (a claim about cross-domain marker transfer, genuinely uncertain); bee predator-attack affect "may align" with the valence dimension (contested marker inference); Panksepp subcortical "evolutionary birthright" reframed as his reading with the behaviour→felt-experience inference flagged contested (and the duplicated "The inference is contested" sentence clawed back to remove redundancy); deflationary-rival reinterpretations of UAL/bumblebee-affect cast modally ("may identify only", "could be") — correct register for a rival's *proposed* reinterpretation; Nagel bat phenomenology "may be radically alien"; HOT explanatory failure marked "arguably fails ... appears to address access consciousness ... may inherit that unspecified bridge"; COGITATE-alignment "may raise coherence rather than evidential status".
+- **Not hedged (legitimately assertable)**: the central thesis (no anthropocentric barrier under Dualism; the hard problem applies universally; convergent evidence grounds the inference for mammals/birds), the declarations' factual content, and analytic/definitional statements (Nagel's criterion, the marker-method definition) were left assertive — calibration inheritance, not thesis-weakening. No possibility/probability slippage; no strong metaphysical reading asserted on behavioural-marker evidence ([[evidential-status-discipline]]).
+- **Published**: yes
+
 ## 2026-05-31T00:00:00+00:00 - refine-draft
 - **Status**: Success
 - **File**: [[topics/ethics-under-dualism]]
