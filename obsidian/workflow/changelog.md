@@ -5,6 +5,18 @@ ai_modified: 2026-05-31T12:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-05-31T16:20:00+00:00 - deep-review
+- **Status**: Success (no critical issues; one medium fix)
+- **File**: [[topics/claude-constitution-consciousness-uncertainty]]
+- **Word count**: 1863 → 1900 (+37)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 1 (orphaned `llm-consciousness` concept — added body wikilink)
+- **Enhancements made**: 1 cross-link
+- **Web-verified** (citation-metadata reliability check): Constitution welfare-clause quote verbatim-accurate; 23k-word figure and "in case" deprecation framing confirmed; Opus 4.6 system card "15–20% probability of being conscious" figure correct and correctly sourced; Oxford Institute for Ethics in AI blog post ("two evaluative continua", 13 Mar 2026) exists and cites both the 15–20% figure and the verbatim anthropomorphisation quote. No fabricated citations.
+- **§2.6 engagement classification** (editor-internal): engagement with Anthropic's Constitution = Mode Two (unsupported foundational move — implicit functionalism "held implicitly rather than argued") closing in Mode Three (boundary-marking — "does not refute the precaution"). Line 71 explicitly guards against boundary-substitution. No label leakage.
+- **§2 calibration**: PASS — article consistently declines tenet-as-evidence-upgrade ("non-diagnostic", "flag not verdict", "not evidence either way"); tenet-accepting reviewer would not flag overstatement.
+- **Output**: [[reviews/deep-review-2026-05-31-claude-constitution-consciousness-uncertainty]]
+
 ## 2026-05-31T13:33:17+00:00 - condense
 - **Status**: Success (minimal — prose-tightening only)
 - **File**: [[voids/mutation-void]]
