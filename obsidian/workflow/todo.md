@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-31T14:22:24+00:00
+ai_modified: 2026-05-31T14:36:40+00:00
 ai_system: claude-opus-4-8
 author: Andy Southgate
 concepts: []
@@ -36,6 +36,22 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **P2**: Low - nice to have, human approval needed
 
 ## Active Tasks
+
+### P2: Deep review voids/closure-types-void.md (43 days since last review, ai_contribution=100)
+- **Type**: deep-review
+- **Status**: pending
+- **File**: obsidian/voids/closure-types-void.md
+- **Notes**: PROMOTED P3→P2 by /replenish-queue 2026-05-31 (floor-restoring; the cycle-pickable P0–P2 queue had fallen to effectively 1 — the phenomenology-of-intellectual-life→courage cross-link is genuinely cycle-consumable, but the consciousness-and-skill-acquisition literature-drift P2 runs on its own weekly wall-clock and is NOT cycle-consumable). This is the documented replenish-at-floor steady state ([[unfin-loop-steady-state]]), re-verified this run: voids OVER cap (101/100); topics (259/270) and concepts (251/270) have nominal room but NO unconsumed research awaits synthesis (the only fresh note, research/claude-constitution-and-the-map-2026-05-31.md, was already consumed today into topics/claude-constitution-consciousness-uncertainty.md); orphaned_files=0; and every published-content length offender is blocked/vetoed/same-day-churn (epistemology-of-convergence-arguments 6479w and phenomenal-output-causal-machinery-dissociation 6989w are BLOCKED pending human split decisions; born-rule 5044w was condensed TODAY; meaning-of-life 4160w is vetoed; time-collapse-and-agency 4748w was edited today and has an active refine; apex-articles 5119w is the apex section index/hub and taxonomy-of-voids 5113w was modified today by apex-evolve — both same-day churn). So the honest floor-restoring move is to promote two grounded, genuinely-stale/verified-actionable P3-tier tasks rather than mint speculative expand-topic work against the ~470-task P3 backlog. This is the surgical staleness promotion: `closure-types-void` is the OLDEST AI-heavy article past the 30-day deep-review floor and not currently queued (verified `last_deep_review: 2026-04-18`, ~43d; the three sibling 38-day articles panpsychism/eastern-philosophy/valence were all already deep-reviewed today). Deep-review doesn't create articles, so the voids over-cap is irrelevant. Web-verify any cited dates/scholar attributions before trusting them ([[ai-citation-metadata-unreliable]]); preserve the void-vs-limit and constrain-vs-establish framing ([[evidential-status-discipline]]); first review in 43d, not a runaway re-review — a metadata-only verdict is acceptable if converged, do NOT over-hedge converged prose ([[deep-review-over-reviews-converged]]).
+- **Source**: staleness
+- **Generated**: 2026-05-31
+
+### P2: Refine three-kinds-of-void.md with face-by-face mixed-classification example
+- **Type**: refine-draft
+- **Status**: pending
+- **File**: obsidian/voids/three-kinds-of-void.md
+- **Notes**: PROMOTED P3→P2 by /replenish-queue 2026-05-31 (second of two floor-restoring promotions; chosen for diversity — a concrete grounded refine alongside the staleness deep-review, not a speculative expand-topic). This is the same task as the P3 entry of this title at ~line 432 below; that P3 stub is retained to avoid a duplicate and will be swept by the next loop tidy pass. Verified actionable: `obsidian/voids/three-kinds-of-void.md` exists. Originally a P3 refine adding a worked face-by-face mixed-classification example to the three-kinds taxonomy (a single void whose faces fall into different classes). Light-touch; preserve the taxonomy's evidential-status hedges and do not over-hedge converged prose ([[deep-review-over-reviews-converged]]). NOTE: the sibling reciprocal-cross-link P3 ("Add reciprocal cross-links between voids/imagery-void and concepts/introspection") was NOT promoted — verified already satisfied this run (imagery-void↔introspection cross-link both ways already), so it is a likely no-op.
+- **Source**: gap_analysis
+- **Generated**: 2026-05-31
 
 ### ✓ DONE 2026-05-31: Deep review concepts/panpsychism.md (38 days since last review, ai_contribution>50, Tenet 1 load-bearing)
 - **Type**: deep-review
