@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-22
-ai_modified: 2026-05-27 19:34:11+00:00
+ai_modified: 2026-05-31 00:00:00+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -196,6 +196,7 @@ The Map's framework provides all three elements needed for escape: acknowledgmen
 - [decoherence](/concepts/decoherence/) — The decoherence objection to quantum consciousness
 - [interactionist-dualism](/concepts/interactionist-dualism/) — The Map's positive framework
 - [evolutionary-case-for-mental-causation](/topics/evolutionary-case-for-mental-causation/) — Why evolution requires consciousness to be causally efficacious
+- [co-optimization-reply-to-the-correlation-problem](/topics/co-optimization-reply-to-the-correlation-problem/) — The strongest epiphenomenalist answer to why valence tracks fitness, and why it survives the dissociation evidence
 - [clinical-neuroplasticity-evidence-for-bidirectional-causation](/topics/clinical-neuroplasticity-evidence-for-bidirectional-causation/) — Intentional mental activity reshaping neural architecture
 - [content-specificity-of-mental-causation](/concepts/content-specificity-of-mental-causation/) — Systematic mapping between meaning and physical effect
 - [ai-epiphenomenalism](/concepts/ai-epiphenomenalism/) — Nature-coupling distinction and its consequences for machine minds

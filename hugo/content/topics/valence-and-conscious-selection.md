@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-19
-ai_modified: 2026-05-25 12:00:00+00:00
+ai_modified: 2026-05-31 00:00:00+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -170,7 +170,7 @@ Cases where felt valence and computational reward signals come apart provide the
 
 If valence is the selection currency, natural selection shaped the currency's denominations. Pain correlates with tissue damage, pleasure with survival-promoting activities, fear with genuine threats—because organisms whose valence aligned with biological fitness outcompeted those whose valence was miscalibrated.
 
-This addresses a puzzle that epiphenomenalism cannot. If valence were causally inert, the tight correlation between what feels bad and what threatens survival would be a cosmic coincidence. But if valence drives selection—if organisms act differently because of how things feel—then evolution can shape valence directly. The felt badness of burning is bad for the organism *and* motivates avoidance *because* valence enters the selection law.
+This addresses a puzzle that epiphenomenalism cannot. If valence were causally inert, the tight correlation between what feels bad and what threatens survival would be a cosmic coincidence. The sophisticated epiphenomenalist's best answer is the [co-optimization reply](/topics/co-optimization-reply-to-the-correlation-problem/)—that selection co-produces aligned valence and behaviour from one optimized system—which survives the dissociation evidence but pays for its parsimony with an unexplained psychophysical necessity. But if valence drives selection—if organisms act differently because of how things feel—then evolution can shape valence directly. The felt badness of burning is bad for the organism *and* motivates avoidance *because* valence enters the selection law.
 
 The universality of valence across conscious experience—every experience carries some hedonic tone—is what makes it functional as a general-purpose selection metric. A currency restricted to specific modalities would leave consciousness without a basis for choosing among qualitatively different outcomes.
 

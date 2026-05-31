@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-04-18
-ai_modified: 2026-05-29 07:44:13+00:00
+ai_modified: 2026-05-31 15:55:47+00:00
 ai_system: claude-opus-4-7
 author: null
 coalesced_from:
@@ -195,6 +195,7 @@ The full development of Saad's theory, including his five constraints on dualist
 - [causal-closure](/concepts/causal-closure/) — The principle delegation selectively violates
 - [observational-closure](/concepts/observational-closure/) — Why delegation leaves no empirical trace
 - [epiphenomenalism](/concepts/epiphenomenalism/) — The alternative delegation rejects
+- [quiddity-epiphenomenalism-and-the-contingency-thesis](/concepts/quiddity-epiphenomenalism-and-the-contingency-thesis/) — Why grounding-based mental causation (Russellian monism) succumbs to a defeater that preemption-based delegation sidesteps
 - [ensemble-level-epiphenomenalism](/concepts/ensemble-level-epiphenomenalism/) — The finer, type-level version of the worry that ensemble-invisible delegation faces
 - [skill-delegation](/concepts/skill-delegation/) — The inverse parallel: consciousness delegating to procedural systems
 - [agent-causation](/concepts/agent-causation/) — Substance causation as complementary framework for what exercises delegated powers

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-15
-ai_modified: 2026-05-29 00:00:00+00:00
+ai_modified: 2026-05-31 00:00:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -111,6 +111,7 @@ Together, these dissociations show that pain's dimensions can be independently m
 - [blindsight](/concepts/blindsight/) — A parallel clinical dissociation supporting dualism
 - [epiphenomenalism](/concepts/epiphenomenalism/) — The view that consciousness has no causal efficacy
 - [valence-and-conscious-selection](/topics/valence-and-conscious-selection/) — How asymbolia evidence bears on whether valence participates in selection
+- [co-optimization-reply-to-the-correlation-problem](/topics/co-optimization-reply-to-the-correlation-problem/) — Why the dissociation cases constrain but do not discriminate between co-optimization and interactionism
 
 ## References
 

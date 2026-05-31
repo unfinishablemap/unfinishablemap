@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-05-31
-ai_modified: 2026-05-31 14:51:00+00:00
+ai_modified: 2026-05-31 15:08:02+00:00
 ai_system: claude-opus-4-8
 author: null
 concepts:
@@ -17,6 +17,7 @@ description: 'Hearing supplies what vision lacks: melody unfolding in time, audi
 draft: false
 human_modified: null
 last_curated: null
+last_deep_review: 2026-05-31 15:08:02+00:00
 modified: *id001
 related_articles:
 - '[[dualist-perception]]'
@@ -56,7 +57,7 @@ Visual qualia are saturated with space. Colour is colour *of a region*; shape is
 
 Two features make auditory qualia especially clean test cases for the irreducibility of [qualia](/concepts/qualia/). First, the **missing fundamental**: a complex tone lacking any spectral energy at its fundamental frequency is still heard at that fundamental's pitch. The perceived quality does not correspond to a frequency present in the stimulus—pitch is computed, not read off. Second, **timbre** is the quality by which two sounds of identical pitch and loudness still differ—a violin and a flute on the same note. Timbre is multidimensional and resists reduction to any single physical parameter, yet it is immediately and determinately present in experience.
 
-The physicalist treats all of this as more perceptual computation: periodicity extraction yields the missing-fundamental pitch; spectral-envelope and temporal-fine-structure analysis yields timbre. That account is live and well supported, and nothing in the missing fundamental tells against it. What the non-spatial auditory qualities arguably do is press the [explanatory gap](/concepts/explanatory-gap/) in a register vision cannot. With colour one can be tempted to locate the quality in the surface—to say yellowness just *is* a reflectance. Pitch and timbre seem to have no such external home: there is no "fundamental frequency" sitting in the world to identify the missing-fundamental pitch with, and no single physical magnitude that plausibly identifies timbre. The quality appears determinate in experience while being conspicuously non-identical to any one stimulus property. That may make audition a sharp illustration of why qualia resist reduction—an illustration, the Map holds, rather than a demonstration.
+The physicalist treats all of this as more perceptual computation: periodicity extraction yields the missing-fundamental pitch; spectral-envelope and temporal-fine-structure analysis yields timbre. That account is live and well supported, and nothing in the missing fundamental tells against it. What the non-spatial auditory qualities arguably do is press the [explanatory gap](/concepts/explanatory-gap/) in a register vision cannot. It is no accident that the canonical statement of the gap—Nagel's question of what it is like to be a bat (Nagel, 1974)—reaches for an *auditory* creature whose world is built from echolocation; the felt character of a heard quality is where the "what it's like" pressure is most easily isolated from any external object-property to identify it with. With colour one can be tempted to locate the quality in the surface—to say yellowness just *is* a reflectance. Pitch and timbre seem to have no such external home: there is no "fundamental frequency" sitting in the world to identify the missing-fundamental pitch with, and no single physical magnitude that plausibly identifies timbre. The quality appears determinate in experience while being conspicuously non-identical to any one stimulus property. That may make audition a sharp illustration of why qualia resist reduction—an illustration, the Map holds, rather than a demonstration.
 
 ## Relation to Site Perspective
 

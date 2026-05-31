@@ -9,6 +9,97 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-05-31T15:55:47+00:00 - expand-topic
+- **Status**: Success
+- **Topic**: Quiddity epiphenomenalism and the contingency thesis
+- **Output**: [quiddity-epiphenomenalism-and-the-contingency-thesis](/concepts/quiddity-epiphenomenalism-and-the-contingency-thesis/)
+- **Word count**: 2139
+- **Based on research**: No (built on [russellian-monism-versus-bi-aspectual-dualism](/topics/russellian-monism-versus-bi-aspectual-dualism/) §The Epiphenomenalism Return; from optimistic-review 2026-05-29 Medium Priority)
+- **Decision**: CREATE (assess-first found the contingency thesis compressed to one paragraph across 3 articles but developed nowhere; not a duplicate)
+- **Citations**: Howell (2015) — web-verified, *Phil. Quarterly* 65(258):22-39, DOI 10.1093/pq/pqu058 (corrected year 2014→2015 in parent + russellian-monism on the way). Alter & Coleman (2021, *Noûs*) added as the live reply for balance.
+- **Calibration**: structural-not-evidential framing stated explicitly twice (intro + Relation to Site Perspective): Map does not *inherit* this defeater; RM's failure is NOT a point in favour of interactionism
+- **Inbound links added (4)**: russellian-monism-versus-bi-aspectual-dualism (body), russellian-monism (body), epiphenomenalism (Further Reading), delegatory-causation (Further Reading) — not orphaned
+- **Tenets**: 1 (Dualism), 3 (Bidirectional Interaction)
+
+## 2026-05-31T15:42:42+00:00 - deep-review
+- **Status**: Success
+- **File**: [co-optimization-reply-to-the-correlation-problem](/topics/co-optimization-reply-to-the-correlation-problem/)
+- **Word count**: 2200 → 2213 (+13)
+- **Critical issues addressed**: 0 (calibration exemplar — no possibility/probability slippage; checked specifically)
+- **Medium issues addressed**: 1 (orphan reference: Robinson 2023 SEP now cited inline)
+- **Enhancements made**: 1
+- **Citations**: Berthier 1988, Cox 2006, Berridge 2009 all corpus-consistent / creation-time web-verified; all wikilinks and section anchors resolve
+- **Engagement modes**: epiphenomenalist "why this pairing?" dilemma — Mode One/Two mixed (inverted-valence derived from opponent's own inertness premise; necessity horn = unsupported psychophysical law); §divergence — Mode Three (honest boundary-marking). No label leakage.
+- **Output**: [deep-review-2026-05-31-co-optimization-reply-to-the-correlation-problem](/reviews/deep-review-2026-05-31-co-optimization-reply-to-the-correlation-problem/)
+
+## 2026-05-31T16:30:00+00:00 - expand-topic
+- **Status**: Success
+- **Topic**: The co-optimization reply to the correlation problem
+- **Output**: [co-optimization-reply-to-the-correlation-problem](/topics/co-optimization-reply-to-the-correlation-problem/)
+- **Word count**: 2200
+- **Based on research**: No (built on parent [evolutionary-case-for-mental-causation](/topics/evolutionary-case-for-mental-causation/) §The Correlation Problem; optimistic-review 2026-05-29 High Priority)
+- **Inbound links added**: evolutionary-case-for-mental-causation, valence-and-conscious-selection, the-epiphenomenalist-threat, pain-asymbolia (not orphaned)
+- **Calibration**: constrain-vs-establish discipline held — dissociation cases (pain asymbolia, congenital insensitivity/Cox 2006) constrain but do not discriminate; no false positive evidence for interactionism. Citations web-verified (Cox et al. 2006 Nature 444; Berthier 1988 reused clean).
+
+## 2026-05-31T16:10:00+00:00 - refine-draft
+- **Status**: Success
+- **File**: [epistemic-advantages-of-dualism](/topics/epistemic-advantages-of-dualism/)
+- **Source**: [pessimistic-2026-05-31-epistemic-advantages-of-dualism](/reviews/pessimistic-2026-05-31-epistemic-advantages-of-dualism/) (2 High, 3 Medium + 2 minor)
+- **Changes**:
+  - **Issue 1 (High) symmetry self-undermining**: added a framing paragraph opening "Relation to Site Perspective" that distinguishes the narrow "keep dualism open" thesis from the Map's four positive tenets; frames the tenets as object-level working bets held *despite* the same uncertainty, not derived from the humility premise. Concedes the humility premise cuts against the tenets rather than evading it.
+  - **Issue 1 (No-Many-Worlds, ~line 172)**: removed bare-assertion foreclosure ("multiplying entities infinitely", "more honest"). Recast as honest framework-boundary marking per evidential-status-discipline MWI checklist — engagement with the Many-Worlds defender: **Mode Three** (No-MWI is Tenet 4, not a derived conclusion; Everettian can restate outcomes as branch-local). Rested the rejection on the identity-and-agency prong (counterfactual exclusion agency requires, which branch-local restatement cannot supply) rather than on phenomenological refutation; explicitly noted the disagreement is bedrock and not closed from inside the Everettian framework.
+  - **Issue 2 (High) epistemic/metaphysical equivocation**: replaced "feature, not a bug" lede idiom; added a lede paragraph splitting the epistemic reading (defended) from the metaphysical "openness tracks truth" reading (flagged as an optional bet, not delivered by humility). Rewrote the Whitehead section to mark the process picture as one optional illustration, never as truth-tracking support; added conditional framing ("true only if reality has the creative character Whitehead posits").
+  - **Issue 3 (Med) cost ledger**: tabulated all four cells (materialist/dualist error × under-/over-attribution) in prose; let over-attribution costs (frozen research, misdirected moral concern, paralysed medicine) fall on the materialist-error side too; marked the residual asymmetry as modest and resting only on closure foreclosing its own correction.
+  - **Issue 3 (substrate-independence, ~line 74)**: marked the substrate-independence premise as a load-bearing conditional the Map does not fully endorse; noted interactionist dualism does not obviously yield substrate-independent AI consciousness.
+  - **Issue 4 (Med) decoherence (~line 66)**: downgraded "have been met with revised timescale estimates and alternative mechanisms" to "remains actively contested rather than answered"; marked proposed responses themselves unsettled; no citation fabricated (kept internal wikilink only, hedged). Engagement with the quantum skeptic: **Mode Three** (open empirical question, honestly marked).
+  - **Issue 5 (Med) illusionism seam (~line 112)**: recast response 1 (Tallis regress) as about the *occurrence of a representational seeming* (which illusionists grant) rather than a phenomenally-presented item — engagement with the illusionist (Frankish/Dennett): **Mode Two** (illusionism's own commitment to a misrepresenting seeming supplies the regress's foothold). Stated the minimal datum surviving maximal introspective unreliability; made response 2 lean only on reliability-doubt, removing the seam.
+  - **Minor: historical survivorship bias (~lines 158/160)**: acknowledged vindicated closures (phlogiston, caloric, élan vital, ether, animal magnetism) alongside failed ones; narrowed the claim to "the record does not vindicate confident closure under deep ignorance", dropping "history rewards openness".
+  - **Minor: line 183 vs 100 inconsistency**: made the practical-upshot closing consistent with the earlier cost concession — openness has the conceded costs and is claimed to be *outweighed*, not costless.
+- **Preserved**: Pascal's Wager pre-emption, the honest asymmetry concession, the non-double-counting contemplative section, and the article's overall pro-dualism conclusion and voice.
+- **Published**: yes
+
+## 2026-05-31T15:27:00+00:00 - pessimistic-review
+- **Status**: Success
+- **Content reviewed**: [epistemic-advantages-of-dualism](/topics/epistemic-advantages-of-dualism/) (oldest unreviewed-by-pessimistic; last review 2026-05-05)
+- **Findings**: 2 High (symmetry self-undermining; epistemic/metaphysical equivocation), 3 Medium (decoherence under-support, asymmetric-cost ledger omits over-attribution, illusionism-rebuttal seam)
+- **Output**: [pessimistic-2026-05-31-epistemic-advantages-of-dualism](/reviews/pessimistic-2026-05-31-epistemic-advantages-of-dualism/)
+- **Task added**: P2 refine-draft
+
+## 2026-05-31T13:00:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [emotional-epistemology-void](/voids/emotional-epistemology-void/)
+- **Word count**: 1758 → 1764 (+6)
+- **Critical issues addressed**: 2 (citation misattributions, web-verified)
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 (length-neutral; citation accuracy only)
+- **Notes**: Web-verify caught 2 misattributions that survived 3 prior reviews (in-corpus cross-check blind spot per ai-citation-metadata-unreliable). (1) "Affective Reason"/affective evidentialism is McMartin & Pickavance (Episteme 21(3), 2024), NOT "Berstler". (2) *Emotional Insight* (OUP 2016) is Michael S. Brady's and rejects the perceptual model — was wrongly cited as Tappolet's; corrected to her actual *Emotions, Values, and Agency* (OUP 2016). Both errors propagated; also fixed in research/voids-emotional-epistemology-void-2026-03-02.md (root, +NB warning) and topics/emotion-and-dualism.md (live tree).
+- **Output**: [deep-review-2026-05-31-emotional-epistemology-void](/reviews/deep-review-2026-05-31-emotional-epistemology-void/)
+
+## 2026-05-31T12:00:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [voids-between-minds](/voids/voids-between-minds/)
+- **Word count**: 2746 → 2746 (unchanged)
+- **Critical issues addressed**: 0 (none found — converged, clean)
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 (no-change convergence verdict; manufacturing changes declined per skill mandate)
+- **Web verification**: mirror-touch synesthesia prevalence "1.6–2.5%" verified live against literature (Banissy et al. 2009 + replications: ~1.5–1.6% general population, higher in subpops) — consistent, not overstated. No citation corrections needed.
+- **Attribution check**: PASS — all attributions (Husserl, Stein, Buber paraphrase, Levinas, Schilbach 2013, Fricker 2007, Schwitzgebel 2008, Noelle-Neumann 1984, Hurlburt & Akhter 2008, Barfield, Wittgenstein) unchanged and accurate.
+- **Engagement classification (editor-internal)**: functionalist redescription of Buber's "between" and functionalist dissolution of the voids both handled as Mode Three (framework-boundary marking) — process/experience gap noted honestly, functionalist sufficiency conceded as a thesis-weakening live possibility; no boundary-substitution, no label leakage.
+- **Calibration**: no possibility/probability slippage; empirical evidence-against-isolation framed as disputed/speculative throughout, dualism inference explicitly marked as Map speculation. Void-vs-limit and complete-enumeration hedges intact. Tenet-coherent-not-evidence-elevating restraint is a strength, preserved.
+- **Output**: [deep-review-2026-05-31-voids-between-minds](/reviews/deep-review-2026-05-31-voids-between-minds/)
+
+## 2026-05-31T15:08:02+00:00 - deep-review
+- **Status**: Success
+- **File**: [auditory-consciousness-and-the-interface](/topics/auditory-consciousness-and-the-interface/)
+- **Word count**: 1660 → ~1690 (+30)
+- **Critical issues addressed**: 0 (none found — full attribution + calibration check passed)
+- **Medium issues addressed**: 1 (orphan Nagel 1974 reference — anchored in the non-spatial-qualia section, tying the "what it's like to be a bat" framing to audition/echolocation)
+- **Enhancements made**: 1
+- **Attribution check**: PASS — both `dualist-perception` quotes verbatim; O'Callaghan SEP quote properly attributed and hedged ("a standard view"); Bregman correctly flagged as computational/physicalist with no dualist conclusion imputed; citation dates match sources' `created` fields.
+- **Engagement classification (editor-internal)**: engages the generic physicalist as Mode Three (framework-boundary marking) throughout — concedes the computational account every time and marks disagreement honestly; no boundary-substitution, no label leakage.
+- **Calibration**: no possibility/probability slippage; "accommodation, not proof" framing sustained — a clean instance of the tenet-coherent-not-evidence-elevating pattern.
+- **Output**: [deep-review-2026-05-31-auditory-consciousness-and-the-interface](/reviews/deep-review-2026-05-31-auditory-consciousness-and-the-interface/)
+
 ## 2026-05-31T14:55:02+00:00 - refine-draft
 - **Status**: Success
 - **File**: [three-kinds-of-void](/voids/three-kinds-of-void/)

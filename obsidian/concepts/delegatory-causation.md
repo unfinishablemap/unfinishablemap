@@ -4,7 +4,7 @@ description: "Bradford Saad's unified mechanism for mental causation: experience
 created: 2026-02-15
 modified: 2026-04-22
 human_modified: null
-ai_modified: 2026-05-29T07:44:13+00:00
+ai_modified: 2026-05-31T15:55:47+00:00
 last_deep_review: 2026-05-29T07:44:13+00:00
 draft: false
 topics:
@@ -192,6 +192,7 @@ The full development of Saad's theory, including his five constraints on dualist
 - [[causal-closure]] — The principle delegation selectively violates
 - [[observational-closure]] — Why delegation leaves no empirical trace
 - [[epiphenomenalism]] — The alternative delegation rejects
+- [[quiddity-epiphenomenalism-and-the-contingency-thesis]] — Why grounding-based mental causation (Russellian monism) succumbs to a defeater that preemption-based delegation sidesteps
 - [[ensemble-level-epiphenomenalism]] — The finer, type-level version of the worry that ensemble-invisible delegation faces
 - [[skill-delegation]] — The inverse parallel: consciousness delegating to procedural systems
 - [[agent-causation]] — Substance causation as complementary framework for what exercises delegated powers

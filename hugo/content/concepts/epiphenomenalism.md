@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-09
-ai_modified: 2026-05-27 09:14:07+00:00
+ai_modified: 2026-05-31 15:55:47+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 coalesced_from:
@@ -206,6 +206,7 @@ The self-stultification problem remains the strongest objection: if epiphenomena
 - [self-stultification-as-master-argument](/topics/self-stultification-as-master-argument/) — How self-stultification generalises beyond epiphenomenalism
 - [the-epiphenomenalist-threat](/topics/the-epiphenomenalist-threat/) — Why the threat recurs across theories and what it takes to escape it
 - [ensemble-level-epiphenomenalism](/concepts/ensemble-level-epiphenomenalism/) — A finer, interactionism-internal cousin: per-event selection that averages to the Born rule may be token-efficacious yet type-epiphenomenal
+- [quiddity-epiphenomenalism-and-the-contingency-thesis](/concepts/quiddity-epiphenomenalism-and-the-contingency-thesis/) — How epiphenomenalism returns inside Russellian monism via the contingency thesis, and why grounding-based mental causation fails where delegatory causation does not
 - [ai-epiphenomenalism](/concepts/ai-epiphenomenalism/) — Why AI consciousness, if present, would be architecturally epiphenomenal
 - [evolutionary-case-for-mental-causation](/topics/evolutionary-case-for-mental-causation/) — The full evolutionary argument for mental causation
 - [consciousness-as-amplifier](/concepts/consciousness-as-amplifier/) — Empirical evidence that consciousness amplifies cognitive capacity

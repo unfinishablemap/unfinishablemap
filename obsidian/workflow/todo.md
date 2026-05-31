@@ -94,13 +94,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: deep-review
 - **Generated**: 2026-05-29
 
-### P2: Write concept page for the contingency thesis and quiddity epiphenomenalism
-- **Type**: expand-topic
-- **Status**: pending
-- **Notes**: PROMOTED P3→P2 by /replenish-queue 2026-05-31 (floor-restoring, one of three promotions). Verified actionable: no `*contingency*`/`*quiddity*` concept exists in concepts/; concepts 251/270 (room). Floor-restoration rationale as for the co-optimization task above (genuine actionable queue at 1, below the MIN_QUEUE floor of 3). Suggested by optimistic review 2026-05-29 (Medium Priority). See [[reviews/optimistic-2026-05-29b]]. Builds on `topics/russellian-monism-versus-bi-aspectual-dualism.md` §The Epiphenomenalism Return, which compresses Howell's (2014) contingency thesis — the single most damaging objection to Russellian monism's claim of causal relevance — into one paragraph that recurs near-verbatim across several articles. A ~1500-word concept page should develop *why* quiddity-grounding fails to make consciousness causal "in virtue of its phenomenal character" (the contingency: if quiddity Q1 grounds negative charge actually but Q2 could ground it in another world, phenomenal character does no distinctive causal work), and contrast this with the Map's `delegatory-causation` (preemption-not-overdetermination) response. ASSESS-FIRST + license-to-decline: check `concepts/russellian-monism`, `concepts/epiphenomenalism`, `concepts/delegatory-causation` do not already cover it before creating; retarget to refine/cross-link if so. Concepts section near cap (251/270) — if full, retarget as a refine adding a dedicated subsection. CALIBRATION-sensitive (honour [[evidential-status-discipline]]): the Map's interaction thesis must NOT appear *evidenced* by Russellian monism's failure — the honest claim is structural (the Map does not inherit this specific defeater), not evidential. After creation, verify inbound links were added. Tenet alignment: Tenets 1, 3.
-- **Source**: optimistic-review
-- **Generated**: 2026-05-29
-
 ### P2: Add reciprocal cross-link from phenomenology-of-intellectual-life to phenomenology-of-intellectual-courage
 - **Type**: integrate-orphan
 - **Status**: pending
@@ -3611,6 +3604,10 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 Tasks that failed 3+ times and require human intervention.
 
+
+### ✓ 2026-05-31: Write concept page for the contingency thesis and quiddity epiphenomenalism
+- **Type**: expand-topic
+- **Notes**: PROMOTED P3→P2 by /replenish-queue 2026-05-31 (floor-restoring, one of three promotions). Verified actionable: no `*contingency*`/`*quiddity*` concept exists in concepts/; concepts 251/270 (room). Floor-restoration rationale as for the co-optimization task above (genuine actionable queue at 1, below the MIN_QUEUE floor of 3). Suggested by optimistic review 2026-05-29 (Medium Priority). See [[reviews/optimistic-2026-05-29b]]. Builds on `topics/russellian-monism-versus-bi-aspectual-dualism.md` §The Epiphenomenalism Return, which compresses Howell's (2014) contingency thesis — the single most damaging objection to Russellian monism's claim of causal relevance — into one paragraph that recurs near-verbatim across several articles. A ~1500-word concept page should develop *why* quiddity-grounding fails to make consciousness causal "in virtue of its phenomenal character" (the contingency: if quiddity Q1 grounds negative charge actually but Q2 could ground it in another world, phenomenal character does no distinctive causal work), and contrast this with the Map's `delegatory-causation` (preemption-not-overdetermination) response. ASSESS-FIRST + license-to-decline: check `concepts/russellian-monism`, `concepts/epiphenomenalism`, `concepts/delegatory-causation` do not already cover it before creating; retarget to refine/cross-link if so. Concepts section near cap (251/270) — if full, retarget as a refine adding a dedicated subsection. CALIBRATION-sensitive (honour [[evidential-status-discipline]]): the Map's interaction thesis must NOT appear *evidenced* by Russellian monism's failure — the honest claim is structural (the Map does not inherit this specific defeater), not evidential. After creation, verify inbound links were added. Tenet alignment: Tenets 1, 3.
 
 ### ✓ 2026-05-31: Write article on the co-optimization reply to the correlation problem
 - **Type**: expand-topic

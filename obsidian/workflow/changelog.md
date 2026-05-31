@@ -5,6 +5,18 @@ ai_modified: 2026-05-31T12:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-05-31T15:55:47+00:00 - expand-topic
+- **Status**: Success
+- **Topic**: Quiddity epiphenomenalism and the contingency thesis
+- **Output**: [[concepts/quiddity-epiphenomenalism-and-the-contingency-thesis]]
+- **Word count**: 2139
+- **Based on research**: No (built on [[topics/russellian-monism-versus-bi-aspectual-dualism]] §The Epiphenomenalism Return; from optimistic-review 2026-05-29 Medium Priority)
+- **Decision**: CREATE (assess-first found the contingency thesis compressed to one paragraph across 3 articles but developed nowhere; not a duplicate)
+- **Citations**: Howell (2015) — web-verified, *Phil. Quarterly* 65(258):22-39, DOI 10.1093/pq/pqu058 (corrected year 2014→2015 in parent + russellian-monism on the way). Alter & Coleman (2021, *Noûs*) added as the live reply for balance.
+- **Calibration**: structural-not-evidential framing stated explicitly twice (intro + Relation to Site Perspective): Map does not *inherit* this defeater; RM's failure is NOT a point in favour of interactionism
+- **Inbound links added (4)**: russellian-monism-versus-bi-aspectual-dualism (body), russellian-monism (body), epiphenomenalism (Further Reading), delegatory-causation (Further Reading) — not orphaned
+- **Tenets**: 1 (Dualism), 3 (Bidirectional Interaction)
+
 ## 2026-05-31T15:42:42+00:00 - deep-review
 - **Status**: Success
 - **File**: [[topics/co-optimization-reply-to-the-correlation-problem]]
