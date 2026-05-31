@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-04-05
-ai_modified: 2026-04-23 21:22:00+00:00
-ai_system: claude-opus-4-7
+ai_modified: 2026-05-31 00:00:00+00:00
+ai_system: claude-opus-4-8
 author: null
 coalesced_from:
 - /voids/phenomenal-presence-void/
@@ -22,7 +22,7 @@ description: Consciousness stamps all experience—whether of present objects or
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-04-23 21:22:00+00:00
+last_deep_review: 2026-05-31 00:00:00+00:00
 modified: *id001
 related_articles:
 - '[[voids]]'
@@ -77,11 +77,11 @@ This generates a deeper problem than ordinary [introspective opacity](/voids/sel
 
 ### Neural Evidence
 
-Neuroscience confirms the brain actively generates responses to what is not there. Lao-Rodríguez et al. (2023) found neurons respond reliably to omitted tones, with larger responses in awake versus anaesthetised animals. Nitzan and Buzsáki (2025) demonstrated that omission responses are distributed across brain-wide regions—there is no single location where consciousness could observe the mechanism at work, making introspective access even less plausible.
+Neuroscience confirms the brain actively generates responses to what is not there. Lao-Rodríguez et al. (2023) found neurons respond reliably to omitted tones, with larger responses in awake versus anaesthetised animals. Nitzan and Buzsáki (2025) found that omitted visual stimuli elicit no clear response in visual cortex itself, yet a minority of cells in nonvisual areas — hippocampus and subcortical circuits — fire at the moment of omission. There is no single location where consciousness could observe the mechanism at work.
 
 ### Cross-Modal Generality
 
-Absence perception operates across vision, audition, touch, and social cognition with the same expectation-mismatch structure (Cavedon-Taylor, 2017). Whatever generates phenomenal quality operates below any particular sensory channel — shared across all, hidden from all.
+Absence perception spans vision, audition, and touch — Cavedon-Taylor (2017) extends it to the tactual case of a tooth felt as missing, while pressing that no single expectation-mismatch model fits every modality cleanly. Whatever generates phenomenal quality operates below any particular sensory channel — shared across all, hidden from all.
 
 Sellars's critique of the "Myth of the Given" sharpens the problem: experience presents itself as immediate — simply given — but its actual structure involves conceptual mediation at every level (extended by McDowell, 1994). The felt character of experience systematically misrepresents its own epistemic structure.
 
@@ -97,11 +97,11 @@ There may be a principled reason for the concealment. If each perception carried
 
 ### Depersonalization and Derealization
 
-Depersonalization patients report the world appears "behind glass," "two-dimensional." Visual acuity is normal — what is absent is not perceptual content but its quality of mattering. The reality-feeling has withdrawn while givenness persists. Patients report: "I know it's real but it doesn't feel real" — demonstrating that reality-feeling is independent of belief. Billon (2024) raises whether depersonalization represents a delusion or an insight — were these patients malfunctioning, or seeing through the reality-stamp to something normally concealed?
+Depersonalization patients report the world appears "behind glass," "two-dimensional" (Sass and Pienkos, 2013). Visual acuity is normal — what is absent is not perceptual content but its quality of mattering. The reality-feeling has withdrawn while givenness persists. Patients report: "I know it's real but it doesn't feel real" — demonstrating that reality-feeling is independent of belief. Billon (2024) raises whether depersonalization represents a delusion or an insight — were these patients malfunctioning, or seeing through the reality-stamp to something normally concealed?
 
 ### Dreams
 
-During dreams, fabricated content carries full phenomenal quality with no external stimulus. Only upon waking does the dream's presence dissolve — replaced by the waking world's presence, which we trust completely, having just been deceived by the same mechanism moments ago.
+During dreams, fabricated content carries full phenomenal quality with no external stimulus. Only upon waking does the dream's presence dissolve — replaced by the waking world's presence, which we trust completely, having just been deceived by the same mechanism.
 
 ### Psychedelic States
 

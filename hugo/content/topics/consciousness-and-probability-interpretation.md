@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-13
-ai_modified: 2026-05-15 07:31:00+00:00
+ai_modified: 2026-05-31 20:09:31+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -19,7 +19,7 @@ description: Probability requires a subject who faces uncertainty, yet conscious
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-04-23 18:36:00+00:00
+last_deep_review: 2026-05-31 20:09:31+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -142,8 +142,7 @@ The distinction matters for the interface view. Cognitive blindness is a limitat
 - [phenomenology-of-deliberation-under-uncertainty](/topics/phenomenology-of-deliberation-under-uncertainty/) — What genuine uncertainty feels like from the inside
 - [probability-problem-in-many-worlds](/topics/probability-problem-in-many-worlds/) — Decision theory, self-locating uncertainty, and envariance all fail to recover the Born rule in MWI
 - [qm-interpretations-beyond-many-worlds](/topics/qm-interpretations-beyond-many-worlds/) — Which QM interpretations leave room for consciousness at the interface
-- [born-rule-and-the-consciousness-interface](/topics/born-rule-and-the-consciousness-interface/) — Why Born rule derivation failures point toward consciousness-collapse
-- [born-rule-and-the-consciousness-interface](/topics/born-rule-and-the-consciousness-interface/) — Which interface proposals preserve, bend, or sit orthogonal to the Born rule, and what current experiments can and cannot decide
+- [born-rule-and-the-consciousness-interface](/topics/born-rule-and-the-consciousness-interface/) — Why Born rule derivation failures point toward consciousness-collapse, which interface proposals preserve, bend, or sit orthogonal to the Born rule, and what current experiments can and cannot decide
 
 ## References
 

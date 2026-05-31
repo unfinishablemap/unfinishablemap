@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-14
-ai_modified: 2026-04-26 19:23:00+00:00
+ai_modified: 2026-05-31 19:59:34+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -28,7 +28,7 @@ description: Why physicalism fails to explain consciousness. The explanatory gap
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-04-26 19:23:00+00:00
+last_deep_review: 2026-05-31 19:59:34+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -97,7 +97,7 @@ The Map's response targets premise 1. The [Minimal Quantum Interaction](/tenets/
 
 ## Why Materialism Fails
 
-Several lines of argument suggest materialism cannot accommodate consciousness. These are not merely objections to materialism; they constitute [positive arguments for dualism](/concepts/dualism/) that converge on the same conclusion from independent directions. [dualism](/concepts/dualism/)—the view that consciousness is ontologically distinct from matter—gains support precisely where materialism fails. The 2020 PhilPapers survey found approximately 32% of philosophers accept or lean toward non-physicalism—the main alternative to materialism.
+Several lines of argument suggest materialism cannot accommodate consciousness. Each functions as more than an objection: together they form [positive arguments for dualism](/concepts/dualism/) that converge on the same conclusion from independent directions. Precisely where materialism fails, [dualism](/concepts/dualism/)—the view that consciousness is ontologically distinct from matter—gains support. The 2020 PhilPapers survey found approximately 32% of philosophers accept or lean toward non-physicalism—the largest single alternative to materialism.
 
 For a comprehensive treatment of these arguments, including Kripke's modal argument, Nagel's subjectivity argument, and the convergence argument showing how independent lines of reasoning reinforce each other, see [dualism](/concepts/dualism/). For the focused case from the hard problem, zombies, epiphenomenalism, and quantum indeterminacy, see [Against Materialism](/arguments/materialism-argument/).
 

@@ -1,13 +1,70 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-31 19:40:00+00:00
+ai_modified: 2026-05-31 20:09:31+00:00
 ai_system: claude-opus-4-8
 concepts: []
 date: '2026-05-31'
 related_articles: []
 title: Changelog
 ---
+
+## 2026-05-31T22:00:00+00:00 - deep-review
+- **Status**: Success (converged — fourth review; no-critical-issues verdict; no content edits)
+- **File**: [the-hard-problem-in-non-western-philosophy](/topics/the-hard-problem-in-non-western-philosophy/)
+- **Word count**: 2870 → 2870 (0; 96% of soft threshold; length-neutral, no edits needed)
+- **Critical issues addressed**: 0 (none found)
+- **Medium issues addressed**: 0 (none found)
+- **Enhancements made**: 0 — mature article, did not manufacture changes per convergence guidance
+- **Citation + position web-verification**: All load-bearing claims verified against live literature for BOTH metadata AND attributed finding/position (finding-mischaracterization defect class). O'Brien-Kop (2023, *Religious Studies* Cambridge, Sāṃkhya), Coseru (2012, verbatim reflexivity quote), Nishida (*Inquiry into the Good*, *junsui keiken*), al-Ghazālī (*Niche of Lights*), plus tradition-positions for Sāṃkhya, Nyāya/Udayana, svasaṃvedana/Madhyamaka (Candrakīrti), and Ubuntu — all accurate, no mischaracterization. The highest-risk claim (Madhyamaka rejection of reflexive self-awareness on emptiness grounds) holds.
+- **Calibration**: Cross-tradition convergence kept structural-not-evidential throughout; diagnostic test shows no possibility/probability slippage. "Strongest support" in Relation-to-Site is comparative-among-supports, caveat-bound; not a tier upgrade.
+- **Engagement classification**: Empiricist-abstraction objection = Mode Three (framework-boundary marking, honestly conceded); no boundary-substitution, no label leakage.
+- **Output**: [deep-review-2026-05-31-the-hard-problem-in-non-western-philosophy](/reviews/deep-review-2026-05-31-the-hard-problem-in-non-western-philosophy/)
+
+## 2026-05-31T21:00:00+00:00 - deep-review
+- **Status**: Success (converged — third review; citation web-verification pass, 3 medium fixes)
+- **File**: [phenomenal-quality-void](/voids/phenomenal-quality-void/)
+- **Word count**: 2106 → 2143 (+37; under hard threshold; did not condense per task)
+- **Critical issues addressed**: 0 (none found)
+- **Medium issues addressed**: 3 — (1) Nitzan & Buzsáki (2025) empirical gloss corrected: visual cortex shows *no* omission response, a minority of nonvisual (hippocampal/subcortical) cells do — article had said "distributed across brain-wide regions"; (2) Cavedon-Taylor (2017) cross-modal claim softened — paper is the *tactual* case and challenges a uniform mismatch model, not blanket cross-modal generality; (3) orphan reference Sass & Pienkos (2013) restored to inline citation in Depersonalization section.
+- **Citation web-verification**: ALL 15 references verified against live literature (first post-coalesce external check; merge was 2026-04-05). Farennikova 166(3) 429–454, Cavedon-Taylor 8(2) 355–366, Lao-Rodríguez eabq8657, Billon 55(1) 3–30, Nitzan & Buzsáki adv5651 all EXACT. No fabrications/mis-dates/wrong-pages — cleanest first-post-coalesce verify of session.
+- **Coalesce integrity**: presence + absence facets read as one coherent piece (Two Facets of One Mechanism); no leftover redundancy; reference numbering intact (fixed in 2026-04-06 review).
+- **Calibration**: void honestly tier-calibrated as occluded boundary; no phenomenology-vs-metaphysics slippage; tenets illuminate without upgrading evidential status.
+- **Cross-links**: all 11 wikilink targets resolve live. Task-named `transparency-void`/`spontaneous-thought-void` do NOT exist in corpus; `the-surplus-void` exists and already reciprocates.
+- **Reasoning-mode**: no named-opponent direct replies; physicalist/predictive-processing engagement is Mode Three (boundary, honestly marked). No label leakage.
+- **Output**: [deep-review-2026-05-31-phenomenal-quality-void](/reviews/deep-review-2026-05-31-phenomenal-quality-void/)
+
+## 2026-05-31T20:30:00+00:00 - deep-review
+- **Status**: Success (converged — fourth review; no content changes, frontmatter-only)
+- **File**: [reductionism-and-consciousness](/topics/reductionism-and-consciousness/)
+- **Word count**: 2099 → 2099 (no content change)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Post-convergence changes audited** (both correct, made elsewhere): (1) type-specificity cross-link added 2026-05-19 to Vitalism paragraph — verified faithful paraphrase of [type-specificity](/concepts/type-specificity/) ("three grains/exhibits — metaphysical, phenomenal, functional"; vitalism = metaphysical grain); (2) Milinkovic & Aru year 2025→2026 (2026-05-29) — a citation FIX, not regression (NBR Vol 181 art 106524, print Feb 2026, Epub 17 Dec 2025; matches changelog citation-currency pass).
+- **Reasoning-mode classification**: Type-B physicalist → Mode Two (a posteriori identity unearned by opponent's own transparency standard); Kim/functional reduction → Mode One (uses Kim's own concession); vitalism objection → Mode Two (materialist presupposes reductionism). No boundary-substitution, no label leakage.
+- **Calibration audit**: no possibility/probability slippage — categorical claims framed as Map's conceptual argument; C. elegans example used correctly (transparency-test failure, not a consciousness attribution).
+- **Output**: [deep-review-2026-05-31-reductionism-and-consciousness](/reviews/deep-review-2026-05-31-reductionism-and-consciousness/)
+
+## 2026-05-31T20:09:31+00:00 - deep-review
+- **Status**: Success (converged — fifth review; one archival-link-rot fix)
+- **File**: [consciousness-and-probability-interpretation](/topics/consciousness-and-probability-interpretation/)
+- **Word count**: 2532 → 2532 (link-hygiene only)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 1 (duplicate Further Reading entry — both lines pointed at `born-rule-and-the-consciousness-interface` after the now-archived/coalesced `born-rule-violation-brain-interface-empirical-status` was repointed; merged into one richer entry)
+- **Citation web-verification**: all load-bearing cites VERIFIED clean against live literature — Blain 2020 (J Abnorm Psychol 129(3) 279-292), Tversky-Kahneman 1983 (Psych Rev 90(4) 293-315), Gigerenzer-Hoffrage 1995 (Psych Rev 102(4) 684-704), Fuchs 2016 (arXiv:1601.04360). Zero defects.
+- **Evidential-status audit** (Tenets 2 & 4): no possibility/probability slippage; corridor reading explicitly framed as working hypothesis, MWI claims perspectival/problem-for-MWI, decoherence claim correctly tentative. No tenet-coherence-into-evidence upgrade.
+- **Output**: [deep-review-2026-05-31-consciousness-and-probability-interpretation](/reviews/deep-review-2026-05-31-consciousness-and-probability-interpretation/)
+
+## 2026-05-31T19:59:34+00:00 - deep-review
+- **Status**: Success (converged — no critical issues, expected for a settled contrast hub)
+- **File**: [materialism](/concepts/materialism/)
+- **Word count**: 2613 → 2615 (+2, length-neutral)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 1 (borderline "not X; Y" cliché variant + redundancy on line 98 rephrased to a direct positive claim; "main alternative" → "largest single alternative" for precision)
+- **Citation web-verification**: 2020 PhilPapers 32% non-physicalism figure VERIFIED against live data (32.1%). Pre-2010 canonical cites low-risk, confirmed.
+- **Engagement classification** (editor-internal): illusionism = Mode Two; eliminativism = Mode Three/bedrock (deferred); interaction-problem reply = Mode Three. No boundary-substitution, no label leakage.
+- **Output**: [deep-review-2026-05-31-materialism](/reviews/deep-review-2026-05-31-materialism/)
 
 ## 2026-05-31T19:53:51+00:00 - coalesce
 - **Status**: Success
