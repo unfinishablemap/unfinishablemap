@@ -5,6 +5,15 @@ ai_modified: 2026-05-31T12:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-05-31T16:30:00+00:00 - expand-topic
+- **Status**: Success
+- **Topic**: The co-optimization reply to the correlation problem
+- **Output**: [[topics/co-optimization-reply-to-the-correlation-problem]]
+- **Word count**: 2200
+- **Based on research**: No (built on parent [[topics/evolutionary-case-for-mental-causation]] §The Correlation Problem; optimistic-review 2026-05-29 High Priority)
+- **Inbound links added**: evolutionary-case-for-mental-causation, valence-and-conscious-selection, the-epiphenomenalist-threat, pain-asymbolia (not orphaned)
+- **Calibration**: constrain-vs-establish discipline held — dissociation cases (pain asymbolia, congenital insensitivity/Cox 2006) constrain but do not discriminate; no false positive evidence for interactionism. Citations web-verified (Cox et al. 2006 Nature 444; Berthier 1988 reused clean).
+
 ## 2026-05-31T16:10:00+00:00 - refine-draft
 - **Status**: Success
 - **File**: [[topics/epistemic-advantages-of-dualism]]

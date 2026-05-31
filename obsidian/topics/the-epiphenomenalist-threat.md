@@ -4,7 +4,7 @@ description: "Epiphenomenalism isn't just one view among many—it's the default
 created: 2026-02-22
 modified: 2026-04-30
 human_modified:
-ai_modified: 2026-05-27T19:34:11+00:00
+ai_modified: 2026-05-31T00:00:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -193,6 +193,7 @@ The Map's framework provides all three elements needed for escape: acknowledgmen
 - [[decoherence]] — The decoherence objection to quantum consciousness
 - [[interactionist-dualism]] — The Map's positive framework
 - [[evolutionary-case-for-mental-causation]] — Why evolution requires consciousness to be causally efficacious
+- [[co-optimization-reply-to-the-correlation-problem]] — The strongest epiphenomenalist answer to why valence tracks fitness, and why it survives the dissociation evidence
 - [[clinical-neuroplasticity-evidence-for-bidirectional-causation]] — Intentional mental activity reshaping neural architecture
 - [[content-specificity-of-mental-causation]] — Systematic mapping between meaning and physical effect
 - [[ai-epiphenomenalism]] — Nature-coupling distinction and its consequences for machine minds

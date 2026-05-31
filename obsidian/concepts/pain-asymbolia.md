@@ -4,7 +4,7 @@ description: "Pain asymbolia dissociates nociceptive sensation from affective su
 created: 2026-02-15
 modified: 2026-05-18
 human_modified:
-ai_modified: 2026-05-29T00:00:00+00:00
+ai_modified: 2026-05-31T00:00:00+00:00
 draft: false
 topics:
   - "[[pain-consciousness-and-causal-power]]"
@@ -108,6 +108,7 @@ Together, these dissociations show that pain's dimensions can be independently m
 - [[blindsight]] — A parallel clinical dissociation supporting dualism
 - [[concepts/epiphenomenalism]] — The view that consciousness has no causal efficacy
 - [[valence-and-conscious-selection]] — How asymbolia evidence bears on whether valence participates in selection
+- [[co-optimization-reply-to-the-correlation-problem]] — Why the dissociation cases constrain but do not discriminate between co-optimization and interactionism
 
 ## References
 
