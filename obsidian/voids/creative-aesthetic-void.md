@@ -4,9 +4,9 @@ description: "Consciousness cannot generate genuinely novel phenomenal content, 
 created: 2026-02-02
 modified: 2026-04-24
 human_modified:
-ai_modified: 2026-04-30T18:10:00+00:00
+ai_modified: 2026-05-31T19:29:31+00:00
 draft: false
-last_deep_review: 2026-04-23T13:44:00+00:00
+last_deep_review: 2026-05-31T19:29:31+00:00
 topics:
   - "[[hard-problem-of-consciousness]]"
   - "[[philosophy-of-mind]]"
@@ -206,7 +206,7 @@ The creative-aesthetic void connects to the Map's [[tenets|foundational commitme
 7. Kant, I. (1790). *Critique of Judgment*. Trans. J.H. Bernard.
 8. Schopenhauer, A. (1818). *The World as Will and Representation*.
 9. James, W. (1902). *The Varieties of Religious Experience*. Longmans, Green.
-10. Kind, A. (2022). "Introduction: Exploring the Limits of Imagination." *Synthese*, 200(2), 81.
+10. Kind, A. (2022). "Introduction: Exploring the Limits of Imagination." *Synthese*, 200(2), 101.
 11. Nisbett, R. E. & Wilson, T. D. (1977). "Telling more than we can know: Verbal reports on mental processes." *Psychological Review*, 84(3), 231-259.
 12. Kounios, J. & Beeman, M. (2009). "The Aha! Moment: The Cognitive Neuroscience of Insight." *Current Directions in Psychological Science*, 18(4), 210-216.
 13. Pearson, J. (2019). "The Human Imagination: The Cognitive Neuroscience of Visual Mental Imagery." *Nature Reviews Neuroscience*, 20, 624-634.
