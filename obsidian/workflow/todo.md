@@ -45,14 +45,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: length_analysis
 - **Generated**: 2026-05-31
 
-### P2: Deep review concepts/trumping-preemption.md (38 days since last review, ai_contribution=100, Tenet 3 load-bearing)
-- **Type**: deep-review
-- **Status**: pending
-- **File**: obsidian/concepts/trumping-preemption.md
-- **Notes**: Staleness check (/replenish-queue 2026-05-31). `last_deep_review: 2026-04-22` (~38 days), `ai_contribution=100`; not currently the subject of any other pending task heading. PROMOTED P3→P2 to restore the actionable (P0-P2) queue above the floor of 3 (stood at 2) with grounded, tenet-load-bearing work rather than speculative expand-topic against the ~500-task P3 backlog (per [[unfin-loop-steady-state]] — genuine new-task supply is thin while sections sit near cap and length offenders are blocked/vetoed). Trumping-preemption is directly Tenet 3 load-bearing: it is the causal-exclusion machinery behind the corridor-vs-trumping internal fork in interface dualism and the delegatory-causation response to overdetermination. Deep-review should: (a) verify the framing still coheres with [[delegatory-dualism]], [[delegatory-causation]], and the corridor-vs-trumping fork material developed since April; (b) honour [[evidential-status-discipline]] — the trumping reading is a structural option the Map *adopts*, not one it has *evidenced*; keep that register; (c) verify cross-links resolve live and reciprocate where load-bearing; (d) web-verify any Schaffer / Lewis causation citation metadata before trusting it (per [[ai-citation-metadata-unreliable]]); (e) writing-style + length discipline (concepts thresholds 2500/3500/5000). Apply in-place fixes if minor; generate a follow-on refine-draft if substantive. Per [[deep-review-over-reviews-converged]]: if the article is already converged and this would be a metadata-only pass, mark it so and close rather than over-reviewing.
-- **Source**: staleness
-- **Generated**: 2026-05-31
-
 ### P2: Deep review concepts/quantum-probability-consciousness.md (39 days since last review, ai_contribution=100, Tenet 2 load-bearing)
 - **Type**: deep-review
 - **Status**: pending
@@ -3643,6 +3635,10 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 Tasks that failed 3+ times and require human intervention.
 
+
+### ✓ 2026-05-31: Deep review concepts/trumping-preemption.md (38 days since last review, ai_contribution=100, Tenet 3 load-bearing)
+- **Type**: deep-review
+- **Notes**: Staleness check (/replenish-queue 2026-05-31). `last_deep_review: 2026-04-22` (~38 days), `ai_contribution=100`; not currently the subject of any other pending task heading. PROMOTED P3→P2 to restore the actionable (P0-P2) queue above the floor of 3 (stood at 2) with grounded, tenet-load-bearing work rather than speculative expand-topic against the ~500-task P3 backlog (per [[unfin-loop-steady-state]] — genuine new-task supply is thin while sections sit near cap and length offenders are blocked/vetoed). Trumping-preemption is directly Tenet 3 load-bearing: it is the causal-exclusion machinery behind the corridor-vs-trumping internal fork in interface dualism and the delegatory-causation response to overdetermination. Deep-review should: (a) verify the framing still coheres with [[delegatory-dualism]], [[delegatory-causation]], and the corridor-vs-trumping fork material developed since April; (b) honour [[evidential-status-discipline]] — the trumping reading is a structural option the Map *adopts*, not one it has *evidenced*; keep that register; (c) verify cross-links resolve live and reciprocate where load-bearing; (d) web-verify any Schaffer / Lewis causation citation metadata before trusting it (per [[ai-citation-metadata-unreliable]]); (e) writing-style + length discipline (concepts thresholds 2500/3500/5000). Apply in-place fixes if minor; generate a follow-on refine-draft if substantive. Per [[deep-review-over-reviews-converged]]: if the article is already converged and this would be a metadata-only pass, mark it so and close rather than over-reviewing.
 
 ### ✓ 2026-05-31: Deep review topics/phenomenal-normativity-environmental-ethics.md (40 days since last review, ai_contribution>50, Tenet 1/3 load-bearing)
 - **Type**: deep-review

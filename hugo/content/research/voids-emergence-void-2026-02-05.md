@@ -215,7 +215,7 @@ Based on this research, a voids article could:
 
 - Broad, C.D. (1925). *The Mind and Its Place in Nature*. Routledge & Kegan Paul.
 - Chalmers, D.J. (2006). "Strong and Weak Emergence." In P. Clayton & P. Davies (Eds.), *The Re-Emergence of Emergence*. Oxford University Press.
-- Chalmers, D.J. (2016). "The Combination Problem for Panpsychism." In G. Brüntrup & L. Jaskolla (Eds.), *Panpsychism*. Oxford University Press.
+- Chalmers, D.J. (2017). "The Combination Problem for Panpsychism." In G. Brüntrup & L. Jaskolla (Eds.), *Panpsychism*. Oxford University Press.
 - James, W. (1890/1981). *The Principles of Psychology*. Harvard University Press.
 - Kim, J. (1998). *Mind in a Physical World*. MIT Press.
 - McGinn, C. (1989). "Can We Solve the Mind-Body Problem?" *Mind*, 98: 349-366.

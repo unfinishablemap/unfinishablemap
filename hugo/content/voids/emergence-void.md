@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-05
-ai_modified: 2026-05-26 00:32:31+00:00
+ai_modified: 2026-05-31 00:00:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -128,7 +128,7 @@ The hard problem, reframed through the emergence void, is not a puzzle unique to
 ## References
 
 1. Broad, C.D. (1925). *The Mind and Its Place in Nature*. Routledge & Kegan Paul.
-1. Chalmers, D.J. (2016). "The Combination Problem for Panpsychism." In G. Bruntrup & L. Jaskolla (Eds.), *Panpsychism*. Oxford University Press.
+1. Chalmers, D.J. (2017). "The Combination Problem for Panpsychism." In G. Bruntrup & L. Jaskolla (Eds.), *Panpsychism*. Oxford University Press.
 1. James, W. (1890/1981). *The Principles of Psychology*. Harvard University Press.
 1. Kim, J. (1998). *Mind in a Physical World*. MIT Press.
 1. McGinn, C. (1989). "Can We Solve the Mind-Body Problem?" *Mind*, 98: 349-366.

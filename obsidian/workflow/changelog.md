@@ -5,6 +5,17 @@ ai_modified: 2026-05-31T00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-05-31T00:00:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [[concepts/trumping-preemption]]
+- **Word count**: 2272 → 2272 (~0; length-neutral, under soft threshold)
+- **Critical issues addressed**: 2 (1 misattribution: AJP-2024 "Mental Causation for Standard Dualists" is **Vaassen**, not Saad — verified vs publisher + PhilPapers + Saad's CV; rewrote body two-paper arc to split Vaassen-2024 preemption defence from Saad-2025 delegatory dualism, fixed ref #11. 1 metadata defect cluster: Bernstein "A Closer Look at Trumping" → *Acta Analytica* **30(1)**:41–57 (**2015**) not vol 29/2014; Bernstein "Causally Insensitive Events" → *Philosophia* **42(4)**:935–948 (**2014**) not vol 44/381–394/2016 — both verified vs Bernstein's CV; in-text year cites reconciled.)
+- **Citations verified clean**: Schaffer 2000 (J.Phil 97:165–181, namesake), Hitchcock 2011 (Synthese 181:227–240), Saad 2025 (Phil.Studies 182:939–967).
+- **Calibration (Tenet 3)**: PASS, no edits — article already states compatibility-not-support discipline explicitly ("shows *how* … does not show … *warranted*"; "response to a live objection rather than a refutation"); no tenet-coherence evidential-upgrade present.
+- **Root-first fix**: same Saad→Vaassen + Bernstein metadata corrected in `research/trumping-preemption-mental-causation-2026-04-22.md`; Vaassen named in `research/brain-specialness-boundary-2026-01-15.md` (two prior author-less mentions). Corpus grep confirms no other file carried the Saad-2024 misattribution.
+- **Convergence**: article was already converged (1st review 2026-04-22 found no critical issues); this pass was a pure citation-currency catch — the misattribution survived the first deep review + a 2026-05-27 touch because intra-corpus cross-check propagated it via the research note. Only live web-verify caught it (per [[ai-citation-metadata-unreliable]]).
+- **Output**: [[reviews/deep-review-2026-05-31-trumping-preemption]]
+
 ## 2026-05-31T00:00:00+00:00 - optimistic-review
 - **Status**: Success
 - **Content reviewed**: `topics/invertebrate-consciousness-as-interface-test.md` (ai_contribution=100, ai_modified today, Tenets 1/2/3 load-bearing). Diagnostic test PASSED — Process Philosopher and Hardline Empiricist praise the same passages (universal-coupling response, lines 103-107); no possibility/probability slippage. Article reaches the panpsychism-adjacent universal-coupling reading without any tenet-driven evidential tier-upgrade (NYD "realistic possibility" language quoted, not laundered). One concrete opportunity: octopus trilemma cross-link gap to existing phenomenal-unity machinery (`unity-of-consciousness`, `quantum-holism-and-phenomenal-unity`) — filed as P3 refine-draft (integration, no calibration concern, no new page).

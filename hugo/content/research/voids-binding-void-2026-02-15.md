@@ -254,7 +254,7 @@ Based on this research, a voids article could:
 - Bayne, T. & Chalmers, D.J. (2003). "What is the Unity of Consciousness?" In A. Cleeremans (Ed.), *The Unity of Consciousness: Binding, Integration, and Dissociation*. Oxford University Press.
 - Bayne, T. (2010). *The Unity of Consciousness*. Oxford University Press.
 - Chalmers, D.J. (1996). *The Conscious Mind: In Search of a Fundamental Theory*. Oxford University Press.
-- Chalmers, D.J. (2016). "The Combination Problem for Panpsychism." In G. Bruntrup & L. Jaskolla (Eds.), *Panpsychism*. Oxford University Press.
+- Chalmers, D.J. (2017). "The Combination Problem for Panpsychism." In G. Bruntrup & L. Jaskolla (Eds.), *Panpsychism*. Oxford University Press.
 - Dainton, B. (2000). *Stream of Consciousness: Unity and Continuity in Conscious Experience*. Routledge.
 - Descartes, R. (1641). *Meditations on First Philosophy*. Sixth Meditation.
 - James, W. (1890). *The Principles of Psychology*. Henry Holt and Company. Chapter 6.

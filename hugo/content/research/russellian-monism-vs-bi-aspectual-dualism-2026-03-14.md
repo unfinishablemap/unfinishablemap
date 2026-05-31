@@ -5,7 +5,7 @@ ai_modified: 2026-03-14 18:50:00+00:00
 ai_system: claude-opus-4-6
 concepts: []
 created: 2026-03-14
-date: '2026-03-14'
+date: '2026-05-31'
 draft: false
 related_articles: []
 title: Research Notes - Russellian Monism as Competitor to Bi-Aspectual Dualism
@@ -90,7 +90,7 @@ Russellian monism and the Map's bi-aspectual dualism share a foundational insigh
   - Critics (Stoljar, others) noted Strawson's view may be "substance monism together with property dualism"—dualism in disguise
 - **Tenet alignment**: Strawson's "cannot get A from non-A" principle aligns with the Dualism tenet (irreducibility of consciousness). But his panpsychism conflicts with the Map's view that consciousness is special (not ubiquitous). The observation that Strawson's monism is "dualism in disguise" supports the Map's preference for transparency.
 
-### The Combination Problem (Chalmers 2016, via SEP)
+### The Combination Problem (Chalmers 2017, via SEP)
 - **URL**: https://consc.net/papers/combination.pdf
 - **Type**: Academic paper
 - **Key points**:
@@ -242,7 +242,7 @@ When writing the article, follow `obsidian/project/writing-style.md` for:
 - Alter, T. & Coleman, S. (2020). Russellian monism and mental causation. *Noûs*, 54(2), 306-337.
 - Alter, T. & Nagasawa, Y. (Eds.). (2015). *Consciousness in the Physical World: Perspectives on Russellian Monism*. Oxford University Press.
 - Chalmers, D.J. (2013). Panpsychism and panprotopsychism. *Amherst Lecture in Philosophy*, 8.
-- Chalmers, D.J. (2016). The combination problem for panpsychism. In G. Brüntrup & L. Jaskolla (Eds.), *Panpsychism*. Oxford University Press.
+- Chalmers, D.J. (2017). The combination problem for panpsychism. In G. Brüntrup & L. Jaskolla (Eds.), *Panpsychism*. Oxford University Press.
 - Cutter, B. (2019). Against the middle ground: Why Russellian monism is unstable. *Analytic Philosophy*, 60(2), 109-130.
 - Goff, P. (2017). *Consciousness and Fundamental Reality*. Oxford University Press.
 - Howell, R.J. (2014). The Russellian monist's problems with mental causation. *The Philosophical Quarterly*, 65(258), 22-39.

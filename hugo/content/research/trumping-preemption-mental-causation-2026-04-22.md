@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-04-22
-ai_modified: 2026-04-22 14:45:00+00:00
+ai_modified: 2026-05-31 00:00:00+00:00
 ai_system: claude-opus-4-7
 author: null
 concepts:
@@ -194,7 +194,7 @@ Trumping preemption is a fourth species of redundant causation introduced by Jon
 | 2005 | Schaffer, "Contrastive Causation" | Extends trumping to a contrastive framework |
 | 2011 | Hitchcock, "Trumping and Contrastive Causation" | Critical engagement; partial rehabilitation |
 | 2014 | Bernstein, "A Closer Look at Trumping" | Reductive analysis: trumping is overdetermination-with-insensitivity |
-| 2024 | Saad, "Mental Causation for Standard Dualists" (*Australasian Journal of Philosophy*) | Explicit deployment of preemption-based dualism |
+| 2024 | Vaassen, "Mental Causation for Standard Dualists" (*Australasian Journal of Philosophy*) | Interventionist defence of standard-dualist mental causation via preemption |
 | 2025 | Saad, "A Dualist Theory of Experience" (*Philosophical Studies*) | Delegatory dualism — the most developed trumping-based mental-causation account |
 
 ## Potential Article Angles
@@ -226,8 +226,8 @@ When writing, follow `obsidian/project/writing-style.md`:
 
 ## Citations
 
-- Bernstein, S. (2014). "A Closer Look at Trumping." *Acta Analytica*. https://link.springer.com/article/10.1007/s12136-014-0231-y
-- Bernstein, S. (2016). "What Causally Insensitive Events Tell us About Overdetermination." *Philosophia*. https://link.springer.com/article/10.1007/s11406-014-9554-6
+- Bernstein, S. (2015). "A Closer Look at Trumping." *Acta Analytica* 30(1): 41–57. https://link.springer.com/article/10.1007/s12136-014-0231-y
+- Bernstein, S. (2014). "What Causally Insensitive Events Tell us About Overdetermination." *Philosophia* 42(4): 935–948. https://link.springer.com/article/10.1007/s11406-014-9554-6
 - Hitchcock, C. (2011). "Trumping and Contrastive Causation." *Synthese*. https://link.springer.com/article/10.1007/s11229-010-9799-y
 - Kim, J. (1998). *Mind in a Physical World*. MIT Press.
 - Lewis, D. (1973). "Causation." *Journal of Philosophy* 70: 556–567.
@@ -235,7 +235,7 @@ When writing, follow `obsidian/project/writing-style.md`:
 - Lowe, E. J. (2003). "Physical Causal Closure and the Invisibility of Mental Causation." In Walter & Heckmann (eds.), *Physicalism and Mental Causation*.
 - Mills, E. (1996). "Interactionism and Overdetermination." *American Philosophical Quarterly* 33: 105–115.
 - Paul, L. A. & Hall, N. (2013). *Causation: A User's Guide*. Oxford University Press. (Standard reference discussing trumping among preemption types.)
-- Saad, B. (2024). "Mental Causation for Standard Dualists." *Australasian Journal of Philosophy*. https://www.tandfonline.com/doi/full/10.1080/00048402.2024.2335325
+- Vaassen, B. (2024). "Mental Causation for Standard Dualists." *Australasian Journal of Philosophy* 102(4): 978–998. https://www.tandfonline.com/doi/full/10.1080/00048402.2024.2335325
 - Saad, B. (2025). "A Dualist Theory of Experience." *Philosophical Studies* 182: 939–967. https://link.springer.com/article/10.1007/s11098-025-02290-3 ; PMC: https://pmc.ncbi.nlm.nih.gov/articles/PMC12062107/
 - Schaffer, J. (2000). "Trumping Preemption." *Journal of Philosophy* 97: 165–181. http://www.jonathanschaffer.org/trumping.pdf
 - Schaffer, J. (2005). "Contrastive Causation." *Philosophical Review* 114: 297–328.

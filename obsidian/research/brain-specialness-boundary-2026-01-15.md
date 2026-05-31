@@ -64,7 +64,7 @@ Key quote from Stapp (2015): "In the relativistic quantum field theory proposed 
 
 ### Mental Causation and Locality (2024)
 
-A 2024 paper in Australasian Journal of Philosophy ("Mental Causation for Standard Dualists") examines how dualist mental causation can be defended given recent developments in causation theory. The paper addresses the "local causation" requirement:
+A 2024 paper by Bram Vaassen in Australasian Journal of Philosophy ("Mental Causation for Standard Dualists") examines how dualist mental causation can be defended given recent developments in causation theory. The paper addresses the "local causation" requirement:
 
 **Local Causation Thesis**: "A property F of an event c is causally relevant to property G of event e only if F is an intrinsic property of c."
 
@@ -252,5 +252,5 @@ The brain specialness boundary doesn't violate parsimony—it's what the mechani
 - Stapp, H.P. (2015). The relativistic space-time formulation. https://www-physics.lbl.gov/~stapp/
 - Stanford Encyclopedia of Philosophy. Quantum Approaches to Consciousness.
 - IONS (2024). Theories of Non-local Consciousness: A Review. https://noetic.org/
-- Australasian Journal of Philosophy (2024). Mental Causation for Standard Dualists.
+- Vaassen, B. (2024). Mental Causation for Standard Dualists. *Australasian Journal of Philosophy* 102(4): 978–998.
 - Radin, D. et al. PEAR Lab research summary (1979-2007).

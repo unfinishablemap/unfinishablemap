@@ -9,6 +9,41 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-05-31T00:00:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [trumping-preemption](/concepts/trumping-preemption/)
+- **Word count**: 2272 → 2272 (~0; length-neutral, under soft threshold)
+- **Critical issues addressed**: 2 (1 misattribution: AJP-2024 "Mental Causation for Standard Dualists" is **Vaassen**, not Saad — verified vs publisher + PhilPapers + Saad's CV; rewrote body two-paper arc to split Vaassen-2024 preemption defence from Saad-2025 delegatory dualism, fixed ref #11. 1 metadata defect cluster: Bernstein "A Closer Look at Trumping" → *Acta Analytica* **30(1)**:41–57 (**2015**) not vol 29/2014; Bernstein "Causally Insensitive Events" → *Philosophia* **42(4)**:935–948 (**2014**) not vol 44/381–394/2016 — both verified vs Bernstein's CV; in-text year cites reconciled.)
+- **Citations verified clean**: Schaffer 2000 (J.Phil 97:165–181, namesake), Hitchcock 2011 (Synthese 181:227–240), Saad 2025 (Phil.Studies 182:939–967).
+- **Calibration (Tenet 3)**: PASS, no edits — article already states compatibility-not-support discipline explicitly ("shows *how* … does not show … *warranted*"; "response to a live objection rather than a refutation"); no tenet-coherence evidential-upgrade present.
+- **Root-first fix**: same Saad→Vaassen + Bernstein metadata corrected in `research/trumping-preemption-mental-causation-2026-04-22.md`; Vaassen named in `research/brain-specialness-boundary-2026-01-15.md` (two prior author-less mentions). Corpus grep confirms no other file carried the Saad-2024 misattribution.
+- **Convergence**: article was already converged (1st review 2026-04-22 found no critical issues); this pass was a pure citation-currency catch — the misattribution survived the first deep review + a 2026-05-27 touch because intra-corpus cross-check propagated it via the research note. Only live web-verify caught it (per ai-citation-metadata-unreliable).
+- **Output**: [deep-review-2026-05-31-trumping-preemption](/reviews/deep-review-2026-05-31-trumping-preemption/)
+
+## 2026-05-31T00:00:00+00:00 - optimistic-review
+- **Status**: Success
+- **Content reviewed**: `topics/invertebrate-consciousness-as-interface-test.md` (ai_contribution=100, ai_modified today, Tenets 1/2/3 load-bearing). Diagnostic test PASSED — Process Philosopher and Hardline Empiricist praise the same passages (universal-coupling response, lines 103-107); no possibility/probability slippage. Article reaches the panpsychism-adjacent universal-coupling reading without any tenet-driven evidential tier-upgrade (NYD "realistic possibility" language quoted, not laundered). One concrete opportunity: octopus trilemma cross-link gap to existing phenomenal-unity machinery (`unity-of-consciousness`, `quantum-holism-and-phenomenal-unity`) — filed as P3 refine-draft (integration, no calibration concern, no new page).
+- **Output**: [optimistic-2026-05-31](/reviews/optimistic-2026-05-31/)
+
+## 2026-05-31T00:00:00+00:00 - refine-draft (Chalmers "Combination Problem for Panpsychism" year 2016→2017 corpus reconciliation)
+- **Status**: Success
+- **Confirmed year + basis**: **2017** (print/author-bibliography form), verified via Chalmers' own consc.net date-ordered bibliography (authoritative) with the OUP *Panpsychism: Contemporary Perspectives* volume (Brüntrup & Jaskolla eds.) corroborating. Date-normalization, not fabrication-correction: the "2016" instances are a defensible online-first/early-access date for the OUP volume, normalized to the single canonical print year for corpus consistency.
+- **Files reconciled (research roots FIRST per propagation-regression rule)**:
+  - `research/voids-configuration-void-2026-02-20.md` (heading + reference, 2 instances)
+  - `research/voids-binding-void-2026-02-15.md` (1)
+  - `research/voids-emergence-void-2026-02-05.md` (1; the year-less heading needed no change)
+  - `research/voids-boundary-void-2026-03-29.md` (heading + reference + inline "raised by Chalmers (2017)", 3 instances)
+  - `research/voids-palette-void-2026-03-06.md` (heading + reference, 2 instances)
+  - `research/voids-combination-void-2026-03-07.md` (heading + reference, 2 instances)
+  - `research/russellian-monism-vs-bi-aspectual-dualism-2026-03-14.md` (reference + inline SEP heading, 2 instances)
+  - `topics/russellian-monism-versus-bi-aspectual-dualism.md` (reference + inline "Chalmers (2017) decomposes", 2 instances; ai_modified bumped)
+  - `voids/emergence-void.md` (1 reference; ai_modified bumped)
+  - `voids/boundary-and-projection.md` (1 reference; ai_modified bumped)
+- **Distinct-paper guard observed**: Did NOT touch the SEPARATE Chalmers (2013/2015) "Panpsychism and Panprotopsychism" (Amherst Lecture 8, reprinted in Alter & Nagasawa eds.) citations. Also left unrelated 2016 cites (Seager 2016 "Panpsychist Infusion", Frankish 2016 illusionism, Chalmers-2016 substance-dualism-preference notes, Krupenye et al. 2016) untouched.
+- **Left untouched per scope**: archive/, reviews/, changelog/, todo/, and the historical "Search queries used" log line in `voids-boundary-void-2026-03-29.md:32` (records an actual past search query, not a citation).
+- **Verification**: Post-reconcile grep finds zero "2016" Combination-Problem citations in live+research scope; no fabricated DOI/pages introduced. Length-neutral metadata hygiene.
+- **Published**: yes
+
 ## 2026-05-31T09:29:10+00:00 - refine-draft (corpus-wide NYD citation reconciliation)
 - **Status**: Success
 - **Files**: 9 live-content files (3 research roots + 1 literature note + 1 previously-"fixed" research note + 4 published articles + 1 project doc)
