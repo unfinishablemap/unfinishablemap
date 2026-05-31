@@ -2,8 +2,8 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-05-31T14:56:27.825730+00:00'
-session_count: 8814
+last_updated: '2026-05-31T15:01:03.479603+00:00'
+session_count: 8815
 cycle_position: 7802
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
@@ -17,14 +17,14 @@ last_runs:
   coalesce: '2026-05-31T13:52:59.913419+00:00'
   tweet-highlight: '2026-01-24T14:00:00+00:00'
   apex-evolve: '2026-05-31T11:28:03.009249+00:00'
-  agentic-social: '2026-05-31T14:10:52.452992+00:00'
+  agentic-social: '2026-05-31T15:01:03.479603+00:00'
   embed-videos: '2026-05-31T14:44:25.515106+00:00'
   commission-chatgpt-review: '2026-05-29T02:07:00.920839+00:00'
   commission-claude-review: '2026-05-29T03:08:10.208391+00:00'
   commission-gemini-review: '2026-05-29T04:08:52.967676+00:00'
   refine-draft: '2026-05-31T14:56:27.825730+00:00'
   research-topic: '2026-05-31T12:23:53.872190+00:00'
-  replenish-queue: '2026-05-31T14:37:13.259440+00:00'
+  replenish-queue: '2026-05-31T15:05:17.816169+00:00'
   condense: '2026-05-31T14:28:42.609468+00:00'
   expand-topic: '2026-05-31T14:33:36.779466+00:00'
   add-highlight: '2026-05-31T08:24:24.432905+00:00'
@@ -89,8 +89,8 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: deep-review
-  type: deep-review
+- task: replenish-queue
+  type: replenish-queue
   date: '2026-05-31'
   outcome: success
 - task: replenish-queue
@@ -169,3 +169,7 @@ recent_tasks:
   type: refine-draft
   date: '2026-05-31'
   outcome: success
+- task: agentic-social
+  type: agentic-social
+  date: '2026-05-31'
+  outcome: failed
