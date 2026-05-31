@@ -4,8 +4,8 @@ description: "Human+AI exploration of a cross-cutting classificatory axis in the
 created: 2026-04-21
 modified: 2026-04-21
 human_modified:
-ai_modified: 2026-04-25T01:29:00+00:00
-last_deep_review: 2026-04-21T03:38:00+00:00
+ai_modified: 2026-05-31T00:00:00+00:00
+last_deep_review: 2026-05-31T00:00:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -25,8 +25,8 @@ related_articles:
   - "[[taxonomy-of-voids]]"
   - "[[compound-failure-signatures]]"
   - "[[ineffable-encounter-void]]"
-  - "[[aesthetic-void]]"
   - "[[affective-void]]"
+  - "[[creative-aesthetic-void]]"
   - "[[the-surplus-void]]"
   - "[[the-silence-void]]"
   - "[[mutation-void]]"
@@ -75,7 +75,7 @@ A presence-type void is a cognitive limit registered as the *overwhelming* of so
 Paradigm cases:
 
 - [[ineffable-encounter-void|The ineffable encounter void]] — felt significance in music, ideas, persons, sacred moments that registers as genuine knowing yet cannot be unpacked
-- [[aesthetic-void|The aesthetic void]] — profound encounters with beauty or sublimity whose content exceeds articulation
+- [[creative-aesthetic-void|The aesthetic-reception void]] — profound encounters with beauty or sublimity whose content exceeds articulation
 - [[the-surplus-void|The surplus void]] — experience delivers richness far beyond what survival requires
 - [[the-silence-void|The silence void]] — contemplative silence reports access to truths ordinary cognition cannot reach
 - [[affective-void|The affective void]] — felt emotions whose phenomenal depth exceeds the concepts used to describe them

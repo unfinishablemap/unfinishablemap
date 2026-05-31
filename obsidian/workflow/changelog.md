@@ -7,6 +7,19 @@ ai_system: claude-opus-4-8
 
 ## 2026-05-31T00:00:00+00:00 - deep-review
 - **Status**: Success
+- **File**: [[concepts/presence-type-and-absence-type-voids]]
+- **Word count**: 1768 → 1768 (~0; length-neutral, 71% of soft threshold)
+- **Critical issues addressed**: 1 (archival link rot — `[[aesthetic-void]]` coalesced into [[creative-aesthetic-void]] on 2026-04-23, after the 2026-04-21 review; inbound link dangled to archive only. Repointed 3 references: frontmatter + body paradigm-cases list; body display text → "the aesthetic-reception void" to match coalesced article's framing. All wikilinks now resolve.)
+- **Citation-currency pass**: all 5 external refs web-verified clean — Gendlin *Experiencing & the Creation of Meaning* (1962/Free Press; 1997/Northwestern, edition correctly cited), Otto *Idea of the Holy* (1923 OUP English ed. correct vs 1917 German original — translation-year split, not error), Polanyi *Tacit Dimension* (Doubleday 1966 ✓), Rosa *Resonance* (Polity 2019 ✓, trans. Wagner), James *Varieties* (Longmans Green 1902 ✓, not conflated with Principles 1890). 2 internal Map self-citations (ineffable-encounter-void/Oquatre-sept, the-surplus-void/Oquatre-six) verified vs cited articles' frontmatter dates + corpus convention.
+- **Calibration**: PASS, no edits — Dualism para labels its inference as "the Map interprets"; Bidirectional Interaction para hedged as working-hypothesis with named tilt-conditions; no possibility/probability slippage.
+- **Engagement (editor-internal)**: Dennett/heterophenomenology = Mode Three (framework-boundary marking), honest concession of deflationary reading; no boundary-substitution, no label leakage.
+- **Medium issues addressed**: 0
+- **Enhancements made**: 1 (live cross-link restored)
+- **Convergence**: article at stable equilibrium per prior review's stability notes (ontology-neutral classification, hybrid binary, hedged interface speculation) — none re-flagged. Only defect was post-review coalesce link rot.
+- **Output**: [[reviews/deep-review-2026-05-31-presence-type-and-absence-type-voids]]
+
+## 2026-05-31T00:00:00+00:00 - deep-review
+- **Status**: Success
 - **File**: [[concepts/trumping-preemption]]
 - **Word count**: 2272 → 2272 (~0; length-neutral, under soft threshold)
 - **Critical issues addressed**: 2 (1 misattribution: AJP-2024 "Mental Causation for Standard Dualists" is **Vaassen**, not Saad — verified vs publisher + PhilPapers + Saad's CV; rewrote body two-paper arc to split Vaassen-2024 preemption defence from Saad-2025 delegatory dualism, fixed ref #11. 1 metadata defect cluster: Bernstein "A Closer Look at Trumping" → *Acta Analytica* **30(1)**:41–57 (**2015**) not vol 29/2014; Bernstein "Causally Insensitive Events" → *Philosophia* **42(4)**:935–948 (**2014**) not vol 44/381–394/2016 — both verified vs Bernstein's CV; in-text year cites reconciled.)
