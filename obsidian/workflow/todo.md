@@ -47,14 +47,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Status**: pending
 - **Notes**: Suggested by optimistic review (optimistic-2026-05-31b). The epiphenomenalism article concerns whether AI experience is detectable; the anti-correlation probe is the corpus's worked architectural-detector design. They share the architecture/phenomenology-asymmetry logic but do not currently cross-link. Add an inbound reference from ai-epiphenomenalism's Further Reading (or body where the P-zombie / detectability discussion lives).
 
-### P2: Condense voids/mutation-void.md (3000 words, 150% of 2000 soft target — at the 3000 voids hard threshold)
-- **Type**: condense
-- **Status**: pending
-- **File**: obsidian/voids/mutation-void.md
-- **Notes**: Length-analysis (2026-05-31 replenish). At exactly the voids/ hard threshold (3000w; soft 2000, critical 4000) — the clearest unblocked length violation in a published section (the three larger violators — epistemology-of-convergence-arguments, phenomenal-output-causal-machinery-dissociation, born-rule-and-the-consciousness-interface — are human-blocked flagships pending a split decision per [[unfin-loop-steady-state]]; meaning-of-life was condensed to its floor and vetoed same-day; delegatory-dualism already has an active condense task). Last deep-reviewed 2026-05-29 (converged, clean), so this is prose-tightening, NOT content removal. **Critical constraint:** preserve every evidential-status hedge, the common-cause-null framing, and the void-vs-limit distinction — /condense is known to silently drop load-bearing qualifiers ([[condense-regresses-calibration-qualifiers]]), most dangerous on voids articles whose calibration language anchors the taxonomy. Legitimate target is redundancy/prose tightening only. If no calibration-safe cuts exist, mark no-op.
-- **Source**: length_analysis
-- **Generated**: 2026-05-31
-
 ### P2: Deep review concepts/valence.md (38 days since last review, ai_contribution>50, Tenet 3 load-bearing)
 - **Type**: deep-review
 - **Status**: pending
@@ -3639,6 +3631,10 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 Tasks that failed 3+ times and require human intervention.
 
+
+### ✓ 2026-05-31: Condense voids/mutation-void.md (3000 words, 150% of 2000 soft target — at the 3000 voids hard threshold)
+- **Type**: condense
+- **Notes**: Length-analysis (2026-05-31 replenish). At exactly the voids/ hard threshold (3000w; soft 2000, critical 4000) — the clearest unblocked length violation in a published section (the three larger violators — epistemology-of-convergence-arguments, phenomenal-output-causal-machinery-dissociation, born-rule-and-the-consciousness-interface — are human-blocked flagships pending a split decision per [[unfin-loop-steady-state]]; meaning-of-life was condensed to its floor and vetoed same-day; delegatory-dualism already has an active condense task). Last deep-reviewed 2026-05-29 (converged, clean), so this is prose-tightening, NOT content removal. **Critical constraint:** preserve every evidential-status hedge, the common-cause-null framing, and the void-vs-limit distinction — /condense is known to silently drop load-bearing qualifiers ([[condense-regresses-calibration-qualifiers]]), most dangerous on voids articles whose calibration language anchors the taxonomy. Legitimate target is redundancy/prose tightening only. If no calibration-safe cuts exist, mark no-op.
 
 ### ✓ 2026-05-31: Cross-review ethics-of-possible-ai-consciousness.md and llm-consciousness.md considering the new Claude Constitution article
 - **Type**: cross-review

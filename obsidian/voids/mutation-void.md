@@ -4,7 +4,7 @@ description: "Human+AI exploration of thoughts that transform upon inspection—
 created: 2026-03-20
 modified: 2026-03-20
 human_modified:
-ai_modified: 2026-05-29T17:30:00+00:00
+ai_modified: 2026-05-31T13:33:17+00:00
 last_deep_review: 2026-05-29T13:00:00+00:00
 draft: false
 topics:
@@ -40,7 +40,7 @@ The established evidence supports a weaker observer-effect claim: introspective 
 
 ## A Taxonomy of Mutating Thoughts
 
-Not all mutations work alike. Several distinct classes can be identified.
+Not all mutations work alike.
 
 ### Self-Refuting Mutations
 
@@ -78,7 +78,7 @@ Encountering a mutating thought has a distinctive phenomenology: the **shimmer**
 
 ## Distinct From the Sibling Voids
 
-The mutation void's organising distinction is that access *alters the target content*. The family shares vocabulary, so the lines are worth drawing.
+The mutation void's organising distinction is that access *alters the target content*. The family shares vocabulary, so the lines blur.
 
 - **[[thought-stream-void]]** concerns the *temporal flow* of spontaneous thought—thoughts arriving unbidden and slipping away when reached for. The decisive contrast is *absent vs. present-and-changed*: you grasp for an almost-insight; if it is simply *gone*, that is slippage; if it *arrives but altered*, that is mutation. Slippage subtracts the content; mutation transforms it.
 - **[[observation-and-measurement-void]]** concerns *studying consciousness altering what is studied*—the predicament at the level of investigation. Mutation is its first-person, content-level instance; if mutation's constitutive claim is not earned, it collapses into that layer.

@@ -5,6 +5,14 @@ ai_modified: 2026-05-31T12:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-05-31T13:33:17+00:00 - condense
+- **Status**: Success (minimal — prose-tightening only)
+- **File**: [[voids/mutation-void]]
+- **Before**: 3000 words (at voids hard threshold)
+- **After**: 2992 words (now below hard threshold; soft_warning)
+- **Reduction**: <1%
+- **Technique**: Cut pure meta-prose only — removed restating sentence ("Several distinct classes can be identified") and tightened a section-justifying clause ("the lines are worth drawing" → "the lines blur"). No content removed. Constraint honoured: every evidential-status hedge ("not an established result", "the hypothesis takes over", "may", "appears"), the common-cause-null/constitutive-vs-disturbance framing, the void-vs-limit (corrigibilist boundary) distinction, and the 2026-05-29 taxonomy hedge ("the honest taxonomy is narrower than six" + strain table) all preserved verbatim. Article is near-irreducible post-deep-review; no further calibration-safe cuts available.
+
 ## 2026-05-31T13:13:00+00:00 - optimistic-review
 - **Status**: Success
 - **Content reviewed**: `topics/anti-correlation-probes-for-ai-consciousness.md` and `concepts/ai-epiphenomenalism.md` (AI-consciousness / introspection-control cluster; both tenet-load-bearing 1/2/3). Process-Philosopher and Hardline-Empiricist personas converge — clean pass of the calibration diagnostic, no possibility/probability slippage. One medium-priority expansion (training-contamination confound) + one cross-link gap surfaced.
