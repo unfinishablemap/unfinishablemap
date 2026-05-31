@@ -37,11 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Install altered-state symmetry in topics/time-collapse-and-agency.md
-- **Type**: refine-draft
-- **Status**: pending
-- **Notes**: Pessimistic review 2026-05-31 found a critical altered-state convergence double-count in the Contemplative Evidence section. Supportive-cluster items cited as independent confirmations: contemplative cessation / nirodha-samāpatti, jhāna phenomenology, witness consciousness. Disruptive-cluster items missing entirely: anaesthesia, dreamless/slow-wave sleep, persistent vegetative state, dementia/neurodegeneration. Per Altered-State Symmetry (Audit Two of project/calibration-audit-triple): the supportive cluster carries the evidential weight of ONE pattern, not several. Install a symmetry paragraph that (a) explicitly names the cluster as one move not N confirmations, (b) engages ≥1 disruptive case and notes production/non-constitutive theories have the same "suspended-process → suspended-flow" move available, (c) cross-links concepts/altered-states-of-consciousness.md and topics/anaesthesia-and-the-consciousness-interface.md where the Map performs this accommodation. Symmetry marker to install (natural language): the cluster "carries the evidential weight of one pattern, not several independent confirmations." Also (secondary, same pass): split the epistemic vs metaphysical readings of the "constitutive priority" move (§Relation to Site Perspective → Dualism; lines ~119, ~227) — the felt future-open/past-fixed asymmetry is experienced-flow evidence, equally predicted without the constitution thesis; reframe the constitution claim as a theoretical/abductive preference, not a phenomenological entailment. See reviews/pessimistic-2026-05-31-time-collapse-and-agency.md.
-
 ### P3: Sharpen decoherence/falsifier precision in topics/time-collapse-and-agency.md
 - **Type**: refine-draft
 - **Status**: pending
@@ -3638,6 +3633,10 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 Tasks that failed 3+ times and require human intervention.
 
+
+### ✓ 2026-05-31: Install altered-state symmetry in topics/time-collapse-and-agency.md
+- **Type**: refine-draft
+- **Notes**: Pessimistic review 2026-05-31 found a critical altered-state convergence double-count in the Contemplative Evidence section. Supportive-cluster items cited as independent confirmations: contemplative cessation / nirodha-samāpatti, jhāna phenomenology, witness consciousness. Disruptive-cluster items missing entirely: anaesthesia, dreamless/slow-wave sleep, persistent vegetative state, dementia/neurodegeneration. Per Altered-State Symmetry (Audit Two of project/calibration-audit-triple): the supportive cluster carries the evidential weight of ONE pattern, not several. Install a symmetry paragraph that (a) explicitly names the cluster as one move not N confirmations, (b) engages ≥1 disruptive case and notes production/non-constitutive theories have the same "suspended-process → suspended-flow" move available, (c) cross-links concepts/altered-states-of-consciousness.md and topics/anaesthesia-and-the-consciousness-interface.md where the Map performs this accommodation. Symmetry marker to install (natural language): the cluster "carries the evidential weight of one pattern, not several independent confirmations." Also (secondary, same pass): split the epistemic vs metaphysical readings of the "constitutive priority" move (§Relation to Site Perspective → Dualism; lines ~119, ~227) — the felt future-open/past-fixed asymmetry is experienced-flow evidence, equally predicted without the constitution thesis; reframe the constitution claim as a theoretical/abductive preference, not a phenomenological entailment. See reviews/pessimistic-2026-05-31-time-collapse-and-agency.md.
 
 ### ✓ 2026-05-31: Research the Claude Constitution and its relation to The Map
 - **Type**: research-topic

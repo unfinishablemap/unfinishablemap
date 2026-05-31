@@ -5,6 +5,16 @@ ai_modified: 2026-05-31T00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-05-31T12:37:13+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[topics/time-collapse-and-agency]]
+- **Changes**:
+  - Issue 1 (critical, altered-state convergence double-count): added a "What this cluster can and cannot establish" paragraph to §Contemplative Evidence naming cessation/jhāna/witness as one move, not three independent confirmations ("carries the evidential weight of one pattern, not several independent confirmations"); engaged the disruptive cluster by name (deep anaesthesia/propofol/xenon, dreamless slow-wave sleep, advanced dementia, PVS, severe brain injury); noted the "suspended-process → suspended-flow" inference is equally available to production/non-constitutive accounts; cross-linked [[concepts/altered-states-of-consciousness]] and [[topics/anaesthesia-and-the-consciousness-interface]] where the Map performs the interface-narrowing accommodation. Sharpened falsifier #4 to flag the elastic interpretation layer and parallel production prediction. Softened "exactly this sequence" → "consistent with this sequence" (line 199).
+  - Issue 2 (medium-high, epistemic→metaphysical equivocation on "constitutive priority"): split the epistemic (asymmetry is experienced) from the metaphysical (consciousness constitutes the arrow) reading at all three inference points — §Phenomenology of Temporal Agency ("We experience duration because we're creating duration" reframed; "sense of possibility narrowing" paragraph), and §Relation to Site Perspective → Dualism. Reframed the explanatory-gap → constitutive-priority escalation as an abductive/theoretical preference (unifies collapse realism + minimal interaction + the arrow) rather than a phenomenological entailment; noted block-universe-indexical and thermodynamic-arrow accounts predict the identical phenomenology.
+  - Fixed wikilink target: [[dementia-and-the-self]] (nonexistent) → [[consciousness-and-neurodegenerative-disease]].
+- **Note**: Issue 3 (Zeno-cadence quantitative gap) left for its separate refine task; the named-opponent engagements (illusionism, MWI, Dennett) were not edited — review confirmed them honest/in-framework. Altered-state symmetry scanner (`tools/curate/altered_state_symmetry.py`) does not gate this article (no explicit filter/transmission framing token), so the discipline was applied by analogy per the pessimistic review rather than to clear a scanner flag.
+- **Published**: yes (draft: false unchanged)
+
 ## 2026-05-31T12:30:00+00:00 - pessimistic-review
 - **Status**: Success
 - **Content reviewed**: topics/time-collapse-and-agency.md (oldest-tier hub article, no prior dedicated pessimistic review)
