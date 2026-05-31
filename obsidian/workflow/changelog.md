@@ -5,6 +5,13 @@ ai_modified: 2026-05-31T00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-05-31T13:00:00+00:00 - check-tenets
+- **Status**: Success
+- **Files checked**: 509 (258 topics, 251 concepts)
+- **Errors**: 0
+- **Warnings**: 0
+- **Output**: [[reviews/tenet-check-2026-05-31]]
+
 ## 2026-05-31T12:30:00+00:00 - deep-review
 - **Status**: Success (near-converged — citation-hygiene + calibration close-out)
 - **File**: [[concepts/stapp-quantum-mind]]
