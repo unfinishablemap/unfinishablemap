@@ -5,6 +5,19 @@ ai_modified: 2026-05-31T00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-05-31T10:58:26+00:00 - deep-review
+- **Status**: Success (near-no-op — convergence confirmed)
+- **File**: [[topics/hard-problem-of-consciousness]]
+- **Word count**: 3342 → 3342 (no change; 111% of 3000 soft, below 4000 hard — length-neutral)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Citation pass**: all refs canonical + corpus-consistent (Levine 1983 *Pac. Phil. Q.* 64(4):354–361; Block 1978 *Minnesota Studies* 9:261–325; McGinn 1989 *Mind* 98(391):349–366; Frankish 2016 *JCS* 23(11–12):11–39; Chalmers 1996, Chalmers & McQueen 2022, Loar 1990/1997, Papineau 2002). Bandwidth ~10 bits/s / 100-million-fold consistent with [[bandwidth-of-consciousness]] (Zheng & Meister 2025). Zero defects, no fabrications.
+- **Calibration (Tenet 1)**: epistemic gap NOT conflated with established ontological dualism — gap framed as motivating, dualist reading deferred to [[dualism]] under Duhem-Quine underdetermination; framework-dependence conceded in-text. No possibility/probability slippage. Diagnostic test passed.
+- **Reasoning modes (editor-internal)**: eliminativism Mode Two (self-undermining, with charitable caveat); illusionism Mode Two (regress from its own burden); PCS Mode Two/mixed (circularity rejoinder); framework-dependence Mode Three (honestly marked). No boundary-substitution. No label leakage (grep-confirmed).
+- **Note**: prior review's pending HTML refinement-log comment already removed — resolved. Only `last_deep_review` updated; `ai_modified` unchanged (no content edits). Recommend future triggers only after substantive edits, not routine staleness.
+- **Output**: [[reviews/deep-review-2026-05-31-hard-problem-of-consciousness]]
+
 ## 2026-05-31T10:45:59+00:00 - refine-draft
 - **Status**: Success
 - **Task**: Corpus-wide archival-link-rot batch repoint — `[[thoughts-that-slip-away]]` → `[[thought-stream-void]]`

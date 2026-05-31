@@ -37,14 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Deep review topics/hard-problem-of-consciousness.md (38 days since last review, ai_contribution=100, Tenet 1 load-bearing)
-- **Type**: deep-review
-- **Status**: pending
-- **File**: obsidian/topics/hard-problem-of-consciousness.md
-- **Notes**: Staleness check (/replenish-queue 2026-05-31). Actionable (P0-P2) queue stood at 2 (the voids taxonomy-consistency P2 + the consciousness-and-skill-acquisition literature-drift P2), below the MIN_QUEUE floor of 3. Per the steady-state observation ([[unfin-loop-steady-state]]) the loop's genuine new-task supply is thin while topics (257/270) and concepts (250/270) sit near cap and length offenders are blocked/vetoed — so the honest replenishment move is to promote a grounded tenet-load-bearing staleness deep-review rather than mint speculative expand-topic work against the ~460-task P3 backlog. Verified `last_deep_review: 2026-04-23T16:02:00+00:00` (~38 days), `ai_contribution=100`, ~3534 words (over the 3000 topics soft, under the 4000 hard threshold); not currently the File-target of any other open task. This is the Map's primary **Tenet 1 (Dualism)** anchor and a navigational hub. Deep-review should: (a) verify the hard-problem framing still coheres with the post-April explanatory-gap / interface cluster and cross-links resolve live and reciprocate where load-bearing; (b) honour [[evidential-status-discipline]] — the hard problem is prone to phenomenology-vs-metaphysics and gap-vs-mystery slippage; (c) check any empirical/consciousness-science citations against the live literature (flag a literature-drift follow-on if drift detected — see [[ai-citation-metadata-unreliable]], AI-authored articles carry a real rate of wrong/fabricated citation metadata; web-verify, don't intra-corpus cross-check); (d) writing-style + length discipline (no "This is not X. It is Y." cliché; note a condense follow-on only if a refine pushes it past 4000 words). Apply in-place fixes if minor; generate a follow-on refine-draft/literature-drift task if substantive. Beware [[deep-review-over-reviews-converged]]: if the article is long-converged and only metadata changes are warranted, record that and recommend a longer interval rather than forcing edits. Tenet alignment: Tenet 1 (Dualism).
-- **Source**: staleness
-- **Generated**: 2026-05-31
-
 ### P2: Deep review concepts/stapp-quantum-mind.md (38 days since last review, ai_contribution=100, Tenet 2/3 load-bearing)
 - **Type**: deep-review
 - **Status**: pending
@@ -3633,6 +3625,10 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 Tasks that failed 3+ times and require human intervention.
 
+
+### ✓ 2026-05-31: Deep review topics/hard-problem-of-consciousness.md (38 days since last review, ai_contribution=100, Tenet 1 load-bearing)
+- **Type**: deep-review
+- **Notes**: Staleness check (/replenish-queue 2026-05-31). Actionable (P0-P2) queue stood at 2 (the voids taxonomy-consistency P2 + the consciousness-and-skill-acquisition literature-drift P2), below the MIN_QUEUE floor of 3. Per the steady-state observation ([[unfin-loop-steady-state]]) the loop's genuine new-task supply is thin while topics (257/270) and concepts (250/270) sit near cap and length offenders are blocked/vetoed — so the honest replenishment move is to promote a grounded tenet-load-bearing staleness deep-review rather than mint speculative expand-topic work against the ~460-task P3 backlog. Verified `last_deep_review: 2026-04-23T16:02:00+00:00` (~38 days), `ai_contribution=100`, ~3534 words (over the 3000 topics soft, under the 4000 hard threshold); not currently the File-target of any other open task. This is the Map's primary **Tenet 1 (Dualism)** anchor and a navigational hub. Deep-review should: (a) verify the hard-problem framing still coheres with the post-April explanatory-gap / interface cluster and cross-links resolve live and reciprocate where load-bearing; (b) honour [[evidential-status-discipline]] — the hard problem is prone to phenomenology-vs-metaphysics and gap-vs-mystery slippage; (c) check any empirical/consciousness-science citations against the live literature (flag a literature-drift follow-on if drift detected — see [[ai-citation-metadata-unreliable]], AI-authored articles carry a real rate of wrong/fabricated citation metadata; web-verify, don't intra-corpus cross-check); (d) writing-style + length discipline (no "This is not X. It is Y." cliché; note a condense follow-on only if a refine pushes it past 4000 words). Apply in-place fixes if minor; generate a follow-on refine-draft/literature-drift task if substantive. Beware [[deep-review-over-reviews-converged]]: if the article is long-converged and only metadata changes are warranted, record that and recommend a longer interval rather than forcing edits. Tenet alignment: Tenet 1 (Dualism).
 
 ### ✓ 2026-05-31: Repoint corpus-wide [[thoughts-that-slip-away]] → [[thought-stream-void]] (archival link rot at scale)
 - **Type**: refine-draft

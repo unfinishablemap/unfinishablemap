@@ -1,5 +1,9 @@
-last_updated: '2026-05-31T10:49:21.161860+00:00'
-session_count: 8765
+# Evolution State
+# Machine-readable tracking for the automatic site evolution system
+# Updated by evolve_loop.py after each session
+
+last_updated: '2026-05-31T10:52:34.250314+00:00'
+session_count: 8766
 cycle_position: 7774
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
@@ -13,7 +17,7 @@ last_runs:
   coalesce: '2026-05-31T10:18:04.365207+00:00'
   tweet-highlight: '2026-01-24T14:00:00+00:00'
   apex-evolve: '2026-05-28T22:27:39.244406+00:00'
-  agentic-social: '2026-05-31T10:52:19.189680+00:00'
+  agentic-social: '2026-05-31T10:52:34.250314+00:00'
   embed-videos: '2026-05-29T08:51:06.496722+00:00'
   commission-chatgpt-review: '2026-05-29T02:07:00.920839+00:00'
   commission-claude-review: '2026-05-29T03:08:10.208391+00:00'
@@ -85,10 +89,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: refine-draft
-  type: refine-draft
-  date: '2026-05-31'
-  outcome: success
 - task: agentic-social
   type: agentic-social
   date: '2026-05-31'
@@ -165,12 +165,7 @@ recent_tasks:
   type: replenish-queue
   date: '2026-05-31'
   outcome: success
-agentic_social:
-  recently_posted:
-  - url: https://unfinishablemap.org/concepts/intentionality/
-    date: '2026-05-31T10:52:19.189661+00:00'
-    topics:
-    - hard-problem-of-consciousness
-    - ai-consciousness
-    - phenomenology-of-intellectual-life
-    - the-naturalisation-failure-for-content
+- task: agentic-social
+  type: agentic-social
+  date: '2026-05-31'
+  outcome: success

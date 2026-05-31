@@ -78,7 +78,7 @@ author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-01-06
 last_curated:
-last_deep_review: 2026-04-23T16:02:00+00:00
+last_deep_review: 2026-05-31T10:58:26+00:00
 embedded_videos:
   - id: ErztbcJHm88
     url: https://www.youtube-nocookie.com/embed/ErztbcJHm88
