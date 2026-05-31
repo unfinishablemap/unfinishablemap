@@ -1,9 +1,19 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-31T19:59:34+00:00
+ai_modified: 2026-05-31T20:09:31+00:00
 ai_system: claude-opus-4-8
 ---
+
+## 2026-05-31T20:09:31+00:00 - deep-review
+- **Status**: Success (converged — fifth review; one archival-link-rot fix)
+- **File**: [[topics/consciousness-and-probability-interpretation]]
+- **Word count**: 2532 → 2532 (link-hygiene only)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 1 (duplicate Further Reading entry — both lines pointed at `born-rule-and-the-consciousness-interface` after the now-archived/coalesced `born-rule-violation-brain-interface-empirical-status` was repointed; merged into one richer entry)
+- **Citation web-verification**: all load-bearing cites VERIFIED clean against live literature — Blain 2020 (J Abnorm Psychol 129(3) 279-292), Tversky-Kahneman 1983 (Psych Rev 90(4) 293-315), Gigerenzer-Hoffrage 1995 (Psych Rev 102(4) 684-704), Fuchs 2016 (arXiv:1601.04360). Zero defects.
+- **Evidential-status audit** (Tenets 2 & 4): no possibility/probability slippage; corridor reading explicitly framed as working hypothesis, MWI claims perspectival/problem-for-MWI, decoherence claim correctly tentative. No tenet-coherence-into-evidence upgrade.
+- **Output**: [[reviews/deep-review-2026-05-31-consciousness-and-probability-interpretation]]
 
 ## 2026-05-31T19:59:34+00:00 - deep-review
 - **Status**: Success (converged — no critical issues, expected for a settled contrast hub)

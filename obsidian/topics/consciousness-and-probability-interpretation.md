@@ -4,7 +4,7 @@ description: "Probability requires a subject who faces uncertainty, yet consciou
 created: 2026-02-13
 modified: 2026-04-24
 human_modified:
-ai_modified: 2026-05-15T07:31:00+00:00
+ai_modified: 2026-05-31T20:09:31+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -31,7 +31,7 @@ author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-02-13
 last_curated:
-last_deep_review: 2026-04-23T18:36:00+00:00
+last_deep_review: 2026-05-31T20:09:31+00:00
 ---
 
 Every interpretation of probability—classical, frequentist, Bayesian, quantum—eventually requires a conscious subject. Someone must be uncertain, someone must observe outcomes, someone must update beliefs. Yet the very consciousness that probability requires turns out to be architecturally ill-suited to probabilistic reasoning. Humans systematically neglect base rates, fall for the conjunction fallacy, and compulsively find patterns in randomness. The Unfinishable Map argues this is not merely a cognitive quirk but a deep clue about how consciousness relates to the physical world: consciousness operates at the interface where indeterminacy resolves into fact, but it accesses that interface through pattern and meaning, not through probability.
@@ -139,8 +139,7 @@ The distinction matters for the interface view. Cognitive blindness is a limitat
 - [[phenomenology-of-deliberation-under-uncertainty]] — What genuine uncertainty feels like from the inside
 - [[probability-problem-in-many-worlds]] — Decision theory, self-locating uncertainty, and envariance all fail to recover the Born rule in MWI
 - [[qm-interpretations-beyond-many-worlds]] — Which QM interpretations leave room for consciousness at the interface
-- [[born-rule-and-the-consciousness-interface]] — Why Born rule derivation failures point toward consciousness-collapse
-- [[born-rule-and-the-consciousness-interface]] — Which interface proposals preserve, bend, or sit orthogonal to the Born rule, and what current experiments can and cannot decide
+- [[born-rule-and-the-consciousness-interface]] — Why Born rule derivation failures point toward consciousness-collapse, which interface proposals preserve, bend, or sit orthogonal to the Born rule, and what current experiments can and cannot decide
 
 ## References
 
