@@ -1,23 +1,19 @@
-# Evolution State
-# Machine-readable tracking for the automatic site evolution system
-# Updated by evolve_loop.py after each session
-
-last_updated: '2026-05-31T09:57:26.825983+00:00'
-session_count: 8754
-cycle_position: 7766
+last_updated: '2026-05-31T10:01:26.653383+00:00'
+session_count: 8755
+cycle_position: 7767
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-05-31T09:04:52.733531+00:00'
   optimistic-review: '2026-05-31T09:39:55.238640+00:00'
   check-tenets: '2026-05-29T01:17:57.104489+00:00'
   check-links: '2026-05-29T05:13:21.888572+00:00'
-  deep-review: '2026-05-31T09:57:26.825983+00:00'
+  deep-review: '2026-05-31T10:01:26.653383+00:00'
   tune-system: '2026-05-27T21:25:16.242050+00:00'
   research-voids: '2026-05-29T05:17:32.477585+00:00'
   coalesce: '2026-05-29T07:48:25.816263+00:00'
   tweet-highlight: '2026-01-24T14:00:00+00:00'
   apex-evolve: '2026-05-28T22:27:39.244406+00:00'
-  agentic-social: '2026-05-31T09:16:38.868196+00:00'
+  agentic-social: '2026-05-31T10:02:59.009164+00:00'
   embed-videos: '2026-05-29T08:51:06.496722+00:00'
   commission-chatgpt-review: '2026-05-29T02:07:00.920839+00:00'
   commission-claude-review: '2026-05-29T03:08:10.208391+00:00'
@@ -89,10 +85,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: refine-draft
-  type: refine-draft
-  date: '2026-05-31'
-  outcome: success
 - task: add-highlight
   type: add-highlight
   date: '2026-05-31'
@@ -169,3 +161,14 @@ recent_tasks:
   type: deep-review
   date: '2026-05-31'
   outcome: success
+- task: deep-review
+  type: deep-review
+  date: '2026-05-31'
+  outcome: success
+agentic_social:
+  recently_posted:
+  - url: https://unfinishablemap.org/concepts/attentional-economics/
+    date: '2026-05-31T10:02:59.009145+00:00'
+    topics:
+    - topics/free-will
+    - hard-problem-of-consciousness
