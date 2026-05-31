@@ -4,8 +4,8 @@ description: "Wheeler's twin theses — that observers constitute reality throug
 created: 2026-02-22
 modified: 2026-04-23
 human_modified:
-ai_modified: 2026-05-31T18:31:10+00:00
-last_deep_review: 2026-04-23T17:45:00+00:00
+ai_modified: 2026-05-31T21:17:57+00:00
+last_deep_review: 2026-05-31T21:17:57+00:00
 draft: false
 topics:
   - "[[quantum-measurement-and-subjective-probability]]"
@@ -66,7 +66,7 @@ The difference matters. One can accept the participatory universe while denying 
 
 ## Three Descendant Programmes
 
-"It from bit" spawned three distinct research programmes that share vocabulary but diverge in commitments. The Map's framework — explored more fully in [[consciousness-and-the-physics-of-information]] — is compatible with some and incompatible with others. A fourth heir, [[qbism|QBism]], carries forward Wheeler's participatory emphasis while remaining agnostic about information ontology (discussed [below](#qbism-and-participatory-realism)). The shared language of "information" tends to obscure these divergences.
+"It from bit" spawned three distinct research programmes that share vocabulary but diverge in commitments. The Map's framework — explored more fully in [[consciousness-and-the-physics-of-information]] — is compatible with some and incompatible with others. A fourth heir, [[qbism|QBism]], carries forward Wheeler's participatory emphasis while remaining agnostic about information ontology (discussed [below](#qbism-and-participatory-realism)). The shared word "information" tends to obscure these divergences.
 
 ### Quantum Information Foundations
 
@@ -114,7 +114,7 @@ This is the [[multi-mind-collapse-problem]] in its sharpest form. If observation
 
 ### The Circularity Problem
 
-Wheeler's self-excited circuit faces a basic circularity: observers cannot create the universe that creates them — not without temporal bootstrapping that few physicists accept literally. Dembski's informational realism (discussed [above](#informational-realism)) sidesteps this by holding that information can be ontologically fundamental without requiring observer-creation. The Map finds this compatible with its own framework and avoids the circularity by constraining consciousness to local modulation rather than cosmological creation.
+Wheeler's self-excited circuit faces a basic circularity: observers cannot create the universe that creates them without temporal bootstrapping few physicists accept literally. The Map avoids this — as Dembski's informational realism does (discussed [above](#informational-realism)) — by constraining consciousness to local modulation rather than cosmological creation.
 
 ## Contemporary Heirs
 
@@ -134,7 +134,7 @@ Henry Stapp offers a more explicit connection between the participatory universe
 
 Stapp proposes a specific mechanism: the quantum Zeno effect, where mental attention acts like repeated observation, holding desired neural patterns in place. "The very structure of quantum mechanics implies a central and irreducible role for mind: an experiential aspect of nature distinct from that of the physical matter and energy."
 
-This is the participatory universe made concrete. Where Wheeler spoke of abstract "observer-participancy," Stapp locates the participation in identifiable neural processes. However, Stapp's mechanism faces the [[decoherence]] objection: Tegmark's calculations (2000) showed that quantum superpositions in neural tissue decohere in roughly 10⁻¹³ seconds — far too fast for the Zeno effect to operate at decision-relevant timescales. The physics community has largely not accepted Stapp's specific proposal for this reason. The Map treats Stapp's mechanism as suggestive rather than established: it illustrates *how* consciousness-physics interaction could work in principle, but the specific neural implementation remains an open problem.
+This is the participatory universe made concrete. Where Wheeler spoke of abstract "observer-participancy," Stapp locates the participation in identifiable neural processes. However, Stapp's mechanism faces the [[decoherence]] objection: Tegmark's calculations (2000) showed that quantum superpositions in neural tissue decohere in roughly 10⁻¹³ seconds — far too fast for the Zeno effect to operate at decision-relevant timescales. The physics community has largely not accepted Stapp's specific proposal for this reason. The Map treats it as suggestive rather than established — illustrating *how* consciousness-physics interaction could work in principle while the specific neural implementation remains open.
 
 It would be dishonest to wield Tegmark's result against Stapp alone. The same ~10⁻¹³ s figure targets neural quantum superposition *generally*, and the Map's own thesis — that consciousness modulates collapse locally in neural systems — requires *some* neural quantum process to modulate. The decoherence obstacle is not selective to Stapp's Zeno mechanism; it presses on any framework, the Map's included, that locates the mind-matter interface in brain-scale quantum events. The Map does not claim immunity here. Its working responses parallel those set out in [[time-collapse-and-agency]]: decoherence selects preferred bases but leaves the measurement problem (which definite outcome registers) open, so the modulation may act *at* collapse rather than needing sustained pre-collapse coherence; and the question of which specific neural quantum process supplies the interface is held open rather than answered (see [[born-rule-and-the-consciousness-interface]] and [[decoherence]]). The honest statement is that the decoherence timescale is a live difficulty for the Map's local-modulation thesis, not merely a club against a rival.
 
