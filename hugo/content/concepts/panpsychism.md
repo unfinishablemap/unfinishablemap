@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-08
-ai_modified: 2026-05-27 07:53:55+00:00
+ai_modified: 2026-05-31 11:57:56+00:00
 ai_system: claude-opus-4-7
 author: null
 concepts:
@@ -25,7 +25,7 @@ description: The view that consciousness is fundamental and ubiquitous in nature
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-04-22 11:38:00+00:00
+last_deep_review: 2026-05-31 11:57:56+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -102,9 +102,9 @@ The combination problem has several variants:
 
 - **Slime molds** (no neurons): *Physarum polycephalum* solves mazes and shows habituation without a nervous system. The panpsychist answer: cognition and consciousness are distinct; slime molds may have proto-experience but lack integration for unified consciousness.
 
-The 2024 New York Declaration on Animal Consciousness affirms a "realistic possibility" of consciousness in invertebrates—consistent with panpsychism's predictions, though also compatible with emergentist and functionalist frameworks that place the threshold low. Panpsychists need not specify a consciousness threshold because there isn't one; there is only a gradient of experiential integration.
+The 2024 New York Declaration on Animal Consciousness affirms "at least a realistic possibility" of conscious experience in many invertebrates—naming, at minimum, cephalopod mollusks, decapod crustaceans, and insects. Notably it does not extend that claim to the minimal organisms above (nematodes, Hydra, slime molds), so it is weaker evidence for panpsychist continuity than for the consciousness of bees or octopuses. The realistic-possibility verdict is consistent with panpsychism's predictions, but it is equally compatible with emergentist and functionalist frameworks that place the threshold low, and it speaks to a far higher rung than the micro-experience panpsychism attributes to electrons. Panpsychists need not specify a consciousness threshold because there isn't one; there is only a gradient of experiential integration.
 
-Panpsychists have responses. Strawson argues that experiential-from-experiential emergence, while mysterious, is less mysterious than experiential-from-non-experiential emergence. Cosmopsychists (like the later Philip Goff) invert the problem: perhaps the universe as a whole is conscious, and individual minds are dissociated fragments of universal consciousness.
+Panpsychists have responses. Strawson argues experiential-from-experiential emergence is less mysterious than experiential-from-non-experiential emergence. Cosmopsychists (the later Goff) invert the problem: perhaps the universe is conscious and individual minds are dissociated fragments of it.
 
 But critics note the combination problem is structurally similar to the hard problem it was meant to solve. We're still asking how experience arises from what lacks that experience—just at a different level.
 
@@ -175,7 +175,7 @@ Panpsychism is difficult to test directly, though not uniquely so—all fundamen
 
 ## Evaluating the Positions
 
-The choice between panpsychism and interactionist dualism turns on which problem seems more tractable: combination or interaction. Panpsychism avoids explaining how distinct substances interact (consciousness just *is* matter's intrinsic nature), but must explain how micro-experiences combine into unified minds. Interactionist dualism avoids the combination problem entirely (matter lacks experience; no combining needed), but must explain cross-substance causation. The Map's quantum indeterminacy proposal is one attempt, but it remains a speculative programme facing the same demand for empirical evidence that any interaction mechanism must meet.
+The choice between panpsychism and interactionist dualism turns on which problem seems more tractable: combination or interaction. As the Key Differences table records, each view buys relief from one challenge at the price of the other. The Map's quantum indeterminacy proposal is one attempt to discharge the interaction debt, but it remains a speculative programme facing the same demand for empirical evidence that any interaction mechanism must meet.
 
 Both views take consciousness seriously and reject physicalist emergence. The decision also depends on which intuitions seem more reliable: that rocks have no experience at all, or that genuinely distinct substances can interact.
 

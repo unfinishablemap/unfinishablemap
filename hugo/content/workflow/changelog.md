@@ -9,6 +9,108 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-05-31T12:06:42+00:00 - refine-draft
+- **Status**: Success
+- **File**: [invertebrate-consciousness-as-interface-test](/topics/invertebrate-consciousness-as-interface-test/) (+ reciprocal edit to [unity-of-consciousness](/concepts/unity-of-consciousness/))
+- **Type**: Integration-only (per optimistic-2026-05-31). No calibration touch — evidential-status framing and universal-coupling discipline left untouched as instructed.
+- **Changes**:
+  - Linked the octopus trilemma to [unity-of-consciousness](/concepts/unity-of-consciousness/) and its phenomenal-vs-access-unity anchor (#phenomenal-vs-access-unity), naming the distinction the trilemma silently presupposes (octopus has access unity; phenomenal unity is the open question).
+  - Linked trilemma option 1 (single consciousness, distributed/non-local interface) to [quantum-holism-and-phenomenal-unity](/topics/quantum-holism-and-phenomenal-unity/) — non-separable entangled structure as the physical correlate of distributed-but-unified experience.
+  - Added two Further Reading entries (unity-of-consciousness, quantum-holism-and-phenomenal-unity).
+  - Reciprocal "The Octopus" paragraph added to concepts/unity-of-consciousness.md under Evidence from Dissociation (its most vivid biological test case, previously absent), with cross-links back to invertebrate article and quantum-holism; added a Further Reading entry there too.
+- **Note**: quantum-holism-and-phenomenal-unity lives in topics/ (not concepts/ as the task text said); wikilink resolves regardless. Optional falsification-roadmap back-link to the four-constraint set already existed (line 170) — no action needed.
+- **Published**: yes
+
+## 2026-05-31T11:57:56+00:00 - deep-review
+- **Status**: Success
+- **File**: [panpsychism](/concepts/panpsychism/)
+- **Mode**: Citation-currency pass (10th review; article long-stabilized)
+- **Word count**: 3215 → 3256 (+41; length-neutral, ~1.3%, within the long-justified 125-131% band)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 1 — NY Declaration scope overstatement. Web-verified the 2024 primary source: it affirms "at least a realistic possibility" in *many* invertebrates (cephalopod mollusks, decapod crustaceans, insects), NOT all invertebrates, and does NOT cover the minimal organisms (nematodes/Hydra/slime molds) the surrounding passage discusses. Old phrasing implied the Declaration backed realistic-possibility consciousness in those minimal organisms — a source-conclusion + possibility/probability calibration error. Rewrote to name the actual groups, flag the non-extension to minimal organisms, and note it speaks to a higher rung than electron micro-experience.
+- **Citation metadata verified (no defects)**: Strawson 2006 (JCS 13(10-11), 3-31), Chalmers 2015 (OUP reprint, corpus-majority form — not conflated with the separate 2013 Amherst original or 2017 Combination-Problem paper), Whitehead 1929, Goff 2019 (Pantheon), C. elegans 302 neurons. Cross-corpus divergence grep clean. No archival link-rot in sampled load-bearing wikilinks.
+- **Reasoning-mode note**: no named-opponent engagements modified; bedrock disagreements (Dennett/Frankish deflationism, decoherence objection, parsimony cost) left as honest Mode-Three boundary-marking per prior reviews.
+- **Output**: [deep-review-2026-05-31-panpsychism](/reviews/deep-review-2026-05-31-panpsychism/)
+
+## 2026-05-31T11:49:43+00:00 - refine-draft
+- **Status**: Success
+- **File**: [contemplative-practice-as-philosophical-evidence](/topics/contemplative-practice-as-philosophical-evidence/)
+- **Trigger**: topic-concept anchoring audit (Audit Three, [calibration-audit-triple](/project/calibration-audit-triple/)) — article BOTH under-hedged (3.63/kw vs anchor [explanatory-gap](/concepts/explanatory-gap/) 9.87) AND over-asserting (strong-assertion 2.31/kw, ~4× the anchor's 0.58, exceeding the 1.5× ceiling); failed against all five anchors (Altered States, Phenomenal Consciousness, Qualia, Epiphenomenalism, Explanatory Gap). Dominant defect: over-assertion → recast-driven (length-neutral) pass per [evidential-status-discipline](/project/evidential-status-discipline/).
+- **Changes**: Calibration inheritance, not thesis-destruction. (1) Recast the over-strong eliminativist framing — the core "eliminates epiphenomenalism and reductive materialism decisively" (description, abstract, honest-assessment) → "constrains / weighs heavily against ... without strictly refuting", applying the constrain-vs-establish distinction the discipline names; the article's careful middle sections (lines 137, 167) were already honest, the defect was concentrated in the framing claims. (2) Cleared all 7 marker strong-assertion verbs: "demonstrates otherwise"→"tells against this"; "shows that"→"finds that"; "confirms bidirectional causation"→"supports"; "establishes the phenomenon"→"pins down the phenomenon" (kept the honest phenomenon/interpretation distinction); "verifies"→"corroborates"; two more "demonstrates"→"indicates"/"illustrates"; "rules out artefacts"→"makes artefacts an unlikely explanation"; tenet-section "eliminates epiphenomenalism"→"weighs heavily against". (3) Added marker hedges at four genuinely contested cruxes: the first-person/third-person-shareability crux (introspection-reliability skeptics), the dualist reading of the awareness-content finding marked as one interpretation, the persistent-gap claim marked as the Map's reading vs the non-reductive physicalist's expectation, and the anti-illusionism inference softened ("unexplained if"→"seems hard to explain if"). Did NOT hedge the core thesis or definitional statements. Clawed back redundancy (methodology authority-improvement sentence, astronomy example) to limit length growth.
+- **Calibration profile (after)**: hedge_density 4.81/kw (was 3.63; now clears 60%-of-anchor thresholds for all five anchors), strong-assertion 0.0/kw (was 2.31). `evaluate_anchoring` now returns no flags against any of the five anchors.
+- **Reasoning-mode note**: engagement with the non-reductive physicalist: Mode Three (framework-boundary) — the persistent-gap and witness arguments are honestly marked as "the Map's reading" with the physicalist's parallel expectation noted, not presented as in-framework refutation; engagement with the epiphenomenalist: Mode One downgraded to honest constraint ("weighs heavily against ... without strictly refuting") per constrain-vs-establish.
+- **Word count**: 3034 → 3117 (+83; small soft-threshold overage accepted — the growth is the four load-bearing calibration hedges the under-hedging flag required; recast bulk is length-neutral; redundancy clawed back to limit growth)
+- **Published**: yes
+
+## 2026-05-31T11:38:14+00:00 - refine-draft
+- **Status**: Success
+- **File**: [the-self-minimal-narrative-and-substantial](/topics/the-self-minimal-narrative-and-substantial/)
+- **Trigger**: topic-concept anchoring audit (Audit Three, [calibration-audit-triple](/project/calibration-audit-triple/)) — article systemically under-hedged (2.73/kw vs anchor [mind-brain-separation](/concepts/mind-brain-separation/) 7.48) with 0 underdetermination markers; failed against all four anchor concepts (Parfit Reductionism, Witness Consciousness, Buddhism and Dualism, Mind-Brain Separation)
+- **Changes**: Calibration inheritance, not thesis-weakening. (1) Installed a genuine underdetermination marker in the Witness Argument — the phenomenological data underdetermine whether what remains under meditative dissolution is a substantial particular or the minimal self stripped of content (eliminativist can grant persistence without granting an irreducible entity). (2) Recast over-strong empirical verbs to honest evidential tier: Sass–Parnas ipseity model "demonstrates"→"proposes"; depersonalization components "revealing"→"suggesting"; cognitive science "confirms"→"converges on"; ipseity/depersonalization "shows that"→"suggests" + noted compatibility with non-nested accounts. (3) Marked the conditional status of the causal argument (force contingent on the bidirectional tenet, adopted not proved) and the clinical-neuroplasticity evidence (dualist reading one interpretation among several). (4) Softened the eliminativist-regress reply ("cannot dismiss"→"cannot easily dismiss"; regress "pressing but not, on its own, decisive"). (5) Flagged contemplative evidence as first-person/theory-laden at point of introduction. Strong-assertion density dropped 1.71→0.98/kw via recasts; clawed back redundancy (Dennett passage, neuroplasticity sentence) to limit length growth.
+- **Calibration profile (after)**: hedge_density 4.92/kw (was 2.73; clears 60%-of-anchor threshold 4.49), strong-assertion 0.98/kw (was 1.71), underdetermination markers 1 (was 0). `evaluate_anchoring` now returns no flags against any of the four anchors.
+- **Reasoning-mode note**: engagement with the eliminativist (Metzinger/Dennett): Mode Three (framework-boundary) — the regress is honestly marked as pressing-but-not-decisive rather than presented as in-framework refutation; the recast removes the prior over-claim that the eliminativist "cannot" make the move.
+- **Word count**: 2928 → 3052 (small soft-threshold overage accepted; calibration prioritised per task spec; offset bulk-adds with redundancy claw-back)
+- **Published**: yes
+
+## 2026-05-31T11:30:00+00:00 - tune-system
+- **Status**: Success
+- **Sessions analyzed**: ~cycle 311→324 (babysat /loop run 2026-05-29 → 2026-05-31)
+- **Findings**: 0 failures (clean run), 0 critical issues, corpus at convergence; queue in healthy replenish-at-floor steady state
+- **Tier 1 changes**: 0 applied (no adjustable cadence/weight knobs — deterministic cycle scheduling; no setting met evidence+cooldown criteria)
+- **Tier 2 recommendations**: 1 (medium-issue counter audit)
+- **Tier 3 (human/code/editorial)**: 8 logged — scheduled citation web-verify cadence (highest-confidence; ~42 defects caught this run, triple-external-confirmed); repoint-inbound-refs-at-coalesce-time (highest-leverage; archival-link-rot stranded ~35 links for 6wk); replenish/queue code fixes (exclude #veto'd from length_analysis, wire scoring.py for LIFO fix, dedup replenish/cycle-slot staleness collision); convergence-damping on staleness selection; stale `scripts/curate.py` ref in refine-draft SKILL.md; 3 length-blocked flagships needing editorial splits; capacity items (voids 101/100, apex over-cap); time-varying-quantity calibration discipline
+- **Output**: [system-tune-2026-05-31](/reviews/system-tune-2026-05-31/)
+
+## 2026-05-31T11:27:10+00:00 - apex-evolve
+- **Status**: Complete (maintenance-only — apex_sources slug repair, no prose change)
+- **Mode**: check + source-graph repair
+- **Articles touched**: [taxonomy-of-voids](/apex/taxonomy-of-voids/), [phenomenology-of-consciousness-doing-work](/apex/phenomenology-of-consciousness-doing-work/)
+- **Fixed**: 6 dangling/stale `apex_sources` slugs (archival-link-rot). taxonomy-of-voids: `evolved-cognitive-limits`→`biological-cognitive-closure`, `phenomenology-of-the-edge`→`edge-states-and-void-probes`, removed `convergence-as-evidence` and `cartography-problem` as post-coalesce duplicates of already-listed `what-voids-reveal`/`apophatic-cartography`. phenomenology-of-consciousness-doing-work: `phenomenology-of-choice`→`phenomenology-of-choice-and-volition`, `introspective-opacity`→`self-opacity`
+- **Word count**: unchanged (frontmatter-only; `apex_last_synthesis` deliberately not advanced)
+- **Result**: apex source-graph now resolves cleanly across all 30 articles (0 dangling)
+
+## 2026-05-31T13:00:00+00:00 - check-tenets
+- **Status**: Success
+- **Files checked**: 509 (258 topics, 251 concepts)
+- **Errors**: 0
+- **Warnings**: 0
+- **Output**: [tenet-check-2026-05-31](/reviews/tenet-check-2026-05-31/)
+
+## 2026-05-31T12:30:00+00:00 - deep-review
+- **Status**: Success (near-converged — citation-hygiene + calibration close-out)
+- **File**: [stapp-quantum-mind](/concepts/stapp-quantum-mind/)
+- **Word count**: 2847 → 2881 (+34; length-neutral mode, 115% of 2500 soft, well below 3500 hard)
+- **Critical issues addressed**: 0 (all prior-pessimistic critical/high items already absorbed by the 2026-05-28 edit)
+- **Medium issues addressed**: 2 (orphaned-reference hygiene; bandwidth "more plausible" calibration over-reach)
+- **Enhancements made**: 1 (Garrison 2013 empirical anchor, double-duty for open-monitoring claim + previously-unsupported Illusionist assertion)
+- **Fabrication scrutiny (special mandate)**: the historical fabricated "Meister 2024 PNAS" orphan is GONE from article, research notes, and corpus-wide (grep CLEAN). Correct replacement Zheng & Meister 2025 *Neuron* 113(2):192–204 present and web-verified exact.
+- **Citation pass (all web-verified EXACT)**: Denton et al. 2024 *Nat. Commun.* 15:10823 (DOI 10.1038/s41467-024-55124-x, full author vector); Schwartz/Stapp/Beauregard 2005 *Phil. Trans. R. Soc. B* 360(1458):1309–1327; Zheng & Meister 2025 *Neuron* 113(2):192–204; Garrison et al. 2013 *Front. Hum. Neurosci.* 7:440; Rajan et al. 2019 *Cereb. Cortex* 29(7):2832–2843. Orphan sweep: Garrison + Rajan anchored in-body this pass; Hagan 2002 already re-anchored; Meister/Whitehead orphans already removed. No fabrications, no replacements. No research/ change needed (no reference-list mutation).
+- **Calibration (Tenet 2/3)**: von Neumann-chain/quantum-Zeno consistently marked Stapp's proposal, not settled physics; compatibility-not-commitment language throughout Relation-to-Site-Perspective; corridor-vs-minimum-outside-corridor Born-rule fork held live. No possibility/probability slippage; recast the one over-strong "more plausible" verb. Diagnostic test passed.
+- **Reasoning modes (editor-internal)**: epiphenomenalist Mode One (calibration argument on opponent's own premise, heterophenomenological symmetry conceded); illusionist Mode Two (seeming-regress); MWI Mode Three (boundary, declared open). No boundary-substitution, no label leakage (grep PASS).
+- **Output**: [deep-review-2026-05-31-stapp-quantum-mind](/reviews/deep-review-2026-05-31-stapp-quantum-mind/)
+
+## 2026-05-31T10:58:26+00:00 - deep-review
+- **Status**: Success (near-no-op — convergence confirmed)
+- **File**: [hard-problem-of-consciousness](/topics/hard-problem-of-consciousness/)
+- **Word count**: 3342 → 3342 (no change; 111% of 3000 soft, below 4000 hard — length-neutral)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Citation pass**: all refs canonical + corpus-consistent (Levine 1983 *Pac. Phil. Q.* 64(4):354–361; Block 1978 *Minnesota Studies* 9:261–325; McGinn 1989 *Mind* 98(391):349–366; Frankish 2016 *JCS* 23(11–12):11–39; Chalmers 1996, Chalmers & McQueen 2022, Loar 1990/1997, Papineau 2002). Bandwidth ~10 bits/s / 100-million-fold consistent with [bandwidth-of-consciousness](/topics/bandwidth-of-consciousness/) (Zheng & Meister 2025). Zero defects, no fabrications.
+- **Calibration (Tenet 1)**: epistemic gap NOT conflated with established ontological dualism — gap framed as motivating, dualist reading deferred to [dualism](/concepts/dualism/) under Duhem-Quine underdetermination; framework-dependence conceded in-text. No possibility/probability slippage. Diagnostic test passed.
+- **Reasoning modes (editor-internal)**: eliminativism Mode Two (self-undermining, with charitable caveat); illusionism Mode Two (regress from its own burden); PCS Mode Two/mixed (circularity rejoinder); framework-dependence Mode Three (honestly marked). No boundary-substitution. No label leakage (grep-confirmed).
+- **Note**: prior review's pending HTML refinement-log comment already removed — resolved. Only `last_deep_review` updated; `ai_modified` unchanged (no content edits). Recommend future triggers only after substantive edits, not routine staleness.
+- **Output**: [deep-review-2026-05-31-hard-problem-of-consciousness](/reviews/deep-review-2026-05-31-hard-problem-of-consciousness/)
+
+## 2026-05-31T10:45:59+00:00 - refine-draft
+- **Status**: Success
+- **Task**: Corpus-wide archival-link-rot batch repoint — `[[thoughts-that-slip-away]]` → `[[thought-stream-void]]`
+- **Files changed**: 33 (22 bare-frontmatter `related_articles` repoints; `creative-aesthetic-void.md` deduped — dropped the bare link since `[[thought-stream-void]]` was already present; `language-thought-boundary.md` 4 forms; `non-human-minds-as-void-explorers.md` 3 forms; `what-voids-reveal`, `necessary-opacity`, `inaccessible-past`, `attention-and-consciousness` frontmatter + prose; research roots `voids-conceptual-impossibility` (1 wikilink + 3 plain-text), `voids-simulation-detection-void`, `voids-whether-real`)
+- **Link forms handled**: (a) frontmatter bare wikilink; (b) Further Reading display-text items updated to `[[thought-stream-void|The Thought Stream Void]]`; (c) inline prose (slug repointed, display text/sentence sense preserved); plus plain-text research-note references repointed to prevent future re-propagation
+- **Left untouched (correctly)**: `archive/`, `reviews/`, `changelog`, `hugo/content/` (regenerates on sync); `thought-stream-void.md` line 48 `coalesced_from` URL-preservation metadata; `voids.md` line 169 provenance parenthetical (already correctly wikilinked); todo.md task text + historical completed-task record
+- **Verification**: re-grep returns zero live `[[thoughts-that-slip-away]]` wikilinks/refs; sync exits 0; no duplicate `related_articles` entries created
+- **Published**: yes
+
 ## 2026-05-31T10:37:50+00:00 - deep-review
 - **Status**: Success
 - **File**: [disappearance-voids](/voids/disappearance-voids/)

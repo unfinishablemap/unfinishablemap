@@ -4,7 +4,7 @@ description: "Insects, cephalopods, and crustaceans provide the sharpest test fo
 created: 2026-04-09
 modified: 2026-04-09
 human_modified:
-ai_modified: 2026-05-31T09:29:10+00:00
+ai_modified: 2026-05-31T12:06:42+00:00
 draft: false
 topics:
   - "[[animal-consciousness]]"
@@ -64,9 +64,9 @@ Chittka's *The Mind of a Bee* (2022) strengthens the empirical case. Bees recogn
 
 Cephalopods present the most provocative challenge. An octopus possesses approximately 500 million neurons, but distributes two-thirds of them across semi-autonomous arms rather than centralising them in the brain. Godfrey-Smith observes that "with a decentralized nervous system, each arm seems to have a mind of its own, yet the creature nevertheless acts to unified purposes." Severed octopus arms continue responding to stimuli independently. The organism operates through what Godfrey-Smith calls "a mixture of localized and top-down control."
 
-For the Map's interface model, this raises a trilemma. If consciousness couples with physical systems through quantum indeterminacies (as the [[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]] tenet proposes), the octopus forces a choice among three possibilities:
+For the Map's interface model, this raises a trilemma. The trilemma is the [[unity-of-consciousness|phenomenal-unity problem]] instantiated in a distributed nervous system: it silently presupposes the [[unity-of-consciousness#phenomenal-vs-access-unity|phenomenal-versus-access-unity distinction]], since the octopus plainly has *access* unity (its arms coordinate to unified purposes) while the open question is whether it has *phenomenal* unity (one encompassing "what it is like"). If consciousness couples with physical systems through quantum indeterminacies (as the [[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]] tenet proposes), the octopus forces a choice among three possibilities:
 
-1. **Single consciousness, distributed interface.** One conscious entity biases quantum outcomes at many spatially separated coupling sites throughout the octopus body. This preserves unity of consciousness but requires the coupling mechanism to operate non-locally across the organism.
+1. **Single consciousness, distributed interface.** One conscious entity biases quantum outcomes at many spatially separated coupling sites throughout the octopus body. This preserves unity of consciousness but requires the coupling mechanism to operate non-locally across the organism — exactly the kind of genuinely non-separable structure that [[quantum-holism-and-phenomenal-unity|quantum holism]] proposes as the physical correlate of phenomenal unity, where entanglement binds spatially separated sites into a whole that was never fully decomposable into parts.
 
 2. **Multiple consciousnesses.** Several conscious entities each couple with a semi-autonomous neural subsystem. This accommodates the biological architecture but fragments the subject—there would be something it is like to be an octopus arm, not just something it is like to be the octopus.
 
@@ -142,6 +142,8 @@ The constraints also bear on how the cross-architecture variation should be read
 - [[comparative-consciousness-and-interface-differences]] — The nature-vs-coupling framework across species
 - [[interface-efficacy-and-the-cognitive-gap]] — Coupling-grade scaling along bandwidth, fidelity, granularity, and candidate-type axes
 - [[cetacean-and-corvid-consciousness]] — Dolphins and corvids as convergent amplification test cases
+- [[unity-of-consciousness]] — The phenomenal-vs-access-unity distinction the octopus trilemma presupposes
+- [[quantum-holism-and-phenomenal-unity]] — Non-separable entangled structure as the physical correlate of distributed-but-unified experience
 - [[degrees-of-consciousness]] — How consciousness varies across species
 - [[substrate-independence]] — Whether consciousness requires specific physical substrates
 - [[delegatory-causation]] — The preemption structure through which consciousness takes over causal work from physical states

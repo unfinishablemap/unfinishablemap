@@ -4,7 +4,7 @@ description: "Experience comes as an integrated whole—unified across features 
 created: 2026-01-21
 modified: 2026-02-25
 human_modified:
-ai_modified: 2026-05-29T02:30:40+00:00
+ai_modified: 2026-05-31T12:06:42+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -93,6 +93,10 @@ During dreamless NREM sleep, diachronic unity vanishes—hours pass with no temp
 
 In dissociative identity disorder, multiple apparently distinct subjects share one brain while synchronic binding within each remains intact. In depersonalization, subjects feel detached from their experiences while perceptual binding continues normally. These cases suggest ownership can be disturbed while other unities remain.
 
+### The Octopus
+
+The octopus is the most vivid biological test case for the phenomenal-versus-access distinction. It coordinates roughly 500 million neurons, two-thirds of them distributed across semi-autonomous arms that continue responding to stimuli even when severed, yet the organism acts to unified purposes. Access unity is therefore not in doubt—information integrates well enough to drive coordinated behaviour. What the architecture leaves open is phenomenal unity: is there one encompassing "what it is like" to be the octopus, several subjects (something it is like to be an arm), or a unity that waxes and wanes with neural coordination? These three readings are exactly the trilemma that [[invertebrate-consciousness-as-interface-test|invertebrate consciousness as an interface test]] poses for any coupling model, and the first reading—one subject coupled non-locally across spatially separated sites—is the same non-separable structure that [[quantum-holism-and-phenomenal-unity|quantum holism]] offers as the physical correlate of phenomenal unity. The octopus thus generalises the lesson of the human dissociation cases to a radically different nervous system: access unity and phenomenal unity can come apart, and which one a distributed architecture secures is an empirical and metaphysical question, not a settled one.
+
 The partial dissociation of these dimensions implies that unity of consciousness may be several related problems, not one—possibly requiring different explanations.
 
 ## Why Unity Resists Physical Explanation
@@ -155,6 +159,7 @@ The unity of consciousness connects directly to The Unfinishable Map's [[tenets|
 - [[anoetic-noetic-autonoetic-consciousness]] — Mental time travel and the temporal self
 - [[temporal-consciousness-structure-and-agency]] — Comprehensive treatment including constitutional thesis and circularity problem
 - [[minimal-consciousness]] — Unity at the boundaries of experience
+- [[invertebrate-consciousness-as-interface-test]] — The octopus as the vivid biological test of phenomenal vs access unity
 
 ## References
 

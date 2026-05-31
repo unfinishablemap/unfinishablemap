@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-05-18
-ai_modified: 2026-05-27 11:10:47+00:00
+ai_modified: 2026-05-31 11:06:37.123598+00:00
 ai_system: claude-opus-4-7
 apex_last_synthesis: 2026-05-27 11:10:47+00:00
 apex_sources:
@@ -36,6 +36,11 @@ description: Three classes of pharmacological dissociation—same-target-opposit
   and matching patterns across neurology, clinical dissociation, and contemplative
   practice.
 draft: false
+embedded_videos:
+- embedded: 2026-05-31 11:06:37.123598+00:00
+  id: RTsACxF4uDA
+  source: notebooklm/0064-01-pharmacological-dissociation-as-evidence
+  url: https://www.youtube-nocookie.com/embed/RTsACxF4uDA
 human_modified: null
 last_curated: null
 last_deep_review: 2026-05-18 22:10:00+00:00
@@ -70,6 +75,12 @@ Pharmacology is in an unusual epistemic position with respect to consciousness. 
 What the catalogue has lacked is a piece that lifts pharmacological dissociation into a named evidence pattern at the methodology grain. The [anaesthesia article](/topics/anaesthesia-and-the-consciousness-interface/) carries three distinct dissociation contrasts in its body, each load-bearing in different ways, but the pattern they exhibit together is not specified at any single location. The [neurological dissociations](/topics/neurological-dissociations-as-interface-architecture/), [clinical dissociations](/topics/clinical-dissociation-as-systematic-evidence/), and [contemplative pathology](/topics/contemplative-pathology-and-interface-malfunction/) clusters each reach the same architecture by independent routes, and the [altered-states apex](/apex/altered-states-as-interface-evidence/) gathers five state-modalities into a convergence matrix—but none of these names what pharmacological dissociation *as a class* asks of the interface model, what it can and cannot do, and what discipline keeps its evidential weight calibrated.
 
 This synthesis names three pharmacological-dissociation classes, supplies the anaesthetic exhibit for each, locates the matching patterns in the catalogue's parallel clusters, and installs the [evidential-status discipline](/project/evidential-status-discipline/) that prevents the convergence from inflating beyond what the evidence licenses. The methodology is not a tenet-specific commitment. It is a discipline about how the Map identifies dissociation patterns as evidence for interface architecture, sustained by the discriminating insight that *which* drugs dissociate from *which* drugs reveals more about the interface than what any single drug does.
+
+<details class="yt-embed" data-video-id="RTsACxF4uDA">
+<summary>Video introduction</summary>
+<a href="https://www.youtube-nocookie.com/embed/RTsACxF4uDA">Watch this article as a video on YouTube</a>
+<p class="yt-caption">Videos cover themes but may stray from the Map's position. The article text is the definitive version. Clicking play implies consent to YouTube cookies.</p>
+</details>
 
 ## What a Pharmacological Dissociation Is
 

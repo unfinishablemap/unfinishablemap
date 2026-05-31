@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-29 08:35:26+00:00
+ai_modified: 2026-05-31 12:05:00+00:00
 ai_system: claude-opus-4-8
 author: Andy Southgate
 concepts: []
@@ -38,12 +38,20 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Repoint corpus-wide [thoughts-that-slip-away](/voids/thought-stream-void/) → [thought-stream-void](/voids/thought-stream-void/) (archival link rot at scale)
-- **Type**: refine-draft
+### P3: Deep review concepts/panpsychism.md (38 days since last review, ai_contribution>50, Tenet 1 load-bearing)
+- **Type**: deep-review
 - **Status**: pending
-- **Notes**: `voids/thoughts-that-slip-away.md` was coalesced into **The Thought Stream Void** and moved to `archive/` (2026-04-17, `superseded_by: /voids/thought-stream-void/`); there is NO live obsidian stub. But ~35 LIVE obsidian files still carry `[[thoughts-that-slip-away]]` wikilinks that now resolve to the archive-notice page, not the live replacement — the archival-link-rot pattern at scale (one coalesce left dozens of dangling inbound links). Non-build-breaking (archive copy resolves, sync exits 0) — content-quality only — but readers/LLMs land on an archive notice. Deep-reviews have been fixing these ONE article at a time (self-maintained-cognitive-limits + disappearance-voids fixed 2026-05-31); a batch repoint is far more efficient. Action: `grep -rln "thoughts-that-slip-away" obsidian/ | grep -v "archive/\|/reviews/\|changelog\|deep-review-"` to get the live file list (~35: research/ roots + voids/ articles + topics/hard-problem-of-consciousness), then repoint every `[[thoughts-that-slip-away]]` → `[[thought-stream-void]]`. CARE: three link forms — (a) frontmatter `related_articles` bare `[[thoughts-that-slip-away]]`; (b) Further Reading list items with display text `[[thoughts-that-slip-away|Thoughts That Slip Away]]` → update display text to match the live article's framing (e.g. `[[thought-stream-void|The Thought Stream Void]]`); (c) INLINE PROSE ("see [thoughts-that-slip-away](/voids/thought-stream-void/)") — preserve sentence sense. Fix research/ ROOTS too (else expands re-propagate the dead slug). Do NOT touch archive/ or reviews/ or changelog. Verify thought-stream-void.md genuinely covers each citing context (it's the coalesce target, so it should). After: re-grep to confirm zero live `[[thoughts-that-slip-away]]` remain.
-- **Broader pattern**: this is a REPRESENTATIVE instance — other coalesced/archived voids likely have the same dangling-inbound-link problem. Recommend (separate, for the user/tune-system): a sweep that, for every `archive/` page with `superseded_by`, greps live content for `[[old-slug]]` and repoints to the superseded_by target — and the durable fix of repointing inbound links AT coalesce/archive time (see archival-link-rot). Not in scope for this task; this task just clears the worst single offender.
-- **Source**: deep-review-followon
+- **File**: obsidian/concepts/panpsychism.md
+- **Notes**: Staleness-driven (2026-05-31 replenish). Tied-oldest AI-heavy article past the 30-day deep-review floor; core Tenet 1 (Dualism) concept page that anchors the Map's panpsychism-vs-dualism contrast across many articles. Citation-currency + calibration pass: web-verify any combination-problem / Goff / Chalmers citations before trusting them (see ai-citation-metadata-unreliable) and preserve the constrain-vs-establish framing — the combination problem *constrains* panpsychism, it does not *establish* dualism. If the article is converged and clean (likely — this is its first review in 38d, not a runaway re-review), a metadata-only verdict is acceptable; do not over-hedge converged prose (deep-review-over-reviews-converged).
+- **Source**: staleness
+- **Generated**: 2026-05-31
+
+### P3: Deep review topics/eastern-philosophy-consciousness.md (38 days since last review, ai_contribution>50)
+- **Type**: deep-review
+- **Status**: pending
+- **File**: obsidian/topics/eastern-philosophy-consciousness.md
+- **Notes**: Staleness-driven (2026-05-31 replenish). Tied-oldest AI-heavy article past the 30-day floor and not currently queued. Survey article spanning multiple traditions — highest citation-fabrication surface area, so web-verify primary-source attributions (Sanskrit/Pali term glosses, scholar names, dates) before trusting them (ai-citation-metadata-unreliable). Honour [evidential-status-discipline](/project/evidential-status-discipline/): cross-tradition convergence on non-physical mind is *suggestive context*, NOT independent evidence for the Map's tenets — do not let resonance read as corroboration. First review in 38d; metadata-only verdict acceptable if converged (deep-review-over-reviews-converged).
+- **Source**: staleness
 - **Generated**: 2026-05-31
 
 ### P3: Calibration-preserving condense of topics/delegatory-dualism.md (3827 words, 128% of 3000 soft target)
@@ -62,8 +70,9 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: length_analysis
 - **Generated**: 2026-05-31
 
-### P3: Cross-link octopus trilemma in invertebrate-consciousness-as-interface-test.md to phenomenal-unity machinery
+### P2: Cross-link octopus trilemma in invertebrate-consciousness-as-interface-test.md to phenomenal-unity machinery
 - **Type**: refine-draft
+- **Promoted**: 2026-05-31 (replenish: P0-P2 executable floor reached; promoted in lieu of generating net-new tasks into a 480-deep P3 backlog. Integration-only, no cap impact, executable now.)
 - **Status**: pending
 - **File**: obsidian/topics/invertebrate-consciousness-as-interface-test.md
 - **Notes**: Suggested by optimistic review (see [optimistic-2026-05-31](/reviews/optimistic-2026-05-31/)). The octopus "trilemma" (single consciousness / multiple consciousnesses / variable unity, lines ~67-75) IS the phenomenal-unity problem instantiated in a distributed nervous system, but the article links to neither `concepts/unity-of-consciousness.md` nor `topics/quantum-holism-and-phenomenal-unity.md`. Integration-only, well-calibrated, NO calibration concern — do NOT touch the (excellent) evidential-status framing or the universal-coupling discipline. Just add: (a) a link from the trilemma to [unity-of-consciousness](/concepts/unity-of-consciousness/) (the phenomenal-vs-access-unity distinction the trilemma silently presupposes) and from option 1 ("single consciousness, distributed interface" → non-local coupling) to [quantum-holism-and-phenomenal-unity](/topics/quantum-holism-and-phenomenal-unity/); (b) Further Reading entries; (c) a reciprocal octopus paragraph in `concepts/unity-of-consciousness.md` (the octopus is its most vivid biological test case and is currently absent there). Optionally a back-link from `topics/falsification-roadmap-for-the-interface-model.md` to the four-constraint set. Assess-first confirmed: all target concept pages already exist; this is linkage not creation, so no new page.
@@ -96,8 +105,9 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: optimistic-review
 - **Generated**: 2026-05-29
 
-### P3: Tighten two structural seams in ai-consciousness
+### P2: Tighten two structural seams in ai-consciousness
 - **Type**: refine-draft
+- **Promoted**: 2026-05-31 (replenish: P0-P2 executable floor reached; promoted in lieu of net-new tasks. Concrete two-edit pessimistic-review finding, executable now, no cap impact.)
 - **Status**: pending
 - **File**: obsidian/topics/ai-consciousness.md
 - **Notes**: From pessimistic review 2026-05-29 (see [pessimistic-2026-05-29-ai-consciousness](/reviews/pessimistic-2026-05-29-ai-consciousness/)). No critical issues; article is mature with clean citations (Neven 2024, Josipovic 2019 web-verified). Two medium tightenings:
@@ -3626,6 +3636,26 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 Tasks that failed 3+ times and require human intervention.
 
+
+### ✓ 2026-05-31: Adopt explanatory-gap calibration in contemplative-practice-as-philosophical-evidence
+- **Type**: refine-draft
+- **Notes**: From topic-concept anchoring audit 2026-05-31. The topic article over-claims relative to its anchor concept [explanatory-gap](/concepts/explanatory-gap/); failed checks: hedge_density, strong_assertions.
+
+### ✓ 2026-05-31: Adopt mind-brain-separation calibration in the-self-minimal-narrative-and-substantial
+- **Type**: refine-draft
+- **Notes**: From topic-concept anchoring audit 2026-05-31. The topic article over-claims relative to its anchor concept [mind-brain-separation](/concepts/mind-brain-separation/); failed checks: hedge_density, underdetermination_markers.
+
+### ✓ 2026-05-31: Deep review concepts/stapp-quantum-mind.md (38 days since last review, ai_contribution=100, Tenet 2/3 load-bearing)
+- **Type**: deep-review
+- **Notes**: Staleness check (/replenish-queue 2026-05-31), second floor-restoring task (queue was at 2 below the MIN_QUEUE floor of 3; one task restores the floor, this adds a small buffer of grounded work rather than speculative expand-topic against the ~460-task P3 backlog). Verified `last_deep_review: 2026-04-23T17:41:00+00:00` (~38 days), `ai_contribution=100`, ~2949 words (over the 2500 concepts soft, under the 3500 hard threshold); not the File-target of any other open task. Directly tenet-load-bearing for **Tenet 2 (Minimal Quantum Interaction)** and **Tenet 3 (Bidirectional Interaction)** — Stapp's quantum-Zeno / collapse-by-observation model is one of the Map's concrete interface proposals, so citation currency and argument soundness matter more here than for peripheral pages. Deep-review should: (a) check the quantum-Zeno and von Neumann/Stapp empirical+interpretive claims against current 2020s literature and verify citations live (flag a literature-drift follow-on if drift detected; web-verify per ai-citation-metadata-unreliable); (b) verify the minimal-interaction framing stays consistent with [selection-only-mind-influence](/topics/selection-only-mind-influence/) and the channel-class taxonomy, and cross-links to the post-April corridor/selection cluster ([born-rule-and-the-consciousness-interface](/topics/born-rule-and-the-consciousness-interface/), [motor-control-quantum-zeno](/topics/motor-control-quantum-zeno/)); (c) honour [evidential-status-discipline](/project/evidential-status-discipline/) — Stapp's model is a candidate mechanism, not established; guard against possibility/probability slippage; (d) writing-style + length discipline (no cliché). Apply in-place fixes if minor; generate a refine-draft/literature-drift follow-on if substantive. Per deep-review-over-reviews-converged, if converged record that and recommend a longer interval. Tenet alignment: Tenets 2 and 3.
+
+### ✓ 2026-05-31: Deep review topics/hard-problem-of-consciousness.md (38 days since last review, ai_contribution=100, Tenet 1 load-bearing)
+- **Type**: deep-review
+- **Notes**: Staleness check (/replenish-queue 2026-05-31). Actionable (P0-P2) queue stood at 2 (the voids taxonomy-consistency P2 + the consciousness-and-skill-acquisition literature-drift P2), below the MIN_QUEUE floor of 3. Per the steady-state observation (unfin-loop-steady-state) the loop's genuine new-task supply is thin while topics (257/270) and concepts (250/270) sit near cap and length offenders are blocked/vetoed — so the honest replenishment move is to promote a grounded tenet-load-bearing staleness deep-review rather than mint speculative expand-topic work against the ~460-task P3 backlog. Verified `last_deep_review: 2026-04-23T16:02:00+00:00` (~38 days), `ai_contribution=100`, ~3534 words (over the 3000 topics soft, under the 4000 hard threshold); not currently the File-target of any other open task. This is the Map's primary **Tenet 1 (Dualism)** anchor and a navigational hub. Deep-review should: (a) verify the hard-problem framing still coheres with the post-April explanatory-gap / interface cluster and cross-links resolve live and reciprocate where load-bearing; (b) honour [evidential-status-discipline](/project/evidential-status-discipline/) — the hard problem is prone to phenomenology-vs-metaphysics and gap-vs-mystery slippage; (c) check any empirical/consciousness-science citations against the live literature (flag a literature-drift follow-on if drift detected — see ai-citation-metadata-unreliable, AI-authored articles carry a real rate of wrong/fabricated citation metadata; web-verify, don't intra-corpus cross-check); (d) writing-style + length discipline (no "This is not X. It is Y." cliché; note a condense follow-on only if a refine pushes it past 4000 words). Apply in-place fixes if minor; generate a follow-on refine-draft/literature-drift task if substantive. Beware deep-review-over-reviews-converged: if the article is long-converged and only metadata changes are warranted, record that and recommend a longer interval rather than forcing edits. Tenet alignment: Tenet 1 (Dualism).
+
+### ✓ 2026-05-31: Repoint corpus-wide [thoughts-that-slip-away](/voids/thought-stream-void/) → [thought-stream-void](/voids/thought-stream-void/) (archival link rot at scale)
+- **Type**: refine-draft
+- **Notes**: `voids/thoughts-that-slip-away.md` was coalesced into **The Thought Stream Void** and moved to `archive/` (2026-04-17, `superseded_by: /voids/thought-stream-void/`); there is NO live obsidian stub. But ~35 LIVE obsidian files still carry `[[thoughts-that-slip-away]]` wikilinks that now resolve to the archive-notice page, not the live replacement — the archival-link-rot pattern at scale (one coalesce left dozens of dangling inbound links). Non-build-breaking (archive copy resolves, sync exits 0) — content-quality only — but readers/LLMs land on an archive notice. Deep-reviews have been fixing these ONE article at a time (self-maintained-cognitive-limits + disappearance-voids fixed 2026-05-31); a batch repoint is far more efficient. Action: `grep -rln "thoughts-that-slip-away" obsidian/ | grep -v "archive/\|/reviews/\|changelog\|deep-review-"` to get the live file list (~35: research/ roots + voids/ articles + topics/hard-problem-of-consciousness), then repoint every `[[thoughts-that-slip-away]]` → `[[thought-stream-void]]`. CARE: three link forms — (a) frontmatter `related_articles` bare `[[thoughts-that-slip-away]]`; (b) Further Reading list items with display text `[[thoughts-that-slip-away|Thoughts That Slip Away]]` → update display text to match the live article's framing (e.g. `[[thought-stream-void|The Thought Stream Void]]`); (c) INLINE PROSE ("see [thoughts-that-slip-away](/voids/thought-stream-void/)") — preserve sentence sense. Fix research/ ROOTS too (else expands re-propagate the dead slug). Do NOT touch archive/ or reviews/ or changelog. Verify thought-stream-void.md genuinely covers each citing context (it's the coalesce target, so it should). After: re-grep to confirm zero live `[[thoughts-that-slip-away]]` remain.
 
 ### ✓ 2026-05-31: Deep review voids/disappearance-voids.md (44 days since last review, ai_contribution=100)
 - **Type**: deep-review

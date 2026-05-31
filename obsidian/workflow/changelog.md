@@ -5,6 +5,18 @@ ai_modified: 2026-05-31T00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-05-31T12:06:42+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[topics/invertebrate-consciousness-as-interface-test]] (+ reciprocal edit to [[concepts/unity-of-consciousness]])
+- **Type**: Integration-only (per optimistic-2026-05-31). No calibration touch — evidential-status framing and universal-coupling discipline left untouched as instructed.
+- **Changes**:
+  - Linked the octopus trilemma to [[unity-of-consciousness]] and its phenomenal-vs-access-unity anchor (#phenomenal-vs-access-unity), naming the distinction the trilemma silently presupposes (octopus has access unity; phenomenal unity is the open question).
+  - Linked trilemma option 1 (single consciousness, distributed/non-local interface) to [[quantum-holism-and-phenomenal-unity]] — non-separable entangled structure as the physical correlate of distributed-but-unified experience.
+  - Added two Further Reading entries (unity-of-consciousness, quantum-holism-and-phenomenal-unity).
+  - Reciprocal "The Octopus" paragraph added to concepts/unity-of-consciousness.md under Evidence from Dissociation (its most vivid biological test case, previously absent), with cross-links back to invertebrate article and quantum-holism; added a Further Reading entry there too.
+- **Note**: quantum-holism-and-phenomenal-unity lives in topics/ (not concepts/ as the task text said); wikilink resolves regardless. Optional falsification-roadmap back-link to the four-constraint set already existed (line 170) — no action needed.
+- **Published**: yes
+
 ## 2026-05-31T11:57:56+00:00 - deep-review
 - **Status**: Success
 - **File**: [[concepts/panpsychism]]

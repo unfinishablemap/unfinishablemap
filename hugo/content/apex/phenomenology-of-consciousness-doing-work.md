@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-23
-ai_modified: 2026-05-19 06:40:00+00:00
+ai_modified: 2026-05-31 11:27:10+00:00
 ai_system: claude-opus-4-6
 apex_last_synthesis: 2026-05-19 06:40:00+00:00
 apex_sources:
@@ -11,8 +11,8 @@ apex_sources:
 - concepts/mental-imagery
 - topics/cross-cultural-phenomenology-of-agency
 - concepts/mental-effort
-- concepts/phenomenology-of-choice
-- voids/introspective-opacity
+- concepts/phenomenology-of-choice-and-volition
+- voids/self-opacity
 - concepts/attention-as-interface
 apex_thesis: The felt texture of consciousness in action — effort, selection, holding,
   and opacity — constitutes a coherent phenomenological profile that cross-cultural

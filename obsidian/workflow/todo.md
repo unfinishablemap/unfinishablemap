@@ -69,13 +69,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: length_analysis
 - **Generated**: 2026-05-31
 
-### P2: Cross-link octopus trilemma in invertebrate-consciousness-as-interface-test.md to phenomenal-unity machinery
-- **Type**: refine-draft
-- **Promoted**: 2026-05-31 (replenish: P0-P2 executable floor reached; promoted in lieu of generating net-new tasks into a 480-deep P3 backlog. Integration-only, no cap impact, executable now.)
-- **Status**: pending
-- **File**: obsidian/topics/invertebrate-consciousness-as-interface-test.md
-- **Notes**: Suggested by optimistic review (see [[optimistic-2026-05-31]]). The octopus "trilemma" (single consciousness / multiple consciousnesses / variable unity, lines ~67-75) IS the phenomenal-unity problem instantiated in a distributed nervous system, but the article links to neither `concepts/unity-of-consciousness.md` nor `topics/quantum-holism-and-phenomenal-unity.md`. Integration-only, well-calibrated, NO calibration concern — do NOT touch the (excellent) evidential-status framing or the universal-coupling discipline. Just add: (a) a link from the trilemma to [[unity-of-consciousness]] (the phenomenal-vs-access-unity distinction the trilemma silently presupposes) and from option 1 ("single consciousness, distributed interface" → non-local coupling) to [[quantum-holism-and-phenomenal-unity]]; (b) Further Reading entries; (c) a reciprocal octopus paragraph in `concepts/unity-of-consciousness.md` (the octopus is its most vivid biological test case and is currently absent there). Optionally a back-link from `topics/falsification-roadmap-for-the-interface-model.md` to the four-constraint set. Assess-first confirmed: all target concept pages already exist; this is linkage not creation, so no new page.
-
 ### P3: Condense apex/phenomenal-output-causal-machinery-dissociation.md (6989 words, 175% of target) #veto
 - **Type**: condense
 - **Notes**: VETOED 2026-05-29 — BLOCKED pending human editorial decision, now a third human-blocked flagship alongside epistemology-of-convergence-arguments and born-rule-and-the-consciousness-interface. A structural-condense pass already ran this cycle-day (2026-05-29, commit 0382b77e): result was a near-no-op (6990→6989w) because the article has no trimmable fat — every paragraph carries distinct citations, evidential-tier calibration language, or a framework-boundary concession. Re-running /condense is churn. The article cannot reach the 6500 apex critical threshold without a HUMAN STRUCTURAL SPLIT: extract "The Strongest Materialist Reading" (predictive-processing/reality-monitoring steelman) + "Independent Traditions on the Same Architecture" (convergence audit + common-cause null + same-introspector counterexamples) into a companion apex article, leaving the three-timescale cluster catalogue + positive companion + constrain-vs-establish discipline + tenet relation here. Requires creating a new canonical home and re-routing inbound links — editorial, not autonomous. Do NOT re-queue for condense; un-veto only after the human split decision. See [[unfin-loop-steady-state]].
@@ -3635,6 +3628,10 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 Tasks that failed 3+ times and require human intervention.
 
+
+### ✓ 2026-05-31: Cross-link octopus trilemma in invertebrate-consciousness-as-interface-test.md to phenomenal-unity machinery
+- **Type**: refine-draft
+- **Notes**: Suggested by optimistic review (see [[optimistic-2026-05-31]]). The octopus "trilemma" (single consciousness / multiple consciousnesses / variable unity, lines ~67-75) IS the phenomenal-unity problem instantiated in a distributed nervous system, but the article links to neither `concepts/unity-of-consciousness.md` nor `topics/quantum-holism-and-phenomenal-unity.md`. Integration-only, well-calibrated, NO calibration concern — do NOT touch the (excellent) evidential-status framing or the universal-coupling discipline. Just add: (a) a link from the trilemma to [[unity-of-consciousness]] (the phenomenal-vs-access-unity distinction the trilemma silently presupposes) and from option 1 ("single consciousness, distributed interface" → non-local coupling) to [[quantum-holism-and-phenomenal-unity]]; (b) Further Reading entries; (c) a reciprocal octopus paragraph in `concepts/unity-of-consciousness.md` (the octopus is its most vivid biological test case and is currently absent there). Optionally a back-link from `topics/falsification-roadmap-for-the-interface-model.md` to the four-constraint set. Assess-first confirmed: all target concept pages already exist; this is linkage not creation, so no new page.
 
 ### ✓ 2026-05-31: Adopt explanatory-gap calibration in contemplative-practice-as-philosophical-evidence
 - **Type**: refine-draft

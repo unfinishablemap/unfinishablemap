@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-04-09
-ai_modified: 2026-05-31 09:29:10+00:00
+ai_modified: 2026-05-31 12:06:42+00:00
 ai_system: claude-opus-4-7
 author: null
 concepts:
@@ -67,9 +67,9 @@ Chittka's *The Mind of a Bee* (2022) strengthens the empirical case. Bees recogn
 
 Cephalopods present the most provocative challenge. An octopus possesses approximately 500 million neurons, but distributes two-thirds of them across semi-autonomous arms rather than centralising them in the brain. Godfrey-Smith observes that "with a decentralized nervous system, each arm seems to have a mind of its own, yet the creature nevertheless acts to unified purposes." Severed octopus arms continue responding to stimuli independently. The organism operates through what Godfrey-Smith calls "a mixture of localized and top-down control."
 
-For the Map's interface model, this raises a trilemma. If consciousness couples with physical systems through quantum indeterminacies (as the [Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction) tenet proposes), the octopus forces a choice among three possibilities:
+For the Map's interface model, this raises a trilemma. The trilemma is the [phenomenal-unity problem](/concepts/unity-of-consciousness/) instantiated in a distributed nervous system: it silently presupposes the [phenomenal-versus-access-unity distinction](/concepts/unity-of-consciousness/#phenomenal-vs-access-unity), since the octopus plainly has *access* unity (its arms coordinate to unified purposes) while the open question is whether it has *phenomenal* unity (one encompassing "what it is like"). If consciousness couples with physical systems through quantum indeterminacies (as the [Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction) tenet proposes), the octopus forces a choice among three possibilities:
 
-1. **Single consciousness, distributed interface.** One conscious entity biases quantum outcomes at many spatially separated coupling sites throughout the octopus body. This preserves unity of consciousness but requires the coupling mechanism to operate non-locally across the organism.
+1. **Single consciousness, distributed interface.** One conscious entity biases quantum outcomes at many spatially separated coupling sites throughout the octopus body. This preserves unity of consciousness but requires the coupling mechanism to operate non-locally across the organism — exactly the kind of genuinely non-separable structure that [quantum holism](/topics/quantum-holism-and-phenomenal-unity/) proposes as the physical correlate of phenomenal unity, where entanglement binds spatially separated sites into a whole that was never fully decomposable into parts.
 
 2. **Multiple consciousnesses.** Several conscious entities each couple with a semi-autonomous neural subsystem. This accommodates the biological architecture but fragments the subject—there would be something it is like to be an octopus arm, not just something it is like to be the octopus.
 
@@ -145,6 +145,8 @@ The constraints also bear on how the cross-architecture variation should be read
 - [comparative-consciousness-and-interface-differences](/topics/comparative-consciousness-and-interface-differences/) — The nature-vs-coupling framework across species
 - [interface-efficacy-and-the-cognitive-gap](/topics/interface-efficacy-and-the-cognitive-gap/) — Coupling-grade scaling along bandwidth, fidelity, granularity, and candidate-type axes
 - [cetacean-and-corvid-consciousness](/topics/cetacean-and-corvid-consciousness/) — Dolphins and corvids as convergent amplification test cases
+- [unity-of-consciousness](/concepts/unity-of-consciousness/) — The phenomenal-vs-access-unity distinction the octopus trilemma presupposes
+- [quantum-holism-and-phenomenal-unity](/topics/quantum-holism-and-phenomenal-unity/) — Non-separable entangled structure as the physical correlate of distributed-but-unified experience
 - [degrees-of-consciousness](/concepts/degrees-of-consciousness/) — How consciousness varies across species
 - [substrate-independence](/concepts/substrate-independence/) — Whether consciousness requires specific physical substrates
 - [delegatory-causation](/concepts/delegatory-causation/) — The preemption structure through which consciousness takes over causal work from physical states
