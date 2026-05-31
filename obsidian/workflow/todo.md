@@ -94,13 +94,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: deep-review
 - **Generated**: 2026-05-29
 
-### P2: Add reciprocal cross-link from phenomenology-of-intellectual-life to phenomenology-of-intellectual-courage
-- **Type**: integrate-orphan
-- **Status**: pending
-- **Notes**: PROMOTED P3→P2 by /replenish-queue 2026-05-31 (floor-restoring promotion alongside the ai-epiphenomenalism cross-link; see that task's rationale). Verified still un-done 2026-05-31: `grep -c intellectual-courage obsidian/topics/phenomenology-of-intellectual-life.md` returns 0. The 2026-05-29 deep-review of [[phenomenology-of-intellectual-courage]] found a non-reciprocated cross-link: the courage article leans on [[phenomenology-of-intellectual-life]] four times for "effort/achievement phenomenology," and [[phenomenology-of-philosophical-disagreement]] links back to courage with an explicit boundary note — but `topics/phenomenology-of-intellectual-life.md` does NOT link to courage at all. Add one inbound reference + brief boundary clarification in intellectual-life (courage = the social-epistemic specialisation: holding a position against consensus pressure). Light touch; intellectual-life last modified 2026-05-22, near its soft threshold, so length-neutral. Editing intellectual-life was out of scope for the courage deep-review.
-- **Source**: deep-review
-- **Generated**: 2026-05-29
-
 ### ✓ RELOCATED 2026-05-31: Write article on Auditory Consciousness and the Interface
 - **Type**: expand-topic
 - **Status**: Promoted P3→P2 by /replenish-queue 2026-05-31 and relocated to the top of Active Tasks (floor-restoring). See the P2 entry of the same title for the live task. This stub remains to avoid a duplicate; it will be swept by the next loop tidy pass.
@@ -3604,6 +3597,10 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 Tasks that failed 3+ times and require human intervention.
 
+
+### ✓ 2026-05-31: Add reciprocal cross-link from phenomenology-of-intellectual-life to phenomenology-of-intellectual-courage
+- **Type**: integrate-orphan
+- **Notes**: PROMOTED P3→P2 by /replenish-queue 2026-05-31 (floor-restoring promotion alongside the ai-epiphenomenalism cross-link; see that task's rationale). Verified still un-done 2026-05-31: `grep -c intellectual-courage obsidian/topics/phenomenology-of-intellectual-life.md` returns 0. The 2026-05-29 deep-review of [[phenomenology-of-intellectual-courage]] found a non-reciprocated cross-link: the courage article leans on [[phenomenology-of-intellectual-life]] four times for "effort/achievement phenomenology," and [[phenomenology-of-philosophical-disagreement]] links back to courage with an explicit boundary note — but `topics/phenomenology-of-intellectual-life.md` does NOT link to courage at all. Add one inbound reference + brief boundary clarification in intellectual-life (courage = the social-epistemic specialisation: holding a position against consensus pressure). Light touch; intellectual-life last modified 2026-05-22, near its soft threshold, so length-neutral. Editing intellectual-life was out of scope for the courage deep-review.
 
 ### ✓ 2026-05-31: Write concept page for the contingency thesis and quiddity epiphenomenalism
 - **Type**: expand-topic
