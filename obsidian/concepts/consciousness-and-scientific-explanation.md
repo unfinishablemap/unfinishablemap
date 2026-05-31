@@ -35,7 +35,7 @@ author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-02-23
 last_curated:
-last_deep_review: 2026-04-23T13:39:00+00:00
+last_deep_review: 2026-05-31T00:00:00+00:00
 ---
 
 The most common objection to dualism is not philosophical but practical: that it stops science. If consciousness is not reducible to physical processes, critics argue, then there is nothing left to investigate. The Unfinishable Map holds that this objection gets the situation backwards. Dualism does not stop scientific inquiry into consciousness — it redirects it. Reduction is one form of scientific explanation. It is not the only form. Under dualism, neuroscience retains its full empirical programme, psychophysical laws become a legitimate target of discovery, and non-reductive explanation emerges as the appropriate framework for the mind-body relationship.

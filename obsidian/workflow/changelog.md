@@ -1,9 +1,22 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-31T12:00:00+00:00
+ai_modified: 2026-05-31T18:00:00+00:00
 ai_system: claude-opus-4-8
 ---
+
+## 2026-05-31T18:00:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [[concepts/consciousness-and-scientific-explanation]]
+- **Word count**: 2359 → 2359 (+0; no content edits, length-neutral at 94% soft threshold)
+- **Critical issues addressed**: 0 (none found — fourth review, durably converged)
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 (no changes manufactured)
+- **Citations verified**: Frankish 2016 *JCS* 23(11-12) 11-39 ✓ EXACT (web-verified). Churchland 1986 *Neurophilosophy* MIT Press ✓ (page for "poltergeists" quote not web-confirmable, carried low-priority). Chalmers 1996 / Dennett 1991,1995 / Nagel 1974 / Levine 1983 — canonical, unchanged, correct.
+- **Reasoning-mode (editor-internal)**: Dennett science-stopping = Mode One (conflates irreducibility/uninvestigability); physicalist optimistic-induction = Mode Three (disanalogy marked as the open question, no false refutation); Frankish/Dennett illusionism = Mixed (Mode Two + Mode Three, presupposition acknowledged). No label leakage (grep clean).
+- **Calibration**: PASS — quantum claims hedged, permanent-gap framed as prediction not established, Occam's verdict framed as felt-signal not evidence; no tenet-coherence-as-evidence slippage; constrain-vs-establish intact.
+- **Note**: staleness-promoted (38d). Bumped `last_deep_review` only; left `ai_modified` unchanged since no content changed. Recommend longer review interval for this durably-converged article.
+- **Output**: [[reviews/deep-review-2026-05-31-consciousness-and-scientific-explanation]]
 
 ## 2026-05-31T17:19:48+00:00 - deep-review
 - **Status**: Success

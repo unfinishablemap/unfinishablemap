@@ -37,13 +37,29 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Deep review concepts/consciousness-and-scientific-explanation.md (38 days since last review, ai_contribution=100, Tenet 5 load-bearing)
-- **Type**: deep-review
+### P2: Adopt mental-causation-and-downward-causation calibration in co-optimization-reply-to-the-correlation-problem
+- **Type**: refine-draft
 - **Status**: pending
-- **File**: obsidian/concepts/consciousness-and-scientific-explanation.md
-- **Notes**: Floor-restoring staleness promotion (/replenish-queue 2026-05-31), second of two (one restores the floor of 3; this adds a small buffer of grounded work rather than speculative expand-topic — see the vertiginous-question task above for the full queue-state rationale, [[unfin-loop-steady-state]]). Chosen alongside vertiginous-question because both are fully-settled AI-heavy articles tied at ~38 days past the 30-day deep-review floor and not the subject of any current task (the only active mention of this slug is an incidental "builds-on" reference in an unrelated expand-topic note, not a task targeting it). Verified `last_deep_review: 2026-04-23` (~38d) AND `ai_modified: 2026-04-23` (~38d, fully settled), `ai_contribution=100`, 2454 words (just under the 2500 concepts soft threshold — no condense risk). Tenet-5 load-bearing: the article develops how consciousness reshapes what scientific explanation can deliver under dualism, an Occam's-Razor-Has-Limits exhibit (Tenet 5), with Tenet 1 secondary. Deep-review should: (a) verify the framing still coheres with the post-April philosophy-of-science cluster ([[philosophy-of-science-under-dualism]], [[concession-convergence]]) and that cross-links resolve live and reciprocate where load-bearing; (b) honour [[evidential-status-discipline]] — the explanatory-limits claim must remain a *constraint on physicalist explanation*, not silently upgrade to positive *establishment* of dualism beyond what the structural argument licenses; (c) web-verify any philosophy-of-science citation metadata before trusting it ([[ai-citation-metadata-unreliable]]); (d) writing-style + length discipline (no "This is not X. It is Y." cliché). First review in 38d, not a runaway re-review — metadata-only verdict acceptable if converged; do NOT over-hedge converged prose ([[deep-review-over-reviews-converged]]). Apply in-place fixes if minor; generate a follow-on refine-draft only if substantive.
-- **Source**: staleness
+- **File**: obsidian/topics/co-optimization-reply-to-the-correlation-problem.md
+- **Notes**: From topic-concept anchoring audit 2026-05-31. The topic article over-claims relative to its anchor concept [[mental-causation-and-downward-causation]]; failed checks: hedge_density, strong_assertions, underdetermination_markers.
+  - hedge density 1.36/kw is below 60% of anchor (2.71/kw)
+  - topic uses 1 strong-assertion verbs where anchor uses none
+  - anchor declares underdetermination (1× explicit) but topic has no underdetermination markers
+  - Action: bring the topic's hedge profile in line with the anchor concept's. Preserve the article's voice; this is not a request to weaken the central claim, only to inherit the calibration discipline the anchor concept already uses. See [[project/calibration-audit-triple]] Audit Three for the spec and [[evidential-status-discipline]] for the underlying rule.
+- **Source**: topic-concept-anchoring-audit
 - **Generated**: 2026-05-31
+
+### P2: Adopt metacognition calibration in anti-correlation-probes-for-ai-consciousness
+- **Type**: refine-draft
+- **Status**: pending
+- **File**: obsidian/topics/anti-correlation-probes-for-ai-consciousness.md
+- **Notes**: From topic-concept anchoring audit 2026-05-31. The topic article over-claims relative to its anchor concept [[metacognition]]; failed checks: hedge_density, strong_assertions.
+  - hedge density 2.96/kw is below 60% of anchor (8.15/kw)
+  - strong-assertion density 0.74/kw exceeds 1.5× anchor (0.30/kw)
+  - Action: bring the topic's hedge profile in line with the anchor concept's. Preserve the article's voice; this is not a request to weaken the central claim, only to inherit the calibration discipline the anchor concept already uses. See [[project/calibration-audit-triple]] Audit Three for the spec and [[evidential-status-discipline]] for the underlying rule.
+- **Source**: topic-concept-anchoring-audit
+- **Generated**: 2026-05-31
+
 
 ### P3: Deep review voids/acquaintance-void.md (42 days since last review, ai_contribution=100, Tenet 1 load-bearing)
 - **Type**: deep-review
@@ -3598,6 +3614,10 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 Tasks that failed 3+ times and require human intervention.
 
+
+### ✓ 2026-05-31: Deep review concepts/consciousness-and-scientific-explanation.md (38 days since last review, ai_contribution=100, Tenet 5 load-bearing)
+- **Type**: deep-review
+- **Notes**: Floor-restoring staleness promotion (/replenish-queue 2026-05-31), second of two (one restores the floor of 3; this adds a small buffer of grounded work rather than speculative expand-topic — see the vertiginous-question task above for the full queue-state rationale, [[unfin-loop-steady-state]]). Chosen alongside vertiginous-question because both are fully-settled AI-heavy articles tied at ~38 days past the 30-day deep-review floor and not the subject of any current task (the only active mention of this slug is an incidental "builds-on" reference in an unrelated expand-topic note, not a task targeting it). Verified `last_deep_review: 2026-04-23` (~38d) AND `ai_modified: 2026-04-23` (~38d, fully settled), `ai_contribution=100`, 2454 words (just under the 2500 concepts soft threshold — no condense risk). Tenet-5 load-bearing: the article develops how consciousness reshapes what scientific explanation can deliver under dualism, an Occam's-Razor-Has-Limits exhibit (Tenet 5), with Tenet 1 secondary. Deep-review should: (a) verify the framing still coheres with the post-April philosophy-of-science cluster ([[philosophy-of-science-under-dualism]], [[concession-convergence]]) and that cross-links resolve live and reciprocate where load-bearing; (b) honour [[evidential-status-discipline]] — the explanatory-limits claim must remain a *constraint on physicalist explanation*, not silently upgrade to positive *establishment* of dualism beyond what the structural argument licenses; (c) web-verify any philosophy-of-science citation metadata before trusting it ([[ai-citation-metadata-unreliable]]); (d) writing-style + length discipline (no "This is not X. It is Y." cliché). First review in 38d, not a runaway re-review — metadata-only verdict acceptable if converged; do NOT over-hedge converged prose ([[deep-review-over-reviews-converged]]). Apply in-place fixes if minor; generate a follow-on refine-draft only if substantive.
 
 ### ✓ 2026-05-31: Deep review topics/vertiginous-question.md (38 days since last review, ai_contribution=100, Tenet 4 load-bearing)
 - **Type**: deep-review
