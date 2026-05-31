@@ -4,7 +4,7 @@ description: "Russellian monism and the dual-aspect tradition approach the Map's
 created: 2026-03-22
 modified: 2026-04-27
 human_modified:
-ai_modified: 2026-05-31T00:00:00+00:00
+ai_modified: 2026-05-31T16:55:47+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -140,7 +140,7 @@ This comparison engages all five of the Map's [[tenets]]:
 
 **Minimal Quantum Interaction**: The Map identifies a specific interface — quantum indeterminacy — where consciousness acts. Russellian monism provides no comparable mechanism. Quiddities "play indispensable roles in physical causation" remains schematic.
 
-**Bidirectional Interaction**: The Map gives consciousness genuine work: selecting among undetermined outcomes. Russellian monism's identity thesis leaves nothing for consciousness to *do* beyond constituting intrinsic nature. The contingency thesis (Howell 2014) shows this constitution may be epiphenomenal.
+**Bidirectional Interaction**: The Map gives consciousness genuine work: selecting among undetermined outcomes. Russellian monism's identity thesis leaves nothing for consciousness to *do* beyond constituting intrinsic nature. The contingency thesis (Howell 2015) shows this constitution may be epiphenomenal.
 
 **No Many Worlds**: Russellian monism's compatibility with Everett reveals its agnosticism about consciousness's causal role at measurement. The Map's rejection of many-worlds follows from its ontology: if consciousness actualises possibilities, coexisting branches are ruled out.
 
@@ -166,7 +166,7 @@ This comparison engages all five of the Map's [[tenets]]:
 6. Eddington, A. (1928). *The Nature of the Physical World*. Cambridge University Press.
 7. Fechner, G.T. (1860). *Elemente der Psychophysik*. Breitkopf & Härtel.
 8. Hashemi, A. (2024). How to understand Russellian panpsychism. *Erkenntnis*.
-9. Howell, R.J. (2014). The Russellian monist's problems with mental causation. *The Philosophical Quarterly*, 65(258), 22-39.
+9. Howell, R.J. (2015). The Russellian monist's problems with mental causation. *The Philosophical Quarterly*, 65(258), 22-39.
 10. Kelly, E.F. (2022). Best Way Forward or Unnecessary Detour? *Essentia Foundation* review of Atmanspacher & Rickles.
 11. Kind, A. (2015). Pessimism about Russellian monism. In T. Alter & Y. Nagasawa (Eds.), *Consciousness in the Physical World* (pp. 401-421). Oxford University Press.
 12. Miller, G. (2018). Can subjects be proper parts of subjects? The de-combination problem. *Ratio*, 31(2), 132-143.

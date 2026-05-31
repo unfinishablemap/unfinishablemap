@@ -5,6 +5,16 @@ ai_modified: 2026-05-31T12:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-05-31T16:55:47+00:00 - refine-draft
+- **Status**: Success
+- **Files**: [[concepts/russellian-monism]], [[topics/russellian-monism-versus-bi-aspectual-dualism]], [[topics/consciousness-and-the-metaphysics-of-laws-and-dispositions]]
+- **Changes**: Pure-metadata citation fix — Howell *Philosophical Quarterly* contingency-thesis cite corrected from "2014" to "2015" (web-verified: Howell 2015, Phil. Quarterly 65(258):22-39, DOI 10.1093/pq/pqu058). Dual-loci sweep per the body-vs-reference-list defect that triggered the task.
+  - russellian-monism.md: 1 instance (reference-list entry line 166; body line 90 was already correct — resolves the in-file self-contradiction)
+  - russellian-monism-versus-bi-aspectual-dualism.md: 2 instances (body cite line 143 + reference-list entry line 169)
+  - consciousness-and-the-metaphysics-of-laws-and-dispositions.md: 2 instances (body cite line 120 + reference-list entry line 203)
+  - Verified: zero residual "Howell (2014)" / "Howell, R... 2014" in all three files; body and reference list now consistent. Surrounding prose untouched.
+- **Published**: yes
+
 ## 2026-05-31T16:47:23+00:00 - condense
 - **Status**: Near-no-op — only minor calibration-safe redundancy trims applied; article remains over hard threshold by design
 - **File**: [[topics/epistemic-advantages-of-dualism]]
