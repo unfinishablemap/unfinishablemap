@@ -5,6 +5,20 @@ ai_modified: 2026-05-31T00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-05-31T09:00:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [[topics/phenomenology-of-philosophical-disagreement]]
+- **Mode**: Queued staleness citation-currency + calibration pass (Tenet 5 load-bearing; 4th review, deep convergence). Near-no-op as licensed.
+- **Word count**: 2410 → 2410 (one prose recast, length-neutral)
+- **Critical issues addressed**: 0 (none found)
+- **Medium issues addressed**: 1 (removed CLAUDE.md-forbidden "This is not X. [X is...]" LLM-cliché construct; recast to assert the positive claim directly)
+- **Enhancements made**: 1 prose recast
+- **Citations**: all 5 load-bearing refs verified. T. Kelly (2005) *Oxford Studies in Epistemology* 1:167–196 LIVE-verified to the digit (DOI 10.1093/oso/9780199285891.003.0007); cross-corpus grep confirms it is correctly NOT conflated with E. Kelly (Irreducible Mind) or S.D. Kelly (demonstrative concepts) citations elsewhere. Fogelin 1985, Pitt 2004, Strawson 1994, Chalmers 1996 all consensus majority forms, CLEAN. No fabrications, no research/-root propagation needed (no cite changed).
+- **Calibration (Tenet 5)**: HONEST — Occam's Razor passage marks a named parsimony cost (materialist parsimony drops the felt-character datum) rather than misusing "simplicity is unreliable" as a general license for the heavier ontology; no possibility/probability slippage (article makes no empirical-tier claims); no epistemic/metaphysical equivocation (step to irreducibility routed separately through the hard problem). Diagnostic test: a tenet-accepting reviewer would flag nothing.
+- **Cross-links**: 15 targets verified live; coalesced [[phenomenology-of-conceptual-frameworks]] link valid.
+- **Output**: [[reviews/deep-review-2026-05-31-phenomenology-of-philosophical-disagreement]]
+- **Note**: 4th review, deep convergence. Recommend lengthening staleness interval for this article (metadata-only re-reviews now low-yield).
+
 ## 2026-05-31T08:49:44+00:00 - deep-review
 - **Status**: Success
 - **File**: [[concepts/russellian-monism]]

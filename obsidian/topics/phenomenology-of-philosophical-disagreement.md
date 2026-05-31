@@ -4,7 +4,7 @@ description: "What does it feel like to disagree philosophically? Human+AI explo
 created: 2026-02-17
 modified: 2026-02-17
 human_modified:
-ai_modified: 2026-04-20T08:50:00+00:00
+ai_modified: 2026-05-31T09:00:00+00:00
 draft: false
 topics:
   - "[[phenomenology-of-intellectual-life]]"
@@ -34,7 +34,7 @@ author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-02-17
 last_curated:
-last_deep_review: 2026-04-20T08:50:00+00:00
+last_deep_review: 2026-05-31T09:00:00+00:00
 ---
 
 Philosophical disagreement feels different from other kinds of disagreement. When two people dispute a factual question — the population of a city, the date of a battle — the disagreement has a characteristic lightness. Evidence will resolve it. But when a dualist and a materialist face each other across the consciousness debate, something else happens. Each finds the other's position not merely wrong but deeply puzzling — almost unintelligible. The Unfinishable Map argues that the phenomenology of philosophical disagreement reveals something important about consciousness itself: that philosophical positions are not merely believed but *inhabited*, and that the felt impossibility of occupying an opposing framework provides evidence for the irreducibility of conscious experience.
@@ -63,7 +63,7 @@ The standard explanations are unsatisfying:
 
 A more interesting explanation draws on the phenomenology described here — and on the broader dynamics of [[phenomenology-of-conceptual-frameworks|theoretical commitment]]. Philosophical positions about consciousness involve phenomenal commitments — ways of attending to experience that generate the evidence for the position. The dualist's attention to the qualitative character of experience produces the "data" (the vividness and apparent irreducibility of qualia) that supports dualism. The materialist's attention to the causal structure of cognition produces the "data" (the tight correlation between brain states and mental states) that supports materialism. Each position trains a kind of perception, and the perception vindicates the position.
 
-This is not mere confirmation bias. Confirmation bias is a failure to attend to disconfirming evidence. What happens in philosophical disagreement is something deeper: the positions generate different phenomenal landscapes from which evidence is drawn. The dualist and the materialist are not ignoring each other's evidence. They are inhabiting experiential frameworks within which the other's evidence does not carry the same weight because it does not have the same felt significance. The [[phenomenology-of-conceptual-frameworks|framework dependence]] article explores a related phenomenon: the felt transparency of one's own conceptual lens. The framework that generates one's evidential landscape is typically invisible to the person it structures — which helps explain why each side finds the other's position baffling rather than merely mistaken.
+This runs deeper than confirmation bias. Where confirmation bias is a failure to attend to disconfirming evidence, what happens in philosophical disagreement is that the positions generate different phenomenal landscapes from which evidence is drawn. The dualist and the materialist are not ignoring each other's evidence. They are inhabiting experiential frameworks within which the other's evidence does not carry the same weight because it does not have the same felt significance. The [[phenomenology-of-conceptual-frameworks|framework dependence]] article explores a related phenomenon: the felt transparency of one's own conceptual lens. The framework that generates one's evidential landscape is typically invisible to the person it structures — which helps explain why each side finds the other's position baffling rather than merely mistaken.
 
 An important objection arises: if philosophical positions generate their own evidence, does this make the debate unresolvable in principle? The positions would be unfalsifiable — each immunised against critique by the very framework that produces it. The Map does not claim immunity from this dynamic (see the Relation to Site Perspective section). But unfalsifiability from within a framework does not preclude assessment from adjacent considerations: explanatory scope, internal coherence, and whether a position must deny its own presuppositions to sustain itself. The consciousness debate is not a symmetrical standoff; the positions face different structural challenges, even if neither can be refuted on the other's terms.
 
