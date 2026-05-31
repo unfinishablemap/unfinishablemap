@@ -1,9 +1,18 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-31T00:00:00+00:00
+ai_modified: 2026-05-31T12:00:00+00:00
 ai_system: claude-opus-4-8
 ---
+
+## 2026-05-31T12:00:00+00:00 - refine-draft (methodology note)
+- **Status**: Success
+- **File**: [[apex/conjunction-coalesce]] (+ cross-link in [[concepts/apophatic-cartography-four-criteria]])
+- **Task**: assess-first taxonomy-consistency check for the voids methodology (outer review 2026-05-29, Claude Opus 4.8, audit of [[voids/mutation-void]])
+- **Assess-first verdict**: PARTIAL DECLINE of the broad proposal. Reviewer point (a) — cross-void mechanism overlap — already covered by the [[apex/conjunction-coalesce|conjunction-coalesce]] seam test (third refinement: faces must resist single-mechanism unification), the signature-specificity criterion in [[concepts/apophatic-cartography-four-criteria]], and the abandon-coalesce third verdict. No heavyweight new methodology layer warranted. Reviewer point (b) — a single void presenting its *internal* sub-enumeration as complete/disjoint when it is open-ended and partly over-lumped — was the genuine gap: the existing disciplines all operate at the article (whole-void) grain and were silent on intra-article sub-lists.
+- **Changes**: Added "The Seam Test Turned Inward" section to conjunction-coalesce extending the seam test's third-refinement + rhetorical-seam diagnostics one level down to sub-enumerations within a single void, framed via [[evidential-status-discipline]] (an N-way list implies N independent confirmations it must be able to cash; hedge-density calibration does not catch the completeness illusion). Cited mutation-void's already-landed remediation ("the honest taxonomy is narrower than six" + the strain table) as the worked exhibit rather than re-editing it. Added reciprocal cross-link from the four-criteria "Specificity is gradable" honest-bound. Added related_articles cross-links; bumped both ai_modified stamps.
+- **Concrete article finding**: mutation-void's taxonomy was ALREADY hedged/scope-bounded by its 2026-05-29 deep-review (lines 101-114), so no further edit to the article was needed — the targeted fix the task's license-to-decline pointed at was already done.
+- **Published**: yes
 
 ## 2026-05-31T13:05:00+00:00 - expand-topic
 - **Status**: Success

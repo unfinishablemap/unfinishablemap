@@ -4,7 +4,7 @@ description: "Signature specificity, structured persistence, cross-observer conv
 created: 2026-05-16
 modified: 2026-05-16
 human_modified:
-ai_modified: 2026-05-27T13:36:21+00:00
+ai_modified: 2026-05-31T12:00:00+00:00
 last_deep_review: 2026-05-16T00:52:00+00:00
 draft: false
 topics:
@@ -111,7 +111,7 @@ The criteria are not foundations. Five bounds are visible and named honestly:
 
 **The recursive bind on framework-independence.** The question *is this observation framework-shaped?* is itself framework-shaped. A reviewer applying the criterion is using their own framework's categories to decide what counts as despite-commitments observation. The bind is genuine; the response is asymptotic, not foundational — adversarial cross-framework auditing tightens the calibration without eliminating the recursion.
 
-**Specificity is gradable, not binary.** Two voids producing *related* signatures (the hard problem and the explanatory gap; narrative-void and confabulation-void) may share structure without being identical. The criterion's threshold for "different signature" is judgement-laden.
+**Specificity is gradable, not binary.** Two voids producing *related* signatures (the hard problem and the explanatory gap; narrative-void and confabulation-void) may share structure without being identical. The criterion's threshold for "different signature" is judgement-laden. The same gradability runs *within* a void whose body enumerates its own sub-kinds: an internal list of classes can over-split one mechanism into several or present an open-ended sample as a complete partition. The signature-specificity criterion polices distinctness *across* voids; [[apex/conjunction-coalesce#the-seam-test-turned-inward-sub-enumerations-within-one-void|the seam test turned inward]] polices the same distinctness *within* a single void's sub-enumeration, and the [[evidential-status-discipline|evidential-status discipline]] supplies the rule the inward check enforces—a six-way list must not claim six independent confirmations its faces cannot supply.
 
 **The criteria are calibration, not proof.** This is the load-bearing bound. The four criteria bound what evidential weight a cluster can claim, not what it has shown. Passing all four does not establish that the void is genuine; it establishes that the catalogue's labelling of the void as genuine is not artefactually inflated. Failing one or more does not establish that the void is illusory; it establishes that the catalogue cannot claim the void's full force against the relevant common-cause null. The [[evidential-status-discipline|evidential-status discipline]]'s core rule — *a tenet may remove a defeater but must not upgrade the evidence level* — has its cluster-level translation here: *the criteria may identify a cluster's eligibility for evidential weight but must not upgrade the cluster's independence score beyond what its anchors can supply*.
 

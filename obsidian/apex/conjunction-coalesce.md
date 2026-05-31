@@ -4,7 +4,7 @@ description: "When two voids are conjoined at a structural level, merging them i
 created: 2026-04-27
 modified: 2026-05-12
 human_modified: null
-ai_modified: 2026-05-19T00:00:00+00:00
+ai_modified: 2026-05-31T12:00:00+00:00
 last_deep_review: 2026-05-01T04:10:00+00:00
 draft: false
 topics: []
@@ -25,6 +25,9 @@ related_articles:
   - "[[compound-failure-signatures]]"
   - "[[coalesce-condense-apex-stability]]"
   - "[[abandon-coalesce]]"
+  - "[[apophatic-cartography-four-criteria]]"
+  - "[[evidential-status-discipline]]"
+  - "[[mutation-void]]"
   - "[[mechanism-costs-cartography]]"
   - "[[tenets]]"
   - "[[suspension-void]]"
@@ -155,6 +158,16 @@ The procedural side of these pressures is documented separately in [[coalesce-co
 The first failure mode is *rhetorical seam*. The article continues the multi-face ceremony—naming the faces, sustaining the parallel structure—while the content no longer requires the conjunction. Faces drift toward saying the same thing, the joint claim collapses to a redescription of either face, and the article reads as a disguised redundancy-coalesce. The diagnostic is the seam test in reverse: ask whether the article's central claims can be stated without invoking the conjunction; if they can, the conjunction is no longer load-bearing and the article should be restructured.
 
 The second failure mode is *forced* conjunction-coalesce: applying the discipline to articles that should remain separate. Naming a methodology tends to produce instances of it. The check is the third refinement: when the apparent conjunction reduces to "both X and Y are consequences of mechanism M," the proper article is on M, with X and Y as its consequences. The conjunction-coalesce in such cases manufactures a structural seam where the territory has only causal dependence.
+
+## The Seam Test Turned Inward: Sub-Enumerations Within One Void
+
+The seam test as stated polices *mergers*: it asks whether two articles' faces collapse to one mechanism. The same logic applies one level down, inside a single void whose body enumerates its own sub-kinds. A void that names six classes of its phenomenon makes an implicit conjunction claim—these are distinct faces of the void—and inherits the same two failure modes the seam test was built to catch. Naming the inward application closes a gap: the [[apophatic-cartography-four-criteria|signature-specificity criterion]] guards against *different voids* producing the same signature, and the seam test guards against *merged* voids over-lumping, but neither speaks to a single article's *internal* list presenting as complete and disjoint when it is neither.
+
+Two checks transpose inward. The first is the third refinement run on the sub-list: **do the enumerated classes resist single-mechanism unification, or do several collapse to one?** If three of six sub-kinds reduce to one mechanism in three settings, the enumeration over-splits, and the article should say so rather than count the settings as independent confirmations. The second is the rhetorical-seam diagnostic applied to completeness: **is the list presented with the rhetorical weight of an exhaustive enumeration when it is an open-ended sample?** A void that hedges its list at the outset ("several classes can be identified") but later commits to the number ("all six classes") has let an illustrative sample harden into a closed taxonomy. The fix is not to claim the list is wrong but to scope-bound it: name which classes may share a mechanism, name the candidate categories the list omits, and mark the enumeration as a sample of a phenomenon rather than a partition of it.
+
+The discipline here is the [[evidential-status-discipline|evidential-status discipline]] at the sub-claim grain. A six-way enumeration carries an implicit evidential claim—*six independent instances*—that an over-lumped or non-exhaustive list cannot honestly cash. Hedge-density calibration does not catch this: a list can be heavily hedged class-by-class and still, at the list level, present a sample as a complete and disjoint set. The completeness illusion is a property of the enumeration's framing, not of any single entry's wording.
+
+[[voids/mutation-void|The mutation void]] is the worked exhibit. Its six-class taxonomy of mutating thoughts—self-refuting, temporal, attention, emotional, dream, meditative—drew the failure mode in a 2026-05-29 outer review: the attention, emotional, and meditative classes plausibly share one mechanism (attention-recruited metacognition reshaping a less-accessible state), the self-refuting and temporal classes are arguably not mutations at all (a blindspot and a representational lag respectively), and well-documented candidates (verbal overshadowing, reconstructive memory) are absent—yet the list carried the weight of a complete one. The remediation installed both inward checks: a "Phenomenon, Evidence, and What the Tenets Add" table that maps each class to its support and exposes where the taxonomy strains, and an explicit scope-bound—*"the honest taxonomy is narrower than six"*—naming the single-mechanism collapse and the boundary cases. The article keeps its argument; what changed is that the enumeration no longer claims six independent confirmations it cannot supply. That is the inward seam test doing the same work the outward one does for mergers: refusing to let a structural list assert more independence than its faces earn.
 
 ## Distinct from Concept Extraction
 

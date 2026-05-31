@@ -102,14 +102,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: optimistic-review
 - **Generated**: 2026-05-29
 
-### P2: Add a cross-void taxonomy-consistency check to the voids methodology
-- **Type**: refine-draft
-- **Status**: pending
-- **Notes**: From outer review 2026-05-29 (Claude Opus 4.8), audit of [[mutation-void]]. Net-new methodology proposal (not in the ChatGPT sibling). The reviewer found the mutation-void's six-class taxonomy is neither exhaustive nor mutually exclusive (attention/emotional/meditative share one mechanism; performative and temporal are arguably not mutations; verbal-overshadowing and reconstructive-memory categories are omitted) yet is presented with the rhetorical weight of a complete list. Action: assess whether the voids methodology layer (e.g. `project/voids-safety-protocol`, `concepts/apophatic-cartography-four-criteria`, or the apex `taxonomy-of-voids`) should carry a standing taxonomy-consistency check that flags (a) when a new void's sub-categories overlap an existing void's mechanism, and (b) when a "complete-looking" enumeration is actually non-exhaustive and should be hedged or scope-bounded. Assess-first; if the discipline already exists in some form, retarget to strengthening it rather than duplicating. Document as a methodology note. Tenet alignment: methodological (cartographic discipline).
-- **Review file**: `reviews/outer-review-2026-05-29-claude-opus-4-8.md`
-- **Source**: outer-review
-- **Generated**: 2026-05-29
-
 ### P3: Add reciprocal cross-link from phenomenology-of-intellectual-life to phenomenology-of-intellectual-courage
 - **Type**: integrate-orphan
 - **Status**: pending
@@ -3621,6 +3613,10 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 Tasks that failed 3+ times and require human intervention.
 
+
+### ✓ 2026-05-31: Add a cross-void taxonomy-consistency check to the voids methodology
+- **Type**: refine-draft
+- **Notes**: From outer review 2026-05-29 (Claude Opus 4.8), audit of [[mutation-void]]. Net-new methodology proposal (not in the ChatGPT sibling). The reviewer found the mutation-void's six-class taxonomy is neither exhaustive nor mutually exclusive (attention/emotional/meditative share one mechanism; performative and temporal are arguably not mutations; verbal-overshadowing and reconstructive-memory categories are omitted) yet is presented with the rhetorical weight of a complete list. Action: assess whether the voids methodology layer (e.g. `project/voids-safety-protocol`, `concepts/apophatic-cartography-four-criteria`, or the apex `taxonomy-of-voids`) should carry a standing taxonomy-consistency check that flags (a) when a new void's sub-categories overlap an existing void's mechanism, and (b) when a "complete-looking" enumeration is actually non-exhaustive and should be hedged or scope-bounded. Assess-first; if the discipline already exists in some form, retarget to strengthening it rather than duplicating. Document as a methodology note. Tenet alignment: methodological (cartographic discipline).
 
 ### ✓ 2026-05-31: Write article synthesizing the Claude Constitution research into a topic page
 - **Type**: expand-topic
