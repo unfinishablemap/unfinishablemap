@@ -4,7 +4,7 @@ description: "Three classes of pharmacological dissociation—same-target-opposi
 created: 2026-05-18
 modified: 2026-05-18
 human_modified: null
-ai_modified: 2026-05-27T11:10:47+00:00
+ai_modified: 2026-05-31T11:06:37.123598+00:00
 last_deep_review: 2026-05-18T22:10:00+00:00
 draft: false
 topics:
@@ -54,6 +54,11 @@ apex_sources:
   - concepts/mind-matter-interface
 apex_last_synthesis: 2026-05-27T11:10:47+00:00
 apex_thesis: "Pharmacological dissociation furnishes evidence for a structured, multi-channel consciousness-brain interface in three distinguishable classes—same target / opposite outcome, different targets / convergent outcome, same behavioural depth / different mechanism / different phenomenology—each of which constrains the simplest identity reading rather than establishing the Map's interactionist version, with cumulative force coming from convergence across pharmacology, neurology, clinical dissociation, and contemplative practice."
+embedded_videos:
+  - id: RTsACxF4uDA
+    url: https://www.youtube-nocookie.com/embed/RTsACxF4uDA
+    embedded: 2026-05-31T11:06:37.123598+00:00
+    source: notebooklm/0064-01-pharmacological-dissociation-as-evidence
 ---
 
 Pharmacology is in an unusual epistemic position with respect to consciousness. A drug binds to a known receptor, modulates a known signalling pathway, and produces a phenomenological outcome the patient can later report. The chain from molecule to experience is short by neuroscience's standards, and the contrasts between drugs are sharp: two compounds acting on the same receptor produce different conscious states; two compounds acting on different receptors produce the same one; two compounds producing the same behavioural depth deliver different first-person interiors. Each contrast is a dissociation, and dissociations are the form of evidence the Unfinishable Map's interface model is best positioned to use.
@@ -61,6 +66,12 @@ Pharmacology is in an unusual epistemic position with respect to consciousness. 
 What the catalogue has lacked is a piece that lifts pharmacological dissociation into a named evidence pattern at the methodology grain. The [[anaesthesia-and-the-consciousness-interface|anaesthesia article]] carries three distinct dissociation contrasts in its body, each load-bearing in different ways, but the pattern they exhibit together is not specified at any single location. The [[neurological-dissociations-as-interface-architecture|neurological dissociations]], [[clinical-dissociation-as-systematic-evidence|clinical dissociations]], and [[contemplative-pathology-and-interface-malfunction|contemplative pathology]] clusters each reach the same architecture by independent routes, and the [[altered-states-as-interface-evidence|altered-states apex]] gathers five state-modalities into a convergence matrix—but none of these names what pharmacological dissociation *as a class* asks of the interface model, what it can and cannot do, and what discipline keeps its evidential weight calibrated.
 
 This synthesis names three pharmacological-dissociation classes, supplies the anaesthetic exhibit for each, locates the matching patterns in the catalogue's parallel clusters, and installs the [[evidential-status-discipline|evidential-status discipline]] that prevents the convergence from inflating beyond what the evidence licenses. The methodology is not a tenet-specific commitment. It is a discipline about how the Map identifies dissociation patterns as evidence for interface architecture, sustained by the discriminating insight that *which* drugs dissociate from *which* drugs reveals more about the interface than what any single drug does.
+
+<details class="yt-embed" data-video-id="RTsACxF4uDA">
+<summary>Video introduction</summary>
+<a href="https://www.youtube-nocookie.com/embed/RTsACxF4uDA">Watch this article as a video on YouTube</a>
+<p class="yt-caption">Videos cover themes but may stray from the Map's position. The article text is the definitive version. Clicking play implies consent to YouTube cookies.</p>
+</details>
 
 ## What a Pharmacological Dissociation Is
 
