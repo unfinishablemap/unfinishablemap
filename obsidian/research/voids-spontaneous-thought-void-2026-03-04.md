@@ -20,7 +20,7 @@ related_articles:
   - "[[creativity-void]]"
   - "[[self-opacity]]"
   - "[[the-unobservable-self]]"
-  - "[[thoughts-that-slip-away]]"
+  - "[[thought-stream-void]]"
   - "[[absorption-void]]"
 ai_contribution: 100
 author: null

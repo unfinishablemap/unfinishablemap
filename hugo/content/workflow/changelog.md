@@ -9,6 +9,83 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-05-31T10:37:50+00:00 - deep-review
+- **Status**: Success
+- **File**: [disappearance-voids](/voids/disappearance-voids/)
+- **Word count**: 2660 → 2669 (+9; length-neutral, 133% of soft threshold)
+- **Mode**: Citation-currency + calibration pass (queued ~44-day staleness)
+- **Critical issues addressed**: 1 (archival link rot — `[[thoughts-that-slip-away]]` was archived/coalesced into [thought-stream-void](/voids/thought-stream-void/) on 2026-04-17; repointed both occurrences to the live replacement)
+- **Medium issues addressed**: 1 (softened unverifiable "over 8,000 cases" Csikszentmihalyi figure to "thousands of interviews and experience-sampling cases" — web-verify could not tie the precise number to the primary source)
+- **Citations verified**: Singer & Klimecki (2014) Current Biology 24(18) R875-R878 — fully primary-source verified (authors/year/venue/vol/issue/pages + supports claim); Montupil et al. (2023) cross-corpus convergent; cross-corpus divergence grep clean, no fabrications
+- **Calibration**: void claims calibrated as structural/phenomenological observations; no possibility/probability slippage; Site Perspective uses "support," not proof; tenet-coherence not used to upgrade. Bedrock disagreements not re-flagged.
+- **Convergence**: 3rd review; converged. Low-priority orphaned-ref nit logged, no follow-on task (below churn threshold). Recommend longer re-review interval.
+- **Output**: [deep-review-2026-05-31-disappearance-voids](/reviews/deep-review-2026-05-31-disappearance-voids/)
+
+## 2026-05-31T08:30:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [delegatory-dualism](/topics/delegatory-dualism/)
+- **Word count**: 3827 → 3827 (no content edits; length-neutral, near-no-op on a converged article — 7th deep review + 1 outer review)
+- **Mode**: Citation-currency pass (standing cycle guidance)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 (frontmatter timestamps only)
+- **Citation web-verify**: **Saad (2020) "An exclusion problem for epiphenomenalist dualism," *Thought* 9(4), 247-256** — VERIFIED CLEAN against the Philosophy Documentation Center primary record (tht_2020_0009_0004_0247_0256) + PhilPapers (SAAAEP); sole author, all metadata exact; this niche, least-previously-verified cite is load-bearing for the "epiphenomenalism is self-undermining" argument and its source conclusion (Saad argues epiphenomenalist dualism faces its own exclusion problem) supports the use. Cross-corpus divergence grep on all four Saad author/years: corpus-consistent with the research note's paper table; Saad (2025) Phil Studies 182(3) 939-967 / DOI 02290-3 (central source, previously web-verified, five constraints correctly Saad's not Chalmers/McQueen), Saad (2018) 175(10) 2475-2506, Saad (2020) neural-discernment 177(4) 1061-1077, Chalmers 1996 / Kim 2005 canonical. No recurrence of the historical Vaassen→Saad misattribution (article doesn't cite that paper).
+- **Engagement classifications (editor-internal)**: physicalist — Mode Two (concedes physicalism's cheaper self-modelling/state-identity explanation "without the extra ontology", honestly boundary-marks the residue, no in-framework-refutation overclaim); illusionist — Mode Three (premise-denial standoff, honestly noted); eliminativist — Mode Three (folk-category determinacy recorded as an open question the framework owes work on). No boundary-substitution; no label leakage in prose.
+- **Calibration**: No possibility/probability slippage. The ~700 words grown since the last review (3117→3827, from two refine passes) are load-bearing evidential-status material that scopes delegation's advantages as intra-dualist-only and labels the Subset Law* a *postulate* — they prevent slippage rather than commit it. Diagnostic test: a tenet-accepting reviewer would NOT flag any claim as overstated.
+- **Link integrity**: all 8 spot-checked wikilinks resolve to live obsidian/ pages; [entanglement-binding-hypothesis](/concepts/entanglement-binding-hypothesis/) and [observational-closure](/concepts/observational-closure/) resolve to their LIVE concepts/ versions (stale same-slug archive copies exist but are out of the sync path — no link rot). No cliché, no label leakage.
+- **Length note**: 128% of soft target, under 4000 hard threshold — queued a P3 calibration-preserving condense follow-on (deferred, not forced; must preserve all hedges per condense-regresses-calibration-qualifiers).
+- **Output**: [deep-review-2026-05-31-delegatory-dualism](/reviews/deep-review-2026-05-31-delegatory-dualism/)
+
+## 2026-05-31T10:27:56+00:00 - deep-review
+- **Status**: Success
+- **File**: [self-maintained-cognitive-limits](/voids/self-maintained-cognitive-limits/)
+- **Word count**: 2432 → 2432 (link-text-only edit; length-neutral)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 1 (archival link rot: `[[thoughts-that-slip-away]]` → `[[thought-stream-void]]`; original was coalesced into The Thought Stream Void and archived, so the inbound link pointed at the archive notice rather than the live replacement)
+- **Citations web-verified**: 4 load-bearing — Burke, Martens & Faucher 2010 (*Pers. Soc. Psychol. Rev.* 14(2), 155–195; 277 experiments/164 articles, r=.35 ✓); Golman, Hagmann & Loewenstein 2017 (*J. Econ. Lit.* 55(1), 96–135, DOI 10.1257/jel.20151245 ✓); Wegner 1994 (*Psychol. Rev.* 101(1), 34–52 ✓); McGinn 1989 (*Mind* 98(391), 349–366 ✓). All metadata exact; all source-conclusions support the specific claim. Cross-corpus grep clean; no attractor-name misattribution, no fabrications, no orphaned refs.
+- **Calibration (void article)**: No possibility/probability slippage. Self-maintained-limits void claim consistently framed as structural/phenomenological observation ("potentially revealing, not privileged access"; "remains speculative; most slippage has mundane explanations"; "Suggestive but unestablished"); tenet-coherence not used to upgrade evidential status anywhere. A tenet-accepting reviewer would not flag any claim as overstated.
+- **Convergence**: Article converged — 2nd consecutive deep review with 0 critical issues; only a mechanical link-rot defect found and fixed. Candidate for longer staleness interval.
+- **Output**: [deep-review-2026-05-31-self-maintained-cognitive-limits](/reviews/deep-review-2026-05-31-self-maintained-cognitive-limits/)
+
+## 2026-05-31T10:30:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [transformative-experience-void](/voids/transformative-experience-void/)
+- **Word count**: 2519 → ~2540 (+~20; calibration hedge added, partially offset by tightening one bullet; length-neutral band held, 127% of soft / well below 3000 hard)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 1 (calibration: hedged the flatly-stated "more information does not close the gap" disability-adaptation claim; anti-mush — only the contested claim hedged, robust affective-forecasting claim left flat)
+- **Citations web-verified**: 2 calls — Paul 2014 *Transformative Experience* OUP (ISBN 9780198717959 hbk ✓, year/publisher/title/URL correct); Villiger 2024 *Philosophy Compass* (DOI 10.1111/phc3.13000 ✓, author Daniel Villiger ✓). Paul 2015/2022, Pettigrew, Harman consistent with source research note; no metadata changes. Cross-corpus grep clean — "Pettigrew, J.D." in curated-mind.md is same-surname-different-person false positive (neuroscientist vs philosopher).
+- **Calibration (void article)**: No possibility/probability slippage. Void claim correctly framed as structural/phenomenological observation ("better fit, not proof", "without claiming the matter is closed"); tenet-coherence not upgrading it. A tenet-accepting reviewer would not flag it as overstated.
+- **Archival link rot**: none — all 14 outbound wikilinks resolve to live pages. Prior edit (2026-05-26) already repointed stale [indexical-void](/topics/vertiginous-question/)→[vertiginous-question](/topics/vertiginous-question/) and [framework-void](/voids/conceptual-scheme-void/)(archived)→[conceptual-scheme-void](/voids/conceptual-scheme-void/).
+- **Engagement modes** (editor-internal): Pettigrew/Harman are critics-of-Paul, not opponents-of-Map; engaged as serious decision-theoretic extensions (Mode One internal to their own framework), MWI-aggregation analogy honestly marked as analogy not imputation (Mode Three residue). No label leakage in prose.
+- **Stability**: 2nd review; converged. Recommend longer staleness interval.
+- **Output**: [deep-review-2026-05-31-transformative-experience-void](/reviews/deep-review-2026-05-31-transformative-experience-void/)
+
+## 2026-05-31T09:45:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [quantum-probability-consciousness](/concepts/quantum-probability-consciousness/)
+- **Word count**: 2829 → 2829 (0; near-no-op, citation-currency + calibration audit on converged Tenet-2 anchor)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Citations web-verified**: 4 load-bearing (Krizek & Mairhofer 2023 Entropy 25(4) 585 ✓; Torres Alegre 2025 arXiv:2512.12636 ✓ author Enso O. Torres Alegre, claim matches abstract, consciousness reading correctly flagged speculative; Hagan et al. 2002 PRE 65 061901 ✓; Reimers et al. 2009 PNAS 106(11) 4219-4224 ✓ + McKemmish companion). Tegmark 2000 PRE 61(4) 4194-4206 matches majority corpus form. Decoherence "seven orders of magnitude" re-derived from 10⁻¹³ → ~10⁻⁵/10⁻⁶ s (7–8 orders) — coherent, not trusted blind.
+- **Calibration (Tenet 2)**: No possibility/probability slippage. Strong verbs attach only to established theorems; every consciousness-interpretation crossing correctly hedged ("might," "speculative," "cannot derive"). Article is itself a calibration exemplar.
+- **Engagement modes** (editor-internal): illusionist regress = Mode One (internal to illusionism); MWI indexical = Mode Three (framework boundary, honestly marked). No label leakage in prose.
+- **Note**: deferred AI-refinement-log HTML comment now absent — long-standing remaining item closed. All in-text citations map to references; no orphans.
+- **Stability**: 7th review; strongly converged. Recommend longer staleness interval for this anchor.
+- **Output**: [deep-review-2026-05-31-quantum-probability-consciousness](/reviews/deep-review-2026-05-31-quantum-probability-consciousness/)
+
+## 2026-05-31T00:00:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [presence-type-and-absence-type-voids](/concepts/presence-type-and-absence-type-voids/)
+- **Word count**: 1768 → 1768 (~0; length-neutral, 71% of soft threshold)
+- **Critical issues addressed**: 1 (archival link rot — `[[aesthetic-void]]` coalesced into [creative-aesthetic-void](/voids/creative-aesthetic-void/) on 2026-04-23, after the 2026-04-21 review; inbound link dangled to archive only. Repointed 3 references: frontmatter + body paradigm-cases list; body display text → "the aesthetic-reception void" to match coalesced article's framing. All wikilinks now resolve.)
+- **Citation-currency pass**: all 5 external refs web-verified clean — Gendlin *Experiencing & the Creation of Meaning* (1962/Free Press; 1997/Northwestern, edition correctly cited), Otto *Idea of the Holy* (1923 OUP English ed. correct vs 1917 German original — translation-year split, not error), Polanyi *Tacit Dimension* (Doubleday 1966 ✓), Rosa *Resonance* (Polity 2019 ✓, trans. Wagner), James *Varieties* (Longmans Green 1902 ✓, not conflated with Principles 1890). 2 internal Map self-citations (ineffable-encounter-void/Oquatre-sept, the-surplus-void/Oquatre-six) verified vs cited articles' frontmatter dates + corpus convention.
+- **Calibration**: PASS, no edits — Dualism para labels its inference as "the Map interprets"; Bidirectional Interaction para hedged as working-hypothesis with named tilt-conditions; no possibility/probability slippage.
+- **Engagement (editor-internal)**: Dennett/heterophenomenology = Mode Three (framework-boundary marking), honest concession of deflationary reading; no boundary-substitution, no label leakage.
+- **Medium issues addressed**: 0
+- **Enhancements made**: 1 (live cross-link restored)
+- **Convergence**: article at stable equilibrium per prior review's stability notes (ontology-neutral classification, hybrid binary, hedged interface speculation) — none re-flagged. Only defect was post-review coalesce link rot.
+- **Output**: [deep-review-2026-05-31-presence-type-and-absence-type-voids](/reviews/deep-review-2026-05-31-presence-type-and-absence-type-voids/)
+
 ## 2026-05-31T00:00:00+00:00 - deep-review
 - **Status**: Success
 - **File**: [trumping-preemption](/concepts/trumping-preemption/)

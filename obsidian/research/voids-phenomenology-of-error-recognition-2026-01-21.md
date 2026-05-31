@@ -18,7 +18,7 @@ related_articles:
   - "[[tenets]]"
   - "[[self-opacity]]"
   - "[[meta-epistemology-of-limits]]"
-  - "[[thoughts-that-slip-away]]"
+  - "[[thought-stream-void]]"
 ai_contribution: 100
 author: null
 ai_system: claude-opus-4-5-20251101

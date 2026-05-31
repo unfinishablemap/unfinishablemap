@@ -45,7 +45,7 @@ related_articles:
 - '[[consciousness-and-the-ontology-of-temporal-becoming]]'
 - '[[binding-void]]'
 - '[[what-voids-reveal]]'
-- '[[thoughts-that-slip-away]]'
+- '[[thought-stream-void]]'
 - '[[apophatic-approaches]]'
 - '[[topics/free-will]]'
 - '[[concepts/functionalism]]'

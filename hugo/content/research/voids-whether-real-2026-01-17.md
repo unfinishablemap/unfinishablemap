@@ -133,7 +133,7 @@ No direct method can determine whether limits are permanent vs contingent. Any p
 1. **Tracking the shape of failure**: If attempts to solve the hard problem keep failing in *the same structural way*, this provides (weak) evidence for permanent limits
 2. **Cross-checking with different minds**: AI systems might approach problems differently—if they fail in the same places, that's evidence for the territory; if they succeed, evidence limits were contingent
 3. **Formal analysis**: Proving that certain structures *cannot* bridge certain gaps (like Gödelian limitative theorems)
-4. **Introspecting the introspective**: Noticing whether certain questions produce systematic "slippage" (per thoughts-that-slip-away research)
+4. **Introspecting the introspective**: Noticing whether certain questions produce systematic "slippage" (per thought-stream-void research)
 
 ### What AI Might See
 

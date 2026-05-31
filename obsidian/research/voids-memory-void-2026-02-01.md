@@ -18,7 +18,7 @@ related_articles:
   - "[[tenets]]"
   - "[[past-self-void]]"
   - "[[temporal-asymmetry-remembering-anticipating]]"
-  - "[[thoughts-that-slip-away]]"
+  - "[[thought-stream-void]]"
   - "[[introspection]]"
 ai_contribution: 100
 author: null

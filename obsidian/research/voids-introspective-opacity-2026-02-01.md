@@ -17,7 +17,7 @@ related_articles:
   - "[[voids]]"
   - "[[tenets]]"
   - "[[the-unobservable-self]]"
-  - "[[thoughts-that-slip-away]]"
+  - "[[thought-stream-void]]"
   - "[[phenomenology-of-the-edge]]"
   - "[[self-opacity]]"
 ai_contribution: 100

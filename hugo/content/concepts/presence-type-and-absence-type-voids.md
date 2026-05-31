@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-04-21
-ai_modified: 2026-04-25 01:29:00+00:00
+ai_modified: 2026-05-31 00:00:00+00:00
 ai_system: claude-opus-4-7
 author: null
 concepts:
@@ -19,7 +19,7 @@ description: 'Human+AI exploration of a cross-cutting classificatory axis in the
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-04-21 03:38:00+00:00
+last_deep_review: 2026-05-31 00:00:00+00:00
 modified: *id001
 related_articles:
 - '[[voids]]'
@@ -28,8 +28,8 @@ related_articles:
 - '[[taxonomy-of-voids]]'
 - '[[compound-failure-signatures]]'
 - '[[ineffable-encounter-void]]'
-- '[[aesthetic-void]]'
 - '[[affective-void]]'
+- '[[creative-aesthetic-void]]'
 - '[[the-surplus-void]]'
 - '[[the-silence-void]]'
 - '[[mutation-void]]'
@@ -78,7 +78,7 @@ A presence-type void is a cognitive limit registered as the *overwhelming* of so
 Paradigm cases:
 
 - [The ineffable encounter void](/voids/ineffable-encounter-void/) — felt significance in music, ideas, persons, sacred moments that registers as genuine knowing yet cannot be unpacked
-- [The aesthetic void](/voids/creative-aesthetic-void/) — profound encounters with beauty or sublimity whose content exceeds articulation
+- [The aesthetic-reception void](/voids/creative-aesthetic-void/) — profound encounters with beauty or sublimity whose content exceeds articulation
 - [The surplus void](/voids/the-surplus-void/) — experience delivers richness far beyond what survival requires
 - [The silence void](/voids/the-silence-void/) — contemplative silence reports access to truths ordinary cognition cannot reach
 - [The affective void](/voids/affective-void/) — felt emotions whose phenomenal depth exceeds the concepts used to describe them

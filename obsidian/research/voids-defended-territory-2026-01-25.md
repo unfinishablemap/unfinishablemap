@@ -14,7 +14,7 @@ concepts:
 related_articles:
   - "[[voids]]"
   - "[[tenets]]"
-  - "[[thoughts-that-slip-away]]"
+  - "[[thought-stream-void]]"
   - "[[meta-epistemology-of-limits]]"
   - "[[self-opacity]]"
 ai_contribution: 100

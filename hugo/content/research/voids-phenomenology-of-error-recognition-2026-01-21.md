@@ -20,7 +20,7 @@ related_articles:
 - '[[tenets]]'
 - '[[self-opacity]]'
 - '[[meta-epistemology-of-limits]]'
-- '[[thoughts-that-slip-away]]'
+- '[[thought-stream-void]]'
 target_section: voids
 title: 'Research Notes - Voids: The Phenomenology of Error Recognition'
 topics:

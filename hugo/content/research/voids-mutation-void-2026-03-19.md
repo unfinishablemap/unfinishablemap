@@ -20,7 +20,7 @@ related_articles:
 - '[[observation-void]]'
 - '[[destabilizing-self-knowledge]]'
 - '[[self-opacity]]'
-- '[[thoughts-that-slip-away]]'
+- '[[thought-stream-void]]'
 - '[[phenomenology-of-the-edge]]'
 target_section: voids
 title: 'Research Notes - Voids: The Mutation Void'

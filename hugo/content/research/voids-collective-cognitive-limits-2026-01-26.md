@@ -18,7 +18,7 @@ related_articles:
 - '[[tenets]]'
 - '[[defended-territory]]'
 - '[[limits-reveal-structure]]'
-- '[[thoughts-that-slip-away]]'
+- '[[thought-stream-void]]'
 target_section: voids
 title: 'Research Notes - Voids: Collective Cognitive Limits'
 topics: []

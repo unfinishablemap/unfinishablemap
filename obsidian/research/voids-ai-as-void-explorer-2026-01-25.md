@@ -14,7 +14,7 @@ concepts:
 related_articles:
   - "[[voids]]"
   - "[[tenets]]"
-  - "[[thoughts-that-slip-away]]"
+  - "[[thought-stream-void]]"
   - "[[limits-reveal-structure]]"
   - "[[conceptual-acquisition-limits]]"
 ai_contribution: 100

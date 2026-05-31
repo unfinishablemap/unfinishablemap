@@ -29,7 +29,7 @@ related_articles:
   - "[[phenomenal-transparency-opacity-spectrum]]"
   - "[[phenomenal-quality-void]]"
   - "[[compound-failure-signatures]]"
-  - "[[thoughts-that-slip-away]]"
+  - "[[thought-stream-void]]"
   - "[[edge-states-and-void-probes]]"
   - "[[observation-and-measurement-void]]"
   - "[[mutation-void]]"
@@ -164,7 +164,7 @@ Current evidence does not meet these conditions. Convergent patterns across psyc
 - [[intrinsic-nature-void]] — The parallel question of what matter is in itself
 - [[mutation-void]] — When the act of attending transforms the content attended to
 - [[self-maintained-cognitive-limits|Defended Territory]] — Active blocking of cognitive access
-- [[thoughts-that-slip-away|Thoughts That Slip Away]] — The phenomenology of slippage
+- [[thought-stream-void|The Thought Stream Void]] — The phenomenology of slippage
 - [[edge-states-and-void-probes|The Phenomenology of the Edge]] — Limit-experiences across traditions
 - [[meta-epistemology-of-limits]] — Whether cognitive limits are permanent or merely current
 - [[what-voids-reveal]] — How boundaries illuminate architecture

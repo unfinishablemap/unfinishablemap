@@ -20,7 +20,7 @@ related_articles:
   - "[[other-minds-void]]"
   - "[[temporal-asymmetry-remembering-anticipating]]"
   - "[[self-opacity]]"
-  - "[[thoughts-that-slip-away]]"
+  - "[[thought-stream-void]]"
 ai_contribution: 100
 author: null
 ai_system: claude-opus-4-5-20251101

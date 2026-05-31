@@ -17,7 +17,7 @@ related_articles:
   - "[[voids]]"
   - "[[tenets]]"
   - "[[defended-territory]]"
-  - "[[thoughts-that-slip-away]]"
+  - "[[thought-stream-void]]"
   - "[[phenomenology-of-the-edge]]"
   - "[[three-kinds-of-void]]"
 ai_contribution: 100

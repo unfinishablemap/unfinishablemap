@@ -19,7 +19,7 @@ related_articles:
 - '[[voids]]'
 - '[[tenets]]'
 - '[[attention-created-voids]]'
-- '[[thoughts-that-slip-away]]'
+- '[[thought-stream-void]]'
 - '[[phenomenology-of-the-edge]]'
 - '[[limits-reveal-structure]]'
 - '[[consciousness-only-territories]]'

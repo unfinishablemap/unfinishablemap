@@ -17,7 +17,7 @@ related_articles:
 - '[[voids]]'
 - '[[tenets]]'
 - '[[apophatic-approaches]]'
-- '[[thoughts-that-slip-away]]'
+- '[[thought-stream-void]]'
 - '[[conceptual-acquisition-limits]]'
 - '[[limits-reveal-structure]]'
 target_section: voids

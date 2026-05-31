@@ -27,7 +27,7 @@ related_articles:
 - '[[what-voids-reveal]]'
 - '[[edge-states-and-void-probes]]'
 - '[[meta-epistemology-of-limits]]'
-- '[[thoughts-that-slip-away]]'
+- '[[thought-stream-void]]'
 - '[[self-opacity]]'
 - '[[apophatic-approaches]]'
 - '[[biological-cognitive-closure]]'

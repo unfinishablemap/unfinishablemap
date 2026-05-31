@@ -19,7 +19,7 @@ related_articles:
   - "[[observation-void]]"
   - "[[destabilizing-self-knowledge]]"
   - "[[self-opacity]]"
-  - "[[thoughts-that-slip-away]]"
+  - "[[thought-stream-void]]"
   - "[[phenomenology-of-the-edge]]"
 ai_contribution: 100
 author: null

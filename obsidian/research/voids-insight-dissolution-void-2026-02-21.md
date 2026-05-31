@@ -16,7 +16,7 @@ concepts:
 related_articles:
   - "[[voids]]"
   - "[[tenets]]"
-  - "[[thoughts-that-slip-away]]"
+  - "[[thought-stream-void]]"
   - "[[destabilizing-self-knowledge]]"
   - "[[altered-states-as-void-probes]]"
   - "[[phenomenology-of-the-edge]]"

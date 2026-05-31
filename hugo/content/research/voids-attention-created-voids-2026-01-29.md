@@ -18,7 +18,7 @@ related_articles:
 - '[[voids]]'
 - '[[tenets]]'
 - '[[limits-reveal-structure]]'
-- '[[thoughts-that-slip-away]]'
+- '[[thought-stream-void]]'
 - '[[phenomenology-of-the-edge]]'
 - '[[ai-as-void-explorer]]'
 target_section: voids

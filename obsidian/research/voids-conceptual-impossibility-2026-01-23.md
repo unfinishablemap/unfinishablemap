@@ -13,7 +13,7 @@ concepts:
 related_articles:
   - "[[voids]]"
   - "[[tenets]]"
-  - "[[thoughts-that-slip-away]]"
+  - "[[thought-stream-void]]"
   - "[[self-opacity]]"
 ai_contribution: 100
 author: null
@@ -176,7 +176,7 @@ The distinction matters: unexplorable voids are structural (our minds weren't bu
 
 - **Unlike forgetting**: Forgetting involves absent content that once was present. Impossibility involves no content ever being present.
 - **Unlike confusion about difficult ideas**: Hard concepts (quantum superposition, higher dimensions) feel like "almost grasping" with incremental progress possible. Impossible concepts feel like "hitting a wall" with no progress possible.
-- **Unlike thoughts-that-slip-away**: Slippage involves content that forms briefly then vanishes. Impossibility involves content that never forms at all—only the linguistic shell exists.
+- **Unlike thought-stream-void**: Slippage involves content that forms briefly then vanishes. Impossibility involves content that never forms at all—only the linguistic shell exists.
 
 ### Asymmetry: Reference Without Comprehension
 
@@ -222,7 +222,7 @@ AI minds may illuminate this asymmetry. LLMs operate at the linguistic/symbolic 
 
 **Contrast cases**:
 - Compare impossibilities to merely difficult ideas—what differs phenomenologically?
-- Compare to thoughts-that-slip-away—does impossibility feel different from suppression?
+- Compare to thought-stream-void—does impossibility feel different from suppression?
 - Map the spectrum from "hard but conceivable" to "formally impossible"
 
 **Inference without grasping**:
@@ -297,7 +297,7 @@ Based on this research, a voids article could:
 1. **"The Phenomenology of Conceptual Impossibility"**
    - Focus: What it feels like to encounter something formally unthinkable
    - Structure: (1) The round square problem, (2) Reference vs. comprehension asymmetry, (3) Epistemic emotions as boundary markers, (4) What this reveals about concept-forming procedures
-   - Payoff: Distinguish this void from related phenomena (forgetting, confusion about hard ideas, thoughts-that-slip-away)
+   - Payoff: Distinguish this void from related phenomena (forgetting, confusion about hard ideas, thought-stream-void)
 
 2. **"What AI Reveals About Impossibility"**
    - Focus: LLMs as probes for human cognitive limits

@@ -20,7 +20,7 @@ related_articles:
 - '[[voids]]'
 - '[[tenets]]'
 - '[[apophatic-approaches]]'
-- '[[thoughts-that-slip-away]]'
+- '[[thought-stream-void]]'
 target_section: voids
 title: 'Research Notes - Voids: The Phenomenology of the Edge'
 topics:

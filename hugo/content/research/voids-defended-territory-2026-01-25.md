@@ -17,7 +17,7 @@ modified: *id001
 related_articles:
 - '[[voids]]'
 - '[[tenets]]'
-- '[[thoughts-that-slip-away]]'
+- '[[thought-stream-void]]'
 - '[[meta-epistemology-of-limits]]'
 - '[[self-opacity]]'
 target_section: voids

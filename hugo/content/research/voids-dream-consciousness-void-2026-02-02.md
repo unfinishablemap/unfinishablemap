@@ -18,7 +18,7 @@ related_articles:
 - '[[voids]]'
 - '[[tenets]]'
 - '[[phenomenology-of-the-edge]]'
-- '[[thoughts-that-slip-away]]'
+- '[[thought-stream-void]]'
 - '[[the-unobservable-self]]'
 - '[[three-kinds-of-void]]'
 - '[[memory-void]]'

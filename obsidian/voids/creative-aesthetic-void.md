@@ -39,7 +39,6 @@ related_articles:
   - "[[the-quantitative-comprehension-void]]"
   - "[[biological-cognitive-closure]]"
   - "[[appetitive-void]]"
-  - "[[thoughts-that-slip-away]]"
   - "[[what-voids-reveal]]"
   - "[[self-maintained-cognitive-limits]]"
   - "[[consciousness-and-cognitive-distinctiveness]]"

@@ -26,7 +26,7 @@ related_articles:
 - '[[tenets]]'
 - '[[what-voids-reveal]]'
 - '[[self-maintained-cognitive-limits]]'
-- '[[thoughts-that-slip-away]]'
+- '[[thought-stream-void]]'
 - '[[biological-cognitive-closure]]'
 - '[[formal-cognitive-limits]]'
 - '[[machine-question]]'
@@ -173,7 +173,7 @@ The framework extends the [voids](/voids/) project: the unfinishable map require
 - [Mysterianism](/concepts/mysterianism/) — McGinn's analysis of structural closure
 - [Biological Cognitive Closure](/voids/biological-cognitive-closure/) — Cross-cultural evidence for species-level constraints
 - [Embodiment and Cognitive Limits](/voids/embodiment-cognitive-limits/) — How physical form shapes thought
-- [Thoughts That Slip Away](/voids/thought-stream-void/) — The phenomenology of slippage
+- [The Thought Stream Void](/voids/thought-stream-void/) — The phenomenology of slippage
 - [The Aspect Perception Void](/voids/aspect-perception-void/) — Whether AI sees aspects is a comparative probe for architecture-specific seeing-as
 - [Apophatic Cartography](/voids/apophatic-cartography/) — Methodological context for triangulation
 - [Question Formation Void](/voids/question-formation-void/) — The upstream constraint on what can be asked

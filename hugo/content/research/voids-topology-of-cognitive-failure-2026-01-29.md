@@ -19,7 +19,7 @@ related_articles:
 - '[[limits-reveal-structure]]'
 - '[[phenomenology-of-the-edge]]'
 - '[[meta-epistemology-of-limits]]'
-- '[[thoughts-that-slip-away]]'
+- '[[thought-stream-void]]'
 - '[[self-opacity]]'
 - '[[apophatic-approaches]]'
 target_section: voids

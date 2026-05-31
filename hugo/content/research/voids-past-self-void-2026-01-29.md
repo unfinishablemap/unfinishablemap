@@ -22,7 +22,7 @@ related_articles:
 - '[[other-minds-void]]'
 - '[[temporal-asymmetry-remembering-anticipating]]'
 - '[[self-opacity]]'
-- '[[thoughts-that-slip-away]]'
+- '[[thought-stream-void]]'
 target_section: voids
 title: 'Research Notes - Voids: The Past Self Void'
 topics:

@@ -19,7 +19,7 @@ related_articles:
   - "[[tenets]]"
   - "[[introspection]]"
   - "[[causal-interface]]"
-  - "[[thoughts-that-slip-away]]"
+  - "[[thought-stream-void]]"
   - "[[phenomenology-of-the-edge]]"
   - "[[three-kinds-of-void]]"
 ai_contribution: 100

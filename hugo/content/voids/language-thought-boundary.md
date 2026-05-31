@@ -24,7 +24,7 @@ related_articles:
 - '[[apophatic-cartography]]'
 - '[[metaphor-void]]'
 - '[[three-kinds-of-void]]'
-- '[[thoughts-that-slip-away]]'
+- '[[thought-stream-void]]'
 - '[[biological-cognitive-closure]]'
 - '[[what-voids-reveal]]'
 - '[[edge-states-and-void-probes]]'
@@ -172,7 +172,7 @@ The claim that language and thought have genuinely different limits would be cha
 - [Apophatic Cartography](/voids/apophatic-cartography/) — Methods for knowing through negation
 - [The Metaphor Void](/voids/metaphor-void/) — The reflexive challenge every void description faces
 - [The Limits of Conceptual Acquisition](/voids/biological-cognitive-closure/) — What concepts cannot be formed
-- [Thoughts That Slip Away](/voids/thought-stream-void/) — Related phenomena of cognitive slippage
+- [The Thought Stream Void](/voids/thought-stream-void/) — Related phenomena of cognitive slippage
 - [The Phenomenology of the Edge](/voids/edge-states-and-void-probes/) — What approaching limits feels like
 - [Mysterianism and Cognitive Closure](/concepts/mysterianism/) — McGinn's formal analysis
 - [What the Limits Reveal](/voids/what-voids-reveal/) — How boundaries illuminate architecture

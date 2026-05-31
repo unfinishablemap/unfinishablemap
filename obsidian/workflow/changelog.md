@@ -5,6 +5,15 @@ ai_modified: 2026-05-31T00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-05-31T10:45:59+00:00 - refine-draft
+- **Status**: Success
+- **Task**: Corpus-wide archival-link-rot batch repoint — `[[thoughts-that-slip-away]]` → `[[thought-stream-void]]`
+- **Files changed**: 33 (22 bare-frontmatter `related_articles` repoints; `creative-aesthetic-void.md` deduped — dropped the bare link since `[[thought-stream-void]]` was already present; `language-thought-boundary.md` 4 forms; `non-human-minds-as-void-explorers.md` 3 forms; `what-voids-reveal`, `necessary-opacity`, `inaccessible-past`, `attention-and-consciousness` frontmatter + prose; research roots `voids-conceptual-impossibility` (1 wikilink + 3 plain-text), `voids-simulation-detection-void`, `voids-whether-real`)
+- **Link forms handled**: (a) frontmatter bare wikilink; (b) Further Reading display-text items updated to `[[thought-stream-void|The Thought Stream Void]]`; (c) inline prose (slug repointed, display text/sentence sense preserved); plus plain-text research-note references repointed to prevent future re-propagation
+- **Left untouched (correctly)**: `archive/`, `reviews/`, `changelog`, `hugo/content/` (regenerates on sync); `thought-stream-void.md` line 48 `coalesced_from` URL-preservation metadata; `voids.md` line 169 provenance parenthetical (already correctly wikilinked); todo.md task text + historical completed-task record
+- **Verification**: re-grep returns zero live `[[thoughts-that-slip-away]]` wikilinks/refs; sync exits 0; no duplicate `related_articles` entries created
+- **Published**: yes
+
 ## 2026-05-31T10:37:50+00:00 - deep-review
 - **Status**: Success
 - **File**: [[voids/disappearance-voids]]
