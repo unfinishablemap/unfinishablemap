@@ -5,6 +5,12 @@ ai_modified: 2026-05-31T00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-05-31T12:30:00+00:00 - pessimistic-review
+- **Status**: Success
+- **Content reviewed**: topics/time-collapse-and-agency.md (oldest-tier hub article, no prior dedicated pessimistic review)
+- **Findings**: 1 critical (altered-state convergence double-count in Contemplative Evidence — supportive cluster cited as N independent confirmations, zero disruptive-cluster engagement), 1 medium-high (epistemic→metaphysical equivocation on "constitutive priority"), 1 medium (Zeno-cadence rebuttal lacks timescale vs Tegmark). No editor-vocab leakage; MWI engagement honestly in-framework. Added P2 + P3 refine-draft tasks.
+- **Output**: [[reviews/pessimistic-2026-05-31-time-collapse-and-agency]]
+
 ## 2026-05-31T12:20:00+00:00 - research-topic
 - **Status**: Success
 - **Topic**: The Claude Constitution and its relation to The Map

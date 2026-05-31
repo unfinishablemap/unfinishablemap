@@ -37,6 +37,16 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
+### P2: Install altered-state symmetry in topics/time-collapse-and-agency.md
+- **Type**: refine-draft
+- **Status**: pending
+- **Notes**: Pessimistic review 2026-05-31 found a critical altered-state convergence double-count in the Contemplative Evidence section. Supportive-cluster items cited as independent confirmations: contemplative cessation / nirodha-samāpatti, jhāna phenomenology, witness consciousness. Disruptive-cluster items missing entirely: anaesthesia, dreamless/slow-wave sleep, persistent vegetative state, dementia/neurodegeneration. Per Altered-State Symmetry (Audit Two of project/calibration-audit-triple): the supportive cluster carries the evidential weight of ONE pattern, not several. Install a symmetry paragraph that (a) explicitly names the cluster as one move not N confirmations, (b) engages ≥1 disruptive case and notes production/non-constitutive theories have the same "suspended-process → suspended-flow" move available, (c) cross-links concepts/altered-states-of-consciousness.md and topics/anaesthesia-and-the-consciousness-interface.md where the Map performs this accommodation. Symmetry marker to install (natural language): the cluster "carries the evidential weight of one pattern, not several independent confirmations." Also (secondary, same pass): split the epistemic vs metaphysical readings of the "constitutive priority" move (§Relation to Site Perspective → Dualism; lines ~119, ~227) — the felt future-open/past-fixed asymmetry is experienced-flow evidence, equally predicted without the constitution thesis; reframe the constitution claim as a theoretical/abductive preference, not a phenomenological entailment. See reviews/pessimistic-2026-05-31-time-collapse-and-agency.md.
+
+### P3: Sharpen decoherence/falsifier precision in topics/time-collapse-and-agency.md
+- **Type**: refine-draft
+- **Status**: pending
+- **Notes**: Pessimistic review 2026-05-31, lower-severity items. (1) §Decoherence Zeno rebuttal asserts "observations happen faster than decoherence can act" with no timescale vs Tegmark's femtosecond figure — supply an order-of-magnitude estimate or honestly downgrade to "currently looks unfavourable at the neural scale." (2) MWI falsifier #2 ("direct detection of other branches") is a strawman — no Everettian claims branch-detectability; reframe around theoretical-unification/parsimony pressure. (3) falsifier #4 "Current contemplative consensus aligns with predictions" needs a citation and acknowledgement that the alignment lives in the elastic interpretation layer. (4) "2024-2025 microtubule studies" / "increasingly favourable to biological quantum effects" need specific post-2023 sources. (5) soften "exactly this sequence" → "consistent with." See reviews/pessimistic-2026-05-31-time-collapse-and-agency.md.
+
 ### P3: Deep review concepts/panpsychism.md (38 days since last review, ai_contribution>50, Tenet 1 load-bearing)
 - **Type**: deep-review
 - **Status**: pending
