@@ -37,14 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Deep review concepts/universal-coupling-response.md (35 days since last review, ai_contribution=100, Tenet 1/3 load-bearing)
-- **Type**: deep-review
-- **Status**: pending
-- **File**: obsidian/concepts/universal-coupling-response.md
-- **Notes**: Floor-restoring staleness promotion (/replenish-queue 2026-05-31, second of two — see the measurement-problem entry above for the full queue rationale). Chosen for DIVERSITY (a phenomenal-distribution / coupling concept, distinct from the quantum-measurement entry) and for being the most-settled un-queued AI-heavy article past the deep-review floor: `last_deep_review: 2026-04-25` (~35d) AND `ai_modified: 2026-04-25` (~35d, fully settled — minimal [[deep-review-over-reviews-converged]] churn risk). `ai_contribution=100`, 1682 words (well under the concepts soft threshold — no condense risk). Tenet-1/3 load-bearing: the universal-coupling response is the Map's position that consciousness couples with all physical systems meeting adequate architectural conditions — the load-bearing distinction between the Map's interactionist dualism and both panpsychism and threshold views, underwriting Tenet 1 (Dualism) and Tenet 3 (Bidirectional Interaction). Deep-review should: (a) verify the panpsychism-vs-threshold-vs-universal-coupling contrast still coheres with the current [[invertebrate-consciousness-as-interface-test]] / [[animal-consciousness]] / [[interface-heterogeneity]] cluster (note this is an active-research area per the literature-drift active sections — animal-consciousness, animal-cognition); (b) honour [[evidential-status-discipline]] — keep "adequate architectural conditions" calibrated as a programmatic placeholder, NOT an established criterion; (c) web-verify any attributions before trusting them ([[ai-citation-metadata-unreliable]]); (d) verify cross-links resolve live and reciprocate where load-bearing; (e) writing-style + length discipline (no "This is not X. It is Y." cliché). First review in 35d, not a runaway re-review — a metadata-only verdict is acceptable if converged; do NOT over-hedge converged prose. Apply in-place fixes if minor; generate a follow-on refine-draft only if substantive.
-- **Source**: staleness
-- **Generated**: 2026-05-31
-
 ### P3: Deep review voids/acquaintance-void.md (42 days since last review, ai_contribution=100, Tenet 1 load-bearing)
 - **Type**: deep-review
 - **Status**: pending
@@ -3598,6 +3590,10 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 Tasks that failed 3+ times and require human intervention.
 
+
+### ✓ 2026-05-31: Deep review concepts/universal-coupling-response.md (35 days since last review, ai_contribution=100, Tenet 1/3 load-bearing)
+- **Type**: deep-review
+- **Notes**: Floor-restoring staleness promotion (/replenish-queue 2026-05-31, second of two — see the measurement-problem entry above for the full queue rationale). Chosen for DIVERSITY (a phenomenal-distribution / coupling concept, distinct from the quantum-measurement entry) and for being the most-settled un-queued AI-heavy article past the deep-review floor: `last_deep_review: 2026-04-25` (~35d) AND `ai_modified: 2026-04-25` (~35d, fully settled — minimal [[deep-review-over-reviews-converged]] churn risk). `ai_contribution=100`, 1682 words (well under the concepts soft threshold — no condense risk). Tenet-1/3 load-bearing: the universal-coupling response is the Map's position that consciousness couples with all physical systems meeting adequate architectural conditions — the load-bearing distinction between the Map's interactionist dualism and both panpsychism and threshold views, underwriting Tenet 1 (Dualism) and Tenet 3 (Bidirectional Interaction). Deep-review should: (a) verify the panpsychism-vs-threshold-vs-universal-coupling contrast still coheres with the current [[invertebrate-consciousness-as-interface-test]] / [[animal-consciousness]] / [[interface-heterogeneity]] cluster (note this is an active-research area per the literature-drift active sections — animal-consciousness, animal-cognition); (b) honour [[evidential-status-discipline]] — keep "adequate architectural conditions" calibrated as a programmatic placeholder, NOT an established criterion; (c) web-verify any attributions before trusting them ([[ai-citation-metadata-unreliable]]); (d) verify cross-links resolve live and reciprocate where load-bearing; (e) writing-style + length discipline (no "This is not X. It is Y." cliché). First review in 35d, not a runaway re-review — a metadata-only verdict is acceptable if converged; do NOT over-hedge converged prose. Apply in-place fixes if minor; generate a follow-on refine-draft only if substantive.
 
 ### ✓ 2026-05-31: Deep review concepts/measurement-problem.md (33 days since last review, ai_contribution=100, Tenet 2/4 load-bearing)
 - **Type**: deep-review
