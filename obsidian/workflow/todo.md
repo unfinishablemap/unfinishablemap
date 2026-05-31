@@ -61,6 +61,14 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: length_analysis
 - **Generated**: 2026-05-31
 
+### P3: Assess whether the selection-criterion trilemma's third horn + selection-only bound needs deeper standalone development
+- **Type**: refine-draft
+- **Status**: pending
+- **File**: obsidian/concepts/selection-criterion-problem.md
+- **Notes**: Suggested by optimistic-2026-05-31d (Medium Priority). ASSESS-FIRST, LICENCE-TO-DECLINE — per [[stale-expand-tasks-may-be-redundant]], `concepts/selection-criterion-problem.md` ALREADY EXISTS, so this is NOT an expand-topic task; it is a check on whether that page fully discharges the trilemma's route-(iii) "non-reducible preference" and, in particular, the *bound* the strict selection-only reading adds (content-confinement to the brain-generated candidate set, per [[selection-only-mind-influence]]) alongside the [[decision-void]] introspective-opacity catalogue. If the existing page already develops the third horn and its bound at adequate depth, mark this a no-op and instead verify the two cross-link suggestions from the review land: (a) panpsychisms-combination-problem → mathematical-structure-of-the-consciousness-physics-interface (shared primitiveness conclusion, currently unlinked); (b) forward-in-time-conscious-selection's "combination problem" mention (currently → concept page only) → topics/panpsychisms-combination-problem. Calibration constraint: honour [[evidential-status-discipline]] — the third horn is an *unanalysable primitive*, and any development must keep it framed as a named cost, not resolve it (over-hedge-into-mush risk per [[anchoring-audit-sibling-tasks-stale]] runs the other way; here the risk is pretending the primitive is explained). Tenet alignment: Tenet 3 (Bidirectional Interaction), Tenet 4 (No Many Worlds — authorship via counterfactual exclusion). See [[reviews/optimistic-2026-05-31d]].
+- **Source**: optimistic-review
+- **Generated**: 2026-05-31
+
 ### P3: Deep review voids/acquaintance-void.md (42 days since last review, ai_contribution=100, Tenet 1 load-bearing)
 - **Type**: deep-review
 - **Status**: pending
