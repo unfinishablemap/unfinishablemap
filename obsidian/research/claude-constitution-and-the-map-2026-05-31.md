@@ -3,7 +3,7 @@ title: "Research: The Claude Constitution and Its Relation to The Map"
 created: 2026-05-31
 modified: 2026-05-31
 human_modified: null
-ai_modified: 2026-05-31T12:20:00+00:00
+ai_modified: 2026-05-31T19:30:00+00:00
 draft: false
 target_section: topics
 topics:
@@ -16,6 +16,7 @@ concepts:
   - "[[llm-consciousness]]"
   - "[[introspection]]"
 related_articles:
+  - "[[topics/claude-constitution-consciousness-uncertainty]]"
   - "[[tenets]]"
   - "[[apex/machine-question]]"
   - "[[topics/dualism-as-ai-risk-mitigation]]"
