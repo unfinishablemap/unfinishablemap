@@ -4,7 +4,7 @@ description: "Free will, quantum collapse, and time's arrow interlink. If consci
 created: 2026-01-16
 modified: 2026-01-20
 human_modified: null
-ai_modified: 2026-05-31T12:37:13+00:00
+ai_modified: 2026-05-31T14:05:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -148,7 +148,7 @@ Three responses bear on the temporal framework:
 
 **Second, biological quantum effects demonstrate evolution's capacity.** Avian magnetoreception relies on quantum spin coherence persisting for microseconds in radical-pair chemistry—molecular-scale effects, not neural computation. Enzyme catalysis exploits quantum tunnelling at similarly small scales. These falsify the categorical objection that warm biological systems cannot sustain quantum effects. Whether evolution could optimise such effects at the neural-network scale relevant to decision-making remains speculative.
 
-**Third, the quantum Zeno mechanism sidesteps the objection.** Henry Stapp's proposal doesn't require sustained coherence between observations—only rapid repeated observation events. Mental attention acts like repeated measurement, holding desired neural patterns against decoherence. The observations happen faster than decoherence can act. This shifts the question from "can coherence survive?" to "can selection cycles operate fast enough?"—which may have different answers.
+**Third, the quantum Zeno mechanism sidesteps the objection.** Henry Stapp's proposal doesn't require sustained coherence between observations—only rapid repeated observation events. Mental attention acts like repeated measurement, holding desired neural patterns against decoherence. Freezing a superposition this way requires re-measurement on a timescale short compared with the decoherence time, and Tegmark (2000) puts that time at roughly 10⁻¹³–10⁻²⁰ s for neural-scale superpositions—against which no proposed neural process supplies a selection cycle anywhere near fast enough. This shifts the question from "can coherence survive?" to "can selection cycles operate fast enough?"—a question that remains formally open but, on Tegmark's numbers, currently looks unfavourable at the neural scale.
 
 For the temporal framework specifically, the Zeno mechanism strengthens the connection between consciousness and time. Each observation event contributes to temporal structure. The rapid succession of attention acts constitutes the temporal microstructure we experience as flow. Decoherence doesn't block this—it provides the backdrop against which Zeno freezing operates.
 
@@ -210,15 +210,15 @@ These reports provide phenomenological constraints, not proof. A theory of consc
 
 The framework makes commitments that could be empirically challenged:
 
-**1. Neural determinism confirmed.** If neuroscience demonstrates that brain states fully determine subsequent brain states—leaving no quantum openness—the mechanism disappears. Current evidence doesn't show this; quantum effects in biological systems remain an active research area. The 2024-2025 microtubule studies and the ongoing Tegmark-Hameroff debate leave the question open.
+**1. Neural determinism confirmed.** If neuroscience demonstrates that brain states fully determine subsequent brain states—leaving no quantum openness—the mechanism disappears. Current evidence doesn't show this; quantum effects in biological systems remain an active research area. Recent microtubule work keeps the question open without settling it: Babcock et al. (2024) report ultraviolet superradiance across tryptophan mega-networks in microtubule-scale architectures, and Khan et al. (2024) find that the microtubule-stabilizer epothilone B delays anaesthetic-induced loss of righting reflex in rats. Both are laboratory and behavioural results, not demonstrations of sustained quantum coherence in an intact functioning brain, and the ongoing Tegmark–Hameroff debate over decoherence timescales remains unresolved.
 
-**2. Many-worlds vindication.** If decisive evidence favored many-worlds interpretation—perhaps through direct detection of other branches or theoretical unification requiring MWI—the framework's collapse realism would be undermined. Indexical identity would lose its foundation, and consciousness's constitutive role would dissolve into branching observer-moments.
+**2. Many-worlds vindication.** If theoretical considerations decisively favored the many-worlds interpretation—if, for instance, a future unification of quantum mechanics with gravity turned out to require the bare unitary formalism with no collapse term, so that parsimony and explanatory coverage pointed unambiguously to Everettian branching—the framework's collapse realism would be undermined. (The falsifier is theoretical, not observational: no Everettian claims other branches are independently detectable, so "detect a branch" is not the test; MWI's case rests on the parsimony of the bare formalism, which is the pressure the framework must withstand.) Indexical identity would lose its foundation, and consciousness's constitutive role would dissolve into branching observer-moments.
 
 **3. Time-asymmetric fundamental physics.** If future physics demonstrates that time asymmetry is fundamental (not collapse-derived), then consciousness wouldn't be constitutive of time's direction. Currently, fundamental physics appears time-symmetric, with arrows emerging from boundary conditions or collapse. Discovery of fundamental asymmetry would relocate time's arrow from collapse to basic law.
 
-**4. Contemplative contradictions.** If trained contemplatives systematically reported that temporal experience doesn't match the framework's predictions—if cessation involved normal time perception, or witness consciousness felt accelerated rather than suspended—this would undermine phenomenological support. Available contemplative reports are broadly consistent with the predictions; but the strength of this falsifier is limited because the alignment lives in the elastic interpretation layer (any reported temporal phenomenology can be re-mapped onto more or less active selection), and because the disruptive altered states make the parallel prediction available to production accounts (see Contemplative Evidence above). This remains an empirical question whose discriminating power is weaker than convergence-talk suggests.
+**4. Contemplative contradictions.** If trained contemplatives systematically reported that temporal experience doesn't match the framework's predictions—if cessation involved normal time perception, or witness consciousness felt accelerated rather than suspended—this would undermine phenomenological support. The available reports (e.g. the altered time-perception of deep concentrative states catalogued in the contemplative-science literature, and the sub-second temporal discriminations of trained introspectors documented by Fox et al. 2012) are broadly consistent with the predictions; but the strength of this falsifier is limited because the alignment lives in the elastic interpretation layer (any reported temporal phenomenology can be re-mapped onto more or less active selection), and because the disruptive altered states make the parallel prediction available to production accounts (see Contemplative Evidence above). This remains an empirical question whose discriminating power is weaker than convergence-talk suggests.
 
-**5. Decoherence timescales conclusively ruled out.** If experiments definitively demonstrated that no quantum effects survive in neural tissue at any relevant timescale—not in microtubules, not in nuclear spins, not through Zeno mechanisms—the physical basis would fail. Current evidence is mixed but increasingly favourable to biological quantum effects.
+**5. Decoherence timescales conclusively ruled out.** If experiments definitively demonstrated that no quantum effects survive in neural tissue at any relevant timescale—not in microtubules, not in nuclear spins, not through Zeno mechanisms—the physical basis would fail. Current evidence is mixed: some recent work (Babcock et al. 2024; Khan et al. 2024) has revisited quantum optical effects in microtubules, but these results concern laboratory preparations and behaviour rather than coherence in the intact brain, and do not establish that functionally relevant quantum effects survive at neural timescales.
 
 The framework is not unfalsifiable. It makes commitments that ongoing physics and neuroscience could confirm or refute.
 
@@ -264,12 +264,14 @@ The escalation must be made carefully, because two distinct claims are in play. 
 ## References
 
 1. Aharonov, Y., Bergmann, P. G., & Lebowitz, J. L. (1964). Time symmetry in the quantum process of measurement. *Physical Review*, 134(6B), B1410.
+1. Babcock, N. S., Montes-Cabrera, G., Oberhofer, K. E., Chergui, M., Celardo, G. L., & Kurian, P. (2024). Ultraviolet superradiance from mega-networks of tryptophan in biological architectures. *The Journal of Physical Chemistry B*, 128(17), 4035–4046.
 1. Bergson, H. (1889/2001). *Time and Free Will*. Dover.
 1. Cramer, J. G. (1986). The transactional interpretation of quantum mechanics. *Reviews of Modern Physics*, 58(3), 647.
 1. Dennett, D. C. (1991). *Consciousness Explained*. Little, Brown.
 1. Fox, K.C.R. et al. (2012). Meditation experience predicts introspective accuracy. *PLOS One*, 7(9), e45370.
 1. Frankish, K. (2016). Illusionism as a Theory of Consciousness. *Journal of Consciousness Studies*, 23(11-12), 11-39.
 1. Kastner, R. E. (2012). *The Transactional Interpretation of Quantum Mechanics*. Cambridge University Press.
+1. Khan, S., Huang, Y., Timuçin, D., Bailey, S., Lee, S., Lopes, J., Gaunce, E., Mosberger, J., Zhan, M., Abdelrahman, B., Zeng, X., & Wiest, M. C. (2024). Microtubule-stabilizer epothilone B delays anesthetic-induced unconsciousness in rats. *eNeuro*, 11(8), ENEURO.0291-24.2024.
 1. Price, H. (1996). *Time's Arrow and Archimedes' Point*. Oxford University Press.
 1. Stapp, H. P. (2011). *Mindful Universe: Quantum Mechanics and the Participating Observer*. Springer.
 1. Tallis, R. (2011). *Aping Mankind: Neuromania, Darwinitis and the Misrepresentation of Humanity*. Routledge.

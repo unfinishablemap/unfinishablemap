@@ -5,6 +5,20 @@ ai_modified: 2026-05-31T12:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-05-31T14:05:00+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[topics/time-collapse-and-agency]]
+- **Source**: pessimistic-review 2026-05-31 (lower-severity items 1-5)
+- **Changes**:
+  - Item 1 (Zeno cadence): downgraded "observations happen faster than decoherence can act" to calibration-honest framing — supplied Tegmark's verified ~10⁻¹³–10⁻²⁰ s neural-scale decoherence range and stated no proposed neural process supplies a selection cycle that fast; "currently looks unfavourable at the neural scale" while formally open.
+  - Item 2 (MWI falsifier #2): reframed from strawman "direct detection of other branches" to theoretical-unification/parsimony pressure; added explicit note that no Everettian claims branch-detectability and MWI's case rests on the bare-formalism parsimony.
+  - Item 3 (falsifier #4): added citation anchor (Fox et al. 2012 + contemplative-science literature) and retained the elastic-interpretation-layer acknowledgement already present.
+  - Item 4 (microtubule claim, CRITICAL citation-integrity): replaced unsourced "2024-2025 microtubule studies" / "increasingly favourable" with two WEB-VERIFIED post-2023 sources — Babcock et al. 2024 (J. Phys. Chem. B, UV superradiance in tryptophan mega-networks) and Khan et al. 2024 (eNeuro, epothilone B delays anaesthetic LORR in rats). Both added to References. Downgraded the confidence: flagged both as laboratory/behavioural results not establishing intact-brain coherence; "increasingly favourable" softened to "some recent work has revisited." Caught and corrected a self-introduced author-list fabrication in the Khan citation via a second verification pass.
+  - Item 5 ("exactly this sequence"): already softened to "is consistent with" in prior pass — no change needed; verified remaining "exactly" uses are emphatic, not evidential overstatement.
+- **Calibration**: all edits make claims more qualified, not more confident; existing hedges preserved. All added citations web-verified against live literature.
+- **Length**: ~length-neutral in body prose; growth concentrated in two new reference lines and citation framing.
+- **Published**: yes
+
 ## 2026-05-31T20:15:00+00:00 - deep-review
 - **Status**: Success
 - **File**: [[concepts/training-contamination-confound]]
