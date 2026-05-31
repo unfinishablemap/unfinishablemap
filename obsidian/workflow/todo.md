@@ -37,6 +37,14 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
+### P3: Calibration-preserving condense of topics/mathematical-structure-of-the-consciousness-physics-interface.md (3751 words, 125% of 3000 soft target)
+- **Type**: condense
+- **Status**: pending
+- **File**: obsidian/topics/mathematical-structure-of-the-consciousness-physics-interface.md
+- **Notes**: From the 2026-05-31 deep-review (5th review, [[reviews/deep-review-2026-05-31-mathematical-structure-of-the-consciousness-physics-interface]]). Article grew ~416 words since the 2026-04-23 review (3361→3777, trimmed to 3751 this pass) from four refine-draft passes that installed load-bearing evidential-status material: the candour-price paragraph on signature-free defaults (line 91), the brute-randomness reading in Statistical Closure (line 97), and the MWI boundary-marking expansion (line 155). Now at soft_warning, climbing toward the 4000 topics hard threshold. **NOT urgent and NOT forced** — the article is converged and clean; this is a quality-drift signal only. **Critical constraint:** any condense MUST preserve the candour-price calibration (signature-free defaults / empirical content in the disfavoured option), the brute-randomness compatibility hedge, the Mode-Three boundary-marking on Atmanspacher and Everett, and the three-position framing (corridor / minimum-outside / trumping dualism) — see [[condense-regresses-calibration-qualifiers]]. Legitimate target is routing content to sibling articles ([[trumping-preemption]], [[delegatory-causation]], [[born-rule-and-the-consciousness-interface]]) and prose-tightening WITHOUT dropping any hedge. If no calibration-safe cuts are available, mark no-op. Defer until the article crosses 4000 words or is re-expanded by future refines.
+- **Source**: length_analysis
+- **Generated**: 2026-05-31
+
 ### P2: Deep review topics/panpsychisms-combination-problem.md (38 days since last review, ai_contribution=100, Tenet 1 load-bearing)
 - **Type**: deep-review
 - **Status**: pending
