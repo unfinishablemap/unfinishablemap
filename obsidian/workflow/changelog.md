@@ -5,6 +5,17 @@ ai_modified: 2026-05-31T00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-05-31T09:10:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [[concepts/phenomenal-acquaintance]]
+- **Mode**: Citation-currency pass (article converged after 2 prior reviews; no critical content issues outstanding). Length-neutral (2772 words, 111% of soft threshold).
+- **Word count**: 2773 → 2772 (-1; citation edits only)
+- **Critical issues addressed**: 1 — fabricated/conflated Kelly citation. Article cited a hybrid that does not exist: title of Kelly's 2001 PPR paper assigned to the 1998 EJAP venue. Web-verified: the real 1998 EJAP paper is "What Makes Perceptual Content Non-Conceptual?"; the load-bearing in-body claim (demonstrative concepts require re-identification, contra McDowell) is from a THIRD paper, Kelly "Demonstrative Concepts and Experience," *Philosophical Review* 110(3):397-420 (2001). Both metadata fabrication AND source-conclusion mismatch. Flagged by cross-corpus divergence grep (minority form suspect; [[phenomenal-overflow]] correctly cited the PPR 2001 paper). Fixed at propagation source ([[research/voids-pre-conceptual-knowing-2026-01-27]]) FIRST, then live siblings ([[voids/acquaintance-void]]) + both archive copies + this article. Defect had survived 2 prior intra-corpus reviews of this page.
+- **Medium issues addressed**: 1 — Chalmers "Phenomenal Concepts and the Explanatory Gap" date 2006 → 2007 (Alter & Walter OUP volume; aligns with sibling).
+- **Named-opponent engagements (editor-internal)**: Dennett Mode One; Lewis ability hypothesis Mode One; Loar Mode One/Two; HOT (Rosenthal/Brown) + representationalists Mode One. No boundary-substitution; no label leakage (grep-verified).
+- **Calibration**: No possibility/probability or metaphysical/epistemic slippage; article explicitly two-steps the dualism argument and labels the physicalist alternative honestly.
+- **Output**: [[reviews/deep-review-2026-05-31-phenomenal-acquaintance]]
+
 ## 2026-05-31T08:35:58+00:00 - refine-draft
 - **Status**: Success
 - **File**: [[topics/animal-consciousness]]
