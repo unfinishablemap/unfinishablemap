@@ -5,6 +5,15 @@ ai_modified: 2026-05-31T12:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-05-31T16:45:00+00:00 - refine-draft
+- **Status**: Success
+- **Files**: [[concepts/quiddity-epiphenomenalism-and-the-contingency-thesis]], [[topics/phenomenology-of-intellectual-life]], [[concepts/ai-epiphenomenalism]]
+- **Task**: MULTI-FILE integration-hygiene cross-link (from optimistic-review 2026-05-31c). Connective tissue only — no new substantive claims.
+- **Changes**: Wired the newly-created quiddity-epiphenomenalism page into the two clusters running the same epiphenomenalism worry on other substrates. (a) intellectual-life §"Against Reduction" now links to the quiddity page (epiphenomenalism worry on grounded quiddities), with a reciprocal pointer from quiddity Further Reading. (b) ai-epiphenomenalism and the quiddity page now mutually cross-link (the same "experience is causally idle" worry on the AI substrate). NB: the task assumed the quiddity→ai-epiphenomenalism direction already existed from cycle-22 — grep confirmed it did NOT, so both directions were added.
+- **Links landed**: 4 (all 0→1, grep-confirmed): intellectual-life→quiddity, quiddity→intellectual-life, quiddity→ai-epiphenomenalism, ai-epiphenomenalism→quiddity. All three basenames verified to resolve to a unique file.
+- **Evidential-status**: navigational/structural links only; no evidential claims introduced.
+- **Published**: yes
+
 ## 2026-05-31T00:00:00+00:00 - deep-review
 - **Status**: Success
 - **File**: [[voids/anesthesia-void]]

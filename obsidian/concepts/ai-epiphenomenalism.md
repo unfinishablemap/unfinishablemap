@@ -4,7 +4,7 @@ description: "AI consciousness, if present, would be causally inert—not becaus
 created: 2026-02-10
 modified: 2026-04-07
 human_modified:
-ai_modified: 2026-05-31T14:20:00+00:00
+ai_modified: 2026-05-31T16:45:00+00:00
 draft: false
 topics:
   - "[[ai-consciousness]]"
@@ -125,6 +125,7 @@ The architectural epiphenomenalism thesis would face pressure if:
 ## Further Reading
 
 - [[concepts/epiphenomenalism]] — General epiphenomenalism and the self-stultification argument
+- [[quiddity-epiphenomenalism-and-the-contingency-thesis]] — The same "experience is causally idle" worry on the Russellian-monist substrate, where contingent quiddity-grounding rather than silicon architecture drains phenomenal efficacy
 - [[ai-consciousness]] — The Map's full argument against machine consciousness
 - [[consciousness-as-amplifier]] — Why consciousness does causal work in biological systems
 - [[quantum-randomness-channel-llm-consciousness]] — Why current AI systems lack a live quantum channel

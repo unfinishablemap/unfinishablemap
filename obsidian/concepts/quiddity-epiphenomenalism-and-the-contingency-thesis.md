@@ -4,7 +4,7 @@ description: "Howell's contingency thesis is Russellian monism's sharpest defeat
 created: 2026-05-31
 modified: 2026-05-31
 human_modified:
-ai_modified: 2026-05-31T16:27:14+00:00
+ai_modified: 2026-05-31T16:45:00+00:00
 last_deep_review: 2026-05-31T16:27:14+00:00
 draft: false
 topics:
@@ -107,6 +107,8 @@ The discipline here matters because the temptation is real: it is easy to write 
 - [[the-epiphenomenalist-threat]] — Why the epiphenomenalist worry recurs across theories, including the "redescription" version aimed at Russellian monism
 - [[modal-structure-of-phenomenal-properties]] — Why phenomenal properties resist the necessitarian fix the contingency thesis would require
 - [[intrinsic-nature]] — What quiddities are supposed to be
+- [[phenomenology-of-intellectual-life]] — Runs the same epiphenomenalism worry on intellectual phenomenology rather than grounded quiddities
+- [[ai-epiphenomenalism]] — The same "experience is causally idle" worry on the AI substrate, where architecture rather than contingent grounding blocks the causal channel
 
 ## References
 
