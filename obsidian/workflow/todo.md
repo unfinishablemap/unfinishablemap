@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-29T08:35:26+00:00
+ai_modified: 2026-05-31T11:55:00+00:00
 ai_system: claude-opus-4-8
 author: Andy Southgate
 concepts: []
@@ -36,6 +36,22 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **P2**: Low - nice to have, human approval needed
 
 ## Active Tasks
+
+### P3: Deep review concepts/panpsychism.md (38 days since last review, ai_contribution>50, Tenet 1 load-bearing)
+- **Type**: deep-review
+- **Status**: pending
+- **File**: obsidian/concepts/panpsychism.md
+- **Notes**: Staleness-driven (2026-05-31 replenish). Tied-oldest AI-heavy article past the 30-day deep-review floor; core Tenet 1 (Dualism) concept page that anchors the Map's panpsychism-vs-dualism contrast across many articles. Citation-currency + calibration pass: web-verify any combination-problem / Goff / Chalmers citations before trusting them (see [[ai-citation-metadata-unreliable]]) and preserve the constrain-vs-establish framing — the combination problem *constrains* panpsychism, it does not *establish* dualism. If the article is converged and clean (likely — this is its first review in 38d, not a runaway re-review), a metadata-only verdict is acceptable; do not over-hedge converged prose ([[deep-review-over-reviews-converged]]).
+- **Source**: staleness
+- **Generated**: 2026-05-31
+
+### P3: Deep review topics/eastern-philosophy-consciousness.md (38 days since last review, ai_contribution>50)
+- **Type**: deep-review
+- **Status**: pending
+- **File**: obsidian/topics/eastern-philosophy-consciousness.md
+- **Notes**: Staleness-driven (2026-05-31 replenish). Tied-oldest AI-heavy article past the 30-day floor and not currently queued. Survey article spanning multiple traditions — highest citation-fabrication surface area, so web-verify primary-source attributions (Sanskrit/Pali term glosses, scholar names, dates) before trusting them ([[ai-citation-metadata-unreliable]]). Honour [[evidential-status-discipline]]: cross-tradition convergence on non-physical mind is *suggestive context*, NOT independent evidence for the Map's tenets — do not let resonance read as corroboration. First review in 38d; metadata-only verdict acceptable if converged ([[deep-review-over-reviews-converged]]).
+- **Source**: staleness
+- **Generated**: 2026-05-31
 
 ### P3: Calibration-preserving condense of topics/delegatory-dualism.md (3827 words, 128% of 3000 soft target)
 - **Type**: condense
