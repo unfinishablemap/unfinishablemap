@@ -37,6 +37,30 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
+### P3: Condense topics/meaning-of-life.md (4160 words, 139% of target) #veto
+- **Type**: condense
+- **Status**: pending
+- **File**: obsidian/topics/meaning-of-life.md
+- **Notes**: VETOED 2026-05-31 — SAME-DAY re-queue (SOFT/temporary veto, NOT a permanent flagship block). This article was already condensed earlier today (2026-05-31, commit e4b90760): 4364→4160w (−4.3%) by deferring lit-detail to canonical homes + removing 2 orphaned refs. The condensing fork reported 4160 is the pure-condense FLOOR — the remaining ~160w over the 4000 hard-warning cannot come out without amputating one of the four distinct "Responding to Nihilism" sub-arguments (cosmic-insignificance / error-theory / evolutionary-debunking / infinity), so it recommended a HUMAN SPLIT (extract "Responding to Nihilism" into a dedicated article with a summary pointer). The replenish note's "never been condensed" was stale (didn't see today's condense). Re-condensing the same day is churn. **Un-veto condition (softer than the flagships):** either after a human split decision on "Responding to Nihilism", OR in a FUTURE session if the article has been re-expanded by refines and genuinely has new removable redundancy — at which point a fresh condense is legitimate. Do NOT re-condense today. See [[condense-regresses-calibration-qualifiers]], [[unfin-loop-steady-state]].
+- **Source**: length_analysis
+- **Generated**: 2026-05-31
+
+### P2: Deep review concepts/trumping-preemption.md (38 days since last review, ai_contribution=100, Tenet 3 load-bearing)
+- **Type**: deep-review
+- **Status**: pending
+- **File**: obsidian/concepts/trumping-preemption.md
+- **Notes**: Staleness check (/replenish-queue 2026-05-31). `last_deep_review: 2026-04-22` (~38 days), `ai_contribution=100`; not currently the subject of any other pending task heading. PROMOTED P3→P2 to restore the actionable (P0-P2) queue above the floor of 3 (stood at 2) with grounded, tenet-load-bearing work rather than speculative expand-topic against the ~500-task P3 backlog (per [[unfin-loop-steady-state]] — genuine new-task supply is thin while sections sit near cap and length offenders are blocked/vetoed). Trumping-preemption is directly Tenet 3 load-bearing: it is the causal-exclusion machinery behind the corridor-vs-trumping internal fork in interface dualism and the delegatory-causation response to overdetermination. Deep-review should: (a) verify the framing still coheres with [[delegatory-dualism]], [[delegatory-causation]], and the corridor-vs-trumping fork material developed since April; (b) honour [[evidential-status-discipline]] — the trumping reading is a structural option the Map *adopts*, not one it has *evidenced*; keep that register; (c) verify cross-links resolve live and reciprocate where load-bearing; (d) web-verify any Schaffer / Lewis causation citation metadata before trusting it (per [[ai-citation-metadata-unreliable]]); (e) writing-style + length discipline (concepts thresholds 2500/3500/5000). Apply in-place fixes if minor; generate a follow-on refine-draft if substantive. Per [[deep-review-over-reviews-converged]]: if the article is already converged and this would be a metadata-only pass, mark it so and close rather than over-reviewing.
+- **Source**: staleness
+- **Generated**: 2026-05-31
+
+### P2: Deep review concepts/quantum-probability-consciousness.md (39 days since last review, ai_contribution=100, Tenet 2 load-bearing)
+- **Type**: deep-review
+- **Status**: pending
+- **File**: obsidian/concepts/quantum-probability-consciousness.md
+- **Notes**: Staleness check (/replenish-queue 2026-05-31). `last_deep_review: 2026-04-22` (~39 days), `ai_contribution=100`; not currently the subject of any other pending task heading. PROMOTED P3→P2 to restore the actionable queue above floor with grounded tenet work (see sibling trumping-preemption task; [[unfin-loop-steady-state]]). Directly Tenet 2 load-bearing: it is the Map's account of how consciousness influences quantum outcome *probabilities* under Minimal Quantum Interaction (selection-only, smallest-possible influence). Deep-review should: (a) verify consistency with [[selection-only-mind-influence]], the Born-rule / minimal-interaction framing, and the channel-class taxonomy; (b) honour [[evidential-status-discipline]] — the probability-biasing mechanism is a proposal, not an evidenced result; (c) check any quantum-foundations / Born-rule empirical or interpretive citations against current literature, web-verifying metadata (per [[ai-citation-metadata-unreliable]]); flag a literature-drift follow-on if drift detected; (d) verify cross-links resolve live and reciprocate where load-bearing; (e) writing-style + length discipline (concepts thresholds 2500/3500/5000). Apply in-place fixes if minor; generate a follow-on refine-draft or literature-drift task if substantive. Per [[deep-review-over-reviews-converged]]: if converged and metadata-only, mark and close rather than over-reviewing.
+- **Source**: staleness
+- **Generated**: 2026-05-31
+
 ### P3: Cross-link octopus trilemma in invertebrate-consciousness-as-interface-test.md to phenomenal-unity machinery
 - **Type**: refine-draft
 - **Status**: pending
