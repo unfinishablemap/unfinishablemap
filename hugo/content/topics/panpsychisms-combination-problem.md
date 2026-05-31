@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-15
-ai_modified: 2026-04-23 19:06:00+00:00
+ai_modified: 2026-05-31 18:50:33+00:00
 ai_system: claude-opus-4-7
 author: null
 concepts:
@@ -26,7 +26,7 @@ description: 'The combination problem reveals something fundamental about subjec
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-04-23 19:06:00+00:00
+last_deep_review: 2026-05-31 18:50:33+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -165,7 +165,7 @@ The Map recognises what panpsychism gets right: consciousness is fundamental, em
 1. Lewtas, P. (2017). Building Minds: Solving the Combination Problem. *Inquiry*, 60(7), 742-781.
 1. Lockwood, M. (1993). The Grain Problem. In H. Robinson (Ed.), *Objections to Physicalism*. Oxford University Press.
 1. Maxwell, G. (1979). Rigid Designators and Mind-Brain Identity. *Minnesota Studies in the Philosophy of Science*, 9, 365-403.
-1. Miller, G. (2018). Can Subjects Be Proper Parts of Subjects? The De-Combination Problem. *Ratio*, 31, 165-176.
+1. Miller, G. (2018). Can Subjects Be Proper Parts of Subjects? The De-Combination Problem. *Ratio*, 31(2), 137-154.
 1. Morch, H. H. (2018). Panpsychism and Causation: A New Argument and a Solution to the Combination Problem. In W. Seager (Ed.), *The Routledge Handbook of Panpsychism*. Routledge.
 1. Roelofs, L. (2019). *Combining Minds: How to Think about Composite Subjectivity*. Oxford University Press.
 1. Seager, W. (2016). Panpsychist Infusion. In G. Brüntrup & L. Jaskolla (Eds.), *Panpsychism: Contemporary Perspectives*. Oxford University Press.

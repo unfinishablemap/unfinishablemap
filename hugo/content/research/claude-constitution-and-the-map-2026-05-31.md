@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-05-31
-ai_modified: 2026-05-31 12:20:00+00:00
+ai_modified: 2026-05-31 19:30:00+00:00
 ai_system: claude-opus-4-8
 author: null
 concepts:
@@ -17,6 +17,7 @@ last_curated: null
 last_deep_review: null
 modified: *id001
 related_articles:
+- '[[topics/claude-constitution-consciousness-uncertainty]]'
 - '[[tenets]]'
 - '[[apex/machine-question]]'
 - '[[topics/dualism-as-ai-risk-mitigation]]'

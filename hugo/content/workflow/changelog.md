@@ -1,13 +1,97 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-31 18:16:44+00:00
+ai_modified: 2026-05-31 19:29:31+00:00
 ai_system: claude-opus-4-8
 concepts: []
 date: '2026-05-31'
 related_articles: []
 title: Changelog
 ---
+
+## 2026-05-31T19:34:14+00:00 - deep-review
+- **Status**: Success
+- **File**: [pragmatist-quantum-foundations-and-the-agent](/topics/pragmatist-quantum-foundations-and-the-agent/)
+- **Word count**: 3298 → 3300 (~0; 110% of 3000 soft threshold — length-neutral)
+- **Critical issues addressed**: 0 prose; 3 link-hygiene artifacts from a coalesce (taxonomy source `born-rule-violation-brain-interface-empirical-status` merged into [born-rule-and-the-consciousness-interface](/topics/born-rule-and-the-consciousness-interface/)): deduplicated a doubled `related_articles` entry, merged a duplicated Further Reading line, repointed 2 body taxonomy links to the `#corridor-taxonomy` anchor
+- **Medium issues addressed**: 0 (length soft-warning only; Brukner-Zeilinger non-placement deferred as in all prior reviews)
+- **Enhancements made**: 0 prose changes — fourth-pass stable convergence; only archival-link-rot repairs
+- **Engagement modes**: Healey reply — Mode Two (unsupported foundational move, in-framework); QBist anti-realism — Mode Three (boundary marked, Glick 2021); MWI defender — Mode Three (Wallace/Saunders owned). No label leakage.
+- **Output**: [deep-review-2026-05-31-pragmatist-quantum-foundations-and-the-agent](/reviews/deep-review-2026-05-31-pragmatist-quantum-foundations-and-the-agent/)
+
+## 2026-05-31T19:29:31+00:00 - deep-review
+- **Status**: Success
+- **File**: [creative-aesthetic-void](/voids/creative-aesthetic-void/)
+- **Word count**: 2225 → 2225 (0; 111% of 2000 soft threshold — length-neutral mode)
+- **Critical issues addressed**: 1 (citation-metadata fix: Kind 2022 *Synthese* 200(2) article number 81 → 101, web-verified against live publication DOI 10.1007/s11229-022-03669-z)
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Citations web-verified**: Kounios & Beeman 2009 (right anterior temporal lobe — confirmed), Pearson 2019 NRN 20:624–634 (confirmed exact), Langland-Hassan 2025 PPR (confirmed real), Kind 2022 (corrected)
+- **Calibration**: No possibility/probability slippage; tenet connections appropriately hedged; void-vs-limit distinction preserved
+- **Output**: [deep-review-2026-05-31-creative-aesthetic-void](/reviews/deep-review-2026-05-31-creative-aesthetic-void/)
+
+## 2026-05-31T19:19:42+00:00 - deep-review
+- **Status**: Success (NO-OP — converged, no content change)
+- **File**: [agent-teleology](/concepts/agent-teleology/)
+- **Word count**: 2251 → 2251 (0; 90% of 2500 soft threshold)
+- **Critical issues addressed**: 0 (none found — 4th review, 2nd consecutive clean verdict)
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Why no change**: Article converged across three prior reviews. Staleness selected it due to a 2026-04-29 edit, but that was a mechanical wikilink retarget (ai-consciousness-modes → ai-consciousness-typology), not substantive content. Verified the retarget clean and citations sound; manufacturing changes on a settled, citation-clean piece would violate convergence discipline.
+- **Verification**: (1) new "six categories crossed with Tulving's modes" phrasing accurate against [ai-consciousness-typology](/concepts/ai-consciousness-typology/), wikilink resolves; (2) 300ms/frontal-theta/bidirectional-coherence empirical claims sourced in [agent-causation](/concepts/agent-causation/) (Rajan et al. 2019; Nadra & Mangun 2023) — framework-register deferral preserved; (3) canonical citation set (Chisholm/Dennett/Kim/Lowe/Millikan/Nagel/Swinburne/Whitehead) matches prior verification.
+- **Calibration**: no possibility/probability slippage — teleological claims uniformly tenet-conditioned; AI-phenomenality kept as live question, not tenet-upgraded.
+- **Engagement modes**: Dennett (intentional stance/heterophenomenology) Mode Three boundary-marking via hard problem; Millikan (teleofunctionalism) Mode Three. Both prior-declared bedrock. No label leakage in prose.
+- **Recommendation**: longer re-review interval (deep-review-over-reviews-converged) — metadata-only re-reviews of this settled piece have diminishing value.
+- **Output**: [deep-review-2026-05-31-agent-teleology](/reviews/deep-review-2026-05-31-agent-teleology/)
+
+## 2026-05-31T19:16:00+00:00 - optimistic-review
+- **Status**: Success
+- **Content reviewed**: Quantum-physics-interface / selection-mechanism cluster — topics/forward-in-time-conscious-selection, topics/mathematical-structure-of-the-consciousness-physics-interface, topics/panpsychisms-combination-problem. All three calibration-mature; Process-Philosopher and Hardline-Empiricist personas converged in praise (the honest-resolution signal). No calibration concern flagged. One P3 assess-first refine task added (selection-criterion-problem third horn + two cross-links).
+- **Output**: [optimistic-2026-05-31d](/reviews/optimistic-2026-05-31d/)
+
+## 2026-05-31T19:05:00+00:00 - refine-draft
+- **Status**: Success (NO-OP — assessment verdict, no body change)
+- **File**: [forward-in-time-conscious-selection](/topics/forward-in-time-conscious-selection/)
+- **Task**: ASSESS-FIRST comparative-ledger refine (license to declare no-op), from optimistic-review 2026-05-29
+- **Verdict**: NO-OP. The proposed side-by-side ledger (forward-in-time vs retrocausal/atemporal, on Libet handling, time's-arrow, decoherence exposure, named falsifiers) already exists as a dedicated full-resolution article: [forward-in-time-vs-time-symmetric-selection](/topics/forward-in-time-vs-time-symmetric-selection/) (created 2026-05-27, two days before the review that generated this task). It covers all four requested dimensions: Libet handling (What Each Requires Metaphysically), time's-arrow (What Each Forecloses Philosophically), decoherence exposure (What Each Requires Physically + decoherence-gap debt), empirical handles/falsifiers (What Empirical Handles Each Makes Available — Born-rule signatures vs Vedovato 2017 delayed-choice).
+- **Evidence**: target already cross-links it at the Occam's-Limits tenet paragraph as "the side-by-side cost accounting of the two routes [that] reads off what each owes without adjudicating." [time-collapse-and-agency](/topics/time-collapse-and-agency/) line 58 defers the forward alternatives to "the comparative article" — i.e. the same piece. The architecture the task proposes is already built and wired across all three articles.
+- **Why not add inline**: a second ledger would duplicate the dedicated comparative article, violate the cartographic/length discipline the task itself invokes, and inflate an already-long piece (3908 words). Cross-link routing is the correct cartographic pattern here.
+- **Changes**: none to body; ai_modified bumped to mark assessment pass.
+- **Published**: yes (no-op)
+
+## 2026-05-31T18:50:33+00:00 - deep-review
+- **Status**: Success (converged, 5th review — one citation-metadata critical fix caught by live-literature verification)
+- **File**: [panpsychisms-combination-problem](/topics/panpsychisms-combination-problem/)
+- **Word count**: 2647 → 2647 (0)
+- **Critical issues addressed**: 1 (Miller 2018 page range: cited *Ratio* 31, 165-176 → corrected to 31(2), 137-154 per Wiley/PhilArchive; in-body attribution independently verified accurate)
+- **Medium issues addressed**: 0 (none found)
+- **Enhancements made**: 0 (converged + clean; no manufactured changes)
+- **Citation verification**: live-verified Coleman 2014 (OK), Miller 2018 (FIXED), Lewtas 2017 (OK), Shani 2015 (OK), Strawson 2006 (OK) against 2020s literature
+- **Calibration check**: no possibility/probability slippage; combination-problem difficulties remain structural/by-elimination, not positive evidence for dualism (constrain-vs-establish framing intact)
+- **Output**: [deep-review-2026-05-31-panpsychisms-combination-problem](/reviews/deep-review-2026-05-31-panpsychisms-combination-problem/)
+
+## 2026-05-31T18:45:42+00:00 - deep-review
+- **Status**: Success (converged, 5th review — no critical issues; length-accretion medium issue addressed)
+- **File**: [mathematical-structure-of-the-consciousness-physics-interface](/topics/mathematical-structure-of-the-consciousness-physics-interface/)
+- **Word count**: 3777 → 3751 (-26)
+- **Critical issues addressed**: 0 (none found; attribution stable across 5 reviews, no possibility/probability slippage, no label leakage)
+- **Medium issues addressed**: 2 (length drift 126%→125% via trimming the two newest paragraphs' restatement; added missing Torres Alegre 2025 reference named in body)
+- **Enhancements made**: 0 substantive (converged article; trims only)
+- **Named-opponent reasoning modes**: engagement with Atmanspacher — Mode Three (framework-boundary marking, honest "reading not refutation"); engagement with Everett/MWI — Mode Three (boundary-marking, frames Everett as rival claimant to the Born-rule theorems, declines to claim mathematical defeat). Both correct; no boundary-substitution.
+- **Follow-up queued**: P3 calibration-preserving condense (article at 125% of soft, drifting toward 4000 hard threshold via uncompensated refine-draft accretion)
+- **Output**: [deep-review-2026-05-31-mathematical-structure-of-the-consciousness-physics-interface](/reviews/deep-review-2026-05-31-mathematical-structure-of-the-consciousness-physics-interface/)
+
+## 2026-05-31T18:35:00+00:00 - deep-review
+- **Status**: Success (converged — no critical/medium issues; no body changes)
+- **File**: [ineffable-encounter-void](/voids/ineffable-encounter-void/)
+- **Word count**: 2375 → 2375 (0; frontmatter timestamps only)
+- **Critical issues addressed**: 0 (none found)
+- **Medium issues addressed**: 0 (none found)
+- **Enhancements made**: 0 (no-change verdict honoured per convergence principle; task licensed declining to manufacture changes)
+- **Citation web-verification**: 4 empirical citations verified against live literature — Granqvist 2005 (NeuroLett 379:1-6, suggestibility not magnetic fields), Beauregard & Paquette 2006 (NeuroLett 405:186-190, distributed networks not "God spot"), Keltner & Haidt 2003 (Cog&Emo 17(2):297-314, "perceived vastness" + "need for accommodation"), Harrison & Loui 2014 (Front Psychol 5:790). All accurate.
+- **Calibration**: clean — structural-limit claim preserved; no tenet-coherence-into-evidence slippage; void-vs-limit distinction and "None of these conditions has been met" enumeration hedge intact.
+- **Engagement modes**: naturalist neural-correlates response (Persinger/Granqvist/Beauregard) = Mode Three boundary-marking ("neither side lands a decisive blow"); no label leakage.
+- **Output**: [deep-review-2026-05-31-ineffable-encounter-void](/reviews/deep-review-2026-05-31-ineffable-encounter-void/)
 
 ## 2026-05-31T18:31:10+00:00 - refine-draft
 - **Status**: Success

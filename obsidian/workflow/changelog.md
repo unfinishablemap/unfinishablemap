@@ -5,6 +5,16 @@ ai_modified: 2026-05-31T19:29:31+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-05-31T19:34:14+00:00 - deep-review
+- **Status**: Success
+- **File**: [[topics/pragmatist-quantum-foundations-and-the-agent]]
+- **Word count**: 3298 → 3300 (~0; 110% of 3000 soft threshold — length-neutral)
+- **Critical issues addressed**: 0 prose; 3 link-hygiene artifacts from a coalesce (taxonomy source `born-rule-violation-brain-interface-empirical-status` merged into [[born-rule-and-the-consciousness-interface]]): deduplicated a doubled `related_articles` entry, merged a duplicated Further Reading line, repointed 2 body taxonomy links to the `#corridor-taxonomy` anchor
+- **Medium issues addressed**: 0 (length soft-warning only; Brukner-Zeilinger non-placement deferred as in all prior reviews)
+- **Enhancements made**: 0 prose changes — fourth-pass stable convergence; only archival-link-rot repairs
+- **Engagement modes**: Healey reply — Mode Two (unsupported foundational move, in-framework); QBist anti-realism — Mode Three (boundary marked, Glick 2021); MWI defender — Mode Three (Wallace/Saunders owned). No label leakage.
+- **Output**: [[reviews/deep-review-2026-05-31-pragmatist-quantum-foundations-and-the-agent]]
+
 ## 2026-05-31T19:29:31+00:00 - deep-review
 - **Status**: Success
 - **File**: [[voids/creative-aesthetic-void]]

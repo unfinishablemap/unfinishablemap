@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-18
-ai_modified: 2026-05-27 07:27:07+00:00
+ai_modified: 2026-05-31 18:45:42+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -27,7 +27,7 @@ embedded_videos:
   url: https://www.youtube-nocookie.com/embed/xicd38uVq7A
 human_modified: null
 last_curated: null
-last_deep_review: 2026-04-23 16:28:00+00:00
+last_deep_review: 2026-05-31 18:45:42+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -91,13 +91,13 @@ The corridor's authority depends on the postulates holding in the regime where c
 
 No experiment directly probes Born-rule compliance inside brains, and the contested positive claims that do exist—Kerskens-style MRI entanglement witnesses in brain water, microtubule-coherence reviews—do not isolate the Born rule as the variable at stake. Neural processes we can measure obey standard QM, and a brain-internal Born violation that leaves no downstream signature—in muscles, light, sound, subsequent measurements—is a tall order. The Map therefore adopts corridor dualism as its default, a choice responsive to current evidence rather than a mathematical straitjacket. If evidence shifted—preregistration-robust micro-PK signals, Nirvanic-style brain-coupled quantum-system anomalies, entanglement-witness departures from standard QM predictions—MQI would sanction moving the minimum outside the corridor without any tenet change.
 
-This conservatism comes at a price worth stating plainly. The corridor and trumping readings the Map prefers are, by their own construction, signature-free: corridor selection preserves ensemble Born statistics, and trumping leaves no distinctive trajectory at all. Only the *disfavoured* minimum-outside-the-corridor reading carries a testable prediction (a precision Bell-type departure from the standard Born statistics). So the Map's empirical content lives almost entirely in the option it does not endorse, while its default readings purchase their conservatism with the loss of any distinguishing measurement. The Map accepts this trade because the alternative—endorsing a Born-violating reading purely to make the position falsifiable—would buy testability at the cost of the very conservatism MQI demands. The honest summary is that the default is preferred on theoretical grounds and would, if it is correct, remain empirically silent.
+This conservatism comes at a price worth stating plainly. The corridor and trumping readings the Map prefers are signature-free by construction: corridor selection preserves ensemble Born statistics, and trumping leaves no distinctive trajectory at all. Only the *disfavoured* minimum-outside-the-corridor reading carries a testable prediction (a precision Bell-type departure from standard Born statistics), so the Map's empirical content lives almost entirely in the option it does not endorse. It accepts this trade because the alternative—endorsing a Born-violating reading purely to make the position falsifiable—would buy testability at the cost of the very conservatism MQI demands. The default is preferred on theoretical grounds and would, if correct, remain empirically silent.
 
 ## Statistical Closure and Outcome-Level Openness
 
 Tonetto's analysis of causal closure provides the conceptual foundation for understanding where consciousness fits within this mathematical structure. Classical mechanics provides deterministic closure: given initial conditions, the equations uniquely determine all future states. Quantum mechanics replaces this with what Tonetto calls "statistical closure with outcome-level openness"—the Born rule fixes probability distributions, but which specific outcome actualises from the distribution is not determined by the formalism.
 
-This is a structural gap, not merely incomplete knowledge. Restoring deterministic closure requires additional metaphysical commitments—Bohmian hidden variables, many-worlds branching—that are "purchased through metaphysical commitment, not empirical discovery." The gap is where the Map's corridor-dualism reading locates consciousness's causal role: selecting among outcomes whose probabilities are already fixed by physics, operating in the space physics leaves structurally open. (The [trumping alternative](/concepts/trumping-preemption/) does not need the gap at all — on that reading the physical trajectory is fully sufficient and consciousness is authoritative at the attribution level, leaving the mathematical corridor untouched.) A reading on which the gap is filled by brute randomness with no selecting agent is equally compatible with the same mathematics; the Map's preference for the selection reading rests on its dissatisfaction with leaving the correlation between conscious intention and physical outcome unexplained, not on the formalism adjudicating between the two. That dissatisfaction is a tenet-level motivation, not a discriminating measurement — the brute-randomness reading is internally coherent and the structure discussed here does not rule it out.
+This is a structural gap, not merely incomplete knowledge. Restoring deterministic closure requires additional metaphysical commitments—Bohmian hidden variables, many-worlds branching—that are "purchased through metaphysical commitment, not empirical discovery." The gap is where the Map's corridor-dualism reading locates consciousness's causal role: selecting among outcomes whose probabilities are already fixed by physics, operating in the space physics leaves structurally open. (The [trumping alternative](/concepts/trumping-preemption/) does not need the gap at all — on that reading the physical trajectory is fully sufficient and consciousness is authoritative at the attribution level, leaving the mathematical corridor untouched.) A reading on which the gap is filled by brute randomness with no selecting agent is equally compatible with the same mathematics, and is internally coherent; the Map's preference for the selection reading rests on its dissatisfaction with leaving the correlation between conscious intention and physical outcome unexplained, not on the formalism adjudicating between the two. That dissatisfaction is a tenet-level motivation, not a discriminating measurement.
 
 Tonetto identifies an "interpretive asymmetry" in how this gap is treated: consciousness-involving interpretations face a burden of skepticism that hidden-variable and many-worlds interpretations avoid, despite all three being empirically equivalent responses to the same mathematical structure. The Map's [fifth tenet](/tenets/#occams-limits) addresses this directly—simplicity-based preferences between empirically equivalent interpretations reflect methodological habit, not evidential superiority.
 
@@ -203,3 +203,5 @@ The mathematical structure of the consciousness-physics interface connects direc
 13. Arana, A. (2025). "Time-Extended Consciousness-Weighted Quantum Probabilities." PhilArchive. https://philarchive.org/rec/ARATCQ-2
 
 14. Penrose, R. & Hameroff, S. (1996, and subsequent work). Orchestrated Objective Reduction (Orch-OR).
+
+15. Torres Alegre, E.O. (2025). "Causal Consistency Selects the Born Rule." arXiv:2512.12636.
