@@ -5,6 +5,17 @@ ai_modified: 2026-05-31T23:40:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-05-31T23:45:53+00:00 - deep-review
+- **Status**: Success (4th review; 1 critical calibration fix + 1 style fix; full citation web-verify clean)
+- **File**: [[concepts/african-philosophy-of-consciousness]]
+- **Word count**: 1709 → 1773 (+64; 71% of 2500 soft threshold)
+- **Citation web-verify (mandatory, highest fabrication surface in corpus)**: all 6 references + every scholar-position attribution verified clean against live literature — Gyekye/Tempels/Wiredu/Abimbola/Metz/Hountondji titles & dates exact; Metz 15(3):321–341 exact; ori/Ajala, Ubuntu proverb, okra/sunsum/honam glosses all correct; finding-directions match (Metz=ethical reading, Wiredu=quasi-material resisting straight dualism, Hountondji=unanimism critique). No fabricated or reversed metadata.
+- **Critical issues addressed**: 1 — possibility/probability slippage: "Relation to Site Perspective" treated cross-cultural convergence as "independent corroboration" that traditions "converge on the same conclusion." A tenet-accepting reviewer would still flag this — convergence is compatible with shared cognitive dispositions (eliminativist reading) and does not raise dualism's evidential status. Rewrote to "independent resonance," made explicit it is suggestive context not confirmation, named the shared-disposition alternative; mirrored a light forward-referenced touch in the opening paragraph.
+- **Medium issues addressed**: 1 — removed "This is not X. It is Y." cliché in Ubuntu section (writing-style guide violation); rephrased to assert the metaphysical claim directly.
+- **Cross-links**: all 12 targets verified live and reciprocating; none added (link set complete).
+- **Reasoning-mode**: no named-opponent replies; eliminativist objection is now surfaced in-body as the alternative the convergence cannot exclude (honest calibration, Mode Three boundary-marking). No editor-label leakage.
+- **Output**: [[reviews/deep-review-2026-05-31-african-philosophy-of-consciousness]]
+
 ## 2026-05-31T23:36:09+00:00 - deep-review
 - **Status**: Success (converged; no critical issues — 4th review; closed one load-bearing integration gap)
 - **File**: [[topics/consciousness-and-the-phenomenology-of-constraint-satisfaction]]
