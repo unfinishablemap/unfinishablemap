@@ -1,9 +1,21 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-31T23:40:00+00:00
+ai_modified: 2026-05-31T23:49:27+00:00
 ai_system: claude-opus-4-8
 ---
+
+## 2026-05-31T23:49:27+00:00 - deep-review
+- **Status**: Success (8th review; no-op at convergence; `last_deep_review` bumped, `ai_modified` and body unchanged)
+- **File**: [[concepts/mysterianism]]
+- **Word count**: 2901 → 2901 (no change; 116% of 2500 soft, below 3500 hard — length-neutral, no additions)
+- **Attribution web-verify (steered discipline)**: load-bearing attributions verified live, not just intra-corpus. McGinn "Can We Solve the Mind-Body Problem?" (1989) *Mind* 98:349–366 exact; position "naturalistic but not constructive"/transcendental naturalism correct (not reversed into ontological dualism). Chomsky problems/mysteries verified to *Reflections on Language* (1975/76) Ch.4; cite "1976 Pantheon" accurate, direction correct. Nagel 1974, Tallis 2024, Huemer 2009 unchanged from prior verification. No fabricated/reversed metadata.
+- **Evidential-status discipline**: framework-boundary wedge honest. C. elegans passage is an epistemic-limit claim, NOT a tenet-driven upgrade of minimal-organism consciousness; Dualism subsection keeps mysterianism "officially neutral but compatible" and separates Map commitment from mysterian humility. No possibility/probability slippage. A tenet-accepting reviewer would still find calibration honest.
+- **Link liveness**: all 30 sampled wikilink targets resolve live; no archive-notice orphans, no dead links.
+- **Critical issues addressed**: 0 (none found)
+- **Medium issues addressed**: 0 (none found; no "not X, it is Y" cliché in body)
+- **Enhancements made**: 0 (converged; over-hedging converged prose deliberately avoided per steering)
+- **Output**: [[reviews/deep-review-2026-05-31-mysterianism]]
 
 ## 2026-05-31T23:45:53+00:00 - deep-review
 - **Status**: Success (4th review; 1 critical calibration fix + 1 style fix; full citation web-verify clean)
