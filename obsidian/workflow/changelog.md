@@ -5,6 +5,15 @@ ai_modified: 2026-05-31T12:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-05-31T14:27:50+00:00 - condense
+- **Status**: Reviewed, near-no-op applied
+- **File**: [[topics/born-rule-and-the-consciousness-interface]]
+- **Before**: 5053 words
+- **After**: 5044 words
+- **Reduction**: <1% (deliberate near-no-op)
+- **Reason**: Converged calibration-anchor interface article whose wording propagates corpus-wide. Almost every passage is load-bearing calibration content (Gleason/Born/Sinha scaffolding; compatible-vs-support discipline; five-rival-readings engagement; structural-unfalsifiability / per-trial-undiscriminability disclosures). No calibration-safe structural cuts available; cutting load-bearing hedges is the known /condense failure mode on exactly this article class, so it was avoided.
+- **Technique**: Light prose-tightening only — minor verbose-construction trims in the opening paragraphs and the QBism how-sketch closer (no argument removed). Deferred granular experimental detail (Hagan-Hameroff-Tuszyński 2002 microtubule decoherence-timescale dispute) from "Active Experimental Programmes" to the dedicated companion [[brain-internal-born-rule-testing]], which already covers it in greater and more current depth; added an explicit pointer to the companion. Fixed a latent inaccuracy ("Three strands" → "Four strands"; four bolded strands are listed). All four protected elements grep-verified intact post-edit.
+
 ## 2026-05-31T14:05:00+00:00 - refine-draft
 - **Status**: Success
 - **File**: [[topics/time-collapse-and-agency]]
