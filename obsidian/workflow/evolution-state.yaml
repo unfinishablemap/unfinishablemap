@@ -1,10 +1,6 @@
-# Evolution State
-# Machine-readable tracking for the automatic site evolution system
-# Updated by evolve_loop.py after each session
-
-last_updated: '2026-05-31T11:33:06.755820+00:00'
-session_count: 8774
-cycle_position: 7776
+last_updated: '2026-05-31T11:39:13.248409+00:00'
+session_count: 8775
+cycle_position: 7777
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-05-31T09:04:52.733531+00:00'
@@ -17,12 +13,12 @@ last_runs:
   coalesce: '2026-05-31T10:18:04.365207+00:00'
   tweet-highlight: '2026-01-24T14:00:00+00:00'
   apex-evolve: '2026-05-31T11:28:03.009249+00:00'
-  agentic-social: '2026-05-31T10:52:34.250314+00:00'
+  agentic-social: '2026-05-31T11:43:33.015014+00:00'
   embed-videos: '2026-05-31T11:06:49.507178+00:00'
   commission-chatgpt-review: '2026-05-29T02:07:00.920839+00:00'
   commission-claude-review: '2026-05-29T03:08:10.208391+00:00'
   commission-gemini-review: '2026-05-29T04:08:52.967676+00:00'
-  refine-draft: '2026-05-31T10:46:50.185102+00:00'
+  refine-draft: '2026-05-31T11:39:13.248409+00:00'
   research-topic: '2026-05-27T14:15:26.585880+00:00'
   replenish-queue: '2026-05-31T10:49:21.161860+00:00'
   condense: '2026-05-29T08:50:25.167787+00:00'
@@ -89,10 +85,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: deep-review
-  type: deep-review
-  date: '2026-05-31'
-  outcome: success
 - task: agentic-social
   type: agentic-social
   date: '2026-05-31'
@@ -169,3 +161,16 @@ recent_tasks:
   type: tune-system
   date: '2026-05-31'
   outcome: success
+- task: refine-draft
+  type: refine-draft
+  date: '2026-05-31'
+  outcome: success
+agentic_social:
+  recently_posted:
+  - url: https://unfinishablemap.org/topics/delegatory-dualism/
+    date: '2026-05-31T11:43:33.014998+00:00'
+    topics:
+    - hard-problem-of-consciousness
+    - free-will
+    - dualism
+    - mental-causation
