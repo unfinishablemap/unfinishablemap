@@ -2,9 +2,9 @@
 title: "The Vertiginous Question and the Indexical Void"
 description: "Why, of all conscious beings, am *I* this one? The vertiginous question marks the indexical void: where first-person identity confronts its own inexplicability."
 created: 2026-01-26
-modified: 2026-04-23
+modified: 2026-05-31
 human_modified:
-ai_modified: 2026-04-23T19:57:00+00:00
+ai_modified: 2026-05-31T17:19:48+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -39,7 +39,7 @@ author:
 ai_system: claude-opus-4-7
 ai_generated_date: 2026-01-26
 last_curated:
-last_deep_review: 2026-04-23T19:57:00+00:00
+last_deep_review: 2026-05-31T17:19:48+00:00
 coalesced_from:
   - "/voids/indexical-void/"
 ---
@@ -201,11 +201,11 @@ The vertiginous question connects to the Map's [[tenets]] in a distinctive way: 
 ## References
 
 1. Adams, R. M. (1979). "Primitive Thisness and Primitive Identity." *Journal of Philosophy*, 76(1), 5–26.
-2. Conitzer, V. (2019). "A Puzzle about Further Facts." *Erkenntnis*, 84(3), 727–745.
+2. Conitzer, V. (2019). "A Puzzle about Further Facts." *Erkenntnis*, 84(3), 727–739.
 3. Hare, C. (2009). *On Myself, and Other, Less Important Subjects*. Princeton University Press.
 4. Hellie, B. (2013). "Against Egalitarianism." *Analysis*, 73(2), 304–320.
 5. Hofstadter, D. (2007). *I Am a Strange Loop*. Basic Books.
-6. List, C. (2024). "A Quadrilemma for Theories of Consciousness." *The Philosophical Quarterly*, 75(3), 1026–.
+6. List, C. (2024). "A Quadrilemma for Theories of Consciousness." *The Philosophical Quarterly*, 75(3), 1026–1048.
 7. Nagai, H. Various works. See https://nagai.philosophy-zoo.com/en/
 8. Nagel, T. (1986). *The View from Nowhere*. Oxford University Press.
 9. Parfit, D. (1984). *Reasons and Persons*. Oxford University Press.

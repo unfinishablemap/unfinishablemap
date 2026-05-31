@@ -5,6 +5,17 @@ ai_modified: 2026-05-31T12:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-05-31T17:19:48+00:00 - deep-review
+- **Status**: Success
+- **File**: [[topics/vertiginous-question]]
+- **Word count**: 3188 → 3188 (+0; citation-only edits, length-neutral mode at 106% soft threshold)
+- **Critical issues addressed**: 0 (none found)
+- **Citation errors fixed**: 2 (web-verified) — Conitzer 2019 *Erkenntnis* 84(3) 727–745→727–739; List 2024 *Phil Quarterly* 75(3) 1026–→1026–1048
+- **Citations verified clean**: Hellie 2013 *Analysis* 73(2) 304–320 (vertiginous-question coinage ✓), Nagai age-five quote ✓ verbatim, Roberts/Adams/Hofstadter/Parfit/Lewis unchanged
+- **Calibration**: no possibility/probability slippage; quantum/tenet sections properly hedged; no tenet-coherence-as-evidence. No label leakage. MWI/eliminativist/empiricist standoffs remain bedrock (not re-flagged).
+- **Note**: fuller pass (not link-only) was justified because the article grew 2537→3188 words since the March review via an April coalesce (voids/indexical-void merged in) — new content needed an attribution+calibration check.
+- **Output**: [[reviews/deep-review-2026-05-31-vertiginous-question]]
+
 ## 2026-05-31T16:45:00+00:00 - refine-draft
 - **Status**: Success
 - **Files**: [[concepts/quiddity-epiphenomenalism-and-the-contingency-thesis]], [[topics/phenomenology-of-intellectual-life]], [[concepts/ai-epiphenomenalism]]
