@@ -4,7 +4,7 @@ description: "Emotional consciousness provides the strongest empirical case for 
 created: 2026-01-19
 modified: 2026-03-17
 human_modified:
-ai_modified: 2026-05-28T20:58:39+00:00
+ai_modified: 2026-05-31T00:00:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -205,7 +205,7 @@ Both the cognitivist reduction of emotions to judgments and the somatic reductio
 1. Smithies, D. (forthcoming). Hedonic consciousness and moral status. In U. Kriegel (Ed.), *Oxford Studies in Philosophy of Mind*, Vol. 5.
 1. Solomon, R. (1976). *The Passions: Emotions and the Meaning of Life*. Anchor Press.
 1. Lee, S. A., et al. (2024). Brain representations of affective valence and intensity in sustained pleasure and pain. *PNAS*, 121(25), e2310433121.
-1. Tappolet, C. (2016). *Emotional Insight: The Epistemic Role of Emotional Experience*. Oxford University Press.
+1. Tappolet, C. (2016). *Emotions, Values, and Agency*. Oxford University Press.
 1. Taylor, G. J., Bagby, R. M., & Parker, J. D. A. (1997). *Disorders of Affect Regulation: Alexithymia in Medical and Psychiatric Illness*. Cambridge University Press.
 1. Tye, M., & Prinz, J. (2022). Sentience, Vulcans, and zombies: The value of phenomenal consciousness. *AI & Society*.
 1. von Hippel, W., & Trivers, R. (2011). The evolution and psychology of self-deception. *Behavioral and Brain Sciences*, 34(1), 1-16.

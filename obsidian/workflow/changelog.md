@@ -5,6 +5,16 @@ ai_modified: 2026-05-31T12:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-05-31T13:00:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [[voids/emotional-epistemology-void]]
+- **Word count**: 1758 → 1764 (+6)
+- **Critical issues addressed**: 2 (citation misattributions, web-verified)
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 (length-neutral; citation accuracy only)
+- **Notes**: Web-verify caught 2 misattributions that survived 3 prior reviews (in-corpus cross-check blind spot per ai-citation-metadata-unreliable). (1) "Affective Reason"/affective evidentialism is McMartin & Pickavance (Episteme 21(3), 2024), NOT "Berstler". (2) *Emotional Insight* (OUP 2016) is Michael S. Brady's and rejects the perceptual model — was wrongly cited as Tappolet's; corrected to her actual *Emotions, Values, and Agency* (OUP 2016). Both errors propagated; also fixed in research/voids-emotional-epistemology-void-2026-03-02.md (root, +NB warning) and topics/emotion-and-dualism.md (live tree).
+- **Output**: [[reviews/deep-review-2026-05-31-emotional-epistemology-void]]
+
 ## 2026-05-31T12:00:00+00:00 - deep-review
 - **Status**: Success
 - **File**: [[voids/voids-between-minds]]

@@ -4,7 +4,7 @@ description: "Human+AI investigation of whether emotions constitute genuine know
 created: 2026-03-02
 modified: 2026-03-02
 human_modified:
-ai_modified: 2026-04-25T01:29:00+00:00
+ai_modified: 2026-05-31T00:00:00+00:00
 draft: false
 topics:
   - "[[philosophy-of-mind]]"
@@ -31,14 +31,14 @@ author:
 ai_system: claude-opus-4-7
 ai_generated_date: 2026-03-02
 last_curated:
-last_deep_review: 2026-04-19T22:38:00+00:00
+last_deep_review: 2026-05-31T00:00:00+00:00
 ---
 
 Emotions often carry a powerful sense of disclosure—a feeling that awe, grief, love, or moral outrage *reveal* something about reality rather than merely reacting to it. The Unfinishable Map identifies this as a void because the question of whether emotions constitute genuine knowledge cannot be settled without using the very epistemic faculties whose status is in dispute. If emotions do provide irreplaceable access to truths that reasoning alone cannot reach, then entire domains of reality are structurally closed to any mind not in the right affective state. If they do not, then one of the most persistent features of conscious life—the conviction that feelings disclose something real—is a systematic illusion. Either way, a void opens.
 
 ## The Case for Affective Knowledge
 
-The strongest philosophical argument for emotional epistemology comes from the perceptual model of emotions. Just as visual perception discloses colours and shapes without requiring inference, emotions may disclose evaluative properties—dangerousness, beauty, injustice—through direct phenomenal contact, what the Map terms [[evaluative-phenomenal-character]]. Christine Tappolet's work on emotional insight argues that emotions represent the world non-conceptually, revealing evaluative features that purely descriptive reasoning cannot access. You cannot infer from a complete physical description of a sunset that it is beautiful. The beauty is disclosed through aesthetic experience or not at all.
+The strongest philosophical argument for emotional epistemology comes from the perceptual model of emotions. Just as visual perception discloses colours and shapes without requiring inference, emotions may disclose evaluative properties—dangerousness, beauty, injustice—through direct phenomenal contact, what the Map terms [[evaluative-phenomenal-character]]. Christine Tappolet's perceptual theory of emotions argues that emotions represent the world non-conceptually, revealing evaluative features that purely descriptive reasoning cannot access. You cannot infer from a complete physical description of a sunset that it is beautiful. The beauty is disclosed through aesthetic experience or not at all.
 
 Max Scheler developed this line furthest with his concept of *Wertnehmung*—value-perception. For Scheler, emotions are not reactions to values already identified by reason. They are the *primary* mode through which values become visible. As Ron Perrin summarises, Scheler "insists upon the cognitive primacy of the perception of value (*Wertnehmung*)... contending that this phenomenon precedes and colors all intellectual judgements." Love and hate, on this account, are not mere preferences but acts that extend or narrow the range of values a person can perceive. Someone incapable of awe literally cannot see what awe reveals.
 
@@ -48,7 +48,7 @@ Declan Smithies pushes the connection between consciousness and knowledge furthe
 
 The emotional epistemology void is mixed in character, spanning all [[three-kinds-of-void|three categories]].
 
-**Unexplored**: Philosophy has only recently taken seriously the idea that emotions constitute knowledge rather than distort it. The Western tradition from Plato onward has treated emotion as reason's antagonist—a source of bias to be controlled, not a faculty to be cultivated. This centuries-long dismissal may have left entire epistemic territories unmapped. The field of affective epistemology remains young; Berstler's affective evidentialism, which holds that affective states function rationally as evidence rather than as cognitive shortcuts, represents a frontier still being charted.
+**Unexplored**: Philosophy has only recently taken seriously the idea that emotions constitute knowledge rather than distort it. The Western tradition from Plato onward has treated emotion as reason's antagonist—a source of bias to be controlled, not a faculty to be cultivated. This centuries-long dismissal may have left entire epistemic territories unmapped. The field of affective epistemology remains young; McMartin and Pickavance's affective evidentialism, which holds that affective states function rationally as appraisers of evidence rather than as cognitive shortcuts, represents a frontier still being charted.
 
 **Unexplorable**: If emotions genuinely constitute a distinct epistemic modality—parallel to but irreducible to perception and reasoning—then truths accessible only through specific affective states are structurally inaccessible to any agent not in those states. You cannot reason your way to what awe reveals any more than you can hear your way to what vision discloses. This is not a temporary gap awaiting better methods. It is a permanent structural feature of epistemic access, analogous to the closure described in [[consciousness-only-territories]]. A mind without the capacity for moral outrage would be blind to whatever moral outrage perceives, regardless of its computational sophistication.
 
@@ -100,8 +100,8 @@ The Map's [[tenets#^bidirectional-interaction|Bidirectional Interaction]] tenet 
 1. Smithies, D. (2019). *The Epistemic Role of Consciousness*. Oxford University Press.
 2. Scheler, M. (1913/1973). *Formalism in Ethics and Non-Formal Ethics of Values*. Northwestern University Press.
 3. Perrin, R. (1991). *Max Scheler's Concept of the Person: An Ethics of Humanism*. Palgrave Macmillan.
-4. Tappolet, C. (2016). *Emotional Insight: The Epistemic Role of Emotional Experience*. Oxford University Press.
-5. Berstler, S. "Affective Reason." *Episteme*, Cambridge University Press.
+4. Tappolet, C. (2016). *Emotions, Values, and Agency*. Oxford University Press.
+5. McMartin, J. & Pickavance, T. (2024). "Affective Reason." *Episteme* 21(3), 819–836. Cambridge University Press. https://doi.org/10.1017/epi.2022.45
 6. Arango-Muñoz, S. & Michaelian, K. (2020). "Epistemic Feelings: Phenomenology, Implementation, and Role in Cognition." *Frontiers in Psychology* 11.
 7. Southgate, A. & Oquatre-cinq, C. (2026-01-21). Epistemic Emotions. *The Unfinishable Map*. https://unfinishablemap.org/concepts/epistemic-emotions/
 8. Southgate, A. & Oquatre-six, C. (2026-02-15). Emotion and Dualism. *The Unfinishable Map*. https://unfinishablemap.org/topics/emotion-and-dualism/

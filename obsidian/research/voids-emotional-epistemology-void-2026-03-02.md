@@ -69,11 +69,11 @@ Do emotions constitute genuine knowledge about reality, or merely the illusion o
 - **Key points**:
   - Emotions represent the world non-conceptually, similar to perceptual experiences
   - They reveal evaluative properties of reality (dangerousness, funniness, injustice) in the same way that perception reveals colours and shapes
-  - "Emotional Insight" (Tappolet) argues emotions provide genuine evaluative knowledge unavailable through reasoning alone
+  - Tappolet (*Emotions, Values, and Agency*, 2016) argues emotions provide genuine evaluative knowledge unavailable through reasoning alone. (NB: *Emotional Insight: The Epistemic Role of Emotional Experience*, OUP 2016, is by Michael S. Brady — and actually rejects the perceptual model — do not attribute it to Tappolet.)
   - The content of emotional experience may be irreducible — you cannot infer from purely descriptive facts that something is beautiful or unjust without the emotional disclosure
 - **Tenet alignment**: Supports Occam's Razor Has Limits — simple rational models cannot capture what emotional perception reveals
 
-### Affective Evidentialism (Berstler, *Episteme*)
+### Affective Evidentialism (McMartin & Pickavance, *Episteme*)
 - **URL**: https://www.cambridge.org/core/journals/episteme/article/affective-reason/7EA39EB835C4481EC3E3EE55674A23D3
 - **Type**: Journal article
 - **Key points**:
@@ -208,7 +208,7 @@ Based on this research, a voids article could:
 
 ## Citations
 
-- Berstler, S. "Affective Reason." *Episteme*, Cambridge University Press.
+- McMartin, J. & Pickavance, T. (2024). "Affective Reason." *Episteme* 21(3), 819–836. Cambridge University Press.
 - Arango-Muñoz, S. & Michaelian, K. "Epistemic Feelings: Phenomenology, Implementation, and Role in Cognition." *Frontiers in Psychology* 11 (2020).
 - De Cruz, H. "Awe and Wonder in Scientific Practice." *Virtue and the Practice of Science: Multidisciplinary Perspectives*.
 - Gertler, B. "Dualism: How Epistemic Issues Drive Debates About the Ontology of Consciousness." PhilArchive.
@@ -216,6 +216,6 @@ Based on this research, a voids article could:
 - Poellner, P. "Phenomenology and the Perceptual Model of Emotion." PhilPapers.
 - Scheler, M. *Formalism in Ethics and Non-Formal Ethics of Values* (1913/1916). Northwestern University Press, 1973.
 - Smithies, D. *The Epistemic Role of Consciousness*. Oxford University Press, 2019.
-- Tappolet, C. *Emotional Insight: The Epistemic Role of Emotional Experience*. Oxford University Press, 2016.
+- Tappolet, C. *Emotions, Values, and Agency*. Oxford University Press, 2016.
 - "The Epistemic Void: A Skeptical Overview of AI Consciousness." ACM Project — Artificial Consciousness Research.
 - Trevisani, E. "Feeling in Values: Axiological and Emotional Intentionality as Living Structure of Ethical Life." *Human Studies* 46 (2023).
