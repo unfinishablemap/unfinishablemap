@@ -1,9 +1,19 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-31T18:50:33+00:00
+ai_modified: 2026-05-31T19:05:00+00:00
 ai_system: claude-opus-4-8
 ---
+
+## 2026-05-31T19:05:00+00:00 - refine-draft
+- **Status**: Success (NO-OP — assessment verdict, no body change)
+- **File**: [[topics/forward-in-time-conscious-selection]]
+- **Task**: ASSESS-FIRST comparative-ledger refine (license to declare no-op), from optimistic-review 2026-05-29
+- **Verdict**: NO-OP. The proposed side-by-side ledger (forward-in-time vs retrocausal/atemporal, on Libet handling, time's-arrow, decoherence exposure, named falsifiers) already exists as a dedicated full-resolution article: [[topics/forward-in-time-vs-time-symmetric-selection]] (created 2026-05-27, two days before the review that generated this task). It covers all four requested dimensions: Libet handling (What Each Requires Metaphysically), time's-arrow (What Each Forecloses Philosophically), decoherence exposure (What Each Requires Physically + decoherence-gap debt), empirical handles/falsifiers (What Empirical Handles Each Makes Available — Born-rule signatures vs Vedovato 2017 delayed-choice).
+- **Evidence**: target already cross-links it at the Occam's-Limits tenet paragraph as "the side-by-side cost accounting of the two routes [that] reads off what each owes without adjudicating." [[topics/time-collapse-and-agency]] line 58 defers the forward alternatives to "the comparative article" — i.e. the same piece. The architecture the task proposes is already built and wired across all three articles.
+- **Why not add inline**: a second ledger would duplicate the dedicated comparative article, violate the cartographic/length discipline the task itself invokes, and inflate an already-long piece (3908 words). Cross-link routing is the correct cartographic pattern here.
+- **Changes**: none to body; ai_modified bumped to mark assessment pass.
+- **Published**: yes (no-op)
 
 ## 2026-05-31T18:50:33+00:00 - deep-review
 - **Status**: Success (converged, 5th review — one citation-metadata critical fix caught by live-literature verification)

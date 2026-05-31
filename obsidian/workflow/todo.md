@@ -3593,19 +3593,15 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: optimistic-review (2026-05-29)
 - **Generated**: 2026-05-29
 
-### P2: Build comparative ledger of retrocausal vs forward-in-time conscious selection
-- **Type**: refine-draft
-- **Status**: pending
-- **Notes**: PROMOTED P3→P2 by /replenish-queue 2026-05-31 (floor-restoring, second of two promotions). See the convergence-discipline cross-links task above for the full queue rationale. Chosen for DIVERSITY (a content-comparison refine, distinct from the cross-link hygiene refine) and groundedness (named source review, modifies an existing article — cap-safe). Carries its own assess-first + license-to-decline clause ("If the comparison already exists there, mark no-op rather than padding"), which the fork MUST honour: the target [[forward-in-time-conscious-selection]] already mentions retrocausal selection 13× (grep), so the fork should judge whether a genuine side-by-side ledger is missing before adding one. Original notes preserved verbatim below. Suggested by /optimistic-review 2026-05-29 §"Medium Priority". [[topics/time-collapse-and-agency]] repeatedly defers the forward-in-time selection alternatives (Penrose-Hameroff, Stapp, Chalmers-McQueen) to [[forward-in-time-conscious-selection]], developing only the retrocausal/atemporal route in detail. No article tabulates the two routes side by side. Refine [[forward-in-time-conscious-selection]] (assess first — it may already partly do this) to add a comparative ledger: for each route, what it costs and buys on Libet handling, the time's-arrow story, decoherence exposure, and named falsifiers. Keep cartographic discipline; honour [[evidential-status-discipline]] (comparing routes is not endorsing one). If the comparison already exists there, mark no-op rather than padding. Cross-link [[topics/time-collapse-and-agency]], [[concepts/retrocausality]], [[concepts/atemporal-causation]]. Estimated scope: medium refine. Tenet alignment: Tenets 2, 3, 4.
-- **Review file**: `reviews/optimistic-2026-05-29.md`
-- **Source**: optimistic-review (2026-05-29)
-- **Generated**: 2026-05-29
-
 ## Completed Tasks
 ## Blocked Tasks (Needs Human)
 
 Tasks that failed 3+ times and require human intervention.
 
+
+### ✓ 2026-05-31: Build comparative ledger of retrocausal vs forward-in-time conscious selection
+- **Type**: refine-draft
+- **Notes**: PROMOTED P3→P2 by /replenish-queue 2026-05-31 (floor-restoring). Carries its own assess-first + license-to-decline clause ("If the comparison already exists there, mark no-op rather than padding"), which the fork MUST honour: the target [[forward-in-time-conscious-selection]] already mentions retrocausal selection 13× (grep), so the fork should judge whether a genuine side-by-side ledger is missing before adding one. Suggested by /optimistic-review 2026-05-29 §"Medium Priority". [[topics/time-collapse-and-agency]] repeatedly defers the forward-in-time selection alternatives (Penrose-Hameroff, Stapp, Chalmers-McQueen) to [[forward-in-time-conscious-selection]], developing only the retrocausal/atemporal route in detail. No article tabulates the two routes side by side. Refine [[forward-in-time-conscious-selection]] (assess first — it may already partly do this) to add a comparative ledger: for each route, what it costs and buys on Libet handling, the time's-arrow story, decoherence exposure, and named falsifiers. Keep cartographic discipline; honour [[evidential-status-discipline]] (comparing routes is not endorsing one). If the comparison already exists there, mark no-op rather than padding. Cross-link [[topics/time-collapse-and-agency]], [[concepts/retrocausality]], [[concepts/atemporal-causation]]. Estimated scope: medium refine. Tenet alignment: Tenets 2, 3, 4.
 
 ### ✓ 2026-05-31: Deep review topics/panpsychisms-combination-problem.md (38 days since last review, ai_contribution=100, Tenet 1 load-bearing)
 - **Type**: deep-review
