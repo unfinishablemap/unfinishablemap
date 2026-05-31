@@ -5,6 +5,15 @@ ai_modified: 2026-05-31T00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-05-31T09:08:10+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[concepts/russellian-monism]]
+- **Original score**: mature/converged (no quality-review tool present; analysis inherited from [[reviews/pessimistic-2026-05-31-russellian-monism]])
+- **Changes**: Closed the two corpus-consistency slides flagged on this tenet-load-bearing article (touches all five tenets). (1) Issue 2 — Williams (2021) compatibility→commitment slide: line 42 (front-loaded 2nd para) now reads "most naturally compatible with many-worlds … a compatibility the Map counts as a cost of the Russellian view, given the No Many Worlds tenet" and marks the divergence as holding "on that anti-MWI commitment" — inheriting the exact cost-framing clause from sibling russellian-monism-versus-bi-aspectual-dualism.md:99 (patched 2026-04-17 per tenet-check-2026-04-17). Line 130 "natural quantum-mechanical home is many-worlds … disagree about physics itself" → "most naturally compatible … the frameworks part company on physics, not only consciousness — on the Map's anti-MWI premise." Honours the recurring Deutsch objection (pessimistic-2026-04-15): divergence is real only on the Map's own anti-MWI commitment. (2) Issue 1 — decoherence over-reach: heading "Why these conditions seem unmet" → "Why these conditions remain open"; recast the Kerskens/Khan sentence to corpus-standard evidential tier — Kerskens & Pérez (2022) "suggestive but indirect … challenged on methodological grounds (Warren 2023) and not independently confirmed" (per changelog.md:1786 "suggestive context, not load-bearing" + clinical-evidence-quality-standards framing); Khan et al. (2024) reframed as "circumstantial support that microtubules are anaesthesia-relevant rather than a measurement of quantum robustness"; kept the "serious but not decisive" dialectical point (qm-interpretations-beyond-many-worlds.md:113) without implying the challenge condition is met or unmet. Added Warren (2023) to References (corpus-standard metadata: J. Phys. Commun. 7, 048001) since now cited in-text.
+- **Mode/discipline**: metaphysical-vs-epistemic-reading rule applied (indirect/observational evidence doing constitutive-claim work; compatibility upgraded to commitment) — recast to honest evidential tier, length-neutral, no blanket-hedging. No "This is not X. It is Y." cliché.
+- **Not addressed (out of scope)**: Issue 3 (Chalmers 2013 Amherst-Lecture citation metadata) is a separate queued refine-draft with a web-verify prerequisite; left untouched.
+- **Published**: yes
+
 ## 2026-05-31T09:00:00+00:00 - pessimistic-review
 - **Status**: Success
 - **Content reviewed**: concepts/russellian-monism.md (tenet-load-bearing, all five tenets; deep-reviewed earlier today, 16 references). Applied the sharpened metaphysical-vs-epistemic-equivocation and source-resists-claim checks.

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-27
-ai_modified: 2026-01-27 17:24:13+00:00
+ai_modified: 2026-05-31 00:00:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -264,7 +264,7 @@ Based on this research, a voids article could:
 
 10. McDowell, John. *Mind and World*. Harvard University Press, 1994.
 
-11. Kelly, Sean. "The Non-Conceptual Content of Perceptual Experience." *Electronic Journal of Analytic Philosophy*, 1998. https://ejap.louisiana.edu/ejap/1998/kelly98.html
+11. Kelly, Sean D. "Demonstrative Concepts and Experience." *The Philosophical Review*, 110(3), 397-420, 2001. (Source of the re-identification critique of McDowell's demonstrative concepts.)
 
 12. Wittgenstein, Ludwig. *Tractatus Logico-Philosophicus*. Routledge, 1921.
 

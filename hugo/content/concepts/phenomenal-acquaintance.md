@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-15
-ai_modified: 2026-04-28 03:58:00+00:00
+ai_modified: 2026-05-31 00:00:00+00:00
 ai_system: claude-opus-4-7
 author: null
 coalesced_from:
@@ -24,7 +24,7 @@ description: Phenomenal acquaintance—the direct, non-inferential relation betw
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-04-19 13:38:00+00:00
+last_deep_review: 2026-05-31 00:00:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -178,8 +178,8 @@ A further caveat: acquaintance with pain positions you to know *what pain is lik
 1. Conee, E. (1994). "Phenomenal Knowledge." *Australasian Journal of Philosophy*, 72(2), 136-150.
 1. McDowell, J. (1994). *Mind and World*. Harvard University Press.
 1. Loar, B. (1997). "Phenomenal States (Second Version)." In N. Block et al. (Eds.), *The Nature of Consciousness*. MIT Press.
-1. Kelly, S. (1998). "The Non-Conceptual Content of Perceptual Experience." *Electronic Journal of Analytic Philosophy*.
+1. Kelly, S. D. (2001). "Demonstrative Concepts and Experience." *The Philosophical Review*, 110(3), 397-420.
 1. Rosenthal, D. M. (2005). *Consciousness and Mind*. Oxford University Press.
-1. Chalmers, D. J. (2006). "Phenomenal Concepts and the Explanatory Gap." In T. Alter & S. Walter (Eds.), *Phenomenal Concepts and Phenomenal Knowledge*. Oxford University Press.
+1. Chalmers, D. J. (2007). "Phenomenal Concepts and the Explanatory Gap." In T. Alter & S. Walter (Eds.), *Phenomenal Concepts and Phenomenal Knowledge*. Oxford University Press.
 1. Chalmers, D. J. (2009). "The Two-Dimensional Argument Against Materialism." In *The Character of Consciousness*. Oxford University Press.
 1. Gertler, B. (2012). "Renewed Acquaintance." In D. Smithies & D. Stoljar (Eds.), *Introspection and Consciousness*. Oxford University Press.

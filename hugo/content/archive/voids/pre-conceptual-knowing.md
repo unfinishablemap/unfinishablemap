@@ -162,7 +162,7 @@ The claim that pre-conceptual knowing constitutes a genuine void would be challe
 ## References
 
 1. Block, N. (2011). "Perceptual consciousness overflows cognitive access." *Trends in Cognitive Sciences*.
-2. Kelly, S. (1998). "The Non-Conceptual Content of Perceptual Experience." *Electronic Journal of Analytic Philosophy*.
+2. Kelly, S. D. (2001). "Demonstrative Concepts and Experience." *The Philosophical Review*, 110(3), 397-420.
 3. McDowell, J. (1994). *Mind and World*. Harvard University Press.
 4. Merleau-Ponty, M. (1945). *Phenomenology of Perception*. Routledge.
 5. Russell, B. (1910). "Knowledge by Acquaintance and Knowledge by Description." *Proceedings of the Aristotelian Society*.

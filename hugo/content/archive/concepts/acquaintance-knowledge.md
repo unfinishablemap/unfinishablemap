@@ -130,5 +130,5 @@ Mary's gap is indexical as well as qualitative: she lacks not just knowledge of 
 1. Lewis, D. (1988). "What Experience Teaches." *Proceedings of the Russellian Society*, 13, 29-57.
 1. Nemirow, L. (1990). "Physicalism and the Cognitive Role of Acquaintance." In W. Lycan (ed.), *Mind and Cognition*.
 1. Loar, B. (1997). "Phenomenal States (Second Version)." In N. Block et al. (eds.), *The Nature of Consciousness*.
-1. Kelly, S. (1998). "The Non-Conceptual Content of Perceptual Experience." *Electronic Journal of Analytic Philosophy*.
+1. Kelly, S. D. (2001). "Demonstrative Concepts and Experience." *The Philosophical Review*, 110(3), 397-420.
 1. Chalmers, D. J. (2009). "The Two-Dimensional Argument Against Materialism." In *The Character of Consciousness*. Oxford University Press.

@@ -4,7 +4,7 @@ description: "Russellian monism claims quiddities ground consciousness, but face
 created: 2026-01-15
 modified: 2026-01-20
 human_modified: null
-ai_modified: 2026-05-31T08:49:44+00:00
+ai_modified: 2026-05-31T09:08:10+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -39,7 +39,7 @@ last_deep_review: 2026-05-31T08:49:44+00:00
 
 Russellian monism holds that physics describes only the relational structure of matter—what things do to each other—leaving their [[intrinsic-nature|intrinsic nature]] unexplained. These intrinsic properties, called *quiddities*, allegedly account for consciousness. The view attempts a middle path: avoiding [[concepts/materialism|physicalism's]] hard problem (by denying that structure alone determines experience) while avoiding [[interactionist-dualism|dualism's]] interaction problem (by integrating consciousness into physical causation). Yet the combination problem—how micro-level quiddities constitute unified conscious experience—remains unsolved. And the middle path itself is increasingly contested: Pautz (2017) and Cutter (2019) argue it is illusory, Kind (2015) argues it collapses into physicalism or dualism, and the programme has fragmented into incompatible variants—panpsychist, panprotopsychist, cosmopsychist (Goff 2017), physicalist (Brown 2025), and dual-aspect (Hashemi 2024)—that share only the structuralist premise.
 
-The Unfinishable Map shares Russellian monism's insight that physics is silent on intrinsic nature. But the Map's explicit [[tenets#^dualism|dualist]] framework—particularly its [[bi-aspectual-ontology|bi-aspectual ontology]] and [[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]] mechanism—provides cleaner solutions than monism's attempt to dissolve the mind-body distinction. And Russellian monism's natural compatibility with many-worlds (Williams 2021) reveals a deep divergence: the Map requires consciousness to do causal work at quantum measurement, which Russellian monism does not.
+The Unfinishable Map shares Russellian monism's insight that physics is silent on intrinsic nature. But the Map's explicit [[tenets#^dualism|dualist]] framework—particularly its [[bi-aspectual-ontology|bi-aspectual ontology]] and [[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]] mechanism—provides cleaner solutions than monism's attempt to dissolve the mind-body distinction. And Russellian monism is most naturally compatible with many-worlds (Williams 2021)—a compatibility the Map counts as a cost of the Russellian view, given the [[tenets#^no-many-worlds|No Many Worlds]] tenet. On that anti-MWI commitment the divergence is real: the Map requires consciousness to do causal work at quantum measurement, which Russellian monism does not.
 
 ## The Core Insight: Physics Is Structural
 
@@ -127,7 +127,7 @@ Despite these criticisms, Russellian monism captures important insights the Map 
 
 **Bidirectional Interaction**: the Map holds that consciousness causally influences the physical world. Russellian monism claims quiddities "play indispensable roles in physical causation," but this remains schematic. The Map's framework specifies *how*: selection among quantum superpositions.
 
-**No Many Worlds**: Russellian monism's neutrality on quantum interpretations reveals a deeper issue. Williams (2021) argues that constitutive Russellian panpsychism is *most naturally compatible* with Everett's many-worlds interpretation, since both establish symmetry between micro- and macrosystems without requiring consciousness to play a causal role at measurement. If Russellian monism's natural quantum-mechanical home is many-worlds, this creates a deep incompatibility with the Map's framework. The Map *requires* consciousness at collapse—selection among quantum outcomes—which *requires* rejecting many-worlds. The two frameworks disagree not just about consciousness but about physics itself. The Map's rejection of [[tenets#^no-many-worlds|Many Worlds]] follows from its ontology: if consciousness actualises possibilities, multiple coexisting branches are ruled out.
+**No Many Worlds**: Russellian monism's neutrality on quantum interpretations reveals a deeper issue. Williams (2021) argues that constitutive Russellian panpsychism is *most naturally compatible* with Everett's many-worlds interpretation, since both establish symmetry between micro- and macrosystems without requiring consciousness to play a causal role at measurement. If Russellian monism is most naturally compatible with many-worlds, this marks a divergence the Map counts as a cost of the Russellian view—on the Map's own [[tenets#^no-many-worlds|No Many Worlds]] commitment. The Map *requires* consciousness at collapse—selection among quantum outcomes—which on that commitment *requires* rejecting many-worlds. On the Map's anti-MWI premise, then, the frameworks part company on physics, not only consciousness. The Map's rejection of [[tenets#^no-many-worlds|Many Worlds]] follows from its ontology: if consciousness actualises possibilities, multiple coexisting branches are ruled out.
 
 **Occam's Razor Has Limits**: Both agree apparent simplicity is unreliable. The Map applies this more consistently: if physicalism's simplicity is illusory, so may be monism's. The combination problem demonstrates that parsimony in ontology (one kind of stuff) can generate complexity in explanation (how quiddities constitute unified consciousness). The [[tenets#^occams-limits|tenet]] warns against this trade-off.
 
@@ -141,7 +141,7 @@ The Map's preference for interactionist dualism over Russellian monism would be 
 
 3. **Russellian physicalism succeeds.** Brown's (2025) "Russellian physicalism" argues that categorical properties grounding physical dispositions are themselves physical, not protomental. If this variant answers the conceivability and knowledge arguments within a physicalist framework, the Map's anti-physicalist motivation weakens.
 
-**Why these conditions seem unmet:** The combination problem has resisted solution since James's "most peculiar puzzle" in 1890. Decoherence objections are complicated by recent evidence (Kerskens & Pérez 2022; Khan et al. 2024). And Russellian physicalism must still explain why *physical* categorical properties necessitate consciousness when structural properties don't.
+**Why these conditions remain open:** The combination problem has resisted solution since James's "most peculiar puzzle" in 1890. The decoherence objection is serious but not decisive: recent results are suggestive but indirect—Kerskens & Pérez (2022) report MRI signatures consistent with entangled proton spins, but this finding has been challenged on methodological grounds (Warren 2023) and not independently confirmed, and Khan et al. (2024) supplies circumstantial support that microtubules are anaesthesia-relevant rather than a measurement of quantum robustness at consciousness-relevant scales. These results soften the objection without settling it, and do not establish that the decoherence condition is met or unmet. And Russellian physicalism must still explain why *physical* categorical properties necessitate consciousness when structural properties don't.
 
 ## Further Reading
 
@@ -171,5 +171,6 @@ The Map's preference for interactionist dualism over Russellian monism would be 
 1. Pautz, A. (2019). A dilemma for Russellian monists about consciousness. *Philosophical Studies*, 176, 2921-2946.
 1. Robinson, W.S. (2018). Russellian monism and epiphenomenalism. *Pacific Philosophical Quarterly*, 99(S1), 100-117.
 1. Russell, B. (1927). *The Analysis of Matter*. Kegan Paul.
+1. Warren, W.S. (2023). Comment on "Experimental indications of non-classical brain functions." *Journal of Physics Communications*, 7, 048001.
 1. Khan, S., ... Wiest, M. C. et al. (2024). Microtubule-stabilizer epothilone B delays anesthetic-induced unconsciousness in rats. *eNeuro*, 11(8), ENEURO.0291-24.2024.
 1. Williams, R. (2021). Russellian monism and quantum mechanics. *Journal of Consciousness Studies*, 28(5-6), 145-172.

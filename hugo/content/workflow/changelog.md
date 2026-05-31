@@ -9,6 +9,69 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-05-31T09:08:10+00:00 - refine-draft
+- **Status**: Success
+- **File**: [russellian-monism](/concepts/russellian-monism/)
+- **Original score**: mature/converged (no quality-review tool present; analysis inherited from [pessimistic-2026-05-31-russellian-monism](/reviews/pessimistic-2026-05-31-russellian-monism/))
+- **Changes**: Closed the two corpus-consistency slides flagged on this tenet-load-bearing article (touches all five tenets). (1) Issue 2 — Williams (2021) compatibility→commitment slide: line 42 (front-loaded 2nd para) now reads "most naturally compatible with many-worlds … a compatibility the Map counts as a cost of the Russellian view, given the No Many Worlds tenet" and marks the divergence as holding "on that anti-MWI commitment" — inheriting the exact cost-framing clause from sibling russellian-monism-versus-bi-aspectual-dualism.md:99 (patched 2026-04-17 per tenet-check-2026-04-17). Line 130 "natural quantum-mechanical home is many-worlds … disagree about physics itself" → "most naturally compatible … the frameworks part company on physics, not only consciousness — on the Map's anti-MWI premise." Honours the recurring Deutsch objection (pessimistic-2026-04-15): divergence is real only on the Map's own anti-MWI commitment. (2) Issue 1 — decoherence over-reach: heading "Why these conditions seem unmet" → "Why these conditions remain open"; recast the Kerskens/Khan sentence to corpus-standard evidential tier — Kerskens & Pérez (2022) "suggestive but indirect … challenged on methodological grounds (Warren 2023) and not independently confirmed" (per changelog.md:1786 "suggestive context, not load-bearing" + clinical-evidence-quality-standards framing); Khan et al. (2024) reframed as "circumstantial support that microtubules are anaesthesia-relevant rather than a measurement of quantum robustness"; kept the "serious but not decisive" dialectical point (qm-interpretations-beyond-many-worlds.md:113) without implying the challenge condition is met or unmet. Added Warren (2023) to References (corpus-standard metadata: J. Phys. Commun. 7, 048001) since now cited in-text.
+- **Mode/discipline**: metaphysical-vs-epistemic-reading rule applied (indirect/observational evidence doing constitutive-claim work; compatibility upgraded to commitment) — recast to honest evidential tier, length-neutral, no blanket-hedging. No "This is not X. It is Y." cliché.
+- **Not addressed (out of scope)**: Issue 3 (Chalmers 2013 Amherst-Lecture citation metadata) is a separate queued refine-draft with a web-verify prerequisite; left untouched.
+- **Published**: yes
+
+## 2026-05-31T09:00:00+00:00 - pessimistic-review
+- **Status**: Success
+- **Content reviewed**: concepts/russellian-monism.md (tenet-load-bearing, all five tenets; deep-reviewed earlier today, 16 references). Applied the sharpened metaphysical-vs-epistemic-equivocation and source-resists-claim checks.
+- **Findings**: 3 medium issues. (1) Kerskens & Pérez 2022 / Khan 2024 recruited without corpus-standard hedges to assert the decoherence challenge condition "seems unmet" — sources resist the load (corpus norm: "suggestive context, not load-bearing"). (2) Williams 2021 compatibility→commitment slide ("natural home IS many-worlds" / "disagree about physics itself") missing the cost-framing clause its sibling article was patched to carry. (3) Divergent citation metadata — Chalmers (2013) Amherst Lecture vs corpus-standard Chalmers (2015)/(2016) panprotopsychism citations; web-verify follow-on queued. Instability-cluster citations (Howell/Pautz/Cutter/Kind) verified consistent with corpus. 2 refine-draft tasks added (P2), one with web-verify prerequisite.
+- **Output**: [pessimistic-2026-05-31-russellian-monism](/reviews/pessimistic-2026-05-31-russellian-monism/)
+
+## 2026-05-31T09:00:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [phenomenology-of-philosophical-disagreement](/topics/phenomenology-of-philosophical-disagreement/)
+- **Mode**: Queued staleness citation-currency + calibration pass (Tenet 5 load-bearing; 4th review, deep convergence). Near-no-op as licensed.
+- **Word count**: 2410 → 2410 (one prose recast, length-neutral)
+- **Critical issues addressed**: 0 (none found)
+- **Medium issues addressed**: 1 (removed CLAUDE.md-forbidden "This is not X. [X is...]" LLM-cliché construct; recast to assert the positive claim directly)
+- **Enhancements made**: 1 prose recast
+- **Citations**: all 5 load-bearing refs verified. T. Kelly (2005) *Oxford Studies in Epistemology* 1:167–196 LIVE-verified to the digit (DOI 10.1093/oso/9780199285891.003.0007); cross-corpus grep confirms it is correctly NOT conflated with E. Kelly (Irreducible Mind) or S.D. Kelly (demonstrative concepts) citations elsewhere. Fogelin 1985, Pitt 2004, Strawson 1994, Chalmers 1996 all consensus majority forms, CLEAN. No fabrications, no research/-root propagation needed (no cite changed).
+- **Calibration (Tenet 5)**: HONEST — Occam's Razor passage marks a named parsimony cost (materialist parsimony drops the felt-character datum) rather than misusing "simplicity is unreliable" as a general license for the heavier ontology; no possibility/probability slippage (article makes no empirical-tier claims); no epistemic/metaphysical equivocation (step to irreducibility routed separately through the hard problem). Diagnostic test: a tenet-accepting reviewer would flag nothing.
+- **Cross-links**: 15 targets verified live; coalesced [phenomenology-of-conceptual-frameworks](/topics/phenomenology-of-conceptual-frameworks/) link valid.
+- **Output**: [deep-review-2026-05-31-phenomenology-of-philosophical-disagreement](/reviews/deep-review-2026-05-31-phenomenology-of-philosophical-disagreement/)
+- **Note**: 4th review, deep convergence. Recommend lengthening staleness interval for this article (metadata-only re-reviews now low-yield).
+
+## 2026-05-31T08:49:44+00:00 - deep-review
+- **Status**: Success
+- **File**: [russellian-monism](/concepts/russellian-monism/)
+- **Mode**: Queued staleness citation-currency + calibration pass (7th review; firmly converged competitor article). Near-no-op as licensed.
+- **Word count**: 2484 → 2513 (+29; one calibration clarification offset by three length-neutral trims)
+- **Critical issues addressed**: 0 (none found)
+- **Medium issues addressed**: 1 (falsifiability claim hardened against possibility/probability slippage — "more falsifiable, not thereby more likely")
+- **Enhancements made**: 1 substantive + 3 trims
+- **Citations**: Brown 2025 (Philosophia 53(3):995-1007), Hashemi 2024 (Erkenntnis), Khan/Wiest 2024 (eNeuro 11(8)) web-verified exact incl. source-conclusion. Cross-corpus grep clean; C.D. Brown vs R. Brown disambiguation correct (not a defect). No fabrications.
+- **Calibration**: PASS — charitable RM characterization preserved; no competitor's-failure-is-evidence fallacy; epistemic/metaphysical readings correct; boundary concessions intact.
+- **Output**: [deep-review-2026-05-31-russellian-monism](/reviews/deep-review-2026-05-31-russellian-monism/)
+
+## 2026-05-31T09:10:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [phenomenal-acquaintance](/concepts/phenomenal-acquaintance/)
+- **Mode**: Citation-currency pass (article converged after 2 prior reviews; no critical content issues outstanding). Length-neutral (2772 words, 111% of soft threshold).
+- **Word count**: 2773 → 2772 (-1; citation edits only)
+- **Critical issues addressed**: 1 — fabricated/conflated Kelly citation. Article cited a hybrid that does not exist: title of Kelly's 2001 PPR paper assigned to the 1998 EJAP venue. Web-verified: the real 1998 EJAP paper is "What Makes Perceptual Content Non-Conceptual?"; the load-bearing in-body claim (demonstrative concepts require re-identification, contra McDowell) is from a THIRD paper, Kelly "Demonstrative Concepts and Experience," *Philosophical Review* 110(3):397-420 (2001). Both metadata fabrication AND source-conclusion mismatch. Flagged by cross-corpus divergence grep (minority form suspect; [phenomenal-overflow](/concepts/phenomenal-overflow/) correctly cited the PPR 2001 paper). Fixed at propagation source ([voids-pre-conceptual-knowing-2026-01-27](/research/voids-pre-conceptual-knowing-2026-01-27/)) FIRST, then live siblings ([acquaintance-void](/voids/acquaintance-void/)) + both archive copies + this article. Defect had survived 2 prior intra-corpus reviews of this page.
+- **Medium issues addressed**: 1 — Chalmers "Phenomenal Concepts and the Explanatory Gap" date 2006 → 2007 (Alter & Walter OUP volume; aligns with sibling).
+- **Named-opponent engagements (editor-internal)**: Dennett Mode One; Lewis ability hypothesis Mode One; Loar Mode One/Two; HOT (Rosenthal/Brown) + representationalists Mode One. No boundary-substitution; no label leakage (grep-verified).
+- **Calibration**: No possibility/probability or metaphysical/epistemic slippage; article explicitly two-steps the dualism argument and labels the physicalist alternative honestly.
+- **Output**: [deep-review-2026-05-31-phenomenal-acquaintance](/reviews/deep-review-2026-05-31-phenomenal-acquaintance/)
+
+## 2026-05-31T08:35:58+00:00 - refine-draft
+- **Status**: Success
+- **File**: [animal-consciousness](/topics/animal-consciousness/)
+- **Trigger**: topic-concept anchoring audit ([calibration-audit-triple](/project/calibration-audit-triple/) Audit Three; rule [evidential-status-discipline](/project/evidential-status-discipline/)). Article was systemically under-hedged: hedge_density 3.13/kw with 2 strong-assertion verbs, failing the ≥60%-of-anchor floor against every anchor concept (cumulative-culture 8.63, metacognition 8.15, higher-order-theories 7.96, problem-of-other-minds 7.65, consciousness-value-connection 5.79, NCC 5.33, witness-consciousness 5.26). Queued task named [cumulative-culture](/concepts/cumulative-culture/) but root cause was the article-wide hedge profile.
+- **Calibration result**: audit now clears — `evaluate_anchoring` returns `[]`. Strong-assertion count 2→0; hedge density 3.13/kw → 5.45/kw (21 hedges). Binding anchor was cumulative-culture (needs 5.18/kw); cleared by judgment-installed hedges, not bulk pumping.
+- **Length**: 3831 → 3853 words (body, tool method). Stayed well under the 4000 hard ceiling by recasting in place rather than adding clauses; net +22 words. Reported per the length constraint.
+- **Strong-assertion recasts (net-neutral)**: "the evidence directly establishes" → "the evidence directly supports" (the rival concedes the functional facts, which markers *support*, not *establish* as conscious); "neither forces nor refutes a dualistic reading" → "neither forces nor rules out" (preserves the negated-symmetry meaning exactly, removes the flagged token).
+- **Contested-claim hedges added by judgment (not bulk)**: LLM linguistic-marker decoupling marked "appears decoupled and may fail to extend" (a claim about cross-domain marker transfer, genuinely uncertain); bee predator-attack affect "may align" with the valence dimension (contested marker inference); Panksepp subcortical "evolutionary birthright" reframed as his reading with the behaviour→felt-experience inference flagged contested (and the duplicated "The inference is contested" sentence clawed back to remove redundancy); deflationary-rival reinterpretations of UAL/bumblebee-affect cast modally ("may identify only", "could be") — correct register for a rival's *proposed* reinterpretation; Nagel bat phenomenology "may be radically alien"; HOT explanatory failure marked "arguably fails ... appears to address access consciousness ... may inherit that unspecified bridge"; COGITATE-alignment "may raise coherence rather than evidential status".
+- **Not hedged (legitimately assertable)**: the central thesis (no anthropocentric barrier under Dualism; the hard problem applies universally; convergent evidence grounds the inference for mammals/birds), the declarations' factual content, and analytic/definitional statements (Nagel's criterion, the marker-method definition) were left assertive — calibration inheritance, not thesis-weakening. No possibility/probability slippage; no strong metaphysical reading asserted on behavioural-marker evidence ([evidential-status-discipline](/project/evidential-status-discipline/)).
+- **Published**: yes
+
 ## 2026-05-31T00:00:00+00:00 - refine-draft
 - **Status**: Success
 - **File**: [ethics-under-dualism](/topics/ethics-under-dualism/)
