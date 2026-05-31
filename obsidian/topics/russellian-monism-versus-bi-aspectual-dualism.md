@@ -4,7 +4,7 @@ description: "Russellian monism and the dual-aspect tradition approach the Map's
 created: 2026-03-22
 modified: 2026-04-27
 human_modified:
-ai_modified: 2026-05-25T00:00:00+00:00
+ai_modified: 2026-05-31T00:00:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -56,7 +56,7 @@ The difference runs deeper than vocabulary. Identity dissolves the mind-body pro
 
 ### The Combination Problem
 
-If consciousness is fundamental and ubiquitous — present in every electron, every quark — how do micro-experiences combine into the unified consciousness you experience now? This is the [[combination-problem]], which Chalmers (2016) decomposes into subject combination (how many micro-subjects become one macro-subject), quality combination (how simple micro-qualities yield rich experience), and structural mismatch (why phenomenal structure differs from physical microstructure).
+If consciousness is fundamental and ubiquitous — present in every electron, every quark — how do micro-experiences combine into the unified consciousness you experience now? This is the [[combination-problem]], which Chalmers (2017) decomposes into subject combination (how many micro-subjects become one macro-subject), quality combination (how simple micro-qualities yield rich experience), and structural mismatch (why phenomenal structure differs from physical microstructure).
 
 The problem has resisted solution since James identified it in 1890 as a fundamental obstacle to any "mind-stuff" theory. Goff's proposed "phenomenal bonding" relation names the problem without solving it. His later move to *cosmopsychism* — the universe as a whole is conscious, individuals are aspects — merely reverses the difficulty. Miller (2018) argues the "decombination problem" (how cosmic consciousness differentiates into individual minds) is structurally equivalent to the combination problem.
 
@@ -161,7 +161,7 @@ This comparison engages all five of the Map's [[tenets]]:
 1. Atmanspacher, H. & Rickles, D. (2022). *Dual-Aspect Monism and the Deep Structure of Meaning*. Routledge.
 2. Bohm, D. & Hiley, B.J. (1993). *The Undivided Universe: An Ontological Interpretation of Quantum Theory*. Routledge.
 3. Brown, C.D. (2025). How Russellian physicalism helps solve the mind-body problem. *Philosophia*, 53(3), 995-1007.
-4. Chalmers, D.J. (2016). The combination problem for panpsychism. In G. Bruntrup & L. Jaskolla (Eds.), *Panpsychism*. Oxford University Press.
+4. Chalmers, D.J. (2017). The combination problem for panpsychism. In G. Bruntrup & L. Jaskolla (Eds.), *Panpsychism*. Oxford University Press.
 5. Cutter, B. (2019). Against the middle ground: Why Russellian monism is unstable. *Analytic Philosophy*, 60(2), 109-130.
 6. Eddington, A. (1928). *The Nature of the Physical World*. Cambridge University Press.
 7. Fechner, G.T. (1860). *Elemente der Psychophysik*. Breitkopf & Härtel.

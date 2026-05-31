@@ -34,7 +34,7 @@ last_curated: null
 
 ## Executive Summary
 
-Consciousness has boundaries — hard edges that separate what is inside experience from what is outside it. Yet consciousness cannot determine from within why its boundaries fall where they do. The "boundary problem," first framed by Rosenberg (1998) and raised by Chalmers (2016), has received remarkably little scholarly attention compared to the binding problem and combination problem. This research investigates the structural impossibility of consciousness determining its own spatial, temporal, and functional limits — why experience includes some brain processes but not others, why it feels bounded by skin rather than extending further, and why these boundaries sometimes dissolve under meditation or pathology. The boundary void is distinct from the binding problem (how contents unify within experience) and the individuation problem (what makes one consciousness distinct from another): it asks why consciousness has any determinate boundary at all, and why that boundary cannot be investigated from the inside.
+Consciousness has boundaries — hard edges that separate what is inside experience from what is outside it. Yet consciousness cannot determine from within why its boundaries fall where they do. The "boundary problem," first framed by Rosenberg (1998) and raised by Chalmers (2017), has received remarkably little scholarly attention compared to the binding problem and combination problem. This research investigates the structural impossibility of consciousness determining its own spatial, temporal, and functional limits — why experience includes some brain processes but not others, why it feels bounded by skin rather than extending further, and why these boundaries sometimes dissolve under meditation or pathology. The boundary void is distinct from the binding problem (how contents unify within experience) and the individuation problem (what makes one consciousness distinct from another): it asks why consciousness has any determinate boundary at all, and why that boundary cannot be investigated from the inside.
 
 ## Key Sources
 
@@ -60,7 +60,7 @@ Consciousness has boundaries — hard edges that separate what is inside experie
 - **Tenet alignment**: Strong alignment with Dualism — if consciousness is non-physical, what physical feature determines its boundaries? Also with Minimal Quantum Interaction — boundaries might be determined at the quantum level
 - **Quote**: Consciousness's boundary has an "intuitive, specious solidity" that dissolves on investigation
 
-### Chalmers (2016) — The Combination Problem for Panpsychism
+### Chalmers (2017) — The Combination Problem for Panpsychism
 - **URL**: https://consc.net/papers/combination.pdf
 - **Type**: Seminal philosophical paper
 - **Key points**:
@@ -197,7 +197,7 @@ Based on this research, a voids article could:
 1. Gómez-Emilsson, A. & Percy, C. (2023). "Don't forget the boundary problem! How EM field topology can address the overlooked cousin to the binding problem for consciousness." *Frontiers in Human Neuroscience*, 17, 1233119.
 2. Rosenberg, G. (1998). "The Boundary Problem for Experiencing Subjects." Conference paper, Toward a Science of Consciousness III.
 3. Rosenberg, G. (2004). *A Place for Consciousness: Probing the Deep Structure of the Natural World*. Oxford University Press.
-4. Chalmers, D.J. (2016). "The Combination Problem for Panpsychism." In *Panpsychism: Contemporary Perspectives*, ed. Brüntrup & Jaskolla. Oxford University Press.
+4. Chalmers, D.J. (2017). "The Combination Problem for Panpsychism." In *Panpsychism: Contemporary Perspectives*, ed. Brüntrup & Jaskolla. Oxford University Press.
 5. Mendelovici, A. "Panpsychism's Combination Problem is a Problem for Everyone." PhilArchive.
 6. Tononi, G. et al. (2023). "Integrated Information Theory (IIT) 4.0." *PLoS Computational Biology*.
 7. Ataria, Y. et al. (2021). "Self-Boundary Dissolution in Meditation: A Phenomenological Investigation." *Brain Sciences*, 11(6), 819.

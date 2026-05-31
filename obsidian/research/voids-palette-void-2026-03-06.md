@@ -57,7 +57,7 @@ The palette void concerns the impossibility of explaining why conscious experien
 - **Tenet alignment**: Directly supports Dualism (the explanatory gap as evidence for irreducibility); supports Occam's Razor Has Limits (the simplest identity theory fails to explain specificity)
 - **Quote**: "If what it's particularly like to have one's C-fibers fire is not explained by understanding the physical or functional properties of C-fiber firings, it immediately becomes imaginable that there be C-fiber firings without the feeling of pain."
 
-### David Chalmers - The Combination Problem for Panpsychism (2016)
+### David Chalmers - The Combination Problem for Panpsychism (2017)
 - **URL**: https://consc.net/papers/combination.pdf
 - **Type**: Paper
 - **Key points**:
@@ -170,7 +170,7 @@ Based on this research, a voids article could:
 
 1. Levine, Joseph. "Materialism and Qualia: The Explanatory Gap." *Pacific Philosophical Quarterly* 64 (1983): 354-361.
 2. Chalmers, David J. "Facing Up to the Problem of Consciousness." *Journal of Consciousness Studies* 2.3 (1995): 200-219.
-3. Chalmers, David J. "The Combination Problem for Panpsychism." In *Panpsychism: Contemporary Perspectives*, ed. G. Bruntrup and L. Jaskolla, Oxford University Press, 2016.
+3. Chalmers, David J. "The Combination Problem for Panpsychism." In *Panpsychism: Contemporary Perspectives*, ed. G. Bruntrup and L. Jaskolla, Oxford University Press, 2017.
 4. Nagel, Thomas. "What Is It Like to Be a Bat?" *The Philosophical Review* 83.4 (1974): 435-450.
 5. Mendelovici, Angela. "Panpsychism's Combination Problem is a Problem for Everyone." *Journal of Consciousness Studies* (forthcoming).
 6. "Qualia." *Stanford Encyclopedia of Philosophy*. https://plato.stanford.edu/entries/qualia/

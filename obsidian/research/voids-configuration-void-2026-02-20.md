@@ -67,7 +67,7 @@ Consciousness has a specific configuration: this palette of qualia, this archite
 - **Tenet alignment**: Supports Occam's Razor Has Limits — the simplicity of physicalism hides the enormous configuration space
 - **Quote**: Rather than seeking sharp, well-defined boundaries between minds and non-minds, we should "analyze the detailed implications of similarities and differences between different systems"
 
-### David Chalmers — "The Combination Problem for Panpsychism" (2016)
+### David Chalmers — "The Combination Problem for Panpsychism" (2017)
 - **URL**: https://consc.net/papers/combination.pdf
 - **Type**: Paper
 - **Key points**:
@@ -234,7 +234,7 @@ Based on this research, a voids article could:
 ## Citations
 
 - Chalmers, D. J. (1995). Facing up to the problem of consciousness. *Journal of Consciousness Studies*, 2(3), 200–219. https://consc.net/papers/facing.pdf
-- Chalmers, D. J. (2016). The combination problem for panpsychism. In G. Brüntrup & L. Jaskolla (Eds.), *Panpsychism: Contemporary Perspectives*. Oxford University Press. https://consc.net/papers/combination.pdf
+- Chalmers, D. J. (2017). The combination problem for panpsychism. In G. Brüntrup & L. Jaskolla (Eds.), *Panpsychism: Contemporary Perspectives*. Oxford University Press. https://consc.net/papers/combination.pdf
 - McGinn, C. (1989). Can we solve the mind-body problem? *Mind*, 98(391), 349–366. https://colinmcginn.net/mysterianism-revisited/
 - Nagel, T. (1974). What is it like to be a bat? *The Philosophical Review*, 83(4), 435–450. https://www.cs.ox.ac.uk/activities/ieg/e-library/sources/nagel_bat.pdf
 - Shanahan, M. (2016). The space of possible minds. *Edge.org*. https://www.edge.org/conversation/murray_shanahan-the-space-of-possible-minds

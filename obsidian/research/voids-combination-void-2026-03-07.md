@@ -42,7 +42,7 @@ The combination void addresses a fundamental cognitive limit: we cannot understa
 
 ## Key Sources
 
-### David Chalmers — "The Combination Problem for Panpsychism" (2016)
+### David Chalmers — "The Combination Problem for Panpsychism" (2017)
 - **URL**: https://consc.net/papers/combination.pdf
 - **Type**: Academic paper (published in Bruntrup & Jaskolla, eds., Panpsychism)
 - **Key points**:
@@ -188,7 +188,7 @@ Based on this research, a voids article could:
 
 ## Citations
 
-- Chalmers, D. J. (2016). "The Combination Problem for Panpsychism." In Bruntrup & Jaskolla (eds.), *Panpsychism: Contemporary Perspectives*. Oxford University Press.
+- Chalmers, D. J. (2017). "The Combination Problem for Panpsychism." In Bruntrup & Jaskolla (eds.), *Panpsychism: Contemporary Perspectives*. Oxford University Press.
 - Coleman, S. (2014). "The Real Combination Problem: Panpsychism, Micro-Subjects, and Emergence." *Erkenntnis*, 79, 19-44.
 - Seager, W. (1995). "Consciousness, Information and Panpsychism." *Journal of Consciousness Studies*, 2(3), 272-88.
 - Seager, W. (2010). "Panpsychist Infusion." *Mind and Matter*, 8(2), 167-184.

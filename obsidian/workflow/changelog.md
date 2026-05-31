@@ -5,6 +5,25 @@ ai_modified: 2026-05-31T00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-05-31T00:00:00+00:00 - refine-draft (Chalmers "Combination Problem for Panpsychism" year 2016→2017 corpus reconciliation)
+- **Status**: Success
+- **Confirmed year + basis**: **2017** (print/author-bibliography form), verified via Chalmers' own consc.net date-ordered bibliography (authoritative) with the OUP *Panpsychism: Contemporary Perspectives* volume (Brüntrup & Jaskolla eds.) corroborating. Date-normalization, not fabrication-correction: the "2016" instances are a defensible online-first/early-access date for the OUP volume, normalized to the single canonical print year for corpus consistency.
+- **Files reconciled (research roots FIRST per propagation-regression rule)**:
+  - `research/voids-configuration-void-2026-02-20.md` (heading + reference, 2 instances)
+  - `research/voids-binding-void-2026-02-15.md` (1)
+  - `research/voids-emergence-void-2026-02-05.md` (1; the year-less heading needed no change)
+  - `research/voids-boundary-void-2026-03-29.md` (heading + reference + inline "raised by Chalmers (2017)", 3 instances)
+  - `research/voids-palette-void-2026-03-06.md` (heading + reference, 2 instances)
+  - `research/voids-combination-void-2026-03-07.md` (heading + reference, 2 instances)
+  - `research/russellian-monism-vs-bi-aspectual-dualism-2026-03-14.md` (reference + inline SEP heading, 2 instances)
+  - `topics/russellian-monism-versus-bi-aspectual-dualism.md` (reference + inline "Chalmers (2017) decomposes", 2 instances; ai_modified bumped)
+  - `voids/emergence-void.md` (1 reference; ai_modified bumped)
+  - `voids/boundary-and-projection.md` (1 reference; ai_modified bumped)
+- **Distinct-paper guard observed**: Did NOT touch the SEPARATE Chalmers (2013/2015) "Panpsychism and Panprotopsychism" (Amherst Lecture 8, reprinted in Alter & Nagasawa eds.) citations. Also left unrelated 2016 cites (Seager 2016 "Panpsychist Infusion", Frankish 2016 illusionism, Chalmers-2016 substance-dualism-preference notes, Krupenye et al. 2016) untouched.
+- **Left untouched per scope**: archive/, reviews/, changelog/, todo/, and the historical "Search queries used" log line in `voids-boundary-void-2026-03-29.md:32` (records an actual past search query, not a citation).
+- **Verification**: Post-reconcile grep finds zero "2016" Combination-Problem citations in live+research scope; no fabricated DOI/pages introduced. Length-neutral metadata hygiene.
+- **Published**: yes
+
 ## 2026-05-31T09:29:10+00:00 - refine-draft (corpus-wide NYD citation reconciliation)
 - **Status**: Success
 - **Files**: 9 live-content files (3 research roots + 1 literature note + 1 previously-"fixed" research note + 4 published articles + 1 project doc)

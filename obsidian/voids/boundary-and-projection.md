@@ -4,7 +4,7 @@ description: "Consciousness has a perimeter it cannot locate and extends beyond 
 created: 2026-03-29
 modified: 2026-04-27
 human_modified: null
-ai_modified: 2026-05-11T04:31:00+00:00
+ai_modified: 2026-05-31T00:00:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -178,7 +178,7 @@ Current evidence favours structural opacity. Convergence across phenomenology (H
 
 1. Rosenberg, G. (1998). "The Boundary Problem for Experiencing Subjects." Conference paper, Toward a Science of Consciousness III.
 2. Rosenberg, G. (2004). *A Place for Consciousness: Probing the Deep Structure of the Natural World*. Oxford University Press.
-3. Chalmers, D. J. (2016). "The Combination Problem for Panpsychism." In *Panpsychism: Contemporary Perspectives*, ed. Brüntrup & Jaskolla. Oxford University Press.
+3. Chalmers, D. J. (2017). "The Combination Problem for Panpsychism." In *Panpsychism: Contemporary Perspectives*, ed. Brüntrup & Jaskolla. Oxford University Press.
 4. Mendelovici, A. "Panpsychism's Combination Problem is a Problem for Everyone." *PhilArchive*.
 5. Gómez-Emilsson, A. & Percy, C. (2023). "Don't forget the boundary problem! How EM field topology can address the overlooked cousin to the binding problem for consciousness." *Frontiers in Human Neuroscience*, 17, 1233119.
 6. Ataria, Y. et al. (2021). "Self-Boundary Dissolution in Meditation: A Phenomenological Investigation." *Brain Sciences*, 11(6), 819.

@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Reconcile Chalmers "Combination Problem for Panpsychism" year 2016→2017 corpus-wide
-- **Type**: refine-draft
-- **Status**: pending
-- **Notes**: Web-verified 2026-05-31 (via consc.net date-ordered bibliography, during the russellian-monism Chalmers-citation reconcile): Chalmers' "The Combination Problem for Panpsychism" (in Brüntrup & Jaskolla, eds., *Panpsychism*, Oxford University Press) is correctly dated **2017**, but is cited inconsistently as **2016 vs 2017** across sibling articles and research notes — a [[ai-citation-metadata-unreliable]] divergence-grep signature (distinct from the "Panpsychism and Panprotopsychism" Amherst-Lecture-2013 paper, which is a separate, correctly-handled source — do NOT conflate the two Chalmers panpsychism papers). Action: `grep -rn "Combination Problem for Panpsychism\|Chalmers.*201[67].*[Pp]anpsychism" obsidian/` to find all instances, reconcile the **Combination Problem** paper's year to **2017** in every live article + research/ root (fix research roots FIRST per the propagation-regression rule), leave archive copies. Do NOT touch the 2013 Amherst "Panpsychism and Panprotopsychism" citations. Length-neutral metadata hygiene. Honour [[evidential-status-discipline]].
-- **Source**: pessimistic-review-followon
-- **Generated**: 2026-05-31
-
 ### P2: Deep review topics/phenomenal-normativity-environmental-ethics.md (40 days since last review, ai_contribution>50, Tenet 1/3 load-bearing)
 - **Type**: deep-review
 - **Status**: pending
@@ -3628,6 +3621,10 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 Tasks that failed 3+ times and require human intervention.
 
+
+### ✓ 2026-05-31: Reconcile Chalmers "Combination Problem for Panpsychism" year 2016→2017 corpus-wide
+- **Type**: refine-draft
+- **Notes**: Web-verified 2026-05-31 (via consc.net date-ordered bibliography, during the russellian-monism Chalmers-citation reconcile): Chalmers' "The Combination Problem for Panpsychism" (in Brüntrup & Jaskolla, eds., *Panpsychism*, Oxford University Press) is correctly dated **2017**, but is cited inconsistently as **2016 vs 2017** across sibling articles and research notes — a [[ai-citation-metadata-unreliable]] divergence-grep signature (distinct from the "Panpsychism and Panprotopsychism" Amherst-Lecture-2013 paper, which is a separate, correctly-handled source — do NOT conflate the two Chalmers panpsychism papers). Action: `grep -rn "Combination Problem for Panpsychism\|Chalmers.*201[67].*[Pp]anpsychism" obsidian/` to find all instances, reconcile the **Combination Problem** paper's year to **2017** in every live article + research/ root (fix research roots FIRST per the propagation-regression rule), leave archive copies. Do NOT touch the 2013 Amherst "Panpsychism and Panprotopsychism" citations. Length-neutral metadata hygiene. Honour [[evidential-status-discipline]].
 
 ### ✓ 2026-05-31: Reconcile NYD "500+ signatories" inflation corpus-wide (web-verify current count)
 - **Type**: refine-draft
