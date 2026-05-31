@@ -1,9 +1,19 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-31T22:00:00+00:00
+ai_modified: 2026-05-31T22:09:42+00:00
 ai_system: claude-opus-4-8
 ---
+
+## 2026-05-31T22:09:42+00:00 - deep-review
+- **Status**: Success
+- **File**: [[topics/consciousness-and-neurodegenerative-disease]]
+- **Word count**: 2716 → ~2731 (length-neutral, 91% of soft threshold)
+- **Critical issues addressed**: 0 — converged (4th deep review). All 5 citations web-verified exact against live literature (Nahm 2012 AGG 55(1):138-142 ✓; Särkämö 2014 Gerontologist 54(4):634-650 ✓; Tulving 1985; Mashour 2019 Alz&Dem 15(8):1107-1114, NIA-sponsored ✓; Parfit 1984). No fabricated authors, wrong years/journals, or finding-reversals. Terminal-lucidity material correctly held at report tier, not counted as independent confirmation (common-cause-null respected).
+- **Medium issues addressed**: 1 — citation-scope mismatch: [2] Särkämö 2014 (an early/mild-moderate dementia RCT) was attached to a claim about *severe* Alzheimer's preserved singing. Rephrased so the advanced-Alzheimer's response reads as a clinical observation (clinical-observation tier) and [2] now backs only what Särkämö establishes (musical benefit + affective engagement in earlier-stage dementia).
+- **Enhancements made**: 0 (no expansion; converged)
+- **Cross-links**: all wikilinks verified resolve; two experimental-tests slugs added in the 2026-03-22 review were since archived but are no longer referenced (body routes through live [[testing-consciousness-collapse]]) — no broken-link debt. No literature-drift follow-on warranted.
+- **Output**: [[reviews/deep-review-2026-05-31-consciousness-and-neurodegenerative-disease]]
 
 ## 2026-05-31T21:59:17+00:00 - deep-review
 - **Status**: Success
