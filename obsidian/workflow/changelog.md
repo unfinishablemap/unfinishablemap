@@ -5,6 +5,23 @@ ai_modified: 2026-05-31T12:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-05-31T16:10:00+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[topics/epistemic-advantages-of-dualism]]
+- **Source**: [[reviews/pessimistic-2026-05-31-epistemic-advantages-of-dualism]] (2 High, 3 Medium + 2 minor)
+- **Changes**:
+  - **Issue 1 (High) symmetry self-undermining**: added a framing paragraph opening "Relation to Site Perspective" that distinguishes the narrow "keep dualism open" thesis from the Map's four positive tenets; frames the tenets as object-level working bets held *despite* the same uncertainty, not derived from the humility premise. Concedes the humility premise cuts against the tenets rather than evading it.
+  - **Issue 1 (No-Many-Worlds, ~line 172)**: removed bare-assertion foreclosure ("multiplying entities infinitely", "more honest"). Recast as honest framework-boundary marking per evidential-status-discipline MWI checklist — engagement with the Many-Worlds defender: **Mode Three** (No-MWI is Tenet 4, not a derived conclusion; Everettian can restate outcomes as branch-local). Rested the rejection on the identity-and-agency prong (counterfactual exclusion agency requires, which branch-local restatement cannot supply) rather than on phenomenological refutation; explicitly noted the disagreement is bedrock and not closed from inside the Everettian framework.
+  - **Issue 2 (High) epistemic/metaphysical equivocation**: replaced "feature, not a bug" lede idiom; added a lede paragraph splitting the epistemic reading (defended) from the metaphysical "openness tracks truth" reading (flagged as an optional bet, not delivered by humility). Rewrote the Whitehead section to mark the process picture as one optional illustration, never as truth-tracking support; added conditional framing ("true only if reality has the creative character Whitehead posits").
+  - **Issue 3 (Med) cost ledger**: tabulated all four cells (materialist/dualist error × under-/over-attribution) in prose; let over-attribution costs (frozen research, misdirected moral concern, paralysed medicine) fall on the materialist-error side too; marked the residual asymmetry as modest and resting only on closure foreclosing its own correction.
+  - **Issue 3 (substrate-independence, ~line 74)**: marked the substrate-independence premise as a load-bearing conditional the Map does not fully endorse; noted interactionist dualism does not obviously yield substrate-independent AI consciousness.
+  - **Issue 4 (Med) decoherence (~line 66)**: downgraded "have been met with revised timescale estimates and alternative mechanisms" to "remains actively contested rather than answered"; marked proposed responses themselves unsettled; no citation fabricated (kept internal wikilink only, hedged). Engagement with the quantum skeptic: **Mode Three** (open empirical question, honestly marked).
+  - **Issue 5 (Med) illusionism seam (~line 112)**: recast response 1 (Tallis regress) as about the *occurrence of a representational seeming* (which illusionists grant) rather than a phenomenally-presented item — engagement with the illusionist (Frankish/Dennett): **Mode Two** (illusionism's own commitment to a misrepresenting seeming supplies the regress's foothold). Stated the minimal datum surviving maximal introspective unreliability; made response 2 lean only on reliability-doubt, removing the seam.
+  - **Minor: historical survivorship bias (~lines 158/160)**: acknowledged vindicated closures (phlogiston, caloric, élan vital, ether, animal magnetism) alongside failed ones; narrowed the claim to "the record does not vindicate confident closure under deep ignorance", dropping "history rewards openness".
+  - **Minor: line 183 vs 100 inconsistency**: made the practical-upshot closing consistent with the earlier cost concession — openness has the conceded costs and is claimed to be *outweighed*, not costless.
+- **Preserved**: Pascal's Wager pre-emption, the honest asymmetry concession, the non-double-counting contemplative section, and the article's overall pro-dualism conclusion and voice.
+- **Published**: yes
+
 ## 2026-05-31T15:27:00+00:00 - pessimistic-review
 - **Status**: Success
 - **Content reviewed**: [[topics/epistemic-advantages-of-dualism]] (oldest unreviewed-by-pessimistic; last review 2026-05-05)

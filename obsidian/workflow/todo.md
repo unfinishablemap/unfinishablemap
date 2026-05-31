@@ -37,20 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Address structural gaps in epistemic-advantages-of-dualism
-- **Type**: refine-draft
-- **Status**: pending
-- **File**: obsidian/topics/epistemic-advantages-of-dualism.md
-- **Notes**: Pessimistic review 2026-05-31 found two High-severity issues and three Medium. See [[pessimistic-2026-05-31-epistemic-advantages-of-dualism]]. Priority fixes:
-  - **(High) Symmetry self-undermining**: the humility master-premise licenses only "treat dualism as a live option," but the Relation-to-Site-Perspective section (lines 168-172) converts it into endorsement of four non-open tenets (esp. No-Many-Worlds, line 172, dismisses MWI by assertion). Add a paragraph distinguishing the narrow thesis from tenet-level commitments; frame tenets as working bets held *despite* the same uncertainty, not as outputs of the humility argument.
-  - **(High) Epistemic/metaphysical equivocation**: line 40 ("openness is a feature") + Whitehead section (126) silently upgrade "suspend judgment under ignorance" (epistemic) into "openness tracks truth because reality is creative" (metaphysical). Split the readings per [[evidential-status-discipline]]; mark Whitehead as one optional illustrative picture, not truth-tracking support.
-  - **(Med) Decoherence claim (line 66)**: "met with revised timescale estimates and alternative mechanisms" asserts the central empirical objection is answered, citing only internal wikilinks. Downgrade to "actively contested / unsettled" or add a real citation — under-support here is a performative contradiction for a humility article.
-  - **(Med) Asymmetric-cost ledger (100-104)**: never lets over-attribution costs onto the materialist-error side, and drives the asymmetry with the substrate-independence premise (line 74) the Map does not fully endorse. Tabulate over-attribution costs; mark substrate-independence as conditional.
-  - **(Med) Illusionism rebuttal seam (112-114)**: response 1 needs introspection real enough to ground the Tallis regress; response 2 needs it unreliable enough to neutralize illusionism. Recast the regress as about the *occurrence of a representational seeming* (illusionists grant) rather than a phenomenally-presented item.
-  - Also fix line 158/160 historical survivorship bias (cite vindicated closures too) and the line-183 vs line-100 inconsistency about openness costs.
-- **Source**: pessimistic-review
-- **Generated**: 2026-05-31
-
 ### ✓ 2026-05-31: Adopt temporal-consciousness calibration in auditory-consciousness-and-the-interface
 - **Type**: refine-draft
 - **Status**: completed (sibling no-op — resolved by the same-snapshot qualia-anchor refine on 2026-05-31, which raised hedge density 1.23→7.23/kw and dropped strong-assertions 3.08→0/kw. `tools.curate.anchoring.evaluate_anchoring` now returns ZERO flags for all three anchors, including temporal-consciousness. Re-refining a passing article would risk over-hedging into mush — see [[anchoring-audit-sibling-tasks-stale]].)
@@ -3632,6 +3618,10 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 Tasks that failed 3+ times and require human intervention.
 
+
+### ✓ 2026-05-31: Address structural gaps in epistemic-advantages-of-dualism
+- **Type**: refine-draft
+- **Notes**: Pessimistic review 2026-05-31 found two High-severity issues and three Medium. See [[pessimistic-2026-05-31-epistemic-advantages-of-dualism]]. Priority fixes:
 
 ### ✓ 2026-05-31: Deep review voids/emotional-epistemology-void.md (42 days since last review, ai_contribution=100, Tenet 5 load-bearing)
 - **Type**: deep-review
