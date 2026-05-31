@@ -5,6 +5,16 @@ ai_modified: 2026-05-31T22:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-05-31T22:30:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [[concepts/idealism]]
+- **Word count**: 2911 → 2911 (unchanged; length-neutral mode, 116% of soft threshold)
+- **Critical issues addressed**: 0 (none found — 8th review; converged since 2nd. Re-checked under newer §2.5 attribution, §2.6 reasoning-mode, and calibration-slippage disciplines; passes cleanly)
+- **Medium issues addressed**: 0 (only change since 2026-04-23 was a mechanical link-hygiene fix repairing the `^occams-razor`→`^occams-limits` tenet anchor; verified all 4 tenet anchors + all 18 wikilinks resolve)
+- **Enhancements made**: 0 (timestamp update only — convergence preserved, no oscillation)
+- **Reasoning-mode**: engagement with idealism/Kastrup is Mode Three (framework-boundary), handled honestly — "the idealist can accommodate this" + "a wager, not a proof"; no boundary-substitution, no label leakage
+- **Output**: [[reviews/deep-review-2026-05-31-idealism]]
+
 ## 2026-05-31T21:50:29+00:00 - deep-review
 - **Status**: Success
 - **File**: [[concepts/buddhism-and-dualism]]

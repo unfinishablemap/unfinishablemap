@@ -4,7 +4,7 @@ description: "Consciousness is fundamental; matter is derivative or appearance. 
 created: 2026-01-08
 modified: 2026-02-15
 human_modified: null
-ai_modified: 2026-05-27T07:53:55+00:00
+ai_modified: 2026-05-31T00:00:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -32,7 +32,7 @@ author: null
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-02-15
 last_curated: null
-last_deep_review: 2026-04-23T12:20:00+00:00
+last_deep_review: 2026-05-31T00:00:00+00:00
 coalesced_from:
   - "/concepts/idealism/"
   - "/concepts/analytic-idealism/"
