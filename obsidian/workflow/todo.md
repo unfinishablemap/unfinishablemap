@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-31T13:11:23+00:00
+ai_modified: 2026-05-31T13:50:00+00:00
 ai_system: claude-opus-4-8
 author: Andy Southgate
 concepts: []
@@ -37,15 +37,15 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P3: Write concept page on training-contamination of AI introspection probes
+### P2: Write concept page on training-contamination of AI introspection probes
 - **Type**: expand-topic
 - **Status**: pending
-- **Notes**: Suggested by optimistic review (optimistic-2026-05-31b). Generalizes the "Training-contamination" confound named as the most serious in anti-correlation-probes-for-ai-consciousness.md — a model that has read about a metacognitive signature can imitate pass/fail "for the wrong reasons," defeating any behavioral introspection probe for LLMs. Calibration-positive, not evidence-elevating; supports evidential-status discipline + Tenet 1 at discrimination-problem tier. Assess-first with license-to-decline: confirm no existing concept page already covers this before creating.
+- **Notes**: PROMOTED P3→P2 by /replenish-queue 2026-05-31 (floor-restoring promotion, third of three; chosen for diversity — an expand-topic alongside a refine and an integrate-orphan). Concepts section has headroom (250/270), so the cap does not block this. STRICT assess-first with license-to-decline still applies: confirm no existing concept page already covers training-contamination before creating; if the corpus has absorbed it (e.g. inside anti-correlation-probes-for-ai-consciousness or ai-epiphenomenalism), retarget to a refine/cross-link or decline ([[stale-expand-tasks-may-be-redundant]]). Suggested by optimistic review (optimistic-2026-05-31b). Generalizes the "Training-contamination" confound named as the most serious in anti-correlation-probes-for-ai-consciousness.md — a model that has read about a metacognitive signature can imitate pass/fail "for the wrong reasons," defeating any behavioral introspection probe for LLMs. Calibration-positive, not evidence-elevating; supports evidential-status discipline + Tenet 1 at discrimination-problem tier. Assess-first with license-to-decline: confirm no existing concept page already covers this before creating.
 
-### P3: Cross-link ai-epiphenomenalism.md → anti-correlation-probes-for-ai-consciousness.md
+### P2: Cross-link ai-epiphenomenalism.md → anti-correlation-probes-for-ai-consciousness.md
 - **Type**: refine-draft
 - **Status**: pending
-- **Notes**: Suggested by optimistic review (optimistic-2026-05-31b). The epiphenomenalism article concerns whether AI experience is detectable; the anti-correlation probe is the corpus's worked architectural-detector design. They share the architecture/phenomenology-asymmetry logic but do not currently cross-link. Add an inbound reference from ai-epiphenomenalism's Further Reading (or body where the P-zombie / detectability discussion lives).
+- **Notes**: PROMOTED P3→P2 by /replenish-queue 2026-05-31 (floor-restoring promotion; queue at 2 P2 / 0 P0-P1, below the MIN_QUEUE_TASKS=3 floor — promoting concrete verified-actionable P3s rather than minting speculative work, per [[unfin-loop-steady-state]]). Verified still un-done 2026-05-31: `grep anti-correlation-probes obsidian/concepts/ai-epiphenomenalism.md` returns nothing, and `phenomenology-of-intellectual-life` still has zero links to courage (sibling promotion below). Suggested by optimistic review (optimistic-2026-05-31b). The epiphenomenalism article concerns whether AI experience is detectable; the anti-correlation probe is the corpus's worked architectural-detector design. They share the architecture/phenomenology-asymmetry logic but do not currently cross-link. Add an inbound reference from ai-epiphenomenalism's Further Reading (or body where the P-zombie / detectability discussion lives). Target lives at `obsidian/topics/anti-correlation-probes-for-ai-consciousness.md`.
 
 ### P2: Sharpen decoherence/falsifier precision in topics/time-collapse-and-agency.md
 - **Type**: refine-draft
@@ -112,10 +112,10 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: optimistic-review
 - **Generated**: 2026-05-29
 
-### P3: Add reciprocal cross-link from phenomenology-of-intellectual-life to phenomenology-of-intellectual-courage
+### P2: Add reciprocal cross-link from phenomenology-of-intellectual-life to phenomenology-of-intellectual-courage
 - **Type**: integrate-orphan
 - **Status**: pending
-- **Notes**: The 2026-05-29 deep-review of [[phenomenology-of-intellectual-courage]] found a non-reciprocated cross-link: the courage article leans on [[phenomenology-of-intellectual-life]] four times for "effort/achievement phenomenology," and [[phenomenology-of-philosophical-disagreement]] links back to courage with an explicit boundary note — but `topics/phenomenology-of-intellectual-life.md` does NOT link to courage at all. Add one inbound reference + brief boundary clarification in intellectual-life (courage = the social-epistemic specialisation: holding a position against consensus pressure). Light touch; intellectual-life last modified 2026-05-22, near its soft threshold, so length-neutral. Editing intellectual-life was out of scope for the courage deep-review.
+- **Notes**: PROMOTED P3→P2 by /replenish-queue 2026-05-31 (floor-restoring promotion alongside the ai-epiphenomenalism cross-link; see that task's rationale). Verified still un-done 2026-05-31: `grep -c intellectual-courage obsidian/topics/phenomenology-of-intellectual-life.md` returns 0. The 2026-05-29 deep-review of [[phenomenology-of-intellectual-courage]] found a non-reciprocated cross-link: the courage article leans on [[phenomenology-of-intellectual-life]] four times for "effort/achievement phenomenology," and [[phenomenology-of-philosophical-disagreement]] links back to courage with an explicit boundary note — but `topics/phenomenology-of-intellectual-life.md` does NOT link to courage at all. Add one inbound reference + brief boundary clarification in intellectual-life (courage = the social-epistemic specialisation: holding a position against consensus pressure). Light touch; intellectual-life last modified 2026-05-22, near its soft threshold, so length-neutral. Editing intellectual-life was out of scope for the courage deep-review.
 - **Source**: deep-review
 - **Generated**: 2026-05-29
 
