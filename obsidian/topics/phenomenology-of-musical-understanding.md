@@ -34,7 +34,7 @@ author:
 ai_system: claude-opus-4-7
 ai_generated_date: 2026-02-18
 last_curated:
-last_deep_review: 2026-04-24T17:29:00+00:00
+last_deep_review: 2026-05-31T20:35:00+00:00
 ---
 
 Music poses a distinctive challenge for theories of consciousness. When you hear a melody resolve from tension to resolution—when a minor key passage shifts to major, or a dissonant chord finds its tonic—you *understand* something. But what you understand cannot be stated propositionally. The understanding is irreducibly phenomenal: temporal, aesthetic, and emotional in ways that resist translation into any other medium. The Unfinishable Map argues that musical understanding provides a particularly revealing test case for dualism, because it combines temporal phenomenology, aesthetic qualia, and non-propositional meaning in a single experience that materialist accounts struggle to accommodate.
