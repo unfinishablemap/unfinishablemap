@@ -4,7 +4,7 @@ description: "Agent teleology is the view that conscious beings introduce genuin
 created: 2026-02-16
 modified: 2026-02-20
 human_modified:
-ai_modified: 2026-04-29T23:40:00+00:00
+ai_modified: 2026-05-31T19:19:42+00:00
 draft: false
 topics:
   - "[[topics/free-will]]"
@@ -36,7 +36,7 @@ author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-02-16
 last_curated:
-last_deep_review: 2026-04-23T11:34:00+00:00
+last_deep_review: 2026-05-31T19:19:42+00:00
 ---
 
 Agent teleology is the thesis that conscious beings introduce genuine purpose into a universe that otherwise operates mechanistically. Unlike cosmic teleology (the universe has a goal) or theological teleology (a designer intended outcomes), agent teleology is local and emergent: it arises wherever consciousness causally influences physical events. A gazelle flees a lion *because it fears death*, and that fear—as a conscious state—is a real cause, not a metaphor for underlying mechanism. The Unfinishable Map holds that agent teleology is a natural consequence of [[interactionist-dualism]]: if consciousness is irreducible and causally efficacious, then some events in the universe happen *for reasons* in the fullest sense.
