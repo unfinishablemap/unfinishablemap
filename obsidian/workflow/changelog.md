@@ -5,6 +5,19 @@ ai_modified: 2026-05-31T00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-05-31T00:00:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [[topics/phenomenal-normativity-environmental-ethics]]
+- **Word count**: 2443 → 2443 (no change; 81% of 3000 topics soft threshold)
+- **Review focus**: Citation-currency pass (standing cycle-slot guidance) on a converged article (5th deep review)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Citation pass**: All 8 references + 2 inline direct quotations + 2 declarations web-verified clean on both axes (metadata + source-conclusion). NYD scope reported at the source's own "realistic possibility" tier (article slightly MORE conservative than source on insects); Cambridge Declaration paraphrase accurate; Abhinavagupta rasa quote verbatim; Rawlette 2016 metadata + thesis exact; Næss 1973 (Inquiry 16(1), 95-100), Rolston 1988 (Temple UP) exact. No fabrication, no metadata defect, no source-conclusion mismatch, no metaphysical/epistemic overreach.
+- **Cross-corpus divergence grep**: The documented prior NYD "over 500 signatories" inflation (~6x; corrected corpus-wide to ~40 launch / >80 current) does NOT appear in this article — clean. Stale "500+ signatories" form still present in `research/invertebrate-consciousness-interface-test-case-2026-04-06.md` (out of scope; flagged as housekeeping candidate).
+- **Reasoning-mode classifications**: Rolston III — Mode One (dilemma earns disagreement on ecocentrist's own terms) + Mode Three residue; deep-ecology "Western narrowness" charge — Mode One (refuted on opponent's empirical terms, with honest indigenous-ontology caveat); MWI parenthetical — Mode Three (honest framework-boundary marking). Label-leakage check PASS.
+- **Enhancements made**: 0 to prose; updated `ai_modified` + `last_deep_review` timestamps only. Link integrity verified (13 cross-links + 2 section anchors resolve).
+- **Output**: [[reviews/deep-review-2026-05-31-phenomenal-normativity-environmental-ethics]]
+
 ## 2026-05-31T09:12:25+00:00 - refine-draft
 - **Status**: Success
 - **File**: [[concepts/russellian-monism]]
