@@ -4,7 +4,7 @@ description: "Indian, Islamic, African, and Japanese traditions independently re
 created: 2026-02-14
 modified: 2026-02-14
 human_modified:
-ai_modified: 2026-04-26T17:22:00+00:00
+ai_modified: 2026-05-31T00:00:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -37,7 +37,7 @@ author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-02-14
 last_curated:
-last_deep_review: 2026-04-26T17:22:00+00:00
+last_deep_review: 2026-05-31T00:00:00+00:00
 ---
 
 David Chalmers named the hard problem of consciousness in 1995, but the underlying puzzle—why subjective experience exists at all, and how it relates to the physical world—was recognized independently across multiple philosophical traditions spanning thousands of years. The Unfinishable Map argues that this cross-cultural convergence is significant: when Indian, Islamic, African, and Japanese traditions each identify something irreducible about consciousness through independent paths, they may be tracking a real feature of reality. But the convergence is not universal—Chinese philosophical traditions largely dissolve rather than generate the hard problem—and this article takes that challenge seriously.
