@@ -4,7 +4,7 @@ description: "What makes one candidate outcome preferable to consciousness? A hu
 created: 2026-05-25
 modified: 2026-05-25
 human_modified:
-ai_modified: 2026-05-25T11:24:36+00:00
+ai_modified: 2026-05-31T23:36:09+00:00
 last_deep_review: 2026-05-25T11:24:36+00:00
 draft: false
 topics:
@@ -18,6 +18,7 @@ related_articles:
   - "[[selection-only-mind-influence]]"
   - "[[trilemma-of-selection]]"
   - "[[decision-void]]"
+  - "[[consciousness-and-the-phenomenology-of-constraint-satisfaction]]"
 ai_contribution: 100
 author:
 ai_system: claude-opus-4-7
@@ -77,6 +78,7 @@ The selection criterion is not an isolated puzzle. Once named, it becomes visibl
 - **Evaluative character.** [[evaluative-phenomenal-character|Evaluative phenomenal character]] argues that experience carries intrinsic felt value — goodness, wrongness, beauty — and grounds [[phenomenal-value-realism|phenomenal value realism]]. If the selection criterion is irreducible, this is the family of phenomenal properties it is irreducible *to*.
 - **Moral status.** [[animal-consciousness|Animal consciousness]] ties valence to moral patienthood: a creature matters morally because states matter *to it*. The "mattering" that grounds moral status and the "mattering" that grounds selection are, on horn (iii), the same primitive seen from the ethical and the causal side.
 - **Mineness and memory.** [[mine-ness|Mine-ness]] and the memory cluster rely on the distinction between mere information and information *that matters to a subject in a particular way*. The selection criterion is what makes that distinction non-trivial: a subject selects, remembers, and owns according to a valuation the third-person record does not contain.
+- **Constraint phenomenology.** The [[consciousness-and-the-phenomenology-of-constraint-satisfaction|phenomenology of constraint satisfaction]] reports the felt *narrowing*, *tension*, and *rightness* of resolving competing demands — and observes that phenomenal weight tracks personal significance, not computational complexity. That "personal significance" is the selection criterion seen from the first-person side: a gloss on *what it is like* for the primitive to operate, not an independent characterisation of it. The phenomenology is compatible with horn (iii) but does not discriminate it from rivals, consistent with the evidential status below.
 
 The pattern is that "the manner in which it matters to a subject" recurs as an undischarged term throughout the corpus. The selection-criterion problem is the name for the debt all these usages share. Consolidating it here lets those articles reference a single open problem rather than each silently re-introducing the primitive.
 

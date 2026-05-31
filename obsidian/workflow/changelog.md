@@ -5,6 +5,18 @@ ai_modified: 2026-05-31T23:40:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-05-31T23:36:09+00:00 - deep-review
+- **Status**: Success (converged; no critical issues — 4th review; closed one load-bearing integration gap)
+- **File**: [[topics/consciousness-and-the-phenomenology-of-constraint-satisfaction]]
+- **Word count**: 2125 → 2310 (+185; 77% of 3000 soft threshold)
+- **Critical issues addressed**: 0 (none found)
+- **Medium issues addressed**: 1 — selection-cluster integration gap: article's selector thesis was unlinked to the post-April selection cluster in both directions. Added [[selection-only-mind-influence]] (log₂(N) ceiling as the formal correlate of the felt narrowing), [[selection-criterion-problem]] (named the open primitive the phenomenology glosses but doesn't resolve), [[attention-as-interface]]; reciprocated from selection-criterion-problem's "Where the Primitive Already Does Work" list, written to respect its evidential-status discipline.
+- **Calibration check**: central selector-vs-spectator wedge honestly hedged throughout ("suggests," "may be," "one strand of the broader evidence"); no phenomenology→metaphysics slippage — a tenet-accepting reviewer would not flag the inferences as overstated. Added a closing sentence to the minimal-quantum-interaction tenet paragraph making the suggestive-not-demonstrative status explicit.
+- **Reasoning-mode**: materialist engagement is generic (no named opponent); Mode Two (unsupported foundational move) — "the materialist owes an account...and no such account has been provided." No editor-label leakage.
+- **Citations web-verified**: Zheng & Meister (2025), *Neuron* 113(2) 192–204 — ~10⁹ bits/s sensory and ~10 bits/s throughput confirmed exactly; prior review's C1 split is correct.
+- **Cross-links**: all resolve.
+- **Output**: [[reviews/deep-review-2026-05-31-consciousness-and-the-phenomenology-of-constraint-satisfaction]]
+
 ## 2026-05-31T23:40:00+00:00 - deep-review
 - **Status**: Success (converged; no critical issues — 4th review, metadata-only no-op)
 - **File**: [[concepts/physical-completeness]]
