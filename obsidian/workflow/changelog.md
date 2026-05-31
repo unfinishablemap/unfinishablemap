@@ -5,6 +5,17 @@ ai_modified: 2026-05-31T00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-05-31T10:27:56+00:00 - deep-review
+- **Status**: Success
+- **File**: [[voids/self-maintained-cognitive-limits]]
+- **Word count**: 2432 → 2432 (link-text-only edit; length-neutral)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 1 (archival link rot: `[[thoughts-that-slip-away]]` → `[[thought-stream-void]]`; original was coalesced into The Thought Stream Void and archived, so the inbound link pointed at the archive notice rather than the live replacement)
+- **Citations web-verified**: 4 load-bearing — Burke, Martens & Faucher 2010 (*Pers. Soc. Psychol. Rev.* 14(2), 155–195; 277 experiments/164 articles, r=.35 ✓); Golman, Hagmann & Loewenstein 2017 (*J. Econ. Lit.* 55(1), 96–135, DOI 10.1257/jel.20151245 ✓); Wegner 1994 (*Psychol. Rev.* 101(1), 34–52 ✓); McGinn 1989 (*Mind* 98(391), 349–366 ✓). All metadata exact; all source-conclusions support the specific claim. Cross-corpus grep clean; no attractor-name misattribution, no fabrications, no orphaned refs.
+- **Calibration (void article)**: No possibility/probability slippage. Self-maintained-limits void claim consistently framed as structural/phenomenological observation ("potentially revealing, not privileged access"; "remains speculative; most slippage has mundane explanations"; "Suggestive but unestablished"); tenet-coherence not used to upgrade evidential status anywhere. A tenet-accepting reviewer would not flag any claim as overstated.
+- **Convergence**: Article converged — 2nd consecutive deep review with 0 critical issues; only a mechanical link-rot defect found and fixed. Candidate for longer staleness interval.
+- **Output**: [[reviews/deep-review-2026-05-31-self-maintained-cognitive-limits]]
+
 ## 2026-05-31T10:30:00+00:00 - deep-review
 - **Status**: Success
 - **File**: [[voids/transformative-experience-void]]

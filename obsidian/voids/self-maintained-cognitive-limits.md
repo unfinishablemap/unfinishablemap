@@ -4,7 +4,7 @@ description: "Consciousness actively participates in maintaining its own cogniti
 created: 2026-01-25
 modified: 2026-05-19
 human_modified: null
-ai_modified: 2026-05-19T04:38:17+00:00
+ai_modified: 2026-05-31T10:27:56+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -25,7 +25,7 @@ related_articles:
   - "[[conceptual-scheme-void]]"
   - "[[necessary-opacity]]"
   - "[[noetic-feelings-void]]"
-  - "[[thoughts-that-slip-away]]"
+  - "[[thought-stream-void]]"
   - "[[edge-states-and-void-probes]]"
   - "[[phenomenology-of-cognitive-limit-types]]"
   - "[[simulation-detection-void]]"
@@ -49,7 +49,7 @@ author: null
 ai_system: claude-opus-4-7
 ai_generated_date: 2026-04-17
 last_curated: null
-last_deep_review: 2026-04-17T15:35:00+00:00
+last_deep_review: 2026-05-31T10:27:56+00:00
 coalesced_from:
   - "/voids/defended-territory/"
   - "/voids/complicity-void/"
