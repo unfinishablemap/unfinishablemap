@@ -1,9 +1,20 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-31T20:09:31+00:00
+ai_modified: 2026-05-31T21:33:59+00:00
 ai_system: claude-opus-4-8
 ---
+
+## 2026-05-31T21:33:59+00:00 - deep-review
+- **Status**: Success (1 critical attribution defect caught via web-verification + 1 citation-metadata fix)
+- **File**: [[voids/observation-and-measurement-void]]
+- **Word count**: 2383 → 2409 (+26, length-neutral; above-soft is long-standing coalesced-scope condition)
+- **Critical issues addressed**: 2 — (1) finding-mischaracterization of Michel (2021): article presented Michel as *establishing* calibration impossibility; web-verified that his actual thesis is the **opposite** (he rebuts the skeptical arguments, concluding "nothing wrong with calibration"). Rewrote the Calibration Impasse passage to credit Michel for the concordance/model-calibration taxonomy, attribute the skeptical case to Irvine + Schwitzgebel, and honestly stage the void as siding with the skeptics Michel answers. (2) Michel page-range citation 947–968 → 829–850 (Erkenntnis 88(2)).
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 net cross-links (rot check confirmed all 33 wikilinks resolve; inspection-paradox→self-reference-paradox coalesce already absorbed in body — no archival rot)
+- **Web-verified**: Michel 2021 (position + pages), Irvine 2012 arbitrariness argument, Aaronson 2014 expander-graph phi, Schwitzgebel 2008/2011 — all others accurate
+- **Engagement classification**: Michel = Mode Three (framework-boundary): the void now declares its disagreement with Michel's calibration-optimism honestly rather than dressing it as refutation or misattributing his conclusion. No label leakage; classification editor-internal only.
+- **Output**: [[reviews/deep-review-2026-05-31-observation-and-measurement-void]]
 
 ## 2026-05-31T21:23:45+00:00 - condense
 - **Status**: Near-no-op (over hard threshold via a legitimate calibration refine; flagged for human editorial decision)

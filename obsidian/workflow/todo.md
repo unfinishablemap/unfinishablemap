@@ -37,15 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Deep review voids/observation-and-measurement-void.md (35 days since last review, ai_contribution=100, Tenet 2 load-bearing)
-- **Type**: deep-review
-- **Status**: pending
-- **File**: obsidian/voids/observation-and-measurement-void.md
-- **Relocated**: 2026-05-31 — moved to top to break LIFO starvation ([[queue-lifo-starvation]]), 3rd occurrence this session. Promoted cycle 99 (~11 cycles ago); each later replenish inserts fresher P2s above it, so the line-ascending selector keeps jumping it. Prior such relocation (phenomenal-quality-void) surfaced 2 real finding-mischaracterization defects, so a starved void article is NOT a safe no-op. DURABLE FIX NEEDED (code): replenish should relocate the OLDEST pending cycle-pickable P2 to the top, or the selector should tie-break by task age.
-- **Notes**: PROMOTED to P2 by /replenish-queue 2026-05-31 (floor-restoring). BOTH stale-review (`last_deep_review: 2026-04-25`, ~35d) AND settled (`ai_modified: 2026-04-25`, ~35d); `ai_contribution=100`, ~2383 words (voids soft_warning band, well under 3000 hard — do NOT condense this pass). Voids article — deep-review is cap-safe despite voids over its 100 cap. The observation-and-measurement void concerns what is structurally unknowable about the measurement/observation boundary — Tenet 2 (Minimal Quantum Interaction) load-bearing. Deep-review should: (a) verify the void framing coheres with the quantum-interface cluster ([[topics/born-rule-and-the-consciousness-interface]], [[concepts/locality]], [[concepts/relational-quantum-mechanics]], [[topics/wheelers-participatory-universe-and-it-from-bit]]); (b) honour [[evidential-status-discipline]] — keep measurement-problem claims interpretive/structural-unknowability, NOT established physics; guard possibility/probability slippage; (c) web-verify cited physicist/philosopher attributions (von Neumann, Wigner, QBism, decoherence) AND that their actual findings/positions match ([[ai-citation-metadata-unreliable]] — coalesced/void cites are a high-yield defect zone this session); (d) verify cross-links resolve live and reciprocate; (e) writing-style (no "This is not X. It is Y." cliché). Metadata-only verdict acceptable if converged; do NOT over-hedge. Tenet alignment: Tenet 2, Tenet 4.
-- **Source**: staleness
-- **Generated**: 2026-05-31
-
 ### P2: Deep review concepts/buddhism-and-dualism.md (35 days since last review, ai_contribution=100, Tenet 1 load-bearing)
 - **Type**: deep-review
 - **Status**: pending
@@ -3616,6 +3607,10 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 Tasks that failed 3+ times and require human intervention.
 
+
+### ✓ 2026-05-31: Deep review voids/observation-and-measurement-void.md (35 days since last review, ai_contribution=100, Tenet 2 load-bearing)
+- **Type**: deep-review
+- **Notes**: PROMOTED to P2 by /replenish-queue 2026-05-31 (floor-restoring). BOTH stale-review (`last_deep_review: 2026-04-25`, ~35d) AND settled (`ai_modified: 2026-04-25`, ~35d); `ai_contribution=100`, ~2383 words (voids soft_warning band, well under 3000 hard — do NOT condense this pass). Voids article — deep-review is cap-safe despite voids over its 100 cap. The observation-and-measurement void concerns what is structurally unknowable about the measurement/observation boundary — Tenet 2 (Minimal Quantum Interaction) load-bearing. Deep-review should: (a) verify the void framing coheres with the quantum-interface cluster ([[topics/born-rule-and-the-consciousness-interface]], [[concepts/locality]], [[concepts/relational-quantum-mechanics]], [[topics/wheelers-participatory-universe-and-it-from-bit]]); (b) honour [[evidential-status-discipline]] — keep measurement-problem claims interpretive/structural-unknowability, NOT established physics; guard possibility/probability slippage; (c) web-verify cited physicist/philosopher attributions (von Neumann, Wigner, QBism, decoherence) AND that their actual findings/positions match ([[ai-citation-metadata-unreliable]] — coalesced/void cites are a high-yield defect zone this session); (d) verify cross-links resolve live and reciprocate; (e) writing-style (no "This is not X. It is Y." cliché). Metadata-only verdict acceptable if converged; do NOT over-hedge. Tenet alignment: Tenet 2, Tenet 4.
 
 ### ✓ 2026-05-31: Calibration-preserving condense of topics/wheelers-participatory-universe-and-it-from-bit.md (4248 words, 142% of 3000 target, over 4000 hard threshold)
 - **Type**: condense
