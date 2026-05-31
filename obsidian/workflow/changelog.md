@@ -5,6 +5,17 @@ ai_modified: 2026-05-31T18:16:44+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-05-31T18:31:10+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[topics/wheelers-participatory-universe-and-it-from-bit]]
+- **Original score**: n/a (curate.py review entry point missing — stale-command bug; reviewed against pessimistic-2026-05-31 findings directly)
+- **Changes**:
+  - HIGH (delayed-choice retrocausality equivocation): reconciled the Bidirectional Interaction tenet passage (was "present choices influence past quantum behaviour", load-bearing on the dramatic backward-causation reading) to the careful §Core-Vision reading. Took option (a) — supplied the bridging argument: the dualist support now rests explicitly on participatory *outcome-selection* (consciousness participating in which previously-indefinite outcome becomes definite at registration), not on causing an already-settled past. Tenet connection PRESERVED and stated precisely. Also tightened the §Core-Vision delayed-choice paragraph and the Jacques 2007 gloss so the anchor reading no longer says the choice "determines... in the past".
+  - MEDIUM (Tegmark decoherence symmetry): added a paragraph to §Stapp's Quantum Mind acknowledging the ~10⁻¹³ s figure targets neural superposition generally and presses on the Map's own local-modulation thesis, not only Stapp's Zeno mechanism. Mirrors the even-handed handling in [[time-collapse-and-agency]] (decoherence leaves the measurement problem open; interface process held open). No claim of immunity.
+  - MEDIUM (falsifiability): added entry 5 to "What Would Challenge This View?" naming a within-trial signature (outcome covarying with conscious state at registration, ensemble statistics held fixed) that would discriminate corridor-selection from pure Born randomness; states the signature-free undetectability as a genuine cost (evidential-status-discipline), ties it to the three-branch framing.
+- **Preserved**: "inspired by Wheeler, not licensed by him" honesty; three-descendant taxonomy (digital physics flagged tenet-incompatible); Barbour counter-thesis. No fabricated citations (Tegmark 2000 already in-corpus). Voice preserved; no label leakage.
+- **Published**: yes (draft: false, unchanged)
+
 ## 2026-05-31T18:25:06+00:00 - pessimistic-review
 - **Status**: Success
 - **Content reviewed**: topics/wheelers-participatory-universe-and-it-from-bit.md (oldest topic by ai_modified with no prior pessimistic review)

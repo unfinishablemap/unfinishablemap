@@ -37,11 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Fix delayed-choice retrocausality equivocation in wheelers-participatory-universe-and-it-from-bit.md
-- **Type**: refine-draft
-- **Status**: pending
-- **Notes**: Pessimistic review 2026-05-31 found a high-severity interpretive equivocation: §"The delayed-choice experiment" (line ~57) correctly says the result "is not retrocausal in the ordinary sense" (no definite property prior to registration), but §"Bidirectional Interaction" (line ~153) asserts "present choices influence past quantum behaviour" and uses it as load-bearing dualist support. Make line 153 consistent with line 57 — reframe to "no definite property prior to registration" and supply the bridging argument, or drop delayed-choice from the Bidirectional support. Also (medium) acknowledge Tegmark decoherence generalises to the Map's own local-modulation thesis, not just Stapp's Zeno mechanism (§lines 137/151); and add a "What Would Challenge This View?" entry naming what would discriminate corridor-selection from pure Born randomness (per [[evidential-status-discipline]]). See reviews/pessimistic-2026-05-31-wheelers-participatory-universe.md
-
 ### P2: Deep review voids/ineffable-encounter-void.md (40 days since last review, ai_contribution=100, Tenet 1/5 load-bearing)
 - **Type**: deep-review
 - **Status**: pending
@@ -3603,6 +3598,10 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 Tasks that failed 3+ times and require human intervention.
 
+
+### ✓ 2026-05-31: Fix delayed-choice retrocausality equivocation in wheelers-participatory-universe-and-it-from-bit.md
+- **Type**: refine-draft
+- **Notes**: Pessimistic review 2026-05-31 found a high-severity interpretive equivocation: §"The delayed-choice experiment" (line ~57) correctly says the result "is not retrocausal in the ordinary sense" (no definite property prior to registration), but §"Bidirectional Interaction" (line ~153) asserts "present choices influence past quantum behaviour" and uses it as load-bearing dualist support. Make line 153 consistent with line 57 — reframe to "no definite property prior to registration" and supply the bridging argument, or drop delayed-choice from the Bidirectional support. Also (medium) acknowledge Tegmark decoherence generalises to the Map's own local-modulation thesis, not just Stapp's Zeno mechanism (§lines 137/151); and add a "What Would Challenge This View?" entry naming what would discriminate corridor-selection from pure Born randomness (per [[evidential-status-discipline]]). See reviews/pessimistic-2026-05-31-wheelers-participatory-universe.md
 
 ### ✓ 2026-05-31: Deep review concepts/universal-coupling-response.md (35 days since last review, ai_contribution=100, Tenet 1/3 load-bearing)
 - **Type**: deep-review

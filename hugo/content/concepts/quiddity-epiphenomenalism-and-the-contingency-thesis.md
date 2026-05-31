@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-05-31
-ai_modified: 2026-05-31 16:27:14+00:00
+ai_modified: 2026-05-31 16:45:00+00:00
 ai_system: claude-opus-4-8
 author: null
 concepts:
@@ -112,6 +112,8 @@ The discipline here matters because the temptation is real: it is easy to write 
 - [the-epiphenomenalist-threat](/topics/the-epiphenomenalist-threat/) — Why the epiphenomenalist worry recurs across theories, including the "redescription" version aimed at Russellian monism
 - [modal-structure-of-phenomenal-properties](/topics/modal-structure-of-phenomenal-properties/) — Why phenomenal properties resist the necessitarian fix the contingency thesis would require
 - [intrinsic-nature](/concepts/intrinsic-nature/) — What quiddities are supposed to be
+- [phenomenology-of-intellectual-life](/topics/phenomenology-of-intellectual-life/) — Runs the same epiphenomenalism worry on intellectual phenomenology rather than grounded quiddities
+- [ai-epiphenomenalism](/concepts/ai-epiphenomenalism/) — The same "experience is causally idle" worry on the AI substrate, where architecture rather than contingent grounding blocks the causal channel
 
 ## References
 

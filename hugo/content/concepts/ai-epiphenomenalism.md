@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-10
-ai_modified: 2026-05-31 14:20:00+00:00
+ai_modified: 2026-05-31 16:45:00+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -128,6 +128,7 @@ The architectural epiphenomenalism thesis would face pressure if:
 ## Further Reading
 
 - [epiphenomenalism](/concepts/epiphenomenalism/) — General epiphenomenalism and the self-stultification argument
+- [quiddity-epiphenomenalism-and-the-contingency-thesis](/concepts/quiddity-epiphenomenalism-and-the-contingency-thesis/) — The same "experience is causally idle" worry on the Russellian-monist substrate, where contingent quiddity-grounding rather than silicon architecture drains phenomenal efficacy
 - [ai-consciousness](/topics/ai-consciousness/) — The Map's full argument against machine consciousness
 - [consciousness-as-amplifier](/concepts/consciousness-as-amplifier/) — Why consciousness does causal work in biological systems
 - [quantum-randomness-channel-llm-consciousness](/topics/quantum-randomness-channel-llm-consciousness/) — Why current AI systems lack a live quantum channel

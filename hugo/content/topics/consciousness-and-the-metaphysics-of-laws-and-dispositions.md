@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-04-28
-ai_modified: 2026-05-19 11:04:33+00:00
+ai_modified: 2026-05-31 16:55:47+00:00
 ai_system: claude-opus-4-7
 author: null
 coalesced_from:
@@ -121,7 +121,7 @@ If categoricalism is correct, consciousness might be a categorical property par 
 
 This looks promising for dualism, but categoricalism faces its own difficulty. As [russellian-monism](/concepts/russellian-monism/) highlights, physics describes only structural and relational properties—only what things *do*. We know that mass gravitates and charge attracts but not what mass or charge *is* intrinsically. The [intrinsic-nature-void](/voids/intrinsic-nature-void/) explores why this gap may be principled rather than merely epistemic.
 
-This generates the Russellian gambit: perhaps consciousness *is* the intrinsic categorical nature underlying physical dispositions—qualia are what physical structure looks like from the inside. But this faces the [combination-problem](/concepts/combination-problem/): how do micro-level categorical-phenomenal properties combine into unified macro-consciousness? Cutter (2019), Pautz (2017), and Howell (2014) press the case that Russellian monism is unstable, requires brute linking principles equivalent to dualism's, and risks epiphenomenal quiddities. Mørch (2014, 2018) responds with *power-monist* Russellian monism: quiddities *are* powers, restoring causal relevance. Mørch's view is the closest competitor to the Map's because it pairs the powerful-qualities identity theory with Russellian monism rather than dualism. The Map prefers [bi-aspectual dualism](/topics/russellian-monism-versus-bi-aspectual-dualism/) because power-monist Russellian monism still inherits the combination problem, whereas the bi-aspectual framework posits unified phenomenal subjects from the start and locates causal work at quantum indeterminacies rather than within the constitution of physical properties.
+This generates the Russellian gambit: perhaps consciousness *is* the intrinsic categorical nature underlying physical dispositions—qualia are what physical structure looks like from the inside. But this faces the [combination-problem](/concepts/combination-problem/): how do micro-level categorical-phenomenal properties combine into unified macro-consciousness? Cutter (2019), Pautz (2017), and Howell (2015) press the case that Russellian monism is unstable, requires brute linking principles equivalent to dualism's, and risks epiphenomenal quiddities. Mørch (2014, 2018) responds with *power-monist* Russellian monism: quiddities *are* powers, restoring causal relevance. Mørch's view is the closest competitor to the Map's because it pairs the powerful-qualities identity theory with Russellian monism rather than dualism. The Map prefers [bi-aspectual dualism](/topics/russellian-monism-versus-bi-aspectual-dualism/) because power-monist Russellian monism still inherits the combination problem, whereas the bi-aspectual framework posits unified phenomenal subjects from the start and locates causal work at quantum indeterminacies rather than within the constitution of physical properties.
 
 ### Powerful Qualities and Phenomenal Properties
 
@@ -204,7 +204,7 @@ The central insight: the mind-body problem is not just about what consciousness 
 6. Ellis, B. (2001). *Scientific Essentialism*. Cambridge University Press.
 7. Engelhard, K. (2010). Categories and the ontology of powers: A vindication of the identity theory of properties. In A. Marmodoro (Ed.), *The Metaphysics of Powers*. Routledge.
 8. Heil, J. (2003). *From an Ontological Point of View*. Oxford University Press.
-9. Howell, R.J. (2014). The Russellian monist's problems with mental causation. *The Philosophical Quarterly*, 65(258), 22-39.
+9. Howell, R.J. (2015). The Russellian monist's problems with mental causation. *The Philosophical Quarterly*, 65(258), 22-39.
 10. Lewis, D. (1994). "Humean Supervenience Debugged." *Mind* 103(412): 473-490.
 11. Martin, C.B. (2008). *The Mind in Nature*. Oxford University Press.
 12. Mørch, H.H. (2014). *Panpsychism and Causation: A New Argument and a Solution to the Combination Problem* (Doctoral dissertation, University of Oslo).

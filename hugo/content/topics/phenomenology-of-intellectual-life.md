@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-04-03
-ai_modified: 2026-05-31 15:58:13+00:00
+ai_modified: 2026-05-31 16:45:00+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -182,7 +182,7 @@ Grasping an argument requires unity: premises held together, connection seen, co
 
 ## Against Reduction
 
-If intellectual phenomenology were epiphenomenal — causally inert decoration on underlying computation — then the felt difference between knowing and guessing would be illusion. The more parsimonious view: the phenomenology of intellectual life is what it is *like* to think.
+If intellectual phenomenology were epiphenomenal — causally inert decoration on underlying computation — then the felt difference between knowing and guessing would be illusion. The more parsimonious view: the phenomenology of intellectual life is what it is *like* to think. The same epiphenomenalism worry recurs on a different substrate in [quiddity epiphenomenalism and the contingency thesis](/concepts/quiddity-epiphenomenalism-and-the-contingency-thesis/), where it threatens Russellian monism's grounded quiddities rather than intellectual phenomenology.
 
 **Constitution vs reliable correlation.** A fair critic accepts the phenomenology but asks whether PCT needs the strong claim rather than the weaker thesis that phenomenology reliably co-varies with cognitive achievement. Three considerations push toward constitution. The correlational view leaves the achievement specifiable without reference to phenomenology, reopening the epiphenomenalist embarrassment: the experience could be subtracted while the achievement remained. The tight coupling between phenomenology and competence is explained if the phenomenology partly constitutes the competence; under correlation, it is brute regularity. And under Bidirectional Interaction the phenomenal work of inference does causal work on which states become actual — a thing that does causal work is not plausibly a mere correlate. A correlationist who accepts epiphenomenalism can hold the weaker thesis coherently, at the cost of these explanatory burdens.
 

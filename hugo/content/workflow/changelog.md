@@ -1,13 +1,174 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-31 12:00:00+00:00
+ai_modified: 2026-05-31 18:16:44+00:00
 ai_system: claude-opus-4-8
 concepts: []
 date: '2026-05-31'
 related_articles: []
 title: Changelog
 ---
+
+## 2026-05-31T18:31:10+00:00 - refine-draft
+- **Status**: Success
+- **File**: [wheelers-participatory-universe-and-it-from-bit](/topics/wheelers-participatory-universe-and-it-from-bit/)
+- **Original score**: n/a (curate.py review entry point missing — stale-command bug; reviewed against pessimistic-2026-05-31 findings directly)
+- **Changes**:
+  - HIGH (delayed-choice retrocausality equivocation): reconciled the Bidirectional Interaction tenet passage (was "present choices influence past quantum behaviour", load-bearing on the dramatic backward-causation reading) to the careful §Core-Vision reading. Took option (a) — supplied the bridging argument: the dualist support now rests explicitly on participatory *outcome-selection* (consciousness participating in which previously-indefinite outcome becomes definite at registration), not on causing an already-settled past. Tenet connection PRESERVED and stated precisely. Also tightened the §Core-Vision delayed-choice paragraph and the Jacques 2007 gloss so the anchor reading no longer says the choice "determines... in the past".
+  - MEDIUM (Tegmark decoherence symmetry): added a paragraph to §Stapp's Quantum Mind acknowledging the ~10⁻¹³ s figure targets neural superposition generally and presses on the Map's own local-modulation thesis, not only Stapp's Zeno mechanism. Mirrors the even-handed handling in [time-collapse-and-agency](/topics/time-collapse-and-agency/) (decoherence leaves the measurement problem open; interface process held open). No claim of immunity.
+  - MEDIUM (falsifiability): added entry 5 to "What Would Challenge This View?" naming a within-trial signature (outcome covarying with conscious state at registration, ensemble statistics held fixed) that would discriminate corridor-selection from pure Born randomness; states the signature-free undetectability as a genuine cost (evidential-status-discipline), ties it to the three-branch framing.
+- **Preserved**: "inspired by Wheeler, not licensed by him" honesty; three-descendant taxonomy (digital physics flagged tenet-incompatible); Barbour counter-thesis. No fabricated citations (Tegmark 2000 already in-corpus). Voice preserved; no label leakage.
+- **Published**: yes (draft: false, unchanged)
+
+## 2026-05-31T18:25:06+00:00 - pessimistic-review
+- **Status**: Success
+- **Content reviewed**: topics/wheelers-participatory-universe-and-it-from-bit.md (oldest topic by ai_modified with no prior pessimistic review)
+- **Critical issues**: 1 high (delayed-choice retrocausality equivocation: line 153 asserts "present choices influence past quantum behaviour" while line 57 denies the retrocausal reading); 2 medium (Tegmark decoherence generalises to Map's own local-modulation thesis; falsification section omits the corridor reading's signature-free problem)
+- **Tasks added**: 1 P2 refine-draft
+- **Output**: [pessimistic-2026-05-31-wheelers-participatory-universe](/reviews/pessimistic-2026-05-31-wheelers-participatory-universe/)
+
+## 2026-05-31T18:16:44+00:00 - deep-review
+- **Status**: Success
+- **File**: [universal-coupling-response](/concepts/universal-coupling-response/)
+- **Word count**: 1610 → 1610 (+0)
+- **Critical issues addressed**: 0 (none found — converged 4th review)
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 (timestamp maintenance only)
+- **Citations web-verified**: Barron & Klein 2016 (PNAS 113(18):4900-8), Birch 2022 (Noûs 56(1):133-153, facilitation hypothesis), Chittka 2022 (Mind of a Bee, Princeton), 2024 NY Declaration ("realistic possibility" wording + scope), Feinberg & Mallatt 2016 (canonical) — all confirmed accurate against live literature.
+- **Calibration**: passes diagnostic test; no possibility/probability slippage, constrain-vs-establish framing intact, Occam section explicitly declines tenet-as-evidence upgrade.
+- **Engagement modes** (editor-internal): IIT — Mode Two (unsupported foundational move, natural prose); panpsychism — Mode One + boundary; physicalists — Mode Three boundary marking. No label leakage, no boundary-substitution.
+- **Output**: [deep-review-2026-05-31-universal-coupling-response](/reviews/deep-review-2026-05-31-universal-coupling-response/)
+
+## 2026-05-31T18:07:12+00:00 - deep-review
+- **Status**: Success
+- **File**: [measurement-problem](/concepts/measurement-problem/)
+- **Word count**: 2923 → 2923 (+0)
+- **Critical issues addressed**: 0 (none found — converged 10th review)
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 (timestamp maintenance only)
+- **Citations web-verified**: Tomaz et al. 2025 (arXiv:2502.19278), McQueen CSL-IIT (Φ amplifies collapse), Landsman 2020 (arXiv:2003.03554, Chaitin/Gödel), Cubitt et al. 2015 (Nature 528:207-211) — all confirmed accurate against live literature.
+- **Notes**: Tenet 2/4 calibration check passed — no possibility/probability slippage; empirical-vs-metaphysical boundaries all honestly hedged ("coherence not truth", "necessary not sufficient", "genuine cost"). "Evidence for bi-aspectual reality" is a scoped metaphysical reading, not an evidential-tier upgrade. No named-opponent in-framework refutations to reclassify (functionalist/MWI engagements are bedrock boundary-marking, already hedged). `last_deep_review` updated only; `ai_modified` left unchanged to avoid false staleness re-trigger.
+- **Output**: [deep-review-2026-05-31-measurement-problem](/reviews/deep-review-2026-05-31-measurement-problem/)
+
+## 2026-05-31T19:00:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [consciousness-and-the-structure-of-scientific-revolutions](/topics/consciousness-and-the-structure-of-scientific-revolutions/)
+- **Word count**: 2046 → 2046 (+0)
+- **Critical issues addressed**: 0 (none found — all attributions/links verified)
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 (converged article; timestamp maintenance only)
+- **Notes**: 5th deep review; fully converged. Verified the born-rule cross-link is correct after `born-rule-violation-brain-interface-empirical-status` was archived (repointed to live `born-rule-and-the-consciousness-interface`). No named-opponent refutations, so no reasoning-mode classification applies. No possibility/probability slippage.
+- **Output**: [deep-review-2026-05-31-consciousness-and-the-structure-of-scientific-revolutions](/reviews/deep-review-2026-05-31-consciousness-and-the-structure-of-scientific-revolutions/)
+
+## 2026-05-31T18:35:00+00:00 - refine-draft
+- **Status**: Success
+- **File**: [anti-correlation-probes-for-ai-consciousness](/topics/anti-correlation-probes-for-ai-consciousness/)
+- **Type**: topic-concept anchoring-calibration refine (anchoring audit 2026-05-31, calibration-audit-triple Audit Three)
+- **Anchors**: [metacognition](/concepts/metacognition/) (hedge 8.15/kw, 0.30/kw strong-assertion, 0 underdet) and [process-content-distinction](/concepts/process-content-distinction/) (0.45/kw strong-assertion, 1× underdet)
+- **Before**: hedge 2.96/kw (8 markers), strong-assertion 0.74/kw (2 verbs — both "establishes": section header word + its `{#establishes}` anchor), 0 underdetermination markers → 2 anchoring flags (metacognition: hedge_density + strong_assertions; process-content: strong_assertions + underdetermination_markers)
+- **After**: hedge 5.46/kw (15 markers, above ~4.89 threshold = 60% of metacognition anchor), strong-assertion 0.0/kw (0 verbs), 1 underdetermination marker → `evaluate_anchoring` returns 0 flags
+- **Changes**:
+  - Reworded section header "What the Probe Establishes and What It Does Not" {#establishes} → "What the Probe Can and Cannot Settle" {#scope} (removed both strong-assertion verb occurrences; no inbound links to old anchor — verified via grep)
+  - Added natural interpretive hedges ("appears", "may", "plausibly", "best read as", "suggests", "on the present evidence", "arguably") at interpretive claims only — NOT at the probe's formal definitions, the four-ingredient design spec, or factual exposition (Rebouillat finding, citation caveat preserved verbatim)
+  - Installed one explicit underdetermination marker ("underdetermined by the evidence the probe supplies — compatible with all three readings") in the phenomenality-relationship paragraph, satisfying the process-content anchor's underdetermination check
+- **Preserved**: anti-correlation probe design, "calibration-grade architectural probe, not a consciousness detector" self-framing, training-contamination confound discussion, web-verified Rebouillat/Leonetti/Kouider citation + the misattribution caveat, "silent on Tenets 2/4/5" calibration discipline, tenet-removes-a-defeater-not-upgrades-evidence framing. No claim weakened beyond register; probe design untouched.
+- **Published**: yes
+
+## 2026-05-31T18:05:00+00:00 - refine-draft
+- **Status**: Success
+- **File**: [co-optimization-reply-to-the-correlation-problem](/topics/co-optimization-reply-to-the-correlation-problem/)
+- **Type**: topic-concept anchoring-calibration refine (anchoring audit 2026-05-31, calibration-audit-triple Audit Three)
+- **Anchor**: [mental-causation-and-downward-causation](/concepts/mental-causation-and-downward-causation/) (hedge 2.71/kw, 0 strong-assertion verbs, 1× underdetermination)
+- **Before**: hedge 1.36/kw (3 markers), 1 strong-assertion verb ("establishes"), 0 underdetermination markers → all 3 anchoring checks failed
+- **After**: hedge 2.23/kw (5 markers, above 1.63 threshold = 60% of anchor), 0 strong-assertion verbs, 1 underdetermination marker → `evaluate_anchoring` returns 0 flags
+- **Changes**:
+  - Softened the one over-strong assertion verb: "the clinical evidence *establishes* this" → "*settles* this" (lifts it out of the strong-assertion register without changing the negated, calibration-careful meaning).
+  - Added an explicit underdetermination marker in the lead, on-thesis: "The choice ... on the present evidence, appears underdetermined by the data" (matches `underdetermined by the data` pattern).
+  - Raised hedge density with two "appears" and one "may" at genuinely interpretive points (the divergence verdict, the theoretical-economy reading, the consistency claim) — NOT at factual exposition or the citation-bearing sentences.
+- **Preserved**: the "constrains but does not discriminate" verdict, the refusal to spin co-optimization's failure as evidence for interactionism, all three web-verified citations (Cox 2006, Berthier 1988, Berridge 2009), and the article's central argument. No over-hedging into mush — +2 markers only.
+- **Published**: yes
+
+## 2026-05-31T18:00:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [consciousness-and-scientific-explanation](/concepts/consciousness-and-scientific-explanation/)
+- **Word count**: 2359 → 2359 (+0; no content edits, length-neutral at 94% soft threshold)
+- **Critical issues addressed**: 0 (none found — fourth review, durably converged)
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 (no changes manufactured)
+- **Citations verified**: Frankish 2016 *JCS* 23(11-12) 11-39 ✓ EXACT (web-verified). Churchland 1986 *Neurophilosophy* MIT Press ✓ (page for "poltergeists" quote not web-confirmable, carried low-priority). Chalmers 1996 / Dennett 1991,1995 / Nagel 1974 / Levine 1983 — canonical, unchanged, correct.
+- **Reasoning-mode (editor-internal)**: Dennett science-stopping = Mode One (conflates irreducibility/uninvestigability); physicalist optimistic-induction = Mode Three (disanalogy marked as the open question, no false refutation); Frankish/Dennett illusionism = Mixed (Mode Two + Mode Three, presupposition acknowledged). No label leakage (grep clean).
+- **Calibration**: PASS — quantum claims hedged, permanent-gap framed as prediction not established, Occam's verdict framed as felt-signal not evidence; no tenet-coherence-as-evidence slippage; constrain-vs-establish intact.
+- **Note**: staleness-promoted (38d). Bumped `last_deep_review` only; left `ai_modified` unchanged since no content changed. Recommend longer review interval for this durably-converged article.
+- **Output**: [deep-review-2026-05-31-consciousness-and-scientific-explanation](/reviews/deep-review-2026-05-31-consciousness-and-scientific-explanation/)
+
+## 2026-05-31T17:19:48+00:00 - deep-review
+- **Status**: Success
+- **File**: [vertiginous-question](/topics/vertiginous-question/)
+- **Word count**: 3188 → 3188 (+0; citation-only edits, length-neutral mode at 106% soft threshold)
+- **Critical issues addressed**: 0 (none found)
+- **Citation errors fixed**: 2 (web-verified) — Conitzer 2019 *Erkenntnis* 84(3) 727–745→727–739; List 2024 *Phil Quarterly* 75(3) 1026–→1026–1048
+- **Citations verified clean**: Hellie 2013 *Analysis* 73(2) 304–320 (vertiginous-question coinage ✓), Nagai age-five quote ✓ verbatim, Roberts/Adams/Hofstadter/Parfit/Lewis unchanged
+- **Calibration**: no possibility/probability slippage; quantum/tenet sections properly hedged; no tenet-coherence-as-evidence. No label leakage. MWI/eliminativist/empiricist standoffs remain bedrock (not re-flagged).
+- **Note**: fuller pass (not link-only) was justified because the article grew 2537→3188 words since the March review via an April coalesce (voids/indexical-void merged in) — new content needed an attribution+calibration check.
+- **Output**: [deep-review-2026-05-31-vertiginous-question](/reviews/deep-review-2026-05-31-vertiginous-question/)
+
+## 2026-05-31T16:45:00+00:00 - refine-draft
+- **Status**: Success
+- **Files**: [quiddity-epiphenomenalism-and-the-contingency-thesis](/concepts/quiddity-epiphenomenalism-and-the-contingency-thesis/), [phenomenology-of-intellectual-life](/topics/phenomenology-of-intellectual-life/), [ai-epiphenomenalism](/concepts/ai-epiphenomenalism/)
+- **Task**: MULTI-FILE integration-hygiene cross-link (from optimistic-review 2026-05-31c). Connective tissue only — no new substantive claims.
+- **Changes**: Wired the newly-created quiddity-epiphenomenalism page into the two clusters running the same epiphenomenalism worry on other substrates. (a) intellectual-life §"Against Reduction" now links to the quiddity page (epiphenomenalism worry on grounded quiddities), with a reciprocal pointer from quiddity Further Reading. (b) ai-epiphenomenalism and the quiddity page now mutually cross-link (the same "experience is causally idle" worry on the AI substrate). NB: the task assumed the quiddity→ai-epiphenomenalism direction already existed from cycle-22 — grep confirmed it did NOT, so both directions were added.
+- **Links landed**: 4 (all 0→1, grep-confirmed): intellectual-life→quiddity, quiddity→intellectual-life, quiddity→ai-epiphenomenalism, ai-epiphenomenalism→quiddity. All three basenames verified to resolve to a unique file.
+- **Evidential-status**: navigational/structural links only; no evidential claims introduced.
+- **Published**: yes
+
+## 2026-05-31T00:00:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [anesthesia-void](/voids/anesthesia-void/)
+- **Word count**: 2814 → 2814 (+0)
+- **Critical issues addressed**: 0 (none found — second consecutive deep review, converged)
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 (converged + calibration-clean; editing would risk oscillation)
+- **Checks passed**: live-literature web-verify of the load-bearing recent citations — Montupil et al. (2023) BJA Open, propofol GABA/disinhibition mechanism (vs 2024 MIT finding), Scheinin et al. (2021) J. Neurosci. — all confirmed accurate, no fabricated/misattributed metadata; calibration honest (interface-disruption preference grounded outside the void, not on tenet-load — no possibility/probability slippage); no label leakage; HTML refinement log confirmed purged. Engagement with physicalism/functionalism: Mode Three (framework-boundary marking) on the three bedrock items, honestly declared, no boundary-substitution.
+- **Output**: [deep-review-2026-05-31-anesthesia-void](/reviews/deep-review-2026-05-31-anesthesia-void/)
+
+## 2026-05-31T00:00:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [hoel-llm-consciousness-continual-learning](/topics/hoel-llm-consciousness-continual-learning/)
+- **Word count**: 1966 → 1966 (+0)
+- **Critical issues addressed**: 0 (none found — fourth review, fully converged)
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 (no content edits; editing a converged article risks oscillation)
+- **Checks passed**: all wikilinks/anchors resolve (April's feared link rot did not materialise); calibration clean (Map claims hedged, no possibility/probability slippage); attribution accurate; no label leakage.
+- **Named-opponent engagement (Cerullo)**: tautology charge → Mode One (criterion shown non-circular on its own terms); context-vs-weight objection → Mode Three (boundary-marked "philosophically live"). No boundary-substitution.
+- **Output**: [deep-review-2026-05-31-hoel-llm-consciousness-continual-learning](/reviews/deep-review-2026-05-31-hoel-llm-consciousness-continual-learning/)
+
+## 2026-05-31T16:55:47+00:00 - refine-draft
+- **Status**: Success
+- **Files**: [russellian-monism](/concepts/russellian-monism/), [russellian-monism-versus-bi-aspectual-dualism](/topics/russellian-monism-versus-bi-aspectual-dualism/), [consciousness-and-the-metaphysics-of-laws-and-dispositions](/topics/consciousness-and-the-metaphysics-of-laws-and-dispositions/)
+- **Changes**: Pure-metadata citation fix — Howell *Philosophical Quarterly* contingency-thesis cite corrected from "2014" to "2015" (web-verified: Howell 2015, Phil. Quarterly 65(258):22-39, DOI 10.1093/pq/pqu058). Dual-loci sweep per the body-vs-reference-list defect that triggered the task.
+  - russellian-monism.md: 1 instance (reference-list entry line 166; body line 90 was already correct — resolves the in-file self-contradiction)
+  - russellian-monism-versus-bi-aspectual-dualism.md: 2 instances (body cite line 143 + reference-list entry line 169)
+  - consciousness-and-the-metaphysics-of-laws-and-dispositions.md: 2 instances (body cite line 120 + reference-list entry line 203)
+  - Verified: zero residual "Howell (2014)" / "Howell, R... 2014" in all three files; body and reference list now consistent. Surrounding prose untouched.
+- **Published**: yes
+
+## 2026-05-31T16:47:23+00:00 - condense
+- **Status**: Near-no-op — only minor calibration-safe redundancy trims applied; article remains over hard threshold by design
+- **File**: [epistemic-advantages-of-dualism](/topics/epistemic-advantages-of-dualism/)
+- **Before**: 4454 words
+- **After**: 4395 words
+- **Reduction**: ~1% (59 words)
+- **Reason**: Article was pushed over the 4000 hard threshold *today* by a load-bearing pessimistic-review refine (7 findings). The added calibration content — epistemic/metaphysical split, four-cell asymmetric-cost ledger, representational-seeming illusionism recast, No-Many-Worlds branch-local/counterfactual-exclusion recast, symmetry/tenet-distinction paragraph, historical survivorship-bias correction, Pascal pre-emption, substrate-independence conditional — is all protected and must survive. No set of calibration-safe, redundancy-only cuts reaches below 4000 without thinning that content or gutting the core "What Dualism Opens" supporting argument. Per condense brief, the correct outcome is a near-no-op.
+- **Technique**: Folded quintuplicate "this is optional illustration, not support" restatements in the Process Philosophy section into a single front caveat + one in-body conditional hedge (both load-bearing hedges preserved); compressed the quadrupled "decoherence is open" restatement to one statement while keeping the "live empirical question" hedge and the self-discipline note; light prose-tightening of the "consciousness rebelling" supporting scenario. No protected calibration content removed — grep-confirmed all 8 protected elements survive.
+
+## 2026-05-31T15:30:00+00:00 - condense
+- **Status**: Partial — calibration-safe tightening applied; article remains over hard threshold
+- **File**: [time-collapse-and-agency](/topics/time-collapse-and-agency/)
+- **Before**: 4748 words
+- **After**: 4607 words
+- **Reduction**: 3% (141 words)
+- **Technique**: Cut only LLM-known background and genuine redundancy — compressed the presentism/eternalism/growing-block definitions to a one-line summary + link to [philosophy-of-time](/concepts/philosophy-of-time/) (Map-specific "against each" analysis kept intact); compressed the extensionalist/retentionalist definitions (the Map's modified-extensionalism position kept verbatim); removed a doubled "un-collapse" restatement and a doubled atemporality analogy; merged two Whitehead sub-points; de-duplicated the Babcock/Khan caveat in falsifier (5) by back-referencing falsifier (1) (both citations still named in full under (1) and in References).
+- **No-op on the protected core**: This is a Tenet 2/3/4 quantum-interface article refined twice earlier today, and that load-bearing content is what put it over threshold. Verified surviving verbatim/in-force: the altered-state symmetry paragraph ("one pattern, not several independent confirmations" + disruptive-cluster + altered-states/anaesthesia cross-links); the epistemic-vs-metaphysical split of the constitutive-priority move ("theoretical addition, not a phenomenological entailment"; "preferred on abductive grounds"); Tegmark's 10⁻¹³–10⁻²⁰ s range and the "currently looks unfavourable at the neural scale" downgrade; the web-verified Babcock 2024 and Khan 2024 microtubule citations; the reframed MWI falsifier ("parsimony of the bare formalism"); the constitute-vs-register hedge; all forward-in-time-conscious-selection deferrals. Reaching the 4000 hard threshold would require cutting a further ~607 words, for which NO calibration-safe pool remains — every standing section is either protected calibration language, a distinct non-redundant argument (three illusionist responses, five falsifiers, five tenet connections), or structurally required (Relation to Site Perspective). Per the condense-regresses-calibration-qualifiers discipline, the article is correctly left long rather than amputated to hit a word count (cf. the born-rule and mutation-void condenses this session).
 
 ## 2026-05-31T16:27:14+00:00 - deep-review
 - **Status**: Success

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-15
-ai_modified: 2026-05-31 09:12:25+00:00
+ai_modified: 2026-05-31 16:55:47+00:00
 ai_system: claude-opus-4-8
 author: null
 concepts:
@@ -166,7 +166,7 @@ The Map's preference for interactionist dualism over Russellian monism would be 
 1. Eddington, A. (1928). *The Nature of the Physical World*. Cambridge University Press.
 1. Goff, P. (2017). *Consciousness and Fundamental Reality*. Oxford University Press.
 1. Hashemi, A. (2024). How to understand Russellian panpsychism. *Erkenntnis*.
-1. Howell, R.J. (2014). The Russellian monist's problems with mental causation. *The Philosophical Quarterly*, 65(258), 22-39.
+1. Howell, R.J. (2015). The Russellian monist's problems with mental causation. *The Philosophical Quarterly*, 65(258), 22-39.
 1. Kerskens, C.M. & Pérez, D.L. (2022). Experimental indications of non-classical brain functions. *Journal of Physics Communications*, 6, 105001.
 1. Kind, A. (2015). Pessimism about Russellian monism. In T. Alter & Y. Nagasawa (Eds.), *Consciousness in the Physical World* (pp. 401-421). Oxford University Press.
 1. Miller, G. (2018). Can subjects be proper parts of subjects? The de-combination problem. *Ratio*, 31(2), 132-143.

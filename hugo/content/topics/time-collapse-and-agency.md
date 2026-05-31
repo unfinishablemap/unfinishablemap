@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-16
-ai_modified: 2026-05-31 14:05:00+00:00
+ai_modified: 2026-05-31 15:30:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -59,19 +59,11 @@ The Map's [tenets](/tenets/) make several claims bearing on time:
 
 The Map also explores [forward-in-time alternatives](/topics/forward-in-time-conscious-selection/) (Penrose-Hameroff, Stapp, Chalmers-McQueen), and does not require the retrocausal pathway. This article develops the retrocausal/atemporal route in detail because it most tightly couples agency to time's structure; the alternatives are tracked in the comparative article.
 
-Together: consciousness selects real collapses that introduce irreversibility, yet this selection operates atemporally. There's apparent tension here. Let's work through it.
+Together: consciousness selects real collapses that introduce irreversibility, yet this selection operates atemporally. Working through that apparent tension is the task below.
 
 ## Presentism, Eternalism, and the Block Universe
 
-Philosophy of time offers three major positions:
-
-**Presentism** holds that only the present exists. Past events are gone; future events haven't happened yet. Time genuinely flows as the present moves along. This matches naive experience—the past feels over, the future open.
-
-**Eternalism** (the "block universe") holds that all times exist equally. Past, present, and future are like spatial locations—2024 exists just as 2026 does, merely at a different position in the block. The flow of time is illusory; "now" is merely indexical, like "here."
-
-**Growing block** theory holds that past and present exist, but the future doesn't yet. The block grows as time passes, with the present as its leading edge.
-
-The Map's framework sits uncomfortably with all three.
+Philosophy of time offers three major positions (developed in [philosophy-of-time](/concepts/philosophy-of-time/)): **presentism** (only the present exists; time genuinely flows), **eternalism** (the "block universe"—all times exist equally, flow is illusory, "now" is merely indexical like "here"), and **growing block** (past and present exist but the future doesn't yet; the block grows with the present as its leading edge). The Map's framework sits uncomfortably with all three.
 
 **Against pure presentism**: Retrocausality requires the past to be causally accessible in some sense. If past events are simply gone, backward causation has nothing to influence. The transactional interpretation describes offer waves from the past and confirmation waves from the future meeting in atemporal handshakes. This requires past and future to be "there" in some metaphysical sense.
 
@@ -100,11 +92,7 @@ Time's arrow doesn't precede consciousness; consciousness-involving collapse cre
 
 The tension: if selection is atemporal, how is collapse irreversible?
 
-Resolution: "atemporal" doesn't mean "outside time" as if time were a container. It means time itself is the product. The selection isn't reversible because there's no temporal direction to reverse along until after selection occurs. You can't "un-collapse" because un-collapse would require running time backward, but time's direction is what collapse establishes.
-
-A mathematical function can determine which curve appears on a graph without itself being on the graph. Consciousness's atemporal selection determines which temporal sequence becomes real without itself being a temporal event.
-
-Once a transaction completes—once collapse has occurred—the temporal direction exists. Within that direction, collapse is irreversible. You can't return to the superposition because "returning" presupposes the temporal direction that collapse just created.
+Resolution: "atemporal" doesn't mean "outside time" as if time were a container. It means time itself is the product. There's no temporal direction to reverse along until after selection occurs—you can't "un-collapse" because un-collapse would require running time backward, but time's direction is what collapse establishes. (A mathematical function can determine which curve appears on a graph without itself being on the graph; consciousness's atemporal selection determines which temporal sequence becomes real without itself being a temporal event.)
 
 This dissolves the apparent paradox. Retrocausality operates within the physics before collapse creates temporal direction. Once direction exists, backward causation isn't reversal but constraint satisfaction—future conditions participating in determining which past becomes actual. After collapse, the selected past is simply the past. The alternatives weren't suppressed; they were never actualized.
 
@@ -114,9 +102,7 @@ If consciousness constitutes time through collapse, what should this feel like? 
 
 **The [specious present](/concepts/temporal-consciousness/)**: [Temporal experience](/concepts/temporal-consciousness/) has duration—roughly 100 milliseconds to 3 seconds depending on methodology—within which we experience succession as unified. This isn't clock-time (which has durationless instants) but lived time.
 
-The debate between extensionalists (Dainton, Foster) and retentionalists (Husserl, Broad) about the specious present bears directly on the framework. Extensionalists hold that experience is genuinely temporally extended—has parts at different times. Retentionalists hold that each moment is instantaneous but contains the past as intentional content (retention) and anticipates the future (protention).
-
-The Map adopts a modified extensionalism: experience is genuinely extended, with the extension constituted through quantum collapse. Each collapse creates a "moment"; the specious present is the experiential horizon within which recent collapses remain unified. This explains both the extended phenomenology (extensionalism) and the retention-like structure (retentionalism)—the echoing of the past in the present reflects retrocausal boundary conditions in the collapse process. The [temporal phenomenology of quantum selection](/concepts/temporal-consciousness/) develops this mapping, proposing that retention, primal impression, and protention correspond to collapsed, collapsing, and uncollapsed quantum states.
+The extensionalist/retentionalist debate about the specious present bears directly on the framework: extensionalists (Dainton, Foster) hold that experience is genuinely temporally extended; retentionalists (Husserl, Broad) hold that each instantaneous moment contains the past as intentional content (retention) and anticipates the future (protention). The Map adopts a modified extensionalism: experience is genuinely extended, with the extension constituted through quantum collapse. Each collapse creates a "moment"; the specious present is the experiential horizon within which recent collapses remain unified. This explains both the extended phenomenology (extensionalism) and the retention-like structure (retentionalism)—the echoing of the past in the present reflects retrocausal boundary conditions in the collapse process. The [temporal phenomenology of quantum selection](/concepts/temporal-consciousness/) develops this mapping, proposing that retention, primal impression, and protention correspond to collapsed, collapsing, and uncollapsed quantum states.
 
 If consciousness is actively constituting temporal structure, the specious present may be the phenomenology of this constitutive activity. The framework proposes that we experience duration *because* we constitute it—though the phenomenology alone does not establish this. That we experience an extended, asymmetric present is equally predicted by an account on which consciousness experiences a duration it does not create; the constitution reading is a theoretical addition, not a phenomenological entailment (this distinction is drawn out under [Dualism](#relation-to-site-perspective) below). The variation in duration estimates (100ms-3s) may reflect multiple components—a core perceptual window where collapses unify, embedded in a broader experiential horizon where constraints propagate.
 
@@ -134,11 +120,9 @@ If consciousness is actively constituting temporal structure, the specious prese
 
 A careful reader might object: if consciousness selects "across time," doesn't it have to exist across all the times it's selecting among? How can a consciousness at t₃ select outcomes at t₁?
 
-The question presupposes what's being denied. There is no consciousness "at t₃" separate from the temporal structure it helps constitute. Consciousness isn't located at times within a pre-existing temporal framework; it's implicated in why there are times at all.
+The question presupposes what's being denied. There is no consciousness "at t₃" separate from the temporal structure it helps constitute. Consciousness isn't located at times within a pre-existing temporal framework; it's implicated in why there are times at all—just as the number 7 isn't located at a position on the number line but is part of what constitutes it.
 
-This isn't mysticism—it's structural. Consider: the number 7 isn't located at a position on the number line; it's part of what constitutes the number line. Similarly, consciousness may not be located at a moment in time; it may be part of what constitutes temporal structure.
-
-The phenomenology reconciles this with experience. We seem to experience moments sequentially because that's what it's like to constitute temporal sequence from within. The "selection" isn't experienced as a choice made from outside time but as the activity of living through time—what Bergson called the creative advance of durée.
+This reconciles with experience. We seem to experience moments sequentially because that's what it's like to constitute temporal sequence from within. The "selection" isn't experienced as a choice made from outside time but as the activity of living through time—what Bergson called the creative advance of durée.
 
 ## The Decoherence Challenge
 
@@ -172,13 +156,11 @@ Alfred North Whitehead's process philosophy offers a complementary framework. Fo
 
 **Relevance to the framework:**
 
-*Collapse as concrescence.* Whitehead's "concrescence"—the process by which an occasion achieves definiteness—parallels quantum collapse. Before concrescence, indeterminate; after, a settled fact available for prehension by successors. If consciousness participates in collapse, it participates in concrescence—the fundamental process by which temporal structure accretes.
+*Collapse as concrescence.* Whitehead's "concrescence"—the process by which an occasion achieves definiteness—parallels quantum collapse: before, indeterminate; after, a settled fact available for prehension by successors. If consciousness participates in collapse, it participates in concrescence, the process by which temporal structure accretes.
 
-*[Atemporal](/concepts/atemporal-causation/) selection as creative synthesis.* Each actual occasion synthesises its inputs from a standpoint that isn't "in" time but constitutes time. The occasion's subjective aim guides synthesis toward particular outcomes—matching the framework's claim that consciousness selects atemporally.
+*[Atemporal](/concepts/atemporal-causation/) selection as creative synthesis.* Each actual occasion synthesises its inputs from a standpoint that isn't "in" time but constitutes time; the occasion's subjective aim guides synthesis toward particular outcomes—matching the framework's claim that consciousness selects atemporally. Whitehead's occasions are also experiential quanta with internal structure rather than durationless instants, resonating with Bergson's [durée](/concepts/temporal-consciousness/) and the specious present as constitutive activity.
 
-*Duration as experiential extension.* Whitehead's actual occasions aren't durationless instants but experiential quanta with internal structure. This resonates with Bergson's [durée](/concepts/temporal-consciousness/) and the framework's treatment of the specious present as constitutive activity.
-
-*Haecceity and indexical identity.* Each actual occasion has a [haecceity](/concepts/haecceity/)—a primitive thisness that makes it *this* occasion rather than any other. *This* consciousness making *this* selection creates *this* temporal structure. The particularity cannot be eliminated without losing what selection explains. This is the same [indexical gap](/topics/indexical-identity-quantum-measurement/) that persists across quantum interpretations—the question of why *this* subject experiences *this* outcome—now applied to temporal becoming.
+*Haecceity and indexical identity.* Each actual occasion has a [haecceity](/concepts/haecceity/)—a primitive thisness that makes it *this* occasion rather than any other. *This* consciousness making *this* selection creates *this* temporal structure. The particularity cannot be eliminated without losing what selection explains. This is the same [indexical gap](/topics/indexical-identity-quantum-measurement/) that persists across quantum interpretations—why *this* subject experiences *this* outcome—now applied to temporal becoming.
 
 ## Implications for Free Will
 
@@ -220,7 +202,7 @@ The framework makes commitments that could be empirically challenged:
 
 **4. Contemplative contradictions.** If trained contemplatives systematically reported that temporal experience doesn't match the framework's predictions—if cessation involved normal time perception, or witness consciousness felt accelerated rather than suspended—this would undermine phenomenological support. The available reports (e.g. the altered time-perception of deep concentrative states catalogued in the contemplative-science literature, and the sub-second temporal discriminations of trained introspectors documented by Fox et al. 2012) are broadly consistent with the predictions; but the strength of this falsifier is limited because the alignment lives in the elastic interpretation layer (any reported temporal phenomenology can be re-mapped onto more or less active selection), and because the disruptive altered states make the parallel prediction available to production accounts (see Contemplative Evidence above). This remains an empirical question whose discriminating power is weaker than convergence-talk suggests.
 
-**5. Decoherence timescales conclusively ruled out.** If experiments definitively demonstrated that no quantum effects survive in neural tissue at any relevant timescale—not in microtubules, not in nuclear spins, not through Zeno mechanisms—the physical basis would fail. Current evidence is mixed: some recent work (Babcock et al. 2024; Khan et al. 2024) has revisited quantum optical effects in microtubules, but these results concern laboratory preparations and behaviour rather than coherence in the intact brain, and do not establish that functionally relevant quantum effects survive at neural timescales.
+**5. Decoherence timescales conclusively ruled out.** If experiments definitively demonstrated that no quantum effects survive in neural tissue at any relevant timescale—not in microtubules, not in nuclear spins, not through Zeno mechanisms—the physical basis would fail. Current evidence is mixed: the recent microtubule work cited under (1) (Babcock et al. 2024; Khan et al. 2024) revisits quantum optical effects but concerns laboratory preparations and behaviour rather than coherence in the intact brain, and does not establish that functionally relevant quantum effects survive at neural timescales.
 
 The framework is not unfalsifiable. It makes commitments that ongoing physics and neuroscience could confirm or refute.
 
