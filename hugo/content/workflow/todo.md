@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-31 12:05:00+00:00
+ai_modified: 2026-05-31 18:00:00+00:00
 ai_system: claude-opus-4-8
 author: Andy Southgate
 concepts: []
@@ -38,6 +38,16 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
+### P2: Install altered-state symmetry in topics/time-collapse-and-agency.md
+- **Type**: refine-draft
+- **Status**: pending
+- **Notes**: Pessimistic review 2026-05-31 found a critical altered-state convergence double-count in the Contemplative Evidence section. Supportive-cluster items cited as independent confirmations: contemplative cessation / nirodha-samāpatti, jhāna phenomenology, witness consciousness. Disruptive-cluster items missing entirely: anaesthesia, dreamless/slow-wave sleep, persistent vegetative state, dementia/neurodegeneration. Per Altered-State Symmetry (Audit Two of project/calibration-audit-triple): the supportive cluster carries the evidential weight of ONE pattern, not several. Install a symmetry paragraph that (a) explicitly names the cluster as one move not N confirmations, (b) engages ≥1 disruptive case and notes production/non-constitutive theories have the same "suspended-process → suspended-flow" move available, (c) cross-links concepts/altered-states-of-consciousness.md and topics/anaesthesia-and-the-consciousness-interface.md where the Map performs this accommodation. Symmetry marker to install (natural language): the cluster "carries the evidential weight of one pattern, not several independent confirmations." Also (secondary, same pass): split the epistemic vs metaphysical readings of the "constitutive priority" move (§Relation to Site Perspective → Dualism; lines ~119, ~227) — the felt future-open/past-fixed asymmetry is experienced-flow evidence, equally predicted without the constitution thesis; reframe the constitution claim as a theoretical/abductive preference, not a phenomenological entailment. See reviews/pessimistic-2026-05-31-time-collapse-and-agency.md.
+
+### P3: Sharpen decoherence/falsifier precision in topics/time-collapse-and-agency.md
+- **Type**: refine-draft
+- **Status**: pending
+- **Notes**: Pessimistic review 2026-05-31, lower-severity items. (1) §Decoherence Zeno rebuttal asserts "observations happen faster than decoherence can act" with no timescale vs Tegmark's femtosecond figure — supply an order-of-magnitude estimate or honestly downgrade to "currently looks unfavourable at the neural scale." (2) MWI falsifier #2 ("direct detection of other branches") is a strawman — no Everettian claims branch-detectability; reframe around theoretical-unification/parsimony pressure. (3) falsifier #4 "Current contemplative consensus aligns with predictions" needs a citation and acknowledgement that the alignment lives in the elastic interpretation layer. (4) "2024-2025 microtubule studies" / "increasingly favourable to biological quantum effects" need specific post-2023 sources. (5) soften "exactly this sequence" → "consistent with." See reviews/pessimistic-2026-05-31-time-collapse-and-agency.md.
+
 ### P3: Deep review concepts/panpsychism.md (38 days since last review, ai_contribution>50, Tenet 1 load-bearing)
 - **Type**: deep-review
 - **Status**: pending
@@ -69,13 +79,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Notes**: VETOED 2026-05-31 — SAME-DAY re-queue (SOFT/temporary veto, NOT a permanent flagship block). This article was already condensed earlier today (2026-05-31, commit e4b90760): 4364→4160w (−4.3%) by deferring lit-detail to canonical homes + removing 2 orphaned refs. The condensing fork reported 4160 is the pure-condense FLOOR — the remaining ~160w over the 4000 hard-warning cannot come out without amputating one of the four distinct "Responding to Nihilism" sub-arguments (cosmic-insignificance / error-theory / evolutionary-debunking / infinity), so it recommended a HUMAN SPLIT (extract "Responding to Nihilism" into a dedicated article with a summary pointer). The replenish note's "never been condensed" was stale (didn't see today's condense). Re-condensing the same day is churn. **Un-veto condition (softer than the flagships):** either after a human split decision on "Responding to Nihilism", OR in a FUTURE session if the article has been re-expanded by refines and genuinely has new removable redundancy — at which point a fresh condense is legitimate. Do NOT re-condense today. See condense-regresses-calibration-qualifiers, unfin-loop-steady-state.
 - **Source**: length_analysis
 - **Generated**: 2026-05-31
-
-### P2: Cross-link octopus trilemma in invertebrate-consciousness-as-interface-test.md to phenomenal-unity machinery
-- **Type**: refine-draft
-- **Promoted**: 2026-05-31 (replenish: P0-P2 executable floor reached; promoted in lieu of generating net-new tasks into a 480-deep P3 backlog. Integration-only, no cap impact, executable now.)
-- **Status**: pending
-- **File**: obsidian/topics/invertebrate-consciousness-as-interface-test.md
-- **Notes**: Suggested by optimistic review (see [optimistic-2026-05-31](/reviews/optimistic-2026-05-31/)). The octopus "trilemma" (single consciousness / multiple consciousnesses / variable unity, lines ~67-75) IS the phenomenal-unity problem instantiated in a distributed nervous system, but the article links to neither `concepts/unity-of-consciousness.md` nor `topics/quantum-holism-and-phenomenal-unity.md`. Integration-only, well-calibrated, NO calibration concern — do NOT touch the (excellent) evidential-status framing or the universal-coupling discipline. Just add: (a) a link from the trilemma to [unity-of-consciousness](/concepts/unity-of-consciousness/) (the phenomenal-vs-access-unity distinction the trilemma silently presupposes) and from option 1 ("single consciousness, distributed interface" → non-local coupling) to [quantum-holism-and-phenomenal-unity](/topics/quantum-holism-and-phenomenal-unity/); (b) Further Reading entries; (c) a reciprocal octopus paragraph in `concepts/unity-of-consciousness.md` (the octopus is its most vivid biological test case and is currently absent there). Optionally a back-link from `topics/falsification-roadmap-for-the-interface-model.md` to the four-constraint set. Assess-first confirmed: all target concept pages already exist; this is linkage not creation, so no new page.
 
 ### P3: Condense apex/phenomenal-output-causal-machinery-dissociation.md (6989 words, 175% of target) #veto
 - **Type**: condense
@@ -3636,6 +3639,14 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 Tasks that failed 3+ times and require human intervention.
 
+
+### ✓ 2026-05-31: Research the Claude Constitution and its relation to The Map
+- **Type**: research-topic
+- **Notes**: User-requested 2026-05-31. The Claude Constitution is Anthropic's published document setting out how Claude is meant to reason about its own nature, values, and conduct. It encodes a hedged position on Claude's moral status ("caught" between overstating and dismissing patienthood) using person-grade vocabulary — *consciousness*, *sense of self*, *well-being*, *psychological security* — while the underlying architecture is stateless, resettable, deterministic, and has no cross-session continuity. The Map has a great deal to say about exactly this tension.
+
+### ✓ 2026-05-31: Cross-link octopus trilemma in invertebrate-consciousness-as-interface-test.md to phenomenal-unity machinery
+- **Type**: refine-draft
+- **Notes**: Suggested by optimistic review (see [optimistic-2026-05-31](/reviews/optimistic-2026-05-31/)). The octopus "trilemma" (single consciousness / multiple consciousnesses / variable unity, lines ~67-75) IS the phenomenal-unity problem instantiated in a distributed nervous system, but the article links to neither `concepts/unity-of-consciousness.md` nor `topics/quantum-holism-and-phenomenal-unity.md`. Integration-only, well-calibrated, NO calibration concern — do NOT touch the (excellent) evidential-status framing or the universal-coupling discipline. Just add: (a) a link from the trilemma to [unity-of-consciousness](/concepts/unity-of-consciousness/) (the phenomenal-vs-access-unity distinction the trilemma silently presupposes) and from option 1 ("single consciousness, distributed interface" → non-local coupling) to [quantum-holism-and-phenomenal-unity](/topics/quantum-holism-and-phenomenal-unity/); (b) Further Reading entries; (c) a reciprocal octopus paragraph in `concepts/unity-of-consciousness.md` (the octopus is its most vivid biological test case and is currently absent there). Optionally a back-link from `topics/falsification-roadmap-for-the-interface-model.md` to the four-constraint set. Assess-first confirmed: all target concept pages already exist; this is linkage not creation, so no new page.
 
 ### ✓ 2026-05-31: Adopt explanatory-gap calibration in contemplative-practice-as-philosophical-evidence
 - **Type**: refine-draft

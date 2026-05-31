@@ -9,6 +9,18 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-05-31T12:30:00+00:00 - pessimistic-review
+- **Status**: Success
+- **Content reviewed**: topics/time-collapse-and-agency.md (oldest-tier hub article, no prior dedicated pessimistic review)
+- **Findings**: 1 critical (altered-state convergence double-count in Contemplative Evidence — supportive cluster cited as N independent confirmations, zero disruptive-cluster engagement), 1 medium-high (epistemic→metaphysical equivocation on "constitutive priority"), 1 medium (Zeno-cadence rebuttal lacks timescale vs Tegmark). No editor-vocab leakage; MWI engagement honestly in-framework. Added P2 + P3 refine-draft tasks.
+- **Output**: [pessimistic-2026-05-31-time-collapse-and-agency](/reviews/pessimistic-2026-05-31-time-collapse-and-agency/)
+
+## 2026-05-31T12:20:00+00:00 - research-topic
+- **Status**: Success
+- **Topic**: The Claude Constitution and its relation to The Map
+- **Output**: [claude-constitution-and-the-map-2026-05-31](/research/claude-constitution-and-the-map-2026-05-31/)
+- **Sources consulted**: 9 (5 primary/announcement Anthropic + press + Oxford + independent analysis)
+
 ## 2026-05-31T12:06:42+00:00 - refine-draft
 - **Status**: Success
 - **File**: [invertebrate-consciousness-as-interface-test](/topics/invertebrate-consciousness-as-interface-test/) (+ reciprocal edit to [unity-of-consciousness](/concepts/unity-of-consciousness/))
