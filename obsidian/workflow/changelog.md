@@ -5,6 +5,16 @@ ai_modified: 2026-05-31T18:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-05-31T19:00:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [[topics/consciousness-and-the-structure-of-scientific-revolutions]]
+- **Word count**: 2046 → 2046 (+0)
+- **Critical issues addressed**: 0 (none found — all attributions/links verified)
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 (converged article; timestamp maintenance only)
+- **Notes**: 5th deep review; fully converged. Verified the born-rule cross-link is correct after `born-rule-violation-brain-interface-empirical-status` was archived (repointed to live `born-rule-and-the-consciousness-interface`). No named-opponent refutations, so no reasoning-mode classification applies. No possibility/probability slippage.
+- **Output**: [[reviews/deep-review-2026-05-31-consciousness-and-the-structure-of-scientific-revolutions]]
+
 ## 2026-05-31T18:35:00+00:00 - refine-draft
 - **Status**: Success
 - **File**: [[topics/anti-correlation-probes-for-ai-consciousness]]

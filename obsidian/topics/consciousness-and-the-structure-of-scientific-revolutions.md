@@ -4,8 +4,8 @@ description: "Applying Kuhn's framework to consciousness studies reveals physica
 created: 2026-03-11
 modified: 2026-04-23
 human_modified:
-ai_modified: 2026-05-26T00:00:00+00:00
-last_deep_review: 2026-04-23T17:55:00+00:00
+ai_modified: 2026-05-31T00:00:00+00:00
+last_deep_review: 2026-05-31T00:00:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
