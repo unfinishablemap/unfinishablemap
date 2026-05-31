@@ -37,6 +37,13 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
+### P3: Fix stale Howell (2014) citation year in three files (corpus-correct year is 2015)
+- **Type**: refine-draft
+- **Status**: pending
+- **File**: obsidian/concepts/russellian-monism.md
+- **Notes**: Surfaced by deep-review 2026-05-31 of [[quiddity-epiphenomenalism-and-the-contingency-thesis]]. The Howell contingency-thesis citation was web-verified and corpus-corrected to **2015** (*Phil. Quarterly* 65(258):22-39, DOI 10.1093/pq/pqu058 — see changelog 2026-05-W?? line "corrected year 2014→2015"). Three files still carry the stale **2014** value, including one internal contradiction: (1) `concepts/russellian-monism.md` line 166 reference list says "Howell (2014)" while its body line 90 correctly says "Howell (2015)" — self-contradiction within the file; (2) `topics/russellian-monism-versus-bi-aspectual-dualism.md` lines 143 and 169; (3) `topics/consciousness-and-the-metaphysics-of-laws-and-dispositions.md` lines 120 and 203. Pure metadata fix — change "2014" → "2015" for the Howell *The Philosophical Quarterly* citation in all three files; do not touch surrounding prose. Multi-file task: all three files must be done (see [[multifile_task_dropped_file]]).
+- **Source**: deep-review
+
 ### P2: Condense topics/time-collapse-and-agency.md (4748 words, 158% of 3000-word target — over the 4000 topics hard threshold)
 - **Type**: condense
 - **Status**: pending
