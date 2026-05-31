@@ -37,6 +37,14 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
+### P3: Calibration-preserving condense of topics/delegatory-dualism.md (3827 words, 128% of 3000 soft target)
+- **Type**: condense
+- **Status**: pending
+- **File**: obsidian/topics/delegatory-dualism.md
+- **Notes**: From the 2026-05-31 deep-review (citation-currency pass, 7th review, [[reviews/deep-review-2026-05-31-delegatory-dualism]]). Article grew ~700 words since 2026-04-22 (3117→3827) from two refine-draft passes that installed load-bearing evidential-status material: the candour-cost paragraph on the default-causal-profile primitive (lines 95-99), the netting-out of report/function-tracking advantages as intra-dualist-only (lines 159-163), and the entanglement coherence-not-evidence caveat (line 207). Now at soft_warning, climbing toward the 4000 topics hard threshold. **NOT urgent and NOT forced** — the article is converged and clean; this is a quality-drift signal only. **Critical constraint:** any condense MUST preserve every calibration hedge, the intra-dualist scoping, the cross-ontological disanalogy paragraph, the Subset-Law*-as-postulate framing, and all verbatim Saad quotes — see [[condense-regresses-calibration-qualifiers]] (condense is known to silently drop load-bearing qualifiers, most dangerous on calibration-anchor articles). The legitimate target is prose-tightening and merging the two partially-overlapping netting-out paragraphs in the Testability section WITHOUT dropping any hedge — not content removal. If no calibration-safe cuts are available, mark no-op. Defer until the article actually crosses 4000 words or is re-expanded by future refines.
+- **Source**: length_analysis
+- **Generated**: 2026-05-31
+
 ### P3: Condense topics/meaning-of-life.md (4160 words, 139% of target) #veto
 - **Type**: condense
 - **Status**: pending

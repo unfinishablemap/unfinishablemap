@@ -5,6 +5,21 @@ ai_modified: 2026-05-31T00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-05-31T08:30:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [[topics/delegatory-dualism]]
+- **Word count**: 3827 → 3827 (no content edits; length-neutral, near-no-op on a converged article — 7th deep review + 1 outer review)
+- **Mode**: Citation-currency pass (standing cycle guidance)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 (frontmatter timestamps only)
+- **Citation web-verify**: **Saad (2020) "An exclusion problem for epiphenomenalist dualism," *Thought* 9(4), 247-256** — VERIFIED CLEAN against the Philosophy Documentation Center primary record (tht_2020_0009_0004_0247_0256) + PhilPapers (SAAAEP); sole author, all metadata exact; this niche, least-previously-verified cite is load-bearing for the "epiphenomenalism is self-undermining" argument and its source conclusion (Saad argues epiphenomenalist dualism faces its own exclusion problem) supports the use. Cross-corpus divergence grep on all four Saad author/years: corpus-consistent with the research note's paper table; Saad (2025) Phil Studies 182(3) 939-967 / DOI 02290-3 (central source, previously web-verified, five constraints correctly Saad's not Chalmers/McQueen), Saad (2018) 175(10) 2475-2506, Saad (2020) neural-discernment 177(4) 1061-1077, Chalmers 1996 / Kim 2005 canonical. No recurrence of the historical Vaassen→Saad misattribution (article doesn't cite that paper).
+- **Engagement classifications (editor-internal)**: physicalist — Mode Two (concedes physicalism's cheaper self-modelling/state-identity explanation "without the extra ontology", honestly boundary-marks the residue, no in-framework-refutation overclaim); illusionist — Mode Three (premise-denial standoff, honestly noted); eliminativist — Mode Three (folk-category determinacy recorded as an open question the framework owes work on). No boundary-substitution; no label leakage in prose.
+- **Calibration**: No possibility/probability slippage. The ~700 words grown since the last review (3117→3827, from two refine passes) are load-bearing evidential-status material that scopes delegation's advantages as intra-dualist-only and labels the Subset Law* a *postulate* — they prevent slippage rather than commit it. Diagnostic test: a tenet-accepting reviewer would NOT flag any claim as overstated.
+- **Link integrity**: all 8 spot-checked wikilinks resolve to live obsidian/ pages; [[entanglement-binding-hypothesis]] and [[observational-closure]] resolve to their LIVE concepts/ versions (stale same-slug archive copies exist but are out of the sync path — no link rot). No cliché, no label leakage.
+- **Length note**: 128% of soft target, under 4000 hard threshold — queued a P3 calibration-preserving condense follow-on (deferred, not forced; must preserve all hedges per [[condense-regresses-calibration-qualifiers]]).
+- **Output**: [[reviews/deep-review-2026-05-31-delegatory-dualism]]
+
 ## 2026-05-31T10:27:56+00:00 - deep-review
 - **Status**: Success
 - **File**: [[voids/self-maintained-cognitive-limits]]
