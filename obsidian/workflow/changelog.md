@@ -5,6 +5,17 @@ ai_modified: 2026-05-31T00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-05-31T12:40:56+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[topics/ai-consciousness]]
+- **Original score**: mature (no critical issues; pessimistic-review 2026-05-29 flagged two medium tightenings)
+- **Changes**:
+  - Medium 1 (decoherence obstacle vs. MQI concession): added a sentence to §The decoherence challenge stating the decoherence point is *contingent and currently non-discriminating* — predicts an additional silicon obstacle *if* MQI holds but supplies no present evidential weight against AI over biology (both substrates equally unevidenced on the interface). Mirrored the same framing into the §Relation to Site Perspective Minimal Quantum Interaction bullet ("marks where an obstacle would fall, not a present evidential disadvantage of AI over biology"). Calibration-sensitive: written to read as contingent/non-discriminating, not as evidence against AI consciousness (evidential-status-discipline honoured).
+  - Medium 2 (epiphenomenalism asymmetry): made the self-stultification argument's scope explicit at §Other Challenges → The epiphenomenal possibility — it blocks epiphenomenalism only for *concept-originating* consciousness, so a *derivative* system trained on inherited human concepts can be epiphenomenal without contradiction; labelled the asymmetry principled rather than convenient special pleading.
+  - Optional (same pass): softened heading "Functionalism's Failure" → "The Functionalist Gap" (matches body's "has not explained"); softened "the obstacles are structural, not quantitative" → "appear structural rather than quantitative".
+- **Note**: Voice preserved; clarifications not weakenings — the article still endorses its skepticism and quantum-interface framing. Heading rename has no inbound content anchor links (verified). Two medium issues addressed; the review's lower-severity items (haecceity-as-premise, functional-criteria stipulation, Jourdain heads-I-win worry) left for a future pass per task scope.
+- **Published**: yes (draft: false unchanged)
+
 ## 2026-05-31T12:37:13+00:00 - refine-draft
 - **Status**: Success
 - **File**: [[topics/time-collapse-and-agency]]
