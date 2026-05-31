@@ -4,7 +4,7 @@ description: "Quantum mechanics' central puzzle: why measurement yields definite
 created: 2026-01-14
 modified: 2026-01-16
 human_modified: null
-ai_modified: 2026-04-28T00:42:00+00:00
+ai_modified: 2026-05-31T19:53:51+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -30,7 +30,7 @@ concepts:
   - "[[qbism]]"
   - "[[self-stultification]]"
   - "[[concepts/epiphenomenalism]]"
-  - "[[consciousness-in-non-collapsed-quantum-states]]"
+  - "[[consciousness-in-smeared-quantum-states]]"
   - "[[quantum-completeness]]"
   - "[[von-neumann-wigner-interpretation]]"
 related_articles:
@@ -140,7 +140,7 @@ Conscious observation precipitates collapse. Von Neumann's formalism permits pla
 
 Wigner's friend scenarios sharpen this: Frauchiger and Renner (2018) derive contradictions when observers apply quantum mechanics to each other, and the local friendliness theorem (Bong et al. 2020) shows that definite outcomes for the observer, superposition for an outsider, and mutual compatibility cannot all hold.
 
-Albert and Loewer identified the root issue: the measurement problem is really the *determinate-experience problem*. Brains should enter superposition, yet [[consciousness-in-non-collapsed-quantum-states|conscious experience is never superposed]]. Consciousness has a constitutive determinacy that physical systems lack. If consciousness participates in collapse, it acts *on* the superposition from experiential definiteness rather than entering it.
+Albert and Loewer identified the root issue: the measurement problem is really the *determinate-experience problem*. Brains should enter superposition, yet [[consciousness-in-smeared-quantum-states|conscious experience is never superposed]]. Consciousness has a constitutive determinacy that physical systems lack. If consciousness participates in collapse, it acts *on* the superposition from experiential definiteness rather than entering it.
 
 ### The Multi-Observer Coordination Problem
 

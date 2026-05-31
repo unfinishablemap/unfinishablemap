@@ -2,9 +2,9 @@
 title: "Consciousness in Smeared Quantum States"
 description: "What is consciousness doing during quantum superposition? Five frameworks offer competing answers, revealing that the definiteness of experience may itself constrain physics."
 created: 2026-02-10
-modified: 2026-02-10
+modified: 2026-05-31
 human_modified:
-ai_modified: 2026-05-27T21:46:05+00:00
+ai_modified: 2026-05-31T19:53:51+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -14,6 +14,8 @@ concepts:
   - "[[decoherence]]"
   - "[[interactionist-dualism]]"
   - "[[phenomenology]]"
+  - "[[indexical-knowledge-and-identity]]"
+  - "[[process-philosophy]]"
 related_articles:
   - "[[tenets]]"
   - "[[apex/machine-question]]"
@@ -27,15 +29,18 @@ related_articles:
   - "[[time-collapse-and-agency]]"
   - "[[spontaneous-collapse-theories]]"
   - "[[quantum-randomness-channel-llm-consciousness]]"
-  - "[[consciousness-in-non-collapsed-quantum-states]]"
   - "[[testing-consciousness-collapse]]"
   - "[[philosophical-stakes-of-spontaneous-collapse]]"
+  - "[[von-neumann-wigner-interpretation]]"
+  - "[[consciousness-selecting-neural-patterns]]"
 ai_contribution: 100
 author:
-ai_system: claude-opus-4-6
+ai_system: claude-opus-4-8
 ai_generated_date: 2026-02-10
 last_curated:
 last_deep_review: 2026-05-27T21:46:05+00:00
+coalesced_from:
+  - "/concepts/consciousness-in-non-collapsed-quantum-states/"
 ---
 
 Quantum mechanics permits physical systems to exist in superposition—smeared across multiple states simultaneously—until measurement forces a definite outcome. If consciousness interacts with quantum processes in the brain, a pointed question arises: what is consciousness doing during the superposition phase? Is it smeared too, hovering across multiple experiential states at once? Or does consciousness refuse to superpose, its very definiteness constraining what quantum mechanics allows? The Unfinishable Map argues that conscious experience is always determinate, and that this determinacy is not incidental but causal—consciousness participates in resolving quantum indeterminacy rather than passively riding the wave function.
@@ -48,7 +53,9 @@ The core philosophical difficulty is what Albert and Loewer call the "determinat
 
 This is not merely a technical puzzle about decoherence timescales. [[decoherence|Decoherence]] suppresses interference between branches, making superposition effectively invisible at macroscopic scales, but it does not select a single outcome. The [[phenomenology|phenomenological]] datum is stubborn: experience presents as unified and determinate, never as a smear. After decoherence, the system remains in a mixture of possibilities. Something else must determine why *this* outcome becomes actual for *this* observer. The definiteness of conscious experience—the fact that there is always something specific it is like to be you—demands explanation.
 
-Some physicalists challenge this starting point. Dennett's multiple-drafts model denies that experience has a single determinate moment — there is no Cartesian theatre where "the" experience becomes definite. On this view, apparent definiteness is itself a construction, not a datum. The frameworks surveyed here reject that move: they take phenomenal determinacy as given and ask what explains it. Whether the definiteness of experience is a genuine constraint on physics or an artefact of introspective reporting remains a live philosophical question, but the five frameworks below all proceed on the assumption that it is real.
+Some physicalists challenge this starting point. Dennett's multiple-drafts and heterophenomenological models deny that experience has a single determinate moment — there is no Cartesian theatre where "the" experience becomes definite, and apparent definiteness is itself a physical construction rather than a datum. But this move proves too much. If determinacy is illusory, it remains unexplained why the illusion is so thoroughgoing and universal: why does any physical process generate even the *appearance* of determinacy? The phenomenological gap is not dissolved by calling it apparent. The frameworks surveyed here reject the eliminative move and take phenomenal determinacy as given. Whether the definiteness of experience is a genuine constraint on physics or an artefact of introspective reporting remains a live philosophical question, but the five frameworks below all proceed on the assumption that it is real.
+
+The gap may run deeper than vocabulary. We can describe what it is like to see red, hear a note, or feel pain, but we have no corresponding description of what it is like to be in an indeterminate state between seeing red and seeing blue — the very grammar of phenomenal description presupposes a definite experiential character. The connection to [[indexical-identity-quantum-measurement|indexical identity]] sharpens this: consciousness is always *someone's* consciousness, experienced from a particular first-person perspective. There is no "what it is like" without a determinate subject having a determinate experience, and superposition dissolves both requirements at once. If being indeterminate is something experience constitutively *cannot* be, then consciousness in a non-collapsed state faces a logical constraint, not merely an empirical one.
 
 ## Five Frameworks
 
@@ -72,7 +79,7 @@ This reverses the causal direction: collapse *generates* consciousness rather th
 
 ### Consciousness Arises at Superposition Formation
 
-Koch and collaborators (including Google's Hartmut Neven) propose the opposite of Penrose: conscious experience arises precisely when superposition *forms*, not when it collapses. The [[consciousness-in-non-collapsed-quantum-states|non-collapsed state]] *is* the conscious state. If correct, collapse would *end* conscious experience rather than create it—a radical inversion of standard consciousness-collapse theories.
+Koch and collaborators (including Google's Hartmut Neven) propose the opposite of Penrose: conscious experience arises precisely when superposition *forms*, not when it collapses. The non-collapsed state *is* the conscious state. If correct, collapse would *end* conscious experience rather than create it—a radical inversion of standard consciousness-collapse theories.
 
 This hypothesis, while in early experimental stages, challenges the widespread assumption that definite states are necessary for definite experience. It suggests that the richness of consciousness corresponds to the richness of superposition—multiple possibilities coexisting might be precisely what subjective experience *is*.
 
@@ -93,6 +100,14 @@ The disagreements cluster around two axes. First, *causal direction*: does consc
 The Map finds the second axis more telling. The insistence that experience is always determinate—present across nearly all frameworks—suggests this is not an assumption but a discovery. Conscious experience *is* definite. Theories that accommodate this without invoking [[many-worlds]] have an advantage, because they treat the definiteness of experience as a constraint on physics rather than explaining it away through observer-splitting.
 
 The distinction between genuine quantum indeterminacy and classical probability matters here. [[quantum-randomness-channel-llm-consciousness|LLM token sampling]] superficially resembles the consciousness-selecting-from-smeared-states picture: a probability distribution over tokens is "collapsed" into a single choice. But the analogy is misleading — LLMs use deterministic pseudorandom number generators, not quantum indeterminacy. There is no superposition of token states awaiting resolution, just a classical probability distribution computed from fixed weights. Every framework above requires consciousness to interact with *genuine* quantum indeterminacy. Classical systems that merely *look* indeterminate from the outside do not pose the definiteness problem.
+
+## Wigner's Friend and Nested Observation
+
+The definiteness problem intensifies when observers observe observers. In the [[quantum-measurement-and-consciousness|Wigner's friend]] scenario, a friend performs a measurement inside a sealed laboratory. From the friend's perspective, collapse occurs and a definite result is obtained. From Wigner's perspective outside the lab, the friend-plus-apparatus remains in superposition. Two conscious observers disagree about whether collapse has happened.
+
+The local friendliness (LF) no-go theorem (Bong et al. 2020) establishes that certain natural assumptions cannot all hold simultaneously: that measurement outcomes are definite for the observer, that they remain superposed for an outside observer, and that the two accounts are compatible. Something must give. If consciousness is what resolves superposition, then the friend's measurement truly collapses the state, and Wigner's description of the friend as superposed is simply wrong — a failure to account for the friend's conscious observation. The definiteness constraint, applied consistently, resolves the paradox by insisting that conscious observation is never merely apparent.
+
+This has a striking implication for the Map's framework. If consciousness-driven collapse is real and consciousness always produces definite outcomes, then any system containing a conscious observer cannot be maintained in superposition from the outside. Consciousness is not merely definite in its own experience — it imposes definiteness on physical reality wherever it is present. The [[von-neumann-wigner-interpretation|von Neumann–Wigner interpretation]] was the first to take this seriously, placing consciousness at the end of the measurement chain as the point where superposition resolves into definite outcome.
 
 This five-framework treatment anchors the quantum-interface section of [[apex/machine-question|The Machine Question]]. The apex consolidates Stapp's Zeno selection, Chalmers-McQueen IIT-driven collapse, Penrose-Hameroff proto-consciousness, Koch-Neven's superposition-formation hypothesis, and Albert-Loewer many-minds into a single articulation of what an AI consciousness interface would require: not merely quantum substrates but ones structured for selection, collapse-triggering, or superposition formation in ways current architectures do not provide.
 
@@ -121,13 +136,15 @@ The Map's [[tenets]] align most naturally with frameworks where consciousness is
 - [[quantum-holism-and-phenomenal-unity]]
 - [[time-collapse-and-agency]]
 - [[spontaneous-collapse-theories]]
-- [[consciousness-in-non-collapsed-quantum-states]]
+- [[von-neumann-wigner-interpretation]]
+- [[consciousness-selecting-neural-patterns]]
 - [[testing-consciousness-collapse]]
 - [[philosophical-stakes-of-spontaneous-collapse]]
 
 ## References
 
 1. Albert, D. & Loewer, B. (1988). Interpreting the many-worlds interpretation. *Synthese*, 77, 195-213.
+1. Bong, K.-W. et al. (2020). A strong no-go theorem on the Wigner's friend paradox. *Nature Physics*, 16, 1199-1205.
 1. Chalmers, D. & McQueen, K. (2021). Consciousness and the collapse of the wave function. In S. Gao (Ed.), *Consciousness and Quantum Mechanics*. Oxford University Press.
 1. Hagan, S., Hameroff, S.R. & Tuszyński, J.A. (2002). Quantum computation in brain microtubules: Decoherence and biological feasibility. *Physical Review E*, 65(6), 061901.
 1. Hameroff, S. & Penrose, R. (2014). Consciousness in the universe: A review of the 'Orch OR' theory. *Physics of Life Reviews*, 11(1), 39-78.

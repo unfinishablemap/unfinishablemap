@@ -80,7 +80,7 @@ Six sympathetic personas examined the article's strengths, with specific attenti
 
 ### Cross-links Added
 
-- [consciousness-in-non-collapsed-quantum-states](/concepts/consciousness-in-non-collapsed-quantum-states/) — The pre-collapse phase: what consciousness does during superposition
+- [consciousness-in-non-collapsed-quantum-states](/topics/consciousness-in-smeared-quantum-states/) — The pre-collapse phase: what consciousness does during superposition
 
 ## Remaining Items
 

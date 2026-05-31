@@ -1,8 +1,11 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-22
-ai_modified: 2026-05-27 21:46:05+00:00
+ai_modified: 2026-05-31 19:53:51+00:00
 ai_system: claude-opus-4-7
+archive_reason: Coalesced into Consciousness in Smeared Quantum States
+archived: true
+archived_date: 2026-05-31 19:53:51+00:00
 author: null
 concepts:
 - '[[quantum-consciousness]]'
@@ -20,6 +23,7 @@ human_modified: null
 last_curated: null
 last_deep_review: 2026-05-15 09:31:00+00:00
 modified: *id001
+original_path: /concepts/consciousness-in-non-collapsed-quantum-states/
 related_articles:
 - '[[tenets]]'
 - '[[quantum-measurement-and-consciousness]]'
@@ -31,6 +35,7 @@ related_articles:
 - '[[von-neumann-wigner-interpretation]]'
 - '[[consciousness-selecting-neural-patterns]]'
 - '[[process-philosophy]]'
+superseded_by: /topics/consciousness-in-smeared-quantum-states/
 title: Consciousness in Non-Collapsed Quantum States
 topics:
 - '[[consciousness-in-smeared-quantum-states]]'

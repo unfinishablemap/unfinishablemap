@@ -70,7 +70,7 @@ All attributions verified in previous reviews and remain accurate:
 4. [penrose-gravity-induced-collapse-empirical-prospects](/topics/penrose-gravity-induced-collapse-empirical-prospects/) — added after mechanism comparison
 5. [bidirectional-interaction](/concepts/bidirectional-interaction/) — added characterisation of three mechanisms as non-retrocausal
 6. [trilemma-of-selection](/topics/trilemma-of-selection/) — added in mechanism question context
-7. [consciousness-in-non-collapsed-quantum-states](/concepts/consciousness-in-non-collapsed-quantum-states/) — added after third logical possibility
+7. [consciousness-in-non-collapsed-quantum-states](/topics/consciousness-in-smeared-quantum-states/) — added after third logical possibility
 8. [quantum-neural-timing-constraints](/topics/quantum-neural-timing-constraints/) — added to Further Reading
 9. [differential-predictions-consciousness-collapse](/topics/consciousness-collapse-experimental-landscape/) — added to Further Reading
 

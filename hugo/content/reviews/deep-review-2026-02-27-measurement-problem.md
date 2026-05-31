@@ -31,7 +31,7 @@ None. Article remains factually accurate with no misattributions, internal contr
 ### Medium Issues Found
 
 1. **Missing definiteness constraint concept** (Issue #1): The consciousness-in-non-collapsed-quantum-states article introduces the "definiteness constraint" (Albert & Loewer's "determinate-experience problem") — that consciousness has constitutive determinacy that physical systems lack. This directly strengthens the Observer Problem section's argument but was absent.
-   - *Resolution*: Added Albert & Loewer framing and definiteness constraint to Observer Problem section with cross-link to [consciousness-in-non-collapsed-quantum-states](/concepts/consciousness-in-non-collapsed-quantum-states/).
+   - *Resolution*: Added Albert & Loewer framing and definiteness constraint to Observer Problem section with cross-link to [consciousness-in-non-collapsed-quantum-states](/topics/consciousness-in-smeared-quantum-states/).
 
 2. **Missing Bong et al. (2020) LF no-go theorem** (Issue #2): The Observer Problem section cited Frauchiger-Renner (2018) but not the stronger Bong et al. (2020) local friendliness theorem, which the cross-review article references and which sharpens the Wigner's friend argument.
    - *Resolution*: Added LF theorem reference and citation.
@@ -71,7 +71,7 @@ All six adversarial personas re-engaged. No new issues beyond those identified i
 
 ### Cross-links Added
 
-- [consciousness-in-non-collapsed-quantum-states](/concepts/consciousness-in-non-collapsed-quantum-states/) — The pre-collapse phase and definiteness constraint (frontmatter, inline, Further Reading)
+- [consciousness-in-non-collapsed-quantum-states](/topics/consciousness-in-smeared-quantum-states/) — The pre-collapse phase and definiteness constraint (frontmatter, inline, Further Reading)
 
 ## Length Management
 

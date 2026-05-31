@@ -5,6 +5,14 @@ ai_modified: 2026-05-31T19:40:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-05-31T19:53:51+00:00 - coalesce
+- **Status**: Success
+- **Sources**: [[concepts/consciousness-in-non-collapsed-quantum-states]], [[topics/consciousness-in-smeared-quantum-states]]
+- **Target**: [[topics/consciousness-in-smeared-quantum-states]] (merged into existing survey; the apex anchor and richer five-framework piece)
+- **Archived**: [[archive/concepts/consciousness-in-non-collapsed-quantum-states]]
+- **Rationale**: Both articles opened with the identical question ("what is consciousness doing during superposition?"), shared Albert-Loewer's determinate-experience problem, the definiteness constraint, Stapp Zeno, Chalmers-McQueen Φ-collapse, Penrose proto-consciousness, Koch-Neven, the decoherence/timing objection, and parallel Relation-to-Site-Perspective sections. They cross-referenced each other and were co-edited (shared ai_modified). Merged the concept page's distinctive material (Dennett heterophenomenology rebuttal, indexical-identity grammar-of-determinacy point, Wigner's friend + local-friendliness no-go theorem, von-Neumann-Wigner framing) into the survey; added Bong et al. 2020 reference.
+- **References to review**: 2 active referrers repointed in-place at archive time (concepts/measurement-problem.md, concepts/quantum-consciousness.md — 4 wikilinks total) → consciousness-in-smeared-quantum-states; 1 stale Koch-section self-link in target unlinked. No follow-up task needed.
+
 ## 2026-05-31T19:40:00+00:00 - deep-review
 - **Status**: Success
 - **File**: [[topics/phenomenology-of-cognitive-capacity]]

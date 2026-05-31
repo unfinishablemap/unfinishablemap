@@ -4,7 +4,7 @@ description: "How consciousness might interact with quantum mechanics: Orch OR m
 created: 2026-01-09
 modified: 2026-01-25
 human_modified: null
-ai_modified: 2026-05-27T08:30:00+00:00
+ai_modified: 2026-05-31T19:53:51+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -23,7 +23,7 @@ concepts:
   - "[[quantum-biology-and-neural-mechanisms]]"
   - "[[mysterianism]]"
   - "[[binding-problem]]"
-  - "[[consciousness-in-non-collapsed-quantum-states]]"
+  - "[[consciousness-in-smeared-quantum-states]]"
   - "[[quantum-completeness]]"
 related_articles:
   - "[[tenets]]"
@@ -54,7 +54,7 @@ The Map's [[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]] te
 
 The quantum opening addresses [[mental-causation-and-downward-causation|mental causation]]. Kim's exclusion argument concludes that if physical events have sufficient physical causes, mental causes are excluded. But quantum mechanics provides an alternative.
 
-The [[measurement-problem|measurement problem]] asks: what causes superposition collapse? Physics leaves this open—"Decoherence does not tell how and why only one of these outcomes is measured" (Tomaz et al. 2025). At quantum indeterminacies, [[causal-closure|causal closure]] fails: physical causes are necessary but not sufficient. **An important caveat**: this gap may be epistemic rather than ontological—future physics could close it without invoking consciousness. Interpretations like QBism and relational quantum mechanics dissolve the measurement problem without Many Worlds. The Map's position is that collapse is a real physical event requiring a selector, but this is a philosophical commitment, not a settled result. If consciousness determines which outcome occurs, it causes physical events without competing with physical causes. The [[quantum-measurement-and-consciousness|structural parallel between the measurement problem and the hard problem]]—both concerning where first-person facts enter third-person descriptions—suggests these are not separate puzzles but two faces of the mind-matter interface. A further constraint sharpens the point: consciousness appears constitutively definite—unable to enter the indeterminate states that characterise superposition. This [[consciousness-in-non-collapsed-quantum-states|definiteness constraint]] means the selector never follows the brain into indeterminacy, operating from experiential definiteness while resolving the brain's superposed possibilities.
+The [[measurement-problem|measurement problem]] asks: what causes superposition collapse? Physics leaves this open—"Decoherence does not tell how and why only one of these outcomes is measured" (Tomaz et al. 2025). At quantum indeterminacies, [[causal-closure|causal closure]] fails: physical causes are necessary but not sufficient. **An important caveat**: this gap may be epistemic rather than ontological—future physics could close it without invoking consciousness. Interpretations like QBism and relational quantum mechanics dissolve the measurement problem without Many Worlds. The Map's position is that collapse is a real physical event requiring a selector, but this is a philosophical commitment, not a settled result. If consciousness determines which outcome occurs, it causes physical events without competing with physical causes. The [[quantum-measurement-and-consciousness|structural parallel between the measurement problem and the hard problem]]—both concerning where first-person facts enter third-person descriptions—suggests these are not separate puzzles but two faces of the mind-matter interface. A further constraint sharpens the point: consciousness appears constitutively definite—unable to enter the indeterminate states that characterise superposition. This [[consciousness-in-smeared-quantum-states|definiteness constraint]] means the selector never follows the brain into indeterminacy, operating from experiential definiteness while resolving the brain's superposed possibilities.
 
 The Map's [[tenets#^no-many-worlds|No Many Worlds]] tenet rejects the alternative where all outcomes occur in branching universes. See [[concepts/many-worlds]] for five arguments against MWI. The core objection: MWI makes consciousness epiphenomenal. If all outcomes occur, consciousness doesn't select anything—it merely finds itself in a branch. This conflicts with [[tenets#^bidirectional-interaction|Bidirectional Interaction]].
 
@@ -217,7 +217,7 @@ The Map's position is strong emergentism that specifies its mechanism. Mental ca
 **Key concepts:**
 - [[temporal-consciousness]] — What quantum selection feels like from within: the specious present as selection window
 - [[quantum-measurement-and-consciousness]] — The structural parallel between the measurement and hard problems
-- [[consciousness-in-non-collapsed-quantum-states]] — The pre-collapse phase: what consciousness does during superposition
+- [[consciousness-in-smeared-quantum-states]] — The pre-collapse phase: what consciousness does during superposition
 - [[quantum-probability-consciousness]] — Born probabilities as interface structure, not pure subjective belief
 - [[decoherence]] — Analysis of the decoherence challenge
 - [[psychophysical-laws]] — What a coupling law must specify

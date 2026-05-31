@@ -1,13 +1,33 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-31 19:29:31+00:00
+ai_modified: 2026-05-31 19:40:00+00:00
 ai_system: claude-opus-4-8
 concepts: []
 date: '2026-05-31'
 related_articles: []
 title: Changelog
 ---
+
+## 2026-05-31T19:53:51+00:00 - coalesce
+- **Status**: Success
+- **Sources**: [consciousness-in-non-collapsed-quantum-states](/concepts/consciousness-in-non-collapsed-quantum-states/), [consciousness-in-smeared-quantum-states](/topics/consciousness-in-smeared-quantum-states/)
+- **Target**: [consciousness-in-smeared-quantum-states](/topics/consciousness-in-smeared-quantum-states/) (merged into existing survey; the apex anchor and richer five-framework piece)
+- **Archived**: [consciousness-in-non-collapsed-quantum-states](/archive/concepts/consciousness-in-non-collapsed-quantum-states/)
+- **Rationale**: Both articles opened with the identical question ("what is consciousness doing during superposition?"), shared Albert-Loewer's determinate-experience problem, the definiteness constraint, Stapp Zeno, Chalmers-McQueen Φ-collapse, Penrose proto-consciousness, Koch-Neven, the decoherence/timing objection, and parallel Relation-to-Site-Perspective sections. They cross-referenced each other and were co-edited (shared ai_modified). Merged the concept page's distinctive material (Dennett heterophenomenology rebuttal, indexical-identity grammar-of-determinacy point, Wigner's friend + local-friendliness no-go theorem, von-Neumann-Wigner framing) into the survey; added Bong et al. 2020 reference.
+- **References to review**: 2 active referrers repointed in-place at archive time (concepts/measurement-problem.md, concepts/quantum-consciousness.md — 4 wikilinks total) → consciousness-in-smeared-quantum-states; 1 stale Koch-section self-link in target unlinked. No follow-up task needed.
+
+## 2026-05-31T19:40:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [phenomenology-of-cognitive-capacity](/topics/phenomenology-of-cognitive-capacity/)
+- **Word count**: 2617 → 2617 (~0; 87% of 3000 soft threshold)
+- **Critical issues addressed**: 0 — fourth-pass converged; no prose changes
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 — only frontmatter timestamp bumps
+- **Citation verification**: coalesced article (coalesced_from 2 sources), so citations treated as unverified-since-merge per ai-citation-metadata-unreliable. Web-verified 4 load-bearing citations against live literature — all exact: Cowan 2001 BBS 24(1):87-114; Rouder et al. 2008 PNAS 105(16):5975-5979 (DOI 10.1073/pnas.0711295105); Tulving 1985 Can.Psych. 26(1):1-12; Fitts & Posner 1967 Human Performance, Brooks/Cole. No fabricated-since-merge defect. In-text framing faithful (Rouder cited narrowly for discrete ~4-item limit; Fitts & Posner addition correctly attributed to the Map, not the source).
+- **Engagement modes**: no named-opponent replies — functionalism/computational description engaged generically with honest framework-boundary marking. No label leakage. No evidential-status slippage (tenet connections framed as coherence, not evidence-elevation).
+- **Note**: only change since 2026-04-23 review was a mechanical wikilink retarget (choking-phenomenon → empirical-phenomena-mental-causation); prose byte-identical to converged state.
+- **Output**: [deep-review-2026-05-31-phenomenology-of-cognitive-capacity](/reviews/deep-review-2026-05-31-phenomenology-of-cognitive-capacity/)
 
 ## 2026-05-31T19:34:14+00:00 - deep-review
 - **Status**: Success

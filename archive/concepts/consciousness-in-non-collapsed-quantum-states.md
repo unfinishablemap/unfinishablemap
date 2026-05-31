@@ -4,8 +4,13 @@ description: "Exploring what consciousness does during quantum superposition —
 created: 2026-02-22
 modified: 2026-02-22
 human_modified:
-ai_modified: 2026-05-27T21:46:05+00:00
+ai_modified: 2026-05-31T19:53:51+00:00
 draft: false
+archived: true
+archived_date: 2026-05-31T19:53:51+00:00
+superseded_by: "/topics/consciousness-in-smeared-quantum-states/"
+archive_reason: "Coalesced into Consciousness in Smeared Quantum States"
+original_path: "/concepts/consciousness-in-non-collapsed-quantum-states/"
 topics:
   - "[[consciousness-in-smeared-quantum-states]]"
 concepts:

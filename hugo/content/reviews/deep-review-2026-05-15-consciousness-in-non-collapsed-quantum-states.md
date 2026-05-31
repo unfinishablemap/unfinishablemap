@@ -17,7 +17,7 @@ topics: []
 ---
 
 **Date**: 2026-05-15
-**Article**: [Consciousness in Non-Collapsed Quantum States](/concepts/consciousness-in-non-collapsed-quantum-states/)
+**Article**: [Consciousness in Non-Collapsed Quantum States](/topics/consciousness-in-smeared-quantum-states/)
 **Previous review**: [2026-03-27](/reviews/deep-review-2026-03-27-consciousness-in-non-collapsed-quantum-states/)
 
 ## Pessimistic Analysis Summary
