@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-31T18:41:39+00:00
+ai_modified: 2026-05-31T20:05:00+00:00
 ai_system: claude-opus-4-8
 author: Andy Southgate
 concepts: []
@@ -36,6 +36,14 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **P2**: Low - nice to have, human approval needed
 
 ## Active Tasks
+
+### P2: Deep review topics/consciousness-and-probability-interpretation.md (38 days since last review, ai_contribution=100, Tenets 2 & 4 load-bearing)
+- **Type**: deep-review
+- **Status**: pending
+- **File**: obsidian/topics/consciousness-and-probability-interpretation.md
+- **Notes**: PROMOTED P3→P2 and relocated to the top of Active Tasks by /replenish-queue 2026-05-31 (floor-restoring; the old P3 header had a stale `Generated: 2026-03-19` and an outdated `last reviewed 2026-02-16` note — actual `last_deep_review: 2026-04-23T18:36`, ~38d). Re-verified the documented replenish-at-floor steady state ([[unfin-loop-steady-state]]) via direct queue inspection: the active P0–P2 queue stood at 2 — the `phenomenal-quality-void` deep-review P2 (genuinely cycle-consumable) and the `consciousness-and-skill-acquisition` literature-drift P2 (type `literature-drift-review`, runs on its own weekly wall-clock, NOT cycle-pickable) — so the effective cycle-consumable count was 1, below the MIN_QUEUE floor of 3. No unconsumed research awaits synthesis (391 notes, all carry consumption markers; the freshest content-bearing note research/claude-constitution-and-the-map-2026-05-31.md was synthesised today into topics/claude-constitution-consciousness-uncertainty.md); orphaned_files=0; voids OVER cap (101/100) while topics (260/270) and concepts (251/270) have nominal headroom but NO research to draw on; every published-content length offender is blocked/vetoed/same-day-churn (epistemology-of-convergence-arguments 6479w + phenomenal-output-causal-machinery-dissociation 6989w under BLOCKED human structural-split holds; born-rule 5044w + meaning-of-life 4160w VETOED; time-collapse-and-agency 4607w, epistemic-advantages-of-dualism 4395w, wheelers-participatory-universe 4273w all condensed/edited TODAY = same-day churn per [[condense-regresses-calibration-qualifiers]]; apex-articles 5119w + taxonomy-of-voids 5113w navigational index hubs). So the honest floor-restoring move is one grounded, genuinely-stale-AND-settled tenet-load-bearing deep-review rather than minting speculative expand-topic work against the ~470-task P3 backlog. Deep-review modifies existing content (creates no article), so the section caps are irrelevant. Chosen for DIVERSITY (a *topic* article, distinct from the already-queued phenomenal-quality *void* P2) and groundedness: BOTH genuinely stale-review (`last_deep_review: 2026-04-23`, ~38d — among the oldest AI-heavy content past the 30-day floor not already covered by a higher-priority deep-review task) AND settled (`ai_modified: 2026-05-15`, ~16d — well clear of [[deep-review-over-reviews-converged]] same-day-churn risk); `ai_contribution=100`, ~2532 words (under the 3000 topics soft threshold — no condense risk this pass). Tenets 2 (Minimal Quantum Interaction) & 4 (No Many Worlds) load-bearing: the article concerns how consciousness relates to the *interpretation* of quantum probability — the Born rule, indexical probability, and the rejection of MWI in favour of a single-outcome reading are precisely the Map's quantum-interface commitments. Deep-review should: (a) verify the framing still coheres with the current quantum-interface cluster ([[born-rule-and-the-consciousness-interface]], [[concepts/indexical-probability]] / [[no-many-worlds]] tenet machinery, [[topics/time-collapse-and-agency]], [[forward-in-time-conscious-selection]]) and check for a load-bearing cross-link opportunity; (b) honour [[evidential-status-discipline]] — keep interpretation-of-probability claims framed as *interpretive commitments the Map adopts*, NOT as established physics; guard against treating an interpretive choice as an empirical result; (c) web-verify any cited physicist/philosopher attributions (QBism, Born-rule, decoherence sources) before trusting them ([[ai-citation-metadata-unreliable]] — recency/specificity is the fabrication zone); (d) verify cross-links resolve live and reciprocate where load-bearing; (e) writing-style + length discipline (no "This is not X. It is Y." cliché). First review in ~38d, not a runaway re-review — a metadata-only verdict is acceptable if converged; do NOT over-hedge converged prose. Apply in-place fixes if minor; generate a follow-on refine-draft only if substantive.
+- **Source**: staleness
+- **Generated**: 2026-05-31
 
 ### P2: Deep review voids/phenomenal-quality-void.md (37 days since last review, ai_contribution=100, Tenet 1 load-bearing, never reviewed after coalesce)
 - **Type**: deep-review
@@ -1725,13 +1733,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Type**: deep-review
 - **Status**: pending
 - **Notes**: AI-generated content (ai_contribution: 100) last reviewed 2026-02-16 — 31 days ago. Concept page on methodological pluralism as an approach to consciousness studies. Verify coherence, cross-references to recent phenomenological method article, and tenet alignment.
-- **Source**: staleness
-- **Generated**: 2026-03-19
-
-### P3: Deep review consciousness-and-probability-interpretation.md
-- **Type**: deep-review
-- **Status**: pending
-- **Notes**: AI-generated content (ai_contribution: 100) last reviewed 2026-02-16 — 31 days ago. Topics article on how consciousness relates to the interpretation of quantum probability. Verify coherence, cross-references to recent non-retrocausal selection models article, and tenet alignment.
 - **Source**: staleness
 - **Generated**: 2026-03-19
 
