@@ -5,6 +5,12 @@ ai_modified: 2026-05-31T00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-05-31T12:20:00+00:00 - research-topic
+- **Status**: Success
+- **Topic**: The Claude Constitution and its relation to The Map
+- **Output**: [[claude-constitution-and-the-map-2026-05-31]]
+- **Sources consulted**: 9 (5 primary/announcement Anthropic + press + Oxford + independent analysis)
+
 ## 2026-05-31T12:06:42+00:00 - refine-draft
 - **Status**: Success
 - **File**: [[topics/invertebrate-consciousness-as-interface-test]] (+ reciprocal edit to [[concepts/unity-of-consciousness]])

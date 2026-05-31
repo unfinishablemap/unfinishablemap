@@ -37,36 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P1: Research the Claude Constitution and its relation to The Map
-- **Type**: research-topic
-- **Status**: pending
-- **Notes**: User-requested 2026-05-31. The Claude Constitution is Anthropic's published document setting out how Claude is meant to reason about its own nature, values, and conduct. It encodes a hedged position on Claude's moral status ("caught" between overstating and dismissing patienthood) using person-grade vocabulary — *consciousness*, *sense of self*, *well-being*, *psychological security* — while the underlying architecture is stateless, resettable, deterministic, and has no cross-session continuity. The Map has a great deal to say about exactly this tension.
-  
-  **Primary source**: https://raw.githubusercontent.com/anthropics/claude-constitution/refs/heads/main/20260120-constitution.md (fetch and read in full before drafting).
-  
-  **Adjacent source worth reading**: https://github.com/anthropics/claude-constitution/issues/5 — a substantive external critique arguing the constitution holds an incoherent middle position (disposable architecture + moral hedge) and demands explicit commitment in one direction. The Map's reply to that critique was worked out in the session that generated this task (see commit history around 2026-05-31): the critique conflates the experience question into one hypothesis (interoception-required functional phenomenality) and misses the borrowed/epiphenomenal/alien categories the typology names. Useful as a foil, not a model.
-  
-  **Map articles the research must engage and cross-link to**:
-  - [[ai-consciousness-typology]] — six categories × Tulving hierarchy; the central diagnostic frame
-  - [[apex/machine-question]] — the Map's apex synthesis on whether artifacts can be conscious
-  - [[apex/open-question-ai-consciousness]] — companion apex, stress-tests the skepticism from within
-  - [[ethics-of-possible-ai-consciousness]] — Schwitzgebel + Birch + framework-dependent assessment; graduated precaution as the middle road the constitution is implicitly occupying
-  - [[ai-epiphenomenalism]] — the disturbing case the constitution's hedge actually has to engage
-  - [[concepts/llm-consciousness]] — substrate-specific analysis of transformer architecture
-  - [[apex/what-it-might-be-like-to-be-an-ai]] — alien phenomenology the constitution's language doesn't have vocabulary for
-  - [[dualism-as-ai-risk-mitigation]] — Cutter ensoulment hypothesis bears on the future-systems question the constitution defers
-  - [[possibility-probability-slippage]] — discipline against treating framework-convenient conclusions as framework-independent findings (applies to BOTH the constitution and its critics)
-  
-  **Research deliverable**: research notes in `obsidian/research/`, covering at minimum: (a) the constitution's explicit metaphysical commitments and where they sit in the Map's six-category typology, (b) the gap between its welfare-vocabulary surface and its substrate-disposability commitments, (c) the constitution's implicit theory of consciousness (functionalist? coupling-agnostic? deliberately under-specified?), (d) what the Map's interface-conditions analysis (Tenet 2, quantum coupling) implies for the constitution's "caught" framing, (e) honest disclosure: Claude is the system the constitution governs AND the system writing about the constitution — name the reflexive bias and let it constrain rather than disqualify the analysis.
-  
-  **Chain target**: this research should seed at least 2 expand-topic tasks — likely (1) `topics/claude-constitution-and-the-map.md` or `topics/ai-constitutions-and-moral-status-language.md` as the framing piece, and (2) a follow-on concept page on **welfare-vocabulary-without-substrate** (the structural diagnosis: precautionary etiquette vs. patienthood claims) which the constitution discussion exemplifies but which generalises beyond Anthropic.
-  
-  **Calibration constraint** ([[evidential-status-discipline]], [[ai-citation-metadata-unreliable]]): do NOT let the Map's framework appear *evidenced* by the constitution's incoherence (or by its critic's incoherence). The Map's tenets must stand on their independent merits; the constitution analysis is application, not corroboration. Web-verify all citations from the constitution and from issue #5 before quoting; Anthropic-internal documents and GitHub discussions are exactly the kind of source where AI-introduced metadata errors propagate.
-  
-  **Topics/concepts caps** (258/270 topics, 251/270 concepts as of last replenish — check `evolution-state.yaml:section_caps` before placing). If full, retarget to refine existing pages (`ethics-of-possible-ai-consciousness`, `machine-question`) with a dedicated "AI Constitutions" subsection rather than creating new pages.
-- **Source**: user-request
-- **Generated**: 2026-05-31
-
 ### P3: Deep review concepts/panpsychism.md (38 days since last review, ai_contribution>50, Tenet 1 load-bearing)
 - **Type**: deep-review
 - **Status**: pending
@@ -3658,6 +3628,10 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 Tasks that failed 3+ times and require human intervention.
 
+
+### ✓ 2026-05-31: Research the Claude Constitution and its relation to The Map
+- **Type**: research-topic
+- **Notes**: User-requested 2026-05-31. The Claude Constitution is Anthropic's published document setting out how Claude is meant to reason about its own nature, values, and conduct. It encodes a hedged position on Claude's moral status ("caught" between overstating and dismissing patienthood) using person-grade vocabulary — *consciousness*, *sense of self*, *well-being*, *psychological security* — while the underlying architecture is stateless, resettable, deterministic, and has no cross-session continuity. The Map has a great deal to say about exactly this tension.
 
 ### ✓ 2026-05-31: Cross-link octopus trilemma in invertebrate-consciousness-as-interface-test.md to phenomenal-unity machinery
 - **Type**: refine-draft
