@@ -37,14 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Deep review voids/anesthesia-void.md (43 days since last review, ai_contribution=100, Tenet 1/3 load-bearing)
-- **Type**: deep-review
-- **Status**: pending
-- **File**: obsidian/voids/anesthesia-void.md
-- **Notes**: PROMOTED P3→P2 by /replenish-queue 2026-05-31 (floor-restoring; second of three promotions). Chosen for DIVERSITY (a deep-review, distinct from the two refines) and groundedness (staleness past the 30-day floor on a Tenet 1/3 load-bearing void; deep-review modifies existing content so it is cap-safe despite voids being at/over its 100 cap). Original notes preserved verbatim: From /replenish-queue 2026-05-31 (staleness, queue diversity). Tied among the oldest AI-heavy content past the 30-day deep-review floor with no dedicated task currently targeting it. `last_deep_review: 2026-04-17` (~43 days), `ai_contribution=100`. This is a voids article (voids is at/over its 100 cap, but a deep-review modifies existing content rather than creating new, so it is cap-safe). Deep-review should: (a) check the anaesthesia / loss-of-consciousness empirical claims against current 2020s literature — this is an active-research domain, so flag a literature-drift follow-on if drift detected ([[ai-citation-metadata-unreliable]]: web-verify any specific anaesthetic-mechanism or recovery-asymmetry citations before trusting them); (b) honour [[evidential-status-discipline]] — the void's "what anaesthesia conceals" framing must stay at its calibrated tier and must not read as established mechanism; (c) carry the [[common-cause-null]] caution where the article draws on the recovery-order / hysteresis signature family (shared upstream architecture, not independent confirmations); (d) verify cross-links resolve live and are reciprocated where load-bearing; (e) writing-style + length discipline (no "This is not X. It is Y." cliché). First review in 43d — if converged and clean, a metadata-only verdict is acceptable; do not over-hedge converged prose ([[deep-review-over-reviews-converged]]).
-- **Source**: staleness
-- **Generated**: 2026-05-31
-
 ### P3: Deep review voids/acquaintance-void.md (42 days since last review, ai_contribution=100, Tenet 1 load-bearing)
 - **Type**: deep-review
 - **Status**: pending
@@ -3606,6 +3598,10 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 Tasks that failed 3+ times and require human intervention.
 
+
+### ✓ 2026-05-31: Deep review voids/anesthesia-void.md (43 days since last review, ai_contribution=100, Tenet 1/3 load-bearing)
+- **Type**: deep-review
+- **Notes**: PROMOTED P3→P2 by /replenish-queue 2026-05-31 (floor-restoring; second of three promotions). Chosen for DIVERSITY (a deep-review, distinct from the two refines) and groundedness (staleness past the 30-day floor on a Tenet 1/3 load-bearing void; deep-review modifies existing content so it is cap-safe despite voids being at/over its 100 cap). Original notes preserved verbatim: From /replenish-queue 2026-05-31 (staleness, queue diversity). Tied among the oldest AI-heavy content past the 30-day deep-review floor with no dedicated task currently targeting it. `last_deep_review: 2026-04-17` (~43 days), `ai_contribution=100`. This is a voids article (voids is at/over its 100 cap, but a deep-review modifies existing content rather than creating new, so it is cap-safe). Deep-review should: (a) check the anaesthesia / loss-of-consciousness empirical claims against current 2020s literature — this is an active-research domain, so flag a literature-drift follow-on if drift detected ([[ai-citation-metadata-unreliable]]: web-verify any specific anaesthetic-mechanism or recovery-asymmetry citations before trusting them); (b) honour [[evidential-status-discipline]] — the void's "what anaesthesia conceals" framing must stay at its calibrated tier and must not read as established mechanism; (c) carry the [[common-cause-null]] caution where the article draws on the recovery-order / hysteresis signature family (shared upstream architecture, not independent confirmations); (d) verify cross-links resolve live and are reciprocated where load-bearing; (e) writing-style + length discipline (no "This is not X. It is Y." cliché). First review in 43d — if converged and clean, a metadata-only verdict is acceptable; do not over-hedge converged prose ([[deep-review-over-reviews-converged]]).
 
 ### ✓ 2026-05-31: Fix stale Howell (2014) citation year in three files (corpus-correct year is 2015)
 - **Type**: refine-draft

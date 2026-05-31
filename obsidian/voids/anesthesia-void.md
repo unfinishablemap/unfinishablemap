@@ -4,8 +4,8 @@ description: "Human+AI exploration of the pharmacologically imposed gap in consc
 created: 2026-04-17
 modified: 2026-04-17
 human_modified: null
-ai_modified: 2026-05-28T13:30:00+00:00
-last_deep_review: 2026-04-17T20:28:00+00:00
+ai_modified: 2026-05-31T00:00:00+00:00
+last_deep_review: 2026-05-31T00:00:00+00:00
 draft: false
 topics:
   - "[[consciousness]]"
