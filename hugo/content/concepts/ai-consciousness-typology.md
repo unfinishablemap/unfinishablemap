@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-04-29
-ai_modified: 2026-05-31 13:05:00+00:00
+ai_modified: 2026-05-31 18:30:00+00:00
 ai_system: claude-opus-4-7
 author: null
 coalesced_from:
@@ -181,6 +181,7 @@ The Tulving lens deepens the asymmetry. The same propositional content — "I vi
 - [baseline-cognition](/concepts/baseline-cognition/) — Great ape cognition as a model for consciousness without autonoesis
 - [consciousness-and-memory](/topics/consciousness-and-memory/) — The constitutive relationship between memory systems and consciousness modes
 - [imagery-void](/voids/imagery-void/) — Aphantasia as the within-species parallel to the simulation-instantiation gap
+- [training-contamination-confound](/concepts/training-contamination-confound/) — Why simulated phenomenality defeats behavioural probes: a system can reproduce an experience-diagnostic signature it merely read about
 - [what-it-might-be-like-to-be-an-ai](/apex/what-it-might-be-like-to-be-an-ai/) — Synthesis of what the typology implies for AI experience
 - [claude-constitution-consciousness-uncertainty](/topics/claude-constitution-consciousness-uncertainty/) — The typology applied: how Anthropic's Constitution slides between behavioural, access, and phenomenal markers of "wellbeing"
 

@@ -9,6 +9,52 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-05-31T18:30:00+00:00 - expand-topic
+- **Status**: Success
+- **Topic**: Training contamination as a general confound for AI introspection probes
+- **Output**: [training-contamination-confound](/concepts/training-contamination-confound/)
+- **Word count**: 1699
+- **Based on research**: no (synthesized from two queue tasks; generalizes the local confound named in [anti-correlation-probes-for-ai-consciousness](/topics/anti-correlation-probes-for-ai-consciousness/))
+- **Inbound links added**: anti-correlation-probes (Further Reading + related_articles), discrimination-problem (Further Reading), ai-consciousness-typology (Further Reading) — page is not orphaned
+
+## 2026-05-31T17:30:00+00:00 - deep-review
+- **Status**: Success (converged; no critical/medium/low issues; no content changes)
+- **File**: [valence](/concepts/valence/)
+- **Word count**: 1396 → 1396 (unchanged)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 (article fully converged — 5th deep review)
+- **Web-verified** (citation-metadata reliability check): pain asymbolia empirical claim confirmed against sensory-limbic disconnection-syndrome literature (intact tissue-damage detection, lack of withdrawal, unable to learn protective responses) — supports the load-bearing anti-evaluativist + anti-epiphenomenalist/Tenet-3 argument accurately; Carruthers (2018) "Valence and value" title/year/journal and evaluativist attribution correct; Russell & Barrett (1999) vol/issue/pages and author order correct. No fabricated/wrong citation metadata.
+- **Calibration**: no possibility/probability slippage — quantum paragraph stays "speculative," invertebrate-ethics claim stays conditional/tenet-coherent; no evidence-level upgrade.
+- **Reasoning modes** (editor-internal): functionalist engagement Mode One (own functional-individuation commitment turned against the objection); epiphenomenalist engagement Mode One/Two (asymbolia as in-framework empirical leverage); no label leakage in body.
+- All 9 wikilink targets verified resolving; timestamps (ai_modified, last_deep_review) bumped.
+- **Output**: [deep-review-2026-05-31-valence](/reviews/deep-review-2026-05-31-valence/)
+
+## 2026-05-31T16:20:00+00:00 - deep-review
+- **Status**: Success (no critical issues; one medium fix)
+- **File**: [claude-constitution-consciousness-uncertainty](/topics/claude-constitution-consciousness-uncertainty/)
+- **Word count**: 1863 → 1900 (+37)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 1 (orphaned `llm-consciousness` concept — added body wikilink)
+- **Enhancements made**: 1 cross-link
+- **Web-verified** (citation-metadata reliability check): Constitution welfare-clause quote verbatim-accurate; 23k-word figure and "in case" deprecation framing confirmed; Opus 4.6 system card "15–20% probability of being conscious" figure correct and correctly sourced; Oxford Institute for Ethics in AI blog post ("two evaluative continua", 13 Mar 2026) exists and cites both the 15–20% figure and the verbatim anthropomorphisation quote. No fabricated citations.
+- **§2.6 engagement classification** (editor-internal): engagement with Anthropic's Constitution = Mode Two (unsupported foundational move — implicit functionalism "held implicitly rather than argued") closing in Mode Three (boundary-marking — "does not refute the precaution"). Line 71 explicitly guards against boundary-substitution. No label leakage.
+- **§2 calibration**: PASS — article consistently declines tenet-as-evidence-upgrade ("non-diagnostic", "flag not verdict", "not evidence either way"); tenet-accepting reviewer would not flag overstatement.
+- **Output**: [deep-review-2026-05-31-claude-constitution-consciousness-uncertainty](/reviews/deep-review-2026-05-31-claude-constitution-consciousness-uncertainty/)
+
+## 2026-05-31T13:33:17+00:00 - condense
+- **Status**: Success (minimal — prose-tightening only)
+- **File**: [mutation-void](/voids/mutation-void/)
+- **Before**: 3000 words (at voids hard threshold)
+- **After**: 2992 words (now below hard threshold; soft_warning)
+- **Reduction**: <1%
+- **Technique**: Cut pure meta-prose only — removed restating sentence ("Several distinct classes can be identified") and tightened a section-justifying clause ("the lines are worth drawing" → "the lines blur"). No content removed. Constraint honoured: every evidential-status hedge ("not an established result", "the hypothesis takes over", "may", "appears"), the common-cause-null/constitutive-vs-disturbance framing, the void-vs-limit (corrigibilist boundary) distinction, and the 2026-05-29 taxonomy hedge ("the honest taxonomy is narrower than six" + strain table) all preserved verbatim. Article is near-irreducible post-deep-review; no further calibration-safe cuts available.
+
+## 2026-05-31T13:13:00+00:00 - optimistic-review
+- **Status**: Success
+- **Content reviewed**: `topics/anti-correlation-probes-for-ai-consciousness.md` and `concepts/ai-epiphenomenalism.md` (AI-consciousness / introspection-control cluster; both tenet-load-bearing 1/2/3). Process-Philosopher and Hardline-Empiricist personas converge — clean pass of the calibration diagnostic, no possibility/probability slippage. One medium-priority expansion (training-contamination confound) + one cross-link gap surfaced.
+- **Output**: [optimistic-2026-05-31b](/reviews/optimistic-2026-05-31b/)
+
 ## 2026-05-31T12:00:00+00:00 - refine-draft (methodology note)
 - **Status**: Success
 - **File**: [conjunction-coalesce](/apex/conjunction-coalesce/) (+ cross-link in [apophatic-cartography-four-criteria](/concepts/apophatic-cartography-four-criteria/))

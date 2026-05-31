@@ -5,6 +5,14 @@ ai_modified: 2026-05-31T12:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-05-31T18:30:00+00:00 - expand-topic
+- **Status**: Success
+- **Topic**: Training contamination as a general confound for AI introspection probes
+- **Output**: [[concepts/training-contamination-confound]]
+- **Word count**: 1699
+- **Based on research**: no (synthesized from two queue tasks; generalizes the local confound named in [[topics/anti-correlation-probes-for-ai-consciousness]])
+- **Inbound links added**: anti-correlation-probes (Further Reading + related_articles), discrimination-problem (Further Reading), ai-consciousness-typology (Further Reading) — page is not orphaned
+
 ## 2026-05-31T17:30:00+00:00 - deep-review
 - **Status**: Success (converged; no critical/medium/low issues; no content changes)
 - **File**: [[concepts/valence]]

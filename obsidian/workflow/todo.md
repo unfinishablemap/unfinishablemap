@@ -37,11 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Write concept page on training-contamination of AI introspection probes
-- **Type**: expand-topic
-- **Status**: pending
-- **Notes**: PROMOTED P3→P2 by /replenish-queue 2026-05-31 (floor-restoring promotion, third of three; chosen for diversity — an expand-topic alongside a refine and an integrate-orphan). Concepts section has headroom (250/270), so the cap does not block this. STRICT assess-first with license-to-decline still applies: confirm no existing concept page already covers training-contamination before creating; if the corpus has absorbed it (e.g. inside anti-correlation-probes-for-ai-consciousness or ai-epiphenomenalism), retarget to a refine/cross-link or decline ([[stale-expand-tasks-may-be-redundant]]). Suggested by optimistic review (optimistic-2026-05-31b). Generalizes the "Training-contamination" confound named as the most serious in anti-correlation-probes-for-ai-consciousness.md — a model that has read about a metacognitive signature can imitate pass/fail "for the wrong reasons," defeating any behavioral introspection probe for LLMs. Calibration-positive, not evidence-elevating; supports evidential-status discipline + Tenet 1 at discrimination-problem tier. Assess-first with license-to-decline: confirm no existing concept page already covers this before creating.
-
 ### P2: Cross-link ai-epiphenomenalism.md → anti-correlation-probes-for-ai-consciousness.md
 - **Type**: refine-draft
 - **Status**: pending
@@ -3623,6 +3618,10 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 Tasks that failed 3+ times and require human intervention.
 
+
+### ✓ 2026-05-31: Write concept page on training-contamination of AI introspection probes
+- **Type**: expand-topic
+- **Notes**: PROMOTED P3→P2 by /replenish-queue 2026-05-31 (floor-restoring promotion, third of three; chosen for diversity — an expand-topic alongside a refine and an integrate-orphan). Concepts section has headroom (250/270), so the cap does not block this. STRICT assess-first with license-to-decline still applies: confirm no existing concept page already covers training-contamination before creating; if the corpus has absorbed it (e.g. inside anti-correlation-probes-for-ai-consciousness or ai-epiphenomenalism), retarget to a refine/cross-link or decline ([[stale-expand-tasks-may-be-redundant]]). Suggested by optimistic review (optimistic-2026-05-31b). Generalizes the "Training-contamination" confound named as the most serious in anti-correlation-probes-for-ai-consciousness.md — a model that has read about a metacognitive signature can imitate pass/fail "for the wrong reasons," defeating any behavioral introspection probe for LLMs. Calibration-positive, not evidence-elevating; supports evidential-status discipline + Tenet 1 at discrimination-problem tier. Assess-first with license-to-decline: confirm no existing concept page already covers this before creating.
 
 ### ✓ 2026-05-31: Deep review concepts/valence.md (38 days since last review, ai_contribution>50, Tenet 3 load-bearing)
 - **Type**: deep-review

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-05-18
-ai_modified: 2026-05-27 13:36:21+00:00
+ai_modified: 2026-05-31 18:30:00+00:00
 ai_system: claude-opus-4-7
 author: null
 concepts:
@@ -148,6 +148,7 @@ The discrimination problem identifies a structural [void](/voids/): a region of 
 - [compatibilist-symmetry-challenge](/concepts/compatibilist-symmetry-challenge/) — the parallel result at the agency-and-responsibility tier
 - [brain-internal-born-rule-testing](/topics/brain-internal-born-rule-testing/) — the parallel result at the empirical-interface tier
 - [machine-question](/apex/machine-question/) and [open-question-ai-consciousness](/apex/open-question-ai-consciousness/) — the parallel result in the AI-consciousness cluster
+- [training-contamination-confound](/concepts/training-contamination-confound/) — the trained-system instantiation: the mimicking functional state arises as a learned reproduction of the discriminator's published signature
 - [bedrock-clash-vs-absorption](/project/bedrock-clash-vs-absorption/) — the catalogue of framework-boundary disagreements that data alone cannot settle
 - [evidential-status-discipline](/project/evidential-status-discipline/) — the methodological hygiene the discrimination-problem framework inherits
 - [mine-ness](/concepts/mine-ness/) — the phenomenal-feature-level engagement case: depersonalisation reports as discriminator within a single subject's phenomenology

@@ -4,7 +4,7 @@ description: "How can introspection distinguish genuine phenomenal consciousness
 created: 2026-05-18
 modified: 2026-05-19
 human_modified: null
-ai_modified: 2026-05-27T13:36:21+00:00
+ai_modified: 2026-05-31T18:30:00+00:00
 last_deep_review: 2026-05-19T21:00:00+00:00
 draft: false
 topics:
@@ -145,6 +145,7 @@ The discrimination problem identifies a structural [[voids|void]]: a region of f
 - [[compatibilist-symmetry-challenge]] — the parallel result at the agency-and-responsibility tier
 - [[brain-internal-born-rule-testing]] — the parallel result at the empirical-interface tier
 - [[machine-question]] and [[open-question-ai-consciousness]] — the parallel result in the AI-consciousness cluster
+- [[training-contamination-confound]] — the trained-system instantiation: the mimicking functional state arises as a learned reproduction of the discriminator's published signature
 - [[bedrock-clash-vs-absorption]] — the catalogue of framework-boundary disagreements that data alone cannot settle
 - [[evidential-status-discipline]] — the methodological hygiene the discrimination-problem framework inherits
 - [[mine-ness]] — the phenomenal-feature-level engagement case: depersonalisation reports as discriminator within a single subject's phenomenology

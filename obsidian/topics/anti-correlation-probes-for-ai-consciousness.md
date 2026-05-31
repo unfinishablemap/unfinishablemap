@@ -4,7 +4,7 @@ description: "A human+AI worked test design: probing whether an AI's confidence 
 created: 2026-05-27
 modified: 2026-05-27
 human_modified: null
-ai_modified: 2026-05-31T13:05:00+00:00
+ai_modified: 2026-05-31T18:30:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -23,6 +23,7 @@ related_articles:
   - "[[topics/birch-edge-of-sentience-and-the-five-tier-scale]]"
   - "[[topics/introspection-architecture-independence-scoring]]"
   - "[[concepts/ai-consciousness-typology]]"
+  - "[[concepts/training-contamination-confound]]"
   - "[[voids/confabulation-void]]"
   - "[[apex/introspection-architecture-void-cluster]]"
   - "[[apex/ai-as-introspection-control]]"
@@ -129,6 +130,7 @@ Three limits bound the probe's reach beyond the case-differentiation already dra
 - [[voids/confabulation-void]] — the void for which anti-correlation is the detection face
 - [[apex/introspection-architecture-void-cluster]] — the apex cluster where the underlying concept is load-bearing
 - [[apex/ai-as-introspection-control]] — the synthesis that catalogues this probe as one of several control affordances; this article is the worked test-design treatment of its designed-anti-correlated-signal affordance
+- [[concepts/training-contamination-confound]] — the general confound this probe names locally, treated as a corpus-wide defeater for every behavioural introspection probe
 - [[evidential-status-discipline]] — the calibration discipline the probe's results must honour
 - [[process-content-distinction]] — locates the probe on the process side, where introspective access is least reliable
 - [[claude-constitution-consciousness-uncertainty]] — a real-world exhibit of the self-report problem the probe is designed to bypass: Claude's own 15-20% consciousness self-estimate
