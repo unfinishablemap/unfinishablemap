@@ -4,7 +4,8 @@ description: "Physicalism's strongest answer to why valence tracks fitness: neur
 created: 2026-05-31
 modified: 2026-05-31
 human_modified:
-ai_modified: 2026-05-31T00:00:00+00:00
+ai_modified: 2026-05-31T15:42:42+00:00
+last_deep_review: 2026-05-31T15:42:42+00:00
 draft: false
 topics:
   - "[[evolutionary-case-for-mental-causation]]"
@@ -40,7 +41,7 @@ The model has two components. The first is a claim about what evolution optimize
 
 The second component is the substantive epiphenomenalist claim: the *phenomenal character* of the states realizing these classifications is fixed by the same neural organization that fixes the behaviour. On this view there is a systematic mapping—call it a psychophysical regularity—from neural-functional organization to phenomenal quality. Whatever neural configuration implements "approach this," that configuration also happens to feel good; whatever implements "avoid this" happens to feel bad. Because selection shapes the functional organization, and the functional organization fixes the phenomenal character, the two are optimized together. The correlation between valence and fitness is then no more coincidental than the correlation between a key's shape and the lock it was filed to fit.
 
-The strength of the reply is that it dissolves the appearance of cosmic coincidence without granting valence any causal role. The epiphenomenalist does not have to say that pleasant-feeling and avoidance-promoting just *happened* to line up across billions of years. They line up because they are two outputs of one optimized system. This is a genuine advance over the cruder epiphenomenalism that treats the correlation as brute luck, and it is why the Map treats co-optimization as the position to beat rather than a straw target.
+The strength of the reply is that it dissolves the appearance of cosmic coincidence without granting valence any causal role. The epiphenomenalist does not have to say that pleasant-feeling and avoidance-promoting just *happened* to line up across billions of years. They line up because they are two outputs of one optimized system. This is a genuine advance over the cruder epiphenomenalism that treats the correlation as brute luck—the version Robinson (2023) surveys as the standard target of the evolutionary objection—and it is why the Map treats co-optimization as the position to beat rather than a straw target.
 
 ## The "Why This Specific Pairing?" Challenge
 
