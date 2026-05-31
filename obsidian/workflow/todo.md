@@ -37,6 +37,14 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
+### P3: Cross-link new quiddity-epiphenomenalism page into the intellectual-life and ai-epiphenomenalism clusters
+- **Type**: refine-draft
+- **Status**: pending
+- **Files**: obsidian/topics/phenomenology-of-intellectual-life.md, obsidian/concepts/ai-epiphenomenalism.md, obsidian/concepts/quiddity-epiphenomenalism-and-the-contingency-thesis.md
+- **Notes**: Suggested by optimistic review 2026-05-31c. The newly-created [[quiddity-epiphenomenalism-and-the-contingency-thesis]] is well-linked into the russellian-monism / delegatory-causation cluster but not into the two clusters running the *same* epiphenomenalism worry on other substrates: (a) intellectual-life §Against Reduction makes its own epiphenomenalism argument with no pointer to the contingency-thesis treatment; (b) [[ai-epiphenomenalism]] covers the "experience is causally idle" worry on the AI substrate and is not mutually linked. Add a one-line cross-reference in each direction (3 links total). No new claims — connective tissue only. Per [[expand-topic-skips-integration-chain]], verify each edit actually lands the inbound link. Multi-file task — do all three files ([[multifile-task-dropped-file]]).
+- **Source**: optimistic-review
+- **Generated**: 2026-05-31
+
 ### ✓ 2026-05-31: Adopt temporal-consciousness calibration in auditory-consciousness-and-the-interface
 - **Type**: refine-draft
 - **Status**: completed (sibling no-op — resolved by the same-snapshot qualia-anchor refine on 2026-05-31, which raised hedge density 1.23→7.23/kw and dropped strong-assertions 3.08→0/kw. `tools.curate.anchoring.evaluate_anchoring` now returns ZERO flags for all three anchors, including temporal-consciousness. Re-refining a passing article would risk over-hedging into mush — see [[anchoring-audit-sibling-tasks-stale]].)

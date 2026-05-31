@@ -5,6 +5,13 @@ ai_modified: 2026-05-31T12:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-05-31T16:05:00+00:00 - optimistic-review
+- **Status**: Success
+- **Content reviewed**: Mental-causation / epiphenomenalism-defeater cluster — phenomenology-of-intellectual-life, quiddity-epiphenomenalism-and-the-contingency-thesis (created today), delegatory-causation. Distinct from today's 2026-05-31 (invertebrate) and 2026-05-31b (AI-epiphenomenalism) reviews.
+- **Finding**: Cluster is a calibration exemplar — Process-Philosopher and Hardline-Empiricist personas *converge* (the skill's signal of honestly-resolved tension). quiddity-epiphenomenalism declines the tenet-as-evidence-upgrade move three explicit times ("Russellian monism's failure is not evidence for the Map").
+- **Opportunities**: 1 Medium (cross-link new quiddity page into intellectual-life §Against Reduction + ai-epiphenomenalism, bidirectionally); 2 Ideas-for-Later (consolidate the "non-inheritance is structural not confirmatory" pattern; develop the necessitarian-Russellian steelman). No new concept pages needed.
+- **Output**: [[reviews/optimistic-2026-05-31c]]
+
 ## 2026-05-31T15:55:47+00:00 - expand-topic
 - **Status**: Success
 - **Topic**: Quiddity epiphenomenalism and the contingency thesis
