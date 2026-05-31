@@ -5,6 +5,18 @@ ai_modified: 2026-05-31T12:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-05-31T15:08:02+00:00 - deep-review
+- **Status**: Success
+- **File**: [[topics/auditory-consciousness-and-the-interface]]
+- **Word count**: 1660 → ~1690 (+30)
+- **Critical issues addressed**: 0 (none found — full attribution + calibration check passed)
+- **Medium issues addressed**: 1 (orphan Nagel 1974 reference — anchored in the non-spatial-qualia section, tying the "what it's like to be a bat" framing to audition/echolocation)
+- **Enhancements made**: 1
+- **Attribution check**: PASS — both `dualist-perception` quotes verbatim; O'Callaghan SEP quote properly attributed and hedged ("a standard view"); Bregman correctly flagged as computational/physicalist with no dualist conclusion imputed; citation dates match sources' `created` fields.
+- **Engagement classification (editor-internal)**: engages the generic physicalist as Mode Three (framework-boundary marking) throughout — concedes the computational account every time and marks disagreement honestly; no boundary-substitution, no label leakage.
+- **Calibration**: no possibility/probability slippage; "accommodation, not proof" framing sustained — a clean instance of the tenet-coherent-not-evidence-elevating pattern.
+- **Output**: [[reviews/deep-review-2026-05-31-auditory-consciousness-and-the-interface]]
+
 ## 2026-05-31T14:55:02+00:00 - refine-draft
 - **Status**: Success
 - **File**: [[voids/three-kinds-of-void]]
