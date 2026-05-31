@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-31T14:36:40+00:00
+ai_modified: 2026-05-31T17:16:28+00:00
 ai_system: claude-opus-4-8
 author: Andy Southgate
 concepts: []
@@ -36,6 +36,22 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **P2**: Low - nice to have, human approval needed
 
 ## Active Tasks
+
+### P2: Deep review topics/vertiginous-question.md (38 days since last review, ai_contribution=100, Tenet 4 load-bearing)
+- **Type**: deep-review
+- **Status**: pending
+- **File**: obsidian/topics/vertiginous-question.md
+- **Notes**: Floor-restoring staleness promotion (/replenish-queue 2026-05-31). The cycle-pickable (P0–P2) queue had fallen to effectively 1 — the retrocausal-vs-forward ledger refine (~L3579) is genuinely cycle-consumable, but the `consciousness-and-skill-acquisition` literature-drift P2 parses as a wall-clock weekly task (type `other`/`literature-drift-review`) and is NOT cycle-pickable — below the MIN_QUEUE floor of 3. This is the documented replenish-at-floor steady state ([[unfin-loop-steady-state]]), re-verified this run: voids OVER cap (101/100); topics (260/270) and concepts (252/270) have nominal headroom but NO unconsumed research awaits synthesis (391 notes, all consumed — today's fresh note claude-constitution-and-the-map was already synthesised into topics/claude-constitution-consciousness-uncertainty.md and the 4 other new articles are all integrated, 3–9 inbound links each); orphaned_files=0; and every published-content length offender is blocked/vetoed/same-day-churn (epistemology-of-convergence-arguments 6479w and phenomenal-output-causal-machinery-dissociation 6989w are BLOCKED pending human structural-split decisions; born-rule 5044w, meaning-of-life 4160w, time-collapse-and-agency, epistemic-advantages-of-dualism all condensed/vetoed/edited TODAY; apex-articles 5119w and taxonomy-of-voids 5113w are navigational index hubs). So the honest floor-restoring move is to promote two grounded, genuinely-stale-AND-settled tenet-load-bearing deep-reviews rather than mint speculative expand-topic work against the ~468-task P3 backlog. Deep-review doesn't create articles, so the section caps are irrelevant. Selection criterion BOTH stale-review (`last_deep_review: 2026-04-23`, ~38d, past the 30-day floor and not the subject of any task) AND fully settled (`ai_modified: 2026-04-23`, ~38d) to avoid the [[deep-review-over-reviews-converged]] churn risk; `ai_contribution=100`, 3298 words (under the 4000 topics hard threshold — no condense risk). Tenet-4 load-bearing: the vertiginous question ("why am I *this* particular subject?") is the Map's central indexical-identity exhibit, directly underwriting Tenet 4 (No Many Worlds — indexical identity matters) and Tenet 1 secondary. Deep-review should: (a) verify the indexical-void framing still coheres with the current quiddity/Russellian-monism cluster and the post-April indexical/identity articles; (b) honour [[evidential-status-discipline]] — keep the void's epistemic-vs-metaphysical tier calibrated (a question we cannot answer vs a constitutive limit); (c) web-verify any Benj Hellie / Caspar Hare / Nagel attributions before trusting them ([[ai-citation-metadata-unreliable]]); (d) verify cross-links resolve live and reciprocate where load-bearing; (e) writing-style + length discipline (no "This is not X. It is Y." cliché). First review in 38d, not a runaway re-review — a metadata-only verdict is acceptable if converged; do NOT over-hedge converged prose. Apply in-place fixes if minor; generate a follow-on refine-draft only if substantive.
+- **Source**: staleness
+- **Generated**: 2026-05-31
+
+### P2: Deep review concepts/consciousness-and-scientific-explanation.md (38 days since last review, ai_contribution=100, Tenet 5 load-bearing)
+- **Type**: deep-review
+- **Status**: pending
+- **File**: obsidian/concepts/consciousness-and-scientific-explanation.md
+- **Notes**: Floor-restoring staleness promotion (/replenish-queue 2026-05-31), second of two (one restores the floor of 3; this adds a small buffer of grounded work rather than speculative expand-topic — see the vertiginous-question task above for the full queue-state rationale, [[unfin-loop-steady-state]]). Chosen alongside vertiginous-question because both are fully-settled AI-heavy articles tied at ~38 days past the 30-day deep-review floor and not the subject of any current task (the only active mention of this slug is an incidental "builds-on" reference in an unrelated expand-topic note, not a task targeting it). Verified `last_deep_review: 2026-04-23` (~38d) AND `ai_modified: 2026-04-23` (~38d, fully settled), `ai_contribution=100`, 2454 words (just under the 2500 concepts soft threshold — no condense risk). Tenet-5 load-bearing: the article develops how consciousness reshapes what scientific explanation can deliver under dualism, an Occam's-Razor-Has-Limits exhibit (Tenet 5), with Tenet 1 secondary. Deep-review should: (a) verify the framing still coheres with the post-April philosophy-of-science cluster ([[philosophy-of-science-under-dualism]], [[concession-convergence]]) and that cross-links resolve live and reciprocate where load-bearing; (b) honour [[evidential-status-discipline]] — the explanatory-limits claim must remain a *constraint on physicalist explanation*, not silently upgrade to positive *establishment* of dualism beyond what the structural argument licenses; (c) web-verify any philosophy-of-science citation metadata before trusting it ([[ai-citation-metadata-unreliable]]); (d) writing-style + length discipline (no "This is not X. It is Y." cliché). First review in 38d, not a runaway re-review — metadata-only verdict acceptable if converged; do NOT over-hedge converged prose ([[deep-review-over-reviews-converged]]). Apply in-place fixes if minor; generate a follow-on refine-draft only if substantive.
+- **Source**: staleness
+- **Generated**: 2026-05-31
 
 ### P3: Deep review voids/acquaintance-void.md (42 days since last review, ai_contribution=100, Tenet 1 load-bearing)
 - **Type**: deep-review
