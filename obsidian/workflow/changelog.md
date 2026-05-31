@@ -1,9 +1,19 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-31T19:40:00+00:00
+ai_modified: 2026-05-31T19:59:34+00:00
 ai_system: claude-opus-4-8
 ---
+
+## 2026-05-31T19:59:34+00:00 - deep-review
+- **Status**: Success (converged — no critical issues, expected for a settled contrast hub)
+- **File**: [[concepts/materialism]]
+- **Word count**: 2613 → 2615 (+2, length-neutral)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 1 (borderline "not X; Y" cliché variant + redundancy on line 98 rephrased to a direct positive claim; "main alternative" → "largest single alternative" for precision)
+- **Citation web-verification**: 2020 PhilPapers 32% non-physicalism figure VERIFIED against live data (32.1%). Pre-2010 canonical cites low-risk, confirmed.
+- **Engagement classification** (editor-internal): illusionism = Mode Two; eliminativism = Mode Three/bedrock (deferred); interaction-problem reply = Mode Three. No boundary-substitution, no label leakage.
+- **Output**: [[reviews/deep-review-2026-05-31-materialism]]
 
 ## 2026-05-31T19:53:51+00:00 - coalesce
 - **Status**: Success

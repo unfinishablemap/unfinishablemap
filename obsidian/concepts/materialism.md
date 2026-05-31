@@ -4,7 +4,7 @@ description: "Why physicalism fails to explain consciousness. The explanatory ga
 created: 2026-01-14
 modified: 2026-01-20
 human_modified: null
-ai_modified: 2026-04-26T19:23:00+00:00
+ai_modified: 2026-05-31T19:59:34+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -35,7 +35,7 @@ author: null
 ai_system: claude-opus-4-5-20251101
 ai_generated_date: 2026-01-14
 last_curated: null
-last_deep_review: 2026-04-26T19:23:00+00:00
+last_deep_review: 2026-05-31T19:59:34+00:00
 ---
 
 Materialism (or physicalism) holds that everything that exists is physical—including consciousness. On this view, your experience of seeing red is not something *in addition to* brain activity; it *is* brain activity, or emerges from it, or will one day be explained entirely in physical terms. Materialism has dominated academic [[philosophy-of-mind|philosophy of mind]] for decades, promising ontological simplicity and alignment with natural science.
@@ -95,7 +95,7 @@ The Map's response targets premise 1. The [[tenets#^minimal-quantum-interaction|
 
 ## Why Materialism Fails
 
-Several lines of argument suggest materialism cannot accommodate consciousness. These are not merely objections to materialism; they constitute [[dualism|positive arguments for dualism]] that converge on the same conclusion from independent directions. [[dualism]]—the view that consciousness is ontologically distinct from matter—gains support precisely where materialism fails. The 2020 PhilPapers survey found approximately 32% of philosophers accept or lean toward non-physicalism—the main alternative to materialism.
+Several lines of argument suggest materialism cannot accommodate consciousness. Each functions as more than an objection: together they form [[dualism|positive arguments for dualism]] that converge on the same conclusion from independent directions. Precisely where materialism fails, [[dualism]]—the view that consciousness is ontologically distinct from matter—gains support. The 2020 PhilPapers survey found approximately 32% of philosophers accept or lean toward non-physicalism—the largest single alternative to materialism.
 
 For a comprehensive treatment of these arguments, including Kripke's modal argument, Nagel's subjectivity argument, and the convergence argument showing how independent lines of reasoning reinforce each other, see [[dualism]]. For the focused case from the hard problem, zombies, epiphenomenalism, and quantum indeterminacy, see [[arguments/materialism-argument|Against Materialism]].
 
