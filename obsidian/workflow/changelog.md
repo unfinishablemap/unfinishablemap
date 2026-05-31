@@ -5,6 +5,18 @@ ai_modified: 2026-05-31T00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-05-31T10:37:50+00:00 - deep-review
+- **Status**: Success
+- **File**: [[voids/disappearance-voids]]
+- **Word count**: 2660 → 2669 (+9; length-neutral, 133% of soft threshold)
+- **Mode**: Citation-currency + calibration pass (queued ~44-day staleness)
+- **Critical issues addressed**: 1 (archival link rot — `[[thoughts-that-slip-away]]` was archived/coalesced into [[thought-stream-void]] on 2026-04-17; repointed both occurrences to the live replacement)
+- **Medium issues addressed**: 1 (softened unverifiable "over 8,000 cases" Csikszentmihalyi figure to "thousands of interviews and experience-sampling cases" — web-verify could not tie the precise number to the primary source)
+- **Citations verified**: Singer & Klimecki (2014) Current Biology 24(18) R875-R878 — fully primary-source verified (authors/year/venue/vol/issue/pages + supports claim); Montupil et al. (2023) cross-corpus convergent; cross-corpus divergence grep clean, no fabrications
+- **Calibration**: void claims calibrated as structural/phenomenological observations; no possibility/probability slippage; Site Perspective uses "support," not proof; tenet-coherence not used to upgrade. Bedrock disagreements not re-flagged.
+- **Convergence**: 3rd review; converged. Low-priority orphaned-ref nit logged, no follow-on task (below churn threshold). Recommend longer re-review interval.
+- **Output**: [[reviews/deep-review-2026-05-31-disappearance-voids]]
+
 ## 2026-05-31T08:30:00+00:00 - deep-review
 - **Status**: Success
 - **File**: [[topics/delegatory-dualism]]

@@ -4,7 +4,7 @@ description: "Three mechanisms by which phenomenal content vanishes from conscio
 created: 2026-02-03
 modified: 2026-04-09
 human_modified: null
-ai_modified: 2026-05-28T13:30:00+00:00
+ai_modified: 2026-05-31T10:37:50+00:00
 draft: false
 topics:
   - "[[philosophy-of-mind]]"
@@ -25,7 +25,7 @@ related_articles:
   - "[[self-opacity]]"
   - "[[attention-and-consciousness]]"
   - "[[edge-states-and-void-probes]]"
-  - "[[thoughts-that-slip-away]]"
+  - "[[thought-stream-void]]"
   - "[[consciousness-and-skill-acquisition]]"
   - "[[what-voids-reveal]]"
   - "[[consciousness-only-territories]]"
@@ -41,7 +41,7 @@ author: null
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-04-09
 last_curated: null
-last_deep_review: 2026-04-17T18:26:00+00:00
+last_deep_review: 2026-05-31T10:37:50+00:00
 coalesced_from:
   - "/voids/absorption-void/"
   - "/voids/habituation-void/"
@@ -65,7 +65,7 @@ The constraint is inherent, not a limitation of current methods. The [[transit-v
 
 ### Cross-Cultural Convergence
 
-The absorption void is among the best-attested cognitive limits. Csikszentmihalyi's research across over 8,000 cases documents that flow involves loss of self-consciousness — attention fully invested in the activity, leaving no capacity for self-monitoring (Csikszentmihalyi, 1990). Buddhist contemplative traditions describe jhana as awareness stripped of self-reference — not unconsciousness, but consciousness without a witness (though some traditions hold that a minimal self-awareness persists even here). The [[comparative-phenomenology-of-meditative-traditions|comparative phenomenology of meditative traditions]] shows this self-dissolution is one of three convergence zones reported across Buddhist, Hindu, Christian, Sufi, and Daoist practices.
+The absorption void is among the best-attested cognitive limits. Csikszentmihalyi's research across thousands of interviews and experience-sampling cases documents that flow involves loss of self-consciousness — attention fully invested in the activity, leaving no capacity for self-monitoring (Csikszentmihalyi, 1990). Buddhist contemplative traditions describe jhana as awareness stripped of self-reference — not unconsciousness, but consciousness without a witness (though some traditions hold that a minimal self-awareness persists even here). The [[comparative-phenomenology-of-meditative-traditions|comparative phenomenology of meditative traditions]] shows this self-dissolution is one of three convergence zones reported across Buddhist, Hindu, Christian, Sufi, and Daoist practices.
 
 Three features recur: a threshold recognition as self-awareness fades, an absence not experienced as absence (noticing the lack would require the self-awareness whose absence defines the state), and re-emergence shock — the jarring return with a paradoxical sense of "I was gone."
 
@@ -168,7 +168,7 @@ Within the [[three-kinds-of-void|voids framework]], these disappearance voids ar
 - [[attention-and-consciousness]] — How attention structurally creates voids
 - [[self-opacity]] — The observer who cannot observe itself observing
 - [[edge-states-and-void-probes]] — How edge and altered states probe cognitive limits, and what approaching them feels like
-- [[thoughts-that-slip-away]] — Related phenomenology of cognitive slippage
+- [[thought-stream-void]] — Related phenomenology of cognitive slippage: how thoughts vanish when reached for
 - [[what-voids-reveal]] — How cognitive limits illuminate architecture
 - [[consciousness-only-territories]] — What only phenomenal experience can access
 - [[transit-void]] — The general case: consciousness cannot witness any of its own state transitions

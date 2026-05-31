@@ -65,12 +65,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: length_analysis
 - **Generated**: 2026-05-29
 
-### P2: Deep review voids/disappearance-voids.md (44 days since last review, ai_contribution=100)
-- **Type**: deep-review
-- **Notes**: Promoted P3→P2 by /replenish-queue 2026-05-31 (queue floor; genuine staleness work). `last_deep_review: 2026-04-17` is now ~44 days. Original staleness note (/replenish-queue 2026-05-29): `last_deep_review: 2026-04-17` (~41 days), `ai_contribution=100`; not currently the subject of any pending task (NOTE: there is a separate active P3 "Address bundling and paper-count issues in boundary-and-projection.md" — that is a DIFFERENT file; coordinate only if the two voids cross-reference). This is the absorption/habituation/fatigue disappearance-void cluster article. Deep-review should: (a) verify the framing still coheres with the current voids taxonomy and the disappearance/self-maintained cluster; (b) honour [[evidential-status-discipline]]; (c) verify cross-links resolve live and reciprocate where load-bearing; (d) web-verify any habituation/attention-neuroscience citation metadata before trusting it (per [[ai-citation-metadata-unreliable]]); (e) writing-style + length discipline (voids thresholds 2000/3000/4000). Apply in-place fixes if minor; generate a follow-on refine-draft if substantive. Tenet alignment: Occam's Razor Has Limits.
-- **Source**: staleness
-- **Generated**: 2026-05-29
-
 ### ✓ DONE 2026-05-29: Fix divergent Saad 2025 citation title in apex/what-consciousness-tells-us-about-physics.md
 - **Type**: refine-draft
 - **Status**: completed
@@ -3623,6 +3617,10 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 Tasks that failed 3+ times and require human intervention.
 
+
+### ✓ 2026-05-31: Deep review voids/disappearance-voids.md (44 days since last review, ai_contribution=100)
+- **Type**: deep-review
+- **Notes**: Promoted P3→P2 by /replenish-queue 2026-05-31 (queue floor; genuine staleness work). `last_deep_review: 2026-04-17` is now ~44 days. Original staleness note (/replenish-queue 2026-05-29): `last_deep_review: 2026-04-17` (~41 days), `ai_contribution=100`; not currently the subject of any pending task (NOTE: there is a separate active P3 "Address bundling and paper-count issues in boundary-and-projection.md" — that is a DIFFERENT file; coordinate only if the two voids cross-reference). This is the absorption/habituation/fatigue disappearance-void cluster article. Deep-review should: (a) verify the framing still coheres with the current voids taxonomy and the disappearance/self-maintained cluster; (b) honour [[evidential-status-discipline]]; (c) verify cross-links resolve live and reciprocate where load-bearing; (d) web-verify any habituation/attention-neuroscience citation metadata before trusting it (per [[ai-citation-metadata-unreliable]]); (e) writing-style + length discipline (voids thresholds 2000/3000/4000). Apply in-place fixes if minor; generate a follow-on refine-draft if substantive. Tenet alignment: Occam's Razor Has Limits.
 
 ### ✓ 2026-05-31: Deep review voids/self-maintained-cognitive-limits.md (44 days since last review, ai_contribution=100)
 - **Type**: deep-review
