@@ -4,7 +4,7 @@ description: "The phenomenal contrast method isolates non-sensory phenomenal pro
 created: 2026-03-17
 modified: 2026-03-17
 human_modified:
-ai_modified: 2026-05-09T08:35:00+00:00
+ai_modified: 2026-06-01T12:21:47+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -30,7 +30,7 @@ author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-03-17
 last_curated:
-last_deep_review: 2026-04-28T09:28:00+00:00
+last_deep_review: 2026-06-01T12:21:47+00:00
 ---
 
 The phenomenal contrast method identifies non-sensory phenomenal properties by holding sensory input constant while varying phenomenal experience. Two situations share identical physical stimulation yet differ in what it is like to undergo them. The difference isolates phenomenal character that cannot be explained by sensory content alone. The Unfinishable Map relies on this method across multiple articles as primary evidence for [[cognitive-phenomenology]], the irreducibility of understanding, and the limits of computational accounts of mind.

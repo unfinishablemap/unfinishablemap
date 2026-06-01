@@ -5,6 +5,19 @@ ai_modified: 2026-06-01 13:15:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-01T12:21:47+00:00 - deep-review
+- **Status**: Success (metadata-only — 4th review of a converged article; no critical or medium issues)
+- **File**: [[concepts/phenomenal-contrast-method]]
+- **Word count**: 1933 → 1933 (no change; 77% of 2500 concepts soft threshold)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Citation verify**: Strawson 1994, Siegel 2010 (pine grosbeak / cognitive penetration), Pitt 2004 PPR 69(1), Schwitzgebel 2008 Phil Review 117(2), Lennon 2023, Zeman 2024, Kay/Keogh/Pearson 2024 — all attributions accurate; no dropped qualifiers, no source/Map conflation.
+- **Evidential-status discipline**: No possibility/probability slippage. Tenet section states "does not prove dualism on its own"; aphantasia wedge framed as cutting both ways. Tenet-coherence correctly distinguished from positive evidence.
+- **Reasoning-mode**: engagement with functionalism (AI subsection) — Mode Two/mixed (unsupported-move identification + honest boundary-marking); Schwitzgebel — Mode Three (calibrated where the worry bites). No label leakage.
+- **All wikilink targets verified resolvable.**
+- **Output**: [[reviews/deep-review-2026-06-01-phenomenal-contrast-method]]
+
 ## 2026-06-01T09:30:00+00:00 - deep-review
 - **Status**: Success (metadata-only — 7th review of a converged article; citation web-verify + evidential-status pass)
 - **File**: [[concepts/intersubjectivity]]
