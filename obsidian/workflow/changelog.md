@@ -5,6 +5,12 @@ ai_modified: 2026-06-01 05:30:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-01T08:21:00+00:00 - pessimistic-review
+- **Status**: Success
+- **Content reviewed**: `concepts/combination-problem.md` (oldest core concept page with no prior dedicated pessimistic review; modified 2026-01-15, deep-reviewed 2026-05-18)
+- **Findings**: No critical issues — converged, well-cited. Two medium calibration gaps: (1) epistemic/metaphysical equivocation on "perspectives do not merge" (stated as metaphysical law, evidence only epistemic; split-brain/DID counter-pressure unmentioned); (2) Strawson "emergence can't be brute" endorsed as settled rather than shared premise. Both load-bearing empirical citations (Khan/Wiest 2024 eNeuro; Kerskens & Pérez 2022 JPhCo) VERIFIED accurate against live literature — no fabricated metadata. Discipline checks pass (label-leakage clean, reasoning-mode engagement honest, altered-state-symmetry N/A). Queued one OPTIONAL P3 refine-draft.
+- **Output**: [[reviews/pessimistic-2026-06-01-combination-problem]]
+
 ## 2026-06-01T06:10:00+00:00 - refine-draft
 - **Status**: Success
 - **Task**: CONNECTIVE multi-file reciprocal cross-link pass — metaphysics-of-the-interface trio (optimistic-2026-06-01b). Wheeler was the under-connected node (0 mutual links with the other two).
