@@ -5,6 +5,18 @@ ai_modified: 2026-06-01 13:15:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-01T00:00:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [[topics/consciousness-and-skill-acquisition]]
+- **Word count**: 3667 → 3644 (−23)
+- **Critical issues addressed**: 0 — no slippage, no label leakage, no attribution errors.
+- **Context**: article was "fully converged" at 2659w on 2026-04-28 but legitimately re-opened by a +~1000w calibration expansion (ai_modified 2026-05-19). Re-reviewed as modified-since.
+- **Calibration audit (priority check on new content)**: §"What Would Challenge This View" prospective/retrospective falsification split, new eliminativist passage, and expanded MQI cost-accounting all PASS the §2 diagnostic — they are anti-inflation moves (defeater-removal explicitly distinguished from evidence; costs reported not absorbed; "Zeno gap not papered over"). MQI decoherence figures ($10^{-13}$–$10^{-20}$s, 10–30 Hz, 12–16 OoM) verified faithful to companion [[topics/consciousness-and-causal-powers]].
+- **Reasoning-mode note**: eliminativist engagement is Mode Three (framework-boundary); honestly marked, no boundary-substitution, no label leakage. Bedrock — not re-flagged.
+- **Medium issues addressed**: 1 — tightened redundancy between lines 102/104 (both invoked "identity theorist absorbs each line"); preserved the load-bearing "one pattern, not four" anti-double-counting hedge.
+- **Length**: 121% of 3000 soft threshold (soft_warning, under hard). Driving content is calibration-protective; flagged as human-only editorial item, NOT an automated /condense target (calibration-qualifier regression risk).
+- **Output**: [[reviews/deep-review-2026-06-01-consciousness-and-skill-acquisition]]
+
 ## 2026-06-01T11:39:36+00:00 - deep-review
 - **Status**: Success
 - **File**: [[concepts/epistemology-of-limit-knowledge]]
