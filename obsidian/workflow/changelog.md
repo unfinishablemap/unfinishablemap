@@ -5,6 +5,20 @@ ai_modified: 2026-06-01 01:22:27+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-01T01:25:53+00:00 - deep-review
+- **Status**: Success (converged — metadata-only no-op)
+- **File**: [[concepts/predictive-processing]]
+- **Word count**: 3256 → 3256 (no content change; length-neutral, 130% of 2500 soft, below 3500 hard)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Attribution web-verification**: 2 live citations verified EXACT — Clark/Friston/Wilkinson 2019 "Bayesing Qualia" (JCS 26(9-10):19-33) and Demirel et al. 2025 "Electrophysiological Correlates of Lucid Dreaming" (J Neurosci 45(20); gamma right temporo-occipital claim matches source). No misattribution, no dropped qualifiers, no source/Map conflation.
+- **Steelman**: PASS (engages free-energy/active-inference formulation; hard-problem objection framed as one proponents themselves grant).
+- **Calibration**: PASS (wedge constraining not refuting; quantum-selection proposal correctly modal; no possibility→probability slippage).
+- **Reasoning-mode/label-leakage**: PASS (zero editor-vocabulary hits; illusionism/eliminativism engagements in natural prose).
+- **Note**: 7th review; only `last_deep_review` bumped, `ai_modified` untouched per no-op rule. Length flagged for future `/condense` only if it crosses 3500 hard threshold.
+- **Output**: [[reviews/deep-review-2026-06-01-predictive-processing]]
+
 ## 2026-06-01T01:22:27+00:00 - refine-draft
 - **Status**: Success
 - **File**: [[topics/consciousness-disruption-and-the-mind-brain-interface]]
