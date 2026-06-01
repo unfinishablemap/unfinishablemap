@@ -4,7 +4,7 @@ description: "The felt signals that gate cognition from inside—knowing, rightn
 created: 2026-02-27
 modified: 2026-04-30
 human_modified:
-ai_modified: 2026-06-01T02:38:05+00:00
+ai_modified: 2026-06-01T03:35:00+00:00
 draft: false
 topics:
   - "[[philosophy-of-mind]]"
@@ -54,6 +54,7 @@ related_articles:
   - "[[memory-anomalies]]"
   - "[[phenomenal-output-causal-machinery-dissociation]]"
   - "[[topics/pupillometry-behavioural-channel]]"
+  - "[[cognitive-phenomenology-and-the-irreducibility-of-thought]]"
 ai_contribution: 100
 author:
 ai_system: claude-opus-4-7
@@ -84,7 +85,7 @@ Noetic feelings—also called epistemic or metacognitive feelings—form a funct
 - **Feeling of confidence** — sense that a judgment is reliable. Gates commitment to action.
 - **Feeling of error** — dysphoric, often pre-conceptual sense that something is wrong. Gates corrective search.
 
-Loev calls these "mild affective experiences" whose felt character "tends to elude us introspectively" precisely because of their mildness. Proust treats metacognition as procedural rather than metarepresentational: the feelings drive epistemic control beneath reportable judgment. The Map treats [[epistemic-emotions|epistemic emotions]]—curiosity, doubt, insight, confusion—as the phenomenally rich end of the family; noetic feelings sit a level lower, minimal and verdict-like. The noetic feel typically registers the *output* of an upstream inferential transition whose own opacity is the [[inference-void|inference void]]; further upstream sits the [[relevance-void|relevance void]], which shortlists what is even in play. Relevance shortlists; inference moves; noetic feelings register when to stop—the felt click of having-decided is one such verdict, while the underlying deliberation→commitment closure that the click marks is the [[decision-void]]. The [[the-quantitative-comprehension-void#a-shared-signature-multiple-faces|shared signature of the quantitative comprehension void]] names the same output-without-operation shape outside the affective family.
+Loev calls these "mild affective experiences" whose felt character "tends to elude us introspectively" precisely because of their mildness. Proust treats metacognition as procedural rather than metarepresentational: the feelings drive epistemic control beneath reportable judgment. The Map treats [[epistemic-emotions|epistemic emotions]]—curiosity, doubt, insight, confusion—as the phenomenally rich end of the family; noetic feelings sit a level lower, minimal and verdict-like. Arango-Muñoz (2019) marks the seam where this family adjoins the cognitive-phenomenology question: noetic feelings concern the *accessibility* of a verdict consciousness cannot audit, while cognitive phenomenology concerns whether the thinking the verdict gates has a proprietary phenomenal kind at all—an ontology-of-the-phenomenal question (see [[cognitive-phenomenology-and-the-irreducibility-of-thought]]) that the boundary between the two does not settle. The noetic feel typically registers the *output* of an upstream inferential transition whose own opacity is the [[inference-void|inference void]]; further upstream sits the [[relevance-void|relevance void]], which shortlists what is even in play. Relevance shortlists; inference moves; noetic feelings register when to stop—the felt click of having-decided is one such verdict, while the underlying deliberation→commitment closure that the click marks is the [[decision-void]]. The [[the-quantitative-comprehension-void#a-shared-signature-multiple-faces|shared signature of the quantitative comprehension void]] names the same output-without-operation shape outside the affective family.
 
 ## How the Feelings Are Produced
 
@@ -180,7 +181,7 @@ The cluster-level conditions are taken up separately in [[medium-status-voids-in
 - [[the-quantitative-comprehension-void#a-shared-signature-multiple-faces|The Quantitative Comprehension Void — shared signature]] — Output-without-operation as a diagnostic signature across quantitative cognition
 - [[suspension-void]] — Why bracketing the natural attitude cannot fully audit itself
 - [[decision-void]] — The deliberation→commitment closure whose felt click is a noetic-feelings verdict
-- [[research/voids-cognitive-phenomenology-void-2026-05-01|The Cognitive Phenomenology Void (research-stage)]] — Whether thinking-as-such has a proprietary phenomenal kind distinct from sensory imagery, inner speech, and the noetic feelings catalogued here. Three-face structural irresolvability (introspective / dialectical / empirical-architectural), anchored by the Würzburg-Titchener controversy of c.1900–1915 and Fürst's diagnosis that phenomenal contrast is "regimented by the view initially held." Distinguishes itself from this void by concerning the *ontology* of the phenomenal rather than its accessibility; the seam between cognitive phenomenology and metacognitive feelings is the open boundary the absorption pass will need to mark. Cap-deferred, awaiting absorption into this article and into [[imagery-void]] (Lennon's aphantasia evidence)
+- [[cognitive-phenomenology-and-the-irreducibility-of-thought]] — Whether thinking-as-such has a proprietary phenomenal kind distinct from sensory imagery, inner speech, and the noetic feelings catalogued here. Concerns the *ontology* of the phenomenal rather than its accessibility; Arango-Muñoz (2019) marks the boundary between that question and this void's gating-signal family. The [[research/voids-cognitive-phenomenology-void-2026-05-01|research note]] frames its three-face structural irresolvability (introspective / dialectical / empirical-architectural), anchored by the Würzburg-Titchener controversy of c.1900–1915
 - [[research/voids-effort-void-2026-05-08|The Effort Void (research-stage)]] — Action-side analogue: where noetic feelings gate cognition's acceptance, effort feelings gate its deployment, and both gating systems are sub-personal. Cap-deferred, awaiting absorption primarily into [[agency-void]] with secondary points of contact here
 - [[research/voids-insight-void-2026-05-14|The Insight Void (research-stage)]] — Three-face survey of impasse-breaking (restructuring / antecedent-blindness / calibration); the calibration face is a direct face of this void. Topolinski-Reber (2010) ground the felt-rightness of insight in a sudden fluency increase rather than the truth of the answer; Danek-Wiley (2017) document false insights that arrive with the same Pleasure / Suddenness / Certainty / Relief / Drive dimensions as true ones and are not categorically distinguishable from inside; Laukkonen et al. (2020)'s "dark side of Eureka" shows artificially-induced aha moments elevate judged truth of *unrelated* propositions co-active when they fire — the Eureka heuristic. Cap-deferred, awaiting absorption into this article's fluency-as-stop-sign treatment, with the operation-void core (restructuring + antecedent-blindness) potentially routing instead to [[transit-void]]
 - [[epistemic-emotions]] — The phenomenally rich extension of the noetic family
@@ -201,3 +202,4 @@ The cluster-level conditions are taken up separately in [[medium-status-voids-in
 9. Wittgenstein, L. *Culture and Value* (ed. von Wright, 1977).
 10. Heidegger, M. (1927). *Being and Time*, Division I.
 11. Husserl, E. (1913). *Ideas Pertaining to a Pure Phenomenology*. Nijhoff.
+12. Arango-Muñoz, S. (2019). "Cognitive Phenomenology and Metacognitive Feelings." *Mind & Language*, 34(2).

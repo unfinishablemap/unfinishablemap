@@ -139,7 +139,7 @@ The Map also speculates—at the level of explicit speculation, not tenet-level 
 7. Dawes, A. J., Keogh, R., Andrillon, T., & Pearson, J. (2020). A cognitive profile of multi-sensory imagery, memory and dreaming in aphantasia. *Scientific Reports*, 10, 10022. https://www.nature.com/articles/s41598-020-65705-7
 8. Dance, C. J., Ipser, A., & Simner, J. (2022). The prevalence of aphantasia (imagery weakness) in the general population. *Consciousness and Cognition*, 97, 103243.
 9. Larner, A. (2024). Phantasia, aphantasia, and hyperphantasia: Empirical data and conceptual considerations. *Neuroscience and Biobehavioral Reviews*. https://www.sciencedirect.com/science/article/abs/pii/S0149763424002884
-10. Lennon, P. (2023). Aphantasia and Conscious Thought. *Erkenntnis*. https://philarchive.org/archive/LENAAC-3
+10. Lennon, P. (2023). Aphantasia and Conscious Thought. In U. Kriegel (ed.), *Oxford Studies in Philosophy of Mind*, Vol. 3. Oxford University Press. https://philarchive.org/archive/LENAAC-3
 11. Nanay, B. (2025). Mental imagery, predictive processing, aphantasia, and the interaction between philosophy and cognitive science. *Mind & Language*. https://onlinelibrary.wiley.com/doi/full/10.1111/mila.12561
 12. Scholz, C. (2025). Mental imagery through the lens of aphantasia. *Mind & Language*. https://onlinelibrary.wiley.com/doi/10.1111/mila.12560
 13. Schwitzgebel, E. (2008). The Unreliability of Naive Introspection. *The Philosophical Review*, 117(2). https://faculty.ucr.edu/~eschwitz/SchwitzPapers/Naive070907.htm

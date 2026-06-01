@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-20
-ai_modified: 2026-05-27 10:30:00+00:00
+ai_modified: 2026-06-01 23:24:29+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -22,7 +22,7 @@ description: Six converging evidence lines reshape quantum biology's bearing on 
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-05-18 12:00:00+00:00
+last_deep_review: 2026-06-01 23:24:29+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -67,7 +67,7 @@ Five distinct [quantum mechanisms](/concepts/quantum-biology-and-neural-mechanis
 
 1. **Radical pair effects** in cryptochrome proteins may function in neural tissue. Spin coherence persists for microseconds.
 2. **Ion channel tunnelling** allows ions to pass through closed voltage-gated channels, affecting action potential dynamics.
-3. **Microtubule coherence** (Orch OR and QBIT theories) proposes that tubulin proteins sustain quantum states, with consciousness emerging from collapse events. Room-temperature quantum effects have been reported (Sahu et al., 2013; Travis et al., 2024).
+3. **Microtubule coherence** (Orch OR and QBIT theories) proposes that tubulin proteins sustain quantum states, with consciousness emerging from collapse events. Room-temperature quantum effects have been reported—memory-switching in single microtubules (Sahu et al., 2013) and tryptophan-network UV superradiance (Babcock et al., 2024, detailed below).
 4. **Synaptic tunnelling** (Beck-Eccles-Georgiev) identifies quantum effects in neurotransmitter release.
 5. **Posner molecule entanglement** (Fisher) proposes phosphorus nuclear spins as qubits with potentially hour-long coherence times.
 
@@ -223,21 +223,21 @@ Two structural responses follow. *First*, the Map and Duch *converge* against Pe
 ## References
 
 1. Denton, M. C. J., Smith, L. D., Xu, W., Pugsley, J., Toghill, A., & Kattnig, D. R. (2024). Magnetosensitivity of tightly bound radical pairs in cryptochrome is enabled by the quantum Zeno effect. *Nature Communications*, 15, 10823.
-2. Babcock, N. S., et al. (2024). Ultraviolet Superradiance from Mega-Networks of Tryptophan in Biological Architectures. *The Journal of Physical Chemistry B*, 128(20), 4906-4920.
+2. Babcock, N. S., Montes-Cabrera, G., Oberhofer, K. E., Chergui, M., Celardo, G. L., & Kurian, P. (2024). Ultraviolet Superradiance from Mega-Networks of Tryptophan in Biological Architectures. *The Journal of Physical Chemistry B*, 128(17), 4035-4046.
 3. Beshkar, M. (2025). Consciousness and spintronic coherence in microtubules. *Communicative & Integrative Biology*.
-4. Fisher, M. P. A. (2015). Quantum cognition: The possibility of processing with nuclear spins in the brain. *Annals of Physics*, 362, 593-602.
-5. Fisher, M. P. A., et al. (2025). Giant and opposite lithium isotope effects on rat hippocampus synaptic activity revealed by multi-electrode array electrophysiology. *bioRxiv preprint*.
-6. Fleming, G. R., et al. (2007). Evidence for wavelike energy transfer through quantum coherence in photosynthetic systems. *Nature*, 446, 782-786.
-7. Hagan, S., Hameroff, S., & Tuszynski, J. A. (2002). Quantum computation in brain microtubules: Decoherence and biological feasibility. *Physical Review E*, 65(6), 061901.
-8. Keppler, J. (2025). Macroscopic quantum effects in the brain: new insights into the fundamental principle underlying conscious processes. *Frontiers in Human Neuroscience*, 2025, 1676585.
-9. Kerskens, C. M. & Pérez, D. L. (2022). Experimental indications of non-classical brain functions. *Journal of Physics Communications*, 6, 105001.
-10. Kerskens, C. M., et al. (2025). Evidence of quantum-entangled higher states of consciousness. *PMC*.
-11. Khan, S., et al. (2024). Microtubule-stabilizer epothilone B delays anesthetic-induced unconsciousness in rats. *eNeuro*, 11(8).
-12. Mavromatos, N. E., et al. (2025). The quantum-classical complexity of consciousness and orchestrated objective reduction. *Frontiers in Human Neuroscience*, 2025, 1630906.
-13. Sahu, S., et al. (2013). Multi-level memory-switching properties of a single brain microtubule. *Applied Physics Letters*, 102(12), 123701.
-14. Schlosshauer, M. (2025). Quantum decoherence. *Physics Reports*, 1063, 1-64.
-15. Tegmark, M. (2000). Importance of quantum decoherence in brain processes. *Physical Review E*, 61(4), 4194-4206.
-16. Travis, K., et al. (2024). Anesthetic-sensitive quantum effects in microtubules. *Journal of Integrative Neuroscience*, 23(3), 45-58.
+4. Craddock, T. J. A., Kurian, P., Preto, J., Sahu, K., Hameroff, S. R., Klobukowski, M., & Tuszynski, J. A. (2017). Anesthetic alterations of collective terahertz oscillations in tubulin correlate with clinical potency: Implications for anesthetic action and post-operative cognitive dysfunction. *Scientific Reports*, 7, 9877. https://doi.org/10.1038/s41598-017-09992-7
+5. Fisher, M. P. A. (2015). Quantum cognition: The possibility of processing with nuclear spins in the brain. *Annals of Physics*, 362, 593-602.
+6. Fisher, M. P. A., et al. (2025). Giant and opposite lithium isotope effects on rat hippocampus synaptic activity revealed by multi-electrode array electrophysiology. *bioRxiv preprint*.
+7. Fleming, G. R., et al. (2007). Evidence for wavelike energy transfer through quantum coherence in photosynthetic systems. *Nature*, 446, 782-786.
+8. Hagan, S., Hameroff, S., & Tuszynski, J. A. (2002). Quantum computation in brain microtubules: Decoherence and biological feasibility. *Physical Review E*, 65(6), 061901.
+9. Keppler, J. (2025). Macroscopic quantum effects in the brain: new insights into the fundamental principle underlying conscious processes. *Frontiers in Human Neuroscience*, 2025, 1676585.
+10. Kerskens, C. M. & Pérez, D. L. (2022). Experimental indications of non-classical brain functions. *Journal of Physics Communications*, 6, 105001.
+11. Kerskens, C. M., et al. (2025). Evidence of quantum-entangled higher states of consciousness. *PMC*.
+12. Khan, S., et al. (2024). Microtubule-stabilizer epothilone B delays anesthetic-induced unconsciousness in rats. *eNeuro*, 11(8).
+13. Mavromatos, N. E., et al. (2025). The quantum-classical complexity of consciousness and orchestrated objective reduction. *Frontiers in Human Neuroscience*, 2025, 1630906.
+14. Sahu, S., et al. (2013). Multi-level memory-switching properties of a single brain microtubule. *Applied Physics Letters*, 102(12), 123701.
+15. Schlosshauer, M. (2025). Quantum decoherence. *Physics Reports*, 1063, 1-64.
+16. Tegmark, M. (2000). Importance of quantum decoherence in brain processes. *Physical Review E*, 61(4), 4194-4206.
 17. Warren, W. S. (2023). Comment on "Experimental indications of non-classical brain functions." *Journal of Physics Communications*, 7, 048001.
 18. Wiest, M. C. (2025). A quantum microtubule substrate of consciousness is experimentally supported and solves the binding and epiphenomenalism problems. *Neuroscience of Consciousness*, 2025(1), niaf011.
 19. Wiest, M. C., & Puniani, A. S. (2025). Conscious active inference II: Quantum orchestrated objective reduction among intraneuronal microtubules naturally accounts for discrete perceptual cycles. *Computational and Structural Biotechnology Journal*.

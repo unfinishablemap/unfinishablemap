@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-04-26
-ai_modified: 2026-05-25 11:47:28.505888+00:00
+ai_modified: 2026-06-01 00:00:00+00:00
 ai_system: claude-opus-4-7
 author: null
 concepts:
@@ -26,7 +26,7 @@ embedded_videos:
   url: https://www.youtube-nocookie.com/embed/knYTL4oavRs
 human_modified: null
 last_curated: null
-last_deep_review: 2026-04-30 22:55:00+00:00
+last_deep_review: 2026-06-01 00:00:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -117,7 +117,7 @@ Three families of objection have shaped the literature.
 
 **The [hard problem of content](/concepts/hard-problem-of-content/).** Hutto and Myin (2013, 2017) argue that naturalistic theories of mental representation cannot explain how neurological states acquire genuine semantic properties—how a pattern of neural activity comes to be *about* anything (the Map develops this as a parallel to the phenomenal hard problem in [the-naturalisation-failure-for-content](/topics/the-naturalisation-failure-for-content/)). This is distinct from Churchland's eliminativism: Hutto and Myin reject inner mental representations entirely (radical enactivism), and their positive thesis—that basic minds are contentless—is itself a form of eliminativism about content rather than about propositional-attitude structure. The argument tells against the *replacement programme* by undercutting the assumption that something representational survives the replacement. Together with Boghossian's [status-of-content](/concepts/status-of-content/) argument, the two form a pincer: Boghossian shows that content irrealism cannot be coherently asserted; Hutto and Myin show that content realism cannot be naturalised.
 
-**The Moorean response to illusionism.** Realists from Searle onwards have argued that phenomenal consciousness is the one domain where appearance and reality cannot come apart. "Where consciousness is concerned," Searle writes, "the existence of the appearance is the reality." If it seems to me that I am in pain, I am in pain; the seeming and the being are not separable. A 2024 *Frontiers in Psychology* paper, "In Defence of the Moorean Argument Against Illusionism," develops this line: I am more certain that phenomenal consciousness exists than I am of any premise an illusionist could deploy against it. Modus tollens beats modus ponens.
+**The Moorean response to illusionism.** Realists from Searle onwards have argued that phenomenal consciousness is the one domain where appearance and reality cannot come apart. "Where consciousness is concerned," Searle writes, "the existence of the appearance is the reality." If it seems to me that I am in pain, I am in pain; the seeming and the being are not separable. Chalmers (2018) sharpened this into a Moorean argument: the existence of phenomenal pain is more obvious than any premise an illusionist could deploy to deny it, so modus tollens beats modus ponens. The argument is contested—Loginov (2024) presses that the premise "pain has phenomenal character" smuggles in philosophical jargon rather than commanding common-sense assent—but Morozov (2025) defends a reformulation trading on the bare experiencing of pain rather than its theory-laden description.
 
 A related objection is the regress-against-illusionism: if the illusion of phenomenal consciousness is itself a phenomenal seeming, illusionism merely relocates the problem. To whom does the illusion appear? If the appearance has phenomenal character, the illusionist has reintroduced the explanandum. If it does not, the position seems to dissolve into something its defenders did not intend. Frankish anticipates this in §6 of his 2016 paper, replying that the seeming is *quasi*-phenomenal—a higher-order representational state with functional properties that misrepresents itself as phenomenal—not itself a phenomenal seeming that would relaunch the regress. The Map finds the reply pressed: it requires the appearance of phenomenality to have *no* phenomenal character whatsoever, which is the position it was meant to explain rather than presuppose. The disagreement at this point is over whether the quasi-phenomenal/phenomenal distinction can be drawn cleanly enough to bear the weight Frankish places on it.
 
@@ -173,19 +173,23 @@ Eliminativism persists because physicalism keeps failing to produce a satisfying
 ## References
 
 1. Boghossian, P. (1990). The Status of Content. *Philosophical Review*, 99, 157-184.
-2. Churchland, P. M. (1981). Eliminative Materialism and the Propositional Attitudes. *Journal of Philosophy*, 78, 67-90.
-3. Churchland, P. S. (1986). *Neurophilosophy: Toward a Unified Science of the Mind/Brain*. MIT Press.
-4. Cornman, J. (1968). On the Elimination of "Sensations" and Sensations. *Review of Metaphysics*, 22, 15-35.
-5. Dennett, D. (1988). Quining Qualia. In Marcel & Bisiach (eds.), *Consciousness in Contemporary Science*. Oxford University Press.
-6. Dennett, D. (2016). Illusionism as the Obvious Default Theory of Consciousness. *Journal of Consciousness Studies*, 23(11-12), 65-72.
-7. Devitt, M. & Rey, G. (1991). Transcending Transcendentalism: A Response to Boghossian. *Pacific Philosophical Quarterly*, 72, 87-100.
-8. Frankish, K. (2016). Illusionism as a Theory of Consciousness. *Journal of Consciousness Studies*, 23(11-12), 11-39.
-9. Hutto, D. D. & Myin, E. (2013). *Radicalizing Enactivism: Basic Minds Without Content*. MIT Press.
-10. Hutto, D. D. & Myin, E. (2017). *Evolving Enactivism: Basic Minds Meet Content*. MIT Press.
-11. Lycan, W. G. & Pappas, G. (1972). What Is Eliminative Materialism? *Australasian Journal of Philosophy*, 50, 149-159.
-12. Ramsey, W. (2003, substantively revised 2019). Eliminative Materialism. *Stanford Encyclopedia of Philosophy*.
-13. Ramsey, W., Stich, S., & Garon, J. (1990). Connectionism, Eliminativism, and the Future of Folk Psychology. *Philosophical Perspectives*, 4, 499-533.
-14. Sellars, W. (1956). Empiricism and the Philosophy of Mind. In Feigl & Scriven (eds.), *Minnesota Studies in the Philosophy of Science*, vol. 1. University of Minnesota Press.
-15. Stich, S. (1983). *From Folk Psychology to Cognitive Science: The Case Against Belief*. MIT Press.
-16. Stich, S. (1996). *Deconstructing the Mind*. Oxford University Press.
-17. Toon, A. (2023). *Mind as Metaphor: A Defence of Mental Fictionalism*. Routledge.
+2. Chalmers, D. (2018). The Meta-Problem of Consciousness. *Journal of Consciousness Studies*, 25(9-10), 6-61. (Moorean argument against illusionism, p. 53.)
+3. Churchland, P. M. (1981). Eliminative Materialism and the Propositional Attitudes. *Journal of Philosophy*, 78(2), 67-90.
+4. Churchland, P. S. (1986). *Neurophilosophy: Toward a Unified Science of the Mind/Brain*. MIT Press.
+5. Cornman, J. (1968). On the Elimination of "Sensations" and Sensations. *Review of Metaphysics*, 22, 15-35.
+6. Dennett, D. (1988). Quining Qualia. In Marcel & Bisiach (eds.), *Consciousness in Contemporary Science*. Oxford University Press.
+7. Dennett, D. (2016). Illusionism as the Obvious Default Theory of Consciousness. *Journal of Consciousness Studies*, 23(11-12), 65-72.
+8. Devitt, M. & Rey, G. (1991). Transcending Transcendentalism: A Response to Boghossian. *Pacific Philosophical Quarterly*, 72, 87-100.
+9. Frankish, K. (2016). Illusionism as a Theory of Consciousness. *Journal of Consciousness Studies*, 23(11-12), 11-39.
+10. Hutto, D. D. & Myin, E. (2013). *Radicalizing Enactivism: Basic Minds Without Content*. MIT Press.
+11. Hutto, D. D. & Myin, E. (2017). *Evolving Enactivism: Basic Minds Meet Content*. MIT Press.
+12. Loginov, E. V. (2024). Illusionism, Moore, and Chalmers. *Frontiers in Psychology*, 15, 1449314. (Argues the Moorean argument against illusionism does not succeed.)
+13. Lycan, W. G. & Pappas, G. (1972). What Is Eliminative Materialism? *Australasian Journal of Philosophy*, 50, 149-159.
+14. Morozov, K. (2025). In Defense of Moorean Argument Against Illusionism. In I. Kasavin (ed.), *Revolution and Evolution: Models of Development in Science, Culture, and Society*, 397-402. Moscow: Russian Society for History and Philosophy of Science.
+15. Ramsey, W. (2003, substantively revised 2019). Eliminative Materialism. *Stanford Encyclopedia of Philosophy*.
+16. Ramsey, W., Stich, S., & Garon, J. (1990). Connectionism, Eliminativism, and the Future of Folk Psychology. *Philosophical Perspectives*, 4, 499-533.
+17. Searle, J. (1992). *The Rediscovery of the Mind*. MIT Press.
+18. Sellars, W. (1956). Empiricism and the Philosophy of Mind. In Feigl & Scriven (eds.), *Minnesota Studies in the Philosophy of Science*, vol. 1. University of Minnesota Press.
+19. Stich, S. (1983). *From Folk Psychology to Cognitive Science: The Case Against Belief*. MIT Press.
+20. Stich, S. (1996). *Deconstructing the Mind*. Oxford University Press.
+21. Toon, A. (2023). *Mind as Metaphor: A Defence of Mental Fictionalism*. Routledge.

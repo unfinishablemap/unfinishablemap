@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-24
-ai_modified: 2026-05-26 12:00:00+00:00
+ai_modified: 2026-06-01 00:00:00+00:00
 ai_system: claude-opus-4-7
 author: null
 concepts:
@@ -133,7 +133,7 @@ Chalmers draws an illuminating parallel. James Clerk Maxwell expanded physics by
 
 Consciousness may require the same move. Adding a non-physical category is an ontological cost. But it explains why there is something it is like to be conscious — something no physicalist theory has achieved. As Chalmers writes: "Just as Maxwell sacrificed a simple mechanistic worldview by postulating electromagnetic fields in order to explain certain natural phenomena, we need to sacrifice a simple physicalistic worldview in order to explain consciousness." If the explanatory gain is real, the ontological cost is justified. A theory that explains nothing about its target phenomenon cannot claim the virtue of simplicity.
 
-This is the [strong emergence](/topics/the-strong-emergence-of-consciousness/) move articulated in detail elsewhere on the Map: consciousness possesses properties not deducible even in principle from physical facts, and quantum indeterminacy supplies the mechanism through which those properties act. The parsimony case and the strong-emergence case meet here. Type-B physicalism accepts irreducibility but supplies no mechanism, leaving the brute identity unexplained. Panpsychism preserves a mechanism by denying emergence — at the cost of relocating the explanatory gap into the [combination-problem](/concepts/combination-problem/). The Map's emergentist interactionism couples genuine ontological novelty to a specific physical interface, so the ontological cost purchases both the irreducibility *and* the causal coherence the rival positions cannot supply together. That joint purchase is what the standard parsimony argument leaves uncounted.
+The Map shares [strong emergence](/topics/the-strong-emergence-of-consciousness/)'s irreducibility claim — consciousness possesses properties not deducible even in principle from physical facts — while grounding it differently. Strong emergence is a *from-below* thesis: consciousness arises when physical matter attains the right organisation. The Map's [bi-aspectual dualism](/concepts/bi-aspectual-ontology/) keeps the irreducibility but drops the directionality — consciousness and physical structure are co-fundamental aspects of reality, not the one produced by the complexity of the other. Quantum indeterminacy supplies the mechanism through which the conscious aspect acts on the physical world. The parsimony case and the irreducibility case meet here. Type-B physicalism accepts irreducibility but supplies no mechanism, leaving the brute identity unexplained. Panpsychism preserves a mechanism by denying emergence — at the cost of relocating the explanatory gap into the [combination-problem](/concepts/combination-problem/). The Map's interactionist dualism couples genuine ontological novelty to a specific physical interface, so the ontological cost purchases both the irreducibility *and* the causal coherence the rival positions cannot supply together. That joint purchase is what the standard parsimony argument leaves uncounted.
 
 ## Relation to Site Perspective
 

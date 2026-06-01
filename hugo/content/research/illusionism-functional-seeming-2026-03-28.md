@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-28
-ai_modified: 2026-03-28 13:27:00+00:00
+ai_modified: 2026-06-01 20:40:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -71,9 +71,10 @@ This research focuses on Keith Frankish's specific response to the regress objec
 - **URL**: https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2024.1449314/full
 - **Type**: Paper (Frontiers in Psychology)
 - **Key points**:
-  - Defends the Moorean argument against Chalmers's own revision
-  - Argues Chalmers's Moorean argument against illusionism cannot ultimately refute illusionism
-  - Explores whether "phenomenal consciousness" is too technical a term for Moorean common-sense argumentation
+  - Defends Moore's *original* 1939 external-world proof against Chalmers's (2022) criticism of it
+  - But argues Chalmers's (2018) Moorean argument *against illusionism* does not succeed and cannot refute illusionism
+  - The anti-illusionism premise—that pain has phenomenal character (the "Qualitative Thesis")—lacks the common-sense status Moore's Independence Thesis enjoys; it smuggles in philosophical jargon
+  - The actual defender of the anti-illusionism Moorean argument is Morozov (2025), who reformulates it to trade on the bare experiencing of pain
 - **Tenet alignment**: Neutral—explores the argumentative structure rather than taking a definitive side
 
 ### "How Can You Be So Sure?" (Kammerer, 2022)
@@ -157,7 +158,7 @@ This research focuses on Keith Frankish's specific response to the regress objec
 - **Current state**: Ongoing. Kammerer's illusion meta-problem adds another layer: why does illusionism seem so obviously wrong?
 
 ### The Moorean Argument
-- **Sides**: Chalmers (2018) deployed a Moorean argument against illusionism. Chalmers (2022) then argued the original Moorean argument was flawed. Loginov (2024) attempted to rehabilitate the Moorean argument.
+- **Sides**: Chalmers (2018) deployed a Moorean argument against illusionism. Chalmers (2022) then argued the original Moorean argument was flawed. Loginov (2024) argued the Moorean argument does not succeed—its "pain has phenomenal character" premise lacks common-sense status. Morozov (2025) is the actual defender, reformulating the argument to trade on the bare experiencing of pain.
 - **Core disagreement**: Whether common-sense certainty about phenomenal consciousness can serve as a philosophical premise, and whether "phenomenal consciousness" is too technical a term for Moorean argumentation.
 - **Current state**: Unresolved. The debate has become increasingly meta-philosophical—about what kinds of premises can ground what kinds of arguments.
 
@@ -181,7 +182,8 @@ This research focuses on Keith Frankish's specific response to the regress objec
 | 2021 | Pereboom & Frankish, "Explaining the Illusion" | Details the distortion thesis and introspective misrepresentation mechanism |
 | 2022 | Kammerer, "How Can You Be So Sure?" | Addresses obviousness of phenomenal consciousness using introspective opacity |
 | 2022 | Chalmers revises Moorean argument | Argues his own earlier Moorean anti-illusionism was flawed |
-| 2024 | Loginov, "Illusionism, Moore, and Chalmers" | Attempts to rehabilitate the Moorean argument |
+| 2024 | Loginov, "Illusionism, Moore, and Chalmers" | Argues the Moorean argument does not succeed |
+| 2025 | Morozov, "In Defense of Moorean Argument Against Illusionism" | Defends a reformulation of the Moorean argument |
 
 ## Potential Article Angles
 
@@ -214,6 +216,7 @@ When writing the article, follow `obsidian/project/writing-style.md` for:
 - Graziano, M.S.A. (2015). "The Attention Schema Theory: A Mechanistic Account of Subjective Awareness." *Frontiers in Psychology*. https://pmc.ncbi.nlm.nih.gov/articles/PMC4407481/
 - Kammerer, F. (2017). "Can you believe it? Illusionism and the illusion meta-problem." *Philosophical Psychology*, 31(1).
 - Kammerer, F. (2022). "How Can You Be So Sure? Illusionism and the Obviousness of Phenomenal Consciousness." *Philosophical Studies*. https://link.springer.com/article/10.1007/s11098-022-01804-7
-- Loginov, E.V. (2024). "Illusionism, Moore, and Chalmers." *Frontiers in Psychology*. https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2024.1449314/full
+- Loginov, E.V. (2024). "Illusionism, Moore, and Chalmers." *Frontiers in Psychology*, 15, 1449314. https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2024.1449314/full (Argues the Moorean argument against illusionism does not succeed.)
+- Morozov, K. (2025). "In Defense of Moorean Argument Against Illusionism." In I. Kasavin (ed.), *Revolution and Evolution: Models of Development in Science, Culture, and Society*, 397-402. Moscow: Russian Society for History and Philosophy of Science. (Defends a reformulation of the Moorean argument.)
 - Pereboom, D. & Frankish, K. (2021). "Illusionism about Phenomenal Consciousness: Explaining the Illusion." *Review of Philosophy and Psychology*. https://link.springer.com/article/10.1007/s13164-021-00537-6
 - Strawson, G. (2018). "The Consciousness Deniers." *New York Review of Books*. https://web.ics.purdue.edu/~drkelly/StrawsonDennettNYRBExchangeConsciousness2018.pdf

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-16
-ai_modified: 2026-05-29 12:00:00+00:00
+ai_modified: 2026-06-01 22:37:08+00:00
 ai_system: claude-opus-4-7
 apex_last_synthesis: 2026-05-12 02:21:00+00:00
 apex_sources:
@@ -105,7 +105,7 @@ The [hypnagogic transition](/topics/hypnagogic-phenomenology-and-interface-modul
 
 This sequential dissolution is the single most informative observation for interface architecture. If consciousness were a unified product of neural activity, the transition to sleep should involve uniform dimming. Instead, the transition reveals multiple semi-independent channels with different vulnerability thresholds—and a telling bandwidth asymmetry: the receiving channel (vivid autonomous imagery) opens wider precisely as the transmitting channel (voluntary control) narrows. Reception and transmission are architecturally distinct. The [coupling-modes](/concepts/coupling-modes/) framework turns this sequence into a testable prediction: basis control (selecting what to attend to) corresponds to the voluntary attention that disengages first; timing control (sustaining observation) corresponds to the effortful imagery maintenance that fails next. If the modes are real channels rather than convenient labels, each should produce distinct phenomenological signatures during sequential disengagement—basis withdrawal as loss of voluntary attention, timing withdrawal as autonomous imagery onset, selection-level withdrawal as the dissolution of agency. Hypnagogia is the natural laboratory for this prediction.
 
-The creative potency of the hypnagogic boundary—Lacaux et al. (2021) found that fifteen seconds in N1 sleep nearly tripled mathematical insight—confirms that partial interface loosening produces functional results that full waking constraint does not. The interface has an optimal looseness for different cognitive tasks, and consciousness navigates this landscape nightly.
+The creative potency of the hypnagogic boundary—Lacaux et al. (2021) found that fifteen seconds in N1 sleep tripled the discovery of a hidden rule in a mathematical task (83% versus 30%)—confirms that partial interface loosening produces functional results that full waking constraint does not. The interface has an optimal looseness for different cognitive tasks, and consciousness navigates this landscape nightly.
 
 ### Meditation: Voluntary Interface Modulation
 
@@ -218,7 +218,7 @@ This synthesis draws on:
 3. Carhart-Harris, R. L. & Friston, K. J. (2019). REBUS and the anarchic brain: Toward a unified model of the brain action of psychedelics. *Pharmacological Reviews*, 71(3), 316-344.
 4. Fox, K. C. R., et al. (2012). Meditation experience predicts introspective accuracy. *PLOS One*, 7(9), e45370.
 5. Hu, J. J., Liu, Y., Yao, H., et al. (2023). Emergence of consciousness from anesthesia through ubiquitin degradation of KCC2 in the ventral posteromedial nucleus of the thalamus. *Nature Neuroscience*, 26(5), 751-764.
-6. Konkoly, K. R., et al. (2026). Puzzle-incorporating dreams and creative problem-solving. *Consciousness and Cognition*, 108, 103567.
+6. Konkoly, K. R., et al. (2026). Creative problem-solving after experimentally provoking dreams of unsolved puzzles during REM sleep. *Neuroscience of Consciousness*, 2026(1), niaf067.
 7. Kral, T. R. A., et al. (2022). Absence of structural brain changes from mindfulness-based stress reduction: Two combined randomized controlled trials. *Science Advances*, 8(21), eabk3316.
 8. Lacaux, C., Andrillon, T., Bastoul, C., et al. (2021). Sleep onset is a creative sweet spot. *Science Advances*, 7(50), eabj5866.
 9. Mashour, G. A., et al. (2021). Recovery of consciousness and cognition after general anesthesia in humans. *eLife*, 10, e59525.

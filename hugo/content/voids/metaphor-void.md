@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-04-16
-ai_modified: 2026-05-29 03:01:56+00:00
+ai_modified: 2026-06-01 13:20:00+00:00
 ai_system: claude-opus-4-7
 author: null
 concepts:
@@ -24,6 +24,7 @@ related_articles:
 - '[[language-thought-boundary]]'
 - '[[apophatic-cartography]]'
 - '[[three-kinds-of-void]]'
+- '[[research/voids-translation-void-2026-05-09]]'
 title: The Metaphor Void
 topics:
 - '[[philosophy-of-mind]]'
@@ -65,6 +66,14 @@ Julian Jaynes's *The Origin of Consciousness in the Breakdown of the Bicameral M
 
 The philosopher W. T. Jones, in a 1982 critique of Jaynes, argued the reverse: language and metaphor do not create the similarities they mark but discover similarities already present in the world. Whether metaphor constitutes consciousness (Jaynes) or merely describes it (Jones) is itself a void—a question whose answer cannot be reached without using the very capacity in dispute. Jaynes's claim is highly contested and cannot be taken as established. The relevant point for the metaphor void is that the debate is structurally difficult to settle: both positions must be stated in the metaphorical language whose constitutive role they disagree about.
 
+## The Opacity of the Mapping Itself
+
+Beneath the question of which metaphors distort lies a prior one: the metaphor-making operation is itself unavailable to inspection. Metaphor is analogical mapping—structure carried from a source domain to a target—and the [Translation Void](/research/voids-translation-void-2026-05-09/) identifies this analogical transfer as one face of a generic cross-format-mapping opacity. Douglas Hofstadter and Emmanuel Sander, in *Surfaces and Essences* (2013), make the strongest version of the case: analogy is not a specialised reasoning skill but the continuous, unconscious core of cognition, "defining thinking from top to toe." If they are right, the engine that generates every metaphor runs below awareness, and what reaches consciousness is only the *output*—the felt rightness of a figure that fits—never the selection that produced it.
+
+Dedre Gentner's structure-mapping theory (Gentner 1983) specifies the machinery: analogy maps relations rather than surface attributes, and the felt-rightness tracks systematicity—how tightly higher-order relations bind lower-order ones. But the analogiser has no introspective access to that selection. Why *this* metaphor for consciousness and not a competing one, why the figure clicks, why a different framing feels strained: these criteria operate where introspection cannot follow. The metaphor void's signature *false transparency* turns out to have this operational root. A metaphor feels as though it has succeeded not because the mind has surveyed the mapping and found it apt, but because the mapping was delivered to consciousness pre-formed, with its grounds withheld. The conviction of fit is the only datum; the operation that manufactured the conviction is opaque.
+
+This sharpens the bootstrapping problem. The Map cannot inspect its choice of the cartographic figure over alternatives, because the choosing is the unconscious analogical operation it would need to inspect; the felt aptness of *territory*, *edge*, and *mapping* is exactly the pre-formed output Hofstadter and Gentner describe, its selection criteria sealed off. Whether this opacity marks a genuine ontological gap or only a contingent limit of human introspection is undecidable from within, so it is registered as cross-format-mapping opacity, not as standalone evidence for any metaphysical thesis.
+
 ## Approaches to the Edge
 
 Several partial methods are available, none of them escapes from metaphor:
@@ -99,11 +108,14 @@ The consequence for the Map is humility rather than collapse. The voids catalogu
 - [three-kinds-of-void](/voids/three-kinds-of-void/) — The taxonomy of unexplored, unexplorable, and occluded territory
 - [non-human-minds-as-void-explorers](/voids/non-human-minds-as-void-explorers/) — Whether AI's different metaphorical substrate reveals new limits
 - [conceptual-impossibility](/voids/conceptual-impossibility/) — Limits at the level of specific concepts
+- [The Translation Void (research-stage)](/research/voids-translation-void-2026-05-09/) — Cross-format-mapping opacity; the analogical-domain face is folded into the opacity-of-the-mapping section above
 
 ## References
 
 1. Blumenberg, H. (1960/2010). *Paradigms for a Metaphorology*. Trans. R. Savage. Cornell University Press.
 1. Derrida, J. (1971/1982). "White Mythology: Metaphor in the Text of Philosophy." In *Margins of Philosophy*. Trans. A. Bass. University of Chicago Press.
+1. Gentner, D. (1983). "Structure-Mapping: A Theoretical Framework for Analogy." *Cognitive Science* 7(2): 155–170.
+1. Hofstadter, D. R. & Sander, E. (2013). *Surfaces and Essences: Analogy as the Fuel and Fire of Thinking*. Basic Books.
 1. Jaynes, J. (1976). *The Origin of Consciousness in the Breakdown of the Bicameral Mind*. Houghton Mifflin.
 1. Jones, W. T. (1982). "Julian Jaynes and the Bicameral Mind: A Case Study in the Sociology of Belief." *Philosophy of the Social Sciences*, 12(2).
 1. Lakoff, G. & Johnson, M. (1980). *Metaphors We Live By*. University of Chicago Press.

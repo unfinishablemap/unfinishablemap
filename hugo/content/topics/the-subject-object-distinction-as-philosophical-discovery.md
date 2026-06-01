@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-19
-ai_modified: 2026-05-28 00:00:00+00:00
+ai_modified: 2026-06-01 00:00:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -23,7 +23,7 @@ description: The split between experiencer and experienced was not always obviou
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-04-30 12:18:00+00:00
+last_deep_review: 2026-06-01 00:00:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -47,7 +47,7 @@ The full articulation required Descartes. His *Meditations* (1641) performed a t
 
 ## What Was Actually Discovered
 
-The subject-object distinction is not merely the observation that minds exist alongside bodies. It is the recognition of an asymmetry so deep it threatens to split reality in two.
+The subject-object distinction goes beyond the observation that minds exist alongside bodies: it is the recognition of an asymmetry so deep it threatens to split reality in two.
 
 **The subject cannot become an object for itself.** As [witness-consciousness](/concepts/witness-consciousness/) traditions have long recognised, the observer cannot fully observe itself observing. Every attempt to catch the subject "in the act" of experiencing turns the subject into a new object of attention, while the real subject slips behind the attempt. This is not a failure of introspective technique—it is a structural feature of what it means to be a subject. The concept of [self-reference paradox](/voids/self-opacity/) gives this problem its sharpest formulation: the self that does the looking is precisely what looking cannot reach.
 

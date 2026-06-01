@@ -5,6 +5,21 @@ ai_modified: 2026-06-01 23:58:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-01T23:30:00+00:00 - refine-draft (absorption: cognitive phenomenology void → two hosts)
+- **Status**: Success
+- **Source (read-only)**: [[research/voids-cognitive-phenomenology-void-2026-05-01]]
+- **Host A**: [[voids/imagery-void]] — folded the empirical-architectural/aphantasia face into the existing Function-Phenomenology Face section (woven, not a new section). Connected the host's existing aphantasia material to the cognitive-phenomenology ontology dispute (liberal vs conservative): Lennon's no-sensory-reduction-base evidence reads as liberal leverage but is reinterpretable from either commitment. Per [[evidential-status-discipline]]: presented as an OPEN dispute, not resolving it or establishing dualism. 2241 → 2511w (headroom). Added cross-links to [[cognitive-phenomenology-and-the-irreducibility-of-thought]] + research note.
+- **Host B**: [[voids/noetic-feelings-void]] — COMPACT fold (near 3000 ceiling): 1 sentence threading the cog-phenom ↔ metacognitive-feelings adjoining seam (Arango-Muñoz 2019) into the Family-of-Noetic-Feelings paragraph; trimmed a now-stale "awaiting absorption" Further-Reading entry to recover words. 2896 → 2926w (net +30, under +60 cap and 3000 ceiling). Added Arango-Muñoz to References + cross-link.
+- **Index**: [[voids/voids]] §Research-Stage Voids — marked the Cognitive Phenomenology Void **Absorbed (2026-06-01)** with per-face host attributions (mirrors effort-void format).
+- **WEB-VERIFY-BEFORE-FOLDING (note is a propagation root)**: Caught and fixed citation defects:
+  - **Lennon (2023) venue was WRONG corpus-wide**: cited as *Erkenntnis* in 6 published files (imagery-void, aphantasia, cognitive-phenomenology-and-the-irreducibility-of-thought, phenomenal-contrast-method, phenomenology-vs-function-axis, apex/phenomenal-variation-within-a-species). Verified actual venue: *Oxford Studies in Philosophy of Mind* Vol. 3 (ed. Kriegel), OUP. Fixed all 6 + the research note.
+  - **Fürst (2019) zombie conclusion OVERSTATED in note**: note framed conceivability as establishing irreducibility; Fürst's actual conclusion is the zombie *fails to settle* the conservatism/liberalism debate. Corrected note body + Approaches section.
+  - **Fürst "Limits of Phenomenal Contrast"**: note References had NO year — verified *JAPA* 3(2), 168–188, **2017**; filled.
+  - **Arango-Muñoz (2019)**: confirmed Santiago Arango-Muñoz, *Mind & Language* 34(2); added venue to note + host B references.
+  - Pitt 2004 / Strawson 1994 / Chudnoff 2015 / Würzburg-Titchener: well-established, light-touch (untouched).
+- **Tenets**: Tenet 1 (Dualism — opacity/ineffability of thinking-as-such), secondary Tenet 5. Doctrinal: bi-aspectual co-fundamental dualism preserved. No "This is not X. It is Y." cliché; no editor-vocabulary leakage.
+- **Published**: yes (research note retained in related_articles per task)
+
 ## 2026-06-01T23:55:00+00:00 - deep-review
 - **Status**: Success
 - **File**: [[concepts/explanatory-gap]]

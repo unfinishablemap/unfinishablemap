@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-10
-ai_modified: 2026-05-29 00:00:00+00:00
+ai_modified: 2026-06-01 22:37:08+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -20,7 +20,7 @@ description: Walking away from a problem sometimes helps solve it. The incubatio
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-05-05 06:23:00+00:00
+last_deep_review: 2026-06-01 22:37:08+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -100,7 +100,7 @@ The [dream incubation evidence](/topics/dream-consciousness/) strengthens the ca
 
 Cai et al. (2009) found that REM sleep specifically enhanced creative associative problem-solving while NREM sleep did not. Since REM is characterised by vivid conscious experience and NREM by its absence, the creative benefit tracks the presence of consciousness during sleep — not merely time spent away from the problem.
 
-Sleep-onset evidence extends this pattern beyond REM. The Dormio device — a targeted dream incubation system that delivers audio prompts during the hypnagogic transition into N1 sleep, the narrow window where consciousness loosens but has not yet fully disengaged — has demonstrated measurable creative benefits. Haar Horowitz et al. (2023) found that participants who received targeted incubation showed significantly greater creative performance across three post-sleep tasks than control groups. Lacaux et al. (2021) found that spending as little as fifteen seconds in N1 sleep tripled the probability of mathematical insight. These findings isolate the mode-shift itself as the active ingredient: not rest, not time away from the problem, but the specific cognitive mode of loosened consciousness. The [natural laboratory framework](/topics/dream-consciousness/) identifies N1 hypnagogia as a distinct consciousness configuration — maximally creative and loosely directed — and [hypnagogic phenomenology](/topics/hypnagogic-phenomenology-and-interface-modulation/) maps the specific interface modulations (executive release, associative flooding, synesthetic blending) that make this state uniquely productive. These findings support the view that incubation benefits track *how* consciousness operates, not whether it is present.
+Sleep-onset evidence extends this pattern beyond REM. The Dormio device — a targeted dream incubation system that delivers audio prompts during the hypnagogic transition into N1 sleep, the narrow window where consciousness loosens but has not yet fully disengaged — has demonstrated measurable creative benefits. Haar Horowitz et al. (2023) found that participants who received targeted incubation showed significantly greater creative performance across three post-sleep tasks than control groups. Lacaux et al. (2021) found that spending as little as fifteen seconds in N1 sleep tripled the probability of discovering a hidden problem-solving rule in a mathematical task (83% versus 30%). These findings isolate the mode-shift itself as the active ingredient: not rest, not time away from the problem, but the specific cognitive mode of loosened consciousness. The [natural laboratory framework](/topics/dream-consciousness/) identifies N1 hypnagogia as a distinct consciousness configuration — maximally creative and loosely directed — and [hypnagogic phenomenology](/topics/hypnagogic-phenomenology-and-interface-modulation/) maps the specific interface modulations (executive release, associative flooding, synesthetic blending) that make this state uniquely productive. These findings support the view that incubation benefits track *how* consciousness operates, not whether it is present.
 
 This finding bears directly on the [hard problem](/topics/hard-problem-of-consciousness/). If phenomenal properties were merely epiphenomenal accompaniments of neural computation, the *mode* of experience should be irrelevant to outcomes. Neural associative processing could run during NREM just as during REM. That creative success tracks phenomenal engagement — dreaming, not just sleeping — suggests that the experiential dimension is doing causal work.
 

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-23
-ai_modified: 2026-05-29 00:00:00+00:00
+ai_modified: 2026-06-01 22:37:08+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -132,7 +132,7 @@ Dreams may solve problems that resist waking cognition. The Konkoly et al. 2026 
 
 ### Convergent Evidence
 
-The Konkoly study builds on convergent findings: MIT's Dormio device (Haar Horowitz et al. 2023) showed targeted dream incubation at sleep onset significantly increased subsequent creative performance across three tasks relative to control conditions; Lacaux et al. (2021) found 15 seconds in N1 sleep tripled mathematical insight rates (83% versus 30%); Cai et al. (2009) demonstrated REM specifically enhanced creative problem-solving by priming associative networks.
+The Konkoly study builds on convergent findings: MIT's Dormio device (Haar Horowitz et al. 2023) showed targeted dream incubation at sleep onset significantly increased subsequent creative performance across three tasks relative to control conditions; Lacaux et al. (2021) found 15 seconds in N1 sleep tripled the rate of discovering a hidden rule in a mathematical task (83% versus 30%); Cai et al. (2009) demonstrated REM specifically enhanced creative problem-solving by priming associative networks.
 
 ### Why Dreams Might Solve What Waking Cannot
 
@@ -151,7 +151,7 @@ The problem-solving evidence reveals a graded relationship between phenomenal mo
 | NREM dreamless sleep | Minimal or absent | Consolidation but no creative benefit (Cai et al. 2009) |
 | Non-lucid REM | Vivid, associative | Creative enhancement via associative priming |
 | Content-incorporating dreams | Problem appears in experience | More than double solving rate (39% vs 16%, Konkoly 2026) |
-| Hypnagogic N1 | Loosely directed, maximally creative | Tripled mathematical insight (Lacaux et al. 2021) |
+| Hypnagogic N1 | Loosely directed, maximally creative | Tripled hidden-rule discovery in a math task (Lacaux et al. 2021) |
 | Lucid REM | Metacognitive, partially controlled | Deliberate information processing, two-way communication |
 
 Cognitive outcomes track this phenomenal gradient, not simply whether the brain is "processing." NREM slow-wave sleep involves substantial brain activity—including the hippocampal-cortical replay that drives [memory consolidation](/topics/consciousness-and-memory/)—yet REM specifically enhances creative outcomes while NREM does not (Cai et al. 2009). The [consciousness and intelligence](/topics/consciousness-and-cognitive-distinctiveness/) debate often focuses on waking cognition; the dream evidence shows consciousness contributes through the *mode shifts* it undergoes during sleep—different filter configurations allowing different cognitive access. The [incubation effect](/topics/incubation-effect-and-unconscious-processing/) explores the complementary waking side of this creative cycle.

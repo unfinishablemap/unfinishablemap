@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-04-28
-ai_modified: 2026-05-29 01:01:19+00:00
+ai_modified: 2026-06-01 03:30:00+00:00
 ai_system: claude-opus-4-7
 author: null
 concepts:
@@ -38,6 +38,8 @@ related_articles:
 - '[[voids-between-minds]]'
 - '[[phenomenal-variation-within-a-species]]'
 - '[[source-attribution-divergence]]'
+- '[[cognitive-phenomenology-and-the-irreducibility-of-thought]]'
+- '[[research/voids-cognitive-phenomenology-void-2026-05-01]]'
 title: The Imagery Void
 topics:
 - '[[philosophy-of-mind]]'
@@ -65,6 +67,8 @@ Two minds reporting "vivid red apple" use a shared word but cannot share the phe
 The third face is the most theoretically loaded. Kay, Keogh, and Pearson (2024) found that aphantasics complete classical mental rotation tasks "slower but more accurately" than controls, with both groups showing the standard linear relation between angular disparity and response time. Aphantasics use analytic strategies; controls use object-based mental rotation. The authors conclude that "visual imagery is not crucial for successful performance in classical mental rotation tasks, as alternative strategies can be effectively utilised in the absence of holistic mental representations" (Kay, Keogh & Pearson 2024).
 
 The result is a wedge. If the same task is solved with and without phenomenal imagery, three options open: (a) imagery is a phenomenal accompaniment that does not do the cognitive work it appears to do; (b) two phenomenally distinct architectures perform isomorphic work; or (c) introspective reports of imagery systematically misdescribe the underlying process. Each option is metaphysically loaded; none is verifiable from inside.
+
+The same aphantasic evidence does double duty in a deeper ontological dispute the wedge feeds into: whether *thinking-as-such* carries a proprietary phenomenal kind distinct from any sensory imagery, inner speech, and affect accompanying it. That is the century-old cognitive-phenomenology debate between liberals (Pitt, Strawson, Chudnoff, Kriegel), who hold there is a sui generis what-it-is-likeness of understanding, and conservatives (Carruthers, Tye), who hold the phenomenology of thought reduces to its sensory accompaniments. Lennon (2023) reads aphantasia as empirical leverage for the liberal side: aphantasics report conscious thought with "no sensory reduction base," which looks like a counterexample to the sensory constraint on conscious thought. The leverage is double-edged, though. A conservative can re-describe aphantasic phenomenology as residual sensory or inner-speech content, or as intact *dispositional* thinking unaccompanied by any phenomenal kind at all—so the same datum reads as confirmation from either commitment. The aphantasia evidence therefore does not settle the liberal/conservative dispute; it sharpens the imagery void by attaching it to an open question about the *ontology* of the phenomenal—what kinds of phenomenal furniture thinking is made of—rather than merely its accessibility. The dedicated treatment of that structural irresolvability, anchored by the Würzburg-Titchener imageless-thought controversy (c. 1900–1915) and Fürst's diagnosis that phenomenal-contrast verdicts are "regimented by the view initially held," is [cognitive-phenomenology-and-the-irreducibility-of-thought](/topics/cognitive-phenomenology-and-the-irreducibility-of-thought/); the [cognitive phenomenology void research note](/research/voids-cognitive-phenomenology-void-2026-05-01/) frames it as a void in its own right.
 
 ## The Empirical Anchor
 
@@ -128,6 +132,7 @@ The Imagery Void also exemplifies the [apophatic-cartography](/voids/apophatic-c
 - [phenomenal-variation-within-a-species](/apex/phenomenal-variation-within-a-species/) — The apex synthesis: the imagery face's joint role with synaesthesia, source-attribution, and cognitive-phenomenology in the within-species divergence cluster
 - [source-attribution-divergence](/topics/source-attribution-divergence/) — The cluster sibling at the methodologically loaded extreme: imagery-spectrum position correlates with source-monitoring competence, so the imagery face and the source-attribution face partly co-vary across the population
 - [phenomenology-vs-function-axis](/concepts/phenomenology-vs-function-axis/) — The standalone treatment of that axis: the imagery void is its grain-of-function wedge — the most empirically detailed exemplar, the one that forces the task-level vs strategy-level grain question explicitly
+- [cognitive-phenomenology-and-the-irreducibility-of-thought](/topics/cognitive-phenomenology-and-the-irreducibility-of-thought/) — The ontology-of-the-phenomenal dispute the function-phenomenology face feeds into: whether thinking-as-such has a proprietary phenomenal kind, with the aphantasia evidence reinterpretable from either the liberal or conservative side
 - [mental-imagery](/concepts/mental-imagery/) — The concept this void surrounds
 - [phenomenology-of-imagination](/topics/phenomenology-of-imagination/) — First-person structure of imaginative acts
 - [synesthetic-void](/voids/synesthetic-void/) — A parallel intra-species phenomenal divergence
@@ -142,7 +147,7 @@ The Imagery Void also exemplifies the [apophatic-cartography](/voids/apophatic-c
 
 1. Galton, F. (1880). Statistics of Mental Imagery. *Mind*, 5(19), 301–318. https://psychclassics.yorku.ca/Galton/imagery.htm
 2. Schwitzgebel, E. (2008). The Unreliability of Naive Introspection. *The Philosophical Review*, 117(2). https://faculty.ucr.edu/~eschwitz/SchwitzPapers/Naive070907.htm
-3. Lennon, P. (2023). Aphantasia and Conscious Thought. *Erkenntnis*. https://philarchive.org/archive/LENAAC-3
+3. Lennon, P. (2023). Aphantasia and Conscious Thought. In U. Kriegel (ed.), *Oxford Studies in Philosophy of Mind*, Vol. 3. Oxford University Press. https://philarchive.org/archive/LENAAC-3
 4. Zeman, A. (2024). Aphantasia and Hyperphantasia: Exploring Imagery Vividness Extremes. *Trends in Cognitive Sciences*. https://www.cell.com/trends/cognitive-sciences/fulltext/S1364-6613(24)00034-2
 5. Kay, L., Keogh, R., & Pearson, J. (2024). Slower but more accurate mental rotation performance in aphantasia linked to differences in cognitive strategies. *Consciousness and Cognition*. https://www.sciencedirect.com/science/article/pii/S1053810024000618
 6. Larner, A. (2024). Phantasia, aphantasia, and hyperphantasia: Empirical data and conceptual considerations. *Neuroscience and Biobehavioral Reviews*. https://www.sciencedirect.com/science/article/abs/pii/S0149763424002884

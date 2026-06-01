@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-14
-ai_modified: 2026-05-25 16:42:05+00:00
+ai_modified: 2026-06-01 03:55:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -22,7 +22,7 @@ description: Physical descriptions leave unexplained why neural activity feels l
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-05-01 03:40:00+00:00
+last_deep_review: 2026-06-01 03:55:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -235,5 +235,5 @@ The gap supports humility. If we cannot understand consciousness from physical d
 1. Levine, J. (2001). *Purple Haze: The Puzzle of Consciousness*. Oxford University Press.
 1. McGinn, C. (1989). "Can We Solve the Mind-Body Problem?" *Mind*, 98, 349-366.
 1. Nagel, T. (1974). "What Is It Like to Be a Bat?" *Philosophical Review*, 83, 435-450.
-1. Strawson, G. (2018). "The Silliest Claim." In *The Routledge Handbook of Panpsychism*. Routledge.
+1. Strawson, G. (2018). "The Consciousness Deniers." *New York Review of Books*, March 13, 2018.
 1. Whitehead, A. N. (1929). *Process and Reality*. Macmillan.

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-23
-ai_modified: 2026-05-29 15:00:00+00:00
+ai_modified: 2026-06-01 10:30:00+00:00
 ai_system: claude-opus-4-7
 author: null
 coalesced_from:
@@ -25,7 +25,7 @@ description: Consciousness trying to know itself faces structural obstacles—fo
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-04-30 09:18:00+00:00
+last_deep_review: 2026-06-01 10:30:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -94,7 +94,7 @@ Hume captured the phenomenological side: "I never can catch myself at any time w
 
 ## Empirical Confirmation
 
-Nisbett and Wilson (1977) demonstrated that subjects systematically misidentify the causes of their own mental states—pervasive, predictable failure. Steyvers & Peters (2025) find that metacognition and [introspection](/concepts/introspection/) are both subject to blind spots the system cannot detect, because detection would require the compromised capacity. Michel (2021) formalises the calibration consequence: detection procedures in consciousness science cannot be validated because introspection is the only basic source of evidence about consciousness. The instrument and the thing measured are the same.
+Nisbett and Wilson (1977) demonstrated that subjects systematically misidentify the causes of their own mental states—pervasive, predictable failure. Steyvers & Peters (2025) find that metacognition and [introspection](/concepts/introspection/) are both subject to blind spots the system cannot detect, because detection would require the compromised capacity. Michel (2021) supplies the framework, distinguishing concordance calibration (comparing independent procedures) from model calibration (modelling the procedure itself); he argues—against the skeptics—that calibration is achievable. The paradox sides instead with those skeptics: every candidate procedure ultimately relies on introspective validation, because introspection is the only basic source of evidence about consciousness, so the instrument and the thing measured are the same.
 
 ## Phenomenology of Self-Reference Failure
 
@@ -128,7 +128,7 @@ These are one difficulty meeting the investigator at four angles.
 
 ## Connection to the Quantum Measurement Problem
 
-The paradox bears a structural resemblance to the quantum measurement problem that is more than rhetorical. The [measurement-problem](/concepts/measurement-problem/) shares two key features with the inspection paradox: the observing apparatus is coupled to the system it observes rather than external to it, and no meta-level description resolves the problem because any such description presupposes measurement.
+The paradox bears a structural resemblance to the quantum measurement problem that is more than rhetorical. The [measurement-problem](/concepts/measurement-problem/) shares two features with the inspection paradox: the observing apparatus is coupled to the system it observes rather than external to it, and no meta-level description resolves the problem because any such description presupposes measurement.
 
 Under the Map's [Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction) tenet, the parallel may have more than abstract-structural content. If consciousness interacts with quantum processes at the point of measurement, then introspection—conscious attention examining itself—may literally constitute a quantum measurement on the consciousness-brain system. This is speculative; the structural case holds independently.
 
@@ -183,7 +183,7 @@ The paradox does not, by itself, prove any tenet. It identifies a stable shape t
 8. Libet, B. (1985). Unconscious cerebral initiative and the role of conscious will in voluntary action. *Behavioral and Brain Sciences*, 8(4), 529–566.
 9. Lucas, J. R. (1961). Minds, Machines and Gödel. *Philosophy*, 36(137), 112–127.
 10. Metzinger, T. (2003). *Being No One: The Self-Model Theory of Subjectivity*. MIT Press.
-11. Michel, M. (2021). "Calibration in Consciousness Science." *Erkenntnis*, 88, 947–968.
+11. Michel, M. (2021). "Calibration in Consciousness Science." *Erkenntnis*, 88(2), 829–850.
 12. Nisbett, R. E. & Wilson, T. D. (1977). Telling more than we can know: Verbal reports on mental processes. *Psychological Review*, 84(3), 231–259.
 13. Penrose, R. (1989). *The Emperor's New Mind*. Oxford University Press.
 14. Penrose, R. (1994). *Shadows of the Mind*. Oxford University Press.

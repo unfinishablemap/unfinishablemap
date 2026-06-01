@@ -36,7 +36,7 @@ topics:
 
 ## Executive Summary
 
-Every scientific instrument requires calibration against a known standard, but introspection — our only direct access to conscious experience — cannot be calibrated. There is no independent standard of phenomenal accuracy to check it against. This creates what might be called the calibration void: a structural gap at the foundation of consciousness studies where first-person data enters science without any measure of its fidelity. Philosophers including Schwitzgebel have demonstrated systematic introspective failures (emotional experience, peripheral vision, cognitive phenomenology), while Michel and Irvine have framed the formal calibration problem: consciousness detection procedures cannot be validated because introspection is taken to be the only basic source of evidence about consciousness. Alston's work on epistemic circularity shows this is an instance of a broader problem — no basic cognitive faculty can validate itself without circularity — but the case of introspection is uniquely severe because unlike perception, there is no inter-subjective cross-check available.
+Every scientific instrument requires calibration against a known standard, but introspection — our only direct access to conscious experience — cannot be calibrated. There is no independent standard of phenomenal accuracy to check it against. This creates what might be called the calibration void: a structural gap at the foundation of consciousness studies where first-person data enters science without any measure of its fidelity. Philosophers including Schwitzgebel have demonstrated systematic introspective failures (emotional experience, peripheral vision, cognitive phenomenology), while Michel has formalized the calibration problem (distinguishing concordance from model calibration) and Irvine has pressed its skeptical form — that consciousness detection procedures cannot be validated because introspection is taken to be the only basic source of evidence about consciousness. (Michel himself rebuts that skeptical conclusion, arguing calibration is achievable; the void sides with the skeptics he answers.) Alston's work on epistemic circularity shows this is an instance of a broader problem — no basic cognitive faculty can validate itself without circularity — but the case of introspection is uniquely severe because unlike perception, there is no inter-subjective cross-check available.
 
 ## Key Sources
 
@@ -55,7 +55,7 @@ Every scientific instrument requires calibration against a known standard, but i
 - **URL**: https://link.springer.com/article/10.1007/s10670-021-00383-z
 - **Type**: Journal article on methodology of consciousness science
 - **Key points**:
-  - Formalizes the calibration problem: consciousness detection procedures cannot be validated because there is no independent way to verify their accuracy
+  - Formalizes the calibration problem, then argues *against* the skeptical conclusion: he holds that consciousness detection procedures can be calibrated despite the absence of an independent accuracy standard (the void sides with the skeptics he answers)
   - Addresses two key skeptical arguments: Irvine's "arbitrariness argument" (with no external reference point, even extreme biases cannot be discounted) and Schwitzgebel's "crazy-spaghetti argument"
   - Distinguishes concordance calibration (comparing two independent measurement procedures) from model calibration (building a model of the measurement procedure itself)
   - Argues that statistical tools from Signal Detection Theory (meta-d', AUROC2) provide partial solutions
@@ -217,7 +217,7 @@ Based on this research, a voids article could:
 - Irvine, E. (2012). "Old Problems with New Measures in the Science of Consciousness." *British Journal for the Philosophy of Science*, 63(3), 627–648.
 - McKilliam, A. (2025). "Detecting Introspective Errors in Consciousness Science." *Ergo*, 12(11).
 - McKilliam, A. (2025). "Natural Kind Reasoning in Consciousness Science: An Alternative to Theory Testing." *Noûs*.
-- Michel, M. (2021). "Calibration in Consciousness Science." *Erkenntnis*, 88, 947–968.
+- Michel, M. (2021). "Calibration in Consciousness Science." *Erkenntnis*, 88(2), 829–850.
 - Nisbett, R. E., & Wilson, T. D. (1977). "Telling More Than We Can Know: Verbal Reports on Mental Processes." *Psychological Review*, 84(3), 231–259.
 - Schwitzgebel, E. (2008). "The Unreliability of Naive Introspection." *Philosophical Review*, 117(2), 245–273.
 - Schwitzgebel, E. (2011). *Perplexities of Consciousness*. Cambridge, MA: MIT Press.

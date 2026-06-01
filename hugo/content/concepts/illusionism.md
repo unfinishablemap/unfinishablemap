@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-14
-ai_modified: 2026-05-25 20:42:05+00:00
+ai_modified: 2026-06-01 20:40:00+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -94,7 +94,7 @@ But the bare regress assumes "seeming" is itself phenomenal—precisely what ill
 
 ### The Moorean Argument
 
-Chalmers (2018) presents a Moorean argument: the existence of phenomenal pain is more obvious than any premise used to deny it. Chalmers himself (2022) later judged this flawed—"phenomenal consciousness" may be too theory-laden for common-sense Moorean reasoning—while Loginov (2024) argues the pre-theoretical certainty of pain survives that self-critique. The debate stays live, but the core intuition—that denying pain's reality is harder to believe than any theory motivating the denial—continues to exert force.
+Chalmers (2018) presents a Moorean argument: the existence of phenomenal pain is more obvious than any premise used to deny it. Chalmers himself (2022) later judged this flawed—"phenomenal consciousness" may be too theory-laden for common-sense Moorean reasoning. Loginov (2024) presses the same fault line, arguing the Moorean argument does not succeed because its key premise—that pain has phenomenal character—lacks genuine common-sense status and smuggles in philosophical jargon. Morozov (2025) defends a reformulation that trades on the bare experiencing of pain rather than its theory-laden description. The debate stays live, but the core intuition—that denying pain's reality is harder to believe than any theory motivating the denial—continues to exert force.
 
 ### Chalmers's Meta-Problem Dilemma
 

@@ -154,7 +154,7 @@ The axis is also not coextensive with the [[phenomenal-contrast-method|phenomena
 6. Wegner, D.M. (2002). *The Illusion of Conscious Will*. MIT Press.
 7. Kay, L., Keogh, R., & Pearson, J. (2024). "Slower but more accurate mental rotation performance in aphantasia linked to differences in cognitive strategies." *Consciousness and Cognition*, 121, 103694. https://www.sciencedirect.com/science/article/pii/S1053810024000618
 8. Zeman, A. (2024). "Aphantasia and Hyperphantasia: Exploring Imagery Vividness Extremes." *Trends in Cognitive Sciences*. https://www.cell.com/trends/cognitive-sciences/fulltext/S1364-6613(24)00034-2
-9. Lennon, P. (2023). "Aphantasia and Conscious Thought." *Erkenntnis*. https://philarchive.org/archive/LENAAC-3
+9. Lennon, P. (2023). "Aphantasia and Conscious Thought." In U. Kriegel (ed.), *Oxford Studies in Philosophy of Mind*, Vol. 3. Oxford University Press. https://philarchive.org/archive/LENAAC-3
 10. van Leeuwen, T.M., Singer, W., & Nikolić, D. (2015). "The Merit of Synesthesia for Consciousness Research." *Frontiers in Psychology*, 6, 1850.
 11. Putnam, H. (1967). "Psychological Predicates" (later "The Nature of Mental States"), in W. H. Capitan and D. D. Merrill (eds.), *Art, Mind, and Religion*. University of Pittsburgh Press.
 12. Block, N., & Fodor, J.A. (1972). "What Psychological States Are Not." *Philosophical Review*, 81(2), 159–181.

@@ -98,10 +98,10 @@ A century-old debate runs from the Würzburg School's c.1900 introspective claim
 - **Type**: Journal article (*Dialectica*)
 - **Key points**:
   - A cognitive phenomenology zombie is conceivable: a man who does not understand Chinese but shares behavior and sensory phenomenology with his twin who does understand Chinese.
-  - If conceivable, then the cognitive phenomenology of understanding cannot be reduced to sensory phenomenology and behavior alone.
+  - Fürst's actual conclusion: the conceivability of such a zombie *fails to settle* the conservatism/liberalism debate (the conceivability move does not by itself force irreducibility). This is itself a contribution to the void's dialectical face — even the conceivability instrument does not break the impasse.
 - **Tenet alignment**: Dualism. Connects the cognitive-phenomenology debate to the broader philosophical-zombie literature and the conceivability arguments of Chalmers.
 
-### Preston Lennon, "Aphantasia and Conscious Thought" (2023, OUP)
+### Preston Lennon, "Aphantasia and Conscious Thought" (2023, Oxford Studies in Philosophy of Mind Vol. 3, ed. Kriegel, OUP)
 - **URL**: https://philarchive.org/rec/LENAAC-3
 - **Type**: Journal article (in OUP volume)
 - **Key points**:
@@ -167,7 +167,7 @@ What it feels like to approach this void: when one *does* introspect carefully �
 
 ### Direct Methods
 - **Phenomenal contrast**: Run carefully matched cases (Jack/Jacques; Zoe; understanding-without-images). *Limitation*: dialectically ineffective per Fürst.
-- **Phenomenal-zombie conceivability** (Fürst 2019): if a cognitive-phenomenology zombie is conceivable, irreducibility follows. *Limitation*: depends on disputed conceivability-to-possibility inferences.
+- **Phenomenal-zombie conceivability** (Fürst 2019): tests whether a cognitive-phenomenology zombie is conceivable. *Limitation*: Fürst concludes the conceivability move *fails to settle* the debate — it depends on disputed conceivability-to-possibility inferences and does not by itself force irreducibility.
 - **Aphantasia studies** (Lennon 2023): empirical leverage from interpersonal variation. *Limitation*: reinterpretable across the divide.
 
 ### Indirect Methods
@@ -229,13 +229,13 @@ The recommended angle is **(1) conjunction-coalesce**, since:
 
 - Carruthers, P. "Consciousness Operationalized, a Debate Realigned." (faculty.philosophy.umd.edu/pcarruthers/Consciousness%20operationalized.pdf)
 - Chudnoff, E. (2015). "Phenomenal Contrast Arguments for Cognitive Phenomenology." *Philosophy and Phenomenological Research*. https://onlinelibrary.wiley.com/doi/abs/10.1111/phpr.12177
-- Fürst, M. "On the Limits of the Method of Phenomenal Contrast." *Journal of the American Philosophical Association*. https://www.cambridge.org/core/journals/journal-of-the-american-philosophical-association/article/abs/on-the-limits-of-the-method-of-phenomenal-contrast/F024818C6E9D0613653DF9DC93D75B78
+- Fürst, M. (2017). "On the Limits of the Method of Phenomenal Contrast." *Journal of the American Philosophical Association*, 3(2), 168–188. https://www.cambridge.org/core/journals/journal-of-the-american-philosophical-association/article/abs/on-the-limits-of-the-method-of-phenomenal-contrast/F024818C6E9D0613653DF9DC93D75B78
 - Fürst, M. (2019). "On the Conceivability of a Cognitive Phenomenology Zombie." *Dialectica*. https://onlinelibrary.wiley.com/doi/full/10.1111/1746-8361.12260
-- Lennon, P. (2023). "Aphantasia and Conscious Thought." OUP. https://philarchive.org/rec/LENAAC-3
+- Lennon, P. (2023). "Aphantasia and Conscious Thought." In U. Kriegel (ed.), *Oxford Studies in Philosophy of Mind*, Vol. 3. Oxford University Press. https://philarchive.org/rec/LENAAC-3
 - Pitt, D. (2004). "The Phenomenology of Cognition: Or What Is It Like to Think That P?" *Philosophy and Phenomenological Research*.
 - Strawson, G. (1994). *Mental Reality*. MIT Press.
 - Strawson, G. (2011). "Cognitive Phenomenology: Real Life." https://philpapers.org/rec/STRCPR
-- Arango-Muñoz, S. (2019). "Cognitive Phenomenology and Metacognitive Feelings." https://estudiosciencia.wordpress.com/wp-content/uploads/2022/01/arangoe28090munoz-2019-cognitive-phenomenology-and-metacognitive-feelings.pdf
+- Arango-Muñoz, S. (2019). "Cognitive Phenomenology and Metacognitive Feelings." *Mind & Language*, 34(2). https://onlinelibrary.wiley.com/doi/abs/10.1111/mila.12215 ; https://estudiosciencia.wordpress.com/wp-content/uploads/2022/01/arangoe28090munoz-2019-cognitive-phenomenology-and-metacognitive-feelings.pdf
 - Internet Encyclopedia of Philosophy, "Cognitive Phenomenology." https://iep.utm.edu/cognitive-phenomenology/
 - Stanford Encyclopedia of Philosophy, "Mental Imagery" (sections on Würzburg School and the imageless-thought controversy). https://plato.stanford.edu/archives/sum2020/entries/mental-imagery/
 - "The Imageless Thought Controversy" (Springer chapter). https://link.springer.com/chapter/10.1007/978-3-319-00242-2_6
