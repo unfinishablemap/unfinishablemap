@@ -246,7 +246,7 @@ Based on this research, a voids article could:
 
 ## Citations
 
-- Block, N. (1995). On a Confusion about a Function of Consciousness. *Behavioral and Brain Sciences*, 18, 227-287.
+- Block, N. (1995). On a Confusion about a Function of Consciousness. *Behavioral and Brain Sciences*, 18, 227-247.
 - Gallagher, S. (2000). Philosophical conceptions of the self: implications for cognitive science. *Trends in Cognitive Sciences*, 4(1), 14-21.
 - Jimenez, M. (2025). Consciousness Under the Spotlight: The Problem of Measuring Subjective Experience. *WIREs Cognitive Science*, e1697.
 - Laukkonen, R.E., et al. (2023). Cessations of consciousness in meditation: Advancing a scientific understanding of nirodha samapatti. *Progress in Brain Research*, 280.

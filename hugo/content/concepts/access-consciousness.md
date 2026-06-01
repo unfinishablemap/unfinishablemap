@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-22
-ai_modified: 2026-05-10 01:48:00+00:00
+ai_modified: 2026-06-01 13:09:47+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -147,7 +147,7 @@ This illustrates [the limits of Occam's Razor](/tenets/#occams-limits). Physical
 
 ## References
 
-1. Block, N. (1995). On a Confusion about a Function of Consciousness. *Behavioral and Brain Sciences*, 18, 227-287.
+1. Block, N. (1995). On a Confusion about a Function of Consciousness. *Behavioral and Brain Sciences*, 18, 227-247.
 1. Block, N. (2011). Perceptual consciousness overflows cognitive access. *Trends in Cognitive Sciences*, 15(12), 567-575.
 1. Baars, B. J. (1988). *A Cognitive Theory of Consciousness*. Cambridge University Press.
 1. Cohen, M. A., & Dennett, D. C. (2011). Consciousness cannot be separated from function. *Trends in Cognitive Sciences*, 15(8), 358-364.

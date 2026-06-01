@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-23
-ai_modified: 2026-06-01 13:10:00+00:00
+ai_modified: 2026-06-01 15:54:10+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -53,7 +53,7 @@ But consider: we do not ask why a whirlpool *has* the property of spinning. Spin
 
 The whirlpool analogy illustrates the category shift but has limits. A whirlpool *is* reducible to fluid dynamics — there is nothing about spinning water that outruns physical description. Consciousness-as-activity makes a stronger claim: conscious activity involves features (subjective character, [intentionality](/concepts/intentionality/), [agent-causal selection](/concepts/agent-causation/)) that physical description cannot capture. The analogy shows why asking "what property?" is the wrong question; it does not imply that the right answer is physicalist.
 
-The suggestion here is not that the hard problem dissolves entirely. The question of why there is something it is like to undergo certain activities remains genuine. But the activity framing shifts the question's character. Instead of asking why inert matter acquires a mysterious extra property, we ask what kind of activity constitutes experience—a question with more conceptual traction.
+The suggestion here is not that the hard problem dissolves entirely. The question of why there is something it is like to undergo certain activities remains genuine. But the activity framing shifts the question's character. Instead of asking why inert matter acquires a mysterious extra property, we ask what kind of activity constitutes experience—a question with more conceptual traction. Whether the noun framing or the verb framing is correct is, at the level of the phenomena alone, underdetermined by the evidence; the activity reading earns its place by the puzzles it avoids rather than by a decisive empirical verdict.
 
 ## Philosophical Roots
 
@@ -63,7 +63,7 @@ The activity view draws on several converging traditions.
 
 [Whitehead's process metaphysics](/concepts/process-philosophy/) replaces substances bearing properties with events constituted by activity. Each "actual occasion" is an act of experience—a moment of prehending, synthesising, and achieving definite form. Consciousness is not something occasions have; it is the more complex and integrated form of what all occasions do. The fundamental category is not being but *becoming*.
 
-Whitehead's framework makes consciousness continuous with the rest of nature without reducing it to physics. Human experience is highly organised activity of the same kind that, in simpler forms, constitutes all actuality. The hard problem doesn't arise because there is no transition from non-experiential stuff to experiential property—experience is what actuality does, all the way down. The same actual-occasion machinery does work at the quantum interface: the Map reads [quantum-measurement-and-subjective-probability](/topics/quantum-measurement-and-subjective-probability/) as closing on precisely this point, where indeterminacy resolves into determinate fact through a process neither purely physical nor external to experience.
+Whitehead's framework makes consciousness continuous with the rest of nature without reducing it to physics. Human experience is highly organised activity of the same kind that, in simpler forms, constitutes all actuality. The hard problem doesn't arise because there is no transition from non-experiential stuff to experiential property—experience is what actuality does, all the way down. The same actual-occasion machinery may do work at the quantum interface: the Map reads [quantum-measurement-and-subjective-probability](/topics/quantum-measurement-and-subjective-probability/) as closing on precisely this point, where indeterminacy resolves into determinate fact through a process that seems neither purely physical nor external to experience.
 
 ### Bergson's Duration
 

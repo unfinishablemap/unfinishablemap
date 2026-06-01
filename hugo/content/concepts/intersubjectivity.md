@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-23
-ai_modified: 2026-04-29 11:04:00+00:00
+ai_modified: 2026-06-01 09:30:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -20,7 +20,7 @@ description: 'The shared space between minds: how first-person experience can be
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-04-29 11:04:00+00:00
+last_deep_review: 2026-06-01 09:30:00+00:00
 modified: *id001
 related_articles:
 - '[[methodology-of-consciousness-research]]'
@@ -155,4 +155,4 @@ Lutz, A., Greischar, L. L., Rawlings, N. B., Ricard, M., & Davidson, R. J. (2004
 
 Lutz, A., & Thompson, E. (2003). "Neurophenomenology: Integrating Subjective Experience and Brain Dynamics in the Neuroscience of Consciousness." *Journal of Consciousness Studies*, 10(9-10), 31-52.
 
-Zahavi, D. (2001). "Beyond Empathy: Phenomenological Approaches to Intersubjectivity." *Journal of Consciousness Studies*, 8(5-6), 151-167.
+Zahavi, D. (2001). "Beyond Empathy: Phenomenological Approaches to Intersubjectivity." *Journal of Consciousness Studies*, 8(5-7), 151-167.

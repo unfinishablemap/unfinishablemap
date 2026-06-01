@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-01
-ai_modified: 2026-05-26 01:01:12+00:00
+ai_modified: 2026-06-01 15:59:21+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -182,7 +182,7 @@ Daniel Dennett, Peter Carruthers, and some Vygotskian psychologists argue that h
 
 The Map holds that this confuses correlation with constitution. Language and higher-order consciousness co-develop because both require neural maturation and social interaction—not because one generates the other. The critical test cases are revealing:
 
-**Anendophasia** demonstrates that reflective consciousness persists without inner speech. People who lack an inner voice still engage in planning, self-evaluation, and metacognition, using visual imagery, spatial reasoning, and non-verbal intuition.
+**Anendophasia** suggests that reflective consciousness persists without inner speech. People who lack an inner voice still appear to engage in planning, self-evaluation, and metacognition, using visual imagery, spatial reasoning, and non-verbal intuition.
 
 **Deaf individuals without language exposure** who acquire sign language late in life sometimes report having had rich inner lives—including self-reflection and deliberation—before language acquisition. Such retrospective testimony is methodologically fraught, but the consistent pattern across documented cases suggests that reflective consciousness preceded linguistic capacity.
 
@@ -224,7 +224,7 @@ At the edge of expressibility—describing a mystical experience, articulating a
 
 ## What Dualism Predicts
 
-The separability of consciousness and language is not incidental to dualism—it is a prediction. If consciousness is ontologically distinct from physical processes, it should be separable from any particular physical capacity, language included. The evidence confirms this prediction across multiple domains:
+The separability of consciousness and language is not incidental to dualism—it is a prediction. If consciousness is ontologically distinct from physical processes, it should be separable from any particular physical capacity, language included. The evidence appears to bear out this prediction across multiple domains:
 
 - Pre-verbal and non-linguistic beings are conscious (consciousness without language)
 - Zombies are conceivable; LLMs are consistent with language production absent consciousness, though their phenomenal status remains open (language potentially without consciousness)
@@ -250,7 +250,7 @@ The position that language and consciousness meet at a bidirectional, lossy inte
 
 The consciousness-language interface connects to the Map's [tenets](/tenets/) at multiple points.
 
-**[Dualism](/tenets/#dualism)** predicts that consciousness should be separable from any physical capacity, language included. The evidence reviewed confirms this prediction. The constitutive view—that language partially generates consciousness—sits uncomfortably with dualism because it ties a non-physical phenomenon to a physical capacity. The Map rejects this: language shapes how consciousness operates but does not constitute what consciousness is. The systematic gap between phenomenal experience and linguistic expression further supports irreducibility. Wittgenstein's private language argument challenges this reasoning—if purely private mental content cannot ground meaningful language, perhaps the "inexpressible" is not deep but confused. The Map responds that consciousness need not be *linguistically private* to be *ontologically irreducible*—our language *about* consciousness is socially constituted, but consciousness itself is not thereby reducible to the social or the physical.
+**[Dualism](/tenets/#dualism)** predicts that consciousness should be separable from any physical capacity, language included. The evidence reviewed appears to support this prediction. The constitutive view—that language partially generates consciousness—sits uncomfortably with dualism because it ties a non-physical phenomenon to a physical capacity. The Map rejects this: language shapes how consciousness operates but does not constitute what consciousness is. The systematic gap between phenomenal experience and linguistic expression further supports irreducibility. Wittgenstein's private language argument challenges this reasoning—if purely private mental content cannot ground meaningful language, perhaps the "inexpressible" is not deep but confused. The Map responds that consciousness need not be *linguistically private* to be *ontologically irreducible*—our language *about* consciousness is socially constituted, but consciousness itself is not thereby reducible to the social or the physical.
 
 **[Bidirectional Interaction](/tenets/#bidirectional-interaction)** is exemplified at the interface. Consciousness shapes language: phenomenal states generate pressure toward expression, shape word choice, and guide articulation. Language shapes consciousness: verbal overshadowing transforms perception, categorical perception shifts experience, and inner speech structures thought. Consciousness also selects among neural states involved in language production—biasing which thoughts get articulated and how—while language provides representational structure that consciousness uses for self-monitoring and deliberation.
 

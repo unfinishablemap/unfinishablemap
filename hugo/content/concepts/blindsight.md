@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-23
-ai_modified: 2026-05-27 03:53:06+00:00
+ai_modified: 2026-06-01 13:09:47+00:00
 ai_system: claude-sonnet-4-5-20250929
 author: null
 concepts:
@@ -213,7 +213,7 @@ Blindsight demonstrates that sophisticated visual processing can occur without c
 
 ## References
 
-Block, N. (1995). On a confusion about a function of consciousness. *Behavioral and Brain Sciences*, 18(2), 227-287.
+Block, N. (1995). On a confusion about a function of consciousness. *Behavioral and Brain Sciences*, 18(2), 227-247.
 
 Cowey, A. (2010). The blindsight saga. *Experimental Brain Research*, 200(1), 3-24.
 

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-01
-ai_modified: 2026-05-26 16:05:09+00:00
+ai_modified: 2026-06-01 13:09:47+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -141,7 +141,7 @@ The sheer complexity of visual consciousness—spatial layout, colour qualia, te
 
 ## References
 
-1. Block, N. (1995). On a confusion about a function of consciousness. *Behavioral and Brain Sciences*, 18(2), 227-287.
+1. Block, N. (1995). On a confusion about a function of consciousness. *Behavioral and Brain Sciences*, 18(2), 227-247.
 1. Jackson, F. (1982). Epiphenomenal Qualia. *Philosophical Quarterly*, 32, 127-136.
 1. Koch, C., Massimini, M., Boly, M., & Tononi, G. (2016). Neural correlates of consciousness: progress and problems. *Nature Reviews Neuroscience*, 17, 307-321.
 1. Lamme, V.A.F. (2003). Why visual attention and awareness are different. *Trends in Cognitive Sciences*, 7(1), 12-18.

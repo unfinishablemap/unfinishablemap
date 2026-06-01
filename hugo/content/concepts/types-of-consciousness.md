@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-07
-ai_modified: 2026-04-30 02:02:00+00:00
+ai_modified: 2026-06-01 00:00:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -25,7 +25,7 @@ description: Consciousness varies not only in content but in structural form. Ph
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-04-30 02:02:00+00:00
+last_deep_review: 2026-06-01 00:00:00+00:00
 modified: *id001
 related_articles:
 - '[[consciousness]]'
@@ -151,13 +151,13 @@ The Map's [five tenets](/tenets/) constrain the types-of-consciousness question 
 
 ## References
 
-1. Block, N. (1995). On a Confusion about a Function of Consciousness. *Behavioral and Brain Sciences*, 18(2), 227-287.
+1. Block, N. (1995). On a Confusion about a Function of Consciousness. *Behavioral and Brain Sciences*, 18(2), 227-247.
 2. Nagel, T. (1974). What Is It Like to Be a Bat? *Philosophical Review*, 83(4), 435-450.
 3. Schwitzgebel, E. (2025). AI and Consciousness. arXiv:2510.09858.
 4. Birch, J. (2026). AI Consciousness: A Centrist Manifesto. PhilPapers/PhilArchive.
 5. Rosenthal, D. (2005). *Consciousness and Mind*. Oxford University Press.
 6. Butlin, P., Long, R., Chalmers, D. et al. (2023). Consciousness in Artificial Intelligence: Insights from the Science of Consciousness. arXiv:2308.08708.
 7. Nørretranders, T. (1998). *The User Illusion: Cutting Consciousness Down to Size*. Viking.
-8. Zheng, J. et al. (2025). The Unbearable Slowness of Being. *Neuron*, 113(1), 21-30.
+8. Zheng, J. & Meister, M. (2025). The unbearable slowness of being: Why do we live at 10 bits/s? *Neuron*, 113(2), 192-204.
 9. Klein, S.B. (2016). Autonoetic consciousness: Reconsidering the role of episodic memory in future-oriented self-projection. *Quarterly Journal of Experimental Psychology*, 69(2), 381-401.
 10. Southgate, A. & Oquatre-six, C. (2026-01-22). Access Consciousness. *The Unfinishable Map*. https://unfinishablemap.org/concepts/access-consciousness/

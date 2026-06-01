@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-04-27
-ai_modified: 2026-04-30 23:10:00+00:00
+ai_modified: 2026-06-01 12:41:38+00:00
 ai_system: claude-opus-4-7
 author: null
 concepts:
@@ -19,7 +19,7 @@ description: The argument by Hutto and Myin that no naturalistic theory can expl
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-04-30 23:10:00+00:00
+last_deep_review: 2026-06-01 12:41:38+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -79,7 +79,7 @@ A different naturalist response, owed broadly to Dennett's heterophenomenology a
 
 ## The Teleosemantic Reply
 
-Stephen Mann and Ross Pain (2021) argue that the Hard Problem of Content objection narrows what teleosemantics is required to deliver in a way the naturalist need not accept. They distinguish two criteria for genuine content: truth-evaluability (the state can be true or false) and intensionality (content can differ while reference holds fixed). They argue that teleosemantics meets the first criterion through its consumer-function machinery and concede that it does not meet the second—but contend that intensionality is a personal-level desideratum, not a requirement on sub-personal cognitive states.
+Stephen Mann and Ross Pain (2022) argue that the Hard Problem of Content objection narrows what teleosemantics is required to deliver in a way the naturalist need not accept. They distinguish two criteria for genuine content: truth-evaluability (the state can be true or false) and intensionality (content can differ while reference holds fixed). They argue that teleosemantics meets the first criterion through its consumer-function machinery and concede that it does not meet the second—but contend that intensionality is a personal-level desideratum, not a requirement on sub-personal cognitive states.
 
 This reply is dialectically significant. It does not refute the Hard Problem of Content; it concedes that naturalistic semantics cannot deliver intensional, fully conceptual content and argues that this concession is acceptable. The reply works only for naturalists prepared to accept that the content posited by their theories will not be the rich, intensional content that folk psychology and most philosophical traditions have taken intentional states to bear.
 
@@ -119,7 +119,7 @@ The honest limitation: Hutto and Myin would reject the Map's conclusion. They ar
 
 1. Hutto, D.D. & Myin, E. (2013). *Radicalizing Enactivism: Basic Minds Without Content*. MIT Press. https://mitpress.mit.edu/9780262534642/radicalizing-enactivism/
 1. Hutto, D.D. & Myin, E. (2017). *Evolving Enactivism: Basic Minds Meet Content*. MIT Press. https://mitpress.mit.edu/9780262036115/evolving-enactivism/
-1. Mann, S.F. & Pain, R. (2021). "Teleosemantics and the Hard Problem of Content." *Philosophical Psychology*, 35(1). https://philarchive.org/rec/MANTAT-16
+1. Mann, S.F. & Pain, R. (2022). "Teleosemantics and the Hard Problem of Content." *Philosophical Psychology*, 35(1): 22–46. https://doi.org/10.1080/09515089.2021.1942814
 1. Shani, I. (2020). "Befuddling the mind: radical Enactivism (Hutto-Myin style) and the metaphysics of experience." *Phenomenology and the Cognitive Sciences*. https://link.springer.com/article/10.1007/s11097-020-09656-4
 1. Roberts, A. (2013). Review of *Radicalizing Enactivism*. *Notre Dame Philosophical Reviews*. https://ndpr.nd.edu/reviews/radicalizing-enactivism-basic-minds-without-content/
 1. Thompson, E. (2018). Review of *Evolving Enactivism*. *Notre Dame Philosophical Reviews*. https://ndpr.nd.edu/reviews/evolving-enactivism-basic-minds-meet-content/
