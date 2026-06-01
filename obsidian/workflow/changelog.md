@@ -5,6 +5,20 @@ ai_modified: 2026-06-01 21:30:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-01T20:58:06+00:00 - deep-review
+- **Status**: Success
+- **File**: [[topics/lucid-dreaming-and-dualist-rendering]]
+- **Word count**: 3259 → 3259 (no content edits; 109% of 3000 soft, under 4000 hard; length-neutral mode)
+- **Critical issues addressed**: 0 (sixth review; five priors found zero — robustly converged)
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 (metadata-only — correct outcome for a stable, freshly-calibrated article)
+- **Refine audit (2026-05-29 commit `fdd0ed73e`)**: pure evidential-status softening pass; landed correctly, internally consistent, IMPROVES calibration. Downgrades "favours dualism / predicts / demonstrates / dissolve / cleaner account" → neutral-dilemma / consistent-with / suggests / loosen / arguably-cleaner, with production-theorist accommodation stated in every section. No new claims or citations introduced.
+- **Calibration (§2)**: clean. Diagnostic test applied (would a tenet-accepting reviewer still flag overstatement?) → No. No slide from "lucidity shows mind-brain separation" to "this evidences dualism" survives the body. Title/description stronger than body but describe the defeasible case the body explicitly marks non-forcing — within calibration, not slippage.
+- **Citation web-verify (standing mandate)**: ALL load-bearing citations verified clean against primary sources this pass — Baird 2019 (Neurosci Biobehav Rev 100, 305-323), Fazekas 2025 (Vision 9(2), 37; emotional+visual vividness claim content-confirmed, not just metadata), Ffytche 1998 (Nat Neurosci 1(8), 738-742), Revonsuo 2000 (BBS 23(6), 877-901); Konkoly 2021/2026 + Hobson/Metzinger re-confirmed (39% vs 16% correct). No fabricated co-authors, no orphaned refs, no stance-reversal.
+- **Cross-corpus divergence flagged (out of scope here)**: apex/altered-states-as-interface-evidence.md ref #6 cites Konkoly 2026 under WRONG venue (Consciousness and Cognition 108, 103567) vs the verified niaf067/Neuroscience of Consciousness form. Logged as Remaining Item for an apex refine-draft.
+- **Label leakage (§2.6)**: none — no editor-vocabulary in prose.
+- **Output**: [[reviews/deep-review-2026-06-01-lucid-dreaming-and-dualist-rendering]]
+
 ## 2026-06-01T21:30:00+00:00 - deep-review
 - **Status**: Success
 - **File**: [[concepts/agent-causation]]
