@@ -5,6 +5,18 @@ ai_modified: 2026-06-01 01:50:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-01T02:17:35+00:00 - deep-review
+- **Status**: Success
+- **File**: [[topics/phenomenology-of-agency-vs-passivity]]
+- **Word count**: 3139 → 3138 (-1)
+- **Critical issues addressed**: 0 (none found — 6th review, 3rd consecutive no-issue pass)
+- **Medium issues addressed**: 0 (none found)
+- **Enhancements made**: 1 (length-neutral tightening at line 129, merged two sentences; all wikilinks + calibration qualifiers preserved)
+- **Named-opponent engagement modes** (editor-internal): epiphenomenalist — Mode One + Mode Three residue (concedes verification circularity honestly); illusionist — Mode One (engages illusionist's own inaccessibility criterion via meditation-refinement). No label leakage; no boundary-substitution.
+- **Calibration**: line 129 introspection-cluster paragraph exemplary — invokes evidential-status discipline, no possibility/probability slippage. A tenet-accepting reviewer would flag nothing as overstated.
+- **Length note**: 105% soft_warning, below hard threshold. Over-threshold content is protected calibration material; left intact (condense would regress qualifiers). Human length-decision candidate, NOT an auto-condense target.
+- **Output**: [[reviews/deep-review-2026-06-01-phenomenology-of-agency-vs-passivity]]
+
 ## 2026-06-01T13:10:00+00:00 - refine-draft
 - **Status**: Success
 - **File**: connective cross-link pass across the agent-centric foundations cluster (optimistic-2026-06-01)
