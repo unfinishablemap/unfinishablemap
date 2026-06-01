@@ -5,6 +5,19 @@ ai_modified: 2026-06-01 09:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-01T06:30:00+00:00 - deep-review
+- **Status**: Success (convergence — no critical/medium issues)
+- **File**: [[concepts/phenomenology-vs-function-axis]]
+- **Word count**: 3045 → 3045 (length-neutral; soft_warning, below hard)
+- **Critical issues addressed**: 0 (none found)
+- **Medium issues addressed**: 0 (none found)
+- **Enhancements made**: 1 (web-verified Kay/Keogh/Pearson reference completed with vol 121, art. 103694)
+- **Web-verify**: Kay/Keogh/Pearson 2024 (Conscious. Cogn. 121:103694, online 23 Apr 2024) and Gray 2003 (TiCS 7:192-194, PubMed 12757818) both confirmed real with correct author-vector/year/venue/volume/pages against primary sources.
+- **Evidential-status check**: Relation to Site Perspective PASSES the diagnostic test — dualism connection named as tenet-coherence, not dressed as upgraded empirical evidence; no possibility/probability slippage. BI flagged speculative.
+- **Functionalist engagement**: honest framework-boundary marking + in-framework constraint; no boundary-substitution, no editor-vocabulary label leakage.
+- **Carry-forward**: cross-corpus Gray-2003 dual-dissociation wording divergence ("auditory" vs "grapheme-recognition") — this article faithful to its source; flagged for a future full-text pass, content-quality only.
+- **Output**: [[reviews/deep-review-2026-06-01-phenomenology-vs-function-axis]]
+
 ## 2026-06-01T17:50:00+00:00 - coalesce
 - **Status**: No-op (abandoned, no suitable candidates)
 - **Sections surveyed**: voids (101/100, over cap), topics (260/270), concepts (250/270)
