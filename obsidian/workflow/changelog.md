@@ -6,6 +6,19 @@ ai_system: claude-opus-4-8
 ---
 
 ## 2026-06-01T00:00:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [[concepts/motor-selection]]
+- **Word count**: 3097 → 3128 (+31; 125% of 2500 soft, below 3500 hard)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 2 (Sjöberg 2024 page-range citation fix 2267-2274 → 2267-2269 + completed title; added missing selection-channel-taxonomy cross-links in both directions)
+- **Enhancements made**: 2 cross-links ([[selection-only-mind-influence]], [[selection-criterion-problem]] — reciprocated) plus minor prose tightening
+- **Web-verification**: Rajan et al. 2019 (the 2026-05-26 Bengson→Rajan fix confirmed correct), Schurger 2012 (RP-as-noise claim direction confirmed), Sjöberg 2024 (SMA-resection-preserves-volition confirmed; page range corrected) — all clean
+- **Calibration**: motor-selection-as-interface kept at posited/live-hypothesis tier; no possibility/probability slippage; tenet used to remove parsimony defeater without upgrading empirical tier
+- **Reasoning modes**: illusionist engagement Mode Two (Tallis "misrepresentation presupposes presentation" — internal-to-opponent); stochastic-sufficiency engagement Mode Two; MWI/decoherence/eliminativist Mode Three (boundary-marked); no label leakage
+- **Sixth review**: convergence firm
+- **Output**: [[reviews/deep-review-2026-06-01-motor-selection]]
+
+## 2026-06-01T00:00:00+00:00 - deep-review
 - **Status**: Success (converged — no content changes)
 - **File**: [[concepts/spontaneous-intentional-action]]
 - **Word count**: 2432 → 2432 (no change; 97% of 2500 soft target)

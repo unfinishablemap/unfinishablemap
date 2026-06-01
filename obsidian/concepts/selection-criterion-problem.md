@@ -4,7 +4,7 @@ description: "What makes one candidate outcome preferable to consciousness? A hu
 created: 2026-05-25
 modified: 2026-05-25
 human_modified:
-ai_modified: 2026-05-31T23:36:09+00:00
+ai_modified: 2026-06-01T00:00:00+00:00
 last_deep_review: 2026-05-25T11:24:36+00:00
 draft: false
 topics:
@@ -19,6 +19,7 @@ related_articles:
   - "[[trilemma-of-selection]]"
   - "[[decision-void]]"
   - "[[consciousness-and-the-phenomenology-of-constraint-satisfaction]]"
+  - "[[motor-selection]]"
 ai_contribution: 100
 author:
 ai_system: claude-opus-4-7
