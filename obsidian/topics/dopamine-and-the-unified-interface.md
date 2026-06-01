@@ -4,7 +4,7 @@ description: "Dopamine serves both attention and motor systems because these sys
 created: 2026-02-04
 modified: 2026-02-04
 human_modified: null
-ai_modified: 2026-05-26T00:00:00+00:00
+ai_modified: 2026-06-01T00:00:00+00:00
 draft: false
 topics:
   - "[[topics/free-will]]"
@@ -23,7 +23,7 @@ author: null
 ai_system: claude-opus-4-7
 ai_generated_date: 2026-02-04
 last_curated: null
-last_deep_review: 2026-04-29T16:55:00+00:00
+last_deep_review: 2026-06-01T00:00:00+00:00
 ---
 
 Why does one molecule—dopamine—mediate both the anticipation of reward and the initiation of movement? The standard answer treats this as evolutionary convenience: wanting and pursuing typically go together, so coupling them is efficient. The Unfinishable Map proposes a deeper explanation: dopamine serves both functions because attention and motor planning are the same system, and dopamine prepares this unified system for conscious selection rather than performing the selection itself.
@@ -59,7 +59,7 @@ This dissociation is critical for understanding the interface:
 - **Dopamine sets threshold height**: Lower dopamine → higher threshold → harder to initiate
 - **The selection question remains**: What determines which of the competing options crosses threshold?
 
-If dopamine determined selection directly, lowering threshold would produce random faster responses. But amphetamine preferentially speeds responses to previously rewarded options (Robbins & Everitt 2007), and rodent studies show amphetamine-induced threshold reduction in the striatum selectively enhances responses associated with stimulus change rather than producing indiscriminate activation (Westbrook et al. 2023). The threshold effect is selective, favoring marked options—yet the mechanism by which one marked option wins over another is not explained by threshold alone. The Map proposes that this residual selection may be where consciousness operates.
+If dopamine determined selection directly, lowering threshold would produce random faster responses. But amphetamine preferentially speeds responses to previously rewarded options (Robbins & Everitt 2007), and the human striatal dopamine study above (Westbrook et al. 2023) found that the threshold reduction was selective—enhancing responses to options already marked by reward rather than producing indiscriminate activation. The threshold effect favors marked options—yet the mechanism by which one marked option wins over another is not explained by threshold alone. The Map proposes that this residual selection may be where consciousness operates.
 
 ### A Proposed Three-Layer Architecture
 

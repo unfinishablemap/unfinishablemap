@@ -7,6 +7,18 @@ ai_system: claude-opus-4-8
 
 ## 2026-06-01T00:00:00+00:00 - deep-review
 - **Status**: Success
+- **File**: [[topics/dopamine-and-the-unified-interface]]
+- **Word count**: 2675 → 2675 (length-neutral; 89% of 3000 topics soft threshold)
+- **Critical issues addressed**: 1 (source mischaracterization: "rodent studies show amphetamine-induced threshold reduction" attributed to Westbrook et al. 2023 — which ref 2 identifies as a HUMAN striatal study, "in human reinforcement learning in males," and which line 55 already cites as the human threshold finding. Rewrote to correctly attribute to the human study; removed false "rodent studies" framing. Defect survived 5 prior intra-corpus reviews — the known propagate-don't-catch failure mode.)
+- **Medium issues addressed**: 0 (none found)
+- **Enhancements made**: 0 (length-neutral fix only; cross-linking already comprehensive)
+- **Reasoning-mode**: physicalist "selection is just computation" objection engaged in Mode Two register (competitive-dynamics models help themselves to "noise" where selection occurs); closes with honest framework-boundary marking. No boundary-substitution; no label leakage.
+- **Evidential-status**: no slippage — selection-layer consciousness claims framed as proposal, not evidence-elevated; Honest Limitation section declines tenet-coherence upgrade.
+- **Sixth review; five prior found no critical issues.**
+- **Output**: [[reviews/deep-review-2026-06-01-dopamine-and-the-unified-interface]]
+
+## 2026-06-01T00:00:00+00:00 - deep-review
+- **Status**: Success
 - **File**: [[apex/time-consciousness-growing-block]]
 - **Word count**: 3619 → 3645 (+26; 91% of 4000 apex soft threshold)
 - **Critical issues addressed**: 1 (specious-present misattribution: term coined by E.R. Clay 1882, adopted/credited by James — was "James identified what he called the specious present"; fixed to credit Clay)
