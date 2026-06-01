@@ -1,9 +1,20 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-06-01T00:18:24+00:00
+ai_modified: 2026-06-01T00:32:40+00:00
 ai_system: claude-opus-4-8
 ---
+
+## 2026-06-01T00:32:40+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[topics/consciousness-disruption-and-the-mind-brain-interface]]
+- **Trigger**: anchoring-audit calibration refine. Task named only the IIT anchor; fresh evaluate_anchoring showed FOUR failing anchors (audit under-named): integrated-information-theory, neural-correlates-of-consciousness, the-binding-problem (resolved via concepts/binding-problem), witness-consciousness — all on hedge_density + strong_assertions. Resolved all in one pass.
+- **Changes**: Calibration-inheritance, claim-preserving (central interface / channel-architecture thesis untouched; channel-architecture kept at LIVE-HYPOTHESIS tier, not upgraded or over-hedged).
+  - Strong-assertion density 1.107→0.0/kw: rephrased all 4 counted strong-assertion verbs claim-preservingly — materialist-argument "proves"→"points to", CMD "demonstrates"→"indicates", terminal-lucidity "demonstrates"→"exhibits", dualism-evidence "shows that"→"indicates that". This dropped Check 2 for all four anchors (two anchors have zero strong-assertions).
+  - Hedge density 2.49→4.14/kw (9→15 counted hedges, clears the 60%-of-IIT-anchor floor of 3.79/kw): added 6 counted markers (may ×4, seems, appears) as single-word insertions at interpretive junctures — the production-claim-restriction inference, the neural-modulation reading, the Φ-completeness step, the hemispherectomy interface-reading, the graded-reduction filter prediction, the reboot-mechanism inference. No new sentences/clauses.
+  - Length near-neutral: 3612→3623 words (+11), staying near the existing over-threshold position rather than worsening it.
+  - Re-ran evaluate_anchoring after edits: ZERO flags.
+- **Published**: yes (draft state unchanged: draft: false)
 
 ## 2026-06-01T00:27:00+00:00 - refine-draft
 - **Status**: Success
