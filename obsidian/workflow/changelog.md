@@ -1,9 +1,22 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-06-01 20:40:00+00:00
+ai_modified: 2026-06-01 21:05:00+00:00
 ai_system: claude-opus-4-8
 ---
+
+## 2026-06-01T21:05:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [[concepts/self-reference-paradox]]
+- **Word count**: 2536 → 2562 (+26; length-neutral, soft_warning 102%)
+- **Critical issues addressed**: 2 (both Michel 2021, propagated defects already fixed in sibling void articles)
+  - (1) **STANCE-REVERSAL misattribution** — article had "Michel (2021) formalises the calibration consequence: detection procedures... cannot be validated" (skeptical conclusion in Michel's mouth). Web-verified (Springer 10.1007/s10670-021-00383-z + PhilPapers; per [[ai-citation-metadata-unreliable]], no corpus-vote): Michel REBUTS the skeptics, "concludes there is nothing wrong with calibration." Rewrote to credit Michel for the concordance/model-calibration taxonomy + his pro-calibration argument, staging the paradox as siding with the skeptics he answers (mirrors corrected [[observation-and-measurement-void]]).
+  - (2) **Page-range** — *Erkenntnis* 88, **947–968** → **88(2), 829–850** (web-verified). Also fixed stale copy + line-57 stance gloss in research note [[voids-calibration-void-2026-02-24]].
+- **2026-05-29 refine audit**: the post-refine content (hypothesis-tier hedging of the mutation void's "constitutive" transformation claim) landed correctly and honours evidential-status discipline — preserved unchanged. No new citations were introduced by the refine.
+- **Web-verified this pass**: Michel 2021 (stance + pages), Lawvere 1969 (LNM 92, 134–145 ✓), Gödel 1931 ✓, Schwitzgebel 2008 ✓, Steyvers & Peters 2025 (scope ✓). No fabricated co-authors, no orphaned refs.
+- **Evidential-status**: analogy→proof boundary intact — formal self-reference (Gödel/Tarski/Lawvere) kept analogical; Relation to Site Perspective explicitly says "does not prove dualism" / "does not prove any tenet." No possibility/probability slippage.
+- **Engagement classification** (editor-internal): Dennett heterophenomenology reply = Mode One (defective-on-own-terms: relocates rather than removes the paradox); materialist dissolution-reply = Mode Two (helps itself to "inspection is information-preserving" unearned). No label leakage in prose.
+- **Output**: [[reviews/deep-review-2026-06-01-self-reference-paradox]]
 
 ## 2026-06-01T20:40:00+00:00 - refine-draft
 - **Status**: Success
