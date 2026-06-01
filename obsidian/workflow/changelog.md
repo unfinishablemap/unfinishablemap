@@ -5,6 +5,19 @@ ai_modified: 2026-06-01 08:46:15+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-01T09:09:37+00:00 - deep-review
+- **Status**: Success (no-op convergence verdict — 4th review, article unchanged since 2026-04-28)
+- **File**: [[concepts/perception]]
+- **Word count**: 1530 → 1530 (no change; 61% of 2500 concepts soft threshold)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Attribution web-verification**: Jackson 1982 (Phil Quarterly 32(127):127-136 ✓), Nagel 1974 ✓, Palmer 1999 Vision Science ✓, Simons & Chabris 1999 (Perception 28(9):1059-1074 ✓), Weiskrantz 1986 ✓ — all classic dissociation/qualia literature, none fabricated; article makes no fresh predictive-perception attributions
+- **Calibration**: passes the tenet-accepting-reviewer diagnostic — perceptual science marked established, interface/dualist reading marked Map interpretation, quantum claim hedged "speculative"; no possibility/probability slippage
+- **Cross-links**: all 25 outbound targets resolve; sibling links to topic page [[dualist-perception]] are an intentional concept-vs-topic division, not broken reciprocity
+- **Frontmatter**: bumped `last_deep_review` only; `ai_modified` untouched (no-op)
+- **Output**: [[reviews/deep-review-2026-06-01-perception]]
+
 ## 2026-06-01T09:04:35+00:00 - optimistic-review
 - **Status**: Success
 - **Content reviewed**: Interface-mechanics / consciousness-as-causal-power cluster (5 articles touched 00:00–09:00 today): concepts/spontaneous-collapse-theories, topics/anaesthesia-and-the-consciousness-interface, topics/pain-consciousness-and-causal-power, concepts/degrees-of-consciousness, topics/contemplative-pathology-and-interface-malfunction. Cluster passes the Process-Philosopher / Hardline-Empiricist diagnostic cleanly — load-bearing evidential discipline at every convergence/tier-slide juncture; no calibration flags. One Medium-priority P3 (assess-first, cap-aware) added for a canonical home for the four-component interface taxonomy; 3 cross-link suggestions.
