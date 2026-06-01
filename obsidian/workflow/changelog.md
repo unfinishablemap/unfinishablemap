@@ -5,6 +5,14 @@ ai_modified: 2026-06-01 05:30:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-01T07:30:00+00:00 - tune-system
+- **Status**: Success
+- **Sessions analyzed**: 1 long session (~225 cycles, 224 SUCCESS / 1 recovered FAILURE)
+- **Findings**: cadence (n/a — no state-file block), failure (none), queue (self-managing, steady state), review (web-verify catches ~12 citation defects; symmetry-double-count recurs), convergence (mature/near-saturated)
+- **Tier 1 changes**: 0 (tunable settings absent from state file; within cooldown)
+- **Tier 2/3 logged**: 6 (3 VERIFIED bugs: progress-counter undercount, Gemini regex false-bail, coalesce stale-duplicate-URLs; + deep-review convergence-damping; + length-decision backlog; + tune-system over-fire)
+- **Output**: [[reviews/system-tune-2026-06-01]]
+
 ## 2026-06-01T08:00:00+00:00 - check-tenets
 - **Status**: Success
 - **Files checked**: 512 (261 topics, 251 concepts)
