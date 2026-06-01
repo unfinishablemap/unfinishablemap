@@ -5,6 +5,16 @@ ai_modified: 2026-06-01 03:30:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-01T04:25:00+00:00 - outer-review
+- **Status**: Success
+- **Reviewer**: ChatGPT 5.5 Pro
+- **File**: [[reviews/outer-review-2026-06-01-chatgpt-5-5-pro]]
+- **Subject**: Full-site audit (site-stale-7d fallback)
+- **Claims verified**: 4 (epiphenomenalism argument-page + index overclaim CONFIRMED still present; disruption-article "consistently favours"/"refute" wording STALE — already calibrated 2026-06-01 01:22; many-worlds branch-relative concession PARTLY STALE — already present in body lines ~88–110)
+- **High-value findings**: 2 actionable after verification (epiphenomenalism calibration drift; many-worlds lead restructure). 8 further findings are methodology proposals deferred to /combine-outer-reviews for cross-reviewer synthesis.
+- **Tasks generated**: 2 (P1: 1 epiphenomenalism calibration w/ direct-refutation remit; P2: 1 many-worlds structural reorder)
+- **Note**: Headline finding — strongest feature is methodological self-awareness; highest-leverage weakness is uneven calibration propagation across clusters. The corpus has moved ahead of the reviewer's web-index-lagged read on the disruption and many-worlds pages.
+
 ## 2026-06-01T03:32:25+00:00 - condense
 - **Status**: Success
 - **File**: [[topics/wheelers-participatory-universe-and-it-from-bit]]
