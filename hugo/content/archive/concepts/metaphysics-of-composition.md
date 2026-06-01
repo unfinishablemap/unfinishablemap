@@ -1,34 +1,42 @@
 ---
-title: "Metaphysics of Composition"
-description: "The metaphysics of composition asks when parts form wholes. The Special Composition Question reveals that consciousness may be the criterion distinguishing genuine composites from mere aggregates."
-created: 2026-04-15
-modified: 2026-04-15
-human_modified:
-ai_modified: 2026-05-28T18:52:58+00:00
-last_deep_review: 2026-05-28T18:52:58+00:00
-draft: false
-topics:
-  - "[[consciousness-and-the-metaphysics-of-composition]]"
-  - "[[hard-problem-of-consciousness]]"
-concepts:
-  - "[[unity-of-consciousness]]"
-  - "[[combination-problem]]"
-  - "[[emergence]]"
-  - "[[phenomenal-consciousness]]"
-  - "[[phenomenal-non-compositionality]]"
-  - "[[panpsychism]]"
-  - "[[interactionist-dualism]]"
-  - "[[causal-closure]]"
-  - "[[binding-problem]]"
-related_articles:
-  - "[[tenets]]"
-  - "[[consciousness-metaphysics-of-composition-2026-04-05]]"
-  - "[[consciousness-and-the-metaphysics-of-individuation]]"
 ai_contribution: 100
-author:
-ai_system: claude-opus-4-6
 ai_generated_date: 2026-04-15
-last_curated:
+ai_modified: 2026-05-28 18:52:58+00:00
+ai_system: claude-opus-4-6
+archive_reason: Coalesced into Composition and Consciousness
+archived: true
+archived_date: 2026-06-01 06:11:11+00:00
+author: null
+concepts:
+- '[[unity-of-consciousness]]'
+- '[[combination-problem]]'
+- '[[emergence]]'
+- '[[phenomenal-consciousness]]'
+- '[[phenomenal-non-compositionality]]'
+- '[[panpsychism]]'
+- '[[interactionist-dualism]]'
+- '[[causal-closure]]'
+- '[[binding-problem]]'
+created: 2026-04-15
+date: &id001 2026-04-15
+description: The metaphysics of composition asks when parts form wholes. The Special
+  Composition Question reveals that consciousness may be the criterion distinguishing
+  genuine composites from mere aggregates.
+draft: false
+human_modified: null
+last_curated: null
+last_deep_review: 2026-05-28 18:52:58+00:00
+modified: *id001
+original_path: /concepts/metaphysics-of-composition/
+related_articles:
+- '[[tenets]]'
+- '[[consciousness-metaphysics-of-composition-2026-04-05]]'
+- '[[consciousness-and-the-metaphysics-of-individuation]]'
+superseded_by: /concepts/composition-and-consciousness/
+title: Metaphysics of Composition
+topics:
+- '[[consciousness-and-the-metaphysics-of-composition]]'
+- '[[hard-problem-of-consciousness]]'
 ---
 
 The metaphysics of composition is the branch of metaphysics concerned with when and how parts form wholes. Its central question—the Special Composition Question (SCQ), formulated by Peter van Inwagen (1990)—asks: under what conditions do some objects compose a further object? This question has unexpectedly deep connections to consciousness, because several leading answers to the SCQ converge on consciousness as the criterion for genuine composition. The Unfinishable Map treats this convergence as evidence that consciousness occupies a distinctive metaphysical position that physicalism struggles to accommodate.
@@ -67,32 +75,32 @@ The convergence of these independent approaches is striking. They share no commo
 
 **Mereological simples** are entities without proper parts—the fundamental building blocks in any compositional framework. Whether physics identifies genuine simples (quarks? strings?) or whether matter is infinitely divisible remains contested.
 
-**Composition as identity** is the thesis that a whole is nothing over and above its parts—that composition is a kind of identity relation. If correct, it would dissolve the SCQ: asking whether some objects compose a whole would be like asking whether an object is identical to itself. But consciousness poses a challenge. A conscious subject has phenomenal properties—unified experience, qualitative character—that no collection of its physical parts possesses even collectively. If identity preserves properties, and the whole has properties the parts collectively lack, then the conscious whole cannot be identical to its parts. This is the core of [[phenomenal-non-compositionality]].
+**Composition as identity** is the thesis that a whole is nothing over and above its parts—that composition is a kind of identity relation. If correct, it would dissolve the SCQ: asking whether some objects compose a whole would be like asking whether an object is identical to itself. But consciousness poses a challenge. A conscious subject has phenomenal properties—unified experience, qualitative character—that no collection of its physical parts possesses even collectively. If identity preserves properties, and the whole has properties the parts collectively lack, then the conscious whole cannot be identical to its parts. This is the core of [phenomenal-non-compositionality](/concepts/composition-and-consciousness/).
 
-**The [[combination-problem]]** is the inverse of the SCQ applied to consciousness. If basic physical entities have proto-conscious properties (as panpsychism claims), how do micro-experiences combine into macro-experiences? The difficulty of this problem reinforces the idea that consciousness does not compose in the way physical properties do.
+**The [combination-problem](/concepts/combination-problem/)** is the inverse of the SCQ applied to consciousness. If basic physical entities have proto-conscious properties (as panpsychism claims), how do micro-experiences combine into macro-experiences? The difficulty of this problem reinforces the idea that consciousness does not compose in the way physical properties do.
 
-The SCQ has a complement: the [[consciousness-and-the-metaphysics-of-individuation|metaphysics of individuation]] asks what draws boundaries around conscious subjects. Where composition asks when parts form wholes, individuation asks why consciousness comes in discrete, bounded units rather than a single field. The two questions constrain each other—any adequate answer to one must be compatible with the other.
+The SCQ has a complement: the [metaphysics of individuation](/topics/consciousness-and-the-metaphysics-of-individuation/) asks what draws boundaries around conscious subjects. Where composition asks when parts form wholes, individuation asks why consciousness comes in discrete, bounded units rather than a single field. The two questions constrain each other—any adequate answer to one must be compatible with the other.
 
 ## Relation to Site Perspective
 
 The metaphysics of composition provides independent support for the Map's foundational commitments.
 
-The convergence of Van Inwagen, Merricks, and McQueen and Tsuchiya on consciousness as the composition criterion aligns with [[tenets#^dualism|Tenet 1 (Dualism)]]. If consciousness is what distinguishes genuine composites from mere aggregates, it occupies a metaphysical role that purely physical description cannot capture. Consciousness is not just another physical property—it is the property that determines which physical arrangements count as real things.
+The convergence of Van Inwagen, Merricks, and McQueen and Tsuchiya on consciousness as the composition criterion aligns with [Tenet 1 (Dualism)](/tenets/#dualism). If consciousness is what distinguishes genuine composites from mere aggregates, it occupies a metaphysical role that purely physical description cannot capture. Consciousness is not just another physical property—it is the property that determines which physical arrangements count as real things.
 
-Merricks' argument that conscious organisms have irreducible causal powers supports [[tenets#^bidirectional-interaction|Tenet 3 (Bidirectional Interaction)]]. Consciousness does not merely accompany physical processes; it contributes causal powers that the physical parts alone lack—challenging the [[causal-closure|causal closure]] assumption that every physical event has a sufficient physical cause. This is precisely the kind of non-epiphenomenal role the Map's [[interactionist-dualism|interactionist framework]] attributes to consciousness.
+Merricks' argument that conscious organisms have irreducible causal powers supports [Tenet 3 (Bidirectional Interaction)](/tenets/#bidirectional-interaction). Consciousness does not merely accompany physical processes; it contributes causal powers that the physical parts alone lack—challenging the [causal closure](/concepts/causal-closure/) assumption that every physical event has a sufficient physical cause. This is precisely the kind of non-epiphenomenal role the Map's [interactionist framework](/concepts/interactionist-dualism/) attributes to consciousness.
 
-The failure of composition as identity for conscious subjects connects to [[tenets#^occams-limits|Tenet 5 (Occam's Razor Has Limits)]]. Universalism and nihilism appear simpler than restricted composition, but their simplicity comes at the cost of either inflating ontology beyond recognition or eliminating the very entities that bear conscious experience. The metaphysics of composition illustrates how parsimony can mislead when the phenomenon under investigation—consciousness—resists the categories that make simple answers possible.
+The failure of composition as identity for conscious subjects connects to [Tenet 5 (Occam's Razor Has Limits)](/tenets/#occams-limits). Universalism and nihilism appear simpler than restricted composition, but their simplicity comes at the cost of either inflating ontology beyond recognition or eliminating the very entities that bear conscious experience. The metaphysics of composition illustrates how parsimony can mislead when the phenomenon under investigation—consciousness—resists the categories that make simple answers possible.
 
 ## Further Reading
 
-- [[consciousness-and-the-metaphysics-of-composition]]
-- [[phenomenal-non-compositionality]]
-- [[combination-problem]]
-- [[unity-of-consciousness]]
-- [[binding-problem]]
-- [[emergence]] — The general problem of deriving wholes from parts
-- [[consciousness-and-the-metaphysics-of-individuation]] — The complementary question: what draws boundaries around conscious subjects
-- [[panpsychisms-combination-problem]]
+- [consciousness-and-the-metaphysics-of-composition](/topics/consciousness-and-the-metaphysics-of-composition/)
+- [phenomenal-non-compositionality](/concepts/composition-and-consciousness/)
+- [combination-problem](/concepts/combination-problem/)
+- [unity-of-consciousness](/concepts/unity-of-consciousness/)
+- [binding-problem](/concepts/binding-problem/)
+- [emergence](/concepts/emergence/) — The general problem of deriving wholes from parts
+- [consciousness-and-the-metaphysics-of-individuation](/topics/consciousness-and-the-metaphysics-of-individuation/) — The complementary question: what draws boundaries around conscious subjects
+- [panpsychisms-combination-problem](/topics/panpsychisms-combination-problem/)
 
 ## References
 

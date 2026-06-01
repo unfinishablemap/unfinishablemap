@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-10
-ai_modified: 2026-06-01 02:38:05+00:00
+ai_modified: 2026-06-01 05:58:00+00:00
 ai_system: claude-opus-4-6
 apex_last_synthesis: 2026-06-01 00:18:24+00:00
 apex_sources:
@@ -108,7 +108,7 @@ The voids programme began with a [simple taxonomy](/voids/three-kinds-of-void/):
 
 **The Occluded** are gaps that might be defended. The [simulation hypothesis](/concepts/simulation/) raises this most sharply—truths *engineered out* of reach—but occlusion need not require a designer: the Map's own tenets suggest consciousness-physics interaction may be systematically hidden from introspection.
 
-[Evolved cognitive limits](/voids/biological-cognitive-closure/) research adds a fourth category: **[the Naturally Occluded](/concepts/naturally-occluded/)**—blind spots maintained not by any intentional agent but by natural selection, because ignorance itself conferred fitness advantage, with the [Fitness-Beats-Truth theorem](/concepts/fitness-beats-truth/) supplying the formal anchor. These occupy a distinctive position: not beyond all possible cognition (only beyond *evolved* cognition), maintained by the blind watchmaker—limits with a *function*, potentially accessible to differently constituted minds.
+[Evolved cognitive limits](/voids/biological-cognitive-closure/) research adds a fourth category: **[the Naturally Occluded](/concepts/naturally-occluded/)**—blind spots maintained not by any intentional agent but by natural selection, because ignorance itself conferred fitness advantage, with the [Fitness-Beats-Truth theorem](/concepts/fitness-beats-truth/) supplying the formal anchor—though the theorem's reach is contested (Bagwell 2023, *Synthese* 201:25, argues the debunking it licenses is self-defeating), so the anchor is best read as a strongly-argued result at one bounded site rather than a settled proof. These occupy a distinctive position: not beyond all possible cognition (only beyond *evolved* cognition), maintained by the blind watchmaker—limits with a *function*, potentially accessible to differently constituted minds.
 
 A subtlety the four-kinds picture invites misreading: it is not the *void* that falls into a kind but the void's *territory*, and a single void can span several kinds at once because its faces sit at different points on the unexplored / unexplorable / occluded axis. The [quantitative comprehension void](/voids/the-quantitative-comprehension-void/) makes this vivid—its [cardinality floor](/voids/the-quantitative-comprehension-void/#the-cardinality-floor) is principally *unexplorable* (an architectural ceiling no training shifts), its magnitude domain largely *unexplored* yet *unexplorable* at extreme scales, its mathematical ceiling combining both. The [self-reference paradox](/concepts/self-reference-paradox/) runs the same trichotomy in a mechanism register: inspection that cannot validate itself maps to *unexplored*, inspection that transforms its object to *unexplorable*, inspection irrecoverably conditioned by its only channel to *occluded*.
 
@@ -224,7 +224,7 @@ This is the discipline of not knowing. The voids are invitations to precision: t
 
 The taxonomy connects to every one of the Map's [tenets](/tenets/), but most deeply to the fifth.
 
-**[Occam's Razor Has Limits](/tenets/#occams-limits)** receives the strongest support. The convergence of 60+ voids on a single interface, their distinct failure signatures, and the formally proved incompleteness of any void catalog all resist the simplifying assumption that more effort will close the gaps. And if our sense of simplicity is itself an evolved heuristic tuned to fitness rather than truth—as the Fitness-Beats-Truth theorem demonstrates—then parsimony arguments in metaphysics are undermined at their foundation.
+**[Occam's Razor Has Limits](/tenets/#occams-limits)** receives the strongest support. The convergence of 60+ voids on a single interface, their distinct failure signatures, and the formally proved incompleteness of any void catalog all resist the simplifying assumption that more effort will close the gaps. And if our sense of simplicity is itself an evolved heuristic tuned to fitness rather than truth—as the Fitness-Beats-Truth theorem argues (a contested result—Bagwell 2023 presses that the debunking it underwrites is self-defeating)—then parsimony arguments in metaphysics are undermined at their foundation.
 
 **[Dualism](/tenets/#dualism)** gains cumulative support from the convergence pattern, with the [common-cause null](/project/common-cause-null/) setting the ceiling. The systematic clustering of voids at the interface, each with distinct logical structure and failure signatures, makes the coincidence hypothesis progressively less plausible—but the catalogue is best read as framework-internal coherence with the tenet-package rather than N-fold independent triangulation, earning only the weight its independence test can supply ([the surplus void](/voids/the-surplus-void/) being the worked instance).
 

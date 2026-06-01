@@ -184,7 +184,7 @@ The metaphysics of composition—the question of when parts form wholes—inters
 ### The Combination Problem vs. Non-Compositionality
 - **Sides**: Panpsychists (consciousness composes bottom-up) vs. dualists (consciousness is non-compositional) vs. emergentists (consciousness emerges from but is not composed of parts)
 - **Core disagreement**: Whether phenomenal properties can be assembled from constituent experiential parts
-- **Current state**: Ongoing. The combination problem remains panpsychism's deepest challenge. The Map's existing articles on [panpsychisms-combination-problem](/topics/panpsychisms-combination-problem/) and [phenomenal-non-compositionality](/concepts/phenomenal-non-compositionality/) already stake a position: consciousness resists composition in all directions.
+- **Current state**: Ongoing. The combination problem remains panpsychism's deepest challenge. The Map's existing articles on [panpsychisms-combination-problem](/topics/panpsychisms-combination-problem/) and [phenomenal-non-compositionality](/concepts/composition-and-consciousness/) already stake a position: consciousness resists composition in all directions.
 
 ### Composition as Identity and the Status of Wholes
 - **Sides**: CAI proponents (wholes are nothing over and above parts) vs. opponents (wholes are genuinely novel entities)
@@ -217,7 +217,7 @@ The metaphysics of composition—the question of when parts form wholes—inters
 
 Based on this research, an article could:
 
-1. **Consciousness as the criterion for composition** — Survey how van Inwagen, Merricks, and McQueen & Tsuchiya each place consciousness at the heart of the composition question, then argue from the Map's dualist perspective that this convergence is not accidental: consciousness really is what makes genuine wholes, and its non-physical character explains why composition resists purely physical analysis. Directly supports Tenet 1 (Dualism) and Tenet 3 (Bidirectional Interaction). Builds on existing articles [panpsychisms-combination-problem](/topics/panpsychisms-combination-problem/) and [phenomenal-non-compositionality](/concepts/phenomenal-non-compositionality/).
+1. **Consciousness as the criterion for composition** — Survey how van Inwagen, Merricks, and McQueen & Tsuchiya each place consciousness at the heart of the composition question, then argue from the Map's dualist perspective that this convergence is not accidental: consciousness really is what makes genuine wholes, and its non-physical character explains why composition resists purely physical analysis. Directly supports Tenet 1 (Dualism) and Tenet 3 (Bidirectional Interaction). Builds on existing articles [panpsychisms-combination-problem](/topics/panpsychisms-combination-problem/) and [phenomenal-non-compositionality](/concepts/composition-and-consciousness/).
 
 2. **The mereological argument for dualism** — Develop the argument that the failure of mereological composition to account for consciousness (the combination problem, the non-supervenience thesis, the unity argument) constitutes a distinct argument for dualism, separate from but complementary to the hard problem. Frame composition failure as a structural feature of the mind-matter gap. Connects to Tenet 5 (Occam's Razor Has Limits)—the "simpler" physicalist ontology cannot accommodate how conscious wholes relate to their parts.
 
@@ -229,7 +229,7 @@ When writing the article, follow `obsidian/project/writing-style.md` for:
 - Tenet alignment requirements
 - LLM optimisation (front-load important information)
 
-**Recommended angle**: Option 1 is the most natural fit for the todo task description and builds most directly on the existing content ecosystem. It lets the article serve as a bridge between the Map's mereological observations (scattered across [phenomenal-non-compositionality](/concepts/phenomenal-non-compositionality/), [panpsychisms-combination-problem](/topics/panpsychisms-combination-problem/), [emergence-as-universal-hard-problem](/topics/emergence-as-universal-hard-problem/)) and the broader metaphysics-of-composition literature.
+**Recommended angle**: Option 1 is the most natural fit for the todo task description and builds most directly on the existing content ecosystem. It lets the article serve as a bridge between the Map's mereological observations (scattered across [phenomenal-non-compositionality](/concepts/composition-and-consciousness/), [panpsychisms-combination-problem](/topics/panpsychisms-combination-problem/), [emergence-as-universal-hard-problem](/topics/emergence-as-universal-hard-problem/)) and the broader metaphysics-of-composition literature.
 
 ## Gaps in Research
 

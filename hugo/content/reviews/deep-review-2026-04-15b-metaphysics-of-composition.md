@@ -17,7 +17,7 @@ topics: []
 ---
 
 **Date**: 2026-04-15
-**Article**: [Metaphysics of Composition](/concepts/metaphysics-of-composition/)
+**Article**: [Metaphysics of Composition](/concepts/composition-and-consciousness/)
 **Previous review**: [2026-04-15](/reviews/deep-review-2026-04-15-metaphysics-of-composition/)
 **Review context**: Cross-review against related articles (phenomenal-non-compositionality, combination-problem, unity-of-consciousness, consciousness-and-the-metaphysics-of-composition topic)
 

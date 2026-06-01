@@ -5,7 +5,7 @@ ai_modified: 2026-05-27 01:37:28+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
-- '[[metaphysics-of-composition]]'
+- '[[composition-and-consciousness]]'
 - '[[combination-problem]]'
 - '[[unity-of-consciousness]]'
 - '[[emergence]]'
@@ -25,7 +25,6 @@ last_deep_review: 2026-05-27 01:37:28+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
-- '[[phenomenal-non-compositionality]]'
 - '[[quantum-holism-and-phenomenal-unity]]'
 - '[[consciousness-metaphysics-of-composition-2026-04-05]]'
 title: Consciousness and the Metaphysics of Composition
@@ -38,7 +37,7 @@ When do parts form wholes? This question—the Special Composition Question (SCQ
 
 ## The Special Composition Question
 
-The SCQ asks: under what conditions do some objects compose a further object? The formal framework for this question comes from [the metaphysics of composition](/concepts/metaphysics-of-composition/)—the branch of mereology concerned with when and how parts form wholes. Three broad families of answers dominate the literature.
+The SCQ asks: under what conditions do some objects compose a further object? The formal framework for this question comes from [the metaphysics of composition](/concepts/composition-and-consciousness/)—the branch of mereology concerned with when and how parts form wholes. Three broad families of answers dominate the literature.
 
 **Universalism** holds that any collection of objects composes a further object. Your left shoe and the Eiffel Tower compose something. This avoids arbitrariness but generates a bloated ontology that does not privilege conscious beings in any way.
 
@@ -90,7 +89,7 @@ A natural objection is that this convergence reflects a selection effect—these
 
 The convergence on consciousness as the composition criterion connects to a deeper structural fact: consciousness resists mereological analysis in both directions.
 
-**Bottom-up failure.** The [combination-problem](/concepts/combination-problem/) suggests that micro-experiences—if they exist—do not compose into macro-experiences. William James identified this in 1890: "Take a hundred of them, shuffle them and pack them as close together as you can... each remains the same old private self." The [phenomenal non-compositionality](/concepts/phenomenal-non-compositionality/) thesis generalises this: there is no operation on experiences analogous to vector addition or superposition.
+**Bottom-up failure.** The [combination-problem](/concepts/combination-problem/) suggests that micro-experiences—if they exist—do not compose into macro-experiences. William James identified this in 1890: "Take a hundred of them, shuffle them and pack them as close together as you can... each remains the same old private self." The [phenomenal non-compositionality](/concepts/composition-and-consciousness/) thesis generalises this: there is no operation on experiences analogous to vector addition or superposition.
 
 **Top-down failure.** Conscious experience resists decomposition into independent parts. The [unity-of-consciousness](/concepts/unity-of-consciousness/) is not a sum of features but a primitive wholeness that cannot be reconstructed from components. Bayne and Chalmers (2003) showed that phenomenal unity involves conjoint phenomenology—a "what it is like" to experience features together that is not derivable from the individual features. The [binding-problem](/concepts/binding-problem/) makes the same point empirically: neuroscience can explain how distributed features are computationally coordinated (BP1), but not why that coordination produces unified phenomenal experience (BP2). Classical neural mechanisms—synchrony, thalamocortical broadcasting, information integration—coordinate parts that remain metaphysically separate. Coordination is not composition.
 
@@ -126,8 +125,7 @@ The convergence of composition theories on consciousness directly supports The U
 
 ## Further Reading
 
-- [metaphysics-of-composition](/concepts/metaphysics-of-composition/) — The formal mereological framework: mereological simples, composition as identity, and the SCQ
-- [phenomenal-non-compositionality](/concepts/phenomenal-non-compositionality/) — Why consciousness resists composition categorically
+- [composition-and-consciousness](/concepts/composition-and-consciousness/) — The mereological framework (simples, composition as identity, the SCQ) and why consciousness resists composition categorically
 - [combination-problem](/concepts/combination-problem/) — Panpsychism's version of the composition failure
 - [unity-of-consciousness](/concepts/unity-of-consciousness/) — The primitive wholeness that defies decomposition
 - [binding-problem](/concepts/binding-problem/) — Why neural coordination fails to produce phenomenal unity

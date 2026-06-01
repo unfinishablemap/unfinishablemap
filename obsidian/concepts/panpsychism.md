@@ -21,7 +21,7 @@ concepts:
   - "[[process-philosophy]]"
   - "[[consciousness-in-simple-organisms]]"
   - "[[bi-aspectual-ontology]]"
-  - "[[phenomenal-non-compositionality]]"
+  - "[[composition-and-consciousness|phenomenal non-compositionality]]"
 related_articles:
   - "[[tenets]]"
   - "[[panpsychism-consciousness-2026-01-08]]"
@@ -84,7 +84,7 @@ But panpsychism faces its own challenge: if electrons have micro-experiences, ho
 
 The combination problem has several variants:
 
-**Subject-summing**: How do many micro-subjects become one macro-subject? My consciousness isn't made of billions of tiny consciousnesses contributing their bits. It's unified. This is a specific instance of [[phenomenal-non-compositionality]]—consciousness cannot be assembled from parts, whether physical or experiential.
+**Subject-summing**: How do many micro-subjects become one macro-subject? My consciousness isn't made of billions of tiny consciousnesses contributing their bits. It's unified. This is a specific instance of [[composition-and-consciousness|phenomenal non-compositionality]]—consciousness cannot be assembled from parts, whether physical or experiential.
 
 **Palette problem**: Electrons presumably have very simple experiences. How do these give rise to the diversity of human qualia—colors, sounds, emotions?
 

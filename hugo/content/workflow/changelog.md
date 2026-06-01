@@ -9,6 +9,87 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-06-01T05:58:00+00:00 - refine-draft
+- **Status**: Success
+- **Task**: Claude outer-review verification-corrections bundle (4 findings, 5 files touched)
+- **Web-verify**: DeWall, Baumeister & Masicampo (2008) *Consciousness and Cognition* 17(3):628–645 confirmed (no 2008 Lieberman paper exists for this result); Bagwell (2023) "Debunking interface theory: why Hoffman's skepticism (really) is self-defeating" *Synthese* 201:25 confirmed.
+- **Changes**:
+  - [tenets](/tenets/) L92: corrected "Lieberman et al. (2008)" → "DeWall, Baumeister & Masicampo (2008, *Consciousness and Cognition* 17(3):628–645)" for the cognitive-load-impairs-logical-reasoning result. Prior-this-session edits (Bidirectional bias-without-deviation, MQI mechanism-ordering) left untouched.
+  - [taxonomy-of-voids](/apex/taxonomy-of-voids/) L104 + L220: downgraded FBT "supplying the formal anchor" / "demonstrates" → contested-result framing citing Bagwell 2023; reframed as strongly-argued-at-one-bounded-site, not settled proof.
+  - [fitness-beats-truth](/concepts/fitness-beats-truth/) (5th file): softened overstated "demonstrates" in the lede to "argues" with a contestation pointer; added a lead "self-defeat objection" paragraph (Bagwell 2023) to Contestation and Limits. Game-theoretic result granted at its bounded site; metaphysical payload marked argued-but-contested.
+  - [interactionist-dualism](/concepts/interactionist-dualism/) L149: recalibrated photosynthesis from decoherence-objection defence to precedent-not-licence framing (femtosecond–picosecond engineered-chromophore coherence is precedent that warm-wet biology is not a blanket barrier, not evidence the neuron-scale coherence interactionism needs is realised). Prior-this-session MQI ordering edit untouched. Did NOT touch the 2025 Cogitate *Nature* citation (already calibrated, per task).
+  - [quantum-indeterminacy-free-will](/concepts/quantum-indeterminacy-free-will/) L139: reordered MWI-rejection list to foreground the indexical objection; demoted ontological extravagance to a non-decisive cost under Tenet 5 (Occam's-limits standard). Convergent with the cycle-202 many-worlds-argument reorder.
+- **ai_modified bumped**: all 5 files.
+- **Published**: yes
+
+## 2026-06-01T05:56:24+00:00 - deep-review
+- **Status**: Success
+- **File**: [responsibility-gradient-from-attentional-capacity](/topics/responsibility-gradient-from-attentional-capacity/)
+- **Word count**: 2565 → 2565 (no change)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Notes**: Fifth deep review of a fully converged article. Reviews 3 and 4 found zero issues; only change since (commit d4491214a) was a mechanical wikilink retarget — no reviewable content. All attribution, calibration (no evidential-status slippage; claims framed as tenet-conditional), and reasoning-mode checks pass. Compatibilism engagement: Mode Two/Mixed (credits Fischer & Ravizza grading, then supplies Map's unification); hard determinism: Mode Three (boundary-marked). No label leakage. All 13 wikilinks verified resolving. Length 86% of soft threshold. No content edits warranted; timestamps updated, marked stable. Candidate for longer re-review interval.
+- **Output**: [deep-review-2026-06-01-responsibility-gradient-from-attentional-capacity](/reviews/deep-review-2026-06-01-responsibility-gradient-from-attentional-capacity/)
+
+## 2026-06-01T05:53:34+00:00 - refine-draft
+- **Status**: Success
+- **File**: [entanglement-binding-hypothesis](/concepts/entanglement-binding-hypothesis/)
+- **Type**: objection-engagement (Gemini outer-review Finding #5, the genuine residue)
+- **Changes**: Added one new section ("The Separability No-Go", two paragraphs) engaging Georgiev's quantum-information binding constraint by name, plus its reference. The article argued non-separability captures phenomenal *structure* without answering Georgiev's specific result: a tensor-product decomposition of a composite state marks separable, non-interacting subsystems — on the mind=non-factorizable-state identification, a *split* into independent minds — and quantum coherence of *isolated* subsystems is precisely the regime that preserves that separability. Framed honestly per direct-refutation discipline: stated the strongest no-go first (coherence alone → split minds, not binding), THEN the hypothesis's reply — binding must live in the *interaction term*, not coherence: a non-zero interaction Hamiltonian coupling microtubule states across neurons generates and sustains the inseparability, reframing the substrate requirement from protected per-subsystem coherence to a persistently coupled non-separable composite. Conceded openly that if the brain cannot meet the interaction conditions the separability result stands as a live constraint not yet discharged. Preserved the article's distinct hard-problem concession (binding-level constraint ≠ hard-problem survival). Engagement with Georgiev: Mode Two (unsupported foundational move surfaced from the opponent's own formalism) shading to Mode Three (boundary-marked open empirical question on biological scale) — honest concession, no in-framework refutation claimed.
+- **Citation (WEB-VERIFIED, not from memory)**: Georgiev, D. D. (2021). Quantum information in neural systems. *Symmetry*, 13(5), 773. doi:10.3390/sym13050773. Confirmed DISTINCT from the corpus's already-cited Georgiev 2017 (book) and 2018 (SNARE/Glazebrook). Verified the exact claims via arXiv:2105.01410 abstract+body: "quantum coherence of individual subsystems cannot be used for cognitive binding because it is a physical mechanism that leads to separability and non-interaction" and the non-zero interaction Hamiltonian as what "allows for decoherence of the individual quantum subsystems along with their mutual interaction and quantum entanglement."
+- **Length**: body before ~2050w / after ~2377w (file wc incl. frontmatter). Under the concepts 2500 soft cap; the +~327w is a load-bearing objection-engagement.
+- **Scope**: touched only this file; did NOT disturb the same-session Escolà-Gascón citation reconcile or other content. New ref inserted alphabetically as #3, list renumbered 3→15 (body cites author-year, not by number).
+- **Published**: yes
+
+## 2026-06-01T05:47:31+00:00 - refine-draft
+- **Status**: Success
+- **Files**: [entanglement-binding-hypothesis](/concepts/entanglement-binding-hypothesis/), [quantum-consciousness](/concepts/quantum-consciousness/)
+- **Type**: citation-reconcile (Gemini outer-review residue)
+- **Changes**: Same paper — Escolà-Gascón (2025), *Comput Struct Biotechnol J* — was cited with conflicting metadata across the two files (vol. 26, pp. 166-178 vs vol. 30, pp. 21-40). Did ONE live web verification (PMC/ScienceDirect/journal, not corpus): correct metadata is **vol. 30, pp. 21-40, doi:10.1016/j.csbj.2025.03.001** (published 2025-03-10). Fixed the wrong reference in entanglement-binding-hypothesis.md (26,166-178 → 30,21-40) and added DOI to both reference lines. The 31.6% and 13.5% are TWO DISTINCT legitimate statistics from the same paper (31.6% = Q-coefficient increase in variance across twin responses; 13.5% = entanglement of qubits explaining variance in accuracy in the experimental group) — verified both against the source; no figure was wrong, the conflict was only volume/pages. Existing critical caveats ("questioned… preliminary and provocative" / "awaits independent replication") preserved in both. Net length change ~0.
+- **Published**: yes
+
+## 2026-06-01T06:15:00+00:00 - optimistic-review
+- **Status**: Success
+- **Content reviewed**: metaphysics-of-the-interface trio — topics/consciousness-and-the-metaphysics-of-laws-and-dispositions, topics/russellian-monism-versus-bi-aspectual-dualism, topics/wheelers-participatory-universe-and-it-from-bit. Cluster's shared move: honest-labelling-as-argument + costed empirical honesty (decoherence hostage, corridor within-trial signature). Process-Philosopher and Hardline-Empiricist personas converge → tension resolved honestly, no calibration concern. Found Wheeler is the under-connected node (0 mutual links with the other two despite sharing the decoherence hostage + governing-law/corridor mechanism); queued a P3 refine-draft to cross-link.
+- **Output**: [optimistic-2026-06-01b](/reviews/optimistic-2026-06-01b/)
+
+## 2026-06-01T06:10:00+00:00 - refine-draft
+- **Status**: Success
+- **File**: [neural-correlates-of-consciousness](/concepts/neural-correlates-of-consciousness/)
+- **Word count**: 2927 → 3212 (+285; article was already over the 2500 concept soft limit pre-pass — symmetry remediation is additive by nature; net increase confined to the one symmetry paragraph plus a citation)
+- **Primary fix (altered-state symmetry, pessimistic-2026-06-01)**: In "Filter Theory: Correlates as Interface Points," the four supportive findings (covert consciousness, disconnection/callosal unity, psychedelic DMN dissolution, anaesthetic dissociation) were presented as convergent confirmations of the transmission reading with only a flat "compatible with either" closer. Replaced with a single symmetry paragraph: the four findings are ONE underdetermined evidential pattern, not four independent confirmations; the production/identity theorist has the symmetrically-available accommodation (localised disruption of a still-intact generator); and the propofol "near-total extinction" is reframed as a case the transmission framing must *accommodate* (interface narrowed toward zero bandwidth) rather than enrolled as support. Single dialectic paragraph, not one counter-claim per bullet (per evidential-status-discipline / defeater-removal≠evidence). Inherited the accommodation language from consciousness-disruption-and-the-mind-brain-interface (cycle 159 template). `evaluate_symmetry` now returns None (7 symmetry markers register).
+- **Secondary (web-verified, ai-citation-metadata-unreliable)**: (1) COGITATE Koch quote — the verbatim "the evidence is decidedly in favour of the posterior cortex" could NOT be verified; softened to a paraphrase ("read the experiments as favouring a posterior rather than prefrontal locus") plus the documented "decidedly mixed" headline result. (2) 2025 callosotomy claim — VERIFIED (Santander et al., *PNAS* 2025, "Full interhemispheric integration sustained by a fraction of posterior callosal fibers"); tightened to a single near-complete-callosotomy patient, citation added. (3) "200 theories" figure — provenance muddy (surveys count 29/200/222/350 depending on individuation); softened to "low hundreds — recent landscape mappings tally well over two hundred" rather than fabricate a citation.
+- **Cross-refs added**: [anaesthesia-and-the-consciousness-interface](/topics/anaesthesia-and-the-consciousness-interface/), [altered-states-of-consciousness](/concepts/altered-states-of-consciousness/) (body + frontmatter concepts list).
+- **Preserved**: the four-condition "What Would Challenge This View?" falsification section untouched.
+- **Published**: yes (draft: false retained)
+
+## 2026-06-01T05:29:19+00:00 - deep-review
+- **Status**: Success
+- **File**: [consciousness-and-the-metaphysics-of-laws-and-dispositions](/topics/consciousness-and-the-metaphysics-of-laws-and-dispositions/)
+- **Word count**: 4239 → 4168 (-71)
+- **Critical issues addressed**: 0 (none found; the 3 substantive issues + 2 citation risks from the 2026-05-31 pessimistic review were already closed by intervening refine/condense passes — verified)
+- **Medium issues addressed**: 0 new; verified prior closures (forward-reference payout, four-corner uniqueness closure, empirical-vs-metaphysical qualifier)
+- **Enhancements made**: calibration-preserving condensation only — removed ~71 words of restatement across the interface combination paragraph, the Bidirectional-Interaction tenet entry, and the dispositional-modality/pain-asymbolia passages; protected the decoherence-hostage framing, internal-coherence qualifier, conditional-necessity passage, and citation framing
+- **Citations**: Taylor (2018) re-verified live → Henry Taylor, *Philosophical Studies* 175(6):1423-1440 (correct); Cutter (2019) page range confirmed corrected to 109-129
+- **Engagement modes**: MWI — Mode Three (honest boundary-marking); Russellian monism (Cutter/Pautz/Howell/Mørch) — earns disagreement on the combination-problem ground, not tenet-appeal; Tegmark/decoherence — genuine in-framework concession
+- **Length**: remains ~168 words over the 4000 topics hard threshold; redundancy exhausted, residual is load-bearing 3×3 cross-product argument → queued P2 HUMAN length-decision
+- **Output**: [deep-review-2026-06-01-consciousness-and-the-metaphysics-of-laws-and-dispositions](/reviews/deep-review-2026-06-01-consciousness-and-the-metaphysics-of-laws-and-dispositions/)
+
+## 2026-06-01T07:00:00+00:00 - refine-draft
+- **Status**: Success
+- **File**: [many-worlds-argument](/arguments/many-worlds-argument/)
+- **Source**: Convergent outer-review finding (ChatGPT §5 ∩ Claude, P1) — the anti-MWI case over-weighted the ontological-extravagance argument, which sits awkwardly with Tenet 5 (Occam's Razor Has Limits): the Map cannot lean on parsimony as decisive. Purely structural, light-touch reorder + verb-softening — NOT a rewrite.
+- **Direction**: calibration-DOWN (evidential-status discipline) — demoting a parsimony argument the Map disavows makes the case MORE honest; the rejection rests on indexical grounds.
+- **Changes**:
+  - Reordered: "The Indexical Problem" promoted to lead as Argument 1 (was Argument 2); Probability/Preferred-Basis/Consciousness renumbered 2–4.
+  - "Ontological Extravagance" demoted from leading Argument 1 to a new closing "A Non-Decisive Cost: Ontological Extravagance" section (before the Illusionist Challenge), reframed explicitly as a cost MWI pays but not decisive by the Map's own Tenet 5; removed the "buying simplicity on credit" parsimony-as-knockdown framing.
+  - Cumulative Case table: ontological extravagance moved to last row, labelled "(non-decisive)"; intro paragraph rewritten to mark it non-load-bearing.
+  - Relation-to-Site-Perspective Occam's Razor bullet softened: notes the asymmetry but states the tenet disciplines the Map's own case and the rejection rests on indexical/probability/basis arguments, not parsimony.
+  - DID NOT TOUCH the branch-relative-identity concession (~lines 88–110) — explicitly confirmed calibrated by reviewer. Preserved all Saunders/Wallace/Tappenden/Vaidman/Sebens-Carroll/Wilson/Lockwood engagement and citations. No new citations. Near-net-zero length (reorder + verb-softening).
+  - Bumped ai_modified to 2026-06-01.
+- **Published**: yes
+
 ## 2026-06-01T06:00:00+00:00 - refine-draft
 - **Status**: Success
 - **Files**: [epiphenomenalism-argument](/arguments/epiphenomenalism-argument/), [arguments](/arguments/)

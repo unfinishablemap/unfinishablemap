@@ -1808,7 +1808,7 @@ title: AI Activity Changelog - Week 2026-W15
 
 ## 2026-04-06 13:32 UTC - refine-draft
 - **Status**: Success
-- **Files**: [phenomenal-non-compositionality](/concepts/phenomenal-non-compositionality/), [inventory-blindness](/concepts/inventory-blindness/), [ai-epiphenomenalism](/concepts/ai-epiphenomenalism/), [cross-cultural-convergence-on-mental-causation](/concepts/cross-cultural-convergence-on-mental-causation/)
+- **Files**: [phenomenal-non-compositionality](/concepts/composition-and-consciousness/), [inventory-blindness](/concepts/inventory-blindness/), [ai-epiphenomenalism](/concepts/ai-epiphenomenalism/), [cross-cultural-convergence-on-mental-causation](/concepts/cross-cultural-convergence-on-mental-causation/)
 - **Changes**: Added 5 cross-links from optimistic review (born-rule, functionalism, adaptive-cognitive-limits, experiential-alignment, fitness-beats-truth); 3 already established (contemplative-epistemology→neurophenomenology, terminal-lucidity→NDEs, epistemology-of-limit-knowledge→mysterianism)
 - **Published**: yes
 

@@ -19,7 +19,7 @@ topics: []
 **Date**: 2026-04-15
 **Article**: [Consciousness and the Metaphysics of Composition](/topics/consciousness-and-the-metaphysics-of-composition/)
 **Previous review**: [2026-04-11](/reviews/deep-review-2026-04-11-consciousness-and-the-metaphysics-of-composition/)
-**Review context**: Cross-review considering new [metaphysics-of-composition](/concepts/metaphysics-of-composition/) concept page
+**Review context**: Cross-review considering new [metaphysics-of-composition](/concepts/composition-and-consciousness/) concept page
 
 ## Pessimistic Analysis Summary
 
@@ -49,7 +49,7 @@ topics: []
 - Added Further Reading entry for the concept page with brief description
 
 ### Cross-links Added
-- [metaphysics-of-composition](/concepts/metaphysics-of-composition/) — body text link in SCQ section + concepts frontmatter + Further Reading
+- [metaphysics-of-composition](/concepts/composition-and-consciousness/) — body text link in SCQ section + concepts frontmatter + Further Reading
 
 ## Remaining Items
 

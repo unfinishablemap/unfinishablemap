@@ -17,7 +17,7 @@ topics: []
 ---
 
 **Date**: 2026-04-15
-**Article**: [Metaphysics of Composition](/concepts/metaphysics-of-composition/)
+**Article**: [Metaphysics of Composition](/concepts/composition-and-consciousness/)
 **Previous review**: Never
 
 ## Pessimistic Analysis Summary

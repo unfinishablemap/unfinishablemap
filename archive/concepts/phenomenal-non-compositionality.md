@@ -28,6 +28,11 @@ author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-03-24
 last_curated:
+archived: true
+archived_date: 2026-06-01T06:11:11+00:00
+superseded_by: "/concepts/composition-and-consciousness/"
+archive_reason: "Coalesced into Composition and Consciousness"
+original_path: "/concepts/phenomenal-non-compositionality/"
 ---
 
 Phenomenal non-compositionality is the principle that conscious experience cannot be constructed from constituent parts. Physical properties compose straightforwardly—two masses combine into a larger mass, two charges superpose, two velocities add. Perspectives do not work this way. Two experiential viewpoints do not merge into a third viewpoint. Two subjects do not fuse into a wider subject. The Unfinishable Map treats this asymmetry between physical and phenomenal composition as one of the strongest indicators that consciousness belongs to a fundamentally different ontological category than physical matter.

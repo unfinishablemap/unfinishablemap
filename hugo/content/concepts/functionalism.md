@@ -42,7 +42,7 @@ related_articles:
 - '[[arguments-against-materialism]]'
 - '[[consciousness-evolution-and-biology]]'
 - '[[metaphysics-of-information-under-dualism]]'
-- '[[phenomenal-non-compositionality]]'
+- '[[composition-and-consciousness|phenomenal non-compositionality]]'
 - '[[pragmatisms-path-to-dualism]]'
 - '[[biological-computationalisms-inadvertent-case-for-dualism]]'
 title: Functionalism
@@ -125,7 +125,7 @@ The natural move is that Physarum implements simpler roles. But the more precise
 
 The [hard problem](/topics/hard-problem-of-consciousness/) asks: why is there something it's like to be a conscious system? Chalmers frames the issue: we can explain the "easy problems" (attention, discrimination, report) in functional terms, but the hard problem seems to require something beyond functional organization. [Cognitive phenomenology](/topics/cognitive-phenomenology-and-the-irreducibility-of-thought/) deepens the challenge: if believing that snow is white has proprietary phenomenal character not captured by functional differences, the absent qualia worry extends from sensation into thought itself.
 
-[Phenomenal non-compositionality](/concepts/phenomenal-non-compositionality/) sharpens the difficulty. Functional states compose straightforwardly—combine two information-processing subsystems and you get a richer causal profile. But phenomenal states do not compose: two perspectives do not merge into a third. If functional organization were sufficient for consciousness, functional composition should yield phenomenal composition. It does not, and the gap is conceptual rather than computational.
+[Phenomenal non-compositionality](/concepts/composition-and-consciousness/) sharpens the difficulty. Functional states compose straightforwardly—combine two information-processing subsystems and you get a richer causal profile. But phenomenal states do not compose: two perspectives do not merge into a third. If functional organization were sufficient for consciousness, functional composition should yield phenomenal composition. It does not, and the gap is conceptual rather than computational.
 
 This exposes the pressure functionalism faces on its own terms. It does not merely describe mental states by their causal roles; it asserts that functional organization is *sufficient* for consciousness. But it never specifies why exercising a functional role should involve qualitative experience at all—why the right causal structure does not simply run "in the dark." By the standards functionalism itself accepts, an adequate account of a property explains why instantiating its defining conditions produces it; functionalism helps itself to the sufficiency claim without supplying that explanation. The phenomenal-concepts strategy and the appeal to brute necessity are attempts to discharge this debt; neither pays it.
 
@@ -179,7 +179,7 @@ None of these would logically refute dualism—the conceivability arguments woul
 
 - [functionalism-argument](/arguments/functionalism-argument/) — Five formal arguments against functionalism
 - [arguments-against-materialism](/topics/arguments-against-materialism/) — The cumulative case against materialism
-- [phenomenal-non-compositionality](/concepts/phenomenal-non-compositionality/) — Why functional composition cannot yield phenomenal composition
+- [phenomenal non-compositionality](/concepts/composition-and-consciousness/) — Why functional composition cannot yield phenomenal composition
 - [philosophical-zombies](/concepts/philosophical-zombies/) — The conceivability argument in detail
 - [inverted-qualia](/concepts/inverted-qualia/) — The spectrum inversion thought experiment
 - [illusionism](/concepts/illusionism/) — The radical defense of functionalism

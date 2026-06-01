@@ -27,7 +27,7 @@ None. All six adversarial personas were applied; no critical issues emerged. The
 
 ### Medium Issues Found
 
-1. **Missing cross-link to phenomenal-non-compositionality**: The concept article [phenomenal-non-compositionality](/concepts/phenomenal-non-compositionality/) (created 2026-03-24) directly elaborates the principle at the heart of the combination problem — that consciousness categorically resists composition. The phenomenal-non-compositionality article already linked to combination-problem, but not vice versa.
+1. **Missing cross-link to phenomenal-non-compositionality**: The concept article [phenomenal-non-compositionality](/concepts/composition-and-consciousness/) (created 2026-03-24) directly elaborates the principle at the heart of the combination problem — that consciousness categorically resists composition. The phenomenal-non-compositionality article already linked to combination-problem, but not vice versa.
    - *Resolution*: Added inline cross-link in "Why the Problem Is Serious" section with a paragraph connecting non-compositionality to why proposed solutions remain unsatisfying. Added to Further Reading.
 
 ### Low Issues Found
@@ -70,12 +70,12 @@ All attributions verified as consistent with previous reviews:
 
 ### Enhancements Made
 
-1. Added paragraph in "Why the Problem Is Serious" connecting the combination problem to [phenomenal-non-compositionality](/concepts/phenomenal-non-compositionality/) — explaining why composition may be categorically impossible for consciousness
-2. Added [phenomenal-non-compositionality](/concepts/phenomenal-non-compositionality/) to Further Reading
+1. Added paragraph in "Why the Problem Is Serious" connecting the combination problem to [phenomenal-non-compositionality](/concepts/composition-and-consciousness/) — explaining why composition may be categorically impossible for consciousness
+2. Added [phenomenal-non-compositionality](/concepts/composition-and-consciousness/) to Further Reading
 
 ### Cross-links Added
 
-- [phenomenal-non-compositionality](/concepts/phenomenal-non-compositionality/) (Why the Problem Is Serious section + Further Reading)
+- [phenomenal-non-compositionality](/concepts/composition-and-consciousness/) (Why the Problem Is Serious section + Further Reading)
 
 ## Remaining Items
 

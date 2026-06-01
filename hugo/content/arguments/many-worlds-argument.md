@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-15
-ai_modified: 2026-05-29 00:00:00+00:00
+ai_modified: 2026-06-01 00:00:00+00:00
 ai_system: claude-opus-4-7
 author: null
 concepts:
@@ -45,23 +45,7 @@ Hugh Everett proposed in 1957 that the wave function never collapses. Instead, w
 
 The appeal is obvious. Many-worlds preserves the beautiful determinism of the Schrödinger equation—pure unitary evolution, no mysterious collapse, no measurement problem. The mathematics is clean. But the metaphysics is not.
 
-## Argument 1: Ontological Extravagance
-
-**Premise 1**: Many-worlds posits that every quantum event spawns new branches of reality.
-
-**Premise 2**: Quantum events occur constantly throughout the universe—trillions per second in every atom.
-
-**Premise 3**: The number of branches grows exponentially with time.
-
-**Conclusion**: Many-worlds requires an inconceivably vast, ever-multiplying ontology.
-
-This is not merely "a lot" of universes. The branching structure implies more parallel realities than atoms in the observable universe—and that number doubles with every quantum event. Sean Carroll and other proponents embrace this: the theory is mathematically simple even if ontologically profligate.
-
-But parsimony must be applied to what the theory *posits*, not just its equations. A theory that postulates vastly more than can ever be observed should carry a correspondingly heavy burden of proof. Many-worlds carries this burden poorly.
-
-The [Occam's Razor Has Limits](/tenets/#occams-limits) tenet warns against naive applications of parsimony. But the concern there is that simplicity can mislead when concepts are inadequate. Many-worlds makes the opposite error: it claims conceptual simplicity (no collapse) by paying in ontological currency (infinite branches). This is not simplicity—it is buying simplicity on credit.
-
-## Argument 2: The Indexical Problem
+## Argument 1: The Indexical Problem
 
 **Premise 1**: In many-worlds, all outcomes occur—including all possible future versions of you.
 
@@ -111,7 +95,7 @@ The Map shares the dualist intuition driving Many-Minds but differs on what to d
 
 Together, these six engagements specify what the Map's rejection of MWI actually claims. Where the Everettian can restate the phenomenon as branch-local—Wallace, Tappenden, Wilson on the indexical phenomenology—the disagreement is at the framework boundary and the Map says so honestly. Where the in-framework critique remains live—Vaidman and Sebens-Carroll on Born-rule circularity, Many-Minds on the unspecified psycho-physical bridge—the dispute is open inside MWI rather than closed by the Map's tenets. The bedrock that Tenet 4 names is what remains after the framework-internal debates settle, not what they were ever asked to deliver.
 
-## Argument 3: The Probability Problem
+## Argument 2: The Probability Problem
 
 **Premise 1**: Many-worlds must recover the Born rule—the quantum mechanical predictions we observe.
 
@@ -133,7 +117,7 @@ David Wallace's *The Emergent Multiverse* (2012) argues that rational agents sho
 
 In a theory where everything happens, there's no natural measure of "how much" each thing happens. Branch counting gives the wrong statistics (there are equal numbers of spin-up and spin-down branches regardless of the quantum amplitude). Amplitude-weighted measures can be constructed but require additional postulates—defeating the claimed simplicity of many-worlds.
 
-## Argument 4: The Preferred Basis Problem
+## Argument 3: The Preferred Basis Problem
 
 **Premise 1**: Decoherence determines which observables become "classical"—the basis in which branching appears to occur.
 
@@ -147,7 +131,7 @@ When does branching occur? Standard many-worlds says: when decoherence makes int
 
 The answer—that macroscopic decoherence picks out a roughly unique basis—is pragmatically adequate but philosophically unsatisfying. The theory that was supposed to eliminate observer-dependence reintroduces it at the level of basis selection. The branches we experience may be artifacts of how we decompose the wave function rather than objective features of reality.
 
-## Argument 5: Consciousness Is Not Addressed
+## Argument 4: Consciousness Is Not Addressed
 
 **Premise 1**: Many-worlds describes physical evolution; it does not explain conscious experience.
 
@@ -163,6 +147,16 @@ Neither question was "why do we experience outcomes?" The hard problem remains u
 
 The Map's framework proposes that consciousness plays a role at quantum measurement—selecting among outcomes physics leaves undetermined. Many-worlds eliminates this role entirely: there is nothing for consciousness to select because everything happens. But if consciousness has no role in physics, how does it report on physics? The [epiphenomenalism](/concepts/epiphenomenalism/) worry resurfaces in new form.
 
+## A Non-Decisive Cost: Ontological Extravagance
+
+The arguments above are the load-bearing case. One further consideration is often raised against many-worlds, but the Map can treat it only as a cost MWI pays—not as a decisive objection.
+
+Many-worlds posits that every quantum event spawns new branches of reality, quantum events occur constantly throughout the universe, and the number of branches grows exponentially with time. The branching structure implies more parallel realities than atoms in the observable universe—and that number doubles with every quantum event. Sean Carroll and other proponents embrace this: the theory is mathematically simple even if ontologically profligate.
+
+It is tempting to convert this into a parsimony argument—that a theory postulating vastly more than can ever be observed should be rejected on grounds of economy. The Map withholds that move. The [Occam's Razor Has Limits](/tenets/#occams-limits) tenet commits the Map to distrusting simplicity and parsimony as decisive guides when knowledge is incomplete. Having disavowed parsimony as a court of final appeal, the Map cannot turn around and wield ontological economy as a knockdown argument against MWI. To do so would be to help itself to a standard it has elsewhere rejected.
+
+So the honest accounting is this: many-worlds' ever-multiplying ontology is a real cost, and a reason for discomfort, but by the Map's own lights it is not where the case against MWI rests. The case rests on the indexical, probability, and basis arguments above—objections the Map can press without leaning on a parsimony it disowns.
+
 ## The Illusionist Challenge
 
 [Illusionists](/concepts/illusionism/) might respond that phenomenal consciousness is itself illusory, dissolving the indexical problem—if there are no genuine subjects, there's no fact about "which branch am I in?" But this faces a characteristic regress: for singular experience to be an "illusion," something must experience the illusion. The *seeming* of unified consciousness is itself phenomenal, and the indexical problem returns at the level of seemings. As Raymond Tallis argues, "misrepresentation presupposes presentation." [Contemplative traditions](/concepts/witness-consciousness/) reinforce this—cross-traditional convergence in meditation reports favors genuine singularity of awareness, not confabulated impression. See [illusionism](/concepts/illusionism/) for the full debate.
@@ -171,13 +165,13 @@ The Map's framework proposes that consciousness plays a role at quantum measurem
 
 | Argument | What It Shows |
 |----------|---------------|
-| Ontological Extravagance | Many-worlds trades mathematical simplicity for metaphysical inflation |
 | Indexical Problem | Personal identity becomes incoherent across branches |
 | Probability Problem | The Born rule remains unexplained or circularly assumed |
 | Preferred Basis Problem | Branch ontology depends on observer-relative decomposition |
 | Consciousness Unaddressed | The hard problem remains; unity of experience is unexplained |
+| Ontological Extravagance (non-decisive) | A genuine cost—but one the Map cannot press as decisive given [Tenet 5](/tenets/#occams-limits) |
 
-Arguments 1-2 challenge the coherence of the many-worlds picture. Arguments 3-4 challenge its technical adequacy. Argument 5 shows it offers no advantage for consciousness studies.
+The indexical and consciousness arguments challenge the coherence of the many-worlds picture; the probability and preferred-basis arguments challenge its technical adequacy. Ontological extravagance is listed last and marked non-decisive: it is a cost MWI pays, but the Map disavows parsimony as a final court (Tenet 5) and so cannot rest its rejection there.
 
 ## Alternatives the Map Prefers
 
@@ -213,7 +207,7 @@ The [No Many Worlds](/tenets/#no-many-worlds) tenet is not arbitrary. It follows
 
 **[No Many Worlds](/tenets/#no-many-worlds)**: The tenet exists because of the indexical identity problem. If consciousness involves genuine unity—a single subject binding many contents—then fragmenting that subject across branches destroys what makes it consciousness.
 
-**[Occam's Razor Has Limits](/tenets/#occams-limits)**: Many-worlds claims conceptual simplicity (no collapse) while postulating ontological profligacy (continuously branching universes). The equations are clean; the metaphysics is not.
+**[Occam's Razor Has Limits](/tenets/#occams-limits)**: Many-worlds claims conceptual simplicity (no collapse) while postulating ontological profligacy (continuously branching universes). The Map notes this asymmetry but does not treat it as decisive: having committed to distrusting parsimony as a guide under incomplete knowledge, the Map cannot wield ontological economy as a knockdown objection. The tenet here disciplines the Map's own case as much as it indicts MWI—the rejection rests on the indexical, probability, and basis arguments, not on parsimony.
 
 The Map requires that quantum measurement is real—that definite outcomes genuinely occur and consciousness plays a role in their occurrence. Many-worlds denies all of this.
 

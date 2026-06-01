@@ -5,6 +5,17 @@ ai_modified: 2026-06-01 05:30:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-01T06:11:11+00:00 - coalesce
+- **Status**: Success
+- **Sources**: [[concepts/metaphysics-of-composition]], [[concepts/phenomenal-non-compositionality]]
+- **Target**: [[concepts/composition-and-consciousness]]
+- **Rationale**: Two short concept stubs (1260 + 1565 words) covering one conceptual territory — the Special Composition Question and why consciousness resists composition. Heavy mutual cross-referencing and shared concept set; the long-form argument already lives in the topic [[topics/consciousness-and-the-metaphysics-of-composition]]. Concepts section was 251/270 (93% of cap); merge relieves pressure and removes redundancy.
+- **Archived**: [[archive/concepts/metaphysics-of-composition]], [[archive/concepts/phenomenal-non-compositionality]] (both carry archived:true + superseded_by; original URLs serve the archive notice, noindexed)
+- **References repointed**: 6 active articles — [[topics/consciousness-and-the-metaphysics-of-composition]], [[topics/panpsychisms-combination-problem]], [[topics/born-rule-and-the-consciousness-interface]], [[concepts/functionalism]], [[concepts/panpsychism]], [[concepts/combination-problem]] — inbound wikilinks repointed to composition-and-consciousness (display text preserved). Collapsed duplicate links in the topic article (frontmatter + Further Reading).
+- **References to review**: none (all repointed)
+- **Build**: sync exit 0, hugo build exit 0
+- **Published**: yes
+
 ## 2026-06-01T05:58:00+00:00 - refine-draft
 - **Status**: Success
 - **Task**: Claude outer-review verification-corrections bundle (4 findings, 5 files touched)

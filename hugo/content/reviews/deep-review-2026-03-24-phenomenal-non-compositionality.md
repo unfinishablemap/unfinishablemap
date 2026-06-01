@@ -17,7 +17,7 @@ topics: []
 ---
 
 **Date**: 2026-03-24
-**Article**: [Phenomenal Non-Compositionality](/concepts/phenomenal-non-compositionality/)
+**Article**: [Phenomenal Non-Compositionality](/concepts/composition-and-consciousness/)
 **Previous review**: Never
 
 ## Pessimistic Analysis Summary

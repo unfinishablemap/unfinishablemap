@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-19
-ai_modified: 2026-05-27 08:30:00+00:00
+ai_modified: 2026-06-01 05:58:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -138,7 +138,7 @@ The Map's [Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction) te
 
 ## Many-Worlds: The Alternative Rejected
 
-The [many-worlds interpretation](/concepts/many-worlds/) denies collapse occurs—every possibility actualizes in branching universes. The Map's [No Many Worlds](/tenets/#no-many-worlds) tenet rejects this for ontological extravagance, the indexical problem, the probability problem, and for eliminating any role for consciousness. See [many-worlds](/concepts/many-worlds/) for the full case.
+The [many-worlds interpretation](/concepts/many-worlds/) denies collapse occurs—every possibility actualizes in branching universes. The Map's [No Many Worlds](/tenets/#no-many-worlds) tenet rejects this primarily on the indexical problem—MWI cannot say why *this* branch is the one experienced—reinforced by the probability problem and by its eliminating any role for consciousness. Ontological extravagance is registered as a cost rather than the decisive objection: under [Occam's Razor Has Limits](/tenets/#occams-limits) the Map does not treat the sheer number of posited worlds as settling the matter, since simplicity is an unreliable guide where knowledge is incomplete. See [many-worlds](/concepts/many-worlds/) for the full case.
 
 For free will specifically: MWI means every choice *and* its alternatives are all made. "You" choose both A and B in different branches—no genuine authorship because nothing was actually selected. If collapse is real and consciousness participates in it, the quantum opening for free will exists. If MWI is true, indeterminism means branching, not freedom.
 

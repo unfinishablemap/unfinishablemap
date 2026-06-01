@@ -29,7 +29,7 @@ None. The article has been stable across three prior deep reviews (initial + 202
 ### Medium Issues Found
 
 - **Missing cross-links to two directly relevant articles created since the 2026-03-20 review**:
-  - [phenomenal-non-compositionality](/concepts/phenomenal-non-compositionality/) (created 2026-03-24): Concept article already links *to* this topic, but no reciprocal link existed. This is the Map's dedicated treatment of the "subjectivity resists composition" thesis — the natural destination for readers who want the principle stated at concept-level. **Resolution**: Added inline link in "What the Problem Reveals" at the exact sentence that names the principle, added to `concepts` frontmatter, added to Further Reading.
+  - [phenomenal-non-compositionality](/concepts/composition-and-consciousness/) (created 2026-03-24): Concept article already links *to* this topic, but no reciprocal link existed. This is the Map's dedicated treatment of the "subjectivity resists composition" thesis — the natural destination for readers who want the principle stated at concept-level. **Resolution**: Added inline link in "What the Problem Reveals" at the exact sentence that names the principle, added to `concepts` frontmatter, added to Further Reading.
   - [four-quadrant-dualism-taxonomy](/topics/four-quadrant-dualism-taxonomy/) (created 2026-04-21): The taxonomy explicitly places panpsychism variants and the Map on a shared axis — directly relevant to this article's "Relation to Site Perspective" framing of why the combination problem pulls the Map away from panpsychism. **Resolution**: Added inline parenthetical in the "Dualism gains by elimination" paragraph, added to `related_articles` frontmatter, added to Further Reading.
 
 ### Attribution Accuracy Check
@@ -65,13 +65,13 @@ Per convergence rule, bedrock philosophical disagreements are not re-flagged.
 
 ### Enhancements Made
 
-1. Inline link to [phenomenal-non-compositionality](/concepts/phenomenal-non-compositionality/) at the sentence that names "inherently non-compositional" — closes a reciprocal-link gap.
+1. Inline link to [phenomenal-non-compositionality](/concepts/composition-and-consciousness/) at the sentence that names "inherently non-compositional" — closes a reciprocal-link gap.
 2. Inline parenthetical in "Relation to Site Perspective" placing this article's argument in the [four-quadrant-dualism-taxonomy](/topics/four-quadrant-dualism-taxonomy/) — gives readers the Map's geometric framing without repeating it here.
 3. Frontmatter and Further Reading updated with both links, one-line descriptors.
 
 ### Cross-links Added
 
-- [phenomenal-non-compositionality](/concepts/phenomenal-non-compositionality/) (body, concepts frontmatter, Further Reading)
+- [phenomenal-non-compositionality](/concepts/composition-and-consciousness/) (body, concepts frontmatter, Further Reading)
 - [four-quadrant-dualism-taxonomy](/topics/four-quadrant-dualism-taxonomy/) (body, related_articles frontmatter, Further Reading)
 
 ## Word Count

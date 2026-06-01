@@ -27,7 +27,7 @@ topics: []
 
 ### Medium Issues Found
 - AI refinement log (HTML comment, lines 217-232) still present from 2026-03-30 revision, marked "should be removed after human review": Removed
-- Missing cross-link to [phenomenal-non-compositionality](/concepts/phenomenal-non-compositionality/) (created 2026-03-24, directly relevant to combination problem and subject-summing): Added in combination problem section and concepts frontmatter
+- Missing cross-link to [phenomenal-non-compositionality](/concepts/composition-and-consciousness/) (created 2026-03-24, directly relevant to combination problem and subject-summing): Added in combination problem section and concepts frontmatter
 
 ### Attribution Accuracy Check
 - Strawson "Emergence can't be brute" — faithful paraphrase of "Realistic Monism" (2006) ✓
@@ -60,11 +60,11 @@ topics: []
 - Deflationary positions (Dennett, Frankish) engaged fairly
 
 ### Enhancements Made
-1. Added [phenomenal-non-compositionality](/concepts/phenomenal-non-compositionality/) cross-link in combination problem section — connects subject-summing to the broader principle that consciousness cannot be assembled from parts
+1. Added [phenomenal-non-compositionality](/concepts/composition-and-consciousness/) cross-link in combination problem section — connects subject-summing to the broader principle that consciousness cannot be assembled from parts
 2. Removed stale AI refinement log (HTML comment from 2026-03-30 marked for removal)
 
 ### Cross-links Added
-- [phenomenal-non-compositionality](/concepts/phenomenal-non-compositionality/) (in body text and concepts frontmatter)
+- [phenomenal-non-compositionality](/concepts/composition-and-consciousness/) (in body text and concepts frontmatter)
 
 ## Word Count
 

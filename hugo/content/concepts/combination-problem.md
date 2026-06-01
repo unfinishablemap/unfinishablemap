@@ -122,7 +122,7 @@ The combination problem is not just a technical difficulty—it threatens panpsy
 
 Panpsychism aimed to avoid the hard problem of consciousness: the seeming impossibility of experience emerging from non-experiential matter. But if the combination problem is equally intractable, panpsychism hasn't made progress. We've traded "how does experience arise from non-experience?" for "how do micro-experiences combine into macro-experience?"
 
-The deeper issue is [phenomenal-non-compositionality](/concepts/phenomenal-non-compositionality/): consciousness simply does not compose the way physical properties do. This is why [three independent answers to the Special Composition Question](/topics/consciousness-and-the-metaphysics-of-composition/)—van Inwagen's organicism, Merricks' eliminativism, and McQueen and Tsuchiya's IIT-based approach—all converge on consciousness as the criterion for genuine composition. Two masses combine into a larger mass; two perspectives do not merge into a third perspective. This asymmetry between physical and phenomenal composition may explain why every proposed solution to the combination problem—phenomenal bonding, co-consciousness, combinatorial infusion—remains unsatisfying. They attempt composition where composition may be categorically impossible.
+The deeper issue is [phenomenal non-compositionality](/concepts/composition-and-consciousness/): consciousness simply does not compose the way physical properties do. This is why [three independent answers to the Special Composition Question](/topics/consciousness-and-the-metaphysics-of-composition/)—van Inwagen's organicism, Merricks' eliminativism, and McQueen and Tsuchiya's IIT-based approach—all converge on consciousness as the criterion for genuine composition. Two masses combine into a larger mass; two perspectives do not merge into a third perspective. This asymmetry between physical and phenomenal composition may explain why every proposed solution to the combination problem—phenomenal bonding, co-consciousness, combinatorial infusion—remains unsatisfying. They attempt composition where composition may be categorically impossible.
 
 Chalmers acknowledges this: "The combination problem is perhaps the hardest problem of panpsychism... It's not clear that panpsychism has an advantage over physicalism here."
 
@@ -199,7 +199,7 @@ The combination problem is not an argument *for* the Map's framework, but it sho
 - [free-will](/topics/free-will/) — Mental causation implications of the interaction alternative
 - [hard-problem-of-consciousness](/topics/hard-problem-of-consciousness/) — The problem panpsychism aimed to solve
 - [qualia](/concepts/qualia/) — What must combine (or not)
-- [phenomenal-non-compositionality](/concepts/phenomenal-non-compositionality/) — Why consciousness resists composition categorically
+- [phenomenal non-compositionality](/concepts/composition-and-consciousness/) — Why consciousness resists composition categorically
 - [consciousness-and-the-metaphysics-of-individuation](/topics/consciousness-and-the-metaphysics-of-individuation/) — The complementary problem: what draws boundaries around discrete subjects
 - [vertiginous-question](/topics/vertiginous-question/) — Why *this* unified subject exists rather than another
 - [tenets](/tenets/) — the Map's foundational commitments

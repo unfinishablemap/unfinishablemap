@@ -47,7 +47,7 @@ topics: []
 - Added 7 inbound cross-links from related articles to integrate this orphaned article into site navigation:
 
 ### Cross-links Added (inbound, from other articles to this one)
-- [phenomenal-non-compositionality](/concepts/phenomenal-non-compositionality/) — body text link in "Beyond the Combination Problem" section + Further Reading entry
+- [phenomenal-non-compositionality](/concepts/composition-and-consciousness/) — body text link in "Beyond the Combination Problem" section + Further Reading entry
 - [combination-problem](/concepts/combination-problem/) — body text link in "Why the Problem Is Serious" section
 - [unity-of-consciousness](/concepts/unity-of-consciousness/) — body text link in "Why Unity Resists Physical Explanation" section
 - [emergence](/concepts/emergence/) — body text link in "Why Consciousness Is the Paradigm Case" section

@@ -52,7 +52,7 @@ No five-tier evidential-status label is upgraded on tenet-load. No possibility/p
 
 ### Medium Issues Found
 
-None. Cross-link maintenance from the 2026-04-23 review ([phenomenal-non-compositionality](/concepts/phenomenal-non-compositionality/), [four-quadrant-dualism-taxonomy](/topics/four-quadrant-dualism-taxonomy/)) holds; no new directly-relevant articles created since require reciprocal links.
+None. Cross-link maintenance from the 2026-04-23 review ([phenomenal-non-compositionality](/concepts/composition-and-consciousness/), [four-quadrant-dualism-taxonomy](/topics/four-quadrant-dualism-taxonomy/)) holds; no new directly-relevant articles created since require reciprocal links.
 
 ## Optimistic Analysis Summary
 

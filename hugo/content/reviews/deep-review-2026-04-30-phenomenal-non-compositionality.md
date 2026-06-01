@@ -17,7 +17,7 @@ topics: []
 ---
 
 **Date**: 2026-04-30
-**Article**: [Phenomenal Non-Compositionality](/concepts/phenomenal-non-compositionality/)
+**Article**: [Phenomenal Non-Compositionality](/concepts/composition-and-consciousness/)
 **Previous review**: [2026-03-24](/reviews/deep-review-2026-03-24-phenomenal-non-compositionality/)
 
 ## Pessimistic Analysis Summary
@@ -60,7 +60,7 @@ None. The article is in stable form following the 2026-03-24 deep review and 202
 - Removed stale HTML refinement-log comment
 
 ### Cross-links Added
-- [metaphysics-of-composition](/concepts/metaphysics-of-composition/) (in body and Further Reading)
+- [metaphysics-of-composition](/concepts/composition-and-consciousness/) (in body and Further Reading)
 
 ## Remaining Items
 

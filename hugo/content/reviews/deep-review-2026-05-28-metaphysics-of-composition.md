@@ -17,7 +17,7 @@ topics: []
 ---
 
 **Date**: 2026-05-28
-**Article**: [Metaphysics of Composition](/concepts/metaphysics-of-composition/)
+**Article**: [Metaphysics of Composition](/concepts/composition-and-consciousness/)
 **Previous review**: [2026-04-15b](/reviews/deep-review-2026-04-15b-metaphysics-of-composition/) (cross-review; first pass [2026-04-15](/reviews/deep-review-2026-04-15-metaphysics-of-composition/))
 **Scope**: METADATA/CITATION-CURRENCY PASS — converged 43-day-stale concept page, reviewed twice clean on creation day and declared stable. Per the deep-review-over-reviews-converged caution, this pass verifies citation currency, attribution, and calibration integrity with explicit license to no-op. NOT a full re-review of converged structure.
 

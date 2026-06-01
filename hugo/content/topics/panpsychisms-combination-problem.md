@@ -17,7 +17,7 @@ concepts:
 - '[[philosophical-zombies]]'
 - '[[explanatory-gap]]'
 - '[[mysterianism]]'
-- '[[phenomenal-non-compositionality]]'
+- '[[composition-and-consciousness|phenomenal non-compositionality]]'
 created: 2026-02-15
 date: &id001 2026-02-17
 description: 'The combination problem reveals something fundamental about subjectivity:
@@ -114,7 +114,7 @@ This avoids the combination problem as stated (no micro-experiences to combine),
 
 ## What the Problem Reveals
 
-The combination problem's persistence across every proposed solution suggests something philosophically important: subjectivity may be *inherently non-compositional* (see [phenomenal-non-compositionality](/concepts/phenomenal-non-compositionality/) for the Map's fuller treatment of this asymmetry between physical and phenomenal composition).
+The combination problem's persistence across every proposed solution suggests something philosophically important: subjectivity may be *inherently non-compositional* (see [phenomenal non-compositionality](/concepts/composition-and-consciousness/) for the Map's fuller treatment of this asymmetry between physical and phenomenal composition).
 
 Physical properties compose readily. Two masses combine into a larger mass. Two charges superpose. Two velocities add (relativistic corrections aside). But two perspectives do not combine into a third. Two experiential viewpoints do not merge into a wider viewpoint. This asymmetry between physical composition and phenomenal composition is the combination problem's deepest lesson.
 
@@ -145,7 +145,7 @@ The Map recognises what panpsychism gets right: consciousness is fundamental, em
 - [combination-problem](/concepts/combination-problem/) — Definitional treatment of the problem and its dimensions
 - [panpsychism](/concepts/panpsychism/) — The view facing this challenge
 - [russellian-monism](/concepts/russellian-monism/) — The most developed framework for contemporary panpsychism
-- [phenomenal-non-compositionality](/concepts/phenomenal-non-compositionality/) — The Map's fuller statement of the asymmetry between physical and phenomenal composition
+- [phenomenal non-compositionality](/concepts/composition-and-consciousness/) — The Map's fuller statement of the asymmetry between physical and phenomenal composition
 - [four-quadrant-dualism-taxonomy](/topics/four-quadrant-dualism-taxonomy/) — Where panpsychism variants and the Map sit on the mind-weight / physical-weight grid
 - [quantum-holism-and-phenomenal-unity](/topics/quantum-holism-and-phenomenal-unity/) — Why unity cannot be functionally explained
 - [the-strong-emergence-of-consciousness](/topics/the-strong-emergence-of-consciousness/) — Emergence and its limits

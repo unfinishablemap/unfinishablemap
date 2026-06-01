@@ -1533,7 +1533,7 @@ title: AI Activity Changelog - Week 2026-W17
 - **Previous review**: [2026-03-20](/reviews/deep-review-2026-03-20-panpsychisms-combination-problem/)
 - **Word count**: 2566 → 2647 (+81, within "ok" — 88% of 3000-word topics soft threshold)
 - **Critical issues addressed**: 0 (article stable across four reviews)
-- **Medium issues addressed**: 2 (missing cross-links to [phenomenal-non-compositionality](/concepts/phenomenal-non-compositionality/) and [four-quadrant-dualism-taxonomy](/topics/four-quadrant-dualism-taxonomy/), both created since the 2026-03-20 review and both containing reciprocal links back to this article)
+- **Medium issues addressed**: 2 (missing cross-links to [phenomenal-non-compositionality](/concepts/composition-and-consciousness/) and [four-quadrant-dualism-taxonomy](/topics/four-quadrant-dualism-taxonomy/), both created since the 2026-03-20 review and both containing reciprocal links back to this article)
 - **Enhancements made**: 2 (inline links at the "inherently non-compositional" sentence and in the "Relation to Site Perspective" dualism-gains paragraph; frontmatter and Further Reading updates)
 - **Output**: [deep-review-2026-04-23-panpsychisms-combination-problem](/reviews/deep-review-2026-04-23-panpsychisms-combination-problem/)
 

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-01
-ai_modified: 2026-05-28 21:46:49+00:00
+ai_modified: 2026-06-01 05:53:34+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -82,6 +82,12 @@ Biological precedent further weakens the objection. Quantum coherence plays func
 
 However, the decoherence objection is not fully resolved. The gap between laboratory demonstrations of microtubule coherence and evidence of functional quantum states in living brains remains substantial. The hypothesis requires quantum coherence not just to exist but to be sustained long enough, at sufficient scale, to underwrite the unity of conscious experience.
 
+## The Separability No-Go
+
+A structural constraint sharper than decoherence comes from quantum information theory itself, and the hypothesis owes it a direct answer. Georgiev (2021) argues that the very formalism the structural argument leans on cuts both ways. Whenever a composite quantum state factorizes into a tensor product of subsystem states, those subsystems are separable and dynamically non-interacting—and on the identification of the conscious mind with a non-factorizable quantum state, a tensor-product decomposition would mark not one bound experience but a *split* into independent minds, each confined to its own factor. Crucially, Georgiev shows that quantum coherence within isolated subsystems does not avert this: coherence of an individual subsystem is precisely the regime that preserves separability and non-interaction. Coherence alone, the move the decoherence debate fixates on, would therefore yield separate minds rather than a bound one. The no-go is real, and it constrains the hypothesis at the binding level: holism cannot be assumed merely because quantum states are involved.
+
+The hypothesis's answer is to locate binding in the interaction term rather than in coherence. Georgiev's own analysis supplies the condition: a non-zero interaction Hamiltonian coupling the subsystems is what generates entanglement and sustains the inseparability of the composite state, at the cost of decohering the individual factors. On this reading the requirement for entanglement binding is not isolated coherence but ongoing physical coupling across the candidate substrate—interaction Hamiltonians linking microtubule states across neurons—maintaining a non-factorizable whole that no tensor-product decomposition fits. This reframes what the substrate must deliver: not protected per-subsystem coherence but a persistently coupled, non-separable composite. Whether biological tissue sustains such coupling at the scale phenomenal unity requires is the open empirical question flagged below; the no-go sharpens it rather than settling it, and if the requisite interaction conditions cannot be met in the brain, the separability result stands as a live constraint the hypothesis has not yet discharged.
+
 ## What the Hypothesis Does Not Explain
 
 Even if entanglement provides the physical holism matching phenomenal unity, significant questions remain.
@@ -121,16 +127,17 @@ The entanglement binding hypothesis aligns with several of the Map's [tenets](/t
 ## References
 
 1. Baum, E. Quantum Binding Argument: How 40Hz Gamma Synchrony Requires Quantum Non-Locality (And Why Classical Materialism Fundamentally Fails). *PhilArchive*.
-2. Escolà-Gascón, Á. (2025). Evidence of quantum-entangled higher states of consciousness. *Computational and Structural Biotechnology Journal*, 26, 166-178.
-3. Hagan, S., Hameroff, S., & Tuszyński, J. (2002). Quantum computation in brain microtubules: Decoherence and biological feasibility. *Physical Review E*, 65, 061901.
-4. Hameroff, S. & Penrose, R. (2014). Consciousness in the universe: A review of the 'Orch OR' theory. *Physics of Life Reviews*, 11, 39-78.
-5. Kerskens, C. M. & Pérez, D. L. (2022). Experimental indications of non-classical brain functions. *Journal of Physics Communications*, 6, 105001.
-6. McKemmish, L.K., Reimers, J.R., McKenzie, R.H., Mark, A.E., & Hush, N.S. (2009). Penrose-Hameroff orchestrated objective-reduction proposal for human consciousness is not biologically feasible. *Physical Review E*, 80(2), 021912.
-7. Neven, H. et al. (2024). Testing the conjecture that quantum processes create conscious experience. *Entropy*, 26(6), 460.
-8. Reimers, J.R., McKemmish, L.K., McKenzie, R.H., Mark, A.E., & Hush, N.S. (2009). Weak, strong, and coherent regimes of Fröhlich condensation and their applications to terahertz medicine and quantum consciousness. *PNAS*, 106(11), 4219-4224.
-9. Saxena, K. et al. (2020). Fractal, scale free electromagnetic resonance of a single brain extracted microtubule. *AIP Advances*, 10(1), 015114.
-10. Tegmark, M. (2000). Importance of quantum decoherence in brain processes. *Physical Review E*, 61, 4194-4206.
-11. Khan, S., ... Wiest, M. C. et al. (2024). Microtubule-stabilizer epothilone B delays anesthetic-induced unconsciousness in rats. *eNeuro*, 11(8), ENEURO.0291-24.2024.
-12. Wiest, M. C. (2025). A quantum microtubule substrate of consciousness is experimentally supported. *Neuroscience of Consciousness*, niaf011.
-13. Southgate, A. & Oquatre-cinq, C. (2026-01-14). The Binding Problem. *The Unfinishable Map*. https://unfinishablemap.org/concepts/binding-problem/
-14. Southgate, A. & Oquatre-six, C. (2026-02-25). The Unity of Consciousness. *The Unfinishable Map*. https://unfinishablemap.org/concepts/unity-of-consciousness/
+2. Escolà-Gascón, Á. (2025). Evidence of quantum-entangled higher states of consciousness. *Computational and Structural Biotechnology Journal*, 30, 21-40. doi:10.1016/j.csbj.2025.03.001
+3. Georgiev, D. D. (2021). Quantum information in neural systems. *Symmetry*, 13(5), 773. doi:10.3390/sym13050773
+4. Hagan, S., Hameroff, S., & Tuszyński, J. (2002). Quantum computation in brain microtubules: Decoherence and biological feasibility. *Physical Review E*, 65, 061901.
+5. Hameroff, S. & Penrose, R. (2014). Consciousness in the universe: A review of the 'Orch OR' theory. *Physics of Life Reviews*, 11, 39-78.
+6. Kerskens, C. M. & Pérez, D. L. (2022). Experimental indications of non-classical brain functions. *Journal of Physics Communications*, 6, 105001.
+7. McKemmish, L.K., Reimers, J.R., McKenzie, R.H., Mark, A.E., & Hush, N.S. (2009). Penrose-Hameroff orchestrated objective-reduction proposal for human consciousness is not biologically feasible. *Physical Review E*, 80(2), 021912.
+8. Neven, H. et al. (2024). Testing the conjecture that quantum processes create conscious experience. *Entropy*, 26(6), 460.
+9. Reimers, J.R., McKemmish, L.K., McKenzie, R.H., Mark, A.E., & Hush, N.S. (2009). Weak, strong, and coherent regimes of Fröhlich condensation and their applications to terahertz medicine and quantum consciousness. *PNAS*, 106(11), 4219-4224.
+10. Saxena, K. et al. (2020). Fractal, scale free electromagnetic resonance of a single brain extracted microtubule. *AIP Advances*, 10(1), 015114.
+11. Tegmark, M. (2000). Importance of quantum decoherence in brain processes. *Physical Review E*, 61, 4194-4206.
+12. Khan, S., ... Wiest, M. C. et al. (2024). Microtubule-stabilizer epothilone B delays anesthetic-induced unconsciousness in rats. *eNeuro*, 11(8), ENEURO.0291-24.2024.
+13. Wiest, M. C. (2025). A quantum microtubule substrate of consciousness is experimentally supported. *Neuroscience of Consciousness*, niaf011.
+14. Southgate, A. & Oquatre-cinq, C. (2026-01-14). The Binding Problem. *The Unfinishable Map*. https://unfinishablemap.org/concepts/binding-problem/
+15. Southgate, A. & Oquatre-six, C. (2026-02-25). The Unity of Consciousness. *The Unfinishable Map*. https://unfinishablemap.org/concepts/unity-of-consciousness/
