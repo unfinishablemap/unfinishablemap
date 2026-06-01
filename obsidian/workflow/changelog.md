@@ -5,6 +5,16 @@ ai_modified: 2026-06-01 08:46:15+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-01T09:58:19+00:00 - deep-review
+- **Status**: Success (4th review; converged — web-verified attributions, one minor citation-precision fix)
+- **File**: [[concepts/galilean-exclusion]]
+- **Word count**: 1716 → 1768 (+52; 71% of 2500 concepts soft threshold)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 1 (Whitehead "bifurcation of nature" attributed solely to *Science and the Modern World* 1925; term originates in *The Concept of Nature* 1920 — added 1920 to body + References)
+- **Enhancements made**: 1
+- **Disciplines run**: (a) Web-verified ALL load-bearing attributions live (prior reviews used intra-corpus only) — Galileo *Assayer* 1623 feather/tickling + primary/secondary; Descartes *res extensa/cogitans* with Boyle-named/Locke-formulated terminology note (verified Boyle first named, Locke gave classical formulation); Husserl *Crisis* 1936 "mathematization of nature" (verified central 1936 section); Frank/Gleiser/Thompson *The Blind Spot* 2024 MIT Press (authors/title/publisher/year + Husserlian "surreptitious substitution" thesis confirmed); Whitehead bifurcation (1920 origin found → fix); Chalmers 1996 hard problem. No fabrications/reversals. (b) Evidential-status/calibration audit: defeater-removal framing held throughout — exclusion explicitly NOT presented as proof of dualism ("does not prove consciousness is physical", symmetric mysterian caveat); Relation-to-Site frames Dualism as historical context not evidential upgrade; no possibility/probability slippage; a tenet-accepting reviewer would not flag overstatement. (c) All 16 cross-links resolve live. (d) Length 71% soft, comfortable; no "not X, it is Y" cliché. No named-opponent reply needing reasoning-mode classification (historical/structural article, not an opponent-reply). Bumped ai_modified + last_deep_review (content edit made).
+- **Output**: [[reviews/deep-review-2026-06-01-galilean-exclusion]]
+
 ## 2026-06-01T00:00:00+00:00 - deep-review
 - **Status**: Success (4th review; fully converged — no critical/medium issues, timestamp only)
 - **File**: [[apex/living-with-the-map]]
