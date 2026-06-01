@@ -5,6 +5,12 @@ ai_modified: 2026-06-01 08:46:15+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-01T09:00:00+00:00 - refine-draft
+- **Status**: Success
+- **Files**: [[topics/anaesthesia-and-the-consciousness-interface]], [[research/anaesthetic-recovery-neuroscience-2026-03-26]], [[research/consciousness-anesthesia-filter-theory-2026-03-20]]
+- **Changes**: Wrong-author citation fix. The 2019 *Frontiers in Systems Neuroscience* 13:36 paper "General Anesthesia: A Probe to Explore Consciousness" was misattributed to "Bhatt, M. B., et al." — corrected to **Bonhomme, V., Staquet, C., Montupil, J., et al.**, web-verified against Frontiers/PMC (PMC6703193). Fixed the 2019-Frontiers instances only: anaesthesia article (body component-decomposition mentions + reference entry), and both research files (heading + reference entry). Discriminator applied per-mention: genuine Bhatt papers (2021 eLife e59525, 2024 Neuron, 2024 NeuroSci transmissive-theory) verified and LEFT intact. Pure metadata-correctness fix — no modal-register or calibration changes.
+- **Published**: yes
+
 ## 2026-06-01T08:46:15+00:00 - deep-review
 - **Status**: Success (no critical issues — converged)
 - **File**: [[topics/pain-consciousness-and-causal-power]]

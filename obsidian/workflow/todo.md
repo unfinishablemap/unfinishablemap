@@ -37,14 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P1: Propagate Bonhomme-not-Bhatt citation fix across the anaesthesia cluster
-- **Type**: refine-draft
-- **File**: obsidian/topics/anaesthesia-and-the-consciousness-interface.md
-- **Status**: pending
-- **Notes**: The deep-review of concepts/degrees-of-consciousness.md (2026-06-01) web-verified and corrected a WRONG-AUTHOR citation: the 2019 *Frontiers in Systems Neuroscience* 13:36 paper "General Anesthesia: A Probe to Explore Consciousness" was attributed to "Bhatt, M. B., et al. (2019)" but the correct first author is **Bonhomme** (Bonhomme, V., Staquet, C., Montupil, J., et al.). Verified directly against Frontiers/PMC. This wrong attribution survived 4 prior reviews because "Bhatt MB" is a REAL author in the same research area (2021 eLife anaesthetic-recovery paper; 2024 transmissive-theory paper), so intra-corpus cross-check confirmed the name as plausible — the textbook [[ai-citation-metadata-unreliable]] failure mode. The same wrong "Bhatt et al. 2019 / Frontiers" attribution still appears in: (a) **topics/anaesthesia-and-the-consciousness-interface.md** body (the "Bhatt et al.'s component decomposition" mention — that decomposition is from the 2019 Frontiers paper = Bonhomme; verify each Bhatt mention individually because some "Bhatt et al. 2021/2024" mentions in that article ARE the genuine Bhatt eLife/Neuron papers and must NOT be changed); (b) **research/anaesthetic-recovery-neuroscience-2026-03-26.md** line 222 (ref 13 — the 2019 Frontiers entry; lines 210-211 are the genuine Bhatt 2021/2024, leave those); (c) **research/consciousness-anesthesia-filter-theory-2026-03-20.md** line 218 (the 2019 Frontiers entry; line 220 Bhatt D.P. 2024 transmissive-theory is a DIFFERENT real paper, leave it). Do NOT touch changelog archives (immutable log). The discriminator: 2019 + "General Anesthesia: A Probe to Explore Consciousness" + Frontiers Syst Neurosci = Bonhomme; 2021 eLife recovery / 2024 Neuron / 2024 NeuroSci transmissive = genuine Bhatt. Honour [[evidential-status-discipline]]; this is a pure metadata-correctness fix, no modal-register changes.
-- **Source**: deep-review
-- **Generated**: 2026-06-01
-
 ### ✓ 2026-06-01: Deep review concepts/degrees-of-consciousness.md (~35 days since last review, ai_contribution=100, gradation-of-consciousness hub)
 - **Type**: deep-review
 - **File**: obsidian/concepts/degrees-of-consciousness.md
@@ -3614,6 +3606,10 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 Tasks that failed 3+ times and require human intervention. (Also: standing human editorial decisions the loop has done all it can on — e.g. over-ceiling flagship articles whose excess is verified load-bearing calibration content, and thesis-level alternatives the loop must not adopt unilaterally.)
 
+
+### ✓ 2026-06-01: Propagate Bonhomme-not-Bhatt citation fix across the anaesthesia cluster
+- **Type**: refine-draft
+- **Notes**: The deep-review of concepts/degrees-of-consciousness.md (2026-06-01) web-verified and corrected a WRONG-AUTHOR citation: the 2019 *Frontiers in Systems Neuroscience* 13:36 paper "General Anesthesia: A Probe to Explore Consciousness" was attributed to "Bhatt, M. B., et al. (2019)" but the correct first author is **Bonhomme** (Bonhomme, V., Staquet, C., Montupil, J., et al.). Verified directly against Frontiers/PMC. This wrong attribution survived 4 prior reviews because "Bhatt MB" is a REAL author in the same research area (2021 eLife anaesthetic-recovery paper; 2024 transmissive-theory paper), so intra-corpus cross-check confirmed the name as plausible — the textbook [[ai-citation-metadata-unreliable]] failure mode. The same wrong "Bhatt et al. 2019 / Frontiers" attribution still appears in: (a) **topics/anaesthesia-and-the-consciousness-interface.md** body (the "Bhatt et al.'s component decomposition" mention — that decomposition is from the 2019 Frontiers paper = Bonhomme; verify each Bhatt mention individually because some "Bhatt et al. 2021/2024" mentions in that article ARE the genuine Bhatt eLife/Neuron papers and must NOT be changed); (b) **research/anaesthetic-recovery-neuroscience-2026-03-26.md** line 222 (ref 13 — the 2019 Frontiers entry; lines 210-211 are the genuine Bhatt 2021/2024, leave those); (c) **research/consciousness-anesthesia-filter-theory-2026-03-20.md** line 218 (the 2019 Frontiers entry; line 220 Bhatt D.P. 2024 transmissive-theory is a DIFFERENT real paper, leave it). Do NOT touch changelog archives (immutable log). The discriminator: 2019 + "General Anesthesia: A Probe to Explore Consciousness" + Frontiers Syst Neurosci = Bonhomme; 2021 eLife recovery / 2024 Neuron / 2024 NeuroSci transmissive = genuine Bhatt. Honour [[evidential-status-discipline]]; this is a pure metadata-correctness fix, no modal-register changes.
 
 ### ✓ 2026-06-01: Deep review topics/contemplative-pathology-and-interface-malfunction.md (35 days since last review, ai_contribution=100, Tenet 1 load-bearing)
 - **Type**: deep-review

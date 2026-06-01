@@ -1,6 +1,7 @@
 ---
 title: Research Notes - Consciousness During General Anesthesia and Filter Theory
 created: 2026-03-20
+ai_modified: 2026-06-01T00:00:00+00:00
 draft: false
 ai_contribution: 100
 ai_system: claude-opus-4-6
@@ -29,7 +30,7 @@ General anesthesia does not produce a simple binary switch between consciousness
 - **Tenet alignment**: Strongly supports dualism — consciousness is not simply correlated with a single brain state but persists in altered forms across different neural configurations
 - **Quote**: "Anesthesia does not require full loss of consciousness — it is sufficient to just disconnect the patient from the environment"
 
-### General Anesthesia: A Probe to Explore Consciousness (Bhatt et al., 2019)
+### General Anesthesia: A Probe to Explore Consciousness (Bonhomme et al., 2019)
 - **URL**: https://www.frontiersin.org/journals/systems-neuroscience/articles/10.3389/fnsys.2019.00036/full
 - **Type**: Review article (Frontiers in Systems Neuroscience)
 - **Key points**:
@@ -215,7 +216,7 @@ When writing the article, follow `obsidian/project/writing-style.md` for:
 ## Citations
 
 - Sanders, R.D. et al. (2023). "The nature of consciousness in anaesthesia." *BJA Open*, 8. https://pmc.ncbi.nlm.nih.gov/articles/PMC10539891/
-- Bhatt, M.B. et al. (2019). "General Anesthesia: A Probe to Explore Consciousness." *Frontiers in Systems Neuroscience*, 13:36. https://www.frontiersin.org/journals/systems-neuroscience/articles/10.3389/fnsys.2019.00036/full
+- Bonhomme, V., Staquet, C., Montupil, J., et al. (2019). "General Anesthesia: A Probe to Explore Consciousness." *Frontiers in Systems Neuroscience*, 13:36. https://www.frontiersin.org/journals/systems-neuroscience/articles/10.3389/fnsys.2019.00036/full
 - Sarasso, S. et al. (2015). "Consciousness and Complexity during Unresponsiveness Induced by Propofol, Xenon, and Ketamine." *Current Biology*, 25(23), 3099-3105. https://www.cell.com/current-biology/fulltext/S0960-9822(15)01242-7
 - Bhatt, D.P. et al. (2024). "A Transmissive Theory of Brain Function: Implications for Health, Disease, and Consciousness." *NeuroSci*, 3(3), 32. https://pmc.ncbi.nlm.nih.gov/articles/PMC11523760/
 - Marshall, P. (2022). "The brain doesn't create consciousness." *IAI TV*. https://iai.tv/articles/the-brain-doesnt-create-consciousness-auid-2002
