@@ -5,6 +5,17 @@ ai_modified: 2026-06-01 13:15:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-01T11:39:36+00:00 - deep-review
+- **Status**: Success
+- **File**: [[concepts/epistemology-of-limit-knowledge]]
+- **Word count**: 1722 → 1843 (+121)
+- **Critical issues addressed**: 2 — (1) Demircioglu (2017) page range fabricated (147-158 → real 32(1), 125-132; web-verified across Springer DOI, PhilPapers, ProQuest); (2) mysterian-symmetry / possibility-probability slippage — Dualism paragraph deployed cognitive closure one-directionally against physicalism without the double-edged caveat that closure constrains dualist confidence symmetrically. Added explicit defeater-removal-≠-evidence symmetry; preserved the honestly-hedged abductive claim.
+- **Medium/low issues addressed**: 1 — Chomsky *Reflections on Language* year 1976 → 1975 (canonical first edition; content attribution was already correct).
+- **Citations web-verified (primary source)**: Kriegel 2003 (*Acta Analytica* 18, 177-191) ✓; Demircioglu 2017 (32(1), 125-132) corrected; McGinn 1989 (*Mind* 98(391), 349-366) ✓; Chomsky 1975 corrected. No orphaned refs, no fabricated co-authors.
+- **Reasoning-mode note**: no named-opponent in-framework refutations in this article; engagement with eliminativist/Dennett objections remains Mode Three (framework-boundary) per prior reviews — bedrock, not re-flagged.
+- **Convergence**: structurally converged across two prior reviews; this pass's two criticals were citation-metadata and calibration defects catchable only by live web-verify + the symmetry discipline, not by intra-corpus review.
+- **Output**: [[reviews/deep-review-2026-06-01-epistemology-of-limit-knowledge]]
+
 ## 2026-06-01T13:15:00+00:00 - refine-draft
 - **Status**: Success
 - **File**: [[topics/pragmatisms-path-to-dualism]]
