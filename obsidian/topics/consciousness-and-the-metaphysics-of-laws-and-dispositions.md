@@ -4,7 +4,7 @@ description: "What laws of nature are and what fundamental properties are determ
 created: 2026-02-16
 modified: 2026-04-28
 human_modified:
-ai_modified: 2026-06-01T05:29:19+00:00
+ai_modified: 2026-06-01T06:10:00+00:00
 draft: false
 last_deep_review: 2026-06-01T05:29:19+00:00
 topics:
@@ -87,7 +87,7 @@ The Map offers candidate underlying principles rather than leaving the legislati
 
 The governing view supports the Map's bidirectional framework. If laws are genuinely prescriptive, downward psychophysical laws could prescribe that certain conscious states produce certain physical outcomes—giving [[mental-causation-and-downward-causation|psychophysical causation]] the same metaphysical status as physical causation: both law-governed.
 
-There is further consequence for the quantum measurement problem. Physics leaves quantum measurement unexplained; a psychophysical governing law could fill that gap as completion of the lawful structure physics itself requires. The formal reason the gap is genuine—rather than a placeholder for future physics—is supplied by [[self-reference-and-the-limits-of-physical-description]]: undecidability results yield statistical closure with the individual outcome left open, so a governing law fixing *which* outcome obtains contradicts no settled physical law. The Map's selection law framework—consciousness biasing otherwise indeterminate quantum outcomes, developed in [[psychophysical-laws-bridging-mind-and-matter|the psychophysical laws article]]—takes the governing-law form because it needs what governing laws supply: prescriptive modal force determining *which* quantum outcome obtains, applied locally at sites of neural indeterminacy rather than summarised across the mosaic after the fact. The Born rule then reads as the *statistics* of those qualitative selections aggregated across instances rather than as a rule consciousness computes—the reading developed in [[consciousness-and-probability-interpretation]].
+There is further consequence for the quantum measurement problem. Physics leaves quantum measurement unexplained; a psychophysical governing law could fill that gap as completion of the lawful structure physics itself requires. The formal reason the gap is genuine—rather than a placeholder for future physics—is supplied by [[self-reference-and-the-limits-of-physical-description]]: undecidability results yield statistical closure with the individual outcome left open, so a governing law fixing *which* outcome obtains contradicts no settled physical law. The Map's selection law framework—consciousness biasing otherwise indeterminate quantum outcomes, developed in [[psychophysical-laws-bridging-mind-and-matter|the psychophysical laws article]]—takes the governing-law form because it needs what governing laws supply: prescriptive modal force determining *which* quantum outcome obtains, applied locally at sites of neural indeterminacy rather than summarised across the mosaic after the fact. The Born rule then reads as the *statistics* of those qualitative selections aggregated across instances rather than as a rule consciousness computes—the reading developed in [[consciousness-and-probability-interpretation]]. The same governing law, viewed from the measurement-problem rather than the metaphysics-of-laws side, is the corridor/Born treatment of [[wheelers-participatory-universe-and-it-from-bit|Wheeler's participatory universe]]: fixing *which* permitted outcome actualises without rewriting the ensemble statistics.
 
 ### Dispositional Essentialism and Phenomenal Powers
 
@@ -183,6 +183,7 @@ The central insight: the mind-body problem is not just about what consciousness 
 
 - [[psychophysical-laws-bridging-mind-and-matter]] — The full framework: Chalmers' upward laws and the Map's downward extension
 - [[self-reference-and-the-limits-of-physical-description]] — The formal undecidability ground for the outcome-level openness a selection law fills
+- [[wheelers-participatory-universe-and-it-from-bit]] — The same governing-law mechanism viewed from the measurement-problem side: which permitted outcome actualises
 - [[consciousness-and-probability-interpretation]] — The Born rule as the statistics of qualitative selection by powerful qualities
 - [[causal-powers]] — How dispositional properties ground the Map's account of mental causation
 - [[russellian-monism-versus-bi-aspectual-dualism]] — Why the Map's bi-aspectual dualism is the stable endpoint Russellian monism cannot reach

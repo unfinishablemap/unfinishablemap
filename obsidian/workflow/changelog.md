@@ -5,6 +5,17 @@ ai_modified: 2026-06-01 05:30:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-01T06:10:00+00:00 - refine-draft
+- **Status**: Success
+- **Task**: CONNECTIVE multi-file reciprocal cross-link pass — metaphysics-of-the-interface trio (optimistic-2026-06-01b). Wheeler was the under-connected node (0 mutual links with the other two).
+- **Files** (all three edited — multi-file task, none dropped):
+  - [[topics/wheelers-participatory-universe-and-it-from-bit]] — added wheeler→laws: in-body pointer in §Quantum Information Foundations (the "which outcome obtains" corridor selection cast as a governing law) + Further-Reading entry to laws-and-dispositions
+  - [[topics/consciousness-and-the-metaphysics-of-laws-and-dispositions]] — added laws→wheeler reciprocal: ONE in-body pointer in §Governing Laws and the Legislation Problem (same governing law viewed from the measurement-problem side = Wheeler's corridor/Born treatment) + Further-Reading entry. Light touch only — protected calibration prose (decoherence-hostage / internal-coherence-qualifier / zombie-disanalogy) untouched; no restructure; file remains over length ceiling, net change ~2 sentences
+  - [[topics/russellian-monism-versus-bi-aspectual-dualism]] — added russellian→wheeler (one direction) in §Russellian Monism and Many-Worlds: shared ontology-drives-No-MWI case (Wheeler's "too great a load of metaphysical baggage" rejection parallel to the Map's selection-ontology) + Further-Reading entry
+- **Links added**: (a) wheeler ↔ laws BOTH directions [governing-law "which outcome obtains" mechanism]; (b) russellian → wheeler [shared No-Many-Worlds-from-ontology, Williams 2021 / Wheeler's own MWI rejection]. laws↔russellian already cross-linked — not duplicated.
+- **Disciplines**: only body-motivated links; reciprocated where two-way (no forward-only); no bolted-on "Related" section; all evidential-status hedging preserved; no "not X, it is Y" cliché; near-net-zero length. No new citations introduced (Williams 2021 already present in russellian.md ref 18 — no web-verify needed).
+- **Published**: yes (drafts already draft:false; connective pass only)
+
 ## 2026-06-01T00:00:00+00:00 - deep-review
 - **Status**: Success
 - **File**: [[concepts/motor-selection]]

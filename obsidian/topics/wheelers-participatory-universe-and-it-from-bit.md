@@ -4,7 +4,7 @@ description: "Wheeler's twin theses — that observers constitute reality throug
 created: 2026-02-22
 modified: 2026-04-23
 human_modified:
-ai_modified: 2026-06-01T03:32:25+00:00
+ai_modified: 2026-06-01T06:10:00+00:00
 last_deep_review: 2026-05-31T21:17:57+00:00
 draft: false
 topics:
@@ -72,7 +72,7 @@ Anton Zeilinger, directly inspired by Wheeler, proposed a foundational principle
 
 This programme is scientifically rigorous and philosophically cautious. Brukner and Zeilinger do not require consciousness for collapse, and their framework is compatible with multiple interpretations of quantum mechanics. For the Map, the significance is indirect but real: if quantum randomness arises from informational constraints rather than ignorance, then the indeterminacy at which consciousness acts (per the [[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]] tenet) is a structural feature of reality, not an epistemic gap awaiting better physics.
 
-However, structural randomness also creates a tension the Map must confront. If randomness is information-theoretically necessary — derived from axioms about finite informational capacity — then consciousness biasing outcomes would violate those very axioms. Born rule statistics have been confirmed to extraordinary precision in photon, atom, and qubit experiments, though never inside a conscious brain mid-selection. The Map's working response — the "corridor" reading — appeals to minimal interaction: consciousness selects among outcomes already permitted by the Born rule distribution, influencing which specific outcome actualises in a given measurement without altering the statistical distribution across many measurements. Whether selection without statistical signature is coherent remains an open question, and the Map now holds the corridor reading alongside two alternatives — minimum-outside-corridor modification (Stapp, Chalmers-McQueen, Arana) and trumping causation orthogonal to Born statistics — as live branches pending empirical adjudication. See [[born-rule-and-the-consciousness-interface]] for the taxonomy and experimental state.
+However, structural randomness also creates a tension the Map must confront. If randomness is information-theoretically necessary — derived from axioms about finite informational capacity — then consciousness biasing outcomes would violate those very axioms. Born rule statistics have been confirmed to extraordinary precision in photon, atom, and qubit experiments, though never inside a conscious brain mid-selection. The Map's working response — the "corridor" reading — appeals to minimal interaction: consciousness selects among outcomes already permitted by the Born rule distribution, influencing which specific outcome actualises in a given measurement without altering the statistical distribution across many measurements. Whether selection without statistical signature is coherent remains an open question, and the Map now holds the corridor reading alongside two alternatives — minimum-outside-corridor modification (Stapp, Chalmers-McQueen, Arana) and trumping causation orthogonal to Born statistics — as live branches pending empirical adjudication. See [[born-rule-and-the-consciousness-interface]] for the taxonomy and experimental state. Viewed from the metaphysics-of-laws side rather than the measurement-problem side, this "which outcome obtains" selection is the work of a governing law fixing the individual outcome physics leaves open, as [[consciousness-and-the-metaphysics-of-laws-and-dispositions|the metaphysics of laws and dispositions]] develops.
 
 ### Digital Physics
 
@@ -174,6 +174,7 @@ The participatory universe and "it from bit" framework would face serious challe
 - [[qbism]] — QBism as a contemporary heir to Wheeler's participatory realism
 - [[pragmatist-quantum-foundations-and-the-agent]] — The full genealogy: Wheeler's participatory realism through James's pragmatism to QBism's agent-shaped gap
 - [[born-rule-and-the-consciousness-interface]] — The three live branches (corridor, minimum-outside-corridor, trumping) on Born-rule violation and the empirical state of testing them
+- [[consciousness-and-the-metaphysics-of-laws-and-dispositions]] — The same "which outcome obtains" selection cast as a governing law, from the metaphysics-of-laws side
 - [[prebiotic-collapse]] · [[comparing-quantum-consciousness-mechanisms]] · [[multi-mind-collapse-problem]] · [[indexical-identity-quantum-measurement]] · [[consciousness-and-causal-powers]]
 
 ## References

@@ -4,7 +4,7 @@ description: "Russellian monism and the dual-aspect tradition approach the Map's
 created: 2026-03-22
 modified: 2026-04-27
 human_modified:
-ai_modified: 2026-06-01T02:52:39+00:00
+ai_modified: 2026-06-01T06:10:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -98,7 +98,7 @@ Russellian monism is compatible with [[causal-closure|causal closure]] because c
 
 Williams (2021) argues that constitutive Russellian panpsychism is most naturally compatible with Everett's many-worlds interpretation — a compatibility the Map counts as a cost of the Russellian view, given the [[tenets#^no-many-worlds|No Many Worlds]] tenet. Both establish symmetry between micro- and macrosystems without requiring consciousness to play a causal role at measurement. If consciousness is merely the intrinsic nature of physical processes, there is nothing for it to *do* at collapse — and if nothing needs doing, all branches can persist.
 
-This may reveal a divergence in physics, not just metaphysics. The Map *requires* consciousness at collapse: selection among quantum outcomes is how actuality works on its account. Many-worlds eliminates selection by keeping all outcomes, thereby leaving no actualising role for consciousness to play. So the Map rejects [[tenets#^no-many-worlds|many-worlds]] less as a free preference than as something its ontology appears to force, given that ontology. Russellian monism's comfort with many-worlds, by contrast, suggests it carries no comparable commitment to consciousness as causally active — the commitment the Map's [[tenets#^bidirectional-interaction|Bidirectional Interaction]] tenet demands. A Russellian monist who shares the No-Many-Worlds intuition could of course add a collapse mechanism, but doing so would import exactly the causally active consciousness the identity thesis was meant to avoid needing.
+This may reveal a divergence in physics, not just metaphysics. The Map *requires* consciousness at collapse: selection among quantum outcomes is how actuality works on its account. Many-worlds eliminates selection by keeping all outcomes, thereby leaving no actualising role for consciousness to play. So the Map rejects [[tenets#^no-many-worlds|many-worlds]] less as a free preference than as something its ontology appears to force, given that ontology. Russellian monism's comfort with many-worlds, by contrast, suggests it carries no comparable commitment to consciousness as causally active — the commitment the Map's [[tenets#^bidirectional-interaction|Bidirectional Interaction]] tenet demands. A Russellian monist who shares the No-Many-Worlds intuition could of course add a collapse mechanism, but doing so would import exactly the causally active consciousness the identity thesis was meant to avoid needing. The same ontology-drives-the-verdict structure recurs in [[wheelers-participatory-universe-and-it-from-bit|Wheeler's participatory universe]]: Wheeler rejected Everett as "too great a load of metaphysical baggage" because an information ontology that produces a single definite bit at measurement leaves no room for branching — the Map's selection ontology rejects many-worlds for the parallel reason that a single outcome must be actualised.
 
 ## The Dual-Aspect Tradition: Approaching but Never Reaching Interaction
 
@@ -155,6 +155,7 @@ This comparison engages all five of the Map's [[tenets]]:
 - [[interactionist-dualism]] — The Map's preferred framework, with quantum interaction mechanism
 - [[consciousness-and-the-metaphysics-of-laws-and-dispositions]] — How the powerful qualities framework offers an alternative to quiddities
 - [[intrinsic-nature-void]] — Why physics cannot capture intrinsic nature
+- [[wheelers-participatory-universe-and-it-from-bit]] — Wheeler's own rejection of many-worlds on ontological grounds, parallel to the Map's selection-ontology case
 
 ## References
 
