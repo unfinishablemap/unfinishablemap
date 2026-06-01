@@ -4,7 +4,7 @@ description: "Recasting consciousness from a property the brain has to an activi
 created: 2026-02-23
 modified: 2026-02-23
 human_modified:
-ai_modified: 2026-06-01T01:35:41+00:00
+ai_modified: 2026-06-01T12:00:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -83,7 +83,7 @@ Calling consciousness an activity carries specific ontological commitments beyon
 
 **Agent-dependence.** Activities require agents performing them. Dancing requires a dancer; thinking requires a thinker. The activity framing naturally supports the existence of a subject of experience—the entity performing the conscious activity. This resists eliminativist moves that treat the self as illusion. If consciousness is activity, someone is doing it.
 
-**Causal engagement.** Properties can be causally inert ([[concepts/epiphenomenalism|epiphenomenal]])—a surface can be red without redness doing anything. Activities cannot be inert by definition. If consciousness is something the organism does, it is already causally engaged. The question of whether consciousness makes a causal difference—the problem of [[mental-causation-and-downward-causation|mental causation]]—dissolves. Of course it does. Activities are causal.
+**Causal engagement.** Properties can be causally inert ([[concepts/epiphenomenalism|epiphenomenal]])—a surface can be red without redness doing anything. Activities cannot be inert by definition. If consciousness is something the organism does, it is already causally engaged. The activity framing removes one obstacle to [[mental-causation-and-downward-causation|mental causation]]: an activity cannot be epiphenomenal in the way a property can. But this is defeater-removal, not a positive account—the exclusion problem (why mental causes do not merely duplicate sufficient physical ones) does not vanish so much as relocate to the interface, where it is answered by the selection mechanism described under [[#Relation to Site Perspective|Bidirectional Interaction]] below.
 
 **Irreducibility of practice.** You cannot reduce an activity to its material substrate. Dancing is not identical to leg movements; it involves timing, expression, intention, and responsiveness that supervene on but are not captured by biomechanical description. Similarly, conscious activity supervenes on neural processes but is not captured by their description. The [[explanatory-gap|explanatory gap]] reflects a genuine ontological distinction between substrate and activity, not a mere epistemic limitation.
 

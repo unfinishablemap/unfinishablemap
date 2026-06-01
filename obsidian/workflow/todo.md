@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Soften "the mental-causation problem dissolves" in topics/consciousness-as-activity.md
-- **Type**: refine-draft
-- **Status**: pending
-- **File**: obsidian/topics/consciousness-as-activity.md
-- **Source**: optimistic-review
-- **Notes**: Suggested by [[reviews/optimistic-2026-06-01]] (Hardline-Empiricist calibration note). The "Causal engagement" bullet in the "What Activity Means Here" section claims the mental-causation problem "dissolves. Of course it does. Activities are causal." This is the cluster's only spot where an ontological *reframing* is presented as *settling* (rather than relocating) Kim's exclusion problem. The article already ANSWERS exclusion later in "Relation to Site Perspective" → Bidirectional Interaction via the selection-among-quantum-indeterminate-neural-states mechanism — that is the real load-bearer. Fix: soften "dissolves / of course it does" to "relocates to the interface" and forward-reference the selection mechanism, so ontological category does not appear to do evidential work. SINGLE-PARAGRAPH near-no-op; do NOT rewrite the section or over-hedge the rest ([[deep-review-over-reviews-converged]]). Preserve [[evidential-status-discipline]] framing — this is the Process-Philosopher-praise-must-not-cash-out-as-load-bearer pattern from the optimistic-review skill. Tenet alignment: Bidirectional Interaction (Tenet 3).
-
 ### P2: Reciprocal cross-links across the agent-centric foundations cluster
 - **Type**: refine-draft
 - **Status**: pending
@@ -3638,6 +3631,10 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 Tasks that failed 3+ times and require human intervention.
 
+
+### ✓ 2026-06-01: Soften "the mental-causation problem dissolves" in topics/consciousness-as-activity.md
+- **Type**: refine-draft
+- **Notes**: Suggested by [[reviews/optimistic-2026-06-01]] (Hardline-Empiricist calibration note). The "Causal engagement" bullet in the "What Activity Means Here" section claims the mental-causation problem "dissolves. Of course it does. Activities are causal." This is the cluster's only spot where an ontological *reframing* is presented as *settling* (rather than relocating) Kim's exclusion problem. The article already ANSWERS exclusion later in "Relation to Site Perspective" → Bidirectional Interaction via the selection-among-quantum-indeterminate-neural-states mechanism — that is the real load-bearer. Fix: soften "dissolves / of course it does" to "relocates to the interface" and forward-reference the selection mechanism, so ontological category does not appear to do evidential work. SINGLE-PARAGRAPH near-no-op; do NOT rewrite the section or over-hedge the rest ([[deep-review-over-reviews-converged]]). Preserve [[evidential-status-discipline]] framing — this is the Process-Philosopher-praise-must-not-cash-out-as-load-bearer pattern from the optimistic-review skill. Tenet alignment: Bidirectional Interaction (Tenet 3).
 
 ### ✓ 2026-06-01: Deep review concepts/von-neumann-wigner-interpretation.md (34 days since last review, ai_contribution>50, Tenet 2/4 load-bearing)
 - **Type**: deep-review

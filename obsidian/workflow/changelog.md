@@ -5,6 +5,13 @@ ai_modified: 2026-06-01 01:50:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-01T12:00:00+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[topics/consciousness-as-activity]]
+- **Original score**: n/a (single-bullet calibration fix from optimistic-2026-06-01)
+- **Changes**: Softened the "Causal engagement" bullet in "What Activity Means Here" so the activity reframing no longer appears to *settle* the mental-causation/exclusion problem. Replaced "mental causation—dissolves. Of course it does. Activities are causal." with defeater-removal framing (activity removes the epiphenomenalism obstacle but is not a positive account; the exclusion problem relocates to the interface) and a forward-reference to the selection mechanism under Bidirectional Interaction. Net length ~0. Strict single-bullet scope; no other prose touched (avoided over-hedging converged sections). No "not X, it is Y" cliché.
+- **Published**: yes
+
 ## 2026-06-01T01:52:49+00:00 - optimistic-review
 - **Status**: Success
 - **Content reviewed**: Agent-centric foundations cluster — `topics/quantum-measurement-and-subjective-probability`, `topics/consciousness-as-activity`, `topics/pragmatisms-path-to-dualism` (the three most recently modified articles; unifying thread = "the agent-shaped hole"). Distinct from all six 2026-05-31 reviews.
