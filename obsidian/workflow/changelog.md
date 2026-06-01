@@ -5,6 +5,13 @@ ai_modified: 2026-06-01 21:30:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-01T21:18:29+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[topics/parsimony-case-for-interactionist-dualism]]
+- **Original score**: not re-scored (targeted doctrinal fix surfaced by the 2026-06-01 deep-review of [[the-strong-emergence-of-consciousness]])
+- **Changes**: Fixed co-fundamental/from-below register-slippage at the Maxwell-analogy closer (line ~133). (a) "the Map's emergentist interactionism" → "the Map's interactionist dualism" (the "emergentist" gloss implied the from-below emergence the Map's [[bi-aspectual-ontology|bi-aspectual dualism]] rejects). (b) Reframed "This is the strong emergence move... on the Map" so the Map is shown to SHARE strong emergence's irreducibility claim while grounding it in CO-FUNDAMENTAL rather than from-below ontology — added the bi-aspectual "decisive amendment" reframing + a [[bi-aspectual-ontology]] cross-link, mirroring the amendment paragraph just landed in [[the-strong-emergence-of-consciousness]] and the [[concepts/emergence]] realignment. Length-neutral (one sentence net). Line ~74 ("strongly emerges from physical processes" attributed to TYPE-B PHYSICALISTS as a foil) is correct and was NOT touched. Parsimony argument preserved intact. Tenet 1 (Dualism — the Map's view is co-fundamental dualism, not emergentism).
+- **Published**: yes
+
 ## 2026-06-01T21:11:47+00:00 - deep-review
 - **Status**: Success
 - **File**: [[topics/the-strong-emergence-of-consciousness]]
