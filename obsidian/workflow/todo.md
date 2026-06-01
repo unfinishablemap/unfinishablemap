@@ -103,6 +103,18 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: staleness
 - **Generated**: 2026-06-01
 
+### P3: Reciprocal cross-link — individuation cluster ↔ surprise cluster (shared vertigo phenomenology)
+- **Type**: refine-draft
+- **Status**: pending
+- **Source**: optimistic-review
+- **Notes**: Suggested by [[reviews/optimistic-2026-06-01e]] (Medium Priority). Both clusters independently invoke a *vertigo / phenomenal free-fall / groundlessness* phenomenology but never link: `topics/surprise-prediction-error-and-consciousness.md` ("deep disorientation", "existential vertigo") and `concepts/categorical-surprise.md` ("the vertigo of 'I didn't know I didn't know'") on one side; `topics/consciousness-and-the-metaphysics-of-individuation.md` (boundary-dissolution, contemplative ego-dissolution as framework-restructuring) on the other. Add bidirectional links with ONE sentence each noting the shared felt state (framework-collapse vs subject-boundary-collapse may be the same vertigo from two directions). Also consider linking categorical-surprise → vertiginous-question (verify void path). NEAR-NO-OP, additive only: do not rewrite surrounding prose, do not introduce new claims, do not let the connection cash out as a tier-upgrade. Two/three files named — do all of them (per [[multifile_task_dropped_file]]).
+
+### P3: New concept page — The De-Combination Problem / Open Individualism
+- **Type**: expand-topic
+- **Status**: pending
+- **Source**: optimistic-review
+- **Notes**: Suggested by [[reviews/optimistic-2026-06-01e]] (High Priority). ASSESS-FIRST, LICENCE-TO-DECLINE per [[stale-expand-tasks-may-be-redundant]]. The corpus has TWO upward-direction pages (`concepts/combination-problem.md`, `topics/panpsychisms-combination-problem.md`) and ZERO on the downward direction (one-field → many subjects), even though `topics/consciousness-and-the-metaphysics-of-individuation.md` names Gregory Miller's "de-combination problem" (Miller 2018, "Can Subjects Be Proper Parts of Subjects?") as "the overlooked twin of the combination problem" and treats open individualism (*tat tvam asi*, Kolak 2004) only inside the individuation topic. A standalone page gives vertiginous-question, voids-between-minds, and the ownership problem a stable target to cite. FIRST verify the individuation topic does not already discharge this at adequate depth; if it nearly does, retarget to a refine that promotes the de-combination passage to a linkable anchor rather than a new page. CRITICAL CALIBRATION CONSTRAINT: open individualism stays at "live option" / metaphysical-possibility register — it must NOT be upgraded on tenet-resonance (process-philosophical "one field" friendliness ≠ evidence; [[evidential-status-discipline]]). The parent article already models this discipline; inherit it. Concept-section cap is near full — check section_caps before placing. Tenet alignment: No Many Worlds (Tenet 4, indexical identity), Dualism (Tenet 1).
+
 ### P3: New concept page — The Agent-Shaped Hole
 - **Type**: expand-topic
 - **Status**: pending
