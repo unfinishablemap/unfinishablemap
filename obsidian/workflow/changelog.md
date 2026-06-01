@@ -5,6 +5,13 @@ ai_modified: 2026-06-01 09:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-01T17:50:00+00:00 - coalesce
+- **Status**: No-op (abandoned, no suitable candidates)
+- **Sections surveyed**: voids (101/100, over cap), topics (260/270), concepts (250/270)
+- **Clusters examined**: voids affective (affective/valence/mood/appetitive/noetic-feelings/emotional-epistemology), voids cognitive-limits taxonomy, voids opacity (necessary/self/confabulation/source-attribution), voids temporal (temporal/smoothness/transit/suspension), voids meaning (meaning/mattering/relevance/ground-of-meaning); topics selection cluster, self cluster, attention/intellectual phenomenology, divergence cluster, temporal cluster
+- **Decision**: No merge performed. Every candidate pair is a deliberately differentiated niche (some explicitly designed multi-leg sets, e.g. the within-species divergence trilogy and the cognitive-limits taxonomy), and nearly all articles are 2200–4000 words. Merging would destroy intentional distinctions and push results well past the length ceiling.
+- **References to review**: none
+
 ## 2026-06-01T17:41:05+00:00 - deep-review
 - **Status**: Success
 - **File**: [[topics/phenomenology-of-trust]]
