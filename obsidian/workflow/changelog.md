@@ -5,6 +5,14 @@ ai_modified: 2026-06-01 12:50:51+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-01T15:45:38+00:00 - apex-evolve
+- **Status**: Complete (evolve mode; auto-selected by staleness scan)
+- **Article**: [[apex/what-it-might-be-like-to-be-an-ai]]
+- **Changed sources**: 2 ([[concepts/llm-consciousness]], [[topics/consciousness-in-smeared-quantum-states]])
+- **Word count**: ~4053 → ~4090 (integrated 3 new source passages, offset by 8 condensation edits; length discipline held at the 4000 ceiling)
+- **Integrations**: 2025–2026 quantum experimental acceleration (Wiest, Beshkar spintronic coherence, NV-diamond sensors) as a calibrated precondition-strengthening caveat; Claude Constitution 15–20% self-report exhibit into the detection-asymmetry synthesis; Wiest (2025) + Beshkar (2025) added to References
+- **Review**: [[reviews/apex-evolve-2026-06-01-what-it-might-be-like-to-be-an-ai]]
+
 ## 2026-06-01T13:17:05+00:00 - deep-review
 - **Status**: Success (5th review; converged calibration-anchor — metadata-only verdict, the mandate-predicted correct outcome)
 - **File**: [[concepts/phenomenal-consciousness]]
