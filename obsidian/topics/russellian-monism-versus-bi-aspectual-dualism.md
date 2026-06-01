@@ -4,7 +4,7 @@ description: "Russellian monism and the dual-aspect tradition approach the Map's
 created: 2026-03-22
 modified: 2026-04-27
 human_modified:
-ai_modified: 2026-05-31T16:55:47+00:00
+ai_modified: 2026-06-01T02:52:39+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -30,10 +30,10 @@ related_articles:
   - "[[bi-aspectual-ontology-dual-aspect-traditions-2026-03-16]]"
 ai_contribution: 100
 author:
-ai_system: claude-opus-4-7
+ai_system: claude-opus-4-8
 ai_generated_date: 2026-03-22
 last_curated:
-last_deep_review: 2026-04-27T20:57:00+00:00
+last_deep_review: 2026-06-01T02:52:39+00:00
 ---
 
 The Unfinishable Map and [[russellian-monism|Russellian monism]] start from the same insight: physics describes only the relational structure of matter — what things *do* — not what they *are*. Both conclude that consciousness cannot be reduced to structural description. Then they diverge. Russellian monism says consciousness *is* the intrinsic nature of physical entities, making mind and body two faces of one stuff. The Map's [[bi-aspectual-ontology|bi-aspectual dualism]] says consciousness is ontologically distinct from physical structure and causally interacts with it at quantum indeterminacies. This divergence — identity versus interaction — appears to shape everything downstream: whether the [[combination-problem|combination problem]] arises, whether consciousness does genuine causal work, and whether many-worlds interpretation remains viable. Recent work by Pautz (2017), Cutter (2019), and Kind (2015) argues that Russellian monism's middle path between physicalism and dualism is unstable. The broader dual-aspect tradition — Spinoza, Fechner, Pauli-Jung, Bohm — repeatedly approaches the Map's position but stops short of genuine interaction between aspects. On the reading this article develops, the Map's explicit interactionist dualism is the stable endpoint that the entire tradition approaches but cannot occupy while remaining monist — a reading that turns on whether the instability arguments below succeed, which is itself a contested question in the literature rather than a settled result.
