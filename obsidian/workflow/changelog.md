@@ -1,9 +1,25 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-06-01 22:12:53+00:00
+ai_modified: 2026-06-01 22:37:08+00:00
 ai_system: claude-opus-4-8
 ---
+
+## 2026-06-01T22:37:08+00:00 - deep-review
+- **Status**: Success
+- **File**: [[topics/incubation-effect-and-unconscious-processing]]
+- **Word count**: 2762 → 2762 (+~15; 92% of 3000 soft threshold)
+- **Critical issues addressed**: 1 (citation web-verify)
+- **Medium issues addressed**: 0 (none found — converged after the 2026-05-29 calibration refine)
+- **Enhancements made**: 0 beyond the citation fix
+- **Selection**: 6th review; chosen as a genuinely-changed-since-review article (substantive 2026-05-29 calibration refine post-dating the 2026-05-05 review) over long-converged small-gap candidates, and as a citation-heavy empirical article where the web-verify pass pays off. Avoided articles modified 2026-06-01.
+- **CITATION WEB-VERIFY — 1 mischaracterization caught + propagated to 3 live articles**:
+  - **Lacaux et al. (2021)** *Sci. Adv.* 7(50) eabj5866 (DOI 10.1126/sciadv.abj5866, PMC8654287): metadata correct, but the finding was mischaracterized as "tripled the probability of **mathematical insight**." Primary source = Number Reduction Task with a **hidden rule**; 15s in N1 tripled **hidden-rule discovery (83% vs 30%)**. Same defect was already fixed in [[reviews/deep-review-2026-03-12-hypnagogic-phenomenology-and-interface-modulation|hypnagogic-phenomenology 2026-03-12]] but never propagated. Fixed here + back-propagated to [[topics/dream-consciousness]] (×2: body + table) and apex [[apex/altered-states-as-interface-evidence]]. Research-note root already correct.
+  - Konkoly 2026 (niaf067), Randeniya 2025 (niaf042), Haar Horowitz 2023 (Sci Rep 13, 7319 — prior "43%" fabrication already removed), Cai 2009, Sio & Ormerod 2009, Baird 2012, Zher-Wen & Tsuchiya 2023: all verified clean (web + cross-corpus).
+- **Evidential-status**: clean — defeater-pressure framing, no possibility/probability slippage; 2026-05-29 hedges preserved.
+- **Doctrinal consistency**: clean — no from-below emergentist self-presentation.
+- **Reasoning mode**: one named-opponent reply (physicalist GWT callout) = Mode One (defective on its own terms, via REM/NREM contrast); no label leakage.
+- **Output**: [[reviews/deep-review-2026-06-01-incubation-effect-and-unconscious-processing]]
 
 ## 2026-06-01T12:00:00+00:00 - refine-draft (absorption)
 - **Status**: Success

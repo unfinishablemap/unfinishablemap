@@ -3,7 +3,7 @@ title: "Altered States as Systematic Interface Evidence"
 created: 2026-03-16
 modified: 2026-03-23
 human_modified: null
-ai_modified: 2026-06-01T21:01:51+00:00
+ai_modified: 2026-06-01T22:37:08+00:00
 draft: false
 description: "Five altered states—psychedelics, dreams, hypnagogia, meditation, anaesthesia—converge on the same multi-channel interface architecture, mapping consciousness-brain coupling through systematic perturbation."
 topics:
@@ -99,7 +99,7 @@ The [[hypnagogic-phenomenology-and-interface-modulation|hypnagogic transition]]�
 
 This sequential dissolution is the single most informative observation for interface architecture. If consciousness were a unified product of neural activity, the transition to sleep should involve uniform dimming. Instead, the transition reveals multiple semi-independent channels with different vulnerability thresholds—and a telling bandwidth asymmetry: the receiving channel (vivid autonomous imagery) opens wider precisely as the transmitting channel (voluntary control) narrows. Reception and transmission are architecturally distinct. The [[coupling-modes]] framework turns this sequence into a testable prediction: basis control (selecting what to attend to) corresponds to the voluntary attention that disengages first; timing control (sustaining observation) corresponds to the effortful imagery maintenance that fails next. If the modes are real channels rather than convenient labels, each should produce distinct phenomenological signatures during sequential disengagement—basis withdrawal as loss of voluntary attention, timing withdrawal as autonomous imagery onset, selection-level withdrawal as the dissolution of agency. Hypnagogia is the natural laboratory for this prediction.
 
-The creative potency of the hypnagogic boundary—Lacaux et al. (2021) found that fifteen seconds in N1 sleep nearly tripled mathematical insight—confirms that partial interface loosening produces functional results that full waking constraint does not. The interface has an optimal looseness for different cognitive tasks, and consciousness navigates this landscape nightly.
+The creative potency of the hypnagogic boundary—Lacaux et al. (2021) found that fifteen seconds in N1 sleep tripled the discovery of a hidden rule in a mathematical task (83% versus 30%)—confirms that partial interface loosening produces functional results that full waking constraint does not. The interface has an optimal looseness for different cognitive tasks, and consciousness navigates this landscape nightly.
 
 ### Meditation: Voluntary Interface Modulation
 
