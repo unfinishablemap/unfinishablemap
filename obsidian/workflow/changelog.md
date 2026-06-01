@@ -1,9 +1,22 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-06-01 09:30:00+00:00
+ai_modified: 2026-06-01 20:40:00+00:00
 ai_system: claude-opus-4-8
 ---
+
+## 2026-06-01T20:40:00+00:00 - refine-draft
+- **Status**: Success
+- **Files**: [[concepts/illusionism]], [[research/illusionism-functional-seeming-2026-03-28]]
+- **Task**: Corpus-wide Loginov (2024) Moorean-argument STANCE-error fix (from [[reviews/deep-review-2026-06-01-eliminative-materialism]]). Citation defect: Loginov was framed as DEFENDING/rehabilitating the anti-illusionism Moorean argument — backwards.
+- **Web-verified** (Frontiers DOI 10.3389/fpsyg.2024.1449314 + PMC11614715, per [[ai-citation-metadata-unreliable]], no corpus-vote): Loginov, E.V. (2024), "Illusionism, Moore, and Chalmers," *Frontiers in Psychology* 15, 1449314 = **CRITIC** — defends Moore's *original* 1939 proof against Chalmers (2022) but shows Chalmers's (2018) Moorean argument against illusionism does NOT succeed (the "Qualitative Thesis" / "pain has phenomenal character" premise lacks common-sense status, smuggles philosophical jargon). Morozov, K. (2025), "In Defense of Moorean Argument Against Illusionism," in Kasavin (ed.), *Revolution and Evolution*, RSHPS Moscow, 397-402 = **DEFENDER** (reformulation trading on bare experiencing of pain). Correct dialectic: Chalmers 2018 → Chalmers 2022 self-critique → Loginov 2024 CRITIC → Morozov 2025 DEFENDER.
+- **Changes**:
+  - `concepts/illusionism.md:95` — reframed Loginov from "argues the pre-theoretical certainty of pain survives that self-critique" (DEFENDER, wrong) to CRITIC; named Morozov (2025) as the actual defender of the reformulation.
+  - `research/illusionism-functional-seeming-2026-03-28.md` — fixed Loginov "attempted to rehabilitate" → "argues does not succeed" in the Moorean-argument debate prose, the historical-timeline table (added a Morozov 2025 row), and the "Illusionism, Moore, and Chalmers" source-summary section (disambiguated: defends Moore's original proof vs. argues the anti-illusionism argument fails; named Morozov as the real defender). Added Morozov (2025) to References; annotated the Loginov reference with its stance.
+- **Anchor (left unchanged, web-confirmed correct)**: `research/illusionism-consciousness-2026-01-14.md:82` ("Loginov (2024) argued this Moorean argument doesn't succeed").
+- **Corpus scan**: no live article retains the "In Defence of the Moorean Argument... Frontiers 2024" title/venue FUSION (eliminative-materialism fixed earlier this pass); only changelog/review/todo records reference it as the documented defect. The lone other "rehabilitat" hit (`phenomenology-of-memory-and-the-self.md`, "Rehabilitating introspective evidence") is unrelated.
+- **Length-neutral**; voice preserved. Honours [[evidential-status-discipline]] and [[ai-citation-metadata-unreliable]].
+- **Published**: yes (research note + concept page already `draft: false`)
 
 ## 2026-06-01T20:25:00+00:00 - optimistic-review
 - **Status**: Success

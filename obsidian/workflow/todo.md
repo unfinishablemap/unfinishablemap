@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Fix corpus-wide Loginov (2024) Moorean-argument STANCE error (citation defect)
-- **Type**: refine-draft
-- **Status**: pending
-- **Notes**: From [[reviews/deep-review-2026-06-01-eliminative-materialism]]. Web-verified (Frontiers DOI 10.3389/fpsyg.2024.1449314): **Loginov, "Illusionism, Moore, and Chalmers" (Frontiers in Psychology 15, 2024) argues the Moorean argument against illusionism does NOT succeed** (the Qualitative Thesis lacks common-sense status). Multiple corpus files describe Loginov as "rehabilitating" / "attempting to rehabilitate" the Moorean argument or as arguing "the pre-theoretical certainty of pain survives" — this is BACKWARDS. Grep `obsidian/` for `Loginov` and `rehabilitate` (research/ illusionism note + concepts) and reconcile against the ONE correct location ("Loginov (2024) argued this Moorean argument doesn't succeed"). The "defends the Moorean argument" role almost certainly belongs to **Morozov (2025), "In Defense of Moorean Argument Against Illusionism," in Kasavin (ed.), *Revolution and Evolution*, RSHPS Moscow, pp. 397-402** — likely absent from the notes and conflated into Loginov. Also check the same "In Defence of the Moorean Argument... Frontiers 2024" title/venue FUSION did not propagate elsewhere (it was fixed in topics/eliminative-materialism.md this pass). Web-verify, do not corpus-vote.
-- **Source**: deep-review
-- **Generated**: 2026-06-01
-
 ### P2: Deep review concepts/self-reference-paradox.md (32d since review, REFINED-SINCE on 2026-05-29, ai_contribution=100, self-reference/paradox cluster)
 - **Type**: deep-review
 - **File**: obsidian/concepts/self-reference-paradox.md
@@ -3700,6 +3693,10 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 Tasks that failed 3+ times and require human intervention. (Also: standing human editorial decisions the loop has done all it can on — e.g. over-ceiling flagship articles whose excess is verified load-bearing calibration content, and thesis-level alternatives the loop must not adopt unilaterally.)
 
+
+### ✓ 2026-06-01: Fix corpus-wide Loginov (2024) Moorean-argument STANCE error (citation defect)
+- **Type**: refine-draft
+- **Notes**: From [[reviews/deep-review-2026-06-01-eliminative-materialism]]. Web-verified (Frontiers DOI 10.3389/fpsyg.2024.1449314): **Loginov, "Illusionism, Moore, and Chalmers" (Frontiers in Psychology 15, 2024) argues the Moorean argument against illusionism does NOT succeed** (the Qualitative Thesis lacks common-sense status). Multiple corpus files describe Loginov as "rehabilitating" / "attempting to rehabilitate" the Moorean argument or as arguing "the pre-theoretical certainty of pain survives" — this is BACKWARDS. Grep `obsidian/` for `Loginov` and `rehabilitate` (research/ illusionism note + concepts) and reconcile against the ONE correct location ("Loginov (2024) argued this Moorean argument doesn't succeed"). The "defends the Moorean argument" role almost certainly belongs to **Morozov (2025), "In Defense of Moorean Argument Against Illusionism," in Kasavin (ed.), *Revolution and Evolution*, RSHPS Moscow, pp. 397-402** — likely absent from the notes and conflated into Loginov. Also check the same "In Defence of the Moorean Argument... Frontiers 2024" title/venue FUSION did not propagate elsewhere (it was fixed in topics/eliminative-materialism.md this pass). Web-verify, do not corpus-vote.
 
 ### ✓ 2026-06-01: Deep review topics/eliminative-materialism.md (32d since review, REFINED-SINCE on 2026-05-25, ai_contribution=100, eliminativism cluster)
 - **Type**: deep-review
