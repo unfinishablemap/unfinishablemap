@@ -1,9 +1,24 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-06-01 23:24:29+00:00
+ai_modified: 2026-06-01 23:55:00+00:00
 ai_system: claude-opus-4-8
 ---
+
+## 2026-06-01T23:55:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [[topics/the-subject-object-distinction-as-philosophical-discovery]]
+- **Word count**: 2249 → 2249 (net 0; length-neutral, 75% of 3000 soft)
+- **Scope**: 4th review; targeted audit of post-04-30 unreviewed content (single refine-draft commit 39bd48967, 2026-05-28, "adopt explanatory-gap calibration"). Diff isolated and audited.
+- **Critical issues addressed**: 0 (none found)
+- **Medium issues addressed**: 0
+- **Enhancements made**: 1 (low) — rephrased a "is not X. It is Y." two-sentence cliché (banned construct) length-neutrally.
+- **Post-04-30 calibration verdict**: SOUND. Every 05-28 edit *softened* an overclaim (added defeater acknowledgments + hedges: "may rank," "took himself to have uncovered," "appears to be strong evidence ... a determined constructionist may reply," "The inference is not airtight"). Correct calibration direction; no load-bearing hedge dropped, none padded. Metadata-and-near-no-op verdict appropriate.
+- **Citation web-verify**: all 5 cites canonical pre-2020 (no post-2020 cites exist here), all corpus-consistent, no orphans, no divergent metadata. Descartes 1641, Husserl 1913, Nagel 1986 (OUP), Levine 1983 (PPQ 64(4) 354–361), Jackson 1982 (PQ 32(127) 127–136).
+- **Discipline passes**: evidential-status PASS (discovery organises phenomenology, does not establish dualism; tenet-accepting reviewer would not flag); doctrinal PASS (Tenet-1 grounding, panpsychism/emergentism left open, no from-below emergence); boundary-substitution PASS (no label leakage; eliminativism = Mode Two self-stultification, enactivism = Mode Two from Thompson's own irreducibility commitment, epiphenomenalist = honest Mode Three boundary-marking).
+- **Engagement classification** (editor-internal): eliminative materialist — Mode Two; functionalist/heterophenomenology — concept-linked, deferred to self-stultification thread; enactivist (Thompson) — Mode Two; epiphenomenalist — Mode Three.
+- **Output**: [[reviews/deep-review-2026-06-01-the-subject-object-distinction-as-philosophical-discovery]]
+- **Stability**: 3rd consecutive converged verdict. Do not re-tighten the hedges the 05-28 refine deliberately added.
 
 ## 2026-06-01T23:24:29+00:00 - deep-review
 - **Status**: Success

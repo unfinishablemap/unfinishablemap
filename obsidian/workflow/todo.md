@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Deep review topics/the-subject-object-distinction-as-philosophical-discovery.md (32d since review, CHANGED-SINCE on 2026-05-28, ai_contribution>50, phenomenology-of-distinction cluster)
-- **Type**: deep-review
-- **File**: obsidian/topics/the-subject-object-distinction-as-philosophical-discovery.md
-- **Notes**: FLOOR-RESTORING by /replenish-queue 2026-06-01 (churn-free staleness pick under the CORRECTED filter). `last_deep_review: 2026-04-30` (~32d, past 30-day floor, NO open deep-review task targeting this file — zero queue mentions) AND `ai_modified: 2026-05-28` (NOT today 2026-06-01, so clear of same-session-churn). The article was modified ~28 days AFTER its 04-30 review — a LARGE review→modify gap is a POSITIVE high-value signal: AUDIT THE POST-04-30 CONTENT specifically (that's the unreviewed new material). 9 year-cites incl. 5 post-2020 — citation-rich, so WEB-VERIFY all scholar/date attributions and CHECK THE STANCE each source is cited FOR before trusting them ([[ai-citation-metadata-unreliable]]; post-2020 specific cites are the fabrication zone). Honour [[evidential-status-discipline]] — the subject/object distinction as a *discovery* organises the phenomenology, it does NOT by itself *establish* dualism; keep the register calibrated. Verify cross-links resolve live and reciprocate where load-bearing. Writing-style + length discipline (no "This is not X. It is Y." cliché). A metadata-only verdict is acceptable if the post-04-30 additions are sound — do NOT over-hedge converged prose. SELECTION-COLLISION CAVEAT: if a cycle-slot deep-review bumps last_deep_review to 2026-06-01 first, mark RESOLVED-OBSOLETE. Tenet alignment: Tenet 1 (Dualism — the subject pole's irreducibility).
-- **Source**: staleness
-- **Generated**: 2026-06-01
-
 ### P2: Deep review concepts/intentionality.md (31d since review, CHANGED-SINCE on 2026-05-27, ai_contribution>50, mind-world-directedness cluster)
 - **Type**: deep-review
 - **File**: obsidian/concepts/intentionality.md
@@ -3741,6 +3734,10 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 Tasks that failed 3+ times and require human intervention. (Also: standing human editorial decisions the loop has done all it can on — e.g. over-ceiling flagship articles whose excess is verified load-bearing calibration content, and thesis-level alternatives the loop must not adopt unilaterally.)
 
+
+### ✓ 2026-06-01: Deep review topics/the-subject-object-distinction-as-philosophical-discovery.md (32d since review, CHANGED-SINCE on 2026-05-28, ai_contribution>50, phenomenology-of-distinction cluster)
+- **Type**: deep-review
+- **Notes**: FLOOR-RESTORING by /replenish-queue 2026-06-01 (churn-free staleness pick under the CORRECTED filter). `last_deep_review: 2026-04-30` (~32d, past 30-day floor, NO open deep-review task targeting this file — zero queue mentions) AND `ai_modified: 2026-05-28` (NOT today 2026-06-01, so clear of same-session-churn). The article was modified ~28 days AFTER its 04-30 review — a LARGE review→modify gap is a POSITIVE high-value signal: AUDIT THE POST-04-30 CONTENT specifically (that's the unreviewed new material). 9 year-cites incl. 5 post-2020 — citation-rich, so WEB-VERIFY all scholar/date attributions and CHECK THE STANCE each source is cited FOR before trusting them ([[ai-citation-metadata-unreliable]]; post-2020 specific cites are the fabrication zone). Honour [[evidential-status-discipline]] — the subject/object distinction as a *discovery* organises the phenomenology, it does NOT by itself *establish* dualism; keep the register calibrated. Verify cross-links resolve live and reciprocate where load-bearing. Writing-style + length discipline (no "This is not X. It is Y." cliché). A metadata-only verdict is acceptable if the post-04-30 additions are sound — do NOT over-hedge converged prose. SELECTION-COLLISION CAVEAT: if a cycle-slot deep-review bumps last_deep_review to 2026-06-01 first, mark RESOLVED-OBSOLETE. Tenet alignment: Tenet 1 (Dualism — the subject pole's irreducibility).
 
 ### ✓ 2026-06-01: Absorb the Effort Void research note into agency-void's verification face
 - **Type**: refine-draft
