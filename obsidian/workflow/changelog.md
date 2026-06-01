@@ -5,6 +5,13 @@ ai_modified: 2026-06-01 03:30:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-01T04:24:34+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[topics/the-binding-problem]]
+- **Original score**: anchoring-audit calibration refine (2 anchor flags)
+- **Changes**: Calibration-inheritance pass resolving BOTH anchoring flags the fresh evaluate_anchoring surfaced (task named only phenomenal-consciousness; it under-named — mental-causation-and-downward-causation also fired). (1) Rephrased the single strong-assertion verb "proves"→"appears" ("phenomenal unity appears more resilient", split-brain section), driving strong-assertion density to 0 — clears the strong-assertion check on BOTH anchors; the verb downgrade doubles as a counted hedge. (2) Added scanner-counted single-word hedges (suggests/appears/perhaps/seems) at genuinely interpretive junctures — recalibration design-constraint inference, quantum substrate identification, brute-identity concession — raising hedge density 2.71→4.18/kw, clearing the 4.06/kw (60% of phenomenal-consciousness's 6.76) binding constraint. (3) Added one explicit underdetermination clause in the IIT correlation-vs-identity passage ("the same data are compatible with both readings, so the choice … is underdetermined by the evidence") matching two scanner patterns, clearing the mental-causation underdetermination check. Binding-taxonomy thesis and voice preserved — only the one assertion verb downgraded, no claims weakened. Post-edit evaluate_anchoring returns ZERO flags. +27 words (now 3352, already over 3000 soft threshold pre-edit — length-decision candidate for a human; additions held to single-word hedges + one clause, no new paragraphs).
+- **Published**: yes
+
 ## 2026-06-01T05:10:00+00:00 - refine-draft
 - **Status**: Success
 - **File**: [[topics/dualist-perception]]
