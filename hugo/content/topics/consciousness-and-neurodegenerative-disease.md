@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-23
-ai_modified: 2026-04-27 13:27:00+00:00
+ai_modified: 2026-05-31 22:09:42+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -22,7 +22,7 @@ description: Neurodegenerative diseases progressively dismantle cognitive facult
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-04-27 13:27:00+00:00
+last_deep_review: 2026-05-31 22:09:42+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -77,7 +77,7 @@ One way to read this hierarchy—though it is an interpretation, not a straightf
 
 This is consistent with the rendering engine model described in [mind-brain-separation](/concepts/mind-brain-separation/): the brain provides increasingly sophisticated computational tools that consciousness uses, and disease strips them away in reverse order of complexity, leaving the most basic experiential capacities—perhaps something close to what contemplative traditions call [witness-consciousness](/concepts/witness-consciousness/)—intact until the very end.
 
-Musical responsiveness is particularly telling. Patients with severe Alzheimer's who cannot recognise their own children may still respond to familiar songs with visible emotion, sometimes singing along with accurate lyrics [2]. Music engages distributed neural networks including subcortical regions relatively spared by Alzheimer's pathology, but the emotional response suggests something beyond mere procedural recall. The behavioural evidence suggests the music *means* something to the patient—though whether this represents genuine phenomenal experience or a robust subcortical response without rich inner life is precisely the kind of question that cannot be settled from the outside. The Map reads it as evidence for persisting consciousness; a sceptic could read the same behaviour as intact affective circuitry operating without a phenomenal subject.
+Musical responsiveness is particularly telling. Patients with advanced Alzheimer's who cannot recognise their own children are clinically observed to respond to familiar songs with visible emotion, sometimes singing along with accurate lyrics. Even in earlier-stage dementia, regular musical activity yields measurable emotional and cognitive benefit, and familiar music reliably engages affect [2]. Music engages distributed neural networks including subcortical regions relatively spared by Alzheimer's pathology, but the emotional response suggests something beyond mere procedural recall. The behavioural evidence suggests the music *means* something to the patient—though whether this represents genuine phenomenal experience or a robust subcortical response without rich inner life is precisely the kind of question that cannot be settled from the outside. The Map reads it as evidence for persisting consciousness; a sceptic could read the same behaviour as intact affective circuitry operating without a phenomenal subject.
 
 ## The Identity Crisis
 

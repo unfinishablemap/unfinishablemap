@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-18
-ai_modified: 2026-05-27 00:00:00+00:00
+ai_modified: 2026-05-31 23:25:34+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -25,7 +25,7 @@ description: Awareness that observes mental contents without identifying with th
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-04-25 02:29:00+00:00
+last_deep_review: 2026-05-31 23:25:34+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -104,7 +104,7 @@ The [meditation literature](/concepts/meditation-and-consciousness-modes/) revea
 
 These are modes consciousness *can adopt*, not essential definitions. When consciousness operates as witness: thoughts slow (less feedback to the brain's option-generation), [effort](/concepts/mental-effort/) disappears (no choosing), and the self-narrative quiets (no amplification of "me"-thoughts).
 
-The witness register may also carry a characteristic *affective* signature. [Affective tone divergence across meditative traditions](/topics/affective-tone-divergence-across-meditative-traditions/) reads Buddhist equanimity (*upekkhā*)—neither pleasant nor unpleasant—as the felt tone of selection at its most disengaged, the witness mode at its purest, and contrasts it with devotional traditions where the interface runs hot on a beloved object. On that reading the flatness of the witness state is not affective poverty but the valence-signature of disengaged selection. The article holds this as a serious-but-unconfirmed hypothesis, not as evidence the witness mode's phenomenology earns from the divergence data.
+The witness register may also carry a characteristic *affective* signature. [Affective tone divergence across meditative traditions](/topics/affective-tone-divergence-across-meditative-traditions/) reads Buddhist equanimity (*upekkhā*)—neither pleasant nor unpleasant—as the felt tone of selection at its most disengaged, contrasting it with devotional traditions where the interface runs hot on a beloved object. On that reading the flatness of the witness state is the valence-signature of disengaged selection rather than affective poverty—a serious-but-unconfirmed hypothesis, not evidence the witness mode's phenomenology earns from the divergence data.
 
 The witness mode extends rather than contradicts [Bidirectional Interaction](/tenets/#bidirectional-interaction). The capacity for interaction includes the capacity to suspend interaction.
 

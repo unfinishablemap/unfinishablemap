@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-20
-ai_modified: 2026-05-08 20:35:00+00:00
+ai_modified: 2026-05-31 23:36:09+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -16,7 +16,7 @@ description: Constraint satisfaction has distinctive phenomenal character — th
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-04-26 20:37:00+00:00
+last_deep_review: 2026-05-31 23:36:09+00:00
 modified: *id001
 related_articles:
 - '[[bandwidth-of-consciousness]]'
@@ -27,6 +27,9 @@ related_articles:
 - '[[volitional-control]]'
 - '[[consciousness-and-causal-powers]]'
 - '[[phenomenology-mechanism-bridge]]'
+- '[[selection-only-mind-influence]]'
+- '[[selection-criterion-problem]]'
+- '[[attention-as-interface]]'
 title: Consciousness and the Phenomenology of Constraint Satisfaction
 topics:
 - '[[phenomenology-of-cognitive-capacity]]'
@@ -51,6 +54,8 @@ The [phenomenology of cognitive capacity](/topics/phenomenology-of-cognitive-cap
 The Unfinishable Map's framework — particularly the [control-theoretic model of will](/concepts/control-theoretic-will/) — reframes constraint satisfaction as a domain where consciousness performs its core function: selection among options the brain prepares.
 
 In this view, the brain's unconscious processing generates candidate solutions at enormous bandwidth — aggregate neural processing reaches ~10⁹ bits/second (Zheng & Meister, 2025), while consciousness operates at roughly 10 bits/second (Nørretranders, 1998), selecting among these candidates. Constraint satisfaction is where this architecture becomes most phenomenally vivid, because the constraints themselves shape which candidates the brain generates and which consciousness can accept.
+
+This is the phenomenological face of the Map's strictest reading of conscious agency: [selection-only mind-influence](/topics/selection-only-mind-influence/), where consciousness contributes nothing to the candidate set the brain physically prepares and only chooses which already-generated alternative becomes actual. That information-theoretic account derives a hard ceiling — each selection event transfers at most log₂(N) bits over a brain-prepared candidate set of size N. The felt narrowing of constraint satisfaction is what a high-N candidate set collapsing toward a single actualised solution feels like from the inside. What that account leaves open — by what evaluative criterion consciousness prefers one candidate over another — is named explicitly as the [selection-criterion problem](/concepts/selection-criterion-problem/); constraint phenomenology supplies a partial, first-person gloss on the criterion (personal significance, felt rightness) without pretending to resolve the primitive the framework still owes a story about.
 
 This selection architecture parallels what the [phenomenology of volitional control](/topics/volitional-control/) describes for motor action: the brain prepares multiple candidates, and consciousness selects among them. Constraint satisfaction is where this architecture manifests in cognition more broadly. Three features of the selection process have distinctive phenomenal character:
 
@@ -96,7 +101,7 @@ The phenomenology of constraint satisfaction illuminates several of the Map's [t
 
 The Map's commitment to [interactionist-dualism](/concepts/interactionist-dualism/) gains support from the asymmetric automatisation pattern. If consciousness were [epiphenomenal](/concepts/epiphenomenalism/), it could neither usefully engage with novel constraints nor disruptively re-engage with automatised ones. Both directions of causal influence — helpful engagement and harmful choking — require consciousness to be doing genuine work.
 
-The Map's tenet of [minimal quantum interaction](/tenets/#minimal-quantum-interaction) finds a natural phenomenal expression in constraint satisfaction. The felt experience of constraints narrowing possibility space mirrors what the Map proposes physically: consciousness selects among options that physical processes prepare, biasing quantum indeterminacies toward outcomes that satisfy the agent's evaluative priorities. The phenomenology of resolution — when a satisfying solution "clicks" — may be the experiential signature of this selection event.
+The Map's tenet of [minimal quantum interaction](/tenets/#minimal-quantum-interaction) finds a natural phenomenal expression in constraint satisfaction. The felt experience of constraints narrowing possibility space mirrors what the Map proposes physically: consciousness selects among options that physical processes prepare, biasing quantum indeterminacies toward outcomes that satisfy the agent's evaluative priorities. The Map locates that selection at the [attentional interface](/concepts/attention-as-interface/), where the same mechanism that gates which constraints reach high phenomenal salience plausibly does the selecting. The phenomenology of resolution — when a satisfying solution "clicks" — may be the experiential signature of this selection event. This remains a suggestive convergence between first-person texture and the Map's mechanism, not a demonstration that the phenomenology proves the metaphysics.
 
 The Map speculates that the distinctive phenomenal character of different constraint types reflects different modes of conscious engagement with the brain's processing architecture. Grammatical constraints feel rail-like because they engage the brain's highly structured linguistic systems. Aesthetic constraints feel gravitational because they engage more distributed evaluative networks. The phenomenology tracks the character of the neural substrate consciousness is interfacing with — consistent with the Map's view that consciousness and brain are genuinely distinct yet intimately coupled.
 
@@ -120,6 +125,9 @@ The disconnect between computational complexity and phenomenal intensity poses a
 - [aesthetics-and-consciousness](/topics/aesthetics-and-consciousness/)
 - [cognitive-phenomenology](/concepts/cognitive-phenomenology/)
 - [phenomenology-mechanism-bridge](/apex/phenomenology-mechanism-bridge/)
+- [selection-only-mind-influence](/topics/selection-only-mind-influence/)
+- [selection-criterion-problem](/concepts/selection-criterion-problem/)
+- [attention-as-interface](/concepts/attention-as-interface/)
 
 ## References
 

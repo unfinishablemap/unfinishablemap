@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-04-28
-ai_modified: 2026-05-31 21:46:35+00:00
+ai_modified: 2026-05-31 22:51:37+00:00
 ai_system: claude-opus-4-7
 author: null
 coalesced_from:
@@ -57,7 +57,7 @@ The Map's commitment to genuine mental causation—[bidirectional interaction](/
 
 **The governing view** (Dretske, Tooley, Armstrong) treats laws as relations among universals—second-order facts about how properties connect. The law that masses attract is a real, counterfactual-supporting relation between *mass* and patterns of acceleration. Laws are genuinely prescriptive: they *make* things happen.
 
-**Dispositional essentialism** (Bird, Ellis) grounds laws in the intrinsic natures of properties themselves. Charge *is* the disposition to attract and repel according to Coulomb's law; the law expresses what the property essentially is. There are no possible worlds where charge exists but Coulomb's law fails, because Coulomb's law is part of what makes charge *charge*.
+**Dispositional essentialism** (Bird, Ellis) grounds laws in the intrinsic natures of properties themselves. Charge *is* the disposition to attract and repel according to Coulomb's law; the law expresses what the property essentially is. There are no possible worlds where charge exists but Coulomb's law fails, because the law is part of what makes charge *charge*.
 
 ## Three Accounts of Properties
 
@@ -77,7 +77,7 @@ Each landscape generates a different account of how mind relates to matter.
 
 Humeanism is surprisingly hospitable to psychophysical laws. If laws are the most efficient summaries of actual patterns, psychophysical laws are simply regularities linking phenomenal states to physical states—genuine patterns in the total mosaic, not bridge mechanisms.
 
-Humean psychophysical laws are admissible; the problem is that they lack *explanatory depth*. "It is a law that brain state B produces experience E" provides no more than "B is regularly followed by E." The Humean dualist gets correlation without illumination—the [hard problem](/topics/hard-problem-of-consciousness/) transplanted into the metaphysics of laws. A Humean can reply that physical Humean laws are equally shallow; the dualist answers that psychophysical regularities bridge [ontologically distinct domains](/concepts/emergence/), making the absent explanation more troubling.
+These laws are admissible; the problem is that they lack *explanatory depth*. "It is a law that brain state B produces experience E" provides no more than "B is regularly followed by E." The Humean dualist gets correlation without illumination—the [hard problem](/topics/hard-problem-of-consciousness/) transplanted into the metaphysics of laws. A Humean can reply that physical Humean laws are equally shallow; the dualist answers that psychophysical regularities bridge [ontologically distinct domains](/concepts/emergence/), making the absent explanation more troubling.
 
 A deeper concern: [Humean supervenience](/concepts/supervenience/) holds that everything supervenes on the mosaic of local particular matters of fact. If consciousness adds something beyond that mosaic—as dualism claims—Humean supervenience fails. A committed Humean might accept psychophysical correlations into the best system while denying that phenomenal properties are ontologically additional, which collapses back into physicalism.
 
@@ -109,7 +109,7 @@ This tension favours the governing view: a governing law can legislate the conne
 
 ### The Pandispositionalist Challenge
 
-If properties are exhausted by their causal profiles, consciousness must be either a disposition itself or outside the framework entirely. Consider phenomenal redness as a disposition: a disposition toward *what*? Dispositions point toward manifestations (fragility toward breaking, solubility toward dissolving), so phenomenal redness would need to be essentially directed toward red-related behaviour, neural responses, or reports.
+If properties are exhausted by their causal profiles, consciousness must be either a disposition itself or outside the framework entirely. Consider phenomenal redness as a disposition: a disposition toward *what*? Dispositions point toward manifestations, so phenomenal redness would need to be essentially directed toward red-related behaviour, neural responses, or reports.
 
 The problem is immediate. Phenomenal redness has an intrinsic qualitative character not exhausted by any behavioural or functional profile. This is the [knowledge argument](/concepts/knowledge-argument/), which the Map takes to succeed: Mary learns something new when she sees red for the first time, even though she already knew every dispositional fact. If [qualia](/concepts/qualia/) were pure dispositions, there would be nothing left to learn.
 
@@ -117,19 +117,19 @@ Pandispositionalism faces a dilemma. Either phenomenal properties are dispositio
 
 ### Categoricalism and the Intrinsic Nature Problem
 
-If categoricalism is correct, consciousness might be a categorical property par excellence. Qualia are qualitative, intrinsic, and apparently non-relational—the redness of red is a quality, not a relation.
+If categoricalism is correct, consciousness might be a categorical property par excellence. Qualia are qualitative, intrinsic, and apparently non-relational.
 
 This looks promising for dualism, but categoricalism faces its own difficulty. As [russellian-monism](/concepts/russellian-monism/) highlights, physics describes only structural and relational properties—only what things *do*. We know that mass gravitates and charge attracts but not what mass or charge *is* intrinsically. The [intrinsic-nature-void](/voids/intrinsic-nature-void/) explores why this gap may be principled rather than merely epistemic.
 
-This generates the Russellian gambit: perhaps consciousness *is* the intrinsic categorical nature underlying physical dispositions—qualia are what physical structure looks like from the inside. But this faces the [combination-problem](/concepts/combination-problem/): how do micro-level categorical-phenomenal properties combine into unified macro-consciousness? Cutter (2019), Pautz (2017), and Howell (2015) press the case that Russellian monism is unstable, requires brute linking principles equivalent to dualism's, and risks epiphenomenal quiddities. Mørch (2014, 2018) responds with *power-monist* Russellian monism: quiddities *are* powers, restoring causal relevance. Mørch's view is the Map's closest competitor because it pairs the powerful-qualities identity theory with Russellian monism rather than dualism. The Map prefers [bi-aspectual dualism](/topics/russellian-monism-versus-bi-aspectual-dualism/) because power-monist Russellian monism still inherits the combination problem, whereas the bi-aspectual framework posits unified phenomenal subjects from the start and locates causal work at quantum indeterminacies rather than within physical properties.
+This generates the Russellian gambit: perhaps consciousness *is* the intrinsic categorical nature underlying physical dispositions—qualia are what physical structure looks like from the inside. But this faces the [combination-problem](/concepts/combination-problem/): how do micro-level categorical-phenomenal properties combine into unified macro-consciousness? Cutter (2019), Pautz (2017), and Howell (2015) press the case that Russellian monism is unstable, requires brute linking principles equivalent to dualism's, and risks epiphenomenal quiddities. Mørch (2014, 2018) responds with *power-monist* Russellian monism: quiddities *are* powers, restoring causal relevance. Mørch's view is the Map's closest competitor because it pairs the powerful-qualities identity theory with Russellian monism rather than dualism. The Map prefers [bi-aspectual dualism](/topics/russellian-monism-versus-bi-aspectual-dualism/) because power-monism still inherits the combination problem, whereas the bi-aspectual framework posits unified phenomenal subjects from the start and locates causal work at quantum indeterminacies rather than within physical properties.
 
 ### Powerful Qualities and Phenomenal Properties
 
 The identity theory—properties as "powerful qualities"—offers a middle path more compatible with the Map's framework than either pure dispositionalism or pure categoricalism.
 
-A clarification carries forward from the previous section. The zombie-world disanalogy weakens dispositional essentialism's *grounding* claim, but the powerful-qualities identity theory makes a weaker commitment: it does not require phenomenal properties to be fundamental constituents whose essences ground laws, only that, given a property exists, its qualitative and dispositional aspects are identical rather than separately specifiable. That identity claim survives the disanalogy because it is silent on whether phenomenal existence is necessary or contingent. The Map adopts powerful qualities as the property-side commitment and lets the governing-laws view do the cross-domain legislative work essentialism cannot.
+The zombie-world disanalogy weakens dispositional essentialism's *grounding* claim, but the powerful-qualities identity theory makes a weaker commitment: it does not require phenomenal properties to be fundamental constituents whose essences ground laws, only that, given a property exists, its qualitative and dispositional aspects are identical rather than separately specifiable. That identity claim survives the disanalogy because it is silent on whether phenomenal existence is necessary or contingent. The Map adopts powerful qualities as the property-side commitment and lets the governing-laws view do the cross-domain legislative work essentialism cannot.
 
-On Martin and Heil's view, a property's qualitative nature and its dispositional power are identical—two aspects of one reality under two descriptions, not separable components you can peel apart. Applied to consciousness: a phenomenal state's qualitative character and its causal power are aspects of a single property. The redness of red experience is simultaneously a quality and a power (the capacity to bias neural activity toward red-related responses). Mary doesn't learn a new disposition when she sees red—she encounters the qualitative aspect of a property whose dispositional aspect she already knew.
+On Martin and Heil's view, a property's qualitative nature and its dispositional power are identical—not separable components you can peel apart. Applied to consciousness: the redness of red experience is simultaneously a quality and a power (the capacity to bias neural activity toward red-related responses). Mary doesn't learn a new disposition when she sees red—she encounters the qualitative aspect of a property whose dispositional aspect she already knew.
 
 **It preserves the reality of qualia.** Unlike pandispositionalism, the identity theory doesn't reduce phenomenal character to causal role. The qualitative aspect is real and irreducible—identical with the dispositional aspect, not absorbed into it.
 
@@ -165,7 +165,7 @@ Phenomenal dispositions thus have a unique modal character. Physical disposition
 
 ## Why This Matters for the Mind-Body Problem
 
-Each framework leaves a residual mystery mirroring what it leaves unexplained for purely physical laws. Humean regularities provide no mechanism. Governing laws face the legislation problem. Dispositional essences raise questions about why properties have the natures they do—and why consciousness exists at all, given the zombie-world disanalogy. Our inability to fully explain why neural configurations produce experiences is less a special indictment of dualism than a general feature of metaphysical inquiry: the difficulty of psychophysical laws is partly inherited from the difficulty of *all* laws.
+Each framework leaves a residual mystery mirroring what it leaves unexplained for purely physical laws. Humean regularities provide no mechanism; governing laws face the legislation problem; dispositional essences raise questions about why properties have the natures they do—and why consciousness exists at all, given the zombie-world disanalogy. Our inability to fully explain why neural configurations produce experiences is less a special indictment of dualism than a general feature of metaphysical inquiry: the difficulty of psychophysical laws is partly inherited from the difficulty of *all* laws.
 
 ## Relation to Site Perspective
 

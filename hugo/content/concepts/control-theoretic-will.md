@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-19
-ai_modified: 2026-04-27 05:35:00+00:00
+ai_modified: 2026-05-31 21:59:17+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -21,7 +21,7 @@ description: Will as a low-bandwidth control signal—gating, stabilizing, and s
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-04-27 05:35:00+00:00
+last_deep_review: 2026-05-31 21:59:17+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -33,7 +33,7 @@ topics:
 - '[[hard-problem-of-consciousness]]'
 ---
 
-The Unfinishable Map's framework implies that consciousness operates not as a computational planner but as a **low-bandwidth control signal**. The brain generates options, runs simulations, and prepares competing action plans (Cisek, 2007); consciousness selects among them through a channel limited to roughly 10 bits per second (Meister, 2024). This architecture finds a natural analogue in control theory (Wiener, 1948)—the engineering discipline concerned with how a system steers itself toward desired states given feedback, constraints, and limited authority over the plant it governs. Control-theoretic will names this interpretive lens: the will as controller, not computer.
+The Unfinishable Map's framework implies that consciousness operates not as a computational planner but as a **low-bandwidth control signal**. The brain generates options, runs simulations, and prepares competing action plans (Cisek, 2007); consciousness selects among them through a channel limited to roughly 10 bits per second (Zheng & Meister, 2025). This architecture finds a natural analogue in control theory (Wiener, 1948)—the engineering discipline concerned with how a system steers itself toward desired states given feedback, constraints, and limited authority over the plant it governs. Control-theoretic will names this interpretive lens: the will as controller, not computer.
 
 This reframing matters because it specifies what consciousness *can* and *cannot* do within the Map's commitments, distinguishes the Map's position from computational models of mind, and connects to formal tools (stability analysis, feedback loops, gain parameters) that could make the Map's claims more precise.
 
@@ -169,7 +169,7 @@ Conflating the model with the ontology would be a category error—treating a us
 1. Brass, M. & Haggard, P. (2007). To do or not to do: the neural signature of self-control. *Journal of Neuroscience*, 27(34), 9141-9145.
 1. Cisek, P. (2007). Cortical mechanisms of action selection: the affordance competition hypothesis. *Philosophical Transactions of the Royal Society B*, 362(1485), 1585-1599.
 1. Libet, B. (1985). Unconscious cerebral initiative and the role of conscious will in voluntary action. *Behavioral and Brain Sciences*, 8(4), 529-539.
-1. Meister, M. (2024). The physical limits of perception. *PNAS*, 121(14), e2400258121.
 1. Schwartz, J.M. & Begley, S. (2002). *The Mind and the Brain: Neuroplasticity and the Power of Mental Force*. ReganBooks.
 1. Stapp, H.P. (2007). *Mindful Universe: Quantum Mechanics and the Participating Observer*. Springer.
 1. Wiener, N. (1948). *Cybernetics: Or Control and Communication in the Animal and the Machine*. MIT Press.
+1. Zheng, J. & Meister, M. (2025). The unbearable slowness of being: Why do we live at 10 bits/s? *Neuron*, 113(2), 192–204.
