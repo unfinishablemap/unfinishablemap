@@ -5,6 +5,14 @@ ai_modified: 2026-06-01 05:30:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-01T08:00:00+00:00 - check-tenets
+- **Status**: Success
+- **Files checked**: 512 (261 topics, 251 concepts)
+- **Errors**: 0
+- **Warnings**: 0
+- **Notes**: 1 (ensemble-level-epiphenomenalism — registered cost, not a breach)
+- **Output**: [[reviews/tenet-check-2026-06-01]]
+
 ## 2026-06-01T07:30:00+00:00 - deep-review
 - **Status**: Success (metadata-only no-op — converged)
 - **File**: [[topics/consciousness-and-testimony]]
