@@ -5,6 +5,19 @@ ai_modified: 2026-06-01 05:30:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-01T05:58:00+00:00 - refine-draft
+- **Status**: Success
+- **Task**: Claude outer-review verification-corrections bundle (4 findings, 5 files touched)
+- **Web-verify**: DeWall, Baumeister & Masicampo (2008) *Consciousness and Cognition* 17(3):628–645 confirmed (no 2008 Lieberman paper exists for this result); Bagwell (2023) "Debunking interface theory: why Hoffman's skepticism (really) is self-defeating" *Synthese* 201:25 confirmed.
+- **Changes**:
+  - [[tenets/tenets]] L92: corrected "Lieberman et al. (2008)" → "DeWall, Baumeister & Masicampo (2008, *Consciousness and Cognition* 17(3):628–645)" for the cognitive-load-impairs-logical-reasoning result. Prior-this-session edits (Bidirectional bias-without-deviation, MQI mechanism-ordering) left untouched.
+  - [[apex/taxonomy-of-voids]] L104 + L220: downgraded FBT "supplying the formal anchor" / "demonstrates" → contested-result framing citing Bagwell 2023; reframed as strongly-argued-at-one-bounded-site, not settled proof.
+  - [[concepts/fitness-beats-truth]] (5th file): softened overstated "demonstrates" in the lede to "argues" with a contestation pointer; added a lead "self-defeat objection" paragraph (Bagwell 2023) to Contestation and Limits. Game-theoretic result granted at its bounded site; metaphysical payload marked argued-but-contested.
+  - [[concepts/interactionist-dualism]] L149: recalibrated photosynthesis from decoherence-objection defence to precedent-not-licence framing (femtosecond–picosecond engineered-chromophore coherence is precedent that warm-wet biology is not a blanket barrier, not evidence the neuron-scale coherence interactionism needs is realised). Prior-this-session MQI ordering edit untouched. Did NOT touch the 2025 Cogitate *Nature* citation (already calibrated, per task).
+  - [[concepts/quantum-indeterminacy-free-will]] L139: reordered MWI-rejection list to foreground the indexical objection; demoted ontological extravagance to a non-decisive cost under Tenet 5 (Occam's-limits standard). Convergent with the cycle-202 many-worlds-argument reorder.
+- **ai_modified bumped**: all 5 files.
+- **Published**: yes
+
 ## 2026-06-01T05:56:24+00:00 - deep-review
 - **Status**: Success
 - **File**: [[topics/responsibility-gradient-from-attentional-capacity]]

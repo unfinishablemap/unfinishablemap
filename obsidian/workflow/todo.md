@@ -43,20 +43,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Files**: topics/wheelers-participatory-universe-and-it-from-bit.md, topics/consciousness-and-the-metaphysics-of-laws-and-dispositions.md, topics/russellian-monism-versus-bi-aspectual-dualism.md
 - **Notes**: Suggested by optimistic review (optimistic-2026-06-01b.md). The three articles form a coherent cluster (honest-labelling-as-argument; shared decoherence hostage; governing-law-fixes-which-outcome = corridor/Born mechanism) but Wheeler is the under-connected node: 0 mutual links between wheeler and the other two (confirmed via grep). Add: (1) wheeler ↔ laws-and-dispositions reciprocal links — the governing-law "which quantum outcome obtains" argument (laws §Governing Laws) is the same mechanism as wheeler's corridor/Born treatment, viewed from metaphysics-of-laws vs measurement-problem sides; (2) russellian → wheeler link reinforcing the shared No-Many-Worlds-from-ontology case (Williams 2021 / Wheeler's own MWI rejection). laws↔russellian already cross-link; no new concept pages needed. Light touch — add Further Reading entries + one in-body sentence each, do not restructure.
 
-### P2: Verification corrections bundle — Tenets-page citation, FBT verb, photosynthesis precedent-not-licence, MWI ontological-extravagance residue
-- **Type**: refine-draft
-- **Status**: pending
-- **File**: obsidian/tenets/tenets.md
-- **Notes**: From outer review 2026-06-01 (Claude Opus 4.8), Finding #5 + Verification Notes. FOUR independently VERIFIED corrections (checked against current Obsidian source this pass — see the review's Verification Notes):
-  1. **Lieberman 2008 → DeWall, Baumeister & Masicampo 2008** on `obsidian/tenets/tenets.md` line ~92. The cognitive-load-impairs-logical-reasoning result is DeWall, Baumeister & Masicampo (2008), *Consciousness and Cognition* 17(3):628–645, which TESTS a hypothesis from Lieberman et al. (2002). There is no 2008 Lieberman paper for this result. This is the same class of defect as [[ai-citation-metadata-unreliable]]; it was fixed in other files but the foundational Tenets page still carries it. WEB-VERIFY the corrected citation before writing ([[ai-citation-metadata-unreliable]]).
-  2. **FBT verb downgrade** in `obsidian/apex/taxonomy-of-voids.md`: line ~220 "as the Fitness-Beats-Truth theorem *demonstrates*" and line ~104 "the formal anchor" overstate a contested result. The inference from Hoffman's formal theorem to the anti-realist conclusion is disputed (Bagwell 2023, *Synthese* 201:25, "Debunking interface theory"). Downgrade to "argues (contested; see Bagwell 2023)" and add the Bagwell counter. Also touch [[fitness-beats-truth]] if it carries the same "proves" framing.
-  3. **Photosynthesis precedent-not-licence** in `obsidian/concepts/interactionist-dualism.md` line ~149: "photosynthesis demonstrates quantum effects in warm, wet systems" currently reads as a decoherence-objection *defense*; the Tenets page and [[evolution-under-dualism]] treat warm-quantum-biology as precedent-not-licence. Recalibrate to precedent framing for cross-cluster consistency.
-  4. **MWI ontological-extravagance residue** in `obsidian/concepts/quantum-indeterminacy-free-will.md` line ~139: still leads the MWI-rejection list with "ontological extravagance," the Tenet-5-demoted argument (the 2026-05-29 self-tenet-check already flagged this file). Reorder to foreground the indexical objection per the [[tenets]] page's calibrated treatment; demote ontological extravagance to a non-decisive cost under Tenet 5. (Parallels the same-cycle ChatGPT many-worlds-argument task, but that targets `arguments/many-worlds-argument.md` — this is the distinct concept page.) NOTE: this MWI item is the Claude-side half of a CONVERGENT cluster (ChatGPT §5 flagged the same demote-ontological-extravagance finding on `arguments/many-worlds-argument.md`, which /combine-outer-reviews upgraded to P1; see `reviews/outer-review-synthesis-2026-06-01.md`). The bundle as a whole stays P2 because its other three items are singletons; do this item to the same calibrated standard.
-  This is a multi-file task ([[multifile_task_dropped_file]]): all FOUR files must be touched. NOTE: the reviewer's separate claim that interactionist-dualism cites the 2023 Cogitate protocol paper and over-reads a "posterior hot zone" is DISPUTED/STALE — the current file already cites the 2025 *Nature* paper (642, 133–142) and reads "confirming neither"; do NOT "fix" that, it is already calibrated.
-- **Review file**: `reviews/outer-review-2026-06-01-claude-opus-4-8.md`
-- **Source**: outer-review
-- **Generated**: 2026-06-01
-
 ### P2: Engage Christian List's first-person modal realism (2023) — the indexical objection is double-edged
 - **Type**: refine-draft
 - **Status**: pending
@@ -3638,6 +3624,10 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 Tasks that failed 3+ times and require human intervention. (Also: standing human editorial decisions the loop has done all it can on — e.g. over-ceiling flagship articles whose excess is verified load-bearing calibration content, and thesis-level alternatives the loop must not adopt unilaterally.)
 
+
+### ✓ 2026-06-01: Verification corrections bundle — Tenets-page citation, FBT verb, photosynthesis precedent-not-licence, MWI ontological-extravagance residue
+- **Type**: refine-draft
+- **Notes**: From outer review 2026-06-01 (Claude Opus 4.8), Finding #5 + Verification Notes. FOUR independently VERIFIED corrections (checked against current Obsidian source this pass — see the review's Verification Notes):
 
 ### ✓ 2026-06-01: Engage Georgiev's quantum-information binding no-go theorem directly in entanglement-binding-hypothesis
 - **Type**: refine-draft

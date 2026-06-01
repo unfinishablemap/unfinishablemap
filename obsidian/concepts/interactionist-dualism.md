@@ -4,7 +4,7 @@ description: "Mind and body are distinct yet causally connected. Quantum indeter
 created: 2026-01-14
 modified: 2026-01-31
 human_modified: null
-ai_modified: 2026-06-01T00:00:00+00:00
+ai_modified: 2026-06-01T05:58:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -146,7 +146,7 @@ Beyond *where* consciousness interfaces with physics, interactionism must specif
 
 ## The Decoherence Objection
 
-Critics argue brain quantum effects decohere too fast (~10^-13 seconds by Tegmark's calculation). Responses: the Zeno effect doesn't require long coherence; Hameroff challenged Tegmark's parameters; photosynthesis demonstrates quantum effects in warm, wet systems. Crucially, [[decoherence]] explains basis selection but not why *this particular* outcome occurs—consciousness could bias outcomes even after decoherence. Even granting the decoherence concern, the chain from quantum-scale influence to macroscopic neural effect passes through regimes where chaotic dynamics make the pathway structurally untraceable—the [[amplification-void|amplification void]]. The Map takes no position on which quantum mechanism is *correct*, only that some interface exists — though it prefers the post-decoherence-selection framing on tenet-fit grounds (see the [[comparing-quantum-consciousness-mechanisms#preference-ordering|preference ordering]]), precisely because it does not require coherence to survive the decoherence the objection invokes.
+Critics argue brain quantum effects decohere too fast (~10^-13 seconds by Tegmark's calculation). Responses: the Zeno effect doesn't require long coherence; Hameroff challenged Tegmark's parameters; quantum biology (photosynthetic light-harvesting, avian magnetoreception) shows that functionally relevant quantum effects can occur in warm, wet systems. That precedent establishes that warm-wet biology is not a blanket barrier to quantum effects—but it is precedent, not licence: the photosynthetic cases involve femtosecond-to-picosecond coherence at engineered chromophore sites, and nothing in them shows that the much longer-lived, neuron-scale coherence interactionism would need is realised in the brain. The work of arguing for that remains to be done. Crucially, [[decoherence]] explains basis selection but not why *this particular* outcome occurs—consciousness could bias outcomes even after decoherence. Even granting the decoherence concern, the chain from quantum-scale influence to macroscopic neural effect passes through regimes where chaotic dynamics make the pathway structurally untraceable—the [[amplification-void|amplification void]]. The Map takes no position on which quantum mechanism is *correct*, only that some interface exists — though it prefers the post-decoherence-selection framing on tenet-fit grounds (see the [[comparing-quantum-consciousness-mechanisms#preference-ordering|preference ordering]]), precisely because it does not require coherence to survive the decoherence the objection invokes.
 
 ## Agent Causation: The Metaphysical Framework
 

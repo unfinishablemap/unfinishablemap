@@ -4,7 +4,7 @@ description: "Hoffman, Singh & Prakash's formal proof that natural selection fav
 created: 2026-03-15
 modified: 2026-05-19
 human_modified:
-ai_modified: 2026-05-19T22:07:14+00:00
+ai_modified: 2026-06-01T05:58:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -28,7 +28,7 @@ last_deep_review: 2026-05-19T22:07:14+00:00
 
 The Fitness-Beats-Truth (FBT) theorem, proved by Donald Hoffman, Manish Singh, and Chetan Prakash, establishes that natural selection systematically favours perceptual strategies tuned to fitness payoffs over strategies tuned to objective truth. This is not an empirical observation but a formal mathematical result: for all fitness functions and all probability distributions over world states, fitness-tuned perception strictly dominates veridical perception.
 
-Evolutionary game theory simulations confirm the result—"truer perceptions are routinely driven to extinction by perceptions tuned to relevant fitness functions" (Prakash et al. 2021). The theorem has direct consequences for philosophical arguments that invoke parsimony or intuitive plausibility, because it demonstrates that our sense of what reality looks like reflects survival value rather than metaphysical accuracy.
+Evolutionary game theory simulations confirm the result—"truer perceptions are routinely driven to extinction by perceptions tuned to relevant fitness functions" (Prakash et al. 2021). The theorem has direct consequences for philosophical arguments that invoke parsimony or intuitive plausibility, because it argues that our sense of what reality looks like reflects survival value rather than metaphysical accuracy. The strength of those consequences is contested: critics hold that the skeptical conclusion Hoffman draws from the formal result is self-defeating (Bagwell 2023, *Synthese* 201:25), so the Map treats the downstream metaphysical payload as argued-but-contested even while granting the game-theoretic result at its bounded site (see [[#contestation-and-limits|Contestation and Limits]]).
 
 ## The Formal Result
 
@@ -59,6 +59,8 @@ The FBT theorem is sometimes confused with weaker claims it supersedes:
 ## Contestation and Limits
 
 The FBT theorem has faced several lines of criticism.
+
+**The self-defeat objection.** Bagwell (2023, *Synthese* 201:25) argues that the evolutionary debunking Hoffman builds on the theorem is self-defeating: the argument that perception is non-veridical relies on evolutionary premises that are themselves perceptually and cognitively mediated, and an appeal to Universal Darwinism to escape this leads to a fatal dilemma for the view. This is a challenge to the *interpretive scope* Hoffman gives the formal result rather than to the game-theoretic mathematics, but it is the reason the Map treats FBT's metaphysical consequences as contested rather than settled.
 
 **The structural realism objection.** Some philosophers argue that even if perception is not veridical about surface features, it must preserve structural relations in reality—otherwise organisms could not reliably interact with their environment. If a predator is always perceived as dangerous regardless of its colour, the structural relation (predator → danger) tracks something real even if the representation is non-veridical. This would limit how far perception can depart from truth and, crucially, might preserve enough structural accuracy for parsimony judgments about explanatory structure to remain reliable even if judgments about surface features are not. Hoffman's response is that fitness-tuned strategies can exploit structural regularities without *representing* them—the interface can be functionally reliable without being structurally isomorphic to reality.
 

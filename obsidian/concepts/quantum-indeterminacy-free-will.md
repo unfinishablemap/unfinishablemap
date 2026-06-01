@@ -4,7 +4,7 @@ description: "How quantum mechanics creates logical space for libertarian free w
 created: 2026-01-19
 modified: 2026-01-20
 human_modified: null
-ai_modified: 2026-05-27T08:30:00+00:00
+ai_modified: 2026-06-01T05:58:00+00:00
 draft: false
 topics:
   - "[[topics/free-will]]"
@@ -136,7 +136,7 @@ The Map's [[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]] te
 
 ## Many-Worlds: The Alternative Rejected
 
-The [[concepts/many-worlds|many-worlds interpretation]] denies collapse occurs—every possibility actualizes in branching universes. The Map's [[tenets#^no-many-worlds|No Many Worlds]] tenet rejects this for ontological extravagance, the indexical problem, the probability problem, and for eliminating any role for consciousness. See [[concepts/many-worlds]] for the full case.
+The [[concepts/many-worlds|many-worlds interpretation]] denies collapse occurs—every possibility actualizes in branching universes. The Map's [[tenets#^no-many-worlds|No Many Worlds]] tenet rejects this primarily on the indexical problem—MWI cannot say why *this* branch is the one experienced—reinforced by the probability problem and by its eliminating any role for consciousness. Ontological extravagance is registered as a cost rather than the decisive objection: under [[tenets#^occams-limits|Occam's Razor Has Limits]] the Map does not treat the sheer number of posited worlds as settling the matter, since simplicity is an unreliable guide where knowledge is incomplete. See [[concepts/many-worlds]] for the full case.
 
 For free will specifically: MWI means every choice *and* its alternatives are all made. "You" choose both A and B in different branches—no genuine authorship because nothing was actually selected. If collapse is real and consciousness participates in it, the quantum opening for free will exists. If MWI is true, indeterminism means branching, not freedom.
 
