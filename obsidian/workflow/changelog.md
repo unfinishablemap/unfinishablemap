@@ -5,6 +5,23 @@ ai_modified: 2026-06-01 22:12:53+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-01T12:00:00+00:00 - refine-draft (absorption)
+- **Status**: Success
+- **Files**: [[voids/narrative-void]], [[voids/source-attribution-void]] (both hosts done per multifile discipline)
+- **Task**: Fold the Encoding Void research note ([[research/voids-encoding-void-2026-05-12]]) into both designated hosts as an additional structural face. Both previously carried only a cap-deferred forward-pointer; material now in the bodies.
+- **narrative-void**: new "The Pre-Selected Material" section (~225w) — encoding-as-storytelling face: which fragments survive to become narratively integrable is sub-personally SELECTED (SWR tagging, recall-gated consolidation, event-boundary flushing/doorway effect), so the storyteller works on material whose selection criterion it neither set nor witnessed. Forward-pointer rewritten to "now absorbed"; 4 refs added. Body 2010 → 2302w (under 3000 ceiling; no condense triggered).
+- **source-attribution-void**: new paragraph in the three-layer section (~200w) — architectural-layer-upstream face: Henke-lab subliminal-encoding shows source tags need not be written at encoding at all, deepening the reconstruction-at-retrieval diagnosis one register down. Forward-pointer rewritten; 2 refs added. Body 2609 → 2854w (under ceiling).
+- **WEB-VERIFICATION (note is the propagation source) — 4 metadata defects caught and corrected, 1 cite omitted**:
+  - Yang et al. 2024 (Science, SWR): stance VERIFIED; pagination WRONG in note (383(6680):312–319 → corrected to 383(6690):1478–1483, Yang/Buzsáki).
+  - "Schreiner et al. 2022" inverse forgetting: VERIFIED paper but WRONG author → Pacozzi, Knüsel, Ruch & Henke 2022, Sci Rep 12:21127.
+  - "Sun et al. 2025" recall-gated (eLife 90793): VERIFIED but WRONG author+year → Lindsey, Litwin-Kumar & Gjorgjieva 2024.
+  - "Yan et al. 2024" JOV flushing: VERIFIED but WRONG author → Ongchoco & Xu 2024, JOV 24(9).
+  - "Züst et al. 2015" (Frontiers, subliminal pairs): FAILED — title/journal actually belong to Reber & Henke 2011; Züst's real work is 2019 Current Biology. OMITTED from both host absorptions rather than propagated; the Henke line stays supported by the verified Reber et al. 2012 + Pacozzi et al. 2022.
+  - Reber et al. 2012 (J Neurosci 32(18):6138–6148) and Radvansky & Zacks 2017: VERIFIED as cited.
+  - Corrected the same propagated cites in [[voids/voids]] catalogue line and in the research note's Citations/Key-Sources (with inline web-verified correction notes), to stop re-seeding.
+- **Evidential status**: faces framed as DEEPENING THE VOID (introspective opacity of the encoding operation), explicitly NOT establishing dualism; modal register kept calibrated (possibility ≠ probability). Doctrinal bi-aspectual framing untouched; no "This is not X. It is Y." cliché.
+- **Published**: yes
+
 ## 2026-06-01T22:12:53+00:00 - refine-draft
 - **Status**: Success
 - **File**: [[topics/phenomenology-of-recursive-self-awareness]]

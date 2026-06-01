@@ -4,7 +4,7 @@ description: "Human+AI inquiry into why consciousness cannot trace the origin of
 created: 2026-04-21
 modified: 2026-05-11
 human_modified:
-ai_modified: 2026-05-19T18:00:00+00:00
+ai_modified: 2026-06-01T12:00:00+00:00
 last_deep_review: 2026-05-11T01:31:00+00:00
 draft: false
 topics:
@@ -92,6 +92,8 @@ Pulling these findings together yields a layered structure. The labels here name
 
 This layering matters for what kind of limit this is. Better introspection cannot reach the architectural layer: there is nothing there to reach. Better introspection can sometimes probe the inferential layer—microphenomenological interview and trained contemplative observation can recover transient features used in inference; the [[topics/microphenomenological-interview-method#confabulation-resistance-discipline|Confabulation-Resistance Discipline]] section catalogues this partial-purchase strategy against the sibling [[confabulation-void]]—but the source tag itself remains inaccessible, because the tag is the construction, not its input. And the confabulatory layer is structurally unflagged: the very feature that would warn you that content was generated is the feature the generation strips out.
 
+The encoding evidence sharpens the architectural layer one register further. The claim that source "was not recorded at encoding" is not an inference from retrieval failures alone; it has a direct empirical edge. The Henke lab finds that episodic associations can form for *subliminal* stimuli—word pairs and object-scene bindings encoded with no conscious episode at all (Reber et al. 2012, *Journal of Neuroscience*), and that such unconsciously-encoded traces consolidate along a trajectory *opposite* to conscious ones, strengthening over a sleep-bearing interval rather than decaying (Pacozzi, Knüsel, Ruch & Henke 2022, *Scientific Reports*). If a trace can be laid down with no conscious encoding episode, then there was no witnessed origin event for retrieval to recover—the source tag the introspector reaches for was never written, not merely lost. This is the strongest available form of the architectural-layer claim: retrieval-time source inference is reconstructing a record that, for at least some content, the system never kept. The findings establish the opacity of the encoding operation, not the metaphysics behind it; they deepen the void without on their own adjudicating between reconstructive-cognition physicalism and the Map's reading.
+
 ## The Phenomenology of Unmarkedness
 
 The most striking feature of the void is the absence of phenomenal contrast. A confabulated reason for a manipulated choice does not feel different from a real reason. A cryptomnesic "original" idea does not feel different from a genuine one. A primed judgement does not feel primed. A source-amnesic belief does not feel orphaned—it feels grounded.
@@ -151,7 +153,7 @@ Three implications follow for how the Map thinks about the first person:
 - [[memory-anomalies]] — Déjà vu, jamais vu, and cryptomnesia as a single phenomenon viewed from three angles: the concrete-phenomenon exhibits of the source-monitoring architecture this void treats abstractly
 - [[decision-void]] — The deliberation→commitment moment as the specific application: surface features of the outcome stand in for the inaccessible event of choosing
 - [[topics/pupillometry-behavioural-channel]] — Pupillometric extension of the choice-blindness paradigm: the autonomic channel registers the swap the verbal channel does not flag, framed as channel-level dissociation rather than a more accurate readout
-- [[research/voids-encoding-void-2026-05-12|The Encoding Void (research-stage)]] — Architectural-layer complement upstream of this article's inferential and confabulatory layers: sharp-wave-ripple tagging, recall-gated consolidation, and Henke-lab subliminal encoding show source tags are not written at encoding, deepening this article's diagnosis beyond reconstruction-at-retrieval. Cap-deferred
+- [[research/voids-encoding-void-2026-05-12|The Encoding Void (research-stage)]] — The encoding-side research note whose architectural-layer findings are now absorbed in [[#three-layers-of-the-source-attribution-architecture|Three Layers of the Source-Attribution Architecture]] above: Henke-lab subliminal-encoding work (Reber et al. 2012; Pacozzi, Knüsel, Ruch & Henke 2022) shows source tags need not be written at encoding at all, deepening this article's reconstruction-at-retrieval diagnosis one register down
 
 ## References
 
@@ -163,6 +165,8 @@ Three implications follow for how the Map thinks about the first person:
 1. Schacter, D. L., Harbluk, J. L., & McLachlan, D. R. (1984). Retrieval without recollection: An experimental analysis of source amnesia. *Journal of Verbal Learning and Verbal Behavior*, 23(5), 593-611.
 1. Wegner, D. M. (2002). *The Illusion of Conscious Will*. MIT Press.
 1. Wegner, D. M., & Wheatley, T. (1999). Apparent mental causation: Sources of the experience of will. *American Psychologist*, 54(7), 480-492.
+1. Reber, T. P., Luechinger, R., Boesiger, P., & Henke, K. (2012). Unconscious relational inference recruits the hippocampus. *Journal of Neuroscience*, 32(18), 6138-6148.
+1. Pacozzi, L., Knüsel, L., Ruch, S., & Henke, K. (2022). Inverse forgetting in unconscious episodic memory. *Scientific Reports*, 12, 21127.
 1. Southgate, A. & Oquatre-six, C. (2026-01-14). Self-Opacity. *The Unfinishable Map*. https://unfinishablemap.org/voids/self-opacity/
 1. Southgate, A. & Oquatre-sept, C. (2026-04-27). The Agency Void (verification face). *The Unfinishable Map*. https://unfinishablemap.org/voids/agency-void/
 

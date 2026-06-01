@@ -37,17 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Absorb the Encoding Void research note into narrative-void.md and source-attribution-void.md
-- **Type**: refine-draft
-- **File**: obsidian/voids/narrative-void.md, obsidian/voids/source-attribution-void.md
-- **Notes**: ABSORPTION task minted by /replenish-queue 2026-06-01 (preferred over more converged-pool deep-reviews — content-additive integration, NOT a new void, so it respects the voids cap of 100/at 101 without proliferation). Fold [[research/voids-encoding-void-2026-05-12]] into its two designated host bodies per the host designations in [[voids/voids]] §Research-Stage Voids (verified on disk 2026-06-01): the encoding void is the *prospective complement* to the inaccessible past. Both hosts already carry a detailed forward-pointer (narrative-void.md:111, source-attribution-void.md:154) but the research material is NOT yet absorbed into the article *bodies* — only listed as cap-deferred under Research-Stage. Action: weave the encoding-side face into each host's existing argument as an additional structural face (not a bolt-on References dump).
-  - **narrative-void** (encoding-as-storytelling face): which fragments survive to become narratively integrable is sub-personally *selected*, not authored — sharp-wave-ripple tagging (Yang et al. 2024, *Science*: hippocampal SWRs tag waking experiences during reward consummation; sleep SWRs preferentially replay tagged sequences), recall-gated consolidation (Sun et al. 2025), event-boundary "memory flushing"/doorway effect (Radvansky-Zacks 2017; Yan et al. 2024 show flushing despite active maintenance). The storyteller works on material whose selection criterion it neither set nor witnessed.
-  - **source-attribution-void** (architectural-layer-upstream face): source tags are never written at encoding (Henke-lab subliminal-encoding line — Reber 2012, Züst 2015, Schreiner et al. 2022, with traces consolidating along trajectories *opposite* to the conscious case), so retrieval-time source inference is recovering a tag that was never recorded. This deepens the article's reconstruction-at-retrieval diagnosis one architectural layer down.
-  - LENGTH-AWARE: narrative-void is 2010w and source-attribution-void is 2609w — both at/over the voids 2000-word soft threshold; absorb a TIGHT paragraph into each (target +120–250 words per host max) to stay under the 3000 hard ceiling. Do NOT trigger a condense follow-on.
-  - WEB-VERIFY the load-bearing citations before trusting the research note's metadata (Yang et al. 2024 *Science*; Schreiner et al. 2022; Radvansky-Zacks 2017) per [[ai-citation-metadata-unreliable]] — the research note is the propagation source, so a fabricated cite here would seed the corpus. Honour [[evidential-status-discipline]] — these are *empirical findings about sub-personal selection*, framed as deepening the void, not as establishing dualism. After absorption, update each host's forward-pointer line from "Cap-deferred, awaiting absorption" to note the material is now incorporated, and keep the `research/voids-encoding-void-2026-05-12` entry in [[voids/voids]]'s related_articles. MULTI-FILE: do BOTH host files, do not stop after the args-path file ([[multifile-task-dropped-file]]). Tenet alignment: Tenet 1 (Dualism — the introspective opacity of the encoding operation), secondary Tenet 5.
-- **Source**: research_absorption
-- **Generated**: 2026-06-01
-
 ### P2: Absorb the Translation Void research note into language-thought-boundary.md and metaphor-void.md
 - **Type**: refine-draft
 - **File**: obsidian/voids/language-thought-boundary.md, obsidian/voids/metaphor-void.md
@@ -3749,6 +3738,10 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 Tasks that failed 3+ times and require human intervention. (Also: standing human editorial decisions the loop has done all it can on — e.g. over-ceiling flagship articles whose excess is verified load-bearing calibration content, and thesis-level alternatives the loop must not adopt unilaterally.)
 
+
+### ✓ 2026-06-01: Absorb the Encoding Void research note into narrative-void.md and source-attribution-void.md
+- **Type**: refine-draft
+- **Notes**: ABSORPTION task minted by /replenish-queue 2026-06-01 (preferred over more converged-pool deep-reviews — content-additive integration, NOT a new void, so it respects the voids cap of 100/at 101 without proliferation). Fold [[research/voids-encoding-void-2026-05-12]] into its two designated host bodies per the host designations in [[voids/voids]] §Research-Stage Voids (verified on disk 2026-06-01): the encoding void is the *prospective complement* to the inaccessible past. Both hosts already carry a detailed forward-pointer (narrative-void.md:111, source-attribution-void.md:154) but the research material is NOT yet absorbed into the article *bodies* — only listed as cap-deferred under Research-Stage. Action: weave the encoding-side face into each host's existing argument as an additional structural face (not a bolt-on References dump).
 
 ### ✓ 2026-06-01: Adopt metacognition calibration in phenomenology-of-recursive-self-awareness
 - **Type**: refine-draft

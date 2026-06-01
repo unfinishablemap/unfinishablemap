@@ -3,7 +3,7 @@ title: "Research Notes - Voids: The Encoding Void"
 created: 2026-05-12
 modified: 2026-05-12
 human_modified: null
-ai_modified: 2026-05-12T02:18:00+00:00
+ai_modified: 2026-06-01T12:00:00+00:00
 draft: false
 target_section: voids
 topics: []
@@ -86,7 +86,9 @@ The Unfinishable Map already maps the retrieval-side opacity of episodic memory 
 - **Tenet alignment**: Strongest connection to **Occam's Razor Has Limits** — the "simple" introspective claim ("I remembered what I tried to remember") is contradicted by a layered, value-gated, sleep-mediated selection apparatus that the introspector cannot observe.
 - **Quote**: "Due to competition for shared neural resources, encoding and consolidation may be incompatible cognitive processes."
 
-### Henke lab — Reber et al. (2012), Züst et al. (2015), Schreiner et al. (2022), "Subliminal encoding and flexible retrieval of objects in scenes"
+### Henke lab — Reber et al. (2012); Pacozzi, Knüsel, Ruch & Henke (2022), subliminal encoding and inverse forgetting
+
+> **Citation correction (web-verified 2026-06-01):** the "inverse forgetting" paper is **Pacozzi, Knüsel, Ruch & Henke (2022)**, *Scientific Reports* 12, 21127 — earlier drafts of this note misattributed it to "Schreiner et al." (the name "Schreiner" appears below in the original text; read those as Pacozzi et al. 2022). The separately-listed "Züst et al. (2015), *Frontiers in Psychology*, Rapid formation and flexible expression of memories of subliminal word pairs" was a conflation: that title and journal belong to **Reber & Henke (2011)**, *Frontiers in Psychology*. Züst's own subliminal-learning work is 2019, *Current Biology* (a different title). The conflated "Züst 2015" cite was therefore **omitted** from the host-article absorptions rather than propagated.
 
 - **URLs**:
   - https://pmc.ncbi.nlm.nih.gov/articles/PMC6282531/
@@ -236,12 +238,12 @@ The absorption pattern parallels the three 2026-05 research-stage voids (transla
 - Kurby, C. A., & Zacks, J. M. (2008). Segmentation in the perception and memory of events. *Trends in Cognitive Sciences*, 12(2), 72–79.
 - Radvansky, G. A., & Zacks, J. M. (2017). Event boundaries in memory and cognition. *Current Opinion in Behavioral Sciences*, 17, 133–140.
 - Reber, T. P., Luechinger, R., Boesiger, P., & Henke, K. (2012). Unconscious relational inference recruits the hippocampus. *Journal of Neuroscience*, 32(18), 6138–6148.
-- Schreiner, T., et al. (2022). Inverse forgetting in unconscious episodic memory. *Scientific Reports*, 12, 21127.
+- Pacozzi, L., Knüsel, L., Ruch, S., & Henke, K. (2022). Inverse forgetting in unconscious episodic memory. *Scientific Reports*, 12, 21127. [Web-verified 2026-06-01: prior "Schreiner et al." attribution was incorrect.]
 - Stickgold, R. (2005). Sleep-dependent memory consolidation. *Nature*, 437(7063), 1272–1278.
-- Sun, J., et al. (2025). Selective consolidation of learning and memory via recall-gated plasticity. *eLife*, 14, e90793.
+- Lindsey, J. W., Litwin-Kumar, A., & Gjorgjieva, J. (2024). Selective consolidation of learning and memory via recall-gated plasticity. *eLife*, 14, e90793. [Web-verified 2026-06-01: prior "Sun et al. 2025" attribution and year were incorrect.]
 - Tulving, E. (1972). Episodic and semantic memory. In *Organization of Memory* (Tulving & Donaldson, eds.), Academic Press.
 - Tulving, E., & Thomson, D. M. (1973). Encoding specificity and retrieval processes in episodic memory. *Psychological Review*, 80(5), 352–373.
 - Wahlheim, C. N., et al. (2023). Here it comes: Active forgetting triggered even just by anticipation of an impending event boundary. *Psychonomic Bulletin & Review*.
-- Yan, J., et al. (2024). Visual event boundaries trigger forgetting despite active maintenance in visual working memory. *Journal of Vision*, 24(9).
-- Yang, W., et al. (2024). Selection of experience for memory by hippocampal sharp wave ripples. *Science*, 383(6680), 312–319.
-- Züst, M. A., et al. (2015). Rapid formation and flexible expression of memories of subliminal word pairs. *Frontiers in Psychology*.
+- Ongchoco, J. D. K., & Xu, Y. (2024). Visual event boundaries trigger forgetting despite active maintenance in visual working memory. *Journal of Vision*, 24(9). [Web-verified 2026-06-01: prior "Yan et al." attribution was incorrect.]
+- Yang, W., Sun, C., Huszár, R., Hainmueller, T., Kiselev, K., & Buzsáki, G. (2024). Selection of experience for memory by hippocampal sharp wave ripples. *Science*, 383(6690), 1478–1483. [Web-verified 2026-06-01: prior pagination 383(6680), 312–319 was incorrect.]
+- Reber, T. P., & Henke, K. (2011). Rapid formation and flexible expression of memories of subliminal word pairs. *Frontiers in Psychology*, 2, 343. [Web-verified 2026-06-01: this title/journal was previously misattributed to "Züst et al. 2015"; Züst's own subliminal-learning work is 2019, *Current Biology*.]
