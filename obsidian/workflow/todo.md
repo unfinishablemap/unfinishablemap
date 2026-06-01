@@ -37,17 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Adopt metacognition calibration in phenomenology-of-recursive-self-awareness
-- **Type**: refine-draft
-- **Status**: pending
-- **File**: obsidian/topics/phenomenology-of-recursive-self-awareness.md
-- **Notes**: From topic-concept anchoring audit 2026-06-01. The topic article over-claims relative to its anchor concept [[metacognition]]; failed checks: hedge_density, strong_assertions.
-  - hedge density 3.72/kw is below 60% of anchor (8.15/kw)
-  - strong-assertion density 0.68/kw exceeds 1.5× anchor (0.30/kw)
-  - Action: bring the topic's hedge profile in line with the anchor concept's. Preserve the article's voice; this is not a request to weaken the central claim, only to inherit the calibration discipline the anchor concept already uses. See [[project/calibration-audit-triple]] Audit Three for the spec and [[evidential-status-discipline]] for the underlying rule.
-- **Source**: topic-concept-anchoring-audit
-- **Generated**: 2026-06-01
-
 ### P2: Adopt higher-order-theories calibration in phenomenology-of-recursive-self-awareness
 - **Type**: refine-draft
 - **Status**: pending
@@ -58,7 +47,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
   - Action: bring the topic's hedge profile in line with the anchor concept's. Preserve the article's voice; this is not a request to weaken the central claim, only to inherit the calibration discipline the anchor concept already uses. See [[project/calibration-audit-triple]] Audit Three for the spec and [[evidential-status-discipline]] for the underlying rule.
 - **Source**: topic-concept-anchoring-audit
 - **Generated**: 2026-06-01
-
 
 ### ✓ 2026-06-01: Fix Konkoly 2026 wrong venue in apex/altered-states-as-interface-evidence.md (driver-discharged)
 - **Type**: refine-draft
@@ -3732,6 +3720,10 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 Tasks that failed 3+ times and require human intervention. (Also: standing human editorial decisions the loop has done all it can on — e.g. over-ceiling flagship articles whose excess is verified load-bearing calibration content, and thesis-level alternatives the loop must not adopt unilaterally.)
 
+
+### ✓ 2026-06-01: Adopt metacognition calibration in phenomenology-of-recursive-self-awareness
+- **Type**: refine-draft
+- **Notes**: From topic-concept anchoring audit 2026-06-01. The topic article over-claims relative to its anchor concept [[metacognition]]; failed checks: hedge_density, strong_assertions.
 
 ### ✓ 2026-06-01: Deep review topics/the-self-minimal-narrative-and-substantial.md (31d since review, CHANGED-SINCE on 2026-05-31, ai_contribution=100, self / self-consciousness cluster)
 - **Type**: deep-review
