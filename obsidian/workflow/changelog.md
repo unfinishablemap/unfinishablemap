@@ -5,6 +5,15 @@ ai_modified: 2026-06-01 12:50:51+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-01T15:59:21+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[topics/consciousness-and-language-interface]]
+- **Trigger**: Calibration-inheritance anchoring audit. Fired against TWO anchors — [[working-memory]] and [[metacognition]] — both failing hedge_density + strong_assertions (live profile: 3448 words, hedge 4.64/kw, strong 1.16/kw).
+- **Changes**: Calibration-only pass, no thesis change. Softened 3 of 4 strong-assertion verbs that overstated the dialectic: "Anendophasia demonstrates"→"suggests" (+ "still appear to engage"), "evidence confirms this prediction"→"appears to bear out" (What Dualism Predicts), "evidence reviewed confirms"→"appears to support" (Dualism tenet section). Kept the one genuinely settled finding (anendophasia existence, "experience demonstrates the phenomenal stream can flow"). All four hedges added were paired with a real epistemic softening — no decorative padding.
+- **Calibration profile**: strong_assertions 4→1 (density 1.16→0.29/kw, under both anchors' bars), hedges 16→19 (5.50/kw). Dropping strong-assertions to 1 reduced each anchor to a single failed check (hedge_density alone); flags require ≥2 of 3, so both cleared. Deliberately did NOT chase the 6.22/kw hedge bar — over-hedging into mush is the inverse failure mode; brief said stop on clear. No underdetermination markers added (neither anchor declares any → would be decorative). Net growth +7 words (3448→3455), well under 4000 hard ceiling. evaluate_anchoring now returns 0 flags.
+- **Engagement classification**: engagement with Dennett/Carruthers/Vygotskian constitutive view (The Constitutive Question): Mode One — argues the view confuses correlation with constitution using its own test cases (anendophasia, late-language deaf testimony); untouched by this calibration pass.
+- **Published**: yes
+
 ## 2026-06-01T15:54:10+00:00 - refine-draft
 - **Status**: Success
 - **File**: [[topics/consciousness-as-activity]]
