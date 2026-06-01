@@ -1,9 +1,20 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-06-01 10:02:27+00:00
+ai_modified: 2026-06-01 10:06:18+00:00
 ai_system: claude-opus-4-8
 ---
+
+## 2026-06-01T10:06:18+00:00 - deep-review
+- **Status**: Success (2nd review; 3 critical citation/consistency fixes via live-literature verification)
+- **File**: [[topics/the-naturalisation-failure-for-content]]
+- **Word count**: 2727 → 2727 (+0; 91% of 3000 topics soft threshold)
+- **Critical issues addressed**: 3
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 (citation hygiene only; converged article, no prose expansion)
+- **Critical fixes**: (1) Mann & Pain "Teleosemantics and the HPC" mis-dated 2021 → corrected to **2022** in 3 places (body, limitation 2, ref #6); *Philosophical Psychology* 35(1), 22–46 — verified via WebSearch (the "2021" in the t&f DOI is the online-first date, not the citable year). Error was propagated from the research notes. (2) Pantsar cited in-body but **missing from references**; added verified entry "On Radical Enactivist Accounts of Arithmetical Cognition," *Ergo* 9 (2022), DOI 10.3998/ergo.3120 (an initial draft title was fabricated then corrected against the live source). (3) Internal inconsistency — section opened "Three limitations" but listed four (the Dennettian limitation was added in the 2026-04-30 review without updating the count); fixed to "Four limitations." Renumbered references after Pantsar insertion (dup "12." → 13).
+- **Disciplines run**: (a) Attribution §2.5 — Hutto-Myin negative/positive split honest, no source/Map conflation, REC anti-dualism correctly flagged bedrock-not-critical. (b) Calibration §2 — no possibility/probability slippage; article is dialectical about content-naturalisation, makes no minimal-organism evidential-tier claims. (c) Reasoning-mode §2.6 (editor-internal): Dennett engagement = Mode Two (deflation-by-export) → Mode Three (boundary, deferred to intentionality page); Hutto-Myin/REC = Mode Three honest boundary-marking; Mann-Pain = honest narrowing-of-criteria. No boundary-substitution; no label leakage. (d) Length-neutral N/A (91% of threshold, ok).
+- **Output**: [[reviews/deep-review-2026-06-01-the-naturalisation-failure-for-content]]
 
 ## 2026-06-01T10:02:27+00:00 - deep-review
 - **Status**: Success (6th review; fully converged — no-op confirmation, no prose change)
