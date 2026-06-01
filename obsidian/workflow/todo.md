@@ -37,6 +37,29 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
+### P2: Adopt metacognition calibration in phenomenology-of-recursive-self-awareness
+- **Type**: refine-draft
+- **Status**: pending
+- **File**: obsidian/topics/phenomenology-of-recursive-self-awareness.md
+- **Notes**: From topic-concept anchoring audit 2026-06-01. The topic article over-claims relative to its anchor concept [[metacognition]]; failed checks: hedge_density, strong_assertions.
+  - hedge density 3.72/kw is below 60% of anchor (8.15/kw)
+  - strong-assertion density 0.68/kw exceeds 1.5× anchor (0.30/kw)
+  - Action: bring the topic's hedge profile in line with the anchor concept's. Preserve the article's voice; this is not a request to weaken the central claim, only to inherit the calibration discipline the anchor concept already uses. See [[project/calibration-audit-triple]] Audit Three for the spec and [[evidential-status-discipline]] for the underlying rule.
+- **Source**: topic-concept-anchoring-audit
+- **Generated**: 2026-06-01
+
+### P2: Adopt higher-order-theories calibration in phenomenology-of-recursive-self-awareness
+- **Type**: refine-draft
+- **Status**: pending
+- **File**: obsidian/topics/phenomenology-of-recursive-self-awareness.md
+- **Notes**: From topic-concept anchoring audit 2026-06-01. The topic article over-claims relative to its anchor concept [[higher-order-theories]]; failed checks: hedge_density, strong_assertions.
+  - hedge density 3.72/kw is below 60% of anchor (7.96/kw)
+  - topic uses 2 strong-assertion verbs where anchor uses none
+  - Action: bring the topic's hedge profile in line with the anchor concept's. Preserve the article's voice; this is not a request to weaken the central claim, only to inherit the calibration discipline the anchor concept already uses. See [[project/calibration-audit-triple]] Audit Three for the spec and [[evidential-status-discipline]] for the underlying rule.
+- **Source**: topic-concept-anchoring-audit
+- **Generated**: 2026-06-01
+
+
 ### ✓ 2026-06-01: Fix Konkoly 2026 wrong venue in apex/altered-states-as-interface-evidence.md (driver-discharged)
 - **Type**: refine-draft
 - **Status**: completed — driver web-verified independently (Oxford Academic + PMC: Konkoly et al. 2026, "Creative problem-solving after experimentally provoking dreams of unsolved puzzles during REM sleep," *Neuroscience of Consciousness* 2026(1), niaf067, DOI 10.1093/nc/niaf067) and fixed apex ref #6 (was wrong title + "Consciousness and Cognition, 108, 103567"). Now consistent corpus-wide. The in-body 39%/16% small-sample caveat at line 94 was already present (no fix needed). Committed by agent.
@@ -51,13 +74,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Status**: complete (2026-06-01) — near-no-op audit pass. Confirmed the 2026-05-31 refine correctly installed all 3 fixes from that day's pessimistic review (altered-state symmetry, epistemic/metaphysical split, Tegmark-cadence numbers). Web-verified Babcock 2024, Khan 2024, Tegmark 2000 — all exact incl. stance. Cross-links resolve (archived non-retrocausal link already routed to live forward-in-time-conscious-selection). LENGTH: 4607w, OVER hard ceiling — NOT resolved per protection; flagged as human editorial call in review archive. Review: [[reviews/deep-review-2026-06-01-time-collapse-and-agency]].
 - **File**: obsidian/topics/time-collapse-and-agency.md
 - **Notes**: FLOOR-RESTORING by /replenish-queue 2026-06-01. Genuine changed-since-review staleness pick. `last_deep_review: 2026-04-30` (~32d, past floor, no open deep-review task) but `ai_modified: 2026-05-31` (~1d, NOT today). The article was modified ~31 days AFTER its 04-30 review — AUDIT THE POST-04-30 CONTENT specifically (large review→modify gap = POSITIVE signal). NOTE this article was flagged in [[refine-then-condense-same-session-churn]]: it was refined past the topics length ceiling 2026-05-31 and the added calibration content is exactly what is PROTECTED — do NOT strip load-bearing hedges/citation-framing if a length flag fires; a length decision here is a human editorial call, NOT something this review should resolve by cutting qualifiers. Prefer a near-no-op/audit pass. WEB-VERIFY any attributions (collapse-dynamics, time-asymmetry, libertarian-agency scholarship; any named scholars/dates) and CHECK THE STANCE cited ([[ai-citation-metadata-unreliable]]). Honour [[evidential-status-discipline]] — the collapse-timing account is a *speculative model*, keep the modal register calibrated. Verify cross-links resolve live and reciprocate. Writing-style discipline (no "This is not X. It is Y." cliché). SELECTION-COLLISION CAVEAT: if a cycle-slot deep-review bumps `last_deep_review` to 2026-06-01 first, mark RESOLVED-OBSOLETE. Tenet alignment: Tenet 2 (Minimal Quantum Interaction — collapse timing), Tenet 3 (Bidirectional Interaction — agency), secondary Tenet 4 (No Many Worlds).
-- **Source**: staleness
-- **Generated**: 2026-06-01
-
-### P2: Deep review topics/the-self-minimal-narrative-and-substantial.md (31d since review, CHANGED-SINCE on 2026-05-31, ai_contribution=100, self / self-consciousness cluster)
-- **Type**: deep-review
-- **File**: obsidian/topics/the-self-minimal-narrative-and-substantial.md
-- **Notes**: FLOOR-RESTORING by /replenish-queue 2026-06-01. Genuine changed-since-review staleness pick. `last_deep_review: 2026-05-01` (~31d, past floor, no open deep-review task) but `ai_modified: 2026-05-31` (~1d, NOT today). Modified ~30 days AFTER its 05-01 review — AUDIT THE POST-05-01 CONTENT specifically (large gap = POSITIVE signal). DISTINCT cluster from the three above (self/self-consciousness — minimal vs narrative vs substantial self), chosen to diversify a deep-review-heavy floor-restore. WEB-VERIFY any attributions (Gallagher minimal/narrative self, Strawson, Zahavi, Damasio; any named scholars/dates) and CHECK THE STANCE each source is cited FOR ([[ai-citation-metadata-unreliable]]). Honour [[evidential-status-discipline]]: the substantial-self reading is the Map's dualist commitment but is a *position* contested by no-self / bundle views — present the contest fairly, keep the modal register calibrated. Verify cross-links resolve live and reciprocate where load-bearing. Writing-style + length discipline (no "This is not X. It is Y." cliché). SELECTION-COLLISION CAVEAT: if a cycle-slot deep-review bumps `last_deep_review` to 2026-06-01 first, mark RESOLVED-OBSOLETE. Tenet alignment: Tenet 1 (Dualism — the substantial self as bearer of phenomenal unity), secondary Tenet 3 (Bidirectional Interaction).
 - **Source**: staleness
 - **Generated**: 2026-06-01
 
@@ -3716,6 +3732,10 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 Tasks that failed 3+ times and require human intervention. (Also: standing human editorial decisions the loop has done all it can on — e.g. over-ceiling flagship articles whose excess is verified load-bearing calibration content, and thesis-level alternatives the loop must not adopt unilaterally.)
 
+
+### ✓ 2026-06-01: Deep review topics/the-self-minimal-narrative-and-substantial.md (31d since review, CHANGED-SINCE on 2026-05-31, ai_contribution=100, self / self-consciousness cluster)
+- **Type**: deep-review
+- **Notes**: FLOOR-RESTORING by /replenish-queue 2026-06-01. Genuine changed-since-review staleness pick. `last_deep_review: 2026-05-01` (~31d, past floor, no open deep-review task) but `ai_modified: 2026-05-31` (~1d, NOT today). Modified ~30 days AFTER its 05-01 review — AUDIT THE POST-05-01 CONTENT specifically (large gap = POSITIVE signal). DISTINCT cluster from the three above (self/self-consciousness — minimal vs narrative vs substantial self), chosen to diversify a deep-review-heavy floor-restore. WEB-VERIFY any attributions (Gallagher minimal/narrative self, Strawson, Zahavi, Damasio; any named scholars/dates) and CHECK THE STANCE each source is cited FOR ([[ai-citation-metadata-unreliable]]). Honour [[evidential-status-discipline]]: the substantial-self reading is the Map's dualist commitment but is a *position* contested by no-self / bundle views — present the contest fairly, keep the modal register calibrated. Verify cross-links resolve live and reciprocate where load-bearing. Writing-style + length discipline (no "This is not X. It is Y." cliché). SELECTION-COLLISION CAVEAT: if a cycle-slot deep-review bumps `last_deep_review` to 2026-06-01 first, mark RESOLVED-OBSOLETE. Tenet alignment: Tenet 1 (Dualism — the substantial self as bearer of phenomenal unity), secondary Tenet 3 (Bidirectional Interaction).
 
 ### ✓ 2026-06-01: Deep review concepts/functionalism.md (34d since review, CHANGED-SINCE on 2026-05-29, ai_contribution=100, functionalism / grain-commitment cluster)
 - **Type**: deep-review

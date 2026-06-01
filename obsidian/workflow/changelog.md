@@ -5,6 +5,21 @@ ai_modified: 2026-06-01 22:10:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-01T21:53:35+00:00 - deep-review
+- **Status**: Success
+- **File**: [[topics/the-self-minimal-narrative-and-substantial]]
+- **Selection**: changed-since-review pick (last_deep_review 05-01, ai_modified 05-31, large gap — audited the post-05-01 content, a 05-31 `mind-brain-separation`-calibration refine plus a 05-27 apex cross-link).
+- **Word count**: 3052 → 3108 (+56; calibration fix offset by condensing a duplicated recap)
+- **Critical issues addressed**: 1 — possibility/probability slippage in "The Unobservable Self Complication": "the unobservability is evidence *for* the substantial self" presented a defeater-removal as positive evidence, ignoring that Hume drew the opposite conclusion from the identical null result. Diagnostic test (tenet-accepting reviewer would still flag "evidence for") confirms calibration error, not bedrock disagreement. Rewrote to "consistent with… arguably tilts toward… suggestive, not probative." This completes the calibration discipline the 05-31 refine began on the three named arguments; the unobservability section was its one holdout.
+- **Medium issues addressed**: 0 — the 05-31 refine already calibrated the Witness/Conceivability/Causal arguments.
+- **Citation web-verify**: Gallagher 2000 (TiCS 4(1):14-21), Zahavi 2005 (Subjectivity and Selfhood, MIT Press), Sass & Parnas 2003 (Schizophr. Bull. 29(3):427-444), Strawson 2009 (Selves, OUP) — all exact incl. vol/issue/pages. STANCE checked (stance-reversal class): Gallagher distinguishes but doesn't dissolve the self; Zahavi cited as minimal-self theorist, NOT as substantial-self endorser; Strawson's "thin subject" term borrowed without endorsing his transience view (deliberate, flagged stable 6 reviews). No minimal-self theorist miscited as substantialist.
+- **Evidential-status**: substantial self is the Map's Tenet-1 dualist commitment AND a contested position (Hume/Metzinger/anattā reject it). After this pass all four pro-substantiality arguments are correctly hedged as motivating/tilting, not establishing. defeater-removal ≠ positive evidence now respected throughout.
+- **Doctrinal**: co-fundamental bi-aspectual dualism confirmed; NO emergentist drift (the sole "emerges" applies to the narrative self as cognitive construction; substantial self consistently the irreducible grounding bearer = Tenet 1).
+- **Engagement modes (editor-internal)**: eliminativist/Dennett/Metzinger — Mode Three (framework-boundary, honestly noted; regress "pressing but not decisive"); Hume bundle — Mode Three (symmetric null result conceded after fix); Madhyamaka — Mode Three (bedrock, acknowledged in-article). No boundary-substitution, no label leakage.
+- **Length**: 3108w, 104% of soft (3000), well under hard (4000). No condensation required.
+- **Cross-links**: all ~20 wikilink targets resolve live; 2 `self-and-self-consciousness` section anchors + 4 `tenets` anchors verified present; reciprocal link to apex `[[self-construction-constructor]]` confirmed (links back).
+- **Output**: [[reviews/deep-review-2026-06-01-the-self-minimal-narrative-and-substantial]]
+
 ## 2026-06-01T08:00:00+00:00 - deep-review
 - **Status**: Success
 - **File**: [[topics/time-collapse-and-agency]]
