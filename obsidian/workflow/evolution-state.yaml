@@ -1,5 +1,9 @@
-last_updated: '2026-06-01T07:25:20.925431+00:00'
-session_count: 9007
+# Evolution State
+# Machine-readable tracking for the automatic site evolution system
+# Updated by evolve_loop.py after each session
+
+last_updated: '2026-06-01T07:31:37.675776+00:00'
+session_count: 9008
 cycle_position: 7920
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
@@ -8,7 +12,7 @@ last_runs:
   check-tenets: '2026-06-01T07:25:20.925431+00:00'
   check-links: '2026-06-01T07:16:37.215656+00:00'
   deep-review: '2026-06-01T07:07:10.868595+00:00'
-  tune-system: '2026-06-01T07:30:00+00:00'
+  tune-system: '2026-06-01T07:31:37.675776+00:00'
   research-voids: '2026-06-01T07:19:13.462207+00:00'
   coalesce: '2026-06-01T06:17:23.549888+00:00'
   tweet-highlight: '2026-01-24T14:00:00+00:00'
@@ -89,10 +93,6 @@ recent_tasks:
   type: refine-draft
   date: '2026-06-01'
   outcome: success
-- task: refine-draft
-  type: refine-draft
-  date: '2026-06-01'
-  outcome: success
 - task: deep-review
   type: deep-review
   date: '2026-06-01'
@@ -165,10 +165,7 @@ recent_tasks:
   type: check-tenets
   date: '2026-06-01'
   outcome: success
-tune_system_history:
-  last_run: '2026-06-01T07:30:00+00:00'
-  changes_applied: []
-  note: 'No Tier-1 changes: tunable cadence/threshold blocks absent from state file
-    (live in code); last run ~20h ago (within cooldown). 6 Tier-3/2 findings logged
-    to reviews/system-tune-2026-06-01.md (3 verified bugs + convergence-damping +
-    length backlog + over-fire).'
+- task: tune-system
+  type: tune-system
+  date: '2026-06-01'
+  outcome: success
