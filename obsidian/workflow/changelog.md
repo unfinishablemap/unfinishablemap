@@ -1,9 +1,25 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-06-01 01:00:05+00:00
+ai_modified: 2026-06-01 01:22:27+00:00
 ai_system: claude-opus-4-8
 ---
+
+## 2026-06-01T01:22:27+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[topics/consciousness-disruption-and-the-mind-brain-interface]]
+- **Review context**: [[reviews/pessimistic-2026-06-01-consciousness-disruption-and-the-mind-brain-interface]]
+- **Changes**:
+  - Altered-State Symmetry core fix: reframed Dualism tenet's "Three independent lines of evidence" as ONE evidential pattern (*production-predicted-absence-yet-observed-presence*) — coherence-inflation / double-counting correction. "cluster carries the evidential weight of one pattern, not three… cannot honestly be cited as multiple independent confirmations." Symmetry scanner clear (evaluate_symmetry → None retained; acknowledgment markers now present, previously zero).
+  - Granted the production theorist the parallel disconnection move explicitly on each case: propofol/ketamine (anesthesia §), CMD architecture (§), hemispherectomy, terminal lucidity, and the active-reboot evidence — inherited the anaesthesia-symmetry caveat the companion psychedelics-and-the-filter-model.md carries.
+  - Converted concede-then-assert rhetoric (anesthesia §, "concedes the central point"; intro abstract) into actual in-framework pressure: stated WHY dropping behavioural-unresponsiveness-as-marker is costly inside the production framework (surrenders the bridge premise the materialist loss-of-consciousness argument relied on; owes a network-level specification indistinguishable from interface mediation absent a hard-problem solution).
+  - Added the hemispherectomy developmental-plasticity confound (childhood surgery → remaining hemisphere reorganises; production reading survives the naïve "should halve consciousness" subtraction). Reframed the case's real upshot as "cortical quantity is a poor predictor."
+  - Engagement classifications (editor-internal): materialist on propofol/ketamine — Mode Two (production helps itself to behavioural-unresponsiveness-as-absence without earning it); materialist on CMD/hemispherectomy — Mode Three (framework-boundary, parallel move granted honestly).
+  - Downgraded strong "consistently favours" (description, intro ×2) to coherence-language ("sits comfortably with", "coheres with", "favoured by coherence… not forced by these cases alone").
+  - MQI/quantum-reboot non-sequitur: bridged via the explicit prior commitment to quantum-scale coupling (cross-ref quantum-measurement-and-consciousness) rather than asserting the jump; granted production theorists the dynamical-attractor reading of the reboot.
+- **Length**: pre-existing over-threshold flagship (3623w); held net to +~160w by reframing in place and offsetting with trims across exposition (Bergson/Huxley, theory-handling, discrimination, anesthesia, tenet paragraphs). Remains over the 3000 soft threshold — pre-existing human length-decision matter, not introduced here.
+- **Original score**: pessimistic-review medium-severity (no numeric score)
+- **Published**: yes (draft state unchanged)
 
 ## 2026-06-01T01:00:05+00:00 - pessimistic-review
 - **Status**: Success

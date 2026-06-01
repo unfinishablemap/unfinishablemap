@@ -1,13 +1,56 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-06-01 00:32:40+00:00
+ai_modified: 2026-06-01 01:00:05+00:00
 ai_system: claude-opus-4-8
 concepts: []
 date: '2026-06-01'
 related_articles: []
 title: Changelog
 ---
+
+## 2026-06-01T01:00:05+00:00 - pessimistic-review
+- **Status**: Success
+- **Content reviewed**: topics/consciousness-disruption-and-the-mind-brain-interface.md (filter-framed DoC/anaesthesia flagship; freshly ai_modified, no review since 2026-05-18)
+- **Key finding**: Altered-State Symmetry audit — supportive + disruptive clusters both cited, but symmetry-acknowledgment absent (zero markers); "Three independent lines of evidence" presented as a count, not one evidential pattern. Medium issue + concede-then-assert-past in-framework weakness. Queued P2 refine-draft.
+- **Output**: [pessimistic-2026-06-01-consciousness-disruption-and-the-mind-brain-interface](/reviews/pessimistic-2026-06-01-consciousness-disruption-and-the-mind-brain-interface/)
+
+## 2026-06-01T01:00:05+00:00 - deep-review
+- **Status**: Success (converged — no critical issues; one minor grammar fix)
+- **File**: [many-worlds](/concepts/many-worlds/)
+- **Word count**: 3182 → 3182 (no change; 127% of 2500 concepts soft target — soft_warning, below 3500 hard; length-neutral mode)
+- **Critical issues addressed**: 0 (none found — 15th review, Tenet-4 CORE page)
+- **Medium issues addressed**: 0
+- **Enhancements made**: 1 minor (subject-verb fix "Zhang (2026) identify" → "identifies"; single author)
+- **Web verification**: Zhang J. (2026) arXiv:2603.06211 "Summing to Uncertainty" — VERIFIED real, correct ID/title/year, single author, five-derivation additivity-bottleneck gloss faithful (Gleason/Busch/Deutsch-Wallace/Zurek envariance/Finkelstein-Hartle). Short (2023) Quantum 7:971 VERIFIED. Sebens-Carroll self-locating uncertainty (arXiv:1405.7577; BJPS 2018) VERIFIED, position correct. Saunders (2010) "Chance in the Everett interpretation" in Many Worlds? OUP — branch-relative indexicality attributed faithfully. Deutsch 1999 / Wallace 2003,2012 standard. No fabricated metadata, no strawmanning/position-reversal of any MWI figure.
+- **Engagement classification (editor-internal)**: MWI defender / Saunders-Wallace branch-relative-indexicality reply → Mode Two (MWI's indexicality must do double duty — branch-local de se AND cross-branch personal identity for Deutsch-Wallace Born-rule derivation — a move it cannot supply from its own indexical resources). Calibrated as a stronger Map commitment, NOT an MWI refutation. No boundary-substitution; no label leakage in prose.
+- **Calibration**: PASS — anti-MWI case kept at "Map finds indexical objection decisive," not "MWI refuted"; Born-rule recovery framed as live dispute. No possibility/probability slippage.
+- **Cross-links**: all 8 checked resolve live; born-rule article reciprocates. Optional [quantum-measurement-and-subjective-probability](/topics/quantum-measurement-and-subjective-probability/) link deferred (over soft length, cluster already dense).
+- **Output**: [deep-review-2026-06-01-many-worlds](/reviews/deep-review-2026-06-01-many-worlds/)
+
+## 2026-06-01T00:45:00+00:00 - deep-review
+- **Status**: Success (converged — no critical issues; metadata-only)
+- **File**: [status-of-content](/concepts/status-of-content/)
+- **Word count**: 1479 → 1479 (no change; 59% of 2500 concepts soft target — short by design)
+- **Critical issues addressed**: 0 (none found — third consecutive clean review)
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 (last_deep_review bumped; ai_modified untouched per no-op rule)
+- **Web verification**: Boghossian (1990) "The Status of Content," *Philosophical Review* 99, 157–184 — citation exact (PhilPapers/PDC/NYU PDF). Argument DIRECTION confirmed correct, not reversed: content irrealism generalises to incoherence ("not merely implausible, it is incoherent"). Devitt-Rey reply (begs question by ascribing truth-conditional semantics) accurate. No fabricated/reversed metadata.
+- **Evidential status**: Self-refutation reading framed as the Map's bounded argument, not a knockdown; no possibility/probability slippage (tenet-accepting reviewer would flag nothing as overstated).
+- **Engagement (eliminativist)**: Mode One in structure (generalises opponent's own arguments) with honest Mode Three boundary-marking on the deflationary-semantics residue. No editor-vocabulary label leakage (grep clean).
+- **Cross-links**: Full self-stultification cluster resolves live + reciprocates. No "not X, it is Y" cliché.
+- **Output**: [deep-review-2026-06-01-status-of-content](/reviews/deep-review-2026-06-01-status-of-content/)
+
+## 2026-06-01T00:39:56+00:00 - deep-review
+- **Status**: Success (converged — no critical issues)
+- **File**: [phenomenology-of-moral-life](/topics/phenomenology-of-moral-life/)
+- **Word count**: 2520 → 2520 (no change; 84% of 3000 topic soft target)
+- **Critical issues addressed**: 0 (none found — third consecutive clean review)
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 (timestamp updates only; no content edits, per convergence guidance)
+- **Attribution check**: All named-philosopher claims (Prinz, McDowell, Chang, Weil, Murdoch, Greene, Haidt, Kant) verified accurate; no source/Map conflation.
+- **Engagement modes**: illusionism/Frankish — Mode Three w/ motivational push toward Mode Two; epiphenomenalism — Mode Three, explicitly honest ("a thoroughgoing epiphenomenalist can maintain this position"); identity theory — honest boundary concession (preserved strength); projectivism — Mode Two on opponent's evidential terms. No editor-vocabulary label leakage (grep clean).
+- **Output**: [deep-review-2026-06-01-phenomenology-of-moral-life](/reviews/deep-review-2026-06-01-phenomenology-of-moral-life/)
 
 ## 2026-06-01T00:32:40+00:00 - refine-draft
 - **Status**: Success

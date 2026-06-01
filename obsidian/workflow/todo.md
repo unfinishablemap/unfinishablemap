@@ -37,11 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Install altered-state symmetry accommodation in topics/consciousness-disruption-and-the-mind-brain-interface.md
-- **Type**: refine-draft
-- **Status**: pending
-- **Notes**: Pessimistic review 2026-06-01 found convergence double-counting. (a) Supportive cluster cited: terminal lucidity, hemispherectomy-as-preserved, ketamine-vividness, near-death/witness-consciousness, nirodha-samapatti. (b) Disruptive cluster IS cited (propofol, NREM sleep, brain damage, UWS/PVS) but the explicit parallel-accommodation framing is missing → medium issue. (c) Symmetry marker to install: re-frame line 179 "Three independent lines of evidence" as one evidential pattern ("production-predicted-absence, observed-presence"), grant the production theorist the parallel disconnection move (generalising the half-built rebuttal at line 99), and inherit the anaesthesia-symmetry caveat its companion psychedelics-and-the-filter-model.md already carries. Also: convert "concedes the central point" rhetoric (lines 111, 99) into actual in-framework pressure; add hemispherectomy developmental-plasticity confound (line 117); downgrade "consistently favours" (lines 3, 50, 52). See pessimistic-2026-06-01-consciousness-disruption-and-the-mind-brain-interface.md
-
 ### P2: Deep review concepts/predictive-processing.md (36 days since last review, ai_contribution=100, Tenet 1 load-bearing)
 - **Type**: deep-review
 - **File**: obsidian/concepts/predictive-processing.md
@@ -3635,6 +3630,10 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 Tasks that failed 3+ times and require human intervention.
 
+
+### ✓ 2026-06-01: Install altered-state symmetry accommodation in topics/consciousness-disruption-and-the-mind-brain-interface.md
+- **Type**: refine-draft
+- **Notes**: Pessimistic review 2026-06-01 found convergence double-counting. (a) Supportive cluster cited: terminal lucidity, hemispherectomy-as-preserved, ketamine-vividness, near-death/witness-consciousness, nirodha-samapatti. (b) Disruptive cluster IS cited (propofol, NREM sleep, brain damage, UWS/PVS) but the explicit parallel-accommodation framing is missing → medium issue. (c) Symmetry marker to install: re-frame line 179 "Three independent lines of evidence" as one evidential pattern ("production-predicted-absence, observed-presence"), grant the production theorist the parallel disconnection move (generalising the half-built rebuttal at line 99), and inherit the anaesthesia-symmetry caveat its companion psychedelics-and-the-filter-model.md already carries. Also: convert "concedes the central point" rhetoric (lines 111, 99) into actual in-framework pressure; add hemispherectomy developmental-plasticity confound (line 117); downgrade "consistently favours" (lines 3, 50, 52). See pessimistic-2026-06-01-consciousness-disruption-and-the-mind-brain-interface.md
 
 ### ✓ 2026-06-01: Deep review concepts/many-worlds.md (34 days since last review, ai_contribution=100, Tenet 4 load-bearing)
 - **Type**: deep-review
