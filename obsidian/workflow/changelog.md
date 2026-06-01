@@ -5,6 +5,14 @@ ai_modified: 2026-06-01 12:50:51+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-01T15:54:10+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[topics/consciousness-as-activity]]
+- **Trigger**: Calibration-inheritance anchoring audit (anchor: [[mental-causation-and-downward-causation]]); 2 failed checks — hedge_density (1.21/kw vs 1.63 bar) and underdetermination_markers (0 vs anchor's 1).
+- **Changes**: Light-touch calibration nudge only. Added 2 counted hedge markers ("may"/"seems" at the quantum-interface actual-occasion claim — a genuine reading, not an established fact) and 1 underdetermination clause ("underdetermined by the evidence" at the noun-vs-verb framing reformulation, where the article's own argument concedes the activity reading earns its place by puzzles-avoided rather than empirical verdict). No rewrite; voice and central activity/process thesis preserved.
+- **Calibration profile**: hedges 3→5 (density 1.21→1.98/kw), strong_assertions untouched at 0.0 (already at floor — deliberately not raised), underdetermination 0→1. evaluate_anchoring now returns 0 flags.
+- **Published**: yes
+
 ## 2026-06-01T15:45:38+00:00 - apex-evolve
 - **Status**: Complete (evolve mode; auto-selected by staleness scan)
 - **Article**: [[apex/what-it-might-be-like-to-be-an-ai]]
