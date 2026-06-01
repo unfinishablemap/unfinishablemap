@@ -5,6 +5,17 @@ ai_modified: 2026-06-01 09:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-01T19:28:16+00:00 - deep-review
+- **Status**: Success
+- **File**: [[concepts/knowledge-argument]]
+- **Word count**: 2470 → 2470 (0; metadata-only)
+- **Critical issues addressed**: 0 (none found — 9th review, deeply converged)
+- **Medium issues addressed**: 0 (none found)
+- **Audit focus**: 2026-05-25 coalesce change (commit 000b2ab04) verified — single related-article wikilink retarget [[consciousness-and-the-philosophy-of-mathematics]] → [[consciousness-and-mathematics]] landed correctly; target exists, no dangling old-slug refs, all body/anchor links resolve.
+- **Citation web-verify (standing mandate)**: all load-bearing citations verified against primary sources, all correct. Jackson 1982 (Phil Quarterly 32:127-136), Jackson 1986 (J.Phil 83(5):291-295, PDC-confirmed), Jackson recantation ("Mind and Illusion" 2003/2004 MIT, epiphenomenalism causal-self-knowledge ground confirmed), Lewis 1988 (Proc. Russellian Soc. 13:29-57 — confirmed, NOT 29-35), Nagel 1974, Fox et al. 2012 (PLoS ONE 7(9):e45370, exact), Nisbett-Wilson 1977. Cross-corpus divergence grep: article uses standard/majority form, which is the web-verified-correct form.
+- **Calibration check**: no possibility/probability slippage. All strong claims conditionalized ("if sound," "strong evidence but not near-decisive," "strongest when presented conditionally"); recantation fully disclosed; no slide to "proves dualism." Engagement modes (Dennett, illusionism, ability/PCS) honest — Mode One/Two + boundary-marking, no boundary-substitution, no label leakage, no "not X / it is Y" cliché.
+- **Output**: [[reviews/deep-review-2026-06-01-knowledge-argument]]
+
 ## 2026-06-01T19:22:03+00:00 - deep-review
 - **Status**: Success
 - **File**: [[topics/moral-implications-of-genuine-agency]]
