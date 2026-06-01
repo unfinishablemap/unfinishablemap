@@ -5,6 +5,16 @@ ai_modified: 2026-06-01 12:50:51+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-01T05:00:00+00:00 - deep-review
+- **Status**: Success (14th review; converged content, length-driven condensing pass)
+- **File**: [[concepts/introspection]]
+- **Word count**: 3498 → 3366 (−132; off the 3500 concepts hard threshold; now 135% of 2500 soft)
+- **Critical issues addressed**: 0 — attribution re-verified; named-opponent engagements honest (illusionism = Mixed Mode Two→One; critical-phenomenology vs heterophenomenology = Mode Three); no editor-label leakage; `[[metacognition#the-metarepresentation-threshold]]` anchor resolves (post-coalesce).
+- **Medium issues addressed**: 1 — length over hard ceiling. Article had grown +425 words since 2026-04-28 from sibling deep-reviews appending cross-links, crossing the 125% condense-trigger line the prior review set. Condensed length-neutrally: trimmed Further Reading glosses (every link kept), tightened process/content, metarepresentation, self-opacity, meaning-void, and pupillometry passages. No argument or cross-link removed.
+- **Enhancements made**: 0 (length-neutral mode; condensing only, no expansion)
+- **Stability**: Content converged across 14 reviews. Standing risk is length accretion, not content drift — future cross-link additions must be strictly length-neutral or routed to a /condense task rather than another deep-review.
+- **Output**: [[reviews/deep-review-2026-06-01-introspection]]
+
 ## 2026-06-01T12:50:51+00:00 - deep-review
 - **Status**: Success (5th review of a converged article; one real defect the prior 4 missed — two orphaned references — fixed by integration)
 - **File**: [[concepts/temporal-structure-of-understanding]]
