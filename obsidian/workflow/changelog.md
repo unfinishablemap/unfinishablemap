@@ -5,6 +5,16 @@ ai_modified: 2026-06-01 08:46:15+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-01T08:58:01+00:00 - deep-review
+- **Status**: Success (1 critical fixed — physics-citation date error)
+- **File**: [[concepts/spontaneous-collapse-theories]]
+- **Word count**: 2600 → 2632 (+32)
+- **Critical issues addressed**: 1 (Donadi germanium-test mis-dated "2022"; corrected to 2021, named team/lab, added full *Nature Physics* 17:74-78 reference)
+- **Medium issues addressed**: 0
+- **Enhancements made**: 1 (named the experiment team/lab + parameter-free DP model in Experimental Status)
+- **Physics web-verification**: GRW (Phys Rev D 34:470 ✓), CSL (Pearle 1989 Phys Rev A 39:2277 ✓; GPR 1990 Phys Rev A 42:78 ✓), Chalmers-McQueen 2022 ✓, Donadi 2021 ✓ — finding-direction confirmed NULL/constraining (not confirming); adapt-not-adopt + modal calibration intact; no slippage
+- **Output**: [[reviews/deep-review-2026-06-01-spontaneous-collapse-theories]]
+
 ## 2026-06-01T09:00:00+00:00 - refine-draft
 - **Status**: Success
 - **Files**: [[topics/anaesthesia-and-the-consciousness-interface]], [[research/anaesthetic-recovery-neuroscience-2026-03-26]], [[research/consciousness-anesthesia-filter-theory-2026-03-20]]
