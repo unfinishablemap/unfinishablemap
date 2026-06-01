@@ -37,15 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Deep review meta-epistemology-of-limits.md (38 days since last review, ai_contribution=100, never reviewed)
-- **Type**: deep-review
-- **Status**: pending
-- **Relocated**: 2026-06-01 — moved to the top of Active Tasks by /replenish-queue so this floor-restoring P2 is not LIFO-starved behind ~470 P3s (selector sorts by line_number ascending; [[queue-lifo-starvation]]). Original slot now holds a relocation stub.
-- **Promoted**: P3→P2 by /replenish-queue 2026-06-01 to restore the P0–P2 floor (effective actionable count was 2, below the MIN_QUEUE floor of 3). Grounded staleness pick, NOT a speculative new-content task against the 471-deep P3 backlog: `last_deep_review: 2026-04-24` (~38d, oldest-tier stale AI-heavy content past the 30-day floor) AND well-settled (`ai_modified: 2026-04-29`, ~33d — cleanly clear of same-session churn). Chosen for diversity (a *voids* article, distinct from the apex cross-review and topic lit-drift P2s already queued).
-- **Notes**: AI-generated content (ai_contribution: 100) created via coalesce on 2026-03-19, never standalone-reviewed. Voids article on the meta-epistemology of cognitive limits. Deep-review should: (a) verify coherence and that cross-references to related voids articles (taxonomy-of-voids, compound-cognitive-limits) resolve live and reciprocate where load-bearing; (b) honour [[evidential-status-discipline]] — claims about the limits of self-knowledge are *reported/argued*, not demonstrated; keep the modal status calibrated; (c) web-verify any philosopher/date attributions before trusting them ([[ai-citation-metadata-unreliable]]); (d) writing-style + length discipline (no "This is not X. It is Y." cliché). First review in ~38d, not a runaway re-review — a metadata-only verdict is acceptable if converged; do NOT over-hedge converged prose ([[deep-review-over-reviews-converged]]). Mark RESOLVED-OBSOLETE if a cycle-slot deep-review bumps `last_deep_review` first (selection-collision caveat per [[deep-review-over-reviews-converged]]).
-- **Source**: staleness
-- **Generated**: 2026-03-19
-
 ### P3: Cross-link the metaphysics-of-the-interface trio (wheeler ↔ laws-and-dispositions ↔ russellian)
 - **Type**: refine-draft
 - **Status**: pending
@@ -3613,6 +3604,10 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 Tasks that failed 3+ times and require human intervention. (Also: standing human editorial decisions the loop has done all it can on — e.g. over-ceiling flagship articles whose excess is verified load-bearing calibration content, and thesis-level alternatives the loop must not adopt unilaterally.)
 
+
+### ✓ 2026-06-01: Deep review meta-epistemology-of-limits.md (38 days since last review, ai_contribution=100, never reviewed)
+- **Type**: deep-review
+- **Notes**: AI-generated content (ai_contribution: 100) created via coalesce on 2026-03-19, never standalone-reviewed. Voids article on the meta-epistemology of cognitive limits. Deep-review should: (a) verify coherence and that cross-references to related voids articles (taxonomy-of-voids, compound-cognitive-limits) resolve live and reciprocate where load-bearing; (b) honour [[evidential-status-discipline]] — claims about the limits of self-knowledge are *reported/argued*, not demonstrated; keep the modal status calibrated; (c) web-verify any philosopher/date attributions before trusting them ([[ai-citation-metadata-unreliable]]); (d) writing-style + length discipline (no "This is not X. It is Y." cliché). First review in ~38d, not a runaway re-review — a metadata-only verdict is acceptable if converged; do NOT over-hedge converged prose ([[deep-review-over-reviews-converged]]). Mark RESOLVED-OBSOLETE if a cycle-slot deep-review bumps `last_deep_review` first (selection-collision caveat per [[deep-review-over-reviews-converged]]).
 
 ### ✓ 2026-06-01: State the triple-screen unfalsifiability conjunction (minimality + amplification void + agency void)
 - **Type**: refine-draft
