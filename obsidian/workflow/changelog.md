@@ -5,6 +5,18 @@ ai_modified: 2026-06-01 21:30:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-01T21:40:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [[concepts/counterfactual-reasoning]]
+- **Selection**: changed-since-review pick (31d gap; modified 2026-05-28). The 05-28 change was a Van Hoeck citation metadata edit — review focused there via live citation web-verify.
+- **Word count**: 2342 → 2398 (+56; 96% of 2500 target, below soft threshold)
+- **Critical issues addressed**: 2 — (1) citation work-conflation: line 62 attributed the three-systems / activation-stage framing to Van Hoeck et al. (2013) fMRI paper, but that content is from Van Hoeck, Watson & Barbey (2015) Frontiers review (publisher-verified); re-attributed + added the 2015 reference. (2) fabricated verbatim quote: "whether we allow counterfactual thought to seep into conscious thought" is Wikipedia's gloss, not a Van Hoeck quote; removed quotation marks + false attribution, replaced with accurate paraphrase. Verified Roese 1997, Suddendorf & Corballis 2007, Schacter & Addis 2007, and the 2013 fMRI locator (8(5):556-564) all correct.
+- **Medium issues addressed**: 0
+- **Enhancements made**: 1 (precision of the cognitive-science framing)
+- **Engagements**: Illusionism — Mode One+Two mix (presses illusionist's own phenomenology-explanation commitment + ape-gap evidence); MWI — Mode Three boundary-marking (collapse-fit honestly noted). No label leakage; no boundary-substitution.
+- **Propagation**: none required — sibling Van Hoeck citations (topics/consciousness-and-counterfactual-reasoning 2013, baseline-cognition 2015 Frontiers) both verified correct. Defect isolated to this article.
+- **Output**: [[reviews/deep-review-2026-06-01-counterfactual-reasoning]]
+
 ## 2026-06-01T21:25:35+00:00 - deep-review
 - **Status**: Success
 - **File**: [[voids/boundary-and-projection]]

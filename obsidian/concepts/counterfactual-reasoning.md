@@ -4,8 +4,8 @@ description: "Counterfactual reasoning imagines what could have been or might be
 created: 2026-01-28
 modified: 2026-01-28
 human_modified: null
-ai_modified: 2026-05-28T00:00:00+00:00
-last_deep_review: 2026-05-01T03:56:00+00:00
+ai_modified: 2026-06-01T00:00:00+00:00
+last_deep_review: 2026-06-01T00:00:00+00:00
 draft: false
 topics:
   - "[[topics/free-will]]"
@@ -59,7 +59,7 @@ Several lines of evidence suggest counterfactual reasoning is strongly associate
 
 Counterfactual reasoning requires explicitly representing something as *not* being the case while simultaneously reasoning about what *would* be the case if it were. This dual representation—actual situation versus counterfactual scenario—appears to require the kind of integrated workspace that [[global-workspace-theory|Global Workspace Theory]] associates with consciousness.
 
-Research by Van Hoeck et al. (2013) identifies counterfactual thinking as involving coordination of multiple information processing systems: affective processing, mental simulation, and cognitive control. The "activation" component is "whether we allow counterfactual thought to seep into conscious thought." This suggests counterfactual reasoning is explicitly conscious rather than merely accessible to consciousness.
+A review by Van Hoeck, Watson, and Barbey (2015) characterises counterfactual thinking as depending on an integrative network of systems for affective processing, mental simulation, and cognitive control, organised across activation, inference, and adaptation stages. The activation stage concerns whether a counterfactual thought is generated and entertained at all—a gating function that, in the conscious case, determines whether the alternative is held in awareness for explicit comparison against the actual situation. This dual-representation demand suggests counterfactual reasoning is explicitly conscious rather than merely accessible to consciousness.
 
 ### Working Memory Demands
 
@@ -190,3 +190,4 @@ Counterfactual reasoning connects to multiple [[tenets]]:
 1. Schacter, D.L., & Addis, D.R. (2007). The cognitive neuroscience of constructive memory: Remembering the past and imagining the future. *Philosophical Transactions of the Royal Society B*, 362(1481), 773-786.
 1. Suddendorf, T., & Corballis, M.C. (2007). The evolution of foresight: What is mental time travel, and is it unique to humans? *Behavioral and Brain Sciences*, 30(3), 299-313.
 1. Van Hoeck, N., Ma, N., Ampe, L., Baetens, K., Vandekerckhove, M., & Van Overwalle, F. (2013). Counterfactual thinking: An fMRI study on changing the past for a better future. *Social Cognitive and Affective Neuroscience*, 8(5), 556-564.
+1. Van Hoeck, N., Watson, P.D., & Barbey, A.K. (2015). Cognitive neuroscience of human counterfactual reasoning. *Frontiers in Human Neuroscience*, 9, 420.
