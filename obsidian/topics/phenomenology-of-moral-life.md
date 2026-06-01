@@ -4,7 +4,7 @@ description: "The full arc of moral consciousness—from the pre-reflective stri
 created: 2026-02-08
 modified: 2026-04-26
 human_modified:
-ai_modified: 2026-05-14T20:42:00+00:00
+ai_modified: 2026-06-01T00:39:56+00:00
 draft: false
 topics:
   - "[[moral-implications-of-genuine-agency]]"
@@ -46,7 +46,7 @@ author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-02-08
 last_curated:
-last_deep_review: 2026-04-26T16:07:00+00:00
+last_deep_review: 2026-06-01T00:39:56+00:00
 coalesced_from:
   - "/topics/phenomenology-of-moral-experience/"
   - "/topics/phenomenology-of-moral-deliberation/"
