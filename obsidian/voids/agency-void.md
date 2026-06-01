@@ -4,7 +4,7 @@ description: "Consciousness cannot control most of its own states, and cannot ve
 created: 2026-02-25
 modified: 2026-05-11
 human_modified: null
-ai_modified: 2026-06-01T00:00:00+00:00
+ai_modified: 2026-06-01T06:27:48+00:00
 last_deep_review: 2026-06-01T00:00:00+00:00
 draft: false
 topics:
@@ -166,6 +166,7 @@ The void is also [[tenet-generated-voids|tenet-generated]]: the Map's commitment
 - [[phenomenology-vs-function-axis]] — I-Spy extends from sensory phenomenology into willed action
 - [[self-opacity|Volitional Opacity]] — Why we cannot observe the mechanisms of willing
 - [[causal-interface|The Causal Interface Void]] — How consciousness connects to physics
+- [[what-consciousness-tells-us-about-physics#the-triple-screen|The Triple Screen]] — Where this void's verification circularity is named as the first-person leg of the framework's three-channel evidential insulation
 - [[erasure-void]] — Clinical sister case: self-monitoring eroding alongside what it would monitor
 - [[suspension-void]] — Structural sister case: same self-investigator circularity
 - [[decision-void]] — Within-agency void at the deliberation→commitment crossing

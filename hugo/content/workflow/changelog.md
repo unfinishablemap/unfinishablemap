@@ -9,6 +9,16 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-06-01T06:27:48+00:00 - apex-evolve
+- **Status**: Complete
+- **Article**: [what-consciousness-tells-us-about-physics](/apex/what-consciousness-tells-us-about-physics/)
+- **Task**: P2 Claude outer-review Finding #3 — state the triple-screen conjunction (the corpus implies but never states it)
+- **Home chosen**: physics apex, new `### The Triple Screen` subsection inside "The Empirical Equivalence Problem" (the existing channel-1 honesty move). Preferred over taxonomy-of-voids.md (different argument frame: void-convergence, not core-causal-claim evidential status) and over a new concept node (concepts at/near cap, on-disk count). The conjunction is the strongest honest statement of *this apex's own* epistemic status, generalising its empirical-equivalence section across all three channels.
+- **What it states**: the core causal claim (consciousness biases neural outcomes) is screened from all three evidence channels at once, each screen from a separate tenet commitment — (1) minimality → empirical invisibility screens AGGREGATE-STATISTICAL; (2) [amplification-void](/voids/amplification-void/) structural untraceability screens MECHANISTIC-TRACING; (3) [agency-void](/voids/agency-void/) verification circularity screens FIRST-PERSON. Framed as a candid limit / the price of the position (insulation from evidence is a COST, not a protection); evidential-status-discipline applied (removing a defeater ≠ evidence); did not overcorrect into "worthless".
+- **Cross-links**: all three sources linked (amplification-void, agency-void, taxonomy-of-voids); reciprocal back-links added from amplification-void.md and agency-void.md Further Reading to `#the-triple-screen`. Added [agency-void](/voids/agency-void/) to physics apex related_articles.
+- **Web-verify**: none needed — synthesis of existing corpus claims, no new citations.
+- **Word count**: 4390 → 4697 body words (+307). NOTE: physics apex was ALREADY over the 4000 ceiling before this edit; now further over. FLAGGED FOR HUMAN LENGTH DECISION — subsection is tight (~310 words) and load-bearing (epistemic-honesty statement); recommend a separate condense pass on the apex rather than cutting the triple-screen.
+
 ## 2026-06-01T06:30:00+00:00 - refine-draft
 - **Status**: Success
 - **File**: [vertiginous-question](/topics/vertiginous-question/)

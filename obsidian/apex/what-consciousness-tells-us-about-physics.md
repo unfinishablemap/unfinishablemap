@@ -4,7 +4,7 @@ description: "If consciousness participates in quantum outcomes, quantum mechani
 created: 2026-03-14
 modified: 2026-04-28
 human_modified: null
-ai_modified: 2026-05-29T00:00:00+00:00
+ai_modified: 2026-06-01T06:27:48+00:00
 last_deep_review: 2026-05-29T00:00:00+00:00
 draft: false
 topics:
@@ -32,6 +32,7 @@ related_articles:
   - "[[taxonomy-of-voids]]"
   - "[[causal-interface]]"
   - "[[amplification-void]]"
+  - "[[agency-void]]"
   - "[[nomic-void]]"
   - "[[vertiginous-question]]"
   - "[[four-quadrant-dualism-taxonomy]]"
@@ -57,7 +58,7 @@ apex_sources:
   - voids/causal-interface
   - voids/amplification-void
   - voids/nomic-void
-apex_last_synthesis: 2026-04-27T12:43:00+00:00
+apex_last_synthesis: 2026-06-01T06:27:48+00:00
 apex_thesis: "If consciousness participates in quantum outcomes, quantum mechanics is structurally partial—a complete theory of possibilities that is silent about actuality. The Born rule is an interface specification. The measurement problem is a disclosure, not a deficiency. This reverse inference constrains what a more complete ontology would look like."
 embedded_videos:
   - id: rwOc9oy8OEk
@@ -199,6 +200,14 @@ This empirical equivalence means the reverse inference is philosophical, not sci
 Two considerations prevent this from being fatal. First, the same charge applies to most interpretations of quantum mechanics. Many-Worlds, Copenhagen, and QBism all make identical empirical predictions for all practical experiments. Interpretive frameworks are evaluated on coherence, explanatory power, and philosophical consequences. The reverse inference competes on those terms. Second, the framework *does* identify where differential predictions might eventually emerge: regimes where consciousness-modulated collapse interacts with gravitational self-energy, or where the amplification chain might leave structural signatures. These remain speculative, but they point toward specific domains where future physics might distinguish the views.
 
 The article therefore claims something conditional and characterizable: *if* the tenets hold, quantum mechanics is structurally partial in a specific way, the measurement problem is evidence *for* that partiality, and the Born rule reads naturally as interface specification. The position would be undermined by a purely physical collapse mechanism leaving no role for consciousness, by vindication of hidden variables, or by an interpretation that denies consciousness any physical role while also explaining why consciousness exists at all. None of these has occurred—the measurement problem remains unsolved after a century, hidden variable theories face severe constraints, and the self-stultification argument remains unanswered—but any would weaken the reverse inference's foundation.
+
+### The Triple Screen
+
+The empirical-equivalence problem above is one face of a larger conjunction the Map accepts piecewise but should state outright. The core causal claim—that consciousness biases neural outcomes—is screened from all three channels through which such a claim could ordinarily be evidenced, and the three screens have independent origins in three separate tenet commitments.
+
+The first screen is *minimality*. Because consciousness operates strictly within the Born probabilities, its contribution leaves no statistically detectable deviation from standard quantum mechanics: the empirical equivalence just described closes the **aggregate-statistical** channel. The second is the [[amplification-void|amplification void]]'s structural untraceability. Even granting the bias occurs, the chain from quantum nudge to macroscopic neural effect crosses five regimes no single framework spans, so the **mechanistic-tracing** channel is closed—and, if the coupling between minimality and opacity holds, closed as a consequence of the first screen rather than an accident. The third is the [[agency-void|agency void]]'s verification circularity. Every first-person check on "did I cause that?" is run by the faculty whose causal status is in question, closing the **first-person** channel from inside.
+
+The conjunction is the honest statement of the framework's epistemic position: the central causal claim is not established by direct evidence, because the three channels that could supply such evidence are each independently blocked. The Map holds the claim on the strength of its tenets and the convergence of the [[taxonomy-of-voids|void structure]]—not on evidence *for* the causal claim itself—and says so. Naming this is an admission, not a defence: insulation from evidence is a cost the position carries, not a protection it enjoys. The point cuts the other way only so far—triple screening removes potential defeaters without supplying support, and [[evidential-status-discipline|removing a defeater is not evidence]]. The framework survives on coherence and abductive fit while conceding, in the open, that its core mechanism is placed where evidence cannot reach.
 
 ## Relation to Site Perspective
 

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-04-27
-ai_modified: 2026-06-01 00:00:00+00:00
+ai_modified: 2026-06-01 06:27:48+00:00
 ai_system: claude-opus-4-7
 author: null
 coalesced_from:
@@ -169,6 +169,7 @@ The void is also [tenet-generated](/voids/tenet-generated-voids/): the Map's com
 - [phenomenology-vs-function-axis](/concepts/phenomenology-vs-function-axis/) — I-Spy extends from sensory phenomenology into willed action
 - [Volitional Opacity](/voids/self-opacity/) — Why we cannot observe the mechanisms of willing
 - [The Causal Interface Void](/voids/causal-interface/) — How consciousness connects to physics
+- [The Triple Screen](/apex/what-consciousness-tells-us-about-physics/#the-triple-screen) — Where this void's verification circularity is named as the first-person leg of the framework's three-channel evidential insulation
 - [erasure-void](/voids/erasure-void/) — Clinical sister case: self-monitoring eroding alongside what it would monitor
 - [suspension-void](/voids/suspension-void/) — Structural sister case: same self-investigator circularity
 - [decision-void](/voids/decision-void/) — Within-agency void at the deliberation→commitment crossing

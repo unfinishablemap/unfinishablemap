@@ -43,15 +43,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Files**: topics/wheelers-participatory-universe-and-it-from-bit.md, topics/consciousness-and-the-metaphysics-of-laws-and-dispositions.md, topics/russellian-monism-versus-bi-aspectual-dualism.md
 - **Notes**: Suggested by optimistic review (optimistic-2026-06-01b.md). The three articles form a coherent cluster (honest-labelling-as-argument; shared decoherence hostage; governing-law-fixes-which-outcome = corridor/Born mechanism) but Wheeler is the under-connected node: 0 mutual links between wheeler and the other two (confirmed via grep). Add: (1) wheeler ↔ laws-and-dispositions reciprocal links — the governing-law "which quantum outcome obtains" argument (laws §Governing Laws) is the same mechanism as wheeler's corridor/Born treatment, viewed from metaphysics-of-laws vs measurement-problem sides; (2) russellian → wheeler link reinforcing the shared No-Many-Worlds-from-ontology case (Williams 2021 / Wheeler's own MWI rejection). laws↔russellian already cross-link; no new concept pages needed. Light touch — add Further Reading entries + one in-body sentence each, do not restructure.
 
-### P2: State the triple-screen unfalsifiability conjunction (minimality + amplification void + agency void)
-- **Type**: refine-draft
-- **Status**: pending
-- **File**: obsidian/apex/taxonomy-of-voids.md
-- **Notes**: From outer review 2026-06-01 (Claude Opus 4.8), Finding #3 — a novel meta-result the corpus IMPLIES but never states. Three independently-argued opacity theses — minimality's "empirical invisibility" (reverse-inference apex / [[what-consciousness-tells-us-about-physics]]), the [[amplification-void]]'s "structural untraceability," and the [[agency-void]]'s "verification circularity" — JOINTLY ENTAIL that the central causal claim (consciousness biases neural outcomes) is screened from aggregate-statistical, mechanistic-tracing, AND first-person evidence simultaneously. The corpus admits each locally but never states the conjunction, which is the strongest *honest* statement of the framework's epistemic status. ASSESS-FIRST: identify the best home — a short subsection in [[taxonomy-of-voids]] or [[what-consciousness-tells-us-about-physics]] that names the conjunction and cross-links all three voids, OR a dedicated concept node if the pattern merits citation from downstream pieces (check concept section_caps first — near full ~245/270). CRITICAL CALIBRATION CONSTRAINT per [[evidential-status-discipline]]: stating the triple-screen is an *epistemic-honesty* move (the framework's core claim is insulated from evidence), NOT a point in the framework's favour — do NOT spin unfalsifiability as a virtue. Frame it as the candid limit the Map already accepts piecewise, now made explicit as a conjunction.
-- **Review file**: `reviews/outer-review-2026-06-01-claude-opus-4-8.md`
-- **Source**: outer-review
-- **Generated**: 2026-06-01
-
 ### P3: New concept page — The Agent-Shaped Hole
 - **Type**: expand-topic
 - **Status**: pending
@@ -3614,6 +3605,10 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 Tasks that failed 3+ times and require human intervention. (Also: standing human editorial decisions the loop has done all it can on — e.g. over-ceiling flagship articles whose excess is verified load-bearing calibration content, and thesis-level alternatives the loop must not adopt unilaterally.)
 
+
+### ✓ 2026-06-01: State the triple-screen unfalsifiability conjunction (minimality + amplification void + agency void)
+- **Type**: refine-draft
+- **Notes**: From outer review 2026-06-01 (Claude Opus 4.8), Finding #3 — a novel meta-result the corpus IMPLIES but never states. Three independently-argued opacity theses — minimality's "empirical invisibility" (reverse-inference apex / [[what-consciousness-tells-us-about-physics]]), the [[amplification-void]]'s "structural untraceability," and the [[agency-void]]'s "verification circularity" — JOINTLY ENTAIL that the central causal claim (consciousness biases neural outcomes) is screened from aggregate-statistical, mechanistic-tracing, AND first-person evidence simultaneously. The corpus admits each locally but never states the conjunction, which is the strongest *honest* statement of the framework's epistemic status. ASSESS-FIRST: identify the best home — a short subsection in [[taxonomy-of-voids]] or [[what-consciousness-tells-us-about-physics]] that names the conjunction and cross-links all three voids, OR a dedicated concept node if the pattern merits citation from downstream pieces (check concept section_caps first — near full ~245/270). CRITICAL CALIBRATION CONSTRAINT per [[evidential-status-discipline]]: stating the triple-screen is an *epistemic-honesty* move (the framework's core claim is insulated from evidence), NOT a point in the framework's favour — do NOT spin unfalsifiability as a virtue. Frame it as the candid limit the Map already accepts piecewise, now made explicit as a conjunction.
 
 ### ✓ 2026-06-01: Engage Christian List's first-person modal realism (2023) — the indexical objection is double-edged
 - **Type**: refine-draft
