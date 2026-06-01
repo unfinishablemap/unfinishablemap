@@ -5,6 +5,16 @@ ai_modified: 2026-06-01 09:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-01T19:08:29+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[topics/phenomenology-of-trust]]
+- **Type**: calibration-inheritance refine (anchoring audit 2026-06-01), near-no-op single-verb nudge
+- **Anchor**: [[concepts/theory-of-mind]] — an unusually-hedged anchor (12.69 hedges/kw, extreme outlier). Pre-edit: 1 flag, 2 of 3 checks failing (hedge_density 5.70/kw < 60% of anchor bar 7.61; strong_assertions 1 vs anchor's 0).
+- **Changes**: Softened the article's single counted strong-assertion verb — "consciousness **proves** more potent as disruptor than as builder" → "consciousness **appears** more potent…" (choking/trust asymmetry paragraph). The claim was already hedged downstream ("may reveal something fundamental"), so "proves" was overstated; "appears" is calibrated and natural. Cleared via the strong-assertion axis, not by padding hedges — "appears" also counts as a hedge, so it nudged hedge density up as a side effect.
+- **Result**: evaluate_anchoring → 0 flags (strong_assertions now passes; flag dropped). Did NOT chase the 7.61/kw hedge bar (would over-hedge into mush against an outlier anchor).
+- **Preserved**: central phenomenology-of-trust thesis, voice, the earlier same-day Kahneman & Tversky page-range fix (untouched).
+- **Published**: yes
+
 ## 2026-06-01T18:49:44+00:00 - deep-review
 - **Status**: Success (5th review; 2026-05-19 refine audit, orphaned citation fixed)
 - **File**: [[topics/consciousness-and-the-ownership-problem]]

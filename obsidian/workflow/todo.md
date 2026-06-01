@@ -37,17 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Adopt theory-of-mind calibration in phenomenology-of-trust
-- **Type**: refine-draft
-- **Status**: pending
-- **File**: obsidian/topics/phenomenology-of-trust.md
-- **Notes**: From topic-concept anchoring audit 2026-06-01. The topic article over-claims relative to its anchor concept [[theory-of-mind]]; failed checks: hedge_density, strong_assertions.
-  - hedge density 5.70/kw is below 60% of anchor (12.69/kw)
-  - topic uses 1 strong-assertion verbs where anchor uses none
-  - Action: bring the topic's hedge profile in line with the anchor concept's. Preserve the article's voice; this is not a request to weaken the central claim, only to inherit the calibration discipline the anchor concept already uses. See [[project/calibration-audit-triple]] Audit Three for the spec and [[evidential-status-discipline]] for the underlying rule.
-- **Source**: topic-concept-anchoring-audit
-- **Generated**: 2026-06-01
-
 ### P2: Adopt default-mode-network calibration in phenomenology-of-returning-attention
 - **Type**: refine-draft
 - **Status**: pending
@@ -58,7 +47,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
   - Action: bring the topic's hedge profile in line with the anchor concept's. Preserve the article's voice; this is not a request to weaken the central claim, only to inherit the calibration discipline the anchor concept already uses. See [[project/calibration-audit-triple]] Audit Three for the spec and [[evidential-status-discipline]] for the underlying rule.
 - **Source**: topic-concept-anchoring-audit
 - **Generated**: 2026-06-01
-
 
 ### P2: Deep review concepts/knowledge-argument.md (33d since review, REFINED-SINCE on 2026-05-25, ai_contribution=100, anti-physicalist / Mary's-room cluster)
 - **Type**: deep-review
@@ -3696,6 +3684,10 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 Tasks that failed 3+ times and require human intervention. (Also: standing human editorial decisions the loop has done all it can on — e.g. over-ceiling flagship articles whose excess is verified load-bearing calibration content, and thesis-level alternatives the loop must not adopt unilaterally.)
 
+
+### ✓ 2026-06-01: Adopt theory-of-mind calibration in phenomenology-of-trust
+- **Type**: refine-draft
+- **Notes**: From topic-concept anchoring audit 2026-06-01. The topic article over-claims relative to its anchor concept [[theory-of-mind]]; failed checks: hedge_density, strong_assertions.
 
 ### ✓ 2026-06-01: Deep review topics/consciousness-and-the-ownership-problem.md (33d since review, REFINED-SINCE on 2026-05-19, ai_contribution=100, individuation/self cluster)
 - **Type**: deep-review
