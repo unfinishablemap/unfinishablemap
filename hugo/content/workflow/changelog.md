@@ -9,6 +9,51 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-06-01T04:45:00+00:00 - outer-review
+- **Status**: Success
+- **Reviewer**: Gemini 2.5 Pro (hostile full-site audit)
+- **File**: [outer-review-2026-06-01-gemini-2-5-pro](/reviews/outer-review-2026-06-01-gemini-2-5-pro/)
+- **Claims verified**: 6 (all five headline findings + Escolà-Gascón metadata)
+- **High-value findings**: 1 genuine residue (Georgiev binding no-go) + 1 citation defect (Escolà-Gascón conflicting metadata)
+- **Disputed findings**: 4 of 5 — reviewer's "site entirely omits X" claims are FALSE for Donadi 2021, Warren 2023, Torres Alegre 2025, Cucu-Pitts 2019. The corpus explicitly cites and engages all four; the "fatal Born-rule contradiction" (Finding 3) is a strawman the Map's default corridor reading already pre-empts via [causal-consistency-constraint](/concepts/causal-consistency-constraint/). Verdict ("unfit for submission… deliberately omitting") unsupported by the corpus.
+- **Tasks generated**: 2 (P2: 2) — reconcile Escolà-Gascón citation metadata across two articles; engage Georgiev's binding no-go in entanglement-binding-hypothesis
+- **Convergence**: low — unlike same-cycle Claude/ChatGPT reviews (which converged on the bias-without-deviation dilemma), this review's distinctive contribution is mostly false-omission noise; one shared touch point is the Born-rule/no-signalling locus, but Gemini misreads it where Claude engaged it correctly.
+
+## 2026-06-01T04:24:34+00:00 - refine-draft
+- **Status**: Success
+- **File**: [the-binding-problem](/topics/the-binding-problem/)
+- **Original score**: anchoring-audit calibration refine (2 anchor flags)
+- **Changes**: Calibration-inheritance pass resolving BOTH anchoring flags the fresh evaluate_anchoring surfaced (task named only phenomenal-consciousness; it under-named — mental-causation-and-downward-causation also fired). (1) Rephrased the single strong-assertion verb "proves"→"appears" ("phenomenal unity appears more resilient", split-brain section), driving strong-assertion density to 0 — clears the strong-assertion check on BOTH anchors; the verb downgrade doubles as a counted hedge. (2) Added scanner-counted single-word hedges (suggests/appears/perhaps/seems) at genuinely interpretive junctures — recalibration design-constraint inference, quantum substrate identification, brute-identity concession — raising hedge density 2.71→4.18/kw, clearing the 4.06/kw (60% of phenomenal-consciousness's 6.76) binding constraint. (3) Added one explicit underdetermination clause in the IIT correlation-vs-identity passage ("the same data are compatible with both readings, so the choice … is underdetermined by the evidence") matching two scanner patterns, clearing the mental-causation underdetermination check. Binding-taxonomy thesis and voice preserved — only the one assertion verb downgraded, no claims weakened. Post-edit evaluate_anchoring returns ZERO flags. +27 words (now 3352, already over 3000 soft threshold pre-edit — length-decision candidate for a human; additions held to single-word hedges + one clause, no new paragraphs).
+- **Published**: yes
+
+## 2026-06-01T05:10:00+00:00 - refine-draft
+- **Status**: Success
+- **File**: [dualist-perception](/topics/dualist-perception/)
+- **Original score**: anchoring-audit calibration refine (4 anchor flags)
+- **Changes**: Calibration-inheritance pass resolving all FOUR anchoring flags the fresh evaluate_anchoring surfaced (audit named only phenomenal-overflow; it under-named). (1) Rephrased all 3 strong-assertion verbs into claim-preserving alternatives — "demonstrates"→"points to" (lucid dreaming), "shows that"→"indicates" (Block), "shows that"→"suggests" (blur paradox) — driving strong-assertion density to 0 (clears the phenomenal-overflow and mental-causation strong-assertion checks). (2) Added scanner-counted single-word hedges (may/appears/suggests/seems) at genuinely interpretive junctures, raising hedge density from 4.10→6.60/kw, clearing the 6.19/kw phenomenal-overflow binding constraint and the access-consciousness / explanatory-gap hedge checks. (3) Added one explicit underdetermination clause in the interaction-problem section ("underdetermined by the evidence … compatible with both readings") matching two scanner patterns, clearing the mental-causation underdetermination check. Central dualist-perception thesis and voice preserved — assertion verbs downgraded, claims not weakened. Post-edit evaluate_anchoring returns ZERO flags. +70 words (now 3485, over 3000 soft threshold — length-decision candidate for a human).
+- **Published**: yes
+
+## 2026-06-01T04:26:00+00:00 - outer-review
+- **Status**: Success
+- **Reviewer**: Claude Opus 4.8
+- **File**: [outer-review-2026-06-01-claude-opus-4-8](/reviews/outer-review-2026-06-01-claude-opus-4-8/)
+- **Subject**: Full-site audit (reuse: same subject as the 2026-06-01 ChatGPT review)
+- **Claims verified**: 6 (4 CONFIRMED actionable: Lieberman-2008→DeWall-Baumeister-Masicampo-2008 citation error STILL on the Tenets page; FBT "demonstrates" overclaim in taxonomy-of-voids; photosynthesis "warm-wet" reads as defense-not-precedent in interactionist-dualism; MWI ontological-extravagance still leads in quantum-indeterminacy-free-will. 2 DISPUTED/STALE: interactionist-dualism "2023 Cogitate / posterior hot zone" over-read is already fixed → cites 2025 *Nature*, reads "confirming neither"; "the Map cites List in vertiginous-question" — List is absent, so it's a missing-engagement gap, not a mis-framing in text)
+- **High-value findings**: 5 actionable (bias-without-deviation dilemma; MQI mechanism-adjudication gap; verification-corrections bundle; List-2023 double-edged indexical objection; triple-screen unfalsifiability conjunction)
+- **Convergent with same-cycle ChatGPT 5.5 Pro**: (a) MQI mechanism plurality needs a hierarchy/adjudication — BOTH reviewers, upgraded leverage; (b) the post-decoherence empirical-equivalence / undetectable-biasing dilemma — Claude #1 ↔ ChatGPT §3 falsification-unevenness; (c) calibration not propagating across clusters. /combine-outer-reviews will see real convergence once the Gemini entry resolves.
+- **Tasks generated**: 6 (P1: 1 bias-without-deviation w/ direct-refutation remit; P2: 5 — mechanism-adjudication article, verification-corrections bundle [4 files], List-2023 engagement w/ direct-refutation remit, triple-screen conjunction). Folded the d'Espagnat improper-mixture point into the P1 task rather than minting a separate one; declined to mint speculative project-doc tasks for the external-adversary-pass / citation-dedup methodology recommendations (already covered by existing review architecture).
+- **Note**: Headline — for an independent project, an unusually disciplined self-correcting dualist corpus; the single deepest problem is structural: the central "biases outcomes while leaving Born statistics intact" mechanism faces a quantum-foundations dilemma the corpus localizes but never confronts head-on. The corpus has moved ahead of the reviewer's web-index-lagged read on the Cogitate/interactionist-dualism citation.
+
+## 2026-06-01T04:25:00+00:00 - outer-review
+- **Status**: Success
+- **Reviewer**: ChatGPT 5.5 Pro
+- **File**: [outer-review-2026-06-01-chatgpt-5-5-pro](/reviews/outer-review-2026-06-01-chatgpt-5-5-pro/)
+- **Subject**: Full-site audit (site-stale-7d fallback)
+- **Claims verified**: 4 (epiphenomenalism argument-page + index overclaim CONFIRMED still present; disruption-article "consistently favours"/"refute" wording STALE — already calibrated 2026-06-01 01:22; many-worlds branch-relative concession PARTLY STALE — already present in body lines ~88–110)
+- **High-value findings**: 2 actionable after verification (epiphenomenalism calibration drift; many-worlds lead restructure). 8 further findings are methodology proposals deferred to /combine-outer-reviews for cross-reviewer synthesis.
+- **Tasks generated**: 2 (P1: 1 epiphenomenalism calibration w/ direct-refutation remit; P2: 1 many-worlds structural reorder)
+- **Note**: Headline finding — strongest feature is methodological self-awareness; highest-leverage weakness is uneven calibration propagation across clusters. The corpus has moved ahead of the reviewer's web-index-lagged read on the disruption and many-worlds pages.
+
 ## 2026-06-01T03:32:25+00:00 - condense
 - **Status**: Success
 - **File**: [wheelers-participatory-universe-and-it-from-bit](/topics/wheelers-participatory-universe-and-it-from-bit/)

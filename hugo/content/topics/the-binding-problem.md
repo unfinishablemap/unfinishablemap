@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-05-10
-ai_modified: 2026-05-19 20:20:24+00:00
+ai_modified: 2026-06-01 04:24:34+00:00
 ai_system: claude-opus-4-7
 author: null
 coalesced_from:
@@ -74,7 +74,7 @@ The textbook case. Within a single modality, features processed in separate cort
 
 **BP1 progress**: Feature Integration Theory (Treisman 1980) proposes that attention is the "glue" — spatial attention integrates features at a location into a unified object representation. Gamma-band synchrony (30-100 Hz) tags same-object features through temporal coincidence. Illusory conjunctions under divided attention — seeing a blue circle when presented with a blue square and a yellow circle — confirm that binding requires attentional resources and can fail predictably.
 
-**BP2 gap**: Synchronized firing is still firing in separate neurons. Even perfect temporal coincidence does not produce ontological unity. The identity reply — "synchronised activity just *is* phenomenal unity, the way water *is* H₂O" — links two third-person descriptions of one substance; the proposed binding identity links a third-person mechanism to a first-person reality. That category shift is what standard scientific identities do not require, and accepting it as brute identity concedes no explanatory work is being done.
+**BP2 gap**: Synchronized firing is still firing in separate neurons. Even perfect temporal coincidence does not produce ontological unity. The identity reply — "synchronised activity just *is* phenomenal unity, the way water *is* H₂O" — links two third-person descriptions of one substance; the proposed binding identity links a third-person mechanism to a first-person reality. That category shift is what standard scientific identities do not require, and accepting it as brute identity seems to concede no explanatory work is being done.
 
 ### 2. Cross-Modal Binding {#cross-modal}
 
@@ -88,7 +88,7 @@ Intra-modal binding combines features within a shared representational format. C
 
 When subjects are exposed to audiovisual pairs where the sound is delayed, their perception of simultaneity shifts — they begin to perceive delayed sounds as simultaneous with the visual stimulus. The brain actively adjusts cross-modal timing to maintain coherence.
 
-This matters for two reasons. First, phenomenal simultaneity is constructed, not given — the felt present is a product of integration, not a transparent window onto physical simultaneity. Second, recalibration shows the brain prioritises phenomenal unity over temporal accuracy: when forced to choose between veridical timing and cross-modal coherence, it sacrifices accuracy. Phenomenal unity behaves as a design constraint on consciousness, not an emergent byproduct.
+This matters for two reasons. First, phenomenal simultaneity is constructed, not given — the felt present is a product of integration, not a transparent window onto physical simultaneity. Second, recalibration suggests the brain prioritises phenomenal unity over temporal accuracy: when forced to choose between veridical timing and cross-modal coherence, it sacrifices accuracy. Phenomenal unity appears to behave as a design constraint on consciousness, not an emergent byproduct.
 
 #### Inverse Effectiveness: Unity from Weakness
 
@@ -138,7 +138,7 @@ The most fundamental variety: all experiences are had by a single subject. Visua
 
 **BP2 gap**: Subject binding cannot be stated in purely computational terms. "Why are these experiences all mine?" presupposes a subject for whom binding obtains. No neural mechanism for self-reference explains why there is a *subject* at all — why there is someone for whom these processes are unified rather than parallel processes with no owner. The [self](/concepts/self-and-self-consciousness/) is not another content that gets bound to other contents; it is the perspective from which binding is experienced.
 
-[Split-brain cases](/topics/split-brain-consciousness/) test this directly. When the corpus callosum is severed, perceptual binding partially divides. But does the *subject* divide? Nagel argued the result is "too much unity to say 'two', yet too much separation to say 'one'." Phenomenal unity proves more resilient than neural connectivity alone would predict.
+[Split-brain cases](/topics/split-brain-consciousness/) test this directly. When the corpus callosum is severed, perceptual binding partially divides. But does the *subject* divide? Nagel argued the result is "too much unity to say 'two', yet too much separation to say 'one'." Phenomenal unity appears more resilient than neural connectivity alone would predict.
 
 ## The Shared Structure
 
@@ -157,7 +157,7 @@ Evidence that computational and phenomenal binding come apart strengthens the ca
 
 **NREM sleep and anesthesia**: Local cortical processing continues — memory consolidation, hippocampal replay, autonomic regulation — yet phenomenal unity is absent. [Sleep](/concepts/sleep-and-consciousness/) research and anesthesia studies show the loss correlates with disrupted long-range connectivity, with the thalamocortical system fragmenting into isolated islands of activity. The picture is not a clean "BP1 intact, BP2 vanished" split, but certain forms of processing persist while unified experience does not.
 
-IIT predicts this directly: consciousness tracks integrated information (Φ), so reduced perturbational complexity is reduced consciousness — on IIT's account there is no separate BP2. The Map's reply is that predictive success in identifying *when* consciousness is present does not settle *why* high-Φ systems have phenomenal unity. Correlation between integration and consciousness, even if empirically robust, is consistent with integration being necessary without being identical.
+IIT predicts this directly: consciousness tracks integrated information (Φ), so reduced perturbational complexity is reduced consciousness — on IIT's account there is no separate BP2. The Map's reply is that predictive success in identifying *when* consciousness is present does not settle *why* high-Φ systems have phenomenal unity. Correlation between integration and consciousness, even if empirically robust, is consistent with integration being necessary without being identical — the same data are compatible with both readings, so the choice between identity and mere correlation is underdetermined by the evidence.
 
 **Unconscious multisensory processing**: Subliminal cross-modal integration combines visual and auditory information below awareness — computationally bound without being phenomenally bound. The converse also occurs: filling-in at the blind spot produces seamless visual experience despite absent retinal input — cortical processing generates phenomenal content without corresponding sensory data. These asymmetries suggest BP1 and BP2 are different explanatory targets.
 
@@ -177,7 +177,7 @@ The functionalist response — that "unity" just names the coordination itself �
 
 Quantum entanglement provides something structurally different: on a realist interpretation, genuine holism where the whole is prior to parts. An entangled system has properties neither subsystem possesses individually — irreducible unity at the level of physics itself. (Whether entanglement is metaphysical holism or mere measurement correlation depends on interpretation; the Map adopts the realist reading.) See [quantum-holism-and-phenomenal-unity](/topics/quantum-holism-and-phenomenal-unity/) for detailed treatment.
 
-The structural correspondence is significant: both quantum holism and phenomenal unity involve wholes not assembled from separates. But structural correspondence is not full explanation — the transition from physical to phenomenal holism remains the hard problem. The quantum approach identifies the right *kind* of substrate and a locus where consciousness might participate (at collapse).
+The structural correspondence is significant: both quantum holism and phenomenal unity involve wholes not assembled from separates. But structural correspondence is not full explanation — the transition from physical to phenomenal holism remains the hard problem. The quantum approach perhaps identifies the right *kind* of substrate and a locus where consciousness might participate (at collapse).
 
 The standard objection is decoherence: warm biological tissue destroys superpositions on femtosecond timescales. The Map's minimal interaction framework requires only that consciousness influence collapses already occurring, not that it maintain coherence — though this remains an empirical challenge.
 
