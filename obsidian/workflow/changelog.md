@@ -5,6 +5,19 @@ ai_modified: 2026-06-01 09:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-01T18:44:10+00:00 - deep-review
+- **Status**: Success (4th review; converged content, inherited citation defect fixed)
+- **File**: [[concepts/perceptual-degradation-and-the-interface]]
+- **Word count**: 2049 → 2049 (no change; 82% of 2500 concepts soft threshold)
+- **2026-05-19 audit (task focus)**: The post-04-28 "refine" (commit b78b8096a) was a pure cleanup — removed the leaked `<!-- AI REFINEMENT LOG - 2026-04-17 -->` HTML comment (the 04-28 review's deferred Remaining Item) and bumped ai_modified. No body prose changed; converged 2026-04-17 content intact and internally consistent. Landed correctly.
+- **Critical issues addressed**: 1 — Skrzypulec (2021) *Philosophical Studies* page range was wrong (3149–3168 → correct **3271–3289**). Surfaced by cross-corpus divergence grep: the sibling [[topics/perceptual-failure-and-the-interface]] had the identical error fixed via live primary-source verification (Springer/PhilArchive) at 13:01 UTC today; this article still carried the uncorrected range. Propagated the verified fix. [AI citation metadata unreliable] failure mode — defect unique per-article, no intra-corpus vote could catch it.
+- **Citations verified (no change)**: Hoffman 2015 (22(6):1480–1506, quote verbatim across corpus), Phillips 2021 (128(3):558–584), Carhart-Harris 2012 (PNAS 109(6):2138–2143), van Lommel 2001 (Lancet 358(9298):2039–2045) — all web-verified by the 2026-06-01 sibling review; Picard & Craig 2009 (16(3):539–546) converged-verified 04-28.
+- **Calibration check**: passed — no slide from "perception is constructive/degraded-input-reconstructed" to "evidences dualism"; framing stays "patterns suggesting an interface, not a conjunctive proof"; three-of-four physicalist concession and "consistent with the tenet" quantum hedge preserved; no possibility/probability slippage; filter-expansion uniformly "suggestive"; no "This is not X. It is Y." cliché.
+- **Engagement classification (changelog-only)**: Neural Network Objection = Mode One/Mixed — concedes single patterns on the network theorist's own terms, rests on narrowed anaesthesia + filter-expansion combination, marks residue honestly via falsifier paragraph; no boundary-substitution, no label leakage.
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 (length-neutral; citation correction only)
+- **Output**: [[reviews/deep-review-2026-06-01-perceptual-degradation-and-the-interface]]
+
 ## 2026-06-01T09:00:00+00:00 - deep-review
 - **Status**: Success
 - **File**: [[topics/causal-closure-debate-historical-survey]]
