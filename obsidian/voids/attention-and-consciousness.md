@@ -4,7 +4,7 @@ description: "Attending generates unattendable territory as a structural necessi
 created: 2026-01-29
 modified: 2026-04-23
 human_modified: null
-ai_modified: 2026-04-30T13:46:00+00:00
+ai_modified: 2026-06-01T03:21:20+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -39,7 +39,7 @@ author: null
 ai_system: claude-opus-4-7
 ai_generated_date: 2026-03-30
 last_curated: null
-last_deep_review: 2026-04-23T19:00:00+00:00
+last_deep_review: 2026-06-01T03:21:20+00:00
 coalesced_from:
   - "/voids/attention-created-voids/"
   - "/voids/attention-disorders-and-consciousness/"
@@ -158,7 +158,7 @@ The disorder-based claim would be challenged if neuroscience found markers of co
 1. Watzl, S. (2017). *Structuring Mind: The Nature of Attention and How it Shapes Consciousness*. Oxford University Press.
 2. Mack, A. & Rock, I. (1998). *Inattentional Blindness*. MIT Press.
 3. Simons, D. J., & Chabris, C. F. (1999). "Gorillas in Our Midst: Sustained Inattentional Blindness for Dynamic Events." *Perception*, 28(9), 1059-1074.
-4. Müller, N. G., et al. (2005). "The Attentional Spotlight's Penumbra: Center-Surround Modulation in Striate Cortex." *NeuroReport*, 16(7).
+4. Müller, N. G. & Kleinschmidt, A. (2004). "The Attentional 'Spotlight's' Penumbra: Center-Surround Modulation in Striate Cortex." *NeuroReport*, 15(6), 977-980.
 5. Gurwitsch, A. (2010). *The Field of Consciousness: Theme, Thematic Field, and Margin*. Springer.
 6. James, W. (1890). *The Principles of Psychology*. Henry Holt and Company.
 7. Barkley, R.A. (2015). *Attention-Deficit Hyperactivity Disorder: A Handbook for Diagnosis and Treatment* (4th ed.). Guilford Press.

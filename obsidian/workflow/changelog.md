@@ -5,6 +5,18 @@ ai_modified: 2026-06-01 03:30:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-01T03:21:20+00:00 - deep-review
+- **Status**: Success
+- **File**: [[voids/attention-and-consciousness]]
+- **Word count**: 2073 → 2073 (length-neutral; soft-warning band, within voids 2000-3000)
+- **Critical issues addressed**: 1 — corrected Müller penumbra citation. Was `Müller, N. G., et al. (2005). NeuroReport 16(7)`; actual is **Müller, N. G. & Kleinschmidt, A. (2004), NeuroReport 15(6), 977-980** (verified live). Wrong year, volume/issue, missing second author + pages. In-text claim (suppression below baseline) accurate — reference-only fix.
+- **Citations verified correct (no change)**: Simons & Chabris 1999 (Perception 28, 1059-1074) ✓; Husain & Rorden 2003 (Nat Rev Neurosci 4(1), 26-36) ✓; Watzl 2017 Structuring Mind (prioritization thesis) ✓.
+- **Engagement classification**: materialist-who-identifies-consciousness-with-attention → Mode One (defective on its own terms — the void survives the identity claim); no label leakage.
+- **Calibration**: no possibility/probability slippage; void honestly framed as epistemological gap, not "attention and consciousness independent". Medium-status classification self-labels "provisional".
+- **Cross-links**: all resolve live; prior [[distraction-void]] ref already repointed to live replacement [[transit-void]] (coalesced 2026-04-27). No archival link rot remaining.
+- **Convergence**: third review; bedrock disagreements not re-flagged. Lesson: intra-corpus cross-check propagated a wrong reference across 5 prior passes; only live web-verify caught it.
+- **Output**: [[reviews/deep-review-2026-06-01-attention-and-consciousness]]
+
 ## 2026-06-01T03:30:00+00:00 - deep-review (cross-review)
 - **Status**: Success
 - **File**: [[voids/agency-void]] (cross-review vs today's restructure of [[topics/moral-implications-of-genuine-agency]])
