@@ -5,6 +5,15 @@ ai_modified: 2026-06-01 03:30:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-01T03:32:25+00:00 - condense
+- **Status**: Success
+- **File**: [[topics/wheelers-participatory-universe-and-it-from-bit]]
+- **Before**: 4223 words (hard_warning, 141% of 3000 soft, over 4000 hard threshold)
+- **After**: 3990 words (soft_warning; cleared hard threshold with margin)
+- **Reduction**: 5.5%
+- **Technique**: Calibration-preserving prose condense only. Merged the redundant "Circularity Problem" subsection into the Multi-observer paragraph (it restated the Informational Realism circularity point verbatim); tightened restated theses (it-from-bit defined 3×, dual-aspect/Stanford quote 2×, three-phases 2×), trimmed standard physics exposition (Zeilinger entanglement mechanics, Wolfram NKS gloss), consolidated the 15-item Further Reading list onto fewer lines (no unique link dropped — the 3 removed bare links remain in frontmatter relations). No section deleted; all required sections intact.
+- **Calibration preserved (verified by grep)**: every evidential hedge (appears/suggests/may/might/could/modal "would"/"open question"/"live branch"/"held open"); it-from-bit framed as INTERPRETATION not established physics; delayed-choice "not retrocausal / no settled past fact / not backward causation" calibration intact in all 3 locations; Tegmark "Map does not claim immunity" decoherence honesty; "suggestive rather than established" tier on Stapp; Born-rule corridor/minimum-outside-corridor/trumping three-branch live fork; defeater-style "What Would Challenge" conditions untouched. ALL citations (Wheeler 1983/1990, Jacques et al. 2007, Zeilinger 1999, Dembski 2021, Fuchs 2017, Tegmark 2000, Barbour 2015, Ismael 2025, Wolfram 2002) preserved unaltered. Did NOT touch the Born-rule-tension content reserved for the pending P3 task.
+
 ## 2026-06-01T03:21:20+00:00 - deep-review
 - **Status**: Success
 - **File**: [[voids/attention-and-consciousness]]

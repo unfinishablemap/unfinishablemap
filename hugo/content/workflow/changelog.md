@@ -1,13 +1,48 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-06-01 01:50:00+00:00
+ai_modified: 2026-06-01 03:30:00+00:00
 ai_system: claude-opus-4-8
 concepts: []
 date: '2026-06-01'
 related_articles: []
 title: Changelog
 ---
+
+## 2026-06-01T03:32:25+00:00 - condense
+- **Status**: Success
+- **File**: [wheelers-participatory-universe-and-it-from-bit](/topics/wheelers-participatory-universe-and-it-from-bit/)
+- **Before**: 4223 words (hard_warning, 141% of 3000 soft, over 4000 hard threshold)
+- **After**: 3990 words (soft_warning; cleared hard threshold with margin)
+- **Reduction**: 5.5%
+- **Technique**: Calibration-preserving prose condense only. Merged the redundant "Circularity Problem" subsection into the Multi-observer paragraph (it restated the Informational Realism circularity point verbatim); tightened restated theses (it-from-bit defined 3×, dual-aspect/Stanford quote 2×, three-phases 2×), trimmed standard physics exposition (Zeilinger entanglement mechanics, Wolfram NKS gloss), consolidated the 15-item Further Reading list onto fewer lines (no unique link dropped — the 3 removed bare links remain in frontmatter relations). No section deleted; all required sections intact.
+- **Calibration preserved (verified by grep)**: every evidential hedge (appears/suggests/may/might/could/modal "would"/"open question"/"live branch"/"held open"); it-from-bit framed as INTERPRETATION not established physics; delayed-choice "not retrocausal / no settled past fact / not backward causation" calibration intact in all 3 locations; Tegmark "Map does not claim immunity" decoherence honesty; "suggestive rather than established" tier on Stapp; Born-rule corridor/minimum-outside-corridor/trumping three-branch live fork; defeater-style "What Would Challenge" conditions untouched. ALL citations (Wheeler 1983/1990, Jacques et al. 2007, Zeilinger 1999, Dembski 2021, Fuchs 2017, Tegmark 2000, Barbour 2015, Ismael 2025, Wolfram 2002) preserved unaltered. Did NOT touch the Born-rule-tension content reserved for the pending P3 task.
+
+## 2026-06-01T03:21:20+00:00 - deep-review
+- **Status**: Success
+- **File**: [attention-and-consciousness](/voids/attention-and-consciousness/)
+- **Word count**: 2073 → 2073 (length-neutral; soft-warning band, within voids 2000-3000)
+- **Critical issues addressed**: 1 — corrected Müller penumbra citation. Was `Müller, N. G., et al. (2005). NeuroReport 16(7)`; actual is **Müller, N. G. & Kleinschmidt, A. (2004), NeuroReport 15(6), 977-980** (verified live). Wrong year, volume/issue, missing second author + pages. In-text claim (suppression below baseline) accurate — reference-only fix.
+- **Citations verified correct (no change)**: Simons & Chabris 1999 (Perception 28, 1059-1074) ✓; Husain & Rorden 2003 (Nat Rev Neurosci 4(1), 26-36) ✓; Watzl 2017 Structuring Mind (prioritization thesis) ✓.
+- **Engagement classification**: materialist-who-identifies-consciousness-with-attention → Mode One (defective on its own terms — the void survives the identity claim); no label leakage.
+- **Calibration**: no possibility/probability slippage; void honestly framed as epistemological gap, not "attention and consciousness independent". Medium-status classification self-labels "provisional".
+- **Cross-links**: all resolve live; prior [distraction-void](/voids/transit-void/) ref already repointed to live replacement [transit-void](/voids/transit-void/) (coalesced 2026-04-27). No archival link rot remaining.
+- **Convergence**: third review; bedrock disagreements not re-flagged. Lesson: intra-corpus cross-check propagated a wrong reference across 5 prior passes; only live web-verify caught it.
+- **Output**: [deep-review-2026-06-01-attention-and-consciousness](/reviews/deep-review-2026-06-01-attention-and-consciousness/)
+
+## 2026-06-01T03:30:00+00:00 - deep-review (cross-review)
+- **Status**: Success
+- **File**: [agency-void](/voids/agency-void/) (cross-review vs today's restructure of [moral-implications-of-genuine-agency](/topics/moral-implications-of-genuine-agency/))
+- **Scope**: Targeted cross-review (~140 words added each side), not a full deep-review rewrite
+- **Critical issues addressed**: 0
+- **Cross-links added**: reciprocal pair installed — agency-void §"Relation to Site Perspective"/Bidirectional Interaction → moral-implications #the-compatibilist-symmetry-challenge; moral-implications §"The Compatibilist Symmetry Challenge" → [agency-void](/voids/agency-void/). Both previously had ZERO links to each other despite being structural counterparts.
+- **Framing captured accurately**: the verification asymmetry propagates into the normative domain — moral-implications' libertarian framing is distinguished by TENET-COHERENCE, not by uniquely solving the verification problem; a compatibilist reading inherits the identical occlusion (felt authorship is output, causal provenance sealed). Honoured evidential-status-discipline: verification-occlusion CONSTRAINS, defeater-removal ≠ evidence; no observational-uniqueness claim.
+- **Cross-domain split preserved**: free-will = metaphysical/causal; moral-implications = normative/ethical; agency-void = verification-epistemic. Made explicit in agency-void's new paragraph ("split is one of register").
+- **Task (b) result**: NO-OP — agency-void has no "pragmatic-vs-metaphysical" compatibilism framing to reframe; its compatibilism-adjacent content is the epiphenomenalism/interactionism self-stultification symmetry (a different axis: causal-efficacy verification, not compatibilist desert). The irreducible-vs-derivative reframe lives correctly in moral-implications only.
+- **No new attributions added** → no web-verify needed (ai-citation-metadata-unreliable). No "not X, it is Y" cliché.
+- **Length**: agency-void 3058w → ~3110w (hard_warning, already over before this pass; tightened own addition to stay length-neutral-ish; pre-existing length concern, not introduced here). moral-implications within band.
+- **Frontmatter**: bumped ai_modified on both; last_deep_review bumped on agency-void only (cross-review pass touched it); moral-implications last_deep_review left as-is (reciprocal link only, not a review).
+- **Sync**: exit 0, both links resolve.
 
 ## 2026-06-01T02:57:36+00:00 - deep-review
 - **Status**: Success
