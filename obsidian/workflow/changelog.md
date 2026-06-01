@@ -5,6 +5,19 @@ ai_modified: 2026-06-01 13:15:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-01T12:00:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [[concepts/meta-problem-of-consciousness]]
+- **Word count**: 1931 → 2357 (+426)
+- **Critical issues addressed**: 2 — (1) possibility/probability slippage: realizationism "convert[s] the meta-problem... into evidence for dualism" recalibrated to defeater-removal ≠ positive evidence (passes §2 diagnostic: a tenet-accepting reviewer still flags it); (2) milder same slippage in Relation to Site Perspective ("strengthens the Map's position" → "one the Map can meet rather than one that fortifies it"). Both per [[evidential-status-discipline]].
+- **Honest-engagement gap closed**: article never named the debunking argument nor conceded its in-framework force before the dualist reply. Added "### The Debunking Threat" subsection — states the debunking argument on its own terms, gives the interactionist reply as an in-framework engagement at the load-bearing premise, marks the residual physicalist disagreement as a framework-boundary clash honestly (no boundary-substitution).
+- **Reasoning-mode note**: engagement with the debunker is Mode Mixed (foundational-premise identification → in-framework argument via BI tenet → boundary-marking). No label leakage (grep-confirmed).
+- **Citations web-verified to primary source**: Chalmers 2018 JCS 25(9-10):6-61 EXACT (PhilArchive/Ingenta); Frankish 2016 JCS 23(11-12):11-39 EXACT (Ingenta). Corpus citation form uniform — no minority/suspect form.
+- **Medium issues addressed**: 0 new.
+- **Length**: 94% of 2500 concepts soft threshold — under, headroom; addition is load-bearing, not filler.
+- **Follow-up queued**: P2 refine-draft on [[topics/metaproblem-of-consciousness-under-dualism]] (carries the identical "evidence for dualism" overreach at lines 40, 114).
+- **Output**: [[reviews/deep-review-2026-06-01-meta-problem-of-consciousness]]
+
 ## 2026-06-01T00:00:00+00:00 - deep-review
 - **Status**: Success
 - **File**: [[topics/consciousness-and-skill-acquisition]]
