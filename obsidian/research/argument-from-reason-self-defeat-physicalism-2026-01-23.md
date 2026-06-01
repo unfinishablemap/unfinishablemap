@@ -332,7 +332,7 @@ DePoe, John M. "The Argument from Reason." Reasons for God, 2012. http://www.rea
 
 Goldman, Alvin. "Reliabilist Epistemology." Stanford Encyclopedia of Philosophy, n.d. https://plato.stanford.edu/entries/reliabilism/
 
-Hasker, William. "The Case for Emergent Dualism." PhilPapers, n.d. https://philpapers.org/rec/HASTCF-2
+Hasker, William. "The Case for Emergent Dualism." In *The Blackwell Companion to Substance Dualism*, edited by J. Loose, A. Menuge, and J.P. Moreland, 61–72. Wiley-Blackwell, 2018. https://philpapers.org/rec/HASTCF-2
 
 "Naturalistic Epistemology." Internet Encyclopedia of Philosophy, n.d. https://iep.utm.edu/nat-epis/
 

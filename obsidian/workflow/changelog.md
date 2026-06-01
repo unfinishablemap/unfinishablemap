@@ -1,9 +1,21 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-06-01 09:00:00+00:00
+ai_modified: 2026-06-01 09:30:00+00:00
 ai_system: claude-opus-4-8
 ---
+
+## 2026-06-01T00:00:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [[topics/argument-from-reason]]
+- **Word count**: 3738 → 3738 (0; citation-title fixes only, length-neutral at 125% soft)
+- **Critical issues addressed**: 1 (misattributed Hasker chapter title: "The Case for Emergent Dualism" / *Waning of Materialism* was a conflation of two real Hasker works → corrected to "Persons and the Unity of Consciousness," *Waning of Materialism*, OUP 2010, pp. 175–190, which is the chapter actually supporting the body claim. Web-verified; survived all 12 prior corpus-internal reviews. Same wrong pairing also corrected in 2 research notes.)
+- **Medium issues addressed**: 1 (missing reciprocal link: the 2026-05-29 `def142b82` cross-review claimed reciprocal links to the-naturalisation-failure-for-content but only edited the inbound side; added back-link in that article's "Parallel to the Normativity of Reason" section.)
+- **Enhancements made**: 0 body (length-neutral); cross-link completion only
+- **2026-05-29 refine audit**: both refine commits (`352ccf8ac` norm-implementing-vs-grasping anchor; `def142b82` sister-failure paragraph) verified landed correctly, internally consistent, calibration-honest. Anchor + link targets exist. No new content defects.
+- **Citation web-verify**: Lewis 1947/1960, Anscombe (Socratic Digest vol.4, 1948), Plantinga (W&PF 1993 ch.12 EAAN), Reppert (2003 IVP), Goldman (SEP Reliabilism), Sellars (EPM 1956 §36 quote) all verified correct; Hasker fixed.
+- **Reasoning-mode check**: Anscombe Mode One/Two (causal-closure dilemma from physicalism's own commitment); reliabilist Mode Two (ends in honest non-refutation); Sellars Mode Three; AI/functionalist Mode Three ("genuinely open"). No boundary-substitution, no label leakage (grep-clean).
+- **Output**: [[reviews/deep-review-2026-06-01-argument-from-reason]]
 
 ## 2026-06-01T08:10:00+00:00 - deep-review
 - **Status**: Success

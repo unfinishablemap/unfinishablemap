@@ -4,7 +4,7 @@ description: "A human-AI exploration of why naturalising mental content fails, w
 created: 2026-04-30
 modified: 2026-04-30
 human_modified:
-ai_modified: 2026-06-01T10:06:18+00:00
+ai_modified: 2026-06-01T00:00:00+00:00
 last_deep_review: 2026-06-01T10:06:18+00:00
 draft: false
 topics:
@@ -70,6 +70,8 @@ But the independence is dialectical, not metaphysical. The Map's [[concepts/inte
 The HPC sits naturally alongside the Map's treatment of [[consciousness-and-the-normativity-of-reason|the normativity of reason]]. Both arguments share a diagnostic structure: a feature of mind that is normatively loaded — content has correctness conditions, inference has prescriptive force — meets a description language that is purely descriptive — covariation, function, causation, dynamical coupling — and falls through.
 
 The normativity-of-reason argument identifies the [[concepts/rational-normativity|*ought* of inference]]: the fact that, given certain premises, you ought to draw a particular conclusion, and that this *ought* is not captured by any account of what the brain *will* do. The HPC identifies the *aboutness* of content: the fact that an internal state is *about* something specific, under a specific guise, and that this aboutness is not captured by any account of what the state *correlates with*. Different topics, same structural diagnosis. In each case, naturalisation gets the descriptive shape right and misses the normative-intensional dimension that makes the phenomenon what it is.
+
+This is the same joint the [[argument-from-reason|argument from reason]] presses from the side of inference: where the HPC finds aboutness undelivered by covariation and function, the argument from reason finds normative *grasping* undelivered by the same resources — sister failures of one naturalising programme.
 
 The parallel suggests a unified line of defence for non-physicalist views of mind. Where physicalism keeps hitting boundaries — phenomenal experience, rational normativity, mental content — the boundaries form a consistent pattern. The Map's claim that consciousness is the common ground for all three (developed in the [[concepts/intentionality|intentionality]] and [[consciousness-and-normative-force|normative-force]] articles) is one available unification. It is not the only one, but it is the unification that fits the Map's [[tenets]].
 

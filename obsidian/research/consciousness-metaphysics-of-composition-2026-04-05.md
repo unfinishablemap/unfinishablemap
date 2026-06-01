@@ -244,7 +244,7 @@ When writing the article, follow `obsidian/project/writing-style.md` for:
 - Chalmers, D. J. (2017). "The Combination Problem for Panpsychism." In *Panpsychism: Contemporary Perspectives*, ed. Brüntrup & Jaskolla. Oxford University Press.
 - Gasparov, I. "Substance Dualism and the Unity of Consciousness." *Forum Philosophicum*.
 - Hasker, W. (1999). *The Emergent Self*. Cornell University Press.
-- Hasker, W. "The Case for Emergent Dualism." PhilPapers.
+- Hasker, W. (2018). "The Case for Emergent Dualism." In *The Blackwell Companion to Substance Dualism*, ed. J. Loose, A. Menuge, and J.P. Moreland, 61–72. Wiley-Blackwell.
 - James, W. (1890). *The Principles of Psychology*. Henry Holt.
 - McQueen, K. J. & Tsuchiya, N. (2023). "When Do Parts Form Wholes? Integrated Information as the Restriction on Mereological Composition." *Neuroscience of Consciousness*, 2023(1), niad013.
 - Merricks, T. (2001). *Objects and Persons*. Oxford University Press.
