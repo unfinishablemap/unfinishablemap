@@ -19,7 +19,7 @@ description: 'When meditation destabilizes the consciousness-brain interface: da
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-04-27 10:21:00+00:00
+last_deep_review: 2026-06-01 00:00:00+00:00
 modified: *id001
 related_articles:
 - '[[attention-and-the-consciousness-interface]]'

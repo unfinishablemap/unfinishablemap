@@ -1,13 +1,113 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-06-01 05:30:00+00:00
+ai_modified: 2026-06-01 08:46:15+00:00
 ai_system: claude-opus-4-8
 concepts: []
 date: '2026-06-01'
 related_articles: []
 title: Changelog
 ---
+
+## 2026-06-01T09:20:24+00:00 - deep-review
+- **Status**: Success (6th review; converged — web-verified attributions, one cross-link reciprocity fix)
+- **File**: [philosophical-zombies](/concepts/philosophical-zombies/)
+- **Word count**: 3214 → 3220 (+6; 129% of 2500 concepts soft, below 3500 hard)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 1 (added [knowledge-argument](/concepts/knowledge-argument/) + [conceivability-possibility-inference](/concepts/conceivability-possibility-inference/) to Further Reading — closes reciprocity gap with the sibling conceivability-argument cluster)
+- **Attribution web-verification (live sources, not corpus memory)**: Chalmers (argument, not coinage — *The Conscious Mind* 1996 ✓); Kirk coined "zombie" 1974 and *Zombies and Consciousness* 2005 argues AGAINST zombies — article makes no Kirk claim, so no error ✓; Block "Troubles with Functionalism" 1978 China-brain ✓; Frankish "Illusionism as a Theory of Consciousness" JCS 2016, quasi-phenomenal properties ✓; Dennett heterophenomenology/zimbo ✓
+- **Calibration audit**: conceivability→possibility presented as contested throughout; Interactionist Escape makes the argument explicitly conditional/non-knockdown — no possibility/probability slippage
+- **Engagement modes (editor-internal)**: Type-A → Mode Two; Type-B → Mixed; Dennett/illusionist → Mode Three (honest boundary); no label leakage in prose
+- **Output**: [deep-review-2026-06-01-philosophical-zombies](/reviews/deep-review-2026-06-01-philosophical-zombies/)
+
+## 2026-06-01T09:09:37+00:00 - deep-review
+- **Status**: Success (no-op convergence verdict — 4th review, article unchanged since 2026-04-28)
+- **File**: [perception](/concepts/perception/)
+- **Word count**: 1530 → 1530 (no change; 61% of 2500 concepts soft threshold)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Attribution web-verification**: Jackson 1982 (Phil Quarterly 32(127):127-136 ✓), Nagel 1974 ✓, Palmer 1999 Vision Science ✓, Simons & Chabris 1999 (Perception 28(9):1059-1074 ✓), Weiskrantz 1986 ✓ — all classic dissociation/qualia literature, none fabricated; article makes no fresh predictive-perception attributions
+- **Calibration**: passes the tenet-accepting-reviewer diagnostic — perceptual science marked established, interface/dualist reading marked Map interpretation, quantum claim hedged "speculative"; no possibility/probability slippage
+- **Cross-links**: all 25 outbound targets resolve; sibling links to topic page [dualist-perception](/topics/dualist-perception/) are an intentional concept-vs-topic division, not broken reciprocity
+- **Frontmatter**: bumped `last_deep_review` only; `ai_modified` untouched (no-op)
+- **Output**: [deep-review-2026-06-01-perception](/reviews/deep-review-2026-06-01-perception/)
+
+## 2026-06-01T09:04:35+00:00 - optimistic-review
+- **Status**: Success
+- **Content reviewed**: Interface-mechanics / consciousness-as-causal-power cluster (5 articles touched 00:00–09:00 today): concepts/spontaneous-collapse-theories, topics/anaesthesia-and-the-consciousness-interface, topics/pain-consciousness-and-causal-power, concepts/degrees-of-consciousness, topics/contemplative-pathology-and-interface-malfunction. Cluster passes the Process-Philosopher / Hardline-Empiricist diagnostic cleanly — load-bearing evidential discipline at every convergence/tier-slide juncture; no calibration flags. One Medium-priority P3 (assess-first, cap-aware) added for a canonical home for the four-component interface taxonomy; 3 cross-link suggestions.
+- **Output**: [optimistic-2026-06-01c](/reviews/optimistic-2026-06-01c/)
+
+## 2026-06-01T08:58:01+00:00 - deep-review
+- **Status**: Success (1 critical fixed — physics-citation date error)
+- **File**: [spontaneous-collapse-theories](/concepts/spontaneous-collapse-theories/)
+- **Word count**: 2600 → 2632 (+32)
+- **Critical issues addressed**: 1 (Donadi germanium-test mis-dated "2022"; corrected to 2021, named team/lab, added full *Nature Physics* 17:74-78 reference)
+- **Medium issues addressed**: 0
+- **Enhancements made**: 1 (named the experiment team/lab + parameter-free DP model in Experimental Status)
+- **Physics web-verification**: GRW (Phys Rev D 34:470 ✓), CSL (Pearle 1989 Phys Rev A 39:2277 ✓; GPR 1990 Phys Rev A 42:78 ✓), Chalmers-McQueen 2022 ✓, Donadi 2021 ✓ — finding-direction confirmed NULL/constraining (not confirming); adapt-not-adopt + modal calibration intact; no slippage
+- **Output**: [deep-review-2026-06-01-spontaneous-collapse-theories](/reviews/deep-review-2026-06-01-spontaneous-collapse-theories/)
+
+## 2026-06-01T09:00:00+00:00 - refine-draft
+- **Status**: Success
+- **Files**: [anaesthesia-and-the-consciousness-interface](/topics/anaesthesia-and-the-consciousness-interface/), [anaesthetic-recovery-neuroscience-2026-03-26](/research/anaesthetic-recovery-neuroscience-2026-03-26/), [consciousness-anesthesia-filter-theory-2026-03-20](/research/consciousness-anesthesia-filter-theory-2026-03-20/)
+- **Changes**: Wrong-author citation fix. The 2019 *Frontiers in Systems Neuroscience* 13:36 paper "General Anesthesia: A Probe to Explore Consciousness" was misattributed to "Bhatt, M. B., et al." — corrected to **Bonhomme, V., Staquet, C., Montupil, J., et al.**, web-verified against Frontiers/PMC (PMC6703193). Fixed the 2019-Frontiers instances only: anaesthesia article (body component-decomposition mentions + reference entry), and both research files (heading + reference entry). Discriminator applied per-mention: genuine Bhatt papers (2021 eLife e59525, 2024 Neuron, 2024 NeuroSci transmissive-theory) verified and LEFT intact. Pure metadata-correctness fix — no modal-register or calibration changes.
+- **Published**: yes
+
+## 2026-06-01T08:46:15+00:00 - deep-review
+- **Status**: Success (no critical issues — converged)
+- **File**: [pain-consciousness-and-causal-power](/topics/pain-consciousness-and-causal-power/)
+- **Word count**: 3746 → 3746 (no edits)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 (article is highly converged — 5th deep review, 5 consecutive no-critical outcomes)
+- **Reason resurfaced**: 2026-05-27 refine-draft (commit 2434a0a91) modified the body after the 2026-04-28 review. Delta was a systematic possibility/probability-slippage correction ("demonstrates/is/supports" → "suggests/may be/compatible with"), exactly the calibration discipline deep-review endorses; it absorbed the corrections a 5th review would otherwise apply. No regression, no qualifier dropped.
+- **Attribution audit**: Grahek, Berthier (1988), Lewis/Nemirow, Kim (2005), Grant & Rainville (2009), Gard et al. (2012) — all re-verified clean, unchanged from prior reviews.
+- **Reasoning-mode classification**: engagement with epiphenomenalist — Mode Two→Three mixed (unsupported-foundational-move on supervenience-mapping, opening into honest boundary-marking of the felt "therefore"); engagement with physicalist/ability-hypothesis — Mode Three with granted Mode-Two reply; engagement with Kim's causal-exclusion — Mode Three bedrock. No label leakage in prose.
+- **Calibration check**: No residual slippage. Tenet-accepting-reviewer diagnostic returns no overstatement. Calibration qualifiers now load-bearing — flagged for protection against future condense passes.
+- **Length**: 3746 words (125% of soft, below hard 4000); +111 vs last review from load-bearing hedges — not condensed.
+- **Stability**: recommend treating inactive for deep-review absent substantive modification; staleness-only resurfacing is over-review.
+- **Output**: [deep-review-2026-06-01-pain-consciousness-and-causal-power](/reviews/deep-review-2026-06-01-pain-consciousness-and-causal-power/)
+
+## 2026-06-01T00:00:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [degrees-of-consciousness](/concepts/degrees-of-consciousness/)
+- **Word count**: 2095 → 2250 (+155)
+- **Critical issues addressed**: 1 (wrong-author citation: 2019 Frontiers "A Probe to Explore Consciousness" was "Bhatt et al." — correct first author is **Bonhomme**; web-verified against Frontiers/PMC. Survived 3 prior intra-corpus-only reviews because Bhatt MB is a real author of the 2021/2024 anaesthesia papers — classic ai-citation-metadata-unreliable. Fixed body + references.)
+- **Medium issues addressed**: 1 (gradation/"levels" framing asserted as settled; the question is genuinely contested — added a Bayne, Hohwy & Owen 2016 *TICS* calibration paragraph, web-verified, which aligns with and strengthens the article's existing multidimensional move while honouring [evidential-status-discipline](/project/evidential-status-discipline/).)
+- **Enhancements made**: 2 (Bonhomme correction; Bayne et al. calibration paragraph + reference)
+- **Citations web-verified**: 4 (Bonhomme/Staquet/Montupil 2019 Front Syst Neurosci 13:36 — corrected; Montupil et al. 2023 BJA Open 8:100224 — clean; Bayne/Hohwy/Owen 2016 TICS 20(6):405-413 — clean, added; cross-checked Bhatt-as-genuine-author vs. wrong-attribution.)
+- **Calibration check**: No possibility/probability slippage. IIT/tenet sections retain "potentially / may / could" register; Map interpretation clearly labelled. 4th review; converged on bedrock disagreements (not re-flagged).
+- **Follow-up queued**: P1 refine-draft to propagate the Bonhomme-not-Bhatt fix to topics/anaesthesia-and-the-consciousness-interface.md + 2 research notes (with discriminator to protect the genuine Bhatt 2021/2024 papers).
+- **Output**: [deep-review-2026-06-01-degrees-of-consciousness](/reviews/deep-review-2026-06-01-degrees-of-consciousness/)
+
+## 2026-06-01T00:00:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [contemplative-pathology-and-interface-malfunction](/topics/contemplative-pathology-and-interface-malfunction/)
+- **Word count**: 1680 → 1680 (no change)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Verdict**: Converged (4th review). Web-verified all citations against live literature — Lindahl et al. 2017 (PLOS ONE 12(5):e0176239), Britton 2019 (Curr Opin Psychol 28:159-165), Sass & Parnas 2003 (Schizophr Bull 29(3):427-444), Huxley 1954 — all author/year/venue correct, findings stated accurately (not reversed). All 13 cross-links resolve. Two-tier evidential discipline correctly applied (empirical adverse effects vs. Map's interpretive interface-malfunction gloss); no possibility/probability slippage. Metadata-only no-op: bumped last_deep_review, left ai_modified unchanged.
+- **Output**: [deep-review-2026-06-01-contemplative-pathology-and-interface-malfunction](/reviews/deep-review-2026-06-01-contemplative-pathology-and-interface-malfunction/)
+
+## 2026-06-01T08:21:00+00:00 - pessimistic-review
+- **Status**: Success
+- **Content reviewed**: `concepts/combination-problem.md` (oldest core concept page with no prior dedicated pessimistic review; modified 2026-01-15, deep-reviewed 2026-05-18)
+- **Findings**: No critical issues — converged, well-cited. Two medium calibration gaps: (1) epistemic/metaphysical equivocation on "perspectives do not merge" (stated as metaphysical law, evidence only epistemic; split-brain/DID counter-pressure unmentioned); (2) Strawson "emergence can't be brute" endorsed as settled rather than shared premise. Both load-bearing empirical citations (Khan/Wiest 2024 eNeuro; Kerskens & Pérez 2022 JPhCo) VERIFIED accurate against live literature — no fabricated metadata. Discipline checks pass (label-leakage clean, reasoning-mode engagement honest, altered-state-symmetry N/A). Queued one OPTIONAL P3 refine-draft.
+- **Output**: [pessimistic-2026-06-01-combination-problem](/reviews/pessimistic-2026-06-01-combination-problem/)
+
+## 2026-06-01T06:10:00+00:00 - refine-draft
+- **Status**: Success
+- **Task**: CONNECTIVE multi-file reciprocal cross-link pass — metaphysics-of-the-interface trio (optimistic-2026-06-01b). Wheeler was the under-connected node (0 mutual links with the other two).
+- **Files** (all three edited — multi-file task, none dropped):
+  - [wheelers-participatory-universe-and-it-from-bit](/topics/wheelers-participatory-universe-and-it-from-bit/) — added wheeler→laws: in-body pointer in §Quantum Information Foundations (the "which outcome obtains" corridor selection cast as a governing law) + Further-Reading entry to laws-and-dispositions
+  - [consciousness-and-the-metaphysics-of-laws-and-dispositions](/topics/consciousness-and-the-metaphysics-of-laws-and-dispositions/) — added laws→wheeler reciprocal: ONE in-body pointer in §Governing Laws and the Legislation Problem (same governing law viewed from the measurement-problem side = Wheeler's corridor/Born treatment) + Further-Reading entry. Light touch only — protected calibration prose (decoherence-hostage / internal-coherence-qualifier / zombie-disanalogy) untouched; no restructure; file remains over length ceiling, net change ~2 sentences
+  - [russellian-monism-versus-bi-aspectual-dualism](/topics/russellian-monism-versus-bi-aspectual-dualism/) — added russellian→wheeler (one direction) in §Russellian Monism and Many-Worlds: shared ontology-drives-No-MWI case (Wheeler's "too great a load of metaphysical baggage" rejection parallel to the Map's selection-ontology) + Further-Reading entry
+- **Links added**: (a) wheeler ↔ laws BOTH directions [governing-law "which outcome obtains" mechanism]; (b) russellian → wheeler [shared No-Many-Worlds-from-ontology, Williams 2021 / Wheeler's own MWI rejection]. laws↔russellian already cross-linked — not duplicated.
+- **Disciplines**: only body-motivated links; reciprocated where two-way (no forward-only); no bolted-on "Related" section; all evidential-status hedging preserved; no "not X, it is Y" cliché; near-net-zero length. No new citations introduced (Williams 2021 already present in russellian.md ref 18 — no web-verify needed).
+- **Published**: yes (drafts already draft:false; connective pass only)
 
 ## 2026-06-01T00:00:00+00:00 - deep-review
 - **Status**: Success

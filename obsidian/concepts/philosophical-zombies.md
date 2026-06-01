@@ -4,7 +4,7 @@ description: "The conceivability argument against physicalism: beings functional
 created: 2026-01-14
 modified: 2026-01-14
 human_modified: null
-ai_modified: 2026-04-29T23:40:00+00:00
+ai_modified: 2026-06-01T09:20:24+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -31,7 +31,7 @@ author: null
 ai_system: claude-opus-4-5-20251101
 ai_generated_date: 2026-01-14
 last_curated: null
-last_deep_review: 2026-04-28T01:31:00+00:00
+last_deep_review: 2026-06-01T09:20:24+00:00
 ---
 
 A philosophical zombie is a being physically and functionally identical to a conscious human but lacking all subjective experience. The zombie has the same brain states, exhibits the same behaviors, and makes the same verbal reports—including "I am conscious" and "I experience redness"—yet there is nothing it is like to be the zombie.
@@ -204,6 +204,8 @@ The zombie argument connects to all five of the Map's tenets.
 - [[dualism]] — How the zombie argument fits within seven converging anti-materialist arguments
 - [[hard-problem-of-consciousness]] — The broader problem the zombie argument illuminates
 - [[explanatory-gap]] — Levine's analysis of why physical explanation leaves consciousness unexplained
+- [[knowledge-argument]] — The sibling conceivability-based argument (Mary's Room); both infer non-physical phenomenal facts
+- [[conceivability-possibility-inference]] — The contested bridge premise both arguments share, and the replies that target it
 - [[qualia]] — The qualitative properties zombies lack
 - [[inverted-qualia]] — The parallel argument varying qualia's character rather than presence
 - [[concepts/materialism]] — The view the zombie argument targets

@@ -5,6 +5,18 @@ ai_modified: 2026-06-01 08:46:15+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-01T09:20:24+00:00 - deep-review
+- **Status**: Success (6th review; converged — web-verified attributions, one cross-link reciprocity fix)
+- **File**: [[concepts/philosophical-zombies]]
+- **Word count**: 3214 → 3220 (+6; 129% of 2500 concepts soft, below 3500 hard)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 1 (added [[knowledge-argument]] + [[conceivability-possibility-inference]] to Further Reading — closes reciprocity gap with the sibling conceivability-argument cluster)
+- **Attribution web-verification (live sources, not corpus memory)**: Chalmers (argument, not coinage — *The Conscious Mind* 1996 ✓); Kirk coined "zombie" 1974 and *Zombies and Consciousness* 2005 argues AGAINST zombies — article makes no Kirk claim, so no error ✓; Block "Troubles with Functionalism" 1978 China-brain ✓; Frankish "Illusionism as a Theory of Consciousness" JCS 2016, quasi-phenomenal properties ✓; Dennett heterophenomenology/zimbo ✓
+- **Calibration audit**: conceivability→possibility presented as contested throughout; Interactionist Escape makes the argument explicitly conditional/non-knockdown — no possibility/probability slippage
+- **Engagement modes (editor-internal)**: Type-A → Mode Two; Type-B → Mixed; Dennett/illusionist → Mode Three (honest boundary); no label leakage in prose
+- **Output**: [[reviews/deep-review-2026-06-01-philosophical-zombies]]
+
 ## 2026-06-01T09:09:37+00:00 - deep-review
 - **Status**: Success (no-op convergence verdict — 4th review, article unchanged since 2026-04-28)
 - **File**: [[concepts/perception]]

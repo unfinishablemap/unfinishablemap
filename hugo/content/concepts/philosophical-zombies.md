@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-14
-ai_modified: 2026-04-29 23:40:00+00:00
+ai_modified: 2026-06-01 09:20:24+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -26,7 +26,7 @@ description: 'The conceivability argument against physicalism: beings functional
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-04-28 01:31:00+00:00
+last_deep_review: 2026-06-01 09:20:24+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -206,6 +206,8 @@ The zombie argument connects to all five of the Map's tenets.
 - [dualism](/concepts/dualism/) — How the zombie argument fits within seven converging anti-materialist arguments
 - [hard-problem-of-consciousness](/topics/hard-problem-of-consciousness/) — The broader problem the zombie argument illuminates
 - [explanatory-gap](/concepts/explanatory-gap/) — Levine's analysis of why physical explanation leaves consciousness unexplained
+- [knowledge-argument](/concepts/knowledge-argument/) — The sibling conceivability-based argument (Mary's Room); both infer non-physical phenomenal facts
+- [conceivability-possibility-inference](/concepts/conceivability-possibility-inference/) — The contested bridge premise both arguments share, and the replies that target it
 - [qualia](/concepts/qualia/) — The qualitative properties zombies lack
 - [inverted-qualia](/concepts/inverted-qualia/) — The parallel argument varying qualia's character rather than presence
 - [materialism](/concepts/materialism/) — The view the zombie argument targets

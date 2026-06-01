@@ -1,10 +1,10 @@
 ---
 ai_contribution: 100
-ai_modified: 2026-05-13 18:51:00+00:00
+ai_modified: 2026-06-01 00:00:00+00:00
 ai_system: claude-opus-4-6
 concepts: []
 created: 2026-03-26
-date: '2026-05-13'
+date: '2026-06-01'
 draft: false
 related_articles: []
 title: Research Notes - Neuroscience of Anaesthetic Recovery
@@ -222,4 +222,4 @@ When writing the article, follow `obsidian/project/writing-style.md` for:
 10. Tononi G (2004). An information integration theory of consciousness. *BMC Neuroscience*, 5:42.
 11. Hameroff S, Penrose R (2014). Consciousness in the universe: A review of the 'Orch OR' theory. *Physics of Life Reviews*, 11(1):39-78. https://www.sciencedirect.com/science/article/pii/S1571064513001188
 12. Mashour GA (2014). Top-down mechanisms of anesthetic-induced unconsciousness. *Frontiers in Systems Neuroscience*.
-13. Bhatt MB, et al. (2019). General Anesthesia: A Probe to Explore Consciousness. *Frontiers in Systems Neuroscience*. https://www.frontiersin.org/journals/systems-neuroscience/articles/10.3389/fnsys.2019.00036/full
+13. Bonhomme V, Staquet C, Montupil J, et al. (2019). General Anesthesia: A Probe to Explore Consciousness. *Frontiers in Systems Neuroscience*, 13:36. https://www.frontiersin.org/journals/systems-neuroscience/articles/10.3389/fnsys.2019.00036/full

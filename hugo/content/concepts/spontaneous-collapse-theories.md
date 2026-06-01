@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-23
-ai_modified: 2026-04-30 19:21:00+00:00
+ai_modified: 2026-06-01 08:58:01+00:00
 ai_system: claude-sonnet-4-5-20250929
 author: null
 concepts:
@@ -25,7 +25,7 @@ description: 'GRW, CSL, and Penrose OR: physical collapse mechanisms that solve 
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-04-28 00:30:00+00:00
+last_deep_review: 2026-06-01 08:58:01+00:00
 modified: *id001
 related_articles:
 - '[[quantum-consciousness]]'
@@ -117,7 +117,7 @@ Orch OR aligns with [Dualism](/tenets/#dualism) and [Bidirectional Interaction](
 
 Spontaneous collapse theories are **falsifiable**—they make predictions distinguishable from standard quantum mechanics:
 
-1. **Germanium detector experiments** (2022): Ruled out simplest Diósi-Penrose model; constrained CSL parameter space
+1. **Germanium detector experiments** (Donadi et al. 2021, Gran Sasso): Ruled out the parameter-free Diósi-Penrose model; constrained CSL parameter space
 2. **Matter-wave interference**: Large molecule diffraction experiments test collapse rates
 3. **Gravitational wave detectors**: Ultra-sensitive LIGO-type devices can detect spontaneous heating predicted by CSL
 4. **Neutron star observations**: Constrain collapse models via thermal signatures
@@ -225,3 +225,4 @@ The **consciousness-modulated CSL** model (Chalmers and McQueen's CSL-IIT or sim
 1. Tegmark, M. (2000). Importance of quantum decoherence in brain processes. *Physical Review E*, 61(4), 4194-4206.
 1. Hagan, S., Hameroff, S. R., & Tuszyński, J. A. (2002). Quantum computation in brain microtubules: Decoherence and biological feasibility. *Physical Review E*, 65(6), 061901.
 1. Chalmers, D. J. & McQueen, K. J. (2022). Consciousness and the Collapse of the Wave Function. In S. Gao (Ed.), *Consciousness and Quantum Mechanics*. Oxford University Press.
+1. Donadi, S., Piscicchia, K., Curceanu, C., Diósi, L., Laubenstein, M., & Bassi, A. (2021). Underground test of gravity-related wave function collapse. *Nature Physics*, 17(1), 74-78.
