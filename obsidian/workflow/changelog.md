@@ -5,6 +5,12 @@ ai_modified: 2026-06-01 01:00:05+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-01T01:00:05+00:00 - pessimistic-review
+- **Status**: Success
+- **Content reviewed**: topics/consciousness-disruption-and-the-mind-brain-interface.md (filter-framed DoC/anaesthesia flagship; freshly ai_modified, no review since 2026-05-18)
+- **Key finding**: Altered-State Symmetry audit — supportive + disruptive clusters both cited, but symmetry-acknowledgment absent (zero markers); "Three independent lines of evidence" presented as a count, not one evidential pattern. Medium issue + concede-then-assert-past in-framework weakness. Queued P2 refine-draft.
+- **Output**: [[reviews/pessimistic-2026-06-01-consciousness-disruption-and-the-mind-brain-interface]]
+
 ## 2026-06-01T01:00:05+00:00 - deep-review
 - **Status**: Success (converged — no critical issues; one minor grammar fix)
 - **File**: [[concepts/many-worlds]]
