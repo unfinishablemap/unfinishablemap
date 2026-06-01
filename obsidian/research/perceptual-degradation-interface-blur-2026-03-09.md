@@ -216,5 +216,5 @@ When writing the article, follow `obsidian/project/writing-style.md` for:
 - Noë, A. (2004). *Action in Perception*. Cambridge, MA: MIT Press.
 - Phillips, I. (2021). "Blindsight Is Qualitatively Degraded Conscious Vision." *Psychological Review*, 128(3), 558–584.
 - Prakash, C., Stephens, K. D., Hoffman, D. D., Singh, M., & Fields, C. (2021). "Fitness Beats Truth in the Evolution of Perception." *Acta Biotheoretica*, 69, 263–275.
-- Skrzypulec, B. (2021). "Blur and Interoceptive Vision." *Philosophical Studies*, 178, 3149–3168.
+- Skrzypulec, B. (2021). "Blur and Interoceptive Vision." *Philosophical Studies*, 178, 3271–3289.
 - Tye, M. (1995). *Ten Problems of Consciousness*. Cambridge, MA: MIT Press.
