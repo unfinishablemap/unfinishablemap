@@ -4,7 +4,7 @@ description: "The experiential arc from deliberation through decision to volitio
 created: 2026-01-22
 modified: 2026-03-24
 human_modified:
-ai_modified: 2026-04-30T18:10:00+00:00
+ai_modified: 2026-06-01T13:20:00+00:00
 draft: false
 topics:
   - "[[topics/free-will]]"
@@ -48,7 +48,7 @@ author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-01-22
 last_curated:
-last_deep_review: 2026-04-30T09:31:00+00:00
+last_deep_review: 2026-06-01T13:20:00+00:00
 coalesced_from:
   - "/concepts/phenomenology-of-choice/"
   - "/concepts/phenomenology-of-volition/"
@@ -123,7 +123,7 @@ This maps onto the neural distinction between [[attention-as-interface|willed an
 
 The [[mental-effort|phenomenology of effort]] provides the strongest evidence for genuine conscious contribution. The [[trilemma-of-selection|trilemma of selection]] makes this systematic: at any decision point, the outcome is determined, random, or consciously selected — and only selection generates the phenomenology of effort. If choosing were merely receiving randomly determined outcomes, there should be no phenomenology of effort — random processes don't feel like work. See [[phenomenology-of-consciousness-doing-work|consciousness doing work]] for the broader case.
 
-### The Libet Timing Challenge and Its Dissolution
+### The Libet Timing Challenge and Its Weakening
 
 The strongest empirical objection comes from [[libet-experiments|Libet's experiments]] (1983): the readiness potential begins ~550ms before movement but ~350ms before subjects report awareness of intending to move — widely interpreted as proof that unconscious processes initiate action before consciousness arrives.
 

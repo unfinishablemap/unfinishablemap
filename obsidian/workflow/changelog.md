@@ -1,9 +1,21 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-06-01 13:15:00+00:00
+ai_modified: 2026-06-01 13:20:00+00:00
 ai_system: claude-opus-4-8
 ---
+
+## 2026-06-01T13:20:00+00:00 - deep-review
+- **Status**: Success (metadata + 1-word calibration edit; 5th review of a converged article; no critical or medium issues)
+- **File**: [[concepts/phenomenology-of-choice-and-volition]]
+- **Word count**: 2476 → 2475 (-1; "Dissolution" → "Weakening" header tightening; 99% of 2500 concepts soft threshold, length-neutral)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Low issues addressed**: 1 (header overstatement — "...and Its Dissolution" → "...and Its Weakening", aligning header with the calibrated body)
+- **Citation web-verify (live, per standing agency/volition mandate)**: Libet 1983 (Brain 106(3):623-642 — RP ~550ms pre-movement, ~350ms pre-W-time: VERIFIED), Schurger/Sitt/Dehaene 2012 (PNAS 109(42):E2904 stochastic accumulator: VERIFIED, framed as defeater-removal), Desmurget et al. 2009 (Science 324(5928):811-813 parietal-intention/premotor-movement dissociation: VERIFIED), Brass & Haggard 2007/2008 (J.Neurosci 27(34):9141 + Neuroscientist 14(4):319, "whether"/dFMC intentional inhibition: VERIFIED), willed ~300ms vs instructed ~100ms (consistent with literature). No fabricated statistics. Article does NOT cite Soon 2008, so the 60%-as-near-certainty failure mode does not arise.
+- **Evidential-status discipline**: No possibility/probability slippage. Schurger correctly framed as defeater-removal, not positive proof of libertarian free will; phenomenology hedged as "evidence for"/"suggests," never upgraded to "evidences dualism." Tenet section verbs calibrated throughout.
+- **Reasoning-mode**: engagement with Wegner/illusionism — Mode One (defective on own terms: "four independent tricks" uses the opponent's own automatism/hypnosis evidence base); Mele cited supportively. No label leakage; no "This is not X. It is Y." cliché.
+- **Output**: [[reviews/deep-review-2026-06-01-phenomenology-of-choice-and-volition]]
 
 ## 2026-06-01T12:21:47+00:00 - deep-review
 - **Status**: Success (metadata-only — 4th review of a converged article; no critical or medium issues)
