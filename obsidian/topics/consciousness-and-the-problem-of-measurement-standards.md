@@ -4,7 +4,7 @@ description: "Science requires measurement standards—units, instruments, calib
 created: 2026-02-19
 modified: 2026-02-19
 human_modified:
-ai_modified: 2026-04-30T05:55:00+00:00
+ai_modified: 2026-06-01T06:00:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -33,7 +33,7 @@ author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-02-19
 last_curated:
-last_deep_review: 2026-04-30T05:55:00+00:00
+last_deep_review: 2026-06-01T06:00:00+00:00
 ---
 
 The Unfinishable Map argues that the impossibility of measurement standards for phenomenal consciousness is not a temporary scientific limitation but a philosophical consequence of consciousness's irreducibility. Science requires three things to measure any quantity: a unit (what counts as one of the thing), an instrument (what detects it), and calibration (how to ensure instruments agree). For temperature, mass, and electromagnetic frequency, all three exist. For the intensity of pain, the depth of blue, or the felt weight of a moral dilemma, none do — and the reasons they cannot be constructed illuminate why consciousness resists physical reduction.

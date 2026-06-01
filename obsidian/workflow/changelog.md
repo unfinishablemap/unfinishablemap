@@ -5,6 +5,18 @@ ai_modified: 2026-06-01 10:51:37+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-01T06:00:00+00:00 - deep-review
+- **Status**: Success (no critical/medium issues; converged 6th-pass article, metadata-only)
+- **File**: [[topics/consciousness-and-the-problem-of-measurement-standards]]
+- **Word count**: 2150 → 2150 (no change; 72% of 3000 soft threshold)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Citations**: all 5 web/cross-corpus-verified — Nagel 1974 *Phil. Review* 83(4) 435-450 (web-confirmed), Varela 1996 *JCS* 3(4) 330-349 (cross-corpus, ~20 instances), Chang 2004 / Chalmers 1996 / Thompson 2007 (canonical). No orphaned refs, no fabricated authors. Decoherence-arithmetic trap N/A (no coherence-time claim in article).
+- **Calibration**: no possibility/probability slippage — "consistent with the dualist prediction" / "independent support" register correctly distinguishes defeater-removal from positive evidence; constraint-not-establishment discipline already honoured.
+- **Reasoning-mode (§2.6, editor-internal)**: engagement with the operationalist: Mode One/Two — reply works inside operationalism's own commitments ("changes the subject"; succeeds only where the operational definition is agreed, which for consciousness it is not); engagement with Dennett/heterophenomenology: Mode Three — honest boundary-marking, concedes the burden, no claim to refute inside Dennett's framework. No label leakage; no boundary-substitution.
+- **Output**: [[reviews/deep-review-2026-06-01-consciousness-and-the-problem-of-measurement-standards]]
+
 ## 2026-06-01T00:00:00+00:00 - deep-review
 - **Status**: Success (no critical issues; converged article, metadata-only)
 - **File**: [[topics/methodology-of-consciousness-research]]
