@@ -5,6 +5,17 @@ ai_modified: 2026-06-01 05:30:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-01T06:36:39+00:00 - deep-review
+- **Status**: Success
+- **File**: [[concepts/composition-and-consciousness]]
+- **Word count**: 2335 → ~2380 (+~45, length-neutral; ~95% of 2500 concept soft threshold)
+- **Critical issues addressed**: 0 (none found — all attributions web-verified faithful)
+- **Medium issues addressed**: 1 (added strong-emergence clarification to "Implications for Ontology" trichotomy; pre-empts strong-emergentist objection, strengthens [[emergence]] link)
+- **Enhancements made**: 1
+- **Web-verify**: confirmed Merricks (no global supervenience + causal non-redundancy), McQueen & Tsuchiya 2023 niad013 (vol/issue/ID exact), Coleman 2014 Erkenntnis 79:19-44, Van Inwagen, James — all faithful, no source/Map conflation
+- **Engagement modes** (editor-internal): materialist physical-analogies = Mode One; functionalist = Mode Two/Three mixed; panpsychism combination problem = Mode One. No label leakage; no boundary-substitution.
+- **Output**: [[reviews/deep-review-2026-06-01-composition-and-consciousness]]
+
 ## 2026-06-01T06:27:48+00:00 - apex-evolve
 - **Status**: Complete
 - **Article**: [[apex/what-consciousness-tells-us-about-physics]]
