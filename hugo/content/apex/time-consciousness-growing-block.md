@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-01
-ai_modified: 2026-05-03 11:41:37.772459+00:00
+ai_modified: 2026-06-01 00:00:00+00:00
 ai_system: claude-opus-4-6
 apex_last_synthesis: 2026-04-15 09:00:00+00:00
 apex_sources:
@@ -31,7 +31,7 @@ description: Consciousness requires temporal structure to exist. Time's arrow ma
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-05-01 10:10:00+00:00
+last_deep_review: 2026-06-01 00:00:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -47,7 +47,7 @@ This bidirectional dependence has implications that ripple outward. For AI: syst
 
 ## The Specious Present
 
-William James identified what he called the specious present—the brief interval within which we experience succession and change as unified wholes. Pure mathematical instants, however closely packed, never add up to experienced flow. Hearing a melody requires holding notes together; understanding a sentence requires grasping words as connected. Duration estimates vary—from roughly 100 milliseconds for basic perceptual binding to 2-3 seconds for the extended experiential present—but the phenomenon is robust: the experienced present has extent.
+William James developed the idea of the specious present—the brief interval within which we experience succession and change as unified wholes. James adopted the term from E.R. Clay, crediting it to him in *The Principles of Psychology*, and made it central to his account of temporal experience. Pure mathematical instants, however closely packed, never add up to experienced flow. Hearing a melody requires holding notes together; understanding a sentence requires grasping words as connected. Duration estimates vary—from roughly 100 milliseconds for basic perceptual binding to 2-3 seconds for the extended experiential present—but the phenomenon is robust: the experienced present has extent.
 
 Edmund Husserl's phenomenological analysis revealed the structure underlying this extent. Each moment of consciousness contains:
 

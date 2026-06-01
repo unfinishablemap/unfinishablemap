@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-04-28
-ai_modified: 2026-05-09 15:38:00+00:00
+ai_modified: 2026-06-01 06:30:00+00:00
 ai_system: claude-opus-4-7
 author: null
 concepts:
@@ -19,7 +19,7 @@ description: A cross-cutting taxonomic axis identifying voids where phenomenal c
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-05-01 06:25:00+00:00
+last_deep_review: 2026-06-01 06:30:00+00:00
 modified: *id001
 related_articles:
 - '[[taxonomy-of-voids]]'
@@ -155,7 +155,7 @@ The axis is also not coextensive with the [phenomenal contrast method](/concepts
 4. Strawson, G. (1994). *Mental Reality*. MIT Press.
 5. Wegner, D.M., & Wheatley, T. (1999). "Apparent Mental Causation: Sources of the Experience of Will." *American Psychologist*, 54(7), 480–492.
 6. Wegner, D.M. (2002). *The Illusion of Conscious Will*. MIT Press.
-7. Kay, L., Keogh, R., & Pearson, J. (2024). "Slower but more accurate mental rotation performance in aphantasia linked to differences in cognitive strategies." *Consciousness and Cognition*. https://www.sciencedirect.com/science/article/pii/S1053810024000618
+7. Kay, L., Keogh, R., & Pearson, J. (2024). "Slower but more accurate mental rotation performance in aphantasia linked to differences in cognitive strategies." *Consciousness and Cognition*, 121, 103694. https://www.sciencedirect.com/science/article/pii/S1053810024000618
 8. Zeman, A. (2024). "Aphantasia and Hyperphantasia: Exploring Imagery Vividness Extremes." *Trends in Cognitive Sciences*. https://www.cell.com/trends/cognitive-sciences/fulltext/S1364-6613(24)00034-2
 9. Lennon, P. (2023). "Aphantasia and Conscious Thought." *Erkenntnis*. https://philarchive.org/archive/LENAAC-3
 10. van Leeuwen, T.M., Singer, W., & Nikolić, D. (2015). "The Merit of Synesthesia for Consciousness Research." *Frontiers in Psychology*, 6, 1850.

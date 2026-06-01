@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-18
-ai_modified: 2026-05-27 00:00:00+00:00
-ai_system: claude-opus-4-7
+ai_modified: 2026-06-01 00:00:00+00:00
+ai_system: claude-opus-4-8
 author: null
 coalesced_from:
 - /concepts/epistemological-limits-parsimony/
@@ -25,7 +25,7 @@ description: Why Occam's Razor lacks epistemic warrant in the consciousness deba
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-04-28 12:45:00+00:00
+last_deep_review: 2026-06-01 00:00:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -36,6 +36,7 @@ related_articles:
 - '[[parsimony-case-for-interactionist-dualism]]'
 - '[[causal-closure]]'
 - '[[what-voids-reveal]]'
+- '[[consciousness-and-the-normativity-of-reason]]'
 - '[[limits-of-parsimony-consciousness-2026-03-20]]'
 title: Parsimony Epistemology
 topics:
@@ -48,7 +49,7 @@ Parsimony epistemology examines whether and when simplicity is a reliable guide 
 
 ## What Parsimony Epistemology Studies
 
-Occam's Razor — prefer the simpler explanation — is widely invoked but rarely examined. Parsimony epistemology asks the prior question: *what justifies this preference?* The central finding is that parsimony lacks a single universal justification; its value is domain-specific and defeasible, and multiple independent lines of critique converge on the conclusion that it lacks warrant in the consciousness debate.
+Occam's Razor — prefer the simpler explanation — is widely invoked but rarely examined. Parsimony epistemology asks the prior question: *what justifies this preference?* The central finding is that parsimony lacks a single universal justification; its value is domain-specific and defeasible, and multiple independent critiques converge on its lacking warrant in the consciousness debate.
 
 ## Three Dimensions of Simplicity
 
@@ -121,7 +122,7 @@ These concessions cannot be dismissed as motivated reasoning from dualists. Ande
 
 ### The Idealism Parity and the Trilemma
 
-Even if ontological parsimony could adjudicate the mind-body problem, it would not uniquely favour physicalism. Idealism posits a single substance type and is equally parsimonious by the ontological measure; if the razor cuts against dualism for positing two substances, it cuts equally against physicalism in favour of idealism. That physicalists rarely draw this conclusion suggests entity-counting is not the work actually being done — naturalistic bias or institutional momentum is.
+Even if ontological parsimony could adjudicate the mind-body problem, it would not uniquely favour physicalism. Idealism posits a single substance type and is equally parsimonious ontologically; if the razor cuts against dualism for positing two substances, it cuts equally against physicalism in favour of idealism. That physicalists rarely draw this conclusion suggests entity-counting is not the work being done — naturalistic bias or institutional momentum is.
 
 This cuts both ways. Physicalism and idealism both beat interactionist dualism ontologically, so the Map cannot deploy parsimony against physicalism without embarrassing its own position. That is precisely the point: ontological parsimony cannot settle the physicalism-vs-idealism-vs-dualism trilemma in any direction.
 
@@ -131,11 +132,11 @@ The [von Neumann-Wigner interpretation](/concepts/von-neumann-wigner-interpretat
 
 ## The IIT Parsimony Paradox
 
-[Integrated Information Theory](/concepts/integrated-information-theory/) shows how parsimony arguments self-destruct in consciousness science. IIT appears methodologically parsimonious — it identifies consciousness with a single mathematical quantity (Phi) derived from a small set of axioms — yet those axioms lead to [panpsychism](/concepts/panpsychism/), with consciousness in thermostats and simple logic gates. Parsimony at one level can generate anti-parsimony at another. The selective deployment is also revealing: physicalists invoke ontological parsimony against dualism while accepting panpsychist implications when the axioms are clean, suggesting the principle is used rhetorically rather than epistemically.
+[Integrated Information Theory](/concepts/integrated-information-theory/) shows how parsimony arguments self-destruct in consciousness science. IIT appears methodologically parsimonious — it identifies consciousness with a single mathematical quantity (Phi) derived from a small set of axioms — yet those axioms lead to [panpsychism](/concepts/panpsychism/), with consciousness in thermostats and simple logic gates. Parsimony at one level can generate anti-parsimony at another. The selective deployment is revealing: physicalists invoke ontological parsimony against dualism while accepting panpsychist implications when the axioms are clean, suggesting the principle is used rhetorically rather than epistemically.
 
 ## Swinburne's Reversal
 
-Richard Swinburne offers a provocative inversion: in certain respects, dualism is *simpler* than physicalism. Physicalism's need to explain how consciousness arises from physical processes has generated an enormous proliferation of incompatible theories — functionalism, higher-order theories, global workspace theory, illusionism, eliminativism — each adding machinery to bridge the [explanatory-gap](/concepts/explanatory-gap/). The proliferation itself is evidence of explanatory strain. Dualism takes consciousness at face value, requiring [psychophysical laws](/concepts/psychophysical-laws/) but not needing to explain consciousness away.
+Richard Swinburne offers a provocative inversion: in certain respects, dualism is *simpler* than physicalism. Physicalism's need to explain how consciousness arises from physical processes has generated the proliferation of incompatible theories [catalogued above](#Three%20Dimensions%20of%20Simplicity), each adding machinery to bridge the [explanatory-gap](/concepts/explanatory-gap/). The proliferation itself is evidence of explanatory strain. Dualism takes consciousness at face value, requiring [psychophysical laws](/concepts/psychophysical-laws/) but not needing to explain consciousness away.
 
 Ontological parsimony still favours physicalism, but on explanatory adequacy — the dimension most relevant to consciousness — dualism has the advantage; the [positive parsimony case](/topics/parsimony-case-for-interactionist-dualism/) develops this systematically. A deeper self-referential problem haunts the entire question, explored by the [parsimony void](/voids/epistemological-limits-occams-razor/): evaluating whether parsimony is reliable requires parsimony-independent access to the truth — the very thing under dispute.
 

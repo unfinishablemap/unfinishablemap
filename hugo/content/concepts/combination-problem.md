@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-15
-ai_modified: 2026-05-28 21:46:49+00:00
+ai_modified: 2026-06-01 16:47:13+00:00
 ai_system: claude-opus-4-7
 author: null
 concepts:
@@ -211,7 +211,7 @@ The combination problem is not an argument *for* the Map's framework, but it sho
 1. Goff, P. (2017). *Consciousness and Fundamental Reality*. Oxford University Press.
 1. James, W. (1890). *The Principles of Psychology*. Henry Holt.
 1. Kerskens, C. M. & Pérez, D. L. (2022). Experimental indications of non-classical brain functions. *Journal of Physics Communications*, 6, 105001.
-1. Miller, G. (2018). Can Subjects Be Proper Parts of Subjects? The De-Combination Problem. *Ratio*, 31, 165-176.
+1. Miller, G. (2018). Can Subjects Be Proper Parts of Subjects? The De-Combination Problem. *Ratio*, 31(2), 137-154.
 1. Seager, W. (1995). Consciousness, Information and Panpsychism. *Journal of Consciousness Studies*, 2(3), 272-288.
 1. Seager, W. (2010). Panpsychism, Aggregation and Combinatorial Infusion. *Mind and Matter*, 8(2), 167-184.
 1. Dainton, B. (2000). *Stream of Consciousness: Unity and Continuity in Conscious Experience*. Routledge.

@@ -180,6 +180,7 @@ def build_review_file(
 ) -> None:
     """Write the seed-frontmatter review file."""
     response_md = html_to_markdown(response_html)
+    response_md, _ = normalize_unfinishablemap_links(response_md)
     now = datetime.now(timezone.utc).isoformat(timespec="seconds")
     today = datetime.now(timezone.utc).date().isoformat()
 
@@ -295,6 +296,7 @@ def _write_with_markdown(
     subject_source: str | None = None,
 ) -> None:
     """Same as build_review_file but takes already-converted markdown."""
+    response_md, _ = normalize_unfinishablemap_links(response_md)
     now = datetime.now(timezone.utc).isoformat(timespec="seconds")
     today = datetime.now(timezone.utc).date().isoformat()
     ai_system = _slug_to_ai_system(model_slug)

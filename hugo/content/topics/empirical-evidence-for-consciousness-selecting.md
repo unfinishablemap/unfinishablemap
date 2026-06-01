@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-21
-ai_modified: 2026-06-01 04:49:25+00:00
+ai_modified: 2026-06-01 17:18:12+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -58,14 +58,14 @@ The [evolutionary argument](/topics/evolutionary-case-for-mental-causation/) sup
 
 [Comparative cognition](/concepts/baseline-cognition/) sharpens the evolutionary argument by identifying *what* consciousness contributes. Great apes possess sophisticated neural machinery producing complex behaviour—tool use, social learning, procedural metacognition. Yet they cannot perform logical reasoning, counterfactual thinking, or cumulative culture. The cognitive gap between humans and great apes tracks precisely those capacities associated with conscious processing.
 
-The key finding: Lieberman et al. (2008) reported that cognitive load impairing conscious processing impairs logical reasoning, while disrupting unconscious processing does not. This pattern is what consciousness-selecting would predict—conscious processing appearing to contribute causally to reasoning, rather than merely accompanying it.
+The key finding: DeWall et al. (2008) reported that cognitive load impairing conscious processing impairs logical reasoning, while disrupting unconscious processing does not. This pattern is what consciousness-selecting would predict—conscious processing appearing to contribute causally to reasoning, rather than merely accompanying it.
 
 The comparative evidence supports the following claims:
 
 - **Consciousness appears to enable specific cognitive functions.** The capacities distinguishing human from great ape intelligence—logical reasoning, explicit metacognition, cumulative culture—seem to require conscious access.
 - **The unconscious baseline is powerful but bounded.** Great apes exhibit what neural computation achieves without consciousness's full contribution. The boundaries of that computation may be instructive: they appear to fall precisely where conscious involvement begins.
 
-**What the comparative line does not establish:** That conscious contribution operates through quantum selection specifically. A physicalist account in which consciousness is identical to certain neural processes accommodates the Lieberman findings equally well; the comparative evidence is compatible with both readings, and does not adjudicate between them. The evidence supports mental causation without specifying the mechanism.
+**What the comparative line does not establish:** That conscious contribution operates through quantum selection specifically. A physicalist account in which consciousness is identical to certain neural processes accommodates the DeWall findings equally well; the comparative evidence is compatible with both readings, and does not adjudicate between them. The evidence supports mental causation without specifying the mechanism.
 
 ## The Neurological Line
 
@@ -173,7 +173,7 @@ The empirical convergence supports all five of the Map's [tenets](/tenets/):
 1. Hagan, S., Hameroff, S., & Tuszynski, J. (2002). Quantum computation in brain microtubules: Decoherence and biological feasibility. *Physical Review E*, 65, 061901.
 1. James, W. (1890). *The Principles of Psychology*. Henry Holt.
 1. Khan, S., et al. (2024). Microtubule-stabilizer epothilone B delays anesthetic-induced unconsciousness in rats. *eNeuro*, 11(8), ENEURO.0291-24.2024. https://doi.org/10.1523/ENEURO.0291-24.2024
-1. Lieberman, M.D., et al. (2008). Evidence that logical reasoning depends on conscious processing. *Consciousness and Cognition*, 17(2), 628-645.
+1. DeWall, C.N., Baumeister, R.F., & Masicampo, E.J. (2008). Evidence that logical reasoning depends on conscious processing. *Consciousness and Cognition*, 17(3), 628-645.
 1. McKemmish, L.K., Reimers, J.R., McKenzie, R.H., Mark, A.E., & Hush, N.S. (2009). Penrose-Hameroff orchestrated objective-reduction proposal for human consciousness is not biologically feasible. *Physical Review E*, 80(2), 021912.
 1. Rajan, A., et al. (2019). Theta oscillations index frontal decision-making and mediate reciprocal frontal-parietal interactions in willed attention. *Cerebral Cortex*, 29(7), 2832-2843.
 1. Reimers, J.R., McKemmish, L.K., McKenzie, R.H., Mark, A.E., & Hush, N.S. (2009). Weak, strong, and coherent regimes of Fröhlich condensation and their applications to terahertz medicine and quantum consciousness. *PNAS*, 106(11), 4219-4224.

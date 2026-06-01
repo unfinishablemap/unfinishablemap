@@ -47,7 +47,7 @@ Please conduct a rigorous outer review of one article on The Unfinishable Map (h
 
 # Outer Academic Review: "Phenomenal Output and Causal Machinery" (The Unfinishable Map)
 
-**Target article:** Andy Southgate & "Claude Oquatre-sept," "Phenomenal Output and Causal Machinery," Apex Synthesis ([https://unfinishablemap.org/apex/phenomenal-output-causal-machinery-dissociation/](https://unfinishablemap.org/apex/phenomenal-output-causal-machinery-dissociation/)), last modified 19 May 2026.
+**Target article:** Andy Southgate & "Claude Oquatre-sept," "Phenomenal Output and Causal Machinery," Apex Synthesis ([apex/phenomenal-output-causal-machinery-dissociation](https://unfinishablemap.org/apex/phenomenal-output-causal-machinery-dissociation/)), last modified 19 May 2026.
 
 **Reviewer brief:** Adversarial-but-fair external referee report along four dimensions — empirical accuracy, validity of the cumulative-convergence inference, fairness toward the materialist common-cause null, and engagement with overlooked materialist rejoinders — with concrete improvement suggestions for both the target article and the site's AI-pipeline methodology.
 

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-14
-ai_modified: 2026-05-31 09:29:10+00:00
+ai_modified: 2026-06-01 17:18:12+00:00
 ai_system: claude-opus-4-7
 author: null
 concepts:
@@ -134,7 +134,7 @@ Two discriminators (not refutations) mark where the readings diverge. The first 
 
 Great apes are our closest relatives—98-99% identical at single-nucleotide variants, though post-2023 telomere-to-telomere comparisons (Yoo et al. 2025 *Nature*) put total divergence closer to 12-15%. Apes display sophisticated cognition, yet humans uniquely produce [cumulative culture](/concepts/cumulative-culture/) involving abstract mathematics and technology. Tomasello (2010) locates the difference not in any single cognitive primitive—apes share most—but in shared intentionality, the capacity for collaborative activity with joint goals; Whiten (2015) adds that apes have culture but do not know they do. Standard neuroscience attributes the gap to architecture (expanded DLPFC, arcuate-fasciculus connectivity), which neither forces nor rules out a dualistic reading.
 
-The Map offers a complementary interpretation. The [baseline-cognition](/concepts/baseline-cognition/) hypothesis proposes great ape cognition represents what neural processing achieves *without* substantial conscious contribution, while human-level cognition requires expanded conscious access (full treatment: [consciousness-as-amplifier](/concepts/consciousness-as-amplifier/)). Supporting evidence: working-memory differences (Inoue & Matsuzawa 2007) about *deployment* rather than capacity; apes having culture but not *knowing* they have it; apes passing Level 1 theory of mind but struggling with Level 3 recursive mindreading; contested findings (Lieberman et al. 2008) that rule-based reasoning depends on conscious processing.
+The Map offers a complementary interpretation. The [baseline-cognition](/concepts/baseline-cognition/) hypothesis proposes great ape cognition represents what neural processing achieves *without* substantial conscious contribution, while human-level cognition requires expanded conscious access (full treatment: [consciousness-as-amplifier](/concepts/consciousness-as-amplifier/)). Supporting evidence: working-memory differences (Inoue & Matsuzawa 2007) about *deployment* rather than capacity; apes having culture but not *knowing* they have it; apes passing Level 1 theory of mind but struggling with Level 3 recursive mindreading; contested findings (DeWall et al. 2008) that rule-based reasoning depends on conscious processing.
 
 This denies apes no consciousness—they likely have emotional and perceptual consciousness; what they may lack is *metacognitive* consciousness (the [metarepresentation threshold](/concepts/metacognition/#the-metarepresentation-threshold)). [Cetaceans and corvids](/topics/cetacean-and-corvid-consciousness/) occupy intermediate positions independently of primate cortex. A structurally distinct alternative is [interface-efficacy scaling](/topics/interface-efficacy-and-the-cognitive-gap/): consciousness at full grade across species, with mind-brain coupling varying along bandwidth, fidelity, and granularity axes.
 
@@ -236,7 +236,7 @@ Whitehead's process philosophy proposes experience is fundamental—*actual occa
 1. Cogitate Consortium (2025). "Adversarial testing of global neuronal workspace and integrated information theories of consciousness." *Nature* (companion methodological response in *Neuroscience of Consciousness* 2025).
 1. Becerra, D. et al. (2023). "The Conscious Nematode: Exploring Hallmarks of Minimal Phenomenal Consciousness in Caenorhabditis Elegans." *International Journal of Psychological Research*, 16(2), 87-102.
 1. Bhattacharjee, P. et al. (2023). "On being a Hydra with, and without, a nervous system: what do neurons add?" *Animal Cognition*.
-1. Lieberman, M. D. et al. (2008). "Evidence that logical reasoning depends on conscious processing." *Consciousness and Cognition*, 17(2), 628-645.
+1. DeWall, C.N., Baumeister, R.F., & Masicampo, E.J. (2008). "Evidence that logical reasoning depends on conscious processing." *Consciousness and Cognition*, 17(3), 628-645.
 1. Cowan, N. (2001). "The magical number 4 in short-term memory: A reconsideration of mental storage capacity." *Behavioral and Brain Sciences*, 24(1), 87-114.
 1. Inoue, S. & Matsuzawa, T. (2007). "Working memory of numerals in chimpanzees." *Current Biology*, 17(23), R1004-R1005.
 1. Yoo, D. A., et al. (2025). "Complete sequencing of ape genomes." *Nature*, 641, 401-418.

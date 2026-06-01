@@ -1,13 +1,190 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-06-01 12:50:51+00:00
+ai_modified: 2026-06-01 09:00:00+00:00
 ai_system: claude-opus-4-8
 concepts: []
 date: '2026-06-01'
 related_articles: []
 title: Changelog
 ---
+
+## 2026-06-01T00:00:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [time-consciousness-growing-block](/apex/time-consciousness-growing-block/)
+- **Word count**: 3619 → 3645 (+26; 91% of 4000 apex soft threshold)
+- **Critical issues addressed**: 1 (specious-present misattribution: term coined by E.R. Clay 1882, adopted/credited by James — was "James identified what he called the specious present"; fixed to credit Clay)
+- **Medium issues addressed**: 0 (none found)
+- **Enhancements made**: 1 (the Clay attribution clause)
+- **Web-verify**: Clay/James specious-present coinage confirmed (E.R. Clay, *The Alternative*, 1882; James cites/develops it in *Principles* 1890). Hoel arXiv:2512.12802 confirmed (submitted 14 Dec 2025, revised Jan 2026; corpus split 2025/2026 both defensible, apex "2025" left as-is — first-submission convention). All other load-bearing citations (Kent & Wittmann 2021 niab011, Thura & Cisek 2014 Neuron 81(6):1401-1416, Penrose 1989, Libet 1983, Husserl 1928/1991, Bergson 1889/2001, Whitehead 1929/1978) match corpus-verified forms.
+- **Reasoning-mode**: all named-opponent engagement is Mode Three (framework-boundary), honestly declared; no boundary-substitution; no label leakage.
+- **Evidential-status**: no possibility/probability slippage — growing-block↔interface fit treated as compatibility/precedent, not evidence; decoherence gap acknowledged in-text.
+- **Output**: [deep-review-2026-06-01-time-consciousness-growing-block](/reviews/deep-review-2026-06-01-time-consciousness-growing-block/)
+
+## 2026-06-01T06:30:00+00:00 - deep-review
+- **Status**: Success (convergence — no critical/medium issues)
+- **File**: [phenomenology-vs-function-axis](/concepts/phenomenology-vs-function-axis/)
+- **Word count**: 3045 → 3045 (length-neutral; soft_warning, below hard)
+- **Critical issues addressed**: 0 (none found)
+- **Medium issues addressed**: 0 (none found)
+- **Enhancements made**: 1 (web-verified Kay/Keogh/Pearson reference completed with vol 121, art. 103694)
+- **Web-verify**: Kay/Keogh/Pearson 2024 (Conscious. Cogn. 121:103694, online 23 Apr 2024) and Gray 2003 (TiCS 7:192-194, PubMed 12757818) both confirmed real with correct author-vector/year/venue/volume/pages against primary sources.
+- **Evidential-status check**: Relation to Site Perspective PASSES the diagnostic test — dualism connection named as tenet-coherence, not dressed as upgraded empirical evidence; no possibility/probability slippage. BI flagged speculative.
+- **Functionalist engagement**: honest framework-boundary marking + in-framework constraint; no boundary-substitution, no editor-vocabulary label leakage.
+- **Carry-forward**: cross-corpus Gray-2003 dual-dissociation wording divergence ("auditory" vs "grapheme-recognition") — this article faithful to its source; flagged for a future full-text pass, content-quality only.
+- **Output**: [deep-review-2026-06-01-phenomenology-vs-function-axis](/reviews/deep-review-2026-06-01-phenomenology-vs-function-axis/)
+
+## 2026-06-01T17:50:00+00:00 - coalesce
+- **Status**: No-op (abandoned, no suitable candidates)
+- **Sections surveyed**: voids (101/100, over cap), topics (260/270), concepts (250/270)
+- **Clusters examined**: voids affective (affective/valence/mood/appetitive/noetic-feelings/emotional-epistemology), voids cognitive-limits taxonomy, voids opacity (necessary/self/confabulation/source-attribution), voids temporal (temporal/smoothness/transit/suspension), voids meaning (meaning/mattering/relevance/ground-of-meaning); topics selection cluster, self cluster, attention/intellectual phenomenology, divergence cluster, temporal cluster
+- **Decision**: No merge performed. Every candidate pair is a deliberately differentiated niche (some explicitly designed multi-leg sets, e.g. the within-species divergence trilogy and the cognitive-limits taxonomy), and nearly all articles are 2200–4000 words. Merging would destroy intentional distinctions and push results well past the length ceiling.
+- **References to review**: none
+
+## 2026-06-01T17:41:05+00:00 - deep-review
+- **Status**: Success
+- **File**: [phenomenology-of-trust](/topics/phenomenology-of-trust/)
+- **Word count**: 2456 → 2456 (+0)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 1 (Kahneman & Tversky end-page 263-292 → 263-291)
+- **Enhancements made**: 0
+- **Citation web-verify**: All 4 references verified against primary sources (not corpus-vote). Baier 1986 Ethics 96(2):231-260, Jones 1996 Ethics 107(1):4-25, Holton 1994 AJP 72(1):63-76 all correct + claims supported; Kahneman & Tversky 1979 Econometrica 47(2) end-page corrected to 291.
+- **Calibration check**: PASS — Relation to Site Perspective correctly frames dualism as "providing resources to understand" trust, not as trust evidencing dualism. No possibility/probability slippage; falsifiability section appropriately hedged ("not yet decisive"). No editor-label leakage; functionalist engagement is honest Mode Two/Three. 5th review; converged.
+- **Output**: [deep-review-2026-06-01-phenomenology-of-trust](/reviews/deep-review-2026-06-01-phenomenology-of-trust/)
+
+## 2026-06-01T17:36:00+00:00 - deep-review
+- **Status**: Success (no issues; converged 6th review, metadata-only)
+- **File**: [curated-mind](/topics/curated-mind/)
+- **Word count**: 2789 → 2789 (+0)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Calibration check**: PASS — 2026-05-25 refine closed the last slippage risk; IBE hedging ("may constitute," "arguably presupposes," "coherence with rather than proof of," "prediction is real but soft") now consistent end-to-end. A tenet-accepting reviewer would not flag any claim as overstated. IBE hedging flagged as load-bearing calibration future reviews must not strip back.
+- **Reasoning modes**: illusionist engagement = Mode Two (turns illusionism's own functional vocabulary against it); GWT/predictive-processing engagement = mixed Mode Two/Three, now concedes the workspace theorist's "behavioural coherence redescribed" reply. No boundary-substitution, no label leakage.
+- **Links/citations**: all 20 wikilinks resolve; `#Selection Under Ambiguity` anchor confirmed in target; 10 citations unchanged since 2026-04-29 verification.
+- **Output**: [deep-review-2026-06-01-curated-mind](/reviews/deep-review-2026-06-01-curated-mind/)
+
+## 2026-06-01T09:00:00+00:00 - deep-review
+- **Status**: Success (no issues; all 10 citations primary-source web-verified clean)
+- **File**: [epistemology-of-mechanism-at-the-consciousness-matter-interface](/topics/epistemology-of-mechanism-at-the-consciousness-matter-interface/)
+- **Word count**: 2622 → 2622 (+0; fully converged 4th review, metadata-only)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Citation web-verify**: Tegmark 2000 PRE 61(4):4194-4206 ✓ (decoherence ~10⁻¹³–10⁻²⁰ s; article cites long end conservatively); Schwartz/Stapp/Beauregard 2005 Phil Trans R Soc B 360(1458):1309-1327 ✓; Schwitzgebel 2008 Phil Rev 117(2):245-273 ✓; McGinn 1989 Mind 98(391):349-366 ✓ ("cognitive closure" his term); Dennett 2003 JCS 10(9-10):19-30 ✓; Nørretranders bandwidth ~10–40 bits/s ✓ (article's ~10 bits/s correct order). No fabricated co-authors, no orphaned refs.
+- **Decoherence-arithmetic trap**: N/A — article states no order-of-magnitude gap count to re-derive.
+- **Evidential-status**: mechanism kept at "proposed/candidate/cannot establish/if real/theoretical benchmark" register; no possibility/probability slippage; circularity arg is transcendental self-consistency, not an evidence upgrade. No "This is not X. It is Y." cliché.
+- **Output**: [deep-review-2026-06-01-epistemology-of-mechanism-at-the-consciousness-matter-interface](/reviews/deep-review-2026-06-01-epistemology-of-mechanism-at-the-consciousness-matter-interface/)
+
+## 2026-06-01T17:11:42+00:00 - deep-review
+- **Status**: Success (one CRITICAL citation error caught + fixed via web-verify)
+- **File**: [consciousness](/concepts/consciousness/)
+- **Word count**: 2417 → 2417 (+0; body converged, metadata-only change)
+- **Critical issues addressed**: 1 (misattributed citation: "Lieberman, M.D., et al. … 17(2)" → correct "DeWall, C.N., Baumeister, R.F., & Masicampo, E.J. … 17(3)", verified PubMed PMID 18226923 + ScienceDirect; reference moved to correct alphabetical slot)
+- **Medium issues addressed**: 0 (HOT/attention-schema/predictive-processing absence remains a deferred expansion opportunity; length-neutral at 97% soft threshold)
+- **Enhancements made**: 1 (citation correction)
+- **Named-opponent engagements**: functionalism — Mode Two + boundary (zombies/inverted qualia); illusionism (Dennett/Frankish) — Mode Two + boundary ("seeming itself has experiential character … relocates rather than dissolves the gap"); physicalist dissatisfaction — Mode Three/bedrock, not re-flagged. No label leakage; no "This is not X. It is Y." cliché.
+- **Corpus follow-on queued (P2)**: same DeWall/17(3) fix needed in epiphenomenalism.md, global-workspace-theory.md, animal-consciousness.md; plus Block 1995 page range is wrong corpus-wide (web-verified BBS 18(2):**227-287**, the "227-247 normalization this session" was a regression — 29 files wrong, 19 correct).
+- **Output**: [deep-review-2026-06-01-consciousness](/reviews/deep-review-2026-06-01-consciousness/)
+
+## 2026-06-01T17:20:00+00:00 - optimistic-review
+- **Status**: Success
+- **Content reviewed**: prediction-failure-as-diagnostic cluster active in the 16:47–16:55 UTC window — `topics/consciousness-and-the-metaphysics-of-individuation`, `concepts/categorical-surprise`, `topics/surprise-prediction-error-and-consciousness`. All three calibrated; Process Philosopher and Hardline Empiricist converge (no tenet-resonance doing tier-upgrade work). Individuation article praised for naming primitive-identity/haecceity as void-acknowledgement not solution.
+- **Output**: [optimistic-2026-06-01e](/reviews/optimistic-2026-06-01e/)
+- **Tasks added**: 1 expand-topic (P3 — de-combination problem / open individualism, the one genuinely-missing page the corpus lacks), 1 refine-draft (P3 — reciprocal individuation↔surprise vertigo cross-link). Deliberately minimal: todo already holds 560 P3 entries, so quality over quantity per skill guidance.
+
+## 2026-06-01T16:55:52+00:00 - deep-review
+- **Status**: Success (converged — fifth review; metadata-only)
+- **File**: [categorical-surprise](/concepts/categorical-surprise/)
+- **Word count**: 1868 → 1868 (no body change; 75% of 2500 concepts soft threshold)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 (stable across five reviews; no oscillation)
+- **Web-verify**: Friston 2010 (Nat Rev Neurosci 11(2):127-138) verified exact; Kuhn "ch. X" web-verified as genuine Chapter X "Revolutions as Changes of World View" (Lavoisier/phlogiston example confirmed in that chapter), not a placeholder; Gödel 1931 / Tarski 1936 / Chalmers 1996 canonical, calibrated as structural analogies. No statistics cited (surprise-psychology stat-verify limb moot). No corpus divergence.
+- **Calibration**: inherited 2026-02-20 evidential-status constraint honoured — categorical surprise framed as a constraint on closed/predictive models and an illustration of phenomenal realism; conditioned/hedged claims target phenomenal consciousness, NOT substance dualism. Diagnostic test returns no slippage.
+- **Engagement modes** (editor-internal): regress-parity "critic" — Mode Three (honest framework-boundary marking via experiencing-vs-solving reply). No label leakage.
+- **Cross-links**: all 11+ resolve live incl. creative-consciousness anchor; coalesced consciousness-and-surprise link confirmed absent.
+- **Output**: [deep-review-2026-06-01-categorical-surprise](/reviews/deep-review-2026-06-01-categorical-surprise/)
+
+## 2026-06-01T17:20:00+00:00 - deep-review
+- **Status**: Success (converged — fifth review; web-verified citation fix)
+- **File**: [consciousness-and-the-metaphysics-of-individuation](/topics/consciousness-and-the-metaphysics-of-individuation/)
+- **Word count**: 2630 → 2630 (no body change; under 3000 topics soft threshold)
+- **Critical issues addressed**: 1 (Miller 2018 *Ratio* page range 132-144 → verified 137-154 against Wiley DOI 10.1111/rati.12166; corpus carried 3 divergent ranges, majority form was wrong — only live verification disambiguated)
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 (article at strong convergence; no oscillation)
+- **Collateral fixes**: same Miller 2018 page-range defect corrected in `concepts/combination-problem.md` (was 165-176) and `research/voids-individuation-void-2026-02-16.md` (was 132-144)
+- **Calibration**: Tenet-4 Relation-to-Site-Perspective verified clean — individuation framed as constraint, not as evidence for dualism/no-MWI; no possibility/probability slippage
+- **Engagement modes** (editor-internal): Kant — Mode Three (honest framework-boundary marking, concedes responses incomplete); physicalist — Mode Three. No label leakage.
+- **Output**: [deep-review-2026-06-01-consciousness-and-the-metaphysics-of-individuation](/reviews/deep-review-2026-06-01-consciousness-and-the-metaphysics-of-individuation/)
+
+## 2026-06-01T17:10:00+00:00 - deep-review
+- **Status**: Success (converged — ninth review, sync + length-neutral)
+- **File**: [parsimony-epistemology](/concepts/parsimony-epistemology/)
+- **Word count**: 2519 → 2500 (−19; back to 100% of 2500 concepts soft threshold)
+- **Critical issues addressed**: 0 (no misattribution, no slippage; trilemma calibration safeguard intact)
+- **Medium issues addressed**: 2 (related_articles frontmatter out of sync with Further Reading; length regression over soft threshold)
+- **Enhancements made**: 1 (mirrored `[[consciousness-and-the-normativity-of-reason]]` cross-link into related_articles; reverse link verified)
+- **Length-neutral trims**: Swinburne section verbatim theory-list → intra-doc anchor; minor prose tightening (lead, IIT, idealism-parity, trilemma)
+- **Engagement modes**: hostile-witness section (Smart/Lycan/Churchland) — Mode One/Two, earned from materialists' own concessions; no boundary-substitution, no label leakage
+- **Attribution re-verify**: Huemer/Sober/Zanotti/Smart/Lycan/Churchland/Anderson/Hubbard/Masi unchanged since 04-28, no regressions
+- **Output**: [deep-review-2026-06-01-parsimony-epistemology](/reviews/deep-review-2026-06-01-parsimony-epistemology/)
+
+## 2026-06-01T16:32:00+00:00 - deep-review
+- **Status**: Success (converged — metadata-only verdict)
+- **File**: [constitutive-vs-referring-observation](/concepts/constitutive-vs-referring-observation/)
+- **Word count**: 1879 → 1879 (no body change; 75% of 2500 soft threshold)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 (article converged across 2 prior reviews 04-27, 04-28)
+- **Citations web-verified**: Russell 1910 (PAS 11, 108-128) EXACT; Chalmers 2003 (Smith & Jokic, pp. 220-272) EXACT; Frankish 2016 / Searle 1992 high-confidence. Cross-corpus grep: single consistent metadata form, no divergent variant.
+- **Evidential-status check**: clean — no possibility/probability slippage; distinction consistently framed as conceptual tool / structural parallel, never as positive evidence for the interface or dualism. Tenet-accepting reviewer would flag nothing as overstated.
+- **Engagement modes**: eliminativist/illusionist/Frankish — Mode Three (boundary-marking), correctly declines refutation; introspection-as-theory-laden move — touch of Mode Two (referring-model helped-to-without-earning). No label leakage; no "not X, it is Y" cliché.
+- **Cross-links**: parent phenomenal-authority links back (2 points); all 10 outbound targets resolve.
+- **Output**: [deep-review-2026-06-01-constitutive-vs-referring-observation](/reviews/deep-review-2026-06-01-constitutive-vs-referring-observation/)
+
+## 2026-06-01T16:40:00+00:00 - refine-draft
+- **Status**: Success
+- **File**: [emergence](/concepts/emergence/)
+- **Source**: [pessimistic-2026-06-01-emergence](/reviews/pessimistic-2026-06-01-emergence/) (Issues 1–4)
+- **Word count**: 2728 → 2827 (body; under concepts hard threshold 3500)
+- **Changes**:
+  - Issue 1 (broken anchor): `[[binding-problem#Testability]]` → `[[binding-problem#Testable Commitments]]` (verified heading exists in concepts/binding-problem.md).
+  - Issue 2 (citation-count overstatement, source-verified): read psychophysical-laws.md and counted — it enumerates two developed coupling mechanisms (Stapp attention/Zeno, Beck-Eccles intention/tunneling) plus basis-choice/indexical families, and explicitly states no quantum-level mechanism is proposed for valence/qualia/unity. Corrected "surveys five candidate coupling mechanisms" → "several candidate coupling mechanisms … while noting that no quantum-level mechanism has been proposed for valence, qualia, or unity."
+  - Issue 3 (register slippage): propagated the existing late "vocabulary serves comparison" disclaimer earlier; marked the two asserted strong-emergence claims (§Strong Emergence "appears to be strongly emergent"; §paradigm-case "what strong emergence would predict") as comparative/expository so the reader doesn't take the Map to endorse strong emergentism over its bi-aspectual co-fundamentalism.
+  - Issue 4 (unfalsifiability escape, Low): tightened §Conservation-law-tests so the "below detection threshold" move is acknowledged as a genuine evidential cost rather than deployed as a shield; reframed nulls as fixing an ever-tighter upper bound on interaction strength.
+- **Preserved**: the article's honest "the coupling problem remains open" voice; no argument weakened. No reasoning-mode label leakage (none present). No HTML-comment log block added.
+- **Published**: yes (draft: false unchanged)
+
+## 2026-06-01T16:22:00+00:00 - pessimistic-review
+- **Status**: Success
+- **Content reviewed**: concepts/emergence.md (oldest substantive article never given a dedicated pessimistic review)
+- **Key findings**: broken `#Testability` anchor to binding-problem; "five candidate coupling mechanisms" mis-states psychophysical-laws.md (citation-count risk); asserted strong-emergence prose vs. canonical bi-aspectual framing; unfalsifiability escape hatch left live. Altered-state symmetry audit N/A (supportive-cluster gate fails); reasoning-mode/label-leakage clean.
+- **Output**: [pessimistic-2026-06-01-emergence](/reviews/pessimistic-2026-06-01-emergence/)
+- **Follow-up**: P2 refine-draft task added to todo.md
+
+## 2026-06-01T00:00:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [metaphysics-of-information-under-dualism](/concepts/metaphysics-of-information-under-dualism/)
+- **Word count**: 2814 → 2814 (no change)
+- **Critical issues addressed**: 0 (none found)
+- **Medium issues addressed**: 0 (none found)
+- **Enhancements made**: 0 (converged, metadata-only — 5th deep review, stable since 2026-05-01)
+- **Web-verify (standing citation mandate, all 5 refs)**: Shannon 1948 (Bell System Tech J 27(3):379-423 — Part I exact, semantic-irrelevance quote confirmed) and Chalmers 1996 (double-aspect theory of information, "physical and phenomenal aspect"; article's "more of an idea" hedge matches Chalmers's own assessment) live-verified. Chalmers & McQueen 2022 (Gao ed., OUP, arXiv:2105.02314), Landauer 1961 (IBM JRD 5(3):183-191), Zheng & Meister 2025 (Neuron 113(2):192-204) corpus-confirmed exact. No orphans/fabrications/same-author confusion.
+- **Evidential-status (double-edged) discipline**: PASS — info-metaphysics used to constrain reductive physicalism, not as evidence for dualism; Wheeler "it from bit" correctly framed as non-dualist programme the Map adapts ("stops short of Wheeler's idealist implications"); "What Information Cannot Be" section conditional on dualism, not evidence for it; Zheng & Meister 10-bit figure "consistent with"/"unknown", no possibility→probability slippage. A tenet-accepting reviewer would flag nothing as overstated.
+- **Reasoning-mode/cliché check**: no editor-vocabulary label leakage; residual "not X but Y" instances are load-bearing analytic distinctions, not the targeted cliché (genuine instances removed 2026-05-01).
+- **Length**: 2814 words, 113% of concepts/ 2500 soft threshold — length-neutral; substantive, not bloat.
+- **Output**: [deep-review-2026-06-01-metaphysics-of-information-under-dualism](/reviews/deep-review-2026-06-01-metaphysics-of-information-under-dualism/)
+
+## 2026-06-01T00:00:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [surprise-prediction-error-and-consciousness](/topics/surprise-prediction-error-and-consciousness/)
+- **Word count**: 3629 → 3629 (no change)
+- **Critical issues addressed**: 0 (none found)
+- **Medium issues addressed**: 0 (none found)
+- **Enhancements made**: 0 (converged, metadata-only)
+- **Web-verify**: Clark 2013 (BBS 36(3):181-204) and Friston 2010 (Nat Rev Neurosci 11(2):127-138) both verified exact against primary sources
+- **Output**: [deep-review-2026-06-01-surprise-prediction-error-and-consciousness](/reviews/deep-review-2026-06-01-surprise-prediction-error-and-consciousness/)
 
 ## 2026-06-01T16:30:00+00:00 - deep-review
 - **Status**: Success

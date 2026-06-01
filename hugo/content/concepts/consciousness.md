@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-24
-ai_modified: 2026-04-29 09:19:00+00:00
+ai_modified: 2026-06-01 17:11:42+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -34,7 +34,7 @@ description: Consciousness is what it is like to be something—the subjective f
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-04-29 09:19:00+00:00
+last_deep_review: 2026-06-01 17:11:42+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -235,8 +235,8 @@ The Map's extensive coverage of consciousness includes:
 1. Block, N. (1995). "On a Confusion about a Function of Consciousness." *Behavioral and Brain Sciences*.
 1. Chalmers, D. J. (1995). "Facing Up to the Problem of Consciousness." *Journal of Consciousness Studies*.
 1. Chalmers, D. J. (1996). *The Conscious Mind: In Search of a Fundamental Theory*. Oxford University Press.
+1. DeWall, C.N., Baumeister, R.F., & Masicampo, E.J. (2008). "Evidence that logical reasoning depends on conscious processing." *Consciousness and Cognition*, 17(3), 628-645.
 1. Koch, C. (2019). *The Feeling of Life Itself: Why Consciousness Is Widespread but Can't Be Computed*. MIT Press.
-1. Lieberman, M.D., et al. (2008). "Evidence that logical reasoning depends on conscious processing." *Consciousness and Cognition*, 17(2), 628-645.
 1. McGinn, C. (1989). "Can We Solve the Mind-Body Problem?" *Mind*.
 1. Nagel, T. (1974). "What Is It Like to Be a Bat?" *The Philosophical Review*.
 1. Tononi, G. (2008). "Consciousness as Integrated Information: A Provisional Manifesto." *Biological Bulletin*.

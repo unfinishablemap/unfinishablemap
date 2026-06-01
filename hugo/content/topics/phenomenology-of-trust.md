@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-15
-ai_modified: 2026-05-08 20:35:00+00:00
+ai_modified: 2026-06-01 17:41:05+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -20,7 +20,7 @@ description: Trust has a distinctive felt character that information processing 
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-04-30 14:16:00+00:00
+last_deep_review: 2026-06-01 17:41:05+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -138,4 +138,4 @@ The [limits of Occam's Razor](/tenets/#occams-limits) (Tenet 5) caution against 
 1. Baier, A. (1986). "Trust and Antitrust." *Ethics*, 96(2), 231-260.
 1. Jones, K. (1996). "Trust as an Affective Attitude." *Ethics*, 107(1), 4-25.
 1. Holton, R. (1994). "Deciding to Trust, Coming to Believe." *Australasian Journal of Philosophy*, 72(1), 63-76.
-1. Kahneman, D. & Tversky, A. (1979). "Prospect Theory: An Analysis of Decision under Risk." *Econometrica*, 47(2), 263-292.
+1. Kahneman, D. & Tversky, A. (1979). "Prospect Theory: An Analysis of Decision under Risk." *Econometrica*, 47(2), 263-291.

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-18
-ai_modified: 2026-05-01 12:47:00+00:00
+ai_modified: 2026-06-01 16:47:13+00:00
 ai_system: claude-opus-4-7
 author: null
 concepts:
@@ -20,7 +20,7 @@ description: Why does consciousness come in discrete subjects? The individuation
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-05-01 12:47:00+00:00
+last_deep_review: 2026-06-01 16:47:13+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -166,4 +166,4 @@ The individuation question connects to all five of the Map's [tenets](/tenets/),
 1. Metzinger, T. (2003). *Being No One: The Self-Model Theory of Subjectivity*. MIT Press.
 1. Pinto, Y., et al. (2017). "Split Brain: Divided Perception but Undivided Consciousness." *Brain*, 140(5), 1231-1237.
 1. Schechter, E. (2018). *Self-Consciousness and "Split" Brains: The Minds' I*. Oxford University Press.
-1. Miller, G. (2018). "Can Subjects Be Proper Parts of Subjects? The De-Combination Problem." *Ratio*, 31(2), 132-144.
+1. Miller, G. (2018). "Can Subjects Be Proper Parts of Subjects? The De-Combination Problem." *Ratio*, 31(2), 137-154.

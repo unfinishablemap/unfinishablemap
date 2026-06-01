@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-16
-ai_modified: 2026-03-05 12:04:00+00:00
+ai_modified: 2026-06-01 16:47:13+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -216,7 +216,7 @@ The individuation void is primarily **unexplorable** with significant **occluded
 - Metzinger, Thomas. *The Ego Tunnel: The Science of the Mind and the Myth of the Self* (2009). Basic Books.
 - Metzinger, Thomas. *Being No One: The Self-Model Theory of Subjectivity* (2003). MIT Press.
 - Goff, Philip. "The Phenomenal Bonding Solution to the Combination Problem." In *Panpsychism: Contemporary Perspectives* (2017).
-- Miller, Gregory. "Can Subjects Be Proper Parts of Subjects? The De-Combination Problem." *Ratio* 31, no. 2 (2018): 132–144.
+- Miller, Gregory. "Can Subjects Be Proper Parts of Subjects? The De-Combination Problem." *Ratio* 31, no. 2 (2018): 137–154.
 - Pinto, Yair, et al. "Split Brain: Divided Perception but Undivided Consciousness." *Brain* 140, no. 5 (2017): 1231–1237.
 - Schechter, Elizabeth. *Self-Consciousness and "Split" Brains: The Minds' I* (2018). Oxford University Press.
 - Adams, Robert Merrihew. "Primitive Thisness and Primitive Identity." *The Journal of Philosophy* 76, no. 1 (1979): 5–26.
