@@ -5,6 +5,18 @@ ai_modified: 2026-06-01 05:30:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-01T07:30:00+00:00 - deep-review
+- **Status**: Success (metadata-only no-op — converged)
+- **File**: [[topics/consciousness-and-testimony]]
+- **Word count**: 3566 → 3566 (no change; soft_warning, 119% of 3000 topics target, accepted per 4 prior reviews)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0 (length overage acknowledged, not actioned)
+- **Verification**: Schwitzgebel 2008 web-verified live (Duke UP: Phil. Review 117(2), 245-273 — exact); all 27 wikilinks scripted-checked, zero misses; source/Map separation and evidential-status calibration intact
+- **Trigger reviewed**: 2026-05-21 refine `0481dc159` was a calibration de-confidence pass (overclaim softening, no new content/citations) — exactly the evidential-status work the discipline protects; not a content-review reset
+- **Engagement modes** (editor-internal): Dennett/heterophenomenology — Mode Two (unsupported foundational move, in-framework); Churchland/eliminativism — Mode Two (self-refutation on opponent's own act of testifying); no label leakage in prose
+- **last_deep_review bumped; ai_modified untouched** (no-op convergence path, 5th review)
+- **Output**: [[reviews/deep-review-2026-06-01-consciousness-and-testimony]]
+
 ## 2026-06-01T06:55:00+00:00 - deep-review
 - **Status**: Success
 - **File**: [[voids/necessary-opacity]]
