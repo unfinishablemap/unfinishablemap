@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-06-01T03:20:00+00:00
+ai_modified: 2026-06-01T06:40:00+00:00
 ai_system: claude-opus-4-8
 author: Andy Southgate
 concepts: []
@@ -36,6 +36,15 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **P2**: Low - nice to have, human approval needed
 
 ## Active Tasks
+
+### P2: Deep review meta-epistemology-of-limits.md (38 days since last review, ai_contribution=100, never reviewed)
+- **Type**: deep-review
+- **Status**: pending
+- **Relocated**: 2026-06-01 — moved to the top of Active Tasks by /replenish-queue so this floor-restoring P2 is not LIFO-starved behind ~470 P3s (selector sorts by line_number ascending; [[queue-lifo-starvation]]). Original slot now holds a relocation stub.
+- **Promoted**: P3→P2 by /replenish-queue 2026-06-01 to restore the P0–P2 floor (effective actionable count was 2, below the MIN_QUEUE floor of 3). Grounded staleness pick, NOT a speculative new-content task against the 471-deep P3 backlog: `last_deep_review: 2026-04-24` (~38d, oldest-tier stale AI-heavy content past the 30-day floor) AND well-settled (`ai_modified: 2026-04-29`, ~33d — cleanly clear of same-session churn). Chosen for diversity (a *voids* article, distinct from the apex cross-review and topic lit-drift P2s already queued).
+- **Notes**: AI-generated content (ai_contribution: 100) created via coalesce on 2026-03-19, never standalone-reviewed. Voids article on the meta-epistemology of cognitive limits. Deep-review should: (a) verify coherence and that cross-references to related voids articles (taxonomy-of-voids, compound-cognitive-limits) resolve live and reciprocate where load-bearing; (b) honour [[evidential-status-discipline]] — claims about the limits of self-knowledge are *reported/argued*, not demonstrated; keep the modal status calibrated; (c) web-verify any philosopher/date attributions before trusting them ([[ai-citation-metadata-unreliable]]); (d) writing-style + length discipline (no "This is not X. It is Y." cliché). First review in ~38d, not a runaway re-review — a metadata-only verdict is acceptable if converged; do NOT over-hedge converged prose ([[deep-review-over-reviews-converged]]). Mark RESOLVED-OBSOLETE if a cycle-slot deep-review bumps `last_deep_review` first (selection-collision caveat per [[deep-review-over-reviews-converged]]).
+- **Source**: staleness
+- **Generated**: 2026-03-19
 
 ### P3: Cross-link the metaphysics-of-the-interface trio (wheeler ↔ laws-and-dispositions ↔ russellian)
 - **Type**: refine-draft
@@ -525,6 +534,7 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Type**: cross-review
 - **Status**: pending
 - **Promoted**: P3→P2 by /replenish-queue 2026-06-01 to restore the P0–P2 floor. Concrete short-medium-scope cross-review with a clear structural question (fifth medium-status void vs. exemplar); cap-safe.
+- **STALE-TARGET WARNING** (/replenish-queue 2026-06-01): `voids/numerosity-void.md` no longer exists in the live tree — it has been coalesced/archived to `archive/voids/numerosity-void.md` ([[archival-link-rot]]). The cross-review can still proceed by reading the archived content, but the structural "is it a fifth medium-status void" question is partly moot (it has already been merged into another article). The executing fork should: confirm where numerosity-void's content now lives (check the archive notice for the replacement target), assess whether the medium-status apex should cross-link that *replacement*, and mark RESOLVED-OBSOLETE if the operative-self-reference point is already discharged by the merge. Do NOT recreate the archived void.
 - **Notes**: Suggested by optimistic-2026-04-29c (16:10 UTC). The medium-status apex frames four medium-status voids (mattering, relevance, noetic-feelings, conceptual-scheme) as a structural cluster around operative-self-reference. Numerosity-void shares the *output-without-operation* structure that mattering and noetic-feelings articulate — the experience of cardinality is given as a finished property without the operation that produced it, much as the felt sense that an answer is just *there* (noetic feelings) is given without its operation. Cross-review should determine whether numerosity-void is a fifth medium-status void or an exemplar of the same operative-self-reference shape from a different angle (perceptual rather than epistemic). Short-medium scope (~200–350 words touched). Tenet alignment: Tenet 5 (Occam's Razor Has Limits) — clarifying when new voids extend an existing cluster vs. when they form a new one. See [[reviews/optimistic-2026-04-29c]].
 - **Source**: optimistic-review (chain from optimistic-2026-04-29c)
 - **Generated**: 2026-04-29
@@ -1277,10 +1287,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: staleness
 - **Generated**: 2026-04-01
 
-### P3: Deep review necessary-opacity.md
+### P2: Deep review necessary-opacity.md (37 days since last review, ai_contribution=100, Tenet-relevant interface-opacity exhibit)
 - **Type**: deep-review
 - **Status**: pending
-- **Notes**: AI-generated content (ai_contribution: 100) with no recorded deep review. Voids article on the necessary opacity of the consciousness-physics interface. Verify coherence, accuracy of claims about why the interface must be opaque, cross-references to related void articles (causal-interface, transparency-void), and tenet alignment.
+- **Promoted**: P3→P2 by /replenish-queue 2026-06-01 to restore the P0–P2 floor. Grounded staleness pick: `last_deep_review: 2026-04-25` (~37d, oldest-tier stale) AND well-settled (`ai_modified: 2026-04-28`, ~34d — clear of same-session churn). The necessary-opacity-of-the-interface claim is load-bearing for the Map's epistemic-horizon case (why the interface can be principled yet unobservable), so calibration here matters.
+- **Notes**: AI-generated content (ai_contribution: 100) with no recorded standalone deep review. Voids article on the necessary opacity of the consciousness-physics interface. Deep-review should: (a) verify coherence and the accuracy of claims about *why* the interface must be opaque; (b) honour [[evidential-status-discipline]] — "necessary" opacity is an *argued* modal claim, not a demonstrated one; ensure the necessity is scoped (does it follow from the interface model, or is it a stronger metaphysical claim?); (c) verify cross-references to related void articles (causal-interface, transparency-void) resolve live and reciprocate; note there is also a P3 cross-review pairing necessary-opacity with predictive-processing-and-dualism — coordinate if this review touches that link; (d) web-verify any attributions ([[ai-citation-metadata-unreliable]]); (e) writing-style + length discipline. First review in ~37d; metadata-only verdict acceptable if converged ([[deep-review-over-reviews-converged]]); do NOT over-hedge. Mark RESOLVED-OBSOLETE if a cycle-slot review bumps `last_deep_review` first.
 - **Source**: staleness
 - **Generated**: 2026-03-30
 
@@ -1701,12 +1712,8 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Generated**: 2026-03-20
 - **Superseded**: 2026-04-05 — phenomenal-presence-void.md was archived (coalesced into phenomenal-quality-void.md). Replaced by P3 deep review of phenomenal-quality-void.md above.
 
-### P3: Deep review meta-epistemology-of-limits.md
-- **Type**: deep-review
-- **Status**: pending
-- **Notes**: AI-generated content (ai_contribution: 100) created via coalesce on 2026-03-19, never reviewed. Voids article on the meta-epistemology of cognitive limits. Verify coherence, cross-references to related voids articles (taxonomy-of-voids, compound-cognitive-limits), and tenet alignment.
-- **Source**: staleness
-- **Generated**: 2026-03-19
+### ↑ RELOCATED 2026-06-01: Deep review meta-epistemology-of-limits.md
+- **Relocated** to the top of Active Tasks by /replenish-queue 2026-06-01 so the floor-restoring P2 is not LIFO-starved (the selector sorts by line_number ascending; a P2 buried ~1700 lines down behind ~470 P3s would never be picked — see [[queue-lifo-starvation]]). See the live task block at the top of Active Tasks.
 
 ### P3: Deep review inaccessible-past.md
 - **Type**: deep-review
@@ -1728,10 +1735,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Notes**: Article coalesced from predictive-processing-and-the-maps-framework.md and predictive-processing-and-active-inference-under-dualism.md. Deep review found no critical issues. Fixed description length (223→148 chars). Updated cross-references in 12 files.
 - **Output**: obsidian/topics/predictive-processing-and-dualism.md
 
-### P3: Deep review spontaneous-intentional-action.md
+### P2: Deep review spontaneous-intentional-action.md (35 days since last review, ai_contribution=100, Tenet 3 load-bearing)
 - **Type**: deep-review
 - **Status**: pending
-- **Notes**: AI-generated content (ai_contribution: 100) last reviewed 2026-02-17 — 30 days ago. Concept page on spontaneous intentional action and its implications for the consciousness-physics interface. Verify coherence, cross-references, and tenet alignment.
+- **Promoted**: P3→P2 by /replenish-queue 2026-06-01 to restore the P0–P2 floor. Grounded staleness pick chosen for diversity (a *concepts* page, distinct from the two voids deep-reviews promoted alongside it): `last_deep_review: 2026-04-27` (~35d stale) AND well-settled (`ai_modified: 2026-05-08`, ~24d — clear of same-session churn). Spontaneous intentional action is a Tenet 3 (Bidirectional Interaction) exhibit, so argument soundness and calibration matter more than for peripheral pages.
+- **Notes**: AI-generated content (ai_contribution: 100). Concept page on spontaneous intentional action and its implications for the consciousness-physics interface. Deep-review should: (a) verify coherence and that the bidirectional-interaction framing stays consistent with the selection-only channel taxonomy and [[selection-only-mind-influence]]; (b) honour [[evidential-status-discipline]] — the spontaneity intuition is *suggestive*, not a demonstration of dualism; keep the agency claim calibrated; (c) verify cross-references resolve live and reciprocate where load-bearing; (d) web-verify any attributions ([[ai-citation-metadata-unreliable]]); (e) writing-style + length discipline. First review in ~35d; metadata-only verdict acceptable if converged ([[deep-review-over-reviews-converged]]); do NOT over-hedge. Mark RESOLVED-OBSOLETE if a cycle-slot review bumps `last_deep_review` first. Tenet alignment: Tenet 3.
 - **Source**: staleness
 - **Generated**: 2026-03-19
 
