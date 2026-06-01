@@ -5,6 +5,16 @@ ai_modified: 2026-06-01 05:30:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-01T06:10:00+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[concepts/neural-correlates-of-consciousness]]
+- **Word count**: 2927 → 3212 (+285; article was already over the 2500 concept soft limit pre-pass — symmetry remediation is additive by nature; net increase confined to the one symmetry paragraph plus a citation)
+- **Primary fix (altered-state symmetry, pessimistic-2026-06-01)**: In "Filter Theory: Correlates as Interface Points," the four supportive findings (covert consciousness, disconnection/callosal unity, psychedelic DMN dissolution, anaesthetic dissociation) were presented as convergent confirmations of the transmission reading with only a flat "compatible with either" closer. Replaced with a single symmetry paragraph: the four findings are ONE underdetermined evidential pattern, not four independent confirmations; the production/identity theorist has the symmetrically-available accommodation (localised disruption of a still-intact generator); and the propofol "near-total extinction" is reframed as a case the transmission framing must *accommodate* (interface narrowed toward zero bandwidth) rather than enrolled as support. Single dialectic paragraph, not one counter-claim per bullet (per evidential-status-discipline / defeater-removal≠evidence). Inherited the accommodation language from consciousness-disruption-and-the-mind-brain-interface (cycle 159 template). `evaluate_symmetry` now returns None (7 symmetry markers register).
+- **Secondary (web-verified, ai-citation-metadata-unreliable)**: (1) COGITATE Koch quote — the verbatim "the evidence is decidedly in favour of the posterior cortex" could NOT be verified; softened to a paraphrase ("read the experiments as favouring a posterior rather than prefrontal locus") plus the documented "decidedly mixed" headline result. (2) 2025 callosotomy claim — VERIFIED (Santander et al., *PNAS* 2025, "Full interhemispheric integration sustained by a fraction of posterior callosal fibers"); tightened to a single near-complete-callosotomy patient, citation added. (3) "200 theories" figure — provenance muddy (surveys count 29/200/222/350 depending on individuation); softened to "low hundreds — recent landscape mappings tally well over two hundred" rather than fabricate a citation.
+- **Cross-refs added**: [[topics/anaesthesia-and-the-consciousness-interface]], [[concepts/altered-states-of-consciousness]] (body + frontmatter concepts list).
+- **Preserved**: the four-condition "What Would Challenge This View?" falsification section untouched.
+- **Published**: yes (draft: false retained)
+
 ## 2026-06-01T05:29:19+00:00 - deep-review
 - **Status**: Success
 - **File**: [[topics/consciousness-and-the-metaphysics-of-laws-and-dispositions]]
