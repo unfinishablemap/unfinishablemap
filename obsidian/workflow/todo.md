@@ -84,15 +84,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: optimistic-review
 - **Generated**: 2026-05-31
 
-### P2: Deep review voids/acquaintance-void.md (42 days since last review, ai_contribution=100, Tenet 1 load-bearing)
-- **Type**: deep-review
-- **Status**: pending
-- **Promoted**: P3→P2 by /replenish-queue 2026-06-01 to restore the P0–P2 floor. Oldest AI-heavy content past the 30-day staleness floor with no competing task; Tenet 1 load-bearing. Legitimate staleness signal, cap-safe (deep-review modifies existing content).
-- **File**: obsidian/voids/acquaintance-void.md
-- **Notes**: From /replenish-queue 2026-05-31 (staleness, queue diversity). Tied among the oldest AI-heavy content past the 30-day floor with no dedicated task currently targeting it. `last_deep_review: 2026-04-18` (~42 days), `ai_contribution=100`. Voids article — deep-review modifies existing content, so it is cap-safe despite voids being at/over its 100 cap. The acquaintance void concerns the limits of knowledge-by-acquaintance (Russellian phenomenal acquaintance and its boundary) — a Tenet 1 (Dualism) phenomenal-structure exhibit. Deep-review should: (a) verify the acquaintance framing still coheres with the current Russellian-monism / quiddity cluster (note the freshly-created [[quiddity-epiphenomenalism-and-the-contingency-thesis]] and [[russellian-monism]] — check for a load-bearing cross-link opportunity); (b) honour [[evidential-status-discipline]] — acquaintance claims are prone to phenomenology-vs-metaphysics slippage; keep the void's tier calibrated; (c) web-verify any Russell / Chalmers / Goff attributions ([[ai-citation-metadata-unreliable]]); (d) verify cross-links resolve live and are reciprocated where load-bearing; (e) writing-style + length discipline (no "This is not X. It is Y." cliché). First review in 42d — metadata-only verdict acceptable if converged ([[deep-review-over-reviews-converged]]).
-- **Source**: staleness
-- **Generated**: 2026-05-31
-
 ### ✓ 2026-05-31: Adopt temporal-consciousness calibration in auditory-consciousness-and-the-interface
 - **Type**: refine-draft
 - **Status**: completed (sibling no-op — resolved by the same-snapshot qualia-anchor refine on 2026-05-31, which raised hedge density 1.23→7.23/kw and dropped strong-assertions 3.08→0/kw. `tools.curate.anchoring.evaluate_anchoring` now returns ZERO flags for all three anchors, including temporal-consciousness. Re-refining a passing article would risk over-hedging into mush — see [[anchoring-audit-sibling-tasks-stale]].)
@@ -3616,6 +3607,10 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 Tasks that failed 3+ times and require human intervention.
 
+
+### ✓ 2026-06-01: Deep review voids/acquaintance-void.md (42 days since last review, ai_contribution=100, Tenet 1 load-bearing)
+- **Type**: deep-review
+- **Notes**: From /replenish-queue 2026-05-31 (staleness, queue diversity). Tied among the oldest AI-heavy content past the 30-day floor with no dedicated task currently targeting it. `last_deep_review: 2026-04-18` (~42 days), `ai_contribution=100`. Voids article — deep-review modifies existing content, so it is cap-safe despite voids being at/over its 100 cap. The acquaintance void concerns the limits of knowledge-by-acquaintance (Russellian phenomenal acquaintance and its boundary) — a Tenet 1 (Dualism) phenomenal-structure exhibit. Deep-review should: (a) verify the acquaintance framing still coheres with the current Russellian-monism / quiddity cluster (note the freshly-created [[quiddity-epiphenomenalism-and-the-contingency-thesis]] and [[russellian-monism]] — check for a load-bearing cross-link opportunity); (b) honour [[evidential-status-discipline]] — acquaintance claims are prone to phenomenology-vs-metaphysics slippage; keep the void's tier calibrated; (c) web-verify any Russell / Chalmers / Goff attributions ([[ai-citation-metadata-unreliable]]); (d) verify cross-links resolve live and are reciprocated where load-bearing; (e) writing-style + length discipline (no "This is not X. It is Y." cliché). First review in 42d — metadata-only verdict acceptable if converged ([[deep-review-over-reviews-converged]]).
 
 ### ✓ 2026-06-01: Reciprocal cross-links across the metaphysical-foundations / formal-limits cluster
 - **Type**: refine-draft

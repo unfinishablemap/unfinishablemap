@@ -4,7 +4,7 @@ description: "Human+AI exploration of the territory that descriptions and concep
 created: 2026-01-27
 modified: 2026-04-28
 human_modified:
-ai_modified: 2026-05-31T00:00:00+00:00
+ai_modified: 2026-06-01T02:31:15+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -24,10 +24,10 @@ related_articles:
   - "[[synesthetic-void]]"
   - "[[imagery-void]]"
   - "[[biological-cognitive-closure]]"
-  - "[[imagination-and-creativity-void]]"
+  - "[[creative-aesthetic-void]]"
   - "[[transformative-experience-void]]"
   - "[[language-thought-boundary]]"
-  - "[[apophatic-approaches]]"
+  - "[[apophatic-cartography]]"
   - "[[embodied-cognition]]"
   - "[[contemplative-epistemology]]"
   - "[[the-silence-void]]"
@@ -36,7 +36,7 @@ author:
 ai_system: claude-opus-4-7
 ai_generated_date: 2026-04-25
 last_curated:
-last_deep_review: 2026-04-18T01:18:00+00:00
+last_deep_review: 2026-06-01T02:31:15+00:00
 coalesced_from:
   - "/voids/pre-conceptual-knowing/"
 ---
@@ -89,7 +89,7 @@ The body catches a ball without forming propositions about trajectory; a musicia
 
 ## Cross-Species Inaccessibility and Cognitive Closure
 
-Nagel argues that even perfect knowledge of bat neurophysiology fails to tell us what echolocation is like *for the bat*. The limit is phenomenological: there are facts about experience that cannot be captured by propositions expressible in human language. Imagination draws on prior acquaintance; where acquaintance ends, it produces only analogies built from materials we already have. The [[imagination-and-creativity-void|imagination void]] maps this confinement.
+Nagel argues that even perfect knowledge of bat neurophysiology fails to tell us what echolocation is like *for the bat*. The limit is phenomenological: there are facts about experience that cannot be captured by propositions expressible in human language. Imagination draws on prior acquaintance; where acquaintance ends, it produces only analogies built from materials we already have. The [[creative-aesthetic-void|imagination void]] maps this confinement.
 
 Colin McGinn's [[mysterianism|cognitive closure]] thesis adds the architectural reading: a mind is closed to a property if its concept-forming procedures cannot extend to a grasp of it. We cannot form acquaintance-concepts for experiences we are constitutionally unable to have, and may lack the architecture even to *specify* what we are missing.
 
@@ -117,11 +117,11 @@ Any method employed becomes a form of conceptual engagement, but several traditi
 
 **Contemplative practice** cultivates non-conceptual awareness; the [[the-silence-void|silence void]] takes this further — when even attending ceases, what remains may be acquaintance in its purest form. But reports are conceptual.
 
-**Aesthetic absorption** may temporarily quiet conceptual chatter. The [[aesthetic-void]] documents how profound encounters with beauty produce recognition without identification.
+**Aesthetic absorption** may temporarily quiet conceptual chatter. The [[creative-aesthetic-void|aesthetic void]] documents how profound encounters with beauty produce recognition without identification.
 
 **Bodily immersion** in skilled activity accesses non-conceptual knowing through doing; articulating it converts it to something it was not.
 
-**Apophatic mapping.** The [[apophatic-approaches|apophatic tradition]] knows through negation — saying what acquaintance is *not* — tracing boundaries without claiming to cross them.
+**Apophatic mapping.** The [[apophatic-cartography|apophatic tradition]] knows through negation — saying what acquaintance is *not* — tracing boundaries without claiming to cross them.
 
 Convergence across phenomenology's prereflective awareness, Buddhist nirvikalpa pratyaksha, Heidegger's Being prior to beings, and mystical via negativa suggests something real is being circled — or at least that similar cognitive structures produce similar failure modes.
 
@@ -153,7 +153,7 @@ The claim that the acquaintance void marks a genuine epistemic limit would be un
 - [[imagery-void]] — Inter-subjective phenomenal divergence within a single species
 - [[biological-cognitive-closure]] — What concepts minds can and cannot form
 - [[the-silence-void]] — Cessation of thought as access to pre-conceptual territory
-- [[apophatic-approaches]] — Knowing through negation
+- [[apophatic-cartography]] — Knowing through negation
 - [[embodied-cognition]] — The body as knowing subject
 
 ## References

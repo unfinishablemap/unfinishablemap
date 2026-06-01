@@ -5,6 +5,17 @@ ai_modified: 2026-06-01 01:50:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-01T02:31:15+00:00 - deep-review
+- **Status**: Success
+- **File**: [[voids/acquaintance-void]]
+- **Word count**: 2200 → 2200 (+0, length-neutral; soft_warning, 110% of voids 2000 target)
+- **Critical issues addressed**: 0 (none found — third consecutive zero-critical review; converged)
+- **Medium issues addressed**: 1 (archival link rot: 3 cross-links repointed from archive-notice pages to live coalesce targets — `imagination-and-creativity-void`→`creative-aesthetic-void`, `aesthetic-void`→`creative-aesthetic-void`, `apophatic-approaches`→`apophatic-cartography`; display aliases preserved so prose unchanged)
+- **Attributions web-verified clean**: Jackson 1982 (Phil Q 32, 127–136), Lewis 1988 (ability hypothesis), Conee 1994 (AJP 72, 136–150), Nemirow. Jackson recantation caveat correctly absent (Mary framed argument-neutrally, not as current dualist).
+- **Evidential-status**: void framing honest — ability hypothesis engaged not strawmanned; "Mary gains something" not presented as proof of dualism; genuine falsifiers listed.
+- **Enhancements made**: 0 content (link-liveness only)
+- **Output**: [[reviews/deep-review-2026-06-01-acquaintance-void]]
+
 ## 2026-06-01T03:05:00+00:00 - refine-draft
 - **Status**: Success
 - **Files**: [[topics/self-reference-and-the-limits-of-physical-description]], [[topics/consciousness-and-probability-interpretation]], [[topics/consciousness-and-the-metaphysics-of-laws-and-dispositions]]
