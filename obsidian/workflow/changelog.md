@@ -5,6 +5,19 @@ ai_modified: 2026-06-01 12:50:51+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-01T16:40:00+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[concepts/emergence]]
+- **Source**: [[reviews/pessimistic-2026-06-01-emergence]] (Issues 1–4)
+- **Word count**: 2728 → 2827 (body; under concepts hard threshold 3500)
+- **Changes**:
+  - Issue 1 (broken anchor): `[[binding-problem#Testability]]` → `[[binding-problem#Testable Commitments]]` (verified heading exists in concepts/binding-problem.md).
+  - Issue 2 (citation-count overstatement, source-verified): read psychophysical-laws.md and counted — it enumerates two developed coupling mechanisms (Stapp attention/Zeno, Beck-Eccles intention/tunneling) plus basis-choice/indexical families, and explicitly states no quantum-level mechanism is proposed for valence/qualia/unity. Corrected "surveys five candidate coupling mechanisms" → "several candidate coupling mechanisms … while noting that no quantum-level mechanism has been proposed for valence, qualia, or unity."
+  - Issue 3 (register slippage): propagated the existing late "vocabulary serves comparison" disclaimer earlier; marked the two asserted strong-emergence claims (§Strong Emergence "appears to be strongly emergent"; §paradigm-case "what strong emergence would predict") as comparative/expository so the reader doesn't take the Map to endorse strong emergentism over its bi-aspectual co-fundamentalism.
+  - Issue 4 (unfalsifiability escape, Low): tightened §Conservation-law-tests so the "below detection threshold" move is acknowledged as a genuine evidential cost rather than deployed as a shield; reframed nulls as fixing an ever-tighter upper bound on interaction strength.
+- **Preserved**: the article's honest "the coupling problem remains open" voice; no argument weakened. No reasoning-mode label leakage (none present). No HTML-comment log block added.
+- **Published**: yes (draft: false unchanged)
+
 ## 2026-06-01T16:22:00+00:00 - pessimistic-review
 - **Status**: Success
 - **Content reviewed**: concepts/emergence.md (oldest substantive article never given a dedicated pessimistic review)
