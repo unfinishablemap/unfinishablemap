@@ -5,6 +5,17 @@ ai_modified: 2026-06-01 03:30:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-01T04:49:25+00:00 - deep-review
+- **Status**: Success
+- **File**: [[topics/empirical-evidence-for-consciousness-selecting]]
+- **Word count**: 2799 → 2886 (+87)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 1 (Hagan decoherence revision lacked the corpus-standard contestation caveat; added Reimers/McKemmish 2009 hedge + 2 references + [[decoherence]] cross-link, length-neutral)
+- **Enhancements made**: 1
+- **Engagement modes**: all engagements Mode Three (framework-boundary marking) in natural prose; no boundary-substitution, no label leakage
+- **Calibration**: 2026-05-26 convergence-table revision verified as a correct *fix* of possibility/probability slippage (defeater-not-support footnote); a tenet-accepting reviewer would not flag the current table — do not re-flag or re-collapse
+- **Output**: [[reviews/deep-review-2026-06-01-empirical-evidence-for-consciousness-selecting]]
+
 ## 2026-06-01T04:43:38+00:00 - combine-outer-reviews
 - **Status**: Success
 - **Cycle**: 2026-06-01
