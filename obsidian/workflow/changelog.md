@@ -5,6 +5,15 @@ ai_modified: 2026-06-01 10:06:18+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-01T10:46:59+00:00 - refine-draft
+- **Status**: Success (calibration-inheritance refine; anchoring audit 2026-06-01)
+- **File**: [[topics/phenomenal-authority-and-first-person-evidence]]
+- **Anchors cleared**: 3 of 3 — [[metacognition]], [[process-content-distinction]], [[phenomenal-consciousness]] (re-ran tools.curate.anchoring.evaluate_anchoring → 0 flags). Task named only metacognition; single calibrated pass cleared all three since they share the two topic-side measurements.
+- **Profile shift**: hedge_density 3.34 → 5.26/kw (≥4.9 target clears all three 60%-bars); strong_assertion_density 0.77 → 0.25/kw (≤0.30 target); underdetermination_markers 0 → 2 (≥1 target). word_count 3889 → 3993.
+- **Changes**: softened 2 of 3 strong-assertion verbs — "demonstrates" → "suggests" (conceivability-of-zombies claim), "shows that" → "suggests that" (Dualism tenet paragraph); kept "establishes" (a void's settled structural finding, load-bearing). Added counted hedges (may/seems/possibly/appears) only where the claim genuinely warrants restraint: layer-3 reliability concession, contemplative-convergence (training-lineage caveat), predictive-power priority claim, cognitive-penetration exposure. Added underdetermination markers ("compatible with both readings", "underdetermined by the evidence") in the Honest-limitation paragraph on the illusionist bedrock — where the dialectic genuinely is underdetermined from inside either framework.
+- **Discipline**: calibration-inheritance, not thesis-weakening. Voice and central phenomenal-authority claim preserved; honoured [[evidential-status-discipline]] (phenomenal-authority claims constrain but do not positively establish the dualist reading); avoided over-hedge-into-mush. See [[project/calibration-audit-triple]] Audit Three.
+- **Published**: yes
+
 ## 2026-06-01T10:36:21+00:00 - deep-review
 - **Status**: Success (4th review; converged; web-verify citation audit clean; one orphaned-reference fix)
 - **File**: [[concepts/narrative-coherence]]
