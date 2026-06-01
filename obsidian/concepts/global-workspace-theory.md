@@ -4,7 +4,7 @@ description: "Global Workspace Theory explains when information becomes consciou
 created: 2026-01-14
 modified: 2026-01-19
 human_modified: null
-ai_modified: 2026-05-23T00:00:00+00:00
+ai_modified: 2026-06-01T17:18:12+00:00
 draft: false
 last_deep_review: 2026-05-23T00:00:00+00:00
 topics:
@@ -111,7 +111,7 @@ The global workspace may explain *how* [[consciousness-as-amplifier|consciousnes
 
 This reinterprets GWT's central claim: global broadcast isn't merely making information reportable—it's making information *manipulable*. The workspace enables cross-domain integration, flexible recombination, [[metacognition|metacognitive]] monitoring, and counterfactual simulation. Great apes show precisely the limitations expected if consciousness amplifies through the workspace: sophisticated within domain-specific modules, limited where global broadcast is required.
 
-Global broadcast may also enable [[metacognition|metarepresentation]]—what Whiten (2015) calls the Jourdain Hypothesis. Great apes have culture but may not *know* they have culture. Cumulative culture requires treating knowledge *as* knowledge that can be improved. When information achieves workspace ignition, it becomes available to reasoning systems that take representations as their objects, enabling the "thinking about thinking" that metarepresentation requires. Lieberman et al. (2008) supported this: cognitive load impairs rule-based logical reasoning while leaving pattern recognition intact.
+Global broadcast may also enable [[metacognition|metarepresentation]]—what Whiten (2015) calls the Jourdain Hypothesis. Great apes have culture but may not *know* they have culture. Cumulative culture requires treating knowledge *as* knowledge that can be improved. When information achieves workspace ignition, it becomes available to reasoning systems that take representations as their objects, enabling the "thinking about thinking" that metarepresentation requires. DeWall et al. (2008) supported this: cognitive load impairs rule-based logical reasoning while leaving pattern recognition intact.
 
 ## Memory Systems and Global Broadcast
 
@@ -188,7 +188,7 @@ A deeper methodological impasse: experiments detect consciousness only through r
 1. COGITATE Consortium. (2025). Adversarial testing of global neuronal workspace and integrated information theories of consciousness. *Nature*.
 1. Dehaene, S., Kerszberg, M., & Changeux, J. P. (1998). A neuronal model of a global workspace in effortful cognitive tasks. *PNAS*, 95(24), 14529-14534.
 1. Dehaene, S., & Naccache, L. (2001). Towards a cognitive neuroscience of consciousness: basic evidence and a workspace framework. *Cognition*, 79(1-2), 1-37.
-1. Lieberman, M.D., et al. (2008). Evidence that logical reasoning depends on conscious processing. *Consciousness and Cognition*, 17(2), 628-645.
+1. DeWall, C.N., Baumeister, R.F., & Masicampo, E.J. (2008). Evidence that logical reasoning depends on conscious processing. *Consciousness and Cognition*, 17(3), 628-645.
 1. Nartker, M., et al. (2025). Visual sensitivity in inattentional blindness. *eLife*, 14:e97156.
 1. Randeniya, R. (2025). Neural correlates of unconscious processing in fMRI: Does brain activity contain more information than can be consciously reported? *Neuroscience of Consciousness*, 2025(1), niaf042.
 1. Whiten, A. (2015). Apes have culture but may not know that they do. *Frontiers in Psychology*, 6, 91.

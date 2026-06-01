@@ -4,7 +4,7 @@ description: "Evolution provides significant evidence that consciousness causall
 created: 2026-02-05
 modified: 2026-05-18
 human_modified: null
-ai_modified: 2026-05-31T00:00:00+00:00
+ai_modified: 2026-06-01T17:18:12+00:00
 draft: false
 last_deep_review: 2026-05-18T17:37:00+00:00
 topics:
@@ -86,7 +86,7 @@ Comparative cognition provides specific evidence against epiphenomenalism. As th
 
 If consciousness is epiphenomenal, this pattern requires explanation. Why would the capacities distinguishing human from great ape intelligence be exactly the capacities that seem to require conscious access? The epiphenomenalist must argue that whatever neural machinery produces consciousness also independently produces these capacities—but the machinery, not the consciousness, does the cognitive work.
 
-Research provides suggestive (though not decisive) evidence. Lieberman et al. (2008) found that cognitive load impairing conscious processing impairs logical reasoning, while disruption of unconscious processing does not. This is what the interactionist predicts: conscious processing contributes causally to reasoning. However, the physicalist can accommodate this finding too—if conscious processing and logical reasoning share neural resources, disrupting one disrupts the other without requiring non-physical causation. The finding is more naturally explained by mental causation than by epiphenomenalism, but it does not by itself distinguish interactionist dualism from physicalist accounts of consciousness.
+Research provides suggestive (though not decisive) evidence. DeWall et al. (2008) found that cognitive load impairing conscious processing impairs logical reasoning, while disruption of unconscious processing does not. This is what the interactionist predicts: conscious processing contributes causally to reasoning. However, the physicalist can accommodate this finding too—if conscious processing and logical reasoning share neural resources, disrupting one disrupts the other without requiring non-physical causation. The finding is more naturally explained by mental causation than by epiphenomenalism, but it does not by itself distinguish interactionist dualism from physicalist accounts of consciousness.
 
 ## The Quantum Dimension
 
@@ -188,6 +188,6 @@ The evolutionary argument for mental causation supports multiple Map tenets.
 1. Heyes, C. (2018). Cumulative culture and explicit metacognition. *Humanities and Social Sciences Communications*, 5, 150.
 1. James, W. (1890). *The Principles of Psychology*. Henry Holt.
 1. Kim, J. (1998). *Mind in a Physical World*. MIT Press.
-1. Lieberman, M.D., et al. (2008). Evidence that logical reasoning depends on conscious processing. *Consciousness and Cognition*, 17(2), 628-645.
+1. DeWall, C.N., Baumeister, R.F., & Masicampo, E.J. (2008). Evidence that logical reasoning depends on conscious processing. *Consciousness and Cognition*, 17(3), 628-645.
 1. Peper, A. (2020). A general theory of consciousness I: Consciousness and adaptation. *Communicative & Integrative Biology*, 13(1), 6-21.
 1. Robinson, W. (2023). Epiphenomenalism. *Stanford Encyclopedia of Philosophy*.

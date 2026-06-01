@@ -4,7 +4,7 @@ description: "Consciousness as causally inert byproduct. Self-stultification pro
 created: 2026-01-09
 modified: 2026-05-15
 human_modified: null
-ai_modified: 2026-05-31T15:55:47+00:00
+ai_modified: 2026-06-01T17:18:12+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -225,7 +225,7 @@ The self-stultification problem remains the strongest objection: if epiphenomena
 1. Huxley, T.H. (1874). "On the Hypothesis that Animals are Automata, and its History."
 1. Jackson, F. (1982). "Epiphenomenal Qualia." *Philosophical Quarterly*, 32, 127-136. (Note: Jackson later recanted epiphenomenalism, arguing in 2003 that his earlier arguments rested on a mistake about the nature of phenomenal concepts.)
 1. Kim, J. (1989). "The Myth of Nonreductive Materialism." *Proceedings of the APA*, 63, 31-47.
-1. Lieberman, M.D., et al. (2008). Evidence that logical reasoning depends on conscious processing. *Consciousness and Cognition*, 17(2), 628-645.
+1. DeWall, C.N., Baumeister, R.F., & Masicampo, E.J. (2008). Evidence that logical reasoning depends on conscious processing. *Consciousness and Cognition*, 17(3), 628-645.
 1. Georgiev, D.D. (2024). "Evolution of Consciousness." *Life*, 14(1), 48.
 1. Cowan, N. (2001). "The magical number 4 in short-term memory: A reconsideration of mental storage capacity." *Behavioral and Brain Sciences*, 24(1), 87-114.
 1. Inoue, S. & Matsuzawa, T. (2007). "Working memory of numerals in chimpanzees." *Current Biology*, 17(23), R1004-R1005.

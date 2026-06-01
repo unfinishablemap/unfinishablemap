@@ -211,7 +211,7 @@ This research investigates the hypothesis that consciousness and cognition may b
 
 ### Can Logical Reasoning Proceed Unconsciously?
 - **Sides**:
-  - No: Rule-based reasoning specifically requires conscious reflection (Lieberman et al.)
+  - No: Rule-based reasoning specifically requires conscious reflection (DeWall et al.)
   - Partial Yes: Unconscious Thought Theory claims some reasoning can occur without awareness
 - **Core disagreement**: Whether unconscious processing can apply abstract rules or only associations
 - **Current state**: Evidence favors rule-based reasoning requiring consciousness; associative reasoning may proceed unconsciously
@@ -293,7 +293,7 @@ When writing the article, follow `obsidian/project/writing-style.md` for:
 3. Carruthers, P., & Smith, P. K. (1996). Theories of Theories of Mind. Cambridge University Press.
 4. Cleeremans, A., & Jiménez, L. (2002). Implicit learning and consciousness: A graded, dynamic perspective. Implicit Learning and Consciousness, 1-40.
 5. Dehaene, S. (2014). Consciousness and the Brain. Viking Press.
-6. Lieberman, M. D., et al. (2008). Evidence that logical reasoning depends on conscious processing. Consciousness and Cognition, 17(2), 628-645.
+6. DeWall, C.N., Baumeister, R.F., & Masicampo, E.J. (2008). Evidence that logical reasoning depends on conscious processing. Consciousness and Cognition, 17(3), 628-645.
 7. Phillips, I. (2021). Blindsight is qualitatively degraded conscious vision. Psychological Review, 128(3), 558-584.
 8. Read, D. W. (2008). Working memory: A cognitive limit to non-human primate recursive thinking prior to hominid evolution. Evolutionary Psychology, 6(4), 676-714.
 9. Seyfarth, R. M., & Cheney, D. L. (2013). Affiliation, empathy, and the origins of theory of mind. PNAS, 110(Supplement 2), 10349-10356.

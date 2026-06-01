@@ -4,7 +4,7 @@ description: "Consciousness amplifies intelligence by enabling flexible deployme
 created: 2026-01-21
 modified: 2026-01-27
 human_modified: null
-ai_modified: 2026-05-23T13:42:12+00:00
+ai_modified: 2026-06-01T17:18:12+00:00
 last_deep_review: 2026-05-23T13:42:12+00:00
 draft: false
 topics:
@@ -70,7 +70,7 @@ Great apes represent sophisticated [[baseline-cognition]]—what neurons achieve
 
 **The Jourdain Hypothesis**: Great apes have culture but may not *know* they have culture (Whiten 2015). [[cumulative-culture|Cumulative culture]] requires [[metacognition|metarepresentation]]: treating knowledge as knowledge that can be improved and taught. Without this, cultural innovation remains within Tomasello's "zone of latent solutions."
 
-**Logical reasoning requires consciousness**: Lieberman et al. (2008) and De Neys & Glumicic (2008) demonstrate that cognitive load disrupting conscious attention impairs logical reasoning; disrupting unconscious processes does not. Explicit rule-following requires conscious manipulation of representations.
+**Logical reasoning requires consciousness**: DeWall et al. (2008) and De Neys & Glumicic (2008) demonstrate that cognitive load disrupting conscious attention impairs logical reasoning; disrupting unconscious processes does not. Explicit rule-following requires conscious manipulation of representations.
 
 ## How Consciousness Amplifies
 
@@ -104,7 +104,7 @@ The epiphenomenalist response—that neural systems causing both consciousness a
 
 [[illusionism|Illusionists]] might respond that conscious amplification is really unconscious processing generating the *illusion* of conscious contribution. This faces several difficulties:
 
-**The empirical evidence**: Disrupting conscious processing specifically impairs logical reasoning; disrupting unconscious processing does not (Lieberman et al. 2008; De Neys & Glumicic 2008). If reasoning were really unconscious, the pattern should reverse.
+**The empirical evidence**: Disrupting conscious processing specifically impairs logical reasoning; disrupting unconscious processing does not (DeWall et al. 2008; De Neys & Glumicic 2008). If reasoning were really unconscious, the pattern should reverse.
 
 **The training problem**: If conscious amplification is illusory, metacognitive training shouldn't work. But contemplative traditions demonstrate that sustained attention to conscious states improves cognitive performance.
 
@@ -207,7 +207,7 @@ The [[tenets#^occams-limits|Occam's Razor Has Limits]] tenet cautions against pr
 1. Hameroff, S. & Penrose, R. (2014). Consciousness in the universe: A review of the 'Orch OR' theory. *Physics of Life Reviews*, 11(1), 39-78.
 1. Inoue, S. & Matsuzawa, T. (2007). Working memory of numerals in chimpanzees. *Current Biology*, 17(23), R1004-R1005.
 1. James, W. (1890). *The Principles of Psychology*. Henry Holt.
-1. Lieberman, M.D., et al. (2008). Evidence that logical reasoning depends on conscious processing. *Consciousness and Cognition*, 17(2), 628-645.
+1. DeWall, C.N., Baumeister, R.F., & Masicampo, E.J. (2008). Evidence that logical reasoning depends on conscious processing. *Consciousness and Cognition*, 17(3), 628-645.
 1. Miller, G.A. (1956). The magical number seven, plus or minus two: Some limits on our capacity for processing information. *Psychological Review*, 63(2), 81-97.
 1. Saad, B. (2025). A dualist theory of experience. *Philosophical Studies*, 182(3), 939-967.
 1. Stapp, H.P. (2009). *Mind, Matter, and Quantum Mechanics* (3rd ed.). Springer.
