@@ -74,7 +74,7 @@ Hutto and Myin's "Hard Problem of Content" (HPC), developed across *Radicalizing
   - Concludes Hutto and Myin are "good gadflies against representationalism" but fail to deliver a coherent positive alternative
 - **Tenet alignment**: Useful witness that even sympathetic enactivists find the HPC's positive programme underdeveloped—reduces the cost of the Map's partial endorsement of the *negative* argument while declining the *positive* programme
 
-### Mann & Pain, "Teleosemantics and the Hard Problem of Content" (*Philosophical Psychology*, 2021)
+### Mann & Pain, "Teleosemantics and the Hard Problem of Content" (*Philosophical Psychology*, 2022)
 - **URL**: https://www.tandfonline.com/doi/full/10.1080/09515089.2021.1942814 (paywalled; abstract via https://philarchive.org/rec/MANTAT-16)
 - **Type**: Peer-reviewed paper
 - **Key points**:
@@ -111,7 +111,7 @@ Hutto and Myin's "Hard Problem of Content" (HPC), developed across *Radicalizing
   - Provides a concrete empirical pressure point against REC's positive thesis
 - **Tenet alignment**: Neutral; useful for showing REC's empirical vulnerabilities
 
-### Pantsar, "On Radical Enactivist Accounts of Arithmetical Cognition" (*Ergo*, n.d.)
+### Pantsar, "On Radical Enactivist Accounts of Arithmetical Cognition" (*Ergo*, 2022)
 - **URL**: https://journals.publishing.umich.edu/ergo/article/id/3120/
 - **Type**: Critical paper
 - **Key points**:
@@ -180,7 +180,7 @@ Hutto and Myin's "Hard Problem of Content" (HPC), developed across *Radicalizing
   - Autopoietic and sensorimotor enactivism preserve more of mainstream cognitive science than REC
 - **Relation to site tenets**: Conflicts with Tenet 1 but in a different way—locates irreducibility in biological organisation rather than non-physical mind. See `enactivism-challenge-interactionist-dualism-2026-03-21.md` for fuller treatment.
 
-### Teleosemantic Defence (Mann & Pain 2021)
+### Teleosemantic Defence (Mann & Pain 2022)
 - **Proponents**: Stephen Francis Mann, Ross Pain
 - **Core claim**: Teleosemantics meets the truth-evaluability criterion REC demands; intensionality is not required for sub-personal content
 - **Key arguments**:
@@ -191,7 +191,7 @@ Hutto and Myin's "Hard Problem of Content" (HPC), developed across *Radicalizing
 ## Key Debates
 
 ### Does the HPC Succeed Against Teleosemantics?
-- **Sides**: Hutto and Myin (no naturalistic theory of content works) vs. teleosemantics defenders (Mann & Pain 2021; Millikan-school)
+- **Sides**: Hutto and Myin (no naturalistic theory of content works) vs. teleosemantics defenders (Mann & Pain 2022; Millikan-school)
 - **Core disagreement**: Whether biological proper function plus environmental covariation can deliver truth-evaluable, intensional, semantic content
 - **Current state**: Genuinely open. Mann and Pain show the HPC objection succeeds only against a strong reading of what teleosemantics is required to deliver. If naturalists weaken the requirement to truth-evaluability without intensionality, teleosemantics survives—but at the cost of admitting it cannot deliver folk-psychological content.
 
@@ -234,7 +234,7 @@ Hutto and Myin's "Hard Problem of Content" (HPC), developed across *Radicalizing
 | 2018 | Carter & Pritchard, "Making too many enemies" | Computationalism critique of REC |
 | 2020 | Shani, "Befuddling the mind" (*Phen. Cog. Sci.*) | REC's deflation of consciousness fails |
 | 2020 | Ash & Welshon on subitization (*Philosophical Psychology*) | Empirical pressure point |
-| 2021 | Mann & Pain, "Teleosemantics and the HPC" (*Philosophical Psychology*) | Teleosemantic rescue narrows criteria |
+| 2022 | Mann & Pain, "Teleosemantics and the HPC" (*Philosophical Psychology*) | Teleosemantic rescue narrows criteria |
 
 ## Potential Article Angles
 
@@ -248,7 +248,7 @@ Reasoning:
 
 Possible article angles for a `concepts/hard-problem-of-content.md`:
 
-1. **The structural ally (recommended)** — Present the HPC as a structural parallel to the hard problem of consciousness: both identify failures of naturalisation in the same explanatory direction. The Map endorses Hutto-Myin's negative argument (naturalistic content theories fail) without endorsing their positive REC alternative. Develop the parallel: where Chalmers identifies an unbridgeable gap between physical processes and *experience*, Hutto and Myin identify an unbridgeable gap between physical processes and *aboutness*. The Map reads both gaps as evidence that physicalism keeps encountering the same boundary from different directions—and that the boundary is real, not an artefact of conceptual confusion. Cite Mann & Pain 2021 honestly: the teleosemantic rescue narrows criteria, conceding that naturalism cannot deliver folk-psychological content.
+1. **The structural ally (recommended)** — Present the HPC as a structural parallel to the hard problem of consciousness: both identify failures of naturalisation in the same explanatory direction. The Map endorses Hutto-Myin's negative argument (naturalistic content theories fail) without endorsing their positive REC alternative. Develop the parallel: where Chalmers identifies an unbridgeable gap between physical processes and *experience*, Hutto and Myin identify an unbridgeable gap between physical processes and *aboutness*. The Map reads both gaps as evidence that physicalism keeps encountering the same boundary from different directions—and that the boundary is real, not an artefact of conceptual confusion. Cite Mann & Pain 2022 honestly: the teleosemantic rescue narrows criteria, conceding that naturalism cannot deliver folk-psychological content.
 
 2. **The pincer with Boghossian** — Develop the Hutto-Myin/Boghossian pincer against eliminativism more fully. The structure: Boghossian shows that content-irrealism cannot consistently be asserted; Hutto-Myin show that content-realism cannot be naturalised. Together these arguments force the eliminativist to choose between coherent self-stultification and embracing non-naturalist semantics. The Map's position: the dualist resolution accepts non-physical grounding for content without being self-stultifying. Cross-link `concepts/status-of-content.md` and `concepts/self-stultification.md`.
 
@@ -264,13 +264,13 @@ When writing the article, follow `obsidian/project/writing-style.md` for:
 - Avoid the "this is not X, it is Y" cliché when contrasting REC with dualism; phrase positively
 
 Honest limitations to flag in the article:
-- The HPC is contested—Mann & Pain 2021 is a serious teleosemantic reply, and the article should not present the HPC as a knockdown
+- The HPC is contested—Mann & Pain 2022 is a serious teleosemantic reply, and the article should not present the HPC as a knockdown
 - REC's positive alternative is *not* something the Map endorses; the article must distinguish negative argument from positive programme
 - The empirical disputes (subitization etc.) cut against REC, not against the negative HPC argument
 
 ## Gaps in Research
 
-- Could not access full text of Mann & Pain 2021 (paywalled); abstract-level summary only
+- Could not access full text of Mann & Pain 2022 (paywalled); abstract-level summary only
 - Did not survey Hutto and Myin's most recent (post-2020) replies to critics
 - The Carter & Pritchard 2018 "Making too many enemies" critique of REC's computationalism attack was found by title but not read in detail
 - The connection between REC and Wittgensteinian rule-following considerations is mentioned in some sources but not investigated deeply
@@ -287,8 +287,8 @@ Honest limitations to flag in the article:
 - Hutto, D.D. & Satne, G. (2015). "The Natural Origins of Content." *Philosophia*. https://link.springer.com/article/10.1007/s11406-015-9642-2
 - Kirchhoff, M.D. & Hutto, D.D. (2016). "Never Mind the Gap: Neurophenomenology, Radical Enactivism, and the Hard Problem of Consciousness." *Constructivist Foundations*, 11(2): 346–353. https://constructivist.info/11/2/346
 - Kiverstein, J. & Rietveld, E. (2015). "The Primacy of Skilled Intentionality: on Hutto & Satne's the Natural Origins of Content." *Philosophia*. https://link.springer.com/article/10.1007/s11406-015-9645-z
-- Mann, S.F. & Pain, R. (2021). "Teleosemantics and the Hard Problem of Content." *Philosophical Psychology*, 35(1). https://philarchive.org/rec/MANTAT-16
-- Pantsar, M. (n.d.). "On Radical Enactivist Accounts of Arithmetical Cognition." *Ergo*. https://journals.publishing.umich.edu/ergo/article/id/3120/
+- Mann, S.F. & Pain, R. (2022). "Teleosemantics and the Hard Problem of Content." *Philosophical Psychology*, 35(1): 22–46. https://doi.org/10.1080/09515089.2021.1942814 (abstract: https://philarchive.org/rec/MANTAT-16)
+- Pantsar, M. (2022). "On Radical Enactivist Accounts of Arithmetical Cognition." *Ergo*, 9. https://doi.org/10.3998/ergo.3120
 - Roberts, A. (2013). Review of *Radicalizing Enactivism*. *Notre Dame Philosophical Reviews*. https://ndpr.nd.edu/reviews/radicalizing-enactivism-basic-minds-without-content/
 - Shani, I. (2020). "Befuddling the mind: radical Enactivism (Hutto-Myin style) and the metaphysics of experience." *Phenomenology and the Cognitive Sciences*. https://link.springer.com/article/10.1007/s11097-020-09656-4
 - Thompson, E. (2018). Review of *Evolving Enactivism*. *Notre Dame Philosophical Reviews*. https://ndpr.nd.edu/reviews/evolving-enactivism-basic-minds-meet-content/
