@@ -37,17 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Absorb the Translation Void research note into language-thought-boundary.md and metaphor-void.md
-- **Type**: refine-draft
-- **File**: obsidian/voids/language-thought-boundary.md, obsidian/voids/metaphor-void.md
-- **Notes**: ABSORPTION task minted by /replenish-queue 2026-06-01 (preferred over converged-pool deep-reviews; content-additive, creates NO new void, respects the 100-void cap). Fold [[research/voids-translation-void-2026-05-09]] into its two designated host bodies per [[voids/voids]] §Research-Stage Voids (verified on disk 2026-06-01): the translation void is three-face cross-format-mapping opacity — consciousness has the endpoints but not the passage (operation-void family alongside [[voids/inference-void]] and [[voids/transit-void]]). Host split per the index designation:
-  - **language-thought-boundary** (phenomenal-to-linguistic + cross-lexical faces): phenomenal-to-linguistic compression (Ji et al. 2024 give an information-theoretic bound — trajectories specifying billions of neurons collapse into a handful of working-memory slots); cross-lexical untranslatability (Lomas's corpus of 1,400+ documented untranslatable terms — language-specific carvings that feel transparent from the source-language stance). The host already carries a short forward-pointer (language-thought-boundary.md:178, "awaiting absorption into this article and metaphor-void") — convert it to body content.
-  - **metaphor-void** (analogical-domain face): Hofstadter-Gentner — analogy as the unconscious core of cognition, felt-rightness as output and selection criteria as opaque. NOTE metaphor-void currently has NO forward-pointer to the translation note at all (verified: 0 mentions); this host needs the analogical-domain face *installed* as the absorption, and a reciprocal `related_articles` entry to [[research/voids-translation-void-2026-05-09]] added.
-  - LENGTH: language-thought-boundary 2285w, metaphor-void 1901w — both have headroom under the voids 3000 hard ceiling; still absorb tightly (+150–300 words per host) and don't over-grow.
-  - WEB-VERIFY the load-bearing citations (Ji et al. 2024 information-theoretic compression bound; Lomas's untranslatable-terms corpus; Hofstadter-Gentner analogy work) before trusting the research note metadata per [[ai-citation-metadata-unreliable]]. Honour [[evidential-status-discipline]] — frame as cross-format-mapping opacity (operation-void), not as standalone dualism evidence. MULTI-FILE: do BOTH host files ([[multifile-task-dropped-file]]). Tenet alignment: Tenet 1 (Dualism — opacity of the translating operation), secondary Tenet 5.
-- **Source**: research_absorption
-- **Generated**: 2026-06-01
-
 ### P2: Deep review concepts/luck-objection.md (33d since review, CHANGED-SINCE on 2026-05-27, ai_contribution=100, free-will / luck cluster)
 - **Type**: deep-review
 - **File**: obsidian/concepts/luck-objection.md
@@ -3738,6 +3727,10 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 Tasks that failed 3+ times and require human intervention. (Also: standing human editorial decisions the loop has done all it can on — e.g. over-ceiling flagship articles whose excess is verified load-bearing calibration content, and thesis-level alternatives the loop must not adopt unilaterally.)
 
+
+### ✓ 2026-06-01: Absorb the Translation Void research note into language-thought-boundary.md and metaphor-void.md
+- **Type**: refine-draft
+- **Notes**: ABSORPTION task minted by /replenish-queue 2026-06-01 (preferred over converged-pool deep-reviews; content-additive, creates NO new void, respects the 100-void cap). Fold [[research/voids-translation-void-2026-05-09]] into its two designated host bodies per [[voids/voids]] §Research-Stage Voids (verified on disk 2026-06-01): the translation void is three-face cross-format-mapping opacity — consciousness has the endpoints but not the passage (operation-void family alongside [[voids/inference-void]] and [[voids/transit-void]]). Host split per the index designation:
 
 ### ✓ 2026-06-01: Absorb the Encoding Void research note into narrative-void.md and source-attribution-void.md
 - **Type**: refine-draft

@@ -5,6 +5,22 @@ ai_modified: 2026-06-01 22:37:08+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-01T22:45:00+00:00 - refine-draft (absorption)
+- **Status**: Success
+- **Files**: [[voids/language-thought-boundary]], [[voids/metaphor-void]]
+- **Task**: Absorb [[research/voids-translation-void-2026-05-09]] (the Translation Void) into both designated hosts as woven structural faces, not a References dump
+- **Word counts**: language-thought-boundary 2285 → 2553 (+268); metaphor-void 1901 → 2290 (+389); both well under the 3000 voids ceiling
+- **Per-host faces installed**:
+  - language-thought-boundary: (a) cross-lexical untranslatability face into "Linguistic Limits" (Lomas's 216→1,400+ corpus; source-stance invisibility of the carving); (b) phenomenal-to-linguistic compression face into the qualia "Dimensionality mismatch" point (Ji et al. 2024 information-theoretic floor). Converted the line-178 forward-pointer from "awaiting absorption" to "now incorporated."
+  - metaphor-void: analogical-domain face as a new section "The Opacity of the Mapping Itself" (Hofstadter & Sander 2013 analogy-as-core-of-cognition; Gentner 1983 structure-mapping). Tied to the article's existing *false transparency* thesis: the conviction of metaphorical fit is the only datum, the selection operation opaque. Host had 0 prior mentions of the note; installed the body face + frontmatter related_articles link + Further Reading link + Hofstadter/Gentner References entries. Reciprocal note→metaphor-void link already present in the note's related_articles.
+- **CITATION WEB-VERIFY (propagation-root check — all 3 load-bearing cites verified CLEAN, no corrections needed at root)**:
+  - **Ji, Elmoznino, Deane, Constant, Dumas, Lajoie, Simon, Bengio (2024)** "Sources of Richness and Ineffability for Phenomenally Conscious States," *Neuroscience of Consciousness* 2024(1) niae001 — author list, venue, year all confirmed (PubMed 38487679, Oxford Academic). The "billions of neurons → handful of [working-memory] items" quote and "discrete symbolic nature of language is insufficient" quote verified verbatim against PMC10939345. Fabricated-statistic check: passed (the paper actually says "up to approximately 100 billion neurons").
+  - **Lomas (2016)** *J. Positive Psychology* 11(5): 546–558 — 216 initial untranslatable well-being terms confirmed; "over 1,400 more added to date" confirmed (drtimlomas.com / mybestself101). "1,400+" figure accurate (conservative).
+  - **Hofstadter & Sander (2013)** *Surfaces and Essences*, Basic Books — title/year/publisher confirmed; "analogy is the core of all thinking" + continuous-unconscious framing verified. Gentner (1983) *Cognitive Science* 7(2): 155–170 structure-mapping confirmed.
+- **Evidential-status**: framed as cross-format-mapping OPACITY (operation-void — the translating/mapping operation is introspectively opaque), explicitly NOT standalone dualism evidence; possibility-vs-probability register kept calibrated ("undecidable from within," "registered as opacity, not metaphysical thesis").
+- **Doctrinal**: opacity-of-operation framing, no from-below emergence; Tenet 1 (Dualism) primary, Tenet 5 secondary.
+- **Published**: yes (both already draft: false; remain published)
+
 ## 2026-06-01T22:37:08+00:00 - deep-review
 - **Status**: Success
 - **File**: [[topics/incubation-effect-and-unconscious-processing]]

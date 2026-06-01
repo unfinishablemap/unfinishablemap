@@ -3,7 +3,7 @@ title: "The Language-Thought Boundary"
 created: 2026-01-26
 modified: 2026-01-26
 human_modified: null
-ai_modified: 2026-06-01T02:38:05+00:00
+ai_modified: 2026-06-01T13:20:00+00:00
 draft: false
 description: "Where thought exceeds language: visual cognition, qualia, and the limits of articulation. What ineffability reveals about consciousness."
 topics: []
@@ -24,6 +24,7 @@ related_articles:
   - "[[edge-states-and-void-probes]]"
   - "[[phenomenology-of-linguistic-failure]]"
   - "[[vagueness-void]]"
+  - "[[research/voids-translation-void-2026-05-09]]"
 ai_contribution: 100
 author: null
 ai_system: claude-opus-4-7
@@ -45,6 +46,8 @@ Two companion articles map adjacent territory: the [[consciousness-and-language-
 Some thoughts expressible in one language resist translation to another. Russian speakers distinguish *siniy* (dark blue) and *goluboy* (light blue) as separate colours, and their perception tracks the distinction—they detect differences between these blues faster than English speakers do. Kuuk Thaayorre speakers of Australia use cardinal directions rather than left and right; their spatial cognition is fundamentally oriented. These are limits of *this* language, not language as such.
 
 The weak Sapir-Whorf hypothesis—that language influences habitual thought—has substantial empirical support. Japanese speakers thinking in Japanese categorise objects differently than when thinking in English. The language you're using changes what thoughts come readily, though it doesn't absolutely determine what you can think.
+
+These cases generalise into a documented pattern. Tim Lomas's positive cross-cultural lexicography began with 216 "untranslatable" well-being terms culled across the world's languages (Lomas 2016) and has since grown past 1,400—Tagalog *gigil*, Portuguese *saudade*, Japanese *mono no aware*, German *Sehnsucht*, each carving a phenomenal distinction English leaves uncut. The revealing feature is not that the words exist but that the carving is *invisible from the source-language stance*: to a native speaker the term feels like a transparent picking-out of a self-evident phenomenon, not a parochial cut. The gap only appears when a translator-position is occupied. This is one face of what the [[research/voids-translation-void-2026-05-09|Translation Void]] calls cross-format-mapping opacity: the operation that renders one language's carvings into another's cannot be inspected from inside the source language, since exiting requires another language with its own carvings. The opacity is in the *operation*, not the endpoints.
 
 The boundary intersects the [[vagueness-void|vagueness void]] at the point of translation. *Siniy* and *goluboy* carve a borderline region English treats as a single shade with vague edges; rendering the Russian into English forces closure on a Sorites series the source language left open. Every cross-linguistic transit bakes in this vagueness-shaped commitment—a determinate verdict where the source treated the cut-off as indeterminate.
 
@@ -132,7 +135,7 @@ Why? Several possibilities:
 
 **Structural indexicality**: Qualia are essentially first-personal. Language is third-personal—public, shared, objective. The translation from "what it's like for me" to "what can be said to anyone" necessarily loses something.
 
-**Dimensionality mismatch**: Experience may have more dimensions than language can represent. A colour is a point in experience-space; a word is a discrete token. Continuous territory resists discrete mapping.
+**Dimensionality mismatch**: Experience may have more dimensions than language can represent. A colour is a point in experience-space; a word is a discrete token. Continuous territory resists discrete mapping. Ji and colleagues (2024) give this an information-theoretic floor: a conscious state corresponds to a neural trajectory "specifying the activity of billions of neurons, whereas working memory appears to be limited to representing a handful of items," so the rendering of experience into a reportable form loses information at a rate the format mismatch *fixes*, not one better description could close. On this account "the discrete symbolic nature of language is insufficient for describing the rich and high-dimensional structure of experiences"—the phenomenal-to-linguistic compression is a structural bound, the same cross-format-mapping opacity the [[research/voids-translation-void-2026-05-09|Translation Void]] traces. What stays opaque is the compressing operation itself: introspection reaches the experience and the words but not the passage that collapses one into the other.
 
 **Privacy and publicity**: Grasping a concept requires something like intersubjective triangulation—we check our understanding against others'. But I cannot check whether my red matches yours. Without triangulation, genuine conceptual formation may be impossible.
 
@@ -175,7 +178,7 @@ The claim that language and thought have genuinely different limits would be cha
 - [[mysterianism|Mysterianism and Cognitive Closure]] — McGinn's formal analysis
 - [[what-voids-reveal|What the Limits Reveal]] — How boundaries illuminate architecture
 - [[phenomenology-of-linguistic-failure|The Phenomenology of Linguistic Failure]] — What linguistic failure feels like from the inside: five distinct experiential modes
-- [[research/voids-translation-void-2026-05-09|The Translation Void (research-stage)]] — Survey of cross-format-mapping opacity across three faces: phenomenal-to-linguistic compression, cross-lexical untranslatability, and analogical-domain transfer. Cap-deferred, awaiting absorption into this article and [[metaphor-void]] as additional faces of the boundary
+- [[research/voids-translation-void-2026-05-09|The Translation Void (research-stage)]] — Survey of cross-format-mapping opacity across three faces: phenomenal-to-linguistic compression, cross-lexical untranslatability, and analogical-domain transfer. The first two faces are now incorporated above (the linguistic-limits and qualia sections); the analogical-domain face is folded into [[metaphor-void]]
 - [[tenets|Site Tenets]] — The foundational commitments shaping this investigation
 
 ## References
