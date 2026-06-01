@@ -5,6 +5,19 @@ ai_modified: 2026-06-01 12:50:51+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-01T13:30:00+00:00 - deep-review
+- **Status**: Success (6th review; converged body, primary-source citation web-verify pass discharging the standing mandate)
+- **File**: [[concepts/types-of-consciousness]]
+- **Word count**: 1938 → 1939 (no body change; Zheng full title is longer)
+- **Critical issues addressed**: 2 (both citation-metadata, invisible to 5 prior intra-corpus reviews) — (1) Block 1995 *BBS* 18(2) page range was **227-287** (commentary-inclusive variant); corrected to **227-247** per Cambridge Core, the publisher of record. Cross-corpus grep confirmed 227-247 is the dominant/correct form; 4 sibling articles still carry the wrong form → queued P3 corpus-normalisation task. (2) Zheng & Meister 2025 *Neuron* was **113(1), 21-30** with a truncated author vector; corrected to **Zheng, J. & Meister, M., 113(2), 192-204** with full title, verified against Cell/ScienceDirect (wrong issue AND non-overlapping page range).
+- **Citations web-verified correct**: Schwitzgebel 2025 (arXiv:2510.09858, confirmed "Ten Possibly Essential Features" chapter); Klein 2016 (QJEP 69(2):381-401, DOI 10.1080/17470218.2015.1007150 — exact match, content supports content-manner independence); Block inline P/A quotes verbatim; Rosenthal 2005 HOT attribution standard/correct.
+- **Calibration check (evidential-status discipline)**: PASSED — Relation to Site Perspective frames dualism as a tenet that *constrains* the taxonomy, not a conclusion *derived* from it; no slide from "types are distinct" to "distinctness evidences dualism"; the contested phenomenal/access distinction keeps its Dennett overflow caveat and is not deployed as settled in the Map's favour. A tenet-accepting reviewer would flag nothing here as overstated.
+- **Birch 2026 Flicker/Shoggoth/Witness**: attribution remains on monitoring (full text unavailable); consistent with summaries; not re-flagged per convergence rule.
+- **Style**: no "This is not X. It is Y." cliché ("Consciousness is not one thing" is a single declarative, not the negate-then-assert construct).
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 (converged; metadata-only verdict, no padding/over-hedging)
+- **Output**: [[reviews/deep-review-2026-06-01-types-of-consciousness]]
+
 ## 2026-06-01T13:01:14+00:00 - deep-review
 - **Status**: Success (5th review; converged content, citation web-verify pass)
 - **File**: [[topics/perceptual-failure-and-the-interface]]
