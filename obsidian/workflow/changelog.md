@@ -5,6 +5,17 @@ ai_modified: 2026-06-01 17:20:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-01T17:11:42+00:00 - deep-review
+- **Status**: Success (one CRITICAL citation error caught + fixed via web-verify)
+- **File**: [[concepts/consciousness]]
+- **Word count**: 2417 → 2417 (+0; body converged, metadata-only change)
+- **Critical issues addressed**: 1 (misattributed citation: "Lieberman, M.D., et al. … 17(2)" → correct "DeWall, C.N., Baumeister, R.F., & Masicampo, E.J. … 17(3)", verified PubMed PMID 18226923 + ScienceDirect; reference moved to correct alphabetical slot)
+- **Medium issues addressed**: 0 (HOT/attention-schema/predictive-processing absence remains a deferred expansion opportunity; length-neutral at 97% soft threshold)
+- **Enhancements made**: 1 (citation correction)
+- **Named-opponent engagements**: functionalism — Mode Two + boundary (zombies/inverted qualia); illusionism (Dennett/Frankish) — Mode Two + boundary ("seeming itself has experiential character … relocates rather than dissolves the gap"); physicalist dissatisfaction — Mode Three/bedrock, not re-flagged. No label leakage; no "This is not X. It is Y." cliché.
+- **Corpus follow-on queued (P2)**: same DeWall/17(3) fix needed in epiphenomenalism.md, global-workspace-theory.md, animal-consciousness.md; plus Block 1995 page range is wrong corpus-wide (web-verified BBS 18(2):**227-287**, the "227-247 normalization this session" was a regression — 29 files wrong, 19 correct).
+- **Output**: [[reviews/deep-review-2026-06-01-consciousness]]
+
 ## 2026-06-01T17:20:00+00:00 - optimistic-review
 - **Status**: Success
 - **Content reviewed**: prediction-failure-as-diagnostic cluster active in the 16:47–16:55 UTC window — `topics/consciousness-and-the-metaphysics-of-individuation`, `concepts/categorical-surprise`, `topics/surprise-prediction-error-and-consciousness`. All three calibrated; Process Philosopher and Hardline Empiricist converge (no tenet-resonance doing tier-upgrade work). Individuation article praised for naming primitive-identity/haecceity as void-acknowledgement not solution.
