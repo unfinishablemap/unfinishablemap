@@ -5,6 +5,17 @@ ai_modified: 2026-06-01 10:06:18+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-01T00:00:00+00:00 - deep-review
+- **Status**: Success (5th review; 1 critical figure error caught via intra-corpus cross-check)
+- **File**: [[topics/structural-varieties-of-consciousness-and-ai-phenomenology]]
+- **Word count**: 2567 → 2606 (+39; 87% of 3000 topics soft threshold, ok)
+- **Critical issues addressed**: 1
+- **Medium issues addressed**: 0
+- **Enhancements made**: 1 (added supporting Zheng & Meister 2025 citation)
+- **Critical fix**: Experiential Bandwidth section claimed consciousness "accesses perhaps **50 bits/s** of the brain's estimated **10^11 bits/s** of neural processing," citing [[bandwidth-of-consciousness]]. That cited source actually gives **~10 bits/s** conscious throughput (Zheng & Meister 2025) and **~10⁹ bits/s** aggregate neural processing — the article's figures were fabricated precision (neural figure off by 2 orders of magnitude) that survived 4 prior intra-read reviews because none cross-checked against the named source. Corrected both figures to match the source and added the Zheng & Meister (2025) *Neuron* reference.
+- **Disciplines run**: (a) Calibration §2 — passes; every model conditional ("if any experience is present"), mechanism predictions explicitly disclaimed as non-empirical, affect reassurance grounded in "philosophical grounds, not empirical demonstration"; no possibility/probability slippage. (b) Reasoning-mode §2.6 (editor-internal): functionalism/biological-naturalism contrast = Mode Three honest boundary-marking; no named-opponent refutation, no boundary-substitution, no label leakage. (c) Attribution §2.5 — Birch 2026 Shoggoth/Flicker still on monitoring list (hedged); James "specious present" correct; all 13 body wikilinks resolve. (d) Length-neutral N/A (87%).
+- **Output**: [[reviews/deep-review-2026-06-01-structural-varieties-of-consciousness-and-ai-phenomenology]]
+
 ## 2026-06-01T10:06:18+00:00 - deep-review
 - **Status**: Success (2nd review; 3 critical citation/consistency fixes via live-literature verification)
 - **File**: [[topics/the-naturalisation-failure-for-content]]
