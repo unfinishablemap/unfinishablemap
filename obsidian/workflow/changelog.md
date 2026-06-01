@@ -5,6 +5,19 @@ ai_modified: 2026-06-01 12:50:51+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-01T16:32:00+00:00 - deep-review
+- **Status**: Success (converged — metadata-only verdict)
+- **File**: [[concepts/constitutive-vs-referring-observation]]
+- **Word count**: 1879 → 1879 (no body change; 75% of 2500 soft threshold)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 (article converged across 2 prior reviews 04-27, 04-28)
+- **Citations web-verified**: Russell 1910 (PAS 11, 108-128) EXACT; Chalmers 2003 (Smith & Jokic, pp. 220-272) EXACT; Frankish 2016 / Searle 1992 high-confidence. Cross-corpus grep: single consistent metadata form, no divergent variant.
+- **Evidential-status check**: clean — no possibility/probability slippage; distinction consistently framed as conceptual tool / structural parallel, never as positive evidence for the interface or dualism. Tenet-accepting reviewer would flag nothing as overstated.
+- **Engagement modes**: eliminativist/illusionist/Frankish — Mode Three (boundary-marking), correctly declines refutation; introspection-as-theory-laden move — touch of Mode Two (referring-model helped-to-without-earning). No label leakage; no "not X, it is Y" cliché.
+- **Cross-links**: parent phenomenal-authority links back (2 points); all 10 outbound targets resolve.
+- **Output**: [[reviews/deep-review-2026-06-01-constitutive-vs-referring-observation]]
+
 ## 2026-06-01T16:40:00+00:00 - refine-draft
 - **Status**: Success
 - **File**: [[concepts/emergence]]
