@@ -108,17 +108,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: outer-review
 - **Generated**: 2026-06-01
 
-### P2: Adopt phenomenal-overflow calibration in dualist-perception
-- **Type**: refine-draft
-- **Status**: pending
-- **File**: obsidian/topics/dualist-perception.md
-- **Notes**: From topic-concept anchoring audit 2026-06-01. The topic article over-claims relative to its anchor concept [[phenomenal-overflow]]; failed checks: hedge_density, strong_assertions.
-  - hedge density 4.10/kw is below 60% of anchor (10.32/kw)
-  - topic uses 3 strong-assertion verbs where anchor uses none
-  - Action: bring the topic's hedge profile in line with the anchor concept's. Preserve the article's voice; this is not a request to weaken the central claim, only to inherit the calibration discipline the anchor concept already uses. See [[project/calibration-audit-triple]] Audit Three for the spec and [[evidential-status-discipline]] for the underlying rule.
-- **Source**: topic-concept-anchoring-audit
-- **Generated**: 2026-06-01
-
 ### P2: Adopt phenomenal-consciousness calibration in the-binding-problem
 - **Type**: refine-draft
 - **Status**: pending
@@ -129,7 +118,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
   - Action: bring the topic's hedge profile in line with the anchor concept's. Preserve the article's voice; this is not a request to weaken the central claim, only to inherit the calibration discipline the anchor concept already uses. See [[project/calibration-audit-triple]] Audit Three for the spec and [[evidential-status-discipline]] for the underlying rule.
 - **Source**: topic-concept-anchoring-audit
 - **Generated**: 2026-06-01
-
 
 ### P3: New concept page — The Agent-Shaped Hole
 - **Type**: expand-topic
@@ -3693,6 +3681,10 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 Tasks that failed 3+ times and require human intervention.
 
+
+### ✓ 2026-06-01: Adopt phenomenal-overflow calibration in dualist-perception
+- **Type**: refine-draft
+- **Notes**: From topic-concept anchoring audit 2026-06-01. The topic article over-claims relative to its anchor concept [[phenomenal-overflow]]; failed checks: hedge_density, strong_assertions.
 
 ### ✓ 2026-06-01: Calibration-preserving condense of topics/wheelers-participatory-universe-and-it-from-bit.md (4223 words, 141% of 3000 soft target)
 - **Type**: condense
