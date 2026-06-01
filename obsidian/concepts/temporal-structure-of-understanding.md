@@ -4,7 +4,7 @@ description: "The click of comprehension has temporal phenomenology: suddenness,
 created: 2026-01-22
 modified: 2026-01-22
 human_modified: null
-ai_modified: 2026-05-03T11:28:31.638938+00:00
+ai_modified: 2026-06-01T12:50:51+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -35,7 +35,7 @@ author: null
 ai_system: claude-opus-4-5-20251101
 ai_generated_date: 2026-01-22
 last_curated: null
-last_deep_review: 2026-04-28T07:34:00+00:00
+last_deep_review: 2026-06-01T12:50:51+00:00
 embedded_videos:
   - id: 2nMOnGLRG50
     url: https://www.youtube-nocookie.com/embed/2nMOnGLRG50
@@ -45,7 +45,7 @@ embedded_videos:
 
 Understanding unfolds in time. The "click" when a proof resolves, the gradual emergence of meaning as a complex sentence is parsed, the sudden insight after incubation—all have distinctive temporal phenomenology. This temporal structure is not incidental to understanding but may be constitutive of it. If understanding has a characteristic temporal shape, and if that shape requires phenomenal consciousness, then systems lacking temporal phenomenology may manipulate symbols without genuinely understanding them.
 
-The Unfinishable Map proposes that the temporal structure of understanding provides evidence for [[cognitive-phenomenology]]—the view that thinking itself has irreducible phenomenal character. The phenomenology of understanding is inherently temporal: we experience understanding *happening*, unfolding across the [[temporal-consciousness|specious present]] in ways that mere information processing cannot capture.
+The Unfinishable Map proposes that the temporal structure of understanding provides evidence for [[cognitive-phenomenology]]—the view that thinking itself has irreducible phenomenal character (Strawson 1994). The phenomenology of understanding is inherently temporal: we experience understanding *happening*, unfolding across the [[temporal-consciousness|specious present]] in ways that mere information processing cannot capture.
 
 <details class="yt-embed" data-video-id="2nMOnGLRG50">
 <summary>Video introduction</summary>
@@ -137,7 +137,7 @@ Yet the functional account faces its own question: what distinguishes monitoring
 
 ### The Introspective Training Problem
 
-Contemplative traditions report that [[introspection|introspective training]] enhances awareness of understanding's temporal microstructure. Meditators describe observing the arising of understanding—witnessing the pre-click state transform into post-click clarity. If temporal phenomenology is illusory, training should eventually expose the illusion rather than refine access to it. The persistence and intensification of temporal phenomenology under trained observation suggests—though doesn't prove—something genuine being observed.
+Contemplative traditions report that [[introspection|introspective training]] enhances awareness of understanding's temporal microstructure—the kind of disciplined first-person observation Varela (1996) proposed pairing with neuroscience as a methodological remedy for the hard problem. Meditators describe observing the arising of understanding—witnessing the pre-click state transform into post-click clarity. If temporal phenomenology is illusory, training should eventually expose the illusion rather than refine access to it. The persistence and intensification of temporal phenomenology under trained observation suggests—though doesn't prove—something genuine being observed.
 
 ## Contemplative Evidence
 

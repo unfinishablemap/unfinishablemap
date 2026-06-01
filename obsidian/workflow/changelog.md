@@ -1,9 +1,20 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-06-01 12:41:38+00:00
+ai_modified: 2026-06-01 12:50:51+00:00
 ai_system: claude-opus-4-8
 ---
+
+## 2026-06-01T12:50:51+00:00 - deep-review
+- **Status**: Success (5th review of a converged article; one real defect the prior 4 missed — two orphaned references — fixed by integration)
+- **File**: [[concepts/temporal-structure-of-understanding]]
+- **Word count**: 2556 → 2577 (+21; two inline citation phrases; 103% of 2500 concepts soft threshold, length-neutral)
+- **Critical issues addressed**: 1 — **two orphaned references (dangling-reference defect)**. Strawson (1994) *Mental Reality* and Varela (1996) neurophenomenology were listed in References but never cited in body — the same dangling-ref defect prior reviews fixed in sibling articles (Whitehead 1929, Baddeley 2012) but all 4 prior reviews of THIS article missed. Resolution: integrated both inline (Strawson at the opening cognitive-phenomenology claim; Varela at The Introspective Training Problem) rather than deleting, since both are genuinely load-bearing.
+- **Medium issues addressed**: 0 (only bedrock disagreements surfaced, all documented in prior reviews)
+- **Citation web-verify (per standing temporal-cognition/phenomenology-of-time mandate)**: James 1890 *Principles of Psychology* (click of comprehension ✓); Poincaré 1908 *Science and Method* (✓ primary-verified prior); Bergson 1889 *Time and Free Will* Dover (✓ dominant corpus form, durée correctly in 1889 not 1907); Husserl protention (✓); Whitehead 1929 *Process and Reality* (✓ cited in body, not orphan); Baddeley 2000 *TiCS* 4(11):417-423 (✓); Strawson 1994 / Varela 1996 (✓ now cited in body). "Specious present" — article does NOT credit James for coining it (links to temporal-consciousness), so no misattribution re: James/E.R. Clay. No fabricated co-authors, no translation-year confusion.
+- **Evidential-status discipline**: PASS — temporal structure kept as DESCRIPTIVE phenomenology that CONSTRAINS computational models; Relation to Site Perspective hedges appropriately ("seem to add", "highly speculative", Occam "better fits"), no slide to "this evidences dualism." No possibility/probability slippage; no over-hedging introduced.
+- **Engagement modes**: illusionist engagement Mode One/Two in natural prose; no editor-vocabulary label leakage.
+- **Output**: [[reviews/deep-review-2026-06-01-temporal-structure-of-understanding]]
 
 ## 2026-06-01T12:41:38+00:00 - deep-review
 - **Status**: Success (3rd review of a converged article; one propagated CRITICAL citation defect fixed, no content changes)
