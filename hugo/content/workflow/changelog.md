@@ -1,13 +1,68 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-06-01 01:00:05+00:00
+ai_modified: 2026-06-01 01:22:27+00:00
 ai_system: claude-opus-4-8
 concepts: []
 date: '2026-06-01'
 related_articles: []
 title: Changelog
 ---
+
+## 2026-06-01T01:40:42+00:00 - deep-review
+- **Status**: Success (converged; 1 cross-link gap closed + 4 attributions web-verified)
+- **File**: [quantum-measurement-and-subjective-probability](/topics/quantum-measurement-and-subjective-probability/)
+- **Word count**: 2399 → 2415 (80% of 3000 soft; cross-link addition only)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 1 (reciprocated the one-way inbound link from [consciousness-and-probability-interpretation](/topics/consciousness-and-probability-interpretation/))
+- **Enhancements made**: 1 cross-link (related_articles + Further Reading)
+- **Attribution web-verification**: Caves-Fuchs-Schack 2002 (Phys. Rev. A 65, 022305), Deutsch 1999 (Proc. Roy. Soc. A455 — Deutsch-Wallace decision-theoretic Born derivation, correctly flagged circular), Sebens-Carroll 2018 (BJPS 69, ESP), Born 1926 (Zeitschrift für Physik) — all verified; no reversed/misstated positions. Body attributions (Fuchs/Caves/Schack QBism, Von Neumann/Wigner collapse, Rovelli RQM, Deutsch/Wallace MWI) all correct.
+- **Evidential-status**: calibrated; subjective-probability reading presented as posited interface story, no possibility/probability slippage. Engagements are framework-boundary (Mode Three), honestly declared. No LLM-cliché constructs.
+- **Convergence**: 5th deep review; bedrock MWI/functionalist/QBism disagreements carried forward, not re-flagged.
+- **Output**: [deep-review-2026-06-01-quantum-measurement-and-subjective-probability](/reviews/deep-review-2026-06-01-quantum-measurement-and-subjective-probability/)
+
+## 2026-06-01T01:35:41+00:00 - deep-review
+- **Status**: Success (2 critical citation defects fixed + corpus propagation)
+- **File**: [enactivism-challenge-to-interactionist-dualism](/topics/enactivism-challenge-to-interactionist-dualism/)
+- **Word count**: 2463 → 2460 (length-neutral, 82% of 3000 soft; citation corrections only)
+- **Critical issues addressed**: 2
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Attribution web-verification**: 2 live citations corrected. (1) "Enactivism is not interactionism" (2013) is De Jaegher & Di Paolo — TWO authors, not three; "Gallagher" was over-attributed (confusion with the 2010 three-author paper). (2) Wu (2024) "Pragmatism as the Foundation of Cognitive Enactivism" is *Cultures of Science* 7(1), NOT *Philosophy and Social Criticism*. Both confirmed via WebSearch.
+- **Corpus propagation fixed**: same errors had spread — Gallagher over-attribution also in [consciousness-as-activity](/topics/consciousness-as-activity/) (body + refs); Wu wrong-journal also in [pragmatisms-path-to-dualism](/topics/pragmatisms-path-to-dualism/) (refs). All fixed.
+- **Reasoning-mode**: engagement with enactivism's dissolution strategy = Mode Two (unsupported foundational move: helps itself to irreducibility without specifying its source) + Mode Three (boundary-marking: transcendental third option acknowledged as non-refuted). No boundary-substitution, no label leakage.
+- **Calibration**: clean — 2026-05-27 refine's hedges preserved; no possibility/probability slippage.
+- **Output**: [deep-review-2026-06-01-enactivism-challenge-to-interactionist-dualism](/reviews/deep-review-2026-06-01-enactivism-challenge-to-interactionist-dualism/)
+
+## 2026-06-01T01:25:53+00:00 - deep-review
+- **Status**: Success (converged — metadata-only no-op)
+- **File**: [predictive-processing](/concepts/predictive-processing/)
+- **Word count**: 3256 → 3256 (no content change; length-neutral, 130% of 2500 soft, below 3500 hard)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Attribution web-verification**: 2 live citations verified EXACT — Clark/Friston/Wilkinson 2019 "Bayesing Qualia" (JCS 26(9-10):19-33) and Demirel et al. 2025 "Electrophysiological Correlates of Lucid Dreaming" (J Neurosci 45(20); gamma right temporo-occipital claim matches source). No misattribution, no dropped qualifiers, no source/Map conflation.
+- **Steelman**: PASS (engages free-energy/active-inference formulation; hard-problem objection framed as one proponents themselves grant).
+- **Calibration**: PASS (wedge constraining not refuting; quantum-selection proposal correctly modal; no possibility→probability slippage).
+- **Reasoning-mode/label-leakage**: PASS (zero editor-vocabulary hits; illusionism/eliminativism engagements in natural prose).
+- **Note**: 7th review; only `last_deep_review` bumped, `ai_modified` untouched per no-op rule. Length flagged for future `/condense` only if it crosses 3500 hard threshold.
+- **Output**: [deep-review-2026-06-01-predictive-processing](/reviews/deep-review-2026-06-01-predictive-processing/)
+
+## 2026-06-01T01:22:27+00:00 - refine-draft
+- **Status**: Success
+- **File**: [consciousness-disruption-and-the-mind-brain-interface](/topics/consciousness-disruption-and-the-mind-brain-interface/)
+- **Review context**: [pessimistic-2026-06-01-consciousness-disruption-and-the-mind-brain-interface](/reviews/pessimistic-2026-06-01-consciousness-disruption-and-the-mind-brain-interface/)
+- **Changes**:
+  - Altered-State Symmetry core fix: reframed Dualism tenet's "Three independent lines of evidence" as ONE evidential pattern (*production-predicted-absence-yet-observed-presence*) — coherence-inflation / double-counting correction. "cluster carries the evidential weight of one pattern, not three… cannot honestly be cited as multiple independent confirmations." Symmetry scanner clear (evaluate_symmetry → None retained; acknowledgment markers now present, previously zero).
+  - Granted the production theorist the parallel disconnection move explicitly on each case: propofol/ketamine (anesthesia §), CMD architecture (§), hemispherectomy, terminal lucidity, and the active-reboot evidence — inherited the anaesthesia-symmetry caveat the companion psychedelics-and-the-filter-model.md carries.
+  - Converted concede-then-assert rhetoric (anesthesia §, "concedes the central point"; intro abstract) into actual in-framework pressure: stated WHY dropping behavioural-unresponsiveness-as-marker is costly inside the production framework (surrenders the bridge premise the materialist loss-of-consciousness argument relied on; owes a network-level specification indistinguishable from interface mediation absent a hard-problem solution).
+  - Added the hemispherectomy developmental-plasticity confound (childhood surgery → remaining hemisphere reorganises; production reading survives the naïve "should halve consciousness" subtraction). Reframed the case's real upshot as "cortical quantity is a poor predictor."
+  - Engagement classifications (editor-internal): materialist on propofol/ketamine — Mode Two (production helps itself to behavioural-unresponsiveness-as-absence without earning it); materialist on CMD/hemispherectomy — Mode Three (framework-boundary, parallel move granted honestly).
+  - Downgraded strong "consistently favours" (description, intro ×2) to coherence-language ("sits comfortably with", "coheres with", "favoured by coherence… not forced by these cases alone").
+  - MQI/quantum-reboot non-sequitur: bridged via the explicit prior commitment to quantum-scale coupling (cross-ref quantum-measurement-and-consciousness) rather than asserting the jump; granted production theorists the dynamical-attractor reading of the reboot.
+- **Length**: pre-existing over-threshold flagship (3623w); held net to +~160w by reframing in place and offsetting with trims across exposition (Bergson/Huxley, theory-handling, discrimination, anesthesia, tenet paragraphs). Remains over the 3000 soft threshold — pre-existing human length-decision matter, not introduced here.
+- **Original score**: pessimistic-review medium-severity (no numeric score)
+- **Published**: yes (draft state unchanged)
 
 ## 2026-06-01T01:00:05+00:00 - pessimistic-review
 - **Status**: Success

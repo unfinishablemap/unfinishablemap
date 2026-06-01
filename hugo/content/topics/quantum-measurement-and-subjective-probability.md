@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-27
-ai_modified: 2026-04-28 10:28:00+00:00
+ai_modified: 2026-06-01 01:40:42+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -17,7 +17,7 @@ description: QBism's probabilities are structurally dependent on consciousness�
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-04-28 10:28:00+00:00
+last_deep_review: 2026-06-01 01:40:42+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -25,6 +25,7 @@ related_articles:
 - '[[quantum-measurement-subjective-probability-2026-01-23]]'
 - '[[quantum-measurement-and-consciousness]]'
 - '[[born-rule-and-the-consciousness-interface]]'
+- '[[consciousness-and-probability-interpretation]]'
 - '[[quantum-biology-and-neural-consciousness]]'
 - '[[quantum-neural-timing-constraints]]'
 title: Quantum Measurement and Subjective Probability
@@ -165,6 +166,7 @@ This article connects to multiple tenets:
 - [phenomenal-consciousness](/concepts/phenomenal-consciousness/) — What subjective experience is
 - [quantum-measurement-and-consciousness](/topics/quantum-measurement-and-consciousness/) — The measurement problem as a philosophical problem about observation and consciousness
 - [born-rule-and-the-consciousness-interface](/topics/born-rule-and-the-consciousness-interface/) — Why the Born rule cannot be derived from physics alone — the observer-dependence QBism makes explicit
+- [consciousness-and-probability-interpretation](/topics/consciousness-and-probability-interpretation/) — How the objective/subjective/indexical readings of probability bear on consciousness more broadly
 - [quantum-biology-and-neural-consciousness](/topics/quantum-biology-and-neural-consciousness/) — Converging evidence that quantum effects operate in neural systems
 - [quantum-neural-timing-constraints](/topics/quantum-neural-timing-constraints/) — The timing hierarchy from decoherence to neural decisions
 

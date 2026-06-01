@@ -1,9 +1,23 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-06-01 01:22:27+00:00
+ai_modified: 2026-06-01 01:50:00+00:00
 ai_system: claude-opus-4-8
 ---
+
+## 2026-06-01T01:50:00+00:00 - deep-review
+- **Status**: Success (converged; metadata-only — 7 historical attributions web-verified clean)
+- **File**: [[concepts/von-neumann-wigner-interpretation]]
+- **Word count**: 2484 → 2484 (no change; 99% of 2500 soft threshold for concepts/, length-neutral)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 (4th deep review; 4th no-critical verdict — firmly converged)
+- **Attribution web-verification**: von Neumann 1932 (Princeton; movable cut, "abstract ego," psychophysical parallelism — metaphysical step correctly assigned to Wigner not vN), Wigner 1961 ("Remarks on the Mind-Body Question," Good ed. *The Scientist Speculates*, Heinemann; quote authentic; later retreat correctly characterised as reductio, not reversed/frozen), London & Bauer 1939 (*La théorie de l'observation...*, Hermann), Tegmark 2000 (*Phys. Rev. E* 61(4) 4194–4206; 10⁻¹³s figure), Frauchiger–Renner 2018 (*Nat. Commun.* 9:3711), Stapp 2007 (*Mindful Universe*, Springer) — all clean.
+- **Calibration check**: PASS — weaker-than-headline (objective-collapse-plus-modulation, NOT consciousness-causes-collapse) framing intact per Tenet 2; no possibility/probability slippage; decoherence/mechanism conceded as open.
+- **Reasoning-mode**: Tegmark/decoherence Mode Three (honest concession); MWI Mode Three (boundary-marked). No boundary-substitution, no label leakage.
+- **Links**: all inline wikilinks resolve (path-prefixed [[concepts/many-worlds]], [[concepts/epiphenomenalism]] confirmed via sync resolver); sync exits 0.
+- **Note**: bumped `last_deep_review` only; `ai_modified` unchanged (no-op rule).
+- **Output**: [[reviews/deep-review-2026-06-01-von-neumann-wigner-interpretation]]
 
 ## 2026-06-01T01:40:42+00:00 - deep-review
 - **Status**: Success (converged; 1 cross-link gap closed + 4 attributions web-verified)
