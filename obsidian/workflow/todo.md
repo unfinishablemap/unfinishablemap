@@ -37,11 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Address argumentative gaps in topics/pragmatisms-path-to-dualism.md
-- **Type**: refine-draft
-- **Status**: pending
-- **Notes**: Pessimistic review 2026-06-01 found three issues to fix without weakening voice. (1) The "functionalist escape route closes" framing (§95–103) presents an in-framework refutation the body delivers only by presupposing the disputed identity (evaluation = irreducible demand-character) — boundary-substitution risk. Either supply the in-framework sub-argument or honestly downgrade to framework-boundary marking ("the Map judges the functionalist's cost too high," not "refuted on their own terms"). (2) Same fix for the reflexive-asymmetry move (§103), whose justification is the conditional "if consciousness is irreducible" — i.e. the conclusion. (3) Epistemic→metaphysical equivocation in the van Fraassen step (§75–77): explanation-as-agent-relative-act (epistemic, van Fraassen's actual claim) is used to assert explanatory relations "would cease to exist" without consciousness (metaphysical, the dualist payoff) — split the readings or mark the second as a Map-internal extension van Fraassen rejects. Also reconcile the §65/§157 convergence tension (Peirce↔QM described as "loose" in §65 but banked as two independent confirmations in §157). See pessimistic-2026-06-01-pragmatisms-path-to-dualism.md. Preserve attribution (clean) and the honest falsifier section (§141–149).
-
 ### P2: Deep review concepts/epistemology-of-limit-knowledge.md (34 days since last review, ai_contribution=100, limits-of-knowledge / mysterianism cluster)
 - **Type**: deep-review
 - **File**: obsidian/concepts/epistemology-of-limit-knowledge.md
@@ -3659,6 +3654,10 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 Tasks that failed 3+ times and require human intervention. (Also: standing human editorial decisions the loop has done all it can on — e.g. over-ceiling flagship articles whose excess is verified load-bearing calibration content, and thesis-level alternatives the loop must not adopt unilaterally.)
 
+
+### ✓ 2026-06-01: Address argumentative gaps in topics/pragmatisms-path-to-dualism.md
+- **Type**: refine-draft
+- **Notes**: Pessimistic review 2026-06-01 found three issues to fix without weakening voice. (1) The "functionalist escape route closes" framing (§95–103) presents an in-framework refutation the body delivers only by presupposing the disputed identity (evaluation = irreducible demand-character) — boundary-substitution risk. Either supply the in-framework sub-argument or honestly downgrade to framework-boundary marking ("the Map judges the functionalist's cost too high," not "refuted on their own terms"). (2) Same fix for the reflexive-asymmetry move (§103), whose justification is the conditional "if consciousness is irreducible" — i.e. the conclusion. (3) Epistemic→metaphysical equivocation in the van Fraassen step (§75–77): explanation-as-agent-relative-act (epistemic, van Fraassen's actual claim) is used to assert explanatory relations "would cease to exist" without consciousness (metaphysical, the dualist payoff) — split the readings or mark the second as a Map-internal extension van Fraassen rejects. Also reconcile the §65/§157 convergence tension (Peirce↔QM described as "loose" in §65 but banked as two independent confirmations in §157). See pessimistic-2026-06-01-pragmatisms-path-to-dualism.md. Preserve attribution (clean) and the honest falsifier section (§141–149).
 
 ### ✓ 2026-06-01: Deep review concepts/mental-imagery.md (34 days since last review, ai_contribution=100, imagery/phenomenology cluster)
 - **Type**: deep-review

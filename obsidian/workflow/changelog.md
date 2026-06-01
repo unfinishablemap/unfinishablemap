@@ -1,9 +1,22 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-06-01 10:51:37+00:00
+ai_modified: 2026-06-01 13:15:00+00:00
 ai_system: claude-opus-4-8
 ---
+
+## 2026-06-01T13:15:00+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[topics/pragmatisms-path-to-dualism]]
+- **Original score**: n/a (curate.py review path stale; worked from pessimistic-2026-06-01 review)
+- **Changes**: Addressed the 4 boundary-substitution / equivocation / double-counting issues from [[reviews/pessimistic-2026-06-01-pragmatisms-path-to-dualism]] without weakening voice or the central pragmatism→dualism thesis.
+  - (#1) Rewrote the "functionalist escape route" section (heading "The Functionalist Escape Route Closes" → "Where the Functionalist Must Pay"). Downgraded the over-claimed in-framework refutation to honest framework-boundary marking in natural prose: states explicitly that the argument does NOT refute functionalism on its own terms, that the leverage rests on the Map's prior commitment to phenomenal irreducibility, and that the disagreement "sits closer to bedrock than the dialectic first suggests." Reconciled the matching over-claims in the lede (§47) and the Dualism relation paragraph ("forecloses both" / "Neither alone forecloses; together they do" → cost-raising + honest-location language).
+  - (#2) Reframed the reflexive-asymmetry move (§103): now grants the functionalist the mirror conditional, states neither conditional refutes the other (each licensed only by its own antecedent = the disputed conclusion), and marks the asymmetry as holding only *given* the Map's framework rather than being dialectically decisive.
+  - (#3) Split the van Fraassen epistemic vs metaphysical readings (§75–79): the speech-act/agent-relativity reading is van Fraassen's; the "explanatory relations would cease to exist" / "not in the territory but in the map-maker" reading is flagged as the Map's own separately-argued extension that van Fraassen rejects, with the weight handed to the reflexive-gap analysis rather than the bare appeal.
+  - (#4) Reconciled §65/§157 convergence tension: §157 reframed from "two independent lines of argument... strengthens both" to anticipation-not-confirmation — one pattern seen from two angles, defeater-removal ≠ positive evidence, and granted the reductionist the parallel reading (quantum indeterminism as mindless physical noise). Cross-linked [[evidential-status-discipline]].
+- **Engagement classifications (editor-internal)**: functionalist reply (§95–103) — Mode Three (framework-boundary): the in-framework refutation was not available; the leverage genuinely comes from the Map's prior phenomenal-irreducibility commitment, now honestly named. Reflexive-asymmetry (§103) — Mode Three: mirror conditional granted, asymmetry marked as framework-relative.
+- **Preserved**: clean attribution (no citation churn), the honest §141–149 falsifier section, voice, and the central thesis. No editor-vocabulary leaked into body (verified). No HTML-comment log block added.
+- **Published**: yes (remains draft: false)
 
 ## 2026-06-01T13:10:00+00:00 - pessimistic-review
 - **Status**: Success
