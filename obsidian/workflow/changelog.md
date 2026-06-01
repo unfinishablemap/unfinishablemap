@@ -5,6 +5,19 @@ ai_modified: 2026-06-01 23:55:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-01T00:00:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [[concepts/intentionality]]
+- **Word count**: 3475 → 3475 (net 0; metadata-only, 139% of 2500 soft, under 3500 hard)
+- **Scope**: 9th review. Selection premise corrected: the "post-05-01 content" to audit does not exist — `git diff` shows the only post-05-01 change was a mechanical tenet-anchor fix (`^occam`→`^occams-limits`, commit eb234a5bc). The flagged "7 post-2020 cites" are frontmatter `2026` timestamps; latest real cite is Kriegel 2013, so the fabrication zone had no targets.
+- **Citation web-verify (publisher of record)**: Brentano 1874/1995, Horgan & Tienson 2002 (Chalmers ed., OUP), Loar 2003 (Hahn & Ramberg eds., MIT), Pitt 2004 (PPR 69[1]:1-36), Searle 1980 (BBS 3[3]:417-457) — all CLEAN. Stance checks clean (Dretske/Millikan cited as failed naturalizers; Dennett as eliminativist not original-intentionality realist). No orphaned refs.
+- **Engagement modes**: classical eliminativism — Mode Three (honest boundary-marking, format-question conceded); illusionism — Mode Three (self-refutation flagged as contested, not asserted). No boundary-substitution, no label leakage.
+- **Evidential-status**: calibrated (decoherence section explicitly fenced as speculative; directedness *pressures* not *establishes*). Doctrinal: bi-aspectual co-fundamental, no emergentist self-presentation. No "not X. It is Y." cliché.
+- **Critical issues addressed**: 0 (none found)
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 (length-neutral converged hub)
+- **Output**: [[reviews/deep-review-2026-06-01-intentionality]]
+
 ## 2026-06-01T23:55:00+00:00 - deep-review
 - **Status**: Success
 - **File**: [[topics/the-subject-object-distinction-as-philosophical-discovery]]

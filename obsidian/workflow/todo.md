@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Deep review concepts/intentionality.md (31d since review, CHANGED-SINCE on 2026-05-27, ai_contribution>50, mind-world-directedness cluster)
-- **Type**: deep-review
-- **File**: obsidian/concepts/intentionality.md
-- **Notes**: FLOOR-RESTORING by /replenish-queue 2026-06-01 (churn-free staleness pick under the CORRECTED filter). `last_deep_review: 2026-05-01` (~31d, past floor, NO open deep-review task targeting this file — the 11 queue mentions are incidental cross-references + unrelated P3 "phenomenal intentionality" expand ideas, NOT tasks reviewing this concept) AND `ai_modified: 2026-05-27` (NOT today). Modified ~26 days AFTER its 05-01 review — LARGE gap = POSITIVE signal; AUDIT THE POST-05-01 CONTENT specifically. 19 year-cites incl. 7 post-2020 — this is a citation-DENSE foundational hub, so metadata risk is elevated: WEB-VERIFY all attributions (Brentano's intentionality thesis, phenomenal-intentionality program — Horgan/Tienson, Loar — and any recent cites) and CHECK THE STANCE each is cited FOR ([[ai-citation-metadata-unreliable]]). Honour [[evidential-status-discipline]] — intentionality's first-person directedness *pressures* purely naturalistic-tracking accounts, it does NOT by itself *establish* dualism; keep the dialectical role calibrated. Verify cross-links resolve live and reciprocate (esp. into the phenomenal-intentionality / aboutness / representation clusters). Writing-style + length discipline (no "This is not X. It is Y." cliché). Metadata-only verdict acceptable if post-05-01 additions are sound; do NOT over-hedge converged prose. SELECTION-COLLISION CAVEAT: if a cycle-slot deep-review bumps last_deep_review to 2026-06-01 first, mark RESOLVED-OBSOLETE. Tenet alignment: Tenet 1 (Dualism — intentionality/aboutness as a standing pressure-point against reductive naturalism).
-- **Source**: staleness
-- **Generated**: 2026-06-01
-
 ### P2: Deep review concepts/explanatory-gap.md (31d since review, CHANGED-SINCE on 2026-05-25, ai_contribution>50, hard-problem cluster)
 - **Type**: deep-review
 - **File**: obsidian/concepts/explanatory-gap.md
@@ -3734,6 +3727,10 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 Tasks that failed 3+ times and require human intervention. (Also: standing human editorial decisions the loop has done all it can on — e.g. over-ceiling flagship articles whose excess is verified load-bearing calibration content, and thesis-level alternatives the loop must not adopt unilaterally.)
 
+
+### ✓ 2026-06-01: Deep review concepts/intentionality.md (31d since review, CHANGED-SINCE on 2026-05-27, ai_contribution>50, mind-world-directedness cluster)
+- **Type**: deep-review
+- **Notes**: FLOOR-RESTORING by /replenish-queue 2026-06-01 (churn-free staleness pick under the CORRECTED filter). `last_deep_review: 2026-05-01` (~31d, past floor, NO open deep-review task targeting this file — the 11 queue mentions are incidental cross-references + unrelated P3 "phenomenal intentionality" expand ideas, NOT tasks reviewing this concept) AND `ai_modified: 2026-05-27` (NOT today). Modified ~26 days AFTER its 05-01 review — LARGE gap = POSITIVE signal; AUDIT THE POST-05-01 CONTENT specifically. 19 year-cites incl. 7 post-2020 — this is a citation-DENSE foundational hub, so metadata risk is elevated: WEB-VERIFY all attributions (Brentano's intentionality thesis, phenomenal-intentionality program — Horgan/Tienson, Loar — and any recent cites) and CHECK THE STANCE each is cited FOR ([[ai-citation-metadata-unreliable]]). Honour [[evidential-status-discipline]] — intentionality's first-person directedness *pressures* purely naturalistic-tracking accounts, it does NOT by itself *establish* dualism; keep the dialectical role calibrated. Verify cross-links resolve live and reciprocate (esp. into the phenomenal-intentionality / aboutness / representation clusters). Writing-style + length discipline (no "This is not X. It is Y." cliché). Metadata-only verdict acceptable if post-05-01 additions are sound; do NOT over-hedge converged prose. SELECTION-COLLISION CAVEAT: if a cycle-slot deep-review bumps last_deep_review to 2026-06-01 first, mark RESOLVED-OBSOLETE. Tenet alignment: Tenet 1 (Dualism — intentionality/aboutness as a standing pressure-point against reductive naturalism).
 
 ### ✓ 2026-06-01: Deep review topics/the-subject-object-distinction-as-philosophical-discovery.md (32d since review, CHANGED-SINCE on 2026-05-28, ai_contribution>50, phenomenology-of-distinction cluster)
 - **Type**: deep-review
