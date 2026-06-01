@@ -5,6 +5,16 @@ ai_modified: 2026-06-01 05:30:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-01T05:56:24+00:00 - deep-review
+- **Status**: Success
+- **File**: [[topics/responsibility-gradient-from-attentional-capacity]]
+- **Word count**: 2565 → 2565 (no change)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Notes**: Fifth deep review of a fully converged article. Reviews 3 and 4 found zero issues; only change since (commit d4491214a) was a mechanical wikilink retarget — no reviewable content. All attribution, calibration (no evidential-status slippage; claims framed as tenet-conditional), and reasoning-mode checks pass. Compatibilism engagement: Mode Two/Mixed (credits Fischer & Ravizza grading, then supplies Map's unification); hard determinism: Mode Three (boundary-marked). No label leakage. All 13 wikilinks verified resolving. Length 86% of soft threshold. No content edits warranted; timestamps updated, marked stable. Candidate for longer re-review interval.
+- **Output**: [[reviews/deep-review-2026-06-01-responsibility-gradient-from-attentional-capacity]]
+
 ## 2026-06-01T05:53:34+00:00 - refine-draft
 - **Status**: Success
 - **File**: [[concepts/entanglement-binding-hypothesis]]
