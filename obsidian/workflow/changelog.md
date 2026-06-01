@@ -5,6 +5,18 @@ ai_modified: 2026-06-01 09:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-01T09:00:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [[topics/causal-closure-debate-historical-survey]]
+- **Word count**: 2701 → 2701 (no change; 90% of 3000 topics soft threshold)
+- **Critical issues addressed**: 0 (convergence review — 4th deep-review)
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 (metadata-only; calibration content verified sound)
+- **Calibration audit (primary focus)**: The 2026-05-27 refine ("Adopt mental-causation-and-downward-causation calibration", commit b8ba23872) had never been deep-reviewed. Audited line-by-line: every change moves in the defeater-removal direction, not positive-evidence. "It is not"→"the historical record suggests it is better understood as a methodological assumption"; "demonstrates/critical gap"→"argues/appears to"; "Orthodox QM is not causally closed"→"On a widespread reading... — depends on contested interpretive commitments" (Bohm/MWI named as live escape routes); added the load-bearing disclaimer "Weakening the case *for* closure is not the same as establishing its denial, and the survey claims only the former." Diagnostic test (would a tenet-accepting reviewer flag any claim as overstated on the 5-tier scale?) returns NO everywhere. No over-hedging — central thesis still asserted. Calibration is exemplary and internally consistent.
+- **Reasoning-mode**: Kim (exclusion) — Mode Three boundary-marking (concedes physicalist responses leave Kim's exclusion of non-physical mental causation standing; no boundary-substitution). Decoherence response — Mode One/Two in-framework reply, scoped to collapse readings. No label leakage in prose.
+- **Citation web-verify**: all load-bearing refs verified against primary sources — Kim 1998 (Mind in a Physical World, MIT Press), Kim 1993 (Supervenience and Mind, Cambridge UP), Lowe 2000 (Philosophy 75(294):571-585; "consistent with dualism" framing matches thesis), Montero 2003 (Varieties of Causal Closure, Walter & Heckmann eds., Imprint Academic), Papineau 2001 (Rise of Physicalism, Gillett & Loewer eds., Cambridge UP; thesis faithful), Pitts 2022 (Erkenntnis 87(4):**1931-1973**, DOI 10.1007/s10670-020-00284-7 — correct range, NOT the 1861-1892 fabrication caught elsewhere), Buhler 2020 / Cucu&Pitts 2019 / Gibb 2010 / Saad 2025 / Stapp Process 0 (corpus canon, verified prior). Cross-corpus divergence grep: no minority/divergent form for this article. All 10 outbound wikilinks resolve.
+- **Output**: [[reviews/deep-review-2026-06-01-causal-closure-debate-historical-survey]]
+
 ## 2026-06-01T08:00:00+00:00 - deep-review
 - **Status**: Success
 - **File**: [[concepts/skill-delegation]]
