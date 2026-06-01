@@ -37,10 +37,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: HUMAN length-decision — post-decoherence-selection-programme over apex ceiling
+### P3: Cross-link the metaphysics-of-the-interface trio (wheeler ↔ laws-and-dispositions ↔ russellian)
 - **Type**: refine-draft
 - **Status**: pending
-- **Notes**: The 2026-06-01 bias-without-deviation confrontation refine pushed the apex body to ~4066 words, ~66 over the 4000 apex hard ceiling. The new *The Bias-Without-Deviation Dilemma* subsection is load-bearing calibration (hybrid horn a+c) and must NOT be cut to reclaim length; two non-calibration redundancy trims already recovered ~60 words. Human editorial decision needed: either (1) raise the apex ceiling for this article, (2) approve a calibration-preserving condense of the older mechanism sections (amplification three-stage, contextuality free-will tail) to reclaim ~70 words, or (3) accept the overage. Do NOT auto-condense the new dilemma section or the attribution/citation content. Also pending in the same article: the flagged horn-(b) alternative (relocate mental influence to Stapp's Process-1 register) is a standing human editorial decision — adopting it would weaken Tenet 3 outcome-selection to context-setting.
+- **Files**: topics/wheelers-participatory-universe-and-it-from-bit.md, topics/consciousness-and-the-metaphysics-of-laws-and-dispositions.md, topics/russellian-monism-versus-bi-aspectual-dualism.md
+- **Notes**: Suggested by optimistic review (optimistic-2026-06-01b.md). The three articles form a coherent cluster (honest-labelling-as-argument; shared decoherence hostage; governing-law-fixes-which-outcome = corridor/Born mechanism) but Wheeler is the under-connected node: 0 mutual links between wheeler and the other two (confirmed via grep). Add: (1) wheeler ↔ laws-and-dispositions reciprocal links — the governing-law "which quantum outcome obtains" argument (laws §Governing Laws) is the same mechanism as wheeler's corridor/Born treatment, viewed from metaphysics-of-laws vs measurement-problem sides; (2) russellian → wheeler link reinforcing the shared No-Many-Worlds-from-ontology case (Williams 2021 / Wheeler's own MWI rejection). laws↔russellian already cross-link; no new concept pages needed. Light touch — add Further Reading entries + one in-body sentence each, do not restructure.
 
 ### P2: Reconcile conflicting Escolà-Gascón (2025) citation metadata across entanglement-binding + quantum-consciousness
 - **Type**: refine-draft
@@ -3653,8 +3654,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 ## Completed Tasks
 ## Blocked Tasks (Needs Human)
 
-Tasks that failed 3+ times and require human intervention.
+Tasks that failed 3+ times and require human intervention. (Also: standing human editorial decisions the loop has done all it can on — e.g. over-ceiling flagship articles whose excess is verified load-bearing calibration content, and thesis-level alternatives the loop must not adopt unilaterally.)
 
+
+### NEEDS-HUMAN 2026-06-01: HUMAN length-decision + horn-(b) thesis alternative — post-decoherence-selection-programme over apex ceiling
+- **Type**: refine-draft (loop-blocked; relocated from Active to stop churn)
+- **Notes**: The 2026-06-01 bias-without-deviation confrontation refine pushed the apex body to ~4066 words, ~66 over the 4000 apex hard ceiling. The new *The Bias-Without-Deviation Dilemma* subsection is load-bearing calibration (hybrid horn a+c) and must NOT be cut to reclaim length; two non-calibration redundancy trims already recovered ~60 words. Human editorial decision needed: either (1) raise the apex ceiling for this article, (2) approve a calibration-preserving condense of the older mechanism sections (amplification three-stage, contextuality free-will tail) to reclaim ~70 words, or (3) accept the overage. Do NOT auto-condense the new dilemma section or the attribution/citation content. SECOND standing decision in the same article: the flagged horn-(b) alternative (relocate mental influence to Stapp's Process-1 register) — adopting it would weaken Tenet 3 outcome-selection to context-setting, so the loop deliberately did NOT execute it; needs a human yes/no.
 
 ### ✓ 2026-06-01: HUMAN length-decision — consciousness-and-the-metaphysics-of-laws-and-dispositions over topics ceiling
 - **Type**: refine-draft
