@@ -4,8 +4,8 @@ description: "What it is like to be in a mental state—the subjective quality o
 created: 2026-01-22
 modified: 2026-01-25
 human_modified: null
-ai_modified: 2026-05-01T01:25:00+00:00
-last_deep_review: 2026-04-29T04:49:00+00:00
+ai_modified: 2026-06-01T13:17:05+00:00
+last_deep_review: 2026-06-01T13:17:05+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"

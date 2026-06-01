@@ -5,6 +5,19 @@ ai_modified: 2026-06-01 12:50:51+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-01T13:17:05+00:00 - deep-review
+- **Status**: Success (5th review; converged calibration-anchor — metadata-only verdict, the mandate-predicted correct outcome)
+- **File**: [[concepts/phenomenal-consciousness]]
+- **Word count**: 2219 → 2219 (no body change; length-neutral, 89% of 2500 concepts soft threshold)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Citation web-verify (standing mandate, discharged)**: Block 1995 *BBS* 18 ✓ (References entry carries NO page range → the 227-247-vs-227-287 defect does NOT apply here; article is clean by omission and is NOT in the 227-287 minority cluster); Chalmers 1995 *JCS* 2, 200-219 ✓; Nagel 1974 *Phil Review* 83(4):435-450 ✓; Chalmers 2006 PCS chapter, Jackson 1982, Loar 1990, McGinn 1989, Frankish 2016, Lewis 1947 — all standard, correctly attributed. No fabricated co-authors / orphaned refs / same-author-different-work confusion.
+- **Calibration check (evidential-status discipline)**: PASSED — phenomenal consciousness kept in the *explanandum* register ("the hard problem's core," "thing-to-be-explained"); the "Dualism follows" passage is hedged ("suggest") and rests on argument-convergence + a conditional entailment, NOT on treating phenomenal-reality as free-standing evidence. No possibility/probability slippage; a tenet-accepting reviewer would flag nothing as overstated. Hedge profile (~6.76/kw, the corpus calibration anchor) deliberately left untouched — neither over-hedged nor condensed.
+- **Reasoning-mode (named opponents)**: illusionism (Dennett/Frankish) = Mode Two + honest comparative-plausibility; PCS physicalists via Chalmers's master argument = correctly-attributed in-framework exposition. No boundary-substitution, no editor-vocabulary label leakage.
+- **Cross-links**: access-consciousness, hard-problem-of-consciousness, explanatory-gap, qualia all resolve live; access-consciousness + qualia reciprocate.
+- **Output**: [[reviews/deep-review-2026-06-01-phenomenal-consciousness]]
+
 ## 2026-06-01T13:30:00+00:00 - deep-review
 - **Status**: Success (6th review; converged body, primary-source citation web-verify pass discharging the standing mandate)
 - **File**: [[concepts/types-of-consciousness]]
