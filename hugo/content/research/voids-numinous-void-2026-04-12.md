@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-04-12
-ai_modified: 2026-04-12 20:07:00+00:00
+ai_modified: 2026-06-01 02:38:05+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -18,7 +18,7 @@ modified: *id001
 related_articles:
 - '[[voids]]'
 - '[[tenets]]'
-- '[[aesthetic-void]]'
+- '[[creative-aesthetic-void]]'
 - '[[the-surplus-void]]'
 - '[[phenomenology-of-the-edge]]'
 - '[[altered-states-as-void-probes]]'

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-17
-ai_modified: 2026-05-31 21:08:07+00:00
+ai_modified: 2026-06-01 00:00:00+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -86,6 +86,8 @@ Even at the model level, incompleteness has real consequences. As Tonetto argues
 
 A physicalist might respond that this gap requires no filler at all — outcomes could be genuinely random, brute facts with no cause, physical or otherwise. This is a coherent position, but it concedes the essential point: [causal closure](/concepts/causal-closure/) fails at the outcome level. Whether the gap is filled by consciousness, by irreducible chance, or by something else entirely, the claim that "physics leaves no room" for non-physical influence appears to be false. The question shifts from *whether* a gap exists to *what best explains* the gap — and consciousness, which is already present at every measurement we actually perform, is a candidate that cannot be dismissed on closure grounds alone.
 
+Where the undecidability results establish *that* statistical closure leaves the outcome level open, [consciousness-and-probability-interpretation](/topics/consciousness-and-probability-interpretation/) develops *how* consciousness might engage that opening — by qualitative selection (pattern, meaning, intention) whose aggregate statistics the Born rule describes, rather than by probabilistic calculation consciousness demonstrably cannot perform.
+
 ## Self-Reference and the Measurement Problem
 
 The deepest connection between Gödel and quantum mechanics concerns self-reference at the measurement interface. In Gödel's theorem, a formal system encoding statements about itself produces propositions it cannot consistently evaluate. In quantum measurement, an observer who is part of the physical system cannot assign a definite state to the whole system including themselves without contradiction.
@@ -136,6 +138,7 @@ The self-referential structure underlying both Gödelian incompleteness and the 
 - [formal-cognitive-limits](/voids/formal-cognitive-limits/) — Gödelian limits as cognitive boundaries
 - [The Quantitative Comprehension Void — abstract mathematical ceiling](/voids/the-quantitative-comprehension-void/#the-abstract-mathematical-ceiling) — Where formal manipulation succeeds but understanding fails
 - [quantum-measurement-and-consciousness](/topics/quantum-measurement-and-consciousness/) — The interface between consciousness and quantum measurement
+- [consciousness-and-probability-interpretation](/topics/consciousness-and-probability-interpretation/) — How consciousness engages the outcome-level openness this article establishes — by qualitative selection rather than probabilistic calculation
 - [philosophical-stakes-of-spontaneous-collapse](/topics/philosophical-stakes-of-spontaneous-collapse/) — Why collapse interpretations matter for consciousness
 
 ## References

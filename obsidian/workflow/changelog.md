@@ -5,6 +5,14 @@ ai_modified: 2026-06-01 01:50:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-01T02:38:05+00:00 - refine-draft
+- **Status**: Success
+- **Task**: Corpus-wide batch-repoint of archival link rot (surfaced during acquaintance-void deep-review)
+- **Changes**: Repointed two dead archive-only slugs (coalesced into `voids/creative-aesthetic-void.md`) to the live target across 25 live obsidian files. `[[imagination-and-creativity-void]]`→`[[creative-aesthetic-void]]` in 15 files; `[[aesthetic-void]]`→`[[creative-aesthetic-void]]` in 12 files (`aesthetics-and-consciousness.md` and `void-as-ground-of-meaning.md` had both). All three link forms handled (frontmatter `related_articles`, Further-Reading `[[slug|Alias]]`, inline prose); display aliases preserved so prose reads identically — no content rewrites.
+- **Exclusions respected**: `todo.md` task-description line left untouched; `[[apophatic-approaches]]` (123 links / 74 files) NOT repointed — live `concepts/apophatic-approaches.md` makes those basename-resolved links correct (basename-collision trap).
+- **Verification**: re-grep of both dead slugs (excluding archive/reviews/changelog/deep-review/todo) returns ZERO live files; `voids/creative-aesthetic-void.md` confirmed live; `uv run python scripts/sync.py` exits 0. `ai_modified` bumped on all 25 files.
+- **Published**: yes
+
 ## 2026-06-01T02:31:15+00:00 - deep-review
 - **Status**: Success
 - **File**: [[voids/acquaintance-void]]

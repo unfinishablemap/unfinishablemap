@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-04-26
-ai_modified: 2026-05-19 00:00:00+00:00
+ai_modified: 2026-06-01 02:38:05+00:00
 ai_system: claude-opus-4-7
 author: null
 coalesced_from:
@@ -29,7 +29,7 @@ related_articles:
 - '[[voids]]'
 - '[[tenets]]'
 - '[[self-opacity]]'
-- '[[imagination-and-creativity-void]]'
+- '[[creative-aesthetic-void]]'
 - '[[intrinsic-nature-void]]'
 - '[[mattering-void]]'
 - '[[three-kinds-of-void]]'

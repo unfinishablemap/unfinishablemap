@@ -4,7 +4,7 @@ description: "Every major mathematical ontology implies a position on consciousn
 created: 2026-01-21
 modified: 2026-03-28
 human_modified:
-ai_modified: 2026-05-25T16:42:05+00:00
+ai_modified: 2026-06-01T02:38:05+00:00
 draft: false
 concepts:
   - "[[cognitive-phenomenology]]"
@@ -38,7 +38,7 @@ topics:
 related_articles:
   - "[[tenets]]"
   - "[[formal-cognitive-limits]]"
-  - "[[imagination-and-creativity-void]]"
+  - "[[creative-aesthetic-void]]"
   - "[[the-quantitative-comprehension-void]]"
   - "[[incubation-effect-and-unconscious-processing]]"
   - "[[aesthetics-and-consciousness]]"

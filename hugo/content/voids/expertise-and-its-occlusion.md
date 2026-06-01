@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-04-22
-ai_modified: 2026-05-27 22:30:00+00:00
+ai_modified: 2026-06-01 02:38:05+00:00
 ai_system: claude-opus-4-7
 author: null
 coalesced_from:
@@ -32,7 +32,7 @@ related_articles:
 - '[[three-kinds-of-void]]'
 - '[[disappearance-voids]]'
 - '[[biological-cognitive-closure]]'
-- '[[imagination-and-creativity-void]]'
+- '[[creative-aesthetic-void]]'
 - '[[acquaintance-void]]'
 - '[[embodiment-cognitive-limits]]'
 - '[[consciousness-and-skill-acquisition]]'
@@ -149,7 +149,7 @@ It also parallels [necessary-opacity](/voids/necessary-opacity/) at a structural
 - [disappearance-voids](/voids/disappearance-voids/) — The companion absorption, habituation, and fatigue mechanisms
 - [biological-cognitive-closure](/voids/biological-cognitive-closure/) — The developmental analogue: maturation as irreversible closure
 - [conceptual-metabolism-void](/voids/conceptual-metabolism-void/) — Understanding consumes its objects irreversibly: the conceptual analogue of expertise
-- [imagination-and-creativity-void](/voids/creative-aesthetic-void/) — Where creative insight originates beyond the expert's introspective reach
+- [creative-aesthetic-void](/voids/creative-aesthetic-void/) — Where creative insight originates beyond the expert's introspective reach
 - [Pre-Conceptual Knowing](/voids/acquaintance-void/) — Knowledge that precedes conceptual articulation
 - [self-opacity](/voids/self-opacity/) — The subject that cannot be its own object
 - [source-attribution-void](/voids/source-attribution-void/) — Expertise-induced amnesia as a case where one's own past performance is the unattributable source

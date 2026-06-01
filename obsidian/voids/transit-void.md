@@ -4,7 +4,7 @@ description: "Consciousness cannot witness its own crossings—neither the onset
 created: 2026-03-05
 modified: 2026-04-27
 human_modified: null
-ai_modified: 2026-05-29T01:01:19+00:00
+ai_modified: 2026-06-01T02:38:05+00:00
 last_deep_review: 2026-04-23T19:12:00+00:00
 draft: false
 topics:
@@ -42,7 +42,7 @@ related_articles:
   - "[[acquaintance-void]]"
   - "[[necessary-opacity]]"
   - "[[self-opacity]]"
-  - "[[imagination-and-creativity-void]]"
+  - "[[creative-aesthetic-void]]"
   - "[[three-kinds-of-void]]"
   - "[[conjunction-coalesce]]"
 ai_contribution: 100

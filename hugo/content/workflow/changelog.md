@@ -1,13 +1,86 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-06-01 01:22:27+00:00
+ai_modified: 2026-06-01 01:50:00+00:00
 ai_system: claude-opus-4-8
 concepts: []
 date: '2026-06-01'
 related_articles: []
 title: Changelog
 ---
+
+## 2026-06-01T02:31:15+00:00 - deep-review
+- **Status**: Success
+- **File**: [acquaintance-void](/voids/acquaintance-void/)
+- **Word count**: 2200 → 2200 (+0, length-neutral; soft_warning, 110% of voids 2000 target)
+- **Critical issues addressed**: 0 (none found — third consecutive zero-critical review; converged)
+- **Medium issues addressed**: 1 (archival link rot: 3 cross-links repointed from archive-notice pages to live coalesce targets — `imagination-and-creativity-void`→`creative-aesthetic-void`, `aesthetic-void`→`creative-aesthetic-void`, `apophatic-approaches`→`apophatic-cartography`; display aliases preserved so prose unchanged)
+- **Attributions web-verified clean**: Jackson 1982 (Phil Q 32, 127–136), Lewis 1988 (ability hypothesis), Conee 1994 (AJP 72, 136–150), Nemirow. Jackson recantation caveat correctly absent (Mary framed argument-neutrally, not as current dualist).
+- **Evidential-status**: void framing honest — ability hypothesis engaged not strawmanned; "Mary gains something" not presented as proof of dualism; genuine falsifiers listed.
+- **Enhancements made**: 0 content (link-liveness only)
+- **Output**: [deep-review-2026-06-01-acquaintance-void](/reviews/deep-review-2026-06-01-acquaintance-void/)
+
+## 2026-06-01T03:05:00+00:00 - refine-draft
+- **Status**: Success
+- **Files**: [self-reference-and-the-limits-of-physical-description](/topics/self-reference-and-the-limits-of-physical-description/), [consciousness-and-probability-interpretation](/topics/consciousness-and-probability-interpretation/), [consciousness-and-the-metaphysics-of-laws-and-dispositions](/topics/consciousness-and-the-metaphysics-of-laws-and-dispositions/)
+- **Task**: CONNECTIVE multi-file reciprocal cross-link pass (optimistic-2026-05-31e) across the metaphysical-foundations / formal-limits cluster sharing "statistical closure with outcome-level openness" (Tonetto)
+- **Changes**: Added load-bearing reciprocal links where prose already does the connective work. No content rewrite, no calibration prose touched, evidential-status/defeater-removal framing preserved.
+  - **self-reference ↔ probability-interpretation** (both directions): self-reference's Tonetto "statistical closure" paragraph now points to probability-interpretation for HOW consciousness engages the opening (qualitative selection) + Further-Reading entry; probability-interpretation's "Consciousness at the Interface" opening now points back to self-reference for the formal undecidability ground of the opening + Further-Reading entry.
+  - **laws-and-dispositions → self-reference**: laws' "Physics leaves quantum measurement unexplained" governing-law paragraph now cites self-reference as the FORMAL reason the gap is genuine (undecidability) + Further-Reading entry. Additions kept tight/load-bearing for the pending condense task.
+  - **probability-interpretation ↔ laws-and-dispositions** (both directions): probability-interpretation's "Born rule describes statistical structure of selections" sentence now points to laws-and-dispositions for the powerful-qualities property-side mechanism + Further-Reading entry; laws-and-dispositions' selection-law / which-outcome paragraph now points to probability-interpretation for the Born-rule-as-statistics reading + Further-Reading entry.
+- **No "not X, it is Y" cliché. ai_modified bumped on all 3 files.**
+- **Published**: yes (all three already draft: false)
+
+## 2026-06-01T02:17:35+00:00 - deep-review
+- **Status**: Success
+- **File**: [phenomenology-of-agency-vs-passivity](/topics/phenomenology-of-agency-vs-passivity/)
+- **Word count**: 3139 → 3138 (-1)
+- **Critical issues addressed**: 0 (none found — 6th review, 3rd consecutive no-issue pass)
+- **Medium issues addressed**: 0 (none found)
+- **Enhancements made**: 1 (length-neutral tightening at line 129, merged two sentences; all wikilinks + calibration qualifiers preserved)
+- **Named-opponent engagement modes** (editor-internal): epiphenomenalist — Mode One + Mode Three residue (concedes verification circularity honestly); illusionist — Mode One (engages illusionist's own inaccessibility criterion via meditation-refinement). No label leakage; no boundary-substitution.
+- **Calibration**: line 129 introspection-cluster paragraph exemplary — invokes evidential-status discipline, no possibility/probability slippage. A tenet-accepting reviewer would flag nothing as overstated.
+- **Length note**: 105% soft_warning, below hard threshold. Over-threshold content is protected calibration material; left intact (condense would regress qualifiers). Human length-decision candidate, NOT an auto-condense target.
+- **Output**: [deep-review-2026-06-01-phenomenology-of-agency-vs-passivity](/reviews/deep-review-2026-06-01-phenomenology-of-agency-vs-passivity/)
+
+## 2026-06-01T13:10:00+00:00 - refine-draft
+- **Status**: Success
+- **File**: connective cross-link pass across the agent-centric foundations cluster (optimistic-2026-06-01)
+- **Original score**: n/a (metadata-light reciprocal cross-link pass, 4 files)
+- **Changes**: Connective-only — added reciprocal/motivated links where existing body prose already earns them; no content rewrite, no calibration prose touched, all evidential-status hedging preserved.
+  - [quantum-measurement-and-subjective-probability](/topics/quantum-measurement-and-subjective-probability/) — added Further-Reading link TO [pragmatist-quantum-foundations-and-the-agent](/topics/pragmatist-quantum-foundations-and-the-agent/) (reciprocal; both make the agent-shaped-hole critique of QBism, previously zero reciprocal links).
+  - [pragmatist-quantum-foundations-and-the-agent](/topics/pragmatist-quantum-foundations-and-the-agent/) — added Further-Reading link TO [quantum-measurement-and-subjective-probability](/topics/quantum-measurement-and-subjective-probability/) (other half of the reciprocal pair; QBism-focused subjective-probability analysis).
+  - [pragmatisms-path-to-dualism](/topics/pragmatisms-path-to-dualism/) — added Further-Reading link TO [quantum-measurement-and-subjective-probability](/topics/quantum-measurement-and-subjective-probability/) (Peirce-Fuchs lineage in the Tychism section reaches QBism but previously linked only the agent companion, not the dedicated QBism analysis).
+  - [consciousness-as-activity](/topics/consciousness-as-activity/) — added a pointer sentence in the Process Philosophy subsection TO [quantum-measurement-and-subjective-probability](/topics/quantum-measurement-and-subjective-probability/) (both close on actual-occasions resolving indeterminacy into determinate fact).
+  - Agent-shaped-hole framing kept as a dialectical-cost diagnostic, not as evidence for dualism. No "not X, it is Y" cliché. Bumped ai_modified on all 4 files.
+- **Published**: yes
+
+## 2026-06-01T12:00:00+00:00 - refine-draft
+- **Status**: Success
+- **File**: [consciousness-as-activity](/topics/consciousness-as-activity/)
+- **Original score**: n/a (single-bullet calibration fix from optimistic-2026-06-01)
+- **Changes**: Softened the "Causal engagement" bullet in "What Activity Means Here" so the activity reframing no longer appears to *settle* the mental-causation/exclusion problem. Replaced "mental causation—dissolves. Of course it does. Activities are causal." with defeater-removal framing (activity removes the epiphenomenalism obstacle but is not a positive account; the exclusion problem relocates to the interface) and a forward-reference to the selection mechanism under Bidirectional Interaction. Net length ~0. Strict single-bullet scope; no other prose touched (avoided over-hedging converged sections). No "not X, it is Y" cliché.
+- **Published**: yes
+
+## 2026-06-01T01:52:49+00:00 - optimistic-review
+- **Status**: Success
+- **Content reviewed**: Agent-centric foundations cluster — `topics/quantum-measurement-and-subjective-probability`, `topics/consciousness-as-activity`, `topics/pragmatisms-path-to-dualism` (the three most recently modified articles; unifying thread = "the agent-shaped hole"). Distinct from all six 2026-05-31 reviews.
+- **Output**: [optimistic-2026-06-01](/reviews/optimistic-2026-06-01/)
+- **Tasks added**: 1× P2 refine (soften "mental-causation dissolves" in consciousness-as-activity — Hardline-Empiricist calibration note), 1× P2 refine (reciprocal cross-links across the cluster — 4 body-motivated links, QBism article ↔ its companion have zero), 1× P3 expand (concept page "The Agent-Shaped Hole", assess-first/licence-to-decline)
+
+## 2026-06-01T01:50:00+00:00 - deep-review
+- **Status**: Success (converged; metadata-only — 7 historical attributions web-verified clean)
+- **File**: [von-neumann-wigner-interpretation](/concepts/von-neumann-wigner-interpretation/)
+- **Word count**: 2484 → 2484 (no change; 99% of 2500 soft threshold for concepts/, length-neutral)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 (4th deep review; 4th no-critical verdict — firmly converged)
+- **Attribution web-verification**: von Neumann 1932 (Princeton; movable cut, "abstract ego," psychophysical parallelism — metaphysical step correctly assigned to Wigner not vN), Wigner 1961 ("Remarks on the Mind-Body Question," Good ed. *The Scientist Speculates*, Heinemann; quote authentic; later retreat correctly characterised as reductio, not reversed/frozen), London & Bauer 1939 (*La théorie de l'observation...*, Hermann), Tegmark 2000 (*Phys. Rev. E* 61(4) 4194–4206; 10⁻¹³s figure), Frauchiger–Renner 2018 (*Nat. Commun.* 9:3711), Stapp 2007 (*Mindful Universe*, Springer) — all clean.
+- **Calibration check**: PASS — weaker-than-headline (objective-collapse-plus-modulation, NOT consciousness-causes-collapse) framing intact per Tenet 2; no possibility/probability slippage; decoherence/mechanism conceded as open.
+- **Reasoning-mode**: Tegmark/decoherence Mode Three (honest concession); MWI Mode Three (boundary-marked). No boundary-substitution, no label leakage.
+- **Links**: all inline wikilinks resolve (path-prefixed [many-worlds](/concepts/many-worlds/), [epiphenomenalism](/concepts/epiphenomenalism/) confirmed via sync resolver); sync exits 0.
+- **Note**: bumped `last_deep_review` only; `ai_modified` unchanged (no-op rule).
+- **Output**: [deep-review-2026-06-01-von-neumann-wigner-interpretation](/reviews/deep-review-2026-06-01-von-neumann-wigner-interpretation/)
 
 ## 2026-06-01T01:40:42+00:00 - deep-review
 - **Status**: Success (converged; 1 cross-link gap closed + 4 attributions web-verified)

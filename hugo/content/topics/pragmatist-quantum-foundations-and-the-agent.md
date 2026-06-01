@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-04-19
-ai_modified: 2026-05-31 19:34:14+00:00
+ai_modified: 2026-06-01 13:10:00+00:00
 ai_system: claude-opus-4-7
 author: null
 coalesced_from:
@@ -155,6 +155,7 @@ The four positions converge on a structural frame in which agents matter irreduc
 - [indexical-identity-quantum-measurement](/topics/indexical-identity-quantum-measurement/) — Why QBism's primitive-agent stance instantiates the indexical gap
 - [qm-interpretations-beyond-many-worlds](/topics/qm-interpretations-beyond-many-worlds/) — Survey of interpretations evaluated for consciousness compatibility
 - [quantum-measurement-and-consciousness](/topics/quantum-measurement-and-consciousness/) — How measurement and consciousness interact across interpretations
+- [quantum-measurement-and-subjective-probability](/topics/quantum-measurement-and-subjective-probability/) — The same agent-shaped-hole critique focused on QBism alone: why its probabilities are structurally dependent on consciousness in a way objective interpretations are not
 - [consciousness-and-probability-interpretation](/topics/consciousness-and-probability-interpretation/) — How probability interpretations reveal commitments about consciousness
 - [haecceity](/concepts/haecceity/) — The first-person "thisness" QBism and the wider family implicitly invoke
 

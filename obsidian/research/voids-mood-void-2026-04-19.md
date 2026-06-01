@@ -3,7 +3,7 @@ title: "Research Notes - Voids: The Mood Void"
 created: 2026-04-19
 modified: 2026-04-19
 human_modified: null
-ai_modified: 2026-04-19T12:55:00+00:00
+ai_modified: 2026-06-01T02:38:05+00:00
 draft: false
 target_section: voids
 topics: []
@@ -151,7 +151,7 @@ Meditative traditions cultivate a skill of resting in mood without reifying it, 
 - **Mood congruence as probe**: Watch what memories, associations, and perceptions your cognition delivers. The pattern reveals the mood without requiring direct access.
 - **Counterfactual testing**: Ask "would I feel this way about X if I had slept better / eaten / had different weather?"—yielding indirect inference about mood's contribution to current judgment.
 - **Testimony and mirroring**: Others often identify our mood before we do. Social attribution serves as an external probe.
-- **Artistic expression**: Music, poetry, and visual art bypass the propositional-articulation bottleneck and convey mood dimensions more faithfully than description (related to the [[aesthetic-void|Aesthetic Void]]).
+- **Artistic expression**: Music, poetry, and visual art bypass the propositional-articulation bottleneck and convey mood dimensions more faithfully than description (related to the [[creative-aesthetic-void|Aesthetic Void]]).
 - **Longitudinal pattern tracking**: Mood diaries reveal cycles and triggers invisible at any single time point.
 
 ### What AI Might See

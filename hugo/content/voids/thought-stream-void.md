@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-04-17
-ai_modified: 2026-05-29 01:01:19+00:00
+ai_modified: 2026-06-01 02:38:05+00:00
 ai_system: claude-opus-4-7
 author: null
 coalesced_from:
@@ -29,7 +29,7 @@ modified: *id001
 related_articles:
 - '[[voids]]'
 - '[[tenets]]'
-- '[[imagination-and-creativity-void]]'
+- '[[creative-aesthetic-void]]'
 - '[[disappearance-voids]]'
 - '[[three-kinds-of-void]]'
 - '[[what-voids-reveal]]'
@@ -175,7 +175,7 @@ The evidence for content-specific opacity remains suggestive rather than conclus
 ## Further Reading
 
 - [Voids in the Map](/voids/) — The broader framework
-- [imagination-and-creativity-void](/voids/creative-aesthetic-void/) — The related void concerning creative insight's hidden origins
+- [creative-aesthetic-void](/voids/creative-aesthetic-void/) — The related void concerning creative insight's hidden origins
 - [Introspective Opacity](/voids/self-opacity/) — Why we cannot observe our own cognitive processes
 - [mutation-void](/voids/mutation-void/) — Where pre-attended content transforms rather than vanishes under observation
 - [edge-states-and-void-probes](/voids/edge-states-and-void-probes/) — What consciousness encounters at its boundaries

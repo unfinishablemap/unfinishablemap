@@ -4,7 +4,7 @@ description: "Consciousness causally enables the cognitive leap that separates h
 created: 2026-01-29
 modified: 2026-05-11
 human_modified:
-ai_modified: 2026-05-25T19:11:15+00:00
+ai_modified: 2026-06-01T02:38:05+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -48,7 +48,7 @@ related_articles:
   - "[[infant-consciousness]]"
   - "[[consciousness-creativity-novelty-generation-2026-01-19]]"
   - "[[surprise-prediction-error-and-consciousness]]"
-  - "[[imagination-and-creativity-void]]"
+  - "[[creative-aesthetic-void]]"
   - "[[aesthetics-and-consciousness]]"
   - "[[consciousness-and-mathematics]]"
   - "[[consciousness-and-skill-acquisition]]"
@@ -177,7 +177,7 @@ The consciousness-intelligence-creativity thesis would weaken if:
 - [[global-workspace-theory]] — Broadcasting account of conscious access
 - [[temporal-consciousness]] — Bergson's lived time as creative becoming
 - [[agent-causation]] — Conscious origination of action
-- [[imagination-and-creativity-void]] — Why the creative source remains hidden
+- [[creative-aesthetic-void]] — Why the creative source remains hidden
 - [[aesthetics-and-consciousness]] — Beauty as irreducible phenomenal property
 - [[phenomenology-of-imagination]] — Imagination and creative exploration
 - [[consciousness-and-the-phenomenology-of-translation]] — Translation as a paradigm case of meaning-sensitive creative selection

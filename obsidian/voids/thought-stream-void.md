@@ -4,7 +4,7 @@ description: "Human+AI exploration of consciousness's opacity to its own stream�
 created: 2026-01-13
 modified: 2026-04-23
 human_modified:
-ai_modified: 2026-05-29T01:01:19+00:00
+ai_modified: 2026-06-01T02:38:05+00:00
 draft: false
 topics:
   - "[[philosophy-of-mind]]"
@@ -21,7 +21,7 @@ concepts:
 related_articles:
   - "[[voids]]"
   - "[[tenets]]"
-  - "[[imagination-and-creativity-void]]"
+  - "[[creative-aesthetic-void]]"
   - "[[disappearance-voids]]"
   - "[[three-kinds-of-void]]"
   - "[[what-voids-reveal]]"
@@ -172,7 +172,7 @@ The evidence for content-specific opacity remains suggestive rather than conclus
 ## Further Reading
 
 - [[voids|Voids in the Map]] — The broader framework
-- [[imagination-and-creativity-void]] — The related void concerning creative insight's hidden origins
+- [[creative-aesthetic-void]] — The related void concerning creative insight's hidden origins
 - [[self-opacity|Introspective Opacity]] — Why we cannot observe our own cognitive processes
 - [[mutation-void]] — Where pre-attended content transforms rather than vanishes under observation
 - [[edge-states-and-void-probes]] — What consciousness encounters at its boundaries

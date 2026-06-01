@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-15
-ai_modified: 2026-05-29 06:36:29+00:00
+ai_modified: 2026-06-01 02:38:05+00:00
 ai_system: claude-opus-4-7
 author: null
 concepts:
@@ -40,7 +40,7 @@ related_articles:
 - '[[phenomenology-of-agency-vs-passivity]]'
 - '[[dream-consciousness]]'
 - '[[phenomenology-of-moral-life]]'
-- '[[imagination-and-creativity-void]]'
+- '[[creative-aesthetic-void]]'
 - '[[imagery-void]]'
 title: The Phenomenology of Imagination
 topics:
@@ -124,7 +124,7 @@ Imagination bears on several of the Map's [tenets](/tenets/) in distinctive ways
 - [dream-consciousness](/topics/dream-consciousness/) — Dreams as involuntary imagination
 - [lucid-dreaming-and-dualist-rendering](/topics/lucid-dreaming-and-dualist-rendering/) — Lucid dreaming as voluntary imagination operating with full phenomenal richness during sleep
 - [phenomenology-of-moral-life](/topics/phenomenology-of-moral-life/) — Moral imagination and the felt quality of ethical perception
-- [imagination-and-creativity-void](/voids/creative-aesthetic-void/) — The opacity of consciousness's generative processes
+- [creative-aesthetic-void](/voids/creative-aesthetic-void/) — The opacity of consciousness's generative processes
 - [imagery-void](/voids/imagery-void/) — The structural impossibility of verifying imagery's fidelity, comparing it across minds, or pinning down whether the phenomenal image does the cognitive work it appears to
 - [thought-stream-void](/voids/thought-stream-void/) — The parallel opacity of spontaneous thought's arrival and departure
 - [mood-void](/voids/mood-void/) — The affective medium within which imagination unfolds, itself opaque to introspection

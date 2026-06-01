@@ -4,7 +4,7 @@ description: "McGinn's cognitive closure thesis: human minds may be constitution
 created: 2026-01-15
 modified: 2026-04-28
 human_modified: null
-ai_modified: 2026-04-28T09:14:00+00:00
+ai_modified: 2026-06-01T02:38:05+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -42,7 +42,7 @@ related_articles:
   - "[[phenomenology-of-cognitive-limit-types]]"
   - "[[self-reference-and-the-limits-of-physical-description]]"
   - "[[self-reference-paradox]]"
-  - "[[imagination-and-creativity-void]]"
+  - "[[creative-aesthetic-void]]"
   - "[[inference-void]]"
   - "[[carrolls-regress]]"
   - "[[imagery-void]]"
@@ -87,7 +87,7 @@ This enriches the concept: cognitive closure is not only species-wide and fixed 
 
 ## Nagel's Bat
 
-Thomas Nagel anticipated mysterianism in "What Is It Like to Be a Bat?" (1974): objective scientific methods cannot capture subjective experience without loss, because understanding consciousness objectively requires abstracting away from viewpoints—but viewpoints are precisely what we're trying to understand. The gap is structural, not merely current ignorance. The [[imagination-and-creativity-void|imagination and creativity void]] extends this to imagination itself—we cannot imagine what echolocation is like because our imaginative resources are bounded by our experiential repertoire, and the creative processes that might bridge the gap are constitutively hidden from the consciousness that employs them.
+Thomas Nagel anticipated mysterianism in "What Is It Like to Be a Bat?" (1974): objective scientific methods cannot capture subjective experience without loss, because understanding consciousness objectively requires abstracting away from viewpoints—but viewpoints are precisely what we're trying to understand. The gap is structural, not merely current ignorance. The [[creative-aesthetic-void|imagination and creativity void]] extends this to imagination itself—we cannot imagine what echolocation is like because our imaginative resources are bounded by our experiential repertoire, and the creative processes that might bridge the gap are constitutively hidden from the consciousness that employs them.
 
 ## Simple Minds and Complete Knowledge
 

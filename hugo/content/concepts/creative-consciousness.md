@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-04-30
-ai_modified: 2026-04-30 20:51:00+00:00
+ai_modified: 2026-06-01 02:38:05+00:00
 ai_system: claude-opus-4-7
 author: null
 coalesced_from:
@@ -51,7 +51,7 @@ related_articles:
 - '[[philosophy-of-science-under-dualism]]'
 - '[[aesthetics-and-consciousness]]'
 - '[[comparative-phenomenology-of-mathematical-insight]]'
-- '[[imagination-and-creativity-void]]'
+- '[[creative-aesthetic-void]]'
 - '[[noetic-feelings-void]]'
 title: Creative Consciousness
 topics:
@@ -147,7 +147,7 @@ Creative consciousness connects directly to several of the Map's [tenets](/tenet
 
 **No Many Worlds.** In many-worlds, every possibility is realised somewhere — nothing is genuinely created because everything already exists across branches. Creativity presupposes that some possibilities are actualised while others remain merely possible.
 
-The creative process may also illuminate [cognitive closure](/concepts/mysterianism/). The felt sense that insight "arrives" rather than being constructed resonates with the mysterian suggestion that some aspects of consciousness exceed our cognitive grasp. The [imagination-and-creativity-void](/voids/creative-aesthetic-void/) explores why the source of creative insight is phenomenologically hidden; the [noetic-feelings-void](/voids/noetic-feelings-void/) traces complementary territory: the felt signals that decide *which* candidate is right, gating cognition from inside through machinery consciousness cannot audit.
+The creative process may also illuminate [cognitive closure](/concepts/mysterianism/). The felt sense that insight "arrives" rather than being constructed resonates with the mysterian suggestion that some aspects of consciousness exceed our cognitive grasp. The [creative-aesthetic-void](/voids/creative-aesthetic-void/) explores why the source of creative insight is phenomenologically hidden; the [noetic-feelings-void](/voids/noetic-feelings-void/) traces complementary territory: the felt signals that decide *which* candidate is right, gating cognition from inside through machinery consciousness cannot audit.
 
 ## Further Reading
 
@@ -155,7 +155,7 @@ The creative process may also illuminate [cognitive closure](/concepts/mysterian
 - [agent-causation](/concepts/agent-causation/) — Philosophical framework for mental causation
 - [consciousness-selecting-neural-patterns](/concepts/consciousness-selecting-neural-patterns/) — The quantum mechanism for selection
 - [phenomenology-of-choice-and-volition](/concepts/phenomenology-of-choice-and-volition/) — The experiential structure of deliberation
-- [imagination-and-creativity-void](/voids/creative-aesthetic-void/) — The void where creative insight originates
+- [creative-aesthetic-void](/voids/creative-aesthetic-void/) — The void where creative insight originates
 - [noetic-feelings-void](/voids/noetic-feelings-void/) — Felt signals that gate creative selection from inside
 - [consciousness-and-mathematics](/topics/consciousness-and-mathematics/) — Mathematical insight as the strongest case
 - [categorical-surprise](/concepts/categorical-surprise/) — The structure of framework-collapsing surprise

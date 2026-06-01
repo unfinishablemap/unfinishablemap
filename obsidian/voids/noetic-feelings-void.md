@@ -4,7 +4,7 @@ description: "The felt signals that gate cognition from inside—knowing, rightn
 created: 2026-02-27
 modified: 2026-04-30
 human_modified:
-ai_modified: 2026-05-16T18:00:00+00:00
+ai_modified: 2026-06-01T02:38:05+00:00
 draft: false
 topics:
   - "[[philosophy-of-mind]]"
@@ -37,7 +37,7 @@ related_articles:
   - "[[epistemological-limits-occams-razor]]"
   - "[[self-maintained-cognitive-limits]]"
   - "[[what-voids-reveal]]"
-  - "[[imagination-and-creativity-void]]"
+  - "[[creative-aesthetic-void]]"
   - "[[recursion-void]]"
   - "[[compound-failure-signatures]]"
   - "[[predictive-construction-void]]"

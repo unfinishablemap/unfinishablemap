@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-23
-ai_modified: 2026-06-01 01:35:41+00:00
+ai_modified: 2026-06-01 13:10:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -63,7 +63,7 @@ The activity view draws on several converging traditions.
 
 [Whitehead's process metaphysics](/concepts/process-philosophy/) replaces substances bearing properties with events constituted by activity. Each "actual occasion" is an act of experience—a moment of prehending, synthesising, and achieving definite form. Consciousness is not something occasions have; it is the more complex and integrated form of what all occasions do. The fundamental category is not being but *becoming*.
 
-Whitehead's framework makes consciousness continuous with the rest of nature without reducing it to physics. Human experience is highly organised activity of the same kind that, in simpler forms, constitutes all actuality. The hard problem doesn't arise because there is no transition from non-experiential stuff to experiential property—experience is what actuality does, all the way down.
+Whitehead's framework makes consciousness continuous with the rest of nature without reducing it to physics. Human experience is highly organised activity of the same kind that, in simpler forms, constitutes all actuality. The hard problem doesn't arise because there is no transition from non-experiential stuff to experiential property—experience is what actuality does, all the way down. The same actual-occasion machinery does work at the quantum interface: the Map reads [quantum-measurement-and-subjective-probability](/topics/quantum-measurement-and-subjective-probability/) as closing on precisely this point, where indeterminacy resolves into determinate fact through a process neither purely physical nor external to experience.
 
 ### Bergson's Duration
 
@@ -85,7 +85,7 @@ Calling consciousness an activity carries specific ontological commitments beyon
 
 **Agent-dependence.** Activities require agents performing them. Dancing requires a dancer; thinking requires a thinker. The activity framing naturally supports the existence of a subject of experience—the entity performing the conscious activity. This resists eliminativist moves that treat the self as illusion. If consciousness is activity, someone is doing it.
 
-**Causal engagement.** Properties can be causally inert ([epiphenomenal](/concepts/epiphenomenalism/))—a surface can be red without redness doing anything. Activities cannot be inert by definition. If consciousness is something the organism does, it is already causally engaged. The question of whether consciousness makes a causal difference—the problem of [mental causation](/concepts/mental-causation-and-downward-causation/)—dissolves. Of course it does. Activities are causal.
+**Causal engagement.** Properties can be causally inert ([epiphenomenal](/concepts/epiphenomenalism/))—a surface can be red without redness doing anything. Activities cannot be inert by definition. If consciousness is something the organism does, it is already causally engaged. The activity framing removes one obstacle to [mental causation](/concepts/mental-causation-and-downward-causation/): an activity cannot be epiphenomenal in the way a property can. But this is defeater-removal, not a positive account—the exclusion problem (why mental causes do not merely duplicate sufficient physical ones) does not vanish so much as relocate to the interface, where it is answered by the selection mechanism described under [Bidirectional Interaction](#relation-to-site-perspective) below.
 
 **Irreducibility of practice.** You cannot reduce an activity to its material substrate. Dancing is not identical to leg movements; it involves timing, expression, intention, and responsiveness that supervene on but are not captured by biomechanical description. Similarly, conscious activity supervenes on neural processes but is not captured by their description. The [explanatory gap](/concepts/explanatory-gap/) reflects a genuine ontological distinction between substrate and activity, not a mere epistemic limitation.
 

@@ -4,7 +4,7 @@ description: "Why cognitive limits are preconditions for meaning, not merely obs
 created: 2026-02-24
 modified: 2026-05-11
 human_modified:
-ai_modified: 2026-05-11T22:27:00+00:00
+ai_modified: 2026-06-01T02:38:05+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -18,9 +18,9 @@ related_articles:
   - "[[what-voids-reveal]]"
   - "[[apophatic-approaches]]"
   - "[[meta-epistemology-of-limits]]"
-  - "[[aesthetic-void]]"
+  - "[[creative-aesthetic-void]]"
   - "[[voids-between-minds]]"
-  - "[[imagination-and-creativity-void]]"
+  - "[[creative-aesthetic-void]]"
   - "[[death-void]]"
   - "[[language-thought-boundary]]"
   - "[[origin-of-consciousness]]"
@@ -40,7 +40,7 @@ last_curated:
 last_deep_review: 2026-04-25T13:29:00+00:00
 ---
 
-The Unfinishable Map's [[voids]] project catalogs dozens of cognitive limits. Individual articles often note that specific voids are "constitutive" of their domains: the [[voids-between-minds]] enables ethical life, the [[imagination-and-creativity-void]] enables creative production, the [[death-void]] structures temporal urgency. One thesis unifies these observations: voids as such are not merely constraints on meaning but *preconditions* for it. A mind with no limits would have no meaning. The shape of our voids is the shape of our significance.
+The Unfinishable Map's [[voids]] project catalogs dozens of cognitive limits. Individual articles often note that specific voids are "constitutive" of their domains: the [[voids-between-minds]] enables ethical life, the [[creative-aesthetic-void]] enables creative production, the [[death-void]] structures temporal urgency. One thesis unifies these observations: voids as such are not merely constraints on meaning but *preconditions* for it. A mind with no limits would have no meaning. The shape of our voids is the shape of our significance.
 
 The constitutive thesis functions as a meta-void, reframing the entire project: we are not cataloging failures but mapping the architecture of what makes anything matter at all.
 
@@ -102,8 +102,8 @@ Read through the constitutive thesis, the Map's specific voids reveal the archit
 
 - The [[death-void]] structures temporal meaning—urgency, commitment, the weight of irreversible choice
 - The [[voids-between-minds]] grounds ethical life—obligation, care, the encounter with what exceeds comprehension
-- The [[imagination-and-creativity-void]] enables genuine novelty—if creative origins were transparent, nothing would be surprising
-- The [[aesthetic-void]] opens access to the ineffable—beauty matters partly because it exceeds articulation
+- The [[creative-aesthetic-void]] enables genuine novelty—if creative origins were transparent, nothing would be surprising
+- The [[creative-aesthetic-void]] opens access to the ineffable—beauty matters partly because it exceeds articulation
 - The [[language-thought-boundary]] preserves territory that concepts would distort
 - The [[meaning-void]] keeps felt meaning irreducible to formal description
 - The [[origin-of-consciousness]] void holds open the question that motivates inquiry itself
@@ -146,7 +146,7 @@ The thesis connects to each of the Map's [[tenets]]:
 - [[what-voids-reveal]] — How the shape of limits reveals cognitive architecture
 - [[apophatic-approaches]] — Methods for knowing through negation
 - [[meta-epistemology-of-limits]] — Can we determine if cognitive limits are permanent?
-- [[death-void]], [[voids-between-minds]], [[aesthetic-void]], [[imagination-and-creativity-void]], [[language-thought-boundary]], [[meaning-void]], [[origin-of-consciousness]] — Specific voids treated under the constitutive thesis
+- [[death-void]], [[voids-between-minds]], [[creative-aesthetic-void]], [[creative-aesthetic-void]], [[language-thought-boundary]], [[meaning-void]], [[origin-of-consciousness]] — Specific voids treated under the constitutive thesis
 - [[epistemological-limits-occams-razor]] — Why simplicity fails at cognitive boundaries
 - [[contemplative-epistemology]] — Knowing through unknowing
 - [[buddhist-perspectives-on-meaning]], [[eastern-philosophy-consciousness]], [[indian-philosophy-of-mind]] — Eastern engagements with the bearer-of-meaning question

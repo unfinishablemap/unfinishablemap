@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-07
-ai_modified: 2026-05-12 01:01:00+00:00
+ai_modified: 2026-06-01 02:38:05+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -110,7 +110,7 @@ Block's [phenomenal overflow](/voids/acquaintance-void/#phenomenal-overflow) res
 
 [Aesthetic experience](/topics/aesthetics-and-consciousness/) provides perhaps the strongest case for qualia's resistance to reduction. Colours carry aesthetic character (*warm*, *serene*, *electric*) independent of what they represent. Some rooms feel oppressive; others inviting. Ideas have aesthetic character—Einstein reported general relativity "felt right" before he could prove it.
 
-Aesthetic qualia may resist reduction more than sensory qualia: the [inverted spectrum](/concepts/inverted-qualia/) argument faces the objection that colour space has structural asymmetries making inversion detectable. But aesthetic space lacks such asymmetries—someone whose aesthetic qualia are systematically inverted could behave identically to you. Aesthetic qualia also carry intrinsic normativity: beauty *calls for* attention. This marks them as [evaluative qualia](/concepts/evaluative-phenomenal-character/)—their qualitative character is inseparable from their evaluative significance. The [aesthetic-void](/voids/creative-aesthetic-void/) explores what this resistance to articulation reveals about cognitive limits.
+Aesthetic qualia may resist reduction more than sensory qualia: the [inverted spectrum](/concepts/inverted-qualia/) argument faces the objection that colour space has structural asymmetries making inversion detectable. But aesthetic space lacks such asymmetries—someone whose aesthetic qualia are systematically inverted could behave identically to you. Aesthetic qualia also carry intrinsic normativity: beauty *calls for* attention. This marks them as [evaluative qualia](/concepts/evaluative-phenomenal-character/)—their qualitative character is inseparable from their evaluative significance. The [creative-aesthetic-void](/voids/creative-aesthetic-void/) explores what this resistance to articulation reveals about cognitive limits.
 
 ## Thought Experiments
 

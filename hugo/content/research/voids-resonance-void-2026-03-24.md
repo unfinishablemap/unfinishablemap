@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-24
-ai_modified: 2026-03-24 02:39:00+00:00
+ai_modified: 2026-06-01 02:38:05+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -15,7 +15,7 @@ modified: *id001
 related_articles:
 - '[[voids]]'
 - '[[tenets]]'
-- '[[aesthetic-void]]'
+- '[[creative-aesthetic-void]]'
 - '[[pre-conceptual-knowing]]'
 - '[[the-silence-void]]'
 - '[[self-opacity]]'

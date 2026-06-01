@@ -3,7 +3,7 @@ title: "The Language-Thought Boundary"
 created: 2026-01-26
 modified: 2026-01-26
 human_modified: null
-ai_modified: 2026-05-27T00:00:00+00:00
+ai_modified: 2026-06-01T02:38:05+00:00
 draft: false
 description: "Where thought exceeds language: visual cognition, qualia, and the limits of articulation. What ineffability reveals about consciousness."
 topics: []
@@ -90,7 +90,7 @@ What does it feel like to hit language's limits? The [[cognitive-phenomenology|p
 
 **The tip-of-tongue in reverse**: You have content but no word exists to retrieve. Fullness without outlet rather than emptiness seeking content.
 
-**Dissolution on articulation**: Sometimes saying a thought destroys it. Mystics report this consistently—the insight dissolves when grasped linguistically. The [[aesthetic-void]] maps this phenomenon specifically: aesthetic revelations cannot be preserved across state transitions, suggesting the knowledge requires the aesthetic state to be thought at all.
+**Dissolution on articulation**: Sometimes saying a thought destroys it. Mystics report this consistently—the insight dissolves when grasped linguistically. The [[creative-aesthetic-void]] maps this phenomenon specifically: aesthetic revelations cannot be preserved across state transitions, suggesting the knowledge requires the aesthetic state to be thought at all.
 
 Compare to [[thought-stream-void|thoughts that slip away]]. In slippage, content forms briefly then vanishes. At the language-thought boundary, content may be stable but inexpressible. The phenomenology differs: slippage feels like forgetting; linguistic limits feel like being mute.
 

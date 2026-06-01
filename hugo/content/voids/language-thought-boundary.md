@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-26
-ai_modified: 2026-05-27 00:00:00+00:00
+ai_modified: 2026-06-01 02:38:05+00:00
 ai_system: claude-opus-4-7
 author: null
 concepts:
@@ -92,7 +92,7 @@ What does it feel like to hit language's limits? The [phenomenology of cognition
 
 **The tip-of-tongue in reverse**: You have content but no word exists to retrieve. Fullness without outlet rather than emptiness seeking content.
 
-**Dissolution on articulation**: Sometimes saying a thought destroys it. Mystics report this consistently—the insight dissolves when grasped linguistically. The [aesthetic-void](/voids/creative-aesthetic-void/) maps this phenomenon specifically: aesthetic revelations cannot be preserved across state transitions, suggesting the knowledge requires the aesthetic state to be thought at all.
+**Dissolution on articulation**: Sometimes saying a thought destroys it. Mystics report this consistently—the insight dissolves when grasped linguistically. The [creative-aesthetic-void](/voids/creative-aesthetic-void/) maps this phenomenon specifically: aesthetic revelations cannot be preserved across state transitions, suggesting the knowledge requires the aesthetic state to be thought at all.
 
 Compare to [thoughts that slip away](/voids/thought-stream-void/). In slippage, content forms briefly then vanishes. At the language-thought boundary, content may be stable but inexpressible. The phenomenology differs: slippage feels like forgetting; linguistic limits feel like being mute.
 

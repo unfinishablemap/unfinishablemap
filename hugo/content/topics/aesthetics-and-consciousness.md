@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-22
-ai_modified: 2026-05-25 22:42:07+00:00
+ai_modified: 2026-06-01 02:38:05+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -51,7 +51,7 @@ modified: *id001
 related_articles:
 - '[[tenets]]'
 - '[[contemplative-practice-as-philosophical-evidence]]'
-- '[[aesthetic-void]]'
+- '[[creative-aesthetic-void]]'
 - '[[phenomenology-of-moral-life]]'
 - '[[ethics-under-dualism]]'
 - '[[knowledge-argument]]'
@@ -66,7 +66,7 @@ related_articles:
 - '[[quantum-holism-and-phenomenal-unity]]'
 - '[[consciousness-and-cognitive-distinctiveness|consciousness and creative distinctiveness]]'
 - '[[consciousness-and-mathematics]]'
-- '[[imagination-and-creativity-void]]'
+- '[[creative-aesthetic-void]]'
 - '[[consciousness-and-skill-acquisition]]'
 - '[[phenomenology-of-intellectual-life]]'
 - '[[phenomenology-of-agency-vs-passivity]]'
@@ -153,7 +153,7 @@ The aesthetic case for dualism would weaken if: aesthetic qualia proved reducibl
 
 ## Further Reading
 
-- [aesthetic-void](/voids/creative-aesthetic-void/) — Where articulation fails at beauty and sublimity
+- [creative-aesthetic-void](/voids/creative-aesthetic-void/) — Where articulation fails at beauty and sublimity
 - [phenomenal-value-realism](/topics/phenomenal-value-realism/) — Value as intrinsic to experience
 - [phenomenology-of-moral-life](/topics/phenomenology-of-moral-life/) — Parallel analysis for moral value
 - [the-binding-problem](/topics/the-binding-problem/) — The five standard varieties of phenomenal binding

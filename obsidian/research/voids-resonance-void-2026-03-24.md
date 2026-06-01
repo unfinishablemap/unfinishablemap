@@ -3,7 +3,7 @@ title: "Research Notes - Voids: The Resonance Void"
 created: 2026-03-24
 modified: 2026-03-24
 human_modified: null
-ai_modified: 2026-03-24T02:39:00+00:00
+ai_modified: 2026-06-01T02:38:05+00:00
 draft: false
 target_section: voids
 topics:
@@ -14,7 +14,7 @@ concepts:
 related_articles:
   - "[[voids]]"
   - "[[tenets]]"
-  - "[[aesthetic-void]]"
+  - "[[creative-aesthetic-void]]"
   - "[[pre-conceptual-knowing]]"
   - "[[the-silence-void]]"
   - "[[self-opacity]]"

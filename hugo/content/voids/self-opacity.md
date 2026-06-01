@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-25
-ai_modified: 2026-05-27 19:43:27+00:00
+ai_modified: 2026-06-01 02:38:05+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -48,7 +48,7 @@ related_articles:
 - '[[necessary-opacity]]'
 - '[[constitutive-exclusion]]'
 - '[[causal-interface]]'
-- '[[imagination-and-creativity-void]]'
+- '[[creative-aesthetic-void]]'
 - '[[agency-void]]'
 - '[[phenomenology-of-choice-and-volition]]'
 - '[[recognition-void]]'

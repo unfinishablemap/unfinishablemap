@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-28
-ai_modified: 2026-05-25 16:42:05+00:00
+ai_modified: 2026-06-01 02:38:05+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -47,7 +47,7 @@ modified: *id001
 related_articles:
 - '[[tenets]]'
 - '[[formal-cognitive-limits]]'
-- '[[imagination-and-creativity-void]]'
+- '[[creative-aesthetic-void]]'
 - '[[the-quantitative-comprehension-void]]'
 - '[[incubation-effect-and-unconscious-processing]]'
 - '[[aesthetics-and-consciousness]]'

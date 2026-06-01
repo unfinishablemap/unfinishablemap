@@ -3,7 +3,7 @@ title: "Research Notes - Voids: The Numinous Void"
 created: 2026-04-12
 modified: 2026-04-12
 human_modified: null
-ai_modified: 2026-04-12T20:07:00+00:00
+ai_modified: 2026-06-01T02:38:05+00:00
 draft: false
 target_section: voids
 topics:
@@ -17,7 +17,7 @@ concepts:
 related_articles:
   - "[[voids]]"
   - "[[tenets]]"
-  - "[[aesthetic-void]]"
+  - "[[creative-aesthetic-void]]"
   - "[[the-surplus-void]]"
   - "[[phenomenology-of-the-edge]]"
   - "[[altered-states-as-void-probes]]"

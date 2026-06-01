@@ -3,7 +3,7 @@ title: "Research Notes - Voids: The Surplus Void"
 created: 2026-02-23
 modified: 2026-02-23
 human_modified: null
-ai_modified: 2026-04-23T12:41:29+00:00
+ai_modified: 2026-06-01T02:38:05+00:00
 draft: false
 target_section: voids
 topics:
@@ -18,7 +18,7 @@ concepts:
 related_articles:
   - "[[voids]]"
   - "[[tenets]]"
-  - "[[aesthetic-void]]"
+  - "[[creative-aesthetic-void]]"
   - "[[affective-void]]"
   - "[[qualitative-novelty-void]]"
   - "[[origin-of-consciousness]]"

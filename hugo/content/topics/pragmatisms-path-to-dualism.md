@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-15
-ai_modified: 2026-06-01 01:35:41+00:00
+ai_modified: 2026-06-01 13:10:00+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -179,6 +179,7 @@ The pragmatic path to dualism is distinctive because it does not rely on intuiti
 - [self-stultification-as-master-argument](/topics/self-stultification-as-master-argument/) — The master argument pattern that pragmatism's reflexive case instantiates
 - [enactivism-challenge-to-interactionist-dualism](/topics/enactivism-challenge-to-interactionist-dualism/) — How enactivism's pragmatist heritage creates tension with its anti-dualist conclusions
 - [pragmatist-quantum-foundations-and-the-agent](/topics/pragmatist-quantum-foundations-and-the-agent/) — QBism's pragmatist foundations and the agent-shaped hole in quantum foundations
+- [quantum-measurement-and-subjective-probability](/topics/quantum-measurement-and-subjective-probability/) — How QBism's subjective reading of the Born rule makes consciousness load-bearing — the quantum endpoint of the Peirce-Fuchs lineage traced above
 - [phenomenal-value-realism](/topics/phenomenal-value-realism/) — Value as constituted by conscious experience
 - [consciousness-and-the-normativity-of-reason](/topics/consciousness-and-the-normativity-of-reason/) — Why the gap between causal and normative "because" requires conscious minds
 - [evaluative-phenomenal-character](/concepts/evaluative-phenomenal-character/) — Demand-character as intrinsic to experience

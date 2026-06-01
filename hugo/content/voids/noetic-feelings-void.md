@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-04-24
-ai_modified: 2026-05-16 18:00:00+00:00
+ai_modified: 2026-06-01 02:38:05+00:00
 ai_system: claude-opus-4-7
 author: null
 coalesced_from:
@@ -47,7 +47,7 @@ related_articles:
 - '[[epistemological-limits-occams-razor]]'
 - '[[self-maintained-cognitive-limits]]'
 - '[[what-voids-reveal]]'
-- '[[imagination-and-creativity-void]]'
+- '[[creative-aesthetic-void]]'
 - '[[recursion-void]]'
 - '[[compound-failure-signatures]]'
 - '[[predictive-construction-void]]'

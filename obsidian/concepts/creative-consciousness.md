@@ -4,7 +4,7 @@ description: "Consciousness contributes to creativity by generating possibilitie
 created: 2026-01-19
 modified: 2026-04-30
 human_modified:
-ai_modified: 2026-04-30T20:51:00+00:00
+ai_modified: 2026-06-01T02:38:05+00:00
 last_deep_review: 2026-04-30T20:51:00+00:00
 draft: false
 topics:
@@ -44,7 +44,7 @@ related_articles:
   - "[[philosophy-of-science-under-dualism]]"
   - "[[aesthetics-and-consciousness]]"
   - "[[comparative-phenomenology-of-mathematical-insight]]"
-  - "[[imagination-and-creativity-void]]"
+  - "[[creative-aesthetic-void]]"
   - "[[noetic-feelings-void]]"
 ai_contribution: 100
 author:
@@ -96,7 +96,7 @@ Creative insight unfolds through qualitatively distinct phases — search, impas
 
 **Scientific encounter.** In scientific contexts, restructuring carries an additional dimension: the sense that the new pattern was *already there in nature*, waiting to be recognised. Constructivists argue this experience of "uncovering" is itself a product of the new framework. Across traditions and centuries — from Kepler and Darwin to Einstein and McClintock — scientists nevertheless consistently report uncovering rather than constructing, and this consistency demands explanation.
 
-**The aha moment.** Bowden et al. (2005) identified several experiential markers. *Suddenness:* insight arrives all at once, complete in a single moment. *Certainty:* solutions that arrive through insight carry strong felt correctness — what Metcalfe and Wiebe (1987) measured as a discontinuity in "warmth" ratings, leaping from cold to hot rather than rising gradually. *Positive affect:* a felt release of accumulated tension. *Altered agency:* the thinker does not experience insight as their own deliberate production. The insight is *mine* — it grew from *my* effort — yet I did not *make* it happen. This [[phenomenology-of-agency-vs-passivity|ownership-without-authorship]] is precise. The [[imagination-and-creativity-void|imagination and creativity void]] maps it as structural: consciousness cannot observe its own generative processes.
+**The aha moment.** Bowden et al. (2005) identified several experiential markers. *Suddenness:* insight arrives all at once, complete in a single moment. *Certainty:* solutions that arrive through insight carry strong felt correctness — what Metcalfe and Wiebe (1987) measured as a discontinuity in "warmth" ratings, leaping from cold to hot rather than rising gradually. *Positive affect:* a felt release of accumulated tension. *Altered agency:* the thinker does not experience insight as their own deliberate production. The insight is *mine* — it grew from *my* effort — yet I did not *make* it happen. This [[phenomenology-of-agency-vs-passivity|ownership-without-authorship]] is precise. The [[creative-aesthetic-void|imagination and creativity void]] maps it as structural: consciousness cannot observe its own generative processes.
 
 Scientific insight adds a felt *contact* between mind and world when data validates a theoretical prediction — a sense of *recognition*, as though something already understood has now been made manifest. Even granting Kosso's (1989) point that observation is theory-laden, the experience of encounter persists. The scientist holds two things at once: *I see it clearly* and *Can I show others?*
 
@@ -143,7 +143,7 @@ Creative consciousness connects directly to several of the Map's [[tenets]].
 
 **No Many Worlds.** In many-worlds, every possibility is realised somewhere — nothing is genuinely created because everything already exists across branches. Creativity presupposes that some possibilities are actualised while others remain merely possible.
 
-The creative process may also illuminate [[mysterianism|cognitive closure]]. The felt sense that insight "arrives" rather than being constructed resonates with the mysterian suggestion that some aspects of consciousness exceed our cognitive grasp. The [[imagination-and-creativity-void]] explores why the source of creative insight is phenomenologically hidden; the [[noetic-feelings-void]] traces complementary territory: the felt signals that decide *which* candidate is right, gating cognition from inside through machinery consciousness cannot audit.
+The creative process may also illuminate [[mysterianism|cognitive closure]]. The felt sense that insight "arrives" rather than being constructed resonates with the mysterian suggestion that some aspects of consciousness exceed our cognitive grasp. The [[creative-aesthetic-void]] explores why the source of creative insight is phenomenologically hidden; the [[noetic-feelings-void]] traces complementary territory: the felt signals that decide *which* candidate is right, gating cognition from inside through machinery consciousness cannot audit.
 
 ## Further Reading
 
@@ -151,7 +151,7 @@ The creative process may also illuminate [[mysterianism|cognitive closure]]. The
 - [[agent-causation]] — Philosophical framework for mental causation
 - [[consciousness-selecting-neural-patterns]] — The quantum mechanism for selection
 - [[phenomenology-of-choice-and-volition]] — The experiential structure of deliberation
-- [[imagination-and-creativity-void]] — The void where creative insight originates
+- [[creative-aesthetic-void]] — The void where creative insight originates
 - [[noetic-feelings-void]] — Felt signals that gate creative selection from inside
 - [[consciousness-and-mathematics]] — Mathematical insight as the strongest case
 - [[categorical-surprise]] — The structure of framework-collapsing surprise

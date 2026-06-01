@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-13
-ai_modified: 2026-05-31 20:09:31+00:00
+ai_modified: 2026-06-01 00:00:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -85,9 +85,9 @@ This suggests that consciousness engages the world through meaning, not through 
 
 ## Consciousness at the Interface
 
-The [interface view](/concepts/quantum-probability-consciousness/) developed elsewhere on the Map proposes that Born probabilities describe the structure of the consciousness-quantum interface. Consciousness doesn't passively receive already-determined outcomes; it participates in actualising one outcome from among those quantum mechanics permits. (The standard decoherence objection—that quantum coherence cannot survive in warm biological systems—is addressed in the [Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction) tenet; the key point is that decoherence does not solve the measurement problem and consciousness may bias outcomes at the point of collapse even after decoherence has occurred.)
+The [interface view](/concepts/quantum-probability-consciousness/) developed elsewhere on the Map proposes that Born probabilities describe the structure of the consciousness-quantum interface. Consciousness doesn't passively receive already-determined outcomes; it participates in actualising one outcome from among those quantum mechanics permits. That there *is* such an opening—statistics fixed by the formalism, the individual outcome left undetermined—is argued formally in [self-reference-and-the-limits-of-physical-description](/topics/self-reference-and-the-limits-of-physical-description/), where Tonetto's "statistical closure with outcome-level openness" follows from genuine undecidability within physics rather than from incomplete knowledge. (The standard decoherence objection—that quantum coherence cannot survive in warm biological systems—is addressed in the [Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction) tenet; the key point is that decoherence does not solve the measurement problem and consciousness may bias outcomes at the point of collapse even after decoherence has occurred.)
 
-The probability intuition failure illuminates this picture. If consciousness operates at quantum indeterminacies by *selecting* among possibilities, its mode of selection would not be probabilistic calculation. Selection through pattern, meaning, and intention—consciousness's actual competencies—makes more sense than selection through probability assessment. Consciousness doesn't compute the Born rule and then follow it. Rather, the Born rule describes the *statistical* structure of consciousness's selections when aggregated across many instances.
+The probability intuition failure illuminates this picture. If consciousness operates at quantum indeterminacies by *selecting* among possibilities, its mode of selection would not be probabilistic calculation. Selection through pattern, meaning, and intention—consciousness's actual competencies—makes more sense than selection through probability assessment. Consciousness doesn't compute the Born rule and then follow it. Rather, the Born rule describes the *statistical* structure of consciousness's selections when aggregated across many instances. What does the selecting, on the Map's property metaphysics, is the qualitative character of the conscious state itself: [consciousness-and-the-metaphysics-of-laws-and-dispositions](/topics/consciousness-and-the-metaphysics-of-laws-and-dispositions/) argues that phenomenal properties are *powerful qualities* whose felt character is identical with their disposition to bias which outcome obtains—supplying the property-side mechanism whose third-person shadow this statistical reading describes.
 
 An analogy: a person choosing which path to walk doesn't calculate the distribution of their choices across days. They choose based on mood, intention, weather—qualitative factors. But an observer tracking their choices over time would find statistical regularities. The statistics describe the pattern without capturing the experience of choosing.
 
@@ -139,6 +139,8 @@ The distinction matters for the interface view. Cognitive blindness is a limitat
 - [The Quantitative Comprehension Void — magnitude and probability face](/voids/the-quantitative-comprehension-void/#the-magnitude-and-probability-domain) — Probability and magnitude share a single explanatory architecture; this face treats the cognitive limits at the heart of probabilistic reasoning
 - [narrative-coherence](/concepts/narrative-coherence/) — How narrative structure overrides probabilistic reasoning
 - [psychophysical-laws](/concepts/psychophysical-laws/) — Formalising consciousness's downward selection among quantum outcomes
+- [self-reference-and-the-limits-of-physical-description](/topics/self-reference-and-the-limits-of-physical-description/) — The formal case that physics fixes ensemble statistics while leaving the individual outcome open
+- [consciousness-and-the-metaphysics-of-laws-and-dispositions](/topics/consciousness-and-the-metaphysics-of-laws-and-dispositions/) — Powerful qualities as the property-side mechanism whose statistics the Born rule describes
 - [phenomenology-of-deliberation-under-uncertainty](/topics/phenomenology-of-deliberation-under-uncertainty/) — What genuine uncertainty feels like from the inside
 - [probability-problem-in-many-worlds](/topics/probability-problem-in-many-worlds/) — Decision theory, self-locating uncertainty, and envariance all fail to recover the Born rule in MWI
 - [qm-interpretations-beyond-many-worlds](/topics/qm-interpretations-beyond-many-worlds/) — Which QM interpretations leave room for consciousness at the interface

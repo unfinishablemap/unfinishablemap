@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-24
-ai_modified: 2026-05-11 22:27:00+00:00
+ai_modified: 2026-06-01 02:38:05+00:00
 ai_system: claude-opus-4-7
 author: null
 concepts:
@@ -24,9 +24,9 @@ related_articles:
 - '[[what-voids-reveal]]'
 - '[[apophatic-approaches]]'
 - '[[meta-epistemology-of-limits]]'
-- '[[aesthetic-void]]'
+- '[[creative-aesthetic-void]]'
 - '[[voids-between-minds]]'
-- '[[imagination-and-creativity-void]]'
+- '[[creative-aesthetic-void]]'
 - '[[death-void]]'
 - '[[language-thought-boundary]]'
 - '[[origin-of-consciousness]]'
@@ -43,7 +43,7 @@ topics:
 - '[[hard-problem-of-consciousness]]'
 ---
 
-The Unfinishable Map's [voids](/voids/) project catalogs dozens of cognitive limits. Individual articles often note that specific voids are "constitutive" of their domains: the [voids-between-minds](/voids/voids-between-minds/) enables ethical life, the [imagination-and-creativity-void](/voids/creative-aesthetic-void/) enables creative production, the [death-void](/voids/death-void/) structures temporal urgency. One thesis unifies these observations: voids as such are not merely constraints on meaning but *preconditions* for it. A mind with no limits would have no meaning. The shape of our voids is the shape of our significance.
+The Unfinishable Map's [voids](/voids/) project catalogs dozens of cognitive limits. Individual articles often note that specific voids are "constitutive" of their domains: the [voids-between-minds](/voids/voids-between-minds/) enables ethical life, the [creative-aesthetic-void](/voids/creative-aesthetic-void/) enables creative production, the [death-void](/voids/death-void/) structures temporal urgency. One thesis unifies these observations: voids as such are not merely constraints on meaning but *preconditions* for it. A mind with no limits would have no meaning. The shape of our voids is the shape of our significance.
 
 The constitutive thesis functions as a meta-void, reframing the entire project: we are not cataloging failures but mapping the architecture of what makes anything matter at all.
 
@@ -105,8 +105,8 @@ Read through the constitutive thesis, the Map's specific voids reveal the archit
 
 - The [death-void](/voids/death-void/) structures temporal meaning—urgency, commitment, the weight of irreversible choice
 - The [voids-between-minds](/voids/voids-between-minds/) grounds ethical life—obligation, care, the encounter with what exceeds comprehension
-- The [imagination-and-creativity-void](/voids/creative-aesthetic-void/) enables genuine novelty—if creative origins were transparent, nothing would be surprising
-- The [aesthetic-void](/voids/creative-aesthetic-void/) opens access to the ineffable—beauty matters partly because it exceeds articulation
+- The [creative-aesthetic-void](/voids/creative-aesthetic-void/) enables genuine novelty—if creative origins were transparent, nothing would be surprising
+- The [creative-aesthetic-void](/voids/creative-aesthetic-void/) opens access to the ineffable—beauty matters partly because it exceeds articulation
 - The [language-thought-boundary](/voids/language-thought-boundary/) preserves territory that concepts would distort
 - The [meaning-void](/voids/meaning-void/) keeps felt meaning irreducible to formal description
 - The [origin-of-consciousness](/voids/origin-of-consciousness/) void holds open the question that motivates inquiry itself
@@ -149,7 +149,7 @@ The thesis connects to each of the Map's [tenets](/tenets/):
 - [what-voids-reveal](/voids/what-voids-reveal/) — How the shape of limits reveals cognitive architecture
 - [apophatic-approaches](/concepts/apophatic-approaches/) — Methods for knowing through negation
 - [meta-epistemology-of-limits](/voids/meta-epistemology-of-limits/) — Can we determine if cognitive limits are permanent?
-- [death-void](/voids/death-void/), [voids-between-minds](/voids/voids-between-minds/), [aesthetic-void](/voids/creative-aesthetic-void/), [imagination-and-creativity-void](/voids/creative-aesthetic-void/), [language-thought-boundary](/voids/language-thought-boundary/), [meaning-void](/voids/meaning-void/), [origin-of-consciousness](/voids/origin-of-consciousness/) — Specific voids treated under the constitutive thesis
+- [death-void](/voids/death-void/), [voids-between-minds](/voids/voids-between-minds/), [creative-aesthetic-void](/voids/creative-aesthetic-void/), [creative-aesthetic-void](/voids/creative-aesthetic-void/), [language-thought-boundary](/voids/language-thought-boundary/), [meaning-void](/voids/meaning-void/), [origin-of-consciousness](/voids/origin-of-consciousness/) — Specific voids treated under the constitutive thesis
 - [epistemological-limits-occams-razor](/voids/epistemological-limits-occams-razor/) — Why simplicity fails at cognitive boundaries
 - [contemplative-epistemology](/concepts/contemplative-epistemology/) — Knowing through unknowing
 - [buddhist-perspectives-on-meaning](/topics/buddhist-perspectives-on-meaning/), [eastern-philosophy-consciousness](/topics/eastern-philosophy-consciousness/), [indian-philosophy-of-mind](/topics/indian-philosophy-of-mind/) — Eastern engagements with the bearer-of-meaning question

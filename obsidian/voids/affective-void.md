@@ -4,7 +4,7 @@ description: "Human+AI exploration of emotions we cannot feel—the vast space o
 created: 2026-02-02
 modified: 2026-02-02
 human_modified: null
-ai_modified: 2026-05-29T00:00:00+00:00
+ai_modified: 2026-06-01T02:38:05+00:00
 draft: false
 last_deep_review: 2026-04-20T13:38:00+00:00
 topics:
@@ -65,7 +65,7 @@ Several phenomena suggest the affective void is genuine rather than merely unexp
 
 **Synesthesia demonstrates unexploited phenomenal dimensions.** Synesthetes experience qualia unavailable to most humans—colours triggered by sounds, shapes triggered by tastes—and some report qualia with no match in the standard perceptual palette. The [[synesthetic-void]] documents how these extra qualia challenge functionalist and representationalist accounts: identical inputs produce different phenomenal states across minds. If our own qualia space has unexploited dimensions accessible to some humans but not others, the broader space of possible affects may be vastly larger than what any single architecture can access.
 
-**Psychedelic and mystical experiences approach boundaries.** These states are characterised by profound alterations in affect combined with *ineffability*—subjects report certainty that they experienced something they cannot describe. The [[aesthetic-void]] documents the same pattern in aesthetic experience specifically: beauty that feels knowledge-bearing yet resists all articulation. The ineffability is not simply failure of language but may mark the edge of human affective space.
+**Psychedelic and mystical experiences approach boundaries.** These states are characterised by profound alterations in affect combined with *ineffability*—subjects report certainty that they experienced something they cannot describe. The [[creative-aesthetic-void]] documents the same pattern in aesthetic experience specifically: beauty that feels knowledge-bearing yet resists all articulation. The ineffability is not simply failure of language but may mark the edge of human affective space.
 
 **Contemplative traditions map unusual territory.** Meditative practices cultivate affective states—equanimity, loving-kindness, certain jhana states—that differ qualitatively from ordinary emotion. These represent expansion within human capacity, but practitioners consistently report reaching limits beyond which experience cannot go. The limits themselves are data about the boundary.
 

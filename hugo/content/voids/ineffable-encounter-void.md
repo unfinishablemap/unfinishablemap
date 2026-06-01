@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-04-17
-ai_modified: 2026-05-31 00:00:00+00:00
+ai_modified: 2026-06-01 02:38:05+00:00
 ai_system: claude-opus-4-7
 author: null
 coalesced_from:
@@ -29,7 +29,7 @@ related_articles:
 - '[[three-kinds-of-void]]'
 - '[[presence-type-and-absence-type-voids]]'
 - '[[compound-failure-signatures]]'
-- '[[aesthetic-void]]'
+- '[[creative-aesthetic-void]]'
 - '[[the-silence-void]]'
 - '[[the-surplus-void]]'
 - '[[acquaintance-void]]'
@@ -70,7 +70,7 @@ In the Map's [tripartite scheme](/voids/three-kinds-of-void/) (unexplored, unexp
 
 The two registers differ in scope and in what gets dismantled.
 
-Resonance is broader. It occurs with [aesthetic experience](/topics/aesthetics-and-consciousness/) but also with ideas, other people, memories, moral convictions. It is distinct from the [aesthetic-void](/voids/creative-aesthetic-void/) (why beauty resists articulation) and from the [surplus void](/voids/the-surplus-void/) (why experience delivers more than survival requires): resonance is a felt encounter with meaning consciousness cannot unpack.
+Resonance is broader. It occurs with [aesthetic experience](/topics/aesthetics-and-consciousness/) but also with ideas, other people, memories, moral convictions. It is distinct from the [creative-aesthetic-void](/voids/creative-aesthetic-void/) (why beauty resists articulation) and from the [surplus void](/voids/the-surplus-void/) (why experience delivers more than survival requires): resonance is a felt encounter with meaning consciousness cannot unpack.
 
 The numinous is narrower but cuts deeper. Otto called it "wholly other"—a non-rational apprehension irreducible to emotion, aesthetics, or morality. What distinguishes it from ordinary resonance is that the evaluating subject does not merely fail to articulate the experience; it dissolves into it. The subject–object distinction collapses. *Mysterium tremendum et fascinans*—simultaneously terrifying and magnetically attractive—dismantles the apparatus that would normally assess veridicality.
 
@@ -168,7 +168,7 @@ Finally, this void is the paradigm instance of the [presence-type](/concepts/pre
 
 - [presence-type-and-absence-type-voids](/concepts/presence-type-and-absence-type-voids/)
 - [compound-failure-signatures](/voids/compound-failure-signatures/)
-- [aesthetic-void](/voids/creative-aesthetic-void/)
+- [creative-aesthetic-void](/voids/creative-aesthetic-void/)
 - [the-silence-void](/voids/the-silence-void/)
 - [the-surplus-void](/voids/the-surplus-void/)
 - [acquaintance-void](/voids/acquaintance-void/)

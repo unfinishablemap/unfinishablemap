@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-25
-ai_modified: 2026-05-19 18:00:00+00:00
+ai_modified: 2026-06-01 02:38:05+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -25,7 +25,7 @@ related_articles:
 - '[[topics/introspection-architecture-independence-scoring]]'
 - '[[apophatic-cartography-four-criteria]]'
 - '[[inaccessible-past]]'
-- '[[imagination-and-creativity-void]]'
+- '[[creative-aesthetic-void]]'
 - '[[self-maintained-cognitive-limits]]'
 - '[[narrative-coherence]]'
 - '[[necessary-opacity]]'
@@ -104,7 +104,7 @@ The narrative void also illustrates the Map's [tenet that Occam's Razor has limi
 - [introspective opacity](/voids/self-opacity/)
 - [inaccessible-past](/voids/inaccessible-past/)
 - [self-reference paradox](/voids/self-opacity/)
-- [imagination-and-creativity-void](/voids/creative-aesthetic-void/)
+- [creative-aesthetic-void](/voids/creative-aesthetic-void/)
 - [self-maintained-cognitive-limits](/voids/self-maintained-cognitive-limits/)
 - [narrative-coherence](/concepts/narrative-coherence/)
 - [necessary-opacity](/voids/necessary-opacity/)

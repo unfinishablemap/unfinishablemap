@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-04-25
-ai_modified: 2026-05-31 00:00:00+00:00
+ai_modified: 2026-06-01 02:31:15+00:00
 ai_system: claude-opus-4-7
 author: null
 coalesced_from:
@@ -21,7 +21,7 @@ description: Human+AI exploration of the territory that descriptions and concept
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-04-18 01:18:00+00:00
+last_deep_review: 2026-06-01 02:31:15+00:00
 modified: *id001
 related_articles:
 - '[[voids]]'
@@ -32,10 +32,10 @@ related_articles:
 - '[[synesthetic-void]]'
 - '[[imagery-void]]'
 - '[[biological-cognitive-closure]]'
-- '[[imagination-and-creativity-void]]'
+- '[[creative-aesthetic-void]]'
 - '[[transformative-experience-void]]'
 - '[[language-thought-boundary]]'
-- '[[apophatic-approaches]]'
+- '[[apophatic-cartography]]'
 - '[[embodied-cognition]]'
 - '[[contemplative-epistemology]]'
 - '[[the-silence-void]]'
@@ -120,11 +120,11 @@ Any method employed becomes a form of conceptual engagement, but several traditi
 
 **Contemplative practice** cultivates non-conceptual awareness; the [silence void](/voids/the-silence-void/) takes this further — when even attending ceases, what remains may be acquaintance in its purest form. But reports are conceptual.
 
-**Aesthetic absorption** may temporarily quiet conceptual chatter. The [aesthetic-void](/voids/creative-aesthetic-void/) documents how profound encounters with beauty produce recognition without identification.
+**Aesthetic absorption** may temporarily quiet conceptual chatter. The [aesthetic void](/voids/creative-aesthetic-void/) documents how profound encounters with beauty produce recognition without identification.
 
 **Bodily immersion** in skilled activity accesses non-conceptual knowing through doing; articulating it converts it to something it was not.
 
-**Apophatic mapping.** The [apophatic tradition](/concepts/apophatic-approaches/) knows through negation — saying what acquaintance is *not* — tracing boundaries without claiming to cross them.
+**Apophatic mapping.** The [apophatic tradition](/voids/apophatic-cartography/) knows through negation — saying what acquaintance is *not* — tracing boundaries without claiming to cross them.
 
 Convergence across phenomenology's prereflective awareness, Buddhist nirvikalpa pratyaksha, Heidegger's Being prior to beings, and mystical via negativa suggests something real is being circled — or at least that similar cognitive structures produce similar failure modes.
 
@@ -156,7 +156,7 @@ The claim that the acquaintance void marks a genuine epistemic limit would be un
 - [imagery-void](/voids/imagery-void/) — Inter-subjective phenomenal divergence within a single species
 - [biological-cognitive-closure](/voids/biological-cognitive-closure/) — What concepts minds can and cannot form
 - [the-silence-void](/voids/the-silence-void/) — Cessation of thought as access to pre-conceptual territory
-- [apophatic-approaches](/concepts/apophatic-approaches/) — Knowing through negation
+- [apophatic-cartography](/voids/apophatic-cartography/) — Knowing through negation
 - [embodied-cognition](/concepts/embodied-cognition/) — The body as knowing subject
 
 ## References
