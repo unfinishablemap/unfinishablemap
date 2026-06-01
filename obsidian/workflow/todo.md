@@ -46,6 +46,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: pessimistic-review
 - **Generated**: 2026-06-01
 
+### P2: HUMAN length-decision — consciousness-and-the-metaphysics-of-laws-and-dispositions over topics ceiling
+- **Type**: refine-draft
+- **Status**: pending
+- **Notes**: The 2026-06-01 deep review condensed this article from 4239 → 4168 words (~71 words of genuine restatement removed), but it remains ~168 over the 4000 topics hard threshold. The article is a 3×3 cross-product over accounts of laws and accounts of properties, intrinsically needing to address nine combinations plus a tenet-by-tenet "Relation to Site Perspective" section — the remaining length is load-bearing argument, not padding. The decoherence-hostage framing, the internal-coherence-not-empirical qualifier (the 2026-05-31 pessimistic Issue-3 closure), the conditional-necessity/zombie-disanalogy passage, and citation framing are PROTECTED calibration content and must NOT be cut to reclaim length. Human editorial decision needed: (1) raise the topics ceiling for genuine cross-product articles, or (2) approve a structural cut that drops/merges one of the nine combinations. Do NOT auto-condense further; redundancy is exhausted.
+
 ### P2: HUMAN length-decision — post-decoherence-selection-programme over apex ceiling
 - **Type**: refine-draft
 - **Status**: pending
