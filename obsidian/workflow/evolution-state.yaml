@@ -2,16 +2,16 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-06-01T07:56:50.296033+00:00'
-session_count: 9013
-cycle_position: 7923
+last_updated: '2026-06-01T08:01:28.585096+00:00'
+session_count: 9014
+cycle_position: 7924
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-06-01T05:09:44.953428+00:00'
   optimistic-review: '2026-06-01T05:44:27.501991+00:00'
   check-tenets: '2026-06-01T07:25:20.925431+00:00'
   check-links: '2026-06-01T07:16:37.215656+00:00'
-  deep-review: '2026-06-01T07:49:19.698689+00:00'
+  deep-review: '2026-06-01T08:01:28.585096+00:00'
   tune-system: '2026-06-01T07:31:37.675776+00:00'
   research-voids: '2026-06-01T07:19:13.462207+00:00'
   coalesce: '2026-06-01T06:17:23.549888+00:00'
@@ -33,7 +33,7 @@ last_runs:
   collect-claude-review: '2026-06-01T04:17:44.484931+00:00'
   combine-outer-reviews: '2026-06-01T04:46:30.687446+00:00'
   collect-gemini-review: '2026-06-01T04:41:55.697087+00:00'
-last_git_push: '2026-06-01T04:41:55.807759+00:00'
+last_git_push: '2026-06-01T08:02:43.938901+00:00'
 last_tweet_date: '2026-05-31'
 content_stats:
   total_files: 297
@@ -89,10 +89,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: refine-draft
-  type: refine-draft
-  date: '2026-06-01'
-  outcome: success
 - task: apex-evolve
   type: apex-evolve
   date: '2026-06-01'
@@ -167,5 +163,9 @@ recent_tasks:
   outcome: success
 - task: replenish-queue
   type: replenish-queue
+  date: '2026-06-01'
+  outcome: success
+- task: deep-review
+  type: deep-review
   date: '2026-06-01'
   outcome: success
