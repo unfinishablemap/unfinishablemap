@@ -37,6 +37,24 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
+### P2: Reconcile conflicting Escolà-Gascón (2025) citation metadata across entanglement-binding + quantum-consciousness
+- **Type**: refine-draft
+- **Status**: pending
+- **File**: obsidian/concepts/entanglement-binding-hypothesis.md
+- **Notes**: From outer review 2026-06-01 (Gemini 2.5 Pro), residue of Finding #5/6.2. The same paper (Escolà-Gascón 2025, "Evidence of quantum-entangled higher states of consciousness," *Computational and Structural Biotechnology Journal*) is cited with **conflicting metadata** in two articles: `concepts/entanglement-binding-hypothesis.md` gives vol. 26, pp. 166–178 with "31.6% increase in variance"; `concepts/quantum-consciousness.md` gives vol. 30, pp. 21–40 with "13.5% of variance." This is the known AI-citation-unreliability pattern (conflicting volume/page for one source). Action: do ONE live web/literature verification of the correct volume/pages/figures, then reconcile BOTH articles to the verified metadata. Do NOT cross-check intra-corpus only — that propagates the error; web-verify. The reviewer's framing that the site presents this study uncritically is FALSE (both articles already caveat it as "questioned… preliminary and provocative" / "awaits independent replication"); preserve those caveats. Multi-file task: touch both concepts/entanglement-binding-hypothesis.md and concepts/quantum-consciousness.md.
+- **Review file**: `reviews/outer-review-2026-06-01-gemini-2-5-pro.md`
+- **Source**: outer-review
+- **Generated**: 2026-06-01
+
+### P2: Engage Georgiev's quantum-information binding no-go theorem directly in entanglement-binding-hypothesis
+- **Type**: refine-draft
+- **Status**: pending
+- **File**: obsidian/concepts/entanglement-binding-hypothesis.md
+- **Notes**: From outer review 2026-06-01 (Gemini 2.5 Pro), Finding #5 (only finding with residual value; the other four headline "omission" findings are verifiably FALSE — corpus already cites Donadi 2021, Warren 2023, Torres Alegre 2025, Cucu-Pitts 2019; see review's Verification Notes). The corpus engages Georgiev broadly (Zeno Monte-Carlo critique, SNARE model, evolution-of-consciousness) but `entanglement-binding-hypothesis.md` argues non-separability captures phenomenal *structure* without engaging Georgiev's specific quantum-information no-go result — that decomposing a composite quantum state into a tensor product indicates the *splitting* of experiences into independent minds unless restricted Hamiltonian conditions maintain inseparability. Action: add a paragraph engaging this no-go theorem by name (web-verify the exact Georgiev citation — the corpus already cites Georgiev 2017/2018/2024; confirm whether the binding no-go is a distinct 2021 paper or one of these before citing). Frame honestly: this is a real constraint the entanglement-binding hypothesis must answer, not a refutation — the article already concedes the hard problem survives even if binding is vindicated. Apply the direct-refutation discipline: if the no-go genuinely bites, mark it as a structural condition the hypothesis must satisfy (which Hamiltonians prevent the splitting), in natural journal-quality prose, no mode labels in the body.
+- **Review file**: `reviews/outer-review-2026-06-01-gemini-2-5-pro.md`
+- **Source**: outer-review
+- **Generated**: 2026-06-01
+
 ### P1: Confront the bias-without-deviation dilemma head-on in post-decoherence-selection + Bidirectional-Interaction tenet
 - **Type**: refine-draft
 - **Status**: pending

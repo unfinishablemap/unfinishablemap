@@ -5,6 +5,16 @@ ai_modified: 2026-06-01 03:30:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-01T04:45:00+00:00 - outer-review
+- **Status**: Success
+- **Reviewer**: Gemini 2.5 Pro (hostile full-site audit)
+- **File**: [[reviews/outer-review-2026-06-01-gemini-2-5-pro]]
+- **Claims verified**: 6 (all five headline findings + Escolà-Gascón metadata)
+- **High-value findings**: 1 genuine residue (Georgiev binding no-go) + 1 citation defect (Escolà-Gascón conflicting metadata)
+- **Disputed findings**: 4 of 5 — reviewer's "site entirely omits X" claims are FALSE for Donadi 2021, Warren 2023, Torres Alegre 2025, Cucu-Pitts 2019. The corpus explicitly cites and engages all four; the "fatal Born-rule contradiction" (Finding 3) is a strawman the Map's default corridor reading already pre-empts via [[causal-consistency-constraint]]. Verdict ("unfit for submission… deliberately omitting") unsupported by the corpus.
+- **Tasks generated**: 2 (P2: 2) — reconcile Escolà-Gascón citation metadata across two articles; engage Georgiev's binding no-go in entanglement-binding-hypothesis
+- **Convergence**: low — unlike same-cycle Claude/ChatGPT reviews (which converged on the bias-without-deviation dilemma), this review's distinctive contribution is mostly false-omission noise; one shared touch point is the Born-rule/no-signalling locus, but Gemini misreads it where Claude engaged it correctly.
+
 ## 2026-06-01T04:24:34+00:00 - refine-draft
 - **Status**: Success
 - **File**: [[topics/the-binding-problem]]
