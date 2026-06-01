@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-19
-ai_modified: 2026-05-19 17:00:00+00:00
+ai_modified: 2026-06-01 00:00:00+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -38,7 +38,7 @@ description: Skill acquisition challenges epiphenomenalism—deliberate practice
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-04-28 05:42:00+00:00
+last_deep_review: 2026-06-01 00:00:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -103,7 +103,7 @@ Ericsson et al. (1993) established that hours alone do not predict expertise; wh
 
 These four lines converge against epiphenomenalism: if phenomenal quality has zero causal relevance, the tight correlation between engagement quality and neural outcome specificity—from circuit recruitment to myelination—appears unexplained. The identity theorist can accommodate the findings by identifying conscious engagement with the relevant neural patterns; the interactionist reads them as [downward causation](/concepts/mental-causation-and-downward-causation/) operating across timescales from seconds to months. The evidence does not decisively adjudicate between identity and interactionist readings—both remain coherent with the data—but it does seem to weigh against the epiphenomenalist alternative.
 
-The four lines converge on a single evidential move—the quality of conscious engagement tracks neural outcome specificity. The convergence is real but should not be counted as four independent items of evidence against epiphenomenalism; the identity theorist absorbs each line with the same response (identify conscious engagement with the relevant neural patterns), and the four-fold profile is one pattern, not four. The supportive cluster carries the evidential weight of one finding instantiated across timescales and tissue types, not the weight of multiple independent confirmations.
+One calibration caveat governs how much this convergence is worth: it should not be counted as four independent items of evidence. Because the identity theorist absorbs each line with the same single response, the four-fold profile is one pattern instantiated across timescales and tissue types, not four independent confirmations. The supportive cluster carries the evidential weight of one finding, not several.
 
 ## The Paradox of Effortless Mastery
 

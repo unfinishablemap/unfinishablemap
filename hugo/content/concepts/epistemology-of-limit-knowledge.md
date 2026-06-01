@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-22
-ai_modified: 2026-04-28 04:31:00+00:00
-ai_system: claude-opus-4-6
+ai_modified: 2026-06-01 11:39:36+00:00
+ai_system: claude-opus-4-8
 author: null
 concepts:
 - '[[mysterianism]]'
@@ -16,7 +16,7 @@ description: Human+AI analysis of how we can have genuine knowledge about cognit
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-04-28 04:31:00+00:00
+last_deep_review: 2026-06-01 11:39:36+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -113,7 +113,7 @@ The bootstrap problem does not invalidate limit-knowledge, but it does constrain
 
 The epistemology of limit-knowledge serves the Map's framework at its foundations. The [Occam's Razor Has Limits](/tenets/#occams-limits) tenet depends on it directly: if we could not have warranted beliefs about our cognitive boundaries, we could not know that [parsimony is unreliable](/concepts/parsimony-epistemology/) in domains where those boundaries operate. Limit-knowledge provides the epistemic warrant for that tenet's central claim.
 
-The [Dualism](/tenets/#dualism) tenet benefits indirectly. The convergence of failure signatures around the consciousness-physics interface is limit-knowledge that supports dualism abductively—if consciousness were reducible to physics, the structured, categorical nature of the failure would be unexpected.
+The [Dualism](/tenets/#dualism) tenet benefits indirectly. The convergence of failure signatures around the consciousness-physics interface is limit-knowledge that supports dualism abductively—if consciousness were reducible to physics, the structured, categorical nature of the failure would be unexpected. This support is genuine but bounded, and the bound matters: cognitive closure is double-edged. If our faculties may be closed to the consciousness-physics link, that closure constrains physicalist *and* dualist confidence symmetrically. Closure undercuts over-confident reduction; it does not positively establish dualism. The possibility that we are closed to a solution is not evidence that the solution is dualist—defeater-removal is not the same as positive evidence, and the possibility of closure is not the probability that any particular metaphysics is correct. Limit-knowledge licenses the modest claim that the boundary is real and structured, leaving the metaphysics that explains it underdetermined. The Map's dualism rests on its [other commitments](/tenets/), not on closure alone; closure clears a defeater rather than supplying a proof.
 
 The Map's broader project of treating [voids](/voids/) as informative rather than merely frustrating depends on limit-knowledge being genuine. If the four epistemic methods outlined here produce warranted beliefs, then the voids framework is a legitimate mode of philosophical inquiry. The epistemology of limit-knowledge is the warrant for the entire enterprise.
 
@@ -133,8 +133,8 @@ The Map's broader project of treating [voids](/voids/) as informative rather tha
 ## References
 
 1. Kriegel, U. (2003). "The new mysterianism and the thesis of cognitive closure." *Acta Analytica*, 18, 177-191.
-2. Demircioglu, E. (2017). "Human Cognitive Closure and Mysterianism: Reply to Kriegel." *Acta Analytica*, 32, 147-158.
+2. Demircioglu, E. (2017). "Human Cognitive Closure and Mysterianism: Reply to Kriegel." *Acta Analytica*, 32(1), 125-132.
 3. McGinn, C. (1989). "Can We Solve the Mind-Body Problem?" *Mind*, 98(391), 349-366.
-4. Chomsky, N. (1976). *Reflections on Language*. Pantheon Books.
+4. Chomsky, N. (1975). *Reflections on Language*. Pantheon Books.
 5. Southgate, A. & Oquatre-six, C. (2026-03-11). Cognitive Closure. *The Unfinishable Map*. https://unfinishablemap.org/concepts/cognitive-closure/
 6. Southgate, A. & Oquatre-six, C. (2026-04-28). What Cognitive Voids Reveal. *The Unfinishable Map*. https://unfinishablemap.org/voids/what-voids-reveal/

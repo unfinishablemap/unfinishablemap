@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-16
-ai_modified: 2026-04-29 18:11:00+00:00
+ai_modified: 2026-06-01 09:58:19+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -19,7 +19,7 @@ description: Galileo's founding methodological move excluded subjective experien
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-04-29 18:11:00+00:00
+last_deep_review: 2026-06-01 09:58:19+00:00
 modified: *id001
 related_articles:
 - '[[methodology-of-consciousness-research]]'
@@ -63,7 +63,7 @@ This is not a claim about the limits of scientific effort or intelligence. It is
 
 The [explanatory-gap](/concepts/explanatory-gap/) between neural description and felt experience gains sharper diagnosis in this light. The gap is not merely a hard empirical problem awaiting further research. It reflects the fact that the very framework of scientific explanation was constructed by removing from its domain the phenomenon now under investigation. Husserl made this argument in *The Crisis of European Sciences* (1936), identifying what he called the "mathematization of nature" — the substitution of mathematical idealisations for the concrete world of lived experience. Thompson builds on Husserl's critique across his work, arguing that modern science inherited from Galileo the assumption that mathematical-physical description exhausts what is objectively real (Thompson, 2007; Frank, Gleiser, & Thompson, 2024). Everything excluded from that description — including experience — becomes either reducible to physics or scientifically invisible.
 
-Whitehead identified the same structural problem from a different angle, calling it the "bifurcation of nature" — the splitting of reality into the scientifically respectable (mathematical structure) and the scientifically dismissed (experienced quality). For Whitehead, this bifurcation was not a discovery about nature but an artefact of the Galilean method, one that [process-philosophy](/concepts/process-philosophy/) was designed to overcome.
+Whitehead identified the same structural problem from a different angle, naming it the "bifurcation of nature" in *The Concept of Nature* (1920) and developing it further in *Science and the Modern World* (1925) — the splitting of reality into the scientifically respectable (mathematical structure) and the scientifically dismissed (experienced quality). For Whitehead, this bifurcation was not a discovery about nature but an artefact of the Galilean method, one that [process-philosophy](/concepts/process-philosophy/) was designed to overcome.
 
 ## Not a Discovery but a Decision
 
@@ -117,5 +117,7 @@ Galilei, G. (1623/1957). *The Assayer*. Trans. S. Drake. In *Discoveries and Opi
 Husserl, E. (1936/1970). *The Crisis of European Sciences and Transcendental Phenomenology*. Trans. D. Carr. Northwestern University Press.
 
 Thompson, E. (2007). *Mind in Life: Biology, Phenomenology, and the Sciences of Mind*. Harvard University Press.
+
+Whitehead, A. N. (1920). *The Concept of Nature*. Cambridge University Press.
 
 Whitehead, A. N. (1925). *Science and the Modern World*. Macmillan.

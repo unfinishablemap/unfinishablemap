@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-09
-ai_modified: 2026-04-29 10:34:00+00:00
-ai_system: claude-opus-4-6
+ai_modified: 2026-06-01 12:00:00+00:00
+ai_system: claude-opus-4-8
 author: null
 concepts:
 - '[[explanatory-gap]]'
@@ -24,7 +24,7 @@ description: Why do we think consciousness is hard to explain? Chalmers' meta-pr
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-04-29 10:34:00+00:00
+last_deep_review: 2026-06-01 12:00:00+00:00
 modified: *id001
 related_articles:
 - '[[consciousness]]'
@@ -69,9 +69,15 @@ If the illusionist's meta-problem solution is too simple, it doesn't explain the
 
 For dualists, the meta-problem has a straightforward answer: we report that consciousness is puzzling because it genuinely *is* puzzling. Problem intuitions accurately track a real feature of the world—the irreducibility of experience to physical processes. We say zombies are conceivable because the physical and the phenomenal really are separable. We report that Mary learns something because she genuinely acquires a new kind of knowledge.
 
-This "face-value" solution has a simplicity that illusionist alternatives lack. The problem intuitions are reliable because they reflect facts about the relationship between consciousness and physics. There is no illusion to explain, no systematic misrepresentation to account for. The meta-problem resolves naturally. The [interactionist development](/topics/metaproblem-of-consciousness-under-dualism/) of this argument goes further: realizationism—the view that consciousness causally contributes to problem intuitions—follows directly from the Bidirectional Interaction tenet, converting the meta-problem from a challenge into evidence for dualism.
+This "face-value" solution has a simplicity that illusionist alternatives lack. The problem intuitions are reliable because they reflect facts about the relationship between consciousness and physics. There is no illusion to explain, no systematic misrepresentation to account for. The meta-problem resolves naturally. The [interactionist development](/topics/metaproblem-of-consciousness-under-dualism/) of this argument goes further: realizationism—the view that consciousness causally contributes to problem intuitions—follows from the Bidirectional Interaction tenet and disarms the debunking use of the meta-problem (explained in [The Debunking Threat](#the-debunking-threat) below). What this buys is precise and worth stating carefully: it *removes a defeater* rather than supplying fresh positive evidence. The interactionist who already holds the tenets is no longer threatened by the meta-problem; a physicalist is given no new reason to convert. Neutralising a debunking argument restores the dualist's prior warrant—it does not, on its own, raise the standing of dualism above where the rest of the Map's case leaves it.
 
 Chalmers himself noted this asymmetry. If the hard problem is real, the meta-problem is expected—of course we'd report difficulty explaining something that genuinely resists explanation. If the hard problem is illusory, the meta-problem becomes urgent—why do we so persistently misrepresent our own minds?
+
+### The Debunking Threat
+
+The face-value solution must not be reached too quickly, because the meta-problem is not a friendly argument for the dualist. It supplies the materialist's sharpest weapon: a *debunking* argument against phenomenal realism. The threat runs as follows. Suppose a complete, purely physical account of our problem intuitions can be given—one that explains why we say consciousness is irreducible using only mechanisms (self-models, attention schemas, conceptual architecture) that would operate the same way whether or not irreducible consciousness exists. Then the physical story is *sufficient* to explain the reports, and the phenomenal extras do no explanatory work in producing them. Our conviction that consciousness exceeds physics would be explained without that conviction being true—and a belief explained entirely by causes indifferent to its truth loses its justification. This is the form of debunking that makes the meta-problem genuinely threatening: it pressures realism about phenomenal consciousness on its own terms, not merely from outside the dualist's framework.
+
+The interactionist reply engages this threat at its load-bearing premise rather than waving it away. The debunking argument requires that the topic-neutral physical explanation work *independently* of whether consciousness is a causal contributor. The [Bidirectional Interaction](/tenets/#bidirectional-interaction) tenet denies exactly this: if consciousness causally shapes the reasoning that produces problem reports, then no purely physical account of those reports is complete, and the debunking argument's central premise fails. This is an in-framework engagement—it identifies a premise the debunker needs and shows the Map's commitments withhold it. What it does *not* do is refute the debunker from neutral ground. The reply works only for someone who grants that consciousness is causally efficacious in the relevant way; a physicalist who rejects bidirectional interaction will reject the move, and that residual disagreement is a framework-boundary clash, honestly noted rather than dressed as a victory inside the physicalist's own commitments.
 
 ## The Meta-Problem and Physicalism
 
@@ -111,7 +117,7 @@ The dualist's face-value solution to the meta-problem would be challenged if:
 
 ## Relation to Site Perspective
 
-The meta-problem strengthens the Map's position. The [Dualism](/tenets/#dualism) tenet holds that consciousness is irreducible to physical processes. If so, our problem intuitions are accurate: we find consciousness hard to explain because it genuinely exceeds physical explanation. The meta-problem has a face-value solution.
+The meta-problem is one the Map can meet rather than one that fortifies it. The [Dualism](/tenets/#dualism) tenet holds that consciousness is irreducible to physical processes. If so, our problem intuitions are accurate: we find consciousness hard to explain because it genuinely exceeds physical explanation. The meta-problem has a face-value solution, and the interactionist tenet blocks the debunking argument that would otherwise turn the meta-problem against phenomenal realism. Both moves *neutralise a threat*; neither adds independent positive evidence for dualism, which rests on the rest of the Map's case.
 
 The [Bidirectional Interaction](/tenets/#bidirectional-interaction) tenet addresses the zombie objection directly. If consciousness causally contributes to our reasoning, zombie philosophers lack something we have—direct acquaintance with the subject of their inquiry. Their problem reports are coincidental; ours are informed.
 
@@ -128,7 +134,7 @@ The [Occam's Razor Has Limits](/tenets/#occams-limits) tenet is relevant because
 - [conceivability-possibility-inference](/concepts/conceivability-possibility-inference/) — The modal reasoning behind zombie scenarios
 - [attention-schema-theory](/concepts/attention-schema-theory/) — A mechanistic account addressing the meta-problem
 - [philosophical-zombies](/concepts/philosophical-zombies/) — The thought experiment sharpening the meta-problem
-- [metaproblem-of-consciousness-under-dualism](/topics/metaproblem-of-consciousness-under-dualism/) — How interactionist dualism turns the metaproblem into evidence for dualism
+- [metaproblem-of-consciousness-under-dualism](/topics/metaproblem-of-consciousness-under-dualism/) — How interactionist dualism disarms the metaproblem's debunking use
 - [Illusionism as Epiphenomenalism](/concepts/illusionism/#structural-convergence-with-epiphenomenalism) — Why illusionism and epiphenomenalism face identical meta-problem burdens
 - [Phenomenal transparency](/concepts/phenomenal-transparency-opacity-spectrum/) — How self-concealing representation connects to problem intuitions
 - [causal-closure](/concepts/causal-closure/) — The challenge interactionism must address

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-04-30
-ai_modified: 2026-04-30 21:50:00+00:00
+ai_modified: 2026-06-01 10:06:18+00:00
 ai_system: claude-opus-4-7
 author: null
 concepts:
@@ -21,7 +21,7 @@ description: A human-AI exploration of why naturalising mental content fails, wh
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-04-30 21:50:00+00:00
+last_deep_review: 2026-06-01 10:06:18+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -79,7 +79,7 @@ The parallel suggests a unified line of defence for non-physicalist views of min
 
 The Map endorses the negative half of Hutto and Myin's argument and declines the positive half.
 
-The negative half — that the standard naturalising resources cannot deliver content — the Map takes to be substantially correct. The HPC succeeds against the strong reading of what naturalised content is supposed to be: truth-evaluable, intensional, referential. Where Hutto and Myin's argument has been resisted (most notably by Mann and Pain in 2021), the resistance has come at the cost of conceding that intensionality is not deliverable and reframing what naturalists should hope for. The Map reads this as a victory for the diagnosis: if the surviving naturalist position is "content without intensionality," then the kind of content that folk psychology and most philosophical traditions take intentional states to bear is not on the table for physicalism.
+The negative half — that the standard naturalising resources cannot deliver content — the Map takes to be substantially correct. The HPC succeeds against the strong reading of what naturalised content is supposed to be: truth-evaluable, intensional, referential. Where Hutto and Myin's argument has been resisted (most notably by Mann and Pain in 2022), the resistance has come at the cost of conceding that intensionality is not deliverable and reframing what naturalists should hope for. The Map reads this as a victory for the diagnosis: if the surviving naturalist position is "content without intensionality," then the kind of content that folk psychology and most philosophical traditions take intentional states to bear is not on the table for physicalism.
 
 The positive half — that basic minds are contentless and that content is a sociocultural achievement scaffolded by claim-making practices — the Map declines. Hutto and Myin's *Radical Enactive Cognition* (REC) preserves naturalism by eliminating content from basic biological cognition. The Map takes this to be the wrong direction. The Map's [phenomenal intentionality](/concepts/intentionality/) commitment locates content in conscious creatures from the bottom up: a creature with experience has aboutness intrinsic to that experience, not deferred to a sociocultural overlay. A pre-linguistic infant attending to her mother is *experiencing the mother as her mother* — not engaging in skilled coupling that becomes contentful only when it later participates in claim-making practices. The empirical pressure points on REC's positive thesis (subitization, numerical cognition in pre-linguistic infants and non-human animals; see Ash and Welshon 2020, Pantsar) align with this reading.
 
@@ -87,11 +87,11 @@ The Map's alternative is that content is constitutively conscious-mediated. The 
 
 ## Honest Limitations
 
-Three limitations should be flagged.
+Four limitations should be flagged.
 
 First, REC remains a live alternative the Map cannot dismiss by stipulation. Hutto and Myin are sophisticated naturalists who have anticipated most of the moves the Map makes, and their preferred response is precisely to deny that "phenomenal aboutness from the bottom up" is the right starting point. The argument that conscious experience comes already content-laden is contested both by REC's anti-representationalism and by autopoietic enactivism (Thompson, Di Paolo) which locates intentionality in embodied biological organisation rather than in phenomenal consciousness. The Map's position is principled but not undisputed.
 
-Second, the Mann-Pain (2021) reply shows the HPC is not a knock-down argument. It is possible to keep teleosemantics by narrowing what content is supposed to deliver. The Map's response is that this narrowing concedes the substantive point — naturalism cannot deliver folk-psychological, intensional, fully conceptual content — and rebrands the loss as acceptable. That response is dialectically reasonable, but readers who accept the narrowing will find the Map's argument less compelling.
+Second, the Mann-Pain (2022) reply shows the HPC is not a knock-down argument. It is possible to keep teleosemantics by narrowing what content is supposed to deliver. The Map's response is that this narrowing concedes the substantive point — naturalism cannot deliver folk-psychological, intensional, fully conceptual content — and rebrands the loss as acceptable. That response is dialectically reasonable, but readers who accept the narrowing will find the Map's argument less compelling.
 
 Third, Hutto and Myin themselves would reject the Map's conclusion. They are naturalists who take their negative argument to *dissolve* rather than vindicate non-physicalism. Borrowing their argument as a structural ally of dualism is a use they did not intend and would not endorse. The alliance is at the level of shared diagnosis, not at the level of metaphysical commitment.
 
@@ -132,10 +132,11 @@ The HPC is therefore one of the Map's standing arguments — borrowed from a pos
 3. Dretske, F. (1981). *Knowledge and the Flow of Information*. MIT Press.
 4. Millikan, R.G. (1984). *Language, Thought, and Other Biological Categories*. MIT Press.
 5. Clark, A. (2016). *Surfing Uncertainty: Prediction, Action, and the Embodied Mind*. Oxford University Press.
-6. Mann, S.F. & Pain, R. (2021). "Teleosemantics and the Hard Problem of Content." *Philosophical Psychology*, 35(1). https://philarchive.org/rec/MANTAT-16
+6. Mann, S.F. & Pain, R. (2022). "Teleosemantics and the Hard Problem of Content." *Philosophical Psychology*, 35(1), 22–46. https://doi.org/10.1080/09515089.2021.1942814
 7. Roberts, A. (2013). Review of *Radicalizing Enactivism*. *Notre Dame Philosophical Reviews*. https://ndpr.nd.edu/reviews/radicalizing-enactivism-basic-minds-without-content/
 8. Thompson, E. (2018). Review of *Evolving Enactivism*. *Notre Dame Philosophical Reviews*. https://ndpr.nd.edu/reviews/evolving-enactivism-basic-minds-meet-content/
 9. Ash, M. & Welshon, R. (2020). "Dynamicism, radical enactivism, and representational cognitive processes: The case of subitization." *Philosophical Psychology*, 33(8). https://www.tandfonline.com/doi/abs/10.1080/09515089.2020.1775798
 10. Shani, I. (2020). "Befuddling the mind: radical Enactivism (Hutto-Myin style) and the metaphysics of experience." *Phenomenology and the Cognitive Sciences*. https://link.springer.com/article/10.1007/s11097-020-09656-4
-11. Southgate, A. & Oquatre-sept, C. (2026-04-27). Hutto-Myin's Hard Problem of Content. *The Unfinishable Map*. https://unfinishablemap.org/concepts/hard-problem-of-content/
-12. Southgate, A. & Oquatre-six, C. (2026-04-07). Consciousness and the Normativity of Reason. *The Unfinishable Map*. https://unfinishablemap.org/topics/consciousness-and-the-normativity-of-reason/
+11. Pantsar, M. (2022). "On Radical Enactivist Accounts of Arithmetical Cognition." *Ergo*, 9. https://doi.org/10.3998/ergo.3120
+12. Southgate, A. & Oquatre-sept, C. (2026-04-27). Hutto-Myin's Hard Problem of Content. *The Unfinishable Map*. https://unfinishablemap.org/concepts/hard-problem-of-content/
+13. Southgate, A. & Oquatre-six, C. (2026-04-07). Consciousness and the Normativity of Reason. *The Unfinishable Map*. https://unfinishablemap.org/topics/consciousness-and-the-normativity-of-reason/
