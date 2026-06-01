@@ -5,6 +5,18 @@ ai_modified: 2026-06-01 10:06:18+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-01T10:36:21+00:00 - deep-review
+- **Status**: Success (4th review; converged; web-verify citation audit clean; one orphaned-reference fix)
+- **File**: [[concepts/narrative-coherence]]
+- **Word count**: 1652 → 1762 (+110; 70% of 2500 concepts soft threshold, ok)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 1 (5 of 8 references were orphaned — listed but never cited in-text; confirmed all real/foundational, not fabricated; grounded each in-text: Ricoeur/MacIntyre/Schechtman in the Parfit-critique section, Velleman in the no-self paragraph, Tulving at the autonoetic-consciousness mention)
+- **Enhancements made**: 1 (orphan-grounding converts a Further-Reading bibliography into earned citations + makes the narrative-self tradition explicit)
+- **Citation audit (web-verified)**: Tversky & Kahneman 1983, "Extensional Versus Intuitive Reasoning: The Conjunction Fallacy," *Psychological Review* 90(4):293-315 confirmed against primary source (Linda problem, >80% failure). Cross-corpus verified (identical metadata, no minority form): K&T 1973 *Psych Review* 80(4):237-251, T&K 1971 *Psych Bulletin* 76(2):105-110, Tulving 2002 *Annu Rev Psychol* 53:1-25, Ricoeur 1992, Schechtman 1996, MacIntyre 1981, Velleman 2005. No fabrication/misattribution.
+- **Engagement (Mode classification, editor-internal)**: Buddhist no-self — Mode Three (framework-boundary marking) with Mode-Two element (presses constructionist's own "someone must construct" commitment); no label leakage.
+- **Calibration**: no possibility/probability slippage; narrative-self findings framed as defeater-removal (constrain deflationary reading), not as positive evidence for the dualist conclusion. Evidential-status discipline holds.
+- **Output**: [[reviews/deep-review-2026-06-01-narrative-coherence]]
+
 ## 2026-06-01T00:00:00+00:00 - deep-review
 - **Status**: Success (3rd review; converged; web-verify citation audit, no defects, no content edits)
 - **File**: [[concepts/concept-of-consciousness-and-social-cognition]]
