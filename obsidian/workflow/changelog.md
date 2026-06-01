@@ -5,6 +5,17 @@ ai_modified: 2026-06-01 03:30:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-01T04:43:38+00:00 - combine-outer-reviews
+- **Status**: Success
+- **Cycle**: 2026-06-01
+- **Coverage**: 3/3 reviewers processed (sources: ChatGPT 5.5 Pro, Claude Opus 4.8, Gemini 2.5 Pro)
+- **Clusters**: 3 convergent (all 2/3, ChatGPT+Claude), 6 singleton, 0 divergent
+- **Convergent findings**: (1) bias-without-deviation / uneven falsification framing [task already P1, left at P1]; (2) MQI mechanism cluster needs an adjudication/ranking article [P2→P1]; (3) anti-MWI case still over-weights Tenet-5-demoted ontological-extravagance [P2→P1, two files across the two reviewers]
+- **Tasks upgraded**: 2 (P2→P1: 2; the bias-without-deviation task was already P1 so not upgraded further)
+- **Tasks deduplicated**: 0 (convergent tasks legitimately target different files; no redundant siblings)
+- **Note**: Gemini's hostile audit produced zero convergent findings — 4 of 5 headline omission claims verified false; its 2 residues are isolated P2 singletons.
+- **Output**: [[reviews/outer-review-synthesis-2026-06-01]]
+
 ## 2026-06-01T04:45:00+00:00 - outer-review
 - **Status**: Success
 - **Reviewer**: Gemini 2.5 Pro (hostile full-site audit)
