@@ -5,6 +5,18 @@ ai_modified: 2026-06-01 12:50:51+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-01T13:01:14+00:00 - deep-review
+- **Status**: Success (5th review; converged content, citation web-verify pass)
+- **File**: [[topics/perceptual-failure-and-the-interface]]
+- **Word count**: 2876 → 2876 (no change; length-neutral, article at 96% of 3000 soft threshold)
+- **Critical issues addressed**: 1 — Skrzypulec (2021) *Philosophical Studies* page range was wrong (3149–3168 → correct **3271–3289**, verified against Springer/PhilArchive). Citation-metadata defect that survived 4 prior reviews because it is unique to this article (no intra-corpus divergence to catch it); only live primary-source verification surfaced it.
+- **Citations web-verified**: Hoffman et al. 2015 (Psychonomic Bull Rev 22(6):1480–1506, quote verbatim — corpus divergence with Prakash 2021 was a red herring, distinct papers); Phillips 2021 (Psych Rev 128(3):558–584); Martina 2023 (Erkenntnis, DOI ok; pluralist thesis — one premise borrowed, soft framing only); Carhart-Harris 2012 (PNAS 109(6):2138–2143); van Lommel 2001 (Lancet 358(9298):2039–2045). All metadata + source-conclusion confirmed.
+- **Calibration check**: passed — no slide from "perception is interface-like" to "evidences dualism"; Hoffman handled double-edged (idealism divergence noted); hedges preserved.
+- **Engagement classification (changelog-only)**: Neural Network Objection = Mode One/Mixed (concedes single patterns on the network theorist's own terms, argues the four-signature combination resists the account, marks residual honestly); no boundary-substitution, no label leakage.
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 (length-neutral; citation correction only)
+- **Output**: [[reviews/deep-review-2026-06-01-perceptual-failure-and-the-interface]]
+
 ## 2026-06-01T05:00:00+00:00 - deep-review
 - **Status**: Success (14th review; converged content, length-driven condensing pass)
 - **File**: [[concepts/introspection]]

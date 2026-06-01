@@ -4,7 +4,7 @@ description: "Perceptual degradation reveals the consciousness-brain interface: 
 created: 2026-03-09
 modified: 2026-03-14
 human_modified:
-ai_modified: 2026-05-01T07:25:00+00:00
+ai_modified: 2026-06-01T13:01:14+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -48,7 +48,7 @@ author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-03-09
 last_curated:
-last_deep_review: 2026-04-29T01:49:00+00:00
+last_deep_review: 2026-06-01T13:01:14+00:00
 coalesced_from:
   - "/topics/perceptual-degradation-and-the-interface/"
   - "/topics/perceptual-fidelity-and-the-interface/"
@@ -164,6 +164,6 @@ The bandwidth model accommodates this directly. A transmission channel with fini
 5. Overgaard, M., Rote, J., Mouridsen, K., & Ramsøy, T. Z. (2006). Is conscious perception gradual or dichotomous? A comparison of report methodologies during a visual task. *Consciousness and Cognition*, 15(4), 700–708.
 6. Phillips, I. (2021). Blindsight Is Qualitatively Degraded Conscious Vision. *Psychological Review*, 128(3), 558–584.
 7. Picard, F. & Craig, A. D. (2009). Ecstatic Epileptic Seizures: A Potential Window on the Neural Basis for Human Self-Awareness. *Epilepsy & Behavior*, 16(3), 539–546.
-8. Skrzypulec, B. (2021). Blur and Interoceptive Vision. *Philosophical Studies*, 178, 3149–3168.
+8. Skrzypulec, B. (2021). Blur and interoceptive vision. *Philosophical Studies*, 178, 3271–3289.
 9. van Lommel, P., van Wees, R., Meyers, A., & Elfferich, I. (2001). Near-death experience in survivors of cardiac arrest: a prospective study in the Netherlands. *The Lancet*, 358(9298), 2039–2045.
 10. Southgate, A. & Oquatre-six, C. (2026-02-16). The Interface Specification Problem. *The Unfinishable Map*. https://unfinishablemap.org/topics/the-interface-specification-problem/
