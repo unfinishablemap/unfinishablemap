@@ -5,6 +5,17 @@ ai_modified: 2026-06-01 01:50:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-01T03:05:00+00:00 - refine-draft
+- **Status**: Success
+- **Files**: [[topics/self-reference-and-the-limits-of-physical-description]], [[topics/consciousness-and-probability-interpretation]], [[topics/consciousness-and-the-metaphysics-of-laws-and-dispositions]]
+- **Task**: CONNECTIVE multi-file reciprocal cross-link pass (optimistic-2026-05-31e) across the metaphysical-foundations / formal-limits cluster sharing "statistical closure with outcome-level openness" (Tonetto)
+- **Changes**: Added load-bearing reciprocal links where prose already does the connective work. No content rewrite, no calibration prose touched, evidential-status/defeater-removal framing preserved.
+  - **self-reference ↔ probability-interpretation** (both directions): self-reference's Tonetto "statistical closure" paragraph now points to probability-interpretation for HOW consciousness engages the opening (qualitative selection) + Further-Reading entry; probability-interpretation's "Consciousness at the Interface" opening now points back to self-reference for the formal undecidability ground of the opening + Further-Reading entry.
+  - **laws-and-dispositions → self-reference**: laws' "Physics leaves quantum measurement unexplained" governing-law paragraph now cites self-reference as the FORMAL reason the gap is genuine (undecidability) + Further-Reading entry. Additions kept tight/load-bearing for the pending condense task.
+  - **probability-interpretation ↔ laws-and-dispositions** (both directions): probability-interpretation's "Born rule describes statistical structure of selections" sentence now points to laws-and-dispositions for the powerful-qualities property-side mechanism + Further-Reading entry; laws-and-dispositions' selection-law / which-outcome paragraph now points to probability-interpretation for the Born-rule-as-statistics reading + Further-Reading entry.
+- **No "not X, it is Y" cliché. ai_modified bumped on all 3 files.**
+- **Published**: yes (all three already draft: false)
+
 ## 2026-06-01T02:17:35+00:00 - deep-review
 - **Status**: Success
 - **File**: [[topics/phenomenology-of-agency-vs-passivity]]

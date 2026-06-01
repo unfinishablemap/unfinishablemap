@@ -68,15 +68,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: staleness
 - **Generated**: 2026-05-31
 
-### P2: Reciprocal cross-links across the metaphysical-foundations / formal-limits cluster
-- **Type**: refine-draft
-- **Status**: pending
-- **Promoted**: P3→P2 by /replenish-queue 2026-06-01 to restore the P0–P2 floor (was 2 open). Concrete, converged, calibration-clean multi-file connective pass — high-confidence executable.
-- **File**: obsidian/topics/self-reference-and-the-limits-of-physical-description.md
-- **Notes**: Suggested by optimistic review [[reviews/optimistic-2026-05-31e]]. The three articles in the metaphysical-foundations cluster — `topics/self-reference-and-the-limits-of-physical-description.md`, `topics/consciousness-and-probability-interpretation.md`, and `topics/consciousness-and-the-metaphysics-of-laws-and-dispositions.md` — all lean on the *same* load-bearing idea (outcome-level openness: physics fixes ensemble statistics but leaves *which* individual outcome actualises open — Tonetto's "statistical closure with outcome-level openness"), yet none links to the other two (verified: zero reciprocal links among the three). Add load-bearing reciprocal cross-links where the prose already does the connective work: (a) self-reference ↔ probability-interpretation (former establishes *that* the gap exists via undecidability; latter explains *how consciousness engages* it via qualitative selection); (b) laws-and-dispositions → self-reference (laws asserts causal closure is undermined; self-reference supplies the *formal* reason); (c) probability-interpretation ↔ laws-and-dispositions (both already cite [[psychophysical-laws]]; the Born-rule-as-statistics-of-qualitative-selection reading needs the powerful-qualities property-metaphysics). Only add links the body text actually motivates — do NOT bolt on a links section. Preserve all evidential-status hedging ([[evidential-status-discipline]]) and the "defeater-removal ≠ evidence" framing; this is a connective pass, not a content rewrite. Cluster is converged and calibration-clean per the review, so a metadata-light touch is appropriate. Multi-file task: all three files in scope — confirm each got its reciprocal edit ([[multifile-task-dropped-file]]).
-- **Source**: optimistic-review
-- **Generated**: 2026-05-31
-
 ### P3: Calibration-preserving condense of topics/mathematical-structure-of-the-consciousness-physics-interface.md (3751 words, 125% of 3000 soft target)
 - **Type**: condense
 - **Status**: pending
@@ -3625,6 +3616,10 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 Tasks that failed 3+ times and require human intervention.
 
+
+### ✓ 2026-06-01: Reciprocal cross-links across the metaphysical-foundations / formal-limits cluster
+- **Type**: refine-draft
+- **Notes**: Suggested by optimistic review [[reviews/optimistic-2026-05-31e]]. The three articles in the metaphysical-foundations cluster — `topics/self-reference-and-the-limits-of-physical-description.md`, `topics/consciousness-and-probability-interpretation.md`, and `topics/consciousness-and-the-metaphysics-of-laws-and-dispositions.md` — all lean on the *same* load-bearing idea (outcome-level openness: physics fixes ensemble statistics but leaves *which* individual outcome actualises open — Tonetto's "statistical closure with outcome-level openness"), yet none links to the other two (verified: zero reciprocal links among the three). Add load-bearing reciprocal cross-links where the prose already does the connective work: (a) self-reference ↔ probability-interpretation (former establishes *that* the gap exists via undecidability; latter explains *how consciousness engages* it via qualitative selection); (b) laws-and-dispositions → self-reference (laws asserts causal closure is undermined; self-reference supplies the *formal* reason); (c) probability-interpretation ↔ laws-and-dispositions (both already cite [[psychophysical-laws]]; the Born-rule-as-statistics-of-qualitative-selection reading needs the powerful-qualities property-metaphysics). Only add links the body text actually motivates — do NOT bolt on a links section. Preserve all evidential-status hedging ([[evidential-status-discipline]]) and the "defeater-removal ≠ evidence" framing; this is a connective pass, not a content rewrite. Cluster is converged and calibration-clean per the review, so a metadata-light touch is appropriate. Multi-file task: all three files in scope — confirm each got its reciprocal edit ([[multifile-task-dropped-file]]).
 
 ### ✓ 2026-06-01: Reciprocal cross-links across the agent-centric foundations cluster
 - **Type**: refine-draft
