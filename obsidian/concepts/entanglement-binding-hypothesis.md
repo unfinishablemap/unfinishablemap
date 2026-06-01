@@ -4,7 +4,7 @@ description: "Quantum entanglement may be the only physical mechanism that provi
 created: 2026-03-01
 modified: 2026-03-01
 human_modified:
-ai_modified: 2026-05-28T21:46:49+00:00
+ai_modified: 2026-06-01T05:47:31+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -118,7 +118,7 @@ The entanglement binding hypothesis aligns with several of the Map's [[tenets]].
 ## References
 
 1. Baum, E. Quantum Binding Argument: How 40Hz Gamma Synchrony Requires Quantum Non-Locality (And Why Classical Materialism Fundamentally Fails). *PhilArchive*.
-2. Escolà-Gascón, Á. (2025). Evidence of quantum-entangled higher states of consciousness. *Computational and Structural Biotechnology Journal*, 26, 166-178.
+2. Escolà-Gascón, Á. (2025). Evidence of quantum-entangled higher states of consciousness. *Computational and Structural Biotechnology Journal*, 30, 21-40. doi:10.1016/j.csbj.2025.03.001
 3. Hagan, S., Hameroff, S., & Tuszyński, J. (2002). Quantum computation in brain microtubules: Decoherence and biological feasibility. *Physical Review E*, 65, 061901.
 4. Hameroff, S. & Penrose, R. (2014). Consciousness in the universe: A review of the 'Orch OR' theory. *Physics of Life Reviews*, 11, 39-78.
 5. Kerskens, C. M. & Pérez, D. L. (2022). Experimental indications of non-classical brain functions. *Journal of Physics Communications*, 6, 105001.

@@ -4,7 +4,7 @@ description: "How consciousness might interact with quantum mechanics: Orch OR m
 created: 2026-01-09
 modified: 2026-01-25
 human_modified: null
-ai_modified: 2026-05-31T19:53:51+00:00
+ai_modified: 2026-06-01T05:47:31+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -251,7 +251,7 @@ The Map's position is strong emergentism that specifies its mechanism. Mental ca
 
 1. Denton, M. C. J., Smith, L. D., Xu, W., Pugsley, J., Toghill, A., & Kattnig, D. R. (2024). Magnetosensitivity of tightly bound radical pairs in cryptochrome is enabled by the quantum Zeno effect. *Nature Communications*, 15, 10823.
 1. Baum, E. B. (2004). *What Is Thought?* MIT Press.
-1. Escolà-Gascón, Á. (2025). Evidence of quantum-entangled higher states of consciousness. *Computational and Structural Biotechnology Journal*, 30, 21-40.
+1. Escolà-Gascón, Á. (2025). Evidence of quantum-entangled higher states of consciousness. *Computational and Structural Biotechnology Journal*, 30, 21-40. doi:10.1016/j.csbj.2025.03.001
 1. Fisher, M.P.A. (2015). Quantum cognition. *Annals of Physics*, 362, 593-602.
 1. Hagan, S. et al. (2002). Quantum computation in brain microtubules. *Physical Review E*, 65(6), 061901.
 1. Hameroff, S. & Penrose, R. (2014). Consciousness in the universe. *Physics of Life Reviews*.

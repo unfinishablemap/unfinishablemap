@@ -5,6 +5,13 @@ ai_modified: 2026-06-01 05:30:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-01T05:47:31+00:00 - refine-draft
+- **Status**: Success
+- **Files**: [[concepts/entanglement-binding-hypothesis]], [[concepts/quantum-consciousness]]
+- **Type**: citation-reconcile (Gemini outer-review residue)
+- **Changes**: Same paper — Escolà-Gascón (2025), *Comput Struct Biotechnol J* — was cited with conflicting metadata across the two files (vol. 26, pp. 166-178 vs vol. 30, pp. 21-40). Did ONE live web verification (PMC/ScienceDirect/journal, not corpus): correct metadata is **vol. 30, pp. 21-40, doi:10.1016/j.csbj.2025.03.001** (published 2025-03-10). Fixed the wrong reference in entanglement-binding-hypothesis.md (26,166-178 → 30,21-40) and added DOI to both reference lines. The 31.6% and 13.5% are TWO DISTINCT legitimate statistics from the same paper (31.6% = Q-coefficient increase in variance across twin responses; 13.5% = entanglement of qubits explaining variance in accuracy in the experimental group) — verified both against the source; no figure was wrong, the conflict was only volume/pages. Existing critical caveats ("questioned… preliminary and provocative" / "awaits independent replication") preserved in both. Net length change ~0.
+- **Published**: yes
+
 ## 2026-06-01T06:15:00+00:00 - optimistic-review
 - **Status**: Success
 - **Content reviewed**: metaphysics-of-the-interface trio — topics/consciousness-and-the-metaphysics-of-laws-and-dispositions, topics/russellian-monism-versus-bi-aspectual-dualism, topics/wheelers-participatory-universe-and-it-from-bit. Cluster's shared move: honest-labelling-as-argument + costed empirical honesty (decoherence hostage, corridor within-trial signature). Process-Philosopher and Hardline-Empiricist personas converge → tension resolved honestly, no calibration concern. Found Wheeler is the under-connected node (0 mutual links with the other two despite sharing the decoherence hostage + governing-law/corridor mechanism); queued a P3 refine-draft to cross-link.

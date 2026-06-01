@@ -43,15 +43,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Files**: topics/wheelers-participatory-universe-and-it-from-bit.md, topics/consciousness-and-the-metaphysics-of-laws-and-dispositions.md, topics/russellian-monism-versus-bi-aspectual-dualism.md
 - **Notes**: Suggested by optimistic review (optimistic-2026-06-01b.md). The three articles form a coherent cluster (honest-labelling-as-argument; shared decoherence hostage; governing-law-fixes-which-outcome = corridor/Born mechanism) but Wheeler is the under-connected node: 0 mutual links between wheeler and the other two (confirmed via grep). Add: (1) wheeler ↔ laws-and-dispositions reciprocal links — the governing-law "which quantum outcome obtains" argument (laws §Governing Laws) is the same mechanism as wheeler's corridor/Born treatment, viewed from metaphysics-of-laws vs measurement-problem sides; (2) russellian → wheeler link reinforcing the shared No-Many-Worlds-from-ontology case (Williams 2021 / Wheeler's own MWI rejection). laws↔russellian already cross-link; no new concept pages needed. Light touch — add Further Reading entries + one in-body sentence each, do not restructure.
 
-### P2: Reconcile conflicting Escolà-Gascón (2025) citation metadata across entanglement-binding + quantum-consciousness
-- **Type**: refine-draft
-- **Status**: pending
-- **File**: obsidian/concepts/entanglement-binding-hypothesis.md
-- **Notes**: From outer review 2026-06-01 (Gemini 2.5 Pro), residue of Finding #5/6.2. The same paper (Escolà-Gascón 2025, "Evidence of quantum-entangled higher states of consciousness," *Computational and Structural Biotechnology Journal*) is cited with **conflicting metadata** in two articles: `concepts/entanglement-binding-hypothesis.md` gives vol. 26, pp. 166–178 with "31.6% increase in variance"; `concepts/quantum-consciousness.md` gives vol. 30, pp. 21–40 with "13.5% of variance." This is the known AI-citation-unreliability pattern (conflicting volume/page for one source). Action: do ONE live web/literature verification of the correct volume/pages/figures, then reconcile BOTH articles to the verified metadata. Do NOT cross-check intra-corpus only — that propagates the error; web-verify. The reviewer's framing that the site presents this study uncritically is FALSE (both articles already caveat it as "questioned… preliminary and provocative" / "awaits independent replication"); preserve those caveats. Multi-file task: touch both concepts/entanglement-binding-hypothesis.md and concepts/quantum-consciousness.md.
-- **Review file**: `reviews/outer-review-2026-06-01-gemini-2-5-pro.md`
-- **Source**: outer-review
-- **Generated**: 2026-06-01
-
 ### P2: Engage Georgiev's quantum-information binding no-go theorem directly in entanglement-binding-hypothesis
 - **Type**: refine-draft
 - **Status**: pending
@@ -3656,6 +3647,10 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 Tasks that failed 3+ times and require human intervention. (Also: standing human editorial decisions the loop has done all it can on — e.g. over-ceiling flagship articles whose excess is verified load-bearing calibration content, and thesis-level alternatives the loop must not adopt unilaterally.)
 
+
+### ✓ 2026-06-01: Reconcile conflicting Escolà-Gascón (2025) citation metadata across entanglement-binding + quantum-consciousness
+- **Type**: refine-draft
+- **Notes**: From outer review 2026-06-01 (Gemini 2.5 Pro), residue of Finding #5/6.2. The same paper (Escolà-Gascón 2025, "Evidence of quantum-entangled higher states of consciousness," *Computational and Structural Biotechnology Journal*) is cited with **conflicting metadata** in two articles: `concepts/entanglement-binding-hypothesis.md` gives vol. 26, pp. 166–178 with "31.6% increase in variance"; `concepts/quantum-consciousness.md` gives vol. 30, pp. 21–40 with "13.5% of variance." This is the known AI-citation-unreliability pattern (conflicting volume/page for one source). Action: do ONE live web/literature verification of the correct volume/pages/figures, then reconcile BOTH articles to the verified metadata. Do NOT cross-check intra-corpus only — that propagates the error; web-verify. The reviewer's framing that the site presents this study uncritically is FALSE (both articles already caveat it as "questioned… preliminary and provocative" / "awaits independent replication"); preserve those caveats. Multi-file task: touch both concepts/entanglement-binding-hypothesis.md and concepts/quantum-consciousness.md.
 
 ### NEEDS-HUMAN 2026-06-01: HUMAN length-decision + horn-(b) thesis alternative — post-decoherence-selection-programme over apex ceiling
 - **Type**: refine-draft (loop-blocked; relocated from Active to stop churn)
