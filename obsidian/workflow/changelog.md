@@ -5,6 +5,16 @@ ai_modified: 2026-06-01 05:30:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-01T05:53:34+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[concepts/entanglement-binding-hypothesis]]
+- **Type**: objection-engagement (Gemini outer-review Finding #5, the genuine residue)
+- **Changes**: Added one new section ("The Separability No-Go", two paragraphs) engaging Georgiev's quantum-information binding constraint by name, plus its reference. The article argued non-separability captures phenomenal *structure* without answering Georgiev's specific result: a tensor-product decomposition of a composite state marks separable, non-interacting subsystems — on the mind=non-factorizable-state identification, a *split* into independent minds — and quantum coherence of *isolated* subsystems is precisely the regime that preserves that separability. Framed honestly per direct-refutation discipline: stated the strongest no-go first (coherence alone → split minds, not binding), THEN the hypothesis's reply — binding must live in the *interaction term*, not coherence: a non-zero interaction Hamiltonian coupling microtubule states across neurons generates and sustains the inseparability, reframing the substrate requirement from protected per-subsystem coherence to a persistently coupled non-separable composite. Conceded openly that if the brain cannot meet the interaction conditions the separability result stands as a live constraint not yet discharged. Preserved the article's distinct hard-problem concession (binding-level constraint ≠ hard-problem survival). Engagement with Georgiev: Mode Two (unsupported foundational move surfaced from the opponent's own formalism) shading to Mode Three (boundary-marked open empirical question on biological scale) — honest concession, no in-framework refutation claimed.
+- **Citation (WEB-VERIFIED, not from memory)**: Georgiev, D. D. (2021). Quantum information in neural systems. *Symmetry*, 13(5), 773. doi:10.3390/sym13050773. Confirmed DISTINCT from the corpus's already-cited Georgiev 2017 (book) and 2018 (SNARE/Glazebrook). Verified the exact claims via arXiv:2105.01410 abstract+body: "quantum coherence of individual subsystems cannot be used for cognitive binding because it is a physical mechanism that leads to separability and non-interaction" and the non-zero interaction Hamiltonian as what "allows for decoherence of the individual quantum subsystems along with their mutual interaction and quantum entanglement."
+- **Length**: body before ~2050w / after ~2377w (file wc incl. frontmatter). Under the concepts 2500 soft cap; the +~327w is a load-bearing objection-engagement.
+- **Scope**: touched only this file; did NOT disturb the same-session Escolà-Gascón citation reconcile or other content. New ref inserted alphabetically as #3, list renumbered 3→15 (body cites author-year, not by number).
+- **Published**: yes
+
 ## 2026-06-01T05:47:31+00:00 - refine-draft
 - **Status**: Success
 - **Files**: [[concepts/entanglement-binding-hypothesis]], [[concepts/quantum-consciousness]]

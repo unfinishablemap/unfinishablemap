@@ -43,15 +43,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Files**: topics/wheelers-participatory-universe-and-it-from-bit.md, topics/consciousness-and-the-metaphysics-of-laws-and-dispositions.md, topics/russellian-monism-versus-bi-aspectual-dualism.md
 - **Notes**: Suggested by optimistic review (optimistic-2026-06-01b.md). The three articles form a coherent cluster (honest-labelling-as-argument; shared decoherence hostage; governing-law-fixes-which-outcome = corridor/Born mechanism) but Wheeler is the under-connected node: 0 mutual links between wheeler and the other two (confirmed via grep). Add: (1) wheeler ↔ laws-and-dispositions reciprocal links — the governing-law "which quantum outcome obtains" argument (laws §Governing Laws) is the same mechanism as wheeler's corridor/Born treatment, viewed from metaphysics-of-laws vs measurement-problem sides; (2) russellian → wheeler link reinforcing the shared No-Many-Worlds-from-ontology case (Williams 2021 / Wheeler's own MWI rejection). laws↔russellian already cross-link; no new concept pages needed. Light touch — add Further Reading entries + one in-body sentence each, do not restructure.
 
-### P2: Engage Georgiev's quantum-information binding no-go theorem directly in entanglement-binding-hypothesis
-- **Type**: refine-draft
-- **Status**: pending
-- **File**: obsidian/concepts/entanglement-binding-hypothesis.md
-- **Notes**: From outer review 2026-06-01 (Gemini 2.5 Pro), Finding #5 (only finding with residual value; the other four headline "omission" findings are verifiably FALSE — corpus already cites Donadi 2021, Warren 2023, Torres Alegre 2025, Cucu-Pitts 2019; see review's Verification Notes). The corpus engages Georgiev broadly (Zeno Monte-Carlo critique, SNARE model, evolution-of-consciousness) but `entanglement-binding-hypothesis.md` argues non-separability captures phenomenal *structure* without engaging Georgiev's specific quantum-information no-go result — that decomposing a composite quantum state into a tensor product indicates the *splitting* of experiences into independent minds unless restricted Hamiltonian conditions maintain inseparability. Action: add a paragraph engaging this no-go theorem by name (web-verify the exact Georgiev citation — the corpus already cites Georgiev 2017/2018/2024; confirm whether the binding no-go is a distinct 2021 paper or one of these before citing). Frame honestly: this is a real constraint the entanglement-binding hypothesis must answer, not a refutation — the article already concedes the hard problem survives even if binding is vindicated. Apply the direct-refutation discipline: if the no-go genuinely bites, mark it as a structural condition the hypothesis must satisfy (which Hamiltonians prevent the splitting), in natural journal-quality prose, no mode labels in the body.
-- **Review file**: `reviews/outer-review-2026-06-01-gemini-2-5-pro.md`
-- **Source**: outer-review
-- **Generated**: 2026-06-01
-
 ### P2: Verification corrections bundle — Tenets-page citation, FBT verb, photosynthesis precedent-not-licence, MWI ontological-extravagance residue
 - **Type**: refine-draft
 - **Status**: pending
@@ -3647,6 +3638,10 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 Tasks that failed 3+ times and require human intervention. (Also: standing human editorial decisions the loop has done all it can on — e.g. over-ceiling flagship articles whose excess is verified load-bearing calibration content, and thesis-level alternatives the loop must not adopt unilaterally.)
 
+
+### ✓ 2026-06-01: Engage Georgiev's quantum-information binding no-go theorem directly in entanglement-binding-hypothesis
+- **Type**: refine-draft
+- **Notes**: From outer review 2026-06-01 (Gemini 2.5 Pro), Finding #5 (only finding with residual value; the other four headline "omission" findings are verifiably FALSE — corpus already cites Donadi 2021, Warren 2023, Torres Alegre 2025, Cucu-Pitts 2019; see review's Verification Notes). The corpus engages Georgiev broadly (Zeno Monte-Carlo critique, SNARE model, evolution-of-consciousness) but `entanglement-binding-hypothesis.md` argues non-separability captures phenomenal *structure* without engaging Georgiev's specific quantum-information no-go result — that decomposing a composite quantum state into a tensor product indicates the *splitting* of experiences into independent minds unless restricted Hamiltonian conditions maintain inseparability. Action: add a paragraph engaging this no-go theorem by name (web-verify the exact Georgiev citation — the corpus already cites Georgiev 2017/2018/2024; confirm whether the binding no-go is a distinct 2021 paper or one of these before citing). Frame honestly: this is a real constraint the entanglement-binding hypothesis must answer, not a refutation — the article already concedes the hard problem survives even if binding is vindicated. Apply the direct-refutation discipline: if the no-go genuinely bites, mark it as a structural condition the hypothesis must satisfy (which Hamiltonians prevent the splitting), in natural journal-quality prose, no mode labels in the body.
 
 ### ✓ 2026-06-01: Reconcile conflicting Escolà-Gascón (2025) citation metadata across entanglement-binding + quantum-consciousness
 - **Type**: refine-draft
