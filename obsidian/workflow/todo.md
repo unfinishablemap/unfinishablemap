@@ -37,9 +37,9 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Adopt higher-order-theories calibration in phenomenology-of-recursive-self-awareness
+### ✓ RESOLVED-OBSOLETE (2026-06-01): Adopt higher-order-theories calibration in phenomenology-of-recursive-self-awareness
 - **Type**: refine-draft
-- **Status**: pending
+- **Status**: complete (2026-06-01) — RESOLVED-OBSOLETE by the sibling metacognition-anchor refine (commit a06393a2). Both anchor flags shared the same root defect (2 strong-assertion verbs); softening those to calibrated alternatives dropped strong_assertions below threshold, and an AnchoringFlag requires ≥2 failed checks, so the higher-order-theories anchor no longer activates. Verified: tools.curate.anchoring.evaluate_anchoring now returns 0 live flags for this article. Per [[anchoring-audit-sibling-tasks-stale]] — re-refining would risk over-hedging into mush against the 7.96/kw outlier bar. No further action.
 - **File**: obsidian/topics/phenomenology-of-recursive-self-awareness.md
 - **Notes**: From topic-concept anchoring audit 2026-06-01. The topic article over-claims relative to its anchor concept [[higher-order-theories]]; failed checks: hedge_density, strong_assertions.
   - hedge density 3.72/kw is below 60% of anchor (7.96/kw)
