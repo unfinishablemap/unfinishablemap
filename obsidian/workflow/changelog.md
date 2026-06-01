@@ -5,6 +5,13 @@ ai_modified: 2026-06-01 12:50:51+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-01T16:22:00+00:00 - pessimistic-review
+- **Status**: Success
+- **Content reviewed**: concepts/emergence.md (oldest substantive article never given a dedicated pessimistic review)
+- **Key findings**: broken `#Testability` anchor to binding-problem; "five candidate coupling mechanisms" mis-states psychophysical-laws.md (citation-count risk); asserted strong-emergence prose vs. canonical bi-aspectual framing; unfalsifiability escape hatch left live. Altered-state symmetry audit N/A (supportive-cluster gate fails); reasoning-mode/label-leakage clean.
+- **Output**: [[reviews/pessimistic-2026-06-01-emergence]]
+- **Follow-up**: P2 refine-draft task added to todo.md
+
 ## 2026-06-01T00:00:00+00:00 - deep-review
 - **Status**: Success
 - **File**: [[concepts/metaphysics-of-information-under-dualism]]

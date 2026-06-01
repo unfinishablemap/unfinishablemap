@@ -37,6 +37,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
+### P2: Address pessimistic-review findings in concepts/emergence.md
+- **Type**: refine-draft
+- **Status**: pending
+- **Notes**: Pessimistic review 2026-06-01 found (1) broken anchor `[[binding-problem#Testability]]` — actual heading is "Testable Commitments"; (2) "surveys five candidate coupling mechanisms" mis-states `psychophysical-laws.md`, which enumerates ~3 and explicitly says no mechanism exists for valence/qualia/unity — align the count or use "several" (web/source-verify at edit time, citation-count risk); (3) asserted "consciousness *is* strongly emergent" / "arises from" prose contradicts the canonical bi-aspectual co-fundamental framing — mark those attributions as comparative, propagating the disclaimer already in §"vocabulary serves comparison"; (4) §Conservation-law-tests leaves the "below detection threshold" unfalsifiability escape live right after flagging the risk. Preserve the article's honest open-coupling voice. See pessimistic-2026-06-01-emergence.md
+
 ### P2: Deep review concepts/constitutive-vs-referring-observation.md (34 days since last review, ai_contribution=100, quantum-measurement / observer cluster)
 - **Type**: deep-review
 - **File**: obsidian/concepts/constitutive-vs-referring-observation.md
