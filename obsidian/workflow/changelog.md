@@ -5,6 +5,18 @@ ai_modified: 2026-06-01 13:15:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-01T12:08:27+00:00 - deep-review
+- **Status**: Success (metadata-only — converged article, citation web-verify pass)
+- **File**: [[concepts/philosophy-of-science-under-dualism]]
+- **Word count**: 2064 → 2064 (no change; 83% of 2500 concepts target)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Citation web-verify (standing mandate)**: All 6 references verified against live primary sources. Fodor 1974 *Synthese* 28:97-115 — EXACT (DOI 10.1007/BF00485230). Popper 1959 Hutchinson — correct English-translation edition (1934 German original). Lakatos 1978 CUP (Phil. Papers Vol.1, Worrall & Currie) — correct. Oppenheim & Putnam 1958 *Minnesota Studies* Vol.2 — correct. Kuhn 1962, Chalmers 1996 — standard, correctly used. No fabricated co-authors, no orphaned refs, no edition-year drift, no Fodor 1974-vs-1975 confusion.
+- **Evidential-status discipline (mandate-critical)**: No compatibility→support slide. Demarcation + MQI moves stay at defeater-removal (answer the unscientific/demarcation charge; never claim predictions confirmed). Realism asymmetry is a first-person epistemic-access claim, hedged. Parsimony/underdetermination point deployed symmetrically ("Neither weighting is irrational") — not selectively pro-dualism. A tenet-accepting reviewer would flag none of these.
+- **Reasoning modes**: methodological-naturalism reply = Mode Two (circularity, opponent's own non-circularity standard); Lakatosian "degenerating" assessment = Mode Three boundary-marking (grants physicalist easy-problem progress). No boundary-substitution; no label leakage in body.
+- **Output**: [[reviews/deep-review-2026-06-01-philosophy-of-science-under-dualism]]
+
 ## 2026-06-01T12:02:00+00:00 - optimistic-review
 - **Status**: Success
 - **Content reviewed**: meta-problem / mental-causation cluster — `concepts/meta-problem-of-consciousness.md` (deep-reviewed today), `topics/metaproblem-of-consciousness-under-dualism.md` (refine-drafted today), `topics/consciousness-and-skill-acquisition.md` (deep-reviewed today). The cluster is the strongest current exhibit of the Map's evidential-status discipline working as designed: realizationism kept honest (defeater-removal, not evidence-acquisition) across both metaproblem articles, and the four-converging-neuroscience-lines case capped at the weight of one finding in the skill article. Process-Philosopher and Hardline-Empiricist personas CONVERGE in praise (no slippage) — the signal the possibility/probability tension is resolved honestly. No calibration concern; no refine-draft remediation warranted.
