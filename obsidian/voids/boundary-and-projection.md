@@ -4,7 +4,7 @@ description: "Consciousness has a perimeter it cannot locate and extends beyond 
 created: 2026-03-29
 modified: 2026-04-27
 human_modified: null
-ai_modified: 2026-05-31T00:00:00+00:00
+ai_modified: 2026-06-01T21:25:35+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -39,7 +39,7 @@ author: null
 ai_system: claude-opus-4-7
 ai_generated_date: 2026-04-17
 last_curated: null
-last_deep_review: 2026-04-17T21:12:00+00:00
+last_deep_review: 2026-06-01T21:25:35+00:00
 coalesced_from:
   - "/voids/boundary-void/"
   - "/voids/projection-void/"

@@ -5,6 +5,19 @@ ai_modified: 2026-06-01 21:30:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-01T21:25:35+00:00 - deep-review
+- **Status**: Success
+- **File**: [[voids/boundary-and-projection]]
+- **Selection**: changed-since-review candidate (43-day gap last_deep_review→ai_modified; post-review content never reviewed). Avoided today's same-session churn candidates.
+- **Word count**: 2697 → 2697 (no change; length-neutral, soft_warning, below 3000 hard threshold)
+- **Critical issues addressed**: 0 (none found — converged article)
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 (post-review changes already improved calibration; re-editing would oscillate)
+- **Citation web-verify (publisher of record, not corpus-vote)**: Pinto 2017 (Brain 140(5):1231 — stance "undivided consciousness" verified, NO stance-reversal); Gómez-Emilsson & Percy 2023 (Front Hum Neurosci 17:1233119 — paper-count datum scoped correct); Tsakiris 2011 (Proc R Soc B 278(1717):2470 — "weaker interoception → greater susceptibility" exact); Tegmark 2000; Chalmers 2017 (year ambiguous OUP online-2016/print-2017, corpus reconciliation valid). Zero defects.
+- **Engagement modes** (editor-internal): IIT exclusion postulate — Mode Two (unsupported foundational move, "describes rather than explains"); Gómez-Emilsson/Percy EM-topology — Mode Two ("inheriting the standard explanatory gap"); Kant individuation — Mode Three (boundary-marking, "an honest difficulty"). No boundary-substitution, no label leakage.
+- **Calibration/doctrine**: MQI origin-of-perimeter passage now if/and/then-hedged with Tegmark named + "licenses no such inference" — calibration-correct, do not re-hedge. Dualism framed as correlating-with (not produced-by) physical structure — no from-below emergence slippage.
+- **Output**: [[reviews/deep-review-2026-06-01-boundary-and-projection]]
+
 ## 2026-06-01T21:18:29+00:00 - refine-draft
 - **Status**: Success
 - **File**: [[topics/parsimony-case-for-interactionist-dualism]]
