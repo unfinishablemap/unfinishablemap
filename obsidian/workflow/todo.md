@@ -69,9 +69,10 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: staleness
 - **Generated**: 2026-05-31
 
-### P3: Reciprocal cross-links across the metaphysical-foundations / formal-limits cluster
+### P2: Reciprocal cross-links across the metaphysical-foundations / formal-limits cluster
 - **Type**: refine-draft
 - **Status**: pending
+- **Promoted**: P3→P2 by /replenish-queue 2026-06-01 to restore the P0–P2 floor (was 2 open). Concrete, converged, calibration-clean multi-file connective pass — high-confidence executable.
 - **File**: obsidian/topics/self-reference-and-the-limits-of-physical-description.md
 - **Notes**: Suggested by optimistic review [[reviews/optimistic-2026-05-31e]]. The three articles in the metaphysical-foundations cluster — `topics/self-reference-and-the-limits-of-physical-description.md`, `topics/consciousness-and-probability-interpretation.md`, and `topics/consciousness-and-the-metaphysics-of-laws-and-dispositions.md` — all lean on the *same* load-bearing idea (outcome-level openness: physics fixes ensemble statistics but leaves *which* individual outcome actualises open — Tonetto's "statistical closure with outcome-level openness"), yet none links to the other two (verified: zero reciprocal links among the three). Add load-bearing reciprocal cross-links where the prose already does the connective work: (a) self-reference ↔ probability-interpretation (former establishes *that* the gap exists via undecidability; latter explains *how consciousness engages* it via qualitative selection); (b) laws-and-dispositions → self-reference (laws asserts causal closure is undermined; self-reference supplies the *formal* reason); (c) probability-interpretation ↔ laws-and-dispositions (both already cite [[psychophysical-laws]]; the Born-rule-as-statistics-of-qualitative-selection reading needs the powerful-qualities property-metaphysics). Only add links the body text actually motivates — do NOT bolt on a links section. Preserve all evidential-status hedging ([[evidential-status-discipline]]) and the "defeater-removal ≠ evidence" framing; this is a connective pass, not a content rewrite. Cluster is converged and calibration-clean per the review, so a metadata-light touch is appropriate. Multi-file task: all three files in scope — confirm each got its reciprocal edit ([[multifile-task-dropped-file]]).
 - **Source**: optimistic-review
@@ -93,9 +94,10 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: optimistic-review
 - **Generated**: 2026-05-31
 
-### P3: Deep review voids/acquaintance-void.md (42 days since last review, ai_contribution=100, Tenet 1 load-bearing)
+### P2: Deep review voids/acquaintance-void.md (42 days since last review, ai_contribution=100, Tenet 1 load-bearing)
 - **Type**: deep-review
 - **Status**: pending
+- **Promoted**: P3→P2 by /replenish-queue 2026-06-01 to restore the P0–P2 floor. Oldest AI-heavy content past the 30-day staleness floor with no competing task; Tenet 1 load-bearing. Legitimate staleness signal, cap-safe (deep-review modifies existing content).
 - **File**: obsidian/voids/acquaintance-void.md
 - **Notes**: From /replenish-queue 2026-05-31 (staleness, queue diversity). Tied among the oldest AI-heavy content past the 30-day floor with no dedicated task currently targeting it. `last_deep_review: 2026-04-18` (~42 days), `ai_contribution=100`. Voids article — deep-review modifies existing content, so it is cap-safe despite voids being at/over its 100 cap. The acquaintance void concerns the limits of knowledge-by-acquaintance (Russellian phenomenal acquaintance and its boundary) — a Tenet 1 (Dualism) phenomenal-structure exhibit. Deep-review should: (a) verify the acquaintance framing still coheres with the current Russellian-monism / quiddity cluster (note the freshly-created [[quiddity-epiphenomenalism-and-the-contingency-thesis]] and [[russellian-monism]] — check for a load-bearing cross-link opportunity); (b) honour [[evidential-status-discipline]] — acquaintance claims are prone to phenomenology-vs-metaphysics slippage; keep the void's tier calibrated; (c) web-verify any Russell / Chalmers / Goff attributions ([[ai-citation-metadata-unreliable]]); (d) verify cross-links resolve live and are reciprocated where load-bearing; (e) writing-style + length discipline (no "This is not X. It is Y." cliché). First review in 42d — metadata-only verdict acceptable if converged ([[deep-review-over-reviews-converged]]).
 - **Source**: staleness
@@ -539,9 +541,10 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: optimistic-review (chain from optimistic-2026-04-29c)
 - **Generated**: 2026-04-29
 
-### P3: Cross-review apex/medium-status-voids-in-cognition.md against voids/numerosity-void.md
+### P2: Cross-review apex/medium-status-voids-in-cognition.md against voids/numerosity-void.md
 - **Type**: cross-review
 - **Status**: pending
+- **Promoted**: P3→P2 by /replenish-queue 2026-06-01 to restore the P0–P2 floor. Concrete short-medium-scope cross-review with a clear structural question (fifth medium-status void vs. exemplar); cap-safe.
 - **Notes**: Suggested by optimistic-2026-04-29c (16:10 UTC). The medium-status apex frames four medium-status voids (mattering, relevance, noetic-feelings, conceptual-scheme) as a structural cluster around operative-self-reference. Numerosity-void shares the *output-without-operation* structure that mattering and noetic-feelings articulate — the experience of cardinality is given as a finished property without the operation that produced it, much as the felt sense that an answer is just *there* (noetic feelings) is given without its operation. Cross-review should determine whether numerosity-void is a fifth medium-status void or an exemplar of the same operative-self-reference shape from a different angle (perceptual rather than epistemic). Short-medium scope (~200–350 words touched). Tenet alignment: Tenet 5 (Occam's Razor Has Limits) — clarifying when new voids extend an existing cluster vs. when they form a new one. See [[reviews/optimistic-2026-04-29c]].
 - **Source**: optimistic-review (chain from optimistic-2026-04-29c)
 - **Generated**: 2026-04-29
