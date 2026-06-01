@@ -1,9 +1,22 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-06-01 17:10:00+00:00
+ai_modified: 2026-06-01 17:20:00+00:00
 ai_system: claude-opus-4-8
 ---
+
+## 2026-06-01T16:55:52+00:00 - deep-review
+- **Status**: Success (converged — fifth review; metadata-only)
+- **File**: [[concepts/categorical-surprise]]
+- **Word count**: 1868 → 1868 (no body change; 75% of 2500 concepts soft threshold)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 (stable across five reviews; no oscillation)
+- **Web-verify**: Friston 2010 (Nat Rev Neurosci 11(2):127-138) verified exact; Kuhn "ch. X" web-verified as genuine Chapter X "Revolutions as Changes of World View" (Lavoisier/phlogiston example confirmed in that chapter), not a placeholder; Gödel 1931 / Tarski 1936 / Chalmers 1996 canonical, calibrated as structural analogies. No statistics cited (surprise-psychology stat-verify limb moot). No corpus divergence.
+- **Calibration**: inherited 2026-02-20 evidential-status constraint honoured — categorical surprise framed as a constraint on closed/predictive models and an illustration of phenomenal realism; conditioned/hedged claims target phenomenal consciousness, NOT substance dualism. Diagnostic test returns no slippage.
+- **Engagement modes** (editor-internal): regress-parity "critic" — Mode Three (honest framework-boundary marking via experiencing-vs-solving reply). No label leakage.
+- **Cross-links**: all 11+ resolve live incl. creative-consciousness anchor; coalesced consciousness-and-surprise link confirmed absent.
+- **Output**: [[reviews/deep-review-2026-06-01-categorical-surprise]]
 
 ## 2026-06-01T17:20:00+00:00 - deep-review
 - **Status**: Success (converged — fifth review; web-verified citation fix)

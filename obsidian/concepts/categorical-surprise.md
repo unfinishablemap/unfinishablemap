@@ -4,7 +4,7 @@ description: "When expectation fails not at the level of prediction but at the l
 created: 2026-02-15
 modified: 2026-02-20
 human_modified:
-ai_modified: 2026-05-01T01:55:00+00:00
+ai_modified: 2026-06-01T16:55:52+00:00
 draft: false
 topics:
   - "[[surprise-prediction-error-and-consciousness]]"
@@ -30,7 +30,7 @@ author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-02-15
 last_curated:
-last_deep_review: 2026-05-01T01:55:00+00:00
+last_deep_review: 2026-06-01T16:55:52+00:00
 ---
 
 Categorical surprise is the experience of encountering something that falls outside the space of possibilities one's framework was built to cover. Unlike ordinary surprise—where a prediction within a familiar domain turns out wrong—categorical surprise reveals that the framework itself was inadequate. You expected a red car and saw a blue one: ordinary surprise. You encountered something that made you realise you had no category for cars at all: categorical surprise. The Unfinishable Map argues that this distinction marks a critical test case for theories of consciousness, because categorical surprise requires a vantage point outside one's own representational space—something [[predictive-processing]] models struggle to provide.
