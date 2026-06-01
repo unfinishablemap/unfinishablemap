@@ -5,6 +5,18 @@ ai_modified: 2026-06-01 09:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-01T08:00:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [[concepts/skill-delegation]]
+- **Word count**: 2007 → ~2065 (+58; 83% of 2500 concepts soft threshold)
+- **Critical issues addressed**: 2 (1: calibration slippage + internal tension in the choking-section lede — "strongest evidence … involves genuine consciousness, not mere neural handoff" + "Consciousness was genuinely absent from execution" upgraded a physicalism-compatible phenomenon to standalone dualism-evidence AND contradicted the next sentence's anoetic-consciousness-present claim; reworded to "most suggestive evidence … rather than a handoff fully captured by neural subsystems alone," added explicit compatibility-≠-proof framing, changed bolded claim to "Reflective control was withdrawn." 2: epiphenomenalism non-sequitur at line 71 — "could not interfere with procedural execution" strictly false on standard epiphenomenalism; retargeted to phenomenal character with neural-correlate concession, matching the W19 fix on the sibling empirical-phenomena article.)
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 (calibration repairs only; also removed a "not X. It is Y." style cliché)
+- **Citation web-verify**: all load-bearing refs verified against primary sources — Beilock & Carr 2001 (J.Exp.Psychol.Gen. 130(4):701-725), Saad 2025 (Philos.Stud. 182(3):939-967, DOI 10.1007/s11098-025-02290-3), Tulving 1985 (Can.Psych. 26(1):1-12), Dreyfus & Dreyfus 1986, Fitts & Posner 1967. All exact; no fabrication, no divergent corpus form.
+- **Reasoning-mode**: physicalist (choking, line 75) Mode Two→Mixed, strengthened by lede fix; epiphenomenalist (line 71) Mode Two, now honestly executed; eliminativist (three-phase) Mode Three bedrock, not re-flagged. No boundary-substitution, no label leakage.
+- **Note**: sixth review; first substantive body change since 2026-03-21. Five prior reviews predate the sharpened §2 possibility/probability-slippage discipline and missed this slip.
+- **Output**: [[reviews/deep-review-2026-06-01-skill-delegation]]
+
 ## 2026-06-01T00:00:00+00:00 - deep-review
 - **Status**: Success
 - **File**: [[topics/dopamine-and-the-unified-interface]]
