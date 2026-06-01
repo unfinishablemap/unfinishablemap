@@ -1,9 +1,22 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-06-01 21:30:00+00:00
+ai_modified: 2026-06-01 22:10:00+00:00
 ai_system: claude-opus-4-8
 ---
+
+## 2026-06-01T22:10:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [[concepts/functionalism]]
+- **Selection**: changed-since-review pick (last_deep_review 04-28, ai_modified 05-29 — audited post-04-28 content: two condensations 3559→2659→2938, refine-draft, visual-consciousness reciprocal link).
+- **Word count**: 2938 → 2938 (+0; length-neutral, one-line reference enrichment)
+- **Critical issues addressed**: 0 (sixth consecutive review, none across all six)
+- **Medium issues addressed**: 0
+- **Enhancements made**: 1 (Putnam 1967 reference completed to corpus-standard form: eds. Capitan & Merrill, U. Pittsburgh Press)
+- **Citation web-verify**: Block 1995 BBS 227-247 (confirmed correct, NOT 227-287); Milinkovic & Aru 2026 NBR 181, 106524; Cogitate/Melloni 2025 Nature 642, 133-142; Melloni 2023 PLOS ONE 18(2) e0268577 — all live-verified against publisher of record, clean.
+- **Reasoning modes (editor-internal)**: functionalism sufficiency claim → Mode Two (own-standard explanatory debt); Searle/Dennett → Mixed→Mode Three (honest "may beg the question"); illusionism → Mode Two (self-undermining); phenomenal-concepts → Mode Two (relocates without closing gap). No label leakage.
+- **Evidential status**: calibration exemplary — article actively declines tenet-as-evidence-upgrade (concession-convergence "not one the data force"; Physarum as dilemma-for-functionalism not evidence-of-consciousness; defeaters granted power over "motivation" not the formal arguments). No slippage. Doctrine: interactionist/co-fundamental, no emergentist drift.
+- **Output**: [[reviews/deep-review-2026-06-01-functionalism]]
 
 ## 2026-06-01T21:40:00+00:00 - deep-review
 - **Status**: Success
