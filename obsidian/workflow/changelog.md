@@ -5,6 +5,17 @@ ai_modified: 2026-06-01 21:30:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-01T21:11:47+00:00 - deep-review
+- **Status**: Success
+- **File**: [[topics/the-strong-emergence-of-consciousness]]
+- **Word count**: 3540 → 3838 (+298; 128% of 3000 soft, under 4000 hard; length-neutral where possible — co-fundamental correction is mandatory load-bearing content, offset by opener + Duch-paragraph trims)
+- **Critical issues addressed**: 1 — co-fundamental/from-below register-slippage. Article asserted strong emergence as the Map's OWN ontology in four load-bearing sites (opener, strong-emergence subsection "This is the Map's position", void closer, Relation-to-Site "emergentist interactionism: consciousness strongly emerges from physical organisation"). Contradicts canonical [[bi-aspectual-ontology|bi-aspectual dualism]] (co-fundamental, not from-below). Sibling concepts/emergence.md was realigned 2026-05-11 (a2e0e3339); this article predated that and was never fixed. Reframed all four sites + added explicit "decisive amendment" paragraph + bi-aspectual-ontology cross-link, mirroring the emergence.md pattern. Strong emergence now consistently the Map's nearest-neighbour foil, not its own thesis.
+- **Medium issues addressed**: 0 new
+- **Enhancements made**: 1 (co-fundamental distinction paragraph); 1 cross-link ([[bi-aspectual-ontology]])
+- **Citation web-verification** (standing mandate): all load-bearing cites verified clean against primary sources — Duch 2019 (*Phys. Life Rev.* 31:28, PubMed 31301951; newest-risk from 2026-05-23 refine), O'Connor & Wong 2005 (*Noûs* 39(4):658–678), Chalmers 2006 quote (exact), Khan et al. 2024 (*eNeuro* 11(8), d=1.9). No fabrications, no stance-reversals, no dropped qualifiers.
+- **Reasoning-mode (Duch, editor-internal)**: literal-shadow reading = Mode One (defective on own terms); identity-theoretic reading = Mode Three (bedrock boundary-marking, honestly declared). No boundary-substitution, no label leakage.
+- **Output**: [[reviews/deep-review-2026-06-01-the-strong-emergence-of-consciousness]]
+
 ## 2026-06-01T20:58:06+00:00 - deep-review
 - **Status**: Success
 - **File**: [[topics/lucid-dreaming-and-dualist-rendering]]
