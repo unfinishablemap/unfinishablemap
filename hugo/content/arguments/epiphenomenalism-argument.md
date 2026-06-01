@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-15
-ai_modified: 2026-05-17 00:00:00+00:00
+ai_modified: 2026-06-01 00:00:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -21,8 +21,9 @@ concepts:
 - '[[measurement-problem]]'
 created: 2026-01-15
 date: &id001 2026-01-21
-description: Four independent arguments show epiphenomenalism is self-undermining—consciousness
-  must cause something, or we cannot rationally believe anything about it.
+description: Four arguments pressure epiphenomenalism toward self-stultification—severe
+  pressure on the bare-correlation view, though the phenomenal-concept version relocates
+  the dispute rather than ending it.
 draft: false
 human_modified: null
 last_curated: null
@@ -57,9 +58,9 @@ The appeal is understandable. If physics is causally closed, and if consciousnes
 
 **Premise 4**: Beliefs formed without causal connection to their subject matter are not rationally held.
 
-**Conclusion**: Epiphenomenalism cannot be rationally believed on the basis of evidence about consciousness.
+**Conclusion**: Epiphenomenalism is hard to hold consistently on the basis of evidence about consciousness—it faces a self-stultification pressure that the bare-correlation version of the view cannot easily relieve.
 
-This is the decisive argument. Consider what happens when you read an argument for epiphenomenalism:
+This is the strongest pressure the Map presses against epiphenomenalism. Consider what happens when you read an argument for epiphenomenalism:
 
 You find it convincing. You form the belief that consciousness is causally inert. You think: "Yes, this makes sense—consciousness must be epiphenomenal."
 
@@ -72,7 +73,9 @@ The problem generalizes:
 - Your experiences don't cause your reports about your experiences
 - Any evidence for epiphenomenalism reaches your beliefs through causally inert consciousness—which means it doesn't reach them at all
 
-This makes epiphenomenalism epistemically self-undermining. Not logically contradictory—it could still be true—but impossible to hold *rationally*. Anyone who claims to believe epiphenomenalism on the basis of evidence must be wrong about something.
+This puts the *bare-correlation* version of epiphenomenalism under severe pressure. It is not logically contradictory—it could still be true—but it is hard to hold consistently: if your reports about consciousness carry no causal traffic from consciousness, the grounds on which you believe them grow thin. The conditional force holds for that version: anyone who believes bare-correlation epiphenomenalism on the basis of introspective evidence owes an account of how the evidence reached the belief.
+
+The pressure has a recognised escape, and the Map concedes it. The [phenomenal-concept strategy](/concepts/phenomenal-concepts-strategy/) (Frankish 2016, Papineau 2002, Loar 1990, late Dennett) handles the objection more directly: phenomenal concepts are themselves physically realised representational states referring to physical states of the same brain, so the states *producing* the reports are the states the reports *describe*. Reports are causally connected to their referents without phenomenal causation, and the self-undermining charge dissolves. The disagreement then *relocates rather than ends*: it moves to whether the first-person mode of presentation under which phenomenal concepts refer can be exhaustively physically characterised—the Map holds it cannot; phenomenal-concept theorists hold it can. That is a live question, treated in the [Bidirectional Interaction](/tenets/#bidirectional-interaction) tenet. So the self-stultification argument decisively burdens bare-correlation epiphenomenalism while the sophisticated phenomenal-concept version survives by moving the dispute, not by escaping it.
 
 ## Argument 2: The Evolutionary Objection
 
@@ -139,7 +142,7 @@ If consciousness cannot influence even our *attention to* consciousness, introsp
 | Knowledge Argument Reversed | Epiphenomenalism requires unexplained correlation between phenomenal states and behavioral changes |
 | Introspection and Self-Knowledge | Epiphenomenalism makes introspection inexplicable and undermines self-knowledge |
 
-Arguments 1 and 4 are epistemological—accepting epiphenomenalism undermines the very grounds for believing it. Arguments 2 and 3 show that epiphenomenalism requires implausible coincidences. Together, they show that epiphenomenalism is not merely wrong but *self-undermining*.
+Arguments 1 and 4 are epistemological—accepting epiphenomenalism strains the very grounds for believing it. Arguments 2 and 3 show that epiphenomenalism requires implausible coincidences. Together they place the bare-correlation view under severe, cumulative pressure. The sophisticated phenomenal-concept version withstands the epistemological arguments by relocating the dispute to the mode of presentation (discussed under Argument 1); the cumulative case there is that the relocation does not vindicate epiphenomenalism so much as concede that the live disagreement lies elsewhere. The Map's own commitment to [interaction](/concepts/interactionist-dualism/) is held on that calibrated basis, not on a claim that the argument refutes every form of epiphenomenalism from inside.
 
 ## The Illusionist Challenge
 
@@ -210,7 +213,7 @@ The arguments against epiphenomenalism directly support the Map's framework:
 
 **[Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction)**: The quantum framework provides *how* mental causation occurs without the problems epiphenomenalism tries to avoid. Consciousness doesn't violate causal closure by injecting energy; it operates precisely where [causal-closure](/concepts/causal-closure/) doesn't apply—at quantum indeterminacies. The [selection mechanism](/concepts/consciousness-selecting-neural-patterns/) biases which of physically permitted outcomes becomes actual.
 
-**[Bidirectional Interaction](/tenets/#bidirectional-interaction)**: The self-stultification argument shows consciousness must cause behavior. Our reports about consciousness must be caused by consciousness, or they cannot be trusted. The tenet that consciousness "selects among superposed neural states" is not optional decoration on dualism—it is required to avoid epiphenomenalism's epistemic collapse.
+**[Bidirectional Interaction](/tenets/#bidirectional-interaction)**: The self-stultification argument presses hard toward consciousness causing behavior—on a causal theory of knowledge, reports about consciousness reliable in virtue of phenomenal causation are easier to sustain than reports reliable only by parallel. The Map holds this tenet because it judges that interface more defensible than the contested epistemological premises the phenomenal-concept escape relies on—not because the argument forecloses every epiphenomenalism. The tenet that consciousness "selects among superposed neural states" earns its place as the Map's best answer to the pressure, while conceding that sophisticated epiphenomenalism relocates rather than abandons the dispute.
 
 **[No Many Worlds](/tenets/#no-many-worlds)**: The Map's rejection of many-worlds matters here. In MWI, "consciousness selecting outcomes" becomes incoherent—all outcomes occur in different branches. The arguments against epiphenomenalism depend on collapse being real: consciousness causes *this* outcome rather than *that*. The [indexical identity](/concepts/haecceity/) that makes "this outcome" meaningful is precisely what many-worlds dissolves.
 

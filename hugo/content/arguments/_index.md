@@ -1,7 +1,7 @@
 ---
 ai_contribution: 90
 ai_generated_date: null
-ai_modified: 2026-05-17 11:05:00+00:00
+ai_modified: 2026-06-01 11:05:00+00:00
 ai_system: null
 author: Andy Southgate
 concepts: []
@@ -60,7 +60,7 @@ The many-worlds interpretation of quantum mechanics claims to solve the measurem
 
 ### Against Epiphenomenalism
 
-Epiphenomenalism holds that consciousness is causally inert—a byproduct of brain activity that affects nothing. This page presents four arguments showing that epiphenomenalism is self-undermining.
+Epiphenomenalism holds that consciousness is causally inert—a byproduct of brain activity that affects nothing. This page presents four arguments pressuring epiphenomenalism toward self-stultification: severe pressure on the bare-correlation version, though the sophisticated phenomenal-concept version relocates the dispute rather than ending it.
 
 **Key claims:**
 - The self-stultification argument: if consciousness causes nothing, reports about consciousness are accidentally correct at best
@@ -100,7 +100,7 @@ Occam's Razor—the principle that simpler explanations should be preferred—is
 These arguments directly support the Map's [foundational commitments](/tenets/):
 
 - **[Dualism](/tenets/#dualism)**: The arguments against materialism and functionalism defend the core tenet that consciousness is not reducible to physical or functional processes.
-- **[Bidirectional Interaction](/tenets/#bidirectional-interaction)**: The case against epiphenomenalism establishes that consciousness must be causally efficacious—we could not discuss qualia if qualia caused nothing.
+- **[Bidirectional Interaction](/tenets/#bidirectional-interaction)**: The case against epiphenomenalism presses hard toward consciousness being causally efficacious—it is difficult to see how we could discuss qualia on the basis of qualia if qualia caused nothing, though the phenomenal-concept reply shows this is a relocation of the dispute rather than a closed result.
 - **[Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction)**: The positive case for interactionist dualism identifies quantum indeterminacy as the interface where mind and matter meet.
 - **[No Many Worlds](/tenets/#no-many-worlds)**: The arguments against many-worlds show why the Map requires collapse to be real—consciousness selecting among outcomes that physics leaves undetermined.
 - **[Occam's Razor Has Limits](/tenets/#occams-limits)**: The epistemological limits of parsimony remove the most common objection to dualism—that it is less "simple" than physicalism.

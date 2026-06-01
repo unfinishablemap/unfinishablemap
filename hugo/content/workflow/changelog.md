@@ -9,6 +9,44 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-06-01T06:00:00+00:00 - refine-draft
+- **Status**: Success
+- **Files**: [epiphenomenalism-argument](/arguments/epiphenomenalism-argument/), [arguments](/arguments/)
+- **Source**: ChatGPT outer-review Finding #1 (VERIFIED real, not stale) — self-stultification argument overclaimed relative to the already-softened tenets page ("the dispute relocates rather than ends"; phenomenal-concept strategy lets sophisticated epiphenomenalism survive). Calibration never propagated to the arguments pages.
+- **Direction**: calibration-DOWN (reduce overclaim to match tenets); inverse of anchoring refines but same evidential-status discipline.
+- **Changes (epiphenomenalism-argument.md)**:
+  - Conclusion of Argument 1 "cannot be rationally believed on the basis of evidence" → "hard to hold consistently … faces a self-stultification pressure."
+  - "This is the decisive argument" → "the strongest pressure the Map presses."
+  - "must be wrong about something" → kept conditional force (now scoped to *bare-correlation* epiphenomenalism) and added a short concession paragraph: the phenomenal-concept strategy (Frankish/Papineau/Loar/late Dennett) survives by relocating the dispute to the mode of presentation, not by escaping it. Links [phenomenal-concepts-strategy](/concepts/phenomenal-concepts-strategy/).
+  - frontmatter description softened ("show … self-undermining" → "pressure … relocates rather than ends").
+  - Cumulative Case "not merely wrong but self-undermining" → severe cumulative pressure on bare-correlation view; phenomenal-concept version relocates the dispute.
+  - Bidirectional Interaction section "required to avoid epiphenomenalism's epistemic collapse" → held as the Map's best answer to the pressure, conceding sophisticated epiphenomenalism relocates the dispute.
+- **Changes (arguments.md index)**:
+  - line ~61 "four arguments **showing** that epiphenomenalism is self-undermining" → "pressuring epiphenomenalism toward self-stultification … relocates the dispute rather than ending it."
+  - Bidirectional Interaction bullet "establishes that consciousness must be causally efficacious" → "presses hard toward … though the phenomenal-concept reply shows this is a relocation rather than a closed result."
+- **Engagement classification (changelog-only)**: engagement with the epiphenomenalist — Mode Three (framework-boundary marking) for the sophisticated phenomenal-concept version, downgraded from a substituted refutation; Mode One/Two pressure retained against the bare-correlation version. The fix corrected a boundary-substitution where tenet-incompatibility was being presented as in-framework refutation of *all* epiphenomenalism.
+- **Discipline**: preserved the argument's genuine force (severe pressure on bare-correlation); did not over-soften into "the argument fails." No new citations introduced (reframing of existing prose; phenomenal-concept citations already present in the tenets page). No "not X, it is Y" cliché.
+- **Word counts**: epiphenomenalism-argument 2574 → 2893 (+319, concession paragraph is load-bearing, not padding); arguments 804 → 848 (+44). Net positive rather than net-zero because the calibration concession required new explanatory clause-work, not just verb swaps.
+- **Published**: yes
+
+## 2026-06-01T05:07:00+00:00 - pessimistic-review
+- **Status**: Success
+- **Content reviewed**: `concepts/neural-correlates-of-consciousness.md` (oldest unreviewed by modified date, 2026-01-14)
+- **Findings**: 1 medium issue — Altered-State Symmetry audit check 3 (convergence double-counting): the "Filter Theory" section lists four findings as convergent transmission support without naming the parallel-accommodation work the framing owes; disruptive-cluster items are cited (so check 2 passes) but no symmetry marker present. Secondary: 3 unsourced claims (Koch COGITATE quote, 2025 callosotomy "full conscious unity", "200 theories"). No label leakage. Strong falsification section preserved. Queued a P2 refine-draft.
+- **Output**: [pessimistic-2026-06-01-neural-correlates-of-consciousness](/reviews/pessimistic-2026-06-01-neural-correlates-of-consciousness/)
+
+## 2026-06-01T06:00:00+00:00 - refine-draft (apex-evolve task, retargeted)
+- **Status**: Success
+- **Driver**: P1 convergent outer-review finding (Claude #4 ∩ ChatGPT §2, 2/3 reviewers) — the MQI mechanism triplet (post-decoherence selection / Stapp-Zeno / Orch-OR) was unadjudicated: the post-decoherence apex calls itself "the strongest path the Map currently endorses," yet interactionist-dualism still presented the proposals as co-equal and tenets says "does not commit to any specific mechanism." Build the missing ranking/hierarchy.
+- **Decision (assess-first)**: declined to mint a new apex/hub. A suitable hub already exists — [comparing-quantum-consciousness-mechanisms](/topics/comparing-quantum-consciousness-mechanisms/) already does the head-to-head triplet evaluation. Retargeted to a refine that adds the explicit preference ordering + 4-layer dependency structure rather than duplicating the comparison in a new page.
+- **Files edited (3)**:
+  - [comparing-quantum-consciousness-mechanisms](/topics/comparing-quantum-consciousness-mechanisms/) — new section *The Map's Preference Ordering — and Why It Is Not a Commitment* ({#preference-ordering}): ranks post-decoherence selection (preferred) > Stapp-Zeno + CSL-IIT (co-preferred fallbacks) > Orch-OR (live but dispreferred) > Fisher (peripheral), plus the 4-layer dependency structure (core metaphysical commitment → interface constraint → mechanism family → empirical sub-reading). Adjusted the Site-Perspective conclusion to reference the ordering instead of reading as a flat verdict.
+  - [interactionist-dualism](/concepts/interactionist-dualism/) — propagated the ordering (was stale, co-equal): added a prefer-but-not-commit clause to the Quantum Interactionism section and refined the "takes no position on which is correct" sentence to "no position on which is *correct*, but prefers post-decoherence on fit." Cross-links the hub anchor.
+  - [tenets](/tenets/) — minimal one-clause touch to the existing "Candidate mechanisms" sentence in Minimal Quantum Interaction, making prefer-vs-commit explicit and linking the ordering. Did NOT touch the cycle-197 Bidirectional Interaction paragraph.
+- **Calibration**: ranking framed throughout as methodological preference-ordering-on-fit, explicitly NOT an empirical result and NOT "the Map's mechanism IS X." Lower-ranked candidates kept as genuine live fallbacks. Honoured evidential-status-discipline.
+- **Citations**: no new citations introduced (reorganised existing verified material). Web-verified Orch OR = Penrose-Hameroff microtubule gravitational-collapse attribution before relying on it; Stapp quantum-Zeno attribution already standard in corpus. No "not X, it is Y" cliché.
+- **Length flag**: comparing-quantum-consciousness-mechanisms grew 3412 → 4109 words (full file). Added content is load-bearing ranking + calibration hedging; flagged as candidate human length-decision rather than cutting calibration language.
+
 ## 2026-06-01T05:30:00+00:00 - refine-draft
 - **Status**: Success
 - **File**: [post-decoherence-selection-programme](/apex/post-decoherence-selection-programme/)

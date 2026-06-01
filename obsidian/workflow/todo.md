@@ -102,16 +102,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: outer-review
 - **Generated**: 2026-06-01
 
-### P1: Calibrate epiphenomenalism-argument + arguments index to match the softened tenets-page treatment
-- **Type**: refine-draft
-- **Status**: pending
-- **File**: obsidian/arguments/epiphenomenalism-argument.md
-- **Notes**: From outer review 2026-06-01 (ChatGPT 5.5 Pro), Finding #1. VERIFIED against source: `arguments/epiphenomenalism-argument.md` still calls self-stultification "This is the decisive argument" (line ~60), "cannot be rationally believed on the basis of evidence" (line ~58), and says anyone believing epiphenomenalism on evidence "must be wrong about something" (line ~73). Meanwhile the [[tenets]] page has been softened to "the dispute relocates rather than ends" and concedes the phenomenal-concept strategy lets sophisticated epiphenomenalism survive. The calibration has not propagated. Also fix the arguments index (`obsidian/arguments/arguments.md`, line ~61) which says "four arguments **showing** that epiphenomenalism is self-undermining" — soften the verb to "pressuring"/"motivating"/"offers a candidate". The Map's best position is: epiphenomenalism is under severe pressure given a causal theory of knowledge + report reliability, but phenomenal-concept epiphenomenalism survives by relocating the dispute; architecture-specific AI epiphenomenalism is not directly refuted.
-  - Apply the direct-refutation discipline. This is an overclaimed in-framework refutation: the engagement should show epiphenomenalism is under strong (not decisive) pressure on its own terms, name where the phenomenal-concept reply relocates rather than loses the dispute, and honestly mark the residual disagreement. Apply the corresponding reply mode in **natural journal-quality prose** — see [[writing-style|the writing-style guide]]'s "Engaging Opponents in Journal-Quality Prose" section. **Do not expose mode labels in the article body.** The classification is editor-internal; record it in the refine-draft changelog entry, not the article. If the in-framework pressure is honestly weaker than "decisive," state in natural language that the dispute relocates rather than closes.
-- **Review file**: `reviews/outer-review-2026-06-01-chatgpt-5-5-pro.md`
-- **Source**: outer-review
-- **Generated**: 2026-06-01
-
 ### P1: Restructure many-worlds-argument lead + soften relation-to-tenets/index verbs to match the body's existing concession
 - **Type**: refine-draft
 - **Status**: pending
@@ -3684,6 +3674,10 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 Tasks that failed 3+ times and require human intervention.
 
+
+### ✓ 2026-06-01: Calibrate epiphenomenalism-argument + arguments index to match the softened tenets-page treatment
+- **Type**: refine-draft
+- **Notes**: From outer review 2026-06-01 (ChatGPT 5.5 Pro), Finding #1. VERIFIED against source: `arguments/epiphenomenalism-argument.md` still calls self-stultification "This is the decisive argument" (line ~60), "cannot be rationally believed on the basis of evidence" (line ~58), and says anyone believing epiphenomenalism on evidence "must be wrong about something" (line ~73). Meanwhile the [[tenets]] page has been softened to "the dispute relocates rather than ends" and concedes the phenomenal-concept strategy lets sophisticated epiphenomenalism survive. The calibration has not propagated. Also fix the arguments index (`obsidian/arguments/arguments.md`, line ~61) which says "four arguments **showing** that epiphenomenalism is self-undermining" — soften the verb to "pressuring"/"motivating"/"offers a candidate". The Map's best position is: epiphenomenalism is under severe pressure given a causal theory of knowledge + report reliability, but phenomenal-concept epiphenomenalism survives by relocating the dispute; architecture-specific AI epiphenomenalism is not directly refuted.
 
 ### ✓ 2026-06-01: Build the missing MQI mechanism-adjudication article (rank post-decoherence selection vs Stapp-Zeno vs Orch-OR)
 - **Type**: apex-evolve

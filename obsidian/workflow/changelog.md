@@ -5,6 +5,26 @@ ai_modified: 2026-06-01 05:30:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-01T06:00:00+00:00 - refine-draft
+- **Status**: Success
+- **Files**: [[arguments/epiphenomenalism-argument]], [[arguments/arguments]]
+- **Source**: ChatGPT outer-review Finding #1 (VERIFIED real, not stale) — self-stultification argument overclaimed relative to the already-softened tenets page ("the dispute relocates rather than ends"; phenomenal-concept strategy lets sophisticated epiphenomenalism survive). Calibration never propagated to the arguments pages.
+- **Direction**: calibration-DOWN (reduce overclaim to match tenets); inverse of anchoring refines but same evidential-status discipline.
+- **Changes (epiphenomenalism-argument.md)**:
+  - Conclusion of Argument 1 "cannot be rationally believed on the basis of evidence" → "hard to hold consistently … faces a self-stultification pressure."
+  - "This is the decisive argument" → "the strongest pressure the Map presses."
+  - "must be wrong about something" → kept conditional force (now scoped to *bare-correlation* epiphenomenalism) and added a short concession paragraph: the phenomenal-concept strategy (Frankish/Papineau/Loar/late Dennett) survives by relocating the dispute to the mode of presentation, not by escaping it. Links [[concepts/phenomenal-concepts-strategy]].
+  - frontmatter description softened ("show … self-undermining" → "pressure … relocates rather than ends").
+  - Cumulative Case "not merely wrong but self-undermining" → severe cumulative pressure on bare-correlation view; phenomenal-concept version relocates the dispute.
+  - Bidirectional Interaction section "required to avoid epiphenomenalism's epistemic collapse" → held as the Map's best answer to the pressure, conceding sophisticated epiphenomenalism relocates the dispute.
+- **Changes (arguments.md index)**:
+  - line ~61 "four arguments **showing** that epiphenomenalism is self-undermining" → "pressuring epiphenomenalism toward self-stultification … relocates the dispute rather than ending it."
+  - Bidirectional Interaction bullet "establishes that consciousness must be causally efficacious" → "presses hard toward … though the phenomenal-concept reply shows this is a relocation rather than a closed result."
+- **Engagement classification (changelog-only)**: engagement with the epiphenomenalist — Mode Three (framework-boundary marking) for the sophisticated phenomenal-concept version, downgraded from a substituted refutation; Mode One/Two pressure retained against the bare-correlation version. The fix corrected a boundary-substitution where tenet-incompatibility was being presented as in-framework refutation of *all* epiphenomenalism.
+- **Discipline**: preserved the argument's genuine force (severe pressure on bare-correlation); did not over-soften into "the argument fails." No new citations introduced (reframing of existing prose; phenomenal-concept citations already present in the tenets page). No "not X, it is Y" cliché.
+- **Word counts**: epiphenomenalism-argument 2574 → 2893 (+319, concession paragraph is load-bearing, not padding); arguments 804 → 848 (+44). Net positive rather than net-zero because the calibration concession required new explanatory clause-work, not just verb swaps.
+- **Published**: yes
+
 ## 2026-06-01T05:07:00+00:00 - pessimistic-review
 - **Status**: Success
 - **Content reviewed**: `concepts/neural-correlates-of-consciousness.md` (oldest unreviewed by modified date, 2026-01-14)
