@@ -37,8 +37,9 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P3: Fix Konkoly 2026 wrong venue in apex/altered-states-as-interface-evidence.md
+### ✓ 2026-06-01: Fix Konkoly 2026 wrong venue in apex/altered-states-as-interface-evidence.md (driver-discharged)
 - **Type**: refine-draft
+- **Status**: completed — driver web-verified independently (Oxford Academic + PMC: Konkoly et al. 2026, "Creative problem-solving after experimentally provoking dreams of unsolved puzzles during REM sleep," *Neuroscience of Consciousness* 2026(1), niaf067, DOI 10.1093/nc/niaf067) and fixed apex ref #6 (was wrong title + "Consciousness and Cognition, 108, 103567"). Now consistent corpus-wide. The in-body 39%/16% small-sample caveat at line 94 was already present (no fix needed). Committed by agent.
 - **File**: obsidian/apex/altered-states-as-interface-evidence.md
 - **Status**: pending
 - **Notes**: Deep review 2026-06-01 of lucid-dreaming-and-dualist-rendering web-verified the Konkoly et al. 2026 citation and found the apex reference #6 (line ~215) cites it under the WRONG venue: "Consciousness and Cognition, 108, 103567". Verified-correct form (confirmed against OUP primary source this session AND prior W22 session) is *Neuroscience of Consciousness*, 2026(1), niaf067 — the form used correctly in topics/lucid-dreaming-and-dualist-rendering.md, topics/incubation-effect-and-unconscious-processing.md, and research/dreams-problem-solving-lucid-dreaming-2026-02-06.md. The apex is the minority/divergent (incorrect) metadata form. Fix ref #6 venue, issue, and article number to match. Also verify the in-body 39% vs 16% statistic in the apex (line ~94) is correct (it appeared correct on read). Low priority, citation-metadata hygiene ([[ai-citation-metadata-unreliable]]).

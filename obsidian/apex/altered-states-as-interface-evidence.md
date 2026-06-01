@@ -3,7 +3,7 @@ title: "Altered States as Systematic Interface Evidence"
 created: 2026-03-16
 modified: 2026-03-23
 human_modified: null
-ai_modified: 2026-05-29T12:00:00+00:00
+ai_modified: 2026-06-01T21:01:51+00:00
 draft: false
 description: "Five altered states—psychedelics, dreams, hypnagogia, meditation, anaesthesia—converge on the same multi-channel interface architecture, mapping consciousness-brain coupling through systematic perturbation."
 topics:
@@ -212,7 +212,7 @@ This synthesis draws on:
 3. Carhart-Harris, R. L. & Friston, K. J. (2019). REBUS and the anarchic brain: Toward a unified model of the brain action of psychedelics. *Pharmacological Reviews*, 71(3), 316-344.
 4. Fox, K. C. R., et al. (2012). Meditation experience predicts introspective accuracy. *PLOS One*, 7(9), e45370.
 5. Hu, J. J., Liu, Y., Yao, H., et al. (2023). Emergence of consciousness from anesthesia through ubiquitin degradation of KCC2 in the ventral posteromedial nucleus of the thalamus. *Nature Neuroscience*, 26(5), 751-764.
-6. Konkoly, K. R., et al. (2026). Puzzle-incorporating dreams and creative problem-solving. *Consciousness and Cognition*, 108, 103567.
+6. Konkoly, K. R., et al. (2026). Creative problem-solving after experimentally provoking dreams of unsolved puzzles during REM sleep. *Neuroscience of Consciousness*, 2026(1), niaf067.
 7. Kral, T. R. A., et al. (2022). Absence of structural brain changes from mindfulness-based stress reduction: Two combined randomized controlled trials. *Science Advances*, 8(21), eabk3316.
 8. Lacaux, C., Andrillon, T., Bastoul, C., et al. (2021). Sleep onset is a creative sweet spot. *Science Advances*, 7(50), eabj5866.
 9. Mashour, G. A., et al. (2021). Recovery of consciousness and cognition after general anesthesia in humans. *eLife*, 10, e59525.
