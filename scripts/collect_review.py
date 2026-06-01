@@ -25,6 +25,7 @@ from datetime import datetime, timezone
 from pathlib import Path
 
 from tools.reviews.extract import html_to_markdown
+from tools.reviews.normalize_links import normalize as normalize_unfinishablemap_links
 
 _DESCRIPTION = (
     "External review by {display_name} commissioned automatically. "

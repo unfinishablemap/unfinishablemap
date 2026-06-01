@@ -5,6 +5,18 @@ ai_modified: 2026-06-01 09:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-01T00:00:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [[apex/time-consciousness-growing-block]]
+- **Word count**: 3619 → 3645 (+26; 91% of 4000 apex soft threshold)
+- **Critical issues addressed**: 1 (specious-present misattribution: term coined by E.R. Clay 1882, adopted/credited by James — was "James identified what he called the specious present"; fixed to credit Clay)
+- **Medium issues addressed**: 0 (none found)
+- **Enhancements made**: 1 (the Clay attribution clause)
+- **Web-verify**: Clay/James specious-present coinage confirmed (E.R. Clay, *The Alternative*, 1882; James cites/develops it in *Principles* 1890). Hoel arXiv:2512.12802 confirmed (submitted 14 Dec 2025, revised Jan 2026; corpus split 2025/2026 both defensible, apex "2025" left as-is — first-submission convention). All other load-bearing citations (Kent & Wittmann 2021 niab011, Thura & Cisek 2014 Neuron 81(6):1401-1416, Penrose 1989, Libet 1983, Husserl 1928/1991, Bergson 1889/2001, Whitehead 1929/1978) match corpus-verified forms.
+- **Reasoning-mode**: all named-opponent engagement is Mode Three (framework-boundary), honestly declared; no boundary-substitution; no label leakage.
+- **Evidential-status**: no possibility/probability slippage — growing-block↔interface fit treated as compatibility/precedent, not evidence; decoherence gap acknowledged in-text.
+- **Output**: [[reviews/deep-review-2026-06-01-time-consciousness-growing-block]]
+
 ## 2026-06-01T06:30:00+00:00 - deep-review
 - **Status**: Success (convergence — no critical/medium issues)
 - **File**: [[concepts/phenomenology-vs-function-axis]]

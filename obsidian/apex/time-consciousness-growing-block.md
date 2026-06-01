@@ -4,8 +4,8 @@ description: "Consciousness requires temporal structure to exist. Time's arrow m
 created: 2026-02-01
 modified: 2026-05-01
 human_modified:
-ai_modified: 2026-05-03T11:41:37.772459+00:00
-last_deep_review: 2026-05-01T10:10:00+00:00
+ai_modified: 2026-06-01T00:00:00+00:00
+last_deep_review: 2026-06-01T00:00:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -43,7 +43,7 @@ This bidirectional dependence has implications that ripple outward. For AI: syst
 
 ## The Specious Present
 
-William James identified what he called the specious present—the brief interval within which we experience succession and change as unified wholes. Pure mathematical instants, however closely packed, never add up to experienced flow. Hearing a melody requires holding notes together; understanding a sentence requires grasping words as connected. Duration estimates vary—from roughly 100 milliseconds for basic perceptual binding to 2-3 seconds for the extended experiential present—but the phenomenon is robust: the experienced present has extent.
+William James developed the idea of the specious present—the brief interval within which we experience succession and change as unified wholes. James adopted the term from E.R. Clay, crediting it to him in *The Principles of Psychology*, and made it central to his account of temporal experience. Pure mathematical instants, however closely packed, never add up to experienced flow. Hearing a melody requires holding notes together; understanding a sentence requires grasping words as connected. Duration estimates vary—from roughly 100 milliseconds for basic perceptual binding to 2-3 seconds for the extended experiential present—but the phenomenon is robust: the experienced present has extent.
 
 Edmund Husserl's phenomenological analysis revealed the structure underlying this extent. Each moment of consciousness contains:
 
