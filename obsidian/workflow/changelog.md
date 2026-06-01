@@ -5,6 +5,17 @@ ai_modified: 2026-06-01 10:51:37+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-01T09:30:00+00:00 - deep-review
+- **Status**: Success (converged 8th-pass article; metadata-only, length-neutral)
+- **File**: [[concepts/mental-imagery]]
+- **Word count**: 3207 → 3207 (no material change; 128% of 2500 soft threshold, under 3500 hard)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 1 (citation-metadata precision)
+- **Citations**: load-bearing statistics web-verified against primary sources. Zeman (2024) *Trends in Cognitive Sciences* **28(5) 467-480** — single-author (corrected footnote from "et al."); prevalence "~1% aphantasia / ~3% hyperphantasia" verified EXACT against paper (source-conclusion check passed); same-author-different-paper disambiguation clean vs Zeman 2015 *Cortex* coinage. Kay/Keogh/Pearson (2024) *Consciousness and Cognition* **121 103694** — "slower but more accurate / analytic-vs-object-based" source-conclusion verified. All 11 footnotes cited in-text; no orphaned references.
+- **Calibration**: no possibility/probability slippage — imagery variation ILLUSTRATES phenomenal heterogeneity, never elevates dualism's evidential status; modal register calibrated throughout. Identity-theory engagement: Mode Three boundary-marking, honestly declared, no boundary-substitution, no label leakage.
+- **Output**: [[reviews/deep-review-2026-06-01-mental-imagery]]
+
 ## 2026-06-01T06:00:00+00:00 - deep-review
 - **Status**: Success (no critical/medium issues; converged 6th-pass article, metadata-only)
 - **File**: [[topics/consciousness-and-the-problem-of-measurement-standards]]

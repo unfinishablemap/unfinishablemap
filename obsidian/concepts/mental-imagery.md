@@ -4,8 +4,8 @@ description: "Voluntary imagery, aphantasia, and motor rehearsal evidence test w
 created: 2026-01-23
 modified: 2026-04-28
 human_modified: null
-ai_modified: 2026-04-28T07:43:00+00:00
-last_deep_review: 2026-04-28T07:43:00+00:00
+ai_modified: 2026-06-01T09:30:00+00:00
+last_deep_review: 2026-06-01T09:30:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -34,7 +34,7 @@ related_articles:
   - "[[neurophenomenology-and-contemplative-neuroscience]]"
 ai_contribution: 100
 author: null
-ai_system: claude-opus-4-7
+ai_system: claude-opus-4-8
 ai_generated_date: 2026-04-28
 coalesced_from:
   - "/concepts/mental-imagery/"
@@ -195,7 +195,7 @@ The attention-imagery interface connects to the Map's broader framework. Attenti
 
 [^nanay]: Nanay, B. (2020). Unconscious mental imagery. *Philosophical Transactions of the Royal Society B*, 376(1817).
 
-[^zeman]: Zeman, A. et al. (2024). Aphantasia and hyperphantasia: exploring imagery vividness extremes. *Trends in Cognitive Sciences*.
+[^zeman]: Zeman, A. (2024). Aphantasia and hyperphantasia: exploring imagery vividness extremes. *Trends in Cognitive Sciences*, 28(5), 467-480.
 
 [^vyshedskiy]: Vyshedskiy, A. (2019). Voluntary and Involuntary Imagination: Neurological Mechanisms, Developmental Path, Clinical Implications, and Evolutionary Trajectory. *Research Ideas and Outcomes*, 5, e38775.
 
