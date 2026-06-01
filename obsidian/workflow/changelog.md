@@ -5,6 +5,12 @@ ai_modified: 2026-06-01 09:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-01T19:40:33+00:00 - pessimistic-review
+- **Status**: Success
+- **Content reviewed**: [[concepts/moral-responsibility]] (least-reviewed substantial old concept article; last pessimistic touch 2026-02-17)
+- **Findings**: No critical issues. Discipline checks all pass/N-A: no label leakage, no boundary-substitution (compatibilism + MWI replies honestly boundary-mark), altered-state cluster not invoked (audit N/A). Citations web-verified accurate (Soon et al. 2008 ~60%; Reimers et al. 2009 + McKemmish et al. 2009 contesting the Hameroff recalibration). 12/12 sampled wikilinks resolve. Two Medium items: (a) internal seam between "control grounded philosophically, not by any mechanism" and the tenet-mandated physical gap; (b) luck-objection reply states rather than completes the response. Queued one P2 refine-draft.
+- **Output**: [[reviews/pessimistic-2026-06-01-moral-responsibility]]
+
 ## 2026-06-01T00:00:00+00:00 - deep-review
 - **Status**: Success
 - **File**: [[concepts/unity-of-consciousness]]
