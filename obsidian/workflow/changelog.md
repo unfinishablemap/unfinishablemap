@@ -1,9 +1,24 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-06-01 22:37:08+00:00
+ai_modified: 2026-06-01 23:12:12+00:00
 ai_system: claude-opus-4-8
 ---
+
+## 2026-06-01T23:12:12+00:00 - refine-draft (absorption)
+- **Status**: Success
+- **File**: [[voids/agency-void]]
+- **Source folded**: [[research/voids-effort-void-2026-05-08]] (Effort Void research note → agency-void's verification face)
+- **Net length**: +60 body words (2615 → 2675, target was ≤+60; under the 3000 voids hard-warning threshold). The ~190-word effort addition was paid for by trimming ~130 words of existing verification-face and recurrence-section prose (Intervention/Attribution/Perspective layers tightened, recurrence stats and illustrative clauses cut, moral-implications register-split tail dropped). No argument removed.
+- **Change**: Added a compact "Effort as the action-side gate" paragraph to the phenomenal-output/causal-machinery cluster passage — the three effort-void faces (calibration / depletion / modulation) folded as the action-side analogue of the noetic-feelings void (effort feelings gate cognition's *deployment* as noetic feelings gate its *acceptance*; both sub-personal). Framed as OPACITY findings that constrain introspective-transparency claims without by themselves establishing dualism ([[evidential-status-discipline]]; modal register kept calibrated). Tenet 1 (Dualism — sub-personal effort-gating as a seam introspection can't inspect) primary; secondary Occam (willpower-as-fuel collapse) integrated into the existing Occam tenet paragraph.
+- **Citations web-verified** (note is a propagation root, [[ai-citation-metadata-unreliable]]):
+  - Naccache et al. (2005) *Neuropsychologia* 43(9):1318–1328 — VERIFIED author/venue/year AND stance: left mesio-frontal/ACC-lesion patient, normal executive control, *no* conscious feeling of mental effort, no SCR coupling. Stance accurate.
+  - Hagger et al. (2016) *Perspectives on Psychological Science* 11(4):546–573 — VERIFIED: 23 labs, N=2,141, d=0.04, ego depletion not replicated. Exact statistics confirmed (fabricated-statistic check passed).
+  - Kurzban et al. (2013) *Behavioral and Brain Sciences* 36(6):661–679 — VERIFIED year/venue/pages; opportunity-cost model with effort as felt output of cost/benefit computation.
+  - Westbrook & Braver "Dopamine Does Double Duty" *Neuron* 89(4):695–710 — VERIFIED; **corrected year 2015 → 2016** in the SOURCE NOTE body (×2) and References (vol 89(4) is the Feb-2016 issue). No other corpus propagation of the wrong year (grep clean).
+- **Follow-ups done**: agency-void forward-pointer flipped "awaiting absorption" → "now incorporated"; research note kept in agency-void `related_articles`; voids.md §Research-Stage Voids effort entry marked **Absorbed** (2026-06-01).
+- **Engagement classification**: n/a (no named-opponent reply added).
+- **Published**: yes
 
 ## 2026-06-01T23:00:14+00:00 - refine-draft
 - **Status**: Success

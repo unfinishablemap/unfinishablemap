@@ -3,7 +3,7 @@ title: "Research Notes - Voids: The Effort Void"
 created: 2026-05-08
 modified: 2026-05-08
 human_modified: null
-ai_modified: 2026-05-26T17:50:02+00:00
+ai_modified: 2026-06-01T23:12:12+00:00
 draft: false
 target_section: voids
 topics: []
@@ -114,9 +114,9 @@ The Effort Void names the structural inability of consciousness to read out, cal
 - **Quote**: "Although widely used across psychology, economics, and philosophy, the concept of effort is rarely ever defined."
 - **Note**: Important calibration note for the void framing — the void is not just empirical (hidden machinery) but also **conceptual** (hidden referent of "effort" itself).
 
-### Westbrook, A., & Braver, T. S. (2015). "Dopamine Does Double Duty in Motivating Cognitive Effort." *Neuron*, 89(4), 695–710. (And Westbrook et al. 2020 *Science*, "Dopamine promotes cognitive effort by biasing the benefits versus costs of cognitive work.")
+### Westbrook, A., & Braver, T. S. (2016). "Dopamine Does Double Duty in Motivating Cognitive Effort." *Neuron*, 89(4), 695–710. (And Westbrook et al. 2020 *Science*, "Dopamine promotes cognitive effort by biasing the benefits versus costs of cognitive work.")
 - **URL**: https://pubmed.ncbi.nlm.nih.gov/26889810/ (2015); https://pubmed.ncbi.nlm.nih.gov/32193325/ (2020)
-- **Type**: Theoretical neuroscience review (2015) + empirical pharmacological study (2020)
+- **Type**: Theoretical neuroscience review (2016) + empirical pharmacological study (2020)
 - **Key points**:
   - Striatal dopamine modulates willingness to expend cognitive effort by **amplifying anticipated benefits** and **attenuating subjective costs** — not by shifting any quantity called "effort capacity."
   - The 2020 *Science* study with methylphenidate showed that dopamine elevation shifts the cost-benefit ratio: subjects became more willing to engage demanding tasks, with the felt sense of effort shifting *as a consequence of the cost-benefit shift*, not independently.
@@ -245,6 +245,6 @@ The first angle is recommended as the primary structure, with the second and thi
 6. Kool, W., McGuire, J. T., Rosen, Z. B., & Botvinick, M. M. (2010). Decision making and the avoidance of cognitive demand. *Journal of Experimental Psychology: General*, 139(4), 665–682. https://pubmed.ncbi.nlm.nih.gov/20853993/
 7. Massin, O. (2017). Towards a Definition of Efforts. *Motivation Science*, 3(3), 230–259. https://philpapers.org/rec/MASTAD-2
 8. Bermúdez, J. P., & Massin, O. (2024). Efforts and their Feelings. https://philpapers.org/rec/BEREAT-31
-9. Westbrook, A., & Braver, T. S. (2015). Dopamine Does Double Duty in Motivating Cognitive Effort. *Neuron*, 89(4), 695–710. https://pubmed.ncbi.nlm.nih.gov/26889810/
+9. Westbrook, A., & Braver, T. S. (2016). Dopamine Does Double Duty in Motivating Cognitive Effort. *Neuron*, 89(4), 695–710. https://pubmed.ncbi.nlm.nih.gov/26889810/
 10. Westbrook, A., et al. (2020). Dopamine promotes cognitive effort by biasing the benefits versus costs of cognitive work. *Science*, 367(6484), 1362–1366. https://pubmed.ncbi.nlm.nih.gov/32193325/
 11. Howard, E. E., Edwards, S. G., & Bayliss, A. P. (2016). Physical and mental effort disrupts the implicit sense of agency. *Cognition*, 157, 114–125. https://www.sciencedirect.com/science/article/abs/pii/S0010027716302086
