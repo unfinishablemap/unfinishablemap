@@ -5,6 +5,19 @@ ai_modified: 2026-06-01T00:18:24+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-01T00:27:00+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[topics/reductionism-and-consciousness]]
+- **Trigger**: anchoring-audit calibration refine. Fresh evaluate_anchoring showed 3 failing anchors (not just the named explanatory-gap): explanatory-gap (hedge_density + strong_assertions), conceivability-possibility-inference (hedge_density + strong_assertions), mental-causation-and-downward-causation (strong_assertions + underdetermination_markers).
+- **Changes**: Calibration-inheritance, claim-preserving (no thesis weakening, no over-hedge into mush).
+  - Strong-assertion density 0.95→0.0/kw: rephrased both counted strong-assertion verbs ("demonstrates" ×2 → "points to" / "indicates") on the pain-asymbolia and parsimony claims; central anti-reductionist thesis verbs untouched.
+  - Hedge density 3.81→5.95/kw (8→13 counted hedges, clears 60%-of-anchor floor for both flagged anchors): added counted markers (suggests/may/seems/may/may) only at genuinely interpretive/inferential junctures — the asymmetry-to-metaphysics inference, the zombie-entailment step, the downward-causation inference.
+  - Underdetermination markers 0→3: added an explicit concession in "What the Failure Reveals" that the speech-act data does not adjudicate between epiphenomenal and causally-efficacious readings ("evidence does not adjudicate", "underdetermined by the evidence", "compatible with both readings"), anchoring on mental-causation-and-downward-causation's own calibration.
+- **Verification**: re-ran evaluate_anchoring — ZERO flags remain (hedge 5.95/kw ≥5.92 target, strong_assert 0.0/kw, underdet 3).
+- **Word count**: 2099 → 2184.
+- **Sibling task (IIT vs consciousness-disruption)**: untouched — different article.
+- **Published**: yes (kept draft state unchanged; article was already draft:false published)
+
 ## 2026-06-01T00:18:24+00:00 - apex-evolve
 - **Status**: Complete (condensation-mode evolution; integrated 2 new source developments, cut over-length)
 - **Article**: [[apex/taxonomy-of-voids]]
