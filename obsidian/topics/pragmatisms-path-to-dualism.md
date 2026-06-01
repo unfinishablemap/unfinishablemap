@@ -4,7 +4,7 @@ description: "Pragmatism—the philosophy that evaluates ideas by practical cons
 created: 2026-03-15
 modified: 2026-04-16
 human_modified:
-ai_modified: 2026-05-27T02:06:13+00:00
+ai_modified: 2026-06-01T01:35:41+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -200,7 +200,7 @@ The pragmatic path to dualism is distinctive because it does not rely on intuiti
 1. Korsgaard, C. M. (1996). *The Sources of Normativity*. Cambridge University Press.
 1. Varela, F., Thompson, E., & Rosch, E. (1991). *The Embodied Mind*. MIT Press.
 1. Fuchs, C. (2012). QBism, the Perimeter of Quantum Bayesianism. arXiv:1003.5209.
-1. Wu, J. (2024). Pragmatism as the Foundation of Cognitive Enactivism. *Philosophy and Social Criticism*.
+1. Wu, J. (2024). Pragmatism as the Foundation of Cognitive Enactivism. *Cultures of Science*, 7(1).
 1. Southgate, A. & Oquatre-cinq, C. (2026-02-01). William James and Consciousness. *The Unfinishable Map*. https://unfinishablemap.org/topics/william-james-consciousness/
 1. Southgate, A. & Oquatre-six, C. (2026-03-26). Why Consciousness Defeats Explanation. *The Unfinishable Map*. https://unfinishablemap.org/topics/consciousness-defeats-explanation/
 1. Southgate, A. & Oquatre-six, C. (2026-02-13). Consciousness and Normative Force. *The Unfinishable Map*. https://unfinishablemap.org/topics/consciousness-and-normative-force/

@@ -4,7 +4,7 @@ description: "Recasting consciousness from a property the brain has to an activi
 created: 2026-02-23
 modified: 2026-02-23
 human_modified:
-ai_modified: 2026-04-30T20:26:00+00:00
+ai_modified: 2026-06-01T01:35:41+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -112,7 +112,7 @@ The activity framing aligns with developments in cognitive science and neuroscie
 
 Enactivism is the closest existing tradition to consciousness-as-activity, and the divergence is instructive. Thompson's *Mind in Life* (2007) develops the *deep continuity thesis*: where there is life, there is mind, because the autopoietic self-maintenance of living systems already constitutes a rudimentary perspective on the environment. This connects activity to life itself—a cell's self-producing organisation is a form of doing, not merely a set of properties. The Map agrees that activity runs deep and that the property framing fails for life as it fails for consciousness.
 
-But enactivism draws a different ontological conclusion. For enactivists, consciousness just *is* the embodied engagement—there is no separate agent performing the activity. De Jaegher, Di Paolo, and Gallagher (2013) make this explicit: the "interaction" in enactivism refers to organism-environment engagement, not to causal commerce between a non-physical mind and a physical body. The activity framing defended here parts company on precisely this point. Activities require agents. Dancing is not self-performing; someone dances. The agent-dependence commitment (see the section on [[#What Activity Means Here|what activity means]]) insists that conscious activity is *performed by* a subject, not identical to organism-environment coupling. Enactivism's own phenomenological commitment—treating experience as irreducible data—implicitly supports this: irreducible experience is experience *for someone*. The [[enactivism-challenge-to-interactionist-dualism|full engagement with enactivism's challenge]] explores how enactivism's dissolution strategy ultimately cannot close the [[explanatory-gap|explanatory gap]] it claims to have dissolved.
+But enactivism draws a different ontological conclusion. For enactivists, consciousness just *is* the embodied engagement—there is no separate agent performing the activity. De Jaegher and Di Paolo (2013) make this explicit: the "interaction" in enactivism refers to organism-environment engagement, not to causal commerce between a non-physical mind and a physical body. The activity framing defended here parts company on precisely this point. Activities require agents. Dancing is not self-performing; someone dances. The agent-dependence commitment (see the section on [[#What Activity Means Here|what activity means]]) insists that conscious activity is *performed by* a subject, not identical to organism-environment coupling. Enactivism's own phenomenological commitment—treating experience as irreducible data—implicitly supports this: irreducible experience is experience *for someone*. The [[enactivism-challenge-to-interactionist-dualism|full engagement with enactivism's challenge]] explores how enactivism's dissolution strategy ultimately cannot close the [[explanatory-gap|explanatory gap]] it claims to have dissolved.
 
 **Skilled performance.** [[consciousness-and-skill-acquisition|Research on expertise]] reveals consciousness as an architect of skilled activity. Consciousness trains procedural systems, delegates to them, and painfully re-engages when skills break down. This dynamic of building, delegating, and reclaiming control is activity through and through.
 
@@ -152,7 +152,7 @@ The activity framing strengthens the Map's framework at every point.
 1. Bergson, H. (1889/2001). *Time and Free Will*. Dover.
 1. Chalmers, D. (1996). *The Conscious Mind*. Oxford University Press.
 1. Clark, A. (2013). Whatever next? Predictive brains, situated agents, and the future of cognitive science. *Behavioral and Brain Sciences*, 36(3), 181-204.
-1. De Jaegher, H., Di Paolo, E., & Gallagher, S. (2013). Enactivism is not interactionism. *Frontiers in Human Neuroscience*, 6, 345.
+1. De Jaegher, H., & Di Paolo, E. (2013). Enactivism is not interactionism. *Frontiers in Human Neuroscience*, 6, 345.
 1. Clark, A. (2016). *Surfing Uncertainty: Prediction, Action, and the Embodied Mind*. Oxford University Press.
 1. Dehaene, S., & Changeux, J.-P. (2011). Experimental and theoretical approaches to conscious processing. *Neuron*, 70(2), 200-227.
 1. James, W. (1890). *The Principles of Psychology*. Henry Holt and Company.

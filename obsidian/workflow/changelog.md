@@ -5,6 +5,19 @@ ai_modified: 2026-06-01 01:22:27+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-01T01:35:41+00:00 - deep-review
+- **Status**: Success (2 critical citation defects fixed + corpus propagation)
+- **File**: [[topics/enactivism-challenge-to-interactionist-dualism]]
+- **Word count**: 2463 → 2460 (length-neutral, 82% of 3000 soft; citation corrections only)
+- **Critical issues addressed**: 2
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Attribution web-verification**: 2 live citations corrected. (1) "Enactivism is not interactionism" (2013) is De Jaegher & Di Paolo — TWO authors, not three; "Gallagher" was over-attributed (confusion with the 2010 three-author paper). (2) Wu (2024) "Pragmatism as the Foundation of Cognitive Enactivism" is *Cultures of Science* 7(1), NOT *Philosophy and Social Criticism*. Both confirmed via WebSearch.
+- **Corpus propagation fixed**: same errors had spread — Gallagher over-attribution also in [[topics/consciousness-as-activity]] (body + refs); Wu wrong-journal also in [[topics/pragmatisms-path-to-dualism]] (refs). All fixed.
+- **Reasoning-mode**: engagement with enactivism's dissolution strategy = Mode Two (unsupported foundational move: helps itself to irreducibility without specifying its source) + Mode Three (boundary-marking: transcendental third option acknowledged as non-refuted). No boundary-substitution, no label leakage.
+- **Calibration**: clean — 2026-05-27 refine's hedges preserved; no possibility/probability slippage.
+- **Output**: [[reviews/deep-review-2026-06-01-enactivism-challenge-to-interactionist-dualism]]
+
 ## 2026-06-01T01:25:53+00:00 - deep-review
 - **Status**: Success (converged — metadata-only no-op)
 - **File**: [[concepts/predictive-processing]]

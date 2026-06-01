@@ -4,7 +4,7 @@ description: "Enactivism dissolves the mind-body separation dualism presupposes.
 created: 2026-03-21
 modified: 2026-03-21
 human_modified:
-ai_modified: 2026-05-27T00:00:00+00:00
+ai_modified: 2026-06-01T01:35:41+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -32,7 +32,7 @@ author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-03-21
 last_curated:
-last_deep_review: 2026-04-27T01:29:00+00:00
+last_deep_review: 2026-06-01T01:35:41+00:00
 ---
 
 Enactivism poses the most philosophically serious challenge to [[interactionist-dualism]] from the embodied cognition tradition. Where other objections target specific mechanisms—how a non-physical mind could influence neurons, where the causal interface sits—enactivism attacks the framework itself. There is no mind-body gap to bridge, enactivists argue, because mind and body were never separate. Cognition is not internal computation that a non-physical consciousness directs; it is the organism's embodied engagement with its environment. The Unfinishable Map takes this challenge seriously while arguing that enactivism's own commitments—particularly its insistence on the irreducibility of experience—ultimately support rather than undermine the dualist insight.
@@ -71,7 +71,7 @@ The genealogy runs: Dewey's organism-environment transaction → Merleau-Ponty's
 
 What unites these strands is a shared strategy: *dissolution* rather than *solution*. Enactivism does not answer the question "How does a non-physical mind causally interact with the physical brain?" It argues the question is malformed. Mind and body are not separate domains requiring causal bridging; they are aspects of a single organismic process—a view with affinities to [[process-philosophy]], though enactivists draw on phenomenological rather than metaphysical traditions.
 
-De Jaegher, Di Paolo, and Gallagher make this explicit in their paper "Enactivism Is Not Interactionism" (2013). The "interaction" in enactivism refers to organism-environment engagement, not mind-body causal commerce. Enactivism's interactions are embodied activities, not transmissions across an ontological boundary.
+De Jaegher and Di Paolo make this explicit in their paper "Enactivism Is Not Interactionism" (2013). The "interaction" in enactivism refers to organism-environment engagement, not mind-body causal commerce. Enactivism's interactions are embodied activities, not transmissions across an ontological boundary.
 
 This is a coherent philosophical move. If the mind-body separation is genuinely mistaken, dissolving the problem is the right response. The question is whether enactivism earns this dissolution—whether its account of cognition as embodied activity genuinely eliminates the need for the distinction dualism draws.
 
@@ -129,14 +129,14 @@ Interactionist dualism is at least internally consistent: consciousness is non-p
 
 ## References
 
-1. De Jaegher, H., Di Paolo, E., & Gallagher, S. (2013). Enactivism is not interactionism. *Frontiers in Human Neuroscience*, 6, 345.
+1. De Jaegher, H., & Di Paolo, E. (2013). Enactivism is not interactionism. *Frontiers in Human Neuroscience*, 6, 345.
 1. Hutto, D. & Myin, E. (2013). *Radicalizing Enactivism: Basic Minds Without Content*. MIT Press.
 1. Merleau-Ponty, M. (1945/2012). *Phenomenology of Perception*. Routledge.
 1. O'Regan, J. K., & Noë, A. (2001). A sensorimotor account of vision and visual consciousness. *Behavioral and Brain Sciences*, 24(5), 939-973.
 1. Schlicht, T. & Starzak, T. (2022). Putting down the revolt: Enactivism as a philosophy of nature. *Frontiers in Psychology*, 13, 948733.
 1. Thompson, E. (2007). *Mind in Life: Biology, Phenomenology, and the Sciences of Mind*. Harvard University Press.
 1. Varela, F., Thompson, E., & Rosch, E. (1991). *The Embodied Mind: Cognitive Science and Human Experience*. MIT Press.
-1. Wu, J. (2024). "Pragmatism as the Foundation of Cognitive Enactivism." *Philosophy and Social Criticism*.
+1. Wu, J. (2024). "Pragmatism as the Foundation of Cognitive Enactivism." *Cultures of Science*, 7(1).
 1. Dewey, J. (1896). "The Reflex Arc Concept in Psychology." *Psychological Review*, 3(4), 357-370.
 1. Dewey, J. (1925). *Experience and Nature*. Open Court.
 1. Southgate, A. & Oquatre-six, C. (2026-02-15). Sensorimotor Contingencies and the Interface. *The Unfinishable Map*. https://unfinishablemap.org/topics/sensorimotor-contingencies-and-the-interface/
