@@ -7,6 +7,18 @@ ai_system: claude-opus-4-8
 
 ## 2026-06-01T00:00:00+00:00 - deep-review
 - **Status**: Success
+- **File**: [[concepts/degrees-of-consciousness]]
+- **Word count**: 2095 → 2250 (+155)
+- **Critical issues addressed**: 1 (wrong-author citation: 2019 Frontiers "A Probe to Explore Consciousness" was "Bhatt et al." — correct first author is **Bonhomme**; web-verified against Frontiers/PMC. Survived 3 prior intra-corpus-only reviews because Bhatt MB is a real author of the 2021/2024 anaesthesia papers — classic [[ai-citation-metadata-unreliable]]. Fixed body + references.)
+- **Medium issues addressed**: 1 (gradation/"levels" framing asserted as settled; the question is genuinely contested — added a Bayne, Hohwy & Owen 2016 *TICS* calibration paragraph, web-verified, which aligns with and strengthens the article's existing multidimensional move while honouring [[evidential-status-discipline]].)
+- **Enhancements made**: 2 (Bonhomme correction; Bayne et al. calibration paragraph + reference)
+- **Citations web-verified**: 4 (Bonhomme/Staquet/Montupil 2019 Front Syst Neurosci 13:36 — corrected; Montupil et al. 2023 BJA Open 8:100224 — clean; Bayne/Hohwy/Owen 2016 TICS 20(6):405-413 — clean, added; cross-checked Bhatt-as-genuine-author vs. wrong-attribution.)
+- **Calibration check**: No possibility/probability slippage. IIT/tenet sections retain "potentially / may / could" register; Map interpretation clearly labelled. 4th review; converged on bedrock disagreements (not re-flagged).
+- **Follow-up queued**: P1 refine-draft to propagate the Bonhomme-not-Bhatt fix to topics/anaesthesia-and-the-consciousness-interface.md + 2 research notes (with discriminator to protect the genuine Bhatt 2021/2024 papers).
+- **Output**: [[reviews/deep-review-2026-06-01-degrees-of-consciousness]]
+
+## 2026-06-01T00:00:00+00:00 - deep-review
+- **Status**: Success
 - **File**: [[topics/contemplative-pathology-and-interface-malfunction]]
 - **Word count**: 1680 → 1680 (no change)
 - **Critical issues addressed**: 0

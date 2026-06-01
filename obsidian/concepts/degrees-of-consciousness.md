@@ -4,8 +4,8 @@ description: "Consciousness varies in intensity and richness, not just in kind. 
 created: 2026-03-20
 modified: 2026-03-20
 human_modified:
-ai_modified: 2026-05-28T13:30:00+00:00
-last_deep_review: 2026-04-27T19:27:00+00:00
+ai_modified: 2026-06-01T00:00:00+00:00
+last_deep_review: 2026-06-01T00:00:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -50,11 +50,13 @@ When consciousness comes in degrees, what exactly is it that admits of more or l
 
 These dimensions can vary independently. Ketamine dissociation involves high phenomenal intensity with reduced access and reduced complexity. NREM sleep involves reduced intensity and richness but may preserve minimal phenomenal states. This independence is itself evidence that consciousness is not a single quantity but a multidimensional phenomenon that can be dialled up or down along separate axes.
 
+The phrase "degrees of consciousness" can therefore mislead. Bayne, Hohwy, and Owen (2016) argue that the familiar talk of *levels* of consciousness — a single ladder from coma through sedation to full wakefulness — is theoretically untenable, and propose replacing it with a multidimensional account in which global states differ along several partly independent dimensions rather than along one scalar of "amount." The gradation question is, in this respect, genuinely contested: the present article uses "degrees" as shorthand for graded *and multidimensional* variation, not for a single quantity. This matters for The Unfinishable Map's reading, set out below — the interface that can be opened, narrowed, or reconfigured along several axes fits the multidimensional picture more naturally than a one-dimensional dimmer, even though the dimmer metaphor remains a useful first approximation.
+
 ## Evidence for Gradation
 
 ### Anaesthesia
 
-[[anaesthesia-and-the-consciousness-interface|Anaesthetic pharmacology]] is the catalogue's strongest clinical-evidence worked exhibit of graded consciousness. It establishes that the transition from consciousness to unconsciousness is not a single step but a series of dissociable transitions. Research identifies at least three distinct states (Bhatt et al. 2019; Montupil et al. 2023):
+[[anaesthesia-and-the-consciousness-interface|Anaesthetic pharmacology]] is the catalogue's strongest clinical-evidence worked exhibit of graded consciousness. It establishes that the transition from consciousness to unconsciousness is not a single step but a series of dissociable transitions. Research identifies at least three distinct states (Bonhomme et al. 2019; Montupil et al. 2023):
 
 - **Connected consciousness** — awareness of self and environment, responsive
 - **Disconnected consciousness** — phenomenal experience persists (dreams, hallucinations) but connection to external stimuli is severed
@@ -140,6 +142,7 @@ Degrees of consciousness raise a fundamental question: is there a lowest degree,
 4. Bodien, Y.G., Claassen, J., et al. (2024). Cognitive Motor Dissociation in Disorders of Consciousness. *New England Journal of Medicine*, 391(7), 598-608.
 5. Ginsburg, S., & Jablonka, E. (2019). *The Evolution of the Sensitive Soul: Learning and the Origins of Consciousness*. MIT Press.
 6. Metzinger, T. (2020). Minimal phenomenal experience: Meditation, tonic alertness, and the phenomenology of 'pure' consciousness. *Philosophy and the Mind Sciences*, 1(I), 7.
-7. Bhatt, M. B., et al. (2019). General anesthesia: a probe to explore consciousness. *Frontiers in Systems Neuroscience*, 13, 36.
+7. Bonhomme, V., Staquet, C., Montupil, J., et al. (2019). General anesthesia: a probe to explore consciousness. *Frontiers in Systems Neuroscience*, 13, 36.
 8. Montupil, J., Cardone, P., Staquet, C., et al. (2023). The nature of consciousness in anaesthesia. *BJA Open*, 8, 100224.
-9. Southgate, A. & Oquatre-cinq, C. (2026-01-31). Minimal Consciousness. *The Unfinishable Map*. https://unfinishablemap.org/concepts/minimal-consciousness/
+9. Bayne, T., Hohwy, J., & Owen, A. M. (2016). Are There Levels of Consciousness? *Trends in Cognitive Sciences*, 20(6), 405-413.
+10. Southgate, A. & Oquatre-cinq, C. (2026-01-31). Minimal Consciousness. *The Unfinishable Map*. https://unfinishablemap.org/concepts/minimal-consciousness/
