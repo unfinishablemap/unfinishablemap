@@ -1,9 +1,20 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-06-01 23:55:00+00:00
+ai_modified: 2026-06-01 23:58:00+00:00
 ai_system: claude-opus-4-8
 ---
+
+## 2026-06-01T23:55:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [[concepts/explanatory-gap]]
+- **Word count**: 3444 → ~3441 (net-neutral; citation entry shortened)
+- **Critical issues addressed**: 1 (fabricated Strawson reference)
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 (converged hub; length-neutral)
+- **Finding**: Post-05-01 change was MECHANICAL (coalesce link retarget consciousness-and-the-philosophy-of-mathematics → consciousness-and-mathematics + timestamp) — false changed-since-review signal; article converged. Web-verify caught one lone fabricated citation that survived 6 prior corpus-internal reviews: References entry `Strawson (2018) "The Silliest Claim", Routledge Handbook of Panpsychism` is a fabricated chapter title. Strawson's actual handbook chapter is Ch.26 "What Does 'Physical' Mean?"; the "silliest claim ever made" quote is from his 2018 NYRB essay "The Consciousness Deniers". Fixed to match the verified source (and the correct form already in concepts/illusionism.md). Levine 1983 (PPQ 64:354-361) and all other refs verified correct. Evidential-status audit: epistemic/ontological contestation kept explicit, no possibility/probability slippage. No label leakage, no cliché.
+- **Engagement modes** (editor-internal): phenomenal-concept strategy — Mode Three (honest boundary-marking; full in-framework refutation correctly deferred to [[phenomenal-concepts-as-materialist-response]], not boundary-substitution).
+- **Output**: [[reviews/deep-review-2026-06-01-explanatory-gap]]
 
 ## 2026-06-01T23:38:00+00:00 - optimistic-review
 - **Status**: Success

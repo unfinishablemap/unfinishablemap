@@ -4,7 +4,7 @@ description: "Physical descriptions leave unexplained why neural activity feels 
 created: 2026-01-14
 modified: 2026-01-20
 human_modified: null
-ai_modified: 2026-05-25T16:42:05+00:00
+ai_modified: 2026-06-01T03:55:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -37,7 +37,7 @@ author: null
 ai_system: claude-opus-4-5-20251101
 ai_generated_date: 2026-01-14
 last_curated: null
-last_deep_review: 2026-05-01T03:40:00+00:00
+last_deep_review: 2026-06-01T03:55:00+00:00
 ---
 
 The explanatory gap is the conceptual chasm between physical descriptions and conscious experience. Even a complete account of what the brain does—every neuron, every synapse, every chemical cascade—leaves unexplained *why* there is something it is like to undergo those processes. Joseph Levine introduced the term in 1983 to articulate what's missing from [[concepts/materialism|physicalist]] explanations of consciousness. The gap is central to [[philosophy-of-mind|philosophy of mind]], shaping debates between physicalists, dualists, and mysterians alike.
@@ -233,5 +233,5 @@ The gap supports humility. If we cannot understand consciousness from physical d
 1. Levine, J. (2001). *Purple Haze: The Puzzle of Consciousness*. Oxford University Press.
 1. McGinn, C. (1989). "Can We Solve the Mind-Body Problem?" *Mind*, 98, 349-366.
 1. Nagel, T. (1974). "What Is It Like to Be a Bat?" *Philosophical Review*, 83, 435-450.
-1. Strawson, G. (2018). "The Silliest Claim." In *The Routledge Handbook of Panpsychism*. Routledge.
+1. Strawson, G. (2018). "The Consciousness Deniers." *New York Review of Books*, March 13, 2018.
 1. Whitehead, A. N. (1929). *Process and Reality*. Macmillan.
