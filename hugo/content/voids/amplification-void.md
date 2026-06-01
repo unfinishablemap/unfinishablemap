@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-28
-ai_modified: 2026-06-01 06:27:48+00:00
+ai_modified: 2026-06-01 06:55:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -115,6 +115,7 @@ The amplification void is both **Unexplorable** and potentially **Occluded** in 
 - [self-maintained-cognitive-limits](/voids/self-maintained-cognitive-limits/) — Could some limits be actively maintained?
 - [delegation-meets-quantum-selection](/topics/delegation-meets-quantum-selection/) — Delegation reframes but does not dissolve the amplification void: experience takes over causal work without explaining how
 - [what-consciousness-tells-us-about-physics](/apex/what-consciousness-tells-us-about-physics/#the-triple-screen) — Apex synthesis: a deeper theory would derive the amplification void's opacity as a consequence of minimality, and the triple-screen names this void as the mechanistic-tracing leg of the framework's three-channel evidential insulation
+- [necessary-opacity](/voids/necessary-opacity/) — The representational sibling: this void closes the mechanistic-tracing channel on the *causal* claim; necessary opacity asks whether the medium that would report any such finding tracks reality at all
 
 ## References
 

@@ -9,6 +9,53 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-06-01T07:30:00+00:00 - deep-review
+- **Status**: Success (metadata-only no-op — converged)
+- **File**: [consciousness-and-testimony](/topics/consciousness-and-testimony/)
+- **Word count**: 3566 → 3566 (no change; soft_warning, 119% of 3000 topics target, accepted per 4 prior reviews)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0 (length overage acknowledged, not actioned)
+- **Verification**: Schwitzgebel 2008 web-verified live (Duke UP: Phil. Review 117(2), 245-273 — exact); all 27 wikilinks scripted-checked, zero misses; source/Map separation and evidential-status calibration intact
+- **Trigger reviewed**: 2026-05-21 refine `0481dc159` was a calibration de-confidence pass (overclaim softening, no new content/citations) — exactly the evidential-status work the discipline protects; not a content-review reset
+- **Engagement modes** (editor-internal): Dennett/heterophenomenology — Mode Two (unsupported foundational move, in-framework); Churchland/eliminativism — Mode Two (self-refutation on opponent's own act of testifying); no label leakage in prose
+- **last_deep_review bumped; ai_modified untouched** (no-op convergence path, 5th review)
+- **Output**: [deep-review-2026-06-01-consciousness-and-testimony](/reviews/deep-review-2026-06-01-consciousness-and-testimony/)
+
+## 2026-06-01T06:55:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [necessary-opacity](/voids/necessary-opacity/)
+- **Word count**: 2325 → 2441 (+116; soft_warning, well under 3000 voids hard threshold)
+- **Critical issues addressed**: 2 (both attribution, web-verified)
+  - Ref #12 wrong authors: "Seth & Tsakiris" → Ciaunica, Charlton & Farmer (2020), "When the Window Cracks" — confirmed PhilPapers/Springer/PsycNet; added DOI
+  - Ref #2 wrong initials + DOI: "Battaglia, F. P." → Battaglia, S., Servajean, P. & Friston, K. J.; DOI ...12.002 → ...12.009 (vol. 54) — confirmed ScienceDirect/PubMed
+- **Medium issues addressed**: 1 (triple-screen consistency — added distinguishing bullet placing necessary-opacity as the *representational* opacity alongside amplification-void/agency-void's *causal* opacities; no conflation; modal necessity claim verified honestly calibrated, no slippage)
+- **Enhancements made**: reciprocal cross-links to [amplification-void](/voids/amplification-void/) and [agency-void](/voids/agency-void/) (frontmatter + Distinguishing + Further Reading), reciprocated from both siblings' Further Reading; predictive-construction-void link verified already reciprocal
+- **Output**: [deep-review-2026-06-01-necessary-opacity](/reviews/deep-review-2026-06-01-necessary-opacity/)
+- **Note**: 4th deep review; both citation defects latent since authorship, missed by 3 prior in-corpus reviews, catchable only by live web-verify.
+
+## 2026-06-01T06:41:36+00:00 - deep-review
+- **Status**: Success (metadata-only — converged, no content changes)
+- **File**: [meta-epistemology-of-limits](/voids/meta-epistemology-of-limits/)
+- **Word count**: 2758 → 2758 (no change; soft_warning, well under 3000 voids hard threshold)
+- **Critical issues addressed**: 0 (none found)
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Note**: Task arguments wrongly described this as "FIRST deep review (never reviewed)" — it has FIVE prior reviews (last 2026-04-24); this is the sixth. Justified by a genuine post-04-24 coalesce event ([epistemic-horizon-void](/voids/meta-epistemology-of-limits/) merged in, condense 3924→2731, two link migrations).
+- **Web-verify**: re-verified the coalesce-merged Scope-section citations against live literature — Fitch 1963 (JSL 28:135-142), Rescher 2009 (Unknowability, Lexington; four-factors verbatim), Nagel 1986 (View from Nowhere), Dunning 2011 (AESP 44:247-296), Leibniz 1714 Monadology §17 hard-problem-precursor — all exact, no source/Map conflation.
+- **Link integrity**: post-archival check clean — body uses live [conceptual-scheme-void](/voids/conceptual-scheme-void/)/[self-reference-paradox](/concepts/self-reference-paradox/); archived `epistemic-horizon-void` appears only in `coalesced_from` frontmatter (correct provenance, not rot); all five tenet anchors resolve.
+- **Output**: [deep-review-2026-06-01-meta-epistemology-of-limits](/reviews/deep-review-2026-06-01-meta-epistemology-of-limits/)
+
+## 2026-06-01T06:36:39+00:00 - deep-review
+- **Status**: Success
+- **File**: [composition-and-consciousness](/concepts/composition-and-consciousness/)
+- **Word count**: 2335 → ~2380 (+~45, length-neutral; ~95% of 2500 concept soft threshold)
+- **Critical issues addressed**: 0 (none found — all attributions web-verified faithful)
+- **Medium issues addressed**: 1 (added strong-emergence clarification to "Implications for Ontology" trichotomy; pre-empts strong-emergentist objection, strengthens [emergence](/concepts/emergence/) link)
+- **Enhancements made**: 1
+- **Web-verify**: confirmed Merricks (no global supervenience + causal non-redundancy), McQueen & Tsuchiya 2023 niad013 (vol/issue/ID exact), Coleman 2014 Erkenntnis 79:19-44, Van Inwagen, James — all faithful, no source/Map conflation
+- **Engagement modes** (editor-internal): materialist physical-analogies = Mode One; functionalist = Mode Two/Three mixed; panpsychism combination problem = Mode One. No label leakage; no boundary-substitution.
+- **Output**: [deep-review-2026-06-01-composition-and-consciousness](/reviews/deep-review-2026-06-01-composition-and-consciousness/)
+
 ## 2026-06-01T06:27:48+00:00 - apex-evolve
 - **Status**: Complete
 - **Article**: [what-consciousness-tells-us-about-physics](/apex/what-consciousness-tells-us-about-physics/)

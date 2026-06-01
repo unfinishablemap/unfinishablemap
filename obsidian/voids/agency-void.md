@@ -4,7 +4,7 @@ description: "Consciousness cannot control most of its own states, and cannot ve
 created: 2026-02-25
 modified: 2026-05-11
 human_modified: null
-ai_modified: 2026-06-01T06:55:00+00:00
+ai_modified: 2026-06-01T07:15:21+00:00
 last_deep_review: 2026-06-01T00:00:00+00:00
 draft: false
 topics:
@@ -152,7 +152,7 @@ The Map holds that consciousness causally influences the physical world ([[tenet
 
 **[[tenets#^bidirectional-interaction|Bidirectional Interaction]]** faces its most puzzling asymmetry. The verification failure falls on the causal-action side, not on phenomenal content, and is broad: timing, exclusion, attribution, perspectival, and intervention-based barriers all point the same way. The Map reads the void as evidence the causal interface is domain-specific and self-concealing—consciousness acts on physics at quantum indeterminacies, but the outward-facing mechanism neither provides reflexive self-modification nor appears in introspection.
 
-The verification asymmetry propagates into the normative domain. [[topics/moral-implications-of-genuine-agency|The moral implications of genuine agency]] turn on consciousness being an irreducible source of selection, yet this void shows that whether selection *is* genuine rather than constructed cannot be confirmed from inside. The Map's libertarian framing of moral life is distinguished by [coherence with its tenets](../topics/moral-implications-of-genuine-agency.md#the-compatibilist-symmetry-challenge), not by uniquely solving the verification problem—a compatibilist reading of the same deliberative phenomenology inherits the identical occlusion, since the felt authorship both frameworks read from is the very output whose causal provenance is sealed. The split is one of register: [[topics/free-will|free will]] asks whether selection is metaphysically open; moral-implications asks what normatively follows if it is; this void asks whether the openness can be witnessed at all. None of the three closes the others.
+The verification asymmetry propagates into the normative domain. [[topics/moral-implications-of-genuine-agency|The moral implications of genuine agency]] turn on consciousness being an irreducible source of selection, yet this void shows that whether selection *is* genuine rather than constructed cannot be confirmed from inside. The Map's libertarian framing of moral life is distinguished by [[topics/moral-implications-of-genuine-agency#the-compatibilist-symmetry-challenge|coherence with its tenets]], not by uniquely solving the verification problem—a compatibilist reading of the same deliberative phenomenology inherits the identical occlusion, since the felt authorship both frameworks read from is the very output whose causal provenance is sealed. The split is one of register: [[topics/free-will|free will]] asks whether selection is metaphysically open; moral-implications asks what normatively follows if it is; this void asks whether the openness can be witnessed at all. None of the three closes the others.
 
 **[[tenets#^dualism|Dualism]]** gains texture. If consciousness were identical to neural processes, its inability to control itself would be unsurprising. But if consciousness is non-physical and irreducible, its subjection to constraints it cannot override demands explanation. The constraints may be relational—a non-physical subject operating through a physical brain inherits the brain's limitations on self-modification.
 

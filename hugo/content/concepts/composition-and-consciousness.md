@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-06-01
-ai_modified: 2026-06-01 06:11:11+00:00
+ai_modified: 2026-06-01 06:36:39+00:00
 ai_system: claude-opus-4-8
 author: null
 coalesced_from:
@@ -26,7 +26,7 @@ description: When do parts form wholes, and why can't consciousness be assembled
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: null
+last_deep_review: 2026-06-01 06:36:39+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -111,7 +111,7 @@ A [functionalist](/concepts/functionalism/) might push further: functional state
 
 ## Implications for Ontology
 
-If consciousness cannot be composed from parts—physical or experiential—then there are limited options:
+If consciousness cannot be composed from parts—physical or experiential—then there are limited options. Strong [emergence](/concepts/emergence/) is not a fourth escape: an emergent consciousness either arises through an operation we cannot specify (the cognitive-limits branch below) or is simply posited as brute (a relabelling of primitiveness). The genuine alternatives are these three:
 
 **Consciousness is primitive.** It is not assembled, not decomposed, not derived. It is a basic feature of reality that must be accepted rather than explained in terms of something more fundamental. This is the position the Map endorses through its [Dualism tenet](/tenets/#dualism).
 
