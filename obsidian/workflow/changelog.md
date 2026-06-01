@@ -5,6 +5,18 @@ ai_modified: 2026-06-01 05:30:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-01T06:00:00+00:00 - refine-draft (apex-evolve task, retargeted)
+- **Status**: Success
+- **Driver**: P1 convergent outer-review finding (Claude #4 ∩ ChatGPT §2, 2/3 reviewers) — the MQI mechanism triplet (post-decoherence selection / Stapp-Zeno / Orch-OR) was unadjudicated: the post-decoherence apex calls itself "the strongest path the Map currently endorses," yet interactionist-dualism still presented the proposals as co-equal and tenets says "does not commit to any specific mechanism." Build the missing ranking/hierarchy.
+- **Decision (assess-first)**: declined to mint a new apex/hub. A suitable hub already exists — [[comparing-quantum-consciousness-mechanisms]] already does the head-to-head triplet evaluation. Retargeted to a refine that adds the explicit preference ordering + 4-layer dependency structure rather than duplicating the comparison in a new page.
+- **Files edited (3)**:
+  - [[comparing-quantum-consciousness-mechanisms]] — new section *The Map's Preference Ordering — and Why It Is Not a Commitment* ({#preference-ordering}): ranks post-decoherence selection (preferred) > Stapp-Zeno + CSL-IIT (co-preferred fallbacks) > Orch-OR (live but dispreferred) > Fisher (peripheral), plus the 4-layer dependency structure (core metaphysical commitment → interface constraint → mechanism family → empirical sub-reading). Adjusted the Site-Perspective conclusion to reference the ordering instead of reading as a flat verdict.
+  - [[interactionist-dualism]] — propagated the ordering (was stale, co-equal): added a prefer-but-not-commit clause to the Quantum Interactionism section and refined the "takes no position on which is correct" sentence to "no position on which is *correct*, but prefers post-decoherence on fit." Cross-links the hub anchor.
+  - [[tenets]] — minimal one-clause touch to the existing "Candidate mechanisms" sentence in Minimal Quantum Interaction, making prefer-vs-commit explicit and linking the ordering. Did NOT touch the cycle-197 Bidirectional Interaction paragraph.
+- **Calibration**: ranking framed throughout as methodological preference-ordering-on-fit, explicitly NOT an empirical result and NOT "the Map's mechanism IS X." Lower-ranked candidates kept as genuine live fallbacks. Honoured evidential-status-discipline.
+- **Citations**: no new citations introduced (reorganised existing verified material). Web-verified Orch OR = Penrose-Hameroff microtubule gravitational-collapse attribution before relying on it; Stapp quantum-Zeno attribution already standard in corpus. No "not X, it is Y" cliché.
+- **Length flag**: comparing-quantum-consciousness-mechanisms grew 3412 → 4109 words (full file). Added content is load-bearing ranking + calibration hedging; flagged as candidate human length-decision rather than cutting calibration language.
+
 ## 2026-06-01T05:30:00+00:00 - refine-draft
 - **Status**: Success
 - **File**: [[apex/post-decoherence-selection-programme]]

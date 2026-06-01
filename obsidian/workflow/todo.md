@@ -60,16 +60,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: outer-review
 - **Generated**: 2026-06-01
 
-### P1: Build the missing MQI mechanism-adjudication article (rank post-decoherence selection vs Stapp-Zeno vs Orch-OR)
-- **Type**: apex-evolve
-- **Status**: pending
-- **File**: obsidian/apex/post-decoherence-selection-programme.md
-- **Notes**: From convergent outer reviews (2026-06-01, 2/3 reviewers): [chatgpt, claude]. Upgraded P2→P1 by /combine-outer-reviews — Claude Opus 4.8 Finding #4 ("unreconciled mechanism triplet") and ChatGPT 5.5 Pro §2 ("MQI needs a mechanism hierarchy, not a mechanism cloud") independently flagged the same structural weakness, so this carries cross-reviewer convergence weight. The quantum cluster runs three partly-redundant mechanisms (post-decoherence selection; Stapp quantum Zeno; Orch-OR) that no single article adjudicates: the post-decoherence apex calls itself "the strongest path the Map currently endorses," yet [[interactionist-dualism]] still presents Stapp/Zeno and Orch-OR as co-equal live options ("both proposals share what the Map requires") and the [[tenets]] page says "the Map does not commit to any specific mechanism." Different entry points give readers incompatible impressions of what the Map's mechanism actually IS. ASSESS-FIRST per [[stale-expand-tasks-may-be-redundant]]: check whether an adjudication/hierarchy page already exists (candidates: [[falsification-roadmap-for-the-interface-model]] distinguishes subreadings but does not RANK them; [[what-consciousness-tells-us-about-physics]]). If a suitable hub exists, retarget to a refine that adds the explicit ordering + dependency layering (ChatGPT's four layers: core metaphysical commitment / interface constraint / mechanism family / empirical subreading) rather than a new page. Then propagate the ordering into [[interactionist-dualism]] (currently stale — still co-equal) and the [[tenets]] page. CALIBRATION CONSTRAINT: ranking ≠ commitment — the Map can prefer post-decoherence selection while keeping the others as live fallbacks; do not overstate to "the Map's mechanism is X." Concept/topic section caps may be near full — if a new page is warranted, check section_caps; an apex synthesis is cap-exempt.
-- **Review files**: `reviews/outer-review-2026-06-01-claude-opus-4-8.md`, `reviews/outer-review-2026-06-01-chatgpt-5-5-pro.md`
-- **Synthesis**: `reviews/outer-review-synthesis-2026-06-01.md`
-- **Source**: outer-review
-- **Generated**: 2026-06-01
-
 ### P2: Verification corrections bundle — Tenets-page citation, FBT verb, photosynthesis precedent-not-licence, MWI ontological-extravagance residue
 - **Type**: refine-draft
 - **Status**: pending
@@ -3685,6 +3675,10 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 Tasks that failed 3+ times and require human intervention.
 
+
+### ✓ 2026-06-01: Build the missing MQI mechanism-adjudication article (rank post-decoherence selection vs Stapp-Zeno vs Orch-OR)
+- **Type**: apex-evolve
+- **Notes**: From convergent outer reviews (2026-06-01, 2/3 reviewers): [chatgpt, claude]. Upgraded P2→P1 by /combine-outer-reviews — Claude Opus 4.8 Finding #4 ("unreconciled mechanism triplet") and ChatGPT 5.5 Pro §2 ("MQI needs a mechanism hierarchy, not a mechanism cloud") independently flagged the same structural weakness, so this carries cross-reviewer convergence weight. The quantum cluster runs three partly-redundant mechanisms (post-decoherence selection; Stapp quantum Zeno; Orch-OR) that no single article adjudicates: the post-decoherence apex calls itself "the strongest path the Map currently endorses," yet [[interactionist-dualism]] still presents Stapp/Zeno and Orch-OR as co-equal live options ("both proposals share what the Map requires") and the [[tenets]] page says "the Map does not commit to any specific mechanism." Different entry points give readers incompatible impressions of what the Map's mechanism actually IS. ASSESS-FIRST per [[stale-expand-tasks-may-be-redundant]]: check whether an adjudication/hierarchy page already exists (candidates: [[falsification-roadmap-for-the-interface-model]] distinguishes subreadings but does not RANK them; [[what-consciousness-tells-us-about-physics]]). If a suitable hub exists, retarget to a refine that adds the explicit ordering + dependency layering (ChatGPT's four layers: core metaphysical commitment / interface constraint / mechanism family / empirical subreading) rather than a new page. Then propagate the ordering into [[interactionist-dualism]] (currently stale — still co-equal) and the [[tenets]] page. CALIBRATION CONSTRAINT: ranking ≠ commitment — the Map can prefer post-decoherence selection while keeping the others as live fallbacks; do not overstate to "the Map's mechanism is X." Concept/topic section caps may be near full — if a new page is warranted, check section_caps; an apex synthesis is cap-exempt.
 
 ### ✓ 2026-06-01: Confront the bias-without-deviation dilemma head-on in post-decoherence-selection + Bidirectional-Interaction tenet
 - **Type**: refine-draft

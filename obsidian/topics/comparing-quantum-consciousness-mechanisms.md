@@ -4,7 +4,7 @@ description: "Head-to-head evaluation of Orch OR, Stapp's Zeno model, Fisher's n
 created: 2026-02-09
 modified: 2026-02-22
 human_modified:
-ai_modified: 2026-05-23T13:15:00+00:00
+ai_modified: 2026-06-01T00:00:00+00:00
 last_deep_review: 2026-05-19T00:00:00+00:00
 draft: false
 topics:
@@ -150,13 +150,36 @@ The Map's relationship to Duch is *convergent-conclusion-opposite-reasoning*: bo
 
 **No single mechanism currently addresses all criteria.** Each illuminates different aspects: Stapp explains effort phenomenology; Orch OR connects consciousness to spacetime; Fisher demonstrates biological quantum persistence; CSL hybrids solve the prebiotic problem. The full picture may require elements from multiple proposals. The [[falsification-roadmap-for-the-interface-model|falsification roadmap]] maps these experimental prospects onto the Map's five tenets, specifying what evidence would require abandoning each commitment.
 
+## The Map's Preference Ordering — and Why It Is Not a Commitment {#preference-ordering}
+
+The Map's [[tenets|tenets]] state that it "does not commit to any specific mechanism." That is the right calibration at the level of *truth*: which mechanism is correct remains genuinely open, and the empirical traction needed to decide is not yet available. But not-committing is compatible with *preferring*. The Map can rank these proposals by methodological fit — how cleanly each sits inside the tenet structure and how cheaply it escapes the standing objections — without claiming the ranked-first proposal is the one nature uses. The ranking below is a preference ordering, not an empirical result, and the distinction is load-bearing: a mechanism the Map prefers can still turn out false, and the lower-ranked candidates remain genuine live fallbacks, not discarded options.
+
+The ordering follows directly from the [[#the-post-decoherence-gap|post-decoherence gap]] and the decoherence divide:
+
+1. **Post-decoherence selection** (preferred). Consciousness biases which element of the *already-decohered* improper mixture becomes actual. This sidesteps the [[timing-gap-problem|timing gap]] entirely — it requires no quantum coherence to survive at neural timescales — and derives [[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]] from the structure of the measurement problem rather than asserting it. [[post-decoherence-selection-programme|The post-decoherence selection programme]] is the Map's most developed synthesis and the strongest path it currently endorses. Stapp's Zeno model and CSL-IIT both sit naturally inside this preference, because both can be read as forward-in-time selection acting on (or near) the decohered mixture rather than on fragile superpositions.
+
+2. **Stapp's quantum Zeno model** and **CSL-IIT hybrids** (co-preferred fallbacks). Both satisfy all five tenets and operate through discrete events or modified dynamics rather than sustained coherence. They rank just below the post-decoherence framing because each carries a specific additional debt the bare post-decoherence move avoids: Stapp's literal-Zeno reading commits to attention-rate-dependent signatures it has not yet exhibited brain-internally, and CSL-IIT's consciousness-modulation component is currently untestable. Where they can be read as implementations *of* post-decoherence selection, the Map treats them as allies rather than rivals.
+
+3. **Orch OR** (live but dispreferred). Penrose-Hameroff's gravitational collapse in microtubules is the most empirically active proposal — growing anaesthetic and superradiance evidence, a shrinking parameter space — but it sits uneasily with [[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]] (it demands macroscopic coherence and Penrose's proto-conscious OR events imply a panpsychism the Map does not endorse), and it stakes everything on the contested decoherence-timescale dispute. It is dispreferred not because it is refuted but because it pays the highest tenet-fit cost; should its microtubule-coherence evidence consolidate, the ordering would update.
+
+4. **Fisher's nuclear-spin hypothesis** (peripheral). Strong on decoherence resistance and falsifiability, but its minutes-to-hours timescale and undeveloped connection to dualism leave it explaining the wrong grain of experience for the Map's purposes.
+
+This ordering nests inside a **four-layer dependency structure**, and conflating the layers is the error the "co-equal mechanisms" framing invites:
+
+- **Layer 1 — Core metaphysical commitment.** [[tenets#^dualism|Dualism]] plus [[agent-causation|agent causation]]: consciousness is irreducible and a genuine selector. *Not negotiable; not a mechanism.*
+- **Layer 2 — Interface constraint.** [[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]]: the influence is the smallest possible, located where physics leaves outcomes undetermined. *A constraint on mechanisms, satisfied most cleanly by post-decoherence selection.*
+- **Layer 3 — Mechanism family.** The post-decoherence / Stapp-Zeno / CSL-IIT / Orch-OR proposals. *This is where the preference ordering lives — and where the Map declines to commit.*
+- **Layer 4 — Empirical sub-reading.** The specific signature each mechanism would produce (attention-rate-dependent Born deviation, Φ-dependent collapse statistics, microtubule coherence), catalogued in [[brain-internal-born-rule-testing]] and the [[falsification-roadmap-for-the-interface-model|falsification roadmap]]. *Where future evidence would move the Layer-3 ordering.*
+
+The tenet-level "no commitment" lives at Layer 3 and below; the preference lives there too, as an ordering *within* the uncommitted set. Layers 1 and 2 are not in play — they are the fixed frame the Layer-3 candidates compete inside. Reading the Map as endorsing "all mechanisms equally" mistakes a deliberate refusal-to-commit-on-truth for an absence-of-preference-on-fit; reading it as committed to post-decoherence selection mistakes a fit-preference for a truth-claim. Both errors collapse a layer.
+
 ## Relation to Site Perspective
 
 The Map's [[tenets]] do not commit to a single mechanism, and this comparison explains why agnosticism is warranted. The [[#the-post-decoherence-gap|post-decoherence gap]] explains where the constraints bite: [[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]] locates consciousness's causal role at the point where decoherence prepares pointer states but does not select among them — ruling against proposals requiring macroscopic coherence or panpsychist commitments. [[tenets#^bidirectional-interaction|Bidirectional Interaction]] requires genuine causation, not mere correlation. [[tenets#^no-many-worlds|No Many Worlds]] requires real collapse.
 
-Within these constraints, Stapp's Zeno model and consciousness-modulated spontaneous collapse emerge as the most tenet-compatible approaches — both [[forward-in-time-conscious-selection|non-retrocausal conscious selection]] frameworks acting forward in time. Tenet compatibility is a philosophical preference, not a scientific verdict. These may be complementary rather than competing: Stapp describes *how* consciousness modulates collapse (through attentional observation), while gravitational OR or CSL provides baseline collapse dynamics. The [[coupling-modes]] framework — basis control, timing control, probability control — specifies what integration would require.
+Within these constraints, the [[#preference-ordering|preference ordering]] above places post-decoherence selection first, with Stapp's Zeno model and consciousness-modulated spontaneous collapse as co-preferred fallbacks — all three [[forward-in-time-conscious-selection|non-retrocausal conscious selection]] frameworks acting forward in time. Tenet compatibility is a philosophical preference, not a scientific verdict, and the ordering ranks methodological fit rather than likelihood of truth. These may be complementary rather than competing: Stapp describes *how* consciousness modulates collapse (through attentional observation), while gravitational OR or CSL provides baseline collapse dynamics. The [[coupling-modes]] framework — basis control, timing control, probability control — specifies what integration would require.
 
-The Map's position: *some* quantum consciousness mechanism exists, constrained by the tenets. Which one is correct remains genuinely open. The diversity of viable candidate mechanisms also raises the question of [[interface-heterogeneity]]—whether different conscious systems couple through different mechanisms rather than a single universal one.
+The Map's position: *some* quantum consciousness mechanism exists, constrained by the tenets; the Map prefers the post-decoherence framing on fit while keeping the alternatives as live fallbacks. Which one is in fact correct remains genuinely open. The diversity of viable candidate mechanisms also raises the question of [[interface-heterogeneity]]—whether different conscious systems couple through different mechanisms rather than a single universal one.
 
 ## Further Reading
 

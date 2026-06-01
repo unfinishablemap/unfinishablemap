@@ -4,7 +4,7 @@ description: "Mind and body are distinct yet causally connected. Quantum indeter
 created: 2026-01-14
 modified: 2026-01-31
 human_modified: null
-ai_modified: 2026-05-29T00:07:17+00:00
+ai_modified: 2026-06-01T00:00:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -130,7 +130,7 @@ Quantum mechanics describes systems in superposition until measured. What causes
 
 **Orchestrated Objective Reduction (Orch OR)**: Penrose and Hameroff propose consciousness originates in quantum computations within microtubules, with collapse events constituting conscious experience itself.
 
-Both share what the Map requires: consciousness biasing otherwise indeterminate outcomes without violating physical law. The [[born-rule-and-the-consciousness-interface|Born rule's resistance to derivation]] across every quantum interpretation supports this picture: the rule may encode the consciousness-physics interface rather than being a purely physical law. The [[consciousness-physics-interface-formalism]] defines what any such proposal must satisfy: an experiential state space, a physical state space, and a coupling map respecting five constraints (Born rule preservation, inner product invariance, no-signalling, second-order interference only, and conservation law compatibility).
+Both share what the Map requires: consciousness biasing otherwise indeterminate outcomes without violating physical law. The Map does not commit to which proposal is correct, but it does *prefer* one on grounds of tenet fit: post-decoherence selection — consciousness biasing the already-decohered mixture — sidesteps the [[timing-gap-problem|decoherence timing objection]] that Orch OR must answer, and so ranks ahead of mechanisms requiring sustained neural coherence. Stapp's Zeno model sits naturally inside that preference as a forward-in-time selection account. This is a methodological preference ordering, not an empirical verdict; the full ranking and its four-layer dependency structure are set out in [[comparing-quantum-consciousness-mechanisms#preference-ordering|Comparing Quantum Consciousness Mechanisms]]. The [[born-rule-and-the-consciousness-interface|Born rule's resistance to derivation]] across every quantum interpretation supports this picture: the rule may encode the consciousness-physics interface rather than being a purely physical law. The [[consciousness-physics-interface-formalism]] defines what any such proposal must satisfy: an experiential state space, a physical state space, and a coupling map respecting five constraints (Born rule preservation, inner product invariance, no-signalling, second-order interference only, and conservation law compatibility).
 
 [[lucid-dreaming-and-dualist-rendering|Lucid dreaming]] offers phenomenological evidence for consciousness biasing neural activity—the dreamer's intentions reshape brain states in real time, with control varying in ways consistent with selection within physical constraints.
 
@@ -146,7 +146,7 @@ Beyond *where* consciousness interfaces with physics, interactionism must specif
 
 ## The Decoherence Objection
 
-Critics argue brain quantum effects decohere too fast (~10^-13 seconds by Tegmark's calculation). Responses: the Zeno effect doesn't require long coherence; Hameroff challenged Tegmark's parameters; photosynthesis demonstrates quantum effects in warm, wet systems. Crucially, [[decoherence]] explains basis selection but not why *this particular* outcome occurs—consciousness could bias outcomes even after decoherence. Even granting the decoherence concern, the chain from quantum-scale influence to macroscopic neural effect passes through regimes where chaotic dynamics make the pathway structurally untraceable—the [[amplification-void|amplification void]]. The Map takes no position on which quantum mechanism is correct, only that some interface exists.
+Critics argue brain quantum effects decohere too fast (~10^-13 seconds by Tegmark's calculation). Responses: the Zeno effect doesn't require long coherence; Hameroff challenged Tegmark's parameters; photosynthesis demonstrates quantum effects in warm, wet systems. Crucially, [[decoherence]] explains basis selection but not why *this particular* outcome occurs—consciousness could bias outcomes even after decoherence. Even granting the decoherence concern, the chain from quantum-scale influence to macroscopic neural effect passes through regimes where chaotic dynamics make the pathway structurally untraceable—the [[amplification-void|amplification void]]. The Map takes no position on which quantum mechanism is *correct*, only that some interface exists — though it prefers the post-decoherence-selection framing on tenet-fit grounds (see the [[comparing-quantum-consciousness-mechanisms#preference-ordering|preference ordering]]), precisely because it does not require coherence to survive the decoherence the objection invokes.
 
 ## Agent Causation: The Metaphysical Framework
 
