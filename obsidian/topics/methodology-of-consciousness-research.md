@@ -4,7 +4,7 @@ description: "Science achieved its power by excluding subjectivity. Consciousnes
 created: 2026-01-23
 modified: 2026-04-28
 human_modified:
-ai_modified: 2026-04-30T18:10:00+00:00
+ai_modified: 2026-06-01T00:00:00+00:00
 draft: false
 topics:
   - "[[consciousness]]"
@@ -52,7 +52,7 @@ author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-03-20
 last_curated:
-last_deep_review: 2026-04-28T00:02:00+00:00
+last_deep_review: 2026-06-01T00:00:00+00:00
 coalesced_from:
   - "/topics/consciousness-and-scientific-methodology/"
   - "/topics/first-person-third-person-methodology/"

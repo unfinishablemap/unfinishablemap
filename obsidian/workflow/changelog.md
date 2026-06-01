@@ -5,6 +5,18 @@ ai_modified: 2026-06-01 10:51:37+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-01T00:00:00+00:00 - deep-review
+- **Status**: Success (no critical issues; converged article, metadata-only)
+- **File**: [[topics/methodology-of-consciousness-research]]
+- **Word count**: 3002 → 3002 (no change; at soft threshold, length-neutral mode)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Reasoning-mode (§2.6, editor-internal)**: engagement with Dennett (heterophenomenology): Mode One→Two — instability dilemma internal to the method; engagement with eliminativism (Frankish 2016 / Dennett 2016): Mode Two — self-undermining argument using the opponent's own reliance on introspective reasoning. Both natural prose, no editor-label leakage, no boundary-substitution.
+- **Checks**: all wikilinks + the `creative-consciousness#The Phenomenology of Creative Insight` heading anchor resolve; all attributions re-verified; abductive framing throughout — no possibility/probability slippage.
+- **Notes**: 11th review pass on a flagship topic article converged over 10 prior reviews. First application of the §2.6 reasoning-mode discipline (postdates prior reviews); confirmed mode-honest and leak-free. No substantive edits — preserved per convergence discipline.
+- **Output**: [[reviews/deep-review-2026-06-01-methodology-of-consciousness-research]]
+
 ## 2026-06-01T10:51:37+00:00 - refine-draft
 - **Status**: Success (calibration-inheritance refine; anchoring audit 2026-06-01)
 - **File**: [[topics/concession-convergence-philosophy-of-mathematics]]
