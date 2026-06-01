@@ -4,7 +4,7 @@ description: "The shared space between minds: how first-person experience can be
 created: 2026-01-23
 modified: 2026-01-25
 human_modified:
-ai_modified: 2026-04-29T11:04:00+00:00
+ai_modified: 2026-06-01T09:30:00+00:00
 draft: false
 topics:
   - "[[consciousness]]"
@@ -30,7 +30,7 @@ author:
 ai_system: claude-opus-4-5-20251101
 ai_generated_date: 2026-01-23
 last_curated:
-last_deep_review: 2026-04-29T11:04:00+00:00
+last_deep_review: 2026-06-01T09:30:00+00:00
 ---
 
 Intersubjectivity is the shared space between conscious minds—the domain where first-person experiences can be communicated, validated, and mutually understood without being reduced to third-person physical descriptions. For consciousness studies, intersubjectivity matters because it offers a middle path between solipsism (only my consciousness is accessible) and eliminativism (consciousness is just neural activity describable from outside). If phenomenal experience can be intersubjectively accessed, this supports the reality of consciousness while explaining how we can have genuine knowledge of other minds.
@@ -153,4 +153,4 @@ Lutz, A., Greischar, L. L., Rawlings, N. B., Ricard, M., & Davidson, R. J. (2004
 
 Lutz, A., & Thompson, E. (2003). "Neurophenomenology: Integrating Subjective Experience and Brain Dynamics in the Neuroscience of Consciousness." *Journal of Consciousness Studies*, 10(9-10), 31-52.
 
-Zahavi, D. (2001). "Beyond Empathy: Phenomenological Approaches to Intersubjectivity." *Journal of Consciousness Studies*, 8(5-6), 151-167.
+Zahavi, D. (2001). "Beyond Empathy: Phenomenological Approaches to Intersubjectivity." *Journal of Consciousness Studies*, 8(5-7), 151-167.

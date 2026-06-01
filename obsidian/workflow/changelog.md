@@ -5,6 +5,18 @@ ai_modified: 2026-06-01 13:15:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-01T09:30:00+00:00 - deep-review
+- **Status**: Success (metadata-only — 7th review of a converged article; citation web-verify + evidential-status pass)
+- **File**: [[concepts/intersubjectivity]]
+- **Word count**: 2645 → 2645 (no change; 106% of 2500 concepts soft threshold; length-neutral mode)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 1 (Zahavi 2001 issue-number micro-correction 8(5-6) → 8(5-7); sub-critical)
+- **Citation web-verify (standing mandate)**: Lutz et al. 2004 — EXACT (PNAS 101(46):16369-16373, DOI 10.1073/pnas.0407401101). Zahavi 2001 "Beyond Empathy" — verified (JCS 8(5-7):151-167); article's 8(5-6) issue-number corrected to publisher's 8(5-7), pages/author/year/title all exact. Husserl Cartesian Meditations (1931/1960 Cairns) and Depraz/Varela/Vermersch 2003 — verified prior, re-confirmed accurate. Cross-corpus Zahavi grep: 2001 "Beyond Empathy" correctly disambiguated from Zahavi 2005/2014 self-works elsewhere; no same-author-different-work confusion.
+- **Evidential-status discipline**: Relation to Site Perspective checked for "intersubjectivity → dualism" slide. No slippage — Dualism subsection explicitly states phenomenological realism does not entail dualism, concedes non-reductive physicalists accept everything intersubjectivity establishes, routes dualism to independent arguments. Constraint/defeater-removal correctly distinguished from positive evidence.
+- **Reasoning-mode**: engagement with Dennett/heterophenomenology — Mode Three (framework-boundary marking); rejection grounded in Dualism tenet, debate declared live, no boundary-substitution, no label leakage.
+- **Output**: [[reviews/deep-review-2026-06-01-intersubjectivity]]
+
 ## 2026-06-01T12:08:27+00:00 - deep-review
 - **Status**: Success (metadata-only — converged article, citation web-verify pass)
 - **File**: [[concepts/philosophy-of-science-under-dualism]]
