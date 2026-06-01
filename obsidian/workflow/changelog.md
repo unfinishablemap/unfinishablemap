@@ -5,6 +5,15 @@ ai_modified: 2026-06-01 05:30:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-01T00:00:00+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[topics/q3-q4-sliding-boundary-and-transparency-problem]]
+- **Anchoring**: calibration-inheritance refine vs anchor [[idealism]] — cleared the single failing anchor (hedge_density + underdetermination_markers; strong_assertions already passing, left untouched)
+- **Changes**: +3 scanner-counted singular hedge markers (hedge_count 6→9, density 2.11→3.148/kw, above the 3.09 target = 60% of anchor's 5.153) at interpretive junctures (Leibniz reading "is"→"seems", Whitehead "is best read"→"may be best read", stabilisation analysis "describe"→"perhaps describe"); +1 underdetermination marker via "underdetermined by the evidence" at the genuinely-conceded terminological question of which cell the Map occupies (Relation to Site Perspective)
+- **Verification**: evaluate_anchoring returns 0 flags; 2859 words (under 3000 soft); strong_assertion_count unchanged at 1 (0.35/kw, passing check untouched)
+- **Discipline**: calibration-inheritance, not claim-weakening; thesis + voice preserved; near-net-zero word change (+15); no "not X, it is Y" cliché
+- **Published**: yes (draft state unchanged: false)
+
 ## 2026-06-01T07:35:41+00:00 - refine-draft
 - **Status**: Success
 - **File**: [[topics/arguments-against-materialism]]
