@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-09
-ai_modified: 2026-05-19 19:00:00+00:00
+ai_modified: 2026-06-01 18:49:44+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -24,7 +24,7 @@ description: Why does experience belong to anyone? The ownership problem asks wh
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-04-29 15:31:00+00:00
+last_deep_review: 2026-06-01 18:49:44+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -60,7 +60,7 @@ Three features make the ownership problem distinctive:
 
 **It is not the self problem.** The [minimal self](/concepts/self-and-self-consciousness/)—the "for-me-ness" of experience—describes the phenomenological character of ownership. But describing ownership is not the same as explaining it. Saying experience has a for-me quality restates the fact that experience is owned. The ownership problem asks *why* it has this quality.
 
-**It is not the agency problem.** Shaun Gallagher (2000, 2012) distinguishes two phenomenal features the ordinary use of "ownership" conflates. The [mine-ness layer](/concepts/mine-ness/) is the felt for-me character by which experience presents as belonging to a subject. The agency layer is the felt initiation by which a thought or action presents as authored by that subject. They dissociate clinically in both directions: schizophrenic thought insertion preserves mine-ness while disrupting agency (the thought occurs in *my* mind but feels produced by someone else); depersonalisation can disrupt mine-ness while leaving agency intact. The ownership problem this article addresses targets the mine-ness layer—why experience belongs to anyone at all—not the agency layer, which is the further question of why some experiences feel authored. The two questions need parallel treatment but they are not the same question.
+**It is not the agency problem.** Shaun Gallagher (2000; with Zahavi 2012) distinguishes two phenomenal features the ordinary use of "ownership" conflates. The [mine-ness layer](/concepts/mine-ness/) is the felt for-me character by which experience presents as belonging to a subject. The agency layer is the felt initiation by which a thought or action presents as authored by that subject. They dissociate clinically in both directions: schizophrenic thought insertion preserves mine-ness while disrupting agency (the thought occurs in *my* mind but feels produced by someone else); depersonalisation can disrupt mine-ness while leaving agency intact. The ownership problem this article addresses targets the mine-ness layer—why experience belongs to anyone at all—not the agency layer, which is the further question of why some experiences feel authored. The two questions need parallel treatment but they are not the same question.
 
 ## Why Physicalism Struggles
 
@@ -157,6 +157,7 @@ The ownership problem supports and is illuminated by the Map's foundational comm
 1. Zahavi, D. (2005). *Subjectivity and Selfhood: Investigating the First-Person Perspective*. MIT Press.
 1. Husserl, E. (1913/1982). *Ideas Pertaining to a Pure Phenomenology and to a Phenomenological Philosophy*. Martinus Nijhoff.
 1. Gallagher, S. (2000). "Philosophical Conceptions of the Self." *Trends in Cognitive Sciences*, 4(1), 14-21.
+1. Gallagher, S. & Zahavi, D. (2012). *The Phenomenological Mind* (2nd ed.). Routledge.
 1. Strawson, G. (2009). *Selves: An Essay in Revisionary Metaphysics*. Oxford University Press.
 1. Chalmers, D. (1996). *The Conscious Mind: In Search of a Fundamental Theory*. Oxford University Press.
 1. Parfit, D. (1984). *Reasons and Persons*. Oxford University Press.

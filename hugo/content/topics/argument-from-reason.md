@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-23
-ai_modified: 2026-05-29 03:55:00+00:00
+ai_modified: 2026-06-01 00:00:00+00:00
 ai_system: claude-sonnet-4-5-20250929
 author: null
 concepts:
@@ -33,7 +33,7 @@ embedded_videos:
   url: https://www.youtube-nocookie.com/embed/3p6g3W_8h-Q
 human_modified: null
 last_curated: null
-last_deep_review: 2026-04-30 22:25:00+00:00
+last_deep_review: 2026-06-01 00:00:00+00:00
 modified: *id001
 related_articles:
 - '[[topics/free-will]]'
@@ -203,11 +203,11 @@ The physicalist might respond: "If there's no behavioural difference, the distin
 
 ## References
 
-Anscombe, G.E.M. "A Reply to Mr C.S. Lewis's Argument that 'Naturalism' is Self-Refuting." Socratic Digest, 1948. (Critique delivered at the Oxford Socratic Club, leading to Lewis's 1960 revision of *Miracles*.)
+Anscombe, G.E.M. "A Reply to Mr C.S. Lewis's Argument that 'Naturalism' is Self-Refuting." *Socratic Digest*, vol. 4, 1948. (Critique delivered at the Oxford Socratic Club, February 1948, leading to Lewis's 1960 revision of *Miracles*.)
 
 Goldman, Alvin. "Reliabilism." *Stanford Encyclopedia of Philosophy*, Spring 2016 ed.
 
-Hasker, William. "The Case for Emergent Dualism." In *The Waning of Materialism*, edited by R. Koons and G. Bealer, Oxford University Press, 2010.
+Hasker, William. "Persons and the Unity of Consciousness." In *The Waning of Materialism*, edited by R. Koons and G. Bealer, 175–190. Oxford University Press, 2010.
 
 Lewis, C.S. *Miracles: A Preliminary Study*. 1st ed. 1947; revised 2nd ed. 1960. (Chapter 3, "The Cardinal Difficulty of Naturalism," substantially rewritten after Anscombe's critique.)
 

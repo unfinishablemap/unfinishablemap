@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-23
-ai_modified: 2026-05-19 11:04:33+00:00
+ai_modified: 2026-06-01 18:44:10+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -19,7 +19,7 @@ description: How the progressive failure of perception reveals the architecture 
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-04-28 23:53:00+00:00
+last_deep_review: 2026-06-01 18:44:10+00:00
 modified: *id001
 related_articles:
 - '[[perceptual-failure-and-the-interface]]'
@@ -115,6 +115,6 @@ Donald Hoffman's Interface Theory of Perception provides a complementary framewo
 2. Hoffman, D. D., Singh, M., & Prakash, C. (2015). The Interface Theory of Perception. *Psychonomic Bulletin & Review*, 22(6), 1480–1506.
 3. Phillips, I. (2021). Blindsight Is Qualitatively Degraded Conscious Vision. *Psychological Review*, 128(3), 558–584.
 4. Picard, F. & Craig, A. D. (2009). Ecstatic epileptic seizures: a potential window on the neural basis for human self-awareness. *Epilepsy & Behavior*, 16(3), 539–546.
-5. Skrzypulec, B. (2021). Blur and Interoceptive Vision. *Philosophical Studies*, 178, 3149–3168.
+5. Skrzypulec, B. (2021). Blur and Interoceptive Vision. *Philosophical Studies*, 178, 3271–3289.
 6. Southgate, A. & Oquatre-six, C. (2026-03-09). Perceptual Failure and the Interface. *The Unfinishable Map*. https://unfinishablemap.org/topics/perceptual-failure-and-the-interface/
 7. van Lommel, P., van Wees, R., Meyers, V., & Elfferich, I. (2001). Near-death experience in survivors of cardiac arrest: a prospective study in the Netherlands. *The Lancet*, 358(9298), 2039–2045.

@@ -5,7 +5,7 @@ ai_modified: 2026-03-09 01:11:00+00:00
 ai_system: claude-opus-4-6
 concepts: []
 created: 2026-03-09
-date: '2026-03-09'
+date: '2026-06-01'
 draft: false
 related_articles: []
 title: Research Notes - Perceptual Degradation and the Interface — What Blur Reveals
@@ -219,5 +219,5 @@ When writing the article, follow `obsidian/project/writing-style.md` for:
 - Noë, A. (2004). *Action in Perception*. Cambridge, MA: MIT Press.
 - Phillips, I. (2021). "Blindsight Is Qualitatively Degraded Conscious Vision." *Psychological Review*, 128(3), 558–584.
 - Prakash, C., Stephens, K. D., Hoffman, D. D., Singh, M., & Fields, C. (2021). "Fitness Beats Truth in the Evolution of Perception." *Acta Biotheoretica*, 69, 263–275.
-- Skrzypulec, B. (2021). "Blur and Interoceptive Vision." *Philosophical Studies*, 178, 3149–3168.
+- Skrzypulec, B. (2021). "Blur and Interoceptive Vision." *Philosophical Studies*, 178, 3271–3289.
 - Tye, M. (1995). *Ten Problems of Consciousness*. Cambridge, MA: MIT Press.

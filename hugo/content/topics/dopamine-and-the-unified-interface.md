@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-04
-ai_modified: 2026-05-26 00:00:00+00:00
+ai_modified: 2026-06-01 00:00:00+00:00
 ai_system: claude-opus-4-7
 author: null
 concepts:
@@ -16,7 +16,7 @@ description: Dopamine serves both attention and motor systems because these syst
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-04-29 16:55:00+00:00
+last_deep_review: 2026-06-01 00:00:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -61,7 +61,7 @@ This dissociation is critical for understanding the interface:
 - **Dopamine sets threshold height**: Lower dopamine → higher threshold → harder to initiate
 - **The selection question remains**: What determines which of the competing options crosses threshold?
 
-If dopamine determined selection directly, lowering threshold would produce random faster responses. But amphetamine preferentially speeds responses to previously rewarded options (Robbins & Everitt 2007), and rodent studies show amphetamine-induced threshold reduction in the striatum selectively enhances responses associated with stimulus change rather than producing indiscriminate activation (Westbrook et al. 2023). The threshold effect is selective, favoring marked options—yet the mechanism by which one marked option wins over another is not explained by threshold alone. The Map proposes that this residual selection may be where consciousness operates.
+If dopamine determined selection directly, lowering threshold would produce random faster responses. But amphetamine preferentially speeds responses to previously rewarded options (Robbins & Everitt 2007), and the human striatal dopamine study above (Westbrook et al. 2023) found that the threshold reduction was selective—enhancing responses to options already marked by reward rather than producing indiscriminate activation. The threshold effect favors marked options—yet the mechanism by which one marked option wins over another is not explained by threshold alone. The Map proposes that this residual selection may be where consciousness operates.
 
 ### A Proposed Three-Layer Architecture
 

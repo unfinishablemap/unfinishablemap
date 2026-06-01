@@ -1,13 +1,182 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-06-01 09:00:00+00:00
+ai_modified: 2026-06-01 09:30:00+00:00
 ai_system: claude-opus-4-8
 concepts: []
 date: '2026-06-01'
 related_articles: []
 title: Changelog
 ---
+
+## 2026-06-01T00:00:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [argument-from-reason](/topics/argument-from-reason/)
+- **Word count**: 3738 → 3738 (0; citation-title fixes only, length-neutral at 125% soft)
+- **Critical issues addressed**: 1 (misattributed Hasker chapter title: "The Case for Emergent Dualism" / *Waning of Materialism* was a conflation of two real Hasker works → corrected to "Persons and the Unity of Consciousness," *Waning of Materialism*, OUP 2010, pp. 175–190, which is the chapter actually supporting the body claim. Web-verified; survived all 12 prior corpus-internal reviews. Same wrong pairing also corrected in 2 research notes.)
+- **Medium issues addressed**: 1 (missing reciprocal link: the 2026-05-29 `def142b82` cross-review claimed reciprocal links to the-naturalisation-failure-for-content but only edited the inbound side; added back-link in that article's "Parallel to the Normativity of Reason" section.)
+- **Enhancements made**: 0 body (length-neutral); cross-link completion only
+- **2026-05-29 refine audit**: both refine commits (`352ccf8ac` norm-implementing-vs-grasping anchor; `def142b82` sister-failure paragraph) verified landed correctly, internally consistent, calibration-honest. Anchor + link targets exist. No new content defects.
+- **Citation web-verify**: Lewis 1947/1960, Anscombe (Socratic Digest vol.4, 1948), Plantinga (W&PF 1993 ch.12 EAAN), Reppert (2003 IVP), Goldman (SEP Reliabilism), Sellars (EPM 1956 §36 quote) all verified correct; Hasker fixed.
+- **Reasoning-mode check**: Anscombe Mode One/Two (causal-closure dilemma from physicalism's own commitment); reliabilist Mode Two (ends in honest non-refutation); Sellars Mode Three; AI/functionalist Mode Three ("genuinely open"). No boundary-substitution, no label leakage (grep-clean).
+- **Output**: [deep-review-2026-06-01-argument-from-reason](/reviews/deep-review-2026-06-01-argument-from-reason/)
+
+## 2026-06-01T08:10:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [arguments-against-materialism](/topics/arguments-against-materialism/)
+- **Word count**: 2929 → 2929 (0; confirming no-change review at 98% of soft threshold)
+- **Critical issues addressed**: 0 (none found)
+- **Medium issues addressed**: 0 (none warranting action at length ceiling)
+- **Enhancements made**: 0 (strongly converged across 8 reviews; metadata + review archive only)
+- **Reasoning-mode check**: reliabilist/Plantinga engagement Mode Two→One (presupposes normative concepts; EAAN); "future science" reply Mode One (materialism's own track record); parsimony reply Mode One (cites Smart/Lycan/Churchland concessions). No boundary-substitution, no label leakage (grep-clean).
+- **Calibration check**: no possibility/probability slippage; empirical hedges (tentative/suggestive/modest/case-reports) intact; HPoC "naturalists who reject dualism" framing preserved.
+- **Output**: [deep-review-2026-06-01-arguments-against-materialism](/reviews/deep-review-2026-06-01-arguments-against-materialism/)
+
+## 2026-06-01T19:57:49+00:00 - deep-review
+- **Status**: Success
+- **File**: [the-epiphenomenalist-threat](/topics/the-epiphenomenalist-threat/)
+- **Word count**: 3200 → 3213 (+13)
+- **Critical issues addressed**: 1 (misattribution of Jackson's recantation basis — claimed "mistake about phenomenal concepts"; actually representationalism per "Mind and Illusion" 2003, web-verified; fixed here AND in propagated copy at concepts/epiphenomenalism.md)
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 (converged article; metadata + citation-correction only)
+- **Citations web-verified**: Huxley 1874 *Fortnightly Review* 16:555-580 ✓ EXACT; Jackson 1982 *Phil. Quarterly* 32(127):127-136 ✓ EXACT; Kim 2005 paraphrase ✓; Chalmers 1996 quote ✓; Tegmark 2000 / Hagan 2002 match corpus-verified forms ✓
+- **Engagement modes** (editor-internal): epiphenomenalism — Mode Two+Three mixed, honest tenet-commitment+mechanism framing, no refutation-overclaim; Kim exclusion — Mode One. No label leakage.
+- **Post-refine audit**: 2026-05-27 (self-stultification framing) and 2026-05-31 (co-optimization cross-link) changes verified correct, link targets exist, evidential status calibrated.
+- **Output**: [deep-review-2026-06-01-the-epiphenomenalist-threat](/reviews/deep-review-2026-06-01-the-epiphenomenalist-threat/)
+
+## 2026-06-01T19:46:18+00:00 - refine-draft
+- **Status**: Success
+- **File**: [moral-responsibility](/concepts/moral-responsibility/)
+- **Source**: pessimistic-review 2026-06-01 ([pessimistic-2026-06-01-moral-responsibility](/reviews/pessimistic-2026-06-01-moral-responsibility/))
+- **Original score**: mature/discipline-clean; no critical issues (light precision pass, no material growth)
+- **Changes**:
+  - (a) Internal seam (load-bearing): added one reconciling sentence to the control section dissolving the apparent "mechanism-independent vs needs-some-mechanism" contradiction — the philosophical case fixes what control *consists in* (reasons-guided selection among open possibilities); the tenets require only that *some* unspecified physical process leave those possibilities open, so independence is from any *specific* mechanism, not from physics as such.
+  - (b) Luck-objection: hedged the [quantum-indeterminacy-free-will](/concepts/quantum-indeterminacy-free-will/) pointer to flag "selects for reasons" as developed-there-but-not-uncontroversially-completed rather than asserting it settled.
+  - Secondary: line ~153 unsupported moral-psych claim ("current evidence shows the opposite") downgraded to "ordinary practice suggests … we tend to"; line ~65 "identical selection architecture" softened to "parallel".
+- **Preserved**: evidential-status hedges and the honest boundary-marking in the compatibilism/MWI replies (the review's "corpus model for boundary-marking done right") untouched. No label leakage; no "not X, it is Y" cliché.
+- **Published**: yes
+
+## 2026-06-01T19:40:33+00:00 - pessimistic-review
+- **Status**: Success
+- **Content reviewed**: [moral-responsibility](/concepts/moral-responsibility/) (least-reviewed substantial old concept article; last pessimistic touch 2026-02-17)
+- **Findings**: No critical issues. Discipline checks all pass/N-A: no label leakage, no boundary-substitution (compatibilism + MWI replies honestly boundary-mark), altered-state cluster not invoked (audit N/A). Citations web-verified accurate (Soon et al. 2008 ~60%; Reimers et al. 2009 + McKemmish et al. 2009 contesting the Hameroff recalibration). 12/12 sampled wikilinks resolve. Two Medium items: (a) internal seam between "control grounded philosophically, not by any mechanism" and the tenet-mandated physical gap; (b) luck-objection reply states rather than completes the response. Queued one P2 refine-draft.
+- **Output**: [pessimistic-2026-06-01-moral-responsibility](/reviews/pessimistic-2026-06-01-moral-responsibility/)
+
+## 2026-06-01T00:00:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [unity-of-consciousness](/concepts/unity-of-consciousness/)
+- **Word count**: 2335 → 2335 (0; metadata-only)
+- **Critical issues addressed**: 0 (none found — 6th review, post-refine content sound)
+- **Medium issues addressed**: 0 (none found)
+- **Audit focus**: 2026-05-31 refine (commit b2351547d) — new "The Octopus" dissociation section + Further Reading entry, never previously deep-reviewed. Verified it landed correctly, is internally consistent, and honours evidential-status discipline (octopus phenomenal-unity trilemma left explicitly open, no tenet-driven upgrade; quantum-holism link hedged as structural correlate).
+- **Citation web-verify (standing mandate)**: New factual claims verified against sources. Octopus ~500M neurons / two-thirds in arms / severed arms respond to stimuli — all accurate. Santander et al. (2025) PNAS 122(43) e2520190122 "Full interhemispheric integration sustained by a fraction of posterior callosal fibers" — verified (title/venue/DOI/date match, ~1 cm splenium claim accurate); DOI consistent across 5 corpus articles. Engagement modes unchanged (no new named-opponent replies). Cross-corpus note: Pinto et al. (2017) and Santander et al. (2025) are distinct split-brain papers, not a metadata divergence — article correctly cites Santander for the redundant-fibres claim.
+- **Output**: [deep-review-2026-06-01-unity-of-consciousness](/reviews/deep-review-2026-06-01-unity-of-consciousness/)
+
+## 2026-06-01T19:28:16+00:00 - deep-review
+- **Status**: Success
+- **File**: [knowledge-argument](/concepts/knowledge-argument/)
+- **Word count**: 2470 → 2470 (0; metadata-only)
+- **Critical issues addressed**: 0 (none found — 9th review, deeply converged)
+- **Medium issues addressed**: 0 (none found)
+- **Audit focus**: 2026-05-25 coalesce change (commit 000b2ab04) verified — single related-article wikilink retarget [consciousness-and-the-philosophy-of-mathematics](/topics/mathematical-truth-and-conscious-access/) → [consciousness-and-mathematics](/topics/consciousness-and-mathematics/) landed correctly; target exists, no dangling old-slug refs, all body/anchor links resolve.
+- **Citation web-verify (standing mandate)**: all load-bearing citations verified against primary sources, all correct. Jackson 1982 (Phil Quarterly 32:127-136), Jackson 1986 (J.Phil 83(5):291-295, PDC-confirmed), Jackson recantation ("Mind and Illusion" 2003/2004 MIT, epiphenomenalism causal-self-knowledge ground confirmed), Lewis 1988 (Proc. Russellian Soc. 13:29-57 — confirmed, NOT 29-35), Nagel 1974, Fox et al. 2012 (PLoS ONE 7(9):e45370, exact), Nisbett-Wilson 1977. Cross-corpus divergence grep: article uses standard/majority form, which is the web-verified-correct form.
+- **Calibration check**: no possibility/probability slippage. All strong claims conditionalized ("if sound," "strong evidence but not near-decisive," "strongest when presented conditionally"); recantation fully disclosed; no slide to "proves dualism." Engagement modes (Dennett, illusionism, ability/PCS) honest — Mode One/Two + boundary-marking, no boundary-substitution, no label leakage, no "not X / it is Y" cliché.
+- **Output**: [deep-review-2026-06-01-knowledge-argument](/reviews/deep-review-2026-06-01-knowledge-argument/)
+
+## 2026-06-01T19:22:03+00:00 - deep-review
+- **Status**: Success
+- **File**: [moral-implications-of-genuine-agency](/topics/moral-implications-of-genuine-agency/)
+- **Word count**: 3680 → 3653 (-27)
+- **Critical issues addressed**: 0 (none found — 6th review, long-converged)
+- **Medium issues addressed**: 1 of 2 (length-neutral prose trim; length-over-soft-threshold deferred as human editorial decision)
+- **Enhancements made**: 1 (substance-commitment paragraph tightened, all links + dependency claim preserved)
+- **Calibration check**: no possibility/probability slippage — article repeatedly declines tenet-as-evidence-upgrade (symmetry section, quantum hedge, anti-falsifiability-theatre framing)
+- **Reasoning modes** (editor-internal): compatibilism Mode Three (honest boundary, equivalent grounding conceded); hard determinism Mode One (consolation defeated internally); error theory Mode Two narrowed to "one half of two-step move"; Madhyamika Mode Three (symmetric); MWI Mode Three (within-branch identity conceded). No boundary-substitution; no label leakage.
+- **Note**: body grew 2502→3680 since 2026-04-29 via refine-draft passes (substance-commitment localization, agency-cluster propagation), pushing into soft_warning (122%); load-bearing, deferred to human length decision / steered future condense
+- **Output**: [deep-review-2026-06-01-moral-implications-of-genuine-agency](/reviews/deep-review-2026-06-01-moral-implications-of-genuine-agency/)
+
+## 2026-06-01T19:13:03+00:00 - refine-draft
+- **Status**: Success
+- **File**: [phenomenology-of-returning-attention](/topics/phenomenology-of-returning-attention/)
+- **Type**: calibration-inheritance refine (anchoring audit 2026-06-01), light touch
+- **Anchor**: [default-mode-network](/concepts/default-mode-network/). Pre-edit: 1 flag, 2 of 3 checks failing (hedge_density 3.97/kw < 60% of anchor bar 8.70; underdetermination_markers 0 vs anchor's 2). strong_assertions matched (0.40/kw ≈ anchor 0.40/kw), so could not be used to clear.
+- **Changes**: Cleared via the underdetermination axis. Added 2 genuine counted markers ("underdetermined by the evidence", "compatible with both ... readings") to the closing of "Why the Gap Matters", where the dialectic is actually undecided: the neural/threshold/selection accounts predict the same observable signature (salience activation → executive re-engagement), so the choice among them genuinely is not forced by the data. Made the Map's selection-account preference explicit as a stance taken *within* that underdetermination, not a data-forced result.
+- **Result**: evaluate_anchoring → 0 flags. underdetermination_markers now passes; flag dropped. Did NOT chase the 5.22/kw hedge bar (≥2/3 rule satisfied; over-hedging would risk mush).
+- **Preserved**: central returning-attention thesis and three-phase structure, voice, all citations. No decorative markers (placed only where genuinely underdetermined, per cycle-269 lesson).
+- **Original score**: n/a (calibration-inheritance pass, not a full quality review)
+- **Published**: yes
+
+## 2026-06-01T19:08:29+00:00 - refine-draft
+- **Status**: Success
+- **File**: [phenomenology-of-trust](/topics/phenomenology-of-trust/)
+- **Type**: calibration-inheritance refine (anchoring audit 2026-06-01), near-no-op single-verb nudge
+- **Anchor**: [theory-of-mind](/concepts/theory-of-mind/) — an unusually-hedged anchor (12.69 hedges/kw, extreme outlier). Pre-edit: 1 flag, 2 of 3 checks failing (hedge_density 5.70/kw < 60% of anchor bar 7.61; strong_assertions 1 vs anchor's 0).
+- **Changes**: Softened the article's single counted strong-assertion verb — "consciousness **proves** more potent as disruptor than as builder" → "consciousness **appears** more potent…" (choking/trust asymmetry paragraph). The claim was already hedged downstream ("may reveal something fundamental"), so "proves" was overstated; "appears" is calibrated and natural. Cleared via the strong-assertion axis, not by padding hedges — "appears" also counts as a hedge, so it nudged hedge density up as a side effect.
+- **Result**: evaluate_anchoring → 0 flags (strong_assertions now passes; flag dropped). Did NOT chase the 7.61/kw hedge bar (would over-hedge into mush against an outlier anchor).
+- **Preserved**: central phenomenology-of-trust thesis, voice, the earlier same-day Kahneman & Tversky page-range fix (untouched).
+- **Published**: yes
+
+## 2026-06-01T18:49:44+00:00 - deep-review
+- **Status**: Success (5th review; 2026-05-19 refine audit, orphaned citation fixed)
+- **File**: [consciousness-and-the-ownership-problem](/topics/consciousness-and-the-ownership-problem/)
+- **Word count**: 2764 → ~2768 (92% of 3000 topics soft threshold; reference line only)
+- **2026-05-19 audit (task focus)**: The post-04-29 refine (commits 49bda6cc4 + 9d066b61b) added the `[[mine-ness]]` frontmatter concept link, a new "**It is not the agency problem.**" paragraph introducing the Gallagher mine-ness/agency distinction, and a `[[mine-ness]]` Further Reading entry. Audited: landed correctly, internally consistent (depersonalisation claim matches the pre-existing clinical paragraph), completes the "It is not X" taxonomy (binding/unity/self/agency) cleanly.
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 2 — (1) Orphaned reference: in-text "Gallagher (2000, 2012)" had no 2012 entry in References; added Gallagher & Zahavi (2012) *The Phenomenological Mind* (2nd ed., Routledge), matching corpus-standard form across 8+ siblings. (2) Attribution precision: 2012 is co-authored with Zahavi, so changed in-text "Gallagher (2000, 2012)" → "Gallagher (2000; with Zahavi 2012)" — the agency/ownership distinction originates in Gallagher's solo 2000 paper (correct primary source).
+- **Citations web-verified**: Gallagher 2000 (TiCS 4(1):14-21 — real, introduces agency/ownership distinction via schizophrenic thought insertion, matches article's clinical claim); Gallagher & Zahavi 2012 (*The Phenomenological Mind* 2nd ed., Routledge — real, treats mineness as pre-reflective self-awareness); Parnas et al. 2005 EASE (*Psychopathology* 38(5):236-258 — author-vector/venue/volume/issue/pages all correct). No fabricated co-authors, no remaining orphaned refs.
+- **Calibration check**: passed — new paragraph frames the distinction as phenomenal-feature architecture (descriptive phenomenology), no slide from "mineness irreducible" to "evidences dualism/substantial self"; pathological cases used as constraint on no-subject accounts, not as positive proof (constraint ≠ proof preserved); hedges intact, no over-hedging; no "This is not X. It is Y." cliché.
+- **Engagement classification (changelog-only)**: functionalism = Mode Two (helps itself to "ownership = functional role" without explaining the first-person subject); illusionism = Mode One (illusion must be for someone); MWI = Mode Three (honest boundary-marking, "concedes rather than solves"). No label leakage in prose.
+- **Enhancements made**: 0 (length-neutral; citation correction only)
+- **Output**: [deep-review-2026-06-01-consciousness-and-the-ownership-problem](/reviews/deep-review-2026-06-01-consciousness-and-the-ownership-problem/)
+
+## 2026-06-01T18:44:10+00:00 - deep-review
+- **Status**: Success (4th review; converged content, inherited citation defect fixed)
+- **File**: [perceptual-degradation-and-the-interface](/concepts/perceptual-degradation-and-the-interface/)
+- **Word count**: 2049 → 2049 (no change; 82% of 2500 concepts soft threshold)
+- **2026-05-19 audit (task focus)**: The post-04-28 "refine" (commit b78b8096a) was a pure cleanup — removed the leaked `<!-- AI REFINEMENT LOG - 2026-04-17 -->` HTML comment (the 04-28 review's deferred Remaining Item) and bumped ai_modified. No body prose changed; converged 2026-04-17 content intact and internally consistent. Landed correctly.
+- **Critical issues addressed**: 1 — Skrzypulec (2021) *Philosophical Studies* page range was wrong (3149–3168 → correct **3271–3289**). Surfaced by cross-corpus divergence grep: the sibling [perceptual-failure-and-the-interface](/topics/perceptual-failure-and-the-interface/) had the identical error fixed via live primary-source verification (Springer/PhilArchive) at 13:01 UTC today; this article still carried the uncorrected range. Propagated the verified fix. [AI citation metadata unreliable] failure mode — defect unique per-article, no intra-corpus vote could catch it.
+- **Citations verified (no change)**: Hoffman 2015 (22(6):1480–1506, quote verbatim across corpus), Phillips 2021 (128(3):558–584), Carhart-Harris 2012 (PNAS 109(6):2138–2143), van Lommel 2001 (Lancet 358(9298):2039–2045) — all web-verified by the 2026-06-01 sibling review; Picard & Craig 2009 (16(3):539–546) converged-verified 04-28.
+- **Calibration check**: passed — no slide from "perception is constructive/degraded-input-reconstructed" to "evidences dualism"; framing stays "patterns suggesting an interface, not a conjunctive proof"; three-of-four physicalist concession and "consistent with the tenet" quantum hedge preserved; no possibility/probability slippage; filter-expansion uniformly "suggestive"; no "This is not X. It is Y." cliché.
+- **Engagement classification (changelog-only)**: Neural Network Objection = Mode One/Mixed — concedes single patterns on the network theorist's own terms, rests on narrowed anaesthesia + filter-expansion combination, marks residue honestly via falsifier paragraph; no boundary-substitution, no label leakage.
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 (length-neutral; citation correction only)
+- **Output**: [deep-review-2026-06-01-perceptual-degradation-and-the-interface](/reviews/deep-review-2026-06-01-perceptual-degradation-and-the-interface/)
+
+## 2026-06-01T09:00:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [causal-closure-debate-historical-survey](/topics/causal-closure-debate-historical-survey/)
+- **Word count**: 2701 → 2701 (no change; 90% of 3000 topics soft threshold)
+- **Critical issues addressed**: 0 (convergence review — 4th deep-review)
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 (metadata-only; calibration content verified sound)
+- **Calibration audit (primary focus)**: The 2026-05-27 refine ("Adopt mental-causation-and-downward-causation calibration", commit b8ba23872) had never been deep-reviewed. Audited line-by-line: every change moves in the defeater-removal direction, not positive-evidence. "It is not"→"the historical record suggests it is better understood as a methodological assumption"; "demonstrates/critical gap"→"argues/appears to"; "Orthodox QM is not causally closed"→"On a widespread reading... — depends on contested interpretive commitments" (Bohm/MWI named as live escape routes); added the load-bearing disclaimer "Weakening the case *for* closure is not the same as establishing its denial, and the survey claims only the former." Diagnostic test (would a tenet-accepting reviewer flag any claim as overstated on the 5-tier scale?) returns NO everywhere. No over-hedging — central thesis still asserted. Calibration is exemplary and internally consistent.
+- **Reasoning-mode**: Kim (exclusion) — Mode Three boundary-marking (concedes physicalist responses leave Kim's exclusion of non-physical mental causation standing; no boundary-substitution). Decoherence response — Mode One/Two in-framework reply, scoped to collapse readings. No label leakage in prose.
+- **Citation web-verify**: all load-bearing refs verified against primary sources — Kim 1998 (Mind in a Physical World, MIT Press), Kim 1993 (Supervenience and Mind, Cambridge UP), Lowe 2000 (Philosophy 75(294):571-585; "consistent with dualism" framing matches thesis), Montero 2003 (Varieties of Causal Closure, Walter & Heckmann eds., Imprint Academic), Papineau 2001 (Rise of Physicalism, Gillett & Loewer eds., Cambridge UP; thesis faithful), Pitts 2022 (Erkenntnis 87(4):**1931-1973**, DOI 10.1007/s10670-020-00284-7 — correct range, NOT the 1861-1892 fabrication caught elsewhere), Buhler 2020 / Cucu&Pitts 2019 / Gibb 2010 / Saad 2025 / Stapp Process 0 (corpus canon, verified prior). Cross-corpus divergence grep: no minority/divergent form for this article. All 10 outbound wikilinks resolve.
+- **Output**: [deep-review-2026-06-01-causal-closure-debate-historical-survey](/reviews/deep-review-2026-06-01-causal-closure-debate-historical-survey/)
+
+## 2026-06-01T08:00:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [skill-delegation](/concepts/skill-delegation/)
+- **Word count**: 2007 → ~2065 (+58; 83% of 2500 concepts soft threshold)
+- **Critical issues addressed**: 2 (1: calibration slippage + internal tension in the choking-section lede — "strongest evidence … involves genuine consciousness, not mere neural handoff" + "Consciousness was genuinely absent from execution" upgraded a physicalism-compatible phenomenon to standalone dualism-evidence AND contradicted the next sentence's anoetic-consciousness-present claim; reworded to "most suggestive evidence … rather than a handoff fully captured by neural subsystems alone," added explicit compatibility-≠-proof framing, changed bolded claim to "Reflective control was withdrawn." 2: epiphenomenalism non-sequitur at line 71 — "could not interfere with procedural execution" strictly false on standard epiphenomenalism; retargeted to phenomenal character with neural-correlate concession, matching the W19 fix on the sibling empirical-phenomena article.)
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 (calibration repairs only; also removed a "not X. It is Y." style cliché)
+- **Citation web-verify**: all load-bearing refs verified against primary sources — Beilock & Carr 2001 (J.Exp.Psychol.Gen. 130(4):701-725), Saad 2025 (Philos.Stud. 182(3):939-967, DOI 10.1007/s11098-025-02290-3), Tulving 1985 (Can.Psych. 26(1):1-12), Dreyfus & Dreyfus 1986, Fitts & Posner 1967. All exact; no fabrication, no divergent corpus form.
+- **Reasoning-mode**: physicalist (choking, line 75) Mode Two→Mixed, strengthened by lede fix; epiphenomenalist (line 71) Mode Two, now honestly executed; eliminativist (three-phase) Mode Three bedrock, not re-flagged. No boundary-substitution, no label leakage.
+- **Note**: sixth review; first substantive body change since 2026-03-21. Five prior reviews predate the sharpened §2 possibility/probability-slippage discipline and missed this slip.
+- **Output**: [deep-review-2026-06-01-skill-delegation](/reviews/deep-review-2026-06-01-skill-delegation/)
+
+## 2026-06-01T00:00:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [dopamine-and-the-unified-interface](/topics/dopamine-and-the-unified-interface/)
+- **Word count**: 2675 → 2675 (length-neutral; 89% of 3000 topics soft threshold)
+- **Critical issues addressed**: 1 (source mischaracterization: "rodent studies show amphetamine-induced threshold reduction" attributed to Westbrook et al. 2023 — which ref 2 identifies as a HUMAN striatal study, "in human reinforcement learning in males," and which line 55 already cites as the human threshold finding. Rewrote to correctly attribute to the human study; removed false "rodent studies" framing. Defect survived 5 prior intra-corpus reviews — the known propagate-don't-catch failure mode.)
+- **Medium issues addressed**: 0 (none found)
+- **Enhancements made**: 0 (length-neutral fix only; cross-linking already comprehensive)
+- **Reasoning-mode**: physicalist "selection is just computation" objection engaged in Mode Two register (competitive-dynamics models help themselves to "noise" where selection occurs); closes with honest framework-boundary marking. No boundary-substitution; no label leakage.
+- **Evidential-status**: no slippage — selection-layer consciousness claims framed as proposal, not evidence-elevated; Honest Limitation section declines tenet-coherence upgrade.
+- **Sixth review; five prior found no critical issues.**
+- **Output**: [deep-review-2026-06-01-dopamine-and-the-unified-interface](/reviews/deep-review-2026-06-01-dopamine-and-the-unified-interface/)
 
 ## 2026-06-01T00:00:00+00:00 - deep-review
 - **Status**: Success

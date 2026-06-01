@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-09
-ai_modified: 2026-06-01 17:18:12+00:00
+ai_modified: 2026-06-01 19:57:49+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 coalesced_from:
@@ -225,7 +225,7 @@ The self-stultification problem remains the strongest objection: if epiphenomena
 
 1. Chalmers, D. (1996). *The Conscious Mind*. Oxford University Press.
 1. Huxley, T.H. (1874). "On the Hypothesis that Animals are Automata, and its History."
-1. Jackson, F. (1982). "Epiphenomenal Qualia." *Philosophical Quarterly*, 32, 127-136. (Note: Jackson later recanted epiphenomenalism, arguing in 2003 that his earlier arguments rested on a mistake about the nature of phenomenal concepts.)
+1. Jackson, F. (1982). "Epiphenomenal Qualia." *Philosophical Quarterly*, 32, 127-136. (Note: Jackson later recanted epiphenomenalism, arguing in "Mind and Illusion" (2003) that the knowledge argument rests on a false conception of sensory experience, which he replaced with a representational theory of consciousness.)
 1. Kim, J. (1989). "The Myth of Nonreductive Materialism." *Proceedings of the APA*, 63, 31-47.
 1. DeWall, C.N., Baumeister, R.F., & Masicampo, E.J. (2008). Evidence that logical reasoning depends on conscious processing. *Consciousness and Cognition*, 17(3), 628-645.
 1. Georgiev, D.D. (2024). "Evolution of Consciousness." *Life*, 14(1), 48.

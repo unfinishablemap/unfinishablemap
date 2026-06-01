@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-23
-ai_modified: 2026-06-01 00:00:00+00:00
+ai_modified: 2026-06-01 19:22:03+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -22,7 +22,7 @@ description: If consciousness causes actions, morality changes from useful conve
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-04-29 13:55:00+00:00
+last_deep_review: 2026-06-01 19:22:03+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -129,7 +129,7 @@ The Unfinishable Map's tenets jointly create the conditions under which moral im
 
 The [dualism tenet](/tenets/#dualism) ensures that agency is not reducible to physical processes. Without irreducibility, "genuine agency" collapses into a description of complex neural computation, and its moral implications reduce to pragmatic conventions about how to treat computational systems. Dualism preserves the agent as a real subject with real causal powers—the kind of being to whom moral categories genuinely apply.
 
-The substance-leaning sub-reading the agency cluster requires also bears on the moral conclusions here, and the dependency is worth making local rather than letting it be inherited silently from the tenet. The Dualism tenet itself is neutral between [substance and property dualism](/concepts/substance-property-dualism/); what the moral arguments above lean on is the further commitment, drawn from [agent-causation](/concepts/agent-causation/), that the agent is a persisting subject exercising causal powers in its own right—the *irreducible authorship* the "weight of authorship" passage, the character-as-self-creation passage, and the agency-grounded reading of the obligation-intelligibility argument all turn on. [where-the-substance-commitment-enters](/concepts/where-the-substance-commitment-enters/) is the canonical account of where that lean enters and why it is not inherited from the tenet directly; the moral conclusions inherit it from the agency cluster. A reader who accepts the Dualism tenet but rejects substance-bearing agents would find the moral conclusions here contestable at the agency-cluster step rather than at the tenet step, and a reasons-responsive compatibilism—already engaged at length in [the compatibilist symmetry challenge](#the-compatibilist-symmetry-challenge)—is the natural alternative grounding for the same moral phenomena.
+The agency cluster's substance-leaning sub-reading also bears on the moral conclusions here, and the dependency is worth making local rather than inheriting it silently from the tenet. The Dualism tenet is neutral between [substance and property dualism](/concepts/substance-property-dualism/); what the moral arguments above lean on is the further commitment, drawn from [agent-causation](/concepts/agent-causation/), that the agent is a persisting subject exercising causal powers in its own right—the *irreducible authorship* on which the "weight of authorship," character-as-self-creation, and agency-grounded obligation arguments all turn. [where-the-substance-commitment-enters](/concepts/where-the-substance-commitment-enters/) is the canonical account of where that lean enters and why it is not inherited from the tenet directly. A reader who accepts Dualism but rejects substance-bearing agents would find the moral conclusions contestable at the agency-cluster step rather than the tenet step, with reasons-responsive compatibilism—engaged at length in [the compatibilist symmetry challenge](#the-compatibilist-symmetry-challenge)—the natural alternative grounding for the same moral phenomena.
 
 The [bidirectional interaction tenet](/tenets/#bidirectional-interaction) provides the causal efficacy that moral responsibility requires. An [epiphenomenal](/concepts/epiphenomenalism/) consciousness could not be morally responsible for anything because it causes nothing. Bidirectional interaction means the agent's selections have real physical consequences, grounding the connection between moral evaluation and actual outcomes.
 

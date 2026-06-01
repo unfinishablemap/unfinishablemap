@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-20
-ai_modified: 2026-05-08 20:35:00+00:00
+ai_modified: 2026-06-01 08:00:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -23,7 +23,7 @@ description: Skill delegation is how consciousness trains procedural systems, wi
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-04-30 07:58:00+00:00
+last_deep_review: 2026-06-01 08:00:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -65,13 +65,13 @@ This capacity is not hypothetical. It is demonstrated empirically every time an 
 
 ## The Choking Phenomenon as Evidence
 
-The strongest evidence that skill delegation involves genuine consciousness—not mere neural handoff between subsystems—comes from [choking under pressure](/topics/empirical-phenomena-mental-causation/). When skilled performers consciously attend to automatised actions under stress, performance degrades. The expert golfer thinking about their swing misses shots they would normally make. The concert pianist monitoring finger placement stumbles.
+The most suggestive evidence that skill delegation involves a genuine phenomenal dimension, rather than a handoff fully captured by neural subsystems alone, comes from [choking under pressure](/topics/empirical-phenomena-mental-causation/). When skilled performers consciously attend to automatised actions under stress, performance degrades. The expert golfer thinking about their swing misses shots they would normally make. The concert pianist monitoring finger placement stumbles. This phenomenon is *compatible* with a purely physical account, so it constrains and illustrates the delegation picture rather than demonstrating dualism on its own; its evidential weight rests on the abductive argument developed below, not on the disruption as a brute fact.
 
 Choking reveals three things about skill delegation:
 
-**Consciousness was genuinely absent from execution.** If consciousness had been continuously controlling the skill, re-engaging attention would not disrupt it. The disruption proves that automated performance operates in a different mode—what Tulving called [anoetic consciousness](/concepts/anoetic-noetic-autonoetic-consciousness/): experiential but non-reflective.
+**Reflective control was withdrawn from execution.** If reflective attention had been continuously controlling the skill, re-engaging it would not disrupt anything. The disruption indicates that automated performance operates in a different mode—what Tulving called [anoetic consciousness](/concepts/anoetic-noetic-autonoetic-consciousness/): experiential but non-reflective. Phenomenal consciousness is not absent during smooth execution; what is absent is the effortful, reflective selection that re-engagement reintroduces.
 
-**Consciousness retains causal power.** If consciousness were [epiphenomenal](/concepts/epiphenomenalism/)—causally inert—its re-engagement could not interfere with procedural execution. The fact that conscious attention reliably degrades automated performance is evidence consistent with [bidirectional interaction](/concepts/mental-causation-and-downward-causation/): consciousness affects physical processes, sometimes disruptively.
+**Consciousness retains causal power.** If the *phenomenal character* of self-monitoring did no causal work—if it were [epiphenomenal](/concepts/epiphenomenalism/)—the dependence of choking on the felt mode of attention would lack explanation. (An epiphenomenalist can still attribute the disruption to the neural correlate of monitoring; what is harder to absorb is why the felt mode tracks the motor outcome so precisely.) The reliable, mode-specific degradation is evidence consistent with [bidirectional interaction](/concepts/mental-causation-and-downward-causation/): consciousness affects physical processes, sometimes disruptively.
 
 **The interface is real and directional.** Choking shows that consciousness can *enter* the procedural system but at a cost. The interface works smoothly when consciousness calibrates and withdraws on its own schedule. Forced re-engagement—driven by anxiety rather than deliberate choice—disrupts the system precisely because it reintroduces conscious selection where procedural execution sufficed.
 

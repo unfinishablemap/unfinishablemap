@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-22
-ai_modified: 2026-05-31 00:00:00+00:00
+ai_modified: 2026-06-01 19:57:49+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -29,7 +29,7 @@ description: Epiphenomenalism isn't just one view among many—it's the default 
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-04-29 22:25:00+00:00
+last_deep_review: 2026-06-01 19:57:49+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -211,7 +211,7 @@ The Map's framework provides all three elements needed for escape: acknowledgmen
 1. Chalmers, D. (1996). *The Conscious Mind*. Oxford University Press.
 1. Huxley, T.H. (1874). "On the Hypothesis that Animals are Automata, and its History." *Fortnightly Review*, 16, 555-580.
 1. Hagan, S., Hameroff, S., & Tuszynski, J. (2002). Quantum computation in brain microtubules: Decoherence and biological feasibility. *Physical Review E*, 65, 061901.
-1. Jackson, F. (1982). "Epiphenomenal Qualia." *Philosophical Quarterly*, 32, 127-136. (Jackson later recanted, arguing in 2003 that his earlier arguments rested on a mistake about phenomenal concepts.)
+1. Jackson, F. (1982). "Epiphenomenal Qualia." *Philosophical Quarterly*, 32, 127-136. (Jackson later recanted, arguing in "Mind and Illusion" (2003) that the knowledge argument rests on a false conception of sensory experience, which he replaced with a representational theory of consciousness.)
 1. Kim, J. (1989). "The Myth of Nonreductive Materialism." *Proceedings of the APA*, 63, 31-47.
 1. Kim, J. (2005). *Physicalism, or Something Near Enough*. Princeton University Press.
 1. Robinson, W.S. (2004). *Understanding Phenomenal Consciousness*. Cambridge University Press.

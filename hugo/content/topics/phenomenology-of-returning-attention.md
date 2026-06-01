@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-10
-ai_modified: 2026-05-27 22:41:56+00:00
+ai_modified: 2026-06-01 19:13:03+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -77,7 +77,7 @@ Three possible accounts:
 
 The threshold account is the strongest physicalist alternative. But it faces its own version of the hard problem: why does crossing a neural threshold produce *that* phenomenal character — the distinctive surprise of recognition — rather than something else or nothing at all? Threshold-crossing explains *when* meta-awareness returns but not *what it is like* when it does. The gap in explanation mirrors the gap in experience.
 
-The Map favours the selection account. It preserves consciousness as genuinely involved in the noticing — not merely informed post hoc — while acknowledging that the noticing depends on neural mismatch signals. Consciousness and brain collaborate: the brain detects the mismatch; consciousness recognises it as mattering. Empirically, the three accounts predict similar neural and behavioural data: salience network activation followed by executive re-engagement. The choice among them turns on whether phenomenal character is explanatorily relevant — and the Map holds that it is.
+The Map favours the selection account. It preserves consciousness as genuinely involved in the noticing — not merely informed post hoc — while acknowledging that the noticing depends on neural mismatch signals. Consciousness and brain collaborate: the brain detects the mismatch; consciousness recognises it as mattering. Empirically, the three accounts predict similar neural and behavioural data: salience network activation followed by executive re-engagement. Because the observable signature is the same on all three readings, the choice among them is underdetermined by the evidence; it turns on whether phenomenal character is explanatorily relevant — and the Map holds that it is. The phenomenology of the return is compatible with both the selection reading and the threshold reading, and the Map's preference is a stance taken within that underdetermination, not a result forced by the data.
 
 ## Contemplative Refinement
 
