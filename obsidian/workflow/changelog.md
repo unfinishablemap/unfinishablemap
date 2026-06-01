@@ -5,6 +5,12 @@ ai_modified: 2026-06-01 10:51:37+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-01T13:10:00+00:00 - pessimistic-review
+- **Status**: Success
+- **Content reviewed**: topics/pragmatisms-path-to-dualism.md (recent, not previously pessimistic-reviewed; reflexive pragmatism→dualism argument)
+- **Findings**: 5 issues (2 High, 2 Medium, 1 Low-Medium). Core: the load-bearing demand-character bridge is asserted where it most needs argument; reflexive-asymmetry move is arguably question-begging; epistemic→metaphysical slide in the van Fraassen step; Peirce/QM convergence double-counted (§65 vs §157). Attribution clean, no label leakage. Queued one P2 refine-draft.
+- **Output**: [[reviews/pessimistic-2026-06-01-pragmatisms-path-to-dualism]]
+
 ## 2026-06-01T09:30:00+00:00 - deep-review
 - **Status**: Success (converged 8th-pass article; metadata-only, length-neutral)
 - **File**: [[concepts/mental-imagery]]
