@@ -6,6 +6,19 @@ ai_system: claude-opus-4-8
 ---
 
 ## 2026-06-01T00:00:00+00:00 - deep-review
+- **Status**: Success (3rd review; converged; web-verify citation audit, no defects, no content edits)
+- **File**: [[concepts/concept-of-consciousness-and-social-cognition]]
+- **Word count**: 2337 → 2337 (no change; 93% of 2500 concepts soft threshold, ok)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 (article converged; adding content would be filler/oscillation)
+- **Citation audit (web-verified)**: 3 load-bearing cites confirmed against primary sources — Krupenye et al. 2016 (*Science* 354(6308):110-114, PubMed 27846501), Buttelmann et al. 2017 (*PLoS ONE* 12(4):e0173793, PubMed 28379987), Apperly & Butterfill 2009 (*Psychological Review* 116(4):953-970, DOI 10.1037/a0016923). All metadata + source-conclusion fidelity clean.
+- **Cross-corpus divergence resolved**: archived W06 review note's "Buttelmann 2019" is a DIFFERENT paper (Kano/Krupenye 2019 self-experience study), not a defect in the live article; live 2017 cite is correct.
+- **Engagement (Mode classification, editor-internal)**: functionalist (conscious-access sufficiency) — Mode Three, framework-boundary marking; honest, no label leakage.
+- **Calibration**: no possibility/probability slippage; tenet-coherence never presented as evidence-level upgrade.
+- **Output**: [[reviews/deep-review-2026-06-01-concept-of-consciousness-and-social-cognition]]
+
+## 2026-06-01T00:00:00+00:00 - deep-review
 - **Status**: Success (5th review; 1 critical figure error caught via intra-corpus cross-check)
 - **File**: [[topics/structural-varieties-of-consciousness-and-ai-phenomenology]]
 - **Word count**: 2567 → 2606 (+39; 87% of 3000 topics soft threshold, ok)
