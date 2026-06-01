@@ -5,6 +5,11 @@ ai_modified: 2026-06-01 22:37:08+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-01T23:05:00+00:00 - pessimistic-review
+- **Status**: Success
+- **Content reviewed**: [[topics/biological-computationalisms-inadvertent-case-for-dualism]] — body is well-converged ("structural rather than evidential" lede is exemplary); weaknesses concentrated in the "Relation to Site Perspective" tenet section. 2 High + 1 Medium findings: (1) HIGH evidential-status overreach — magnetoreception/photosynthesis recruited as quantum-interface-for-consciousness support (§92); (2) HIGH boundary-substitution + factual defect — MWI rejection asserts the Map's perimeter on a misdescribed Everettian premise rather than engaging in-framework (§96); (3) MEDIUM unsupported foundational move — non-epiphenomenality result resting on M&A's contested "algorithm is the substrate" conditional (§94). Plus 2 citation web-verify flags (Thagard 2022, Milinkovic & Aru 2026). Filed one P1 refine-draft task.
+- **Output**: [[reviews/pessimistic-2026-06-01-biological-computationalism]]
+
 ## 2026-06-01T22:50:00+00:00 - deep-review
 - **Status**: Success (converged — metadata-only verdict)
 - **File**: [[concepts/luck-objection]]
