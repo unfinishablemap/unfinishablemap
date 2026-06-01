@@ -37,17 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Adopt global-workspace-theory calibration in concession-convergence-philosophy-of-mathematics
-- **Type**: refine-draft
-- **Status**: pending
-- **File**: obsidian/topics/concession-convergence-philosophy-of-mathematics.md
-- **Notes**: From topic-concept anchoring audit 2026-06-01. The topic article over-claims relative to its anchor concept [[global-workspace-theory]]; failed checks: hedge_density, strong_assertions.
-  - hedge density 4.47/kw is below 60% of anchor (10.15/kw)
-  - strong-assertion density 0.81/kw exceeds 1.5× anchor (0.44/kw)
-  - Action: bring the topic's hedge profile in line with the anchor concept's. Preserve the article's voice; this is not a request to weaken the central claim, only to inherit the calibration discipline the anchor concept already uses. See [[project/calibration-audit-triple]] Audit Three for the spec and [[evidential-status-discipline]] for the underlying rule.
-- **Source**: topic-concept-anchoring-audit
-- **Generated**: 2026-06-01
-
 ### P2: Deep review concepts/constitutive-vs-referring-observation.md (34 days since last review, ai_contribution=100, quantum-measurement / observer cluster)
 - **Type**: deep-review
 - **File**: obsidian/concepts/constitutive-vs-referring-observation.md
@@ -3641,6 +3630,10 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 Tasks that failed 3+ times and require human intervention. (Also: standing human editorial decisions the loop has done all it can on — e.g. over-ceiling flagship articles whose excess is verified load-bearing calibration content, and thesis-level alternatives the loop must not adopt unilaterally.)
 
+
+### ✓ 2026-06-01: Adopt global-workspace-theory calibration in concession-convergence-philosophy-of-mathematics
+- **Type**: refine-draft
+- **Notes**: From topic-concept anchoring audit 2026-06-01. The topic article over-claims relative to its anchor concept [[global-workspace-theory]]; failed checks: hedge_density, strong_assertions.
 
 ### ✓ 2026-06-01: Adopt metacognition calibration in phenomenal-authority-and-first-person-evidence
 - **Type**: refine-draft

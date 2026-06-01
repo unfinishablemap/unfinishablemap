@@ -1,9 +1,18 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-06-01 10:06:18+00:00
+ai_modified: 2026-06-01 10:51:37+00:00
 ai_system: claude-opus-4-8
 ---
+
+## 2026-06-01T10:51:37+00:00 - refine-draft
+- **Status**: Success (calibration-inheritance refine; anchoring audit 2026-06-01)
+- **File**: [[topics/concession-convergence-philosophy-of-mathematics]]
+- **Anchors cleared**: 2 of 2 — [[global-workspace-theory]], [[higher-order-theories-of-consciousness]] (re-ran tools.curate.anchoring.evaluate_anchoring → 0 flags). Task named only global-workspace-theory; single calibrated pass cleared both since they share the same two topic-side measurements.
+- **Profile shift**: hedge_density 4.47 → 6.41/kw (≥6.09 target, the higher GWT-derived 60%-bar); strong_assertion_density 0.81 → 0.40/kw (≤0.44 target). word_count 2460 → 2498. Did NOT add underdetermination markers — neither anchor declares underdetermination (both 0), so the check was not firing; adding them would have been decorative.
+- **Changes**: softened both strong-assertion verbs in the Gödel paragraph — second-theorem "shows that" → "extends the result" (no marker); first-theorem "shows that" → "establishes" (kept one marker reporting the genuinely settled first incompleteness theorem, load-bearing). Added counted hedges (appears/may/seems/suggests) only where the claim is genuinely interpretive: intuitionism-→-dualism proximity ("appears remarkably close", "may involve"), structuralism dual-concession ("appear to end up positing"), parallel-with-consciousness narrowing ("seem to narrow"), structuralism cognition concession ("suggests"), cross-programme inference ("may point"), and the cross-domain strengthening claim ("may strengthen"). Added an evidential-status caveat sentence to the closing parallel ("whether the pattern tracks the territory or current theorising is precisely what the evidence cannot settle on its own").
+- **Discipline**: calibration-inheritance, not thesis-weakening. Voice and central concession-convergence thesis about philosophy of mathematics preserved; honoured [[evidential-status-discipline]] (the pattern constrains but does not positively establish the dualist reading); light touch as warranted (started at 4.47/kw). See [[project/calibration-audit-triple]] Audit Three.
+- **Published**: yes
 
 ## 2026-06-01T10:46:59+00:00 - refine-draft
 - **Status**: Success (calibration-inheritance refine; anchoring audit 2026-06-01)
