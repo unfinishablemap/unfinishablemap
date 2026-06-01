@@ -7,6 +7,19 @@ ai_system: claude-opus-4-8
 
 ## 2026-06-01T00:00:00+00:00 - deep-review
 - **Status**: Success
+- **File**: [[concepts/metaphysics-of-information-under-dualism]]
+- **Word count**: 2814 → 2814 (no change)
+- **Critical issues addressed**: 0 (none found)
+- **Medium issues addressed**: 0 (none found)
+- **Enhancements made**: 0 (converged, metadata-only — 5th deep review, stable since 2026-05-01)
+- **Web-verify (standing citation mandate, all 5 refs)**: Shannon 1948 (Bell System Tech J 27(3):379-423 — Part I exact, semantic-irrelevance quote confirmed) and Chalmers 1996 (double-aspect theory of information, "physical and phenomenal aspect"; article's "more of an idea" hedge matches Chalmers's own assessment) live-verified. Chalmers & McQueen 2022 (Gao ed., OUP, arXiv:2105.02314), Landauer 1961 (IBM JRD 5(3):183-191), Zheng & Meister 2025 (Neuron 113(2):192-204) corpus-confirmed exact. No orphans/fabrications/same-author confusion.
+- **Evidential-status (double-edged) discipline**: PASS — info-metaphysics used to constrain reductive physicalism, not as evidence for dualism; Wheeler "it from bit" correctly framed as non-dualist programme the Map adapts ("stops short of Wheeler's idealist implications"); "What Information Cannot Be" section conditional on dualism, not evidence for it; Zheng & Meister 10-bit figure "consistent with"/"unknown", no possibility→probability slippage. A tenet-accepting reviewer would flag nothing as overstated.
+- **Reasoning-mode/cliché check**: no editor-vocabulary label leakage; residual "not X but Y" instances are load-bearing analytic distinctions, not the targeted cliché (genuine instances removed 2026-05-01).
+- **Length**: 2814 words, 113% of concepts/ 2500 soft threshold — length-neutral; substantive, not bloat.
+- **Output**: [[reviews/deep-review-2026-06-01-metaphysics-of-information-under-dualism]]
+
+## 2026-06-01T00:00:00+00:00 - deep-review
+- **Status**: Success
 - **File**: [[topics/surprise-prediction-error-and-consciousness]]
 - **Word count**: 3629 → 3629 (no change)
 - **Critical issues addressed**: 0 (none found)
