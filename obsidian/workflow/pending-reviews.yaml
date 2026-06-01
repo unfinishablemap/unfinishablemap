@@ -945,9 +945,9 @@
   commissioned_at: '2026-06-01T03:03:12.750284+00:00'
   prompt_summary: Full-site audit of The Unfinishable Map
   target_filename: outer-review-2026-06-01-claude-opus-4-8.md
-  status: pending
+  status: collected
   collect_attempts: 0
-  last_attempt_at: null
+  last_attempt_at: '2026-06-01T04:13:09.014739+00:00'
   failure_reason: null
   prompt_text: 'You are an expert philosophical reviewer with deep familiarity with
     philosophy of mind and metaphysics. Conduct a full-site audit of The Unfinishable

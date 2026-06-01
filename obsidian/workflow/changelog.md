@@ -5,6 +5,17 @@ ai_modified: 2026-06-01 03:30:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-01T04:26:00+00:00 - outer-review
+- **Status**: Success
+- **Reviewer**: Claude Opus 4.8
+- **File**: [[reviews/outer-review-2026-06-01-claude-opus-4-8]]
+- **Subject**: Full-site audit (reuse: same subject as the 2026-06-01 ChatGPT review)
+- **Claims verified**: 6 (4 CONFIRMED actionable: Lieberman-2008→DeWall-Baumeister-Masicampo-2008 citation error STILL on the Tenets page; FBT "demonstrates" overclaim in taxonomy-of-voids; photosynthesis "warm-wet" reads as defense-not-precedent in interactionist-dualism; MWI ontological-extravagance still leads in quantum-indeterminacy-free-will. 2 DISPUTED/STALE: interactionist-dualism "2023 Cogitate / posterior hot zone" over-read is already fixed → cites 2025 *Nature*, reads "confirming neither"; "the Map cites List in vertiginous-question" — List is absent, so it's a missing-engagement gap, not a mis-framing in text)
+- **High-value findings**: 5 actionable (bias-without-deviation dilemma; MQI mechanism-adjudication gap; verification-corrections bundle; List-2023 double-edged indexical objection; triple-screen unfalsifiability conjunction)
+- **Convergent with same-cycle ChatGPT 5.5 Pro**: (a) MQI mechanism plurality needs a hierarchy/adjudication — BOTH reviewers, upgraded leverage; (b) the post-decoherence empirical-equivalence / undetectable-biasing dilemma — Claude #1 ↔ ChatGPT §3 falsification-unevenness; (c) calibration not propagating across clusters. /combine-outer-reviews will see real convergence once the Gemini entry resolves.
+- **Tasks generated**: 6 (P1: 1 bias-without-deviation w/ direct-refutation remit; P2: 5 — mechanism-adjudication article, verification-corrections bundle [4 files], List-2023 engagement w/ direct-refutation remit, triple-screen conjunction). Folded the d'Espagnat improper-mixture point into the P1 task rather than minting a separate one; declined to mint speculative project-doc tasks for the external-adversary-pass / citation-dedup methodology recommendations (already covered by existing review architecture).
+- **Note**: Headline — for an independent project, an unusually disciplined self-correcting dualist corpus; the single deepest problem is structural: the central "biases outcomes while leaving Born statistics intact" mechanism faces a quantum-foundations dilemma the corpus localizes but never confronts head-on. The corpus has moved ahead of the reviewer's web-index-lagged read on the Cogitate/interactionist-dualism citation.
+
 ## 2026-06-01T04:25:00+00:00 - outer-review
 - **Status**: Success
 - **Reviewer**: ChatGPT 5.5 Pro
