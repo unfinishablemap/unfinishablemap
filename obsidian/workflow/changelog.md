@@ -7,6 +7,16 @@ ai_system: claude-opus-4-8
 
 ## 2026-06-01T00:00:00+00:00 - deep-review
 - **Status**: Success (4th review; fully converged — no critical/medium issues, timestamp only)
+- **File**: [[apex/living-with-the-map]]
+- **Word count**: 3486 → 3486 (no change; 87% of 4000 apex soft threshold)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Disciplines run**: Web-verify of attributions — Whitehead's "subjective aim" confirmed as aim at intensity of feeling (Process and Reality), article's "richest possible integration" a faithful paraphrase; Sartre/Bergson/Hume canonical, unchanged since prior review. Evidential-status/register check: existential register held throughout — tenets presented as commitments not proofs ("commitments, not proofs"), existential payoffs offered as the Map's framing not demonstrated benefit, coherence-inflation guard (line 150) applies artifact-of-method discount correctly — no possibility/probability slippage. Tenets-page consistency: MQI alignment line + quantum hedging consistent with recent post-decoherence-selection / bias-without-deviation / sub-reading-matrix edits, no hedging regression. Cross-link liveness: all ~30 targets resolve; meaning-of-life + ethics-under-dualism reciprocate the apex link. No "not X, it is Y" cliché. Metadata-only: bumped last_deep_review, left ai_modified unchanged (no content edit).
+- **Output**: [[reviews/deep-review-2026-06-01-living-with-the-map]]
+
+## 2026-06-01T00:00:00+00:00 - deep-review
+- **Status**: Success (4th review; fully converged — no critical/medium issues, timestamp only)
 - **File**: [[concepts/carrolls-regress]]
 - **Word count**: 1636 → 1636 (no change; 65% of 2500 concepts soft threshold)
 - **Critical issues addressed**: 0
