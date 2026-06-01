@@ -5,6 +5,17 @@ ai_modified: 2026-06-01 09:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-01T17:41:05+00:00 - deep-review
+- **Status**: Success
+- **File**: [[topics/phenomenology-of-trust]]
+- **Word count**: 2456 → 2456 (+0)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 1 (Kahneman & Tversky end-page 263-292 → 263-291)
+- **Enhancements made**: 0
+- **Citation web-verify**: All 4 references verified against primary sources (not corpus-vote). Baier 1986 Ethics 96(2):231-260, Jones 1996 Ethics 107(1):4-25, Holton 1994 AJP 72(1):63-76 all correct + claims supported; Kahneman & Tversky 1979 Econometrica 47(2) end-page corrected to 291.
+- **Calibration check**: PASS — Relation to Site Perspective correctly frames dualism as "providing resources to understand" trust, not as trust evidencing dualism. No possibility/probability slippage; falsifiability section appropriately hedged ("not yet decisive"). No editor-label leakage; functionalist engagement is honest Mode Two/Three. 5th review; converged.
+- **Output**: [[reviews/deep-review-2026-06-01-phenomenology-of-trust]]
+
 ## 2026-06-01T17:36:00+00:00 - deep-review
 - **Status**: Success (no issues; converged 6th review, metadata-only)
 - **File**: [[topics/curated-mind]]
