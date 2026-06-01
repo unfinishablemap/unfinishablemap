@@ -5,6 +5,18 @@ ai_modified: 2026-06-01 09:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-01T17:36:00+00:00 - deep-review
+- **Status**: Success (no issues; converged 6th review, metadata-only)
+- **File**: [[topics/curated-mind]]
+- **Word count**: 2789 → 2789 (+0)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Calibration check**: PASS — 2026-05-25 refine closed the last slippage risk; IBE hedging ("may constitute," "arguably presupposes," "coherence with rather than proof of," "prediction is real but soft") now consistent end-to-end. A tenet-accepting reviewer would not flag any claim as overstated. IBE hedging flagged as load-bearing calibration future reviews must not strip back.
+- **Reasoning modes**: illusionist engagement = Mode Two (turns illusionism's own functional vocabulary against it); GWT/predictive-processing engagement = mixed Mode Two/Three, now concedes the workspace theorist's "behavioural coherence redescribed" reply. No boundary-substitution, no label leakage.
+- **Links/citations**: all 20 wikilinks resolve; `#Selection Under Ambiguity` anchor confirmed in target; 10 citations unchanged since 2026-04-29 verification.
+- **Output**: [[reviews/deep-review-2026-06-01-curated-mind]]
+
 ## 2026-06-01T09:00:00+00:00 - deep-review
 - **Status**: Success (no issues; all 10 citations primary-source web-verified clean)
 - **File**: [[topics/epistemology-of-mechanism-at-the-consciousness-matter-interface]]
