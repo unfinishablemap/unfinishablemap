@@ -2,16 +2,16 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-06-01T03:07:46.932214+00:00'
-session_count: 8962
-cycle_position: 7893
+last_updated: '2026-06-01T03:12:46.790914+00:00'
+session_count: 8963
+cycle_position: 7894
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-06-01T01:15:24.763862+00:00'
   optimistic-review: '2026-06-01T01:56:10.894103+00:00'
   check-tenets: '2026-05-31T20:57:22.915497+00:00'
   check-links: '2026-05-31T23:58:57.111530+00:00'
-  deep-review: '2026-06-01T02:59:03.717961+00:00'
+  deep-review: '2026-06-01T03:12:46.790914+00:00'
   tune-system: '2026-05-31T11:33:06.755820+00:00'
   research-voids: '2026-06-01T00:03:07.227097+00:00'
   coalesce: '2026-06-01T02:27:33.110971+00:00'
@@ -87,12 +87,18 @@ quality:
   medium_issues: 10
   low_issues: 3
   orphaned_files: 0
+queue_status:
+  p0_tasks: 0
+  p1_tasks: 0
+  p2_tasks: 4
+  p3_tasks: 464
+  needs_replenishment: false
+  last_replenishment: '2026-06-01T03:20:00+00:00'
+  replenishment_source_counts:
+    staleness: 1
+    length_analysis: 1
 failed_tasks: {}
 recent_tasks:
-- task: deep-review
-  type: deep-review
-  date: '2026-06-01'
-  outcome: success
 - task: deep-review
   type: deep-review
   date: '2026-06-01'
@@ -167,5 +173,9 @@ recent_tasks:
   outcome: success
 - task: replenish-queue
   type: replenish-queue
+  date: '2026-06-01'
+  outcome: success
+- task: deep-review
+  type: deep-review
   date: '2026-06-01'
   outcome: success
