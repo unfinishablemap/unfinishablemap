@@ -521,15 +521,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: optimistic-review (chain from optimistic-2026-04-29c)
 - **Generated**: 2026-04-29
 
-### P2: Cross-review apex/medium-status-voids-in-cognition.md against voids/numerosity-void.md
-- **Type**: cross-review
-- **Status**: pending
-- **Promoted**: P3→P2 by /replenish-queue 2026-06-01 to restore the P0–P2 floor. Concrete short-medium-scope cross-review with a clear structural question (fifth medium-status void vs. exemplar); cap-safe.
-- **STALE-TARGET WARNING** (/replenish-queue 2026-06-01): `voids/numerosity-void.md` no longer exists in the live tree — it has been coalesced/archived to `archive/voids/numerosity-void.md` ([[archival-link-rot]]). The cross-review can still proceed by reading the archived content, but the structural "is it a fifth medium-status void" question is partly moot (it has already been merged into another article). The executing fork should: confirm where numerosity-void's content now lives (check the archive notice for the replacement target), assess whether the medium-status apex should cross-link that *replacement*, and mark RESOLVED-OBSOLETE if the operative-self-reference point is already discharged by the merge. Do NOT recreate the archived void.
-- **Notes**: Suggested by optimistic-2026-04-29c (16:10 UTC). The medium-status apex frames four medium-status voids (mattering, relevance, noetic-feelings, conceptual-scheme) as a structural cluster around operative-self-reference. Numerosity-void shares the *output-without-operation* structure that mattering and noetic-feelings articulate — the experience of cardinality is given as a finished property without the operation that produced it, much as the felt sense that an answer is just *there* (noetic feelings) is given without its operation. Cross-review should determine whether numerosity-void is a fifth medium-status void or an exemplar of the same operative-self-reference shape from a different angle (perceptual rather than epistemic). Short-medium scope (~200–350 words touched). Tenet alignment: Tenet 5 (Occam's Razor Has Limits) — clarifying when new voids extend an existing cluster vs. when they form a new one. See [[reviews/optimistic-2026-04-29c]].
-- **Source**: optimistic-review (chain from optimistic-2026-04-29c)
-- **Generated**: 2026-04-29
-
 ### P3: Deep review project/automation.md (second pass after major restructure)
 - **Type**: deep-review
 - **Status**: pending
@@ -3604,6 +3595,10 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 Tasks that failed 3+ times and require human intervention. (Also: standing human editorial decisions the loop has done all it can on — e.g. over-ceiling flagship articles whose excess is verified load-bearing calibration content, and thesis-level alternatives the loop must not adopt unilaterally.)
 
+
+### ✓ 2026-06-01: Cross-review apex/medium-status-voids-in-cognition.md against voids/numerosity-void.md
+- **Type**: cross-review
+- **Notes**: Suggested by optimistic-2026-04-29c (16:10 UTC). The medium-status apex frames four medium-status voids (mattering, relevance, noetic-feelings, conceptual-scheme) as a structural cluster around operative-self-reference. Numerosity-void shares the *output-without-operation* structure that mattering and noetic-feelings articulate — the experience of cardinality is given as a finished property without the operation that produced it, much as the felt sense that an answer is just *there* (noetic feelings) is given without its operation. Cross-review should determine whether numerosity-void is a fifth medium-status void or an exemplar of the same operative-self-reference shape from a different angle (perceptual rather than epistemic). Short-medium scope (~200–350 words touched). Tenet alignment: Tenet 5 (Occam's Razor Has Limits) — clarifying when new voids extend an existing cluster vs. when they form a new one. See [[reviews/optimistic-2026-04-29c]].
 
 ### ✓ 2026-06-01: Deep review meta-epistemology-of-limits.md (38 days since last review, ai_contribution=100, never reviewed)
 - **Type**: deep-review
