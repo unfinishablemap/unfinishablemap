@@ -1,9 +1,22 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-06-01 21:05:00+00:00
+ai_modified: 2026-06-01 21:30:00+00:00
 ai_system: claude-opus-4-8
 ---
+
+## 2026-06-01T21:30:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [[concepts/agent-causation]]
+- **Word count**: 3261 → 3261 (no content edits; 130% of 2500 soft, below 3500 hard)
+- **Critical issues addressed**: 0 (none found — sixth review, strongly converged)
+- **Medium issues addressed**: 0 (word count noted; length-neutral mode, not yet a hard violation)
+- **Enhancements made**: 0 (timestamp-only review — correct outcome for a stable article)
+- **Calibration (§2)**: clean — possibility/probability discipline intact (lines 87, 89, 143–153, 190); no tenet-as-evidence-upgrade slippage; a tenet-accepting reviewer would flag nothing as overstated.
+- **Reasoning-mode (§2.6, editor-internal)**: Kim exclusion = Mode Two (event-causation-fundamental assumption); Mele luck = Mode One (internal-to-opponent reply); MWI falsifier = Mode Three (identity-register boundary, honestly marked). No label leakage in prose.
+- **Changes since 2026-04-29 review**: substance-commitment scope note + Compatibilist Symmetry anti-slippage note + condense — calibration-discipline maintenance, no drift, no new attribution errors.
+- **Watch item**: word count at 130% of soft; future additions must be length-neutral; a 3500-hard crossing is a human length decision (scope-note + convergent-case content is calibration-protected, not a cut target).
+- **Output**: [[reviews/deep-review-2026-06-01-agent-causation]]
 
 ## 2026-06-01T21:05:00+00:00 - deep-review
 - **Status**: Success
