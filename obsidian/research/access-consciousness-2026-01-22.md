@@ -26,7 +26,7 @@ Access consciousness (A-consciousness) is Ned Block's 1995 concept distinguishin
 ### On a Confusion about a Function of Consciousness (Block 1995)
 - **URL**: https://philpapers.org/rec/BLOOAC
 - **Type**: Seminal paper in Behavioral and Brain Sciences
-- **Citation**: Block, N. (1995). On a Confusion about a Function of Consciousness. Behavioral and Brain Sciences, 18, 227-287.
+- **Citation**: Block, N. (1995). On a Confusion about a Function of Consciousness. Behavioral and Brain Sciences, 18, 227-247.
 - **Key points**:
   - Introduces the A-consciousness / P-consciousness distinction
   - A-consciousness: "availability for use in reasoning and rationally guiding speech and action"
@@ -198,7 +198,7 @@ Based on this research, an article on access-consciousness could:
 
 ## Citations
 
-- Block, N. (1995). On a Confusion about a Function of Consciousness. Behavioral and Brain Sciences, 18, 227-287.
+- Block, N. (1995). On a Confusion about a Function of Consciousness. Behavioral and Brain Sciences, 18, 227-247.
 - Baars, B. J. (1988). A Cognitive Theory of Consciousness. Cambridge University Press.
 - Dehaene, S., Kerszberg, M., & Changeux, J. P. (1998). A neuronal model of a global workspace in effortful cognitive tasks. Proceedings of the National Academy of Sciences, 95(24), 14529-14534.
 - Stanford Encyclopedia of Philosophy. (2024). Consciousness. https://plato.stanford.edu/entries/consciousness/

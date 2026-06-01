@@ -4,7 +4,7 @@ description: "Ned Block's argument that phenomenal consciousness exceeds cogniti
 created: 2026-01-28
 modified: 2026-01-29
 human_modified: null
-ai_modified: 2026-05-02T14:53:00+00:00
+ai_modified: 2026-06-01T13:09:47+00:00
 last_deep_review: 2026-05-02T14:53:00+00:00
 draft: false
 topics:
@@ -181,7 +181,7 @@ This connects to [[acquaintance-void|the broader void of pre-conceptual knowing]
 
 ## References
 
-1. Block, N. (1995). On a Confusion about a Function of Consciousness. *Behavioral and Brain Sciences*, 18, 227-287.
+1. Block, N. (1995). On a Confusion about a Function of Consciousness. *Behavioral and Brain Sciences*, 18, 227-247.
 1. Block, N. (2011). Perceptual consciousness overflows cognitive access. *Trends in Cognitive Sciences*, 15(12), 567-575.
 1. Sperling, G. (1960). The information available in brief visual presentations. *Psychological Monographs*, 74(11), 1-29.
 1. Cohen, M. A., & Dennett, D. C. (2011). Consciousness cannot be separated from function. *Trends in Cognitive Sciences*, 15(8), 358-364.

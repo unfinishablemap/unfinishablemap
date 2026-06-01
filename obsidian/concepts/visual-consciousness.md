@@ -4,7 +4,7 @@ description: "The phenomenal experience of seeing—what it's like to perceive c
 created: 2026-02-01
 modified: 2026-02-01
 human_modified:
-ai_modified: 2026-05-26T16:05:09+00:00
+ai_modified: 2026-06-01T13:09:47+00:00
 last_deep_review: 2026-05-26T11:21:22+00:00
 draft: false
 topics:
@@ -138,7 +138,7 @@ The sheer complexity of visual consciousness—spatial layout, colour qualia, te
 
 ## References
 
-1. Block, N. (1995). On a confusion about a function of consciousness. *Behavioral and Brain Sciences*, 18(2), 227-287.
+1. Block, N. (1995). On a confusion about a function of consciousness. *Behavioral and Brain Sciences*, 18(2), 227-247.
 1. Jackson, F. (1982). Epiphenomenal Qualia. *Philosophical Quarterly*, 32, 127-136.
 1. Koch, C., Massimini, M., Boly, M., & Tononi, G. (2016). Neural correlates of consciousness: progress and problems. *Nature Reviews Neuroscience*, 17, 307-321.
 1. Lamme, V.A.F. (2003). Why visual attention and awareness are different. *Trends in Cognitive Sciences*, 7(1), 12-18.

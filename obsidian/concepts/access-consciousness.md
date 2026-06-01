@@ -4,7 +4,7 @@ description: "Access consciousness makes mental states available for reasoning a
 created: 2026-01-22
 modified: 2026-01-30
 human_modified: null
-ai_modified: 2026-05-10T01:48:00+00:00
+ai_modified: 2026-06-01T13:09:47+00:00
 draft: false
 last_deep_review: 2026-05-10T01:48:00+00:00
 topics:
@@ -145,7 +145,7 @@ This illustrates [[tenets#^occams-limits|the limits of Occam's Razor]]. Physical
 
 ## References
 
-1. Block, N. (1995). On a Confusion about a Function of Consciousness. *Behavioral and Brain Sciences*, 18, 227-287.
+1. Block, N. (1995). On a Confusion about a Function of Consciousness. *Behavioral and Brain Sciences*, 18, 227-247.
 1. Block, N. (2011). Perceptual consciousness overflows cognitive access. *Trends in Cognitive Sciences*, 15(12), 567-575.
 1. Baars, B. J. (1988). *A Cognitive Theory of Consciousness*. Cambridge University Press.
 1. Cohen, M. A., & Dennett, D. C. (2011). Consciousness cannot be separated from function. *Trends in Cognitive Sciences*, 15(8), 358-364.
