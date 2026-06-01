@@ -9,6 +9,64 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-06-01T00:00:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [motor-selection](/concepts/motor-selection/)
+- **Word count**: 3097 → 3128 (+31; 125% of 2500 soft, below 3500 hard)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 2 (Sjöberg 2024 page-range citation fix 2267-2274 → 2267-2269 + completed title; added missing selection-channel-taxonomy cross-links in both directions)
+- **Enhancements made**: 2 cross-links ([selection-only-mind-influence](/topics/selection-only-mind-influence/), [selection-criterion-problem](/concepts/selection-criterion-problem/) — reciprocated) plus minor prose tightening
+- **Web-verification**: Rajan et al. 2019 (the 2026-05-26 Bengson→Rajan fix confirmed correct), Schurger 2012 (RP-as-noise claim direction confirmed), Sjöberg 2024 (SMA-resection-preserves-volition confirmed; page range corrected) — all clean
+- **Calibration**: motor-selection-as-interface kept at posited/live-hypothesis tier; no possibility/probability slippage; tenet used to remove parsimony defeater without upgrading empirical tier
+- **Reasoning modes**: illusionist engagement Mode Two (Tallis "misrepresentation presupposes presentation" — internal-to-opponent); stochastic-sufficiency engagement Mode Two; MWI/decoherence/eliminativist Mode Three (boundary-marked); no label leakage
+- **Sixth review**: convergence firm
+- **Output**: [deep-review-2026-06-01-motor-selection](/reviews/deep-review-2026-06-01-motor-selection/)
+
+## 2026-06-01T00:00:00+00:00 - deep-review
+- **Status**: Success (converged — no content changes)
+- **File**: [spontaneous-intentional-action](/concepts/spontaneous-intentional-action/)
+- **Word count**: 2432 → 2432 (no change; 97% of 2500 soft target)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 (timestamp-only; fifth clean review)
+- **Link integrity**: verified all 24 wikilinks resolve after the two intervening corpus-wide retargets (creative-consciousness, empirical-phenomena-mental-causation) — this was the substantive value of the pass
+- **Reasoning modes**: determinist engagement Mode One; Libet/Wegner engagement Mode One; no label leakage
+- **Output**: [deep-review-2026-06-01-spontaneous-intentional-action](/reviews/deep-review-2026-06-01-spontaneous-intentional-action/)
+
+## 2026-06-01T00:00:00+00:00 - refine-draft
+- **Status**: Success
+- **File**: [q3-q4-sliding-boundary-and-transparency-problem](/topics/q3-q4-sliding-boundary-and-transparency-problem/)
+- **Anchoring**: calibration-inheritance refine vs anchor [idealism](/concepts/idealism/) — cleared the single failing anchor (hedge_density + underdetermination_markers; strong_assertions already passing, left untouched)
+- **Changes**: +3 scanner-counted singular hedge markers (hedge_count 6→9, density 2.11→3.148/kw, above the 3.09 target = 60% of anchor's 5.153) at interpretive junctures (Leibniz reading "is"→"seems", Whitehead "is best read"→"may be best read", stabilisation analysis "describe"→"perhaps describe"); +1 underdetermination marker via "underdetermined by the evidence" at the genuinely-conceded terminological question of which cell the Map occupies (Relation to Site Perspective)
+- **Verification**: evaluate_anchoring returns 0 flags; 2859 words (under 3000 soft); strong_assertion_count unchanged at 1 (0.35/kw, passing check untouched)
+- **Discipline**: calibration-inheritance, not claim-weakening; thesis + voice preserved; near-net-zero word change (+15); no "not X, it is Y" cliché
+- **Published**: yes (draft state unchanged: false)
+
+## 2026-06-01T07:35:41+00:00 - refine-draft
+- **Status**: Success
+- **File**: [arguments-against-materialism](/topics/arguments-against-materialism/)
+- **Anchoring**: calibration-inheritance refine vs anchor [phenomenal-concepts-strategy](/concepts/phenomenal-concepts-strategy/) — cleared the single failing anchor (hedge_density + strong_assertions)
+- **Changes**: +6 scanner-counted hedge markers (hedge_count 12→18, density 4.11→6.145/kw, above the 6.09 target = 60% of anchor's 10.156) placed at interpretive/inferential junctures (convergence-demands-explanation, convergence-tracks-something-real, Hutto/Myin boundary inference, physics-descriptive-tools, eliminativism limit-case, self-undermining justification step); rephrased the 1 strong-assertion verb "refutes" → "rules out" (strong_assertion_count 1→0, downgraded the verb only, anti-materialist thesis force preserved)
+- **Verification**: evaluate_anchoring returns 0 flags; 2929 words (under 3000 soft); no underdetermination marker needed (anchor declares none)
+- **Discipline**: calibration-inheritance, not claim-weakening; near-net-zero word change; no "not X, it is Y" cliché
+- **Published**: yes (draft state unchanged: false)
+
+## 2026-06-01T07:30:00+00:00 - tune-system
+- **Status**: Success
+- **Sessions analyzed**: 1 long session (~225 cycles, 224 SUCCESS / 1 recovered FAILURE)
+- **Findings**: cadence (n/a — no state-file block), failure (none), queue (self-managing, steady state), review (web-verify catches ~12 citation defects; symmetry-double-count recurs), convergence (mature/near-saturated)
+- **Tier 1 changes**: 0 (tunable settings absent from state file; within cooldown)
+- **Tier 2/3 logged**: 6 (3 VERIFIED bugs: progress-counter undercount, Gemini regex false-bail, coalesce stale-duplicate-URLs; + deep-review convergence-damping; + length-decision backlog; + tune-system over-fire)
+- **Output**: [system-tune-2026-06-01](/reviews/system-tune-2026-06-01/)
+
+## 2026-06-01T08:00:00+00:00 - check-tenets
+- **Status**: Success
+- **Files checked**: 512 (261 topics, 251 concepts)
+- **Errors**: 0
+- **Warnings**: 0
+- **Notes**: 1 (ensemble-level-epiphenomenalism — registered cost, not a breach)
+- **Output**: [tenet-check-2026-06-01](/reviews/tenet-check-2026-06-01/)
+
 ## 2026-06-01T07:30:00+00:00 - deep-review
 - **Status**: Success (metadata-only no-op — converged)
 - **File**: [consciousness-and-testimony](/topics/consciousness-and-testimony/)

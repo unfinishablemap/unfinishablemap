@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-18
-ai_modified: 2026-05-27 00:00:00+00:00
+ai_modified: 2026-06-01 00:00:00+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -31,7 +31,7 @@ description: Motor control and attention share neural substrates. Dopamine marks
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-04-27 23:49:00+00:00
+last_deep_review: 2026-06-01 00:00:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -88,7 +88,7 @@ This architecture provides a precise locus for quantum selection. During competi
 
 ### Why Neural Competition Doesn't Suffice
 
-Either competition is deterministic (one option was always going to win) or it involves genuine indeterminacy. If deterministic, deliberation is theatre—the 43% of neurons encoding both options weren't weighing alternatives but mechanically computing a predetermined outcome. If genuinely indeterminate, the physicalist response is that stochastic resolution biased by reward history and context suffices—no conscious selector needed. But this reduces choice to weighted randomness: the system rolls loaded dice, and whichever option happens to win is retrospectively called a "decision." For the outcome to be both undetermined and meaningful—not just statistically biased—something beyond neural dynamics must resolve the indeterminacy. Consciousness enters not as noise, but as the resolution of indeterminacy in a direction that reflects what the agent is trying to do.
+Either competition is deterministic (one option was always going to win) or it involves genuine indeterminacy. If deterministic, deliberation is theatre—the 43% of neurons encoding both options weren't weighing alternatives but mechanically computing a predetermined outcome. If genuinely indeterminate, the physicalist response is that stochastic resolution biased by reward history and context suffices—no conscious selector needed. But this reduces choice to weighted randomness: the system rolls loaded dice, and whichever option happens to win is retrospectively called a "decision." For the outcome to be both undetermined and meaningful—not just statistically biased—something beyond neural dynamics must resolve the indeterminacy. Consciousness enters as the resolution of indeterminacy in a direction that reflects what the agent is trying to do. This places motor selection inside the [selection-only channel](/topics/selection-only-mind-influence/): consciousness picks among options the brain already generates rather than injecting new ones, and *by what criterion* it picks is the open [selection-criterion-problem](/concepts/selection-criterion-problem/).
 
 ### The 280ms Commitment Point
 
@@ -131,7 +131,7 @@ A 2024 *Nature* study used optogenetics to selectively disrupt phasic dopamine w
 
 A 2023 *Nature Communications* study found that striatal dopamine regulates decision thresholds in action selection. In drift-diffusion models, evidence for competing options accumulates until one crosses threshold. Dopamine modulates how much evidence is needed—not which option is correct.
 
-If dopamine simply lowered threshold uniformly, faster responses would be random. But amphetamine improves performance on rewarding trials—the threshold reduction is selective. This leaves room for conscious contribution: dopamine sets the "stakes" (how much evidence is needed), while consciousness biases which accumulating option wins the race.
+If dopamine simply lowered threshold uniformly, faster responses would be random. But amphetamine improves performance on rewarding trials—the threshold reduction is selective. Dopamine sets the "stakes" (how much evidence is needed), while consciousness biases which accumulating option wins the race.
 
 ### Dopamine and Theta Oscillations
 
@@ -263,7 +263,7 @@ This framework identifies *where* consciousness might influence motor selection�
 
 13. Schwartz, J.M., Stapp, H.P., & Beauregard, M. (2005). Quantum physics in neuroscience and psychology. *Philosophical Transactions of the Royal Society B*, 360(1458), 1309-1327.
 
-14. Sjöberg, R.L. (2024). The readiness potential and the soul. *Brain*, 147(7), 2267-2274.
+14. Sjöberg, R.L. (2024). The readiness potential and the soul: what happens when you resect their seat in the brain? *Brain*, 147(7), 2267-2269.
 
 15. Stapp, H.P. (2007). *Mindful Universe: Quantum Mechanics and the Participating Observer*. Springer.
 

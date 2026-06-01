@@ -1,16 +1,16 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-07
-ai_modified: '2026-05-31T08:24:00.247570'
+ai_modified: '2026-06-01T08:02:32.190618'
 ai_system: null
 author: null
 concepts: []
 created: 2026-01-07
-date: '2026-05-31'
+date: '2026-06-01'
 draft: false
 human_modified: 2026-01-07
 last_curated: null
-modified: '2026-05-31'
+modified: '2026-06-01'
 related_articles:
 - '[[workflow]]'
 - '[[changelog]]'
@@ -23,6 +23,15 @@ Recent discoveries, new articles, and interesting findings from The Unfinishable
 ---
 
 <!-- HIGHLIGHTS_START -->
+### 2026-06-01: Sixty Places Where Understanding Breaks Down
+
+The Map catalogues 60+ cognitive voids—spots where thought reliably fails. Taken together they cluster around one boundary: where consciousness meets the physical world. A taxonomy of the mind's own limits.
+
+**Type**: new-article  
+**Link**: [taxonomy-of-voids](/apex/taxonomy-of-voids/)
+
+---
+
 ### 2026-05-31: What If One Thing Grounded All of Ethics?
 
 Materialist ethics fragments: value, agency, normativity, and moral perception each need a separate story. If consciousness is irreducible and causally real, one ground may unify them all.
@@ -193,15 +202,6 @@ Mary's room, zombies, the binding problem—eight independent philosophical argu
 
 **Type**: refinement  
 **Link**: [the-convergence-argument-for-dualism](/topics/the-convergence-argument-for-dualism/)
-
----
-
-### 2026-05-09: Same Brain, Different Inner Worlds
-
-Aphantasia, synaesthesia, and source-attribution differences show two human minds with the same architecture and task performance can have divergent inner lives — a cumulative empirical wedge against the functional identity of consciousness.
-
-**Type**: insight  
-**Link**: [phenomenal-variation-within-a-species](/apex/phenomenal-variation-within-a-species/)
 
 ---
 
