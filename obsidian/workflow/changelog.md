@@ -1,9 +1,23 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-06-01 23:12:12+00:00
+ai_modified: 2026-06-01 23:24:29+00:00
 ai_system: claude-opus-4-8
 ---
+
+## 2026-06-01T23:24:29+00:00 - deep-review
+- **Status**: Success
+- **File**: [[topics/quantum-biology-and-neural-consciousness]]
+- **Word count**: 3941 → 3941 (net 0; citation-integrity edits, length-neutral mode at 131% of soft, below hard)
+- **Critical issues addressed**: 2 (citation integrity)
+  - **Fabricated reference removed**: "Travis, K., et al. (2024). Anesthetic-sensitive quantum effects in microtubules. *Journal of Integrative Neuroscience* 23(3), 45-58" — web-search could not locate it; it appears in this article alone corpus-wide; "Travis" is a first-name/surname confusion with Travis J. A. **Craddock**. Removed from body + reference list; room-temperature-effects claim now rests on the genuine Sahu 2013 + Babcock 2024. ([[ai-citation-metadata-unreliable]])
+  - **Dangling cite fixed**: Craddock et al. (2017) cited in body (2×) but missing from reference list. Web-verified and added: *Scientific Reports* 7, 9877, DOI 10.1038/s41598-017-09992-7 (Craddock, Kurian, Preto, Sahu, Hameroff, Klobukowski, Tuszynski) — the 613 THz computational prediction; article's computational-not-experimental framing is accurate.
+- **Medium issues addressed**: 1 (citation integrity)
+  - **Babcock 2024 metadata corrected**: 128(20), 4906-4920 → **128(17), 4035-4046** (web-verified PubMed 38641327; matches the rest of the corpus, which already had it right). Full author list restored.
+- **Citations web-verified genuine (no action)**: Sahu 2013, Denton 2024 (art. 10823 — this article correct; [[stapp-quantum-mind]]'s 10760 is the divergent one, noted as a corpus follow-up), Duch 2019.
+- **Engagement classification**: Duch ("The External Critic" section) — Mixed Mode One + Mode Three, honestly formed (in-Duch anti-coherence concession on Orch-OR + discrete-event survival; explicit stage-calibrated boundary-marking). No boundary-substitution, no label leakage.
+- **Evidential-status / doctrinal / boundary-substitution**: clean — calibration table and three-sub-reading allocation are exemplary; co-fundamental dualism preserved; TRAZE correctly flagged as Dualism-incompatible.
+- **Output**: [[reviews/deep-review-2026-06-01-quantum-biology-and-neural-consciousness]]
 
 ## 2026-06-01T23:12:12+00:00 - refine-draft (absorption)
 - **Status**: Success
