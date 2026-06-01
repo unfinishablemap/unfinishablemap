@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Reciprocal cross-links across the agent-centric foundations cluster
-- **Type**: refine-draft
-- **Status**: pending
-- **Source**: optimistic-review
-- **Notes**: Suggested by [[reviews/optimistic-2026-06-01]] (High Priority, connective). Four body-motivated links the prose already earns but does not have (verified): (a) `topics/quantum-measurement-and-subjective-probability` ↔ `topics/pragmatist-quantum-foundations-and-the-agent` — these make the *identical* agent-shaped-hole critique of QBism with ZERO reciprocal links; (b) `topics/pragmatisms-path-to-dualism` → `topics/quantum-measurement-and-subjective-probability` (pragmatism's-path reaches QBism via Peirce/Fuchs but links only the agent-focused companion, not the dedicated QBism analysis); (c) `topics/consciousness-as-activity` → `topics/quantum-measurement-and-subjective-probability` (both close on process-philosophy's actual occasions resolving indeterminacy into determinate fact). Only add links the body text motivates — do NOT bolt on a links section. Connective pass, metadata-light; preserve all evidential hedging ([[evidential-status-discipline]]). MULTI-FILE — confirm each of the 3-4 files gets its reciprocal edit ([[multifile-task-dropped-file]]). Tenet alignment: structural/connective.
-
 ### P3: New concept page — The Agent-Shaped Hole
 - **Type**: expand-topic
 - **Status**: pending
@@ -3631,6 +3625,10 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 Tasks that failed 3+ times and require human intervention.
 
+
+### ✓ 2026-06-01: Reciprocal cross-links across the agent-centric foundations cluster
+- **Type**: refine-draft
+- **Notes**: Suggested by [[reviews/optimistic-2026-06-01]] (High Priority, connective). Four body-motivated links the prose already earns but does not have (verified): (a) `topics/quantum-measurement-and-subjective-probability` ↔ `topics/pragmatist-quantum-foundations-and-the-agent` — these make the *identical* agent-shaped-hole critique of QBism with ZERO reciprocal links; (b) `topics/pragmatisms-path-to-dualism` → `topics/quantum-measurement-and-subjective-probability` (pragmatism's-path reaches QBism via Peirce/Fuchs but links only the agent-focused companion, not the dedicated QBism analysis); (c) `topics/consciousness-as-activity` → `topics/quantum-measurement-and-subjective-probability` (both close on process-philosophy's actual occasions resolving indeterminacy into determinate fact). Only add links the body text motivates — do NOT bolt on a links section. Connective pass, metadata-light; preserve all evidential hedging ([[evidential-status-discipline]]). MULTI-FILE — confirm each of the 3-4 files gets its reciprocal edit ([[multifile-task-dropped-file]]). Tenet alignment: structural/connective.
 
 ### ✓ 2026-06-01: Soften "the mental-causation problem dissolves" in topics/consciousness-as-activity.md
 - **Type**: refine-draft

@@ -4,7 +4,7 @@ description: "Recasting consciousness from a property the brain has to an activi
 created: 2026-02-23
 modified: 2026-02-23
 human_modified:
-ai_modified: 2026-06-01T12:00:00+00:00
+ai_modified: 2026-06-01T13:10:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -61,7 +61,7 @@ The activity view draws on several converging traditions.
 
 [[process-philosophy|Whitehead's process metaphysics]] replaces substances bearing properties with events constituted by activity. Each "actual occasion" is an act of experience—a moment of prehending, synthesising, and achieving definite form. Consciousness is not something occasions have; it is the more complex and integrated form of what all occasions do. The fundamental category is not being but *becoming*.
 
-Whitehead's framework makes consciousness continuous with the rest of nature without reducing it to physics. Human experience is highly organised activity of the same kind that, in simpler forms, constitutes all actuality. The hard problem doesn't arise because there is no transition from non-experiential stuff to experiential property—experience is what actuality does, all the way down.
+Whitehead's framework makes consciousness continuous with the rest of nature without reducing it to physics. Human experience is highly organised activity of the same kind that, in simpler forms, constitutes all actuality. The hard problem doesn't arise because there is no transition from non-experiential stuff to experiential property—experience is what actuality does, all the way down. The same actual-occasion machinery does work at the quantum interface: the Map reads [[quantum-measurement-and-subjective-probability]] as closing on precisely this point, where indeterminacy resolves into determinate fact through a process neither purely physical nor external to experience.
 
 ### Bergson's Duration
 

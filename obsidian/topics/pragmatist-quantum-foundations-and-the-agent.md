@@ -4,7 +4,7 @@ description: "QBism, Healey, Brukner-Zeilinger, and Stapp all place an agent at 
 created: 2026-04-04
 modified: 2026-04-23
 human_modified:
-ai_modified: 2026-05-31T19:34:14+00:00
+ai_modified: 2026-06-01T13:10:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -152,6 +152,7 @@ The four positions converge on a structural frame in which agents matter irreduc
 - [[indexical-identity-quantum-measurement]] — Why QBism's primitive-agent stance instantiates the indexical gap
 - [[qm-interpretations-beyond-many-worlds]] — Survey of interpretations evaluated for consciousness compatibility
 - [[quantum-measurement-and-consciousness]] — How measurement and consciousness interact across interpretations
+- [[quantum-measurement-and-subjective-probability]] — The same agent-shaped-hole critique focused on QBism alone: why its probabilities are structurally dependent on consciousness in a way objective interpretations are not
 - [[consciousness-and-probability-interpretation]] — How probability interpretations reveal commitments about consciousness
 - [[haecceity]] — The first-person "thisness" QBism and the wider family implicitly invoke
 

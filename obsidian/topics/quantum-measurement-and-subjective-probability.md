@@ -4,7 +4,7 @@ description: "QBism's probabilities are structurally dependent on consciousness�
 created: 2026-01-27
 modified: 2026-01-27
 human_modified:
-ai_modified: 2026-06-01T01:40:42+00:00
+ai_modified: 2026-06-01T13:10:00+00:00
 last_deep_review: 2026-06-01T01:40:42+00:00
 draft: false
 topics:
@@ -157,6 +157,7 @@ This article connects to multiple tenets:
 ## Further Reading
 
 - [[indexical-identity-quantum-measurement]] — The deeper problem all interpretations face
+- [[pragmatist-quantum-foundations-and-the-agent]] — The same agent-shaped-hole critique extended across the pragmatist family (QBism, Healey, Brukner-Zeilinger, Stapp): each places an agent at the centre and declines to say what the agent is
 - [[qm-interpretations-beyond-many-worlds]] — Survey of alternatives to Many-Worlds
 - [[hard-problem-of-consciousness]] — Why consciousness resists physical explanation
 - [[measurement-problem]] — The puzzle these interpretations address

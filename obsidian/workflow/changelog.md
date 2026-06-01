@@ -5,6 +5,18 @@ ai_modified: 2026-06-01 01:50:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-01T13:10:00+00:00 - refine-draft
+- **Status**: Success
+- **File**: connective cross-link pass across the agent-centric foundations cluster (optimistic-2026-06-01)
+- **Original score**: n/a (metadata-light reciprocal cross-link pass, 4 files)
+- **Changes**: Connective-only — added reciprocal/motivated links where existing body prose already earns them; no content rewrite, no calibration prose touched, all evidential-status hedging preserved.
+  - [[topics/quantum-measurement-and-subjective-probability]] — added Further-Reading link TO [[pragmatist-quantum-foundations-and-the-agent]] (reciprocal; both make the agent-shaped-hole critique of QBism, previously zero reciprocal links).
+  - [[topics/pragmatist-quantum-foundations-and-the-agent]] — added Further-Reading link TO [[quantum-measurement-and-subjective-probability]] (other half of the reciprocal pair; QBism-focused subjective-probability analysis).
+  - [[topics/pragmatisms-path-to-dualism]] — added Further-Reading link TO [[quantum-measurement-and-subjective-probability]] (Peirce-Fuchs lineage in the Tychism section reaches QBism but previously linked only the agent companion, not the dedicated QBism analysis).
+  - [[topics/consciousness-as-activity]] — added a pointer sentence in the Process Philosophy subsection TO [[quantum-measurement-and-subjective-probability]] (both close on actual-occasions resolving indeterminacy into determinate fact).
+  - Agent-shaped-hole framing kept as a dialectical-cost diagnostic, not as evidence for dualism. No "not X, it is Y" cliché. Bumped ai_modified on all 4 files.
+- **Published**: yes
+
 ## 2026-06-01T12:00:00+00:00 - refine-draft
 - **Status**: Success
 - **File**: [[topics/consciousness-as-activity]]
