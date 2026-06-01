@@ -5,6 +5,17 @@ ai_modified: 2026-06-01 09:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-01T19:13:03+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[topics/phenomenology-of-returning-attention]]
+- **Type**: calibration-inheritance refine (anchoring audit 2026-06-01), light touch
+- **Anchor**: [[concepts/default-mode-network]]. Pre-edit: 1 flag, 2 of 3 checks failing (hedge_density 3.97/kw < 60% of anchor bar 8.70; underdetermination_markers 0 vs anchor's 2). strong_assertions matched (0.40/kw ≈ anchor 0.40/kw), so could not be used to clear.
+- **Changes**: Cleared via the underdetermination axis. Added 2 genuine counted markers ("underdetermined by the evidence", "compatible with both ... readings") to the closing of "Why the Gap Matters", where the dialectic is actually undecided: the neural/threshold/selection accounts predict the same observable signature (salience activation → executive re-engagement), so the choice among them genuinely is not forced by the data. Made the Map's selection-account preference explicit as a stance taken *within* that underdetermination, not a data-forced result.
+- **Result**: evaluate_anchoring → 0 flags. underdetermination_markers now passes; flag dropped. Did NOT chase the 5.22/kw hedge bar (≥2/3 rule satisfied; over-hedging would risk mush).
+- **Preserved**: central returning-attention thesis and three-phase structure, voice, all citations. No decorative markers (placed only where genuinely underdetermined, per cycle-269 lesson).
+- **Original score**: n/a (calibration-inheritance pass, not a full quality review)
+- **Published**: yes
+
 ## 2026-06-01T19:08:29+00:00 - refine-draft
 - **Status**: Success
 - **File**: [[topics/phenomenology-of-trust]]
