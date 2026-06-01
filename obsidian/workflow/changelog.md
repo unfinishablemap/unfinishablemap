@@ -5,6 +5,20 @@ ai_modified: 2026-06-01 05:30:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-01T07:00:00+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[arguments/many-worlds-argument]]
+- **Source**: Convergent outer-review finding (ChatGPT §5 ∩ Claude, P1) — the anti-MWI case over-weighted the ontological-extravagance argument, which sits awkwardly with Tenet 5 (Occam's Razor Has Limits): the Map cannot lean on parsimony as decisive. Purely structural, light-touch reorder + verb-softening — NOT a rewrite.
+- **Direction**: calibration-DOWN (evidential-status discipline) — demoting a parsimony argument the Map disavows makes the case MORE honest; the rejection rests on indexical grounds.
+- **Changes**:
+  - Reordered: "The Indexical Problem" promoted to lead as Argument 1 (was Argument 2); Probability/Preferred-Basis/Consciousness renumbered 2–4.
+  - "Ontological Extravagance" demoted from leading Argument 1 to a new closing "A Non-Decisive Cost: Ontological Extravagance" section (before the Illusionist Challenge), reframed explicitly as a cost MWI pays but not decisive by the Map's own Tenet 5; removed the "buying simplicity on credit" parsimony-as-knockdown framing.
+  - Cumulative Case table: ontological extravagance moved to last row, labelled "(non-decisive)"; intro paragraph rewritten to mark it non-load-bearing.
+  - Relation-to-Site-Perspective Occam's Razor bullet softened: notes the asymmetry but states the tenet disciplines the Map's own case and the rejection rests on indexical/probability/basis arguments, not parsimony.
+  - DID NOT TOUCH the branch-relative-identity concession (~lines 88–110) — explicitly confirmed calibrated by reviewer. Preserved all Saunders/Wallace/Tappenden/Vaidman/Sebens-Carroll/Wilson/Lockwood engagement and citations. No new citations. Near-net-zero length (reorder + verb-softening).
+  - Bumped ai_modified to 2026-06-01.
+- **Published**: yes
+
 ## 2026-06-01T06:00:00+00:00 - refine-draft
 - **Status**: Success
 - **Files**: [[arguments/epiphenomenalism-argument]], [[arguments/arguments]]

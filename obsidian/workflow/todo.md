@@ -102,16 +102,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: outer-review
 - **Generated**: 2026-06-01
 
-### P1: Restructure many-worlds-argument lead + soften relation-to-tenets/index verbs to match the body's existing concession
-- **Type**: refine-draft
-- **Status**: pending
-- **File**: obsidian/arguments/many-worlds-argument.md
-- **Notes**: From convergent outer reviews (2026-06-01, 2/3 reviewers): [chatgpt, claude]. Upgraded P2→P1 by /combine-outer-reviews — the "anti-MWI case still over-weights the Tenet-5-demoted ontological-extravagance argument; demote it and foreground the indexical objection" finding was flagged by ChatGPT 5.5 Pro §5 (this file, `arguments/many-worlds-argument.md`) AND Claude Opus 4.8 (Verification Notes, the residue on `concepts/quantum-indeterminacy-free-will.md`). Different files, same structural finding. The companion concept-page fix lives in the same-cycle "Verification corrections bundle" task (item 4); keep both consistent. PARTLY VERIFIED: the branch-relative-identity concession the reviewer asks to "move earlier" is ALREADY present and explicit (lines ~88–110), already states "That requirement is a tenet, not a derived conclusion" (line ~94), and already applies the direct-refutation discipline (line ~96, "the framework helps itself to a move it has not earned by its own standards"). Do NOT rewrite that material — it is the calibrated state the reviewer is asking for. The remaining live work is purely structural: "Argument 1: Ontological Extravagance" still leads (line ~46); demote it to a non-decisive cost under [[tenets|Tenet 5]] and foreground indexical actuality, Born-rule probability, and global uniqueness instead. Then soften any remaining relation-to-tenets / index summary that treats ontological extravagance as load-bearing, so the framing matches the body. Light-touch: preserve all existing Saunders/Wallace/Tappenden/Wilson engagement.
-- **Review files**: `reviews/outer-review-2026-06-01-chatgpt-5-5-pro.md`, `reviews/outer-review-2026-06-01-claude-opus-4-8.md`
-- **Synthesis**: `reviews/outer-review-synthesis-2026-06-01.md`
-- **Source**: outer-review
-- **Generated**: 2026-06-01
-
 ### P3: New concept page — The Agent-Shaped Hole
 - **Type**: expand-topic
 - **Status**: pending
@@ -3674,6 +3664,10 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 Tasks that failed 3+ times and require human intervention.
 
+
+### ✓ 2026-06-01: Restructure many-worlds-argument lead + soften relation-to-tenets/index verbs to match the body's existing concession
+- **Type**: refine-draft
+- **Notes**: From convergent outer reviews (2026-06-01, 2/3 reviewers): [chatgpt, claude]. Upgraded P2→P1 by /combine-outer-reviews — the "anti-MWI case still over-weights the Tenet-5-demoted ontological-extravagance argument; demote it and foreground the indexical objection" finding was flagged by ChatGPT 5.5 Pro §5 (this file, `arguments/many-worlds-argument.md`) AND Claude Opus 4.8 (Verification Notes, the residue on `concepts/quantum-indeterminacy-free-will.md`). Different files, same structural finding. The companion concept-page fix lives in the same-cycle "Verification corrections bundle" task (item 4); keep both consistent. PARTLY VERIFIED: the branch-relative-identity concession the reviewer asks to "move earlier" is ALREADY present and explicit (lines ~88–110), already states "That requirement is a tenet, not a derived conclusion" (line ~94), and already applies the direct-refutation discipline (line ~96, "the framework helps itself to a move it has not earned by its own standards"). Do NOT rewrite that material — it is the calibrated state the reviewer is asking for. The remaining live work is purely structural: "Argument 1: Ontological Extravagance" still leads (line ~46); demote it to a non-decisive cost under [[tenets|Tenet 5]] and foreground indexical actuality, Born-rule probability, and global uniqueness instead. Then soften any remaining relation-to-tenets / index summary that treats ontological extravagance as load-bearing, so the framing matches the body. Light-touch: preserve all existing Saunders/Wallace/Tappenden/Wilson engagement.
 
 ### ✓ 2026-06-01: Calibrate epiphenomenalism-argument + arguments index to match the softened tenets-page treatment
 - **Type**: refine-draft
