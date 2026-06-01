@@ -5,6 +5,16 @@ ai_modified: 2026-06-01 09:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-01T00:00:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [[concepts/unity-of-consciousness]]
+- **Word count**: 2335 → 2335 (0; metadata-only)
+- **Critical issues addressed**: 0 (none found — 6th review, post-refine content sound)
+- **Medium issues addressed**: 0 (none found)
+- **Audit focus**: 2026-05-31 refine (commit b2351547d) — new "The Octopus" dissociation section + Further Reading entry, never previously deep-reviewed. Verified it landed correctly, is internally consistent, and honours evidential-status discipline (octopus phenomenal-unity trilemma left explicitly open, no tenet-driven upgrade; quantum-holism link hedged as structural correlate).
+- **Citation web-verify (standing mandate)**: New factual claims verified against sources. Octopus ~500M neurons / two-thirds in arms / severed arms respond to stimuli — all accurate. Santander et al. (2025) PNAS 122(43) e2520190122 "Full interhemispheric integration sustained by a fraction of posterior callosal fibers" — verified (title/venue/DOI/date match, ~1 cm splenium claim accurate); DOI consistent across 5 corpus articles. Engagement modes unchanged (no new named-opponent replies). Cross-corpus note: Pinto et al. (2017) and Santander et al. (2025) are distinct split-brain papers, not a metadata divergence — article correctly cites Santander for the redundant-fibres claim.
+- **Output**: [[reviews/deep-review-2026-06-01-unity-of-consciousness]]
+
 ## 2026-06-01T19:28:16+00:00 - deep-review
 - **Status**: Success
 - **File**: [[concepts/knowledge-argument]]
