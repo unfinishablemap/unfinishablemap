@@ -5,6 +5,18 @@ ai_modified: 2026-06-01 05:30:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-01T06:55:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [[voids/necessary-opacity]]
+- **Word count**: 2325 → 2441 (+116; soft_warning, well under 3000 voids hard threshold)
+- **Critical issues addressed**: 2 (both attribution, web-verified)
+  - Ref #12 wrong authors: "Seth & Tsakiris" → Ciaunica, Charlton & Farmer (2020), "When the Window Cracks" — confirmed PhilPapers/Springer/PsycNet; added DOI
+  - Ref #2 wrong initials + DOI: "Battaglia, F. P." → Battaglia, S., Servajean, P. & Friston, K. J.; DOI ...12.002 → ...12.009 (vol. 54) — confirmed ScienceDirect/PubMed
+- **Medium issues addressed**: 1 (triple-screen consistency — added distinguishing bullet placing necessary-opacity as the *representational* opacity alongside amplification-void/agency-void's *causal* opacities; no conflation; modal necessity claim verified honestly calibrated, no slippage)
+- **Enhancements made**: reciprocal cross-links to [[amplification-void]] and [[agency-void]] (frontmatter + Distinguishing + Further Reading), reciprocated from both siblings' Further Reading; predictive-construction-void link verified already reciprocal
+- **Output**: [[reviews/deep-review-2026-06-01-necessary-opacity]]
+- **Note**: 4th deep review; both citation defects latent since authorship, missed by 3 prior in-corpus reviews, catchable only by live web-verify.
+
 ## 2026-06-01T06:41:36+00:00 - deep-review
 - **Status**: Success (metadata-only — converged, no content changes)
 - **File**: [[voids/meta-epistemology-of-limits]]

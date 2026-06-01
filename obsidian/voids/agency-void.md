@@ -4,7 +4,7 @@ description: "Consciousness cannot control most of its own states, and cannot ve
 created: 2026-02-25
 modified: 2026-05-11
 human_modified: null
-ai_modified: 2026-06-01T06:27:48+00:00
+ai_modified: 2026-06-01T06:55:00+00:00
 last_deep_review: 2026-06-01T00:00:00+00:00
 draft: false
 topics:
@@ -172,6 +172,7 @@ The void is also [[tenet-generated-voids|tenet-generated]]: the Map's commitment
 - [[decision-void]] — Within-agency void at the deliberation→commitment crossing
 - [[thought-stream-void]] — Operational complement: thought *generation* vs recurrence's *re-presentation*
 - [[ownership-void]] — Mineness of the unbidden content
+- [[necessary-opacity]] — The representational sibling: this void asks whether the agent can verify it *caused* anything; necessary opacity asks whether the medium that would report the answer *tracks reality* at all
 - [[noetic-feelings-void]] — The felt texture of intrusion as itself a noetic feeling
 - [[inference-void]] — Every act of self-checking is itself an inference with opaque grounding
 - [[research/voids-effort-void-2026-05-08|The Effort Void (research-stage)]] — Three-face survey (calibration / depletion / modulation) of mental effort's opacity; the action-side analogue of [[noetic-feelings-void]]. Cap-deferred, awaiting absorption into this article's verification face

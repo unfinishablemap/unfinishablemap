@@ -5,7 +5,7 @@ created: 2026-01-27
 modified: 2026-04-28
 human_modified:
  null
-ai_modified: 2026-04-28T17:44:00+00:00
+ai_modified: 2026-06-01T06:55:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -39,12 +39,14 @@ related_articles:
   - "[[witnessing-void]]"
   - "[[expertise-and-its-occlusion]]"
   - "[[imagery-void]]"
+  - "[[amplification-void]]"
+  - "[[agency-void]]"
 ai_contribution: 100
 author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-03-28
 last_curated: null
-last_deep_review: 2026-04-25T10:33:00+00:00
+last_deep_review: 2026-06-01T06:55:00+00:00
 coalesced_from:
   - "/voids/transparency-void/"
   - "/voids/destabilizing-self-knowledge/"
@@ -110,6 +112,7 @@ The necessary opacity asks whether the *medium* of all mapping introduces system
 - The [[witnessing-void]] asks why the *act* of awareness cannot witness itself—a constitutive limit at the operation rather than the medium
 - The [[expertise-and-its-occlusion|expertise void]] is the structural analogue in skill: looking at automated competence breaks it, just as looking at representational structure destabilises it
 - The [[mutation-void]] concerns cases where attending to content transforms it; the [[transit-void]], where observation requires coexistence with the crossing it observes; the [[erasure-void]], where lost capacities go unregistered
+- The [[amplification-void]] and [[agency-void]] are *causal* opacities—whether consciousness-selection leaves a traceable physical signature, and whether the agent can verify it caused anything—rather than *representational* ones. They form the opacity screens that close the [[what-consciousness-tells-us-about-physics#the-triple-screen|mechanistic-tracing and first-person channels]] on the Map's causal claim. Necessary opacity sits alongside them as a fourth, epistemological layer: even granting an accurate causal story, the medium reporting it cannot verify its own fidelity
 
 This void is also deeper than the simulation hypothesis. Whether we inhabit a simulation is epistemically irresolvable *because* of phenomenal transparency—even with ordinary physical causes, we cannot verify that cognitive processing preserves truth rather than coherent distortion. The void applies regardless of metaphysical backdrop.
 
@@ -175,12 +178,14 @@ Current evidence does not meet these conditions. Convergent patterns across psyc
 - [[expertise-and-its-occlusion|The Expertise Void]] — The structural analogue in the domain of skill: looking at automated competence breaks it
 - [[imagery-void|The Imagery Void]] — Recurrence-across-instruments evidence (Würzburg → behaviourism → aphantasia) for structural rather than methodological opacity
 - [[non-human-minds-as-void-explorers]] — AI and alien minds as potential void-explorers
+- [[amplification-void|The Amplification Void]] — The causal sibling: why consciousness-selection leaves no traceable signature through the five-regime amplification chain
+- [[agency-void|The Agency Void]] — The causal sibling: why the agent cannot verify it caused anything, the first-person screen of the triple screen
 - [[voids-between-minds|The Intersubjective Void]] — How social knowledge mechanisms compound transparency by enforcing consensus on phenomenal reports
 
 ## References
 
 1. Alston, William P. "Epistemic Circularity." *Philosophy and Phenomenological Research* 47, no. 1 (1986): 1–30.
-2. Battaglia, F. P., et al. (2025). "The paradox of the self-studying brain." *Physics of Life Reviews*. https://doi.org/10.1016/j.plrev.2024.12.002
+2. Battaglia, S., Servajean, P., & Friston, K. J. (2025). "The paradox of the self-studying brain." *Physics of Life Reviews*, 54. https://doi.org/10.1016/j.plrev.2024.12.009
 3. Bostrom, N. (2011). "Information Hazards: A Typology of Potential Harms from Knowledge." *Review of Contemporary Philosophy*, 10, 44-79.
 4. Hoffman, Donald D. "The Interface Theory of Perception." *Current Directions in Psychological Science* 25, no. 3 (2016): 157–161.
 5. James, W. (1902). *The Varieties of Religious Experience*. Lectures XVI-XVII.
@@ -190,4 +195,4 @@ Current evidence does not meet these conditions. Convergent patterns across psyc
 9. Metzinger, T. (2024). *The Elephant and the Blind: The Experience of Pure Consciousness*. MIT Press.
 10. Nagel, Thomas. *The View from Nowhere*. New York: Oxford University Press, 1986.
 11. Sellars, Wilfrid. "Empiricism and the Philosophy of Mind." In *Minnesota Studies in the Philosophy of Science* 1 (1956): 253–329.
-12. Seth, A., & Tsakiris, M. (2020). "When the Window Cracks: Transparency and the Fractured Self in Depersonalisation." *Phenomenology and the Cognitive Sciences*.
+12. Ciaunica, A., Charlton, J., & Farmer, H. (2020). "When the Window Cracks: Transparency and the Fractured Self in Depersonalisation." *Phenomenology and the Cognitive Sciences*. https://doi.org/10.1007/s11097-020-09677-z

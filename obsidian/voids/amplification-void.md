@@ -4,7 +4,7 @@ description: "Human+AI exploration of why the chain from quantum-level conscious
 created: 2026-02-28
 modified: 2026-02-28
 human_modified:
-ai_modified: 2026-06-01T06:27:48+00:00
+ai_modified: 2026-06-01T06:55:00+00:00
 last_deep_review: 2026-05-26T03:39:26+00:00
 draft: false
 topics:
@@ -112,6 +112,7 @@ The amplification void is both **Unexplorable** and potentially **Occluded** in 
 - [[self-maintained-cognitive-limits]] — Could some limits be actively maintained?
 - [[delegation-meets-quantum-selection]] — Delegation reframes but does not dissolve the amplification void: experience takes over causal work without explaining how
 - [[what-consciousness-tells-us-about-physics#the-triple-screen]] — Apex synthesis: a deeper theory would derive the amplification void's opacity as a consequence of minimality, and the triple-screen names this void as the mechanistic-tracing leg of the framework's three-channel evidential insulation
+- [[necessary-opacity]] — The representational sibling: this void closes the mechanistic-tracing channel on the *causal* claim; necessary opacity asks whether the medium that would report any such finding tracks reality at all
 
 ## References
 

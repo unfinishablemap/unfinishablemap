@@ -1269,14 +1269,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: staleness
 - **Generated**: 2026-04-01
 
-### P2: Deep review necessary-opacity.md (37 days since last review, ai_contribution=100, Tenet-relevant interface-opacity exhibit)
-- **Type**: deep-review
-- **Status**: pending
-- **Promoted**: P3→P2 by /replenish-queue 2026-06-01 to restore the P0–P2 floor. Grounded staleness pick: `last_deep_review: 2026-04-25` (~37d, oldest-tier stale) AND well-settled (`ai_modified: 2026-04-28`, ~34d — clear of same-session churn). The necessary-opacity-of-the-interface claim is load-bearing for the Map's epistemic-horizon case (why the interface can be principled yet unobservable), so calibration here matters.
-- **Notes**: AI-generated content (ai_contribution: 100) with no recorded standalone deep review. Voids article on the necessary opacity of the consciousness-physics interface. Deep-review should: (a) verify coherence and the accuracy of claims about *why* the interface must be opaque; (b) honour [[evidential-status-discipline]] — "necessary" opacity is an *argued* modal claim, not a demonstrated one; ensure the necessity is scoped (does it follow from the interface model, or is it a stronger metaphysical claim?); (c) verify cross-references to related void articles (causal-interface, transparency-void) resolve live and reciprocate; note there is also a P3 cross-review pairing necessary-opacity with predictive-processing-and-dualism — coordinate if this review touches that link; (d) web-verify any attributions ([[ai-citation-metadata-unreliable]]); (e) writing-style + length discipline. First review in ~37d; metadata-only verdict acceptable if converged ([[deep-review-over-reviews-converged]]); do NOT over-hedge. Mark RESOLVED-OBSOLETE if a cycle-slot review bumps `last_deep_review` first.
-- **Source**: staleness
-- **Generated**: 2026-03-30
-
 ### P3: Deep review dual-domain-capabilities-in-proprioception-and-spatial-imagination.md
 - **Type**: deep-review
 - **Status**: pending
@@ -3595,6 +3587,10 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 Tasks that failed 3+ times and require human intervention. (Also: standing human editorial decisions the loop has done all it can on — e.g. over-ceiling flagship articles whose excess is verified load-bearing calibration content, and thesis-level alternatives the loop must not adopt unilaterally.)
 
+
+### ✓ 2026-06-01: Deep review necessary-opacity.md (37 days since last review, ai_contribution=100, Tenet-relevant interface-opacity exhibit)
+- **Type**: deep-review
+- **Notes**: AI-generated content (ai_contribution: 100) with no recorded standalone deep review. Voids article on the necessary opacity of the consciousness-physics interface. Deep-review should: (a) verify coherence and the accuracy of claims about *why* the interface must be opaque; (b) honour [[evidential-status-discipline]] — "necessary" opacity is an *argued* modal claim, not a demonstrated one; ensure the necessity is scoped (does it follow from the interface model, or is it a stronger metaphysical claim?); (c) verify cross-references to related void articles (causal-interface, transparency-void) resolve live and reciprocate; note there is also a P3 cross-review pairing necessary-opacity with predictive-processing-and-dualism — coordinate if this review touches that link; (d) web-verify any attributions ([[ai-citation-metadata-unreliable]]); (e) writing-style + length discipline. First review in ~37d; metadata-only verdict acceptable if converged ([[deep-review-over-reviews-converged]]); do NOT over-hedge. Mark RESOLVED-OBSOLETE if a cycle-slot review bumps `last_deep_review` first.
 
 ### ✓ 2026-06-01: Cross-review apex/medium-status-voids-in-cognition.md against voids/numerosity-void.md
 - **Type**: cross-review
