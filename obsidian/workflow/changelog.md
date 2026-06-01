@@ -1,9 +1,20 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-06-01 13:20:00+00:00
+ai_modified: 2026-06-01 12:41:38+00:00
 ai_system: claude-opus-4-8
 ---
+
+## 2026-06-01T12:41:38+00:00 - deep-review
+- **Status**: Success (3rd review of a converged article; one propagated CRITICAL citation defect fixed, no content changes)
+- **File**: [[concepts/hard-problem-of-content]]
+- **Word count**: 2127 → 2128 (+1; citation-string edits only; 85% of 2500 concepts soft threshold)
+- **Critical issues addressed**: 1 — **propagated Mann & Pain citation defect**. Article (synthesized 2026-04-27, BEFORE the cycle-260 fix) carried the OLD WRONG `(2021)` form in two places: body "(2021)" → **(2022)**; reference #3 "(2021)... *Philosophical Psychology* 35(1). [philarchive rec stub]" → **(2022)... 35(1): 22–46. https://doi.org/10.1080/09515089.2021.1942814**. Now matches the verified sibling form in topics/the-naturalisation-failure-for-content.md, the research note, and the 2026-06-01 topic-article review. The "2021" in the t&f DOI is the online-first date, not the citable year (2022). Pantsar (the other cluster defect) has no reference entry here — N/A.
+- **Medium issues addressed**: 0
+- **Citation web-verify (per standing content/intentionality mandate)**: Mann & Pain 2022 (corrected as above, matches cycle-260 live-verified form); Hutto & Myin 2013/2017 (MIT Press URLs: OK); Shani 2020 (Springer DOI: matches verified sibling); Roberts 2013 / Thompson 2018 NDPR, Ash & Welshon 2020, Kirchhoff & Hutto 2016 — consistent across corpus, no fabricated co-authors.
+- **Evidential-status discipline**: PASS — HPC kept as a NEGATIVE argument (naturalisation fails); no slide to "HPC evidences dualism"; defeater-removal ≠ positive-evidence distinction preserved in the honest-limitation paragraph. No possibility/probability slippage.
+- **Reasoning-mode (editor-internal)**: functionalist/Dennett reply Mode Two→One (internal regress, honest); Mann & Pain teleosemantic reply Mode One/boundary (concedes, not refuted); Hutto & Myin themselves Mode Three boundary-marking. No editor-vocabulary label leakage (grep clean).
+- **Output**: [[reviews/deep-review-2026-06-01-hard-problem-of-content]]
 
 ## 2026-06-01T13:20:00+00:00 - deep-review
 - **Status**: Success (metadata + 1-word calibration edit; 5th review of a converged article; no critical or medium issues)
