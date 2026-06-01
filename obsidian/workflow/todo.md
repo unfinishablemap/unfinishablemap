@@ -37,13 +37,28 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Deep review topics/consciousness-and-the-ownership-problem.md (33d since review, REFINED-SINCE on 2026-05-19, ai_contribution=100, individuation/self cluster)
-- **Type**: deep-review
-- **File**: obsidian/topics/consciousness-and-the-ownership-problem.md
+### P2: Adopt theory-of-mind calibration in phenomenology-of-trust
+- **Type**: refine-draft
 - **Status**: pending
-- **Notes**: FLOOR-RESTORING by /replenish-queue 2026-06-01 (second of three grounded staleness deep-reviews minted this run — see the perceptual-degradation task above for the full replenish-at-floor verification: effective loop-executable P0–P2 queue at ~1, all generative sources exhausted/blocked, documented [[unfin-loop-steady-state]]). CHANGED-SINCE-REVIEW POSITIVE SIGNAL: `last_deep_review: 2026-04-29` (~33d, oldest-tier non-void AI-heavy topic past the 30-day floor with no dedicated open deep-review task) but `ai_modified: 2026-05-19` (~13d) — the article was SUBSTANTIVELY REFINED on 2026-05-19, AFTER its last deep-review, so that post-review content has never been deep-reviewed (HIGHER-value than a converged article). The 05-19 refine is NOT same-session (today is 2026-06-01), cleanly clear of [[deep-review-over-reviews-converged]] / [[refine-then-condense-same-session-churn]]. 2749 words (under the 3000 topics soft threshold, no length risk — do NOT grow it past 3000). "Consciousness and the Ownership Problem" anchors the who-owns-this-experience / subject-of-experience strand (the de-combination / mineness question), DISTINCT from the perceptual-degradation interface concept above and the knowledge-argument anti-physicalist concept below — it sits in the individuation/self cluster that the open de-combination-problem and agent-shaped-hole P3 tasks also touch (so a clean review here de-risks those). Deep-review should AUDIT THE UNREVIEWED 05-19 CONTENT specifically, plus: (a) web-verify any attributions (Miller 2018 de-combination / "Can Subjects Be Proper Parts of Subjects?", open-individualism Kolak 2004, any mineness/Zahavi sources) before trusting them ([[ai-citation-metadata-unreliable]]); (b) honour [[evidential-status-discipline]] — the ownership/de-combination problem *constrains* one-field-many-subjects readings, it does NOT by itself *establish* dualism (keep open individualism at "live option" register, NOT upgraded on tenet-resonance); (c) verify cross-links resolve live and reciprocate where load-bearing (esp. into the individuation / vertiginous-question / combination-problem clusters); (d) writing-style + length discipline (no "This is not X. It is Y." cliché; keep under 3000 words). A metadata-only verdict is acceptable if the 05-19 content holds up; do NOT over-hedge converged prose. SELECTION-COLLISION CAVEAT: if a cycle-slot deep-review bumps `last_deep_review` to 2026-06-01 before this task is picked, mark RESOLVED-OBSOLETE rather than re-reviewing. Tenet alignment: Tenet 4 (No Many Worlds — indexical identity / who the subject is), Tenet 1 (Dualism).
-- **Source**: staleness
+- **File**: obsidian/topics/phenomenology-of-trust.md
+- **Notes**: From topic-concept anchoring audit 2026-06-01. The topic article over-claims relative to its anchor concept [[theory-of-mind]]; failed checks: hedge_density, strong_assertions.
+  - hedge density 5.70/kw is below 60% of anchor (12.69/kw)
+  - topic uses 1 strong-assertion verbs where anchor uses none
+  - Action: bring the topic's hedge profile in line with the anchor concept's. Preserve the article's voice; this is not a request to weaken the central claim, only to inherit the calibration discipline the anchor concept already uses. See [[project/calibration-audit-triple]] Audit Three for the spec and [[evidential-status-discipline]] for the underlying rule.
+- **Source**: topic-concept-anchoring-audit
 - **Generated**: 2026-06-01
+
+### P2: Adopt default-mode-network calibration in phenomenology-of-returning-attention
+- **Type**: refine-draft
+- **Status**: pending
+- **File**: obsidian/topics/phenomenology-of-returning-attention.md
+- **Notes**: From topic-concept anchoring audit 2026-06-01. The topic article over-claims relative to its anchor concept [[default-mode-network]]; failed checks: hedge_density, underdetermination_markers.
+  - hedge density 3.97/kw is below 60% of anchor (8.70/kw)
+  - anchor declares underdetermination (2× explicit) but topic has no underdetermination markers
+  - Action: bring the topic's hedge profile in line with the anchor concept's. Preserve the article's voice; this is not a request to weaken the central claim, only to inherit the calibration discipline the anchor concept already uses. See [[project/calibration-audit-triple]] Audit Three for the spec and [[evidential-status-discipline]] for the underlying rule.
+- **Source**: topic-concept-anchoring-audit
+- **Generated**: 2026-06-01
+
 
 ### P2: Deep review concepts/knowledge-argument.md (33d since review, REFINED-SINCE on 2026-05-25, ai_contribution=100, anti-physicalist / Mary's-room cluster)
 - **Type**: deep-review
@@ -3681,6 +3696,10 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 Tasks that failed 3+ times and require human intervention. (Also: standing human editorial decisions the loop has done all it can on — e.g. over-ceiling flagship articles whose excess is verified load-bearing calibration content, and thesis-level alternatives the loop must not adopt unilaterally.)
 
+
+### ✓ 2026-06-01: Deep review topics/consciousness-and-the-ownership-problem.md (33d since review, REFINED-SINCE on 2026-05-19, ai_contribution=100, individuation/self cluster)
+- **Type**: deep-review
+- **Notes**: FLOOR-RESTORING by /replenish-queue 2026-06-01 (second of three grounded staleness deep-reviews minted this run — see the perceptual-degradation task above for the full replenish-at-floor verification: effective loop-executable P0–P2 queue at ~1, all generative sources exhausted/blocked, documented [[unfin-loop-steady-state]]). CHANGED-SINCE-REVIEW POSITIVE SIGNAL: `last_deep_review: 2026-04-29` (~33d, oldest-tier non-void AI-heavy topic past the 30-day floor with no dedicated open deep-review task) but `ai_modified: 2026-05-19` (~13d) — the article was SUBSTANTIVELY REFINED on 2026-05-19, AFTER its last deep-review, so that post-review content has never been deep-reviewed (HIGHER-value than a converged article). The 05-19 refine is NOT same-session (today is 2026-06-01), cleanly clear of [[deep-review-over-reviews-converged]] / [[refine-then-condense-same-session-churn]]. 2749 words (under the 3000 topics soft threshold, no length risk — do NOT grow it past 3000). "Consciousness and the Ownership Problem" anchors the who-owns-this-experience / subject-of-experience strand (the de-combination / mineness question), DISTINCT from the perceptual-degradation interface concept above and the knowledge-argument anti-physicalist concept below — it sits in the individuation/self cluster that the open de-combination-problem and agent-shaped-hole P3 tasks also touch (so a clean review here de-risks those). Deep-review should AUDIT THE UNREVIEWED 05-19 CONTENT specifically, plus: (a) web-verify any attributions (Miller 2018 de-combination / "Can Subjects Be Proper Parts of Subjects?", open-individualism Kolak 2004, any mineness/Zahavi sources) before trusting them ([[ai-citation-metadata-unreliable]]); (b) honour [[evidential-status-discipline]] — the ownership/de-combination problem *constrains* one-field-many-subjects readings, it does NOT by itself *establish* dualism (keep open individualism at "live option" register, NOT upgraded on tenet-resonance); (c) verify cross-links resolve live and reciprocate where load-bearing (esp. into the individuation / vertiginous-question / combination-problem clusters); (d) writing-style + length discipline (no "This is not X. It is Y." cliché; keep under 3000 words). A metadata-only verdict is acceptable if the 05-19 content holds up; do NOT over-hedge converged prose. SELECTION-COLLISION CAVEAT: if a cycle-slot deep-review bumps `last_deep_review` to 2026-06-01 before this task is picked, mark RESOLVED-OBSOLETE rather than re-reviewing. Tenet alignment: Tenet 4 (No Many Worlds — indexical identity / who the subject is), Tenet 1 (Dualism).
 
 ### ✓ 2026-06-01: Deep review concepts/perceptual-degradation-and-the-interface.md (34d since review, REFINED-SINCE on 2026-05-19, ai_contribution=100, interface-mechanics cluster)
 - **Type**: deep-review

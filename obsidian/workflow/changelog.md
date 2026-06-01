@@ -5,6 +5,19 @@ ai_modified: 2026-06-01 09:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-01T18:49:44+00:00 - deep-review
+- **Status**: Success (5th review; 2026-05-19 refine audit, orphaned citation fixed)
+- **File**: [[topics/consciousness-and-the-ownership-problem]]
+- **Word count**: 2764 → ~2768 (92% of 3000 topics soft threshold; reference line only)
+- **2026-05-19 audit (task focus)**: The post-04-29 refine (commits 49bda6cc4 + 9d066b61b) added the `[[mine-ness]]` frontmatter concept link, a new "**It is not the agency problem.**" paragraph introducing the Gallagher mine-ness/agency distinction, and a `[[mine-ness]]` Further Reading entry. Audited: landed correctly, internally consistent (depersonalisation claim matches the pre-existing clinical paragraph), completes the "It is not X" taxonomy (binding/unity/self/agency) cleanly.
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 2 — (1) Orphaned reference: in-text "Gallagher (2000, 2012)" had no 2012 entry in References; added Gallagher & Zahavi (2012) *The Phenomenological Mind* (2nd ed., Routledge), matching corpus-standard form across 8+ siblings. (2) Attribution precision: 2012 is co-authored with Zahavi, so changed in-text "Gallagher (2000, 2012)" → "Gallagher (2000; with Zahavi 2012)" — the agency/ownership distinction originates in Gallagher's solo 2000 paper (correct primary source).
+- **Citations web-verified**: Gallagher 2000 (TiCS 4(1):14-21 — real, introduces agency/ownership distinction via schizophrenic thought insertion, matches article's clinical claim); Gallagher & Zahavi 2012 (*The Phenomenological Mind* 2nd ed., Routledge — real, treats mineness as pre-reflective self-awareness); Parnas et al. 2005 EASE (*Psychopathology* 38(5):236-258 — author-vector/venue/volume/issue/pages all correct). No fabricated co-authors, no remaining orphaned refs.
+- **Calibration check**: passed — new paragraph frames the distinction as phenomenal-feature architecture (descriptive phenomenology), no slide from "mineness irreducible" to "evidences dualism/substantial self"; pathological cases used as constraint on no-subject accounts, not as positive proof (constraint ≠ proof preserved); hedges intact, no over-hedging; no "This is not X. It is Y." cliché.
+- **Engagement classification (changelog-only)**: functionalism = Mode Two (helps itself to "ownership = functional role" without explaining the first-person subject); illusionism = Mode One (illusion must be for someone); MWI = Mode Three (honest boundary-marking, "concedes rather than solves"). No label leakage in prose.
+- **Enhancements made**: 0 (length-neutral; citation correction only)
+- **Output**: [[reviews/deep-review-2026-06-01-consciousness-and-the-ownership-problem]]
+
 ## 2026-06-01T18:44:10+00:00 - deep-review
 - **Status**: Success (4th review; converged content, inherited citation defect fixed)
 - **File**: [[concepts/perceptual-degradation-and-the-interface]]

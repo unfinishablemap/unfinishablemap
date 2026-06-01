@@ -4,7 +4,7 @@ description: "Why does experience belong to anyone? The ownership problem asks w
 created: 2026-02-09
 modified: 2026-02-09
 human_modified:
-ai_modified: 2026-05-19T19:00:00+00:00
+ai_modified: 2026-06-01T18:49:44+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -36,7 +36,7 @@ author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-02-09
 last_curated:
-last_deep_review: 2026-04-29T15:31:00+00:00
+last_deep_review: 2026-06-01T18:49:44+00:00
 ---
 
 Why does experience belong to anyone? Every conscious state is someone's conscious state—my pain is *mine*, your perception of blue is *yours*. This seems so obvious it barely warrants mention. Yet the ownership of experience is one of the deepest puzzles in philosophy of mind, because no physical description of a brain state includes the fact that the state is *had by* a particular subject. The ownership problem asks: what makes conscious states belong to someone rather than existing as free-floating experiential events?
@@ -57,7 +57,7 @@ Three features make the ownership problem distinctive:
 
 **It is not the self problem.** The [[self-and-self-consciousness|minimal self]]—the "for-me-ness" of experience—describes the phenomenological character of ownership. But describing ownership is not the same as explaining it. Saying experience has a for-me quality restates the fact that experience is owned. The ownership problem asks *why* it has this quality.
 
-**It is not the agency problem.** Shaun Gallagher (2000, 2012) distinguishes two phenomenal features the ordinary use of "ownership" conflates. The [[mine-ness|mine-ness layer]] is the felt for-me character by which experience presents as belonging to a subject. The agency layer is the felt initiation by which a thought or action presents as authored by that subject. They dissociate clinically in both directions: schizophrenic thought insertion preserves mine-ness while disrupting agency (the thought occurs in *my* mind but feels produced by someone else); depersonalisation can disrupt mine-ness while leaving agency intact. The ownership problem this article addresses targets the mine-ness layer—why experience belongs to anyone at all—not the agency layer, which is the further question of why some experiences feel authored. The two questions need parallel treatment but they are not the same question.
+**It is not the agency problem.** Shaun Gallagher (2000; with Zahavi 2012) distinguishes two phenomenal features the ordinary use of "ownership" conflates. The [[mine-ness|mine-ness layer]] is the felt for-me character by which experience presents as belonging to a subject. The agency layer is the felt initiation by which a thought or action presents as authored by that subject. They dissociate clinically in both directions: schizophrenic thought insertion preserves mine-ness while disrupting agency (the thought occurs in *my* mind but feels produced by someone else); depersonalisation can disrupt mine-ness while leaving agency intact. The ownership problem this article addresses targets the mine-ness layer—why experience belongs to anyone at all—not the agency layer, which is the further question of why some experiences feel authored. The two questions need parallel treatment but they are not the same question.
 
 ## Why Physicalism Struggles
 
@@ -154,6 +154,7 @@ The ownership problem supports and is illuminated by the Map's foundational comm
 1. Zahavi, D. (2005). *Subjectivity and Selfhood: Investigating the First-Person Perspective*. MIT Press.
 1. Husserl, E. (1913/1982). *Ideas Pertaining to a Pure Phenomenology and to a Phenomenological Philosophy*. Martinus Nijhoff.
 1. Gallagher, S. (2000). "Philosophical Conceptions of the Self." *Trends in Cognitive Sciences*, 4(1), 14-21.
+1. Gallagher, S. & Zahavi, D. (2012). *The Phenomenological Mind* (2nd ed.). Routledge.
 1. Strawson, G. (2009). *Selves: An Essay in Revisionary Metaphysics*. Oxford University Press.
 1. Chalmers, D. (1996). *The Conscious Mind: In Search of a Fundamental Theory*. Oxford University Press.
 1. Parfit, D. (1984). *Reasons and Persons*. Oxford University Press.
