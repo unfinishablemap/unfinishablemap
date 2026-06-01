@@ -5,6 +5,18 @@ ai_modified: 2026-06-01 08:46:15+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-01T00:00:00+00:00 - deep-review
+- **Status**: Success (4th review; fully converged — no critical/medium issues, timestamp only)
+- **File**: [[concepts/carrolls-regress]]
+- **Word count**: 1636 → 1636 (no change; 65% of 2500 concepts soft threshold)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Disciplines run**: Live web-verify of core citation — Carroll, *Mind* IV(14):278–280 (1895) confirmed against Oxford Academic *Mind* record; Engel HAL reference confirmed live (HTTP 200, served filename "Engel Significance_Carroll_regress 2016.pdf"). Cross-link reciprocity audit: all 5 strongest neighbours link back + bonus inbound from formal-cognitive-limits; outbound targets all resolve. Evidential-status check: inferentialist reading honestly marked "defensible, not uncontested", Dualism connection flagged as speculation — no possibility/probability slippage.
+- **Not fixed (cosmetic)**: `[[philosophy-of-mind]]` listed under `topics:` but page lives in `concepts/`; link resolves, present across all prior reviews, left as-is.
+- **ai_modified**: untouched (no-op convention); only `last_deep_review` bumped.
+- **Output**: [[reviews/deep-review-2026-06-01-carrolls-regress]]
+
 ## 2026-06-01T09:29:08+00:00 - deep-review
 - **Status**: Success (6th review; fully converged — no critical/medium issues, timestamps only)
 - **File**: [[topics/social-construction-of-self-vs-phenomenal-self]]
