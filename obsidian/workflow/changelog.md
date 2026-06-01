@@ -5,6 +5,18 @@ ai_modified: 2026-06-01 09:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-01T19:46:18+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[concepts/moral-responsibility]]
+- **Source**: pessimistic-review 2026-06-01 ([[reviews/pessimistic-2026-06-01-moral-responsibility]])
+- **Original score**: mature/discipline-clean; no critical issues (light precision pass, no material growth)
+- **Changes**:
+  - (a) Internal seam (load-bearing): added one reconciling sentence to the control section dissolving the apparent "mechanism-independent vs needs-some-mechanism" contradiction — the philosophical case fixes what control *consists in* (reasons-guided selection among open possibilities); the tenets require only that *some* unspecified physical process leave those possibilities open, so independence is from any *specific* mechanism, not from physics as such.
+  - (b) Luck-objection: hedged the [[quantum-indeterminacy-free-will]] pointer to flag "selects for reasons" as developed-there-but-not-uncontroversially-completed rather than asserting it settled.
+  - Secondary: line ~153 unsupported moral-psych claim ("current evidence shows the opposite") downgraded to "ordinary practice suggests … we tend to"; line ~65 "identical selection architecture" softened to "parallel".
+- **Preserved**: evidential-status hedges and the honest boundary-marking in the compatibilism/MWI replies (the review's "corpus model for boundary-marking done right") untouched. No label leakage; no "not X, it is Y" cliché.
+- **Published**: yes
+
 ## 2026-06-01T19:40:33+00:00 - pessimistic-review
 - **Status**: Success
 - **Content reviewed**: [[concepts/moral-responsibility]] (least-reviewed substantial old concept article; last pessimistic touch 2026-02-17)

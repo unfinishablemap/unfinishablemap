@@ -4,7 +4,7 @@ description: "How agent causation grounds genuine moral desert. Agents originate
 created: 2026-01-16
 modified: 2026-01-16
 human_modified: null
-ai_modified: 2026-05-27T07:22:00+00:00
+ai_modified: 2026-06-01T19:46:18+00:00
 draft: false
 topics:
   - "[[topics/free-will]]"
@@ -52,7 +52,7 @@ The agent is the ultimate source of the action. Prior factors influenced but did
 
 ### The Luck Objection
 
-If nothing about the agent explains why they chose to help rather than harm, how do they deserve praise or blame? See [[quantum-indeterminacy-free-will]] for the full treatment of this challenge. The Map's [[topics/free-will#The Agent-Causal Response to Luck|response]]: consciousness-selected indeterminism differs from lucky indeterminism because the agent selects *for reasons*. You deserve blame for cruelty because *you* selected it when kindness was available, for reasons (malice, indifference) that reflect badly on you.
+If nothing about the agent explains why they chose to help rather than harm, how do they deserve praise or blame? See [[quantum-indeterminacy-free-will]] for the full treatment of this challenge. The Map's [[topics/free-will#The Agent-Causal Response to Luck|response]]: consciousness-selected indeterminism differs from lucky indeterminism because the agent selects *for reasons*—a response developed, though not uncontroversially completed, in [[quantum-indeterminacy-free-will]]. You deserve blame for cruelty because *you* selected it when kindness was available, for reasons (malice, indifference) that reflect badly on you.
 
 ### How Agent Causation Grounds Control
 
@@ -62,9 +62,9 @@ Three features of this picture support genuine control:
 
 1. **Selection, not randomness**: The agent selects among open possibilities based on what matters to them—reasons, not dice rolls, shape the outcome
 2. **Phenomenology tracks causation**: The felt difficulty of choosing well corresponds to genuine causal engagement with alternatives
-3. **Two-domain evidence**: Both [[attention-as-interface|attention]] and [[motor-selection|motor control]] show identical selection architecture, suggesting consciousness genuinely selects
+3. **Two-domain evidence**: Both [[attention-as-interface|attention]] and [[motor-selection|motor control]] show parallel selection architecture, suggesting consciousness genuinely selects
 
-One proposed physical implementation is the [[quantum-indeterminacy-free-will#The Quantum Zeno Mechanism in Detail|quantum Zeno mechanism]], where sustained attention acts like repeated quantum measurement, stabilising selected neural patterns. This is speculative—it depends on disputed decoherence timescales and remains Stapp's hypothesis rather than established physics. But the philosophical case for agent-causal control does not depend on this particular mechanism. If quantum Zeno proves unworkable, the Map's position requires only that *some* physical process leaves room for consciousness to influence outcomes—a gap that quantum indeterminacy provides regardless of the specific mechanism.
+One proposed physical implementation is the [[quantum-indeterminacy-free-will#The Quantum Zeno Mechanism in Detail|quantum Zeno mechanism]], where sustained attention acts like repeated quantum measurement, stabilising selected neural patterns. This is speculative—it depends on disputed decoherence timescales and remains Stapp's hypothesis rather than established physics. But the philosophical case for agent-causal control does not depend on this particular mechanism. If quantum Zeno proves unworkable, the Map's position requires only that *some* physical process leaves room for consciousness to influence outcomes—a gap that quantum indeterminacy provides regardless of the specific mechanism. The two framings are not in tension: the philosophical case establishes what control *consists in*—reasons-guided selection among genuinely open possibilities—while the tenets require only that *some* unspecified physical process leave those possibilities open. The independence is therefore from any *specific* mechanism, not from physics as such; control's nature is mechanism-neutral, while control's possibility needs only that physical causation not be closed—itself a tenet commitment rather than a particular mechanism.
 
 ## How Desert Differs Under Agent Causation
 
@@ -150,7 +150,7 @@ Agent-causal moral responsibility is falsifiable. Findings that would undermine 
 
 1. **Complete neural prediction of moral choices**: If neuroscience could predict all moral decisions from prior brain states with 100% accuracy at timescales ruling out quantum effects, there would be no "gap" for consciousness to fill. Existing studies remain far from this threshold. Soon et al. (2008) famously detected neural activity correlating with decisions up to ten seconds before conscious awareness, but their prediction accuracy for *which* button a subject would press was only ~60%—barely above chance for a binary choice. Subsequent studies have improved timing predictions but not content prediction for complex moral decisions. The gap between predicting *when* someone will act and predicting *what* they will choose remains substantial.
 
-2. **Dissociation of effort phenomenology from desert intuitions**: If sustained mental effort could be shown to have no correlation with judgments of desert—if we praised and blamed equally regardless of how hard the choice felt—the phenomenological support would collapse. Current evidence shows the opposite: we hold agents more responsible for choices they struggled with than for automatic responses.
+2. **Dissociation of effort phenomenology from desert intuitions**: If sustained mental effort could be shown to have no correlation with judgments of desert—if we praised and blamed equally regardless of how hard the choice felt—the phenomenological support would collapse. Ordinary practice suggests the opposite: we tend to hold agents more responsible for choices they struggled with than for automatic responses.
 
 3. **Solving the hard problem materialistically**: If a compelling account of why physical processes give rise to subjective experience emerged, the motivation for treating consciousness as a separate causal factor would diminish. Without dualist foundations, agent causation loses its metaphysical distinctiveness.
 
