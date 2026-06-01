@@ -37,6 +37,15 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
+### P2: Install altered-state symmetry acknowledgment in neural-correlates-of-consciousness
+- **Type**: refine-draft
+- **Status**: pending
+- **File**: obsidian/concepts/neural-correlates-of-consciousness.md
+- **Notes**: Pessimistic review 2026-06-01 found a convergence double-counting failure (Altered-State Symmetry audit check 3, medium issue) in the "Filter Theory: Correlates as Interface Points" section (the "Several findings support this reading" bulleted list). The article passes the supportive-cluster gate (psychedelic DMN dissolution + covert consciousness + contemplative cessation) AND cites disruptive-cluster items (propofol/ketamine anaesthetic extinction, brain damage/lesion, vegetative state) — so check 2 passes — but it lists the four findings as convergent confirmations of the transmission reading with no symmetry marker. Fix: upgrade the section's closing line from "compatible with either production or transmission" to an explicit statement that the four findings are ONE evidential pattern (not four independent confirmations), and that the same accommodation move is symmetrically available to the production/identity theorist (the propofol "near-total extinction" is the case the transmission framing must accommodate, currently enrolled as support rather than burden). Inherit the accommodation pattern from concepts/altered-states-of-consciousness.md and topics/anaesthesia-and-the-consciousness-interface.md. Do NOT add a counter-claim per bullet; present the dialectic as a single underdetermined position. Secondary (optional in same pass): source the Koch COGITATE quote (line 61), the 2025 callosotomy "full conscious unity" claim (line 116), and the "200 theories" figure (line 170). See pessimistic-2026-06-01-neural-correlates-of-consciousness.md.
+- **Review file**: `reviews/pessimistic-2026-06-01-neural-correlates-of-consciousness.md`
+- **Source**: pessimistic-review
+- **Generated**: 2026-06-01
+
 ### P2: HUMAN length-decision — post-decoherence-selection-programme over apex ceiling
 - **Type**: refine-draft
 - **Status**: pending

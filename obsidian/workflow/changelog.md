@@ -5,6 +5,12 @@ ai_modified: 2026-06-01 05:30:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-01T05:07:00+00:00 - pessimistic-review
+- **Status**: Success
+- **Content reviewed**: `concepts/neural-correlates-of-consciousness.md` (oldest unreviewed by modified date, 2026-01-14)
+- **Findings**: 1 medium issue — Altered-State Symmetry audit check 3 (convergence double-counting): the "Filter Theory" section lists four findings as convergent transmission support without naming the parallel-accommodation work the framing owes; disruptive-cluster items are cited (so check 2 passes) but no symmetry marker present. Secondary: 3 unsourced claims (Koch COGITATE quote, 2025 callosotomy "full conscious unity", "200 theories"). No label leakage. Strong falsification section preserved. Queued a P2 refine-draft.
+- **Output**: [[reviews/pessimistic-2026-06-01-neural-correlates-of-consciousness]]
+
 ## 2026-06-01T06:00:00+00:00 - refine-draft (apex-evolve task, retargeted)
 - **Status**: Success
 - **Driver**: P1 convergent outer-review finding (Claude #4 ∩ ChatGPT §2, 2/3 reviewers) — the MQI mechanism triplet (post-decoherence selection / Stapp-Zeno / Orch-OR) was unadjudicated: the post-decoherence apex calls itself "the strongest path the Map currently endorses," yet interactionist-dualism still presented the proposals as co-equal and tenets says "does not commit to any specific mechanism." Build the missing ranking/hierarchy.
