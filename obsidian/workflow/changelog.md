@@ -7,6 +7,17 @@ ai_system: claude-opus-4-8
 
 ## 2026-06-01T00:00:00+00:00 - deep-review
 - **Status**: Success
+- **File**: [[topics/eliminative-materialism]]
+- **Word count**: 3548 → 3667 (+119; corrective bibliography — 4 References entries — plus a dialectically-necessary Moorean-paragraph fix; remaining length a standing human editorial call, all load-bearing calibration paragraphs preserved)
+- **Critical issues addressed**: 1 (Moorean-response paragraph CONFLATED two papers: cited "A 2024 *Frontiers in Psychology* paper, 'In Defence of the Moorean Argument Against Illusionism'" — but the real Frontiers 2024 paper is Loginov, "Illusionism, Moore, and Chalmers," which argues the Moorean argument FAILS, while the paper titled "In Defense of Moorean Argument..." is Morozov 2025, a Kasavin-ed. book chapter, NOT Frontiers. Wrong title-venue pairing AND a defense attributed to a critic. Web-verified against Frontiers DOI + PhilArchive; corrected to the real Chalmers 2018 → Loginov 2024 → Morozov 2025 dialectic. Added Chalmers/Loginov/Morozov/Searle References entries; verified Searle quote against *Rediscovery of the Mind* 1992; added issue number to Churchland 1981 78(2).)
+- **Medium issues addressed**: 0 (body prose was unchanged since the 2026-04-30 review — the 05-25 ai_modified stamp was embed-videos only; converged content held up)
+- **Enhancements made**: 1 (Moorean paragraph now carries the accurate three-paper dialectic)
+- **Reasoning modes**: eliminativist/parsimony engagement Mode Two→Three (unsupported-move ID then honest boundary-marking); illusionist/quasi-phenomenal engagement Mode Three (boundary-marked, not refutation-claimed); self-refutation correctly declined as non-knockdown. No label leakage.
+- **Follow-up queued**: P2 corpus-wide Loginov-stance fix (the "rehabilitate" framing is backwards in research/ + concept notes; likely a Morozov conflation)
+- **Output**: [[reviews/deep-review-2026-06-01-eliminative-materialism]]
+
+## 2026-06-01T00:00:00+00:00 - deep-review
+- **Status**: Success
 - **File**: [[topics/argument-from-reason]]
 - **Word count**: 3738 → 3738 (0; citation-title fixes only, length-neutral at 125% soft)
 - **Critical issues addressed**: 1 (misattributed Hasker chapter title: "The Case for Emergent Dualism" / *Waning of Materialism* was a conflation of two real Hasker works → corrected to "Persons and the Unity of Consciousness," *Waning of Materialism*, OUP 2010, pp. 175–190, which is the chapter actually supporting the body claim. Web-verified; survived all 12 prior corpus-internal reviews. Same wrong pairing also corrected in 2 research notes.)
