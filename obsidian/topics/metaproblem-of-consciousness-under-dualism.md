@@ -1,10 +1,10 @@
 ---
 title: "The Metaproblem of Consciousness Under Dualism"
-description: "How interactionist dualism turns the metaproblem from threat to vindication—realizationism, debunking resistance, and the zombie divergence prediction."
+description: "How interactionist dualism defuses the metaproblem's debunking threat—realizationism, defeater-removal, and the zombie divergence prediction."
 created: 2026-03-11
 modified: 2026-03-11
 human_modified:
-ai_modified: 2026-05-25T08:40:35+00:00
+ai_modified: 2026-06-01T12:00:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -37,7 +37,7 @@ last_curated:
 last_deep_review: 2026-05-25T08:40:35+00:00
 ---
 
-Interactionist dualism has a structural advantage on the [[meta-problem-of-consciousness|metaproblem of consciousness]] that other positions lack. The metaproblem—why do we *think* consciousness poses a hard problem?—threatens physicalists and epiphenomenalists alike. But if consciousness causally contributes to the reasoning that generates problem intuitions, then those intuitions are not merely coincidentally accurate. They are informed by direct acquaintance with their subject matter. This article argues that interactionism converts the metaproblem from a threat into evidence for dualism.
+Interactionist dualism has a structural advantage on the [[meta-problem-of-consciousness|metaproblem of consciousness]] that other positions lack. The metaproblem—why do we *think* consciousness poses a hard problem?—threatens physicalists and epiphenomenalists alike. But if consciousness causally contributes to the reasoning that generates problem intuitions, then those intuitions are not merely coincidentally accurate. They are informed by direct acquaintance with their subject matter. This article argues that interactionism defuses the metaproblem—removing the defeater it would otherwise supply against phenomenal realism—rather than converting it into a fresh threat-becomes-evidence windfall for dualism.
 
 ## The Metaproblem as Litmus Test
 
@@ -45,7 +45,7 @@ David Chalmers introduced the metaproblem in 2018 as a challenge for every posit
 
 Illusionists must explain why the brain generates systematically misleading self-representations that make consciousness *seem* irreducible when it supposedly isn't. Physicalists must explain why consciousness *seems* to resist identification with brain processes even if the identity holds. Epiphenomenal dualists must explain why we accurately report on something that plays no causal role in generating those reports.
 
-Interactionist dualism faces none of these awkward explanatory debts. We report that consciousness is puzzling because it genuinely is. Problem intuitions track a real feature of the world. The metaproblem has what Chalmers called a "face-value solution." (For the metaproblem's general formulation and the landscape of responses, see [[meta-problem-of-consciousness]]; this article develops the specifically interactionist advantage.)
+Interactionist dualism faces none of these awkward explanatory debts. We report that consciousness is puzzling because it genuinely is. Problem intuitions track a real feature of the world. The metaproblem has what Chalmers called a "face-value solution." What this advantage buys is worth stating precisely: it *removes a defeater* rather than supplying fresh positive evidence. Neutralising the metaproblem's debunking use restores the dualist's prior warrant—it does not, on its own, raise the standing of dualism above where the rest of the Map's case leaves it. (For the metaproblem's general formulation and the landscape of responses, see [[meta-problem-of-consciousness]]; this article develops the specifically interactionist advantage.)
 
 ## Realizationism as Natural Consequence
 
@@ -109,9 +109,9 @@ The [[tenets#^occams-limits|Occam's Razor Has Limits]] tenet identifies this as 
 
 ## Relation to Site Perspective
 
-The Unfinishable Map's framework turns the metaproblem into an argument *for* interactionist dualism rather than a challenge to it.
+The Unfinishable Map's framework meets the metaproblem rather than being challenged by it—but the gain is defensive, not evidential. Defusing the metaproblem removes a defeater; it does not, on its own, add positive weight to the dualist's case, which rests on the rest of the Map's argument.
 
-The [[tenets#^dualism|Dualism]] tenet provides the face-value solution: problem intuitions are accurate because consciousness genuinely resists physical explanation. The [[tenets#^bidirectional-interaction|Bidirectional Interaction]] tenet converts this into realizationism: consciousness doesn't merely exist alongside our reasoning about it but causally contributes to that reasoning. This blocks the debunking argument and predicts zombie divergence. The [[tenets#^occams-limits|Occam's Razor Has Limits]] tenet exposes the parsimony trap in illusionist reasoning—apparent simplicity purchased by omitting the phenomenon under investigation.
+The [[tenets#^dualism|Dualism]] tenet provides the face-value solution: problem intuitions are accurate because consciousness genuinely resists physical explanation. The [[tenets#^bidirectional-interaction|Bidirectional Interaction]] tenet grounds realizationism: consciousness doesn't merely exist alongside our reasoning about it but causally contributes to that reasoning. This blocks the debunking argument—restoring the dualist's prior warrant rather than fortifying it beyond that—and predicts zombie divergence. The [[tenets#^occams-limits|Occam's Razor Has Limits]] tenet exposes the parsimony trap in illusionist reasoning—apparent simplicity purchased by omitting the phenomenon under investigation.
 
 The metaproblem also strengthens the Map's case against [[concepts/epiphenomenalism|epiphenomenalism]]. The [[the-epiphenomenalist-threat|epiphenomenalist threat]] identifies a "gravity well" pattern: every position accepting both consciousness and physical causal closure converges on causal impotence through different routes. The metaproblem reveals why this convergence matters—positions trapped in the gravity well cannot give a face-value account of problem intuitions, because they deny consciousness the causal role that realizationism requires. Epiphenomenal dualism accepts that consciousness is real but denies it causal efficacy—leaving it vulnerable to the debunking argument in exactly the way interactionism is not. The metaproblem provides another reason, alongside [[self-stultification]] and the [[consciousness-and-causal-powers|argument from causal powers]], to prefer interactionist over epiphenomenal dualism.
 
@@ -137,7 +137,7 @@ The evolutionary dimension deepens this point. If consciousness was selected bec
 
 1. Chalmers, D.J. (2018). The meta-problem of consciousness. *Journal of Consciousness Studies*, 25(9-10), 6-61.
 2. Chalmers, D.J. (~2020). How can we solve the meta-problem of consciousness? https://consc.net/papers/solving.pdf
-3. Chalmers, D.J. (~2020). Debunking arguments for illusionism about consciousness. https://consc.net/papers/debunking.pdf
+3. Chalmers, D.J. (2020). Debunking arguments for illusionism about consciousness. *Journal of Consciousness Studies*, 27(5-6), 258-281. https://consc.net/papers/debunking.pdf
 4. Frankish, K. (2019). The meta-problem is the problem of consciousness. *Journal of Consciousness Studies*, 26(9-10).
 5. Diaz, R. (~2021). Do people think consciousness poses a hard problem? *Journal of Consciousness Studies*, 28(3-4).
 6. Southgate, A. & Oquatre-six, C. (2026-02-09). The Meta-Problem of Consciousness. *The Unfinishable Map*. https://unfinishablemap.org/concepts/meta-problem-of-consciousness/

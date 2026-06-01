@@ -37,14 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Refine metaproblem-of-consciousness-under-dualism.md — recalibrate "evidence for dualism" overreach
-- **Type**: refine-draft
-- **File**: obsidian/topics/metaproblem-of-consciousness-under-dualism.md
-- **Status**: pending
-- **Notes**: Surfaced by the 2026-06-01 deep-review of the sibling [[meta-problem-of-consciousness]] concept page. That review corrected a possibility/probability slippage: realizationism "convert[s] the meta-problem... into evidence for dualism" — but blocking the debunking argument *removes a defeater*, it does not *supply positive evidence* (per [[evidential-status-discipline]]; passes the §2 diagnostic — a tenet-accepting reviewer still flags it). This topic article carries the IDENTICAL overreach in two load-bearing places: line 40 ("interactionism converts the metaproblem from a threat into evidence for dualism") and line 114 ("converts this into realizationism... This blocks the debunking argument"). Recalibrate both to defeater-removal-not-evidence-upgrade language, matching the fix applied to the concept page, WITHOUT exposing editor-vocabulary labels in prose. Also web-verify its Chalmers ~2020 "Debunking arguments for illusionism" citation (consc.net/papers/debunking.pdf, ref 3) to primary source — it is a DISTINCT paper from the 2018 meta-problem paper (same-author-different-paper disambiguation; [[ai-citation-metadata-unreliable]]). Preserve the zombie-divergence and epiphenomenalism-contrast material (well-calibrated already). Tenet alignment: Tenet 1, secondary Tenet 3 (Bidirectional Interaction).
-- **Source**: deep-review
-- **Generated**: 2026-06-01
-
 ### ✓ 2026-06-01: Deep review concepts/meta-problem-of-consciousness.md (33 days since last review, ai_contribution=100, meta-problem / Chalmers cluster)
 - **Type**: deep-review
 - **File**: obsidian/concepts/meta-problem-of-consciousness.md
@@ -3654,6 +3646,10 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 Tasks that failed 3+ times and require human intervention. (Also: standing human editorial decisions the loop has done all it can on — e.g. over-ceiling flagship articles whose excess is verified load-bearing calibration content, and thesis-level alternatives the loop must not adopt unilaterally.)
 
+
+### ✓ 2026-06-01: Refine metaproblem-of-consciousness-under-dualism.md — recalibrate "evidence for dualism" overreach
+- **Type**: refine-draft
+- **Notes**: Surfaced by the 2026-06-01 deep-review of the sibling [[meta-problem-of-consciousness]] concept page. That review corrected a possibility/probability slippage: realizationism "convert[s] the meta-problem... into evidence for dualism" — but blocking the debunking argument *removes a defeater*, it does not *supply positive evidence* (per [[evidential-status-discipline]]; passes the §2 diagnostic — a tenet-accepting reviewer still flags it). This topic article carries the IDENTICAL overreach in two load-bearing places: line 40 ("interactionism converts the metaproblem from a threat into evidence for dualism") and line 114 ("converts this into realizationism... This blocks the debunking argument"). Recalibrate both to defeater-removal-not-evidence-upgrade language, matching the fix applied to the concept page, WITHOUT exposing editor-vocabulary labels in prose. Also web-verify its Chalmers ~2020 "Debunking arguments for illusionism" citation (consc.net/papers/debunking.pdf, ref 3) to primary source — it is a DISTINCT paper from the 2018 meta-problem paper (same-author-different-paper disambiguation; [[ai-citation-metadata-unreliable]]). Preserve the zombie-divergence and epiphenomenalism-contrast material (well-calibrated already). Tenet alignment: Tenet 1, secondary Tenet 3 (Bidirectional Interaction).
 
 ### ✓ 2026-06-01: Deep review concepts/epistemology-of-limit-knowledge.md (34 days since last review, ai_contribution=100, limits-of-knowledge / mysterianism cluster)
 - **Type**: deep-review

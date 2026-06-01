@@ -5,6 +5,15 @@ ai_modified: 2026-06-01 13:15:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-01T12:00:00+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[topics/metaproblem-of-consciousness-under-dualism]]
+- **Original score**: ~8/10 (well-calibrated except the flagged overreach)
+- **Changes**: Recalibrated the possibility/probability slippage in three load-bearing places to match the sibling [[concepts/meta-problem-of-consciousness]] deep-review (same UTC cycle). (1) Opening thesis: "interactionism converts the metaproblem from a threat into evidence for dualism" → defuses-the-metaproblem / removes-the-defeater framing, explicitly NOT a threat-becomes-evidence windfall. (2) Added a defeater-removal-not-evidence sentence after the "face-value solution" para (matches concept page's "removes a defeater rather than supplying fresh positive evidence... restores the dualist's prior warrant"). (3) Relation to Site Perspective: "turns the metaproblem into an argument *for* interactionist dualism" + "converts this into realizationism" → "meets the metaproblem rather than being challenged by it—but the gain is defensive, not evidential"; blocking the debunking argument "restoring the dualist's prior warrant rather than fortifying it beyond that". (4) Meta description: "from threat to vindication" → "defuses the metaproblem's debunking threat... defeater-removal". Per [[evidential-status-discipline]]; passes the §2 diagnostic (a tenet-accepting reviewer still flags the original).
+- **Citation web-verified**: ref 3 Chalmers "Debunking Arguments for Illusionism about Consciousness" — verified against primary source (consc.net + WebSearch/SemanticScholar/ANU): real title EXACT, year upgraded ~2020 → 2020, venue added *JCS* 27(5-6):258-281 (symposium reply to commentaries on the 2018 meta-problem paper). Confirmed DISTINCT from the 2018 meta-problem paper (ref 1, JCS 25(9-10):6-61, left as-is, matches standard citation) — no conflation/false-correction.
+- **Preserved**: zombie-divergence and epiphenomenalism-contrast material untouched; "blocks the strongest weapon" language in Realizationism section left (already correct defeater-removal framing); central dualist-metaproblem thesis intact. No editor-vocabulary/mode labels in prose (changelog-only).
+- **Published**: yes
+
 ## 2026-06-01T12:00:00+00:00 - deep-review
 - **Status**: Success
 - **File**: [[concepts/meta-problem-of-consciousness]]
