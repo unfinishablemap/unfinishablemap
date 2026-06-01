@@ -37,6 +37,25 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
+### P2: Soften "the mental-causation problem dissolves" in topics/consciousness-as-activity.md
+- **Type**: refine-draft
+- **Status**: pending
+- **File**: obsidian/topics/consciousness-as-activity.md
+- **Source**: optimistic-review
+- **Notes**: Suggested by [[reviews/optimistic-2026-06-01]] (Hardline-Empiricist calibration note). The "Causal engagement" bullet in the "What Activity Means Here" section claims the mental-causation problem "dissolves. Of course it does. Activities are causal." This is the cluster's only spot where an ontological *reframing* is presented as *settling* (rather than relocating) Kim's exclusion problem. The article already ANSWERS exclusion later in "Relation to Site Perspective" → Bidirectional Interaction via the selection-among-quantum-indeterminate-neural-states mechanism — that is the real load-bearer. Fix: soften "dissolves / of course it does" to "relocates to the interface" and forward-reference the selection mechanism, so ontological category does not appear to do evidential work. SINGLE-PARAGRAPH near-no-op; do NOT rewrite the section or over-hedge the rest ([[deep-review-over-reviews-converged]]). Preserve [[evidential-status-discipline]] framing — this is the Process-Philosopher-praise-must-not-cash-out-as-load-bearer pattern from the optimistic-review skill. Tenet alignment: Bidirectional Interaction (Tenet 3).
+
+### P2: Reciprocal cross-links across the agent-centric foundations cluster
+- **Type**: refine-draft
+- **Status**: pending
+- **Source**: optimistic-review
+- **Notes**: Suggested by [[reviews/optimistic-2026-06-01]] (High Priority, connective). Four body-motivated links the prose already earns but does not have (verified): (a) `topics/quantum-measurement-and-subjective-probability` ↔ `topics/pragmatist-quantum-foundations-and-the-agent` — these make the *identical* agent-shaped-hole critique of QBism with ZERO reciprocal links; (b) `topics/pragmatisms-path-to-dualism` → `topics/quantum-measurement-and-subjective-probability` (pragmatism's-path reaches QBism via Peirce/Fuchs but links only the agent-focused companion, not the dedicated QBism analysis); (c) `topics/consciousness-as-activity` → `topics/quantum-measurement-and-subjective-probability` (both close on process-philosophy's actual occasions resolving indeterminacy into determinate fact). Only add links the body text motivates — do NOT bolt on a links section. Connective pass, metadata-light; preserve all evidential hedging ([[evidential-status-discipline]]). MULTI-FILE — confirm each of the 3-4 files gets its reciprocal edit ([[multifile-task-dropped-file]]). Tenet alignment: structural/connective.
+
+### P3: New concept page — The Agent-Shaped Hole
+- **Type**: expand-topic
+- **Status**: pending
+- **Source**: optimistic-review
+- **Notes**: Suggested by [[reviews/optimistic-2026-06-01]] (High Priority). ASSESS-FIRST, LICENCE-TO-DECLINE per [[stale-expand-tasks-may-be-redundant]]: the phrase "agent-shaped hole" is ALREADY COINED in `topics/pragmatist-quantum-foundations-and-the-agent.md` (for QBism only). Check whether that article already discharges the *cross-cutting* pattern at adequate depth before creating; if it does, retarget to a refine that generalises it in place rather than a new page. The pattern: a framework makes the conscious agent load-bearing in its own foundations while refusing to theorise what the agent *is* — instantiated identically in QBism (credences over phenomenal outcomes), the property-ontology of mind (`consciousness-as-activity`: a property with no performer), and materialist pragmatism (`pragmatisms-path-to-dualism`: evaluation with no evaluator). A concept node lets downstream pieces CITE the pattern instead of re-deriving it. CRITICAL CALIBRATION CONSTRAINT: this is a *diagnostic / dialectical-cost* concept, NOT positive evidence for dualism — it must inherit the QBism article's bracketing-vs-structural-dependence distinction verbatim and must NOT present "frameworks presuppose the agent" as evidence FOR dualism (defeater-removal ≠ evidence; [[evidential-status-discipline]]). Concept-section cap is near full (~245/270) — check section_caps before placing. Tenet alignment: Dualism (Tenet 1), Bidirectional Interaction (Tenet 3).
+
 ### ✓ RESOLVED-OBSOLETE 2026-06-01: Deep review topics/phenomenology-of-moral-life.md (35 days since last review, ai_contribution=100, phenomenal-value cluster)
 - **Type**: deep-review
 - **File**: obsidian/topics/phenomenology-of-moral-life.md
