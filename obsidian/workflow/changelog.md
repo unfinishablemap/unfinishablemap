@@ -5,6 +5,19 @@ ai_modified: 2026-06-01 22:10:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-01T08:00:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [[topics/time-collapse-and-agency]]
+- **Selection**: changed-since-review pick (last_deep_review 04-30, ai_modified 05-31 — audited the post-04-30 calibration content a 2026-05-31 refine added in response to that day's pessimistic review).
+- **Word count**: 4607 → 4607 (+0; near-no-op audit pass)
+- **Critical issues addressed**: 0 — all 3 issues from the 2026-05-31 pessimistic review (altered-state convergence double-count; epistemic→metaphysical equivocation on "constitutive priority"; Zeno-cadence quantitative gap) were already resolved in the body by the same-day refine; verified line-by-line this pass.
+- **Medium issues addressed**: 0
+- **Citation web-verify**: Babcock et al. 2024 (J. Phys. Chem. B 128(17):4035–4046), Khan et al. 2024 (eNeuro 11(8) ENEURO.0291-24.2024), Tegmark 2000 (Phys. Rev. E 61:4194; 10⁻¹³–10⁻²⁰ s decoherence range) — all exact including stance; no fabrication, no stance-reversal. Tegmark correctly cited against the framework's own preference.
+- **Engagement modes (editor-internal)**: illusionism — Mode Three (framework-boundary, honestly noted); MWI/No-Many-Worlds — Mode Two then Three (identifies what Everettian commitments cost the framework, then marks the bedrock residue); decoherence/Tegmark — Mode One (defective on physicalist's own quantitative terms, the article concedes it looks unfavourable). No label leakage. Deferred (low-priority refine-draft queued): Dennett multiple-drafts as direct temporal rival, Nagarjuna anti-substantialist tension — both framework-boundary, not calibration; not forced in because article is over the hard ceiling.
+- **Length**: 4607w, OVER topics hard ceiling (4000). NOT resolved — the over-ceiling content is protected load-bearing calibration material (per [[refine-then-condense-same-session-churn]]); flagged as a HUMAN editorial call in the review archive.
+- **Cross-links**: all resolve live; archived `non-retrocausal-conscious-selection-models` link from the 04-30 review already routed to live [[forward-in-time-conscious-selection]] by the 05-31 refine — no dangling reference.
+- **Output**: [[reviews/deep-review-2026-06-01-time-collapse-and-agency]]
+
 ## 2026-06-01T22:10:00+00:00 - deep-review
 - **Status**: Success
 - **File**: [[concepts/functionalism]]
