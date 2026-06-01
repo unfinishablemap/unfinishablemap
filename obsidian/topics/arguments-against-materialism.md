@@ -4,8 +4,8 @@ description: "Multiple independent philosophical arguments converge on the same 
 created: 2026-02-27
 modified: 2026-02-27
 human_modified:
-ai_modified: 2026-06-01T07:35:41+00:00
-last_deep_review: 2026-04-28T23:38:00+00:00
+ai_modified: 2026-06-01T08:10:00+00:00
+last_deep_review: 2026-06-01T08:10:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"

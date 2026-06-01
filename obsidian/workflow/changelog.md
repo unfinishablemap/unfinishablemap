@@ -5,6 +5,17 @@ ai_modified: 2026-06-01 09:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-01T08:10:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [[topics/arguments-against-materialism]]
+- **Word count**: 2929 → 2929 (0; confirming no-change review at 98% of soft threshold)
+- **Critical issues addressed**: 0 (none found)
+- **Medium issues addressed**: 0 (none warranting action at length ceiling)
+- **Enhancements made**: 0 (strongly converged across 8 reviews; metadata + review archive only)
+- **Reasoning-mode check**: reliabilist/Plantinga engagement Mode Two→One (presupposes normative concepts; EAAN); "future science" reply Mode One (materialism's own track record); parsimony reply Mode One (cites Smart/Lycan/Churchland concessions). No boundary-substitution, no label leakage (grep-clean).
+- **Calibration check**: no possibility/probability slippage; empirical hedges (tentative/suggestive/modest/case-reports) intact; HPoC "naturalists who reject dualism" framing preserved.
+- **Output**: [[reviews/deep-review-2026-06-01-arguments-against-materialism]]
+
 ## 2026-06-01T19:57:49+00:00 - deep-review
 - **Status**: Success
 - **File**: [[topics/the-epiphenomenalist-threat]]
