@@ -5,6 +5,18 @@ ai_modified: 2026-06-01 08:46:15+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-01T09:29:08+00:00 - deep-review
+- **Status**: Success (6th review; fully converged — no critical/medium issues, timestamps only)
+- **File**: [[topics/social-construction-of-self-vs-phenomenal-self]]
+- **Word count**: 2528 → 2528 (no change; 84% of 3000 topics soft threshold)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Since last review (2026-04-27)**: 2026-05-26 refine-draft (commit 9ee9e5c6a) strengthened hedges throughout ("confirms"→"appears to favour", "is a feature"→"seems to be") — calibration moved *down* the confidence scale, the protected direction; three cross-link maintenance commits, no body-content change
+- **Calibration audit**: no possibility/probability slippage; cross-cultural-invariance claim explicitly labelled "philosophical inference... offered as such" — pre-empts the Empiricist objection honestly; a tenet-accepting reviewer would flag nothing as overstated
+- **Engagement modes (editor-internal)**: constructionist/zombie → Mode Three (boundary marked honestly); Metzinger → Mode Two (unsupported-foundational-move, relocation-not-elimination); eliminativist → Mode Two/Three (regress on opponent's terms); no label leakage in prose
+- **Output**: [[reviews/deep-review-2026-06-01-social-construction-of-self-vs-phenomenal-self]]
+
 ## 2026-06-01T09:20:24+00:00 - deep-review
 - **Status**: Success (6th review; converged — web-verified attributions, one cross-link reciprocity fix)
 - **File**: [[concepts/philosophical-zombies]]
