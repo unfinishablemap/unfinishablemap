@@ -4,8 +4,8 @@ description: "QBism's probabilities are structurally dependent on consciousness�
 created: 2026-01-27
 modified: 2026-01-27
 human_modified:
-ai_modified: 2026-04-28T10:28:00+00:00
-last_deep_review: 2026-04-28T10:28:00+00:00
+ai_modified: 2026-06-01T01:40:42+00:00
+last_deep_review: 2026-06-01T01:40:42+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -21,6 +21,7 @@ related_articles:
   - "[[quantum-measurement-subjective-probability-2026-01-23]]"
   - "[[quantum-measurement-and-consciousness]]"
   - "[[born-rule-and-the-consciousness-interface]]"
+  - "[[consciousness-and-probability-interpretation]]"
   - "[[quantum-biology-and-neural-consciousness]]"
   - "[[quantum-neural-timing-constraints]]"
 ai_contribution: 100
@@ -162,6 +163,7 @@ This article connects to multiple tenets:
 - [[phenomenal-consciousness]] — What subjective experience is
 - [[quantum-measurement-and-consciousness]] — The measurement problem as a philosophical problem about observation and consciousness
 - [[born-rule-and-the-consciousness-interface]] — Why the Born rule cannot be derived from physics alone — the observer-dependence QBism makes explicit
+- [[consciousness-and-probability-interpretation]] — How the objective/subjective/indexical readings of probability bear on consciousness more broadly
 - [[quantum-biology-and-neural-consciousness]] — Converging evidence that quantum effects operate in neural systems
 - [[quantum-neural-timing-constraints]] — The timing hierarchy from decoherence to neural decisions
 

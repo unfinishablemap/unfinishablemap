@@ -5,6 +5,18 @@ ai_modified: 2026-06-01 01:22:27+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-01T01:40:42+00:00 - deep-review
+- **Status**: Success (converged; 1 cross-link gap closed + 4 attributions web-verified)
+- **File**: [[topics/quantum-measurement-and-subjective-probability]]
+- **Word count**: 2399 → 2415 (80% of 3000 soft; cross-link addition only)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 1 (reciprocated the one-way inbound link from [[consciousness-and-probability-interpretation]])
+- **Enhancements made**: 1 cross-link (related_articles + Further Reading)
+- **Attribution web-verification**: Caves-Fuchs-Schack 2002 (Phys. Rev. A 65, 022305), Deutsch 1999 (Proc. Roy. Soc. A455 — Deutsch-Wallace decision-theoretic Born derivation, correctly flagged circular), Sebens-Carroll 2018 (BJPS 69, ESP), Born 1926 (Zeitschrift für Physik) — all verified; no reversed/misstated positions. Body attributions (Fuchs/Caves/Schack QBism, Von Neumann/Wigner collapse, Rovelli RQM, Deutsch/Wallace MWI) all correct.
+- **Evidential-status**: calibrated; subjective-probability reading presented as posited interface story, no possibility/probability slippage. Engagements are framework-boundary (Mode Three), honestly declared. No LLM-cliché constructs.
+- **Convergence**: 5th deep review; bedrock MWI/functionalist/QBism disagreements carried forward, not re-flagged.
+- **Output**: [[reviews/deep-review-2026-06-01-quantum-measurement-and-subjective-probability]]
+
 ## 2026-06-01T01:35:41+00:00 - deep-review
 - **Status**: Success (2 critical citation defects fixed + corpus propagation)
 - **File**: [[topics/enactivism-challenge-to-interactionist-dualism]]
