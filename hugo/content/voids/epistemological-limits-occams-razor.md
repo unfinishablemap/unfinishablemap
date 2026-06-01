@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-22
-ai_modified: 2026-05-26 01:10:00+00:00
+ai_modified: 2026-06-01 02:57:36+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -15,7 +15,7 @@ description: Human+AI exploration of why Occam's Razor may be a cognitive bias m
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-04-19 06:38:00+00:00
+last_deep_review: 2026-06-01 02:57:36+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -60,7 +60,7 @@ Mach was eventually overridden — but only because atomic theory generated deci
 
 This is where the Mach example must not be over-read. The natural temptation is to conclude: parsimony bias unfairly penalises the complex theory, the empirical corrective is unavailable, therefore the complex theory (dualism) deserves the benefit of the doubt. That inference does not follow. If empirical pressure is what overrides parsimony bias, then the *absence* of empirical distinguishability is a reason to treat the dispute as underdetermined — not a reason to privilege either side. Mach's bias yielded to data; where there is no data, neither the simple nor the complex theory has earned the verdict. The honest conclusion in the consciousness case is underdetermination, which is precisely the epistemic-humility shape [Tenet 5](/tenets/#occams-limits) takes. The void removes a defeater against complex theories; removing a defeater is not the same as supplying positive evidence for any one of them.
 
-Francis Crick warned that "Occam's razor... can be a very dangerous implement in biology" (1988). Gabriele Zanotti (2021) argues that physicalism carries a hidden "burden of parsimony" — the obligation to explain consciousness within an ontologically simpler framework generates explanatory costs (eliminativism, epiphenomenalism, panpsychism as escape routes) that offset the supposed simplicity gain. The danger runs deeper than parsimony occasionally pointing the wrong way: in domains of sufficient complexity, simplicity preferences may constitute a systematic bias rather than a defeasible heuristic — filtering out correct-but-complex theories before they can be properly evaluated.
+Francis Crick warned that "Occam's razor... can be a very dangerous implement in biology" (1988). Giacomo Zanotti (2021) argues that physicalism carries a hidden "burden of parsimony" — the obligation to explain consciousness within an ontologically simpler framework generates explanatory costs (eliminativism, epiphenomenalism, panpsychism as escape routes) that offset the supposed simplicity gain. The danger runs deeper than parsimony occasionally pointing the wrong way: in domains of sufficient complexity, simplicity preferences may constitute a systematic bias rather than a defeasible heuristic — filtering out correct-but-complex theories before they can be properly evaluated.
 
 A distinction matters here. Scientific parsimony — preferring theories with fewer ad hoc hypotheses — is a methodological tool with a track record. Cognitive parsimony — the compression preference that makes simpler theories *feel more plausible* — is an architectural feature of minds. The former can be applied self-consciously; the latter operates beneath conscious deliberation. The void concerns primarily the latter, though the two are difficult to disentangle in practice.
 
@@ -119,4 +119,4 @@ The connection to [Tenet 2 (Minimal Quantum Interaction)](/tenets/#minimal-quant
 1. Huemer, M. (2009). "When Is Parsimony a Virtue?" *The Philosophical Quarterly* 59(235): 216-236.
 1. McGinn, C. (1989). "Can We Solve the Mind-Body Problem?" *Mind* 98: 349-366.
 1. Sober, E. (2001). "What Is the Problem of Simplicity?" In Keuzenkamp, McAleer, & Zellner (eds.), *Simplicity, Inference and Modelling*. Cambridge University Press.
-1. Zanotti, G. (2021). "Physicalism and the Burden of Parsimony." *Synthese* 199: 11109-11132.
+1. Zanotti, G. (2021). "Physicalism and the Burden of Parsimony." *Synthese* 199(3-4): 11109-11132.

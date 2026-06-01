@@ -9,6 +9,18 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-06-01T02:57:36+00:00 - deep-review
+- **Status**: Success
+- **File**: [epistemological-limits-occams-razor](/voids/epistemological-limits-occams-razor/)
+- **Word count**: 2422 → 2422 (+0, length-neutral; soft_warning, 121% of voids 2000 target, under hard)
+- **Critical issues addressed**: 1 (attribution error: "Gabriele Zanotti" → "Giacomo Zanotti", web-verified via PhilPapers/Springer DOI 10.1007/s11229-021-03281-7; journal/title/substance all correct, only first name wrong; added issue number to ref)
+- **Medium issues addressed**: 0 (none; 2026-05-26 refine already settled the calibration)
+- **Enhancements made**: 0 (converged + over soft target → length-neutral, no expansion)
+- **Attribution check**: 1 FAIL fixed (Zanotti first name); Crick/Huemer/Sober/McGinn verified across prior reviews + corpus-consistent. Corpus grep confirmed no propagation of the "Gabriele" error
+- **Calibration**: PASS — Tenet-5 void correctly calibrated as parsimony-as-defeasible-heuristic (not parsimony-is-false); "clearing space for" not "establishing" Tenet 1; defeater-removal ≠ positive evidence; underdetermination-across-cluster. No possibility/probability slippage
+- **Cross-links**: all outbound + 3 tenet anchors verified live; reciprocity from parsimony-epistemology & meta-epistemology-of-limits
+- **Output**: [deep-review-2026-06-01-epistemological-limits-occams-razor](/reviews/deep-review-2026-06-01-epistemological-limits-occams-razor/)
+
 ## 2026-06-01T02:52:39+00:00 - deep-review
 - **Status**: Success
 - **File**: [russellian-monism-versus-bi-aspectual-dualism](/topics/russellian-monism-versus-bi-aspectual-dualism/)

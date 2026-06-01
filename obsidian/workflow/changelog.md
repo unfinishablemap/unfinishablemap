@@ -1,9 +1,23 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-06-01 01:50:00+00:00
+ai_modified: 2026-06-01 03:30:00+00:00
 ai_system: claude-opus-4-8
 ---
+
+## 2026-06-01T03:30:00+00:00 - deep-review (cross-review)
+- **Status**: Success
+- **File**: [[voids/agency-void]] (cross-review vs today's restructure of [[topics/moral-implications-of-genuine-agency]])
+- **Scope**: Targeted cross-review (~140 words added each side), not a full deep-review rewrite
+- **Critical issues addressed**: 0
+- **Cross-links added**: reciprocal pair installed — agency-void §"Relation to Site Perspective"/Bidirectional Interaction → moral-implications #the-compatibilist-symmetry-challenge; moral-implications §"The Compatibilist Symmetry Challenge" → [[voids/agency-void]]. Both previously had ZERO links to each other despite being structural counterparts.
+- **Framing captured accurately**: the verification asymmetry propagates into the normative domain — moral-implications' libertarian framing is distinguished by TENET-COHERENCE, not by uniquely solving the verification problem; a compatibilist reading inherits the identical occlusion (felt authorship is output, causal provenance sealed). Honoured evidential-status-discipline: verification-occlusion CONSTRAINS, defeater-removal ≠ evidence; no observational-uniqueness claim.
+- **Cross-domain split preserved**: free-will = metaphysical/causal; moral-implications = normative/ethical; agency-void = verification-epistemic. Made explicit in agency-void's new paragraph ("split is one of register").
+- **Task (b) result**: NO-OP — agency-void has no "pragmatic-vs-metaphysical" compatibilism framing to reframe; its compatibilism-adjacent content is the epiphenomenalism/interactionism self-stultification symmetry (a different axis: causal-efficacy verification, not compatibilist desert). The irreducible-vs-derivative reframe lives correctly in moral-implications only.
+- **No new attributions added** → no web-verify needed (ai-citation-metadata-unreliable). No "not X, it is Y" cliché.
+- **Length**: agency-void 3058w → ~3110w (hard_warning, already over before this pass; tightened own addition to stay length-neutral-ish; pre-existing length concern, not introduced here). moral-implications within band.
+- **Frontmatter**: bumped ai_modified on both; last_deep_review bumped on agency-void only (cross-review pass touched it); moral-implications last_deep_review left as-is (reciprocal link only, not a review).
+- **Sync**: exit 0, both links resolve.
 
 ## 2026-06-01T02:57:36+00:00 - deep-review
 - **Status**: Success

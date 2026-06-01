@@ -4,7 +4,7 @@ description: "If consciousness causes actions, morality changes from useful conv
 created: 2026-02-23
 modified: 2026-02-23
 human_modified:
-ai_modified: 2026-05-27T10:15:00+00:00
+ai_modified: 2026-06-01T00:00:00+00:00
 draft: false
 topics:
   - "[[topics/free-will]]"
@@ -115,6 +115,8 @@ Conversely, institutions that cultivate moral reasoning—education, deliberativ
 A serious objection runs throughout the foregoing: if sophisticated reasons-responsive determinism explains the same deliberative phenomenology, the same praise/blame practices, the same character-formation arc, and the same moral seriousness as libertarian agent causation, what additional moral work is the Map's metaphysics doing? The pessimistic answer, in moral theory considered alone, may be: little. The obligation-intelligibility argument runs equivalently if "live options" are interpreted as the deliberatively-salient alternatives a reasons-responsive mechanism settles among; the authorship argument runs equivalently if "authorship" is interpreted as identification with one's effective higher-order desires; the moral-luck repositioning runs equivalently if causal luck is interpreted as the contingency of how reasons-responsive mechanisms unfold.
 
 The honest position is that the moral implications explored here are *availably grounded* on either metaphysics. The Map's libertarian framing is distinguished not by unique moral explanatory power but by tenet-coherence: it fits the [[tenets#^dualism|dualism]] and [[tenets#^bidirectional-interaction|bidirectional interaction]] tenets, which the Map adopts on grounds beyond moral theory (phenomenal consciousness, the explanatory gap, the conditions for downward causation). Compatibilists who reject those tenets occupy a different metaphysical scaffold for the same moral implications, not a morally inferior position.
+
+The symmetry has an epistemic counterpart in [[voids/agency-void|the agency void]]: whether a selection is genuinely authored or merely experienced as such cannot be verified from inside, because the felt sense of authorship arrives as output while the causal act stays sealed. Both the libertarian and the compatibilist read their respective groundings from the same occluded phenomenology, which is why neither can claim the moral implications here on grounds of observational uniqueness.
 
 Where libertarian agency may do separating work is at the *limits* of moral theory—accounts of ultimate desert in retributive contexts, certain readings of "could have done otherwise," the metaphysics of regret over what genuinely was an alternative—but in the central uses of moral language explored above, both scaffolds suffice. The article's moral conclusions therefore depend on the Map's metaphysics for *coherence with the rest of the Map*, not for moral content unattainable elsewhere. Readers who endorse compatibilism can read the moral content here as articulating what compatibilist desert demands when taken seriously, and need not adopt agent causation to take the demands.
 
