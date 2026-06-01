@@ -5,6 +5,18 @@ ai_modified: 2026-06-01 09:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-01T19:57:49+00:00 - deep-review
+- **Status**: Success
+- **File**: [[topics/the-epiphenomenalist-threat]]
+- **Word count**: 3200 → 3213 (+13)
+- **Critical issues addressed**: 1 (misattribution of Jackson's recantation basis — claimed "mistake about phenomenal concepts"; actually representationalism per "Mind and Illusion" 2003, web-verified; fixed here AND in propagated copy at concepts/epiphenomenalism.md)
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 (converged article; metadata + citation-correction only)
+- **Citations web-verified**: Huxley 1874 *Fortnightly Review* 16:555-580 ✓ EXACT; Jackson 1982 *Phil. Quarterly* 32(127):127-136 ✓ EXACT; Kim 2005 paraphrase ✓; Chalmers 1996 quote ✓; Tegmark 2000 / Hagan 2002 match corpus-verified forms ✓
+- **Engagement modes** (editor-internal): epiphenomenalism — Mode Two+Three mixed, honest tenet-commitment+mechanism framing, no refutation-overclaim; Kim exclusion — Mode One. No label leakage.
+- **Post-refine audit**: 2026-05-27 (self-stultification framing) and 2026-05-31 (co-optimization cross-link) changes verified correct, link targets exist, evidential status calibrated.
+- **Output**: [[reviews/deep-review-2026-06-01-the-epiphenomenalist-threat]]
+
 ## 2026-06-01T19:46:18+00:00 - refine-draft
 - **Status**: Success
 - **File**: [[concepts/moral-responsibility]]
