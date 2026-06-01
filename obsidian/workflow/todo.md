@@ -117,6 +117,18 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: staleness
 - **Generated**: 2026-06-01
 
+### P3: Audit ensemble-level / type-epiphenomenalism treatment for raised-then-unresolved worry
+- **Type**: refine-draft
+- **Status**: pending
+- **Source**: optimistic-review
+- **Notes**: Suggested by [[reviews/optimistic-2026-06-01f]] (High Priority). `topics/the-epiphenomenalist-threat.md` §"How the Map Escapes" calls type-epiphenomenalism (per-event selection that averages to the Born rule may be token-efficacious yet type-inert) "arguably the sharpest open question the corridor reading faces", but compresses it to one paragraph and points at `[[ensemble-level-epiphenomenalism]]`. The standalone page exists — VERIFY it actually discharges (or honestly leaves open) the two routes it gestures at, so the worry is not raised in two places and resolved in neither. NEAR-NO-OP if the standalone already does the work; the correct evidential status is "sharpest open question", so do NOT let an edit quietly resolve it by assertion (per [[evidential-status-discipline]]). Read the standalone page before touching the threat article.
+
+### P3: Dedupe / canonicalise the nature-coupling (architecture-specific epiphenomenalism) distinction
+- **Type**: refine-draft
+- **Status**: pending
+- **Source**: optimistic-review
+- **Notes**: Suggested by [[reviews/optimistic-2026-06-01f]] (Medium Priority). The nature-coupling distinction (consciousness may be intrinsically efficacious yet a given architecture provides no interface through which the capacity operates) appears in compressed form in `concepts/epiphenomenalism.md` §"AI Exception", `topics/the-epiphenomenalist-threat.md` §"Relation to Site Perspective", and `[[ai-epiphenomenalism]]`. Check that `ai-epiphenomenalism.md` is the canonical home and the other two correctly DEFER to it (reference) rather than RE-DERIVE the distinction. Additive/link-only if deferral is already clean; otherwise tighten the two non-canonical mentions to point at the canonical home. Do NOT introduce new claims about machine consciousness — scope is dedupe, not expansion.
+
 ### P3: Reciprocal cross-link — individuation cluster ↔ surprise cluster (shared vertigo phenomenology)
 - **Type**: refine-draft
 - **Status**: pending
