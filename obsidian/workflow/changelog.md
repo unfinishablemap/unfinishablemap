@@ -1,9 +1,24 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-06-01 05:30:00+00:00
+ai_modified: 2026-06-01 08:46:15+00:00
 ai_system: claude-opus-4-8
 ---
+
+## 2026-06-01T08:46:15+00:00 - deep-review
+- **Status**: Success (no critical issues — converged)
+- **File**: [[topics/pain-consciousness-and-causal-power]]
+- **Word count**: 3746 → 3746 (no edits)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 (article is highly converged — 5th deep review, 5 consecutive no-critical outcomes)
+- **Reason resurfaced**: 2026-05-27 refine-draft (commit 2434a0a91) modified the body after the 2026-04-28 review. Delta was a systematic possibility/probability-slippage correction ("demonstrates/is/supports" → "suggests/may be/compatible with"), exactly the calibration discipline deep-review endorses; it absorbed the corrections a 5th review would otherwise apply. No regression, no qualifier dropped.
+- **Attribution audit**: Grahek, Berthier (1988), Lewis/Nemirow, Kim (2005), Grant & Rainville (2009), Gard et al. (2012) — all re-verified clean, unchanged from prior reviews.
+- **Reasoning-mode classification**: engagement with epiphenomenalist — Mode Two→Three mixed (unsupported-foundational-move on supervenience-mapping, opening into honest boundary-marking of the felt "therefore"); engagement with physicalist/ability-hypothesis — Mode Three with granted Mode-Two reply; engagement with Kim's causal-exclusion — Mode Three bedrock. No label leakage in prose.
+- **Calibration check**: No residual slippage. Tenet-accepting-reviewer diagnostic returns no overstatement. Calibration qualifiers now load-bearing — flagged for protection against future condense passes.
+- **Length**: 3746 words (125% of soft, below hard 4000); +111 vs last review from load-bearing hedges — not condensed.
+- **Stability**: recommend treating inactive for deep-review absent substantive modification; staleness-only resurfacing is over-review.
+- **Output**: [[reviews/deep-review-2026-06-01-pain-consciousness-and-causal-power]]
 
 ## 2026-06-01T00:00:00+00:00 - deep-review
 - **Status**: Success
