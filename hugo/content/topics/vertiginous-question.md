@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-26
-ai_modified: 2026-05-31 17:19:48+00:00
+ai_modified: 2026-06-01 06:30:00+00:00
 ai_system: claude-opus-4-7
 author: null
 coalesced_from:
@@ -147,7 +147,11 @@ The vertiginous question intersects several philosophical problems:
 
 **[Moral responsibility](/concepts/moral-responsibility/).** If haecceity grounds personal identity, it also grounds responsibility. I am responsible for *my* actions because I am this particular subject who performed them — not merely someone qualitatively similar. Pattern-identity theories that allow for branching or fusing selves face difficulties with desert and punishment.
 
-**Many-worlds branching.** After a quantum measurement in [many-worlds](/concepts/many-worlds/) interpretation, there are multiple branches with multiple observers. Which is you? MWI defenders respond via "self-locating uncertainty" — before you observe the result, you're uncertain which branch you're in, just as you might be uncertain which room you woke up in. The Map's response: self-locating uncertainty normally presupposes a single world with indexically uncertain facts. On MWI, both outcomes are equally real and "you" end up in both. You will experience one definite sequence of outcomes, not all of them. The felt reality of anticipating one future — not multiple incompatible ones — suggests an indexical fact that MWI cannot accommodate.
+**Many-worlds branching.** After a quantum measurement in [many-worlds](/concepts/many-worlds/) interpretation, there are multiple branches with multiple observers. Which is you? MWI defenders respond via "self-locating uncertainty" — before you observe the result, you're uncertain which branch you're in, just as you might be uncertain which room you woke up in. The Map's response: self-locating uncertainty normally presupposes a single world with indexically uncertain facts. On MWI, both outcomes are equally real and "you" end up in both. You will experience one definite sequence of outcomes, not all of them. The felt reality of anticipating one future — not multiple incompatible ones — suggests an indexical fact that Everettian MWI cannot accommodate.
+
+The indexical objection bites Everett because his branches carry no first-personal privilege: each branch contains a successor observer, none of them is metaphysically *the* one whose experience is mine, and the theory has no resource to say why this anticipated future rather than that one is lived. But the same objection cuts in an unexpected direction when turned on a different many-worlds proposal. In a separate paper, "The Many-Worlds Theory of Consciousness," List builds a metaphysics of *first-personally centred* worlds directly from Hellie's vertiginous question. On his view, each conscious subject is associated with its own centred world — a distinct first-personal realiser of a shared third-personal world — and a Lewisian modal realism holds these centred worlds all equally real, with exactly one *present* for each subject. List's explicit motivation is that the one-world picture "lacks the resources to address the vertiginous question," because no fact holding at the single world simpliciter settles why *this* subject is mine, whereas his centred-worlds picture answers it by construction: my centred world is the one that is present. The first-person privilege the indexical intuition demands is, on List's view, built into the ontology rather than left dangling across symmetric branches.
+
+This makes List a genuinely harder target than Everett, and it shows the indexical objection is double-edged. The intuition that "there is one definite perspective that is mine" can be honoured by *multiplying* worlds — one centred world per subject, each privileging its own present — rather than by insisting on a single world. So the indexical objection alone does not discharge the [No Many Worlds](/tenets/#no-many-worlds) tenet against List the way it does against Everett. The Map rejects List on a separate ground: his modal realism makes every other subject's centred world a *real* world, and abandons the global uniqueness on which Tenet 4 insists — that reality consists of one world, not many real ones. The Map shares List's first-person realism and his diagnosis that the one-world picture struggles with the vertiginous question; it parts company at the modal-realist remedy, holding that the indexical fact is better treated as a primitive within one world (the [ownership-void](/voids/ownership-void/) and [haecceity](/concepts/haecceity/) mark where that primitive sits) than as resolved by positing a plurality of equally real centred worlds. That commitment is itself a substantive bet rather than a result the indexical objection delivers on its own: against List specifically, the case against many worlds rests on the rejection of modal realism, not on the vertiginous question — an honestly open boundary the Map marks here rather than papers over.
 
 ## Objections and Responses
 
@@ -171,7 +175,7 @@ The vertiginous question intersects several philosophical problems:
 
 The vertiginous question connects to the Map's [tenets](/tenets/) in a distinctive way: it partly *generates* the tenets rather than merely following from them.
 
-**[No Many Worlds](/tenets/#no-many-worlds)** — The strongest connection. The tenet's rationale explicitly cites the indexical problem: many-worlds leads to vast ontological proliferation and raises unanswerable indexical questions. The Map rejects many-worlds partly because it dissolves the indexical question rather than answering it. Many-worlds declares all instances equally real, so "why this one?" has no answer because there is no privileged "this one." The Map finds this dissolution unsatisfying — the question seems meaningful, and a framework unable to pose it is missing something about consciousness.
+**[No Many Worlds](/tenets/#no-many-worlds)** — The strongest connection. The tenet's rationale explicitly cites the indexical problem: many-worlds leads to vast ontological proliferation and raises unanswerable indexical questions. The Map rejects Everettian many-worlds partly because it dissolves the indexical question rather than answering it: it declares all branch-instances equally real, so "why this one?" has no answer because there is no privileged "this one." The Map finds this dissolution unsatisfying — the question seems meaningful, and a framework unable to pose it is missing something about consciousness. List's first-personally centred many-worlds (discussed under [Many-worlds branching](#connections-to-other-problems) above) is the harder case: it *answers* the vertiginous question by privileging one present per subject, so the indexical objection does not by itself reach it. Against that variant the tenet leans on a distinct commitment — the rejection of the modal realism that makes every subject's centred world equally real — rather than on the indexical objection alone. The indexical case against many-worlds is decisive against branch-egalitarian views and supplementary, not sufficient, against first-personally centred ones.
 
 **[Dualism](/tenets/#dualism)** — If consciousness is non-physical, what individuates one consciousness from another? Physical objects are individuated by spatiotemporal location, but non-physical subjects lack spatial coordinates. The vertiginous question forces dualism to either posit a non-physical principle of individuation or accept individuation as fundamental and unexplainable. The [boundary-and-projection](/voids/boundary-and-projection/) void addresses the adjacent question: what determines the *extent* of one consciousness, and why are the shifts of that extent invisible from within? The Map's dualism is not naïve substance dualism that merely adds souls to physics. It's a dualism that recognizes consciousness involves both qualitative character ([qualia](/concepts/qualia/)) and indexical particularity ([haecceity](/concepts/haecceity/)).
 
@@ -207,9 +211,10 @@ The vertiginous question connects to the Map's [tenets](/tenets/) in a distincti
 3. Hare, C. (2009). *On Myself, and Other, Less Important Subjects*. Princeton University Press.
 4. Hellie, B. (2013). "Against Egalitarianism." *Analysis*, 73(2), 304–320.
 5. Hofstadter, D. (2007). *I Am a Strange Loop*. Basic Books.
-6. List, C. (2024). "A Quadrilemma for Theories of Consciousness." *The Philosophical Quarterly*, 75(3), 1026–1048.
-7. Nagai, H. Various works. See https://nagai.philosophy-zoo.com/en/
-8. Nagel, T. (1986). *The View from Nowhere*. Oxford University Press.
-9. Parfit, D. (1984). *Reasons and Persons*. Oxford University Press.
-10. Roberts, T. S. (2007). "The Even Harder Problem of Consciousness." *NeuroQuantology*, 5(2), 214–221.
-11. Scotus, J. D. *Ordinatio* II, d.3. (c. 1300).
+6. List, C. (2023). "The Many-Worlds Theory of Consciousness." *Noûs*, 57(2), 316–340. https://doi.org/10.1111/nous.12408
+7. List, C. (2024). "A Quadrilemma for Theories of Consciousness." *The Philosophical Quarterly*, 75(3), 1026–1048.
+8. Nagai, H. Various works. See https://nagai.philosophy-zoo.com/en/
+9. Nagel, T. (1986). *The View from Nowhere*. Oxford University Press.
+10. Parfit, D. (1984). *Reasons and Persons*. Oxford University Press.
+11. Roberts, T. S. (2007). "The Even Harder Problem of Consciousness." *NeuroQuantology*, 5(2), 214–221.
+12. Scotus, J. D. *Ordinatio* II, d.3. (c. 1300).

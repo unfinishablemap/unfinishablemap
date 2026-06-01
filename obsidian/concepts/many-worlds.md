@@ -4,7 +4,7 @@ description: "Why the Map rejects MWI: it raises unanswerable questions about in
 created: 2026-01-19
 modified: 2026-04-28
 human_modified: null
-ai_modified: 2026-06-01T01:00:05+00:00
+ai_modified: 2026-06-01T06:30:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -71,6 +71,8 @@ MWI says this question is malformed. Both post-measurement persons are equally c
 This doesn't match the phenomenology. You anticipate one definite future experience, not multiple incompatible ones—a felt reality of being *this* observer expecting *one* outcome that suggests a [[haecceity|haecceitistic]] truth about which branch is yours, something MWI cannot accommodate.
 
 MWI defenders invoke self-locating uncertainty: you should be uncertain which branch you'll find yourself in. But as [[indexical-knowledge-and-identity|indexical knowledge]] analysis shows, self-locating uncertainty normally involves a single world with indexically uncertain facts. On MWI, there's no fact to be uncertain about—both outcomes are equally real, and "you" end up in both. The strongest reply, due to Saunders and Wallace, sharpens this further by relativising indexicality to branches; the next subsection treats it directly.
+
+The indexical objection targets *Everettian* branches, which carry no first-personal privilege. It does not generalise to every many-worlds metaphysics: Christian List's first-personally *centred* worlds answer the indexical question by construction, privileging one present per subject, so the Map rejects that distinct view on a separate ground (its modal realism, which makes every subject's centred world equally real). See [[vertiginous-question#connections-to-other-problems|the vertiginous question's treatment of List]].
 
 ### MWI's Branch-Relative Indexicality Reply
 
@@ -231,3 +233,4 @@ Alternative interpretations—particularly [[collapse-and-time|time-symmetric]] 
 1. Schlosshauer, M. et al. (2013). A Snapshot of Foundational Attitudes Toward Quantum Mechanics. *Studies in History and Philosophy of Science Part B*, 44(3), 222-230.
 1. Short, A.J. (2023). Probability in many-worlds theories. *Quantum*, 7, 971.
 1. Zhang, J. (2026). Summing to Uncertainty: On the Necessity of Additivity in Deriving the Born Rule. arXiv:2603.06211.
+1. List, C. (2023). The Many-Worlds Theory of Consciousness. *Noûs*, 57(2), 316-340. https://doi.org/10.1111/nous.12408

@@ -5,6 +5,17 @@ ai_modified: 2026-06-01 05:30:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-01T06:30:00+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[topics/vertiginous-question]]
+- **Original score**: 8/10 (well-converged; targeted engagement-gap fix, not general refinement)
+- **Changes**: Added a focused passage engaging Christian List's first-personally-centred "many-worlds theory of consciousness" (Noûs 2023), addressing Claude outer-review Finding #1a/#2. The Map's newly-load-bearing indexical objection against MWI was shown to be double-edged: it bites Everett (branches carry no first-personal privilege) but List *builds* first-person centring from Hellie's vertiginous question, so the indexical objection alone does not reach him. Took option (a): conceded the indexical point alone doesn't discharge Tenet 4 against List, and named the separate ground that does — List's Lewisian modal realism makes every subject's centred world equally *real* and abandons global one-world uniqueness, which Tenet 4 rejects independently. Marked the residual as an honestly open boundary (against List the anti-MWI case rests on rejecting modal realism, not on the vertiginous question). Updated the No-Many-Worlds tenet-relation paragraph to distinguish Everettian (decisive) from List-style (supplementary) cases. Added List (2023) Noûs citation to references.
+- **Web-verify**: WEB-VERIFIED the citation against the primary PDF (philsci-archive) + Wiley abstract: List, C. (2023), "The Many-Worlds Theory of Consciousness," *Noûs* 57(2):316-340, DOI 10.1111/nous.12408 — venue/year/pages/thesis all confirmed. Thesis = first-personally centred worlds as parallel realisers of a shared third-personal world, held under Lewisian modal realism, motivated explicitly by Hellie's vertiginous question ("the one-world picture lacks the resources to address the vertiginous question"). NB the article previously cited only List's *quadrilemma* paper (2024 Phil Quarterly); the Noûs paper is a distinct, newly-added citation.
+- **Engagement classification** (editor-internal, not in body): engagement with List — Mode Three (framework-boundary marking); the disagreement is genuinely at the modal-realism boundary, honestly noted as resting on a separate Map commitment (rejection of modal realism) rather than refuted inside List's own framework via the indexical objection.
+- **Cross-pointers**: added a one-line load-bearing pointer in [[concepts/many-worlds]] (close of the Indexical Identity Problem subsection) clarifying the indexical objection targets Everettian branches and does not generalise to List's centred worlds; added List (2023) to its references. Did NOT touch tenets.md (already edited 3× this session).
+- **Length**: vertiginous-question.md 3298 → 3823 words (+525). Over the soft band but load-bearing dialectical-honesty content closing an outer-review finding; flag for human length decision if it grows further.
+- **Published**: yes
+
 ## 2026-06-01T06:11:11+00:00 - coalesce
 - **Status**: Success
 - **Sources**: [[concepts/metaphysics-of-composition]], [[concepts/phenomenal-non-compositionality]]
