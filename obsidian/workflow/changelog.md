@@ -1,9 +1,22 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-06-01 00:32:40+00:00
+ai_modified: 2026-06-01 01:00:05+00:00
 ai_system: claude-opus-4-8
 ---
+
+## 2026-06-01T01:00:05+00:00 - deep-review
+- **Status**: Success (converged — no critical issues; one minor grammar fix)
+- **File**: [[concepts/many-worlds]]
+- **Word count**: 3182 → 3182 (no change; 127% of 2500 concepts soft target — soft_warning, below 3500 hard; length-neutral mode)
+- **Critical issues addressed**: 0 (none found — 15th review, Tenet-4 CORE page)
+- **Medium issues addressed**: 0
+- **Enhancements made**: 1 minor (subject-verb fix "Zhang (2026) identify" → "identifies"; single author)
+- **Web verification**: Zhang J. (2026) arXiv:2603.06211 "Summing to Uncertainty" — VERIFIED real, correct ID/title/year, single author, five-derivation additivity-bottleneck gloss faithful (Gleason/Busch/Deutsch-Wallace/Zurek envariance/Finkelstein-Hartle). Short (2023) Quantum 7:971 VERIFIED. Sebens-Carroll self-locating uncertainty (arXiv:1405.7577; BJPS 2018) VERIFIED, position correct. Saunders (2010) "Chance in the Everett interpretation" in Many Worlds? OUP — branch-relative indexicality attributed faithfully. Deutsch 1999 / Wallace 2003,2012 standard. No fabricated metadata, no strawmanning/position-reversal of any MWI figure.
+- **Engagement classification (editor-internal)**: MWI defender / Saunders-Wallace branch-relative-indexicality reply → Mode Two (MWI's indexicality must do double duty — branch-local de se AND cross-branch personal identity for Deutsch-Wallace Born-rule derivation — a move it cannot supply from its own indexical resources). Calibrated as a stronger Map commitment, NOT an MWI refutation. No boundary-substitution; no label leakage in prose.
+- **Calibration**: PASS — anti-MWI case kept at "Map finds indexical objection decisive," not "MWI refuted"; Born-rule recovery framed as live dispute. No possibility/probability slippage.
+- **Cross-links**: all 8 checked resolve live; born-rule article reciprocates. Optional [[quantum-measurement-and-subjective-probability]] link deferred (over soft length, cluster already dense).
+- **Output**: [[reviews/deep-review-2026-06-01-many-worlds]]
 
 ## 2026-06-01T00:45:00+00:00 - deep-review
 - **Status**: Success (converged — no critical issues; metadata-only)

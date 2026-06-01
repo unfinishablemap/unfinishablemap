@@ -4,7 +4,7 @@ description: "Why the Map rejects MWI: it raises unanswerable questions about in
 created: 2026-01-19
 modified: 2026-04-28
 human_modified: null
-ai_modified: 2026-04-28T16:31:00+00:00
+ai_modified: 2026-06-01T01:00:05+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -39,7 +39,7 @@ author: null
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-01-19
 last_curated: null
-last_deep_review: 2026-04-28T00:59:00+00:00
+last_deep_review: 2026-06-01T01:00:05+00:00
 ---
 
 The Many-Worlds Interpretation (MWI) holds that quantum measurement never collapses the wave function. Instead, every possible outcome occurs—the universe splits into branches, one for each possibility. The Unfinishable Map explicitly rejects MWI in the [[tenets#^no-many-worlds|No Many Worlds]] tenet. The rejection is not merely aesthetic but principled: MWI raises unanswerable questions about identity, dissolves the meaning of probability, and fails to explain why consciousness exists at all.
@@ -99,7 +99,7 @@ Quantum mechanics predicts that outcomes occur with specific probabilities given
 
 Three strategies attempt to recover probability: decision-theoretic derivations (Deutsch-Wallace), self-locating uncertainty (Sebens-Carroll), and environment-assisted invariance (Zurek). None has succeeded without circularity. Decision-theoretic axioms are contested as encoding optional metaphysical attitudes rather than requirements of rationality (Kent 2010), and even granting the axioms, the derivation tells agents how to bet without explaining why laboratory records show Born-rule frequencies (Albert 2010). Self-locating uncertainty struggles because the uncertainty is either spurious or wrongly placed (Lewis 2007). Envariance derivations assume the connection between quantum states and probabilities that they claim to establish.
 
-A deeper structural problem cuts across all three strategies: well-defined branches require [[decoherence]], but decoherence is described using the Born-rule norm, so the branch structure presupposes the probability rule it claims to ground (Baker 2007, Price 2010). Zhang (2026) identify a unifying bottleneck: all five leading derivation strategies depend irreducibly on the assumption that probabilities of orthogonal outcomes are additive—itself a probabilistic postulate, making every derivation covertly circular. This problem has persisted from Everett's original 1957 thesis through Short's 2023 contribution to *Quantum*—nearly seven decades without resolution.
+A deeper structural problem cuts across all three strategies: well-defined branches require [[decoherence]], but decoherence is described using the Born-rule norm, so the branch structure presupposes the probability rule it claims to ground (Baker 2007, Price 2010). Zhang (2026) identifies a unifying bottleneck: all five leading derivation strategies depend irreducibly on the assumption that probabilities of orthogonal outcomes are additive—itself a probabilistic postulate, making every derivation covertly circular. This problem has persisted from Everett's original 1957 thesis through Short's 2023 contribution to *Quantum*—nearly seven decades without resolution.
 
 MWI bears this burden more acutely than collapse interpretations: collapse theories can honestly postulate the Born rule as a fundamental law, while MWI must derive it from resources that appear structurally incapable of generating it. The [[born-rule-and-the-consciousness-interface|broader pattern of Born rule derivation failures]] and the [[born-rule-and-the-consciousness-interface|interpretation-invariance analysis]] across every major framework suggest the rule may encode something about the consciousness-physics interface that no interpretation can extract from physics alone. See [[probability-problem-in-many-worlds]] for the full case against all three recovery strategies, and [[probability-objections-many-worlds]] for a concise catalogue of the four distinct probability objections.
 
