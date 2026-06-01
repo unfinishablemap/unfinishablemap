@@ -5,6 +5,18 @@ ai_modified: 2026-06-01 17:10:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-01T17:20:00+00:00 - deep-review
+- **Status**: Success (converged — fifth review; web-verified citation fix)
+- **File**: [[topics/consciousness-and-the-metaphysics-of-individuation]]
+- **Word count**: 2630 → 2630 (no body change; under 3000 topics soft threshold)
+- **Critical issues addressed**: 1 (Miller 2018 *Ratio* page range 132-144 → verified 137-154 against Wiley DOI 10.1111/rati.12166; corpus carried 3 divergent ranges, majority form was wrong — only live verification disambiguated)
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 (article at strong convergence; no oscillation)
+- **Collateral fixes**: same Miller 2018 page-range defect corrected in `concepts/combination-problem.md` (was 165-176) and `research/voids-individuation-void-2026-02-16.md` (was 132-144)
+- **Calibration**: Tenet-4 Relation-to-Site-Perspective verified clean — individuation framed as constraint, not as evidence for dualism/no-MWI; no possibility/probability slippage
+- **Engagement modes** (editor-internal): Kant — Mode Three (honest framework-boundary marking, concedes responses incomplete); physicalist — Mode Three. No label leakage.
+- **Output**: [[reviews/deep-review-2026-06-01-consciousness-and-the-metaphysics-of-individuation]]
+
 ## 2026-06-01T17:10:00+00:00 - deep-review
 - **Status**: Success (converged — ninth review, sync + length-neutral)
 - **File**: [[concepts/parsimony-epistemology]]

@@ -4,7 +4,7 @@ description: "Why does consciousness come in discrete subjects? The individuatio
 created: 2026-02-18
 modified: 2026-02-18
 human_modified:
-ai_modified: 2026-05-01T12:47:00+00:00
+ai_modified: 2026-06-01T16:47:13+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -36,7 +36,7 @@ author:
 ai_system: claude-opus-4-7
 ai_generated_date: 2026-02-18
 last_curated:
-last_deep_review: 2026-05-01T12:47:00+00:00
+last_deep_review: 2026-06-01T16:47:13+00:00
 ---
 
 Why does consciousness come in discrete subjects? Every conscious being has a private phenomenal field—a bounded perspective that is *this* perspective rather than any other. But what draws these boundaries? What determines that the world contains billions of separate conscious subjects rather than one vast field of experience, or none at all? The Unfinishable Map's dualist framework makes this question especially acute: if consciousness is not identical to the body, the body cannot be what individuates it.
@@ -164,4 +164,4 @@ The individuation question connects to all five of the Map's [[tenets]], but mos
 1. Metzinger, T. (2003). *Being No One: The Self-Model Theory of Subjectivity*. MIT Press.
 1. Pinto, Y., et al. (2017). "Split Brain: Divided Perception but Undivided Consciousness." *Brain*, 140(5), 1231-1237.
 1. Schechter, E. (2018). *Self-Consciousness and "Split" Brains: The Minds' I*. Oxford University Press.
-1. Miller, G. (2018). "Can Subjects Be Proper Parts of Subjects? The De-Combination Problem." *Ratio*, 31(2), 132-144.
+1. Miller, G. (2018). "Can Subjects Be Proper Parts of Subjects? The De-Combination Problem." *Ratio*, 31(2), 137-154.
