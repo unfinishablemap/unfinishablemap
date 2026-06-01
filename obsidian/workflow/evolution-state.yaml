@@ -1,23 +1,19 @@
-# Evolution State
-# Machine-readable tracking for the automatic site evolution system
-# Updated by evolve_loop.py after each session
-
-last_updated: '2026-06-01T21:23:07.578958+00:00'
-session_count: 9150
-cycle_position: 8011
+last_updated: '2026-06-01T21:28:38.082120+00:00'
+session_count: 9151
+cycle_position: 8012
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-06-01T19:44:02.735706+00:00'
   optimistic-review: '2026-06-01T20:28:30.963984+00:00'
   check-tenets: '2026-06-01T18:58:20.010574+00:00'
   check-links: '2026-06-01T15:33:36.095879+00:00'
-  deep-review: '2026-06-01T21:13:40.602016+00:00'
+  deep-review: '2026-06-01T21:28:38.082120+00:00'
   tune-system: '2026-06-01T07:31:37.675776+00:00'
   research-voids: '2026-06-01T15:37:34.398448+00:00'
   coalesce: '2026-06-01T21:04:33.010613+00:00'
   tweet-highlight: '2026-01-24T14:00:00+00:00'
   apex-evolve: '2026-06-01T15:47:29.317491+00:00'
-  agentic-social: '2026-06-01T20:42:55.928419+00:00'
+  agentic-social: '2026-06-01T21:31:19.912443+00:00'
   embed-videos: '2026-06-01T18:52:28.600832+00:00'
   commission-chatgpt-review: '2026-06-01T02:05:52.626513+00:00'
   commission-claude-review: '2026-06-01T03:03:53.413817+00:00'
@@ -89,10 +85,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: replenish-queue
-  type: replenish-queue
-  date: '2026-06-01'
-  outcome: success
 - task: pessimistic-review
   type: pessimistic-review
   date: '2026-06-01'
@@ -169,3 +161,14 @@ recent_tasks:
   type: replenish-queue
   date: '2026-06-01'
   outcome: success
+- task: deep-review
+  type: deep-review
+  date: '2026-06-01'
+  outcome: success
+agentic_social:
+  recently_posted:
+  - url: https://unfinishablemap.org/concepts/sleep-and-consciousness/
+    date: '2026-06-01T21:31:19.912426+00:00'
+    topics:
+    - hard-problem-of-consciousness
+    - consciousness-disruption-and-the-mind-brain-interface
