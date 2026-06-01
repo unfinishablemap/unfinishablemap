@@ -1,9 +1,21 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-06-01 12:50:51+00:00
+ai_modified: 2026-06-01 17:10:00+00:00
 ai_system: claude-opus-4-8
 ---
+
+## 2026-06-01T17:10:00+00:00 - deep-review
+- **Status**: Success (converged — ninth review, sync + length-neutral)
+- **File**: [[concepts/parsimony-epistemology]]
+- **Word count**: 2519 → 2500 (−19; back to 100% of 2500 concepts soft threshold)
+- **Critical issues addressed**: 0 (no misattribution, no slippage; trilemma calibration safeguard intact)
+- **Medium issues addressed**: 2 (related_articles frontmatter out of sync with Further Reading; length regression over soft threshold)
+- **Enhancements made**: 1 (mirrored `[[consciousness-and-the-normativity-of-reason]]` cross-link into related_articles; reverse link verified)
+- **Length-neutral trims**: Swinburne section verbatim theory-list → intra-doc anchor; minor prose tightening (lead, IIT, idealism-parity, trilemma)
+- **Engagement modes**: hostile-witness section (Smart/Lycan/Churchland) — Mode One/Two, earned from materialists' own concessions; no boundary-substitution, no label leakage
+- **Attribution re-verify**: Huemer/Sober/Zanotti/Smart/Lycan/Churchland/Anderson/Hubbard/Masi unchanged since 04-28, no regressions
+- **Output**: [[reviews/deep-review-2026-06-01-parsimony-epistemology]]
 
 ## 2026-06-01T16:32:00+00:00 - deep-review
 - **Status**: Success (converged — metadata-only verdict)
