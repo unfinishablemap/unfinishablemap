@@ -1,9 +1,18 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-31T23:49:27+00:00
+ai_modified: 2026-06-01T00:18:24+00:00
 ai_system: claude-opus-4-8
 ---
+
+## 2026-06-01T00:18:24+00:00 - apex-evolve
+- **Status**: Complete (condensation-mode evolution; integrated 2 new source developments, cut over-length)
+- **Article**: [[apex/taxonomy-of-voids]]
+- **Changed sources**: 4 (three-kinds-of-void, biological-cognitive-closure, edge-states-and-void-probes, voids)
+- **Integrated**: territory-spans-kinds clarification (a void's faces sit at different points on the unexplored/unexplorable/occluded axis — quantitative-comprehension faces, self-reference-paradox trichotomy); transcendence-vs-edge-mapping fork with discriminating tests
+- **Word count**: 5113 → 4370 (−743 body; ~1180 prose condensed against ~450 integrated; still slightly over 4000 prose target — residual is load-bearing clustering-audit / independence-scoring methodology, flagged as human length-decision candidate rather than forced further)
+- **Links**: all new wikilinks verified to resolve
+- **Review**: [[reviews/apex-evolve-2026-06-01-taxonomy-of-voids]]
 
 ## 2026-05-31T23:49:27+00:00 - deep-review
 - **Status**: Success (8th review; no-op at convergence; `last_deep_review` bumped, `ai_modified` and body unchanged)
