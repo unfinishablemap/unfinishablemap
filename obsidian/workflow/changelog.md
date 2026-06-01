@@ -1,9 +1,19 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-06-01 08:46:15+00:00
+ai_modified: 2026-06-01 10:02:27+00:00
 ai_system: claude-opus-4-8
 ---
+
+## 2026-06-01T10:02:27+00:00 - deep-review
+- **Status**: Success (6th review; fully converged — no-op confirmation, no prose change)
+- **File**: [[topics/phenomenology-of-imagination]]
+- **Word count**: 2591 → 2591 (+0; 86% of 3000 topics soft threshold)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Disciplines run**: (a) Attribution check (§2.5) — Husserl *Phantasie*/neutrality modification (*Ideas I* §111), Hume "faint images" (framed as underplaying the difference, not endorsed), Walton quasi-emotions (self-generated imagination flagged as distinct from paradox of fiction), Radford & Weston, Kosslyn 1994, Kind 2013, Kay/Keogh/Pearson 2024, Zeman 2024 — all correctly attributed and hedged; no misattribution/dropped-qualifier/source-Map conflation. (b) Calibration/evidential-status audit (§2) — no possibility/probability slippage; dualist conclusions consistently hedged ("on the reading defended here," "may," "at minimum a phenomenon reductive accounts must explain"); tenet-accepting reviewer would not flag overstatement. (c) Reasoning-mode classification (§2.6, editor-internal): engagement with functionalism = Mode Two→Mixed ("concedes the point in another way" — in-framework); physicalist indeterminate-face reply = Mode One ("this redescription changes the subject"); materialist motor-imagery/imaginative-resistance = Mode Three (explicit "the evidence does not adjudicate"). No boundary-substitution; no label leakage in body. (d) All 16 wikilink targets resolve, incl. repointed creative-aesthetic-void. Since last review only mechanical changes occurred (archival link repoint + upstream calibration adoption); article at steady state. Bumped ai_modified + last_deep_review only.
+- **Output**: [[reviews/deep-review-2026-06-01-phenomenology-of-imagination]]
 
 ## 2026-06-01T09:58:19+00:00 - deep-review
 - **Status**: Success (4th review; converged — web-verified attributions, one minor citation-precision fix)
