@@ -1,13 +1,47 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-06-01 03:30:00+00:00
+ai_modified: 2026-06-01 05:30:00+00:00
 ai_system: claude-opus-4-8
 concepts: []
 date: '2026-06-01'
 related_articles: []
 title: Changelog
 ---
+
+## 2026-06-01T05:30:00+00:00 - refine-draft
+- **Status**: Success
+- **File**: [post-decoherence-selection-programme](/apex/post-decoherence-selection-programme/)
+- **Driver**: convergent outer-review finding (Claude #1 ∩ ChatGPT §3, 2/3 reviewers) — confront the bias-without-deviation dilemma head-on instead of resting on "empirical equivalence with standard QM"
+- **Change**: added new subsection *The Bias-Without-Deviation Dilemma [Open]*. Hybrid horn (a)+(c): defends within-Born outcome-biasing as genuine token-level selection on the corridor reading (causal robustness at the event coexists with ensemble undetectability), AND marks the strong "genuine selection" claim at hypothesis tier (no worked toy model of a causally-robust-yet-aggregate-undetectable within-Born bias yet exists), registering aggregate-undetectability as a real testability **cost**, not a neutral feature. Thesis unchanged.
+- **Horn (b) NOT executed**: Stapp-style relocation to Process-1 (which/when to measure) added only as a flagged "alternative the Map could adopt — human editorial decision," since it would weaken Tenet 3 outcome-selection to context-setting (material thesis change). Not adopted unilaterally.
+- **Engagement classification (editor-internal, not in body)**: Chalmers-McQueen — Mode Three (framework-boundary: their CCWF buys testability the no-deviation model forfeits; noted honestly, not refuted). Stapp/Bourget — Mode Three (contrast, not refutation; the Map claims the move Stapp's Process-1 mechanism set aside). No label leakage; natural prose throughout; no "not X, it is Y" cliché.
+- **Citations web-verified**: Chalmers & McQueen 2022 (IIT+CSL consciousness-collapse; in Gao ed., *Consciousness and Quantum Mechanics*, OUP 2022; arXiv:2105.02314) — confirmed venue/year, testability-as-virtue framing accurate. Bourget 2004 *JCS* 11(12):17-42 + Stapp reply 43-49 — confirmed exact venue/pages (initial draft mis-titled the Bourget paper "Reply to Corcoran and Trout"; corrected). Stapp Process-1 = which/when to measure, nature fixes outcome — confirmed; Map claims the outcome-biasing move Stapp's canonical mechanism relocated away from.
+- **Length**: 3596 → 4066 words (apex hard ceiling 4000). Confrontation is load-bearing calibration; recovered ~60 words via two non-calibration redundancy trims but **remains ~66 over ceiling**. Per steering, FLAGGED for human length-decision rather than cutting calibration or mechanism content. See queued P2 below.
+- **Multi-file propagation**: (ii) tenets.md Bidirectional-Interaction section — added outcome-selection-not-context-selection paragraph propagating the chosen framing + testability cost + cross-link to the new apex subsection; (iii) born-rule-and-the-consciousness-interface.md and falsification-roadmap-for-the-interface-model.md VERIFIED consistent with the horn taken (both already frame strict-corridor as "no signature by construction / honest cost, not strength" and corridor as working hypothesis) — **no edit needed**.
+- **Published**: yes (stays published; apex was already draft:false)
+
+## 2026-06-01T04:49:25+00:00 - deep-review
+- **Status**: Success
+- **File**: [empirical-evidence-for-consciousness-selecting](/topics/empirical-evidence-for-consciousness-selecting/)
+- **Word count**: 2799 → 2886 (+87)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 1 (Hagan decoherence revision lacked the corpus-standard contestation caveat; added Reimers/McKemmish 2009 hedge + 2 references + [decoherence](/concepts/decoherence/) cross-link, length-neutral)
+- **Enhancements made**: 1
+- **Engagement modes**: all engagements Mode Three (framework-boundary marking) in natural prose; no boundary-substitution, no label leakage
+- **Calibration**: 2026-05-26 convergence-table revision verified as a correct *fix* of possibility/probability slippage (defeater-not-support footnote); a tenet-accepting reviewer would not flag the current table — do not re-flag or re-collapse
+- **Output**: [deep-review-2026-06-01-empirical-evidence-for-consciousness-selecting](/reviews/deep-review-2026-06-01-empirical-evidence-for-consciousness-selecting/)
+
+## 2026-06-01T04:43:38+00:00 - combine-outer-reviews
+- **Status**: Success
+- **Cycle**: 2026-06-01
+- **Coverage**: 3/3 reviewers processed (sources: ChatGPT 5.5 Pro, Claude Opus 4.8, Gemini 2.5 Pro)
+- **Clusters**: 3 convergent (all 2/3, ChatGPT+Claude), 6 singleton, 0 divergent
+- **Convergent findings**: (1) bias-without-deviation / uneven falsification framing [task already P1, left at P1]; (2) MQI mechanism cluster needs an adjudication/ranking article [P2→P1]; (3) anti-MWI case still over-weights Tenet-5-demoted ontological-extravagance [P2→P1, two files across the two reviewers]
+- **Tasks upgraded**: 2 (P2→P1: 2; the bias-without-deviation task was already P1 so not upgraded further)
+- **Tasks deduplicated**: 0 (convergent tasks legitimately target different files; no redundant siblings)
+- **Note**: Gemini's hostile audit produced zero convergent findings — 4 of 5 headline omission claims verified false; its 2 residues are isolated P2 singletons.
+- **Output**: [outer-review-synthesis-2026-06-01](/reviews/outer-review-synthesis-2026-06-01/)
 
 ## 2026-06-01T04:45:00+00:00 - outer-review
 - **Status**: Success
