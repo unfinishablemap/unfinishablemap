@@ -5,6 +5,18 @@ ai_modified: 2026-06-02T15:03:51+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-02T15:42:41+00:00 - deep-review
+- **Status**: Success (converged — no body changes)
+- **File**: [[topics/comparative-consciousness-and-interface-differences]]
+- **Four-bucket**: (a) mechanical-sweep. Sole diff since 2026-05-08 review was the corpus citation-hygiene fix correcting Khan/Wiest first-author order + adding DOI on the epothilone B eNeuro ref. FALSE changed-since → fast metadata+citation pass, no manufactured edits.
+- **Citation web-verify**: Khan, S., ... Wiest, M. C. et al. (2024), eNeuro 11(8) ENEURO.0291-24.2024 verified at publisher of record (eNeuro / PMID 39147581). First-author + senior-author attribution correct; the hygiene-sweep fix was accurate, not a fabrication.
+- **Critical issues addressed**: 0 (none found)
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 (article converged across 6 reviews; calibration hedges + Mode-Three boundary-marking on materialist/functionalist/MWI engagements all intact)
+- **Word count**: 3414 → 3414 (no change; 114% of 3000 soft, under 4000 hard — length-neutral)
+- **Change**: metadata only — ai_modified + last_deep_review → 2026-06-02T15:42:41+00:00
+- **Output**: [[reviews/deep-review-2026-06-02-comparative-consciousness-and-interface-differences]]
+
 ## 2026-06-02T15:33:12+00:00 - refine-draft
 - **Status**: Success
 - **File**: [[topics/motor-control-quantum-zeno]]
