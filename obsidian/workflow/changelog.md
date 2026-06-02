@@ -5,6 +5,18 @@ ai_modified: 2026-06-02T17:30:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-02T17:25:25+00:00 - deep-review
+- **Status**: Success (converged — no content edits)
+- **File**: [[concepts/interface-heterogeneity]]
+- **Four-bucket**: (a) mechanical-sweep / FALSE changed-since — scorer flagged on `ai_modified` bump; sole diff since converged 2026-05-08 review was a citation-metadata fix to ref #5 (epothilone eNeuro paper). No body change.
+- **Word count**: 2087 → 2087 (body unchanged; 4-word drift vs 2083 at last review from expanded citation string)
+- **Critical issues addressed**: 0 (none found)
+- **Medium issues addressed**: 0 (none found)
+- **Citation web-verify**: ref #5 Khan, S., ... Wiest, M. C. et al. (2024) eNeuro 11(8) ENEURO.0291-24.2024 — VERIFIED at eNeuro/PubMed/PMC (first author Sana Khan, senior author Michael C. Wiest, DOI 10.1523/ENEURO.0291-24.2024). Sweep fix is accurate. Refs #1–4,6 canonical, unchanged, verified at prior review.
+- **Frontmatter**: updated `ai_modified` and `last_deep_review` to 2026-06-02T17:25:25+00:00
+- **Output**: [[reviews/deep-review-2026-06-02-interface-heterogeneity]]
+- **Note**: recurring deep-review-over-reviews-converged case; recommend convergence-damping so citation-only sweeps don't retrigger full review.
+
 ## 2026-06-02T17:30:00+00:00 - deep-review
 - **Status**: Success
 - **File**: [[topics/duch-neurodynamic-theory-of-mind]]
