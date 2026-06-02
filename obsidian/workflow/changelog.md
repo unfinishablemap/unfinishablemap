@@ -5,6 +5,19 @@ ai_modified: 2026-06-02 12:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-02T00:00:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [[topics/pragmatisms-path-to-dualism]]
+- **Word count**: 3829 on disk (128% topics/ soft; up from 3103 logged 2026-05-27 because the 2026-06-01 own-development refine added ~700 words of calibration prose). Net length-neutral this pass (frontmatter + research-note only).
+- **Critical issues addressed**: 0 (none found — 7th+ review, converged)
+- **Medium issues addressed**: 2 (Wu 2024 wrong venue in research note: "Philosophy and Social Criticism" → web-verified "Cultures of Science, 7(1)", SAGE DOI 10.1177/20966083241289967; non-reciprocating new cross-link mirrored into related_articles)
+- **Enhancements made**: 0 to body (length-neutral; over soft threshold from own content)
+- **Scope**: CHANGED-SINCE-REVIEW bucket-b own-development. Diffed a9071d06e..HEAD: the 2026-06-01 refine (dce148141) is a genuine calibration-deepening of the article's own prose — functionalist section demoted from "forecloses both responses" overreach to honest boundary-marking; van Fraassen two-readings separation; Minimal-Quantum-Interaction convergence corrected from double-counting to defeater-removal-not-confirmation per evidential-status-discipline. All three are improvements in the calibration direction.
+- **Citation stance web-verify (publisher of record)**: PASS. Peirce "not to be reinstated without tychism" (Law of Mind 1892 ✓, NOT misrepresented as dualist), James "Human Immortality" 1898 transmission-theory ✓ (framed as possibility, radical-empiricism objection answered). No stance-reversal: van Fraassen/Putnam/Dewey/Rorty all bounded as non-dualists. Title's argument correctly framed as the Map's rational-reconstruction, not a claim the pragmatists were dualists.
+- **Reasoning-mode (editor-internal)**: functionalist engagement = Mixed (Mode Two → explicit Mode Three boundary-marking; the 2026-06-01 refine FIXED a prior boundary-substitution). Dewey/Rorty = Mixed. No label leakage.
+- **Length verdict**: over soft threshold from own calibration content → human length decision (Blocked Task added). Do NOT auto-condense — excess is protected boundary-marking/evidential-status prose.
+- **Output**: [[reviews/deep-review-2026-06-02-pragmatisms-path-to-dualism]]
+
 ## 2026-06-02T03:55:33+00:00 - deep-review
 - **Status**: Success
 - **File**: [[concepts/quantum-consciousness]]

@@ -271,5 +271,5 @@ Based on this research and the existing site content, these articles would benef
 - Putnam, H. (1988). *Representation and Reality*. MIT Press.
 - Rorty, R. (1979). *Philosophy and the Mirror of Nature*. Princeton University Press.
 - Varela, F., Thompson, E., & Rosch, E. (1991). *The Embodied Mind*. MIT Press.
-- Wu, J. (2024). "Pragmatism as the Foundation of Cognitive Enactivism." *Philosophy and Social Criticism*.
+- Wu, J. (2024). "Pragmatism as the Foundation of Cognitive Enactivism." *Cultures of Science*, 7(1).
 - Fuchs, C. (2012). "QBism, the Perimeter of Quantum Bayesianism." arXiv:1003.5209.

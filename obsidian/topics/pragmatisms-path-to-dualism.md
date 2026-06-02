@@ -4,7 +4,7 @@ description: "Pragmatism—the philosophy that evaluates ideas by practical cons
 created: 2026-03-15
 modified: 2026-04-16
 human_modified:
-ai_modified: 2026-06-01T13:15:00+00:00
+ai_modified: 2026-06-02T00:00:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -29,6 +29,7 @@ related_articles:
   - "[[epistemic-advantages-of-dualism]]"
   - "[[enactivism-challenge-to-interactionist-dualism]]"
   - "[[pragmatist-quantum-foundations-and-the-agent]]"
+  - "[[quantum-measurement-and-subjective-probability]]"
   - "[[consciousness-and-normative-force]]"
   - "[[self-stultification-as-master-argument]]"
   - "[[topics/phenomenal-value-realism]]"
@@ -38,7 +39,7 @@ author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-03-15
 last_curated:
-last_deep_review: 2026-05-27T02:06:13+00:00
+last_deep_review: 2026-06-02T00:00:00+00:00
 coalesced_from:
   - "/topics/pragmatisms-path-to-dualism/"
   - "/topics/pragmatist-normative-bridge/"
