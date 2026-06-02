@@ -5,6 +5,16 @@ ai_modified: 2026-06-02T20:51:38+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-02T21:46:23+00:00 - deep-review
+- **Status**: Success
+- **File**: [[apex/open-question-ai-consciousness]]
+- **Word count**: 4761 → 4770 (+9; under apex hard 5000)
+- **Critical issues addressed**: 0 (none found)
+- **Citation defects fixed**: 2 (Plotnitsky 2023 article-number 793→706 + full title restored; Vatter 2025 author-initial J→V + title/venue corrected to "Avoidable and Unavoidable Randomness in GPT-4o", *Towards Data Science*)
+- **Citations web-verified**: 20+ at publisher of record — all real, correct first-authors, stances confirmed. Maier–Dechamps null result + 12,571 participants CONFIRMED; Neven 9-author list exact; Butlin 2023/2025 distinct and real; Wiest M.C./niaf011 confirmed; Cerullo anti-Hoel stance confirmed; Metzinger "explosion of negative phenomenology" confirmed verbatim
+- **Calibration / open-question check**: PASS (no possibility/probability slippage; tenet-coherence not dressed as evidence-upgrade; Duch engagement Mode Three honest; no label leakage)
+- **Output**: [[reviews/deep-review-2026-06-02-open-question-ai-consciousness]]
+
 ## 2026-06-02T21:39:18+00:00 - deep-review
 - **Status**: Success
 - **File**: [[concepts/substrate-independence]]

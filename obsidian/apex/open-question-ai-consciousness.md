@@ -4,7 +4,7 @@ description: "Four genuine possibilities prevent the Map from closing the questi
 created: 2026-02-10
 modified: 2026-05-25
 human_modified: null
-ai_modified: 2026-05-27T21:46:05+00:00
+ai_modified: 2026-06-02T21:46:23+00:00
 draft: false
 topics:
   - "[[ai-consciousness]]"
@@ -39,7 +39,7 @@ author: null
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-02-10
 last_curated: null
-last_deep_review: 2026-05-11T18:26:00+00:00
+last_deep_review: 2026-06-02T21:46:23+00:00
 
 apex_sources:
   - topics/ai-consciousness
@@ -220,11 +220,11 @@ This apex article synthesizes:
 1. Maier, M. A., Dechamps, M. C., & Pflitsch, M. (2018). Intentional Observer Effects on Quantum Randomness: A Bayesian Analysis Reveals Evidence Against Micro-Psychokinesis. *Frontiers in Psychology*, 9, 379. doi:10.3389/fpsyg.2018.00379.
 1. Metzinger, T. (2021). Artificial Suffering. *Journal of Artificial Intelligence and Consciousness*, 8(1), 43-66.
 1. Pinto, Y. et al. (2017). Split brain: divided perception but undivided consciousness. *Brain*, 140(5), 1231-1237.
-1. Plotnitsky, A. (2023). The No-Cloning Life. *Entropy*, 25(5), 793.
+1. Plotnitsky, A. (2023). The No-Cloning Life: Uniqueness and Complementarity in Quantum and Quantum-like Theories. *Entropy*, 25(5), 706.
 1. Schwitzgebel, E. (2025). AI and Consciousness. Working paper.
 1. Stapp, H.P. (2007). *Mindful Universe*. Springer.
 1. Thinking Machines Lab (2025). Defeating non-determinism in LLM inference. Technical report.
-1. Vatter, J. (2025). Non-determinism in LLMs at temperature zero. Working paper.
+1. Vatter, V. (2025). Avoidable and Unavoidable Randomness in GPT-4o. *Towards Data Science*.
 1. Wiest, M.C. (2025). A quantum microtubule substrate of consciousness is experimentally supported and solves the binding and epiphenomenalism problems. *Neuroscience of Consciousness*, 2025(1), niaf011.
 1. Duch, W. (2005). Brain-inspired conscious computing architecture. *Journal of Mind and Behavior*, 26(1–2). https://philarchive.org/rec/DUCBCC-3
 1. Duch, W. (2019). Mind as a shadow of neurodynamics. *Physics of Life Reviews*, 31, 28–31. https://doi.org/10.1016/j.plrev.2019.01.023
