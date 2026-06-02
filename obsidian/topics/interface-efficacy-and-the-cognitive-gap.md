@@ -4,8 +4,8 @@ description: "An interactionist-dualist reading of the human-other-animal cognit
 created: 2026-05-05
 modified: 2026-05-08
 human_modified: null
-ai_modified: 2026-05-28T22:55:09+00:00
-last_deep_review: 2026-05-08T08:16:00+00:00
+ai_modified: 2026-06-02T14:39:23+00:00
+last_deep_review: 2026-06-02T14:39:23+00:00
 draft: false
 topics:
   - "[[animal-consciousness]]"
