@@ -4,7 +4,7 @@ description: "How mental states cause physical effects despite Kim's exclusion a
 created: 2026-01-15
 modified: 2026-05-05
 human_modified: null
-ai_modified: 2026-06-02T00:30:19+00:00
+ai_modified: 2026-06-02T12:00:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -46,12 +46,13 @@ related_articles:
   - "[[concepts/epiphenomenalism]]"
   - "[[downward-causation-mental-causation-2026-01-15]]"
   - "[[interface-efficacy-and-the-cognitive-gap]]"
+  - "[[consciousness-as-activity]]"
 ai_contribution: 100
 author: null
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-03-30
 last_curated: null
-last_deep_review: 2026-05-05T20:17:00+00:00
+last_deep_review: 2026-06-02T12:00:00+00:00
 coalesced_from:
   - "/concepts/mental-causation/"
   - "/concepts/downward-causation/"
