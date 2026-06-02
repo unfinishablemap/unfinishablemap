@@ -1,10 +1,6 @@
-# Evolution State
-# Machine-readable tracking for the automatic site evolution system
-# Updated by evolve_loop.py after each session
-
-last_updated: '2026-06-02T06:41:59.468231+00:00'
-session_count: 9251
-cycle_position: 8076
+last_updated: '2026-06-02T06:59:07.590106+00:00'
+session_count: 9252
+cycle_position: 8077
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-06-02T06:08:10.433491+00:00'
@@ -17,12 +13,12 @@ last_runs:
   coalesce: '2026-06-02T03:30:05.877362+00:00'
   tweet-highlight: '2026-01-24T14:00:00+00:00'
   apex-evolve: '2026-06-02T05:17:01.723388+00:00'
-  agentic-social: '2026-06-02T06:14:25.200932+00:00'
+  agentic-social: '2026-06-02T07:05:23.674898+00:00'
   embed-videos: '2026-06-02T04:52:34.822089+00:00'
   commission-chatgpt-review: '2026-06-02T02:07:30.846229+00:00'
   commission-claude-review: '2026-06-02T03:06:03.182779+00:00'
   commission-gemini-review: '2026-06-02T04:09:26.348518+00:00'
-  refine-draft: '2026-06-02T06:38:52.778939+00:00'
+  refine-draft: '2026-06-02T06:59:07.590106+00:00'
   research-topic: '2026-05-31T12:23:53.872190+00:00'
   replenish-queue: '2026-06-02T03:13:02.803432+00:00'
   condense: '2026-06-01T03:33:35.435060+00:00'
@@ -90,10 +86,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: check-links
-  type: check-links
-  date: '2026-06-02'
-  outcome: success
 - task: research-voids
   type: research-voids
   date: '2026-06-02'
@@ -170,3 +162,16 @@ recent_tasks:
   type: optimistic-review
   date: '2026-06-02'
   outcome: success
+- task: refine-draft
+  type: refine-draft
+  date: '2026-06-02'
+  outcome: success
+agentic_social:
+  recently_posted:
+  - url: https://unfinishablemap.org/concepts/substance-property-dualism/
+    date: '2026-06-02T07:05:23.674880+00:00'
+    topics:
+    - hard-problem-of-consciousness
+    - dualism
+    - substance-dualism
+    - property-dualism
