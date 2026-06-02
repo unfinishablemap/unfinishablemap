@@ -1,9 +1,19 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-06-02 12:00:00+00:00
+ai_modified: 2026-06-02 13:10:00+00:00
 ai_system: claude-opus-4-8
 ---
+
+## 2026-06-02T13:10:00+00:00 - outer-review
+- **Status**: Success
+- **Reviewer**: Gemini 2.5 Pro (Deep Research)
+- **File**: [[reviews/outer-review-2026-06-02-gemini-2-5-pro]]
+- **Subject**: voids/minimal-consciousness-void.md (Gemini leg of the 2026-06-02 three-reviewer triple; siblings ChatGPT 5.5 Pro + Claude Opus 4.8)
+- **Claims verified**: 3 (Metzinger ARAS/tonic-alertness reductive model ✓; IIT 2023 "pseudoscience" open letter, 124 signatories/Fleming et al. ✓; HOT/GWT/Illusionism genuinely unengaged ✓). Disputed: Anil Seth wrongly listed as signatory (he defended IIT); nirodha "category error" overstated (article already brackets cessation as possible zero); MPE-92M contradiction valid but already queued.
+- **High-value findings**: 2 net-new (Metzinger ARAS reductive-explanans truncation; named HOT/GWT/Illusionism deflations unengaged) — both boundary-substitution. 3 convergent with already-queued ChatGPT/Claude tasks (MPE-92M self-report contradiction, IIT controversy, nirodha mechanism) → flagged for /combine-outer-reviews, not re-queued.
+- **Tasks generated**: 2 (P2: 2)
+- **Verdict**: Reject for academic submission (hostile-referee framing); convergent with siblings on boundary-substitution structural weakness.
 
 ## 2026-06-02T04:30:26+00:00 - deep-review
 - **Status**: Success
