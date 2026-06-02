@@ -5,6 +5,17 @@ ai_modified: 2026-06-02T14:04:55+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-02T14:20:00+00:00 - refine-draft (assess-first / declined)
+- **Status**: Success — DECLINED (already homed)
+- **Task**: optimistic-2026-06-01c — does the four-component interface taxonomy (phenomenal presence / content-access / temporal binding / memory encoding) need a canonical home?
+- **Decision**: DECLINED. No page minted, no edits made to article bodies.
+- **Assessment of candidates**: Neither named candidate anchors the taxonomy. `topics/the-interface-problem.md` is about interface *location + specification* (the quantum coupling site/law), not the phenomenal-component decomposition. `topics/consciousness-disruption-and-the-mind-brain-interface.md` discusses clinical DoC cases (CMD, propofol/ketamine, hemispherectomy) but never names the four components as a labelled taxonomy.
+- **Actual canonical home (already exists)**: `topics/anaesthesia-and-the-consciousness-interface.md` — "Pharmacological Dissection of the Interface" section with H3 subheads **Phenomenal Presence / Content Without Access / Temporal Binding / Memory Encoding**. This is where the taxonomy was originally derived ("anaesthesia research has identified as separable").
+- **Cross-link coverage (already present, verified)**: filter-theory (4 links, names all four components explicitly + defers to anaesthesia for "full pharmacological analysis"), contemplative-pathology (3, names all four), neurological-dissociations (3, "four-component pharmacological dissection"), concepts/degrees-of-consciousness (3, frontmatter+body+further-reading), apex/altered-states-as-interface-evidence (4), apex/pharmacological-dissociation-as-evidence (5). `pain-consciousness-and-causal-power` does NOT re-derive the taxonomy (correctly — not part of this cluster), so no link owed.
+- **Calibration**: taxonomy correctly framed corpus-wide as an interface *architecture* (separable channels under selective perturbation), not as standalone evidence for dualism — convergence treated as one compound signature, not N independent confirmations (verified in neurological-dissociations and the apex pieces). No remediation needed.
+- **No new concept page minted** (concepts ~250/270; minting would worsen cap backlog and was unwarranted).
+- **Published**: n/a (no content modified)
+
 ## 2026-06-02T14:04:55+00:00 - deep-review
 - **Status**: Success
 - **File**: [[topics/animal-consciousness]]
