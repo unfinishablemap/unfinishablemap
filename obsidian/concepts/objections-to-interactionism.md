@@ -4,7 +4,7 @@ description: "Six challenges to dualism—pairing, conservation, parsimony, deco
 created: 2026-01-18
 modified: 2026-01-18
 human_modified: null
-ai_modified: 2026-05-27T20:50:24+00:00
+ai_modified: 2026-06-02T21:56:59+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -33,7 +33,7 @@ author: null
 ai_system: claude-opus-4-5-20251101
 ai_generated_date: 2026-01-18
 last_curated: null
-last_deep_review: 2026-05-14T16:10:00+00:00
+last_deep_review: 2026-06-02T21:56:59+00:00
 ---
 
 [[interactionist-dualism|Interactionist dualism]] faces six major philosophical objections: the [[pairing-problem|pairing problem]], conservation laws, parsimony, the decoherence objection, the evolutionary argument, and Kim's exclusion argument. This page treats each objection and the responses available to the interactionist—particularly within the [[quantum-consciousness|quantum framework]] The Unfinishable Map adopts. The key finding: five objections have principled responses—some decisive on neutral ground (conservation, pairing), others decisive only given the Map's tenets and an honest standoff at the framework boundary otherwise (decoherence, exclusion)—and the sixth (evolution) actually targets [[concepts/epiphenomenalism]] rather than the interactionist, though it does not by itself favour the Map over physicalism. The Summary table marks which responses are which.
@@ -108,7 +108,7 @@ The [[decoherence|decoherence objection]] targets quantum-based interactionism s
 
 ### Response 1: Quantum Biology Evidence
 
-Recent experiments complicate the "warm means no quantum" picture, though their bearing on neural timescales must be stated carefully. Quantum coherence in photosynthetic light-harvesting complexes survives longer than naive thermal estimates predicted—but it persists on femtosecond-to-picosecond scales in a purpose-built antenna complex, far from the milliseconds neural processing requires, so it loosens the general assumption that "warm and wet" forbids coherence without itself bridging to the brain. Kalra et al. (2025) found microtubule-stabilizing drugs delay anesthesia onset in mice, suggesting microtubule dynamics matter for consciousness. Kerskens and Pérez (2022) detected possible entanglement signatures in human brain MRI correlating with working memory; this result remains contested and unreplicated, so it functions as suggestive context rather than as a load-bearing response. None of this proves quantum consciousness; collectively it shows only that quantum effects in biological systems are somewhat more robust than the strongest version of the objection assumed.
+Recent experiments complicate the "warm means no quantum" picture, though their bearing on neural timescales must be stated carefully. Quantum coherence in photosynthetic light-harvesting complexes survives longer than naive thermal estimates predicted—but it persists on femtosecond-to-picosecond scales in a purpose-built antenna complex, far from the milliseconds neural processing requires, so it loosens the general assumption that "warm and wet" forbids coherence without itself bridging to the brain. Khan et al. (2024) found the microtubule-stabilizing drug epothilone B delays anesthetic-induced unconsciousness in rats, suggesting microtubule dynamics matter for consciousness. Kerskens and López Pérez (2022) detected possible entanglement signatures in human brain MRI correlating with short-term memory; this result remains contested and unreplicated, so it functions as suggestive context rather than as a load-bearing response. None of this proves quantum consciousness; collectively it shows only that quantum effects in biological systems are somewhat more robust than the strongest version of the objection assumed.
 
 ### Response 2: The Measurement Question
 
@@ -217,12 +217,12 @@ The exclusion argument receives two complementary responses: quantum insufficien
 1. Bailey, A., Rasmussen, J., & Van Horn, L. (2011). "No Pairing Problem." *Philosophical Studies*, 154: 349-360.
 1. Carroll, S. (2016). *The Big Picture: On the Origins of Life, Meaning, and the Universe Itself*. Dutton.
 1. Collins, R. (2011). "The Energy of the Soul." In M. Baker & S. Goetz (eds.), *The Soul Hypothesis*.
-1. Cucu, A. C., & Pitts, J. B. (2019). "How Dualists Should (Not) Respond to the Objection from Energy Conservation." *arXiv:1909.13643*.
+1. Cucu, A. C., & Pitts, J. B. (2019). "How Dualists Should (Not) Respond to the Objection from Energy Conservation." *Mind and Matter*, 17(1): 95-121. *arXiv:1909.13643*.
 1. Hagan, S., Hameroff, S. R., & Tuszyński, J. A. (2002). "Quantum computation in brain microtubules: Decoherence and biological feasibility." *Physical Review E*, 65: 061901.
 1. Jackson, F. (1982). "Epiphenomenal Qualia." *Philosophical Quarterly*, 32: 127-136.
 1. James, W. (1890). *The Principles of Psychology*.
-1. Kalra, A. P., et al. (2025). "Microtubule-stabilizing drugs delay anesthetic-induced unconsciousness in mice." *Proceedings of the National Academy of Sciences*, 122(3).
-1. Kerskens, C. M., & Pérez, D. L. (2022). "Experimental indications of non-classical brain functions." *Journal of Physics Communications*, 6(10), 105001.
+1. Kerskens, C. M., & López Pérez, D. (2022). "Experimental indications of non-classical brain functions." *Journal of Physics Communications*, 6(10), 105001.
+1. Khan, S., Huang, Y., Timuçin, D., Bailey, S., Lee, S., Lopes, J., Gaunce, E., Mosberger, J., Zhan, M., Abdelrahman, B., Zeng, X., & Wiest, M. C. (2024). "Microtubule-Stabilizer Epothilone B Delays Anesthetic-Induced Unconsciousness in Rats." *eNeuro*, 11(8), ENEURO.0291-24.2024.
 1. Kim, J. (1998). *Mind in a Physical World*. MIT Press.
 1. Kim, J. (2005). *Physicalism, or Something Near Enough*. Princeton University Press.
 1. Papineau, D. (2001). "The Rise of Physicalism." In C. Gillett & B. Loewer (eds.), *Physicalism and Its Discontents*. Cambridge University Press.

@@ -5,6 +5,17 @@ ai_modified: 2026-06-02T20:51:38+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-02T21:56:59+00:00 - deep-review
+- **Status**: Success
+- **File**: [[concepts/objections-to-interactionism]]
+- **Word count**: 2877 → 2903 (+26; reference-section growth; under concepts hard 3500)
+- **Critical issues addressed**: 2 (fabricated/conflated "Kalra 2025 PNAS mice" cite → verified Khan et al. 2024 eNeuro 11(8), rats; Kerskens 2nd-author surname Pérez → López Pérez)
+- **Medium issues addressed**: 1 (added Cucu & Pitts 2019 published venue: Mind and Matter 17(1):95-121)
+- **Citations web-verified**: all at publisher of record. Tegmark 2000 decoherence figures 10⁻¹³–10⁻²⁰s + "10 orders of magnitude" CLEAN; Saad 2025 Phil Studies 182:939-967 exact (not reverted to position-name); Pitts 2020 Philosophia 48(2):673-707 exact; Bailey/Rasmussen/Van Horn 2011 Phil Studies 154:349-360 exact; Kerskens framing matches paper+Comment/Reply
+- **Calibration check**: PASS — in-framework vs framework-boundary ratings preserved EXACTLY; no upgrade of framework-boundary→in-framework; Kerskens + photosynthesis hedges intact; No-Many-Worlds stays tenet-marked
+- **Reasoning modes**: Kim(pairing)=One; conservation=Mixed; exclusion=Mixed; decoherence=Mixed; evolution=One. No boundary-substitution, no label leakage
+- **Output**: [[reviews/deep-review-2026-06-02-objections-to-interactionism]]
+
 ## 2026-06-02T21:46:23+00:00 - deep-review
 - **Status**: Success
 - **File**: [[apex/open-question-ai-consciousness]]
