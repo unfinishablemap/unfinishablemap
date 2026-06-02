@@ -1,9 +1,23 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-06-02T19:32:00+00:00
+ai_modified: 2026-06-02T19:40:42+00:00
 ai_system: claude-opus-4-8
 ---
+
+## 2026-06-02T19:40:42+00:00 - deep-review
+- **Status**: Success (1 critical stat fix + 1 medium ref fix)
+- **File**: [[topics/cetacean-and-corvid-consciousness]]
+- **Four-bucket**: CONVERGED on calibration/discipline (5 prior reviews), but NEVER citation-web-verified — this pass closes that gap. (b)-adjacent: verification of long-standing content, not re-litigation.
+- **Citation web-verify (load-bearing — all 14 studies + Roth & Dicke + 2 self-refs verified at PUBLISHER OF RECORD)**: Reiss & Marino 2001 PNAS 98(10):5937-42 ✓; Prior et al. 2008 PLOS Biol 6(8):e202 ✓ (ref-list dropped 4th author de Waal → FIXED); Kohda et al. 2019 17(2):e3000021 ✓ (7 authors); Hunt 1996 Nature 379:249-51 ✓; Hunt & Gray 2003 Proc R Soc B 270(1517):867-74 ✓; Krützen et al. 2005 PNAS 102(25):8939-43 ✓ (6 authors); Correia/Dickinson/Clayton 2007 Curr Biol 17(10):856-61 ✓; Clayton/Dally/Emery 2007 Phil Trans R Soc B 362(1480):507-22 ✓; Bugnyar & Heinrich 2005 Proc R Soc B 272(1573):1641-46 ✓; Janik/Sayigh/Wells 2006 PNAS 103(21):8293-97 ✓; Herman 2010 IJCP 23(3):310-30 ✓; Marino 2002 Brain Behav Evol 59(1-2):21-32 ✓ (layer-IV-absence independently confirmed); Roth & Dicke 2005 TICS 9(5):250-57 ✓; Reimers et al. 2009 PNAS 106(11):4219-24 ✓ (5 authors); McKemmish et al. 2009 Phys Rev E 80(2):021912 ✓ (5 authors); Gutfreund 2024 Front Psychol DOI 10.3389/fpsyg.2024.1456403 ✓. ZERO fabrications.
+- **Gutfreund verbatim quote**: VERIFIED CLEAN — quoted span matches source word-for-word; article drops only an inline "(David et al., 2011)" and trailing clause as a standalone excerpt. No paraphrase-as-quote, no word-drift.
+- **Stat verify**: dolphin "~1800g" OVERSTATED (lit ~1500-1700g) → FIXED to ~1500–1700g (human-exceeding point preserved); human ~1400g ✓; chimp ~400g ✓ exact; jackdaw ~5g plausible (tilde-hedged), left.
+- **Reasoning-mode** (editor-internal): no new engagements; Materialist Mixed, Epiphenomenalism Mode Three, MWI Mode Three (per prior). No label leakage (grep clean).
+- **Calibration**: all flagged hedges preserved verbatim (Gutfreund agnostic constraint, "contested step", speculative-integration tier, tenet-driven-not-forced, architecture-independence as prediction). Tiers unchanged: cetaceans/corvids *realistic possibility, contested*; amplification *live hypothesis*; interface-efficacy *speculative integration*. No epistemic→metaphysical slide.
+- **Critical issues addressed**: 1 (overstated brain-weight stat)
+- **Medium issues addressed**: 1 (incomplete reference author list)
+- **Word count**: 3364 → 3367 (+3, length-neutral)
+- **Output**: [[reviews/deep-review-2026-06-02-cetacean-and-corvid-consciousness]]
 
 ## 2026-06-02T19:32:00+00:00 - deep-review
 - **Status**: Success (1 critical cross-corpus calibration fix)

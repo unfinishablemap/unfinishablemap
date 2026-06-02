@@ -4,7 +4,7 @@ description: "Dolphins and corvids evolved sophisticated cognition independently
 created: 2026-03-13
 modified: 2026-03-13
 human_modified:
-ai_modified: 2026-05-08T09:42:00+00:00
+ai_modified: 2026-06-02T19:40:42+00:00
 draft: false
 topics:
   - "[[animal-consciousness]]"
@@ -32,7 +32,7 @@ author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-03-13
 last_curated:
-last_deep_review: 2026-05-08T09:42:00+00:00
+last_deep_review: 2026-06-02T19:40:42+00:00
 ---
 
 The [[consciousness-as-amplifier|amplification hypothesis]]—that consciousness transforms baseline cognition into flexible, metarepresentational intelligence—draws its primary evidence from the great ape-human comparison. But primates are a single lineage. If consciousness genuinely amplifies cognition, the effect should appear wherever consciousness interfaces with sufficiently complex neural systems, regardless of evolutionary history—the [[universal-coupling-response|universal coupling response]] formalises exactly this prediction. Cetaceans (dolphins, whales) and corvids (crows, ravens, jays) provide exactly this test. Both lineages evolved sophisticated cognition independently from primates, through radically different neural architectures, yet both display capacities the amplification hypothesis links to consciousness.
@@ -43,7 +43,7 @@ The convergent capacities are real and surprising; whether they license the infe
 
 The human-ape comparison involves closely related species sharing recent common ancestors and similar brain architecture; the cognitive gap could reflect primate-specific neural innovations rather than consciousness per se. Cetaceans and corvids dissolve this objection.
 
-**Cetaceans** diverged from the primate lineage ~85 million years ago. Dolphin brains are large (bottlenose dolphins ~1800g, exceeding human ~1400g) and highly encephalised, with cortical-neuron counts approaching the human range (Roth & Dicke 2005), but organised differently—extensive neocortical surface area in a distinct laminar pattern lacking cortical layer IV, the primary input layer in primate cortex (Marino 2002). Cortical-neuron parity without matched human-style cumulative culture makes cetaceans an awkward fit for purely brain-side scaling readings of cognitive grade and a natural test case for [[interface-efficacy-and-the-cognitive-gap|interface-efficacy]] alternatives, which sit at the same *speculative integration* tier as the brain-side reading and do not elevate the cetacean evidential calibration.
+**Cetaceans** diverged from the primate lineage ~85 million years ago. Dolphin brains are large (bottlenose dolphins ~1500–1700g, exceeding human ~1400g) and highly encephalised, with cortical-neuron counts approaching the human range (Roth & Dicke 2005), but organised differently—extensive neocortical surface area in a distinct laminar pattern lacking cortical layer IV, the primary input layer in primate cortex (Marino 2002). Cortical-neuron parity without matched human-style cumulative culture makes cetaceans an awkward fit for purely brain-side scaling readings of cognitive grade and a natural test case for [[interface-efficacy-and-the-cognitive-gap|interface-efficacy]] alternatives, which sit at the same *speculative integration* tier as the brain-side reading and do not elevate the cetacean evidential calibration.
 
 **Corvids** diverged from mammals >300 million years ago. Bird brains lack neocortex entirely, using a pallial structure of nuclear clusters rather than cortical layers, yet corvids achieve cognitive feats rivalling great apes with brains a fraction of the size—a jackdaw's ~5g compared to a chimpanzee's ~400g. If the amplification hypothesis were tied to primate cortical architecture, neither lineage should display consciousness-linked capacities. Both do.
 
