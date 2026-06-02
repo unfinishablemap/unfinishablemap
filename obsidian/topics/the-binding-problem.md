@@ -4,7 +4,7 @@ description: "A comprehensive taxonomy of binding problems—intra-modal, cross-
 created: 2026-02-14
 modified: 2026-05-10
 human_modified:
-ai_modified: 2026-06-01T04:24:34+00:00
+ai_modified: 2026-06-02T02:46:19+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -45,7 +45,7 @@ author:
 ai_system: claude-opus-4-7
 ai_generated_date: 2026-05-10
 last_curated:
-last_deep_review: 2026-05-10T15:13:00+00:00
+last_deep_review: 2026-06-02T02:46:19+00:00
 coalesced_from:
   - "/topics/the-binding-problem-a-systematic-treatment/"
   - "/topics/phenomenal-binding-and-multimodal-integration/"
@@ -176,7 +176,7 @@ Quantum entanglement provides something structurally different: on a realist int
 
 The structural correspondence is significant: both quantum holism and phenomenal unity involve wholes not assembled from separates. But structural correspondence is not full explanation — the transition from physical to phenomenal holism remains the hard problem. The quantum approach perhaps identifies the right *kind* of substrate and a locus where consciousness might participate (at collapse).
 
-The standard objection is decoherence: warm biological tissue destroys superpositions on femtosecond timescales. The Map's minimal interaction framework requires only that consciousness influence collapses already occurring, not that it maintain coherence — though this remains an empirical challenge.
+The standard objection is decoherence: warm biological tissue destroys superpositions on femtosecond timescales. The Map's minimal interaction framework requires only that consciousness influence collapses already occurring, not that it maintain coherence — though this remains an empirical challenge. The [[entanglement-binding-hypothesis|entanglement binding hypothesis]] develops the empirical side of this proposal.
 
 ### Unity as Primitive
 
@@ -211,6 +211,7 @@ The treatment here rests on claims that could be undermined:
 
 - [[binding-problem]] — Foundational concept: BP1/BP2 distinction, quantum holism
 - [[quantum-holism-and-phenomenal-unity]] — Entanglement as substrate for unity
+- [[entanglement-binding-hypothesis]] — Empirical case for entanglement as the binding mechanism
 - [[unity-of-consciousness|varieties of unity]] — Synchronic, diachronic, and subject unity
 - [[temporal-consciousness]] — Temporal binding and the specious present
 - [[cognitive-phenomenology]] — Felt quality of thinking and understanding

@@ -5,6 +5,17 @@ ai_modified: 2026-06-02 12:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-02T02:46:19+00:00 - deep-review
+- **Status**: Success
+- **File**: [[topics/the-binding-problem]]
+- **Word count**: 3352 → ~3364 (+~12, length-neutral; soft_warning at 112% of 3000, under 4000 hard; added one on-topic cross-link + Further Reading entry, no body prose padding)
+- **Critical issues addressed**: 0 (converged article; no factual/attribution/calibration/boundary-substitution/label-leakage defects found)
+- **Medium issues addressed**: 0
+- **Enhancements made**: 1 (length-neutral cross-link to [[entanglement-binding-hypothesis]] — its empirical companion piece, previously unlinked from this taxonomy article — in the Quantum Alternative section + Further Reading)
+- **Diff audit**: diffed against last-review commit; only substantive touch since 2026-05-10 was the 2026-06-01 calibration adoption (5457e4f1d) from the [[phenomenal-consciousness]] hub — pure register tightening (verbs → hedges: "shows"→"suggests", "proves"→"appears", "concedes"→"seems to concede", "identifies"→"perhaps identifies", + underdetermination clause). Confirmed coherent and PRESERVED; not condensed.
+- **Verification**: web-verified Jerath & Beveridge 2019 (Front. Integr. Neurosci. 13, 2 — VERIFIED) and Baars/Franklin/Ramsøy 2013 (Front. Psychol. 4, 200 — VERIFIED); canonical cites (Revonsuo 2006, Treisman 1980, Bayne & Chalmers 2003, Nagel 1971, Mudrik 2014, Stein & Stanford 2008) stable from prior reviews; no fabrication/year-off/stance issues. Reasoning modes — identity theorist=Mode One, functionalist=Mode Two, IIT=Mode Two, eliminativist/MWI/Buddhist=Mode Three; no label leakage. Doctrinal: unity-as-primitive co-fundamental (not from-below emergence), Tenet 1 explanatory-gap exhibit primary; no possibility/probability slippage (tenet-accepting reviewer would not flag); no "This is not X" cliché. Cluster cross-links resolve & reciprocate (quantum-holism 3×, unity-of-consciousness 1×). Distinct-by-design from concepts/binding-problem.md — not merged.
+- **Output**: [[reviews/deep-review-2026-06-02-the-binding-problem]]
+
 ## 2026-06-02T00:00:00+00:00 - deep-review
 - **Status**: Success
 - **File**: [[topics/ai-consciousness]]
