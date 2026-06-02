@@ -5,6 +5,17 @@ ai_modified: 2026-06-02T19:50:32+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-02T20:01:38+00:00 - deep-review
+- **Status**: Success
+- **File**: [[concepts/channel-class-taxonomy]]
+- **Word count**: 2509 → 2518 (+9; "& Choi" co-author additions, net-neutral pass)
+- **Critical issues addressed**: 1 (Han 2016 author-list defect — added dropped co-author Choi, T. to reference entry + all 3 inline cites → "Han & Choi 2016")
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 (citation-accuracy-only pass; article at soft threshold, content preserved)
+- **Web-verify (load-bearing)**: all 10 references checked at publisher of record. VERDICTS: Maier-Dechamps-Pflitsch 2018 Front. Psychol. 9:379 CORRECT (3 authors confirmed; genuinely evidence-AGAINST micro-PK, BF 10.07; framed correctly as null result — corpus mis-cite flag does NOT apply); Pati 2026 arXiv:2601.13012 EXISTS (Arun K. Pati, submitted 2026-01-19, result matches); Han 2016 → author-list DEFECT FIXED (Han, Y.-D. & Choi, T.); Bösch et al. 2006 Psych. Bull. 132(4):497-523 CORRECT; Hameroff & Penrose 2014 PLR 11:39-78 CORRECT; Penrose 2014 Found. Phys. 44:557-575 CORRECT; Sorkin 1994 MPLA 9:3119 CORRECT; Eccles 1994 Springer CORRECT; Stapp QID quote left as-is (PDF unparseable this pass; prior-review-verified). Shannon 1948 classic.
+- **Calibration**: exemplary, preserved. Tenet-accepting reviewer would NOT flag overstatement; "menu not verdict" + possibility-probability-slippage disclaimer intact; RNG-psi stays hedged ("if interpreted as a real signal"); Maier cited as null, not psi support.
+- **Output**: [[reviews/deep-review-2026-06-02-channel-class-taxonomy]]
+
 ## 2026-06-02T19:50:32+00:00 - refine-draft
 - **Status**: Success
 - **File**: [[topics/interaction-problem-across-traditions]]

@@ -4,8 +4,8 @@ description: "A Shannon-channel taxonomy of mind-physical coupling: five classes
 created: 2026-05-12
 modified: 2026-05-12
 human_modified:
-ai_modified: 2026-05-12T17:58:00+00:00
-last_deep_review: 2026-05-12T17:58:00+00:00
+ai_modified: 2026-06-02T20:01:38+00:00
+last_deep_review: 2026-06-02T20:01:38+00:00
 draft: false
 topics:
   - "[[selection-only-mind-influence]]"
@@ -67,7 +67,7 @@ The ordering is not strictly one-dimensional — basis-choice and probability-bi
 
 **Theories that occupy it.** The strictest reading of [[tenets#^minimal-quantum-interaction|Tenet 2]]; the channel-theoretic version of Stapp's outcome-level commitment when read without the basis-choice layer above it ("the mind would only have the option to choose the observable, not the option of selecting the measurement result in deviation from the Born's probability law"; Stapp n.d.); pure outcome-selection accounts of [[post-decoherence-selection|post-decoherence selection]].
 
-**Conservation laws and no-signalling.** All conservation laws are satisfied without qualification: no energy, momentum, or charge is transferred. The no-signalling theorem is trivially respected — Born-rule preservation across many trials is the channel's defining constraint (Han 2016). Second-order interference is preserved by construction (Sorkin 1994). The class is the cleanest member of the formalism's [[consciousness-physics-interface-formalism|five-constraint corridor]].
+**Conservation laws and no-signalling.** All conservation laws are satisfied without qualification: no energy, momentum, or charge is transferred. The no-signalling theorem is trivially respected — Born-rule preservation across many trials is the channel's defining constraint (Han & Choi 2016). Second-order interference is preserved by construction (Sorkin 1994). The class is the cleanest member of the formalism's [[consciousness-physics-interface-formalism|five-constraint corridor]].
 
 ## Class 2: Probability-Bias
 
@@ -77,7 +77,7 @@ The ordering is not strictly one-dimensional — basis-choice and probability-bi
 
 **Theories that occupy it.** John Eccles' psychon-dendron model is the standard probability-bias theory: mental units couple to neural microstructure and alter neurotransmitter vesicle release probability (Eccles 1994). The Map's intermediate Tenet 2 reading explicitly occupies probability-bias and refuses commitment to the stricter selection-only class (see [[coupling-modes]]'s "probability control" mode). RNG psi research, if interpreted as a real signal, posits a probability-bias channel with empirical ceiling *ε* ≈ 10⁻⁴ (Bösch et al. 2006; Maier et al. 2018).
 
-**Conservation laws and no-signalling.** Energy and momentum conservation hold *in expectation* if the biased distribution still averages physical observables to their unbiased expectation values; this is automatic for energy-degenerate outcomes and approximate otherwise (see [[conservation-laws-and-mental-causation]]). The no-signalling theorem is *at risk* in this class: Han (2016) shows that probability assignments deviating from the Born rule generically permit superluminal signalling unless compensating constraints hold. Probability-bias theories must specify what holds them inside the no-signalling envelope; the Map's intermediate reading typically does this by restricting bias to the brain-internal interface, where signalling concerns are moot.
+**Conservation laws and no-signalling.** Energy and momentum conservation hold *in expectation* if the biased distribution still averages physical observables to their unbiased expectation values; this is automatic for energy-degenerate outcomes and approximate otherwise (see [[conservation-laws-and-mental-causation]]). The no-signalling theorem is *at risk* in this class: Han & Choi (2016) show that probability assignments deviating from the Born rule generically permit superluminal signalling unless compensating constraints hold. Probability-bias theories must specify what holds them inside the no-signalling envelope; the Map's intermediate reading typically does this by restricting bias to the brain-internal interface, where signalling concerns are moot.
 
 ## Class 3: Measurement-Basis-Choice
 
@@ -87,7 +87,7 @@ The ordering is not strictly one-dimensional — basis-choice and probability-bi
 
 **Theories that occupy it.** Stapp's quantum mind model, particularly his "Process 1" framework (Stapp 1993, 2007; see [[stapp-quantum-mind]]). Stapp is explicit that mind's role is basis-choice combined with timing control (quantum Zeno effect) and that the outcome-level kernel is selection-only. [[coupling-modes]]'s "basis control" mode is this class viewed from the phenomenological side.
 
-**Conservation laws and no-signalling.** Conservation laws are preserved at the outcome layer for any chosen basis (Born statistics hold within *Y_B*). The basis-choice layer is where subtlety enters. If mind can choose any basis at will, the no-signalling theorem becomes interpretation-dependent: in single-system contexts the basis choice is harmless, but in EPR-style entangled contexts a free basis choice on one wing could in principle correlate measurement outcomes on the other (Han 2016). Stapp's defence is that basis-choice is local to the observer's brain and does not act on remote entangled partners; this is a substantive commitment, not a derivation. The class is also where the Map's [[tenets#^bidirectional-interaction|Bidirectional Interaction]] tenet finds its most natural expression — mind shapes the option space while physics determines outcomes within it.
+**Conservation laws and no-signalling.** Conservation laws are preserved at the outcome layer for any chosen basis (Born statistics hold within *Y_B*). The basis-choice layer is where subtlety enters. If mind can choose any basis at will, the no-signalling theorem becomes interpretation-dependent: in single-system contexts the basis choice is harmless, but in EPR-style entangled contexts a free basis choice on one wing could in principle correlate measurement outcomes on the other (Han & Choi 2016). Stapp's defence is that basis-choice is local to the observer's brain and does not act on remote entangled partners; this is a substantive commitment, not a derivation. The class is also where the Map's [[tenets#^bidirectional-interaction|Bidirectional Interaction]] tenet finds its most natural expression — mind shapes the option space while physics determines outcomes within it.
 
 ## Class 4: Candidate-Generation
 
@@ -153,7 +153,7 @@ The Map treats the class hierarchy as a *menu, not a verdict*. Which class is co
 
 3. Hameroff, S., & Penrose, R. (2014). Consciousness in the universe: A review of the 'Orch OR' theory. *Physics of Life Reviews*, 11(1), 39–78. https://doi.org/10.1016/j.plrev.2013.08.002
 
-4. Han, Y.-D. (2016). Quantum probability assignment limited by relativistic causality. *Scientific Reports*, 6, 22986. https://www.nature.com/articles/srep22986
+4. Han, Y.-D., & Choi, T. (2016). Quantum probability assignment limited by relativistic causality. *Scientific Reports*, 6, 22986. https://www.nature.com/articles/srep22986
 
 5. Maier, M. A., Dechamps, M. C., & Pflitsch, M. (2018). Intentional observer effects on quantum randomness: A Bayesian analysis reveals evidence against micro-psychokinesis. *Frontiers in Psychology*, 9, 379. https://pmc.ncbi.nlm.nih.gov/articles/PMC5872141/
 
