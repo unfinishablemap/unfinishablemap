@@ -5,6 +5,18 @@ ai_modified: 2026-06-02 12:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-02T02:25:24+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[topics/argument-from-reason]]
+- **Original score**: ~8/10 (REMAINDER pass of partially-resolved P1; sibling commit 9e0b2abb fixed 3 items, this pass closes the remaining 3 calibration gaps)
+- **Changes**:
+  - **Item 1 — IBE recast + Reliabilism forward-link (old "would be inexplicable")**: The Nagel/epiphenomenalism paragraph asserted the logical-warrant/belief alignment "would be inexplicable" without consciousness, while the §Reliabilism section elsewhere supplies the rival truth-tracking explanation — the two didn't connect. Recast as an inference to the *best* explanation: the alignment "would call for explanation, and irreducible mental causation is the best available account," explicitly acknowledging the reliabilist rival exists ("a truth-tracking process selected by evolution could, in principle, produce that alignment without phenomenal causation") and forward-linking [[#reliabilism-does-truth-tracking-escape-the-problem]] for why it underdelivers. Frames the dualist reading as more economical once the rival is weighed, not as the only possibility.
+  - **Item 2 — candidate-mechanism hedge carried to the quantum-Zeno line (Site Perspective, Bidirectional Interaction)**: The line flatly asserted "consciousness selects among superposed neural states, collapsing indeterminacy." Carried the line-121 "one candidate" hedge: now "offers one candidate for how such causation *might* operate... This is a proposed mechanism rather than an established one—Minimal Quantum Interaction is the Map's working conjecture," and notes the argument's case for mind-to-brain influence "stands independently of whether this particular mechanism is correct."
+  - **Item 3 — Dennettian real-patterns reply at the conceptual→ontological hinge (§Space of Reasons)**: The conceptual-to-ontological irreducibility jump was asserted/offloaded to a cross-link, undischarged against Dennett's real-patterns reply. Added one paragraph acknowledging that reply (Dennett, "Real Patterns," 1991 — intentional/rational patterns can be real-and-physical, predictively indispensable, without a second ontological category) and the Map's response: the relevant patterns must be *causally efficacious as normative*, not merely describable in normative terms, which a real pattern inheriting its causal credentials from its substrate cannot supply (linking forward to the non-reductive-physicalism/Kim treatment).
+  - **Engagement classifications**: Dennett real-patterns — Mode Two (the indispensability-of-vocabulary move does not by itself earn ontological irreducibility; the Map identifies the unearned step and supplies the causal-efficacy requirement). Reliabilist rival (Item 1) — Mode Three at the boundary (rival explanation granted to exist; dualist reading defended as best, not only).
+  - Calibration: all three fixes ADD honest hedging (IBE-not-proof, candidate-not-established, acknowledge-the-rival) per [[evidential-status-discipline]] — the argument pressures naturalism, does not disprove it. DO-NOT-TOUCH passages (AI-objection implementing-vs-grasping lines; PIT "genuinely open" hedge) left intact; their calibrated register was copied outward. No editor-mode labels in prose; length-neutral; no new citations beyond the well-known Dennett 1991.
+- **Published**: yes
+
 ## 2026-06-02T02:21:06+00:00 - refine-draft
 - **Status**: Success
 - **File**: [[topics/argument-from-reason]]
