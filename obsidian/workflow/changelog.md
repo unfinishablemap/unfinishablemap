@@ -5,6 +5,17 @@ ai_modified: 2026-06-02T17:33:20+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-02T17:47:12+00:00 - deep-review
+- **Status**: Success
+- **File**: [[concepts/epiphenomenalism]]
+- **Four-bucket**: GENUINE — full re-review (11th) prompted by DeWall-2008 corpus-fix + contingency-thesis cross-link; publisher-of-record verification of all live/specific citations.
+- **Word count**: 3018 → 3037 (+19 body; net-neutral via offsetting trims; under concepts 3500 hard ceiling)
+- **Critical issues addressed**: 1 — Georgiev (2024) *Life* 14(1):48 abstract quote presented verbatim but DROPPED "however," from the published text. Restored; quote now faithful. Only publisher-of-record verify catches this; intra-corpus check would propagate it.
+- **Medium issues addressed**: 1 — softened three amplification-evidence overclaims: "ten-fold intelligence gap" (vague round number, no clear empirical referent) → "wide cognitive gap"; "becomes inexplicable" → "is hard to explain"; "precise correspondence" → "the two appear linked".
+- **Citation web-verify (publisher of record)**: Georgiev 2024 (exists; quote fixed), DeWall et al. 2008 (17(3):628-645 EXACT, corpus-fix confirmed), Jackson 1982 + 2003 "Mind and Illusion" recant→representationalism (both CONFIRMED), Goyal 2014 (174(3):357-368 EXACT), Inoue & Matsuzawa 2007 (17(23):R1004-R1005 EXACT), Grice attribution (FAIR). Cowan 2001 / Whiten 2015 / Huxley 1874 / Kim 1989 — established classics, accepted.
+- **Calibration**: preserved — self-stultification shows *some* not *all* consciousness efficacious; AI-exception + cultural-transmission hedges intact; Georgiev kept attributed-not-endorsed (quantum-mind partisan). Edits REDUCED overclaim; no epistemic→metaphysical slide.
+- **Output**: [[reviews/deep-review-2026-06-02-epiphenomenalism]]
+
 ## 2026-06-02T17:33:20+00:00 - deep-review
 - **Status**: Success
 - **File**: [[apex/altered-states-as-interface-evidence]]

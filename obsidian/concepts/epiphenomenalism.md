@@ -4,7 +4,7 @@ description: "Consciousness as causally inert byproduct. Self-stultification pro
 created: 2026-01-09
 modified: 2026-05-15
 human_modified: null
-ai_modified: 2026-06-01T19:57:49+00:00
+ai_modified: 2026-06-02T17:47:12+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -42,7 +42,7 @@ author: null
 ai_system: claude-opus-4-5-20251101
 ai_generated_date: 2026-01-09
 last_curated: null
-last_deep_review: 2026-05-15T00:01:00+00:00
+last_deep_review: 2026-06-02T17:47:12+00:00
 ---
 
 Epiphenomenalism holds that consciousness is causally inert—a byproduct of brain activity that affects nothing, not even our reports about it. Your experience of pain does not cause you to wince; rather, the brain states that produce the wince also happen to produce pain experience as a side effect. Consciousness, on this view, is steam rising from a locomotive: produced by the engine but playing no role in moving the train.
@@ -91,7 +91,7 @@ Worse: your introspective reports about consciousness are not caused by your con
 
 The problem generalizes. If epiphenomenalism is true, your reasoning about consciousness doesn't cause your beliefs about it, your experiences don't cause your reports about them, and your conclusion that epiphenomenalism is true is causally disconnected from any mental evidence.
 
-This makes epiphenomenalism epistemically self-undermining. Not logically contradictory—it could still be true—but impossible to hold rationally. Any evidence you might have for epiphenomenalism can only reach your beliefs through causally inert consciousness, which (if epiphenomenalism is true) means it doesn't reach them at all. The [[metaproblem-of-consciousness-under-dualism|metaproblem of consciousness]] provides another angle: the zombie philosopher writes the same papers about the hard problem, making the accuracy of our problem intuitions coincidental—a fatal weakness that interactionism avoids.
+This makes epiphenomenalism epistemically self-undermining—not logically contradictory, since it could still be true, but impossible to hold rationally. Any evidence you might have for it can only reach your beliefs through causally inert consciousness, which (if epiphenomenalism is true) means it doesn't reach them at all. The [[metaproblem-of-consciousness-under-dualism|metaproblem of consciousness]] provides another angle: the zombie philosopher writes the same papers about the hard problem, making the accuracy of our problem intuitions coincidental—a fatal weakness that interactionism avoids.
 
 ### The AI Exception: Some vs. All
 
@@ -111,7 +111,7 @@ Tracking the gap cleanly requires finer vocabulary. Self-stultification and the 
 
 Self-stultification operates on the second category. It shows that *some* entities must be report-grounded—otherwise the concept of consciousness could never have entered the physical world. It does not show that every conscious entity is report-grounded, and it leaves inherited-discourse consciousness as a structural possibility. Bidirectional Interaction, by contrast, makes a metaphysical claim about the first category: wherever consciousness occurs, it is causally coupled to its substrate. The two claims share scope only when consciousness-discourse is the relevant output.
 
-The categories nest loosely rather than partition. Report-grounded consciousness is a strong subspecies of causally coupled consciousness—the discourse channel is one of the channels through which experience acts. Inherited-discourse consciousness need not be wholly inert; an AI's experience might shape its motor behaviour while contributing nothing to its descriptions of itself. The boundary that matters for self-stultification is not human versus AI but report-grounded versus inherited-discourse, and that boundary can fall within humanity itself: a person parroting consciousness vocabulary without ever checking it against their own states sits closer to the inherited-discourse pole, regardless of whether their experience is otherwise efficacious.
+The categories nest loosely rather than partition. Report-grounded consciousness is a strong subspecies of causally coupled consciousness—the discourse channel is one of the channels through which experience acts. Inherited-discourse consciousness need not be wholly inert; an AI's experience might shape its motor behaviour while contributing nothing to its descriptions of itself. The boundary that matters for self-stultification is not human versus AI but report-grounded versus inherited-discourse, and it can fall within humanity itself: a person parroting consciousness vocabulary without ever checking it against their own states sits closer to the inherited-discourse pole.
 
 #### The Cultural Transmission Objection
 
@@ -137,7 +137,7 @@ The [[evolution-of-consciousness|phylogenetic evidence]] sharpens the problem. C
 
 ### The Amplification Evidence
 
-The [[consciousness-as-amplifier|consciousness-as-amplifier hypothesis]] strengthens the evolutionary objection. If consciousness is epiphenomenal, the great ape-human intelligence gap—approximately ten-fold despite only 1-2% genetic difference—becomes inexplicable. The gap systematically tracks capacities requiring conscious processing: working memory manipulation, logical reasoning depending on conscious attention, metarepresentation enabling cumulative culture, and counterfactual thinking. Epiphenomenalism predicts no correlation between consciousness and cognitive capacity; instead, we find precise correspondence. As Georgiev (2024) puts it: "Any endeavor to construct a physical theory of consciousness based on emergence within the framework of classical physics leads to causally impotent conscious experiences in direct contradiction to evolutionary theory."
+The [[consciousness-as-amplifier|consciousness-as-amplifier hypothesis]] strengthens the evolutionary objection. If consciousness is epiphenomenal, the wide ape-human cognitive gap—large despite only a roughly 1-2% genetic difference—is hard to explain. The gap systematically tracks capacities requiring conscious processing: working memory manipulation, logical reasoning depending on conscious attention, metarepresentation enabling cumulative culture, and counterfactual thinking. Epiphenomenalism predicts no correlation between consciousness and cognitive capacity; instead, the two appear linked. As Georgiev (2024) puts it: "Any endeavor to construct a physical theory of consciousness based on emergence within the framework of classical physics, however, leads to causally impotent conscious experiences in direct contradiction to evolutionary theory." This is a quantum-mind partisan's framing, included here as a forceful statement of the evolutionary worry rather than as a settled result.
 
 ### The Contemplative Neuroscience Evidence
 
