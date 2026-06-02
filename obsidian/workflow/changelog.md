@@ -5,6 +5,19 @@ ai_modified: 2026-06-02T23:20:03+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-02T23:24:45+00:00 - deep-review
+- **Status**: Success
+- **File**: [[apex/consciousness-and-agency]]
+- **Word count**: 4315 → 4315 (net-neutral; canonical body 108% of 4000 apex soft, 685 under 5000 hard — length-neutral, no cut, no growth)
+- **Critical issues addressed**: 0 (converged; 7th deep review)
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 (metadata-only convergence verdict; large 15-day gap but intervening touches mechanical)
+- **Citation web-verify**: 5 inline external claims verified at publisher of record despite a short formal ref list (2 internal). VERIFIED clean: Schurger, Sitt & Dehaene 2012 (PNAS accumulator model); Sjöberg 2024 (Brain 147(7), SMA-resection retains volition); Kane 2024 (The Complex Tapestry of Free Will, OUP — hybrid agent-causal/event-causal STANCE correct); Saad delegatory dualism 2025 (Phil Studies 182:939-967, "default causal profile" qualifier preserved); ~60% binary-choice fMRI prediction accuracy (Soon/Haynes lineage, fairly hedged). Standard/prior-vetted (van Inwagen rollback, Lowe & O'Connor, Sartre pour-soi, Byrne, chimp WM 2±1/7±2) unchanged. No defects.
+- **Calibration**: SOUND. Libertarian/agent-causal selection presented as the Map's POSITED position (tenet-coherence, not established science); no epistemic→metaphysical slide; no possibility→probability slippage; underdetermination markers intact ("open empirical question", "speculative frontier", "suggestive rather than decisive").
+- **Internal links**: all 30 in-body wikilinks resolve live (no archival-link-rot); 2 formal internal refs resolve.
+- **Reasoning-mode (editor-internal)**: compatibilism (Fischer/Ravizza, Wolf, Dennett) = Mode Two→Mixed (in-framework sourcehood pressure + honest boundary cede to ultimate-desert residue); Kim exclusion = Mode Two (local closure denial); MWI = Mode Three (boundary-marked). No label leakage in prose.
+- **Output**: [[reviews/deep-review-2026-06-02-consciousness-and-agency]]
+
 ## 2026-06-02T23:20:03+00:00 - deep-review
 - **Status**: Success
 - **File**: [[apex/interface-specification-programme]]

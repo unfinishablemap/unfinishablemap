@@ -4,8 +4,8 @@ description: "How does consciousness author action in a physical world? Through 
 created: 2026-01-24
 modified: 2026-05-26
 human_modified: null
-ai_modified: 2026-05-26T23:32:00+00:00
-last_deep_review: 2026-05-11T18:26:00+00:00
+ai_modified: 2026-06-02T23:24:45+00:00
+last_deep_review: 2026-06-02T23:24:45+00:00
 draft: false
 topics:
   - "[[topics/free-will]]"
