@@ -5,6 +5,16 @@ ai_modified: 2026-06-02 13:30:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-02T07:53:02+00:00 - refine-draft
+- **Status**: Success
+- **Files**: [[concepts/temporal-consciousness]] and [[topics/phenomenology-of-musical-understanding]]
+- **Type**: length-neutral connective cross-link fixes (optimistic review 2026-06-02b); both articles converged, confirm-and-connect only
+- **Changes**:
+  - FIX 1: temporal-consciousness — added one sentence + `[[phenomenology-of-musical-understanding]]` link in The Specious Present section, noting music is the cleanest illustration of "a single experience of succession, not a succession of experiences"; mirrored link into related_articles. Body 2909 → 2939 words (< 3500 hard).
+  - FIX 2: music article — at the "genuine AI musical understanding" challenge point, cross-linked `[[machine-consciousness]]` and `[[ai-consciousness-typology]]`, framing present-day generative-music systems as the concrete no-temporal-phenomenology case the challenge specifies. Body 2605 → 2673 words (< 3000 soft).
+- **Guardrail**: FIX 2 written as a defeasibility note (marks what would have to be true / the structural case), explicitly NOT an evidential claim about machine phenomenal experience either way; honours [[evidential-status-discipline]] (no possibility→probability slide). Did NOT mirror machine-consciousness into the music article's related_articles (aside, not load-bearing).
+- **Published**: yes
+
 ## 2026-06-02T00:00:00+00:00 - deep-review
 - **Status**: Success
 - **File**: [[topics/epistemic-advantages-of-dualism]]

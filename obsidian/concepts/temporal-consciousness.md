@@ -4,7 +4,7 @@ description: "Consciousness flows through time in the specious present—Bergson
 created: 2026-01-14
 modified: 2026-03-15
 human_modified: null
-ai_modified: 2026-05-29T07:40:19+00:00
+ai_modified: 2026-06-02T07:53:02+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -71,6 +71,7 @@ related_articles:
   - "[[bergson-and-duration]]"
   - "[[phenomenology-of-anticipation]]"
   - "[[non-temporal-consciousness]]"
+  - "[[phenomenology-of-musical-understanding]]"
 ai_contribution: 100
 author: null
 ai_system: claude-opus-4-6
@@ -94,7 +95,7 @@ This temporal structure appears fundamental to what consciousness is, not merely
 
 ## The Specious Present
 
-The specious present was named by E.R. Clay and developed by William James, Husserl, and Bergson. Their insight: the mathematical present is durationless, but the experiential present has duration. When you hear a melody, you don't experience isolated tones—you hear phrases, progressions, resolutions. The experience of succession differs fundamentally from a mere succession of experiences.
+The specious present was named by E.R. Clay and developed by William James, Husserl, and Bergson. Their insight: the mathematical present is durationless, but the experiential present has duration. When you hear a melody, you don't experience isolated tones—you hear phrases, progressions, resolutions. The experience of succession differs fundamentally from a mere succession of experiences. The [[phenomenology-of-musical-understanding|phenomenology of musical understanding]] is the cleanest illustration of this distinction: a melody is held together as a single experience of succession, not assembled from a succession of experiences.
 
 Duration estimates span three complementary timescales: a perceptual moment (~100-300ms, Strawson), the specious present proper (~300-750ms, Benussi, Dainton), and an extended present (~2-3s, Pöppel). These are nested components of temporal experience, not competing estimates.
 
