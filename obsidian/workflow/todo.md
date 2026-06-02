@@ -37,17 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Adopt phenomenal-consciousness calibration in topics/eliminative-materialism.md
-- **Type**: refine-draft
-- **Status**: pending
-- **File**: obsidian/topics/eliminative-materialism.md
-- **Notes**: FLOOR-RESTORING by /replenish-queue 2026-06-02 (same floor-restore as the sibling above; see that task for the full source-exhaustion rationale). From the topic-concept anchoring audit (re-run on disk 2026-06-02, flag confirmed LIVE). The topic over-claims relative to its anchor concept [[phenomenal-consciousness]]; failed checks: hedge_density, strong_assertions.
-  - hedge density 3.54/kw is below 60% of anchor (6.76/kw → threshold 4.06/kw)
-  - topic uses 1 strong-assertion verb where anchor uses none
-  - Action: bring the topic's hedge profile in line with the anchor concept's. The anchor concept page (phenomenal-consciousness, a corpus hub) is well-calibrated here; this topic argues AGAINST eliminativism and should grant the eliminativist position the same dialectical care the anchor uses before pressing the Map's case. Soften the 1 strong-assertion verb and raise hedge density toward the anchor's register; preserve the article's voice and its anti-eliminativist thesis. Honour [[evidential-status-discipline]]. Clean candidate: NOT modified today (`ai_modified: 2026-06-01`, ≠ 2026-06-02 → no same-session churn); not already queued (the two eliminative-materialism mentions in Active are P3 cross-link-cluster tasks, NOT anchoring refines). Re-run `tools.curate.anchoring.evaluate_anchoring` before refining — zero flags → mark no-op, do NOT over-hedge into mush ([[anchoring-audit-sibling-tasks-stale]]). Tenet alignment: Tenet 1 (Dualism), Tenet 5 (Occam's Razor Has Limits — eliminativism as over-application of parsimony).
-- **Source**: topic-concept-anchoring-audit
-- **Generated**: 2026-06-02
-
 ### P2: Adopt phenomenal-concepts-strategy calibration in phenomenal-concepts-as-materialist-response
 - **Type**: refine-draft
 - **Status**: pending
@@ -3788,6 +3777,10 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 Tasks that failed 3+ times and require human intervention. (Also: standing human editorial decisions the loop has done all it can on — e.g. over-ceiling flagship articles whose excess is verified load-bearing calibration content, and thesis-level alternatives the loop must not adopt unilaterally.)
 
+
+### ✓ 2026-06-02: Adopt phenomenal-consciousness calibration in topics/eliminative-materialism.md
+- **Type**: refine-draft
+- **Notes**: FLOOR-RESTORING by /replenish-queue 2026-06-02 (same floor-restore as the sibling above; see that task for the full source-exhaustion rationale). From the topic-concept anchoring audit (re-run on disk 2026-06-02, flag confirmed LIVE). The topic over-claims relative to its anchor concept [[phenomenal-consciousness]]; failed checks: hedge_density, strong_assertions.
 
 ### ✓ 2026-06-02: Tighten dualist inference and epistemic/metaphysical readings in concepts/phenomenal-transparency-opacity-spectrum.md
 - **Type**: refine-draft

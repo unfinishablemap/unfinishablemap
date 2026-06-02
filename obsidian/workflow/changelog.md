@@ -5,6 +5,17 @@ ai_modified: 2026-06-02T12:20:49+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-02T12:59:03+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[topics/eliminative-materialism]]
+- **Source**: topic-concept anchoring-audit (Phenomenal Consciousness anchor; failed hedge_density + strong_assertions, ≥2-of-3 fire)
+- **Changes**:
+  - Softened the single flagged strong-assertion verb (~line 115): "Boghossian **shows that** content irrealism cannot be coherently asserted" → "Boghossian **argues that** ...". Boghossian's self-refutation argument is a contested meta-philosophical claim eliminativists dispute; "shows that" over-claimed demonstrable success, "argues that" attributes without asserting the argument succeeds ([[evidential-status-discipline]]).
+  - This drops strong_assertion_count 1→0, clearing the zero-tolerance strong_assertions check; failed-check count falls to 1 (hedge_density only), below the ≥2-of-3 threshold. Post-edit evaluate_anchoring returns `[]`.
+  - NO hedge-stuffing: hedge_density left untouched (article at 3.54/kw vs 6.76 bar) per [[anchoring-audit-sibling-tasks-stale]]; did not enervate the article's confident argumentation. Did not soften accurate reporting of what eliminativists *claim* (that is correct reporting, not over-assertion) — only the contested Boghossian-attribution verb.
+  - Length net-neutral: 3667w before and after (single-word swap).
+- **Published**: yes
+
 ## 2026-06-02T12:50:06+00:00 - refine-draft
 - **Status**: Success
 - **File**: [[concepts/phenomenal-transparency-opacity-spectrum]]
