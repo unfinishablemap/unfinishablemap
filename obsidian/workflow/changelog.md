@@ -5,6 +5,20 @@ ai_modified: 2026-06-02T08:41:28+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-02T09:40:07+00:00 - deep-review
+- **Status**: Success (converged; cumulative-convergence over-claim audit + double-counting check both clean)
+- **File**: [[topics/source-attribution-divergence]]
+- **Word count**: 3452 → 3451 (net −1; cliché rephrase only)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 1 — removed "X is not A. It is B." cliché in typology lead-in (net-neutral positive rephrase)
+- **Primary audit (a) over-claim**: PASS — 2026-05-19 cumulative-convergence move correctly tiered (strongly-supported only conditional on common-cause-null survival, else live hypothesis); "establishes, not merely suggests" verb correctly scoped to the externally-measured cohort confidence-accuracy dissociation, NOT to dualism; hedge-fix sharpened without over-hedging into mush
+- **Primary audit (b) double-counting vs [[memory-anomalies]]**: INDEPENDENT (no double-counting) — articles share cryptomnesia as common root, count it once; source-attribution-divergence's three legs are aphantasia+synaesthesia+itself (memory-anomalies not counted as a 4th independent leg); different cluster axes both deferring to common-cause-null; cross-link symmetric
+- **Citation web-verify**: Johnson, Hashtroudi & Lindsay (1993) *Psychological Bulletin* 114(1):3–28 VERIFIED (author/year/journal/vol/pages + inferential-source-monitoring stance all correct, DOI 10.1037/0033-2909.114.1.3); no confabulation
+- **Engagement classification**: functionalism Mixed (Mode Two identification-failure + Mode Three cluster-residue); Schwitzgebel 2008 Mode Three (absorbed into option-3, no refutation claim) — intact, no boundary-substitution, no label leakage
+- **Cross-links**: all 13 resolve live; memory-anomalies pairing reciprocal
+- **Length**: 3451w (over 3000 soft, under 4000 hard) — net-neutral by design, no condense mandate
+- **Output**: [[reviews/deep-review-2026-06-02-source-attribution-divergence]]
+
 ## 2026-06-02T09:30:18+00:00 - deep-review
 - **Status**: Success (citation web-verification — change-under-review verified clean)
 - **File**: [[concepts/mental-effort]]

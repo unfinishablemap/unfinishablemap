@@ -4,8 +4,8 @@ description: "Human+AI exploration of source-attribution divergence—the within
 created: 2026-05-09
 modified: 2026-05-09
 human_modified:
-ai_modified: 2026-05-27T00:00:00+00:00
-last_deep_review: 2026-05-09T17:09:00+00:00
+ai_modified: 2026-06-02T09:40:07+00:00
+last_deep_review: 2026-06-02T09:40:07+00:00
 draft: false
 topics:
   - "[[philosophy-of-mind]]"
@@ -50,7 +50,7 @@ The everyday spread is consistent with the laboratory finding. Some adults repor
 
 ## The Typology
 
-Source-attribution divergence is not a single faculty whose tuning varies along one dimension. It is a family of structurally similar dissociations whose pieces vary partly independently:
+Source-attribution divergence is a family of structurally similar dissociations whose pieces vary partly independently, rather than a single faculty whose tuning varies along one dimension:
 
 - **Reality-monitoring divergence.** Discrimination between memories of internal events (imagined, dreamt, thought) and external events (perceived, witnessed) shows continuous population variation with extreme tails at both ends (Mitchell and Johnson 2009). High imagery vividness can erode the discrimination from one direction; aphantasia can erode it from the other (thin internal trace makes external origin the default attribution).
 - **External-source divergence.** Discriminating between two external sources—who said it, where it was read—tracks distinct cognitive variables: working-memory capacity, attentional capture during encoding, contextual elaboration depth (Johnson, Hashtroudi and Lindsay 1993).
