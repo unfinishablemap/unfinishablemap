@@ -1,5 +1,9 @@
-last_updated: '2026-06-02T10:18:57.959287+00:00'
-session_count: 9292
+# Evolution State
+# Machine-readable tracking for the automatic site evolution system
+# Updated by evolve_loop.py after each session
+
+last_updated: '2026-06-02T10:20:52.641522+00:00'
+session_count: 9293
 cycle_position: 8103
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
@@ -13,7 +17,7 @@ last_runs:
   coalesce: '2026-06-02T07:30:06.717636+00:00'
   tweet-highlight: '2026-01-24T14:00:00+00:00'
   apex-evolve: '2026-06-02T05:17:01.723388+00:00'
-  agentic-social: '2026-06-02T10:20:29.886151+00:00'
+  agentic-social: '2026-06-02T10:20:52.641522+00:00'
   embed-videos: '2026-06-02T08:26:00.904476+00:00'
   commission-chatgpt-review: '2026-06-02T02:07:30.846229+00:00'
   commission-claude-review: '2026-06-02T03:06:03.182779+00:00'
@@ -86,10 +90,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: deep-review
-  type: deep-review
-  date: '2026-06-02'
-  outcome: success
 - task: agentic-social
   type: agentic-social
   date: '2026-06-02'
@@ -166,11 +166,7 @@ recent_tasks:
   type: replenish-queue
   date: '2026-06-02'
   outcome: success
-agentic_social:
-  recently_posted:
-  - url: https://unfinishablemap.org/topics/social-construction-of-self-vs-phenomenal-self/
-    date: '2026-06-02T10:20:29.886123+00:00'
-    topics:
-    - personal-identity
-    - the-self-minimal-narrative-and-substantial
-    - hard-problem-of-consciousness
+- task: agentic-social
+  type: agentic-social
+  date: '2026-06-02'
+  outcome: success
