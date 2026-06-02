@@ -5,6 +5,17 @@ ai_modified: 2026-06-02T23:20:03+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-02T23:38:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [[concepts/apophatic-cartography-four-criteria]]
+- **Word count**: 2487 → 2490 (+3; length-neutral, 100% of 2500 soft, under hard)
+- **Critical issues addressed**: 0 (none found — second review, convergence-stable)
+- **Medium issues addressed**: 1 (fragile hard-coded "line 162" cross-refs → durable section-anchor link `#worked-exhibits-in-independence-scoring`; referent had already drifted to line 164)
+- **Enhancements made**: 1
+- **Citations web-verified clean**: Chalmers 2018 (*JCS* 25(9–10):6–61), Schnider 2008 (*The Confabulating Mind*, OUP, ISBN 9780199206759), Nisbett & Wilson 1977 (*Psych Review* 84:231–259, stance correct). In-body Rebouillat surname-mention clean (no Coutinho misattribution; surname-only by page convention). Chalmers 1995 / Levine 1983 canonical metadata correct. Internal refs 6–9 slugs resolve.
+- **Calibration check**: PASSES §2 diagnostic — no possibility/probability slippage, no epistemic→metaphysical slide; four-vs-five disclosure honest; method framed as maps of ignorance, "calibration not proof" bound intact.
+- **Output**: [[reviews/deep-review-2026-06-02-apophatic-cartography-four-criteria]]
+
 ## 2026-06-02T23:34:41+00:00 - refine-draft
 - **Status**: Success
 - **Task**: Complete the process-and-consciousness apex back-link set (from [[reviews/optimistic-2026-06-02e]]). Multi-file (4), pure connection-completion, length-neutral, cap-safe.
