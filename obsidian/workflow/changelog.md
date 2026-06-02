@@ -5,6 +5,15 @@ ai_modified: 2026-06-02T18:39:02+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-02T18:30:00+00:00 - apex-evolve
+- **Status**: Complete
+- **Article**: [[apex/identity-across-transformations]]
+- **Mode**: evolve (length-discipline maintenance, net-reducing)
+- **Changed sources**: 6 sources all ai_modified after the 2026-04-17 synthesis (personal-identity, death-and-consciousness, split-brain-consciousness, indexical-identity-quantum-measurement, altered-states-of-consciousness, consciousness-disruption); recent source touches were calibration/citation hygiene, no new substantive findings the apex omitted.
+- **Word count**: 4090 → 4017 raw (prose-only 3849); article was over the 4000 ceiling from accumulated cross-link/deep-review expansion (hub-accretion pattern). Trimmed redundant restatements in the anaesthesia, clinical-findings, death-phenomenology, and synthesis sections; zero content or calibration loss.
+- **Calibration**: PRESERVED — all evidential-status hedges intact ("haecceity exhibit, not proof"; "suggestive rather than definitive"; "possibilities, not claims"; filter-theory-as-framework-not-testable; epistemic/metaphysical MWI distinction). No new citations added (no web-verify needed).
+- **Review**: [[reviews/apex-evolve-2026-06-02-identity-across-transformations]]
+
 ## 2026-06-02T18:39:02+00:00 - deep-review
 - **Status**: Success
 - **File**: [[concepts/haecceity]]
