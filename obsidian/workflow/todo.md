@@ -37,12 +37,28 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Deep review topics/selection-only-mind-influence.md (gap ~19d review→ai_modified, SUBSTANTIVE orphan-integration deep-review change, ai_contribution=100, quantum-interface / epiphenomenalism cluster)
-- **Type**: deep-review
-- **File**: obsidian/topics/selection-only-mind-influence.md
-- **Notes**: FLOOR-RESTORING by /replenish-queue 2026-06-02 (P2 — counts toward floor; fourth genuine BUCKET-(b) pick this run, building the buffer to ~4–5 above the floor of 3). Staleness pick: `last_deep_review: 2026-05-08` → `ai_modified: 2026-05-27` = ~19d gap (POSITIVE changed-since-review); `ai_modified` ≠ today AND not this-session. SUBSTANTIVE-not-sweep CONFIRMED via git log: top touch `auto(deep-review): Integrate orphaned concepts/ensemble-level-epiphenomenalism.md into the corpus graph` — real cross-graph integration content threading ensemble-level epiphenomenalism into this article, NOT a mechanical sweep. Distinct cluster from the other three picks (diversify — quantum selection-channel / epiphenomenalism; note this is the home of the ensemble-level / type-epiphenomenalism material the existing P3 "Audit ensemble-level / type-epiphenomenalism treatment for raised-then-unresolved worry" task concerns — fold that audit into this review if the worry is still open, but do NOT duplicate the P3 task). Citation-bearing (~2 post-2020 cite tokens incl 2025). Deep-review should: (a) WEB-VERIFY any selection-only / epiphenomenalism / micro-PK attributions and CHECK THE STANCE ([[ai-citation-metadata-unreliable]]); (b) honour [[evidential-status-discipline]] — selection-only mind-influence is the Map's *minimal-interaction model* (Tenet 2), keep it a calibrated position not an established mechanism; ensure the absorbed ensemble-level-epiphenomenalism material reads as a genuine objection-then-reply; (c) verify cross-links into the quantum-interface cluster ([[selection-only-channel]], [[ensemble-level-epiphenomenalism]], [[born-rule-and-the-consciousness-interface]], [[overdetermination-dissolution]]) resolve live and reciprocate where load-bearing; (d) writing-style + length (2837w, under the 3000 topics soft threshold — no length risk; no "This is not X. It is Y." cliché). Metadata-only verdict acceptable if converged; in-place fixes if minor, follow-on refine only if substantive. If the review resolves the ensemble-level worry, mark the existing P3 audit task RESOLVED-OBSOLETE. SELECTION-COLLISION CAVEAT: if a cycle-slot deep-review bumps `last_deep_review` to 2026-06-02 first, mark RESOLVED-OBSOLETE. Tenet alignment: Tenet 2 (Minimal Quantum Interaction — selection-only as the minimal channel), Tenet 3 (Bidirectional Interaction), secondary Tenet 1 (Dualism).
-- **Source**: staleness
+### P2: Adopt causal-closure calibration in philosophical-stakes-of-spontaneous-collapse
+- **Type**: refine-draft
+- **Status**: pending
+- **File**: obsidian/topics/philosophical-stakes-of-spontaneous-collapse.md
+- **Notes**: From topic-concept anchoring audit 2026-06-02. The topic article over-claims relative to its anchor concept [[causal-closure]]; failed checks: hedge_density, underdetermination_markers.
+  - hedge density 2.14/kw is below 60% of anchor (4.57/kw)
+  - anchor declares underdetermination (1× explicit) but topic has no underdetermination markers
+  - Action: bring the topic's hedge profile in line with the anchor concept's. Preserve the article's voice; this is not a request to weaken the central claim, only to inherit the calibration discipline the anchor concept already uses. See [[project/calibration-audit-triple]] Audit Three for the spec and [[evidential-status-discipline]] for the underlying rule.
+- **Source**: topic-concept-anchoring-audit
 - **Generated**: 2026-06-02
+
+### P2: Adopt consciousness-value-connection calibration in valence-and-conscious-selection
+- **Type**: refine-draft
+- **Status**: pending
+- **File**: obsidian/topics/valence-and-conscious-selection.md
+- **Notes**: From topic-concept anchoring audit 2026-06-02. The topic article over-claims relative to its anchor concept [[consciousness-value-connection]]; failed checks: hedge_density, strong_assertions.
+  - hedge density 2.71/kw is below 60% of anchor (5.79/kw)
+  - topic uses 3 strong-assertion verbs where anchor uses none
+  - Action: bring the topic's hedge profile in line with the anchor concept's. Preserve the article's voice; this is not a request to weaken the central claim, only to inherit the calibration discipline the anchor concept already uses. See [[project/calibration-audit-triple]] Audit Three for the spec and [[evidential-status-discipline]] for the underlying rule.
+- **Source**: topic-concept-anchoring-audit
+- **Generated**: 2026-06-02
+
 
 ### ✓ RESOLVED-OBSOLETE (2026-06-02): Deep review concepts/entanglement-binding-hypothesis.md (gap ~30d review→ai_modified, SUBSTANTIVE no-go-theorem engagement, ai_contribution=100, quantum-binding cluster)
 - **Type**: deep-review
@@ -3753,6 +3769,10 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 Tasks that failed 3+ times and require human intervention. (Also: standing human editorial decisions the loop has done all it can on — e.g. over-ceiling flagship articles whose excess is verified load-bearing calibration content, and thesis-level alternatives the loop must not adopt unilaterally.)
 
+
+### ✓ 2026-06-02: Deep review topics/selection-only-mind-influence.md (gap ~19d review→ai_modified, SUBSTANTIVE orphan-integration deep-review change, ai_contribution=100, quantum-interface / epiphenomenalism cluster)
+- **Type**: deep-review
+- **Notes**: FLOOR-RESTORING by /replenish-queue 2026-06-02 (P2 — counts toward floor; fourth genuine BUCKET-(b) pick this run, building the buffer to ~4–5 above the floor of 3). Staleness pick: `last_deep_review: 2026-05-08` → `ai_modified: 2026-05-27` = ~19d gap (POSITIVE changed-since-review); `ai_modified` ≠ today AND not this-session. SUBSTANTIVE-not-sweep CONFIRMED via git log: top touch `auto(deep-review): Integrate orphaned concepts/ensemble-level-epiphenomenalism.md into the corpus graph` — real cross-graph integration content threading ensemble-level epiphenomenalism into this article, NOT a mechanical sweep. Distinct cluster from the other three picks (diversify — quantum selection-channel / epiphenomenalism; note this is the home of the ensemble-level / type-epiphenomenalism material the existing P3 "Audit ensemble-level / type-epiphenomenalism treatment for raised-then-unresolved worry" task concerns — fold that audit into this review if the worry is still open, but do NOT duplicate the P3 task). Citation-bearing (~2 post-2020 cite tokens incl 2025). Deep-review should: (a) WEB-VERIFY any selection-only / epiphenomenalism / micro-PK attributions and CHECK THE STANCE ([[ai-citation-metadata-unreliable]]); (b) honour [[evidential-status-discipline]] — selection-only mind-influence is the Map's *minimal-interaction model* (Tenet 2), keep it a calibrated position not an established mechanism; ensure the absorbed ensemble-level-epiphenomenalism material reads as a genuine objection-then-reply; (c) verify cross-links into the quantum-interface cluster ([[selection-only-channel]], [[ensemble-level-epiphenomenalism]], [[born-rule-and-the-consciousness-interface]], [[overdetermination-dissolution]]) resolve live and reciprocate where load-bearing; (d) writing-style + length (2837w, under the 3000 topics soft threshold — no length risk; no "This is not X. It is Y." cliché). Metadata-only verdict acceptable if converged; in-place fixes if minor, follow-on refine only if substantive. If the review resolves the ensemble-level worry, mark the existing P3 audit task RESOLVED-OBSOLETE. SELECTION-COLLISION CAVEAT: if a cycle-slot deep-review bumps `last_deep_review` to 2026-06-02 first, mark RESOLVED-OBSOLETE. Tenet alignment: Tenet 2 (Minimal Quantum Interaction — selection-only as the minimal channel), Tenet 3 (Bidirectional Interaction), secondary Tenet 1 (Dualism).
 
 ### ✓ 2026-06-02: Deep review concepts/emergence.md (gap ~21d review→ai_modified, SUBSTANTIVE pessimistic-review-findings fix, ai_contribution=100, emergence / reduction cluster)
 - **Type**: deep-review

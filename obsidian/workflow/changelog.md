@@ -5,6 +5,17 @@ ai_modified: 2026-06-02 12:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-02T00:00:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [[topics/selection-only-mind-influence]]
+- **Word count**: 2750 → 2752 on disk (length-neutral; 92% of 3000 soft; scorer over-counts via frontmatter ISO tokens, disk count authoritative)
+- **Critical issues addressed**: 2 — (1) CITATION DEFECT (wrong-author + stance-reversal + wrong-journal): "Stoll & Zheng (2025), *The brain works at more than 10 bits per second*, *Neuron*" was triply wrong. Web-verify (WebSearch + WebFetch of cited PMC12320479): that paper is Sauerbrei & Pruszynski (2025), *Nature Neuroscience*, a REBUTTAL arguing >10 bits/s (lower bound). The ~10 bits/s figure the article needs is Zheng & Meister (2025), *Neuron* 113(2):192–204 — which is exactly how every OTHER corpus article cites it. Fixed in-text + reference here, in `project/causal-budget-ledger.md` (in-text + ref), and in the seeding research note `research/selection-only-mind-influence-information-limits-2026-05-05.md` (heading + URL + ref). Survived ≥2 prior reviews because intra-corpus cross-check pointed at the same-error research note; only live web-verify caught it. (2) DUPLICATE Further Reading line ([[born-rule-and-the-consciousness-interface]] listed twice) — removed.
+- **Medium issues addressed**: 0 applied (Han 2016 → Han & Choi 2016 co-author omission noted, claim attribution correct, left under length-neutral scope)
+- **Citation web-verify**: Zheng & Meister (2025) *Neuron* "Unbearable Slowness of Being" CONFIRMED for ~10 bits/s. Sauerbrei & Pruszynski (2025) *Nature Neuroscience* "more than 10 bits per second" CONFIRMED as separate rebuttal. Han & Choi (2016) *Scientific Reports* 6:22986 CONFIRMED — Born-rule-from-relativistic-causality faithful (co-author Choi dropped in ref, minor).
+- **Integration audit**: ensemble-level-epiphenomenalism orphan-integration (commit 72a7846c2) is substantive + genuinely reciprocal (links back in frontmatter/body/FR/refs). Engagement with ensemble-epiphenomenalism charge: Mode Three (honest boundary-marking — frames as dilemma the strict reading must answer, routes to adjudicating article, no refutation overclaim); no label leakage. No possibility/probability slippage (§102 explicitly disavows corridor-as-evidence). Doctrinal: bi-aspectual interactionist intact, no emergentist self-presentation.
+- **Enhancements made**: 0 (length-neutral; converged article + targeted citation correction)
+- **Output**: [[reviews/deep-review-2026-06-02-selection-only-mind-influence]]
+
 ## 2026-06-02T01:12:17+00:00 - deep-review
 - **Status**: Success
 - **File**: [[concepts/emergence]]

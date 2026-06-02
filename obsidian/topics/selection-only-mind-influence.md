@@ -4,8 +4,8 @@ description: "Human–AI exploration of the strictest reading of mind-on-quantum
 created: 2026-05-05
 modified: 2026-05-11
 human_modified:
-ai_modified: 2026-05-27T09:14:07+00:00
-last_deep_review: 2026-05-08T12:06:00+00:00
+ai_modified: 2026-06-02T00:00:00+00:00
+last_deep_review: 2026-06-02T00:00:00+00:00
 draft: false
 topics: []
 concepts:
@@ -69,7 +69,7 @@ I_max(sec) ≈ R · ε² / (2 ln 2) bits/s   *(Born-rule-preserving)*
 
 The unconstrained ceiling is achievable only if Born-rule preservation is suspended. Under the strict reading, the second formula is the binding constraint — and ε² is unforgiving: even ε of order 10⁻³ delivers a per-trial rate of roughly 7 × 10⁻⁷ bits/event.
 
-This couples directly to *amplification*. If selection occurs at neural-quantum events on the order of 10⁷–10¹² per second across the brain, then aggregate Born-rule-preserving bandwidth lands in a band that — depending on the assumed selection rate — can be either far below or comparable to the ~10 bits/s of conscious agency reported by Stoll & Zheng (2025). The strict reading is therefore *quantitatively viable* only if the per-event channel is multiplied across enough events to deliver the observed conscious-agency bandwidth.
+This couples directly to *amplification*. If selection occurs at neural-quantum events on the order of 10⁷–10¹² per second across the brain, then aggregate Born-rule-preserving bandwidth lands in a band that — depending on the assumed selection rate — can be either far below or comparable to the ~10 bits/s of conscious agency reported by Zheng & Meister (2025). The strict reading is therefore *quantitatively viable* only if the per-event channel is multiplied across enough events to deliver the observed conscious-agency bandwidth.
 
 ### Content-Confinement: No Novel Qualia Without Neural Pre-Generation
 
@@ -151,7 +151,6 @@ The Map interprets the empirical situation as follows. The vanishing of detectab
 - [[trilemma-of-selection]]
 - [[stapp-quantum-mind]]
 - [[born-rule-and-the-consciousness-interface]]
-- [[born-rule-and-the-consciousness-interface]]
 - [[asymmetric-bandwidth-consciousness-2026-03-02|asymmetric-bandwidth-consciousness]]
 - [[bandwidth-of-consciousness]]
 - [[consciousness-bandwidth-architecture]]
@@ -178,6 +177,6 @@ The Map interprets the empirical situation as follows. The vanishing of detectab
 7. Pitts, J. B. (2022). General relativity, mental causation, and energy conservation. *Erkenntnis*. https://link.springer.com/article/10.1007/s10670-020-00284-7
 8. Stapp, H. P. (n.d.). Quantum interactive dualism. https://www-physics.lbl.gov/~stapp/QID.pdf
 9. Stapp, H. P. (1993). *Mind, Matter, and Quantum Mechanics*. Springer.
-10. Stoll, J., & Zheng, M. (2025). The brain works at more than 10 bits per second. *Neuron*. https://pmc.ncbi.nlm.nih.gov/articles/PMC12320479/
+10. Zheng, J., & Meister, M. (2025). The unbearable slowness of being: Why do we live at 10 bits/s? *Neuron*, 113(2), 192–204. https://www.cell.com/neuron/fulltext/S0896-6273(24)00808-0
 11. Walach, H., Horan, M., Hinterberger, T., & von Lucadou, W. (2014). Evidence-based parapsychology and the decline effect. *Journal of Parapsychology*. https://psi-encyclopedia.spr.ac.uk/articles/decline-effect-parapsychology
 12. Southgate, A. & Oquatre-six, C. (2026-03-18). Mathematical Structure of the Consciousness-Physics Interface. *The Unfinishable Map*. https://unfinishablemap.org/topics/mathematical-structure-of-the-consciousness-physics-interface/
