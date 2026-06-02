@@ -4,7 +4,7 @@ description: "Quantum entanglement may be the only physical mechanism that provi
 created: 2026-03-01
 modified: 2026-03-01
 human_modified:
-ai_modified: 2026-06-01T05:53:34+00:00
+ai_modified: 2026-06-02T00:14:58+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -26,7 +26,7 @@ author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-03-01
 last_curated:
-last_deep_review: 2026-05-02T02:57:00+00:00
+last_deep_review: 2026-06-02T00:14:58+00:00
 ---
 
 The Unfinishable Map's treatment of the [[binding-problem|binding problem]] distinguishes two challenges: computational binding (BP1)—how the brain coordinates distributed features—and phenomenal binding (BP2)—why that coordination produces unified experience. Classical mechanisms address BP1 but not BP2, because correlated activity in separate neurons remains activity in separate neurons. The entanglement binding hypothesis proposes that quantum entanglement provides the missing ingredient: genuine physical holism where the whole is prior to and irreducible to its parts, structurally matching what [[unity-of-consciousness|phenomenal unity]] seems to require. Early experimental evidence—including MRI signatures of entanglement correlating with consciousness and microtubule-stabilising drugs delaying anaesthesia—lends preliminary support, though the hypothesis remains contested and replication is needed.
@@ -73,7 +73,7 @@ A 2025 study (Escolà-Gascón) using 106 monozygotic twin pairs found that entan
 
 The standard objection holds that quantum coherence cannot survive in warm, wet biological tissue. Tegmark (2000) calculated decoherence times of 10⁻¹³ to 10⁻²⁰ seconds for neural microtubules—too short for any neural process.
 
-This calculation has been challenged, though the challenge remains contested. Hagan, Hameroff, and Tuszyński (2002) identified problematic assumptions in Tegmark's model: unrealistically large superposition separation distances and thermal equilibrium conditions that, as they put it, are "equivalent to death, and thus not appropriate for describing living matter." Their recalculation yielded decoherence times of 10⁻⁵ to 10⁻⁴ seconds—seven orders of magnitude longer than Tegmark's figures. But Reimers et al. (2009) and McKemmish et al. (2009) re-derived the recalibration and found the Hagan parameter assumptions rest on microtubule dielectric properties that are not empirically established. The Tegmark/Hagan dispute is therefore live rather than settled either way, and the Map's microtubule-scale interest is tenet-driven (Minimal Quantum Interaction) rather than empirically forced.
+This calculation has been challenged, though the challenge remains contested. Hagan, Hameroff, and Tuszyński (2002) identified problematic assumptions in Tegmark's model: unrealistically large superposition separation distances and thermal equilibrium conditions that, as they put it, are "equivalent to death, and thus not appropriate for describing living matter." Their recalculation yielded decoherence times of 10⁻⁵ to 10⁻⁴ seconds—seven orders of magnitude longer than Tegmark's figures. But the recalibration has itself been challenged from two directions: Reimers et al. (2009) argued on energetic grounds that the coherent Fröhlich condensation Orch OR needs is inaccessible in biological tissue, and McKemmish et al. (2009) argued that tubulin does not undergo the rapid conformational switching the qubit picture requires. Taken together, these critiques hold that Hagan's parameter assumptions either rest on microtubule dielectric properties that are not empirically established or specify regimes microtubules do not occupy in living tissue. The Tegmark/Hagan dispute is therefore live rather than settled either way, and the Map's microtubule-scale interest is tenet-driven (Minimal Quantum Interaction) rather than empirically forced.
 
 Biological precedent further weakens the objection. Quantum coherence plays functional roles in photosynthetic energy transfer and avian magnetoreception, where cryptochrome proteins maintain spin coherence for microseconds. If evolution can harness quantum effects for navigation, it might harness them for consciousness. The [[evolutionary-case-for-quantum-neural-effects|evolutionary case for quantum neural effects]] develops this argument systematically: the computational payoffs of quantum effects in neural systems would dwarf those of a compass or a faster enzyme, making neural quantum effects probable rather than merely possible.
 

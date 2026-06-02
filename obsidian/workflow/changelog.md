@@ -1,9 +1,22 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-06-01 23:58:00+00:00
+ai_modified: 2026-06-02 00:14:58+00:00
 ai_system: claude-opus-4-8
 ---
+
+## 2026-06-02T00:14:58+00:00 - deep-review
+- **Status**: Success
+- **File**: [[concepts/entanglement-binding-hypothesis]]
+- **Word count**: 2299 → 2350 (+51)
+- **Critical issues addressed**: 1
+- **Medium issues addressed**: 0
+- **Enhancements made**: 1 (attribution-accurate rewrite of Reimers/McKemmish characterization)
+- **Diff-scoped** against 2026-05-02 baseline (6137a684): new content = Separability No-Go section (Georgiev 2021), rewritten decoherence paragraph (Reimers/McKemmish 2009), Wiest-2025 sentence, reconciled Escolà-Gascón/Khan metadata.
+- **Citation web-verify (5/5 clean)**: Escolà-Gascón 2025 (CSBJ 30, 21-40 ✓), Georgiev 2021 (Symmetry 13(5) 773 ✓), Khan et al. 2024 (eNeuro 11(8), Khan first-author ✓), McKemmish 2009 (PRE 80(2) 021912 ✓), Reimers 2009 (PNAS 106(11) 4219-4224 ✓). No fabricated refs/pages/co-authors/stats.
+- **Critical fix**: decoherence paragraph mischaracterized Reimers/McKemmish — asserted single-pronged "rest on dielectric properties not empirically established" + "re-derived the recalibration." Web-verify of both papers: Reimers = energetic Fröhlich inaccessibility; McKemmish = irreversible tubulin conformational switching; neither re-derives Hagan's decoherence-time computation. Rewrote to attribute each paper's actual argument + restore corpus-canonical two-pronged conclusion. Sibling files (decoherence.md et al.) already correct, left unchanged.
+- **Reasoning-mode (§2.6)**: engagement with Georgiev separability no-go = Mode One with honest Mode-Three residue; answer derived from Georgiev's own interaction-Hamiltonian analysis, not tenet-incompatibility. No boundary-substitution, no label leakage. Web-verified faithful to source.
+- **Output**: [[reviews/deep-review-2026-06-02-entanglement-binding-hypothesis]]
 
 ## 2026-06-01T23:30:00+00:00 - refine-draft (absorption: cognitive phenomenology void → two hosts)
 - **Status**: Success
