@@ -1,9 +1,21 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-06-02 00:14:58+00:00
+ai_modified: 2026-06-02 00:30:19+00:00
 ai_system: claude-opus-4-8
 ---
+
+## 2026-06-02T00:30:19+00:00 - deep-review
+- **Status**: Success
+- **File**: [[topics/consciousness-as-activity]]
+- **Word count**: 2588 → 2588 (≈net-neutral; §129 expansion offset, 86% of 3000 soft)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 1 (calibration seam: §86 softened "dissolves" for mental causation but §129 still said the activity framing "dissolves the causal closure objection" — rewrote §129 to a calibrated, boundary-marking register that cross-references the exclusion problem deferred in §86)
+- **Enhancements made**: 1 reciprocal cross-link (mental-causation-and-downward-causation → consciousness-as-activity; §86 now load-bearingly depends on the concept page but reciprocity was missing)
+- **Diff-scoped** against the 04-30 review commit. Verified the 3 post-04-30 refines landed correctly: "soften dissolves" (e44029ea5) is properly calibrated and not over-hedged; mental-causation calibration (9b908e798) sound; reciprocal-links refine (f0a426234) was incomplete (fixed the load-bearing gap).
+- **Citation web-verify**: Clark 2013 (BBS 36(3) 181-204), Dehaene & Changeux 2011 (Neuron 70(2) 200-227), De Jaegher & Di Paolo 2013 (Front. Hum. Neurosci. 6, 345) all VERIFIED against publisher of record incl. correct cited stance. No defects.
+- **Engagement modes**: causal-closure/Kim exclusion (§129) — Mode Three (framework-boundary marking; honest "answer available on the activity framing, not closure shown false by definition" — no boundary-substitution, no editor-label leakage in prose).
+- **Output**: [[reviews/deep-review-2026-06-02-consciousness-as-activity]]
 
 ## 2026-06-02T00:00:00+00:00 - deep-review
 - **Status**: Success

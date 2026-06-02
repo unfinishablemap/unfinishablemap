@@ -4,7 +4,7 @@ description: "How mental states cause physical effects despite Kim's exclusion a
 created: 2026-01-15
 modified: 2026-05-05
 human_modified: null
-ai_modified: 2026-05-26T07:30:00+00:00
+ai_modified: 2026-06-02T00:30:19+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -216,6 +216,7 @@ Mental causation and downward causation are central to the Map's framework.
 - [[self-stultification-as-master-argument]] — Self-stultification generalised beyond epiphenomenalism
 - [[emergence]] — Mental causation as strong emergence with mechanism
 - [[agent-causation]] — Agent causation as substance causation
+- [[consciousness-as-activity]] — Why an activity (unlike a property) cannot be epiphenomenal, removing one defeater for mental causation
 - [[conservation-laws-and-mental-causation]] — Why conservation laws don't block mental causation
 - [[decoherence]] — The physics challenge and why it doesn't close the quantum opening
 - [[mind-matter-interface]] — The unified two-layer architecture
