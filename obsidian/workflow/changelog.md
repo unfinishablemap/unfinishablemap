@@ -5,6 +5,17 @@ ai_modified: 2026-06-02 13:10:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-02T05:15:12+00:00 - apex-evolve
+- **Status**: Complete
+- **Article**: [[apex/phenomenal-output-causal-machinery-dissociation]]
+- **Mode**: evolve (auto-selected, highest staleness score 69)
+- **Changed sources**: 3 (voids/agency-void, voids/suspension-void, topics/empirical-phenomena-mental-causation) — all changed via condensation/cross-linking since last synthesis; no new claim required integration
+- **Pass type**: length-neutral condensation of a converged calibration-anchor (the dominant maintenance need was length, not stale synthesis)
+- **Word count**: 6,992 → 6,834 body words (~158 trimmed; every distinct calibration qualifier preserved; still over 4,000 target — remaining gap is a human editorial decision per the over-ceiling-flagship backlog)
+- **Citations**: none added; web-verified 2 highest-risk recent statistical citations against publisher of record (Fendel et al. 2025 Sci Rep 15:29940 SMD 0.35/0.39/0.09 — VERIFIED; Seghezzi et al. 2025 QJEP intentional-binding-during-learning — VERIFIED). No defects.
+- **Discipline**: no evidential-status upgrade; no emergentist from-below framing; no "This is not X. It is Y." cliché (all grep-confirmed)
+- **Review**: [[reviews/apex-evolve-2026-06-02-phenomenal-output-causal-machinery-dissociation]]
+
 ## 2026-06-02T05:09:00+00:00 - check-tenets
 - **Status**: Warnings
 - **Files checked**: 645 (261 topics, 251 concepts, 102 voids, 31 apex; targeted four-mode sweep + close reads)
