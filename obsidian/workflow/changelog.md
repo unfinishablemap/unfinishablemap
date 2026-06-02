@@ -5,6 +5,17 @@ ai_modified: 2026-06-02 13:10:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-02T06:00:56+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[topics/analytic-idealism-and-mind-centric-metaphysics]]
+- **Source**: topic-concept anchoring-audit ([[project/calibration-audit-triple]] Audit Three), anchor [[idealism]]. 1 live flag: failed checks hedge_density (2.48/kw vs anchor 5.15/kw) + underdetermination_markers (0 vs anchor 1). NOT over-assertion (strong_assertion_density 0.0, below anchor 1.03) — genuine gap was under-hedging + missing underdetermination marking on a contested metaphysical comparison.
+- **Changes** (length-neutral genuine calibration, central thesis preserved):
+  - PRIMARY — added underdetermination marking at the two genuinely-contested idealism-vs-dualism junctures. In "The Map's Position": new paragraph stating both views are non-physicalist responses to the hard problem, the phenomenal data "do not adjudicate between them," the Map's preference rests on theoretical-virtue / tenet-grounded reasons "rather than on evidence that forces dualism over idealism," and "the choice is underdetermined by the data." In "Relation to Site Perspective": marked idealism as "a coherent alternative the Map has not empirically defeated" and the two readings as "compatible with both interpretations," framing the disagreement as "theoretical commitment rather than empirical verdict."
+  - SECONDARY — modest genuine hedges where contestable metaphysical claims read too flatly (may/perhaps), lifting hedge density 2.48→2.93/kw. Did NOT chase the anchor's 5.15/kw outlier bar (over-hedge-into-mush avoided).
+  - Honoured [[evidential-status-discipline]]: the Map HOLDS dualism (Tenet 1) but now presents the idealism-vs-dualism comparison as underdetermined with the preference reasons-based. Doctrine intact: bi-aspectual co-fundamental dualism; thesis (Map prefers dualism over idealism, with its reasons) unweakened.
+  - Verification: re-ran tools.curate.anchoring.evaluate_anchoring → 0 flags (was 1). Both failed checks now pass.
+- **Published**: yes
+
 ## 2026-06-02T05:55:28+00:00 - refine-draft
 - **Status**: Success
 - **Files**: [[concepts/interactionist-dualism]], [[topics/the-strong-emergence-of-consciousness]]
