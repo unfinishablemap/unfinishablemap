@@ -4,8 +4,8 @@ description: "Is consciousness constitutively intersubjective or fundamentally s
 created: 2026-03-21
 modified: 2026-03-21
 human_modified:
-ai_modified: 2026-05-28T00:00:00+00:00
-last_deep_review: 2026-05-08T13:06:00+00:00
+ai_modified: 2026-06-02T07:35:02+00:00
+last_deep_review: 2026-06-02T07:35:02+00:00
 draft: false
 topics:
   - "[[consciousness]]"

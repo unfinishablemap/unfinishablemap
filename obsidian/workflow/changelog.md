@@ -5,6 +5,16 @@ ai_modified: 2026-06-02 13:30:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-02T07:35:02+00:00 - deep-review
+- **Status**: Success
+- **File**: [[topics/consciousness-and-intersubjectivity]]
+- **Word count**: 2872 → 2872 (+0; metadata-only acceptance, converged)
+- **Critical issues addressed**: 0 (none found — sixth converged review)
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Audit results**: Targeted audit of the 2026-05-28 "theory-of-mind calibration" refine (commit 43ae39032, 7+/7-) per task brief. (a) Framing-not-finding PASS — Trevarthen passage moved from "research shows... not mere stimulus-response" to "read as evidence... may exceed... interpretation remains contested"; enrichment claim moved from "Only intersubjective encounter activates" to "the Map's working hypothesis" + explicit "open question that the available evidence does not settle." Developmental-psychology/empathy claims no longer read as asserted empirical results. (b) Evidential-status discipline PASS — every diff edit moves in the defeater-removal/possibility-register direction; "demonstrates"→"suggests" with distributed-phenomenality rival granted coherence BEFORE its burden named; "dualism predicts exactly this"→"is at least coherent with this datum" removes epistemic→metaphysical slide; no possibility→probability slippage. Diagnostic test returns NO everywhere (no tenet-accepting reviewer would flag overstatement). No over-hedging — central thesis still asserted. (c) Citation stance-check: web-verified Oostenbroek et al. (2016, Current Biology, neonatal-imitation replication failure) and Trevarthen (1979, Bullowa ed. Before Speech 321–347, primary intersubjectivity) — surname/year/venue/stance all CORRECT; remaining canonical cites untouched since 05-08, verified; no fabrication/tidying. (d) All body wikilinks resolve LIVE; brief-flagged [[other-minds-void]] is NOT referenced in this article (uses [[voids-between-minds]]/[[problem-of-other-minds]]) — no blind repoint. (e) No "This is not X. It is Y." cliché, no label/refinement-log leakage. last_deep_review + ai_modified → 2026-06-02T07:35:02+00:00.
+- **Output**: [[reviews/deep-review-2026-06-02-consciousness-and-intersubjectivity]]
+
 ## 2026-06-02T07:24:27+00:00 - deep-review
 - **Status**: Success
 - **File**: [[voids/intrinsic-nature-void]]
