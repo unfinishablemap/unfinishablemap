@@ -5,6 +5,20 @@ ai_modified: 2026-06-02T20:51:38+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-02T20:57:43+00:00 - deep-review
+- **Status**: Success
+- **File**: [[concepts/quantum-indeterminacy-free-will]]
+- **Word count**: 2622 → 2641 body (+19; citation-metadata corrections only, no content change)
+- **Four-bucket**: 6th deep review of a converged article; verification-focused. Web-verified every one of 17 citations at publisher of record. (a) 4 metadata defects fixed; (b) 13 verified clean.
+- **Critical issues addressed**: 4 — all citation metadata. (1) Sjöberg 2024 *Brain* page range 2267-2274 → **2267-2269** (the corpus-flagged defect that survived to a 24th review — it's a 3-page perspective; full title also restored). (2) Stapp year **2001 → 2004**: no 2001 Springer edition exists (editions are 1993/2004/2009); fixed to the real 2nd ed. (3) Cramer 1986 *Rev Mod Phys* end page 647-687 → **647-688**. (4) O'Connor "Agent Causation" garbled venue/year: cited as *Oxford Handbook of Causation* (2009, Beebee et al.) but that essay is O'Connor's **1995** piece in *Agents, Causes, and Events* (ed. O'Connor, OUP); the 2009 O'Connor title is a different work ("Agent-Causal Power"). Fixed to verified 1995 citation.
+- **Citation web-verify verdicts**: Sjöberg 2024 = PAGE-RANGE ERROR (fixed) + title restored; Stapp = WRONG-YEAR/non-existent-edition (fixed→2004); Cramer 1986 = END-PAGE off-by-one (fixed→688); O'Connor "Agent Causation" = WRONG VENUE+YEAR (fixed→1995 *Agents, Causes, and Events*). VERIFIED CLEAN: Kane 2024 *Complex Tapestry* (real, OUP, exists — NOT fabricated), Mele 2024 *JVI* 58:651-658 (real), Schurger 2012 *PNAS* 109(42) E2904-E2913, Tegmark 2000 *PRE* 61(4) 4194-4206, Koch & Tsuchiya 2007 *TiCS* 11(1) 16-22, Khan/Wiest 2024 *eNeuro* 11(8) ENEURO.0291-24.2024, Chisholm 1964, Kim 2005, Lowe 2008, Mele 2006, Van Inwagen 1983, O'Connor 2000, Kane 1996, James 1890. The two Kane / two Mele entries confirmed distinct real works.
+- **Calibration check**: INTACT, no possibility/probability slippage. Luck objection stays framework-dependent + live; MQI/quantum-selection posited-not-established; MWI ontological-extravagance-as-cost (recent fix) preserved; photosynthesis precedent-not-licence preserved; no epistemic→metaphysical slide; randomness ≠ agency.
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 (converged article; verification pass only)
+- **Engagement modes** (editor-internal): luck objection = Mode Three; Tegmark decoherence = Mixed (Mode One + empirical); Dennett/illusionism = Mode Two; Kim exclusion = Mode One; MWI = Mode Three. No label leakage.
+- **Length**: 2641 body words (106% of 2500 soft; well under 3500 hard). No length action.
+- **Output**: [[reviews/deep-review-2026-06-02-quantum-indeterminacy-free-will]]
+
 ## 2026-06-02T20:51:38+00:00 - deep-review
 - **Status**: Success
 - **File**: [[topics/consciousness-and-the-phenomenology-of-translation]]
