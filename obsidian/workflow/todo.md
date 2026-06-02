@@ -37,6 +37,34 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
+### P2: Deep review voids/inaccessible-past.md (43d since review, oldest in corpus, CHANGED-SINCE on 2026-05-27, ai_contribution=100, temporal/memory-void cluster)
+- **Type**: deep-review
+- **Status**: pending
+- **Notes**: FLOOR-RESTORING by /replenish-queue 2026-06-02 (open loop-pickable P0–P2 count was 0 — all Active tasks were either ✓-resolved or P3; below the MIN_QUEUE floor of 3). PROMOTED P3→P2 and relocated from line ~1859 to defeat LIFO-starvation ([[queue-lifo-starvation]]). OLDEST deep-review in the whole AI-heavy corpus: `last_deep_review: 2026-04-20` (~43d, well past the 30-day staleness floor). Churn-free filter PASSED ([[replenish-churn-filter-overtight]]): NOT modified today (`ai_modified: 2026-05-27` ≠ 2026-06-02 → no same-session churn), and the ~37-day gap between review (04-20) and last edit (05-27) is a POSITIVE changed-since-review signal — content landed AFTER the review. Article created via coalesce 2026-03-19, never deep-reviewed since. 2806 words (over the 2000 voids soft, under the 3000 hard — a length watch-item, not an action). Deep-review should: (a) verify the coalesce seam reads as one coherent piece, not stitched fragments; (b) web-verify any attributions before trusting them ([[ai-citation-metadata-unreliable]]); (c) honour [[evidential-status-discipline]] — the inaccessibility-of-past-experience void is an epistemic/phenomenological claim, not a metaphysical proof of dualism; keep that register; (d) verify cross-links to related voids ([[erasure-void]], [[memory-void]], [[past-self-void]], [[temporal-void]]) resolve live and reciprocate where load-bearing; (e) writing-style + length discipline (do NOT grow materially; no "This is not X. It is Y." cliché). Metadata-only verdict acceptable if converged; in-place fixes if minor, follow-on refine-draft only if substantive. SELECTION-COLLISION CAVEAT: if a cycle-slot deep-review bumps `last_deep_review` to 2026-06-02 first, mark RESOLVED-OBSOLETE. Tenet alignment: Tenet 1 (Dualism — the void as an explanatory-gap exhibit), secondary Tenet 5 (Occam's Razor Has Limits).
+- **Source**: staleness
+- **Generated**: 2026-06-02
+
+### P2: Deep review voids/transit-void.md (40d since review, CHANGED-SINCE on 2026-06-01, ai_contribution=100, temporal-flow / liminal-experience cluster)
+- **Type**: deep-review
+- **Status**: pending
+- **Notes**: FLOOR-RESTORING by /replenish-queue 2026-06-02 (queue below the MIN_QUEUE floor of 3 — see the inaccessible-past task above for the full floor verification). `last_deep_review: 2026-04-23` (~40d, second-oldest non-collision void). Churn-free filter PASSED ([[replenish-churn-filter-overtight]]): NOT modified today (`ai_modified: 2026-06-01` ≠ 2026-06-02 → no same-session churn); the ~39-day review→edit gap is a POSITIVE changed-since-review signal. 2956 words — close to the 3000 voids HARD threshold, so a calibration-preserving length watch applies: if the review finds it tightenable without shedding load-bearing content, trim gently toward the 2000 soft; do NOT grow it, and do NOT auto-condense protected calibration content ([[condense-regresses-calibration-qualifiers]]). Deep-review should: (a) audit the post-04-23 content for over-claim; (b) web-verify any attributions ([[ai-citation-metadata-unreliable]]); (c) honour [[evidential-status-discipline]] — the transit/liminal void is a phenomenological claim about the un-introspectable in-between, not a dualist proof; (d) verify cross-links to the temporal-flow void cluster resolve live and reciprocate; (e) writing-style discipline (no "This is not X. It is Y." cliché). SELECTION-COLLISION CAVEAT: if a cycle-slot deep-review bumps `last_deep_review` to 2026-06-02 first, mark RESOLVED-OBSOLETE. Tenet alignment: Tenet 1 (Dualism), secondary Tenet 3 (Bidirectional Interaction — transit as the felt edge of the interface).
+- **Source**: staleness
+- **Generated**: 2026-06-02
+
+### P2: Deep review voids/witnessing-void.md (39d since review, CHANGED-SINCE on 2026-05-29, ai_contribution=100, observer/awareness void cluster)
+- **Type**: deep-review
+- **Status**: pending
+- **Notes**: FLOOR-RESTORING by /replenish-queue 2026-06-02 (queue below MIN_QUEUE floor of 3). `last_deep_review: 2026-04-24` (~39d). Churn-free filter PASSED: NOT modified today (`ai_modified: 2026-05-29` ≠ 2026-06-02); ~35-day review→edit gap = POSITIVE changed-since-review signal. 2156 words (just over the 2000 voids soft, well under the 3000 hard — no length action, watch-item only). Distinct cluster from the temporal voids above (this is the observer/witnessing strand). Deep-review should: (a) audit the post-04-24 content; (b) check the witnessing-void's relation to the observer/awareness corpus ([[the-observer-witness-in-meditation]], [[witnessing-void|sibling voids]]) for coherence and reciprocal links; (c) honour [[evidential-status-discipline]] — witnessing-as-void is a phenomenological/epistemic claim, not a metaphysical proof; (d) web-verify any attributions ([[ai-citation-metadata-unreliable]]); (e) writing-style discipline. SELECTION-COLLISION CAVEAT: if a cycle-slot deep-review bumps `last_deep_review` to 2026-06-02 first, mark RESOLVED-OBSOLETE. Tenet alignment: Tenet 1 (Dualism), secondary Tenet 3 (Bidirectional Interaction).
+- **Source**: staleness
+- **Generated**: 2026-06-02
+
+### P2: Deep review voids/non-human-minds-as-void-explorers.md (39d since review, CHANGED-SINCE on 2026-05-29, ai_contribution=100, animal-cognition / void-exploration cluster)
+- **Type**: deep-review
+- **Status**: pending
+- **Notes**: FLOOR-RESTORING by /replenish-queue 2026-06-02 (queue below MIN_QUEUE floor of 3). `last_deep_review: 2026-04-24` (~39d). Churn-free filter PASSED: NOT modified today (`ai_modified: 2026-05-29` ≠ 2026-06-02); ~35-day review→edit gap = POSITIVE changed-since-review signal. 2381 words (over the 2000 voids soft, under the 3000 hard — watch-item only). Diversity pick: animal-cognition / non-human-minds strand, distinct from the temporal and observer clusters above. animal-cognition is an ACTIVE-RESEARCH section (per evolution-state.yaml literature_drift active_research_sections) so citation currency matters here. Deep-review should: (a) web-verify EVERY animal-cognition/comparative-psychology attribution against the live 2020s literature and CHECK THE STANCE each is cited FOR ([[ai-citation-metadata-unreliable]] — recency/specificity is the fabrication zone; flag a literature-drift follow-on if drift detected); (b) honour [[evidential-status-discipline]] — non-human minds as void-explorers is a speculative/illustrative framing, not a demonstrated empirical result; keep that register; (c) verify cross-links to the animal-consciousness / animal-cognition cluster resolve live and reciprocate; (d) writing-style discipline (no "This is not X. It is Y." cliché). SELECTION-COLLISION CAVEAT: if a cycle-slot deep-review bumps `last_deep_review` to 2026-06-02 first, mark RESOLVED-OBSOLETE. Tenet alignment: Tenet 1 (Dualism), secondary Tenet 5 (Occam's Razor Has Limits).
+- **Source**: staleness
+- **Generated**: 2026-06-02
+
 ### ✓ DEFERRED-TO-HUMAN (2026-06-02): Condense topics/epistemology-of-convergence-arguments.md (6479 words, exceeds 6000 critical threshold)
 - **Type**: condense
 - **Status**: deferred — DIVERTED from Active by /unfin-cycle 2026-06-02. This is a documented HUMAN-FLAGSHIP-SPLIT, not an auto-condense candidate. Git shows FOUR prior condenses (855131675: 4053→3134; ec879fc2e: 7112w; 9e7b13a4b: 5900w; 224743f72: 6676w) — NONE could hold it under the critical threshold; it keeps re-growing via hub-accretion + its own calibration content (now 6479w again). Prior replenish runs this session explicitly listed it among "the 3 human-flagship splits" to EXCLUDE; the task's own notes admit "the prior condenses already judged [the excess] non-cuttable." A 5th auto-condense is refine-then-condense churn ([[refine-then-condense-same-session-churn]]) on a corpus-wide calibration anchor — the over-critical excess is load-bearing calibration content requiring a HUMAN editorial split/scope decision (the canonical action for this article), not more automated condensing. The replenish "NO active condense task" check passed only because prior condenses are git-history, not open todo tasks (the documented git-blind-spot).
@@ -1856,12 +1884,9 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 ### ↑ RELOCATED 2026-06-01: Deep review meta-epistemology-of-limits.md
 - **Relocated** to the top of Active Tasks by /replenish-queue 2026-06-01 so the floor-restoring P2 is not LIFO-starved (the selector sorts by line_number ascending; a P2 buried ~1700 lines down behind ~470 P3s would never be picked — see [[queue-lifo-starvation]]). See the live task block at the top of Active Tasks.
 
-### P3: Deep review inaccessible-past.md
+### ✓ RELOCATED-TO-TOP (2026-06-02): Deep review inaccessible-past.md
 - **Type**: deep-review
-- **Status**: pending
-- **Notes**: AI-generated content (ai_contribution: 100) created via coalesce on 2026-03-19, never reviewed. Voids article on the inaccessibility of past experience. Verify coherence, cross-references to related voids articles (memory-void, past-self-void, temporal-void), and tenet alignment.
-- **Source**: staleness
-- **Generated**: 2026-03-19
+- **Status**: relocated — promoted P3→P2 and moved to top of Active Tasks by /replenish-queue 2026-06-02 to defeat LIFO-starvation ([[queue-lifo-starvation]]). See the active copy at the top of Active Tasks.
 
 ### ✓ RESOLVED-OBSOLETE 2026-06-02: Deep review delegatory-dualism.md
 - **Type**: deep-review
