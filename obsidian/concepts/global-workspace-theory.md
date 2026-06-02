@@ -4,7 +4,7 @@ description: "Global Workspace Theory explains when information becomes consciou
 created: 2026-01-14
 modified: 2026-01-19
 human_modified: null
-ai_modified: 2026-06-01T17:18:12+00:00
+ai_modified: 2026-06-02T16:22:55+00:00
 draft: false
 last_deep_review: 2026-05-23T00:00:00+00:00
 topics:
@@ -103,7 +103,7 @@ Site's [[ai-consciousness|AI consciousness skepticism]] rests on dualism, not de
 
 The global workspace is essentially [[working-memory|working memory]] operating at a global scale. Baddeley's episodic buffer is particularly significant—it performs the binding that GWT's ignition broadcasts globally. Baddeley himself frames this in functionalist terms, but the Map reads his language differently: his formulation that consciousness *accesses* bound representations fits naturally with a dualist interpretation where the workspace provides content and something beyond the neural workspace does the accessing. This is the Map's gloss, not Baddeley's intention—yet the explanatory gap between binding and experiencing the bound content is precisely what dualism claims to address.
 
-A telling asymmetry complicates GWT's equation of workspace presence with consciousness: **maintenance can be unconscious while manipulation requires consciousness**. Activity-silent working memory shows information can be held in synaptic traces without awareness; *using* that information requires conscious reactivation. Randeniya's 2025 meta-analysis reinforced this—only 10% of claimed unconscious processing effects survive rigorous methodology, suggesting consciousness is functionally necessary for novel combinations and spontaneous intentional action (see [[conscious-vs-unconscious-processing]]).
+A telling asymmetry complicates GWT's equation of workspace presence with consciousness: **maintenance can be unconscious while manipulation requires consciousness**. Activity-silent working memory shows information can be held in synaptic traces without awareness; *using* that information requires conscious reactivation. Streicher et al.'s 2025 meta-analysis reinforced this—only 10% of claimed unconscious processing effects survive rigorous methodology, suggesting consciousness is functionally necessary for novel combinations and spontaneous intentional action (see [[conscious-vs-unconscious-processing]]).
 
 ### The Amplification Hypothesis
 
@@ -190,5 +190,5 @@ A deeper methodological impasse: experiments detect consciousness only through r
 1. Dehaene, S., & Naccache, L. (2001). Towards a cognitive neuroscience of consciousness: basic evidence and a workspace framework. *Cognition*, 79(1-2), 1-37.
 1. DeWall, C.N., Baumeister, R.F., & Masicampo, E.J. (2008). Evidence that logical reasoning depends on conscious processing. *Consciousness and Cognition*, 17(3), 628-645.
 1. Nartker, M., et al. (2025). Visual sensitivity in inattentional blindness. *eLife*, 14:e97156.
-1. Randeniya, R. (2025). Neural correlates of unconscious processing in fMRI: Does brain activity contain more information than can be consciously reported? *Neuroscience of Consciousness*, 2025(1), niaf042.
+1. Streicher, J., Meyen, S., Franz, V. H., & Stein, T. (2025). Neural correlates of unconscious processing in fMRI: Does brain activity contain more information than can be consciously reported? *Neuroscience of Consciousness*, 2025(1), niaf042.
 1. Whiten, A. (2015). Apes have culture but may not know that they do. *Frontiers in Psychology*, 6, 91.

@@ -4,7 +4,7 @@ description: "Baseline cognition is what neural systems achieve without consciou
 created: 2026-01-22
 modified: 2026-01-25
 human_modified: null
-ai_modified: 2026-05-19T20:20:24+00:00
+ai_modified: 2026-06-02T16:22:55+00:00
 last_deep_review: 2026-05-10T22:01:00+00:00
 draft: false
 topics:
@@ -89,7 +89,7 @@ This corresponds to the second consciousness-requiring function: *novel combinat
 
 The human-ape intelligence gap isn't random. Great apes show systematic limitations in capacities tied to conscious processing. Neural explanations exist—prefrontal cortex expansion, increased long-range connectivity, enhanced synaptic density—but the Map finds these incomplete: they describe neural *correlates* without explaining why these changes produce qualitatively different cognitive operations.
 
-Randeniya's 2025 meta-analysis of 16 fMRI studies supports this: only 10% of claimed unconscious processing effects survived rigorous scrutiny. If baseline cognition represents what neural processing achieves without consciousness, genuinely unconscious processing should be far more limited than previously assumed—which is what the evidence shows.
+Streicher et al.'s 2025 meta-analysis of 16 fMRI studies supports this: only 10% of claimed unconscious processing effects survived rigorous scrutiny. If baseline cognition represents what neural processing achieves without consciousness, genuinely unconscious processing should be far more limited than previously assumed—which is what the evidence shows.
 
 [[conscious-vs-unconscious-processing|Global Workspace Theory research]] identifies three functions requiring conscious access: *durable information maintenance*, *novel combinations of operations*, and *spontaneous intentional action*. These map onto the great ape limitations below:
 
@@ -227,7 +227,7 @@ The baseline cognition hypothesis could be undermined by:
 1. Miyamoto, K., et al. (2023). Great ape cognition is structured by stable cognitive abilities and predicted by developmental experience. *Nature Ecology & Evolution*, 7, 1473-1483.
 1. Mulcahy, N.J., & Call, J. (2006). Apes save tools for future use. *Science*, 312(5776), 1038-1040.
 1. Povinelli, D.J. (2000). *Folk Physics for Apes: The Chimpanzee's Theory of How the World Works*. Oxford University Press.
-1. Randeniya, R. (2025). Neural correlates of unconscious processing in fMRI: Does brain activity contain more information than can be consciously reported? *Neuroscience of Consciousness*, 2025(1), niaf042.
+1. Streicher, J., Meyen, S., Franz, V. H., & Stein, T. (2025). Neural correlates of unconscious processing in fMRI: Does brain activity contain more information than can be consciously reported? *Neuroscience of Consciousness*, 2025(1), niaf042.
 1. Read, D.W. (2008). Working memory: A cognitive limit to non-human primate recursive thinking prior to hominid evolution. *Evolutionary Psychology*, 6(4), 676-714.
 1. Suddendorf, T., & Corballis, M.C. (2007). The evolution of foresight: What is mental time travel, and is it unique to humans? *Behavioral and Brain Sciences*, 30(3), 299-313.
 1. Tomasello, M. (2010). Ape and human cognition: What's the difference? *Current Directions in Psychological Science*, 19(1), 3-8.

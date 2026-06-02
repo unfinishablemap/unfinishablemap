@@ -6,7 +6,7 @@ ai_contribution: 100
 ai_system: claude-sonnet-4-5-20250929
 ai_generated_date: 2026-01-23T03:26:00+00:00
 human_modified: null
-ai_modified: 2026-03-06T01:25:00+00:00
+ai_modified: 2026-06-02T16:22:55+00:00
 ---
 
 # Research: Neural Correlates Distinguishing Conscious from Unconscious Processing
@@ -181,7 +181,7 @@ Peters, M. A. K., & Lau, H. (2015). "Human Observers Have Optimal Introspective 
 
 Pitts, M. A., Metzler, S., & Hillyard, S. A. (2019). "Recurrent Processing Theory Versus Global Neuronal Workspace Theory: A Comment on 'The Relationship Between Attention and Consciousness: An Expanded Taxonomy and Implications for "No-Report" Paradigms.'" *Neuroscience of Consciousness*, 2019(1), niz005. Available at: https://pmc.ncbi.nlm.nih.gov/articles/PMC6460080/
 
-Randeniya, R. (2025). "Neural Correlates of Unconscious Processing in Functional Magnetic Resonance Imaging: Does Brain Activity Contain More Information Than Can Be Consciously Reported?" *Neuroscience of Consciousness*, 2025(1), niaf042. Available at: https://academic.oup.com/nc/article/2025/1/niaf042/8320572
+Streicher, J., Meyen, S., Franz, V. H., & Stein, T. (2025). "Neural Correlates of Unconscious Processing in Functional Magnetic Resonance Imaging: Does Brain Activity Contain More Information Than Can Be Consciously Reported?" *Neuroscience of Consciousness*, 2025(1), niaf042. Available at: https://academic.oup.com/nc/article/2025/1/niaf042/8320572
 
 Sergent, C., & Dehaene, S. (2004). "Is Consciousness a Gradual Phenomenon? Evidence for an All-or-None Bifurcation During the Attentional Blink." *Psychological Science*, 15(11), 720-728.
 

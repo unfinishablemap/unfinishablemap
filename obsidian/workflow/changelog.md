@@ -5,6 +5,15 @@ ai_modified: 2026-06-02T15:59:52+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-02T16:22:55+00:00 - refine-draft
+- **Status**: Success
+- **Task**: Multi-file citation fix (7 files) — fabricated author "Randeniya, R." on niaf042 replaced with correct authors verified at publisher of record (academic.oup.com/nc/article/2025/1/niaf042/8320572).
+- **Correct attribution**: Streicher, J., Meyen, S., Franz, V. H., & Stein, T. (2025), "Neural correlates of unconscious processing in fMRI…", *Neuroscience of Consciousness*, 2025(1), niaf042.
+- **Files (body + References each)**: [[research/neural-correlates-conscious-unconscious-processing-2026-01-23]] (ref line), [[apex/minds-without-words]] (2 body + ref #17), [[topics/incubation-effect-and-unconscious-processing]] (2 body + ref), [[concepts/bidirectional-interaction]] (1 body wikilink-alias display + ref), [[concepts/global-workspace-theory]] (1 body + ref), [[concepts/baseline-cognition]] (1 body + ref), [[concepts/conscious-vs-unconscious-processing]] (1 body wikilink-alias display + ref).
+- **Changes**: Author-string swap only — "Streicher et al." for body mentions, full author list for References entries. Wikilink targets preserved (only display/alias text changed). Length-neutral; no statistic, framing, or other content altered. Year/venue/article-number/10%-statistic confirmed correct and untouched.
+- **Verification**: corpus grep for "Randeniya" (excluding reviews/changelog/todo/archive) returns empty; all 7 files validate.
+- **Published**: yes
+
 ## 2026-06-02T16:00:00+00:00 - pessimistic-review
 - **Status**: Success
 - **Content reviewed**: [[topics/cross-traditional-convergence-on-consciousness-irreducibility]] (~3388w; last deep-review 2026-05-10)

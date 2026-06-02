@@ -4,7 +4,7 @@ description: "Non-linguistic consciousness from animals to simple organisms. The
 created: 2026-01-31
 modified: 2026-01-31
 human_modified: null
-ai_modified: 2026-05-31T09:29:10+00:00
+ai_modified: 2026-06-02T16:22:55+00:00
 last_deep_review: 2026-05-21T08:00:00+00:00
 draft: false
 topics:
@@ -98,7 +98,7 @@ The Map offers a complementary interpretation. The hypothesis proposes that grea
 
 **Cumulative culture**: Whiten (2015) proposes that "apes have culture but may not know that they do." [[cumulative-culture|Cumulative culture]] requires metarepresentation — representing the current method as modifiable. Without it, traditions persist within the "zone of latent solutions" but do not systematically accumulate.
 
-Randeniya's (2025) meta-analysis of 16 fMRI studies found only 10% of claimed unconscious processing effects survived rigorous scrutiny — converging with comparative cognition to show that genuinely unconscious processing is far more limited than previously assumed. The human-ape gap tracks consciousness-dependent capacities at the *type* grain: precisely *these* operations rather than a uniform performance shift, which a generic resource-expansion account cannot deliver. If consciousness were [[concepts/epiphenomenalism|epiphenomenal]], this type-specific correspondence would be unexplained coincidence.
+Streicher et al.'s (2025) meta-analysis of 16 fMRI studies found only 10% of claimed unconscious processing effects survived rigorous scrutiny — converging with comparative cognition to show that genuinely unconscious processing is far more limited than previously assumed. The human-ape gap tracks consciousness-dependent capacities at the *type* grain: precisely *these* operations rather than a uniform performance shift, which a generic resource-expansion account cannot deliver. If consciousness were [[concepts/epiphenomenalism|epiphenomenal]], this type-specific correspondence would be unexplained coincidence.
 
 ### Two Interactionist Readings of the Gap
 
@@ -138,7 +138,7 @@ The individual source articles establish components — animal consciousness as 
 
 **Consciousness is more fundamental than cognition, but the inference is asymmetric.** Sophisticated cognition can occur without the metarepresentational capacities distinguishing human intelligence; emotional consciousness may extend far down the phylogenetic tree. A bee might have genuine phenomenal experience while lacking the metacognitive apparatus to reflect on it. The capacity for experience is more primitive than the capacity to represent that experience. But "more fundamental" here means *prior in the order of explanation* under the Map's framework — it does not mean the simpler organisms positively *have* it. The marker method's verdict at the contested invertebrate frontier and the *speculative integration* tier for boundary organisms reflect exactly that asymmetry.
 
-**The interface picture and the standing agnostic challenge cohabit.** Multiple independent origins across vertebrates, cephalopods, and arthropods fit poorly with emergence from specific neural structures and well with interface dualism. The type-specific correspondence between consciousness-dependent capacities and the human-ape gap provides positive evidence for consciousness doing causal work. The Randeniya (2025) meta-analysis strengthens this — genuinely unconscious processing is more limited than assumed. But all of this is constrained by Gutfreund's challenge: third-person methods cannot settle a first-person question. The Map's preferred framing routes through markers, convergent evolution, and the no-substrate-barrier commitment rather than through the IIT/GNWT theories COGITATE found weakened. The framework is in-principle falsifiable; application waits on instrumentation, not on the framework's elaboration.
+**The interface picture and the standing agnostic challenge cohabit.** Multiple independent origins across vertebrates, cephalopods, and arthropods fit poorly with emergence from specific neural structures and well with interface dualism. The type-specific correspondence between consciousness-dependent capacities and the human-ape gap provides positive evidence for consciousness doing causal work. The Streicher et al. (2025) meta-analysis strengthens this — genuinely unconscious processing is more limited than assumed. But all of this is constrained by Gutfreund's challenge: third-person methods cannot settle a first-person question. The Map's preferred framing routes through markers, convergent evolution, and the no-substrate-barrier commitment rather than through the IIT/GNWT theories COGITATE found weakened. The framework is in-principle falsifiable; application waits on instrumentation, not on the framework's elaboration.
 
 **The moral stakes are real and asymmetric.** Birch's valence sentientism — that the capacity for negatively valenced experience grounds moral consideration — combined with phenomenal value realism gives the New York Declaration's precautionary stance philosophical bite. When uncertainty about consciousness carries moral weight, ignoring it is irresponsible. The asymmetry between animal and AI inference grounds matters here too: we have evolutionary, neural, and behavioural homologies with animals that we do not have with current AI.
 
@@ -193,7 +193,7 @@ This apex article synthesises:
 14. Nagel, T. (1974). What is it like to be a bat? *The Philosophical Review*, 83(4), 435–450.
 15. New York Declaration on Animal Consciousness. (2024). NYU Conference.
 16. Panksepp, J. (1998). *Affective Neuroscience: The Foundations of Human and Animal Emotions*. Oxford University Press.
-17. Randeniya, R. (2025). Neural correlates of unconscious processing in fMRI: Does brain activity contain more information than can be consciously reported? *Neuroscience of Consciousness*, 2025(1), niaf042.
+17. Streicher, J., Meyen, S., Franz, V. H., & Stein, T. (2025). Neural correlates of unconscious processing in fMRI: Does brain activity contain more information than can be consciously reported? *Neuroscience of Consciousness*, 2025(1), niaf042.
 18. Scheler, M. (1913/1973). *Formalism in Ethics and Non-Formal Ethics of Values*. Northwestern University Press.
 19. Wandrey, M.-M., & Halina, M. (2025). The evolution of animal consciousness. *Philosophy Compass*.
 20. Whiten, A. (2015). Apes have culture but may not know that they do. *Frontiers in Psychology*, 6, 91.

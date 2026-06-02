@@ -4,7 +4,7 @@ description: "Consciousness and matter causally influence each other. This tenet
 created: 2026-01-23
 modified: 2026-01-24
 human_modified:
-ai_modified: 2026-05-26T00:00:00+00:00
+ai_modified: 2026-06-02T16:22:55+00:00
 last_deep_review: 2026-05-26T00:00:00+00:00
 draft: false
 topics:
@@ -87,7 +87,7 @@ A persistent objection concerns timescales: Tegmark (2000) calculated quantum [[
 
 ### The Consciousness-Reasoning Connection
 
-The conscious/unconscious processing literature reveals systematic asymmetries. [[conscious-vs-unconscious-processing|Randeniya's 2025 meta-analysis]] found that only 10% of claimed unconscious processing effects in fMRI studies survive rigorous methodology—most purported demonstrations of "unconscious cognition" reflect weak stimuli or brief exposure, not genuine bypassing of consciousness. Global Neuronal Workspace Theory (Dehaene, Changeux) identifies three cognitive functions requiring consciousness: durable maintenance (keeping information available beyond brief windows), novel combinations (creating new representations from existing elements), and spontaneous intentional action (initiating behavior without external triggers). If consciousness were epiphenomenal, it could not enable functions that unconscious processing cannot achieve.
+The conscious/unconscious processing literature reveals systematic asymmetries. [[conscious-vs-unconscious-processing|Streicher et al.'s 2025 meta-analysis]] found that only 10% of claimed unconscious processing effects in fMRI studies survive rigorous methodology—most purported demonstrations of "unconscious cognition" reflect weak stimuli or brief exposure, not genuine bypassing of consciousness. Global Neuronal Workspace Theory (Dehaene, Changeux) identifies three cognitive functions requiring consciousness: durable maintenance (keeping information available beyond brief windows), novel combinations (creating new representations from existing elements), and spontaneous intentional action (initiating behavior without external triggers). If consciousness were epiphenomenal, it could not enable functions that unconscious processing cannot achieve.
 
 ### Clinical Neuroplasticity
 
@@ -183,7 +183,7 @@ Together with Minimal Quantum Interaction, this tenet commits the Map to [[inter
 1. Dennett, D. C. (1991). *Consciousness Explained*. Little, Brown and Company.
 1. Frankish, K. (2016). "Illusionism as a theory of consciousness." *Journal of Consciousness Studies*, 23(11-12), 11-39.
 1. Kim, J. (2005). *Physicalism, or Something Near Enough*. Princeton University Press.
-1. Randeniya, R. (2025). "Neural correlates of unconscious processing in fMRI: Does brain activity contain more information than can be consciously reported?" *Neuroscience of Consciousness*, 2025(1), niaf042.
+1. Streicher, J., Meyen, S., Franz, V. H., & Stein, T. (2025). "Neural correlates of unconscious processing in fMRI: Does brain activity contain more information than can be consciously reported?" *Neuroscience of Consciousness*, 2025(1), niaf042.
 1. Stapp, H. P. (2007). *Mindful Universe: Quantum Mechanics and the Participating Observer*. Springer.
 1. Tegmark, M. (2000). "Importance of quantum decoherence in brain processes." *Physical Review E*, 61(4), 4194-4206.
 1. Tomasello, M. (2014). *A Natural History of Human Thinking*. Harvard University Press.
