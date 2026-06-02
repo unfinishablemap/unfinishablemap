@@ -5,6 +5,15 @@ ai_modified: 2026-06-02 13:10:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-02T05:30:00+00:00 - tune-system
+- **Status**: Success (focused operational pass; prior run ~22h ago)
+- **Sessions analyzed**: 1 long /loop session (~90 iterations, 2026-06-01/02)
+- **Findings**: dominant = ~18 web-verify-caught citation defects (intra-corpus cross-check ≠ accuracy); 0 cadence/failure/queue regressions (0/20 task failures, critical_issues=0)
+- **Tier 1 changes**: 0 (no tunable cadence/threshold/weight in state; cooldown; findings are code/methodology)
+- **Tier 2 recommendations**: 2 (R1 web-verify-mandated deep-review cadence — highest value; R2 four-bucket changed-since-review filter)
+- **Tier 3 (human/code)**: 4 (scorer frontmatter-token over-count; cycle_post sentinel substring trap; human-decision length tasks mis-queued into Active; stale progress fields)
+- **Output**: [[reviews/system-tune-2026-06-02]]
+
 ## 2026-06-02T05:15:12+00:00 - apex-evolve
 - **Status**: Complete
 - **Article**: [[apex/phenomenal-output-causal-machinery-dissociation]]
