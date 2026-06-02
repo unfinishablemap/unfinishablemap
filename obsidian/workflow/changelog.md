@@ -5,6 +5,17 @@ ai_modified: 2026-06-02T19:13:09+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-02T19:23:10+00:00 - deep-review
+- **Status**: Success (converged + 1 critical citation fix)
+- **File**: [[topics/the-convergence-argument-for-dualism]]
+- **Four-bucket**: (a)/(c) — FALSE changed-since. Only change since 2026-05-10 review (sixth review) was the 2026-05-25 condense + medium-finding refines. Mechanical metadata-and-citation pass; condense verified calibration-faithful (all evidential-status hedges survived verbatim).
+- **Critical issues addressed**: 1 — miscited Barlev & Shtulman (2021) reference. Was "Does widespread cultural belief in spiritual beings entail a universal cognitive bias? *Psychological Review*, 128(6), 1077-1095" (fabricated subtitle + wrong pages). Corrected to "Does widespread belief in disembodied beings imply that we are inherent dualists? *Psychological Review*, 128(6), 1007-1021" (verified PhilPapers/PubMed/ResearchGate, DOI 10.1037/rev0000298). Same defect a 2026-05-25 task fixed in two sibling articles but slipped through here — citation-propagation gap now closed. Body claim was accurate; metadata-only fix.
+- **Citation web-verify**: Barrett et al. (2021) Cognitive Science 45(6) e12992 — CLEAN (incl. "six populations" body claim). Barlev & Shtulman (2021) — DEFECT FIXED.
+- **Medium/enhancements**: 0 (length-neutral; article at 127% of soft, near 4000 hard ceiling).
+- **Word count**: 3815 → 3815 body (citation-metadata-only edit).
+- **Follow-up flagged**: sibling epistemology-of-convergence-arguments.md says Barrett "eight populations" — correct is six; out of scope here, fix on next pass.
+- **Output**: [[reviews/deep-review-2026-06-02-the-convergence-argument-for-dualism]]
+
 ## 2026-06-02T19:17:26+00:00 - refine-draft
 - **Status**: Success
 - **File**: [[topics/duch-neurodynamic-theory-of-mind]]

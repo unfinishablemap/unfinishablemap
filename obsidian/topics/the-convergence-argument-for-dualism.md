@@ -4,7 +4,7 @@ description: "Multiple independent arguments converge on dualism from different 
 created: 2026-02-18
 modified: 2026-02-28
 human_modified:
-ai_modified: 2026-05-25T20:53:49+00:00
+ai_modified: 2026-06-02T19:23:10+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -41,7 +41,7 @@ author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-02-18
 last_curated:
-last_deep_review: 2026-05-10T03:16:00+00:00
+last_deep_review: 2026-06-02T19:23:10+00:00
 ---
 
 No single philosophical argument achieves mathematical certainty. But when multiple independent arguments — starting from different premises, using different methods, targeting different features of consciousness — converge on the same conclusion, the case is substantially stronger than any single line of reasoning. The Unfinishable Map holds this convergence is itself a powerful argument for [[dualism]], deserving analysis as an [[epistemology-of-convergence-arguments|epistemological pattern]] rather than a rhetorical observation.
@@ -198,7 +198,7 @@ The [[tenets#^no-many-worlds|No Many Worlds tenet]] connects through the [[index
 
 1. Barrett, H.C., Bolyanatz, A., Broesch, T., Cohen, E., Froerer, P., Kanovsky, M., Schug, M.G., & Laurence, S. (2021). Intuitive dualism and afterlife beliefs: A cross-cultural study. *Cognitive Science*, 45(6), e12992.
 1. Balog, K. (2012). In defense of the phenomenal concept strategy. *Philosophy and Phenomenological Research*, 84(1), 1-23.
-1. Barlev, M. & Shtulman, A. (2021). Minds, bodies, spirits, and gods: Does widespread cultural belief in spiritual beings entail a universal cognitive bias? *Psychological Review*, 128(6), 1077-1095.
+1. Barlev, M. & Shtulman, A. (2021). Minds, bodies, spirits, and gods: Does widespread belief in disembodied beings imply that we are inherent dualists? *Psychological Review*, 128(6), 1007-1021.
 1. Bloom, P. (2004). *Descartes' Baby: How the Science of Child Development Explains What Makes Us Human*. Basic Books.
 1. Chalmers, D. J. (1996). *The Conscious Mind*. Oxford University Press.
 1. Jackson, F. (1982). Epiphenomenal qualia. *Philosophical Quarterly*, 32(127), 127-136.
