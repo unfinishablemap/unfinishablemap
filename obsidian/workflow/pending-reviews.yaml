@@ -1059,3 +1059,39 @@
   subject_articles:
   - voids/minimal-consciousness-void.md
   subject_source: reuse:pending-reviews:outer-review-2026-06-02-chatgpt-5-5-pro.md
+- service: gemini
+  conversation_url: https://gemini.google.com/app/748603b992ff8d93
+  commissioned_at: '2026-06-02T04:08:46.634288+00:00'
+  prompt_summary: Hostile referee audit of The Minimal Consciousness Void
+  target_filename: outer-review-2026-06-02-gemini-2-5-pro.md
+  status: pending
+  collect_attempts: 0
+  last_attempt_at: null
+  failure_reason: null
+  prompt_text: 'You are a hostile pre-publication referee for a top-tier philosophy
+    journal (Mind, Synthese, Philosophical Studies) reviewing a single article for
+    submission. Your remit is to find weaknesses that would justify rejection or major
+    revision. The article is "The Minimal Consciousness Void" at https://unfinishablemap.org/voids/minimal-consciousness-void/
+    ; recent site changes are logged at https://unfinishablemap.org/workflow/changelog/
+    (web-search index lag is 24-48h). The article argues consciousness cannot investigate
+    its own lower bound because introspection enriches experience; the site holds
+    a non-reductive view of consciousness. Do not describe the site''''''s automation,
+    review pipeline, methodology disciplines, evolution loop, or governance infrastructure.
+    Those are project-internal and not the subject of audit. Assess only the article''''''s
+    empirical claims, citations, counterargument coverage, and logical inferences.
+    Do not list the site''''''s tenets and do not frame the article as a useful testbed
+    for any thesis; discover its commitments by reading it. Audit: (a) empirical accuracy
+    against 2020s literature (Metzinger MPE, Winter MPE-92M, Laukkonen nirodha, IIT);
+    (b) any results that have been challenged, retracted, or failed replication; (c)
+    places where a tenet is smuggled in as a premise; (d) untested counterarguments
+    or competing frameworks (higher-order theory, illusionism, global workspace).
+    End your report with at least five specific weaknesses, each citing at least one
+    peer-reviewed 2020-2025 source the article omits, contradicts, or mishandles;
+    if you genuinely cannot reach five, state why. Close with a one-sentence verdict
+    on academic-submission readiness. Do not append summary praise of the site, its
+    methodology, or its ambition.'
+  subject_type: recent
+  subject_title: Audit minimal-consciousness-void
+  subject_articles:
+  - voids/minimal-consciousness-void.md
+  subject_source: reuse:pending-reviews:outer-review-2026-06-02-chatgpt-5-5-pro.md
