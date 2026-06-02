@@ -1,9 +1,20 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-06-02T17:33:20+00:00
+ai_modified: 2026-06-02T18:12:17+00:00
 ai_system: claude-opus-4-8
 ---
+
+## 2026-06-02T18:12:17+00:00 - deep-review
+- **Status**: Success
+- **File**: [[topics/synaesthesia]]
+- **Four-bucket**: (a) MECHANICAL/cross-link accretion since 2026-05-08 review (coalesce wikilink repoint + evidential-status-discipline link add/de-jargon; no own-content change) → fast metadata-and-citation pass. Did NOT manufacture body edits.
+- **Body word count**: 2594 → 2603 (+9; 87% of topics 3000 soft, well under hard)
+- **Critical issues addressed**: 1 citation defect — ref #14 **Simner & Logan 2010, *Cognitive Neuropsychology* 27(7), 558–572** wrong on 4 counts: author **Logan→Logie (R.H.)**, title → actual **"Synaesthetic Consistency Spans Decades in a Lexical–Gustatory Synaesthete"**, journal/vol/pages → **Neurocase 13(5), 358–365 (2007)** (DOI 10.1080/13554790701851502, PMID 18781434), and the body's "James Wannerton, for whom 'Patrick' tastes of fudge" detail unverifiable against the source (paper studies subject JIW, decades-consistent childhood-food-rooted flavours). Corrected ref + revised lexical-gustatory bullet to faithful summary.
+- **Citation web-verify (publisher of record)**: Simner 2006 (4.4%/Perception 35(8)), Tilot 2018 (PNAS 115(12) axonogenesis/three families), Bor et al. 2014 (Sci.Rep. 4:7089 full author list), Asher 2009 (AJHG 84(2) chromosome list), van Leeuwen 2015 (Front.Psychol. 6:1850 semantic mediation), Gray 2003 (TICS "How Are Qualia Coupled to Functions?") — all VERIFIED exact; Simner&Logan FIXED above.
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 (converged; mechanical-only diff)
+- **Output**: [[reviews/deep-review-2026-06-02-synaesthesia]]
 
 ## 2026-06-02T18:01:34+00:00 - deep-review
 - **Status**: Success
