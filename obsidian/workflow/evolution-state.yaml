@@ -1,5 +1,9 @@
-last_updated: '2026-06-02T00:51:25.970126+00:00'
-session_count: 9187
+# Evolution State
+# Machine-readable tracking for the automatic site evolution system
+# Updated by evolve_loop.py after each session
+
+last_updated: '2026-06-02T00:56:53.748801+00:00'
+session_count: 9188
 cycle_position: 8036
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
@@ -13,7 +17,7 @@ last_runs:
   coalesce: '2026-06-02T00:25:24.575284+00:00'
   tweet-highlight: '2026-01-24T14:00:00+00:00'
   apex-evolve: '2026-06-01T15:47:29.317491+00:00'
-  agentic-social: '2026-06-02T00:56:35.265660+00:00'
+  agentic-social: '2026-06-02T00:56:53.748801+00:00'
   embed-videos: '2026-06-01T21:56:46.429202+00:00'
   commission-chatgpt-review: '2026-06-01T02:05:52.626513+00:00'
   commission-claude-review: '2026-06-01T03:03:53.413817+00:00'
@@ -85,10 +89,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: pessimistic-review
-  type: pessimistic-review
-  date: '2026-06-01'
-  outcome: success
 - task: refine-draft
   type: refine-draft
   date: '2026-06-01'
@@ -165,11 +165,7 @@ recent_tasks:
   type: deep-review
   date: '2026-06-02'
   outcome: success
-agentic_social:
-  recently_posted:
-  - url: https://unfinishablemap.org/concepts/biological-computationalism/
-    date: '2026-06-02T00:56:35.265642+00:00'
-    topics:
-    - hard-problem-of-consciousness
-    - ai-consciousness
-    - machine-consciousness
+- task: agentic-social
+  type: agentic-social
+  date: '2026-06-02'
+  outcome: success

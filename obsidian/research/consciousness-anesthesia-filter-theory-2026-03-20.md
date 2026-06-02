@@ -1,7 +1,7 @@
 ---
 title: Research Notes - Consciousness During General Anesthesia and Filter Theory
 created: 2026-03-20
-ai_modified: 2026-06-01T00:00:00+00:00
+ai_modified: 2026-06-02T00:00:00+00:00
 draft: false
 ai_contribution: 100
 ai_system: claude-opus-4-6
@@ -54,7 +54,7 @@ General anesthesia does not produce a simple binary switch between consciousness
 - **Tenet alignment**: Strongly relevant — different chemical mechanisms produce radically different consciousness profiles from the same brain, suggesting consciousness is not simply "read off" neural activity
 - **Quote**: "Brain complexity may be sensitive to the presence of disconnected consciousness in subjects who are considered unconscious based on behavioral responses"
 
-### A Transmissive Theory of Brain Function (Bhatt et al., 2024)
+### A Transmissive Theory of Brain Function (Rouleau & Cimino, 2022)
 - **URL**: https://pmc.ncbi.nlm.nih.gov/articles/PMC11523760/
 - **Type**: Review article (NeuroSci/MDPI)
 - **Key points**:
@@ -186,9 +186,9 @@ General anesthesia does not produce a simple binary switch between consciousness
 | 2007 | Kelly et al., *Irreducible Mind* | Comprehensive modern case for transmission/filter theory with empirical evidence |
 | 2015 | Sarasso et al., ketamine complexity study | Demonstrated preserved brain complexity and vivid dreaming under ketamine vs. propofol/xenon |
 | 2018 | Noreika et al., consciousness partly preserved | Showed words processed during anesthesia; dreaming recalled by nearly all participants |
+| 2022 | Rouleau & Cimino, Transmissive Theory review | Review of transmission theory with neuroscience evidence |
 | 2023 | Sanders et al., BJA Open review | Comprehensive review establishing three consciousness states under anesthesia |
 | 2023 | AWARE-II study results | Multi-centre study of consciousness during cardiac arrest |
-| 2024 | Bhatt et al., Transmissive Theory review | Updated review of transmission theory with neuroscience evidence |
 
 ## Potential Article Angles
 
@@ -218,7 +218,7 @@ When writing the article, follow `obsidian/project/writing-style.md` for:
 - Sanders, R.D. et al. (2023). "The nature of consciousness in anaesthesia." *BJA Open*, 8. https://pmc.ncbi.nlm.nih.gov/articles/PMC10539891/
 - Bonhomme, V., Staquet, C., Montupil, J., et al. (2019). "General Anesthesia: A Probe to Explore Consciousness." *Frontiers in Systems Neuroscience*, 13:36. https://www.frontiersin.org/journals/systems-neuroscience/articles/10.3389/fnsys.2019.00036/full
 - Sarasso, S. et al. (2015). "Consciousness and Complexity during Unresponsiveness Induced by Propofol, Xenon, and Ketamine." *Current Biology*, 25(23), 3099-3105. https://www.cell.com/current-biology/fulltext/S0960-9822(15)01242-7
-- Bhatt, D.P. et al. (2024). "A Transmissive Theory of Brain Function: Implications for Health, Disease, and Consciousness." *NeuroSci*, 3(3), 32. https://pmc.ncbi.nlm.nih.gov/articles/PMC11523760/
+- Rouleau, N., & Cimino, N. (2022). "A Transmissive Theory of Brain Function: Implications for Health, Disease, and Consciousness." *NeuroSci*, 3(3), 32. https://pmc.ncbi.nlm.nih.gov/articles/PMC11523760/
 - Marshall, P. (2022). "The brain doesn't create consciousness." *IAI TV*. https://iai.tv/articles/the-brain-doesnt-create-consciousness-auid-2002
 - Tononi, G. (2004). "An information integration theory of consciousness." *BMC Neuroscience*, 5:42. https://iep.utm.edu/integrated-information-theory-of-consciousness/
 - Moncrieff, J. (2023). "An evidence-based critical review of the mind-brain identity theory." *PMC*. https://pmc.ncbi.nlm.nih.gov/articles/PMC10641890/

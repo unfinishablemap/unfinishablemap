@@ -4,7 +4,7 @@ description: "Anaesthetic pharmacology maps the consciousness-brain interface wi
 created: 2026-02-23
 modified: 2026-05-18
 human_modified:
-ai_modified: 2026-06-02T00:42:42+00:00
+ai_modified: 2026-06-02T12:00:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -95,7 +95,7 @@ The strongest discriminating evidence comes from the boundary between anaesthesi
 
 ## Recovery: What Emergence Reveals
 
-Recovery is not induction in reverse. The brain requires lower drug concentrations to stay unconscious than to become unconscious; executive function returns before simpler capacities; genetically identical organisms show emergence times varying by two orders of magnitude. The induction-emergence asymmetry is empirically robust across human, primate, and rodent studies — it is the framing's interpretation as evidence about the interface, not the asymmetry itself, that remains a live hypothesis. Mashour (2024) makes the asymmetry explicit — emergence is an active process running on different neural circuitry from induction, not its mirror image — and argues emergence may therefore be more informative than induction, revealing interface components coming online sequentially — what Bhatt et al. (2024) call the "core elements" re-engaging one by one. The induction-emergence asymmetry is one member of a broader family of [[recovery-order-asymmetry-as-interface-evidence|direction-of-interface-change signatures]] the Map reads as constraining substrate-symmetric production accounts.
+Recovery is not induction in reverse. The brain requires lower drug concentrations to stay unconscious than to become unconscious; executive function returns before simpler capacities; genetically identical organisms show emergence times varying by two orders of magnitude. The induction-emergence asymmetry is empirically robust across human, primate, and rodent studies — it is the framing's interpretation as evidence about the interface, not the asymmetry itself, that remains a live hypothesis. Mashour (2024) makes the asymmetry explicit — emergence is an active process running on different neural circuitry from induction, not its mirror image — and argues emergence may therefore be more informative than induction, suggesting that studying emergence might reveal the "core elements" of consciousness as interface components come back online one by one. The induction-emergence asymmetry is one member of a broader family of [[recovery-order-asymmetry-as-interface-evidence|direction-of-interface-change signatures]] the Map reads as constraining substrate-symmetric production accounts.
 
 ### Neural Inertia
 
@@ -182,7 +182,7 @@ Anaesthetic pharmacology connects to each of the Map's [[tenets]] in concrete wa
 1. Xu, G., et al. (2023). Surge of neurophysiological coherence and connectivity in the dying brain. *Proceedings of the National Academy of Sciences*, 120(19), e2216268120.
 1. Parnia, S., et al. (2023). AWAreness during REsuscitation — II: a multi-center study of consciousness and awareness in cardiac arrest. *Resuscitation*, 191, 109903.
 1. James, W. (1898). *Human Immortality: Two Supposed Objections to the Doctrine*. Houghton Mifflin.
-1. Bhatt, D. P., et al. (2024). A transmissive theory of brain function: implications for health, disease, and consciousness. *NeuroSci*, 3(3), 32.
+1. Rouleau, N., & Cimino, N. (2022). A transmissive theory of brain function: implications for health, disease, and consciousness. *NeuroSci*, 3(3), 32. https://doi.org/10.3390/neurosci3030032
 1. Sepúlveda, P. O., et al. (2019). Neural inertia and differences between loss of and recovery from consciousness during total intravenous anaesthesia: a narrative review. *Anaesthesia*, 74(6), 801-807.
 1. Friedman, E. B., et al. (2010). A conserved behavioral state barrier impedes transitions between anesthetic-induced unconsciousness and wakefulness. *PLOS ONE*, 5(7), e11903.
 1. Redinbaugh, M. J., et al. (2022). Thalamus modulates consciousness via layer-specific control of cortex. *Neuron*, 106(1), 66-75.

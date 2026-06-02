@@ -1,9 +1,19 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-06-02 00:42:42+00:00
+ai_modified: 2026-06-02 12:00:00+00:00
 ai_system: claude-opus-4-8
 ---
+
+## 2026-06-02T12:00:00+00:00 - refine-draft
+- **Status**: Success
+- **Files**: [[topics/anaesthesia-and-the-consciousness-interface]] + propagation root [[research/consciousness-anesthesia-filter-theory-2026-03-20]]
+- **Type**: citation-defect fix (compound, web-verified)
+- **Defects fixed**: The "A Transmissive Theory of Brain Function" paper (*NeuroSci* 3(3):32, PMC11523760, DOI 10.3390/neurosci3030032) was mis-cited as "Bhatt, D. P., et al. (2024)". Web-verified true authors **Rouleau, N. & Cimino, N. (2022)** (MDPI + PubMed PMID 39483436). (1) Wrong author Bhatt → Rouleau & Cimino; (2) wrong year 2024 → 2022; (3) source-conclusion mismatch — article body (~line 98) had attributed the "core elements" emergence framing to the transmissive-theory paper, which says nothing about anaesthesia emergence. Web-verified the "core elements" phrasing traces to **Mashour 2024** (*Neuron* 112(10), already cited in the same sentence: "studying emergence from anesthesia might reveal the core elements of consciousness") — folded the clause into the Mashour attribution and dropped the false Bhatt reattribution.
+- **Root fix**: research note body corrected at all three locations (key-sources heading, timeline row — reordered to 2022, references entry) per [[ai-citation-metadata-unreliable]] point 20 (fix the note body or it re-propagates). PMC link was already correct, kept. Article reference entry + body both corrected; DOI added.
+- **Scope discipline**: left untouched the legitimate unrelated Bhatt authors (Bhatt MB 2021 eLife, Kalra & Bhatt 2025, Rosseinsky & Bhatt 2022). Honoured [[evidential-status-discipline]]; length-neutral; no "This is not X. It is Y." cliché.
+- **Residual flagged (out of scope)**: `research/anaesthetic-recovery-neuroscience-2026-03-26.md` (lines 33/180/211) still mis-attributes the **Mashour 2024 *Neuron*** review to "Bhatt et al. (2024)" — a SEPARATE wrong-author defect from the transmissive-theory one this task addressed (the live-article instance was already fixed in active-reboot ref 7). Research note still carries it; candidate for a follow-on fix.
+- **Published**: yes
 
 ## 2026-06-02T00:42:42+00:00 - deep-review
 - **Status**: Success
