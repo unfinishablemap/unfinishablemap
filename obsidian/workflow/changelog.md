@@ -1,9 +1,19 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-06-02T19:50:32+00:00
+ai_modified: 2026-06-02T20:21:32+00:00
 ai_system: claude-opus-4-8
 ---
+
+## 2026-06-02T20:21:32+00:00 - deep-review
+- **Status**: Success
+- **File**: [[topics/decoherence-and-macroscopic-superposition]]
+- **Four-bucket**: philosophically converged since 5th review (2026-05-11 cluster alignment); this 6th pass = full publisher-of-record citation web-verify (not sampled) of the dense recent-specialist quantum-physics block flagged HIGH fabrication risk. Value = caught 2 author-level fabrications intra-corpus check can't.
+- **Word count (body)**: ~2531 → 2574 (+~43; net-neutral, all from completing 2 truncated/fabricated reference entries; 86% of 3000 soft, ample headroom)
+- **Critical issues addressed**: 2 (Devoret→**Kirchmair** misattributed hot-cat quote, Devoret not even a co-author/not Yale; **"Xu et al. 2026"** FABRICATED→real **Luo et al. 2025** *JACS* jacs.5c15726 — cited title was the Princeton press-release headline, lead author "Xu" invented, year wrong)
+- **Web-verify (every cite, publisher of record)**: authorless **arXiv:2507.21211** PINNED→**Pedalino et al. (2026)** *Nature* 649:866-870 (10.1038/s41586-025-09917-9); **Hackermüller** year 2003→**2004** (Nature 427 is 2004); **Fein** pages 1247→**1245**; Babcock(2024) lead **VERIFIED correct**; Kerskens&Pérez(2022) VERIFIED; Yang(2025) lead Ian Yang VERIFIED (Kirchmair group); Wiest M.C.(2025 niaf011) corpus-fix VERIFIED; Arndt&Hornberger(2014), Engel(2007), Reimers(2009), McKemmish(2009), Schwartz/Stapp/Beauregard(2005) all VERIFIED. "18 angstroms" unconfirmable→softened.
+- **Calibration**: PRESERVED — decoherence stays the serious central objection; microtubule/Hagan live-not-settled; quantum-biology findings = suggestive analogues not confirmation; no epistemic→metaphysical slide; possibility ≠ probability. Author-fixes don't touch any evidential-status claim.
+- **Output**: [[reviews/deep-review-2026-06-02-decoherence-and-macroscopic-superposition]]
 
 ## 2026-06-02T20:13:50+00:00 - deep-review
 - **Status**: Success
