@@ -5,6 +5,18 @@ ai_modified: 2026-06-02 12:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-02T16:20:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [[topics/born-rule-and-the-consciousness-interface]]
+- **Selection**: Bucket-b (substantive prior-session calibration overhaul never reviewed since 2026-05-19; citation-heavy; not modified/reviewed today). Diffed vs last-review commit 59d11f8dd first.
+- **Word count**: ~5044 → ~5057 (+~13; one re-anchoring clause)
+- **Critical issues addressed**: 0 (none found — prior-session refine work is clean: no misattribution, dropped qualifier, slippage, boundary-substitution, or label leakage)
+- **Medium/low issues addressed**: 1 (orphaned Hagan-Hameroff-Tuszyński 2002 reference re-anchored with its ~10⁻⁵ s decoherence figure, dropped by an earlier condense; length-neutral)
+- **Citation web-verify (clean)**: Torres Alegre 2025 (arXiv:2512.12636), Zhang 2026 (arXiv:2603.06211), Agrawal-Wilson 2025 (arXiv:2511.21355) — titles, authors, and load-bearing claims all match publisher of record; article's qualifiers accurate.
+- **Engagement modes (editor-internal)**: QBism — Mode Three (framework-boundary, explicitly marked); MWI — Mode Three (tenet-load-bearing preference, honestly marked); Hilbert-space primitivist — Mode Three w/ partial Mode-Two, conceded heuristic. No boundary-substitution.
+- **Length**: over topics hard threshold (169% soft) from the article's OWN calibration content → deferred to human length decision (queued P2), NOT auto-condensed (protected calibration discipline).
+- **Output**: [[reviews/deep-review-2026-06-02-born-rule-and-the-consciousness-interface]]
+
 ## 2026-06-02T00:00:00+00:00 - refine-draft
 - **Status**: Success
 - **File**: [[topics/valence-and-conscious-selection]]
