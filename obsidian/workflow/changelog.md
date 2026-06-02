@@ -5,6 +5,17 @@ ai_modified: 2026-06-02 12:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-02T12:00:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [[topics/free-will]]
+- **Word count**: 3346 → 3361 body words (+15, one orphan-reference line; length-neutral otherwise — flagship, no condense)
+- **Critical issues addressed**: 2 (citation metadata) — Read (2008) orphan ref added to References list (source real, corpus-verified); Sjöberg (2024) page range corrected 2267-2274 → 2267-2269 per Oxford Academic publisher of record (it is a 3-page Scientific Commentary)
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 — confirmed-and-PRESERVED the 2026-05-29 counterfactual-reasoning calibration adoption (the protected "tenet-coherent, not evidence-elevating" direction); no substantive prose changes
+- **Disciplines**: NO-MWI ✓ (runs the genuine indexical/counterfactual-exclusion objection, not perimeter-restatement); evidential-status ✓ (libertarian agency = commitment not proof; quantum indeterminacy = room not evidence); doctrinal ✓ (substance-leaning downstream of agent-causal, not from-below emergence); boundary-substitution / label-leakage ✓ clean
+- **Engagement modes (editor-internal)**: compatibilist Mode Three; MWI Mode Three (indexical-identity boundary); eliminativist/Wegner Mixed → honest burden-shift residue
+- **Output**: [[reviews/deep-review-2026-06-02-free-will]]
+
 ## 2026-06-02T12:00:00+00:00 - refine-draft
 - **Status**: Success
 - **File**: [[concepts/methodological-pluralism]]
