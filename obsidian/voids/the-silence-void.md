@@ -4,7 +4,7 @@ description: "Human+AI exploration of why cognitive silence—the cessation of t
 created: 2026-02-17
 modified: 2026-02-17
 human_modified:
-ai_modified: 2026-05-19T12:00:00+00:00
+ai_modified: 2026-06-02T05:46:33+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -53,7 +53,7 @@ In the Christian contemplative tradition, the anonymous 14th-century *Cloud of U
 
 Heidegger's *Gelassenheit* (releasement) describes what he calls "a twisting free of the entire domain of the will"—neither wilful activity nor willless passivity but a third mode. As he puts it, Gelassenheit is "the spirit of disponibilité [availability] before What-Is which permits us simply to let things be in whatever may be their uncertainty and their mystery." This is not a method in any standard sense. It is a posture that cannot be adopted through effort, because effort is precisely what it releases.
 
-Robert Forman's concept of the "pure consciousness event" (PCE) frames the same territory philosophically. Forman defines mysticism in its most basic form as "the mind knowing itself in a nonlinguistic manner involving pure awareness of mind as such." Winter et al. (2020) extend this analysis, identifying "nondual awareness" as a distinct phenomenological category—awareness without subject-object structure—reported across contemplative traditions and accessible through multiple practice lineages.
+Robert Forman's concept of the "pure consciousness event" (PCE) frames the same territory philosophically. Forman defines mysticism in its most basic form as "the mind knowing itself in a nonlinguistic manner involving pure awareness of mind as such." Josipovic and Miskovic (2020) extend this analysis, identifying "nondual awareness" as a distinct phenomenological category—awareness without subject-object structure—reported across contemplative traditions and accessible through multiple practice lineages.
 
 The constructivist challenge to these claims is serious. Steven Katz argues that all mystical experience is culturally mediated—there are no "pure" experiences, only experiences shaped by the practitioner's tradition, training, and expectations. On this view, Buddhist cessation, Christian unknowing, and Heideggerian releasement converge only superficially; beneath apparent similarity lie fundamentally different experiences shaped by different frameworks. Perennialists like Forman counter that the convergence is too specific and too consistent to be cultural artifact alone—traditions that developed independently report the same phenomenological progression, the same paradoxes, the same transformative aftermath.
 
@@ -134,4 +134,4 @@ The void also raises a provocative implication for the Map itself. If consciousn
 1. Heidegger, M. (1966). *Discourse on Thinking* (trans. Anderson & Freund). Harper & Row.
 1. Wittgenstein, L. (1921). *Tractatus Logico-Philosophicus*.
 1. Katz, S. T. (Ed.) (1978). *Mysticism and Philosophical Analysis*. Oxford University Press.
-1. Winter, U., et al. (2020). "Nondual Awareness and Minimal Phenomenal Experience." *Frontiers in Psychology* 11: 2087.
+1. Josipovic, Z., & Miskovic, V. (2020). "Nondual Awareness and Minimal Phenomenal Experience." *Frontiers in Psychology* 11: 2087.

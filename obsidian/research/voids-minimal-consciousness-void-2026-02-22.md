@@ -217,4 +217,4 @@ Based on this research, a voids article could:
 - Laukkonen, R. E., et al. (2023). "Cessations of consciousness in meditation: Advancing a scientific understanding of nirodha samāpatti." *Progress in Brain Research*, 280, 61-87.
 - Nagel, T. (1974). "What Is It Like to Be a Bat?" *Philosophical Review*, 83(4), 435-450.
 - Hume, D. *A Treatise of Human Nature*, Book 1, Part 4, Section 6.
-- Winter, U., et al. (2021). "The Minimal Phenomenal Experience questionnaire (MPE-92M): Towards a phenomenological profile of 'pure awareness' experiences in meditators." *PLOS ONE*, 16(7), e0253694.
+- Gamma, A., & Metzinger, T. (2021). "The Minimal Phenomenal Experience questionnaire (MPE-92M): Towards a phenomenological profile of 'pure awareness' experiences in meditators." *PLOS ONE*, 16(7), e0253694. (Data-availability correction: Gamma, A., & Metzinger, T. (2024). *PLOS ONE*, 19(11), e0314290.)

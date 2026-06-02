@@ -4,7 +4,7 @@ description: "Human+AI exploration of why consciousness cannot investigate its o
 created: 2026-02-25
 modified: 2026-02-25
 human_modified:
-ai_modified: 2026-06-02T05:39:34+00:00
+ai_modified: 2026-06-02T05:46:33+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -56,7 +56,7 @@ These three dimensions converge on a single conclusion: the basement level of co
 
 Thomas Metzinger's Minimal Phenomenal Experience (MPE) project represents the most systematic attempt to characterise the simplest form of consciousness. Working from "sixteen phenomenological case-studies" and "six semantic constraints from existing literature" (Metzinger 2020), the project sought to identify "pure awareness"—consciousness stripped of all content.
 
-The result is instructive. What advanced meditators report as "contentless" awareness turns out, on careful analysis, to have a rich phenomenological profile. The subsequent MPE-92M questionnaire identified 92 characteristics organised into a 12-factor model of "pure awareness" phenomenology (Winter et al. 2021). The search for the minimum kept finding more than nothing.
+The result is instructive. What advanced meditators report as "contentless" awareness turns out, on careful analysis, to have a rich phenomenological profile. The subsequent MPE-92M questionnaire identified 92 characteristics organised into a 12-factor model of "pure awareness" phenomenology (Gamma & Metzinger 2021). The search for the minimum kept finding more than nothing.
 
 This does not mean the meditators are wrong. They may be reporting the minimal state accessible to introspection—the lowest floor the observing mind can reach. But the enrichment problem guarantees this floor lies above whatever the actual minimum is. The accessible minimum and the actual minimum are structurally separated by the cost of observation.
 
@@ -144,7 +144,7 @@ The minimal consciousness void aligns with the Map's [[tenets]] in several ways.
 1. Tononi, G. (2004). "An information integration theory of consciousness." *BMC Neuroscience*, 5, 42.
 1. Laukkonen, R. E., et al. (2023). "Cessations of consciousness in meditation: Advancing a scientific understanding of nirodha samāpatti." *Progress in Brain Research*, 280, 61-87.
 1. Nagel, T. (1974). "What Is It Like to Be a Bat?" *Philosophical Review*, 83(4), 435-450.
-1. Winter, U., et al. (2021). "The Minimal Phenomenal Experience questionnaire (MPE-92M): Towards a phenomenological profile of 'pure awareness' experiences in meditators." *PLOS ONE*, 16(7), e0253694.
+1. Gamma, A., & Metzinger, T. (2021). "The Minimal Phenomenal Experience questionnaire (MPE-92M): Towards a phenomenological profile of 'pure awareness' experiences in meditators." *PLOS ONE*, 16(7), e0253694. (Data-availability correction: Gamma, A., & Metzinger, T. (2024). *PLOS ONE*, 19(11), e0314290.)
 1. Hume, D. (1739). *A Treatise of Human Nature*, Introduction.
 1. Lau, H., & Rosenthal, D. (2011). "Empirical support for higher-order theories of conscious awareness." *Trends in Cognitive Sciences*, 15(8), 365-373.
 1. Dehaene, S., & Naccache, L. (2001). "Towards a cognitive neuroscience of consciousness: Basic evidence and a workspace framework." *Cognition*, 79(1-2), 1-37.

@@ -248,6 +248,6 @@ Based on this research, a voids article could:
 - Wittgenstein, L. (1921). *Tractatus Logico-Philosophicus*.
 - Forman, R. K. C. (1990). *The Problem of Pure Consciousness: Mysticism and Philosophy*. Oxford University Press.
 - Josipovic, Z. (2019). "Nondual Awareness: Consciousness-as-such as non-representational reflexivity." *Progress in Brain Research*, Elsevier.
-- Winter, U., et al. (2020). "Nondual Awareness and Minimal Phenomenal Experience." *Frontiers in Psychology* 11: 2087.
+- Josipovic, Z., & Miskovic, V. (2020). "Nondual Awareness and Minimal Phenomenal Experience." *Frontiers in Psychology* 11: 2087.
 - Meister Eckhart. Sermons. Various editions.
 - Nicholas of Cusa. *De Docta Ignorantia* (1440).

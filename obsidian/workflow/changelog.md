@@ -5,6 +5,19 @@ ai_modified: 2026-06-02 13:10:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-02T05:46:33+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[voids/minimal-consciousness-void]]
+- **Source**: outer-review-synthesis-2026-06-02 — MECHANICAL CITATION FIX (the cycle's single CONFIRMED factual defect; web-verified by ChatGPT + Claude both live-fetching PLOS ONE DOI 10.1371/journal.pone.0253694). DISTINCT from the prose cluster consolidated earlier this session — prose untouched, length-neutral citation swap only.
+- **Defect**: MPE-92M questionnaire mis-attributed to "Winter, U., et al. (2021)" (inline body + reference 6). There is no author named Winter on the paper. Correct: **Gamma, A. & Metzinger, T. (2021), *PLOS ONE* 16(7): e0253694**, plus the 2024 data-availability correction (Gamma & Metzinger 2024, *PLOS ONE* 19(11): e0314290).
+- **Fixed**:
+  1. `voids/minimal-consciousness-void.md` — inline "(Winter et al. 2021)" → "(Gamma & Metzinger 2021)"; reference 6 corrected + 2024-correction note added. (Metzinger 2020 solo cite for the ARAS/transparency reading left intact — distinct paper.)
+  2. **Propagation grep (whole corpus incl. research/)**: found the SAME wrong PLOS-ONE ref at the research ROOT `research/voids-minimal-consciousness-void-2026-02-22.md:220` — fixed (root, not just the consumer article).
+  3. **Second, distinct fabrication uncovered by the grep + web-verify**: the *Frontiers in Psychology* 11:2087 (2020) "Nondual Awareness and Minimal Phenomenal Experience" paper was wrongly attributed to "Winter, U., et al." in `voids/the-silence-void.md` (body + reference) and its research root `research/voids-silence-void-2026-02-17.md`. Live web-verify: actual authors are **Josipovic, Z. & Miskovic, V. (2020)** (DOI 10.3389/fpsyg.2020.02087). All three loci repointed. (Corroboration: silence-void research root already cited Josipovic 2019 separately.)
+- **Propagation result**: 3 distinct files for the MPE-92M/Gamma&Metzinger defect were not present — only 2 carried it (article + research root, both fixed). 0 other corpus loci of the MPE-92M Winter cite remain. The Frontiers/Josipovic&Miskovic class was a separate paper, 3 loci, all fixed. Total "Winter" attributions remaining in source content + research: 0.
+- **Class**: [[ai-citation-metadata-unreliable]] propagated fabrication — the Map's own 2026-05-26 deep-review had asserted the MPE-92M cite accurate; only live-literature web-verify caught it.
+- **Published**: yes
+
 ## 2026-06-02T05:39:34+00:00 - refine-draft
 - **Status**: Success
 - **File**: [[voids/minimal-consciousness-void]]
