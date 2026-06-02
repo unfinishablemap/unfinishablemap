@@ -1,9 +1,22 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-06-02T18:12:17+00:00
+ai_modified: 2026-06-02T18:25:40+00:00
 ai_system: claude-opus-4-8
 ---
+
+## 2026-06-02T18:25:40+00:00 - deep-review
+- **Status**: Success
+- **File**: [[voids/imagery-void]]
+- **Four-bucket**: (a) GENUINE new content since 2026-04-28 review — absorbed the Cognitive-Phenomenology-Void (coalesce-merge, commit 669254d9d): liberal/conservative cognitive-phenomenology dispute + Würzburg-Titchener/Fürst anchoring handed to dedicated targets. Full review + publisher-of-record web-verify of the aphantasia citation cluster + cross-corpus reconciliation with same-session aphantasia.md.
+- **Merge audit**: PASS — absorbed material integrates as ONE coherent void argument (function-phenomenology wedge feeds the ontology-of-the-phenomenal dispute), not stapled-on; both merge cross-links resolve ([[cognitive-phenomenology-and-the-irreducibility-of-thought]] in topics/, research note); no dangling refs. Fixed an attribution-precision error: the Würzburg-Titchener/Fürst anchoring was credited to the topic article but actually lives in the research note — rephrased so each target is credited correctly.
+- **Body word count**: 2501 → 2512 (+11; attribution rephrase + reference-list completions, net-neutral; 126% of voids 2000 soft, well under 3000 hard)
+- **Citation web-verify (publisher of record) + cross-corpus reconciliation to aphantasia.md**: Scholz (2025) → completed to **C. O. Scholz, Mind & Language 40(3):317–324** (no first-name error in imagery-void body, surname only); Nanay (2025) → **40(3):333–340**; Kay, Keogh & Pearson (2024) → **Consciousness and Cognition 121:103694** (both verbatim quotes match abstract); Zeman (2024) → **Trends Cogn Sci 28(5):467–480** (frontoparietal-visual-connectivity quote + 1%/3% stats CONFIRMED); Schwitzgebel (2008) → added pages **117(2):245–273** (venue verified correct, "broadly inept" quote confirmed); Larner (2024) → **Neurosci Biobehav Rev 164:105819**; Lennon (2023) VERIFIED CORRECT (OUP Oxford Studies Phil Mind Vol.3, NOT Erkenntnis; quotes confirmed); Galton (1880) VERIFIED CORRECT (Mind 5(19):301–318; "perfectly distinct"/"full of colour" confirmed verbatim).
+- **Engagement classification**: no named-opponent direct-refutation engagements requiring mode classification (functionalist wedge contestation is framework-boundary; Mode Three, declared in stability notes as bedrock).
+- **Calibration check**: PASS — all hedges preserved ("not a knockdown argument", "double-edged", "does not settle the liberal/conservative dispute", "we still don't know"); no aphantasia→dualism hardening; line-118 hedge is NOT the banned cliché, left intact.
+- **Critical issues addressed**: 0 (no misattribution/slippage/conflation found)
+- **Medium issues addressed**: 1 (Würzburg/Fürst anchoring re-attributed to research note)
+- **Output**: [[reviews/deep-review-2026-06-02-imagery-void]]
 
 ## 2026-06-02T18:19:26+00:00 - deep-review
 - **Status**: Success
