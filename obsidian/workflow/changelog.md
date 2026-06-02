@@ -5,6 +5,15 @@ ai_modified: 2026-06-02T15:03:51+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-02T15:33:12+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[topics/motor-control-quantum-zeno]]
+- **Task**: Anchoring-audit calibration fix (topic-concept anchoring audit 2026-06-02). TWO flags: vs [[libet-experiments]] (failed hedge_density + strong_assertions) and vs [[mental-effort]] (failed strong_assertions + underdetermination_markers). Common failing axis: strong_assertions (2 verbs, 0.75/kw, >1.5× both anchors).
+- **Change**: Two surgical edits, both reducing strong-assertion verbs 2→0, clearing the shared axis on both flags (each drops 2/3 → 1/3, below the ≥2/3 fire threshold). (1) Line ~72: "establishing how consciousness directs attention simultaneously **establishes** how it directs motor control" → "understanding how consciousness directs attention would simultaneously **clarify** how it directs motor control" — hypothetical entailment, softened modal is more accurate. (2) Line ~112: negated humility statement "no concrete model **demonstrates** observation events..." → "no concrete model **accounts for** observation events..." — meaning preserved (still says no such model exists); scanner counted the verb regardless of negation.
+- **Verification**: `evaluate_anchoring` returned 2 flags before (mental-effort 2-check, libet-experiments 2-check); returns `[]` after. BOTH flags gone.
+- **Word count**: 2744 → 2746 (+2; net-neutral, under 4000 hard ceiling)
+- **Calibration**: did NOT add hedges or underdetermination markers (mush failure mode avoided — single targeted change on the common axis sufficed); no central claim weakened; voice preserved.
+
 ## 2026-06-02T15:28:53+00:00 - refine-draft
 - **Status**: Success
 - **File**: [[topics/the-hard-problem-in-non-western-philosophy]]
