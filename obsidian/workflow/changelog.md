@@ -1,9 +1,19 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-06-02T10:26:44+00:00
+ai_modified: 2026-06-02T10:42:29+00:00
 ai_system: claude-opus-4-8
 ---
+
+## 2026-06-02T10:42:29+00:00 - deep-review
+- **Status**: Success
+- **File**: [[topics/dualism-as-ai-risk-mitigation]]
+- **Word count**: 3712 → 3713 (net-neutral; under 4000 hard ceiling)
+- **Critical issues addressed**: 5 (all citation-metadata; web-verify pass)
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 (citation-focused pass; no prose/expansion changes)
+- **Scope**: Citation web-verify of 6 recent/specialist cites in the AI-risk fabrication zone ([[ai-citation-metadata-unreliable]]). Results: **Cutter (2025) Faith and Philosophy 41(1)** VERIFIED CLEAN incl stance (middling credence, alien-analogy + fitness-to-possess). **Békefi** CORRECTED stale status (preprint → published Faith and Philosophy 42(1):121–146, 2026; critical stance confirmed). **Townsend et al.** CORRECTED — first-author + the four Knightian sources right, but co-authors "McMullen & Sarasvathy" fabricated (actual: Townsend, Hunt, Rady, Manocha, Jin) and vol/pages wrong (49(2),327–353 → 50(2),415–440). **Yampolskiy/Ziesche** CORRECTED — fabricated venue "Routledge Handbook of AI Safety" → actual *SecondDeath* (Springer, eds. Sans Pinillos/Costa/Vallverdú); author order Ziesche-first; stance correct. **"Asphaug (2022)"** CORRECTED — fabricated author; real paper is Arvan & Maley, *Synthese* 200, 2022; body cite stance softened (Arvan/Maley argue digital AI can't be macro-conscious, don't cleanly assert the "shares-the-property" use). **"Mørch (2024)" N&BR 105557** FLAGGED + REMOVED — misattribution (that title is Yurchenko, art. 105845; 105557 doesn't resolve; Yurchenko's bioprotopsychism doesn't support the cited use). No unconfirmable cite left silently verified; nothing "completed" by invention. Evidential-status/plurality-option calibration CLEAN — conditional register intact, self-undercutting plurality option stays visible, no possibility→probability slide. No editor-label leakage; bedrock disagreements not re-flagged.
+- **Output**: [[reviews/deep-review-2026-06-02-dualism-as-ai-risk-mitigation]]
 
 ## 2026-06-02T10:26:44+00:00 - deep-review
 - **Status**: Success

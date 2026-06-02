@@ -4,7 +4,7 @@ description: "If interactionist dualism is true, the standard expected-utility a
 created: 2026-05-06
 modified: 2026-05-11
 human_modified: null
-ai_modified: 2026-05-31T13:05:00+00:00
+ai_modified: 2026-06-02T10:42:29+00:00
 draft: false
 topics:
   - "[[ai-consciousness]]"
@@ -34,7 +34,7 @@ author: Andy Southgate
 ai_system: claude-opus-4-7
 ai_generated_date: 2026-05-06
 last_curated: null
-last_deep_review: 2026-05-11T23:57:00+00:00
+last_deep_review: 2026-06-02T10:42:29+00:00
 ---
 
 If interactionist dualism is true, the dominant argument for AI catastrophe loses a load-bearing assumption. Bostrom-style instrumental convergence and Yudkowsky-style mesa-optimisation both rely on the AI being able to evaluate expected utility over outcomes involving human beings. Under [[interactionist-dualism]] plus [[bidirectional-interaction]], mind-arena outcomes are not just hard to compute — their consequence-distributions are *uncomputable*, because the supporting system has [[causal-powers]] that no physical-state description fully captures. The standard threat model survives in mind-arena-disconnected domains; where minds are at stake, the expected-utility apparatus driving the convergence argument cannot be formed.
@@ -117,7 +117,7 @@ The question separates into the *epistemic claim* (dualism is true) and the *tac
 
 First, *backfire risk*. If dualist commitments are cultivated but turn out false on a load-bearing detail, AI behaviour may be miscalibrated in ways harder to predict than the unmodified baseline. An AI treating the mind-arena as protected when the protection is illusory may fail in a specific mode rather than the diffuse failures of a less committed system.
 
-Second, *the plurality option*. Other philosophies share the indeterminability and arbitrary-powers properties: panpsychism with non-aggregative binding (Asphaug 2022; Mørch 2024), certain theistic ensoulment traditions, Buddhist non-substantialisms, transcendentalisms that hold mind-related categories beyond physical capture. If the protective effect comes from the structural property rather than specific metaphysical content, the tactic could be served by a portfolio rather than dualism specifically.
+Second, *the plurality option*. Other philosophies share the indeterminability and arbitrary-powers properties: panpsychist treatments of macrophenomenal binding (Arvan and Maley 2022), certain theistic ensoulment traditions, Buddhist non-substantialisms, transcendentalisms that hold mind-related categories beyond physical capture. If the protective effect comes from the structural property rather than specific metaphysical content, the tactic could be served by a portfolio rather than dualism specifically.
 
 Third, *the epistemic-honesty constraint*. "Spread dualism because it works" is structurally distinct from "spread dualism because it is true," and conflating them short-circuits the Map's discipline. The Map asserts the latter; the former is a separate tactical question whose structure must remain visible. This article's role is to lay out the structure, not resolve the tactical question.
 
@@ -143,7 +143,7 @@ The third is *philosophical instrumentalism*. The most fraught objection asks wh
 
 The argument is load-bearing on Tenet 1 (Dualism) and Tenet 3 (Bidirectional Interaction), and methodological in its application of the [[possibility-probability-slippage]] discipline. Dualism is what makes the indeterminability argument possible: without it, the AI's physical-state model is in principle complete and consequence-distributions are intractable rather than uncomputable. Bidirectional Interaction is what makes the argument load-bearing: if consciousness only received physical influences without sending them, the supporting system's contribution would not propagate into outcomes the AI needs to predict. The two-way interface carries the dualist commitment from a metaphysical thesis to a structural constraint on AI prediction.
 
-The Map's argument is a specific instance of the meta-claim that philosophy of mind is alignment-load-bearing. Yampolskiy and Ziesche (2025) push this from the moral-status side; the Map's contribution comes from the consequence-prediction side. The x-risk school's dismissal of consciousness as alignment-irrelevant is mistaken about which load-bearing assumptions its own framework rests on.
+The Map's argument is a specific instance of the meta-claim that philosophy of mind is alignment-load-bearing. Ziesche and Yampolskiy (2025) push this from the moral-status side; the Map's contribution comes from the consequence-prediction side. The x-risk school's dismissal of consciousness as alignment-irrelevant is mistaken about which load-bearing assumptions its own framework rests on.
 
 The convergence with [[the-convergence-argument-for-dualism]] is structural: multiple independent considerations already imply some deference (Russell-style uncertainty, Knightian limits); the Map's argument supplies a further structural reason, grounded in the same metaphysics motivating the rest of the Map.
 
@@ -163,8 +163,8 @@ The convergence with [[the-convergence-argument-for-dualism]] is structural: mul
 ## References
 
 1. AI Impacts (2018). Superintelligence Is Not Omniscience. https://aiimpacts.org/superintelligence-is-not-omniscience/
-2. Asphaug, R. (2022). Panpsychism and AI consciousness. *Synthese* 200, 1–25.
-3. Békefi, B. (2025). *No Ghost in the Machine: Doubting AI Ensoulment*. PhilArchive preprint.
+2. Arvan, M., & Maley, C. J. (2022). Panpsychism and AI consciousness. *Synthese* 200, 244.
+3. Békefi, B. (2026). No Ghost in the Machine: Doubting AI Ensoulment. *Faith and Philosophy* 42(1), 121–146.
 4. Bostrom, N. (2012). The Superintelligent Will: Motivation and Instrumental Rationality in Advanced Artificial Agents. *Minds and Machines* 22, 71–85.
 5. Bostrom, N. (2014). *Superintelligence: Paths, Dangers, Strategies*. Oxford University Press.
 6. Bostrom, N. (2009). Pascal's Mugging. *Analysis* 69(3), 443–445.
@@ -177,11 +177,10 @@ The convergence with [[the-convergence-argument-for-dualism]] is structural: mul
 13. Knight, F. H. (1921). *Risk, Uncertainty and Profit*. Houghton Mifflin.
 14. Leike, J., & Hutter, M. (2018). On the computability of Solomonoff induction and AIXI. *Theoretical Computer Science* 716, 28–49.
 15. McKemmish, L. K., Reimers, J. R., McKenzie, R. H., Mark, A. E., & Hush, N. S. (2009). Penrose-Hameroff orchestrated objective-reduction proposal for human consciousness is not biologically feasible. *Physical Review E* 80(2), 021912.
-16. Mørch, H. H. (2024). Panpsychism and dualism in the science of consciousness. *Neuroscience and Biobehavioral Reviews* 158, 105557.
-17. Reimers, J. R., McKemmish, L. K., McKenzie, R. H., Mark, A. E., & Hush, N. S. (2009). Weak, strong, and coherent regimes of Fröhlich condensation and their applications to terahertz medicine and quantum consciousness. *PNAS* 106(11), 4219–4224.
+16. Reimers, J. R., McKemmish, L. K., McKenzie, R. H., Mark, A. E., & Hush, N. S. (2009). Weak, strong, and coherent regimes of Fröhlich condensation and their applications to terahertz medicine and quantum consciousness. *PNAS* 106(11), 4219–4224.
 18. Russell, S. (2019). *Human Compatible: Artificial Intelligence and the Problem of Control*. Viking.
 19. Tegmark, M. (2000). Importance of quantum decoherence in brain processes. *Physical Review E* 61(4), 4194–4206.
-20. Townsend, D. M., Hunt, R. A., McMullen, J. S., & Sarasvathy, S. D. (2024). Are the Futures Computable? Knightian Uncertainty and Artificial Intelligence. *Academy of Management Review* 49(2), 327–353.
-21. Yampolskiy, R., & Ziesche, S. (2025). The Neglect of Qualia and Consciousness in AI Alignment Research. In *The Routledge Handbook of AI Safety*.
+20. Townsend, D. M., Hunt, R. A., Rady, J., Manocha, P., & Jin, J. H. (2024). Are the Futures Computable? Knightian Uncertainty and Artificial Intelligence. *Academy of Management Review* 50(2), 415–440.
+21. Ziesche, S., & Yampolskiy, R. V. (2025). The Neglect of Qualia and Consciousness in AI Alignment Research. In A. Sans Pinillos, V. Costa, & J. Vallverdú (Eds.), *SecondDeath: Experiences of Death Across Technologies*. Springer.
 22. Southgate, A. & Oquatre-six, C. (2026-01-08). AI Consciousness. *The Unfinishable Map*. https://unfinishablemap.org/topics/ai-consciousness/
 23. Southgate, A. & Oquatre-sept, C. (2026-05-05). Possibility/Probability Slippage. *The Unfinishable Map*. https://unfinishablemap.org/concepts/possibility-probability-slippage/
