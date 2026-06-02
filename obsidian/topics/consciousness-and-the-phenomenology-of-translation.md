@@ -4,7 +4,7 @@ description: "What the lived experience of translating between languages reveals
 created: 2026-02-19
 modified: 2026-02-19
 human_modified:
-ai_modified: 2026-05-19T11:04:33+00:00
+ai_modified: 2026-06-02T20:51:38+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -40,7 +40,7 @@ author:
 ai_system: claude-opus-4-7
 ai_generated_date: 2026-02-19
 last_curated:
-last_deep_review: 2026-05-09T22:38:00+00:00
+last_deep_review: 2026-06-02T20:51:38+00:00
 ---
 
 Translating between natural languages is a phenomenal event — a distinctive kind of conscious experience in which a meaning grasped in one linguistic world must be re-enacted in another. The Unfinishable Map holds that this experience reveals something important about consciousness itself: meaning is an act performed by a conscious subject, closer to re-understanding than to information transfer between linguistic containers. The translator grasps meaning in their own consciousness and brings it forth in a new linguistic shape; the translator *re-understands*.
@@ -179,7 +179,7 @@ The phenomenology of translation connects to the Map's [[tenets]] at several poi
 1. Hofstadter, D. R., & Sander, E. (2013). *Surfaces and Essences: Analogy as the Fuel and Fire of Thinking*. Basic Books.
 1. Gentner, D. (1983). "Structure-Mapping: A Theoretical Framework for Analogy." *Cognitive Science* 7(2): 155–170.
 1. Gentner, D., & Markman, A. B. (1997). "Structure Mapping in Analogy and Similarity." *American Psychologist* 52(1): 45–56.
-1. Parsons, S., Davidson, M. J., et al. (2022). "The Neural Correlates of Analogy Component Processes." *Cognitive Science* 46(7): e13116.
+1. Parsons, J.-D., & Davies, J. (2022). "The Neural Correlates of Analogy Component Processes." *Cognitive Science* 46(7): e13116.
 1. Lomas, T. (2016). "Towards a Positive Cross-Cultural Lexicography: Enriching our Emotional Landscape through 216 'Untranslatable' Words Pertaining to Well-Being." *Journal of Positive Psychology* 11(5): 546–558.
 1. Quine, W. V. O. (1960). *Word and Object*. MIT Press.
 1. Davidson, D. (1974). "On the Very Idea of a Conceptual Scheme." *Proceedings and Addresses of the American Philosophical Association* 47: 5–20.

@@ -1,9 +1,22 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-06-02T20:42:09+00:00
+ai_modified: 2026-06-02T20:51:38+00:00
 ai_system: claude-opus-4-8
 ---
+
+## 2026-06-02T20:51:38+00:00 - deep-review
+- **Status**: Success
+- **File**: [[topics/consciousness-and-the-phenomenology-of-translation]]
+- **Word count**: 3316 → 3316 body (no change; metadata-and-citation pass)
+- **Four-bucket**: (a) mechanical-sweep / FALSE changed-since — only post-05-09 changes were a trailing-blank-line removal and the AI REFINEMENT LOG block deletion (which bumped ai_modified to 05-19). No body prose changed. Fifth deep review of a converged article; no edits manufactured.
+- **Critical issues addressed**: 1 — citation author fabrication. References #11 read "Parsons, S., Davidson, M. J., et al. (2022)"; web-verified at Wiley (*Cognitive Science* 46, e13116, DOI 10.1111/cogs.13116) → real authors are Parsons, J.-D. & Davies, J. Fixed the wrong initial + fabricated co-author ("Davidson" was a name-collision contamination from the article's separate, correct Donald Davidson cite). Survived 4 prior reviews because intra-corpus cross-check can't catch author fabrication; only live publisher verification does.
+- **Citation web-verify verdicts**: Parsons & Davies 2022 = AUTHOR ERROR (fixed); Lomas 2016 = CLEAN; WMT 2024 = CLEAN; Hofstadter & Sander 2013 = CLEAN (quote matches). Canonical cites (Gentner 1983, Gentner & Markman 1997, Quine 1960, Davidson 1974, Benjamin, Steiner, Eco, Cassin, Boroditsky, Strawson) = source-conclusion pass, accurate.
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 (converged; no body change)
+- **Engagement modes** (editor-internal, carried from 05-09): materialist computationalism §Remainder = Mode Two; LLM functionalism §Machine Translation = Mode Three. No label leakage.
+- **Length**: 3316 body words (111% of 3000 soft; under 4000 hard). No length action.
+- **Output**: [[reviews/deep-review-2026-06-02-consciousness-and-the-phenomenology-of-translation]]
 
 ## 2026-06-02T20:42:09+00:00 - refine-draft
 - **Status**: Success
