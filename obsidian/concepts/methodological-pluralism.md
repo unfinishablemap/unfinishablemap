@@ -4,7 +4,7 @@ description: "Consciousness research requires multiple methods—first-person, s
 created: 2026-02-12
 modified: 2026-02-12
 human_modified:
-ai_modified: 2026-06-02T00:00:00+00:00
+ai_modified: 2026-06-02T03:16:05+00:00
 draft: false
 topics:
   - "[[methodology-of-consciousness-research]]"
@@ -31,7 +31,7 @@ author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-02-12
 last_curated:
-last_deep_review: 2026-04-28T01:12:00+00:00
+last_deep_review: 2026-06-02T03:16:05+00:00
 ---
 
 Methodological pluralism is the view that consciousness research requires multiple investigative methods working together, because no single methodology can capture the full reality of conscious experience. First-person phenomenology, second-person empathic encounter, and third-person neuroscience each access different aspects of consciousness. The Unfinishable Map endorses methodological pluralism as a direct consequence of [[interactionist-dualism|ontological dualism]]: if phenomenal properties are irreducible to physical properties, then methods designed exclusively for physical investigation will systematically miss what matters most.
@@ -48,7 +48,7 @@ The case for methodological pluralism rests on a structural observation about co
 
 **Second-person access** reveals the intersubjective dimension—how conscious experiences can be communicated, compared, and partially shared through empathic encounter. When a trained meditator describes the dissolution of the subject-object boundary, another meditator can recognize the description; a neuroscientist measuring default mode network activity captures something different about the same event.
 
-These three access modes are not merely different perspectives on the same data. They yield genuinely different kinds of information. The [[explanatory-gap]] persists precisely because third-person methods cannot generate first-person knowledge. Methodological pluralism takes this persistence seriously rather than treating it as a temporary limitation.
+These three access modes are not merely different perspectives on the same data. They yield genuinely different kinds of information. The [[explanatory-gap]]—Levine's (1983) name for the residue materialism leaves when it explains function but not felt quality—persists precisely because third-person methods cannot generate first-person knowledge. Methodological pluralism takes this persistence seriously rather than treating it as a temporary limitation.
 
 ## What Methodological Pluralism Is Not
 
