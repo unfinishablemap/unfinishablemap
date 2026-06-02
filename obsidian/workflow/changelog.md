@@ -1,9 +1,21 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-06-02T20:51:38+00:00
+ai_modified: 2026-06-02T22:10:00+00:00
 ai_system: claude-opus-4-8
 ---
+
+## 2026-06-02T22:10:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [[topics/consciousness-and-integrated-information]]
+- **Word count**: 3599 → 3743 (+144 net; +170 currency add, −26 dedup offset; under topics hard 4000, 257 to spare)
+- **Critical issues addressed**: 0 (fourth consecutive no-critical pass)
+- **Medium issues addressed**: 1 (IIT literature-currency: added calibrated mention of the Sept-2023 pseudoscience open letter to "What IIT Gets Right" empirical-engagement claim, which had been left behind the live debate)
+- **Low issues addressed**: 1 (trimmed duplicated explanatory-gap/water=H₂O passage in Relation-to-Site-Perspective to a back-reference)
+- **Citations web-verified at publisher of record**: Albantakis et al. 2023 IIT 4.0 — CLEAN (first author Albantakis; PLOS Comp Biol 19(10):e1011465; 16-author list, "et al." apt; no co-author drift). Fisher 2015 — CLEAN (Annals of Physics 362:593-602; Posner/nuclear-spin framing correct). Aaronson 2014 — CLEAN (real Shtetl-Optimized post, exact title incl. "(or, The Unconscious Expander)"; expander-graph + Tononi-panpsychism paraphrases accurate; no verbatim-quote defect). COGITATE 2025 — CONFIRMED consistent (verified clean earlier this session, not re-flagged). Fleming et al. 2023 pseudoscience letter — VERIFIED before adding (PsyArXiv, 15 Sept 2023, 124 signatories). Tononi 2008, Lamme 2006, Baars 1988, Dehaene 2011, Friston 2010, Whitehead 1929, Kim 2005, Tegmark 2000, Coslett & Saffran 1991 — source-conclusion pass, no defects.
+- **Calibration check**: PASS — pseudoscience controversy framed as open intra-physicalist dispute, NOT weaponized for the Map (charge cuts against IIT's scientific standing, does nothing to vindicate the Map; Map's objections remain philosophical not testability). No epistemic→metaphysical slide; underdetermination markers + critique-on-IIT's-own-terms preserved.
+- **Reasoning-mode**: all named-opponent engagements Mode One except circularity (Mode Three/Mixed) and the new pseudoscience-charge engagement (Mode Three, honest boundary-marking). No label leakage, no boundary-substitution.
+- **Output**: [[reviews/deep-review-2026-06-02-consciousness-and-integrated-information]]
 
 ## 2026-06-02T21:56:59+00:00 - deep-review
 - **Status**: Success
