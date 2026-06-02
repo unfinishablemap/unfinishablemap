@@ -5,6 +5,16 @@ ai_modified: 2026-06-02 13:30:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-02T07:24:27+00:00 - deep-review
+- **Status**: Success
+- **File**: [[voids/intrinsic-nature-void]]
+- **Word count**: 2037 → 2037 (+0; link-rot repoint is word-neutral)
+- **Critical issues addressed**: 0 (none found — fourth converged review)
+- **Medium issues addressed**: 1 (archival link rot)
+- **Enhancements made**: 1 (repoint)
+- **Audit results**: Post-04-23 expand-topic concept-level pass audited per task brief. (a) Structural-claim register PRESERVED — intrinsic-nature inaccessibility framed as a claim about what physics-as-structure can disclose, not an empirical finding; no slide into asserting intrinsic natures exist as discovered fact. (b) Evidential-status discipline PASS — Russellian-monist phenomenal reading held as Tenet-5 bet not deduction; "need not endorse panpsychism" declines the upgrade; no possibility→probability slippage. (c) Structural cluster ([[russellian-monism]], [[physics-as-disclosure]], [[intrinsic-nature]], [[bi-aspectual-ontology]], [[physical-completeness]]) all LIVE; declined related_articles mirror (over-soft, not load-bearing). (d) No "This is not X. It is Y." cliché, no refinement-log/label leakage. Fixed: `[[apophatic-approaches]]`→`[[apophatic-cartography]]` (3 refs; the prior target was coalesced/archived 2026-03-03, resolving only to its archive-notice page). Length 2037w, well under 3000 hard.
+- **Output**: [[reviews/deep-review-2026-06-02-intrinsic-nature-void]]
+
 ## 2026-06-02T07:18:18+00:00 - deep-review
 - **Status**: Success
 - **File**: [[concepts/phenomenal-overflow]]

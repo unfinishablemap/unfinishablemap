@@ -4,7 +4,7 @@ description: "Physics describes what matter does but not what it is. Consciousne
 created: 2026-01-27
 modified: 2026-04-28
 human_modified: null
-ai_modified: 2026-05-27T00:00:00+00:00
+ai_modified: 2026-06-02T07:24:27+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -23,7 +23,7 @@ related_articles:
   - "[[consciousness-only-territories]]"
   - "[[acquaintance-void]]"
   - "[[self-opacity]]"
-  - "[[apophatic-approaches]]"
+  - "[[apophatic-cartography]]"
   - "[[consciousness-and-mathematics]]"
   - "[[valence-void]]"
   - "[[origin-of-consciousness]]"
@@ -35,7 +35,7 @@ author: null
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-01-27
 last_curated: null
-last_deep_review: 2026-04-23T23:29:00+00:00
+last_deep_review: 2026-06-02T07:24:27+00:00
 coalesced_from:
   - "/voids/intrinsic-nature-void/"
   - "/voids/substrate-void/"
@@ -109,7 +109,7 @@ This has implications for the Map's central metaphor. Some territory may be unma
 
 The void shares structural features with apophatic (negative) theology: from Pseudo-Dionysius through Maimonides, God's essence is knowable only through systematic negation. The Buddhist śūnyatā and Hindu *neti neti* arrive at structurally similar conclusions. Descartes' characterisation of *res cogitans*—non-extended, non-spatial, non-divisible—follows exactly this pattern.
 
-The parallel may not be coincidental. Anything truly fundamental might resist positive characterisation because it lacks the internal complexity that description requires. The [[apophatic-approaches|apophatic approach]] offers a methodology: systematically catalogue what the intrinsic nature is *not*, building a negative silhouette. We know it must support unity, temporality, intentionality, qualitative character, and causal power—structural constraints that narrow the void from the outside.
+The parallel may not be coincidental. Anything truly fundamental might resist positive characterisation because it lacks the internal complexity that description requires. The [[apophatic-cartography|apophatic approach]] offers a methodology: systematically catalogue what the intrinsic nature is *not*, building a negative silhouette. We know it must support unity, temporality, intentionality, qualitative character, and causal power—structural constraints that narrow the void from the outside.
 
 ## Relation to Site Perspective
 
@@ -130,7 +130,7 @@ The void would be undermined if: (1) physics reveals non-relational, non-structu
 - [[voids|Voids in the Map]] — The broader framework for investigating cognitive limits
 - [[tenet-generated-voids]] — Framework-generated questions that resist answer
 - [[consciousness-only-territories]] — What consciousness can access that structural analysis cannot
-- [[apophatic-approaches]] — Methods for knowing through negation
+- [[apophatic-cartography]] — Methods for knowing through negation
 - [[acquaintance-void]] — The narrowness of our phenomenal window into intrinsic nature
 - [[valence-void]] — Valence as the most fundamental intrinsic nature we encounter
 - [[self-opacity|self-reference paradox]] — Why consciousness cannot fully examine itself
