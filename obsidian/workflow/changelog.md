@@ -5,6 +5,14 @@ ai_modified: 2026-06-02T15:59:52+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-02T16:00:00+00:00 - pessimistic-review
+- **Status**: Success
+- **Content reviewed**: [[topics/cross-traditional-convergence-on-consciousness-irreducibility]] (~3388w; last deep-review 2026-05-10)
+- **Headline**: a strongly self-disciplined convergence article (runs the common-cause null on itself); 4 residual evidential-status weaknesses, all MEDIUM/LOW. (1) method→ontology slide survives in the opening + three "structural features" subsections (flat "not a cultural artefact" denials the later common-cause section concedes can't yet be earned); (2) "premise-level common causes are ruled out" overstates — the Map's own Neoplatonist audit flags the Sufi/Islamic strand as moderate-to-substantially non-independent; (3) "attractor regardless of starting conditions" contradicted by the article's own Chinese basin-exclusion; (4) Chinese philosophy meets the independent depth criteria yet doesn't converge → "depth → irreducibility" is a tendency, not a law.
+- **Citations**: O'Brien-Kop 2023 (Religious Studies, Cambridge) web-verified CLEAN; "Oquatre-six" byline is the established AI-system alias, not a fabrication. No citation defect found.
+- **Queued**: 1× P2 refine-draft (consolidated 4 findings, single file, length-neutral). Did NOT disturb the top P1 Randeniya corpus-fix.
+- **Output**: [[reviews/pessimistic-2026-06-02-cross-traditional-convergence-on-consciousness-irreducibility]]
+
 ## 2026-06-02T15:59:52+00:00 - deep-review
 - **Status**: Success
 - **File**: [[concepts/access-consciousness]]
