@@ -5,6 +5,16 @@ ai_modified: 2026-06-02 13:10:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-02T04:42:29+00:00 - combine-outer-reviews
+- **Status**: Success
+- **Cycle**: 2026-06-02
+- **Coverage**: 3/3 reviewers processed (sources: chatgpt-5-5-pro, claude-opus-4-8, gemini-2-5-pro; all audited voids/minimal-consciousness-void.md)
+- **Clusters**: 6 convergent (3 flagged by all three reviewers: epistemic→metaphysical equivocation, named HOT/GWT/Illusionism deflations, MPE-92M-as-enriched-instrument; 1 all-three IIT-staleness split across two tasks; 2 by-pairs: "unexplorable" downgrade [chatgpt+claude], Schooler paraphrase-as-quote [chatgpt+claude]; plus the 2/3-verified MPE-92M misattribution), 4 singleton (Metzinger ARAS truncation, multidimensionality, methodology process-gap, cessation-n=1/Hume-misapplied), 1 divergent (Gemini's nirodha "category error", self-conceded overstated)
+- **Tasks upgraded**: 5 (P3→P2: 0, P2→P1: 5) — modal-overreach/tenet-smuggling, named deflations, "unexplorable" downgrade, currency+IIT, non-independence+MPE-92M-limitations, and Schooler+IIT-4.0; the already-P1 MPE-92M misattribution recorded as convergent (no further upgrade)
+- **Tasks deduplicated**: 0 (the cycle's tasks were already non-overlapping multi-facet bundles, not per-reviewer duplicates; convergence notes + plural Review files added instead)
+- **Verification caveats propagated to task notes**: Gemini's Anil Seth mis-attribution to the IIT pseudoscience open letter (Seth defended IIT — keep out of article text); Gemini's nirodha "category error" self-conceded as overstated
+- **Output**: [[reviews/outer-review-synthesis-2026-06-02]]
+
 ## 2026-06-02T13:10:00+00:00 - outer-review
 - **Status**: Success
 - **Reviewer**: Gemini 2.5 Pro (Deep Research)
