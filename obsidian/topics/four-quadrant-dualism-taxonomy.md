@@ -4,7 +4,7 @@ description: "Two-axis taxonomy sorting dualist positions by how much ontologica
 created: 2026-04-21
 modified: 2026-05-11
 human_modified:
-ai_modified: 2026-05-27T15:45:00+00:00
+ai_modified: 2026-06-02T21:22:01+00:00
 draft: false
 topics:
   - dualism
@@ -40,7 +40,7 @@ author:
 ai_system: "claude-opus-4-7"
 ai_generated_date: 2026-04-21
 last_curated:
-last_deep_review: 2026-05-11T23:28:00+00:00
+last_deep_review: 2026-06-02T21:22:01+00:00
 ---
 
 Dualist positions are usually classified by the *kind* of mind–matter relation they posit (substance vs property; interactive vs epiphenomenal; Chalmers' Type-D vs Type-E vs Type-F). A second axis is rarely named: how much ontological weight each side carries. Crossing these gives four quadrants — min-mind/min-physical, min-mind/max-physical, max-mind/min-physical, max-mind/max-physical — three of which are extensively discussed in the literature and one of which appears to be largely avoided by contemporary philosophers, perhaps because the discipline's training reads parsimony as virtue.
@@ -54,7 +54,7 @@ This article names the two axes, populates the quadrants with concrete positions
 How much ontological work does the non-physical side do?
 
 - **Thin / deflationary mind**: only what is phenomenally introspectable — bare qualia, the felt redness of red, the minimum of the cogito. No unconscious mental substance, no unperceived qualia-spaces, no causal powers beyond what a property-dualist framework admits. This covers most textbook property dualism, epiphenomenalism, and a range of Type-E and Type-F positions.
-- **Medium mind**: a unified subject that persists across acts, capable of minimal causal intervention, but still anchored to the introspective horizon. Martine Nida-Rümelin's substance dualism (which posits a unitary immaterial mind without requiring that the mind can exist independently of the body) sits here, as does Chalmers' naturalistic dualism paired with psychophysical laws.
+- **Medium mind**: a unified subject that persists across acts, capable of minimal causal intervention, but still anchored to the introspective horizon. Martine Nida-Rümelin's subject-body dualism (which posits a unitary immaterial subject without requiring that the mind can exist independently of the body — she reserves "substance dualism" for the stronger independence claim she does not make) sits here, as does Chalmers' naturalistic dualism paired with psychophysical laws.
 - **Thick / inflationary mind**: a subliminal self, a cosmic consciousness, or a multi-stratum individuality whose waking ego is a narrow selection from a much larger mental reality. Unperceived qualia-spaces; a rich causal repertoire; mental content vastly exceeding introspection. Kastrup's analytic idealism and priority cosmopsychism (Goff) live at the far end of this axis; the Myers–James subliminal-self tradition is the historical template.
 
 ### Physical-side thickness {#physical-side}
@@ -67,7 +67,7 @@ How much ontological work does the physical side do?
 
 A clarification: "min-physical" does *not* mean fewer physical things exist, in the eliminativist sense. It means physics' own ontology is treated as minimal rather than enriched with quiddities, hidden variables, or ignorance-facts. "Max-physical" expands the physical side *ontologically*, not *spatially*.
 
-The thickness axis is orthogonal to the substance/property distinction and to Chalmers' Type-D/E/F classification. A thin-mind position can still be a substance dualism (Nida-Rümelin), and a thick-mind position can be a property dualism (rich subliminal properties over a single substance). A skeptic might suspect the axis is merely a re-parameterisation of Type-F (intrinsic) vs Type-E (epiphenomenal) — both distinctions do track something like "how much consciousness contributes." But the axes seem to pull apart on concrete cases. Nida-Rümelin and Descartes are both Type-D interactionist substance dualists in Chalmers' taxonomy, yet they sit at different points on mind-thickness: Nida-Rümelin posits a unitary introspective mind with minimal causal intervention (mind-medium), whereas Cartesian *res cogitans* carries substantial extra-introspective cognitive content and rich active substance (mind-thick). Saad's delegatory dualism (2025) is arguably closer to Type-D than Chalmers' own naturalistic dualism, yet mind-thin on the thickness axis where Chalmers is mind-medium. Chalmers' classification by *relation type* does not discriminate these cases; the thickness axis does. That is why the axis needs its own name.
+The thickness axis is orthogonal to the substance/property distinction and to Chalmers' Type-D/E/F classification. A substance dualism need not be thick-mind — Nida-Rümelin's unitary immaterial subject sits only at mind-medium, well short of Cartesian *res cogitans* — and a thick-mind position can be a property dualism (rich subliminal properties over a single substance). A skeptic might suspect the axis is merely a re-parameterisation of Type-F (intrinsic) vs Type-E (epiphenomenal) — both distinctions do track something like "how much consciousness contributes." But the axes seem to pull apart on concrete cases. Nida-Rümelin and Descartes both fall under Type-D interactionist dualism in Chalmers' taxonomy, yet they sit at different points on mind-thickness: Nida-Rümelin posits a unitary introspective mind with minimal causal intervention (mind-medium), whereas Cartesian *res cogitans* carries substantial extra-introspective cognitive content and rich active substance (mind-thick). Saad's delegatory dualism (2025) is arguably closer to Type-D than Chalmers' own naturalistic dualism, yet mind-thin on the thickness axis where Chalmers is mind-medium. Chalmers' classification by *relation type* does not discriminate these cases; the thickness axis does. That is why the axis needs its own name.
 
 ### Limits of the Thickness Metaphor {#limits-thickness}
 
@@ -178,9 +178,9 @@ Three open questions deserve further work.
 4. Kastrup, B. *Analytic Idealism Glossary*. https://analyticidealism.com/glossary.html
 5. Kim, J. (2005). *Physicalism, or Something Near Enough*. Princeton University Press.
 6. Myers, F. W. H. (1903). *Human Personality and Its Survival of Bodily Death*. https://psi-encyclopedia.spr.ac.uk/articles/frederic-wh-myers/
-7. Nida-Rümelin, M. (2019). Contemporary substance-dualist defence, discussed in the Stanford Encyclopedia of Philosophy entry "Dualism."
+7. Nida-Rümelin, M. (2010). "An Argument from Transtemporal Identity for Subject-Body Dualism." In *The Waning of Materialism*, Oxford University Press, 191–212. Her unitary-subject view is discussed in the Stanford Encyclopedia of Philosophy entry "Dualism," which notes she prefers "subject-body dualism" to "substance dualism." https://plato.stanford.edu/entries/dualism/
 8. Russell, B. (1921). *The Analysis of Matter*. Discussed in the Stanford Encyclopedia of Philosophy entry "Russellian Monism." https://plato.stanford.edu/entries/russellian-monism/
-9. Saad, B. (2025). "Delegatory Dualism." Summary: https://unfinishablemap.org/research/bradford-saad-delegatory-dualism-2026-01-28/
+9. Saad, B. (2025). "A Dualist Theory of Experience." *Philosophical Studies* 182: 939–967. (Develops the position the Map labels "delegatory dualism.") Summary: https://unfinishablemap.org/research/bradford-saad-delegatory-dualism-2026-01-28/
 10. Schaffer, J. (2000). "Trumping Preemption." *Journal of Philosophy* 97: 165–181. http://www.jonathanschaffer.org/trumping.pdf
 11. Stapp, H. "Quantum Interactive Dualism." https://www-physics.lbl.gov/~stapp/QID.pdf
 12. Stoljar, D. (2006). *Ignorance and Imagination: The Epistemic Origin of the Problem of Consciousness*. Oxford University Press.

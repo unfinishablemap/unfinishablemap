@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-17
-ai_modified: 2026-06-02 19:50:32+00:00
+ai_modified: 2026-06-02 20:42:09+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -62,9 +62,9 @@ The structural lesson is clear. The interaction problem cannot be solved by find
 
 A second family of solutions preserves the distinctness of mind and body while denying that interaction requires contact or efficient causation.
 
-**Sāṃkhya's reflection model**, developed most fully by Vācaspati Miśra (c. 9th century) and Vijñānabhikṣu (c. 16th century), holds that consciousness (*Puruṣa*) reflects in the intellect (*buddhi*) the way an image reflects in a mirror. Neither substance is altered. Yet information is transmitted. Vijñānabhikṣu extended this into mutual reflection: consciousness reflects the intellect and the intellect reflects consciousness, creating bidirectional informational coupling without physical contact. Earlier Sāṃkhya formulations—the lame-and-blind analogy of Īśvarakṛṣṇa's *Sāṃkhyakārikā* (c. 350–450 CE), the magnet analogy of Puruṣa's proximity disturbing Prakṛti's equilibrium—gesture toward the same insight without achieving its precision. The reflection model demonstrates that interaction need not mean efficient causation—informational or structural correspondence can bridge an ontological gap without requiring physical contact.
+**Sāṃkhya's reflection model**, developed most fully by Vācaspati Miśra (c. 9th century) and Vijñānabhikṣu (c. 16th century), holds that consciousness (*Puruṣa*) reflects in the intellect (*buddhi*) the way an image reflects in a mirror. Neither substance is altered. Yet information is transmitted. Vijñānabhikṣu extended this into mutual reflection: consciousness reflects the intellect and the intellect reflects consciousness. On Shevchenko's reading of this mirror model, the result is a bidirectional informational coupling that holds without physical contact. Earlier Sāṃkhya formulations—the lame-and-blind analogy of Īśvarakṛṣṇa's *Sāṃkhyakārikā* (c. 350–450 CE), the magnet analogy of Puruṣa's proximity disturbing Prakṛti's equilibrium—gesture toward the same insight without achieving its precision. The reflection model demonstrates that interaction need not mean efficient causation—informational or structural correspondence can bridge an ontological gap without requiring physical contact.
 
-**Avicenna** (Ibn Sīnā, 980–1037 CE) developed what may be the most detailed pre-modern account of bidirectional mind-body interaction. His Flying Man thought experiment establishes the soul's independence from the body. The soul has two functional aspects: the **practical intellect** faces downward toward matter, governing bodily actions, while the **theoretical intellect** faces upward toward the Active Intellect, receiving intelligible forms. Bodily states exert a "bottom-up preparing influence," while the soul exerts a "top-down actualizing effect" through the practical intellect's continuous, holistic guidance. The soul governs the body not by pushing matter at a discrete point but by organising bodily processes holistically. Modern interpreters (Jamali et al. 2019) have noted the resonance between this picture and quantum approaches to consciousness, where mental influence shapes probability distributions across neural systems rather than acting at isolated spatial points.
+**Avicenna** (Ibn Sīnā, 980–1037 CE) developed what may be the most detailed pre-modern account of bidirectional mind-body interaction. His Flying Man thought experiment establishes the soul's independence from the body. The soul has two functional aspects: the **practical intellect** faces downward toward matter, governing bodily actions, while the **theoretical intellect** faces upward toward the Active Intellect, receiving intelligible forms. Bodily states exert a "bottom-up preparing influence," while the soul exerts a "top-down actualizing effect" through the practical intellect's continuous, holistic guidance. The soul governs the body not by pushing matter at a discrete point but by organising bodily processes holistically. In a preprint, Jamali et al. (2019) note the resonance between this picture and quantum approaches to consciousness, where mental influence shapes probability distributions across neural systems rather than acting at isolated spatial points.
 
 **Leibniz's pre-established harmony** belongs here structurally: mind and body never interact at all—God has arranged them to run in perfect parallel. This avoids the interaction problem entirely but at the cost of genuine [mental causation](/concepts/mental-causation-and-downward-causation/). The Map rejects it because if consciousness does not causally influence the physical world, the [Bidirectional Interaction](/tenets/#bidirectional-interaction) tenet is violated.
 
@@ -90,7 +90,7 @@ A distinctively modern family of solutions locates the mind-body interface at po
 
 These proposals share a crucial structural feature with non-contact solutions (Type 2): consciousness *selects* among possibilities rather than *injecting* force. The difference is that quantum approaches ground this selection in the [measurement-problem](/concepts/measurement-problem/)—the unsolved question of what determines which outcome actualises when physics specifies only probabilities. Where Sāṃkhya's reflection model offers a metaphor, quantum interactionism offers a mechanism—or at least the outline of one. The Many-Worlds interpretation avoids collapse entirely, eliminating the opening for [mental causation](/concepts/mental-causation-and-downward-causation/)—which is precisely why the Map [rejects it](/tenets/#no-many-worlds).
 
-The quantum family inherits a distinctive weakness. The [decoherence](/concepts/decoherence/) objection argues that quantum coherence cannot survive in warm, wet neural tissue long enough for consciousness to exploit it. Responses exist—disputed timescale calculations (Hameroff's group found estimates seven orders of magnitude longer than Tegmark's), biological quantum effects demonstrated in other systems (avian magnetoreception), and the deeper point that decoherence does not determine which outcome actualises. The empirical question remains open. See [conservation-laws-and-mental-causation](/concepts/conservation-laws-and-mental-causation/) for why energy conservation does not block this approach.
+The quantum family inherits a distinctive weakness. The [decoherence](/concepts/decoherence/) objection argues that quantum coherence cannot survive in warm, wet neural tissue long enough for consciousness to exploit it. Responses exist—disputed timescale calculations (Hagan, Hameroff & Tuszyński (2002) found estimates seven orders of magnitude longer than Tegmark's), biological quantum effects demonstrated in other systems (avian magnetoreception), and the deeper point that decoherence does not determine which outcome actualises. The empirical question remains open. See [conservation-laws-and-mental-causation](/concepts/conservation-laws-and-mental-causation/) for why energy conservation does not block this approach.
 
 ## Type 5: Monist Avoidance
 
@@ -139,8 +139,8 @@ The cross-traditional recurrence broadens the warrant for the *problem*—it sho
 ## References
 
 1. Īśvarakṛṣṇa. *Sāṃkhyakārikā* (c. 350–450 CE). See IEP, "Sankhya": https://iep.utm.edu/sankhya/
-2. "The hard problem of 'pure' consciousness: Samkhya dualist ontology." *Religious Studies*, Cambridge University Press, 2023.
-3. *Mirror of Nature, Mirror of Self: Models of Consciousness in Samkhya, Yoga, and Advaita Vedanta*. Oxford Academic, 2023.
+2. O'Brien-Kop, K. (2024). "The hard problem of 'pure' consciousness: Sāṃkhya dualist ontology." *Religious Studies*, 60(S1), S4–S20. Cambridge University Press (published online 2023). https://doi.org/10.1017/S0034412523000410
+3. Shevchenko, D. (2023). *Mirror of Nature, Mirror of Self: Models of Consciousness in Sāṃkhya, Yoga, and Advaita Vedānta*. Oxford University Press. See esp. the chapter "Consciousness Reflects the Mind, the Mind Reflects Consciousness: Mirror Models in Sāṃkhya and Yoga."
 4. Stanford Encyclopedia of Philosophy, "Nyaya": https://plato.stanford.edu/entries/nyaya/
 5. Jamali, M., Golshani, M., and Jamali, Y. "Avicenna's Ideas and Arguments about Mind and Brain Interaction." *Preprints.org*, 2019. https://www.preprints.org/manuscript/201906.0050
 6. Stanford Encyclopedia of Philosophy, "Ibn Sina": https://plato.stanford.edu/entries/ibn-sina/
@@ -157,3 +157,4 @@ The cross-traditional recurrence broadens the warrant for the *problem*—it sho
 17. Cucu, A. C. & Pitts, J. B. (2019). How Dualists Should (Not) Respond to the Objection from Energy Conservation. *arXiv:1909.13643*.
 18. Stanford Encyclopedia of Philosophy, "Wang Yangming": https://plato.stanford.edu/entries/wang-yangming/
 19. Tempels, P. (1945). *Bantu Philosophy*. Paris: Présence Africaine.
+20. Hagan, S., Hameroff, S. R., & Tuszyński, J. A. (2002). Quantum computation in brain microtubules: Decoherence and biological feasibility. *Physical Review E*, 65(6), 061901. https://doi.org/10.1103/PhysRevE.65.061901

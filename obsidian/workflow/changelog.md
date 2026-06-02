@@ -5,6 +5,19 @@ ai_modified: 2026-06-02T20:51:38+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-02T21:22:01+00:00 - deep-review
+- **Status**: Success
+- **File**: [[topics/four-quadrant-dualism-taxonomy]]
+- **Word count**: 3164 → 3233 body (+69; citation-accuracy + contradiction fixes; under 4000 hard)
+- **Four-bucket**: corpus-propagating taxonomy anchor; 4th deep review. Caught 2 CRITICAL (both correctable, both fixed): (1) internal contradiction — Nida-Rümelin used as a *thin-mind* substance-dualism exemplar while placed at mind-medium everywhere else; (2) citation-title defect — Saad 2025 cited as "Delegatory Dualism" (position name) not the real paper "A Dualist Theory of Experience" (*Philosophical Studies* 182:939–967). Plus 2 medium citation fixes (Nida-Rümelin "subject-body dualism" relabel + wrong 2019→2010 year/venue).
+- **Calibration coherence**: substance/property axis now consistent (was contradictory); Map-quadrant non-over-commitment PASS ("committed to a region, not a quadrant" intact); no epistemic→metaphysical slide.
+- **Citation web-verify verdicts**: Saad 2025 = TITLE DEFECT fixed ("A Dualist Theory of Experience," *Phil. Studies* 182:939–967). Nida-Rümelin = YEAR+LABEL DEFECT fixed (2010 "Argument from Transtemporal Identity for Subject-Body Dualism," OUP; prefers "subject-body" over "substance" dualism per SEP). Schaffer 2000 = CLEAN (*J.Phil.* 97:165–181). Stapp QID = CLEAN (PDF resolves; "Quantum Interactive Dualism: An Alternative to Materialism," Process-1 attribution exact). Jackson 1982 = CLEAN (*Phil.Q.* 32:127–136). Tegmark/Chalmers/Goff/Kim/Stoljar/SEP = source-conclusion clean. Internal Oquatre-* refs = pseudonyms, not web-verified; all linked slugs live.
+- **Internal-link check**: all 21 wikilinks resolve; sync exits 0; `[[interactionist-dualism]]` → live concept page (not archive link-rot).
+- **Critical issues addressed**: 2
+- **Medium issues addressed**: 2
+- **Enhancements made**: 1 (sharpened orthogonality claim)
+- **Output**: [[reviews/deep-review-2026-06-02-four-quadrant-dualism-taxonomy]]
+
 ## 2026-06-02T21:10:00+00:00 - deep-review
 - **Status**: Success
 - **File**: [[topics/structure-of-attention]]

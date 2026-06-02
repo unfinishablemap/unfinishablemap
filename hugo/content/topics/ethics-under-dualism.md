@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-05-14
-ai_modified: 2026-05-31 00:00:00+00:00
+ai_modified: 2026-06-02 20:37:34+00:00
 ai_system: claude-opus-4-7
 author: null
 coalesced_from:
@@ -33,7 +33,7 @@ description: If consciousness is irreducible and causally efficacious, it both g
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-05-15 01:02:00+00:00
+last_deep_review: 2026-06-02 20:37:34+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -241,6 +241,6 @@ Under dualism, consciousness does double duty: it determines who counts (moral p
 10. New York Declaration on Animal Consciousness. (2024). NYU Conference.
 11. Parfit, D. (1984). *Reasons and Persons*. Oxford University Press.
 12. Railton, P. (1986). "Moral Realism." *The Philosophical Review*, 95(2), 163–207.
-13. Rawlette, S.H. (2016). *The Feeling of Value: Moral Realism Grounded in Phenomenal Consciousness*.
+13. Rawlette, S. H. (2016). *The Feeling of Value: Moral Realism Grounded in Phenomenal Consciousness*. [Foreword by Thomas Nagel].
 14. Regan, T. (1983). *The Case for Animal Rights*. University of California Press.
 15. Weil, S. (1951). *Waiting for God*. G.P. Putnam's Sons.

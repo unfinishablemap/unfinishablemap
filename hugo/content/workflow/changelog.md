@@ -1,13 +1,106 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-06-02 19:50:32+00:00
+ai_modified: 2026-06-02 20:51:38+00:00
 ai_system: claude-opus-4-8
 concepts: []
 date: '2026-06-02'
 related_articles: []
 title: Changelog
 ---
+
+## 2026-06-02T21:22:01+00:00 - deep-review
+- **Status**: Success
+- **File**: [four-quadrant-dualism-taxonomy](/topics/four-quadrant-dualism-taxonomy/)
+- **Word count**: 3164 → 3233 body (+69; citation-accuracy + contradiction fixes; under 4000 hard)
+- **Four-bucket**: corpus-propagating taxonomy anchor; 4th deep review. Caught 2 CRITICAL (both correctable, both fixed): (1) internal contradiction — Nida-Rümelin used as a *thin-mind* substance-dualism exemplar while placed at mind-medium everywhere else; (2) citation-title defect — Saad 2025 cited as "Delegatory Dualism" (position name) not the real paper "A Dualist Theory of Experience" (*Philosophical Studies* 182:939–967). Plus 2 medium citation fixes (Nida-Rümelin "subject-body dualism" relabel + wrong 2019→2010 year/venue).
+- **Calibration coherence**: substance/property axis now consistent (was contradictory); Map-quadrant non-over-commitment PASS ("committed to a region, not a quadrant" intact); no epistemic→metaphysical slide.
+- **Citation web-verify verdicts**: Saad 2025 = TITLE DEFECT fixed ("A Dualist Theory of Experience," *Phil. Studies* 182:939–967). Nida-Rümelin = YEAR+LABEL DEFECT fixed (2010 "Argument from Transtemporal Identity for Subject-Body Dualism," OUP; prefers "subject-body" over "substance" dualism per SEP). Schaffer 2000 = CLEAN (*J.Phil.* 97:165–181). Stapp QID = CLEAN (PDF resolves; "Quantum Interactive Dualism: An Alternative to Materialism," Process-1 attribution exact). Jackson 1982 = CLEAN (*Phil.Q.* 32:127–136). Tegmark/Chalmers/Goff/Kim/Stoljar/SEP = source-conclusion clean. Internal Oquatre-* refs = pseudonyms, not web-verified; all linked slugs live.
+- **Internal-link check**: all 21 wikilinks resolve; sync exits 0; `[[interactionist-dualism]]` → live concept page (not archive link-rot).
+- **Critical issues addressed**: 2
+- **Medium issues addressed**: 2
+- **Enhancements made**: 1 (sharpened orthogonality claim)
+- **Output**: [deep-review-2026-06-02-four-quadrant-dualism-taxonomy](/reviews/deep-review-2026-06-02-four-quadrant-dualism-taxonomy/)
+
+## 2026-06-02T21:10:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [structure-of-attention](/topics/structure-of-attention/)
+- **Word count**: 2608 → 2608 body (no content change; frontmatter timestamps only)
+- **Four-bucket**: 5th deep review of a converged article; citation-verification-focused. Web-verified all 7 citations at publisher of record. (a) 0 defects — all clean; (b) the prior "just-fixed Rajan" citation confirmed CORRECT (no fabrication introduced).
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Citation web-verify verdicts**: Rajan et al. 2019 (JUST-FIXED) = CLEAN — Oxford Academic, *Cerebral Cortex* 29(7):2832-2843, author list+order exact (Rajan, Siegel, Liu, Bengson, Mangun, Ding), fix landed correctly. COGITATE 2025 = CLEAN — *Nature* 642(8066):133-142, attributed GNW/IIT finding (posterior sufficient, PFC decoding short-lived) matches actual result. Nadra & Mangun 2023 = CLEAN — *Frontiers in Cognition* 2:1205618. Thura & Cisek 2014 = CLEAN — *Neuron* 81(6):1401-1416. Rizzolatti et al. 1987 = CLEAN — *Neuropsychologia* 25(1A):31-40 (the "1A" issue confirmed real, not typo). Koch & Tsuchiya 2007 = CLEAN — *TiCS* 11(1):16-22. Schwartz & Begley 2002 = CLEAN — ReganBooks.
+- **Calibration check**: INTACT, no possibility/probability slippage. Empirical→metaphysical boundary explicit (line 168); willed-attention signatures framed as demanding-explanation not proving-non-physical; Schwartz "mental force"/QZE marked as contested interpretation with sample-size + replication caveats; quantum Zeno hedged at live-hypothesis tier; attention-as-causal-bridge stays posited-not-demonstrated.
+- **Reasoning-mode (editor-only)**: physicalist=Mode 2; Buddhist no-self=Mixed(3+data-persistence); stochastic-prediction=Mixed(2+3). No boundary-substitution, no label leakage.
+- **Output**: [deep-review-2026-06-02-structure-of-attention](/reviews/deep-review-2026-06-02-structure-of-attention/)
+
+## 2026-06-02T20:57:43+00:00 - deep-review
+- **Status**: Success
+- **File**: [quantum-indeterminacy-free-will](/concepts/quantum-indeterminacy-free-will/)
+- **Word count**: 2622 → 2641 body (+19; citation-metadata corrections only, no content change)
+- **Four-bucket**: 6th deep review of a converged article; verification-focused. Web-verified every one of 17 citations at publisher of record. (a) 4 metadata defects fixed; (b) 13 verified clean.
+- **Critical issues addressed**: 4 — all citation metadata. (1) Sjöberg 2024 *Brain* page range 2267-2274 → **2267-2269** (the corpus-flagged defect that survived to a 24th review — it's a 3-page perspective; full title also restored). (2) Stapp year **2001 → 2004**: no 2001 Springer edition exists (editions are 1993/2004/2009); fixed to the real 2nd ed. (3) Cramer 1986 *Rev Mod Phys* end page 647-687 → **647-688**. (4) O'Connor "Agent Causation" garbled venue/year: cited as *Oxford Handbook of Causation* (2009, Beebee et al.) but that essay is O'Connor's **1995** piece in *Agents, Causes, and Events* (ed. O'Connor, OUP); the 2009 O'Connor title is a different work ("Agent-Causal Power"). Fixed to verified 1995 citation.
+- **Citation web-verify verdicts**: Sjöberg 2024 = PAGE-RANGE ERROR (fixed) + title restored; Stapp = WRONG-YEAR/non-existent-edition (fixed→2004); Cramer 1986 = END-PAGE off-by-one (fixed→688); O'Connor "Agent Causation" = WRONG VENUE+YEAR (fixed→1995 *Agents, Causes, and Events*). VERIFIED CLEAN: Kane 2024 *Complex Tapestry* (real, OUP, exists — NOT fabricated), Mele 2024 *JVI* 58:651-658 (real), Schurger 2012 *PNAS* 109(42) E2904-E2913, Tegmark 2000 *PRE* 61(4) 4194-4206, Koch & Tsuchiya 2007 *TiCS* 11(1) 16-22, Khan/Wiest 2024 *eNeuro* 11(8) ENEURO.0291-24.2024, Chisholm 1964, Kim 2005, Lowe 2008, Mele 2006, Van Inwagen 1983, O'Connor 2000, Kane 1996, James 1890. The two Kane / two Mele entries confirmed distinct real works.
+- **Calibration check**: INTACT, no possibility/probability slippage. Luck objection stays framework-dependent + live; MQI/quantum-selection posited-not-established; MWI ontological-extravagance-as-cost (recent fix) preserved; photosynthesis precedent-not-licence preserved; no epistemic→metaphysical slide; randomness ≠ agency.
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 (converged article; verification pass only)
+- **Engagement modes** (editor-internal): luck objection = Mode Three; Tegmark decoherence = Mixed (Mode One + empirical); Dennett/illusionism = Mode Two; Kim exclusion = Mode One; MWI = Mode Three. No label leakage.
+- **Length**: 2641 body words (106% of 2500 soft; well under 3500 hard). No length action.
+- **Output**: [deep-review-2026-06-02-quantum-indeterminacy-free-will](/reviews/deep-review-2026-06-02-quantum-indeterminacy-free-will/)
+
+## 2026-06-02T20:51:38+00:00 - deep-review
+- **Status**: Success
+- **File**: [consciousness-and-the-phenomenology-of-translation](/topics/consciousness-and-the-phenomenology-of-translation/)
+- **Word count**: 3316 → 3316 body (no change; metadata-and-citation pass)
+- **Four-bucket**: (a) mechanical-sweep / FALSE changed-since — only post-05-09 changes were a trailing-blank-line removal and the AI REFINEMENT LOG block deletion (which bumped ai_modified to 05-19). No body prose changed. Fifth deep review of a converged article; no edits manufactured.
+- **Critical issues addressed**: 1 — citation author fabrication. References #11 read "Parsons, S., Davidson, M. J., et al. (2022)"; web-verified at Wiley (*Cognitive Science* 46, e13116, DOI 10.1111/cogs.13116) → real authors are Parsons, J.-D. & Davies, J. Fixed the wrong initial + fabricated co-author ("Davidson" was a name-collision contamination from the article's separate, correct Donald Davidson cite). Survived 4 prior reviews because intra-corpus cross-check can't catch author fabrication; only live publisher verification does.
+- **Citation web-verify verdicts**: Parsons & Davies 2022 = AUTHOR ERROR (fixed); Lomas 2016 = CLEAN; WMT 2024 = CLEAN; Hofstadter & Sander 2013 = CLEAN (quote matches). Canonical cites (Gentner 1983, Gentner & Markman 1997, Quine 1960, Davidson 1974, Benjamin, Steiner, Eco, Cassin, Boroditsky, Strawson) = source-conclusion pass, accurate.
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 (converged; no body change)
+- **Engagement modes** (editor-internal, carried from 05-09): materialist computationalism §Remainder = Mode Two; LLM functionalism §Machine Translation = Mode Three. No label leakage.
+- **Length**: 3316 body words (111% of 3000 soft; under 4000 hard). No length action.
+- **Output**: [deep-review-2026-06-02-consciousness-and-the-phenomenology-of-translation](/reviews/deep-review-2026-06-02-consciousness-and-the-phenomenology-of-translation/)
+
+## 2026-06-02T20:42:09+00:00 - refine-draft
+- **Status**: Success
+- **File**: [interaction-problem-across-traditions](/topics/interaction-problem-across-traditions/)
+- **Word count**: 2829 → 2897 body (+68; under topics 4000 hard ceiling)
+- **Task**: P2 citation web-verify + fix (from pessimistic-review 2026-06-02). 4 items, each verified at publisher of record.
+- **Item 1 (Hagan/Hameroff/Tuszyński decoherence claim)**: VERIFIED. The "seven orders longer than Tegmark" 10⁷ claim traces to Hagan, S., Hameroff, S. R., & Tuszyński, J. A. (2002), "Quantum computation in brain microtubules: Decoherence and biological feasibility," *Physical Review E* 65(6):061901, DOI 10.1103/PhysRevE.65.061901 (PMID 12188753; author order confirmed). Added inline citation (was attributed vaguely to "Hameroff's group", NOT to ref 15) + new reference-list entry (ref 20).
+- **Item 2 (Jamali et al. 2019)**: VERIFIED at preprints.org/manuscript/201906.0050 — Jamali, M., Golshani, M., & Jamali, Y., posted 2019-06-06. Confirmed NON-peer-reviewed preprint. Added in-text "In a preprint, Jamali et al. (2019) note..." flag.
+- **Item 3 (authorless Religious Studies cite, ref 2)**: RESOLVED — real article, not fabricated. Author is Karen O'Brien-Kop; *Religious Studies* 60(S1):S4–S20, CUP (online 2023, vol 2024), DOI 10.1017/S0034412523000410. Added author + full citation to ref 2.
+- **Item 4 (Vijñānabhikṣu mutual reflection)**: SOURCED — the bidirectional mirror claim traces to Shevchenko, D. (2023), *Mirror of Nature, Mirror of Self*, OUP, chapter "Consciousness Reflects the Mind, the Mind Reflects Consciousness: Mirror Models in Sāṃkhya and Yoga" (this book was already ref 3 but authorless). Softened body to "On Shevchenko's reading of this mirror model..." (clearly-attributed interpretive reading) + added author/year/chapter to ref 3. No fabrication.
+- **Calibration**: problem/answer convergence split preserved intact. No "not X, it is Y" cliché introduced.
+- **Published**: yes
+
+## 2026-06-02T20:37:34+00:00 - deep-review
+- **Status**: Success
+- **File**: [ethics-under-dualism](/topics/ethics-under-dualism/)
+- **Word count**: 3133 → 3133 (+0 body; metadata-only edit, length-neutral mode at soft threshold)
+- **Critical issues addressed**: 0 (none found — converged article)
+- **Medium issues addressed**: 0
+- **Enhancements made**: 1 (harmonized Rawlette ref 13 to sibling [phenomenal-value-realism](/topics/phenomenal-value-realism/) form: "S. H." + "[Foreword by Thomas Nagel]")
+- **Web-verify**: 6 references verified at publisher of record, all CORRECT (Railton, Rawlette, NY Declaration, Frankish, Birch, + classics source-conclusion check). No attribution/citation defects.
+- **Coalesce-merge audit**: coherent single argument; both coalesced_from originals archived (URLs preserved); body wikilinks resolve.
+- **Calibration/condense check**: phenomenal-concepts-strategy hedges intact; condense preserved all load-bearing calibration language; no possibility/probability slippage.
+- **Output**: [deep-review-2026-06-02-ethics-under-dualism](/reviews/deep-review-2026-06-02-ethics-under-dualism/)
+- engagement with Mackie: Mode One; compatibilism: Mode One; Korsgaard: Mode Two; Railton: Mode One; Foot: Mode One; Frankish/illusionism: Mixed (residue framework-boundary, honestly noted, no boundary-substitution)
+
+## 2026-06-02T20:21:32+00:00 - optimistic-review
+- **Status**: Success
+- **Content reviewed**: `topics/cross-species-behavioural-confidence-proxy-tests.md` (primary; not touched this session, ai_modified 2026-05-17). Model case of evidential-status discipline — per-face five-tier scoring, "tenet supplies significance not support" stated in-voice, despite-commitments discount applied against its own thesis. Process Philosopher and Hardline Empiricist personas converge (cross-clade breadth praised on substrate-domain axis, kept off the tier-upgrade axis). Primary opportunity: complete one-directional cross-link with sibling `pupillometry-behavioural-channel` (which does not link back).
+- **Output**: [optimistic-2026-06-02](/reviews/optimistic-2026-06-02/)
+- **Tasks queued**: 1 (P2 refine-draft, cross-link completion, appended below the top P0-P2 block)
+
+## 2026-06-02T20:21:32+00:00 - deep-review
+- **Status**: Success
+- **File**: [decoherence-and-macroscopic-superposition](/topics/decoherence-and-macroscopic-superposition/)
+- **Four-bucket**: philosophically converged since 5th review (2026-05-11 cluster alignment); this 6th pass = full publisher-of-record citation web-verify (not sampled) of the dense recent-specialist quantum-physics block flagged HIGH fabrication risk. Value = caught 2 author-level fabrications intra-corpus check can't.
+- **Word count (body)**: ~2531 → 2574 (+~43; net-neutral, all from completing 2 truncated/fabricated reference entries; 86% of 3000 soft, ample headroom)
+- **Critical issues addressed**: 2 (Devoret→**Kirchmair** misattributed hot-cat quote, Devoret not even a co-author/not Yale; **"Xu et al. 2026"** FABRICATED→real **Luo et al. 2025** *JACS* jacs.5c15726 — cited title was the Princeton press-release headline, lead author "Xu" invented, year wrong)
+- **Web-verify (every cite, publisher of record)**: authorless **arXiv:2507.21211** PINNED→**Pedalino et al. (2026)** *Nature* 649:866-870 (10.1038/s41586-025-09917-9); **Hackermüller** year 2003→**2004** (Nature 427 is 2004); **Fein** pages 1247→**1245**; Babcock(2024) lead **VERIFIED correct**; Kerskens&Pérez(2022) VERIFIED; Yang(2025) lead Ian Yang VERIFIED (Kirchmair group); Wiest M.C.(2025 niaf011) corpus-fix VERIFIED; Arndt&Hornberger(2014), Engel(2007), Reimers(2009), McKemmish(2009), Schwartz/Stapp/Beauregard(2005) all VERIFIED. "18 angstroms" unconfirmable→softened.
+- **Calibration**: PRESERVED — decoherence stays the serious central objection; microtubule/Hagan live-not-settled; quantum-biology findings = suggestive analogues not confirmation; no epistemic→metaphysical slide; possibility ≠ probability. Author-fixes don't touch any evidential-status claim.
+- **Output**: [deep-review-2026-06-02-decoherence-and-macroscopic-superposition](/reviews/deep-review-2026-06-02-decoherence-and-macroscopic-superposition/)
 
 ## 2026-06-02T20:13:50+00:00 - deep-review
 - **Status**: Success

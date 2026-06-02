@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-19
-ai_modified: 2026-06-01 05:58:00+00:00
+ai_modified: 2026-06-02 20:57:43+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -29,7 +29,7 @@ description: How quantum mechanics creates logical space for libertarian free wi
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-05-18 21:52:00+00:00
+last_deep_review: 2026-06-02 20:57:43+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -217,7 +217,7 @@ The convergence of Kane's event-causal libertarianism (now incorporating agent-c
 ## References
 
 1. Chisholm, R. (1964). "Human Freedom and the Self." *The Lindley Lecture*, University of Kansas.
-1. Cramer, J.G. (1986). "The transactional interpretation of quantum mechanics." *Reviews of Modern Physics*, 58(3), 647-687.
+1. Cramer, J.G. (1986). "The transactional interpretation of quantum mechanics." *Reviews of Modern Physics*, 58(3), 647-688.
 1. James, W. (1890). *The Principles of Psychology*. Henry Holt.
 1. Kane, R. (1996). *The Significance of Free Will*. Oxford University Press.
 1. Kane, R. (2024). *The Complex Tapestry of Free Will*. Oxford University Press.
@@ -227,10 +227,10 @@ The convergence of Kane's event-causal libertarianism (now incorporating agent-c
 1. Mele, A. (2006). *Free Will and Luck*. Oxford University Press.
 1. Mele, A. (2024). "Soft Libertarianism and Quantum Randomizers." *Journal of Value Inquiry*, 58, 651-658.
 1. O'Connor, T. (2000). *Persons and Causes*. Oxford University Press.
-1. O'Connor, T. (2009). "Agent Causation." In *The Oxford Handbook of Causation*, ed. Beebee et al.
+1. O'Connor, T. (1995). "Agent Causation." In *Agents, Causes, and Events: Essays on Indeterminism and Free Will*, ed. T. O'Connor. Oxford University Press.
 1. Schurger, A. et al. (2012). An accumulator model for spontaneous neural activity prior to self-initiated movement. *PNAS*, 109(42), E2904-E2913.
-1. Sjöberg, R.L. (2024). The readiness potential and the soul. *Brain*, 147(7), 2267-2274.
-1. Stapp, H. (2001). *Mind, Matter and Quantum Mechanics*. Springer.
+1. Sjöberg, R.L. (2024). The readiness potential and the soul: what happens when you resect their seat in the brain? *Brain*, 147(7), 2267-2269.
+1. Stapp, H. (2004). *Mind, Matter and Quantum Mechanics* (2nd ed.). Springer.
 1. Tegmark, M. (2000). Importance of quantum decoherence in brain processes. *Physical Review E*, 61(4), 4194-4206.
 1. Van Inwagen, P. (1983). *An Essay on Free Will*. Oxford University Press.
 1. Khan, S., ... Wiest, M. C. et al. (2024). Microtubule-stabilizer epothilone B delays anesthetic-induced unconsciousness in rats. *eNeuro*, 11(8), ENEURO.0291-24.2024.

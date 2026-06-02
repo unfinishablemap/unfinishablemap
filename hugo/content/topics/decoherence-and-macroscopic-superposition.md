@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-27
-ai_modified: 2026-05-27 08:30:00+00:00
+ai_modified: 2026-06-02 20:21:32+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -18,7 +18,7 @@ description: The quantum-classical boundary keeps receding. Hot cat states, nano
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-05-11 12:51:00+00:00
+last_deep_review: 2026-06-02 20:21:32+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -71,7 +71,7 @@ The experiment's "macroscopicity" measure (μ = 15.5) exceeded all previous expe
 
 Quantum computing typically requires temperatures near absolute zero to maintain coherence. In April 2025, researchers created "hot Schrödinger cat states"—quantum superpositions of microwave fields—at 1.8 kelvin. This is roughly 60 times hotter than the ground state, with thermal purity as low as 0.06.
 
-Yale physicist Michel Devoret, a co-author on the study, stated: "If we can create the necessary interactions in a system, the temperature ultimately doesn't matter."
+Innsbruck physicist Gerhard Kirchmair, a co-author on the study, stated: "If we can create the necessary interactions in a system, the temperature ultimately doesn't matter."
 
 This doesn't mean room-temperature macroscopic superposition is around the corner. These are carefully engineered systems—cryogenic temperatures, vacuum or near-vacuum conditions, precise laser manipulation—that remain extremely distant from biological reality. The brain operates at ~310 kelvin, immersed in aqueous solution with constant thermal noise. The gap between laboratory demonstrations and neural tissue is vast.
 
@@ -91,7 +91,7 @@ Subsequent work has revised the initial claims—coherence times are shorter tha
 
 Migratory birds navigate using Earth's magnetic field through a mechanism that exploits quantum spin coherence. Light triggers electron transfer in cryptochrome proteins, creating radical pairs whose singlet-triplet dynamics depend on external magnetic fields. Spin coherence persists for *microseconds*—a million times longer than typical solution-phase decoherence.
 
-A January 2026 Princeton study provided computational confirmation of this mechanism, identifying the electron transfer pathway over 18 angstroms and showing how protein reorganisation stabilises the radical pair for magnetic sensing.
+A 2025 computational study (Luo et al.) provided support for this mechanism, identifying the principal electron transfer pathway and showing how reorganisation of the protein environment and surrounding solvent stabilises the well-separated radical pair for magnetic sensing.
 
 This is evolution harnessing quantum mechanics for biological function in a warm, wet system. If quantum effects work for navigation, the principle is established. The question becomes whether similar mechanisms operate elsewhere, not whether they're possible in principle.
 
@@ -162,8 +162,8 @@ The [Minimal Quantum Interaction tenet](/tenets/#minimal-quantum-interaction) ga
 1. Arndt, M., & Hornberger, K. (2014). Testing the limits of quantum mechanical superpositions. *Nature Physics*, 10, 271-277.
 1. Babcock, N.S. et al. (2024). Ultraviolet superradiance from mega-networks of tryptophan in biological architectures. *Journal of Physical Chemistry B*, 128(17), 4035-4046.
 1. Engel, G.S. et al. (2007). Evidence for wavelike energy transfer through quantum coherence in photosynthetic systems. *Nature*, 446, 782-786.
-1. Fein, Y.Y. et al. (2019). Quantum superposition of molecules beyond 25 kDa. *Nature Physics*, 15, 1242-1247.
-1. Hackermuller, L. et al. (2003). Decoherence of matter waves by thermal emission of radiation. *Nature*, 427, 711-714.
+1. Fein, Y.Y. et al. (2019). Quantum superposition of molecules beyond 25 kDa. *Nature Physics*, 15, 1242-1245.
+1. Hackermuller, L. et al. (2004). Decoherence of matter waves by thermal emission of radiation. *Nature*, 427, 711-714.
 1. Hagan, S., Hameroff, S., & Tuszynski, J. (2002). Quantum computation in brain microtubules: Decoherence and biological feasibility. *Physical Review E*, 65, 061901.
 1. Kerskens, C.M., & Pérez, D.L. (2022). Experimental indications of non-classical brain functions. *Journal of Physics Communications*, 6, 105001.
 1. McKemmish, L.K., Reimers, J.R., McKenzie, R.H., Mark, A.E., & Hush, N.S. (2009). Penrose-Hameroff orchestrated objective-reduction proposal for human consciousness is not biologically feasible. *Physical Review E*, 80(2), 021912.
@@ -172,6 +172,6 @@ The [Minimal Quantum Interaction tenet](/tenets/#minimal-quantum-interaction) ga
 1. Stanford Encyclopedia of Philosophy. The Role of Decoherence in Quantum Mechanics.
 1. Wiest, M. C. (2025). A quantum microtubule substrate of consciousness is experimentally supported and solves the binding and epiphenomenalism problems. *Neuroscience of Consciousness*, 2025(1), niaf011.
 1. Yang, I. et al. (2025). Hot Schrödinger cat states. *Science Advances*, 11, eadr4492.
-1. Nanoparticle matter-wave interference. (2025). arXiv:2507.21211.
+1. Pedalino, S., Ramírez-Galindo, B.E., Ferstl, R., Hornberger, K., Arndt, M., & Gerlich, S. (2026). Probing quantum mechanics with nanoparticle matter-wave interferometry. *Nature*, 649, 866-870. doi:10.1038/s41586-025-09917-9. (Preprint: arXiv:2507.21211.)
 1. Schwartz, J. M., Stapp, H. P., & Beauregard, M. (2005). Quantum physics in neuroscience and psychology: A neurophysical model of mind-brain interaction. *Philosophical Transactions of the Royal Society B*, 360(1458), 1309-1327.
-1. Xu, J. et al. (2026). Computational support for cryptochrome-based magnetoreception. *Journal of the American Chemical Society*.
+1. Luo, J., Hungerland, J., Solov'yov, I.A., Subotnik, J.E., & Hammes-Schiffer, S. (2025). Protein and solvent reorganization drives radical pair stability in avian cryptochrome 4a. *Journal of the American Chemical Society*. doi:10.1021/jacs.5c15726.
