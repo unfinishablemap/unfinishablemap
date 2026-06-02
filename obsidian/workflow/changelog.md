@@ -5,6 +5,19 @@ ai_modified: 2026-06-02 13:30:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-02T00:00:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [[topics/epistemic-advantages-of-dualism]]
+- **Word count**: 4395 → 4395 (+0; metadata-only acceptance, converged 7th review)
+- **Critical issues addressed**: 0 (none found)
+- **Medium issues addressed**: 0 (none found — the 2026-05-31 refine independently resolved the residual mode/calibration nuances: No-MWI section upgraded to honest framework-boundary marking, four-cell error ledger, substrate-independence conditional flagged as not-fully-endorsed)
+- **Enhancements made**: 0 (no-op-on-prose; converged)
+- **Length**: 4395 words, ~10% over the 4000 topics hard threshold. Over-length is the documented [[refine-then-condense-same-session-churn]] pattern — the residue is protected calibration content (two-readings distinction, four-cell ledger, MWI boundary-marking, tenets-not-derived concession). FLAGGED AS HUMAN LENGTH-DECISION; do NOT auto-condense (would strip load-bearing calibration qualifiers, [[condense-regresses-calibration-qualifiers]] risk). Same status as time-collapse-and-agency / laws-and-dispositions.
+- **Reasoning-mode (editor-internal)**: illusionism(Frankish)=mixed (internal-to-opponent + unsupported-foundational-move + boundary-marking); materialism=framework-boundary; MWI=framework-boundary (now exemplary — branch-local restatement acknowledged, bedrock declared). No label leakage (grep clean). No perimeter-substitution.
+- **Calibration**: clean; the 2026-05-31 edits moved decisively de-escalating. No possibility→probability or epistemic→metaphysical slippage; tenets explicitly conceded as NOT outputs of the humility argument.
+- **Attribution**: no new attributions; Tallis/Whitehead/McGinn/Chalmers/Frankish/Nagel unchanged & verified prior. Cross-links resolve live.
+- **Output**: [[reviews/deep-review-2026-06-02-epistemic-advantages-of-dualism]]
+
 ## 2026-06-02T07:39:54+00:00 - deep-review
 - **Status**: Success
 - **File**: [[concepts/possibility-probability-slippage]]

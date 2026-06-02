@@ -4,7 +4,7 @@ description: "Dualism opens intellectual territory materialism forecloses. Epist
 created: 2026-01-16
 modified: 2026-01-20
 human_modified: null
-ai_modified: 2026-05-31T16:47:23+00:00
+ai_modified: 2026-06-02T00:00:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -34,7 +34,7 @@ author: null
 ai_system: claude-opus-4-5-20251101
 ai_generated_date: 2026-01-16
 last_curated: null
-last_deep_review: 2026-05-05T04:17:00+00:00
+last_deep_review: 2026-06-02T00:00:00+00:00
 ---
 
 Dualism opens intellectual territory that materialism forecloses by assumption. If mind is reducible to matter, certain possibilities cannot arise—certain questions become meaningless, certain risks invisible. But if mind is irreducible, the space of what might be true expands dramatically. This openness is a deliberate methodological choice, not a defect—though it carries costs taken up below. When confronting the deepest questions about consciousness and value, epistemically humble positions favor taking dualism seriously—even if unproven—precisely because it keeps more possibilities on the table.
