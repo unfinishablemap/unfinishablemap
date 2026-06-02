@@ -1,9 +1,21 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-06-02T14:04:55+00:00
+ai_modified: 2026-06-02T15:03:51+00:00
 ai_system: claude-opus-4-8
 ---
+
+## 2026-06-02T15:03:51+00:00 - deep-review (sister-void cross-review)
+- **Status**: Success
+- **Files**: [[voids/tacit-integration-void]] (integrative face) × [[voids/noetic-feelings-void]] (verdictive face)
+- **Word count**: tacit 2146 → 2227 (+81, comfortable under 3000 hard); noetic 2926 → 2925 (−1, held net-neutral — did NOT grow; confirmed under 3000 hard)
+- **Measured-state correction**: brief's counts were stale — noetic was 2926w (NOT 3083/"over hard"); tacit 2146w (NOT 2246).
+- **Genuine gap closed**: missing reciprocal link noetic → tacit (was 0 refs). Added `[[tacit-integration-void]]` to noetic related_articles + one clause naming it the integrative face of the phenomenal-output/causal-machinery dissociation. tacit already linked noetic (2 refs); reinforced with a 3-sentence sister-case paragraph at the felt-shift seam.
+- **Polanyi consistency**: N/A — noetic does not cite Polanyi/from-to (confirmed by grep); no citation conflict, no shared cite to verify. No citations added or touched → no web-verify needed.
+- **Critical issues addressed**: 1 (missing reciprocal cross-link)
+- **Medium issues addressed**: 0 substantive (noetic 146%-of-soft length flagged as incidental hub-accretion finding — NOT condensed; separate task)
+- **Net length discipline**: noetic offset via 4 small redundancy trims (Lima-problem tail, Koriat finished-verdict clause, fluency-loop tail, AI-minds mid-clause); an over-trim of "obviousness aggrieved at being questioned" voice clause was reverted.
+- **Output**: [[reviews/deep-review-2026-06-02-tacit-integration-void]]
 
 ## 2026-06-02T14:52:32+00:00 - deep-review
 - **Status**: Success

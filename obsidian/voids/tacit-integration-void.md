@@ -4,8 +4,8 @@ description: "Subsidiary cues bear on a focal meaning only by not being focal th
 created: 2026-04-27
 modified: 2026-05-02
 human_modified:
-ai_modified: 2026-05-02T04:54:00+00:00
-last_deep_review: 2026-05-02T04:54:00+00:00
+ai_modified: 2026-06-02T15:03:51+00:00
+last_deep_review: 2026-06-02T15:03:51+00:00
 draft: false
 topics:
   - "[[philosophy-of-mind]]"
@@ -53,6 +53,8 @@ Polanyi's stronger claim is that the from-to relation is *constitutive* of meani
 Eugene Gendlin extends the analysis into bodily, pre-articulate knowing. The *felt sense* is a holistic, pre-conceptual sensing of a whole situation, distinct from emotion, image, or explicit thought. Articulation, for Gendlin, is *carrying forward*: concept and felt sense each elaborate the other, the concept enabling a more determinate felt sense rather than reporting on what is already explicit (Gendlin, 1981).
 
 The crucial detail for the void is the *felt shift* — the bodily change that registers when an articulation fits. The shift functions as a phenomenal check: wrong words produce a non-shift. But the criterion of fit is itself another felt sense, not a representation that can be cashed out. Articulating the criterion would require a further check, which would be a further felt sense. The void recurs at each level.
+
+The felt shift marks the sister relation to the [[noetic-feelings-void]], which treats the *verdictive* face — felt signals (knowing, rightness, coherence) that gate cognition while their producing heuristics stay hidden. This void treats the *integrative* face: the bearing relation that generates such verdicts and is destroyed by being made focal. The felt shift is where the two meet — a noetic-feeling verdict on a tacit integration, where neither the verdict's derivation nor the integration earning it can be thematised without collapse.
 
 Gendlin's tradition is phenomenological, so this is convergence within a school rather than across them. The angles still differ usefully: Polanyi's logic of bearing, Gendlin's bodily fit.
 

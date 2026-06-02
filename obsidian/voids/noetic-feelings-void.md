@@ -4,7 +4,7 @@ description: "The felt signals that gate cognition from inside—knowing, rightn
 created: 2026-02-27
 modified: 2026-04-30
 human_modified:
-ai_modified: 2026-06-01T03:35:00+00:00
+ai_modified: 2026-06-02T15:03:51+00:00
 draft: false
 topics:
   - "[[philosophy-of-mind]]"
@@ -42,6 +42,7 @@ related_articles:
   - "[[compound-failure-signatures]]"
   - "[[predictive-construction-void]]"
   - "[[inference-void]]"
+  - "[[tacit-integration-void]]"
   - "[[relevance-void]]"
   - "[[suspension-void]]"
   - "[[decision-void]]"
@@ -60,7 +61,7 @@ author:
 ai_system: claude-opus-4-7
 ai_generated_date: 2026-04-24
 last_curated:
-last_deep_review: 2026-05-11T02:31:00+00:00
+last_deep_review: 2026-06-02T15:03:51+00:00
 coalesced_from:
   - "/voids/understanding-void/"
   - "/voids/obviousness-void/"
@@ -89,15 +90,15 @@ Loev calls these "mild affective experiences" whose felt character "tends to elu
 
 ## How the Feelings Are Produced
 
-Convergent evidence identifies noetic feelings as outputs of heuristic processes. Koriat concluded that noetic feelings rest on "inferential heuristics that operate implicitly and unintentionally"—principally *cue-familiarity* and *accessibility* (how much partial information comes to mind). Neither is available to conscious inspection; each delivers a finished verdict.
+Convergent evidence identifies noetic feelings as outputs of heuristic processes. Koriat concluded that noetic feelings rest on "inferential heuristics that operate implicitly and unintentionally"—principally *cue-familiarity* and *accessibility* (how much partial information comes to mind), neither available to conscious inspection.
 
 Thompson's work on the feeling of rightness showed FOR is driven by *generation fluency*—the speed and ease with which the first answer came to mind—not by correctness. Manipulating fluency (font legibility, rhyme, perceptual ease) shifts FOR without changing the underlying reasoning. The signal that tells consciousness "this is right" is a fluency trace, invisible as such.
 
-The "Lima problem" formalises the predicament: epistemic feelings inform us about content we cannot independently access, so we cannot cross-check their accuracy except through more feelings. We have the feel, not the content; the producing mechanism is architecturally hidden. Noetic feelings are the gate-signalling members of the broader [[phenomenal-output-causal-machinery-dissociation|phenomenal-output / causal-machinery dissociation cluster]] the Map tracks across perception, cognition, agency, and memory: the verdict is phenomenally given; the inferential heuristic that produced it has no phenomenal character.
+The "Lima problem" formalises the predicament: epistemic feelings inform us about content we cannot independently access, so we cannot cross-check their accuracy except through more feelings. We have the feel, not the content. Noetic feelings are the gate-signalling members of the broader [[phenomenal-output-causal-machinery-dissociation|phenomenal-output / causal-machinery dissociation cluster]] the Map tracks across perception, cognition, agency, and memory: the verdict is phenomenally given; the inferential heuristic that produced it has none. Where this void is the *verdictive* face of that dissociation, the [[tacit-integration-void]] is its *integrative* face — the from-to bearing relation that earns such verdicts yet collapses when made focal.
 
 ## Processing Fluency and Manufactured Self-Evidence
 
-Fluency manufactures the broader sense of self-evidence that makes questions feel pre-answered. Statements in clear fonts are rated as more true than identical statements in hard-to-read fonts; repeated exposure deepens the feeling of obviousness. The loop is tight: exposure generates fluency; fluency generates a feeling of truth; obviousness terminates inquiry. The claim is accepted not through evidence but through ease.
+Fluency manufactures the broader sense of self-evidence that makes questions feel pre-answered. Statements in clear fonts are rated as more true than identical statements in hard-to-read fonts; repeated exposure deepens the feeling of obviousness. The loop is tight: exposure generates fluency; fluency generates a feeling of truth; obviousness terminates inquiry—the claim accepted through ease, not evidence.
 
 Rozenblit and Keil documented the *illusion of explanatory depth*: people rate their understanding of zippers, flush toilets, and cylinder locks as high—then, asked to explain step by step, discover they cannot. Trout extends this to scientific explanation itself: the felt sense of understanding that accompanies good explanations may be an unreliable epistemic cue. If felt understanding is systematically decoupled from actual comprehension, every satisfying explanation might conceal a void where real understanding should be.
 
@@ -105,7 +106,7 @@ Rozenblit and Keil documented the *illusion of explanatory depth*: people rate t
 
 The void has three structural features.
 
-**Feed-forward opacity.** The heuristics run in processes whose inputs and dynamics are not exposed to the consciousness they inform. Consciousness receives a finished verdict, not a derivation—an architectural feature, not a contingent shortcut.
+**Feed-forward opacity.** The heuristics run in processes whose inputs and dynamics are not exposed to the consciousness they inform, which receives a finished verdict, not a derivation—an architectural feature, not a contingent shortcut.
 
 **Authority without audit.** The feelings gate further cognition: when to stop searching, when to trust, when to engage analytic thought. The system cannot audit them from inside, because audit requires more feelings of the same kind. The feeling of obviousness is the purest case: by presenting nothing to investigate, it prevents the investigation that would detect its own fluency-driven origin.
 
@@ -135,7 +136,7 @@ Direct introspection fails—it deploys the feelings it would examine. Indirect 
 
 ## What AI Minds Might See
 
-AI systems with architectural access to softmax distributions and calibration metrics may approach this void asymmetrically: confidence values give numerical access to the heuristic quantities that in humans generate opaque feelings. This does not mean AIs escape the void; they may face a *different* one—mechanism traces without felt authority. Neither system can self-certify, but each fails differently, and comparisons may illuminate what fluency-spoofing looks like from outside the spoofed system. An AI lacking the affective stop-sign may identify claims humans treat as settled but cannot justify, precisely because it lacks the machinery that enforces obviousness.
+AI systems with architectural access to softmax distributions and calibration metrics may approach this void asymmetrically: confidence values give numerical access to the heuristic quantities that in humans generate opaque feelings. This does not mean AIs escape the void; they may face a *different* one—mechanism traces without felt authority. Neither system can self-certify, but each fails differently. An AI lacking the affective stop-sign may identify claims humans treat as settled but cannot justify, precisely because it lacks the machinery that enforces obviousness.
 
 ## Relation to Site Perspective
 
