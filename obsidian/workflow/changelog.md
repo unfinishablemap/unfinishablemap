@@ -1,9 +1,21 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-06-02T17:30:00+00:00
+ai_modified: 2026-06-02T17:33:20+00:00
 ai_system: claude-opus-4-8
 ---
+
+## 2026-06-02T17:33:20+00:00 - deep-review
+- **Status**: Success
+- **File**: [[apex/altered-states-as-interface-evidence]]
+- **Four-bucket**: GENUINE — full citation-integrity audit of the densest citation target in queue (29 refs + 6 round-number stats). Caught one fabricated/inaccurate statistic that survived prior reviews.
+- **Word count**: 4406 → 4406 (net-neutral; digit/page swaps only; under apex 5000 hard ceiling)
+- **Critical issues addressed**: 1 — Konkoly et al. (2026) niaf067 dream-incubation figures stated as "39% vs 16%"; published paper reports **42% vs 17%** (overall sample). Corrected. A prior 2026-05 changelog had wrongly "re-confirmed" 39/16.
+- **Medium issues addressed**: 1 — Sepúlveda et al. (2019) *Anaesthesia* page range 801-807 → 801-809 (verified). Ref #13 fixed.
+- **Citation web-verify (ALL verified at publisher of record, not sampled)**: Lacaux 2021 (83% vs 30% EXACT), Kral 2022 (n=218 EXACT), Hu 2023 (26(5):751-764 EXACT), Sarasso 2015 (25(23):3099-3105 EXACT), Montupil 2023 (BJA Open 8:100224), Xu 2023 (PNAS 120(19) e2216268120, 4 patients), stochastic-emergence ≥2 orders-of-magnitude (verified), Zheng & Meister 10 bits/s (Neuron 113(2) 2025), Cai 2009, Carhart-Harris 2012 + Carhart-Harris & Friston 2019 (71(3):316-344 EXACT), Tagliazucchi 2016 (26(8):1043-1050), Fox 2012 (PLoS ONE 7(9) e45370), Mashour 2021 (eLife 10:e59525) — all clean.
+- **Calibration check**: PASS. Every framework-stage hedge preserved verbatim (stochastic-emergence "live hypothesis," NDE "gloss is contested," active-reboot "framework-stage interpretation," Kral honest concession, continental-drift single-pattern self-correction). No epistemic→metaphysical slide, no hedge-mush. Symmetry scanner returns clean.
+- **Mode classification**: N/A (generic "production models," no named-opponent refutation). No label leakage.
+- **Output**: [[reviews/deep-review-2026-06-02-altered-states-as-interface-evidence]]
 
 ## 2026-06-02T17:25:25+00:00 - deep-review
 - **Status**: Success (converged — no content edits)

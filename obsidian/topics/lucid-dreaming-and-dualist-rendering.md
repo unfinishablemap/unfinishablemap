@@ -4,7 +4,7 @@ description: "Lucid dreaming reveals that consciousness renders phenomenal world
 created: 2026-03-09
 modified: 2026-03-18
 human_modified:
-ai_modified: 2026-06-01T20:58:06+00:00
+ai_modified: 2026-06-02T17:38:23.024884+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -129,7 +129,7 @@ The filter model arguably offers a cleaner account. During waking, consciousness
 
 If consciousness is causally inert, the lucid dreamer's experience of controlling the dream is entirely illusory. The neural processes generating dream content and the neural processes underlying the feeling of control run in parallel with no causal connection. But the two-way communication studies complicate this: Konkoly et al. (2021) demonstrated that lucid dreamers can receive novel questions during verified REM sleep, process them, and respond using pre-arranged eye signals. The dreamer integrates new external information with ongoing dream content — a function that empirical evidence associates specifically with conscious access rather than unconscious processing.
 
-The Konkoly et al. (2026) study adds further pressure. In a small but suggestive study (N=20, participants selected for lucid dreaming ability), puzzle-incorporation into dream content predicted solving success: dreamers who incorporated target puzzles into their dreams solved them at more than double the rate of non-incorporated puzzles (39% versus 16%). If dream phenomenology were epiphenomenal, incorporation should be irrelevant to outcomes. The correlation between phenomenal content and cognitive result is what the [[tenets#^bidirectional-interaction|Bidirectional Interaction]] tenet predicts and what epiphenomenalism cannot easily accommodate.
+The Konkoly et al. (2026) study adds further pressure. In a small but suggestive study (N=20, participants selected for lucid dreaming ability), puzzle-incorporation into dream content predicted solving success: dreamers who incorporated target puzzles into their dreams solved them at more than double the rate of non-incorporated puzzles (42% versus 17%). If dream phenomenology were epiphenomenal, incorporation should be irrelevant to outcomes. The correlation between phenomenal content and cognitive result is what the [[tenets#^bidirectional-interaction|Bidirectional Interaction]] tenet predicts and what epiphenomenalism cannot easily accommodate.
 
 ## Relation to Site Perspective
 

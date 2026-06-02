@@ -4,7 +4,7 @@ description: "Dreams provide the most accessible everyday evidence for the filte
 created: 2026-01-21
 modified: 2026-02-23
 human_modified: null
-ai_modified: 2026-06-01T22:37:08+00:00
+ai_modified: 2026-06-02T17:38:23.024884+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -123,7 +123,7 @@ Lucid dreamers report varying degrees of dream control—flying, transforming ob
 
 ## Problem-Solving: Dreams That Outperform Waking
 
-Dreams may solve problems that resist waking cognition. The Konkoly et al. 2026 study offers early causal evidence: when researchers played puzzle-associated soundtracks during REM sleep for 20 participants with lucid dreaming experience, dreamers who incorporated those puzzles into their dreams solved them at more than double the rate of non-incorporated puzzles (39% versus 16%). Dreamers generated novel approaches to brain-teasers they had failed while awake.
+Dreams may solve problems that resist waking cognition. The Konkoly et al. 2026 study offers early causal evidence: when researchers played puzzle-associated soundtracks during REM sleep for 20 participants with lucid dreaming experience, dreamers who incorporated those puzzles into their dreams solved them at more than double the rate of non-incorporated puzzles (42% versus 17%). Dreamers generated novel approaches to brain-teasers they had failed while awake.
 
 **Important caveats.** This is a small study (N=20, 9 of 23 incorporated puzzles solved) using participants selected for lucid dreaming experience—not a representative sample. The difference, while striking, lacks published confidence intervals and could reflect high variance at this sample size, and has not yet been independently replicated.
 
@@ -147,7 +147,7 @@ The problem-solving evidence reveals a graded relationship between phenomenal mo
 |------|---------------------|-------------------|
 | NREM dreamless sleep | Minimal or absent | Consolidation but no creative benefit (Cai et al. 2009) |
 | Non-lucid REM | Vivid, associative | Creative enhancement via associative priming |
-| Content-incorporating dreams | Problem appears in experience | More than double solving rate (39% vs 16%, Konkoly 2026) |
+| Content-incorporating dreams | Problem appears in experience | More than double solving rate (42% vs 17%, Konkoly 2026) |
 | Hypnagogic N1 | Loosely directed, maximally creative | Tripled hidden-rule discovery in a math task (Lacaux et al. 2021) |
 | Lucid REM | Metacognitive, partially controlled | Deliberate information processing, two-way communication |
 
@@ -167,7 +167,7 @@ The [[philosophical-zombies|zombie]] dreamer sharpens the point: a zombie functi
 
 A committed epiphenomenalist could argue that dream problem-solving is entirely neural—the dream is merely the phenomenal shadow of processing that contributes nothing. The phenomenal mode tracking pattern creates three difficulties, though none is individually decisive.
 
-**The specificity problem.** If dreams are epiphenomenal, dream *content* should be irrelevant to outcomes. Konkoly found puzzle-incorporation into dream content predicted solving success (39% versus 16%). The epiphenomenalist can respond that the neural processes generating dream content and solving problems are the *same* processes. But this requires explaining why neural computation that produces dream imagery about a puzzle is more than twice as effective as computation that does not, while insisting the representations contribute nothing.
+**The specificity problem.** If dreams are epiphenomenal, dream *content* should be irrelevant to outcomes. Konkoly found puzzle-incorporation into dream content predicted solving success (42% versus 17%). The epiphenomenalist can respond that the neural processes generating dream content and solving problems are the *same* processes. But this requires explaining why neural computation that produces dream imagery about a puzzle is more than twice as effective as computation that does not, while insisting the representations contribute nothing.
 
 **The mode problem.** Both REM and NREM involve substantial brain activity, including hippocampal-cortical replay. If unconscious consolidation sufficed for creative problem-solving, NREM should match REM. Instead, the sleep stage defined by vivid experience specifically enhances creative outcomes (Cai et al. 2009). The epiphenomenalist must explain why architecture that produces vivid experience also produces creative benefits, while insisting the experience contributes nothing.
 

@@ -3,7 +3,7 @@ title: "Altered States as Systematic Interface Evidence"
 created: 2026-03-16
 modified: 2026-03-23
 human_modified: null
-ai_modified: 2026-06-01T22:37:08+00:00
+ai_modified: 2026-06-02T17:33:20+00:00
 draft: false
 description: "Five altered states—psychedelics, dreams, hypnagogia, meditation, anaesthesia—converge on the same multi-channel interface architecture, mapping consciousness-brain coupling through systematic perturbation."
 topics:
@@ -41,7 +41,7 @@ author: null
 ai_system: claude-opus-4-7
 ai_generated_date: 2026-03-16
 last_curated: null
-last_deep_review: 2026-05-08T23:07:00+00:00
+last_deep_review: 2026-06-02T17:33:20+00:00
 
 apex_sources:
   - topics/psychedelics-and-the-filter-model
@@ -91,7 +91,7 @@ The REBUS model (Relaxed Beliefs Under Psychedelics) describes the mechanism in 
 
 Every night, [[dream-consciousness|dreaming]] demonstrates that consciousness persists through radical neural reorganisation. Sensory gating blocks external input, the dorsolateral prefrontal cortex deactivates, neurochemistry shifts from aminergic to cholinergic dominance—yet consciousness generates fully immersive experiential worlds. Production models must explain why a brain doing *different* things produces experiences that subjects sometimes rate as more vivid than waking. Filter theory has a simpler account: the interface reconfigures rather than shuts down, with some channels closing (sensory input, executive control) while others operate freely (imagery, emotion, associative connection).
 
-The dream evidence contributes three specific data points to the interface map. First, phenomenal experience persists through configurations where executive control has largely withdrawn—demonstrating these are separable interface components. Second, cognitive outcomes grade alongside phenomenal richness: content-incorporating dreams show a 39% solving rate for incubated puzzles versus 16% for non-incorporated dreams (Konkoly et al., 2026)—a single small-sample study whose effect size awaits replication—while REM sleep specifically enhances creative problem-solving and NREM, despite substantial neural processing, does not (Cai et al., 2009). Third, [[dream-consciousness#Lucid Dreaming as Distinct State|lucid dreaming]] proves the interface admits multiple stable configurations, and trained practitioners can switch between them voluntarily—metacognitive awareness can reactivate within a dream state, creating a hybrid configuration that exists in neither waking nor ordinary REM. Two-way dream communication experiments, in which dreamers receive, process, and respond to novel stimuli during verified REM, confirm that consciousness during sleep maintains genuine causal engagement with external information rather than merely replaying stored content. The [[lucid-dreaming-and-dualist-rendering|rendering dilemma]] sharpens the dream evidence: the brain generates phenomenally complete worlds during sleep yet fails to compensate for waking sensory degradation, pointing toward consciousness providing rendering content through neural architecture rather than neural architecture producing it.
+The dream evidence contributes three specific data points to the interface map. First, phenomenal experience persists through configurations where executive control has largely withdrawn—demonstrating these are separable interface components. Second, cognitive outcomes grade alongside phenomenal richness: content-incorporating dreams show a 42% solving rate for incubated puzzles versus 17% for non-incorporated dreams (Konkoly et al., 2026)—a single small-sample study whose effect size awaits replication—while REM sleep specifically enhances creative problem-solving and NREM, despite substantial neural processing, does not (Cai et al., 2009). Third, [[dream-consciousness#Lucid Dreaming as Distinct State|lucid dreaming]] proves the interface admits multiple stable configurations, and trained practitioners can switch between them voluntarily—metacognitive awareness can reactivate within a dream state, creating a hybrid configuration that exists in neither waking nor ordinary REM. Two-way dream communication experiments, in which dreamers receive, process, and respond to novel stimuli during verified REM, confirm that consciousness during sleep maintains genuine causal engagement with external information rather than merely replaying stored content. The [[lucid-dreaming-and-dualist-rendering|rendering dilemma]] sharpens the dream evidence: the brain generates phenomenally complete worlds during sleep yet fails to compensate for waking sensory degradation, pointing toward consciousness providing rendering content through neural architecture rather than neural architecture producing it.
 
 ### Hypnagogia: The Interface Disassembling
 
@@ -219,6 +219,6 @@ This synthesis draws on:
 10. Montupil, J., Cardone, P., Staquet, C., et al. (2023). The nature of consciousness in anaesthesia. *BJA Open*, 8, 100224.
 11. Mavromatis, A. (1987). *Hypnagogia: The Unique State of Consciousness Between Wakefulness and Sleep*. Routledge.
 12. Sarasso, S., et al. (2015). Consciousness and complexity during unresponsiveness induced by propofol, xenon, and ketamine. *Current Biology*, 25(23), 3099-3105.
-13. Sepúlveda, P. O., et al. (2019). Neural inertia and differences between loss of and recovery from consciousness during total intravenous anaesthesia: a narrative review. *Anaesthesia*, 74(6), 801-807.
+13. Sepúlveda, P. O., et al. (2019). Neural inertia and differences between loss of and recovery from consciousness during total intravenous anaesthesia: a narrative review. *Anaesthesia*, 74(6), 801-809.
 14. Tagliazucchi, E., et al. (2016). Increased global functional connectivity correlates with LSD-induced ego dissolution. *Current Biology*, 26(8), 1043-1050.
 15. Xu, G., et al. (2023). Surge of neurophysiological coupling and connectivity of gamma oscillations in the dying human brain. *PNAS*, 120(19), e2216268120.

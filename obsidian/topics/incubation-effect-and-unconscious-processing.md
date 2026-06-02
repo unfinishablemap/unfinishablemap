@@ -4,7 +4,7 @@ description: "Walking away from a problem sometimes helps solve it. The incubati
 created: 2026-02-10
 modified: 2026-02-13
 human_modified:
-ai_modified: 2026-06-02T16:22:55+00:00
+ai_modified: 2026-06-02T17:38:23.024884+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -93,7 +93,7 @@ The phenomenology of insight seems to fit this picture: the solution doesn't mer
 
 Incubation during waking and incubation during sleep may share mechanisms. In both cases, the DMN operates with reduced executive constraint, exploring associative connections that focused attention would dismiss.
 
-The [[dream-consciousness|dream incubation evidence]] strengthens the case that consciousness is the essential ingredient even during apparent "unconscious" processing. Konkoly et al. (2026) found that when puzzle-related soundtracks were played during REM sleep, problems incorporated into dream content were solved at more than double the rate of non-incorporated problems (39% versus 16%). The sample was small (N=20, participants selected for lucid dreaming experience) and requires replication, but the pattern is suggestive: phenomenal engagement with the problem during dreaming — experiencing it within an immersive scenario — predicted solving success. If the processing were genuinely unconscious, the phenomenal content of dreams should be irrelevant.
+The [[dream-consciousness|dream incubation evidence]] strengthens the case that consciousness is the essential ingredient even during apparent "unconscious" processing. Konkoly et al. (2026) found that when puzzle-related soundtracks were played during REM sleep, problems incorporated into dream content were solved at more than double the rate of non-incorporated problems (42% versus 17%). The sample was small (N=20, participants selected for lucid dreaming experience) and requires replication, but the pattern is suggestive: phenomenal engagement with the problem during dreaming — experiencing it within an immersive scenario — predicted solving success. If the processing were genuinely unconscious, the phenomenal content of dreams should be irrelevant.
 
 Cai et al. (2009) found that REM sleep specifically enhanced creative associative problem-solving while NREM sleep did not. Since REM is characterised by vivid conscious experience and NREM by its absence, the creative benefit tracks the presence of consciousness during sleep — not merely time spent away from the problem.
 
