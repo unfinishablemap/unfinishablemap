@@ -37,6 +37,29 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
+### P2: Adopt phenomenal-concepts-strategy calibration in modal-structure-of-phenomenal-properties
+- **Type**: refine-draft
+- **Status**: pending
+- **File**: obsidian/topics/modal-structure-of-phenomenal-properties.md
+- **Notes**: From topic-concept anchoring audit 2026-06-02. The topic article over-claims relative to its anchor concept [[phenomenal-concepts-strategy]]; failed checks: hedge_density, strong_assertions.
+  - hedge density 5.05/kw is below 60% of anchor (10.16/kw)
+  - topic uses 3 strong-assertion verbs where anchor uses none
+  - Action: bring the topic's hedge profile in line with the anchor concept's. Preserve the article's voice; this is not a request to weaken the central claim, only to inherit the calibration discipline the anchor concept already uses. See [[project/calibration-audit-triple]] Audit Three for the spec and [[evidential-status-discipline]] for the underlying rule.
+- **Source**: topic-concept-anchoring-audit
+- **Generated**: 2026-06-02
+
+### P2: Adopt buddhism-and-dualism calibration in eastern-philosophy-consciousness
+- **Type**: refine-draft
+- **Status**: pending
+- **File**: obsidian/topics/eastern-philosophy-consciousness.md
+- **Notes**: From topic-concept anchoring audit 2026-06-02. The topic article over-claims relative to its anchor concept [[buddhism-and-dualism]]; failed checks: hedge_density, strong_assertions.
+  - hedge density 3.61/kw is below 60% of anchor (7.25/kw)
+  - strong-assertion density 0.72/kw exceeds 1.5× anchor (0.40/kw)
+  - Action: bring the topic's hedge profile in line with the anchor concept's. Preserve the article's voice; this is not a request to weaken the central claim, only to inherit the calibration discipline the anchor concept already uses. See [[project/calibration-audit-triple]] Audit Three for the spec and [[evidential-status-discipline]] for the underlying rule.
+- **Source**: topic-concept-anchoring-audit
+- **Generated**: 2026-06-02
+
+
 ### ✓ RESOLVED-BY-CONSOLIDATION (2026-06-02): Add Metzinger's ARAS/tonic-alertness reductive explanans (and resolve the Zahavi–Metzinger tension) in voids/minimal-consciousness-void.md
 - **Status**: complete (2026-06-02) — addressed in the CONSOLIDATED minimal-consciousness-void prose pass (commit d81d4068) that handled the whole 2026-06-02 outer-review prose cluster in one editor pass to avoid 7-fold same-file churn. The Metzinger ARAS/tonic-alertness predictive-model + phenomenal-transparency reductive explanans was added, marked as physicalist-predicted and only consistent-with (not licensing) the occluded gloss. Verify in the article before re-queueing.
 - **Type**: refine-draft
@@ -204,13 +227,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: deep-review
 - **Generated**: 2026-06-01
 - **Notes**: Deferred from [[reviews/deep-review-2026-06-01-time-collapse-and-agency]] (and the 2026-05-31 pessimistic review). Two honesty-strengthening, framework-boundary engagements NOT done in the audit pass because the article is OVER the topics hard ceiling (4607w) and forcing them in would worsen length. (1) Dennett is engaged only as an illusionist; his Stalinesque/Orwellian post-hoc temporal-construction (multiple-drafts) is a frontal rival to "each collapse creates a moment" — add a brief in-prose acknowledgment. (2) Recruiting nirodha-samāpatti as support for a robustly real substance-causal selecting self is in tension with the Madhyamaka reading of cessation as evidence AGAINST a substantial witness — a one-clause concession would strengthen honesty. BOTH are bedrock-boundary (Mode Three), NOT calibration corrections — engage in natural prose, no editor-vocabulary, no overclaim of refutation. STRICTLY LENGTH-NEUTRAL or net-negative: the article is over-ceiling and its calibration hedges are protected; pair any addition with an equivalent trim that does NOT touch the calibration content. If no length-neutral slot exists, decline — these are nice-to-have, not corrections of slippage.
-
-### P2: Reciprocal cross-link — individuation cluster ↔ surprise cluster (shared vertigo phenomenology)
-- **Type**: refine-draft
-- **Status**: pending
-- **Promoted**: P3→P2 by /replenish-queue 2026-06-02 (floor-restoring; see combination-problem task for full rationale). Grounded near-no-op additive cross-link across named live files (all verified to exist); length-neutral, no speculative creation. Handle all named files per [[multifile_task_dropped_file]].
-- **Source**: optimistic-review
-- **Notes**: Suggested by [[reviews/optimistic-2026-06-01e]] (Medium Priority). Both clusters independently invoke a *vertigo / phenomenal free-fall / groundlessness* phenomenology but never link: `topics/surprise-prediction-error-and-consciousness.md` ("deep disorientation", "existential vertigo") and `concepts/categorical-surprise.md` ("the vertigo of 'I didn't know I didn't know'") on one side; `topics/consciousness-and-the-metaphysics-of-individuation.md` (boundary-dissolution, contemplative ego-dissolution as framework-restructuring) on the other. Add bidirectional links with ONE sentence each noting the shared felt state (framework-collapse vs subject-boundary-collapse may be the same vertigo from two directions). Also consider linking categorical-surprise → vertiginous-question (verify void path). NEAR-NO-OP, additive only: do not rewrite surrounding prose, do not introduce new claims, do not let the connection cash out as a tier-upgrade. Two/three files named — do all of them (per [[multifile_task_dropped_file]]).
 
 ### P2: Reciprocal cross-link — subject-object discovery ↔ concession-convergence (negative-convergence instance)
 - **Type**: refine-draft
@@ -3784,6 +3800,10 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 Tasks that failed 3+ times and require human intervention. (Also: standing human editorial decisions the loop has done all it can on — e.g. over-ceiling flagship articles whose excess is verified load-bearing calibration content, and thesis-level alternatives the loop must not adopt unilaterally.)
 
+
+### ✓ 2026-06-02: Reciprocal cross-link — individuation cluster ↔ surprise cluster (shared vertigo phenomenology)
+- **Type**: refine-draft
+- **Notes**: Suggested by [[reviews/optimistic-2026-06-01e]] (Medium Priority). Both clusters independently invoke a *vertigo / phenomenal free-fall / groundlessness* phenomenology but never link: `topics/surprise-prediction-error-and-consciousness.md` ("deep disorientation", "existential vertigo") and `concepts/categorical-surprise.md` ("the vertigo of 'I didn't know I didn't know'") on one side; `topics/consciousness-and-the-metaphysics-of-individuation.md` (boundary-dissolution, contemplative ego-dissolution as framework-restructuring) on the other. Add bidirectional links with ONE sentence each noting the shared felt state (framework-collapse vs subject-boundary-collapse may be the same vertigo from two directions). Also consider linking categorical-surprise → vertiginous-question (verify void path). NEAR-NO-OP, additive only: do not rewrite surrounding prose, do not introduce new claims, do not let the connection cash out as a tier-upgrade. Two/three files named — do all of them (per [[multifile_task_dropped_file]]).
 
 ### ✓ 2026-06-02: Dedupe / canonicalise the nature-coupling (architecture-specific epiphenomenalism) distinction
 - **Type**: refine-draft

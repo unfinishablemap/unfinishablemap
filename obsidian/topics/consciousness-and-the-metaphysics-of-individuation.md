@@ -4,7 +4,7 @@ description: "Why does consciousness come in discrete subjects? The individuatio
 created: 2026-02-18
 modified: 2026-02-18
 human_modified:
-ai_modified: 2026-06-01T16:47:13+00:00
+ai_modified: 2026-06-02T08:23:23+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -31,6 +31,8 @@ related_articles:
   - "[[epistemological-limits-occams-razor]]"
   - "[[indexical-identity-quantum-measurement]]"
   - "[[panpsychisms-combination-problem]]"
+  - "[[surprise-prediction-error-and-consciousness]]"
+  - "[[categorical-surprise]]"
 ai_contribution: 100
 author:
 ai_system: claude-opus-4-7
@@ -103,7 +105,7 @@ Try to locate where "you" ends and "not-you" begins. The exercise fails—not be
 
 Caspar Hare captures a related asymmetry through his concept of "egocentric presentism." One subject's experiences possess an irreducible monadic property of *presence*—they are present in a way that others' experiences are not. This is not solipsism: other people exist and are fully conscious. But their experiences lack the property of being *present*. The "presence" property cannot be reduced to any objective feature of the world, making individuation partly a matter of irreducible [[indexical-knowledge-and-identity|indexical fact]].
 
-Contemplative traditions report states in which the self-other boundary appears to dissolve—certain [[buddhism-and-dualism|Buddhist]] jhanas, mystical union experiences, psychedelic ego dissolution. These reports are philosophically significant but ambiguous. They may represent genuine access to the pre-individuated ground of consciousness. Or they may represent altered phenomenology *within* an unchanged subject—the experience of boundarylessness without actual dissolution of the boundary.
+Contemplative traditions report states in which the self-other boundary appears to dissolve—certain [[buddhism-and-dualism|Buddhist]] jhanas, mystical union experiences, psychedelic ego dissolution. These reports are philosophically significant but ambiguous. They may represent genuine access to the pre-individuated ground of consciousness. Or they may represent altered phenomenology *within* an unchanged subject—the experience of boundarylessness without actual dissolution of the boundary. Either way, the felt vertigo of the dissolving self-boundary resembles the groundlessness reported when a framework collapses in [[surprise-prediction-error-and-consciousness|deep disorientation]] and [[categorical-surprise|categorical surprise]]—subject-boundary-collapse and framework-collapse perhaps being one phenomenal free-fall approached from two directions.
 
 ## What Would Challenge This View?
 

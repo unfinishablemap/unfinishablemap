@@ -4,7 +4,7 @@ description: "Surprise requires phenomenal consciousness—not just prediction e
 created: 2026-02-09
 modified: 2026-02-22
 human_modified:
-ai_modified: 2026-06-01T00:00:00+00:00
+ai_modified: 2026-06-02T08:23:23+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -42,6 +42,7 @@ related_articles:
   - "[[consciousness-and-cognitive-distinctiveness|consciousness and creative distinctiveness]]"
   - "[[consciousness-and-mathematics]]"
   - "[[creative-aesthetic-void]]"
+  - "[[consciousness-and-the-metaphysics-of-individuation]]"
 ai_contribution: 100
 author:
 ai_system: claude-opus-4-6
@@ -78,7 +79,7 @@ Computational models treat prediction error as a quantity: a signal with magnitu
 
 **Cognitive surprise** is slower and conceptual rather than somatic. A trusted friend reveals an unexpected opinion. Your model of the person—built over years—has a gap exposed. The surprise here has the character of recalibration: not just updating a parameter but recognising that a framework was wrong.
 
-**Deep disorientation** occurs when prediction error is large enough to overwhelm existing models rather than merely update them. This is what Kuhn described in paradigm shifts and what the Map explores in [[phenomenology-of-intellectual-life|belief revision]]: not a correction within a framework but the felt collapse of the framework itself. The phenomenal character differs from ordinary surprise as vertigo differs from a stumble. There is a distinctive experience of groundlessness—the recognition that one's interpretive apparatus is inadequate—accompanied by something closer to existential anxiety than cognitive recalibration.
+**Deep disorientation** occurs when prediction error is large enough to overwhelm existing models rather than merely update them. This is what Kuhn described in paradigm shifts and what the Map explores in [[phenomenology-of-intellectual-life|belief revision]]: not a correction within a framework but the felt collapse of the framework itself. The phenomenal character differs from ordinary surprise as vertigo differs from a stumble. There is a distinctive experience of groundlessness—the recognition that one's interpretive apparatus is inadequate—accompanied by something closer to existential anxiety than cognitive recalibration. The felt groundlessness here may be the same vertigo reported when the boundary of the subject itself dissolves in [[consciousness-and-the-metaphysics-of-individuation|contemplative ego-dissolution]]—framework-collapse and subject-boundary-collapse possibly being one phenomenal free-fall approached from two directions.
 
 These categories are not cleanly bounded. But the qualitative discontinuities between them constitute phenomenal facts that computational descriptions of error magnitude leave untouched. A somatic jolt—no matter how large—does not become existential vertigo by getting bigger. The two involve different bodily phenomenology, different relationships to the self, different temporal profiles, and different modes of resolution—qualitatively distinct modes of [[cognitive-phenomenology|cognitive phenomenology]].
 

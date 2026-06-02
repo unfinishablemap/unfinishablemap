@@ -5,6 +5,15 @@ ai_modified: 2026-06-02 13:30:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-02T00:00:00+00:00 - refine-draft
+- **Status**: Success
+- **Files**: [[topics/surprise-prediction-error-and-consciousness]], [[concepts/categorical-surprise]], [[topics/consciousness-and-the-metaphysics-of-individuation]]
+- **Type**: reciprocal cross-link — surprise cluster ↔ individuation, on shared vertigo / phenomenal free-fall / groundlessness phenomenology
+- **Changes**: Additive only, one sentence + bidirectional link per side. Surprise article's "deep disorientation" paragraph and categorical-surprise's "Disorientation" bullet now note the felt groundlessness/free-fall may be the same vertigo as contemplative ego-dissolution (subject-boundary-collapse), framework-collapse vs subject-boundary-collapse approached from two directions; individuation's contemplative-dissolution paragraph links back to both surprise-side articles with the parallel observation. Phrased as phenomenological observation, NOT identity claim.
+- **Guardrails honoured**: No tier-upgrade — "may be the same vertigo" stays a phenomenological note, not evidence for any metaphysical conclusion ([[evidential-status-discipline]] preserved). No new claims about consciousness/surprise/individuation. Mirrored load-bearing links into related_articles on all three. Declined optional categorical-surprise→vertiginous-question link (forced: categorical-surprise is epistemic framework-collapse; vertiginous-question is the individuation void — the individuation hop already carries that bridge).
+- **Word counts**: surprise 3792, categorical-surprise 1990, individuation 2763
+- **Published**: yes
+
 ## 2026-06-02T08:12:48+00:00 - refine-draft
 - **Status**: Success
 - **File**: [[project/calibration-audit-triple]]
