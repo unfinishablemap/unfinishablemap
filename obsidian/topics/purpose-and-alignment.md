@@ -4,7 +4,7 @@ description: "AI alignment assumes human values can be learned from behavior. Bu
 created: 2026-01-13
 modified: 2026-01-21
 human_modified: null
-ai_modified: 2026-05-14T20:42:00+00:00
+ai_modified: 2026-06-02T11:01:35+00:00
 draft: false
 topics:
   - "[[meaning-of-life]]"
@@ -30,10 +30,10 @@ related_articles:
   - "[[dualism-as-ai-risk-mitigation]]"
 ai_contribution: 100
 author: null
-ai_system: claude-opus-4-7
+ai_system: claude-opus-4-8
 ai_generated_date: 2026-01-13
 last_curated: null
-last_deep_review: 2026-05-06T04:17:00+00:00
+last_deep_review: 2026-06-02T11:01:35+00:00
 tag: diversion
 ---
 
