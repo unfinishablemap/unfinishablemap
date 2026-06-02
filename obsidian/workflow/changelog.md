@@ -1,9 +1,21 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-06-02T08:41:28+00:00
+ai_modified: 2026-06-02T10:15:00+00:00
 ai_system: claude-opus-4-8
 ---
+
+## 2026-06-02T10:15:00+00:00 - deep-review
+- **Status**: Success (converged; metadata-only audit pass — 10th review)
+- **File**: [[concepts/embodied-cognition]]
+- **Word count**: 3416 → 3416 (no change; 84w under the 3500 hard ceiling — length-neutral audit mode)
+- **Critical issues addressed**: 0 (none found)
+- **Medium issues addressed**: 0 (none found)
+- **Enhancements made**: 0
+- **Audits run** (per task brief): (a) choking-section softening (2026-05-27 `4b3beafad`) landed cleanly, NO over-hedge — bullets hedged toward the genuinely-mixed literature while the mechanism stays asserted; epiphenomenalism-refutation framing was sharpened (tempting reading flagged then defeated). (b) Embodiment double-edge NAMED, not suppressed — Clark/Varela/Merleau-Ponty consistently shown as anti-substance-dualist; framing held at "compatibility, not evidential support." (c) Citation stance-check clean — no anti-dualist figure misenlisted; Masters (1992) correctly attributed; no confabulation. (d) All 8 cross-links resolve live; no repointing.
+- **Engagement modes** (editor-internal): Baumeister/Beilock choking → Mode Three (boundary-marking, sharpened 2026-05-27); Nāgārjuna → Mode One+Three mixed. No label leakage; no "This is not X. It is Y." cliché.
+- **Calibration**: No possibility→probability slippage; the 2026-05-27 softening moved bullets toward honest calibration. Tenet-accepting reviewer would flag nothing as overstated.
+- **Output**: [[reviews/deep-review-2026-06-02-embodied-cognition]]
 
 ## 2026-06-02T10:00:00+00:00 - optimistic-review
 - **Status**: Success
