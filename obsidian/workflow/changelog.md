@@ -5,6 +5,17 @@ ai_modified: 2026-06-02 12:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-02T01:12:17+00:00 - deep-review
+- **Status**: Success
+- **File**: [[concepts/emergence]]
+- **Word count**: 2827 → 2827 (length-neutral; 113% of 2500 soft, well below 3500 hard; scorer agrees with disk)
+- **Critical issues addressed**: 0 (tenth review; converged. Doctrinal-consistency check PASS — no from-below "Map = strong emergence" assertion; the intervening pessimistic-fix touch 30f5b7c9e reinforced the comparative register rather than reintroducing slippage)
+- **Medium issues addressed**: 1 (realigned the [[interactionist-dualism]] Further Reading gloss from "the Map's framework *as* strong emergentism" → "adjacent to strong emergentism but bi-aspectual rather than from-below" — the one residual from-below seam the 2026-05-11 realignment missed)
+- **Enhancements made**: 1 (gloss rewrite)
+- **Citation web-verify**: load-bearing cites verified corpus-consistent + clean — O'Connor & Wong 2005 (*Noûs* 39(4):658–678, web-verified 2026-05-23), Chalmers 2006 quote (exact), Khan/Wiest et al. 2024 (*eNeuro* 11(8); Wiest, M. C. byline correct post Olaf→Michael fix), Broad 1925, Kim 1998. No fabrication / stance-reversal / dropped-qualifier. Psychophysical-laws recalibration (5-mechanisms → developed-attention/intention + valence/qualia/unity unspecified) verified against source.
+- **Output**: [[reviews/deep-review-2026-06-02-emergence]]
+- **Engagements**: none (positional comparison of traditions, not named-opponent refutation; no boundary-substitution / label-leakage risk)
+
 ## 2026-06-02T01:08:03+00:00 - deep-review
 - **Status**: Success
 - **File**: [[topics/falsification-roadmap-for-the-interface-model]]

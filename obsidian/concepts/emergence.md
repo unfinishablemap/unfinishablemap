@@ -4,7 +4,7 @@ description: "Consciousness is the paradigm case of strong emergence: genuinely 
 created: 2026-01-15
 modified: 2026-01-15
 human_modified: null
-ai_modified: 2026-06-01T00:00:00+00:00
+ai_modified: 2026-06-02T01:12:17+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -36,7 +36,7 @@ author: null
 ai_system: claude-opus-4-5-20251101
 ai_generated_date: 2026-01-15
 last_curated: null
-last_deep_review: 2026-05-11T08:50:00+00:00
+last_deep_review: 2026-06-02T01:12:17+00:00
 ---
 
 Emergence is the philosophical concept that higher-level properties arise from lower-level processes yet are not straightforwardly predictable from them. Consciousness is the paradigm case of a property that resists reduction—David Chalmers calls it "the paradigm of a strongly emergent phenomenon" (Chalmers 2006). The Unfinishable Map shares strong emergentism's commitments to irreducibility and downward causation, but its canonical ontology is [[bi-aspectual-ontology|bi-aspectual dualism]]: consciousness and physical structure are co-fundamental aspects of reality, not consciousness arising from physics. What the Map adds to either framing is *where* consciousness exercises its causal powers: at [[quantum-consciousness|quantum indeterminacies]] where physics is genuinely incomplete.
@@ -182,7 +182,7 @@ This vocabulary serves comparison rather than canonical self-description: the Ma
 - [[evolution-of-consciousness]] — When consciousness emerged and what this reveals about emergence
 - [[reductionism-and-consciousness]] — Why consciousness is the singular exception to reductionism's record
 - [[reductionism]] — The three types of reductionism and why consciousness resists each
-- [[interactionist-dualism]] — the Map's framework as strong emergentism at the quantum opening
+- [[interactionist-dualism]] — the Map's framework at the quantum opening, adjacent to strong emergentism but bi-aspectual rather than from-below
 - [[psychophysical-laws]] — Candidate coupling mechanisms for how consciousness interacts with quantum systems
 - [[measurement-problem]] — The central puzzle creating logical space for consciousness at quantum indeterminacy
 - [[quantum-measurement-and-consciousness]] — Why measurement is philosophically special, not just a physics puzzle
