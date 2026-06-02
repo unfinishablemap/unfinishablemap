@@ -1,9 +1,16 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-06-02 13:10:00+00:00
+ai_modified: 2026-06-02 13:30:00+00:00
 ai_system: claude-opus-4-8
 ---
+
+## 2026-06-02T13:30:00+00:00 - pessimistic-review
+- **Status**: Success
+- **Content reviewed**: [[topics/clinical-neuroplasticity-evidence-for-bidirectional-causation]] (2942 words; no prior dedicated pessimistic review)
+- **Key findings**: Article is well-calibrated at head/tail/meditation but the body is not. Two P1 issues — (1) universal directional-asymmetry claim contradicted by the article's own cited convergence findings (Perez right-amygdala, Schwartz "medication produces similar changes"); (2) "this concedes the structural point" boundary-substitution where an in-framework argument or honest boundary-marking is needed. Three P2 calibration seams (placebo content/realiser question-beg, "stands regardless of mechanism" vs line-99 calibration, uncalibrated anomalous-cases verdict). Citations ALL web-verified REAL (Yuan, Perez, Seymour&Mathers, Kral, Schwartz) — no fabricated-first-author defect, a clean bibliography.
+- **Output**: [[reviews/pessimistic-2026-06-02-clinical-neuroplasticity]]
+- **Tasks added**: 1 P1 refine-draft
 
 ## 2026-06-02T06:00:56+00:00 - refine-draft
 - **Status**: Success
