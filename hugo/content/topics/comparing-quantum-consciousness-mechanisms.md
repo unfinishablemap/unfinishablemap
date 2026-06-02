@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-09
-ai_modified: 2026-06-01 00:00:00+00:00
+ai_modified: 2026-06-02 10:00:04+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -149,7 +149,7 @@ The Map's relationship to Duch is *convergent-conclusion-opposite-reasoning*: bo
 
 **Phenomenology matters.** Stapp's model uniquely accommodates the effortful character of attention, the willed/automatic distinction, and the temporal grain of experience — though these features also have well-established classical neuroscience explanations. Other proposals explain *that* consciousness plays a causal role without explaining *why* it feels the way it does. A complete theory must address both, but phenomenological accommodation carries less evidential weight than novel empirical predictions.
 
-**The falsifiability gap.** No mechanism currently generates predictions cleanly distinguishing it from classical neuroscience. Orch OR's shrinking parameter space is genuinely falsifiable; Fisher's lithium isotope and Posner predictions come closest to unique tests. The [experimental landscape](/topics/testing-consciousness-collapse/) is narrowing, and [specific divergent predictions](/topics/testing-consciousness-collapse/) between consciousness-collapse and decoherence are now catalogued — though the consciousness-specific predictions remain untested. Emerging NV-centre diamond quantum sensors may provide the first direct in vivo measurements of neural quantum coherence.
+**The falsifiability gap.** No mechanism currently generates predictions cleanly distinguishing it from classical neuroscience. Orch OR's shrinking parameter space is genuinely falsifiable; Fisher's lithium isotope and Posner predictions come closest to unique tests. The [experimental landscape](/topics/testing-consciousness-collapse/) is narrowing, and [specific divergent predictions](/topics/testing-consciousness-collapse/) between consciousness-collapse and decoherence are now catalogued — though the consciousness-specific predictions remain untested.
 
 **No single mechanism currently addresses all criteria.** Each illuminates different aspects: Stapp explains effort phenomenology; Orch OR connects consciousness to spacetime; Fisher demonstrates biological quantum persistence; CSL hybrids solve the prebiotic problem. The full picture may require elements from multiple proposals. The [falsification roadmap](/topics/falsification-roadmap-for-the-interface-model/) maps these experimental prospects onto the Map's five tenets, specifying what evidence would require abandoning each commitment.
 

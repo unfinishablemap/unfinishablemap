@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-09
-ai_modified: 2026-05-31 12:50:32+00:00
+ai_modified: 2026-06-02 08:36:36+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -123,7 +123,7 @@ Despite different starting points, all three traditions converge on claims that 
 
 **Temporal microstructure**: Buddhist *khaṇika* (momentariness)—experience arising and passing in rapid succession—aligns with Husserl's phenomenological analysis, demonstrating empirical contemplative methods for investigating consciousness.
 
-**Dream yoga**: Tibetan *mi-lam* trains practitioners to maintain awareness during sleep. Demirel et al. (2025) validate this tradition, identifying lucid dreaming as a distinct consciousness state. Dream yoga demonstrates [Bidirectional Interaction](/tenets/#bidirectional-interaction)—dreamers volitionally control dream contents—and supports filter theory: dreams are what consciousness does when sensory constraints are removed. See [dream-consciousness](/topics/dream-consciousness/) and [lucid-dreaming-and-dualist-rendering](/topics/lucid-dreaming-and-dualist-rendering/).
+**Dream yoga**: Tibetan *mi-lam* trains practitioners to maintain awareness during sleep. Demirel et al. (2025) validate this tradition, identifying lucid dreaming as a distinct consciousness state. Dream yoga exemplifies [Bidirectional Interaction](/tenets/#bidirectional-interaction)—dreamers volitionally control dream contents—and supports filter theory: dreams are what consciousness does when sensory constraints are removed. See [dream-consciousness](/topics/dream-consciousness/) and [lucid-dreaming-and-dualist-rendering](/topics/lucid-dreaming-and-dualist-rendering/).
 
 ## The Illusionist Challenge
 
@@ -163,7 +163,7 @@ The implication: Buddhist impermanence needn't threaten the Map's dualism. What'
 
 ## What Would Challenge This View?
 
-1. **Contemplative phenomenology proves unreliable**—meditators systematically disagree, or reports reflect cultural priming rather than perception. Currently, cross-tradition convergence supports reliability.
+1. **Contemplative phenomenology turns out to be unreliable**—meditators systematically disagree, or reports reflect cultural priming rather than perception. Currently, cross-tradition convergence supports reliability.
 2. **Illusionism explains contemplative reports** without positing genuine phenomenal access.
 3. **Buddhist *anattā* necessarily extends to irreducibility**—requiring full reduction to functional processes, not just impermanence. The [detailed analysis](/concepts/buddhism-and-dualism/) argues otherwise.
 4. **Cessation states prove to be mere unconsciousness**—*nirodha samāpatti* shows the neural signature of ordinary unconsciousness rather than something distinctive.

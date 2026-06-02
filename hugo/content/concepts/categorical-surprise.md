@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-15
-ai_modified: 2026-06-01 16:55:52+00:00
+ai_modified: 2026-06-02 08:23:23+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -30,6 +30,7 @@ related_articles:
 - '[[mysterianism]]'
 - '[[creative-consciousness]]'
 - '[[consciousness-selecting-neural-patterns]]'
+- '[[consciousness-and-the-metaphysics-of-individuation]]'
 title: Categorical Surprise
 topics:
 - '[[surprise-prediction-error-and-consciousness]]'
@@ -66,7 +67,7 @@ A critic might object that this regress applies equally to non-physical consciou
 
 The [epistemic emotions](/concepts/epistemic-emotions/) surrounding categorical surprise have a distinctive character:
 
-**Disorientation.** Ordinary surprise produces a jolt; categorical surprise produces something closer to vertigo. The ground of expectation itself has shifted. There is a moment of phenomenal free-fall before the new framework begins to coalesce.
+**Disorientation.** Ordinary surprise produces a jolt; categorical surprise produces something closer to vertigo. The ground of expectation itself has shifted. There is a moment of phenomenal free-fall before the new framework begins to coalesce. This free-fall may be the same felt vertigo reported when the boundary of the subject dissolves in [contemplative ego-dissolution](/topics/consciousness-and-the-metaphysics-of-individuation/)—framework-collapse and subject-boundary-collapse perhaps being one groundlessness approached from two directions.
 
 **Retrospective reinterpretation.** After categorical surprise, previous experiences are reinterpreted through the new framework. Kuhn described this at the social scale in scientific revolutions: when Lavoisier reinterpreted combustion as combination with oxygen rather than release of phlogiston, chemists did not simply add a new fact—they reinterpreted decades of experimental results as having been about the wrong thing entirely (Kuhn 1962, ch. X). The Map's analysis of the [phenomenology of creative insight](/concepts/creative-consciousness/#the-phenomenology-of-creative-insight) examines this process in detail — the felt destabilisation of the interpretive framework that Kuhn called *anomaly*, and the felt sense that the new pattern was already there in nature rather than constructed by the scientist. At the individual scale, the same restructuring produces the felt sense that one was seeing the world wrong all along, not merely predicting it inaccurately.
 
