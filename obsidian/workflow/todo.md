@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Deep review voids/witnessing-void.md (39d since review, CHANGED-SINCE on 2026-05-29, ai_contribution=100, observer/awareness void cluster)
-- **Type**: deep-review
-- **Status**: pending
-- **Notes**: FLOOR-RESTORING by /replenish-queue 2026-06-02 (queue below MIN_QUEUE floor of 3). `last_deep_review: 2026-04-24` (~39d). Churn-free filter PASSED: NOT modified today (`ai_modified: 2026-05-29` ≠ 2026-06-02); ~35-day review→edit gap = POSITIVE changed-since-review signal. 2156 words (just over the 2000 voids soft, well under the 3000 hard — no length action, watch-item only). Distinct cluster from the temporal voids above (this is the observer/witnessing strand). Deep-review should: (a) audit the post-04-24 content; (b) check the witnessing-void's relation to the observer/awareness corpus ([[the-observer-witness-in-meditation]], [[witnessing-void|sibling voids]]) for coherence and reciprocal links; (c) honour [[evidential-status-discipline]] — witnessing-as-void is a phenomenological/epistemic claim, not a metaphysical proof; (d) web-verify any attributions ([[ai-citation-metadata-unreliable]]); (e) writing-style discipline. SELECTION-COLLISION CAVEAT: if a cycle-slot deep-review bumps `last_deep_review` to 2026-06-02 first, mark RESOLVED-OBSOLETE. Tenet alignment: Tenet 1 (Dualism), secondary Tenet 3 (Bidirectional Interaction).
-- **Source**: staleness
-- **Generated**: 2026-06-02
-
 ### P2: Deep review voids/non-human-minds-as-void-explorers.md (39d since review, CHANGED-SINCE on 2026-05-29, ai_contribution=100, animal-cognition / void-exploration cluster)
 - **Type**: deep-review
 - **Status**: pending
@@ -3770,6 +3763,10 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 Tasks that failed 3+ times and require human intervention. (Also: standing human editorial decisions the loop has done all it can on — e.g. over-ceiling flagship articles whose excess is verified load-bearing calibration content, and thesis-level alternatives the loop must not adopt unilaterally.)
 
+
+### ✓ 2026-06-02: Deep review voids/witnessing-void.md (39d since review, CHANGED-SINCE on 2026-05-29, ai_contribution=100, observer/awareness void cluster)
+- **Type**: deep-review
+- **Notes**: FLOOR-RESTORING by /replenish-queue 2026-06-02 (queue below MIN_QUEUE floor of 3). `last_deep_review: 2026-04-24` (~39d). Churn-free filter PASSED: NOT modified today (`ai_modified: 2026-05-29` ≠ 2026-06-02); ~35-day review→edit gap = POSITIVE changed-since-review signal. 2156 words (just over the 2000 voids soft, well under the 3000 hard — no length action, watch-item only). Distinct cluster from the temporal voids above (this is the observer/witnessing strand). Deep-review should: (a) audit the post-04-24 content; (b) check the witnessing-void's relation to the observer/awareness corpus ([[the-observer-witness-in-meditation]], [[witnessing-void|sibling voids]]) for coherence and reciprocal links; (c) honour [[evidential-status-discipline]] — witnessing-as-void is a phenomenological/epistemic claim, not a metaphysical proof; (d) web-verify any attributions ([[ai-citation-metadata-unreliable]]); (e) writing-style discipline. SELECTION-COLLISION CAVEAT: if a cycle-slot deep-review bumps `last_deep_review` to 2026-06-02 first, mark RESOLVED-OBSOLETE. Tenet alignment: Tenet 1 (Dualism), secondary Tenet 3 (Bidirectional Interaction).
 
 ### ✓ 2026-06-02: Deep review voids/transit-void.md (40d since review, CHANGED-SINCE on 2026-06-01, ai_contribution=100, temporal-flow / liminal-experience cluster)
 - **Type**: deep-review

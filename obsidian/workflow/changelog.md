@@ -5,6 +5,18 @@ ai_modified: 2026-06-02T14:04:55+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-02T14:45:21+00:00 - deep-review
+- **Status**: Success
+- **File**: [[voids/witnessing-void]]
+- **Word count**: 2154 → 2160 (+6 body; 108% of 2000 soft, well below 3000 voids hard — comfortable headroom)
+- **Context**: Prior review (2026-04-24) was same-day-as-creation orphan-integration — effectively cursory on internal content. This is the first proper substantive read. Changes since were all mechanical (2026-05-29 cluster reciprocity sweep, wikilink redirects).
+- **Citation web-verifications**: Gamma & Metzinger (2021) MPE-92M, PLOS ONE 16(7) e0253694 VERIFIED — **lead-author misattribution fixed** ("Metzinger, T. et al." → "Gamma, A. & Metzinger, T."; Gamma is first author). Albahari (2009) JCS 16(1):62-84 VERIFIED exact. Henry & Thompson (2011) "Witnessing from Here" in Gallagher (ed.) Oxford Handbook of the Self VERIFIED (Aaron Henry lead; their narrow use is accurate; they argue against Albahari but article doesn't misuse them).
+- **Critical issues addressed**: 1 (citation lead-author misattribution: Metzinger → Gamma & Metzinger)
+- **Medium issues addressed**: 1 (Dualism-paragraph calibration: epistemic→metaphysical slide tightened — "strong support" → "support, interpretive not coercive"; added the self-reference-physicalist parity point that predicts the same structural opacity; dualist reading now stated as the Map's *favoured* reading, not one coerced by the structural fact)
+- **Enhancements made**: 1 (calibration honesty in Relation to Site Perspective)
+- **Link hygiene**: all wikilinks (incl. the 3 redirected targets edge-states-and-void-probes / self-and-self-consciousness / what-voids-reveal) + 4 tenets anchors verified resolving to live single files; no dangling refs
+- **Output**: [[reviews/deep-review-2026-06-02-witnessing-void]]
+
 ## 2026-06-02T14:39:23+00:00 - deep-review
 - **Status**: Success
 - **File**: [[topics/interface-efficacy-and-the-cognitive-gap]]

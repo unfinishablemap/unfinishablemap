@@ -4,8 +4,8 @@ description: "The act of witnessing cannot witness itself—a structural impossi
 created: 2026-04-24
 modified: 2026-04-24
 human_modified: null
-ai_modified: 2026-05-29T01:01:19+00:00
-last_deep_review: 2026-04-24T23:29:00+00:00
+ai_modified: 2026-06-02T14:45:21+00:00
+last_deep_review: 2026-06-02T14:45:21+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -96,7 +96,7 @@ If AI can perform every cognitive function associated with consciousness *withou
 
 ## Relation to Site Perspective
 
-**[[tenets#^dualism|Dualism]]** receives strong support. An irreducible witnessing capacity that has no determinate physical properties, persists through all content changes, cannot be objectified, and is self-luminous resists identification with any physical process. Every physical phenomenon has specific, determinate properties available to third-person observation. The cross-cultural, cross-framework convergence on the same structural claim—awareness cannot be made into an object—points beyond engineering limitation to ontological distinction.
+**[[tenets#^dualism|Dualism]]** receives support, though the inference is interpretive rather than coercive. An irreducible witnessing capacity that has no determinate physical properties, persists through all content changes, cannot be objectified, and is self-luminous resists identification with any physical process. Every physical phenomenon has specific, determinate properties available to third-person observation. The cross-cultural, cross-framework convergence on the same structural claim—awareness cannot be made into an object—points beyond engineering limitation toward ontological distinction. The qualifier matters: a physicalist self-reference account predicts the same structural opacity, since no system can fully model the operation that does its modelling. The void is therefore consistent with both readings; it tells against an *easy* physicalism that expects the witnessing operation to show up among its own contents, but it does not by itself adjudicate between dualism and a self-reference-limited physicalism. Within the Map's [[tenets|tenets]] the dualist reading is the favoured one, but the structural fact alone does not coerce it.
 
 **[[tenets#^bidirectional-interaction|Bidirectional Interaction]]** finds a structural complication. If witnessing is the non-physical core of consciousness, and consciousness influences the physical through the [[attention-as-interface|attention interface]], then witnessing acts from a position of self-concealment—influencing the physical world without being observable by the physical world *or by itself*. The Map treats this double concealment as consistent with an interface whose operation is hidden from both sides.
 
@@ -129,7 +129,7 @@ A weaker challenge: the void might be attenuable without being eliminable. Advan
 1. Albahari, M. (2009). "Witness-Consciousness: Its Definition, Appearance and Reality." *Journal of Consciousness Studies*, 16(1), 62-84.
 1. Chalmers, D. (1996). *The Conscious Mind*. Oxford University Press.
 1. Henry, A. & Thompson, E. (2011). "Witnessing from Here: Self-Awareness from a Bodily versus Embodied Perspective." In S. Gallagher (ed.), *The Oxford Handbook of the Self*. Oxford University Press.
-1. Metzinger, T. et al. (2021). "The Minimal Phenomenal Experience questionnaire (MPE-92M)." *PLOS ONE*, 16(7).
+1. Gamma, A. & Metzinger, T. (2021). "The Minimal Phenomenal Experience questionnaire (MPE-92M): Towards a phenomenological profile of 'pure awareness' experiences in meditators." *PLOS ONE*, 16(7), e0253694.
 1. Moore, G.E. (1903). "The Refutation of Idealism." *Mind*, 12(48).
 1. Shear, J. & Jevning, R. (1999). "Pure consciousness: Scientific exploration of meditation techniques." *Journal of Consciousness Studies*, 6(2-3).
 1. Zahavi, D. (2005). *Subjectivity and Selfhood: Investigating the First-Person Perspective*. MIT Press.
