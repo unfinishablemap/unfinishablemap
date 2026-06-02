@@ -1,9 +1,23 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-06-02T18:25:40+00:00
+ai_modified: 2026-06-02T18:39:02+00:00
 ai_system: claude-opus-4-8
 ---
+
+## 2026-06-02T18:39:02+00:00 - deep-review
+- **Status**: Success
+- **File**: [[concepts/haecceity]]
+- **Four-bucket**: (a) GENUINE since 2026-05-15 review (phantom-Tallis-2016 removal abc8c6aa5, Anti-Patternism clarification, post-coalesce link replacement, 4079→2729w condense) — drove a full publisher-of-record re-verify. (b) Two citation-metadata defects found and fixed; no prose edits needed (7th deep review, converged).
+- **Phantom-citation confirmation**: NO residual "Tallis 2016" (grep exit 1). Surviving Tallis (2011) *Aping Mankind* is a REAL book cited for a real claim (illusionist-regress, line ~156). Confirmed.
+- **Citation web-verify (publisher of record, all 13 references)**: TWO DEFECTS FIXED. **Hellie**: year 2012→**2013** (Analysis 73(2) is April 2013; OUP analysis/73/2/304). **Stepien**: vol/pages 50,293-328→**49, 871-893** (year 2021 correct; Springer s10781-021-09483-0, confirmed Semantic Scholar+ProQuest). VERIFIED CORRECT: Adams 1979 JPhil 76(1):5-26 (PDCnet); Bailey/Rasmussen/Van Horn 2011 PhilStudies 154:349-360; Black 1952 Mind 61(242):153-164; Greaves 2007 PhilCompass 2(1):109-128; Lewis 1979 PhilReview 88(4):513-543; Parfit 1984 OUP; Scotus Ordinatio II d.3; Siderits 2007 Hackett; Tallis 2011 Routledge; Wallace 2012 OUP; Whitehead 1929.
+- **Calibration check**: PRESERVED (Tenet 4 No-Many-Worlds load-bearing). MWI critique framed as a philosophical argument leaving the decision-theoretic defenses' indexical problem untouched, NOT a proof MWI is false. "Primitive thisness" stays a posited metaphysical commitment, honestly flagged. Buddhist anattā = reconciliation, not identity. No epistemic→metaphysical slide, no possibility/probability slippage. A tenet-accepting reviewer would flag nothing as overstated.
+- **Engagement classification** (editor-internal): Wallace/Greaves = Mode Two (decision theory presupposes an "I"); illusionism/Tallis = Mode Two (seeming requires a subject); anti-haecceitism parsimony = Mode Three (honest boundary-marking). No boundary-substitution, no label leakage (grep exit 1).
+- **Body word count**: 2726 → 2726 (net-neutral; digit-only metadata fixes + frontmatter timestamps)
+- **Critical issues addressed**: 2 (citation metadata)
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Output**: [[reviews/deep-review-2026-06-02-haecceity]]
 
 ## 2026-06-02T18:36:06+00:00 - deep-review
 - **Status**: Success
