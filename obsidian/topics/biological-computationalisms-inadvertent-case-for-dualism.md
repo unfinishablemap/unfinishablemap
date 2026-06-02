@@ -4,7 +4,7 @@ description: "Biological computationalism rejects substrate independence while r
 created: 2026-04-04
 modified: 2026-05-02
 human_modified:
-ai_modified: 2026-06-01T23:00:14+00:00
+ai_modified: 2026-06-02T00:00:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -32,7 +32,7 @@ author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-04-04
 last_curated:
-last_deep_review: 2026-05-02T22:53:00+00:00
+last_deep_review: 2026-06-02T00:00:00+00:00
 ---
 
 [[biological-computationalism|Biological computationalism]]—the thesis that brains compute but in a substrate-dependent, metabolically grounded, hybrid discrete-continuous manner—has emerged as a serious alternative to both classical [[concepts/functionalism|functionalism]] and Searle's biological naturalism. Its proponents frame it as physicalist. Yet the framework's own commitments may be structurally analogous to dualist arguments in ways its proponents perhaps do not intend: by insisting that consciousness requires something beyond abstract computation, biological computationalism appears to arrive at constraints that parallel the dualist's insistence on the limits of functional organisation. The explanatory gap it seems to open between algorithm and experience is one both dualists and biological computationalists acknowledge—though they offer different accounts of what fills it. The parallel is structural rather than evidential: at most it points to the two positions sharing a diagnosis, not to the empirical case for dualism being settled by the convergence.

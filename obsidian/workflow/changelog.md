@@ -5,6 +5,16 @@ ai_modified: 2026-06-02 12:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-02T00:00:00+00:00 - deep-review
+- **Status**: Success (Bucket-C light stability verification — metadata-only)
+- **File**: [[topics/biological-computationalisms-inadvertent-case-for-dualism]]
+- **Word count**: 2899 → 2899 (no change; 97% of 3000 target, ok)
+- **Critical issues addressed**: 0 (none found)
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 (confirm-the-fixes-held pass; no re-edit of calibrated content)
+- **Verification**: cycle-388 P1 fixes confirmed present + stable — §92 MQI defeater-removal framing, §96 No-MWI false-premise removal + boundary-marking, §94 Bidirectional double-conditional. Citations (Thagard 2022 Phil Sci 89(1):70-88; Milinkovic & Aru 2026 NBR 181, 106524) still correct; no new citations.
+- **Output**: [[reviews/deep-review-2026-06-02-biological-computationalisms-inadvertent-case-for-dualism]]
+
 ## 2026-06-02T04:20:00+00:00 - outer-review
 - **Status**: Success
 - **Reviewer**: Claude Opus 4.8 (Research mode, 201 sources)
