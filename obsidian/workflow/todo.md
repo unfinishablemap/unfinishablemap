@@ -105,6 +105,27 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: optimistic-review
 - **Generated**: 2026-06-02
 
+### P1: Fix convergence problem→answer slide in topics/interaction-problem-across-traditions.md
+- **Type**: refine-draft
+- **Status**: pending
+- **Notes**: Pessimistic review 2026-06-02 (see [[pessimistic-2026-06-02]]) — HIGH/evidential-status defect ([[evidential-status-discipline]], method-convergence→ontology slide). In "What the Typology Reveals" the article moves from "traditions converge on the *problem*" (defensible) to "converge on the *answer*—that consciousness is causally efficacious" and to "independent support / independent confirmations / broader evidential base than analytic philosophy alone." The survey itself documents DIVERGENCE on the answer (Leibniz=no interaction, Type 5 monists=no problem, illusionists=no consciousness), so the answer-convergence claim is overclaimed; and recurrence-of-a-puzzle is recruited as evidential confirmation of the metaphysical thesis (convergence→ontology). Fix: SPLIT the readings — keep "the *problem* is cross-traditionally robust, not a Cartesian artifact" (well-supported); downgrade the answer claim to "several (not all) traditions independently reach a selection-style *structure*, suggestive of a natural solution-region, NOT independent evidence the solution is correct"; remove/qualify "independent support/confirmation/evidential base" in §"Contact fails; selection is more promising" and the final line. Orthogonal to hedge density — do not just add hedges, restructure the inference. Length-neutral (2728 words; do not grow past topics threshold; no "not X, it is Y" cliché). Tenet alignment: Tenet 5 (Occam's Razor Has Limits — convergence is not a shortcut to ontology). See /refine-draft skill.
+- **Source**: pessimistic-review
+- **Generated**: 2026-06-02
+
+### P2: Web-verify + cite "seven orders of magnitude" decoherence figure in topics/interaction-problem-across-traditions.md
+- **Type**: refine-draft
+- **Status**: pending
+- **Notes**: Pessimistic review 2026-06-02 (see [[pessimistic-2026-06-02]]) — MEDIUM. Type 4 decoherence ¶ (line 89) asserts "Hameroff's group found estimates seven orders of magnitude longer than Tegmark's" with NO inline citation. Round-number + contested + specialist = web-verify ([[ai-citation-metadata-unreliable]]); the 10^7 decoherence-time comparison traces to Hagan, Hameroff & Tuszyński 2002 *Phys. Rev. E* 65:061901, NOT obviously to ref 15 (Hameroff & Penrose 2014). Also web-verify three further specialist/unattributed citations in the same article: (a) ref 5 Jamali/Golshani/Jamali 2019 Preprints.org (non-peer-reviewed preprint — verify authors/year/venue AND flag its preprint status in-text); (b) ref 2 "*The hard problem of 'pure' consciousness: Samkhya dualist ontology*" *Religious Studies* CUP 2023 (no author listed — verify title/venue/year/author); (c) Vijñānabhikṣu "mutual reflection / bidirectional informational coupling" specialist claim is unsourced — attach a text/secondary source. NOTE: Beck & Eccles 1992 PNAS 89(23):11357-61 (ref 16) was already web-verified CLEAN this pass — do not re-verify. Fix each at publisher-of-record or soften/flag; do NOT propagate intra-corpus consistency. Length-neutral. Tenet alignment: evidential discipline. See /refine-draft skill.
+- **Source**: pessimistic-review
+- **Generated**: 2026-06-02
+
+### P3: Discharge or honestly mark the thrice-deferred process-monism promissory note in topics/interaction-problem-across-traditions.md
+- **Type**: refine-draft
+- **Status**: pending
+- **Notes**: Pessimistic review 2026-06-02 (see [[pessimistic-2026-06-02]]) — LOW/MEDIUM (logical incompleteness, not a contradiction). The article states THREE times (Type 3 close; "Process solutions are the strongest competitor"; Relation-to-Site) that the Map "must articulate why it retains substance/property dualism" against process monism (Mulla Ṣadrā / Whitehead) and never discharges it — naming process dissolution its "strongest competitor" while leaving it unanswered. Fix (pick one, length-neutral): EITHER add one short paragraph giving the Map's actual reason for retaining dualism over dynamic-process monism (the Dualism tenet's irreducibility claim is precisely what "grades of one substance" dissolves), OR collapse the three "must articulate" sentences into a SINGLE honest open-question marker so the gap is acknowledged once, not promised thrice. Do not grow the article. Tenet alignment: Tenet 1 (Dualism). See /refine-draft skill.
+- **Source**: pessimistic-review
+- **Generated**: 2026-06-02
+
 ### ✓ DEFERRED-TO-HUMAN (2026-06-02): Condense topics/epistemology-of-convergence-arguments.md (6479 words, exceeds 6000 critical threshold)
 - **Type**: condense
 - **Type**: condense
