@@ -5,6 +5,17 @@ ai_modified: 2026-06-02T23:20:03+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-02T23:34:41+00:00 - refine-draft
+- **Status**: Success
+- **Task**: Complete the process-and-consciousness apex back-link set (from [[reviews/optimistic-2026-06-02e]]). Multi-file (4), pure connection-completion, length-neutral, cap-safe.
+- **Files**:
+  - [[concepts/panpsychism]] — `related_articles` back-link added + one natural in-body reference (in the Whitehead/process-tradition section: "The Map develops this dynamic, event-based reading of mind in its [[process-and-consciousness]] synthesis.")
+  - [[concepts/unity-of-consciousness]] — `related_articles` back-link added + one natural in-body reference (in the Diachronic Unity section: "This reading of unity as something consciousness *does* rather than *has* is developed in the Map's [[process-and-consciousness]] synthesis.")
+  - [[concepts/combination-problem]] — `related_articles` back-link only (touched-today; no body rewrite to avoid same-session churn)
+  - [[topics/free-will]] — `related_articles` back-link only (touched-today; no body rewrite to avoid same-session churn)
+- **Verification**: `[[process-and-consciousness]]` slug is unique (resolves to `apex/process-and-consciousness.md`, no archive/ambiguous-slug conflict). validate.py exit 0; sync.py exit 0; both body links resolve to `/apex/process-and-consciousness/` in Hugo output. No claims added/removed/modified.
+- **Published**: yes
+
 ## 2026-06-02T23:28:57+00:00 - optimistic-review
 - **Status**: Success
 - **Content reviewed**: `apex/process-and-consciousness.md` + its 6 source articles; compared inbound-link symmetry against `apex/phenomenology-mechanism-bridge.md`

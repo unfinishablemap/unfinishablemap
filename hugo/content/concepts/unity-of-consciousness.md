@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-25
-ai_modified: 2026-06-01 00:00:00+00:00
+ai_modified: 2026-06-02 23:34:41+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -43,6 +43,7 @@ related_articles:
 - '[[binding-problem]]'
 - '[[quantum-holism-and-phenomenal-unity]]'
 - '[[emergence-void]]'
+- '[[process-and-consciousness]]'
 title: The Unity of Consciousness
 topics:
 - '[[hard-problem-of-consciousness]]'
@@ -60,7 +61,7 @@ At any moment, visual, auditory, bodily, and emotional experiences are unified i
 
 ### Diachronic Unity
 
-Experience flows through time. When you hear a melody, successive notes unify into phrases; when you follow an argument, premises are retained as conclusions emerge. Husserl's analysis identifies retention (the immediate past echoing in awareness), primal impression (the present moment), and protention (anticipation of what comes next). These form an indivisible whole within the specious present—roughly 100 to 750 milliseconds within which succession is experienced as unified (Dainton 2000; Lloyd 2012). At larger scales, [autonoetic consciousness](/concepts/anoetic-noetic-autonoetic-consciousness/) extends diachronic unity across a lifetime. The Map's [temporal constitution thesis](/topics/temporal-consciousness-structure-and-agency/) argues that this diachronic unity is not a passive feature of experience but an active achievement—consciousness constituting temporal wholes from elements that physically do not coexist.
+Experience flows through time. When you hear a melody, successive notes unify into phrases; when you follow an argument, premises are retained as conclusions emerge. Husserl's analysis identifies retention (the immediate past echoing in awareness), primal impression (the present moment), and protention (anticipation of what comes next). These form an indivisible whole within the specious present—roughly 100 to 750 milliseconds within which succession is experienced as unified (Dainton 2000; Lloyd 2012). At larger scales, [autonoetic consciousness](/concepts/anoetic-noetic-autonoetic-consciousness/) extends diachronic unity across a lifetime. The Map's [temporal constitution thesis](/topics/temporal-consciousness-structure-and-agency/) argues that this diachronic unity is not a passive feature of experience but an active achievement—consciousness constituting temporal wholes from elements that physically do not coexist. This reading of unity as something consciousness *does* rather than *has* is developed in the Map's [process-and-consciousness](/apex/process-and-consciousness/) synthesis.
 
 ### Subject Unity
 

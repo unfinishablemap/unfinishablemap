@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-29
-ai_modified: 2026-05-27 07:27:07+00:00
+ai_modified: 2026-06-02 22:56:49+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -25,7 +25,7 @@ description: Post-decoherence selection is the process that actualizes one outco
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-05-17 12:51:48+00:00
+last_deep_review: 2026-06-02 22:56:49+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -43,7 +43,7 @@ topics:
 - '[[hard-problem-of-consciousness]]'
 ---
 
-Post-decoherence selection is whatever process actualizes one definite outcome from the classical-looking mixture that decoherence produces. [Decoherence](/concepts/decoherence/) suppresses quantum interference and selects a preferred basis of pointer states, but it does not explain why a single outcome obtains rather than the mixture persisting. [Quantum Darwinism](/topics/quantum-darwinism-and-consciousness/) extends this programme by showing how environmental redundancy makes pointer states objectively accessible—yet even this fuller account leaves the outcome gap intact. As Schlosshauer (2004) puts it: "After the basis is chosen and quantum superpositions are suppressed, the system still remains in a mixture of possible outcomes. Decoherence does not tell how and why only one of these outcomes is measured." This residual *problem of outcomes* is the central opportunity for The Unfinishable Map's [interactionist dualism](/concepts/interactionist-dualism/): post-decoherence selection is precisely where consciousness could act without violating known physics. The concept names the specific locus where the Map's [Dualism](/tenets/#dualism) and [Bidirectional Interaction](/tenets/#bidirectional-interaction) tenets find their physical grounding.
+Post-decoherence selection is whatever process actualizes one definite outcome from the classical-looking mixture that decoherence produces. [Decoherence](/concepts/decoherence/) suppresses quantum interference and selects a preferred basis of pointer states, but it does not explain why a single outcome obtains rather than the mixture persisting. [Quantum Darwinism](/topics/quantum-darwinism-and-consciousness/) extends this programme by showing how environmental redundancy makes pointer states objectively accessible—yet even this fuller account leaves the outcome gap intact. As Schlosshauer (2004) is explicit, decoherence does not solve the measurement problem: once the preferred basis is selected and interference suppressed, the system is still described by a mixture, and the usual probability rules of quantum theory must still be applied to extract a single observed outcome. This residual *problem of outcomes* is the central opportunity for The Unfinishable Map's [interactionist dualism](/concepts/interactionist-dualism/): post-decoherence selection is precisely where consciousness could act without violating known physics. The concept names the specific locus where the Map's [Dualism](/tenets/#dualism) and [Bidirectional Interaction](/tenets/#bidirectional-interaction) tenets find their physical grounding.
 
 ## The Gap Decoherence Leaves
 
@@ -81,7 +81,7 @@ Post-decoherence selection aligns with all five of the Map's [tenets](/tenets/).
 
 The [Dualism](/tenets/#dualism) tenet holds that consciousness is irreducible to physics. Post-decoherence selection reinforces this: the physical formalism terminates at an improper mixture, and something non-physical actualizes the outcome.
 
-The [Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction) tenet requires the smallest possible non-physical influence on physical outcomes. Post-decoherence selection satisfies this more cleanly than any competing framework. Objective collapse theories (GRW, Penrose–Diósi) require introducing entirely new physics—ad hoc parameters, spontaneous localization fields, gravitational collapse thresholds—none of which have been experimentally confirmed. Hidden-variable theories require a complete deterministic substructure underlying all of quantum mechanics. By contrast, post-decoherence selection asks only that consciousness choose among alternatives that physics has already prepared. The physical dynamics do all the work of producing distinguishable options; consciousness contributes only the selection itself, the minimal possible intervention. The corridor inherits the [causal consistency constraint](/concepts/causal-consistency-constraint/) natively: selection-only coupling preserves Born statistics by construction, so the relativistic-causality requirement Torres Alegre (2025) argues any participant in measurement outcomes must respect is satisfied without further argument.
+The [Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction) tenet requires the smallest possible non-physical influence on physical outcomes. Post-decoherence selection satisfies this more cleanly than any competing framework. Objective collapse theories (GRW, Penrose–Diósi) require introducing entirely new physics—ad hoc parameters, spontaneous localization fields, gravitational collapse thresholds—none of which have been experimentally confirmed. Hidden-variable theories require a complete deterministic substructure underlying all of quantum mechanics. By contrast, post-decoherence selection asks only that consciousness choose among alternatives that physics has already prepared. The physical dynamics do all the work of producing distinguishable options; consciousness contributes only the selection itself, the minimal possible intervention. The corridor inherits the [causal consistency constraint](/concepts/causal-consistency-constraint/) natively: selection-only coupling preserves Born statistics by construction, so the relativistic-causality requirement—Torres Alegre (2025) derives the Born rule as the unique probability assignment consistent with no-signalling, any deviation generating detectable superluminal channels—is satisfied without further argument.
 
 The [Bidirectional Interaction](/tenets/#bidirectional-interaction) tenet demands that consciousness causally influence the physical world. This is where the competing frameworks fail most decisively. Objective collapse makes consciousness a spectator—outcomes are determined by physical parameters (mass thresholds, spontaneous localization rates) with no role for experience. Bohmian mechanics is fully deterministic: initial particle positions fix every subsequent outcome, leaving no causal gap for mind. Many worlds denies that selection occurs at all. Even history selection frameworks are physically self-contained—consistent histories assigns probabilities without requiring a selector, and the transactional interpretation's handshakes are between physical emitters and absorbers. Only consciousness-mediated selection preserves genuine bidirectional causation: consciousness determines which element of the decohered mixture becomes actual, and the actualized outcome in turn shapes subsequent conscious experience.
 
@@ -123,3 +123,4 @@ The Map treats post-decoherence selection not merely as an abstract interpretive
 10. Bhaumik, M. L. (2023). Can Decoherence Solve the Measurement Problem? arXiv:2301.01207.
 11. Southgate, A. & Oquatre-six, C. (2026-01-14). Decoherence and the Quantum Consciousness Objection. *The Unfinishable Map*. https://unfinishablemap.org/concepts/decoherence/
 12. Southgate, A. & Oquatre-six, C. (2026-01-14). The Measurement Problem. *The Unfinishable Map*. https://unfinishablemap.org/concepts/measurement-problem/
+13. Torres Alegre, E. O. (2025). Causal Consistency Selects the Born Rule: A Derivation from Steering in Generalized Probabilistic Theories. arXiv:2512.12636.

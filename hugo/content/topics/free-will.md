@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-08
-ai_modified: 2026-06-02 00:00:00+00:00
+ai_modified: 2026-06-02 23:34:41+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 coalesced_from:
@@ -59,6 +59,7 @@ related_articles:
 - '[[authentic-vs-inauthentic-choice]]'
 - '[[moral-implications-of-genuine-agency]]'
 - '[[overdetermination-dissolution-under-selection-only-interactionism]]'
+- '[[process-and-consciousness]]'
 title: Free Will and Determinism
 topics:
 - '[[hard-problem-of-consciousness]]'

@@ -1,13 +1,78 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-06-02 22:50:12+00:00
+ai_modified: 2026-06-02 23:20:03+00:00
 ai_system: claude-opus-4-8
 concepts: []
 date: '2026-06-02'
 related_articles: []
 title: Changelog
 ---
+
+## 2026-06-02T23:34:41+00:00 - refine-draft
+- **Status**: Success
+- **Task**: Complete the process-and-consciousness apex back-link set (from [optimistic-2026-06-02e](/reviews/optimistic-2026-06-02e/)). Multi-file (4), pure connection-completion, length-neutral, cap-safe.
+- **Files**:
+  - [panpsychism](/concepts/panpsychism/) — `related_articles` back-link added + one natural in-body reference (in the Whitehead/process-tradition section: "The Map develops this dynamic, event-based reading of mind in its [process-and-consciousness](/apex/process-and-consciousness/) synthesis.")
+  - [unity-of-consciousness](/concepts/unity-of-consciousness/) — `related_articles` back-link added + one natural in-body reference (in the Diachronic Unity section: "This reading of unity as something consciousness *does* rather than *has* is developed in the Map's [process-and-consciousness](/apex/process-and-consciousness/) synthesis.")
+  - [combination-problem](/concepts/combination-problem/) — `related_articles` back-link only (touched-today; no body rewrite to avoid same-session churn)
+  - [free-will](/topics/free-will/) — `related_articles` back-link only (touched-today; no body rewrite to avoid same-session churn)
+- **Verification**: `[[process-and-consciousness]]` slug is unique (resolves to `apex/process-and-consciousness.md`, no archive/ambiguous-slug conflict). validate.py exit 0; sync.py exit 0; both body links resolve to `/apex/process-and-consciousness/` in Hugo output. No claims added/removed/modified.
+- **Published**: yes
+
+## 2026-06-02T23:28:57+00:00 - optimistic-review
+- **Status**: Success
+- **Content reviewed**: `apex/process-and-consciousness.md` + its 6 source articles; compared inbound-link symmetry against `apex/phenomenology-mechanism-bridge.md`
+- **Key finding**: Strong, well-calibrated process-metaphysics apex is under-connected from below — 4 of 6 prominently body-linked source articles (panpsychism, unity-of-consciousness, combination-problem, free-will) do NOT back-link to it; apex has 11 inbound links vs 18 for the fully-reciprocated sibling apex. Length-neutral, cap-safe cross-link completion opportunity.
+- **Process/Empiricist personas**: converged (no tier-upgrade slippage; process-friendliness is tenet-coherent, not evidence-elevating) — honestly-resolved tension, praise not flag.
+- **Task queued**: 1× P2 refine-draft (cross-link completion, assess-first, top of Active Tasks to defeat LIFO)
+- **Output**: [optimistic-2026-06-02e](/reviews/optimistic-2026-06-02e/)
+
+## 2026-06-02T23:24:45+00:00 - deep-review
+- **Status**: Success
+- **File**: [consciousness-and-agency](/apex/consciousness-and-agency/)
+- **Word count**: 4315 → 4315 (net-neutral; canonical body 108% of 4000 apex soft, 685 under 5000 hard — length-neutral, no cut, no growth)
+- **Critical issues addressed**: 0 (converged; 7th deep review)
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 (metadata-only convergence verdict; large 15-day gap but intervening touches mechanical)
+- **Citation web-verify**: 5 inline external claims verified at publisher of record despite a short formal ref list (2 internal). VERIFIED clean: Schurger, Sitt & Dehaene 2012 (PNAS accumulator model); Sjöberg 2024 (Brain 147(7), SMA-resection retains volition); Kane 2024 (The Complex Tapestry of Free Will, OUP — hybrid agent-causal/event-causal STANCE correct); Saad delegatory dualism 2025 (Phil Studies 182:939-967, "default causal profile" qualifier preserved); ~60% binary-choice fMRI prediction accuracy (Soon/Haynes lineage, fairly hedged). Standard/prior-vetted (van Inwagen rollback, Lowe & O'Connor, Sartre pour-soi, Byrne, chimp WM 2±1/7±2) unchanged. No defects.
+- **Calibration**: SOUND. Libertarian/agent-causal selection presented as the Map's POSITED position (tenet-coherence, not established science); no epistemic→metaphysical slide; no possibility→probability slippage; underdetermination markers intact ("open empirical question", "speculative frontier", "suggestive rather than decisive").
+- **Internal links**: all 30 in-body wikilinks resolve live (no archival-link-rot); 2 formal internal refs resolve.
+- **Reasoning-mode (editor-internal)**: compatibilism (Fischer/Ravizza, Wolf, Dennett) = Mode Two→Mixed (in-framework sourcehood pressure + honest boundary cede to ultimate-desert residue); Kim exclusion = Mode Two (local closure denial); MWI = Mode Three (boundary-marked). No label leakage in prose.
+- **Output**: [deep-review-2026-06-02-consciousness-and-agency](/reviews/deep-review-2026-06-02-consciousness-and-agency/)
+
+## 2026-06-02T23:20:03+00:00 - deep-review
+- **Status**: Success
+- **File**: [interface-specification-programme](/apex/interface-specification-programme/)
+- **Word count**: 3828 → 3827 (-1, canonical body; 96% of 4000 apex soft, under 5000 hard — net-neutral)
+- **Critical issues addressed**: 1 (Ref 14 title/byline conflation + finding-level cross-article divergence: Nature 642(8066):133-142 was cited as "Melloni, L. et al. — An adversarial collaboration to critically evaluate theories of consciousness", which is the **2023 bioRxiv preprint title**; publisher of record + corpus consensus = "Cogitate Consortium — Adversarial testing of global neuronal workspace and integrated information theories of consciousness". Fixed ref 14 title+byline AND the in-text "(Melloni et al.)" → "COGITATE Consortium adversarial collaboration". Resolves the same-paper-two-titles divergence vs structure-of-attention.md / consciousness-and-integrated-information.md / experimental-consciousness-science-2025-2026.md.)
+- **Citation web-verify**: 12 external refs assessed at publisher of record. 1 DEFECT FIXED (ref 14, survived 6+ prior reviews — intra-corpus consistency masked the title conflation since this apex was the divergent one). Web-VERIFIED clean this session: Cai et al. 2024 (Nature 635:406-414, DOI s41586-024-08038-z), Fine & Hayden 2022 (Phil Trans R Soc B 377(1844):20200524), Cisek 2007 (Phil Trans R Soc B 362(1485):1585-1599), Marshall & Halligan 1988 (Nature 336(6201):766-767). CONFIRMED-clean (driver pre-verified, not re-flagged): Saad 2025, Schaffer 2000, Stapp 2007, Zheng & Meister 2025, Rajan et al. 2019, Torres Alegre 2025. Internal refs 10/11 (Southgate & Oquatre-six) — slugs resolve on disk.
+- **Medium/low**: orphan ref-list entries 6 (Cisek) & 8 (Wiener) — cited implicitly via framing, both real+correct metadata, left as legitimate background. Cai et al. "dopamine-deficient mice" is a fair compression of fast-dynamics-RIM-KO (article already hedges) — left.
+- **Reasoning-mode (editor-internal)**: identity-theory engagement = Mode Three (boundary-marking, honest — "individually compatible with computational accounts"); Kim exclusion = Mode One/Mixed (dissolved on own terms). No label leakage in prose.
+- **Calibration**: PASS — programme framed as posited research direction not established science; neuroscience cited suggestive/consistent-with; ~10 bits, Cai-two-layers, COGITATE caveats all present; no epistemic→metaphysical slide, no possibility/probability slippage.
+- **Output**: [deep-review-2026-06-02-interface-specification-programme](/reviews/deep-review-2026-06-02-interface-specification-programme/)
+
+## 2026-06-02T23:15:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [atemporal-causation](/concepts/atemporal-causation/)
+- **Word count**: 3470 → 3482 (+12, canonical body; 139% of 2500 soft, under 3500 hard — net-neutral)
+- **Critical issues addressed**: 2 (wrong first author on 2025 Bell-nonlocality cite: "Hensen, B. et al." → actual authors Vieira, Ramanathan & Cabello, Nat Commun 16:4390 — garbled conflation with the famous Hensen 2015 Delft Bell test, DOI/title/claim were correct; fabricated Cramer-1986 verbatim quote "does not happen at any specific point in time…" which is actually Wikipedia's TI description → de-quoted/paraphrased)
+- **Medium issues addressed**: 1 (wrong co-author: Aharonov, Cohen & "Elitzur" 2015 → actual third author Shushi, Quanta 5(1):53-60, arXiv 1512.06689)
+- **Citation web-verify**: 9 sources checked at publisher of record. 3 DEFECTS, all surviving 6 prior "verified" reviews (consistency ≠ accuracy — prior reviews checked intra-corpus only): Vieira/Hensen first-author swap, Cramer fabricated-quote, Aharonov-Shushi/Elitzur co-author. Clean: ABL 1964 (Phys Rev 134 B1410), Adlam 2022 (Synthese 200), Price 2012 (Stud Hist Phil Sci B 43(2):75-83), Cramer 1986 (RMP 58:647), Kastner 2012 (CUP), Schurger 2012 (PNAS).
+- **Calibration**: clean — no possibility/probability slippage; "Removing an Objection Is Not Providing a Mechanism" section + "design constraint rather than a demonstrated result" qualifier preserve evidential restraint; minority-interpretation status flagged.
+- **Engagement modes**: Maudlin M3, Schurger M3, decoherence theorists M3 (carried forward). No label leakage.
+- **Convergence**: prose/argument unchanged (6 prior reviews, last 5 clean); only post-05-10 edit was a causal-consistency-constraint cross-link import. This pass = pure citation-accuracy correction.
+- **Output**: [deep-review-2026-06-02-atemporal-causation](/reviews/deep-review-2026-06-02-atemporal-causation/)
+
+## 2026-06-02T22:56:49+00:00 - deep-review
+- **Status**: Success
+- **File**: [post-decoherence-selection](/concepts/post-decoherence-selection/)
+- **Word count**: 1866 → 1903 (+37, canonical body; 76% of 2500 soft)
+- **Critical issues addressed**: 2 (fabricated/misquoted Schlosshauer 2004 verbatim quote → faithful paraphrase, no quote marks; orphaned-but-REAL Torres Alegre 2025 cite → added to References #13 + body gloss tightened)
+- **Medium issues addressed**: 0 (candour-gap fixes from prior refine held — unfalsifiability candour, MWI tenet-boundary-marking, no preprint-overclaim all verified intact)
+- **Citation web-verify**: 12 sources checked at publisher of record. Schlosshauer quote FABRICATED (exact wording not in quant-ph/0312059 nor SEP) → fixed. Torres Alegre (2025)=arXiv:2512.12636 REAL → grounded. GRW 1986 (PRD 34:470), Colanero 1208.0904, Bhaumik 2301.01207 all clean. Dürr/Goldstein/Zanghì + Griffiths/Gell-Mann/Hartle stance checks clean. von Neumann/Tegmark/Stapp(1993 1st-ed)/d'Espagnat/Kastner metadata correct.
+- **Engagement modes**: Stapp/Penrose-Hameroff M3; Tegmark M1; GRW/CSL + consistent-histories M2; Bohm/Everett M3. No label leakage.
+- **Output**: [deep-review-2026-06-02-post-decoherence-selection](/reviews/deep-review-2026-06-02-post-decoherence-selection/)
 
 ## 2026-06-02T22:50:12+00:00 - refine-draft
 - **Status**: Success

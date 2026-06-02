@@ -4,7 +4,7 @@ description: "The view that consciousness is fundamental and ubiquitous in natur
 created: 2026-01-08
 modified: 2026-01-27
 human_modified: null
-ai_modified: 2026-05-31T11:57:56+00:00
+ai_modified: 2026-06-02T23:34:41+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -30,6 +30,7 @@ related_articles:
   - "[[origin-of-consciousness]]"
   - "[[russellian-monism-versus-bi-aspectual-dualism]]"
   - "[[four-quadrant-dualism-taxonomy]]"
+  - "[[process-and-consciousness]]"
 ai_contribution: 100
 author: null
 ai_system: claude-opus-4-7
@@ -64,7 +65,7 @@ Before contemporary panpsychism, Alfred North Whitehead developed a sophisticate
 
 Whitehead's influence runs through contemporary panpsychism. His rejection of "vacuous actuality" (matter without any experiential aspect) anticipates Strawson's argument that non-experiential matter is incoherent. His "actual occasions" prefigure micro-experiences. The combination problem is implicit in his account of how occasions "synthesize" into complex organisms.
 
-The process tradition suggests panpsychism needn't treat micro-experiences as static properties; they might be dynamic events. This reframes the combination problem: not "how do things combine?" but "how do experiential *processes* flow into unified streams?" Process philosophy's notion of [[unity-of-consciousness|phenomenal unity]] as achievement—something each occasion accomplishes through creative synthesis—offers a distinctive response to the combination problem that differs from both panpsychism's aggregation model and dualism's separate-substance model.
+The process tradition suggests panpsychism needn't treat micro-experiences as static properties; they might be dynamic events. This reframes the combination problem: not "how do things combine?" but "how do experiential *processes* flow into unified streams?" Process philosophy's notion of [[unity-of-consciousness|phenomenal unity]] as achievement—something each occasion accomplishes through creative synthesis—offers a distinctive response to the combination problem that differs from both panpsychism's aggregation model and dualism's separate-substance model. The Map develops this dynamic, event-based reading of mind in its [[process-and-consciousness]] synthesis.
 
 ### Russellian Panpsychism and Its Variants
 
