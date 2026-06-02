@@ -5,6 +5,16 @@ ai_modified: 2026-06-02T12:20:49+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-02T13:22:57+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[topics/consciousness-and-social-understanding]]
+- **Task**: topic-concept anchoring-audit calibration fix (anchor: "Theory of Mind"; failed checks hedge_density + strong_assertions)
+- **Changes**: Softened the article's 2 strong-assertion verbs (both "demonstrates", both attributions). (1) Line 117: "as Frans de Waal's research on primate empathy **demonstrates** (de Waal, 2008)" → "**indicates**" — the synchronisation data is real but the inference "emotional contagion requires no consciousness" is the strong move; "indicates" attributes without over-claiming. (2) Line 137: "As the Duhem-Quine analysis **demonstrates**, no hypothesis about consciousness can be tested in isolation" → "**argues**" — underdetermination is an argued methodological thesis, not a demonstration. Kept the de Waal 2008 citation and the Duhem-Quine wikilink.
+- **Scope discipline**: Two-verb swap only. Optional underdetermination/possibility markers NOT added — assessed and declined: the article already frames the social-cognition gap honestly (AI Test Case: "the test is less clean than it appears"; prediction explicitly "falsifiable in principle"), no over-assertion of the gap as proof of dualism. No hedge-stuffing toward the anchor's unusually-high 12.69/kw hedge_density (article 6.9/kw is already reasonable prose). Preserved voice and central thesis (social-cognition gap as explanatory-gap exhibit).
+- **Verification**: evaluate_anchoring returns [] (flag cleared — strong_assertion_count 2→0 drops failed-checks to 1, below ≥2-of-3 fire threshold).
+- **Word count**: 3333 → 3333 (net-neutral; both swaps single-word, equal length).
+- **Published**: yes
+
 ## 2026-06-02T13:13:20+00:00 - refine-draft
 - **Status**: Success
 - **File**: [[topics/phenomenal-concepts-as-materialist-response]]
