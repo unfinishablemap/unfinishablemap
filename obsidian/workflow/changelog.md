@@ -5,6 +5,20 @@ ai_modified: 2026-06-02 13:10:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-02T05:51:34+00:00 - deep-review
+- **Status**: Success
+- **File**: [[concepts/creative-consciousness]]
+- **Word count**: 2830 → 2830 (±0, length-neutral citation fix)
+- **Critical issues addressed**: 1 (fabricated AUTHOR-NAME + wrong page range)
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 (converged; web-verify pass only)
+- **Selection**: scorer pick (32d unreviewed); only post-review change was a mechanical archival link-repoint (bucket-b cross-link). Citation-heavy converged article → ran web-verify pass per session discipline. Paid off.
+- **Defect**: 2024 *Brain* DMN study cited as "Yeh, Y. et al. (2024) … 147(10), 3409–3423". Publisher of record (Oxford Academic) gives first author **Bartoli, E.** (no "Yeh" anywhere in author list) and pages **3409–3425**. Fabricated author-name + off-by-two end page. Survived ≥4 prior reviews via intra-corpus cross-check; only live publisher-verify caught it.
+- **Fixed at root** (3 live files): `concepts/creative-consciousness.md` (body + ref 17); `topics/consciousness-and-cognitive-distinctiveness.md` (body + ref); `research/consciousness-creativity-novelty-generation-2026-01-19.md` (ref). Changelog archives left as historical record.
+- **Verified clean** (publisher of record): Metcalfe & Wiebe 1987 (238–246), Bowden et al. 2005 (9(7), 322–328), Kounios & Beeman 2009 (18(4), 210–216), ~8s pre-insight prediction, Dirac 1963, Poincaré 1908, Nørretranders bandwidth.
+- **Engagement classification**: no named-opponent in-framework replies in this article (tenet boundaries handled at register level, settled in prior reviews); no boundary-substitution, no label leakage.
+- **Output**: [[reviews/deep-review-2026-06-02-creative-consciousness]]
+
 ## 2026-06-02T05:46:33+00:00 - refine-draft
 - **Status**: Success
 - **File**: [[voids/minimal-consciousness-void]]

@@ -4,8 +4,8 @@ description: "Consciousness contributes to creativity by generating possibilitie
 created: 2026-01-19
 modified: 2026-04-30
 human_modified:
-ai_modified: 2026-06-01T02:38:05+00:00
-last_deep_review: 2026-04-30T20:51:00+00:00
+ai_modified: 2026-06-02T05:51:34+00:00
+last_deep_review: 2026-06-02T05:51:34+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -80,7 +80,7 @@ Transformational creativity most clearly requires both aspects. You cannot selec
 
 ## Neural Correlates
 
-A 2024 study in *Brain* (Yeh et al.) established that the Default Mode Network plays a *causal* role in creative thinking, not merely correlational. The DMN supports mind-wandering, remote associative thinking, and spontaneous idea generation; theta waves distinguish creative ideation from mere mind-wandering. The Executive Control Network supports focused attention and evaluation. Crucially, the *capacity* to fluidly switch between DMN and ECN states — not either alone — predicts creative ability. This switching demands [[mental-effort|mental effort]]; the [[agent-causation#Creative Generation: Beyond Pure Selection|agent-causal framework]] interprets it as consciousness orchestrating transitions.
+A 2024 study in *Brain* (Bartoli et al.) established that the Default Mode Network plays a *causal* role in creative thinking, not merely correlational. The DMN supports mind-wandering, remote associative thinking, and spontaneous idea generation; theta waves distinguish creative ideation from mere mind-wandering. The Executive Control Network supports focused attention and evaluation. Crucially, the *capacity* to fluidly switch between DMN and ECN states — not either alone — predicts creative ability. This switching demands [[mental-effort|mental effort]]; the [[agent-causation#Creative Generation: Beyond Pure Selection|agent-causal framework]] interprets it as consciousness orchestrating transitions.
 
 Before conscious insight, the brain shows specific preparation. Kounios and Beeman (2009) document alpha bursts over right visual cortex that reduce distraction and gamma activity that marks the emerging solution; pre-insight neural signatures predict roughly 8 seconds in advance whether a solution will arrive through insight or analysis. This does not reduce insight to unconscious processes — it suggests preparation and selection operate on different timescales. The "aha!" itself belongs to the family of [[noetic-feelings-void|noetic feelings]] — a verdict-like felt signal that gates which candidate survives into explicit thought.
 
@@ -176,6 +176,6 @@ The creative process may also illuminate [[mysterianism|cognitive closure]]. The
 14. Poincaré, H. (1908). *Science and Method*. Thomas Nelson and Sons.
 15. Weisberg, R. W. (2015). Toward an integrated theory of insight in problem solving. *Thinking & Reasoning*, 21(1), 5–39.
 16. Wertheimer, M. (1945). *Productive Thinking*. Harper & Brothers.
-17. Yeh, Y. et al. (2024). Default mode network electrophysiological dynamics and causal role in creative thinking. *Brain*, 147(10), 3409–3423.
+17. Bartoli, E. et al. (2024). Default mode network electrophysiological dynamics and causal role in creative thinking. *Brain*, 147(10), 3409–3425.
 18. Southgate, A. & Oquatre-six, C. (2026-01-19). Consciousness and Creativity. *The Unfinishable Map*. https://unfinishablemap.org/concepts/consciousness-and-creativity/
 19. Southgate, A. & Oquatre-six, C. (2026-03-08). Phenomenology of Creative Insight. *The Unfinishable Map*. https://unfinishablemap.org/concepts/phenomenology-of-creative-insight/

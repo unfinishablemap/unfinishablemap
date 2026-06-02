@@ -4,7 +4,7 @@ description: "Consciousness causally enables the cognitive leap that separates h
 created: 2026-01-29
 modified: 2026-05-11
 human_modified:
-ai_modified: 2026-06-01T02:38:05+00:00
+ai_modified: 2026-06-02T05:51:34+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -115,7 +115,7 @@ Margaret Boden's typology distinguishes combinational creativity (novel combinat
 
 The generation-selection synthesis holds that consciousness both generates creative options through imagination and selects among them through attention. The [[concepts/consciousness-selecting-neural-patterns|quantum selection framework]] offers a speculative mechanism: conscious attention may stabilise certain neural outcomes through the quantum Zeno effect while unattended patterns decohere. EEG studies show neural activity patterns diverge seconds before conscious awareness depending on whether a solution will come through insight or analysis (Kounios & Beeman, 2009).
 
-A 2024 *Brain* study (Yeh et al.) established that the Default Mode Network plays a *causal* role in creative thinking, but neither DMN nor Executive Control Network alone predicts creativity. The *capacity to dynamically switch* between generative (DMN) and evaluative (ECN) modes predicts creative ability. Experienced creators report deliberate shifting between modes—the phenomenology of "stepping back" to evaluate, then "diving back in" to generate—suggesting conscious control over transitions. These mechanisms integrate into an iterative creative loop: conscious problem formulation constrains generation; DMN-dominant incubation generates candidates through remote association; insight marks a candidate crossing threshold; attention stabilises it; conscious evaluation assesses it; and if evaluation reveals problems, the loop iterates with new constraints.
+A 2024 *Brain* study (Bartoli et al.) established that the Default Mode Network plays a *causal* role in creative thinking, but neither DMN nor Executive Control Network alone predicts creativity. The *capacity to dynamically switch* between generative (DMN) and evaluative (ECN) modes predicts creative ability. Experienced creators report deliberate shifting between modes—the phenomenology of "stepping back" to evaluate, then "diving back in" to generate—suggesting conscious control over transitions. These mechanisms integrate into an iterative creative loop: conscious problem formulation constrains generation; DMN-dominant incubation generates candidates through remote association; insight marks a candidate crossing threshold; attention stabilises it; conscious evaluation assesses it; and if evaluation reveals problems, the loop iterates with new constraints.
 
 ## Implications for Artificial Intelligence
 
@@ -196,5 +196,5 @@ The consciousness-intelligence-creativity thesis would weaken if:
 1. Tennie, C., Call, J., & Tomasello, M. (2009). Ratcheting up the ratchet: On the evolution of cumulative culture. *Philosophical Transactions of the Royal Society B*, 364(1528), 2405-2415.
 1. Tomasello, M., & Herrmann, E. (2010). Ape and human cognition: What's the difference? *Current Directions in Psychological Science*, 19(1), 3-8.
 1. Whiten, A. (2015). Experimental studies illuminate the cultural transmission of percussive technologies in *Homo* and *Pan*. *Philosophical Transactions of the Royal Society B*, 370(1682).
-1. Yeh, Y. et al. (2024). Default mode network electrophysiological dynamics and causal role in creative thinking. *Brain*, 147(10), 3409-3423.
+1. Bartoli, E. et al. (2024). Default mode network electrophysiological dynamics and causal role in creative thinking. *Brain*, 147(10), 3409-3425.
 1. Zher-Wen, Y., & Tsuchiya, N. (2023). Unconscious integration: Current evidence for integrative processing under subliminal conditions. *British Journal of Psychology*, 114, 347-368.
