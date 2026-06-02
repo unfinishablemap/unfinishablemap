@@ -4,7 +4,7 @@ description: "QBism, Healey, Brukner-Zeilinger, and Stapp all place an agent at 
 created: 2026-04-04
 modified: 2026-04-23
 human_modified:
-ai_modified: 2026-06-01T13:10:00+00:00
+ai_modified: 2026-06-02T12:30:41+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -94,7 +94,7 @@ The cost is that Stapp's view is the most physically committed, and therefore th
 
 QBism's technical centrepiece is its treatment of the Born rule as a normative coherence constraint: a "quantum extension" of classical Dutch-book coherence, requiring probabilities to satisfy Born-rule statistics under symmetric informationally complete measurements (SIC-POVMs). DeBrota, Fuchs, and Schack (2021) formalised this through the "urgleichung" — a reformulation making quantum mechanics appear as a rule relating one probability distribution to another, with no wave function doing ontological work. The Born rule tells you how to be rationally consistent, not how the world is structured.
 
-The Map sees a deeper question. *Why* must rational agents satisfy this particular constraint? Dutch-book arguments show that *consistent* agents must satisfy formal requirements, but they do not explain why experience reliably confirms Born statistics rather than some other pattern. If the world constrains agents' expectations so reliably that all agents converge on Born-rule predictions, something in reality is doing the constraining.
+The Map sees a deeper question. *Why* must rational agents satisfy this particular constraint? Dutch-book arguments show that *consistent* agents must satisfy formal requirements, but they do not explain why experience reliably matches Born statistics rather than some other pattern. If the world constrains agents' expectations so reliably that all agents converge on Born-rule predictions, something in reality is doing the constraining.
 
 Under dualism, the Map offers a reading QBists do not endorse but that is consistent with what they say: the Born rule is normative for conscious agents *because* it describes the structure of the interface at which consciousness meets quantum indeterminacy. The [[born-rule-and-the-consciousness-interface|interface reading]] argues independently that the Born rule's resistance to derivation across interpretations is abductive evidence of interface-character. QBism has built a mathematical object whose formal shape the Map reads as tracking interface structure; the QBist's own reading of why that shape holds is different. Whether the formal shape *supports* the interface reading or only *is consistent with* it is taken up in [[born-rule-and-the-consciousness-interface#Absorbing the Urgleichung: What Survives Bayesian Personalism|the born-rule article's treatment of the urgleichung]] — the honest fallback is that the Map's absorption is heuristic rather than derivational.
 
@@ -132,7 +132,7 @@ The four positions converge on a structural frame in which agents matter irreduc
 
 **[[tenets#^dualism|Dualism]]**: The pragmatist family requires agents and none explains them. Under Tenet 1 this is a vindication: any physics that places irreducible agents at its foundation is registering the very irreducibility dualism asserts. QBism's primitive agents are dualism's unexplored territory.
 
-**[[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]]**: Stapp's Zeno mechanism is the most explicit pragmatist implementation. QBism's normative Born rule, read through the interface hypothesis, is compatible. Healey and Brukner-Zeilinger are neutral. QBism's anti-realism about quantum states creates productive tension — QBism demonstrates that quantum mechanics requires agents; the Map specifies what agents contribute.
+**[[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]]**: Stapp's Zeno mechanism is the most explicit pragmatist implementation. QBism's normative Born rule, read through the interface hypothesis, is compatible. Healey and Brukner-Zeilinger are neutral. QBism's anti-realism about quantum states creates productive tension — QBism argues that quantum mechanics requires agents; the Map specifies what agents contribute.
 
 **[[tenets#^bidirectional-interaction|Bidirectional Interaction]]**: Stapp grants consciousness a causal role; QBism grants only an epistemic one; Healey grants neither; Brukner-Zeilinger is silent. If QBism's normative constraint reflects real coupling, the epistemic role is the surface of a causal one. QBism has identified exactly the juncture — measurement — where causal influence would operate, then stopped one step short of acknowledging it.
 

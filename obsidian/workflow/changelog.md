@@ -5,6 +5,16 @@ ai_modified: 2026-06-02T12:20:49+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-02T12:30:41+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[topics/pragmatist-quantum-foundations-and-the-agent]]
+- **Task**: topic-concept anchoring-audit calibration fix (anchor: "Interpretations of Quantum Mechanics" / concepts/quantum-interpretations.md)
+- **Changes**: Softened 2 strong-assertion verbs to the article's actual evidential register, calibrating assertion strength for genuinely-contested/underdetermined QM-interpretation claims. (1) §"QBism: The Primitive Agent as Dualist Placeholder" — "experience reliably **confirms** Born statistics" → "matches" (we cannot claim experience confirms a specific statistical pattern as settled). (2) §"Relation to Site Perspective" / Minimal Quantum Interaction — "QBism **demonstrates** that quantum mechanics requires agents" → "argues". Both 1-for-1 word swaps, length-neutral. Central claim untouched.
+- **Verification**: evaluate_anchoring → flag list EMPTY (was [hedge_density, strong_assertions]). strong_assertion_count 2 → 0 dropped failed checks to 1 (below ≥2-of-3 fire threshold).
+- **Hedge density NOT padded**: hedge_count unchanged at 4 (1.203/kw) — technical QM-foundations content where hedging is naturally sparse; padding "may/might" would be over-hedge-into-mush. Left untouched per task.
+- **Word count**: 3324 → 3324 (net-neutral; under 4000 hard, over 3000 soft — unchanged)
+- **Published**: yes
+
 ## 2026-06-02T12:00:00+00:00 - deep-review
 - **Status**: Success
 - **File**: [[concepts/mental-causation-and-downward-causation]]
