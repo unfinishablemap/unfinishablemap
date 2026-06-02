@@ -5,6 +5,22 @@ ai_modified: 2026-06-02 13:10:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-02T05:39:34+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[voids/minimal-consciousness-void]]
+- **Source**: outer-review-synthesis-2026-06-02 (3/3 reviewers, single-article cycle). Consolidated PROSE cluster — all 5 prose findings handled in ONE pass to avoid same-session churn against the 3000w voids ceiling.
+- **Findings addressed (all 5)**:
+  1. *Probing strategies / reclassify* (convergent claude+chatgpt): reclassified opening from "unexplorable + occluded" → "partially probe-able / contested"; "occluded" marked least-earned (rests on the dualist conditional, not a finding). Added new "Direct vs Indirect Access" section engaging no-report paradigms (Tsuchiya/Wilke/Frässle&Lamme 2015), Descriptive Experience Sampling (Hurlburt&Akhter 2006), dreamless-sleep probes (Windt/Nielsen/Thompson 2016), third-person cessation-EEG. Preserved the genuine concurrent-introspection limit (indirect routes CONSTRAIN, do not ESTABLISH).
+  2. *Metzinger reductive explanans* (Gemini): added passage — MPE as content of a predictive model of tonic alertness, feeling empty because of phenomenal transparency (no introspective access to the arousal-regulation algorithm); marked as physicalist-predicted, the transparency datum consistent-with-but-not-licensing the occluded reading.
+  3. *Cessation n=1 + Hume + IIT currency*: cessation-EEG marked n=1 / heterophenomenology-limited; Hume Treatise-Introduction quote annotated as general observer-effect, not a minimal-consciousness claim (Hume nowhere discusses it); IIT framed as illustrative not settled, with the 2023 124-scholar pseudoscience open letter noted.
+  4. *Non-independence*: flagged MPE-92M as built from the same maximally-enriched contemplative reports it triangulates against — convergence partly non-independent.
+  5. *Modal overreach / tenet-bracketing* (chatgpt): narrowed the epistemic-vs-metaphysical distinction; Dualism site-perspective bullet rewritten to FAVOUR (not establish) the metaphysical reading; the no-report passage written once, shared with finding 1.
+- **Engagement classifications** (editor-internal): HOT — Mode Two (helps itself to no in-framework sub-introspective phenomenality; the parting point is named, not refuted). GWT — Mode One (engaged on its own broadcast-threshold terms as a genuine rival predicting the same silence). Illusionism — Mode Three (framework-boundary / bedrock clash, marked honestly, not presented as answered). Metzinger transparency reading — Mode Two boundary-marking (physicalist deflation noted as consistent-but-not-licensed).
+- **NOT touched** (separate tasks): MPE-92M Winter→Gamma&Metzinger citation fix; Schooler de-quote; multidimensionality expansion.
+- **Citations web-verified before insertion** ([[ai-citation-metadata-unreliable]]): Tsuchiya/Wilke/Frässle&Lamme 2015 TiCS 19(12):757-770 ✓; Windt/Nielsen/Thompson 2016 TiCS 20(12):871-882 ✓; Metzinger 2020 predictive-model/transparency reading ✓; IIT 2023 124-signatory open letter ✓. Hurlburt&Akhter 2006 reused from corpus.
+- **Length**: body 2462→2993w (NET +531 gross additions, trimmed back to **2993w — under the 3000 voids hard ceiling** with margin). Compressed pre-existing HOT/GWT/illusionism/implications prose to make room.
+- **Published**: yes
+
 ## 2026-06-02T13:10:00+00:00 - literature-drift-review
 - **Status**: Success
 - **Article**: [[topics/quantum-biology-and-neural-consciousness]]
