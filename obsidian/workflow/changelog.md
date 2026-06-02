@@ -5,6 +5,17 @@ ai_modified: 2026-06-02T15:03:51+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-02T15:10:30+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[topics/contemplative-practice-as-philosophical-evidence]]
+- **Task**: Deepen method-level cross-tradition comparison (from optimistic-2026-04-24)
+- **Word count**: 3117 → 3549 (+432; under the ≤550 net cap and ≤3800 target; comfortably under 4000 topics hard ceiling)
+- **Integration**: deepened the existing "### Comparison with Standard Methods" section rather than bolting on a new one. Added (a) two side-by-side method parallels — Buddhist *śamatha-vipassanā* ↔ Husserlian *epoché*, Samkhya *viveka* (puruṣa/prakṛti discrimination) ↔ phenomenological reduction; (b) named the common discipline (trained, sustained, criterion-governed first-person observation); (c) [calibration] explicit scope guard — method-convergence does NOT entail ontology-convergence; schools disagree about ontology *because* they share method; method-parallel is NOT on its own evidence for dualism; (d) honest limitation in natural prose — structural similarity may be read too generously, family resemblance vs single replicable method; weight earned only where procedures cross-validate.
+- **Calibration**: preserved existing hedges and "Relation to Site Perspective" connections; no overclaim of Dualism from method-convergence. No "not X but Y" cliché. No editor-vocabulary leaked into prose (verified).
+- **Citations**: web-verified Samkhya *viveka* / *viveka-khyāti* as discriminative knowledge separating puruṣa from prakṛti (central to Samkhya soteriology) before adding. Epoché and vipassanā are well-known general concepts (no cite needed). No new bibliographic references added; no fabricated citations.
+- **Verification**: frontmatter validate clean (no errors/warnings); altered-state-symmetry scanner returns None; ai_modified updated to 2026-06-02T15:10:30+00:00.
+- **Published**: yes
+
 ## 2026-06-02T15:03:51+00:00 - deep-review (sister-void cross-review)
 - **Status**: Success
 - **Files**: [[voids/tacit-integration-void]] (integrative face) × [[voids/noetic-feelings-void]] (verdictive face)

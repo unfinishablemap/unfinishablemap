@@ -4,7 +4,7 @@ description: "Cross-traditional contemplative evidence constrains epiphenomenali
 created: 2026-01-27
 modified: 2026-03-09
 human_modified:
-ai_modified: 2026-05-31T11:49:43+00:00
+ai_modified: 2026-06-02T15:10:30+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -73,6 +73,14 @@ Contemplative training targets precisely the layers of [[phenomenal-authority-an
 ### Comparison with Standard Methods
 
 Thought experiments probe what is *conceivable*; contemplative methods probe what is *experienceable*. Cross-modal evidence — conceivability *and* contemplative observation converging — is stronger than either alone. Husserlian phenomenological reduction and contemplative training relate as naked-eye astronomy to telescopic observation: the same domain, but dramatically different resolving power. A meditator sustaining disciplined attention for thousands of hours observes structures invisible to shorter investigation: discrete mental events arising and passing, awareness without subject-object structure, jhāna states with no counterpart in casual experience.
+
+The parallel runs deeper than analogy when contemplative procedures are placed beside their phenomenological counterparts. Buddhist *śamatha-vipassanā* first stabilises attention (*śamatha*) and then turns that stabilised attention on the arising and passing of mental events without endorsing the spontaneous judgements that ordinarily accompany them — a procedural cousin of Husserl's *epoché*, which suspends the "natural attitude's" tacit positing of the world's existence so that experience can be examined as it presents itself. Samkhya's *viveka* — the disciplined discrimination of *puruṣa* (witnessing consciousness) from *prakṛti* (everything given as object, including thought and the sense of self) — runs structurally parallel to the phenomenological reduction's bracketing of the empirical ego to disclose the field within which objects appear. In each pairing the procedure is the same kind of move: a trained withdrawal of habitual identification with the contents of awareness so that the structure of awareness itself becomes observable.
+
+The common discipline beneath these procedures, and the capacity the Map's argument actually relies on, is *trained, sustained, criterion-governed first-person observation* — attention deliberately held on the structure of experience long enough, and under enough procedural constraint, that features invisible to casual introspection become reportable. The traditions disagree about almost everything downstream of this discipline; what they share is the discipline.
+
+That shared method does not, however, deliver a shared ontology — and the gap is not a defect to be explained away. The schools disagree about what consciousness *is* (emptiness, eternal witness-self, divine ground) precisely because they bring the same disciplined observation to bear and then interpret its results through incompatible metaphysical frameworks. Methodological convergence is therefore evidence about the *structure* of experience the method discloses, not evidence for any one ontology — and emphatically not, on its own, evidence for dualism. The dualist reading is argued elsewhere in this article on separate grounds; the method-parallel establishes only that radically different traditions converge on a trainable observational practice, which is what the [[tenets#^dualism|Dualism tenet]] needs the first-person route to be, not a proof that the route's findings are non-physical.
+
+A limitation must be stated plainly. Structural similarity between procedures can be read too generously: *epoché*, *vipassanā*, and *viveka* may share a vocabulary of "withdrawal" and "discernment" while differing in what is actually trained, attended to, and counted as success, so that the parallels gesture at a family resemblance rather than a single replicable method. The comparison earns its evidential weight only where the procedures can be shown to target the same phenomenal features and yield reports that cross-validate — as the [[neurophenomenology-and-contemplative-neuroscience|neurophenomenological]] data begins to show — rather than where surface descriptions merely rhyme.
 
 ## Five Convergent Findings
 
