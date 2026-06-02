@@ -5,6 +5,18 @@ ai_modified: 2026-06-02T12:20:49+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-02T12:50:06+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[concepts/phenomenal-transparency-opacity-spectrum]]
+- **Source**: pessimistic-review 2026-06-02 (3 findings; calibration work)
+- **Changes**:
+  - FIX 1 (HIGH, Dualism section): downgraded the indefensible "what-it-is-likeness invariant under a transformation that alters everything else" claim. Opacity is itself a functional change (belief-fixation, world-vs-construct tagging, report) and the feel changes across the transition (blur↔sharp, lucid↔non-lucid), so invariance is false. Rewrote to the defensible claim — representational *status* changes while *some* phenomenal character persists in altered form — and reframed the dualist reading as a burden-shift to functionalism ("consistent with dualism and costly for functionalism, not a proof"), per [[evidential-status-discipline]].
+  - FIX 2 (MEDIUM, epistemic/metaphysical equivocation): qualified bare "cannot" at the transparency paragraph ("cannot be *introspectively* represented... third-person science can describe them from outside") and the cognitive-closure sentence ("permanently limit the *introspective* route... leaves open how far third-person science can characterise the same machinery"). No epistemic→metaphysical slide.
+  - FIX 3 (LOW, falsifiability): added one sentence to the contemplative-training paragraph operationalising the opacity claim (predicts measurable processing/report changes, e.g. altered constancy-illusion susceptibility) and honestly marking the discrimination as an open empirical question.
+- **Preserved**: "Epistemic Limits of Opacity" section verbatim; all citations untouched (Hoffman FBT stays "contested"); central transparency/opacity-spectrum thesis still asserted.
+- **Word count**: 2957 (under 3500 hard ceiling)
+- **Published**: yes
+
 ## 2026-06-02T12:44:00+00:00 - pessimistic-review
 - **Status**: Success
 - **Content reviewed**: concepts/phenomenal-transparency-opacity-spectrum.md (least-reviewed substantive article; 1 prior review)
