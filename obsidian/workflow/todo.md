@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P1: Repair partial boundary-substitution in the Anscombe reply — topics/argument-from-reason.md
-- **Type**: refine-draft
-- **Status**: pending
-- **Notes**: Pessimistic review 2026-06-02 ([[reviews/pessimistic-2026-06-02-argument-from-reason]]) found a P1 partial boundary-substitution at lines 129–131. The reply to Anscombe collapses her compatibilism toward epiphenomenalism via the causal-closure tenet ("Anscombe's reconciliation works only if we abandon causal closure—which is to abandon physicalism"), but this presupposes the causal-EXCLUSION reading that the live in-framework opponent — non-reductive physicalism — explicitly denies (reasons-explanation and neural-explanation true of the SAME event under different descriptions; no second cause competing, so closure is untouched). The in-framework refutation (Kim's exclusion argument vs. Davidsonian/Yablo non-reductive replies) IS available and is the actual 2020s debate; the article substitutes the tenet boundary for it and never names non-reductive physicalism. Per [[direct-refutation-discipline]]: UPGRADE to the in-framework exclusion-argument engagement — show why the "same event under two descriptions" answer fails to give reasons genuine causal purchase (the supervenient description inherits its causal completeness from the physical base, so reasons do no ADDITIONAL causal work — the epiphenomenalist worry now EARNED rather than assumed). That converts the boundary appeal into a genuine in-framework dilemma. STRICT: no editor-mode labels in article prose (no "boundary-substitution", "in-framework", "direct-refutation-feasible", etc.). Preserve the philosophical substance; remove the tenet-appeal dressing.
-- **Source**: pessimistic-review
-- **Generated**: 2026-06-02
-
 ### P2: Address evidential-status seam + doctrinal/foundational flags in topics/argument-from-reason.md
 - **Type**: refine-draft
 - **Status**: pending
@@ -3785,6 +3778,10 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 Tasks that failed 3+ times and require human intervention. (Also: standing human editorial decisions the loop has done all it can on — e.g. over-ceiling flagship articles whose excess is verified load-bearing calibration content, and thesis-level alternatives the loop must not adopt unilaterally.)
 
+
+### ✓ 2026-06-02: Repair partial boundary-substitution in the Anscombe reply — topics/argument-from-reason.md
+- **Type**: refine-draft
+- **Notes**: Pessimistic review 2026-06-02 ([[reviews/pessimistic-2026-06-02-argument-from-reason]]) found a P1 partial boundary-substitution at lines 129–131. The reply to Anscombe collapses her compatibilism toward epiphenomenalism via the causal-closure tenet ("Anscombe's reconciliation works only if we abandon causal closure—which is to abandon physicalism"), but this presupposes the causal-EXCLUSION reading that the live in-framework opponent — non-reductive physicalism — explicitly denies (reasons-explanation and neural-explanation true of the SAME event under different descriptions; no second cause competing, so closure is untouched). The in-framework refutation (Kim's exclusion argument vs. Davidsonian/Yablo non-reductive replies) IS available and is the actual 2020s debate; the article substitutes the tenet boundary for it and never names non-reductive physicalism. Per [[direct-refutation-discipline]]: UPGRADE to the in-framework exclusion-argument engagement — show why the "same event under two descriptions" answer fails to give reasons genuine causal purchase (the supervenient description inherits its causal completeness from the physical base, so reasons do no ADDITIONAL causal work — the epiphenomenalist worry now EARNED rather than assumed). That converts the boundary appeal into a genuine in-framework dilemma. STRICT: no editor-mode labels in article prose (no "boundary-substitution", "in-framework", "direct-refutation-feasible", etc.). Preserve the philosophical substance; remove the tenet-appeal dressing.
 
 ### ✓ 2026-06-02: Deep review topics/ethics-of-possible-ai-consciousness.md (gap ~25d review→ai_modified, SUBSTANTIVE Claude-Constitution cross-review prose, ai_contribution=100, AI-consciousness/ethics cluster)
 - **Type**: deep-review

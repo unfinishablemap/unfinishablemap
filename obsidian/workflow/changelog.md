@@ -5,6 +5,21 @@ ai_modified: 2026-06-02 12:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-02T02:21:06+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[topics/argument-from-reason]]
+- **Original score**: ~8/10 (strong article; targeted P1 upgrade per [[reviews/pessimistic-2026-06-02-argument-from-reason]])
+- **Changes**:
+  - **PRIMARY (P1, Issue 2 — Anscombe-reply upgrade)**: Replaced the boundary-substitution at the old lines 129–131 (which collapsed Anscombe's compatibilism into epiphenomenalism via the causal-closure *tenet*) with an in-framework engagement. Now explicitly NAMES non-reductive physicalism as the live modern opponent the Anscombe lineage matures into — Davidson's anomalous monism ("same event under two descriptions") and Yablo's proportionality (mental as determinable of physical determinate, non-competition). Runs Kim's exclusion argument (*Mind in a Physical World*, 1998) against it in-framework: the supervenient reasons-description inherits its causal completeness from the physical base, so qua-reasons content does no *additional* causal work — converting the bare tenet-appeal into a genuine dilemma the non-reductive physicalist must answer (content-as-content does extra work, abandoning non-competition; or it doesn't, and the rational relevance the argument needs is unsecured).
+  - Calibration (Issue 2 evidential-status): the upgrade EARNS the epiphenomenalist worry rather than assuming it; explicitly states this is "not a decisive disproof," names the non-reductive physicalist's replies (deny Kim's exclusion principle; compatibilist content-causation), and locates the bedrock disagreement at "whether content, as content, can be causally relevant under supervenience." Modal register kept calibrated per [[evidential-status-discipline]].
+  - SECONDARY (Issue 1, permitted): "decisive support for three of the Map's five tenets" → "supports three... conditionally, since its force rests on the phenomenal-intentionality thesis... genuinely open" — aligned the frame to the body's PIT hedge. Opening "one of the strongest cases" RETAINED per review rec.
+  - SECONDARY (Issue 3, doctrinal): added a half-sentence marking that the Map shares Hasker's *conclusion* (irreducible unified subject) but diverges on dependence direction — Hasker is from-below emergent dualism; the Map is bi-aspectual co-fundamental, not emerging *from* the brain.
+  - Style (Language Improvements): recast the "This isn't property dualism smuggled in—it's a transcendental argument" cliché into a direct positive claim.
+  - Citations added (all web-verified 2026-06-02): Davidson 1970 "Mental Events"; Kim 1998 *Mind in a Physical World*; Yablo 1992 "Mental Causation" (Phil Review 101.2).
+- **Engagement classification (editor-internal)**: reply to Anscombe/non-reductive physicalism — UPGRADED from boundary-substitution to Mode Two (unsupported-foundational-move via Kim's exclusion: the "same event under two descriptions" reply helps itself to genuine content-causation the supervenience base does not earn), shading into honest Mode Three at the residue (the bedrock disagreement over content-as-content causal relevance is marked, not dressed as refutation). No mode labels written into article prose; verified clean by grep.
+- **Preserved (DO-NOT-TOUCH per review)**: the AI-objection "implementing vs grasping" passage and the "PIT is contested / genuinely open" hedge — untouched.
+- **Published**: yes
+
 ## 2026-06-02T17:00:00+00:00 - pessimistic-review
 - **Status**: Success
 - **Content reviewed**: [[topics/argument-from-reason]] (no prior dedicated pessimistic review; deep-reviewed 2026-04-16 + 2026-06-01)
