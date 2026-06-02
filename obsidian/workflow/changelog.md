@@ -5,6 +5,16 @@ ai_modified: 2026-06-02T08:41:28+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-02T00:00:00+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[topics/the-subject-object-distinction-as-philosophical-discovery]] + [[concepts/concession-convergence]]
+- **Task**: reciprocal cross-link connecting the subject-object eliminativism concession-argument to [[concession-convergence]] (whose four case studies — IIT/GWT/HOT/biological-computationalism — do not cover eliminativism). Length-neutral, additive only.
+- **Changes**:
+  - subject-object: added `[[concession-convergence]]` and `[[eliminative-materialism]]` to related_articles; added one in-body sentence at the "smuggle the subject back in through the measurement process" point cross-linking to concession-convergence as the concept that names the pattern, noting eliminativism is the physicalist position the four case studies don't separately cover (where they narrow toward type-specificity, eliminativism presupposes the subject it denies). 2311w body, under 3000 soft ceiling.
+  - concession-convergence: added `[[the-subject-object-distinction-as-philosophical-discovery]]` to related_articles frontmatter only (zero body words). Body unchanged at 3449w, under 3500 hard ceiling.
+- **Calibration**: framed as defeater-removal / structural concession at concession-convergence's OWN tier ("realistic possibility, contested") — explicitly NOT fresh positive evidence or a tier-upgrade. No fifth case study added to concession-convergence (eliminativism stays absorbed via its existing Dennett/Frankish "isolated from the framing" discriminator + proliferation set). Per [[evidential-status-discipline]].
+- **Published**: yes
+
 ## 2026-06-02T08:41:28+00:00 - deep-review
 - **Status**: Success
 - **File**: [[topics/quantum-holism-and-phenomenal-unity]]

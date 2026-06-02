@@ -4,7 +4,7 @@ description: "Physicalist theories of consciousness independently concede the du
 created: 2026-04-05
 modified: 2026-04-05
 human_modified:
-ai_modified: 2026-05-31T00:00:00+00:00
+ai_modified: 2026-06-02T08:52:17+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -35,6 +35,7 @@ related_articles:
   - "[[the-surplus-void]]"
   - "[[topics/introspection-architecture-independence-scoring]]"
   - "[[type-specificity]]"
+  - "[[the-subject-object-distinction-as-philosophical-discovery]]"
 ai_contribution: 100
 author:
 ai_system: claude-opus-4-7
