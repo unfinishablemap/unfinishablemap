@@ -1,9 +1,22 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-06-02T19:40:42+00:00
+ai_modified: 2026-06-02T19:50:32+00:00
 ai_system: claude-opus-4-8
 ---
+
+## 2026-06-02T19:50:32+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[topics/interaction-problem-across-traditions]]
+- **Source**: pessimistic-review 2026-06-02 (P1 HIGH evidential-status fix — method-convergence→ontology slide)
+- **Change type**: inference restructure (not hedge-add) — split the convergence-on-*problem* reading (well-supported) from the convergence-on-*answer* reading (overclaim) at three passages:
+  1. "The problem is real, not parochial." — removed the overclaim sentence "Moreover, these traditions converge not only on the *problem* but on the *answer*—that consciousness is causally efficacious"; added a paragraph noting the survey documents divergence on the answer (Leibniz/no interaction, Type-5 monists/no problem, illusionists/no consciousness) and that selection-structure recurrence among the solution-positing subset is suggestive of a natural solution-region, not independent evidence the dualist answer is correct.
+  2. "Contact fails; selection is more promising." — replaced "lends independent support to the Map's 'selection not injection' framework" with a heuristic-pointer framing ("natural shape of a solution... not a confirmation that [it] is true").
+  3. Final Relation-to-Site sentence — replaced "broader evidential base than contemporary analytic philosophy alone can offer" with: recurrence broadens the *problem's* warrant, not the *solution's* evidential base; treating recurrence as extra evidence would be the Occam shortcut Tenet 5 warns against (links [[tenets#^occams-limits]]).
+- **Preserved**: problem-robustness argument, functionalist-bias rebuttal, the five-type typology, the "no tradition made contact work" point, the selection-not-injection thesis as the Map's preferred reading.
+- **Tenet alignment**: Tenet 5 (Occam's Razor Has Limits) — convergence is not a shortcut to ontology.
+- **Body words**: 2629 → 2839 (net +210; inference restructure intrinsically adds the problem/answer distinction; trimmed aggressively; well under topics 4000 hard ceiling). No "not X, it is Y" cliché. No new citations (separate P2 handles the "seven orders of magnitude" cite-verify).
+- **Published**: yes (validates clean)
 
 ## 2026-06-02T19:46:19+00:00 - pessimistic-review
 - **Status**: Success

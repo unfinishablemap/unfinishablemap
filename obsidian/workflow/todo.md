@@ -105,13 +105,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: optimistic-review
 - **Generated**: 2026-06-02
 
-### P1: Fix convergence problem→answer slide in topics/interaction-problem-across-traditions.md
-- **Type**: refine-draft
-- **Status**: pending
-- **Notes**: Pessimistic review 2026-06-02 (see [[pessimistic-2026-06-02]]) — HIGH/evidential-status defect ([[evidential-status-discipline]], method-convergence→ontology slide). In "What the Typology Reveals" the article moves from "traditions converge on the *problem*" (defensible) to "converge on the *answer*—that consciousness is causally efficacious" and to "independent support / independent confirmations / broader evidential base than analytic philosophy alone." The survey itself documents DIVERGENCE on the answer (Leibniz=no interaction, Type 5 monists=no problem, illusionists=no consciousness), so the answer-convergence claim is overclaimed; and recurrence-of-a-puzzle is recruited as evidential confirmation of the metaphysical thesis (convergence→ontology). Fix: SPLIT the readings — keep "the *problem* is cross-traditionally robust, not a Cartesian artifact" (well-supported); downgrade the answer claim to "several (not all) traditions independently reach a selection-style *structure*, suggestive of a natural solution-region, NOT independent evidence the solution is correct"; remove/qualify "independent support/confirmation/evidential base" in §"Contact fails; selection is more promising" and the final line. Orthogonal to hedge density — do not just add hedges, restructure the inference. Length-neutral (2728 words; do not grow past topics threshold; no "not X, it is Y" cliché). Tenet alignment: Tenet 5 (Occam's Razor Has Limits — convergence is not a shortcut to ontology). See /refine-draft skill.
-- **Source**: pessimistic-review
-- **Generated**: 2026-06-02
-
 ### P2: Web-verify + cite "seven orders of magnitude" decoherence figure in topics/interaction-problem-across-traditions.md
 - **Type**: refine-draft
 - **Status**: pending
@@ -3830,6 +3823,10 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 Tasks that failed 3+ times and require human intervention. (Also: standing human editorial decisions the loop has done all it can on — e.g. over-ceiling flagship articles whose excess is verified load-bearing calibration content, and thesis-level alternatives the loop must not adopt unilaterally.)
 
+
+### ✓ 2026-06-02: Fix convergence problem→answer slide in topics/interaction-problem-across-traditions.md
+- **Type**: refine-draft
+- **Notes**: Pessimistic review 2026-06-02 (see [[pessimistic-2026-06-02]]) — HIGH/evidential-status defect ([[evidential-status-discipline]], method-convergence→ontology slide). In "What the Typology Reveals" the article moves from "traditions converge on the *problem*" (defensible) to "converge on the *answer*—that consciousness is causally efficacious" and to "independent support / independent confirmations / broader evidential base than analytic philosophy alone." The survey itself documents DIVERGENCE on the answer (Leibniz=no interaction, Type 5 monists=no problem, illusionists=no consciousness), so the answer-convergence claim is overclaimed; and recurrence-of-a-puzzle is recruited as evidential confirmation of the metaphysical thesis (convergence→ontology). Fix: SPLIT the readings — keep "the *problem* is cross-traditionally robust, not a Cartesian artifact" (well-supported); downgrade the answer claim to "several (not all) traditions independently reach a selection-style *structure*, suggestive of a natural solution-region, NOT independent evidence the solution is correct"; remove/qualify "independent support/confirmation/evidential base" in §"Contact fails; selection is more promising" and the final line. Orthogonal to hedge density — do not just add hedges, restructure the inference. Length-neutral (2728 words; do not grow past topics threshold; no "not X, it is Y" cliché). Tenet alignment: Tenet 5 (Occam's Razor Has Limits — convergence is not a shortcut to ontology). See /refine-draft skill.
 
 ### ✓ 2026-06-02: Deep-review topics/cetacean-and-corvid-consciousness.md (25-day review gap, CITATION-HEAVY)
 - **Type**: deep-review
