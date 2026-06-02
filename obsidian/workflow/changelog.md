@@ -5,6 +5,18 @@ ai_modified: 2026-06-02T16:33:40+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-02T16:40:07+00:00 - deep-review
+- **Status**: Success
+- **File**: [[topics/invertebrate-consciousness-as-interface-test]]
+- **Four-bucket**: GENUINE development since 2026-05-08 (interface-efficacy reframe, octopus-trilemma → phenomenal-unity cross-links, Birch *Edge of Sentience* orphan integration, NYD count) — reviewed fully. Plus 4 pre-existing citation DEFECTS caught on first live-literature verification (prior cross-review deferred source-checking).
+- **Web-verify (publisher of record)**: (1) NYD count 599 — VERIFIED at live NYU site ("Signature count: 599"; up from 40 at launch). (2) Leming et al. 2022 *Nature* 603:302-308 — WRONG AUTHOR: first author is **Grover** (Grover/Chen/Xie/Li/Changeux/Greenspan, PubMed 35173333); fixed body+ref; "first demonstration of distractedness" superlative unsupported → softened to the mechanistic finding. (3) Birch 2022 *Noûs* 56(1):133-153 facilitation quote — VERIFIED verbatim. (4) Godfrey-Smith octopus quote — UNFAITHFUL (not in source); rewrote as paraphrase keeping verified "partly self/partly agents of their own" + "mixture of localized and top-down control". (5) Feinberg & Mallatt quote — ALTERED; corrected to faithful "…internal, and often topographically organized neuron-neuron interactions". (6) Pinotsis 2021 PLoS Comp Biol — WRONG AUTHOR: first author is **Leung** (Leung/Cohen/van Swinderen/Tsuchiya, 17(2):e1008722, confirmed at publisher); fixed body+ref. (7) Chittka 2022 Princeton UP — VERIFIED. (8) Marshall & Oberwinkler 1999 *Nature* 401:873-874 — VERIFIED.
+- **Calibration**: PASS. "Realistic possibility" never slid into "invertebrates ARE conscious"; Birch reading kept compatible-not-evidence (identical-prediction symmetry preserved); Feinberg & Mallatt dualism-conflict honesty retained; convergent evolution CONSTRAINS not confirms; no epistemic→metaphysical slide. Edits touched no calibration language.
+- **Word count (body)**: 2734 → 2767 (+33, +1%; 92% of 3000 soft, well under 4000 hard)
+- **Critical issues addressed**: 4 (Grover misattribution, Godfrey-Smith unfaithful quote, Feinberg & Mallatt altered quote, Leung misattribution) + 1 unsupported superlative
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 (converged on substance; net-neutral citation-correction pass)
+- **Output**: [[reviews/deep-review-2026-06-02-invertebrate-consciousness-as-interface-test]]
+
 ## 2026-06-02T16:33:40+00:00 - deep-review
 - **Status**: Success
 - **File**: [[topics/aphantasia]]

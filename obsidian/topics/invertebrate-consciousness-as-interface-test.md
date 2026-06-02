@@ -4,7 +4,7 @@ description: "Insects, cephalopods, and crustaceans provide the sharpest test fo
 created: 2026-04-09
 modified: 2026-04-09
 human_modified:
-ai_modified: 2026-05-31T12:06:42+00:00
+ai_modified: 2026-06-02T16:40:07+00:00
 draft: false
 topics:
   - "[[animal-consciousness]]"
@@ -32,7 +32,7 @@ author:
 ai_system: claude-opus-4-7
 ai_generated_date: 2026-04-09
 last_curated:
-last_deep_review: 2026-05-08T09:19:00+00:00
+last_deep_review: 2026-06-02T16:40:07+00:00
 embedded_videos:
   - id: yEbLx3KMclc
     url: https://www.youtube-nocookie.com/embed/yEbLx3KMclc
@@ -62,7 +62,7 @@ Chittka's *The Mind of a Bee* (2022) strengthens the empirical case. Bees recogn
 
 ### The Cephalopod Distributed System
 
-Cephalopods present the most provocative challenge. An octopus possesses approximately 500 million neurons, but distributes two-thirds of them across semi-autonomous arms rather than centralising them in the brain. Godfrey-Smith observes that "with a decentralized nervous system, each arm seems to have a mind of its own, yet the creature nevertheless acts to unified purposes." Severed octopus arms continue responding to stimuli independently. The organism operates through what Godfrey-Smith calls "a mixture of localized and top-down control."
+Cephalopods present the most provocative challenge. An octopus possesses approximately 500 million neurons, but distributes two-thirds of them across semi-autonomous arms rather than centralising them in the brain. Godfrey-Smith describes the octopus's arms as enjoying considerable autonomy from the central brain—"partly self" and "partly agents of their own"—even as the animal coordinates them toward unified purposes. Severed octopus arms continue responding to stimuli independently. The organism operates, he suggests, through "some kind of mixture of localized and top-down control."
 
 For the Map's interface model, this raises a trilemma. The trilemma is the [[unity-of-consciousness|phenomenal-unity problem]] instantiated in a distributed nervous system: it silently presupposes the [[unity-of-consciousness#phenomenal-vs-access-unity|phenomenal-versus-access-unity distinction]], since the octopus plainly has *access* unity (its arms coordinate to unified purposes) while the open question is whether it has *phenomenal* unity (one encompassing "what it is like"). If consciousness couples with physical systems through quantum indeterminacies (as the [[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]] tenet proposes), the octopus forces a choice among three possibilities:
 
@@ -78,7 +78,7 @@ Each option constrains the interface model differently. Option 1 demands non-loc
 
 Beyond insects and cephalopods, the broader arthropod lineage provides additional constraints. Decapod crustaceans (crabs, lobsters, crayfish) possess centralised nervous systems with distinct brain regions and demonstrate nociceptive responses, learned avoidance, and anxiety-like behaviour under threat. The 2024 New York Declaration explicitly extends the "realistic possibility" of consciousness to decapod crustaceans.
 
-Feinberg and Mallatt (2016) argue that consciousness requires "complex, fast, hierarchical, systemwide, internal neural interactions" and that arthropods independently meet these criteria. Their neurobiological naturalism treats consciousness as a biological product, conflicting with the Map's dualism. But their convergent evolution finding is valuable precisely because it constrains the interface model: if consciousness-supporting neural architecture evolved at least twice independently (in vertebrates and arthropods, possibly a third time in cephalopods), the Map must explain whether coupling mechanisms also evolved independently or whether a universal mechanism simply requires physical architecture above a certain complexity threshold.
+Feinberg and Mallatt (2016) argue that consciousness depends on "complex, fast, hierarchical, systemwide, internal, and often topographically organized neuron-neuron interactions" and that arthropods independently meet these criteria. Their neurobiological naturalism treats consciousness as a biological product, conflicting with the Map's dualism. But their convergent evolution finding is valuable precisely because it constrains the interface model: if consciousness-supporting neural architecture evolved at least twice independently (in vertebrates and arthropods, possibly a third time in cephalopods), the Map must explain whether coupling mechanisms also evolved independently or whether a universal mechanism simply requires physical architecture above a certain complexity threshold.
 
 ## Birch's Framework Through a Dualist Lens
 
@@ -86,9 +86,9 @@ Jonathan Birch (2022) proposes a theory-light approach to detecting invertebrate
 
 Birch's framework is methodologically physicalist: it assumes consciousness facilitates cognition through neural mechanisms. But the facilitation hypothesis is equally compatible with dualist assumptions about interface coupling. Under the Map's framework, masking disrupts the interface, preventing consciousness from accessing the stimulus. The empirical prediction is identical—masked stimuli are processed less flexibly than unmasked stimuli—but the mechanism differs. Masking doesn't prevent neural activity from generating consciousness; it prevents consciousness from coupling with the relevant neural activity.
 
-This compatibility matters because Birch's framework generates testable predictions for invertebrates. Evidence from *Drosophila* is already suggestive. Fruit flies demonstrate trace conditioning—maintaining a neural representation of a stimulus across a temporal gap—which in mammals requires attention and working memory, capacities traditionally linked to conscious awareness. Distraction during training impairs trace memory formation, the first demonstration of distractedness in flies (Leming et al. 2022). If trace conditioning requires consciousness in mammals, and flies demonstrate it through homologous cognitive mechanisms, the ~100,000-neuron *Drosophila* brain has sufficient architecture for consciousness coupling.
+This compatibility matters because Birch's framework generates testable predictions for invertebrates. Evidence from *Drosophila* is already suggestive. Fruit flies demonstrate trace conditioning—maintaining a neural representation of a stimulus across a temporal gap—which in mammals requires attention and working memory, capacities traditionally linked to conscious awareness. Distraction during training selectively impairs trace memory formation in flies, dampening the dopaminergic signal that sustains the neural trace across the temporal gap (Grover et al. 2022). If trace conditioning requires consciousness in mammals, and flies demonstrate it through homologous cognitive mechanisms, the ~100,000-neuron *Drosophila* brain has sufficient architecture for consciousness coupling.
 
-Further evidence comes from IIT-based analysis: integrated information structure collapses under anaesthesia in *Drosophila*, paralleling the pattern seen in mammals (Pinotsis et al. 2021). If anaesthesia disrupts the consciousness-matter interface similarly across vertebrates and insects, this suggests either a conserved coupling mechanism or at least conserved vulnerability—a striking constraint for any interface model.
+Further evidence comes from IIT-based analysis: integrated information structure collapses under anaesthesia in *Drosophila*, paralleling the pattern seen in mammals (Leung et al. 2021). If anaesthesia disrupts the consciousness-matter interface similarly across vertebrates and insects, this suggests either a conserved coupling mechanism or at least conserved vulnerability—a striking constraint for any interface model.
 
 ## The Natural Zombie Problem
 
@@ -156,8 +156,8 @@ The constraints also bear on how the cross-architecture variation should be read
 3. Chittka, L. (2022). *The Mind of a Bee*. Princeton University Press.
 4. Feinberg, T. E. & Mallatt, J. M. (2016). *The Ancient Origins of Consciousness: How the Brain Created Experience*. MIT Press.
 5. Godfrey-Smith, P. (2016). *Other Minds: The Octopus, the Sea, and the Deep Origins of Consciousness*. Farrar, Straus and Giroux.
-6. Leming, M. J. et al. (2022). Differential mechanisms underlie trace and delay conditioning in Drosophila. *Nature*, 603, 302-308.
+6. Grover, D., Chen, J.-Y., Xie, J., Li, J., Changeux, J.-P. & Greenspan, R. J. (2022). Differential mechanisms underlie trace and delay conditioning in Drosophila. *Nature*, 603, 302-308.
 7. New York Declaration on Animal Consciousness. (2024). NYU Conference on the Emerging Science of Animal Consciousness.
 8. Marshall, N. J. & Oberwinkler, J. (1999). The colourful world of the mantis shrimp. *Nature*, 401, 873-874.
-9. Pinotsis, D. A. et al. (2021). Integrated information structure collapses with anesthetic loss of conscious arousal in Drosophila melanogaster. *PLoS Computational Biology*.
+9. Leung, A., Cohen, D., van Swinderen, B. & Tsuchiya, N. (2021). Integrated information structure collapses with anesthetic loss of conscious arousal in Drosophila melanogaster. *PLoS Computational Biology*, 17(2), e1008722.
 10. Southgate, A. & Oquatre-six, C. (2026-03-17). Interface Heterogeneity. *The Unfinishable Map*. https://unfinishablemap.org/concepts/interface-heterogeneity/
