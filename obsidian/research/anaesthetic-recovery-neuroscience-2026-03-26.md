@@ -30,7 +30,7 @@ Recovery from general anaesthesia is not the mirror image of induction — it fo
 - **Tenet alignment**: Aligns with bidirectional interaction — the active, structured re-engagement of consciousness (executive function first) suggests a non-passive process, not mere chemical dissipation
 - **Quote**: "Early engagement of prefrontal cortex in recovery of consciousness and cognition is consistent with global neuronal workspace theory"
 
-### Anesthesia and the Neurobiology of Consciousness (Bhatt et al., 2024)
+### Anesthesia and the Neurobiology of Consciousness (Mashour, 2024)
 - **URL**: https://www.cell.com/neuron/fulltext/S0896-6273(24)00156-9
 - **Type**: Review article (Neuron)
 - **Key points**:
@@ -177,7 +177,7 @@ Recovery from general anaesthesia is not the mirror image of induction — it fo
 | 2019 | Sepúlveda review on neural inertia | Comprehensive synthesis distinguishing loss from recovery mechanisms |
 | 2021 | Bhatt et al. (eLife) — cognitive recovery sequence | Shows executive function returns before simpler tasks |
 | 2023 | Sanders et al. — nature of consciousness in anaesthesia | Establishes multi-state model (connected, disconnected, unconscious) |
-| 2024 | Bhatt et al. (Neuron) — anesthesia and neurobiology of consciousness | Major review connecting anaesthesia to consciousness theories |
+| 2024 | Mashour (Neuron) — anesthesia and neurobiology of consciousness | Major review connecting anaesthesia to consciousness theories |
 | 2025 | BJA — stochastic vs. deterministic emergence | Mouse data shows emergence is fundamentally stochastic |
 | 2025 | Hameroff et al. — quantum microtubule substrate | Claims experimental validation of quantum consciousness substrate |
 
@@ -208,7 +208,7 @@ When writing the article, follow `obsidian/project/writing-style.md` for:
 ## Citations
 
 1. Bhatt MB, Bowen S, Rossiter HE, et al. (2021). Recovery of consciousness and cognition after general anesthesia in humans. *eLife*, 10:e59525. https://elifesciences.org/articles/59525
-2. Bhatt MB, et al. (2024). Anesthesia and the neurobiology of consciousness. *Neuron*. https://www.cell.com/neuron/fulltext/S0896-6273(24)00156-9
+2. Mashour GA (2024). Anesthesia and the neurobiology of consciousness. *Neuron*, 112(10):1553-1567. https://doi.org/10.1016/j.neuron.2024.03.002
 3. Sanders RD, et al. (2023). The nature of consciousness in anaesthesia. *BJA Open*. https://pmc.ncbi.nlm.nih.gov/articles/PMC10539891/
 4. Sepúlveda PO, et al. (2019). Neural inertia and differences between loss of and recovery from consciousness during total intravenous anaesthesia: a narrative review. *Anaesthesia*, 74(6):801-807. https://associationofanaesthetists-publications.onlinelibrary.wiley.com/doi/10.1111/anae.14609
 5. Friedman EB, et al. (2010). A conserved behavioral state barrier impedes transitions between anesthetic-induced unconsciousness and wakefulness. *PLOS ONE*, 5(7):e11903. https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0011903
