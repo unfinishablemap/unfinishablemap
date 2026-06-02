@@ -37,17 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Adopt phenomenal-concepts-strategy calibration in phenomenal-concepts-as-materialist-response
-- **Type**: refine-draft
-- **Status**: pending
-- **File**: obsidian/topics/phenomenal-concepts-as-materialist-response.md
-- **Notes**: FLOOR-RESTORING by /replenish-queue 2026-06-02 (same floor-restore as the sibling above). From topic-concept anchoring audit (re-run on disk 2026-06-02, flag confirmed live). The topic article over-claims relative to its anchor concept [[phenomenal-concepts-strategy]]; failed checks: hedge_density, strong_assertions.
-  - hedge density 5.59/kw is below 60% of anchor (10.16/kw)
-  - topic uses 1 strong-assertion verbs where anchor uses none
-  - Action: bring the topic's hedge profile in line with the anchor concept's. The anchor concept page is well-calibrated here (10.16/kw hedge density); this topic presents the phenomenal-concepts strategy as a materialist *response* and should grant it the same dialectical care the anchor uses. Preserve the article's voice and its central dualist-leaning thesis; this is calibration discipline, not a request to weaken the claim. Honour [[evidential-status-discipline]]. Clean candidate: NOT modified today (`ai_modified: 2026-05-26`, ≠ 2026-06-02 → no same-session churn); not already queued; not on the over-ceiling-flagship backlog. Re-run `tools.curate.anchoring.evaluate_anchoring` before refining — zero flags → mark no-op, do NOT over-hedge into mush ([[anchoring-audit-sibling-tasks-stale]]). Tenet alignment: Tenet 1 (Dualism), Tenet 5 (Occam's Razor Has Limits).
-- **Source**: topic-concept-anchoring-audit
-- **Generated**: 2026-06-02
-
 ### ✓ DEFERRED-TO-HUMAN (2026-06-02): Condense topics/epistemology-of-convergence-arguments.md (6479 words, exceeds 6000 critical threshold)
 - **Type**: condense
 - **Status**: deferred — DIVERTED from Active by /unfin-cycle 2026-06-02. This is a documented HUMAN-FLAGSHIP-SPLIT, not an auto-condense candidate. Git shows FOUR prior condenses (855131675: 4053→3134; ec879fc2e: 7112w; 9e7b13a4b: 5900w; 224743f72: 6676w) — NONE could hold it under the critical threshold; it keeps re-growing via hub-accretion + its own calibration content (now 6479w again). Prior replenish runs this session explicitly listed it among "the 3 human-flagship splits" to EXCLUDE; the task's own notes admit "the prior condenses already judged [the excess] non-cuttable." A 5th auto-condense is refine-then-condense churn ([[refine-then-condense-same-session-churn]]) on a corpus-wide calibration anchor — the over-critical excess is load-bearing calibration content requiring a HUMAN editorial split/scope decision (the canonical action for this article), not more automated condensing. The replenish "NO active condense task" check passed only because prior condenses are git-history, not open todo tasks (the documented git-blind-spot).
@@ -3778,6 +3767,10 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 Tasks that failed 3+ times and require human intervention. (Also: standing human editorial decisions the loop has done all it can on — e.g. over-ceiling flagship articles whose excess is verified load-bearing calibration content, and thesis-level alternatives the loop must not adopt unilaterally.)
 
+
+### ✓ 2026-06-02: Adopt phenomenal-concepts-strategy calibration in phenomenal-concepts-as-materialist-response
+- **Type**: refine-draft
+- **Notes**: FLOOR-RESTORING by /replenish-queue 2026-06-02 (same floor-restore as the sibling above). From topic-concept anchoring audit (re-run on disk 2026-06-02, flag confirmed live). The topic article over-claims relative to its anchor concept [[phenomenal-concepts-strategy]]; failed checks: hedge_density, strong_assertions.
 
 ### ✓ 2026-06-02: Adopt phenomenal-consciousness calibration in topics/eliminative-materialism.md
 - **Type**: refine-draft

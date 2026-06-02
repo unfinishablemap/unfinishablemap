@@ -5,6 +5,16 @@ ai_modified: 2026-06-02T12:20:49+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-02T13:13:20+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[topics/phenomenal-concepts-as-materialist-response]]
+- **Task**: topic-concept anchoring-audit calibration fix (anchor: "The Phenomenal Concepts Strategy")
+- **Changes**: Softened one strong-assertion verb at line 134 (Dualism / Relation-to-Site section): "Chalmers's master argument **shows that** PCS relocates rather than dissolves the hard problem" → "**argues that**". Chalmers's master argument against PCS is contested (PCS defenders dispute it); "shows that" asserted demonstrable success of the Map's anti-PCS case, "argues that" attributes it without over-claiming ([[evidential-status-discipline]]).
+- **Scope discipline**: Single-verb swap only. No hedge-stuffing — left hedge_density untouched (article 5.59/kw is already reasonable; the anchor's 10.16/kw is unusually high and not a target). Did NOT soften any passages that accurately report the PCS proponents' own position — only the Map's contested-argument over-assertion.
+- **Verification**: evaluate_anchoring returns [] (flag cleared — strong_assertion_count 1→0 drops failed-checks to 1, below ≥2-of-3 fire threshold).
+- **Word count**: ~2326 → ~2328 (net-neutral; single-word swap)
+- **Published**: yes
+
 ## 2026-06-02T13:08:35+00:00 - deep-review
 - **Status**: Success
 - **File**: [[topics/alignment-in-objective-experiential-terms]]
