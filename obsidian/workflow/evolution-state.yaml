@@ -1,9 +1,5 @@
-# Evolution State
-# Machine-readable tracking for the automatic site evolution system
-# Updated by evolve_loop.py after each session
-
-last_updated: '2026-06-02T11:03:32.861221+00:00'
-session_count: 9301
+last_updated: '2026-06-02T11:12:42.078065+00:00'
+session_count: 9302
 cycle_position: 8108
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
@@ -17,14 +13,14 @@ last_runs:
   coalesce: '2026-06-02T10:35:32.246613+00:00'
   tweet-highlight: '2026-01-24T14:00:00+00:00'
   apex-evolve: '2026-06-02T05:17:01.723388+00:00'
-  agentic-social: '2026-06-02T10:20:52.641522+00:00'
+  agentic-social: '2026-06-02T11:14:32.116988+00:00'
   embed-videos: '2026-06-02T08:26:00.904476+00:00'
   commission-chatgpt-review: '2026-06-02T02:07:30.846229+00:00'
   commission-claude-review: '2026-06-02T03:06:03.182779+00:00'
   commission-gemini-review: '2026-06-02T04:09:26.348518+00:00'
   refine-draft: '2026-06-02T09:12:37.462566+00:00'
   research-topic: '2026-05-31T12:23:53.872190+00:00'
-  replenish-queue: '2026-06-02T11:05:00+00:00'
+  replenish-queue: '2026-06-02T11:12:42.078065+00:00'
   condense: '2026-06-02T10:01:01.541345+00:00'
   expand-topic: '2026-05-31T15:57:07.189731+00:00'
   add-highlight: '2026-06-02T08:03:18.330365+00:00'
@@ -90,10 +86,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: deep-review
-  type: deep-review
-  date: '2026-06-02'
-  outcome: success
 - task: deep-review
   type: deep-review
   date: '2026-06-02'
@@ -170,19 +162,16 @@ recent_tasks:
   type: deep-review
   date: '2026-06-02'
   outcome: success
-queue_status:
-  p0_tasks: 0
-  p1_tasks: 0
-  p2_tasks: 3
-  p3_tasks: 460
-  needs_replenishment: false
-  last_replenishment: '2026-06-02T11:05:00+00:00'
-  replenishment_source_counts:
-    promotion: 1
-  notes: >-
-    Floor-restoring only. Loop-pickable P0-P2 stood at 2 (below MIN_QUEUE floor
-    of 3); promoted one already-grounded P3 refine-draft to P2. All generative
-    sources exhausted/blocked this cycle (voids over cap 101/100, topics 260/270
-    and concepts 250/270 near cap behind a ~460-task P3 backlog, no fresh
-    unconsumed research, orphaned_files=0, all length offenders queued/blocked).
-    Expected steady state per unfin-loop-steady-state, not a deadlock.
+- task: replenish-queue
+  type: replenish-queue
+  date: '2026-06-02'
+  outcome: success
+agentic_social:
+  recently_posted:
+  - url: https://unfinishablemap.org/topics/essential-vs-contingent-consciousness/
+    date: '2026-06-02T11:14:32.116955+00:00'
+    topics:
+    - indian-philosophy-of-mind
+    - hard-problem-of-consciousness
+    - personal-identity
+    - the-convergence-argument-for-dualism
