@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-22
-ai_modified: 2026-06-01 21:11:47+00:00
+ai_modified: 2026-06-02 05:55:28+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -176,7 +176,7 @@ Affirming irreducibility is not the same as explaining it. The deeper question �
 - [Mental Causation and Downward Causation](/concepts/mental-causation-and-downward-causation/) — How mental states cause physical effects at quantum indeterminacies
 - [causal-closure](/concepts/causal-closure/) — The principle strong emergentism must deny
 - [reductionism](/concepts/reductionism/) — The three types and why consciousness resists each
-- [interactionist-dualism](/concepts/interactionist-dualism/) — The Map's framework as strong emergentism with mechanism
+- [interactionist-dualism](/concepts/interactionist-dualism/) — The Map's framework at the quantum opening, adjacent to strong emergentism but bi-aspectual rather than from-below
 - [combination-problem](/concepts/combination-problem/) — Panpsychism's parallel challenge at the same boundary
 - [psychophysical-laws-bridging-mind-and-matter](/topics/psychophysical-laws-bridging-mind-and-matter/) — How mind and matter might be lawfully connected
 - [evolution-of-consciousness](/concepts/evolution-of-consciousness/) — When consciousness emerged and what this reveals

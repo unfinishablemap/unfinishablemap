@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-04-04
-ai_modified: 2026-05-25 10:12:35+00:00
+ai_modified: 2026-06-02 06:19:46+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -115,7 +115,7 @@ DPD reveals that normal experience has at least three global features that can b
 - **Actuality**: the sense that the experienced world is real
 - **Temporal presence**: the sense of being situated in the "now"
 
-When each breaks down separately—depersonalization (loss of mineness), derealisation (loss of actuality), detemporalisation (loss of nowness)—the result demonstrates that these are distinct structural components of consciousness, not a unified block. They operate transparently in health and become visible only when disrupted.
+When each breaks down separately—depersonalization (loss of mineness), derealisation (loss of actuality), detemporalisation (loss of nowness)—the result indicates that these are distinct structural components of consciousness rather than a unified block, though the materialist can read the same dissociations as modular neural breakdown. They operate transparently in health and become visible only when disrupted.
 
 ## Clinical Disruptions as Theory Discriminators
 

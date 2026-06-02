@@ -99,7 +99,8 @@ Altered states of consciousness (ASCs) constitute a diverse family of experience
   - State-specific connectivity patterns across anesthesia, sleep, disorders of consciousness
   - Hierarchical regulatory mechanisms between thalamus and cortex
 - **Tenet alignment**: Neutral—identifies neural correlates without addressing production vs. transmission question
-- **Quote**: "Analysis of fMRI across anesthesia, sleep, and disorders of consciousness identifies five key thalamic nuclei orchestrating consciousness through state-specific connectivity."
+- **Citation**: Lu, F. et al. (2025). Differential engagement of thalamic nuclei orchestrates consciousness states across anesthesia, sleep, and disorders of consciousness. *Communications Biology*, 8, 1784.
+- **Paraphrase**: Analysis of fMRI across anesthesia, sleep, and disorders of consciousness identifies five key thalamic nuclei whose differential engagement tracks state transitions.
 
 ### Drexel University: Creative Flow State Neuroimaging (2024)
 - **URL**: https://drexel.edu/news/archive/2024/March/New-Neuroimaging-Study-Reveals-How-the-Brain-Achieves-a-Creative-Flow-State

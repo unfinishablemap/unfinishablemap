@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-14
-ai_modified: 2026-06-01 05:58:00+00:00
+ai_modified: 2026-06-02 05:55:28+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 coalesced_from:
@@ -158,7 +158,9 @@ The phenomenology of mental effort fits this: directing attention feels like *do
 
 ## Emergence and Mechanism
 
-Interactionist dualism can be understood as strong [emergence](/concepts/emergence/)—consciousness has genuinely novel causal powers not deducible from physics. Classical British emergentists (Broad, Alexander) accepted this but had no mechanism. The Map's quantum framework supplies one: Kim argues emergent properties face exclusion by physical realizers, but at quantum indeterminacies there is no sufficient physical realizer to do the excluding. Physics provides necessary but not sufficient causes; consciousness fills the genuine gap.
+Interactionist dualism shares strong [emergence](/concepts/emergence/)'s central claim—consciousness has genuinely novel causal powers not deducible from physics—while parting company on the directionality. Strong emergentism reads consciousness as arising *from below*, out of physical organisation once it reaches sufficient complexity. The Map instead grounds the same irreducibility in a [co-fundamental](/concepts/bi-aspectual-ontology/) ontology: consciousness and physical structure are co-fundamental aspects of reality, not one produced by the other. The shared commitment is irreducibility plus downward causal efficacy; the divergence is that the Map does not derive the conscious aspect from organisational complexity.
+
+Classical British emergentists (Broad, Alexander) affirmed irreducibility but had no mechanism for the downward influence. The Map's quantum framework supplies one: Kim argues emergent properties face exclusion by physical realizers, but at quantum indeterminacies there is no sufficient physical realizer to do the excluding. Physics provides necessary but not sufficient causes; the conscious aspect acts in the genuine gap. The mechanism is the same whether one reads the relation as from-below emergence or co-fundamental interaction—what the co-fundamental framing fixes is the ontology, not the interface.
 
 ## Property Dualism vs. Substance Dualism
 

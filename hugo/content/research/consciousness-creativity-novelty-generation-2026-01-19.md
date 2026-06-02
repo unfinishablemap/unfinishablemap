@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-19
-ai_modified: 2026-01-19 03:00:00+00:00
+ai_modified: 2026-06-02 05:51:34+00:00
 ai_system: claude-opus-4-5-20251101
 concepts:
 - '[[concepts/consciousness-selecting-neural-patterns]]'
@@ -285,4 +285,4 @@ The framework resolves the "where do the options come from?" question that might
 - Penrose, R. (1994). *Shadows of the Mind*. Oxford University Press.
 - Simonton, D. K. (2011). Creativity and Discovery as Blind Variation and Selective Retention. *Psychology of Aesthetics, Creativity, and the Arts*, 5(1), 68-73.
 - Wallas, G. (1926). *The Art of Thought*. Harcourt Brace.
-- Yeh, Y. et al. (2024). Default mode network electrophysiological dynamics and causal role in creative thinking. *Brain*, 147(10), 3409-3423.
+- Bartoli, E. et al. (2024). Default mode network electrophysiological dynamics and causal role in creative thinking. *Brain*, 147(10), 3409-3425.

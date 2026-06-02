@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-18
-ai_modified: 2026-04-24 17:29:00+00:00
+ai_modified: 2026-06-02 07:53:02+00:00
 ai_system: claude-opus-4-7
 author: null
 concepts:
@@ -116,7 +116,7 @@ Musical understanding would cease to support the Map's position if:
 
 1. **Musical qualia proved culturally arbitrary.** If cross-cultural research demonstrated that no phenomenal qualities reliably attend musical structures—that all musical meaning is learned association without intrinsic phenomenal character—the argument from irreducible musical qualia would weaken. Current evidence suggests cultural influence is significant but that some phenomenal responses to musical features (consonance/dissonance, rhythmic entrainment) have cross-cultural stability.
 
-2. **AI systems demonstrated genuine musical understanding.** If a system with no temporal phenomenology—no specious present, no durée—could demonstrably *understand* music rather than merely process it, this would challenge the claim that musical understanding requires temporal consciousness. The difficulty is specifying what would count as genuine understanding versus sophisticated pattern matching.
+2. **AI systems demonstrated genuine musical understanding.** If a system with no temporal phenomenology—no specious present, no durée—could demonstrably *understand* music rather than merely process it, this would challenge the claim that musical understanding requires temporal consciousness. The difficulty is specifying what would count as genuine understanding versus sophisticated pattern matching (see [machine-consciousness](/topics/machine-consciousness/) and the [typology of AI consciousness](/concepts/ai-consciousness-typology/) for the understanding-versus-pattern-matching distinction). Present-day generative-music systems instantiate the structural case this challenge specifies—they process sequential audio without anything the Map would recognise as a specious present—so what they would have to exhibit to satisfy the challenge becomes concrete. The point marks what would have to be true, not a verdict either way on whether such systems have phenomenal experience.
 
 3. **The explanatory gap closed for temporal binding.** If neuroscience explained not just the neural correlates of musical experience but *why* these correlates feel the way they do—why a minor key feels dark rather than bright—the argument from the hard problem would dissolve for this case.
 

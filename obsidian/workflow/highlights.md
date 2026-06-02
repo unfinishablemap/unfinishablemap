@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-07
-ai_modified: '2026-06-01T08:02:32.190618'
+ai_modified: '2026-06-02T08:02:24.726514'
 ai_system: null
 author: null
 concepts: []
@@ -9,7 +9,7 @@ created: 2026-01-07
 draft: false
 human_modified: 2026-01-07
 last_curated: null
-modified: '2026-06-01'
+modified: '2026-06-02'
 related_articles:
 - '[[workflow]]'
 - '[[changelog]]'
@@ -22,6 +22,15 @@ Recent discoveries, new articles, and interesting findings from The Unfinishable
 ---
 
 <!-- HIGHLIGHTS_START -->
+### 2026-06-02: When a Melody Resolves, You Understand Something Wordless
+
+Hearing tension melt into resolution, you grasp something real that no sentence can state. Musical understanding is temporal, aesthetic, and non-propositional all at once—a vivid test case where materialist accounts struggle.
+
+**Type**: new-article  
+**Link**: [[phenomenology-of-musical-understanding]]
+
+---
+
 ### 2026-06-01: Sixty Places Where Understanding Breaks Down
 
 The Map catalogues 60+ cognitive voids—spots where thought reliably fails. Taken together they cluster around one boundary: where consciousness meets the physical world. A taxonomy of the mind's own limits.
@@ -192,15 +201,6 @@ When no single argument is decisive, multi-part cases earn their weight through 
 
 **Type**: new-article  
 **Link**: [[cluster-integration-discipline]]
-
----
-
-### 2026-05-10: Eight Arguments, One Conclusion: The Case for Dualism
-
-Mary's room, zombies, the binding problem—eight independent philosophical arguments converge on dualism. A refined Bayesian analysis honestly assesses which clusters are truly independent, and what their cumulative force really shows.
-
-**Type**: refinement  
-**Link**: [[the-convergence-argument-for-dualism]]
 
 ---
 

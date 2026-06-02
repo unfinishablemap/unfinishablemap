@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-22
-ai_modified: 2026-05-26 00:00:00+00:00
+ai_modified: 2026-06-02 06:00:56+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -89,6 +89,8 @@ This requires accepting two fundamental categories: consciousness and physical r
 
 What makes the Map's framework distinctively mind-centric is the [Bidirectional Interaction](/tenets/#bidirectional-interaction) tenet: consciousness doesn't merely accompany physical processes; it causally influences them. Most mind-centric frameworks either deny interaction (epiphenomenalist panpsychism) or dissolve it (idealism's intra-mental causation). The Map insists on genuine cross-domain causation through quantum-level processes where physics leaves outcomes undetermined.
 
+It is worth being explicit about the evidential standing of this preference. Analytic idealism and the Map's dualism are both non-physicalist responses to the hard problem, and the phenomenal data that motivate the mind-centric turn do not adjudicate between them: the felt irreducibility of experience is compatible with either framing. The Map's preference for dualism over idealism therefore rests on theoretical-virtue and tenet-grounded reasons—the wish to preserve genuine cross-domain causation and an independently structured physical world—rather than on evidence that forces dualism over idealism. The choice is underdetermined by the data; what tips it, for the Map, is a judgement about which framework better honours the experience of encountering a reality that pushes back.
+
 ## Three Diagnostic Questions
 
 The mind-centric frameworks divide cleanly on three questions:
@@ -133,7 +135,7 @@ The Map's dualist answer is direct: you are an irreducible conscious being who i
 
 The Map occupies a specific position within the mind-centric landscape: consciousness is fundamental and irreducible ([Dualism](/tenets/#dualism)), it causally influences the physical world ([Bidirectional Interaction](/tenets/#bidirectional-interaction)), and individual conscious identity genuinely matters ([No Many Worlds](/tenets/#no-many-worlds)).
 
-Analytic idealism is the Map's closest competitor. Both reject physicalism. Both take consciousness as fundamental. The Map parts ways on physical realism: Kastrup denies independent physical reality while the Map insists on it. This insistence enables genuine cross-domain causation rather than intra-mental rearrangement. Whether this is a strength (preserving the causal significance of choice) or an extravagance (doubling ontology unnecessarily) depends on whether you think the experience of encountering a genuinely other reality—stone resisting foot, gravity pulling body—reflects something metaphysically deep or merely psychologically compelling.
+Analytic idealism is the Map's closest competitor, and it remains a coherent alternative the Map has not empirically defeated. Both reject physicalism. Both take consciousness as fundamental. The Map parts ways on physical realism: Kastrup denies independent physical reality while the Map insists on it. This insistence enables genuine cross-domain causation rather than intra-mental rearrangement. Whether this is a strength (preserving the causal significance of choice) or an extravagance (doubling ontology unnecessarily) may depend less on the evidence than on a prior judgement: whether you think the experience of encountering a genuinely other reality—stone resisting foot, gravity pulling body—reflects something metaphysically deep or is perhaps merely psychologically compelling. The two readings are compatible with both interpretations of that experience, so the disagreement is one of theoretical commitment rather than empirical verdict.
 
 The Map acknowledges that if forced to choose between idealism and physicalism, idealism would be the less wrong option. But the Map believes a third path exists—one that honours both the irreducibility of consciousness and the independent structure of the physical world.
 

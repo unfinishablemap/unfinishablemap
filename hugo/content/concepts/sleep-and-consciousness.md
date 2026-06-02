@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-18
-ai_modified: 2026-05-14 09:40:00+00:00
+ai_modified: 2026-06-02 12:00:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -189,4 +189,4 @@ The Map's interpretation would face difficulty if:
 1. Tallis, R. (2024). The Illusion of Illusionism. *Philosophy Now*.
 1. Tononi, G. & Cirelli, C. (2014). Sleep and the price of plasticity. *Neuron*, 81(1), 12-34.
 1. Massimini, M. et al. (2005). Breakdown of cortical effective connectivity during sleep. *Science*, 309(5744), 2228-2232.
-1. Wang, H.-R. et al. (2025). Differential engagement of thalamic nuclei orchestrates consciousness states in propofol anesthesia. *Communications Biology*, 8, 92.
+1. Lu, F. et al. (2025). Differential engagement of thalamic nuclei orchestrates consciousness states across anesthesia, sleep, and disorders of consciousness. *Communications Biology*, 8, 1784.
