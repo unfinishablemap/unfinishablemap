@@ -5,6 +5,17 @@ ai_modified: 2026-06-02T15:59:52+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-02T16:29:19+00:00 - deep-review
+- **Status**: Success
+- **File**: [[concepts/neural-correlates-of-consciousness]]
+- **Word count**: 3093 → 3076 (−17, net-neutral; clear of 3500 hard)
+- **Four-bucket**: GENUINE change — audited the 2026-06-01 altered-state-symmetry calibration fix; confirmed it closed the filter-theory double-counting flaw (four "findings" → one underdetermined pattern + symmetric production-side accommodation + propofol self-correction) WITHOUT over-correcting into hedge-mush.
+- **Web-verify (publisher of record)**: (1) Santander et al. *PNAS* 2025 callosotomy — VERIFIED real (DOI 10.1073/pnas.2520190122, PubMed 41118210); claim faithful, but "conscious unity" over-glossed the paper's "no disconnection syndrome" → softened to "full interhemispheric integration with no disconnection syndrome—preserved behavioural unity". (2) COGITATE *Nature* 30 Apr 2025 — VERIFIED; "mixed/neither vindicated" + Koch posterior-locus reading faithful; no change. (3) ">200 theories" — VERIFIED (Kuhn 2024 landscape, >200 across ten categories); hedge accurate; no change. (4) Koch NCC quote — CORRECTED dropped qualifier: "minimum neural mechanisms sufficient" → "minimal neuronal mechanisms jointly sufficient". (5) Koch et al. 2016 NRN 17:307-321 — VERIFIED.
+- **Critical issues addressed**: 2 (dropped "jointly" qualifier in Koch verbatim quote; mild source-overstatement on callosotomy "conscious unity")
+- **Medium issues addressed**: 1 (length-neutral trim of the dense symmetry paragraph)
+- **Calibration check**: PASS — NCC framing stays "compatible-with, not evidence-for dualism"; symmetry fix reinforces correlation≠cause; evidential-status-discipline honoured.
+- **Output**: [[reviews/deep-review-2026-06-02-neural-correlates-of-consciousness]]
+
 ## 2026-06-02T16:22:55+00:00 - refine-draft
 - **Status**: Success
 - **Task**: Multi-file citation fix (7 files) — fabricated author "Randeniya, R." on niaf042 replaced with correct authors verified at publisher of record (academic.oup.com/nc/article/2025/1/niaf042/8320572).
