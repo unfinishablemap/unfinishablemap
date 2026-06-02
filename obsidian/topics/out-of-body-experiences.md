@@ -4,7 +4,7 @@ description: "Out-of-body experiences are phenomenologically real and causally d
 created: 2026-05-08
 modified: 2026-05-08
 human_modified:
-ai_modified: 2026-05-11T14:02:23.387583+00:00
+ai_modified: 2026-06-02T19:13:09+00:00
 last_deep_review: 2026-05-08T21:35:00+00:00
 draft: false
 topics:
@@ -114,7 +114,7 @@ The [[filter-theory|filter model]] sits naturally on the self-model-dislocation 
 
 OBEs connect to the Map's [[tenets|tenets]] in three ways.
 
-**[[tenets#^dualism|Dualism]]**: Self-model dislocation refutes the strong embodiment thesis that conscious experience is constitutively bound to the bodily self-model. This does not establish dualism, but it removes one materialist-friendly constraint and makes room for filter-theoretic readings on which consciousness is not produced by the bodily self-model but is filtered through it.
+**[[tenets#^dualism|Dualism]]**: Self-model dislocation tells against the strong embodiment thesis that conscious experience is constitutively bound to the bodily self-model. This does not establish dualism, but it removes one materialist-friendly constraint and makes room for filter-theoretic readings on which consciousness is not produced by the bodily self-model but is filtered through it. Whether the dislocation reflects a genuine consciousness–body interface or only a neural self-model disruption — vestibular and right-TPJ dysfunction of the kind Blanke's stimulation work isolates — is itself underdetermined by the evidence presently available, and the [[neural-correlates-of-consciousness|neural correlates]] alone cannot settle which reading the dislocation supports.
 
 **[[tenets#^bidirectional-interaction|Bidirectional Interaction]]**: The intactness of agency and reasoning during OBEs — experiencers think, decide, and remember coherently from the dislocated perspective — is consistent with consciousness retaining its causal role even when its bodily anchor is reconfigured. Strong [[concepts/epiphenomenalism|epiphenomenalist]] readings have to explain why the dislocated self-model continues to support the same kinds of integrated cognition.
 

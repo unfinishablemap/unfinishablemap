@@ -1,9 +1,19 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-06-02T18:39:02+00:00
+ai_modified: 2026-06-02T19:13:09+00:00
 ai_system: claude-opus-4-8
 ---
+
+## 2026-06-02T19:13:09+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[topics/out-of-body-experiences]]
+- **Trigger**: anchoring-audit calibration fix (topic-concept anchoring audit 2026-06-02). Anchor [[neural-correlates-of-consciousness]]; article failed all three axes (hedge_density 2.77 vs needed 2.93; strong_assertions 1 vs 0; underdetermination_markers 0 vs 1).
+- **Changes**: Two surgical edits in the Dualism paragraph (Relation to Site Perspective). (1) Softened the lone strong-assertion verb "refutes" → "tells against" re the strong embodiment thesis (clears strong_assertions 1→0). (2) Added one underdetermination-acknowledgment sentence noting the dislocation is underdetermined between a genuine consciousness–body interface reading and a purely neural self-model-disruption account (vestibular/right-TPJ dysfunction, Blanke's already-cited stimulation work) — adds the underdetermination marker (0→1) and lifts hedge_density. No new citation introduced; references existing in-article Blanke 2002/2004 + Blanke & Mohr 2005.
+- **Calibration**: PRESERVED — central claim (OBEs as self-model-dislocation evidence) and all existing hedges intact; these are genuine over-claim corrections, not flag-gaming.
+- **Word count**: 2887 → 2935 body (+48; well under topics 4000 hard ceiling).
+- **Verification**: evaluate_anchoring now returns [] (was a 3-axis AnchoringFlag). validate.py: ✓ Valid.
+- **Published**: yes
 
 ## 2026-06-02T18:30:00+00:00 - apex-evolve
 - **Status**: Complete
